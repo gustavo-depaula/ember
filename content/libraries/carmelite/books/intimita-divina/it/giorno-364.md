@@ -1,109 +1,29 @@
-## 364 — FESTA DI CRISTO RE
-*ultima domenica di ottobre*
+## 42 — AMORE ARDITO ED IMPAZIENTE
 
-### Presenza di Dio
-
-O Gesù, Principe dei secoli, Re delle genti, sii l'unico Re della mia mente e del mio cuore.
+**Presenza di Dio.** — *Dio mio, il tuo amore mi renda ardito nel cercarti ed impaziente di possederti.*
 
 ### Meditazione
 
-lebrante la Regalità di Cristo. Fin dai primi Vespri della
-festa, la figura di Gesù si profila maestosa, assisa sul trono regale che domina tutto il mondo: «Il suo regno è un
-regno sempiterno e tutti i re lo serviranno e obbediranno. Egli siederà e dominerà e annunzierà la pace alle genti», La Messa si inizia con la visione apocalittica di questo Re singolare la cui regalità è intimamente legata alla
-sua immolazione per la salvezza degli uomini: «Degno
-[è] l'agnello, che è stato sgozzato, di ricevere la potenza
-e la ricchezza e la sapienza e la forza e l'onore, A lui la
-gloria e la potenza per i secoli dei secoli » (Intr.).. dine:
+**1** — L'anima sottoposta dallo Spirito Santo alla purificazione interiore, benché profondamente consapevole della sua miseria ed indegnità, ha nondimeno tanto «coraggio e ardire di aspirare all'unione divina» *(G.C. N. II,* 13, 9). Donde le viene tanta audacia? Dall'amore che va sempre più aumentando in lei; infatti, «è proprio dell'amore che l'amante si voglia unire, uguagliare e rendere simile alla cosa amata» *(ivi),* perciò, quanto più l'amore cresce nell'anima tanto più essa anela all'unione con Dio. Anche se il suo amore non è ancora perfetto, perché non l'ha ancora condotta all'unione, tuttavia è sincero e, «mediante le forze che le ha già infuso nella volontà, [l'anima] sente fame e sete di ciò che le manca, cioè dell'unione a cui l'amore tende» *(ivi).* Del resto, come potrebbe non aspirare all'unione con Dio l'anima che ha intuito qualche cosa della sua bellezza infinita e del suo amore immenso? Quella stessa luce divina che le scopre l'abisso del suo nulla e del nulla delle creature, l'illumina, per contrasto, sull'infinita superiorità di Dio, sì che essa ne resta presa e cattivata, mentre Dio stesso, a misura che la purifica, l'attira a sé infondendole nuovo amore.
 
-Nell'Epistola (Col. 1, 12-20) S. Paolo enumera i titoli
-che fanno di Cristo il Re di tutti i re. «Egli è immagine dell'invisibile Dio, il primogenito d'ogni creazione,
-giacchè in lui furon create tutte le cose nei cieli e sulla
-terra, le cose visibili e le invisibili ». Questi titoli appartengono a Cristo in quanto Dio, immagine perfetta del
-Padre, causa esemplare di tutte le creature terrestri e celesti e, nello stesso, tempo, creatore, assieme al Padre ed
-allo Spirito Santo, di tutto ciò che esiste, sì che nulla è
-senza di lui, ma «tutto per mezzo di lui e in vista di lui
-fu creato... e il tutto in lui sussiste », Seguono i titoli della sua regalità in quanto Uomo: «è il Capo del corpo,
-ossia della Chiesa... Per lui furono riconeiliate a Dio tutte
-le cose, avendole pacificate per il Sangue della croce di
-lui». Egli, già nostro Re a motivo della sua Divinità,
-lo è anche a motivo della sua Incarnazione che lo ha
-costituito Capo dell'umanità, lo è anche a motivo della
+Umile, quindi, per la sua indegnità che ben conosce, ma ardita per l'amore che cresce in lei e per l'invito che Dio stesso le rivolge attirandola segretamente a sé, l'anima osa aspirare a questo bene supremo che è l'unione divina. È umile nel suo audace desiderio perché sa di non meritare tanto dono, ma è ardita perché intuisce che Dio stesso vuole farglielo, è ardita perché è tanta la sua fame e la sua sete di Dio che non può vivere lontana da lui. «Che cosa — esclama S. Bernardo — non potrebbe fiduciosamente osare con Colui dal quale sa di portare in sé la nobile immagine e la luminosa somiglianza?». L'amore di Dio l'ha prevenuta, volendola rendere simile a sé per creazione e per grazia; questa divina somiglianza naturale e soprannaturale esprime appunto il desiderio di Dio di unirla a sé, e nello stesso tempo costituisce la base per tale unione. Dio, che ha posto questa base, vuole certamente condurre a termine l'opera, e per farlo non attende altro che l'anima assecondi la sua azione, lasciandosi purificare, lasciandosi spogliare di sé e rivestire completamente di vita divina.
 
-sua Passione, mediante la quale ha riconquistato le anime nostre, che già gli appartenevano come sue creature,
-a prezzo del suo Sangue. Gesù è nostro Re nel senso
-più ampio della parola: ci ha creato, ci ha redento, ci
-vivifica con la sua grazia, ci nutre con la sua Carne e
-col suo Sangue, ci governa col suo amore e mediante
-l'amore ci attira a sè. Dinanzi a tali considerazioni spontaneamente sgorga dal nostro cuore il grido di S. Paolo: «Rendiamo grazia a Dio Padre... che ci ha sottratti
-all'impero delle tenebre e ci ha trasportati nel regno del
-Figlio dell'amor suo, in cui abbiamo la redenzione, la
-remissione dei peccati ».
+**2** — L'anima affamata ed assetata di Dio lo va cercando senza posa, «perché nelle tenebre in cui giace le pare di esserne priva, e muore dal desiderio di lui» *(G.C. N. II,* 13, 8). L'amore la rende impaziente di trovare il Signore e difatti lo cerca con grande sollecitudine, simile alla Maddalena che, dopo la morte di Gesù, non si dà pace, si alza di buon mattino, corre al sepolcro e, non trovandovi più il sacro Corpo, si pone a ricercarlo, interrogando tutti quelli che incontra. «Mi leverò — dice la sposa del Cantico dei Cantici — e andrò attorno per la città: per le vie e per le piazze cercherò l'amato dell'anima mia» (3, 2). È l'atteggiamento dell'anima che non si rassegna, che non si dà per vinta, ma che a tutti i costi vuol trovare quel Dio che ama più di se stessa.
 
-— Nel Vangelo odierno (Gv. 18, 33-37) abbiamo
-la più autorevole proclamazione della Regalità di Cristo,
-poichè ci viene dalle sue stesse labbra e in un momento
+In questo stato, dice S. Giovanni della Croce, «l'anima è così sollecita che in tutte le cose cerca l'Amato: in tutto ciò che pensa, subito corre col pensiero all'Amato; in tutto ciò che dice, in tutti gli affari che le capitano, subito parla e tratta dell'Amato; sia che mangi, sia che dorma, o voglia, o faccia qualunque altra cosa, tutta la sua sollecitudine è riposta nell'Amato» *(N. II,* 19, 2).
 
-uanto mai solenne, nel processo che precede la sua Passione. Pilato lo interroga proprio su questo argomento:
-«Sei Tu il re dei guidei? » A questa prima domanda Gesù non risponde direttamente, Egli infatti non è re di un
-determinato popolo e il suo regno non ha nulla a che fare con i regni della terra. Ma alla seconda domanda più
-esatta della prima: «Sei tu dunque re? », risponde senza
-reticenze: « Tu lo dici che io sono re», Gesù dichiara
-la sua regalità nel modo più formale, davanti alla più alta autorità civile della Palestina e la dichiara non in mezzo ad un popolo plaudente, non nel trionfo dei suoi miracoli, ma legato in catene, davanti a colui che sta per
-condannarlo a morte, di fronte ad un popolo avido del
-suo Aa pochi istanti prima di essere trascinato al Calvario, dove, dall'alto della croce, sopra il suo capo coronato di spine, apparirà per la prima volta il titolo della
-sua regalità: « Gesù il Nazareno Re dei giudei » (Gv. 19,
-19). Egli, che era fuggito quando le folle entusiaste volevano farlo loro re, si proclama re in mezzo alle umiliazioni inaudite della Passione, affermando così nel modo
-più chiaro che il suo regno non è di questo mondo, che
+Oh, se anche tu fossi così sollecito nella ricerca del tuo Dio! Anche tu, fin dall'eternità, sei stato prevenuto dal suo amore; anche tu, creato a sua immagine e somiglianza, anche tu, rivestito di vita divina, sei da Dio invitato all'unione con lui. Perché, dunque, te ne vai per il mondo in cerca non di Dio, ma di te stesso, sollecito non del suo amore, ma dell'amore delle creature? Non c'è forse in te maggior ansia e premura per le povere cose di quaggiù che per le cose celesti, che per Iddio?
 
-la sua regalità è talmente sublime che nessun vituperio,
-nessun oltraggio può offuscarla. Ma con questo gesto Gesù ci dice anche che Egli ama far risplendere la sua regalità molto più sotto l'aspetto di conquista realizzata a
-prezzo del suo Sangue, che sotto l'aspetto di un titolo
-che pi appartiene in forza della sua natura divina,
-
-questo Re divino che si presenta a noi in un aspetto così umano, così amante, così accogliente, a questo Re
-divino che stende le braccia sulla croce per invitarci tutti a lui, che ci mostra la ferita del costato come simbolo
-del suo amore, dobbiamo andare incontro con tutto lo
-slancio dell'anima nostra. Non solo non vogliamo sfuggire il suo impero, ma lo invochiamo, lo so) lecitiamo, affinchè Egli abbia il primato nella nostra mente, nel nostro cuore, abbia il pieno dominio sulla nostra volontà;
-noi con tutte le cose nostre vogliamo sottometterci «al
-suo soavissimo impero » (Colletta).
+Oh, quanto hai ancora bisogno di distacco, di rinuncia, di purificazione! Non resistere agli inviti divini; spalanca il tuo cuore all'azione purificatrice dello Spirito Santo, perché lui solo può finalmente districarti da tutte le cure e sollecitudini terrene. Se sarai attento e fedele a seguire le ispirazioni del celeste Paraclito, Egli te ne invierà delle nuove, più sottili e delicate, che ti condurranno a lasciare sempre più da parte tutte le vanità della terra per cercare ed amare Dio solo.
 
 ### Colloquio
 
-« Tu sei Re, 0 mio Dio, Re eterno ed immenso e d'un
-regno non certo avuto ad imprestito. Quando recito nel
-Credo che il tuo regno non avrà fine, trasalisco di gioia.
-Sì, il tuo regno sarà eterno ed io ti lodo e ti benedico »
-(T.G. Cam. 22, 1).
+«O Signore, vita e fortezza mia, una delle più grandi e divine misericordie che mi hai fatto è quella di degnarti che una creatura tua, ingrata e piena di peccati, come sono io, sia invitata da te ad amare la tua Maestà, alla cui presenza si coprono il viso i Serafini del cielo, vinti dallo splendore della divinità e dall'incendio del tuo amore. Mi sento onorata da tanta liberalità e, nello stesso tempo, stimolato ad amarti per ricambiare il tuo amore e il desiderio che hai di unirmi al tuo cuore, dolce nido al quale bramo di volare per trovare riposo.
 
-«O Re divino, amabilissimo Gesù, mio Redentore,
-mio Salvatore, mio Sposo, mio Maestro e modello, io ti
-rinnovo oggi la totale consacrazione del mio essere, supFICO i prendere assoluto dominio di me stessa. Sii
+«Attendendo gli altri a cure e pretensioni terrene, io attenderò a te solo e mi farò importuno per impetrare il tuo amore. Non so, né posso domandare altro non son te: ti amo e ti cerco; amerò e cercherò sempre il tuo volto, affinché mi attiri e mi avvinca con la sua divina bellezza.
 
-u il mio sovrano, il mio dominatore, la mia guida e dirigimi e governami interamente, sicchè tutto sia rivolto
-alla tua maggior gloria. Sii 'Tu il sovrano della mia memoria, del mio intelletto, della mia volontà, della mia sen:
-sibilità che voglio assoggettare completamente a te, invitandoti a regnare in me.
+«O Signore amabilissimo, non mi scacciare da te! Sempre sei stato liberalissimo e hai fatto altissime misericordie anche a quelli che non te le domandavano; non usare, dunque, rigore con me che invoco di cuore la bontà e la dolcezza dell'amor tuo.
 
-«Il tuo regno è regno di verità, di amore, di giustizia e di pace,
+«Piacesse al tenerissimo tuo cuore, o Figlio dell'Altissimo, di accettarmi al tuo servizio e tenermi fra i mercenari di casa tua, che patiscono, lavorano e portano il peso del giorno e non vogliono altra mercede se non te.
 
-«Fa' che il tuo regno di verità si stabilisca nel mio
-intelletto distruggendo ogni errori inganno od illusione;
-illuminami con la tua sapienza divina.
-
-«Fa' che il tuo regno d'amore si stabilisca totalmente
-nella mia volontà e la muova, la sproni, la diriga sempre,
-si che jo non sia più mossa dall'amor proprio, o dalle
-creature, ma unicamente dal tuo Spirito; rendi forte, ge
-nerosa, costante questa mia volontà fiacca, gretta e restia,
-fissala nel bene e fa' che s'irrobustisca nell'esercizio perse»
-verante delle virtù, corroborandola coi doni del tuo Spirito.
-
-« Fa' che il tuo regno di giustizia si stabilisca in tutte
-le mie operazioni in modo che tutte le mie azioni portino questa caratteristica e siano opere sante, compiute con
-purezza d'intenzione e con la maggior fedeltà per darti
-gusto, nella linea della tua santa volontà.
-
-«Fa' che il tuo regno di pace si stabilisca, oltre che
-nell'anima mia, anche nella mia sensibilità, in modo che,
-armonizzata con la parte superiore, concorra anch'essa a
-darti gloria e non mi ritardi 0 mi ostacoli l'unione con
-te » (Sr. Carmela d. Spirito S., o.c.d.).
+«Ma il mio desiderio va oltre, poiché sospiro di unirmi a te con vincolo indissolubile. O Bellezza piena di maestà, che rubi i cuori con infinita forza e li configuri a te, realizza in me, ti supplico, questa configurazione, affinché io non viva più in me, ma in te, e la dolcissima legge della grazia tua e la forza del tuo amore dirigano tutti i miei pensieri, tutte le mie parole ed opere» (Ven. Giovanni di G. M., o.c.d.).

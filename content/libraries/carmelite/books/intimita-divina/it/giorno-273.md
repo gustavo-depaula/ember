@@ -1,103 +1,25 @@
-## 273 — GIUSTIZIA E RELIGIONE
+## XII — LA CARITÀ SI ACCOMODA A TUTTO
 
-### Presenza di Dio
-
-— O Signore, la tua santa grazia mi aiuti a renderti tutto l’ossequio di cui sono capace.
+**Presenza di Dio.** — *O Dio, che ti adatti alla mia miseria fino a farti uomo come me, insegnami ad adattarmi ai miei fratelli.*
 
 ### Meditazione
 
-1. — La ggiustizia ci porta a rendere a ciascuno quanto
-gli è dovuto. Ma quando si tratta di Dio è evidente che non
-potremo mai riuscire a rendergli quanto gli dobbiamo, a ricambiare in modo sufficiente i suoi doni, a prestargli quel
-culto e quell'ossequio che spetta alla sua Maestà infinita.
-Mentre riguardo agli obblighi che abbiamo verso il prossimo
-possiamo raggiungere la misura voluta dalla ggiustizia, non lo
+**1** — La carità non è rigida nelle sue posizioni, non attende e non pretende che gli altri si adattino a lei, ma è sempre pronta ad adattarsi al prossimo. Dio si è adattato a noi fino a farsi uomo e noi non sappiamo scendere dal piccolo piedestallo della nostra personalità per adattarci alla mentalità, ai gusti, ai bisogni dei nostri fratelli. E ci scusiamo: «sbagliano, sono rozzi, ingrati, non comprendono certe esigenze, certe delicatezze...». Come c'inganniamo! Come siamo piccini nelle nostre sciocche esigenze! Guardiamo a lui, al Figlio di Dio, al Verbo eterno che non ha disdegnato di mettersi al nostro livello fino a rivestire la nostra carne mortale, a vivere la nostra vita umana, a convivere in mezzo a noi. Nella sua vita terrena ha scelto per compagni non persone intellettuali, di educazione raffinata, ma pescatori ignoranti della mentalità rozza, dai gusti semplici che ben poco conoscevano le finezze del pensiero e del galateo, ed ha vissuto con loro, adattandosi a loro con tutta naturalezza, senza alcuna distinzione fuorché quella di una carità senza limiti.
 
-potremo mai circa gli obblighi verso Dio. Per quanto l’uomo
+Evidentemente non possiamo adattarci al prossimo, accondiscendere ai suoi desideri quando, anche per poco, ne va di mezzo l'onore di Dio e l'osservanza della sua legge; in questi casi la condiscendenza sarebbe debolezza colpevole. Ma vi sono molti altri casi in cui si tratta solo di rinunciare all'affermazione della nostra personalità, del nostro modo di vedere, dei nostri gusti per far luogo alla mentalità ed ai gusti altrui; allora la condiscendenza è virtù soda e, lungi dall'essere debolezza, è una bella prova di forza morale, di quella forza che sa vincere e rinnegare l'io per amore di Dio.
 
-faccia, rimarrà sempre immensamente al di sotto di quello
-che la ggiustizia esige. Perciò la ggiustizia verso Dio si risolve
-in un bisogno impellente di darsi a lui senza risparmio, senza riserva, senza misura, senza calcolo. In altre parole, la ggiustizia verso Dio ci spinge al dono totale di noi stessi, per rendergli almeno tutto quell’ossequio di cui Egli, con la sua
-grazia, ci ha reso capaci.
+Non è possibile carità duratura, concordia perfetta senza questa pieghevolezza che ci rende capaci di adattarci agli altri. Solo quando saremo ben decisi a passar sopra a tutte le differenze di temperamento, di mentalità, di educazione, di gusti ed a cedere i nostri punti di vista per accomodarci a quelli del prossimo, la partita della carità fraterna potrà dirsi vinta.
 
-Proprio perchè la nostra ggiustizia è insufficiente, ecco che
-dobbiamo rifugiarci in Gesù «il quale è stato fatto per noi
+**2** — Nel Vangelo troviamo bellissime lezioni di condiscendenza: «A chi vuol chiamarti in giudizio per toglierti la tunica, cedigli anche il mantello; e chi ti vuole obbligare a fare un miglio con lui, fanne due. Dà a chi ti domanda e non voltar le spalle a chi ti chiede un prestito» *(Mt.* 5, 40-42). Il Maestro divino ci spinge decisamente alla longanimità, alla dolcezza, alla rinuncia dei nostri diritti, affinché ci mettiamo umilmente a servizio del prossimo, ci sacrifichiamo per lui, per il suo vantaggio, per la sua gioia. Anziché altercare o discutere per resistere al fratello importuno ed averla vinta, Gesù c'insegna a cedere sempre, anche di fronte a certe richieste indiscrete. S. Teresa del B. G. così commenta questo brano evangelico: «Cedere il mantello equivale, mi sembra, a rinunciare ai propri estremi diritti, considerarsi come serva e schiava degli altri. Ma non basta che dia a chi mi chiede, devo prevenire i desideri e mostrarmi molto obbligata ed onorata di prendere servizio al prossimo; se mi vien tolta una cosa a mio uso, devo mostrarmi felicissima di essere liberata» *(St.* 9). Tuttavia la Santa non si fa illusioni: sa molto bene, soprattutto quando un servizio, un piacere, un oggetto ci viene chiesto con garbo, con tono di pretesa e di comando, l'amor proprio è subito pronto a risentirsi e a protestare: «l'anima che ancora non è stabilita nella carità perfetta, subito si rivolta trovando allora mille ragioni per rifiutare ciò che le viene richiesto» *(ivi)*. Ma chi vuol giungere alla carità piena non cede a queste ribellioni interne e, facendo violenza a se stesso, si mette gentilmente a disposizione del prossimo.
 
-giustizia » (I Cor. 1, 30) non solo nel senso che ci ha giustificati dal peccato, ma anche nel senso che è venuto sulla terra per rendere al Padre, a nome di tutta l'umanità, un culto
-degno di lui. In Gesù dunque, nelle sue piaghe, nel suo
-Sangue ana dobbiamo cercare tutto quel che serve
-per supplire alla nostra insufficienza, per soddisfare i nostri
-debiti verso Dio e lo troveremo in sovrabbondanza. Pur consacrandoci totalmente al servizio e al culto del Signore, siamo
-
-
-sempre servi inutili, siamo sempre dei grandi debitori, ma
-questa posizione, anzichè avvilirci, ci deve essere di sprone
-per non arrestarci mai nella nostra dedizione a Dio e nello
-stesso tempo deve spingerci a ricorrere con immensa confidenza a Gesù, nostro Salvatore e Mediatore.
-
-
-2. — La virtù della religione è quella che c'inclina a prestare a Dio l'omaggio ed il culto dovuto; in questo senso si
-riallaccia alla virtù della ggiustizia di cui, tuttavia, non può
-realizzare appieno le esigenze, ma alla quale cerca di avvicinarsi il più possibile. La nostra religione diventa capace
-di onorare Dio in modo degno di lui solo in quanto partecipa
-della religione di Cristo, ossia in quanto si associa agli omaggi, alle adorazioni, alle lodi, alle offerte che dal Cuore di lui
-s'innalzano al Padre celeste. Gesù è stato il religioso per eccellenza nel senso che tutti i suoi affetti, la sua attività, la
-sua volontà sono stati orientati alla gloria del Padre e al suo
-servizio, sì che la sua vita intera fu un continuo atto di culto,
-di religione. « Non sapete che io devo attendere a ciò che riguarda il Padre mio? » (Lc. 2, 49); ecco l'atteggiamento fondamentale del suo spirito. Gesù, che nel segreto del cuore adora incessantemente la Trinità, che tanto spesso esprimeva anche
-all’esterno la sua preghiera innalzando gli occhi al cielo ed invocando il Padre, che passa la buona parte della notte in colloquio solitario con lui, che si reca puntualmente al tempio di
-
-Gerusalemme per tutti gli atti di culto esterno prescritti dalla
-legge, che muore sulla croce per offrire alla Trinità un sacrificio degno di lei, ci dice in che cosa consiste la vera virtù
-della religione. Anzitutto è culto interno perchè « Dio è spirito, e quelli che l’adorano lo devono adorare in spirito e
-verità » (Gv. 4, 24), ma è anche culto esterno perchè tutto
-il nostro essere, e quindi anche il nostro corpo, deve prendere
-parte agli omaggi che dobbiamo rendere a Dio.
-
-I religiosi, che per mezzo dei voti si consacrano totalmente
-al servizio di Dio, realizzano al massimo la virtù della religione, a condizione però che vivano i loro impegni «in spi-
-
-rito e verità ». Ma anche chi non è legato dai voti deve cercare, in tutte le sue azioni, di avere sempre di mira la gloria,
-l'onore, il servizio di Dio, quindi deve compierle in modo che
-no essere presentate a lui come atti di omaggio, di of-
-
-rta, di sacrificio. Così la virtù della religione, anzichè riguardare solo le ore di preghiera, viene ad ‘abbracciare tutta
-È nostra vita trasformandola, a imitazione di quella di Gesù
-e in unione ad essa, in un continuo atto di ossequio a Dio.
+Se di fronte alle richieste altrui rispondiamo con frequenti rifiuti, vuol dire che la nostra carità è ancora molto fiacca, né dobbiamo essere facili a rifugiarci nelle scuse: «non ho tempo...; sono pretese ingiuste...; deve imparare a fare da sé» e simili. E' però vero che in certi casi, o per non venir meno al proprio dovere, per impossibilità reale, si è costretti a rispondere con un diniego; ma anche in questi casi la carità deve farci evitare tutti quei modi scortesi che mortificano e umiliano. «Quando la carità ha messo profonde radici in un'anima, si manifesta anche all'esterno e vi è un modo così cortese di negare quello che non si può dare, che il rifiuto fa piacere quanto il dono medesimo» *(ivi)*.
 
 ### Colloquio
 
-« Che ti renderò, o Signore, in cambio di tutti i tuoi doni?
-La ragione e la spina naturale esigono che io mi dia interamente a te, da cui ho ricevuto tutto ciò che sono e m'ingiungono di amarti con tutte le mie forze. Ma la fede m'insegna che devo amarti ancora di più, quanto più i tuoi doni
-superano me stesso: infatti Tu mi hai dato non solamente
-l’essere mio, ma anche, per grazia, l'essere tuo.
+«Non posso, Dio mio, non amare le tue creature, perché Tu stesso me l'hai comandato. Tuo sei amore e per amore sei stato mosso a creare l'uomo, affinché anch'egli partecipassse del tuo amore; noi tutti, dunque, siamo stati creati per amore, d'amore e con amore, affinché godiamo di te, o Dio, che sei amore. Come farò dunque a non amare?
 
-«Se già a motivo della creazione devo darmi interamente
-a te, che cosa aggiungerò in cambio della mia redenzione?
-Nella creazione mi hai dato me stesso, nella redenzione ti
-sei dato a me e, dandoti, mi hai reso a me stesso. Dato e
-reso, io mi devo a te in cambio di me, e mi devo due volte.
-Ma che cosa ti potrò dare, o Dio, in cambio di te stesso? Anche se mi potessi dare a te mille volte, che cosa sono io in
-tuo confronto?
+«Dimmi, ti prego, o mio Cristo, in che modo devo amare questo mio prossimo. Tu mi mostri un termine assai alto, ossia m'insegni ad amarlo come Tu stesso l'hai amato. Per le creature umane Tu hai lasciato, almeno in apparenza, il seno del Padre; hai lasciato, o meglio, hai nascosto la tua potenza, sapienza e purezza infinita per poter conversare con l'impurità delle creature. Ed io pure per i miei prossimi devo lasciare me stessa e l'amore di tutte le cose create ed essere pronta, quando fosse necessario per la loro salute, a dare il mio sangue.
 
-« Ti amerò, o Signore, amerò Te che sei la mia forza, il
-mio appoggio, il mio rifugio, il mio liberatore. ‘Ti amerò per
-i tuoi doni e secondo la mia misura, la quale sarà certamente
-al di sotto della misura giusta, ma non sarà inferiore alla mia
-capacità di amarti. Senza dubbio saprò amarti maggiormente
-quando Tu ti degnerai di darmi maggior amore e tuttavia
-non ti amerò mai quanto meriti. I tuoi occhi hanno visto
-la mia imperfezione, ma nel tuo libro saranno scritti quelli
-che fanno tutto ciò che possono, anche se non possono fare
-tutto ciò che devono» (S. Bernardo).
+«O carità, quanto sei bella e grata a Dio! Tu fai come il dolce pellicano, che dà il proprio sangue non solo per i figlioli, ma ancora per i nemici. E veramente colui che ti possiede non reputa nessuno per nemico, ma tiene tutti per carissimi amici e darebbe anche la vita per l'anima del prossimo, quando ve ne fosse il bisogno.
 
-« T’invoco, o Padre onnipotente, per la carità dell’onni-
-
-potente tuo Figlio, nè so quale altro intercessore potrei trovare se non questo, che s'è fatto pena pei nostri peccati. Ti prego per lui, Sommo Sacerdote, vero Pontefice e
-buon Pastore, il quale offerse se stesso in sacrificio, donando
-la sua vita pel suo gregge; ti prego per lui, che siede alla
-tua destra ed intercede per noi, affinchè Tu mi dia grazia
-di benedirti e glorificarti unitamente a lui con molta comprezione di cuore, con molte lacrime, con molta riverenza.
-
-Ecco il mio avvocato presso di te, Dio Padre; ecco l'Ostia santa a te gradita, perfetta, offerta in odore di soavità e da te
-accettata » (S. Agostino).
+«O amore del prossimo da tanti poco conosciuto! Tu, o Dio, che sei scrutatore dei cuori, conosci l'amore e l'odio e noi invece diciamo di amare il prossimo quando l'offendiamo. Oh, quanto sono differenti i tuoi giudizi dai nostri! Tu m'insegni che per amore del prossimo devo saper rinunciare alle mie comodità, devo inclinare le orecchie ai piccoli, ai poveri, ai bisognosi nell'anima e nel corpo, devo rispondere loro pacificamente e con mansuetudine» (S. M. Maddalena de' Pazzi).

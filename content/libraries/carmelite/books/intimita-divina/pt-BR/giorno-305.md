@@ -1,41 +1,39 @@
-## 305 — O DOM DA INTELIGÊNCIA
+## 305 — O PROGRESSO ESPIRITUAL
 
 ### Presença de Deus
 
-Vem, Espírito de inteligência, ilumina-me!
+Ó Senhor, concede-me progredir cada dia no caminho da santidade, sem jamais cansar-me e sem jamais voltar atrás.
 
 ### Meditação
 
-1. — Em nosso caminho para Deus encontramos dificuldades não só da parte das criaturas, que tentam impedir-nos o passo, mas também por causa da impenetrabilidade dos mistérios divinos; e, como, para fazer-nos superar as primeiras, o Espírito Santo nos vem em socorro com o dom da ciência, assim, para fazer-nos superar as segundas, vem em auxílio com o dom da inteligência.
+1. — «Sede santos, porque eu sou santo» (Lv. 19, 2): esta é a vontade de Deus, esta é nossa vocação, este é o objeto de nossos desejos e de nossos esforços. Criados à semelhança de Deus, não queremos que sua imagem em nós fique ofuscada pelos defeitos e pelas paixões, mas queremos que resplandeça límpida e pura, refletindo o mais possível sua santidade.
 
-Nossa inteligência é incapaz de apreender o infinito; embora investida pela fé, seu modo de entender é sempre modo humano, que procede por meio de ideias e conceitos limitados, absolutamente insuficientes para exprimir as realidades divinas. A própria Revelação chega a nós por meio de palavras humanas e, portanto, não pode manifestar o que Deus é em si mesmo, não pode manifestar-nos a íntima essência das verdades reveladas.
+Para tornar-nos semelhantes a si, Deus infundiu em nossa alma, juntamente com a graça, as virtudes teologais e morais, que têm justamente o fim de reproduzir em nós algo de suas perfeições infinitas; e ele, que como Pai ama reencontrar nos filhos os traços de sua semelhança, deseja sumamente ver-nos crescer nas virtudes.
 
-Procedendo unicamente com a virtude da fé, somos constrangidos a deter-nos, por assim dizer, na superfície dos mistérios divinos: sabemos com segurança que nos foram revelados por Deus, aderimos a eles com todas as nossas forças e, no entanto, não conseguimos penetrá-los. Mas o que a fé não pode fazer sozinha, o fará com a ajuda do dom da inteligência.
+«A alma — diz São João da Cruz — não pode exercitar e adquirir as virtudes sozinha, sem a ajuda de Deus; e tampouco Deus as insere e as faz crescer na alma sem ela» (Cântico, adaptado). De fato, embora no batismo Deus tenha infundido em nós as virtudes sem qualquer mérito nosso, não as faz crescer sem nossa colaboração; cabe a nós — sempre socorridos pela graça — pôr em exercício os princípios virtuosos que ele nos deu. Só assim adquiriremos os bons hábitos e realizaremos com facilidade os atos de virtude.
 
-Este dom ultrapassa nosso modo humano de entender e ilumina-nos de modo divino; faz-nos *intus legere*, isto é, «ler por dentro» os mistérios divinos com a luz, com a inteligência mesma do Espírito Santo.
+Portanto, se queremos secundar a ação de Deus que quer tornar-nos semelhantes a si, devemos aplicar-nos com grande empenho ao exercício das virtudes. Aplicar-nos-emos antes de tudo àquela virtude que reconhecemos como mais necessária para corrigir nossos defeitos e vencer nossa paixão dominante; faremos dela objeto particular de nossos propósitos, de nossos exames de consciência e de nossas prestações de contas ao diretor espiritual.
 
-É uma penetração rápida, profunda, que nada acrescenta de novo aos dados da Revelação, mas nos faz entender o íntimo sentido das verdades reveladas; o dom da inteligência rasga, por assim dizer, o invólucro das proposições e dos conceitos humanos e nos permite lançar um olhar na substância dos mistérios divinos. A fé nos diz que Deus é Trindade; o dom da inteligência não nos diz nada mais, não nos faz ver nem explica tal mistério, mas nos faz penetrar nele.
+Não devemos pensar que esse exercício seja reservado aos principiantes, porque «a obrigação de progredir no amor de Deus — e, portanto, também em todas as outras virtudes — dura até a morte» (São Francisco de Sales). Ninguém, por mais adiantado nos caminhos do espírito, pode considerar-se dispensado do exercício das virtudes.
 
-Sob o influxo deste dom a alma não só crê que Deus é Uno e Trino, mas intui que o mistério trinitário é essencial à natureza divina e é aquele que, mais que todos os outros, revela a perfeição, o poder e o amor infinito de Deus.
+2. — Santa Teresa de Jesus, ao descrever as alturas da vida de união com Deus, faz contínuas digressões para recomendar vivamente o exercício das virtudes. «É necessário — escreve às suas filhas — que procureis não fazer consistir o vosso fundamento somente em rezar e contemplar, porque, se não procurardes adquirir as virtudes e não as exercitardes, permanecereis sempre anãs» (Moradas VII, 4, 9); e noutro lugar diz expressamente que, mediante as virtudes, «poderão progredir muito no serviço de Deus mesmo sem ser grandes contemplativas, enquanto sem elas nenhuma poderá fazê-lo» (Caminho 4, 3).
 
-2. — Só o Espírito Santo, que é Deus, pode fazer-nos penetrar os mistérios divinos; São Paulo o diz expressamente: «O que olho não viu nem ouvido ouviu... Deus no-lo revelou pelo seu Espírito, porque o Espírito perscruta todas as coisas, até as profundezas de Deus... as coisas divinas ninguém as conhece, senão o Espírito de Deus. E nós recebemos não o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos as coisas que Deus nos concedeu» (1Cor. 2, 9-12).
+Que Deus nos conduza ou não pela via da alta contemplação, isso não é essencial para nos fazer santos e, além disso, não depende da nossa vontade; mas o essencial, ao contrário — e isto depende de nós — é sempre a prática da virtude. Quer Deus nos queira na vida de família ou dedicados ao exercício de uma profissão, quer nos chame ao apostolado ou à vida contemplativa, em todo caso nos faremos santos somente na medida em que formos virtuosos.
 
-Esta é a maravilhosa ação que o Espírito Santo realiza em nós mediante o dom da inteligência. Às almas que lhe estão unidas pelo amor, Ele comunica uma participação de seu conhecimento dos mistérios divinos. Por isso é claro que, quanto mais estivermos unidos ao Espírito Santo com caridade perfeita, tanto mais aptos estaremos para receber esta preciosa comunicação.
+Quanto mais nos aplicamos a exercitar as virtudes, tanto mais sua prática nos ficará fácil e quase connatural; mas para chegar a essa facilidade, característica da virtude madura, devemos ter coragem de perseverar longamente na luta contra nossos defeitos e no esforço para adquirir os hábitos contrários. Contudo, nunca chegaremos à virtude perfeita, e muito menos à heroica, sem o socorro dos dons do Espírito Santo, cujo ofício é justamente aperfeiçoar as virtudes.
 
-Então o dom da inteligência não estará em nós inoperante, mas intervirá com sua luz para iluminar nossos estudos e meditações das coisas de Deus, fazendo-nos penetrar em sua profundidade, fazer-nos colher o íntimo sentido dos textos sagrados, dar-nos a exata inteligência dos mandamentos e conselhos divinos.
-
-Justamente assim o Espírito Santo introduz a alma numa oração mais simples e profunda: a mente já não tem necessidade de raciocinar, de ir em busca de motivos convincentes, mas, sob o toque iluminante do Espírito Santo, detém-se e fixa o olhar na verdade. Este simples olhar contemplativo lhe revela Deus mais que qualquer estudo teológico: sente-se abismar-se no divino, percebe um abismo sem fundo no qual goza em mergulhar; não vê, não distingue, não sabe dizer nada de preciso, mas sente Deus, sente estar em contato com ele.
-
-Que diferença de compreensão do mesmo mistério quando o meditamos puramente à luz da fé e quando, ao contrário, temos a graça de penetrá-lo com a luz derivada do dom da inteligência! Então já não o olhamos de fora, mas de dentro; já não nos detemos na expressão verbal que o contém, mas penetramos no segredo escondido atrás da fórmula.
+Enquanto a nós cabe colocar em ato as virtudes, só Deus pode colocar em ato os dons; porém, habitualmente ele o faz de modo proporcionado ao nosso empenho em exercitar as virtudes. A prática assídua das virtudes escancara nossa alma à ação de Deus, torna-a apta para acolher e seguir as moções do Espírito Santo. Entreguemo-nos, pois, com generosidade a esse exercício: o Espírito Santo não tardará a vir ao nosso encontro com seus dons, e progrediremos rapidamente para a virtude perfeita, heroica, para a santidade.
 
 ### Colóquio
 
-Vem, ó Espírito Santo, vem, Luz divina!
+«Ó Senhor, tu disseste: “Sede santos, porque eu sou santo”; é justamente esta, parece-me, a mesma vontade que tens desde o dia da criação, quando declaraste: “Façamos o homem à nossa imagem e semelhança”; é sempre o mesmo teu desejo de associar, de identificar a ti tua criatura... Como satisfazer melhor esse teu desejo, senão permanecendo simples e amorosamente voltados para ti, para que tu possas refletir em nós tua imagem como o sol se reflete através de um cristal límpido?...
 
-«Ó Luz que nenhuma outra luz viu, lume que obscurece todo outro lume, luz da qual deriva toda luz; lume em comparação do qual toda luz é treva e todo brilho obscuridade; luz suprema, não anuviada pela cegueira, não ofuscada por neblina, não escurecida por trevas; luz que por nenhum obstáculo é impedida, que não é dividida por sombra; luz que ilumina todas as coisas ao mesmo tempo e sempre, absorve-me no oceano da tua claridade, para que eu te veja em ti e a mim em ti, e todas as coisas abaixo de ti» (Santo Agostinho).
+«Mas, para espelhar tuas perfeições, é necessário despojar-nos do homem velho para revestir-nos do homem novo, criado por ti na justiça e na santidade. Eis o caminho traçado: trata-se apenas de despojar-se para percorrê-lo segundo teu desígnio divino. Ajuda-me, pois, a despojar-me, a morrer para mim mesma, a perder-me de vista» (Isabel da Trindade).
 
-«Como posso aproximar-me de ti, ó Espírito Santo? Tu habitas uma luz inacessível e tu mesmo és só luz, ciência e esplendor; eu, ao contrário, habito lugar de trevas e eu mesmo não sou senão ignorância e rudeza.
+Ajuda-me, ó Senhor, a combater meus defeitos para despojar-me do homem velho; ajuda-me a praticar as virtudes para revestir-me do homem novo. Pouco vale diante de ti o esplendor das obras e a fama de um grande nome, mas muito vale o exercício da virtude.
 
-«Entretanto, ó divino Espírito, eu te invoco com confiança para ser iluminado por ti. Descobre-me as grandezas divinas, os divinos mistérios, para que eu os adore e reconheça. Descobre-me as ciladas do demônio e do mundo, para que as evite e nelas jamais caia; descobre-me ainda minhas misérias e fraquezas, meus erros, preconceitos, obstinações, artifícios do meu amor-próprio, para que eu os odeie e os corrija.
+«Tu preferes ver em mim o menor grau de pureza de consciência a todas as obras que eu possa fazer.
 
-«Mas, ó luz benfazeja, ilumina sobretudo minha alma, para que conheça o quanto queres de mim; faze que eu aprenda bem todo o encanto de tuas atrações e de tua graça, e tudo o que devo fazer para merecer os benéficos influxos de tua bondade, para que eu lhes corresponda com fidelidade plena; e sustenta-me para que eu te seja fiel até a morte» (Pe. Aurillon).
+«Preferes em mim o mínimo grau de obediência a todos aqueles serviços que penso render-te.
+
+«Estimas mais um meu desejo de sofrimento por amor de ti do que todas as consolações espirituais que eu poderia ter» (São João da Cruz).

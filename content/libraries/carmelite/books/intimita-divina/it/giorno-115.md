@@ -1,119 +1,21 @@
-## 115 — LA VERA GLORIA
+## 39 — NASCONDERSI A SE STESSI
 
-### Presenza di Dio
-
-— O Gesù, che per amor mio hai accettato il disonore della morte di croce, insegnami în che cosa consiste la vera gloria e fa" che per amor tuo io sappia vincere i mici punti d'onore.
+**Presenza di Dio.** — *O Gesù che, interamente dimentico di te, ti sei consacrato alla gloria del Padre, insegnami a dimenticarmi.*
 
 ### Meditazione
 
-1 — S. Teresa di Gesù insegna: «Per poco che uno
-sia attaccato all’onore, non può avanzarsi in virtù senza
-prima liberarsene », perchè « dove regnano i punti d'onore
-non si arriverà mai al pieno distacco, nè a godere il vero
-frutto dell’orazione », che è l'intimità con Dio. Anzi, la
-Santa nota che il motivo per cui molte persone, già da
-tempo addestrate nella vita spirituale e benemerite per
-tante opere buone, «strisciano ancora per terra » e non
-riescono ad elevarsi più in alto, sta appunto nell’essere
-trattenute dal «punto d’onore; e, quel che è peggio,
-non vogliono persuadersene, ingannate come sono dal
-demonio fino a credere d’essere obbligate a difenderlo »
-(Vi. 31, 20; Cam. 12, 5).
+**1** — Per entrare nella pienezza della vita nascosta, non basta celarsi agli sguardi altrui, bisogna celarsi anche a se stessi, ossia dimenticarsi, evitando ogni preoccupazione e ritorno egoistico su di sé. Si può essere preoccupati di sé da un punto di vista materiale, grossolano, ma lo si può essere anche da un punto di vista spirituale. Preoccuparsi troppo del proprio progresso spirituale, delle consolazioni che Dio concede o no, del proprio stato di aridità ecc. è spesso indice di un sottile egoismo spirituale, è indice di un'anima più occupata di sé che di Dio. È allora il caso d'imparare a dimenticarsi, a nascondersi a se stessi, non volendo troppo esaminare ciò che passa nel proprio interno, non dandovi troppa importanza e rinunciando anche alla soddisfazione di volersi render conto del proprio cammino interiore. Ed è bene sapere che non di rado Dio permette stati penosi ed oscuri, appunto perché vuole che l'anima viva nascosta a se stessa. Appunto ciò andava a terminare il programma di nascondimento di S. Teresa Margherita, la quale non solo intendeva di «vivere per così dire, invisibile e inosservata» tra le sue consorelle, ma «ancora di essere in certa maniera occulta ed ignota a se medesima, di morire a sé senza saperlo e senza gustare alcun piacere di questa morte mistica spirituale, seppellendo in Cristo ogni pensiero e ogni riflesso anche spirituale ed eterno di sé, in un modo sottilissimo». È questo il proposito esplicito della completa dimenticanza di sé, che abbraccia anche la rinuncia alla soddisfazione spirituale di rendersi conto della propria immolazione. Ma per evitare di ritornare su di sé, l'anima deve necessariamente polarizzare altrove le sue aspirazioni; perciò l'esercizio *negativo* di non pensare a sé, deve andare di pari passo con quello *positivo* di *centrarsi* in Cristo, di «seppellire in Cristo» ogni pensiero, ogni preoccupazione, anche spirituale, di sé. Nessuno riuscirà a distogliere la preoccupazione da se stesso, se non la fissa nell'oggetto del suo amore; S. Teresa Margherita è dimenticata sino in fondo seppellendo il suo pensiero «in Cristo», unico Diletto.
 
-L’attaccamento ai punti d’onore si risolve in pratica
-in tanti piccoli o grandi puntigli per l'affermazione della
-propria personalità, per la difesa della propria stima, dei
-propri punti di vista, si concretizza in tante manovre più
-o meno coscienti e meschine per conquistare 0 sostenere
-certe posizioni di privilegio e di onore di fronte agli altri,
-per far valere le proprie ragioni — che si giudicano sempre buone — le proprie capacità, le proprie opere, i pro-
-pri meriti, che si ritengono sempre grandi e degni di considerazione. Tutto ciò rimane più o meno mascherato dal
-fatto che ognuno ha, 0 crede dî avere, l’intenzione di agire
-a fine di bene e perciò ritiene legittimo il suo o) di
-intanto non ci si accorge che con la scusa di difendere il
-bene, Semper scandali, di sostenere opere buone, in
-realtà si difende l'amor proprio, tanto è vero che, presen-
+**2** — L'anima totalmente dimentica di sé, è anche totalmente disinteressata. Non serve più Dio con spirito mercenario, ossia mirando maggiormente alla ricompensa che potrà ricevere che alla gloria di lui, ma lo serve — secondo la bella espressione di S. Teresa di Gesù — «*gratuitamente,* come i grandi signori servono i re» *(Lt.).* Tale deve essere lo stile di un'anima di vita interiore la quale, essendo stata da Dio invitata alla sua intimità, non deve agire da mercenaria, ma da figlia, da sposa. È questo uno dei frutti più belli della vita nascosta.
 
+S. Giovanni della Croce insegna: «Dio gradisce più un'opera, per piccola che sia, fatta di nascosto e senza desiderio che sia conosciuta, che non molte opere fatte con questo desiderio; perché colui che con amore purissimo opera per il Signore, non solamente non si cura affatto che le sue azioni siano vedute dagli uomini, ma neppure le fa perché Dio stesso le sappia. Di modo che se, per ipotesi, il Signore non dovesse mai saperle, non cesserebbe di renderglieli uguali servigi, con la stessa allegrezza e purezza di amore» *(AM* I, 20). Lo stesso delicato pensiero troviamo in S. Teresa del B. G.: «Se anche, cosa impossibile, Dio stesso ignorasse le mie buone azioni, non me ne affliggerebbe, perché l'amo tanto, che vorrei potergli recar piacere, senza che Egli sapesse che sono io» *(CR.).*
 
-tandosene l’occasione e a parità di condizioni, tante fatiche
-non si fanno davvero per difendere l'onore e le opere
-altrui, ma solo per difendere l’onore e le opere proprie.
-Un’anima che si lascia prendere da simili preoccupazioni è, come dice S. Teresa di Gesù, legata alla terra
-da «una catena che nessuna lima può rompere. Solo Dio
-la può infrangere, ma vuol essere da noi coadiuvato con
-preghiere e sforzi generosi » (Vi. 31, 20).
-
-
-2 — Per vedere se siamo veramente distaccati dai
-punti di onore non dobbiamo basarci su certi desideri che
-talvolta si presentano in massa durante l’orazione, per cui
-ci sembra di esser pronti a sopportare qualsiasi umiliazione
-e disprezzo, ma dobbiamo esaminare qual'è, all’atto pratico, la nostra condotta di fronte a tutto ciò che urta il
-nostro amor proprio, E allora non sarà difficile constatare
-che «per poco che ci tocchino nell’onore, non sappiamo
-più reggere e ci sembra di non dover più reggere» (T.G.
-Dam. 16, 11). Queste reazioni più 0 meno vivaci della nostra suscettibilità ci dicono chiaramente che siamo ben
-lontani dall'aver messo sotto i piedi i punti d’onore; e il
-prendere coscienza di tale deficienza sarà il punto di partenza per correggercene, perchè il maggior ostacolo al-
-l'acquisto delle virtù è proprio il credere di averle già
-acquistate e quindi di non aver più bisogno di esercitarsi
-în esse.
-
-«Dio ci liberi — esclama Teresa di Gesù — da persone che pretendono servirlo e coltivare insieme il proprio
-onore! » (ivi, 12, 7). Sarebbe un voler servire nello stesso
-tempo due padroni e due padroni tanto inconciliabili quali
-sono Dio e il nostro amor proprio. Tutto quel che un’anima fa per servire il suo io, per sostenere il suo onore, lo
-sottrae al servizio di Dio, alla ricerca pura e sincera del-
-
-
-l’onore e della gloria di lui. Anche se talvolta ci sembra
-
-
-di avere dei buoni diritti da far valere, se non sapremo
-rinunciarvi almeno per quanto riguarda Ja nostra persona,
-non raggiungeremo mai quella libertà di spirito necessaria
-per addentrarci in una profonda vita interiore. Le preoccupazioni inerenti alla difesa dei nostri diritti non faranno
-che distrarci dal nostro ideale di unione con Dio, ci faranno perdere la pace interiore, ci immischieranno in tante
-brighe troppo umane, che spesso ci saranno occasione di
-frequenti mancanze di carità e anche di giustizia verso il
-prossimo, giacchè è ben difficile, per non dire impossibile,
-difendere i propri diritti, senza offendere poco o tanto
-i diritti altrui.
+Questa assoluta purezza d'intenzione fa che l'anima agisca unicamente per Iddio e mai per il suo tornaconto, neppure spirituale. Certamente Dio compenserà le opere buone, ma questa cura è totalmente lasciata al suo beneplacito, mentre l'anima si occupa solo di fargli piacere. La vita nascosta culmina così in un sovrano disinteresse, non solo rispetto alle ricompense e alle lodi umane, ma anche rispetto alle consolazioni spirituali. L'anima allora cerca Dio solo e lui solo le basta. E se Dio, quasi sembrando non far conto del suo amore e dei suoi servizi, la lascia nell'aridità e nell'abbandono, non se ne preoccupa e non per questo si arresta, perché l'unico motivo che la spinge ad agire è contentare Dio solo.
 
 ### Colloquio
 
-«O Signore, Signore! Non sei ‘Tu, dunque, il nostro
-Maestro e Modello? E in che cosa hai messo il tuo onore,
-Tu che sei l’onor nostro? Ah, Signore, umiliandoti fino
-alla morte, e così non solo non l'hai perduto, ma l'hai
-guadagnato per tutti noi... Piaccia a te, Dio mio, che per
-voler seguire i brutti punti d'onore, qualche anima non
-finisca col perdersi. Oh! se si comprendesse in che consiste il vero onore... Tutto il danno, Signore, ci viene dal
-non tener gli occhi fissi su di te e così diamo in mille cadute, cadiamo in mille inciampi e sbagliamo strada ».
+O mio Dio, insegnami a dimenticarmi, a perdere in te ogni preoccupazione, ogni cura eccessiva di me. Perché voglio servirti, o Signore? Perché voglio amarti e avanzarmi nella via della santità? Forse per mia soddisfazione, per mio interesse o vana compiacenza? Oh, come sarebbe meschina una vita spirituale che avesse fini tanto bassi, tanto vani! No, mio Dio, Tu mi hai creato per la tua gloria, ed io ti chiedo umilmente di poter vivere solo per la tua gloria, al disopra di ogni interesse e soddisfazione personale!
 
-«O mio Dio, desideriamo unirci intimamente a te,
-pretendiamo di seguire i consigli di Cristo che fu coperto
-d'ingiurie e di falsità, e insieme vogliamo conservare intero il nostro onore e la nostra riputazione. Le vie sono
-troppo diverse e non arriveremo mai alla meta, perchè
-Tu, o Signore, ti unisci solo con le anime che rinnegano
-se stesse e non hanno paura di perdere i propri diritti »
-(T.G. Cam. 36, 5 € 6; 16, 11; Vi. 31, 22).
+Non è già abbastanza grande l'onore che mi fai col permettere che una creatura meschina e misera come me possa indirizzare la sua vita alla gloria tua? che un povero verme, quale io sono, possa dar gloria a te, o Dio altissimo, perfezione infinita? Che andrò allora cercando, o Signore, al di fuori di questo? Vale di più accontentare la creatura o il Creatore, accontentare me stessa o il mio Dio? O Signore, voglio servire e contentare te solo, voglio dar gusto a te soltanto e solo in ciò voglio riporre il gusto, il motivo della contentezza mia. Lo comprendo, se Tu mi conduci per una via arida e oscura, se permetti che spesso le tenebre si addensino attorno a me, è proprio perché vuoi insegnarmi a servirti con purezza d'intenzione, cercando solo la tua soddisfazione e non la mia. Se permetti che continui ad esercitarmi nella vita interiore, nelle virtù, senza vederne alcun risultato, se mi tieni nascosti i miei poveri progressi, lo fai appunto per stabilirmi nell'umiltà. Forse se avessi maggior luce, se il lavoro della tua grazia in me più manifesto, lo me ne glorierei e, compiacendomi di me stesso, fermerei il mio slancio verso di te, unico oggetto della mia compiacenza.
 
-O Gesù, concedimi la grazia di far consistere il mio
-onore soltanto nell’unirmi intimamente a te, nel cercare
-di rendermi il più possibile simile a te che, essendo Dio e
-avendo il diritto di essere trattato e onorato come Dio,
-hai voluto essere trattato come l’ultimo degli uomini. Tu
-non hai voluto per te altro diritto, fuorchè quello di adempiere la volontà del Padre, di morire in croce per la sua
-
-
-gloria e per la nostra salvezza. Davanti al tuo esempio,
-come comprendo meglio la meschinità del mio amor proprio che, per la difesa di sciocchi diritti, si perde in tante
-
-righe, in tante contese vane... O Signore, perchè dovrò
-ridurmi a strisciare per terra tra i rovi spinosi delle mie
-passioni, quando Tu mi hai creato per spaziare nei cieli?
-Oh, aiutami Tu a sbarazzarmi delle sciocche pretese del
-mio io, che, simili a pesante zavorra, tentano continua»
-mente di trascinarmi verso il basso; aiutami affinchè, liberato da un peso tanto grave, ja finalmente spiccare
-il volo decisivo verso di te, mio Dio!
+O Signore, quanto sei ammirabile nelle tue vie! Benedetta sia questa oscurità interiore che mi difende dai pericoli dell'orgoglio spirituale! No, Dio mio, non ti chiedo di cambiare il mio cammino, anzi ti supplico di continuare a condurmi così, in una vita di completo nascondimento, non solo agli occhi altrui, ma anche ai miei. E se, per la tua grazia, c'è in me qualcosa di buono, questa serva a rallegrare i tuoi sguardi e non i miei che, compiacendosi vanamente, potrebbero rovinarla in un istante. Custodiscimi dunque all'ombra delle tue ali, insegnami a servirti gratuitamente per puro amore; insegnami a dimenticarmi, a seppellire in te ogni preoccupazione di me stesso, ad affidarmi con pieno abbandono nelle tue mani l'anima mia. Ecco, per guadagnarla, a te la consegno, voglio perderla in te, e in te la ritroverò rivestita della tua bellezza.

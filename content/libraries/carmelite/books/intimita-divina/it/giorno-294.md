@@ -1,109 +1,21 @@
-## 294 — BEATI I POVERI IN SPIRITO
+## II — LA MAGNANIMITÀ
 
-### Presenza di Dio
-
-O Spirito Santo, mostrami la via che conduce alla vera povertà di spirito e dammi la forza di percorrerla sino in fondo.
+**Presenza di Dio.** — O Signore, dammi un cuore grande, capace d'intraprendere per te cose grandi.
 
 ### Meditazione
 
-1. — Quando l'anima asseconda le mozioni dei doni, que-
+**1** — Chi aspira alla santità deve avere un cuore largo, magnanime che non si accontenta di fare per Iddio cose da poco e minuscoli atti di virtù, ma che desidera fare grandi cose e dargli grandi testimonianze d'amore. Come non c'è santità senza virtù eroica, così non si può arrivare all'eroismo senza compiere grandi atti di virtù.
 
-sti producono in lei frutti di virtù così squisiti che le fanno
-regustare qualche cosa della beatitudine eterna di cui sono
-cola pegno e che, appunto perciò, si chiamano beatitudini.
-Ad ogni dono corrisponde una beatitudine; al dono del timore corrisponde quella della povertà di spirito: «Beati i
-poveri in spirito, perchè di loro è il regno dei cicli » (Mt. 5. 3).
-Il dono del timore, volendo condurre l'anima a liberarsi
-completamente dal peccato, mira a spegnere in lei la concupiscenza delle cose terrene, che ne è la causa principale. Per-
-ciò la sospinge in una via di totale distacco sì che, *eglian:
-dola da ogni pretesa dell’egoismo e dell'orgoglio, ogni
-cupidigia e da ogni esigenza circa i beni terreni, la stabilisce
-gradatamente in una perfetta povertà di spirito. Di fronte
-a tutto quello che la vita può offrirci di onori, di soddisfazioni, di affetti delle creature, di ricchezze e di comodità, lo Spi-
-rito Santo ci ripete in fondo al cuore le parole di Gesù: « Se
-vuoi essere perfetto, va’, vendi ciò che hai... poi vieni e seguimi » (Mt. 19, 21). Ossia non voler avere di più di quel che
-possiedi, ma spogliati piuttosto anche di quello che hai; non
-essere avido nè di ricchezze, nè di piaceri o di consolazioni,
-nè di gloria, nè di affetti terreni, ma lascia andare tutte queste
+Certe anime pensano che nutrire grandi desideri e voler fare per Iddio grandi cose sia orgoglio ed illusione del demonio; lo sarebbe certamente se in ciò si cercasse il proprio onore ed il plauso delle creature, o se, per fare cose grandi, si trascurassero le piccole e quotidiane che s'incontrano ogni giorno nella linea del dovere. Ma non è così: la virtù della magnanimità inclina l'anima a rendere a Dio grandi servizi, non mai però a scapito dell'obbedienza, dell'umiltà e dell'adempimento del dovere. Anzi, proprio su questa linea l'anima generosa incontrerà spesso cose ardue e difficili che richiedono molta virtù e che tuttavia il più delle volte rimangono completamente nascoste agli occhi delle creature. Di fronte a simili prospettive siamo spesso tentati di ritirarci col pretesto che non è necessario spingere la virtù a tali estremi e ci scusiamo dicendo: non siamo angeli, non siamo santi. «Benché non lo siamo per davvero — ammonisce S. Teresa di Gesù — è sempre utile pensare che con l'aiuto di Dio e mercè i nostri sforzi possiamo divenirlo» *(Cam.* 16, 11). La Santa insiste fortemente perché coloro che si danno alla vita spirituale non nutrano desideri gretti, ma generosi, né temano di emulare i santi e attesta con autorità: «Fra queste anime [coraggiose] non ne ho mai visto alcuna rimanere indietro nel cammino della perfezione, come non ho mai visto alcuna fra le pusillanimi, che si nascondono sotto il velo dell'umiltà, fare in molti anni il profitto che le prime fanno in pochissimi» *(Vi.* 13, 2).
 
-
-cose che, riempiendoti il cuore di terra, t'impediscono di
-riempirti di Dio.
-
-Lo Spirito Santo spinge l'anima alla povertà materiale insegnandole ad accontentarsi di poco, a non avere pretese-cir-
-ca le cose necessarie alla vita, ma la spinge ancora di più alla
-povertà spirituale perchè senza di questa la prima non vale
-nulla. «La semplice privazione delle cose — dice S. Giovanni della Croce — non spoglia affatto l'anima, se questa
-conserva l'appetito [ossia l'attacco] verso di loro. Non le cose
-di questo mondo occupano o danneggiano l’anima, perchè
-in lei non entrano, bensì il desiderio e l'appetito di esse,
-i quali dimorano in lei» (S. I, 3, 4).
-
-
-2. — La povertà di spirito non abbraccia solo il distacco
-dai beni materiali, ma anche quello dai beni morali e perfino spirituali.
-
-Ghi nutre delle pretese circa l’affermazione della sua personalità, circa la stima e la considerazione delle creature, chi
-conserva degli attacchi alla propria volontà, alle proprie idee
-o è troppo amante della propria indipendenza non è povero
-in spirito, ma è ancora ricco di se stesso, di amor proprio, di
-orgoglio. «Se vuoi essere perfetto — l’esorta S. Giovanni
-della Croce — vendi la tua volontà; avvicinati al Cristo nella
-mansuetudine e nell’umiltà e seguilo fino al Calvario ed al
-Sepolero » (Av. 7).
-
-Parimenti chi va ancora in cerca dell’affetto delle creature,
-della gioia e delle soddisfazioni che queste possono dargli,
-non è povero in spirito; e non lo è neppure chi, nella vita
-di pietà, nei ig con Dio, va in cerca di consolazioni e
-di gusti spirituali. La povertà di spirito comsiste nell'essere
-interamente nudi e vuoti di tutte queste pretensioni, sì che
-l'anima pretenda e desideri una cosa sola: possedere Dio,
-e resti di ciò contenta anche quando Dio si lascia trovare solo
-nelle tenebre, nell’aridità, nello sconforto e nella sofferenza.
-Questa è la perfetta povertà di spirito che rende l’anima lbera da tutto ciò che non è Dio, e proprio in ciò consiste il
-
-
-motivo della sua felicità perchè «l'anima che si rende spoglia
-dei suoi desideri, del suo volere e non volere, Iddio la ve
-stirà della sua purezza e del suo gusto e della sua volontà »
-(G.C. PA. 19). La beatitudine promessa ai poveri in spirito
-è appunto il possesso di Dio, possesso che li rivestirà delle
-ricchezze infinite di Dio. Questa è la meta cui lo Spirito
-Santo desidera condurci: assecondiamo la sua azione seguendo
-con docilità i suoi inviti al distacco ed allo spogliamento totale. Più saremo generosi nel privarci di tutto ciò che non
-è Dio e più godremo della beatitudine promessa ai poveri
-in spirito.
+**2** — Il contrario della magnanimità è la pusillanimità o piccolezza di spirito, difetto che trattiene le anime dal compiere opere grandi per eccessivo timore di cattiva riuscita. È vero che non dobbiamo essere temerari esponendoci di proprio arbitrio a imprese superiori alle nostre forze: anche ciò è difetto, è imprudenza e presunzione che dispiace a Dio. Ma quando, attraverso le circostanze e dopo sufficiente esame, vediamo con chiarezza che il Signore vuole da noi certi atti di virtù o determinate opere, non dobbiamo ritirarci, per quanto difficili ci possano sembrare. Dio non saprà, dunque, darci la forza per compiere quel che ci chiede? Perché dubitare di lui? Il pusillanime, che in simili occasioni si ritira con la scusa di non sentirsi capace di tanto, può credersi umile, ma in fondo è un vile, è un superbo che dubita di Dio. È vile perché, troppo preoccupato di sé, teme il rischio, teme di esporsi alle critiche altrui, teme la fatica ed il sacrificio; è superbo perché si fida del suo giudizio errato che di Dio e della sua grazia. L'umile invece, pur essendo consapevole del suo nulla, fa credito a Dio e, se è convinto della sua debolezza, è ancor più convinto che Dio può servirsi anche di essa per compiere opere di valore. Il vero umile, dunque, non è mai pusillanime, ma sempre magnanimo: non teme di animarsi a fare cose grandi per Iddio e questa stessa disposizione lo aiuta moltissimo a progredire. «Anche se non ha ancora gran forza — dice Teresa di Gesù — prende subito il volo e si innalza di molto, nonostante che si possa presto stancare, come un uccellino di primo pelo, e lasciare andare le ali» *(Vi.* 13, 2). È proprio della nostra debolezza stancarci, ma se avremo grande fiducia e grande amore, sapremo ben presto rialzare le ali. Più la nostra fiducia in Dio sarà piena e più diventeremo forti della fortezza divina; più il nostro amore sarà intenso e più diventeremo capaci di compiere per il Signore cose ardue: «L'amore perfettissimo — insegna S. Tommaso — mette mano a qualsiasi cosa più difficile» *(III Sent.* D. 29, q. 1, a. 8). Sostenuti dalla fiducia e dall'amore possiamo elevare alto il volo senza temere pericoli e cadute.
 
 ### Colloquio
 
-<O Gesù, libro di vita e salute nostra, la tua prima compagna sulla terra fu la povertà continua, estrema, perfettis-
-sima. Tu, il Possente, il Signore di tutte le cose volesti la povertà assoluta, affinchè anche noi facessimo una cosa sola del-
-l’amore e della povertà. Fosti povero in tutto: povero di cose
-materiali, povero di volontà propria, povero di spirito, povero al di sopra di ogni nostra possibile immaginazione, po-
-vero infinitamente, perchè infinito era l'amore col quale ci
-amasti, Fosti povero come chi non ha nulla, povero come
-chi neanche chiede quello che non ha. Povero di beni, povero di amici, povero di potenza e di sapienza umana, po-
-vero di fama di santità, povero di dignità terrena, povero di
-agni cosa che esiste,
+«Oh, possente amore di Dio! Com'è vero che l'amante non trova nulla d'impossibile! Felice l'anima che ha ottenuto la tua pace, o mio Dio! Ella domina i pericoli e le sofferenze del mondo e nulla l'impaurisce dove si tratta di servirti.
 
-«Anche con la parola Tu volesti glorificare la povertà
-e dicesti beati i poveri, dicesti che i poveri avrebbero giudicato il mondo.
+«Il tuo vero servo, o Signore, colui che da te illuminato e guidato per la vera strada, quanto più nel cammino si sente preso da timore, tanto più cresce nel suo desiderio di non fermarsi. Insegnami dunque, Dio mio, ad andare sempre avanti, a combattere da forte; aiutami a sottrarmi ai colpi del demonio che tenta di farmi paura.
 
-« Ma oh, vergogna e dolore! Oggi, o Signore, questa povertà di spirito da te tanto insegnata ed esaltata è respinta
-e sfuggita quasi da tutti, ed anche coloro che la predicano
-e la glorificano a parole, di fatto la rinnegano con la volontà, col desiderio, con le spen
+«O mio Dio, cosa fa mai un'anima se non si consuma per te? E quanto io son lontana, colui che — sì, lo posso ripetere mille volte — quanto sono mai lontana dal far questo! Quante imperfezioni in me! Quanta rilassatezza nel tuo servizio! Molte volte, per non sentirmi con tante miserie, vorrei essere priva di sentimento. Rimediavi Tu che lo puoi! Infondi nel mio cuore grande confidenza ed accresci i miei desideri perché, se mi applicherò di buona volontà e confiderò molto nel tuo aiuto, potrò arrivare anch'io a poco a poco, se non subito, dove arrivarono molti santi.
 
-«Oh, veramente beato chi, seguendo il tuo esempio,
-o Cristo, ha eletto la povertà a sua compagna! Veramente
-
-
-beato, come Tu hai detto, chi, non solo a parole, ma con la
-volontà, ma con la vita, si fa povero d’ogni bene, povero di
-amici, di parenti, di consolazioni e di scienza vana; beato
-dii rifugge dalle dignità, dalle cariche, dalla fama di santità.
-
-<O Signore, se non posso materialmente spogliarmi di
-di tutte le cose terrene, concedimi, ti supplico, di spogliarmene almeno nel cuore, e non una volta sola, ma ogni
-giorno, ogni momento. O veramente beato un tal povero,
-poichè il regno dei cieli è suo!» (B. Angela da Foligno).
+«Com'è vero, o Signore, che in te tutto si può e come capisco bene che da me non posso nulla. Perciò ti supplico con S. Agostino: "Dammi, o Signore, ciò che comandi e comandami ciò che vuoi"» *(T.G. P.* 3, 4; *Cam.* 21, 9; 20, 2; *Vi.* 39,6; 13,2-3).

@@ -1,112 +1,29 @@
-## 107 — UMILTÀ NELLE CADUTE
+## 31 — IL NOSTRO POSTO
 
-### Presenza di Dio
+**Presenza di Dio.** — *O mio Dio, che io conosca te, che io conosca me! Conosca che Tu sei Colui che è, ed io colui che non è.*
 
 ### Meditazione
 
-1 — Se consideri la tua miseria senza alzare gli occhi
-a Dio, Padre delle misericordie, rimarrai facilmente soffocato e scoraggiato. E se ben ti esamini vedrai che lo sco-
-raggiamento deriva sempre da due cause intimamente connesse fra loro: l’una è che, avendo fatto assegnamento sulle
-tue forze, il tuo orgoglio è rimasto ferito e deluso per lo
-smacco subito, e l’altra è che, non avendo contato su Dio,
-non hai pensato a ricorrere a lui e, come non hai saputo
-ricorrervi per riuscire nel bene, così non hai saputo ricorrervi quando sei caduto nel male. Insomma hai agito da
-solo: da solo hai cercato di riuscire, da solo sei caduto, da
-solo hai considerato la tua caduta. Il risultato di tale condotta non può essere che lo scoraggiamento; come, in-
-fatti, potrai trovare in te la forza di rialzarti, quando
-proprio per mancanza di forze ti trovi a terra? Ma Dio
-non vuole che tu agisca da solo. « Guai a chi è solo —
-dice la Sacra Scrittura — perchè, cadendo, non ha chi
-lo sollevi » (Eccl. 4, 10). Guai all'uomo che appoggia i suoi
-pere alle sue forze. quando cadrà non avrà a sua
-isposizione la forza di Dio per risollevarsi e rimarrà così
-nella sua miseria, avvilito e confuso.
-Come non devi formulare buoni propositi senza contare sull’aiuto di Dio per mantenerli, così non devi consi-
-derare le tue cadute, senza considerare insieme la divina
+**1** — Fra tutte le creature di cui amiamo compiaci e verso le quali la nostra natura si sente molto portata, il nostro io tiene senza dubbio il primo posto. Non vi è persona, anche poco dotata di doni e di qualità, che non ami la propria eccellenza e non cerchi in qualche modo di farla risplendere agli occhi propri e a quelli altrui. Anzi a tale scopo noi siamo spesso portati spontaneamente ad esagerare il nostro valore e, in conseguenza, a mostrare esigenze e pretensioni che ci rendono alteri, arroganti ed anche difficili nei nostri rapporti con gli altri. L'umiltà è appunto la virtù che mantiene nei giusti limiti l'amore della propria eccellenza; e mentre questo ci spinge a metterci troppo in alto, ossia ad occupare un posto più elevato di quello che ci spetta, l'umiltà è la virtù che ci fa stare al nostro posto. L'umiltà è verità, perché tende a mettere nella verità la nostra intelligenza, facendoci riconoscere quel che in realtà siamo, e la nostra vita, inclinandoci a prendere, di fronte a Dio e di fronte agli uomini, quel posto che ci spetta e non altro.
 
+L'umiltà ti fa riconoscere che di fronte a Dio non sei che una piccola creatura sua, in tutto da lui dipendente e nella tua esistenza e nel tuo operare. Avendo ricevuto da Dio la vita, tu non puoi esistere neppure un istante indipendentemente da lui, ma è lui che, come ti ha creato con la sua azione creatrice, così ti mantiene in vita con la sua azione conservatrice. Non solo, ma non puoi compiere il più piccolo atto senza il concorso di Dio, un po' come qualsiasi macchina, anche la più perfetta, non può fare il più piccolo movimento, se non è messa in azione dall'artista che l'ha fabbricata. È ben vero che, a differenza della macchina, il tuo agire non è né meccanico, né obbligato, ma è cosciente e libero, comunque non puoi neppure muovere un dito, senza il concorso dell'Artista divino.
 
-misericordia, perchè come Dio è l’unico che può aiutarti a
-riuscire nel bene, così è l’unico che può aiutarti a rialzarti
-dal male.
+In conseguenza, tutto ciò che hai nell'ordine dell'essere — qualità, doti, capacità ecc. — e tutto ciò che hai conseguito nell'ordine dell'agire, nulla è tuo, ma tutto, in un modo o nell'altro, è dono di Dio, è azione compiuta con l'aiuto divino. « Che cosa hai che tu non abbia ricevuto? e se l'hai ricevuto, perché ti glori come non l'avessi ricevuto? » (1 Cor. 4, 7).
 
-Ecco perchè tutti i santi hanno in: to che il conoscimento di sè non deve mai essere disgiunto dal conosci-
-mento di Dio e viceversa. S. Teresa di Gesù dice: « L’anima che si addestra nel proprio conoscimento, deve inalzarsi,
-di tanto in tanto, a considerare la grandezza e la maestà di
-Dio, In ciò scoprirà la propria miseria meglio che rimamendo in se stessa, e sarà meno infastidita dagli animaletti
-immondi », ossia dalle proprie miserie (M.I, 2,8).
+**2** — Nell'ordine soprannaturale, dove tutto dipende dalla grazia, si verifica nel modo più stretto la parola di Gesù: « Senza di me non potete far nulla » (Gv. 15, 5). Benché, col battesimo, la grazia santificante ci abbia elevato all'ordine soprannaturale, e le virtù infuse abbiano rese le nostre facoltà capaci di produrre atti soprannaturali, tuttavia, avverte S. Paolo, « nessuno può dire: « Signore Gesù », se non per lo Spirito Santo » (1 Cor. 12, 3).
 
+Dunque per produrre anche il più piccolo atto soprannaturale, tu hai bisogno del soccorso di Dio, hai bisogno della grazia attuale che ti prevenga con la sua azione e ti accompagni nell'azione, fino al compimento di essa.
 
-2 — «La vera umiltà, per profonda che sia, non inuieta mai; non agita, non disturba l'anima, ma l’inonda
-i pace, di soavità e di riposo... la dilata e la rende più
+Il grande teologo, che ha studiato a fondo la dottrina cattolica, per metterne in pratica il minimo punto, come per produrre un solo atto di amore di Dio, ha assoluto bisogno, non meno del contadino che conosce solo il suo catechismo, del soccorso della grazia attuale. Così pure il santo, che ha ricevuto tanti favori e lumi divini, che è già arrivato all'eroismo delle virtù, non può fare il più piccolo atto virtuoso, senza l'aiuto della grazia attuale. Ciò ti dice quanto grande deve essere la tua dipendenza da Dio. Sei quindi ben lontano dal vero se, fidandoti della tua scienza o del tuo lungo esercizio di vita spirituale, credi che i tuoi lumi o le tue virtù ti siano sufficienti per agire da buon cristiano. No, ti ammonisce S. Paolo, « sufficientia nostra ex Deo est », la sufficienza nostra viene da Dio (2 Cor. 3, 5). Senza Dio non puoi né pensare, né dire, né volere alcun bene, « poiché è Dio che produce in noi e il volere e l'agire con buona volontà » (Fil. 2, 13).
 
-abile a servire Dio». Invece «l'umiltà del demonio di-
-
-sturba, scompiglia, mette tutto sossopra ed è molto pe-
-
-nosa. Se il maligno ci vuol far credere che siamo umili,
-enso che sia per poi indurci, potendolo, a diffidare di
-io » (T.G. Cam: 39 2).
-
-La mancanza di fiducia e il turbamento diminuiscono
-la capacità di amare e lo scopo del demonio è appunto
-quello di trattenere le anime dalla via dell'amore. Egli tenta
-in tal modo specialmente coloro che non cederebbero mai
-a tentazioni aperte di peccato. In questo caso bisogna reagire, ricordando che, come insegna S. Teresa del: B. G.,
-«ciò che offende Gesù e ferisce il suo cuore, è la mancanza di confidenza » (Lt: 71).
-
-La diffidenza nella misericordia di Dio, sia pure in scguito a gravi cadute, non è mai indice di vera vmiltà, ma
-piuttosto di orgoglio subdolo e di tentazione diabolica. Se
-Giuda fosse stato umile, anzichè disperarsi, avrebbe saputo.
-come Pietro, chiedere perdono e piangere i suoi peccati.
-L’umiltà è la virtù che ci fa stare al nostro posto; orà il
-nostro posto di fronte a Dio è quello di figlioli deboli c
-miseri, sì, ma fiduciosi. Quando, dopo tanti propositi, ti
-vedi ricadere nelle. medesime: mancanze; quando, dopo
-
-
-tanti sforzi, non riesci ancora a vincere certi difetti, a
-superare certe difficoltà e, in un modo o nell'altro, ti trovi
-molto al di sotto di quello che dovresti e ‘vorresti essere,
-ricorri al rimedio infallibile dell’umiltà. « L'umiltà — dice
-S. Teresa di Gesù — è l’unguento che sana ogni ferita »
-(M. IT, 2, 6). Anche se ti sembra di aver esaurito ogni
-forza, anche se ti senti incapace di tutto e tì vedi sempre
-per terra impotente a rialzarti, ti rimane ancora una possibilità, quella di umiliarti. Umiliati, umiliati con since-
-rità e con fiducia; e l’umiltà supplirà a tutte le tue miserie, guarirà tutte le tue piaghe, perchè attirerà su di
-esse la misericordia divina.
+Di tuo, dunque, di connaturale alla tua natura limitata e per di più ferita dal peccato originale, non hai che una cosa sola: la capacità di venir meno ai tuoi doveri, di mancare, di peccare. Togli da te quel che è di Dio e troverai che, per te stesso, sei nulla, anzi meno di nulla, perché il nulla non è capace di offendere Dio e tu invece hai questa triste possibilità.
 
 ### Colloquio
 
-«O Signore, la mia miseria non mi reca più meraviglia
-e non mi affliggo tanto nel vedere che io sono la debolezza
-medesima; al contrario, di questa debolezza mi glorio e
-ogni giorno mi aspetto di scoprire dentro di me sempre
-nuove imperfezioni. Lo confesso, Signore, questi lumi sulla
-mia nullità mi fanno meglio che non i lumi intorno alla
-fede...
+« O Padre onnipotente, Dio verità, Dio amore, concedimi di entrare nella cella del conoscimento di me, riconoscendo che io per me stessa non sono, ma che tutto l'essere e la bontà che è in me viene unicamente da te. Mostrami i difetti miei, affinché sappia detestare la mia malizia e così fuggirò l'amor proprio e mi troverò vestita della veste bianca della divina carità, la quale è necessaria per venire ammessa alle nozze di vita eterna » (S. Caterina da Siena).
 
-«Quale illusione!... Vorremmo non cadere mai? Che
-mi importa, 0 Gesù, di cadere ad ogni istante. Vedo in ciò
-"la mia debolezza ed è un gran guadagno per me. Tu vedi
-con ciò quello di cui sono capace e così sarai obbligato a
-‘portarmi fra le tue braccia... Se non lo fai, vuol dire che ti
-piace vedermi per terra... perciò non me ne inquieterò, ma
-tenderò sempre verso di te le mie braccia supplichevoli e
-piene d'amore! Non posso credere che mi abbandonerai.
-«O Gesù, è vero, non sono sempre fedele; ma non mi
-‘perdo mai di coraggio, mi abbandono nelle tue braccia e,
-ic una gocciolina di rugiada, mi sprofondo sempre più
-nel vuo calice, o Fiore divino dei campi, e là ritrovo quanto
-perduto e ancora di più.
-«Dopo tutti i mici malestri, invece di nascondermi in
-cantuccio e piangervi la mia miseria, mi volgo a te, 0
+« Fa', o mio Dio, che io impari a conoscer mi a fondo! E che mi persuada davvero che non sono nulla e che Tu sei tutto. E che non mi consideri nulla di più di quel nulla che sono. E che non faccia mai più niente per me, ma tutto per te. E che nessuna creatura pensi più a me, né parli più di me, né faccia nulla per me, né mi dia più nulla, ma tutto faccia per te, tutto dia a te. E che il mio nulla si riduca a nulla agli occhi di ogni tua creatura e agli occhi tuoi, mio Dio. E che Tu, Tutto, sia tutto, in tutto e per tutto » (S. Giovanni Eudes).
 
+Scoprimi, o Signore, il mio niente, e scoprilo in modo che io non solo lo comprenda, ma ne abbia la convinzione pratica, profonda. Tu lo sai quanto ciò è difficile alla mia natura superba! Se l'intelletto non può resistere all'evidenza della verità e deve necessariamente ammettere che nulla sono, nulla ho e nulla posso senza di te, all'atto pratico il mio io cerca sempre di attribuirsi, di arrogarsi qualche cosa e di compiaceisi di essa come se fosse cosa sua. Aiutami, o Signore, a debellare questo orgoglio, perché, Tu lo vedi, è ladro dei tuoi doni; perché, Tu lo vedi, rende infeconda la mia vita, impedendomi di ricevere l'abbondanza delle tue grazie.
 
-mio Diletto, e ti racconto in dettaglio tutte le mie infedeltà, pensando, nel mio temerario abbandono, di acqui-
-stare più impero, di attirarmi pienamente il tuo amore;
-giacchè Tu non sei venuto a chiamare i giusti, ma i peccatori,
-
-« Sono felice di sentirmi così imperfetta e di aver tanto,
-bisogno della tua misericordia! Quando s’accetta con dolcezza l'umiliazione d'essere stati imperfetti, la tua grazia,
-o Signore, ritorna subito » (T.B.G. St. 9; Lt. 65, 122,
-175; NV.)
+O Signore, che io riconosca il mio nulla, e quanto più lo riconoscerò con semplicità ed umiltà di cuore, tanto più ti compiacerai di essere il mio Tutto. Tu il tutto, ed io il nulla; Tu Colui che è, ed io colui che non è! Glorificati, dunque, nel mio nulla! In questo nulla trionfi il tuo amore e la tua grazia, ma trionfi pure la tua misericordia, perché io sono un nulla che ha peccato. *Peccavi, Domine, miserere mei!*

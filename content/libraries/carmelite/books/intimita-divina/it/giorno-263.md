@@ -1,88 +1,23 @@
-## 263 — IL BUON SAMARITANO
-*XII Domenica dopo Pentecoste*
+## II — IL MOTIVO DELLA CARITÀ FRATERNA
 
-### Presenza di Dio
-
-— Signore, imprimi nel mio cuore l'esempio ed il comandamento della tua carità.
+**Presenza di Dio.** — *O Signore, insegnami ad amarti nel mio prossimo ed ad amare il mio prossimo in te e per te.*
 
 ### Meditazione
 
-1. — «Un uomo scendeva da Gerusalemme a Gerico e
-s'imbattè in ladroni, i quali, spogliatolo e feritolo se ne andarono, lasciandolo mezzo morto ». Così il Vangelo del giorno.
-Ognuno di noi si può vedere raffigurato in quel poveretto;
-anche noi sul nostro cammino abbiamo incontrato dei ladroni: il mondo, il demonio, le passioni che ci hanno depredato
-e ferito. Chi può dire di non portare nella propria anima
-qualche ferita, più o meno profonda, conseguenza delle tentazioni, del peccato? Ma anche noi sui nostri passi abbiamo
-incontrato un buon samaritano, anzi il buon Samaritano per
-eccellenza, Gesù, il quale, mosso a compassione per il nostro
-stato, ci ha prestato soccorso. Con amore infinito si è curvato
-sulle nostre piaghe sanguinanti medicandole con l'olio ed il
-vino della sua grazia: l'olio ne indica la soavità e il vino il
-vigore; poi ci ha preso fra le sue braccia, ci ha portato in un
-rifugio sicuro, ossia ci ha affidato alle cure materne della
-Chiesa, alla quale ha consegnato il prezzo del nostro riscatto,
-frutto della sua morte di croce.
+**1** — Non esistono due virtù di carità, una per amare Dio e un'altra per amare il prossimo, ma un'unica virtù con la quale amiamo Dio e il prossimo. Amiamo Dio a motivo della sua infinita amabilità e amiamo il prossimo perché la fede ci fa riconoscere in esso un riflesso dell'amabilità di Dio. Il motivo della carità fraterna è quindi il medesimo motivo della carità verso Dio: si tratta sempre di amare Dio o immediatamente in se stesso, o mediatamente nel prossimo. Avendo dunque per oggetto e per motivo ultimo Dio, la carità fraterna è virtù teologale, l'identica virtù teologale con la quale amiamo Dio. Certamente a Dio compete il primo posto: a lui, Bene infinito, dobbiamo dare l'assoluta preferenza al di sopra di ogni prossimo. Ma anche l'amore del prossimo rientra nell'amore verso Dio, in quanto amiamo il prossimo in Dio, ossia a motivo delle sue relazioni con Dio, della sua appartenenza a Dio. «Il motivo di amare il prossimo è Dio — insegna S. Tommaso — ...dal che si vede che l'atto col quale si ama Dio è il medesimo di quello con cui si ama il prossimo. E perciò la virtù della carità non si estende solo all'amore di Dio, ma anche all'amore del prossimo» *(II*a *II*ae, q. 25, a. 1). Quando un'anima ama veramente Dio, sa amare anche il prossimo così com'è, nonostante i suoi difetti, nonostante la noia e anche i dispiaceri che talvolta le può procurare; perché, lungi dal fermarsi a considerare tutto ciò, va assai più oltre: si spinge fino a cercare Dio nei suoi fratelli, in Dio fissa il suo sguardo e «*propter Deum*», a motivo di Dio, ama tutti senza distinzioni, senza restrizioni.
 
-La parabola del buon samaritano adombra così la storia
-della nostra redenzione, storia sempre in atto e che si rinnova ogni volta che ci avviciniamo a Gesù, mostrandogli con
-umiltà e pentimento le ferite dell'anima nostra. Questa storia si attua in modo tutto particolare nella S. Messa, in cui
-Gesù offre al Padre il prezzo della nostra salvezza, rinnovando la sua immolazione a beneficio delle anime nostre.
-Dobbiamo andare alla Messa per incontrarci con lui, il buon
-Samaritano, per invocare e ricevere su di noi la sua azione
-sanante e santificante. Quanto più, consci della nostra miseria, sentiremo vivo il bisogno della sua redenzione, tanto
-più Gesù ce ne applicherà con larghezza i frutti e, venendo
-in noi nella S. Comunione, sanerà le nostre ferite non solo
-dall'esterno, ma dall'interno, penetrandole abbondantemente con l'olio soavissimo e col vino vigoroso della sua grazia.
+Quest'anima non ha bisogno di lunghi ragionamenti per comprendere la profonda logica dell'affermazione dell'Apostolo: «Se uno dirà: 'io amo Dio', e odierà il suo fratello, è mentitore», ma l'intuisce per una specie di istinto soprannaturale, che le permette di abbracciare tutta la portata del comandamento della carità: «Questo comandamento abbiamo da Dio: che chi ama Dio ami anche il proprio fratello» *(I Gv.* 4, 20 e 21).
 
-Ecco come Gesù ci tratta; ecco come Gesù ha trattato l'u
-manità che, per il peccato, gli era straniera, anzi nemica e
-nulla aveva a che fare con lui, il Santo, il Figlio di Dio!
+**2** — Se amo il mio prossimo perché mi è simpatico, perché mi rende dei servizi o mi benefica, perché la sua amicizia mi è di conforto; se lo amo per le sue belle qualità, per il suo tratto amabile e piacevole, il mio è amore umano e non è affatto amore di carità. Se sono benevolo verso il prossimo, se lo soccorro perché mi fa compassione, perché mi sento legato ad esso da doveri di solidarietà umana, il mio amore potrà chiamarsi simpatia, filantropia, ma non potrà chiamarsi ancora carità la cui caratteristica è di amare il prossimo «*propter Deum*». Il mio amore è virtù di carità solo nella misura in cui fra me e il prossimo entra in gioco l'amore di Dio, solo nella misura in cui la mia dilezione per i fratelli è ispirata dalla dilezione per Iddio. Più il mio amore si appoggia unicamente a motivi umani — come la simpatia, le doti naturali, i legami del sangue, ecc. — e più è semplice amore umano che non ha per nulla il merito e il valore della carità. «L'amore del prossimo non è meritorio se non perché il prossimo è amato a motivo di Dio» (S. Tommaso, *II*a *II*ae, q. 27, a. 8). Proprio in questo senso S. Paolo ha la correttezza di scrivere: «Se mi sboccellassi a favor dei poveri tutto quel che ho... e non avessi amore, non ne avrei alcun giovamento» *(I Cor.* 13, 3).
 
-
-2. — Gesù, che, mediante la sua opera redentrice, ci ha
-dato per primo l'esempio di una carità piena di misericordia
-e di compassione, aveva tutto il diritto di concludere la parabola del buon samaritano dicendo: « Va', e fa' tu pure lo stesso» e avrebbe potuto aggiungere, come dirà la sera dell'ultima Cena ai suoi Apostoli: « Vi ho dato l'esempio affinchè anche voi facciate come io ho fatto a voi» (Gv. 13, 15).
-
-Gli scribi e i farisei col nome di prossimo intendevano
-solo gli amici o, al massimo, gli israeliti, ma non mai i pagani e neppure i samaritani. Ed ecco che il Salvatore, oltrepassando di colpo questa interpretazione tanto gretta, come esempio concreto della carità comandata dalla legge, propone proprio un atto di carità verso un nemico: il buon samaritano, non tenendo conto dell'odio che i giudei nutrivano
-per il suo popolo, presta soccorso al povero giudeo abbandonato dal sacerdote e dal levita, suoi connazionali. Questa
-carità universale sarà il distintivo della nuova religione instaurata da Cristo. « La religione pura e immacolata agli occhi di Dio — scriverà S. Giacomo — è questa: visitare gli
-orfani e le vedove nelle loro tribolazioni » (1, 27), ossia
-non vi è vera religione senza carità verso il prossimo
-e soprattutto verso il prossimo sofferente. Gli scribi, i farisei e i loro stessi sacerdoti, che avevano ridotto la religione
-ad un puro formalismo esterno, mentre trascuravano con tanta disinvoltura i doveri della carità, trovavano nella parabola
-del buon samaritano la loro condanna. Ma anche fra i cristiani, purtroppo, non mancano persone devote che si fanno scrupolo di tralasciare la minima pratica di pietà, ma non
-hanno alcuna titubanza ad abbandonare a se stessi coloro
-che soffrono. Costoro non hanno compreso l'anima della religione, ma si sono fermati alla scorza. La religione ci dà il
-senso profondo dei nostri rapporti con Dio: lui nostro Padre
-e noi suoi figli; ma se siamo figli di un unico Padre, come
-non sentirci fratelli? Ecco in che consiste la pietà vera: avere il senso della nostra figliolanza divina, avere il senso della
-nostra fraternità con tutti gli uomini, nessuno escluso. E
-chi si sente veramente fratello non tirerà mai dritto di fronte ai bisogni ed alle sofferenze altrui.
+È facile illuderci di avere molta carità perché amiamo chi ci vuol bene, perché siamo pieni di premure e di gentilezze per coloro che la pensano come noi, che ci sono solidali, e invece non si tratta che di semplice amore umano in cui non c'entra per nulla l'amore di Dio. «Se voi amate coloro che vi amano — ha detto Gesù — qual ricompensa meritate?... Non fanno forse altrettanto anche i gentili?» *(Mt.* 5, 46 e 47). Se voglio che il mio amore per il prossimo sia davvero salire molto più in alto, devo considerare il prossimo in Dio, devo amare il prossimo in relazione a Dio, a motivo di Dio. Solo così il mio amore per il prossimo sarà atto della virtù teologale della carità, lo stesso atto con cui amo Dio e solo così adempirò il precetto della carità fraterna.
 
 ### Colloquio
 
-«O Signore, quanto più comprenderò l'amore che Tu
-ci porti, tanto più rinuncerò volentieri ad ogni mio interesse
+«Come Tu, o Dio, hai creato l'uomo a tua immagine e somiglianza, così ci hai ordinato di amare gli uomini con un amore simile a quello dovuto alla tua divinità. Il motivo per cui amiamo te, o Signore, è la tua bontà sovranamente somma ed infinita ed il motivo per cui amiamo gli uomini è perché tutti sono stati creati a tua immagine e somiglianza, sì che li amiamo come santissime e vive immagini della tua divinità.
 
+«Ecco, dunque, che quella medesima carità con la quale amiamo te, o Signore, è fonte degli atti con i quali amiamo il prossimo. Una medesima dilezione si estende a te, Dio mio, ed al prossimo, ci solleva all'unione del nostro spirito con te e ci riconduce all'amorosa società con i prossimi, di maniera però che amiamo il prossimo in quanto è creato *ad immagine e similitudine tua*, creato per comunicare con la tua bontà divina, per partecipare della tua grazia e godere della tua gloria.
 
-e soddisfazione per non contentare che te, servendo il mio
-prossimo. Allora delle perdite che potrò fare non mi preoccuperò punto; avrò innanzi solo l'interesse del prossimo e niente altro. Per meglio piacere a te, Dio mio, aiutami a dimenticare
-me stessa per gli altri fino ad essere pronta, se occorresse, a morire per il loro bene come fecero molti martiri » (T.G. P. 7,5).
+«Amare il prossimo di carità è amare te, Dio mio, nell'uomo e l'uomo in te; è amare te solo per amore di te stesso e amare anche la creatura per amor tuo.
 
-«O carità, tu sei quel dolce e santo legame che lega l’anima col suo Creatore: tu leghi Dio nell'uomo e l’uomo in
-Dio. Tu hai tenuto confitto il Figlio di Dio sul legno della
-santissima croce; tu accordi i discordi, unisci i separati, arricchisci coloro che sono poveri della virtù perchè dai vita
-a tutte le virtù; tu doni la pace e togli l'odio e la guerra; doni
-pazienza, fortezza e lunga perseveranza in ogni buona e santa
-operazione. Non ti stanchi mai e mai ti distogli dall'amore
-di Dio e del prossimo, nè per pena, nè per strazio, nè per
-scherni, nè per villania.
-
-«O Cristo dolce Gesù, concedimi questa santa carità affinchè sia perseverante nel bene e giammai mi smuova da
-esso, poichè chi possiede la carità è fondato su di te, pietra
-viva e, seguendo i tuoi esempi, da te impara ad amare il suo
-Creatore ed il prossimo suo. In te, o Cristo, leggo la regola
-e la dottrina che mi conviene tenere, poichè Tu sei via, verità e vita; onde leggendo in te potrò loi la via diritta e
-attenderò solo all’onore di Dio e alla salute del prossimo »
-(S. Caterina da Siena).
+«Ah, Dio buono! Nel vedere un nostro prossimo creato a tua immagine e somiglianza, non dovremmo dirci l'un l'altro: guarda questa creatura come somiglia al Creatore? Non dovremmo abbracciarla, accarezzarla e piangere di amore su di lei? non dovremmo darle tante e tante benedizioni? E perché mai? Per amore di lei? No, certo, perché non sappiamo se sia in sé degna di amore o di odio. E perché dunque? Per amor tuo, o Signore, che l'hai formata a tua immagine e somiglianza e quindi l'hai resa capace di partecipare della tua bontà nella grazia e nella gloria. Perciò, o Amore divino, non solo tu comandi più oltre l'amore del prossimo, ma lo produci e infondi Tu stesso nei nostri cuori» (cfr. S. Francesco di Sales).

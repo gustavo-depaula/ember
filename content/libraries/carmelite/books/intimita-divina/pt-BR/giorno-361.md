@@ -1,41 +1,121 @@
-## 361 — INTIMIDADE DIVINA
+## 39 — JESUS PRIMOGÊNITO DE TODAS AS CRIATURAS
+*4 janeiro*
 
 ### Presença de Deus
 
-Concede-me, Senhor, plena e estável intimidade contigo, para que eu possa amar-te sempre mais.
+— Dá-me luz, ó Senhor Jesus, para descobrir as tuas inenarráveis grandezas de Filho de Deus através das tuas humildíssimas aparências de Menino.
 
 ### Meditação
 
-1 — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo sair resolutamente de si mesma e de todas as coisas, põe-se com ardor à procura do Deus vivo e presente nela. Desse primeiro passo até a intimidade profunda da união total, o caminho é longo e exigente.
+1 — "Ele [Jesus] é imagem do Deus invisível, o
+primogênito de toda criatura, pois nele foram criadas
+todas as coisas nos céus e na terra, as visíveis e as invisíveis... Tudo por meio dele e em vista dele foi criado;
+e Ele é antes de tudo e tudo nele subsiste" (Col. 1,
 
-A medida que, sustentada pela graça, a alma se desprende de si e das criaturas, se liberta das imperfeições, despe-se de sua vontade para revestir-se só da vontade divina e deixa o amor inflamar-se nela, sua intimidade com Deus torna-se mais intensa e amorosa, até que, nos cumes do amor transformante, se faz contínua e perfeita: abraço divino que estreita criatura e Criador.
+15-17). Neste texto de São Paulo está sintetizada a infinita
+grandeza de Jesus. Como Verbo, Ele é a imagem substancial e perfeitíssima do Pai, tendo a mesma natureza
+dele e dele procedendo por geração eterna. Como
+Verbo é o primogênito de todas as criaturas porque foi
+gerado pelo Pai antes de toda criação; além disso, o
+Pai criou todas as coisas por meio dele, seu Verbo,
+sua sabedoria infinita. "É de saber", ensina São João
+da Cruz, "que com esta só figura de seu Filho,
+Deus olhou todas as coisas: e isso foi dar-lhes o ser natural,
+comunicando-lhes muitas graças e dons de natureza... Olhá-las... foi o mesmo que criá-las no seu Verbo, seu Filho"
+(C. 5, 4). O Verbo, porém, não é só primogênito de todas
+as criaturas, mas, sendo Ele Deus como o Pai, é também seu Criador, de modo que "sem ele não foi feito
+nada do que foi feito" (Jo. 1, 3).
 
-Então se realiza do modo mais perfeito possível na terra a grande promessa de Jesus: «Se alguém me ama... meu Pai o amará, e viremos a ele e faremos nele morada» (Jo 14,23).
+Todas estas grandezas que pertencem por natureza
+ao Verbo, por motivo da sua Encarnação e portanto da união hipostática, tornam-se as grandezas de Jesus, verdadeiro
+Deus e verdadeiro homem; de fato São Paulo afirma que "em Cristo
+habita corporalmente toda a plenitude da Divindade" (Col.
+2, 9).
 
-São João da Cruz afirma que não é coisa incrível que isso se cumpra numa alma purificada, provada nas tribulações e tentações, e encontrada fiel no amor: a Santíssima Trindade vem realmente habitar nela de modo estável - iluminando o intelecto na sabedoria do Filho, deleitando a vontade no Espírito Santo e absorvendo-a na doçura do Pai.
+Jesus compraz-se em ocultar estes infinitos esplendores da sua divindade no escondimento do presépio, mas,
+guiados pelo amor e pela fé, nós não queremos tardar
+em reconhecê-los e exaltá-los.
 
-Nos momentos mais altos da união transformante, a alma percebe Deus vivo, presente e operante em si; sente seu abraço paterno, o esplendor de sua Sabedoria, o fogo do seu Amor que a penetra. Mesmo quando essa percepção sensível não é tão forte, a alma permanece consciente de estar profundamente unida a Deus, movida e governada por Ele.
+2 — Jesus é o primogênito, é a fonte do nosso ser
+não só na ordem natural, isto é, quanto à nossa
+criação, mas também e particularmente na ordem sobrenatural, isto é, quanto à vida da graça; de fato...
+"com a mesma só imagem de seu Filho [Deus] deixou as criaturas vestidas de beleza, participando-lhes o ser sobrenatural: o que aconteceu quando o Verbo, encarnando-se,
+elevou o homem à beleza divina" (J.C. C. 5, 4).
 
-2 — A intimidade divina, sobretudo em seus graus mais altos, é por si mesma muito jubilosa e beatificante. Contudo, a alma amante não a deseja para gozar, mas para amar cada vez mais o seu Deus; para estar a Ele totalmente unida, por Ele possuída e governada, a fim de melhor servi-lo e glorificá-lo em cada ação.
+O Verbo se encarnou justamente para comunicar a nós
+o ser sobrenatural; Jesus veio justamente para fazer de
+nós filhos de Deus: Ele, o único Filho de Deus por natureza,
+torna-se assim o primogênito de muitos irmãos que nele e por
+ele são feitos filhos de Deus por graça. Este é o plano admirável e misterioso da nossa elevação ao estado sobrenatural: "Bendito Deus Pai... que nos abençoou
+com toda bênção espiritual em Cristo... tendo-nos predestinado para sermos filhos adotivos seus por meio de Jesus Cris-
+to, segundo a benevolência da sua vontade" (Ef. 1, 3 e 5).
 
-Santa Teresa de Avila ensina que o fim das comunicações e graças de Deus, mesmo os mais altos favores místicos, não é apenas acariciar as almas com consolações, mas fortificar sua fraqueza para que imitem Jesus no muito padecer. Eis o fim da oração; a isto tende o matrimônio espiritual: produzir obras e obras.
+Deus Pai, desde a eternidade, quis elevar os homens à dignidade de seus filhos e, por isso, aos nossos primeiros pais,
+juntamente com a vida natural, tinha dado a vida sobrenatural,
+que eles, porém, perderam com o seu pecado. Mas Deus
+já tinha previsto esta queda e a permitira unicamente em vista de um plano muito mais grandioso que o primi-
+tivo, que manifestaria de modo insuperável a sua
+caridade e misericórdia infinitas: a Encarnação do seu Unigênito,
+para que por meio dele "também nós recebêssemos a adoção
+de filhos" (Gal. 4, 4).
 
-A doçura da intimidade com Deus tem por objetivo tornar a alma mais corajosa no serviço divino, mais generosa na doação de si, mais forte no levar a cruz. Enquanto estamos na terra, o sofrimento não falta. Mesmo entre as delícias da união, devemos conformar-nos a Jesus crucificado e segui-lo até a completa imolação pela glória do Pai e pela salvação dos irmãos.
-
-As obras que a união deve produzir são obras de amor: atividade intensa do amor puro, pela qual a alma se doa incessantemente a Deus, desejosa de arrastar consigo uma multidão de outras almas. Assim, da intimidade divina e da união total brota espontaneamente o apostolado mais fecundo.
-
-A alma amante, esquecida de si, não pensa nem em gozar nem em sofrer, mas somente em amar e servir a Deus, contribuindo quanto pode para sua glória e associando-se à obra redentora de Jesus. Se anseia por união cada vez mais íntima, na terra e no céu, é para amar com máxima intensidade e fazer amar o Amor pelo maior número possível de almas.
+Neste plano maravilhoso contemplamos dois sublimes mistérios: Jesus primogênito de todas as criaturas também
+na ordem sobrenatural e precisamente enquanto homem; nós,
+filhos do pecado, tornados nele e por ele filhos adotivos
+de Deus.
 
 ### Colóquio
 
-«Senhor Deus, meu Dileto, se a lembrança dos meus pecados ainda te detém de conceder-me o que te peço, faze neles, meu Deus, a tua vontade, que é o que mais desejo acima de tudo.
+Pai eterno, "Senhor,
+meu Deus, em tão grande número fizeste os teus prodígios e os teus desígnios para nós, e nada é comparável a ti. É belo dar-te louvor, Senhor, e cantar
+ao teu nome, ó Altíssimo; proclamar pela manhã a tua
+bondade e nas horas da noite a tua fidelidade. Porque me fazes
+alegre, ó Senhor, pela tua obra; por tuas ações eu exulto
+em júbilo. Quão grandes são as tuas obras, ó Senhor!
+Sumamente profundos são os teus desígnios" (Sl. 39, 6;
 
-«Mas, se esperas minhas obras para atender-me, dá-me Tu mesmo essas obras; realiza-as em mim e cumpra-se tua vontade nos sofrimentos que quiseres aceitar de mim.
+91, 2-6).
+A tua obra mais esplêndida, a Encarnação do teu
+Unigênito, que obra-prima mais sublime do que Cristo Jesus,
 
-«E se não esperas minhas obras, que esperas então, Senhor clementíssimo? Por que ainda tardas? Se, afinal, o que peço em teu Filho é graça e misericórdia, acolhe minha pobre moeda e dá-me este Bem que Tu mesmo queres dar.
 
-«Quem poderá libertar-se dos modos baixos de agir, se Tu não o elevares a ti na pureza do amor? Como se levantará a ti o homem, se Tu, Senhor, não o levantares com a mão que o formou?
+verdadeiro Deus e verdadeiro homem, "no qual estão escondidos todos os tesouros
+da sabedoria e da ciência"? (Col. 2, 3).
 
-«Não me tirarás, meu Deus, aquilo que uma vez me deste no teu Filho unigênito Jesus Cristo, no qual me deste tudo quanto desejo. Por isso me alegrarei, certo de que não tardarás, se eu esperar.
+Ó Jesus, Tu me fazes entender que és verdadeiramente o Homem-Deus e te manifestas à minha alma com tal majestade que
+não me é possível duvidar da tua infinita grandeza. Ó
+Senhor Jesus, quem poderia compreender a fundo a tua
+majestade de absoluto senhor da terra e do céu?
 
-«Mas por que te demoras, alma minha, quando já desde agora podes amar a Deus no teu coração? Meus são os céus e minha é a terra; meus são os povos; meus os justos e meus os pecadores; meus são os anjos, minha é a Mãe de Deus e tudo é meu; e o próprio Deus é meu e para mim, porque Cristo é meu e todo para mim. Que procuras então, alma minha? Tudo isto é teu e para ti.» (São João da Cruz)
+"Minha esperança, Cristo Deus, doce amador dos homens,
+luz, caminho, vida, salvação, honra e glória de todos os teus
+servos, Tu vives em eterno, reinando agora e por todos os séculos...
+Tu és o meu Deus vivo e verdadeiro; meu Pai santo; meu pio
+Senhor, o Rei grande, o Pastor bom, meu único Mestre,
+ótimo ajudador; meu guia à pátria, meu caminho reto...
+minha vítima imaculada, minha santa redenção, minha firme
+esperança, minha caridade perfeita, minha verdadeira ressurreição, minha
+vida eterna. A ti desejo, dulcíssimo e belíssimo Senhor!...
+
+"Ó esplendor da glória paterna, que te assentas sobre os
+Querubins e contemplas os abismos, luz verdadeira,
+luz que ilumina,
+luz indeficiente, na qual os anjos desejam fixar-se,
+eis que o meu coração está diante de ti; dissipa-lhe as trevas,
+para que seja mais abundantemente inundado pelos esplendores
+do teu santo amor.
+
+"Dá-me a ti mesmo, ó meu Deus; dá-me a ti mesmo, pois eu
+te amo; e se é pouco fervoroso este meu amor, concede-me
+amar-te mais.
+
+"Eu não posso medir quanto me falta do teu
+amor para que seja como deve ser,
+para que a minha vida
+corra nos teus abraços e deles não se afaste até
+que se esconda na luz do teu rosto; isto sei,
+que tudo é mal para mim, fora de ti, ó Senhor, não somente
+fora de mim, mas também dentro de mim mesmo. Toda abundância que não é o meu Deus é para mim indigência e miséria"
+
+
+(S. Agostinho).

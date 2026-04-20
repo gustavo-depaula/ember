@@ -1,119 +1,23 @@
-## 116 — NON SCUSARSI
+## 40 — NASCONDERSI CON CRISTO IN DIO
 
-### Presenza di Dio
-
-— O Gesù, che hai voluto tacere di fronte a chi ti condannava a morte, insegnami l'arte di non scusarmi.
+**Presenza di Dio.** — *O Gesù, aiutami a nascondermi alle creature per addentrarmi nella tua intimità divina.*
 
 ### Meditazione
 
-1 — Di fronte a qualsiasi difetto, colpa, errore personale, il nostro io corre istintivamente in cerca di scuse:
-è la tattica dell'orgoglio che non vuol riconoscere i propri
-torti e s'industria di ricoprirli con un manto più o meno
-falso, trovando sempre il modo di attribuirli o ad altre
-persone o alle circostanze. Tale fu la condotta di Adamo
-€ di Eva dopo il loro peccato, tale è il comportamento
-istintivo di ogni uomo non appena cade in qualche fallo,
-Ma ciò reca un grande danno all'anima, giacchè è impos-
-Sibile correggersi dei difetti che non si vogliono riconoscere; bisogna quindi avere il coraggio di smantellare le
-ingegnose, ma inconsistenti costruzioni dell’amor proprio,
-per mettere a nudo i propri difetti e guardarli in faccia,
-Così come sono, senza attribuirli ad altri che a noi stessi.
-«Allorchè commettiamo una mancanza — diceva S. Teresa del B. G. — non dobbiamo mai attribuirla ad una
+**1** — Quando si parla della vita nascosta di Gesù, non si deve intendere solo il suo occultarsi agli occhi degli uomini celando ad essi la sua divinità e fuggendo la loro gloria, ma, oltrepassando questi rapporti esterni colle creature, bisogna penetrare nel segreto del suo Cuore — celata ad ogni sguardo umano — si svolge un'altra e ben più sublime vita nascosta. È la sua vita interiore, vita di intimi rapporti con la Trinità. L'Anima santissima di Gesù, unita personalmente al Verbo, gode incessantemente della visione beatifica: vede il Verbo come soggetto di tutta la sua attività, vede il Padre fonte del suo essere, vede lo Spirito Santo che abita in lei come «nel suo tempio preferito» e che, rivestendola con la fiamma del suo amore, la trascina in Dio, nel pieno compimento della di lui volontà. Esteriormente Gesù vive con gli uomini, tratta con loro, come uno di loro, ma la sua vera vita, vita di Figlio di Dio, la vive — nascosta ad ogni sguardo umano — con la Trinità, nella Trinità. Ecco dove mira, come a sua ultima meta, l'imitazione della vita nascosta di Gesù: partecipare alla sua vita interiore, ossia nascondersi «con Cristo in Dio», per penetrare con lui nel santuario della Trinità sacrosanta. Questo esprimeva S. Teresa Margherita nel suo ardente desiderio di «emulare per fede, quanto a creatura è possibile, la vita e le azioni interne e nascoste dell'intelletto e della volontà, vale a dire le sublimi cognizioni ed affetti dell'Umanità santissima di Gesù Cristo, unita ipostaticamente al Verbo» *(Sp.* p. 374).
 
+La pratica della vita nascosta ha dunque due aspetti. Il primo, negativo e in prevalenza esteriore, che consiste nel celarsi agli occhi altrui ed anche ai propri: è morire alla gloria e agli onori terreni; il secondo, positivo e tutto interiore, che consiste nel concentrarsi in Dio, in una vita di intimi rapporti con lui. Il primo aspetto è la condizione e la misura del secondo: quanto più l'anima saprà nascondersi alle creature — ed anche a se stessa — tanto più sarà capace di vivere «con Cristo in Dio», secondo la bella espressione di S. Paolo: «siete morti — ossia morti al mondo e alle sue vanità — e la vita vostra s'è nascosta con Cristo in Dio» *(Col.* 3, 3).
 
-causa fisica, come alla malattia o alla stagione o ad altre
-circostanze, ma alla nostra imperfezione. Non sono le occasioni che fan l’uomo fragile, ma esse gli mostrano quello
-che è» (CR.). i
+**2** — «Mio Dio... ora per sempre intendo rinchiudermi nel vostro amabilissimo Cuore come in un deserto, per quivi fare in Voi, con Voi, per Voi questa vita nascosta di amore e di sacrificio». Così S. Teresa Margherita concretizzava il suo ideale di vita nascosta con Cristo. L'anima che si è a lungo esercitata nell'aspetto esteriore e negativo del nascondimento, ossia che con costante fedeltà ha saputo celarsi agli occhi delle creature, è libera e pronta per nascondersi con Cristo in Dio.
 
-Lo scusare i propri falli può appagare l’orgoglio, ma
-in realtà è un accecarsi volontariamente, è un rendersi incapaci di cogliere la verità della propria situazione e così
-la povera anima non solo non può avanzare, ma è condannata a brancolare nel buio, senza possibilità di uscita.
-Invece, riconoscere sinceramente le proprie colpe è già
-fare il primo passo per correggersene. Non basta però
-non scusarsi interiormente, bisogna anche non scusarsi di
-fronte agli altri, ossia, dopo aver riconosciuto di fronte a
-Dio le nostre mancanze, bisogna riconoscerle anche di
-fronte agli uomini e per accettarne umilmente la correzione e per riparare il cattivo esempio che si può aver
-dato. D'altra parte, ben poco varrebbe accettare in silenzio un’accusa, un rimprovero, quando l’anima non rinun-
-ciasse — sia pure a costo di lotte e di sforzi — a scusarsi nel suo interno.
+Essa non disperde più le sue energie in cerca di stima o di soddisfazioni umane; da questo punto di vista le creature sono diventate un nulla per lei e può ben dire che «le cose create né sue, né altrui non le danno più il menomo fastidio ed impaccio, come se punto non esistessero» (T.M. *Sp.* p. 373), e perciò ha raggiunto quella sovrana libertà di spirito che le permette di concentrarsi totalmente in Dio. Esteriormente la sua condotta non presenta nulla di straordinario, anzi la sua stessa cura di nascondersi agli occhi altrui molto spesso la fa passare inosservata, mentre i più la ritengono per persona da poco; ma nel segreto del suo cuore si svolge una ricchissima vita interiore nota a Dio solo. Unita a Gesù, con lui, per lui, partecipa alla sua vita Trinitaria. Ciò significa raggiungere la pienezza, il fine della vita cristiana, perché la grazia ci è stata data appunto per renderci partecipi della natura e quindi della vita divina, della vita di Dio-Trinità. Proprio per tal fine il Verbo si è incarnato. Gesù, morendo sulla croce, ci ha meritato la grazia, ci ha innestati in sé, per ricondurci con sé nel seno della Trinità, da cui col peccato ci eravamo allontanati. Così noi, non per nostro merito, non per nostra capacità, ma solo per essere innestati in Cristo possiamo, con lui e per lui — nostro Mediatore, nostro ponte, nostra via — penetrare nella vita intima di Dio, nella vita Trinitaria. La fede e la carità, che Gesù ci ha meritato insieme con la grazia, ci rendono capaci di entrare in relazione con le tre Persone divine, sì che noi possiamo realmente vivere «nascosti con Cristo in Dio».
 
-
-2 — Spesso ti risenti di fronte alle correzioni, perchè
-non le trovi completamente adeguate ai tuoi difetti, alle
-tue mancanze, E non pensi che questa è una conseguenza
-inevitabile della limitatezza umana; solo Dio, che legge nel
-cuore, può giudicare con perfetta giustizia le nostre azioni; gli uomini non vedono che l'esterno, perciò, anche
-quando hanno il dovere di correggerci, non sempre colgono esattamente nel segno, ma possono sbagliare o per
-eccesso o per difetto. Se vuoi accettare solo le osservazioni che quadrano perfettamente coi tuoi difetti, troppe
-volte ti troverai esposto a scusarti, a protestare, a dire
-le tue ragioni e, se non potrai farlo all’esterno, lo farai
-almeno nel tuo interno, perdendo così tutto il beneficio
-che potresti ricavare dalle correzioni qualora le ricevessi
-con umiltà di cuore.
-
-S. Teresa di Gesù invita le anime che vogliono giun-
-
-
-gere all'unione con Dio ad una grande generosità su questo punto, ossia ad accettare senza scusarsi qualsiasi cor-
-rezione o rimprovero, anche se non del tutto meritato e
-anche se completamente ingiusto. « Tacere quando si è
-accusati ingiustamente — dice la Santa — è un grande
-atto di umiltà, e si imita più da vicino nostro Signore che
-prese sopra di sè tutti i nostri peccati. Il vero umile deve
-desiderare d’esser disprezzato, perseguitato e condannato
-senza motivo, anche in cose gravi. Se vuole imitare il
-Signore, in che cosa lo potrà meglio fare, se non in questo?
-Non ha bisogno di forze corporali, nè d’esser aiutato da
-chicchessia, fuorchè da Dio ». E poi aggiunge con molta
-finezza: « Tutto considerato, non veniamo mai incolpati
-senza ragione, essendo sempre pieni di difetti... Se siamo
-innocenti di quanto ci attribuiscono, non siamo mai così
-scevri di colpa come lo era il buon Gesù » (Camz. 15, 1 € 4).
-
-«Gesù taceva » (Mr. 26, 63), dice l'Evangelista presentandoci il Signore accusato davanti ai tribunali. L'anima
-che aspira all'unione intima con Gesù deve sapersi unire
-ai suoi silenzi di fronte alle accuse, anche le più ingiuste.
-E, quando particolari motivi — come evitare scandalo 6
-disgusto al prossimo — esigono che si scusi, lo farà solo
-lo stretto necessario, con molta misura e ponderatezza, per
-non perdere la grazia dell’umiliazione.
+La vita nascosta in Dio è la grande attrattiva delle anime interiori e per giungervi esse sono ben felici di celarsi agli occhi propri e altrui, fuggendo ogni ombra di splendore terreno. Benedetto nascondimento che introduce l'anima nella «*vita abscondita cum Christo in Deo*»!
 
 ### Colloquio
 
-Questo ti chiedo, o Signore, che la tua luce sia in me
-così abbondante da dissipare, come nebbia al sole, tutte
-quelle scuse con cui il mio amor proprio cerca di coprire
-le mie mancanze, i miei difetti. Questo ti chiedo: che
-io sappia ben riconoscere tutti i miei torti e sappia giudicarli come Tu stesso li giudichi. Frena il mio cuore, af-
-finchè non scivoli in cerca di ragionamenti maliziosi per
-accattare scuse ai miei falli. E se, per la mia debolezza,
-mi è tanto facile cadere, fa' che almeno sappia confessarlo
-umilmente davanti a te e davanti agli uomini. Libera la
+«Sì, o Gesù, ad altro non voglio attendere che a divenire una tua copia perfetta e, poiché la tua vita non fu che vita nascosta di umiliazione, di amore, di sacrificio, così da ora in poi deve essere la mia; perciò adesso per sempre intendo di rinchiudermi nel tuo amabilissimo Cuore come in un deserto, per quivi fare in te, con te, per te, questa vita nascosta di amore e di sacrificio... E giacché m'ispiri al cuore di farmi, per quanto è possibile, in tutto simile a te, a questo tenderanno le mie premure, e particolarmente t'imiterò in quelle virtù che tanto piacciono al tuo amabilissimo Cuore: umiltà... e purità d'intenzione, sì nell'interno, come operando sempre con spirito di semplicità» (T.M. *Sp.* p. 324).
 
+O Gesù, degnati di aprire anche a me il tuo dolcissimo Cuore e permettimi di rifugiarmi in esso per vivere con te nascosto in Dio. La vita esteriore, la vita di comparsa e di gloria terrena non ha più per me alcuna attrattiva: non è forse tutta vanità, tutto fugace avvicendarsi di circostanze che presto non saranno più? L'unica vita che mi attira e che rimarrà per sempre, al di sopra di ogni contingenza terrena, è quella di intima unione con Dio. Ed è questo il grande tesoro che Tu mi offri per i meriti della tua Passione. Ti contemplo in croce, o Gesù, col petto squarciato dalla lancia quasi per indicarmi che la tua morte mi ha aperto le porte del tuo Cuore, per ammettermi nel santuario della tua vita interiore. La tua morte, infatti, ha innestato in te la mia povera vita umana per renderla partecipe della tua vita divina, vita di intimi rapporti con la Trinità. Questa sì che è vita vera, vita duratura, vita eterna! Ed a questa io aspiro, non per i miei meriti, ma per i meriti della tua Passione. O Gesù, fa' che io cerchi la mia gioia, il mio bene solo in questa partecipazione della tua vita interiore, e che in essa riponga tutta la mia gloria.
 
-mia coscienza dalla maschera delle scuse vane e pietose
-che m’impediscono di vedermi quale Tu mi vedi, quale
-Tu mi conosci, quale in realtà sono davanti a te. E poi,
-o Signore, dammi l’umiltà necessaria per accettare di buon
-cuore le correzioni altrui. Spegni con la tua dolcezza la
-mia suscettibilità tanto facile ad accendersi, a risentirsi, e
-concedimi la grazia d’imitare la mitezza e l'umiltà tua di
-fronte ai tribunali.
-
-«O Signor mio, quando ricordo i tuoi molteplici
-tormenti che per nessun motivo meritavi, non so che dire
-di me, nè dove mi trovi ora quando pretendo discolparmi.
-Già lo sai, mio Bene, che se vi è in me qualche cosa di
-buono, non mi venne che da te. E dovrei ora desiderare
-che di una creatura così cattiva come son io, non si dica
-alcun male, quando tanto se n'è detto di te, che sei il Bene
-sopra ogni bene? Non lo si può soffrire! E ben vorrei
-che non lo soffrissi neppur Tu, e che nulla permettessi
-nella tua serva che possa disgustare i tuoi sguardi. To sono
-cieca, Signore, e mi contento di troppo 0. Dammi
-luce e fa’ che desideri veramente d'essere disprezzata da
-tutti, poichè anch'io ho disprezzato te che mi hai amato
-con tanta fedeltà!
-
-«Che è questo, mio Dio? Che c’importa d’esser incolpati anche da tutte le creature quando non c’incolpi
-Tu? » (T.G. Com. 15,5 € 6).
+Sì, ogni mia gloria sia nell'interno, nel segreto della mia vita nascosta con te in Dio.

@@ -1,116 +1,20 @@
-## 139 — S. JOSÉ PATRONO DA IGREJA
-*março*
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-— Ó glorioso S. José, faze que sob teu patrocínio cresça e se desenvolva minha vida interior.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — Hoje a Igreja nos apresenta S. José, o grande
-patriarca a cuja guarda Deus quis confiar a porção
-eletíssima do seu rebanho: Maria SS.ma e Jesus. Precisamente
-porque foi escolhido por Deus como guarda da
-família de Nazaré, primeiro núcleo da grande família
-cristã, a Igreja quis reconhecer nele o guarda,
-o patrono de toda a cristandade. É este o significado
-da festa de hoje, que assim nos convida a fixar o olhar na missão do grande Santo nas relações com Jesus e
-com sua Igreja.
-
-Conhecido o mistério da Encarnação, toda a vida de
-José gravita em torno da do Verbo Encarnado:
-por ele suas ansiedades, seus sofrimentos, suas fadigas, seu
-trabalho; por ele todos os seus cuidados, suas energias, seus
-recursos, seu tempo. Não reservou nada para si, mas,
-totalmente esquecido de qualquer exigência, desejo ou vista pessoal, deu-se todo aos interesses e à obra de
-Jesus; para José não existem senão Jesus e Maria e ele
-sente que sua vida não tem outra razão de ser senão o
-serviço deles, a guarda deles. Assim participou plenamente,
-como colaborador humilde e escondido, da obra da Redenção e, se não acompanhou Jesus na sua
-vida apostólica e em sua morte de cruz - como ao contrário
-fez Maria - trabalhou, porém, para os mesmos fins do
-Salvador.
-
-Tendo sido o guarda fiel da Sagrada Família,
-não é possível que do céu S. José não continue
-a ser o guarda da grande família cristã, a
-Igreja inteira, a qual, segura de sua proteção e apoiando-se nela, assim reza: "Sustentados pelo patrocínio
-do Esposo de tua santíssima Mãe, imploramos, ó Senhor,
-tua clemência...; por seus méritos e
-por sua intercessão guia-nos à glória eterna" (MR).
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — O chamado de José para guarda da família de Nazaré foi também um chamado à intimidade
-divina. Não devemos esquecer que S. José está
-no ponto de divisão entre o antigo e o novo testamento;
-a primeira parte de sua vida pertence ao antigo e a
-segunda ao novo. Antes da vinda de Jesus, ele,
-como todos os patriarcas da antiga aliança, certamente seguiu a orientação de seus tempos, pela qual suas
-relações com Deus eram sobretudo informadas por
-um senso de sagrado temor reverencial. Mas do momento
-em que o Anjo lhe revela o mistério da Encarnação e
-ele vem a saber que Maria, sua Esposa, é a Mãe
-do Redentor, tudo muda em sua vida. Deus, por ele
-sempre honrado como o Altíssimo, o Inacessível,
-o três vezes Santo, faz-se-lhe próximo,
-tão próximo, até encarnar-se no seio de sua Esposa e até escolhê-lo como
-seu Pai putativo. Apenas nascido, é posto em seus
-braços, é confiado aos seus cuidados, e depois crescerá sob seus
-olhares, nutrir-se-á à sua mesa, dormirá sob
-seu teto. Que vida de intimidade! E não é só intimidade
-de relações externas, mas também de relações interiores,
-espirituais, porque José sabe pela fé que Jesus é seu
-Deus. Assim, junto com Maria, o grande Santo foi o primeiro
-a entrar naquela vida de amor e de intimidade com Deus,
-de que Jesus nos abriu as portas. Vejamos, pois, José cumprir sua missão não só com total de-
-dicação externa, mas também com um coração cheio de Jesus,
-em que floresce uma esplêndida vida de intimidade divina. Enquanto se entrega às obras requeridas por seu encargo
-de pai putativo, no segredo de sua alma vive em contínuas
-relações de amor com seu Deus, Verbo Encarnado.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-Na Igreja cada um de nós tem sua missão a
-cumprir para o bem das almas e para a glória de Deus,
-missão que exige obras e muitas vezes obras fatigantes,
-sacrifícios e ação intensa. Como S. José, devemos dar-nos
-com generosidade, com totalidade, sem poupar,
-sem reserva; mas, ao mesmo tempo, devemos também nós dar-nos
-às obras de Deus com um coração cheio de Deus,
-com um coração que vive em intimidade com ele, alimentando essa
-intimidade mediante o exercício assíduo da oração. Que José nos ensine seu doce segredo de vida ativa e contemplativa ao mesmo tempo, para que, como ele, saibamos dar-nos
-à ação sem descuidar nossa vida de íntima união
-com Deus.
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"São José, feliz és tu, a quem foi dado não só ver e ouvir aquele Deus que muitos reis desejaram
-ver e não viram, ouvir e não ouviram,
-mas também carregá-lo nos braços, beijá-lo, vesti-lo e
-guardá-lo!... Ó S. José, os outros só depois da morte,
-mas tu, ainda vivente, à semelhança dos bem-aventurados, gozas de Deus e
-vives junto dele. Tu estreitas ao teu coração Jesus Menino,
-tu o segues fugitivo no Egito, tu o alojas sob teu
-teto" (cf. BR).
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-"Oh, quantos doces beijos recebeste dele! Com quanta
-doçura o sentias chamar-te, pequenino ainda balbuciante, e com quanta suavidade te sentias docemente abraçado. Com quanto amor, nas viagens, o fazias repousar
-sobre teus joelhos enquanto Ele, ainda menino, estava
-exausto da fadiga! Um amor sem reservas te levava
-para ele, como para um dulcíssimo Filhinho que o
-Espírito Santo te havia dado por meio da Virgem tua
-esposa" (S. Bernardino de Sena).
-
-"Ó glorioso Santo, é coisa verdadeiramente maravilhosa
-recordar os grandes favores que o Senhor me fez e os
-perigos, tanto de alma quanto de corpo, dos quais, por tua intercessão, me libertou. Parece que aos outros Santos Deus
-concedeu socorrer-nos nesta ou naquela necessidade,
-tu, porém, estendes teu patrocínio sobre tudo... A
-ti devem ser especialmente afeiçoadas as pessoas de
-oração;... e quem não tiver mestre de quem aprender
-a fazer oração, tome-te por guia e não errará"
-(T.G. Vi. 6, 6 e 8).
-
-Ó José, faze que sob teu patrocínio cresça e
-prospere a vida da Igreja inteira e a vida interior de
-cada cristão. Sob tua proteção ponho minha vida
-espiritual; tu que viveste tão perto de Jesus, introduze-me na sua intimidade e faze que, como tu, eu possa servi-lo
-com um coração cheio de amor.
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

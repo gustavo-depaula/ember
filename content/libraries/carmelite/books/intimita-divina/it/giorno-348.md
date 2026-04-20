@@ -1,98 +1,21 @@
-## 348 — AMORE ESTIMATIVO
+## 26 — MARTA E MARIA
 
-### Presenza di Dio
-
-Dio mio, Bene sommo ed infinito, fa' che nulla stimi più di te e nulla preferisca a te.
+**Presenza di Dio.** — *O Signore, che io ti ami col cuore di Maria e insieme ti serva con la dedizione di Marta.*
 
 ### Meditazione
 
-1 — «Sai tu cosa vuol dire amarmi per davvero? —
-diceva il Signore a S. Teresa di Gesù — Persuadersi che
-è menzogna tutto quello che a me non piace » (Vi. 40, 1).
-Benchè senza suono di parole, lo Spirito Santo imparte
-questa lezione ad ogni anima che si lascia da lui plasmare e purificare; quanto più Egli la illumina sulla verità
-della sua miseria e della miseria di tutte le creature, tanto più l'anima ne resta svogliata e ritrae da esse ogni speranza, giungendo davvero a stimare Dio al di sopra di
-tutto, preferendolo ad ogni altro. L'atteggiamento di quest'anima diventa così molto simile a quello di S. Paolo
-che esclamava: «Credo che tutte le cose siano una perdita di fronte a... Cristo Gesù Signor mio, per amore del
-quale mi son privato di tutto e tutto tengo in conto di
-spazzatura, allo scopo di guadagnarmi Cristo » (Fil.3, 8).
+**1** — Due sono le grandi attrattive che dominano nell'anima che si è data seriamente a Dio: l'attrattiva all'orazione solitaria e silenziosa per tuffarsi in Dio, per ascoltare la sua voce, per penetrare i suoi misteri e soprattutto per unirsi più intimamente a lui, e, nello stesso tempo, l'attrattiva all'apostolato, al sacrificio attivo e generoso per la salvezza dei fratelli. Per raccogliersi in Dio l'anima «vorrebbe fuggire gli uomini e invidia grandemente coloro che vivono e son vissuti nei deserti. Nel contempo vorrebbe pure cacciarsi in mezzo al mondo per ottenere che anche un'anima sola lodasse Iddio di più» *(T.G.M.* VI, 6, 3). È questo il doppio movimento della carità, che, essendo amore di Dio e amore del prossimo insieme, spinge verso l'unione con Dio e verso il servizio del prossimo; mancando uno di questi movimenti la carità non sarebbe piena. Lo sviluppo della vita interiore comporta tale duplice attrattiva, la quale è indice e mezzo di progresso ed insieme è anche tormento per l'anima che non sa ancora equilibrarsi bene fra le due tendenze. A quale delle due darà la prevalenza? All'azione o alla contemplazione? In pratica il problema deve essere risolto in base alle esigenze dei doveri del proprio stato, alle disposizioni dell'obbedienza, alle circostanze concrete permesse da Dio; il desiderio della contemplazione che dovesse distrarre o distogliere l'anima dall'adempimento del dovere non sarebbe conforme alla volontà di Dio e Dio ha tutto il diritto di chiedere anche la rinuncia a questo desiderio per darci al servizio del prossimo. Alla Maddalena, felice d'aver finalmente ritrovato e desiderosa di sostare ai suoi piedi, Gesù risorto ingiungeva: «Va' dai miei fratelli» *(Gv.* 20, 17) e lei, docile, partiva via ad annunziare la risurrezione. D'altra parte, è vero anche il contrario: agli Apostoli, ritornati dalla predicazione, Gesù diceva: «Venitevene in disparte, in un luogo solitario» *(Mr.* 6, 31), invitandoli così a sospendere l'attività apostolica per ritempare il loro spirito nel silenzio e nella preghiera, soli a solo con lui. La via giusta, che c'impedisce di deviare in un senso o nell'altro, è sempre quella del dovere, della volontà di Dio, dell'ispirazione interiore, controllata da chi ha l'autorità di dirigere le anime.
 
-L'amore estimativo che lo Spirito Santo infonde nell'anima attraverso le tenebre purificatrici è così forte che
-essa è disposta a compiere qualsiasi sacrificio, ad affrontare qualsiasi ostacolo, a subire qualsiasi umiliazione e sofferenza pur di conquistare il suo Dio. «Invero — dice
-S. Giovanni della Croce — è tanto grande l'amore estimativo che gli porta, benchè all'oscuro e senza sentirlo,
-che non solo sopporta lieta i suoi patimenti, ma ben volentieri darebbe mille volte la vita per compiacerlo » (N.
-II, 13, 5). Notiamo che l'anima non sente e non gode il
-suo amore; esso non è accompagnato da dolcezza e soavità, tuttavia è un amore così reale che la conduce effettivamente a compiere anche le cose più difficili « pur
-di andare incontro al suo Amato» (ivi). Notiamo pure
-che non si tratta di velleità, di desideri inoperosi che subito crollano di fronte ai casi concreti di sacrificio, ma
-si tratta invece di una decisione così forte della volontà
-che nulla vale a smuovere. Quando quest'anima ha capito che per unirsi a Dio è necessario decidersi ad un determinato passo, non bada più a nulla, nè alle ripugnanze della natura, nè alle voci dell'amor proprio o dell'egoismo, nè a quello che gli altri potranno dire o pensare
-di lei, ma si slancia a capofitto, con grande ardire.
+**2** — Per armonizzare interiormente l'attrattiva all'apostolato e quella all'unione con Dio, occorre una soluzione più profonda che non può venire dall'esterno, ma solo dall'interno e che consiste in un maggior progresso nelle vie dello spirito, sì da pervenire a un più alto grado di amore. L'amore è l'unica radice da cui sbocciano l'azione e la contemplazione; esso è l'unica forza che, alimentando ad un tempo queste due attività, riesce infine a fonderle in piena armonia affinché diano i frutti migliori. Nate dall'unico ceppo di un amore già progredito, azione e contemplazione si fondono nell'amore perfetto.
 
-2 — Altro effetto del grande amore estimativo per
-Iddio è «che il più grave tra i patimenti [che l'anima
-possa soffrire] consiste nel dubbio tormentoso di aver perduto Dio e di esserne stata abbandonata » (G.C. N. II, 13,
-5). Come non si preoccupa di nessun acquisto che non
-sia l'acquisto di Dio, così l'anima non si preoccupa di
-nessuna perdita che non sia la perdita di lui. Tutto le si
-può togliere: la salute, le ricchezze, gli onori, la stima,
-la fiducia, l'affetto delle creature più care e queste stesse
-creature, ma giammai sopporterebbe che le fosse tolto
-Dio o le venisse impedito di amarlo. Così pensavano ed
-agivano i santi. Così pensava S. Teresa Margherita del
-Cuore di Gesù, la quale nel suo immenso desiderio di
-amare Dio protestava di essere disposta a soffrire anche
-le pene dell'inferno pur di ottenere tale grazia; e a chi
-le domandava come avrebbe potuto sopportare tormenti
-tanto indicibili, rispondeva senza esitare: « Credo che l'amore ce li renderebbe tollerabili e forse anche dolci, perchè il solo amore fa superare tutto» (Sp. p. 347). Così
-pensava S. Teresa di Gesù che ha lasciato alle sue figlie
-il bellissimo ricordo: «Il tuo desiderio sia di vedere Iddio; il tuo timore, di perderlo; il tuo dolore, di non possederlo; la tua gioia, in quello che ti può condurre a lui»
-(A. 69). Questa è la caratteristica del vero amore: creare
-nell'anima un'unica preoccupazione, un unico timore, un
-unico desiderio, un'unica gioia che si accentrino in Dio
-solo.
-
-Se vuoi vedere fino a qual punto giunge il tuo amore estimativo per Iddio esamina la tua condotta e cerca
-di scoprire il motivo ultimo delle tue preoccupazioni, dei
-tuoi timori, dei tuoi desideri, delle tue gioie; se questo
-motivo non è Dio, ma lo sono invece le creature, i tuoi
-interessi e la tua soddisfazione, devi convenire umilmente
-che non sei ancora giunto a stimare Dio al di sopra di
-tutte le cose, perchè metti «in una stessa bilancia Dio e
-quello che dista infinitamente da lui» (G.C. S.I, 5, 4).
-Scrutando più a fondo il tuo cuore vedrai che non di
-rado metti sullo stesso piano la tua volontà e la volontà
-di Dio, i tuoi gusti ed il suo beneplacito, i tuoi interessi
-e la sua gloria, il tuo comodo ed il suo servizio, non solo,
-ma, mentre in teoria protesti di stimare Dio al di sopra
-di tutte le cose, molto spesso in pratica dai la preferenza
-non ai suoi voleri, ai suoi gusti, ai suoi interessi, ma ai
-tuoi e appunto così cadi in tante imperfezioni.
-
-Persuaditi: « dov'è vero amor di Dio non entra amore
-di se stesso, nè delle proprie cose » (G.C. N.II, 21,10).
+La carità perfetta fa sì che l'anima raccolta in contemplazione ai piedi del Signore, sia quanto mai operosa e feconda per il bene dei fratelli: «Un pochino di questo puro amore l'amore solitario che fiorisce nel contatto intimo con Dio apporta maggiore utilità alla Chiesa che non tutte le altre opere unite insieme... Pertanto — dichiara S. Giovanni della Croce — quando un'anima avesse un po' di questo solitario amore, si farebbe gran danno a lei e alla Chiesa, se la volessero occupare in cose esteriori o attive, quantunque assai importanti» *(G.C.C.* 29, 2 e 3). Nelle regioni dell'amore puro, ossia della carità perfetta, contemplazione ed apostolato s'identificano, si completano e si esigono a vicenda. Giunta a questo grado l'anima contemplativa è massimamente apostolica e la maggiore attività che può svolgere a beneficio dei fratelli è proprio quella della sua preghiera solitaria, nutrita di amore, nutrita di sacrificio e di immolazione. D'altra parte, la carità perfetta fa pure che l'anima impegnata nelle opere apostoliche sia, nello stesso tempo, più che mai unita a Dio, più che mai contemplativa; l'amore l'ha talmente fissata in Dio che anche durante il lavoro il suo sguardo interiore è sempre rivolto a lui per nutrirsi della sua divina presenza, per riflettere nella propria condotta le sue perfezioni infinite, per regolarsi in tutte le cose secondo l'espressione del suo beneplacito. Proprio così, al vertice della vita spirituale, azione e contemplazione si fondono in unità ed armonia perfetta. «Credetemi — scrive S. Teresa di Gesù — per ospitare il Signore, averlo sempre con noi, trattarlo bene e offrirgli da mangiare, occorre **che** Marta e Maria vadano d'accordo... Si dà da mangiare al Signore quando si fa il possibile per guadagnare molte anime le quali, salvandosi, lo lodino eternamente» *(M.* VII, 4, 12). Da ciò comprendiamo come tutti i grandi contemplativi sono stati grandi apostoli e i grandi apostoli sono stati grandi contemplativi.
 
 ### Colloquio
 
-«Confesso a te, amabilissimo Figliolo di Dio, la colpa mia; non so con che giudizio lasciai tirare il mio cuore, creato per te, dagli affetti delle creature e lo imbrattai con la conversazione profana della terra. Non la realtà, ma l'apparenza dell'amore artificiosamente dipinto m'ingannò e mi allontanò da te e dalla dolcissima legge del
-vero ed unico amor tuo. Ma ormai che con la luce tua
-scacciasti le mie tenebre, rifiuto ogni bellezza mondana
-ed eleggo te, Figliolo di Dio e della beatissima Vergine,
-per amarti con un patto di amore eterno.
+«O Signore, il desiderio di ascoltare la tua divina parola, il bisogno di tacere è talvolta così forte che vorrei non saper far altro che rimanere ai tuoi piedi, come la Maddalena, per penetrare sempre più addentro a quel mistero di amore che Tu sei venuto a rivelarci. Ma Tu m'insegni che se l'anima non si discosta mai da te, può rimanere sempre assorta nella contemplazione, anche quando, in apparenza, compie l'ufficio di Marta. In questo modo, o Signore, lo intendo e voglio esercitare l'apostolato: potrò irradiarti, potrò darti alle anime se non me ne allontanerò da te, sorgente divina. Aiutami, o dolce Maestro, a starti molto vicino, a mettermi in comunione con l'Anima tua, a fare miei tutti i tuoi affetti per poi andare come te a compiere la volontà del Padre.
 
-«Senza di te, Bontà e Bellezza infinita, nessuna creatura può avere veri beni, nè fuori di te l'anima mia può
-trovare soddisfazione alcuna, poichè Tu le desti tanta capacità e fame d'infinito che per viva forza bisogna che
-non voglia nè cerchi altro bene fuori di te. Volgo lo
-sguardo alla terra, o Figlio dell'Altissimo, e tutte le cose
-mi sembrano piccole ed imperfette in confronto a te. Se
-mi fossero date tutte le dignità del mondo, tutte le bellezze del creato, tutte le comodità della vita; se fosse dato in mio potere tutto quello che di grande, onorevole,
-ricco ed ammirabile vi è nel mondo e potessi avere tutti questi beni riuniti insieme per tutta eternità, non muterei giammai la mia scelta, ma con affetto ardentissimo
-canterei: cerco e cercherò sempre il tuo volto, o Signore.
+«Quale potenza esercita sulle anime l'apostolo che non si distacca mai dalla sorgente delle acque vive! Fa', o Signore, che io possa essere uno di questi. Tutto posso lasciare che l'onda trabocchi e si sparga all'intorno, senza pericolo che la mia anima venga a trovarsi vuota, perché si trova in continua comunicazione con te, l'Infinito.
 
-« Chiudi, o Signore, il mio cuore affinchè non vi entrino affetti umani e fa' che io non veda, non senta, nè
-gusti alcuna cosa creata, nè alcuna creatura si attacchi a
-me con detrimento del puro amore tuo. Basti Tu, Bene
-infinito, per colmare tutti i miei desideri e saziare questa
-fame che mi crucia; nessun altro bene, neppure tutti gli
-altri beni riuniti insieme mi bastano; anzi, dopo averli gustati tutti, resterò morto di fame e languirò in un estremo
-abbandono, privo di te» (Ven. Giovanni di G.M., O.c.d.).
+«Dio mio, degnati d'invadere tutte le potenze dell'anima mia, fa' che in me tutto sia divino e porti il tuo sigillo, affinché io sia in me un altro Cristo che lavora per la tua gloria.
+
+«O Signore, voglio lavorare tanto per la tua gloria! Voglio donarmi interamente a te, lasciarmi pervadere dalla tua linfa divina; sii Tu la vita della mia vita, l'anima della mia anima e fa' che io rimanga sempre vigile e cosciente sotto la tua azione divina» *(cfr. E.T. Lt.)*.

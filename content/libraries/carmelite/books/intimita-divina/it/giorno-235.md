@@ -1,100 +1,17 @@
-## 235 — LA MADONNA DEL CARMELO
+## V — LA BONTÀ INFINITA
 
-### Presenza di Dio
-
-O Maria, decoro del Carmelo, rendimi degno della tua protezione, rivestimi con la tua veste, sii la maestra della mia vita interiore.
+**Presenza di Dio.** — *O mio Dio, Tu che sei il solo buono, degnati di rivestirmi della tua bontà.*
 
 ### Meditazione
 
-1. — La Madonna è la mamma che ci riveste della grazia, che prende sotto la sua protezione la nostra vita soprannaturale fino ad assicurarne il suo fiorire in vita eterna. Lei,
-la tutta pura, piena di grazia fin dal primo istante del suo
-concepimento, prende le anime nostre macchiate dal peccato
-e con gesto materno le lava nel Sangue di Cristo, le riveste
-della grazia che, insieme con lui, ci ha meritata, Possiamo
-ben dire che la veste della grazia è stata tessuta dalle mani
-benedette di Maria la quale, giorno per giorno, momento per
-momento, ha dato tutta se stessa, in unione col Figlio suo,
-per la nostra redenzione. La leggenda parla della tunica inconsutile che la Madonna ha" tessuto per Gesù: ma
-noi — ed è realtà — ha fatto molto di più: ha cooperato
-a procurarci l'abito della nostra salvezza eterna, abito di nozze per cui saremo introdotti nella sala del banchetto celeste,
-E come vorrebbe che quest'abito fosse imperituro! Dal momento in cui l'abbiamo ricevuto, Maria non ha mai cessato
-di seguirci col suo sguardo materno per tutelare in noi la
-vita della grazia. Ogni nostra conversione a Dio, ogni nostro
-risorgere dalla colpa — grande o piccola che sia — ogni nostro progresso nella grazia si effettua sempre per la mediazione di Maria. Lo scapolare, l'abitino che la Madonna del
-Carmine ci offre non è che il simbolo esterno di questa sua assidua opera materna; simbolo, ma anche segno, ma anche pegno di salvezza eterna. « Prendi, dilettissimo figlio — diceva
-fa a S. Simone Stock — questo scapolare... col
-quale chiunque morirà non patirà fuoco eterno». La Ma-
+**1** — Quando Mosè chiese a Dio di mostrargli la sua gloria, Dio gli rispose: «Io ti mostrerò ogni bene» *(Es.* 33, 19), quasi ad indicargli che la sua gloria è la bontà infinita, il bene che Egli possiede con tale pienezza che ogni bene è in lui e nessun bene esiste indipendentemente da lui. Dio possiede il bene non perché l'abbia ricevuto da qualcuno, ma perché Egli stesso è, per sua natura, il Bene sommo, perché il suo essere è bontà infinita. Se le creature sono buone, lo sono soltanto perché Dio ha comunicato ad esse qualcosa della sua bontà, ma di per sé la creatura, come non può esistere, così non può avere bontà alcuna. Ecco perché al giovane che lo aveva chiamato «Maestro buono», Gesù disse: «Perché mi chiami buono? Nessuno è buono, tranne Dio solo» *(Mr.* 10, 18). Neppure Gesù come uomo possedeva in proprio la bontà, ma la possedeva solo perché Dio, cui era ipostaticamente unito, gliela comunicava. Soltanto di Dio si può dire che è buono, nel senso che Egli è la bontà stessa, che la bontà gli appartiene per natura, come per natura gli appartiene la divinità; e, come è impossibile che venga meno la sua divinità, così è impossibile che venga meno la sua bontà. Passerà il cielo, passerà la terra, passeranno i secoli, ma la bontà di Dio non passerà in eterno. La malizia degli uomini potrà accumulare peccati su peccati, mali su mali, ma al di sopra di essi la bontà di Dio rimarrà immutabile; l'ombra del male mal la sfiorerà, anzi, Dio, sempre benigno, si chinerà sul male per ridurlo al bene, per trarne un bene maggiore. Così la bontà infinita si è chinata sull'uomo peccatore e dalla caduta di Adamo ha ricavato un bene immensamente più grande: la redenzione del mondo mediante l'incarnazione del suo Unigenito. Questo è il carattere distintivo della bontà di Dio: volere il bene, unicamente il bene al punto da trarre il bene anche dal male.
 
-Madonna assicura la grazia suprema della perseveranza finale
-a tutti coloro che portano degnamente il suo abitino»,
-
-« Chi porta lo scapolare — ha detto Pio XII — fa professione di appartenere a Nostra Signora»; proprio in forza della
-nostra consacrazione a lei, la Madonna si prende una cura
-tutta speciale delle anime nostre: ciò che è suo non può
-andare perduto. E tale intercessione materna le dà il diritto
-di ripetere per i suoi figli le parole di Gesù: «Padre santo,
-quelli che Tu mi hai dato li ho custoditi e nessuno di loro
-è perito» (Gv. 17, 12).
-
-2. — La devozione alla Madonna del Carmelo è anche
-una via alla vita interiore, che è in modo tutto speciale
-la vita di Maria. La Madonna ci vuole simili a lei molto più
-nel cuore e nello spirito che nell'abito esteriore. Se penetriamo
-nell'anima di Maria vediamo che la grazia è fiorita in lei
-in una ricchezza immensa di vita: vita di raccoglimento,
-di preghiera, di ininterrotta adesione a Dio, di contatto continuo,
-di unione intima con lui. L'anima di Maria è un santuario
-riservato a Dio solo, dove nessuna creatura ha mai impresso
-la sua ombra; vi regna l'amore e lo zelo per la gloria di Dio
-e per la salvezza delle anime.
-
-Coloro che vogliono vivere in pieno la devozione alla
-Madonna del Carmelo devono seguire Maria nelle profondità
-della sua vita interiore. Il Carmelo è infatti vita contemplativa,
-vita tutta dedicata alla ricerca di Dio, tutta protesa
-verso l'intimità divina; e Colei che meglio realizza questo
-ideale altissimo è appunto la Madonna, Vergine decor Carmeli.
-«Nel deserto abiterà l'equità e nel Carmelo sederà la giustizia.
-E opera della giustizia sarà la pace; prodotto della giustizia
-sarà il silenzio e la sicurezza in sempiterno. Il mio popolo
-abiterà nell'amenità della pace, nei padiglioni della sicurezza»
-(cfr. Is. 32, 16-18). Questi versetti, riportati nell'Ufficio proprio
-della Madonna del Carmelo, delineano assai bene lo spirito
-contemplativo e nello stesso tempo sono un bel ritratto
-dell'anima di Maria, vero «giardino» (Carmelo, in ebraico,
-significa giardino) di virtù, oasi di silenzio e di pace, piena di Dio.
-
-Ogni anima di vita interiore, pur vivendo in mezzo al
-chiasso del mondo, deve sforzarsi di giungere a questa pace,
-a questo silenzio interiore che rendono possibile il contatto
-continuo con Dio. Sono le passioni e gli attacchi che fanno
-chiasso dentro di noi, che turbano la pace del nostro spirito,
-che interrompono il commercio intimo col Signore. Solo
-l'anima completamente distaccata e che domina interamente
-le sue passioni potrà, come Maria, essere un «giardino»
-solitario e silenzioso dove il Signore trova le sue delizie.
-E' questa la grazia che oggi chiediamo alla Madonna,
-eleggendola patrona e maestra della nostra vita interiore.
+**2** — Dio, sommamente buono in se stesso, è buono anche in tutte le sue opere; da lui, bontà infinita, non possono venire che opere buone: «E vide Dio tutte le opere sue ed erano grandemente buone», così la S. Scrittura termina il racconto della creazione *(Gn.* 1, 31). Tutto ciò che esce dalle mani di Dio porta l'impronta della sua bontà. Buono è il sole che ci illumina e ci riscalda la terra, buona la terra che produce fiori e frutti, buono il mare, buono il cielo, buone le stelle: tutto è buono perché tutto è opera di Dio, bontà essenziale, infinita, eterna. Ma Dio ha voluto che fra le sue creature ve ne fossero alcune, come l'uomo, che oltre ad essere buone perché Egli le ha create tali, lo fossero pure con l'aderire di loro libero arbitrio a quella bontà che egli ha infuso in esse. Questa è la grande onore che Dio ha fatto all'uomo: non solo l'ha creato buono, come ha creato buoni il cielo e la terra, ma ha voluto che fosse buono col libero concorso del suo volere, quasi per renderlo padrone di quella bontà che Egli ha posto in lui. Proprio per questo gli ha dato il grande dono della libertà. Vedi, dunque, quanto ti allontani dalla bontà allorché del tuo libero arbitrio ti servi non per volere il bene, bensì per volere il male. Vedi la somma distanza che passa fra te e Dio: Dio è bontà infinita al punto da ricavare il bene anche dal male, tu sei malizia profonda sì che anche il bene sai volgere in male, valendoti del bene della tua libertà per accondiscendere al tuo egoismo, al tuo orgoglio, al tuo amor proprio. Eppure, se tu aderissi a quell'impulso interiore verso il bene che Dio ha posto in te, se ti lasciassi sviluppare quella bontà che Egli ha infuso nel tuo cuore, non ti sarebbe difficile essere buono. Dio ti ha fatto buono, ti vuole buono; è vero che la malizia — conseguenza del peccato — è grande, ma la tua bontà infinita la supera immensamente e può ben sanarla e distruggerla sino in fondo, purché tu lo voglia e confidi in essa.
 
 ### Colloquio
 
-«O Maria, fiore del Carmelo, vite fiorita, splendore del
-cielo, vergine e madre unica, madre soave ed intatta, largisci
-ai tuoi figli i tuoi favori, o stella del mare! » (S. Simone Stock).
+«Nell'intendere la tua bontà, o Dio, l'anima dovrebbe operare con ogni sforzo per corrispondere a questa bontà; e dovrebbe correre veloce a ritrovare te che la vai inseguendo e pregando: 'Aprimi, sorella mia!'.
 
-«O Vergine beata! Chi è colui che, avendoti invocata
-nelle sue necessità, non ha ricevuto il tuo soccorso? Noi, tuoi
-piccoli servi, ci rallegriamo con te per tutte le altre tue virtù,
-ma per la tua misericordia ci rallegriamo con noi stessi. Lodiamo la verginità, ammiriamo l'umiltà, ma per chi è misero
-la misericordia ha un sapore assai più dolce. La misericordia
-l'abbracciamo con maggior tenerezza, la ricordiamo più spesso, l'invochiamo con maggior frequenza. Infatti, proprio la
-tua misericordia ha ottenuto la redenzione del mondo, ha
-strappato con le tue preghiere la salvezza di tutti gli.uomini.
-Chi dunque, o benedetta, potrà misurare la lunghezza e la
-larghezza, l'altezza e la profondità della tua misericordia?
-La sua lunghezza giunge sino alla fine del tempo per soccorrere tutti coloro che t'invocano; la sua larghezza avvolge
-il mondo intero, sì che tutta la terra è piena della tua bontà.
-L'altezza della tua misericordia ha aperto le porte della città
-celeste e la sua profondità ha ottenuto la redenzione di coloro che abitano fra le tenebre e le ombre della morte. Per
-te, o Maria, il cielo si riempie, l'inferno si vuota, la via smarrita è ridata a coloro che l'hanno perduta. Così la tua carità
-potentissima e piissima si riversa su di noi come amore compassionevole e soccorritore ad un tempo» (S. Bernardo).
+«E quale vantaggio ricava l'anima dall'intendere la tua bontà? Il vantaggio è questo: che si riveste di tale bontà. Oh, se aprissimo gli occhi e vedessimo quanto grande essa sia! Ma talora siamo ciechi e non vediamo. Solo il Sangue caldo di Cristo è il collirio capace di aprire non solo gli occhi, ma anche il cuore per fare intendere alle anime l'immensità della bontà divina... O mio Dio, Tu mi mostri la tua infinita bontà come un grandissimo fiume che si riversa sulla terra e nelle cui acque tutte le creature s'immergono e si nutrono come i pesci nel mare. Contemplando questo gran fiume, io vi resto sommersa, ma rivolgendomi e vedendo la malizia umana tanto contraria alla tua bontà, me ne dolgo grandemente. O Bontà infinita, l'anima mia vuol renderti onore in due modi: anzitutto con la lode, ringraziandoti e benedicendoti di continuo di tutti i doni e le grazie che le fai e narrando le tue grandezze; e poi con le opere, non guastando in sé la tua immagine, ma mantenendosi pura e senza macchia come Tu l'hai creata da principio» (cfr. S. M. Maddalena de' Pazzi).
+
+«O Signore, voglio sempre confidare nella tua bontà che è più grande di tutto il male che possiamo fare. Quando riconosciamo la nostra miseria e vogliamo tornare alla tua amicizia, Tu dimentichi che ci siamo stati ingrati. Le grazie di cui ci hai ricolmati sarebbero, per sé, un motivo di più per castigarci perché da noi non accolte male; ma esse, invece, ti inclinano a perdonarci più presto, come gente di tua casa che, come suol dirsi, hai mangiato il pane della tua mensa. O Signore, ecco quello che hai fatto con me: mi sono stancata prima io ad offenderti che non Tu a perdonarmi. Tu non ti stanchi mai di donare, né le tue misericordie si possono esaurire: non stanchiamoci noi di riceverle!» (cfr. T.G. Vi. 19, 15).

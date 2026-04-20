@@ -1,113 +1,19 @@
-## 183 — L’ AZIONE DELLO SPIRITO SANTO
+## XIV — Maria e la carità fraterna
 
-### Presenza di Dio
-
-O Spirito Santo, rivelami la tua azione nell’anima mia, insegnami a riconoscerla e ad assecondarla.
+**Presenza di Dio.** — *O Madre che tanto hai amato gli uomini, insegnami ad adempiere con perfezione il precetto della carità fraterna.*
 
 ### Meditazione
 
-1. — Come lo Spirito Santo stava nell’Anima SS.ma di
-Cristo per portarla in Dio, così sta pure nelle anime nostre;
+**1** — La carità è *una* nella sua essenza perché uno è il suo oggetto: Dio amato in se stesso, Dio amato nel prossimo. Perciò, quanto più un'anima ama Dio, tanto più ama il prossimo. Ora, se in Maria la carità verso Dio raggiunse una profondità abissale, bisogna dire che anche la sua carità verso il prossimo fu immensa. Questa è la proprietà del vero amore di Dio: anziché rinchiudere in se stessa l'anima che lo possiede, la spalanca per effondere attorno a sé quella ricchezza che la carità ha accumulato in lei. Tale fu la caratteristica della carità di Maria; tutta presa d'amore per il suo Dio, tutta raccolta nella contemplazione amorosa dei misteri divini che si compiono in lei e attorno a lei, non trova nel suo raccoglimento un ostacolo ad occuparsi del prossimo, ma, in qualsiasi circostanza, la vediamo sempre attenta e aperta ai bisogni altrui, anzi la sua stessa ricchezza interiore la spinge a voler partecipare agli altri i grandi tesori che Ella possiede. È questo l'atteggiamento in cui ce la presenta il Vangelo quando, subito dopo l'Annunciazione, si pose in viaggio «in fretta» — dice S. Luca — per recarsi da Elisabetta. Molto dolce le sarebbe stato rimanere a Nazareth per adorare, nella solitudine e nel silenzio, il Verbo divino incarnatosi nel suo seno; ma l'Angelo le ha annunziato la prossima maternità della vecchia cugina e questo le basta per sentirsi in dovere di recarsi ad offrirle i suoi umili servizi. Si può quindi dire che il primo atto della Vergine, appena diventata Madre di Dio, è stato proprio un atto di carità verso il prossimo. Dio si è dato a Lei come Figlio, e Maria, che si è data a Lui come «ancella», ha voluto darsi come «ancella» anche al prossimo. Qui, più che mai, è evidente la stretta unione fra la carità verso Dio e la carità verso il prossimo. Al sublime atto di amore con cui, pronunciando il suo «fiat», Maria si dava totalmente al Signore, corrispondeva il suo atto di carità verso Elisabetta.
 
-ma, mentre in Gesù trovava una volontà totalmente docile
-che poteva padroneggiare in pieno, in noi trova spesso
+**2** — Alla nascita di Gesù avviene ancora qualche cosa di simile: Maria contempla estasiata il suo Figlio divino, ma ciò non le impedisce di offrirlo all'adorazione dei pastori. Ecco la suprema carità di Maria verso gli uomini: dare ad essi su Gesù non appena questi le viene donato; non vuol goderne lei sola, ma vuole che tutte le creature ne godano. È come lo presenta ai pastori ed ai Magi venuti ad adorarlo, così lo presenterà un giorno ai carnefici mandati a crocifiggerlo. Gesù è tutto per Maria e Maria, nella sua grande carità, non esita ad immolarlo per la salvezza degli uomini. Si può pensare ad una carità più grande, più generosa? Dopo Gesù, nessuno, più di Maria, ha tanto amato gli uomini. Altro aspetto della carità di Maria verso il prossimo è la sua grande delicatezza. Quando, in seguito a tre giorni di angosciose ricerche, ritrova Gesù nel tempio, la Madonna, che pur aveva tanto sofferto per l'improvvisa scomparsa, sa nascondere il suo dolore dietro a quello di Giuseppe: «Ecco, tuo padre ed io, contristati, andavamo in cerca di te» *(Lc.* 2, 48). La sua delicata carità verso lo sposo le ha fatto sentire profondamente il dolore di lui, sì da anteporlo al suo che, certo, fu assai più grande. Alle nozze di Cana, un altro tratto della delicatezza di Maria: mentre tutti sono occupati nel festino, solo lei, tanto raccolta, si accorge dell'imbarazzo degli sposi per la mancanza del vino e vi provvede in modo così delicato, che la cosa passi inosservata perfino al capo del banchetto.
 
-una volontà restia che gli oppone resistenza; Egli, quindi,
-si arresta, poichè non vuole violentare la nostra libertà.
-Spirito di Amore, attende che noi corrispondiamo per amore
-all'opera sua: che per amore e liberamente apriamo l’anima
-alla sua azione santificatrice. Per farci santi, dobbiamo,
-dunque, collaborare all'opera dello Spirito Santo; ma,
-poichè non si può prestare una collaborazione efficace
-se non si conosce il modo di agire del promotore dell'opera
-da compiersi, ecco che è necessario conoscere come il divino Paraclito, promotore della nostra santificazione, agisce
-in noi.
-
-È importante sapere che lo Spirito Santo lavora sempre
-nelle anime nostre, anche nelle prime tappe della vita
-spirituale, anzi fin dall'inizio di essa, benchè allora lo faccia
-in un modo più nascosto e quindi meno conosciuto. Ma la
-sua azione c'è, è preziosissima e consiste soprattutto nel
-
-preparare e assecondare le nostre iniziative per l'acquisto
-
-della perfezione. La prima opera che Egli compie in noi
-è quella di elevarci allo stato soprannaturale comunicandoci
-la grazia, senza la quale non potremmo far nulla per giungere alla santità. La grazia ci viene da Dio, tutta la SS.ma Trinità ce la dona ma, come al Padre se ne attribuisce particolarmente la creazione, come il Figlio con la sua Incarnazione,
-passione e morte ce l'ha meritata, così lo Spirito Santo la
-diffonde nelle anime nostre; a Lui infatti, Spirito di Amore,
-viene attribuita, in modo speciale, l’opera della nostra santificazione. Quando abbiamo ricevuto il battesimo siamo
-stati giustificati e nel nome del Padre e del Figliolo e dello
-Spirito Santo», tuttavia la Sacra Scrittura attribuisce
-quest'opera di rigenerazione e di filiazione divina in modo
-particolare allo Spirito Santo; Gesù stesso ci ha presentato
-il battesimo come una rinascita «dallo Spirito Santo»
-(Gv. 3, 5) e S. Paolo afferma: «tutti siamo stati battezzati
-in un unico Spirito» e «lo Spirito stesso attesta allo spirito
-nostro che siamo figli di Dio» (cfr. I Cor. 12, 13; Rom. 8,
-16). È, dunque, lo Spirito Santo che ha preparato e disposto
-
-le anime nostre alla vita soprannaturale effondendo in noi
-la grazia. ì Ì
-
-2. — Inoltre, per renderci capaci di compiere azioni
-soprannaturali, lo Spirito Santo, venendo ne anima nostra, ne ha investito le potenze — intelligenza e volontà —
-con le virtù infuse. (Anzitutto, Egli effonde in noi la carità
-e, con la carità, le altre virtù teologali: la fede e la speranza; parimenti infonde in noi le virtù morali. Così, proprio
-per suo intervento, noi diventiamo capaci di operare sopra
-naturalmente. Ma l’azione dello Spirito Santo non si limita a questo; Egli, come un buon maestro, continua ad
-assisterci nel nostro agire, sollecitandoci al bene e sostenendoci nei nostri sforzi. Anzitutto, c'invita al bene con
-le ispirazioni interiori ed anche mediante mezzi esterni,
-particolarmente mediante la Sacra Scrittura e il magistero
-della Chiesa. La Sacra Scrittura è la parola di Dio vergata
-dagli uomini, i quali hanno scritto sotto la mozione dello
-Spirito Santo. Nella Sacra Scrittura è quindi il divino Paraclito che ci parla, illuminando con la sua luce la nostra
-mente, spingendo col suò impulso la nostra volontà: perciò
-meditare i sacri testi, è un po' come «andare a scuola »
-dallo Spirito Santo. Lo Spirito Santo, inoltre, continua
-ad istruîrci e a stimolarci al bene mediante la parola viva
-della Chiesa, poichè tutti coloro che nella Chiesa hanno
-una missione d'insegnamento, mentre espongono ai fedeli
-le sacre dottrine, sono sotto il suo influsso, Se poi accettiamo le ispirazioni dello Spirito Santo, se dietro il suo
-invito ci decidiamo ad agire, Egli ancora ci accompagna ed
-assiste con la grazia attuale, affinchè possiamo condurre
-a termine l’opera virtuosa. È chiaro dunque che anche
-quando la vita spirituale è agli inizi e si concentra nella
-correzione dei difetti e nell'acquisto delle virtù, l'attività
-dell'anima è interamente permeata e sostenuta dall'azione
-dello Spirito Santo. A questa verità noi pensiamo troppo
-poco e perciò in pratica teniamo poco conto della continua
-
-opera del divino Spirito nelle anime nostre. Bisogna pensarvi per non lasciar passare invano le sue ispirazioni e
-i suoi impulsi. «Per grazia di Dio son quel che sono»,
-diceva S. Paolo, ma poteva aggiungere: «la grazia di Dio
-in me non fu vana» (I Cor. 15,10).
+Maria c'insegna che quando l'amore per Iddio è veramente pieno, sfocia senz'altro in un amore generoso per il prossimo, poiché — dice S. Tommaso — chi ama Dio, ama tutte le cose amate da Dio. Se, dunque, dobbiamo riconoscere che nei nostri rapporti col prossimo siamo poco caritatevoli, poco attenti e premurosi per i bisogni altrui, dobbiamo concludere che il nostro amore verso Dio è ancora molto debole.
 
 ### Colloquio
 
-«O Spirito Santo, Ospite divino delle anime nostre,
-Tu sei l'ospite più nobile e più degno di tutti gli ospiti! Con
-l'agilità della tua bontà e del tuo amore per noi, ti rechi
-rapidamente verso tutte le anime disposte a riceverti. E
-chi potrebbe dire gli effetti meravigliosi che produci dove sei
-ricevuto? Tu parli senza dir nulla e il tuo sublime silenzio è
-inteso ovunque, Sei sempre immobile e sempre in movimento
-e, nella tua mobile immobilità, ti comunichi a tutti. Sei sempre
-in riposo e tuttavia sempre operoso; e nel tuo riposo operi
-le più grandi, le più degne, le più ammirabili opere. Sei
-sempre in cammino, senza però cambiar posto e dovunque
-penetri, affermi, conservi, e, al tempo stesso, distruggi tutto,
-La tua scienza immensa e penetrante conosce tutto,
-intende tutto, penetra tutto. Senza ascoltar nulla, odi
-la minima parola detta nel più intimo dei cuori.
+«Con quanta dolcezza e umiltà di cuore, o Maria, sei andata a trovare Elisabetta! Tu, la Sovrana, ti rechi presso la serva; Tu, la Madre di Dio, presso la madre del precursore... E con quanta delicatezza a Cana hai voluto aiutare gli sposi! Hai avuto pietà del loro imbarazzo perché sei misericordiosa e piena di bontà. Da una fonte di tenerezza che cosa potrà sgorgare, se non tenerezza? È forse strano che un cuore pieno di bontà produca bontà? Se, per una mezza giornata, qualcuno tiene in mano un frutto odoroso, non ne conserverà forse il profumo per tutto il resto del giorno? Di quanta virtù, o Maria, non ti avrà dunque riempito il cuore la Bontà infinita che per nove mesi ha riposato in te? Lo so, questa Bontà, prima d'invadere il tuo grembo, ha invaso il tuo cuore e anche quando ha lasciato il tuo seno non si è allontanata dall'anima tua» (cfr. S. Bernardo).
 
-«O Spirito Santo, dappertutto ti fermi, dove non sei
-discacciato, perchè a tutti ti comunichi, fuorchè ai peccatori
-che non vogliono uscir dal fango del peccato, perchè in
-loro non trovi dove riposarti, nè puoi patire quel lezzo pestilente che emana dal cuore che vuole ostinatamente perseverare nel male. Ti fermi invece nelle creature che, per
-la loro purezza, si rendono atte a ricevere la comunicazione
-dei tuoi doni, E in me ti riposi per comunicazione, per
-operazione, per sapienza, per potenza, per liberalità, per
-benignità, per carità, per amore, per purità, ed insomma,
-per tua stessa bontà; e, infondendo queste grazie nella
-tua creatura, Tu stesso la rendi atta a riceverti » (S. M. Maddalena de’ Pazzi).
+O Vergine Santa, è proprio questa carità, frutto della tua intima unione con Dio, che Tu fai traboccare su tutti gli uomini, non disdegnando di accoglierli nel largo abbraccio del tuo immenso amore. Quella stessa carità che tutta ti accese d'amore per l'Eterno, ti accese di amore anche per gli uomini, poiché, non in se stessi, ma in Dio li hai riguardati, considerandoli quali sue creature, quali figli suoi. Quella stessa carità che ti ha consacrato al servizio dell'Altissimo, ti ha consacrata ancora al servizio dell'umanità, e così hai amato ogni creatura ed hai amato anche me, benché tanto misero.
+
+O Maria, è vero! anche in me, fin dal giorno del mio battesimo, lo Spirito Santo ha diffuso la sua carità, ma il mio egoismo ne ha arrestato lo sviluppo ed io, che ben poco amo il mio Dio, assai poco amo anche il mio prossimo. Vedi Tu, o Madre amorevolissima, quanto ho bisogno di dilatare il mio cuore nella carità! Risveglia, dunque, ed alimenta in me questa virtù e fa' che, dandomi al servizio di Dio, sappia darmi anche a quello del prossimo, con dolcezza ed umiltà, con prontezza e generosità.

@@ -1,39 +1,86 @@
-## 358 — TOTAL UNION
+## 36 — THE CIRCUMCISION OF THE LORD
+*January 1*
 
 ### Presence of God
 
-I beg You, my God, let nothing disturb my union with You.
+— I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.
 
 ### Meditation
 
-Even when the will is fully conformed to God, there can remain in man something that tends to escape the rule of the divine will: sensibility. Because of original sin, the sensitive part is not easily subject to the spirit. Thus the soul may be united in will, yet still experience movements, repugnances, and struggles that disturb peace and make fidelity difficult.
+1 — The Magnificat antiphon of First Vespers wonderfully synthesizes the spirit of today's feast: "Because of the immense charity with which God loved us, He sent His Son under the likeness of sinful man." To the consideration
+of God's immense charity, which has illumined and dominated all the Christmas feasts, there is added the vision of the Son of
+God sent to us under the likeness of sinful man; this is the
+characteristic of this solemnity. To transform us sinners into children of God, the Father's Only-Begotten willed to transform Himself into one of us, even to taking our flesh of sin and undergoing all its most humiliating consequences. The law of circumcision could in no way touch Jesus, the Son of God,
+the Holy One par excellence; but Jesus
+willed to submit to it as the last son of Abraham, because,
 
-Through this sensitive area, the soul may still be vulnerable to vivid impressions and emotions; sometimes, from frailty and inadvertence, it can fall into slight faults. The enemy can also exploit these movements to hinder progress. The soul suffers from this and, seeing how it can disturb union, ardently longs to be set free.
+as St. Paul teaches, "He had to be made in all things like His brothers... so that the sins of the people might be expiated" (Heb. 2, 17). The rite, perhaps performed by Joseph in the intimacy of the family, made the first drops of His precious Blood flow from Jesus' immaculate flesh.
 
-God alone can restore in man the harmony broken by sin. He does not refuse this final grace to a soul truly faithful. He grants it through a deeper and more complete union in which, as it were, taking possession of the soul, He governs it wholly by His powerful influence. This is total union, called by mystics "spiritual marriage," the highest union with God possible on earth.
+Eight days after His birth, He thus begins His bloody mission as Redeemer: He does not speak yet, He is not known by the world, and already He sheds His Blood for the world's salvation.
 
-How ardently the loving soul longs for this sublime state, where it can give itself entirely to God and be wholly possessed and guided by Him, without being troubled by the turbulence of sensibility.
+Looking at Him we learn that deeds are worth more
+than words, that the more deeds cost sacrifice, the more they are proof of true love, and that, to be fruitful, every work must have its baptism of blood.
 
-2 — "Spiritual marriage," says St. John of the Cross, "is a total transformation in the Beloved, in which both parties give themselves to each other, each transferring complete possession of self to the other, with a certain consummation of union in love."
+2 — The feast of the Circumcision coincides with the beginning
+of the civil year: the first drops of Jesus' Blood seal and consecrate each new year, truly making it annus Domini,
+the year of the Lord. Time is of
+God, our life is of God and of Christ, who repurchased and sanctified everything with His Blood.
 
-It is a total transformation in God. What in spiritual betrothal occurred primarily in the will now extends to all the soul's powers. This comes from a perfect mutual self-giving: God to the soul, and the soul to God.
+Let us begin the year by circumcising our hearts because,
+according to what St. Ambrose teaches, "he who is circumcised in vices is judged worthy of the Lord's gaze.
+Circumcision... See how the whole sequence of the ancient law was a figure of the future; because circumcision too means purification from sins" (BR.).
 
-God gives Himself to the soul as His possession, dwelling in it as the moving principle not only of its will but of its whole being, directing all its life and inspiring all its actions. This is the fruit of a stronger influence of the gifts of the Holy Spirit, which overflows into all faculties and even into the sensitive part, now brought into full submission to the spirit.
+New year, new life; new life because, by circumcising in us "the old man" with his vices and passions, "the Christian" will grow in us:
+a new creature purified by Christ's Blood, enlivened and nourished by His grace,
+so that no longer we live, but Christ lives in us.
+The year beginning today has value only in relation to
+this: only insofar as, day by day, grace will triumph
+ever more in us to make Christ's life grow in our souls.
 
-Then the soul possesses God as the One who vivifies, moves, and governs it; as its principle of life, its strength, its all. Spontaneously it exclaims with St. Paul: "I live, now not I, but Christ lives in me" (Gal 2:20). It feels that its life is more God's life than its own.
+Another teaching of today's feast is Jesus' humble submission to His Father's will, manifested
+through the law: in this we see an invitation to adhere
+docilely to God's will, whatever it may be. None
+of us knows what awaits us in this new year; but God
+knows: His will has already prepared our path,
+every detail of our life is already decided in His
 
-Because God gives Himself entirely, the soul too gives itself entirely. No longer only the perfect gift of the will, but the gift of the whole being, harmonized by the abundant motion of the Holy Spirit's gifts. The soul, like the spouse in the Canticle, can truly say: "My Beloved to me, and I to Him" (cf. Sg 2:16).
-
-This union is so full that beyond it there remains only the beatific union of heaven. Total union is heaven anticipated, heaven offered to generous souls that spare no labor or sacrifice in giving themselves wholly to God.
+mind. Let us dispose ourselves to accept, to embrace with courage and readiness every divine will, every divine permission,
+certain that only in God's holy and sanctifying will
+shall we find our peace and our sanctification.
 
 ### Colloquy
 
-"O Lord, how great is the grace You grant a soul when You unite it to Yourself in deeper intimacy! How exquisite is Your banquet! A single drop of Your wine makes me forget everything, leave creatures and self, and reject the satisfactions claimed by sensuality.
+"O Word, no sooner are You eight days old than You give me Your
+Blood: and what do You prepare for me with this Blood?... obedience.
+Three things You show me in this Your Circumcision;
+obedience toward God, meekness with Mary, justice with us"
+(St. Mary Magdalene de' Pazzi).
 
-"Let worldlings keep their dominions, riches, pleasures, honors, and feasts. The happiness these give could not equal, in a thousand years, the delight tasted in one instant by a soul You have raised to this state.
+Allow, O Jesus, that the first drops of Your most innocent Blood descend to purify and intoxicate my poor soul.
+I understand: from Your very first days
+You hastened to shed Your Blood, because You wanted
+to show us immediately that You are our Savior and Redeemer.
+This shedding of Blood was not necessary for You,
+Son of God, holy with the holiness of Your Father, but it
+was necessary for me, poor creature born in sin. And
+You, for me, willed to humble Yourself even to submitting to
+the law made for sinful men. O my Lord, teach me to be humble and obedient, You, innocent Lamb who takes away the sins of the world, did not disdain
+the cut of circumcision; and I, who am a sinner,
+shall I perhaps assume the posture of a just man?
+Shall I resent it if I am judged imperfect,
+and seek to hide my defects
+under the cloak of false excuses? Oh, You teach me that in
+no way can I be Your follower, nor can I become like You,
+if I do not accept humbling myself with You, most humble!
 
-"No, I see no comparison between earthly weariness and such sweet delights, between passing pleasures and this closest union with You, my God, this love so ineffably given and tasted.
+Teach me also to obey, to submit myself to the will of the heavenly Father, whatever it may be and whatever sacrifice it imposes on me. "I consider this new
+year as a blank page that Your Father presents to me and on which He will write day by day what He has disposed in His
+divine good pleasure; but already now at the top of the page I
 
-"Who, Lord my God, seeking You with pure and simple love, will not find You according to desire? You reveal Yourself first and go out to meet those who long for You.
-
-"How sweet Your presence will be to me, You who are the supreme Good! I will draw near in silence, that You may deign to bind me to Yourself with nuptial bond; I shall not be content until I can rest in Your arms. And now I beg You, Lord, never abandon me in recollection, for I am a fugitive unless You stand at my side." (cf. St. Teresa of Jesus; St. John of the Cross)
+write with total trust: Domine, fac de me sicut vis;
+Lord, do with me what You will. And at the bottom of the page I already place my Amen, so be it, to all dispositions of Your divine will. Yes, O Lord, yes to all
+joys, to all sorrows, to all graces, to all labors
+You have prepared for me and will reveal to me day
+by day. Grant that my amen may be the paschal amen, always followed by alleluia, that is, pronounced with all
+my heart, in the joy of a complete self-giving. Give me
+Your love and Your grace and I shall be rich enough" (Sr. Carmela d. Spirito S., O.C.D.).

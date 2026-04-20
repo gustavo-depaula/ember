@@ -1,102 +1,19 @@
-## 207 — LA RIPARAZIONE
+## VII — IL SACRAMENTO DELL'UNIONE
 
-### Presenza di Dio
-
-Cuore di Gesù, piagato per nostro amore, rendimi degno di riparare le ferite che i nostri peccati ti hanno inflitto.
+**Presenza di Dio.** — *O Gesù, che mi nutri col tuo Corpo e col tuo Sangue, fa' che io viva di te, della tua vita.*
 
 ### Meditazione
 
-1.— L'inno dei primi Vespri della festa del Sacro Cuore
-dice: « Ecco come l'insolente e orribile schiera delle nostre
-colpe ha ferito il Cuore innocente di un Dio» e, con magior realismo, continua: «Il colpo della lancia del soldato
+**1** — Nel suo discorso sul «pane di vita» Gesù stesso ci ha presentato l'Eucaristia come il sacramento della nostra unione con lui: «Chi mangia la mia carne e beve il mio sangue rimane in me ed io in lui» *(Gv.* 6, 57). È una vera compenetrazione di Cristo in noi e di noi in Cristo. Evidentemente, la vita di Gesù e la nostra, la Persona sua e la nostra restano distinte e, tuttavia, Egli penetra talmente in noi con la sua vita, col suo spirito, con la sua Divinità che noi rimaniamo immersi in lui e lui in noi. «Il Corpo e il Sangue di Cristo che noi mangiamo — afferma S. Ilario Vescovo — fanno sì che noi siamo in Cristo e Cristo in noi. Lui stesso, dunque, è in noi e non lui per la sua Carne e — conclusione meravigliosa — con lui è in Dio tutto ciò che noi siamo». Mai come nel momento della Comunione sacramentale noi siamo uniti a Gesù, da lui compenetrati, trasformati, deificati e tuffati nella Divinità: «con lui è in Dio tutto ciò che noi siamo».
 
-diretto dai nostri peccati» (BR.). Queste espressioni ci
-richiamano alla mente le parole che Gesù rivolse a S. Margherita Maria e che ogni anno la Chiesa rilegge nell'Ufficio del martedì durante l'ottava del Sacro Cuore: « Ecco
-fuel Cuore che ha tanto amato gli uomini... ma in cambio
+È vero che anche mediante la fede e la grazia noi siamo uniti a Cristo ed inseriti in lui come suoi membri, ma questa unione, iniziata col battesimo, raggiunge la massima pienezza con l'Eucaristia. Per questo sacramento Gesù «si unisce a noi in modo che diventiamo uno stesso corpo con lui, e non solo mediante la fede, ma effettivamente e in realtà» (S. Giovanni Crisostomo). Anche l'unione a Cristo per la fede e per la grazia è unione effettiva, reale, ma nella Comunione abbiamo di più l'unione fisica con Cristo; allora, sia pure per brevi istanti, lo portiamo in noi come Maria SS.ma lo portò per nove mesi nel suo seno purissimo. E se a questa unione fisica si congiunge l'unione morale, che consiste nella piena conformità della nostra volontà, delle nostre aspirazioni alla volontà di Dio, al suo beneplacito, la Comunione diventa davvero per noi il momento della massima unione con Dio che possiamo raggiungere su questa terra.
 
-lel suo amore infinito, anzichè trovare gratitudine, incontrò
-
-dimenticanza, indifferenza, oltraggi, talora anche da chi
-dovrebbe tributargli speciale amore» (lez. VI). Di fronte
-al lamento del Cuore divino, l'anima amante non può restare indifferente: vuole espiare, riparare, consolare. E lo
-vuol fare, insegna Pio XI, per un doppio motivo: «di
-giustizia e di amore; di giustizia per riparare l'offesa recata a
-Dio con le nostre colpe... di amore per patire con Cristo pa-
-'ziente e saturato di obbrobri e recargli, secondo ia nostra
-chezza, qualche conforto » (Enc. Miserent. Red.). Che si debba riparare i nostri.peccati è facile intenderlo, ma che si possa
-farlo anche per consolare il Cuore di Gesù non è forse altrettanto chiaro. «e Come potrà dirsi — domanda Pio XI —
-che Cristo regna beato nel cielo se può essere consolato da
-questi atti di riparazione? * Datemi un'anima amante e comprenderà quel che dico'» (ivi), risponde il grande Papa.
-Infatti, l'anima che penetra con amore nel mistero di Gesù
-comprende bene che. Egli, quando nel .Getsemani vedeva
-tutti i nostri peccati, vedeva anche tutte le opere buone che
-avremmo fatto per consolarlo e, in realtà, l'avranno consolato allora gli atti che oggi facciamo a tale intento. Questo pensiero ci spinge sempre più ad opere di riparazione,
-affinchè Gesù non abbia motivo di rivolgere anche a noi
-il pietoso lamento: «il dolore mi sj il Cuore... mi
-aspettavo qualche consolatore, e non l'ho trovato» (Messa
-S. Cuore).
-
-2. — Il concetto di riparazione richiama quello di evittima riparatrice », concetto ben noto ai devoti del Sacro
-Cuore e riconosciuto ufficialmente dalla Chiesa, mediante
-l'Enciclica di Pio XI sulla riparazione. Il venerando documento spiega che cosa deve fare l'anima che intende of
-frirsi come vittima: «dovrà senza dubbio non solo aborrire ogni peccato come sommo male e fuggirlo, ma offrirsi
-tutta alla volontà di Dio e adoperarsi a risarcite l'onore leso
-della divina Maestà con l'assidua preghiera, con l'uso volontario di penitenze e con la paziente sofferenza di quelle
-
-prove che ne incolgono; infine, con la vita tutta. vissuta
-secondo questo spirito di riparazione» (Miserent. Red).
-Siamo ben lontani da quel concetto fantastico di vittima
-per cui, sotto il pretesto di doversi offrire ad immolazioni
-straordinarie, le anime evadono dalla realtà della vita quotidiana e s'illudono di essere capaci di chissà quali sofferenze,
-mentre, di fatto, cercano di sfuggire i sacrifici di ogni giorno,
-Il concetto di vittima riparatrice offertoci dalla dottrina
-della Chiesa è, invece, qualche' cosa di molto serio, concreto, realistico. L'anima vittima deve riparare il peccato,
-e lo riparerà facendo il contrario di ciò che è il peccato.
-Il peccato è atto di ribellione a Dio ed alla sua volontà
-manifestata nella legge e nelle disposizioni della divina
-Provvidenza. Perciò, il contrario del peccato sarà aderire
-totalmente alla volontà divina abbracciandola con tutto il
-cuore ed in tutte le sue manifestazioni, malgrado le ripugnanze che si possono sentire. Ecco, quindi, il programma
-dell'anima vittima: non solo evitare il peccato, anche nelle
-sue forme più lievi, ma andare talmente incontro alla volontà di Dio che Egli possa realmente fare di lei tutto ciò
-che vuole. Aggiungerà poi preghiere e penitenze volontarie,
-ma queste avranno valore solo nella: misura in cui partiranno da un cuore totalmente arreso alla volontà divina.
-E notiamo che la prima penitenza segnalata anche dall'Enciclica — è sempre «la paziente sofferenza » delle prove della vita.
+**2** — Ma Gesù va più oltre e, per spiegarci meglio la profonda unione che si stabilisce tra lui e l'anima del comunicante, non esita a paragonarla all'unione che esiste fra lui e il Padre suo. «Come il Padre, che vive, ha inviato me, ed io vivo per il Padre, così chi mangia me, vivrà per me» *(Gv.* 6, 57). Gesù vive perché il Padre gli comunica la vita: tutta la vita di Gesù viene unicamente dal Padre, Egli non ha altra vita se non quella che il Padre gli partecipa. Parimenti, chi si nutre dell'Eucaristia vive della vita che Gesù gli comunica, ossia vive della vita di lui; vita che, senza dubbio, ha già ricevuto per mezzo del battesimo o della penitenza, ma che nella Comunione riceve con maggiore immediatezza da Gesù, poiché Egli stesso, in persona, viene a portarla in lui, anzi viene a viverla in lui. Gesù vive per il Padre, perché il Padre è l'unica fonte della sua vita; e il comunicante vive per Gesù, perché Gesù, facendosi suo cibo, diventa nel modo più diretto, più intimo, più profondo la sorgente della sua vita. Ma possiamo intendere le parole di Gesù anche sotto un altro aspetto: avendo ricevuto tutta la vita e tutto l'essere del Padre, Gesù vive per il Padre anche nel senso che vive unicamente per la sua gloria, impiegando tutto quel che ha ricevuto da lui per compiere la missione che Egli gli ha affidata, per fare la sua santa volontà. Così deve essere del comunicante: non deve più vivere per sé, non deve più vivere una vita egoistica, una vita ristretta a cure e ad interessi terreni, ma deve vivere per Gesù, per i suoi interessi, per la sua gloria. Deve *vivere di Gesù*, fonte della sua vita; deve *vivere in Gesù* che, nutrendolo ogni giorno con la sua Carne, lo stringe, lo unisce più intimamente a sé; deve *vivere per Gesù* impiegando per lui tutte le sue forze e le sue capacità, dandosi totalmente al suo servizio. Quella vita divina che Gesù ci comunica deve trovare nell'anima nostra il terreno adatto per svilupparsi appieno — terreno sgombro dalla superbia, dall'egoismo, dagli attacchi alle creature — e così produrre opere degne di Gesù e a lui gradite. Come Gesù ha vissuto per la gloria del Padre «che lo ha mandato» *(Gv.* 7, 18), così noi dobbiamo vivere per la gloria di Cristo che, facendosi nostro cibo, ci partecipa la sua vita.
 
 ### Colloquio
 
-«O Dio, perchè non posso lavare con le mie lacrime e
-col mio sangue tutti quei luoghi ove è stato vilipeso il
-tuo Cuore? Perchè non mi è permesso di riparare tanti
-sacrilegi e tante profanazioni? Perchè non mi concedi per
-un solo momento, di essere padrona del cuore di tutti gli
-uomini, per risarcire, col sacrificio che te ne farei, la di
-menticanza e la insensatezza di tutti coloro che non hanno
-voluto conoscerti o che, pur conoscendoti, tanto poco ti
+«O Signore, fin dove ti conduce il tuo amore? Ti conduce fino a lasciare te stesso alla tua creatura, fino a lasciarle il Corpo e il Sangue tuo in cibo e bevanda. E per quanto? Dio mio, Tu stesso l'hai detto: fino alla consumazione dei secoli! Affinché noi ti possiamo avere non una volta sola, non ogni anno, non ogni mese, non ogni settimana, no; ma ogni dì, ogni mattina ti possiamo ricevere e, ogni volta che vogliamo, ti possiamo avere dentro di noi e starcene con te a nostro piacere. O gran bontà del mio Sposo Verbo! O misera me, che ho tante ricchezze e ne faccio così poco frutto! Ma è più infelice chi non conosce questo dono e non si cura d'esserne privo per molti e molti anni, o chi lo riceve stando in peccato mortale, sì che quel Pane di vita diventa per lui cibo di morte. Per queste anime ti prego, Signore: non guardare ai loro demeriti, ma alla bontà tua; convertile affinché riconoscano il torto grandissimo che fanno a se stesse, ed all'infinita bontà tua.
 
-hanno amato? Ma, Salvatore adorato, quel che mi copre
-di confusione e che maggiormente mi addolora è che io
-stessa sono stata una di questi ingrati. Tu, mio Dio, che
-vedi il fondo del mio cuore, guarda il dolore che soffro
-per le mie ingratitudini e per vederti trattato tanto indegnamente. Eccomi dunque, o Signore, col cuore s to
-dal dolore, umiliato, proteso, pronto a ricevere dalla tua
-mano tutto ciò che ti piacerà esigere da me in riparazione
-di tanti oltraggi» (S. Margherita M. Alacoque).
+«Ma quando l'anima, o Signore, ti riceve con le dovute disposizioni si può dire di lei quel che si dice di Maria SS.ma: "beata te, poiché porti nel tuo seno Colui che i cieli non possono contenere!" E, siccome Maria è vestita di sole, così quest'anima che ti riceve in sé è vestita di sole, poiché Sole sei Tu, o Sole di giustizia, Cristo Dio nostro.
 
-«Sì, mio Fi Tu sai che altro non bramo che di
-cssere una vittima del tuo Sacro Cuore, consumata tutta
-'in olocausto col fuoco del tuo santo amore, e perciò il tuo
-Guore sarà l'altare dove si deve compiere questa consumazione di me in te, mio caro Sposo, e Tu devi essere il Sacerdote che consumar deve questa vittima con gli ardori
-del santo Cuor tuo. Ma, mio Dio, quanto mi confondo vedendo quanto sia rea questa vittima e indegna che Tu ne
-accetti il sacrificio, ma confido che tutto resterà incenerito
-in quel divin Fuoco.
-
-«Per l'offerta che ho fatto di tutta me stessa a te, intendo di averti lasciato il mio libero arbitrio, poichè solo
-Tu, da qui in avanti, devi essere il dominatore del mio
-cuore, e perciò la sola tua volontà deve essere la regola
-delle mie azioni. E così disponi sempre di me come più
-ti aggrada chè di tutto son contenta... poichè desidero di
-amarti con amore paziente, con amore morto, cioè a dire
-tutto abbandonato in te e con amore operativo; insomma
-con amore sodo e senza divisione e, quello che più importa,
-con amore perseverante » (T.M. Sp. pp. 324, 325).
+«In quanto a me, o Signore, mi par d'esserti più obbligata per avermi lasciato te stesso in cibo, che per avermi creata, perché se mi avessi creata e non m'avessi lasciato te farebbè? E così mi mostrano quanto hai voluto comunicarti a noi, poiché non ti sei contentato di comunicarti agli uomini stando in terra trent'anni, ma inoltre volesti lasciarci il Corpo e il Sangue tuo, affinché noi potessimo stare continuamente in te, e tu in noi. E così, stando nell'anima, Tu la vai, per così dire, deificando, trasformando in te, continuamente la vai comunicando e la tieni unita a te» (S. M. Maddalena de' Pazzi).

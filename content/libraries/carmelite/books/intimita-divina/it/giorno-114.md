@@ -1,129 +1,25 @@
-## 114 — NASCONDERSI CON CRISTO IN DIO
+## 38 — LA VITA NASCOSTA
 
-### Presenza di Dio
+**Presenza di Dio.** — *O Gesù, Dio nascosto, insegnami il segreto del nascondimento.*
 
 ### Meditazione
 
-1 — Quando si parla della vita nascosta di Gesù, non
-si deve intendere solo il suo occultarsi agli occhi degli uomini celando ad essi la sua divinità e fuggendo la loro glo-
-ria, ma, oltrepassando questi rapporti esterni colle creature,
-bisogna penetrare nel segreto del suo Cuore, dove — celata
-ad ogni sguardo umano — si svolge un’altra e ben più sublime vita nascosta. È la sua vita interiore, vita di intimi
-rapporti con la Trinità. L'Anima santissima di Gesù, unita
-TE al Verbo, gode incessantemente della visione
+**1** — Nella sua vita terrena, Gesù si è compiaciuto di nascondere sotto le sembianze umane la sua divinità. Salvo qualche rara eccezione, e soprattutto durante i trent'anni precedenti al suo apostolato, non lasciò mai trasparire nulla della sua grandezza, sapienza, onnipotenza infinita. In seguito, negli anni della vita pubblica, volle adattarsi al modo di vivere e di agire tanto imperfetto dei suoi Apostoli, Egli che era infinitamente superiore ad essi. Gesù è veramente il Dio nascosto e col suo esempio ci insegna i pregi della vita nascosta.
 
-catifica: vede il Verbo come soggetto di tutta la sua attività, vede il Padre fonte del suo essere, vede lo Spirito
-Santo che abita in lei come « nel suo tempio preferito » e
-che, rivestendola con la fiamma del suo amore, la trascina
-in Dio, nel pieno compimento della di lui volontà. Esteriormente Gesù vive con gli uomini, tratta con loro, come
-uno di loro, ma la sua vera vita, vita di Figlio di Dio, la
-vive — nascosta ad ogni sguardo umano — con la Trinità,
-nella Trinità. Ecco dove mira, come a sua ultima meta,
+Se vuoi imitare sino in fondo l'umiltà di Gesù, devi partecipare alla sua vita di nascondimento, celando come lui tutto ciò che in te può attirare l'attenzione, le lodi altrui, nascondendo tutto quello che ti può rendere singolare, che ti può far notare, fuggendo, per quanto sta in te, ogni segno di distinzione. «*Ama nesciri et pro nihilo reputari*», ama di «vivere sconosciuto» e di esser tenuto in nessun conto *(Imit.* I, 2, 3) perché così sarai più simile a Gesù «che, essendo Dio, ha voluto assumere la natura di schiavo e in tutto il suo esteriore atteggiamento essere riconosciuto come un uomo qualunque» (cfr. *Fil.* 2, 6 e 7).
 
+Gesù stesso ci ha insegnato la pratica della vita nascosta, insistendo che il bene venga fatto nel segreto, solo per piacere a Dio, senza ostentazione. Così Egli t'insegna a custodire nel segreto la tua vita interiore ed i tuoi rapporti con lui: «quando vuoi pregare, entra nella tua camera e chiudi la porta»; a celare agli altri le tue mortificazioni e penitenze: «quando digiuni, ungiti il capo e lavati la faccia»; a non metter in vista le tue opere buone: «quando fai l'elemosina non sappia la tua sinistra quello che fa la destra», perché coloro che fanno «le opere buone dinanzi agli uomini, per esser veduti da loro... han già ricevuto la loro ricompensa e non avranno la ricompensa dal Padre celeste» (cfr. *Mt.* 6, 1-18).
 
-l'imitazione della vita nascosta di Gesù è partecipare alla
-sua vita interiore, ossia nascondersi « con Cristo in Dio »,
-per penetrare con lui nel santuario della Trinità sacrosanta. Questo esprimeva S. Teresa Margherita nel suo
-ardente desiderio di «emulare per fede, quanto a creatura è possibile, la vita e le azioni interne e nascoste del-
-l’intelletto e della volontà, vale a dire le sublimi cognizioni ed affetti dell'Umanità santissima di Gesù Cristo,
-unita ipostaticamente al Verbo» (Sp. p. 374).
+**2** — «Operare per purissimo fine di piacere unicamente a Dio, senza mal volere... il testimone di occhio umano» fu il programma di S. Teresa Margherita del Cuore di Gesù, la santa della vita nascosta *(Sp.* p. 369). Volendo riservare a Dio solo il dono di tutta se stessa, fu quanto mai gelosa nel nascondere agli occhi delle creature la ricchezza della sua vita interiore, l'eroismo delle sue virtù, sì che la sua vita fu la piena realizzazione della formula «vivere sola con Dio solo». L'anima che va ancora in cerca di approvazioni, di lodi, di stima delle creature, non vive sola con Dio solo e perciò la sua vita interiore non potrà essere molto profonda, i suoi rapporti con Dio non potranno essere molto intimi. Quest'anima vive ancora in superficie. E così — preoccupata com'è della comparsa esteriore, di ciò che gli altri potranno pensare o dire di lei — facilmente nell'agire si lascerà deviare dal rispetto umano, dal desiderio di attirarsi la benevolenza e la stima altrui. Quindi nella sua condotta mancherà spesso di semplicità, di purezza d'intenzione, e forse anche di sincerità. Il soprannaturale in lei è ancora troppo mescolato all'umano per dominare la sua vita e di fatto molto spesso agisce non per piacere a Dio, per dargli gloria, ma per piacere agli uomini, per guadagnarsi il loro affetto, per conquistarsi un posto più o meno onorevole.
 
-La pratica della vita nascosta ha dunque due aspetti. Il
-primo, negativo e in prevalenza esteriore, che consiste nel
-celarsi agli occhi altrui ed anche ai propri: è morire alla
-gloria e agli onori terreni; il secondo, positivo e tutto interiore, che consiste nel concentrarsi in Dio, in una vita
-di intimi rapporti con lui. Il primo aspetto è la condizione
-e la misura del secondo: quanto più l’anima saprà nascondersi alle creature — ed anche a se stessa — tanto
-
-iù sarà capace di vivere «con Cristo in Dio », secondo
-
-la bella espressione di S. Paolo: «siete morti — ossia
-morti al mondo e alle sue vanità — e la vita vostra s'è
-nascosta con Cristo in Dio » (Col. 3, 3).
-
-
-2 — «Mio Dio... ora per sempre intendo rinchiudermi nel vostro amabilissimo Cuore come in un deserto,
-per quivi fare in Voi, con Voi, per Voi questa vita nascosta di amore e di sacrificio ». Così S. Teresa Marghe-
-rita concretizzava il suo ideale di vita nascosta con Cristo.
-
-
-«L'anima che si è a lungo esercitata nell’aspetto esteriore e
-
-
-negativo del nascondimento, ossia che con costante fedeltà
-ha saputo celarsi agli occhi delle creature, è libera e
-pronta per nascondersi con Cristo in Dio.
-
-Essa non disperde più le sue energie in cerca di stima
-o di soddisfazioni umane; da questo punto di vista le
-creature sono diventate un nulla per lei e può ben dire
-che «le cose create nè sue, nè altrui non le danno più
-il menomo fastidio ed impaccio, come se punto non esistessero » (T.M. Sp. p. 373), e perciò ha raggiunto quella
-
-
-sovrana libertà di spirito che le permette di concentrarsi
-totalmente in Dio. Allora la sua condotta non presenta nulla di straordinario, anzi la sua stessa cura di na-
-scondersi agli occhi altrui molto spesso la fa passare inosservata, mentre i più la ritengono per persona da poco;
-ma nel segreto del suo cuore si svolge una ricchissima vita
-interiore nota a Dio solo. Unita a Gesù, in lui, con lui,
-per lui, partecipa alla sua vita Trinitaria. Ciò significa
-raggiungere la pienezza, il fine della vita cristiana, perchè
-la grazia ci è stata data appunto per renderci partecipi
-della natura e quindi della vita divina, della vita di Dio-
-Trinità. Proprio per tal fine il Verbo si è incarnato, Gesù,
-morendo sulla croce, ci ha meritato la grazia, ci ha innestati in sè, per ricondurci con sè nel seno della Trinità,
-da cui col peccato ci eravamo allontanati. Così noi, non
-per nostro merito, non per nostra capacità, ma solo per
-essere innestati in Cristo possiamo, con lui e per lui —
-nostro Mediatore, nostro ponte, nostra via — penetrare
-nella vita intima di Dio, nella vita Trinitaria. La fede e la
-carità, che Gesù ci ha meritato insieme con la grazia, ci
-rendono capaci di entrare in relazione con le tre Persone
-divine, sì che noi possiamo realmente vivere « nascosti con
-Cristo in Dio ».
-
-La vita nascosta in Dio è la grande attrattiva delle
-anime interiori e per giungervi esse sono ben felici di
-celarsi agli occhi propri e altrui, fuggendo ogni ombra
-di splendore terreno. Benedetto nascondimento che introduce l’anima nella «vita abscondita cum Christo in
-Deo »!
+Quando «sorprendiamo noi stessi a desiderare ciò che splende — diceva S. Teresa del B. G. — schieriamoci umilmente tra gl'imperfetti e stimiamoci anime deboli che Dio deve sostenere ad ogni istante» *(CR.).* E per conto suo la Santa chiedeva: «O Gesù, fa' che nessuno si occupi di me e che io sia dimenticata, calpestata come un granello di arena» *(St.* 8). L'anima di vita interiore vuole essere conosciuta e amata da Dio solo e per questo si nasconde alle creature.
 
 ### Colloquio
 
-«Sì, o Gesù, ad altro non voglio attendere che a didivenire una tua copia perfetta e, poichè la tua vita non
-fu che vita nascosta di umiliazione, di amore; di sacrificio, così da ora in poi deve essere la mia; perciò adesso
-per sempre intendo di rinchiudermi nel tuo amabilissimo
+«O Gesù che hai detto: 'Il mio regno non è di questo mondo', Tu m'insegni che la sola regalità invidiabile consiste nel voler essere ignorati e contati per niente, e nel por la propria gloria nel disprezzo di se medesimi. Oh, come bramo che il mio volto, al pari del tuo, sia celato a tutti gli sguardi, tanto che nessuno quaggiù mi riconosca! Tu non hai voluto né bellezza, né splendore, ma il tuo Volto era quasi nascosto e gli uomini non ne hanno fatto alcun conto. Desidero anch'io di essere, come te, senza splendore, né bellezza, sconosciuta ad ogni creatura.
 
+«Sì, desidero serbare tutto per te con cura gelosa; com'è bello lavorare per te solo, o Gesù! per te solo. Allora il cuore è pago e ci si sente in pace, o Gesù! Fa' che nessuno pensi a me, che la mia esistenza sia da tutti, per così dire, ignorata; non desidero che una cosa: essere dimenticata e contata per niente. Sì, desidero di essere dimenticata, e non soltanto dalle creature, ma anche da me stessa; vorrei essere talmente ridotta a niente da non aver più nessun desiderio. La tua gloria, o mio Gesù, ecco tutto! la mia te l'abbandono» (cfr. T.B.G. *St.* 7; *NV.; Lt.* 84 e 81).
 
-Cuore come in un deserto, per quivi fare in te, con te,
-per te, questa vita nascosta di amore e di sacrificio... E
+O Signore, essere dimenticata dalle creature, lavorare senza che il mio lavoro venga riconosciuto, passare nel silenzio e nel nascondimento di un'umile vita in cui nulla emerge, nulla è degno di attenzione, ecco qualche cosa che mortifica sino in fondo il mio orgoglio. Ecco, o Signore, una cura energica al mio innato desiderio di farmi valere.
 
-iacchè m'ispîri al cuore di farmi, per quanto è possibile,
-in tutto simile a te, a questo tenderanno le mie premure,
-e particolarmente t'imiterò in quelle virtù che tanto piacciono al tuo amabilissimo Cuore: umiltà... e purità d’in-
-tenzione, sì nell’interno, come all’esterno, operando sempre con spirito di semplicità » (T.M. Sp. p. 324).
-
-O Gesù, degnati di aprire anche a me il tuo dolcissimo Cuore e permettimi di rifugiarmi in esso per vivere
-con te nascosto in Dio. La vita esteriore, la vita di comparsa e di gloria terrena non ha più per me alcuna at-
-trattiva: non è forse tutta vanità, tutto fugace avvicendarsi di circostanze che presto non saranno più? L'unica
-vita che mi attira e che rimarrà sempre, al di sopra
-di ogni contingenza terrena, è quella di intima unione con
-Dio. Ed è questo il grande tesoro che Tu mi offri i
-meriti della tua Passione. Ti contemplo in croce, o Gesù,
-col petto squarciato dalla lancia quasi per indicarmi che
-la tua morte mi ha aperto le porte del tuo Cuore, per
-ammettermi nel santuario della tua vita interiore. La tua
-morte, infatti, ha innestato in te la mia povera vita umana
-per renderla partecipe della tua vita divina, vita di intimi
-rapporti con la Trinità. Questa sì che è vita vera, vita
-duratura, vita eterna! Ed a questa io aspiro, non per i
-miei meriti, ma per i meriti della tua Passione. O Gesù,
-
-
-fa’ che io cerchi la mia gioia, il mio bene solo in questa
-
-
-partecipazione della tua vita interiore, e che in essa riponga tutta la mia gloria.
-
-E ogni mia gloria sia nell'interno, nel segreto della
-‘mia vita nascosta con te in Dio.
+Signore, lo confesso e Tu già lo sai, sono ben lontano dal desiderare, come i santi, la dimenticanza, la noncuranza delle creature, io che spesso spontaneamente mi valgo di piccole industrie per farmi notare, per mettermi in vista. Ma Tu lo sai, Gesù mio, che io sono malato, e Tu lo sai che voglio guarire, modellando la mia vita sull'esempio della tua. Solo per essere simile a te posso accettare e amare il nascondimento, solo per meritarmi il tuo amore, i tuoi sguardi, la tua intimità posso rinunciare alla benevolenza e alla stima delle creature. O Gesù, aumenta dunque il mio desiderio di vivere solo per te e mi sarà dolce vivere ignorato dagli uomini.

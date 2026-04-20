@@ -1,106 +1,25 @@
-## 248 — L'ATTO DELL'AMORE
+## XVIII — LA POTENZA DELLA FEDE
 
-### Presenza di Dio
-
-O Signore, fa' che io ti ami per te stesso e non per la mia consolazione, fa' che amandoti cerchi sempre la tua volontà e non la mia.
+**Presenza di Dio.** — *«Io credo, Signore, aiuta la mia incredulità, accresci la mia fede»* *(Mr.* 9, 23; cfr. *Lc.* 17, 5).
 
 ### Meditazione
 
-1. Amare è voler bene a qualcuno; si comprende, quindi,
-che l'essenza dell'amore sta nell'atto della volontà con cui
-si vuol bene, Ciò non toglie che in noi quest'atto vada
-facilmente congiunto con l'affetto sensibile e allora l'amore è insieme atto della volontà e della sensibilità; tuttavia è
-chiaro che la sostanza del vero amore non sta nell'emozione
-del sentimento, ma nell'atto della volontà. La carità non muta il nostro modo di amare, ma lo penetra, lo soprannaturalizza, rendendo la volontà e la sensibiltà capaci di amare
-Dio. Sì, anche il nostro affetto sensibile può essere impegnato
-nell'atto di amore soprannaturale; Dio non disdegna neppure questa più umile e meno elevata manifestazione del
-nostro amore lui, tanto è vero che ci ha comandato di
-amarlo non solo con tutta la mente e con tutta l'anima, ma
-anche con tutto il cuore. Tutte le nostre forze — intellettuali,
-volitive, affettive — vengono impegnate nell'atto di amore e,
-tuttavia, la sostanza di questo atto non sta nel sentimento
-ma nella volontà. Perciò, quando nel tuo amore per Dio
-rimani freddo riguardo alla sensibilità e non «senti » nulla,
-non devi turbarti: troverai così minore soddisfazione nel tuo
-amore — perchè sentire di amare è assai più dolce — ma
-il tuo atto di amore sarà ugualmente vero e pieno. Anzi,
-mancandoti l'appoggio e lo slancio che viene dal sentimento,
-sarai costretto ad applicarti con maggior decisione all'atto della volontà e ciò, lungi dal nuocere, renderà più volitivo, e
-il più meritorio, il tuo atto d'amore, Appunto perchè
-ja sostanza dell'amore sta nell'atto della volontà che vuol
-bene a Dio, ecco che il Siguore, per rendere più puro e più
-intenso il tuo amore, spesso lo priverà di ogni dolcezza di
-sentimento; non sentirai più di amare Dio — e ciò ti darà
-pena — ma, in realtà, lo amerai nella misura in cui saprai
-decisamente volere la sua volontà, il suo beneplacito, il suo
-gusto al di sopra di tutte le cose. Del resto, sentire l'amore
-non è in tuo potere, mentre è sempre in tuo potere fare atti
-d'amore con la volontà, è sempre in tuo potere voler bene
-a Dio cercando con tutte le tue forze di vivere per lui, di
-fargli piacere.
+**1** — Gesù ha detto: «Ogni cosa è possibile a chi crede» *(Mr.* 9, 22); sembra infatti che di fronte all'atto di fede vivo, cieco, incondizionato Dio non sappia resistere e si ritenga quasi obbligato ad esaudire le nostre suppliche. Il Vangelo ce lo dice ad ogni pagina: prima di compiere un miracolo Gesù chiedeva sempre un atto di fede: «Credete voi che io possa far questo?» *(Mt.* 9, 28) e, quando la fede era sincera, subito il prodigio si compiva: «Sta' di buon animo, o figlia — diceva all'emorroissa — la tua fede ti ha guarita» *(ivi,* 9, 22). Gesù non dice mai: la mia onnipotenza vi ha salvati, vi ha guariti, ma la vostra fede, quasi per farci intendere che la fede è la condizione indispensabile da lui richiesta per impegnare a nostro vantaggio la sua onnipotenza. Egli, sempre onnipotente, non vuole usare la sua onnipotenza che in favore di chi crede fermamente in lui. Proprio per questo motivo il Maestro divino rifiutò a Nazareth i molti miracoli fatti altrove. Quanto più la nostra fede è viva, tanto più è onnipotente dell'onnipotenza stessa di Dio. «Se aveste tanta fede quanto un granello di senapa — ha affermato Gesù — potreste dire a questo monte: passa da qui a là! E passerebbe e niente vi sarebbe impossibile» *(Mt.* 17, 19). Come tutte le parole del Vangelo sono vere, così anche queste sono vere, letteralmente vere; se non si effettuano per noi è solo perché la nostra fede è molto fiacca. Quante difficoltà incontriamo nella vita che sono per noi vere montagne da trasportare! Difficoltà nella vita spirituale: difetti che non riusciamo a vincere, abitudini virtuose che non riusciamo ad acquistare; difficoltà nella vita quotidiana: mancanza di mezzi, lavori ed opere che superano le nostre capacità, le nostre forze... E noi ci fermiamo scoraggiati ai piedi di queste montagne: è impossibile, non ci riesco! Basterebbe un poco di fede, quanto un granello di senapa — che è piccolissimo — ma purché sia fede viva, sicura, decisa, fede soprannaturale che conta solo su Dio e solo in nome Suo affronta con coraggio qualsiasi difficoltà. Oh, se potessimo credere così! «Nulla è impossibile a chi crede».
 
+**2** — Sebbene le difficoltà che incontriamo sul nostro cammino possano essere gravi, tuttavia non possono mai legittimare lo scoraggiamento. Ci scoraggiamo perché ci ripieghiamo sulla nostra impotenza: da un lato il ricordo degli insuccessi già riportati e dall'altro la visione di situazioni insormontabili, ci schianta, ci soffoca, ci paralizza. Ma l'anima che ha fede in Dio, che è sicura del suo Dio sa ben trovare il modo per uscire da queste strette e si vale di un trampolino per tuffarsi in Dio con un atto di fede forte e decisa.
 
-2. — S. Giovanni della Croce precisa: e La volontà si
-unisce a Dio mediante la propria operazione, il cui termine
-è l'amore, non già per mezzo... dei sentimenti che hanno nel
-l'anima il proprio termine e fine » (S. III, 46, 2). L'operazione
-della volontà è l'atto di amore con cui vogliamo bene a Dio,
-con cui conformiamo la nostra volontà alla sua; questa operazione termina propriamente in Dio, è il vero mezzo per unirci
-a lui. Il sentimento dell'amore invece, non essendo altro che
-un'impressione soggettiva prodotta talvolta nella sensibilità
-dall'atto di amore, termina nell'anima che lo prova e le è
-di conforto, ma è chiaro che di per sè non giova ad unirla
-a Dio. E' vero, l'anima può valersene per darsi al Signore
-con maggiore generosità e, in questo caso, il sentimento dell'amoré viene a rendere più intensa l'operazione della volontà; ma, purtroppo, essendo noi tanto inclinati a cercare la
-nostra soddisfazione anche nelle cose più sante, non è difficile che l'anima si arresti nella dolcezza di questo sentimento ed allora cessi di tendere a Dio con tutte le sue
-forze. È' quindi molto opportuno che Dio ci faccia passare
-
-per periodi di aridità, obbligandoci così ad andare a lui con
-la pura operazione della volontà; allora, dice il Dottore mistico, « l'anima si ferma soltanto in Dio e, lasciando da parte ogni cosa, lo ama sopra tutte » (S. III, 45, 3). E junge:
-« molto insipiente sarebbe colui che, vedendosi Toi spirituale dolcezza, pensasse per questo che gli manchi Dio; o
-che, al contrario, si rallegrasse credendo di possederlo qualora provasse spirituale Tu) (S. III, 46, 1). No, non
-consiste in ciò il vero amore e l'unione con Dio, ma nella
-pura operazione della volontà che cerca Dio e il suo volere
-al di sopra di ogni cosa. Perciò, se vuoi davvero amare Dio
-ed unirti a lui, « abbi fame soltanto della volontà, di Dio »
-(ivi, 46, 2), ossia, cerca solo la sua volontà preferendola sempre alla tua. Questo modo di amare ti fa uscire totalmente
-da te stesso, da ciò che vi è di più profondo nel tuo io,
-ossia dalla tua volontà, per slanciarti tutto nella volontà di
-Dio. E, se pensi che, per giungere alla perfetta unione con
-Dio, tutta la tua vita deve essere inclusa nella sua volontà,
-sentirai il bisogno di essere continuamente generoso per uscire dalla tua volontà e rimanere sempre in quella di Dio.
+Dio permette talvolta condizioni di vita molto difficili di cui umanamente parlando non si vede la soluzione, permette stati di vera angoscia dovuti a forti prove di spirito proprio perché vuol condurci ad un intenso esercizio della virtù della fede, esercizio che in certi casi può e deve diventare eroico. Se, dunque, il Signore dispone qualche cosa di simile anche per te, persuaditi che non lo fa perché ti abbia abbandonato o ti rigetti da sé, non lo fa per avvilirti o per annientarti, ma per renderti forte ed anche eroico nella fede. Credi in lui, credi nella sua onnipotenza soccorritrice, credi nella sua parola; forse il Signore tarda a venire in tuo soccorso proprio perché non sei ancora capace di formulare un atto di fede pieno. Egli ti domanda, come ai due ciechi del Vangelo: «Credi che io possa far questo?» (cfr. *Mt.* 9, 28) e tu non sai ancora rispondergli un sì forte e deciso, senza *ma* e senza *se*. Però, anche se la tua fede è forte, Dio potrebbe ugualmente provarla, come Gesù provò la fede della Cananea. È allora devi fare come lei: non arrenderti, non cessare dal credere, ma credere sempre di più, sì che Egli sia costretto a risponderti come a quell'umile donna: «la tua fede è grande; sia fatto come tu vuoi» *(Mt.* 15, 28).
 
 ### Colloquio
 
-« O mio Dio e Signore! Quanti sono coloro che in te non
-cercano che la propria consolazione, solo desiderando da te
-grazie e doni! Invece, quelli che vogliono dar piacere a te
-e offrirti qualcosa a prezzo di sacrifici, posposto il proprio
-interesse, quanto mai sono pochi!
+«Signore e Dio mio, la fede in noi è così debole che crediamo più facilmente a quanto ci cade sotto gli occhi che non alle verità che essa ci insegna e così, inseguendo queste cose sensibili, la nostra miseria è anche troppo evidente!..
 
-«Dammi grazia, o Signore, di seguirti con vero amore
-e con spirito di sacrificio, sì che in nessun modo cerchi conforto e piacere, nè in te, nè in altra cosa! Non voglio chiederti ricompense perchè ben vedo di aver già ricevuto molte
+«Se, poi, vengono a frapporsi gravi difficoltà, oh, come se ne giova il maligno! Se non altro per indebolire sempre più la nostra fede. E non credere, o Signore, che Tu sia così potente da far cose superiori alla nostra intelligenza è un gran danno!
 
+«Benedetto sii Tu, o mio Dio! Riconosco la tua sovrana potenza. Sei potente, oh, sì, lo sei veramente. E che cosa è impossibile a chi tutto può? Benché tanto miserabile, io credo fermamente che la tua potenza si estenda a tutto ciò che vuoi; più son grandi le meraviglie che sento dire di te e più si fortifica la mia fede nel pensiero che ne puoi fare di maggiori. Perché meravigliarsi di ciò che fa l'Onnipotente?» (cfr. T.G. M II, 5; VI, 3, 7; *Es.* 4, 2).
 
-grazie; desidero piuttosto che ogni mio pensiero sia indi
-zato a darti piacere ed a servirti per il molto che Tu meriti,
-a costo di qualunque disagio e patimento. O mio Amato,
-ogni cosa aspra e gravosa la voglio per me; tutto ciò che è
-soave e dilettoso, per te» (cfr. G.C. N. II, 19, 4; PA. 52).
+«O mio Dio, occorre maggior fede per non credere in te che per credere in te! È tanto grande l'amore che mi mostri che non ho più bisogno di fede per crederlo» (S. M. Maddalena de' Pazzi).
 
+«Dio mio, Tu sei amore e onnipotenza; Tu sai tutto, puoi tutto, vuoi tutto e conduci ogni cosa per la gloria tua e per il vantaggio nostro. Quanta fede attingo da queste verità; quanta confidenza, che riposo e che amore mi comunicano! So che, anche quando non mi dai niente di palpabile, Tu sei sempre il mio Dio e provvedi sempre con amore all'opera delle tue mani. Perciò mi nascondo in te con fede e sostengo l'impeto della tempesta con la certezza che, quando piacerà a te, con la tua onnipotenza divina, farai anche risuscitare i morti» (cfr. B. Teresa Soubiran).
 
-
-Lo
-
-«O Signore, come è necessario imparare ad amarti senza alcun interesse! Per camminare come si deve nella via
-dell'amore, bisogna aver l'unico desiderio di servire te, o Dio
-Crocifisso; perciò, non solo non voglio domandarti consolazioni, ma nemmeno le desidero e ti supplico a non volermele
-concedere in questa vita. ì
-
-«No, Dio mio, l'amore non sta nei gusti spirituali, ma
-nell'essere fermamente risoluti a contentarti in ogni cosa,
-nel fare ogni sforzo per non offenderti, nel pregare per l'accrescimento del tuo onore e della tua gloria. Sta soprattutto
-nella perfetta conformità al voler tuo, sì da volere anch'io —
-e fermamente — quanto so che Tu vuoi, accettando con la
-medesima allegrezza tanto il dolce che l'amaro, O possente
-amor di Dio! Com'è vero che l'amante non trova nulla d'impossibile! » (Cfr. T.G. M. IV, 2, 9; 1, 7; Fo. 5, 10; P. 3, 8).
+Mio Dio, no, non è diminuita la fede del tuo braccio! Se Tu non compi per me dei miracoli è solo perché la mia fede è fiacca. Aiuta, o Signore, la mia incredulità; accresci la mia fede!

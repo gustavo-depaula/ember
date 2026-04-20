@@ -1,108 +1,19 @@
-## 286 — LA PERSEVERANZA
+## XXV — GIUSTIZIA E RELIGIONE
 
-### Presenza di Dio
-
-La tua grazia, o Dio, mi renda perseverante sino alla fine.
+**Presenza di Dio.** — *Fa', o Signore, che tutta la mia vita sia un continuo atto di ossequio a te.*
 
 ### Meditazione
 
-Per farci santi non basta essere coraggiosi, giusti, pazienti
-e possedere tutte le altre virtù per qualche giorno, e neppure per qualche anno, ma bisogna durare in que-
+**1** — La virtù della religione è quella che c'inclina a prestare a Dio l'omaggio ed il culto dovuto; in questo senso si riallaccia alla virtù della giustizia di cui, tuttavia, non può realizzare appieno le condizioni, ma alla quale cerca di avvicinarsi il più possibile. La nostra religione diventa capace di onorare Dio in modo degno di lui solo in quanto partecipa della religione di Cristo, ossia in quanto si associa agli omaggi, alle adorazioni, alle lodi, alle offerte che dal Cuore di lui s'innalzano al Padre celeste. Gesù è stato il religioso per eccellenza nel senso che tutti i suoi affetti, la sua attività, la sua volontà sono stati orientati alla gloria del Padre e al suo servizio, sì che la sua vita intera fu un continuo atto di culto, di religione. «Non sapete che io devo attendere a ciò che riguarda il Padre mio?» *(Lc.* 2, 49); ecco l'atteggiamento fondamentale del suo spirito. Gesù, che nel segreto del cuore adorava incessantemente la Trinità, che tanto spesso esprime anche all'esterno la sua preghiera innalzando gli occhi al cielo ed invocando il Padre, che passa la buona parte della notte in colloquio solitario con lui, che si reca puntualmente al tempio di Gerusalemme per tutti gli atti di culto esterno prescritti dalla legge, che muore sulla croce per offrire alla Trinità un sacrificio degno di lei, ci dice in che cosa consiste la vera virtù della religione. Anzitutto è culto interno perché «Dio è spirito, e quelli che l'adorano lo devono adorare in spirito e verità» *(Gv.* 4, 24), ma è anche culto esterno perché tutto il nostro essere, e quindi anche il nostro corpo, deve prendere parte agli omaggi che dobbiamo rendere a Dio.
 
-
-sto esercizio sino alla fine, senza cedere alla stanchezza, allo
-scoraggiamento o alla mollezza. Proprio qui è il punto cruciale, perchè, come dice S. Tommaso, « applicarsi per lungo
-tempo a qualche cosa di difficile — e la virtù lo è quasi sempre — costituisce una particolare difficoltà » (II-II, q. 137,
-a. 1); solo superando questa difficoltà potremo giungere alla
-perfezione. Non siamo angeli, siamo uomini. L'angelo, puro
-spirito, è per sua natura stabile: presa una risoluzione, rimane fisso in essa; ma non è così di noi che, essendo com-
-posti di spirito e di materia, subiamo le conseguenze della
-mutabilità e delle fluttuazioni di questa, Come la stabilità è
-la caratteristica dello spirito, così la volubilità è la caratteristica della materia; ecco perchè ci riesce tanto difficile essere
-perfettamente costanti nel bene. Pur avendo formulato nello
-spirito propositi buoni, sentiamo sempre pesare su di noi le
-A della parte sensibile la quale rifugge dallo sforzo
-faticoso continuo e tenta perciò di liberarsene o, almeno, di
-ridurlo al minimo. Il nostro fisico va soggetto a stanchezza,
-la sensibilità dà luogo a impressioni, a turbamenti e tutto ciò
-è occasione di continui alti e bassi: quelle stesse cose che
-poco prima ci entusiasmavano ad un tratto ci diventano antipatiche, tediose, sì da sembrarci quasi impossibile poterle
-sopportare. Questa è la nostra condizione sulla terra, condizione cui nessun uomo può sfuggire. Eppure Dio ci chiama
-ugualmente alla santità e, poichè questa richiede un continuo
-esercizio delle virtù, Egli — che non domanda mai nulla
-d'impossibile — ha rimediato all'instabilità della natura infondendo in noi la virtù della perseveranza, la quale ha per
-oggetto particolare la durata nello sforzo. Se per nostra natura siamo instabili, possiamo dunque, con l’aiuto della grazia,
-diventare perseveranti,
-
-
-2. — Vi sono due forme di perseveranza. La prima è così
-perfetta che non presenta alcuna incrinatura, è sempre rettilinea, sempre uguale a se stessa, anche nelle circostanze
-
-
-più difficili ed impensate. E' la perseveranza della virtù eroi-
-
-
-ca, delle anime giunte allo stato di unione trasformante e
-che perciò vivono abitualmente sotto il governo dello Spirito
-Santo. Meta bellissima alla quale possiamo e dobbiamo aspirare, ma alla quale non ci è dato arrivare col solo esercizio
-della virtù, perchè solo l'intervento abituale dei doni dello
-Spirito Santo può sanare sino in fondo l'instabilità della nostra natura.
-
-La seconda forma è quella delle anime fervorose e an
-che delle anime perfette, ma che non godono ancora della
-mozione abituale dello Spirito Santo, e perciò presenta
-delle incrinature più o meno lievi a seconda della maggiore
-o minore perfezione dell'anima. In questo caso la continuità
-della perseveranza non consiste nel rimanere perfettamente
-stabili nel bene, ma piuttosto nell’incessante ricominciare appena si avverte di essere venuti meno in qualche cosa. Ba-
-sta alle volte un momento di disattenzione, un fatto nuovo
-che ci colga all'improvviso, un po' di stanchezza o di emotività per lasciarci sfuggire qualche mancanza che ci eravamo
-proposti sinceramente di evitare a tutti i costi, ed eccoci a
-terra! Questo, però, non è un motivo per scoraggiarci, per
-rattristarci, è invece, un motivo per umiliarci, riconoscendo la
-nostra debolezza, e per invocare con maggiore insistenza l’aiuto di Dio onde rialzarci subito e ricominciare. Data la mobi-
-lità della natura umana, la nostra perseveranza consiste praticamente in un continuo ricominciare. Questa è la perse
-veranza a cui tutti dobbiamo senz'altro arrivare, perchè dipende dalla nostra buona volontà, nel senso che Dio ha in-
-fuso in noi tale virtù e ci dà momento per momento la grazia sufficiente per metterla in atto. Non è in nostro potere
-affrancarci dall'instabilità della nostra natura e quindi non ci
-è possibile evitare qualsiasi rallentamento nel bene, qualsiasi
-
-
-negligenza, debolezza o mancanza, ma è in nostro potere riprenderci subito appena avvertiamo di aver messo un piede
-in fallo. Ecco la perseveranza che Dio esige da noi e quando
-noi saremo fedeli a praticarla, essendo sempre pronti a rial-
-
-
-zarci dopo qualsiasi colpa, Dio stesso coronerà i nostri sforzi
-concedendoci la grazia somma della perseveranza finale.
+I religiosi, che per mezzo dei voti si consacrano totalmente al servizio di Dio, realizzano al massimo la virtù della religione, a condizione però che vivano i loro impegni «in spirito e verità». Ma anche chi non è legato dai voti deve cercare, in tutte le sue azioni, di avere sempre di mira la gloria, l'onore, il servizio di Dio; quindi deve compierle in modo che possano essere presentate a lui come atti di omaggio, di offerta, di sacrificio. Così la virtù della religione, anziché riguardare solo le ore di preghiera, viene ad abbracciare tutta la nostra vita trasformandola, a imitazione di quella di Gesù e in unione ad essa, in un continuo atto di ossequio a Dio.
 
 ### Colloquio
 
-«O Signore, sarò certamente salvo se persevererò sino alla
-fine; ma questa perseveranza deve essere virtuosa per meritare la salvezza; se mi viene la virtù che mi salva, sei Tu
+«Che ti renderò, o Signore, in cambio di tutti i tuoi doni? La ragione e la giustizia naturale esigono che io mi dia interamente a te, da cui ho ricevuto tutto ciò che sono e m'impongono di amarti con tutte le mie forze. Ma la fede m'insegna che devo amarti ancora di più, quanto più i tuoi doni superano me stesso: infatti Tu mi hai dato non solamente l'essere mio, ma anche, per grazia, l'essere tuo.
 
+«Se già a motivo della creazione devo darmi interamente a te, che cosa aggiungerò in cambio della mia redenzione? Nella creazione mi hai dato me stesso, nella redenzione ti sei dato a me e, dandoti, mi hai reso a me stesso. Dato e poi reso, io mi devo a te in cambio di me, e mi devo due volte. Ma che cosa ti potrò dare, o Dio, in cambio di te stesso? Anche se mi potessi dare a te mille volte, che cosa sono io in tuo confronto?
 
-che mi fai perseverare sino a raggiungere la salvezza.
+«Ti amerò, o Signore, amerò Te che sei la mia forza, il mio appoggio, il mio rifugio, il mio liberatore. Ti amerò per i tuoi doni e secondo la mia misura, la quale sarà certamente al di sotto della misura giusta, ma non sarà inferiore alla mia capacità di amarti. Senza dubbio saprò amarti maggiormente quando Tu ti degnerai di darmi maggior amore e tuttavia non ti amerò mai quanto meriti. I tuoi occhi hanno visto la mia imperfezione, ma nel tuo libro saranno scritti quelli che fanno tutto ciò che possono, anche se non possono fare tutto ciò che devono» (S. Bernardo).
 
-«Ecco che adesso io sono ancora in battaglia: battaglia
-di fuori con falsi virtuosi, battaglia di dentro con le mie concupiscenze. Al considerare in quante piccole miserie cado
-
-ogni giorno, non fosse altro con pensieri e con parole, mi
-avvedo che il loro numero è ben grande e che da questo
-gran numero di cose piccole si vien formando un grosso mue
-chio. Infelice me! chi mi libererà da questo corpo di morte?
-Mi libererai Tu, o Signore, con la tua grazia per mezzo di
-Gesù Cristo, Figliuol tuo e Signore nostro. Nel travaglio,
-dunque, di questa guerra levo lo sguardo alla tua grazia e
-nell'ardore e nell'arsura che già ho cominciato a sentire, invoco la tua ombra vivificatrice.
-
-« Assistimi, o Signore Gesù, per ripetermi: * Non stancarti per la via stretta: io vi son passato prima di te; io sono
-la via stessa; sono io la guida e piglio su di me chi conduco e lo conduco fino a me'» (S. Agostino)
-
-« Concedimi, o Dio eterno, la virtù della perseveranza senza la quale nessuno può piacerti nè esserti accetto. Questa
-virtù porta nell'anima l'abbondanza della carità e il frutto
-di ogni fatica. Oh, quanto sarò beata se Tu, Signore, mi darai questa virtù, perocchè fin da quaggiù mi farà gustare
-un'arra di vita eterna. Ma la tua luce mi mostra che non
-posso giungere a tanto senza molto patire, perchè questa vita non passa senza fatica; e chi volesse fuggire la fatica fug-
-girebbe il frutto della santa perseveranza» (S. Caterina da
-Siena).
+«T'invoco, o Padre onnipotente, per la carità dell'onnipotente tuo Figlio, né so quale altro intercessore potrei trovare se non questo, che s'è fatto propiziazione pei nostri peccati. Ti prego per lui, Sommo Sacerdote, vero Pontefice e buon Pastore, il quale offerse se stesso in sacrificio, donando la sua vita pel suo gregge; ti prego per lui, che siede alla tua destra ed intercede per noi, affinché Tu mi dia grazia di benedirti e glorificarti unitamente a lui con molta compunzione di cuore, con molte lacrime, con molta riverenza. Ecco il mio avvocato presso di te, Dio Padre; ecco l'Ostia santa a te gradita, perfetta, offerta in odore di soavità e da te accettata» (S. Agostino).

@@ -1,45 +1,35 @@
-## 314 — THE SOUL OF APOSTOLATE
+## 314 — BLESSED ARE THE MERCIFUL
 
 ### Presence of God
 
-Make me understand, O Lord, that only union with You, only love, can make every apostolate fruitful.
+O Holy Spirit, make my heart merciful in imitation of Heart of Jesus.
 
 ### Meditation
 
-1. — One cannot be a collaborator of God, a docile instrument in his hands; one cannot feel with Christ and associate oneself with his love and his work for salvation of souls, without a life of loving intimacy with God and with blessed Jesus — that is, without an intense interior life.
+1. — Through the gift of counsel the Holy Spirit wants to take practical direction of our life to lead us to holiness. Therefore all Christian perfection, which was object of Jesus' teaching, is likewise object of gift of counsel, of suggestions of the Holy Spirit: "He will suggest to you all that I have said to you" (Jn. 14:26), declared the Master.
 
-By prayer and struggle against sin, by self-denial and practice of virtues, interior life progressively strips soul of all that is defective, thus favoring in it growth of grace and love. This means clothing it with divine life, since grace and love are participation in God's own life. It follows that the more a soul cultivates interior life, the more it approaches God; and becoming like Him through grace and love, it can live in his intimacy, enjoy his friendship, penetrate his mysteries, and associate itself with them.
+Yet as in Jesus' teaching there is one dominant note — love, which He calls his commandment — so among inspirations of the gift of counsel there is one generally recognized as proper effect of this gift: mercy.
 
-Who then will be more capable of understanding great mystery of Redemption and bringing to it his contribution than one who, through fervent interior life, lives in intimate friendship with God?
+Proposing his commandment, Jesus said: "Love one another, as I have loved you" (Jn. 15:12). Now the fundamental characteristic of his love, of God's love for men, is precisely mercy. All creatures are misery before God, misery unable to subsist without continual intervention of his action. And we men, what are we? Not only misery unable to subsist, but misery capable of sin. By ourselves "we are nothing, can do nothing, are worth nothing, have nothing except sin" (St. John Eudes). We are therefore misery in fullest sense of the word.
 
-For purposes of apostolate, that first degree of divine friendship resulting merely from absence of grave sin cannot suffice. A deeper friendship is required, one creating conformity of views, will, desires, and affections, so apostle may act according to heart of God, moved not by personal impulses but by impulse of grace, by divine will, by inspirations of Holy Spirit.
+Thus, when God loves us, his love is essentially and necessarily an act of mercy: love that bends down to our misery to lift it, sustain it, enrich it with his infinite riches. This is what Holy Spirit proposes in particular to accomplish in us through gift of counsel: to teach us to copy this mercy, principal characteristic of God's love for us.
 
-It is significant that Jesus, before sending Apostles to conquest of world, wanted to make them live for three years in his intimacy, treating them as true friends: "I will not now call you servants ... but I have called you friends" (Jn. 15:15). Friends, not only because He shared with them treasures of his divine life, but also because He wanted them collaborators and, in a certain sense, continuators of his mission as Redeemer.
+The Holy Spirit wants to lead us to perfect observance of Jesus' commandment, that is, to imitate merciful love of his divine Heart: "Love one another as I have loved you." He wants to bring us to imitate infinite mercy of heavenly Father: "Be merciful, as your Father also is merciful" (Lk. 6:36).
 
-Apostle cannot be such unless he is friend of God. God Himself invites him to this friendship, but it is necessary he correspond by serious interior life that makes his relations with God ever more intimate and richer in love.
+2. — God is infinitely merciful because He knows our misery to the depths. We are little merciful because we know it too little. The Holy Spirit, through gift of counsel, enlightens us on this point, first regarding our natural misery. In failures and falls He repeats in depth of heart Jesus' admonitions: "Without Me you can do nothing ... you are unprofitable servants" (Jn. 15:5; cf. Lk. 17:10). Little by little this lesson, made more vivid and effective by experience, penetrates deeply into our soul. We no longer need long reasonings to be persuaded of insufficiency, of our nothingness: we see it, touch it by hand. Gift of counsel has opened our eyes.
 
-2. — Only from friendship with God, only from charity that unites us to Him, does apostle draw those supernatural energies that make his works truly effective and capable of reaching their goal.
+Understanding our natural misery makes us understanding also of others' misery. How can one who is truly convinced of his own fragility, weakness, and inconstancy dare condemn others? "He that is without sin among you, let him first cast a stone" (Jn. 8:7), the Holy Spirit suggests interiorly when, indignant over others' faults, we may be tempted to imitate hard gesture of Pharisees toward adulterous woman.
 
-But where will apostle draw this love which, uniting him to God, renders him so powerful? Certainly from God Himself: "The charity of God is poured forth in our hearts by the Holy Ghost who is given to us" (Rom. 5:5).
+The Holy Spirit wants to carve in us lineaments of Jesus, wants to transform us into living images of Savior; therefore gently and incessantly He pushes us to mercy. He puts in our heart love for the miserable: miserable in material order, miserable in moral order, so that, like Jesus, we go in search of them, ready to sacrifice ourselves for their salvation.
 
-At first moment, that of justification, God infuses charity in us without our collaboration; but He does not preserve this gift for us, much less increase it, unless we keep united to Him through exercises of interior life. Struggle against passions, practice of virtues, frequenting sacraments, prayer, recollection, and God's presence have precisely purpose of fostering union with Lord and increase of charity.
+He urges us especially to seek those who have made us suffer, who have special right to our mercy. Then we cannot content ourselves with forgiving them and treating them with meekness; we will feel need to benefit them, to carry out fully Jesus' teaching: "Do good to them that hate you" (Mt. 5:44).
 
-Interior life is hidden forge in which soul, in contact with God, is inflamed by his love and, precisely because inflamed and forged by love, becomes docile instrument God can use to spread love in other hearts.
-
-It is therefore very fitting to recall often this great principle: interior life is soul of apostolate. A deep interior life will generate intense love and intimate union with God; and from it will spring fruitful apostolate, true collaboration in Christ's saving work. A mediocre interior life, instead, can produce only very weak and languid love and union with God, and consequently apostolate deriving from it cannot have effective influence on souls.
-
-Where interior life were almost or entirely extinguished, charity and friendship with God would also threaten to die out. And when interior flame is extinguished, apostolate is emptied of its substance, reduced to mere movement that can make noise but cannot bear fruit. "Everything," says St. John of the Cross, "will come to no more than hammering in vain and doing little more than nothing, and sometimes truly nothing, indeed at times even harm" (Canticle 29).
+This is where the Holy Spirit wants to lead us with gift of counsel, and thus He will establish us in that perfect mercy of which the divine Master said: "Blessed are the merciful, for they shall obtain mercy" (Mt. 5:7). Here is most prudent counsel of the Holy Spirit: be merciful because "with what judgment you judge, you shall be judged" (Mt. 7:2).
 
 ### Colloquy
 
-"Draw me, Lord, after You; let us run!...
+"I run to You, Lord, because of your goodness and mercy, for I know You have not despised the poor nor abhorred sinners. You did not reject thief confessing his fault, nor sinful woman in tears, nor pleading Canaanite, nor woman caught in adultery, nor tax collector at his booth, nor publican imploring mercy, nor Apostle denying You, nor even those crucifying You. Fragrance of your graces draws me.
 
-"O Jesus, I ask You to draw me into flames of your love and unite me so closely to You that You Yourself may live and act in me. The more fire of your love enkindles my heart and the more I repeat, 'draw me,' the more souls that approach mine will run swiftly after fragrance of your perfumes.
+"I have smelled fragrance of your mercy and come to You to be filled with it. Happy man who, following your examples, has heart full of compassion for miserable. Happy one who is merciful and prompt to help those in need, who deems himself more blessed in giving than receiving, who is ready to forgive and slow to anger, who never takes revenge and in every circumstance considers others' needs as if his own.
 
-"Yes, Lord, they will run, we will run together; for souls inflamed by love cannot remain inactive. They remain, like St. Mary Magdalene, at your feet listening to your sweet and burning words; but if outwardly they seem to do nothing, they do far more than Martha who busies herself with many things.
-
-"O Jesus, it is not necessary then to say: drawing me, draw also souls I love. This simple word, 'draw me,' is enough; for when a soul has let itself be conquered by intoxicating fragrance of your perfumes, it can no longer run alone, and all souls loved by it are dragged behind it. It is like natural consequence of its attraction toward You.
-
-"As a torrent drags with it into depths of sea all it encounters on its course, so, my Jesus, soul that plunges into shoreless ocean of your love draws behind it all its treasures. Lord, these treasures are for me souls You have been pleased to unite to mine; these treasures You entrusted to me.
-
-"But to reach a goal, one must use fitting means. Therefore, my Jesus, since You have made me understand You would give me souls through cross, the greater the crosses I meet, the more vivid in me becomes longing for sufferings" (St. Therese of the Child Jesus).
+"O Lord, pour into my soul dew of your mercy. Fill my heart with charity so I may become all things to all and be so dead to myself that I live only others' good. Teach me to distill sweet fragrance of mercy, composed of needs of poor, anguishes of oppressed, anxieties of afflicted, faults of sinners, and finally of all sufferings of those in pain, even if enemies. All these things seem contemptible to my nature, but fragrance drawn from them surpasses all aromas because, as You said, it has power to give us eternal life: 'Blessed are the merciful, for they shall obtain mercy.' O Lord, grant that I may pour this fragrance not only on your head and feet but on your whole body, which is Church, so that it may soothe pains of all your suffering members" (cf. St. Bernard).

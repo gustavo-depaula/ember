@@ -1,105 +1,29 @@
-## 321 — LE OPERE APOSTOLICHE
+## XXIX — BEATI I PACIFICI
 
-### Presenza di Dio
-
-O mio Dio, rendimi degno di collaborare alla diffusione del tuo regno di amore.
+**Presenza di Dio.** — *O Spirito Santo, aiutami a stabilire il mio cuore nella pace.*
 
 ### Meditazione
 
-ferenza ha, per la sua intrinseca efficacia e fecondità, la
-preminenza su ogni altra forma di apostolato a tal punto
-che, anche senza essere accompagnato da alcuna attività
-esteriore, è sufficiente per fare di coloro che lo vivono
-degli apostoli eminenti. 'uttavia, nella società, nella Chiesa sono necessarie anche le opere; Dio le vuole e infatti,
-in linea ordinaria, Egli interviene nel mondo proprio mediante l'attività dei suoi apostoli. Per diffondere la vita
-della grazia nelle anime, accanto all'apostolato interiore
-dei contemplativi, è necessaria l'attività esterna dei Pastori
-e dei fedeli: per amministrare i sacramenti è necessario il
+**1** — L'anima che, sotto l'influsso del dono della sapienza, ha gustato Dio guarda il mondo con gli occhi pieni di lui e proprio così diventa capace di giudicare tutte le cose «secundum rationes divinas» *(IIa IIae,* q. 45, a. 3), secondo le ragioni divine, secondo i motivi soprannaturali e non secondo le corte ragioni umane. Questi sono i veri giudizi «sapienti» ai quali non potremmo mai arrivare senza l'aiuto dello Spirito Santo. Infatti «l'uomo animale [l'uomo dei sensi e della pura ragione] non capisce le cose dello spirito di Dio; per lui sono stoltezze e non le può intendere, perché non si possono giudicare che spiritualmente. Invece l'uomo spirituale [l'uomo della fede guidato dallo Spirito Santo] giudica tutto» *(I Cor.* 2, 14 e 15). Giudica tutto in rapporto alla Causa suprema, Dio, e quindi dirige tutti i suoi atti e ordina tutte le cose della vita in relazione a lui. Da questo ordine — l'unico vero ordine — nasce la pace, frutto della saggia direzione del dono della sapienza; perciò l'uomo che vive abitualmente sotto l'influsso di tale dono è l'uomo «pacifico» per eccellenza. Il suo cuore è stabilito nella pace: in esso non vi è più nessun disordine, ma ogni affetto e desiderio, ogni pensiero ed atto è pienamente ordinato secondo Dio, ossia è pienamente sottomesso e conforme alla sua legge, alla sua volontà, al suo beneplacito. Possedendo la pace diventa seminatore di pace: «pacifico», nel senso etimologico, è appunto colui che mette la pace, che coltiva la pace e la diffonde intorno a sé. Ecco perché al dono della sapienza corrisponde la beatitudine dei «beati i pacifici». Solo chi vive sotto l'influsso di questo dono può davvero giudicare e ordinare tutto in rapporto a Dio, ed in tal modo nulla, neppure la sofferenza, può turbare la sua pace interiore perché sa che anche gli avvenimenti più dolorosi sono permessi e diretti da Dio per il bene dei suoi eletti: «tutto coopera in bene per chi ama Dio» *(Rom.* 8, 28).
 
-ministero sacerdotale; per convertire gli infedeli occorrono missionari; per la formazione cristiana della gioventù
-occorrono scuole e educatori; per la cristianizzazione della
-società occorrono opere sociali, occorrono professionisti
-che siano apostoli nel loro ambiente di vita, Nel campo
-dell'apostolato, come dice S. Paolo, vi sono molte mansioni, molti uffici d'importanza e di valore, eppure tutti
-derivano da un unico spirito, lo Spirito Santo che «li distribuisce.a ciascuno secondo che vuole » e nel medesimo
-tempo li ordina tutti ad un unico scopo: l'incremento
-del Corpo mistico di Cristo (cfr. /Cor. 12). E, come nel
-corpo non può un membro fare a meno dell'altro, «nè
-può l'occhio dire alla mano: * Non ho bisogno di te';
-nè la testa ai piedi: * Non ho bisogno di voi”» (ivi, 21),
-così nè i contemplativi possono dire agli attivi: «non sono necessarie le vostre opere », nè questi possono dire a
-quelli: «è inutile Ja vostra preghiera », nè î sostenitori
-elle varie 'attività apostoliche possono gli uni anteporsi
-o preferirsi agli altri, ma, apprezzandosi a vicenda, tutti
-devono lavorare con spirito di solidarietà, aiutandosi scambievolmente e attendendo ciascuno ad adempiere il prc
-prio ufficio con la maggior perfezione possibile. Dall'amore con cui ognuno disimpegna le roprie mansioni e, nello stesso tempo, si ticne unito agli altri apostoli, sempre
-pronto ad appoggiare ed a favorire le opere altrui, risulta
-appunto il bene universale della Chiesa, bene cui l'apostolo
-deve mirare al di sopra di ogni opera o interesse personale.
+Appunto così il dono della sapienza conferisce una nota di soavità, non solo all'orazione, ma anche alla vita pratica: «sotto l'influsso di questo dono — dice S. Tommaso — l'amarezza si cambia in dolcezza, la fatica in riposo» *(IIa IIae,* q. 45, a. 3).
 
-z'altro ai Pastori che sono i diretti successori degli Apostoli, cui Gesù affidò ufficialmente il mandato di evangelizzare il mondo: «Andate, ammaestrate tutte le genti,
-battezzandole nel nome del Padre e del Figliolo e dello
-Spirito Santo, insegnando loro ad osservare tutto quanto
-vi ho comandato » (Mt. 28, 19 e 20), Accanto a questo, che
-è l'apostolato gerarchico, riservato ai chierici, vi è quello
-dei laici che la Chiesa invita a collaborare con la Gerarchia, I Pastori guidano, governano, tracciano le lince e,
-sotto la loro direzione, i fedeli sono chiamati a prestare
-la loro opera. S'intende quindi che l'a, ostolato autentico,
-l'unico che può rientrare nel piano di Dio per la salvezza
-del mondo, è quello che viene svolto in armonia con le
-direttive della Chiesa. Non merita il nome di apostolo chi
-vuol lavorare la vigna del Signore indipendentemente da
-coloro che il Signore stesso ha preposto alla cura e al
-governo di essa; un'attività di ral genere non solo non
-coopererebbe ai fini dell'apostolato, ma sarebbe piuttosto
-di danno e di ostacolo, ; ;
-In questa collaborazione con la Gerarchia vengono in
-rimo luogo le anime consacrate a Dio con vincoli stabili ossia i religiosi laici e le suore dediti ad cr di
-apostolato esterno edi membri degli Istituti secolari; seuono gli appartenenti all'Azione Cattolica 'ed hanno il
-[as posto anche i semplici cristiani che, privatamente ©
-collettivamente, esercitano qualche forma di apostolato.
-Non a caso Pio XII, nell'Enciclica Mystici Corporis, a
-roposito della collaborazione dei fedeli all'apostolato dei
-stori, ha nominato espressamente i padri e le madri di
-famiglia, appunto perchè ogni cristiano che lavora per
-far penetrare lo spirito del Vangelo nel proprio ambiente
-di vita — casa, scuola, officina, ospedale, ecc. — è un
-vero collaboratore della Gerarchia. Anzi, lo stesso Papa
-afferma: « Questo lavoro apostolico, compiuto secondo lo
-spirito della Chiesa, consacra il laico quasi a ministro di
-isto in quel senso che $. Agostino così spiega: *O fratelli... anche voi, a modo vostro, dovete essere ministri di
-Cristo vivendo bene, facendo elemosine, predicando il suo
-nome e la sua dottrina. Così [anche il padre di famiglia]
-eserciterà in casa sua l'ufficio di chierico e, in certo qual
-modo, di vescovo, servendo a Cristo, per essere con lui
-in eterno' » (Enc. Summi Pontificatus). Proprio in questo
-senso S. Pietro, rivolgendosi ai fedeli, non esitava a dire:
-« Siete stirpe eletta, sacerdozio regale » (7 Pt.2,9).
+**2** — Il dono della sapienza ci conduce alla pace: pace interiore dell'anima che, avendo gustato Dio, si dà a lui senza alcuna riserva, totalmente arresa alla sua volontà divina; pace serena di colui che, vedendo Dio in tutto, accetta senza turbarsi le avversità della vita adorando in esse le divine disposizioni; ed anche pace sociale di chi, considerando gli uomini in rapporto a Dio, come creature e figli suoi, ama tutti e vuol vivere in pace con tutti. Più questa pace sarà perfetta, più ci condurrà a gustare il premio promesso da Gesù: «Beati i pacifici, perché saranno chiamati figli di Dio» *(Mt.* 5, 9).
+
+Tutti i cristiani sono figli di Dio per la grazia, ma qui si tratta di un premio particolare, possiamo dire di una sovrabbondanza della grazia di adozione; qui c'entra qualche cosa di sperimentale per cui l'anima non solo sa, ma sente e gusta di essere figlia di Dio. È il senso saporoso della figliolanza divina che nasce nell'anima sotto l'influsso del dono della sapienza. «Lo Spirito stesso attesta allo spirito nostro che siamo figli di Dio» *(Rom.* 8, 16); quest'affermazione di San Paolo diventa realtà vivente, esperienza gustosa; l'anima si sente chiamata figlia di Dio non dagli uomini, ma da Dio stesso; nessuna voce sensibile le parla, ma quanto più si sente attratta da Dio e lo gusta in un'intima unione, tanto più sente che Egli è suo Padre e lei, piccola creatura, è sua figlia.
+
+Il nostro Dio è il Dio della pace; perciò è ben giusto che il pacifico, colui che possiede e diffonde la pace, debba sentirsi in modo tutto particolare figlio suo. Se gli uomini, in genere, si sentono tanto poco figli di Dio, è anche perché sono così poco pacifici: più pronti alle liti, alle lotte, alle guerre che alla pace. Di pace si parla, ma la pace non si fa, perché l'uomo non si lascia guidare dallo Spirito della sapienza e vuol guidarsi, invece, da se stesso con la sua insipienza e così è dominato dall'orgoglio, dall'interesse, dalla cupidigia; vive nel disordine e semina disordine.
+
+Quanto più la nostra anima sarà stabilita nella pace e quanto più saremo messaggeri di pace, tanto più lo Spirito Santo infonderà nelle anime nostre questo senso gustoso della nostra figliolanza divina e ciò divverrà per noi motivo d'immensa beatitudine, vero preludio della beatitudine eterna.
 
 ### Colloquio
 
-«Dio mio, fa' che io non pensi più se ho da perdere
-o da guadagnare, ma il mio unico scopo sia quello di servirti e di contentarti. Conoscendo l'amore che Tu ci porti, rinuncio volentieri ad ogni mia soddisfazione per non
-contentare che te, servendo il prossimo ed annunziando
-alle anime le verità che fan loro del bene. Delle perdite
-che potrei avere, no, non mi preoccupo affatto: voglio
-tenere innanzi il solo interesse del prossimo e nient'altro.
-Per meglio piacere a te, Dio mio, voglio dimenticarmi
-per gli altri, pronta pure a morire, se occorre, come fccero molti martiri,
+«Donaci, o Spirito, la tua sapienza affinché c'insegni a condurre e a ricondurre tutte le cose in te, donde sono procedute. Oh, se noi ritornassimo veramente a te, come da te siamo usciti, a guisa di fiumi che ritornano al mare donde ebbero origine; oh, se facessimo questo completo ritorno a te saremmo in perpetua felicità e perpetua pace!
 
-«Credo che una delle più grandi consolazioni di questa vita sia vedere le anime avvantaggiarsi per nostro mezzo. Felici, o Signore, coloro cui Tu concedi questa grazia! » (T.G.P.7,5 e 6).
+«La tua sapienza è perfezione che ordina tutte le cose sempre guardando a te che ne sei il fine; considera il passato, guarda il presente e mira il futuro sempre in rapporto a te. Da ciò nasce la pace nel nostro cuore, dolce frutto della sapienza. Chi possiede questa pace sempre si quieta: si quieta nelle cose passate, si quieta nelle presenti, sta pacifica prevedendo le future, perché sa che tutto è permesso e disposto dalla tua somma Bontà.
 
-«Dio mio, fortunato colui il quale ha gustato quanto sia dolce il lavorare per la salute delle anime! Egli allora non teme nè freddo nè caldo, nè fame nè sete, nè
-dispiaceri nè affronti e neppure la morte.
+«O Eterno Padre, dacci luce per conoscere questa pace, causa di tanti beni e senza la quale si cade in tanti difetti ed in tanto male!
 
-«O Signore, dammi pur croci e spine e persecuzioni
-di ogni genere, purchè possa salvare anime e tra le altre
-la mia. Da mzibi amintas, coetera tolle: Signore, dammi
-delle anime e prenditi tutto il resto.
+«Oh, perché non posso io comunicare questa pace santa ad ogni creatura? Oh, se fossi io quella che dovrei essere, ben la potrei diffondere dappertutto! Dammi, o Signore, la tua pace: pace del cuore che vive unito a te, perché da me non posso avere alcun bene e senza di te non posso aver pace» *(cfr. S. M. Maddalena de' Pazzi)*.
 
-«Solo quando saprò che il demonio cesserà dall'insidiare le anime; io cesserò dal cercare nuovi mezzi per salvarle dai suoi inganni e dalle sue insidie.
-
-«O Signore, voglio farti un sacrificio totale della mia
-vita, voglio lavorare fino all'ultimo respiro per la tua gloria, sopportando con pazienza le avversità e le contrarietà
-nel bene operare. Aiutami Tu ad impiegare, finchè posso,
-tutte le mie forze per la salute delle anime » (S. Giovanni Bosco).
+«O benignissimo Gesù, concedimi che sopra ogni cosa desiderabile io riposi in te e che il mio cuore trovi quiete soltanto in te. Tu sei la vera pace del cuore, l'unico suo rifugio, mentre fuori di te non v'è che affanno ed inquietudine. In questa pace adunque, cioè in te, sommo ed eterno Bene, io avrò quiete e riposo» *(Imit.* III, 15, 4).

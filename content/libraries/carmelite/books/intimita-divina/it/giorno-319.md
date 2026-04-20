@@ -1,112 +1,29 @@
-## 319 — L'IMMOLAZIONE APOSTOLICA
+## XXVII — BEATI I PURI DI CUORE
 
-### Presenza di Dio
-
-O Gesù, immolato per la mia salvezza, fa' ch'io sia degno d'immolarmi con te per la salvezza dei miei fratelli.
+**Presenza di Dio.** — *Accresci, o Signore, la purezza del mio cuore e della mia mente affinché possa conoscerti sempre meglio.*
 
 ### Meditazione
 
-1 — La preghiera apostolica deve essere accompagnata dal sacrificio ad imitazione della preghiera che Ge-
-sù inalzò per noi al Padre nell'orto degli olivi e sulla Croce. L'amore deve spingere gli oranti « al sacrificio attivo
-che non si vinquilà nella preghiera finchè la pena e la
+**1** — Al dono dell'intelletto corrisponde la beatitudine: «Beati i puri di cuore, perché vedranno Dio» *(Mt.* 5, 8). Vi è anzitutto una purezza del cuore che è condizione indispensabile per avere un abbondante influsso del dono dell'intelletto; è la purezza che risulta non solo dall'assenza del peccato, ma anche dai minimi affetti terreni. È un fatto che Dio non si comunica totalmente ad una creatura se questa non ha una totale purezza di cuore, ossia se non riserba per lui tutta la sua capacità affettiva. Finché in noi c'è qualche attacco alle creature, qualche ricerca del loro affetto, qualche compiacenza nel sentirci amati da esse, il nostro cuore non è abbastanza puro per godere le divine comunicazioni. Perciò, prima di introdurre un'anima nella penetrazione dei suoi misteri, Dio la sottopone alla purificazione degli affetti: sono distacchi, sono strappi che talvolta costano sangue, ma che, se vengono accettati con generosità, finiscono di svincolare il cuore dalle creature e lo rendono completamente libero per il Creatore. Se Dio ci fa passare per queste prove, non tiriamoci indietro, ben persuasi che Egli riserva la pienezza dei suoi doni e della sua luce solo alle anime pure da ogni ombra di creatura, solo ai cuori che gli appartengono completamente. In questo senso si può ben dire che la visione di Dio è il premio promesso ai puri di cuore; infatti, quando il cuore conserva qualche attacco, anche minimo, alle creature, l'intelletto rimane offuscato e «non ha la capacità di ricevere la luce della sapienza di Dio, alla stessa guisa che l'aere tenebroso non l'ha per ricevere quella del sole...». Oh, — esclama S. Giovanni della Croce — se gli uomini sapessero di quanto bene di luce divina li priva la cecità causata dai loro affetti e desideri! *(S.* I, 8, 2 e 6). Invece, quando il cuore è puro, l'intelletto, simile ad un vetro terso, può essere totalmente penetrato dalla luce dello Spirito Santo.
 
+**2** — Vi è poi un'altra purezza di cuore che non è più disposizione a ricevere il dono dell'intelletto, ma è invece frutto di questo dono. Qui il vocabolo cuore è usato nel senso più largo di spirito, di mente, senso abituale nella S. Scrittura.
 
-sofferenza non abbiano quasi toccato il limite delle forze.
-In quei momenti, consumati dall'ardore della carità e dalla veemenza del desiderio, essi non saranto più dei preganti,
-ma preghiere viventi » (Pio XII, 17-1-43). Preghiera e sacrificio sono intimamente connessi perchè sgorgano da
-un'unica fiamma: l'amore che spinge all'orazione e all'immolazione incessante per la gloria di Dio e per la salvez-
-za delle anime. Vita contemplativa è quindi sinonimo di
-vita austera e penitente, sì da essere un continuo «sacrificio di lode ». Più la preghiera è nutrita, impastata di s
-crificio e più è efficace, anzi raggiunge la massima efficacia proprio quando il sacrificio è massimo.
+La nostra mente è tanto grossolana che possiamo sempre errare nell'intendere le cose divine, o immaginandole in modo materiale a stregua delle cose terrene, o interpretandole secondo le nostre vedute personali, o cogliendo solo qualche aspetto e trascurandone altri essenziali e via di seguito. Proprio così, purtroppo, sono sorte nella Chiesa tante eresie. Il dono dell'intelletto, partecipandoci la luce stessa dello Spirito Santo, purifica la nostra mente da questi errori, la libera dagli inganni della fantasia, come pure da tutte le altre false interpretazioni. Mediante questa purezza della mente il dono dell'intelletto assicura l'integrità della nostra fede, ci fa penetrare la realtà oggettiva dei misteri divini, ci dà il vero senso della legge del Signore, dei comandamenti e dei consigli. D'altra parte, questo dono, facendoci penetrare le cose divine mediante la luce infusa dallo Spirito Santo, ci fa ben comprendere che Dio non può essere rinchiuso nelle nostre rozze immaginazioni e neppure nelle nostre corte idee, ma è infinitamente al di sopra di tutto quello che possiamo pensare ed immaginare di lui. «Poiché Dio è inaccessibile — dice S. Giovanni della Croce — cerca di non arrestarti a quello che le tue potenze possono comprendere e il tuo senso percepirà, affinché tu non ti ritenga soddisfatto con meno e la tua anima non perda la leggerezza necessaria per salire a Dio» *(AM.* 52).
 
-Ogni anima contemplativa deve « essere degno altare
-dove. possa risiedere la Divina Maestà » (G.C.S.I, 5,7),
-altare da cui s'inalza la preghiera e su cui s'immola il
-crificio, L'apostolato di Gesù è culminato e si è compiuto nell'annientamento della morte di croce e per mez-
-zo di essa; solo dopo essere stato maciullato dai flagelli
-trafitto dai chiodi, abbandonato da Dio e dagli uomini il
-Salvatore ha potuto dire; « Consummatum est», tutto è
-finito (Gv. 19,30). Così sarà di noi; soltanto quando ci
-saremo davvero sacrificati per le anime, soltanto quando
-avremo accettato con Gesù di immolarci totalmente per
-la loro salvezza, potremo con lui ripetere: tutto è compiuto. La nostra partecipazione all'apostolato di Gesù tro-
-va il suo compimento nel sacrificio di noi stessi: sacrificio non fantastico e ipotetico, ma reale e concreto, di cui
-Dio stesso ci indica la forma e la misura attraverso le
-circostanze della vita, le permissioni della sua divina Provvidenza, le disposizioni dei superiori, i doveri del nostro
-stato. Quando un'anima è disposta, per la salvezza dei fratelli, a vivere nel continuo sacrificio della propria volon-
-tà, nel continuo rinnegamento di sè; quando è disposta a
-lasciarsi crocifiggere in qualsiasi modo dalla santa volontà
-di Dio pur di conquistare al Suo amore altre anime, allora raggiunge il vertice dell'apostolato e quindi della fe-
-condità apostolica,
+Se vogliamo assecondare il movimento del dono dell'intelletto, dobbiamo essere distaccati dalle nostre idee, dobbiamo essere disposti a rinunciarvi anche se ci sono molto care; non dobbiamo essere troppo sicuri del nostro modo d'intendere le cose di Dio, ma dobbiamo cercare il controllo della Chiesa; dobbiamo, soprattutto, chiedere umilmente il dono dell'intelletto perché ci liberi dagli errori e ci dia la retta intelligenza delle cose divine.
 
+Trovando in noi uno spirito puro, lo Spirito Santo c'illuminerà sempre più: a maggior luce corrisponderà maggior purezza e viceversa, e così, di chiarezza in chiarezza, giungeremo ad una più profonda penetrazione dei misteri divini, che ci farà pregustare qualche cosa della visione beatifica.
 
-2 — Molti non si salvano perchè non c'è chi prega
-e si sacrifica per essi. Senza le lacrime e le sofferenze di
-Monica molto probabilmente la Chiesa non avrebbe avuto
-S. Agostino. Benedette, dunque, quelle anime che dell'immolazione apostolica fanno la ragion d'essere e il fine del-
-la loro vita. « Mie sorelle in Cristo — scrive S. Teresa
-di Gesù alle sue figlie — unitevi con me nel domandare
-a Dio pia grazia [la salvezza delle anime). Per questo
-Egli vi
-ste le vostre incombenze e le brame vostre, questo il soggetto delle vostre lacrime e delle vostre preghiere... Il
-giorno in cui le vostre orazioni, le discipline, i desideri e
-i digiuni vostri non fossero impiegati per ciò, non ragpiungerene — sappiatelo — il fine per cui il Signore vi
-
-a qui raccolte » (Ca. 1,5; 3,10), i contemplativi e le
-contemplative, non avendo mansioni di apostolato esterno,
-sono massimamente tenuti a concentrare tutte le loro forze nella preghiera e nel sacrificio, chè solo così corrispon-
-deranno alle grandi speranze che la Chiesa ripone in essi
-e realizzeranno la loro vocazione. Mediante le penitenze
-che provengono dal vivere in comune e dall'osservanza di
-una vita austera, umile, sottomessa in tutto all'obbedienza
-e priva di ogni soddisfazione umana, essi sono chiamati
-in modo speciale a compiere generosamente nella loro carne ciò che manca alla Passione di Cristo, in favore del
-suo Corpo mistico che è la Chiesa (cfr. Cost. Ap. Sponsa
-Christi).
-
-«Sono venuta al Carmelo per salvare le anime », aveva dichiarato S. Teresa del B. G. e, dopo aver consumato
-ed offerto a tale scopo tutte le sue energie, durante gli
-strazi dell'ultima malattia offriva per i peccatori anche
-quelle preghiere che si facevano per otternerle un po' di
-sollievo.
-
-Ma se i contemplativi devono essere gli «specializzati» dell'apostolato del sacrificio, questo non può e non
-deve mancare, benchè in forma diversa, nella vita di ogni
-apostolo, Come Gesù ha comprato le anime nostre a prezzo del suo Sangue, così chiunque vuol collaborare con lui
-alla salvezza dell'umanità, deve essere disposto ad unire al
-Sangue prezioso di Cristo qualche goccia del proprio.
-Le anime costano care e l' apostolo deve pagare del suo
-quelle che vuol conquistare. L'apostolato è vero e fecon-
-"n a misura che è intriso di sofferenza, che è frutto di
-immolazione.
+«Beati i puri di cuore perché vedranno Dio»!
 
 ### Colloquio
 
-«Signore, il mio cuore esulta pensando che ti sei degnato di scegliermi per associarmi alla grande opera della
-Redenzione e per soffrire in me quasi un prolungamento
-della tua Passione. Mi hai preso e vuoi che io sia per te
-quasi un'umanità aggiunta in cui Tu possa soffrire per la
-gloria del Padre, per i bisogni della tua Chiesa.
+«O Signore, dammi sentimenti retti riguardo a te e fa' che io ti cerchi con semplicità di cuore. Il mio cuore dice a te: "Io cercherò la tua faccia". La tua presenza io cerco, o Signore, quando col mio cuore ti cerco. Tu risiedi dove abiti, e dove abiti, se non nel tuo tempio? Tempio tuo è il nostro cuore: insegnami in qual modo io ti debba accogliere. Tu sei in spirito e in verità bisogna che io ti adori.
 
-«Come sarei felice, Maestro adorato, se mi chiedessi
-anche di versare il sangue per te. Ma ciò che bramo so-
+«Entra nel mio cuore e crollino tutti gli idoli».
 
-rattutto è il martirio d'amore che ha consumato i santi.
-poichè Tu hai detto che la più grande prova d'amore
-lar la vita per chi si ama, io ti do la mia, perchè Tu
-ne faccia ciò che vuoi; se non sono martire di sangue,
-voglio essere martire d'amore. /
+«Ascolterò ora la tua voce e imparerò a desiderarti; imparerò a prepararmi per poterti vedere. Beati tutti quelli che ti vedono! E se ti vedono, questo non è già perché siano stati sueti o piangenti o famelici e sitibondi della giustizia o misericordiosi, ma perché furono puri di cuore. Buona è l'umiltà per avere il regno dei cieli, buona la mansuetudine per possedere la terra, buono il pianto per essere consolati, buona la fame e la sete della giustizia per essere saziati, buona la misericordia per ottenere misericordia: ma è la purezza del cuore che fa vedere te.
 
-«Quanto mi rallegro pensando che, fin dall'eternità,
-noi siamo stati conosciuti dal Padre c che Egli vuol ritrovare in noi la tua immagine, o Cristo crocifisso! Co-
-m'è dunque necessario il dolore, perchè l'opera tua si
-compia in me! 'Tu brami arricchirmi delle tue grazie, mi
-sono io che limito il tuo dono, che ne determino Ja misura in proporzione alla generosità con cui mi lascio im-
-molare da te.
+«Io ti voglio vedere: è grande la cosa che voglio, ma sei Tu che mi dici di volerla. Aiutami a purificare il mio cuore, perché puro è ciò che io ti voglio vedere e impuro è il mezzo con cui lo voglio vedere. Vieni a me, o Signore, e purificami con la tua grazia: purifica il mio cuore con i tuoi aiuti e i tuoi conforti. Se io riceverò te nel mio cuore durante questa vita, Tu da tua parte presente ammetterrai me al tuo cospetto» *(S. Agostino)*.
 
-«O Signore, Tu chiamavi l'ora della tua Passione *la
-tua ora*, quella per la quale eri venuto, quella che tutti
-i tuoi desideri oa Quando una grande sofferenza, o anche un sacrificio piccolissimo mi si presenta, vo-
-glio pensare subito che quella è 'l'ora wa”, l'ora in cui
-posso dar prova del mio amore a te che tanto mi hai
-amato » (E.T. Lt.).
+«Vieni, o Spirito Santo, e parla sempre al mio cuore; o almeno, se ti piace tacere, il tuo stesso silenzio mi parli, perché senza di te sono sempre in pericolo di seguire i miei errori e di confonderli con i tuoi insegnamenti» *(cfr. S. Bernardo)*.

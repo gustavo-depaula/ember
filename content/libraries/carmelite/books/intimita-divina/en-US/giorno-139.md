@@ -1,115 +1,111 @@
-## 139 — ST. JOSEPH, PATRON OF THE CHURCH
-*March*
+## 99 — VENIAL SIN
 
 ### Presence of God
 
-— O glorious St. Joseph, grant that under your patronage my interior life may grow and develop.
-
 ### Meditation
 
-1 — Today the Church presents to us St. Joseph, the great
-patriarch to whose care God willed to entrust the choicest
-portion of His flock: Mary Most Holy and Jesus. Precisely
-because he was chosen by God as guardian of the family
-of Nazareth, first nucleus of the great Christian family,
-the Church wished to recognize in him the guardian,
-the patron of all Christianity. This is the meaning
-of today's feast, which thus invites us to fix our gaze on the mission of the great Saint in relation to Jesus and
-to His Church.
+1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
+opposite to it, with the consequence of diminishing its
+impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
+God.
 
-Once he knew the mystery of the Incarnation, Joseph's whole life
-gravitated around that of the Incarnate Word:
-for Him his anxieties, his sufferings, his labors, his
-work; for Him all his cares, his energies, his
-resources, his time. He reserved nothing for himself; rather,
-wholly forgetful of any personal demand, desire, or view,
-he gave himself entirely to the interests and work of
-Jesus. For Joseph there exist only Jesus and Mary, and he
-feels that his life has no other reason for being than
-their service, their custody. Thus he fully participated,
-as humble and hidden cooperator, in the work of Redemption and, though he did not accompany Jesus in His apostolic
-life and to His death on the cross - as instead
-Mary did - he nevertheless worked toward the same ends as
-the Savior.
-
-Having been the faithful guardian of the Holy Family,
-it is impossible that from heaven St. Joseph should not continue
-to be guardian of the great Christian family,
-the whole Church, which, secure in his protection and relying on it, thus prays: "Sustained by the patronage
-of the Spouse of your most holy Mother, we implore, O Lord,
-your clemency...; by his merits and
-intercession lead us to eternal glory" (MR).
+This kind of venial sins, when committed habitually,
+diminish the soul's tendency toward God and instead increase the tendency toward selfish
 
 
-2 — Joseph's call to be guardian of the family of Nazareth was also a call to divine intimacy. We must not forget that St. Joseph stands
-at the dividing point between the Old and New Testaments;
-the first part of his life belongs to the old, and the
-second to the new. Before Jesus' coming, he,
-like all the patriarchs of the old covenant, certainly followed the orientation of his times, so that his
-relations with God were informed chiefly by
-a sense of sacred reverential fear. But from the moment
-the Angel revealed to him the mystery of the Incarnation and
-he came to know that Mary, his Spouse, was the Mother
-of the Redeemer, everything changed in his life. God,
-always honored by him as the Most High, the Inaccessible,
-the Thrice-Holy, drew near to him,
-so near as to become incarnate in the womb of his Spouse and even to choose him as His putative father. As soon as
-born, He is placed in his arms, entrusted to his care,
-and then will grow under his gaze, feed at his table,
-sleep under his roof. What a life of intimacy! And it is
-not only intimacy of external relations, but also of interior,
-spiritual relations, because Joseph knows by faith that Jesus is his
-God. Thus, together with Mary, the great Saint was the first
-to enter that life of love and intimacy with God,
-whose gates Jesus opened to us. Let us therefore see Joseph
-fulfilling his mission not only with total external dedication,
-but also with a heart full of Jesus,
-in which a splendid life of divine intimacy blossoms. While he gives himself to the works required by his office
-as putative father, in the secret of his soul he lives in continual
-relations of love with his God, the Incarnate Word.
+satisfaction, toward creatures. And thus, little by little,
 
-In the Church each one of us has his mission to
-fulfill for the good of souls and for God's glory,
-a mission requiring works and often toilsome works,
-sacrifices, and intense action. Like St. Joseph, we must give ourselves
-with generosity, with totality, without sparing,
-without reserve; but at the same time, we too must give ourselves
-to God's works with a heart full of God,
-with a heart that lives in intimacy with Him, nourishing this
-intimacy through assiduous exercise of prayer. May Joseph teach us his sweet secret of life both active and contemplative, so that, like him, we may know how to give ourselves
-to action without neglecting our life of intimate union
-with God.
+
+the soul loses fervor, loses sensitivity to offense against
+God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
+an indifference that puts it in danger of offending God
+even in grave matter. It is in this sense that venial sin
+can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
+undermines the organism. It is not rare to find
+souls who, having at first given themselves to God with sincere
+fervor, over time, yielding to selfishness, laziness,
+their own comfort, and not knowing how to impose generous efforts
+upon themselves to proceed on the path undertaken, let themselves
+go to continual negligences, listlessness, voluntary omissions,
+acts of laziness. Their spiritual life is reduced
+to a kind of lethargy that is not yet death, but
+has no longer anything of the freshness and vigor of a
+healthy and robust life. The fervor of charity is lacking,
+extinguished by continual, deliberate compliances with venial sin.
+St. Teresa of Jesus, warning against such a state,
+teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
+the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
+however small... And what can ever be small in
+offending a Majesty so great?" (P. 2,
+5 and 20; Way 41, 3).
+
+
+2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
+wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
+by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
+of the Lord, rises again, and sets out once more. Such
+
+
+sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
+Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
+which will lead it to distrust its own strength totally,
+
+
+to place in God alone all its trust. It will experience
+in practice the great reality of Jesus' words: "Without
+Me you can do nothing" (Jn. 15, 5). Not infrequently the
+Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
+seriously in humility, which is the basis of all spiritual life.
+
+St. Therese of the Child Jesus, speaking of such faults,
+believed she could assert that they "do not displease
+the Lord," precisely because they do not depend on bad
+will, which with open eyes and a cool mind
+commits sin, but rather on the weakness of human
+nature.
+
+If because of our weakness it is impossible not to fall
+every day into some venial faults of surprise or fragility,
+what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
+must be firmly resolved never to commit one for all
+the gold in the world.
 
 ### Colloquy
 
-"Saint Joseph, happy are you, to whom it was given not only to see and hear that God whom many kings desired
-to see and did not see, to hear and did not hear,
-but also to carry Him in your arms, to kiss Him, to clothe Him, and
-to guard Him!... O St. Joseph, others only after death,
-but you while still living, like the blessed, enjoy God and
-live beside Him. You press the Child Jesus to your heart,
-you follow Him as a fugitive in Egypt, you lodge Him under your
-roof" (cf. BR).
+"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
+has kept me Your spouse, although through my defects
+I have always been unfaithful to You. Peccavi, Domine, miserere mei.
+O my soul, and what are you doing? Do you not know that
+you are continually seen by God? Know that from His
+eye you can never hide, because nothing is hidden from Him... O eternal God,
+O compassionate and merciful Father, have pity and mercy
+on us, because we are blind and without any
 
-"Oh, how many sweet kisses you received from Him! With what
-sweetness you heard yourself called by the little Child just beginning to babble, and with what gentleness you felt yourself lovingly embraced. With what love, on journeys, you made Him rest
-on your knees while He, still a child, was
-weary from fatigue! A love without reserve drew you
-toward Him, as toward a most sweet Son whom the
-Holy Spirit had given you through the Virgin your
-spouse" (St. Bernardine of Siena).
 
-"O glorious Saint, it is truly marvelous
-to recall the great favors the Lord has granted me and the
-dangers, both of soul and body, from which, by your intercession, He has freed me. It seems that to other Saints God
-has granted power to help us in this or that need,
-whereas you extend your patronage over everything... To
-you persons of
-prayer ought to be especially devoted;... and whoever has no master from whom to learn how
-to pray, let him take you as guide and he will not go astray"
-(T.G. Vi. 6, 6 and 8).
+light, especially I, poor and miserable... O You,
+true sun, enter my soul and illumine it with Yourself.
+Drive out its darkness and give light; destroy the frost of self-
+love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
 
-O Joseph, grant that under your patronage the life of the whole Church and the interior life of every Christian may grow
-and prosper. Under your protection I place my spiritual
-life; you who lived so close to Jesus, introduce me into His intimacy and grant that, like you, I may serve Him
-with a heart full of love.
+"May it please You, O Lord, that I fear only
+offending You, convinced that greater harm can come to me
+from one deliberate venial sin than from all
+hell" (T.G. Life 25, 20). In fact, the true evil, the only
+one I must fear, is neither temptation nor trials,
+nor interior and exterior contradictions, nor loss of material
+goods or bodily health; but true evil is what
+can in any way hinder my union with You, my
+supreme Good! And this evil, I understand, can be
+caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
+free me from so great an evil, take from me the sad ability to
+offend You, and if by my native weakness it is impossible
+for me to be exempt from every fault, grant that these may
+never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+
+"Yes, because of my misery I fall very often, often I
+allow myself to be distracted from my one occupation, I move away
+from You, I wet my poor little wings, scarcely formed,
+in the miserable puddles of water I find on this earth! Then
+I groan like the swallow, and my cry tells You all,
+and You, infinite Mercy, remember that You did not come
+to call the just, but sinners" (T.B.G. St. 11).

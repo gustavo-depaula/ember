@@ -1,114 +1,21 @@
-## 295 — IL DONO DELLA FORTEZZA
+## III — LA GENEROSITÀ
 
-### Presenza di Dio
-
-O SSpirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.
+**Presenza di Dio.** — Dilata, o Signore, il mio cuore nella generosità, affinché sappia darmi totalmente al tuo servizio.
 
 ### Meditazione
 
-1. — Accanto al dono del timore, sotto il cui influsso
+**1** — La generosità è una virtù affine alla magnanimità, ma ha un campo più largo nel senso che abbraccia non solo cose grandi, ma qualsiasi cosa concernente il servizio di Dio, spingendo l'anima a compierle tutte con la massima dedizione. La generosità è la virtù che c'insegna a non risparmiarci, a non calcolare, a non dire mai basta, a darci totalmente, a operare col massimo amore sia nelle cose grandi che nelle piccole e perfino nelle minime. Solo l'anima che si è svincolata dagli impacci dell'egoismo può essere pienamente generosa, ossia capace di darsi totalmente al servizio dell'ideale, al compimento della sua missione, senza ritorni su se stessa, senza lasciarsi fermare da preoccupazioni personali. Se fossimo veramente compresi che la nostra vocazione viene da Dio e che Dio ha preparato sul nostro cammino tutte le grazie necessarie per corrispondervi nel modo più perfetto, non ci lasceremmo scoraggiare dai sacrifici che essa c'impone. Egoismo, preoccupazione di sé e scoraggiamento sono tutti nemici della generosità, sono «terra e piombo» che appesantiscono e rendono più che mai faticosa la nostra vita spirituale, impedendoci il volo verso le altezze. Perché ridurci a camminare «a passo di gallina» *(T.G. Vi.* 13,5) quando Dio ci ha reso capaci di volare come le aquile? S. Teresa di Gesù ride un po' maliziosamente di quelle anime che hanno paura di fare troppo per Iddio e, sotto pretesto di prudenza, misurano col centimetro i loro atti di virtù: «Non abbiate paura che s'ammazzino! In questo i loro occhi sono molto aperti, né l'amore in esse è così forte da farle andare in delirio. Ma io vorrei che non ci contentassimo di servire Dio in questo modo, sempre così lento da non arrivare mai alla meta. Se per fare un viaggio sono sufficienti otto giorni, vi par forse ben fatto volerci impiegare un anno intero?» *(M.* III, 2,7). La scorciatoia per arrivare presto alla meta è la generosità, generosità ch'è frutto dell'amore e nello stesso tempo è generatrice di amore.
 
+**2** — Per diventare generosi, bisogna anzitutto imparare a dimenticarsi: dimenticare il proprio interesse, il proprio comodo, i propri diritti, non tener conto di quanto si è già faticato e sofferto, ma pensare invece ad una cosa sola: darsi totalmente a Dio ed alle anime. «Per Iddio il suo beneplacito. Per il prossimo per suo vantaggio a scapito del mio. Per me il più penoso per piacere a Dio» (B. M. Teresa de Soubiran): ecco il programma dell'anima generosa. Della sua vita, delle sue forze e capacità vuol servirsi soltanto per donarsi incessantemente al Signore, perché sa che proprio nel dono totale di sé consiste il massimo amore. «Amare è dare tutto e dare anche se stessi» *(T.B.G. Poesie).*
 
-l’anima si mette interamente nelle mani di Dio con l’unico
-desiderio di non separarsi giammai da lui, vi è il dono della fortezza che ha il compito di irrobustirla per renderla
-sempre più coraggiosa nel servizio divino.
-
-misura che avanza nella vita spirituale, l’anima, più
-che procedere con le sue iniziative, deve seguire quelle
-di Dio, deve lasciarsi guidare dallo SSpirito Santo, eppure
-anche qui occorre la sua attività, la quale deve consistere nell'adesione docile e pronta alle mozioni divine. Ebbene, il
-dono della fortezza le darà la forza di dire sempre il suo sì
-alle ispirazioni ed agli inviti del divino Paraclito, di accettare e di volere tutto quello che Egli fa per lei ed in
-lei. Questo dono viene così ad aiutare ed a perfezionare la
-virtù della fortezza che, malgrado la nostra buona volontà;
-è sempre debole e troppe volte ancora vien meno, soprattutto di fronte alle esigenze di una vita spirituale più perfetta.
-Se occorre coraggio per essere fedeli, anche a costoi di gra
-
-
-vi sacrifici, alla legge di Dio e ai doveri del proprio stato
-e per sopportare pazientemente tutte le difficoltà della vita,
-ce ne vuole forse ancora di più per assecondare l’azione del
-Signore nell'anima nostra, per non spaventarci di fronte
-alle prove attraverso le quali ci fa passare, seguire con
-fedeltà gli impulsi dello SSpirito Santo, Maestro dolce e
-soave, ma nello stesso tempo esigente perchè non può condurci alla santità senza chiederci tutto. Ed è proprio in
-questo campo che, in modo particolare, sperimentiamo la
-nostra Sa intuiamo ciò che Dio vuole da noi, forse
-lo vediamo anche molto chiaro e tuttavia non siamo capaci,
-non abbiamo la forza di farlo. E' il grande tormento dell'anima di buona volontà, ma non ancora matura; è la
-condizione della debolezza umana che la grazia attuale e
-la virtù infusa della fortezza possono migliorare di molto,
-ma che, agendo esse attraverso le nostre facoltà limitate, non possono sanare sino in fondo. Occorre l'intervento
-diretto di Dio stesso e Dio interviene mettendo in atto il
-dono della fortezza.
-
-
-— La virtù della fortezza e il dono della fortezza hanno l’identico oggetto: renderci forti nella vita spirituale,
-ma differiscono nel modo di agire. La virtù agisce in noi
-mediante i nostri sforzi, sostenuti bensì dalla grazia, ma
-che tuttavia sono sempre sforzi umani, perciò, pur essendo
-soprannaturale, deve necessariamente adattarsi al nostro
-modo umano di agire e quindi risente sempre della nostra
-limitatezza. Il dono invece — come tutti i doni dello Spirito
-Santo — è soprannaturale non solo in sè, ma anche nel
-suo modo di agire; infatti, anzichè essere messo in atto da
-noi — come accade per la virtù — viene messo in atto da
-Dio stesso. Mediante la virtù siamo noi che con la nostra
-buona volontà, sorretta dalla grazia, cerchiamo di acquistare la fortezza, di renderci forti; mediante il dono, invece,
-è lo SSpirito Santo che ci fortifica interiormente comunicandoci qualche cosa della sua onnipotenza, della sua fortezza
-
-
-infinita. Tra la fortezza acquistata con i nostri sforzi e quella
-infusa in noi dallo SSpirito Santo vi è una differenza simile
-a quella che corre tra l’opera di uno scolaretto inesperto
-e quella di un abile artista o, meglio, vi è la differenza che
-passa tra la capacità e la potenza dell’uomo e la capacità e la
-potenza di Dio. «Voi — disse Gesù agli Apostoli — riceverete forza di SSpirito Santo, quando verrà su di voi; e mi sa-
-rete testimoni in Gerusalemme» (At. 1, 8); infatti quei poveri uomini pieni di paura, che non avevano avuto il corae-
-gio accompagnare Gesù al Calvario, dopo la discesa dello
-
-Spirito Santo, divennero forti come leoni, capaci di affrontare qualsiasi pericolo e perfino la morte. ciò ci dice
-quanto è necessario il dono della fortezza; senza di esso noi
-saremmo sempre vacillanti, sempre incerti, sempre incostanti. Ma lo SSpirito Santo vuole che ci disponiamo a ricevere
-questo dono mediante l'esercizio della virtù: i nostri sforzi,
-ripetuti con umiltà e con costanza, sono di per sè una tacita
-invocazione del dono della fortezza; mediante lo sforzo tendiamo le vele dell'anima nostra al soffio dello SSpirito Santo:
-spetta a lui scegliere il momento in cui spirare, ma non spirerà in noi, se non ci troverà disposti ad accogliere il suo im-
-pulso, ossia se non ci troverà applicati ad esercitare la virtù.
+Per diventare generosi bisogna imparare a fare con tutto il cuore non solo quel che è del dovere, ma anche quello che, pur non essendo obbligatorio, è di maggior gloria di Dio. S. Teresa di Gesù ci dà in proposito una regola aurea: porre come «prima pietra» del proprio edificio spirituale la decisione di «seguire il più perfetto» *(Cam.* 5,3). La proposta può sembrare troppo ardita, eppure la Santa non parla a caso; anche se in principio l'anima non riuscirà a discernere, né a fare sempre il più perfetto, pure questa risoluzione — se è sincera, accompagnata da umiltà e da fiducia nel soccorso della grazia — le sarà di grande incitamento a voler fare sempre meglio, sempre di più, impedendole di accomodarsi in una tranquilla mediocrità. È molto importante che l'anima desiderosa di intimità divina coltivi in sé questa disposizione; in tal modo giungerà a poco a poco alla volta al dono totale di sé, dono che Dio attende per darsi del tutto a lei. «Dio non si dà del tutto se non a coloro che si danno del tutto a lui» *(T.G. Cam.* 28,12). Fin da quaggiù Dio vuol donarsi alle anime nostre, ma la misura del suo dono sarà proporzionata a quella del nostro, sarà relativa alla nostra generosità nel darci a lui.
 
 ### Colloquio
 
-«O Dio eterno, Tu sei fortezza e dai fortezza all'anima sì
-che questa diventa tanto forte che nè demonio, nè creatura
-le può togliere la sua fortezza, se lei non vuole. E mai non
-vuole quando si riveste della tua volontà, perchè solo la volontà sua è quella che la fa indebolire. O Dio eterno, amore
-inestimabile, tutta è impastata con te la tua creatura, e Tu
-con lei per la creazione, per la fortezza della volontà, per
-l'amore con il quale la creasti!» (S. Caterina da Siena).
+«O Signore, quanto poco facciamo per te! A meno che non si vogliano stimare per effetti di grande virtù e mortificazione certi piccoli atti, simili a granellini di sale, senza peso e volume, che un uccellino può portar via nel becco. È una miseria dar peso a certi sacrifici che si fanno per te, anche se numerosi! Eppure, io faccio sempre così dimenticando ad ogni istante il molto che ricevo da te. È vero, nella tua grande misericordia Tu stimi molto anche questi piccoli atti di virtù; io però non vorrei tenerli in alcun conto e neppure accorgermi di farli, perché son cose da nulla.
 
-«Veni, Spiritus fortitudinis, robora me! Vieni, Spirito di
-fortezza e rendimi forte! Concedimi il dono della fortezza
-per affrontare con coraggio, per sopportare con pazienza le
-cose difficili e gravi, superando tutti gli ostacoli. Ho grande
+«Perdonami, o mio Dio, e non voler farmene una colpa. Giacché non ti servo in niente, bisogna bene che mi consoli con qualche piccolo servizio, certa che se ti servissi in cose più grandi, non farei conto di questi nonnulla. Felice chi ti serve con grandi opere! Se il desiderio e l'invidia che ne ho valessero a qualche cosa, non sarei certo fra le ultime nel contentarti! Ma non son buona a nulla, o Signore! Dammi un po' di forza Tu, che tanto mi ami!
 
+«Dio mio, fa' che non sappia più contentarmi di servirti nel poco, ma che sacrifichi in tuo servizio tutte le forze di cui dispongo! Aiutami a farti un dono assoluto dell'anima mia, sgombrandola da ogni cosa, affinché Tu possa aggiungere o togliere come vuoi, come in una tua proprietà. Del resto ne hai tutto il diritto ed io voglio guardarmi bene dal contestartelo. Tu non sforzi nessuno ed accetti quanto ti si dà, ma non ti dai del tutto se non a coloro che si danno del tutto a te. Tu ami molto l'ordine e non operi nell'anima se non allora che la vedi sgombra e tutta tual» *(T.G. Vi.* 39,13; 20,23; *Cam.* 28,12).
 
-bisogno di questo tuo dono perchè sono piccola, debole e mi
-stanco presto come i bambini. ‘Ma Tu non ti stanchi nè ti
-affatichi ed è imperscrutabile la tua sapienza. Dai forza a chi
-è stanco ed a quelli che vengono meno accresci robustezza
-e vigore. I fanciulli vengono meno e si affaticano, i giovani
-cadono per debolezza. Ma quelli che confidano in te acqui
-steranno nuova forza, prenderanno ali come di aquila, correranno senza fatica, cammineranno senza stancarsi’ (cfr. Is.
-40, 28-31).
-
-<O SSpirito Santo, sostienimi e allora diventerò forte della
-tua fortezza. Se Tu sarai la mia forza e la mia salvezza, che
-cosa temerò? Io non posso sostenermi con la mia fortezza, ma
-tutto posso in te che mi dai forza! Se Tu mi soccorri, nonostante la mia debolezza supererò le tentazioni, non mi arre-
-sterò davanti agli ostacoli, compirò opere grandi e, rinvigorita dalla tua fortezza, sopporterò con pazienza e con gioia
-la sofferenza.
-
-«O SSpirito Santo, invoco con tutto il cuore questo tuo
-dono; fa' che esso mi renda generosa, intrepida, amante del
-sacrificio, virile, desiderosa e risoluta nel tendere alla perfezione con vero spirito di totalità» (Sr. Carmela d. Spi
-rito S. c. s.).
+«O amatissimo Verbo di Dio, insegnami ad essere generoso, a servirti come meriti, a donare senza contare, a combattere senza preoccuparmi delle ferite, a lavorare senza cercare il riposo, a spogliarmi di me stesso senza attendere altra ricompensa che di sapere che sto facendo la tua santa volontà» (S. Ignazio).

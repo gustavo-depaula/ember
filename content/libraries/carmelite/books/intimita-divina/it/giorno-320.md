@@ -1,99 +1,27 @@
-## 320 — L'APOSTOLATO DELL'ESEMPIO
+## XXVIII — IL DONO DELLA SAPIENZA
 
-### Presenza di Dio
-
-O Signore, fa' che la mia condotta sia tale da procurarti gloria ed attirare molte anime al tuo amore.
+**Presenza di Dio.** — *Vieni, Spirito di Sapienza, attirami!*
 
 ### Meditazione
 
-1.— Accanto alla preghiera e al sacrificio, altra po
-tente arma di apostolato accessibile a tutti è quella di una
-vita buona, di una vita santa. Non tutti possono predicare, non tutti hanno il dovere di ammonire o di esortare,
-non tutti possono attendere ad opere apostoliche, ma non
-vi è nessuno che non possa cooperare al bene spirituale
-del prossimo con l'esempio di una vita integralmente cristiana, coerente ai principi professati e fedele ai propri
-doveri, « Ognuno può giovare al prossimo se adempie il
-suo dovere », afferma il Crisostomo e aggiunge: « Nessuno sarebbe più pagano se i cristiani fossero cristiani dav-
-vero, se davvero osservassero i precetti. La vita buona è
-una voce più acuta e più forte di una tromba ». La vita
-buona s'impone da sè, ha un'autorità ed esercita un fascino assai Superiore a quello delle parole.
+**1** — Il dono dell'intelletto ci fa penetrare le cose di Dio, il dono della sapienza ci porta più avanti ancora, ce le fa gustare, ce ne dà una conoscenza sapida. È la «saporosa cognizione» di cui parla S. Bernardo, è l'intraducibile «dulce sapere» invocato da S. Tommaso *(Adoro te devote)*; è il prezioso dono che lo Spirito Santo ci offre dicendoci: «Gustate et videte quam bonus sit Dominus», gustate e vedete come è buono il Signore *(Sal.* 33, 9). Non a caso è detto prima «gustate» e poi «vedrete», perché il dono della sapienza ci fa conoscere Dio proprio attraverso l'esperienza del cuore che «gusta» l'oggetto amato.
 
-Per un'anima che cerca la verità, che cerca la virtù,
-non è difficile trovare libri o maestri che ne parlino anche in forma attraente, ma è ben più difficile trovare per-
-sone la cui vita ne sia una testimonianza pratica. La mentalità moderna, assetata di esperienza, ha particolare biso-
-gno di questi esemplari, capaci di offrire non solo belle
-teorie di vita spirituale, ma, soprattutto, incarnazioni concrete della virtù, dell'ideale di santità e di unione con Dio.
-Molto più che dal pensiero puro, le anime sono attratte
-dal pensiero vissuto, dagli ideali tradotti nella realtà della
-vita. Del resto, è questa la grande linea che Dio stesso
-ha seguito per manifestarsi agli uomini: il Verbo eterno
-si è incarnato e, attraverso la realtà così concreta c così
-umana della sua vita terrena, ci ha mostrato l'immenso amore di Dio per noi e le sue infinite perfezioni. Gesù,
-che possedeva le perfezioni divine, ha potuto dirci: « Siate perfetti com'è perfetto il Padre vostro, che è nei cie-
-li» (Mt. 5,48) e iicendici così non solo ci mostrava l'ideale supremo della santità, ma ce ne offriva in se stesso
-il modello. L'apostolo deve battere la via battuta da Gesù
-incarnando nella sua vita quell'ideale di santità che vuol
-proporre agli altri; solo così si potrà affermare di lui, come del Signore: « coepît facere et docere » (At.1, 1), co-
-minciò prima a fare e poi ad insegnare. E solo così l'apostolo potrà ripetere, molto più con la sua condotta che
-con le parole, l'ardita frase paolina: «Siate miei imitatori,
-come io lo sono di Cristo » (I Cor.4, 16).
+Vi sono due modi di conoscere: un modo speculativo, intellettuale e un modo sperimentale che deriva da una specie di «connaturalità» con l'oggetto da conoscersi; quest'ultimo è meno distinto, ma molto più profondo del primo e coglie l'intima sostanza delle cose. Così, ad esempio, attraverso quell'affinità di sentimenti e di affetti che la lega al figlio, una mamma conosce il cuore di lui molto meglio di qualsiasi altra persona. Simile a questa è la conoscenza delle cose divine che acquisiamo mediante il dono della sapienza. Fra noi e Dio vi è una certa «connaturalità», una certa somiglianza prodotta dall'amore che ci unisce a lui e, in qualche modo, ci assimila a lui; anzi S. Paolo non esita a dire che «chi si unisce al Signore forma un unico spirito con lui» *(I Cor.* 6, 17). Il dono della sapienza ci fa conoscere Dio e le cose divine proprio attraverso questa «connaturalità» e perciò ce ne dà un'esperienza calda e gustosa per l'amore da cui deriva. Tale esperienza afferra l'anima nel suo centro, ossia nella volontà, traendola fortemente in Dio e nello stesso tempo ridonda come luce nell'intelletto. Il dono della sapienza agisce un po' come il raggio di sole che riscalda ed illumina ad un tempo. Riscalda, ravviva la carità dell'anima e, attraverso questa infiammazione d'amore, l'illumina sulle realtà divine e la rende capace di giudicarle, intravedendone la bontà infinita e la superiorità assoluta su tutte le cose. «O profondità della ricchezza di Dio!» *(Rom.* 11, 33) è il grido dell'anima infiammata ed illuminata dal dono della sapienza.
 
+**2** — Tutti i doni dello Spirito Santo sono strettamente connessi con la carità, giacché si trovano solo nell'anima che possiede la carità e si sviluppano a misura che essa aumenta; ma il dono della sapienza ha con l'amore di carità un rapporto tutto particolare. Anzitutto, proprio attraverso la carità esso viene ad attuarsi; «la causa del dono della sapienza — dice S. Tommaso — si trova nella volontà ed è la carità» *(IIa IIae,* q. 45, a. 2), perciò, quanto più un'anima ama Dio, tanto più è capace di accogliere la mozione di questo dono. Inoltre, la saporosa cognizione di Dio derivante dal dono della sapienza, è quanto mai potente ad accrescere la carità: come potremmo non amare di più il Signore dopo averlo gustato? A misura che il dono della sapienza investe un'anima, la carità aumenta ed aumenta anche la sua forza unitiva per cui l'anima aderisce sempre più a Dio.
 
-2 — Gesù, che ci ha insegnato a pregare, a digiunare, a fare elemosina nel segreto, affinchè solo il Padre
-celeste lo sappia e ce ne dia la ricompensa, ci ha insegnato anche ad agire in modo che le nostre opere siano, per
-coloro che le vedono, un tacito incitamento al bene: « La
-vostra luce risplenda dinanzi agli uomini in modo tale
-che, vedendo le vostre opere buone, diano gloria al Padre vostro, che è nei cicli» (Mt. 5, 16). S. Gregorio c'in-
-segna come conciliare i due insegnamenti del Signore:
-«L'opera sia pubblica — egli dice — ma l'intenzione rimanga occulta, affinchè così diamo al prossimo l'esempio
-di un'opera buona e, nello stesso tempo, con l'intenzione,
-con la quale cerchiamo di piacere a Dio solo, desideriamo
-sempre il segreto ». Vi è una grande differenza tra colui
-che fa ostentazione del bene compiendolo per attirarsi
-le lodi altrui, o forse anche per guadagnarsi una certa
-fama di santità, e colui che, agendo con retta intenzione
-unicamente per piacere a Dio, è con la sua condotta luce
-e guida per coloro che gli vivono accanto. Quando l'intenzione è retta — ossia dar gloria a Dio e procurare di
-attirare altre anime al suo servizio — non dobbiamo temere che le nostre opere buone siano vedute, anzi dobbiamo sentire la responsabilità di comportarci in modo
-che la nostra condotta sia di edificazione agli altri.
+Questo dono conduce ad un'orazione ancora più profonda di quella in cui interviene il solo dono dell'intelletto: l'anima si sente «presa» da Dio, attratta da lui in modo irresistibile, si sente veramente unita al Signore e in quest'unione lo gusta — non già in maniera sensibile, ma spirituale — e lo intuisce nel modo più intimo possibile quaggiù. Da questa orazione l'anima esce veramente infiammata d'amore, amore che essa dimostra soprattutto con la perfetta conformità della sua volontà alla volontà di Dio, in tutte le contingenze della vita; da questa orazione esce così piena di Dio che, ritornando alle sue occupazioni ordinarie, tutto vede e considera in rapporto a Dio. In tal modo il dono della sapienza estende il suo influsso anche alla vita pratica e c'insegna a giudicare tutte le cose alla luce di Dio.
 
-Ogni anima di vita interiore, pur cercando di piacere
-soltanto al Padre celeste, deve essere un'apostola dell'esempio; la sua vita di pietà sincera, di virtù soda, di unio-
-ne con Dio deve risplendere davanti agli uomini e deve
-richiamarli alla pregficci al raccoglimento, alla ricerca
-delle cose celesti. Ciò è possibile a tutti ed in ogni ambiente di vita: lo può fare il professionista in mezzo al
-mondo tra i colleghi, gli alunni o i clienti; lo può fare
-la soa e la madre nella cerchia della famiglia; può farlo il religioso e la religiosa nell'ambito della propria Co-
-munità; può farlo il sacerdote nel raggio della sua azione.
+Per essere atti alle mozioni del dono della sapienza — il più sublime dei doni — dobbiamo dolcemente disporre il nostro cuore alla pienezza dell'amore e, nello stesso tempo, dobbiamo applicarci ad acquisire una profonda umiltà poiché, come ha detto Gesù, «queste cose sono nascoste ai dotti ed ai sapienti secondo il mondo e rivelate ai piccoli» *(cfr. Mt.* 11, 25).
 
-Un'anima di vera vita interiore è di per sè un apostolo, è, come dice Gesù, «una città posta sul monte [che]
-non può rimanere nascosta », è una lucerna accesa messa
-«sul candeliere, perchè faccia lume a tutti quelli che sono in casa » (Mt. 5, 14 e 15). Quanto più la vita interiore
-è profonda, tanto più la lucerna splende, illumina le anime e le attira a Dio,
+«Acquistano la sapienza di Dio soltanto coloro che, quasi bambini ignoranti, deponendo il proprio sapere avanzano con amore nel di lui servizio» *(G.C. S.* I, 4, 5).
 
 ### Colloquio
 
-«Dio mio, nulla è più freddo di un cristiano che non
-si cura della salvezza degli altri! Per dispensarmene non
-posso addurre come pretesto la povertà. Pietro diceva:
-“Non ho argento, nè oro” Paolo era tanto povero che
-spesso soffriva la fame. Non posso addurre la mia umile
-condizione, perchè anch'essi non erano nobili e non avevano nobili genitori.
+«Scendi, o Spirito divino, e posa sul mio capo e investì il mio cuore; dissipa tutte le tenebre con la follia del mondo chiama celeste; concedimi invece il dono della sapienza celeste. Tu solo puoi insegnarmi a disprezzare ciò che il mondo ama, ciò che diletta e lusinga, Tu solo puoi insegnarmi a gustare le cose di Dio, la virtù, la pietà, l'amore che sei venuto ad accendere sulla terra perché il mondo se ne infiammi» *(Ignoto)*.
 
-«Non posso neppure scusarmi, o Signore, dicendo
-che sono ignorante, perchè anch'essi lo erano. Anche se
-io fossi uno schiavo e per giunta fuggitivo, potrei assolvere il mio compito: anche Onesimo era tale. Non posso
-obiettare che sono malato, perchè anche Timoteo era
-spesso infermo.
+«O Dio, che essenzialmente sei amore increato, amore infinito, amore senza mezzo, non solo amante, ma tutto l'amore; o Dio dal quale procedono gli amori di tutti i serafini e di tutte le creature, perché non t'amerò io? Perché non mi consumerò in questo fuoco d'amore, che abbraccia tutto l'universo?
 
-«O Signore, la tua luce mi fa comprendere che anch'io posso giovare al prossimo se adempio il mio dovere.
-E questo lo farò se osservo la tua legge e specialmente
-la legge dell'amore con la quale s'insegna la bontà a quelli che ci offendono. I mondani sono commossi più dalla
-vita buona che dai miracoli; e Tu mi dici che nulla rende buona la vita più della carità e dell'amore del prossi-
-mo. Aiutami dunque, o Signore, a condurre una vita santa, a fare opere buone, in modo che chi mi osserva possa
-dar lode al tuo nome » (cfr. S. Giovanni Crisostomo).
+«O Dio, che sei essenzialmente la stessa bontà, per quale tutto il buono è buono, dal quale deriva la bontà di tutte le creature, come dal mare vengon le altre acque, al di sopra della cui eccellente bontà non esiste cosa alcuna in terra ed in cielo che si possa dire buona, perché non t'amerò io, essendo la bontà oggetto dell'amore?
 
-«O Signore, concedimi di credere col cuore, di professare con la bocca e di mettere in pratica la tua parola,
-affinchè gli uomini, vedendo le mie opere buone, glori
-fichino te, Padre nostro che sei nei cieli, per Gesù Cristo nostro Signore, al quale spetta la gloria nei secoli dei
-secoli. Amen » (Origene).
+«O Padre santissimo! O Figlio clementissimo! O Santo Spirito amantissimo! Quando nel più intimo della mia anima e nel suo più profondo sarai Tu, o Padre, la cosa più riposta, e mi possederai appieno? Quando sarò tutto tuo, e Tu tutto mio? Quando sarai mio re? Quando verrà tale giorno? Oh, verrà certo! Credi Tu che verrà? Quale ritardo! Che penoso rinvio! Affrettati, o Gesù, affrettati, non tardare!» *(Ven. Luigi di Granata)*.

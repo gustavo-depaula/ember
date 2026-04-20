@@ -1,101 +1,21 @@
-## 212 — RIMANERE IN CRISTO
+## XII — RIAMARE L'AMORE
 
-### Presenza di Dio
-
-O Gesù, insegnami non solo a vivere con te, ma a vivere in te, a rimanere in te.
+**Presenza di Dio.** — *O Gesù, che tanto mi hai amato, rendimi capace di ricambiare il tuo amore.*
 
 ### Meditazione
 
-1. — La sera dell'ultima Cena Gesù disse: « Restate
-in me ed io resterò in voi» (Gv. 15, 4) e poco dopo istituiva
-l'Eucaristia, il sacramento che ha il fine specifico di alimentare la nostra vita di unione con lui. Venendo in noi sacramentato, Gesù non se ne parte senza lasciare nell'anima nostra «l'impronta della grazia come fa il suggello che
-pone sopra la cera calda... e, levando il suggello, vi rimane
-l'impronta di esso. Così la virtù di questo sacramento rimane nell'anima, cioè vi rimane il caldo della divina carità» (S. Caterina da Siena). Gesù ha detto: «Sono venuto
-a portare il fuoco sulla terra e che cosa desidero se non
-che si accenda?» (Lc. 12, 49); e dove maggiormente ac
-cenderà il fuoco del suo amore se non nell'anima del comunicante che ha la grande sorte di ospitarlo in sè? Ogni
-volta che ti accosti alla Mensa eucaristica Gesù, per virtù
-del sacramento, ravviva in te il fuoco del suo amore, lascia in te l'impronta della sua grazia e mediante questo
-amore e questa grazia tu rimani spiritualmente unito a lui.
-Ciò avviene anche se tu non ci pensi ed è già di per sè
-cosa assai preziosa; tuttavia Gesù desidera che tu ne sia
-consapevole per vivere in modo cosciente la tua unione
-con lui. Osserva che, quando Egli parla di unione nostra
-con lui, antepone sempre la parte nostra alla sua: «Chi
-mangia la mia carne... rimane in me ed io in lui», e restate in me ed io resterò in voi» (Gv. 6, 57; 15, 4), e questo non perchè la nostra parte sia in sè la più importante
-— chè, anzi, è sempre Gesù che ci previene con la sua
-grazia, senza la quale non sarebbe possibile alcuna unione
-con lui — ma per farci capire che in realtà vivremo uniti
-a lui in proporzione della nostra corrispondenza alla grazia. Ogni Comunione ti porta di per sè una nuova grazia
-di unione con Gesù e quindi ti offre la possibilità di un'unione più intima con lui, ma di fatto tu vivrai questa unione a misura della tua buona volontà, delle tue disposizioni
-interiori.
+**1** — Leone XIII nell'Enciclica «*Annum Sacrum*» afferma: «Il Sacro Cuore è il simbolo e l'immagine della carità infinita di Gesù Cristo, *carità che ci spinge a riamarlo*». Nulla infatti più dell'amore è capace di suscitare l'amore: «l'amore si paga con l'amore» hanno sempre detto e insegnato i Santi. S. Teresa di Gesù scrive: «Tutte le volte che pensiamo a Cristo, dobbiamo ricordarci dell'amore che ci ha manifestato nel concederci tante grazie... Amore chiama amore: nonostante la nostra meschinità e la debolezza del nostro amore, procuriamo di considerare sempre questa verità, eccitandoci all'amore» *(Vi.* 22, 14).
 
+Proprio per eccitarci all'amore la Chiesa ci propone la devozione al Sacro Cuore di Gesù; nell'Ufficio della sua festa, dopo averci ricordato le immense prove dell'amore di Cristo, questa buona madre c'interroga con viva trepidazione: «Chi non riamerà chi tanto ci ha amato? Chi fra i suoi redenti non lo predigerà?» (inno delle Lodi). E, per spingerci sempre più a rendere amore per amore, mette sulle labbra di Gesù le belle parole della Sacra Scrittura: «ti ho amato con un amore eterno e perciò ti ho attirato a me pieno di compassione» *(Ier.* III) e ancora: «*Fili, praebe mihi cor tuum*», figliuolo, dammi il tuo cuore (ant. delle Lodi). Ecco, dunque, in che cosa consiste la vera devozione al Sacro Cuore: riamare l'amore, «rendere amore per amore», come si esprime S. Margherita Maria, la grande discepola del Sacro Cuore; «riamare incessantemente Chi tanto ci ha amato», come soggiunge S. Teresa Margherita del Cuore di Gesù, la nascosta, ma non meno ardente discepola del divin Cuore.
 
-2. — Dopo esserti nutrito di Gesù nella S. Comunione,
-per «rimanere » in lui durante tutta la giornata, devi anzitutto custodire il tuo cuore in un'atmosfera di raccogli
-mento. Se, appena uscito dalla Chiesa, ti dimentichi subito di aver ricevuto il Signore e — come dice S. Teresa
-d'Avila — «t'ingolfi negli affari, nelle occupazioni e nelle
-brighe del mondo» (cfr. Cam. 34, 13), non potrai davvero mantenerti unito a Gesù, anzi, la Santa ti direbbe
-che, agendo in tal modo, sembra quasi che tu «faccia il
-possibile per indurre il Signore a sgombrarti presto la
-casa » (ivi). E' vero, ti basta lo stato di grazia per rimanere
-spiritualmente unito a Cristo, ma quanto più sarà fruttuosa per te questa unione se cercherai di viverla attualmente! Perciò, anche durante la giornata, anche in mezzo
-alle occupazioni, procura di mantenerti sotto l'influsso della
-Comunione fatta al mattino, ossia sotto l'influsso di Gesù,
-del suo amore, della sua azione incessante nell'anima tua.
-Almeno in ispirito, cerca di ritornare sovente ai piedi del
-tabernacolo, di mantenerti in contatto con l'Eucaristia. Se
-i tuoi doveri ti portano fuori di casa, ogni Chiesa che in
-contri sul tuo cammino, o che vedi passando, sia per te un
-dolce richiamo alla Comunione già fatta o a quella che
-dovrai fare l'indomani, sia l'occasione per un fugace ma
-fervido slancio del cuore verso Gesù Sacramentato, oppure
-per un rapido ritorno nell'intimo santuario dell'anima tua
-per rinnovare il contatto interiore col Signore. Procura
-di fare ogni giorno la visita al SS.mo Sacramento, ma falla
-in modo che sia un vero cuore a cuore con Gesù. Se hai
-veramente fame di lui devi sentire vivo il bisogno di mantenerti sotto l'influsso dell'Eucaristia, devi usare tutte
-
-le industrie possibili per approfittare quanto più puoi della
-grazia di unione con Cristo, che ti è stata offerta nella
-Comunione del mattino. In tal modo la tua Comunione
-sacramentale si prolungherà durante tutta la giornata mediante una continua comunione spirituale con Gesù. Al
-
-lora vivrai veramente di lui, secondo la sua parola: «Chi
-mangia me, vivrà per me» (Gv. 6, 58).
+**2** — L'impostazione della nostra vita spirituale dipende molto dall'idea che ci facciamo di Dio. Se, come il servo infingardo del Vangelo *(Mt.* 25, 14-30), abbiamo di Dio un'idea gretta e meschina, anziché sentirci spronati ad amarlo e a darci generosamente al suo servizio, saremo freddi, pigri, calcolatori, seppelliremo anche noi il talento ricevuto dal padrone, non preoccupandoci di impiegare per Iddio quei beni che da lui abbiamo ricevuto. Molti cristiani, purtroppo, vivono così: servono Dio come lo schiavo serve il padrone, se si astengono dal peccato lo fanno solo per timore del castigo, se pregano o compiono qualche opera buona è solo in vista del proprio interesse e, perciò, non vi è in essi alcuno slancio di generosità e di amore. Quando invece l'anima comincia ad intuire che «*Deus charitas est*» *(I Gv.* 4, 8), comincia a penetrare il mistero dell'amore infinito che l'avvolge, comincia a comprendere l'amore di Dio, l'amore di Gesù per lei, allora tutto spontaneamente cambia aspetto perché «amore chiama amore». La devozione al Sacro Cuore, che è la devozione all'amore infinito di Gesù, deve produrre in noi proprio questo effetto: farci comprendere sempre più «l'amore di Cristo che sorpassa ogni scienza» *(Ef.* 3, 19). Meditando e contemplando il Cuore di Gesù trafitto per amor nostro, impareremo la scienza dell'amore, scienza che nessun libro terreno ci può insegnare, ma che si apprende solo dal libro aperto del Cuore di Cristo, di Cristo nostro unico Maestro. «Qui m'insegnò una scienza assai gustosa» *(G.C.* 27), canta con entusiasmo l'anima che Gesù ha introdotto nei segreti del suo Cuore divino. E allora la risposta al suo amore sarà facile: «Egli mi ha amato e ha dato se stesso per me... ed io ben volentieri spenderò e lascerò spendere tutto me stesso per lui e per le anime che sono il suo tesoro» (Cfr. *Gal.* 2, 20; *II Cor.* 12, 15). L'amore ci butta così al di là di ogni calcolo, di ogni egoismo.
 
 ### Colloquio
 
-«O Gesù, unisco il mio cuore al tuo, affinchè Tu vi
-consumi tutto quel che ti dispiace; unisco tutto ciò che io
-sono a tutto ciò che Tu sei, affinchè Tu mi supplisca a
-quel che mi manca. Unisco la mia orazione e le mie lodi
-a quelle che Tu innalzi al Padre tuo nel SS.mo Sacramento
-dell'altare, affinchè la tua preghiera ripari alle deficienze
-della mia.
+«Orsù, anima mia, risvegliati. Fino a quando sonnecchierai? Al di sopra del cielo vi è un Re che desidera di possederti: ti ama con tutto il cuore, ti ama senza misura. Tanto dolcemente e tanto fedelmente ti ama, che ha lasciato il suo regno e si è umiliato per te. Per cercarti ha sofferto di essere legato come un malfattore. Ti ama tanto cordialmente e tanto fortemente, è tanto geloso di te e tante prove te ne ha date, che per te volentieri ha consegnato alla morte il suo Corpo. Egli ti ha lavato col suo Sangue; ti ha riscattato con la sua morte. E fino a quando aspetterai di riamarlo? Affrettati, dunque, a dargli una risposta.
 
-« Per uniformarmi a te, che sull'altare presti obbedienza
-a qualsiasi sacerdote, buono o malvagio che sia, sarò pronta
-nell'obbedienza e, come un'ostia d'immolazione, mi porrò
-tra le mani dei miei superiori affinchè, morendo a tutte le
-mie volontà, inclinazioni, passioni o avversioni, essi possano disporre di me a loro talento, senza che io mostri alcuna ripugnanza. E poichè la tua vita nel Sacramento dell'altare è tutta nascosta agli occhi delle creature, le quali
-non vedono altro che le povere apparenze del pane, così
-io procurerò, per amor tuo, di vivere talmente nascosta da
-rimanermene sempre celata sotto la cenere dell'umiltà, amando i disprezzi e godendo di apparire la più povera e la più
-abbietta di tutti.
+«Eccomi, vengo a te, Gesù amantissimo! Vengo per la tua dolcezza, per la tua pietà, per la tua carità; vengo con tutto il cuore, con tutta l'anima, con tutte le forze. Chi mi concederà di essere tutta conforme al tuo cuore, affinché Tu possa trovare in me tutto ciò che desideri?
 
-«Per uniformarmi a te, che sei sempre solitario nel
-SS.mo Sacramento, amerò la solitudine cercando d'intrattenermi il più possibile con te. Fa' che il mio intelletto
-non abbia curiosità se non per conoscerti, che il mio cuore
-non abbia ardore nè desideri se non per amarti. Quando
-dovrò prendere qualche sollievo, procurerò che questo sia
-tale da rallegrare il tuo Cuore. Nelle conversazioni, con
-sacrerò a te, Verbo divino, tutte le mie parole, affinchè
-Tu non mi permetta di pronunciarne alcuna che non sia
-di tua gloria... Quando avrò sete, la soffrirò in onore di
-quella che soffristi Tu per la salvezza delle anime... Quando
+«O Gesù, mio Re e mio Dio, ricevimi nell'asilo benignosissimo del tuo Cuore divino, e qui uniscimi a te in modo che io viva totalmente per te. Lascia, ormai, che m'inabissi nel gran mare della tua misericordia, che mi abbandoni completamente alla tua pietà, che mi slanci nella fornace ardente del tuo amore e vi rimanga fino alla consumazione...
 
-avrò commesso qualche fallo, dopo essermene umiliata, verrò a prendere nel tuo Cuore la virtù contraria per offrirla
-in espiazione all'Eterno Padre. Tutto questo intendo fare,
-o Gesù Sacramentato, per unirmi a te in santificazione della
-giornata» (cfr. S. Margherita M. Alacoque).
+«Ma che cosa sono io, Dio mio? Oh, quanto sono dissimile da te, io che sono il rifiuto di tutte le creature! Ma Tu sei la mia grande fiducia, perché in te è il suppleme­nto, anzi l'abbondanza di tutti i beni che ho perduto. Chiudimi, o Signore, nella tomba del tuo Cuore aperto dalla lancia, e ponivi sopra la pietra del tuo sguardo dolcissimo, di modo che io sia eternamente affidata alle tue cure: all'ombra della tua paterna dilezione mi sarà riposo la memoria perpetua del tuo prezioso amore» (S. Geltrude).

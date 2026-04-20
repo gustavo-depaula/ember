@@ -1,118 +1,26 @@
-## 135 — IL DONO DELL'AMORE
-*giovedì santo*
+## 59 — L'AGNELLO MANSUETO
+*martedì santo*
 
-### Presenza di Dio
-
-Concedimi, o Gesù, di penetrare l'immensità di quell'amore che ti ha condotto a donarci l'Eucaristia.
+**Presenza di Dio.** — *O Gesù, concedimi la grazia di penetrare l'abisso di dolore scavato dal peccato nel tuo Cuore mansuetissimo.*
 
 ### Meditazione
 
-1 — «Poichè Gesù aveva amato i suoi li amò sino
-alla fine» (Vg.: Gu. 13,1-15) e proprio nelle ultime ore
-d’intimità passate in mezzo ad essi volle dar loro il massimo pegno del suo amore. Furono quelle ore di dolce
-intimità, ma anche di penosissima angoscia; Giuda aveva
-già pattuito il prezzo della vendita infame, Pietro stava
+**1** — Nell'Epistola della Messa del giorno Geremia (11, 18-20) ci parla in figura del Salvatore sofferente: « io sono stato come agnello mansueto che è condotto ad essere immolato ». Questa frase esprime l'atteggiamento di Gesù di fronte alle amarezze della sua Passione, amarezze che Egli già conosceva ad una ad una in tutti i loro particolari più concreti, che aveva già presustate in cuor suo e che non l'hanno abbandonato neppure un istante nel corso della sua esistenza terrena. Se nella sua realtà storica, materiale, la Passione del Signore si è svolta in meno di 24 ore, nella sua realtà spirituale è durata per tutto lo spazio della vita di lui.
 
-er rinnegarlo, tutti fra poco l'avrebbero abbandonato,
-l'istituzione dell'Eucaristia appare così come la risposta
+Gesù sapeva a che cosa andava incontro, il suo Cuore ne sentiva tutto lo strazio, eppure non solo ha accettato, ma ha desiderato ardentemente quell'ora, « l'ora sua », e si è dato nelle mani dei suoi nemici con la mansuetudine di un agnello che viene condotto al sacrificio. « Ho dovuto abbandonare la mia casa — ci dice ancora per bocca di Geremia — ...ho dato l'anima mia diletta in mano dei miei nemici » *(BR.).* Giuda l'ha tradito, i suoi nemici l'hanno trascinato ai tribunali, l'hanno condannato a morte, gli hanno straziato il corpo in modo orrendo, ma Gesù, anche nella Passione, resta sempre Dio, resta sempre il Padrone, il Signore: « Io ho il potere di dare la mia vita e di riprenderla di nuovo », canta la liturgia nel Vespro del giorno... *(BR.).* Gesù è andato alla Passione « perchè l'ha *voluto* » *(Is.* 53, 7) e lo ha voluto perchè, come Gesù ha detto, « questo è il comando datogli dal Padre » *(Gv.* 10, 18).
 
+Ma, pur volendola, ne ha gustato tutta l'amarezza: « Dolori di morte mi han circondato... Ho sofferto contumelie e terrori da coloro che mi erano amici... O Dio d'Israele, per te io sopporto l'obbrobrio, e la vergogna copre il mio volto » *(BR.* e *MR.).* Cerchiamo di penetrare questi sacri testi che oggi la liturgia ci presenta appunto per farci intendere qualcosa dell'amarissima Passione di Cristo.
 
-di Gesù al tradimento degli uomini, come il massimo
-dono del suo amore infinito, in cambio della massima ingratitudine: è il Dio misericordioso che insegue la sua
-creatura ribelle non con le minacce, ma con le più delicate industrie della sua immensa carità, Gesù aveva già
-fatto e sofferto tanto l'uomo peccatore ed ecco che,
-nel momento in cui la malizia umana sta per toccare
-l'estremo fondo dell’abisso, Egli, quasi esaurendo le risorse del suo amore, si offre all'uomo non solo come
-Redentore che morirà per lui sulla croce, ma come cibo
-che lo nutrirà con la sua Carne e col suo Sangue; e se
-fra poche ore la morte lo strapperà alla terra, l’Eucaristia vi perpetuerà la sua presenza viva e reale fino alla
-consumazione del tempo. «O pazzo d’amore per la tua
-creatura! — esclama S. Caterina da Siena — Tutto Dio
-e tutto Uomo, tutto ti lasciasti in cibo a noi, acciocchè, mentre siamo pellegrini in questa vita, non veniamo
-meno per la fatica, ma siamo fortificati da te, Cibo celestiale! ».
+**2** — Nella Messa di oggi, si legge la « Passione » scritta da S. Marco (14, 1-72; 15, 1-46), il discepolo di Pietro. Nessun altro evangelista ha descritto così minutamente la negazione di Pietro: è l'umile confessione che il capo degli Apostoli fa di sè per bocca del suo discepolo. Durante l'ultima Cena, quando Gesù aveva predetto agli Apostoli che in quella notte l'avrebbero abbandonato, Pietro aveva protestato con tutta la vivacità del suo carattere ardente: « Ancorchè tutti si scandalizzassero per tua cagione, non sarà così di me ». E invano il Maestro gli aveva predetto la sua diserzione, designandone i più minuti particolari: « questa notte, prima che il gallo abbia cantato la seconda volta, mi rinnegherai tre volte »; la troppa fiducia di sè l'aveva reso cieco, impedendogli di credere alle parole di Gesù e di dubitare almeno un poco delle sue forze. « Quand'anche dovessi morire con te, non ti rinnegherò »; Pietro era sincero nella sua affermazione, ma peccava di presunzione; non aveva ancora fatto l'esperienza pratica della miseria e della debolezza umana per cui nessuno, neppure l'uomo più coraggioso, può, senza l'aiuto divino, mantenersi fedele al dovere. Al Getsemani ne farà la prima esperienza, quando anche lui, come gli altri, non sarà capace di vegliare « un'ora sola » col Maestro; ne farà la seconda quando, alla cattura di Gesù, fuggirà pieno di paura. Ma queste due esperienze non basteranno ad abbattere la sua presunzione, ce ne vorrà una terza, la più dolorosa.
 
-La Messa di oggi è, in modo tutto particolare, la commemorazione e la rinnovazione dell'ultima Cena, cui tutti
-siamo invitati a partecipare. Entriamo in Chiesa e stringiamoci attorno all’Altare come saremmo entrati nel Cenacolo e ci saremmo stretti attorno a Gesù. Qui, come gli
-Apostoli a Gerusalemme, troviamo il Maestro vivente in
-mezzo a noi, e lui stesso, nella persona del suo ministro,
-rinnoverà ancora una volta il grande miracolo che muta
-il pane ed il vino nel suo Corpo e nel suo Sangue e poi
-ci dirà: « Prendete e mangiate... prendete e bevete ».
-
-Riflettiamo che Gesù stesso aveva disposto i preparativi per l’ultima Cena e a tale scopo volle scegliere «una
-gran sala» (Lc. 22, 12), incaricando gli Apostoli di allestirla in modo conveniente. Anche il nostro cuore deve
-essere un cenacolo « grande », reso spazioso e dilatato dall’amore, affinchè Gesù possa venirvi a celebrare degnamente la sua Pasqua.
-
-
-2 — Nell'ultima Cena, Gesù, assieme al Sacramento
-dell'amore, ci lascia il testamento dell'amore. Testamento
-vivo e concreto del suo mirabile esempio di umiltà e di
-carità nella lavanda dei piedi, testamento orale nell’annunzio del suo « comandamento nuovo ». Il Vangelo della
-Messa odierna ci presenta appunto Gesù nell’atto di lavare i piedi agli Apostoli e termina con le parole del
-Maestro: « Vi ho dato l’esempio, affinchè anche voi
-facciate come io ho fatto a voi». È un invito pressante a quella carità fraterna che deve essere il frutto della
-nostra unione con Gesù, frutto della nostra Comunione
-eucaristica. Egli ne ha parlato espressamente proprio nell’ultima Cena: « Vi do il comandamento nuovo: Amatevi
-gli uni con gli altri. Come io ho amato voi, così voi amatevi a vicenda » (Gv. 13, 34).
-
-Se non possiamo imitare l’amore di Gesù fino a dare
-il nostro corpo in cibo ai fratelli, possiamo però imitarlo
-nel donare ad essi la nostra amorevole assistenza e non
-solo nelle cose facili, ma anche in quelle difficili e ripugnanti. Il Maestro che lava i piedi ai suoi Apostoli c’insegna fin dove dobbiamo abbassarci per prestare servizio
-al nostro prossimo, anche al più umile ed abbietto. Il
-Maestro che, con continue testimonianze di amore, va incontro agli uomini ingrati ed ai suoi stessi traditori, c'insegna che la nostra carità non è simile alla sua, se non
-sappiamo ricambiare il male col bene, se non sappiamo
-
-
-perdonare sino in fondo, giungendo ‘a ‘beneficare chi ci°
-
-
-ha fatto torto. Il Maestro, che dà la vita per la salvezza
-dei suoi, ci dice che il nostro amore non è pieno, se non
-sappiamo sacrificarci generosamente per gli altri. Il suo
-«comandamento nuovo », che pone l’amore stesso di Gesù quale misura del nostro amore fraterno, apre orizzonti sconfinati all'esercizio della carità; si tratta di una carità che non conosce limiti. E, se un limite c'è, è quello
-di dare, come il Maestro, la vita per gli altri perchè « nessuno ha un amore più grande di questo, di uno che dia la
-vita per i suoi amici » (Gv. 15, 13).
-
-
-Gesù c’inculca la perfezione della carità fraterna nella
-sera stessa in cui istituisce l'Eucaristia quasi ad indicare
-che tale perfezione deve essere insieme il frutto del Sacramento Eucaristico e la nostra risposta a questo immenso dono.
+Nel cortile del palazzo di Caifa — dove, riavutosi dal primo spavento, era andato a vedere come le cose andavano a finire — Pietro viene riconosciuto da una serva come discepolo di Gesù, ma, preso dal timore di essere coinvolto nel processo, subito nega dicendo: « Non lo conosco ». Scivolato una volta, non sa più riprendersi e, nuovamente interrogato, nega una seconda ed una terza volta. « Subito il gallo cantò e il Signore si volse a guardarlo »; quel canto e ancor più quello sguardo pieno di amore e di dolore lo fanno rientrare in se stesso « e uscito fuori pianse amaramente » *(Lc.* 22, 62). La benda della presunzione cade dai suoi occhi e Pietro, che realmente ama Gesù, riconosce la sua debolezza, la sua colpa. L'amore e lo sguardo del Maestro l'hanno salvato. Ed ora che Pietro non si fida più di sè, Gesù potrà fidarsi di lui e affidargli il suo gregge. Finchè un'anima si fida di sè, non è matura per la sua santificazione, nè per cooperare efficacemente alla santificazione altrui.
 
 ### Colloquio
 
-«O Signore, Signore! Piccola e stretta è la casa dell’anima mia, perchè Tu venga in essa: allargala Tu. È
-tutta una rovina: riparala Tu. Ha cose che offendono i
-tuoi occhi: lo so e lo confesso. Ma chi la rifarà monda?
-o a chi, fuori che a te, griderò io: mondami, o Signore,
-dai peccati che mi sono nascosti? » (S. Agostino).
+« O Dio dell'anima mia, come siam pronti ad offenderti! E come Tu lo sei più ancora a perdonarci. Ma che cosa dici, Signore! 'Dolori di morte mi hanno circondato'. Ahì! che gran male è il peccato se fu sufficiente ad uccidere un Dio fra dolori sì orribili! E come, ancor oggi, ne sei circondato, Signore! Qual'è il luogo ove Tu non trovi dolore? Da ogni parte gli uomini ti coprono di ferite.
 
-«O buon Gesù, per sostenere la nostra debolezza ©
-per eccitarci all'amore hai preso la risoluzione di rimanere
-sempre fra noi, eppure ben prevedevi la sorte che avresti
-avuto fra gli uomini, i disonori e gli oltraggi che avresti
-dovuto soffrire. O Fterno Padre, come hai potuto permettere che il Figlio tuo rimanesse sempre in mezzo a noi
-per soffrire ogni giorno nuovo genere di strapazzi? O
-mio Dio! Che eccesso d’amore in quel Figlio! E che eccesso pure in quel Padre!
+« Cristiani, è ora di difendere il vostro Re e di tenergli compagnia nella sua desolata solitudine. Come son pochi, o Signore, i vassalli che ti son rimasti fedeli!... E il peggio si è che ne hai di quelli che, mentre in pubblico si mostrano tuoi amici, in segreto ti vendono. E non sai quasi più di chi fidarti.
 
-«O Eterno Padre, perchè hai voluto che tuo Figlio
-fosse un giorno in balìa di gente sì perversa come noi?
-È possibile che la tua tenerezza permetta che sia esposto
-ogni giorno — sì, dico ogni giorno — a tanti maltrattamenti? Oh, quanti se ne fanno oggi a questo divinissimo
-Sacramento! In quante mani nemiche sei Tu costretto a
-vederlo!
+« O Amico sincero, come ti paga male chi ti tradisce!
 
-« Considera, o Eterno Padre, che tanti flagelli, strapazzi e tormentosissime sofferenze da tuo Figlio sofferte durante la sua vita terrena non sono cose da dimenticarsi.
-Forse che Egli deve fare qualche altra cosa per contentarti? Non ha Egli fatto già tutto? Non ha forse già soddisfatto abbastanza per il peccato di Adamo?
-
-« O Padre santo che sei nei cieli, se il tuo divin Figlio
-
-
-non ha nulla tralasciato per dare a noi, peccatori,
-un dono così grande come quello della SS.ma Eucaristia,
-non permettere, o misericordiosissimo Signore, che ven
-
-trattato così male! Egli si è lasciato fra noi in un modo
-così ammirabile da potertelo noi offrire in sacrificio quante
-volte vogliamo, Ebbene, per questo augustissimo sacrificio, si arresti finalmente la marea dei peccati e delle irriverenze che si commettono fin là dove questo SS.mo
-Sacramento risiede » (cfr. T.G. Cam. 33, 2-3; 35, 3).
+« O veri cristiani, venite a piangere col vostro Dio! Le lacrime di compassione ch'Egli sparse al sepolcro di Lazzaro non furono soltanto per lui, ma per tutti coloro che avrebbero rifiutato di risorgere, nonostante il suo richiamo. Allora, mio Bene, Tu avevi presenti anche i peccati che io avrò commesso contro di te. Ma cessino ormai, cessino con i miei altri quelli degli altri! Fa' che questi morti risorgano. La tua voce, Signore, sia così potente da dar loro la vita, anche se non la chiedono. Neppure Lazzaro ti chiese d'esser risuscitato, eppure Tu lo risuscitasti per le preghiere d'una peccatrice. Eccone qui un'altra, mio Dio, e assai più colpevole di quella. Fa' dunque risplendere la tua misericordia: te lo domando, nonostante la mia miseria, per coloro che non te lo vogliono domandare » (T.G. *Es.* 10).

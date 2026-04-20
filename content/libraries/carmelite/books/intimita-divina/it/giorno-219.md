@@ -1,104 +1,17 @@
-## 219 — FESTA DEI SS. PIETRO E PAOLO
+## XIX — RIMANERE IN CRISTO
 
-### Presenza di Dio
-
-O Signore, che la festa dei tuoi Apostoli mi rinfranchi nella fede e rinsaldi la mia fedeltà alla Chiesa.
+**Presenza di Dio.** — *O Gesù, insegnami non solo a vivere con te, ma a vivere in te, a rimanere in te.*
 
 ### Meditazione
 
-1.— La festa dei Santi Apostoli, Principi della Chiesa,
-risveglia nell'anima l'attaccamento alla Chiesa, a Roma, al
+**1** — La sera dell'ultima Cena Gesù disse: «Restate in me ed io resterò in voi» *(Gv.* 15, 4) e poco dopo istituiva l'Eucaristia, il sacramento che ha il fine specifico di alimentare la nostra vita di unione con lui. Venendo in noi sacramentato, Gesù non se ne parte senza lasciare nell'anima nostra «l'impronta della grazia come fa il suggello che si pone sopra la cera calda»... e, levando il suggello, vi rimane l'impronta di esso. Così la virtù di questo sacramento rimane nell'anima, cioè vi rimane il caldo della divina carità» (S. Caterina da Siena). Gesù ha detto: «Sono venuto a portare il fuoco sulla terra e che cosa desidero se non che si accenda?» *(Lc.* 12, 49); e dove maggiormente accenderà il fuoco del suo amore se non nell'anima del comunicante che ha la grande sorte di ospitarlo in sé? Ogni volta che ti accosti alla Mensa eucaristica Gesù, per virtù del sacramento, ravviva in te il fuoco del suo amore, lascia in te l'impronta della sua grazia e mediante questo amore e questa grazia tu rimani spiritualmente unito a lui. Ciò avviene anche se tu non ci pensi ed è già di per sé cosa assai preziosa; tuttavia Gesù desidera che tu sia consapevole per vivere in modo cosciente la tua unione con lui. Osserva che, quando Egli parla di unione nostra con lui, antepone sempre la parte nostra alla sua: «Chi mangia la mia carne... rimane in me ed io in lui», «restate in me ed io resterò in voi» *(Gv.* 6, 57; 15, 4), e questo non perché la nostra parte sia in sé la più importante — ché, anzi, è sempre Gesù che ci previene con la sua grazia, senza la quale non sarebbe possibile alcuna unione con lui — ma per farci capire che in realtà vivremo uniti a lui in proporzione della nostra corrispondenza alla grazia. Ogni Comunione ti porta di per sé una nuova grazia di unione con Gesù e quindi ti offre la possibilità di un'unione più intima con lui, ma di fatto tu vivrai questa unione a misura della tua buona volontà, delle tue disposizioni interiori.
 
-Papa.
-
-Oggi la liturgia mette in primo piano Pietro, il capo degli Apostoli, e domani ci parlerà di Paolo, l'Apostolo dei gentili
-e, così, ci presenta coloro che hanno parte nella Chiesa, non
-solo con le loro fatiche, ma anche col loro sangue. Il Vangelo
-odierno ci ricorda la grande giornata di Cesarea in cui Gesù
-per la prima volta proclamò Pietro fondamento della Chiesa:
-«Io ti dico che tu sei Pietro e sopra questa pietra edificherò
-la mia Chiesa »; parole che hanno avuto una ripercussione
-grandiosa attraverso i secoli e che, ancor oggi, stanno a testimoniare il primato di Pietro e di tutti i suoi successori sulla
-cristianità intera. Non già tante piccole Chiese, come pretendono i protestanti, ma un'unica, grande Chiesa: la Chiesa
-cattolica, apostolica, romana. Un'unica Chiesa di cui l'unico
-fondatore e capo è Cristo, il quale ha voluto avere in Pietro
-il suo rappresentante. «Dove è Pietro qui è la Chiesa »
-(S. Ambrogio) ed è come dire: dove è il Papa, successore di
-Pietro, qui è la Chiesa. Ben giustamente, quindi, la festa di
-S. Pietro deve essere considerata la festa della Chiesa, la festa del Papa; festa che deve ridestare in ogni anima cristiana il senso profondo della sua appartenenza alla Chiesa, della sua devozione al Sommo Pontefice. « Io son figlia della
-Chiesa! », ripeteva Teresa di Gesù in punto di morte, Dopo
-aver lavorato tanto per Iddio e per le anime, era questo l'unico titolo che la rendeva sicura della misericordia divina. Essere figli della Chiesa, ecco il nostro titolo di salvezza, ecco
-la nostra gloria, dopo quella di essere figli di Dio o, meglio,
-
-non dopo, ma insieme, poichè, come dicono i Santi Padri,
-« non può avere Dio per Padre chi non ha la Chiesa per Madre » (S. Cipriano). Non è vero cattolico chi non sente la gioia
-di essere figlio della Chiesa, chi non vibra per la Chiesa e
-per il Papa, chi non è pronto a rinunciare alle sue vedute
-personali per « sentire cum Ecclesia », sentire con la Chiesa
-sempre ed in tutto,
-
-2. — Il Communio di oggi ripete una seconda volta le
-grandi parole con cui Gesù ha costituito Pietro fondamento
-della Chiesa: e Tu sei Pietro e sopra questa pietra edificherò
-
-la mia Chiesa »; è un rinnovato omaggio al Principe degli
-Apostoli, ma nello stesso tempo è un richiamo per noi. Ogni
-cristiano, infatti, dovrebbe essere una pietra salda e sicura
-
-sopra Cristo,
-di cui Gesù possa valersi per sostenere la sua Chiesa. Evidentemente, la pietra viva, la pietra angolare per eccellenza
-è Cristo e, accanto a sè, Egli stesso ha posto il suo Vicario;
-ma poi, seguono tutti i fedeli: dai vescovi fino all'ultimo battezzato; tutti — proprio come dice S. Pietro — siamo « pietre vive edificate sopra di lui [Cristo] per essere una casa
-spirituale, un sacerdozio santo » (I, 2, 5).
-
-Anche tu, dunque, chiunque tu sia: sacerdote o laico,
-religioso o padre di famiglia, semplice cristiano o umile claustrale, anche tu sei chiamato a sostenere la Chiesa, così come
-in un edificio materiale non solo i grandi blocchi granitici,
-ma anche i più umili mattoni contribuiscono a sorreggere
-la casa. In un'anima di vita interiore non può mancare quel
-profondo senso apostolico che le fa sentire la sua parte di responsabilità per il buon andamento della Chiesa, parte che
-adempirà anzitutto con la sua obbedienza e sottomissione alle direttive della Gerarchia; ma ciò non basta. Se sei vero
-figlio della Chiesa non puoi essere indifferente ai suoi bisogni, ai suoi interessi, alle sue sofferenze. Oggi, più che mai,
-la Chiesa soffre: soffre nel suo Vicario che, posto a vedetta
-di tutta la cristianità, più d'ogni altro conosce e misura i
-pericoli e le lotte che da ogni lato la premono; la Chiesa
-
-nei suoi vescovi, nei suoi sacerdoti perseguitati, martoriati,
-ridotti all'impotenza; soffre nei suoi cari dispersi, come pecore senza pastore; soffre per gli errori, per
-persecuzione e scandalo contro. E tu, suo figlio, potrai
-rimanere indifferente? Soffri anche tu con la Madre tua,
-prega, lavora, spendi le tue forze per servirla, per difenderla.
-Metti da parte i tuoi piccoli interessi personali e dedicati ai
-grandi interessi della Chiesa: con la vita, con le opere, con
-ma anche con l'immolazione silenziosa e nascosta,
+**2** — Dopo esserti nutrito di Gesù nella S. Comunione, per «rimanere» in lui durante tutta la giornata, devi anzitutto custodire il tuo cuore in un'atmosfera di raccoglimento. Se, appena uscito dalla Chiesa, ti dimentichi subito di aver ricevuto il Signore e — come dice S. Teresa d'Avila — «t'ingolfi negli affari, nelle occupazioni e nelle brighe del mondo» (cfr. *Cam.* 34, 13), non potrai davvero mantenerti unito a Gesù, anzi, la Santa ti direbbe che, agendo in tal modo, sembra quasi che tu «faccia il possibile per indurre il Signore a sgombrarti *presto* la casa» (ivi). È vero, ti basta lo stato di grazia per rimanere spiritualmente unito a Cristo, ma quanto più sarà fruttuosa per te questa unione se cercherai di viverla attualmente! Perciò, anche durante la giornata, anche in mezzo alle occupazioni, procura di mantenerti sotto l'influsso della Comunione fatta al mattino, ossia sotto l'influsso di Gesù, del suo amore, della sua azione incessante nell'anima tua. Almeno in ispirito, cerca di ritornare sovente ai piedi del tabernacolo, di mantenerti in contatto con l'Eucaristia. Se i tuoi doveri ti portano fuori di casa, ogni Chiesa che incontri sul tuo cammino, o che vedi passando, sia per te un dolce richiamo alla Comunione già fatta o a quella che dovrai fare l'indomani, sia l'occasione per un fugace ma fervido slancio del cuore verso Gesù Sacramentato, oppure per un rapido ritorno nell'intimo santuario dell'anima tua per rinnovare il contatto interiore col Signore. Procura di fare ogni giorno la visita al SS.mo Sacramento, ma falla in modo che sia un vero cuore a cuore con Gesù. Se hai veramente *fame* di lui devi sentire vivo il bisogno di mantenerti sotto l'influsso dell'Eucaristia, devi valerti di tutte le industrie possibili per approfittare quanto più puoi della grazia di unione con Cristo, che ti è stata offerta nella Comunione del mattino. In tal modo la tua Comunione sacramentale si prolungherà durante tutta la giornata mediante una continua comunione spirituale con Gesù. Allora vivrai veramente di lui, secondo la sua parola: «Chi mangia me, vivrà per me» *(Gv.* 6, 58).
 
 ### Colloquio
 
-«O Dio sommo ed ineffabile, io ho peccato e non son degna di pregarti, ma Tu sei potente a rendermi degna; punisci, Signor mio, i miei peccati e non giudicare secondo le mie
-miserie. Un corpo, sia pure il poco che io ti rendo ed offro... Se è tua
-volontà, fa' stritolare l'ossa e le midolla mie per il Vicario tuo
-in terra, per il quale io ti prego... Dagli un cuore che di continuo cresca in grazia, un cuore forte per difendere il gonfalone della santissima Croce, onde rendere gli infedeli partecipi, come noi, della Passione e del Sangue dell'Unigenito
-Figlio tuo, Agnello immacolato.
+«O Gesù, unisco il mio cuore al tuo, affinché Tu vi consumi tutto quel che ti dispiace; unisco tutto ciò che io sono a tutto ciò che Tu sei, affinché Tu mi supplisca a quel che mi manca. Unisco la mia orazione e le mie lodi a quelle che Tu innalzi al Padre tuo nel SS.mo Sacramento dell'altare, affinché la tua preghiera ripari alle deficienze della mia.
 
-«O Trinità eterna ed infinita, non tardare più, ma per
-i meriti di S. Pietro, soccorri la Sposa tua, e la Chiesa: io
+«Per uniformarmi a te, che sull'altare presti obbedienza a qualsiasi sacerdote, buono o malvagio che sia, sarò pronta nell'obbedienza e, come un'ostia d'immolazione, mi porrò tra le mani dei miei superiori affinché, morendo a tutte le mie volontà, inclinazioni, passioni o avversioni, essi possano disporre di me a loro talento, senza che io mostri alcuna ripugnanza. E poiché la tua vita nel Sacramento dell'altare è tutta nascosta agli occhi delle creature, le quali non vedono altro che le povere apparenze del pane, così io procurerò, per amor tuo, di vivere talmente nascosta da rimanermene sempre celata sotto la cencere dell'umiltà, amando i disprezzi e godendo di apparire la più povera e la più abbietta di tutti.
 
-grido oggi a te, Amore mio, Dio eterno, perciò tu faccia misericordia per i secoli, fa' che questo mondo e dia luce al tuo Vicario, affinchè
-tutto il mondo lo segua... Illumina ancora gli avversari della
-Chiesa, i quali fan resistenza allo Spirito Santo, affinchè siano convertiti a te, Dio mio. Invita, eccita i loro cuori, o Amore inestimabile, e la tua carità ti costringa a vincere la loro
-durezza. Siano ridotti a te, affinchè non periscano. E perchè
-hanno offeso te, Dio di somma clemenza, punisci i peccati
-loro in me. Ecco, dunque, il corpo mio che da te ho ricevuto: te l'offro; diventi incudine per essi, affinchè le loro colpe
-siano distrutte» (S. Caterina da Siena). a
-
-« Ascolta, o Signore, la mia povera preghiera! Si tratta
-della tua gloria e del bene della tua Chiesa. E' appunto qui
-
-che vengono a finire tutti i miei desideri. Sono forse un po'
-troppo pronti nel pensare di poter contribuire a questo
-scopo? Non esaudirmi, o Signore, qualora ti domandassi onori, rendite, ricchezze o altre cose che sanno di mondo; ma
-quando le mie preghiere hanno per oggetto l'onore di tuo
-Figlio, perchè, o Eterno Padre, non ascolterai volentieri chi
-per te sacrificherebbe volentieri mille onori e mille vite? Non
-per me, o Signore, che non lo merito, ma per il Sangue e per
-i meriti del tuo Figliolo» (cfr. T.G. Cam. 1 e 3).
+«Per uniformarmi a te, che sei sempre solitario nel SS.mo Sacramento, amerò la solitudine cercando d'intrattenermi il più possibile con te. Fa' che il mio intelletto non abbia curiosità se non per conoscerti, che il mio cuore non abbia ardore né desideri se non per amarti. Quando dovrò prendere qualche sollievo, procurerò che questo sia tale da rallegrare il tuo Cuore. Nelle conversazioni, consacrerò a te, Verbo divino, tutte le mie parole, affinché Tu non mi permetta di pronunciarne alcuna che non sia di tua gloria... Quando avrò sete, la soffrirò in onore di quella che soffri Tu per la salvezza delle anime... Quando avrò commesso qualche fallo, dopo essermene umiliata, verrò a prendere nel tuo Cuore la virtù contraria per offrirla in espiazione all'Eterno Padre. Tutto questo intendo fare, o Gesù Sacramentato, per unirmi a te in ogni azione della giornata» (cfr. S. Margherita M. Alacoque).

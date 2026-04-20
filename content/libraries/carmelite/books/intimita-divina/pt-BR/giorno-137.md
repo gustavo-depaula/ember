@@ -1,134 +1,20 @@
-## 137 — A VITÓRIA DA CRUZ
-*sábado santo*
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-— Ó Jesus, crucificado por amor de mim, revela-me a vitória alcançada por tua morte.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — Mal Jesus deu o último suspiro, "o véu
-do templo se rasgou... e a terra tremeu, e as rochas se fenderam, e os túmulos se abriram e muitos corpos... ressuscitaram", de modo que os presentes "temeram grandemente e
-disseram: 'Verdadeiramente este era o Filho de Deus'" (Mt. 27).
-Jesus quis morrer na ignomínia mais completa,
-aceitando até o fim os escárnios e os irônicos desafios dos
-soldados: "Se Tu és o Cristo, salva-te a ti mesmo" (Lc. 23, 39);
-mas, apenas expirou, sua Divindade se revelou
-de modo tão poderoso que se impôs também àqueles que até aquele
-momento zombavam dele. A morte de Cristo começa assim a manifestar-se como realmente é, isto é, não
-uma derrota, mas uma vitória, a maior vitória que o
-mundo conheça: vitória sobre o pecado, vitória sobre a morte,
-consequência do pecado, vitória que restitui aos homens
-a vida da graça.
-
-Ontem, apresentando a Cruz à nossa adoração, a
-Igreja cantava: "Eis o lenho da Cruz no qual foi suspensa
-a salvação do mundo" e, depois do triste alternar
-dos impropérios, elevava um hino em louvor da Cruz:
-"Em torno do troféu da Cruz celebra-se o nobre triunfo
-pelo qual o Redentor do mundo, embora imolado,
-venceu!" Assim, a consideração e a compaixão dos sofrimentos do
-Senhor alternam-se com o hino da vitória. Morte e vida,
-morte e vitória são termos contraditórios entre si, e no entanto
-vemos que em Jesus estão estreitamente unidos,
-de modo que o primeiro é causa do segundo. S. João
-da Cruz, depois de descrever a agonia de Jesus na
-Cruz, afirma: "precisamente então cumpriu a obra maior
-de quantas jamais fizera em vida com milagres e prodígios... a obra com a qual reconciliou e uniu o
-gênero humano com Deus por meio da graça. Isso ocorreu justamente quando o amoroso Senhor estava mais aviltado
-e humilhado em tudo, isto é: quanto à reputação diante dos
-homens, pois vendo-o morrer num madeiro,
-longe de ter por ele alguma estima, zombavam dele; e quanto
-à natureza, pois nela de certo modo se aniquilava ao morrer; e quanto à proteção e ao conforto espiritual do Pai
-que naqueles momentos o abandonou". E depois conclui: "Daí o homem espiritual entenda o mistério da porta e do caminho de Cristo para unir-se com Deus,
-e saiba que quanto mais se aniquila por amor dele... tanto
-mais se une a ele e tanto maior obra realiza" (S. II,
-7).
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — "Em paz durmo e descanso"; assim começa as Matinas do sábado santo, aludindo à paz do sepulcro
-em que, após tantos tormentos, repousa o Corpo santíssimo de
-Jesus; de fato, este dia é o mais indicado para recolher-nos
-em silêncio e oração junto ao sepulcro
-do Senhor.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-Depois da morte de Jesus, aterrados pelo terremoto e pelas
-trevas, todos haviam deixado o Calvário, exceto
-o grupo dos mais fiéis: Maria SS.ma e João que nunca se tinham
-afastado da Cruz, Maria Madalena e outras
-mulheres piedosas que "haviam seguido Jesus desde a Galileia para
-servi-lo" (Mt. 27, 55). O Senhor já expirou, mas eles
-não sabem separar-se dele, Mestre adorado, objeto de
-todo o amor e de todas as suas esperanças. O que os
-retém de modo irresistível junto àquele Corpo sem vida é precisamente seu amor. Este é o caráter da
-verdadeira fidelidade: perseverar também nos momentos mais obscuros e
-penosos em que tudo parece perdido, em que o amigo, em vez
-de triunfar, é reduzido à derrota e à humilhação mais
-profunda. Ser fiel a Deus quando tudo vai bem, quando sua causa triunfa, é fácil; mas ser fiel na hora
-das trevas, quando Ele permite o momentâneo predomínio do mal, de modo que tudo o que é bom e santo
-parece arrastado e submerso irremediavelmente, é árduo,
-e é a prova mais certa de um amor verdadeiro.
-
-Enquanto isso dois discípulos, José de Arimateia e Nicodemos, encarregam-se da sepultura: o sagrado Corpo é
-deposto da Cruz, envolvido em um lençol com aromas
-e depois colocado "no sepulcro novo" que José "havia
-mandado cavar para si na rocha" (Mt. 27, 60). Junto com
-a Madonna, que certamente deve ter estado presente à
-cena e acolhido nos braços o Corpo dilacerado do
-seu divino Filho, aproximemo-nos também nós daqueles sagrados
-despojos; mais uma vez fixemos o olhar naquelas
-chagas, naquelas feridas, naquele sangue que com tanta eloquência nos falam do amor infinito de Jesus por nós.
-
-É verdade, agora essas chagas já não são dolorosas,
-mas gloriosas, e amanhã, com a Páscoa, celebraremos
-justamente a grande vitória por elas alcançada; mas, embora glorificadas,
-essas chagas permanecem e permanecerão eternamente como sinal
-indelével da excessiva caridade com que Cristo nos amou.
-Sábado santo, dia de transição entre as angústias de
-sexta-feira e a glória da Ressurreição, seja um dia de
-recolhimento e oração junto ao Corpo sem vida
-de Jesus: escancaremos nosso coração, purifiquemo-lo no
-seu Sangue, para que, todo renovado no amor e na pureza,
-possa rivalizar com o "sepulcro novo" em oferecer ao amantíssimo Mestre um lugar de paz e repouso.
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"Salve, ó Cruz, única esperança nossa! Tu aos justos
-aumentas a graça e aos pecadores remites os crimes. Ó
-árvore gloriosa e fulgente, ornada da púrpura do Rei,
-em teus braços está suspenso o preço da nossa Redenção;
-em ti está nossa vitória, nosso resgate!" (cf. BR).
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-"Ó Cristo, mais uma vez fixo no teu rosto sem vida o meu pranto e não sem lágrimas ergo os olhos
-às tuas chagas e transfixões, não sem comoção
-elevo o coração contrito e considero quanta tribulação
-encontraste para procurar-me, para salvar-me.
-
-"Ó bom Jesus, com quanta liberalidade, na cruz,
-nos deste tudo o que tinhas! Aos crucificadores deste
-tua oração afetuosa, ao ladrão o paraíso, à Mãe
-o filho, ao filho a Mãe, aos mortos a vida, às mãos do
-Pai tua alma; ofereceste a todo o mundo sinais do teu
-poder e, para redimir o escravo, não poucas gotas,
-mas todo o Sangue doaste, o Sangue que derramavas de muitas
-e largas feridas!... Ó suavíssimo Senhor e Salvador do universo,
-como te agradecerei dignamente?
-
-"Ó bom Jesus, Tu inclinas a florida cabeça,
-traspassada por muitos espinhos, convidando-me ao beijo de paz e parece
-dizer-me: 'Eis como estou desfigurado,
-rasgado, morto. Sabes por quê? Ó ovelha desgarrada, para tomar-te
-e trazer-te sobre meus ombros e reconduzir-te ao pasto celeste
-do Paraíso. Dá-me o contracâmbio... Olha-me na
-minha Paixão. Ama-me. Eu me dei a ti, dá-te a mim...'.
-Ó Senhor, enternecido por tuas chagas, quero colocar-te
-sobre mim, sofredor como te vejo; quero colocar-te
-como selo sobre meu coração e como marca sobre meu
-braço, para conformar-me a ti e ao teu martírio em todos
-os pensamentos do meu coração, em todas as ações do meu
-braço.
-
-"Ó dulcíssimo bom Jesus! Tu que te deste por nós
-em preço de resgate, concede-nos, embora não sejamos dignos
-de tão grande preço, que nos rendamos à tua graça,
-inteiramente, perfeitamente e em tudo" (cf. S. Boaventura).
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

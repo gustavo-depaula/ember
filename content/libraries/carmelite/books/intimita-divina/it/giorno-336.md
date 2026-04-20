@@ -1,84 +1,21 @@
-## 336 — LO SPIRITO SANTO E L'APOSTOLATO
+## 14 — LA FORMAZIONE DEGLI APOSTOLI
 
-### Presenza di Dio
-
-Mi raccolgo nell'intimo santuario dell'anima mia per cercarvi Dio, vivente in me per la grazia.
+**Presenza di Dio.** — *Gesù, Maestro divino, degnati di accogliermi alla tua scuola, affinché sotto la tua guida possa prepararmi all'apostolato.*
 
 ### Meditazione
 
-molto bene S. Teresa del B. G. quando, dopo aver passato in rassegna tutte le vocazioni possibili, riconoscendo
-che non erano. ancora sufficienti ad appagare i suoi immensi desideri apostolici, concludeva: «Ho trovato finalmente la mia vocazione! La wzia vocazione è Pamore!...
-Nel cuore della Chiesa che è la madre mia, io sarò Pmzore! Così sarò tutto » (St. 11). Ma dove attingere una carità così piena e trasformante? Non dobbiamo dimenticare
-che fonte principale della carità è lo Spirito Santo, termine personale 'dell'amore del Padre e del Figlio, soffio
-eterno del loro scambievole amore. Questo Spirito Santo
-ci è «stato dato », è « nostro », abita nei nostri cuori proprio per effondervi quella carità soprannaturale che ci fa
-ardere d'amore per Iddio e per le anime: «L'amore divino si è riversato nei nostri cuori per lo Spirito Santo che
-ci fu dato » (Roy. 5, 5). Partecipando agli uomini la fiamma della divina carità, associandoli al suo amore infinito,
-lo Spirito Santo è il segreto amimatore e sostenitore di
-ogni apostolato; « Egli — insegna Pio XII — col suo celeste soffio di vita, è il principio di ogni azione vitale
-ed efficacemente salutare... nel mistico Corpo di Cristo »
-(Myst. Corp.), Egli è l'anima della Chiesa, Vogliamo essere apostoli? Apriamo, spalanchiamo i nostri cuori alle effusioni dello Spirito Santo, affinchè la sua carità c'invada
-e ci penetri al punto di assorbire in sè il nostro povero
-amore. Quando l'amore di un'anima si unisce alla « fiamma d'amor viva », che è lo Spirito Santo, fino «a diventare una cosa sola con quella » (cfr. G.C.F. 1,3), allora
-diventa amore vivificante nel cuore della Chiesa; solo così
-è possibile la realizzazione del grande ideale: «nel cuore
-della Chiesa, io sarò l'amore! Così sarò tutto ». Per arrivare a questa vetta suprema dell'amore e dell'apostolato,
-occorre giorno per giorno, momento per momento asse
-condare gli impulsi dello Spirito Santo, occorre ap:
-docilmente alla sua azione, occorre lasciarsi dirigere e governare da lui. Occorre soprattutto conformarsi al movimento della sua carità infinita che con pienezza totale si
-slancia nel Padre e nel Figlio e si riversa poi sulle anime
-per trascinarle tutte nella Trinità beata.
+**1** — Per darsi all'apostolato interiore non è necessaria nessuna cautela giacché, quanto più un'anima si dedica alla preghiera e al sacrificio, non solo giovarà al bene del prossimo, ma nello stesso tempo ne ritrarà grande profitto per la propria santificazione. Infatti, le armi dell'apostolato interiore coincidono perfettamente con gli esercizi fondamentali della vita spirituale. Ma non si può dire altrettanto circa l'apostolato esterno che, per sua natura, richiede necessariamente sollecitudini ed occupazioni diverse da quelle riguardanti il profitto individuale. Un'anima da poco iniziata alla vita interiore non può avere la capacità di attendere contemporaneamente alla propria e all'altrui santificazione, ma deve avere il tempo di concentrare anzitutto le forze nella propria formazione spirituale. Del resto, se l'apostolo trae la sua efficacia dal grado di amore e di unione con Dio cui è giunto colui che l'esercita, è evidente che un principiante non sarà neppure capace di un apostolato fecondo. Impegnarsi anzì tempo nell'attività apostolica significa, quindi, disperdere inutilmente le energie, con la conseguenza di danneggiare la propria vita interiore e di non portare alcun frutto per gli altri. Gesù stesso, benché, essendo Dio, non ne avesse affatto bisogno, ha voluto dedicare i primi trent'anni della sua vita alla preghiera ed al ritiro, quasi per indicarci che prima di slanciarsi nell'apostolato esterno è necessario maturare lo spirito negli esercizi della vita interiore. Per gli Apostoli avvenne qualche cosa di simile: i tre anni trascorsi con Gesù furono anni di vera formazione. Il Signore li istruiva, li ammoniva, insegnava loro a pregare, a praticare le virtù e solo qualche volta, timidamente, perché ne facessero la prova, affidava loro qualche missione. Poi, prima di inviarli definitivamente alla conquista del mondo, ha voluto che temprassero il loro spirito nutrendosi della sua Carne, assistendo alla sua Passione e infine riunendosi nel Cenacolo ad attendere la venuta dello Spirito Santo. E così la genuina prassi cattolica esige che, prima di scendere in campo, gli apostoli si preparino nell'esercizio di un'intensa vita interiore, onde rendersi strumenti atti e fecondi per il bene delle anime.
 
-no della Pentecoste quando gli Apostoli, «ripieni di Spirito Santo, cominciarono a parlare in varie lingue, secon
-do che lo Spirito dava loro d'esprimersi » (At. 2, 4). Pri
-ma di allora i dodici erano poveri uomini, ottusi, deboli,
-pieni di paura. Ma ecco che lo Spirito Santo s'impossessa
-di essi e li trasforma in uomini di fuoco, pronti a dare
-la vita per rendere testimonianza al Signore.
+**2** — L'urgenza delle opere apostoliche — urgenza che oggi si fa sentire sempre più pressante — non può giustificare un'affrettata preparazione all'apostolato. Che cosa varrebbe buttare nella mischia un maggior numero di soggetti quando questi, per mancanza di formazione, sarebbero incapaci non solo di conquistare terreno, ma anche di sostenere l'urto delle forze nemiche? Non basta l'entusiasmo e la buona volontà, occorre robustezza di vita interiore, occorre saldezza d'idee e di propositi, occorre spirito di sacrificio e unione con Dio; diversamente, oltreché non giovare al bene altrui, si metterà in pericolo la sorte degli stessi apostoli. All'urgenza dell'apostolato bisogna provvedere intensificando anzitutto la formazione di coloro che vi si dedicano, perché solo anime ancorate in Dio mediante un'intensa vita interiore saranno capaci di sostenere l'impeto, talvolta travolgente, dell'attività esterna e di vivificare tale attività con la fiamma dell'amore.
 
-Come allora, così oggi lo Spirito Santo può rinnovare
-il grande miracolo; come allora, anche oggi può — anzi
-vuole — prendere poveri uomini, deboli So e trasformarli in apostoli ardenti. Qual'è la condizione che Egli
-richiede? Una docilità così fine, delicata da diventare piena disponibilità di fronte alla sua presenza operante, ai
-suoi impulsi, alle sue iniziative. Ciò esig nell'apostolo un
-vero senso della sua dipendenza dal divino Paraclito, senso che deve tradursi in pratica in una cura diligente per
-mantenersi, anche in mezzo all'attività, in continuo contatto con lui, sempre attento alle sue ispirazioni e pronto
-ad assecondarle. AI pari del vento, lo Spirito Santo « soffia
-dove vuole e tu ne odi la voce, ma non sai donde venga
-nè dove vada» (Gv. 3,8); la sua ispirazione ci può sorprendere in mezzo all'attività non meno che nella preghiera, bisogna dunque imparare a trattare interiormente con
+«Un uomo perfetto — dice S. Teresa di Gesù — fa assai di più di un gran numero d'imperfetti» *(Cam.* 3, 5,); è quindi di somma importanza che coloro che si danno all'apostolato siano seriamente incamminati verso la perfezione, verso la santità; solo così potranno dare Dio alle anime e portare le anime a Dio. Tutta la storia della Chiesa è una dimostrazione pratica di questo principio: «Uno solo era S. Paolo e quanti ne attrasse!... Se tutti i cristiani fossero come S. Paolo quanti mondi potrebbero convertire!» *(S. Giov. Crisostomo)*. Il S. Curato d'Ars aveva ben poche risorse umane, eppure convertì un numero sterminato di anime proprio in forza della sua santità, del suo amore, della sua unione con Dio.
 
-lui anche mentre all'esterno si tratta con le creature. Questo
-atteggiamento è particolarmente necessario nei contatti diretti con le anime; allora più che mai l'apostolo deve invocare lo Spirito Santo, deve tenersi sotto il suo influsso
-deve lasciarsi guidare da lui. Le anime sono. di Dio e bisogna diri; rerle non secondo lo spirito roprio, ma secondo lo Spirito di Dio. La piena disponibilità esige una gran
-de fede, una grande fiducia nell'azione onnipotente e trasformante dello Spirito Santo; solo così l'apostolo avrà il
-coraggio di lasciarsi adoperare per qualsiasi opera, pur riconoscendosene inetto; solo così avrà il coraggio di affrontare con generosità qualsiasi sacrificio, pur sentendo
-tutta la sua debolezza. Lo Spirito Santo non vi è stato
-dato invano; Egli è în noi e, purchè ci diamo totalmente a lui, può trasformarci in «strumenti cletti » per Ja
-gloria di Dio e per la salvezza delle anime.
+Le impellenti esigenze dell'apostolato esterno mettono più che mai a fuoco l'esigenza di apostoli ben formati, di apostoli di profonda vita interiore, di apostoli santi. Perciò, anche quando è terminato il periodo della formazione, bisogna sempre vigilare affinché l'attività esterna non venga in nessun modo a sminuire la vita interiore. Bisogna sempre mantenere l'equilibrio fra la preghiera e il lavoro in modo che l'apostolo non esaurisca le sue energie spirituali, ma abbia il tempo sufficiente per rifornirsi, per riprendere e mantenere il contatto intimo con Dio.
 
 ### Colloquio
 
-«O Gesù, vorrei illuminare le anime come i profeti
-e ì dottori. Vorrei percorrer la terra predicando il tuo
-Nome e piantando sul suolo infedele la tua Croce gloriosa,
-o Diletto! Ma una sola missione non mi basterebbe: vorrei ad un tempo annunziare il Vangelo in tutte le parti
-del mondo e fino alle isole più remote. Vorrei essere missionario, non solamente a corso di qualche anno, ma
-vorrei esserlo stato fino dalla creazione del mondo e continuare a essere tale fino alla consumazione dei secoli.
-«Ma comprendo che tutti non possono essere ad un
-tempo apostoli, profeti e dottori, comprendo che i doni
-iù perfetti sono un nulla senza l'amore, che la carità è
-la via migliore per giungere a te, Dio mio! È la carità
-che mi porge la chiave della mia vocazione. Comprendo
-che, se la Chiesa ha un corpo composto di varie membra,
-l'organo più necessario e di tutti il più nobile non le manca; comprendo che essa ha un cuore e che questo cuore
-arde d'amore; comprendo che solo l'amore fa agire le sue
+«O Signore, desidero grandemente che avendo Tu tanti nemici e così pochi amici, questi almeno ti siano devoti. Perciò determino di fare il poco che dipende da me: osservare i consigli evangelici con ogni possibile perfezione e pregare per i difensori della Chiesa, per i predicatori, per i dotti che la sostengono. O Signore, giacché io non sono così forte per difendere direttamente la tua Chiesa, voglio procurare che siano almeno forti le mie preghiere per aiutare questi tuoi servi, che con tanti sforzi e sudori si sono agguerriti di scienza e di buona vita, ed ora si affaticano per difendere il tuo nome.
 
-membra e che, se l'amore venisse ad estinguersi, gli apostoli non annunzierebbero mai più il Vangelo e i martiri
-rifiuterebbero di versare il loro sangue. Comprendo ancora che l'amore racchiude in sè tutte le vocazioni, che Vamore è tutto ed abbraccia tutti i tempi e tutti i luog]
-poichè esso è eterno!
+«Dio mio, voglio essere tale da meritare da te queste due cose: la prima, che nel gran numero dei santi e dotti personaggi che oggi difendono la Chiesa, vi siano molti che abbiano le necessarie prerogative, e che Tu le conceda a coloro che non le hanno del tutto, perché un uomo perfetto fa assai di più di un gran numero d'imperfetti. E la seconda, che una volta gettatisi in questa lotta, Tu li sorregga con la tua mano, affinché si guardino da tutti i pericoli del mondo e attraversino questo mare burrascoso con le orecchie chiuse al canto delle sirene. Se presso te, Dio mio, posso in ciò qualche cosa, ecco che anch'io combatto per la tua gloria, benché chiusa in solitudine.
 
-«O Gesù, mio Amore, ho trovato finalmente la mia
-vocazione! La mia vocazione è l'amore! Sì, ho trovato il
-mio posto in seno alla Chiesa e questo posto, o mio Dio,
-mi è stato assegnato da te; nel cuore della Chiesa, che è
-la Madre mia, io sarò l'amore!... Così sarò tutto; così il
+«Ti scongiuro, Signore, esaudiscimi. Da parte mia non cesserò mai di supplicarti, nonostante la mia grande miseria: si tratta della tua gloria e del bene della tua Chiesa, ed è qui che convergono tutti i miei desideri. Il giorno in cui le mie orazioni, le discipline, i desideri e i digiuni miei non fossero impiegati per ciò che ho detto, non raggiungerei il fine per cui Tu, o Signore, mi hai chiamato alla vita contemplativa» *(cfr. T.G. Cam.* 1, 2; 3, 2-10).

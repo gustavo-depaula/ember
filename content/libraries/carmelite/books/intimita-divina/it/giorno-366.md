@@ -1,101 +1,27 @@
-## 366 — COMMEMORAZIONE DEI FEDELI DEFUNTI
-*2 novembre*
+## 44 — AMORE OPEROSO E FORTE
 
-### Presenza di Dio
-
-O Signore, concedi l'eterno riposo alle anime dei defunti e fa' che il pensiero della morte mi spinga a maggiore generosità.
+**Presenza di Dio.** — *O Signore, fa' che il mio amore per te non si accontenti di parole, ma si dimostri con opere generose.*
 
 ### Meditazione
 
-1 — «La Chiesa, nostra buona madre, dopo avere
-esaltato con degne lodi i suoi figli che già godono in cielo, vuole soccorrere le anime che ancora soffrono nel luogo di purificazione e per esse intercede con tutte le forze presso il Signore e suo Sposo Cristo, perchè quanto
-pra possano raggiungere la comunità degli eletti in cieo». Così leggiamo nel Martirologio romano. Ieri abbiamo contemplato la gloria della Chiesa trionfante e ne abbiamo invocato l'intercessione, oggi contempliamo le pene espiatrici della Chiesa purgante e sollecitiamo per es
-il soccorso divino: «l'eterno riposo dona loro, o Signore». È il dogma della comunione dei santi in atto: la
-Chiesa trionfante intercede per noi, Chiesa militante, e
-noi, a nostra volta, corriamo in aiuto della Chiesa purgante. La morte ci ha strappato persone care e tuttavia
-non ci può essere vera separazione da coloro che sono
-spirati nel bacio del Signore; il vincolo della carità continua ad unirci tutti, stringendo in un unico abbraccio
-terra, cielo e purgatorio, sì che da queste tre sponde
-cola l'aiuto fraterno, frutto di amore, e che mira al trionfo dell'amore nella gloria comune del Paradiso.
+**1** — «L'amore non è mai ozioso» *(T.G. M. V,* 4, 10); quando il vero amore di Dio entra in un'anima, a poco a poco genera in lei un dinamismo interiore così forte e pressante, che la spinge a cercare sempre nuovi mezzi per piacere all'Amato, che la rende industriosa per escogitare nuove maniere onde dargli prova di fedeltà. L'amore, in fatti, non si nutre di soavi sentimenti o di fantasie, ma di opere. «L'Amore — dice S. Teresa di Gesù — può paragonarsi ad un gran fuoco che bisogna continuamente alimentare per impedire che si spenga. Così queste anime [le anime in cui Dio stesso va accendendo la fiamma della carità], pur di trovare alimento e impedire che si spenga, sono pronte a gettarvi la legna dei maggiori sacrifici» *(Vi.* 30, 20). Chi ama davvero non sta ad esaminare se una cosa è facile o difficile, piacevole o disgustosa, ma a tutto pone mano per alimentare il suo amore; anzi, di preferenza va scegliendo le opere di maggior sacrificio perché comprende che l'amore non è mai così vero come quando spinge a sacrificarsi per Colui che si ama. In tal modo avviene che l'amore «produce nell'anima un ordinario soffrire per cagione dell'Amato, senza mai stancarsi. Poiché, come dice S. Agostino, l'amore rende facili e quasi un nulla anche le cose più grandi e gravose... In... [questo stato] lo spirito ha tanta forza che tiene soggetta la carne, e ne fa sì poco conto, quanto un albero non farebbe di una delle sue foglie; e in nessun modo cerca conforto e piacere, né in Dio né in altra cosa» *(G.C. N. II,* 19, 4).
 
-La liturgia del giorno è soffusa di tristezza, ma non
-è la tristezza di quelli «che non hanno speranza » (/ Tess.
-4,13) poichè su di essa splende la fede nella risurrezione
-beata, nella felicità eterna che ci attende. I tre brani scelti per i Vangeli delle tre Messe dei defunti ci parlano
-appunto di queste consolanti verità e ce ne parlano nel
-modo più autorevole, riportando le parole stesse di Gesù:
-«Questa è la volontà di chi mi ha inviato, del Padre,
+Questo spiega l'atteggiamento dei santi che, non solo abbracciavano di buon volere tutte le sofferenze che Dio poneva sul loro cammino, ma essi stessi ne andavano in cerca con cura gelosa, come l'avaro va in cerca dell'oro. Al Signore che gli domandava che cosa volesse in ricompensa dei grandi servizi che gli aveva reso, S. Giovanni della Croce, ardente d'amore, rispondeva: «Patire ed essere disprezzato per amor tuo». E S. Teresa di Gesù, vedendo prolungarsi il suo esilio terreno, trovava nella sofferenza abbracciata per Iddio l'unico modo di acquietare il suo cuore assetato di amore eterno e supplicava: «Signore, non vi domando che una cosa: o morire o patire» *(Vi.* 40, 20).
 
-che io non perda nulla di quanto mi fu dato, ma che lo
-risusciti nell'ultimo giorno» (Vg. II Messa: Gu. 6, 39).
-Quale affermazione più consolante di questa? Gesù si presenta anche oggi come il buon pastore che non vuol perdere neppure una delle sue pecorelle e non risparmia mezzi per condurle tutte in luogo di salvezza. Quasi rispondendo alle dolci promesse di Gesù, la Chiesa, piena di
-riconoscenza e di entusiasmo, esclama: « Ai tuoi fedeli,
-o Signore, la vita è mutata, non tolta; e, distrutta la casa di questa terrestre dimora, ne ottengono una eterna nel
-cielo » (Prefazio). Ben più che una fine inesorabile, la
-morte è, per il cristiano, una porta spalancata sull'eternità, porta che introduce nella vita eterna,
+In cielo non avremo bisogno di soffrire per testimoniare a Dio il nostro amore, perché allora ameremo nella chiarezza indeficiente della visione beatifica. Ma quaggiù, dove amiamo nell'oscurità della fede, abbiamo bisogno della sofferenza per provare a Dio la realtà del nostro amore.
 
-pet la morte dei nostri cari, ma anche per la nostra. La
-morte è un castigo, e quindi porta necessariamente con
-sè un senso di pena, di timore, di sgomento; anche i santi l'hanno sperimentato e l'ha voluto sperimentare anch
-Gesù. Ma la Chiesa ci mette davanti i passi scritturali pi
-atti ad incora giarci « Beati i morti che muoiono nel Signore... (poiche muoiono) per riposarsi dalle loro fatiche;
-fe loro opere infatti tengono loro dietro » (Ep. Ill Messa:
-Ap.14, 13). Muore la vita del corpo, muore ciò che è
-umano e terreno, ma resta la vita dello spirito, restano
-le opere buone compiute, unico appannaggio che segue
-l'anima nel grande passo e rende preziosa la sua morte:
-«Preziosa al cospetto del Signore la morte dei suoi santi». Questa morte è stata giustamente definita dies ratdlis,
-il giorno natalizio alla vita eterna. Come vorremmo che
-tale fosse la nostra morte! Dies matalis che ci introduce
-nella visione beatifica, che ci fa nascere all'amore indefettibile del cielo.
+**2** — «L'amore, quando è perfetto, ha la forza di farci dimenticare ogni nostra soddisfazione per far piacere all'Amato», ha la forza di farci accettare «con la medesima allegrezza tanto il dolce che l'amaro, quando in questo è il suo volere» *(T.G. Fd.* 5, 10). Evidentemente, un simile amore non può essere frutto della nostra umanità cui la sofferenza tanto ripugna, non può essere frutto di una nostra conquista per quello che supera grandemente le capacità della nostra natura tanto debole e vile. Un simile amore Dio solo lo infonde a poco a poco nelle anime che si lasciano da lui guidare attraverso la via angusta della purificazione interiore. Sì, nell'aridità, nella solitudine del cuore, nella privazione di ogni luce e conforto, lo Spirito Santo accende in esse la fiamma della carità, fiamma che tanto più le invade quanto più le trova disposte e cioè purificate da ogni cosa contraria all'amore. Quando tutte le resistenze sono vinte, tutte le scorie sono eliminate, l'amore divampa incontentibile e conferisce all'anima una forza da gigante; la fiamma dell'amore — spiega S. Giovanni della Croce — «fa uscire [l'anima] di sé e tutta la rinnova e la fa passare a nuovo modo di essere» *(C.* 1, 17). Modo così nuovo per cui, mentre prima temeva e fuggiva il patire, ora lo ama e lo abbraccia con fortezza.
 
-Ma proprio oggi la liturgia, invitandoci a pregare per
-i fedeli defunti, ci ricorda che tra la morte e la beatitudine eterna vi è il purgatorio. Appunto perchè le nostre
-opere ci seguono e nom sono tutte opere buone 0, anche
+L'anima più forte nel patire è l'anima più forte nell'amore. Nessuna creatura al mondo amò ed amerà Dio più di Maria santissima e nessuna creatura fu e sarà più forte di lei nella sofferenza. Eccola ai piedi della Croce: è madre ed assiste volontariamente all'atroce supplizio del Figlio; vede i chiodi affondarsi nelle carni, ode i colpi sordi del martello, vede la testa coronata di spine cercare invano un po' di riposo sul duro legno, vede inalzarsi la croce e il Figlio pendere sospeso fra la terra e il cielo, sfigurato dal dolore, senza il minimo conforto. Maria ha il cuore trafitto, eppure ripete il suo *fiat* con la stessa pienezza con cui lo pronunciò all'annuncio così gaudioso della sua maternità, e nell'amore trova il coraggio di offrire il Figlio diletto per la salvezza dei suoi carnefici. Quale madre potrebbe emulare la fortezza della Madonna? Eppure il suo sacrificio supera immensamente il sacrificio di qualsiasi madre, perché lei sola può dire: il Figlio che immolo è il mio Dio.
 
-se buone, sono piene di imperfezioni e*di difetti, è necessario che l'anima, prima di essere ammessa alla visione
-di Dio, venga purificata da tutte le sue scorie, Eppure,
-se fossimo perfettamente fedeli alla grazia, il purgatorio
-non sarebbe necessario. Fin da quaggiù Dio s'incarica di
-purificare coloro che si danno totalmente a lui, che si lasciano lavorare e plasmare a suo piacimento, Di più, mentre nel purgatorio si soffre senza crescere nell'amore, la
-purificazione compiuta sulla terra ha il grande vantaggio
-di essere meritoria, ossia di aumentare in noi la grazia c
-la carità e di metterci così in grado di amare maggiormente Dio per tutta l'eternità. È questo il motivo per
-cui dobbiamo desiderare di essere putificati in vita; ma
-non dobbiamo illuderci: anche su questa terra la purificazione totale richiede grandi sofferenze; se oggi non siamo generosi nel patire, se non sappiamo accettare quaggiù il patire nudo e puro, simile a quello di Gesù sulla
-croce, la nostra purificazione dovrà necessariamente compiersi nel purgatorio.
-
-Il pensiero di questo luogo di espiazione ci renda zelanti nel suffragare le anime dei defunti, e nello stesso
-tempo ci renda coraggiosi nell'abbracciare il patire in riparazione delle nostre colpe,
+Ai piedi della Croce, vicino a Maria, che l'amore e il dolore resero Regina dei martiri, impariamo il segreto dell'amore forte.
 
 ### Colloquio
 
-«Concedimi, o Signore, che alla morte dei mici cari
-io provi un'afflizione ragionevole, versando lacrime rassegnate sulla nostra condizione mortale, presto represse dal
-consolante pensiero della fede, la quale mi dice che i fedeli, morendo, si allontanano solo un poco da noi per andare a star meglio.
+«Chi ti ama veramente, o Signore, non ha che un'unica cura, contentarti. Muore dal desiderio di essere da te riamato e consuma la vita nella brama di poterti maggiormente amare. E un tale amore potrà tenersi nascosto? No, Dio mio, è impossibile! Certo, l'amore ha i suoi gradi e si manifesta più o meno a seconda della sua portata. Se è piccolo, si manifesta poco e se è grande molto. Ma, sia piccolo che grande, quando è vero amore, si fa sempre conoscere.
 
-«Fa che sia lungi da me il rattristarmi alla maniera
-dei gentili, che sono senza speranza. Posso bene provare
-tristezza; ma quando sono afflitto, mi conforti la speranza. Con una speranza così grande non sta bene che sia
-in lutto il tuo tempio, o Dio. Ivi dimori Tu che sei il
+«O Signore, fa' che il mio amore non sia frutto di immaginazione, ma sia provato con le opere. E che cosa posso fare io per te, che sei morto per noi, che ci hai creati e ci conservi nell'essere, se non ritenermi felice di poterti ripagare, almeno in parte, il molto che ti devo?
 
-consolatore; ivi dimori Tu, che nelle promesse non falli »
-(S. Agostino).
+«Deh, fa', o Signore, che anche per me spunti finalmente il giorno in cui possa alquanto soddisfare al molto di cui ti sono debitrice! Costi quel che costi, o Signore, ma non permettere più che io ti venga innanzi con le mani vuote, dato che il premio sarà in proporzione delle opere. Conosco il poco che mi valgo, ma unita a te sarò capace di tutto.
 
-«O Padrone e Creatore dell'universo, Signore della
-vita e della morte, Tu conservi e colmi di benefici le nostre anime: Tu compi e trasformi ogni cosa con l'opera
-del tuo Verbo, nell'ora stabilita e secondo il piano della
-tua sapienza; accogli oggi i nostri fratelli defunti e dona
-loro l'eterno riposo.
-
-«Possa Tu accoglierci a nostra volta, nel momento
-che ti piacerà, dopo che ci avrai guidati e lasciati nella
-carne per il tempo che ti sembrerà utile e salutare.
-
-papi: Tu accoglierci preparati dal tuo timore, senza
-turbamento e senza esitazione, nell'ultimo giorno. Fa” che
-non lasciamo con pena le cose della terra, come avviene
-a coloro che sono troppo attaccati al mondo e alla carne: fa' che muoviamo decisi e felici verso la vita lunga
-e beata, che è in Cristo Gesù, Signor nostro, al quale
-spetta la gloria nei secoli dei secoli. Amen » (S. Gregorio
-Nazianzeno),
+«Ah, Signor mio, se chi ti ama non fa grandi cose, non è certo per te, ma unicamente per la nostra pusillanimità e codardia che c'impedisce di risolverci per davvero, pieni di timori ed umane prudenze, come sempre siamo. Per questo, o mio Dio, non esplichi le tue grandezze e meraviglie. Chi più di te è amico di dare, trovando chi voglia ricevere? Chi più largamente di te retribuisce i servizi che gli si rendono? Piaccia alla Maestà tua che qualcuno ti ne abbia reso anch'io, senza ritrovarmi maggiormente debitrice per il molto che mi hai concesso!» *(T.G. Cam.* 40, 3; *M. III,* 1, 7 e 8; *Vi.* 21, 5; *Fd.* 2, 7).

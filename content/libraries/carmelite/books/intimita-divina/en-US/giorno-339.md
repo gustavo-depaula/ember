@@ -1,53 +1,57 @@
-## 339 — THE NIGHT OF THE SPIRIT
+## 339 — FORGETFULNESS AND SELF-DENIAL
 
 ### Presence of God
 
-O Lord, infuse in me greater love and greater courage, that I may wholeheartedly accept your purifying action.
+O Lord, You who give Yourself to us even as our food, teach me to give myself to souls even to total forgetfulness of self.
 
 ### Meditation
 
-For perfect union with God, that bitter and strong purification called the night of the spirit is necessary.
+«Generous forgetfulness and strong self-denial» (Pius XII): without forgetfulness of self, even right intention would not be possible.
 
-The soul’s purification begins with the night of sense, which, placing it in darkness and depriving it of sensible taste, frees it from attachments to creatures and material goods. But it is completed only with the night of the spirit, which, annihilating it in its spiritual faculties, destroys every imperfect habit in it.
+Precisely because we are so present to ourselves, so occupied and concerned with our ego, our interests, our comfort, so eager to be loved and to receive praise and esteem, a multitude of secondary intentions tries to creep into our actions.
 
-St. John of the Cross notes with great subtlety that even after passing through the night of sense, «the stains of the old man remain in the spirit, though it may not seem so to it, nor can it perceive them»; stains so deep and hidden that the soul scarcely becomes aware of them.
+We must «go out of ourselves and out of creatures,» as St. John of the Cross would say; above all, go out of that creature we love most—our own self.
 
-Take, for example, a person detached from creatures and earthly goods, advanced in prayer and virtue, a soul that has already passed through the purgative and illuminative ways. Yet when tested, one easily finds in it a certain attachment to its good works—apostolic works, penances, devotional practices—such that when obedience or service of neighbor oblige it to leave them or replace them, it is disturbed, resists, and only with reluctance submits.
+If, for the contemplative ideal of union with God, the Saint points to the way of «nothing,» we can truly say that apostolic life asks no less, but also requires total self-denial, realized precisely by continually repeating to oneself: nothing, nothing, nothing of self.
 
-This happens precisely because roots of imperfect habits still remain, above all pride and egoism, from which all other defects and imperfections arise. What use is suppressing defective acts if the root remains in the spirit? Sooner or later that root, cut only on the surface, will sprout in another direction.
+Just as the missionary, to fulfill his vocation, must leave homeland, relatives, friends, and must abandon language, customs, and habits of his own country in order to adapt himself to those of the new one, so too—proportion kept—every apostle, even if he works in his own homeland, in his ordinary environment of work or life, must renounce many things.
 
-No one can be freed from roots of defects without passing through the painful night of the spirit. Comparing this night with that of sense, St. John of the Cross says the difference between them is «that between uprooting a root and cutting a branch, or between removing an old, deep stain and cleaning a fresh, superficial one.»
+Personal tastes, habits, cultural needs, education, and sensitivity must be generously set aside in order to adapt to others’ mentality and needs. Quiet, rest, and relief must give way to service of souls.
 
-Though very hard to do and painful to suffer, it is indispensable, because the stains of the old man are removed only «with soap and strong lye» of the Spirit’s purgation, without which the soul «can never attain the purity of divine union.»
+The apostle must not seek pleasant conversations, consoling friendships, agreeable occupations, or satisfying results. It may happen that at times he meets these things on his path, but even then he may not stop to enjoy them selfishly; he must use them as means for his apostolate and, in any case, he cannot and must not ever regulate his activity with a view to them.
 
-If much courage is needed to renounce «every sensible satisfaction not purely for God’s honor and glory,» to enter the night of the spirit much more is required, because one must renounce no longer material things but spiritual things.
+The apostle is sent «to give,» not «to receive»; to sow, not to reap. Therefore he must know how to give his time, his work, his energies, and even himself, even in environments that offer nothing comforting, even to souls from whom he will never receive satisfaction or return.
 
-One must, for example, blind one’s own intellect, deny one’s own will, renounce affirmation of one’s own personality, not only with regard to material goods but also with regard to moral and spiritual goods.
+As Scripture says of the priest, he is «appointed for men» (Heb 5:1), and the same can be said of every apostle. The apostle is not for himself, for his career, for his own interest, but for souls, for the benefit of others in all that concerns their spiritual good.
 
-In the night of the spirit the soul must walk in darkness, must be placed in emptiness not only regarding the senses but also regarding its spiritual faculties.
+Even if apostolate confers on him some authority or dignity, this is not for his honor or advantage, but only for the service of his brethren.
 
-In this night God «strips the faculties, affections, and feelings, both spiritual and sensible, exterior and interior, leaving the intellect in darkness, the will in dryness, memory empty, and the soul’s affections in deep affliction, bitterness, and anguish, depriving it of the savor of spiritual goods it formerly enjoyed.»
+The only personal advantage he can and must seek from the exercise of his apostolate is his sanctification: this is the only right the apostle can claim, the only interest he may seek for himself; all the rest must be generously sacrificed to God and to souls.
 
-So much desolation and deprivation of everything should not discourage us, because it is ordered not to death but to life, indeed to the fullness of life which is union of love with God.
+A soul truly given to apostolate no longer keeps itself. Its strength, talents, time, health, life are God’s and neighbor’s. And having given itself, it can no longer belong to itself; it can no longer dispose of itself. It has, as it were, lost ownership of all it is and all it has.
 
-Therefore the loving soul is not dismayed, not frightened. Its ideal is divine union, and it wants to attain it at any cost; no sacrifice seems too heavy if only it may arrive there.
+Its program therefore is: to give oneself by forgetting oneself, and to forget oneself in order to give oneself more.
 
-Besides, if we perceive even a little of God’s infinite perfection and know even somewhat our profound misery, we must agree that no purification, however strong and painful, can be excessive when we, unworthy and miserable as we are, must be disposed for union with Him who is infinite goodness, purity, and beauty.
+And this not only in moments of enthusiasm, in bright days when souls respond, when works flourish, when strength is vigorous, but also in moments of darkness, in gray days when everything seems to collapse under difficulties; even when the tired body asks some rest, work weighs heavily, energies diminish, and because of inner and outer struggles it is very hard to remain at one’s post.
 
-Nor can the sufferings this purification imposes seem unbearable compared with the immense good they are to procure.
+Yes, even in hours of abandonment and trial, the apostle must continue to give himself with equal constancy and generosity.
 
-«So great is the good I await that every pain is delight,» the soul in love with God repeats with St. Francis; and this good it expects already here below, because it knows God does not refuse to admit to His union the spirit well disposed, that is, totally purified.
+If he did not do so willingly—that is, with true spirit of sacrifice—it would be impossible for some ill humor, discontent, reluctance, or impatience not to appear in his conduct, and this would greatly lessen both his ascent and his action.
+
+But where can one find strength to remain always at the level of such a high gift of self? In the Eucharist. There Jesus gives Himself to us even to becoming our nourishment.
+
+And if the apostle—called to prolong the Master’s mission—cannot imitate Him by literally giving himself as food to souls, he can at least imitate Him by putting himself at their disposal to the point of letting himself be «eaten» by them, that is, letting himself be consumed in their service.
 
 ### Colloquy
 
-«O my soul, when, becoming better, will you be freed from your passions and vicious tendencies? When will the root of every evil be dried up in you? When will every trace of sin be erased in you? Oh, if you loved your God ardently! If you were indissolubly united to your sovereign Good!
+«O Lord, make me understand well that my work has value for eternity in proportion to the love with which I do it, and not to the success it may or may not have. Even if I do not see its fruits, what does it matter, provided You see them? You want me to work in a spirit of faith without seeking my own satisfaction.
 
-«Good Jesus, tender Shepherd, my sweet Master, King of eternal glory, when shall I appear without stain and truly humble before You? When, for love of You, shall I deeply despise all things here below? When shall I be wholly detached from myself and from every thing?
+«I feel that I am mother of souls and that I must sacrifice myself for them with the greatest generosity, because the salvation of many may depend on my correspondence to grace. Lord, I am a poor little nothing, but I offer You everything.
 
-«For if I were truly free from every earthly attachment, I would no longer have my own will. I would no longer groan under the yoke of passions and disordered affections, nor seek myself in anything.
+«O Father, I offer You your divine Son. Take me and dispose of me for your greater glory.
 
-«The lack of this absolute and total detachment is the only true obstacle between You and me, which prevents me from freely soaring toward You. When then shall I be stripped of everything? When shall I abandon myself without reserve to your divine will? When shall I serve You with spirit pure, humble, calm, serene? When shall I love You perfectly?
+«O Lord, You press me insistently and constantly toward an ever more generous, total sacrifice. I feel the need to give, to give myself to You, to reserve nothing for myself.
 
-«When shall my soul, receiving You within itself, unite delightfully with its Beloved? When shall I spring toward You with tender and ardent desire? When shall my negligence and imperfections be absorbed in the immensity of your love?
+«Therefore I want to renew my offering to You so that You may take me wholly, transform me, and use me for your glory and for the salvation of souls; so that You may deign to complete in me what is lacking in your Passion, for the benefit of your Body, which is the Church, content to find in my day many practical occasions to carry out this offering» (cf. Sr. Carmela of the Holy Spirit, O.C.D.).
 
-«O my God, my life, my love, my only desire! My treasure, my good, my principle and my end! My soul longs for your tender embrace, languishes and faints with desire to unite with You, to be held intimately to You with the sweet and holy bond of an indissoluble love! What do I seek in heaven? What do I desire on earth? The God of my heart...»
+«O Lord, prayer and sacrifice make up all my strength; they are my invincible weapons, and I know by experience that, more than words, they can move hearts» (St. Thérèse of the Child Jesus).

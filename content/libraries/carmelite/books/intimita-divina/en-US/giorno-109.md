@@ -1,123 +1,104 @@
-## 109 — HUMILITY OF HEART
+## 107 — HUMILITY IN FALLS
 
 ### Presence of God
 
-— O Jesus, meek and humble of heart, make my heart like Yours.
-
 ### Meditation
 
-1 — Only once did Jesus expressly say:
-"learn from Me," and He said it precisely with regard to humility: "Learn from Me, for I am meek and humble of
-heart" (Mt. 11, 29). Knowing well how difficult the practice of true humility would be for our proud nature,
+1 — If you consider your misery without raising your eyes
+to God, Father of mercies, you will easily remain suffocated and discouraged. And if you examine yourself well, you will see that discouragement always derives from two causes intimately connected with each other: one is that, having relied on your own strength, your pride has been wounded and disappointed by the setback suffered; and the other is that, not having counted on God,
+you did not think of having recourse to Him and, just as you did not know how to have recourse to Him to succeed in good, so you did not know how to have recourse to Him when you fell into evil. In short, you acted
+alone: by yourself you tried to succeed, by yourself you fell, by
+yourself you considered your fall. The result of such conduct can only be discouragement; for how,
+in fact, will you find in yourself strength to rise again, when
+precisely for lack of strength you find yourself on the ground? But God
+does not want you to act alone. "Woe to him who is alone -
+says Sacred Scripture - because, when he falls, he has no one
+to raise him up" (Eccl. 4, 10). Woe to the man who relies his
+footsteps on his own strength: when he falls he will not have at his disposal God's strength to raise him,
+and so he will remain in his misery, dejected and confused.
+As you must not formulate good resolutions without counting on God's help to keep them, so you must not consider your falls without considering at the same time divine
 
 
-it seems He wanted thus to give us a particular encouragement. His example, His unheard-of
-humiliations, which made Him "the reproach of all and
-the outcast of the people" (Ps. 21, 7), which for us "made
-Him sin" (II Cor. 5, 21) and bearer of all our iniquities, to the point of being "numbered among the malefactors" (Mk.
-15, 28), are the greatest spur and the greatest invitation
-to the practice of humility.
+mercy, because as God is the only one who can help you
+succeed in good, so He is the only one who can help you rise
+from evil.
 
-Jesus speaks directly to us of humility of heart,
-because, to be sincere, every virtue, every reform of life
-must always begin from the heart, from which thoughts
-and actions come. An external bearing, humble speech, are
-vain without humility of heart; indeed they are often the mask
-of a refined and therefore more dangerous pride. "Clean first what is inside - Jesus said, stigmatizing the hypocrisy of the Pharisees - and the outside will become clean as well"
-(Mt. 23, 26). And St. Thomas teaches that "from interior
-disposition to humility proceed the signs in words,
-gestures, deeds, by which there is manifested outwardly what
-is hidden inwardly" (II-II, q. 161, a. 6, co.).
-
-Therefore, if you want to be truly humble, apply yourself first
-to humility of heart, entering ever more deeply into
-sincere recognition of your nothingness, your poverty.
-Know how to recognize sincerely your defects, your faults,
-without wanting to attribute them to any cause other than your own
-miserableness; know how to recognize the good in you as pure
-gift of God, never making yourself its master.
+This is why all the saints have insisted
+that knowledge of self must never be disjoined from knowledge of God and vice versa. St. Teresa of Jesus says: "The soul that trains in self-knowledge must rise,
+from time to time, to consider God's greatness and majesty.
+In this it will discover its own misery better than by remaining in itself, and will be less troubled by unclean little animals," that is, by its own miseries (M. I, 2, 8).
 
 
-2 — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which al-
-ways pushes us to exalt ourselves; easy, because we do not need to go far to seek its motives, but have them
-- and in abundance - in ourselves, in our
-miserableness. Nevertheless, it is not enough to be miserable to be
-humble, but humble is only he who sincerely recognizes his own
-miserableness and acts accordingly.
+2 — "True humility, however deep it may be, never disquiets; it never agitates, never disturbs the soul, but floods
+it with peace, sweetness, and rest... it expands it and renders it more
+able to serve God." Whereas "the devil's humility
+disturbs, upsets, throws everything into confusion and is very burdensome. If the evil one wants to make us believe we are humble,
+I think it is then to induce us, if he can, to distrust God" (T.G. Way 39, 2).
 
-To this recognition, man, proud by instinct,
+Lack of trust and disturbance diminish
+the capacity to love, and the devil's aim is precisely
+to keep souls from the way of love. He tempts thus
+especially those who would never yield
+to open temptations of sin. In this case one must react,
+remembering that, as St. Therese of the Child Jesus teaches,
+"what offends Jesus and wounds His heart is lack of confidence"
+(Lt. 71).
 
-
-cannot arrive without God's grace, but since God
-denies no one the necessary graces, turn to Him and,
-with trust and perseverance, ask Him for humility of heart.
-Ask it in the name of Jesus who so humbled Himself for the glory
-of the Father and for your salvation, "ask in His name and
-you shall receive" (cf. Jn. 16, 24). If then, despite your sincere desire to become humble, you often feel movements of pride, vainglory, vain self-complacency stirring in
-you, instead of being cast down, recognize in this the fruit of your bad
-nature and use it as a new motive to humble
-yourself.
-
-Remember also that you can always practice humility
-of heart, even when you cannot perform particular acts
-of external humility, even when no one humiliates you and you are
-instead marked by others' trust, esteem, and praise.
-In similar circumstances St. Therese of the Child Jesus said:
-"Nothing can inspire me with vanity, because the
-memory of my miseries is continually present to me"
-(St. 10); and you think that, as "blame does not make you more contemptible, so others' praise does not make you holier"
-(Imit. II, 6, 3). Indeed, the more others exalt you, the more
-seek to humble yourself in your heart. Practiced in this way,
-humility of heart will make you conceive such a low opinion
-of yourself that you will no longer know how to prefer yourself to anyone, but all you will esteem better than yourself and more worthy than you of
-esteem, respect, consideration, and thus you will remain at peace,
-never being disturbed either by desire to surpass others,
-or by humiliations you may receive. Interior peace
-
-
-is fruit of humility; indeed Jesus said: "Learn
-
-
-from Me for I am meek and humble of heart, and you shall find rest - requiem - for your souls" (Mt. 11, 29).
+Distrust in God's mercy, even following grave
+falls, is never a sign of true humility, but
+rather of subtle pride and diabolical temptation. If
+Judas had been humble, instead of despairing, he would have known,
+like Peter, how to ask pardon and weep over his sins.
+Humility is the virtue that makes us stay in our place; now our
+place before God is that of weak and
+miserable children, yes, but trusting. When, after so many resolutions, you
+see yourself falling again into the same faults; when,
+after so many efforts, you still cannot conquer certain defects,
+overcome certain difficulties and, in one way or another, you find yourself far below what you should and would like to be,
+have recourse to the infallible remedy of humility. "Humility - says
+St. Teresa of Jesus - is the ointment that heals every wound"
+(M. III, 2, 6). Even if it seems to you that you have exhausted every
+strength, even if you feel incapable of everything and see yourself
+always on the ground unable to rise, one possibility still remains, that of humbling yourself. Humble yourself,
+humble yourself with sincerity and trust; and humility
+will supply for all your miseries, heal all your wounds,
+because it will draw down upon
+them divine mercy.
 
 ### Colloquy
 
-O Jesus, meek and humble of heart, heal me of pride,
+"O Lord, my misery no longer causes me amazement
+and I do not grieve so much to see that I am weakness
+itself; on the contrary, I glory in this weakness and
+every day I expect to discover within me always
+new imperfections. I confess it, Lord, these lights on my
+nothingness do me better than lights concerning
+faith...
+
+"What illusion!... Would we want never to fall? What
+does it matter to me, O Jesus, to fall at every instant. I see in this
+my weakness and it is a great gain for me. You thereby see
+what I am capable of, and thus You will be obliged to carry me
+in Your arms... If You do not do so, it means that You
+like to see me on the ground... therefore I will not be disturbed,
+but I will always stretch toward You my supplicating
+and loving arms! I cannot believe that You will abandon me.
+"O Jesus, it is true, I am not always faithful; but I never
+lose courage, I abandon myself in Your arms and,
+like a little drop of dew, I sink myself ever more deeply
+in Your chalice, O divine Flower of the fields, and there I find again all I have
+lost and still more.
+"After all my blunders, instead of hiding in
+a corner and weeping there over my misery, I turn to You,
+O
 
 
-make my heart humble Yourself, infuse in me a little
-of Your most profound humility. For You know better
+my Beloved, and recount in detail all my infidelities,
+thinking, in my audacious abandonment, to gain more empire,
+to draw to myself fully Your love;
+since You did not come to call the righteous, but sinners.
 
-
-than I: how could I, with my proud will, make my heart humble? A poor man cannot give riches to himself, a proud man cannot give humility to his
-heart. Only Your infinite goodness can remedy
-pride.
-
-"And the remedy is this: to fix one's gaze on You, Incarnate
-Word hanging upon the cross; and seeing the soul
-humbled thus looking at You, You soon move to
-look upon it, and with Your gaze You do as the sun's ray does on the earth, which by its heat dries and disposes it
-to bear fruit. So do You, O Word, who by the ray of
-Your gaze dry the soul, drawing to Yourself all the pride in it,
-to consume it with Your heat. No one, therefore, can acquire humility unless he fixes his gaze on You, Word on the cross" (St. Mary Magdalene de' Pazzi).
-
-"O Word, You humbled Yourself unto death on the cross,
-even to willing to be treated as the least of men by
-
-
-sinners, by demons, by the Holy Spirit, and by Your eternal
-
-
-Father. And all this to glorify the Father, to repair
-the offense done to the Father by our pride, to confound
-and destroy our arrogance, to teach us to detest
-vanity and to love humility. Oh, how truly one can say
-that pride dishonors God and that it most grievously displeases God, since to repair such dishonor it was necessary that You, Son of God, come to be so humbled! Oh,
-how truly one can say that vanity is a monstrous thing,
-since to annihilate it You willed to reduce Yourself
-to so low a degree of abasement! Oh, how one must
-believe that in God's eyes humility is a truly precious treasure and gem most pleasing to Him, since You,
-His divine Son, willed to be so humbled to make us
-love this virtue, to stir us to imitate You in the practice
-of it, and to merit for us the grace to perform its works"
-(St. John Eudes).
+"I am happy to feel myself thus imperfect and to have such
+need of Your mercy. When one accepts with sweetness the humiliation of having been imperfect, Your grace,
+O Lord, returns at once" (T.B.G. St. 9; Lt. 65, 122,
+175; NV.).

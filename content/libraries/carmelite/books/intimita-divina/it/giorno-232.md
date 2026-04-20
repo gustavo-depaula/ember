@@ -1,97 +1,25 @@
-## 232 — LA DIVINA PROVVIDENZA
+## II — LA VISITA DI MARIA AD ELISABETTA
 
-### Presenza di Dio
-
-O mio Dio, che tutto ordini e disponi per altissimi fini, insegnami ad affidarmi pienamente alla tua divina Provvidenza.
+**Presenza di Dio.** — *O Madre mia, Maria Santissima, sii sempre il mio modello, il mio sostegno, la mia guida.*
 
 ### Meditazione
 
-1. — «La sapienza divina — dice la S. Scrittura — si
-estende con potenza da un'estremità all'altra del mondo e
-tutto governa con bontà» (Sap. 8, 1). La sapienza divina
-si identifica così con la divina provvidenza che tutto ordina,
-dispone, guida al raggiungimento di un fine ben determinato: fine ultimo e supremo, la gloria di Dio; fine prossimo e
-secondario, il bene e la felicità delle creature. Nulla esiste
-senza motivo, nulla avviene a caso nel mondo, ma tutto, assolutamente tutto rientra nel grandioso piano della divina
-provvidenza, piano in cui ogni creatura, anche l'infima fra
-tutte, ha il suo posto, il suo scopo, il suo valore, in cui ogni
-avvenimento, anche il più insignificante, è fin dall'eternità
-previsto ed ordinato nei suoi minimi particolari. In questo
-piano vastissimo e meraviglioso tutte le creature, dalle più
-sublimi — come gli angeli — alle più umili — come le gocce
-di rugiada e i fili d'erba — sono chiamate a portare il loro
-contributo all'armonia ed al bene dell'insieme.
+**1** — «In quei giorni Maria si pose in viaggio e andò in fretta in una regione montuosa, in una città di Giuda», così leggiamo nel Vangelo di oggi. Nella fine delicatezza della sua carità, Maria sente profondamente le necessità altrui sì che, appena le avverte, subito si muove, spontanea e decisa, per porgere aiuto. Ha saputo dall'angelo Gabriele che la sua cugina Elisabetta è prossima ad esser madre e, senza por tempo in mezzo, si mette in viaggio per andare ad offrirle i suoi umili servizi. Se consideriamo le difficoltà dei viaggi in quei tempi in cui i poveri — come lo era Maria — o dovevano camminare a piedi su strade malagevoli o, al massimo, potevano valersi di qualche misero mezzo che per caso incontravano per via, e che, inoltre, la Vergine si trattenne tre mesi presso Elisabetta, comprendiamo che, per compiere questo atto di carità, la Madonna dovette affrontare non pochi disagi. Ma di questi non si preoccupa affatto: la carità la spinge, del tutto dimentica di sé, perché, come dice S. Paolo, «la carità non è egoista» *(I Cor.* 13, 5). Pensa quante volte, forse, non per risparmiarti un viaggio disagiato, ma unicamente per evitare un piccolo disturbo, hai tralasciato qualche atto di carità; pensa quanto sei tardo e pigro nel porgere aiuto ai tuoi fratelli. Guarda Maria e vedi quanto hai bisogno di imparare da lei!
 
-Se certe situazioni ci sembrano incomprensibili, se non
-riusciamo a capire la ragion d'essere di circostanze e di creature che ci fanno soffrire, è perchè non sappiamo scoprire
-il posto che esse hanno nel piano della divina provvidenza
-in cui tutto è ordinato al nostro ultimo bene. Sì, anche la
-sofferenza è ordinata al nostro bene e Dio, che è bontà infinita, non la vuole e non la permette se non a questo scopo.
-Noi crediamo ciò in teoria, ma facilmente lo dimentichiamo
-in pratica sì che, quando ci troviamo davanti a situazioni
-oscure e dolorose che vengono a spezzare o ad intralciare i
-nostri progetti, i nostri desideri, ci smarriamo e sulle labbra
-ci sale la domanda angosciosa: « Perchè Dio permette questo? ». Eppure, la risposta non manca mai ed è universale ed
-infallibile come universale ed infallibile è la provvidenza divina: Dio lo permette unicamente per il nostro bene. E'
-questa la grande convinzione di cui abbiamo bisogno per non
-scandalizzarci di fronte alle prove della vita. « La condotta
-di Dio è tutta bontà e fedeltà per coloro che osservano il
-patto e gli ordini di lui » (Sal. 24, 10); possiamo dubitare di
-noi, possiamo dubitare della nostra bontà e della nostra fedeltà, ma non di Dio che è bontà e fedeltà infinita.
+La carità rende Maria non solo dimentica dei suoi disagi, ma anche della sua dignità, la più grande dignità che una pura creatura abbia mai avuto. Elisabetta è anziana, ma Maria è Madre di Dio; Elisabetta sta per dare alla luce un uomo, ma Maria darà alla luce il Figlio di Dio. E, nondimeno, Maria, davanti alla cugina, come davanti all'Angelo, continua a considerarsi l'umile ancella del Signore e nulla più. E, appunto perché si considera ancella, si comporta come tale anche in pratica, anche riguardo al prossimo. Non è forse vero che, se ti sai umiliare di fronte a Dio, ti sai riconoscere imperfetto nel segreto del tuo cuore, ti dispiace poi di apparire tale di fronte al prossimo e sei pronto a risentirti se qualcuno ti tratta come tale? Non è forse vero che ti viene a far valere la tua dignità, la tua cultura, le tue capacità, gli uffici e le cariche più o meno onorevoli che ti sono state affidate? La tua dignità è un nulla, eppure ne sei tanto geloso; la dignità di Maria rasenta l'infinito e lei si ritiene e si comporta come se fosse l'ultima di tutte le creature.
 
-2. — Dopo averci creato, Dio non ci ha lasciato in balìa
-di noi stessi ma, come tenera madre, continua ad assisterci
-ed a provvedere a tutte le nostre necessità: « Potrà forse una
-donna dimenticare il suo bambino?... e se pur questa lo potrà dimenticare — dice il Signore — io non mi dimenticherò
-mai di te» (Is. 49, 15). Ogni uomo può, con tutta verità,
-ritenere queste parole come rivolte a lui in particolare e, di
-fatto, la provvidenza di Dio è così immensa e potente che,
-mentre abbraccia l'universo intero, nello stesso tempo si prende una cura speciale di ognuna delle sue creature, anche delle
-più piccole. Proprio sotto questo aspetto Gesù ci ha presentato la provvidenza del Padre celeste: « Nemmeno un passe
-ro cade in terra senza il permesso del Padre vostro... Non temete, dunque, voi siete da più di molti passeri» (Mt. 10,
-29 e 31). Come Dio non ci ha creato a serie, ma crea individualmente l'anima di ogni uomo che viene al mondo, così la sua divina provvidenza non si limita ad assisterci in
-blocco, ma ci assiste uno per uno, ben conoscendo tutte le
-nostre necessità, le nostre difficoltà e perfino i nostri desideri
-e ben sapendo quel che più conviene al nostro vero bene.
-Una mamma, anche la più sollecita, può ignorare qualche
-bisogno del figlio suo, può dimenticarlo, può sbagliare nel
-provvedervi o essere nell'impossibilità di farlo; ma ciò non
-accadrà mai a Dio la cui provvidenza tutto sa, tutto vede,
-tutto può. Nemmeno il più piccolo passero è dimenticato,
-nemmeno il più umile fiore del campo è trascurato. «Considerate — dice Gesù — come crescono i gigli del campo;
-essi non lavorano e non filano. Tuttavia... neppur Salomone...
-fu mai vestito come uno di essi. Se dunque Dio riveste così
-l'erba del campo, che oggi è e domani vien buttata nel forno, quanto più a maggior ragione vestirà voi, o uomini di poca
-fede?» (Mt. 6, 26-30). La provvidenza di Dio ci circonda da
-tutte le parti; di essa viviamo, per essa ci moviamo e siamo e,
-nondimeno, siamo così tardi a credere in essa, così diffidenti!
-Come abbiamo bisogno di dilatare il cuore in una fiducia,
-in una confidenza più grande, anzi, illimitata, poichè illimitata è la divina provvidenza!
+**2** — «... ed Elisabetta ad alta voce esclamò: 'Benedetta Tu sei fra tutte le donne e benedetto il frutto del tuo seno. E in grazia di che mi è concesso che la Madre del mio Signore venga a me?'». Interiormente illuminata dallo Spirito Santo, Elisabetta riconosce nella giovane cugina la Madre di Dio e, commossa, prorompe in accenti di lode e di ammirazione. Maria non protesta, ascolta con semplicità perché sa bene che quelle parole di plauso non spettano a lei, ma solo all'Onnipotente che ha operato in lei grandi cose e subito dal suo cuore umilissimo tutte le lodi di Elisabetta rimbalzano in Dio con moto spontaneo e rapidissimo: «Tu, Elisabetta, magnifichi la Madre del Signore — dice la Vergine — ma 'l'anima mia magnifica il Signore'. Tu affermi che alla mia voce il tuo figlio ha esultato di gioia nel tuo seno, ma 'il mio spirito esulta in Dio, mio Salvatore'... Tu proclami felice colei che ha creduto, ma il motivo della sua fede e della sua felicità è lo sguardo che la bontà divina ha rivolto su di lei. Sì, 'tutte le generazioni mi proclameranno beata, perché Dio ha rivolto i suoi sguardi sulla bassezza della sua ancella'» (S. Bernardo). Questa bella parafrasi del *Magnificat* serve a cogliere al vivo il movimento dello spirito di Maria: si sprofonda nell'umile confessione del proprio nulla, tocca, per così dire, il fondo della sua bassezza e poi, quanto più è discesa in basso, tanto più s'innalza in alto, si eleva in Dio, non temendo di riconoscere e di lodare le grandi cose che Egli ha compiuto in lei, appunto perché vede perfettamente che ciò è puro dono suo.
+
+Se di fronte ai tuoi successi, alle lodi, al plauso delle creature, se di fronte alle grazie che Dio ti concede, sei ancora suscettibile di vana compiacenza, è proprio perché non hai ancora toccato, come Maria, il fondo della tua bassezza, non ti sei abbastanza sprofondato nella considerazione del tuo nulla, non sei ancora praticamente convinto della tua radicale insufficienza, impotenza, miseria, debolezza. Chiedi a Maria la grande grazia di introdurti in questa conoscenza chiara e pratica del tuo nulla; non farti illusioni, la via per giungervi, per te che hai ereditato da Adamo il germe dell'orgoglio, è una via aspra e dura: la via delle umiliazioni. Ma Maria è Madre; e, se lei ti accompagna, tutto, col suo aiuto, diventerà più facile e soave.
 
 ### Colloquio
 
-«O mio Dio, avendo creato il mondo, Tu lo reggi e lo governi con bontà mirabile. Tu fai nascere le piante, le fai
-germogliare, a suo tempo fai sbocciare i fiori e poi i
-frutti. Tu governi il sole, la luna, i pianeti e, insomma,
-hai creato tutto con mirabil ordine e tutto hai fatto per
-l'uomo. L'uomo, poi, hai fatto solo per te e vuoi riposarti in
-lui, nè vuoi che egli si riposi e quieti in altro che in te. Tu
-non hai bisogno della creatura, eppure poni in
-essa il tuo riposo, affinchè lei ti possa poi godere e goderti a faccia a faccia, insieme
-con te. La tua provvidenza divina, o Signore, è tale che Tu
-hai cura di tutti come se fossero uno solo; e di uno solo, come
-se in quello fossero tutti racchiusi. Oh, se la tua provvidenza
-fosse compresa, ogni creatura lascerebbe le cose di questo
-mondo e seguirebbe te per potersi unire con la tua provvidenza!» (S. M. Maddalena de' Pazzi).
+«O Maria, come è eminente la tua umiltà nell'affrettarti al servizio altrui! Se è vero che chi in umiltà sarà esaltato, chi lo sarà più di te che ti sei tanto umiliata?
 
-«Benefico sei, o Signore, verso tutti, e la tua pietà si
-spande su tutte le tue creature. Ti lodino, o Signore, tutte
-le tue fatture e ti benedicano i tuoi devoti. Gli occhi di tutti
-a te si rivolgono in attesa e Tu dai a tutti, a suo tempo, il
-loro cibo; allarghi la mano e colmi di favori ogni vivente.
-Tu rendi giustizia agli oppressi, dai il pane agli affamati,
-sciogli i prigionieri, apri gli occhi ai ciechi, risani
-i cuori affranti e ne fasci le piaghe.
-Tu copri i cieli di nubi, apparecchi alla terra la pioggia, e
-fai crescere l'erba sui monti; dai il loro cibo agli animali,
-ai piccoli corvi ciò che domandano. O Signore, tutte le creature si effondano nel ricordo della tua immensa bontà e acclamino alla tua liberalità!» (cfr. Sal. 144; 145; 146).
+«Al vederti, Elisabetta si meraviglia ed esclama: 'Donde a me tanto onore, che la Madre del mio Dio venga a me?' Ma è ancor più grande la mia meraviglia nel vedere che tu, come il tuo Figlio, sei venuta non per farti servire, ma per servire... Proprio per questo motivo ti reci da Elisabetta: Tu, la Vergine, presso la donna sposata, la Regina presso la serva, la Madre di Dio presso la madre del Precursore. Tu che darai alla luce il Figlio di Dio presso colei che darà alla luce uno schiavo.
+
+«Ma la tua umiltà profondissima non ha per nulla diminuito la tua magnanimità: la tua grandezza d'animo non ha per nulla offeso la tua umiltà. Tu, così piccola ai tuoi occhi, sei stata pure così magnanima nella fede, nella tua speranza nell'Altissimo, che mai hai dubitato delle sue promesse ed hai creduto fermamente che saresti diventata la Madre del Figlio di Dio.
+
+«L'umiltà non ti ha resa pusillanime, né la magnanimità altera, ma queste due virtù si sono fuse perfettamente in te!
+
+«O Maria, Tu non puoi rendermi partecipe dei tuoi grandi privilegi di Madre di Dio: questi appartengono unicamente a te! Ma Tu vuoi rendermi partecipe delle tue virtù e a tal fine mi proponi i tuoi esempi. Se, dunque, mi mancheranno l'umiltà sincera, la fede magnanima, la carità delicata e compassionevole, in qual modo mi potrò scusare?... O Maria, o Madre di misericordia, Tu, piena di grazia, nutri con le tue virtù noi tuoi poverelli!» (cfr. S. Bernardo).

@@ -1,59 +1,21 @@
-## 348 — AMOR ESTIMATIVO
+## 26 — MARTA E MARIA
 
-### Presença de Deus
-
-Meu Deus, Bem sumo e infinito, faze que nada eu estime mais do que a ti e nada eu prefira a ti.
+**Presença de Deus.** — *Ó Senhor, que eu te ame com o coração de Maria e ao mesmo tempo te sirva com a dedicação de Marta.*
 
 ### Meditação
 
-1 — «Sabes o que é amar-me de verdade? — dizia o Senhor a Santa Teresa de Jesus — Convencer-se de que é mentira tudo o que não me agrada» (*Vida*).
+**1** — Duas são as grandes atrações que dominam na alma que se entregou seriamente a Deus: a atração à oração solitária e silenciosa para mergulhar em Deus, para escutar sua voz, para penetrar seus mistérios e sobretudo para unir-se mais intimamente a Ele; e, ao mesmo tempo, a atração ao apostolado, ao sacrifício ativo e generoso pela salvação dos irmãos. Para recolher-se em Deus, a alma "quereria fugir dos homens e inveja grandemente os que vivem e viveram nos desertos. Ao mesmo tempo, quereria lançar-se no meio do mundo para conseguir que também uma só alma louvasse mais a Deus" *(T.G.M.* VI, 6, 3). É este o duplo movimento da caridade, que, sendo amor de Deus e amor do próximo juntamente, impele para a união com Deus e para o serviço do próximo; faltando um desses movimentos, a caridade não seria plena. O desenvolvimento da vida interior comporta essa dupla atração, a qual é índice e meio de progresso e, ao mesmo tempo, é também tormento para a alma que ainda não sabe equilibrar-se bem entre as duas tendências. A qual das duas dará prevalência? À ação ou à contemplação? Na prática, o problema deve ser resolvido com base nas exigências dos deveres do próprio estado, nas disposições da obediência, nas circunstâncias concretas permitidas por Deus. O desejo de contemplação que viesse distrair ou desviar a alma do cumprimento do dever não estaria conforme à vontade de Deus, e Deus tem pleno direito de pedir até a renúncia desse desejo para darmos-nos ao serviço do próximo. A Madalena, feliz por ter finalmente reencontrado e desejosa de deter-se a seus pés, Jesus ressuscitado ordenava: "Vai a meus irmãos" *(Jo.* 20, 17), e ela, dócil, partia a anunciar a ressurreição. Por outro lado, é verdade também o contrário: aos Apóstolos, voltados da pregação, Jesus dizia: "Vinde à parte para um lugar solitário" *(Mc.* 6, 31), convidando-os assim a suspender a atividade apostólica para refazer seu espírito no silêncio e na oração, a sós com Ele. O caminho certo, que nos impede de desviar num sentido ou noutro, é sempre o do dever, da vontade de Deus, da inspiração interior, controlada por quem tem autoridade para dirigir as almas.
 
-Ainda que sem som de palavras, o Espírito Santo dá esta lição a toda alma que se deixa por Ele plasmar e purificar; quanto mais Ele a ilumina sobre a verdade de sua miséria e da miséria de todas as criaturas, tanto mais a alma se desgosta delas e delas retira toda esperança, chegando realmente a estimar Deus acima de tudo, preferindo-o a qualquer outro.
+**2** — Para harmonizar interiormente a atração ao apostolado e a atração à união com Deus, é necessária uma solução mais profunda que não pode vir do exterior, mas só do interior, e que consiste em maior progresso nos caminhos do espírito, até chegar a grau mais alto de amor. O amor é a única raiz da qual brotam ação e contemplação; é a única força que, alimentando ao mesmo tempo essas duas atividades, consegue enfim fundi-las em plena harmonia para que deem os melhores frutos. Nascidas do único tronco de um amor já progredido, ação e contemplação fundem-se no amor perfeito.
 
-A atitude dessa alma torna-se então muito semelhante à de São Paulo, que exclamava: «Considero todas as coisas como perda diante de... Cristo Jesus, meu Senhor, por amor do qual tudo perdi e tudo tenho por lixo, para ganhar Cristo» (Fl 3,8).
-
-O amor estimativo que o Espírito Santo infunde na alma através das trevas purificadoras é tão forte que ela está disposta a realizar qualquer sacrifício, enfrentar qualquer obstáculo, sofrer qualquer humilhação e dor para conquistar seu Deus.
-
-«Na verdade — diz São João da Cruz — é tão grande o amor estimativo que lhe traz, embora no escuro e sem senti-lo, que não só suporta alegre os padecimentos, mas bem de boa vontade daria mil vezes a vida para agradá-lo.»
-
-Notemos que a alma não sente nem goza seu amor; ele não vem acompanhado de doçura e suavidade; contudo é amor tão real que a conduz efetivamente a realizar até as coisas mais difíceis «para ir ao encontro do seu Amado.»
-
-Notemos também que não se trata de veleidades, de desejos inoperantes que logo desabam diante dos casos concretos de sacrifício; trata-se, ao contrário, de uma decisão tão forte da vontade que nada vale para removê-la.
-
-Quando essa alma compreendeu que para unir-se a Deus é necessário decidir-se a determinado passo, já não olha para nada: nem para as repugnâncias da natureza, nem para as vozes do amor-próprio ou do egoísmo, nem para o que os outros poderão dizer ou pensar dela; mas lança-se de cabeça, com grande audácia.
-
-2 — Outro efeito do grande amor estimativo por Deus é que «o mais grave dos sofrimentos [que a alma possa sofrer] consiste na dúvida tormentosa de ter perdido Deus e de ter sido abandonada por Ele» (São João da Cruz).
-
-Assim como não se preocupa com ganho algum que não seja o ganho de Deus, assim a alma não se preocupa com perda alguma que não seja a perda d’Ele.
-
-Tudo lhe pode ser tirado: saúde, riquezas, honras, estima, confiança, afeto das criaturas mais queridas e essas mesmas criaturas; mas jamais suportaria que lhe fosse tirado Deus ou lhe fosse impedido de amá-lo.
-
-Assim pensavam e agiam os santos. Assim pensava Santa Teresa Margarida do Coração de Jesus, a qual, no imenso desejo de amar Deus, protestava estar disposta a sofrer até as penas do inferno para obter tal graça; e a quem lhe perguntava como poderia suportar tormentos tão indizíveis, respondia sem hesitar: «Creio que o amor os tornaria toleráveis e talvez até doces, porque só o amor faz superar tudo.»
-
-Assim pensava Santa Teresa de Jesus, que deixou às suas filhas esta bela lembrança: «Teu desejo seja ver a Deus; teu temor, perdê-lo; tua dor, não possuí-lo; tua alegria, no que te puder conduzir a Ele.»
-
-Esta é a característica do verdadeiro amor: criar na alma uma única preocupação, um único temor, um único desejo, uma única alegria, todos centrados somente em Deus.
-
-Se queres ver até que ponto chega teu amor estimativo por Deus, examina tua conduta e procura descobrir o motivo último de tuas preocupações, temores, desejos e alegrias; se esse motivo não é Deus, mas sim as criaturas, teus interesses e tua satisfação, deves convir humildemente que ainda não chegaste a estimar Deus acima de todas as coisas, porque pões «numa mesma balança Deus e o que d’Ele dista infinitamente».
-
-Perscrutando mais a fundo teu coração, verás que não raro pões no mesmo plano tua vontade e a vontade de Deus, teus gostos e seu beneplácito, teus interesses e sua glória, teu comodismo e seu serviço.
-
-Mais ainda: enquanto em teoria protestas estimar Deus acima de tudo, muitas vezes na prática dás preferência não aos seus quereres, gostos e interesses, mas aos teus; e precisamente assim cais em tantas imperfeições.
-
-Persuade-te: «onde há verdadeiro amor de Deus não entra amor de si mesmo, nem das próprias coisas» (São João da Cruz).
+A caridade perfeita faz com que a alma recolhida em contemplação aos pés do Senhor seja sumamente operosa e fecunda para o bem dos irmãos: "Um pouquinho desse puro amor" - o amor solitário que floresce no contato íntimo com Deus - "traz maior utilidade à Igreja do que todas as outras obras juntas... Portanto - declara São João da Cruz - quando uma alma tivesse um pouco desse amor solitário, far-se-ia grande dano a ela e à Igreja se a quisessem ocupar em coisas exteriores ou ativas, embora muito importantes" *(G.C.C.* 29, 2 e 3). Nas regiões do amor puro, isto é, da caridade perfeita, contemplação e apostolado se identificam, completam-se e exigem-se mutuamente. Chegada a este grau, a alma contemplativa é maximamente apostólica, e a maior atividade que pode desenvolver em benefício dos irmãos é justamente a da sua oração solitária, nutrida de amor, nutrida de sacrifício e de imolação. Por outro lado, a caridade perfeita faz também que a alma empenhada nas obras apostólicas seja, ao mesmo tempo, mais que nunca unida a Deus, mais que nunca contemplativa. O amor a fixou de tal modo em Deus que, mesmo durante o trabalho, seu olhar interior está sempre voltado para Ele, para nutrir-se da sua presença divina, para refletir na própria conduta suas perfeições infinitas, para regular-se em todas as coisas segundo a expressão do seu beneplácito. Justamente assim, no ápice da vida espiritual, ação e contemplação se fundem em unidade e perfeita harmonia. "Crede-me - escreve Santa Teresa de Jesus - para hospedar o Senhor, tê-lo sempre conosco, tratá-lo bem e oferecer-lhe alimento, é necessário **que** Marta e Maria estejam de acordo... Dá-se de comer ao Senhor quando se faz o possível para ganhar muitas almas as quais, salvando-se, o louvem eternamente" *(M.* VII, 4, 12). Daí compreendemos como todos os grandes contemplativos foram grandes apóstolos, e os grandes apóstolos foram grandes contemplativos.
 
 ### Colóquio
 
-«Confesso-te, amabilíssimo Filho de Deus, minha culpa: não sei com que juízo deixei arrastar meu coração, criado para ti, pelos afetos das criaturas e o enlameei com a conversação profana da terra.
+"Ó Senhor, o desejo de escutar tua divina palavra, a necessidade de calar-se, é às vezes tão forte que eu queria não saber fazer outra coisa senão ficar a teus pés, como Madalena, para penetrar cada vez mais naquele mistério de amor que Tu vieste revelar-nos. Mas Tu me ensinas que, se a alma nunca se afasta de ti, pode permanecer sempre absorta na contemplação, mesmo quando, na aparência, cumpre o ofício de Marta. Deste modo, ó Senhor, o entendo e quero exercer o apostolado: poderei irradiar-te, poderei dar-te às almas se não me afastar de ti, fonte divina. Ajuda-me, ó doce Mestre, a estar bem perto de ti, a pôr-me em comunhão com tua Alma, a fazer meus todos os teus afetos para depois ir como Tu cumprir a vontade do Pai.
 
-«Não a realidade, mas a aparência do amor artificialmente pintado me enganou e me afastou de ti e da dulcíssima lei do teu verdadeiro e único amor. Mas agora que com tua luz expulsaste minhas trevas, rejeito toda beleza mundana e escolho-te, Filho de Deus e da beatíssima Virgem, para amar-te com um pacto de amor eterno.
+"Que potência exerce sobre as almas o apóstolo que nunca se afasta da fonte das águas vivas! Faze, ó Senhor, que eu possa ser um destes. Tudo posso deixar que a onda transborde e se espalhe ao redor, sem perigo de minha alma vir a encontrar-se vazia, porque está em contínua comunicação contigo, o Infinito.
 
-«Sem ti, Bondade e Beleza infinita, nenhuma criatura pode ter verdadeiros bens, nem fora de ti minha alma pode achar satisfação alguma, pois Tu lhe deste tamanha capacidade e fome de infinito que, por força viva, ela não pode querer nem buscar outro bem fora de ti.
+"Meu Deus, digna-te invadir todas as potências da minha alma; faze que em mim tudo seja divino e leve teu selo, para que eu seja em mim um outro Cristo que trabalha para tua glória.
 
-«Volto o olhar para a terra, ó Filho do Altíssimo, e todas as coisas me parecem pequenas e imperfeitas em comparação contigo.
-
-«Se me fossem dadas todas as dignidades do mundo, todas as belezas da criação, todas as comodidades da vida; se estivesse em meu poder tudo o que há de grande, honroso, rico e admirável no mundo e eu pudesse possuir todos esses bens reunidos para toda a eternidade, jamais mudaria minha escolha; mas com ardentíssimo afeto cantaria: busco e buscarei sempre tua face, Senhor.
-
-«Fecha, Senhor, meu coração para que nele não entrem afetos humanos e faze que eu não veja, não sinta, nem prove coisa criada alguma, nem criatura alguma se apegue a mim com detrimento do teu puro amor.
-
-«Basta-me Tu, Bem infinito, para preencher todos os meus desejos e saciar esta fome que me crucia; nenhum outro bem, nem sequer todos os outros bens reunidos, me bastam; antes, depois de prová-los todos, eu ficaria morto de fome e languiria em extremo abandono, privado de ti» (Venerável João de Jesus Maria, O.C.D.).
+"Ó Senhor, quero trabalhar tanto para tua glória! Quero doar-me inteiramente a ti, deixar-me penetrar pela tua seiva divina; sê Tu a vida da minha vida, a alma da minha alma, e faze que eu permaneça sempre vigilante e consciente sob tua ação divina" *(cf. E.T. Lt.)*.

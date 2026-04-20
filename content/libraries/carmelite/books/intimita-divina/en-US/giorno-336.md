@@ -1,53 +1,49 @@
-## 336 — THE HOLY SPIRIT AND APOSTOLATE
+## 336 — THE FORMATION OF APOSTLES
 
 ### Presence of God
 
-I recollect myself in the intimate sanctuary of my soul to seek there God, living in me by grace.
+Accept, Lord, my poor prayer for the coming of your kingdom.
 
 ### Meditation
 
-St. Therese of the Child Jesus understood this very well when, after reviewing all possible vocations and recognizing that they were still insufficient to satisfy her immense apostolic desires, she concluded: «At last I have found my vocation! My vocation is love!... In the heart of the Church, my Mother, I shall be love. Thus I shall be everything.»
+As for the apostolate of prayer and sacrifice, no caution is needed, since the more a soul devotes itself to these, the more it will benefit the good of neighbor and at the same time draw great profit for its own sanctification. In fact, the weapons of the interior apostolate coincide perfectly with the fundamental exercises of the spiritual life.
 
-But where can we draw such full and transforming charity? We must not forget that the principal source of charity is the Holy Spirit, the personal term of the love of the Father and the Son, the eternal breath of their mutual love.
+The same cannot be said of the external apostolate, which by its very nature necessarily requires concerns and occupations different from those regarding one’s own individual profit.
 
-This Holy Spirit «has been given» to us; He is «ours»; He dwells in our hearts precisely to pour into them that supernatural charity which makes us burn with love for God and for souls: «The charity of God is poured forth in our hearts by the Holy Spirit who is given to us» (Rom 5:5).
+A soul only little initiated into the interior life cannot have the capacity to attend at once to its own sanctification and that of others, but must have time first to concentrate its strength on its own spiritual formation.
 
-By communicating to men the flame of divine charity, by associating them with His infinite love, the Holy Spirit is the secret animator and sustainer of every apostolate. «He,» teaches Pius XII, «with His heavenly breath of life, is the principle of every vital and truly salutary action ... in the Mystical Body of Christ» (*Mystici Corporis*). He is the soul of the Church.
+Besides, if the apostolate draws its efficacy from the degree of love and union with God reached by the one who practices it, it is clear that a beginner will not yet be capable of a fruitful apostolate. To engage too early in apostolic activity therefore means dispersing one’s energies uselessly, with the consequence of harming one’s interior life and bearing no fruit for others.
 
-Do we want to be apostles? Let us open wide our hearts to the outpourings of the Holy Spirit, so that His charity may invade and penetrate us to the point of absorbing our poor love into itself.
+Jesus Himself, although as God He had absolutely no need of it, wished to devote the first thirty years of His life to prayer and recollection, as if to show us that before launching oneself into the external apostolate one must mature the spirit in the exercises of the interior life.
 
-When a soul’s love is united to the «living flame of love,» which is the Holy Spirit, until it «becomes one with it,» then it becomes life-giving love in the heart of the Church. Only thus is the great ideal realized: «In the heart of the Church, I shall be love! Thus I shall be everything.»
+For the Apostles something similar happened: the three years spent with Jesus were years of true formation. The Lord instructed them, warned them, taught them to pray and to practice the virtues, and only now and then, timidly, to let them make trial of it, entrusted them with some mission.
 
-To arrive at this supreme summit of love and apostolate, we must day by day, moment by moment, correspond to the impulses of the Holy Spirit; we must docilely surrender to His action; we must let ourselves be directed and governed by Him.
+Then, before sending them definitively to conquer the world, He wanted them to temper their spirit by nourishing themselves with His Flesh, witnessing His Passion, and finally gathering in the Cenacle to await the coming of the Holy Spirit.
 
-Above all, we must conform ourselves to the movement of His infinite charity, which in total fullness springs toward the Father and the Son and then pours itself over souls to draw them all into the blessed Trinity.
+Thus genuine Catholic practice demands that, before going out into the field, apostles prepare themselves through the exercise of an intense interior life, so as to become fit and fruitful instruments for the good of souls.
 
-2 — Let us think of Pentecost, when the Apostles, «filled with the Holy Spirit, began to speak in various tongues, according as the Spirit gave them utterance» (Acts 2:4). Before that, the Twelve were poor men, dull, weak, full of fear. But then the Holy Spirit took possession of them and transformed them into men of fire, ready to give their life in witness to the Lord.
+The urgency of apostolic needs, ever more pressing today, cannot justify hasty preparation for apostolate. What would it profit to throw into the fray a greater number of persons if these, for lack of formation, were incapable not only of gaining ground but even of withstanding the clash of hostile forces?
 
-As then, so today the Holy Spirit can renew that great miracle. As then, so today He can—and indeed wants to—take poor and weak men and transform them into ardent apostles.
+Enthusiasm and good will are not enough. There must be robustness of interior life, firmness of ideas and resolutions, a spirit of sacrifice and union with God; otherwise, far from helping the good of others, one will endanger the fate of the apostles themselves.
 
-What condition does He require? A docility so refined and delicate that it becomes complete readiness before His active presence, His impulses, His initiatives.
+The urgency of apostolate must be met first of all by intensifying the formation of those who dedicate themselves to it, because only souls anchored in God by an intense interior life will be capable of sustaining the sometimes overwhelming momentum of external activity and of vivifying that activity with the flame of love.
 
-This demands in the apostle a true sense of dependence on the divine Paraclete, a sense that must become practical in diligent care to remain, even amid activity, in continual contact with Him, always attentive to His inspirations and ready to follow them.
+«One perfect man,» says St. Teresa of Jesus, «does much more than a great number of imperfect ones» (*Way of Perfection*). It is therefore of the highest importance that those who give themselves to apostolate be seriously set on the way to perfection, toward holiness. Only thus will they be able to give God to souls and bring souls to God.
 
-Like the wind, the Holy Spirit «bloweth where He will, and thou hearest His voice, but knowest not whence He cometh or whither He goeth» (Jn 3:8). His inspiration can surprise us in activity no less than in prayer. We must therefore learn to deal inwardly with Him even while outwardly dealing with creatures.
+The whole history of the Church is a practical demonstration of this principle: «One alone was St. Paul, and how many he drew!... If all Christians were like St. Paul, how many worlds they could convert!» (St. John Chrysostom). The holy Curé of Ars had very few human resources, yet he converted an immense number of souls precisely by the power of his holiness, his love, and his union with God.
 
-This attitude is especially necessary in direct contact with souls. Then more than ever the apostle must invoke the Holy Spirit, remain under His influence, and let himself be guided by Him. Souls belong to God and must be directed not according to our own spirit but according to the Spirit of God.
+The pressing demands of the external apostolate highlight more than ever the need for well-formed apostles, for apostles of profound interior life, for holy apostles. Therefore, even when the period of formation has ended, one must always remain vigilant lest external activity in any way diminish interior life.
 
-Complete availability requires great faith and great trust in the omnipotent and transforming action of the Holy Spirit. Only thus will the apostle have courage to let himself be used for any work, even while acknowledging himself unfit; only thus will he have courage to face with generosity any sacrifice, even while feeling all his weakness.
-
-The Holy Spirit was not given to us in vain. He is in us and, provided we give ourselves totally to Him, He can transform us into «chosen instruments» for God’s glory and the salvation of souls.
+One must always maintain balance between prayer and work so that the apostle does not exhaust his spiritual energies, but has sufficient time to replenish himself, to renew and maintain intimate contact with God.
 
 ### Colloquy
 
-«O Jesus, I would like to enlighten souls like prophets and doctors. I would like to traverse the earth preaching your Name and planting your glorious Cross on unbelieving soil, O Beloved. But one mission would not be enough for me: I would like at the same time to proclaim the Gospel in every part of the world and even to the most remote islands.
+«O Lord, I greatly desire that, since You have so many enemies and so few friends, these at least may be devoted to You. Therefore I resolve to do the little that depends on me: to observe the evangelical counsels with every possible perfection and to pray for the defenders of the Church, for preachers, for the learned who support her.
 
-«I would like to be a missionary not only for a few years, but to have been one from the creation of the world and to continue to be one until the consummation of the ages.
+«O Lord, since I am not strong enough to defend your Church directly, I want at least to make my prayers strong in order to help these your servants, who with so many efforts and labors have armed themselves with learning and good life, and now toil to defend your name.
 
-«But I understand that not all can be apostles, prophets, and doctors at once; I understand that the most perfect gifts are nothing without love, and that charity is the better way to reach You, my God. Charity gives me the key to my vocation.
+«My God, I would like to be such as to merit from You these two things: first, that among the great number of holy and learned persons who today defend the Church, there may be many who possess the needed qualities, and that You grant them to those who do not possess them fully, because one perfect man does much more than a great number of imperfect ones.
 
-«I understand that if the Church has a body composed of different members, she does not lack the most necessary and noblest organ: she has a heart, and that heart burns with love. I understand that only love makes her members act, and that if love were extinguished, apostles would no longer preach the Gospel and martyrs would refuse to shed their blood.
+«And second, that once they have entered this struggle, You sustain them with your hand, so that they may guard themselves from all dangers of the world and cross this stormy sea with ears closed to the song of the sirens. If with You, my God, I can do anything in this, behold I too fight for your glory, although enclosed in solitude.
 
-«I understand further that love contains all vocations, that love is everything, and embraces all times and all places, because it is eternal.
-
-«O Jesus, my Love, at last I have found my vocation! My vocation is love! Yes, I have found my place in the bosom of the Church, and this place, O my God, You have assigned to me: in the heart of the Church, my Mother, I shall be love!...»
+«I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me ...»

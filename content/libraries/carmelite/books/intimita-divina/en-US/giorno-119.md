@@ -1,20 +1,127 @@
-## 119 — COME AND FOLLOW ME
+## 117 — THE MULTIPLICATION OF THE LOAVES
+*Fourth Sunday of Lent*
 
 ### Presence of God
 
-— O Jesus, who for us became obedient unto death on the cross, teach me to follow Your example.
+— O Jesus, true bread of eternal life, satisfy my hunger.
 
 ### Meditation
 
-1 — To the young man who aspired to perfection, Jesus said: "If you wish to be perfect, go, sell what you have and give it to the poor [and this is the counsel of evangelical poverty] ... then come and follow me" (Mt. 19). This, St. Thomas teaches, is the counsel of voluntary obedience. In fact, to follow Jesus means to imitate His virtues, and among these obedience certainly stands in the first rank. Jesus comes to earth to fulfill the will of His Father: "behold, I come to do Your will, O God" (Heb. 10, 7), and many times during His life He expressly attests this: "I came down from heaven not to do my own will, but the will of Him who sent me" (Jn. 6, 38); indeed He declares that His food, that is, the support and center of His life, is precisely doing His Father's will (cf. Jn. 4, 34). But Jesus also willed to make concrete His dependence on the heavenly Father by subjecting Himself to those creatures who, according to the natural order, had some authority over Him as man. Thus for thirty years He lived wholly subject to Mary and Joseph, recognizing in their authority the authority of the Father. "He was subject to them" (Lk. 2, 51), says the Gospel, summing up in these few words the long period of the Savior's private life. During His public life, then, and above all during His Passion, He always gave the example of obedience to constituted authority, both religious and civil, subjecting Himself even to judges and executioners, becoming "obedient unto death, even death on a cross" (Phil. 2, 8). Having come into the world in obedience, Jesus willed to live in obedience, and in obedience He embraced death, repeating in the garden of olives: "Father... not my will, but Yours be done" (Lk. 22, 42). To follow Jesus in the perfect life therefore means to embrace voluntarily a life of total dependence; and St. Thomas, relying precisely on this argument, concludes that obedience belongs to the essence of the state of perfection.
+1 — Today's Sunday is a pause of holy gladness, of
+spiritual refreshment that the Church, as a good mother,
+offers us halfway through the austere Lenten practices,
+almost to restore our strength. "Rejoice, O Jerusalem -
+sings the Introit of the Mass - and all you that love her,
+exult with joy and be filled with the abundance of her
+delights." What are these delights? The Gospel of the day
+(Jn. 6, 1-15) answers us with the account of the multiplication
+of the loaves, the great miracle by which Jesus
+willed to dispose the crowds for the announcement of a miracle
+far more astounding, the institution of the Eucharist, whereby He,
+the Master, would become our bread, "the living bread
+come down from heaven" (Jn. 6, 41) for nourishment of
+our souls. Here is the reason for our joy; here is the source
+of our delights: Jesus is the bread of life, always at
+our disposal to satisfy our hunger.
+
+But Jesus, though valuing spiritual values far better
+than we do, does not forget and does not despise man's
+material needs. Today's Gospel presents Him surrounded
+by a multitude that had followed Him to listen
+to His teachings; Jesus thinks of that people's hunger,
+and to provide for it He works one of the most astounding miracles:
+five loaves and two fish, blessed by Him, suffice to feed
+five thousand men, with twelve baskets left over.
+
+Jesus knows that when man is tormented by hunger,
+by material necessities, he is incapable of attending to things
+of the spirit. Charity also requires in us this understanding
+of others' material needs, an effective understanding
+translated into practical action. "If a brother or sister
+be naked and in need of daily food, and one of you says:
+'Go in peace...' without giving them the things
+necessary for the body, what does it profit?" (Jas. 2, 15 and 16).
+
+The Apostles had proposed to the Master to dismiss
+the crowd so that all could go "to buy themselves
+something to eat" (Mt. 14, 15). Jesus did not accept,
+and willed to provide personally. You too should try, as far as
+you can, never to send away a needy neighbor
+without giving him your help.
 
 
-2 — To follow Jesus also means to put fully into practice His invitation: "if anyone wishes to come after me, let him deny himself" (Mt. 16, 24). Now, the greatest renunciation a man can make is precisely that of his freedom, subjecting himself in all things to obedience. In fact, "nothing is dearer to man than the freedom of his own will, because by means of this he is master also of other things, can use and enjoy other things, and is master also of his own acts. And just as man, by leaving riches or kindred persons, denies them, so by leaving the freedom of his own will, by which he is master of himself, he comes to deny himself" (St. Thomas - The Perfection of the Spiritual Life). For this reason the vow of obedience is the greatest and most meritorious sacrifice man can offer to God.
+2 — Before working the miracle Jesus asks
+Philip: "Where shall we buy enough bread to feed these people?" and the Evangelist observes: "He said this to test him,
+for He Himself knew what He would do." There is no difficult circumstance in our life whose solution God does not know; for every case,
+even the most intricate, He has foreseen and keeps ready
+the remedy from all eternity. Yet before difficult
+circumstances, at times He seems to leave us alone, as though
+the solution had to come from us; but He does this only
+to test us. He wants us, measuring ourselves alone
+against difficulties, to realize more deeply our
+impotence and insufficiency; and on the other hand, He wishes
+to exercise us in faith, in trust in Him. In reality,
+the Lord never abandons us unless we are first
+to leave Him; He only hides Himself and hides His work
+in darkness: then is the time to believe, to believe
+firmly, and to wait with humble patience, with
+full trust.
 
-Here lies precisely the sacrifice of obedience: to let oneself be governed by another in one's own life. Every man is free, has received freedom from God and therefore has the right to govern himself according to his own judgment and views; now, whoever promises obedience freely renounces this right, making of it a free holocaust for the service, worship, and glory of God. As the holocaust of the chosen people was the victim wholly consumed in God's honor, with no part spared, so the vow of obedience immolates the whole man in God's honor. In this way obedience sacrifices to the very end our personality - or, more precisely, sacrifices everything in it that is selfish, everything that is attachment to personal views, inclinations, and demands; and in this sense nothing more than obedience helps us free ourselves from self-love, strip ourselves of self. But at the same time, far from destroying personality, obedience employs it in the most beautiful, greatest, and most glorious way, that is, in renouncing itself so as to adhere totally to God, to the holy and sanctifying will of God.
+The Apostles inform Jesus that a boy has five
+loaves and two fish: very little indeed, rather nothing, to feed
+five thousand men; yet the Lord asks for a nothing,
+and uses it to work the great miracle. It is always
+thus: almighty God, who can do all things and create from
+nothing, when He stands before a free creature,
+does not will to act without its cooperation. Very little is
+what man can do, but God wills that little, asks it,
+requires it as the condition of His intervention. Only the Lord can sanctify you, just as only He could multiply
+the little provisions of the boy; yet He asks for
+your cooperation. You too, like the boy of the Gospel,
+give Him all that is in your power, that is, present to Him every
+day your resolutions, always renewed with constancy and
+love, and He will work for you too a great miracle,
+the miracle of your sanctification.
 
 ### Colloquy
 
-"O Jesus, You who were obedient unto death, surely cannot will that a soul that loves You should go by a road different from Yours" (T.G. Fd. 5, 3). And so I decide to follow You, to tread behind You the way of holy obedience, a way hewn in the solid rock of Your examples, of Your most humble submission, of Your ineffable subordinations. "You, God, to whom Angels are subject, to whom Principalities and Powers obey, were subject to Mary and not only to Mary but also to Joseph because of Mary. That a God obey His creatures is a humility without example. O Lord, shall You abase Yourself and I exalt myself? My soul, if you disdain to imitate the example of a man, surely it will not be unworthy of you to follow your Maker. If perhaps you cannot follow Him wherever He goes, at least deign to follow Him as far as He willed to hide Himself for you" (cf. St. Bernard).
+"Lord Jesus Christ, Son of the living God, who on the
+cross, with arms outstretched, drank, for the redemption of
+all men, the chalice of unspeakable sorrows, deign
+today to give me help. Behold: I, poor, come to You,
+rich; miserable, I present myself to You, merciful: oh, grant
+that I may not depart from You empty and disappointed.
+Hungry, I come to You; do not permit that I leave You fasting;
+famished, I approach: oh, grant that I may not depart
+without having been satisfied by You; and if before eating I sigh,
+grant that after sighing I may be nourished" (St. Augustine).
 
-Yes, O Jesus, grant me to follow You on the way of obedience; grant me a deep spirit of faith so that I may always recognize in the voice of obedience Your voice, Your will. "Teach me, O Lord, to abandon myself trustfully to Your word: 'He who hears you, hears me.' Teach me to forget every will of my own, a sacrifice much valued by You, because it makes You master of that free will which You Yourself gave me. This is the gift I desire to offer You in all its fullness, without any reserve. Grant that I may be faithful to this resolve, and then, although amid nature's repugnances and in the grip of a thousand struggles, I shall come to conform myself to those who command me; in short, with pain or without pain, I shall end by submitting. I know well, O Lord, that You will not fail to help me; and, as I subject my reason and will for love of You, You will give me the means to become their master. Once master of myself, I shall be able to consecrate myself to You perfectly, offering You a pure will, so that You may unite it to Yours" (cf. T.G. Fd. 5, 12).
+Yes, I hunger for You, true bread, living bread, bread of life.
+You know my hunger, hunger of soul and hunger of body,
+and for both You have willed to provide. With Your
+doctrine, with Your Body and with Your Blood You satisfy
+my spirit, You satisfy it abundantly, setting no measure,
+except that which I myself set by the coldness of
+my love, by the narrowness of my heart. You have prepared for me a rich and bountiful table beyond all telling,
+to which, to be nourished, I need only draw near; and You not
+only receive me, but make Yourself my food and my drink,
+You give Yourself wholly to me: wholly in Your Divinity, wholly in Your
+Humanity.
+
+And then, in Your infinite goodness, You have prepared a table
+also for my body, and with Your providence You nourish it,
+clothe it, keep it alive like the lilies of the field, like
+the birds of the air. You know my necessities, my
+anguishes, my worries for the past, for the present,
+for the future, and for all You provide with fatherly love.
+O Lord, how should I not trust in You, how should I not cast
+every care of mine into You, certain that You will have a
+remedy for everything? To You then I entrust my life:
+
+life of the body, earthly life with all its necessities,
+with all its labors; life of the spirit with all its
+demands, its anxieties, with all its hunger for the infinite. You
+alone can fill the capacity of my heart; You alone can
+
+make me happy; You alone can realize my ideal of
+holiness, of union with You.

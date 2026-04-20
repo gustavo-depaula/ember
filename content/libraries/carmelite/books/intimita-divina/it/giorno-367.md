@@ -1,99 +1,25 @@
-## 367 — PRESENTAZIONE DI MARIA AL TEMPIO
-*21 novembre*
+## 45 — AMORE UNITIVO
 
-### Presenza di Dio
-
-O Maria, presenta Tu la mia offerta e la mia vita al Signore.
+**Presenza di Dio.** — *Dio mio, che hai infuso in me l'amore, fa' che questo cresca sino a condurmi all'unione con te.*
 
 ### Meditazione
 
-presentazione di Maria santissima al tempio, questo fatto
-è autorevolmente fondato sulla più antica tradizione eristiana e la Chiesa l'ha riconosciuto in modo ufficiale facendone l'oggetto di una particolare festa mariana. Maria
-Bambina, che, in tenerissima età, lascia la casa c i geni
-tori per andare a vivere all'ombra del RE ci parla
-di distacco, di separazione dal mondo, di dedizione piena
+**1** — Iddio, per mezzo della purgazione spirituale, «produce nell'anima meravigliosi effetti, illuminandola e accendendola di ardenti brame di solo amor divino, non di alcun'altra cosa» *(G.C. N. II,* 13, 11). Appunto così, a misura che si distacca dalla terra lasciando da parte ogni affetto e appetito delle creature, l'anima sale la «segretta scala» dell'amore che di grado in grado l'eleva fino al suo Creatore, «poiché solo l'amore è quello che unisce l'anima con Dio» *(ivi,* 18, 5).
 
-al servi
+Questa accensione di amore non è avvertita al principio della purificazione, perché allora «il fuoco divino svolge tutta l'opera sua più a disseccare e disporre l'anima che a riscaldarla; ma, in progresso di tempo, quando già l'ha riscaldata abbastanza, l'anima molto spesso sente l'amoroso ardore» *(ivi,* 12, 5). Il divampare dell'amore può essere accompagnato da un grande diletto spirituale; sono allora istanti di immensa gioia in cui l'anima pregusta l'unione con Dio alla quale va approssimandosi, gioia che la ripaga ampiamente di tutte le pene ed ansie sofferte nell'oscurità della notte e che l'incoraggia ad abbracciare di buon volere quelle che ancora dovrà subire per giungere all'unione perfetta. Tuttavia, giova ricordare che l'infiammazione d'amore non consiste nel gaudio che l'anima può sperimentare, bensì nella forte decisione della volontà di darsi interamente a Dio. «Del resto, tutto ciò è opera del Signore, che infonde l'amore «lasciando arida la volontà», ossia può infondere l'amore «lasciando arida la volontà» *(ivi,* 12, 7), oppure infiammandola con soave ardore.
 
-io di Dio; ci parla di consacrazione verginale all'Altissimo. Dopo di te, innumerevoli anime vergini si
-presenteranno al tempio per offrirsi a Dio, ma nessuna
-offerta sarà così pura, così totale, così accetta come quel
-la di Maria.
+Comunque, quello che ci deve interessare non è già il godere dell'amore, ma di progredire rapidamente in esso, appunto perché solo l'amore è la forza che può unirci a Dio.
 
-La Madonna è veramente la privilegiata fra tutte le
-ercature, lei che fin dai primi istanti della sua esistenza ha
-udito la grande chiamata: « Ascolta, o figlia, e guarda e
-porgi orecchio, e dimentica il tuo popolo e la casa paterna » (Sal. 44, 11). L'Altissimo si è invaghito della sua
-bellezza e la vuole tutta per sè; Maria risponde e la sua
-risposta è quanto mai pronta e completa. Simile a quella
-della Madonna deve essere la risposta delle anime che Dio
-chiama all'altare, chiama alla vita religiosa o alla consacrazione verginale nel mondo. Anche queste anime devo:
-no separarsi dal mondo, devono lasciare parenti ed am
-ci, devono distaccarsi dal loro popolo, dalla loro c:
-non SBN potrà essere una separazione materiale, ma
-sempre deve essere una separazione spirituale, ossia dell'affetto. È il cuore che deve distaccarsi, deve isolarsi,
-perchè gli eletti del Signore non possono più in nessun
-modo appartenere al mondo: «essi non sono del mondo » (Gv. 17, 14), diceva Gesù. Vivere nel mondo senza
-essere del mondo non è cosa facile, ma è cosa assolutamente necessaria per rispondere alla chiamata divina. Vi
-sono anime vergini che vengono meno alla loro vocazione di « consacrate» 0 non vi corrispondono appieno perchè sono ancora attaccate al mondo, alle sue massime,
-alle sue vanità, alle sue curiosità, alle sue mollezze, perchè non hanno avuto il coraggio di realizzare una vera
-separazione, o almeno, dopo averla iniziata, non vi sono
-rimaste fedeli. E questo può accadere non solo ad anime
-che vivono nel mondo, ma anche a quelle che vivono nel
-chiostro, perchè il mondo penetra ovunque ed ovunque
-invade i cuori non totalmente distaccati.
+Trattando questo argomento, S. Giovanni della Croce precisa: «L'inclinazione dell'anima, la forza e la virtù che ha per andare a Dio è l'amore... e quindi, quanto più gradi di amore ha, tanto profondamente entra in Dio e si concentra con lui» *(F.* 1, 13). Come la pietra nel cadere è attratta al centro della terra dalla forza di gravità, così l'anima è attratta a Dio dalla forza dell'amore. Quanto più questo amore sarà forte, tanto più sarà potente a trascinarla tutta in Dio e ad unirla interamente a lui: «l'amore più forte è il più unitivo» *(ivi).* Potrà, dunque, l'anima che desidera sinceramente unirsi a Dio, non applicarsi con tutte le sue forze a crescere nell'amore?
 
-consacrazione totale. Maria si dà tutta al suo Dio, si dà
-a lui senza riserve, si dà a lui per sempre. « Signore, nella semplicità del cuor mio ti offro oggi tutta me stessa,
-come serva devota per sempre, in sacrificio ed omaggio
-di eterna lode » (Imit.IV, 9, 1). Tali dovettero essere le disposizioni con cui la santa Bambina si offriva all'Altissimo, disposizioni 'che furono vissute con una pienezza ed
-una coerenza che sconcerta la nostra miseria, Neppure
-per un istante Maria venne meno alla sua consacrazione
-totale; Dio poté fare di lei tutto ciò che volle senza mai
-trovare la minima resistenza. Circostanze oltremodo difficili e penose riempirono Ja vita della Madonna: il dubbio di Giuseppe sull'origine della sua maternità, il viaggio a Gerusalemme in condizioni tanto delicate e disaiate, la squallida povertà in cui vede nascere il suo Bambino, la fuga in Egitto, la vita stentata di Nazaret, le ost
-lità e le malignità dei farisei verso Gesù, il tradimento di
-Giuda, l'ingratitudine di un popolo tanto beneficato ed
-amato, la condanna a morte del Figlio, il viaggio al Calvario, la crocifissione in mezzo agli insulti della plebaglia. Invano scruteremmo il cuore di Maria per scorgervi un solo moto di risentimento, di protesta, invano cercheremmo di cogliere dalle sue labbra una sola parola di
-lamento; Maria si è data totalmente a Dio e lascia che
-Dio eserciti su di lei tutti i suoi diritti di Sovrano, di Signore, di Padrone; non ha nulla da obiettare, nè si meraviglia che la sua immolazione debba giungere a tanto:
-non si è forse offerta senza riserve? Ed ora che Ja sua
-offerta viene consumata non fa che ripetere: «Fiat!
-ancilla Domini! ».
-Quanta diversità nella nostra vita di anime consacra
-tel Con quanta facilità ci riprendiamo il dono fatto a
+**2** — Ad un grado di amore imperfetto corrisponde un grado di unione imperfetta, mentre all'amore perfetto corrisponde l'unione perfetta. «Perché l'anima sia nel suo centro divino [ossia in Dio], basta che abbia un grado di amore, poiché con uno solo si unisce a Dio per grazia; e se avrà due gradi, si sarà unita e concentrata con Dio di un altro centro più addentro, e così via» *(G.C. F.* 1, 13). Proprio come la pietra la quale dal suo peso è trascinata al centro della terra, sì che quanto più pesa e non incontra ostacoli sul suo cammino, tanto più vi giunge rapidamente e va fino al centro più profondo. Così l'amore è il peso che ci trascina in Dio. Ma è vero anche l'inverso, ossia che l'amore attira Dio nell'anima nostra, perché Gesù ha detto: «Se uno mi ama, osserverà la mia parola... verremo a lui e faremo dimora presso di lui» *(Gv.* 14, 23). Basta un grado di amore, cioè basta l'osservanza della legge divina che assicuri lo stato di grazia, perché Dio si renda presente nell'anima, facendo dimora presso di lei e quindi l'anima possa vivere a lui unita; ma è evidente che a questo primo grado di amore e di grazia corrisponde un'unione con Dio molto imperfetta. In tale stato l'anima è già nel suo centro, ossia in Dio, e vive già unita a lui che si degna d'inabitarla per grazia, tuttavia le resta ancora un lungo cammino da percorrere per giungere al suo centro più profondo, cioè per penetrare nelle profondità di Dio e vivere intimamente e perfettamente unita a lui. Le tappe di questo cammino sono segnate dal progresso nell'amore; più l'anima ama, più s'immerge in Dio, e d'altra parte Dio stesso, realizzando la sua promessa, le si rende sempre più presente per grazia, invitandola ad un'amicizia e ad un'unione sempre più intima. Finché verrà un giorno in cui, «pervenuta all'ultimo grado [dell'amore], l'amore di Dio giungerà a ferirla sino al suo profondo centro, trasformandola e illuminandola secondo tutto il suo essere e le sue potenze e virtù... tanto da farla sembrare Dio» *(G.C. F.* 1, 13).
 
-Dio! Ci riprendiamo il cuore, quando lo lasciamo rioccupare dagli affetti umani; ci riprendiamo la volontà, qu
-do non sappiamo sottometterci a certe obbedienze che ci
-mortificano o ci contrariano, quando non sappiamo accettare cose che ci costano, quando ci lamentiamo, pro
-
-testiamo, difendiamo i nostri diritti. Eppure l'unico vero
-diritto dell'anima consacrata a Dio è quello di lasciarsi
-totalmente adoperare e consumare per la sua gloria.
-
-Chiediamo a Maria presentata al tempio È 'prendere
-nelle sue mani materne la nostra povera offerta, di sanarla
-e completarla con la sua, tanto pura e perfetta, di includerla e nasconderla nella sua, tanto grande e generosa,
-affinchè, così purificata e rinnovellata, possa essere gradita a Dio,
+L'amore compie il grande miracolo: attira Dio nell'anima che lo ama e lancia quest'anima in Dio; mediante l'amore una miserabile creatura s'incontra col suo Creatore e si unisce a lui in modo così intimo e perfetto da restarne trasformata e divinizzata. Quale dono più grande poteva farci Dio che crearci nell'amore, che infondere in noi l'amore, la grande forza capace di unirci a lui?
 
 ### Colloquio
 
-« (0) Diletta di Dio, amabilissima fanciulla Maria, potessi oggi io offrirti i primi anni della mia vita, per dedicarmi tutto al tuo servizio, santa e dolcissima Signora
-mia, così come Tu ti presentasti al tempio e tutta ti consacrasti alla gloria ed all'amore del tuo Dio! Ma non sono più in tempo, avendo perduto tanti anni a servire il
-mondo ed i miei capricci, quasi dimentico di te e di Dio.
-Guai a quel tempo in cui non ti ho amato! Ma è meglio
-tardi che non incominciar mai. Ecco, O Maria, che oggi
-mi presento a te e tutto mi offro al tuo servizio, per quel
-poco o molto che mi resta da vivere su questa terra; e,
-come te, rinunzio a tutte le creature e mi dedico interamente all'Amore del mio Creatore. Ti consacro, dunque,
-o Regina, la mia mente affinchè i sempre all'amore
-che Tu meriti, la mia lingua rcha ti lodi, il mio amore perchè ti ami. Accetta, o Santissima Vergine, l'offerta
-che ti presenta questo misero peccatore; accettala, ti prego, per quella consolazione che sentì il tuo cuore quando, nel tempio, ti donasti a Dio. E se tardi mi pongo al
-tuo servizio, è bene che rimetta il tempo perduto col
-raddoppiarti gli ossequi e l'amore.
+«O amatissimo Re pacifico, desiderato da tutti i cuori generosi del cielo e della terra, che con infinita soavità mi domandi di amarti con tutto il cuore, con tutta la mente, con tutte le forze, non disprezzare i miei sospiri e i desideri miei.
 
-«O Madre di misericordia, aiuta, con la tua potente
+«Dilettissimo Re, che venisti al mondo per regnare nei cuori degli uomini col dolcissimo impero della carità, fa' che io ti ami con tutto il cuore e con tutte le forze della mia mente. Fa', o Signore amabilissimo, che io non viva in me, ma in te, che sei la vita mia, e mi trasformi in te per effetto d'amore. Comunicami quel fuoco dolcissimo che arde nel tuo cuore e fa' che in tutte le cose cerchi solo te, vera pace e centro dell'anima mia. Da te altro non voglio se non che m'infiammi col tuo fuoco eterno, il quale generi in me una così grande sollecitudine per te che giorno e notte ti vada sempre cercando; fa' che questa sollecitudine mi spinga ad usare tutte le cose, a servirmi di tutte le occasioni e ad escogitare sempre nuovi mezzi per darti gusto e muovere tutte le creature a servirti, ad amarti e ad unirsi a te nel vincolo della carità.
 
-intercessione, la mia debolezza e impetrami dal tuo Gesù
-la perseveranza e la forza di esserti fedele sino alla morte;
-e fa che, servendoti sempre în questa vita, possa venire 1
-lodarti in eterno in Paradiso » (S. Alfonso)
+«Vieni in me, o dolcissimo Sposo dell'anima mia, o cuore ardentissimo e desiderosissimo del cuor mio, entra come assoluto Signore in casa tua e governala imperiosamente con il potere del tuo onnipotente amore. Vorrei oggi, o magnifico Figlio di Dio, essere attratto a te, e che la mia anima fosse trasformata nella tua e, dopo ciò, Tu fossi l'anima mia, la mia vita, l'unico conforto del mio cuore afflitto, il mio sollievo» (Ven. Giovanni di G. M., o.c.d.).

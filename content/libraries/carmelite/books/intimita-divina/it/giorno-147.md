@@ -1,104 +1,23 @@
-## 147 — LA PREGHIERA
+## VIII — FRUTTI PASQUALI
 
-### Presenza di Dio
+*Domenica in Albis*
 
-— O Signore, mi accosto a te per chiederti il vero spirito di preghiera.
+**Presenza di Dio.** — *O Gesù, come Tommaso mi accosto a te; dammi di non essere incredulo, ma fedele.*
 
 ### Meditazione
 
-1. — La preghiera consiste essenzialmente in un tratto
-intimo con Dio, in cui l’anima cerca la sua presenza per intrattenersi amichevolmente ed affettuosamente con Lui. È il
-figlio che vuole intrattenersi col Padre suo, è l’amico che vuole
+**1** — La liturgia odierna si rivolge in modo particolare ai neo battezzati che, una settimana dopo Pasqua, deponevano le vesti bianche ricevute al sacro fonte. Proprio ad essi è diretta l'affettuosa raccomandazione di S. Pietro, che leggiamo nell'Introito della Messa: « Come bambini di fresco nati, siate bramosi del latte spirituale purissimo ». Sentiamo in queste parole l'eco della sollecitudine materna della Chiesa per i suoi figli che ha rigenerati in Cristo, e soprattutto per gli ultimi nati. Ma questa sollecitudine è anche per noi; benchè battezzati appena venuti alla vita, si può ben dire che ogni anno a Pasqua, risorgendo in Cristo, rinasiamo in Lui a vita novella. Dobbiamo essere simili « a bambini di fresco nati », nei quali non to è malizia, nè frode, non è orgoglio, nè presunzione, ma tutto è candore e semplicità, fiducia e amore. È questo un bel richiamo a quell'infanzia spirituale che Gesù ci ha proposto come condizione indispensabile per giungere a salvezza: « se non vi cambierete e non diventerete come bambini, non entrerete nel regno dei cieli » *(Mt.* 18, 3). Ogni ondata di grazia, purificando e sanando l'anima nostra dal peccato e dalle sue radici, ci fa rinascere a nuova vita in Cristo, vita innocente e pura che aspira soltanto al « latte spirituale purissimo » della dottrina di Cristo, del suo amore e delle sue grazie. Anche oggi la Chiesa vuole in modo particolare orientare i nostri desideri verso la fede: fede che ci dati ad aderire a Gesù al suo essere da Lui istruiti, nutriti e guidati dal Maestro che abbiamo meditato nella settimana scorsa: « A chi crede in me, sgorgheranno dal ventre torrenti d'acqua viva... zampillante nella vita eterna » *(Gv.* 7, 38; 4, 14). Accostiamoci a Gesù con la fede semplice e sincera dei fanciulli ed Egli ci darà l'abbondanza della sua grazia, pegno di vita eterna.
 
-intrattenersi con l'Amico. Di per sè, quindi, la preghiera è
-cosa tutta intima, tutta interiore: « Per me — diceva S. Te
-resa del B. G. — la preghiera non è che uno slancio del cuore, un semplice sguardo al cielo, un grido di riconoscenza e di
-amore sia in mezzo al dolore, come in mezzo alla gioia»
-(St. 10, 401). In questo senso va intesa la tradizionale definizione della preghiera « elevatio mentis ad Deum», elevazione della mente a Dio, e non solo della mente, ma anche e
-soprattutto del cuore; elevazione che può consistere in un silenzioso movimento dello spirito, oppure può esprimersi in
-un grido, in una domanda, in un colloquio e allora si verificano gli altri aspetti della preghiera: « pia locutio ad Deum »,
-« petitio decentium a Deo », ossia pia conversazione con Dio
-e fiduciosa richiesta delle sue grazie.
+**2** — Il Vangelo odierno ha un valore tutto particolare per confermarci nella fede.
 
-Qualsiasi forma assuma, la vera preghiera non ha nulla di
-complicato, di costretto: è il respiro dell'anima che ama il suo
-Dio, è l'atteggiamento abituale del cuore che tende a Dio, che
-lo cerca, che vuol vivere con Lui, che sa che ogni bene ed ogni
-aiuto gli viene da Lui. E perciò spontaneamente, senza neppure riflettervi, l’anima passa dalla semplice elevazione a Dio,
-alla preghiera di domanda o al colloquio intimo, per poi ritornare allo slancio del cuore, allo sguardo al cielo. Intesa in tal
-modo, la preghiera è sempre possibile in qualsiasi circostanza
-e in mezzo a qualsiasi occupazione; non solo, ma per un'anima
-che ama davvero il Signore, sarebbe impossibile interromperla, come sarebbe impossibile interrompere il respiro. E
-così si comprende come tutti, anche coloro che vivono tra gli
-affari del mondo, possono adempiere la parola del Vangelo:
-«Bisogna pregar sempre» (Lc. 18, 1). L'unica condizione
-necessaria è un cuore che ama e quanto più questo amore
-sarà forte e vigoroso tanto più la preghiera sarà profonda e
-continua.
+Ci conferma nella fede il dubbio di Tommaso perchè, come dice S. Gregorio, « ha giovato più a noi l'incredulità di lui che non la fede degli altri apostoli »; se egli non avesse dubitato, nessun uomo avrebbe « messo il dito nella piaga dei chiodi e la mano nel costato » del Signore. Gesù ha avuto pietà della poca fede dell'apostolo ed anche della nostra, e gli si è dato non solo a vedere, come già aveva fatto con gli altri, ma anche a palpare, permettendo a Tommaso, l'incredulo, quel che non aveva permesso a Maria Maddalena, la fedelissima. E di qui comprendiamo la condotta di Dio: mentre Egli non nega consolazioni sensibili e segni più o meno palpabili della sua presenza ad anime ancor titubanti nella fede, spesso conduce per vie del tutto oscure coloro che si sono dati a Lui in modo irrevocabile e sulla cui fede sa di poter contare. Dio è Padre, ad ogni anima che lo cerca con cuore sincero non nega quanto è necessario per sostenere la sua fede, ma spesso rifiuta ai più forti quello che concede ai più deboli. È questo l'insegnamento che Gesù ci dà: « beati coloro che non hanno visto eppure hanno creduto ». Beati quelli che per credere in Dio non hanno bisogno di vedere, di toccare, non han no bisogno di segni sensibili, ma possono affermare senza reticenze: « Scio cui credidi » *(II Tim.* 1, 12), so in chi ho posto la mia fiducia e son sicuro di Lui. Una fede simile è più meritoria per noi poichè, fondandosi soltanto sulla parola di Dio, è totalmente soprannaturale, ed è più onorevole per Iddio poichè gli dà pieno credito, senza esigere alcuna riprova, ma anzi persevera anche in mezzo alle oscurità e ai fatti più sconcertanti, quando sembra quasi che il Cielo sia chiuso e il Signore sia sordo ai nostri gemiti.
 
-
-2. — Benchè la preghiera sia una cosa tanto semplice, non
-è sempre facile pregare e pregare bene. Anche questa è
-un'arte che s'impara studiando le varie forme e i vari metodi
-
-
-di preghiera, ma ancor più applicandosi con diligenza alla
-preghiera stessa. Mentre l'essenza della preghiera è sempre
-il movimento interiore, l'ascensione del cuore e della mente
-verso Dio, le forme, invece, sono diverse; vi è la preghiera
-vocale e quella mentale, l’orazione discorsiva e quella affettiva
-la preghiera privata e quella liturgica. Ci serviremo dell'una
-o dell'altra anzitutto conforme a quanto è richiesto dai nostri
-doveri — tutti i cristiani ad esempio, sono tenuti a certe preghiere vocali e liturgiche come la recita delle orazioni del
-mattino e della sera, l'assistenza alla S. Messa festiva ecc. —
-e poi saremo liberi di scegliere secondo la particolare attrattiva del momento, le particolari circostanze o i bisogni in cui
-ci possiamo trovare. Tutte le forme sono buone e possono servire ad alimentare il nostro amore per Iddio, purchè ci mettano realmente in contatto con Lui. È questo il punto che
-dobbiamo sempre sorvegliare, perchè qui è la sostanza della
-preghiera e se questa sostanza venisse a mancare, la forma
-non servirebbe più a nulla e il Signore potrebbe dire di noi:
-«Questo popolo mi onora con le labbra, ma il suo cuore è
-lontano da me» (Mt. 15, 8).
-
-Tuttavia, un'anima che aspira all’intimità divina, si orienterà spontaneamente verso una forma di preghiera tutta
-interiore che facilita il contatto intimo con Dio, l'unione
-silenziosa e profonda. Anzi, tutte le sue forme di preghiera
-assumeranno questa particolare caratteristica di interiorità. E
-così, attraverso la preghiera vocale e liturgica come attraverso
-quella mentale, l'anima s'incammina e si dispone a un tratto
-sempre più intimo con Dio, finchè Dio stesso, mediante
-l’esperienza amorosa e la luce contemplativa, l’introdurrà in
-un'orazione più profonda e capace di immergerla in Lui.
+Una fede così forte è certamente frutto della grazia di Dio, ma noi dobbiamo prepararci a riceverla sia invocandola con la preghiera, sia esercitandoci nella fede stessa.
 
 ### Colloquio
 
-« Fa’, o buon Gesù, che in ogni ora l’anima mia spieghi
-il volo verso di te, che la mia vita intera non sia che un
-continuo atto di amore. Fammi comprendere che l’opera
-che non ti onora è opera morta. Fa' che la mia pietà sia
+Dio mio, dammi un cuore puro e semplice, senza malizia, senza finzione. « O Signore, concedimi vera purezza e semplicità, negli occhi, nelle parole, nel cuore, nell'intenzione, nelle opere e in tutto l'interiore e l'esteriore. Ma vorrei sapere, Signor mio, quello che impedisce in me queste virtù. Lo dirò a te, anima mia, poichè non posso farlo ad altri. Sai che cosa l'impedisce? Ogni minimo sguardo che non sia secondo Dio, tutte le parole che non sono proferite o per lode di Dio, o per conforto del prossimo. E sai come scacci dal cuore tuo queste virtù? Le scacci ogni volta che non hai quella pura intenzione di onorare Dio e di giovare al prossimo tuo; le scacci anche quando ti vuoi andare ammantellando, coprendo e scusando le colpe tue, non pensando che Dio vede tutto e vede il tuo cuore. O Signore, dammi vera purità e semplicità, perchè nell'anima che ne è priva Tu non puoi trovare il tuo riposo » (cfr. S. M. Maddalena de' Pazzi).
 
+O Signore, monda il mio cuore e le mie labbra col fuoco della tua carità, affinchè ti ami e ti cerchi con la purezza e la semplicità di un fanciullo. Ma dammi anche la fede semplice dei fanciulli, fede senza ombre, senza titubanze, senza inutili ragionamenti; fede dritta e pura che è paga della tua parola, della tua testimonianza e in essa si acquieta senza voler altro.
 
-non già un'abitudine, ma un continuo slancio del cuore.
-
-« Bontà suprema, o mio Gesù, io ti chiedo un cuore sì
-innamorato di te, che nessuno spettacolo. sappia distrarlo.
-Fa' che, indifferente a tutto ciò che accade nel mondo, e
-bramoso solo di te, io ami quanto ti riguarda, ma soprattutto ami te, o mio Dio. Ed il mio spirito, Signore, oh, il
-mio spirito! Fa' che ardente nel cercarti, sappia trovare te,
-Somma Sapienza! » (S. Tommaso).
-
-O Signore, dammi un cuore che ti ami, dammi un
-cuore che ti cerchi senza posa, un cuore che sempre aneli a
-te ed altro non desideri che unirsi intimamente a te.
-
-«O Signore, che l'anima mia aneli e spasimi verso di
-te; verso te, Dio vivente, gridino bramosi il mio cuore e i
-miei sensi. Come l’uccellino trova una casa e la rondinella
-il suo nido, così io voglio abitare presso i tuoi altari, o Signore degli eserciti, mio Re e mio Dio. Felici quelli che
-
-nella tua casa sempre possono cantare le tue
-lodi » (Cfr. Sal. 83, 1-5). Anch'io, da mane a sera voglio innalzare nel tempio del mio cuore inni di lode e di amore
-a te, Dio altissimo, che ti degni di abitare in me, Se la lingua tace, o è impegnata in altri discorsi, se il corpo e la
-mente sono occupati nel lavoro, il cuore è pur sempre libero di amarti e di tendere a te in ogni momento, in ogni
-azione. A te dunque, Signore, chiedo questa grande grazia
-che nell'intimo del mio spirito io vada sempre cercandoti e
-unendo a te l’affetto del cuor mio.
+« O Signore, che cosa m'importa di sentire o di non sentire, di essere nel buio o nella luce, di gioire o di soffrire, quando posso raccogliermi nella luce creata in me dalla fede? Devo piuttosto provare una specie di vergogna nel far distinzione fra queste cose; e quando mi sento ancora scossa da esse devo disprezzarmi profondamente per il mio poco amore e guardare subito a te, Maestro divino, per farmi da te liberare. E Tu m'insegni che devo esaltarti al di sopra delle dolcezze e delle consolazioni che vengono da te, e devo essere risoluta a passar sopra a tutto per unirmi a te » (cfr. E.T. II, 4).

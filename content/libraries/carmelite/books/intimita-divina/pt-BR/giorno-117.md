@@ -1,127 +1,118 @@
-## 117 — A MULTIPLICAÇÃO DOS PÃES
-*IV domingo da Quaresma*
+## 115 — A VERDADEIRA GLÓRIA
 
 ### Presença de Deus
 
-— Ó Jesus, verdadeiro pão de vida eterna, sacia minha fome.
+— Ó Jesus, que por amor de mim aceitaste a desonra da morte de cruz, ensina-me em que consiste a verdadeira glória e faze que, por amor de ti, eu saiba vencer meus pontos de honra.
 
 ### Meditação
 
-1 — O domingo de hoje é uma pausa de santa alegria, de
-refrigério espiritual que a Igreja, como boa mãe,
-nos oferece no meio das austeras práticas quaresmais,
-quase para restaurar nossas forças. "Alegra-te, ó Jerusalém -
-canta o Intróito da Missa - e vós todos que a amais
-exultai de alegria e saciai-vos na abundância de suas
-delícias". Quais são essas delícias? Responde-nos o Evangelho
-do dia (Jo. 6, 1-15) com a narração da multiplicação
-dos pães, o grande milagre mediante o qual Jesus
-quis dispor as multidões para o anúncio de um milagre
-bem mais estupendo: a instituição da Eucaristia, pela qual Ele,
-o Mestre, se tornaria nosso pão, "pão vivo
-descido do céu" (Jo. 6, 41), para alimento de
-nossas almas. Eis o motivo da nossa alegria, eis a fonte
-de nossas delícias: Jesus é o pão da vida, sempre à
-nossa disposição para saciar nossa fome.
+1 — S. Teresa de Jesus ensina: "Por pouco que alguém
+esteja apegado à honra, não pode avançar na virtude sem
+primeiro libertar-se disso", porque "onde reinam os pontos de honra
+nunca se chegará ao pleno desapego, nem se gozará do verdadeiro
+fruto da oração", que é a intimidade com Deus. Aliás, a
+Santa nota que o motivo pelo qual muitas pessoas, já há
+tempo adestradas na vida espiritual e beneméritas por
+tantas obras boas, "ainda rastejam pela terra" e não
+conseguem elevar-se mais alto, está justamente em serem
+detidas pelo "ponto de honra; e, o que é pior,
+não querem persuadir-se disso, enganadas como estão pelo
+demônio até crerem que são obrigadas a defendê-lo"
+(Vi. 31, 20; Cam. 12, 5).
 
-Mas Jesus, ainda que avalie muito melhor do que nós os
-valores espirituais, não esquece nem despreza as necessidades
-materiais do homem. O Evangelho de hoje no-lo apresenta
-rodeado por uma multidão que o havia seguido para ouvir
-seus ensinamentos; Jesus pensa na fome daquele povo
-e, para provê-la, realiza um dos mais estupendos milagres:
-cinco pães e dois peixes, por ele abençoados, bastam para
-fartar cinco mil homens, sobrando ainda doze cestos.
-
-Jesus sabe que, quando o homem é atormentado pela fome,
-pelas necessidades materiais, é incapaz de atender às coisas
-do espírito. A caridade exige também em nós essa compreensão
-das necessidades materiais alheias, compreensão efetiva
-que se traduz em ação eficaz. "Se um irmão ou uma
-irmã estiverem nus e necessitados do alimento quotidiano,
-e um dentre vós lhes disser: 'Ide em paz...' sem lhes dar as coisas
-necessárias para o corpo, que proveito haverá?" (Tg. 2, 15 e 16).
-
-Os Apóstolos haviam proposto ao Mestre despedir
-a multidão para que todos pudessem ir "comprar de
-comer" (Mt. 14, 15). Jesus não aceitou
-e quis prover pessoalmente. Procura também tu, na medida do
-possível, nunca mandar embora o próximo necessitado
-sem lhe prestar tua ajuda.
+O apego aos pontos de honra resolve-se, na prática,
+em muitos pequenos ou grandes melindres para afirmação da
+própria personalidade, para defesa da própria estima, dos
+próprios pontos de vista; concretiza-se em muitas manobras mais
+ou menos conscientes e mesquinhas para conquistar ou sustentar
+certas posições de privilégio e de honra diante dos outros,
+para fazer valer as próprias razões - que se julgam sempre boas -
+as próprias capacidades, as próprias obras, os próprios
+méritos, que se consideram sempre grandes e dignos de consideração.
+Tudo isso permanece mais ou menos mascarado pelo
+fato de que cada um tem, ou crê ter, a intenção de agir
+para o bem e, por isso, julga legítimo seu modo de agir;
+entretanto não se percebe que, sob o pretexto de defender o
+bem, de evitar escândalo, de sustentar obras boas,
+na realidade se defende o amor-próprio. Tanto é verdade que,
+apresentando-se a ocasião e em igualdade de condições, tantos esforços
+não se fazem realmente para defender a honra e as obras
+alheias, mas somente para defender a própria honra
+e as próprias obras. Uma alma que se deixa tomar por semelhantes preocupações
+fica, como diz S. Teresa de Jesus, ligada à terra
+por "uma cadeia que lima alguma pode romper. Só Deus
+pode quebrá-la, mas quer ser coadjuvado por nós com
+orações e esforços generosos" (Vi. 31, 20).
 
 
-2 — Antes de realizar o milagre, Jesus pergunta a
-Filipe: "Onde compraremos pão para dar de comer a esta gente?" e o Evangelista observa: "dizia isso para pô-lo à prova,
-porque sabia o que havia de fazer". Não há circunstância difícil da nossa vida cuja solução Deus não conheça; para cada caso,
-mesmo o mais intricado, Ele previu desde a eternidade
-e mantém pronto o remédio. Todavia, diante de circunstâncias difíceis,
-às vezes parece que Ele nos deixa sozinhos, quase como se
-a solução devesse vir de nós; mas faz isso unicamente
-para provar-nos. Quer que, medindo-nos a sós
-com as dificuldades, tomemos maior consciência da nossa
-impotência e insuficiência; e, por outro lado, quer
-exercitar-nos na fé, na confiança nele. Na realidade,
-o Senhor não nos abandona jamais, se não somos nós os primeiros
-a deixá-lo; apenas se esconde e esconde na escuridão
-também a sua obra: então é o momento de crer, de crer
-fortemente e esperar com humilde paciência, com
-plena confiança.
+2 — Para ver se estamos verdadeiramente desapegados dos
+pontos de honra, não devemos basear-nos em certos desejos que
+às vezes se apresentam em massa durante a oração, pelos quais
+nos parece estarmos prontos a suportar qualquer humilhação
+e desprezo, mas devemos examinar qual é, na prática,
+nossa conduta diante de tudo o que fere
+nosso amor-próprio. E então não será difícil constatar
+que "por pouco que nos toquem na honra, já não sabemos
+suportar e parece-nos que não devemos suportar" (T.G.
+Dam. 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos dizem claramente que estamos bem
+longe de ter posto sob os pés os pontos de honra; e tomar consciência dessa deficiência será o ponto de partida
+para corrigi-la, porque o maior obstáculo à
+aquisição das virtudes é justamente crer que já as
+adquirimos e, portanto, não temos mais necessidade de exercitar-
+nos nelas.
 
-Os Apóstolos avisam Jesus de que um menino tem cinco
-pães e dois peixes: bem pouca coisa, quase nada, para saciar
-cinco mil homens; mas o Senhor pede um nada
-e serve-se dele para realizar o grande milagre. É sempre
-assim: Deus onipotente, que tudo pode fazer e criar do
-nada, quando se encontra diante da criatura livre,
-não quer agir sem seu concurso. É bem pouco o que
-o homem pode fazer, mas esse pouco Deus o quer, o pede,
-o exige como condição de sua intervenção. Só o Senhor pode santificar-te, assim como só ele podia multiplicar
-as poucas provisões do menino; e, no entanto, pede
-teu concurso. Também tu, como o menino do Evangelho,
-dá-lhe tudo o que está em teu poder, isto é, apresenta-lhe cada
-dia teus propósitos, sempre renovados com constância e
-amor, e Ele operará também em ti um grande milagre,
-o milagre da tua santificação.
+"Deus nos livre - exclama Teresa de Jesus - de pessoas que pretendem servi-lo e cultivar ao mesmo tempo a própria
+honra!" (ibid., 12, 7). Seria querer servir ao mesmo
+tempo dois senhores, e dois senhores tão inconciliáveis quais
+são Deus e nosso amor-próprio. Tudo o que uma alma faz
+para servir ao próprio eu, para sustentar sua honra, ela
+subtrai ao serviço de Deus, à busca pura e sincera da
+honra e da glória dele. Ainda que às vezes nos pareça
+ter bons direitos a fazer valer, se não soubermos
+renunciar a eles, ao menos no que diz respeito à nossa pessoa,
+nunca alcançaremos aquela liberdade de espírito necessária
+para adentrar uma profunda vida interior. As preocupações inerentes à defesa dos nossos direitos não farão
+senão distrair-nos do nosso ideal de união com Deus,
+far-nos-ão perder a paz interior, meter-nos-ão em tantas
+contendas demasiado humanas, que muitas vezes serão ocasião de
+frequentes faltas de caridade e também de justiça para com o
+próximo, já que é muito difícil, para não dizer impossível,
+defender os próprios direitos sem ofender, pouco ou muito,
+os direitos alheios.
 
 ### Colóquio
 
-"Senhor Jesus Cristo, Filho do Deus vivo, que na
-cruz, com os braços abertos, bebeste, para a redenção de
-todos os homens, o cálice de inenarráveis dores, digna-te
-hoje socorrer-me. Eis: eu, pobre, venho a ti,
-rico; miserável, apresento-me a ti, misericordioso: ah, faze
-que eu não me afaste de ti vazio e desiludido.
-Faminto, a ti venho; não permitas que de ti eu parta em jejum;
-famelico, aproximo-me; ah, que eu não me retire
-sem ter sido por ti saciado; e se antes de comer suspiro,
-concede que depois dos suspiros eu possa ser alimentado" (S. Agostinho).
+"Ó Senhor, Senhor! Não és Tu, pois, o nosso
+Mestre e Modelo? E em que puseste tua honra,
+Tu que és nossa honra? Ah, Senhor, humilhando-te até
+à morte, e assim não só não a perdeste, mas a
+ganhaste para todos nós... Prouvera-te, Deus meu, que por
+querer seguir os feios pontos de honra, alguma alma não
+acabasse por perder-se. Oh! se se compreendesse em que consiste a verdadeira honra... Todo o nosso dano, Senhor, vem de
+não manter os olhos fixos em ti e assim damos em mil quedas, tropeçamos mil vezes e erramos o caminho".
 
-Sim, tenho fome de ti, pão verdadeiro, pão vivo, pão da vida.
-Tu conheces minha fome, fome da alma e fome do corpo,
-e a uma e outra quiseste prover. Com tua
-doutrina, com teu Corpo e com teu Sangue sacias
-meu espírito, sacias-no abundantemente, sem pôr medida,
-senão aquela que eu mesmo ponho com a frieza do
-meu amor, com a estreiteza do meu coração. Preparaste-me uma mesa rica e copiosa além de todo dizer,
-à qual, para ser nutrido, não tenho senão aproximar-me; e Tu não
-só me acolhes, mas te fazes meu alimento e minha bebida,
-mas te dás todo a mim: todo na tua Divindade, todo na tua
-Humanidade.
+"Ó meu Deus, desejamos unir-nos intimamente a ti,
+pretendemos seguir os conselhos de Cristo que foi coberto
+de injúrias e falsidades, e ao mesmo tempo queremos
+conservar intacta nossa honra e reputação. Os caminhos são
+demasiado diversos, e nunca chegaremos à meta, porque
+Tu, ó Senhor, te unes só às almas que se negam
+a si mesmas e não têm medo de perder os próprios direitos"
+(T.G. Cam. 36, 5 e 6; 16, 11; Vi. 31, 22).
 
-E depois, na tua bondade infinita, preparaste uma mesa
-também para meu corpo e com tua providência o nutres,
-o vestes, o manténs em vida como os lírios do campo, como
-as aves do céu. Tu conheces minhas necessidades, minhas
-angústias, minhas preocupações pelo passado, pelo presente,
-pelo futuro, e a tudo provês com amor paterno.
-Ó Senhor, como não confiar em ti, como não lançar
-em ti toda minha solicitude, certo de que Tu terás um
-remédio para tudo? A ti, pois, confio minha vida:
-
-vida do corpo, vida terrena com todas as suas necessidades,
-com todos os seus trabalhos; vida do espírito com todas as suas
-exigências, suas ansiedades, com toda sua fome do infinito. Tu
-só podes preencher a capacidade do meu coração; Tu só podes
-
-tornar-me feliz; Tu só podes realizar meu ideal de
-santidade, de união contigo.
+Ó Jesus, concede-me a graça de fazer consistir minha
+honra somente em unir-me intimamente a ti,
+em procurar tornar-me o mais possível semelhante a ti que,
+sendo Deus e tendo o direito de ser tratado e honrado como Deus,
+quiseste ser tratado como o último dos homens. Tu
+não quiseste para ti outro direito, senão o de cumprir a vontade do Pai, de morrer na cruz para sua
+glória e para nossa salvação. Diante do teu exemplo,
+como compreendo melhor a mesquinhez do meu amor-próprio,
+que, para defender direitos tolos, perde-se em tantas
+brigas, em tantas contendas vãs... Ó Senhor, por que hei de
+reduzir-me a rastejar pela terra entre os espinhos das minhas
+paixões, quando Tu me criaste para voar nos céus?
+Oh, ajuda-me Tu a desembaraçar-me das tolas pretensões do
+meu eu, que, semelhantes a pesado lastro, continuamente tentam arrastar-me para baixo;
+ajuda-me para que, libertado de peso tão grave, eu possa finalmente alçar
+o voo decisivo para ti, meu Deus!

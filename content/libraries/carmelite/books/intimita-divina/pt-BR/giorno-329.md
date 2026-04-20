@@ -1,58 +1,43 @@
-## 329 — O PERDÃO
-*XXI domingo depois de Pentecostes*
+## 329 — IDEAL APOSTÓLICO
 
 ### Presença de Deus
 
-Ó Senhor, ensina-me a perdoar com generosidade e sê largo comigo no teu perdão.
+Acende em mim, Senhor, a chama do apostolado e alimenta-a com teu amor.
 
 ### Meditação
 
-1 — «O reino dos céus é semelhante a um rei que quis ajustar contas com seus servos.» O Evangelho de hoje (Mt 18,23-35) alude à prestação de contas que um dia todos seremos chamados a dar; pensamento grave que nos leva, como no domingo passado, a refletir sobre o estado da nossa consciência.
+1. — Como a semente não pode germinar a haste que levará uma nova espiga se antes não afunda as raízes na terra, assim a alma não pode dar frutos para o apostolado se antes não põe as raízes de uma séria vida interior, mediante a qual tirará do próprio Deus a seiva que a tornará fecunda. A vida interior é o princípio vital, é a força, é a chama do apostolado.
 
-No entanto, continuando a leitura da parábola, o coração se conforta: Deus, figurado no rei, mostra-se tão bom, tão misericordioso e compassivo com o pobre servo que não pode pagar sua dívida: perdoa-lhe tudo e o deixa livre.
+Mas, por outro lado, também o apostolado pode trazer sua contribuição à vida interior, cooperando para torná-la mais generosa, mais intensa. Quando uma alma é tomada pelo ideal apostólico, seu próprio desejo de conquistar outras almas para Deus impele-a a empenhar-se com maior generosidade na oração, na mortificação, no exercício das virtudes, justamente com o intento de tornar-se mais capaz de um apostolado fecundo.
 
-A dívida daquele servo não era pequena: dez mil talentos. Mas nossas dívidas para com Deus são muito maiores. Não se calculam em dinheiro, nem em prata, nem em ouro, mas segundo o preço do nosso resgate: o preciosíssimo Sangue de Jesus.
+Assim, enquanto a vida interior é a alma do apostolado, o apostolado é por sua vez uma mola muito poderosa para impelir a alma à união com Deus, à perfeição, à santidade. O ideal apostólico é por si suscitador de energias espirituais, de vida generosa e santa. Teresa de Jesus, movida precisamente por um ardente desejo de contrabalançar o grande mal que a heresia protestante fazia em seu tempo, deu à reforma por ela iniciada um cunho de particular austeridade e organizou a vida de suas filhas de modo a comprometê-las num contínuo exercício de oração, de sacrifício, de doação pela salvação das almas.
 
-Nossas dívidas são os nossos pecados, que precisaram ser lavados no Sangue de um Deus. Dívidas que, de forma mais ou menos leve e apesar da boa vontade, aumentamos todos os dias, nem que seja por quedas de fragilidade e fraqueza.
+O sistema de vida do Carmelo teresiano — vida contemplativa de profunda intensidade — nasceu assim de um grande ideal de apostolado.
 
-Quem, ao fim do dia, pode dizer que não contraiu novas dívidas com Deus? Se, ao fim da vida, Deus nos apresentasse a conta exata do nosso déficit, encontrar-nos-íamos em situação muito mais embaraçosa que a do servo da parábola.
+Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII).
 
-Mas Deus é bondade infinita. Ele conhece e compadece-se de nossa miséria e, todas as vezes que nos apresentamos humilhados diante dele, reconhecendo nossas faltas, logo nos perdoa e nos absolve de toda dívida.
+Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo. 17, 19).
 
-Deus é magnânimo no seu perdão: não nos reprova as culpas já choradas, nem delas guarda mais conta alguma; seu perdão é tão grande e tão pleno que não só anula as dívidas, mas destrói até sua lembrança, como se jamais tivessem existido.
+2. — Uma vida interior na qual não brilha o ideal apostólico nunca poderá ser plena e vigorosa. Isto depende da natureza da graça e da caridade, que são por si mesmas expansivas, apostólicas.
 
-Basta que nos veja arrependidos, e toda ferida, mesmo a mais gangrenada e repugnante, é sanada e destruída pelo preciosíssimo Sangue de Jesus. O Sangue de Cristo é como um mar infinito, com poder de lavar e destruir os pecados de toda a humanidade, contanto que sejam sinceramente detestados.
+Embora a graça adira de modo íntimo e incomunicável à alma que dela é dotada, no entanto aproveita ao bem de toda a comunidade cristã. O dogma da comunhão dos santos nos diz precisamente que a graça e a santidade de um membro de Cristo redunda em vantagem de todos os outros membros.
 
-Todos os dias, a todo momento, podemos tomar o fardo mais ou menos pesado de nossas culpas e infidelidades e fazê-lo desaparecer nesse oceano de graça e amor, certos de que dele não ficará traço algum.
+Do mesmo modo a caridade, companheira inseparável da graça, é por sua natureza expansiva e, abraçando Deus, abraça todas as criaturas em Deus. Ela imprime à alma um duplo impulso: para Deus e para o próximo; se um ou outro desses impulsos é reprimido, a caridade fica sufocada em sua essência.
 
-2 — Mas agora vem o doloroso contraste. Voltando para casa, aquele servo afortunado, que fora absolvido de toda dívida, encontra um conservo que lhe devia cem denários, soma realmente ínfima em comparação com os dez mil talentos que lhe tinham sido perdoados.
+Esta virtude se desenvolve e chega à maturidade somente quando estão em plena eficiência seus dois aspectos: amor de Deus e amor do próximo. Excluindo ou diminuindo a caridade fraterna, de que o apostolado é a expressão mais alta, vem-se inevitavelmente a diminuir também o amor para com Deus.
 
-E, contudo, ele, que fora tratado com tanta piedade, não mostra nenhuma ao semelhante; não escuta súplicas nem lágrimas; antes, «vai e manda pô-lo na prisão até que pague a dívida».
+Por isso uma vida interior fria, indiferente ao bem das almas, é necessariamente uma vida diminuída, apequenada, reduzida a uma forma de piedade estreita, mesquinha e muitas vezes também egoísta; perdeu o calor vital, o calor da caridade e nem sequer merece o nome de vida.
 
-Pouco antes nos comovíamos com a bondade do senhor; agora nos indignamos com a crueldade do servo. E, no entanto, embora corando, devemos reconhecer que, assim como a bondade do senhor é imagem da misericórdia de Deus sempre pronto a perdoar, assim a crueldade do servo é imagem da nossa dureza, da nossa avareza em perdoar o próximo.
+Onde, ao contrário, a chama do apostolado está viva, há uma vida interior mais do que nunca vigorosa, capaz de grande generosidade. Não é verdade que às vezes o desejo da nossa perfeição não é suficiente para dar-nos coragem de aceitar certos sacrifícios, certas renúncias que custam tanto à natureza? Mas quando se pensa que da nossa generosidade, da nossa fidelidade à graça, da nossa imolação pode depender a salvação de outras almas, então não se pode recusar nada ao Senhor e encontra-se a força para abraçar também as coisas mais ásperas e penosas.
 
-Infelizmente, é assim mesmo: nós, que precisamos do perdão de Deus mais ainda que do pão cotidiano, somos tão duros, tão exigentes para com os semelhantes, tão difíceis à indulgência e ao perdão.
-
-Que são as dívidas que o próximo pode ter para conosco em comparação com as que temos para com Deus? Certamente infinitamente menos do que poucos denários em comparação com dez mil talentos, pois se trata da ofensa feita a uma criatura miserável em comparação com a ofensa feita à infinita majestade de Deus.
-
-Mas eis o contraste: Deus perdoa, esquece, anula inteiramente nossas graves dívidas, e não cessa de amar-nos e beneficiar-nos apesar de nossas contínuas infidelidades; nós, ao contrário, só com grande custo conseguimos perdoar alguma pequena ofensa e, mesmo perdoando, não esquecemos totalmente, de modo que, surgindo a ocasião, estamos prontos a lançá-la em rosto.
-
-E que seria se o próximo cometesse contra nós, todos os dias, tantas infidelidades e delicadezas faltosas quantas nós cometemos contra Deus? Oh, quão mesquinho e estreito é o nosso perdão!
-
-A parábola refere o castigo infligido ao servo cruel: «Indignado, o senhor entregou-o aos verdugos até que pagasse toda a dívida»; segue-se então a conclusão: «Assim vos fará também meu Pai celeste, se cada um de vós não perdoar de coração ao próprio irmão.»
-
-Se queremos que Deus seja largo conosco no seu perdão, devemos ser largos no nosso para com o próximo. Na medida em que perdoarmos, seremos perdoados. É como dizer que nós mesmos damos a Deus a medida exata da misericórdia que Ele deve usar para conosco.
+Assim o ideal apostólico torna-se uma alavanca poderosa para a santificação pessoal e a alma, tornada mais rica por uma fervorosa vida interior, pode pôr à disposição desse ideal novas energias e nova fecundidade.
 
 ### Colóquio
 
-«Quem há, ó Senhor, que não seja devedor para contigo? E quem há que não tenha algum irmão por devedor? Por isso, na tua justiça, estabeleceste que tua regra de conduta para comigo, teu devedor, fosse a mesma por mim seguida com quem me deve.
+«Ó Senhor, tenho em mim desejos imensos de servir-te, e vivíssimo é meu desgosto ao ver-me incapaz de realizá-los. Queria levantar a voz para fazer entender a todos quanto importa não contentar-se com pouco em teu serviço e dar a conhecer os grandes tesouros que se recebem de ti quando se dispõe a recebê-los.
 
-«Pois também eu pequei — e quanto! — devo ser indulgente com quem me pede perdão. Virá, de fato, a hora da oração e então terei de dizer-te: “Perdoa-me, Senhor, as minhas dívidas.” E como? A condição é posta por mim; eu mesmo fixo a lei: “perdoa como eu perdoo.”
+«Sinto, meu Deus, pena grandíssima pela perda de tantas almas, especialmente daqueles que pelo batismo já eram membros da Igreja, e desejo grandemente trabalhar por sua salvação, a ponto de sentir-me pronta a suportar mil mortes para libertar uma só dos terríveis suplícios do inferno. Como se pode suportar ver uma alma condenada para a eternidade e aos rigores eternos dos suplícios? Se somos tomados de compaixão pelas dores deste mundo, que afinal têm um termo e cessam sempre com a morte, como poderemos, ó Senhor, mostrar-nos indiferentes diante de tormentos que durarão eternamente e diante do grande número de almas que todos os dias o demônio arrasta consigo para o inferno?
 
-«Duas sentenças breves, ó Senhor, fizeste regra no Evangelho: “perdoai, e sereis perdoados; dai, e vos será dado.” Eis minha oração: peço-te perdão por meus pecados, e Tu queres que haja alguém a quem eu perdoe.
+«Pois tu, meu Deus, vês a dor que provo à vista do grande número dos que se perdem: salva ao menos um, Senhor, ao menos um que possa dar luz a muitos outros. Não por mim, Senhor, que não o mereço, mas pelos méritos de teu Filho! Olha, Senhor, suas chagas; e, já que Ele perdoou aos que lhas fizeram, perdoa Tu também a nós.
 
-«O pobre me pede pão; e eu, que te peço, senão a ti mesmo, que disseste: “Eu sou o pão vivo que desceu do céu”?
-
-«Pedirei perdão, perdoarei; remirei aos outros, e me será remitido; querendo receber, darei, e me será dado.
-
-«É coisa árdua para mim perdoar quem me ofende? Recorrerei à oração. Em vez de responder injúria com injúria, rezarei pelo ofensor. Quando me vier vontade de responder asperamente, falarei contigo, Senhor, em favor dele. E depois me lembrarei de que prometes a vida eterna se eu perdoar ao irmão.»
+«Meu Deus, eu não quero senão tua vontade; estou tão submetida a ela que não desejo mais viver do que morrer. Contudo, se assim te agrada, desejo viver para poder servir-te um pouco mais. Se eu pudesse contribuir em alguma coisa para fazer-te amar e louvar por uma alma ainda que só por pouco tempo, isso me pareceria muito mais importante do que já estar na glória» (Santa Teresa de Jesus).

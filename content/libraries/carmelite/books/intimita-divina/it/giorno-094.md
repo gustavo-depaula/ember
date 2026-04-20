@@ -1,119 +1,25 @@
-## 94 — LA MORTE
+## 18 — LE CENERI
 
-### Presenza di Dio
-
-— O Signore, che mi hai creato per te, fa' che io viva e muoia per amor tuo.
+**Presenza di Dio.** — *Mi metto alla tua presenza, o Signore, affinché la tua luce m'illumini sulle verità eterne e desti in me sinceri desideri di conversione.*
 
 ### Meditazione
 
-1 — Anche oggi, giovedì dopo le Ceneri, troviam
-pgeec un chio al sini della morte: noai
-osizioni per la tua casa, perchè morrai» (Ep.: /s.
-38, 1-6). La Chiesa vuole partis familiare il Cone
-della morte, affinchè «non veniamo colti all'improvviso e,
-cercando una dilazione per far penitenza, non ci avven; 4
-di non ottenerla » (MRI, È vero, Gesù nel Vangelo ci ha
-pesta della morte che sopraggiunge inaspettata come un
-ladro, nell’ora in cui uno meno se l’aspetta, tuttavia, per
-il cristiano vigilante che mette in pratica l’« estote parati »
-(Le. 12, 40), la morte non sarà improvvisa, nel senso che
-lo troverà sempre pronto «con i fianchi cinti e la lam-
-Ilia accesa », simile a quei servi fedeli che aspettano il
-oro padrone « per aprirgli appena giungerà e picchierà »
-(ivi, 35 e 36). Allora non vi saranno rimpianti, non vi
-saranno timori ed ansietà, perchè colui che ha sempre
-vissuto în attesa del Signore, non teme di aprirgli quando
-di fatto Egli giunge, ma gli va incontro con gioia, l’accoglie con grande amore e con tutto lo slancio dell'anima
-gli de il suo ultimo « Ecce verio », ecco io vengo (Sql.
-39 8).
+**1** — « Sei polvere ed in polvere tornerai » *(Gen.* 3, 19). Queste parole, pronunziate per la prima volta da Dio e rivolte ad Adamo in conseguenza del peccato commesso, oggi la Chiesa le ripete ad ogni cristiano per ricordargli due verità fondamentali: il suo nulla e la realtà della morte.
 
-Del resto la morte è l’u/tizza, ma non è l’unica venuta
-del Signore nella vita del cristiano; essa è preceduta da
-molte altre che hanno appunto lo scopo di preparare quest'ultima, affinchè sia FP senso più pieno una venuta di
-grazia. Dal giorno del battesimo al termine della vita, è un
-continuo susseguirsi di venute, di visite del Signore; ogni
-sacramento ricevuto, ogni ispirazione, ogni aumento di
-grazia è una nuova visita divina all'anima, mediante la quale
+La polvere — la cenere che il Sacerdote oggi pone sul tuo capo — che non ha consistenza e basta un lieve soffio di vento per disperdere, dice molto bene il nulla dell'uomo. « O Signore, la mia vita è come un niente in tuo confronto » *(Sal.* 38, 6) esclama il Salmista. Come ha bisogno il tuo orgoglio, la tua superbia, di comprendere questa verità, di comprendere che tutto è « nulla » in te! Tratto dal nulla dalla potenza creatrice di Dio, dall'amore infinito che ha voluto comunicarti il suo essere e la sua vita, tu, a motivo del peccato, non puoi ricongiungerti eternamente al tuo Dio, senza passare per l'oscura realtà della morte. Conseguenza e castigo del peccato, la morte è per se stessa amara e dolorosa; ma Gesù, che ha voluto in tutto farsi simile a noi, sottomettendosi ad essa, dà ad ogni cristiano la forza di accettarla per amore. Comunque, la morte resta; e tu devi considerarla non per turbarti, ma per spronarti al bene. « In tutte le opere tue ricordati della tua fine, e non peccherai in eterno » *(Eccli.* 7, 40). Il pensiero della morte ti ammonisce sulla vanità delle cose terrene, sulla rapidità della vita — « tutto passa, Dio solo resta » — e perciò ti sprona a non attaccarti a nulla, a disprezzare ogni soddisfazione terrena, per cercare Dio solo. Il pensiero della morte ti fa comprendere che « tutto è vanità fuorché amare Dio e servirle lui solo » *(Imit.* I, 1, 4).
 
+« Ricordati che hai un'anima sola, che devi morire una sola volta... e lascerai andare molte cose » (T.G. *A.* 68), ossia lascerai andare tutte quelle cose che non valgono per l'eternità. Per l'eternità vale solo l'amore, la fedeltà a Dio: « Nell'ultima ora sarai esaminato sull'amore » (G.C. *AM.* I, 57).
 
-Dio ne prende sempre di più il , stabilendo in lei la
-sua dimora in modo sempre più intimo e profondo. Chi
-non ha mai indugiato ad aprire il cuore a tutte queste venute del Signore, chi ha sempre accolto con fedeltà e con
-amore le sue visite, seguendo docilmente gli impulsi della
-grazia, non ha nulla temere di fronte alla sua ultima
-venuta. Dolcissime, allora, gli risuoneranno alle orecchie le
+**2** — Tutta la liturgia odierna è un invito alla penitenza. Durante l'imposizione delle ceneri si canta: « Cambiamo abito e ricopriamoci di cenere e di cilicio; digiuniamo e piangiamo dinanzi a Dio ». È l'invito alla penitenza corporale, particolarmente prescritta in questo tempo; ma subito segue l'invito alla conversione: « Emendamoci dei peccati commessi ». Il fine della penitenza fisica è la penitenza spirituale, ossia l'umiltà, il riconoscimento delle proprie colpe, la compunzione del cuore, la riforma della vita.
 
-role di Gesù: « Bene, servo buono e fedele... entra nel
-gaudio del tuo Signore » (Mt. 25, 21).
+Questo è il pensiero dominante del giorno. Nell'Epistola *(Joel.* 2, 12-19) leggiamo: « Ecco quello che dice il Signore: — Convertitevi a me di tutto cuore nel digiuno, nel pianto e nel duolo. Squarciate i vostri cuori e non le vostre vesti ». La compunzione, la conversione del cuore è posta in primo piano perché, se la penitenza corporale non viene da un cuore contrito, non ha alcun valore. Ma d'altra parte la penitenza corporale prepara l'anima alla conversione, in quanto è mezzo per giungervi. « O Dio — canta il Prefazio del tempo — per mezzo del digiuno corporale, tu reprimi il peccato, elevi l'anima, e dai forza e ricompensa ». Chi vuol giungere al fine — che è il rinnovamento dello spirito — deve abbracciare volentieri il mezzo che vi conduce, ossia la penitenza corporale. Questi due elementi non vanno mai separati: la compunzione del cuore dà valore alla penitenza del corpo, la penitenza del corpo aiuta ed esprime la compunzione del cuore.
 
-
-2 — Parlando delle persone giunte alla trasformazione
-d'amore in Dio, S. Giovanni della Croce spiega che la loro
-morte viene causata più dall’impeto dell'amore divino che
-dalle cause naturali. « Pur morendo durante un’infermità o
-nella pienezza degli anni, [esse] non sono tolte alla vita terrena da uno strappo violento dell'anima, ma da qualche
-impeto o incontro amoroso molto iù sublime dei precedenti e sì potente da squarciare la tela [del corpo] e portar-
-si via ai gioiello dell’anima » (F. 1,30). È la cosidetta « morte di amore », morte preziosa e beata, vero in-
-contro nuziale dell'anima con Dio, che introduce direttamente nella visione beatifica del cielo. È la morte delle
-anime sante, alle quali solo la prigionia nell’involuero del
-corpo impedisce di veder Dio faccia a faccia.
-
-Tuttavia accanto a questa morte di amore, così gloriosa
-e beata, si può dire che ve n'è un’altra molto più modesta
-ed umile, uale tutti possiamo aspirare, purchè amiamo
-sinceramente Dio e la sua santa volontà. Come l’essenza
-della santità consiste nel compiere con amore ogni volere
-divino, anche quando impone gravi sacrifici e penose rimunce, così l'essenza di una morte santa consiste nel sotto-
-‘mettersi con amore a questo supremo sacrificio, accettandolo di buon volere come ultima espressione della volontà
-di Dio. Quanto più profonda e piena sarà la rassegnazione
-
-
-e l’amore con cui un’anima accetterà la morte, tanto più
-
-
-la sua potrà dirsi una morte di amore, appunto perchè
-abbracciata per amore di Dio.
-
-
-Dio è il padrone assoluto della nostra vita; come dobbiamo vivere per amor suo, cercando di uniformarci in
-ogni cosa alla sua santa volontà, sì che questa sia in tutto e
-per tutto la norma suprema del nostro agire, così dobbiamo
-saper morire per amor suo, accettando dalle sue mani la
-morte nell'ora e nelle circostanze da lui stabilite, « Se vi
-viamo, viviamo. pel Signore — esclama S, Paolo — e se
-moriamo, moriamo per lui; sia che viviamo sia che moriamo, siamo del Signore» (Romi. 14, 8). Sia in vita, sia in
-morte siamo di Dio e, essendo suoi, null'altro dobbiamo
-desiderare se non di vivere e di morire secondo la sua santa
-volontà. Quando un’anima durante tutta la vita si è studiata
-di compiere col massimo amore la volontà di Dio, può
-avere la piena fiducia che il Signore le farà la grazia suprema di accettare con grande amore anche la morte.
+Il Vangelo *(Mt.* 6, 16-21) poi ci dice che ogni penitenza va compiuta con sincerità, senza vana ostentazione e lietamente: « Quando digiunate, non vogliate imitare gli ipocriti, che prendono un'aria malinconica e sfigurano la faccia per far vedere agli uomini che digiunano ». La vanità, la superbia rendono inutili e perfino peccaminose anche le più austere pratiche di penitenza: ne distruggono la sostanza ed il valore, le riducono a miseri involucri esterni privi di ogni contenuto. Perciò quando mortifichi il tuo corpo, bada di mortificare ancor più il tuo amor proprio.
 
 ### Colloquio
 
-«O Gesù, agonizzante sulla croce, sii il mio modello
-nell’ora della morte. Benchè Tu sia l’autore ed il restauratore della vita, tuttavia hai voluto sottometterti alla morte
-e l’hai accettata con tutto il cuore per espiare i miei peccati. Tu che nulla devi alla morte, Ta, fonte di vita e dim.
-mortalità, nel quale e per il quale tutte le creature vivono,
-hai voluto assoggettarti alla morte per farti simile a me e
-santificare la morte mia.
+« O Gesù, com'è lunga la vita dell'uomo, malgrado si dica che sia breve! Breve, mio Dio, per arrivare con essa a guadagnarsi la vita che non ha fine, ma lunghissima per l'anima che desidera di vedersi presto con te.
 
-«O morte, chi ormai potrà temerti, giacchè l'Autore
-della vita ti porta nel seno, ed in lui, senza dubbio, non
-puoi essere mortale, bensì vitale? Io ti abbraccio, ti string0 nel Cuore del mio divin Salvatore é qui, come pulcino
-sotto le ali della chioccia, aspetterò in pace i tuoi attacchi,
-ben sicuro che il mio clementissimo Gesù mi addolcirà le
-tue amarezze e mi difenderà dai tuoi rigori.
+« Anima mia, quando ti inabisserai nel sommo Bene e conoscerai quello che Egli conosce, amerai quello che Egli ama e godrai quello che Egli gode, allora entrerai nel tuo riposo: la tua volontà perderà la sua incostanza, né andrà più soggetta a mutamenti... e godrai sempre di lui e del suo amore... Beati quelli che sono scritti nel libro di questa vita! Se tu lo sei, perché, anima mia, ti rattristi e mi conturbi? Spera in Dio a cui nuovamente confesserò i miei peccati e di cui proclamerò le misericordie. Comporrò un cantico di lodi per innalzarlo, con incessanti sospiri, a te, mio Salvatore e mio Dio. E ben può essere che un giorno ti possa cantare la mia gloria, senza che la mia coscienza vi sperimenti l'amarezza della compunzione, in quel soggiorno ove le lacrime e i timori saranno per sempre cessati... O Signore, amo meglio vivere e morire nella speranza e nello sforzo per l'acquisto della vita eterna, che possedere tutte le creature coi loro beni fugaci. Non abbandonarmi, o Signore! Io spero in te e la mia speranza non sarà confusa. Dammi sempre di servirti, e fa' di me quel che vuoi! » (T.G. *Es.* 15, 1; 17, 5 e 6).
 
-«O Gesù, voglio impiegare tutte le mie forze nel sottomettermi fin d’ora a tutte le circostanze e i dolori della
-mia morte; fin d’ora di buon cuore voglio accettare la
-morte nel luogo, ora e maniera che a te piacerà stabilire.
-
-
-So molto bene che mi è necessario soffrire e venir macinato sotto i denti delle tribolazioni, dei dolori, delle pri-
-vazioni, delle desolazioni e delle pene per diventare pane
-degno di servire al tuo celeste ichetto, o Cristo, nel
-giorno della risurrezione universale. So molto bene che
-se il grano di frumento non marcisce e muore sotto terra
-non produce la spiga, e perciò di tutto cuore accetto
-l’annientamento della morte per essere fatto uomo nuovo, non più mortale e corruttibile, ma immortale e glo-
-rioso » È Francesco di Sales).
+Se il pensiero delle mie infedeltà mi sgomenta, mi ricorderò, o Signore, che « appena ci pentiamo di averti offeso, Tu dimentichi ogni nostro peccato e malizia. O bontà veramente infinita! Che si può volere di più? Chi non arrossirebbe di domandarti tanto? Questo è il momento di approfittarne, accettando quanto Tu, pietoso Signore Dio mio, ci offri. Tu vuoi la nostra amicizia. Chi te la rifiuterà, quando Tu non hai rifiutato di spargere tutto il tuo Sangue per noi, sacrificando la tua vita? È un nulla quanto Tu domandi! Ascoltarti è di sommo nostro interesse » (ivi, 14, 3).

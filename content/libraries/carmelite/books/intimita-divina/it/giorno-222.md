@@ -1,106 +1,25 @@
-## 222 — LA VISITA DI MARIA AD ELISABETTA
+## XXII — DI FRONTE ALLA TRINITÀ
 
-### Presenza di Dio
-
-O Madre mia, Maria Santissima, sii sempre il mio modello, il mio sostegno, la mia guida.
+**Presenza di Dio.** — *O SS.ma Trinità, la considerazione del tuo mistero generi in me una profonda umiltà, una fede cieca, un amore ardente.*
 
 ### Meditazione
 
-1.— «In quei giorni Maria si pose in viaggio e andò in
-fretta in una regione montuosa, in una città di Giuda», così
-leggiamo nel Vangelo di oggi. Nella fine delicatezza della
-sua carità, Maria sente profondamente le necessità altrui sì
-che, appena le avverte, subito si muove, spontanea e decisa,
-per porgere aiuto. Ha saputo dall'angelo Gabriele che la sua
-cugina Elisabetta è prossima ad esser madre e, senza por tem
-po in mezzo, si mette in viaggio per andare ad offrirle i suoi
-umili servizi. Se consideriamo le difficoltà dei viaggi in quei
-tempi in cui i poveri — come lo era Maria — o dovevano
-camminare a piedi su strade malagevoli o, al massimo, potevano valersi di qualche misero mezzo che per caso incontravano per via, e che, inoltre, la Vergine si trattenne tre mesi
-presso Elisabetta, comprendiamo che, per compiere questo
-atto di carità, la Madonna dovette affrontare non pochi disagi. Ma di questi non si preoccupa affatto: la carità la spinge, del tutto dimentica di sè, perchè, come dice S. Paolo,
-« la carità non è egoista » (1 Cor. 13, 5). Pensa quante volte,
-forse, non per risparmiarti un viaggio disagiato, ma unica
-mente per evitare un piccolo disturbo, hai tralasciato qualche
-atto di carità; pensa quanto sei tardo e pigro nel porgere
-aiuto ai tuoi fratelli. Guarda Maria e vedi quanto hai bisogno di imparare da lei!
+**1** — Quel che Gesù ci ha rivelato e che, appoggiandosi alle sue parole, la Chiesa c'insegna circa la Trinità, è sufficiente a farci conoscere l'esistenza di questo mistero, ma non a farcelo comprendere. Anzi, è proprio questo il mistero della nostra santa fede maggiormente inaccessibile alla ragione umana; di fronte ad esso noi sperimentiamo più che mai l'infinita sproporzione tra la nostra intelligenza e i misteri divini, sentiamo più che mai la somma distanza che passa tra noi, piccole creature, e Dio, l'Essere supremo, l'Altissimo. Tutto ciò è buono, molto buono perché ci fa prendere di fronte a Dio quell'atteggiamento che veramente ci compete come creature, atteggiamento di umiltà, di umile riconoscimento della nostra insufficienza, di rispettoso abbassamento, di riverente adorazione. Mai come quando ci mettiamo di fronte al grande mistero trinitario sentiamo il bisogno di ripetere umilmente: «*nihil sumus, nihil possumus, nihil valemus*»; nulla siamo, nulla possiamo, nulla valiamo (S. Giovanni Eudes) e nello stesso tempo di esaltare l'inaccessibile grandezza del nostro Dio: «*Sanctus, sanctus, sanctus, Dominus Deus sabaoth*»; santo, santo, santo, o Dio degli eserciti; Tu solo sei santo, Tu solo sei onnipotente, Tu solo vali, Tu solo sei Colui che è.
 
-La carità rende Maria non solo dimentica dei suoi disagi,
-ma anche della sua dignità, la più grande dignità che una
-pura creatura abbia mai avuto. Elisabetta è anziana, ma Maria è Madre di Dio; Elisabetta sta per dare alla luce un uomo,
-ma Maria darà alla luce il Figlio di Dio. E, nondimeno, Maria, davanti alla cugina, come davanti all'Angelo, continua
-a considerarsi l'umile ancella del Signore e nulla più. E, appunto perchè si considera ancella, si comporta come tale anche in pratica, anche riguardo al prossimo. Non è forse vero
-che, se ti sai umiliare di fronte a Dio, se ti sai riconoscere
-imperfetto nel segreto del tuo cuore, ti dispiace poi di apparire tale di fronte al prossimo e sei pronto a risentirti se qualcuno ti tratta come tale? Non è forse vero che ci tieni a far
-valere la tua dignità, la tua cultura, le tue capacità, gli uffici e le cariche più o meno onorevoli che ti sono state affidate? La tua dignità è un nulla, eppure ne sei tanto geloso; la
-dignità di Maria rasenta l'infinito e lei si ritiene e si comporta
-come se fosse l'ultima di tutte le creature.
+La ragione resta accecata dalla grandezza del mistero, ma la ragione illuminata dalla fede non si smarrisce: riconosce la sua inferiorità e, sottomettendosi alla divina rivelazione, crede. Atto di fede tanto più meritorio e soprannaturale, quanto meno può appoggiarsi a ragionamenti umani; atto di fede che onora maggiormente Dio, quanto più aderisce ciecamente alla sua parola. «Mi pare — dice Santa Teresa di Gesù — che quanto più le realtà della fede sorpassano l'ordine naturale, tanto più la mia fede si faccia viva e ne senta più grande devozione... e trovo in esse un motivo di più per lodare Iddio» *(Vi.* 19, 9; cfr. 28, 6). Tale è la fede dell'anima umile di fronte al mistero della SS.ma Trinità.
 
-2. — «.. ed Elisabetta ad alta voce esclamò: *Benedetta
-Tu sei fra tutte le donne e benedetto il frutio del tuo seno.
-E in grazia di che mi è concesso che la Madre del mio Signore venga a me? ». Interiormente illuminata dallo Spirito fin
+**2** — La considerazione del mistero trinitario non ci porta solo ad un atteggiamento di umile riverenza e di fede cieca, ma anche ad un atteggiamento di profondo amore filiale. «Questa è la caratteristica dell'amicizia — dice S. Tommaso — che l'amico riveli all'amico i suoi segreti» *(Contra gent.* I. 4, c. 22). Tale è la caratteristica dell'amore di Dio per noi giacché, rivelandoci il mistero della Trinità, ci ha svelato il segreto della sua vita intima, sul quale noi non avevamo alcun diritto di volgere lo sguardo. Se non avessimo altre prove dell'amore di amicizia che Dio ha per noi, la rivelazione di questo mistero sarebbe più che sufficiente a persuadercene. Egli ci ha confidato i segreti del suo cuore, ci ha schiuso l'arcano della sua vita personale, ci ha ammesso alla sua intimità. Tutto ciò ci rende sempre più convinti dell'eccessiva *carità* con cui Dio ci ha amati, tanto più che non si è accontentato di rivelarci il suo mistero, ma Egli, Trinità gloriosa, ha voluto darsi a noi. Si è dato a noi il Padre che, dopo averci tratto all'esistenza, ha sacrificato il suo Unigenito per la nostra salvezza; si è dato a noi il Figlio che, incarnandosi, è morto per noi sulla croce e si è fatto nostro cibo; si è dato a noi lo Spirito Santo che è venuto ad abitare nelle anime nostre per effondervi la grazia e la carità. Fino a questo punto la Trinità si è data a noi proprio per innalzarci allo stato di figli e, come tali, introdurci nell'ambito della sua famiglia divina. Attraverso il Vangelo vediamo tutta la Trinità chinarsi sull'uomo per redimerlo, per santificarlo, per renderlo partecipe della sua natura divina e della sua beatitudine eterna. Vediamo il Padre che ci circonda della sua paterna misericordia e provvidenza, vediamo il Figlio che si fa uno di noi e per noi versa tutto il suo Sangue, vediamo lo Spirito Santo che santifica le anime nostre riversando in noi la grazia e l'amore.
 
-to, Elisabetta riconosce nella giovane cugina la Madre di Dio
-e, commossa, prorompe in accenti di lode e di ammirazione.
-Maria non protesta, ascolta con semplicità perchè sa bene che
-quelle parole di plauso non spettano a lei, ma solo all'Onnipotente che ha operato in lei grandi cose e subito dal suo
-cuore umilissimo tutte le lodi di Elisabetta rimbalzano in Dio
-
-con moto spontaneo e rapidissimo: « Tu, Elisabetta, magnifichi la Mate del Signore — dice la Vergine — ma *l'anima
-mia magnifica il Signore'. Tu affermi che alla mia voce il
-tuo figlio ha esultato di gioia nel tuo seno, ma "il mio spirito
-esulta 'in Dio, mio Salvatore"... Tu proclami felice colei che
-ha creduto, ma il motivo della sua fede e della sua felicità
-è lo sguardo che la bontà divina ha rivolto su di lei. Sì, *tutte le generazioni mi proclameranno beata, perchè Dio ha rivolto i suoi sguardi sulla bassezza della sua ancella' > (S. Bernardo). Questa bella parafrasi del Magnificat ci fa cogliere
-al vivo il movimento dello spirito di Maria: si sprofonda nell'umile confessione del proprio nulla, tocca, per così dire, il
-fondo della sua bassezza e poi, quanto più è discesa in basso,
-tanto più s'innalza in alto, si eleva in Dio, non temendo di
-riconoscere e di lodare le grandi cose che Egli ha compiuto
-in lei, appunto perchè vede perfettamente che ciò è puro do
-no suo.
-
-Se di fronte ai tuoi successi, alle lodi, al plauso delle crea»
-ture, se di fronte alle grazie che Dio ti concede, sei ancora
-suscettibile di vana compiacenza, è proprio perchè non hai
-ancora toccato, come Maria, il fondo della tua bassezza, non
-ti sei abbastanza sprofondato nella considerazione del tuo nulla, non sei ancora praticamente convinto della tua radicale
-insufficienza, impotenza, miseria, debolezza. Chiedi a Maria
-la grande grazia di introdurti in questa conoscenza chiara e
-pratica del tuo nulla; non farti illusioni, la via di giungervi,
-
-per te che hai ereditato da Adamo il germe dell'orgoglio, è
-[a
-
-una via aspra e dura: la via delle umiliazioni. Ma Maria è
-Madre; e, se lei ti accompagna, tutto, col suo aiuto, diventerà
-più facile e soave.
+Sì, di fronte alla Trinità noi rimaniamo sempre piccole creature, infinitamente distanti dalla sua Maestà divina e, tuttavia, la Trinità si è chinata su di noi e ci ha attirato a sé, amandoci di amore eterno; «*in charitate perpetua dilexi te, ideo attraxi te miserans tui*» *(Ger.* 31, 3).
 
 ### Colloquio
 
-«O Maria, come è eminente la tua umiltà nell'affrettarti
-al servizio altrui! Se è vero che chi si umilia sarà esaltato, chi
+«T'invoca, o beata Trinità, la mia fede con voce chiara e sincera; quella fede, che, da te nutrita fin dalla mia culla, sempre illuminasti con le illustrazioni della tua grazia, ed accrescesti e confermasti in me con la dottrina della Madre Chiesa.
 
-lo sarà più di te che ti sei tanto umiliata?
-« AI vederti, Elisabetta si meraviglia ed esclama: 'Donde
-a me tanto onore, che la Madre del mio Dio venga a me?*
-Ma è ancor più grande la mia meraviglia nel vedere che tu,
-come il tuo Figlio, sei venuta non per farti servire, ma per
-servire... Proprio per questo motivo ti rechi da Elisabetta:
-Tu, la Vergine, presso la donna sposata, la Regina presso la
-serva, la Madre di Dio presso la madre del Precursore, Tu
-che darai alla luce il Figlio di Dio presso colei che darà alla
-luce uno schiavo.
+«Invoco te, o beata e benedetta e gloriosa una Trinità, Padre, Figliuolo e Spirito Santo; Dio, Signore e Paraclito; carità, grazia e comunicazione.
 
-« Ma la tua umiltà profondissima non ha per nulla diminuito la tua magnanimità; la tua grandezza d'animo non
-ha per nulla offeso la tua umiltà. Tu, così piccola ai tuoi oechi, sei stata pure così magnanima nella tua fede, nella tua
-speranza nell'Altissimo, che mai hai dubitato delle sue pro
-messe ed hai creduto fermamente che saresti diventata la Ma.
-dre del Figlio di Dio.
+«O tre eguali e coeterne Persone, Dio uno e vero, Padre e Figlio e Spirito Santo, che solo abiti nell'eternità e nella luce inaccessibile; che fondasti la terra nella tua potenza e l'orbe della terra reggi con la tua prudenza; santo, santo, santo Signore, Dio degli eserciti, terribile e forte, giusto e misericordioso, ammirabile, degno d'ogni lode e amabile.
 
-« L'umiltà non ti ha resa pusillanime, nè la magnanimità
-altera, ma queste due virtù si sono fuse perfettamente in tel
+«Una ed indivisa Trinità, apri a me che t'invoco... Sto alla tua porta, o sommo Padre, e picchio; comanda che sia aperto, o Tu che dicesti: 'Picchiate e vi sarà aperto'. Picchiano alla tua porta, o Padre misericordiosissimo, i desideri dell'anelante cuor mio ed i miei clamori e le lacrime del figlio tuo; Padre delle misericordie, odi il gemito del tuo figlio e porgigli la tua mano soccorritrice... «So, o Signore, so e confesso che non son degno che Tu mi ami; sono certamente Tu sei degno d'essere amato da me. Sono indegno di servirti, ma Tu sei degnissimo d'esser servito dalla tua creatura. Dammi, dunque, o Signore, quello di cui Tu sei degno, ed io sarò fatto degno di ciò che ora non merito.
 
-«O Maria, Tu non puoi rendermi partecipe dei tuoi
-grandi privilegi di Madre di Dio; questi appartengono unicamente a tel Ma Tu vuoi rendermi partecipe delle tue virtù ed a tal fine mi proponi i tuoi esempi. Se, dunque, mi mancheranno l'umiltà sincera, la fede magnanima, la carità delicata e compassionevole, in qual modo mi potrò scusare?...
-O Maria, o Madre di misericordia, Tu, piena di grazia, nutri
-con le tue virtù noi tuoi poverelli!» (cfr. S. Bernardo).
+«T'invoca, o beata Trinità, affinché Tu venga in me e mi faccia tempio degno della tua gloria. Prego il Padre, per mezzo del Figlio; il Figlio per il Padre; prego lo Spirito Santo per il Padre e per il Figlio, affinché siano allontanati da me tutti i miei vizi, ed in me siano piantate tutte le virtù» (S. Agostino).

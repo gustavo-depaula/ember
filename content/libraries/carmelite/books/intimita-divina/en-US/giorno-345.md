@@ -1,51 +1,25 @@
-## 345 — ANGUISH AND DARKNESS
+## 23 — PROGRESS IN THE APOSTOLATE
 
-### Presence of God
-
-Hasten, Lord, to help me, lest I be overwhelmed by the storm.
+**Presence of God.** — *O Lord, unite me to you and let the power of your charity kindle in my heart the true apostolic flame.*
 
 ### Meditation
 
-1 — Seeing its misery clearly, the soul perceives the infinite distance between itself and God. Precisely now, when it longs most to be united to Him, it sees itself farther from Him than ever, absolutely incapable of crossing the immense distance that separates it.
+**1** — St. Thomas teaches: love is like fire, it produces a flame, and the flame of love is zeal; if the fire burns intensely, then the flame it produces is also consuming and intense. True apostolic zeal is the spontaneous result, the normal fruit of intimate contact of the soul with God through love. The more a soul is united to God in love, the more it is involved in the flame of his charity; therefore it shares in his infinite love for men, in his eternal zeal for their salvation, so that it becomes *necessarily apostolic*.
 
-It suffers from this too, because one who loves ardently desires union with the beloved. At times this suffering becomes so intense that the soul seems to itself to have no hope left—not of holiness, not of union with God, not even of eternal salvation.
+To say one cannot be an apostle before being so intimately seized by divine love would be an exaggeration; but it is clear that one does not reach the fullness of apostolate, and therefore the fullness of apostolic fruitfulness, without this interior flame that is born precisely from union with God. Until one reaches that degree of union, one must consider oneself a beginner in apostolate, like apprentices who apply themselves to an art, doing now this, now that work, yet not yet sustained and carried by personal inspiration. Being beginners, we must behave as such, that is, act with caution, devote ourselves to apostolate with prudence and measure, precisely because, not yet having reached that spiritual maturity from which the flame of zeal spontaneously bursts forth, we do not yet possess those resources of grace that serve to defend the soul from the dangers of overly intense external activity and that at the same time have the power to make all work fruitful. "Here the soul," says St. Teresa of Jesus, "is not yet formed: it is like a child beginning to suck, who, if he leaves his mother's breast, can expect only death. If one withdraws from prayer without urgent necessity and does not return at once, I greatly fear the end will be like that of the child, going from bad to worse" *(M.* IV, 3, 10). Let us note that the Saint is not speaking here of souls taking first steps in interior life, but of those who, having already reached prayer of quiet, may already be called proficient; and yet it is not exaggerated to affirm that, with respect to apostolate, they are still beginners.
 
-There is nothing exaggerated or false in such suffering. The Holy Spirit, under whose action the soul now lives, cannot inspire anything not perfectly true.
+**2** — St. Teresa of Jesus shows us the soul at the moment when - as consequence of charity uniting it to God - the interior flame of apostolate is born in it. It is a soul rendered by surrender and love so submissive to God's will "as to know and will one thing only: that He do with it whatever He wills"; and God, who "keeps it wholly for Himself... marks it with his seal," infuses into it very lively sorrow for men's sins and ardent desire to spend itself for their salvation *(cf. M.* V, 2, 12-14). In this soul charity has grown to such a point as to make it truly capable of renouncing its own will in order to conform in everything to the divine will. Even before difficult and unforeseen cases, requiring much spirit of sacrifice, it knows how to set aside every repugnance and resentment of nature, every personal view and desire, so as to adhere to the divine good pleasure, whether this presents itself under the aspect of daily duties, or through the external voice of obedience, or through the interior voice of the Holy Spirit, and likewise through circumstances of life. It is therefore a soul truly united to God in love, truly *given* to Him, and God *takes* it and launches it into service of the Church and of souls, willing to use it to carry out his plan of salvation and sanctification of humanity.
 
-It is very true that between us, poor creatures, and God, infinite and supreme Perfection, there is an immeasurable difference. It is very true that, relying on our own strength, we are radically powerless to rise up to God. It is very true that, if we look at our actions, even the best, there is nothing in us that can merit either union with God or eternal life.
-
-But it is also true that God, infinitely good and merciful, has willed to bridge the infinite distance that separates us from Him. He has willed to stoop down to us so far as to clothe us with His divine life and call us to intimacy with Himself.
-
-What is absolutely impossible to our misery is fully possible to God’s omnipotence and infinite mercy. He truly wills to do it, yet He also wills to make us understand that this is His work alone.
-
-In fears of not being able to reach God and eternal salvation, the soul must remain firm in unshakable hope. If it is right to fear itself and be convinced it can hope nothing from its own works, it is even more right to expect everything from God, whose love and goodness infinitely surpass both its misery and its expectations.
-
-If the soul behaves in this way, the anguish of the night of spirit will only root it more deeply, not only in humility, but also in a purer and more perfect hope, because based solely on the merciful love of God.
-
-2 — «In this time of purgation,» says St. John of the Cross, «the soul is wrapped in dense darkness in its intellect.... Almost always dry and cold, rarely fervent, it finds relief in nothing, not even a thought that consoles it, and cannot even raise its heart to God» (*Living Flame*).
-
-Here is another cause of spiritual pain: stark dryness, inability to think of God, inability to help oneself by meditating on divine things.
-
-It seems to the soul as though an immense wall has risen between it and God, preventing its groans from reaching Him. It is deep night, in which it can proceed only by leaning on naked, pure faith.
-
-Indeed, it must go forward thus, believing with all its strength that God is infinitely good, that God loves it and hears its cry, that God knows its torment and permits it only to purify it.
-
-In such a state, strong temptations against faith are not unusual. They may resemble those that afflicted St. Therese of the Child Jesus in the last period of her life: «The Lord allowed my soul to be invaded by thick darkness, so that the thought of heaven, so dear to me from earliest childhood, became for me cause of struggle and torment.»
-
-Yet she added: «Though I no longer have the comfort of faith, I strive at least to perform its acts; for a year now I have made more acts of faith than in all the rest of my life.» And, speaking of her poems on heaven, she confessed: «When I sing of heaven and of possessing God, I feel no joy at all; I sing simply what I want to believe.»
-
-This is exactly the conduct the soul must keep in such a state: to believe because it wants to believe, not based on what it feels or experiences, but solely on God’s word.
-
-These acts of pure faith, stripped of all comfort and independent of all feeling, are acts of heroic faith. They honor God all the more because they lean solely on divine revelation, and unite the soul more closely to Him precisely because they are devoid of human support.
-
-The darkness of the night of spirit has precisely this aim: to accustom the soul to walk in pure, heroic faith.
+Thus there awaken in the soul immense desires for apostolate, in no way comparable to those it might have had before: it feels it no longer belongs to itself, that its life is necessarily bound to that of the divine Redeemer and that, in imitation of Him, it must dedicate and consume it wholly in service of souls. Even those who live apparently most isolated from the world and from external contact with men - cloistered nuns in enclosure, contemplatives in hermitages or deserts - when they reach this state become eminently apostolic, and all their life of prayer and sacrifice is directed toward one ideal: to repair for humanity's sins, to save souls. While contemplatives pour out this apostolic zeal by redoubling hidden immolation, active souls dedicated to external works find in the interior flame, blazing from their union with God, the impulse, strength, support, and fruitfulness of their apostolate. Once again we must conclude that the way to reach maximum apostolic effectiveness is the solitary and silent way of union with God.
 
 ### Colloquy
 
-«O my Spouse, why do You wound me with your absence in this night so full of darkness and most sorrowful desolation? Who will help me in this extreme abandonment, in this solitude? Ah, how great are the sufferings of love, how great the anguish of a heart that knows and can do nothing but love, and cannot have the One it loves!
+"My God, what fervor and what strength in the charity of a soul united to You by love! Those so seized by You cannot limit themselves to their own personal profit, nor be content with it; rather, since it seems little to them to go to heaven alone, with wholly heavenly solicitude and affection and with exquisite diligence they strive to lead many others with them. Grant, O Lord, that such may be the effect of my love for You!" *(cf. St. John of the Cross)*.
 
-«O my most merciful King, I have no remedy but to sigh to You. From the depths of my heart I cry to You and invoke the tenderness of your love. Remember me, O my hope, and consider the bitterness of refusal and the length of abandonment that consume me.
+"O Lord, from a soul already resolved and wholly abandoned into your hands You ask nothing else but that it desire and seek, as much as it can, what may result in your greater glory.
 
-«Do not abandon me, sweetest Son of the Virgin, for with You mercy was born from the womb of your most pure Mother. See, Lord, how all my strength has failed, and without You I am oppressed by horror and by the shadow of death.
+"Oh, the charity of those who truly love You! What rest could they ever have if they saw they could contribute, even a little, to help one soul advance and love You more, or only to give it consolation and free it from danger? How unbearable their personal rest would become!
 
-«Have pity on me, my Friend, for all strength is spent and only my lips and tongue remain to cry to You. O immortal Life and fountain of living water, do not deprive me so harshly of your presence, dearer to me than life. I shall never rest, sweetest Son of God, nor cease to groan and supplicate until You turn toward me your merciful gaze» (Ven. John of Jesus and Mary, O.C.D.).
+"Oh, Lord, afflicted by the ruin of so many souls, if I cannot help them by works, I want to importune You with prayer. I want to renounce every personal contentment and esteem it well lost; I want to forget myself totally, to think only of the best way to fulfill your will.
+
+"My God, the more time passes, the more there grows in me the desire to contribute to the good of some soul, often seeming to me like one possessing a great treasure, eager to share it with all, but unable to distribute it because hands are tied. No longer able to contain myself, I raise my voice to You, begging You to provide me some means to cooperate in winning at least some soul for your service" *(T.G. Fd.* 5, 6 and 5; 1, 6 and 7).

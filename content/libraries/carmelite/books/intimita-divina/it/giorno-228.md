@@ -1,83 +1,25 @@
-## 228 — L'AMORE INFINITO
+## XXVIII — LE PERFEZIONI DIVINE
 
-### Presenza di Dio
-
-O mio Dio, che sei tutto amore, accendi in me la fiamma della carità.
+**Presenza di Dio.** — *Concedimi, o Signore, di comprendere qualche cosa della tua perfezione infinita.*
 
 ### Meditazione
 
-1. — La S. Scrittura ci dice: « Deus charitas est» (I Gv.
-4, 16), Dio è amore, amore eterno, infinito, sostanziale. Come tutto ciò che è in Dio è bello, buono, perfetto, santo,
-così tutto ciò che è in Dio è amore: la sua bellezza, la sua
-sapienza, la sua onnipotenza, la sua provvidenza e perfino
-la sua giustizia è amore. L'amore è perfetto e santo quando
-si rivolge con tutte le sue forze al Bene sommo, preferendolo
-a tutti i beni; questo è l'amore con cui Dio ama se stesso, appunto perchè egli è il Bene, l'unico bene sommo ed eterno,
-a cui nessun bene può essere preferito. L'amore infinito che
-Dio porta a se stesso è, quindi, per sua natura tutto santo
-e non ha nulla a che fare con quello che noi chiamiamo egoismo o amor proprio per cui amiamo noi stessi con affetto disordinato, sì da preferirei — in poco o in molto e talvolta
-perfino in tutto — a Dio, Bene sommo. Noi siamo egoisti
-perchè tendiamo ad amare noi stessi escludendo ogni altro
-affetto, ma Dio è così scevro da ogni ombra di egoismo che,
-pur amando infinitamente se stesso ed essendo totalmente
-pago del suo bene infinito, tende per sua natura ad effondere il suo amore anche al di fuori di sè. E' così che Dio
-ama le creature; non le ama davvero perchè in esse vi sia qual
-che bene che lo attiri, ma è lui stesso che, amandole, crea in loro il bene. « L'amore di Dio — dice S. Tommaso — è la causa
-chè infonde e crea la bontà nelle cose» (I, q. 20, a. 2);
-ecco, dunque, come Dio ci ama: con amore del tutto gratuito e libero, con amore sommamente puro, con amore che
-è insieme benevolenza e beneficenza: benevolenza che vuole il nostro bene, beneficenza che fa il nostro bene. Amandoci Dio ci chiama alla vita, infonde in noi la grazia, ci sollecita al bene, ci invita alla santità, ci attrae a sè, ci rende
+**1** — Gesù ha detto: «Siate perfetti come è perfetto il Padre vostro che è nei cieli» *(Mt.* 5, 48) e in tal modo ha orientato i nostri sguardi verso la perfezione infinita di Dio. Perfezione di cui quaggiù possiamo solo qualche pallido riflesso attraverso la considerazione delle perfezioni limitate che troviamo nelle creature, ma che non possiamo conoscere in se stessa perché nessuna idea umana è capace di abbracciare e di esprimere ciò che è infinito. Le idee ci dicono qualche cosa di Dio e delle sue perfezioni infinite, ma non ce lo possono mostrare quale Egli è. Dio, avverte S. Paolo, «abita in una luce inaccessibile» *(I Tim.* 6, 16), luce che supera infinitamente la capacità dell'intelletto umano, luce troppo luminosa, troppo splendida perché l'occhio della nostra mente possa fissarla direttamente; un po' come il sole, nella pienezza del suo fulgore estivo, supera la capacità della nostra vista, sì che nessun occhio umano può fissarsi in esso.
 
-partecipi della sua felicità eterna; tutto ciò che siamo ed abbiamo è dono del suo amore infinito.
+Tuttavia Gesù, parlandoci a più riprese delle perfezioni di Dio, ci ha invitato ad innalzare il nostro sguardo a tali altezze. E con ciò ci ha insegnato che, pur potendo intendere ben poco delle perfezioni divine, questo poco non ci sarà inutile, ma, anzi, molto prezioso. Infatti, quanto più un'anima avanza nella conoscenza di Dio, tanto più comprende che quel che sa di lui è un nulla in confronto a quel che Egli è; tanto più intuisce che al di là delle sue idee — fossero pure le più belle e le più elevate — c'è un oceano infinito di splendore, di bellezza, di bontà, di amore che nessuna mente umana riuscirà mai a comprendere. Questa consapevolezza dell'immensità di Dio, che sopravanza infinitamente la capacità del nostro intelletto, è una grande grazia. «Una delle grazie più grandi — afferma S. Giovanni della Croce — che Dio possa dare ad un'anima in questa vita, è farle intendere... o sentire tanto altamente di Dio da comprendere chiaramente che Dio non si può intendere né sentire del tutto» *(C.* 7, 9). Grazia assai grande, perché infonde nell'anima in senso sempre più profondo dell'immensità di Dio, della sua infinita trascendenza e perché, per contrasto, le fa comprendere sempre meglio il suo nulla e l'estrema limitatezza di qualsiasi perfezione umana.
 
-2. — «Dio primo ci ha amati» esclama l'apostolo
-S. Giovanni (I Gv. 4, 10) e di fatto ci ha amati fin dall'eternità. Noi eravamo nel nulla, tuttavia già stavamo nel pensiero di Dio ed Egli, vedendoci, ci ha amati ed ha decretato
-di chiamarci all'esistenza a preferenza di innumerevoli altri
-esseri. e Con amore eterno ti ho amato e perciò ti ho tirato
-a me, pieno di compassione » (Ger. 31, 3): ecco come Dio
-stesso ci rivela la storia della nostra vita, che è la storia del
-suo amore per noi. Storia che, una volta iniziata, non ammette fine, perchè l'amore di Dio non ha fine; solo il peccato
-ha la triste possibilità di interromperla, ma di per sè Dio
-sempre ci ama e ci amerà con amore incessante, infinito,
-eterno, immutabile, fedelissimo. Dio ci ama quando ci consola, ma ci ama anche quando ci prova e ci lascia nello sconforto; ci ama quando ci dona gioia a piene mani, ma ci ama
-anche quando ci affligge nel dolore; le sue consolazioni sono
-amore, ma non meno di esse lo sono i suoi castighi e le sue
-prove. In ogni circostanza, sia pure la più triste e la più
-penosa, siamo sempre circondati dal suo amore il quale non
-può essere che amore del bene e perciò vuole infallibilmente
-il nostro bene anche quando ci conduce per la via aspra e
-dura della sofferenza. Dio ci «fa morire e ci fa vivere,... ci
-flagella e ci salva» (cfr. I Re, 2, 6; Tob. 13, 2) sempre a
-motivo del suo amore. Anzi, non è raro che egli colpisca
-maggiormente coloro che ama di più « perchè — dice lo
-Spirito Santo — gli uomini accetti sono provati nel crogiuolo dell'umiliazione» (Ecli. 2, 5). E S. Teresa di Gesù afferma: « Questo [il patire] è ciò che il Padre diede a Colui
-che amava più di tutti [Gesù]... Finchè siamo quaggiù questi sono i suoi doni. Ce li dà a seconda dell'amore che ci porta: ne dà di più a chi ama di più, di meno a chi ama di
-meno» (Cam. 32, 7),
+**2** — Soltanto in cielo ci sarà dato di vedere la Divinità «a faccia a faccia», senza l'intermediario delle idee. Oggi, come dice S. Paolo, «vediamo attraverso uno specchio in enigma... ora io conosco parzialmente, allora conoscerò per intero» *(I Cor.* 13, 12). Questa conoscenza parziale di Dio — l'unica che possiamo avere sulla terra — l'abbiamo attraverso lo «specchio» delle creature; in esse, infatti, troviamo un riflesso delle sue perfezioni infinite: della sua bontà, della sua sapienza, della sua giustizia, della sua bellezza, ma un riflesso molto imperfetto, molto limitato. Nessun uomo, ad esempio, è tanto sapiente da conoscere tutto ciò che esiste; nessun uomo è tanto buono da non mancare talvolta di bontà per debolezza; nessun uomo è tanto giusto da non mancare talvolta di giustizia per rigidezza, e così via. Soltanto spogliando le perfezioni dai difetti e dai limiti che sempre hanno nelle creature, possiamo farci una pallida idea delle perfezioni divine. Dio è buono, sempre buono, infinitamente buono: «Solo Dio è buono» *(Mt.* 19, 17), ha detto Gesù, intendendo appunto che solo lui possiede la bontà per eccellenza, anzi, è la stessa bontà, bontà senza limiti, che mai tramonta e mai vien meno.
 
-Credere all'amore di Dio, credervi fortemente anche quan
-do ci colpisce in ciò che abbiamo di più caro, ecco il programma dell'anima che vuol fidarsi ciecamente dell'Amore infinito.
+Rifletti, dunque, come sbagli quando ti attacchi a qualche creatura: per quanto bella, buona, sapiente possa essere, la sua bellezza, la sua bontà e sapienza è un niente in confronto alle perfezioni di Dio. Anzi, S. Giovanni della Croce va oltre e dice: «Ogni bellezza delle creature, paragonata all'infinita bellezza di Dio, è somma deformità... Tutta la bontà delle creature del mondo, messa a confronto con l'infinita bontà di Dio, si può chiamare malizia... Pertanto, l'anima che pone il suo cuore nei beni della terra è assai colpevole dinanzi a Dio; e, come la bruttezza non può andar congiunta con la bellezza, come la malizia non si unisce alla bontà, così un'anima di tal fatta non potrà unirsi a Dio il quale è somma bontà e bellezza» (cfr. S. I, 4, 4). Comprendi così che, se vuoi unirti a Dio, non devi lasciarti legare il cuore dalle bellezze, dalle qualità delle creature e che in Dio solo puoi riporre il tuo affetto e la tua speranza, senza timore di rimanerne deluso.
 
 ### Colloquio
 
-« Insegna, o mio Dio, a me misero quanto io ti debba amare, e ti amerò con tutto il mio cuore, con tutta l'anima mia,
-poichè Tu fosti il primo ad amarmi. Ecco che io esisto
-perchè Tu mi creasti; e fin dall'eternità Tu stabilisti di crearmi e di annoverarmi fra le tue creature. E d'onde a me ciò,
-Signore benignissimo, Dio altissimo, Padre misericordiosissimo, per quali meriti miei, per quale mia grazia, piacque alla tua Maestà di crearmi? Io non ero e Tu mi creasti; niente io ero e dal nulla mi traesti, facendomi qualche cosa. E
-quale cosa? Non stilla d'acqua, non fuoco, non uccello o
-pesce o qualche altro animale bruto..., ma mi creasti di poco
-inferiore agli angeli poichè ricevetti come essi la ragione per
-conoscerti e, conoscendoti, posso amarti. Ed io, o Signore,
-per la tua grazia sono uomo e posso essere tuo figlio per grazia, il che non possono le altre creature. Questo ha fatto
-la tua sola grazia, la sola tua bontà, affinchè io fossi parte
-cipe della tua dolcezza. Dammi, dunque, la grazia di essertene grato, Tu che dal nulla mi creasti!» (S. Agostino).
+«Quando giungeremo a te, o fonte di sapienza, a te, lume indeficiente, a te, luce inestinguibile, sì che ti vediamo, non più come in uno specchio e in un enigma, ma a faccia a faccia? Allora sarà pago il nostro desiderio, poiché più nulla potremo desiderare all'infuori di te, o Signore, Bene sommo. Ivi vedremo, ameremo e loderemo; vedremo nel tuo lume la tua luce, poiché presso di te è il fonte della vita, e nel tuo lume vedremo la luce.
 
-«O mio Dio, Sapienza infinita, senza misura e senza limiti, superiore a tutte le intelligenze angeliche ed umane!
-O Amore che mi ami più di quanto io sappia intendere ed
-amare me stessa! Io mi meraviglio, quasi fino ad uscire di
-me nel considerare l'amore che Tu ci hai portato e ci porti,
-nonostante quel che siamo.
+«Quale luce? Luce immensa, luce incorporea, incorruttibile, incomprensibile; luce indeficiente, luce inestinguibile, luce inaccessibile, luce increata, luce vera, luce divina che illumina gli occhi degli angeli, che letifica la giovinezza dei santi; luce che è fonte di ogni luce e di vita, il che sei tu, o Signore Dio mio! Tu sei luce nel cui lume vedremo la luce, ossia te in te, nello splendore del tuo volto, quando ti vedremo a faccia a faccia.
 
-«Come potrebbe la mia volontà non sentirsi inclinata ad
-amarti? O Signore, ho ricevuto da te tante dimostrazioni di
-amore e desidero ripagarti almeno in qualche cosa. Mi colpisce soprattutto il pensiero che Tu, vero amante, non solo
-non mi abbandoni, ma mi resti sempre vicino per darmi l'essere e la vita. Comprendo che un amico migliore non potrò
-mai trovarlo» (T.G. Es. 17, 1; PA. 1, 7; cfr. M. II 4).
+«La tua visione è tutta la mercede, tutto il premio, tutto il gaudio che aspettiamo. Questa è la vita eterna: che conosciamo te, solo vero Dio... Allora avremo quello che cerchiamo, quando vedremo te, solo vero Dio, Dio vero, Dio vivo, onnipotente, semplice, invisibile, incircoscritto, incomprensibile.
+
+«O Signore Dio mio, non permettere più ch'io sia distratto da te, ma raccoglimi dalle cose esteriori a me stesso; donati a me affinché ti dica sempre il mio cuore: io cercai la tua faccia; la tua faccia, o Signore, cercherò; la faccia del Signore delle virtù, nel quale consiste tutta la gloria sempiterna dei beati: nel vedere la quale consiste la vita eterna e la gloria sempiterna dei santi» (S. Agostino).
+
+«Fammi comprendere, o Signore, che la bellezza e tutte le altre doti delle creature sono terra, da questa vengono e ad essa ritornano; che la loro grazia e la loro leggiadria sono fumo e vento e che per tali devi stimarle per non cadere in vanità. In tutte queste cose aiutami ad indirizzare il cuore a te, con gaudio ed allegrezza, pensando che Tu sei ed hai in te tutte le bellezze e le grazie in grado eminentissimo ed infinito al di sopra di tutte le creature le quali — come dice Davide — 'come vestimenta s'invecchieranno e passeranno, mentre Tu solo rimani immutabile per sempre'» (cfr. G.C. S. III, 21, 2).

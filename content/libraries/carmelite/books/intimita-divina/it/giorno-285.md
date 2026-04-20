@@ -1,115 +1,19 @@
-## 285 — L'ESERCIZIO DELLA PAZIENZA
+## XXIV — LA GIUSTIZIA PERFETTA
 
-### Presenza di Dio
-
-Dammi, o Signore, maggior pazienza perchè possa soffrire di più per amor tuo.
+**Presenza di Dio.** — *O Signore, che sei giusto ed ami le azioni giuste, insegnami la perfezione della giustizia.*
 
 ### Meditazione
 
-1.— La pazienza è una virtù di necessità primaria e quotidiana. Come abbiamo bisogno del pane per vivere, così ogni
-giorno, anzi, ogni momento abbiamo bisogno della pazienza,
+**1** — La giustizia di un'anima che aspira alla perfezione non è fredda, arida, avara, ristretta a ciò che è assolutamente dovuto, ma è larga, liberale, generosa, vivificata dal soffio dilatante della carità. Perciò si spinge assai più in là della giustizia materiale — la quale riveste le azioni esteriori senza partire dal cuore — ed è anzitutto giustizia interiore, ossia rettitudine del cuore e della mente, giustizia dei pensieri, dei desideri, dei sentimenti, delle intenzioni. L'anima che la possiede non ha ascoltato invano la parola di Gesù: «Se la vostra giustizia non sarà maggiore di quella degli scribi e dei farisei non entrerete nel regno dei cieli» *(Mt.* 5, 20). La giustizia dei farisei era insufficiente appunto perché si limitava ad un'osservanza puramente esteriore delle prescrizioni legali, mentre non si faceva scrupolo di calpestare alla chetichella doveri sacrosanti; quegli uomini ricoprivano la loro condotta pubblica col manto della giustizia, senza preoccuparsi di ispirare alla giustizia la loro condotta privata, gli affetti e i desideri del loro cuore. Che cosa può valere, ad esempio, atteggiandosi in pubblico a difensore dei diritti del popolo, quando privatamente non si retribuiscono gli operai secondo giustizia, o si manca di onestà nel commercio, negli affari, nell'esercizio della professione? Che cosa può valere circondare una persona di parole gentili, di promesse e anche farle dei regali, quando non si vogliono riconoscere e rispettare i suoi diritti?
 
-rchè ogni giorno ed ogni momento porta con sè la sua pena.
-E diventa pazienti facendo atti di pazienza, ossia abituandosi
-ad accettare dolcemente tutto ciò che ci contrasta e ci fa soffrire. Ma se, invece di accettare, Toronto e cerchiamo a
-tutto potere di fuggire qualsiasi cosa che ci riesce molesta,
-non acquisteremo mai la pazienza. Se, per esempio, trovandoci, per motivo di ufficio, a contatto con una persona che
+L'anima assetata di giustizia ha in orrore tutti questi procedimenti e, ben lungi dall'accontentarsi di apparire giusta nelle azioni che possono essere controllate dagli altri, vuol essere lo in tutte, anche in quelle che sfuggono agli sguardi degli uomini e sono note a Dio solo e vuole soprattutto la giustizia del cuore e della mente, perché solo dalla giustizia interiore procederà quella esteriore.
 
-
-ci urta, oppure alle pes con un lavoro pesante, difficile
-E noioso, procuriamo di liberarcene al più presto sollecitando
-un cambiamento, ecco che veniamo a privarci di un'occasione preziosa preparataci da Dio stesso per farci esercitare
-la virtù. In certi casi è lecito, e può essere anche doveroso,
-esporre le nostre difficoltà ai superiori e chiedere umilmente un rimedio, ma non dobbiamo mai insistere per ottenerlo
-a tutti i costi, Bisogna invece pensare che la divina Provvidenza ha disposto per noi la tale circostanza proprio per farci
-acquistare quella pazienza che ancora non abbiamo. S. Filippo Neri, che si lamentava un giorno col Signore per do-
-ver trattare con una persona impertinente e quanto mai molesta, si sentì rispondere interiormente: «Filippo, tu mi hai
-chiesto la pazienza, eccoti il mezzo per acquistarla ». Dio ci
-darà certamente le virtù che gli chiediamo, ma ce le darà solo se, approfittando dei mezzi che Egli ci offre e del soccorso
-della sua grazia, ci applicheremo ad esercitarle.
-
-Chi vuol davvero farsi santo non sarà mai sollecito ad
-evitare le occasioni di esercitare Ja pazienza, ma cercherò di
-abbracciarle volentieri fino in fondo, così come se le trova
-davanti, perchè vede in esse i mezzi disposti da Dio per la
-sua santificazione. E come può ardire una piccola creatura di
-voler cambiare ciò che è stato disposto «in misura, numero
-e peso» (Sap. 11,21) dalla sapienza infinita di Dio?
-
-
-2. — Dio sa trarre il bene dal male, perciò può servirsi,
-e di fatto si serve, anche dei difetti e perfino dei peccati nostri ed altrui per farci esercitare la pazienza. Pazienza con
-noi stessi vedendoci tanto fragili, imperfetti, tanto facili a
-cadere, riconoscendo umilmente le nostre colpe e portandone
-in pace le conseguenze; pazienza con gli altri, compatendo Je
-debolezze di ognuno ed accettando senza irritarci i disagi e
-le sofferenze che ci possono derivare dai difetti altrui. Quando, ad esempio, una persona ci disturba, ci provoca, non dob-
-biamo fermarci a considerare il suo modo di procedere per
-chè questo ci muoverà facilmente a sdegno rendendoci più
-
-
-difficile l'esercizio della pazienza; dobbiamo invece distogliere il nostro sguardo dalla creatura per fissarlo in Dio che
-
-ette quella contraddizione per farci progredire nella virtù. Dobbiamo anche evitare di lamentarci con gli altri di
-quel che soffriamo e non dobbiamo neppure lamentarcene
-con noi stessi: le lamentele amareggiano sempre il cuore e
-lo indispongono ad accettare in pace il dolore. « Patire e tacere per te, Dio mio » (T.M.) è il motto dell'anima paziente
-che vuol conformarsi alla condotta di Gesù nella sua Passione:
-«E' stato sacrificato... e non ha aperto bocca» (Is. 53, 7).
-Avendo bisogno di un pò di aiuto per sostenere la prova,
-parliamone solo con chi ci può incoraggiare a patire per amor
-di Dio e non con chi, consolandoci e compatendoci in un modo troppo umano, può alimentare in noi il risentimento ver-
-so coloro che ci fanno soffrire.
-
-I santi sono stati tutti avidi di quelle occasioni di sofferenza che noi sfuggiamo con tanta premura. Pensiamo a S. Fran-
-cesca di Chantal che per molti anni si è assoggettata a vivere in casa del suocero a contatto con una persona di servizio
-che le mancava di rispetto, la calunniava e danneggiava perfino gli interessi dei suoi figli. Pensiamo a S. Giovanni della
-Croce che, avendo avuta la libertà di scegliersi il convento
-dove passare i suoi ultimi anni, diede la preferenza a quello
-in cui era superiore un religioso a lui contrario. Eroismi di
-santi, sì, ma eroismi da cui Dio non esclude nessun'anima di
-buona volontà, chè anzi ve l’invita; eroismi ai quali noi
-pure, se vogliamo essere davvero generosi, dobbiamo prepararci mediante l'accettazione amorosa di tutto ciò che ci fa
-
-
-soffrire. ;
+**2** — Se con noi stessi dobbiamo essere rigorosi nel pretendere la giustizia in tutte le nostre azioni interne ed esterne, non dobbiamo esserlo altrettanto riguardo al prossimo. Nessuno più di Gesù è venuto a portare la giustizia nel mondo e nessuno più di lui ha agito con bontà, con dolcezza. Anche quando, per motivo di ufficio o di apostolato, si ha il dovere di tutelare e stabilire la giustizia in un determinato ambiente, bisogna guardarsi dal procedere con rigore e bisogna, invece, agire con bontà cercando di persuadere piuttosto che di imporre. Chi pretende di fare giustizia con la forza non otterrà nulla o, al massimo, otterrà una posizione forzata che presto crollerà. Seguendo l'esempio di Gesù, bisogna cercare di far penetrare la giustizia negli animi e nella società mediante la carità, l'amore, la comprensione delle debolezze altrui e, se vogliamo essere realisti, bisogna pur ricordare che, per quanto si faccia, non si potrà mai ottenere su questa terra, e nemmeno negli ambienti migliori, una giustizia assoluta. La giustizia perfetta l'avremo solo nel cielo; anche Gesù ha sopportato le ingiustizie di Giuda e dei farisei e, benché avrebbe potuto farlo, non ha voluto che la zizzania fosse strappata dal campo se non al momento della mietitura. Soprattutto quando si tratta di ingiustizie che vengono a colpire la nostra persona dobbiamo essere molto longanimi e misericordiosi. Per un'anima che aspira alla santità si può ben dire che la giustizia più grande consiste proprio nel sopportare pazientemente e umilmente le ingiustizie di cui è fatta segno, giacché sarebbe assurdo pensare di giungere alla perfezione senza seguire la via battuta da Gesù. Se Egli, innocentissimo, ha sofferto tante ingiustizie senza muovere lamento, non sarà giusto che noi, peccatori, ne soffrimo almeno qualcuna senza atteggiarcisi a vittime, ma con santa disinvoltura e serenità? La stessa giustizia, dunque, ci spinge anche a sopportare le ingiustizie; proprio così questa virtù, che comincia coll'imporci di dare a ciascuno il suo, culmina inclinando le anime nostre ad entrare pienamente nella via della santità e dell'unione con Dio.
 
 ### Colloquio
 
-«O Signore, noi vorremmo servirti, sì, e darti gusto, ma
+«La giustizia procede da te, o Dio, ha l'occhio sempre rivolto a te e dà giustamente ad ognuno quel che gli spetta. Ma che cos'è questa giustizia e che vuol dire che mira sempre in te? Oh, la giustizia è una tua perfezione, anzi giustizia propriamente sei Tu, o Dio! E chi riflette in sé questa virtù, tiene lo sguardo rivolto a te perché a te assomiglia e vuole assomigliarti in tutte le sue azioni, agendo sempre senza inganno o frode. Mirando poi, in te, o Verbo incarnato, l'anima ti vede così giusto che, anziché mancare di giustizia, hai voluto punire in te i nostri peccati e perciò anch'essa vuol far giustizia in sé medesima dei suoi errori. Ma vede anche che in te la giustizia non ricusa la misericordia, sì che Tu, o Cristo, nutri di te medesimo i tuoi redenti: li nutri con le tue parole, opere ed esempi, ma molto più col tuo Sangue prezioso» (cfr. S. M. Maddalena de' Pazzi).
 
+«O Signore, il profumo della tua giustizia è dovunque e così abbondante che Tu non sei chiamato semplicemente il Giusto, ma la Giustizia stessa, anzi la Giustizia giustificante; e tanto più puoi giustificare, quanto più sei inclinato a perdonare. Perciò chiunque, detestando i suoi falli, ha fame e sete della giustizia, può sperare in te che giustifichi l'empio.
 
-senza nulla patire! Eppure molto più ti siamo grati quando
-nel tuo servizio patiamo qualche cosa a tua imitazione e per
-
-
-amor tuo.
-« L'esercizio del patire è cosa tanto preziosa e nobile che
-
-
-Tu, o Verbo, trovandoti nel seno dell’Eterno Padre, sovrabbondante di tutte le ricchezze e le delizie del Paradiso, poi.
-chè non eri ornato dalla stola del patire, sei venuto ragsa
-pa poterla avere. Tu sei Dio e non ti puoi ingannare; perciò come Tu scegliesti il nudo patire, così lo voglio sc dic
-re anch'io per amor tuo. Quello che ora ti domando, DSi
-gnore, è dunque che Tu mi conceda di potere sperimentare
-un nudo patire che non sia mescolato ad alcuna consolazione
-Per la confidenza che ho nella tua bontà, spero che mi f:
-rai qua grazia prima che muoia. 5
-«Ma, per cavar profitto dalle tribolazioni, i i
-
-«E in tutto al tuo aa peo
-ni sarebbi ; di gran peso ed roper il Quando invece
-
-nima si abbandona tutta nelle braccia della tua volontà
-allora in mezzo alle tristezze trova conforto; e se anche per
-qualche tempo Tu la lasci nelle tenebre, ben presto la dn
-tristezza sarà convertita in gaudio, sì che per nessuna dolcezza
-del DO, son mai vorrebbe non aver patito.
-
-«O beato, felice e glorioso chi patisce
-
-Verbo, poichè — ardirò dirlo _ finchè degna pata +
-gior cosa il patire per te che il possederti, poich CORRE
-doti possiamo ancora perderti, ma se patiamo per amor tuo, ci
-Ammetterzi alla vita eterna, dove non potremo perderti gia =
-mai» (S. M. Maddalena de’ Pazzi).
+«Nessuno ha la presunzione di pensare che la sua giustizia o la sua santità siano sufficienti ad assicurargli la salvezza. Perciò io corro a te, o Gesù: la tua Passione è il supremo rifugio, l'unico rimedio! Essa ci soccorre quando la nostra saggezza vien meno, la giustizia è troppo debole e vani sono i meriti della nostra santità. Quando la mia fortezza sarà vacillante, io non mi perderò di coraggio. So bene ciò che dovrò fare: prenderò il calice della salvezza e invocherò il nome del Signore. Illumina, o Signore, i miei occhi perché sappia ciò che Tu gradisci in ogni tempo e allora sarò saggio. Perdona i falli della mia giovinezza e della mia ignoranza e sarò giusto. Guidami, o Signore, sulla tua via e sarò santo. Ma se il tuo Sangue non intercede per me, io non sarò salvo» (S. Bernardo).

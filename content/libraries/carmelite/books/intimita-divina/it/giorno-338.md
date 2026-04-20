@@ -1,99 +1,19 @@
-## 338 — LA VIA DELL'UNIONE
+## 16 — RETTITUDINE D'INTENZIONE
 
-### Presenza di Dio
-
-Dammi luce, o Signore, e dammi forza per strappare da me tutto ciò che m'impedisce di unirmi a te.
+**Presenza di Dio.** — *O Dio, strappa dal mio cuore tutte le intenzioni seconde, tutti i movimenti dell'amor proprio, affinché io miri solo alla tua gloria.*
 
 ### Meditazione
 
-1— «Si unisce di più a Dio quell'anima che è più
-progredita in amore, ossia quella che ha la propria volontà più conforme a quella di Dio » (G.C.S.II, 5,4). Sul
-piano concreto della vita l'amore, quando è vero, si manifesta nel voler fare ciò che piace alla persona amata,
-nell'uniformarsi ai suoi desideri, ai suoi gusti, ai suoi voleri, non volendo. nulla di ciò che a lei può dispiacere.
-La misura con cui un'anima sa davvero conformarsi alla
-volontà di Dio, è la misura della sua unione con lui; ed
-è evidente che quest'unione non sarà perfetta finchè l'anima resiste, anche in piccole cose, al volere divino 0
-non le accetta di buon cuore, come pure finchè conserva
-desideri e gusti che, anche in modo molto lieve, sono in
-disarmonia con quelli di Dio. Tutto il cammino Spirituale verso l'unione divina consiste in un duplice movimento
-molto semplice, ma essenziale: spogliarsi di rutto ciò che
-non piace a Dio, rinunciare a tutto ciò che contrasta con
-la sua volontà, conformandosi ad essa e compiendola col
-più grande amore. Movimento molto semplice, ma insieme molto ampio, perchè deve estendersi a tutte le circostanze della vita, nessuna esclusa, sì che in tutte, nelle
-grandi come nelle minime, l'anima si comporti in modo
-perfettamente conforme al volere divino; movimento molto profondo, perchè deve raggiungere tutte le pieghe più
-nascoste dello spirito per sbarazzarlo dei minimi rimasugli e delle ultime resistenze dell'egoismo e dell'orgoglio,
-non solo eliminandone gli atti, ma scalzandone anche le
-radici, Finchè questo lavoro di profonda purificazione non
-sarà condotto a termine, la volontà dell'anima non potrà
-essere totalmente conforme a quella divina, opponendovisi ancora le sue molte impertezioni ed abiti imperfetti.
-Solo «l'anima che ha la volontà interamente contorme e
-somigliante alla divina, è... del tutto unita e trasformata in
-Dio »; perciò chi vuol giungere all'unione «non ha altro
-bisogno che di spogliarsi delle sue contrarietà e dissomiglianze » (ivi).
+**1** — Molte volte il disagio che le anime avvertono nell'apostolato deriva dal fatto che la loro attività apostolica non viene esercitata con quelle condizioni che di per sé richiede e che sono indispensabili per trasformarla in un intenso esercizio di vita spirituale. Si tratta di un certo disordine, di motivi più o meno umani che, insinuandosi in tale attività, la fanno scendere dal piano soprannaturale a quello umano e la fanno diventare un'occasione di deviazione, di raffreddamento della vita interiore, per cui l'anima si sente insoddisfatta, inquieta. Pio XII, nel *Motu proprio «Primo feliciter»*, ha espresso molto chiaramente le condizioni di un'attività santa: «L'apostolato — egli dice — deve essere sempre esercitato con tanta purezza d'intenzione, con tanta interiore unione con Dio, con sì generosa dimenticanza e forte abnegazione di sé e con tale amore alle anime, che esso scaturisca dallo spirito interiore che lo informa e nel medesimo tempo continuamente alimenti e rinnovi questo stesso spirito». Riesaminando il nostro apostolato alla luce di queste parole potremo individuarne i punti deboli, scoprire i difetti da evitare ed i rimedi da prendere. Le condizioni proposte sono quattro: purezza d'intenzione, unione con Dio, abnegazione di sé, amore alle anime; esse sono di tale importanza che, mentre assicurano all'apostolato la sua fecondità, ne fanno un efficace mezzo di progresso spirituale. Sforzandoci di realizzarle, eleveremo insieme il livello della nostra attività e della nostra vita interiore.
 
-lontà è ancora molto dissimile da quella di Dio. Dio vuole solo il bene e lo vuole in modo perfettissimo; tu invece insieme col bene vuoi spesso anche ciò che è male;
-inoltre il bene stesso che vuoi, lo vuoi molto fiaccamente
-e lo operi molto imperfettamente. Tutte le volte che commetti qualche mancanza, anche una semplice imperfezione, vuoi qualche cosa che Dio non può volere; potranno
-essere piccoli atti di pigrizia, di negligenza, di impazienza;
+Consideriamo anzitutto la purezza d'intenzione; se nessuno può «servire Dio e Mammona» *(Mt.* 6, 24), tanto meno l'apostolo può darsi all'attività apostolica con la doppia intenzione di servire Dio e l'amor proprio, di piacere a Dio e al mondo, di zelate gli interessi delle anime e gli interessi personali. La forza, la pace, la vita vengono dall'unità; il frammentarismo, anche quello dello spirito, non può portare che alla debolezza, alla divisione, alla guerra e infine alla morte. L'apostolo che ha il cuore diviso da intenzioni opposte invano cercherà la pace nel suo lavoro, ma sarà sempre inquieto, insoddisfatto.
 
-'anno essere Sordi ricerche di te stesso o dell'affetto e
-lella stima delle creature; potranno essere sottili intenzioni seconde che s'infiltrano nel tuo operare. Tutte cose che
-devono essere eliminate per giungere all'unione con Dio.
-
-S. Giovanni della Croce dice espressamente che non
-solo i principianti nel cammino dello spirito, ma anche i
-proficienti vanno soggetti a molte imperfezioni e conserVano ancora degli abiti imperfetti, provenienti soprattutto
-da un sottile orgoglio ed egoismo spirituale. Essendosi a
-lungo esercitati nella vita interiore, facilmente s'insinua in
-essì una certa presunzione e sicurezza di sè, per cui nel
-loro tratto con Dio sono esposti a mancare di umiltà e
-di riverenza, mentre nei rapporti col prossimo cadono
-spesso nella debolezza di voler essere stimati perfetti. Inoltre, non essendo del tutto distaccati da se stessi, si fermano a godere un po' egoisticamente Je consolazioni spirituali che ricevono nell'orazione e così si distraggono dalla ricerca di Dio solo, ritardano il loro cammino verso
-l'unione e si espongono pure a cadere negli inganni della
-fantasia o del demonio Lf N. II,2).
-
-Ciò dimostra quanto profonde siano in noi le radici
-dell'orgoglio e dell'egoismo, in modo che, distaccando il
-cuore dalle vanità terrene e dai beni materiali, siamo subito pronti ad attaccarci ai beni spirituali. Tuttavia non
-dobbiamo disperare di giungere all'unione, ma piuttosto
-prendere motivo dalla nostra miseria per supplicare con
-maggiore insistenza il Signore affinchè si degni di condurre a termine l'opera della nostra purificazione, Egli,
-del resto, lo desidera più di noi stessi e, se non lo fa
-come vorrebbe, è solo perchè ci trova riluttanti, insofferenti, assai poco disposti ad accettare di buon volere ciò
-che ci umilia e ci mortifica sino in fondo. Eppure solo
-questa è la via per giungere all'unione con Dio.
+**2** — Si può mancare di rettitudine d'intenzione in modo grossolano che risalta facilmente all'occhio, ma anche in modo così sottile che all'anima distratta passa del tutto inosservato. Per scoprire le minime intenzioni seconde, che come piccole volpi si insinuano di soppiatto a rovinare l'attività apostolica, occorre un clima di raccoglimento e di preghiera. Nei momenti di pausa ai piedi del Signore l'apostolo si accorgerà che spesso, durante le occupazioni quotidiane, perde di vista il fine soprannaturale che dovrebbe animare la sua attività e che in luogo di esso subentrano fini secondari che diventano il motivo immediato di tante sue deliberazioni ed azioni. Ciò significa che la sua intenzione non rimane orientata unicamente verso Dio e le anime, ma spesso devia sotto l'influsso dell'amor proprio; si tratterà talvolta di una ricerca più o meno inconscia del plauso, della gloria, oppure di preoccupazioni riguardanti il proprio tornaconto, il proprio interesse materiale: non perdere un posto, procurarsi qualche avanzamento di carriera, essere preferito dai superiori e prescelto per opere più attraenti o redditizie... Insomma, dovrà constatare che, accanto all'amore di Dio e delle anime, vi è ancora molto amor proprio ed egoismo. Davanti a questo quadro poco consolante non deve scoraggiarsi, ma riconoscere umilmente la propria miseria e ringraziare il Signore che gliela scopre appunto perché possa correggersene. Non deve neppure pensare che tutto ciò che fa sia unicamente frutto di amor proprio: no, quando una persona si è data all'apostolato mossa dal desiderio sincero di fare la volontà del Signore e di conquistargli altri cuori, bisogna dire che è animata dall'amore di Dio e delle anime, e tuttavia bisogna pure ammettere che il suo amore non è ancora così forte da trionfare totalmente delle passioni umane. L'apostolo non deve dunque cessare di combattere tutte le manifestazioni, anche minime, dell'amor proprio, non deve indulgere con esse col pretesto che si tratta di movimenti naturali, ma correggere, mortificare, reprimere, tagliare senza pietà, sempre rettificando le sue intenzioni. È necessaria una lunga e profonda purificazione per vincere totalmente il dualismo fra Dio e l'io, l'amore delle anime e l'amore di sé. Occorre invocare dal Signore la grazia di questa purificazione totale e disporsi facendosi tesoro di tutte le occasioni di distacco, di rinuncia, di sacrificio, di umiliazione che l'attività apostolica offre in abbondanza a chi vi si dedica seriamente. Battendo questa via, l'apostolo troverà nel suo lavoro un ottimo mezzo di ascesa spirituale e, anziché invischiarsi nei pericoli che l'attività esterna presenta quando l'amor proprio non è represso, si purificherà attraverso l'esercizio del suo apostolato.
 
 ### Colloquio
 
-« Finchè la mia volontà ha capricci estranei all'unione
+«O Signore, quando voglio pregare o lavorare per il bene delle anime, devo anzitutto drizzare l'occhio della mente a te, eterno Lume e al tuo splendore, affinché Tu mi dia luce, fortifichi lo spirito mio e mi aiuti a ritirarmi il più possibile dalle cose esterne per essere tutto interiore e rivolto alle cose interiori. Fa' che nel prossimo consideri solo l'uomo interiore, non curandomi dell'esteriore se non in quanto serva all'interiore, in modo che tutto il resto sia messo da parte come vanità e io non sia tirato a cose vane.
 
-divina, fantasie di sì e di no, io resto allo stato d'infanzia,
-non cammino nell'amore a passi da gigante, perchè il tuo
-fuoco, O Signore, non ha ancora bruciato tutte le scorie,
-l'oro non è puro, ed io sono ancora tma cercatrice di me
-stessa. O Signore, non hai ancora consumato tutta la mia
-ostilità verso di te! Ma quando avrai distrutto in me ogni
-amore vizioso, ogni dolore e timore difettoso, allora
-more sarà perfetto e l'anello d'oro della nostra unione
-sarà più largo che il cielo e la terra,
-._ «Ma per far questo è necessario che ogni giorno muoia a me stessa. O Gesù, voglio morire, voglio diminuire,
-voglio rinunziare a me stessa ogni giorno di più, perchè
-Tu cresca e sia esaltato in me, I siedo piccola piccola, nel
-fondo della mia povertà; vedo il mio nulla, la mia miseria, la mia impotenza, mi accorgo di essere incapace di
-progresso, di perseveranza, vedo la moltitudine delle mie
-negligenze, dei miei difetti; mi scorgo nella mia indigenza, mi prostro nella mia miseria, riconoscendo il mio bisogno estremo lo espongo alla tua misericordia, 0 mio
-divino Maestro! Voglio far consistere la gioia dell'anima
-mia — quanto alla volontà e non alla sensibilità — in tutto
-ciò che può immolarmi, distruggermi, abbassarmi, perchè
-voglio far posto a te, o Signore. Non voglio più vivere
-della mia vita, ma essere trasformata in te, affinchè la mia
-vita sia più divina che umana, ed il Padre, piegandosi su
-di me, possa riconoscervi l'immagine del Figo diletto
-nel quale ha posto tutte le sue compiacenze » (cfr. E.T.1,
-20,3);
+«Dio mio, che io sia mosso all'apostolato, alle orazioni e ai digiuni, solo dal desiderio di salvare le anime e non dalla vanagloria, dall'ambizione, dall'umana compiacenza o da qualche mondana utilità. Te solo, o Cristo crocifisso, voglio cercare! Voglio inebriarle le anime del tuo Sangue e non di curiosità, affinché bramino solo te. Voglio dire a ciascuna di esse: 'io non conosco altro se non Gesù Cristo e lui crocifisso'. Perciò, non solo non voglio vantaggi terreni e non m'importa di piacere agli uomini, non mi importa neppure il giudicio di conoscere altra persona o altra cosa tranne te, Cristo crocifisso.
 
-
-»risenza Di pio. — O Signore, infondimi maggior amore e
-maggior coraggio, perchè sappia di buon cuore accettare la tua
-azione purificatrice.
+«O Signore, inebriami tanto del tuo amore che qualunque altra cosa mi si offra allo sguardo o al gusto, all'udito o ad un altro senso, qualunque cosa, tranne te, io la consideri un nulla, sì che non mi diletti, non mi glori, non mi riposi se non nel tuo Sangue, al quale vo' essere totalmente rivolto. Fa' che i miei occhi non siano pieni di cose terrene, del tuo soffrire, fa' che la mia bocca non sia piena di parole vane, ma della tua Passione, e così tutti gli altri sensi» *(cfr. S. Bonaventura)*.

@@ -1,118 +1,144 @@
-## 115 — A VERDADEIRA GLÓRIA
+## 113 — ESCONDER-SE DE SI MESMO
 
 ### Presença de Deus
 
-— Ó Jesus, que por amor de mim aceitaste a desonra da morte de cruz, ensina-me em que consiste a verdadeira glória e faze que, por amor de ti, eu saiba vencer meus pontos de honra.
+— Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.
 
 ### Meditação
 
-1 — S. Teresa de Jesus ensina: "Por pouco que alguém
-esteja apegado à honra, não pode avançar na virtude sem
-primeiro libertar-se disso", porque "onde reinam os pontos de honra
-nunca se chegará ao pleno desapego, nem se gozará do verdadeiro
-fruto da oração", que é a intimidade com Deus. Aliás, a
-Santa nota que o motivo pelo qual muitas pessoas, já há
-tempo adestradas na vida espiritual e beneméritas por
-tantas obras boas, "ainda rastejam pela terra" e não
-conseguem elevar-se mais alto, está justamente em serem
-detidas pelo "ponto de honra; e, o que é pior,
-não querem persuadir-se disso, enganadas como estão pelo
-demônio até crerem que são obrigadas a defendê-lo"
-(Vi. 31, 20; Cam. 12, 5).
-
-O apego aos pontos de honra resolve-se, na prática,
-em muitos pequenos ou grandes melindres para afirmação da
-própria personalidade, para defesa da própria estima, dos
-próprios pontos de vista; concretiza-se em muitas manobras mais
-ou menos conscientes e mesquinhas para conquistar ou sustentar
-certas posições de privilégio e de honra diante dos outros,
-para fazer valer as próprias razões - que se julgam sempre boas -
-as próprias capacidades, as próprias obras, os próprios
-méritos, que se consideram sempre grandes e dignos de consideração.
-Tudo isso permanece mais ou menos mascarado pelo
-fato de que cada um tem, ou crê ter, a intenção de agir
-para o bem e, por isso, julga legítimo seu modo de agir;
-entretanto não se percebe que, sob o pretexto de defender o
-bem, de evitar escândalo, de sustentar obras boas,
-na realidade se defende o amor-próprio. Tanto é verdade que,
-apresentando-se a ocasião e em igualdade de condições, tantos esforços
-não se fazem realmente para defender a honra e as obras
-alheias, mas somente para defender a própria honra
-e as próprias obras. Uma alma que se deixa tomar por semelhantes preocupações
-fica, como diz S. Teresa de Jesus, ligada à terra
-por "uma cadeia que lima alguma pode romper. Só Deus
-pode quebrá-la, mas quer ser coadjuvado por nós com
-orações e esforços generosos" (Vi. 31, 20).
+1 — Para entrar na plenitude da vida escondida, não
+basta esconder-se aos olhares alheios; é preciso esconder-se também de si
+mesmo, isto é, esquecer-se, evitando toda preocupação e
+retorno egoístico sobre si. Pode-se estar preocupado consigo de
+um ponto de vista material, grosseiro, mas pode-se estar assim
+também de um ponto de vista espiritual. Preocupar-se demais
+com o próprio progresso espiritual, com as consolações que Deus
 
 
-2 — Para ver se estamos verdadeiramente desapegados dos
-pontos de honra, não devemos basear-nos em certos desejos que
-às vezes se apresentam em massa durante a oração, pelos quais
-nos parece estarmos prontos a suportar qualquer humilhação
-e desprezo, mas devemos examinar qual é, na prática,
-nossa conduta diante de tudo o que fere
-nosso amor-próprio. E então não será difícil constatar
-que "por pouco que nos toquem na honra, já não sabemos
-suportar e parece-nos que não devemos suportar" (T.G.
-Dam. 16, 11). Essas reações mais ou menos vivas da nossa suscetibilidade nos dizem claramente que estamos bem
-longe de ter posto sob os pés os pontos de honra; e tomar consciência dessa deficiência será o ponto de partida
-para corrigi-la, porque o maior obstáculo à
-aquisição das virtudes é justamente crer que já as
-adquirimos e, portanto, não temos mais necessidade de exercitar-
-nos nelas.
+concede ou não, com o próprio estado de aridez etc.,
+é muitas vezes indício de um sutil egoísmo espiritual,
+é indício de uma alma mais ocupada de si que de Deus.
+É então o caso de aprender
+a esquecer-se, a esconder-se de si mesmo, não querendo examinar demais
+o que passa no próprio interior, não lhe dando
+importância excessiva e renunciando também à satisfação
+de querer dar-se conta do próprio caminho interior. E
+é bom saber que não raramente Deus permite estados penosos e
+obscuros, justamente porque quer que a alma viva escondida de si
+mesma. Precisamente aqui ia terminar o programa de
+escondimento de S. Teresa Margarida, a qual não só
+pretendia "viver por assim dizer, invisível e não observada"
+entre suas coirmãs, mas "ainda ser de certa maneira
+oculta e ignota a si mesma, morrer a si sem
+sabê-lo e sem gozar qualquer prazer desta morte
+mística espiritual, sepultando em Cristo todo pensamento
+e todo reflexo, também espiritual e eterno, de si,
+de um modo subtilíssimo". É este o propósito explícito da completa
+esquecença de si, que abrange também a renúncia
+à satisfação espiritual de dar-se conta da própria
+imolação. Mas para evitar voltar sobre
+si, a alma deve necessariamente polarizar alhures suas
+aspirações; por isso o exercício negativo de não pensar
+mais em si deve ir de par com o positivo
 
-"Deus nos livre - exclama Teresa de Jesus - de pessoas que pretendem servi-lo e cultivar ao mesmo tempo a própria
-honra!" (ibid., 12, 7). Seria querer servir ao mesmo
-tempo dois senhores, e dois senhores tão inconciliáveis quais
-são Deus e nosso amor-próprio. Tudo o que uma alma faz
-para servir ao próprio eu, para sustentar sua honra, ela
-subtrai ao serviço de Deus, à busca pura e sincera da
-honra e da glória dele. Ainda que às vezes nos pareça
-ter bons direitos a fazer valer, se não soubermos
-renunciar a eles, ao menos no que diz respeito à nossa pessoa,
-nunca alcançaremos aquela liberdade de espírito necessária
-para adentrar uma profunda vida interior. As preocupações inerentes à defesa dos nossos direitos não farão
-senão distrair-nos do nosso ideal de união com Deus,
-far-nos-ão perder a paz interior, meter-nos-ão em tantas
-contendas demasiado humanas, que muitas vezes serão ocasião de
-frequentes faltas de caridade e também de justiça para com o
-próximo, já que é muito difícil, para não dizer impossível,
-defender os próprios direitos sem ofender, pouco ou muito,
-os direitos alheios.
+
+de centrar-se em Cristo, de "sepultar em Cristo" todo
+
+
+pensamento, toda preocupação, também espiritual, de si.
+
+Ninguém conseguirá afastar a preocupação de si
+mesmo se não a fixa no objeto do seu amor; S. Teresa
+Margarida esqueceu-se até o fundo, sepultando seu pensamento
+"em Cristo", único Dileto.
+
+
+2 — A alma totalmente esquecida de si é também
+totalmente desinteressada. Não serve mais a Deus com espírito
+mercenário, isto é, mirando mais à recompensa
+que poderá receber do que à glória dele, mas o serve
+- segundo a bela expressão de S. Teresa de Jesus -
+"gratuitamente como os grandes senhores servem os reis"
+
+
+(Lt.). Tal deve ser o estilo de uma alma de vida interior,
+a qual, tendo sido convidada por Deus à sua
+intimidade, não deve agir como mercenária, mas como filha,
+como esposa. Este é um dos frutos mais belos da vida escondida.
+
+S. João da Cruz ensina: "Deus agrada-se mais
+de uma obra, por pequena que seja, feita em segredo e sem desejo de que seja conhecida, do que de muitas obras feitas com
+este desejo; porque quem com amor puríssimo
+opera pelo Senhor, não somente não se importa de modo algum que
+suas ações sejam vistas pelos homens, mas nem sequer as faz
+
+
+para que o próprio Deus as saiba. De modo que, por hipótese,
+se o Senhor nunca as soubesse, não cessaria de render-lhe iguais serviços, com a mesma alegria e pureza de
+amor" (C.E. I, 20). O mesmo delicado pensamento encontramos
+em S. Teresa do Menino Jesus: "Se também, coisa impossível, Deus
+mesmo ignorasse minhas boas ações, não me afligiria,
+porque o amo tanto que gostaria de poder agradá-lo
+sem que Ele soubesse que sou eu" (CR.).
+
+Esta absoluta pureza de intenção faz com que a alma aja unicamente por Deus e nunca por seu proveito, nem
+mesmo espiritual. Certamente Deus recompensará as obras boas, mas este cuidado é totalmente deixado ao seu beneplácito,
+enquanto a alma ocupa-se só de agradá-lo. A vida escondida culmina assim num soberano desinteresse, não só com respeito às recompensas e louvores humanos,
+mas também com respeito às consolações espirituais.
+A alma então busca só Deus e
+só ele lhe basta. E se Deus, quase parecendo não fazer conta
+de seu amor e de seus serviços, a deixa na aridez e
+no abandono, não se preocupa e por isso não
+para, porque o único motivo que a impele a agir é
+contentar só a Deus.
 
 ### Colóquio
 
-"Ó Senhor, Senhor! Não és Tu, pois, o nosso
-Mestre e Modelo? E em que puseste tua honra,
-Tu que és nossa honra? Ah, Senhor, humilhando-te até
-à morte, e assim não só não a perdeste, mas a
-ganhaste para todos nós... Prouvera-te, Deus meu, que por
-querer seguir os feios pontos de honra, alguma alma não
-acabasse por perder-se. Oh! se se compreendesse em que consiste a verdadeira honra... Todo o nosso dano, Senhor, vem de
-não manter os olhos fixos em ti e assim damos em mil quedas, tropeçamos mil vezes e erramos o caminho".
+Ó meu Deus, ensina-me a esquecer-me, a ocultar em ti
+toda preocupação, todo cuidado excessivo de mim. Porque
 
-"Ó meu Deus, desejamos unir-nos intimamente a ti,
-pretendemos seguir os conselhos de Cristo que foi coberto
-de injúrias e falsidades, e ao mesmo tempo queremos
-conservar intacta nossa honra e reputação. Os caminhos são
-demasiado diversos, e nunca chegaremos à meta, porque
-Tu, ó Senhor, te unes só às almas que se negam
-a si mesmas e não têm medo de perder os próprios direitos"
-(T.G. Cam. 36, 5 e 6; 16, 11; Vi. 31, 22).
 
-Ó Jesus, concede-me a graça de fazer consistir minha
-honra somente em unir-me intimamente a ti,
-em procurar tornar-me o mais possível semelhante a ti que,
-sendo Deus e tendo o direito de ser tratado e honrado como Deus,
-quiseste ser tratado como o último dos homens. Tu
-não quiseste para ti outro direito, senão o de cumprir a vontade do Pai, de morrer na cruz para sua
-glória e para nossa salvação. Diante do teu exemplo,
-como compreendo melhor a mesquinhez do meu amor-próprio,
-que, para defender direitos tolos, perde-se em tantas
-brigas, em tantas contendas vãs... Ó Senhor, por que hei de
-reduzir-me a rastejar pela terra entre os espinhos das minhas
-paixões, quando Tu me criaste para voar nos céus?
-Oh, ajuda-me Tu a desembaraçar-me das tolas pretensões do
-meu eu, que, semelhantes a pesado lastro, continuamente tentam arrastar-me para baixo;
-ajuda-me para que, libertado de peso tão grave, eu possa finalmente alçar
-o voo decisivo para ti, meu Deus!
+quero servir-te, ó Senhor? Por que quero amar-te
+e avançar na via da santidade? Talvez para minha satisfação,
+para meu interesse ou vã complacência? Oh, quão mesquinha
+seria uma vida espiritual que tivesse fins tão baixos,
+tão vãos! Não, meu Deus, Tu me criaste para tua
+glória, e eu te peço humildemente poder viver só
+para tua glória, acima de todo interesse e satisfação
+pessoal!
+
+Não é já grande bastante a honra que me fazes
+permitindo que uma criatura mesquinha e miserável como eu
+possa orientar sua vida para tua glória? que um pobre
+verme, qual eu sou, possa dar glória a ti, ó Deus altíssimo,
+perfeição infinita? Que irei então buscar, ó Senhor,
+fora disso? Vale mais contentar a criatura ou
+o Criador, contentar a mim mesmo ou ao meu Deus?
+Ó Senhor, quero servir e contentar só a ti, quero dar gosto só
+a ti, e somente nisso quero pôr meu gosto,
+o motivo da minha alegria. Compreendo-o: se Tu me conduzes por uma via árida e escura,
+se permites que muitas vezes
+as trevas se adensem ao meu redor, é justamente porque
+queres ensinar-me a servir-te com pureza de intenção,
+buscando só tua satisfação e não a minha. Se permites
+que eu continue a exercitar-me na vida interior,
+na virtude, sem ver resultado algum, se me manténs escondidos meus poucos progressos, fazes isso justamente para estabelecer-
+me na humildade. Talvez se eu tivesse mais luz,
+se o trabalho da tua graça fosse em mim mais manifesto,
+eu me gloriaria disso e, comprazendo-me de mim, deteria meu
+ímpeto para ti, único objeto da minha complacência.
+
+Ó Senhor, como és admirável em teus caminhos! Ben-
+dita seja esta obscuridade interior que me defende dos
+perigos do orgulho espiritual! Não, Deus meu, não te
+peço mudar meu caminho; antes te suplico
+continuares a conduzir-me assim, numa vida de completo escondimento, não só aos olhos alheios, mas também aos meus.
+E se, por tua graça, há em mim alguma coisa boa, que esta sirva para alegrar teus olhares e não os meus,
+que, comprazendo-se vaidosamente, poderiam arruiná-la num instante.
+Guarda-me pois à sombra de tuas asas,
+ensina-me a servir-te gratuitamente por puro amor;
+ensina-me a esquecer-me, a sepultar em ti toda preocupação
+de mim mesmo, a confiar com pleno abandono nas
+tuas mãos minha alma. Eis que, para ganhá-la, eu ta entrego,
+quero perdê-la em ti, e em ti a reencontrarei revestida
+da tua beleza.

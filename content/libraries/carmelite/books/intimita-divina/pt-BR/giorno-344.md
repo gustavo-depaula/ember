@@ -1,69 +1,23 @@
-## 344 — PROVAS INTERIORES
+## 22 — A ESPERANÇA APOSTÓLICA
 
-### Presença de Deus
-
-Ó Senhor, purifica-me como o ouro no crisol; purifica-me e não me poupes, para que eu possa chegar a ti.
+**Presença de Deus.** — *Ó Jesus, na tua potência, no teu amor infinito, na tua Paixão, deposito toda esperança pelas almas que me confiaste.*
 
 ### Meditação
 
-1 — Se fores paciente em aceitar as provas externas, aos poucos Deus passará às mais íntimas, mais espirituais, para «purificar-te bem por dentro, a fim de te dar bens mais íntimos» (cf. São João da Cruz).
+**1** — No seu trabalho, o apóstolo precisa ser sustentado por uma forte esperança. Os momentos de entusiasmo são breves, aos sucessos seguem-se logo os insucessos, as dificuldades são muitas, a luta desferida pelas forças inimigas é áspera e incessante, e, se o apóstolo não estivesse ancorado em Deus mediante sólida esperança teologal, mais cedo ou mais tarde acabaria desistindo, desanimado, da empresa. "Eu venci o mundo" *(Jo.* 16, 33), disse Jesus e, enviando os Apóstolos para cumprir sua missão vitoriosa, assegurou-lhes: "Estou convosco todos os dias até o fim do mundo" *(Mt.* 28, 20). Eis o fundamento da esperança apostólica: a vitória de Cristo, sua assistência incessante. Sim, Ele está conosco *todos os dias*, portanto também nos dias tenebrosos, quando o horizonte está escuro sem um raio de luz, quando o inimigo triunfa, os amigos vão-se embora e, humanamente falando, não se vê possibilidade alguma de êxito. Se confiássemos em nossos recursos, em nossas capacidades, em nossas obras, teríamos razão para desesperar e render-nos, mas não é assim. Nós esperamos, e estamos certos na nossa esperança, porque Deus é onipotente, porque Deus quer que todos os homens se salvem, porque Cristo nos redimiu com seu Sangue, porque morreu por nós e por nós ressuscitou, porque enfim suas promessas - promessas de um Deus - são infalíveis: "o céu e a terra passarão, mas as minhas palavras não passarão" *(Mt.* 24, 35).
 
-A noite passiva do espírito culmina justamente nessas penas interiores, mediante as quais Deus «esmigalha e desfaz a substância espiritual» da alma para fazê-la renascer completamente para a vida divina.
+Apoiando-se na vontade salvífica de Deus, na sua potência infinita, na Redenção de Cristo, o apóstolo deve nutrir a esperança certa de que, no fim, a graça triunfará. Mas, ao mesmo tempo, para não se expor a ilusões, deve estar convencido de que à vitória não se chega senão passando pelo Calvário. "O apóstolo não é maior do que Aquele que o enviou" *(Jo.* 13, 16); se Jesus chegou ao triunfo da Ressurreição só depois da sua Paixão e morte dolorosíssima, não pode o apóstolo pretender trilhar outro caminho. Virão necessariamente também para ele as horas das trevas, mas, em vez de serem sinal de derrota, serão prelúdio da vitória; em vez de sinal de abandono por parte de Deus, serão prova de que Deus está com ele, precisamente porque o conduz pelo mesmo caminho pelo qual conduziu seu Filho divino.
 
-Estamos, de fato, tão misturados de misérias e defeitos, e eles são tão aderentes à nossa natureza, que, se Deus mesmo não puser as mãos em nós, quase nos desfazendo e refazendo da cabeça aos pés, jamais seremos libertos deles.
+**2** — Também Jesus conheceu o insucesso: quando, terminado o seu discurso na sinagoga, os nazarenos indignados "o levaram até a beira do monte para precipitá-lo" *(Lc.* 4, 29); quando, por duas vezes, os judeus escandalizados com suas palavras "apanharam pedras para apedrejá-lo" *(Jo.* 10, 30. 31); quando os fariseus conspiravam contra Ele e tramavam enganos para condená-lo à morte; quando Judas o traiu; quando os seus o abandonaram e Ele, tornando-se escárnio da soldadesca, foi flagelado, coroado de espinhos, vestido de rei de zombaria, esbofeteado, cuspido; quando foi preterido por Barrabás; quando foi arrastado ao Calvário entre dois ladrões e crucificado no meio deles. Pode-se dizer, humanamente falando, que o apostolado de Jesus terminou com um clamoroso insucesso, com a morte dos malfeitores. Tudo isso deve ficar bem impresso na mente do apóstolo para que não se escandalize quando algo semelhante se verificar na sua vida: "Se me perseguiram, também vos perseguirão" *(Jo.* 15, 20).
 
-Também Jesus falou desse total refazimento, desse profundo renascimento espiritual: «Se alguém não nascer da água e do Espírito Santo, não pode entrar no reino de Deus» (Jo 3,5).
-
-Reino de Deus aqui embaixo é o estado de perfeita união com Ele, ao qual ninguém chega sem antes ser totalmente purificado.
-
-São João da Cruz explicou amplamente como tal obra de purificação é justamente realizada pelo Espírito Santo, o qual, investindo a alma com a chama viva do seu amor, destrói e consome todas as suas imperfeições.
-
-«Enquanto a chama divina — diz o Santo — purga e dispõe a alma, ela lhe é muito molesta: não é chama clara, mas escura, a qual, se lhe dá alguma luz, o faz para que veja e sinta apenas suas misérias e defeitos.»
-
-Embora a alma esteja sob a ação direta do Espírito Santo, essa ação não lhe é gostosa, mas penosa, porque o primeiro ofício que realiza é justamente mostrar-lhe todas as suas fraquezas e misérias para que delas conceba horror, as deteste, se humilhe e se entristeça por elas.
-
-A luz penetrante da «chama viva de amor» levanta o espesso véu que escondia da alma as raízes de seus maus hábitos.
-
-Diante dessa visão a alma sofre, não só porque se sente humilhada, mas também porque teme ser repelida por Deus; reconhecendo-se tão miserável, sente-se terrivelmente indigna do amor divino e, em certos momentos, chega a parecer-lhe que o Senhor, indignado, a afasta de si.
-
-Este é o maior tormento que a alma pode sofrer, mas é tormento precioso, porque a purifica de todo resíduo de amor-próprio e de orgulho, e cava nela aquele profundo abismo de humildade que invoca e atrai o abismo das misericórdias divinas.
-
-2 — Se Deus não te fizesse experimentar tua miséria, não poderias libertar-te dela, pois, ignorando-a, não poderias corresponder à obra de purificação que Ele quer realizar em ti.
-
-Por isso, quando, através dos fracassos de tua vida espiritual, através das impotências do teu espírito ou das lutas e rebeliões da natureza, a luz divina te mostra o fundo de tuas más tendências, deves suportar humildemente essa visão.
-
-Deves reconhecer e confessar tuas fraquezas sem desculpá-las, sem culpar as circunstâncias adversas, sem voltar o olhar para outro lado.
-
-São esses os momentos em que deves, mais do que nunca, dobrar-te «sob a poderosa mão de Deus» (1Pd 5,6), que te mostra o que realmente és diante d’Ele.
-
-Por outro lado, o quadro de tuas misérias, por mais feio e abominável que seja, não deve lançar-te no desânimo. Não é esse o fim para o qual o Espírito Santo to mostra, mas sim despojar-te de todo vestígio de secreta estima de ti mesmo e extinguir no teu coração qualquer pretensão de ser merecedor dos favores e dons divinos.
-
-Não deves sequer crer que te tornaste pior do que antes. Essas misérias sempre as trouxeste em ti; a diferença é que antes as ignoravas, enquanto agora a luz divina te faz vê-las com clareza, e faz vê-las não para afogar-te nelas, mas para libertar-te delas.
-
-Apesar, portanto, de todo sofrimento que possas provar à vista de tua miséria, deves manter-te confiante e certo de que Deus não te abandonará.
-
-É verdade: foste infiel, não correspondeste como devias ao seu amor, os serviços que lhe prestaste são bem pouca coisa, antes um nada em comparação do que Deus merece.
-
-Contudo, Ele, infinitamente bom, não despreza teu coração contrito e humilhado. Deus te ama e, longe de rejeitar-te, deseja unir-te a si; mas antes de fazê-lo quer tornar-te perfeitamente consciente de que és totalmente imerecedor de tão grande graça.
-
-Deus comunica-se somente às almas humildes e somente os humildes enche de seus dons: eis o motivo dos sofrimentos purificadores da noite do espírito.
-
-É impossível, de fato, chegar à humildade plena sem passar pelas amargas angústias desta noite, na qual Deus se encarrega de humilhar a alma.
-
-Mas quando, enfim, a tiver reduzido ao centro do seu nada, então a exaltará atraindo-a a si na perfeita união de amor.
+Através das perseguições, humilhações e insucessos, o apóstolo aprenderá a não confiar nas próprias forças, a considerar-se servo inútil mesmo depois de ter trabalhado muito, a convencer-se da própria insuficiência e da insuficiência de todos os meios humanos e, portanto, a colocar somente em Deus todas as suas esperanças. Aprenderá a trabalhar unicamente por amor de Deus, sem buscar o conforto do êxito, renunciando até à legítima satisfação de constatar os resultados dos seus trabalhos; aprenderá a desprender-se da opinião e do juízo dos homens, a agir independentemente da aprovação ou desaprovação deles e a atender somente ao juízo e à aprovação de Deus. As contrariedades e desgostos que o apóstolo encontra no seu trabalho constituem a sua noite escura, comparável à dos contemplativos; noite dolorosa, mas preciosíssima, porque ordenada a purificar seu espírito de todos os resíduos do amor-próprio, do egoísmo, da vaidade, do apego às criaturas e à estima delas. Se bem aceita, essa noite o conduzirá pouco a pouco a uma pureza interior cada vez maior e, portanto, a uma união com Deus cada vez mais plena. Ele, pois, deve permanecer firme na sua esperança e, apesar das lutas, das dificuldades, dos insucessos, deve estar seguro do êxito não só para a salvação das almas a ele confiadas, mas também para a sua santificação pessoal. E, se, permitindo Deus, esse êxito lhe permanecer escondido e todo o seu trabalho, como o de Jesus, terminar numa aparente derrota, nas Chagas e no Sangue do divino Crucificado encontrará força para esperar ainda, esperar contra toda esperança.
 
 ### Colóquio
 
-«Ó minha alma, se ficaste ferida pelo pecado, eis teu Médico pronto a curar-te. Sua misericórdia é infinitamente maior que todas as tuas iniquidades. E digo-te isso não para que permaneças na tua miséria, mas para que, esforçando-te por vencê-la, não desesperes de sua clemência e de seu perdão.
+"Ó Senhor, quero atrair tua misericórdia sobre este pobre mundo, não só com a generosidade do meu sacrifício, do meu desapego, mas também com a generosidade da minha confiança. Quero crer contra toda evidência, esperar contra toda esperança. Quero crer com confiança inabalável mesmo quando as coisas parecem tornar-se cada vez mais penosas e difíceis de resolver. Ó Senhor, quero comover-te com a firmeza e a generosidade da minha confiança!
 
-«Teu Deus é a própria doçura, a própria suavidade; quem amarás, quem desejarás fora d’Ele?
+"Sei e creio firmemente que Tu me amas, que tudo permites para tua maior glória e para meu maior bem; sei que posso cooperar para a salvação das almas e que os sofrimentos do tempo presente não têm proporção com a glória futura; sei que para fazer-se santo é preciso sofrer muito e que se chega ao amor puro através do puro padecer; sei que tudo me é possível em ti, que és meu sustento.
 
-«Não te aviltes, minha alma, por tuas imperfeições; teu Deus não te despreza porque és imperfeita e enferma; Ele te ama justamente porque desejas e procuras curar-te de tuas misérias.
+"Mesmo quando eu estivesse quebrantada, angustiada, em agonia, olhando para ti, Jesus Crucificado, poderia sempre saborear uma alegria íntima, sobrenatural, porque Tu me admites a compartilhar teus sofrimentos para conformar-me à tua Paixão e um dia admitir-me à participação da tua glória.
 
-«Ele virá em teu auxílio e te tornará mais perfeita do que ousarias esperar; e adornada por sua própria mão, tua beleza não terá par, como sua bondade.
-
-«Ó meu Jesus, terno Pastor, doce Mestre, socorre-me, levanta tua ovelhinha abatida, estende a mão para sustentar-me, cura minhas chagas, fortalece minha fraqueza, salva-me ou pereço.
-
-«Confesso-me indigno de viver, indigno da tua luz, indigno do teu socorro, porque minha ingratidão foi imensa; contudo tua misericórdia é ainda maior. Tem piedade de mim, ó Deus, que tanto amas os homens! Ó minha última esperança! Tem piedade de mim segundo a grandeza de tuas misericórdias» (Beato Luís de Blois).
-
-«O abismo chama outro abismo. E ali, meu Deus, justamente no fundo, dar-se-á o encontro contigo: o abismo do meu nada, da minha miséria, encontrar-se-á diante do abismo da tua misericórdia, da imensidão do teu tudo; ali encontrarei força para morrer a mim mesma e serei mudada em amor...»
+"Ó Jesus, diante de qualquer sofrimento, humilhação, prova, dor interna ou externa, posso sempre alegrar-me pensando que Tu me fazes a honra de convidar-me a participar da tua Paixão, da tua obra redentora pelas almas. Por isso, longe de considerar essas dores como males, ensina-me a abraçá-las e acolhê-las como favores e meios preciosos para minha santificação, vivificando-as com o amor e com a pacífica, total adesão à tua vontade. Ó Senhor, com este espírito tenciono oferecer-te minha oração, minha mortificação, a renúncia cotidiana, a contínua aceitação dos sofrimentos que me mandares, para atrair graças sobre toda a Igreja, para salvar as almas" *(cf. Ir. Carmela do Espírito Santo, o.c.d.)*.

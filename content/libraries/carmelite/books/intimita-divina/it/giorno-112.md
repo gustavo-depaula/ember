@@ -1,113 +1,31 @@
-## 112 — LA VITA NASCOSTA
+## 36 — LA FORZA DI GESÙ
 
-### Presenza di Dio
+*III domenica di Quaresima*
 
-— O Gesù, Dio nascosto, insegnami il segreto del nascondimento.
+**Presenza di Dio.** — *O Gesù, Forte divino, vengo a te per cercare appoggio alla mia debolezza, alla mia infermità.*
 
 ### Meditazione
 
-1 — Nella sua vita terrena, Gesù si è compiaciuto di
-nascondere sotto le sembianze umane la sua divinità. Salvo
-qualche rara eccezione, e soprattutto durante i trent'anni
-precedenti al suo apostolato, non lasciò mai trasparire nulla
-della sua divinità, sapienza, onnipotenza infinita. In seguito, negli anni della vita pubblica, volle adattarsi al modo
-di vivere e di agire tanto imperfetto dei suoi Apostoli,
-Egli che era infinitamente superiore ad essi. Gesù è veramente il Dio nascosto e col suo esempio c’insegna i pregi
-della vita nascosta.
+**1** — Fin dalla prima domenica di Quaresima la Chiesa ci ha presentato Gesù in lotta contro il demonio, ma, mentre allora ce lo presentava in umile atteggiamento di difesa di fronte alle tentazioni del maligno, oggi ce lo mostra in atteggiamento di attacco e di clamorosa vittoria.
 
-Se vuoi imitare sino in fondo l'umiltà di Gesù, devi
-partecipare alla sua vita di nascondimento, celando come
-lui tutto ciò che in te può attirare l’attenzione, le lodi
-altrui, nascondendo tutto quello che ti può rendere singolare, che ti può far notare, fuggendo, per quanto sta
-In te, ogni segno di distinzione. « Aya mesciri et pro nibilo
-reputari », ama di vivere sconosciuto e di esser tenuto in
-nessun conto (Imit, I, 2, 3) perchè così sarai più simile a
-Gesù « che, essendo Dio, ha voluto assumere la natura di
-schiavo e in tutto il suo esteriore atteggiamento essere
-riconosciuto come un uomo qualunque » (cfr. Fil. 2, 6-7).
-Gesù stesso ci ha insegnato la pratica della vita nascosta,
-insistendo che il bene venga fatto nel segreto, solo per
-piacere a Dio, senza ostentazione. Così Egli t'insegna a
-custodire nel segreto la tua vita interiore ed i tuoi rapporti
-con lui: «quando vuoi pregare, entra nella tua camera e
-chiudi la porta »; a celare agli altri le tue mortificazioni
-e penitenze: « quando digiuni, ungiti il capo e lavati la
-faccia »; a non metter in vista le tue opere buone: « quando fai l’elemosina non sappia la tua sinistra quello che fa
-la destra », perchè coloro che fanno «le opere buone dinanzi agli uomini, per esser veduti da loro... han già ri-
-cevuto la loro ricompensa e non avranno la ricompensa
-dal Padre celeste » (cfr. Mt. 6, 1-18).
+Ecco un povero ossesso, dice il Vangelo *(Lc.* 11, 14-28), che «era muto»; Gesù, con un solo atto della sua forza divina, «scacciò il demonio; e quando esso fu uscito, il muto parlò e le turbe furono piene di sbigottimento». Ma il nemico, quasi per rifarsi della sconfitta, insinua nelle menti dei farisei la maligna calunnia: «Egli scaccia i demoni per mezzo del principe dei demoni». Gesù è accusato di essere un indemoniato e di aver ricevuto dal demonio il potere di liberare l'ossesso. Ma il Signore vuole smascherare fino in fondo il nemico e con logica serrata risponde che non può essere Satana dargli un simile potere, altrimenti Satana stesso coopererebbe alla distruzione del suo regno. No, non può essere così: Gesù scaccia i demoni «col dito di Dio», cioè per virtù divina. Se Satana è forte e i suoi satelliti lottano con lui per regnare sull'uomo, Gesù è più forte di lui e lo vincerà strappandogli la preda. Egli è venuto per distruggere il regno di Satana e per instaurare il regno di Dio.
 
+E se ancor oggi Dio permette che il demonio lavori per cercare di travolgere nel male gli individui e la società, Gesù, morendo sulla croce, ha già versato il prezzo della nostra vittoria. Questo prezzo è a nostra disposizione: con la virtù di Cristo, con la grazia di Cristo ogni cristiano ha il potere di vincere qualsiasi attacco del nemico. Non lasciamoci quindi sgomentare di fronte ai trionfi del male: non sono che trionfi apparenti, perché Gesù è il più forte, l'unico ed ultimo vincitore.
 
-2 — «Operare per purissimo fine di piacere unicamente a Dio, senza mai volere... il testimone di occhio
-umano », fu il programma di S. Teresa Margherita del
-Cuore di Gesù, la santa della vita nascosta (Sp. p. 369).
-Volendo riservare a Dio solo il dono di tutta se stessa, fu
-quanto mai gelosa nel nascondere agli occhi delle creature
-la ricchezza della sua vita interiore, l’eroismo delle sue
-virtù, sì che la sua vita fu la piena realizzazione della formula « vivere sola con Dio solo ». L’anima che va ancora
-in cerca di approvazioni, di lodi, di stima delle creature,
-non vive sola con Dio solo e perciò la sua vita interiore
-non potrà essere profonda, i suoi rapporti con Dio non
-potranno essere molto intimi, Quest'anima vive ancora în
-superficie. E così — preoccupata com'è della comparsa
-esteriore, di ciò che gli altri potranno pensare o dire di
-lei — facilmente nell’agire si può deviare dal rispetto
+**2** — Per far nostra la vittoria di Gesù sul male, occorre evidentemente la nostra collaborazione. Nel Vangelo odierno Gesù stesso ce ne indica diversi aspetti.
 
+«Ogni regno diviso in se stesso si distrugge»; il Signore afferma così che l'unione è il segreto della vittoria. Anzitutto unione con lui, perché senza di lui non possiamo far nulla, ma poi anche unione col prossimo. Se vogliamo lavorare per il trionfo del bene collaboriamo — un cuore solo ed un'anima sola — con i nostri superiori, con i nostri fratelli. Spesso nel campo del bene si potrebbe fare molto di più se, rinunciando a vedute personali, si sapesse lavorare in perfetto accordo. Talvolta potrà anche essere necessario rinunciare a idee, a piani, a mezzi in se stessi migliori; ma non lasciamoci ingannare: il meglio è sempre l'unione. La divisione non porterà mai alla vittoria.
 
-umano, dal desiderio di attirarsi la benevolenza e la stima
-altrui. Quindi nella sua condotta mancherà spesso di semplicità, di purezza d’intenzione, e forse anche di since-
-rità, Il soprannaturale in lei è ancora troppo mescolato
-all’umano per dominare la sua vita e di fatto molto spesso
-agisce non per piacere a Dio, per dargli gloria, ma per
-piacere agli uomini, per guadagnarsi il loro affetto, per
-conquistarsi un posto più o meno onorevole. 4
+«Chi non è con me è contro di me» aggiunge Gesù. Il cristianesimo non ammette indifferenti; non si schiera decisamente con Cristo, chi non lavora con lui per la diffusione del suo regno, per ciò stesso si oppone a lui, si oppone al bene, è nemico di Cristo e fautore del male. Omettere il bene che si potrebbe e dovrebbe fare, è già fare il male, è acconsentire allo sviluppo del male.
 
-«Quando sorprendiamo noi stessi a desiderare ciò che
-splende — diceva S. Teresa del B. G. — schieriamoci
-umilmente tra gl'imperfetti e stimiamoci anime deboli che
-Dio deve sostenere ad ogni istante » (CR.). E per conto
-suo la Santa chiedeva: «O Gesù, fa’ che nessuno si occupi di me e che io sia dimenticata, calpestata come un
-granello di arena » (St. 8). L'anima di vita interiore vuol
-essere conosciuta e amata da Dio solo e per questo si nasconde alle creature.
+La prima condizione della vittoria sul male è l'attiva collaborazione all'opera di Cristo, in unione con i fratelli. La seconda è la vigilanza. Gesù avverte che il nemico del bene è in agguato e che, anche dopo aver lasciato un'anima, è pronto a ritornarvi più forte di prima «con altri sette spiriti peggiori di lui», quando la via è rimasta vuota e aperta alle sue insidie. Grande mezzo per impedire l'accesso del male è vigilare nella preghiera, è riempire il cuore di Dio, perché non vi sia più posto per il nemico di Dio. E non vi è più posto quando l'anima è totalmente unita a Dio mediante l'accettazione e l'osservanza della sua parola, della sua volontà. Infatti, alla donna che loda la Madre sua, Gesù risponde: «Anzi, beati coloro che odono la parola di Dio e l'osservano». Sì, Maria SS.ma è beata per aver dato la vita al Redentore, ma è molto più beata per essere a lui perfettamente unita nell'osservanza della sua parola. Questa beatitudine non è riservata a Maria, ma è offerta ad ogni anima di buona volontà, ed è la massima garanzia della vittoria sul male, perché chi è unito a Dio diventa forte della fortezza di lui.
 
 ### Colloquio
 
-«O Gesù che hai detto: ‘Il mio regno non è di questo
-mondo ’, Tu m’insegni che la sola regalità invidiabile consiste nel voler essere ignorati e contati per niente, e nel
-porre la propria gloria nel disprezzo di se medesimi. Oh,
-come bramo che il mio volto, al pari del tuo, sia celato a
-tutti gli sguardi, tanto che nessuno quaggiù mi riconosca!
-Tu non hai voluto nè bellezza, nè splendore, ma il tuo
-Volto era quasi nascosto e gli uomini non ne hanno fatto
-alcun conto. Desidero anch’io di essere, come te, senza
-splendore, nè bellezza, sconosciuta ad ogni creatura.
+«I miei occhi son sempre rivolti verso di te, o Dio, perché Tu puoi distrigare i miei piedi dal laccio del male. Volgiti a me e abbi di me pietà, perché solo e misero io sono. Custodisci l'anima mia e salvami; fa' ch'io non abbia ad arrossire d'essere a te ricorso» *(Sal.* 24, 15-20).
 
-« Sì, devo serbare tutto per te con cura gelosa; com'è
-bello lavorare per te solo, o Gesù! per te solo, Allora il
-cuore è pago e ci si sente leggeri: a’ che nessuno pensi
-a me, che la mia esistenza sia da tutti, per così dire, ignorata; non desidero che una cosa: essere dimenticata e
-contata per niente. Sì, desidero di essere dimenticata, e
-non soltanto dalle creature, ma anche da me stessa; vorrei
+«O Trinità eterna, o alta ed eterna Trinità, Tu ci desti il dolce e amoroso Verbo. O dolce e amoroso Verbo Figliolo di Dio, sì come la natura nostra è debole e atta ad ogni male, così la natura tua è forte e atta ad ogni bene, perché l'hai ricevuta dall'eterno e onnipotente Padre tuo. Dunque Tu, dolce Verbo, hai fortificato la debole natura nostra unendoti ad essa; per questa unione è fortificata la natura nostra, perché in virtù del Sangue tuo si toglie la nostra debolezza. E siamo anche fortificati dalla dottrina tua, perché l'uomo che la segue in verità, vestendosene perfettamente, tanto diventa forte e atto al bene, che quasi perde la ribellione della carne contro lo spirito e può vincere ogni male. Dunque Tu, Verbo eterno, togliesti la debolezza della natura nostra, con la fortezza della natura divina, la quale Tu ricevesti dal Padre; e questa fortezza l'hai data a noi mediante il Sangue e la dottrina.
 
+«O Sangue dolce, Tu fortifichi l'anima, Tu l'illumini, in te diventa angelica, Tu l'adombri in tal modo col fuoco della tua carità che del tutto dimentica se stessa e nessuna cosa può vedere all'infuori di te.
 
-essere talmente ridotta a niente da non aver più nessun
-desiderio. La tua gloria, o mio Gesù, ecco tutto! la mia
-te l'abbandono » (cfr. T.B.G. St. 7; NV.; Lt. 84 e 81).
-
-O Signore, essere dimenticato dalle creature, lavorare
-senza che il mio lavoro venga riconosciuto, passare nel silenzio e nel nascondimento di un’umile vita in cui nulla
-emerge, nulla è degno di attenzione, ecco qualche cosa che
-mortifica sino in fondo il mio orgoglio. Ecco, o Signore,
-una cura energica al mio innato desiderio di farmi valere.
-
-Signore, lo confesso e Tu già lo sai, sono ben lontano
-dal desiderare, come i santi, la dimenticanza, la noncuranza delle creature, io che spesso spontaneamente mi valgo di
-
-iccole industrie per farmi notare, per mettermi in vista.
-
-Ma Tu lo sai, Gesù mio, che io sono malato, e Tu lo sai
-che voglio guarire, modellando la mia vita sull'esempio della tua. Solo per essere simile a te posso accettare e amare il
-nascondimento, solo per meritarmi il tuo amore, i tuoi
-sguardi, la tua dilezione. posso rinunciare alla benevolenza e
-alla stima delle creature. O Gesù, aumenta dunque il mio
-desiderio di vivere solo per te e mi sarà dolce vivere ignorato dagli uomini.
+«O dottrina di verità, tanta forza dai all'anima vestita di te che mai viene meno, né per le avversità, né per le pene o tentazioni, ma in ogni battaglia riporta forte vittoria. Misera me, che non ho seguito te, vera dottrina, onde son tanto debole che in ogni minima tribolazione vengo meno» (S. Caterina da Siena).

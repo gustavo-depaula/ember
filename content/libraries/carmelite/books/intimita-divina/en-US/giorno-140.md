@@ -1,82 +1,30 @@
-## 140 — LIFE OF FAITH IN ST. JOSEPH
+## 142 — THE LORD'S PASSOVER
+*Easter Sunday*
 
 ### Presence of God
 
-At your school, O glorious St. Joseph, I desire to learn to live by faith, letting myself in all things be guided by divine Providence.
+— O risen Jesus, make me worthy to share in the joy of your Resurrection.
 
 ### Meditation
 
-1 — The fundamental attitude of St. Joseph's life
-is wholly one of trust and abandonment in God, and it springs from his faith. St. Matthew says of him "that he was a just man"
-(1:19). Now Sacred Scripture teaches that "the just man lives by faith" (Rom. 1:17), and it can well be affirmed that no creature - after the Virgin Mary - has lived by
-faith as Joseph did. Indeed his life, having unfolded
-within the orbit of the mystery of the Incarnation, necessarily had to pass through all those obscurities that sur-
-rounded the fulfillment of that great mystery. Joseph therefore needed a great faith, a faith continually nourished by sufferings and tempered through anguish.
-The perplexities aroused in him by Mary's mysterious motherhood, the extreme poverty and hardships of Bethlehem, the discomforts of the flight into Egypt made his delicate soul groan, so much so that in the gravest moments he needed the intervention of an Angel, by whom he was sustained and introduced into the depths of the divine mystery unfolding before his eyes.
-And Joseph lets himself be guided with the docility and blind trust of a child. This is witnessed by these four facts reported by the Gospel.
-1st. The Angel puts an end to his anxieties, ordering him
-to take Mary Most Holy as spouse "because what is conceived
-in her is of the Holy Spirit": Joseph does not hesitate
-an instant and does "as the Angel of the Lord had commanded him" (Mt. 1:20 and 24). 2nd. The Angel warns him to "take the child and His mother and flee into Egypt"
-(ibid., 2:13): without delay, in the heart of the night, the Saint
-rises and carries out the order. Objectively the flight
-presented very great difficulties: enormous discomforts and dangers of the journey, extreme poverty, exile in foreign land; but the Angel has spoken and Joseph obeys.
-3rd. Herod dead, the Angel commands him to return to the
-land of Israel. 4th. The Angel warns him to withdraw into Galilee (cf. ibid., 2:19-23).
-Here we have four acts of faith and blind obedience.
-Joseph does not hesitate, does not reason, does not raise objections,
-because he trusts totally in God, because he believes fully in Him, in His word, in His divine Providence.
+1. — "This is the day the Lord has made: let us exult and rejoice in it!" (RB.). It is the day par excellence, the most joyful day of the whole year, because on it "Christ our Passover has been sacrificed." Christmas too is a feast of joy; but whereas Christmas joy has an unmistakable note of sweetness, Easter joy has an unmistakable note of triumph: it is joy for Christ's triumph, for his victory. The liturgy of the Mass indicates to us the two characteristics of Easter joy: joy in truth (Epistle), joy in charity (Postcommunion).
 
+Joy in truth: according to St. Paul's vibrant exhortation: "Let us celebrate the feast not with the old leaven... but with the unleavened bread of purity and truth." In this world there are many fleeting joys based on fragile and inconsistent foundations, but Easter joy is the joy of knowing oneself in the truth, the truth that Christ brought to the world and confirmed by his Resurrection. His Resurrection tells us that our faith is not vain, that our hope is not placed in one who is dead, but in one who is living, in the Living One par excellence, whose life is so powerful that it gives life not only for time, but also for eternity to all who believe in him: "I am the Resurrection and the life; he who believes in me, though he were dead, shall live" (Jn. 11, 25). Joy in truth: because only sincere and upright souls that lovingly seek the truth and, still more, practice the truth can fully enjoy the Resurrection. A sincere soul is one that recognizes itself as it is, with its defects, with its shortcomings, with its need of conversion and that, precisely because of this awareness of its own misery, is sincerely resolved to purge itself of the old leaven of passions in order to be wholly renewed in the risen Christ.
 
-2 — St. Joseph's whole life is summed up in a
-continual adhesion to the divine plan, even before
-situations quite mysterious and dark for him.
+But truth must be practiced in charity: "veritatem facientes in charitatem" (Eph. 4, 15); therefore the prayer that the Postcommunion puts on our lips is more timely than ever: "Lord, pour into us the spirit of charity... and in your mercy make us of one heart." There can be no true Easter joy where there is no concord and mutual benevolence.
 
-In our life too there is always a little mystery,
-both because God loves to act in hidden, secret fashion,
-and because His action is always impenetrable to our poor gaze. Let us therefore walk in God's ways with Joseph's spirit, certain that God can use
-any person and any circumstance to let us know and carry out His divine will; just as He used Caesar's decree to lead Joseph to Bethlehem, where Jesus was to be born. The Roman emperor's intentions had been very different, yet God used that political act to carry out the plan of the Incarnation.
-It is always true that God governs all and directs all to the fulfillment of His will.
+2. — The Gospel presents to us the holy women, the most faithful, who at first dawn on Sunday run to the tomb and, as they go, ask one another anxiously: "Who will roll away the stone for us from the entrance to the tomb?" But this concern, although quite justified by the size and weight of the closing stone, does not turn them away from their purpose: they are too taken up with the desire to find Jesus! And behold, as soon as they arrive, they see the "stone rolled away" and then, entering the tomb, they find an Angel who gives them the great announcement: "He is risen; he is not here." For the moment Jesus does not let himself be found or seen; but shortly afterward, when, according to the order received from the Angels, the women go to bring the news to the disciples, he comes to meet them saying: "Hail!" (Mt. 28, 9), and their joy is complete.
 
-Another characteristic of St. Joseph's life is having
-been totally consecrated to the mission entrusted to him by God;
-Joseph does not live for himself, for his personal interests,
-but solely for God, whom he serves in Jesus and in
-Mary. St. Joseph is thus the true model of souls of
-interior life, of souls that aspire to live totally for
-God and with God, in fulfilling the mission received from Him.
+We too have the great desire to find the Lord: perhaps for many years we have already set out to seek him, and perhaps for us too this desire has been accompanied by serious concerns: how shall I remove the obstacles, take away from my soul those stones that prevent me from finding the Lord, from giving myself entirely to him, from letting him triumph in me? Yet, precisely because we wanted to find the Lord, sustained by his grace, we have overcome many obstacles, and divine Providence has helped us remove many stones, conquer many difficulties. Nevertheless, the search for God is progressive and must continue throughout life; therefore, like the holy women, we must always have the holy concern of finding the Lord; a concern that must make us industrious and prompt in the search and, at the same time, confident in divine help, because it is certain that where our strength cannot reach, the Lord will provide by doing for us what we do not know how to do.
+
+May Easter mark each year a renewal in our spiritual life, a renewal in our search for God; each year let us take up again our journey toward him in "novitate vitae."
 
 ### Colloquy
 
-"O Joseph, how I love you! How good it does me to think of your life, so simple, humble. How good it does me
-to think that you too lived by faith as we do. I contemplate you in the little house of Nazareth beside Jesus and Mary,
-wholly occupied in working for them. I seem to see you planing wood, then from time to time wiping your brow and hurrying
-to finish in time the work to deliver to
-customers. Though living beside the Son of God, your life
-unfolded in an altogether ordinary way, because certainly Jesus did not do useless miracles... In your life
-everything happened as in ours. And how many sorrows,
-how many labors, how many dangers! How astonished we would be if
-we knew all that you suffered!" (cf. St. Therese of the Child Jesus, CR.
-and NV.)
+"Lord Jesus, merciful Jesus, good Jesus, who deigned to die for our sins and rose again for our justification, I beg you, by your glorious Resurrection, raise me up from the tomb of my vices and sins, that I may deserve truly to share in your Resurrection. Most sweet Lord, who ascended into Heaven in triumph in your glory and sit at the right hand of the Father, who with greatest power draw me up to yourself, that I may run after the fragrance of your ointments, that I may run and not grow faint while you draw and lead me. Draw the mouth of my thirsty soul to the heavenly fountain of eternal fullness; from the depths draw me to the living fountain, that there, according to my capacity, I may drink that by which I may always live, O my God, my life.
 
-"I do not know how one can think of the Queen of angels and of how much she suffered with the Child Jesus without
-thinking of you, glorious St. Joseph, without thanking you,
-who were of such help to them! For this reason it
-seems to me that persons of prayer ought to be especially devoted to you...
+"Let my spirit take wing, O Lord, let it take wing, I beg you, on eagle's wings, and fly and not grow faint; fly and reach the splendor of your glory, that there it may be nourished with your secrets at the table of the citizens of heaven, in the place of your Passover, beside the most abundant fountain; in you, O Lord, may my heart find rest, a heart like a great sea agitated by swollen waves.
 
-"From long experience I have of the favors you
-obtain from God, I would like to persuade everyone to be devoted to you.
-I have known no person truly devoted to you and
-practicing in your honor some special devotion
-who did not make notable progress on the way of virtue.
-The souls that recommend themselves to you are helped in a
-most special way. I have seen clearly that your
-help has always been greater than I could have hoped.
-I do not remember having asked you for any grace
-without at once obtaining it. The Lord wishes to make us
-understand by this that, just as He was subject to you
-on earth, where you, as father and guardian, could command Him, so now in heaven He continues to do what you ask of Him" (cf. St. Teresa of Jesus, Vi. 6, 6-8).
+"Most precious, most desired, most lovable Lord, when shall I see you? When shall I appear before your face? When shall I be filled with your beauty? When will you lead me out of this dark prison, that I may confess your name, no longer confounded?... What shall I do, poor and oppressed by the weight of the chains of my mortality? What shall I do?... While we are in the body, we are away from the Lord. We have no lasting city here, but we seek the city to come, for our homeland is in Heaven.
 
-O dear St. Joseph, I therefore place myself with full trust under your patronage; teach me to live like you by
-faith and abandonment in God; teach me to live only
-for Him, giving myself wholly to His service.
+"Grant me grace, O Lord, that while I bear with me these frail members, I may cling to you, for: he who clings to the Lord is one spirit with him" (St. Augustine)

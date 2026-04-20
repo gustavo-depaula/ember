@@ -1,51 +1,25 @@
-## 345 — ANGÚSTIAS E TREVAS
+## 23 — OS PROGRESSOS NO APOSTOLADO
 
-### Presença de Deus
-
-Apressa-te, Senhor, em meu auxílio, para que eu não seja tragado pela tempestade.
+**Presença de Deus.** — *Ó Senhor, une-me a ti e a força da tua caridade acenda no meu coração a verdadeira chama apostólica.*
 
 ### Meditação
 
-1 — Vendo com clareza sua miséria, a alma intui a distância infinita que há entre ela e Deus. Justamente agora, quando mais anseia unir-se a Ele, vê-se d’Ele mais distante do que nunca, absolutamente incapaz de superar a imensa distância que a separa.
+**1** — São Tomás ensina: o amor é como o fogo, produz uma chama, e a chama do amor é o zelo; se o fogo arde intensamente, então também a chama que produz é devoradora, intensa. O verdadeiro zelo apostólico é o resultado espontâneo, o fruto normal do contato íntimo da alma com Deus por meio do amor. Quanto mais uma alma se une a Deus por amor, tanto mais é envolvida na chama da sua caridade, e por isso participa do seu amor infinito pelos homens, do seu zelo eterno pela salvação deles, de modo que se torna *necessariamente apostólica*.
 
-Também por isso ela sofre, porque quem ama deseja ardentemente unir-se ao amado. Às vezes esse sofrimento se torna tão intenso que parece à alma não haver mais para ela esperança alguma: nem de santidade, nem de união com Deus, nem mesmo de salvação eterna.
+Dizer que não se pode ser apóstolo antes de ser assim intimamente tomado pelo amor divino seria um exagero, mas é claro que à plenitude do apostolado, e portanto à plenitude da fecundidade apostólica, não se chega sem essa chama interior que nasce precisamente da união com Deus. Enquanto não se chega a esse grau de união, é preciso considerar-se principiante no apostolado, semelhante a aprendizes que se aplicam a uma arte executando ora este ora aquele trabalho, sem estarem ainda sustentados e transportados pela inspiração pessoal. Sendo principiantes, é preciso comportar-se como tais, isto é, agir com cautela, dar-se ao apostolado com prudência e medida, precisamente porque, não tendo ainda alcançado aquela maturidade espiritual da qual irrompe espontânea a chama do zelo, não se possuem ainda aqueles recursos de graça que servem para defender a alma dos perigos de uma atividade externa demasiado intensa e que, ao mesmo tempo, têm a força de tornar fecundo todo o seu trabalho. "Aqui a alma - afirma Santa Teresa de Jesus - ainda não está formada: é como uma criança que começa a mamar, e que, se se afasta do seio da mãe, não pode esperar senão a morte. Se se afasta da oração sem urgente necessidade e não volta logo a ela, temo grandemente que acabe como a criança, indo de mal a pior" *(M.* IV, 3, 10). Notemos que a Santa não fala aqui das almas que estão dando os primeiros passos na vida interior, mas daquelas que, tendo já chegado à oração de quietude, podem já chamar-se proficientes; e, no entanto, não é exagerado afirmar que, quanto ao apostolado, elas ainda são principiantes.
 
-Nesses sofrimentos nada há de exagerado, muito menos de falso. O Espírito Santo, sob cuja ação a alma se encontra, não pode inspirar-lhe nada que não seja perfeitamente conforme à verdade.
+**2** — Santa Teresa de Jesus apresenta-nos a alma no momento em que - como consequência da caridade que a une a Deus - nasce nela a chama interior do apostolado. Trata-se de uma alma tornada pelo abandono e pelo amor tão submissa à vontade de Deus "que não sabe nem quer uma coisa senão esta: que Ele faça dela tudo o que quiser"; e Deus, que a "retém toda para si... marca-a com o seu selo", infundindo-lhe vivíssima dor pelos pecados dos homens e ardente desejo de consumir-se pela salvação deles *(cf. M.* V, 2, 12-14). Nessa alma a caridade cresceu a tal ponto que a torna capaz de renunciar efetivamente à própria vontade para conformar-se em tudo à vontade divina; mesmo diante de casos difíceis e imprevistos, que exigem muito espírito de sacrifício, ela sabe pôr de lado toda repugnância e ressentimento da natureza, toda visão e desejo pessoal para aderir ao querer divino, quer este se lhe apresente sob o aspecto dos deveres cotidianos, quer por meio da voz externa da obediência ou da voz interior do Espírito Santo, bem como por meio das circunstâncias da vida. É, pois, uma alma verdadeiramente unida a Deus por amor, verdadeiramente *dada* a Ele, e Deus a *toma* e a lança ao serviço da Igreja, das almas, querendo servir-se dela para atuar seu plano de salvação e santificação da humanidade.
 
-É demasiado verdade que entre nós, pobres criaturas, e Deus, perfeição suprema e infinita, há distância e diferença incalculáveis. É demasiado verdade que, baseados em nossas forças, somos radicalmente impotentes para elevar-nos até Deus. É demasiado verdade que, olhando para nossas ações, mesmo as melhores, nada há em nós que possa merecer nem a união com Deus, nem a vida eterna.
-
-Mas é também verdade que Deus, infinitamente bom e misericordioso, quis preencher a distância infinita que nos separa d’Ele; quis inclinar-se até nós a ponto de revestir-nos de sua vida divina e chamar-nos à sua intimidade.
-
-O que para nossa miséria é absolutamente impossível é plenamente possível à onipotência de Deus e à sua infinita misericórdia; e Ele, de fato, o quer fazer, mas quer também tornar-nos conscientes de que isso é unicamente obra sua.
-
-Nos temores de não poder chegar a Deus e à salvação eterna, a alma deve manter-se firme numa esperança inabalável. Se é justo que tema de si mesma e se convença de que nada pode esperar de suas obras, é ainda mais justo que tudo espere de Deus, cujo amor e cuja bondade superam infinitamente tanto sua miséria quanto suas expectativas.
-
-Agindo assim, as angústias da noite do espírito não farão senão radicar a alma não só numa humildade mais profunda, mas também numa esperança mais pura e mais perfeita, porque apoiada unicamente no amor misericordioso de Deus.
-
-2 — «Neste tempo de purgação — diz São João da Cruz — a alma está envolta em densas trevas no entendimento.... Quase sempre seca e fria, raramente fervorosa, em coisa alguma encontra alívio, nem sequer um pensamento que a conforte, sem poder sequer elevar o coração a Deus» (*Chama Viva*).
-
-Eis outro motivo de pena espiritual: a seca aridez em que a alma se encontra, a incapacidade de pensar em Deus, a incapacidade de ajudar-se com a consideração das coisas divinas.
-
-Parece-lhe quase que entre ela e Deus se levantou como um muro altíssimo, impedindo que seus gemidos cheguem até Ele. É noite profunda na qual a alma só pode avançar apoiada na fé pura e nua.
-
-De fato, deve seguir adiante assim, crendo com todas as suas forças que Deus é infinitamente bom, que Deus a ama e escuta seu pranto, que Deus conhece seu tormento e a prova unicamente para purificá-la.
-
-Não é difícil que, nesse estado, a alma fique sujeita a fortes tentações contra a fé. Podem ser, por exemplo, tentações semelhantes às que afligiram Santa Teresinha no último período de sua vida: «O Senhor permitiu — escrevia a Santa — que minha alma fosse mergulhada em trevas tão espessas que o pensamento do céu, tão caro para mim desde minha mais tenra infância, me se tornasse causa de luta e de tormento.»
-
-Contudo acrescentava: «Embora me falte o conforto da fé, esforço-me, porém, por realizar suas obras; renovei mais atos de fé de um ano para cá do que em todo o curso da minha existência.» E, aludindo às suas poesias sobre a felicidade do céu, confessava: «Quando canto o céu e a posse de Deus, não experimento alegria alguma, porque canto simplesmente aquilo que quero crer.»
-
-É exatamente essa a conduta que a alma deve ter em tal estado: crer porque quer crer, sem basear-se no que prova ou experimenta, mas baseando-se unicamente na palavra de Deus.
-
-Esses atos de pura fé, despojados de todo conforto e independentes de qualquer sentimento, são atos de fé heroica, que tanto mais honram a Deus quanto mais se apoiam unicamente na divina revelação, e tanto mais unem a alma a Ele quanto mais são privados de todo apoio humano.
-
-As trevas da noite do espírito têm precisamente este objetivo: habituar a alma a caminhar na fé pura, na fé heroica.
+Despertam-se assim na alma imensos anelos de apostolado, em nada comparáveis aos que podia nutrir antes: ela sente que já não se pertence, que sua vida está necessariamente ligada à do divino Redentor e que, à imitação dele, deve dedicá-la e consumi-la toda no serviço das almas. Também aqueles que vivem aparentemente mais isolados do mundo e do contato externo dos homens - as enclausuradas na clausura, os contemplativos em seus eremitérios ou desertos - chegados a esse estado, tornam-se eminentemente apostólicos e toda a sua vida de oração e de sacrifício se orienta para um único ideal: reparar os pecados da humanidade, salvar as almas. Enquanto os contemplativos desabafam esse zelo apostólico redobrando sua imolação escondida, os ativos, dedicados às obras externas, encontram na chama interior, irrompente da sua união com Deus, o impulso, a força, o sustentáculo, a fecundidade do seu apostolado. Mais uma vez é preciso concluir que o caminho para chegar ao máximo rendimento apostólico é o caminho solitário e silencioso da união com Deus.
 
 ### Colóquio
 
-«Ó meu Esposo, por que me feres com tua ausência nesta noite cheia de trevas e de tristíssima desolação? Quem me ajudará neste extremo abandono, nesta solidão? Oh, como são grandes os sofrimentos do amor, como é grande a solicitude do coração que não sabe, nem pode fazer outra coisa senão amar e não pode ter quem ama!
+"Meu Deus, quanto fervor e quanta força na caridade de uma alma que está unida a ti por amor! Aqueles que são assim tomados por ti não podem limitar-se ao próprio proveito pessoal, nem contentar-se com isso; mas, porque lhes parece pouco irem sozinhos para o céu, com solicitude e afeto todo celeste e com esmerada diligência esforçam-se por levar consigo muitos outros. Faze, ó Senhor, que semelhante a este seja o efeito do meu amor por ti!" *(cf. S. João da Cruz)*.
 
-«Ó meu Rei clementíssimo, não tenho outro remédio senão suspirar por ti; do íntimo do meu coração clamo por ti e invoco a ternura do teu amor. Lembra-te de mim, ó minha esperança, e considera a amargura da recusa e a duração do abandono que me consomem.
+"Ó Senhor, de uma alma já resoluta e inteiramente entregue em tuas mãos, Tu não queres outra coisa senão que deseje e procure quanto puder aquilo que resulte para tua maior glória.
 
-«Não me abandones, dulcíssimo Filho da Virgem, pois contigo nasceu a misericórdia do seio puríssimo de tua Mãe. Vê, Senhor, como todas as minhas forças faltaram e sem ti estou oprimido pelo horror e pela sombra da morte.
+"Oh, a caridade daqueles que te amam verdadeiramente! Que descanso poderiam ter se vissem poder contribuir, ainda que por pouco, para que uma alma avançasse e te amasse mais, ou só para dar-lhe consolação e livrá-la de um perigo? Como se tornaria insuportável o seu repouso pessoal!
 
-«Tem piedade de mim, meu Amigo, pois consumidas todas as forças, somente me restaram os lábios e a língua para clamar por ti. Ó vida imortal e fonte de água viva, não me prives com tanto rigor da tua presença, que me é mais cara que a vida. Não descansarei jamais, ó dulcíssimo Filho de Deus, nem cessarei de gemer e suplicar até que voltes para mim teu olhar misericordioso» (Venerável João de Jesus Maria, O.C.D.).
+"Oh, Senhor, aflita pela ruína de tantas almas, se não posso ajudá-las com obras, quero importunar-te com a oração. Quero renunciar a todo meu contentamento e tê-lo por bem perdido; quero esquecer-me totalmente de mim para pensar somente no melhor modo de cumprir tua vontade.
+
+"Meu Deus, quanto mais o tempo passa, mais cresce em mim o desejo de contribuir para o bem de alguma alma, parecendo-me muitas vezes ser como uma pessoa na posse de um grande tesouro, desejosa de distribuí-lo a todos, mas impotente para o repartir por ter as mãos atadas. Não podendo mais conter-me, elevo a ti a minha voz, suplicando-te que me forneças algum meio para cooperar em ganhar ao menos alguma alma para teu serviço" *(T.G. Fd.* 5, 6 e 5; 1, 6 e 7).

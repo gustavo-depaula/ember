@@ -1,107 +1,23 @@
-## 148 — FRUTTI PASQUALI
-*Domenica in Albis*
+## IX — LA PREGHIERA VOCALE
 
-### Presenza di Dio
-
-— O Gesù, come Tommaso mi accosto a te; dammi di non essere incredulo, ma fedele.
+**Presenza di Dio.** — *Signore, insegnami a pregare!*
 
 ### Meditazione
 
-1. — La liturgia odierna si rivolge in modo particolare
+**1** — Quando gli Apostoli chiesero a Gesù: «Signore, insegnaci a pregare» *(Lc.* 11, 1), Egli insegnò senz'altro una preghiera vocale: il *Pater noster*. Si tratta certamente della formula più sublime che esista e che racchiude tutta l'essenza della più elevata orazione mentale, tuttavia Gesù l'ha proposta proprio come formula di orazione vocale: «Quando pregate dite così» (ivi, 2). Ciò è sufficiente per intendere il valore e l'importanza dell'orazione vocale, orazione accessibile a tutti, anche ai bambini, agli ignoranti, agli ammalati, agli stanchi... Bisogna però comprendere bene che la preghiera vocale non consiste solo nella ripetizione materiale di una formula; se fosse così si avrebbe una recita, ma non una preghiera, giacché la preghiera esige sempre un movimento, un'elevazione dell'anima verso Dio. In questo senso Gesù ha istruito i suoi discepoli: «Quando vuoi pregare, entra nella tua camera, chiudi la porta e prega il Padre tuo nel segreto... Nel pregare poi non abbondare di parole come fanno i pagani» *(Mt.* 6, 6 e 7): ed è interessante vedere come in S. Matteo queste prescrizioni, che riguardano le disposizioni esterne ed interne per una preghiera ben fatta, precedono proprio l'insegnamento del *Pater noster*.
 
+Dunque, perché la preghiera vocale sia realmente preghiera, occorre anzitutto raccogliersi alla presenza di Dio, avvicinarsi a Lui, prendere contatto con Lui; solo in simili disposizioni le parole pronunciate con le labbra saranno l'espressione della devozione interiore e potranno sostenerla e nutrirla. Purtroppo, portati come siamo a cogliere più il lato materiale delle cose che non quello spi­rituale, è tanto facile che nelle preghiere vocali ci accontentiamo di una recita meccanica, senza attendere ad orientare il cuore a Dio; dobbiamo perciò sempre vigilare e sempre reagire. Una preghiera vocale fatta soltanto con le labbra si dissipa e stanca anziché raccogliere l'anima in Dio e non si può davvero dire che sia un mezzo per unirci di più a Lui.
 
-ai neobattezzati che, una settimana dopo Pasqua, deponevano le vesti bianche ricevute al sacro fonte. Proprio
-ad essi è diretta l’affettuosa raccomandazione di S. Pietro,
-che leggiamo nell’Introito della Messa: «Come bambini
-di fresco nati, siate bramosi del latte spirituale purissimo».
-Sentiamo in queste parole l'eco della sollecitudine materna
-della Chiesa per i suoi figli che ha rigenerati in Cristo, e
-soprattutto per gli ultimi nati. Ma questa sollecitudine è
-anche per noi; benchè battezzati appena venuti alla vita, si
-può ben dire che ogni anno a Pasqua, risorgendo in Cristo, rinasciamo in Lui a vita novella. Dobbiamo, quindi, anche
-noi essere simili «a bambini di fresco nati », nei quali non
-è malizia, nè frode, non è orgoglio, nè presunzione, ma tutto
-è candore e semplicità, fiducia e amore. E' questo un
-bel richiamo a quell’infanzia spirituale che Gesù ci ha proposto come condizione indispensabile per giungere a salvezza: «se non vi cambierete e non diventerete come pargoli, non entrerete nel regno dei cieli» (Mt. 18, 3). Ogni
-ondata di grazia, purificando e sanando l'anima nostra dal
-peccato e dalle sue radici, ci fa rinascere a nuova vita in
-Cristo, vita innocente e pura che aspira soltanto al «latte
-spirituale purissimo » della dottrina di Cristo, del suo amore
-e delle sue grazie. Ma oggi la Chiesa vuole in modo particolare orientare i nostri desideri verso la fede: fede che ci
-fa aderire a Gesù per essere da Lui istruiti, nutriti e guidati alla vita eterna. Anche qui torna a proposito la parola
-del Maestro che abbiamo meditato nella settimana scorsa:
-«A chi crede in me, sgorgheranno dal ventre torrenti d'acqua viva... zampillante nella vita eterna» (Gv. 7, 38; 4,
-14). Accostiamoci a Gesù con la fede semplice e sincera
-dei fanciulli ed Egli ci darà l'abbondanza della sua grazia,
-pegno di vita eterna.
+**2** — S. Teresa di Gesù, desiderosa di educare e di disporre le anime al tratto intimo con Dio, orienta a questo scopo anche la preghiera vocale e dice in proposito: «vi dirò sempre di unire l'orazione vocale alla mentale» *(Cam.* 22, 3). E spiega così il suo pensiero: «Se pregando vocalmente sono veramente persuasa di parlare con Dio e attendo più a Lui che alle parole che pronunzio, la mia orazione vocale si unisce alla mentale» (ivi, 1). La Santa non vuole davvero trascurare l'esattezza della recita — cosa che ha grande importanza particolarmente nella preghiera liturgica, come l'Ufficio divino — ma vuol dire che il punto più importante sta sempre nell'attendere a Dio. Soprattutto quando si tratta di preghiere vocali di una certa lunghezza è quasi impossibile attendere al senso di tutte le parole che si pronunziano, ma non è impossibile invece recitare mantenendosi alla presenza di Dio; secondo le disposizioni del momento si potrà alimentare il desiderio di lodarlo o di unirsi a Lui, di invocare in genere il suo aiuto o di chiedergli una particolare grazia; potrà anche bastare un pensiero generico sul significato delle formule che si recitano, o anche un semplice sguardo su Dio cui rivolgiamo la nostra preghiera. Insomma, si tratta non solo di recitare, ma di stare con Dio. Perciò la Santa insiste: «è giusto che [prima di recitare] consideriate chi è Colui con cui parlate e chi siete voi; ciò almeno per poter parlare con convenienza...» *(Cam.* 22, 1) e questo, conclude, è già fare orazione mentale. Non si tratta certo di un'orazione mentale intensa come quella che si fa nel tempo dedicato esclusivamente ad essa, senza alcuna preoccupazione di recite vocali, tuttavia è già orazione mentale nel senso che la mente ed il cuore sono orientati in Dio ed anche attraverso la recita cercano il contatto intimo con Lui.
 
-
-2. — Il Vangelo odierno ha un valore tutto particolare
-per confermarci nella fede.
-
-
-Ci conferma nella fede il dubbio di Tommaso perchè, come dice S. Gregorio, «ha giovato più a noi l’incredulità
-di lui che non la fede degli altri apostoli»; se egli non
-avesse dubitato, nessun uomo avrebbe « messo il dito nella
-piaga dei chiodi e la mano nel costato » del Signore. Gesù ha
-avuto pietà della poca fede dell'apostolo ed anche della
-nostra e gli si è dato non solo a vedere, come già aveva
-fatto con gli altri, ma anche a palpare, permettendo a Tom
-maso, l'incredulo, quel che non aveva permesso a Maria
-Maddalena, la fedelissima. E di qui comprendiamo la con
-dotta di Dio: mentre Egli non nega consolazioni sensibili
-e segni più o meno palpabili della sua presenza ad anime
-ancora titubanti nella fede, spesso conduce per vie del tutto
-oscure coloro che si sono dati a Lui in modo irrevocabile
-e sulla cui fede sa di poter contare. Dio è Padre, ad ogni
-anima che lo cerca con cuore sincero non nega quanto
-è necessario per sostenere la sua fede, ma spesso rifiuta ai
-più forti quello che concede ai più deboli. E' questo l’insegnamento che Gesù ci dà: « beati coloro che non hanno
-visto eppure hanno creduto ». Beati quelli che per credere
-in Dio non hanno bisogno di vedere, di toccare, non han
-no bisogno di segni sensibili, ma possono affermare senza
-reticenze: «Scio cui credidi » (Il Tim. 1, 12), so in chi ho
-posto la mia fiducia e son sicuro di Lui. Una fede simile
-è più meritoria per noi poichè, fondandosi soltanto sulla
-parola di Dio, è totalmente soprannaturale; ed è più onorevole per Iddio poichè gli dà pieno credito, senza esigere
-alcuna riprova, ma anzi persevera anche in mezzo alle oscurità e ai fatti più sconcertanti, quando sembra quasi che il
-Cielo sia chiuso e il Signore sia sordo ai nostri gemiti.
-
-Una fede così forte è certamente frutto della grazia di
-Dio, ma noi dobbiamo prepararci a riceverla sia invocandola con la preghiera, sia esercitandoci nella fede stessa.
+Praticata così, l'orazione vocale ha un grande valore, anzitutto perché è fatta nel modo più conveniente e rispettoso per la Maestà di Dio, e poi perché abitua gradatamente l'anima all'orazione mentale, al tratto intimo con Lui.
 
 ### Colloquio
 
-Dio mio, dammi un cuore puro e semplice, senza malizia, senza finzione. «O Signore, concedimi vera purezza
+«Non permettere mai, mio Dio, che, parlando con te, tenga per cosa sufficiente farlo soltanto con le labbra. Come si può ciò sopportare?
 
+«Non perché Tu sei tanto buono, devo io mostrarmi irriverente, parlando con te con minor considerazione e rispetto di quanto si fa parlando con un uomo qualunque. Anche solo per esserti riconoscente della bontà che mi usi quando sopporti alla tua presenza un essere così ripugnante come sono io, è bene ch'io cerchi di conoscere quale sia la tua Maestà.
 
-e semplicità, negli occhi, nelle parole, nel cuore, nell'intenzione, nelle opere e in tutto l’interiore e l'esteriore. Ma vorrei sapere, Signor mio, quello che impedisce in me queste
-virtù. Lo dirò a te, anima mia, poichè non posso farlo intendere ad altri. Sai che cosa l'impedisce? Ogni minimo
-sguardo che non sia secondo Dio, tutte le parole che non
-sono proferite o per lode di Dio, o per conforto del prossimo.
+«O Sovrano mio Dio, potenza infinita, bontà suprema, sapienza eterna, senza principio e senza fine! Le cui opere non hanno limite, le cui perfezioni sono incomprensibili e infinite, Oceano senza fondo di meraviglie, Bellezza che in sé comprende qualunque altra bellezza, Tu che sei la forza medesima, oh, se in questo momento, gran Dio, io potessi avere tutta la sapienza e l'eloquenza degli uomini! Come potrei far ben comprendere, per quanto è a noi concesso, qualcuna di quelle tue molteplici perfezioni che ci possono far conoscere qualche cosa di ciò che Tu sei, mio Signore e mio unico Bene!
 
-sai come scacci dal cuore tuo queste virtù? Le scacci ogni
-volta che non hai quella pura intenzione di onorare Dio
-e di giovare al prossimo tuo; le scacci anche quando ti vuoi
-andare ammantellando, coprendo e scusando le colpe tue,
-non pensando che Dio vede tutto e vede il tuo cuore, O
-Signore, dammi vera purità e semplicità, perchè nell'anima
-che ne è priva Tu non puoi trovare il tuo riposo» (cfr.
-S. M. Maddalena de’ Pazzi).
-
-O Signore, monda il mio cuore e le mie labbra col fuoco della tua carità, affinchè ti ami e ti cerchi con la pu
-rezza e la semplicità di un fanciullo. Ma dammi anche
-la fede semplice dei fanciulli, fede senza ombre, senza
-titubanze, senza inutili ragionamenti; fede dritta e pura che
-è paga della tua parola, della tua testimonianza e in essa
-si acquieta senza voler altro.
-
-«O Signore, che cosa m'importa di sentire o di non
-sentire, di essere nel buio o in luce, di gioire o di soffrire, quando posso raccogliermi nella luce creata in me
-dalla fede? Devo piuttosto provare una specie di vergogna nel far distinzione fra queste cose; e quando mi sento
-ancora scossa da esse devo disprezzarmi profondamente
-per il mio poco amore e guardare subito a te, Maestro
-divino, per farmi da te liberare. E Tu m'insegni che devo
-esaltarti al di sopra delle dolcezze e delle consolazioni che
-vengono da te. e devo esser risoluta a passar sopra a tutto
-per unirmi a te» (cfr. E.T. II, 4).
+«Per intendere questo, bisogna che ci avviciniamo a te e, appena ti saremo innanzi, comprenderemo subito chi sia Tu a cui vogliamo parlare e con cui parliamo. Ma neppure dopo mille vite come la nostra, potremo comprendere degnamente come meriti di essere trattato Tu, mio Dio, alla cui presenza tremano gli Angeli... Quando si deve parlare con un principe, non lo si fa con leggerezza... Ma, o mio Sposo, sarà mai vero che trattandosi di te, si debba far minor conto che dei figli degli uomini? Non so comprendere come l'orazione vocale sia ben fatta, quando si è separata dal pensiero di te, o Signore, a cui ci rivolgiamo. O che forse non è doveroso, quando si prega, pregare con attenzione?» *(T.G. Cam.* 22, 1-8; 24, 6).

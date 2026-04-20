@@ -1,41 +1,37 @@
-## 307 — THE GIFT OF WISDOM
+## 307 — BLESSED ARE THE POOR IN SPIRIT
 
 ### Presence of God
 
-Come, Spirit of Wisdom, draw me!
+O Holy Spirit, show me the way that leads to true poverty of spirit, and give me strength to follow it to the end.
 
 ### Meditation
 
-1. — The gift of understanding makes us penetrate things of God; gift of wisdom leads us further still: it makes us taste them, giving us savory knowledge. It is the "sapid knowledge" of which St. Bernard speaks, the untranslatable *dulce sapere* invoked by St. Thomas (*Adoro te devote*), precious gift Holy Spirit offers saying: *Gustate et videte quoniam suavis est Dominus* — taste and see how good Lord is (Ps. 33:9).
+1. — When a soul follows the motions of the gifts, they produce in it such exquisite fruits of virtue that it begins to taste something of eternal beatitude, of which they are a pledge. For this reason they are called beatitudes. To each gift corresponds a beatitude; to the gift of fear corresponds poverty of spirit: "Blessed are the poor in spirit, for theirs is the kingdom of heaven" (Mt. 5:3).
 
-Not by chance is it said first taste and then see, because gift of wisdom makes us know God precisely through experience of heart that "tastes" beloved object.
+The gift of fear, desiring to lead the soul to complete freedom from sin, aims to extinguish in it concupiscence for earthly things, the principal cause of sin. Therefore it urges the soul along a path of total detachment, stripping it of every claim of egoism and pride, every greed, every demand regarding earthly goods, and establishing it gradually in perfect poverty of spirit.
 
-There are two ways of knowing: speculative-intellectual mode and experiential mode deriving from kind of connaturality with object to be known. This latter is less distinct but much deeper than first and grasps intimate substance of things. Thus, for example, through affinity of sentiments and affections linking mother to child, she knows his heart much better than any other person. Similar is knowledge of divine things we acquire through gift of wisdom.
+Before all that life can offer us — honors, satisfactions, creaturely affections, riches, comforts — the Holy Spirit repeats in the depths of our heart Jesus' words: "If thou wilt be perfect, go, sell what thou hast ... then come, follow Me" (Mt. 19:21). That is: do not seek to have more than what you possess; rather strip yourself even of what you have. Be not greedy for riches, pleasures, consolations, glory, or earthly affections, but let all these things go. Filling your heart with earth, they keep it from being filled with God.
 
-Between us and God there is certain connaturality, certain likeness produced by love uniting us to Him and in some way assimilating us to Him. Indeed St. Paul does not hesitate to say that "he who is joined to the Lord is one spirit" with Him (1 Cor. 6:17). Gift of wisdom makes us know God and divine things precisely through this connaturality, and therefore gives us experience warm and savory because it derives from love.
+The Holy Spirit presses the soul toward material poverty, teaching it to be content with little, to make no demands even concerning necessities of life. Yet He presses it even more toward spiritual poverty, because without this the first is worth nothing. "The mere deprivation of things," says St. John of the Cross, "does not strip the soul at all if it still keeps appetite [attachment] for them. It is not the things of this world that occupy or harm the soul, because they do not enter it, but desire and appetite for them, which dwell in it" (Ascent I, 3, 4).
 
-Such experience seizes soul in its center, that is, in will, drawing it strongly into God; and at same time overflows as light into intellect. Gift of wisdom acts somewhat like ray of sun that warms and illumines at once. It warms by reviving soul's charity and, through this inflaming of love, illumines it concerning divine realities and makes it capable of judging them, intuiting infinite goodness and absolute superiority over all things. "O the depth of riches of God!" (Rom. 11:33) is cry of soul inflamed and illumined by gift of wisdom.
+2. — Poverty of spirit includes not only detachment from material goods, but also detachment from moral and even spiritual goods.
 
-2. — All gifts of Holy Spirit are closely linked with charity, since they are found only in soul possessing charity and develop as it increases. But gift of wisdom has altogether particular relation with love of charity.
+Whoever nourishes claims regarding affirmation of personality, the esteem and regard of creatures, whoever remains attached to his own will, ideas, or independence, is not poor in spirit but still rich in self, self-love, and pride. "If you wish to be perfect," St. John of the Cross exhorts, "sell your will; approach Christ in meekness and humility and follow Him to Calvary and the tomb" (Admonitions).
 
-First, it is precisely through charity this gift comes to act. "Cause of gift of wisdom," says St. Thomas, "is in will, and this cause is charity" (II-II, q. 45, a. 2). Therefore, more soul loves God, more capable it is of receiving motion of this gift.
+Likewise, one who still seeks creaturely affection, joy, and satisfactions creatures can give is not poor in spirit; nor is one who, in piety and in relations with God, seeks consolations and spiritual sweetness. Poverty of spirit consists in being wholly naked and empty of all these claims, so that the soul claims and desires one thing only: to possess God; and it remains content even when God lets Himself be found only in darkness, dryness, discouragement, and suffering.
 
-Moreover, savory knowledge of God deriving from gift of wisdom is most powerful in increasing charity. How could we fail to love Lord more after having tasted Him? As gift of wisdom invests soul more, charity increases and with it unitive force by which soul adheres ever more to God.
+This is perfect poverty of spirit, making the soul free from all that is not God; and herein lies the reason for its happiness: "The soul that strips itself of its desires, of its willing and not willing, God will clothe with his purity and his delight and his will" (St. John of the Cross). The beatitude promised to the poor in spirit is precisely possession of God, a possession that will clothe them in God's infinite riches.
 
-This gift leads to prayer still deeper than that in which only gift of understanding intervenes. Soul feels itself "seized" by God, irresistibly drawn by Him; it feels truly united to Lord and in this union tastes Him — not in sensible manner, but spiritual — and intuits Him in most intimate way possible here below.
-
-From this prayer soul comes forth truly inflamed with love, shown above all by conformity of its will to will of God in all contingencies of life. It comes forth so full of God that, returning to ordinary occupations, it sees and considers everything in relation to God. Thus gift of wisdom extends influence also to practical life and teaches us to judge all things in God's light.
-
-To be apt for motions of gift of wisdom — most sublime of gifts — we must gently dispose our heart to fullness of love, and at same time apply ourselves to acquire deep humility, because, as Jesus said, "these things are hidden from wise and prudent according to world and revealed to little ones" (cf. Mt. 11:25).
-
-"Only those acquire wisdom of God who, like ignorant children, laying down their own knowledge, advance with love in his service" (St. John of the Cross).
+This is the goal to which the Holy Spirit desires to lead us. Let us cooperate with his action, following docilely his invitations to detachment and total stripping. The more generous we are in depriving ourselves of all that is not God, the more we shall enjoy the beatitude promised to the poor in spirit.
 
 ### Colloquy
 
-"Descend, O divine Spirit, and rest upon my head and take hold of my heart. Dissipate all darkness that folly of world calls wisdom; grant me instead gift of heavenly wisdom. You alone can teach me to despise what world loves, what delights and flatters. You alone can teach me to taste things of God, virtue, piety, and love You came to kindle on earth so world might be inflamed" (Anonymous).
+"O Jesus, book of life and our salvation, your first companion on earth was continual, extreme, most perfect poverty. You, the Mighty One, Lord of all things, willed absolute poverty, so that we too might make one thing of love and poverty. You were poor in all things: poor in material goods, poor in your own will, poor in spirit, poor beyond all our imagining, infinitely poor, because infinite was the love with which You loved us. You were poor like one who has nothing, poor like one who does not even ask for what he lacks: poor in possessions, poor in friends, poor in power and human wisdom, poor in reputation for holiness, poor in earthly dignity, poor in everything that exists.
 
-"O God, who are essentially uncreated love, infinite love, love without measure, not only one who loves but all love; O God from whom proceed loves of all Seraphim and all creatures, why should I not love You? Why should I not consume myself in this fire of love that embraces whole universe?
+"Even with your words You glorified poverty. You said: Blessed are the poor. You said that the poor would judge the world.
 
-"O God, who are essentially goodness itself, by whom all good is good, from whom derives goodness of all creatures as other waters from sea, above whose excellent goodness there exists no thing in heaven or earth that can be called good, why should I not love You, since goodness is object of love?
+"But alas, shame and sorrow! Today, Lord, this poverty of spirit so taught and exalted by You is rejected and fled by almost all; and even those who preach it and glorify it in words often deny it in fact by will, desire, and life.
 
-"O most holy Father! O most clement Son! O most loving Holy Spirit! When, in innermost depth of my soul, will You, O Father, be most hidden thing and possess me wholly? When shall I be all yours and You all mine? When shall You be my King? When will that day come? Oh, when? Ah, it will surely come! Do You believe it will come? What delay! What painful postponement! Hasten, O Jesus, hasten, do not delay!" (Venerable Louis of Granada).
+"Truly blessed is he who, following your example, O Christ, has chosen poverty as his companion! Truly blessed, as You said, is he who, not in word alone but in will and in life, makes himself poor of every good, poor of friends, relatives, consolations, and vain knowledge; blessed is he who flees dignities, offices, and reputation for holiness.
+
+"O Lord, if I cannot materially strip myself of all earthly things, grant me, I beg You, to strip myself of them at least in heart — and not once only, but every day, every moment. O truly blessed such a poor one, for the kingdom of heaven is his!" (Blessed Angela of Foligno).

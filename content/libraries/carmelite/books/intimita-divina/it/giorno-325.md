@@ -1,87 +1,31 @@
-## 325 — RETTITUDINE D'INTENZIONE
+## 3 — COLLABORATORI DI DIO
 
-### Presenza di Dio
-
-O Dio, strappa dal mio cuore tutte le intenzioni seconde, tutti i movimenti dell'amor proprio, affinchè io miri solo alla tua gloria.
+**Presenza di Dio.** — *Signore, prendimi affinché sia degno di collaborare con te alla diffusione del tuo regno.*
 
 ### Meditazione
 
-nell'apostolato deriva dal fatto che la loro attività apostolica non viene esercitata con quelle condizioni che di per
+**1** — Parlando del lavoro apostolico S. Paolo dice: «*Dei sumus adjutores*» *(1 Cor.* 3, 9), siamo cooperatori, collaboratori di Dio.
 
-sè richiede e che sono indispensabili per trasformarla in
-un intenso esercizio di vita spirituale. Si tratta di un certo disordine, di motivi più o meno umani che, insinuandosi in tale attività, la fanno scendere dal piano soprannaturale a quello umano e la fanno diventare un'occasione di deviazione, di raffreddamento della vita interiore,
-per cui l'anima si sente insoddisfatta, inquieta, Pio XII, nel
-Motu proprio «Primo feliciter », ha espresso molto chiaramente le condizioni di un'attività santa: « L'apostolato
-— egli dice — deve essere sempre santamente esercitato
-con tanta purezza d'intenzione, con tanta interiore unione
-con Dio, con sì generosa dimenticanza e forte abnegazione di sè e con tale amore alle anime, che esso scaturisca
-dallo spirito interiore che lo informa e nel medesimo tempo continuamente alimenti c rinnovi questo stesso spirito », Riesaminando il nostro apostolato alla luce di queste
-Hun potremo individuarne i punti deboli, scoprire i dietti da evitare cd anche i rimedi da prendere. Le cond
-zioni proposte sono quattro: purezza d'intenzione, unione con Dio, abnegazione di sè, amore alle anime; esse sono di tale importanza che, mentre assicurano all'apostolato la sua fecondità, ne fanno un efficace mezzo di progresso spirituale. Sforzandoci di realizzarle, eleveremo inieme il livello e della nostra attività e della nostra vita
+L'apostolato non è quindi un'attività personale, frutto più o meno pregevole delle proprie risorse ed iniziative; non è un'attività che si può svolgere secondo le proprie vedute e tanto meno con le proprie forze. Qualsiasi forma di apostolato è *collaborazione* all'opera unica di redenzione e di santificazione che Dio svolge attraverso i secoli nel mondo. Dio solo può redimere e santificare. Egli che possiede la santità in proprio, Egli che è il creatore e la sorgente della grazia. «Uno è il Mediatore fra Dio e gli uomini» *(1 Tim.* 2, 5), uno solo è il Redentore e il Santificatore: Gesù, Verbo Incarnato; tutti gli altri, anche i più grandi santi e perfino la Madonna, sono apostoli solo in quanto collaborano all'opera di Cristo. Noi, come dice S. Paolo, non facciamo che prestare a Dio la nostra attività: «Io ho piantato, Apollo ha innaffiato, ma è Dio che ha fatto crescere; di modo che nulla è il piantatore, nulla l'innaffiatore, ma *tutto è Dio* che fa crescere» *(1 Cor.* 3, 6 e 7).
 
-Consideriamo anzitutto la purezza d'intenzione; se nessuno può «servire Dio c Mammona» (Mt. 6, 24), tanto
-meno l'apostolo può darsi all'attività apostolica con la doppia intenzione di servire Dio e l'amor proprio, di piacere
-it Dio e al mondo, di zelare gli interessi delle anime e gli
-interessi personali. La forza, la pace, la vita vengono dall'unità; il frammentarismo, anche quello dello spirito, non
-può portare che alla debolezza, alla divisione, alla guerra
-e infine alla morte. L'apostolo che ha il cuore diviso da
-intenzioni opposte invano cercherà la pace nel suo lavoro,
-ma sarà sempre inquieto, insoddisfatto.
+L'opera dell'agricoltore è certamente necessaria per far fruttificare il campo, tuttavia non è sufficiente, ma occorre la pioggia e il sole, occorre la stagione propizia. Parimenti, dato il piano stabilito da Dio per la salvezza degli uomini, l'attività dell'apostolo è necessaria, però non è sufficiente, Dio solo può dare l'incremento. Come Dio solo può far splendere il sole o mandare la pioggia per fecondare il campo materiale, così Dio solo può dare la grazia per fecondare il campo dell'apostolato. S. Paolo era talmente convinto di questa verità che, rivolgendosi ai Corinti, esclamava: «*Dei agricultura estis, Dei aedificatio estis*» *(1 Cor.* 3, 9); benché egli per il primo li avesse generati alla fede non dice: siete miei figli, siete mio campo, ma «siete campo di Dio, siete edificio di Dio». L'apostolato non è opera umana, ma opera divina, cui l'uomo presta la sua collaborazione come umile strumento.
 
-do grossolano che risalta facilmente all'occhio, ma anche
-in modo così sottile che all'anima distratta passa del tutto
-inosservato. Per scoprire le minime intenzioni seconde,
-che come piccole volpi si insinuano di soppiatto a rovinare l'attività apostolica, occorre un clima di raccoglimento e di preghiera. Nei momenti di pausa ai piedi 'del Signore l'apostolo si accorgerà che spesso, durante le occupazioni quotidiane, perde di vista il fine soprannaturale
-che dovrebbe animare la sua attività e che in luogo di csso subentrano fini secondari che diventano il motivo immediato di tante sue deliberazioni ed azioni. Ciò significa
-che la sua intenzione non rimane orientata unicamente
-verso Dio e le anime, ma spesso devìa sotto l'influsso dell'amor proprio; sì tratterà talvolta di una ricerca più ©
-meno inconscia del plauso, della gloria, oppure di preoccupazioni riguardanti il proprio tornaconto, il proprio interesse materiale: non perdere un posto, procurarsi qual
-che avanzamento di carriera, essere preferito dai superiori
-e prescelto per opere più attraenti o redditizie... Insomma,
-dovrà constatare che, accanto all'amore di Dio e delle
-anime, vi è ancora molto amor proprio ed egoismo. Davanti a questo quadro poco consolante non deve scoraggiarsi, ma riconoscere umilmente la propria miseria e ringraziare il Signore che gliela scopre appunto sto possa correggersene. Non deve DERE pensare che tutto ciò
-che fa sia unicamente frutto di amor proprio: no, quando una persona si è data all'apostolato mossa dal desiderio sincero di fare la volontà del Signore e di conquistarli altri cuori, bisogna dire che è animata dall'amore di
-Dio e delle anime, e tuttavia bisogna pure ammettere che
-il suo amore non è ancora così forte da trionfare totalmente delle passioni umane. L'apostolo non deve dunque
-cessare di combattere tutte le manifestazioni, anche minime, dell'amor proprio, non deve indulgere. con esse col
-pretesto che si tratta di movimenti naturali, “ma correggere, mortificare, reprimere, tagliare senza pietà, sempre
+**2** — Se l'apostolo è strumento di Dio, non è però uno strumento materiale, come lo è ad esempio la penna nelle mani dello scrittore, ma è strumento vivo, personale, fornito di intelligenza e volontà e che perciò deve mettersi volontariamente a disposizione dell'Artista divino cercando di armonizzare, o meglio di sincronizzare il suo modo di pensare, di volere, di agire, col modo divino, ossia con i metodi e i voleri divini. Ognuno di noi sarà apostolo nella misura in cui sarà strumento docile nelle mani di Dio, in modo che Egli possa servirsi di lui come vuole.
 
-rettificando le sue intenzioni. È necessaria una lunga c
-profonda purificazione per vincere totalmente il dualismo
-fra Dio c l'io, l'amore delle anime e l'amore di sè. Occorre invocare dal Signore la grazia di questa purificazione totale e disporvisi facendo tesoro di tutte le occasioni
-di distacco, di rinuncia, di sacrificio, di umiliazione che
-l'attività apostolica offre in abbondanza a chi vi si dedica
-seriamente. Battendo questa via, l'apostolo troverà nel suo
-lavoro un ottimo mezzo di ascesa spirituale e, anzichè invischiarsi nei pericoli che l'attività esterna presenta quando l'amor proprio non è represso, sì purificherà attraverso l'esercizio del suo apostolato,
+Anche noi dobbiamo fissare lo sguardo su Gesù; la sua Umanità fu lo strumento di cui il Verbo si servì per la redenzione del genere umano. L'Umanità di Gesù non ha personalità propria; la sua volontà, la sua intelligenza, i suoi affetti, il suo corpo sono strumenti del Verbo, di cui Egli usa con pienissima libertà e attraverso i quali compie la sua opera di amore per la salvezza degli uomini.
+
+In maniera analoga l'apostolo — benché abbia una personalità propria che rimane sempre distinta da Dio, anche nei più alti stati di unione mistica — deve darsi a Dio come docilissimo strumento, come una pura capacità messa totalmente a sua disposizione. Tutto ciò che l'apostolo ha ricevuto da Dio — intelligenza, volontà, doti naturali e soprannaturali — deve liberamente offrirlo a lui, affinché Egli se ne serva come vuole per la diffusione del suo regno. Che Dio lo adoperi per opere grandi e vistose, o per opere umili e nascoste, che lo usi per annunziare in pubblico la sua parola o per illuminare nel segreto le anime, che lo impieghi in un'attività intensa o lo immoli nella preghiera e nel silenzio, poco importa, purché tutte le sue forze e tutta la sua vita siano poste a servizio delle anime.
+
+Come l'opera della santificazione personale, così anche l'opera della santificazione altrui, ossia l'apostolato, si risolve in un problema di docilità, di disponibilità alla grazia, ai voleri di Dio; di conseguenza, si risolve in un problema di morte a se stessi, a tutto ciò che nel proprio pensiero, nella propria volontà e condotta può minimamente contrastare col pensiero, con la volontà, con la condotta di Dio.
 
 ### Colloquio
 
-«O Signore, quando voglio pregare o lavorare per il
-bene delle anime, devo anzitutto drizzare l'occhio della
-mente a te, eterno Lume e al tuo splendore, affinchè Tu
-mi dia luce, fortifichi lo spirito mio e mi aiuti a ritirarmi
-il più possibile dalle cose esterne per essere tutto interiore e rivolto alle cose interiori. Fa” che nel prossimo consideri solo l'uomo interiore, non curandomi dell'esteriore
-se non in quanto serva all'interiore, in modo che tutto il
-resto sia messo da parte come vanità e io non sia tirato
-a cose vane,
+«Dio mio, so benissimo che Tu non hai bisogno di nessuno per compire la tua opera di santificazione; e tuttavia vuoi essere aiutato nella divina cultura delle anime, nel medesimo modo che permetti ad un abile giardiniere di coltivare delle piante delicate e rare, pur riserbando per te la cura di fecondarle. Oh, quante anime giungerebbero ad una santità eminente, se fossero ben dirette fin dai loro primi passi!
 
-«Dio mio, che io sia mosso all'apostolato, alle ora
-ni e ai buoni esempi, solo dal desiderio di salvare Je anime e non dalla vanagloria, dall'ambizione, dall'umana compiacenza o da qualche mondana utilità, Te solo, o Cristo
-crocifisso, voglio cercare! Voglio inebriare le anime del
-tuo Sangue e non di curiosità, affinchè bramino te solo.
-Voglio dire a ciascuna di esse: “io non conosco altro se
-non Gesù Cristo e lui crocifisso '. Perciò, non solo non
-voglio vantaggi terreni e non m'importa di piacere agli
-uomini, ma neppure giudico di conoscere altra persona o
-altra cosa tranne te, Cristo crocifisso.
+«Dio mio, l'onore più grande che Tu possa fare ad un'anima, non è già darle molto, ma chiederle molto. Perciò, quando mi dai da soffrire per la salvezza delle anime, mi tratti come i tuoi privilegiati! Non fu forse soffrendo e morendo che Tu pure hai redento il mondo? O Gesù, io aspiro alla felicità di sacrificare la mia vita per te, ma il martirio del cuore non è meno fecondo dell'effusione del sangue, e fin d'ora questo martirio è mio. Com'è bella, o Signore, la parte che mi hai riservata, parte degna di un apostolo!
 
-«O Signore, inebriami tanto del tuo amore che qua-
+«O Signore, sì, desidero lavorare con te per la salute delle anime; non ho che l'unico giorno di questa vita per salvarle e darti così prova del mio amore. L'indomani di questo giorno sarà l'eternità; allora Tu mi renderai centuplicate le gioie che sacrifico per te.
 
-|? - DIMENTICANZA E ABNEGAZIONE DI Sf 67
+«Quanto è dolce, o Gesù, aiutarti coi nostri piccoli sacrifici a salvare le anime da te redente a mezzo del tuo Sangue e che, per non cadere nell'abisso, non attendono che il nostro soccorso.
 
-lunque altra cosa mi si offra allo sguardo o al gusto, all'udito o ad un altro senso, qualunque cosa, tranne te, 10
-la consideri un nulla, sì che non mi diletti, non mi glori,
-non mi riposi se non nel tuo Sangue, al quale vo' essere
-totalmente rivolto. Fa' che i miei occhi non siano pieni
-di cose terrene, ma del tuo soffrire, fa” che la mia bocca
-non sia piena di parole vane, ma della tua Passione, e co-
+«Come sarei felice se in punto di morte potessi avere un'anima da offrirti! Vi sarebbe un'anima strappata al fuoco dell'inferno e che ti benedirebbe per tutta l'eternità» (T.B.G. *St.* 5; *Lt.* 184, 171, 23).

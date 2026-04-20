@@ -1,88 +1,21 @@
-## 201 — DISPONIAMOCI ALL'UNIONE
+## I — FESTA DEL «CORPUS DOMINI»
 
-### Presenza di Dio
+*giovedì dopo la I Domenica dopo Pentecoste*
 
-O Gesù, fa' ch'io possa approfittare al pieno della grazia di unione con te, che ogni giorno mi offri nella S. Comunione.
+**Presenza di Dio.** — *«O vivo Pan che ascondi il mio Tesoro, innanzi a te, prostrandomi, t'adoro!» (G.C. Poesie).*
 
 ### Meditazione
 
-1. — Per virtù sua propria, l'Eucaristia ci unisce a Cristo; l'unione fisica con lui è identica per tutti coloro che si
-nutrono del suo Corpo e del suo Sangue. E, tuttavia, quest'unione non produce in tutti gli stessi effetti, tanto è vero
-che per chi si accosta indegnamente alla sacra Mensa diventa occasione di condanna: «chi mangia il pane o beve
-il calice del Signore indegnamente — dice S. Paolo —
-... mangia e beve la propria condanna» (I Cor. 11, 27-29).
-Però anche in coloro che si accostano degnamente all'Eucaristia, gli effetti che ne derivano non sono i medesimi, ma
-sono sempre proporzionati alla bontà ed alla perfezione delle
-loro disposizioni.
+**1** — Di tappa in tappa, attraverso l'anno liturgico, dalla considerazione dei misteri della vita di Gesù siamo saliti fino alla contemplazione della SS.ma Trinità, di cui abbiamo celebrato la festa domenica scorsa. Gesù, nostro Mediatore, nostra via, ci ha preso per mano e ci ha portato alla Trinità ed oggi sembra che la Trinità stessa voglia ricondurci a Gesù, considerato nella sua Eucaristia. «Nessuno viene al Padre se non per mezzo mio» *(Gv.* 14, 6), ha detto Gesù ed ha soggiunto: «Nessuno può venire a me se non vi è attratto dal Padre» *(ivi,* 6, 44). È questo l'itinerario dell'anima cristiana: da Gesù al Padre, alla Trinità; dalla Trinità, dal Padre a Gesù; Gesù ci porta al Padre, il Padre ci attira a Gesù. Il cristiano non può assolutamente fare a meno di Cristo; Egli è nel senso più stretto della parola il nostro *Pontefice*, Colui che si è *fatto ponte* fra Dio e noi. Chiuso il ciclo liturgico in cui si commemorano i misteri del Salvatore, la Chiesa, quale buona madre, ben sapendo che la nostra vita spirituale non può sussistere senza Gesù, ci porta a lui, vivo e vero nel SS.mo Sacramento dell'altare. La solennità del «Corpus Domini» non è il semplice ricordo di un fatto storicamente avvenuto circa duemila anni or sono, la sera dell'ultima Cena, ma è la festa di un fatto attuale, di una realtà sempre presente e sempre viva in mezzo a noi, per cui possiamo ben dire che Gesù non ci ha «lasciati orfani», ma ha voluto *rimanere stabilmente* con noi nell'integrità della Persona, con tutta la sua Umanità, con tutta la sua Divinità. «Non c'è, né ci fu mai nazione tanto grande — canta con entusiasmo l'Ufficio del giorno — da avere gli dèi così vicini a sé, com'è vicino a noi il nostro Dio» *(BR.)*. Sì, nell'Eucaristia Gesù è veramente l'Emanuele, il Dio con noi.
 
-Gesù penetra in me e mi trasforma in lui solo nella misura in cui non gli oppongo ostacoli, in cui sono disposto
-a ricevere la grazia particolare dell'Eucaristia, grazia di
-«unificazione a Cristo ». Pur essendo un dono tanto grande,
-l'unione fisica con Gesù, che la S. Comunione mi offre,
-è ordinata alla mia unione spirituale con lui, alla mia trasformazione in lui per amore; unione e trasformazione che
-saranno tanto più profonde, quanto più mi accosterò alla
-sacra Mensa con disposizioni adatte. E queste disposizioni
-consistono appunto nel preparare il mio cuore ad un'unione
-sempre più piena col Signore, unione che esige uniformità
-di aspirazioni, di gusti, di sentimenti, di volontà. Come
-potrei godere della visita di un amico, trascorrere con lui
-momenti di dolce intimità, di vera unione, quando fra me
-e lui vi fossero divergenze di desideri, di affetti, di voleri?
-
-Ecco, dunque, la più bella preparazione che posso premettere alle mie Comunioni: sforzarmi di togliere dalla mia
-vita tutto ciò che può anche minimamente discordare con
-la volontà divina, con i sentimenti, le disposizioni del Cuore
-di Gesù. « Abbiate in voi quel sentire che era anche in
-Gesù Cristo» (Fil. 2, 5), mi dice S. Paolo; proprio questo
-deve essere il programma della mia preparazione remota alla S. Comunione.
-
-2. — Perchè l'Eucaristia produca in me tutto il suo
-frutto e sia per me occasione di una unione più intima e
-piena con Gesù, non basta, come dice S. Agostino, che io
-mangi materialmente il suo Corpo, ma bisogna che io lo
-mangi «spiritualmente», ossia che il mio spirito sia ben
-disposto e preparato a ricevere il Corpo di Cristo, a lasciarsi invadere e trasformare da Cristo. Quando Gesù, venendo in me, troverà un cuore, una volontà, degli affetti,
-dei sentimenti del tutto conformi ai suoi, nulla potrà impedirgli di effondersi in me nel modo più pieno; la sua vita,
-il suo spirito, la sua Divinità penetrerà le più intime fibre del mio essere e mi trasformerà in lui, sì che io potrò
-realmente dire con S. Paolo: «vivo non più io, ma vive
-in me Cristo» (Gal. 2, 20).
-
-Bisogna che io vada alla Comunione con un cuore dilatato nell'amore, affinchè sia tutto aperto all'invasione di
-Gesù, tutto pronto a lasciarsi penetrare e trasformare da
-lui. Ogni Comunione, oltre la presenza fisica di Gesù, e
-proprio in virtù di questa sua presenza, mi porta un nuovo aumento di grazia e di carità, ma anche questo aumento
-sarà proporzionato alla mia capacità di riceverlo. Se il mio
-cuore è chiuso nell'egoismo e nell'amor proprio, se è legato da attacchi alle creature, se è troppo occupato da affetti e da affari terreni, sarà poco capace di far posto ad
-un aumento di amore divino e Gesù sarà, per così dire,
-costretto a restringere l'effusione della sua carità, a diminuire i suoi doni. Sì, mediante la Comunione, Gesù si dà
-tutto a me nella sua Persona di Uomo-Dio, e tutto si unisce a me, ma se io non mi do tutto a lui, Egli non può effondersi totalmente in me come l'amico si effonde totalmente nel cuore dell'amico fedele. Ogni giorno Gesù nella
-S. Comunione mi offre una grazia attuale per amarlo di
-più, per unirmi di più a lui, ogni giorno devo offrirgli
-un cuore maggiormente aperto all'amore ed all'unione. Atti
-di fede intensa nella presenza reale di Gesù nell'Eucaristia
-mi aiuteranno a ridestare l'amore, a mettermi in attualità
-di amore; e proprio in questa attualità di amore Gesù riverserà l'aumento della sua carità, la viva fiamma del suo
-amore infinito.
+**2** — L'Eucaristia non è solo Gesù vivo e vero in mezzo a noi, ma è Gesù fatto veramente nostro cibo. È proprio questo l'aspetto principale sotto cui la liturgia del giorno ci presenta questo mistero; si può dire che non vi è parte della Messa che non ne tratti direttamente o almeno non vi faccia allusione. Vi allude l'Introito, ricordando il frumento ed il miele di cui Dio nutrì il popolo ebreo nel deserto, cibo vivo e vivificatore, ma, tuttavia, solo lontana immagine del «Pane vivo» dell'Eucaristia; ne parla l'Epistola, ricordando l'istituzione del Sacramento, quando Gesù «prese del pane e, dopo aver reso grazie a Dio, lo spezzò e disse: "Prendete e mangiate: questo è il mio Corpo"»; lo canta il Graduale: «Gli occhi di tutti sperano in te, Signore, e Tu dai loro a suo tempo il loro cibo»; e più a lungo s'inneggia alla bellissima sequenza *Lauda Sion*, mentre il Vangelo, facendo eco all'Alleluia, riporta il brano più significativo del discorso con cui Gesù stesso annunziò l'Eucaristia: «La mia Carne è veramente cibo ed il mio Sangue è veramente bevanda»; il Communio poi, riprendendo una frase dell'Epistola, ci ricorda la necessità di ricevere degnamente il Corpo del Signore ed infine il Postcommunio ci dice che la Comunione eucaristica è pegno dell'eterna comunione del cielo. Ma per comprendere meglio il valore immenso dell'Eucaristia, bisogna ritornare alle parole stesse di Gesù che, molto opportunamente, sono riportate nel Vangelo odierno: «Chi mangia la mia Carne e beve il mio Sangue vive in me ed io in lui». Si è fatto nostro cibo per assimilarci a lui, per farci vivere la sua vita, per farci vivere in lui, come lui stesso vive nel Padre suo. L'Eucaristia è veramente il sacramento dell'unione e nello stesso tempo è la prova più chiara e convincente che Dio ci chiama e ci sollecita all'unione intima con lui.
 
 ### Colloquio
 
-« Anima mia, quando ricevi la santa Comunione, procura di ravvivare la fede, fa' il possibile per distaccarti
-dalle cose esteriori e ritirati col Signore nel tuo interno
-dove sai che Egli è disceso. Cerca di raccogliere i tuoi sensi
-per far loro comprendere il gran bene che possiedono o,
-meglio, cerca di raccoglierli per evitare che impediscano a
-te di comprenderlo. Considerati ai piedi del Signore e, quasi
-lo vedessi con gli occhi del corpo, piangi come la Maddalena
-in casa del Fariseo. Questo tempo è assai prezioso, perchè
-allora il Maestro t'istruisce: cerca d'ascoltarlo, baciagli i
-piedi, riconoscente per tanta sua degnazione e supplicalo
-di rimanere sempre con te. Anche quando sarai priva di
-devozione sensibile, la fede non mancherà di assicurarti che
-il Signore è veramente in te.
+«O Dio, o Creatore, o Spirito di novità che colmi le tue creature di doni spirituali sempre nuovi, Tu concedi ai tuoi eletti il dono che sempre si rinnova: il Corpo e il Sangue di Gesù Cristo!
 
-« Del resto, se non voglio essere un'insensata che chiude
-gli occhi alla luce, non posso avere alcun dubbio su questo
-punto. O Gesù mio, non si tratta già di un lavoro di fantasia come quando t'immagino sulla croce o in qualunque
-altro mistero della tua Passione, dove sono io che mi rappresento il fatto come è avvenuto: qui si tratta della tua
-presenza reale. O Signore, non mi abbandoni mai questo
-beneficio, e mi giovi per tutto» (T.G. Cam. 34, 8-12).
+«O Gesù, Tu hai istituito questo Sacramento, mosso non da timore, né da desiderio d'alcun utile che a te potesse pervenire, ma unicamente mosso da un amore che non ha nome, se non questo: amore senza misura. Tu hai istituito questo Sacramento perché il tuo amore oltrepassa tutte le parole. Ardendo di amore per noi, hai voluto donarti a noi e ti sei posto là dentro, nell'Ostia consacrata, tutto e per sempre fino alla consumazione dei secoli. E questo non l'hai fatto solo per memoria della tua morte che è la nostra salute, ma l'hai fatto anche per rimanere tutto con noi, sempre con noi.
+
+«Anima mia, se vuoi entrare nelle profondità di questo mistero, occorre che tu abbia la vista resa acuta dall'amore! Occorre che tu vegga e sappia! Considera l'ultima Cena, considera Gesù Cristo consapevole di doversi ben presto separare col corpo dall'umanità, considera il suo amore per cui, volendo congiungersi per sempre a noi, istituì questo Sacramento, onde possa essere corporalmente e per sempre unito all'umanità. O amore inestinguibile! Amore veramente affacciato fu questo, o amore di Cristo, o amore per gli uomini! O Gesù, già avevi davanti agli occhi la morte che ti attendeva, i dolori ed i tormenti atroci della Passione già scavavano il tuo Cuore e nondimeno volesti offrirti ai tuoi crocifissori e far sì che, mediante questo Sacramento, essi ti potessero sempre avere come dono d'eternità, o Tu, le cui delizie sono d'essere coi figli degli uomini!
+
+«O anima mia, come non vorrai immergerti sempre di più, con tutta te stessa, nell'amore di Cristo che, in vita ed in morte, mai si dimenticò di noi, ma volle darsi tutto a noi e a noi unirsi per sempre?» (B. Angela da Foligno).

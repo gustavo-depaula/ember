@@ -1,101 +1,27 @@
-## 53 — GESÙ MAESTRO DI SANTITÀ
+## 53 — Gesù Maestro di santità
 
-### Presenza di Dio
-
-O Gesù crocifisso, per i meriti della tua Croce, insegnami a portare ogni giorno la mia croce.
+**Presenza di Dio.** — *Ho sempre bisogno di te, Maestro divino, perché Tu solo sei santo e mi puoi insegnare la vera via della santità.*
 
 ### Meditazione
 
-1 — La conoscenza di Dio, nella quale, come Gesù ha
-detto, consiste la vita eterna, non è quella che si limita ad
-illuminare l'intelligenza, ma quella che, spingendo la nostra
-volontà ad amare Dio conosciuto, regola tutta la nostra vita
-in modo che a lui piaccia. Ed ecco che Gesù, dopo averci
-fatto conoscere il Padre celeste, ci insegna quello che dobbiamo fare per essergli graditi: « Siate perfetti, com'è perfetto il Padre vostro che è nei cieli» (Mt. 5; 48). Il Mae-
-stro divino con questa breve formula ci rivela due
-verità: il modello di ogni santità è Dio, perchè solo Dio
-è la pienezza della perfezione, senza alcuna ombra di difetto o manchevolezza; la volontà di Dio nei nostri riguardi è che anche noi siamo perfetti, e lo saremo nella
-misura in cui cercheremo di ricopiare in noi la perfezione
-stessa di Dio.
+**1** — La conoscenza di Dio, nella quale, come Gesù ha detto, consiste la vita eterna, non è quella che si limita ad illuminare l'intelligenza, ma quella che, spingendo la nostra volontà ad amare Dio conosciuto, regola tutta la nostra vita in modo che a lui piaccia. Ed ecco che Gesù, dopo averci fatto conoscere il Padre celeste, ci insegna quello che dobbiamo fare per essergli graditi: «Siate perfetti, com'è perfetto il Padre vostro che è nei cieli» *(Mt.* 5, 48). Il Maestro divino con questa breve formula ci rivela due grandi verità: il modello di ogni santità è Dio, perché solo Dio è la pienezza della perfezione, senza alcuna ombra di difetto o manchevolezza; la volontà di Dio nei nostri riguardi è che anche noi siamo perfetti, e lo saremo nella misura in cui cercheremo di ricopiare in noi la perfezione stessa di Dio.
 
-Ma come può una povera creatura umana ricopiare in
-sè la perfezione di Dio? Gesù, nostra vita e nostro Maestro,
-ce ne dà la possibilità. La grazia, insieme con le virtù infuse
-e coi doni dello Spirito Santo, che Gesù ci ha meritato
-e continuamente ci dona, ci eleva dal piano umano e ci
-trasporta sul piano soprannaturale, divino, per cui siamo
-resi partecipi della natura divina, della vita divina. La
-fede ci rende partecipi della verità di Dio, della conoscenza che Dio ha di se stesso e di tutte le cose; la carità ci
-rende partecipi dell'infinita carità con cui Dio ama se
-stesso ed ama le sue creature.
+Ma come può una povera creatura umana ricopiare in sé la perfezione di Dio? Gesù, nostra vita e nostro Maestro, ce ne dà la possibilità. La grazia, insieme con le virtù infuse e coi doni dello Spirito Santo, che Gesù ci ha meritato e continuamente ci dona, ci eleva dal piano umano e ci trasporta sul piano soprannaturale, divino, per cui siamo resi partecipi della natura divina, della vita divina. La fede ci rende partecipi della verità di Dio, della conoscenza che Dio ha di sé e di tutte le cose; la carità ci rende partecipi dell'infinita carità con cui Dio ama se stesso ed ama le sue creature.
 
-Tuttavia la perfezione, la santità di Dio noi non possiamo vederla perchè Dio «abita una luce inaccessibile e
-che nessuno degli uomini può vedere » (I Tim. 6,16), ma
-Gesù ne è il Rivelatore, e ce la rivela in se stesso, nelle
-sue opere, nelle sue parole.
+Tuttavia la perfezione, la santità di Dio noi non possiamo vederla perché Dio «abita una luce inaccessibile e che nessuno degli uomini può vedere» *(I Tim.* 6, 16), ma Gesù ne è il Rivelatore, e ce la rivela in se stesso, nelle sue opere, nelle sue parole.
 
-Ecco dunque Gesù, perfetto Maestro di santità: Egli
-ci dice che Dio ci vuole santi, ci mostra in Dio l'ideale supremo ed infinito della santità, e ci mette in grado di in-
-camminarci verso questo sublime ideale.
+Ecco dunque Gesù, perfetto Maestro di santità: Egli ci dice che Dio ci vuole santi, ci mostra in Dio l'ideale supremo ed infinito della santità, e ci mette in grado di incamminarci verso questo sublime ideale.
 
+**2** — Gesù, dicendoci «siate perfetti com'è perfetto il Padre vostro che è nei cieli», ci propone un modello di perfezione che non potremo mai esaurire: la perfezione dei più grandi santi è un nulla in confronto alla perfezione di Dio. Gesù c'insegna, dunque, a non compiacerci, a non accontentarci della perfezione raggiunta, dei nostri progressi e dei nostri sforzi: sono sempre un nulla di fronte all'ideale altissimo da lui propostoci. E perciò c'insegna a non fermarci mai, a non dire mai basta: per quanto possiamo progredire, non progrediremo mai abbastanza. Infatti, chi potrà, ad esempio, giungere ad essere giusto come lo è Dio, ad essere misericordioso come lui? Finché siamo sulla terra, la nostra santità consiste appunto nel continuo tendere verso la perfezione di Dio; «tendi senza pigrizia, tendi senza intermissione», ci sprona S. Agostino.
 
-2 — Gesù, dicendoci « siate perfetti com'è perfetto il
-Padre vostro che è nei cieli », ci propone un modello di
-perfezione che non potremo mai esaurire: la perfezione dei
-più grandi santi è un nulla in confronto alla perfezione di
-Dio. Gesù c'insegna, dunque, a non compiacerci, a non
-accontentarci della perfezione raggiunta, dei nostri progressi e dei nostri sforzi: sono sempre un nulla di fronte
-all'ideale altissimo da lui propostoci. E perciò c'insegna a
-non fermarci mai, a non dire mai basta: per quanto possiamo progredire, non progrediremo mai abbastanza. Infatti,
-chi potrà, ad esempio, giungere ad essere giusto come
-lo è Dio, ad essere misericordioso come lui? Finchè siamo
-sulla terra, la nostra santità consiste appunto nel continuo
-tendere verso la perfezione di Dio; «tendi senza pigrizia, tendi senza intermissione », ci sprona S. Agostino.
-Delle infinite perfezioni di Dio, Gesù ci ha rivelato in
-modo particolare la carità; e perciò, invitandoci all'imitazione di lui, ci chiede anzitutto un intenso esercizio di ca-
-rità verso Dio e verso il prossimo. Il precetto della carità,
-come quello di tendere alla perfezione, non ha limiti: per
-quanto amiamo Dio non riusciremo mai ad amarlo quanto
-gli è amabile, ossia quanto Egli merita; e per quanto
-amiamo il prossimo non lo ameremo mai come Dio lo ama.
-Gesù dunque c'invita a salire verso una perfezione,
-verso una santità che non ha limiti e che richiede da noi
-un continuo avanzare, progredire, ascendere. Quel che noi
-potremo fare sarà sempre poco, sempre un nulla in confronto ad un ideale tanto alto, ma il Signore si accontenta
-di questo poco, purchè noi v'impegnamo, tutta la nostra
-buona volontà.
+Delle infinite perfezioni di Dio, Gesù ci ha rivelato in modo particolare la carità; e perciò, invitandoci all'imitazione di lui, ci chiede anzitutto un intenso esercizio di carità verso Dio e verso il prossimo. Il precetto della carità, come quello di tendere alla perfezione, non ha limiti: per quanto amiamo Dio non riusciremo mai ad amarlo quanto Egli è amabile, ossia quanto Egli merita; e per quanto amiamo il prossimo non lo ameremo mai come Dio lo ama.
+
+Gesù dunque c'invita a salire verso una perfezione, verso una santità che non ha limiti e che richiede da noi un continuo avanzare, progredire, ascendere. Quel che noi potremo fare sarà sempre poco, sempre un nulla in confronto ad un ideale tanto alto, ma il Signore si accontenta di questo poco, purché noi v'impegniamo tutta la nostra buona volontà.
 
 ### Colloquio
 
-O mio divino Maestro, quale sublime ideale di perfezione presenti all'anima mia! Sì, col tuo aiuto desidero
-camminare per questa via con l'unico fine di seguire i tuoi
-insegnamenti, di fare la volontà di Dio, di far piacere al
-Padre celeste. Ma se, paragonandomi ai santi, mi vedo tanto
-difettoso, che cosa sarà mai se metterò la mia miseria di
-fronte all'infinita perfezione di Dio? Eppure, non c'è dubbio, o Gesù, le tue parole risuonano limpide e chiare nella
-mia mente: « Siate perfetti, com'è perfetto il Padre vostro
-che è nei cieli».
+O mio divino Maestro, quale sublime ideale di perfezione presenti all'anima mia! Sì, col tuo aiuto desidero camminare per questa via con l'unico fine di seguire i tuoi insegnamenti, di fare la volontà di Dio, di far piacere al Padre celeste. Ma se, paragonandomi ai santi, mi vedo tanto difettosa, che cosa sarà mai se metterò la mia miseria di fronte all'infinita perfezione di Dio? Eppure, non c'è dubbio, o Gesù, le tue parole risuonano limpide e chiare nella mia mente: «Siate perfetti, com'è perfetto il Padre vostro che è nei cieli».
 
-E allora non trovo di meglio che imitare il gesto geniale ed audace di S. Teresa del B. G. Invece di scoraggiarmi ti dico con lei: « O Signore, Tu non potresti ispirarmi
-desideri ineffettuabili: nonostante la mia piccolezza, io posso, dunque, aspirare alla santità. Crescere, o Gesù, non mi
-è possibile! Dovrò di necessità sopportarmi quale sono, con
-le mie innumerevoli imperfezioni; ma voglio cercare il
-mezzo d'andarmene in Paradiso per un piccolo sentiero
-molto diritto e breve, piccolo sentiero assolutamente nuovo. Siamo in un secolo d'invenzioni: ora non ci si affatica
-più a salire le scale; per i ricchi l'ascensore le sostituisce
-molto comodamente. Vorrei trovare anch'io un ascensore,
-perchè sono troppo piccina per salire l'aspra e difficile scala
-della perfezione... L'ascensore, che deve sollevarmi al cielo,
-sono le tue braccia, o Gesù! Non ho bisogno di crescere
-per salirvi; al contrario, conviene ch'io rimanga piccina, e
-che, anzi, divenga tale sempre di più» (T.B.G. St. 9).
+E allora non trovo di meglio che imitare il gesto geniale ed audace di S. Teresa del B. G. Invece di scoraggiarmi ti dico con lei: «O Signore, Tu non potresti ispirarmi desideri ineffettuabili: nonostante la mia piccolezza, io posso, dunque, aspirare alla santità. Crescere, o Gesù, non mi è possibile! Dovrò di necessità sopportarmi quale sono, con le mie innumerevoli imperfezioni; ma voglio cercare il mezzo d'andarmene in Paradiso per un piccolo sentiero molto diritto e breve, piccolo sentiero assolutamente nuovo. Siamo in un secolo d'invenzioni: ora non ci si affatica più a salire le scale; per i ricchi l'ascensore le sostituisce molto comodamente. Vorrei trovare anch'io un ascensore, perché sono troppo piccina per salire l'aspra e difficile scala della perfezione... L'ascensore, che deve sollevarmi al cielo, sono le tue braccia, o Gesù! Non ho bisogno di crescere per salirvi; al contrario, conviene ch'io rimanga piccina, e che, anzi, divenga tale sempre di più» (T.B.G. *St.* 9).
 
-O Gesù, le tue braccia sono il tuo Spirito che mi hai
-mandato e la tua grazia che mi hai data, grazia santificante
-e grazia attuale, con la quale continuamente sostieni e sorreggi i passi di chi confida in te. Lo devo riconoscere: se
-tante volte mi scoraggio, se trovo troppo difficile e pesante
-il cammino della perfezione e mi fermo pensando che quello sforzo o quell'atto generoso supera le mie forze, è pro-
-prio perchè mi dimentico di ricorrere a te, di buttarmi tra
-le tue braccia, d'implorare il tuo aiuto. O dolce Maestro,
-Tu che mai ci abbandoni, ma sei sempre pronto a soccorrerci nella misura in cui ricorriamo a te, fa' che io sappia
-continuamente rifugiarmi in te con piena fiducia, invocando il tuo aiuto in ogni difficoltà.
+O Gesù, le tue braccia sono il tuo Spirito che mi hai mandato e la tua grazia che mi hai data, grazia santificante e grazia attuale, con la quale continuamente sostieni e sorreggi i passi di chi confida in te. Lo devo riconoscere: se talvolta mi scoraggio, se trovo troppo difficile e pesante il cammino della perfezione e mi fermo pensando che quello sforzo o quell'atto generoso supera le mie forze, è proprio perché mi dimentico di ricorrere a te, di buttarmi tra le tue braccia, d'implorare il tuo aiuto. O dolce Maestro, Tu che mai ci abbandoni, ma sei sempre pronto a soccorrerci nella misura in cui ricorriamo a te, fa' che io sappia sempre rifugiarmi in te con piena fiducia, invocando il tuo aiuto in ogni difficoltà.

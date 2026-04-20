@@ -1,96 +1,17 @@
-## 206 — LA CONSACRAZIONE AL CUORE DI GESÙ
+## VI — MISTERO D'AMORE
 
-### Presenza di Dio
-
-O Gesù, fammi degno di consacrarmi al tuo dolcissimo Cuore e di vivere realmente la mia consacrazione.
+**Presenza di Dio.** — *O Gesù, aiutami a penetrare il mistero del tuo amore infinito che ti ha spinto a farti nostro cibo e nostra bevanda.*
 
 ### Meditazione
 
-1. — Appunto perchè la devozione al Sacro Cuore desta in noi il bisogno di ricambiare il suo amore infinito,
-sfocia spontaneamente in un atto di consacrazione, mediante
-il quale la creatura vuol donarsi tutta a quel Dio che tanto
-l'ha amata. Consacrarsi al Sacro Cuore — insegna Leone XII
-— «vuol dire donarsi, legarsi a Gesù Cristo, perchè tutto
-l'onore, tutto l'omaggio, tutta la pietà verso il Sacro Cuore
-s'indirizza in realtà a Gesù stesso » (Enc. Annum Sacrum).
-E Pio XI spiega in che cosa consiste tale atto: «con questa pia consacrazione offriamo al Cuore di Gesù noi e tutte
-le nostre cose, riconoscendole ricevute dall'eterna carità di
-Dio» (Enc. Miserentissimus Redemptor).
+**1** — Tutta l'azione di Dio in favore degli uomini è azione di amore, si risolve in un immenso mistero d'amore che porta lui, Bene sommo ed infinito, ad innalzare l'uomo fino a sé, rendendolo partecipe della sua natura divina, comunicandogli la sua vita. Proprio per comunicare la vita divina agli uomini, per unire gli uomini a Dio, il Verbo si è incarnato e nella sua Persona la Divinità si è unita all'umanità nel modo più pieno e più perfetto; si è unita direttamente all'Umanità SS.ma di Gesù e, mediante questa, a tutto il genere umano. In virtù dell'Incarnazione del Verbo, ogni uomo — appunto per mezzo della grazia meritata dal Verbo Incarnato — ha il diritto di chiamare Gesù suo fratello, di chiamare Dio suo Padre e di aspirare all'unione con lui. La via dell'unione con Dio è così aperta a tutto l'uomo: il Figlio di Dio incarnandosi e morendo poi sulla croce, non solo ha tolto gli ostacoli a questa unione, ma ne ha fornito tutti i mezzi, anzi, lui stesso si è fatto *via*: unendosi a lui, l'uomo si unirà a Dio. Ed è proprio qui che l'amore di Gesù, sorpassando qualsiasi misura, ha voluto trovare il mezzo di unirsi ad ognuno di noi nella maniera più intima, più personale e lo ha fatto mediante l'Eucaristia. Facendosi nostro cibo Gesù ci fa una cosa sola con lui e così ci partecipa nel modo più diretto la sua vita divina, la sua unione col Padre, con la Trinità. Nell'Incarnazione il Figlio di Dio, assumendo la nostra carne, si è unito una volta per sempre al genere umano; nell'Eucaristia il Figlio di Dio fatto uomo continua ad unirsi ad ogni singolo uomo. Comprendiamo così, come l'Eucaristia, secondo il pensiero dei santi Padri, può essere davvero «considerata come una continuazione ed un'estensione dell'Incarnazione: per essa la sostanza del Verbo incarnato è unita a ciascun uomo» *(Mirae charitatis)*.
 
-Amare è darsi: «amare è donare tutto, è dare anche
-se stessi » ha cantato S. Teresa del B.G. (Poesie). L'amore,
-quando è vero, ha bisogno del dono totale, ed in questo
+**2** — Il piano dell'amore infinito, che vuol unire gli uomini a Dio, che vuol partecipare ad essi la natura e la vita divina, trova la sua estrema e massima realizzazione nell'Eucaristia. Nell'Ostia consacrata, infatti, non abbiamo solo il Corpo, Sangue ed Anima di Cristo, ma abbiamo anche la sua Divinità di Figlio di Dio e quindi tutta la Divinità. Quale mezzo più potente di questo poteva trovare Iddio per unirci a lui, per renderci consorti della sua natura e della sua vita? Quale cibo più vitale del Corpo di Cristo che, per la sua unione personale col Verbo, è la fonte della vita e della grazia? Dandosi a noi in cibo, Gesù ci nutre con la sua sostanza, ci assimila a sé, ci comunica personalmente la vita divina. Anche mediante gli altri sacramenti Gesù ci dà la grazia e quindi ci partecipa la vita divina, ma in essi vi è solo la sua azione, ossia solo nel momento in cui il sacramento si compie — ad esempio, nell'atto in cui il sacerdote ci assolve dai peccati — Gesù, con la sua virtù operativa, produce in noi la grazia. Nell'Eucaristia, invece, c'è Gesù stesso, fatto sacramento, che viene personalmente in noi nell'integrità della sua Persona di Uomo-Dio. Ricevendo l'Ostia santa, non abbiamo solo l'azione di Cristo nell'anima nostra, ma abbiamo la sua *Persona* realmente, fisicamente presente; non abbiamo solo l'aumento della grazia, ma Gesù, fonte di grazia; non abbiamo solo una nuova partecipazione di vita divina, ma abbiamo il Verbo Incarnato che ci trascina con sé nel seno della Divinità.
 
-dono totale a Dio, l'anima amante trova la sua pace e il
-suo riposo. Il grido infuocato di S. Paolo: «charitas Christi
-urget nos» si risolve nel suo magnifico «ut non sibi vivant, sed ei qui pro ipsis mortuus est» (II Cor. 5, 14-15).
-Sì, la carità di Cristo ci costringe, affinchè non viviamo più
-per noi stessi ma per Colui che è morto per noi. Chi si
-consacra ad una persona, si dà tutto a lei, non si appartiene
-più, non può più vivere per se stesso; i suoi gusti, i suoi
-interessi, i suoi desideri devono cedere il posto ai gusti,
-agli interessi, ai desideri di colui al quale si è donato ed
-a cui ora appartiene. Questo è il significato profondo della
-consacrazione al Sacro Cuore, consacrazione che, ben lungi
-dal ridursi alla recita di una formula, deve prendere tutta
-la nostra persona, la nostra vita, le nostre capacità per impiegare tutto il nostro essere e il nostro avere al servizio
-del Divin Cuore.
-
-2. — Parlando di consacrazione totale al Sacro Cuore,
-non s'intende parlare della consacrazione a Dio che si fa
-mediante i voti religiosi — cosa riservata solo ad alcuni —
-ma di quella consacrazione totale che Gesù stesso nel Vangelo propone a tutti e che ognuno è tenuto ad attuare secondo il suo stato di vita. «Ama il Signore Dio tuo» —
-Gesù ti dice — con tutto il tuo cuore, con tutta la tua anima,
-con tutta la tua mente e con tutta la tua forza » (Mc. 12,
-30); con questo ripetuto «tutto» Egli ti chiede un amore
-totale e perciò chiede pure il dono totale di te stesso, ossia
-ti chiede di darti a lui ed al suo servizio non con mezza
-misura, ma pienamente. La via per attuare ciò, per dimostrare coi fatti la veridicità del tuo amore e del tuo dono
-totale è ancora Gesù che te l'addita: «Se mi ami, osserva
-i miei comandamenti» (cfr. Gv. 14, 15). Non andare,
-quindi, lontano a cercare particolari modi e forme per
-attuare la tua consacrazione al Sacro Cuore, non farla consistere in cose eccezionali, straordinarie, ma sappila trovare
-molto vicino a te, nella concretezza della tua vita quotidiana. Consacrarti totalmente al Sacro Cuore, vuol dire:
-scegliere i suoi comandamenti, la sua volontà, i suoi desideri, i suoi gusti come norma della tua vita, pronto a rinunciare alla tua volontà ed ai tuoi gusti quando sono in
-contrasto con i suoi. Sono molti i cristiani che si consacrano al Sacro Cuore, ma sono pochi quelli che vivono la
-loro consacrazione e la vivono totalmente. La maggioranza
-la vivono a metà, ossia sanno preferire la volontà di Gesù
-alla propria quando l'agire diversamente sarebbe commettere peccato mortale; ma quando si tratta di peccati veniali e,
-più ancora, d'imperfezioni, non si fanno scrupolo di contrariare il Cuore di Gesù e di agire come piace a loro. Ma Gesù
-cerca amici più fedeli, cerca anime che vivano la loro consacrazione al punto di non preferire mai un loro desiderio e
-gusto personale ai desideri ed ai gusti suoi. Non vuoi essere di questi? « Figlio, dammi il tuo cuore » ti ripete Gesù
-ed aggiunge: « Dammelo totalmente vivendo totalmente secondo il mio Cuore ».
+Inoltre, mentre il *cibo materiale* viene assimilato da chi lo mangia e si trasforma nel corpo e nel sangue di lui, Gesù, invece, *cibo vitale*, ha il potere di assimilare a sé coloro che se ne nutrono e di trasformarli in sé. «La comunione del Corpo e del Sangue di Cristo — dice S. Leone — non tende ad altro se non a mutarci in ciò che mangiamo» e S. Giovanni Crisostomo specifica: «Cristo s'è unito in tal modo a noi, da fondere quasi in uno il suo corpo col nostro, così che noi siamo una cosa sola con lui... e ciò è proprio di quelli che amano ardentemente».
 
 ### Colloquio
 
-«Cuore adorato dell'amabilissimo mio Gesù, che cosa
-hai trovato di buono in me per essere giunto ad amarmi
-senza misura, anche quando il mio cuore, macchiato da
-mille colpe, non aveva per te che indifferenza e durezza?
-Le grandi prove d'amore che Tu mi hai dato anche quando
-io non ti amavo, mi fanno sperare che gradirai quelle dell'amor mio. Gradisci, dunque, amabilissimo Salvatore, il desiderio che ho di consacrarmi interamente all'onore ed alla gloria del tuo Cuore santissimo; gradisci il dono che ti presento
+«O Trinità eterna! O fuoco e abisso di carità! che utilità ti viene dalla nostra redenzione? Nessuna; poiché Tu non hai bisogno di noi, chi sei il Dio nostro. A chi venne questa utilità? Solamente all'uomo. O inestimabile carità, si come Tu ti desti tutto a noi, tutto Dio e tutto Uomo, così tutto ti lasciasti in cibo, affinché, mentre semo pellegrini in questa vita, non veniamo meno per la fatica, ma siamo fortificati per te, Cibo celestiale. O uomo, che cosa t'ha lasciato il Dio tuo? Ti ha lasciato tutto se stesso, tutto Dio e tutto Uomo, velato sotto quella bianchezza del pane. O fuoco d'amore! non ti bastava di averci creato ad immagine e somiglianza tua e d'averci ricreati nella grazia mediante il Sangue del tuo Figliuolo, senza darci in cibo tutto te, Dio, Essenza divina? Chi t'ha costretto? Non altro che la carità tua. E, come Tu non mandasti e desti per la nostra redenzione se non il Verbo, così non ci lasciasti solo lui in cibo, ma, come pazzo di amore della tua creatura, tutta l'Essenza divina. E non solo, o Signore, ti dai a noi, ma, nutrendoci con questo Cibo divino, ci fai forti della tua potenza contro le battaglie dei demoni, contro le ingiurie delle creature, contro la ribellione della nostra carne, contro ogni angoscia e tribolazione da qualunque lato esse vengano.
 
-di tutto quello che io sono: ti consacro la mia persona, la mia
-vita, le mie azioni, pene e sofferenze, volendo essere in
-avvenire una vittima consacrata alla tua gloria, subito incendiata e un giorno interamente consumata dalle sante
-fiamme del tuo amore. Ti offro dunque, o Signore e Dio
-mio, il mio cuore con tutti i suoi sentimenti, perchè desidero che in tutta la mia vita siano perfettamente uniformi
-
-ai sentimenti del tuo. Eccomi, dunque, o Signore, tutta del
-tuo Cuore, eccomi tutta tua. O mio Dio, quanto sono grandi
-le tue misericordie per me!... Adorato Salvatore, accetta la
-mia consacrazione anche come riparazione del torto che non
-ho cessato di farti finora, corrispondendo così male al tuo
-amore. Riconosco di darti ben poco, ma almeno voglio
-darti tutto quello che posso e so che Tu desideri, perciò,
-consacrandoti il mio cuore, te lo dono per non più riaverlo.
-
-Insegnami, amabilissimo Salvatore, la perfetta dimenticanza di me stessa, perchè solo questa è la strada che può
-farmi entrare nel tuo Cuore adorato; e poichè ormai farò
-
-tutto per te, fa' che quanto farò sia degno di te. Insegnami
-
-ciò che devo fare per giungere alla purezza del tuo amore,
-ma dammelo questo amore, dammelo ardentissimo e generosissimo. Dammi quella profonda umiltà senza la quale
-nessuno può piacerti, e adempi in me tutti i tuoi santi
-voleri» (S. Margherita M. Alacoque).
+«O Cibo degli angeli, somma ed eterna purità, Tu richiedi e vuoi tanta purità nell'anima che ti riceve in questo dolcissimo Sacramento, che, se fosse possibile, gli Angeli stessi dovrebbero purificarsi di fronte a sì grande mistero. E come si purificherà l'anima mia? Nel fuoco della tua carità, o Dio eterno, lavando la sua faccia nel Sangue dell'Unigenito tuo Figliuolo. O misera anima mia, come vai a sì grande mistero senza sufficiente purificazione? Mi spoglierò dunque del vestimento fetido della mia volontà e mi vestirò, o Signore, dell'eterna volontà tua!» (S. Caterina da Siena).

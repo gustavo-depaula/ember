@@ -1,118 +1,23 @@
-## 102 — LA CONFESSIONE
+## 26 — L'IMPERFEZIONE
 
-### Presenza di Dio
+**Presenza di Dio.** — *O mio Dio, fammi comprendere quanto è necessario che l'anima sia pura per unirsi a te, perfezione infinita!*
 
 ### Meditazione
 
-1 — La confessione è il sacramento del e di Cristo, di cui Dio — secondo l’espressivo detto di S. Cate-
-rina da Siena — «ci ha eta per lavare la faccia
-delle anime nostre dalla lebbra del peccato ». Se materia
-necessaria di questo sacramento sono solo i peccati mortali, i peccati veniali ne sono materia sufficiente e tutta la
-tradizione cattolica insiste sull'opportunità di ricorrere alla
-confessione frequente anche per i soli peccati veniali. Ma
-chi, seguendo tale direttiva, pratica la confessione settimanale, deve vigilare attentamente affinchè, lungi dal di-
-ventare abitudine meccanica, il suo ‘atto sia un vero atto
-vitale, che lo renda capace di approfittare in pieno di tutte
-le grazie offerte da questo sacramento,
+**1** — Mentre il peccato veniale include sempre una trasgressione più o meno lieve ad una legge di Dio, l'imperfezione è l'omissione di un bene migliore a cui non si è obbligati per alcuna legge, ma che tuttavia sarebbe conveniente compiere. Quando, nel caso concreto, mi si presenta con chiarezza la possibilità di compiere un'azione migliore, che è conveniente e proporzionata al mio stato, alle mie possibilità attuali, che è in armonia con i miei doveri, per cui posso ragionevolmente pensare essermi ispirata dallo Spirito Santo, e tuttavia rifiuto deliberatamente di compierla, ciò non può essere senza vera e propria imperfezione. In questo caso il mio rifiuto del meglio non può essere considerato buono, né può essere giustificato dal pensiero che, non esistendo alcuna legge o comando che m'impone quell'azione migliore, possa ometterla unicamente per usare la mia libertà; questo sarebbe un abuso della libertà, la quale mi è stata data da Dio non altro che per rendermi capace di aderire al bene, senza lasciarmi influenzare dalle passioni. E infatti, in ultima analisi, il mio rifiuto del meglio include sempre una mancanza di generosità, motivata da un po' di egoismo, di pigrizia, di grettezza, di attaccamento al mio comodo, e tutto ciò è evidentemente contrario alla perfezione.
 
-«Non disprezzate il Sangue di Cristo! », esclama
-S. Caterina da Siena, e certamente chi lo spec non
-si accosterà con leggerezza alla confessione. A. tale sc
-è utile riflettere che l’assoluzione è appunto l’effusione del
-Sangue prezioso che, inondando e penetrando l’anima, la
+Considerata così, è chiaro che l'imperfezione volontaria non può mai essere conforme alla volontà di Dio, quindi anch'essa, come il peccato, va nella direzione opposta della carità, la quale tende alla piena conformità con la volontà divina. Ecco quindi l'importanza, per l'anima che tende all'unione con Dio, di eliminare dalla sua condotta qualsiasi imperfezione volontaria. È proprio in questo senso che S. Giovanni della Croce avverte: « Affinché l'anima venga ad unirsi perfettamente con Dio per volontà ed amore... si richiede che non consenta con cognizione ed avvertenza a veruna imperfezione » e insegna che basta l'attacco ad una imperfezione volontaria abituale per impedire « non soltanto l'unione divina, ma anche il progresso nella perfezione » (S.I, 11, 3).
 
-urifica dal peccato, le restituisce la grazia santificante se
-’ha perduta © l’aumenta se già la possiede. Questa remissione del peccato e produzione della grazia è il frutto del-
-l'azione di Gesù, espressa dalla formula che il sacerdote
-dice in Suo nome: «Io ti assolvo... ». In tale momento è
-Gesù che agisce nell'anima sia rimettendo il peccato, sia
-producendo o aumentando la grazia. E giova ricordare
-che l'efficacia dell’assoluzione non si limita solo ai peccati
-commessi, bensì si estende anche all’avvenire, premunendo l’anima contro le ricadute, offrendole la forza per re-
-sistere alle tentazioni e per attuare i buoni propositi, e
+**2** — Volendo scendere più al concreto si possono considerare altri tipi d'imperfezione e anzitutto la trasgressione di una legge che di per sé non obbliga sotto peccato, come sono in genere le costituzioni o gli statuti dei vari Ordini ed Istituti religiosi. A proposito di ciò bisogna notare che se non vi è un motivo ragionevole, proporzionato e sufficiente per venir meno ad una di queste leggi, molto facilmente tali trasgressioni diventeranno peccato veniale per mancanza di fine moralmente buono. Infatti, come insegna S. Tommaso, l'uomo è tenuto ad agire sempre per un motivo ragionevole, per un fine buono. Se il fine è viziato — come sarebbe per esempio trasgredire la legge del silenzio, del ritiro o della modestia religiosa per curiosità, per comodo proprio e simili — l'azione diventa per ciò stesso peccaminosa; e in genere si tratterà di « peccati, almeno leggeri, di pigrizia spirituale, d'incostanza, di ingratitudine e di una certa durezza di cuore che non apprezza sufficientemente il soccorso che Dio ci dà per le opere migliori » (Salmaart.). Altro genere d'imperfezione è una certa mancanza di compiutezza che si verifica in un atto sostanzialmente buono, ma eseguito, per esempio, con un po' di grettezza, o senza impiegare in esso tutta la buona volontà e lo slancio di cui si è capaci.
 
-
-ciò mediante la grazia sacramentale. In questo senso il
-Sangue di Cristo non è solo medicina per il passato, ma
-è anche preservativo e corroborante per l'avvenire: l’amima, che vi viene immersa come in un ba salutare,
-ne ricava nuovo vigore e un po’ alla volta vede estinguersi
-in lei la forza delle passioni.
-
-Da qui l’importanza della confessione frequente per
-un’anima che, anelando all'unione con Dio, deve necessariamente aspirare ad una purificazione totale.
-
-
-2 — Quando, al tribunale della penitenza, un'anima
-non ha da sottoporre che dei peccati veniali, non è il caso
-che si preoccupi dell'integrità dell'accusa — come invece
-è richiesto per i peccati mortali — ossia non è necessario
-che enumeri tutte le venialità che le sono sfuggite nella
-settimana, ma è molto più profittevole che fermi la sua
-attenzione anzitutto su quelle deliberate, poi su quelle semideliberate, anche se fossero semplici imperfezioni, e ne
-denunci non solo l’aspetto esterno, ma anche il motivo
-interno. Benchè ciò non sia di per sè necessario per la
-validità della confessione, è pesta certo che quanto più
-l'accusa mette a nudo la radice del male, tanto più l’anima ne ricaverà vantaggio e per l’atto di umiltà compiuto
-
-er l'impulso ad un più profondo pentimento e ad un
-più vivo desiderio di correggersi, che logicamente deriva
-dalla considerazione dei motivi ben poco nobili da cui,
-in genere, dipendono le nostre mancanze. Inoltre, una simile accusa darà modo al confessore di conoscere meglio
-i punti deboli del penitente e quindi di suggerirgli i rimedi più adatti, cosa particolarmente importante quando
-alla confessione è connessa la direzione. Ma più ancora
-che dell'accusa, l’anima deve preoccuparsi del dolore dei
-propri peccati in quanto sono offesa di Dio, Bontà infiita; che sia un dolore ex amore, proveniente dall'amore,
-
-
-ossia il pentimento del figlio il quale, più che pensare
-
-
-alla sua vergogna e ai castighi meritati, si affligge per il
-dispiacere recato ad un Padre che tanto lo ama e di cui
-
-
-deve ricambiare l’amore. Il dolore è talmente necessario
-per la validità del sacramento che, se mancasse, l’assoluzione sarebbe nulla e, d’altra parte, quanto più è perfetto
-il dolore, tanto più l'assoluzione distrugge non solo il peccato, ma anche la pena temporale da. esso contratta.
-Quanto più il penitente porta alla confessione un cuore
-contrito, tanto più il Sangue di Gesù lo purifica, lo rinnova, lo arricchisce di forza, di carità, di grazia.
+In fondo, qualsiasi genere d'imperfezione volontaria deriva sempre da mancanza di sforzo, di vigore, di slancio nella vita spirituale. È sempre l'egoismo che, in un modo o in un altro, toglie qualche cosa a Dio per accontentare l'io. Siamo troppo calcolatori, abbiamo paura di dare troppo e così l'egoismo ci tarpa le ali e ci impedisce di giungere alla piena unione con Dio.
 
 ### Colloquio
 
-«Gesù dolce, Gesù amore! Per vestire noi della vita
-della grazia, ti sei spogliato della vita del corpo tuo; sul
-legno della santissima croce hai disteso il tuo corpo, sì
-che sembra un agnello svenato che da ogni parte perde
-sangue. E nel Sangue ci hai ricreato alla vita della grazia.
+Ti supplico, o mio Dio, di concedermi una carità forte, generosa, capace di distruggere sino in fondo il mio egoismo. Oh, come lo comprendo che è proprio questo egoismo la causa di tante mie piccole infedeltà, di tante imperfezioni in cui cado abitualmente e delle quali non mi occupo di correggermi col pretesto che non sono peccati!
 
-«Gesù dolce, l’anima mia desidera ardentemente di
-vedersi tutta bagnata ed annegata nel Sangue tuo... Perocchè nel Sangue trovo la fonte della misericordia; nel San-
-gue la clemenza; nel Sangue il fuoco; nel Sangue la pietà;
-nel Sangue è fatta giustizia delle colpe nostre; nel Sangue
-è saziata la misericordia; nel Sangue si dissolve la durezza
-nostra; nel Sangue le cose amare divengono dolci e i
-grandi pesi leggeri. E poichè, o Cristo, nel Sangue tuo
-maturano le virtù, inebria e annega nel Sangue l’ anima
-mia, affinchè si vesta delle vere e reali virtù » (S. Caterina
-da Siena).
+Ma tali mancanze non sono senza importanza per un'anima che, essendo a te consacrata, ha il dovere di tendere alla perfezione, per un'anima quindi che Tu chiami alla santità, che Tu inviti alla piena unione con te. Come posso pretendere di unirmi a te, Perfezione infinita, io che ammetto volontariamente nella mia vita tante e tante imperfezioni? Come può la mia volontà essere del tutto conforme alla tua, quando io voglio e amo ciò che Tu non vuoi e non puoi assolutamente amare?
 
-O Gesù, se una sola goccia del tuo preziosissimo Sangue ha il potere di cancellare tutti i delitti del mondo, che
-cosa non potrà operarsi in me quando, al momento dell’assoluzione, Tu l’effondi con tanta abbondanza sulla povera
-anima mia? O Gesù, ravviva la mia fede e fammi penetrare a fondo il valore immenso del sacramento del
-tuo Sangue. È solo il Sangue tuo che mi lava dai peccati, che mi purifica dalle impurità, che risana e vivi-
-fica l’anima mia. Oh, fa' che questo lavacro salutare
+O Signore, come sento il peso del mio egoismo che mi trascina verso il basso, che vorrebbe raggiungere il massimo col minimo sforzo, che sfugge a tutto potere la fatica, la rinuncia, la dedizione piena e generosa! Come sento la pesantezza della carne che cerca sempre di ridurre un po' la misura della mia donazione, che rimanda al domani ciò che mi costa o mi ripugna, che mi presenta mille pretesti per sottrarsi ad un atto di generosità!
 
-
-tutto penetri il mio essere e tutto lo rinnovi nella tua
-
-ia, nel tuo amore!
-
-Per i meriti della tua Passione, concedimi, o Signore,
-di portare sempre al tribunale della penitenza un cuore
-veramente umile e contrito, un dolore sempre più perfetto
-delle mie colpe, una detestazione sempre più sincera e
-rofonda di tutto ciò che è offesa tua, Dio mio. Solo
-così il tuo Sangue prezioso, non trovando in me alcun
-attacco al peccato, potrà penetrare interamente l’anima
-mia, potrà tutta mondarla, tutta rinnovarla, tutta vivificaria. O Gesù, fa’ che il tuo Sangue porti in me tutto il
-suo frutto!
+Sì, o Signore, tutto questo lo sento e Tu sai meglio di me fin dove arrivano i rimpanni e i compromessi del mio egoismo. Ma sai anche che voglio amarti con tutto il cuore, che voglio darmi interamente a te, sai che i miei poveri desideri sono sinceri, benché inefficaci. Ebbene, donami Tu un amore reale, operativo, capace di vincere tutte le resistenze dell'egoismo, di smantellarne tutti i piani. Tu che sei carità infinita, fuoco consumante, infondi nell'anima mia una scintilla del tuo amore, affinché distrugga e bruci ogni mia tendenza egoistica. Se l'egoismo è il peso che tenta di rallentare il mio slancio verso di te, fa' che il tuo amore sia un peso ancor più forte che mi trascini incessantemente in te, per mezzo di una dedizione totale, senza riserva, senza misura.

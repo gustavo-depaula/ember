@@ -1,95 +1,21 @@
-## 236 — LE NOSTRE RICCHEZZE
-*VIII Domenica dopo Pentecoste*
+## VI — LA BONTÀ INFINITA SI DIFFONDE
 
-### Presenza di Dio
-
-O Signore, insegnami ad essere un fedele ed accorto amministratore dei tuoi beni.
+**Presenza di Dio.** — *O Bontà infinita, che incessantemente ti comunichi alle tue creature, insegnami ad imitarti.*
 
 ### Meditazione
 
-1. — Anche oggi, come domenica scorsa, nell'Epistola
-della Messa S. Paolo mette a confronto le due vite che sempre si dibattono in noi: la vita dell'uomo vecchio, schiavo
-del peccato e delle passioni, da cui provengono frutti di morte, e la vita dell'uomo nuovo schiavo, o meglio, figlio di Dio,
-da cui provengono frutti di vita: «Se vivrete secondo la
-carne morirete, ma se con lo spirito darete morte all'azione della
-carne, vivrete >. Il battesimo ci ha fatto nascere alla vita dello spirito, ma non ha soppresso in noi la vita della carne;
-l'uomo nuovo deve sempre combattere contro l'uomo vecchio, lo spirito deve lottare contro la materia. La grazia bat
-tesimale non ci ha esonerati da questa lotta, ma ci ha reso
-capaci di sostenerla, Occorre esser ben convinti di ciò per non
-farci illusioni, per non sgomentarci se, dopo lunghi anni di
-vita spirituale, si ridestano ancora in noi certe battaglie che
-forse pensavamo di aver superate per sempre. E' questa la
-nostra condizione: «la vita dell'uomo sulla terra è una milizia » (Giob. 7, 1), tanto che Gesù ha detto: «il regno dei
-cieli si acquista con la forza » (Mt. 11, 12). Ma la continua
-lotta non deve spaventarci perchè la grazia ci ha fatti figli
-di Dio e, come tali, abbiamo tutto il diritto di contare sul
-suo aiuto paterno: « Non avete ricevuto lo spirito di servitù
-— incalza S. Paolo — da ricadere nel timore, ma spirito di
-adozione a figliuoli, per gridare: "Abba, Padre" » (Ep.).
-E, per rafforzare la nostra fede in questa grande verità, soggiunge: « Lo Spirito stesso attesta al nostro spirito che siamo
-figli di Dio». Sembra quasi che l'Apostolo voglia dirci: Non
-sono io che vi dico questo, ma è lo Spirito Santo che ve lo
-dice e che l'attesta dentro di voi. Lo Spirito Santo è in noi
-in noi supplica il Padre celeste, in noi suscita la fiducia, la
-confidenza: non siete servi — ci dice — ma siete figli: di
-che temete? Ecco le nostre grandi ricchezze: essere figli di
-Dio, coeredi di Cristo, figli nello Spirito Santo.
+**1** — Il bene non si rinchiude in se stesso; la sua caratteristica è di diffondersi, ossia di comunicarsi agli altri. «*bonum diffusivum sui*». Quanto più il bene è tale, tanto più tende a Dio; Dio è il Bene sommo, perciò è il bene sommamente diffusivo. Dio si effonde anzitutto in sé, nel seno della SS.ma Trinità: il Padre comunica al Figlio tutta la sua divinità, essenza, vita, bontà, beatitudine divina; il Padre ed il Figlio insieme la comunicano allo Spirito Santo. Proprio in questa comunicazione essenziale, totale, incessante, assoluta consiste la vita intima di Dio, consiste il mistero della SS.ma Trinità; qui abbiamo la suprema realizzazione dell'assioma: «*bonum diffusivum sui*».
 
-2. — Sotto il velo di una parabola a prima vista un po'
-sconcertante, il Vangelo di oggi c'insegna ad essere accorti
-nell'amministrare le grandi ricchezze della vita della grazia.
-Nel proporre questa parabola, Gesù non ha inteso certo lodare la condotta del servo « infedele » che, dopo aver rubato
-durante tutto il tempo del suo servizio, continuò a rubare anche quando seppe di essere ormai licenziato. Tuttavia loda il
-servo per l'accortezza con cui seppe provvedere al suo domani;
-l'insegnamento della parabola verte proprio su questo punto:
-«i figli di questo secolo sono, nel loro genere, più accorti
-che i figli della luce. E io vi dico: fatevi degli amici col mammona di iniquità, affinchè quando voi venite a mancare, vi
-accolgano nei tabernacoli eterni ». Gesù esorta noi « figli della luce», a non essere meno avveduti nel provvedere ai nostri interessi eterni di quel che lo sono i « figli delle tenebre »
-nell'assicurarsi i beni della terra.
+Ma la Bontà infinita vuole effondersi anche al di fuori di sé e così Dio chiama all'esistenza un numero sterminato di esseri ai quali comunica in modo e in grado differente qualcosa della sua bontà. Dio non crea le creature perché abbia bisogno di esse, ché esse nulla possono aggiungere alla sua beatitudine e gloria essenziale, ma le crea unicamente per espandere al di fuori di sé la sua bontà infinita. Dio non vuole le creature perché in esse vi sia qualche bene, qualche amabilità, ma, creandole, partecipa ad esse il suo bene e le rende amabili. Dio si comunica alle creature unicamente perché è buono e gode di partecipare il suo bene ad altri esseri. La bontà di Dio è talmente grande che può comunicarsi ad un numero infinito di creature senza mai esaurirsi; la bontà di Dio è talmente diffusiva che fa buono tutto ciò che tocca, che rende buone tutte le sue creature. Questa bontà è la ragione del tuo essere e della tua vita; creandoti, essa ha impresso in te la sua orma e tuttora ti avvolge e ti penetra senza posa. Esamina il tuo cuore e vedi se conserva l'impronta della bontà divina; esamina i tuoi pensieri, i tuoi sentimenti, le tue azioni e vedi se vi risplende il riflesso della bontà infinita.
 
-Anche noi, come il servo della parabola, abbiamo ricevuto da Dio un patrimonio da amministrare: sono i doni naturali, ma sono specialmente i doni soprannaturali con tutto
-quell'insieme di grazie, di sante ispirazioni, d'incitamenti al
-bene che Dio ci ha elargito. Anche per noi verrà il giorno del
-rendiconto ed anche noi dovremo riconoscere di essere stati
-tante volte infedeli nel trafficare i doni di Dio, nel far fruttificare nell'anima nostra le ricchezze della grazia. Come, dunque, rimediare alle nostre infedeltà? Ecco il momento di
-mettere in pratica l'insegnamento della parabola con la quale, dice S. Agostino, «il Signore ammonisce tutti a fare uso
-dei beni terreni per farsi amici i poveri. Questi alla loro volta,
+**2** — La bontà di Dio è così gratuita che si comunica alle creature senza che esse lo meritino; è così liberale che sempre le previene e non lascia di effondere su di esse i suoi lumi, anche quando, abusando della loro libertà, esse se ne mostrano indegne. La bontà di Dio è così longamine che non si arresta di fronte alle ingratitudini, alle resistenze e neppure di fronte alle offese delle sue creature, ma sempre le insegue con le sue grazie. Dio avrebbe tutto il diritto di rispondere ai peccati degli uomini togliendo ad essi la vita e tutti quei beni che ha loro concesso, ma la sua bontà infinita preferisce rispondere con nuovi doni, con nuove prove di benevolenza e dice: «Non voglio la morte dell'empio, ma che l'empio si converta dalla sua condotta e viva» *(Ez.* 33, 11).
 
-diventati amici dei loro benefattori, saranno causa della loro
-ammissione in cielo». In altre parole, si tratta di coprire i
-nostri debiti verso Dio con la carità verso il prossimo perchè,
-come dice la S. Scrittura: «la carità copre una moltitudine di
-peccati » (I Piet. 4, 8). E non si tratta solo di carità materiale,
-ma anche di quella spirituale; non si tratta solo di grandi cose,
-ma anche di piccole, fin minime, come un bicchier d'acqua dato
-per amore di Dio. Questi piccoli atti di carità, sempre alla
-nostra portata, sono le ricchezze con cui saniamo i nostri debiti, sistemiamo la « nostra amministrazione ».
+Considera ora la tua bontà e vedi come, in confronto a quella di Dio, è meschina, gretta, calcolatrice, interessata. Quante volte agisci anche tu come quei pagani di cui parla il Vangelo, i quali amano solo coloro che li amano (cfr. *Mt.* 5, 46). Sei buono con chi è buono con te, rendi servizi a chi te ne dà il ricambio; ma spesso sei duro e avaro dei tuoi doni con coloro dai quali non puoi aspettarti nessuna ricompensa. Non ti accade forse di essere dolce e benevolo con chi ti approva e condivide le tue idee e di essere, invece, aspro o poco benigno con chi ti è contrario? Di fronte alle freddezze, alle ingratitudini, alle offese, e talvolta perfino di fronte alle piccole mancanze di riguardo, la tua bontà si ferma, si ritira, si rinchiude in se stessa e non sei più capace di essere benevolo verso il prossimo. Vedi, dunque, come la tua bontà è infinitamente dissimile da quella di Dio. Vedi come hai bisogno di meditare le parole di Gesù che t'invitano ad imitare la bontà del Padre celeste: «Amate i vostri nemici, fate del bene a chi vi odia e pregate per quelli che vi perseguitano e vi calunniano, affinché siate figli del Padre vostro che è nei cieli, il quale fa sorgere il sole sui buoni e sui cattivi e fa piovere sui giusti e sugl'ingiusti» *(Mt.* 5, 44 e 45).
 
 ### Colloquio
 
-«O Signore, è il tuo spirito che combatte in me dentro
-di me. Tu mi hai dato lo spirito con cui dar morte alle azioni della carne. Mosso dal tuo spirito, io sostengo la lotta
-perchè ho un valido aiuto: il mio peccato mi ha percosso,
-mi ha ferito, mi ha abbattuto; ma mio Creatore, ti sei
-lasciato ferire per me e con la tua morte hai vinto la mia.
-Io porto in me l'umana fragilità, io porto ancora i ferri della
-primiera schiavitù, io ho nelle membra una legge che si oppone alla legge della mente e mi vorrebbe trascinare schiavo
-della legge del peccato; ancora il corpo corruttibile aggrava
-l'anima mia. Per quanto io mi senta fermo mercè la tua grazia, pure, finchè continuo a portare in questo vaso di terra
-il tuo tesoro, devo sempre soffrire a causa della mia debolezza. La mia fermezza, per star saldo contro tutte le tenta- ,
-zioni, sei Tu; se le tentazioni si moltiplicano e mi mettono
-sgomento, Tu sei il mio rifugio. ' La mia speranza sei Tu,
+«O Padre eterno! O fuoco e abisso di carità! O eterna clemenza, o rifugio dei peccatori! O eterno infinito bene! E hai Tu bisogno della tua creatura? Sì, pare a me, poiché agisci come se senza di lei Tu non potessi vivere, Tu che hai dato la vita dalla quale ogni cosa ha vita e senza di te nessuna cosa vive. Perché, dunque, agisci così? Perché t'innamorasti della tua fattura e ti dilettasti di lei, come ebbro della tua salvezza. Ella ti fugge e Tu la vai cercando; ella si allontana e Tu ti avvicini. Più vicino non le potevi venire che vestendoti della sua umanità. E che dirò? Farò come Geremia e dirò: 'a, a', perché non so dire altro, perché la lingua finita non può esprimere l'affetto dell'anima che infinitamente desidera te. Mi pare di poter ripetere la parola di Paolo quando disse: 'Né lingua può dire, né orecchio udire, né occhio pensare quello che io vidi'. Che vedesti? '*Vidi arcana Dei*', ho visto i misteri ineffabili di Dio. E io che dico? Nulla, se non aggiungo con i miei sentimenti grossolani; ma solo ti dico, anima mia, che hai gustato, veduto l'abisso della somma provvidenza. Ora rendo grazie a te, sommo eterno Padre, della smisurata tua bontà, mostrata a me miserabile, indegna di ogni grazia.
 
-Tu sei il mio retaggio nella terra dei vivi".
+«E sarò io quella misera che possa render grazia all'infocata carità che Tu mostri a me e a tutte le tue creature? No! Ma solo Tu, dolcissimo e amoroso Padre, sarai grato e riconoscente per me, cioè l'affetto della tua stessa carità ti renderà grazie, perocché io sono colei che non sono. E se dicessi d'essere alcuna cosa per me, mentirei, perché Tu solo sei Colui che sei. E l'essere e ogni grazia io ho ricevuto da te che me lo desti e continuamente dai per amore e non per debito.
 
-« Oh, quanto ti sono debitore, Signore Dio mio, poichè
-da te fui redento a sì alto prezzo! Oh, quanto ti devo amare,
-benedire, lodare, onorare, glorificare, poichè tanto mi amasti!
-Darò lode al tuo nome, o Signore, che mi facesti suscettibile
-di tanta gloria da poter essere tuo figlio. A te devo tutto ciò
-che ho, tutto quello che serve alla mia vita e tutto ciò che
-so e amo. Chi ha qualche cosa che non sia tuo? Tu, Signore
-Dio nostro, largisci a me i tuoi doni, affinchè, da te arricchito, io ti serva e ti piaccia e ogni giorno ti renda grazie per
-i tanti benefici della tua misericordia. Non posso in altro
-modo servirti, nè piacerti, se non impiegando i tuoi propri
-doni » (cfr. S. Agostino).
+«O bontà infinita, o amore inestimabile, ammirabili sono le cose che Tu hai operato nella tua creatura ragionevole!» (S. Caterina da Siena).

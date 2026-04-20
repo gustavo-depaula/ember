@@ -1,47 +1,35 @@
-## 313 — TO FEEL WITH CHRIST
+## 313 — THE GIFT OF COUNSEL
 
 ### Presence of God
 
-O Jesus, grant that I may nourish for souls sentiments similar to those of your divine Heart.
+Come, Spirit of counsel, and make my heart listen to your suggestions.
 
 ### Meditation
 
-1. — Effective collaboration always requires certain affinity of intentions and methods between one promoting work and collaborators. Indeed this affinity must be all deeper the more work to be done is not material but spiritual.
+1. — "But the Paraclete, the Holy Spirit, whom the Father will send in my name, He will teach you all things and bring all things to your mind, whatsoever I shall have said to you" (Jn. 14:26). This promise of Jesus holds for every Christian; it holds for us too. The Holy Spirit dwells in our souls to counsel us, to remind us of the Lord's teachings and apply them to concrete cases of our life.
 
-Since he must collaborate with God for good of souls, apostle must live in intimate spiritual affinity with Him, entering as much as possible into his views and plans for salvation of world.
+But how can we, poor creatures so coarse and accustomed to noisy language of men, perceive the slight murmur of divine suggestions? God has provided by a special gift, the gift of counsel, through which our soul becomes capable of understanding the intimate and silent voice of the Holy Spirit, distinguishing it from all other voices.
 
-Only by penetrating deeply mystery of God's love for men can apostle cooperate in present outpouring of love and grace. Through theological virtues he must keep himself in intimate contact with God and seek to grasp deep movement of his love. Faith teaches us God called men into existence, moved by infinite goodness willing to pour itself out beyond itself so as to communicate to others something of his good, happiness, very life.
+The gift of counsel is powerful helper of virtue of prudence. Guided by this virtue, we seek to understand how we should behave in various circumstances of life to please God. Yet we do not always succeed in seeing clearly; indeed before concrete cases we remain doubtful. Is this or that more conformable to divine will? In this deliberation am I truly moved by supernatural motives, or is nature involved, is my ego involved? The question persists, and even advice of wise persons is not enough to dispel perplexities and give the light by which we can act with certainty.
 
-Here is grace, creation of his love, making men sharers of his nature. And when men by sin detached themselves from Him, rendering themselves unworthy of his gift, He did not renounce his plan of love, and in order to give them back what they had culpably lost, He sacrificed his Only-Begotten "who for us men and for our salvation came down from heaven" (Creed).
+We need God Himself to enlighten us from within. We need the Holy Spirit, by putting into act the gift of counsel, to make his divine counsels reach our soul. This gift is like an antenna giving us possibility to receive counsels of the Holy Spirit — most precious and very simple counsels that, going beyond labyrinth of our reasonings, show with luminous clarity the way to follow and let us understand in an instant God's will.
 
-Apostle must understand deeply that God's action for men is all action of love: action of Father seeking prodigal son, of shepherd seeking lost sheep; action of God who wants to offer men his friendship to make them happy, receive them into his house, admit them to his intimacy, make them blessed with his eternal beatitude.
+The more this gift develops in us, the more our soul opens to voice of the Holy Spirit and becomes sensitive to his suggestions. By force of this gift, we little creatures can address to the Most High the humble yet bold prayer: "Speak, Lord, for thy servant heareth" (1 Sam. 3:9).
 
-Apostle must seek to place his heart in contact with God's heart, to be filled with his love, to share his charity for men. Apostle must, so to speak, feel with God, feel with Christ, that is, nourish deep sentiments of love for brethren, pale reflection of God's love for men.
+2. — Without doubt, by the gift of counsel, the Holy Spirit wants to be our counselor on way of holiness. But why then do we enjoy so little of his divine warnings? First, because we are distracted; our soul is deafened by voices of creatures, filled with noises of the world. Sacred Scripture compares voice of the Holy Spirit to "the whisper of a gentle breeze" (1 Kgs. 19:12). Therefore one must keep silence — exterior silence and still more interior — to perceive this voice so subtle and sweet. Only in silence can one hear Him who manifests Himself "in divine silence" (St. John of the Cross).
 
-2. — Not only in prayer, but in very exercise of apostolate, apostle must seek to remain in contact with God and mystery of his love for men, to which he must humbly collaborate.
+Another cause preventing us from receiving counsels of the Holy Spirit is attachment to our own judgment, to short counsels of our mind. A little of this attachment, a little obstinacy in one's own ideas, is enough to close soul in itself and make it incapable of grasping divine inspirations. Let us not deceive ourselves: this happens even when obstinacy concerns good things, because attachment to one's own opinions is never good, never sign of grace's action, but rather of unconquered self-love.
 
-He will seek this contact through intense exercise of faith, which will make him better understand mystery of Redemption, recognize actualization of this mystery in various circumstances and unfolding events, and help him insert his humble action into great divine action.
+When a soul is neither sensitive nor pliable to external voice of obedience trying to move it from tenacity, much less can it be to interior and silent voice of the Holy Spirit. As a boat, though equipped with sails, cannot be moved by wind while tied to shore, so a soul attached to its own opinions cannot enjoy precious influence of the gift of counsel. The gift is in it, but remains powerless, almost paralyzed, as sails of boat anchored in harbor remain powerless. Therefore St. John of the Cross warns: "Renounce your desires and you will find what your heart desires. What do you know whether your inclination is according to God?" (Sayings).
 
-Thus, even when using human means and occupying himself with material questions, he will remain in supernatural atmosphere. He will never lose sight of final end of his activity, but awareness of collaborating with Christ for salvation of souls will remain ever awake in him.
-
-To faith apostle must unite ardent charity, because contact with God and affinity with his love are realized precisely by way of love. Charity, by force of intuition proper to it, will allow apostle to penetrate mystery of Redemption more deeply, taste sweet reality of Infinite Love manifested in it, and impel him to live in intimate communion with this Love of which he must be collaborator and instrument.
-
-Then his example and words will bear witness to truths not only believed in theory, but lived in practice, tasted and experienced in intimate contact with God. Then apostle can affirm with St. John: "We have known and have believed the charity which God hath to us" (1 Jn. 4:16), and again: "What we have seen with our eyes, what we have looked upon and our hands have handled of Word of life ... we bear witness ... we declare unto you" (1 Jn. 1:1-3).
-
-By faith and love apostle will arrive at ever greater spiritual affinity with mystery of Redemption and with Jesus, its great Actor. He will be able to make his own Jesus' sentiments according to St. Paul's word: "Let this mind be in you, which was also in Christ Jesus" (Phil. 2:5).
-
-This "to feel with Christ," meaning to love and will in unison with divine Heart, to share his immense love for God and for souls, is secret of every apostolate.
+By cultivating interior recollection and detachment from our own judgment, we will truly be, as Jesus said, *docibiles Dei* — taught by God — that is, we will have necessary dispositions to be instructed by God and receive warnings of the Holy Spirit.
 
 ### Colloquy
 
-"O Jesus, Son of God, if I think You died for redemption of souls, how can I not desire to die myself for them? And seeing your Blood trampled underfoot, how can I tolerate such injury done to You, my Lord? How can I say I love You and desire your love if, seeing your image cast into mud, I do not care to draw it out? Why then do I not give myself wholly to prayer, wholly to labor, to make your name known and honored, so that by converting souls I may gather fruits of your Blood?
+"Speak, Lord, for your servant hears. I am your servant: give me understanding that I may know your commandments. Incline my heart to words of your mouth, and let your speech descend upon me like dew. In former times children of Israel said to Moses: 'Speak thou to us and we will hear; but let not the Lord speak to us, lest we die.' Not so I, my God. Rather, with the prophet Samuel, humbly and fervently I beg You: 'Speak, Lord, for your servant hears.' Let not Moses or any prophet speak to me, but speak You to me, Lord God, who inspire and enlighten all prophets, since You alone, without them, can teach me perfectly, while they, without You, can help me nothing.
 
-"My God, even if I were most certain never to enjoy You, nevertheless, to honor You, I would very gladly die once for each sinful soul; so I would now sustain as many deaths as there are sinful souls in world, that they might now obtain grace and in future glory. How much more would I do this if I knew I was then to receive glory with them!" (St. Bonaventure).
+"Prophets can give sound of words, but not the spirit. They say very beautiful things, but if You are silent, they do not inflame the heart. They teach the letter, but You, Lord, unveil the spirit. They announce mysteries, but You open understanding to what is hidden in them.
 
-"Lord, I have only one thing to do during night of this life, this one night that will come only once: to love You with all strength of my heart and save You souls so You may be loved.
+"They make known your commandments, but You help us put them into practice. They show the way, but You give strength to walk. They provide externally, but You enlighten and teach hearts. They water from outside, but You grant fruitfulness. They speak words, but You give understanding to hearing.
 
-"O Jesus, at sight of your precious Blood falling to ground without anyone taking care to gather it, my heart breaks with sorrow. I therefore resolve to remain continually at foot of Cross, to gather this divine dew of salvation and then scatter it over souls.
-
-"Your cry, 'I thirst,' resounds continually in my heart and kindles there most living fire. O my Beloved, I want to quench your thirst, and, feeling myself devoured by your very thirst for souls, I want at all costs to snatch sinners from flames of hell.
-
-"I want to employ in this all means within my reach; but knowing well by myself I can do nothing, I offer You as price of their ransom your own infinite merits and treasures of holy Church" (St. Therese of the Child Jesus).
+"Speak then, Lord: your servant hears, for You have words of eternal life. Speak to me, to give some consolation to my soul, to amend all my life, to your glory and your everlasting honor" (Imitation of Christ III, 2).

@@ -1,42 +1,110 @@
-## 365 — OS SANTOS
-*1 de novembro*
+## 43 — JESUS VIDEIRA VERDADEIRA
 
 ### Presença de Deus
 
-Ó Senhor, pela intercessão dos teus Santos, possa eu também trilhar com coragem o caminho da santidade.
+— Faze-me compreender, ó Senhor, as íntimas relações existentes entre ti, Redentor, e nós, teus redimidos.
 
 ### Meditação
 
-A Igreja, nossa Mãe na salvação, hoje exulta de imensa alegria ao contemplar a glória de seus filhos que chegaram à pátria celeste. Estão para sempre seguros, livres das ciladas do maligno, para sempre povo eleito de Deus.
+1 — Jesus é o único "Mediador entre Deus e os homens"
+(1 Tim. 2, 5); Ele, porém, não se contentou em redimir-nos
+permanecendo separado de nós, seus redimidos, mas quis que
+toda a nossa redenção se operasse nele, mediante uma
+estreitíssima união entre Ele e nós. É este o grande mistério
+da nossa incorporação a Cristo, por Ele mesmo revelado
+aos Apóstolos na noite precedente à sua Paixão. "Eu sou
+a videira verdadeira e meu Pai é o vinhateiro... Permanecei em
+mim e eu permanecerei em vós. Como o ramo não pode dar
+fruto por si mesmo se não permanece na videira, assim tampouco vós, se não permanecerdes em mim" (Jo. 15, 1-4).
 
-Como mãe orgulhosa do triunfo de seus filhos, ela os apresenta a toda a cristandade e convida cada fiel a partilhar sua alegria: «Alegremo-nos todos no Senhor, celebrando o dia festivo de todos os Santos; de cuja solenidade se alegram os anjos e louvam o Filho de Deus».
+Jesus afirma fortemente que não existe redenção, não
+há vida sobrenatural, vida de graça, senão para quem vive
+nele, enxertado nele; exatamente como no ramo não há
+vida e não há frutos, senão enquanto está unido ao
+tronco. Eis a estreitíssima conexão que Jesus quis operar entre Ele e nós, conexão indispensável para a
+nossa salvação, para a nossa santificação. Nem mesmo o
+mínimo grau de graça pode vir-nos sem a mediação
+de Cristo; exatamente como a menor gota de seiva não
+pode chegar ao ramo se este está desligado da árvore.
 
-A Epístola (Ap 7,2-12) oferece a visão apocalíptica da glória dos Santos: «Vi uma grande multidão que ninguém podia contar, de toda nação, tribo, povo e língua, de pé diante do trono e do Cordeiro, vestidos de túnicas brancas e com palmas nas mãos». Fileiras de mártires, apóstolos, confessores, virgens: hostes luminosas que incessantemente contemplam, adoram e louvam a Deus.
+Além disso, Jesus declara que, permanecendo nele, não só
+nós temos a vida sobrenatural, mas nos tornamos objeto
+de particular cuidado por parte do Pai celeste, que é "o agricultor" da mística videira. De fato o Pai celeste
+nos conhece como seus filhos adotivos e como tais nos ama e
+cuida de nós, só enquanto nos vê em Cristo, seu único Filho
+amado. A graça de adoção abraça só aqueles que o Pai
+encontra estreitamente unidos ao seu Unigênito, de tal modo
+que sejam "parte viva" dele, como o ramo é parte
+viva da videira.
 
-Mas quem são esses Santos tão gloriosos? Homens e mulheres que viveram nesta terra como nós, conheceram nossas misérias, dificuldades e lutas. Alguns nos são conhecidos, elevados pela Igreja à honra dos altares; mas a grande maioria é desconhecida: gente humilde que viveu no oculto, fiel ao dever cotidiano, sem brilho nem fama, esquecida na terra, mas vista pelo Pai no segredo e acolhida em sua glória.
+2 — "Permanecei em mim". Não se pode permanecer se não
+se está. Jesus nos diz para "permanecer"
+nele, justamente porque o nosso enxerto nele é um fato já cumprido,
+merecido para todos os homens pela sua morte de cruz, e
+realizado individualmente para cada um de nós no momento do
+batismo. Cristo, ao preço do seu Sangue, uniu-nos
+a si; nós portanto "estamos" nele, mas cabe a nós
+"permanecer" nele do modo mais pleno e vital.
 
-Se entre eles há também personagens de destaque e grandes obras, isso já não conta. Na eternidade permanece uma só coisa: o grau de amor alcançado, ao qual corresponde o grau de glória.
-
-Para mostrar como viveram na terra, o Evangelho (Mt 5,1-12), com as Bem-aventuranças, apresenta seu programa: pobreza de espírito, mansidão, paciência na dor, fome e sede de justiça, misericórdia, pureza de coração, espírito de paz e fortaleza para sofrer perseguições por amor de Deus.
-
-Eis o programa da nossa vida, se queremos chegar, como eles, à santidade.
-
-Queremos ser santos, mas muitas vezes queremos sê-lo facilmente, sem violência contra nós mesmos, sem sacrifício real. Exercemos a virtude até certo ponto, enquanto não custa muito. Assim, diante de atos que exigem maior renúncia - calar os ressentimentos do amor-próprio, renunciar a fazer valer nossas razões, ceder a quem nos contraria - recuamos, pensando que não é preciso tanto.
-
-No entanto, nosso progresso na santidade depende justamente desses atos que recusamos. Sem eles, viveremos sempre na mediocridade, no mesmo nível, quando não para trás.
-
-Supliquemos aos Santos que hoje honramos que nos ajudem a vencer a preguiça, a fraqueza e a covardia. Peçamos àqueles que nos precederam no árduo caminho da santidade a força para segui-los.
-
-«Se estes e aqueles, por que não eu?» (Santo Agostinho). A graça que Deus deu aos Santos Ele também a dá a nós; o que falta, infelizmente, é nossa correspondência.
+Se para ser enxertados em Cristo basta o batismo,
+e se basta um só grau de graça para permanecer nele como
+ramos vivos, não devemos contentar-nos com isso. Devemos ser conscientes do imenso dom recebido e procurar
+que o nosso enxerto em Cristo se torne sempre mais profundo;
+devemos "viver" desta união com Cristo,
+o centro, o sol da nossa vida interior. Não por acaso
+Jesus disse: "Permanecei em mim"; quis assim indicar
+que a nossa vida nele requer a nossa colaboração pessoal:
+devemos aplicar todas as nossas forças,
+a nossa mente, a nossa vontade, o nosso coração para querer
+viver nele e dele. Quanto mais nós nos aplicarmos a
+permanecer em Cristo, tanto mais afundaremos nele o nosso
+pequeno ramo, e Ele nos comunicará cada vez mais abundan-
+te seiva da graça.
+"Permanecei em mim e eu permanecerei em vós"; à medida que,
+por meio da fé, da caridade e das obras boas, nos
+mantivermos estreitamente unidos a Cristo, Ele se manterá em nós,
+comunicando-nos continuamente nova vida de graça. Seremos
+então não só ramos vivos, mas ricos de frutos, frutos de
+santidade destinados a alegrar o coração de Deus porque Jesus
+disse: "Meu Pai será glorificado se produzirdes
+frutos copiosos" (Jo. 15, 8).
 
 ### Colóquio
 
-«Feliz é vossa sorte, ó almas santas, que gozais sem temor vossa felicidade e celebrais sem cessar os louvores do meu Deus. Quão justo é que vivais sempre nesse louvor! Minha alma vos inveja por estardes livres da dor que me causam as graves ofensas feitas ao meu Deus e a cegueira pela qual tantas almas se perdem.
+"Ó alta e eterna Trindade, Deidade, Amor, nós somos
+árvores de morte e Tu és árvore de vida.
+Deus infinito, que espetáculo é ver na tua luz a árvore pura da tua
+criatura! Pureza suprema, Tu deste ramos a esta árvore,
+isto é, as potências da alma:
+a memória, o intelecto e a
+vontade... A memória devia reter-te, o intelecto conhecer-te, a vontade amar-te... Mas esta árvore, porque se apartou
+da inocência, pela desobediência caiu, e de árvore de
+Vida tornou-se árvore de morte, donde não produzia frutos
+senão de morte.
 
-«Ó almas bem-aventuradas do céu, vinde em auxílio de nossa miséria; intercedei por nós junto da divina misericórdia, para que também nós participemos de vossa alegria e da visão clara de que agora gozais.
+"Pelo que Tu, alta e eterna Trindade, como que
+embriagada de amor e louca da tua criatura, vendo que
+esta árvore não podia produzir outro fruto senão de morte,
+porque estava separada de ti, que és vida, deste-lhe
+o remédio com aquele mesmo amor com que a havias criado,
+enxertando a tua Deidade na árvore morta da nossa huma-
+nidade. Ó doce e suave enxerto!... Quem te constrangeu a isso,
+para devolver-lhe a vida, tendo ela criatura feito tanta
+injúria a ti? Somente o amor; de modo que por este enxerto se
+dissolve a morte.
 
-«E Tu, ó meu Deus, faze-nos compreender qual recompensa está reservada àqueles que, no breve sonho desta vida miserável, combatem valorosamente. Obtende-nos, almas amantes, compreender a felicidade que vos inunda e a alegria de saber que vosso estado jamais terá fim.
+"E bastava à tua caridade ter feito com ela esta união?
+Não, e por isso Tu, Verbo eterno, regaste esta árvore
+com o teu Sangue. Este Sangue, pelo seu calor, a faz
+germinar, se o homem com o livre-arbítrio se enxerta em ti,
+contigo une e liga o coração e o afeto seu, ligando e enfaixando este enxerto com a faixa da caridade e seguindo a tua doutrina.
+Assim, por ti, Vida, produzimos frutos de
+vida, se quisermos enxertar-nos em ti. Quando nós somos enxertados em ti, então os ramos que Tu deste à nossa árvore
+produzem os seus frutos" (Santa Catarina de Siena).
 
-«Almas ditosas, que tão bem soubestes aproveitar os dons de Deus para adquirir herança tão deliciosa e permanente, dizei-nos como vos servistes deles para chegar à alegria sem fim. Socorrei-nos vós, que já estais junto da Fonte, tirando água para nós, que aqui morremos de sede.»
-
-«Ó Santos do céu, sou a mais miserável das criaturas e reconheço minha miséria; mas sei também quanto os corações nobres e generosos amam fazer o bem. Suplico-vos, portanto, felizes moradores da cidade celeste: adotai-me por filha. A glória do bem que eu receber será vossa; dignai-vos ouvir minha oração e alcançai-me, peço-vos, vosso amor.» (cf. Santa Teresa de Jesus; Santa Teresinha do Menino Jesus)
+Ó Jesus, quanto me conforta pensar que o meu desejo de união contigo não é uma vã quimera, mas é já uma
+realidade: sim, porque Tu quiseste enxertar-me em ti como o
+ramo no tronco, a tal ponto que eu vivo só por esta
+união contigo. Oh, faze que a minha alma se mantenha sempre mais
+estreitamente unida a ti e se abra sempre mais para acolher a
+seiva vital da graça que Tu produzes em mim, teu ramo!

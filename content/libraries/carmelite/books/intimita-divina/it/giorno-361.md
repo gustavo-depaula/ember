@@ -1,117 +1,27 @@
-## 361 — INTIMITA DIVINA
+## 39 — LO SVILUPPO DELL'AMORE
 
-### Presenza di Dio
-
-Concedimi, o Signore, piena e stabile intimità con te, affinchè possa amarti sempre di più.
+**Presenza di Dio.** — *Dio mio, che fin dall'eternità mi hai prevenuto col tuo amore infinito, aumenta il mio amore per te.*
 
 ### Meditazione
 
-i — L'anima comincia ad entrare nel cammino dell'intimità divina il giorno in cui, decidendo risolutamente
-di uscire da se stessa e da tutte le cose, si pone con ardore alla ricerca di Dio vivo e presente in lei. Da questo
+**1** — «Chi impedirà a Dio di fare quel che vuole in un'anima rassegnata, nuda e annichilita?» *(S. II,* 4, 2). Questa sentenza di S. Giovanni della Croce ti fa comprendere che Dio desidera immensamente lavorare nell'anima tua per condurti alla santità, all'unione con lui, purché ti metta nelle sue mani spoglio di ogni attacco, annichilito nel tuo amor proprio, totalmente docile alla sua azione, totalmente malleabile e movibile. Mediante le prove purificatrici, il Signore ti aiuta a vuotarti di te stesso, a distaccarti dalle creature, ti aiuta ad imbastariti nella vera umiltà, ma nello stesso tempo ti aiuta a crescere nell'amore, la grande forza che deve unirti a lui. Tutto il lavoro che Dio compie nell'anima tua mira a farti progredire in questa virtù; prove esteriori ed interiori, umiliazioni, impotenze, aridità, lotte, tempeste hanno, nel piano divino, lo scopo di spegnere in te i fuochi fatali dell'amor proprio, dell'orgoglio, degli affetti terreni e di ogni altra passione sregolata perché in te divampi un solo fuoco sempre più intenso e vigoroso, il fuoco della carità.
 
-rimo passo all'intimità profonda, che stringerà a Dio
-'anima giunta all'unione totale, il cammino è lungo e
-faticoso. Progressivamente, a misura che, sostenuta dalla
-grazia, l'anima si distacca da se stessa e dalle creature, a
-misura che si libera delle sue imperfezioni, che si spoglia
+Quanto più il Signore ti purifica, tanto più il tuo cuore si libera da ogni scoria e diventa capace di concentrare in lui tutti i suoi affetti. Cammina, dunque, in questa direzione accettando la purificazione in vista di un amore più pieno e orientando tutta la tua vita spirituale all'esercizio dell'amore. Ciò che soffri, soffri per amore, ossia soffri di buon volere, senza recalcitrare, senza lamentarti e allora, a misura che la tua anima verrà umiliata, spogliata, mortificata, verrà anche rivestita di carità. Le prove che Dio ti manda non hanno solo lo scopo di rendere più puro il tuo cuore, ma anche di dilatarlo nella carità. Esse mirano a scavare in te una maggiore capacità di amore, non certo di amore sensibile, ma di forte amore di volontà, che tende a Dio con pura benevolenza, indipendentemente da ogni conforto personale, nell'unica ricerca della sua gloria e del suo beneplacito.
 
-della sua volontà rivestendosi solo della' volontà divina c
-che, lasciando divampare in lei l'amore, si avvia «alla
-dolce e dilettevole unione » (G.C. N.II, 16,14), la sua intimità con Dio si fa più intensa ed amorosa finchè, pervenuta alle vette dell'amore trasformante, diventa continua e perfetta, diventa abbraccio divino che stringe la
-creatura al Creatore, Allora la grande promessa di Gesù:
-«se uno mi ama... il Padre mio l'amerà e verremo a lui e
-faremo dimora presso di lui» (Gv. 14, 23), si realizza nel
-modo più perfetto possibile sulla terra.
+**2** — Mediante le prove purificatrici «Dio segretamente ammaestra l'anima nella perfezione dell'amore» *(G.C. N. II,* 5, 1). Anzitutto le insegna ad amare indipendentemente da ogni gaudio e gioia, privandola perfino di quella gioia, pur tanto legittima e spontanea, che deriva dalla consapevolezza del proprio amore. L'anima non ancora del tutto purificata potrebbe attaccarsi a questa gioia e Dio gliela sottrare interamente; le fitte tenebre le tolgono la coscienza di amare, la secca aridità spegne in lei ogni gaudio e dolcezza ed essa è costretta a procedere col puro atto della volontà. Anziché compiacersi nel suo amore, che ormai non avverte più, l'anima resta profondamente afflita dal dubbio tormentoso di non sapere amare e per combattere questo dubbio non ha altro mezzo dell'amore, ossia ad abbracciare con generosità qualsiasi cosa, qualsiasi sacrificio che piaccia a Dio. Proprio così il suo amore si sviluppa e diventa più puro e più forte: più puro perché non vi si mescola nessun conforto personale, più forte perché la spinge ad opere più generose. In questo stato l'anima aderisce a Dio col solo atto della volontà, in cui consiste la sostanza dell'amore: *vuol bene* a Dio unicamente perché Egli è il Bene sommo, infinitamente buono; vuole lui solo e lui solo serve compiendo tutti i suoi divini voleri, senza alcun ritorno su di sé, senza nessuna ricerca di gioia, di gusti spirituali; l'anima non è più preoccupata di godere del suo amore, non è più preoccupata di ricevere, ma la sua unica cura è di dare, di donarsi, di far piacere a Dio. Da ciò intendi come l'aridità e le tenebre, anziché soffocare l'amore, lo fanno crescere in modo meraviglioso, purché l'anima sia disposta a camminare cercando solo il gusto di Dio e dimenticando totalmente se stessa.
 
-«Non è da ritenersi per cosa incredibile — afferma
-S. Giovanni della Croce — che in un'anima, già purgata,
-provata nel fuoco delle tribolazioni, dei camigli e di varie
-tentazioni, e trovata fedele nell'amore, si adempiano quaggiù quelle parole con cui il Figlio di Dio promise che,
-se alcuno lo amasse, la SS.ma Trinità verrebbe a lui a farvi
-stabile dimora: ossia illuminandole divinamente l'intelletto nella sapienza del Figlio, dilettandone la volontà nello
-Spirito Santo, e assorbendola il Padre possentemente nell'abisso della sua dolcezza» (F.1,15). Nei momenti più
-alti dell'unione trasformante, l'anima avverte Dio vivo,
-presente ed operante in lei, avverte il suo dolcissimo abbraccio paterno che la regge, avverte lo splendore della
-sua Sapienza che la illumina, avverte il divino fiammeggiare del suo Amore che tutta la penetra. Ma anche quando
-il senso della presenza e dell'azione divina in lei non è così
-forte e beatificante, l'anima è consapevole di essere profondamente unita a Dio, da lui mossa e governata: «So
-che [Gesù] è in me, che è lui che mi guida e mi ispira
-ad ogni istante », attesta S. Teresa del B. G. ($t.8). L'umile Santa, pur non avendo conosciuto le grandi grazie
-mistiche, è arrivata anche lei, non meno della sua grande
-madre, Teresa di Gesù, a quella intimità profonda con
-Dio che l'anima gode nello stato di unione totale.
-
-a — L'intimità divina, soprattutto nei suoi gradi più
-alti, è per se stessa quanto mai gaudiosa e beatificante;
-
-tuttavia l'anima innamorata non anela a questa intimità
-per godere, bensì per amaré sempre di più il suo Dio.
-per essere a lui totalmente unita, da lui tutta posseduta,
-mossa e governata, onde servirlo sempre meglio e dargli
-gloria in ogni sua azione. S. Teresa d'Avila dice espressamente che lo scopo per cui il Signore si comunica alle
-anime e fa loro tante grazie — anche i più alti favori mistici — non è soltanto di « accarezzarle », ossia di consolarle, ma «di fortificare la loro debolezza onde Serao
-imitare [Gesù] nel molto patire» e aggiunge con il suo
-abituale entusiasmo: «Questo è il fine dell'orazione; a
-questo tende il matrimonio spirituale; a produrre opere
-ed opere» (M. VII, 4, 4€ 6).
-
-La dolcezza e il gaudio dell'intimità con Dio, hanno
-lo scopo di rendere l'anima più coraggiosa nel servizio
-divino, più generosa nel dono di sè, più forte nel portare
-la croce. Sì, finchè siamo quaggiù la sofferenza non può
-mai mancare e non manca neppure in mezzo alle delizie
-dell'unione divina, perchè dobbiamo conformarci a Gesù
-crocifisso, dobbiamo seguirlo sulla via del Calvario fino
-alla completa immolazione con lui per la gloria del Padre
-e la salvezza dei fratelli, Le opere che l'unione con Dio
-deve produrre sono appunto le opere dell'amore, è l'attività intensa dell'amore puro, mediante la quale l'anima si
-dona incessantemente a Dio, desiderosa di trascinare con
-sè uno stuolo immenso di altre anime. Così, dall'intimità
-divina, dall' unione totale col Signore, dall' amore puro
-sgorga spontaneo l'apostolato più fecondo. « La gloria delle anime [giunte al matrimonio spirituale] — afferma l'ardente 'Teresa di Gesù — è nel poter aiutare il loro Dio
-crocifisso, specialmente quando vedono fino a che punto
-sia Egli offeso e come pochi cerchino davvero il suo onore, trascurando tutto il resto.» (.M. VII, 3, 6).
-
-Affatto dimentica di sè, l'anima amante non pensa nè
-al suo godere, nè al suo patire, ma pensa solo ad amare ed
-a servire il suo Dio, pensa solo a contribuire quanto più
-può alla sua gloria, associandosi all'opera redentrice di
-
-Gesù. E se anela a un'unione con Dio sempre più intima
-e perfetta, sia oggi sulla terra come domani nel cielo, è
-per amare con la massima intensità, è per far amare l'Amore dal maggior numero possibile di anime.
+«Impara ad amare come Dio vuole essere amato, e lascia le tue maniere personali...» *(AM. I,* 57), ti dice S. Giovanni della Croce, cioè impara ad amare Dio col puro e forte atto di volontà, non preoccupandoti di tutto ciò che è sentimento, consolazione, gioia del cuore. Forse il tuo modo di amare è ancora un po' troppo dipendente dal sentimento, e allora ringrazia il Signore se ti fa camminare in tenebre ed aridità: in tal modo Egli ti aiuterà a liberarti da queste debolezze.
 
 ### Colloquio
 
-«Signore Iddio, mio Diletto! Se il ricordo dei miei
-peccati ancora ti trattiene dal concedermi ciò che ti domando, fa” pure riguardo ad essi, mio Dio, la tua volontà, che è la cosa che io più desidero sopra ogni altra;
-ma deh! usa la tua bontà e misericordia, e nel perdono
-di essi sarai conosciuto, Se poi aspetti le opere mie per
-esaudire con tal mezzo la mia preghiera, dammele 'Tu
-queste opere, falle Tu stesso in me; e si adempia il tuo
-volere nei patimenti che da me vorrai accettare. Ma se
-non aspetti le mic opere, che altro aspetti, clementissimo
+«O Signore dell'anima mia e mio unico Bene, perché non vuoi che appena l'anima si determini ad amarti e fa il possibile per staccarsi da tutto per meglio servirti, non abbia subito la consolazione di vedersi in possesso del vero amore perfetto? Ma ho detto male. Dovevo dire lamentandomi: perché non vogliamo noi? Sì, la colpa è nostra se non arriviamo subito a tanto onore!...
 
-ignor mio? e perchè tardi ancora? Poichè, se alla fin fine
-ha da essere una Had e misericordia quella che nel tuo
-ivin Figlio ti chiedo, gradisci la mia piccola moneta,
-giacchè la vuoi, e dammi questo Bene, che Tu stesso vuoi
-donarmi,
+«Se riuscissimo a conseguire perfettamente il vero amore, avremmo insieme ogni altra sorta di beni. Ma, Dio mio, siamo così avari e così lenti nel darci a te che non ci determiniamo mai a metterci nelle disposizioni per riceverlo, anche perché, essendo quest'amore tanto prezioso, Tu esigi che non sia goduto se non a caro prezzo.
 
-«Chi si potrà liberare dai bassi modi di agire, se Tu
-non lo inalzi a te in purezza di amore, Dio mio? Come
-si solleverà a te l'uomo generato nell'abbiezione e nel
-fango, se Tu, Signore, non lo sollevi con la tua mano
-con cui lo plasmasti? Non mi toglierai, Dio mio, quello
-che una volta mi donasti nel tuo unigenito Figlio Gesù
-Cristo, nel quale mi desti tutto ciò che bramo; e per
-questo mi rallegrerò, sicuro che non tarderai, se io spero,
+«Non v'è nulla sulla terra che possa comprare un tal tesoro; ma ne diverremmo presto possessori solo che facessimo del nostro meglio per non attaccarci alle cose del mondo, ponendo ogni nostra cura e conversazione in quelle del cielo. Invece, o Signore, avviene che mentre crediamo di darti ogni cosa, mentre in realtà non ti diamo che la rendita e i frutti, ritenendoci il capitale e la proprietà... Bella maniera di cercare il tuo amore! E poi lo vogliamo subito e a piene mani.
 
-« Ma perchè frapponi indugi, anima mia, quando sin
+«O Signore, se Tu non ci dai questo tesoro tutto in una volta è perché anche noi non ci diamo a te del tutto. Ti piaccia almeno di darcelo a goccia a goccia, anche se per questo dovessimo sottostare a tutti i travagli del mondo.
 
-da questo momento pani amare Dio nel tuo cuore?
-. Miei sono i cieli e mia è la terra; mie sono le genti,
-i giusti sono miei e miei i peccatori; gli angeli sono miei,
-e la Madre di Dio e tutte le cose sono mie; e Dio stesso
-è mio e per me, perchè Cristo è mio e tutto per me.
-Dunque, che cerchi e domandi, anima mia? Tutto questo è tuo e tutto per te» (G.C. Oraz, aminza innamorata).
+«No, Dio mio, l'amore non sta nelle lacrime e neppure in quelle consolazioni e tenerezze che ordinariamente si desiderano tanto e tanto in esse ci si ricrea. Esso invece consiste nel servirti con giustizia, con fortezza d'animo e umiltà. Senza questo sembrerebbe un ricevere sempre e un soffrire mai nulla.
+
+«Non permettere, o Signore, che cosa di sì gran prezzo come il tuo amore sia dato a persone che ti servono soltanto per bramosia di consolazioni spirituali» *(T.G. Vi.* 11, 1-13).

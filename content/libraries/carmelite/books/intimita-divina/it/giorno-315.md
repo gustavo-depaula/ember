@@ -1,105 +1,33 @@
-## 315 — L'INVITO DIVINO
-*XIX domenica dopo Pentecoste*
+## XXIII — IL DONO DELLA SCIENZA
 
-### Presenza di Dio
-
-Concedimi, o Dio, la grazia somma di corrispondere con generosità a tutti i tuoi inviti.
+**Presenza di Dio.** — *O Spirito Santo, istruiscimi a fondo sul nulla delle cose umane.*
 
 ### Meditazione
 
-1 — Il Vangelo odierno (Mt. 22, 1-14) tratteggia la
-storia dolorosa — purtroppo sempre attuale — dell'ingratitudine umana che respinge la misericordia divina, noncurante dei suoi doni e dei suoi inviti.
+**1** — Con i doni del timore, della fortezza, della pietà e del consiglio lo Spirito Santo governa soprattutto la nostra vita morale; con gli altri doni invece, la scienza, l'intelletto e la sapienza, governa più direttamente la nostra vita teologale, ossia la nostra vita di rapporti con Dio. Mentre i primi quattro doni perfezionano specialmente le virtù morali, questi ultimi tre perfezionano quelle teologali; sono i cosiddetti doni della vita contemplativa, cioè della vita di orazione, di unione con Dio.
 
+Nell'ascesa verso Dio incontriamo un grande ostacolo: le creature che con le loro attrattive ci impressionano, ci attirano e tentano di fermarci ad esse — beni sensibili e visibili — distogliendoci da Dio — Bene infinito — che sfugge all'esperienza dei sensi. Credere che Dio è tutto, credere che è l'unico bene, l'unica felicità e sperare unicamente in lui, mentre Egli si cela al nostro sguardo; credere che le creature sono nulla, essere convinti della loro vanità, mentre esse si presentano a noi con tante lusinghe, con tanti incanti, non è facile per noi che viviamo di sensi. È vero, la fede viene in nostro soccorso e alla sua luce abbiamo tante volte riflettuto su queste verità, tuttavia in pratica i nostri ragionamenti sono spesso falliti: di fronte all'attrattiva di qualche creatura abbiamo dimenticato e forse anche tradito il Creatore. Occorre quindi un aiuto più potente, una luce divina che c'illumini dal di dentro senza bisogno di passare attraverso i nostri ragionamenti tanto limitati e grossolani: è appunto la luce che lo Spirito Santo c'infonde mediante il dono della scienza. Questo dono non ci fa ragionare sulla vanità delle cose, ma ce ne dà l'esperienza viva, concreta, ce la fa intuire in un modo così chiaro che non ammette esitazioni. Sotto l'impulso di questo dono, Francesco d'Assisi abbandona di colpo le compagnie gaudenti per sposare madonna Povertà e, quando suo padre indignato lo ripudia, esclama in fervore di spirito: «Da qui innanzi non dirò più padre Pietro Bernardone, ma Padre nostro che sei nei cieli»!
 
-«Il regno dei cieli è simile a un re che fece le nozze
-del suo figliolo; e mandò i suoi servi a chiamare gli invitati, i quali non vollero venire ». Il re è Dio Padre, il
-figlio è il Verbo eterno che, incarnandosi, ha sposato la
-natura umana per redimerla e santificarla; Dio invita tutti
-gli uomini al grande banchetto di queste nozze divine,
-in cui sta la loro salvezza, ma essi, affogati nella materialità delle cose terrene, respingono l’invito e gli ambasciatori. « Gerusalemme, Gerusalemme, che uccidi i
-profeti e lapidi coloro che ti son mandati » (Mt. 23,37),
-lamenterà un giorno il Figlio di Dio denunciando al mondo non solo l’ostinata resistenza del popolo eletto, ma
-anche quella di tutte le anime che, con tanta caparbietà
-ed ingratitudine, respingono il suo amore e la sua grazia.
-I profeti, il Battista, gli Apostoli sono appunto i « servi »,
-i messaggeri inviati da Dio a chiamare gli uomini al banchetto della Redenzione, ma tutti furono presi ed uccisi:
-«Presi i servi — dice il Vangelo — li oltraggiarono ed
-uccisero». La parabola odierna non va più in là, ma
-purtroppo molto più in là è andata l’ingratitudine umana: non solo i servi, non solo i messaggeri furono uccisi,
-ma lo stesso Figlio di Dio. Eppure la misericordia di Dio
-è così grande che non si dà per vinta e continua ad invitare al suo convito, anzi in questo convito offre in ci-
-bo le stesse carni immacolate del suo Figlio divino che
-gli uomini hanno ucciso. Il banchetto è imbandito; Gesù,
-Agnello divino, è stato immolato per la redenzione dell'umanità e, se molti non hanno corrisposto all'invito,
-altri saranno invitati: «Le nozze son pronte, ma gli invitati non ne furono degni. Andate sui crocicchi delle
-strade e quanti trovate, chiamateli alle nozze ».
+Sotto l'impulso di questo dono, Teresa d'Avila scrive le sue sentenze: «Tutto passa, Dio solo resta. Se hai Dio nel cuore non manchi di nulla; basta il suo amore» e la Beata Maria Bertilla muore dicendo: «Bisogna lavorare per Gesù solo. Tutto è niente».
 
-Anche noi siamo stati invitati; come abbiamo corrisposto all’invito? Non abbiamo anche noi mostrato tal-
-volta maggior interesse speso per gli affari terreni,
-che per le cose di Dio? Non siamo stati simili a quegli
-uomini della parabola che «non curandosene se ne andarono, chi alla sua villa o chi al suo traffico? ».
+**2** — Guidato dal dono della scienza, S. Giovanni della Croce ha tracciato la famosa via del «nulla», la via che, lasciando da parte tutti i beni creati, sale dritta e rapida il monte della perfezione, sul quale avviene l'incontro dell'anima con Dio. «Nulla, nulla — ripete il Santo — né questo, né quest'altro; né i beni della terra, né i beni del cielo», ossia né piaccia, né gusti e consolazioni spirituali, ma solo Dio. Tanta rinuncia, tanto spogliamento, tanta nudità sgomenta la povera natura umana. Ma l'anima illuminata dallo Spirito Santo comprende: nulla di tutto, perché «tutte le cose sono vanità, eccetto l'amare Dio e servire a lui solo» *(Imit.* I, 1, 4). A misura che il dono della scienza si sviluppa in lei, l'anima intende, assapora il nulla delle creature che le fa presentire il tutto di Dio e sente il bisogno di evadere da esse per immergersi in lui. È il primo passo verso la contemplazione.
 
+«Tutti gli esseri creati a paragone dell'infinito essere di Dio sono niente» (G.C. *S.* I, 4, 4): nulla le meraviglie del creato, nulla le più splendide opere dell'ingegno umano, nulla la scienza degli uomini più dotti: Dio solo vale e dà valore a tutte le cose, o perché è opera delle sue mani, o perché sono opere compiute dall'uomo per la sua gloria.
 
-2 — La parabola odierna adombra anzitutto l'invito
-alla vita cristiana, invito che, rifiutato dal popolo ebraico,
-fu rivolto a tutte le genti. Ma in essa possiamo vedere
-adombrato anche l’invito a seguire una particolare vocazione: vocazione al sacerdozio, alla consacrazione a Dio
-nel chiostro o nel mondo, all’apostolato, ad una particolare missione. Per corrispondere alla vocazione, non basta
-un’adesione qualunque, occorre un'adesione sincera, profonda, che impegna tutta l'anima. La parabola ci parla di
-un uomo che non rifiutò l'invito, ma che vi corrispose
-in modo indegno presentandosi al banchetto senza l'abito
-da nozze. È l'immagine di coloro che aderiscono materialmente alla chiamata del Signore, senza preoccuparsi
-di aderirvi con lo spirito, con le opere, senza curarsi di
-vivere in modo degno della loro vocazione; anime queste
-che mettono a serio rischio la loro salvezza eterna, perchè con Dio non si scherza, Egli non può essere tratto
-in inganno dalle apparenze, non vi sono uniformi o insegne esterne che possano celargli il vero stato di un’ani-
-ma; assai meglio del re della parabola, Egli discerne coloro che non sono rivestiti dell’abito nuziale, ossia del-
-l'abito di grazia e di virtù corrispondente alla vocazione ricevuta; presto o tardi verrà il giorno in cui per ognuno
-di essi pronuncerà le tremende parole: « Legategli le mani
-e i piedi e gettatelo fuori nel buio ».
+Di fronte alle nostre più belle imprese, di fronte a tutto il nostro agitarci per le cose della terra, lo Spirito Santo ci ricorda le parole di Gesù: «Che giova mai all'uomo guadagnare tutto il mondo, se poi perde e danneggia se stesso?» *(Lc.* 9, 25) e le altre: «T'affanni e t'inquieti per troppe cose. Ma una sola cosa è necessaria» *(ivi,* 10, 41); e così ci fa comprendere che l'essenziale sta nell'aderire a Dio, mentre tutto il resto è accessorio e molto spesso anche vano.
 
-Ma, anche senza giungere a questi estremi, si può
-rimanere molto al di sotto della piena corrispondenza alla
-chiamata divina. A tale proposito giova ricordare che il
-problema della corrispondenza alla vocazione non è un
-problema risolto una volta per sempre il giorno in cui si
-abbraccia un particolare stato di vita, ma è un problema
-di tutti i giorni, perchè ogni giorno la vocazione esige
-una nuova risposta, una nuova adesione adeguata alle circostanze e alla grazia del momento. La vocazione giunge
-alla sua piena realizzazione proprio attraverso la continua
-fedeltà agli inviti divini che, susseguendosi ininterrottamente, aprono all'anima attenta orizzonti sempre nuovi, le
-presentano nuovi doveri, nuovi aspetti di generosità, nuove sfumature di perfezione e di donazione. La parabola
-si chiude con la grave sentenza: «molti sono i chiamati,
-ma pochi gli eletti ». Perchè gli eletti sono pochi? Perchè sono pochi coloro che sanno corrispondere giorno
-per giorno alla grazia della vocazione; sono pochi coloro che sanno accettare tutte le conseguenze e le esigenze
-della chiamata divina, sono pochi coloro che sanno dire
-sempre di sì agli inviti della grazia.
+Di fronte, poi, alle bellezze del creato il dono della scienza, pur mostrandoci il loro nulla essenziale, non nega quelle perfezioni relative che si trovano in esse, ma ce le mostra unicamente come un vestigio, un riflesso della perfezione infinita di Dio. È proprio questa la luce che fa sì che le creature da ostacolo in scala per salire a Dio, giacché «l'anima è mossa grandemente all'amore del suo amato Dio mediante la considerazione delle creature, vedendo che sono opere soltanto della sua mano» (G.C. *C.* 4, 3).
+
+Quando un'anima è profondamente illuminata dal dono della scienza le creature non la disturbano più nella sua ascesa verso Dio ma, sia che li consideri il loro nulla o le bellezze che il Signore ha posto in esse, sia che le abbandoni, sia che le usi per necessità, sempre la spingono in Dio, a cercare e ad amare lui, bellezza unica ed infinita.
 
 ### Colloquio
 
-«O Signore, così Tu parli all'anima mia: ‘Perchè ti
-sei allontanata da me con vane preoccupazioni? Perchè
-non ti sei affrettata a preparare una veste ornata per le
-nozze? Io, o anima, subii la morte per assumerti a sposa.
+«Dio mio, qui sulla terra tutto è vanità. Che cosa posso cercare e desiderare trovare quaggiù, dove nulla è puro? Tutto qui è vano, incerto, ingannevole, eccetto amare te, Signore, e operare sempre bene. Ma io non posso amarti perfettamente senza disprezzare te stesso e il mondo.
 
-Mi sono fatto uomo per te; per liberare la tua vita dalla
-corruzione, ho anteposto a tutte le opere mie la tua salute. Ti ho preparato un talamo nel cielo ed ho comandato agli angeli che in esso ti servissero. E Tu vorrai
-disprezzare me, Sposo celeste? E chi vorrai preferire a
-me, che con le mie misericordie salvai il genere umano?
-Qual padre potrà darti la vita come me? Qual padre e
-quale sposo potrà amarti al pari di me? ».
+«Anima mia, non ti sia grave allontanarti dagli amici e conoscenti: essi spesso impediscono la divina consolazione. Dove sono i compagni con cui giocai e risi? Non so: se ne sono andati, m'hanno abbandonato. E ciò che osservavi ieri, dov'è? Svanito. Tutto è passato. Allora è sapiente solo chi serve te, o Signore, disprezzando la vita inferiore con tutte le sue attrattive.
 
-«Dio mio, che cosa ti risponderò?
+«Guardami, Dio mio, dalla ricerca delle gioie del mondo. Ti scongiuro, spogliami il cuore di ogni attacco alle vanità della terra. Trascinami su all'altezza della croce: che ti segua dovunque mi precederai. Povero e ignudo, come esule nel mondo ed ignoto, io sto volentieri con te» (Ven. T. da Kempis).
 
-«Perdonami, salvami, o paziente e longanime Signore! Salvami, Figlio di Dio, o Cristo, che solo sei senza
-peccato! Fa' che nient'altro abbia nel cuore fuorchè il
-desiderio di rispondere ai tuoi inviti e che, cooperando
-con me la tua grazia, compia sempre la tua volontà e sia
-pronto ad eseguire benevolmente i tuoi ordini affinchè,
-con i talenti da te ricevuti, possa commerciare ed acquistare i beni del tuo regno. Fa' che ti lodi con fiducia e
-con affetto di cuore ti dica mentre verrai: sono beato, perchè venisti per ricoprirmi della degna veste nu-
-ziale che acquisto con la tua grazia.
+«Toglimi, Dio mio, tutto ciò che mi avvia a te; concedimi tutto ciò che mi avvia a te. Rapiscimi affinché io viva sempre e per sempre per te» (S. Nicola di Flüe).
 
-«Accenderò la lampada, o Cristo, che mi fu data
-dalla tua grazia e bontà. Ti verrò incontro con allegrezza
-benedicendoti, lodandoti, glorificando te, o Sposo immortale » (S. Efrem).
+«Rapisca ti prego, Signore, l'ardente e dolce forza dell'amor tuo la mia mente ed il mio cuore da tutte le cose terrene, affinché io muoia per amore dell'amor tuo, come Tu ti sei degnato di morire per amor mio» (S. Francesco).

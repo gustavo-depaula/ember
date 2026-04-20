@@ -1,60 +1,29 @@
-## 349 — THE MUSTARD SEED
-*XXIV Sunday after Pentecost - VI after Epiphany*
+## 27 — OUR DUTIES
 
-### Presence of God
+*XXII Sunday after Pentecost*
 
-O Lord, may your kingdom come upon all the earth; may your kingdom come into my heart.
+**Presence of God.** — *Teach me, Lord, to fulfill all my duties in homage to your sovereign Majesty.*
 
 ### Meditation
 
-1 — From today’s Mass texts emerges the parable of the mustard seed, so brief yet so rich in meaning: «The kingdom of heaven is like to a grain of mustard seed, which a man took and sowed in his field. It is the least indeed of all seeds; but when it is grown up, it is greater than all herbs and becomes a tree, so that the birds of the air come and dwell in its branches» (Mt 13:31-35).
+**1** — The teachings contained in this Sunday's Mass can be summarized in the well-known phrase of Jesus that we read today in the Gospel *(Mt.* 22:15-21): "Render therefore to Caesar the things that are Caesar's; and to God the things that are God's." In other words: fulfill exactly your duties toward God and toward neighbor, giving each his due.
 
-Nothing was smaller or humbler than the «kingdom of heaven,» that is, the Church at its origins: Jesus, her Head and Founder, is born in a stable, lives for thirty years in a poor carpenter’s shop, and for only three years carries out His work among poor people, preaching a doctrine so simple that all, even the unlearned, can understand it.
+The Epistle *(Phil.* 1:6-11) presents St. Paul as model of charity toward those whom God has placed under our care. "I have you in my heart," writes the Apostle to the Philippians, "all of you are partners with me in grace, both in my chains, and in the defense and confirmation of the Gospel." Paul feels vividly his spiritual fatherhood toward souls he has begotten in Christ; even from afar he feels responsible for their good outcome, worries about their perseverance in good, supports them with paternal affection and wise counsels: "Being confident of this very thing, that He who hath begun a good work in you will perfect it unto the day of Christ Jesus." He does not want them dismayed by his absence: he is only poor instrument, God alone is true guide of souls, and God will continue the work begun. As for him, let them be sure he does not cease to love them: "For God is my witness, how I long after you all in the bowels of Jesus Christ."
 
-When Jesus leaves the earth, the Church consists of a tiny group of twelve men gathered around one humble woman, Mary. Yet this first nucleus has such vital and powerful force that in a few years it spreads through all the lands of the vast Roman Empire.
+St. John Chrysostom says Paul's heart is Christ's heart, because of his great love for souls that makes him so like the Redeemer. So should one be able to say of every apostle's heart. When God has placed a soul on our path and asked us to care for it, we can no longer lose interest in it; that soul is now bound to ours; we must feel responsible for it, committed to helping it to the end.
 
-Across the centuries, the Church, from a tiny mustard seed planted in the heart of a Virgin-Mother and among poor fishermen, becomes a gigantic tree that stretches its branches to every region of the globe, beneath whose shade peoples of every tongue and nation find refuge.
+After speaking of solicitude we must have for those entrusted to our care, the Epistle also recalls charity in general toward every neighbor: "that your charity may more and more abound in knowledge and in all understanding." It is a charity ever more delicate in understanding others' dispositions, ever finer in adapting to others' mentality, needs, tastes; a charity that must impel us, as St. Paul says, to "approve the better things," so that we may be "sincere and without offense unto the day of Christ."
 
-The Church is not a society of men alone, but of men who have for Head Jesus, the Son of God. The Church is the whole Christ: Jesus plus His faithful incorporated into Him and forming with Him one body.
+**2** — The Gospel traces clearly the Christian's position before civil authority. The insidious question whether it is lawful to pay tribute to Caesar gives Jesus occasion to solve the problem of relations between civil duties and religious duties. He asks for a coin and says: "Whose image and inscription is this?" "Caesar's," they answer. And He replies: "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
 
-The Church is the Mystical Body of Christ, of which every baptized person is a member. To love the Church is to love Jesus. To labor for the spread of the Church is to labor for the growth of Christ’s Mystical Body, so that the number of its members may be complete and each member cooperate in its splendor.
+There is no opposition between rights of political power and rights of God, since "there should not be any power, but from above" *(cf. Jn.* 19:11): legitimately constituted political authority comes from God and must be respected as reflection of divine authority. Precisely for this reason every Christian is bound to fulfill all duties of good citizen and therefore to obey political authority, except when it commands things contrary to God's law, because in that case it can no longer represent divine authority, and then, as St. Peter says, "we ought to obey God, rather than men" *(Acts* 5:29).
 
-The brief invocation «adveniat regnum tuum» signifies all this and asks all this from the heavenly Father.
+We must not think that, because we are dedicated to apostolate or consecrated to religious works, we are therefore dispensed from civil duties. On the contrary, Catholics should have primacy also in this field. Emperors, kings, statesmen and men of arms whom the Church honors as saints tell us holiness is possible everywhere and can be realized even in service of the State, because here too it is a matter of serving God in creatures.
 
-Is what we can do for the spread of the Church little? Let us do at least this little with all our heart. Let us cooperate, even with our poor work—a true mustard seed—in the growth of this marvelous tree, in whose shade all men must find salvation and rest.
-
-2 — The parable of the mustard seed makes us think not only of the growth of God’s kingdom in the world, but also of the growth of this kingdom in our own heart.
-
-Did Jesus not say: «The kingdom of God is within you» (Lk 17:21)? In us too this marvelous kingdom began from a very tiny seed: the seed of grace.
-
-Sanctifying grace, which in hidden and mysterious manner God sowed in us in holy Baptism; actual grace of good inspirations and of the divine word—«the seed is the word of God» (Lk 8:11)—which Jesus, the heavenly Sower, has scattered in abundance in our souls.
-
-Little by little this small seed has germinated, put down deeper roots, and grown, progressively penetrating our whole spirit, until it has conquered us entirely for God, until we have felt the need to say: Lord, all that I have and am be Yours; I give myself wholly to You; I want to be your kingdom.
-
-To be wholly God’s kingdom, so that He is the only Sovereign and Lord of our heart and nothing exists in us that does not belong to Him or is not subject to His rule: this is the ideal of the soul that loves God totally.
-
-But how do we arrive at full development of this kingdom in us? The second parable read in today’s Gospel tells us: «The kingdom of heaven is like leaven, which a woman took and hid in three measures of meal until all was leavened.»
-
-Another beautiful image of the work grace must do in our soul: grace has been placed in us like leaven, which little by little must grow until it permeates our whole personality and divinizes it entirely.
-
-Grace, divine leaven, was given to us to heal, elevate, and sanctify our being with all its powers and faculties. Only when this work is complete shall we be entirely God’s kingdom.
-
-Let us reflect once more on the great problem of our correspondence to grace. This divine seed, this supernatural leaven, is in us. Who can prevent it from becoming a giant tree able to shelter other souls? Who can prevent it from fermenting the whole mass, if we remove all obstacles to its development, if we follow its impulses and demands?
-
-«Adveniat regnum tuum!» Yes, let us invoke the total coming of God’s kingdom also in our hearts.
+By saying to give Caesar what is Caesar's, Jesus teaches us to give the State all within its competence, that is, all concerning order and temporal common good. But Jesus does not stop there and says also: "render to God what is God's." If money, bearing Caesar's image, must be returned to Caesar, much more must our soul, bearing within itself image of God, be returned to God. To say we must give God our soul is to say we owe Him *everything*, because everything we have received from Him. In this sense, fulfilling our duties toward neighbor - equals and inferiors, ecclesiastical or civil superiors - is fulfilling our duties toward God: returning to Him what He gave us, submitting our freedom to his law, placing our will at his service.
 
 ### Colloquy
 
-«Lord my God, who created me in your image and likeness, grant me this grace which You have shown me to be so great and so necessary, that I may overcome the evil nature that drags to sin and perdition.
+"O my God, since I am yours for so many reasons and have so many obligations to serve You, never again permit either fault, or Satan, or the world to usurp, even in the least part, what is entirely yours. But take, if You please, complete and absolute possession of my being and my life. O my God, behold, I give myself wholly to You, vowing to will to exist only for You and to will neither think, nor speak, nor do, nor suffer anything except for love of You, today, tomorrow, and always" (St. John Eudes).
 
-«For I feel in my flesh the inclination to sin that contradicts the law of the Spirit and leads me like a slave to obey the senses in many things; nor can I resist passions unless your most holy grace assists me, O Lord, by pouring its ardor into my heart.
-
-«O Lord, without grace I can do nothing, while if it helps and strengthens me, I can do all things.
-
-«O truly heavenly grace, without which we have no merits, without which all gifts of nature must be counted as nothing! O most holy grace, you who make rich in virtue the poor in spirit, who make humble of heart those endowed with many goods—come, descend into me, fill me today with heavenly consolation, lest my soul fail from weariness and dryness of spirit.
-
-«I beg You, Lord, that I may find grace in your sight. Even if I do not obtain what nature desires, your grace will suffice me. Having it, I will fear no evil, when I am tempted and distressed by many tribulations.
-
-«It is my strength, gives me help and counsel; it is more powerful than any enemy, wiser than any sage.
-
-«May your grace, my God, go before me and always accompany me; may it make me always intent on good works, through Jesus Christ your Son. Amen» (*Imitation of Christ*).
+"O my Lord Jesus, You gave me Yourself and from me ask only the heart. But, my Lord, what is this heart of mine, while You are such greatness? If I had one heart that by itself were worth more than all hearts of the sons of men taken together and all affections of angels, and were so capacious that it contained at once many spiritual and bodily things, and could contain more than the highest heaven, I should owe to consecrate it wholly and entirely to You; and still for such a Lord it would be small gift, almost nothing. How much more should I not give You and place fully in You this little spark of heart I find in myself! For it is for me a very great thing that You deign to hold my heart. And would I not be foolish if from now on I consecrated it to some creature, when my God wants it for Himself? I do not want it to remain in me any longer; I want it to rest wholly in You, who created it so it might praise You. Better that my heart be in eternal joy, in divine majesty and immense goodness, than in my fragility; in your divinity rather than in my iniquity" (St. Bonaventure).

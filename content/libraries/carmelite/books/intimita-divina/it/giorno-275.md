@@ -1,98 +1,25 @@
-## 275 — LA GRATITUDINE
+## XIV — IL BUON SAMARITANO
 
-### Presenza di Dio
+*XII Domenica dopo Pentecoste*
 
-Dio mio, dammi un cuore riconoscente, capace di cantare in eterno le tue misericordie.
+**Presenza di Dio.** — *Signore, imprimi nel mio cuore l'esempio ed il comandamento della tua carità.*
 
 ### Meditazione
 
-1. — Incapaci, come siamo, di soddisfare secondo giustizia i nostri debiti verso Dio, dobbiamo almeno cercare di supplire con la gratitudine. Anche il più miserabile pezzente, che non ha nulla da rendere in cambio dell’elemosina ricevuta,
-ha sempre la possibilità di riconoscere il beneficio e di mostrarsene grato al suo benefettore. E' proprio questa la nostra posizione verso Dio: nulla abbiamo in proprio, tutto ciò
-che siamo e possediamo è dono suo e per ricambiare la sua
-liberalità infinita non possiamo far altro che servirci dei suoi
-stessi doni onde cantargli la nostra riconoscenza. «In ogni
-cosa rendete grazie, poichè questa è la volontà di Dio manifestata a voi in Cristo Gesù » (I Tess. 5, 18): Dio, che ci benefica con larghezza infinita, ha ben diritto di esigere la nostra riconoscenza. Eppure, questo, che è un bisogno spontaneo dell'anima umile e delicata, è un dovere tanto spesso
-trascurato anche dai buoni, anche dai più beneficati. Gesù
-ne ha mosso lamento quando, dopo aver guarito dieci lebbrosi, uno solo ritornò indietro a ringraziarlo: « E dove sono
-gli altri nove? Non s'è trovato chi tornasse a rendere gloria
-a Dio, se non questo straniero? » (Lc. 17, 17 e 18). Significativo il fatto che gli ingrati sono stati proprio i nove giudei i
-quali, essendo connazionali del Salvatore, si trovavano in
-una posizione di privilegio di fronte allo straniero. Talvolta
-proprio le anime che Gesù ha chiamato a vivere più vicino
-a sè, cui ha dato una vocazione di privilegio, sono anche le
-meno riconoscenti. Sembra quasi che la molteplicità delle
-grazie ricevute attutisca la loro sensibilità di fronte ai doni divini, sembra che non avvertano più nè la grandezza, nè
-la totale gratuità di essi, per cui s'inaridisce nel loro cuore
-la vena spontanea della riconoscenza. « Ah, — esclama Teresa di Gesù — di danno sarà agli ingrati la stessa grandezza
-dei benefici ricevuti! » (Es. 3, 1). L’ingratitudine ridonda sempre a svantaggio dell'anima che ne è infetta; pensiamo, ad
-esempio, all'enorme danno che procurò ai nove lebbrosi i
-quali, non essendo tornati a ringraziare per la guarigione ricevuta, non ebbero, come l’unico riconoscente, la gioia di
-sentirsi dire da Gesù: «La tua fede ti ha salvato» (Lc.
-17, 19). La mancanza di riconoscenza li privò della salute dell'anima, grazia immensamente più preziosa della salute del
-corpo.
+**1** — «Un uomo scendeva da Gerusalemme a Gerico e s'imbattè in ladroni, i quali, spogliatolo e feritolo se ne andarono, lasciandolo mezzo morto». Così il Vangelo del giorno. Ognuno di noi si può vedere raffigurato in quel poveretto; anche noi sul nostro cammino abbiamo incontrato dei ladroni: il demonio, le passioni che ci hanno depredato e ferito. Chi può dire di non portare nella propria anima qualche ferita, più o meno profonda, conseguenza delle tentazioni, del peccato? Ma anche noi sui nostri passi abbiamo incontrato un buon samaritano, anzi il buon Samaritano per eccellenza, Gesù, il quale, mosso a compassione del nostro stato, ci ha prestato soccorso. Con amore infinito si è curvato sulle nostre piaghe sanguinanti medicandole con l'olio ed il vino della sua grazia: l'olio ne indica la soavità e il vino il vigore; poi ci ha preso fra le sue braccia, ci ha portato in un rifugio sicuro, ossia ci ha affidato alle cure materne della Chiesa, alla quale ha consegnato il prezzo del nostro riscatto, frutto della sua morte di croce.
 
+La parabola del buon samaritano adombra così la storia della nostra redenzione, storia sempre in atto e che si rinnova ogni volta che ci avviciniamo a Gesù, mostrandogli con umiltà e pentimento le ferite dell'anima nostra. Questa storia si attua in modo tutto particolare nella S. Messa, in cui Gesù presenta al Padre il prezzo della nostra salvezza, rinnovando la sua immolazione a beneficio delle anime nostre. Dobbiamo andare alla Messa per incontrarci con lui, il buon Samaritano, per invocare e ricevere su di noi la sua azione sanante e santificante. Quanto più, consci della nostra miseria, sentiremo vivo il bisogno della sua redenzione, tanto più Gesù ce ne applicherà la larghezza i frutti e, venendo in noi nella S. Comunione, sanerà le nostre ferite non solo dall'esterno, ma dall'interno, penetrandole abbondantemente con l'olio soavissimo ed col vino vigoroso della sua grazia.
 
-2.— « L'ingratitudine — dice S. Bernardo—è la nemica
-dell'anima, la rovina dei meriti e delle virtù, la perdita dei
-benefici. E' un vento bruciante che inaridisce la fonte della
+Ecco come Gesù ci tratta; ecco come Gesù ha trattato l'umanità che, per il peccato, gli era straniera, anzi nemica e nulla aveva a che fare con lui, il Santo, il Figlio di Dio!
 
-pietà, la rugiada della misericordia, i torrenti della grazia ».
-Viceversa la riconoscenza attira nuove grazie, nuovi doni, piega verso le anime la liberalità infinita. Ma deve essere una
-riconoscenza schietta, cordiale, che si estende a tutti i benefici
-divini: « Nessun dono di Dio, grande o minimo che sia, deve restare senza rendimento di grazie. Neppure il più piccolo
-beneficio deve essere dimenticato » (ivi). Questa gratitudine
-sincera fiorisce solo in un cuore umile, convinto della propria
-indigenza e profondamente persuaso che nulla è e nulla può senza il continuo soccorso divino. Non è impossibile, infatti,
-che qualcuno ringrazi Dio con la bocca, mentre nel segreto
-del cuore attribuisce a proprio merito le grazie ricevute. "Tale
-era la falsa riconoscenza del fariseo: « Ti ringrazio, o Dio,
-perchè io non sono come gli altri uomini» (Lc. 18, 11); dal
-contesto appare assai chiaro che quell'uomo borioso era ben
-lontano dal riconoscere il suo nulla e dall'attribuire unicamente a dono di Dio quel po' di bene che poteva esserci in
-lui. L'anima umile è in tutt'altra posizione: anche se riesce
-a fare del bene, ad esercitare la virtù, è convinta che tutto
-è frutto della grazia e allora non solo i grandi benefici divini, ma anche le minime azioni buone che compie le sono
-continue occasioni per rendere grazie a Dio, da cui riconosce
-ogni bene. Che dire poi della sua gratitudine per ogni Messa, per ogni Comunione, per ogni confessione? Ognuna di
-queste grazie, anche se si ripetesse per la millesima volta, la
-trova sempre viva, sempre desta nella riconoscenza, come se
+**2** — Gesù, che mediante la sua opera redentrice, ci ha dato per primo l'esempio di una carità piena di misericordia e di compassione, aveva tutto il diritto di concludere la parabola del buon samaritano dicendo: «Va', e fa' tu pure lo stesso» e avrebbe potuto aggiungere, come dirà la sera dell'ultima Cena ai suoi Apostoli: «Vi ho dato l'esempio affinché anche voi facciate come io ho fatto a voi» *(Gv.* 13, 15).
 
-
-si trattasse di un dono del tutto nuovo. E in realtà è così:
-ogni sacramento, ogni soccorso divino, ogni grazia attuale,
-ogni aiuto spirituale e materiale, porta con sè una novità di
-grazia, di vita spirituale, di amore; beata l'anima che lo sa
-
-
-riconoscere rendendone lode a Dio! Se la moltitudine dei
-benefici divini non produce in noi frutto adeguato, forse
-la causa è proprio la poca gratitudine e, se vogliamo scoprire
-più a fondo la radice del male, quasi sempre troveremo che
-ciò dipende dalla poca umiltà.
+Gli scribi e i farisei col nome di prossimo intendevano solo gli amici o, al massimo, gli israeliti, ma non mai i pagani e neppure i samaritani. Ed ecco che il Salvatore, oltrepassando di colpo questa interpretazione tanto cara, come esempio concreto della carità comandata dalla legge, propone proprio un atto di carità verso un nemico: il buon samaritano, non tenendo conto dell'odio che i giudei nutrivano per il suo popolo, presta soccorso al povero giudeo abbandonato dal sacerdote e dal levita, suoi connazionali. Questa carità universale sarà il distintivo della nuova religione instaurata da Cristo. «La religione pura e immacolata agli occhi di Dio — scriverà S. Giacomo — è questa: visitare gli orfani e le vedove nelle loro tribolazioni» *(1,* 27), ossia non vi è vera religione senza carità verso il prossimo sofferente. Gli scribi e i farisei ed i loro stessi sacerdoti, che avevano ridotto la religione ad un puro formalismo esterno, mentre trascuravano con tanta disinvoltura i doveri della carità, trovavano nella parabola del buon samaritano la loro condanna. Ma anche fra i cristiani, purtroppo, non mancano persone devote che si fanno nessuno scrupolo di tralasciare la minima pratica di pietà, ma non hanno alcuna titubanza ad abbandonare a se stessi coloro che soffrono. Costoro non hanno compreso l'anima della religione, ma si sono fermati alla scorza. La religione ci dà il senso profondo dei nostri rapporti con Dio: lui nostro Padre e noi suoi figli; ma se siamo figli di un unico Padre, come non sentirci fratelli? Ecco in che consiste la pietà vera: avere il senso della nostra figliolanza divina, avere il senso della nostra fraternità con tutti gli uomini, nessuno escluso. E chi si sente veramente fratello non tirerà mai diritto di fronte ai bisogni ed alle sofferenze altrui.
 
 ### Colloquio
 
-«Grazia, grazia sia resa a te, Padre eterno, che non hai
-disprezzato la creatura tua, nè voltato la tua faccia da me, nè
-sprezzati i miei desideri. Tu, luce, non hai disdegnato le mie
-tenebre; Tu, vita, non ti sei allontanato da me che sono morte; nè Tu, medico, hai trascurato le mie gravi infermità.
-Per tutti questi ed altri infiniti mali e difetti che sono in me,
-la tua sapienza, la tua bontà, la tua clemenza ed il tuo infinito bene non mi ha disprezzata. Chi ti ha costretto ad amarmi ed a concedermi tanta grazia? Non le mie virtù, ma solo
-la carità tua. Fa’, dunque, che la mia memoria sia capace di
-ritenere i benefici tuoi e che la volontà arda nel fuoco della
-tua carità.
+«O Signore, quanto più comprenderò l'amore che Tu ci porti, tanto più rinuncerò volentieri ad ogni mio interesse e soddisfazione per non contentare che te, servendo il mio prossimo. Allora le perdite che potrò fare non mi preoccuperò punto; avrò innanzi solo l'interesse del prossimo e niente altro. Per meglio piacere a te, Dio mio, aiutami a dimenticare me stessa per gli altri fini ed essere pronta, se occorresse, a morire per il loro bene come fecero molti martiri» *(T.G. P.* 7, 5).
 
-«O Amore inestimabile, ammirabili sono le cose che Tu
-hai operato nella creatura tua! O miserabile e cieca anima
-mia, dov'è il grido della gratitudine, dove sono le lacrime che
-devi versare nel cospetto del Dio tuo che continuamente t'invita? Dove sono gli ansiosi desideri nel cospetto della divina
-pietà? Non ci sono in me, perchè ancora non ho perduta me
-medesima, che se io mi fossi perduta e avessi cercato solo
-te, O Dio, solo la gloria e la lode del nome tuo, il cuore mi uscirebbe dalla bocca in un canto di riconoscenza.
+«O carità, tu sei quel dolce e santo legame che lega l'anima col suo Creatore: tu leghi Dio nell'uomo e l'uomo in Dio. Tu hai tenuto confitto il Figlio di Dio sul legno della santissima croce; tu accordi i discordi, unisci i separati, arricchisci coloro che sono poveri della virtù perché dai vita a tutte le virtù; tu doni la pace e togli l'odio e la guerra; doni pazienza, fortezza e lunga perseveranza in ogni buona e santa operazione. Non ti stanchi mai e mai ti distoglie dall'amore di Dio e del prossimo, né per pena, né per strazio, né per scherni, né per villania.
 
-«Grazie, grazie siano rese a te, alta ed eterna Trinità!
-Io sono colei che non sono e Tu sei Colui che è. Dunque, Tu
-stesso renditi grazie, dando a me di poterti lodare. Perdona,
-Padre, perdona a me miserabile, a me ingrata degli immensi
-benefici da te ricevuti. Confesso che la tua bontà mi ha conservata tua sposa, benchè per i miei difetti sempre ti sia stata
-infedele» (S. Caterina da Siena).
+«O Cristo dolce Gesù, concedimi questa santa carità affinché sia perseverante nel bene e giammai mai receda da esso, poiché chi possiede la carità è fondato su di te, pietra viva e, seguendo i tuoi esempi, da te impara ad amare il suo Creatore ed il prossimo suo. In te, o Cristo, leggo la regola e la dottrina che mi conviene tenere, poiché Tu sei via, verità e vita; onde leggendo in te potrò battere la via dritta e l'attendere solo all'onore di Dio e alla salute del prossimo» (S. Caterina da Siena).

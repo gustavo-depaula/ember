@@ -1,127 +1,25 @@
-## 103 — LA TRASFIGURAZIONE
-*II domenica di Quaresima*
+## 27 — L'ESAME DI COSCIENZA
 
-### Presenza di Dio
+**Presenza di Dio.** — *O Signore, proietta sull'anima mia un raggio della tua luce, affinché io possa vedermi come Tu stesso mi vedi e mi giudichi.*
 
 ### Meditazione
 
-1 — L'Anima di Gesù, unita personalmente al Verbo,
-podera della visione beatifica, il cui effetto connaturale è
-la glorificazione del corpo. Ma tale effetto fu impedito da
-Gesù che, durante gli anni della sua vita terrena, volle il
-più po ile assimilarsi a noi, rivestendosi di « una carne
-Simile a quella del peccato » (Rom. 8, 3). Tuttavia, per confermare nella fede gli Apostoli rimasti scossi dall’ an-
-muncio della sua Passione, Gesù, sul monte Tabor, lasciò
-che per brevi istanti alcuni raggi della sua anima beata
-ridondassero nel suo corpo e allora Pietro, Giacomo e
-Giovanni lo videro trasfigurato: «il suo viso risplendeva
-come il sole e le sue vesti erano candide come la neve ».
-1 tre ne rimasero estasiati, eppure Gesù non aveva mostrato loro che un raggio della sua gloria, giacchè nes-
+**1** — Per assicurare alla vita spirituale un ben ordinato e progressivo sviluppo, è necessario prendere coscienza delle proprie posizioni, ossia dei propri peccati, dei punti deboli, delle tendenze cattive, come pure dei progressi realizzati, dei buoni risultati ottenuti, delle tendenze al bene. Questa presa di coscienza del proprio stato interiore si fa appunto per mezzo dell'esame di coscienza che, così considerato, costituisce uno dei più importanti esercizi della vita spirituale, giacché ha lo scopo di aiutare l'anima ad eliminare tutto ciò che può ostacolare o ritardare il suo cammino verso Dio e di spronarla ad accelerare il passo verso di lui. Come non si può muover guerra ad un nemico ignoto e non si può conquistare una regione sconosciuta, così non si può combattere in noi il male, se prima non l'abbiamo individuato, e non si può conquistare la santità senza aver studiato il piano più adatto per conseguirla. In altre parole, l'esame di coscienza raggiunge il suo scopo quando l'anima che vi si è applicata può dire a se stessa: queste sono le tendenze che devo maggiormente sorvegliare per non cadere nel peccato, questi i punti deboli che devo rafforzare e, d'altra parte, queste sono le tendenze buone che devo coltivare, queste le virtù in cui devo maggiormente esercitarmi. In tal modo l'anima potrà formulare propositi pratici ben determinati, che diventeranno poi particolare oggetto dei suoi ulteriori esami.
 
+È chiaro che anzitutto dovranno essere ben conosciute e combattute le tendenze che possono portare al peccato mortale, ma poi anche quelle che conducono al peccato veniale o a semplici imperfezioni volontarie. Tutto ciò che è mancanza volontaria va progressivamente, ma decisamente, eliminato da un'anima che vuol giungere all'unione con Dio.
 
-suna creatura umana ne avrebbe potuto sopportare la
-visione completa.
+**2** — Nei suoi esami di coscienza, un'anima di vita interiore — supponendo che sia ormai libera dal peccato mortale — più che andare in cerca di tutte le mancanze commesse, deve fissare la sua attenzione sul grado di volontarietà che vi è in esse, anche quando si trattasse di semplici imperfezioni, perché sono appunto le mancanze deliberate che più impediscono il progresso spirituale e l'unione con Dio. Di tali mancanze dovrà cercare accuratamente la causa, il motivo, ed in tal modo spesso si renderà conto che, mentre le sue colpe esterne sono di vario genere — per esempio mancanze di carità, di pazienza, di obbedienza, di sincerità — tutte però provengono da un'unica causa; ad esempio dall'orgoglio o dall'accidia, che ne è la comune radice. Ed è proprio contro queste ultime radici dei nostri peccati e imperfezioni che dobbiamo puntare gli sforzi: bisogna combatterle direttamente non solo cercando di rintuzzarle con la mortificazione, ma anche sviluppando in noi le virtù contrarie. Si tratta, in altri termini, della lotta contro il difetto o la passione dominante; lotta importantissima, perché, mirando a distruggere il male nella sua radice, viene di per sé ad eliminare tante mancanze attuali.
 
-La gloria è il frutto della grazia; la grazia che Gesù
-possiede in misura infinita, ridonda in una gloria infinita
-che tutto lo trasfigura. Qualche cosa di simile avviene
-anche a noi: la grazia ci trasforma, ci trasfigura « di gloria
-in gloria » (Z7'Cor. 3,18), finchè un giorno, in cielo, c’introdurrà nella visione beatifica di Dio. E mentre la grazia
-trasfigura, il peccato, con la sua opacità, sfigura. coloro
-che ne sono vittime.
+Quando poi l'anima non ha più da rimproverarsi peccati ed imperfezioni propriamente deliberati, deve rivolgere la sua attenzione a quelli semiavvertiti, di cui, pur avendo una semicoscienza o coscienza confusa, non riesce ancora a liberarsi, malgrado i sinceri e ripetuti propositi di correggersi. In questi casi, oltre che continuare a combattere contro le radici delle proprie mancanze, è molto utile rafforzare sempre più il proposito di vincersi, perché a misura in cui la volontà è decisa a correggersi, le mancanze che ancora sfuggono perdono di volontarietà e diventano sempre più lievi, anzi spesso non sono che residui puramente naturali di abitudini contratte, ma già detestate.
 
-Il Vangelo odierno (Mt. 17, 1-9) mostra l’intimo rapporto fra la Trasfigurazione e la Passione di Gesù. Mosè
-ed Elia, apparsi sul Tabor, accanto al Salvatore, parlavano con lui e, come specifica S, Luca, parlavano pro-
-peo della sua prossima Passione, «della dipartita che
-
-gli stava per compiere in Gerusalemme » (Lc. 9, 31).
-
-Il divin Maestro vuol così insegnare ai suoi discepoli
-che è impossibile per lui e per loro giungere alla gloria
-della Trasfigurazione, senza passare attraverso Ja sofferenza; è la lezione che darà più tardi ai due discepoli
-di Emmaus: « Non doveva forse il Cristo patire tali cose
-e così entrare nella sua gloria? » (Le. 24, 26). Ciò che il
-peccato ha sfigurato non può ritornare alla primiera bellezza soprannaturale, se non per mezzo della sofferenza
-purificatrice.
-
-
-2 — Pietro, estasiato dalla visione del Tabor, col suo
-solito ardore esclama: « È bene per noi lo star qui» e si
-offre a preparare tre tende: per Gesù, per Mosè e per
-Elia. Ma la sua proposta è interrotta da una voce dall'alto: «Questi è il mio Figliolo diletto, nel quale ho ri-
-posto la mia compiacenza: ascoltatelo! » e Ja' visione
-scompare.
-
-Le consolazioni spirituali non sono mai fine a se stesse
-e noi non dobbiamo nè desiderarle, nè cercare di trattenerle
-per nostro godimento. La gioia, anche quella spirituale,
-non deve mai essere cercata per se stessa; come in cielo la
-
-
-gioia sarà la necessaria conseguenza del possesso ‘di Dio,
-così su questa terra deve essere unicamente un.mezzo per
-darci con maggior generosità al servizio di Dio. A Pietro,
-che chiede di fermarsi sul Tabor nella dolce visione di
-Gesù trasfigurato, Dio stesso risponde invitandolo piuttosto ad ascoltare ed a seguire gli insegnamenti del suo
-Figlio diletto. E ben presto l’Apostolo ardente saprà che
-seguire Gesù, significa portare la croce e salire il Calvario con lui.
-
-Dio non ci consola per trastullarci, ma per incoraggiarci, per renderci forti e generosi nel soffrire per amor suo.
-
-Scomparsa la visione, gli Apostoli alzarono gli occhi e
-non videro più nulla «misi solum Jesum», tranne Gesù
-solo, e con « Gesù solo » discesero dal monte. Ecco quello
-che dobbiamo sempre cercare e che ci deve bastare: Gesù
-solo, Dio solo. Tutto il resto — consolazioni, aiuti, amicizie anche spirituali, comprensione, stima, appoggio anche
-dei superiori — può essere buono nella misura in cui Dio
-ci permette di goderne e molto spesso Egli se ne serve
-proprio per sostenere la nostra debolezza; ma quando,
-attraverso le circostanze, la Mano divina ci priva di tutto
-ciò, non dobbiamo nè sgomentarci, nè smarrirci. Sono
-proprio questi i casi in cui, più che mai, possiamo testimoniare a Dio — con i fatti e non con le parole — che
-Egli è il nostro Tutto e che Egli solo ci basta. È questa
-una delle più belle testimonianze che un'anima amante
-può rendere al suo Dio: essergli fedele, fidarsi di lui,
-perseverare nel proposito di una dedizione totale, anche
-quando Egli, ritirando tutti i suoi doni, la lascia sola, al
-buio, forse nell’incomprensione, nell’amarezza, nella solitudine materiale e spirituale accoppiata con la desolazione
-interiore. È allora ti momento di ripetere: « Gesù solo»
-e di scendere con lui dal Tabor per seguirlo con gli
-Apostoli fino al Calvario, dove Egli stesso agonizzerà abbandonato non soltanto dagli uomini, ma anche dal Pa-
-
-
-dre suo.
-
+Altro punto importante da tener sempre presente nell'esame di coscienza è quello di sorvegliare e tener desta la tendenza verso la santità, il desiderio di far sempre quel che più piace a Dio, perché questa è la molla della vita spirituale, della generosità. Come pure è ottimo metodo quello di esaminarsi più dal punto di vista di Dio che dal nostro, ossia domandarsi se il Signore può essere contento di noi e quale sarà il suo giudizio sulla nostra condotta.
 
 ### Colloquio
 
-«To amo te solo, mio Dio, seguo te solo, cerco te solo,
-son pronto a seguire te solo... voglio essere alla tua discrezione soltanto. Ordina, ti prego, comanda tutto quello che
-vuoi, però guarisci, apri 1 miei occhi, affinchè 10 veda i
-tuoi cenni; guariscimi tutto affinchè io ti riconosca. Dimmi da che parte debba volgere la mia attenzione affinchè
-ti veda; e spero saprò fare tutto quello che mi comandi... »
-(S. Agostino).
+« O Dio dell'anima mia, chi sono io e quale? C'è colpa che non sia stata nelle mie azioni o, se non nelle mie azioni, nelle mie parole o, se non nelle mie parole, nella mia volontà? Ma Tu, o Signore, sei buono e misericordiosa è la tua destra.
 
-Sì, o Gesù, che io segua te solo e ti si non solo sul
-Tabor, ma soprattutto sul Calvario. Il Tabor è luce, è
-splendore che mi attira; vorrei, anche solo per un istante,
-intravedere il tuo Volto, o mio Dio! Il Calvario è notte, è
-solitudine, è dolore cupo che mi spaventa; ma nelle tenebre
-s'inalza una croce e su quella croce io contemplo te, crocifisso per amore. Intravedo il tuo Volto non trasfigurato
-dalla gloria, ma sfigurato dal dolore, frutto dei nostri
-peccati!
+« O Medico dell'anima mia, rivelami i frutti della mia confessione. Io mi confesso, perché la confessione de' miei mali... risvegli il mio cuore, che non s'addormenti; ma pur dicendo non mi sento capace; si ridesti nell'amore della tua misericordia e nella dolcezza della tua grazia, per la quale ogni spirito infermo si sente forte e diviene consapevole della sua debolezza.
 
-O Gesù, distruggi in me il peccato, quel peccato che
-ha sfigurato il tuo Volto, quel peccato che ha sfigurato
-l’anima mia, creata ad immagine e somiglianza tua. Ma perchè avvenga questa distruzione è necessario che io partecipi
-al tuo Calvario, alla tua Croce; degnati, dunque, o Signore,
-di associare alla tua Passione tutte le sofferenze piccole e
-grandi della mia vita, affinchè per esse io sia purificato e
-venga disposto a salire di chiarezza in chiarezza, fino alla
-totale trasfigurazione in te.
+« Ti amerò, o Signore, e ti renderò grazie ed esalterò il tuo nome; perché mi perdonasti tante cattive azioni. Fu opera della tua grazia e della tua misericordia, se i miei peccati sciogli esti come ghiaccio. Opera della tua grazia è pure tutto il male che non ho fatto. C'era peccato che io non sapessi commettere, io che ho amato la colpa perfino gratuitamente? E confesso che tutti i peccati mi furono perdonati e quelli che spontaneamente commisi, e quelli che, col tuo aiuto, non commisi » (S. Agostino).
 
-La luce, la gloria del Tabor m'incora; ia; grazie, o Si
-gnore, di avermi concesso, sia pure per brevi istanti, di
-contemplare il tuo splendore, di godere delle tue divine
-consolazioni; così rinfrancato e incoraggiato scendo dal
-monte per seguire te solo, fino al Calvario.
+O mio Dio, che con un solo atto della tua volontà hai creato la luce e la luce fu, ripeti su di me la tua onnipotente parola creatrice: « fiat lux » e si farà luce nell'anima mia e nella luce tua potrò vedermi quale realmente sono al tuo cospetto. Ma la luce non basta a me, tanto debole e fiacco; ho bisogno di forza, o Signore; ho bisogno di volontà forte e decisa per detestare ogni forma di male, per detestare il mio egoismo, il mio orgoglio, la mia accidia, per rinnovare e rafforzare il proposito di vincermi per amor tuo. Sì, o Signore, col tuo aiuto voglio vincermi, non per la vana soddisfazione di sentirmi migliore, ma unicamente per farti piacere, per evitare la più piccola cosa che a te dispiaccia, per crescere nel tuo amore, per addentrarmi sempre più nella tua unione. O mio Dio, Perfezione infinita, avvolgi e penetra l'anima mia col riflesso della tua santità e come il sole col suo raggio illumina, purifica e feconda la terra, così Tu illumina, purifica, santifica tutto il mio essere. Insegnami a guardarmi in te, a conoscermi in te, a considerare le mie miserie al riflesso delle tue perfezioni infinite, a spalancare l'anima mia all'invasione della tua luce purificatrice, santificatrice.

@@ -1,144 +1,23 @@
-## 175 — LO SVILUPPO DELLA CARITÀ IN MARIA
+## VI — La preghiera efficace
 
-### Presenza di Dio
+*V Domenica dopo Pasqua*
 
-O Maria, insegnami il segreto per crescere continuamente nella carità.
+**Presenza di Dio.** — *O Gesù, fammi comprendere che la mia preghiera è un nulla, se non si appoggia a te; che la mia fede è vana, se non la traduco in opere.*
 
 ### Meditazione
 
-1. — Non si deve pensare che Maria SS.ma, per
-essere stata fin dalla sua origine costituita nel più alto
-grado di santità a cui sia mai giunto il più grande santo,
-sia stata perciò dispensata da qualsiasi attività personale, da
-qualsiasi pr : tutt'altro! Anche per lei, come per noi,
-questa vita fu la «via» in cui si deve sempre pro; ‘edire
-nella carità; anche a lei, come a noi, fu chiesta È sua
-personale corrispondenza alla grazia. E il grande merito
-di Maria è stato proprio quello di aver corrisposto con la
-massima fedeltà agli immensi doni ricevuti. Certamente,
-i privilegi della sua concezione immacolata, dello stato
-di santità in cui nacque e della sua maternità divina
-furono puri doni di Dio, tuttavia, ben lungi dal riceverli
-passivamente — così come uno scrigno accoglie gli oggetti
-preziosi che vengono posti in esso — li ha ricevuti come
-una persona libera, capace di aderire con la propria volontà
-ai favori divini mediante una piena corrispondenza alla
-grazia. S. Tommaso insegna che, se Maria non potè meritare l'Incarnazione del Verbo, però, mediante la grazia
-ricevuta, meritò quel grado di santità che la rese degna
-madre di Dio (cfr. II. q. 2, a. 11, ad 3), e lo meritò appunto con la sua collaborazione alla grazia. Anche in Maria,
-quindi, possiamo considerare il progresso nella santità,
-progresso che non dipese solo dalla nuova copia di grazia
-che Dio infuse in lei in determinati momenti della sua
-vita — come si pensa essere avvenuto al momento dell'Incarnazione — ma anche dalla sua attività personale,
-tutta informata dalla grazia e dalla carità, mediante la
-quale seppe far fruttificare il tesoro affidatole dal Signore.
-Maria è, nel senso pieno della parola, la e Vergine fedele»
-che ha savuto trafficare al cento per cento i talenti ricevuti
-da Dio. Sì, per pura liberalità divina e in vista della missione altissima cui era destinata, le fu concessa la massima
-misura di grazia che mai fu data ad una semplice creatura,
-«ma Ella vi corrispose con la massima fedeltà di cui può essere capace una creatura. Pienezza di grazia da parte di
-Dio, dunque, e pienezza di fedeltà da parte di Maria, sì
+**1** — Mediante il Vangelo della Messa — preso anche oggi dal discorso dell'ultima Cena — la Chiesa continua a prepararci all'Ascensione e alla Pentecoste. «Io sono uscito dal Padre e venuto al mondo — dice Gesù —; di nuovo lascio il mondo e vado al Padre»: ecco l'annuncio della sua prossima ascensione al Cielo; giunto ormai al termine del suo ministero fra gli uomini, Gesù lo presenta in sintesi come un grande viaggio dal Padre al mondo e dal mondo al Padre. Ritorna così il concetto di «pellegrinaggio» che ogni cristiano deve applicare alla sua vita fino a considerarla come «una notte passata in un cattivo albergo» (T.G. Cam. 40, 9), con il cuore rivolto al radioso domani della vita eterna.
 
-che ela sua bell'anima — dice S. Alfonso — senza mai
+«Viene l'ora in cui non vi parlerò più in parabole, ma vi parlerò apertamente del Padre». Ecco l'annuncio della Pentecoste: Gesù, per mezzo dello Spirito Santo, illuminerà i suoi apostoli, facendo loro intendere in modo chiaro i Misteri divini e il Padre non sarà più per essi uno sconosciuto. Tutto quello che noi possiamo studiare e conoscere delle cose di Dio è lettera morta, finché lo Spirito Santo non ce ne dà l'intelligenza. È questo un motivo di più per comprendere quanto abbiamo bisogno di Lui e per desiderare la sua venuta.
 
-fermarsi, sempre volava a Dio e sempre cresceva nell'amarlo ».
+Ma oltre a ciò, il Vangelo di oggi ci propone un altro argomento. Gesù, che più volte aveva istruito gli apostoli sulla preghiera e sul modo di pregare, ora insegna ad essi il segreto della preghiera efficace: «Se voi domanderete qualche cosa al Padre mio in nome mio, Egli ve la darà». Gesù se ne va, ma lascia ad essi il mezzo sicuro per trovare accesso presso il Padre: presentarsi in nome suo, in nome dell'Uomo-Dio che, essendosi immolato per la gloria del Padre e per la nostra salvezza merita di essere sempre esaudito «*pro sua reverentia»,* a cagione della sua pietà *(Ebr.* 5, 7).
 
-2. — La teologia insegna che l'aumento della grazia
-e della carità soil in noi dalle opere meritorie, ossia
-dalle opere buone compiute sotto l'influsso della carità.
-Quando una persona fa le sue opere buone « con tutto il
-cuore», il merito che così acquista — e che consiste sempre in un aumento di grazia e di carità — le viene imme
-diatamente concesso; allora la sua vita spirituale cresce
-subito in intensità. Tenendo presente questa dottrina, si può
-intuire in quale proporzione dovette svilupparsi nell'anima
-di Maria il capitale di carità e di grazia che Bio vi aveva de-
+**2** — Pregare «in nome di Gesù» significa in pratica essere convinti che le nostre preghiere, come del resto tutte le nostre opere buone, nessuna eccettuata, non valgono niente, se non si appoggiano ai meriti infiniti di Gesù. Significa essere convinti che, per quanto facciamo e preghiamo, noi siamo sempre «servi inutili» *(Le.* 17, 10), che non abbiamo in noi alcuna sufficienza, ma che tutta la nostra sufficienza ci viene dal Crocifisso. La prima condizione, quindi, della preghiera fatta «in nome di Gesù» è l'umiltà, un senso sempre più profondo e realistico del nostro nulla. Ma la seconda condizione è una confidenza illimitata nei meriti infiniti di Gesù che oltrepassano tutte le nostre indigenze, miserie, necessità, bisogni. Non chiederemo mai troppo in nome suo; non saremo mai troppo arditi nell'implorare la pienezza della grazia divina sulle anime nostre, nell'aspirare alla santità — nascosta, sì, ma autentica — in vista di quanto Egli ha guadagnato per noi. Non ci sono infedeltà e colpe, cattive tendenze e miserie sinceramente detestate che il Sangue di Gesù non possa lavare, purificare, perdonare; non c'è debolezza che Egli non possa sanare, fortificare, trasformare. Non c'è creatura di buona volontà, per quanto debole e piccola, che nel nome di Gesù non possa aspirare alla santità.
 
-posto dal primo momento della sua esistenza. Quando pensiamo, come fa notare S. Giovanni della Croce, che l’anima
-della Vergine non fu mai mossa, e quindi mai ritardata,
-
-dall'attacco alle creature — e che perciò in lei non vi furono
-mai nè secondi fini umani, nè grettezza derivante da egoismo -— ma che sempre agì puramente sotto l'impulso dello
-Spirito Santo, dobbiamo concludere che Maria crebbe di
-continuo in grazia e carità e che la carità diventò in lei veramente sbigilo In questo modo si spiega come, già santa e già
-stabilita nell'unione‘con Dio fin dalla sua origine, abbia potuto continuamente progredire nella santità, i cui elementi
-costitutivi sono appunto la grazia e la carità. Lo slancio generoso e fedele con cui rispondeva agli inviti divini, andava
-incontro ad ogni manifestazione della volontà di Dio, accettava qualsiasi disposizione della divina Provvidenza e
-compiva tutti i suoi doveri quotidiani, l'ha posta in questo
-magnifico stato d’incessante e rapidissimo progresso nell'amore. L'esempio luminoso di Maria c’incoraggia ad
-applicarci con tutto il cuore al servizio di Dio, affinchè pos
-siamo anche noi crescere rapidamente nella carità.
+Ma si richiede una terza condizione perché la nostra preghiera sia efficace: che la nostra vita corrisponda alla nostra preghiera, che la nostra fede sia vissuta in opere buone. «Siate operatori della parola e non semplici uditori, ingannando voi stessi. Perché se uno ascolta la parola e non la mette in pratica, egli sarà simile a un uomo che mira in uno specchio il nativo suo volto e, dopo essersi mirato, se ne va e dimentica subito quale egli fosse», questa forte esortazione di S. Giacomo, riportata dall'Epistola odierna, è un pressante richiamo alla concretezza della vita cristiana. Vana è la preghiera, vana è la fiducia in Dio, se non l'accompagniamo con i nostri sforzi generosi per adempiere tutti i nostri doveri, per vivere all'altezza della nostra vocazione. Tutto possiamo e dobbiamo sperare nel nome di Gesù, ma Egli ci chiede lo sforzo continuo per essergli totalmente fedeli.
 
 ### Colloquio
 
-«O Maria, Tu hai conosciuto il dono di Dio e non ne
-hai perduto un atomo; Tu così pura, così luminosa da
-sembrare la Luce stessa: Speculum justitiae; Tu la cui
-vita fu così semplice; così perduta in Dio, che non se ne
-può dire quasi nulla: Virgo fidelis, sei la Vergine fedele,
-quella che custodiva ogni cosa nel suo cuore» (E.T. I, 10).
+«Dio onnipotente, Padre del nostro Signore Gesù Cristo, Tu che sei benigno, usami misericordia, poiché quello che potei trovare di più prezioso, devotamente te l'offersi; tutto ciò che mi fu dato di trovare di più caro per te, supplichevolmente te lo presentai. Nulla a me è rimasto, ch'io non abbia presentato in olocausto alla tua maestà; nulla ormai mi rimane da aggiungere, poiché a te inviai la mia speranza, mandai il mio avvocato, ossia il tuo diletto Figlio. Mandai la tua gloriosa progenie, quale mediatore fra te e me; mandai quell'intercessore, pel quale confido di ottenere il perdono. Mandai quel Verbo da te inviato per riparare le mie colpe, ed a te esposi la Passione che per me sostenne il tuo santissimo Figlio. Questa è la Vittima santa, che ti offro per placarti, e per averti propizio. Grande, in verità, è la mia ingiustizia; ma assai maggiore è la giustizia del mio Salvatore. Quanto è Dio superiore all'uomo, altrettanto la mia malizia è inferiore alla sua bontà e per qualità, e per quantità.
 
-O Maria, quale meraviglioso spettacolo è contemplare
-la tua anima crescere incessantemente nell'amore, ascendere senza sosta alle più alte vette della santità! In te nulla
-ritarda l’azione divina, nulla ostacola lo sviluppo della carità. « Chi è costei che sale dal deserto, ricolma di delizie,
-appoggiata al suo diletto?» (Can. 8, 5). Sei Tu, O Dina
-mia, Tu che, sotto la guida dello Spirito Santo e da mi
-sostenuta, sempre sali di grazia in grazia, di virtù in virtù,
-O Madre del Fell'aiore piena di grazia, O Vergine feto,
-aiutami a corrispondere con fedeltà ai doni di Dio! Non
-permettere che la mia miseria renda vana in me la grazia.
-Aiutami Tu, Madre mia, a vincere le innumerevoli resi
-stenze della mia natura fiacca e codarda, attirami col soave
-fascino del tuo esempio, i ti possa seguire con
-
-io nella via della carit: fetta. IRE:
-SA Mae mia, Tu SE ardesti d'amore per
-Iddio, degnati di donarmene almeno una scintilla, Tu
-pregasti il tuo Figlio quegli sposi cui mancava il vino
-dicendo: vinum non Tic e non pregherai per me manchevole come sono di amore di Dio, mentre tanto sono ob
-bligato ad amarlo? Di' pure: amorem non habet. E More:
-trami questo amore. Altra grazia non ti chiedo fuorchè
-questa. O Madre, per quanto ami Gesù esaudiscimi, Dio:
-strami quanto sia tando la grazia che possiedi presso di
-Lui coll’impetrarmi una luce e una fiamma divina così
-potente che mi muti da peccatore in santo e che, staccandomi da ogni affetto di terra, tutto m’accenda del divino
-amore. Fallo, o Maria, chè Tu lo puoi fare Fallo per amore
-
-meno, di rischiare la vita, avrà sempre un valore relativo
-e, comunque, non dà alcuna garanzia della sua fermezza;
-invece, quanto più costa, tanto più vale e tanto più dimostra
-la fedeltà di colui che la rende. Dare a Cristo piena testimonianza, nonostante le difficoltà, le sofferenze, le lotte
-che si possono incontrare, è il programma del vero cri
-stiano, Ma chi ci darà il coraggio? A noi come agli Apostoli
-il coraggio verrà dallo Spirito Santo mediante il dono della
-fortezza, verrà dall’assidua meditazione degli esempi di
-Gesù, verrà inoltre dalla parola stessa del Salvatore che,
-annunciandoci le persecuzioni, ha dichiarato: «Vi ho
-detto queste cose perchè non vi scandalizziate».
-
-Colloquio.
-
-O Signore, fammi degno di renderti testimonianza
-non solo con le parole ma soprattutto con le opere, nonostante le difficoltà e le sofferenze che potrò incontrare.
-Gli Apostoli ti hanno reso testimonianza fino ad affrontare la morte per amor tuo, fa' che io possa rendertela
-almeno con una vita degna di te.
-
-Per renderti testimonianza, o Signore, « vorrei percorrer
-la terra, predicando il tuo nome e piantando sul suolo
-infedele la tua Croce gloriosa, o Diletto! Ma una sola missione non mi basterebbe: vorrei ad un tempo annunziare
-il Vangelo in tutte le parti del mondo e fino alle isole più
-remote. Vorrei essere missionario, non solamente pel corso
-di qualche anno, ma vorei esserlo stato fino dalla.creazione
-del mondo e continuare ad esser tale fino alla consumazione
-dei secoli. Soprattutto, però, io vorrei il martirio...
-
-«Se il mio pensiero si porta ai tormenti inauditi che
-al tempo dell'Anticristo saranno riserbati ai cristiani, sento
-sussultare il mio cuore, e vorrei che quei tormenti mi
-fossero riserbati. Apri, o mio Gesù, il tuo libro di vita,
-nel quale sono riportate le azioni di tutti i santi; queste
-azioni vorrei averle compiute per te!... Ma le grandi opere,
-mi sono vietate, non posso predicare il Vangelo, nè versare
-
-il mio sangue...; che importa?-I miei fratelli lavorano per
-me, mentre io me ne sto vicinissima al tuo trono reale ed
-amo per coloro che combattono» (cfr. T.B.G. St. 11),
+«Qual colpa può avere commesso l'uomo, che non sia stata espiata dal Figlio di Dio fatto uomo? Quale superbia si gonfiò così smisuratamente, da non poter essere atterrata da tanta umiltà? In verità, o mio Dio, se con una bilancia si pesassero i delitti dell'uomo peccatore e la grazia del Dio Redentore, si troverebbe che la differenza è non soltanto come la distanza dall'oriente all'occidente, ma come quella che separa l'inferno dalla sommità dei cieli. Ottimo Creatore della luce, deh, perdonami le mie colpe, per gl'immensi travagli del tuo diletto Figlio! Fa', o Signore, che la sua pietà vinca la mia empietà; la sua modestia soddisfaccia per la mia perversità; dalla sua mansuetudine, sia domata la mia irascibilità. La sua umiltà ripari la mia superbia; la sua pazienza la mia impazienza; la sua benignità la mia durezza; la sua obbedienza la mia disobbedienza; la sua tranquillità, la mia inquietudine; la sua dolcezza la mia amarezza; la sua carità cancelli la mia crudeltà» (S. Agostino).

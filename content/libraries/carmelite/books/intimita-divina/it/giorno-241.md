@@ -1,85 +1,21 @@
-## 241 — LA PROVA DELLA SPERANZA
+## XI — LA GIUSTIZIA INFINITA
 
-### Presenza di Dio
-
-— Dammi, o Signore, una speranza invincibile; insegnami a sperare contro ogni speranza.
+**Presenza di Dio.** — *O Signore, fammi conoscere le bellezze della tua giustizia, insegnami ad amarla con zelo e con fiducia.*
 
 ### Meditazione
 
-1. Diamo prova della saldezza della nostra fede quando
-perseveriamo in essa malgrado le oscurità; diamo prova della
-saldezza della nostra speranza quando non cessiamo di sperare malgrado le circostanze avverse per cui ci sembra talvolta che Dio ci abbia abbandonato. Come è più meritorio
-l'atto di fede fatto in mezzo alle tenebre ed ai dubbi, così
-è più meritorio l'atto della speranza emesso in mezzo alla
-desolazione ed all'abbandono. Le virtù teologali sono il mezzo più adatto e proporzionato per unirci a Dio, e di
-fatto ci uniremo di più a lui quanto più la nostra fede, la
-nostra speranza e la nostra carità saranno pure, intense, pienamente soprannaturali. Proprio per farci giungere a ciò Dio
-ci fa passare attraverso il crogiuolo della prova. Per ogni anima cara a Dio si rinnova, in certo modo, la storia di Giobbe:
-è provato nei beni, nei figli, nella sua persona; è abbandonato
-dagli amici e dalla moglie; da ricco e stimato qual'era, si trova solo, su un letamaio, ricoperto di un'orribile lebbra dalla
-testa ai piedi. Ma, se Dio è buono, se è vero che ci vuol bene,
-perchè permette tutto ciò? Perchè ci lascia soffrire? « Dio
-non ha fatto la morte — dice la S. Scrittura — nè si allieta
-della perdizione dei viventi... Ma gli empi, con la mano e
-con la voce, chiamano la morte » (Sap. 1, 13 e 16). La morte
-e la sofferenza sono conseguenze dei peccati che Dio non
-impedisce perchè vuol lasciare l'uomo libero. E, tuttavia,
-non soffrono solo i peccatori, ma anche gli innocenti:
-perchè? Perchè Dio vuol provarli come si prova l'oro
-nella fornace, perchè vuole purificarli, vuole innalzarli
-ad un bene e ad una felicità immensamente superiori ai
-beni ed alle felicità della terra. Ed ecco che Dio permette la
-sofferenza dei buoni e si serve anche delle conseguenze del
-peccato — guerre, disordini, ingiustizie sociali e private —
-per il maggior bene dei suoi eletti. Resta però che, mentre
-siamo nella prova, non vediamo, non comprendiamo il perchè di essa, Dio non ci dà conto della sua condotta, non ci
-svela i suoi piani e perciò è per noi duro resistere nella fede
-e nella speranza. Duro, ma non impossibile, perchè è certo
-che Dio non manda mai prove superiori alle nostre forze,
-come pure è certo che Dio non ci abbandona mai, se non
-siamo noi i primi ad abbandonarlo.
+**1** — La giustizia, pur sembrando tanto diversa dalla misericordia, è, come questa, un aspetto della santità di Dio, della sua bontà e delle sue perfezioni infinite. Anzi, più precisamente, giustizia e misericordia sono due aspetti diversi — ma inseparabili — di quell'unico amore con cui Dio ama le sue creature. La misericordia è amore, amore infinito del bene e parimenti lo è la giustizia; la misericordia si compenetra con la giustizia e la giustizia con la misericordia. «Appunto perché Dio è giusto, Egli è anche compassionevole», dice S. Teresa del B. G. *(Lt.)*. Dio è misericordioso perché è giusto ed è giusto perché è misericordioso, perché, conoscendo la nostra miseria, si china su di noi con misericordia infinita.
 
+Tuttavia, la giustizia si distingue dalla misericordia, o meglio, la giustizia è l'amore di Dio che ci dà tutto ciò che è necessario al nostro bene, al raggiungimento del nostro fine; la misericordia, invece, è l'amore di Dio che ci dà molto più del necessario. La giustizia, però, non è mai disgiunta dalla misericordia, anzi la suppone perché, ad esempio, Dio non potrebbe provvedere alle necessità della nostra vita — e questo è l'atto della giustizia — se prima non avesse create in noi queste necessità chiamandoci all'esistenza — e questo è l'atto della misericordia. La giustizia, poi, è sempre accompagnata dalla misericordia perché Dio ci dà sempre molto di più di quel che ci sarebbe dovuto: come creature non ci spettava che uno stato di felicità naturale; Dio, invece, ha voluto chiamarci ad uno stato di felicità soprannaturale; per vivere da figli di Dio ci sarebbe bastato il soccorso della grazia, Dio, invece, ha voluto darci anche il grande dono dell'Eucaristia; per redimere il mondo dal peccato sarebbe stata sufficiente una sola goccia del Sangue di Gesù, Gesù, invece, ha voluto morire in croce. Ecco la misericordia che sempre accompagna e sorpassa la giustizia e questa sempre s'intreccia con quella, poiché Dio non sarebbe la giustizia infinita, se non fosse la misericordia infinita, e viceversa.
 
-2. — Il minimo atto di speranza, di fiducia in Dio, formulato in mezzo alla prova, in uno stato di desolazione interiore od esteriore, vale immensamente più di mille atti formulati nel tempo della gioia, della prosperità. Quando soffri nell'anima o nel corpo, quando sperimenti il vuoto dell'abbandono e dell'impotenza, quando sei travagliato da ripugnanze e da ribellioni della natura che vorrebbe scuotere
-il giogo del Signore, non puoi pretendere di avere il sentimento confortante della speranza, della fiducia, anzi, spesso
-ne proverai il sentimento contrario e, tuttavia, anche in questo stato puoi fare atti di speranza e di fiducia, non sentiti,
-ma voluti. Le virtù teologali si esercitano essenzialmente con
-la volontà; quando il sentimento le accompagna, il loro esercizio è soave, consolante; ma quando rimane il puro atto della
-volontà allora questo esercizio è arido e freddo, eppure, non
-per questo è meno meritorio, anzi, può esserlo ancora di più
-e dà molta gloria a Dio. Non devi, quindi, turbarti se non
-senti più la fiducia, ma devi voler avere fiducia, devi voler
-sperare e sperare ad ogni costo, malgrado tutti i colpi che Dio
-t'infligge per mezzo della prova. Allora è il momento di ripetere con Giobbe: « Quand'anche Dio mi uccidesse, in lui
-spererò » (13, 15). Non illuderti di poter passare attraverso queste prove senza dover lottare contro lo scoraggiamento, contro tentazioni di sfiducia e forse anche di disperazione; questa è la reazione della natura che si ribella a ciò
-che la ferisce. Il Signore, che conosce la nostra debolezza,
-non ci condanna, ma ci compatisce. Questo stato non offende
-Dio, purchè tu cerchi sempre dolcemente di reagire con atti
-di fiducia voluta. Ogni volta che l'onda dello scoraggiamento
-tenta di travolgerti, reagisci ancorandoti in Dio con un semplice movimento di fiducia; anche se in certi periodi la tua
-vita spirituale dovesse ridursi a questo esercizio, non avresti
-perduto nulla ma, anzi, avresti guadagnato molto. Proprio
-attraverso queste prove si arriva all'esercizio eroico della fede
-e della speranza; e l'eroismo delle virtù è necessario per arrivare alla santità.
+**2** — La misericordia è l'effusione del sommo Bene che comunica la sua bontà alle creature; la giustizia è lo scudo che difende i diritti di questo sommo Bene che deve essere amato sopra tutte le cose. In questo senso la giustizia interviene quando la creatura, calpestando i diritti di Dio, invece di amarlo e onoraarlo, l'offende. Ecco allora il castigo che punisce il peccatore, castigo che è frutto della giustizia, ma che nello stesso tempo è frutto della misericordia: «perché Dio castiga chi ama» *(Pro.* 3, 12). Dio, infatti, non castiga il peccatore per annientarlo, ma per indurlo alla conversione: è proprio così che in questa vita le misure della giustizia divina sono sempre ordinate all'uso della misericordia, ossia hanno sempre lo scopo di mettere il peccatore in condizione di approfittare della divina misericordia. Perciò, anche quando Dio punisce è sempre misericordioso; i suoi castighi non sono mai solo punizioni, ma sono anche e soprattutto rimedi per sanare le anime nostre dal peccato. Rimangono puramente punizioni soltanto per chi non vuole in nessun modo convertirsi.
+
+Così nella nostra vita spirituale è tutto un alternarsi, un intrecciarsi di misericordia e di giustizia. Per misericordia Dio ci offre la sua amicizia divina, ma per giustizia non può ammettere alla sua intimità l'anima che conserva il minimo attacco al peccato e all'imperfezione e, quindi, la sottopone alle prove purificatrici. Queste prove hanno sempre un duplice scopo: farci riparare le nostre colpe — è questo lo scopo della giustizia — e distruggere in noi le ultime radici del peccato per disporci all'unione con Dio — e questo è lo scopo della misericordia. Dobbiamo, dunque, accettare le nostre prove con umiltà, riconoscendo che le meritiamo, dobbiamo accettarle con zelo ed amore della giustizia volendo rivendicare su di noi i diritti di Dio, diritti che troppo spesso dimentichiamo e trascuriamo; ma dobbiamo accettarle anche con amore perché ogni prova è una grande misericordia di Dio che vuol farci avanzare nella via della santità.
 
 ### Colloquio
 
-« Salvami, o Dio, perchè mi arriva l'acqua sino alla gola!
-Mi trovo immerso in profondo pantano senza punto d'appoggio: sono sceso in fondo all'acqua e la corrente mi travolge.
-Sono stanco di chiamare, ho secche le fauci, ho consunti gli
-occhi in attesa di te, mio Dio. Ma io fo a te la mia preghiera,
-o Signore, implorando un tempo favorevole. O Dio, per la
-tua grande bontà rispondimi con la costanza del tuo soccorso.
-Traimi dal fango perchè non ci affondi; ch'io scampi dai nemici e dal fondo dell'acqua. Esaudiscimi per la tua pietosa
-bontà; per la tua somma clemenza volgiti a me, non nascondermi il tuo volto. Salvami, poichè Tu sei la mia speranza,
-o Signore Iddio! Tu la mia sicurezza sin dall'infanzia, in te
-sempre ho riposto la mia fiducia. O Dio, non startene lontano da me, accorri in mio aiuto. Io soffro, ma sempre spererò in te e abbonderò vieppiù in ogni tua lode. Tu, che mi
-facesti provare grandi angustie e sciagure, ancora mi ridonerai
-la vita e mi farai risalire dai cupi abissi terrestri; accrescerai
-la mia grandezza e continuerai a consolarmi » (cfr. Sal.
-68 e 70).
+«O Signore, Tu mi hai largito la tua misericordia infinita e gli altri tuoi attributi. Essi mi appariscono allora tutti sfavillanti di amore, perfino la tua giustizia; e questa, forse ancora più degli altri, mi sembra rivestita di amore. Quale gioia ineffabile, o Signore, è pensare che Tu sei giusto, che tieni conto delle nostre debolezze, che conosci perfettamente la fragilità della nostra natura! Di che mai potrò dunque temere? Tu, infinitamente giusto, che ti digni di perdonare con tanta misericordia le colpe del figlio prodigo, non sarai giusto anche verso di me che sono sempre con te?
 
-« O Speranza, dolce sorella della fede, tu sei quella virtù
-che con le chiavi del Sangue di Cristo disserri a noi la vita
-eterna. Tu guardi la città dell'anima dal nemico della confusione; e, quando il demonio, con la gravità delle colpe commesse, vuol gettare l'anima nella disperazione, tu non rallenti i tuoi passi ma, tutta virile, perseveri nella fortezza, ponendo nella bilancia il prezzo del Sangue di Cristo. Tu poni
-la corona della vittoria in capo alla perseveranza, poichè sperasti conseguirla in virtù del Sangue » (S. Caterina da Siena).
+«Se è vero che per comparire dinanzi a te, Dio di ogni santità, dobbiamo essere molto puri, so tuttavia che Tu sei infinitamente giusto; e questa tua giustizia, che incute spavento a tante anime, forma l'argomento della mia gioia e della mia confidenza... O Signore, io spero nella tua giustizia ugualmente come nella tua misericordia, perché proprio in quanto sei giusto sei anche compassionevole e pieno di dolcezza, lento nel punire e largo nella misericordia» (T.B.G. *Sr.* 8; *Lt.*).
+
+«Che cosa sarà di me, che devo rimproverarmi una quantità di errori? Ma là dove abbonda il peccato abbonda la grazia. E se la tua misericordia, o Signore, dura in eterno, io canterò senza fine la tua bontà. La tua bontà, la tua giustizia e non la mia; io non ho altra che la tua, poiché tu sei fatto mia giustizia. Dovrò temere che una sola non basti per tutti e due? Ma la tua giustizia è infinita e resta per tutta l'eternità. Dunque, questa giustizia immensa ci coprirà tutti e due, ma in me coprirà la moltitudine dei miei peccati, mentre in te, o Signore, dovrò soltanto nascondere i tesori della tua bontà che mi attendono nelle ferite delle piaghe di Cristo. Qui lo troverò la tua infinita dolcezza, nascosta, è vero, ma nascosta soltanto per quelli che si vogliono perdere» *(cfr.* S. Bernardo).

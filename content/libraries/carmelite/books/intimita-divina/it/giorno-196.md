@@ -1,98 +1,19 @@
-## 196 — MISTERO DI FEDE
+## XXVII — FESTA DELLA SS.MA TRINITÀ
 
-### Presenza di Dio
+*I Domenica dopo Pentecoste*
 
-O Gesù, ti credo e ti adoro presente nel Sacramento dell’altare: aumenta la mia fede.
+**Presenza di Dio.** — *Rendo grazie a te, o Dio, Trinità una e vera, Divinità una e somma, santa ed unica Unità (BR.).*
 
 ### Meditazione
 
-1. — Nel Canone della Messa l'Eucaristia è chiamata
-« Mysterium fidei» e infatti, solo la fede ci può far riconoscere Dio presente sotto le apparenze del pane. Qui, come dice S. Tommaso, i sensi non servono a nulla, anzi, la
-vista, il tatto, il gusto s'ingannano, non avvertendo nell'Ostia consacrata che un poco di pane, Ma che importa?
-Abbiamo la parola del Figlio di Dio, la parola di Cristo
-che ha dichiarato: «Questo è il mio Corpo... Questo è il
+**1** — Dall'Avvento fino ad oggi la Chiesa ci ha condotto a considerare le magnifiche manifestazioni della misericordia di Dio per gli uomini: l'Incarnazione, la Redenzione, la Pentecoste; ed ora indirizza i nostri sguardi alla fonte di tali doni, alla SS.ma Trinità da cui tutto proviene, sì che spontaneo sgorga dal labbro l'inno di riconoscenza espresso nell'Introito della Messa: «Sia benedetta la Santa Trinità e l'indivisa Unità: noi la canteremo poiché ha riversato su di noi la sua misericordia». Misericordia di Dio Padre «che ha talmente amato il mondo da dare per esso il suo Unigenito» (cfr. *Gv.* 3, 16); misericordia di Dio Figlio che per la nostra redenzione si è incarnato ed è morto in croce; misericordia dello Spirito Santo che si è degnato scendere nei nostri cuori per comunicarci la carità di Dio, per farci partecipi della vita divina. Ben a proposito, nell'ufficiatura del giorno, la Chiesa ha inserito la bella antifona d'ispirazione paolina: «*Charitas Pater est, gratia Filius, communicatio Spiritus Sanctus, beata Trinitas!*» (cfr. *II Cor.* 13, 13); il Padre è carità e lo Spirito Santo ne è la comunicazione, ossia la carità del Padre e la grazia del Figlio ci vengono comunicate dallo Spirito Santo che le diffonde nei nostri cuori (cfr. *Rom.* 5, 5). Non si potrebbe meglio sintetizzare la meravigliosa opera della Trinità a beneficio delle anime nostre. L'Ufficio divino e la Messa del giorno sono dunque un vero inno di lode e di riconoscenza verso la SS.ma Trinità, sono come un «*Gloria Patri*» ed un «*Te Deum*» prolungati. E questi due inni, l'uno nella sua compendiosa brevità e l'altro nel suo maestoso alternarsi di lodi, sono veramente gli inni del giorno, destinati a destare nei nostri cuori una profonda eco di lode, di ringraziamento, di adorazione.
 
-mio Sangue» e su questa parola crediamo sicuri; « Credo
-quidquid dixit Dei Filius, nihil hoc verbo Veritatis verius»;
-credo quanto ha detto il Figlio di Dio; nulla è più vero
-di questa parola della Verità (Adoro te devote). Noi crediamo
-diamo certamente nell’Eucaristia, non abbiamo alcun dubbio da opporvi ma, purtroppo, molto spesso dobbiamo riconoscere che la nostra fede è languida, debole, fiacca. Pur
-vivendo vicino ai sacri altari ed abitando forse sotto il medesimo tetto di Gesù Sacramentato, non è difficile rimanere un po' indifferenti, un po' freddi di fronte a questa
-grande realtà, Purtroppo, la nostra natura tanto grossolana,
-un po' alla volta, finisce per abituarsi anche alle cose più
-belle e più sublimi, sì che queste — soprattutto quando
-si trovano facilmente alla nostra portata — non ci fanno
-più impressione, non ci scuotono più; così avviene che, pur
-crediamo nella presenza ineffabile di Gesù nel SS.mo Sacramento, non avvertiamo la grandezza di questa realtà,
-non ne abbiamo il senso vivo, concreto che ne avevano i
-santi. Ripetiamo dunque anche noi, con molta umiltà e
-confidenza, la bella preghiera degli Apostoli: « Domine,
-adauge nobis fidem », Signore accresci a noi la Fede! (Lc.
-17, 5).
-
-2. — Quando Gesù annunziò l'Eucaristia, molti dei
-suoi uditori si scandalizzarono e parecchi dei suoi discepoli,
-che fino a quel momento l'avevano seguito, «si ritrassero
-e non andarono più con lui» (Gv. 6, 67). Pietro, invece,
-a nome degli Apostoli diede questa bellissima testimonianza
-di fede; «Signore, da chi andremo? Tu solo hai parole di vita eterna. Noi
-abbiamo creduto e conosciuto che Tu sei il Cristo Figlio di
-Dio» (Gv. 6, 69 e 70). La fede nell'Eucaristia ci appare,
-così, come la pietra di paragone dei veri seguaci di Gesù
-O quanto più questa fede è intensa, tanto più rivela un’amicizia intima e profonda con Cristo. Chi, come Pietro, crede
-fermamente in luî, crede ed accetta tutte le sue parole, tutti
-i suoi misteri: dall'Incarnazione, all'Eucaristia. Sappiamo
-
-
-che la fede è anzitutto dono di Dio. Proprio nel discorso
-in cui ha promesso l'Eucaristia — che più degli altri è
-un mistero di fede perchè, più degli altri, sfugge ad ogni
-legge naturale — Gesù ha affermato ripetutamente questo
-principio, dichiarando ai giudei increduli che nessuno può
-andare a lui, e quindi credere in lui, se «non è attratto
-dal Padre» (Gv. 6, 44; cfr. ivi, 66) ed ha aggiunto: «ed
-essi saranno tutti ammaestrati da Dio» (ivi, 45). Per avere
-una fede viva e profonda nell'Eucaristia — come in ogni
-altro mistero — occorre questa «attrazione », questo «ammaestramento interiore» che può venire solo da Dio; e al
-quale, però, possiamo e dobbiamo disporci, sia sollecitandone la grazia con una preghiera umile e fiduciosa, sia esercitandoci attivamente nella fede. Infatti, avendo Dio infuso in noi questa virtù nel S. Battesimo ed essendo la
-fede un'adesione volontaria dell'intelletto alle verità rive
-late, possiamo fare atti di fede quando vogliamo: sta a noi
-voler credere e portare in questo atto tutta la forza della
-nostra volontà. A misura che la fede crescerà in noi, ci renderà capaci di penetrare le profondità del mistero cucaristico, di entrare in rapporti vitali con Gesù Ostia, di godere
-della sua presenza. E, quanto più la nostra fede sarà intensa,
-tanto più si manifesterà anche nel nostro contegno di fronte
-al SS.mo Sacramento; guardandoci dal tabernacolo, Gesù
-non deve aver mai motivo di rivolgerci l'accorato rimprovero: «uomini di poca fede» (Mt. 8, 26), che rivolse più
-volte agli Apostoli e che oggi meriterebbero molti cristiani,
-per nulla rispettosi della sua divina presenza. Il nostro contegno davanti al SS.mo Sacramento sia sempre tale da essere una viva testimonianza della nostra fede.
+**2** — Ma la festa odierna ci porta a lodare ed a magnificare la SS.ma Trinità non solo per le immense misericordie che ha elargito agli uomini, ma anche e soprattutto in Sé stessa e per Sé stessa. Per il suo Essere supremo che mai ha avuto principio e mai avrà fine; per le sue perfezioni infinite, per la sua maestà, bellezza e bontà essenziale; per la sublime fecondità di vita per cui incessantemente il Padre genera il Verbo e dal Padre e dal Verbo procede lo Spirito Santo e tuttavia il Padre non è anteriore, né superiore al Verbo, né il Padre ed il Verbo sono prima dello Spirito Santo od a Lui maggiori, ma le Persone divine sono tutte e tre coetérne ed uguali fra loro; per la Divinità e tutte le perfezioni ed attributi divini che sono unici ed identici nel Padre come nel Figlio e nello Spirito Santo. Che cosa può dire e comprendere l'uomo di fronte ad un così sublime mistero? Nulla! Eppure quel che ne sappiamo è certo, perché lo stesso Figlio di Dio «l'Unigenito, che è nel seno del Padre, ce l'ha fatto conoscere» *(Gv.* 1, 18), ma il mistero è talmente sublime e superiore alla nostra comprensione per cui non possiamo che chinare il capo ed adorare in silenzio. «O profondità della ricchezza e sapienza e conoscenza di Dio! come sono imperscrutabili i suoi giudizi, e impenetrabili le sue vie!» esclama S. Paolo nell'Epistola del giorno, lui che, essendo stato rapito «sino al terzo cielo», non ha saputo né potuto dir altro fuorché di aver udito «parole ineffabili che non è lecito ad uomo di proferire» *(I Cor.* 12, 2-4). Di fronte all'altissimo mistero della Trinità si sente realmente che la lode più bella è il silenzio, il silenzio dell'anima che adora, riconoscendosi incapace di esprimere una lode adeguata alla Maestà divina.
 
 ### Colloquio
 
-«Ti lodo e ti ringrazio, o fede benedetta! tu mi fai sapere e mi assicuri che nel Santo Sacramento dell’altare, in
-quel Pane celeste non vi è pane, ma ci sta tutto il mio Signore Gesù Cristo e vi sta per amor mio.
+«O Trinità eterna, Tu sei un mare profondo, nel quale quanto più cerco, tanto più trovo, e quanto più trovo, tanto più cerco di te. Tu sazi in un modo insaziabile, perché Tu sazi così l'anima nel tuo abisso, che lei rimane sempre famelica; e, affamata di te, o Trinità eterna, desidera di vedere il tuo lume nella tua luce. Come il cervo desidera la fonte dell'acqua viva, così l'anima mia desidera di uscire da questo corpo tenebroso, e vedere te in verità come Tu sei.
 
-«O Gesù, come un giorno, pieno di bontà e di ‘amore,
-Tu sedevi presso una fonte ad attendere la Samaritana per
-convertirla e salvarla, così ora, nascosto nell’Ostia consacrata, te ne stai sui nostri altari, aspettando ed invitando
-dolcemente le anime per conquistarle al tuo amore. E sembra che dal tabernacolo ci parli e dica a tutti: “O uomini,
-perchè non venite e non vi accostate a me che tanto vi
-amo? Non sono venuto qui per giudicare, ma mi son nascosto in questo Sacramento di amore solo per beneficare
-e consolare chi a me ricorre’. Ti comprendo, o Signore,
-l'amore ti ha reso nostro prigioniero, l'amore appassionato
-che ci porti ti ha legato in tal modo che notte e giorno non
-ti lascia mai partire da noi.
+«O abisso! O Deità eterna! O mare profondo! E che potevi darmi di più, che darmi te stesso? Tu sei fuoco che sempre ardi; Tu consumi e non sei consumato; Tu sei il fuoco che consumi col tuo calore ogni amore miserabile dell'anima. Tu sei fuoco, che togli ogni freddezza, e illumini le menti col tuo lume, col quale lume mi hai fatto conoscere la tua Verità. Veramente questo lume è un mare che nutrisce l'anima, fino a che sia tutta immersa in te, o Mare pacifico, Trinità eterna! L'acqua di questo mare non è torbida, e perciò non dà timore, ma dà conoscenza della Verità. Quest'acqua è trasparente e manifesta le cose occulte, onde dove abbonda l'abbondantissimo lume della tua fede, l'anima è quasi fatta certa di quello che crede.
 
-«O Signore, Tu trovi le tue delizie nel restare con
-noi; e noi troviamo le nostre nello stare con te? Le troviamo
-specialmente noi che abbiamo l'onore di abitare tanto vicino ai tuoi altari, di abitare forse nella tua stessa casa? Oh,
-quante freddezze, indifferenze ed anche ingiurie devi soffrire in questo Sacramento, mentre Tu stai in esso per assisterci con la tua presenza!
-
-«O Dio Sacramentato, o Pane degli Angeli, o cibo divino, io ti amo; ma nè Tu nè io siamo contenti del mio
-amore. Ti amo, ma ti amo troppo poco! Fa’, o Gesù, che
-il mio cuore si spogli di tutti gli affetti terreni e faccia posto, anzi dia tutto il posto al tuo amore, Per innamorarmi
-tutto di te e per unirti tutto a me, ogni giorno Tu scendi
-dal Cielo sull'Altare; è dunque giusto che io non pensi ad
-altro che ad amarti, ad adorarti, a darti gusto. Ti amo con
-tutta l'anima mia, ti amo con tutti gli affetti miei. E se mi
-vuoi pagare questo amore, dammi maggiore amore!»
-(S. Alfonso).
+«Tu sei il sommo e infinito Bene: bene sopra ogni bene, bene felice, bene incomprensibile, bene inestimabile; Bellezza sopra ogni bellezza, Sapienza sopra ogni sapienza, perché Tu sei la sapienza stessa. Tu, cibo degli Angeli, ti sei dato con fuoco d'amore agli uomini; Tu, vestimento che ricopre la mia nudità, pasci noi, affamati, con la tua dolcezza, perché sei tutto dolce senza nulla di amaro. Rivestimi, o Trinità eterna, rivestimi di te stessa, perché io passi questa vita mortale nella vera obbedienza e nel lume della fede sustainatami di cui hai inebriata l'anima mia» (S. Caterina da Siena).

@@ -1,89 +1,21 @@
-## 233 — L'ONNIPOTENZA
+## III — LA COMPASSIONE DI GESÙ
 
-### Presenza di Dio
+*VI Domenica dopo Pentecoste*
 
-O Dio onnipotente, metti in atto la tua onnipotenza infinita per convertirmi totalmente al tuo amore.
+**Presenza di Dio.** — *O Gesù, Signore e Padre mio, abbi compassione della povera anima mia e sostentala con la tua grazia.*
 
 ### Meditazione
 
-1. — «Io sono Dio onnipotente» (Gen. 17, 1). Dio
-stesso si è presentato ad Abramo come il Dio onnipotente, che
-può fare tutto ciò che vuole, tutto ciò che la sua sapienza
-infinita vede possibile, e può farlo come vuole, quando vuole,
-senza nessuna limitazione: « Tutto ciò che vuole il Signore
-lo fa: in cielo, in terra, nei mari e in tutti gli abissi » (Sal
-134, 6). Niente può ostacolare la sua azione, niente può opporsi al suo volere, niente gli è difficile. Le nostre opere, anche le più semplici, richiedono tempo, fatica, materiale adatto, collaborazione; le opere di Dio, anche le più grandi, si
-compiono in un solo istante, per un semplicissimo atto della
-sua volontà. Dio è così onnipotente che con una sola parola ha
-tratto dal nulla tutte le cose: e fiat» e la luce e i cieli, la terra e
-i mari e l'universo intero sono stati fatti. Le nostre parole sono
-suono vano che si disperde nell'aria senza nulla produrre; la parola di Dio, invece, è onnipotente, creatrice, operatrice, sì
-sì da produrre infallibilmente tutto ciò che esprime. Dio è
-così onnipotente che, avendo creato l'uomo libero, lo governa e lo regge secondo il suo beneplacito senza ledere per
-nulla la sua libertà. Dio è così onnipotente da trasformare gli
-uomini, figli del peccato, in suoi figli adottivi, partecipi della sua vita divina. Dio è così onnipotente da ricavare il bene
-anche dal male. L'onnipotenza di Dio è sempre in atto, sempre attiva, sempre all'opera, senza mai stancarsi; e questa onnipotenza grandiosa, infinita, eterna è totalmente al servizio
-della sua bontà infinita o, meglio, è la stessa bontà infinita
-che può fare tutto il bene che vuole. Come abbiamo bisogno del soccorso di questa onnipotenza noi, così deboli,
-che, pur vedendo e volendo il bene, tanto spesso siamo incapaci di farlo!
+**1** — Un pensiero affiora in modo speciale dalla liturgia del giorno e la domina tutta: il Signore è il Padre misericordioso che ha compassione di noi e nutre le anime nostre. L'anima nostra è sempre affamata, ha sempre bisogno di alimentare, di sostenere la sua vita soprannaturale; solo Dio può darci il nutrimento adatto, ed ecco che oggi la Chiesa ci fa rivolgere a lui questa bella preghiera: «O Dio delle virtù, semina nel nostro cuore l'amore... aumenta il nostro spirito di religione... nutri in noi tutto ciò che è buono e conserva quel che hai nutrito» (Colletta). Il Padre celeste accoglie benigno la nostra supplica e ci risponde indirizzandoci al suo Figlio divino, al suo Unigenito che ha mandato al mondo affinché in lui avessimo la vita. Proprio nell'Epistola S. Paolo ci ricorda che, «come siamo stati battezzati nella morte di Cristo», così in lui siamo «risorti in novità di vita» e in lui possiamo «vivere a Dio». In Gesù, dunque, nella sua redenzione, troviamo tutto ciò di cui abbiamo bisogno per alimentare la vita delle anime nostre: troviamo la grazia, l'amore, la fede, il sostegno ai nostri buoni propositi, proprio come avevamo chiesto nella Colletta. È una grande gioia per noi sentirci ripetere che siamo risorti in Cristo a «novità di vita»; è un grande conforto per la nostra debolezza. Tuttavia, rimane un punto oscuro: ma allora, perché continuiamo a ricadere, perché ci ritroviamo sempre tanto miserabili? Una più attenta lettura dell'Epistola ce ne fa scoprire il motivo: perché non siamo del tutto «morti» con Cristo, perché in noi «l'uomo vecchio» non è stato ancora «crocifisso» fino al punto «da non essere più schiavi del peccato». In una parola, se vogliamo vivere in pieno la vita che Cristo ci ha conquistato con la sua morte, dobbiamo prima morire con lui. E, poiché si tratta, non della morte materiale del corpo, ma di una morte spirituale ai nostri difetti, alle nostre passioni, questa morte deve continuamente rinnovarsi: «*quotidie morior*» *(I Cor.* 15, 31), ogni giorno muoio a me stesso. La debolezza della nostra vita spirituale dipende dall'insufficienza della nostra morte.
 
-2. — Dio è l'unico onnipotente, l'unico che possiede la
-potenza per sua natura; noi invece — come tutte le altre
-creature — siamo impotenti, incapaci di qualsiasi cosa. Il
-sole non può splendere, il fuoco non può ardere, il fiore non
-può sbocciare e noi non possiamo neppure fare un passo senza il concorso dell'onnipotenza divina. E' la grande verità
-che Gesù ci ha insegnato con le parole: «Senza di me non
-potete far nulla » (Gv. 15, 5).
+**2** — Al Vangelo ascoltiamo le parole buone di Gesù: «Ho compassione di questo popolo». Gesù ha compassione di noi, delle nostre debolezze, della nostra fiacchezza, dell'indecisione della nostra volontà. Vede le anime nostre stanche, affamate, bisognose di aiuto e, come un giorno alle folle, accorre ad ascoltarle, ripete anche a noi: «Ho compassione!». La compassione di Gesù si rivolge anzitutto ai nostri bisogni spirituali; ad essi ha già provveduto largamente con la sua Passione e Morte, tuttavia vuol continuare a provvedervi ogni giorno nel modo più personale e più diretto offrendosi in cibo alle anime nostre. Il Vangelo ci parla della seconda moltiplicazione dei pani, ma a noi, più fortunati delle folle della Palestina, Gesù ha riserbato un pane infinitamente più prezioso: l'Eucaristia.
 
-La nostra potenza, la nostra capacità non ha in noi la sua
-radice, ma unicamente in Dio: « la nostra sufficienza viene
-da Dio» (Il Cor. 3, 5), dice S. Paolo. Pensiero questo che
-ci deve tenere molto umili: se qualche cosa possiamo e sappiamo fare, non è per virtù nostra, ma unicamente perchè
-Dio ci ha messi a parte della sua potenza divina; abbandonati a noi stessi, non saremmo capaci neppure di formulare
-un pensiero o di articolare una parola. D'altra parte, questa
-nostra radicale impotenza non ci deve avvilire perchè Dio,
-bontà infinita, come ci ha comunicato l'essere, come ci ha
-comunicato la sua bontà, così ci comunica la sua potenza e,
-anzi, è disposto a comunicarcela maggiormente quanto più ci
-vede umili e convinti della nostra impotenza, E' così che Dio
-si diletta a scegliere gli umili, «le cose vili e spregevoli del
-mondo, cose che non son nulla» (I Cor. 1, 27), per compiere le opere più grandiose. E' così che S. Teresa d'Avila poteva dire: « Teresa da sola non può nulla, ma con Gesù può
-tutto», e S. Paolo: «Ogni cosa posso in Colui che mi dà
-forza » (Fil. 4, 13). La ragione di tanti nostri insuccessi nel
-bene, nelle opere di apostolato e nel progresso della virtù
-sta proprio nel non appoggiarci abbastanza all'onnipotenza
-divina. Facciamo troppo assegnamento sui mezzi umani e
-troppo poco sul soccorso di Dio onnipotente. E' vero che non
-dobbiamo rimanere inerti ad attendere l'aiuto divino, è vero
-che dobbiamo fare tutto ciò che è in nostro potere, tuttavia
-non dobbiamo mai aspettarci la riuscita dalle nostre industrie e fatiche, ma unicamente dall'aiuto della divina onnipotenza.
+Affascinate dalla parola di Gesù, le folle l'avevano seguito tre giorni dimenticando perfino le loro necessità: da tre giorni stavano con lui e non avevano nulla da mangiare. Quale lezione per noi, troppo spesso ben più solleciti del cibo materiale, anziché di quello spirituale! E Gesù, dopo aver provveduto largamente ai bisogni del loro spirito, pensa anche a quelli del corpo. I suoi discepoli, invece, fanno le meraviglie: «Come è mai possibile trovare qui, in un deserto, pane abbastanza per sfarnarli?». Essi avevano già assistito alla prima moltiplicazione dei pani, ma sembra che ora non la ricordino affatto e rimangono diffidenti. Quante volte anche noi abbiamo toccato con mano i miracoli della grazia, i miracoli della divina Provvidenza! Eppure, non è raro che di fronte a nuovi casi difficili od oscuri rimaniamo titubanti; sembra quasi che mettiamo in dubbio l'onnipotenza di Dio. Pensiamo, ad esempio, alla nostra vita spirituale: ci sono ancora dei punti morti da vincere, da superare... abbiamo provato dei metodi e forse ora non abbiamo più il coraggio di ritentare. Oh, se avessimo maggior fede, se ci slanciassimo in Dio con maggiore confidenza! Basterebbe forse un bell'atto di fiducia piena per conseguire la vittoria. Gesù ci guarda e ci ripete: «Ho compassione di questo popolo» e la sua compassione non è sterile, ma è azione vitale, ma è soccorso e grazia attuale per l'anima nostra: perché, dunque, non abbiamo maggior fiducia in lui?
 
 ### Colloquio
 
-« L'onnipotente tua mano, o Signore, creò in cielo gli
-angeli e sulla terra i vermiciattoli e non fu superiore nel
-creare quelli, nè inferiore nel creare questi. Come nessun'altra mano potrebbe creare l'angelo, così nessuna può creare
-il vermiciattolo; come nessuna potrebbe creare il cielo,
-così nessuna può creare la minima foglia d'albero, nè alcun
-corpo, ma soltanto la tua mano può queste cose; la tua mano,
-alla quale tutto è ugualmente possibile. Nè a te è più facile
-creare il verme che l'angelo, ma tutto quello che Tu volesti
-fu fatto in cielo ed in terra, nel mare e in tutti gli abissi.
+«Ah, Signor mio! Il tuo aiuto mi è assolutamente necessario: senza di te non posso proprio far nulla. Per la tua misericordia, o Signore, non permettere che la mia anima si lasci ingannare abbandonando la strada incominciata. Dammi luce per riconoscere che ogni mio bene dipende dal perseverare...
 
-« Tu creasti dal nulla tutte le cose, le quali facesti con
-la sola tua volontà; Tu possiedi ogni tua creatura senz'alcuna indigenza, la governi senza fatica, la reggi senza tedio
-e nulla v'ha che turbi l'ordine del tuo impero, nè in alto, nè
-in basso. Tu non sei autore del male che non puoi fare,
-benchè nulla vi sia che Tu non possa; nè mai ti pentisti
-di ciò che avevi fatto, nè sei turbato da alcuna tempesta o
-commozione dell'animo, nè i pericoli di tutta la terra possono
-riuscire a tuo danno» (S. Agostino).
+«Fammi comprendere che la mia fede in te deve predominare la mia miseria e che non devo mai spaventarmi della mia debolezza. O Gesù, ricordo che anche Tu nell'orto hai detto: 'la carne è inferma'; devo quindi lasciare che la carne faccia il suo ufficio senza sgomentarmi. Se anche Tu, che sei senza peccato, hai sperimentato la debolezza della natura umana, come vorrei io essere tanto forte da non sentire alcun timore? O Signore, non voglio, dunque, preoccuparmi delle mie paure, né perdermi di coraggio per la mia debolezza. Voglio, invece, confidare nella tua misericordia, diffidando affatto delle mie forze, convinta che la mia debolezza deriva tutta dall'appoggiarmi su di me» (cfr. T.G. M. II, 6; P. 3, 10 e 12).
 
-«Mi rallegro, o Signore, che la tua onnipotenza sia posta
-nelle mani della tua giusta ed amorosa volontà, perchè tutto
-quanto procederà da tal volere e potere sarà buono ed utile
-per me e tornerà a gloria del tuo nome. O Dio uno e trino,
-tanto saggio quanto potente e tanto potente quanto buono,
-e in tutto infinito, illumina il mio intelletto con la tua sapienza, rendi buona la mia volontà con la tua sovrana bontà,
-fortifica le mie potenze con la tua meravigliosa potenza, affinchè io ti conosca, ti ami e ti serva con fortezza» (Ven.
-L. Da Ponte).
+«A te, o Signore, io ricorro; ch'io non rimanga giammai deluso; salvami per la tua giustizia. Porgi a me orecchio, liberami tosto. Fammi da rocca di rifugio, da luogo di riparo ove pormi in salvo; poiché mia rocca e mio riparo sei Tu; per amore del tuo Nome, assistimi e guidami. Nelle tue mani rimetto il mio spirito; Tu mi hai riscattato, o Signore, Dio fedele. Avrò da gioire e rallegrarmi del tuo favore, perché Tu, vedendo la mia miseria, conoscendo l'angoscia dell'animo mio, non mi abbandonerai in balìa del nemico, ma mi farai mettere il piede in salvo... Io confido in te, o Signore, salvami per la tua pietà! Ch'io non sia deluso d'averti invocato... perché gran bene Tu riserbi a chi ti teme e concedi a chiunque si rifugia in te. Confortatevi e animatevi di coraggio, voi tutti che sperate nel Signore» (cfr. *Sal.* 30).

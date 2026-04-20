@@ -1,109 +1,111 @@
-## 133 — THE MEEK LAMB
-*Holy Tuesday*
+## 99 — VENIAL SIN
 
 ### Presence of God
 
-O Jesus, grant me the grace to penetrate the abyss of sorrow carved by sin in Your most meek Heart.
-
 ### Meditation
 
-1 — In the Epistle of today's Mass, Jeremiah (11:18-20)
-speaks figuratively of the suffering Savior: "I was
-like a meek lamb led to be
-slain." This phrase expresses Jesus' attitude
-before the bitterness of His Passion, bitterness that
-He already knew one by one in all their most concrete
-details, that He had already tasted beforehand in His Heart, and that did not leave Him for a single instant during His earthly existence.
-If in its historical, material reality
-the Lord's Passion unfolded in less than 24 hours, in its
-spiritual reality it lasted through the whole span of His
-life.
+1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
+opposite to it, with the consequence of diminishing its
+impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
+God.
 
-Jesus knew what He was going to meet; His Heart
-felt all the torment of it; and yet He not only accepted,
-but ardently desired that hour, "His hour," and gave Himself into His enemies' hands with the meekness of
-a lamb led to sacrifice. "I had to abandon
-my house," He still tells us through
-Jeremiah, "...I gave my beloved soul into the hand of my
-enemies" (BR.). Judas betrayed Him, His enemies dragged
-Him before tribunals, condemned Him to death,
-horribly tore His body, yet Jesus, even
-in the Passion, always remains God, always remains Master,
-the Lord: "I have power to lay down my life and to take it up again," the liturgy sings at today's Vespers...
-(BR.). Jesus went to the Passion because "He willed it"
-(Is. 53:7) and He willed it because, as He Himself said,
-"this is the command He received from the Father" (Jn. 10:18).
-
-But while willing it, He tasted all its bitterness:
-"Pains of death have surrounded me... I have suffered reproaches and terrors from those who were my friends... O God of Israel, for You I bear opprobrium, and shame covers
-my face" (BR. and MR.). Let us try to penetrate these
-sacred texts that today the liturgy presents precisely to make us understand something of Christ's most bitter Passion.
+This kind of venial sins, when committed habitually,
+diminish the soul's tendency toward God and instead increase the tendency toward selfish
 
 
-2 — In today's Mass, the "Passion" written
-by St. Mark is read (14:1-72; 15:1-46), the disciple of Peter.
-No other evangelist described so minutely Peter's
-denial: it is the humble confession the chief of
-the Apostles makes of himself through his disciple. During
-the Last Supper, when Jesus had foretold to the Apostles
-that that night they would abandon Him, Peter had
-protested with all the vivacity of his ardent character:
-"Even if all are scandalized because of You, I will not be." And in vain had the Master foretold his desertion, designating its most minute particulars:
-"This night, before the cock crows the second
-time, you will deny me three times"; too much self-confidence
-had made him blind, preventing him from believing Jesus' words and from doubting at least a little his own strength. "Even if I should have to die with You, I will not deny You"; Peter
-was sincere in his assertion, but he sinned by presumption;
-he had not yet had practical experience of
-human misery and weakness, by which no one, not even
-the most courageous man, can, without divine help, remain faithful to duty. In Gethsemane he will make the first
-experience, when he too, like the others, will not
-be able to keep watch "one hour" with the Master; he will make
-the second when, at Jesus' arrest, he will flee full
-of fear. But these two experiences will not be enough to
-break his presumption; a third will be needed,
-the most painful.
+satisfaction, toward creatures. And thus, little by little,
 
-In the courtyard of Caiaphas's palace - where,
-recovering from his first fright, he had gone to see how things would end - Peter is recognized by a maid as a disciple of Jesus; but, seized by fear of being involved
-in the trial, he immediately denies Him, saying: "I do not know Him."
-Having slipped once, he no longer knows how to recover and, questioned again, denies a second and a third time. "Immediately the cock crowed and the Lord turned and looked at him";
-that crowing and even more that look full of love and
-sorrow make him come back to himself, and "having gone out,
-he wept bitterly" (Lk. 22:62). The blindfold of presumption falls from his eyes and Peter, who truly
-loves Jesus, recognizes his weakness, his fault. The Master's love
-and gaze have saved him. And now
-that Peter no longer trusts in himself, Jesus will be able to trust
-him and entrust His flock to him. As long as a soul trusts in
-itself, it is not mature for its sanctification,
-nor for effectively cooperating in others' sanctification.
+
+the soul loses fervor, loses sensitivity to offense against
+God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
+an indifference that puts it in danger of offending God
+even in grave matter. It is in this sense that venial sin
+can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
+undermines the organism. It is not rare to find
+souls who, having at first given themselves to God with sincere
+fervor, over time, yielding to selfishness, laziness,
+their own comfort, and not knowing how to impose generous efforts
+upon themselves to proceed on the path undertaken, let themselves
+go to continual negligences, listlessness, voluntary omissions,
+acts of laziness. Their spiritual life is reduced
+to a kind of lethargy that is not yet death, but
+has no longer anything of the freshness and vigor of a
+healthy and robust life. The fervor of charity is lacking,
+extinguished by continual, deliberate compliances with venial sin.
+St. Teresa of Jesus, warning against such a state,
+teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
+the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
+however small... And what can ever be small in
+offending a Majesty so great?" (P. 2,
+5 and 20; Way 41, 3).
+
+
+2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
+wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
+by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
+of the Lord, rises again, and sets out once more. Such
+
+
+sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
+Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
+which will lead it to distrust its own strength totally,
+
+
+to place in God alone all its trust. It will experience
+in practice the great reality of Jesus' words: "Without
+Me you can do nothing" (Jn. 15, 5). Not infrequently the
+Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
+seriously in humility, which is the basis of all spiritual life.
+
+St. Therese of the Child Jesus, speaking of such faults,
+believed she could assert that they "do not displease
+the Lord," precisely because they do not depend on bad
+will, which with open eyes and a cool mind
+commits sin, but rather on the weakness of human
+nature.
+
+If because of our weakness it is impossible not to fall
+every day into some venial faults of surprise or fragility,
+what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
+must be firmly resolved never to commit one for all
+the gold in the world.
 
 ### Colloquy
 
-"O God of my soul, how ready we are to offend
-You! And how much more ready You are to forgive us. But what
-do You say, Lord! 'Pains of death have surrounded me.' Alas!
-How great an evil sin is, if it was enough
-to kill a God amid such horrible sufferings! And how, even
-today, You are surrounded by it, Lord! What place is there where You
-do not find sorrow? On every side men cover You
-with wounds.
+"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
+has kept me Your spouse, although through my defects
+I have always been unfaithful to You. Peccavi, Domine, miserere mei.
+O my soul, and what are you doing? Do you not know that
+you are continually seen by God? Know that from His
+eye you can never hide, because nothing is hidden from Him... O eternal God,
+O compassionate and merciful Father, have pity and mercy
+on us, because we are blind and without any
 
-"Christians, it is time to defend your King and keep Him company in His desolate solitude. How few,
-O Lord, are the vassals who have remained faithful to You!... And
-the worst is that You have those who, while publicly showing themselves Your friends, in secret sell You. And
-You hardly know in whom to trust.
 
-"O sincere Friend, how badly is one paid who betrays You!
+light, especially I, poor and miserable... O You,
+true sun, enter my soul and illumine it with Yourself.
+Drive out its darkness and give light; destroy the frost of self-
+love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
 
-"O true Christians, come to weep with your God!
-The tears of compassion He shed at Lazarus's tomb
-were not only for him, but for all those
-who would refuse to rise again despite His call.
-Then, my Good, You had before You also the sins that I would commit against You. But let them now cease,
-let mine cease and those of others too! Make these
-dead rise. May Your voice, Lord, be so powerful
-as to give them life, even if they do not ask for it. Not even
-Lazarus asked You to be raised, yet You raised him at a sinner's prayers. Here is another,
-my God, and far guiltier than that one. Let
-Your mercy then shine: I ask it of You,
-despite my misery, and for those who do not wish to ask You for it" (T.G. Es. 10).
+"May it please You, O Lord, that I fear only
+offending You, convinced that greater harm can come to me
+from one deliberate venial sin than from all
+hell" (T.G. Life 25, 20). In fact, the true evil, the only
+one I must fear, is neither temptation nor trials,
+nor interior and exterior contradictions, nor loss of material
+goods or bodily health; but true evil is what
+can in any way hinder my union with You, my
+supreme Good! And this evil, I understand, can be
+caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
+free me from so great an evil, take from me the sad ability to
+offend You, and if by my native weakness it is impossible
+for me to be exempt from every fault, grant that these may
+never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+
+"Yes, because of my misery I fall very often, often I
+allow myself to be distracted from my one occupation, I move away
+from You, I wet my poor little wings, scarcely formed,
+in the miserable puddles of water I find on this earth! Then
+I groan like the swallow, and my cry tells You all,
+and You, infinite Mercy, remember that You did not come
+to call the just, but sinners" (T.B.G. St. 11).

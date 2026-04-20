@@ -1,43 +1,31 @@
-## 306 — BLESSED ARE THE PURE OF HEART
+## 306 — THE GIFT OF FEAR
 
 ### Presence of God
 
-Increase, O Lord, purity of my heart and mind so that I may know You ever better.
+O Lord, grant that I may fear only one thing: to displease You and separate myself from You.
 
 ### Meditation
 
-1. — To gift of understanding corresponds beatitude: "Blessed are the clean of heart, for they shall see God" (Mt. 5:8). There is first purity of heart that is indispensable condition for abundant influence of gift of understanding. It is purity resulting not only from absence of sin, but also from even smallest earthly affections.
+1. — The Holy Spirit invites us to his school: "Come, children, hearken to me: I will teach you the fear of the Lord" (Ps. 33:12). This is the first lesson the divine Paraclete imparts to the soul desirous of holiness, a most important and fundamental lesson because, by infusing hatred of sin — the greatest obstacle to union with God — it assures growth of spiritual life. In this sense Sacred Scripture says: "The beginning of wisdom is the fear of God" (Sir. 1:16).
 
-It is a fact God does not communicate Himself totally to creature unless it has total purity of heart, that is, unless it reserves for Him whole affective capacity. As long as some attachment to creatures remains in us, some search for their affection, some complacency in being loved by them, our heart is not pure enough to enjoy divine communications.
+To educate us in fear of God, the Holy Spirit, rather than setting before us the vision of punishments due to sin, rather than presenting God as severe judge, shows us God as most loving Father, infinitely desirous of our good, and presents the moving picture of his benefits and mercies. "God has loved you with an everlasting love and therefore has drawn you to Himself," He whispers in the depths of our soul. "You are not servant, but friend, but son" (cf. Jer. 31:3; Jn. 15:15).
 
-Therefore, before introducing soul into penetration of his mysteries, God subjects it to purification of affections. These are detachments, tearings that at times cost blood, but if accepted generously they finish unbinding heart from creatures and render it completely free for Creator.
+Thus, seized by love for so good a Father, the soul desires nothing more than to return his love, to please Him, and to live always united to Him. Consequently, it fears nothing more than sin, which saddens God and has the sad power to separate it from Him. What a difference between this filial fear, fruit of love, and servile fear, fruit of fear of punishment! True, fear of judgment and divine punishments is also salutary and in certain cases can greatly help restrain the soul from sin. Yet if it does not little by little change into filial fear, it will never suffice to impel the soul to holiness. Pure servile fear chills the soul and makes it narrow; filial fear enlarges it, launching it on the way of generosity and perfection.
 
-If God makes us pass through these trials, let us not draw back, let us not flee his action, but cooperate with it, fully persuaded He reserves fullness of his gifts and light only for souls pure from every shadow of creature, only for hearts wholly belonging to Him. In this sense one may truly say vision of God is reward promised to pure of heart.
+2. — The gift of fear perfects at once the virtue of hope and that of temperance. The object of hope is possession of God and eternal beatitude. The gift of fear, by making us flee with utmost care even the smallest offense against God, places us in the best conditions for hoping for heaven's beatifying union and obtaining means necessary to attain it.
 
-Indeed, when heart keeps some attachment, however slight, to creatures, intellect remains clouded and "has no capacity to receive light of God's wisdom, just as darkened air has none to receive that of the sun ... Oh," exclaims St. John of the Cross, "if men knew how much divine light's good is taken from them by blindness caused by their affections and desires!" (Ascent I, 8).
+The object of temperance is restraint of passions and attraction toward sensible pleasure. The gift of fear perfects this virtue by making us more generous in mortifying senses and passions. Urged by this holy fear, we will be more attentive than ever not to let ourselves be dragged in the least by desire for our own satisfaction, and ready to face any renunciation rather than give the smallest displeasure to our heavenly Father. "Far better to displease myself than to displease God," repeats the soul under this gift's influence.
 
-Instead, when heart is pure, then intellect, like clear glass, can be wholly penetrated by light of Holy Spirit.
+The Holy Spirit, then, more than making us fear God, makes us fear ourselves — our bad will and passions — which, being cause of sin, can place us in danger of offending God, separating ourselves from Him, or at least of not living united to Him enough. This is not a fear generating anxiety and scruples, but a fear joined to love and confidence and therefore impelling the soul to place itself totally in God's hands so that He may preserve it from every shadow of sin.
 
-2. — There is also another purity of heart that is no longer disposition for receiving gift of understanding, but fruit of this gift. Here word heart is understood in broader sense of spirit and mind, usual in Sacred Scripture.
+Yet while launching the soul with immense trust into the heavenly Father's arms, the gift of fear also infuses a sense of reverent awe before his infinite Majesty. The soul feels that God, by his immense dignity, is supremely distant from it; but it also feels that by his merciful love He has made Himself very near, inviting it to live in his intimacy. Amid these alternations of filial reverence and confident trust, the gift of fear matures and blossoms into perfect love.
 
-Our mind is so coarse we can always err in understanding divine things: imagining them materially on level of earthly things, or interpreting them according to personal views, or grasping only one aspect and neglecting other essential ones, and so forth. Precisely thus, unfortunately, many heresies arose in Church.
-
-Gift of understanding, by communicating to us light of Holy Spirit Himself, purifies our mind from these errors, frees it from deceits of imagination as from all other false interpretations. Through this purity of mind, gift of understanding ensures integrity of our faith, makes us penetrate objective reality of divine mysteries, gives true sense of Lord's law, commandments, and counsels.
-
-Moreover, this gift, making us penetrate divine things by infused light of Holy Spirit, makes us understand well God cannot be enclosed in our coarse imaginations nor in our short ideas, but is infinitely above all we can think and imagine of Him. "Because God is inaccessible," says St. John of the Cross, "seek not to stop at what your powers can understand and your senses perceive, lest you be satisfied with less and your soul lose lightness needed to ascend to God" (Sayings).
-
-If we want to cooperate with movement of gift of understanding, we must be detached from our ideas. We must be ready to renounce them even if very dear. We must not be too sure of our way of understanding things of God, but seek Church's discernment. Above all, we must humbly ask for gift of understanding so it may free us from errors and give right understanding of divine things.
-
-Finding in us a pure spirit, Holy Spirit will illumine us more and more. Greater light will correspond to greater purity and vice versa, and thus, from clarity to clarity, we shall reach deeper penetration of divine mysteries making us foretaste something of beatific vision: "Blessed are the pure of heart, for they shall see God!"
+"When the soul comes to possess in perfection the spirit of fear, it already possesses perfectly the spirit of love; for that fear, the last of the seven gifts, is filial fear, and perfect filial fear is born of perfect love toward the Father" (St. John of the Cross, Canticle 26, 3).
 
 ### Colloquy
 
-"O Lord, give me right sentiments concerning You and grant that I may seek You with simplicity of heart. My heart says to You: 'I will seek your face.' Your presence I seek, O Lord, when with my heart I seek You. You dwell where You abide; and where do You abide if not in your temple? Your temple is our heart. Teach me how I must welcome You. You are Spirit, and in spirit and truth I must adore You.
+"My God, however much I desire to love You, however much I know the world's vanities and prefer your service to them, still, as long as I am here below, I cannot consider myself secure from returning to offend You. Since this is so, what can I do but have recourse to You and beg that my enemies not lead me into temptation? How could I discover their snares? Oh, my God, how I need your help! Lord, say some word to me that brings light and security within me! Deign to teach me some remedy to shelter me from assaults of this most dangerous war!
 
-"Enter my heart and let all idols fall.
+"And You Yourself tell me the sure remedy is fear. Love must make me quicken my step; fear must induce me to watch where I place my feet lest I fall. Give me both, O Lord, since love and fear are two very strong fortresses from whose heights I shall conquer every temptation. Sustain me, my God, so that for all the gold in the world I may never commit knowingly any venial sin, however small" (cf. St. Teresa of Jesus).
 
-"I shall now listen to your voice and learn to desire You; I shall learn to prepare myself to be able to see You. Blessed are all who see You! And if they see You, this is not because during life they were poor in spirit, or meek, or mournful, or hungering and thirsting for justice, or merciful, but because they were pure of heart. Good is humility for possessing kingdom of heaven, good meekness for possessing earth, good mourning for being consoled, good hunger and thirst for justice for being satisfied, good mercy for obtaining mercy; but it is purity of heart that makes one see You.
-
-"I want to see You: great is thing I want, but it is You who tell me to want it. Come to purify my heart, because pure is what I want to see and impure is means with which I want to see it. Come to me, O Lord, and purify me with your grace. Purify my heart with your helps and consolations. If I receive You in my heart during this life, after present life You will admit me to your presence" (St. Augustine).
-
-"Come, O Holy Spirit, and speak always to my heart; or at least, if You prefer silence, let your very silence speak to me, because without You I am always in danger of following my errors and confusing them with your teachings" (cf. St. Bernard).
+"My Lord and my God, all my good is to remain united to You and place all my hope in You. Left to itself, my soul would be only a breath that vanishes and does not return. Without You I can do no good, nor stand firm in good; without You I can neither love nor please You, nor avoid what displeases You. I therefore take refuge in You, I abandon myself to You, that You may sustain me with your power, hold me with your strength, and never permit me to separate from You" (cf. St. Bernard).

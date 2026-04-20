@@ -1,111 +1,27 @@
-## 218 — LE PERFEZIONI DIVINE
+## XVIII — FIDUCIA INCROLLABILE
 
-### Presenza di Dio
+*IV Domenica dopo Pentecoste*
 
-Concedimi, o Signore, di comprendere qualche cosa della tua perfezione infinita.
+**Presenza di Dio.** — *O Signore, fammi ben comprendere che da me nulla sono e nulla posso, e quel che posso lo posso unicamente in te.*
 
 ### Meditazione
 
-1. — Gesù ha detto: «Siate perfetti come è perfetto il
+**1** — Due sentimenti dominano nella liturgia della Messa odierna: una grande fiducia in Dio e un vivo senso della miseria e insufficienza umana. Due sentimenti fra loro strettamente congiunti, perché proprio la consapevolezza del nostro nulla ci fa riporre in Dio ogni fiducia e perché questa fiducia fiorisce in noi quanto più ci siamo convinti della nostra pochezza.
 
-Padre vostro che è nei cieli » (Mt. 5, 48) e in tal modo ha
-orientato i nostri sguardi verso la perfezione infinita di Dio.
-Perfezione di cui quaggiù possiamo conoscere solo qualche
+La Messa comincia con un grido d'incrollabile speranza: «Il Signore è la mia luce e la mia salvezza: di chi temerò?» (Introito). Il Signore è con me nel SS.mo Sacramento dell'altare, il Signore viene in me nella S. Comunione: che cosa mi potrà separare da lui? Che cosa mi potrà far paura?
 
-pallido riflesso attraverso la considerazione delle perfezioni
-ite che troviamo nelle creature, ma che non possiamo
-conoscere in se stessa perchè nessuna idea umana è capace
-di abbracciare e di esprimere ciò che è infinito. Le idee ci
-dicono qualche cosa di Dio e delle sue perfezioni infinite, ma
-non ce lo possono mostrare quale Egli è. Dio, avverte S. Paolo, « abita in una luce inaccessibile » (1 Tim. 6, 16), luce che
-supera infinitamente la capacità dell'intelletto umano, luce
-troppo luminosa, troppo splendida perchè l'occhio della
-nostra mente possa fissarla direttamente; un po' come il sole,
-nella pienezza del suo fulgore estivo, supera la capacità della
-nostra vista, sì che nessun occhio umano può fissarsi in esso.
+D'altra parte, conosco la mia debolezza: le mie cadute, le mie infedeltà mi son sempre presenti. Come ho bisogno, perciò, di ripetere umilmente la bella preghiera del Graduale: «Salvaci, o Signore, e perdonaci i nostri peccati... Dio salvatore nostro, per riguardo all'onore del tuo nome». Sì, nonostante i continui soccorsi della grazia, nonostante le numerose confessioni e comunioni, devo ogni giorno constatare nuove mancanze, devo ogni giorno ricominciare da capo. La lotta è ardua e faticosa, ma proprio oggi, nell'Epistola, S. Paolo mi ricorda «che le sofferenze del tempo presente non hanno nulla a che fare con la gloria» che ci aspetta. Pensiero consolante, pensiero di speranza, di fiducia; tuttavia, ciò non m'impedisce di sentire il gemito della natura che sospira verso la liberazione, la redenzione piena. Anche l'Apostolo l'ha sperimentato e dice: «noi stessi che abbiamo in noi le primizie dello Spirito, gemiamo aspettando l'adozione, cioè la redenzione del nostro corpo in Gesù Cristo». Quanto più soffriamo per la nostra miseria, tanto più slanciamoci in Cristo, con piena fiducia nella sua Redenzione.
 
-'Tuttavia Gesù, parlandoci a più riprese delle perfezioni
-di Dio, ci ha invitato ad innalzare il nostro sguardo a tali
-altezze. E con ciò ci ha insegnato che, pur potendo intendere ben poco delle perfezioni divine, questo poco non ci
-sarà inutile, ma, anzi, molto prezioso. Tea quanto più
-un'anima «avanza nella conoscehza di Dio, tanto più comprende che ia che sa di lui è un nulla in confronto a
-quel che Egli è, tanto più intuisce che al di là delle sue
-idee — fossero pure le più belle e le più elevate — c'è
-un oceano infinito di splendore, di bellezza, di bontà; di amore che nessuna mente umana riuscirà mai a comprendere.
-Questa consapevolezza dell'immensità di Dio, che sopravanza infinitamente la capacità del nostro intelletto, è
-una grande grazia. « Una delle grazie più grandi — afferma
-S. Giovanni della Croce — che Dio possa fare ad un'anima in questa vita, è farle intendere... o sentire tanto altamente di Dio da comprendere chiaro che Dio non si può
-intendere nè sentire del tutto » (C..7, 9). Grazia i grande,
-perchè infonde nell'anima un senso sempre più profondo
-dell'immensità di Dio, della sua infinita trascendenza e
-perchè, per contrasto, le fa comprendere sempre meglio il
-suo nulla e l'estrema limitatezza di qualsiasi perfezione
-umana.
+**2** — Il Vangelo di oggi può dirsi la dimostrazione pratica delle parole di Gesù: «Senza di me non potete far nulla» *(Gv.* 15, 5). Simone e i suoi compagni avevano faticato tutta la notte senza prender nulla: ecco quello che erano riusciti a fare da soli. Se hai un po' di esperienza di vita spirituale, riconoscerai che tante volte è accaduto così anche a te. Quanti sforzi per liberarti da qualche attacco, per dimenticare torti ricevuti, per adattarti al modo di fare altrui, per sottomettere la tua volontà. E poi, dopo aver tanto faticato, ti sei ritrovato a mani vuote, proprio come Pietro trovò inesorabilmente vuota la sua rete. Ebbene, non ti scoraggiare; se, anziché indispettirti per il tuo insuccesso, saprai riconoscerlo umilmente, esso diventerà il principio della tua vittoria. Così è accaduto anche a Pietro dopo aver confessato in pubblico di non «aver preso nulla». S. Teresa del B.G. commenta: «Forse se l'Apostolo avesse preso qualche pesciolino, il divino Maestro non avrebbe operato un miracolo; ma, non avendo preso *nulla*, le sue reti, mercè la potenza e la bontà divina, furono tosto ripiene di grossi pesci. Ecco il carattere di Nostro Signore: Egli dà come sa dare Dio, ma vuole l'umiltà del cuore» *(Let.)*.
 
-2. — Soltanto in cielo ci sarà dato di vedere la Divinità «a faccia a faccia», senza l'intermediario delle idee.
-Oggi, come dice S. Paolo, « vediamo attraverso uno specchio
-in enigma... ora io conosco parzialmente, allora conoscerò
-per intero» (I Cor. 13, 12). Questa conoscenza parziale di
-Dio — l'unica che possiamo avere sulla terra — l'abbiamo
-attraverso lo « specchio» delle creature; in esse, infatti, troviamo un riflesso delle sue perfezioni infinite: della sua
-bontà. della sua sapienza, della sua giustizia, della sua bellezza, ma un riflesso molto imperfetto, molto limitato. Nessun uomo, ad esempio, è tanto sapiente da conoscere tutto
-ciò che esiste; nessun uomo è tanto buono da non mancare talvolta di bontà per debolezza; nessun uomo è tanto
-giusto da 'non mancare talvolta di giustizia per rigidezza,
-e così via, Soltanto spogliando le perfezioni dai difetti e dai
-limiti che sempre hanno nelle creature, possiamo farci una
-perlata idea delle perfezioni divine. Dio è buono, sempre
-ono, infinitamente buono: «Solo Dio è buono» (Mt.
-19, 17), ha detto Gesù, intendendo appunto che solo lui
-pas la bontà per eccellenza, anzi, è la stessa bontà,
-ntà senza limiti, che mai tramonta e mai vien meno.
-Rifletti, dunque, come sbagli quando ti attacchi a qualche
-creatura; per quanto bella, buona, sapiente possa essere, la
-sua bellezza, la sua bontà e sapienza è un niente in confronto
-alle perfezioni di Dio. Anzi, S. Giovanni della Croce va oltre
-e dice: « Ogni bellezza delle creature, paragonata all'infinita
-bellezza di Dio, è somma deformità... Tutta la bontà delle
-creature del mondo, messa a confronto con l'infinita bontà
-di Dio, si può chiamare malizia... Pertanto, l'anima che pone
-il suo cuore nei beni della terra è assai colpevole dinanzi a
-Dio; e, come la bruttezza non può andar congiunta con la
-bellezza, come la malizia non si unisce alla bontà, così un'anima di tal fatta non potrà unirsi a Dio il quale è somma bontà e bellezza » (cfr. S. I, 4, 4). Comprendi così che, se vuoi
-unirti a Dio, non devi lasciarti legare il cuore dalle bellezze,
-dalle qualità delle creature e che in Dio solo puoi riporre il
-tuo affetto e la tua speranza, senza timore di rimanerne deluso.
+Malgrado la tua buona volontà di avanzare nella virtù, il Signore non permette che tu riporti alcun successo finché non ti vede profondamente convinto della tua impotenza, della tua insufficienza; e, proprio per rendertene convinto, ti lascia, come lasciò Pietro, «faticare tutta la notte senza prendere nulla». Ma poi, a misura che ti vedrà ben persuaso della tua indigenza e disposto a confidare apertamente, verrà in tuo soccorso. Tu, dunque, devi avere gran fede in lui e, senza lasciarti sgomentare dagli insuccessi finora riportati, devi ogni giorno, «sulla sua parola», ricominciare da capo. Se hai ormai imparato a non confidare nelle tue forze, devi imparare ad avere piena fiducia nell'aiuto divino. Forse se fino ad oggi non hai preso nulla è perché ti è mancata questa fiducia incrollabile e questa fiducia, oltreché dispiacere a Gesù, paralizza la tua vita spirituale. Riprendi dunque con slancio insieme con Pietro: «*in verbo tuo laxabo rete*», Signore, sulla tua parola calerò le reti. Me li ripeto ogni giorno, ogni momento, senza mai stancarti.
 
 ### Colloquio
 
-«Quando giungeremo a te, o fonte di sapienza, a te, lume indeficiente, a te, luce inestinguibile, sì che ti vediamo,
-non più come in uno specchio e in un enigma, ma a faccia
+«O Signore, Tu sei la mia luce e la mia salvezza; che cosa dovrò temere? Tu sei il baluardo della mia vita; di che cosa devo aver paura? Se anche un esercito si accampasse contro di me, il mio cuore non temerebbe; se contro di me si movesse battaglia, anche allora starei tranquillo... Una sola cosa ti chiedo, o Signore, e sempre ti richiederò: di abitare nella tua casa tutti i giorni della mia vita. Poiché nel giorno della sventura, Tu mi metterai al coperto nella tua tenda, mi terrai riparato nel tuo padiglione, mi porrai su alta rupe.
 
-a faccia? Allora sarà pago il nostro desiderio, poichè più nulla potremo desiderare all'infuori di te, o Signore, Bene sommo. lvi vedremo, ameremo e loderemo; vedremo nel tuo lume la tua luce, poichè presso di te è il fonte della vita,
-e nel tuo lume vedremo la luce.
+«Ascolta, o Signore, il grido col quale t'invoco: abbi pietà di me ed esaudiscimi... Non nascondermi il tuo volto, non rigettare in sdegno il tuo servo, Tu che fosti il mio aiuto; non mi respingere e non mi abbandonare, o mio Dio salvatore. Anche se mio padre e mia madre mi abbandonassero, io sono sicuro che Tu non mi abbandonerai. Anima mia, spera nel Signore, rinfrancati, fatti cuore e spera in lui» (cfr. *Sal.* 26).
 
-«Quale luce? Luce immensa, luce incorporea, incorruttibile, incomprensibile; luce indeficiente, luce inestinguibile,
-luce inaccessibile, luce increata, luce vera, luce divina che
-illumina gli occhi degli angeli, che letifica la giovinezza dei
-santi; luce che è fonte di ogni luce e di vita, il che sei tu, o
-Signore Dio mio! Tu sei luce nel cui lume vedremo la luce,
-ossia te in te, nello splendore del tuo volto, quando ti vedremo a faccia a faccia.
+«O Signore, Tu hai operato in me grandi cose; e la più grande è quella di avermi mostrato la mia piccola e la mia impotenza per ogni bene.
 
-«La tua visione è tutta la mercede, tutto il premio, tutto il
-gaudio che aspettiamo. Questa è la vita eterna: che conoiamo te, solo vero Dio... Allora avremo quello che cerchia
-mo, quando vedremo te, solo vero Dio, Dio vero, Dio vivo,
-onnipotente, semplice, invisibile, incircoscritto, incomprensibile.
-
-«O Signore Dio mio, non permettere più ch'io sia distratto da te, ma raccoglimi dalle cose esteriori a me stesso; donati
-a me affinchè ti dica sempre il mio cuore: io cercai la tua faccia; la tua faccia, o Signore, cercherò; la faccia del Signore
-delle virtù, nel quale consiste tutta la gloria sempiterna dei
-beati; nel vedere la quale consiste la vita eterna e la gloria
-sempiterna dei santi» (S. Agostino).
-
-« Fammi comprendere, o Signore, che la bellezza e tutte
-le altre doti delle creature sono terra, da questa vengono e ad
-essa ritornano; che la loro grazia e la loro leggiadria sono fumo
-e vento e che per tali devo stimarle per non cadere in vanità.
-In tutte queste cose aiutami ad indirizzare il cuore a te, con
-gaudio ed allegrezza, pensando che Tu sei ed hai in te tutte
-le bellezze e le grazie in grado eminentissimo ed infinito al
-di sopra di tutte le creature le quali — come dice Davide —
-«come vestimenta s'invecchieranno e passeranno, mentre Tu
-solo rimani immutabile per sempre + (cfr. G.C. S. III, 21, 2).
+«Signore, Tu lo vedi, cado in tante debolezze, ma non me ne stupisco... Rientro in me stessa e mi dico: mi trovo ancora ai primi passi come un tempo? Ma tutto questo me lo dico con grande pace e senza tristezza, perché so che Tu conosci perfettamente la fragilità della nostra natura e sei sempre pronto a soccorrerci. Di che mai potrò dunque temere? Apemi mi vedi convinta del mio nulla, o Signore, Tu mi porgi la mano; ma se io volessi provare a fare qualche cosa di grande anche sotto pretesto di zelo, mi lasceresti subito sola. Basta dunque che mi umili e sopporti volentieri le mie imperfezioni; ecco in che cosa consiste per me la vera santità» (cfr. T.B.G. *St.* 9; *NV.*; *CR.*).

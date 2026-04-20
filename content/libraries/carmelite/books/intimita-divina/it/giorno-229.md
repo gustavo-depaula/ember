@@ -1,97 +1,21 @@
-## 229 — LA MISERICORDIA INFINITA
+## XXIX — FESTA DEI SS. PIETRO E PAOLO
 
-### Presenza di Dio
-
-Fammi comprendere, o Signore, i segreti della tua misericordia affinchè possa approfittarne appieno.
+**Presenza di Dio.** — *O Signore, che la festa dei tuoi Apostoli mi rinfranchi nella fede e rinsaldi la mia fedeltà alla Chiesa.*
 
 ### Meditazione
 
-1. — L'amore di Dio verso di noi assume un carattere
-tutto particolare, consono alla nostra natura di creature fra:
-gili e deboli: il carattere della misericordia. La misericordia
-è l'amore che si china sulla miseria per sollevarla, per redimerla, per innalzarla a sè. Sembra quasi che Dio ci ami attratto dalla nostra debolezza, non perchè questa sia amabile,
-ma perchè Egli, bontà infinita, ne ha compassione e vuol
-supplirvi con la sua misericordia. Con la sua perfezione infinita vuol sanare la nostra imperfezione, con la sua purezza
-la nostra impurità, con la sua sapienza la nostra stoltezza,
-con la sua bontà il nostro egoismo, con la sua fortezza la nostra fragilità. Dio, bene supremo ed eterno, vuole essere il ri
-medio di tutti i nostri mali « perchè sa bene di che siamo impastati e rammenta che siamo di fango » (Sal. 103, 14)
+**1** — La festa dei Santi Apostoli, Principi della Chiesa, risveglia nell'anima l'attaccamento alla Chiesa, a Roma, al Papa.
 
-E, siccome il nostro male maggiore — anzi, l'unico vero
+Oggi la liturgia mette in primo piano Pietro, il capo degli Apostoli e domani ci parlerà di Paolo, l'Apostolo dei gentili e, così, ci presenta coloro che hanno piantato la Chiesa, non solo con le loro fatiche, ma anche col loro sangue. Il Vangelo odierno ci ricorda la grande giornata di Cesarea in cui Gesù per la prima volta proclamò Pietro fondamento della Chiesa: «Io ti dico che tu sei Pietro e sopra questa pietra edificherò la mia Chiesa»; parole che hanno avuto una ripercussione grandiosa attraverso i secoli e che, ancor oggi, stanno a testimoniare il primato di Pietro e di tutti i suoi successori sulla cristianità intera. Non già tante piccole Chiese, come pretendono i protestanti, ma un'unica, grande Chiesa: la Chiesa cattolica, apostolica, romana. Un'unica Chiesa di cui l'unico fondatore e capo è Cristo, il quale ha voluto avere in Pietro il suo rappresentante. «Dove è Pietro qui è la Chiesa» (S. Ambrogio) ed è come dire: dove è il Papa, successore di Pietro, qui è la Chiesa. Ben giustamente, quindi, la festa di S. Pietro deve essere considerata la festa della Chiesa, la festa del Papa; festa che deve ridestare in ogni anima cristiana il senso profondo della sua appartenenza alla Chiesa, della sua devozione al Sommo Pontefice. «Io son figlia della Chiesa!», ripeteva Teresa di Gesù in punto di morte. Dopo l'aver lavorato tanto per Iddio e per le anime, era questo l'unico titolo che la rendeva sicura della misericordia divina. Essere figli della Chiesa, ecco il nostro titolo di salvezza, ecco la nostra gloria, dopo quella di essere figli di Dio o, meglio, non dopo, ma *insieme*, poiché, come dicono i Santi Padri, «non può avere Dio per Padre chi non ha la Chiesa per Madre» (S. Cipriano). Non è vero cattolico chi non sente la gioia di essere figlio della Chiesa, chi non viva per la Chiesa e per il Papa, chi non è pronto a rinunciare alle sue vedute personali per «*sentire cum Ecclesia*», sentire con la Chiesa sempre ed in tutto.
 
-. male — è il peccato, ecco che la misericordia infinita vuole
-essere il rimedio anche a questo male estremo. Certamente
-Dio odia il peccato ma, mentre a motivo di esso Egli è co-
+**2** — Il Communio di oggi ripete una seconda volta le grandi parole con cui Gesù ha costituito Pietro fondamento della Chiesa: «Tu sei Pietro e sopra questa pietra edificherò la mia Chiesa»; è un rinnovato omaggio al Principe degli Apostoli, ma nello stesso tempo è un richiamo per noi. Ogni cristiano, infatti, dovrebbe essere una pietra salda e sicura di cui Gesù possa valersi per sostenere la sua Chiesa. Evidentemente, la pietra viva, la pietra angolare per eccellenza è Cristo e, accanto a sé, Egli stesso ha posto il suo Vicario; ma poi, seguono tutti i fedeli: dai vescovi fino all'ultimo battezzato; tutti — proprio come dice S. Pietro — siamo «pietre vive edificate sopra di lui [Cristo] per essere una casa spirituale, un sacerdozio santo» *(I,* 2, 5).
 
-stretto a ritirare la sua amicizia, la sua grazia dall'anima del
-
-peccatore, la sua misericordia sa ancora trovare il modo di
-
-continuare ad amarlo; e, di fatto, se non può amarlo più come amico, lo ama sempre come creatura, come fattura delle
-
-sue mani, lo ama per quel bene che resta ancora in lui e
-
-che dà speranza di conversione. La misericordia di Dio è tanto grande che nessuna miseria, per quanto profonda, può
-esaurirla, che nessun peccato, n pure il più obbrobrioso,
-purchè pianto, può arrestarla. Un'unica cosa ha questo triste potere: la volontà superba dell'uomo che si rinchiude
-sdegnosamente nella sua miseria non volendo riconoscere il
-bisogno che ha della misericordia infinita. Dinanzi a questi
-casi, benchè la misericordia divina sia immensa, sì avverano
-le gravi parole del Vangelo: « Dio disperde coloro che s'inorgogliscono nei pensieri del loro cuore, rovescia dal loro trono i potenti... e rimanda vuoti i ricchi» (cfr. Lc. 1, 51-53).
-
-2. — La misericordia di Dio non ha limiti: mai ci rigetta a causa dei nostri peccati, mai si stanca delle nostre
-infedeltà, mai ci rifiuta il perdono, ma è sempre pronta a dimenticare qualsiasi offesa, a ricambiare con le sue grazie le
-nostre ingratitudini. E non ci rinfaccia mai i nostri torti, neppure quando, appena ricevuto il perdono, subito ricadiamo;
-neppure allora si sdegna per la nostra tenacia nel male, per
-la nostra fiacchezza nel bene, ma sempre ci tende la mano,
-desiderando soccorrerci. Anche quando gli uomini ci condannano, Dio ci usa misericordia, ci assolve, ci rimanda giustificati, come Gesù ha mandato giustificata la donna adultera: « Va', e non voler più peccare» (Gv. 8, 11). Col suo
-esempio e con le sue parole, Gesù ci ha mostrato l'inesauribile grandezza della misericordia di Dio: pensiamo al
-figliol prodigo, alla pecorella smarrita, alla Maddalena, al
-buon ladrone. Ma Egli ci ha detto anche: « Siate misericordiosi come è misericordioso il Padre vostro» (Lc. 6, 36). Fin
-dove arriva la nostra misericordia? Fino a qual punto sappiamo compatire i difetti altrui? La misura della nostra misericordia verso il prossimo sarà la misura della misericordia
-di Dio verso di noi, perchè Gesù ha detto: « sarete misurati
-con la stessa misura con la quale avrete misurato » (Mt. 7, 2).
-
-Per riversare su di noi si pienezza delle sue misericordie
-Dio non esige che siamo impeccabili, ma che siamo misericordiosi verso i nostri fratelli ed esige, inoltre, che siamo umili. Non basta, infatti, essere miseri per attirare su di sè Da
-divina misericordia, ma bisogna riconoscere a
-propria miseria e rivolgersi a Dio con piena fiducia: 5 iò
-che piace a Gesù — diceva Teresa di Lisieux — è di pa iu
-amare la mia piccolezza e la mia povertà, è la cieca des
-che ho nella sua misericordia. Ecco il mio tesoro» (i DI
-Questo è il tesoro che supplisce a tutte le nostre miserie, c E
-Bolezze, ricadute, infedeltà, perchè mediante questa ia
-e questa fiducia ci impadroniamo della misericordia inl mita.
-E, avendo questa a nostra disposizione, come potremo sco
-raggiarci per la nostra miseria?
+Anche tu, dunque, chiunque tu sia: sacerdote o laico, religioso o padre di famiglia, semplice cristiano o umile claustrale, anche tu sei chiamato a sostenere la Chiesa, così come in un edificio materiale non solo i grandi blocchi granitici, ma anche i più umili mattoni contribuiscono a sorreggere la casa. In un'anima di vita interiore non può mancare quel profondo senso apostolico che le fa sentire la sua parte di responsabilità per il buon andamento della Chiesa, parte che adempirà anzitutto con la sua obbedienza e sottomissione alle direttive della Gerarchia; ma ciò non basta. Se sei vero figlio della Chiesa, non puoi essere indifferente ai suoi bisogni, ai suoi interessi, alle sue sofferenze. Oggi, più che mai, la Chiesa soffre: soffre nel suo Vicario che, posto a vedetta di tutta la cristianità, più d'ogni altro conosce e misura i pericoli e le lotte che da ogni lato la premono; la Chiesa soffre nei suoi vescovi, nei suoi sacerdoti perseguitati, martoriati, ridotti all'impotenza; soffre nei suoi fedeli abbandonati e dispersi, come pecore senza pastore; soffre per gli errori, per le calunnie che le si scagliano contro. E tu, suo figlio, potresti rimanere indifferente? Soffri anche tu con la Madre tua, prega, lavora, spendi le tue forze per servirla, per difenderla. Lascia da parte i tuoi piccoli interessi personali e dedicati ai grandi interessi della Chiesa: con la vita, con le opere, con la preghiera, con l'immolazione silenziosa e nascosta.
 
 ### Colloquio
 
-« Benedici il Signore, anima mia, e non dimenticare tan:
-ti suoi benefici. No, non dimenticherò che Tu hai perdo
+«O Dio sommo ed ineffabile, io ho peccato e non son degna di pregarti, ma Tu sei potente a rendermi degna; punisci, Signor mio, i miei peccati e non giudicare secondo le mie miserie. Un corpo ho il quale ti rendo ed offro... Se è tua volontà, fa' stritolare l'ossa e la midolla mie per il Vicario tuo in terra, per il quale io ti prego... Dagli un cuore che di continuo cresca in grazia, un cuore forte per difendere il gonfalone della santissima Croce, onde rendere gli infedeli partecipi di essa, come noi, della Passione e del Sangue dell'Unigenito Figlio tuo, Agnello immacolato.
 
-nato tutte le mie colpe, guariti tutti i miei mali, che mi ri-
-'avori, che sazi con beni i miei decolmi di tenerezze e di
-sideri.
+«O Trinità eterna ed infinita, non tardare più, ma per i meriti di S. Pietro, soccorri la Sposa tua, la S. Chiesa... Io mi grido oggi a te, Amore mio, Dio eterno, perché tu faccia misericordia a questo mondo e dia luce al tuo Vicario, affinché tutto il mondo lo segua... Illumina ancora gli avversari della Chiesa, i quali fan resistenza allo Spirito Santo, affinché siano convertiti a te, Dio mio. Invita, eccita i loro cuori, o Amore inestimabile, e la tua carità ti costringa a vincere la loro durezza. Siano ridotti a te, affinché non periscano. E perché hanno offeso te, Dio di somma clemenza, punisci i peccati loro in me. Ecco, dunque, il corpo mio che da te ho ricevuto: te l'offro; diventi incudine per essi, affinché le loro colpe siano distrutte» (S. Caterina da Siena).
 
-riti. Come è pietoso un padre verso i suoi figlioli, ci
-Signore, Tu sei pietoso verso quelli che ti temono, perchè
-Tu sai bene di che siamo impastati e rammenti che siamo
-di fango. Tutto passa, ma la tua bontà, o Dio, dura in eterno
-e va di generazione in acari (cfr. Sal. A
-
-«O Signore, credo da un pezzo che Tu sei più tenero
-di una madre... e so che una madre è sempre pronta a Pi
-donare le mancanze involontarie del suo bambino. Sì, dal
-momento che anche a me fu dato comprendere l'amore 5
-tuo Cuore, esso liberò il mio cuore da ogni paura. Il ricordo
-delle mie colpe mi umilia, mi induce a non appoggiarmi mal
-sulla mia forza, che non è altro che debolezza; ma questo
-ricordo, o Signore, mi parla ancor più della tua misericordia
-e del tuo amore. Come, dunque, non saranno distrutte le
-mie colpe se le getterò con una confidenza filiale nella fornace del tuo amore?
-
-«O Gesù, perchè non mi è dato di narrare a tutte le
-anime la tua condiscendenza ineffabile? Io lo so: se,
-per un caso impossibile, Tu ne trovassi una più debole della
-mia; ti compiaceresti di colmarla di grazie più grandi ancora,
-purchè ella si abbandonasse con piena fiducia alla tua misericordia infinita » (cfr. T.B.G. St. 8; Lt; St. 11).
+«Ascolta, o Signore, la mia povera preghiera! Si tratta della tua gloria e del bene della tua Chiesa. È appunto qui che vengono a finire tutti i miei desideri. Sono forse un po' troppo presuntuosa nel pensare di poter contribuire a questo scopo? Non esaudirmi, o Signore, qualora ti domandassi onori, rendite, ricchezze o altre cose che sanno di mondo; ma quando le mie preghiere hanno per oggetto l'onore di tuo Figlio, perché, o Eterno Padre, non ascolterai volentieri chi per me si sacrificherebbe volentieri mille onori e mille vite? Non per me, o Signore, che non lo merito, ma per il Sangue e per i meriti del tuo Figliolo» (cfr. T.G. *Cam.* 1 e 3).

@@ -1,90 +1,17 @@
-## 205 — RIAMARE L'AMORE
+## V — MISTERO DI SPERANZA
 
-### Presenza di Dio
-
-O Gesù, che tanto mi hai amato, rendimi capace di ricambiare il tuo amore.
+**Presenza di Dio.** — *Fa' che io abbia fame di te, Pane degli Angeli, pegno della futura gloria.*
 
 ### Meditazione
 
-1. — Leone XIII nell'Enciclica « Annum Sacrum» afferma: «Il Sacro Cuore è il simbolo e l'immagine della
-carità infinita di Gesù Cristo, carità che ci spinge a riamarlo». Nulla infatti più dell'amore è capace di suscitare
-l'amore: «l'amore si paga con l'amore» hanno sempre detto
-e ripetuto i Santi. S. Teresa di Gesù scrive; « Tutte le volte
-che pensiamo a Cristo, dobbiamo ricordarci dell'amore che
-ci ha manifestato nel concederci tante grazie... Amore chiama amore: nonostante la nostra meschinità e la debolezza
-del nostro amore, procuriamo di considerare sempre questa
-verità. eccitandoci all'amore» (Vi. 22, 14).
+**1** — Gesù ha detto: «Io sono il pane vivo disceso dal cielo. Se alcuno mangerà di questo pane, vivrà eternamente, e il pane che darò è la mia Carne per la vita del mondo». Questo discorso non piacque ai giudei che si posero a questionare contestando le parole del Maestro, ma Egli con maggior forza replicò: «In verità, in verità vi dico: se non mangerete la Carne del Figliuol dell'uomo e non berrete il suo Sangue, non avrete la vita in voi» *(Gv.* 6, 51-54). Le parole sono perentorie e non ammettono alcun dubbio: chi vuol *vivere* deve mangiare il *Pane di vita*. Gesù è venuto a portare la vita al mondo, la vita soprannaturale della grazia che è stata donata alle anime nostre mediante il battesimo e ci è stata donata appunto perché tale sacramento ci ha innestati in Cristo, sì che da lui, dalla sua pienezza abbiamo ricevuto questa vita. Ma tale vita deve essere alimentata e la nostra inserzione in Cristo deve diventare sempre più profonda. Proprio a tale scopo Gesù stesso ha voluto venire in noi con tutta la sua sostanza di Uomo-Dio ed ha voluto farsi il pane della nostra vita soprannaturale, il pane della nostra unione con lui. «Molte madri — dice S. Giovanni Crisostomo — danno ad altre nutrici i figli che esse hanno messo al mondo. Gesù non ha fatto così, ma ci nutre lui stesso col proprio Sangue e c'incorpora assolutamente a sé». Come il battesimo è il sacramento che c'innesta in Cristo, così l'Eucaristia è il sacramento che alimenta in noi la vita di Cristo, che rende sempre più stretta ed intima la nostra unione con lui, anzi, che ci trasforma in lui. «Come se si versa della cera liquefatta su altra cera, viene necessariamente che l'una si confonde del tutto con l'altra, così chi riceve la Carne e il Sangue del Signore, si unisce talmente a lui, che Cristo risiede in lui ed egli in Cristo» (S. Cirillo di Gerusalemme).
 
-Proprio per eccitarci all'amore la Chiesa ci propone la
-devozione al Sacro Cuore di Gesù; nell'Ufficio della sua
-festa, dopo averci ricordato le immense prove dell'amore
-di Cristo, questa buona madre c'interroga con viva trepi
-dazione: «Chi non riamerà chi tanto ci ha amato? Chi
-
-fra i suoi redenti non lo prediligerà?» (inno delle Lodi).
-E, per spingerci sempre più a rendere amore per amore,
-mette sulle labbra di Gesù le belle parole della Sacra Scrittura: «ti ho amato con un amore eterno e perciò ti ho
-tirato a me pieno di compassione » (lez. III) e ancora: «Fili,
-praebe mihi cor tuum, figliuolo, dammi il tuo cuore (ant.
-delle Lodi). Ecco, dunque, in che cosa consiste la vera
-devozione al Sacro Cuore: riamare l'amore, « rendere amore
-per amore », come si esprime S. Margherita Maria, la grande
-discepola del Sacro Cuore; « riamare incessantemente Chi
-tanto ci ha amato», come soggiunge S. Teresa Margherita
-del Cuore di Gesù, la nascosta, ma non meno ardente discepola del divin Cuore.
-
-2. — L'impostazione della nostra vita spirituale dipende
-molto dall'idea che ci facciamo di Dio. Se, come il servo
-infingardo del Vangelo (Mt. 25, 14-30), abbiamo di Dio
-un'idea gretta e meschina, anzichè sentirci spronati ad amarlo e a darci generosamente al suo servizio, saremo freddi,
-pigri, calcolatori, seppelliremo anche noi il talento ricevuto
-dal padrone, non preoccupandoci di impiegare per Iddio
-quei beni che da lui abbiamo ricevuto. Molti cristiani, purtroppo: vivono così: servono Dio come lo schiavo serve il
-padrone; se si astengono dal peccato lo fanno solo per timore del castigo, se pregano o compiono qualche opera
-buona è solo in vista del proprio interesse e, perciò, non
-vi è in essi alcuno slancio di generosità e di amore. Quando
-invece l'anima comincia ad intuire che «Deus charitas
-est» {I Gv. 4, 8), comincia a penetrare il mistero dell'amore
-infinito che l'avvolge, comincia a comprendere l'amore di
-Dio, l'amore di Gesù per lei, allora tutto spontaneamente
-cambia aspetto perchè «amore chiama amore». La devozione al Sacro Cuore, che è la devozione all'amore infinito
-di Gesù, deve produrre in noi proprio questo effetto: farci
-comprendere sempre più «l'amore di Cristo che sorpassa
-ogni scienza» (Ef. 3, 19). Meditando e contemplando il
-
-Cuore di Gesù trafitto per amor nostro, impareremo la scienza dell'amore, scienza che nessun libro terreno ci può insegnare, ma che si apprende solo dal libro aperto del Cuore di
-Cristo, di Cristo nostro unico Maestro, « Qui m'insegnò una
-scienza assai gustosa » (G.C. C. 27), canta con entusiasmo
-l'anima che Gesù ha introdotto nei segreti del suo Cuore divino. E allora la risposta al suo amore sarà facile: « Egli mi
-ha amato e ha dato se stesso per me... ed io ben volentieri
-spenderò e lascerò spendere tutto me stesso per lui e
-
-le anime che sono il suo tesoro» (Cfr. Gal. 2, 20;
-I Cor. 12, 15). L'amore ci butta così al di là di ogni calcolo,
-di ogni egoismo.
+**2** — Alimentando in noi la vita di Cristo, l'Eucaristia alimenta in noi una vita che non ha termine; unendoci a lui, che è la Vita, ci affranca dalla morte. Infatti Gesù ha detto: «Chi mangia la mia Carne e beve il mio Sangue ha la vita eterna, ed io lo risusciterò nell'ultimo giorno» *(Gv.* 6, 55). Notiamo che ha detto: *ha* la vita eterna e non *avrà*, perché l'Eucaristia, accrescendo in noi la grazia — che è il seme della gloria — viene ad essere per noi vero pegno di vita eterna. E questo non solo per l'anima, ma anche per il corpo: «l'Ostia divina gli comunica il germe della futura risurrezione; il Corpo immortale di Cristo — dice Leone XIII — infonde [nel nostro corpo] un seme d'immortalità che un giorno s'innalzerà e porterà i suoi frutti» *(Enc. Mirae charitatis)*. Considerato sotto questo aspetto, il sacramento dell'Eucaristia è veramente il sacramento della speranza: speranza della gloria celeste, della visione beatifica in cui la nostra «comunione» con Cristo non avrà mai fine. L'eterna «comunione» comincia quaggiù proprio con la Comunione eucaristica che ne è il preludio, il pegno ed anche un po' l'anticipo. Ma anche per la vita presente, particolarmente per quanto riguarda il nostro progresso spirituale, l'Eucaristia è grande argomento di speranza e di fiducia. Infatti, aumentando in noi la grazia, aumenta pure la carità, e col crescere di questa le passioni vengono represse: «l'aumento della carità — afferma S. Agostino — è l'indebolimento della passione, e la sua perfezione è l'assenza della passione». Se talvolta la lotta contro qualche difetto o tentazione si fa più violenta e difficile, se malgrado i nostri sforzi non riusciamo a superare del tutto la natura, confidiamo nell'Eucaristia: Gesù, venendo in noi, può calmare ogni tempesta e darci la forza di vincere qualsiasi battaglia. «La carne castissima di Gesù — insegna S. Cirillo d'Alessandria — reprime l'insolenza della nostra carne; effettivamente Cristo, essendo in noi, placa la legge della carne che inferisce nelle nostre membra». L'Eucaristia è dunque la nostra speranza e per la vita presente e per la vita futura: ci sostiene nelle avversità, ci fortifica nella lotta per la virtù, ci custodisce per la vita eterna e ci conduce ad essa fornendoci i viveri necessari per il viaggio (cfr. *Mirae charitatis*).
 
 ### Colloquio
 
-«Orsù, anima mia, risvegliati. Fino a quando sonnecchierai? Al di sopra del cielo vi è un Re che desidera di vederti: ti ama con tutto il cuore, ti ama senza misura.
-Cristo dolcemente e tanto fedelmente ti ama, che ha lasciato il suo regno e si è umiliato per te. Per cercarti ha
-sofferto di essere legato come un malfattore. Ti ama tanto
-cordialmente e tanto fortemente, è tanto geloso di te e
-tante prove te ne ha date, che per te volentieri ha consegnato alla morte il suo Corpo. Egli ti ha lavato col suo
-Sangue; ti ha riscattato con la sua morte. E fino a quando
-aspetterai a riamarlo? Affrettati, dunque, a dargli una risposta.
-«Eccomi, vengo a te, Gesù amantissimo! Vengo per la
-tua dolcezza, per la tua pietà, per la tua carità; vengo con
-tutto il cuore, con tutta l'anima, con tutte le forze. Chi
-mi concederà di essere tutta conforme al tuo cuore, affinchè Tu possa trovare in me tutto ciò che desideri?
+«O Padre celeste, ci hai dato il Figlio tuo e l'hai mandato nel mondo per tua propria volontà. E Tu, Gesù mio, per tua propria volontà non hai voluto abbandonare il mondo, felice di rimanere con noi a maggior gaudio dei tuoi amici. Questa è la ragione per cui Tu, o divin Padre, ci hai elargito questo Pane divinissimo, e ci hai dato in alimento perpetuo la manna della sacratissima Umanità di Gesù: noi ora la possiamo trovare quando vogliamo, per cui se moriamo di fame è unicamente per colpa nostra.
 
-«O Gesù, mio Re e mio Dio, ricevimi nell'asilo benignissimo del tuo Cuore divino, e qui uniscimi a te in
-modo che io viva totalmente per te. Lascia, ormai, che
-m'inabissi nel gran mare della tua misericordia, che mi abbandoni completamente alla tua pietà, che mi slanci nella
+«Anima mia, troverai sempre nel SS.mo Sacramento, sotto qualsiasi aspetto lo consideri, grandi consolazioni e delizie e, dopo aver cominciato a gustare il Salvatore, non ci saranno più prove, persecuzioni e travagli che non sopporterai facilmente. Domandi il pane materiale chi lo vuole. Quanto a me, o Eterno Padre, ti chiedo che mi conceda di ricevere il Pane celeste con tali disposizioni che, pur non avendo la felicità di contemplare Gesù con gli occhi del corpo, per essere troppo nascosto, lo contempli almeno con quelli dell'anima. È questo un Pane che assomma ogni soavità e delizia e sostenta la vita!» (T.G. *Ctm.* 34, 2 e 5).
 
-fornace ardente del tuo amore e vi rimanga fino alla consumazione,..
-
-«Ma che cosa sono io, Dio mio? Oh, quanto sono dissimile da te, io che sono il rifiuto di tutte le creature! Ma
-Tu sei la mia grande fiducia, perchè in te è il supplemento,
-anzi l'abbondanza di tutti i beni che ho perduto. Chiudimi, o Signore, nella tomba del tuo Cuore aperto dalla
-lancia e ponivi sopra la pietra del tuo sguardo dolcissimo,
-di modo che io sia eternamente affidata alle tue cure: all'ombra della tua paterna dilezione mi sarà riposo la memoria perpetua del tuo prezioso amore» (S. Geltrude).
+«In te, o Gesù Sacramentato, Cibo celeste, sono racchiusi tutti i beni! E che altro può l'anima volere quando contiene in sé Colui che di ogni altra cosa contiene? Se io desidero la carità, avendo in me Colui che è la perfetta carità, vengo ad avere la perfezione della carità, e così pure della fede, della speranza, della purezza, della pazienza, dell'umiltà e della mansuetudine perché Tu, o Cristo, mercé questo Cibo, produci nell'anima tutte le virtù. E che cosa posso volere e desiderare di più, se tutte le virtù, i doni, le grazie che bramo sono raccolte in te, o Signore, che stai realmente sotto le specie sacramentali, come in realtà stai in Paradiso alla destra del Padre? Avendo dunque e possedendo un così gran bene, altro non voglio, altro non desidero, altro non bramo!» (S.M. Maddalena de' Pazzi).

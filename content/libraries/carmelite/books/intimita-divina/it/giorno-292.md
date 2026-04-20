@@ -1,101 +1,21 @@
-## 292 — IL PROGRESSO SPIRITUALE
+## XXXI — LA FORTEZZA
 
-### Presenza di Dio
-
-O Signore, concedimi di progredire ogni giorno nella via della santità, senza mai stancarmi e senza mai tornare indietro.
+**Presenza di Dio.** — Insegnami, o Signore, ad agire virilmente confidando in te.
 
 ### Meditazione
 
-1. — «Siate santi, perchè io sono santo» (Lev, 19, 2):
-questa è la volontà di Dio, questa è la nostra vocazione, questo è l'oggetto dei nostri desideri e dei nostri sforzi. Creati a
-somiglianza di Dio, non vogliamo che la sua immagine sia
-in noi offuscata dai difetti e dalle passioni, ma: vogliamo che
-risplenda limpida e pura, riflettendo il più possibile la sua
-santità. Per renderci simili a sè, Dio ha infuso nell'anima no:
-stra, assieme alla grazia, le virtù teologali e morali che hanno proprio lo scopo di ricopiare in noi qualche cosa delle sue
-perfezioni infinite; ed Egli, che come Padre ama ritrovare nei
-suoi figli i tratti della sua somiglianza, desidera sommamente
-vederci crescere nelle virtù. L'anima — dice S. Giovanni
-della Croce — non può esercitare e acquistare le virtù da
-sola, senza l’aiuto di Dio, e neppure Dio le inserisce da solo
-nell'anima, senza di lei» (C. 30, 6). Infatti, benchè nel battesimo Dio abbia infuso in noi le virtù senza alcun nostro
-merito, non le fa crescere senza la nostra collaborazione; tocca a noi — sempre soccorsi dalla grazia — mettere in eser-
-cizio i principi virtuosi che Egli ci ha dato; solo così ne acquisteremo le buone abitudini e ne compiremo con facilità gli
-atti
+**1** — «Il regno dei cieli si acquista con la forza» *(Mt.* 11, 12). Non bastano le buone risoluzioni, i buoni desideri per farsi santi, occorre tradurli in pratica; ed è proprio in questa attuazione pratica che si incontrano le maggiori difficoltà, per cui spesso le anime si fermano scoraggiate o addirittura retrocedono dal cammino intrapreso. Sono anime deboli che si spaventano di fronte alla fatica, allo sforzo, alla lotta; sono anime cui manca, o per lo meno difetta, la virtù della fortezza. Questa virtù è appunto quella che ci rende capaci di affrontare e di sostenere qualsiasi difficoltà, qualsiasi disagio e sacrificio che possiamo incontrare nell'adempimento del dovere. Difficoltà e sacrifici che non mancheranno mai, perché «larga è la porta e spaziosa è la via che conduce alla perdizione... stretta è la porta e angusta è la via che conduce alla vita» *(Mt.* 7, 13 e 14). Quindi, come sarebbe un'illusione pretendere di trovare facile e comoda la via del bene, così sarebbe un'illusione pensare di poterla battere senza un assiduo esercizio della virtù della fortezza. Anzi, quanto più un'anima aspira a maggior perfezione, tanto più deve essere forte e coraggiosa, giacché maggiori saranno le difficoltà che dovrà affrontare.
 
-Quindi. se vogliamo assecondare l’azione di Dio che vuol
-renderci simili a sè, dobbiamo applicarci con grande impegno
-all’esercizio delle virtù. Ci applicheremo anzitutto a quella
+Quando Gesù ha voluto fare l'elogio del Precursore ha detto: «Che siete andati a vedere nel deserto? Una canna agitata dal vento?» *(Mt.* 11, 7); no, il Battista non era un debole che poteva essere scosse dal vento delle difficoltà, ma un forte che, per difendere la legge di Dio, non ebbe timore d'incorrere nella disgrazia del suo re e seppe affrontare con coraggio anche il martirio. Altrove, parlando della vittoria sul male e sul demonio, Gesù ha tracciato l'elogio dell'uomo forte: «Quando un uomo forte, ben armato, custodisce l'ingresso di casa sua, quanto egli possiede è al sicuro» *(Lc.* 11, 21). È l'immagine dell'anima che ha la virtù della fortezza: essa è bene armata e nessuna lotta, nessuna tentazione, nessun ostacolo può spaventarla, anzi, malgrado tutto ciò, rimane sicura e tranquilla poiché trae la sua forza da Dio stesso.
 
-
-virtù che riconosciamo maggiormente necessaria per correggere i nostri difetti, per vincere la nostra passione dominante;
-ne faremo oggetto particolare dei nostri propositi, dei nostri
-esami di coscienza e rendiconti al direttore spirituale. Non
-dobbiamo pensare che questo esercizio sia riservato ai principianti perchè « l'obbligo di progredire nell'amore di Dio —
-e quindi anche in tutte le altre virtù — dura fino alla morte »
-(S. Francesco di Sales). Nessuno, per quanto provetto nelle
-vie dello spirito, può considerarsi dispensato dall'esercizio delle virtù.
-
-
-2. — S. Teresa di Gesù, descrivendo le altezze della
-vita di unione con Dio, fa continue digressioni per raccomandare vivamente l'esercizio delle virtù: « E’ necessario — scri-
-ve alle sue figlie — che cerchiate di non far consistere il vostro fondamento soltanto nel pregare e contemplare, perchè,
-se non procurate di acquistare le virtù e non ne fate l’esercizio, rimarrete sempre delle nane» (M. VII, 4, 9); e altrove
-dice espressamente che mediante le virtù « potranno molto
-progredire nel servizio di Dio anche senza essere grandi contemplative, mentre senza di esse nessuna potrà farlo » (Cam.
-4, 3). Che Dio ci conduca o no per la via dell'alta contemplazione, ciò non è essenziale per farci santi e d'altronde non
-dipende dalla nostra volontà; ma l'essenziale, invece — e questo dipende da noi — è sempre la pratica della virtù. Sia che
-Dio ci voglia nella vita di famiglia o dediti all'esercizio di
-una professione, sia che ci chiami all’apostolato o alla vita
-contemplativa, in ogni caso ci faremo santi solo nella misura in cui saremo virtuosi.
-
-Più ci applichiamo ad esercitare le virtù, più la pratica di
-esse ci diventerà facile e quasi connaturale; ma per giungere
-a questa facilità; che è la caratteristica della virtù matura,
-dobbiamo avere il coraggio di perseverare a lungo nella lotta
-contro i nostri difetti e nello sforzo per acquistare le abitudini contrarie. Tuttavia non arriveremo mai alla virtù perfet-
-ta, e tanto meno a quella eroica, senza il soccorso dei doni
-
-
-dello Spirito Santo, il cui ufficio è appunto quello di perfezio-
-
-
-nare le virtù. Mentre sta a noi mettere in atto le virtù,
-solo Dio può mettere in atto i doni, però abitualmente Egli
-lo fa in modo proporzionato al nostro impegno nell’esercitare le virtù. La pratica assidua delle virtù spalanca l’anima
-nostra all'azione di Dio, la rende atta ad accogliere ed a seguire le mozioni dello Spirito Santo. Diamoci dunque con gene-
-
-
-tosità a questo esercizio: lo Spirito Santo non tarderà a venirci incontro con i suoi doni e noi progrediremo rapida-
-mente verso la virtù perfetta, eroica, verso la santità.
+**2** — «Sua Maestà — scrive S. Teresa d'Avila — vuole anime coraggiose, ed è loro molto amico, purché cammino con umiltà, diffidando sempre di se stesse» *(Vi.* 13, 2). La fortezza cristiana non è temerarietà né presunzione delle proprie forze, ma si basa su Dio e sui grandi doni che Egli ha elargito all'uomo. Se l'uomo è nulla per se stesso, è però grande per quel che Dio l'ha fatto e gli ha donato, per la dignità altissima che gli ha conferito: nell'ordine naturale è stato preposto al governo del mondo, tutte le altre creature gli sono state sottoposte e egli deve servirsene per meglio conoscere ed amare Dio; nell'ordine soprannaturale ha ricevuto la vocazione altissima di figlio di Dio, chiamato da lui a partecipare alla sua vita ed alla sua beatitudine eterna. Per conseguire tale meta gli è stata conferita la grazia la quale non è solo vita e luce soprannaturale, ma è anche forza divina, forza infusa in lui proprio per sanare le debolezze della sua natura, per corroborare la sua volontà, onde renderlo capace di adempiere tutti i doveri inerenti alla sua vocazione. Nel battesimo, assieme alle altre virtù infuse, ha ricevuto la virtù della fortezza, partecipazione della fortezza divina, depositata nell'anima sua come un germe capace di svilupparsi fino a piena perfezione. Nei doni naturali e soprannaturali ricevuti da Dio, nella dignità altissima cui l'uomo è stato da Dio innalzato, sta quindi il fondamento della fortezza cristiana. Se siamo deboli, ciò non proviene da insufficienza dei doni divini, ma dalla nostra insufficienza, ossia dal non aver trafficato abbastanza i talenti di natura e di grazia che il Signore ci ha dati. E, se siamo forti, il merito non è nostro, ma di Dio che ci ha reso tali. Il cristiano è umile nella sua fortezza perché sa che questa non scaturisce da lui come da fonte propria, ma dai doni che Dio gli ha dato ed egli rimane sempre dipendente da Dio, tanto nella considerazione del suo nulla, come in quella della sua grandezza, tanto nella sua umiltà, come nella sua fortezza. Ecco perché il Signore, pur amando le anime coraggiose, le vuole umili e sempre diffidenti di sè, ecco perché lo Spirito Santo dice: «agisci virilmente e confida nel Signore» *(Sal.* 26, 14).
 
 ### Colloquio
 
-«O Signore, Tu hai detto: “Siate santi perchè io sono
-santo‘; è proprio questa, mi sembra, la stessa volontà che hai
-sin dal giorno della creazione quando hai dichiarato:
+«O Dio eterno, Tu vedesti la fragilità di questa nostra natura umana, vedesti quanto è debole, fragile e misera; e perciò Tu, sommo provveditore, che in ogni cosa hai provveduto alla tua creatura, Tu rimediatore ottimo, che ad ogni cosa hai dato rimedio, ci desti la rocca e la fortezza della volontà per sostenere la debolezza della nostra carne. E questa volontà è tanto forte, che né demonio, né creatura alcuna la può vincere, se noi non vogliamo, cioè se il libero arbitrio, nelle cui mani è posta, non acconsente.
 
-Facciamo l'uomo a nostra immagine e somiglianza’; è sem-
+«O Bontà infinita, e donde viene tanta fortezza nella volontà della tua creatura? Da te, somma ed eterna Fortezza, poiché partecipa della fortezza della volontà tua. Onde noi vediamo che la nostra volontà è tanto forte, quanto segue la tua; ed è tanto debole, quanto se ne parte; perché a somiglianza della tua volontà creasti la nostra e perciò, stando nella tua, ella è forte.
 
-re lo stesso tuo desiderio di associare, di identificare a te
-la tua creatura... Come soddisfare meglio questo tuo desiderio, se non rimanendo semplicemente ed amorosamente vol-
-ti verso di te, affinchè Tu possa riflettere in noi la tua immagine come il sole si riflette attraverso un nitido cristallo?...
-Ma per specchiare le tue perfezioni è necessario spogliarci
-dell'uomo vecchio onde rivestirci dell’uomo nuovo, creato da
-te nella giustizia e nella santità. Ecco la via tracciata: non si
-tratta che di spogliarsi per percorrerla secondo il tuo intendimento divino. Aiutami, dunque, a spogliarmi, a morire a
-me stessa, a perdermi di vista» (E.T. II, 9; I, 7).
+«Nella volontà nostra, Padre eterno, dimostri la fortezza della tua volontà, poiché se ad un piccolo membro Tu hai data tanta fortezza, quanta stimeremo che sia la tua, o Creatore e Governatore di tutte le cose?
 
-Aiutami, o Signore, a combattere i miei difetti per spogliarmi dell'uomo vecchio; aiutami a praticare le virtù per
-rivestirmi dell’uomo nuovo. Poco vale di fronte a te la splendidezza delle opere la fama di un gran nome, ma molto
-vale l'esercizio della virtù.
-
-«Tu preferisci vedere in me il più piccolo grado di purezza di coscienza che tutte le opere che io possa fare.
-
-« Preferisci in me il minimo grado di obbedienza che non
-tutti quei servizi che penso di renderti.
-
-
-«Stimi di più un mio desiderio di sofferenza per amor
-tuo, che non tutte le consolazioni spirituali che potrei avere»
-(G.C. AM. 12-14).
+«Mi pare che questa volontà libera, la quale Tu ci hai data, è fortificata dal lume della fede, perché in questo lume conosce la volontà tua, la quale non vuole altro che la nostra santificazione. Sì che la volontà, fortificata e nutrita dalla fede santa, dà vita alle azioni nostre e perciò né volontà vera, né fede viva possono essere senza le opere. La fede nutre ed alimenta il fuoco della carità, perché mostra all'anima l'amore e la dilezione tua verso di noi e così la rende forte nell'amarti» (S. Caterina da Siena).

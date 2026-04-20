@@ -1,130 +1,118 @@
-## 103 — THE TRANSFIGURATION
-*Second Sunday of Lent*
+## 101 — EXAMINATION OF CONSCIENCE
 
 ### Presence of God
 
+— O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.
+
 ### Meditation
 
-1 — The Soul of Jesus, personally united to the Word,
-enjoyed the beatific vision, whose connatural effect is
-the glorification of the body. But this effect was held back by
-Jesus who, during the years of His earthly life, willed
-to assimilate Himself to us as much as possible, clothing Himself
-with "flesh like that of sin" (Rom. 8, 3). Yet, to confirm in faith the Apostles shaken by the announcement
-of His Passion, Jesus on Mount Tabor allowed
-for brief instants some rays of His blessed soul
-to overflow into His body, and then Peter, James, and
-John saw Him transfigured: "His face shone
-like the sun and His garments were white as snow."
-They remained enraptured, and yet Jesus had shown them
-only one ray of His glory, since no
+1 — To ensure spiritual life an orderly
+and progressive development, it is necessary to become aware
+of one's own position, that is, of one's sins, weak points,
+evil tendencies, as well as of progress
+made, good results obtained, tendencies toward
+good. This awareness of one's interior state
+is made precisely by means of examination of conscience which,
+considered thus, constitutes one of the most important exercises
+of spiritual life, since it has the purpose of helping the soul
+to eliminate all that can hinder or delay its
+journey toward God and of urging it to quicken its pace
+toward Him. As one cannot wage war on an unknown enemy and cannot conquer an unknown region,
+so one cannot combat evil in ourselves unless first
+we identify it, and one cannot conquer holiness
+without having studied the best plan for attaining it. In
+other words, examination of conscience reaches its purpose
+when the soul that has applied itself to it can say to itself:
+these are the tendencies I must watch most carefully so as not to fall into sin, these the weak points
 
 
-human creature could have borne its full
-vision.
+that I must strengthen, and on the other hand these are the good tendencies I must cultivate, these the virtues in which I must
+exercise myself more. In this way the soul will be able to formulate well-defined practical resolutions,
+which will then become the particular object of its further examinations.
 
-Glory is the fruit of grace; the grace Jesus
-possesses in infinite measure overflows into an infinite glory
-that transfigures Him entirely. Something similar happens
-also to us: grace transforms us, transfigures us "from glory
-to glory" (II Cor. 3, 18), until one day, in heaven, it will introduce us into God's beatific vision. And while grace transfigures, sin, with its opacity, disfigures those
-who are its victims.
-
-Today's Gospel (Mt. 17, 1-9) shows the intimate relation between Jesus' Transfiguration and Passion. Moses
-and Elijah, appearing on Tabor beside the Savior,
-spoke with Him and, as St. Luke specifies, they were speaking precisely of His coming Passion, "of the departure that
-He was about to accomplish in Jerusalem" (Lk. 9, 31).
-
-The divine Master thus wants to teach His disciples
-that it is impossible for Him and for them to reach the glory
-of the Transfiguration without passing through suffering; it is the lesson He will give later to the two disciples
-of Emmaus: "Was it not necessary that the Christ should suffer such things
-and so enter into His glory?" (Lk. 24, 26). What sin
-has disfigured cannot return to its original
-supernatural beauty except through purifying suffering.
+It is clear that first of all there must be well known and combated the tendencies that can lead to
+mortal sin, but then also those that lead to
+venial sin or to simple voluntary imperfections. Everything
+that is voluntary fault must be progressively, but
+decisively, eliminated by a soul that wants to reach union with God.
 
 
-2 — Peter, enraptured by the vision of Tabor, with his
-usual ardor exclaims: "It is good for us to be here," and
-offers to prepare three tents: for Jesus, for Moses, and for
-Elijah. But his proposal is interrupted by a voice from above: "This is my beloved Son, in whom I am well
-pleased: listen to Him!" and the vision
-disappears.
+2 — In its examinations of conscience, a soul of interior
+life - supposing it is now free from mortal
+sin - rather than go seeking all the faults
+committed, should fix its attention on the degree of voluntariness that is in them, even when they concern
+simple imperfections, because it is precisely deliberate
+faults that most hinder spiritual progress and
+union with God. Of such faults it should carefully seek
+the cause, the motive, and thus it will often
+realize that, while its external faults are of
+various kinds - for example faults against charity,
+patience, obedience, sincerity - all nevertheless proceed from one single cause; for example from pride or
+sloth, which is their common root. And it is precisely against these ultimate roots of our sins and imperfections that
+we must direct our efforts: we must combat them directly not only trying to repel them by mortification,
+but also developing in ourselves the contrary virtues.
+It is, in other terms, the struggle against the predominant
+defect or passion; a most important struggle, because, aiming to destroy evil at its root, it of itself
+eliminates many present faults.
 
-Spiritual consolations are never an end in themselves,
-and we must neither desire them nor seek to hold them
-for our enjoyment. Joy, even spiritual joy,
-must never be sought for itself; as in heaven joy
-
-
-will be the necessary consequence of possession of God,
-so on earth it must be solely a means to give ourselves
-with greater generosity to God's service. To Peter,
-who asks to remain on Tabor in the sweet vision of
-Jesus transfigured, God Himself responds by inviting him rather to listen and follow the teachings of His beloved
-Son. And very soon the ardent Apostle will know that
-to follow Jesus means to carry the cross and climb Calvary
-with Him.
-
-God does not console us to amuse us,
-but to encourage us, to make us strong and generous in suffering for love of Him.
-
-When the vision disappeared, the Apostles raised their eyes and
-saw no one any more "nisi solum Jesum," except Jesus
-alone, and with "Jesus alone" they came down from the mountain. This is what
-we must always seek and what must suffice us: Jesus
-alone, God alone. All the rest - consolations,
-helps, friendships even spiritual, understanding, esteem, support even
-of superiors - can be good insofar as God
-permits us to enjoy them and very often He makes use of them
-precisely to sustain our weakness; but when,
-through circumstances, the divine Hand deprives us of all
-this, we must neither be dismayed nor lose ourselves. These
-are precisely the cases in which, more than ever, we can bear witness to God - by deeds and not by words - that
-He is our All and that He alone is enough for us. This is
-one of the most beautiful testimonies a loving soul
-can render to its God: to be faithful to Him, to trust in Him,
-to persevere in the purpose of total self-giving, even
-when He, withdrawing all His gifts, leaves it alone, in
-darkness, perhaps in incomprehension, bitterness,
-material and spiritual solitude coupled with interior
-desolation. Then is the moment to repeat: "Jesus alone"
-and to descend with Him from Tabor to follow Him with the
-Apostles to Calvary, where He Himself will agonize abandoned not only by men, but also by His
-Father.
+When then the soul has no longer to reproach itself for properly deliberate sins and imperfections, it must direct
 
 
+its attention to semi-deliberate ones,
+of which, though having a half-consciousness or confused awareness, it still cannot free itself, despite sincere and repeated resolutions
+to correct itself. In these cases, besides continuing to combat the roots of its faults, it is very useful to strengthen more and more the resolution to conquer itself, because
+in proportion as the will is resolved to correct itself, the faults that still escape lose voluntariness and
+therefore become lighter and lighter; indeed often they are
+
+
+only purely natural residues of contracted habits,
+but already detested.
+
+Another important point always to keep in mind in examination of conscience is to watch and keep awake the tendency toward holiness, the desire always to do what
+pleases God more, because this is the spring of spiritual
+life, of generosity. Likewise an excellent method
+is to examine ourselves more from God's point of view than from
+our own, that is, to ask whether the Lord can be pleased
+with us and what His judgment will be on our conduct.
 
 ### Colloquy
 
-"I love You alone, my God, I follow You alone, I seek You alone,
-I am ready to follow You alone... I want to be at Your disposal alone. Command, I pray You, command all that
-You will, but heal, open my eyes, that I may see
-Your signs; heal me wholly, that I may recognize You.
-Tell me where I must direct my attention so that I
-may see You; and I hope I shall know how to do all that You command me..."
-(St. Augustine).
+"O God of my soul, who am I and what am I? Is there a fault
+that has not been in my actions or, if not in my actions, in my words, or, if not in my words, in my
+will? But You, O Lord, are good and merciful is
+Your right hand.
 
-Yes, O Jesus, may I follow You alone and follow You not only on
-Tabor, but above all on Calvary. Tabor is light, it is
-splendor that draws me; I would wish, even only for an instant,
-to glimpse Your Face, O my God! Calvary is night,
-solitude, dark pain that frightens me; but in the darkness
-a cross rises and on that cross I contemplate You, crucified for love. I glimpse Your Face not transfigured
-by glory, but disfigured by pain, fruit of our
-sins!
+"O Physician of my soul, reveal to me the fruits of my
+confession. I confess myself so that confession of my
+evils... may awaken my heart, that it may not sleep; but even saying this I do not feel myself capable; may it awaken in love of
+Your mercy and in the sweetness of Your grace, through
+which every infirm spirit feels itself strong and becomes aware of its weakness.
 
-O Jesus, destroy in me sin, that sin that
-disfigured Your Face, that sin that disfigured
-my soul, created in Your image and likeness. But for this destruction to happen it is necessary that I participate
-in Your Calvary, in Your Cross; deign, then, O Lord,
-to associate with Your Passion all the small and
-great sufferings of my life, so that through them I may be purified
-and be disposed to ascend from clarity to clarity, up to
-total transfiguration in You.
+"I will love You, O Lord, and I will give You thanks and exalt
+Your name, because You forgave me so many evil deeds. It was
+the work of Your grace and of Your mercy, if my
 
-The light, the glory of Tabor encourage me; thanks, O Lord,
-for having granted me, even if only for brief instants,
-to contemplate Your splendor, to enjoy Your divine
-consolations; thus refreshed and encouraged I descend from the
-mountain to follow You alone, to Calvary.
+
+sins You melted like ice. Work of Your grace
+is also all the evil I have not done. What sin was there
+I did not know how to commit, I who loved fault even gratuitously? And I confess that all sins were forgiven me,
+both those I committed spontaneously and
+those I did not commit with Your help" (St. Augustine).
+O my God, who by one single act of Your will
+created light and light was, repeat over me Your omnipotent creative word: "fiat lux," and there will be light in
+my soul; and in Your light I shall be able to see myself as I really
+am in Your sight. But light is not enough for me, so
+weak and feeble; I need strength, O Lord; I need
+a strong and resolute will to detest every form of evil,
+to detest my selfishness, my pride, my sloth, to renew and strengthen the resolution to conquer myself
+for love of You. Yes, O Lord, with Your help I want to conquer myself,
+not for the vain satisfaction of feeling better,
+but solely to please You, to avoid the smallest
+thing that displeases You, to grow in Your love, to enter
+ever more deeply into Your union. O my God, Infinite Perfection, envelop and penetrate my soul with the reflection
+of Your holiness and as the sun with its ray illuminates,
+purifies, and makes the earth fruitful, so You enlighten, purify,
+sanctify my whole being. Teach me to look at myself in
+You, to know myself in You, to consider my miseries in the
+reflection of Your infinite perfections, to throw open my
+soul to the invasion of Your purifying, sanctifying light.

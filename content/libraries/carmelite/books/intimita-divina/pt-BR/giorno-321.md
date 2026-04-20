@@ -1,51 +1,43 @@
-## 321 — AS OBRAS APOSTÓLICAS
+## 321 — BEM-AVENTURADOS OS PACÍFICOS
 
 ### Presença de Deus
 
-Ó meu Deus, torna-me digno de colaborar na difusão do teu reino de amor.
+Ó Espírito Santo, ajuda-me a estabelecer meu coração na paz.
 
 ### Meditação
 
-O apostolado da oração e do sofrimento, por sua eficácia e fecundidade intrínsecas, tem primazia sobre toda outra forma de apostolado, a tal ponto que, mesmo sem ser acompanhado de alguma atividade exterior, basta para fazer daqueles que o vivem apóstolos eminentes.
+1. — A alma que, sob o influxo do dom da sabedoria, saboreou Deus olha o mundo com os olhos cheios dele e justamente assim se torna capaz de julgar todas as coisas *secundum rationes divinas* (II-II, q. 45, a. 3), segundo as razões divinas, segundo os motivos sobrenaturais e não segundo as curtas razões humanas.
 
-Contudo, na sociedade e na Igreja, também são necessárias as obras. Deus as quer e, de ordinário, intervém no mundo justamente por meio da atividade de seus apóstolos. Para difundir nas almas a vida da graça, ao lado do apostolado interior dos contemplativos, é necessária a atividade externa dos Pastores e dos fiéis.
+Estes são os verdadeiros juízos «sábios», aos quais nunca poderíamos chegar sem a ajuda do Espírito Santo. De fato, «o homem animal [o homem dos sentidos e da pura razão] não entende as coisas do Espírito de Deus; para ele são loucura e não as pode compreender... ao contrário, o homem espiritual [o homem da fé guiado pelo Espírito Santo] julga tudo» (1Cor. 2, 14-15).
 
-Para administrar os sacramentos, é necessário o ministério sacerdotal; para converter os infiéis, são necessários missionários; para a formação cristã da juventude, são necessárias escolas e educadores; para a cristianização da sociedade, são necessárias obras sociais e profissionais que sejam apóstolos no próprio ambiente de vida.
+Julga tudo em relação à Causa suprema, Deus, e por isso dirige todos os seus atos e ordena todas as coisas da vida em relação a ele. Desta ordem — a única verdadeira ordem — nasce a paz, fruto da sábia direção do dom da sabedoria; por isso o homem que vive habitualmente sob o influxo desse dom é o homem «pacífico» por excelência. Seu coração está estabelecido na paz: nele já não há desordem, mas todo afeto e desejo, todo pensamento e ato está plenamente ordenado segundo Deus, isto é, plenamente submetido e conforme à sua lei, à sua vontade, ao seu beneplácito.
 
-No campo do apostolado, como diz São Paulo, há muitos ministérios e muitos ofícios de importância e valor; no entanto, todos derivam de um só Espírito, o Espírito Santo, que «distribui a cada um como quer» e, ao mesmo tempo, ordena tudo a um único fim: o incremento do Corpo místico de Cristo (cf. 1Cor 12).
+Possuindo a paz, torna-se semeador de paz: pacífico, no sentido etimológico, é justamente aquele que põe a paz, que cultiva a paz e a difunde ao seu redor. Eis por que ao dom da sabedoria corresponde a bem-aventurança da paz: «bem-aventurados os pacíficos».
 
-E, assim como no corpo um membro não pode dispensar o outro — «nem o olho pode dizer à mão: não preciso de ti; nem a cabeça aos pés: não preciso de vós» — assim também os contemplativos não podem dizer aos ativos: «vossas obras não são necessárias», nem estes podem dizer àqueles: «vossa oração é inútil».
+Só quem vive sob o influxo deste dom pode verdadeiramente julgar e ordenar tudo em relação a Deus e, desse modo, nada, nem mesmo o sofrimento, pode perturbar sua paz interior, porque sabe que também os acontecimentos mais dolorosos são permitidos e dirigidos por Deus para o bem de seus eleitos: «tudo coopera para o bem dos que amam a Deus» (Rm. 8, 28).
 
-Nem os sustentadores das várias atividades apostólicas podem colocar-se uns acima dos outros ou preferir-se entre si. Pelo contrário, estimando-se mutuamente, todos devem trabalhar com espírito de solidariedade, ajudando-se reciprocamente e cuidando cada um de cumprir o próprio ofício com a maior perfeição possível.
+Justamente assim o dom da sabedoria confere nota de suavidade não só à oração, mas também à vida prática: «sob o influxo deste dom — diz São Tomás — a amargura muda-se em doçura, a fadiga em repouso» (II-II, q. 45, a. 3).
 
-Do amor com que cada um desempenha os próprios encargos e, ao mesmo tempo, permanece unido aos outros apóstolos, sempre pronto a apoiar e favorecer as obras alheias, resulta precisamente o bem universal da Igreja, bem para o qual o apóstolo deve tender acima de toda obra ou interesse pessoal.
+2. — O dom da sabedoria conduz-nos à paz: paz interior da alma que, tendo saboreado Deus, se entrega a ele sem reserva alguma, totalmente rendida à sua vontade divina; paz serena de quem, vendo Deus em tudo, aceita sem perturbar-se as adversidades da vida, adorando nelas as disposições divinas; e também paz social de quem, considerando os homens em relação a Deus, como criaturas e filhos seus, ama a todos e quer viver em paz com todos.
 
-Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt 28,19-20).
+Quanto mais perfeita for essa paz, mais nos conduzirá a saborear o prêmio prometido por Jesus: «Bem-aventurados os pacíficos, porque serão chamados filhos de Deus» (Mt. 5, 9).
 
-Ao lado deste apostolado hierárquico, reservado aos clérigos, há o dos leigos, que a Igreja convida a colaborar com a Hierarquia. Os Pastores guiam, governam, traçam as linhas; sob sua direção, os fiéis são chamados a oferecer sua obra.
+Todos os cristãos são filhos de Deus pela graça, mas aqui se trata de prêmio particular, podemos dizer de superabundância da graça de adoção; aqui entra algo de experimental, pelo qual a alma não só sabe, mas sente e saboreia ser filha de Deus. É o sentido saboroso da filiação divina que nasce na alma sob o influxo do dom da sabedoria. «O próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus» (Rm. 8, 16). Esta afirmação de São Paulo torna-se realidade viva, experiência saborosa.
 
-Compreende-se, portanto, que o apostolado autêntico, o único que pode entrar no plano de Deus para a salvação do mundo, é o que se realiza em harmonia com as diretrizes da Igreja. Não merece o nome de apóstolo quem quer trabalhar na vinha do Senhor independentemente daqueles que o próprio Senhor predispôs para seu cuidado e governo; uma atividade desse gênero não só não cooperaria para os fins do apostolado, como antes seria dano e obstáculo.
+A alma sente-se chamada filha de Deus não pelos homens, mas pelo próprio Deus; nenhuma voz sensível lhe fala, mas quanto mais se sente atraída por Deus e o saboreia numa íntima união, tanto mais sente que Ele é seu Pai e ela, pequena criatura, é sua filha.
 
-Nesta colaboração com a Hierarquia vêm em primeiro lugar as almas consagradas a Deus por vínculos estáveis: irmãos e irmãs religiosos dedicados às obras externas de apostolado e membros dos Institutos Seculares. Seguem-se os pertencentes à Ação Católica; e há lugar também para os simples cristãos que, privada ou coletivamente, exercem alguma forma de apostolado.
+Nosso Deus é o Deus da paz; por isso é bem justo que o pacífico, aquele que possui e difunde a paz, deva sentir-se de modo todo particular filho seu. Se os homens, em geral, sentem-se tão pouco filhos de Deus, é também porque são tão pouco pacíficos: mais prontos às lutas e guerras do que à paz. De paz se fala, mas paz não se faz, porque o homem não se deixa guiar pelo Espírito da sabedoria e quer guiar-se por si mesmo com sua insipiência, e assim é dominado pelo orgulho, pelo interesse, pela cobiça; vive no desordem e semeia desordem.
 
-Não por acaso Pio XII, na Encíclica *Mystici Corporis*, ao tratar da colaboração dos fiéis no apostolado dos Pastores, nomeou expressamente os pais e as mães de família, justamente porque todo cristão que trabalha para fazer penetrar o espírito do Evangelho no próprio ambiente de vida — casa, escola, oficina, hospital etc. — é verdadeiro colaborador da Hierarquia.
-
-Aliás, o mesmo Papa afirma: «Este trabalho apostólico, realizado segundo o espírito da Igreja, consagra o leigo quase como ministro de Cristo», no sentido em que Santo Agostinho explica: «Ó irmãos... também vós, ao vosso modo, deveis ser ministros de Cristo, vivendo bem, dando esmolas, pregando o seu nome e a sua doutrina. Assim [também o pai de família] exercerá em sua casa o ofício de clérigo e, de certo modo, de bispo, servindo a Cristo para estar com Ele eternamente» (*Summi Pontificatus*).
-
-É precisamente neste sentido que São Pedro, dirigindo-se aos fiéis, não hesitava em dizer: «Sois raça eleita, sacerdócio régio» (1Pd 2,9).
+Quanto mais nossa alma estiver estabelecida na paz e quanto mais formos mensageiros de paz, tanto mais o Espírito Santo infundirá em nossas almas esse sentido saboroso da nossa filiação divina, e isso se tornará para nós motivo de imensa bem-aventurança, verdadeiro prelúdio da bem-aventurança eterna.
 
 ### Colóquio
 
-«Meu Deus, faze que eu já não pense se tenho a perder ou a ganhar, mas que meu único fim seja servir-te e agradar-te. Conhecendo o amor que nos tens, renuncio de boa vontade a toda satisfação minha, para não contentar senão a ti, servindo o próximo e anunciando às almas as verdades que lhes fazem bem. Das perdas que eu possa ter, não, não me preocupo de modo algum: quero ter diante de mim somente o interesse do próximo e nada mais.
+«Dá-nos, ó Espírito, tua sabedoria para que nos ensine a conduzir e reconduzir todas as coisas a ti, de onde procederam. Oh, se retornássemos verdadeiramente a ti, como de ti saímos, à maneira de rios que voltam ao mar de onde tiveram origem; oh, se fizéssemos este retorno completo a ti, estaríamos em perpétua felicidade e perpétua paz!
 
-«Para melhor agradar-te, meu Deus, quero esquecer-me de mim pelos outros, pronta até a morrer, se for preciso, como fizeram muitos mártires.
+«Tua sabedoria é perfeição que ordena todas as coisas, olhando sempre para ti, que és seu fim; considera o passado, olha o presente e mira o futuro sempre em relação a ti. Disso nasce a paz em nosso coração, doce fruto da sabedoria. Quem possui esta paz está sempre tranquilo: tranquiliza-se nas coisas passadas, aquieta-se nas presentes, fica em paz prevendo as futuras, porque sabe que tudo é permitido e disposto por tua suma Bondade.
 
-«Creio que uma das maiores consolações desta vida é ver as almas aproveitarem por nosso intermédio. Felizes, Senhor, aqueles a quem concedes esta graça!» (cf. Santa Teresa de Jesus).
+«Ó Eterno Pai, dá-nos luz para conhecer esta paz, causa de tantos bens e sem a qual se cai em tantos defeitos e em tanto mal!
 
-«Meu Deus, feliz aquele que provou quão doce é trabalhar pela salvação das almas! Então ele não teme nem frio nem calor, nem fome nem sede, nem desgostos nem afrontas, nem sequer a morte.
+«Oh, por que não posso eu comunicar esta santa paz a toda criatura? Oh, se eu fosse aquilo que deveria ser, bem poderia difundi-la por toda parte! Dá-me, ó Senhor, tua paz: paz do coração que vive unido a ti, porque de mim não posso ter bem algum e sem ti não posso ter paz» (cf. Santa Maria Madalena de' Pazzi).
 
-«Ó Senhor, dá-me cruzes, espinhos e perseguições de todo gênero, contanto que eu possa salvar almas, entre as quais a minha. *Da mihi animas, coetera tolle*: Senhor, dá-me almas e toma todo o resto.
-
-«Só quando eu souber que o demônio cessou de armar ciladas às almas, cessarei de buscar novos meios para salvá-las de seus enganos e de suas insídias.
-
-«Ó Senhor, quero fazer-te um sacrifício total da minha vida; quero trabalhar até o último suspiro para tua glória, suportando com paciência as adversidades e contrariedades no bem operar. Ajuda-me tu a empregar, enquanto puder, todas as minhas forças para a salvação das almas» (São João Bosco).
+«Ó benigníssimo Jesus, concede-me que acima de toda coisa desejável eu repouse em ti e que meu coração encontre quietude somente em ti. Tu és a verdadeira paz do coração, seu único refúgio, enquanto fora de ti não há senão aflição e inquietação. Nesta paz, portanto, isto é, em ti, sumo e eterno Bem, eu terei quietude e repouso» (Imitação III, 15, 4).

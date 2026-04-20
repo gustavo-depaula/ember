@@ -1,44 +1,52 @@
-## 335 — OS NOSSOS DEVERES
-*XXII domingo depois de Pentecostes*
+## 335 — RUMO À PÁTRIA
+*XX domingo depois de Pentecostes*
 
 ### Presença de Deus
 
-Ensina-me, Senhor, a cumprir todos os meus deveres em homenagem à tua soberana Majestade.
+Ó Senhor, ensina-me o caminho para chegar até ti.
 
 ### Meditação
 
-A liturgia de hoje pode ser sintetizada na conhecida frase de Jesus, que lemos no Evangelho (Mt 22,15-21): «Dai a César o que é de César e a Deus o que é de Deus.» Em outras palavras: cumpri com exatidão os vossos deveres para com Deus e para com o próximo, dando a cada um o que lhe é devido.
+Este domingo tem um tom particular, o tom das coisas que caminham para o fim. Dentro de pouco tempo o ano litúrgico terminará e, ao terminar, convida-nos a refletir sobre a caducidade da vida presente e a voltar o olhar para a vida eterna que nos espera.
 
-A Epístola (Fl 1,6-11) apresenta São Paulo como modelo de caridade para com aqueles que Deus confiou aos nossos cuidados. «Trago-vos no coração», escreve o Apóstolo aos filipenses, «como participantes comigo da graça, tanto nas minhas cadeias como na defesa e confirmação do Evangelho.»
+Espontaneamente os ânimos se recolhem numa revisão da própria situação: como empregamos o tempo recebido de Deus? No Intróito encontramos a humilde confissão: «Ó Senhor, pecamos contra ti e não observamos teus preceitos»; e na Coleta, o pedido de perdão: «Concede, Senhor, a teus fiéis, aplacado, o perdão e a paz».
 
-Paulo sente vivamente sua paternidade espiritual para com as almas que gerou em Cristo. Mesmo de longe, sente-se responsável pela perseverança delas no bem; sustenta-as com afeto paterno e sábios conselhos: «Aquele que começou em vós a boa obra há de levá-la a termo até o dia de Cristo Jesus.»
+Depois, São Paulo, na Epístola (Ef 5,15-21), ensina-nos a usar do melhor modo o tempo que nos resta para chegar à glória eterna: «Vede, pois, irmãos, como andais prudentemente: não como insensatos, mas como sábios, remindo o tempo, porque os dias são maus». O Apóstolo explica em que deve consistir nossa sabedoria: «Não sejais imprudentes, mas procurai compreender qual é a vontade de Deus».
 
-Não quer que se assustem por causa de sua ausência: ele não passa de pobre instrumento; só Deus é o verdadeiro guia das almas e continuará a obra iniciada. Quanto a ele, estejam certos de que não cessa de amá-los: «Deus é testemunha de como vos amo a todos nas entranhas de Cristo Jesus.»
+A maior loucura e imprudência que se pode cometer na viagem desta vida é seguir o próprio capricho, a própria vontade; assim se toma um caminho muito perigoso e que nunca conduzirá à meta, ao passo que o único caminho que ali chega é o da vontade de Deus. Quem procura com sinceridade a vontade divina e caminha nela, em vez de ser guiado pelo próprio espírito, é guiado pelo Espírito de Deus, o Espírito Santo, e pode, portanto, estar certo de não se enganar.
 
-São João Crisóstomo diz que o coração de Paulo é o coração de Cristo, por causa do grande amor às almas que o torna tão semelhante ao Mestre. Assim deveria poder-se dizer do coração de todo apóstolo. Quando Deus põe uma alma em nosso caminho e nos pede que cuidemos dela, não podemos mais desinteressar-nos; essa alma fica ligada à nossa, e devemos sentir-nos responsáveis por ajudá-la até o fim.
+«Enchei-vos do Espírito Santo» — exorta-nos hoje São Paulo — «falando entre vós com salmos, hinos e cânticos espirituais, cantando e salmodiando em vosso coração ao Senhor... sujeitando-vos uns aos outros». Quando uma alma se deixa docilmente guiar pelo Espírito Santo, Ele a toma e a invade até enchê-la de si. Dessa plenitude floresce espontaneamente o espírito de oração; florescem espontaneamente a virtude, a humilde submissão e a concórdia fraterna.
 
-Depois de falar da solicitude que devemos ter por aqueles confiados aos nossos cuidados, a Epístola recorda também a caridade em geral para com qualquer próximo: «que a vossa caridade cresça cada vez mais em conhecimento e em todo discernimento». Trata-se de uma caridade cada vez mais delicada na compreensão do outro, cada vez mais fina em adaptar-se à mentalidade, às exigências e até aos defeitos alheios; caridade que nos deve levar, como diz São Paulo, a «discernir e praticar o melhor», para que sejamos «sinceros e irrepreensíveis para o dia de Cristo».
+Caminhar na vontade divina, guiados pelo Espírito Santo, é a via mais rápida e segura para chegar à pátria celeste.
 
-O Evangelho ensina também o dever do cristão diante da autoridade civil. A questão insidiosa sobre se é lícito ou não pagar tributo a César oferece a Jesus a ocasião de resolver o problema das relações entre deveres civis e deveres religiosos. Ele pede uma moeda e pergunta: «De quem é esta imagem e inscrição?» «De César», respondem. E Ele replica: «Dai, pois, a César o que é de César e a Deus o que é de Deus.»
+Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
 
-Não há oposição entre os direitos do poder político e os direitos de Deus, pois «nenhum poder haveria se do alto não te fosse dado» (cf. Jo 19,11): a autoridade política legitimamente constituída vem de Deus e deve ser respeitada como reflexo da autoridade divina.
+Um oficial do rei, tendo ouvido falar das curas maravilhosas operadas por Jesus, vai até ele e lhe pede que vá à sua casa para «curar-lhe o filho, que está para morrer». Esse homem tem fé na virtude taumaturga do Mestre, mas está bem longe de crer que Ele é o Filho de Deus.
 
-Por isso, o cristão deve cumprir todos os deveres de bom cidadão e obedecer à autoridade política, salvo quando esta mandar coisas contrárias à lei de Deus, porque nesse caso já não representa a autoridade divina; então, como diz São Pedro, «é preciso obedecer a Deus antes que aos homens» (At 5,29).
+Jesus compreende e responde: «Se não virdes sinais e prodígios, não credes». Essas palavras, dirigidas historicamente ao oficial e aos seus conterrâneos, valem moralmente para todos os que fazem depender sua fé daquilo que se vê ou se sente. Poucos são os que creem com simplicidade no Evangelho, na Revelação, no magistério da Igreja; a maioria permanece indiferente e só se comove diante de algum fato insólito que impressione os sentidos.
 
-Não devemos pensar que, por nos termos dedicado ao apostolado ou consagrado a obras religiosas, ficamos dispensados dos deveres civis. Ao contrário, também nesse campo os católicos deveriam ter primazia. Imperadores, reis, homens públicos e militares que a Igreja honra como santos dizem-nos que a santidade é possível em toda parte e pode realizar-se também no serviço do Estado, porque também aí se trata de servir a Deus nas criaturas.
+É verdade que o Senhor pode servir-se também disso para ajudar nossa fraqueza, mas não é essa a fé que lhe agrada: «Bem-aventurados os que creram sem terem visto» (Jo 20,29), disse a Tomé, que não queria crer senão vendo o sinal dos cravos e pondo o dedo nas chagas.
 
-Ao dizer para dar a César o que é de César, Jesus ensina-nos a dar ao Estado tudo o que lhe compete, isto é, tudo o que concerne à ordem e ao bem público temporal. Mas Jesus não para aí e acrescenta: «e a Deus o que é de Deus.»
+O motivo profundo da fé não é a nossa experiência, não é ter visto ou tocado com a mão, mas é a autoridade de Deus. Deus se revelou; Ele não se engana nem pode enganar, e nós cremos com segurança na sua palavra. Crer na palavra de Deus: eis a fé genuína, a fé pura que agrada ao Senhor.
 
-Se o dinheiro, que traz a efígie de César, deve ser devolvido a César, muito mais nossa alma, que traz em si a imagem de Deus, deve ser devolvida a Deus. Dizer que a Deus devemos dar a alma é dizer que lhe devemos dar tudo, porque tudo recebemos d’Ele.
+Jesus, que queria conduzir o oficial a essa fé, disse-lhe: «Vai, teu filho vive». «Aquele homem creu na palavra que Jesus lhe dissera e partiu.» Ainda não era a fé sobrenatural no Filho de Deus; contudo, era um ato de fé na palavra do Mestre e, embora imperfeito, produziu seu fruto: o filho foi curado.
 
-Nesse sentido, cumprir nossos deveres para com o próximo — para com iguais ou inferiores, para com superiores eclesiásticos ou civis — é cumprir nossos deveres para com Deus: é devolver-lhe o que nos deu, submetendo nossa liberdade à sua e pondo nossa vontade a serviço da vontade d’Ele.
+O Senhor não exige mais do que cada um pode dar-lhe. Vendo a boa vontade, vendo o esforço sincero, Ele mesmo intervém para aperfeiçoar a obra. Assim, a fé imperfeita e ainda humana do oficial foi premiada com a cura do filho e, em consequência, sua fé tornou-se sobrenatural: creu em Jesus não mais como em simples profeta ou taumaturgo, mas como no Filho de Deus; «creu ele e toda a sua família».
+
+Nesta vida caminhamos para Deus não na visão, mas na fé. Quanto mais pura for a nossa fé, despojada de elementos humanos, tanto mais agradará a Deus e nos permitirá conhecer e cumprir com amor sua santa vontade.
 
 ### Colóquio
 
-«Ó meu Deus, já que sou teu por tantas razões e tenho tantos deveres de servir-te, não permitas nunca mais que a culpa, Satanás ou o mundo usurpem, ainda que minimamente, aquilo que é inteiramente teu. Mas toma, se assim te agrada, posse inteira e absoluta do meu ser e da minha vida. Ó meu Deus, eis-me todo entregue a ti, prometendo não querer existir senão para ti e não querer, nem pensar, nem dizer, nem fazer, nem sofrer coisa alguma senão por amor de ti, hoje, amanhã e sempre» (São João Eudes).
+«Sê propício a teus filhos, ó Mestre divino, Pai e Senhor. Concede a nós, que seguimos teus preceitos, refletir tua imagem e experimentar, segundo nossas forças, tua bondade e não a severidade do teu juízo.
 
-«Ó meu Senhor Jesus, Tu me deste a ti mesmo e de mim não pedes senão o coração. Mas, meu Senhor, que é este meu coração, sendo Tu tão grande? Se eu tivesse um coração que valesse mais que todos os corações dos filhos dos homens juntos e todos os afetos dos anjos, e fosse tão capaz que contivesse ao mesmo tempo muitas coisas espirituais e corporais, e pudesse conter mais que o mais alto céu, eu deveria consagrá-lo todo e inteiramente a ti; e ainda seria pequeno dom para tão grande Senhor, quase nada.
+«Concede-nos viver todos na tua paz, ser admitidos no teu reino, depois de atravessar sem naufrágio as ondas do pecado, impelidos adiante em plena bonança pelo Espírito Santo, tua Sabedoria inefável, e por Ele guiados noite e dia, até o dia perfeito.
 
-«Que te darei, então, senão esta pequena centelha de coração que encontro em mim? E, no entanto, é para mim coisa imensa que te dignes receber meu coração. Não seria eu insensato se daqui em diante o consagrasse a alguma criatura, quando meu Deus o quer para si? Não quero que ele permaneça mais em mim; quero que repouse todo em ti, que o criaste para que te louvasse.
+«Concede-nos, até a última hora, rezar dando graças e dar graças rezando ao único Pai e Filho, Filho e Pai, o Filho educador e mestre, juntamente com o Espírito Santo» (Clemente de Alexandria).
 
-«É melhor que meu coração esteja no gozo eterno, na divina majestade, na imensa bondade, do que na minha fragilidade; na tua santidade e não na minha iniquidade» (São Boaventura).
+«Senhor, Tu sabes o que é melhor para mim; faça-se isto ou aquilo, segundo tua vontade. Dá-me o que queres e quando queres. Age comigo como sabes ser melhor, como te agrada, e segundo for para tua maior honra.
+
+«Põe-me onde quiseres e dispõe de mim livremente em tudo. Eu estou em tuas mãos; faze de mim o que julgares. Eis-me aqui, teu servo, disposto a tudo, pois não desejo viver para mim, mas somente para ti, e que ao menos eu possa fazê-lo digna e perfeitamente!
+
+«Ó benigníssimo Jesus, concede-me que eu possa sempre desejar e querer somente o que te é mais agradável e mais caro; tua vontade seja a minha, e a minha siga sempre a tua e com ela concorde plenamente.
+
+«Meu querer e não querer seja sempre igual ao teu, Senhor, de modo que eu não possa desejar ou desprezar senão aquilo que Tu ...»

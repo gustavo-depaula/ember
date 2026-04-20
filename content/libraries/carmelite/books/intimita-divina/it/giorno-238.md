@@ -1,95 +1,19 @@
-## 238 — FEDE VISSUTA
+## VIII — L'AMORE INFINITO
 
-### Presenza di Dio
-
-O Signore, fa' che la fede sia la luce che mi guidi in ogni circostanza della vita.
+**Presenza di Dio.** — *O mio Dio, che sei tutto amore, accendi in me la fiamma della carità.*
 
 ### Meditazione
 
-1. — La fede deve essere la luce che illumini tutta la
-nostra vita e non solo le nostre ore di preghiera. Nella preghiera tu dici: « Credo in Dio Padre onnipotente », ma pochi istanti dopo, di fronte ad un dovere difficile, ad una
-persona importuna, ad una circostanza che turba i tuoi piani
-dimentichi che tutto ciò è voluto, è disposto da Dio per il
-tuo bene; dimentichi che Dio è Padre e, come tale, pensa
-al tuo bene più di quello che tu stesso possa pensarvi; dimentichi che Dio è onnipotente e, come tale, può aiutarti in
-ogni difficoltà. Perdendo di vista la luce della fede che ti
-fa vedere tutte le cose in dipendenza da Dio e da lui ordinate per il tuo vantaggio, ti smarrisci in considerazioni, in
-proteste puramente umane, come se Dio non entrasse per
+**1** — La S. Scrittura ci dice: «Deus charitas est» *(I Gv.* 4, 16). Dio è amore, amore infinito, sostanziale. Come tutto ciò che è in Dio è bello, buono, perfetto, santo, così tutto ciò che è in Dio è amore: la sua bellezza, la sua sapienza, la sua onnipotenza, la sua provvidenza e perfino la sua giustizia è amore. L'amore è tutto e santo quando si rivolge con tutte le sue forze al Bene sommo, preferendolo a tutti i beni; questo è l'amore con cui Dio ama se stesso, appunto perché egli è il Bene, l'unico bene sommo ed eterno, a cui nessun bene può essere preferito. L'amore infinito che Dio porta a se stesso è, quindi, per sua natura tutto santo e non ha nulla a che fare con quello che noi chiamiamo egoismo o amor proprio per cui amiamo noi stessi con affetto disordinato, sì da preferirci — in poco o in molto e talvolta perfino in tutto — a Dio, Bene sommo. Noi siamo egoisti perché tendiamo ad amare noi stessi escludendo ogni altro affetto, ma Dio è così scevro da ogni ombra di egoismo che, pur amando infinitamente se stesso ed essendo totalmente pago del suo bene infinito, tende per sua natura ad effondere il suo amore anche al di fuori di sé. È così che Dio ama le creature; non le ama davvero per ciò che è in esse qualche bene che li attiri, ma è lui stesso che, amandole, crea in loro il bene. «L'amore di Dio — dice S. Tommaso — è la causa che infonde e crea la bontà nelle cose» (I, q. 20, a. 2); ecco, dunque, come Dio ci ama: con amore del tutto gratuito e libero, con amore sommamente puro, con amore che è insieme benevolenza e beneficenza: *benevolenza* che vuole il nostro bene, *beneficenza* che fa il nostro bene. Amandoci Dio ci chiama alla vita, infonde in noi la grazia, ci sollecita al bene, ci invita alla santità, ci attrae a sé, ci rende partecipi della sua felicità eterna; tutto ciò che siamo ed abbiamo è dono del suo amore infinito.
 
-nulla nella tua vita o vi entrasse solo molto poco; ti perdi
-in pensieri simili a quelli di chi non ha fede, Sì,
-credi in Dio Padre onnipotente, ma non ci credi al punto da
-riconoscere la sua volontà o, almeno, la sua permissione, in
-tutte le circostanze. Eppure, fino a che la fede non penetrerà
-nella tua vita al punto da farti considerare tutto in rapporto
-a Dio, in dipendenza da lui, non potrai dire che la luce della
-fede è la guida della tua vita. Ossia, lo è, ma solo parzialmente; quante volte questa luce vera, che partecipa della
-luce di Dio, rimane nascosta sotto il moggio della tua mentalità ancora troppo umana, troppo terrena! Gesù ha detto
-che « non si accende una lucerna per metterla sotto il moggio, ma sul candeliere, perchè faccia lume a tutti quelli che
-sono in casa» (Mt, 5, 15). La lucerna della fede è stata accesa in te il giorno del tuo battesimo e tu devi metterla in
-alto, al di sopra di tutti i tuoi pensieri, di tutti i tuoi ragionamenti, affinchè illumini tutta la tua vita, tutta la tua casa:
-la casa interiore dell'anima tua, la casa esteriore in cui vivi,
-l'ambiente in cui ti muovi, le persone con le quali tratti.
+**2** — «Dio per primo ci ha amati» esclama l'apostolo S. Giovanni *(I Gv.* 4, 10) e di fatto ci ha amati fin dall'eternità. Non eravamo nel nulla, tuttavia già stavamo nel pensiero di Dio ed Egli, vedendoci, ci ha amati ed ha decretato di chiamarci all'esistenza a preferenza di innumerevoli altri esseri. «Con amore eterno ti ho amato e perciò ti ho tirato a me, pieno di compassione» *(Ger.* 31, 3): ecco come Dio stesso ci rivela la storia della nostra vita, che è la storia del suo amore per noi. Storia che, una volta iniziata, non ammette fine, perché l'amore di Dio non ha fine; solo il peccato ha la triste possibilità di interromperla, ma di per sé Dio sempre ci ama e ci amerà con amore incessante, infinito, eterno, immutabile, fedelissimo. Dio ci ama quando ci consola, ma ci ama anche quando ci prova e ci lascia nello sconforto; ci ama quando ci dona gioia a piene mani, ma ci ama anche quando ci affligge nel dolore; le sue consolazioni sono amore, ma non meno di esse lo sono i suoi castighi e le sue prove. In ogni circostanza, sia pure la più triste e la più penosa, siamo sempre circondati dal suo amore il quale non può essere che amore del bene e perciò vuole infallibilmente il nostro bene anche quando ci conduce per la via aspra e dura della sofferenza. Dio ci «fa morire e ci fa vivere,... ci flagella e ci salva» (cfr. *I Re,* 2, 6; *Tob.* 13, 2) sempre a motivo del suo amore. Anzi, non è raro che egli colpisca maggiormente coloro che ama di più «perché — dice lo Spirito Santo — gli uomini accetti sono provati nel crogiuolo dell'umiliazione» *(Ecli.* 2, 5). E S. Teresa di Gesù afferma: «Questo [il patire] è ciò che il Padre diede a Colui che amava più di tutti [Gesù]... Finché siamo quaggiù questi sono i suoi doni. Ce li dà a seconda dell'amore che ci porta: ne dà di più a chi ama di più, di meno a chi ama di meno» *(Cam.* 32, 7).
 
-2. — Chi vive di fede può ripetere le belle parole di
-Elisabetta della Trinità: «Tutto ciò che accade è per me
-un messaggio dell'amore eccessivo di Dio per l'anima mia ».
-Per arrivare a questo sguardo di fede vivo e profondo devi
-abituarti, nelle tue relazioni con le creature, ad oltrepassare
-le cause seconde per risalire alla Causa prima, a Dio, che
-con la sua Provvidenza tutto governa ed ordina ai suoi santissimi fini. Sapendo e credendo che Colui che guida tutte
-le cose è tuo Padre, ti affiderai al suo governo con piena fiducia e saprai mantenerti sereno anche nelle avversità, ben
-convinto che Egli sa valersi anche del male, anche degli errori degli uomini e perfino dei loro peccati e della loro malignità per il bene degli eletti: « tutto coopera a bene per chi
-ama Dio» (Rom. 8, 28). Lo sguardo di fede è lo sguardo
-più comprensivo e concreto perchè tiene conto della realtà
-intera delle creature e degli avvenimenti, considerandoli, non
-solo nella loro entità materiale, ma anche nella loro relazione
-di dipendenza da Dio. Quanto più saprai guardare tutte le
-cose in questa luce, tanto più ti avvicinerai alla sapienza infinita di Dio, tanto più giudicherai secondo la verità infallibile di Dio. Lo sguardo di fede ti
-renderà così meno difficile accettare certe situazioni dolo
-rose, certe amarezze della vita perchè anche in esse ti farà
-scorgere la mano paterna di Dio che tutto ordina alla tua
-santificazione. Se, giudicando queste. cose dal punto di vista
-umano, sei tentato di protestare, di far valere le tue ragioni,
-i tuoi diritti, di ribellarti a trattamenti di per sè ingiusti, ecco
-che, innalzando lo sguardo a Dio e considerando che Egli
-permette tutto ciò per esercitarti nella virtù, per spingerti
-alla santità, avrai la forza di accettare in pace ogni cosa e di
-mantenerti benevolo verso chi ti fa soffrire. Ma, nello stesso
-tempo, ricorda che la fede è luce oscura per il tuo intelletto
-e perciò molte volte ti chiederà di credere al governo sapiente
-ed amoroso di Dio pur senza intenderne nulla, anzi, sembran
-doti piuttosto il contrario. Proprio in ciò consiste la vera vita
-di fede e l'uomo « giusto vive di fede» (Rom. 1, 17).
+Credere all'amore di Dio, credervi fortemente anche quando ci colpisce in ciò che abbiamo di più caro, ecco il programma dell'anima che vuol fidarsi ciecamente dell'Amore infinito.
 
 ### Colloquio
 
-«Dio mio, per farti piacere e ottenere molto da te devo
-credere semplicemente al tuo amore, alla tua potenza, alla
-dolcezza dei doni tuoi; devo credere che Tu brami comuni:
-carmeli e che il tuo desiderio supra di gran lunga quello
-che io ho di riceverli. Devo crederlo, perchè il giusto vive
-di fede. Voglio essere come una figlia affettuosa che non vuol
-vedere, nè sapere quali mezzi sceglierai per elargirmi i tuoi
-beni ineffabili. Devo soltanto crederlo, perchè il giusto vive
-di fede.
+«Insegna, o mio Dio, a me misero quanto io ti debba amare, e ti amerò con tutto il mio cuore, con tutta l'anima mia, poiché Tu fosti il primo ad amarmi. Ecco che io esisto perché Tu mi creasti; e fin dall'eternità Tu stabilisti di crearmi e di annoverarmi fra le tue creature. E d'onde a me ciò, Signore benignissimo, Dio altissimo, Padre misericordiosissimo, per quali meriti tuoi, per quale mia grazia, piacque alla tua Maestà di crearmi? Io non ero e Tu mi creasti; niente io ero e dal nulla mi traesti, facendomi qualche cosa. E quale cosa? Non stilla d'acqua, non fuoco, non uccello o pesce o qualche altro animale bruto..., ma mi creasti di poco inferiore agli angeli poiché ricevetti come essi la ragione per conoscerti e, conoscendoti, posso amarti. Ed io, o Signore, per la tua grazia sono uomo e posso essere tuo figlio per grazia, il che non possono le altre creature. Questo ha fatto la tua sola grazia, la sola tua bontà, affinché io fossi partecipe della tua dolcezza. Dammi, dunque, la grazia di esserene grato. Tu che dal nulla mi creasti» (S. Agostino).
 
-«O Signore, Tu penetri ovunque con la tua bontà, col
-tuo amore individuale, infinito e con la tua onnipotenza.
-Dammi una fede tanto semplice per cui, senza alcuna riflessione, mi muova e permanga in questa verità come nel
-mio centro e in un asilo di pace, dove niente può colpirmi
+«O mio Dio, Sapienza infinita, senza misura e senza limiti, superiore a tutte le intelligenze angeliche ed umane! O Amore che mi ami più di quanto io sappia intendere ed amare me stessa! Io mi meraviglio, quasi fino ad uscire di me nel considerare l'amore che Tu ci hai portato e ci porti, nonostante quel che siamo.
 
-se vi resto ben nascosta. O Signore, Tu mi ami più di quanto
-io ami me stessa e puoi tutto; vuoi, prima di ogni altra cosa
-il mio bene; devo credere che lo desideri più di me. Eccomi
-dinanzi a te costantemente e in ogni tempo; perchè so che gli
-atti di adorazione perfetta e di abbandono sono tanto più
-veri, umili e semplici quando, privi di qualsiasi sentimento,
-si esprimono col solo appoggio della fede... soprattutto quando l'anima, nella parte inferiore, vede e tocca il vuoto profondo nel tempo e nell'eternità. Ebbene, o Signore, fa' che
-in questi stati io possa rimanere, con la fede, più che mai
-presente innanzi a te. O prodigio! Quando piace alla tua bontà
-divina, l'anima può nella parte superiore sentirsi inondata di
-pace, anche mentre continua la tempesta. O pace ineffabile
-che sorpassi ogni sentimento, tu disgusti per sempre del sensibile e fai correre verso la pura fede come all'unica fonte
-di un bene divino di cui sei il frutto ineffabile e mille volte
-benedetto» (cfr. B. M. Teresa Soubiran).
+«Come potrebbe la mia volontà non sentirsi inclinata ad amarti? O Signore, ho ricevuto da te tante dimostrazioni di amore e desidero ripagarti almeno in qualche cosa. Mi colpisce soprattutto il pensiero che Tu, vero amante, non solo non mi abbandoni, ma mi resti sempre vicino per darmi l'essere e la vita. Comprendo che un amico migliore non potrò mai trovarlo» (T.G. Es. 17, 1; PA. 1, 7; cfr. M. II, 4).

@@ -1,106 +1,25 @@
-## 316 — IDEALE APOSTOLICO
+## XXIV — BEATI COLORO CHE PIANGONO
 
-### Presenza di Dio
-
-Accendi in me, Signore, la fiamma dell'apostolato e alimentala col tuo amore.
+**Presenza di Dio.** — *Concedimi, o Signore, di versare solo lacrime che ti siano accette e mi aiutino a crescere nel tuo amore.*
 
 ### Meditazione
 
-1 — Come il seme non può germinare lo stelo che
-porterà una nuova spiga se prima non affonda le radici
-nel terreno, così l’anima non può dar frutti per l’apostolato se prima non mette le radici di una seria vita inte-
-riore, mediante la quale trarrà da Dio stesso la linfa che
-la renderà feconda. La vita interiore è il principio vitale,
-è la forza, è la fiamma dell’apostolato; ma d'altra parte
-anche l’apostolato può portare il suo contributo alla vita
-interiore, cooperando a renderla più generosa, più intensa.
-Quando un'anima è presa dall’ideale apostolico, il suo
-stesso desiderio di conquistare altre anime a Dio la spinge
-ad impegnarsi con maggiore generosità nella fede,
-nella mortificazione, nell'esercizio delle virtù proprio con
-l’intento di rendersi maggiormente capace di un apostolato fecondo. Così, mentre la vita interiore è l'anima del-
-l'apostolato, l’apostolato è a sua volta una molla assai potente per spingere l’anima all'unione con Dio, alla perfe-
-zione, alla santità. L'ideale apostolico è di per sè suscitatore di energie spirituali, di vita generosa, santa. Teresa
-di Gesù, mossa appunto da un ardente desiderio di controbilanciare il grande male che l’eresia protestante anda-
-va facendo ai suoi tempi, diede alla riforma da lei iniziata un timbro di particolare austerità e organizzò la vita
-delle sue figlie in modo da impegnarle in un continuo
-esercizio di preghiera, di sacrificio, di donazione per la
-salvezza delle anime (cfr. Car. 1, 2). Il sistema di vita del
-Carmelo teresiano — vita contemplativa di profonda intensità — è nato così da un grande ideale di apostolato.
+**1** — Al dono della scienza corrisponde la beatitudine: «Beati coloro che piangono, perché saranno consolati» *(Mt.* 5, 5). Beati anzitutto coloro che, profondamente illuminati dallo Spirito Santo sul nulla delle creature, piangono il tempo trascorso in cerca di esse, le energie e gli affetti sprecati nelle vanità del mondo. Sono le lacrime roventi di S. Agostino che nelle sue *Confessioni* non cessa di lamentarsi: «Tardi ti ho amato, o Bellezza sempre antica e sempre nuova, tardi ti ho amato... Tu eri con me e io non ero con te; mi trattenevano lontano da te le creature». Sono le lacrime della Maddalena penitente e di S. Pietro che piange il suo fallo. Lacrime benedette che lavano le anime dal peccato e le dispongono all'amicizia con Dio. Sono le lacrime delle anime già decise a cercare Dio al disopra di tutte le creature e che tuttavia, a motivo della loro fragilità, devono ogni giorno rimproversi qualche debolezza, qualche piccolo ritorno alle futili soddisfazioni terrene. Il dono della scienza non ci permette di chiudere gli occhi sulle nostre infedeltà, benché lievi, ma ci spinge a detestarle, a piangerle, se non con le lacrime materiali, con le lacrime della compunzione. Un'anima che vive sotto l'influsso di questo dono non sarà mai facilona, né superficiale nei suoi esami di coscienza, e le sue confessioni, benché serene, saranno sempre dolorose, sempre accompagnate da profonda contrizione. Tali erano le confessioni dei santi che col più vivo dolore si accusavano delle minime imperfezioni.
 
-Questo stesso ideale ha fatto sorgere recentemente nella Chiesa un nuovo stato di vita, quello degli
-Istituti secolari, in cui anime desiderose di consacrarsi alla
-salvezza dei fratelli impegnano a vivere nel mondo secondo la perfezione evangelica. « Il fine specifico [di apo-
-stolato] sembra aver necessariamente richiesto e anche
-creato il fine generico [di perfezione] » (Pio XII, Primo
-feliciter).
+Lo Spirito Santo non vuole renderci scrupolosi, ma molto delicati nella nostra fedeltà a Dio, perciò non si accontenta che disprezziamo la vanità del mondo così all'ingrosso, ma vuole che la disprezziamo anche nelle loro più sottili manifestazioni quali sono le piccole rivincite dell'amor proprio, le minime compiacenze di sé, le piccole ricerche dell'affetto e della stima altrui. Beata l'anima che sa riconoscere e piangere le sue miserie non già con lacrime di scoraggiamento o di turbamento, ma con lacrime di profonda contrizione che, anziché restringerla nel timore, la dilatano nell'amore penitente e la buttano fra le braccia di Dio con un cuore rinnovato nell'amore e nel dolore.
 
-Quando l'ideale apostolico è vivo e ben compreso,
-anzichè gettare sventatamente le anime nell’azione, le conduce ad una vita interiore più profonda, al dono totale
-di sè, alla santità, perchè è necessario santificarsi per santificare. «Per essi santifico me stesso» (Gv. 17, 19).
+**2** — Il dono della scienza, facendoci sperimentare a fondo la vanità delle creature, ci convince della loro inconsistenza, defettibilità e quindi ci spinge a riporre in Dio tutte le nostre speranze. In questo senso tale dono perfeziona e rafforza la virtù della speranza affinché, senza più esitare, il nostro cuore si ancori in Dio, riconoscendo in lui il nostro unico appoggio e fondamento, nonché la nostra unica felicità.
 
+Più l'anima spera in Dio e nel possesso beatificante di lui che l'attende nella vita eterna e tanto più è disposta non solo a rinunciare alla felicità ed alle soddisfazioni che le possono offrire le creature, ma anche ad abbracciare tutti i sacrifici necessari per raggiungere la vita eterna. I sacrifici sono molti perché non è possibile andare a Dio se non battendo la stessa via che il Figlio di Dio ha percorso per condurci a lui: la via della croce. Ma, pur soffrendo, l'anima che vive di speranza è capace di ripetere con S. Paolo: «Non ci scoraggiamo... poiché la momentanea e leggera tribolazione nostra procaccia a noi oltre ogni misura uno smisurato peso di gloria» *(II Cor.* 4, 16 e 17). Il dono della scienza ci fa giudicare lievi i dolori presenti in confronto alla beatitudine eterna e in vista di questa ci spinge a benedirli anche se ci costano sangue. Ecco perché l'Apostolo si rallegra e si vanta nelle sue tribolazioni (cfr. *Rom.* 5, 3-5) e S. Francesco d'Assisi canta: «Tanto è il bene che m'aspetto che ogni pena mi è diletto».
 
-2 — Una vita interiore in cui non brilla l'ideale apostolico non potrà mai essere piena, rigogliosa. Ciò dipende
-dalla natura della grazia e della carità che sono per se
-stesse espansive, apostoliche. Sebbene la grazia aderisca in
-modo intimo ed incomunicabile all'anima che ne è dotata,
-tuttavia giova al bene di tutta la comunità cristiana. Il
-dogma della comunione dei santi ci dice appunto che la
-grazia e la santità di un membro di Cristo ridonda a vantaggio di tutte le altre membra. Parimenti la carità, com-
-pagna inseparabile della grazia, è per sua natura espansiva e, abbracciando Dio, abbraccia tutte le creature in Dio.
-Essa imprime all'anima un duplice slancio: verso Dio e
-verso il prossimo; se l'uno o l'altro di questi slanci viene
-represso, la carità resta soffocata nella sua essenza. Questa
-virtù si sviluppa e giunge a maturità solo quando sono in piena efficienza i suoi due aspetti: amore di Dio e amore
-del prossimo; escludendo o diminuendo la carità fraterna,
-di cui l’apostolato è l’espressione più alta, si viene inevitabilmente a diminuire anche l’amore verso Dio.
+Proprio così, sotto l'influsso del dono della scienza, l'anima comprende la beatitudine delle lacrime, la beatitudine delle sofferenze abbracciate per amore di Dio. Questo dono non ci rende insensibili ai dolori fisici e morali, tanto è vero che la beatitudine parla espressamente di «lacrime», ma, benché non c'impedisca di piangere, santifica il nostro pianto e lo rende pianto rassegnato alla volontà di Dio, apprezzato come mezzo di assimilazione a Cristo Crocifisso, pianto preferito alle gioie vane del mondo. Quale differenza tra queste lacrime o quelle versate per orgoglio, per non volersi sottomettere alla volontà divina o per i capricciosi risentimenti dell'amor proprio!
 
-Perciò una vita interiore fredda, indifferente per il
-bene delle anime è necessariamente una vita sminuita, rimpicciolita, ridotta ad una forma di pietà gretta, meschina
-e spesso anche egoista; ha perso il calore vitale, il calore
-della carità e non merita neppure il nome di vita.
-
-
-Dove invece la fiamma dell’apostolato è viva, si ha
-una vita interiore più che mai rigogliosa, capace di grande generosità. Non è forse vero che talvolta il desiderio
-della nostra perfezione non è sufficiente a darci il coraggio per accettare certi sacrifici, certe rinunce che costano
-tanto alla natura? Ma quando si pensa che dalla nostra
-generosità, dalla nostra fedeltà alla grazia, dalla nostra
-immolazione può dipendere la salvezza di altre anime, allora non si può rifiutare nulla al Signore e si trova la
-forza per abbracciare anche le cose più aspre e penose.
-
-Così l'ideale apostolico diventa una leva potente per
-la santificazione personale e l’anima, resa più ricca da una
-fervorosa vita interiore, può mettere a disposizione di
-questo ideale nuove energie, nuova fecondità
+Quando l'anima è arrivata al punto di preferire le lacrime sante versate ai piedi della Croce ai godimenti terreni può sperare nella beatitudine promessa da Gesù: «Beati coloro che piangono, perché saranno consolati».
 
 ### Colloquio
 
-«O Signore, ho in me desideri immensi di servirti, e
-vivissimo è il mio dispiacere nel vedermi incapace di realizzarli. Vorrei alzare la voce per far intendere a tutti
-quanto importi non contentarsi di poco nel tuo servizio,
-e dar a conoscere i grandi tesori che si ricevono da te,
-quando ci si dispone a riceverli.
+«O Signore, la pace che Tu ci dai in questo mondo è piena d'affanni, di tribolazioni e persecuzioni; ma poi ci conduci ad una quieta e tranquilla pace, anzi dirò di più, in mezzo agli stessi affanni ci dai la tua pace, perché finalmente lo Spirito ci rende in qualche modo testimonianza che siamo figli tuoi. Questo vuol dire: 'Beati coloro che piangono, perché saranno consolati'. Non solo ci consolerai in avvenire, ma fai sì che lo stesso pianto sia nostra consolazione e la stessa guerra sia pace. Chi ti ama, o Signore, nel più ardente fuoco delle tribolazioni trova il vento fresco e la rugiada della celeste consolazione!» (S. M. Maddalena de' Pazzi).
 
-«Provo, Dio mio, una pena grandissima per la perdita
-di tante anime, specialmente di coloro che per il battesimo erano già membri della Chiesa, e desidero grande-
-mente di lavorare per la loro salute, tanto da sentirmi
-pronta a sopportare mille morti pur di liberarne una sola
-dai terribili supplizi dell'inferno. Come si può reggere a
-vedere un'anima condannata per l'eternità e ai rigori eterni dei
-supplizi? Se siamo presi di compassione per i dolori di
-questo mondo, che dopo tutto hanno un termine e cessano sempre con la morte, come potremo, o Signore, mo-
-strarci indifferenti innanzi a tormenti che dureranno in
-eterno e innanzi al gran numero di anime che ogni giorno il demonio trascina con sè nell’inferno?
+«Dio mio, sii benedetto perché non ci hai chiesto per prezzo del tuo Regno una sofferenza lunga, ma brevissima, breve quanto la vita, un momento di fronte all'eternità della beatitudine! E certo, se fosse stato necessario sopportare per amor tuo, durante centinaia di migliaia di anni, dolori mille volte più aspri, più duri e penosi, noi avremmo dovuto lo stesso, con immensa gioia, con immenso desiderio, accettare tal decreto e renderti grazie a mani giunte, a ginocchia piegate. Quanto più, dunque, dobbiamo ringraziarti ora che, nella tua misericordia, ci hai concesso la sofferenza più breve che sia possibile, la sofferenza breve quanto la vita! Breve cioè, quanto un istante, quanto un niente. Niente è la vita di fronte all'eternità.
 
-«Poichè Tu, Dio mio, vedi il dolore che provo alla vista del gran numero di quelli che si perdono, salvane
-almeno uno, Signore, almeno uno che possa dar luce a
-molti altri. Non per me, Signore, che non lo merito, ma
-per i meriti di tuo Figlio! Osserva, Signore, le sue piaghe;
-e poichè Egli ha perdonato a quelli che gliele hanno fatte, perdona Tu pure a noi.
-« Dio mio, non voglio che la tua volontà; vi sono
-talmente sottomessa che non desidero più di vivere che
-di morire. Tuttavia, se così a te piace, desidero di vivere per poterti servire un po’ di più. Se potessi contribuire
-in qualche cosa per farti amare e lodare da un’anima anche solo per poco tempo, ciò mi sembrerebbe assai più
-importante che essere già nella gloria» (T.G. RS. 1,3;
-Vi. 32,6; Es. 11, 3; RS.6,7).
+«Venite adunque, venite o figli di Dio, e corriamo alla croce di Cristo, al dolore, al disprezzo, alla povertà! Fa', o Signore, che io ti ami come Tu mi hai amato, con assoluta fedeltà, con purezza assoluta, con l'amore assoluto che nulla serba per sé, che tutto si dona e perciò si slancia ai dolori, alle sofferenze e in tutto non vede e non sente che amore» (Beata Angela da Foligno).

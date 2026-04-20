@@ -1,101 +1,25 @@
-## 251 — CARITÀ FRATERNA
+## XXI — IL MOTIVO DELLA SPERANZA
 
-### Presenza di Dio
-
-— O Signore, concedimi di penetrare il profondo significato del precetto della carità fraterna.
+**Presenza di Dio.** — *Fammi ben comprendere, o Signore, che la mia speranza deve trovare il suo fondamento in te, nel tuo amore, nella tua misericordia infinita.*
 
 ### Meditazione
 
-1. — Gesù ci ha proposto come fondamento di tutta la
-legge non solo il precetto dell'amore di Dio, «il più grande e
-il primo comandamento », ma anche il precetto dell'amore del
-prossimo, dichiarandolo espressamente «simile» al primo
-(Mt. 22, 38 e 39). Che il precetto dell'amore di Dio sia la base di tutta la vita cristiana è facile comprenderlo, ma non è
-altrettanto facile comprendere che tale sia anche il precetto
-della carità fraterna. Eppure Gesù ha connesso così strettamente questi due comandamenti da farci DOSE, che l'uno
-non può sussistere senza l'altro e viceversa; Egli non ha detto
-che tutto si fonda sul primo comandamento, quello dell'amore di Dio, bensì: «su questi due comandamenti [dell'amor
-di Dio e dell'amore del prossimo] si fondano tutta la legge e
-i profeti » (ivi, 40). Ma perchè mettere l'amore del prossimo
-così vicino all'amore di Dio, perchè farne con esso l'unica
-base di tutto il cristianesimo? Perchè la virtù della carità fraterna non è amore della creatura in se stessa e per se stessa,
-ma è amore della creatura « propter Deum», ossia in vista di
-Dio, a motivo delle sue relazioni con Dio. In altre parole,
-dobbiamo ben comprendere che Dio ci comanda di amarlo
-non solo in se stesso, ma anche nelle sue creature ragionevoli
-che Egli si è compiaciuto di creare a sua immagine e somiglianza. Come un padre desidera di essere amato e rispettato
-non solo nella sua persona, ma anche nei suoi figli, così Dio
-desidera di essere amato non solo in se stesso, ma anche nelle
-sue creature e lo desidera a tal punto che considera come fatto e sè tutto ciò che viene fatto a qualsiasi uomo. «In verità
-vi dico — ha detto Gesù — che tutte le volte che avete
-fatto qualche cosa a uno di questi minimi tra i miei fratelli,
+**1** — Se dovessimo fondare la nostra speranza sui nostri meriti, sul grado di grazia che possediamo, la nostra speranza sarebbe molto incerta, perché né possiamo avere la certezza di essere in stato di grazia, nè possiamo essere sicuri delle nostre opere buone, sempre piene di difetti. Ma la nostra speranza è *certa* perché il suo primo fondamento dobbiamo ricercarlo non in noi, ma in Dio, nella sua bontà infinita, nella sua volontà salvifica per cui «vuole che tutti gli uomini si salvino» *(I Tim.* 2, 4), nella sua volontà santificante per cui ci vuole non solo salvi, ma anche santi: «questa è la volontà di Dio, la santificazione vostra» *(I Tess.* 4, 3).
 
+Dio vuole che la certezza della nostra speranza poggi unicamente su di lui. Pur esigendo la nostra collaborazione, le nostre operazioni, non vuole che fondiamo su di esse la nostra fiducia; infatti, Gesù, dopo averci spronato a fare tutto ciò che è in nostro potere, ha soggiunto: «Quando avrete fatto tutto quello che vi è comandato, dite: 'siamo servi inutili'» *(Lc.* 17, 10). Lezione tanto difficile a comprendersi da quelle anime che sono troppo abituate a contare sulle loro forze e che s'illudono di potersi addentrare in una vita spirituale più profonda con le loro risorse personali. Perciò, quando il Signore le vuole far progredire, le fa passare per penosi stati d'impotenza, lascia loro sperimentare le ribellioni e le ripugnanze della natura, affinché si convincano sempre di quanto è vana la fiducia che ripongono in se stesse. E proprio qui sta il punto delicato: saper accettare questa esperienza senza cadere nello scoraggiamento. Se prima contavi su di te ed ora, di fronte a certe difficoltà, a certe prove della vita interiore, vedi le tue forze ridotte al nulla, ringrazia il Signore. Egli in tal modo ti libera dalla troppa fiducia che avevi in te stesso e ti obbliga all'esercizio di una speranza più pura, più soprannaturale, spoglia da ogni elemento di appoggio umano. Ma, se non puoi sperare in te stesso, questo non è un motivo per disperarti, bensì per sperare unicamente in Dio, per buttarti in lui con piena fiducia, un po' come il bambino che, quanto più è incapace ed impotente, tanto più si rifugia fiducioso fra le braccia della mamma.
 
-l'avete fatta a me» (Mt. 25, 40). La carità fraterna è tanto
-importante perchè non è altro che un'estensione della carità
-verso Dio, estensione che abbraccia tutti gli uomini in vista
-di Dio, loro Creatore e loro Padre. Proprio per questo motivo
-il precetto dell'amore del prossimo è inseparabile da quello
-dell'amore di Dio.
+**2** — La certezza della nostra speranza deriva dalla certezza della nostra fede: «So in chi ho posto fede — dice S. Paolo — e son certo che Egli ha il potere di conservare il mio deposito fino a quel giorno», ossia fino alla vita eterna *(II Tim.* 2, 11). Non si tratta di una certezza intellettuale, ma piuttosto di una certezza della volontà, del cuore per cui ci fidiamo pienamente di una persona da cui sappiamo con sicurezza di essere amati. E chi ci ama più di Dio? Chi, più di Dio, ci ha dato prova del suo amore? Guardiamo Gesù in croce e ripetiamo con S. Paolo: «Il Figlio di Dio mi ha amato e ha dato se stesso per me» *(Gal.* 2, 20). Ora, chi «ha un amore più grande di questo, di uno che dia la vita per i suoi amici?» *(Gv.* 15, 13).
 
+Ecco dove si fonda la certezza della tua speranza. Devi sperare di giungere al possesso beatificante di Dio nella vita eterna ed all'unione con lui su questa terra non tanto perché hai fatto sempre il tuo dovere, perché ti senti forte nel bene, virtuoso, ben disposto... ma perché, malgrado la tua miseria e la tua debolezza, sai che Dio è sempre pronto ad aiutarti, purché tu riconosca il tuo nulla e riponga in Lui tutta la tua fiducia. S. Teresa del B. G. diceva: «La santità non consiste in questa o in quella pratica; consiste invece in una disposizione del cuore che ci rende umili e piccoli fra le braccia di Dio, coscienti della nostra debolezza *e confidenti fino all'audacia nella sua bontà di Padre*» (NV.).
 
-2. — Dio ci tiene talmente ad essere amato nel prossimo,
-che pone questo amore come condizione essenziale della nostra salvezza eterna. Quando Gesù ci parla del giudizio finale non porta altro motivo della giustificazione dei buoni
-e della dannazione dei reprobi che le opere di misericordia
-compiute o tralasciate verso il prossimo. « Venite, o benedetti
-dal Padre mio; possedete il regno che vi è stato preparato
-fin dalla fondazione del mondo». Ma perchè? « Perchè io
-ebbi fame e mi deste da mangiare; ebbi sete e mi deste da
-bere...» (Mt. 25, 34 e 35). Ebbi fame nei poveri, ebbi sete
-nel vostro prossimo. Se è molto consolante pensare che Dio
-ritiene e premia come fatte a sè le opere di carità esercitate
-verso il prossimo, è altrettanto grave pensare che Egli ritiene
-e a come rivolte a sè le mancanze di carità commesse
-verso il prossimo stesso. Gesù, che è la personificazione della
-bontà e della misericordia infinita del Padre celeste, non esita
-a pronunciare la sentenza di condanna eterna per coloro che
-non hanno amato, non hanno soccorso, non hanno consolato
-il prossimo, Perchè? Perchè: «Io vi dico in verità che tutte
-le volte che voi non avete fatto [tali cose] a uno di questi
-minimi tra i miei fratelli, non l'avete fatto a me» (Mt. 25,
-45). Dio esige la riprova concreta del nostro amore verso di
-lui nel nostro modo di comportarci verso il prossimo. Non
-possiamo illuderci di amare Dio quando non amiamo i nostri simili che, al pari di noi, sono l'immagine vivente del
-Padre celeste. E che importa se talvolta questa immagine è
-sfigurata dai difetti, dal peccato e forse anche dai vizi? Resta
-pur sempre immagine di Dio, immagine che la carità deve
-
-farci riconoscere, venerare e amare in qualsiasi uomo ed in
-qualsiasi condizione possa trovarsi. Non possiamo accontentarci di amare Dio idealmente, ma dobbiamo amarlo realisticamente, nella concretezza dei nostri rapporti col prossimo:
-qui è la prova più sicura del nostro amore per Iddio.
+Se nelle tue cadute e nelle tue impotenze ti rinchiudi in te stesso, ti tarpi le ali della speranza e non fai che affogarti sempre più nella tua miseria; ma se, invece, ti sollevi a Dio con un atto di fiducia piena, allora la tua debolezza viene confortata e sostenuta dalla sua onnipotenza ausiliatrice. Se, di fronte alle difficoltà, ai sacrifici che il dovere t'impone, stai a calcolare le tue forze, indietreggi, sei tentato di disertare; ma se, invece, distogliendo lo sguardo da te stesso, lo rivolgi a Dio, al suo amore infinito, la certezza del suo aiuto ti darà la forza di procedere. La salda speranza in lui ti renderà forte, coraggioso, generoso: sarà la leva della tua vita.
 
 ### Colloquio
 
-«O carità, sei grande quanto il mio stesso Dio, perchè
-Dio è carità. Tu voli tanto in alto che te ne vai al trono della
-SS.ma Trinità e quivi entri nel seno dell'Eterno Padre e dal
-seno del Padre te ne vai al Cuore del Verbo Incarnato e lì
-ti riposi e cavi il nutrimento. Così l'anima che ti possiede
-cerca di nutrirsi solo di Dio e di riposarsi in lui; e, dopo essersi quivi nutrita e riposata, se ne scende giù in terra, perchè
-tu, o carità, ti estendi ancora ai prossimi amandoli non solo
-come creature, ma come esseri creati da Dio ad immagine e
-similitudine sua. Non ti fermi ad amare i corpi che sono la
-scorza, ma penetri nell'interno delle anime e quelle ami soprattutto; non ti fermi ai doni di Dio, ma risali al Donatore
-e tutti ami unicamente in lui.
+«Fortissimo, onnipotente Signore, mostratemi la mia povertà affinché la confessi. Io dissi d'essere ricco e che non mancavo di nulla ed ignoravo che ero povero, cieco, nudo, mescro e miserabile; credevo d'essere qualche cosa, ed ero nulla. Io dissi: '*Diverrò sapiente*' e divenni stolto; credevo d'esser prudente, e m'ingannai; e vedo ora che la sapienza è tuo dono, che senza di te non possiamo far nulla, poiché se Tu, o Signore, non custodisci la città, invano vigila chi la sta custodendo. Questo Tu m'insegnasti affinché io mi conoscessi; mi abbandonasti e mi provasti... affinché io mi conoscessi. Appena ti scostasti alquanto da me, tosto caddi; vidi allora e conobbi che Tu mi reggevi; se caddi fu da me, e se risorsi fu per il tuo aiuto.
 
-«O carità, tu sei tanto sublime che ci unisci a Dio! Tu
-puoi ogni cosa e nella Chiesa produci una specie di Trinità
-a similitudine della SS.ma Trinità; perchè, siccome il Padre
-è Dio, il Figlio è Dio, lo Spirito Santo è Dio e tutti e tre
-sono uniti e sono una stessa cosa, così mediante la tua virtù,
-o carità, deriva a noi questa unione perchè tu unisci l'anima a Dio e un prossimo all'altro e così formi nella Chiesa,
-in modo invisibile, una specie di trinità.
+«O mio Dio, io potrei disperare per i miei grandi peccati e per le mie innumerevoli negligenze... ma non ardisco di disperare poiché, tuo nemico un tempo, fui con te riconciliato per la morte del tuo Figlio; e non solamente riconciliato, ma da lui fatto salvo. Perciò ogni mia speranza e la certezza della mia fiducia è tutta nel prezioso suo Sangue che fu sparso per noi e per la nostra salute. In Lui fidando, in Lui fidando, spero di giungere a te, non per la mia giustizia, ma per quella che mi viene dal Figlio tuo, Signor nostro Gesù Cristo.
 
-«Chi ti possiede, o carità, nutre se stesso di Dio, al
-punto che diventa simile a lui per grazia e partecipazione.
+«Nel travaglio, dunque, di questa guerra levo lo sguardo a te, Signore Gesù. Mi faccia il nemico ciò che vuole, io non temerò perché Tu sei un forte difensore. Ho ben ragione di sperare in te, poiché non sarò confuso in eterno.
 
-«Concedimi, Dio mio, una carità così perfetta che io
-sappia accondiscendere, aiutare, sollevare il prossimo mio in
-tutti i suoi bisogni, infermità e fatiche e sappia con somma
-prudenza compatire i difetti altrui» (cfr. S. M. Maddalena
-de' Pazzi).
+«Ora, finché sono nel corpo, son lontano da te; giacché vado avanti per fede e non per visione. Verrà il tempo in cui vedrò quello che ora ho la speranza. Nella mia speranza vivo contento, perché Tu nella tua promessa sei verace; ma, tuttavia, non possedendoti ancora, gemo sotto il pungolo del desiderio. Fammi, in questo desiderio, perseverante fino a che venga ciò che hai promesso; allora finiranno i gemiti e risonerà unicamente la lode» (S. Agostino).

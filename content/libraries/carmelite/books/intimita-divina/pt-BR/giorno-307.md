@@ -1,41 +1,37 @@
-## 307 — O DOM DA SABEDORIA
+## 307 — BEM-AVENTURADOS OS POBRES DE ESPÍRITO
 
 ### Presença de Deus
 
-Vem, Espírito de Sabedoria, atrai-me!
+Ó Espírito Santo, mostra-me o caminho que conduz à verdadeira pobreza de espírito e dá-me força para percorrê-lo até o fim.
 
 ### Meditação
 
-1. — O dom da inteligência faz-nos penetrar as coisas de Deus; o dom da sabedoria leva-nos mais adiante ainda: faz-nos saboreá-las, dá-nos um conhecimento saboroso. É a «saborosa cognição» de que fala São Bernardo, é o intraduzível *dulce sapere* invocado por São Tomás (*Adoro te devote*); é o precioso dom que o Espírito Santo nos oferece dizendo: *Gustate et videte quoniam suavis est Dominus*, saboreai e vede como o Senhor é bom (Sl. 33, 9).
+1. — Quando a alma corresponde às moções dos dons, estes produzem nela frutos de virtude tão preciosos que lhe fazem saborear algo da bem-aventurança eterna, da qual são pequeno penhor e que, justamente por isso, se chamam bem-aventuranças. A cada dom corresponde uma bem-aventurança; ao dom do temor corresponde a pobreza de espírito: «Bem-aventurados os pobres de espírito, porque deles é o reino dos céus» (Mt. 5, 3).
 
-Não por acaso se diz primeiro saboreai e depois vereis, porque o dom da sabedoria faz-nos conhecer Deus precisamente através da experiência do coração que «saboreia» o objeto amado.
+O dom do temor, querendo conduzir a alma a libertar-se completamente do pecado, visa apagar nela a concupiscência das coisas terrenas, que é sua causa principal. Por isso a impele por uma via de total desapego, de modo que, despojando-a de toda pretensão do egoísmo e do orgulho, de toda cobiça e de toda exigência quanto aos bens terrenos, a estabelece gradualmente numa perfeita pobreza de espírito.
 
-Há dois modos de conhecer: um modo especulativo, intelectual, e um modo experimental, que deriva de certa connaturalidade com o objeto a conhecer; este último é menos distinto, mas muito mais profundo que o primeiro e colhe a íntima substância das coisas. Assim, por exemplo, através daquela afinidade de sentimentos e de afetos que a liga ao filho, uma mãe conhece o coração dele muito melhor que qualquer outra pessoa. Semelhante a esta é a compreensão das coisas divinas que adquirimos mediante o dom da sabedoria.
+Diante de tudo o que a vida pode oferecer-nos — honras, satisfações, afetos das criaturas, riquezas e comodidades — o Espírito Santo repete no fundo do coração as palavras de Jesus: «Se queres ser perfeito, vai, vende o que tens... depois vem e segue-me» (Mt. 19, 21). Isto é: não queiras ter mais do que possuis, mas despoja-te antes até do que tens; não sejas ávido nem de riquezas, nem de prazeres ou consolações, nem de glória, nem de afetos terrenos, mas deixa ir todas essas coisas que, enchendo-te o coração de terra, te impedem de encher-te de Deus.
 
-Entre nós e Deus há certa «connaturalidade», certa semelhança produzida pelo amor que nos une a ele e, de algum modo, nos assimila a ele; aliás São Paulo não hesita em dizer que «quem se une ao Senhor forma um só espírito com ele» (1Cor. 6, 17). O dom da sabedoria faz-nos conhecer Deus e as coisas divinas precisamente através desta «connaturalidade» e, por isso, dá-nos experiência quente e saborosa pelo amor de que deriva.
+O Espírito Santo impele a alma à pobreza material ensinando-a a contentar-se com pouco, a não ter exigências quanto às coisas necessárias à vida; mas impele-a ainda mais à pobreza espiritual, porque sem esta a primeira nada vale. «A simples privação das coisas — diz São João da Cruz — não despoja em absoluto a alma, se esta conserva o apetite [ou seja, o apego] por elas. Não são as coisas deste mundo que ocupam ou prejudicam a alma, porque nelas não entram, mas o desejo e o apetite delas, os quais nela habitam» (Subida I, 3, 4).
 
-Tal experiência toma a alma em seu centro, isto é, na vontade, atraindo-a fortemente para Deus e, ao mesmo tempo, redunda como luz no intelecto. O dom da sabedoria age um pouco como o raio de sol que aquece e ilumina ao mesmo tempo. Aquece, reaviva a caridade da alma e, através dessa inflamação de amor, ilumina-a sobre as realidades divinas e a torna capaz de julgá-las, intuindo sua bondade infinita e superioridade absoluta sobre todas as coisas. «Ó profundidade da riqueza de Deus!» (Rm. 11, 33) é o grito da alma inflamada e iluminada pelo dom da sabedoria.
+2. — A pobreza de espírito não abrange só o desapego dos bens materiais, mas também dos bens morais e até espirituais.
 
-2. — Todos os dons do Espírito Santo estão estreitamente ligados à caridade, pois só se encontram na alma que possui a caridade e se desenvolvem à medida que ela cresce; mas o dom da sabedoria tem com o amor de caridade relação muito particular.
+Quem nutre pretensões quanto à afirmação da própria personalidade, quanto à estima e consideração das criaturas, quem conserva apegos à própria vontade, às próprias ideias ou ama demais a própria independência, não é pobre de espírito, mas ainda é rico de si mesmo, de amor-próprio e de orgulho. «Se queres ser perfeito — exorta São João da Cruz — vende tua vontade; aproxima-te de Cristo na mansidão e na humildade e segue-o até o Calvário e até o Sepulcro» (Avisos).
 
-Antes de tudo, é precisamente através da caridade que ele se atua. «A causa do dom da sabedoria — diz São Tomás — encontra-se na vontade e é a caridade» (II-II, q. 45, a. 2); por isso, quanto mais uma alma ama a Deus, tanto mais é capaz de acolher a moção deste dom.
+Do mesmo modo, quem ainda busca o afeto das criaturas, a alegria e as satisfações que elas podem dar, não é pobre de espírito; e também não o é quem, na vida de piedade, nas relações com Deus, vai em busca de consolações e gostos espirituais. A pobreza de espírito consiste em estar inteiramente nu e vazio de todas essas pretensões, de modo que a alma pretenda e deseje uma só coisa: possuir Deus; e permaneça contente disso, mesmo quando Deus se deixa encontrar apenas nas trevas, na aridez, no desconforto e no sofrimento.
 
-Além disso, a saborosa cognição de Deus derivante do dom da sabedoria é poderosíssima para aumentar a caridade: como poderíamos não amar mais o Senhor depois de tê-lo saboreado? À medida que o dom da sabedoria investe uma alma, a caridade aumenta e aumenta também sua força unitiva, pela qual a alma adere cada vez mais a Deus.
+Esta é a perfeita pobreza de espírito, que torna a alma livre de tudo o que não é Deus; e justamente nisso consiste o motivo de sua felicidade, porque «a alma que se despoja de seus desejos, de seu querer e não querer, Deus a vestirá de sua pureza, de seu gosto e de sua vontade» (São João da Cruz). A bem-aventurança prometida aos pobres de espírito é precisamente a posse de Deus, posse que os revestirá das riquezas infinitas de Deus.
 
-Este dom conduz a uma oração ainda mais profunda do que aquela em que intervém só o dom da inteligência: a alma sente-se «tomada» por Deus, atraída por ele de modo irresistível; sente-se verdadeiramente unida ao Senhor e nesta união o saboreia — não de maneira sensível, mas espiritual — e o intui do modo mais íntimo possível aqui na terra.
-
-Desta oração a alma sai verdadeiramente inflamada de amor, que ela demonstra sobretudo com a conformidade de sua vontade à vontade de Deus em todas as contingências da vida; sai tão cheia de Deus que, voltando às suas ocupações ordinárias, tudo vê e considera em relação a Deus. Desse modo o dom da sabedoria estende seu influxo também à vida prática e ensina-nos a julgar todas as coisas à luz de Deus.
-
-Para sermos aptos às moções do dom da sabedoria — o mais sublime dos dons — devemos docemente dispor nosso coração à plenitude do amor e, ao mesmo tempo, aplicar-nos a adquirir profunda humildade, pois, como disse Jesus, «estas coisas são escondidas aos doutos e sábios segundo o mundo e reveladas aos pequeninos» (cf. Mt. 11, 25).
-
-«Adquirem a sabedoria de Deus somente aqueles que, quase crianças ignorantes, depondo o próprio saber, avançam com amor em seu serviço» (São João da Cruz).
+Esta é a meta à qual o Espírito Santo deseja conduzir-nos: secundemos sua ação, seguindo com docilidade seus convites ao desapego e ao despojamento total. Quanto mais formos generosos em privar-nos de tudo o que não é Deus, mais gozaremos da bem-aventurança prometida aos pobres de espírito.
 
 ### Colóquio
 
-«Desce, ó divino Espírito, e repousa sobre minha cabeça e investe meu coração; dissipa todas as trevas que a loucura do mundo chama sabedoria; concede-me, ao contrário, o dom da sabedoria celeste. Só tu podes ensinar-me a desprezar o que o mundo ama, o que deleita e lisonjeia; só tu podes ensinar-me a saborear as coisas de Deus, a virtude, a piedade, o amor que vieste acender na terra para que o mundo se inflame» (Anônimo).
+«Ó Jesus, livro da vida e nossa salvação, tua primeira companheira na terra foi a pobreza contínua, extrema, perfeitíssima. Tu, o Poderoso, Senhor de todas as coisas, quiseste a pobreza absoluta, para que também nós fizéssemos uma só coisa do amor e da pobreza. Foste pobre em tudo: pobre de coisas materiais, pobre de vontade própria, pobre de espírito, pobre acima de toda nossa possível imaginação, pobre infinitamente, porque infinito era o amor com que nos amaste. Foste pobre como quem nada tem, pobre como quem nem sequer pede o que não tem: pobre de bens, pobre de amigos, pobre de poder e de sabedoria humana, pobre de fama de santidade, pobre de dignidade terrena, pobre de toda coisa que existe.
 
-«Ó Deus, que essencialmente és amor incriado, amor infinito, amor sem medida, não só amante, mas todo o amor; ó Deus do qual procedem os amores de todos os serafins e de todas as criaturas, por que não te amarei eu? Por que não me consumirei neste fogo de amor que abraça todo o universo?
+«Também com a palavra quiseste glorificar a pobreza e disseste: bem-aventurados os pobres; disseste que os pobres julgariam o mundo.
 
-«Ó Deus, que és essencialmente a mesma bondade, pelo qual todo o bom é bom, do qual deriva a bondade de todas as criaturas, como do mar vêm as outras águas, acima de cuja excelente bondade não existe coisa alguma na terra e no céu que se possa dizer boa, por que não te amarei eu, sendo a bondade objeto do amor?
+«Mas, ó vergonha e dor! Hoje, Senhor, esta pobreza de espírito por ti tão ensinada e exaltada é rejeitada e evitada por quase todos; e até aqueles que a pregam e glorificam com palavras, de fato a renegam com a vontade, com o desejo e com a vida.
 
-«Ó Pai santíssimo! Ó Filho clementíssimo! Ó Espírito Santo amantíssimo! Quando, no mais íntimo da minha alma e no seu mais profundo, serás Tu, ó Pai, a coisa mais escondida, e me possuirás plenamente? Quando serei todo teu e Tu todo meu? Quando serás meu rei? Quando virá tal dia? Oh, quando? Ah, virá certamente! Crês tu que virá? Que demora! Que penoso adiamento! Apressa-te, ó Jesus, apressa-te, não tardes!» (Venerável Luís de Granada).
+«Ó verdadeiramente bem-aventurado quem, seguindo teu exemplo, ó Cristo, escolheu a pobreza por companheira! Verdadeiramente bem-aventurado, como tu disseste, quem, não só com palavras, mas com a vontade, com a vida, se faz pobre de todo bem, pobre de amigos, de parentes, de consolações e de ciência vã; bem-aventurado quem foge das dignidades, dos cargos, da fama de santidade.
+
+«Ó Senhor, se não posso materialmente despojar-me de todas as coisas terrenas, concede-me, suplico-te, despojar-me delas ao menos no coração, e não uma vez só, mas cada dia, cada momento. Ó verdadeiramente bem-aventurado tal pobre, pois o reino dos céus é seu!» (Beata Ângela de Foligno).

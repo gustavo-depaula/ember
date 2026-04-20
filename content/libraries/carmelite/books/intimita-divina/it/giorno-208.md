@@ -1,96 +1,21 @@
-## 208 — IL CUORE DI GESÙ NOSTRO MODELLO
+## VIII — DISPONIAMOCI ALL'UNIONE
 
-### Presenza di Dio
-
-Sacro Cuore di Gesù, insegnami a modellare i movimenti del mio cuore su quelli del tuo.
+**Presenza di Dio.** — *O Gesù, fa' ch'io possa approfittare appieno della grazia di unione con te, che ogni giorno mi offri nella S. Comunione.*
 
 ### Meditazione
 
-1. — L'anima consacrata al Sacro Cuore, l'anima riparatrice deve sentire il bisogno di modellare la sua vita
-su quella di Gesù. Come puoi dirti veramente consacrato
-al Sacro Cuore e come puoi dirti sua vittima riparatrice,
-uando tu stesso conservi nel tuo cuore sentimenti, desideri, gusti in opposizione ai suoi?
+**1** — Per virtù sua propria, l'Eucaristia ci unisce a Cristo; l'unione fisica con lui è identica per tutti coloro che si nutrono del suo Corpo e del suo Sangue. E, tuttavia, quest'unione non produce in tutti gli stessi effetti, tanto è vero che per chi si accosta indegnamente alla sacra Mensa diventa occasione di condanna: «chi mangia il pane o beve il calice del Signore indegnamente — dice S. Paolo — ... mangia e beve la propria condanna» *(1 Cor.* 11, 27-29). Pure anche in coloro che si accostano degnamente all'Eucaristia, gli effetti che ne derivano non sono i medesimi; ma sono sempre proporzionati alla bontà ed alla perfezione delle loro disposizioni.
 
-E' chiaro che, per modellare il tuo cuore sul Cuore di
-Cristo, non puoi limitarti ad eliminare questo o quel difetto, ad acquistare questa o quella virtù, ma devi tendere
-alla riforma di tutta la tua vita. Tuttavia il Maestro divino,
-quando ha voluto presentarci il suo Cuore come modello,
-ha parlato di due virtù particolari: la mansuetudine e
-l'umiltà, «imparate da me che sono mansueto ed umile
-di cuore » (Mt. 11, 29). E non senza motivo; infatti, quando
-avrai eliminato dal tuo cuore tutti i movimenti e i risentimenti dell'amor proprio e dell'orgoglio, avrai con ciò eli
-minato tutti gli altri difetti; e quando avrai acquistato
-un'umiltà profonda, avrai insieme acquistato tutte le altre
-virtù. Fermati, dunque, a ronsiderare questa grande lezione del Cuore di Gesù.
+Gesù penetra in me e mi trasforma in lui solo nella misura in cui non gli oppongo ostacoli, in cui sono disposto a ricevere la grazia particolare dell'Eucaristia, grazia di «unificazione a Cristo». Pur essendo un dono tanto grande, l'unione fisica con Gesù, che la S. Comunione mi offre, è ordinata alla mia unione spirituale con lui, alla mia trasformazione in lui per amore; unione e trasformazione che saranno tanto più profonde, quanto più mi accosterò alla sacra Mensa con disposizioni adatte. E queste disposizioni consistono nel preparare il mio cuore ad un'unione sempre più piena col Signore, unione che esige uniformità di aspirazioni, di gusti, di sentimenti, di volontà. Come potrei godere della visita di un amico, trascorrere con lui momenti di dolce intimità, di vera unione, quando fra me e lui vi fossero divergenze di desideri, di affetti, di voleri? Ecco, dunque, la più bella preparazione che posso premettere alle mie Comunioni: sforzarmi di togliere dalla mia vita tutto ciò che può anche minimamente discordare con la volontà divina, con i sentimenti, le disposizioni del Cuore di Gesù. «Abbiate in voi quel sentire che era anche in Gesù Cristo» *(Fil.* 2, 5), mi dice S. Paolo; proprio questo deve essere il programma della mia preparazione remota alla S. Comunione.
 
-Anzitutto, Gesù ti parla di mansuetudine. La mansuetudine è la virtù che rende l'uomo capace di dominare
-ciò che in modo generico si può chiamare ira, collera.
-Questa virtù ti conferisce il potere di frenare, di dominare
-tutti quei moti un po' appassionati che talvolta ti fanno
-uscire dai giusti limiti, ti fanno perdere un po"... la bussola.
-E siccome la bussola di un'anima che vuole darsi al servizio di Dio è Dio stesso, è il Cuore di Gesù, se anche
-solo per un poco tu perdi di vista il Signore e ti allontani
-da lui, finirai col seguire il tuo amor proprio, le tue passioncelle; la mansuetudine, invece, ti rende padrone di te
-stesso, capace di dominare ogni genere d'irritazione. Se
-ti esamini bene, riconoscerai che questa irritazione proviene
-quasi sempre dall'amor proprio un po' offeso, dall'appetito
-irascibile messo in moto da qualche cosa che ha ferito il
+**2** — Perché l'Eucaristia produca in me tutto il suo frutto e sia per me occasione di una unione più intima e piena con Gesù, non basta, come dice S. Agostino, che io mangi materialmente il suo Corpo, ma bisogna che io lo mangi «spiritualmente», ossia che il mio spirito sia ben disposto e preparato a ricevere il Corpo di Cristo, a lasciarsi invadere e trasformare da Cristo. Quando Gesù, venendo in me, troverà un cuore, una volontà, degli affetti, dei sentimenti del tutto conformi ai suoi, nulla potrà impedirgli di effondersi nel mio essere nel modo più pieno; la sua vita, il suo spirito, la sua Divinità penetrerà le più intime fibre del mio essere e mi trasformerà in lui, sì che io potrò realmente dire con S. Paolo: «vivo non più io, ma vive in me Cristo» *(Gal.* 2, 20).
 
-tuo io. Vedi quindi che la mansuetudine è virtù intima
-mente legata all'umiltà.
-
-2. — Nostro Signore unisce alla lezione sulla mansuetudine quella sull'umiltà, appunto perchè il fondamento
-immediato della mansuetudine è. proprio l'umiltà.
-
-Basta che in te ci sia un po' di orgoglio, di amor proprio,
-di attaccamento al tuo modo di vedere o di fare, perchè tu
-non potrai sopportare di venire contrastato e allora, davanti agli urti inevitabili derivanti dalla convivenza, perderai, più o meno, la calma, la pace interna ed esterna.
-Se perdi la calma, perdi anche la serenità di giudizio e
-perciò non puoi più vedere con limpidezza la luce divina
-che ti mostra la via da seguire e ciò che il Signore vuole
-da te. Allora l'anima tua tentenna, perde il vigore e si
-lascia un po' trascinare dalla passione. Finchè in te vi saranno residui d'orgoglio, di amor proprio, ti capiteranno
-sempre occasioni in cui perderai un po' il controllo e la
-padronanza di te stesso, con la conseguenza di venir meno
-alla mansuetudine. Per trarre profitto dalla lezione del Cuore di Gesù, per modellare il tuo cuore sul suo, devi dunque
-lavorare assiduamente per estirpare in te tutti i germi dell'orgoglio, dell'amor proprio. E' questo un lavoro in cui
-devi impegnarti giorno per giorno, ricominciando sempre
-da capo, senza lasciarti scoraggiare per il continuo ripul
-lulare dei sentimenti e dei risentimenti del tuo io, E' questa una battaglia che vincerai non cessando mai di combatterla.
-
-Per incoraggiar a tale lotta, pensa che essa gioverà
-non solo al bene dell'anima tua, ma anche al bene delle anime altrui, perchè — come insegna Pio XI — « quanto
-più avremo immolato l'amor proprio e le nostre passioni...,
-tanto più copiosi frutti di propiziazione e di espiazione raccoglieremo per noi e per gli altri» (Miserent. Red.). La
-lotta contro l'amor proprio e l'esercizio dell'umiltà rientrano dunque in pieno nel programma di un'anima consacrata al Sacro Cuore e che si è offerta a lui come vittima
-riparatrice.
+Bisogna che io vada alla Comunione con un cuore dilatato nell'amore, affinché sia tutto aperto all'invasione di lui. Ogni Comunione, oltre la presenza fisica di Gesù, e proprio in virtù di questa sua presenza, mi porta un nuovo aumento di grazia e di carità, ma anche questo aumento sarà proporzionato alla mia capacità di riceverlo. Se il mio cuore è chiuso nell'egoismo e nell'amor proprio, se è legato da attacchi alle creature, se è troppo occupato da affetti e da affari terreni, sarà poco capace di far posto ad un aumento di amore divino e Gesù sarà, per così dire, costretto a restringere l'effusione della sua carità, a diminuire i suoi doni. Sì, mediante la Comunione, Gesù si dà tutto a me nella sua Persona di Uomo-Dio, e tutto si unisce a me, ma se io non mi do tutto a lui, Egli non può effondersi totalmente in me come l'amico si effonde totalmente nel cuore dell'amico fedele. Ogni giorno Gesù nella S. Comunione mi offre una grazia attuale per amarlo di più, per unirmi di più a lui, ogni giorno devo offrirgli un cuore sempre più aperto all'amore ed all'unione. Atti di fede intensa sulla presenza reale di Gesù nell'Eucaristia mi aiuteranno a rinnovare l'amore, a mettermi in questa *attualità* di amore; ed è proprio in questa attualità di amore che Gesù riverserà l'aumento della sua carità, la viva fiamma del suo amore infinito.
 
 ### Colloquio
 
-«O Cuore santissimo di Gesù, che tanto ami di be:
-neficare i miseri e d'istruire chi desidera far profitto alla
-scuola del tuo amore, continuamente m'inviti ad essere
-come te dolce ed umile di cuore. Perciò mi persuado che,
-per guadagnare la tua amicizia e per diventare tua vera
-discepola, non potrò far nulla di meglio che cercare di
-essere davvero dolce ed umile. Concedimi, dunque, quell'umiltà sincera che mi tenga sottomessa a tutti, che mi
-faccia sopportare in silenzio le piccole umiliazioni, anzi,
-me le faccia accettare di buona voglia, con serenità, senza
-scuse, senza lamenti, considerando che ne merito assai di
-più e di maggiori. e
+«Anima mia, quando ricevi la santa Comunione, procura di ravvivare la fede, fa' il possibile per distaccarti dalle cose esteriori e ritirati col Signore nel tuo interno dove sai che Egli è disceso. Cerca di raccogliere i tuoi sensi per far loro comprendere il gran bene che possiedono o, meglio, cerca di raccoglierli per evitare che impediscano a te di comprendere. Considerati ai piedi del Signore e, quasi lo vedessi con gli occhi del corpo, piangi come la Maddalena in casa del Fariseo. Questo tempo è assai prezioso, perché allora il Maestro t'istruisce: cerca d'ascoltarlo, baciagli i piedi, riconoscente per tanta sua degnazione e supplicalo di rimanere sempre con te. Anche quando sarai priva di devozione sensibile, la fede non mancherà di assicurarti che il Signore è veramente in te.
 
-«O Gesù, permettimi di entrare nel tuo Cuore come in
-una scuola. In questa scuola m'insegni la scienza dei Santi,
-in questa scuola ascolterò con attenzione le tue dolci parole: 'Imparate da me che sono mansueto ed umile di
-cuore e troverete riposo alle anime vostre". Lo comprendo,
-le tempeste che posso temere vengono solo dall'amor proprio, dalla vanità, dall'attacco al mio. volere. Difendimi,
-G Signore, proteggi Tu la pace dell'anima mia!... Il tuo
-Cuore è un abisso in cui trovo ogni cosa e, soprattutto, è
-un abisso d'amore in cui devo sommergere ogni altro amore,
-specialmente l'amor proprio con tutti i suoi frutti di rispetto umano, di vana compiacenza, di egoismo. Affogando
-queste inclinazioni nell'abisso del tuo amore, vi troverò
-tutte le ricchezze necessarie all'anima mia. O Gesù, se sento in me un abisso d'orgoglio e di vanagloria, voglio affogarlo subito nelle profonde umiliazioni del tuo Cuore
-che è l'abisso dell'umiltà. Se trovo in me un abisso d'agitazione, d'impazienza, di collera, ricorro al tuo Cuore che
-è un abisso di dolcezza. In ogni circostanza, in ogni incontro voglio abbandonarmi nel tuo Cuore, oceano di amore
+«Del resto, se non voglio essere un'insensata che chiude gli occhi alla luce, non posso avere alcun dubbio su questo punto. O Gesù mio, non si tratta già di un lavoro di fantasia come quando t'immagino sulla croce o in qualunque altro mistero della tua Passione, dove io mi rappresento il fatto come è avvenuto: qui si tratta della tua presenza reale, ed è una verità indiscutibile. O Signore, quando mi comunico, non ho d'andare troppo lontano per cercarti: fino a quando il calore naturale non ha consumato gli accidenti del pane, Tu sei in me! E se quando eri nel mondo guarivi gli infermi col semplice tocco delle tue vesti, come dubitare che, stando in me personalmente, non compirài dei miracoli, se io avrò fede? Sì, trovandoti in casa mia, accoglierai ogni mia domanda, non essendo tuo costume pagar male l'alloggio che ti si dà, quando ti vien fatta buona accoglienza!
 
-e di carità, e non uscire più finchè non sarò tutta penetrata dal suo fuoco divino» (cfr. S. Margherita M. Alacoque).
+«O Signore, se l'anima si accosta alla Comunione ben disposta e desiderando di cacciarsi di dosso ogni freddezza, si ferma alquanto con te, si accenderà di grande amore di vino e ne rimarrà calda per molte ore» (T.G. *Ctm.* 34, 7 e 8; 35, 1).

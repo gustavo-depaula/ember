@@ -1,47 +1,41 @@
-## 320 — APOSTOLATE OF EXAMPLE
+## 320 — THE GIFT OF WISDOM
 
 ### Presence of God
 
-O Lord, grant that my conduct may be such as to give You glory and draw many souls to your love.
+Come, Spirit of Wisdom, draw me!
 
 ### Meditation
 
-1. — Alongside prayer and sacrifice, another powerful weapon of apostolate accessible to all is that of a good life, a holy life. Not all can preach, not all have duty to admonish or exhort, not all can engage in organized apostolic works; but there is no one who cannot cooperate in neighbor's spiritual good by example of an integrally Christian life, coherent with professed principles and faithful to one's duties.
+1. — The gift of understanding makes us penetrate things of God; gift of wisdom leads us further still: it makes us taste them, giving us savory knowledge. It is the "sapid knowledge" of which St. Bernard speaks, the untranslatable *dulce sapere* invoked by St. Thomas (*Adoro te devote*), precious gift Holy Spirit offers saying: *Gustate et videte quoniam suavis est Dominus* — taste and see how good Lord is (Ps. 33:9).
 
-"Each one can benefit his neighbor if he fulfills his duty," affirms Chrysostom, and adds: "No one would remain pagan if Christians were truly Christians, if they truly observed precepts. A good life is voice sharper and stronger than trumpet." Good life imposes itself by itself, has authority, and exercises fascination far superior to words.
+Not by chance is it said first taste and then see, because gift of wisdom makes us know God precisely through experience of heart that "tastes" beloved object.
 
-For soul seeking truth and virtue, it is not difficult to find books or teachers who speak of them, even attractively. But it is far more difficult to find persons whose life is practical witness to them.
+There are two ways of knowing: speculative-intellectual mode and experiential mode deriving from kind of connaturality with object to be known. This latter is less distinct but much deeper than first and grasps intimate substance of things. Thus, for example, through affinity of sentiments and affections linking mother to child, she knows his heart much better than any other person. Similar is knowledge of divine things we acquire through gift of wisdom.
 
-Modern mentality, thirsty for experience, has particular need of such exemplars, capable of offering not only beautiful theories of spiritual life but above all concrete incarnations of virtue, ideal of holiness, and union with God. Souls are drawn much more by lived thought than by pure thought, by ideals translated into reality of life.
+Between us and God there is certain connaturality, certain likeness produced by love uniting us to Him and in some way assimilating us to Him. Indeed St. Paul does not hesitate to say that "he who is joined to the Lord is one spirit" with Him (1 Cor. 6:17). Gift of wisdom makes us know God and divine things precisely through this connaturality, and therefore gives us experience warm and savory because it derives from love.
 
-Besides, this is great line God Himself followed in manifesting Himself to men: eternal Word became incarnate and, through concrete and human reality of his earthly life, showed us immense love of God for us and his infinite perfections.
+Such experience seizes soul in its center, that is, in will, drawing it strongly into God; and at same time overflows as light into intellect. Gift of wisdom acts somewhat like ray of sun that warms and illumines at once. It warms by reviving soul's charity and, through this inflaming of love, illumines it concerning divine realities and makes it capable of judging them, intuiting infinite goodness and absolute superiority over all things. "O the depth of riches of God!" (Rom. 11:33) is cry of soul inflamed and illumined by gift of wisdom.
 
-Jesus, who possessed divine perfections, could say to us: "Be you therefore perfect, as also your heavenly Father is perfect" (Mt. 5:48), and in saying this He not only showed us supreme ideal of holiness but offered in Himself its model.
+2. — All gifts of Holy Spirit are closely linked with charity, since they are found only in soul possessing charity and develop as it increases. But gift of wisdom has altogether particular relation with love of charity.
 
-Apostle must tread way trodden by Jesus, embodying in his life that ideal of holiness he wants to propose to others. Only thus can one affirm of him, as of Lord: *coepit facere et docere* (Acts 1:1), He began first to do and then to teach. And only thus can apostle repeat, much more by conduct than by words, Paul's bold phrase: "Be ye followers of me, as I also am of Christ" (1 Cor. 4:16).
+First, it is precisely through charity this gift comes to act. "Cause of gift of wisdom," says St. Thomas, "is in will, and this cause is charity" (II-II, q. 45, a. 2). Therefore, more soul loves God, more capable it is of receiving motion of this gift.
 
-2. — Jesus, who taught us to pray, fast, and give alms in secret so only heavenly Father may know and reward, also taught us to act so that our works may be for those who see them silent encouragement to good: "So let your light shine before men, that they may see your good works and glorify your Father who is in heaven" (Mt. 5:16).
+Moreover, savory knowledge of God deriving from gift of wisdom is most powerful in increasing charity. How could we fail to love Lord more after having tasted Him? As gift of wisdom invests soul more, charity increases and with it unitive force by which soul adheres ever more to God.
 
-St. Gregory teaches us how to reconcile these two teachings: "Let work be public, but intention remain hidden, so that we give neighbor example of good work, and at same time by intention, with which we seek to please God alone, we always desire secrecy."
+This gift leads to prayer still deeper than that in which only gift of understanding intervenes. Soul feels itself "seized" by God, irresistibly drawn by Him; it feels truly united to Lord and in this union tastes Him — not in sensible manner, but spiritual — and intuits Him in most intimate way possible here below.
 
-There is great difference between one who ostentatiously does good to attract praise or perhaps gain reputation for holiness, and one who, acting with upright intention solely to please God, is by his conduct light and guide for those living near him.
+From this prayer soul comes forth truly inflamed with love, shown above all by conformity of its will to will of God in all contingencies of life. It comes forth so full of God that, returning to ordinary occupations, it sees and considers everything in relation to God. Thus gift of wisdom extends influence also to practical life and teaches us to judge all things in God's light.
 
-When intention is upright — that is, to give glory to God and draw other souls to his service — we must not fear that our good works are seen. Rather, we should feel responsibility to behave in way that our conduct edifies others.
+To be apt for motions of gift of wisdom — most sublime of gifts — we must gently dispose our heart to fullness of love, and at same time apply ourselves to acquire deep humility, because, as Jesus said, "these things are hidden from wise and prudent according to world and revealed to little ones" (cf. Mt. 11:25).
 
-Every soul of interior life, while seeking to please only heavenly Father, must be apostle by example. Its sincere piety, solid virtue, union with God must shine before men and call them to prayer, recollection, search for heavenly things.
-
-This is possible for all and in every environment: professional among colleagues or clients, wife and mother in family circle, religious in community, priest in his field of action.
-
-A soul of true interior life is in itself apostle; it is, as Jesus says, "a city seated on a mountain [that] cannot be hid"; it is lighted lamp set "upon candlestick, that it may shine to all that are in house" (Mt. 5:14-15). The deeper interior life is, the more lamp shines, illumines souls, and draws them to God.
+"Only those acquire wisdom of God who, like ignorant children, laying down their own knowledge, advance with love in his service" (St. John of the Cross).
 
 ### Colloquy
 
-"My God, nothing is colder than Christian who does not care for salvation of others! To excuse myself from this I cannot use poverty as pretext. Peter said: 'Silver and gold I have none.' Paul was so poor that he often suffered hunger. Nor can I allege humble condition, for they too were not noble and had no noble parents.
+"Descend, O divine Spirit, and rest upon my head and take hold of my heart. Dissipate all darkness that folly of world calls wisdom; grant me instead gift of heavenly wisdom. You alone can teach me to despise what world loves, what delights and flatters. You alone can teach me to taste things of God, virtue, piety, and love You came to kindle on earth so world might be inflamed" (Anonymous).
 
-"Nor can I excuse myself, Lord, by saying I am ignorant, for they too were. Even if I were slave and even fugitive, I could fulfill my task: Onesimus was such. Nor can I object I am sick, for Timothy too was often infirm.
+"O God, who are essentially uncreated love, infinite love, love without measure, not only one who loves but all love; O God from whom proceed loves of all Seraphim and all creatures, why should I not love You? Why should I not consume myself in this fire of love that embraces whole universe?
 
-"O Lord, your light makes me understand that I too can benefit neighbor if I fulfill my duty. And this I shall do if I observe your law, especially law of love by which goodness is taught to those who offend us. Worldly men are moved more by good life than by miracles, and You tell me nothing makes life good more than charity and love of neighbor.
+"O God, who are essentially goodness itself, by whom all good is good, from whom derives goodness of all creatures as other waters from sea, above whose excellent goodness there exists no thing in heaven or earth that can be called good, why should I not love You, since goodness is object of love?
 
-"Help me therefore, O Lord, to lead holy life, to do good works, so that whoever observes me may give praise to your name" (cf. St. John Chrysostom).
-
-"O Lord, grant me to believe with heart, to profess with mouth, and to put into practice your word, so that men, seeing my good works, may glorify You, our Father who is in heaven, through Jesus Christ our Lord, to whom be glory forever and ever. Amen" (Origen).
+"O most holy Father! O most clement Son! O most loving Holy Spirit! When, in innermost depth of my soul, will You, O Father, be most hidden thing and possess me wholly? When shall I be all yours and You all mine? When shall You be my King? When will that day come? Oh, when? Ah, it will surely come! Do You believe it will come? What delay! What painful postponement! Hasten, O Jesus, hasten, do not delay!" (Venerable Louis of Granada).

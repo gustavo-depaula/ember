@@ -1,105 +1,19 @@
-## 220 — L'ESSENZA DIVINA
+## XX — DALL'EUCARISTIA ALLA TRINITÀ
 
-### Presenza di Dio
-
-Dio mio, purifica ed illumina il mio sguardo perchè possa contemplarti.
+**Presenza di Dio.** — *O Gesù eucaristico, guidami alla Trinità, aiutami a vivere con la Trinità.*
 
 ### Meditazione
 
-1. — Alla domanda: chi è Dio? il catechismo risponde:
-« Dio è l'Essere perfettissimo, creatore e signore del cielo e
-della terra». Anzitutto, è detto che Dio è l'Essere; questa è
-la sua prima perfezione che lo distingue radicalmente dalle
-creature. « Io sono Colui che è », ha detto Dio stesso a Mosè,
-ed ha aggiunto: «Questo è il mio nome in eterno, e con
-questo sarò ricordato di generazione in generazione » (Es. 3,
-14 e 15). Questo nome che Dio stesso ha voluto darsi ci esprime la sua intima essenza, ci dice che Egli è l'Essere per eccellenza, l'Essere eternamente sussistente, che mai ha avuto
-principio e mai avrà fine e che sussiste in se stesso, che trova
-in se stesso la causa del suo essere. « Dio — afferma S. Giovanni Damasceno — possiede l'essere medesimo come una
-specie di oceano di sostanza infinito e senza rive ». Sotto questo aspetto Dio si rivelava a S. Caterina da Siena dicendole:
-«Io sono Colui che è e tu colei che non è ». Tutti gli esseri
-creati sono un nulla: «O Signore, la mia vita è come un
-niente in tuo confronto — canta il salmista — Io come erba
-mi dissecco. Tu, invece, duri in eterno» (38, 6; 101, 12 e
+**1** — Gesù è venuto a noi dal seno del Padre per condurci alla Trinità: questo è il fine dell'Incarnazione ed è pure il fine dell'Eucaristia che prolunga nel tempo il mistero dell'Incarnazione. Gesù nell'Eucaristia continua ad essere il Mediatore tra noi e la Trinità, continua a tenderci la mano per condurci ad essa e, venendo in noi nella S. Comunione, ci mette in contatto sempre più diretto con le tre Persone divine. Gesù, infatti, non viene in noi soltanto con la sua SS.ma Umanità, ma anche con la sua Divinità; viene in noi nell'integrità della sua Persona di Uomo-Dio e, come Dio, è sempre indissolubilmente unito al Padre ed allo Spirito Santo. Dall'Ostia consacrata Gesù ci potrebbe ripetere quel che diceva un giorno sulla terra: «Chi mi ha mandato è con me e non mi ha lasciato solo» e più esplicitamente: «Io sono nel Padre e il Padre è in me» *(Gv.* 8, 29; 14, 10). Perciò, quando viene in noi nella S. Comunione, non viene solo, ma con lui viene il Padre e viene anche lo Spirito Santo, appunto perché le tre Persone divine, pur essendo distinte, sono indissolubili. La presenza della Trinità nell'anima nostra non si limita ai momenti in cui portiamo in noi Gesù Sacramentato, perché le tre Persone divine inhabitano in modo permanente nell'anima in grazia. Però, è ben vero che la Trinità è presente in un modo tutto particolare in Cristo, il Verbo incarnato, l'unico Uomo unito personalmente alla Trinità ed in lui abita tutta la pienezza della divinità, «*in quo habitat omnis plenitudo divinitatis*» (Lit. S. Cuore); quindi è certo che dove è Cristo, e perciò anche nel momento della Comunione, lì la Trinità è presente in un modo speciale.
 
-13), La creatura ha in Dio la causa del suo essere, mentre
-Dio l'ha in se stesso; la creatura esiste solo in quanto Dio la
-mantiene nell'esistenza, Dio, invece, sussiste per virtù propria, poichè possiede l'essere per sua natura, senza averlo ricevuto da nessuno. La creatura è sempre un essere limitato
-da tutti i punti di vista: come vitalità, come forza, come capacità; Dio, invece, è l'Essere infinito, che non conosce alcun
-limite, che ha ogni potenza ed ogni virtù; la creatura porta
-in sè i germi della morte, della distruzione; in Dio, invece,
-tutto è vita, Egli è la vita: «Io sono la vita » ha detto Gesù
-(Gv. 14, 6). 
-Solo Dio, Essere infinito, Vita eterna, poteva comunicarti
-la vita, poteva darti l'essere. Ti sembra, dunque, troppo impegnare tutta la tua vita e tutto il tuo essere per il suo servizio, per la sua gloria? Se vivi per Iddio, vivi per la Vita; se
-vivi per te vivi per il nulla, per la morte.
+**2** — La SS.ma Trinità non è mai così presente nell'anima nostra come nei brevi momenti in cui abbiamo in noi Gesù Sacramentato; e non solo vi è presente ma vi dimora con compiacenza. Il Padre si compiace nel suo Figlio diletto che abita in noi e che Egli ci ha donato mediante l'Eucaristia; il Verbo si compiace nell'Umanità santissima di Gesù che è tutta e per sempre sua; lo Spirito Santo si compiace in Cristo, suo tempio preferito e, a motivo di lui, gode di abitare in noi. Trovando in noi Gesù, tutta la SS.ma Trinità può finalmente rallegrasi di dimorare nell'anima nostra e, rallegrandosi, ci guarda con particolare amore e si effonde in noi con maggiore pienezza. Ogni Comunione viene così ad alimentare la nostra vita di unione non solo con Gesù, ma anche con la SS.ma Trinità; ogni Comunione aumenta la nostra capacità di accogliere in noi le tre Persone divine, di vivere «in società» con loro mediante rapporti sempre più intimi e profondi. La preghiera di Gesù: «Come Tu, Padre, sei in me e io sono in te, anch'essi siano uno in noi... Io in loro e Tu in me, affinché siano perfetti nell'unità» *(Gv.* 17, 21 e 23) trova la sua massima realizzazione proprio in quei preziosi istanti in cui Gesù Sacramentato palpita in noi; ma anche quando la sua presenza sacramentale vien meno, non ne scompare l'effetto, ossia questa più intima unione con la SS.ma Trinità.
 
-2. — Dio è l'Essere: l'Essere infinito, perfettissimo, che
-possiede ogni perfezione senza difetti e senza limiti. Dio è
-Essere infinitamente buono, bello, sapiente, giusto, miseri
-cordioso, onnipotente, Tutte queste perfezioni non sono in
-lui qualità accidentali — come sono le qualità dell'uomo il quale può essere più o meno bello, più o meno buono e sapiente, ecc., senza cessare di essere uomo — ma sono perfezioni
-essenziali, ossia appartengono alla natura stessa dell'Essere
-divino, anzi, sono una sola cosa con esso. Per parlare delle
-perfezioni di Dio noi siamo costretti ad enumerarle una dopo
-l'altra, ma in realtà sono un tutt'uno: la bontà s'identifica
-con la bellezza; la Bontà e la bellezza con la sapienza e queste
-con la giustizia; la giustizia con la misericordia e così via.
-In Dio non vi è molteplicità, ma unità assoluta; noi abbiamo
-bisogno di molte parole per parlare di Dio, ma Dio non è
-molte cose, è l'Essere Uno per eccellenza: uno nella Trinità
-delle sue Persone, uno nella miriade delle sue perfezioni,
-uno nella varietà delle sue opere, uno nel suo pensiero, nel
-suo volere, nel suo amore.
-
-Anche tu, creato ad immagine e somiglianza di Dio, devi tendere all'unità. La tua vita spirituale è debole perchè
-manca di unità. Esamina il tuo cuore e vedi quanta molte
-plicità di affetti e di preoccupazioni lo invadono: sì, ami Dio,
-ma insieme con lui ami ancora il tuo amor proprio, il tuo
-comodo, il tuo interesse; ami Dio, ma insieme con lui ami
-anche qualche creatura con affetto disordinato, ossia, in un
-modo, in una misura che a Dio non piace; sei attaccato a
-quelle persone, a quelle cose — oggetti, denari, occupazioni —
-che ti danno soddisfazione... e tutti questi affetti, questi
-attacchi ti premono, ti spingono in mille direzioni contrarie,
-disperdendo così le tue forze e impedendoti di conseguire
-l'unica cosa necessaria: « amare Dio e servire lui solo» (Imit.
-I, 1, 3). Quanto più in te manca l'unità profonda: unità di
-affetti, di desideri, di intenzioni, tanto più sei debole e la
-tua vita interiore è in pericolo perchè, come Gesù ha detto:
-« Ogni regno diviso in se stesso si distrugge» (Lc. 11, 17).
-Guarda, dunque, Dio, Unità somma, e supplicalo di aiutarti
-a fare in te l'unità.
+D'altra parte, mai così bene, come nei momenti in cui Gesù Sacramentato è presente nell'anima nostra, noi siamo in grado di offrire alla Trinità una dimora degna di lei, e non solo una dimora, ma anche dei doni, delle lodi, delle suppliche e delle adorazioni degne della sua maestà infinita. Possiamo infatti offrirle Gesù che è in noi, che è nostro, perché la Trinità stessa ce l'ha donato ed Egli si è dato a noi con tutta la sua sostanza: Gesù, lode perfetta della SS.ma Trinità, Figlio diletto in cui le Persone divine ripongono tutta la loro compiacenza; e insieme con lui offriamo l'amore, le adorazioni, le suppliche, le lodi, le riparazioni del suo Sacro Cuore. Come siamo ricchi quando Gesù è in noi! Come possiamo per lui e in lui onorare, esaltare, glorificare la SS.ma Trinità!
 
 ### Colloquio
 
-«O Dio eterno, mi rallegro che Tu solo sia colui che è
-e che nulla possa essere se non da te. Illumina, ti supplico,
-gli occhi dell'anima mia perchè conoscano l'essere che Tu hai
-per tua essenza, e il non essere che io ho per mia natura,
-affinchè su queste due verità, come su due poli fermi ed
-immutabili, si muova la ruota della mia vita. O eterno Iddio,
-che hai voluto chiamarti Colui che è, mi rallegro dell'eminenza di questo nome, così tuo che non è possibile che convenga ad altri fuorchè a te. O nome venerabile, o nome ineffabile, celato ad Abramo, ad Isacco, a Giacobbe e manifestato a Mosè in segno di amore! Rivelami, Dio mio, le ricchezze
-inestimabili di questo nome, affinchè ti riverisca, ti adori, ti
-ami e serva come Tu meriti. O anima mia, se Dio solo è
-Colui che è, abbracciando tutta la perfezione dell'Essere, perchè non ti unisci a lui, affinchè l'essere tuo abbia col suo nobiltà e fermezza? Perchè ti diffondi nelle creature, vuote di
-sostanza, vuote di essere, giacchè non ti possono dare quel
-che desideri, non avendolo neppure per loro? Da oggi in poi,
-Dio mio, terrò tutte le cose per spazzatura, per perdita e detrimento, per nulla e vanità, al fine di unirmi con te per
-amarti e servirti per tutta l'eternità > (Ven. L. Da Ponte).
+«O Gesù Cristo, vero Dio e vero Uomo! L'anima mia gioisce di ritrovare nel SS.mo Sacramento te, Dio increato, che ti fai uomo, che ti fai creatura! In questo Sacramento, o Cristo, io trovo congiunte la tua Umanità e la tua Divinità; dall'Umanità salgo alla Divinità e da questa ridiscendo all'Umanità. Vedo la Divinità ineffabile nella quale si contengono tutti i tesori della sapienza, della scienza, delle ricchezze incorruttibili. Vedo la fonte inesauribile delle delizie che solo saziano la mente nostra. Vedo la tua preziosissima Anima, o Gesù, con tutte le virtù e i doni dello Spirito Santo, oblazione santissima e immacolata; vedo il tuo Corpo santissimo, prezzo della nostra redenzione; vedo il Sangue tuo che ci purifica e vivifica; insomma, vi trovo preziosissimi tesori che non posso ridire per la loro grandezza.
 
-«O Signore, i miei giorni sono simili ad un'ombra ed io
-come erba mi dissecco. Tu, invece, duri in eterno ed il tuo
-Nome va di età in età... Mio Dio, Tu fondasti la terra, ed
-opera delle tue mani sono i cieli. Eppure essi van deperendo
-e Tu rimani; essi si logorano come un panno, Tu li muti
-come un vestito ed essi cambiano; ma Tu resti ed i tuoi anni
-non avranno fine... Tutte le creature hanno da te la vita, ma
-se Tu nascondi loro il tuo volto, vengono meno; appena ritiri
-da loro il tuo spirito, periscono e ritornano nella polvere loro.
-Tu, invece, resti in eterno.
+«Veramente questo Sacramento contiene te, o mio Dio, che gli Angeli adorano, al cui cospetto tremano gli Spiriti e le Potestà formidabili. Oh, se noi potessimo vederti con terso occhio come essi ti vedono, con quanta riverenza ci accosteremmo a questo Sacramento, con quanta umiltà l'accoglieremmo dentro di noi!
 
-«Ti voglio esaltare, o divino mio Re, e benedire il tuo
-nome in eterno e sempre! Giacchè grande sei, O Signore, e
-sommamente degno di lode, e della tua grandezza non si
-giunge mai al fondo» (cfr. Sal. 101, 103, 144).
+O Santissima Trinità, Tu hai ordinato questo Sacramento per stringere a te l'oggetto del tuo amore, ossia per attirare a te l'anima della tua creatura e, staccandola da tutte le cose terrene, congiungerla a te, Dio increato, e così farla morire al peccato e darle vita spirituale ed eterna. O Santa Trinità, questo sacramento fu istituito dalla tua bontà infinita, affinché noi fossimo uniti a te, e Tu a noi, affinché nello stesso tempo, ti accogliessimo dentro di noi e fossimo da te accolti, ti portassimo in noi e fossimo da te portati!» (B. Angela da Foligno).

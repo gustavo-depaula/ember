@@ -1,112 +1,23 @@
-## 298 — IL DONO DELLA PIETÀ
+## VI — L'ESERCIZIO DELLA PAZIENZA
 
-### Presenza di Dio
-
-O Spirito Santo, Spirito di pietà, rallegra e addolcisci il mio cuore.
+**Presenza di Dio.** — Dammi, o Signore, maggior pazienza perché possa soffrire di più per amor tuo.
 
 ### Meditazione
 
-1. — Mediante il dono della pietà lo Spirito Santo dà
-un nuovo tocco alla nostra vita spirituale, un tocco di soavità
-e di dolcezza che perfeziona e semplifica i nostri rapporti con
-Dio e col prossimo. Questi rapporti sono fondamentalmente
-regolati dalla giustizia, virtù che c'inclina a compiere sem
-il nostro dovere dando a ciascuno il suo. Se però nella vita
-fossimo guidati unicamente dalla giustizia il nostro cammino sarebbe molto arido e la fedeltà difficile. Quando, invece,
-mediante l'azione dello Spirito Santo, si sviluppa in noi il
-senso della pietà filiale verso il Padre celeste, senso che in
+**1** — La pazienza è una virtù di necessità primaria e quotidiana. Come abbiamo bisogno del pane per vivere, così ogni giorno, anzi, ogni momento abbiamo bisogno della pazienza, perché ogni giorno e ogni momento porta con sé la sua pena. Si diventa pazienti facendo atti di pazienza, ossia abituandosi ad accettare dolcemente tutto ciò che ci contrasta e ci fa soffrire. Ma se, invece di accettare, respingiamo e cerchiamo a tutto potere di fuggire qualsiasi cosa che ci riesce molesta, non acquisteremo mai la pazienza. Se, per esempio, trovandoci, per motivo di ufficio, a contatto con una persona che ci urta, oppure alle prese con un lavoro pesante, difficile o noioso, procuriamo di liberarcene al più presto sollecitando un cambiamento, ecco che veniamo a privarci di un'occasione preziosa preparataci da Dio stesso per farci esercitare la virtù. In certi casi è lecito, e può essere anche doveroso, esporre le nostre difficoltà ai superiori e chiedere umilmente un rimedio, ma non dobbiamo insistere per ottenerlo a tutti i costi. Bisogna invece pensare che la divina Provvidenza ha disposto per noi la tale circostanza proprio per farci acquistare quella pazienza che ancora non abbiamo. S. Filippo Neri, che si lamentava un giorno col Signore per dover trattare con una persona impertinente e quanto mai molesta, si sentì rispondere interiormente: «Filippo, tu mi hai chiesto la pazienza, eccoti il mezzo per acquistarla». Dio ci darà certamente le virtù che gli chiediamo, ma ce le darà solo se, approfittando dei mezzi che Egli ci offre e del soccorso della sua grazia, ci applicheremo ad esercitarle.
 
-pratica si traduce nel vivo desiderio di fargli piacere in tutte
-le cose, allora oltrepassiamo i limiti sempre un po’ rigidi
-della giustizia per darci, con tutto il cuore, al servizio del
-Signore. Sospinti da quel profondo grido interiore: « Padre!» che lo Spirito Santo va ripetendo in noi (cfr. Gal.
-4, 6), ci eleviamo verso il cielo col desiderio di conquistare
-il cuore di Dio, di comportarci in tutto da veri figli suoi e così anche i doveri più ardui e gravosi diventano facili e soavi.
-In tal modo il dono della pietà aiuta la virtù della giustizia e
-quindi, per quanto riguarda i nostri rapporti con Dio, la
-virtù della. religione. Mediante tale dono lo Spirito Santo
-«attesta al nostro spirito che siamo figli di Dio» (Rom. 8,
-16), sì che questa verità diventa esperienza viva, personale,
-capace d’innalzarci a Dio con uno slancio filiale tutto nuovo,
-slancio che facilita e semplifica la nostra preghiera trasformandola in un intimo cuore a cuore col Padre celeste.
+Chi vuol davvero farsi santo non sarà mai sollecito ad evitare le occasioni di esercitare la pazienza, ma cercherà di abbracciarle volentieri fino in fondo, così come se le trova davanti, perché vede in esse i mezzi disposti da Dio per la sua santificazione. E come può ardire una piccola creatura di voler cambiare ciò che è stato disposto «in misura, numero e peso» *(Sap.* 11,21) dalla sapienza infinita di Dio?
 
-E' molto giusto quindi che, aspirando ad una vita di intima unione con Dio, noi desideriamo ed invochiamo questo
+**2** — Dio sa trarre il bene dal male, perciò può servirsi, e di fatto si serve, anche dei difetti e perfino dei peccati nostri e altrui per farci esercitare la pazienza. Pazienza con noi stessi vedendoci tanto fragili, imperfetti, tanto facili a cadere, riconoscendo umilmente le nostre colpe e portandone in pace le conseguenze; pazienza con gli altri, compatendo le debolezze di ognuno ed accettando senza irritarci i disagi e le sofferenze che ci possono derivare dai difetti altrui. Quando, per esempio, una persona ci disturba, ci provoca, non dobbiamo fermarci a considerare il suo modo di procedere perché questo ci muoverà facilmente a sdegno rendendoci più difficile l'esercizio della pazienza; dobbiamo invece distogliere il nostro sguardo dalla creatura per fissarlo in Dio che permette quella contraddizione per farci progredire nella virtù. Dobbiamo anche evitare di lamentarci con gli altri di quel che soffriamo e non dobbiamo neppure lamentarcene con noi stessi: le lamentele amareggiamo sempre il cuore e lo indispongono ad accettare in pace il dolore. «Patire e tacere per Dio mio» *(T.M.)* è il motto dell'anima paziente che vuol conformarsi alla condotta di Gesù nella sua Passione: «È stato sacrificato... e non ha aperto bocca» *(Is.* 53, 7). Avendo bisogno di un po' di aiuto per sostenere la prova, parliamo solo con chi ci può incoraggiare a patire per amor di Dio e non con chi, consolandoci e compatendoci in un modo troppo umano, può alimentare in noi il risentimento verso coloro che ci fanno soffrire.
 
-
-dono: sotto il suo influsso la nostra orazione diventerà più
-cordiale, più filiale e attenderemo con maggior amore e facilità a tutto ciò che concerne il culto divino. Invochiamo
-questo dono soprattutto nei momenti in cui ci sentiamo più
-aridi e freddi, affinchè — sia pure attraverso la prova ed il
-travaglio interiore — ci aiuti ad andare a Dio con cuore di
-figli. Del resto, la nostra diligenza e costante applicazione
-alla preghiera, nonostante la mancanza di devozione sensibile, è una delle migliori disposizioni per attirare su di noi il
-soffio vivificatore del dono della pietà.
-
-
-2.— Il dono della pietà perfeziona la giustizia circa i nostri doveri col prossimo aiutandoci soprattutto a smussare
-le angolosità, a vincere quel senso di ritrosia e di durezza che,
-pur cercando di praticare la virtù, rimane ancora nella nostra
-condotta, particolarmente verso coloro che ci sono molesti
-od ostili. Il dono della pietà c'ispira il senso della paternità
-
-non solo riguardo a noi stessi, ma anche riguardo
-n altri, ossia ci fa sentire che non solo su noi, ma su tutti
-gli uomini, vicini o lontani, amici o nemici, si estende la medesima paternità, giacchè « uno [è] Padre di tutti, Colui che
-è sopra tutti e per tutti » (Ef. 4, 6). La consapevolezza della
-comune paternità non deve rimanere confinata nel campo
-delle idee, ma deve penetrare nella nostra vita pratica, deve
-incidere nei nostri rapporti col prossimo per modificarli, facilitarli, addolcirli. E' proprio questa l’azione che lo Spirito
-Santo vuole compiere in noi mettendo in atto il dono della
-pietà, mediante il quale c'inelina soavemente alla dolcezza,
-all’indulgenza, alla compassione verso tutti, appunto perchè
-tutti siamo figli di uno stesso Padre. Lo Spirito Santo ci fa
-comprendere che la nostra fratellanza soprannaturale è un
-legame assai più forte dei legami che provengono dalla carne
-e dal sangue, perchè sgorga non dalla volontà dell'uomo, ma
-dalla volontà del Padre celeste il quale, e prima della fondazione del mondo, ci ha predestinati ad essere suoi figli adotti
-vi per mezzo di Gesù Cristo» (Ef. 1, 4 e 5); e in vista di
-
-
-questo legame ci spinge ad oltrepassare qualsiasi difficoltà
-che possiamo incontrare nei rapporti col prossimo, trattando
-tutti non da stranieri, ma da fratelli.
-
-Se vogliamo assecondare il movimento del dono della pietà, dobbiamo ingegnarci a disporre il nostro cuore alla bene-
-volenza e alla mitezza, abituandoci a considerare qualsiasi
-uomo — anche se ci fosse contrario — come figlio di Dio,
-come fratello nostro. E quando questo esercizio ci sarà più
-difficile, invece di scoraggiarci, ci rivolgeremo con ‘maggior
-insistenza allo Spirito Santo supplicandolo di voler compiere
-in noi quel che da soli non sappiamo fare.
+I santi sono stati tutti avidi di quelle occasioni di sofferenza che noi sfuggiamo con tanta premura. Pensiamo a S. Francesca di Chantal che per molti anni si è assoggettata a vivere in casa del suocero a contatto con una persona di servizio che le mancava di rispetto, la calunniava e danneggiava perfino gli interessi dei suoi figli. Pensiamo a S. Giovanni della Croce che, avendo avuta la libertà di scegliersi i suoi ultimi anni, diede la preferenza a quello in cui era superiore un religioso a lui contrario. Eroismo di santi, sì, ma eroismo da cui Dio non esclude nessun'anima di buona volontà, ché anzi ve l'invita; eroismo ai quali noi pure, se vogliamo essere davvero generosi, dobbiamo prepararci mediante l'accettazione amorosa di tutto ciò che ci fa soffrire.
 
 ### Colloquio
 
-«O Spirito Santo, dirigi l’anima mia poichè tutti quelli
-che sono mossi da te, sono realmente figli di Dio. Tu m'insegni che non ho ricevuto lo spirito di servitù sì da essere
-ancora guidato dal timore, ma lo spirito di adozione a figlio
-cui, volgendo lo sguardo a Dio, posso gridare: e Padre! ».
-Tu stesso rendi testimonianza al mio spirito che sono figlio
-di Dio; e se sono figlio sono anche erede: erede di Dio e coerede di Cristo, purchè accetti di soffrire con lui, onde essere
-con lui glorificato» (cfr. Rom. 8, 14-17).
+«O Signore, noi vorremmo servirti, sì, e darti gusto, ma senza nulla patire! Eppure molto più ti siamo grati quando nel tuo servizio patiamo qualche cosa a tua imitazione e per amor tuo.
 
-« Dio mio, manda la tua luce e la tua verità, affinchè
-risplendano sulla faccia della terra: io sono come un terreno
-vuoto e sterile finchè Tu, Signore, non mi rischiari. Infondimi dal cielo la tua grazia, ricrea il cuor mio con la cele-
-ste rugiada, dammi l’acqua della devozione per irrigare la
-superficie della terra, onde produca frutti belli e buoni. Solleva l'anima mia che è oppressa dal peso delle sue colpe, e
-solleva alle cose divine tutti i miei desideri, sì che, gustata
-una volta la soavità della felicità celeste, ogni cosa terrena
-mi riesca di tedio.
+«L'esercizio del patire è cosa tanto preziosa e nobile che Tu, o Verbo, trovandoti nel seno dell'Eterno Padre, sovrabbondante di tutte le ricchezze e le delizie del Paradiso, poiché non eri ornato dalla stola del patire, sei venuto in terra per poterla avere. Tu sei Dio e non ti puoi ingannare; perciò come Tu scegliesti il nudo patire, così lo voglio scegliere anch'io per amor tuo. Quello che ora ti domando, o Signore, è dunque che Tu mi conceda di potere sperimentare un nudo patire che non sia mescolato ad alcuna consolazione e, per la confidenza che ho nella tua bontà, spero che mi farai questa grazia prima che muoia.
 
-«Attira fino a te il mio cuore liberandomi dalle consolazioni umane che durano poco; nessuna cosa creata può ac-
-contentare appieno i miei desideri e confortarmi, Uniscimi
-a te col vincolo indistruttibile dell’amor tuo, poichè Tu solo
+«Ma, per cavar profitto dalle tribolazioni, insegnami ad accettarle conformandomi in tutto al tuo volere. Quando altrimenti mi sarebbero di gran peso ed insopportabili. Quando invece l'anima si abbandona tutta nelle braccia della tua volontà, qualche volta Tu la lasci anche in mezzo alle tenebre, ben presto la sua tristezza sarà convertita in gaudio, sì che per avventura la dolcezza del mondo l'anima mai vorrebbe non aver patito.
 
-
-basti a chi ti ama, e senza di te tutte le cose non hanno alcun
-valore» (Imit. III, 23, 9 e 10)
-
-O Spirito Santo, crea in me un cuore di figlio verso il
-Padre celeste, un cuore che sempre lo cerchi, lo ami e lo
-serva di buon volere. Crea in me un cuore di fratello verso
-tutti i prossimi affinchè, superando ogni contrasto, sappia essere benevolo, dolce e mite con tutti.
+«O beato, felice e glorioso chi patisce per amor tuo, o Verbo, poiché — ardirò dirlo — finché siamo quaggiù è maggior cosa per te che il possederti, poiché possedendoti possiamo ancora perderti, ma se patiamo per amor tuo, ci ammetterai alla vita eterna, dove non potremo perderti giammai» (S. M. Maddalena de' Pazzi).

@@ -1,88 +1,19 @@
-## 266 — LA PRUDENZA
+## V — IL COMANDAMENTO NUOVO
 
-### Presenza di Dio
-
-— Insegnami, o Signore, la via della vera prudenza.
+**Presenza di Dio.** — *Gesù, concedimi la grazia di comprendere a fondo il tuo comandamento nuovo, il comandamento della carità fraterna.*
 
 ### Meditazione
 
-1. — Per giungere all'unione con Dio tutta la nostra
-vita deve essere orientata a lui; e siccome la nostra vita risulta da un insieme di moltissime azioni, è necessario che
-queste siano tali da avvicinarci sempre più a Dio, siano
-continui passi in avanti sul cammino che a lui conduce.
-La prudenza soprannaturale è appunto quella virtù che ci
-suggerisce ciò che dobbiamo fare e ciò che dobbiamo evitare per raggiungere la meta prefissa. Se vuoi arrivare all'unione con Dio, ti dice la prudenza, devi conformarti in tutto alla sua volontà, devi rinunciare a qualsiasi cosa, per quanto piccola, che sia contraria al volere divino. Se vuoi farti santo devi fare questi atti di carità, di generosità, non devi
-tirarti di fronte al sacrificio. Se vuoi diventare un'anima di
-orazione, devi coltivare il raccoglimento, devi fuggire le
-chiacchiere inutili, devi mortificare la curiosità, devi applicarti con diligenza alla preghiera. Così la prudenza, sia in vista del fine ultimo — l'unione con Dio, la santità — sia
-in vista dei fini immediati, ma sempre ordinati al fine supremo — come l'acquisto di particolari virtù — ci prescrive
-quel che dobbiamo fare e quel che dobbiamo fuggire.
+**1** — Il precetto «amerai il tuo prossimo come te stesso» *(Mt.* 22, 38), esige già una virtù soda e profonda, ma non raggiunge ancora la massima perfezione dell'amore; questa ci è stata proposta da Gesù poco prima di morire, in quegli estremi momenti in cui ognuno raccomanda ai suoi cari quel che più gli sta a cuore: «Io vi do il comandamento nuovo... Come io ho amato voi, così voi amatevi a vicenda... Ecco il mio comandamento: amatevi scambievolmente come io ho amato voi» *(Gv.* 13, 34; 15, 12). Questa è la perfezione veramente portata da Gesù al precetto della carità: amare gli altri non solo come noi stessi, ma come Egli ci ama; e questa perfezione gli è tanto cara che la chiama il *suo* comandamento, ossia il comandamento che più gli preme e la cui osservanza deve diventare la caratteristica inconfondibile dei suoi intimi amici: «Da questo tutti conosceranno che siete miei discepoli» *(Gv.* 13, 35). Con un potente colpo d'ala Gesù ci trasporta ad un tratto da una misura di carità grande sì, ma ancora troppo umana, quella dell'amore per noi stessi, ad una misura divina, quella del suo infinito amore per le anime nostre. Non si tratta più di fissare lo sguardo sull'amore che portiamo a noi stessi onde nutrirne un simile per i nostri fratelli, ma di fissare lo sguardo infinitamente più in alto, nel Cuore di Cristo, che è il Cuore di Dio e penetrare il segreto del suo amore infinito per gli uomini, onde cercare di emularlo nei nostri rapporti col prossimo. La carità fraterna sarà in noi perfetta solo quando sarà il riflesso, o meglio, la continuazione dell'amore di Gesù per ogni creatura. Dobbiamo tendere ad amare ogni fratello — anche il meno simpatico, anche colui che non ci ama — come lo ama Gesù e Gesù lo ama al punto che per lui ha dato la vita, che per lui ogni giorno rinnova la sua immolazione sugli altari, che per lui è rimasto vivo e vero nell'Eucaristia, sempre pronto a nutrirlo con le sue carni immacolate. Quale scusa troveremo alla nostra poca carità verso il prossimo, quando la mettiamo in confronto con quella di Gesù?
 
-La parabola delle vergini prudenti e delle vergini stolte dimostra molto bene la necessità di questa virtù. Tutte si addormentano nell'attesa dello sposo ma, mentre le prime cinque
-vengono introdotte alle nozze, le altre vengono respinte soltanto perchè non hanno avuto la prudenza di portare con sè
-olio sufficiente per alimentare le loro lampade. E la parabola
-conclude: « Vigilate, dunque, poichè non sapete nè il giorno
-‘nè l'ora » (Mt. 25, 13). La prudenza soprannaturale ci consiglia
-anzitutto di valerci con diligenza del tempo che il Signore ci
-
-
-di e delle occasioni che ci offre per esercitare la virtù, perchè « poi viene la notte, in cui nessuno può operare» (Gv.
-9,4). Quando, per la nostra pigrizia o negligenza, ci lasciamo
-sfuggire l'occasione di fare un'opera buona, questa è perduta
-per sempre; è vero che in seguito potranno presentarsene altre, ma quella ormai non ritornerà più.
-
-
-2. — L'avvenire è nelle mani di Dio; noi non abbiamo
-a disposizione che l'attimo presente con le sue circostanze
-sia Perciò la vera prudenza soprannaturale consiste nel
-valorizzare al massimo, in vista del nostro fine eterno, l'i
-stante che fugge. La prudenza umana valorizza il tempo per
-accumulare beni terreni, la prudenza soprannaturale per accumulare beni eterni: « Non accumulate tesori sulla terra... accumulate invece tesori nel cielo, ove nè la ruggine nè il tarlo li consumano... Cercate prima il regno di Dio e la sua giustizia e tutto il resto vi sarà dato per giunta» (Mt. 6, 19-33).
-Ecco le grandi regole della prudenza dettateci da Gesù.
-A una religiosa, la quale confessava la sua ripugnanza
-a compiere un atto di carità che richiedeva particolare spirito di sacrificio, S. Teresa del B.G. rispondeva: «Io invece sarei stata felice di poterlo compiere, poichè siamo sulla terra per soffrire e più si soffre, più si è felici. Oh, quanto sapete sistemare male i vostri affari!» (Ricordi inediti).
-La prudenza soprannaturale ci insegna proprio a sistemare
-bene i nostri affari non in vista di una felicità terrena, ma
-di una beatitudine eterna; non in vista dei nostri interessi
-egoistici, ma in vista del nostro progresso nella via della
-perfezione, in vista soprattutto della gloria di Dio e del
-vantaggio delle anime. i
-
-La prudenza soprannaturale non giudica delle cose secondo il'loco valore umano, secondo il piacere o il disgusto
-che ci procurano, ma le giudica alla luce della fede, alla luce
-dell'eternità: «Quod Deus non est, nihil est» (Imit. II,
-31,2) e «Quid hoc ad aeternitatem»? (S. Bernardo). Ciò
-che non è Dio, è nulla. Che giova ciò per l'eternità?
-
-La prudenza cristiana non ha quindi niente a che fare
-con la prudenza della carne, la quale tutto risolve in vista
-della felicità terrena, senza nessun riguardo alla legge di
-Dio: «La carne è nemica a Dio, perchè non
-sta soggetta alla legge divina » (Rom. 8,7); e supera di gran
-che la prudenza umana che, pur non essendo cattiva, non
-è capace di orientare le nostre azioni al fine supremo poichè
-mira unicamente a fini terreni.
+**2** — Considerando il «comandamento nuovo» della carità, S. Teresa del B. G. esclama: «Oh, come l'amo! poiché esso mi dà la certezza che la vostra volontà, o Signore, è di amare in me tutti coloro che Voi mi comandate di amare» (St. 9). La Santa comprende che non arriverà alla perfezione della carità fraterna se non cercherà di amare il suo prossimo come lo ama Gesù, ma intuendo quanto ciò sia difficile, si rallegra pensando che, se Gesù ci ha dato questo precetto, è proprio perché vuole condurci a tali altezze. E di fatto è così, purché lo lasciamo liberi di agire in noi, purché gli offriamo pure ed integre le energie del nostro cuore e della nostra volontà, affinché Egli possa servirsi per circondare di delicate attenzioni i nostri fratelli, come un giorno circondava di attenzioni gli abitanti della Palestina. Allora lo faceva personalmente ed oggi vuol farlo per mezzo nostro. In tal modo il nostro amore per il prossimo diventerà davvero una rinnovazione dell'amore di Gesù e noi potremo far sentire ad ogni persona che avviciniamo qualche cosa dell'infinita tenerezza del cuore di Cristo. Ma per giungere a tanto dobbiamo sbarazzare il nostro cuore da tutti i residui dell'egoismo, da tutti gli impacci delle antipatie e simpatie personali e dobbiamo inoltre penetrare sempre più nel mistero dell'amore di Gesù per noi. Gesù ci ama così come siamo, ci ama malgrado i nostri difetti, malgrado la ottusità della mente e le durezze della volontà; ci ama perfino malgrado i nostri peccati, anzi, proprio per noi peccatori si è incarnato ed è morto in croce. Mai la mancanza di doti naturali, mai i difetti e neppure i peccati sono per lui motivo per respingerci da sé, ma sempre va in cerca delle anime nostre, sempre ci circonda con la sua grazia, ci sollecita, c'invita per portarci alla santità. Anche le anime dei più grandi peccatori sono da lui amate, anche queste sono continuamente perseguitate dal suo amore; perfino Giuda, il traditore, è stato avvolto fino all'ultimo dalle tenerezze del suo amore, è stato chiamato col dolce nome di amico ed ha ricevuto il suo bacio. Gesù ci ama non perché siamo perfetti, ma perché siamo figli del suo Padre celeste; ci ama non perché siamo buoni, ma perché vede in noi l'immagine del Padre suo, perché siamo le creature sue, le pecorelle del suo pascolo. E allora perché pretendiamo di amare solo coloro che sono buoni, la cui compagnia è gradevole, la cui amicizia ci è di conforto? Se Gesù volesse trattarci come noi trattiamo il prossimo, dovremmo avere ben poche speranze di godere della sua comprensione, della sua misericordia, della sua amicizia.
 
 ### Colloquio
 
-«Dio mio, l’anima innamorata di te non tiene più conto
-dei suggerimenti della prudenza umana, In lei non operano
-che l’amore e la fede e perciò stima le cose del mondo per
-quel poco che valgono, non brama alcun bene della terra
-nella convinzione che tutto è vanità e quando sa che una
-cosa è di tuo maggior servizio non ascolta più nulla e subito
-la eseguisce, convinta che in questo consiste ogni suo vantaggio» (cfr. T.G. P. 3, 1 e 2). 
+«Quando nell'antica legge, o Signore, comandavi al tuo popolo d'amare il prossimo come se stesso, non eri sceso ancora su questa terra e, ben sapendo a che punto ciascuno ami se stesso, non potevi chiedere di più. Ma quando Tu lasci ai tuoi Apostoli un comandamento nuovo, *il tuo comandamento*, non esigi più solamente che amiamo il prossimo nostro come noi stessi, ma come Tu stesso lo ami e come l'amerai fino alla consumazione dei secoli.
 
-«O Signore, se voglio farmi santa devo vivere in pieno
-sul piano soprannaturale, ricordando che, come dice l'Imitazione: ‘Quod Deus non est, nihil est’ e perciò devo lasciarlo o devo servirmene per venire a te.
+«So benissimo, o mio Gesù, che non comandi mai nulla d'impossibile; Tu conosci meglio di me la mia debolezza e la mia imperfezione; sai purtroppo che mai giugnerò ad amare le mie consorelle come le ami Tu, se Tu stesso, mio divin Salvatore, non le ami in me. E poiché appunto vuoi concedermi questa grazia, mi hai dato un comandamento nuovo. Oh, come l'amo! poiché esso mi dà la certezza che la tua volontà è d'amare in me tutti coloro che Tu mi comandi di amare.
 
-«Se non vigilo su me stessa, potrei materializzare anche
-lo spirito, fermarmi alla superficie, vedere tutto dal lato
-umano. Purtroppo, o Signore, riconosco di aver agito a volte proprio così.
+«Quando io sono caritatevole, sento veramente che Tu solo, o Gesù, operi in me; e quanto più sono unita con te, tanto più amo tutte le mie sorelle» (T.B.G. St. 9).
 
-«Oh, no! La vita spesa per te è così grande, così bella!
-Ma non è grande per azioni straordinarie, bensì per l'amore
-e la fedeltà con cui devo considerare anche i minimi doveri, per l’amore che deve trasformare anche le minime azioni e tutti gli incontri quotidiani, per le intenzioni apostoli
-che che devono animare la mia orazione e i miei sacrifici.
-Insegnami, o Signore, a dare ad ogni istante il massimo amore, a rendere eterno l'istante che fugge, dandogli il valore
-della carità » (cfr. Sr. Carmela d. Spirito S. c. s.).
+«O Cristo, le tue parole non sono altro che un canto nuovo: 'vi do un comandamento nuovo'! E che altro contiene questo tuo comandamento fuorché amore e carità? Tu vuoi che amiamo gli altri come li ami Tu che sei l'amore! Ci dici: 'amatevi come io ho amato voi' e non 'come io ho amato me', perché mentre hai fatto giustizia su di te, hai amato noi in un atto di misericordia, di mansuetudine e di compassione infinita. E così Tu vuoi che noi amiamo gli altri» (S. M. Maddalena de' Pazzi).

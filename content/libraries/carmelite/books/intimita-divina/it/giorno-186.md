@@ -1,119 +1,31 @@
-## 186 — LO SPIRITO SANTO CI CONFORMA A CRISTO
+## XVII — LO SPIRITO SANTO[^1]
 
-### Presenza di Dio
+*Triduo di Pentecoste*
 
-O Spirito Santo, rendimi conforme a Gesù, fa’ di me un « alter Christus».
+**Presenza di Dio.** — *O Spirito Santo, insegnami a conoscerti, a desiderarti, ad amarti, a dispormi alla tua azione.*
 
 ### Meditazione
 
-1. — Lo Spirito Santo ci è stato dato per santificarci,
-ma per quale via ci condurrà alla santità? Risponde l'Enciclica Mystici Corporis dicendo che il divino Paraclito
-«viene comunicato alla Chiesa... affinchè le sue singole
-membra, di giorno in giorno, siano sempre più simili al
-Redentore ». To Spirito Santo viene nelle anime nostre
-per conformarci, per assimiliarci a Cristo: ecco lo scopo
-immediato della sua azione in noi, ecco la via per cui ci
-condurrà ‘alla santità.
+**1** — L'approssimarsi della Pentecoste c'invita a rivolgere la nostra mente e il nostro cuore allo Spirito Santo: vogliamo, con suo aiuto, conoscerlo un po' di più, per invocarlo con maggior fervore, per disporci nel modo migliore ad assecondare la sua azione nelle anime nostre.
 
-Tutti gli eletti sono da Dio «predestinati ad essere
-conformi all'immagine del Figlio suo» (Rom. 8, 29): noi
-saremo santi a misura della nostra somiglianza con Cristo.
-E lo Spirito Santo ci è stato dato appunto perchè scolpisca
-in noi i tratti di questa divina somiglianza, rendendoci
-«di giorno in giorno sempre più simili al Redentore».
-Oh, bisognerebbe davvero che non vi fosse giornata in cui
-questa santa somiglianza non aumentasse in noi! Suor Eli-
+Il catechismo c'insegna che in Dio ci sono tre Persone uguali e distinte: Padre, Figliuolo e Spirito Santo. *Ab aeterno* il Padre, conoscendo se stesso, genera il suo *Verbo*, Idea perfetta, sostanziale in cui il Padre esprime ed a cui comunica tutta la sua bontà, amabilità, natura ed essenza divina. Il Padre e il Verbo, per la loro bontà e bellezza infinita, da tutta l'eternità si amano e da questo amore che li stringe l'un l'altro procede lo Spirito Santo. Come il Verbo viene generato dal Padre per via di conoscenza, così lo Spirito Santo procede dal Padre e dal Figlio per via di amore. Lo Spirito Santo è quindi il termine, è l'effusione dell'amore scambievole del Padre e del Figlio, *effusione* talmente sostanziale e perfetta da essere una Persona, la Terza Persona della SS.ma Trinità, in cui il Padre ed il Figlio, per la sublime fecondità del loro amore, trasfondono la loro medesima natura ed essenza senza esserne spogliati. Ed appunto perché lo Spirito Santo è l'effusione dell'amore divino, viene chiamato «Spirito», secondo il senso latino della parola che significa alito, respiro, soffio vitale. Come in noi il respiro è la manifestazione della vita, così in Dio lo Spirito Santo è l'espressione, l'effusione della vita e dell'amore del Padre e del Figlio, effusione però sostanziale, personale, che è
 
+*Persona*. In questo senso la terza Persona della SS.ma Trinità viene chiamata lo «Spirito del Padre e del Figlio» o anche lo «Spirito di amore in Dio»; ossia il «soffio» di amore del Padre e del Figlio, il «soffio» dell'amore divino. Sempre in questo senso i Santi Padri chiamano lo Spirito Santo «*osculum Patris et Filii*», il bacio del Padre e del Figlio, «bacio soavissimo, ma segretissimo», secondo la tenera espressione di S. Bernardo *(Serm. in Cant.* 8, 2).
 
+Questo Spirito Santo, Spirito di amore, noi invochiamo affinché venga ad accendere nei nostri cuori la fiamma della carità.
 
-sabetta della Trinità era stata profondamente colpita da
-questa verità e pregava lo Spirito Santo di fare di lei « un'umanità aggiunta nella quale Gesù potesse rinnovare il suo mistero » (ctr. EI.). Se Gesù è il modello al quale tutti dobbiamo
-essere conformati, non è presunzione aspirare a diventare
-talmente simili a Luî che la nostra vita sia un « prolunga
-mento» della sua ed Egli possa continuare in noi la sua
-opera d'incessante adorazione e glorificazione del Padre,
-e di redenzione degli uomini. Siamo incapaci di giungere
-ad una così perfetta conformità con Cristo, ma lo Spirito
-Santo è in noi per realizzarla. Gesù è il Santo per eccellenza;
-per renderci simili a Lui lo Spirito Santo ci comunica
-inizialmente la santità di Cristo diffondendo in noi la grazia
-la quale, poi, deve talmente penetrare il nostro essere, la
-nostra attività, la nostra vita da fare di ognuno di noi un
-«alter Christus». E notiamo che la grazia diffusa in noi
-dallo Spirito Santo è identica, nella sua natura, a quella
-che santifica l’Anima di Gesù: benchè a noi venga data
-in misura infinitamente inferiore, mentre Cristo la possiede
-«senza misura», è però lo stesso germe, lo stesso principio
-di santità. Ecco perchè il pieno sviluppo della grazia ci
-può davvero portare all'identificazione con Cristo, fino ad
-essere altrettante immagini di Lui. E nella misura in cui
-saremo trasformati in Cristo parteciperemo non solo alla
-sua santità, ma anche alla sua opera. Gesù rinnoverà in noi
-il suo mistero: in noi continuerà a glorificare la SS.ma Trinità ed a salvare le anime.
+**2** — Secondo il nostro concetto umano una persona è un essere: *completo*, distinto dagli altri esseri; *sussistente*, che esiste in se stesso; *intelligente* e quindi libero, capace di volere, di amare e perciò *amante*. Tutto ciò si verifica nel modo più perfetto nello Spirito Santo: Egli, soffio dell'amore del Padre e del Figlio, è una Persona e una Persona divina. È un essere *completo*, è tutto Dio e non una parte di Dio; pur essendo perfettamente uguale alle altre due Persone divine, è *distinto* da Esse; è *sussistente* in se stesso, *conoscente*, *amante*. Essendo dunque una Persona divina, noi possiamo avere con lo Spirito Santo delle relazioni particolari come col Padre e col Figlio. A questo c'invita la Chiesa proponendoci tante belle invocazioni allo Spirito Santo e particolarmente l'inno «*Veni creator Spiritus*» in cui ci mette davanti tutti i titoli che il divino Paraclito ha per essere invocato da noi con fiducia. L'inno comincia rivolgendosi allo Spirito Santo come «Spirito creatore» ricordandoci che Egli, assieme al Padre ed al Figlio, è un solo Dio, è il nostro Creatore; quindi l'invoca come nostro Santificatore, ossia come Colui che diffonde la grazia nelle anime nostre: *imple superna gratia, quae tu creasti pectora*, riempi della grazia celeste i cuori che Tu hai creati. Infatti, benché tutte le opere esterne di Dio — come la creazione, la santificazione delle anime ecc. — siano comuni a tutte
 
-2. — La norma di vita di Gesù è stata la volontà del
-Padre e abbiamo visto come lo Spirito Santo di continuo
-lo guidava all'adempimento di tale volontà. Parimenti, lo
-Spirito Santo vuole guidarci sempre più nella via segnata
-dalla volontà di Dio. In pratica, infatti, «la santità consiste
-solo nella conformità al divino volere» (Benedetto XV),
-in una conformità talmente piena che, come insegna S. Giovanni della Croce, nell'anima non vi sia più «alcuna cosa
-
-contraria alla volontà divina, ma bensì i suoi moti siano
-in tutto e per tutto solamente volontà di Dio» (G.C. S. I.
-11, 2). Arrivare a tal punto non è facile, nè mai vi arriveremo senza il soccorso dello Spirito Santo. Di più, bisogna
-
-tener presente che la conformità al divino volere deve
-esprimersi « in un continuo ed esatto adempimento dei doveri
-del proprio stato» (Benedetto XV), ed essere sempre ed
-in tutto fedeli al dovere non è cosa da poco! Richiede
-abnegazione, generosità e costanza a tutta prova. Guardiamo
-Gesù in croce e comprenderemo che cosa può esigere il
-perfetto adempimento della volontà di Dio, il perfetto
-adempimento del proprio dovere. Tuttavia, questa è la strada
-su cui dobbiamo metterci con la nostra buona volontà, rin
-novando sempre i nostri sforzi. Ma, per quanta buona volontà possiamo avere, siamo così deboli, così incostanti, co
-sì tenacemente attaccati a noi stessi, e le nostre forze sono
-così limitate che non sempre riusciamo a rinunciare del
-tutto alla nostra volontà per fare quella di Dio, non sempre
-riusciamo a mantenerci nella linea del perfetto adempimento
-dei nostri doveri; spesso cadiamo e non sappiamo neppure
-rialzarci. Umiliamoci allora, — valiamoci di queste cadute
-per riconoscere sempre più la nostra impotenza e fragilità —
-umiliamoci, ma non scoraggiamoci. Invece di piangere su
-noi stessi, rivolgiamo il nostro sguardo e il nostro grido
-verso lo Spirito Santo affinchè venga in nostro soccorso,
-poi ricominciamo da capo con umiltà e con fiducia. Ve
-dendoci rinnovare i nostri sforzi, lo Spirito Santo ci verrà
-incontro, ci prenderà per mano e in un istante ci condurrà
-là, dove noi non siamo stati capaci di arrivare forse in tanti
-anni. Dobbiamo esserne sicuri, poichè. Gesù ci ha meritato
-e ci manda il suo Spirito «con copiosissima effusione»
+e tre le persone divine, tuttavia, «per una certa relazione e quasi affinità che passa fra le opere esterne ed il carattere proprio di ciascuna Persona, [queste opere] più all'una che alle altre si attribuiscono» *(Enc. Divinum illud)*. Così allo Spirito Santo, che è il soffio dell'amore divino, viene particolarmente attribuita l'opera della santificazione che è opera di amore: «Lo Spirito Santo — insegna Leone XIII — dà impulso forte e soave e quasi l'ultima mano all'altissimo lavoro dell'eterna nostra predestinazione» *(Divinum illud)*. È proprio sotto questo particolare aspetto di Santificatore che la Chiesa c'invita ad invocare lo Spirito Santo. *Altissimi donum Dei — fons vivus, ignis, charitas et spiritualis unctio*: dono di Dio altissimo, dono dato alle anime nostre per condurle alla santità; fonte viva della grazia, fuoco, dolcezza spirituale. E ancora: *septiformis munere, digitus paternae dexterae*: Dispensatore dei sette doni mediante i quali Egli perfezionerà la nostra vita spirituale, dito della destra del Padre che ci deve indicare il cammino della santità. Con quanto slancio, dunque, con quanto amore e desiderio dobbiamo invocare lo Spirito Santo, Spirito santificatore.
 
 ### Colloquio
 
-«Gesù mio dilettissimo, desidero di seguire con te la
-regola dell'amore, la regola della volontà di Dio per la quale
-possa rinnovare e trascorrere in te tutta la vita mia. Ponila
+«O Unione meravigliosa in cielo, meravigliosa in terra, meravigliosa in quel segretissimo e perfettissimo vincolo della natura divina, ove lo Spirito Santo, ch'è vincolo e nodo d'amore, unisce in modo ineffabile le divine Persone. Oh, com'è unita in perfettissima unità la Santissima Trinità! Unità d'essenza, di sostanza e d'amore. E dolcissimo nodo sei Tu, Spirito Santo! O divino Spirito, dal vincolo col quale unisci eternamente e annodi con perfettissima unione il Padre ed il Figliuolo, trai un vincolo ed un nodo mediante il quale unisci l'anima a Dio, a sembianza di quell'unione divina. E l'unisci con perfettissima rilassazione delle sue potenze, onde non voglia, e in certa manera non possa, mercé la grazia che la tien così stretta ed unita al suo Dio,
 
-sotto la custodia del tuo Santo Spirito, onde in ogni tempo
-sia prontissima all'osservanza dei tuoi comandamenti e
-di tutti i miei doveri. lo non sono che un povero stelo da
-te piantato, da me sono niente e meno che niente, ma Tu
-puoi ben farmi fiorire nell'abbondanza del tuo Spirito, Che
-cosa sono io, mio Dio, vita dell'anima mia? Ah! quanto sono
-lontana da te! Sono come un granello di polvere che il vento
-solleva e disperde. Or dunque, in virtà della tua carità,
-il valido vento dell'onnipotente tuo amore, per il soffio
-dello Spirito Santo, con tanto impeto mi proietti in te, in
-balìa della tua provvidenza, che cominci veramente a morire
-a me stessa per vivere solamente in te, dolce amor mio. Fa'
-che io perda me in te; che mi abbandoni tanto completamente, sì che di me non rimanga in me alcun vestigio, proprio come avviene di un granello invisibile di polvere che
-sparisce senza farsi notare, Trasferiscimi così totalmente nell'affetto dell'amor tuo, che in te sì riduca a niente ogni mia
-imperfezione, ed io non abbia più alcuna vita fuori di te»
-(S. Geltrude).
+ricordarsi d'altro, intender altro, volere altro che la divina carità. Oh, chi potesse, come i beati in cielo, non sciogliersi giammai da così beato e così stretto nodo!
 
-«Fuoco consumante, Spirito d'amore, discendi in me,
-affinchè nell'anima mia si faccia come un'altra incarnazione
-del Verbo: che io gli sia una umanità aggiunta nella quale
-Egli rinnovi il suo mistero» (E.T. El).
+«O Spirito Santo. Tu vieni a noi per amorosa operazione di grazia... e vieni come fonte diffondendoti nell'anima e l'anima si sommerge in te. E siccome due fiumi, sboccando, si uniscono insieme, sì che il minore di essi lascia il suo nome, ossia, perde il nome pigliando quello del maggiore, così fai Tu, o Spirito divino, che vieni nell'anima per unirti con lei. Ma bisogna che l'anima, ch'è la minore, perda il suo nome e lo lasci a te, Spirito Santo, e lo farà trasformandosi in te, fino a diventare una stessa cosa con te.
+
+«O Spirito Santo, ti vedo discendere nell'anima, sì come fa il sole, il quale non trovando ostacolo, né impedimento, va illuminando ogni cosa; discendi a guisa d'una saetta infocata la quale, cadendo, se ne va nel più profondo luogo che trova e in quello si riposa, non fermandosi per via, né posandosi in luoghi montuosi, né alti, ma bensì nel centro della terra. Così Tu, Spirito Santo, discendendo dal cielo con le saette infocate del tuo divino amore, non ti riposi nei cuori superbi e nelle menti altere, ma bensì poni la tua dimora nelle anime umili e spregevoli ai loro occhi» (S. M. Maddalena de' Pazzi).
+
+[^1]: Vedi nota a pag. 5.

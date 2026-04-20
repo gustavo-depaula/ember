@@ -1,117 +1,21 @@
-## 308 — BEATI I PACIFICI
+## XVI — IL DONO DELLA FORTEZZA
 
-### Presenza di Dio
-
-O Spirito Santo, aiutami a stabilire il mio cuore nella pace.
+**Presenza di Dio.** — O Spirito Santo, che conosci la mia debolezza, rendimi forte della tua fortezza divina.
 
 ### Meditazione
 
-1.—- L'anima che, sotto l'influsso del dono della sapienza,
-ha gustato Dio guarda il mondo con gli occhi pieni di lui
-e proprio così diventa capace di giudicare tutte le cose
-« secundum rationes divinas» (II* Il**, q. 45, a. 3), secondo
-le ragioni divine, secondo i motivi soprannaturali e non
-secondo le corte ragioni umane. Questi sono i veri giudizi
-«sapienti » ai quali non potremmo mai arrivare senza l’aiuto
-dello Spirito Santo. Infatti «l'uomo animale [l'uomo dei
-sensi e della pura ragione] non capisce le cose dello spirito
-di Dio; per lui sono stoltezze e non le può intendere, perchè non si possono giudicare che spiritualmente. Invece
-l'uomo spirituale [l'uomo della fede guidato dallo Spirito
-Santo] giudica tutto » (I Cor. 2, 14 e 15). Giudica tutto in
-rapporto alla Causa suprema, Dio, e quindi dirige tutti i suoi
-atti e ordina tutte le cose della vita in relazione a lui. Da
-questo ordine — l’unico vero ordine — nasce la pace, frutto
-della saggia direzione del dono della sapienza; perciò l’uomo
-che vive abitualmente sotto l'influsso di tale dono è l’uomo
-« pacifico » per eccellenza. Il suo cuore è stabilito nella pace:
-in esso non vi è più nessun disordine, ma ogni affetto e
-desiderio, ogni pensiero ed atto è pienamente ordinato secondo Dio, ossia è pienamente sottomesso e conforme alla
+**1** — Accanto al dono del timore, sotto il cui influsso l'anima si mette interamente nelle mani di Dio con il solo desiderio di non separarsi giammai da lui, vi è il dono della fortezza che ha il compito di irrobustirla per renderla sempre più coraggiosa nel servizio divino.
 
+A misura che avanza nella vita spirituale, l'anima, più che procedere con le sue iniziative, deve seguire quelle di Dio, deve lasciarsi guidare dallo Spirito Santo, eppure anche di occorre la sua attività, la quale deve consistere nell'adesione docile e pronta alle mozioni divine. Ebbene, il dono della fortezza le darà la forza di dire sempre il suo sì alle ispirazioni ed agli inviti del divino Paraclito, di accettare e di volere tutto quello che Egli fa per lei ed in lei. Questo dono viene così ad aiutare ed a perfezionare la virtù della fortezza che, malgrado la nostra buona volontà, è sempre debole e troppe volte ancora vien meno, soprattutto di fronte alle esigenze di una vita spirituale più perfetta. Se occorre coraggio per essere fedeli, anche a costo di gravi sacrifici, alla legge di Dio e ai doveri del proprio stato e per sopportare pazientemente tutte le difficoltà della vita, ce ne vuole forse ancora di più per assecondare l'azione del Signore nell'anima nostra, per non spaventarci di fronte alle prove attraverso le quali ci fa passare, per seguire con fedeltà gli impulsi dello Spirito Santo, Maestro dolce e soave, ma nello stesso tempo esigente perché non può condurci alla santità senza chiederci tutto. Ed è proprio in questo campo che, in modo particolare, sperimentiamo la nostra debolezza: intuiamo ciò che Dio vuole da noi, forse lo vediamo anche molto chiaro e tuttavia non siamo capaci, non abbiamo la forza di farlo. È il grande tormento dell'anima di buona volontà, ma non ancora matura; è la condizione della debolezza umana che la grazia attuale e la virtù infusa della fortezza possono migliorare di molto, ma che, agendo esse attraverso le nostre facoltà limitate, non possono sanare sino in fondo. Occorre l'intervento diretto di Dio stesso e Dio interviene mettendo in atto il dono della fortezza.
 
-sua legge, alla sua volontà, al suo beneplacito. Possedendo
-la pace diventa seminatore di pace: pacifico, nel senso etimologico, è appunto colui che mette la pace, che coltiva la
-pace e la diffonde intorno a sè. Ecco perchè al dono della
-sapienza corrisponde la beatitudine della pace: « beati i pacifici ». Solo chi vive sotto l'influsso di questo dono può dav-
-vero giudicare e ordinare tutto in rapporto a Dio ed in tal
-modo nulla, neppure la sofferenza, può turbare la sua pace
-interiore perchè sa che anche gli avvenimenti più dolorosi
-sono permessi e diretti da Dio per il bene dei suoi eletti:
-«tutto coopera in bene per chi ama Dio» (Rom. 8, 28).
-
-Appunto così il dono della sapienza conferisce una nota
-di soavità, non solo all’orazione, ma anche alla vita pratica:
-«sotto l'influsso di questo dono — dice S. Tommaso — l'amarezza si cambia in dolcezza, la fatica in riposo» (1l* Il*,
-q. 45, a. 3). i
-
-
-2. — Il dono della sapienza ci conduce alla pace: pace
-interiore dell'anima che, avendo gustato Dio, si dà a lui
-senza alcuna riserva, totalmente arresa alla sua volontà divina; pace serena di colui che, vedendo Dio in tutto, ac-
-cetta senza turbarsi le avversità della vita adorando in esse le
-divine disposizioni; ed anche pace sociale di chi, considerando gli uomini in rapporto a Bio, come creature e figli suoi,
-ama tutti e vuol vivere in pace con tutti. Più questa pace
-sarà perfetta, più ci condurrà a gustare il premio promesso
-da Gesù: « Beati i pacifici, perchè saranno chiamati figli di
-Dio» (Mt. 5,9).
-
-Tutti i cristiani sono figli di Dio per la grazia, ma qui
-si tratta di un premio particolare, possiamo dire di una sovrabbondanza della grazia di adozione; qui c'entra qualche cosa
-di sperimentale per cui l'anima non solo sa, ma sente e gusta
-di essere figlia di Dio. E' il senso saporoso della figliolanza
-divina che nasce nell'anima sotto l'influsso del dono della
-sapienza. «Lo Spirito stesso attesta allo spirito nostro che
-siamo figli di Dio» (Rom. 8, 16); quest’affermazione di San
-
-
-Paolo diventa realtà vivente, esperienza gustosa; l’anima si
-sente chiamata figlia di Dio non dagli uomini, ma da Dio
-stesso; nessuna voce sensibile le parla, ma quanto più si sente attirata da Dio é Jo gusta in un’intima unione, tanto più
-Ze che Egli è suo Padre e lei, piccola creatura, è sua figlia. ]
-
-Il nostro Dio è il Dio della pace; perciò è ben giusto
-che il pacifico, colui che possiede e diffonde la pace, debba
-sentirsi in modo tutto particolare figlio suo. Se gli uomini,
-in genere, sì sentono tanto poco figli di Dio, è anche perchè sono così poco pacifici: più pronti alle liti, alle lotte,
-alle guerre che alla pace. Di pace si parla, ma la pace non
-si fa, perchè l'uomo non si lascia guidare dallo Spirito della
-sapienza e vuol guidarsi, invece, da se stesso con la sua insipienza e così è dominato dall’orgoglio, dall'interesse, dalla
-cupidigia; vive nel disordine e semina disordine.
-
-Quanto più la nostra anima sarà stabilita nella pace e
-quanto più saremo messaggeri di pace, tanto più lo Spirito
-Santo infonderà nelle anime nostre questo senso gustoso della nostra figliolanza divina e ciò diverrà per noi motivo d’im-
-mensa beatitudine, vero preludio della beatitudine eterna.
+**2** — La virtù della fortezza e il dono della fortezza hanno l'identico oggetto: renderci forti nella vita spirituale, ma differiscono nel modo di agire. La virtù agisce in noi mediante i nostri sforzi, sostenuti bensi dalla grazia, ma che tuttavia sono sempre sforzi umani, perciò, pur essendo soprannaturale, deve necessariamente adattarsi al nostro modo umano di agire e quindi risente sempre della nostra limitatezza. Il dono invece — come tutti i doni dello Spirito Santo — è soprannaturale non solo in sé, ma anche nel suo modo di agire; infatti, anziché essere messo in atto da noi — come accade per la virtù — viene messo in atto da Dio stesso. Mediante la virtù siamo noi che con la nostra buona volontà, sorretta dalla grazia, cerchiamo di acquistare la fortezza, di renderci forti; mediante il dono, invece, è lo Spirito Santo che ci fortifica interiormente comunicandoci qualche cosa della sua onnipotenza, della sua fortezza infinita. Tra la fortezza acquistata con i nostri sforzi e quella infusa in noi dallo Spirito Santo vi è una differenza simile a quella che corre tra l'opera di uno scolareetto inesperto e quella di un abile artista o, meglio, vi è la differenza che passa tra la capacità e la potenza dell'uomo e la capacità e la potenza di Dio. «Voi — disse Gesù agli Apostoli — riceverete forza di Spirito Santo, quando verrà su di voi; e mi sarete testimoni in Gerusalemme» *(At.* I, 8); infatti quei poveri pescatori pieni di paura, che non avevano avuto il coraggio di accompagnare Gesù al Calvario, dopo la discesa dello Spirito Santo, divennero forti come leoni, capaci di affrontare qualsiasi pericolo e perfino la morte. Questo ci dice quanto è necessario il dono della fortezza; senza di esso noi saremmo sempre vacillanti, sempre incerti, sempre incostanti. Ma lo Spirito Santo vuole che ci disponiamo a ricevere questo dono mediante l'esercizio della virtù: i nostri sforzi, ripetuti con umiltà e con costanza, sono di per sé una tacita invocazione del dono della fortezza; mediante lo sforzo tendiamo le vele dell'anima nostra al soffio dello Spirito Santo: spetta a lui scegliere il momento in cui spirare, ma non spirerà in noi, non ci troverà disposti ad accogliere il suo impulso, ossia se non ci troverà applicati ad esercitare la virtù.
 
 ### Colloquio
 
-«Donaci, o Spirito, la tua sapienza affinchè c'insegni a
-condurre e a ricondurre tutte le cose in te, donde sono procedute, Oh, se noi ritornassimo veramente a te, come da te
-siamo usciti, a guisa di fiumi che ritornano al mare donde
-ebbero origine; oh, se facessimo questo completo ritorno a
-te saremmo in perpetua felicità e perpetua pace!
+«O Dio eterno, Tu sei fortezza e dai fortezza all'anima sì che questa diventa tanto forte che né demonio, né creatura le può togliere la sua fortezza, se lei non vuole. E mai non vuole quando si riveste della tua volontà, perché solo la volontà sua è quella che la fa indebolire. O Dio eterno, amore inestimabile, tutta è impastata con te la tua creatura, e Tu con lei per la creazione, per la fortezza della volontà, per la fortezza dell'amore con il quale la creasti!» (S. Caterina da Siena).
 
-«La tua sapienza è perfezione che ordina tutte le cose
-sempre guardando a te che ne sei il fine; considera il passato, guarda il presente e mira il futuro sempre in ra
-a te. Da ciò nasce la pace nel nostro cuore, dolce frutto della
-sapienza. Chi possiede questa pace sempre si quieta: (si
-quieta nelle cose passate, si quieta nelle presenti, sta paci-
+«Veni, *Spiritus fortitudinis, robora me*! Vieni, Spirito di fortezza e rendimi forte! Concedimi il dono della fortezza per affrontare con coraggio, per sopportare con pazienza le cose difficili e gravi, superando tutti gli ostacoli. Ho grande bisogno di questo tuo dono perché sono piccola, debole e mi stanco presto come i bambini. 'Ma Tu non ti stanchi né ti affatichi ed è imperscrutabile la tua sapienza. Dai forza a chi è stanco ed a quelli che vengono meno accresci robustezza e vigore. I fanciulli vengono meno e si affaticano, i giovani cadono per debolezza. Ma quelli che confidano in te acquisteranno nuova forza, prenderanno ali come di aquila, correranno senza fatica, cammineranno senza stancarsi' (cfr. *Is.* 40, 28-31).
 
+«O Spirito Santo, sostienimi e allora diventerò forte della tua fortezza. Se Tu sarai la mia forza e la mia salvezza, che cosa temerò? Io non posso sostenermi con la mia fortezza, ma tutto posso in te che mi dai forza! Se Tu mi soccorri, nonostante la mia debolezza supererò le tentazioni, non mi arresterò davanti agli ostacoli, compirò opere grandi e, rinvigorita dalla tua fortezza, sopporterò con pazienza e con gioia la sofferenza.
 
-fica prevedendo le future, perchè sa che tutto è permesso e
-disposto dalla tua somma Bontà.
-
-«O Eterno Padre, dacci luce per conoscere questa pace, causa di tanti beni e senza la quale si cade in tanti
-difetti ed in tanto male!
-
-«Oh, perchè non posso io comunicare questa pace santa
-ad ogni creatura? Oh, se fossi quella che dovrei essere, ben
-la potrei diffondere dappertutto! Dammi, o Signore, la tua
-pace: pace del cuore che vive unito a te, perchè da me non
-posso avere alcun bene e senza di te non posso aver pace»
-(cfr. S. M. Maddalena de’ Pazzi).
-
-«O benignissimo Gesù, concedimi che sopra ogni cosa
-desiderabile io riposi in te e che il mio cuore trovi quiete
-soltanto in te. Tu sei la vera pace del cuore, l’unico suo rifugio, mentre fuori di te non v'è che affanno ed inquietu-
-dine. In questa pace adunque, cioè in te, sommo ed eterno
-Bene, io avrò quiete e riposo» (Imit. III, 15, 4).
+«O Spirito Santo, invoco con tutto il cuore questo tuo dono; fa' che esso mi renda generosa, intrepida, amante del sacrificio, virile, desiderosa e risoluta nel tendere alla perfezione con vero spirito di totalità» (Sr. Carmela d. Spirito S. c.s.).

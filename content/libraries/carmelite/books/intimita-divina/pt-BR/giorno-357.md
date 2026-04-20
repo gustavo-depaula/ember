@@ -1,35 +1,100 @@
-## 357 — O DOM RECÍPROCO
+## 35 — NEGOCIEMOS O TEMPO
+*31 dezembro*
 
 ### Presença de Deus
 
-Ó Senhor, que eu seja todo teu e Tu sejas todo meu!
+— Neste último dia do ano recolho-me aos pés de Jesus Menino para considerar, à luz da eternidade, o valor do tempo.
 
 ### Meditação
 
-1 — «Deus não se dá por inteiro senão àqueles que se dão por inteiro a Ele» (Santa Teresa de Jesus). Deus respeita tanto a liberdade do homem que, embora deseje torná-lo participante de sua vida divina, comunica-se na medida do consentimento da criatura. Mas, quando esse consentimento é pleno, Ele não hesita em dar-se totalmente.
+1 — O tempo passa e não retorna mais. Deus assinalou
+a cada um de nós um tempo determinado para realizar o
+plano divino sobre a nossa alma: temos só este tempo
+e não temos outro. O tempo mal empregado está perdido
+para sempre. A condição da nossa vida é este contínuo fluir, este contínuo correr do tempo que não tem
+retorno; na eternidade, ao contrário, estaremos fixos,
+estaremos estabelecidos.
+E estaremos estabelecidos naquele grau de amor que tivermos alcançado agora,
+no tempo; se tal grau for grande, num
+grande grau de amor e de glória estaremos estabelecidos em eterno,
+mas se tivermos alcançado um pequeno grau, não teremos
+mais por toda a eternidade. Terminado o fluir do tempo,
+já não é possível progresso algum. "Portanto, enquanto temos oportunidade, façamos o bem a todos" (Gal. 6, 10).
+"Trata-se de dar a cada instante o máximo amor,
+de tornar eterno o instante que foge, dando-lhe o valor da eternidade" (Irmã Carmela d. Sp. S., o.c.d.): eis o modo
+melhor de empregar o tempo que Deus nos concede. A
+caridade nos permite aderir com docilidade e amor à
 
-Assim, ao sim perfeito da alma, Deus responde com o «verdadeiro e inteiro sim de sua graça» (São João da Cruz). Ao dom total da vontade corresponde a plena comunicação da graça, acompanhada das virtudes infusas e dos dons do Espírito Santo.
+vontade de Deus e assim, ao fim da vida, teremos realizado
+o plano divino sobre a nossa alma, teremos alcançado aquele
+grau de amor que Deus espera de cada um de nós e com
+que o amaremos e o glorificaremos em eterno.
 
-Graça e amor caminham juntos. Como a perfeita adesão à vontade de Deus é sinal de amor perfeito, segue-se que à alma plenamente conformada ao querer divino Deus concede superabundância de graça. São João da Cruz ensina que, sendo uma só a vontade de Deus e a vontade da alma num consentimento livre, a alma possui Deus por graça de vontade: ao seu sim, Deus respondeu com o sim completo de sua graça.
+2 — O aumento da caridade depende dos atos meritórios,
+isto é, das obras boas realizadas sob o influxo da caridade. Toda obra boa merece aumento de caridade, e este
+pode ser concedido logo à alma, ou só no fim
+da vida, conforme a alma tiver operado com todo
+o amor de que é capaz ou, ao contrário, um pouco por força,
+com tepidez e negligência. No primeiro caso, o aumento de
+caridade é semelhante aos juros que são imediatamente
+incorporados ao capital e que portanto frutificam com ele;
+no segundo caso é semelhante àqueles juros
+que não são acrescentados ao capital e portanto não aumentam com ele,
+embora sejam propriedade de quem os adquiriu.
 
-É o triunfo da graça. Graça semeada no Batismo e aumentada ao longo das etapas da vida espiritual, que chega à maturidade quando a alma se põe totalmente nas mãos de Deus. Morre para si a fim de viver em Deus e de Deus: «Vós morrestes, e vossa vida está escondida com Cristo em Deus» (Cl 3,3).
+Para que o mérito das nossas obras boas — isto é, o aumento de caridade por elas ganho — seja logo concedido
+à alma, é necessário que tais obras sejam realizadas com
+todo o amor, isto é, com toda a boa vontade e generosidade de que a alma é capaz: então é como se a alma se
+abrisse para receber o aumento de amor merecido,
+e este, de fato, junta-se logo ao capital de caridade que ela possui,
+aumentando-lhe imediatamente o grau e a intensidade.
 
-O Santo acrescenta: se a alma fizer o que lhe compete, esvaziando-se e desapropriando-se de tudo, é impossível que Deus deixe de comunicar-se a ela, ao menos em secreto silêncio. É mais impossível isso do que imaginar o raio de sol sem brilhar no céu sereno. Como o sol entra pela janela aberta, assim Deus entra na alma vazia e a enche de bens divinos.
-
-Há muito tempo o Sol divino brilha sobre tua alma e bate à tua porta: «Eis que estou à porta e bato» (Ap 3,20). Cada confissão, cada comunhão, cada Missa, cada ocasião de praticar a virtude, cada inspiração, cada chamado da obediência é nova batida de Deus ao teu coração.
-
-Por que fazê-lo esperar? Desperta do torpor e escancara a porta da alma. Não a abras pela metade, nem por três quartos: remove todo impedimento, porque o Rei da glória deve entrar.
-
-Se te custa renegar em tudo tua vontade, pensa quão belo é deixar-se conduzir em tudo pela vontade de Deus. Se te pesa renunciar ao amor-próprio e aos afetos terrenos, pensa quão suave é possuir o amor de Deus. Se te repugna morrer para ti, pensa quão glorioso é viver para Deus.
-
-O Senhor quer comunicar-se à tua alma, quer dar-se todo a ti, quer habitar contigo: «Se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo» (Ap 3,20). Ah, não percas dom tão imenso por tua negligência.
+Para crescer no amor temos só a breve jornada
+desta vida terrena e, se queremos tirar dela o maior fruto possível, devemos aplicar-nos a cumprir as nossas obras boas "com todo o coração", vencendo a inércia e a
+tepidez natural.
+Então o amor crescerá sem medida e
+a alma poderá, com Santa Teresa do Menino Jesus, dizer ao Senhor:
+"o teu amor cresceu comigo e agora se tornou um
+abismo cujas profundezas não posso sondar" (St. 10). Convém apressar-nos enquanto temos tempo, porque depois "vem a noite, quando ninguém pode trabalhar"
+(Jo. 9, 4).
 
 ### Colóquio
 
-«Senhor do céu e da terra! É possível gozar-te tão intimamente já nesta vida mortal? Que delícias reservas às almas que se entregam todas a ti!
+Ó Senhor, considerando o novo ano decorrido e
+que Tu me concedeste para crescer no teu amor, não posso
+deixar de lamentar-me de mim mesmo e de repetir-te:
+quanto pouco te amei, meu Deus! Como empreguei
+mal o meu tempo!
 
-«Nesta vida, meu Senhor, peço-te uma só coisa: “que me beijes com o beijo de tua boca”. Mas faze-o de tal modo que minha vontade permaneça unida à tua, sem poder separar-se.
+"Como tardam os meus desejos a acender-se, enquanto
+Tu tão cedo começaste a atrair-me e a
+chamar-me, para que toda eu me ocupasse de ti! Mas acaso
+Tu expulsaste os miseráveis? Acaso
+afastaste o pobre mendigo quando queria aproximar-se? As tuas grandezas e a magnificência das tuas obras, Senhor, têm talvez limite? Como te é fácil mostrá-las agora na tua serva,
+meu Deus e minha Misericórdia! Tu és poderoso, ó grande Deus. E
+este é o momento de mostrar se a minha alma se engana quando, pensando no tempo perdido, afirma que num
+instante Tu podes fazê-lo recuperar.
+Parece-me delirar, porque, segundo dizem, o tempo perdido não se recupera.
 
-«Por amor de Deus, alma minha, desperta do sono: Deus não espera a outra vida para recompensar teu amor. A recompensa começa já aqui embaixo.
+"Bendito seja o meu Deus! Reconheço, Senhor, a tua
+soberana potência. És poderoso: sim, verdadeiramente o és. E então,
+que há de impossível para quem tudo pode?
 
-«Meu Senhor, minha Misericórdia e meu Tesouro, que outro bem se pode desejar na terra senão estar tão perto de ti que já não seja possível separação? Já que o amor mo permite, repetirei sem me cansar: “O Amado é para mim, e eu para o meu Amado”» (cf. Santa Teresa de Jesus).
+"Sabes bem, meu Deus, que, apesar das minhas grandes misérias, eu nunca cessei de reconhecer a tua soberana
+potência e misericórdia.
+Ao menos nisso não te ofendi;
+e Tu, Senhor, leva isso em conta. Recupera-me, ó meu Deus,
+o tempo que perdi, derramando em mim a tua graça para o
+presente e para o futuro, para que eu compareça diante de ti
+com a veste nupcial. Se o queres, podes" (T.G. Es. 4).
+
+Da minha parte, ó Senhor, não vejo melhor modo
+de recuperar o tempo perdido do que aplicar-me com todas as
+forças ao exercício do amor. Sim, o meu amor aumentará se eu souber cumprir por ti "com todo o coração", isto é, "com toda a boa vontade", cada meu dever, cada
+obra boa. Mas sou tão fraco e débil, tão indolente, inclinado a fugir do esforço, a evitar ou ao menos diminuir
+o sacrifício; a minha natureza tende sempre ao mais
+fácil, ao menos cansativo, e cai com tanta facilidade na
+negligência,
+na moleza. Ajuda-me Tu, Senhor, e fortalece o meu amor com a força onipotente do teu.
+É tão pouco o que posso fazer por ti; que ao menos saiba
+fazê-lo com todo o amor de que Tu me tornaste capaz.

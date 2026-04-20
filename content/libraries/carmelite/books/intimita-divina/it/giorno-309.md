@@ -1,128 +1,25 @@
-## 309 — INCONTRO ALLO SPIRITO SANTO
+## XVII — BEATI I FAMELICI
 
-### Presenza di Dio
-
-Vieni, Spirito Santo, investimi con la tua azione e conducimi a Dio.
+**Presenza di Dio.** — *Sotto l'impulso del dono della fortezza, diventa in me un'anima affamata e assetata di giustizia.*
 
 ### Meditazione
 
-1. — Considerando i doni dello Spirito Santo e le beatitudini che ne sono i frutti, comprendiamo sempre meglio
-di quali meravigliose ricchezze Dio ci ha dotato. Fin dal
-giorno del suo battesimo, ogni cristiano possiede questi doni
-preziosi; non è quindi temerario desiderare che essi si sviluppino in noi fino alla maturità, sì che la nostra anima possa
-essere totalmente investita dall'azione dello Spirito Santo.
-Anzi, con questo desiderio andiamo incontro al desiderio stesso di Dio che ci ha dato questi doni appunto perchè pos-
-siamo essere mossi e guidati dal suo Spirito, «giacchè coloro che son guidati dallo Spirito di Dio, questi son figli
+**1** — L'anima, fa nascere in lei desideri sempre più grandi di giustizia, di virtù, di santità, desideri così vivi ed impellenti che possono ben dirsi fame e sete. Sotto l'impulso del dono della fortezza l'anima diventa un'affamata, un'assetata di giustizia; ecco perché al dono della fortezza corrisponde la beatitudine: «Beati quelli che hanno fame e sete della giustizia, perché essi saranno saziati» *(Mt.* 5, 6). Il vocabolo di giustizia va inteso qui nel senso più largo di perfezione, di santità, di donazione totale a Dio ed alle anime. Ed è proprio in questo senso che lo Spirito Santo spinge l'anima mostrandole orizzonti sempre più vasti, invitandola ad opere sempre più perfette, a donazioni sempre più generose e più profonde. Quest'anima non può riserbarsi più nulla, lo Spirito Santo non glielo permette; deve darsi tutta: «la carità di Cristo mi costringe» *(II Cor.* 5, 14) ripete con S. Paolo. In lei c'è una sete ardente della volontà di Dio di cui va in cerca come l'avaro va in cerca dell'oro; c'è una sete ardente di santità, sì che non tollera in se stessa la minima incorrespondenza alla grazia e le sembra sempre «di fare troppo poco [per il Signore] e se le fosse lecito disfarsì mille volte per lui, ne sarebbe molto contenta» (G.C. N. II, 19, 3); in lei c'è una sete ardente delle anime per le quali non cessa di spendersi senza risparmio; c'è una sete ardente della gloria di Dio per cui, totalmente dimentica del suo riposo, è sempre pronta ad intraprendere nuovi sacrifici e fatiche. Donde le viene tanto coraggio, tanto ardire? Non dalla sua forza, non dalle sue energie — lo sa molto bene — ma dalla forza dello Spirito Santo, dalla confidenza in lui, dalla docilità alla sua azione. Può quindi affermare con tutta sicurezza: «Ogni cosa io posso in Colui che mi dà forza» *(Fil.* 4, 13).
 
+**2** — Come l'affamato gode quando può saziarsi di pane, così l'anima, che vive sotto l'influsso del dono della fortezza, gode quando può soddisfare la sua fame di giustizia, di santità. Gode quando può immergersi nella volontà di Dio, unico cibo che può satollarla, gode quando può soddisfare la sua sete d'immolazione sacrificandosi per Iddio e per le anime, gode quando può appagare la sua fame di Dio ricevendolo nell'Eucaristia o tuffandosi in lui nell'intimità della preghiera. È una gioia pura, perché non cercata, perché frutto dell'adempimento del proprio dovere; è la gioia dell'anima che gravita verso il suo centro, Dio, e sente di darsi sempre di più a lui, di appartenergli totalmente. Ma, per godere questa gioia, bisogna essere decisi a non volerne cercare ed ammettere altre. «Vita felicissima — dice S. Teresa di Gesù — conducono le anime che, disprezzando ogni propria soddisfazione, non pensano che a contentare il Signore» *(Cam.* 13, 7).
 
-di Dio» (Rom. 8, 14). E se noi desideriamo essere veri figli
-di Dio, non lo desidera forse immensamente di più il Padre celeste che appunto per questo ci ha creati ed elevati
-allo stato di grazia?
-
-Slanciamo, dunque, le nostre anime a grandi desideri
-no, non è troppo, non è temerario, non è presunzione; Dio
-lo vuole: «voluntas Dei santificatio vestra» (I Tes. 4, 3),
-questa è la volontà di Dio, la santificazione nostra! Ma, per
-chè i nostri desideri non siano vani, applichiamoci con generosità sempre crescente a disporre l’anima nostra all’azio-
-ne dello Spirito Santo. Persuadiamoci che, prima di farci
-gustare Dio e la sua divina unione, il divino Paraclito deve
-compiere in noi un'opera di profonda purificazione, perchè
-come il legno verde non può essere penetrato dal fuoco se
-rima non è disseccato e purgato da tutti i suoi umori, così
-anima non può essere investita e trasformata dal fuoco dell'amore divino se prima non è purificata da tutte le sue im-
-perfezioni. Disponiamoci, quindi, a subire con coraggio questa purificazione indispensabile, anzi, cerchiamo noi stessi
-di anticiparla tagliando senza pietà tutti i fili che ancora ci
-legano alla terra e, soprattutto, quelli che ci legano al nostro
-amor proprio; al nostro orgoglio. « O umiltà, umiltà!... — esclama Teresa di Gesù — il torto di coloro che non vanno
-avanti [nelle vie dello spirito], sta tutto qui», nella mancanza di umiltà, « perché l'umiltà è il fondamento dell'edi-
-ficio e non mai il Signore lo eleverà di molto se detta virtù
-non sarà veramente ben salda » (M. III, 1, 7; 2, 8; VII, 4, 8).
-
-
-2. — Alla generosità, al distacco ed all'umiltà uniamo la
-fervorosa preghiera per invocare l’opera dello Spirito Santo.
-Eleviamo a lui le nostre suppliche con le parole stesse della
-
-fesa:
-
-«Veni, Creator Spiritus...
-Accende lumen sensibus - infunde amorem cordibus,
-infirma nostri corporis - virtute firmans perpeti.
-
-
-Nell'oscurità dei nostri sensi, abbiamo bisogno di luce interiore: che il Divino Spirito venga e, accendendo in noi que-
-sta luce, ci faccia conoscere Dio per mezzo della contemplazione amorosa delle sue grandezze. Abbiamo bisogno di
-carità: che Egli venga e l'infonda nei nostri cuori spesso
-tanto aridi e freddi, perchè pieni di amor proprio e di egoismo. «L'amore divino s'è riversato nei nostri cuori per lo
-Spirito Santo» (Rom. 5, 5), solo da lui possiamo riceverlo!
-Abbiamo bisogno di fortezza per vincere noi stessi, per affrontare le difficoltà, per mantenerci sereni e generosi; che Egli
-venga a sostenerci coi suoi doni e non seguiremo più le sciocche
-che esigenze dell'amor proprio; non ci lasceremo più spaventare, impressionare dalla sofferenza, dalle difficoltà; non
-deremo tanto facilmente la pace in mezzo alle contraddi
-ni: forti della sua fortezza potremo mantenere quell’equilibrio interiore e quella serenità che ci permetteranno di essere
-sempre generosi, sempre in atto di donarci totalmente a Dio.
-
-
-«Hostem repellas longius - pacemque dones protinus...»
-
-
-Quando lo Spirito Santo ci avrà condotti a quel perfetto
-equilibrio, che è la santità stessa, non avremo più nulla da
-temere dal demonio; il maligno fuggirà lontano e, se qualche
-volta riuscirà ancora a turbarci, non potrà far altro che giungere alla soglia della sensibilità, mentre — sotto la valida
-protezione dello Spirito Santo — il fondo dell'anima nostra
-rimarrà nella pace.
-
-L'equilibrio pieno e la pace perfetta sono le caratteristi
-che della vita di unione con Dio: lo Spirito Santo c'introdurrà e ci farà progredire in questa unione, sino a farci pene
-trare nel santuario della vita intima di Dio, nella vita Trinitaria. Questo è il più bel frutto della sua azione nelle anime
-nostre: frutto squisito, pegno della gloria eterna, frutto che
-maturerà perfettamente ‘in cielo, nella visione beatifica del
-nostro amatissimo Dio.
-
+Se non gustiamo questa gioia è perché non siamo abbastanza affamati di giustizia: accanto a questa fame santa nutriamo forse ancora le avidità del secolo — fame delle cose e delle gioie di quaggiù — che diminuiscono la forza della prima e fanno deviare i nostri passi in cerca di soddisfazioni umane. Ma che cosa possono darci le creature? Non saranno mai sufficienti a saziare la nostra fame e ci lasceranno sempre insoddisfatti. Chiediamo dunque allo Spirito Santo che estingua in noi ogni appetito di cose terrene e faccia crescere la nostra fame di santità. Questa fame è ancora debole in noi e, soprattutto, è incostante: quante volte, dopo aver fatto grandi propositi, siamo ricaduti a terra e siamo rimasti lì avviliti e forse ancherassegnati a non saper fare di più. Lo Spirito Santo, mediante il dono della fortezza, vuol rendere più forte e perseverante la nostra fame di santità in modo che non si estingua mai, non già per lasciarci morire d'inedia, ma per saziarci di beni imperituri: di volontà di Dio, di giustizia, di santità. Egli, che ha il potere di suscitare in noi questa fame, ha pure il potere di soddisfarla a sazietà, sì che di questa sazietà noi siamo eternamente beati.
 
 ### Colloquio
 
-«O Spirito Santo, Tu vai traendo, per dir così, dalla gloria del Padre un raggio candidissimo e luminosissimo di glo-
-ria e dal Verbo Incarnato una saetta ardentissima e pungentissima d’amore per illuminare ed ottenebrare, per ferire e
-sanare, per accendere, per raffreddare, per avvilire o abbagliare,
-per far gloriose le creature che ti ricevono nel loro cuore e
-per farle camminare con amore. E chi può mai dire quali
-e quanti siano i tuoi influssi? Son tanti e tanti che sono senza numero.
+«O Dio, oceano d'amor sacro e di dolcezza, vieni e donati all'anima mia! Fa' che con tutto il cuore, con desiderio assoluto, con amore fiammeggiante aspiri di continuo a te e in te respiri soavemente. O vera e suprema mia esultanza, ch'io ti preferisca ad ogni creatura, che per te rinunzi ad ogni transitorio piacere!
 
-« Ma dove vai Tu infondendo i tuoi doni e le tue grazie?
-Nelle anime che trovi disposte: quelle rinnovi e le conduci
-all’intendimento di Dio. Che. cosa è; dunque, Dio mio, quello
-che priva l'anima del tuo Spirito? E' il perverso amor proprio, fonte e origine d'ogni peccato. Oh, purtroppo, ben vedo
-come sta il mondo tutto sommerso ed annegato nell’amor proprio! Chi con l'intelletto, chi con la memoria, chi con'la vo-
-ontà, chi con tutta l'anima va sommergendosi in esso. E
-quel che più ti dispiace, o Dio, è che questo perverso amor
-proprio abiti anche nei tuoi ministri e nelle tue spose. Non
-ci paia piccolo il disordine del nostro amor proprio, del nostro proprio volere. Non bisognano monti di peccati enormi,
-basta l'arena di questi difetti — che sembrano piccoli e non
-lo sono — a trattenere il corso di questo rapido fiume ed
-oceano della grazia!
+«Pasci, o Signore, questo mendicante famelico coll'influsso della tua divinità, rallegrami con la presenza desiderata della tua grazia. Questo chiedo e desidero affinché l'amore veemente mi penetri, mi riempia, mi trasformi in te.
 
-«O Spirito Santo, purifica, purifica il mondo tutto, purifica l'anima mia dall'amor proprio perchè più non ci ritorni!»
-(cfr. S. M. Maddalena de’ Pazzi).
+«Fa', o dolcissimo Redentore, ch'io bruci del tuo amore, che venga meno a me stesso, che mi diletti in te solo, e solo te conosca e senta. O abisso traboccante di divinità, attirami, immergimi in te! Strappa ogni amore dal mio cuore, applicalo a te in modo ch'io sia inanìmato per tutte le altre cose.
 
-«O Spirito Santo e Santificatore, Dio onnipotente, amore essenziale del Padre e del Figlio, nodo adorabile dell'au-
+«T'invoco nell'anima mia, te invoco e cerco con enorme affetto, o delizia degli intimi abbracci! Vieni, Diletto, vieni superdesiderato, ch'io ti possegga dentro e ti stringa con le braccia della mia anima!
 
-sta Trinità, io ti adoro e ti amo con tutto il mio cuore.
-Sorgente inesausta di grazie e di amore, rischiara la mia mente, santifica l’anima mia ed infiamma il mio cuore. Dio di
-bontà e di misericordia, vieni a me: visitami, riempimi, resta
-in me, fa del cuor mio un tempio ed un santuario animato
-dove Tu possa ricevere le mie adorazioni ed i miei omaggi e
+«Entra nell'anima mia, o somma dolcezza, ch'io gusti le cose dolci e in te solo mi rallegri e riposi.
 
-
-trovare le tue delizie. Sorgente d'acqua viva, che zampilli
-sino alla vita eterna, irriga, abbevera l'anima mia che ha sete
-della giustizia. Fuoco sacro, purificami, fa' ch'io bruci delle tue
-fiamme ed esse in me giammai si estinguano. Luce ineffabile,
-illuminami; Santità perfetta, consacrami; Spirito di verità,
-senza di te sono nell'errore; Spirito di amore, senza di te sono
-ghiaccio; Spirito di unzione, senza di te sono nell’aridità; Spirito di vita e vivificante, senza di te sono nella morte. ?
-
-«O Spirito divino, fa’ al cuore mio una dolce violenza per
-impegnarlo a desiderarti, a cercarti, ad ubbidirti, ad amarti,
-e a possederti nel tempo e nell’eternità. Così sia» (P. Aurillon).
+«O mio Diletto, Diletto dei miei voti, fatti trovare e, trovato, fa' che io ti tenga e ti stringa strettissimamente fra le mie braccia spirituali. Ti desidero; anelo a te, eterna beatitudine. Oh! donati a me, uniscimi a te intimamente e inebrìami del solo vino del tuo amore» (B. Luigi di Blois).

@@ -1,89 +1,17 @@
-## 213 — DALL'EUCARISTIA ALLA TRINITÀ
+## XIII — LA CONSACRAZIONE AL CUORE DI GESÙ
 
-### Presenza di Dio
-
-O Gesù eucaristico, guidami alla Trinità, aiutami a vivere con la Trinità.
+**Presenza di Dio.** — *O Gesù, fammi degno di consacrarmi al tuo dolcissimo Cuore e di vivere realmente la mia consacrazione.*
 
 ### Meditazione
 
-1. — Gesù è venuto a noi dal seno del Padre per condurci alla Trinità: questo è il fine dell'Incarnazione ed è
-pure il fine dell'Eucaristia che prolunga nel tempo il mistero dell'Incarnazione. Gesù nell'Eucaristia continua ad
-essere il Mediatore tra noi e la Trinità, continua a tenderci
-la mano per condurci ad essa e, venendo in noi nella S.
-Comunione, ci mette in contatto sempre più diretto con
-le tre Persone divine. Gesù, infatti, non viene in noi soltanto con la sua SS.ma Umanità, ma anche con la sua
-Divinità; viene in noi nell'integrità della sua Persona di
-Uomo-Dio e, come Dio, come Verbo, è sempre indissolubilmente unito al Padre ed allo Spirito Santo. Dall'Ostia consacrata Gesù ci potrebbe ripetere quel che diceva un giorno sulla
-terra: «Chi mi ha mandato è con me e non mi ha lasciato
-solo» e più esplicitamente: «Io sono nel Padre e il Padre
-è in me» (Gv. 8, 29; 14, 10). Perciò, quando viene in
-noi nella S. Comunione, non viene solo, ma con lui viene
-il Padre e quindi anche lo Spirito Santo, appunto perchè
-le tre Persone divine, pur essendo distinte, sono indissolubili. La presenza della Trinità nell'anima nostra non
-si limita ai momenti in cui portiamo in noi Gesù Sacramentato, perchè le tre Persone divine inabitano in modo
-permanente nell'anima in grazia. Però, è ben vero che la
+**1** — Appunto perché la devozione al Sacro Cuore desta in noi il bisogno di ricambiare il suo amore infinito, sfocia spontaneamente in un atto di consacrazione, mediante il quale la creatura vuol donarsi tutta a quel Dio che tanto l'ha amata. Consacrarsi al Sacro Cuore — insegna Leone XIII — «vuol dire donarsi, legarsi a Gesù Cristo, perché tutto l'onore, tutto l'omaggio, tutta la pietà verso il Sacro Cuore s'indirizza in realtà a Gesù stesso» *(Enc. Annum Sacrum)*. E Pio XI spiega in che cosa consiste tale atto: «con questa pià consacrazione offriamo al Cuore di Gesù noi e tutte le nostre cose, riconoscendole ricevute dall'eterna carità di Dio» *(Enc. Miserentissimus Redemptor)*.
 
-Trinità è presente in un modo tutto particolare in Cristo,
-il Verbo incarnato, l'unico Uomo unito personalmente alla
-Trinità ed in cui abita tutta la pienezza della divinità, « in
-quo habitat omnis plenitudo divinitatis» (Lit. S. Cuore);
-quindi è certo che dove è Cristo, e perciò nell'anima no.
-stra nel momento della Comunione, lì la Trinità è presente in un modo speciale.
+Amare è darsi: «amare è donare tutto, è dare anche se stessi» ha cantato S. Teresa del B.G. *(Poesie)*. L'amore, quando è vero, ha bisogno del dono totale, ed in questo dono totale a Dio, l'anima amante trova la sua pace e il suo riposo. Il grido infuocato di S. Paolo: «*charitas Christi urget nos*» si risolve nel suo magnifico «*ut non sibi vivant, sed ei qui pro ipsis mortuus est*» *(II Cor.* 5, 14-15). Sì, la carità di Cristo ci stringe, affinché non viviamo più per noi stessi ma per Colui che è morto per noi. Chi si consacra ad una persona, si dà tutto a lei, non si appartiene più, non può più vivere per se stesso; i suoi gusti, i suoi interessi, i suoi desideri devono cedere il posto ai gusti, agli interessi, ai desideri di colui al quale si è donato ed a cui ora appartiene. Questo è il significato profondo della consacrazione al Sacro Cuore, consacrazione che, ben lungi dal ridursi alla recita di una formula, deve prendere tutta la nostra persona, la nostra vita, le nostre capacità per impegnare tutto il nostro essere e il nostro avere al servizio del Divin Cuore.
 
-2.—La SS.ma Trinità non è mai così presente nell'anima
-nostra come nei brevi momenti in cui abbiamo in noi Gesù
-Sacramentato; e non solo vi è presente ma vi dimora con compiacenza. Il Padre si compiace nel suo Figlio diletto che abita
-in noi e che Egli ci ha donato mediante l'Eucaristia; il Verbo si
-compiace nell'Umanità santissima di Gesù che è tutta e per
-sempre, sua; lo Spirito Santo si compiace in Cristo, suo
-tempio preferito e, a motivo di lui, gode di abitare in noi.
-Trovando in noi Gesù, tutta la SS.ma Trinità può finalmente rallegrarsi di dimorare nell'anima nostra e, rallegrandosi, ci guarda con particolare amore e si effonde in
-noi con maggiore pienezza. Ogni Comunione viene così ad alimentare la nostra vita di unione non solo con Gesù,
-ma anche con la SS.ma Trinità; ogni Comunione aumenta
-la nostra capacità di accogliere in noi le tre Persone divine,
-di vivere in società» con loro mediante rapporti sempre
-più intimi e profondi. La preghiera di Gesù: «Come Tu,
-Padre, sei in me e io sono in te, anch'essi siano uno in noi...
-Io in loro e Tu in me, affinchè siano perfetti nell'unità »
-(Gv. 17, 21 e 23) trova la sua massima realizzazione pro:
-prio in quei preziosi istanti in cui Gesù Sacramentato palpita in noi; ma anche quando la sua presenza sacramentale vien meno, non ne scompare l'effetto, ossia, questa
-più intima unione con la SS.ma Trinità.
-
-D'altra parte, mai così bene, come nei momenti in cui Gesù
-Sacramentato è presente nell'anima nostra, noi siamo in grado di offrire alla Trinità una dimora degna di lei, e non
-solo una dimora, ma anche dei doni, delle lodi, delle suppliche e delle adorazioni degne della sua maestà infinita.
-Possiamo infatti offrirle Gesù che è in noi, che è nostro,
-perchè la Trinità stessa ce l'ha donato ed Egli si è dato a
-noi con tutta la sua sostanza: Gesù, lode perfetta della
-SS.ma Trinità, Figlio diletto in cui le Persone divine ripongono tutta la sua compiacenza; e insieme con lui offriamo l'amore, le adorazioni, le suppliche, le lodi, le riparazioni del suo Sacro Cuore. Come siamo ricchi quando
-Gesù è in noi! Come possiamo per lui e in lui onorare,
-esaltare, glorificare la SS.ma Trinità!
+**2** — Parlando di consacrazione totale al Sacro Cuore, non s'intende parlare della consacrazione a Dio che si fa mediante i voti religiosi — cosa riservata solo ad alcuni — ma di quella consacrazione totale che Gesù stesso nel Vangelo propone a tutti e che ognuno è tenuto ad attuare secondo il suo stato di vita. «Ama il Signore Dio tuo — Gesù ti lo dice — con *tutto* il tuo cuore, con *tutta* la tua anima, con *tutta* la tua mente e con *tutta* la tua forza» *(Mr.* 12, 30); con questo ripetuto «con *tutta*» Egli ti chiede un amore totale e perciò chiede pure il *dono totale* di te stesso, ossia ti chiede di darti a lui ed al suo servizio non con mezza misura, ma pienamente. La via per attuare ciò, per dimostrare coi fatti la veridicità del tuo amore e del tuo dono totale è ancora Gesù che te l'addita: «Se mi ami, osserva i miei comandamenti» (cfr. *Gv.* 14, 15). Non andare, dunque, a cercare particolari modi e forme per attuare la tua consacrazione al Sacro Cuore, non farla consistere in cose eccezionali, straordinarie, ma sappila trovare molto vicino a te, nella concretezza della tua vita quotidiana. Consacrarti totalmente al Sacro Cuore, vuol dire: scegliere i suoi comandamenti, la sua volontà, i suoi desideri, i suoi gusti come norma della tua vita, pronto a rinunciare alla tua volontà ed ai tuoi gusti quando sono in contrasto con i suoi. Sono molti i cristiani che si consacrano al Sacro Cuore, ma sono pochi quelli che vivono la loro consacrazione e la vivono totalmente. La maggioranza la vivono a metà, ossia sanno preferire la volontà di Gesù alla propria quando l'agire diversamente sarebbe commettere peccato grave, ma quando si tratta di peccati veniali e, più ancora, d'imperfezioni, non si fanno scrupolo di contrariare il Cuore di Gesù e di agire come piace a loro. Ma Gesù chiede amici più fedeli, cerca anime che vivano la loro consacrazione al punto di non mai preferire un loro desiderio e gusto personale, ai desideri ed ai gusti suoi. Non vuoi essere di questi? «Figlio, dammi il tuo cuore» ti ripete Gesù ed aggiunge: «Dammelo totalmente vivendo totalmente secondo il mio Cuore».
 
 ### Colloquio
 
-«O Gesù Cristo, vero Dio e vero Uomo! L'anima mia gioisce di ritrovare nel SS.mo Sacramento te, Dio increato, che ti
-fai uomo, che ti fai creatura! In questo Sacramento, o Cristo, io
-trovo congiunte la tua Umanità e la tua Divinità; dall'Umanità salgo alla Divinità e da questa ridiscendo all'Umanità. Vedo la Divinità ineffabile nella quale si contengono tutti i tesori della sapienza, della scienza, delle
-ricchezze incorruttibili. Vedo la fonte inesauribile delle
-delizie che solo saziano la mente nostra. Vedo la tua preziosissima Anima, o Gesù, con tutte le virtù e i doni dello
-Spirito Santo, oblazione santissima e immacolata; vedo il
-tuo Corpo santissimo, prezzo della nostra redenzione; vedo
-il Sangue tuo che ci purifica e vivifica; insomma, vi trovo
-preziosissimi tesori che non posso ridire per la loro gran
-dezza. "
+«Cuore adorato dell'amabilissimo mio Gesù, che cosa hai trovato di buono in me per essere giunto ad amarmi senza misura, anche quando il mio cuore, macchiato da mille colpe, non aveva per te che indifferenza e durezza? Le grandi prove d'amore che Tu mi hai dato anche quando io non ti amavo, mi fanno sperare che gradirai quelle dell'amor mio. Gradisci, dunque, amabilissimo Salvatore, il desiderio che ho di consacrarmi interamente all'onore ed alla gloria del tuo Cuore santissimo; gradisci il dono che ti presento di tutto quello che sono: ti consacro la mia persona, la mia vita, le mie azioni, pene e sofferenze, volendo essere in avvenire una vittima consacrata alla tua gloria, subito incendiata e un giorno interamente consumata dalle sante fiamme del tuo amore. Ti offro dunque, o Signore e Dio mio, il mio cuore con tutti i suoi sentimenti, perché desidero che in tutta la mia vita siano perfettamente uniformi ai sentimenti del tuo. Eccomi, dunque, o Signore, tutta del tuo Cuore, eccomi tutta. O mio Dio, quanto sono grandi le tue misericordie per me!... Adorato Salvatore, accetta la mia consacrazione come riparazione del torto che non ho cessato di farti finora, corrispondendo così male al tuo amore. Riconosco di darti ben poco, ma almeno voglio darti tutto quello che posso e so che Tu desideri, perciò, consacrandoti il mio cuore, te lo dono per non più riaverlo.
 
-« Veramente questo Sacramento contiene te, o mio Dio,
-che gli Angeli 'adorano, al cui cospetto tremano gli Spiriti
-e le Potestà formidabili. Oh, se noi potessimo vederti con
-terso occhio come essi ti vedono, con quanta riverenza ci
-accosteremmo a questo Sacramento, con quanta umiltà l'accoglieremmo dentro di noi! a
-
-O Santissima Trinità, Tu hai ordinato questo Sacramento per stringere a te l'oggetto del tuo amore, ossia per
-attirare a te l'anima della tua creatura e, staccandola da
-
-tutte le cose terrene, congiungerla a te, Dio increato, e così
-farla morire al peccato e darle vita spirituale ed eterna. O
-Santa Trinità, questo sacramento fu istituito dalla tua bontà
-infinita, affinchè noi fossimo uniti a te, e Tu a noi, affinchè nello stesso tempo, ti accogliessimo dentro di noi e
-fossimo da te accolti, ti portassimo in noi e fossimo da te
-portati!» (B. Angela da Foligno).
+«Insegnami, amabilissimo Salvatore, la perfetta dimenticanza di me stessa, perché solo questa è la strada che può farmi entrare nel tuo Cuore adorato; e poiché ormai farò tutto per te, fa' che quanto farò sia degno di te. Insegnami cosa devo fare per giungere alla purezza del tuo amore, ma dammelo questo amore, dammelo ardentissimo e generossimo. Dammi quella profonda umiltà senza la quale nessuno può piacerti, e adempi in me tutti i tuoi santi voleri» (S. Margherita M. Alacoque).

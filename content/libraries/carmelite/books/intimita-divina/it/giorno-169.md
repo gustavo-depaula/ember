@@ -1,125 +1,25 @@
-## 169 — LA PREGHIERA EFFICACE
-*V Domenica dopo Pasqua*
+## XXX — L'Ufficio divino
 
-### Presenza di Dio
-
-O Gesù, fammi comprendere che la mia preghiera è un nulla, se non si appoggia a te; che la mia fede è vana, se non la traduco in opere.
+**Presenza di Dio.** — *O Gesù, degnati di associare la mia povera preghiera alla grande preghiera della Chiesa.*
 
 ### Meditazione
 
-1. — Mediante il Vangelo della Messa — preso anche
-oggi dal discorso dell'ultima Cena — la Chiesa continua
-a prepararci all’Ascensione e alla Pentecoste. «Io sono
-uscito dal Padre e venuto al mondo — dice Gesù —; di
-muovo lascio il mondo e vado al Padre»; ecco l'annuncio
-della sua prossima ascensione al Cielo; giunto ormai al
-termine del suo ministero fra gli uomini, Gesù lo pre
-senta in sintesi come un grande viaggio dal Padre al
-mondo e dal mondo al Padre. Ritorna così il concetto
-di « pellegrinaggio» che ogni cristiano deve applicare alla
+**1** — La liturgia circonda la S. Messa con la recita dell'Ufficio divino che — come insegna la *Mediator Dei* — «è la preghiera del Corpo mistico di Cristo, rivolta a Dio a nome di tutti i cristiani ed a loro beneficio, essendo fatta dai sacerdoti, dagli altri ministri della Chiesa e dai religiosi a questo scopo dalla stessa delegati». La grande dignità dell'Ufficio divino sta appunto in questo: nell'essere non una preghiera privata, ma la preghiera pubblica, ufficiale del Corpo Mistico di Cristo, in cui le membra non pregano da sole, ma pregano insieme a Cristo loro Capo. «Il Verbo di Dio, assumendo la natura umana, ha introdotto nell'esilio terreno l'inno che si canta in cielo per tutta l'eternità. Egli unisce a Sé tutta la Comunità umana nell'Ufficio divino «Gesù prega con noi come nostro Sacerdote; prega in noi come nostro Capo... Riconosciamo dunque — dice S. Agostino — e le nostre voci in Lui, e la sua voce in noi». Che grande dono! Gesù, il Figlio di Dio, associa le nostre povere, misere preghiere, alla sua grande e preziosissima preghiera.
 
-sua Vita fino a considerarla come «una notte passata in
-un cattivo albergo» (T.G. Cam. 40, 9), con il cuore rivolto al radioso domani della vita eterna.
+Benché l'Ufficio divino sia obbligatorio solo per i sacerdoti e per i religiosi incaricati dalla Chiesa, si può dire che è la preghiera di tutto il popolo cristiano, nel senso che viene innalzata a Dio «in suo nome ed a suo beneficio». È quindi assai lodevole che anche i semplici fedeli cerchino in qualche modo di parteciparvi, per esempio con la recita dei Vespri festivi, di Prima e di Compieta. Del resto, in ogni ora del giorno e della notte essi possono offrire a Dio la grande preghiera della Chiesa secondo le proprie intenzioni e per le proprie necessità, supplendo così alle deficienze ed alla brevità delle loro preghiere personali; inoltre, anche in mezzo alle occupazioni quotidiane, possono unirsi, di tanto in tanto, con pie aspirazioni alla «lode perenne» che la Chiesa innalza a Dio in nome di tutta la cristianità.
 
-«Viene l'ora in cui non vi IAS più in parabole,
-ma vi parlerò apertamente del Padre». Ecco l'annunzio
-della Pentecoste: Gesù, per mezzo dello Spirito Santo,
-illuminerà i suoi apostoli, facendo loro intendere in modo
-chiaro i Misteri divini e il Padre non sarà più per essi
-uno sconosciuto. Tutto quello che noi possiamo studiare
-e conoscere delle cose di Dio è lettera morta, finchè lo
-Spirito Santo non ce ne dà l'intelligenza. E' questo un
-motivo di più per comprendere quanto abbiamo bisogno
-di Lui e per desiderare la sua venuta.
+**2** — L'Ufficio divino si compone in massima parte di testi tratti dalla sacra Scrittura e quindi ispirati dallo Spirito Santo; non possiamo perciò trovare preghiere vocali più belle e più atte a lodare la Maestà divina; per mezzo di esse lo Spirito Santo stesso «prega in noi con gemiti inesprimibili» *(Rom.* 8, 26). E d'altra parte, essendo tali preghiere tanto ricche di dottrina e di unzione, giovano molto anche ad alimentare la pietà personale. Tutti questi motivi ci fanno comprendere che: «all'eccelsa dignità di questa preghiera deve corrispondere l'interna devozione dell'anima nostra» *(Med. Dei)*, in modo che, come dice S. Agostino, «la nostra mente concordi con la nostra voce». L'Ufficio divino, essendo la preghiera che la Chiesa innalza a Dio insieme a Gesù suo Capo, ed essendo ispirata dallo Spirito Santo, ha già di per sé un grande valore; ma non ha valore per noi — per alimentare la nostra unione con Dio, per attirare le benedizioni divine — non diventa preghiera *nostra*, se noi non l'accompagniamo con la devozione *nostra*, *personale*. In quanto società dei fedeli, la Chiesa prega col cuore dei suoi figli, prega col *nostro* cuore e, più questo cuore sarà fervoroso e pieno di amore, più la nostra preghiera — preghiera della Chiesa — sarà gradita a Dio.
 
-Ma oltre a ciò, il Vangelo di oggi ci propone un altro argomento, Gesù, che più volte aveva istruito gli apostoli
-sulla preghiera e sul modo di pregare, ora insegna ad essi
-il segreto della preghiera efficace: «Se voi domanderete
-
-dute cosa al Padre mio in nome mio, Egli ve la darà».
-igli se ne va, ma lascia ad essi il mezzo sicuro per trovare
-accesso presso il Padre: presentarsi in nome suo, in nome
-dell'Uomo-Dio ché, essendosi immolato per la gloria del
-Padre e per la nostra salvezza merita di' essere. sempre
-esaudito «pro sua reverentia», a cagione della sua pietà
-
-(Ebr, 5, 7).
-
-2. — Pregare «in nome di Gesù» significa in pratica
-essere convinti che le nostre preghiere, come del resto
-tutte le nostre opere buone, nessuna eccettuata, non valgono niente, se non sì appoggiano ai meriti infiniti di
-Gesù. Significa essere convinti che, per quanto facciamo +
-preghiamo, noi siamo sempre «servi inutili » (Lc. 17, 10),
-che non abbiamo in noi alcuna sufficienza, ma che tutta
-la nostra sufficienza ci viene dal Crocifisso. La pan
-condizione, quindi, della preghiera fatta «in nome Ge
-sù» è l'umiltà, un senso sempre più profondo e realistico
-del nostro nulla. Ma la seconda condizione è una confi-
-
-denza illimitatà nei meriti infiniti di Gesù che oltrepassano tutte le nostre indigenze, miserie, necessità, bisogni.
-Non chiederemo mai troppo in nome suo; non saremo mai
-troppo arditi nell'implorare la pienezza della grazia divina
-sulle anime nostre, nell’aspirare alla santità — nascosta,
-sì, ma autentica — in vista di quanto Egli ha guadagnato
-per noi. Non ci sono infedeltà e colpe, cattive tendenze e
-‘miserie sinceramente «detestate che il Sangue di Gesù non
-lavare, purificare, perdonare; non c'è debolezza che
-
-Egli non possa sanare, fortificare, trasformare. Non c'è
-creatura di buona volontà, per quanto debole e piccola,
-che nel nome di Gesù non possa aspirare alla santità.
-Ma si richiede una terza condizione perchè la nostra
-preghiera sia efficace: che la nostra vita corrisponila alla
-mostra preghiera, che la nostra fedè sia vissuta in opere
-buone. «Siate operatori della parola e non semplici uditori, So voi stessi. Perchè se uno ascolta la parola
-e non la mette in pratica, egli sarà simile a un uomo che
-mira in uno specchio il nativo suo volto e, dopo essersi
-mirato, se ne va e dimentica subito quale egli fosse », questa forte esortazione di S. Giacomo, riportata dall’Epistola
-odierna, è un pressante richiamo alla concretezza della
-vita cristiana. Vana è la preghiera, vana è la fiducia in
-Dio, se non l'accompagnamo con i nostri sforzi generosi
-per adempiere tutti î nostri doveri, per vivere all'altezza
-Ila nostra vocazione. Tutto possiamo e dobbiamo sperare
-
-nel nome di Gesù, ma Egli ci chiede lo sforzo continuo
-per essergli totalmente fedeli
+Pur non avendo l'obbligo della recita dell'Ufficio divino e limitandosi a poche e brevi preghiere estratte dal Breviario, è bene però che ogni anima di vita interiore procuri di cogliere lo spirito della preghiera liturgica e di farlo suo. Spirito di lode e di adorazione che vuole rendere a Dio un culto perenne in unione con Cristo e in nome di tutta la Chiesa, spirito di solidarietà con Cristo e in nome di tutta la Chiesa, spirito di solidarietà con Gesù nostro Capo e con tutti i fedeli nostri fratelli, spirito universale che abbraccia le necessità di tutto il mondo, che prega in nome di tutta la cristianità. Come si allargano allora gli orizzonti e le intenzioni delle nostre preghiere! E pregando non ci sentiamo più soli, ma ci sentiamo piccoli oranti accanto a Gesù, il grande Orante!
 
 ### Colloquio
 
-«Dio onnipotente, Padre del nostro Signore Gesù
-Cristo. Tu che sei benigno, usami misericordia, poichè
-quello che potei trovare di più prezioso, devotamente te
-l'offersi; tutto ciò che mi fu dato di trovare di più caro
-per te, supplichevolmente te lo presentai. Nulla a me è
-rimasto, ch'io non abbia presentato in olocausto alla tua
+«O Signore, le tue orecchie non sono rivolte alla bocca, ma al cuore; non stanno aperte alla lingua, ma alla vita di chi ti loda.
 
-maestà; nulla ormai mi rimane da aggiungere, poichè a
-te inviai la mia speranza, mandai il mio avvocato, ossia il
-tuo diletto Figlio. Mandai la tua gloriosa progenie, quale
-mediatore fra te e me; mandai quell’intercessore, «uale
-confido di ottenere il perdono. Mandai quel Verl te
-inviato per riparare le mie colpe, ed a te esposi la Passione
-che per me sostenne il tuo santissimo Figlio. Questa è la
-Vittima santa, che ti offro per placarti, e per averti propizio. Grande, in verità, è la mia ingiustizia; ma assai
-maggiore è la giustizia del mio Salvatore. Quanto è Dio
-superiore all'uomo, altrettanto la mia malizia è inferiore
-alla sua bontà e per qualità, e per quantità.
+«Io canto con la voce per svegliare in me la pietà; canto col cuore per piacere a te... Non ti lodi soltanto la mia voce, ma ti lodino anche le mie opere. Fa' ch'io non smetta di vivere bene, per poterti lodare senza interruzione. Se qualche volta la mia lingua deve tacere, gridi la mia vita; le tue orecchie saranno rivolte alla mia voce, ma Tu le tendi al mio cuore...
 
-«Qual colpa può avere commesso l'uomo, che non sia
-stata espiata dal Figlio di Dio fatto uomo? Quale superbia
-si gonfiò così smisuratamente, da non poter essere atterrata
-da tanta umiltà? In verità, o mio Dio, se pi una Dino
-si pesassero i delitti dell'uomo peccatore e la grazia
-DI ReIIIE) si troverebbe che la differenza è non soltanto come la distanza dall’oriente all'occidente, ma come
+«Non mi voglio fermare soltanto alla voce; quando ti lodo, voglio lodarti con tutto me stesso; canti la voce, canti la vita, cantino le azioni. E se quaggiù ho ancora da gemere, da tribolare, da essere tentato, spero che tutto passerà e arriverà il giorno in cui la mia lode non verrà mai meno. Mi venga meno la voce, ma non l'affetto.
 
-puella che separa l'inferno dalla sommità dei cieli. Ottimo
-reatore della luce, deh, perdonami le mie colpe, per
-gl'immensi travagli del tuo diletto Figlio! Fa', o Signore,
-che la sua pietà vinca la mia empietà; la sua modestia
-soddisfaccia per la mia perversità; dalla sua mansuetudine,
-sia domata la mia irascibilità. La sua umiltà ripari la mia
-superbia; la sua pazienza la mia impazienza; la sua beninità la mia durezza; la sua obbedienza la mia disobbedienza;
-È sua tranquillità, la mia inquietudine; la sua dolcezza
-la mia amarezza; la sua carità cancelli la mia crudeltà »
+«È meglio per me consumare le forze a lodare te, che pigliar lena a lodare me. Ma non è possibile venir meno lodando te. Lodar te è come prendere cibo: quanto più ti lodo, tanto più piglio vigore; perché tanto più mi comunichi di tua dolcezza Tu, che sei l'oggetto delle mie lodi.
 
-(S. Agostino).
+«Aiutami, dunque, a lodarti e con la voce e con la mente e con il buon operare, sicché, come mi esorti nelle tue Scritture, ti possa cantare il cantico nuovo. All'uomo vecchio canto vecchio; all'uomo nuovo canto nuovo. Se io amo le cose terrene, il mio canto è vecchio; per cantare il canto nuovo, debbo amare le cose eterne. L'amor tuo è di per sé nuovo ed eterno; è sempre nuovo, appunto perché non invecchia mai. Il peccato è quello che mi ha fatto invecchiare; rinnovellami Tu con la tua grazia» (S. Agostino).

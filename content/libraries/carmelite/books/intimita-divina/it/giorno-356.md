@@ -1,86 +1,29 @@
-## 356 — IL SI PERFETTO
+## 34 — DISEGNI DI PACE E DI AMORE
 
-### Presenza di Dio
+*XXIII Domenica dopo Pentecoste*
 
-Signore, fa' che io possa darti il consenso libero e pieno della mia volontà.
+**Presenza di Dio.** — *O Signore, compi in me i tuoi disegni di pace e di amore, facendomi risorgere ad una vita pienamente fervorosa.*
 
 ### Meditazione
 
-Giovanni della Croce dice molto bene che la
-caratteristica dell'unione di volontà è «il sì del suo consenso » che l'anima dà interamente a Dio (F. 3,24), consegnando a lui tutta se stessa nel dono pieno e totale della volontà. In altre parole l'anima è ormai così decisa 3
-non voler altro:che Dio e il suo divino beneplacito, che
-in ogni circostanza non fa che ripetere il suo sì accettando amorosamente tutto quello che Egli vuole e fa per lei.
-È un sì effettivo e non solo di desiderio, un sì per cui
-l'anima si dona veramente e con tutta la generosità di cui
-è capace.
+**1** — Malgrado gli alti ideali, malgrado il desiderio di santità, ci ritroviamo sempre pieni di miserie, sempre in debito con Dio e, giustamente, avvicinandoci a lui, l'anima nostra trepida: come ci accoglierà? non ci respingerà da sé? Ma la risposta è così diversa da quella che meriteremmo: «Le mie intenzioni sopra di voi, dice il Si-gnore, sono intenzioni di pace e non di afflizione. Voi m'invocherete ed io vi esaudirò. Vi ricondurrò dal luogo della vostra schiavitù ». Queste consolanti parole, che leggiamo oggi nell'Introito della Messa, spalancano il nostro cuore alle più dolci speranze: malgrado tutto, Dio ci ama. Dio ci è sempre Padre e vuole liberarci dalla schiavitù delle nostre passioni, delle nostre debolezze. Spontanea allora sale alle labbra l'umile invocazione della Colletta: «O Signore, la tua benignità ci liberi dalle catene del peccato che per la nostra fragilità abbiamo contratto ». L'umiltà, il riconoscimento sincero dei propri torti è sempre il punto di partenza per la conversione.
 
-in dal principio della vita spirituale l'anima fervorosa deve desiderare di darsi a Dio senza riserve e di dirgli sempre di sì, ma in pratica, essendo ancora inceppata
-dai lacci delle passioni e dagli attacchi alle creature, molto spesso il suo dono è incompleto, dimezzato; molto
-s ,, nei casi concreti della vita, di fronte all'asprezza
-lella rinuncia e della lotta, il suo sì ideale si cambia in
-un 0 pratico. Ma non è così nello stato di unione in cui
+Della conversione ci parla S. Paolo nell'Epistola *(Fil.* 3, 17-21; 4, 1-3): «Molte volte vi dicevo, e anche piangendo ve lo dico, molti procedono da nemici della croce di Cristo... e non hanno altro pensiero che alle cose terrene ». Praticamente, tutte le volte che sfuggiamo il sacrificio, che protestiamo di fronte al dolore, che andiamo in cerca di soddisfazioni egoistiche, ci comportiamo da nemici della croce di Gesù e così la nostra vita diventa troppo terrestre, troppo legata alle creature, troppo pesante per tendere al cielo. Dobbiamo convertirci, dobbiamo svinco-larci, dobbiamo ricordare che «la nostra cittadinanza è nei cieli », e perciò è necessario abbracciare di buon volere le fatiche del viaggio di ritorno alla patria beata. Per incoraggiarci S. Paolo ci mette davanti gli splendori della vita eterna: «Gesù Cristo trasformerà il corpo della nostra miseria sì che sia conforme al corpo della sua gloria ». Ecco «le intenzioni di pace », ecco i grandi disegni di amore che il Padre celeste ha sopra di noi: liberarci dalla schiavitù del peccato e conformarci al Figlio suo fino a renderci partecipi della sua gloriosa risurrezione. Intenzioni meravigliose, ma che non si realizzeranno se noi non le asseconderemo. «Per conseguenza, o fratelli miei cari e desideratissimi, allegrezza e corona mia — supplica l'Apostolo — rimanete così fermi nel Signore ». Fermi, ossia stabili nella conversione, fermi nell'umiltà, nella fiducia, nell'amore alla croce.
 
-l'anima è talmente 'arresa alla' santa volontà di Dio, da
-non venir meno al suo dono; il suo sì è ralmente definitivo ed efficace da offrirla e unirla a Dio come spasa allo
-sposo; proprio per tale motivo i mistici chiamano questo
-stato «sposalizio spirituale ». ù
-Importa molto sapere che da parte dell'anima, l'intensità della sua unione con Dio dipende dalla perfezione del
-suo sì. Deve essere un sì perfetto in larghezza ed in profondità; in larghezza, perchè deve estendersi non solo a
-nello che Dio comanda, ma anche a tutto ciò che Egli
-"design a tutto ciò che gli fa maggiormente piacere:
-l'amore deve rendere l'anima così desta e attenta da saper
-discernere nelle varie circostanze ciò che piace di più a
-Dio e deve renderla così generosa da eseguirlo senza esitare. Deve essere un sì perfetto in profondità, perchè l'anima deve aderire al divino beneplacito non con negligenza, con grettezza 0 un po' di malavoglia, ma con tutto
-lo slancio della volontà, felice di potersi dare a Dio nonostante i sacrifici che può incontrare.
+**2** — Il Vangelo odierno *(Mt.* 9, 18-26) è un saggio vivente di quella trasformazione che Dio vuol compiere in noi, è un esempio del modo con cui Egli attua le sue intenzioni di pace in coloro che vanno a lui con cuore umile e fiducioso. Anzitutto l'emorroissa: il suo male è tenace, da dodici anni resiste a qualsiasi rimedio; la povera donna, umiliata e vergognosa, non osa, come gli altri malati, presentarsi direttamente a Gesù, d'altra parte la sua fede è così grande per cui pensa: «Se mi riesco a toccare anche solo la sua veste, sarò guarita »; gli si avvicina furtivamente e sfiora il lembo dell'abito. Gesù avverte quel tocco leggero e, voltandosi dice: «Sta' di buon animo, o figlia, la tua fede ti ha guarita ». Nessuna domanda, nessuna supplica esterna, ma ciò che commuove il Signore è la preghiera di quel cuore umile, confidente, pieno di fede.
 
-soprattutto nella direzione indicataci da Gesù mediante il
-rande precetto della carità, che è il fondamento non'sofo di tutta la legge, ma anche di ogni santità. S. Teresa
-d'Avila dice espressamente: «Per noi la volontà di Dio
-non consiste che in due cose: nell'amore di Dio e nell'amore del prossimo. Qui devono convergere tutti i nostri sforzi; c sc lo faremo con perfezione, adempiremo la
-volontà di Dio e gli saremo unite » (M. V, 3, 7). Ma l'attenzione della Santa si rivolge in modo diretto alla carità
-verso il prossimo, perchè vede in essa il segno più sicuro
-dell'amore di Dio ed anche perchè sa che questo è un
-punto molto vulnerabile. Non è raro, infatti, che dopo
-aver detto di sì al Signore di fronte a sacrifici, a rinunce,
-a fatiche non indifferenti, ci sì lasci sfuggire qualche 0
-néi riguardi della carità fraterna. Parlando di certi difetti
-che s'insinuano nell'anima molto nascostamente e le impediscono di giungere all'unione, S. Teresadi Gesù, oltre all'amor proprio e alla propria stima, segnala «i più piccoli
-giudizi temerari e certe mancanze di carità verso il prossimo che non si ama come se stessi » (ivi, 6). Finchè riscontriamo in noi mancanze di questo genere, benchè lievi, vuol dire che il nostro dono a Dio non è completo,
-che il nostro sì non è perfetto. Dio vuole che amiamo il
-rossimo, qualsiasi prossimo, e che lo amiamo con perezione: «Ecco il mio comandamento: — ha detto Gesù — amatevi scambievolmente, come io ho amato voi»
-(Gv. 15, 32). Come, dunque, potremo essere uniti alla volontà di Dio se non adempiremo con gran diligenza questo comandamento?
+Come Gesù ha sanato l'emorroissa, così vuole sanare le anime nostre, ma attende disposizioni simili a quelle di lei. Noi ci accontentiamo troppo di preghiere a fior di labbra mentre il cuore è freddo e assente; Gesù, invece, guarda il cuore e vuole la preghiera del cuore: grido di umiltà, di confidenza, grido che va dritto a colpire il suo Cuore divino. Del resto, quando siamo più fortunati noi che l'emorroissa! Lei riuscì una sola volta a toccare il lembo della veste di Gesù, mentre l'anima nostra ogni giorno, mediante la S. Comunione, viene in contatto col suo Corpo e col suo Sangue. Oh, se avessimo tanta fede quanto un granello di senapa!
 
-« Vi assicuro — riprende Teresa di Gesù — che facendo come ho detto [ossia praticando perfettamente la
-carità fraterna], non mancherete di ottenere questa unione, mentre in caso contrario vi dovrete persuadere di non
-arrivarvi mai, nonostante che possiate aver devozione e
-delizie spirituali sino a credere d'esservi giunte». E conclude con questa bella assicurazione: «È sì grande l'amore del Signore per noi che in ricompensa di quello che
-noi avremo per il prossimo, farà crescere in noi, per via
-di mille espedienti, anche quello che nutriamo per lui. E
-di ciò non v'è dubbio » (M. V, 3,12 0.8).
+Segue il secondo miracolo. La figlia di Giairo, non è malata, è morta; ma per Gesù non è più difficile risuscitare un morto che sanare un malato. Egli, da vero Signore della vita e della morte, «prese per mano la fanciulla e questa si alzò ». Gesù è la nostra risurrezione, non solo per la vita eterna, quando ad un suo cenno il nostro cor-po risorgerà glorioso e si ricongiungerà all'anima, ma è la nostra risurrezione anche in questa vita: risurrezione dalla morte del peccato alla vita della grazia, risurrezione da una vita tiepida ad una vita fervorosa, da una vita fervorosa ad una vita santa.
+
+Con l'umiltà e la fiducia dell'emorroissa accostiamoci a Gesù e preghiamolo di cuore di compiere in noi i suoi disegni di amore, strappandoci dalla grigia mediocrità di una vita spirituale, ancora inceppata dai lacci dell'egoismo, per slanciarci decisamente verso la santità.
 
 ### Colloquio
 
-«O Bene infinito, voglio offrirti e consacrarti tutto
-me stesso senza posa sull'altare del cuor mio. E cominciando dall'anima mia, sposa tua, ricomprata col preziosissimo Sangue tuo, te l'offro affinchè sia luogo di riposo
-della Maesi tua e si trasformi in te, non rimanendo più
-oltre viva per sè, ma viva solo con la vita tua.
+«O Signore, come ricompensiamo male la tua amicizia, quando torniamo così presto ad essere tuoi mortali nemici! Ah, ch'è veramente grande la tua misericordia! Si può forse trovare un amico più paziente di te? Se anche una volta sola ciò dovesse avvenire fra due amici, non ne perderebbero il ricordo tanto facilmente, né più così stretta come prima rimarrebbe certo la loro amicizia. Invece, quante volte noi manchiamo verso di te! Eppure da quanti anni Tu continui ad aspettarci! Sii benedetto, o mio Signore e mio Dio, che ci sopporti con tanta compassione da far credere che dimentichi la tua grandezza per non castigare un così nero tradimento come si merita! » *(T.G.P.* 2, 19).
 
-« Offro a te il mio intelletto desideroso di sapere, 0
-Sapienza divinissima che sola puoi saziare la sete d'intendere le grandezze tue! Illumina le mie tenebre e dammi
+«O Gesù, Tu sei la mia pace, perché per mezzo tuo io ho accesso al Padre, perché è piaciuto al Padre di pacificare col Sangue della tua Croce tutto ciò che esiste sia in terra che in cielo.
 
-di gustarti in una cognizione soavissima che infiammi il
-mio cuore d'amore. X i
-«Offro poi a te, bellissimo Sposo dell nima mia, questa volontà che principalmente Tu ricerchi, affinchè ti
-ami con ardori sempiterni e si unisca teco senza fine. Volessi Tu, o Signore, che la mia volontà si distaccasse da
-tutte le creature e scuotesse fortemente le ali elevandosi
-a te e poi, col sonno del puro amore, si riposasse nella
-caverna del tuo Cuore, O caverna deliziosissima, quando
-mi nasconderò in te e ascolterò i movimenti del Cuore
-che opera la vita e la salute mia?
-«Ma perchè, Dio mio, ti offro l'anima mia e le sue
-potenze, quando io sono tutto tuo fin dalla creazione e,
-iù ancora, dalla Redenzione? Forse, o Vita amabilissima,
-è interesse tuo questo dono e questa offerta che cerco di
-fare alla Maestà e grandezza tua? No, certamente, non è
-interesse tuo, ma mio, l'essere io tutto offerto e donato a
-te, 0 Vita immortale, poichè so di certo che la mia felicità
+«Ecco la tua opera in ogni anima di buona volontà; ecco il lavoro che il tuo immenso amore, il tuo eccessivo amore, ti spinge a compiere in me. Tu vuoi essere la mia pace. Col Sangue della tua Croce pacificherai tutto nel piccolo ciclo dell'anima mia. Mi riempirai di te, mi sepellirài in te, mi farai rivivere con te la tua stessa vita.
+
+«O Gesù, se cado ad ogni istante, mi farò rialzare da te con una fede tutta fiduciosa. E so che mi perdonerai, che cancellerai tutto con cura gelosa; ancora di più: mi spoglierai, mi libererai da ogni mia miseria, da tutto quanto ostacola l'azione divina, avvincerai tutte le mie potenze che farai tue prigioniere. Allora sarò passata tutta in te. Allora potrò dire: "Non vivo più io, il mio Maestro vive in me" » *(E.T.* II. 12).

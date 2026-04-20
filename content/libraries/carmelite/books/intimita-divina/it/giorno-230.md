@@ -1,95 +1,21 @@
-## 230 — FRUTTI DI VITA
-*VII Domenica dopo Pentecoste*
+## XXX — L'ESSENZA DIVINA
 
-### Presenza di Dio
-
-Aiutami, o Signore, a non accontentarmi di parole, ma a produrre frutti di santità.
+**Presenza di Dio.** — *Dio mio, purifica ed illumina il mio sguardo perché possa contemplarti.*
 
 ### Meditazione
 
-1. — Oggi l'Epistola e il Vangelo ci parlano dei veri
-frutti della vita cristiana e c'invitano a controllare quali frutti abbiamo finora portati. Quando « eravate schiavi del peccato » — dice S. Paolo — portavate frutti di morte, e ma n
-affrancati dal peccato e fatti schiavi di Dio, ne avete il frutto nella vostra santilicazione ». La nostra santificazione deve
-essere il frutto della nostra vita cristiana ed ecco il punto
-su cui esaminarci: quali progressi facciamo nella virtù? Quale è la fedeltà ai nostri propositi? Ogni cristiano può considerarsi come un albero della vigna del Signore: Gesù stess»,
-divino Giardiniere, l'ha piantato in terra buona, fertile, fe
-conda, la terra del giardino della Chiesa, irrigata dall'acqua
-viva della grazia, l'ha circondato delle cure più tre
-potandone i rami inutili per mezzo delle prove, guarendone
-i mali mediante la sua Passione e Morte, innafiandone le
-radici col suo Sangue preziosissimo. Talmente l'ha curato che
-può dire: « Che cosa avrei dovuto fare ancora alla mia vigna e non gliel'abbia fatta?» (Is. 5, 4). Ma, dopo tante cure,
-un giorno Gesù passa per vedere quali frutti porti quest'albero e dai suoi frutti lo giudicherà, perchè non può un albero buono produrre frutti cattivi, nè un albero cattivo dar
-frutti buoni» (Vg.). Se, prima della Redenzione, l'umanità
-era simile ad un albero selvatico capace solo di portare frutti
-di morte, con la Redenzione è stata innestata in Cristo e Cristo, che ci nutre con la sua stessa linfa, ha tutti i diritti di
-trovare in noi frutti di santità, di vita eterna. Non bastano,
-non bastano le parole ed i sospiri, non basta neppure la fede, chè
-la « fede, se non ha le opere. è morta » (Giac. 2, 17), occorrono i fatti, occorre la pratica della volontà di Dio, perchè
-«non chiunque mi dice: "Signore! Signore!" entrerà nel
+**1** — Alla domanda: chi è Dio? il catechismo risponde: «Dio è l'Essere perfettissimo, creatore e signore del cielo e della terra». Anzitutto, è detto che Dio è l'*Essere*; questa è la sua prima perfezione che lo distingue radicalmente dalle creature. «Io sono Colui che è», ha detto Dio stesso a Mosè, ed ha aggiunto: «Questo è il mio nome in eterno, e con questo sarò ricordato di generazione in generazione» *(Es.* 3, 14 e 15). Questo nome che Dio stesso ha voluto darsi per esprimere la sua intima essenza, ci dice che Egli è l'Essere per eccellenza, l'Essere eternamente sussistente, che mai ha avuto principio e mai avrà fine e che sussiste in se stesso, che trova in se stesso la causa del suo essere. «Dio — afferma S. Giovanni Damasceno — possiede l'essere medesimo come una specie di oceano di sostanza infinito e senza rive». Sotto questo aspetto Dio si rivelava a S. Caterina da Siena dicendole: «Io sono Colui che è e tu colei che non è». Tutti gli esseri creati sono un nulla: «O Signore, la mia vita è come un niente in tuo confronto — canta il salmista — Io come erba mi dissecco. Tu, invece, duri in eterno» (38, 6; 101, 12 e 13). La creatura ha in Dio la causa del suo essere, mentre Dio l'ha in se stesso; la creatura esiste solo in quanto Dio la mantiene nell'esistenza, Dio, invece, sussiste per virtù propria, poiché possiede l'essere per sua natura, senza averlo ricevuto da nessuno. La creatura è sempre un essere limitato da tutti i punti di vista: come vitalità, come forza, come capacità; Dio, invece, è l'Essere che ha ogni potenza ed ogni virtù; la creatura porta in sé i germi della morte, della distruzione; in Dio, invece, tutto è vita; Egli è la vita: «Io sono la vita» ha detto Gesù *(Gv.* 14, 6).
 
-regno dei cieli, ma chi fa la volontà del Padre mio che è nei
+Solo Dio, Essere infinito, Vita eterna, poteva comunicarti la vita, poteva darti l'essere. Ti sembra, dunque, troppo impiegare tutta la tua vita e tutto il tuo essere per il suo servizio, per la sua gloria? Se vivi per Iddio, vivi per la Vita; se vivi per te vivi per il nulla, per la morte.
 
-cieli» (Vg.).
+**2** — Dio è l'Essere infinito, perfettissimo, che possiede ogni perfezione senza difetti e senza limiti. Dio è l'Essere infinitamente buono, bello, sapiente, giusto, misericordioso, onnipotente. Tutte queste perfezioni non sono in lui qualità accidentali — come sono le qualità dell'uomo il quale può essere più o meno bello, più o meno buono e sapiente, ecc., senza cessare di essere uomo — ma sono perfezioni essenziali, ossia appartengono alla natura stessa dell'Essere divino, anzi, sono una sola cosa con esso. Per parlare delle perfezioni di Dio noi siamo costretti ad enumerarle una dopo l'altra, ma in realtà sono un tutt'uno: la bontà s'identifica con la bellezza; la bontà e la bellezza con la sapienza e queste con la giustizia; la giustizia con la misericordia, e così via. In Dio non vi è molteplici, ma un'unità assoluta; noi abbiamo bisogno di molte parole per parlare di Dio, ma Dio non è molte cose, è l'Essere *Uno* per eccellenza: uno nella Trinità delle sue Persone, uno nella miriade delle sue perfezioni, uno nella varietà delle sue opere, uno nel suo pensiero, nel suo volere, nel suo amore.
 
-cit
-
-2. — Nel Vangelo odierno Gesù ferma la nostra attenzione sui «falsi profeti» che si presentano «travestiti da
-pecore, mentre dentro son lupi rapaci >. Molti ci tengono a
-farla da maestri di morale o di spirito, ma sono falsi maestri
-
-perchè le loro opere non corrispondono alle loro parole; è
-'acile, infatti, Inv bene, ma non è facile vivere bene. Tal
-volta le dottrine proposte sono false in se stesse, anche se
-a prima vista non lo sembrino Lone si rivestono di certi
-aspetti della verità; è falsa quella dottrina che in nome di
-un principio evangelico ne offende altri, che, ad esempio,
-in nome della compassione verso i singoli nuoce al bene comune, che in nome della carità offende la giustizia o dimentica l'obbedienza ai legittimi superiori, E' falsa quella dottrina che è causa di rilassamento, che turba la Ds e l'unione,
-che, sotto pretesto di un bene migliore, divide i sudditi dai
-superiori, che non si piega ai richiami dell'autorità. Gesù ci
-vuole « semplici come le colombe», alieni dalla critica e dal
-
-giudizio severo verso il prossimo, ma ci vuole anche « prudenti come i serpenti » (Mt. 10, 16), affinchè non ci lasciamo
-ingannare da false apparenze di bene che nascondono perniciose insidie.
-
-Del resto, essere maestri non è da tutti, nè è richiesto a
-tutti; a tutti, invece, — dotti ed ignoranti, maestri e discepoli — il Signore chiede la pratica concreta della vita cristiana. Che ci varrebbe lere una dottrina profonda ed
-elevata se poi non vivessimo secondo questa dottrina? Prima,
-dunque, di voler essere maestri agli altri cerchiamo di esserlo a noi stessi, impegnandoci a vivere integralmente gli insegnamenti del Vangelo, imitando Gesù che cominciò a fare
-e poi ad insegnare (cfr. At. 1, 1). Il frutto genuino che deve
-comprovare la bontà della nostra dottrina e della nostra vita
-è sempre quello indicatoci da Gesù: l'adempimento della sua
-volontà. Adempimento che significa adesione piena alle leggi
-divine ed ecclesiastiche, obbedienza leale ai legittimi superiori, fedeltà ai propri doveri e tutto ciò in ogni circostanza,
-anche quando esige da noi la rinuncia delle nostre vedute
-personali, della nostra volontà.
+Anche tu, creato ad immagine e somiglianza di Dio, devi tendere all'unità. La tua vita spirituale è debole perché manca di unità. Esamina il tuo cuore e vedi quanta molteplicità di affetti e di preoccupazioni lo invadono: sì, ami Dio, ma insieme con lui ami ancora il tuo amor proprio, il tuo comodo, il tuo interesse; ami Dio, ma insieme con lui ami anche qualche creatura con affetto disordinato, ossia, in un modo, in una misura che a Dio non piace; sei attaccato a quelle persone, a quelle cose — oggetti, denaro, occupazioni — che ti danno soddisfazione... e tutti questi affetti, questi attacchi ti premono, ti spingono in mille direzioni contrarie, disperdendo così le tue forze e impedendoti di conseguire l'unica cosa necessaria: «amare Dio e servire lui solo» *(Imit.* I, 1, 3). Quanto più in te manca l'unità profonda: unità di affetti, di desideri, di intenzioni, tanto più sei debole e la tua vita interiore è in pericolo perché, come Gesù ha detto: «Ogni regno diviso in se stesso si distrugge» *(Lc.* 11, 17). Guarda, dunque, Dio, Unità somma, e supplicalo di aiutarti a fare in te l'unità.
 
 ### Colloquio
 
-«O Dio eterno, nel tempo che l'uomo era albero di morte, Tu lo rifacesti albero di vita innestando te in lui! E, tuttavia, molti uomini per i loro difetti non producono altro
-che frutti di morte, perchè non innestano se stessi in te, vita
-eterna. Molti stanno nella morte dei loro peccati e non venono alla fonte dove sta il Sangue di Cristo per innaffiare
-'albero loro... e così si vede che T'u creasti noi senza di noi,
-ma non ci vuoi salvare senza di noi.
+«O Dio eterno, mi rallegro che Tu solo sia colui che è e che nulla possa essere se non da te. Illumina, ti supplico, gli occhi dell'anima mia perché conoscano l'essere che Tu hai per tua essenza, e il non essere che io ho per mia natura, affinché su queste due verità, come su due poli fermi ed immutabili, si muova la ruota della mia vita. O eterno Iddio, che hai voluto chiamarti *Colui che è*, mi rallegro dell'eminenza di questo nome, così tuo che non è possibile che convenga ad altri fuorché a te. O nome venerabile, o nome ineffabile, celato ad Abramo, ad Isacco, a Giacobbe e manifestato a Mosè in segno di amore! Rivelami, Dio mio, le ricchezze inestimabili di questo nome, affinché ti riverisca, ti adori, ti ami e serva come Tu meriti. O anima mia, se Dio solo è *Colui che è*, abbracciando tutta la perfezione dell'Essere, perché non ti unisci a lui, affinché l'essere tuo abbia col suo nobiltà e fermezza? Perché ti diffonde nelle creature, vuote di sostanza, vuote di *essere*, giacché non ti possono dare quel che desideri, non avendolo neppure per loro? Da oggi in poi, Dio mio, terrò tutte le cose per spazzatura, per perdita e detrimento, per nulla e vanità, al fine di unirmi con te per amarti e servirti per tutta l'eternità» (Ven. L. Da Ponte).
 
-«Ma quanta dignità, o Dio, riceve l'anima innestata in
-te e quali ottimi frutti produce! E donde trae quest'albero
+«O Signore, i miei giorni sono simili ad un'ombra ed io come erba mi dissecco. Tu, invece, duri in eterno ed il tuo Nome va di età in età... Mio Dio, Tu fondasti la terra, ed opera delle tue mani sono i cieli. Eppure essi van deperendo e Tu rimani; essi si logorano come un panno, Tu li muti come un vestito ed essi cambiano; ma Tu resti ed i tuoi anni non avranno fine... Tutte le creature hanno da te la vita, ma se Tu nascondi loro il tuo volto, vengono meno; appena ritiri da loro il tuo spirito, periscono e ritornano nella polvere loro. Tu, invece, resti in eterno.
 
-uesti frutti di vita, mentre per sè è sterile e morto? Li trae
-da te, o Cristo, chè se Tu non ti fossi innestato in esso, nessun frutto potrebbe produrre per sua virtù, perchè è il nulla.
-
-«O verità eterna, amore inestimabile, come Tu, o Cristo,
-producesti per noi frutti di fuoco, d'amore, di luce, di obbedienza pronta, per la quale obbedienza corresti come innamorato all'obbrobriosa morte della croce e ci desti questi frutti mediante l'innesto della tua Divinità nell'umanità nostra,
-
-
-così l'anima innestata in te a nessun'altra cosa attende se non
-all'onore tuo e alla salute delle anime: ella diventa fedele,
-prudente, paziente. Vergognati, anima mia, che per i tuoi
-difetti ti privi di tanto bene! Il mio bene non porta utilità
-a te, o Dio, nè il mio male ti nuoce; ma Tu ti fai
-la tua creatura produca frutti di vita, affinchè ne riceva frutto infinito e pervenga al fine per il quale tutti ci hai creati.
-
-«O Dio, la tua alta ed eterna volontà non vuole altro che
-la nostra santificazione, perciò l'anima che desidera santicarsi si spoglia della volontà sua e si riveste della tua. O dolcissimo, a questo mi pare che sia verissimo segno di cocoloro che sono innestati in te: che seguano la tua volontà a
-modo tuo e non a modo loro, che siano vestiti della tua vo
-lontà» (cfr. S. Caterina da Siena).
+«Ti voglio esaltare, o divino mio Re, e benedire il tuo Nome in eterno e sempre! Giacché grande sei, o Signore, e sommamente degno di lode, e della tua grandezza non si giunge mai al fondo» (cfr. *Sal.* 101, 103, 144).

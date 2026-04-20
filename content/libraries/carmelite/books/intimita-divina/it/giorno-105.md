@@ -1,139 +1,33 @@
-## 105 — IL NOSTRO POSTO
+## 29 — LA TRASFIGURAZIONE
 
-### Presenza di Dio
+*II domenica di Quaresima*
 
-— O mio Dio, che io conosca te, che io conosca me! Conosca che Tu sei Colui che è, ed io colui che non è.
+**Presenza di Dio.** — *O Gesù, che la tua grazia trionfi in me fino a rendermi degno di partecipare alla tua gloriosa Trasfigurazione.*
 
 ### Meditazione
 
-1 — Fra tutte le creature di cui amiamo compiacerci
-e verso le quali la nostra natura si sente molto portata, il
-nostro io tiene senza dubbio il primo posto. Non vi è persona, anche poco dotata di doni e di qualità, che non ami
-la propria eccellenza e non cerchi in qualche modo di
-farla risplendere agli occhi propri e a quelli altrui. Anzi
-a tale scopo noi siamo spesso portati spontaneamente ad
-esagerare il nostro valore e, in conseguenza, a mostrare
-esigenze e pretensioni che ci rendono alteri, arroganti ed
-anche difficili nei nostri rapporti con gli altri. L'umiltà è
-FORIO la virtù che mantiene nei giusti limiti l’amore
-della propria eccellenza; e mentre questo ci spinge a metterci troppo in alto, ossia ad occupare Sii aa più elevato
-di quello che ci spetta, l'umiltà è la virtù che ci fa stare
-al nostro posto. L'umiltà è verità, perchè tende a mettere
-nella verità la nostra intelligenza, facendoci riconoscere
-quel che in realtà siamo, e la nostra vita, inclinandoci a
-prendere, di fronte a Dio e di fronte agli uomini, quel
-posto che ci spetta e non altro,
+**1** — L'Anima di Gesù, unita personalmente al Verbo, godeva della visione beatifica, il cui effetto connaturale è la glorificazione del corpo. Ma tale effetto fu impedito da Gesù che, durante gli anni della sua vita terrena, volle il più possibile assimilarsi a noi, rivestendosi di « una carne simile a quella del peccato » (Rom. 8, 3). Tuttavia, per confermare nella fede gli Apostoli rimasti scossi dall'annuncio della sua Passione, Gesù, sul monte Tabor, lasciò che per brevi istanti alcuni raggi della sua anima beata ridondassero nel suo corpo e allora Pietro, Giacomo e Giovanni lo videro trasfigurato: « il suo viso risplendeva come il sole e le sue vesti erano candide come la neve ». I tre ne rimasero estasiati, eppure Gesù non aveva mostrato loro che un raggio della sua gloria, giacché nessuna creatura umana ne avrebbe potuto sopportare la visione completa.
 
+La gloria è il frutto della grazia; la grazia che Gesù possiede in misura infinita, ridonda in una gloria infinita che tutto lo trasfigura. Qualche cosa di simile avviene anche a noi: la grazia ci trasforma, ci trasfigura « di gloria in gloria » (2 Cor. 3, 18), finché un giorno, in cielo, c'introdurrà nella visione beatifica di Dio. E mentre la grazia trasfigura, il peccato, con la sua opacità, sfigura coloro che ne sono vittime.
 
-31 - IL NOSTRO POSTO IM
+Il Vangelo odierno (Mt. 17, 1-9) mostra l'intimo rapporto fra la Trasfigurazione e la Passione di Gesù. Mosè ed Elia, apparsi sul Tabor, accanto al Salvatore, parlavano con lui e, come specifica S. Luca, parlavano proprio della sua prossima Passione, « della dipartita che gli stava per compiere in Gerusalemme » (Lc. 9, 31).
 
+Il divin Maestro vuol così insegnare ai suoi discepoli che è impossibile per lui e per loro giungere alla gloria della Trasfigurazione, senza passare attraverso la sofferenza; è la lezione che darà più tardi ai due discepoli di Emmaus: « Non doveva forse il Cristo patire tali cose e così entrare nella sua gloria? » (Lc. 24, 26). Ciò che il peccato ha sfigurato non può ritornare alla primiera bellezza soprannaturale, se non per mezzo della sofferenza purificatrice.
 
-L’umiltà ti fa riconoscere che di fronte a Dio non sei
-che una piccola creatura sua, in tutto da lui dipendente
-e nella tua esistenza e nel tuo operare. Avendo ricevuto
-da Dio la vita, tu non puoi esistere neppure un istante
-indipendentemente da lui, ma è lui che, come ti ha creato
-con la sua azione creatrice, così ti mantiene in vita con la
-sua azione conservatrice. Non solo, ma non puoi compiere
-il più piccolo atto senza il concorso di Dio, un po’ come
-qualsiasi macchina, anche la più perfetta, non può fare il
-più piccolo movimento, se non è messa in azione dall’artista che l’ha fabbricata. È ben vero che, a differenza
-della macchina, il tuo agire non è nè meccanico, nè obbligato, ma è cosciente e libero, comunque non puoi nep-
-pure muovere un dito, senza il concorso dell’Artista divino.
+**2** — Pietro, estasiato dalla visione del Tabor, col suo solito ardore esclama: « È bene per noi lo star qui » e si offre a preparare tre tende: per Gesù, per Mosè e per Elia. Ma la sua proposta è interrotta da una voce dall'alto: « Questi è il mio Figliolo diletto, nel quale ho riposto la mia compiacenza: ascoltatelo! » e la visione scompare.
 
-In conseguenza, tutto ciò che hai nell'ordine dell’essere — qualità, doti, capacità ecc. — e tutto ciò che hai
-conseguito nell'ordine dell’agire, nulla è tuo, ma tutto, in
-un modo o nell'altro, è dono di Dio, è azione compiuta
-con l’aiuto divino. « Che cosa hai che tu non abbia ricevuto? e se l'hai ricevuto, perchè ti glori come non
-l’avessi ricevuto? » (7 Cor. 4,7).
+Le consolazioni spirituali non sono mai fine a se stesse e noi non dobbiamo né desiderarle, né cercare di trattenerle per nostro godimento. La gioia, anche quella spirituale, non deve mai essere cercata per se stessa; come in cielo la gioia sarà la necessaria conseguenza del possesso di Dio, così su questa terra deve essere unicamente un mezzo per darci con maggior generosità al servizio di Dio. A Pietro, che chiede di fermarsi sul Tabor nella dolce visione di Gesù trasfigurato, Dio stesso risponde invitandolo piuttosto ad ascoltare ed a seguire gli insegnamenti del suo Figlio diletto. E ben presto l'Apostolo ardente saprà che seguire Gesù, significa portare la croce e salire il Calvario con lui.
 
+Dio non ci consola per trastullarci, ma per incoraggiarci, per renderci forti e generosi nel soffrire per amor suo.
 
-2 — Nell’ordine soprannaturale, dove tutto dipende
-dalla grazia, si verifica nel modo più stretto la parola di
-Gesù: «Senza di me non potete far nulla » (Gv. 15, 5).
-Benchè, col battesimo, la grazia santificante ci abbia elevato all'ordine soprannaturale, e le virtù infuse abbiano
-rese le nostre facoltà capaci di produrre atti soprannaturali, tuttavia, avverte S. Paolo, «nessuno può dire: * Si-
-Ce Gesù’, se non per lo Spirito Santo » (I Cor. 12,3).
-
-ia per produrre anche il più piccolo atto soprannaturale, tu hai bisogno del soccorso di Dio, hai bisogno della
-
-ia attuale che ti prevenga con la sua ‘azione e ti
-accompagni nell’azione, fino al compimento di essa.
-
-Il grande teologo, che ha studiato a fondo la dottrina
-cattolica, per metterne in pratica il minimo punto, come
-per produrre un solo atto di amore di Dio, ha assoluto
-
-
-bisogno, non meno del contadino che conosce solo il suo
-catechismo, del soccorso della ia attuale. Così pure
-il santo, che ha ricevuto tanti favori e lumi divini, che
-è già arrivato all’eroismo delle virtù, non può fare il più
-piccolo atto virtuoso, senza l’aiuto della grazia attuale. Ciò
-ti dice quanto grande deve essere la tua dipendenza da
-Dio, Sei quindi ben lontano dal vero be fidandoti
-della tua scienza o del tuo lungo esercizio di vita spirituale, credi che i tuoi lumi o le tue virtù ti siano sufficienti
-per agire da buon cristiano. No, ti ammonisce S. Paolo,
-« sufficientia nostra ex Deo est », la sufficienza nostra viene
-da Dio (II Cor. 3,5). Senza Dio non puoi nè pensare, nè
-dire, nè volere alcun bene, « poichè è Dio che produce in
-noi e il volere e l’agire con buona volontà » (Fil 2,13).
-
-Di tuo, dunque, di connaturale alla tua natura limitata e.per. di più ferita dal peccato originale, non hai che
-una cosa sola: la capacità di venir meno ai tuoi doveri,
-di mancare, di peccare. Togli da te quel che è di Dio e
-troverai che, per te stesso, sei.nulla, anzi meno di nulla,
-pesche il nulla non è capace di offendere Dio e tu invece
-
-ai questa triste possibilità,
+Scomparsa la visione, gli Apostoli alzarono gli occhi e non videro più nulla « misi solum Jesum », tranne Gesù solo, e con « Gesù solo » discesero dal monte. Ecco quello che dobbiamo sempre cercare e che ci deve bastare: Gesù solo, Dio solo. Tutto il resto — consolazioni, aiuti, amicizie anche spirituali, comprensione, stima, appoggio anche dei superiori — può essere buono nella misura in cui Dio ci permette di goderne e molto spesso Egli se ne serve proprio per sostenere la nostra debolezza; ma quando, attraverso le circostanze, la Mano divina ci priva di tutto ciò, non dobbiamo né sgomentarci, né smarrirci. Sono proprio questi i casi in cui, più che mai, possiamo testimoniare a Dio — con i fatti e non con le parole — che Egli è il nostro Tutto e che Egli solo ci basta. È questa una delle più belle testimonianze che un'anima amante può rendere al suo Dio: essergli fedele, fidarsi di lui, perseverare nel proposito di una dedizione totale, anche quando Egli, ritirando tutti i suoi doni, la lascia sola, al buio, forse nell'incomprensione, nell'amarezza, nella solitudine materiale e spirituale accoppiata con la desolazione interiore. È allora il momento di ripetere: « Gesù solo » e di scendere con lui dal Tabor per seguirlo con gli Apostoli fino al Calvario, dove Egli stesso agonizzerà abbandonato non soltanto dagli uomini, ma anche dal Padre suo.
 
 ### Colloquio
 
-«O Padre onnipotente, Dio verità, Dio amore, concedimi di entrare nella cella del conoscimento di me, ri-
-conoscendo che io per me stessa non sono, ma che tutto
-l'essere e la bontà che è in me viene unicamente da te.
-Mostrami i difetti miei, affinchè sappia detestare la mia
-malizia e così fuggirò l'amor proprio e mi troverò vestita
-della veste LEho della divina carità, la quale è necessaria
-per venire ammessa alle nozze di vita eterna » (S. Caterina da Siena).
+« Io amo te solo, mio Dio, seguo te solo, cerco te solo, son pronto a seguire te solo... voglio essere alla tua discrezione soltanto. Ordina, ti prego, comanda tutto quello che vuoi, però guarisci, apri i miei occhi, affinché io veda i tuoi cenni; guariscimi tutto affinché io ti riconosca. Dimmi da che parte debba volgere la mia attenzione affinché ti veda; e spero saprò fare tutto quello che mi comandi... » (S. Agostino).
 
-« Fa’, 0 mio Dio, che io impari a conoscermi. a fondo!
-E che mi persuada davvero o non son nulla e che
-Tu sei tutto. E che non mi consideri nulla di più di quel
-nulla che sono. .E che non faccia mai più niente per me,
+Sì, o Gesù, che io segua te solo e ti segua non solo sul Tabor, ma soprattutto sul Calvario. Il Tabor è luce, è splendore che mi attira; vorrei, anche solo per un istante, intravedere il tuo Volto, o mio Dio! Il Calvario è notte, è solitudine, è dolore cupo che mi spaventa; ma nelle tenebre s'inalza una croce e su quella croce io contemplo te, crocifisso per amore. Intravedo il tuo Volto non trasfigurato dalla gloria, ma sfigurato dal dolore, frutto dei nostri peccati!
 
+O Gesù, distruggi in me il peccato, quel peccato che ha sfigurato il tuo Volto, quel peccato che ha sfigurato l'anima mia, creata ad immagine e somiglianza tua. Ma perché avvenga questa distruzione è necessario che io partecipi al tuo Calvario, alla tua Croce; degnati, dunque, o Signore, di associare alla tua Passione tutte le sofferenze piccole e grandi della mia vita, affinché per esse io sia purificato e venga disposto a salire di chiarezza in chiarezza, fino alla totale trasfigurazione in te.
 
-ma tutto per te. E che nessuna creatura pensi più a me,
-nè parli più di me, nè faccia nulla per me, nè mi dia più
-nulla, ma tutto faccia per te, tutto dia a te. E che il mio
-nulla si riduca a nulla agli occhi di ogni tua creatura e
-agli occhi tuoi, mio Dio. E che Tu, Tutto, sia tutto, in
-tutto e per tutto » (S. Giovanni Eudes).
-
-Scoprimi, o Signore, il mio niente, e scoprilo in modo
-che io non solo lo comprenda, ma ne abbia la convinzione
-pratica, profonda. Tu lo sai quanto ciò è difficile alla mia
-matura superba! Se l’intelletto non può resistere all’evi-
-
-
-denza della verità e deve necessariamente ammettere che
-
-
-nulla sono, nulla ho e nulla posso senza di te, all'atto pratico il mio io cerca sempre di attribuirsi, di arrogarsi
-qualche cosa e di compiacersi di essa come se fosse cosa
-sua. Aiutami, o Signore, a debellare questo orgoglio, perchè, Tu lo vedi, è ladro dei tuoi doni; perchè, Tu lo vedi,
-rende infeconda la mia vita, impedendomi di ricevere
-l'abbondanza delle tue grazie.
-
-© Signore, che io riconosca il mio nulla, e quanto più
-lo riconoscerò con semplicità ed umiltà di cuore, tanto
-più ti compiacerai di essere il mio Tutto. Tu il tutto,
-ed io il nulla; Tu Colui che è, ed io colui che non è!
-Glorificati, dunque, nel mio nulla! In questo nulla trionfi
-il tuo amore e la tua grazia, ma trionfi pure la tua mise-
-
-
-ricordia, perchè io sono un nulla che ha peccato. Peccati,
-
-
-Domine, miserere mei!
+La luce, la gloria del Tabor m'incoraggia; grazie, o Signore, di avermi concesso, sia pure per brevi istanti, di contemplare il tuo splendore, di godere delle tue divine consolazioni; così rinfrancato e incoraggiato scendo dal monte per seguire te solo, fino al Calvario.

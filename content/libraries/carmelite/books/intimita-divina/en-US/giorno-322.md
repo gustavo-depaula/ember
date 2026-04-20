@@ -1,52 +1,51 @@
-## 322 — TOWARD THE HOMELAND
-*XX Sunday after Pentecost*
+## 322 — GOING TOWARD THE HOLY SPIRIT
 
 ### Presence of God
 
-O Lord, teach me the way to reach You.
+Come, Holy Spirit, take hold of me by your action and lead me to God.
 
 ### Meditation
 
-This Sunday has a particular tone, the tone of things drawing to their end. Before long the liturgical year will close and, as it closes, it invites us to reflect on the transience of this present life and to turn our gaze to the eternal life that awaits us.
+1. — Considering gifts of Holy Spirit and beatitudes that are their fruits, we understand ever better with what wonderful riches God has endowed us. From day of Baptism every Christian possesses these precious gifts. Therefore it is not rash to desire they develop in us to full maturity, so that our soul may be wholly taken over by action of Holy Spirit.
 
-Spontaneously hearts gather themselves in a review of their own state: how have we used the time received from God? In the Introit we find the humble confession: «O Lord, we have sinned against You and have not kept your precepts»; and in the Collect the request for pardon: «Grant, O Lord, to your faithful, being appeased, pardon and peace.»
+Indeed, by this desire we go to meet God's own desire, who gave us these gifts precisely so we might be moved and guided by his Spirit, "for whosoever are led by Spirit of God, they are sons of God" (Rom. 8:14). And if we desire to be true children of God, does not heavenly Father desire it immeasurably more, He who for this very end created us and raised us to state of grace?
 
-Then St. Paul, in the Epistle (Eph 5:15-21), teaches us to use in the best way the time that remains to us so as to attain eternal glory: «See therefore, brethren, how you walk circumspectly: not as unwise, but as wise, redeeming the time, because the days are evil.» The Apostle explains in what our wisdom must consist: «Become not unwise, but understanding what is the will of God.»
+Let us then launch our souls into great desires. No, it is not too much, not rash, not presumption. God wills it: *voluntas Dei, sanctificatio vestra* (1 Thess. 4:3), this is will of God, our sanctification! But lest our desires be vain, let us apply ourselves with increasing generosity to dispose our soul for action of Holy Spirit.
 
-The greatest folly and imprudence one can commit on the journey of this life is to follow one’s own caprice, one’s own will; in this way one takes a very dangerous road that never leads to the goal, whereas the only road that does lead there is that of God’s will. Whoever sincerely seeks the divine will and walks in it, instead of being guided by self-will, is guided by the Spirit of God, the Holy Spirit, and can therefore be sure of not going astray.
+Let us be convinced that before making us taste God and his divine union, divine Paraclete must perform in us work of deep purification. As green wood cannot be penetrated by fire unless first dried and purged of its dampness, so soul cannot be seized and transformed by fire of divine love unless first purified of all imperfections.
 
-«Be filled with the Holy Spirit» — St. Paul exhorts us today — «speaking to yourselves in psalms and hymns and spiritual canticles, singing and making melody in your hearts to the Lord ... being subject one to another.» When a soul docilely lets itself be guided by the Holy Spirit, He takes hold of it and invades it until He fills it with Himself. From this fullness the spirit of prayer blossoms spontaneously; virtue blossoms spontaneously, as do humble submission and fraternal concord.
+Let us therefore be disposed to undergo courageously this indispensable purification. Better still, let us try to anticipate it ourselves by cutting without pity all threads still binding us to earth, and above all those binding us to self-love and pride.
 
-To walk in the divine will, guided by the Holy Spirit, is the quickest and safest way to reach our heavenly homeland.
+"O humility, humility!..." exclaims Teresa of Jesus. "Fault of those who do not advance [in spiritual ways] lies all here," in lack of humility, "because humility is foundation of building, and Lord will never raise it very high unless this virtue is truly well established" (Interior Castle).
 
-But we cannot walk in the divine will without faith. Today’s Gospel (Jn 4:46-53) speaks precisely of faith and of the qualities it must have in order to please God.
+2. — To generosity, detachment, and humility let us join fervent prayer to invoke work of Holy Spirit. Let us raise our supplications with very words of hymn:
 
-A royal official, having heard of the marvelous healings worked by Jesus, goes to Him and begs Him to come to his house and «heal his son, who is at the point of death.» This man has faith in the Master’s wonder-working power, yet he is far from believing that He is the Son of God.
+*Veni, Creator Spiritus ...*
+*Accende lumen sensibus, infunde amorem cordibus,*
+*infirma nostri corporis virtute firmans perpeti.*
 
-Jesus understands and replies: «Unless you see signs and wonders, you believe not.» These words, addressed historically to the official and his fellow townsmen, apply morally to all who make their faith depend on what is seen or felt. Few are those who believe with simplicity in the Gospel, in Revelation, in the Magisterium of the Church; most remain indifferent and are moved only in the face of some unusual event that strikes their senses.
+In darkness of our senses we need interior light. May divine Spirit come and, kindling this light in us, make us know God by loving contemplation of his greatness. We need charity. May He come and infuse it into our hearts, often so dry and cold because full of self-love and egoism. "The charity of God is poured forth in our hearts by Holy Spirit" (Rom. 5:5). Only from Him can we receive it.
 
-It is true that the Lord can make use even of this to help our weakness, but this is not the faith that pleases Him: «Blessed are they that have not seen and have believed» (Jn 20:29), He said to Thomas, who would not believe unless he saw the mark of the nails and put his finger into the wounds.
+We need fortitude to conquer ourselves, to face difficulties, to remain serene and generous. May He come to sustain us with his gifts, and we shall no longer follow foolish demands of self-love. We shall no longer be so frightened or impressed by suffering and difficulties; we shall no longer lose peace so easily amid contradictions. Strong in his strength, we shall maintain that interior balance and serenity enabling us to be always generous, always in act of giving ourselves totally to God.
 
-The profound motive of faith is not our experience, not having seen or touched with our hands, but the authority of God. God has revealed Himself; He is not deceived, nor can He deceive, and we believe with certainty on His word. To believe on God’s word: this is genuine faith, pure faith, the faith pleasing to the Lord.
+*Hostem repellas longius, pacemque dones protinus ...*
 
-Jesus, who wanted to lead the royal official to this faith, said to him: «Go thy way, thy son liveth.» «The man believed the word which Jesus said to him, and went his way.» It was not yet supernatural faith in the Son of God; nevertheless, it was an act of faith in the Master’s word, and although imperfect, it produced its fruit: the son was healed.
+When Holy Spirit has led us to that perfect balance which is holiness itself, we shall have nothing more to fear from devil. Evil one will flee far away, and if at times he still succeeds in troubling us, he will be able to reach only threshold of sensitivity, while under valid protection of Holy Spirit bottom of our soul will remain in peace.
 
-The Lord asks no more than each one can give Him. Seeing good will, seeing sincere effort, He Himself intervenes to perfect the work. Thus the official’s imperfect and still human faith was rewarded with his son’s healing and, as a consequence, his faith became supernatural: he believed in Jesus no longer as in a mere prophet or wonder-worker, but as in the Son of God; «he himself believed, and his whole house.»
-
-In this life we walk toward God not by vision but by faith. The purer our faith is, stripped of human elements, the more it will please God and allow us to know and lovingly do His holy will.
+Full balance and perfect peace are characteristics of life of union with God. Holy Spirit will introduce us and make us progress in this union, even to entering sanctuary of intimate life of God, Trinitarian life. This is most beautiful fruit of his action in our souls: exquisite fruit, pledge of eternal glory, fruit that will mature perfectly in heaven, in beatific vision of our most beloved God.
 
 ### Colloquy
 
-«Be favorable to your children, O divine Master, Father and Lord. Grant to us, who follow your precepts, to reflect your image and to experience, according to our strength, your goodness and not the severity of your judgment.
+"O Holy Spirit, You draw, so to speak, from glory of Father a most bright and shining ray of glory, and from Incarnate Word a most burning and piercing dart of love, to enlighten and darken, to wound and heal, to enkindle and refresh, to humble and dazzle, to make glorious creatures who receive You in their hearts and make them walk in love. Who can tell what and how many your influences are? They are so many, so many that they are without number.
 
-«Grant that we may all live in your peace, be admitted to your kingdom, after having crossed without shipwreck the waves of sin, driven onward in full calm by the Holy Spirit, your ineffable Wisdom, and guided by Him night and day, until the perfect day.
+"But where do You go infusing your gifts and graces? Into souls You find disposed. These You renew and lead to understanding of God. What is it then, my God, that deprives soul of your Spirit? It is perverse self-love, source and origin of every sin. Alas, I see well how world lies submerged and drowned in self-love! One with intellect, another with memory, another with will, another with whole soul goes sinking in it.
 
-«Grant us, to our last hour, to pray while giving thanks and to give thanks while praying to the one Father and Son, Son and Father, the Son our educator and master, together with the Holy Spirit» (Clement of Alexandria).
+"And what displeases You most, O God, is that this perverse self-love dwells also in your ministers and your spouses. Let us not think disorder of our self-love, of our own will, is small. Mountains of enormous sins are not needed; grain of these defects — which seem small and are not — suffices to hold back flow of this swift river and ocean of grace!
 
-«Lord, You know what is better for me; let this or that be done according to your will. Give me what You will and when You will. Deal with me as You know best, as it pleases You, and according as it will be for your greater honor.
+"O Holy Spirit, purify, purify whole world; purify my soul of self-love so it may return there no more!" (cf. St. Mary Magdalene de' Pazzi).
 
-«Place me where You will and dispose of me freely in all things. I am in your hands; do with me what You think best. Behold, I am your servant, ready for all, since I desire to live not for myself but only for You—and may I at least do this worthily and perfectly!
+"O Holy Spirit and Sanctifier, almighty God, essential love of Father and Son, adorable bond of august Trinity, I adore and love You with all my heart. Inexhaustible source of graces and love, enlighten my mind, sanctify my soul, inflame my heart. God of goodness and mercy, come to me: visit me, fill me, remain in me. Make of my heart a temple and living sanctuary where You may receive my adorations and homage and find your delights.
 
-«O most loving Jesus, grant that I may always desire and will only what is more pleasing and dear to You; let your will be mine, and let mine always follow yours and be wholly in accord with it.
+"Source of living water springing up unto eternal life, irrigate and water my soul thirsting for justice. Sacred fire, purify me; grant that I burn with your flames and that they never be extinguished in me. Ineffable light, enlighten me; perfect holiness, consecrate me; Spirit of truth, without You I am in error; Spirit of love, without You I am ice; Spirit of unction, without You I am dryness; Spirit of life and giver of life, without You I am in death.
 
-«May my willing and not willing always be the same as yours, Lord, so that I may not desire or reject anything except what You ...»
+"O divine Spirit, make sweet violence to my heart to engage it to desire You, seek You, obey You, love You, and possess You in time and eternity. Amen" (Fr. Aurillon).

@@ -1,67 +1,109 @@
-## 352 — AMOR UNITIVO
+## 30 — CRER NO AMOR
+*26 dezembro*
 
 ### Presença de Deus
 
-Meu Deus, que infundiste em mim o amor, faze que ele cresça até conduzir-me à união contigo.
+— Ó dulcíssimo Menino Jesus, faze-me penetrar no abismo do teu infinito amor, para que eu saiba crer nele com todas as minhas forças.
 
 ### Meditação
 
-O amor «produz na alma efeitos maravilhosos, iluminando-a e acendendo-a em ardentes desejos de só amor divino, e de nenhuma outra coisa» (São João da Cruz).
+1 — Na criação Deus nos amou até fazer o homem à sua imagem e semelhança; na redenção nos
+amou até fazer a si mesmo à nossa imagem! O Natal
+é por excelência a festa do amor, e do amor que se revela não nos sofrimentos da Cruz, mas na amabilidade de
+um Menino, nosso Deus, que nos estende os braços para
+fazer-nos compreender que nos ama.
 
-Assim, à medida que se desapega da terra, deixando de lado todo afeto e apetite das criaturas, a alma sobe a «escada secreta» do amor, que de grau em grau a eleva até seu Criador, «porque só o amor é o que une a alma com Deus.»
+Se a consideração da justiça infinita pode levar-nos a maior fidelidade no serviço de Deus, quanto mais nos
+leva a consideração do seu amor infinito! Santa Teresa
+do Menino Jesus dizia: "A minha natureza é tal que o temor me faz
+recuar; com o amor, ao contrário, não só vou adiante, mas
+voo" (St. 8).
 
-Essa inflamação de amor não é percebida no princípio da purificação, porque então «o fogo divino faz toda sua obra mais em dessecar e dispor a alma do que em aquecê-la; mas, com o passar do tempo, quando já a aqueceu bastante, a alma muitas vezes sente esse ardor amoroso.»
+E Jesus, o Deus-Menino, está aqui, no meio de nós, precisamente para mudar a antiga lei do temor para a nova
+do amor.
 
-O irromper do amor pode ser acompanhado de grande deleite espiritual; são então instantes de imensa alegria em que a alma saboreia antecipadamente a união com Deus da qual se aproxima, alegria que a recompensa amplamente de todas as penas e ansiedades sofridas na obscuridade da noite e a encoraja a abraçar de boa vontade as que ainda deverá sofrer para chegar à união perfeita.
+Para correr na via dos mandamentos divinos, as almas
+nossas precisam dilatar-se na convicção da infinita caridade de Deus por nós; e justamente para esse fim queremos
+mergulhar na contemplação do mistério natalino. De fato, quando vemos Jesus, o Verbo eterno, fazer-se por nós
+Menino e, desde o primeiro instante da sua vida terrena,
+abraçar plenamente as nossas misérias, até não ter por berço
+senão uma manjedoura, por leito um pouco de feno, por coberta miseráveis paninhos... oh, não podemos mais duvidar
+do seu amor. Deus nos ama! Jesus nos ama! Sim, repitamo-lo e
+repitamo-lo sem fim: "Conhecemos e cremos na caridade que Deus tem por nós" (1 Jo. 4, 16). Senhor,
+eu creio no teu amor por mim! Senhor, aumenta a minha fé.
 
-Todavia, convém lembrar que a inflamação de amor não consiste no gozo que a alma pode experimentar, mas na forte decisão da vontade de dar-se inteiramente a Deus.
+2 — "Deus é caridade!" O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
+alma que se concentra toda na contemplação do
+Verbo Encarnado. Enquanto não se compreende que Deus é
+amor infinito, infinita benevolência que se dá e se estende
+a todos os homens para comunicar-lhes o seu bem e a
+sua felicidade, a vida espiritual permanece em botão, não se
+desenvolveu ainda, não é ainda profunda. Só quando
+a alma, iluminada pelo Espírito Santo, penetra o mistério
+da divina caridade, a sua vida espiritual se torna plena e madura.
 
-«Aliás, tudo isso é obra do Senhor, que infunde como quer», isto é, pode infundir o amor «deixando seca a vontade», ou inflamá-la com suave ardor.
-
-De todo modo, o que deve interessar-nos não é gozar do amor, mas progredir rapidamente nele, justamente porque só o amor é a força que pode unir-nos a Deus.
-
-Tratando deste argumento, São João da Cruz precisa: «A inclinação da alma, a força e a virtude que ela tem para ir a Deus é o amor... e, portanto, quanto mais graus de amor tem, tanto mais profundamente entra em Deus e se concentra com Ele.»
-
-Como a pedra, ao cair, é atraída ao centro da terra pela força da gravidade, assim a alma é atraída a Deus pela força do amor. Quanto mais forte for esse amor, tanto mais poderoso será para arrastá-la toda em Deus e uni-la inteiramente a Ele: «o amor mais forte é o mais unitivo.»
-
-Poderá, então, a alma que deseja sinceramente unir-se a Deus deixar de aplicar todas as suas forças para crescer no amor?
-
-A cada grau de amor corresponde um grau de união: ao amor imperfeito corresponde união imperfeita; ao amor perfeito corresponde união perfeita.
-
-«Para que a alma esteja no seu centro divino [isto é, em Deus], basta que tenha um grau de amor, porque com um só se une a Deus por graça; e se tiver dois graus, terá unido e concentrado com Deus um centro mais interior, e assim por diante.»
-
-Assim como a pedra, pelo peso, é arrastada ao centro da terra e, quanto mais pesa e menos obstáculos encontra no caminho, tanto mais rapidamente aí chega e vai ao centro mais profundo, assim o amor é o peso que nos arrasta em Deus.
-
-Mas é verdadeiro também o inverso: o amor atrai Deus para dentro de nossa alma, porque Jesus disse: «Se alguém me ama, guardará minha palavra... viremos a ele e faremos morada nele» (Jo 14,23).
-
-Basta um grau de amor, isto é, basta a observância da lei divina que assegura o estado de graça, para que Deus se torne presente na alma, fazendo nela morada e, portanto, para que a alma possa viver unida a Ele.
-
-Mas é evidente que a esse primeiro grau de amor e de graça corresponde união com Deus ainda muito imperfeita.
-
-Em tal estado a alma já está no seu centro, isto é, em Deus, e já vive unida a Ele, que se digna habitá-la por graça; contudo, resta-lhe ainda longo caminho a percorrer para chegar ao seu centro mais profundo, isto é, para penetrar nas profundezas de Deus e viver íntima e perfeitamente unida a Ele.
-
-As etapas desse caminho são marcadas pelo progresso no amor; quanto mais a alma ama, mais se imerge em Deus e, por outro lado, o próprio Deus, realizando sua promessa, torna-se-lhe cada vez mais presente por graça, convidando-a a uma amizade e união sempre mais íntimas.
-
-Até que venha um dia em que, «chegada ao último grau [de amor], o amor de Deus chegará a feri-la até o mais profundo centro, transformando-a e iluminando-a segundo todo seu ser e suas potências e virtudes... de tal modo que a fará parecer Deus.»
-
-O amor realiza o grande milagre: atrai Deus para a alma que O ama e lança essa alma em Deus.
-
-Mediante o amor, uma miserável criatura encontra-se com seu Criador e une-se a Ele de modo tão íntimo e perfeito que fica toda transformada e divinizada.
-
-Que dom maior poderia Deus dar-nos do que criar-nos no amor, infundir em nós o amor, a grande força capaz de unir-nos a Ele?
+Não podemos entender melhor o amor infinito do
+nosso Deus do que aproximando-nos da pobre manjedoura onde
+Ele jaz, feito carne por nós. "As virtudes e os atributos
+divinos se descobrem em Deus por meio dos mistérios do Homem-
+Deus", ensina São João da Cruz (cf. C. 37, 2), e entre
+esses atributos o primeiro é sempre o da caridade, que
+constitui o próprio ser divino. Da contemplação
+amorosa e silenciosa de Jesus Menino nasce facilmente em nós
+um sentido quanto possível profundo e penetrante do seu infinito
+amor: não é somente crer, é de certo modo experimentar que Deus nos ama. Então a vontade aceita com plenitude
+aquilo que a fé lhe ensina, aceita-o com amor, com todas
+as forças, e a alma se lança totalmente a crer no amor
+infinito. Deus é caridade: esta verdade, fundamental de toda
+a vida cristã, penetrou profundamente na alma; ela
+a sente, a vive, porque a teve, por assim dizer, quase tocada
+no seu Deus Encarnado. Quem assim crê no Amor infinito
+saberá dar-se a ele sem medida: dar-se totalmente.
 
 ### Colóquio
 
-«Ó amabilíssimo Rei pacífico, desejado por todos os corações generosos do céu e da terra, que com infinita suavidade me pedes que te ame de todo o coração, de toda a mente, com todas as forças, não desprezes meus suspiros e meus desejos.
+Senhor, eu creio no teu amor por mim! Como poderia
+ainda duvidar?
 
-«Diletíssimo Rei, que vieste ao mundo para reinar nos corações dos homens com o dulcíssimo império da caridade, faze que eu te ame com todo o coração e com todas as forças da minha mente.
+"Tu desceste da grande altura da tua divindade
+até ao lodo da nossa humanidade, porque a baixeza do meu entendimento não podia nem compreender, nem olhar
+a tua altura. Para que com a minha pequenez eu pudesse
+ver a tua grandeza, Tu te fizeste menino,
+encerrando a grandeza da tua Deidade na pequenez da
+nossa humanidade. E assim te manifestaste a nós no Verbo
+Encarnado teu Filho; assim te conheci, abismo
+de caridade! Envergonha-te, envergonha-te, criatura cega, tão
+exaltada e honrada por teu Deus, de não conhecer que Deus,
+pela sua inestimável caridade, desceu da altura da
+Deidade até à baixeza do lodo da tua humanidade. Ó
+amor inestimável, ó amor inestimável, que dizes tu,
 
-«Faze, ó Senhor amabilíssimo, que eu não viva em mim, mas em ti, que és minha vida, e me transforme em ti por efeito do amor.
+alma minha? Digo a ti, Pai eterno, suplico a ti, benigníssimo Deus, que comuniques a nós e a todos os teus servos o
+fogo da tua caridade" (Santa Catarina de Sena).
 
-«Comunica-me aquele dulcíssimo fogo que arde no teu coração e faze que em todas as coisas eu procure só a ti, verdadeira paz e centro da minha alma. De ti não quero outra coisa senão que me inflames com teu fogo eterno, o qual gere em meu coração tão grande solicitude por ti que, dia e noite, eu vá sempre te buscando.
+Ó Deus, como tenho necessidade de conhecer o teu amor infinito! Conhecer para crer, crer para amar, amar
+para dar-me totalmente a ti, sem reserva, assim como Tu te
+deste todo a mim.
 
-«Faze que essa solicitude me impulsione a usar de todas as coisas, a servir-me de todas as ocasiões e a inventar sempre novos meios para dar-te gosto e mover todas as criaturas a servir-te, amar-te e unir-se a ti no vínculo da caridade.
-
-«Vem em mim, ó dulcíssimo Esposo da minha alma, ó coração ardentíssimo e desejosíssimo de meu coração. Entra como absoluto Senhor em tua casa e governa-a soberanamente com o poder do teu amor onipotente.
-
-«Quisera hoje, ó magnífico Filho de Deus, ser atraído a ti, e que minha alma fosse transformada na tua; e então Tu serias minha alma, minha vida, o único conforto do meu coração aflito, meu alívio» (Venerável João de Jesus Maria, O.C.D.).
+Como eu gostaria, ó meu Deus, de retribuir o teu dom! Mas
+Tu, que és Tudo, deste-me tudo, enquanto eu, que sou
+nada, não posso dar-te senão o nada! E no entanto quanto sou
+tardo, preguiçoso, avaro em dar-te este nada, como procuro
+poupar-me, dar-me com medida, com prudência... Oh, o
+teu amor não conheceu medida, não calculou a
+distância infinita que vai do Criador à criatura, mas
+superou e encheu essa distância, unindo de modo indissolúvel a natureza humana com a Pessoa divina do
+Verbo! Como é verdade que o amor não conhece obstáculos e
+tudo vence, a tudo se acomoda, contanto que alcance o seu
+fim! Ó doce Menino Jesus, meu Deus, meu Salvador,
+concede-me compreender cada vez mais a grandeza e a
+profundidade do teu amor; faze-me penetrar neste abismo
+sem fronteiras cujo fundo nenhuma criatura jamais poderá
+tocar! À medida que me aprofundo nele, sinto nascer em
+mim uma nova força, um novo impulso que me empurra irresistivelmente a dar-me totalmente a ti. Tu sabes como tenho necessidade
+de que esta força, este impulso cresça, se consolide
+para tornar-me verdadeiramente generoso e pronto para todo sacrifício,
+para toda doação. Ó Senhor, que eu compreenda a
+tua infinita caridade, que tenha nela uma fé inabalável, e
+que depois nunca recuse nada ao teu amor: eis o dom
+que te peço no teu Natal!

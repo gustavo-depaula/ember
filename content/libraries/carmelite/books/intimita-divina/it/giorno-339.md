@@ -1,92 +1,23 @@
-## 339 — LA NOTTE DELLO SPIRITO
+## 17 — DIMENTICANZA E ABNEGAZIONE DI SÉ
 
-### Presenza di Dio
-
-O Signore, infondimi maggior amore e maggior coraggio, perchè sappia di buon cuore accettare la tua azione purificatrice.
+**Presenza di Dio.** — *O Signore, che ti dai a noi sino a farti nostro cibo, insegnami a darmi alle anime sino a dimenticare totalmente me stesso.*
 
 ### Meditazione
 
-necessaria quell'amara e forte purificazione che si chiama
-motte dello spirito. La purificazione dell'anima incomincia
-con la notte dei sensi che, mettendola all'oscuro e privandola di ogni gusto sensibile, la libera dagli attacchi alle
-creature e ai beni materiali, ma si completa soltanto con
-la otte dello spirito che, annichilendola nelle suc potenze spirituali, giunge a distruggere in lei ogni abito imperfetto, S. Giovanni della Croce nota con molta finezza che
-anche dopo aver oltrepassato la notte dei sensi « restano
-tuttavia nello spirito le macchie dell'uomo vecchio, quantunque ad esso non sembri, nè riesca a vederle » (N. II, 2,
-1); sono macchie così profonde e nascoste di cui difficilmente l'anima si rende conto.
+**1** — Altra condizione per un'attività santa è la «generosa dimenticanza e forte abnegazione di sé» (Pio XII); del resto, senza dimenticanza di sé non sarebbe possibile neppure la rettitudine d'intenzione. Appunto perché siamo tanto presenti a noi stessi, tanto occupati e preoccupati del nostro io, del nostro interesse, delle nostre comodità, tanto solleciti di essere amati e di riscuotere plauso e stima, una quantità d'intenzioni seconde tenta d'infiltrarsi nel nostro agire. Bisogna «uscire da se stessi e dalle creature», direbbe S. Giovanni della Croce, uscire anzitutto da quella creatura che più di ogni altra amiamo, il nostro io. Se in vista dell'ideale contemplativo di unione con Dio il Santo ci addita la via del «nulla», possiamo ben dire che la vita apostolica non richiede di meno, ma esige anch'essa una totale abnegazione di sé che si realizza appunto ripetendo continuamente a se stessi: nulla, nulla, nulla.
 
-Ecco, ad esempio, una persona distaccata dalle creature e dai beni terreni, avanzata nell'orazione e nelle vittù, un'anima, quindi, che ha già percorso le tappe della
-via DINE e della via illuminativa; tuttavia, messa alla
-prova, facilmente si riscontra in lei un certo attacco alle
-sue opere buone — opere d'apostolato, esercizi di penitenza o di devozione — in modo tale che quando l'obbedienza o il servizio del prossimo l'obbligano a lasciarle
-© a sostituirle con altre, se ne turba, oppone una certa
-resistenza e solo con molta riluttanza riesce a sottomettersi. Ciò accade appunto perchè vi sono ancora in lei le
-radici degli abiti imperfetti e, soprattutto, dell'orgoglio e
-dell'egoismo, da cui derivano tutti gli altri difetti ed imperfezioni. Che vale sopprimere gli atti difettosi, se nello
+Come il missionario per realizzare la sua vocazione deve lasciare la patria, i parenti, gli amici, deve abbandonare la lingua, gli usi, i costumi del suo paese per adeguarsi a quelli del nuovo, così — proporzioni fatte — ogni apostolo, anche se svolge la sua attività nella propria patria, nel proprio ambiente di lavoro o di vita, deve rinunciare ad una quantità di cose. Gusti, abitudini, esigenze personali di cultura, di educazione, di sensibilità devono essere messe generosamente da parte per adattarsi alla mentalità ed alle esigenze altrui; quiete, riposo, sollievi devono cedere il posto al servizio delle anime. L'apostolo non deve andare in cerca di conversazioni piacevoli, di amicizie consolanti, di occupazioni gradite, di risultati soddisfacenti; potrà darsi che talvolta incontri queste cose sul suo cammino, ma neppure allora deve fermarsi a goderle egoisticamente, bensì deve servirsene come mezzi per il suo apostolato e, in ogni caso, non deve regolare la sua attività in vista di esse. L'apostolo è mandato a «dare» e non a «ricevere», a seminare e non a raccogliere, perciò deve saper dare il suo tempo, il suo lavoro, le sue energie e perfino se stesso anche in quegli ambienti che non offrono nulla di confortante, anche a quelle anime da cui non riceverà mai soddisfazioni, né gratitudine.
 
-spirito ne rimane la radice? Presto o tardi questa, troncata alla superficie, metterà germogli in altra direzione.
+**2** — S. Paolo insegna che il sacerdote «è costituito a vantaggio degli uomini» *(Ebr.* 5, 1) e lo stesso può dirsi di ogni altro apostolo. L'apostolo non è per se stesso, per la sua carriera, per il suo interesse, ma è per le anime, è per il vantaggio degli altri, in tutto ciò che riguarda il loro bene spirituale. Anche se l'apostolato gli conferisce qualche autorità, qualche dignità, questa non è per il suo onore, per il suo utile, ma soltanto per il servizio dei fratelli. L'unico vantaggio personale che può e deve pretendere dall'esercizio del suo apostolato è la sua santificazione: ecco l'unico diritto che l'apostolo può far valere, l'unico interesse che può cercare per sé; tutto il resto deve essere generosamente sacrificato a Dio ed alle anime.
 
-Nessuno può essere liberato dalle radici dei difetti
-senza passare attraverso la penosa notte dello spirito. Paragonando tale notte a quella dei sensi, S. Giovanni della
-Croce dice che la differenza che corre fra l'una e l'altra
-«è quella che passa tra estirpare una radice e tagliare un
-ramo, ovvero tra cavare una macchia penetrata e vecchia
-e pulirne una fresca e superficiale ». Benchè ciò sia molto
-arduo a farsi e doloroso a subirsi, tuttavia è indispensabile, perchè le macchie dell'uomo vecchio si cavano solo
-«col sapone e col forte ranno» della purgazione dello
-Spirito, senza la quale l'anima « non potrà mai pervenire
-alla purezza dell'unione divina» (ivi).
-
-buona dose di coraggio, perchè si tratta di rinunciare «a
-qualsivoglia gusto sensibile che non sia puramente a onore e gloria di Dio» (G.C.S.1,13,4), per entrare nella
-notte dello spirito ce ne vuole molto di più, perchè si
-tratta di rinunciare non più a cose materiali, ma a cose
-spirituali. Si tratta, ad esempio, di accecare il proprio intelletto, di rinnegare la propria volontà, di rinunciare all'affermazione della propria personalità non solo rispetto
-ai beni materiali, ma anche rispetto a quelli morali e spirituali. Nella notte dello spirito l'anima deve camminare
-al buio, deve essere messa nel vuoto, non solo riguardo
-ai sensi, ma anche riguardo alle sue facoltà spirituali. In
-questa notte Dio «nuda le potenze, le affezioni e i sentimenti, sì spirituali che sensibili, esterni ed interni, lasciando l'intelletto al buio, la volontà all'asciutto, vuota
-la memoria, e gli affetti dell'anima in somma afflizione,
-amarezza ed angustia, privando la medesima del sapore
-dei beni spirituali che prima gustava » (N.II, 3,3).
-
-Tanta desolazione e tanta privazione di ogni cosa non
-ci deve scoraggiare perchè non è ordinata alla morte, ma
-alla vita e, anzi, alla pienezza della vita che è l'unione di
-
-amore con Dio. Perciò, l'anima che ama non si sgomenta, non si spaventa; il suo ideale è l'unione divina e vuole raggiungerlo ad ogni costo, sì che nessun sacrificio le
-sembra troppo grave pur di arrivarvi. D'altra parte, se
-intuiamo almeno qualche cosa dell'infinita perfezione di
-Dio e conosciamo anche solo un poco la nostra profonda miseria, dobbiamo convenire che nessuna purificazione, per quanto forte e penosa, sarà mai esagerata dovendo disporre noî. indegni e miserabili quali siamo, all'unione con Colui che è la bontà, la purezza, la bellezza infinita; nè le sofferenze che tale purificazione c'imporrà potranno mai sembrarci insopportabili in confronto al bene
-immenso che ci devono procurare. « Tanto è il bene che
-mi aspetto, che ogni pena mi è diletto », ripete assieme
-a S. Francesco l'anima innamorata di Dio; e onesto bene
-essa lo attende fin da quaggiù, perchè sa che Dio non rifiuta di ammettere alla sva unione lo spirito ben disposto, ossia totalmente purificato.
+Un'anima veramente *data* all'apostolato non si appartiene più: le sue forze, i suoi talenti, il suo tempo, la sua salute, la sua vita sono di Dio e del prossimo. E, essendosi *data*, non può più riprendersi, non può disporre di se stessa, non può dire che ha perso il diritto di proprietà di tutto ciò che è e di tutto ciò che ha. Quindi il suo programma è: darsi dimenticandosi e dimenticarsi per darsi di più. E ciò non solo nei momenti di entusiasmo, nelle giornate luminose, quando le anime rispondono alle sue cure, quando le opere fioriscono, quando le forze sono in pieno vigore, ma anche nei momenti di oscurità, nelle giornate grigie in cui sembra che tutto crolli sotto l'urto delle difficoltà, anche quando il fisico stanco reclama un po' di riposo, il lavoro pesa, le energie scemano e, per l'impeto delle lotte interne ed esterne, è molto faticoso rimanere sempre al proprio posto. Sì, anche nelle ore di abbandono e di prova l'apostolo deve continuare a darsi con uguale costanza e generosità. Che se egli non lo facesse di buon volere — ossia con vero spirito di sacrificio — sarebbe impossibile che dalla sua condotta non trasparisse un po' di malumore, di scontento, di riluttanza o d'impazienza, e ciò verrebbe a menomare di molto il suo ascendente e la sua azione. Ma dove trovare la forza per rimanere sempre al livello di un così alto dono di sé? Nell'Eucaristia. Lì Gesù si dà a noi sino a farsi nostro nutrimento e se l'apostolo — chiamato a prolungare la missione del Maestro — non può imitarlo dandosi letteralmente in cibo alle anime, però può imitarlo mettendosi a loro disposizione fino al punto di lasciarsi «mangiare» da esse, ossia di lasciarsi consumare per il loro servizio.
 
 ### Colloquio
 
-«O anima mia, quando, divenuta migliore, sarai liberata dalle tue passioni e dalle tue viziose tendenze? Quando si disseccherà în te la radice di ogni male? Quando
-sarà cancellata in te ogni traccia di peccato? Oh, se tu
-amassi ardentemente il tuo Dio! Se tu fossi indissolubilmente unita al tuo sovrano Bene!
+«O Signore, fammi ben comprendere che il mio lavoro ha valore per l'eternità in proporzione dell'amore col quale lo compio e non del successo che può avere o no. Anche se io non ne vedo i frutti, che importa, purché i frutti li veda Tu? Tu vuoi che lavori con spirito di fede senza ricercare la mia soddisfazione.
 
-«Buon Gesù, tenero Pastore, mio dolce Maestro, Re
-dell'eterna gloria, quando comparirò senza macchia e veramente umile dinanzi a teè Quando, per amor tuo, di-
+«Sento che sono madre delle anime e che devo sacrificarmi per esse con la più grande generosità, perché la salvezza di molte può dipendere dalla mia corrispondenza alla grazia. Signore, sono un povero piccolo nulla, ma ti offro tutto. O Padre, ti offro il tuo divin Figliolo. Prendimi e disponi di me per la tua maggior gloria.
 
-| sprezzerò profondamente tutte le cose di quaggiù? Quando sarò del tutto distaccato da me stesso e da ogni cosa?
-Poichè se io fossi realmente libero da ogni attacco terreno, non avrei più una volontà mia: non gemerei più
-sotto il giogo delle passioni e degli affetti sregolati, nè
-cercherei più me stesso in niuna cosa. La mancanza di
-questo assoluto e totale distacco è il solo e vero ostacolo
+«O Signore, Tu mi spingi in modo pressante, costante al sacrificio sempre più generoso, totale. Sento il bisogno di dare, di darmi a te, di non riservarmi nulla. Voglio, dunque, rinnovarti la mia offerta perché Tu mi prenda tutta, perché mi trasformi, perché ti serva di me per la tua gloria, per la salvezza delle anime, perché ti degni di completare in me ciò che manca alla tua Passione, a vantaggio del tuo Corpo che è la Chiesa, contenta di trovare poi nella mia giornata tante occasioni pratiche di attuare questa offerta» *(cfr. Sr. Carmela d. Spirito S., o.c.d.)*.
 
-fra te e me, che m'impedisce di slanciarmi liberamente
-verso di te. Quando dunque sarò spoglio di tutto? Quando mi abbandonerò senza riserva alcuna alla tua divina
-volontà? Quando ti servirò con spirito puro, umile, calmo, sereno? Quando ti amerò perfettamente? Quando |
-
-mia anima, ricevendoti nel suo seno, si unirà deliziosamente al suo Diletto? Quando mi slancerò verso di te con
-tenero ed ardente desiderio? Quando la mia negligenza ©
-le mie imperfezioni saranno assorbite nell'immensità del
-tuo amore? Oh! Dio mio, vita mia, amor mio, mio unico
-desiderio! Tesoro mio! mio Bene! mio pi pio e mia fine! La mia anima sospira il tuo tenero amplesso, languisce
-e vien meno per il desiderio di unirsi a te, di essere stretta intimamente a te con il legame dolce e santo di un
-indissolubile amore! Che cosa cerco io nei cieli? Che cosa
-desidero sulla terra? Il Dio del mio cuore, il Dio che sa-
+«O Signore, la preghiera e il sacrificio formano tutta la mia forza, sono le mie armi invincibili e so per esperienza che, più delle parole, possono muovere i cuori» *(T.B.G. St.* 10).

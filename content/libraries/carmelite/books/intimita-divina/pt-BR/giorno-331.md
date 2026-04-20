@@ -1,49 +1,49 @@
-## 331 — OS PROGRESSOS NO APOSTOLADO
+## 331 — A ORAÇÃO APOSTÓLICA
 
 ### Presença de Deus
 
-Ó Senhor, une-me a ti e a força da tua caridade acenda em meu coração a verdadeira chama apostólica.
+Aceita, Senhor, minha pobre oração pelo advento do teu reino.
 
 ### Meditação
 
-O amor produz uma chama, e a chama do amor é o zelo; se o fogo arde intensamente, também a chama que produz é devoradora, intensa.
+1. — Desde que Jesus morreu por nós na cruz, a redenção da humanidade é objetivamente um fato consumado; todo homem que vem ao mundo já é um redimido, no sentido de que o preciosíssimo Sangue de Jesus já lhe mereceu todas as graças necessárias para sua salvação e também para sua santificação.
 
-O verdadeiro zelo apostólico é o resultado espontâneo, o fruto normal, do contato íntimo da alma com Deus por meio do amor. Quanto mais uma alma se une a Deus por amor, tanto mais é envolvida na chama de sua caridade; por isso participa do seu amor infinito pelos homens, do seu zelo eterno pela salvação deles, de modo que se torna necessariamente apostólica.
+O que resta a fazer não é outra coisa senão a aplicação dessas graças às almas individuais; é justamente aqui que Deus quer nossa colaboração, e a quer de tal modo que estabeleceu fazer depender a concessão de certas graças necessárias para nossa e alheia salvação precisamente de nossas orações.
 
-Dizer que não se possa ser apóstolo antes de ser assim intimamente tomado pelo amor divino seria exagero. Mas é claro que à plenitude do apostolado, e portanto da fecundidade apostólica, não se chega sem essa chama interior que nasce justamente da união com Deus.
+Em outras palavras, pelos méritos de Jesus, a graça, a misericórdia infinita de Deus está pronta a derramar-se abundantemente sobre os homens, mas não se derrama se não houver quem levante as mãos suplicantes ao céu para invocá-la. Enquanto a oração não sobe ao trono do Altíssimo, a graça não é concedida.
 
-Enquanto não se chega aí, é preciso considerar-se principiante no apostolado, semelhante a aprendizes que se aplicam ora a este, ora àquele trabalho, sem ainda serem sustentados e levados pela inspiração pessoal.
+Isso explica a necessidade absoluta da oração apostólica e sua grande eficácia. «Certos demônios não se expulsam senão com oração e jejum» (Mt. 17, 20), disse Jesus. A oração é insubstituível porque vai buscar a graça diretamente na sua fonte, que é Deus.
 
-Sendo principiantes, é preciso comportar-se como tais: agir com cautela, dedicar-se ao apostolado com prudência e medida, justamente porque, não tendo ainda alcançado aquela maturidade espiritual da qual espontaneamente irrompe a chama do zelo, não se possuem ainda aqueles recursos de graça que servem para defender a alma dos perigos de uma atividade externa demasiadamente intensa e que, ao mesmo tempo, têm força de tornar fecundo todo o seu trabalho.
+Nossa atividade, nossas palavras, nossas obras podem dispor o terreno para a graça, mas se não se reza, ela não descerá para irrigar as almas.
 
-«Aqui a alma — afirma Santa Teresa de Jesus — ainda não está formada: é como uma criança que começa a mamar, a qual, se se afasta do seio da mãe, não pode esperar senão a morte. Se se afasta da oração sem urgente necessidade e não volta logo a ela, temo grandemente que acabe como a criança, indo de mal a pior» (*Castelo Interior* IV, 3, 10).
+À luz dessas verdades podemos avaliar melhor o alcance das insistentes exortações de Jesus à oração: «É preciso rezar sempre sem nunca cansar... Pedi e vos será dado; buscai e encontrareis; batei e vos será aberto» (Lc. 18, 1; 11, 9).
 
-Notemos que a Santa não fala aqui de almas que estão dando os primeiros passos na vida interior, mas daquelas que, já tendo chegado à oração de quietude, podem ser chamadas proficientes; e, no entanto, não é exagerado afirmar que, em relação ao apostolado, ainda são principiantes.
+Não podemos ter certeza de que todas as nossas orações serão atendidas, porque não sabemos se aquilo que pedimos é conforme ao querer divino; mas quando se trata da oração apostólica, que solicita a graça e a salvação das almas, a coisa é bem diversa.
 
-2 — Santa Teresa de Jesus apresenta-nos a alma no momento em que — como consequência da caridade que a une a Deus — nela nasce a chama interior do apostolado.
+Com efeito, quando rezamos para os fins do apostolado, inserimo-nos naquele plano que o próprio Deus, desde a eternidade, predispôs para a salvação de todos os homens, plano que, infinitamente mais do que nós, Deus deseja realizar; e por isso não podemos duvidar do resultado da nossa oração. Justamente por essa eficácia, a oração apostólica constitui um dos mais poderosos meios de apostolado.
 
-Trata-se de uma alma tornada, pelo abandono e pelo amor, tão submissa à vontade de Deus «que não sabe nem quer outra coisa senão que Ele faça dela tudo o que quiser»; e Deus, que «a retém toda para si... marca-a com seu selo», infundindo-lhe vivíssima dor pelos pecados dos homens e ardente desejo de imolar-se por sua salvação.
+2. — Se Deus quis subordinar a distribuição da graça no mundo à oração dos homens e se hoje os homens rezam tão pouco, aliás muitíssimos — talvez a maioria — não rezam de modo algum, é sumamente necessário que haja na Igreja almas totalmente consagradas à oração.
 
-Nessa alma a caridade cresceu a tal ponto que a torna capaz de renunciar efetivamente à própria vontade para conformar-se em tudo à vontade divina. Também diante de casos difíceis e imprevistos, que exigem grande espírito de sacrifício, ela sabe pôr de lado toda repugnância e ressentimento da natureza, toda visão e desejo pessoal, para aderir ao querer divino, quer este se apresente sob o aspecto dos deveres cotidianos, quer pela voz externa da obediência, quer pela voz interior do Espírito Santo, bem como pelas circunstâncias da vida.
+Mediante uma vida de contínua oração, de adoração e de louvor incessante ao Altíssimo, tais almas suprem a negligência e o descuido de muitos e assim restabelecem no mundo o equilíbrio entre os direitos de Deus e os deveres dos homens, entre a ação e a contemplação.
 
-É, portanto, uma alma verdadeiramente unida a Deus por amor, verdadeiramente entregue a Ele; e Deus a toma e a lança ao serviço da Igreja e das almas, querendo valer-se dela para realizar seu plano de salvação e santificação da humanidade.
+Rezando e implorando por todos, elas são, no Corpo místico de Cristo, os órgãos escondidos, mas preciosos, que têm a tarefa de fazer fluir a seiva divina da graça em todos os membros; são na Igreja «centrais» de energias sobrenaturais, energias derivadas e acumuladas por meio da oração e por meio dela difundidas até os extremos confins da terra.
 
-Assim despertam na alma imensos desejos de apostolado, em nada comparáveis aos que podia nutrir anteriormente: ela sente que já não se pertence, que sua vida está necessariamente ligada à do divino Redentor e que, à imitação dele, deve dedicá-la e consumi-la toda no serviço das almas.
+Como a oração de Moisés foi o segredo e a garantia da vitória de Israel, assim a oração dos contemplativos e das contemplativas é segredo e garantia de vitória para aqueles que lutam no mundo. «Meus irmãos trabalham por mim — exclama Santa Teresinha do Menino Jesus — enquanto eu fico pertíssimo do trono real e oramos por aqueles que combatem»; oramos, isto é, rezamos, sofremos e oferecemos por eles.
 
-Também aqueles que vivem aparentemente mais isolados do mundo e do contato externo dos homens — as claustrais em sua clausura, os contemplativos em seus ermos ou desertos — ao chegar a esse estado tornam-se eminentemente apostólicos, e toda sua vida de oração e sacrifício se orienta para um único ideal: reparar os pecados da humanidade, salvar as almas.
+A incessante oração que os contemplativos elevam a Deus em nome de toda a cristandade não dispensa, porém, os outros fiéis de cumprir pessoalmente este grande dever. Sobretudo aqueles que se dedicam ao apostolado externo devem, na sua vida, dar lugar suficiente à oração.
 
-Enquanto os contemplativos extravasam esse zelo apostólico redobrando sua imolação escondida, os ativos, dedicados às obras externas, encontram na chama interior, que irrompe de sua união com Deus, o impulso, a força, o sustentáculo e a fecundidade do seu apostolado.
+Mas infelizmente muitas vezes confiamos mais no nosso trabalho, em nossas técnicas e métodos do que na oração; cremos pouco demais na sua eficácia, cremos pouco demais no auxílio que Deus certamente concede a quem o invoca de coração e por isso temos por quase perdido o tempo empregado na oração.
 
-Mais uma vez é preciso concluir que o caminho para chegar ao máximo rendimento apostólico é o caminho solitário e silencioso da união com Deus.
+Erro fundamental derivado de falta de fé e de humildade, erro que explica a esterilidade de tantas obras. «Aqueles que são muito ativos — admoesta São João da Cruz — e pensam abraçar todo o mundo com suas pregações e obras exteriores, reflitam bem que trariam muito mais proveito à Igreja e seriam muito mais agradáveis a Deus, mesmo abstraindo do bom exemplo que dariam, se gastassem ao menos metade desse tempo em estar com Deus em oração» (Cântico 29).
 
 ### Colóquio
 
-«Meu Deus, quanto fervor e quanta força na caridade de uma alma que está unida a ti por amor! Aqueles que são assim tomados por ti não podem limitar-se ao proveito pessoal, nem contentar-se com isso; mas, como lhes parece pouco irem sozinhos para o céu, com solicitude e afeto todo celeste e com diligências primorosas esforçam-se por conduzir consigo muitos outros. Faze, ó Senhor, que esse seja o efeito do meu amor por ti!»
+«Ó Pai eterno, quero oferecer-te aquele Sangue que teu Verbo derramou com tão abissal amor e fogo de caridade pela salvação dos homens.
 
-«Ó Senhor, de uma alma já resolvida a amar-te e toda entregue em tuas mãos, Tu não queres outra coisa senão que deseje e procure, quanto puder, contribuir para tua maior glória.
+«Ó Verbo, ofereço-te as infinitas gotas de Sangue que derramaste com tanta abundância quando foste açoitado à coluna; e como Tu o derramaste de todos os teus membros, assim eu te ofereço por todos os membros da santa Igreja, da qual Tu és a cabeça. Ofereço-o para que teus sacerdotes voltem a ser a luz do mundo; para que tuas virgens não estejam no número das néscias; para que os infiéis e os hereges retornem ao redil de Deus; para que todas as almas se salvem.
 
-«Oh, a caridade daqueles que te amam verdadeiramente! Que repouso poderiam ter se vissem poder contribuir, ainda que pouco, para que uma alma avançasse e te amasse mais, ou ao menos para dar-lhe uma consolação e livrá-la de um perigo? Como se tornaria insuportável seu repouso pessoal!
+«Ó Verbo, quero falar contigo como Tu fizeste conosco. Em verdade, em verdade te digo, ó Verbo, que mil vezes sacrificaria a vida, se mil tivesse, para ajudar estas almas a salvarem-se. Não me quero apartar daqui enquanto não iluminares alguma delas. Mas não sou digna de ser atendida. Atende não a mim, que sou demasiado presunçosa, mas ao teu Sangue. Não podes faltar a ti mesmo; atende, atende, pois, ó Verbo, ao teu Sangue.
 
-«Ó Senhor, aflita pela ruína de tantas almas, se não posso ajudá-las com obras, quero importunar-te com a oração. Quero renunciar a todo meu contentamento e estimá-lo bem perdido; quero esquecer-me totalmente de mim para pensar somente no melhor modo de cumprir tua vontade.
+«Ó Pai eterno, aquele amor que te moveu a criar os homens, esse mesmo amor te mova a infundir neles tua luz. Bem sei que não deixas de infundi-la, mas eles não a recebem. E quem é a causa? Minha ingratidão. Sim, ó Deus, reconheço minha ingratidão, mas não a detesto inteiramente. Pune sobre mim tuas ofensas. Pune sobre mim suas culpas. Oh, miserável de mim, que sou causa de toda ingratidão e de todo mal!
 
-«Meu Deus, quanto mais o tempo passa, mais cresce em mim o desejo de contribuir para o bem de alguma alma. Muitas vezes me pareço com uma pessoa que possui grande tesouro e deseja repartir com todos, mas é impotente para distribuí-lo, porque tem as mãos atadas. Não podendo mais conter-me, elevo a ti a minha voz, suplicando que me forneças algum meio para cooperar na conquista de ao menos alguma alma para teu serviço» (cf. Santa Teresa de Jesus).
+«Se eu pudesse, tomaria todos os homens e os conduziria ao seio da tua santa Igreja, para que os purgasse de todas as infidelidades deles, os regenerasse como mãe a seus filhinhos e os nutrisse com o suave leite dos santíssimos sacramentos» (Santa Maria Madalena de' Pazzi).

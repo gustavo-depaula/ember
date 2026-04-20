@@ -1,122 +1,23 @@
-## 132 — LA CENA DI BETANIA
-*lunedì santo*
+## 56 — L'AMORE ALLA CROCE
 
-### Presenza di Dio
-
-— O Signore, prima che il tuo corpo venga sfigurato dalla Passione, desidero, con Maria di Betania, prestargli i miei umili e devoti omaggi.
+**Presenza di Dio.** — *Vengo ancora a te, mio Dio crocifisso, col desiderio di penetrare più profondamente nel mistero della Croce.*
 
 ### Meditazione
 
-1 — Ecco la scena commovente presentataci dal Vangelo della Messa odierna (Gv.12,1-9): «Sci giorni prima
-di Pasqua Gesù venne a Betania... e quivi gli fecero una
-cena; Marta serviva... Maria poi prese una libbra d'unguento di nardo di gran valore, e ne unse i piedi a Gesù
-e glieli asciugò coi suoi capelli ». Marta, come al solito,
-si affaccenda nel servizio; Maria invece si occupa solo di
-Gesù e, per rendergli omaggio, non le sembra. troppo
-spargere sulla sua Persona un intero vaso di unguento
-prezioso. Alcuni invitati mormorano: «Perchè questo
-sciupio? Non si sarebbe potuto vendere quell’unguento a
-pro dei poveri? » e fremono contro di lei (cfr. Mr. 14,4 €
-5); ma Maria non risponde, non si scusa e, tutta intenta
-al Maestro adorato, continua il suo gesto di devozione e
-di amore.
+**1** — La croce è la sofferenza veduta nella luce soprannaturale come strumento di salvezza e di santificazione, quindi come strumento di amore. Vista in questa luce la croce è certamente amabile: è il grande mezzo della nostra santificazione. La nostra unione con Dio non è realizzabile se non per mezzo della sofferenza. S. Giovanni della Croce ha dimostrato come l'anima deve essere purificata, *raschiata* sino in fondo per giungere fin da questa vita all'unione con Dio. Occorre un'opera di mortificazione totale per strappare tutti i nostri attacchi, perchè in noi ci sono molte resistenze che c'impediscono di essere totalmente mossi da Dio; e non è possibile che tutto questo si faccia senza la sofferenza. Ma non basta la *sofferenza attiva*, ossia non bastano quelle mortificazioni e penitenze che ci possiamo procurare di nostra iniziativa, ma occorre soprattutto la *sofferenza passiva*, ossia che il Signore stesso ci faccia soffrire e non solo nel corpo, ma anche nello spirito, appunto perchè siamo così *arrugginiti*, così pieni di miserie che la nostra totale purificazione non è possibile, se Dio stesso non interviene con la sua azione. Il metterci nella sofferenza passiva è, quindi, una delle più grandi opere della sua misericordia, una delle più grandi prove del suo amore: quando Dio agisce così in un'anima è segno che vuole portarla ad alta perfezione. È proprio in queste sofferenze passive purificatrici si realizza, in modo particolare, il concetto di croce. Nella *Fiamma d'amor viva* (II strofa) S. Giovanni della Croce si domanda perchè sono così poche le anime che arrivano alla pienezza della vita spirituale. E risponde: la ragione non è perchè Dio voglia riservare questo stato a qualche anima privilegiata, ma perchè Egli trova poche anime disposte ad accettare una profonda opera di purificazione, quindi cessa di purificarle e così le anime si condannano alla mediocrità, non camminano più, non vanno più avanti. È impossibile unirsi a Dio senza queste sofferenze spirituali, senza questo peso di Dio. Soltanto attraverso la sofferenza e la desolazione interiore si allargano le potenze dell'anima e questa diventa capace di abbracciare Dio stesso.
 
-Maria è il simbolo dell'anima innamorata di Dio che
-si dona esclusivamente a lui, consumando per lui tutto ciò
-che è, e tutto ciò che possiede; è il simbolo di quelle anime
-che lasciano, del tutto o in parte, l’attività esterna per
-dedicarsi maggiormente al servizio diretto di Dio, per
-darsi ad una vita di più intima unione con lui. E chi non
-comprende mormora, quasi fosse sprecato consumare per
-Iddio ciò che non si ritiene sprecato consumare per le
-opere. Se tutto quel che siamo e abbiamo è dono suo,
-sarà davvero uno sciupio usare i suoi doni per sacrificarli
-unicamente in suo onore, supplendo così all’indifferenza
+**2** — « O anime che desiderate di andar sicure e consolate nelle cose dello spirito! Se voi sapeste quanto vi è necessario soffrire per ottenere questa sicurezza! » (G.C. *F.* 2, 28). Tuttavia, la sofferenza è necessaria non solo per il bene dell'anima, ma anche perchè l'anima possa glorificare Dio e dimostrargli il suo amore; infatti non si tratta di raggiungere la perfezione per godere di essa — chè l'anima perfetta non pensa mai a sé — ma per dedicarsi totalmente alla gloria di Dio. Proprio in questo senso, sulla cima del *Monte di Perfezione* sta scritto: « solo l'onore e la gloria di Dio qui abitano ». Come la Croce di Gesù è stata il grande mezzo mediante il quale Egli ha dato al Padre quella gloria che l'uomo peccatore gli aveva negata, così deve essere della nostra croce: per mezzo della sofferenza dobbiamo espiare e riparare le colpe nostre e quelle altrui, per dare a Dio tutta la gloria che gli è dovuta.
 
+Di più, come la Croce di Gesù è stata la massima prova del suo amore per noi, così la nostra croce è la più bella prova del nostro amore per lui. Proprio nel fatto che il Figlio di Dio è venuto a morire per noi sulla croce, si rivela il suo infinito amore per noi; e così, nel fatto che per lui noi abbracciamo il patire, si dimostra la realtà del nostro amore per Iddio. La croce è quindi strumento ed opera di amore: è strumento e opera dell'amore di Dio verso di noi e del nostro amore verso Dio. Più Dio ci santifica e più ci dimostra il suo amore e ci dà modo di glorificarlo; ma Egli ci santifica proprio mediante la croce, la grande Croce di Gesù cui dobbiamo unire la nostra piccola croce. Quanto più il Signore, attraverso la sofferenza, ci dà modo di partecipare alla Passione di Cristo, tanto più ci santifica e quindi ci ama. Le sofferenze sono, dunque, anche in questo senso, una prova del suo amore verso di noi.
 
-di tante creature che non hanno neppure un pensiero
-per lui?
-
-Il denaro, il tempo; le forze e anche le vite umane che
-si consumano per il servizio diretto del Signore non sono
-valori sciupati, ma anzi, impegnati in ciò che vi può essere
-di più grande. L’elemosina ai poveri è un dovere, ma l’amore verso di Dio, il culto di Dio è un obbligo più grande
-ancora. E se urgenti doveri di carità esigono talvolta che si
-lasci il servizio di Dio per il servizio del prossimo, questo
-però. non deve farci capovolgere le posizioni: Dio deve
-sempre avere il primo posto.
-
-Del resto, Gesù stesso prende le difese di Maria; « Lasciatela stare; ella ha serbato questo profumo per il giorno
-della mia sepoltura ». In nome di tutte le anime amanti,
-Maria ha reso al corpo santissimo di Gesù, prima che fosse
-sfigurato dalla Passione, l’ultimo omaggio di un amore ardente e devoto.
-
-
-2 — Nel Vangelo di S. Giovanni è detto espressamente
-che le mormorazioni verso il gesto di Maria furono mosse
-da Giuda Iscariote. Accanto a quella di Maria, la fedelissima, la tetra figura del traditore ha un risalto ancor più
-tenebroso; materialmente egli fa ancora parte dei dodici,
-ma spiritualmente ne è già da tempo separato. Fin dall’anno
-precedente, quando il Maestro aveva annunziato l’Eucaristia, Giuda era perduto e, proprio alludendo a lui, Gesù
-aveva detto; « Non fui io a eleggere voi dodici? Eppure
-uno di voi è diavolo » (Gv. 6, 71). Sì, Giuda era stato scelto
-da Gesù con amore di predilezione, era stato ammesso fra i
-Sol intimi e, come gli altri undici, aveva ricevuto la
-
-rande grazia dell’apostolato. Da principio dovette essere
-‘edele, ma poi l’attacco ai beni terreni, la cupidigia per il
-denaro cominciò ad invaderlo sino a raffreddare completamente il suo amore per il Maestro, sino a trasformarlo da
-apostolo in traditore. Gesù, nella sua prescienza divina,
-aveva tutto previsto e tuttavia, poichè agli inizi Giuda era
-stato degno della sua fiducia, lo aveva ammesso ugual-
-
-
-mente nel collegio apostolico e, anche dopo, quando aveva
-già cominciato a prevaricare, continuò a trattarlo come gli
-altri, dimostrandogli lo stesso amore, la stessa stima. Situazione assai penosa per il Cuore sensibilissimo di Gesù, ma
-Egli non ha voluto evitarla per insegnarci con quanto amore, con quanta pazienza e delicatezza vanno trattati anche i
-più ostinati nemici. Quante volte il Maestro avrà cercato
-d'illuminare quella mente ottenebrata! E certamente avrà
-ensato in modo speciale a Giuda quando impartiva i suoi
-insegnamenti sul distacco dai beni terreni: « Non potete
-servir Dio e Mammona... Che giova mai all’uomo guadagnare tutto il mondo se poi perde l’anima? » (Mt. 6, 24; 16,
-26); e tuttavia queste parole, che dovevano avere per il
-traditore il significato di un richiamo amoroso, non riuscirono a scuoterlo. Giuda rappresenta quelle anime che
-hanno avuto da Dio grazie di predilezione, ma che per
-la loro infedeltà se ne sono rese indegne. Anima consacrata, almeno tu sii fedele alla tua vocazione e, per mantenerti tale, non permettere che il più piccolo attacco
-alligni nel tuo cuore!
+Se si capisce tutto ciò come si amerebbe la croce!
 
 ### Colloquio
 
-Ecco, o Signore, due vie, le più opposte e contrastanti :
-la via della fedeltà, la via del tradimento; la fedeltà amorosa di Maria di Betania, il tradimento orribile di Giuda.
-Come vorrei, o Signore, avere per te il cuore di Maria;
-come vorrei che in me fosse interamente morto e distrutto
-il traditore! Ma tu mi dici: « Vegliate e pregate per non
-cadere in tentazione! » (Mr. 14, 38). Oh, quanto mi è necessario vegliare e pregare, affinchè il nemico non venga a
-seminare nel mio cuore il germe velenoso del tradimento!
-Che io ti sia fedele, Signore, fedele ad ogni costo, fedele
-nelle cose grandi ma anche nelle piccole cose, sì che le volpi
-celle dei piccoli attacchi non possano entrare ad invadere
-e a devastare la vigna del mio cuore.
+« O Signore, la via della croce è quella che Tu riservi ai tuoi diletti: più li ami e più li carichi di travagli... poichè Tu ammetti alla tua intimità solo anime amanti dei patimenti. Se tu mi domandassi quale preferisco di queste due cose: rimanere sulla terra sino alla fine del mondo, in mezzo ad ogni sorta di travagli, e poi salire al cielo con un po' di gloria di più; oppure andar subito al cielo senza la sofferenza, ma con un grado di gloria di meno, accetterei volentieri tutti i tormenti del mondo, pur di avere in più quel po' di gloria che mi permette di meglio comprenderti. Vedo, infatti, o Signore, che chi meglio ti comprende, meglio ti ama e meglio ti loda.
 
-«Gesù Signore, se io voglio meditare piamente la tua
+« No, non voglio far mal caso di pene che finiscono, quando interviene il tuo servizio, quando si tratta di onorarti, te, che hai tanto patito per noi.
 
+« Se voglio sapere, Dio mio, come ti comporti con chi ti prega sinceramente di compiere in lui la tua volontà, devo domandarlo al tuo glorioso Figliolo che nell'orto degli olivi ti ha rivolto questa preghiera... Tu hai compiuto in lui la tua volontà con inondarlo di patimenti, d'ingiurie, di persecuzioni, lasciandolo morire infine sopra un tronco di croce. Ecco quello che hai dato a Colui che amavi di più. Finchè siamo quaggiù questi sono i tuoi doni. Ce li dai a seconda dell'amore che ci porti: ne dai di più a chi ami di più, e meno a chi ami di meno. Altra regola è il coraggio che vedi in noi e l'amore che ti portiamo, perchè se ti amiamo molto, saremo anche capaci di soffrir molto, ma poco invece se pure poco ti amiamo » (T.G. *Cam.* 18, 1 e 2; *Vi.* 37, 2; *Cam.* 3, 6; 32, 6 e 7).
 
-Passione, prima a venirmi sott'occhio è la erfidia del traditore. Egli fu ripieno di tanto veleno di frode, da tradire
-te, suo Maestro e Signore; acceso da tale fiamma di cupidigia che vendette per argento te, ottimo Dio, per vile moneta il tuo Sangue preziosissimo; e fu di tanta ingratitudine da perseguitare a morte chi l'aveva inalzato al grado
-eccelso di apostolo O Gesù, quanto fu eccessiva la tua
-bontà verso il duro discepolo! Sebbene l’empietà del traditore fu tanto grande, son colpito infinitamente più dalla
-dolcissima mitezza tua, o Agnello di Dio! E questa mitezza
-è data a noi a modello. Ecco qui, o Signore, l'uomo che Tu
-avevi ammesso a confidenze uniche, l’uomo che sembrava
-tanto unito a te, tuo Apostolo, tuo intimo; l’uomo che assaggiò il tuo pane, l’uomo che alla santa cena mangiò con
-te le dolci bevande... e quest'uomo ha levato su di te, suo
-Maestro e suo Dio, il colpo dell’iniquità. E nonostante...
-Tu, mitissimo Agnello, non hai dubitato' darti alla maliziosissima bocca, alla bocca che, nell'ora del tradimento, ti
-baciò. Tutto gli hai dato come agli altri Apostoli, per
-dargli ognî cosa che avesse ra ammansire la pertinacia
-di un cuore cattivo » (cfr. S. Bonaventura).
-
-O Gesù, per la sofferenza atroce che il tradimento infame ha inflitto al tuo Cuore, concedimi te ne supplico, la
-grazia di una fedeltà integra, totale, amorosa, devota.
+O mio Dio, accresci dunque il mio amore, dilata il mio povero cuore e rendilo capace di molto patire per te. Sì, di buona voglia voglio accettare il patire per attestarti la realtà del mio amore.

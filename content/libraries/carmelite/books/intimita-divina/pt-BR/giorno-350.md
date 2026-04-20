@@ -1,63 +1,19 @@
-## 350 — AMOR HUMILDE E REVERENTE
+## 28 — O ESPÍRITO SANTO E O APOSTOLADO
 
-### Presença de Deus
-
-Ó Deus, que és tão grande, digna-te elevar até ti minha alma tão pequena e miserável.
+**Presença de Deus.** — *Ó Espírito Santo, invade a minha alma e transforma-me em instrumento eleito para a glória de Deus e a salvação das almas.*
 
 ### Meditação
 
-1 — O amor que impele audazmente a alma à conquista da união divina é, ao mesmo tempo, cheio de reverência e respeito, porque muito mais do que antes a alma intui quão sublime e excelsa é a Majestade de Deus.
+**1** — O coração do apostolado é o amor. Santa Teresa do Menino Jesus compreendeu-o muito bem quando, depois de passar em revista todas as vocações possíveis, reconhecendo que ainda não eram suficientes para satisfazer seus imensos desejos apostólicos, concluía: "Enfim encontrei minha vocação! *Minha vocação é o amor!*... No coração da Igreja, que é minha mãe, *eu serei o amor! Assim serei tudo*" *(St.* 11). Mas onde haurir uma caridade tão plena e fecunda? Não devemos esquecer que a fonte principal da caridade é o Espírito Santo, termo pessoal do amor do Pai e do Filho, sopro eterno do amor mútuo de ambos. Esse Espírito Santo nos foi "dado", é "nosso", habita em nossos corações justamente para neles derramar aquela caridade sobrenatural que nos faz arder de amor a Deus e às almas: "O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado" *(Rom.* 5, 5). Comunicando aos homens a chama da divina caridade, associando-os ao seu amor infinito, o Espírito Santo é o secreto animador e sustentador de todo apostolado; "Ele - ensina Pio XII - com seu sopro celeste de vida, é o princípio de toda ação vital e eficazmente salutar... no Corpo místico de Cristo" *(Myst. Corp.)*. Ele é a alma da Igreja. Queremos ser apóstolos? Abramos, escancaremos nossos corações às efusões do Espírito Santo, para que sua caridade nos invada e penetre a ponto de absorver em si nosso pobre amor. Quando o amor de uma alma se une à "chama de amor viva", que é o Espírito Santo, até "tornar-se uma só coisa com ela" (cf. *G.C.F.* 1, 3), então torna-se amor vivificante no coração da Igreja; só assim é possível a realização do grande ideal: "no coração da Igreja, eu serei o amor! Assim serei tudo". Para chegar a esse cume supremo do amor e do apostolado, é preciso, dia após dia, momento após momento, corresponder aos impulsos do Espírito Santo, abrir-se docilmente à sua ação, deixar-se dirigir e governar por Ele. É preciso sobretudo conformar-se ao movimento da sua caridade infinita que, com plenitude total, se lança ao Pai e ao Filho e se derrama depois sobre as almas para arrastá-las todas à Trindade bem-aventurada.
 
-Se, de um lado, o amor a torna impaciente de unir-se a Ele, de outro, a contínua e clara consciência de sua miséria a torna mais do que nunca solícita em vigiar-se atentamente para que em sua conduta nada haja que possa desagradar a tão excelsa Majestade.
+**2** — O apostolado inaugurou-se na Igreja no dia de Pentecostes, quando os Apóstolos, "cheios do Espírito Santo, começaram a falar em várias línguas, conforme o Espírito lhes concedia que se exprimissem" *(At.* 2, 4). Antes disso, os doze eram pobres homens, obtusos, fracos, cheios de medo. Mas eis que o Espírito Santo se apossa deles e os transforma em homens de fogo, prontos a dar a vida para testemunhar o Senhor.
 
-«A alma — diz o Doutor místico — logo vê em si uma verdadeira e eficaz determinação de não fazer o que entende ser ofensa de Deus, nem omitir coisa alguma que diga respeito ao seu serviço.... Nutre um pensamento muito vigilante e solícito sobre o que deve fazer ou deixar, para agradar ao Senhor, examinando e perscrutando mil vezes a si mesma para ver se porventura de algum modo O ofendeu.»
-
-Evidentemente trata-se aqui de coisa bem superior à simples fuga do pecado: trata-se da resolução firme de fugir de qualquer imperfeição, omissão ou descuido advertido.
-
-E, porque a alma sabe por experiência que, apesar de toda boa vontade, muitas dessas faltas ainda poderão escapar-lhe por desatenção ou fragilidade, quer intensificar sua vigilância para evitar, quanto possível, também essas.
-
-É solicitude que deriva do amor, não do escrúpulo; verdadeira solicitude amorosa semelhante à que fazia Santa Teresa Margarida do Coração de Jesus repetir continuamente: «Agora, nesta ação, que faço? Amo o meu Deus?»
-
-Ou semelhante à que a Beata Ângela de Foligno exprimia na expressão inflamada: «Vê, Senhor, se em mim há outra coisa que não seja amor!»
-
-Se queres um sinal seguro do teu amor por Deus, vê quão firme és no propósito de fugir de toda mínima coisa que Lhe desagrade.
-
-Deve ser propósito tão enraizado em tua vontade que não só te esteja continuamente presente — como as coisas que de fato te importam — mas também seja eficaz para conter-te de toda imperfeição, tão logo a percebas.
-
-Isso é absolutamente indispensável porque, como ensina São João da Cruz, «para que a alma venha a unir-se perfeitamente com Deus por vontade e amor, requer-se que não consinta com conhecimento e advertência em imperfeição alguma, e que tenha também poder e liberdade de não consentir nela quando a adverte.»
-
-2 — O conhecimento da própria baixeza mantém a alma humilde no seu amor, afastando dela toda presunção.
-
-Muito longe de contar com seus méritos e boas obras, vê claramente que, por mais que faça, tudo é nada em comparação com a excelsa majestade de Deus; «em consequência, reputa-se inútil em tudo o que faz, e parece-lhe viver em vão.»
-
-As palavras do Evangelho «somos servos inúteis» (Lc 17,10) são para ela de viva atualidade e exprimem muito bem seu estado de alma habitual.
-
-É demasiada a luz que o Espírito Santo lhe infunde para cair em ilusão sobre seu valor ou envaidecer-se de suas obras. Pelo contrário, «com grande persuasão julga-se pior que todos: primeiro, porque o amor lhe ensina o que Deus merece; segundo, porque sendo muitas as obras que faz em seu serviço e conhecendo-as defeituosas e imperfeitas, de todas tira suma confusão e pena, e compreende que seu baixo modo de proceder é demasiado indigno de tão alto Senhor.»
-
-É belo considerar como essa profunda humildade não é só fruto de luz, mas também de amor: o amor faz-lhe apreciar tanto a Deus que, mesmo desejando com ardor possuí-lo, está profundamente persuadida de ser totalmente incapaz de alcançá-lo.
-
-Por outro lado, embora humilde e reverente, o amor mantém sua audácia característica e a alma não cessa de aspirar à união divina.
-
-Nesse sentido Santa Teresinha escrevia: «Apesar de minha extrema fraqueza, ouso fixar o Sol divino, o Sol do Amor.»
-
-A Santa, que com toda simplicidade se compara a um passarinho recém-nascido incapaz de voar, vê bem que sozinha jamais poderá elevar-se tão alto e, no entanto, não perde a esperança.
-
-Se não pode contar com suas forças, sabe que pode contar com o amor de Jesus, Verbo divino, que se encarnou justamente para vir buscar-nos, pobres pecadores, que pôde sofrer e morrer para atrair as almas «ao centro da eterna Lareira da Trindade bem-aventurada».
-
-Ela está certa de que um dia Jesus se comoverá de sua fraqueza e descerá sobre ela para fazê-la «presa» de seu amor: «Um dia, eu o espero, Tu virás buscar teu passarinho e, subindo com ele à Lareira do Amor, o mergulharás, por toda a eternidade, no eterno Abismo desse Amor.»
-
-Sim, Jesus está pronto para vir ao encontro de todas as almas de boa vontade, está pronto para vir ao encontro também da tua alma para elevá-la à desejada união; mas quer que saibas esperá-lo com fidelidade na dedicação generosa e plena ao seu serviço.
+Como então, assim hoje o Espírito Santo pode renovar o grande milagre; como então, também hoje pode - antes, quer - tomar pobres homens, mulheres fracas e transformá-los em apóstolos ardentes. Qual é a condição que Ele requer? Uma docilidade tão fina, tão delicada, que se torne plena *disponibilidade* diante da sua presença operante, de seus impulsos, de suas iniciativas. Isso exige no apóstolo um verdadeiro senso de sua dependência do divino Paráclito, senso que deve traduzir-se na prática em diligente cuidado de manter-se, mesmo em meio à atividade, em contínuo contato com Ele, sempre atento às suas inspirações e pronto a segui-las. Como o vento, o Espírito Santo "sopra onde quer e ouves sua voz, mas não sabes de onde vem nem para onde vai" *(Jo.* 3, 8); sua inspiração pode surpreender-nos no meio da atividade não menos que na oração; é preciso, portanto, aprender a tratar interiormente com Ele mesmo quando, exteriormente, se trata com as criaturas. Essa atitude é particularmente necessária nos contatos diretos com as almas; então, mais que nunca, o apóstolo deve invocar o Espírito Santo, manter-se sob seu influxo, deixar-se guiar por Ele. As almas são de Deus e é preciso dirigi-las não segundo o espírito próprio, mas segundo o Espírito de Deus. A plena disponibilidade exige grande fé, grande confiança na ação onipotente e transformante do Espírito Santo; só assim o apóstolo terá coragem de deixar-se usar para qualquer obra, embora se reconheça inepto para ela; só assim terá coragem de enfrentar com generosidade qualquer sacrifício, embora sentindo toda sua fraqueza. O Espírito Santo não vos foi dado em vão; Ele está em nós e, contanto que nos demos totalmente a Ele, pode transformar-nos em "instrumentos eleitos" para a glória de Deus e para a salvação das almas.
 
 ### Colóquio
 
-«Ó Verbo divino, és Tu a Águia adorada que eu amo e que me atrai. És Tu que, lançando-te para a terra de exílio, quiseste sofrer e morrer para atrair as almas ao centro da eterna Lareira da Trindade bem-aventurada.
+"Ó Jesus, eu gostaria de iluminar as almas como os profetas e os doutores. Gostaria de percorrer a terra pregando teu Nome e plantando no solo infiel tua Cruz gloriosa, ó Bem-Amado! Mas uma só missão não me bastaria: gostaria, ao mesmo tempo, de anunciar o Evangelho em todas as partes do mundo e até nas ilhas mais remotas. Gostaria de ser missionário, não somente durante alguns anos, mas de tê-lo sido desde a criação do mundo e continuar a sê-lo até a consumação dos séculos.
 
-«És Tu que, subindo para a Luz inacessível que doravante será tua morada, permaneces ainda no vale das lágrimas, escondido sob a aparência de uma hóstia branca... Águia eterna, Tu queres nutrir de tua substância divina a mim, pobre e pequeno ser, que voltaria ao nada se teu olhar divino não me desse vida a cada instante....
+"Mas compreendo que todos não podem ser ao mesmo tempo apóstolos, profetas e doutores; compreendo que os dons mais perfeitos são um nada sem o amor, que a caridade é o melhor caminho para chegar a ti, meu Deus! É a caridade que me dá a chave da minha vocação. Compreendo que, se a Igreja tem um corpo composto de vários membros, não lhe falta o órgão mais necessário e de todos o mais nobre; compreendo que ela tem um coração e que este coração arde de amor; compreendo que só o amor faz agir seus membros e que, se o amor viesse a extinguir-se, os apóstolos nunca mais anunciariam o Evangelho e os mártires recusariam derramar seu sangue. Compreendo ainda que o amor encerra em si todas as vocações, que o amor é tudo e abrange todos os tempos e todos os lugares, porque ele é eterno!
 
-«Ó Jesus, deixa que no excesso de minha gratidão eu te diga como teu amor vai até à loucura! E como queres que diante dessa loucura meu coração não se lance para ti? Como poderia minha confiança ter limites?
-
-«Por ti, eu o sei, também os santos cometeram loucuras, fizeram grandes coisas, porque eram águias.... Eu sou pequena demais para fazer grandes coisas e minha loucura consiste em esperar que teu amor me aceite como vítima....
-
-«Espera quanto quiseres, ó meu Dileto; teu pequeno passarinho ficará sem forças e sem asas, sempre com os olhos fixos em ti: quer ser fascinado por teu olhar divino, quer tornar-se presa do teu amor.
-
-«Um dia, eu o espero, Águia adorada, Tu virás buscar teu passarinho e, subindo com ele à Lareira do Amor, o mergulharás pela eternidade no eterno abismo desse Amor ao qual ele se ofereceu vítima» (Santa Teresinha do Menino Jesus).
+"Ó Jesus, meu Amor, enfim encontrei minha vocação! Minha vocação é o amor! Sim, encontrei meu lugar no seio da Igreja e esse lugar, ó meu Deus, me foi designado por ti; no coração da Igreja, que é minha Mãe, eu serei o amor!... Assim serei tudo; assim meu sonho se realizará" *(T.B.G. St.* 11).

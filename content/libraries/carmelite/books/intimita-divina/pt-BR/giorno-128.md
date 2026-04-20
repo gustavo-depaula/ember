@@ -1,116 +1,123 @@
-## 128 — SOFRIMENTO E ABANDONO
+## 120 — LIVRE IMOLAÇÃO DA LIBERDADE
 
 ### Presença de Deus
 
-— Ó Senhor, ensina-me a sofrer com simplicidade, sem inúteis retornos sobre mim mesmo, mas abandonando-me ao teu querer divino.
-
 ### Meditação
 
-1 — O segredo para aprender a sofrer virtuosamente
-está em grande parte em esquecer-se e abandonar-se; esquecer-se de si e da própria dor e abandonar-se a Deus.
+1 — O voto de obediência foi otimamente definido como
+"a livre imolação da liberdade" (Pio XII, Congr.
+Relig. dez. 1950). Esta definição põe em evidência o
+conceito de imolação livre, e isso, muito mais que uma
+passividade inerte, faz pensar numa intensa e nobre atividade
+que consiste na renúncia voluntária do próprio querer,
+para submeter-se voluntariamente à vontade de Deus,
+expressa nas ordens dos superiores. Estamos, portanto, bem
+longe do conceito de uma obediência mecânica, material,
+ou então forçada, sofrida necessariamente, pela qual
+o homem age como uma máquina ou como um servo que
+se submete ao patrão só porque não pode fazer de outro
+modo. Aqui há somente o nome e a aparência externa da obediência,
+mas na realidade falta-lhe o conteúdo interior:
+o ato formal, que consiste precisamente na renúncia livre e portanto consciente da própria vontade, para
+aderir à vontade de Deus manifestada pelas ordens do
+superior. Somente em virtude desse duplo elemento:
+livre renúncia de si e livre adesão à vontade divina,
+a obediência é um perfeito holocausto, tão agradável e precioso aos olhos de Deus, a ponto de valer "muito mais
+que as vítimas" (1 Sm. 15, 22). Se falta esse
+duplo elemento interior, o ato externo de obediência
+poderá bastar para não faltar ao voto ou à
+promessa feita, mas perde seu profundo valor e jamais será meio para desprender o homem de sua vontade e
+lançá-lo na vontade de Deus.
 
-Quem se dobra sobre os próprios sofrimentos, concentrando
-sobre eles a própria atenção, torna-se incapaz de suportá-los com serenidade e coragem. "A cada dia
-basta o seu afã" (Mt. 6, 34), disse Jesus;
-industriemo-nos, pois, em suportar em paz, dia após dia,
-momento por momento, aquelas penas e aflições que Deus põe em
-nosso caminho, sem pensar em quanto sofremos
-ontem, sem preocupar-nos com quanto sofreremos amanhã.
-Mesmo quando o sofrimento é intenso, não o superestimemos,
-não lhe demos demasiada importância, não nos deixemos tomar
-por aquela tendência um pouco mórbida de acariciar nosso
-sofrer, de deter-nos a contemplá-lo, analisá-lo
-e pesá-lo em todos os seus aspectos. Desse modo viríamos a paralisar nosso espírito de sacrifício, nossa
-capacidade de aceitação e de ação, tornando-nos muitas vezes inúteis para nós
-mesmos e para os outros. Quem é demasiado sensível e demasiado ocupado
-com os próprios sofrimentos torna-se muitas vezes insensível e indiferente aos sofrimentos alheios.
+Quando te contentas com uma obediência material, forçada, não cumpres o ato interno de renúncia de ti mesmo; ainda
+que exteriormente te conformes à ordem recebida,
+interiormente, porém, reservas tua vontade; não podes
+portanto dizer que realizaste a imolação da liberdade
+nem tampouco que abraçaste livremente a vontade
+divina. Uma semelhante obediência é um contrassenso para
+uma alma que aspira à união com Deus; é pretender
+chegar ao fim sem usar os meios, é trocar a
+moeda preciosa da verdadeira obediência por uma vil moeda de estanho. S. Teresa de Jesus ensina: "a obediência
+é o caminho mais breve e o meio mais eficaz para chegar
+ao felicíssimo estado da união com Deus" (Fd. 5, 11); trata-
+se unicamente, porém, daquela obediência que é "livre imolação da liberdade", para não querer outra
+liberdade senão a de fazer a vontade de Deus.
 
-Para reagir contra essas tendências do egoísmo,
-justamente definidas como "o caruncho da aflição cristã" (Pe. Faber), é preciso esquecer-se, é preciso sair de
-si mesmo e do círculo dos próprios sofrimentos e ocupar-se, ao contrário, dos alheios, industriando-se em aliviá-los. Este
-é um meio eficacíssimo para reencontrar, nos momentos
-de desânimo, a força de levar as próprias cruzes.
+2 — Uma "livre imolação" exige sempre consciência,
+consciência por parte de quem a cumpre; assim deve ser
+do ato de obediência. Se fizeste o voto ou a promessa de obediência, deves procurar manter sempre
+vivo em ti o senso de responsabilidade pelo compromisso assumido.
 
-É preciso pensar sempre - como é verdade - que não estamos
-nunca sozinhos a sofrer, que se nossos sofrimentos são grandes,
-nunca falta quem tenha maiores; é preciso pensar que
-nossas penas são uma gota em comparação com o mar de
-dores em que navega a humanidade e são quase nada
-em comparação com a Paixão de Jesus.
+Ao pronunciares tua profissão, quiseste oferecer tua
+vontade em holocausto ao Senhor, para deixares-te guiar
+por quem o representa; por isso, diante das várias ordens
+da obediência - e sobretudo diante daquelas que
+mais contrastam com tuas vistas ou que por qualquer
+motivo te são mais gravosas - deves vigiar para que não
+te aconteça retomares, na prática, aquilo que ofereceste
+com voto, o que seria cometer uma rapina no holocausto. Tua vontade já foi consagrada,
+sacrificada no altar do Senhor; não é mais tua,
+portanto já não és livre para retomá-la.
+Deves, ao contrário, usar tua
+liberdade para viver, para realizar dia por dia tua
+oferta, isto é, para renovar continuamente, diante de
+cada disposição da obediência, a imolação da tua
+liberdade. Bendita obediência que te permite realizar teu holocausto! "Se não consagrásseis assim vossa
+vontade ao Senhor - escrevia Teresa de Jesus às suas
+filhas - assemelhar-vos-íeis a alguém que mostra a outro
+uma pérola preciosa, lha oferece, pede que a aceite,
+e quando ele estende a mão para tomá-la, retira
+a oferta e a esconde bem" (Can. 32, 7). Isso infelizmente
+é sempre possível também a ti; de fato, embora tenhas
+sacrificado com voto tua vontade, ela permanece ainda
+em tuas mãos e depende da tua própria vontade manter fé ao voto feito. É, portanto, necessário que sejas
+bem decidido a vencer tuas repugnâncias para abraçar
+o querer de Deus expresso nas ordens dos superiores.
 
-Quem se ocupa demais do que sofre acaba por exasperar
-a própria dor, por afogar-se nela,
-tolhendo em si todo impulso generoso. Quem, ao contrário, sabe esquecer-se, mantém-se em equilíbrio, sempre capaz de pensar mais nos
-outros do que em si mesmo, sempre aberto à caridade e à generosidade para com Deus e para com o próximo. A alma simples, esquecida de si, é a que sabe sofrer com maior coragem, tirando daí maior proveito para a própria santificação.
-
-
-2 — Apesar de todos os esforços para lançar-se além
-da própria dor, para esquecer as próprias penas,
-podem passar-se momentos de angústia tão profunda,
-de trevas tão densas que a pobre alma não sabe como sair
-disso, tanto mais quando o horizonte, em vez de clarear,
-torna-se sempre mais sombrio e ameaçador. Nesses casos não
-resta senão dar um salto no escuro,
-abandonando-se totalmente nas mãos de Deus. Somos tão pobres e fracos que
-temos sempre necessidade de um ponto de apoio; se a alma se esquece e se desocupa de si, precisa contudo de
-alguém que a sustente e pense nela. Esse Alguém
-é Deus, que nunca se esquece de nós, que conhece a fundo
-nosso padecer, que sabe nossas necessidades, que vê nossa
-fraqueza e está sempre pronto a socorrer aqueles que
-se refugiam nele. Podemos, é verdade, buscar um pouco de
-conforto e ajuda também junto às criaturas, mas não nos iludamos: elas nem sempre nos compreenderão, nem sempre poderão
-estar à nossa disposição. Mas se nos voltamos para Deus,
-nunca seremos decepcionados; mesmo que Ele não mude nossas
-condições, se não tirar nossas penas, contudo interiormente - embora de modo escondido e silencioso -
-confortará nosso coração, dando-nos força para continuar
-o caminho.
-
-"Abandona em Deus o cuidado de ti, e Ele te sustentará"
-(Sl. 54, 23). Eis a atitude de abandono que devemos ter no momento do sofrimento e que devemos
-fortalecer quanto mais este se aprofunda.
-A maior sofrer deve corresponder maior abandono em Deus, e
-então não nos perderemos.
-
-Muitas almas exageram seus sofrimentos, dramatizam-nos
-porque não sabem ver neles a mão paterna
-de Deus, porque não creem bastante em sua divina
-Providência e, consequentemente, não sabem abandonar-se a
-ela com plena confiança. Se nossa vida, com todas as suas
-circunstâncias, mesmo as mais penosas, não estivesse nas mãos
-de Deus, teríamos razão de temer; mas, como tudo está
-sempre em suas mãos, não devemos ter medo, não
-devemos desanimar. A alma que está segura de Deus e
-se abandona a ele sabe manter-se tranquila mesmo nas maiores dores,
-sabe tomar com simplicidade até as coisas trágicas,
-sabe sofrer com serenidade e coragem, porque é sempre sustentada por Deus.
+"A obediência é o peso dos fortes" (Pio XII, aos Carm.
+Descalços, set. 1952), justamente porque requer a força de renunciar a si mesmo; mas esse peso, isto é, essa renún-
+cia, é suave para a alma enamorada da vontade de Deus,
+que justamente em seu amor encontrará sempre a força
+de renegar-se.
 
 ### Colóquio
 
-"Ó Senhor, faze que minha alma corra continuamente
-a ti sem cessar, mirando sempre só a ti. Consolada
-ou desolada, corra sem deter-se em nada, corra tão depressa
-que não tenha tempo de olhar nem de ver as coisas
-da terra, porque o passo é velocíssimo. Fora, pois, por
-amor de ti, gozo, repouso, confiança no juízo
-dos homens, repouso na aprovação deles, apreensão
-pelo mal-estar físico, pelas tristezas morais, pelo sucesso próspero ou adverso. Fora, em suma, tudo o que
-não é Deus.
+Ó Senhor, que ideal maior e mais belo do que
+chegar a conformar totalmente minha vontade à tua,
+de tal modo que não mais a minha, mas só a tua vontade me sustente,
+me guie, me governe em todos os meus movimentos, em todas
+as minhas ações?
 
-"Minhas penas, reconheço-o, foram permitidas e
-queridas por ti, meu Senhor, para ensinar-me a ter confiança
-apesar de tudo.
+Oh, quão sublime é o estado de perfeita conformidade à
+tua vontade divina! E Tu mais uma vez me repetes que
+para adquirir este tesouro não há meio melhor
+do que cavar na mina da obediência e extraí-lo
+à viva força. Quanto mais cavarei, mais encontrarei;
+quanto mais me sujeitarei aos homens por amor teu,
+não querendo outra vontade
+que a dos superiores, tanto mais me tornarei senhor da minha
+para conformá-la à tua. Esta é a verdadeira união com
+teu, meu Deus, esta é a união que desejo, não
+aquelas suspensões muito deleitosas às quais se dá o nome
+de união, e que união não são, senão quando são
+precedidas por esta. Tu me fazes compreender bem que,
+se eu tiver pouca obediência e muita vontade minha, a união
+não será com tua vontade, mas com meu amor-próprio.
+Praza-te, ó Senhor, que eu ponha em prática quanto
+me dás graça de compreender" (cf. T.G. Fd. 5, 13).
 
-"Ó Senhor, sê meu único sustento nas apreensões,
-nas fraquezas, nas angústias; sê meu confidente ou, melhor,
-minha confiança. Hóspede divino, que resides em mim,
-no trono do meu coração, habita aí como senhor; a ti compete
-o domínio, o amor, o governo de todo o meu ser!
+Ó Senhor, Tu bem o sabes, à minha vontade não agrada
+submeter-se, não agrada renunciar a si mesma para sujeitar-
+se ao querer alheio; há em mim um forte amor à
+liberdade, à independência, que me inclina a buscar mil
+e mil caminhos para fugir à necessidade de depender.
 
-"Por que turbar-me ou temer ainda?
-Tudo é teu, ó Deus, e Tu mesmo cuidas de tudo e provês às minhas necessidades. Tu és amor infinito e amas a obra de tuas mãos
-mais do que ela sabe e pode amar-se. Quem ousará duvidar da tua potência, dos cuidados previdentes e afetuosos que prodigalizas às tuas criaturas, da eternidade e eficácia do teu amor?
-
-"Creio que Tu fazes tudo e permites tudo para meu
-bem e minha salvação, e abandono-me à tua condução
-com confiança, com amor, sem ansiedades,
-sem apreensões, sem cálculos" (B. M. Teresa de Soubiran).
+Mas Tu também sabes que nenhuma coisa no mundo amo, busco,
+desejo como tua vontade. E para viver na tua
+vontade, para ter a certeza e a alegria de agir em
+tudo segundo teu querer divino, estou pronto, com
+teu auxílio, a fazer qualquer sacrifício, a imolar até o
+fundo minha liberdade. Ó Senhor, aumenta meu amor
+por tua santa vontade, acende em mim a paixão da
+tua vontade, e então crescerá em mim o amor à obediência,
+canal de ouro através do qual me chega o tesouro preciosíssimo da tua vontade.

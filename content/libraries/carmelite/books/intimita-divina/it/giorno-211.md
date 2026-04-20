@@ -1,98 +1,23 @@
-## 211 — FIDUCIA INCROLLABILE
-*IV Domenica dopo Pentecoste*
+## XI — L'AMORE MISERICORDIOSO
 
-### Presenza di Dio
+*Domenica fra l'Ottava del Sacro Cuore di Gesù*
 
-O Signore, fammi ben comprendere che da me nulla sono e nulla posso, e quel che posso lo posso unicamente in te.
+**Presenza di Dio.** — *O Gesù, degnati di scoprirmi gli infiniti tesori di misericordia racchiusi nel tuo Cuore.*
 
 ### Meditazione
 
-1. — Due sentimenti dominano nella liturgia della Messa odierna: una grande fiducia in Dio e un vivo senso della
-miseria e insufficienza umana. Due sentimenti fra loro strettamente congiunti, perchè proprio la consapevolezza del
-nostro nulla ci fa riporre in Dio ogni fiducia e perchè questa fiducia fiorisce in noi quanto più noi siamo convinti
-della nostra pochezza.
+**1** — La liturgia odierna, in perfetta armonia con l'ottava del Sacro Cuore, è un caldo invito alla confidenza nell'amore misericordioso di Gesù. Fin dal principio della Messa la Chiesa ci fa pregare così: «Volgiti a me, ed abbi di me pietà, o Signore, perché desolato e misero io sono. Vedi la mia miseria, la mia pena e perdona tutti i miei peccati» (Introito); nella Colletta poi ci fa chiedere: «O Dio... effondi sopra di noi la tua misericordia», e poco più avanti ci esorta: «Abbandona a Dio la cura di te, Egli ti manterrà» (Graduale). Ma, come giustificare tanta confidenza in Dio, se noi siamo pur sempre poveri peccatori? Questa giustificazione la troviamo nel Vangelo odierno che riporta due parabole di cui Gesù stesso si è servito per insegnarci che non ci fideremo mai troppo nella sua misericordia infinita: la parabola della pecorella smarrita e quella della dramma perduta. Anzitutto, ci si presenta il buon pastore che va in traccia della pecorella smarrita: è la figura di Gesù sceso dal cielo per andare in cerca della povera umanità perduta fra gli antri oscuri del peccato: per ritrovarla, per salvarla e ricondurla all'ovile, Egli non esita ad affrontare le più amare sofferenze ed anche la morte. «E quando l'ha trovata, se la pone sulle spalle tutto allegro e, giunto a casa, chiama gli amici e i vicini e dice loro: 'Rallegratevi meco perché ho trovato la mia pecorella che si era smarrita'». Questa è la storia dell'amore di Gesù non solo per tutta l'umanità, ma per ogni singola anima; storia ben sintetizzata nella dolce figura del buon pastore, sotto la quale Gesù stesso ha voluto rappresentarsi. Si può ben dire che l'immagine del buon pastore — tanto amata nei primi secoli della Chiesa — equivale a quella del Sacro Cuore; l'una e l'altra sono l'espressione viva e concreta dell'amore misericordioso di Gesù e ci spingono ad andare a lui con piena confidenza.
 
-La Messa comincia con un grido d'incrollabile fiducia:
-«Il Signore è la mia luce e la mia salvezza: di chi
+**2** — «Io vi dico che vi sarà in cielo più festa per un peccatore pentito, che per novantanove giusti i quali non hanno bisogno di penitenza». Con questo pensiero, benché espresso in forma diversa, terminano tutte e tre le parabole della misericordia: quella della pecora smarrita, della dramma perduta e del figliuol prodigo. Questa insistente ripetizione ci dice quanta premura ha avuto Gesù d'inculcarci un profondo senso della misericordia infinita, misericordia assolutamente in contrasto con l'atteggiamento duro e sprezzante dei farisei che mormoravano dicendo: «Costui [Gesù] accoglie i peccatori e mangia con loro»; anzi, le tre parabole sono appunto la risposta del Maestro all'insinuazione maligna e gretta dei farisei.
 
-temerò?» (Introito). Il Signore è con me nel SS.mo Sacramento dell'altare, il Signore viene in me nella S. Comunione: che cosa mi potrà separare da lui? Che cosa
-mi potrà far paura?
+Per noi, creature limitate e dalla vista spirituale tanto corta, non è facile intendere a fondo questo ineffabile mistero; e non solo ci è difficile intenderlo rispetto agli altri, ma anche riguardo a noi stessi. Eppure, Gesù l'ha detto e ripetuto: «si fa più festa in cielo per un peccatore pentito, che non per novantanove giusti» e con questo ha voluto dirci quanta gloria dà a Dio l'anima che, dopo le sue cadute, ritorna a lui pentita e fiduciosa. Il senso di queste parole non va applicato solo ai grandi peccatori, a coloro che si convertono dal peccato grave, ma anche a quelli che si convertono dai peccati veniali, che si umiliano e si rialzano dopo le infedeltà sfuggite per debolezza o per irriflessione. È questa la nostra storia di tutti i giorni: quante volte abbiamo proposto di vincere la nostra impazienza, irascibilità, suscettibilità, e quante volte ricadiamo! Ma se, riconoscendo umilmente il nostro torto, andiamo con fiducia «a gettarci nelle braccia di Gesù, chiedendogli perdono, Egli trasalisce di gioia», anzi, «farà anche di più: ci amerà più ancora che prima della nostra colpa» (T.B.G. *Lt.*; *CR.*).
 
-D'altra parte, conosco la mia debolezza: le mie cadute,
-le mie infedeltà mi son sempre presenti. Come ho bisogno,
-perciò, di ripetere umilmente la bella preghiera del Graduale: «Salvaci, o Signore, e perdonaci i nostri peccati...
-Aiutaci, O Dio salvatore nostro, per riguardo all'onore del
-tuo nome ». Sì, nonostante i continui soccorsi della gra
-zia divina, nonostante le numerose confessioni e le comunioni,
-devo ogni giorno constatare nuove mancanze, devo ogni
-giorno ricominciare da capo. La lotta è ardua e faticosa,
-ma proprio oggi, nell'Epistola, S. Paolo mi ricorda «che
-le sofferenze del tempo presente non hanno nulla a che
-fare con la gloria » che ci aspetta. Pensiero consolante, pensiero di speranza, di fiducia; tuttavia, ciò non impedisce
-di sentire il gemito della natura che sospira verso la
-liberazione, la redenzione piena. Anche l'Apostolo l'ha sperimentato e dice: «noi stessi che abbiamo in noi le primizie dello Spirito, gemiamo aspettando l'adozione, cioè
-la redenzione del nostro corpo in Gesù Cristo». Quanto più
-soffriamo per la nostra miseria, tanto più slanciamoci in Cristo, con piena fiducia nella sua Redenzione.
-
-2. — Il Vangelo di oggi può dirsi la dimostrazione
-pratica delle parole di Gesù: «Senza di me non potete
-far nulla » (Gv. 15, 5). Simone e i suoi compagni avevano
-faticato tutta la notte senza prender nulla: ecco quello che
-erano riusciti a fare da soli. Se hai un po' di esperienza
-di vita spirituale, riconoscerai che tante volte è accaduto
-così anche a te. Quanti sforzi per liberarti da qualche attacco, per dimenticare torti ricevuti,. per adattarti al modo
-di fare altrui, per sottomettere la tua volontà. E poi, dopo
-aver tanto faticato, ti sei ritrovato a mani vuote, proprio
-come Pietro trovò inesorabilmente vuota la sua rete. Ebbene,
-non ti scoraggiare; se, anzichè indispettirti per il tuo insuccesso, saprai riconoscerlo umilmente, esso diventerà il
-principio della tua vittoria. Così è accaduto anche a Pietro dopo aver confessato in pubblico di non «aver preso
-nulla». S. Teresa del B.G. commenta: «Forse se l'Apostolo avesse preso qualche pesciolino, il divino Maestro non
-avrebbe operato un esame, ma, non avendo preso nulla,
-le sue reti, mercè la potenza e la bontà divina, furono tosto ripiene di grossi pesci. Ecco il carattere di Nostro Signore: Egli dà come sa dare Dio, ma vuole l'umiltà del
-cuore » (Let.).
-
-Malgrado la tua buona volontà di avanzare nella virtù,
-il Signore non permette che tu riporti alcun successo finchè
-non ti vede profondamente convinto della tua impotenza,
-della tua insufficienza; e, proprio per rendertene convinto,
-ti lascia, come lasciò Pietro, «faticare tutta la notte senza
-prendere nulla». Ma poi, a misura che ti vedrà ben persuaso della tua indigenza e disposto a confessarla aperta
-mente, verrà in tuo soccorso. Tu, dunque, devi avere gran
-fede in lui e, senza lasciarti sgomentare dagli insuccessi
-finora riportati, devi ogni giorno, «sulla sua parola», ricominciare da capo. Se hai ormai imparato a non confidare
-nelle tue forze, devi imparare anche ad avere piena fiducia
-nell'aiuto divino. Forse se fino ad oggi non hai preso nulla
-è perchè ti è mancata questa fiducia incrollabile e questa
-mancanza, oltrechè dispiacere a Gesù, paralizza la tua vita
-spirituale. Ripeti dunque con slancio insieme con Pietro:
-«in verbo tuo laxabo rete», Signore, sulla tua parola calerò le reti. Ma ripetilo ogni giorno, ogni momento, senza
-mai stancarti,
+Nel Communio, oggi la liturgia ripete l'ultimo versetto del Vangelo: «Vi dico: gli Angeli di Dio si rallegreranno per un solo peccatore che si pente»; e noi nella S. Comunione chiediamo a Gesù di farci penetrare i segreti del suo infinito amore misericordioso.
 
 ### Colloquio
 
-« O Signore, Tu sei la mia luce e la mia salvezza; che cosa dovrò temere? Tu sei il baluardo della mia vita; di che cosa
-devo aver paura? Se anche un esercito si accampasse contro
-di me, il mio cuore non temerebbe; se contro di me si movesse battaglia, anche allora starei tranquillo... Una sola
-cosa sola, o Signore, e sempre ti richiederò: di abitare
-nella tua casa tutti i giorni della mia vita. Poichè nel giorno della sventura, Tu mi metterai al coperto nella tua tenda, mi terrai riparato nel tuo padiglione, mi porrai su alta rupe.
+«E in chi, o Signore, può meglio risplendere la tua misericordia se non in me che con le mie opere ho profanato tante volte le tue grandi grazie? Se cerco scuse, non ne trovo. La colpa è di nessuno, ma di tutta Italia, perché se avessi corrisposto anche solo in parte al tuo amore, non avrei amato altri che te. Ma se di tanto non mi sono mostrata meritevole, mi valga almeno, o Signore, la tua infinita misericordia.
 
-« Ascolta, o Signore, il grido col quale t'invoco: abbi
-pietà di me ed esaudiscimi... Non nascondermi il tuo volto,
-non rigettare con sdegno il tuo servo, Tu che fosti il mio
-aiuto; non mi respingere e non mi abbandonare, o mio
-Dio salvatore. Anche se mio padre e mia madre mi abbandonassero, io sono sicuro che Tu non mi abbandonerai.
-Anima mia, spera nel Signore, rinfrancati, fatti cuore e
-spera in lui» (cfr. Sal. 26),
+«Da tanta mia ignominia la tua bontà infinita ha già saputo ricavare del bene, perché dove più grande è la miseria, più risplendono i benefici delle tue misericordie. Oh, le tue misericordie, con quanta ragione dovrei io sempre cantarle! Signore, dammi di poterle cantare in eterno, giacché ti sei compiaciuto di prodigarmele con tanta munificenza. Io ne rimango trasecolata, sì che le lodi mi sgorgano abbondantemente. Senza di te, o mio Bene, io non posso fare altro che sradicare di nuovo i fiori del mio giardino e ricondurre questa mia terra miserabile allo stato di letamaio. Ma non permetterlo, o Signore, non permettere che vada perduta quest'anima che, redenta un giorno a prezzo di tanti tuoi dolori, hai poi riscattata tante altre volte e strappata al dragone infernale» (T.G. *Vt.* 4, 4; 14, 10).
 
-«O Signore, 'Tu hai operato in me grandi cose; e la
-più grande è quella di avermi mostrato la mia piccolezza
-e la mia impotenza per ogni bene.
-
-«Signore, Tu lo vedi, cado in tante debolezze, ma
-non me ne stupisco... Rientro in me stessa e mi dico; mi
-trovo ancora ai primi passi come un tempo? Ma tutto questo me lo dico con grande pace e senza tristezza, perchè
-so che Tu conosci perfettamente la fragilità della nostra
-natura e sei sempre pronto a soccorrerci. Di che mai potrò dunque temere? Appena mi vedi convinta del mio nulla,
-o Signore, Tu mi porgi la mano; ma se io volessi provare
-a fare qualche cosa di grande anche sotto pretesto di zelo,
-mi lasceresti subito sola. Basta dunque che mi umili e sopporti volentieri le mie imperfezioni; ecco in che cosa consiste per me la vera santità » (cfr. T.B.G. St. 9; NV. CR).
+«O Gesù, lo so, il tuo Cuore è molto più afflitto per le mille piccole imperfezioni dei tuoi amici, che non per le colpe anche gravi commesse dai tuoi nemici. Tuttavia, mi pare che solamente quando noi facciamo delle nostre indelicatezze un'abitudine e non te ne chiediamo perdono, Tu possa dire: 'Queste piaghe che scorgete in mezzo alle mie mani, le ho ricevute nella casa di coloro che mi amavano!' Ma se dopo ogni minima colpa veniamo a gettarci nelle tue braccia chiedendoti perdono, Tu trasalisci di gioia e dici ai tuoi Angeli ciò che il padre del figliuol prodigo diceva ai suoi servi: 'Ponetegli in dito un anello e si banchetti'. O Gesù, come sono poco conosciuti la bontà e l'amore misericordioso del tuo Cuore!» (cfr. T.B.G. *Lt.*).

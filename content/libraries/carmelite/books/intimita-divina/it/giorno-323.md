@@ -1,83 +1,23 @@
-## 323 — LA FORMAZIONE DEGLI APOSTOLI
+## 1 — LO ZELO PER LE ANIME
 
-### Presenza di Dio
-
-Accetta, Signore, la mia povera preghiera per l'avvento del tuo regno.
+**Presenza di Dio.** — *O Signore, fa' che il tuo amore per le anime s'infiammi nel mio cuore.*
 
 ### Meditazione
 
-ria nessuna cautela giacchè, quanto più un'anima si dedicherà alla preghiera e al sacrificio, non solo gioverà al bene del (prossno; ma nello stesso tempo ne ritrarrà grande profitto per la propria santificazione. Infatti, le armi
-dell'apostolato interiore coincidono perfettamente con gli
-esercizi fondamentali della vita spirituale. Ma non si può
+**1** — È vero, il fine primario dell'azione di Dio è la sua gloria, ma questa gloria Egli, infinitamente buono, ama procurarsela particolarmente mediante la salvezza e la felicità delle sue creature, e di fatto nulla più dell'opera salvifica degli uomini esalta la sua bontà, il suo amore, la sua misericordia. Perciò, amare Dio e la sua gloria significa amare le anime, significa lavorare e sacrificarsi per la loro salvezza.
 
-dire altrettano circa l'apostolato esterno: che, per sua natura, richiede necessariamente sollecitudini ed occupaziodiverse da quelle riguardanti il profitto individuale.
-Un'anima da poco iniziata alla vita interiore non può
-avere la capacità di attendere contemporaneamente alla
-propria e all'altrui santificazione, ma deve avere il tempo
-di concentrare anzitutto le forze nella propria formazione
-spirituale. Del resto, se l'apostolato trae la sua efficacia
-dal grado di amore e di unione con Dio cui è giunto colui che l'esercita, è evidente che un principiante non sarà
-neppure capace di un apostolato fecondo. Impegnarsi anzi tempo nell'attività apostolica significa, quindi, disperdere inutilmente le energie, con la conseguenza di danneggiare la propria vita interiore e di non portare alcun frutto per gli altri. Gesù stesso, benchè, essendo Dio, non ne
-avesse affatto bisogno, ha voluto dedicare i primi trentanni della sua vita alla preghiera ed al ritiro, quasi per
-indicarci che prima di slanciarsi nell'apostolato esterno è
-necessario maturare lo spirito negli esercizi della vita interiore. Per gli Apostoli avvenne qualche cosa di simile :
-i tre anni trascorsi con Gesù furono anni di vera formaione. Il Signore li istruiva, li ammoniva, insegnava loro
-a pregare, a praticare le virtù e solo qualche volta, timidamente, perchè ne facessero la prova, affidava loro qualche missione. Poi, prima d'inviarli definitivamente alla
-conquista del mondo, ha voluto che temprassero il loro
-spirito nutrendosi della sua Carne, assistendo alla sua Passione e infine riunendosi nel Cenacolo ad attendere la venuta dello Spirito Santo. E così la genuina prassi cattolica esige che, prima di scendere in campo, gli apostoli si
-preparino nell'esercizio di un'intensa vita interiore; onde
-rendersi strumenti atti e fecondi per il bene delle anime.
+S. Giovanni Crisostomo afferma che «nulla è più freddo di un cristiano che non si cura della salvezza altrui». Questa freddezza è conseguenza di una carità molto languida; accendiamo, ravviviamo la carità, e si accenderà in noi lo zelo per la salvezza delle anime. Allora il nostro apostolato non sarà più soltanto un dovere imposto dall'esterno, cui dobbiamo necessariamente attendere per obbligo del nostro stato, ma sarà un'esigenza dell'amore, una fiamma che divampa spontaneamente per il calore interno della carità.
 
-oggi si fa sentire sempre più pressante — non può, giustificare un'affrettata preparazione all'apostolato. Che cosa
-varrebbe buttare nella mischia un maggior numero di soggetti quando questi, per mancanza di formazione, sarehbero incapaci non solo di conquistare terreno, ma anche
-di sostenere l'urto delle forze nemiche? Non basta l'entusiasmo e la buona volontà, occorre robustezza di vita
-interiore, occorre saldezza d'idee e di propositi, occorre
-spirito di sacrificio e unione con Dio; diversamente, altrechè non giovare al bene altrui, si metterà in pericolo
-la sorte degli stessi apostoli. All'urgenza dell'apostolato
-bisogna provvedere intensificando anzitutto la formazione
-di coloro che vi si dedicano, perchè solo anime ancorate in Dio mediante un'intensa vita interiore saranno caaci di sostenere l'impeto, talvolta travolgente, dell'attività esterna e di vivificare tale attività con la fiamma dell'amore.
+Darsi alla vita interiore non significa chiudersi in una torre d'avorio per godere indisturbati le consolazioni di Dio disinteressandosi del bene altrui, ma significa concentrare tutte le proprie forze nella ricerca di Dio, nel lavorare per la propria santificazione onde diventare accetti a Dio ed acquistare così una potenza d'azione e d'intercessione, mediante la quale ottenere la salvezza di molte anime.
 
-«Un uomo perfetto — dice S. Teresa di Gesù — fa
-assai di più di un gran numero d'imperfetti » (Carz. 3, 5);
-è quindi di somma importanza che coloro che si danno
-all'apostolato siano seriamente incamminati verso la perfezione, verso la santità; solo così potranno dare Dio alle
-anime e portare le anime a Dio, Tutta la storia della Chiesa è una dimostrazione pratica di questo principio: « Uno
-solo era S. Paolo e quanti ne attrasse!... Se tutti i cristiani
-fossero come S. Paolo quanti mondi potrebbero convertire! » (S. Giov, Crisostomo). Il S. Curato d'Ars aveva ben
-poche risorse umane, eppure convertì un numero sterminato di anime proprio in forza della sua santità, del suo
-amore, della sua unione con Dio.
-
-Le impellenti esigenze dell'apostolato esterno mettono
-più che mai a fuoco l'esigenza di apostoli ben formati, di
-apostoli di profonda vita interiore, di apostoli santi. Perciò, anche quando è terminato il periodo della formazione, bisogna sempre vigilare affinchè l'attività esterna non
-venga in nessun modo a sminuire la vita interiore. Bisogna sempre mantenere l'equilibrio fra la preghiera-e il lavoro in modo che l'apostolo non esaurisca le sue energie
-
-irituali, ma abbia il tempo sufficiente per rifornirsi, per
-riprendere e mantenere il contatto intimo con Dio.
+**2** — Lo zelo per le anime nasce dalla carità, nasce dalla contemplazione di Cristo crocifisso: le sue piaghe, il suo sangue, i dolori strazianti della sua agonia ci dicono quanto valgono le anime al cospetto di Dio e quanto Dio le ama. Ma quest'amore non è corrisposto e sembra che gli uomini ingrati vogliano sempre più sfuggire alla sua azione. È il triste spettacolo di tutti i tempi che anche oggi si rinnova, quasi ad insultare Gesù e a rinnovare la sua Passione. «Tutto il mondo è in fiamme: gli empi, per i loro ozi, anelano di condannare ancora Gesù Cristo, sollevano contro di lui un'infinità di calunnie e si adoperano in mille modi per distruggere la sua Chiesa». Se Teresa di Gesù *(Cam.* 1, 5) poteva dire così più tormentato dall'eresia protestante, tanto più possiamo dirlo noi del nostro in cui la lotta contro Dio e contro la Chiesa è aumentata a dismisura e dilaga ormai in tutto il mondo. Beati noi se possiamo ripetere con la Santa: «La perdita di tante anime mi spezza il cuore. Come se il numero dei reprobi non andasse aumentando... Mi pare che pur di salvare un'anima sola delle molte che si perdono, sacrificherei mille volte la vita» *(ivi,* 4 e 2). Ma non si tratta solo di formulare desideri: occorre fare, occorre agire e patire per la salvezza dei fratelli.
 
 ### Colloquio
 
-«O Signore, desidero grandemente che avendo Tu
-tanti nemici e così pochi amici, questi almeno ti siano
-devoti. Perciò determino di fare il poco che dipende da
-me: osservare i consigli evangelici con ogni possibile perfezione e pregare per i difensori della Chiesa, per i predicatori, per i dotti che la sostengono. O Signore, giacchè io non sono così forte per difendere direttamente la
-tua Chiesa, voglio procurare che siano almeno forti le mie
-preghiere per aiutare questi tuoi servi, che con tanti sforzi e sudori si sono agguerriti di scienza e di buona vita,
-ed ora si affaticano per difendere il tuo nome.
+«O mio dolce Signore, quanto sei indegnamente perseguitato da coloro cui hai fatto tanto bene! Sembra veramente che questi traditori ti vogliano crocifiggere un'altra volta, non lasciandoti alcun luogo ove posare la testa. Non posso affissarmi in questo spettacolo, o mio Redentore, senza sentirmi spezzare il cuore!
 
-«Dio mio, vorrei essere tale da meritare da te queste
-due cose: la prima, che nel gran numero dei santi e dotti
-personaggi che oggi difendono la Chiesa, vi siano molti
-che abbiano le necessarie prerogative, e che Tu le conceda a coloro che non le hanno del tutto, perchè un uomo
+«Considera, o Eterno Padre, che tanti flagelli, strapazzi e tormentosissime sofferenze non sono cose da dimenticarsi. È dunque possibile, Creator mio, che un cuore tanto affettuoso, come il tuo, sopporti che si faccia così poco conto, come ai nostri giorni, di ciò che tuo Figlio ha effettuato con tanto amore, unicamente per contentarti e per obbedire ai tuoi comandi, quando ti giungesti di amarci fino a lasciarsi nel SS.mo Sacramento, che ora gli eretici oltraggiano, distruggendo i suoi Tabernacoli e demolendo le sue Chiese? Forse che tuo Figlio deve fare qualche altra cosa per contentarti? Non ha Egli già fatto tutto? Possibile che ogni qualvolta noi torniamo ad offenderti, la debba sempre pagare questo innocentissimo Agnello? Non lo permettere più, o mio sovrano Signore! Si plachi ormai la tua divina Maestà! Nonché considerare i nostri peccati, ricordati che a redimerci fu il tuo Figlio sacratissimo. Ricorda i suoi meriti, i meriti della sua gloriosissima Madre, quelli dei tanti santi e dei tanti martiri che sono morti per te!
 
-erfetto fa assai di più di un gran numero d'imperferti.
-î la seconda, che una volta gettatisi in questa lotta, Tu
-li sorregga con la tua mano, affinchè si guardino da tutti
-i pericoli del mondo e attraversino questo mare burrascoso con le orecchie chiuse al canto delle sirene. Se presso
-te, Dio mio, posso in ciò qualche cosa, ecco che anch'io
-combatto per la tua gloria, benchè chiusa in solitudine.
+«Oh, vergogna!... Come mai, Signore, ho io l'ardire di farti questa preghiera? Innanzi alla mia temerità hai tutte le ragioni per sdegnarti di più. Però, o Signore, non devi dimenticarti che sei Dio di misericordia: abbi, dunque, pietà di questa indegna peccatrice, di questo miserabile verme che si lascia andare a tanta audacia.
 
-«Ti scongiuro, Signore, esaudiscimi. Da parte mia non
-
-cesserò mai di supplicarti, nonostante la mia grande miseria: sì tratta della tua gloria e del bene della tua Chiesa, ed è qui che convergono tutti i miei desideri. Il giorno in cui le mie orazioni, le discipline, i desideri e i digiuni miei non fossero impiegati per ciò che ho detto, non
-raggiungerei il fine per cui Tu, o Signore, mì hai chiama-
+«Guarda ai miei desideri, alle lacrime che accompagnano la mia preghiera e, dimenticandoti dei miei peccati, ti supplico per quello che sei, o mio Dio, di avere pietà delle molte anime che si perdono e di proteggere la tua Chiesa» (T.G. *Cam.* 1, 2 e 3; 3, 8 e 9).

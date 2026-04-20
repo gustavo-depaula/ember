@@ -1,107 +1,23 @@
-## 185 — LA NOSTRA COLLABORAZIONE
+## XVI — L'apostolato di Maria
 
-### Presenza di Dio
-
-O Spirito Santo, rendimi docile alla tua azione, sempre pronto a lasciarmi muovere e dirigere da te.
+**Presenza di Dio.** — *O Maria Regina degli Apostoli, crea in me un cuore di apostolo.*
 
 ### Meditazione
 
-1. — Di fronte alla santità noi siamo sempre degli scolaretti, degli apprendisti che, avendo una conoscenza molto
-limitata dell’arte che stanno imparando, hanno sempre bi
-sogno della guida e dei suggerimenti del loro maestro. Il
-Maestro di santità è appunto lo Spirito Santo; parlando di
-Lui Gesù ha detto: « Egli v'insegnerà ogni cosa e vi suggerirà tutto » (Gv. 14, 26). Egli c'insegna quel che dobbiamo
-Fare per amare Dio con tutte le nostre forze, Egli ci suggerisce tutto ciò che noi non sappiamo, sia riguardo a Dio,
-sia riguardo alla pratica della perfezione; e non solo c'insegna,
-ma ci mette in grado di operare quel bene che ci mostra.
-Infatti, agendo direttamente sulla nostra volontà, Ja for
-tifica, l’attira, Ja slancia potentemente in Dio, l’orients per
-fettamente verso di Lui. Così lo Spirito Santo «aiuta la
-nostra debolezza » (Rom. 8, 26) e, siccome questa è « costituzionale», inerente alla nostra natura umana, abbiamo
-continuamente bisogno di Lui. E di fatto Egli non ci lascia
-mai: tutta la nostra vita spirituale è avvolta nella sua
-azione; abbiamo visto come fin dagli inizi ci viene incontro
-preparando, assecondando le nostre iniziative personali, ma
+**1** — Maria è nello stesso tempo il modello delle anime contemplative e il modello delle anime apostoliche. Anzi, assommando in sé la più alta vita contemplativa e la più alta vita apostolica, c'insegna che contemplazione ed apostolato, ben lungi dall'opporsi, si esigono, si sostengono, si alimentano a vicenda. Quando la vita contemplativa — intesa come assidua ricerca dell'unione con Dio — è davvero fervorosa, non può non far sorgere nell'ardente fiamma dell'apostolato. Chi, nel contatto intimo con Dio, ha sperimentato l'ineffabile realtà del suo amore per gli uomini, non può non ardere del desiderio di conquistarli tutti a questo amore. Così — e nel modo più sublime — è avvenuto di Maria SS.ma, la quale, avendo gustato e penetrato l'amore di Dio ed essendone stata infiammata più di ogni altra creatura, più di ogni altra creatura ha desiderato condurre a Dio tutti gli uomini. Nessuno infatti più di Maria ha collaborato con Cristo alla salvezza del genere umano. Collaborazione quanto mai intima e profonda giacché Ella, col suo sangue, ha fornito al Figlio di Dio quella carne e quella vita umana che hanno reso possibile a Lui, Verbo eterno, di farsi simile a noi, di soffrire e di morire per noi sulla croce. Collaborazione di massimo valore, se si considera che Maria non inconsapevolmente fu la Madre del Salvatore, ma lei stessa acconsentì ad esserlo, pur sapendo dalle Sacre Scritture che il Messia sarebbe stato l'uomo dei dolori, immolato per la redenzione del mondo; quindi, accettando di diventarne la Madre, ha pure accettato di legare la sua sorte a quella di Lui, di associarsi a tutte le sue sofferenze. Dare al mondo il Redentore, accettare di veder morire fra gli strazi il Figlio diletto è stato il sublime apostolato di Maria sgorgato dal suo immenso amore per Iddio.
 
-poi, se ci trova docili ai suoi inviti, Egli stesso prende in
-noi le sue iniziative. Perciò tutta l’opera della nostra santificazione si riduce, in fondo, ad una questione di docilità
-al divino Paraclito. Anzitutto dobbiamo essere molto at:
-tenti e docili ai suoi inviti: « Utinam hodie vocem eius
-audiatis: nolite obdurare corda vestra»; oh, se oggi avete
-ascoltato la sua voce, non ostinatevi in cuor vostro! (Sal. 94,
-7 e 8). Gli inviti dello Spirito Santo possoho giungere a
-noi attraverso le parole della S. Scrittura, la predicazione,
-gli insegnamenti della Chiesa, le varie circostanze della
-vita, i buoni pensieri, le sante ispirazioni: corrispondiamo
-subito, dimostriamo la nostra buona volontà accettando ed
-obbedendo prontamente ai suoi inviti.
+Quanto più l'amore verso Dio è grande, tanto più l'apostolato che ne deriva è grande ed efficace. D'altra parte, ogni opera di apostolato che non derivasse dalla carità sarebbe un *nulla*: «Se anche sbocconcellassi a favor dei poveri tutto ciò che ho — dice S. Paolo — e dessi il mio corpo ad esser arso, e non avessi amore, non ne avrei alcun giovamento» *(I Cor.* 13, 3).
 
-2. — Ma molte volte, purtroppo, la nostra volontà è
-ancora dura, indocile, restia, e questo perchè è ancora tanto
-attaccata alle creature e specialmente a quella creatura che
-è il nostro io e che noi amiamo sempre troppo. Quindi, per
-corrispondere all’azione dello Spirito Santo, la prima cosa
-richiesta è lavorare assiduamente per distaccarci da tutto
-ed anche da noi stessi. Il distacco ci libererà da tanti legami
-che, simili a funi, ci avvincono alle creature, rendendoci
-impossibile la docilità e la pieghevolezza necessaria per
-essere facilmente mossi dallo Spirito Santo. E ricordiamo
-che per avvincere l'anima alle creature basta anche un solo
-tenue filo, ossia bastano anche piccoli attacchi: «che importa se un uccellino sia legato ad un filo sottile piuttosto
-che ad uno grosso? per quanto il filo sia sottile, è sempre
-vero che l’uccellino è legato e, sino a che non lo spezzi,
-non potrà volare» (G.C. S. I. 11, 4). Il distacco spezza il
-filo che ci lega alla terra, e l’anima nostra, così liberata,
-può assecondare ogni minimo impulso dello Spirito Santo
-cd Egli può invaderla e dirigerla a suo beneplacito.
+**2** — Intimamente associata all'opera redentiva di Gesù, Maria ha assolta una missione apostolica universale, rivolta al bene di tutta l'umanità. Tuttavia l'apostolato di Maria non fa rumore, non è vistoso, ma si svolge nel modo più umile, nascosto, silenzioso. Dà al mondo il Redentore, ma lo dà nel segreto della notte, in una povera stalla; partecipa a tutta la vita di Gesù, ma vi partecipa nel nascondimento della casetta di Nazareth, occupata nelle umili faccende domestiche, in mezzo ai sacrifici e alle difficoltà di una vita che fu ricca di circostanze eccezionalmente gravi e penose. Ed anche quando Gesù — nei tre anni della sua vita apostolica — si presenta in pubblico per compiere la missione affidatagli dal Padre, Maria, pur continuando a seguirlo ed a partecipare a tutte le sue vicende, rimane nell'ombra. Mai la si vede comparire accanto al Figlio che ammaestra le folle, mai si vale della sua autorità materna per introdursi vicino a Lui; e quando ha bisogno di parlargli mentre Egli in una casa istruisce il popolo, rimane umilmente fuori ad aspettare (cfr. *Mt.* 12, 46). L'apostolato di Maria è tutto interiore: apostolato della preghiera e, soprattutto, dell'immolazione nascosta per cui aderisce con grande amore alla volontà di Dio che le chiede di separarsi dal Figlio dopo trent'anni trascorsi in dolce intimità con Lui, e di ritirarsi in disparte, quasi per lasciare agli Apostoli ed alle folle quel posto che, come Madre, le compete vicino a Gesù. Così, nel nascondimento e nel silenzio, Maria partecipa all'apostolato e alle sofferenze del Figlio: non c'è dolore di Gesù che Maria non assapori e non riviva in sé; la sua grande immolazione consiste nel vedere Lui, il Figlio diletto, perseguitato, odiato, cercato a morte e, infine, crocifisso sul Calvario; il suo cuore di Madre ne sente la profonda amarezza, ma nello stesso tempo tutto accetta con *puro amore* e tutto offre per la salvezza delle anime. Proprio così Maria è giunta alle più elevate cime dell'apostolato, ossia mediante la sua immolazione nascosta, animata da *amore puro*. E «un pochino di puro amore — dice S. Giovanni della Croce — è più prezioso al cospetto del Signore... ed apporta maggiore utilità alla Chiesa... che non tutte le opere riunite insieme» *(C.* 29, 2).
 
-Abbiamo detto che lo Spirito Santo non si accontenta
-d’invitarci al bene, ma vuole prendere in noi le sue iniziative”
-per spingerci più efficacemente verso Dio. Tuttavia, Egli
-
-rispetta la nostra libertà e perciò non s'impadronirà della
-nostra volontà, se noi non siamo disposti a dargliela liberamente. E qui possiamo porre un altro ostacolo alla sua azione:
-lo Spirito Santo So he portarci in alto, in Dio, ma noi
-non aderiamo pienamente, perchè manchiamo di generosità
-e con la nostra grettezza ritardiamo l’opera divina. Forse
-corrispondiamo in parte alla sua mozione, gli diamo qual
-che cosa di quello che ci domanda, ma non arriviamo a
-dargli «tutto». E' quindi molto necessario coltivare lo
-spirito di «totalità» che non mette limiti alla nostra dunazione; occorre avere un cuore largo, generoso per non
-ritardare l’opera dello Spirito Santo che vuole portarci non
-solo alle azioni buone, ma alle azioni generose, eroiche,
-sante.
+Maria ci mostra quanto siamo lontani dal vero, quando, presi dall'urgenza delle opere, facciamo consistere il nostro apostolato unicamente nell'attività esteriore, svalutando quella interiore dell'amore, della preghiera, dell'immolazione, da cui dipende la fecondità dell'azione esterna.
 
 ### Colloquio
 
-«Dio mio misericordioso, dolcezza ed amor mio, manda
-dal Paradiso il tuo Spirito Santo e crea in me un cuore
-ed uno spirito nuovo. La tua unzione m/insegni tutte le
-cuse, perchè io ti ho eletto fra mille e ti amo al di sopra
-di ogni amore e più della stessa anima mia. O Spirito
-Santo, Dio amore, ricevimi nella tua piissima misericordia
-e carità, affinchè, in tutto il corso della vita mia, ti abbia
-come maestro e cettore, e dolcissimo amante del cuor
-mio» (S. Geltrude).
+«O Maria, Tu sei vita, dolcezza e speranza nostra! Perché Tu sola partoristi il Signore, Tu sola togliesti via dal mondo l'universale perfidia. Tu sei Madre di misericordia! Madre proprio, che ci lavi dalle sozzure dei peccati. Tu ci racchetti piccolini vagenti in culla, ci sfami col latte, sulle tue braccia ci sostieni. E non solo Madre, ma anche medicina ti sei fatta dei miseri...
 
-«O Spirito Santo, insegnami ad apprezzare ogni tua
-minima ispirazione! Essa è più preziosa di tutto il mondo
-— fosse pure la minima ispirazione di trattenere una parola
-o uno sguardo — perchè è una piccola « vocazione», è un
-invito ad entrare più addentro nell'intimità divina se, corrispondendovi fedelmente, cresco nella grazia e nell'amore.
-O Spirito Santo, fammi ben comprendere che la perfezione
-consiste nel dirti sempre « Amen » ogni qualvolta mi chiedi
-qualche cosa per mezzo dell'obbedienza o delle tue ispirazioni. Aiutami Tu, ad evitare ogni piccola infedeltà, ogni
-esitazione, a non rifiutarti nulla ed allora la tua luce andrà
-sempre crescendo in me e l’amore diventerà un abisso che
-non si può scandagliare. Ma, o Spirito Santo, so bene che,
-praticamente, spesso cadrò, mancherò — Dio mio! purchè
-non sia volontariamente! — però Tu m'insegni che anche
-in questo caso devo rialzarmi subito e, con un atto
-di amore, rimettermi subito sotto il tuo influsso. No, Tu
-non vuoi che mi turbi, nè mi lasci scoraggiare dalle mie
-infedeltà, perchè il tuo spirito è soave; “O quanto è soave
-il tuo Spirito, o Signore* (Sap. 12, 1) e “dove è lo Spirito
-del Signore, ivi è libertà (II Cor. 3, 17), gioia e pace nello
+«È di più, o Maria, presso la Croce Tu sei diventata per noi un mare di amarezza a cagione della compassione per il Figlio crocifisso e della compassione per le anime nostre... Ma perché, o Madre, ci hai amato tanto? Perché, ci riempi del tuo affetto? Perché ci riempi del nostro Dio? Perché, chiedo, c'inebri d'amore del tuo Figliolo, mentre non siam buoni a renderti nulla? Che giova a te, amante delle anime, se te e il tuo Figliolo amiamo di grande amore? Non ti bastano le cose celesti? Perché cerchi cose terreni che pur sono fetidissimi e fangosi? Prendici, cacciatrice di anime, prendici e raccoglici nel seno della tua grazia. Chi può scampare dai raggi della tua pietà? No, che non può nessuno scansare il fuoco del tuo amore, perché il cielo e la terra son pieni dei tuoi benefizi... e sempre e dovunque tendi i lacci della tua benignità. Sì che da te, Madre dolcissima, non possiamo ragionevolmente fuggire, ma sempre riposiamo nel grembo della tua dolcezza» (cfr. S. Bonaventura).
 
-Spirito Santo » (cfr. Sr. Carmela d. Spirito S. c. s.).
+«O Maria, Tu sei più madre che regina! Meditando la tua vita, non ho alcun timore d'avvicinarmi a te. Ti vedo vivere nella povertà e nel nascondimento, senza rapimenti od estasi, senza fulgori di miracoli, senza azioni clamorose. E così mi fai intendere che anch'io posso seguire le tue orme, che anch'io posso salire l'erto sentiero della santità praticando le virtù nascoste. Vicino a te, o Maria, godo di restare piccola e scorgo meglio la vanità delle grandezze umane» (cfr. T.B.G. NV. e Poesie).
+
+O Maria, che nel silenzio e nel nascondimento hai dato al mondo Gesù, che, pur passando inosservata, hai partecipato a tutta la sua vita, alle sue opere, alla sua passione, insegnami il segreto dell'apostolato interiore fatto di preghiera e d'immolazione nascosta, noto a Dio solo.

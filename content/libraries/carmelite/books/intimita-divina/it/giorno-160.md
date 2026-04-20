@@ -1,113 +1,23 @@
-## 160 — SPIRITO DI FEDE
+## XXI — CONDOTTA PRATICA
 
-### Presenza di Dio
-
-— Dammi, o Signore, quello spirito di fede che mi permetta di mantenermi in contatto con te, in mezzo a qualsiasi occupazione e circostanza della mia giornata.
+**Presenza di Dio.** — *O Signore, la tua luce mi guidi sempre affinchè io non sbagli nel mio cammino.*
 
 ### Meditazione
 
-1. -- Due sono gli ostacoli principali che c'impedisco-
+**1** — In questo periodo di transizione tra la meditazione e la contemplazione, è molto importante che l'anima comprenda bene in che cosa consiste quell' « attenzione generale ed amorosa a Dio » di cui parla S. Giovanni della Croce, per saper come regolarsi in essa e quindi ricavarne i frutti migliori. Per il Santo, questo nuovo modo di fare orazione risulta da un esercizio delle virtù teologali, aiutate da un nascosto e delicato influsso dei doni dello Spirito Santo. In altre parole, da parte dell'anima si tratta di un esercizio di fede e di amore così intenso e semplificato che, senza ricorrere alla continua ripetizione di atti distinti, la pone in atteggiamento di attenzione amorosa a Dio. Ben lungi, quindi, dallo stare in ozio, l'anima fissa in Dio il suo sguardo, proprio mediante un prolungato atto di fede e di amore. Ma non è sola in questo esercizio: lo Spirito Santo le viene incontro e, mediante una segreta attuazione dei suoi doni, l'orienta e l'attira in Dio, infondendole una conoscenza amorosa di Lui. E così l'anima può perseverare a lungo in questo atteggiamento veramente contemplativo e, proprio perchè aiutata dallo Spirito Santo, « gusta di starsene da sola con amorosa attenzione a Dio, senza considerazioni particolari, in pace e riposo interiore » *(S. II,* 13, 4).
 
+Ma non sempre l'influsso dei doni sarà in lei tanto forte e gustoso, da tenerla così pacificamente occupata di Dio; spesso — soprattutto sul principio — sarà più debole e quindi più arido e, in genere, procederà sempre a sbalzi, perciò non sarà raro il caso in cui l'anima, per mantenersi raccolta in Dio, debba ricorrere a qualche industria e allora sarà molto utile che si applichi principalmente a rinnovare di tanto in tanto atti di fede e di amore, appunto perchè la sua parte in questa orazione consiste in un intenso esercizio di fede e di amore.
 
-no di mantenerci in contatto con Dio in mezzo alle occupazioni quotidiane. Anzitutto il nostro uman troppo
-umano che ci fa considerare le persone e gli avvenimenti
-da un punto di vista quasi unicamente terreno, materiale;
-in secondo luogo l’opacità delle creature, l'aspetto penoso,
-sconcertante e perfino cattivo di molte situazioni Finchè
-ci tratteniamo in orazione ai piedi del Signore, ci è facile
-pensare che lo possiamo trovare in ogni creatura ed in
-ogni incontro, ma quando ci troviamo in contatto con
-certe persone, con certe difficoltà, questo pensiero di fede
-svanisce e ci smarriamo in ragionamenti umani che ci fanno perdere di vista Dio e la sua azione nel mondo. Il grande rimedio è quello di coltivare un profondo spirito di
-fede.
+**2** — Parlando del passaggio dalla meditazione alla contemplazione, S. Giovanni della Croce nota che non si compie in tutti allo stesso modo, non solo nel senso che non si effettua in tutti maniera ugualmente progressiva, ma anche perchè Dio non intende mettere tutte le anime allo stato di contemplazione. Nella *Salita del monte Carmelo* (II, 15), egli insegna che l'anima non deve abbandonare definitivamente la meditazione fino a che si sia formata in lei l'abitudine della contemplazione e ricorda in proposito che più volte l'anima si trova in contemplazione fin dal primo momento dell'orazione, mentre altre volte bisogna che al principio si aiuti un po' con la meditazione. Anzi, dice espressamente: « fintantochè con piacere può discorrere nella meditazione, non deve smetterla, eccetto quando fosse stabilita nella pace e quiete... dell'amorosa attenzione a Dio » *(S. II,* 13, 2-4). Vi può essere quindi un periodo di fluttuazione più o meno lungo tra meditazione e contemplazione. Anzi, vi possono essere delle anime che Dio non allontana mai definitivamente dall'orazione più o meno meditativa.
 
-La fede non ci fa soltanto conoscere Dio in se stesso
-come Trinità, ma ce lo fa anche vedere in tutte le creature,
-in tutte le circostanze della vita, giacchè Egli è presente
-dovunque con la sua azione provvidenziale. Come Dio
-conosce le creature in relazione con se stesso, così la fede
-ce le mostra dipendenti da Lui ed in tal modo ce le fa
-vedere e giudicare un po’ come le vede e le giudica Dio
-stesso. La fede ci dice che nel mondo non accade nulla,
-assolutamente nulla, che non sia sottoposto al governo
-divino. È vero, Dio non può volere il male, perciò non vuole
-il peccato e neppure le conseguenze che ne derivano
-— come le ingiustizie, le liti, le guerre ecc. — ma semplicemente lo tollera per lasciar libere le sue creature; e, tuttavia, Egli interviene in qualsiasi situazione — anche in
-quelle causate dal peccato — per far rientrare tutto nel
-suo piano divino ordinato alla sua gloria, alla salvezza ed
-alla santificazione delle anime. Il mio spirito di fede deve
-essere così concreto da rendermi ben convinto che nessun
-avvenimento, nè nella mia vita privata, nè in quella sociale dei popoli, sfugge al governo di Dio, governo così
-
-iente e trasformatore che sa ricavare il bene anche
-dal male. Nulla, dunque, posso vedere sgariciato da Dio
-
-ed in qualsiasi persona, in qualsiasi situazione posso ritrovare Lui,
-
-
-2. — L'anima di fede non s'incontra con Dio soltanto
-nell'orazione, ma, vedendolo in tutte le cose, in tutte le
-cose lo incontra e può quindi mantenersi in contatto con
-Lui anche in mezzo agli affari. Lo spirito di fede le fa
-oltrepassare l’opacità delle creature e degli avvenimenti
-umani, sì che al di là di essi.trova sempre Dio. Le cause
-seconde diventano per lei trasparenti, lasciandole scorgere
-subito la Causa prima, Dio, dovunque presente ed operante. Saper riconoscere ed incontrare il Signore in ogni creatura — anche in quelle che ci urtano, ci offendono, ci
-fanno soffrire — in ogni avvenimento — anche nei più spiacevoli, penosi, sconcertanti — è un grande segreto di vita
-interiore. Allora il mondo diventa un libro aperto che su
-ogni pagina porta scritto a grandi caratteri l’unica parola:
-Dio; di fronte a Dio, alla sua volontà, alla sua permissione,
-ai suoi piani, tutto passa in seconda linea e si capisce come
-sia sciocco fissare lo sguardo sulle creature quando queste
-non sono — per così dire — che il diaframma che cela il
-Creatore. Ma uno spirito di fede così profondo richiede da parte nostra un assiduo esercizio.
-
-Nei miei incontri col prossimo — e quante persone
-incontro nella mia giornata! — posso abituarmi a salutare
-il Signore presente in ogni cretura; nei doveri del mio stato,
-negli ordini dei miei superiori posso vedere l’espressione
-della volontà di Dio; in tutte le circostanze grandi o piccole
-ed anche minutissime che mi cagionano noia, disagio,
-sofferenza, aggravio di lavoro o mutamento di piani, devo
-imparare a vedere altrettanti mezzi di cui Dio si serve per
-farmi esercitare la virtù: la pazienza, la generosità, la carità. Le ore di orazione mi devono servire a riguardare in
-questa luce soprannaturale tutti i particolari della mia vita,
-sì che attraverso ad essi io possa sempre trovare il Signore.
-
-
-amore ed onnipotenza infinita.
-
+Questo ci fa comprendere una volta di più che il fatto di essere giunta alla contemplazione iniziale non dispensa l'anima dalla sua attività personale. Anzitutto, si deve sempre preparare con diligenza all'orazione, ricorrendo anche all'aiuto di un libro; se poi non le riuscirà di applicarsi a riflettere su quanto ha letto, ciò le avrà almeno servito per raccogliere la sua mente in Dio. Parimenti, dovrà sempre iniziare la sua orazione mettendosi bene alla presenza del Signore e poi procederà secondo la grazia del momento, grata a Dio quando la raccoglierà senz'altro in Lui, e diligente ad aiutarsi con le sue riflessioni o col libro quando sentirà che altrimenti divagherebbe nel vuoto. Bisogna tener presente che, anche quando l'anima è posta nell'attenzione amorosa a Dio, la fantasia può trascorrere qua e là, « chè essa — dice S. Giovanni della Croce — anche in tempo di grande raccoglimento suole divagarsi » *(S. II,* 13, 3) e questo non è sempre un indice che bisogna ritornare alla meditazione. L'anima cerchi piuttosto di raccogliersi al di là e al di sopra di ogni movimento del pensiero e se avverte che in tal modo, sia pure in aridità, sta unita a Dio, perseveri così, benchè ciò richieda maggior fatica che non occuparsi nella lettura di un libro devoto.
 
 ### Colloquio
 
-«Dio mio, la tua divina presenza è dappertutto; contiene tutto, supera tutto, conduce tutto, penetra tutto, basta a tutto, dispone tutto per SUSE ogni cosa con
+« Signore, mio Dio, te premuroso io cerco; di te ha sete l'anima mia, a te anela il mio corpo, languente come terra riarsa, senz'acqua » *(Sal.* 62).
 
-inanzi alla tua divina
-presenza tutto il resto è nulla; essa è tanto grande e tanto
-potente che, in realtà, assorbe e fa scomparire ogni altra
-cosa, cioè tutto diventa nulla al tuo cospetto.
+« Chi mi darà ch'io trovi riposo in te? chi darà che Tu venga nel mio cuore e lo inebri ed io dimentichi i miei mali e abbracci te, unico mio bene? Che sei Tu per me? Permetti, nella tua bontà, che io ne parli. Che sono io per te, perchè Tu m'imponga di amarti e ti inquieti se non ti amo, minacciandomi tante miserie? Ed è forse piccola quella di non amarti? Povero mel dimmi, per la tua misericordia, dimmi, o Signore mio Dio, che cosa Tu sei per me? Di' all'anima mia *io sono la tua salvezza*. Di' così, in modo che io la senta. Ecco davanti a te l'orecchio del mio cuore. O Signore, aprilo; e di' all'anima mia *io sono la tua salvezza*. Io correrò dietro a questa voce e mi attaccherò a te. Ma Tu non nascondermi la tua faccia...
 
-<O Signore, fa’ che finalmente io arrivi a risalire ate
-dal creato, senza smarrirmi in vane riflessioni e distinzioni
-sulle creature, ma con semplicità e in spirito di fede, con
-fede viva ed inconcussa. lu SE dovunque con la tua
-bontà, col tuo amore individuale, infinito e con la tua onnirenza. Questa verità semplifica ogni cosa; in essa tutto
-Piena essenzialmente e sostanzialmente uno; questa Ve
-rità sorpassa, penetra e assorbe tutto il resto, tutto il crea-
+« O Padre, io non so la strada per cui si giunge a te. Tu insegnamela, mostramela, Tu dammi il viatico. Se è con la fede che ti ritrovano quelli che si rifugiano in te, dammi la fede; se è con la virtù dammi la virtù; accresci in me la fede, accresci in me la carità » (S. Agostino).
 
-Dio mio, Tu sei in tutto, quale tesoro! O Signore, fa!
-che io mi muova in questa verità come nel mio centro
-e in un asilo di riposo, dove niente può Colon può di
-strarmi da te, se vi resto ben nascosta » (cir. B. M. Te
-resa Soubiran). i
-
-Dammi, Del uno sguardo di fede così limpido
-e penetrante, che al di là delle creature e delle circostanze umane veda sempre la tua mano che tutto guida e di
-rige, che continuamente m'invita a seguirti, ad aderire
-a te. Fa' che, più delle creature, veda te, che sei il Creatore presente ed operante in ogni cosa; fa che sappia ricompenserti in ogni mio prossimo, che sappia ritrovarti in
-qualsiasi avvenimento della mia vita. Fa che le creature
-non trattengano il mio sguardo e il mio cuore, ma che, pur
-occupandomi di esse secondo i miei doveri, io tenda più a
-te che a loro, viva più con te che con loro. O Signore, Tu
-sei la prima e grande realtà, la realtà unica e assoluta in
-cui tutto ha vita e movimento! Fa’ che le piccole realtà terrene, che da te traggono l’essere, non si ergano talmente di fronte al mio sguardo da impedirmi di vederti, di ritrovarti, di unirmi a te attraverso tutte le cose.
+Dammi fede incrollabile, o Signore, dammi carità ardente! La fede e l'amore sono la guida che mi condurranno per ignoti sentieri fino al nascondiglio dove ti celi. Fa' che io sappia camminare in fede ed amore, e in fede ed amore sappia attendere la tua visita all'anima mia. O Spirito Santo, che preghi in me « con gemiti ineffabili » *(Rom.* 8, 26), vieni ad aiutare la mia miseria, vieni ad illuminare la mia fede, a risvegliare in me la carità; Tu, che penetri « le profondità dei misteri divini » (cfr. *I Cor.* 2, 10), istruiscimi, ammaestrami, fammi conoscere il mio Dio; Tu, che sei lo Spirito di Amore, dammi di Lui una conoscenza amorosa, sì che a Lui io rimanga totalmente orientato e tutto preso dal suo amore.

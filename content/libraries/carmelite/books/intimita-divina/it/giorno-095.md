@@ -1,100 +1,25 @@
-## 95 — PROVA DI AMORE
+## 19 — LA MORTE
 
-### Presenza di Dio
-
-— O Gesù crocifisso, degnati di farmi intendere come la Croce è la più grande prova di amore.
+**Presenza di Dio.** — *O Signore, che mi hai creato per te, fa' che io viva e muoia per amor tuo.*
 
 ### Meditazione
 
-1 — La Croce di Gesù, dopo l’Incarnazione, è la più
-grande prova di amore che Egli ha dato agli uomini; così
-anche per noi la mortificazione, la sofferenza abbracciata
-spontaneamente per amor suo è una delle più belle prove
-di amore che gli possiamo dare, Si tratta infatti di rinunciare liberamente ad una nostra soddisfazione, ad un nostro
-piacere per imporci per amor di Dio qualche cosa che ci
-dispiace e contraria; ciò dimostra chiaramente che preferiamo dar soddisfazione a Dio che a noi stessi. Ogni atto di
-mortificazione volontaria, sia fisica che morale, dice a Dio
-non con le parole, ma con i fatti: Signore ti amo più di
-me stesso! È siccome l’anima innamorata desidera vivamente dar prova del suo amorèé, è assai vigilante per non
-lasciarsi sfuggire nessuna occasione di rinuncia. î
+**1** — Anche oggi, giovedì dopo le Ceneri, troviamo nella liturgia un richiamo al pensiero della morte: « dai le disposizioni per la tua casa, perché morrai » (Ep.: *Is.* 38, 1-6). La Chiesa vuole renderci familiare il pensiero della morte, affinché « non veniamo colti all'improvviso e, cercando una dilazione far penitenza, non ci avvenga di non ottenerla » *(MR.).* È vero, Gesù nel Vangelo ci ha parlato della morte che sopraggiunge inaspettata come un ladro, nell'ora in cui uno meno se l'aspetta, tuttavia, per il cristiano vigilante che mette in pratica l'« *estote parati* » *(Lc.* 12, 40), la morte non sarà improvvisa, nel senso che lo troverà sempre pronto « con i fianchi cinti e la lampada accesa », simile a quei servi fedeli che aspettano il loro padrone « per aprirgli appena giungerà e picchierà » (ivi, 35 e 36). Allora non vi saranno rimpianti, non vi saranno timori ed ansietà, perché colui che ha sempre vissuto in attesa del Signore, non teme di aprirgli quando di fatto Egli giunge, ma gli va incontro con gioia, l'accoglie con grande amore e con tutto lo slancio dell'anima gli dice il suo ultimo « *Ecce venio* », ecco io vengo *(Sal.* 39, 8).
 
-In questo senso S. Teresa Margherita del Cuore di
-Gesù si era proposta di « non lasciar mai occasione che le
-si presentasse di patire più che poteva, sempre in silenzio
+Del resto la morte è l'*ultima,* ma non è l'unica venuta del Signore nella vita del cristiano; essa è preceduta da molte altre che hanno appunto lo scopo di preparare quest'ultima, affinché sia nel senso più pieno una venuta di grazia. Dal giorno del battesimo al termine della vita, è un continuo susseguirsi di venute, di visite del Signore; ogni sacramento ricevuto, ogni ispirazione, ogni aumento di grazia è una nuova visita divina all'anima, mediante la quale Dio ne prende sempre di più il possesso, stabilendo in lei la sua dimora in modo sempre più intimo e profondo. Chi non ha mai indugiato ad aprire il cuore a tutte queste venute del Signore, chi ha sempre accolto con fedeltà e con amore le sue visite, seguendo docilmente gli impulsi della grazia, non ha nulla da temere di fronte alla sua ultima venuta. Dolcissime, allora, gli risuoneranno alle orecchie le parole di Gesù: « Bene, servo buono e fedele... entra nel gaudio del tuo Signore » *(Mt.* 25, 21).
 
+**2** — Parlando delle persone giunte alla trasformazione d'amore in Dio, S. Giovanni della Croce spiega che la loro morte viene causata più dall'impeto dell'amore divino che dalle cause naturali. « Pur morendo durante un'infermità o nella pienezza degli anni, [esse] non sono tolte alla vita terrena da uno strappo violento dell'anima, ma da qualche impeto o incontro amoroso molto più sublime dei precedenti e si potente da squarciare la tela [del corpo] e portarsi via quel prezioso gioiello dell'anima » *(F.* 1, 30). È la cosidetta « morte di amore », morte preziosa e beata, vero incontro nuziale dell'anima con Dio, che introduce direttamente nella visione beatifica del cielo. È la morte delle anime sante, alle quali solo la prigione nell'involucro del corpo impedisce di veder Dio faccia a faccia.
 
-fra sè e Dio» e, in realtà, metteva ogni industria per
-«stare in ogni tempo ed occasione in qualche atto di
-patire o di pena corporale per non soddisfare mai, o nel
-modo o nella sostanza, alcun benchè minimo ed innocente
-appetito e desiderio, e per trovar maniera di rendere penose e moleste al corpo anche le pure ed inevitabili ne-
-cessità» (Sp. pp. 129 e 131). Il suo ardente amore per
-Iddio trovava uno sfogo in questo generoso e assiduo esercizio di mortificazione.
+Tuttavia accanto a questa morte di amore, così gloriosa e beata, si può dire che ve n'è un'altra molto più modesta e umile, alla quale tutti possiamo aspirare, purché amiamo sinceramente Dio e la sua santa volontà. Come l'essenza della santità consiste nel compiere con amore ogni volere divino, anche quando impone gravi sacrifici e penose rinunce, così l'essenza di una morte santa consiste nel sottomettersi con amore a questo supremo sacrificio, accettandolo di buon volere come ultima espressione della volontà di Dio. Quanto più profonda e piena sarà la rassegnazione e l'amore con cui un'anima accetterà la morte, tanto più la sua potrà dirsi una morte di amore, appunto perché abbracciata per amore di Dio.
 
-Con altra espressione S. Teresa del B. G. chiamava
-questa pratica: «sparger fiori » ossia valersi di ogni minima occasione di sofferenza per dare a Dio una prova di
-amore. E, sapendo che il pu e della mortificazione dipende dalle buone e generose disposizioni con cui si com-
-pie, la Santa diceva: «canterò sempre anche se debbo
-cogliere i miei fiori in mezzo alle spine » (St. 11).
-
-
-2—-1Il i io della mortificazione volontaria consiste
-assai più nella buona volontà con cui si esercita, che non
-nell’intensità della sofferenza che ci s'impone; benchè anche questa vi possa contribuire, nel senso che una morti-
-ficazione maggiore richiede maggiore buona volontà.
-La misura della sofferenza va saggiamente proporzionata, limitata secondo le forze fisiche di ciascuno; ma
-uello che non deve mai essere limitato è l’amore, lo spirito di generosità con cui compiere ogni atto di rinuncia.
-Sotto questo aspetto, vale assai più una lieve mortificazione
-compiuta con tutto l’amore di cui un'anima è capace, che
-non una gravosa penitenza compiuta materialmente, senza
-spirito interiore. Quindi, prima di fare un atto di morticazione — soprattutto quando si tratta di certe pratiche
-abituali, come quelle che sono in uso negli Istituti religiosi — è necessario risvegliare la buona volontà, il sin-
-cero desiderio di soffrire Frcegtiiri qualche cosa per amore
-di Dio, affinchè non accada di compiere degli atti più 0
-meno meccanici e quindi di poco o di nessun valore.
-L'amorosa contemplazione del Crocifisso era l’anima
-
-
-di tutte le austerità di S. Teresa Margherita: « Questo Dio
-umiliato e penante, e sempre fra i suoi pensieri versato,
-era quello che le dava la forza interna per superare qualunque fortissima difficoltà, che le faceva assumere spon-
-taneamente tante fatiche ed opere di carità e di mortifizione, che la rendeva insaziabile nel patire » (Sp. p. 126).
-Contemplando il Crocifisso l’anima sente che, per
-quanto si mortifichi per amor suo, i suoi sacrifici, le sue
-rinunce, sono un n €, anzichè concepire sentimenti di
-vana compiacenza per le mortificazioni compiute, sente il
-bisogno di umiliarsi e di fare sempre di più. « Ama molto
-i patimenti — insegna S. Giovanni della Croce —ve stimali ben poca cosa per entrare nella grazia dello Sposo,
-il quale non ha dubitato di morire per te » (AM. II, 15).
+Dio è il padrone assoluto della nostra vita; come dobbiamo vivere per amor suo, cercando di uniformarci in ogni cosa alla sua santa volontà, sì che questa sia in tutto e per tutto la norma suprema del nostro agire, così dobbiamo saper morire per amor suo, accettando dalle sue mani la morte nell'ora e nelle circostanze da lui stabilite. « Se viviamo, viviamo pel Signore — esclama S. Paolo — e se moriamo, moriamo per lui; sia che viviamo sia che moriamo, siamo del Signore » *(Rom.* 14, 8). Sia in vita, sia in morte siamo di Dio e, essendo suoi, null'altro dobbiamo desiderare se non di vivere e di morire secondo la sua santa volontà. Quando un'anima durante tutta la vita si è studiata di compiere col massimo amore la volontà di Dio, può avere la piena fiducia che il Signore le farà la grazia suprema di accettare con grande amore anche la morte.
 
 ### Colloquio
 
-«O mio Diletto, come ti darò io prova del mio amore
-se l’amore si attesta con le opere? To non ho altro mezzo
-per attestarti il mio amore, che sparger fiori, ossia non lasciarmi sfuggire nessun sacrificio per quanto piccolo: uno
-sguardo, una parola, anche nelle minime occasioni, e compierli per amore, Voglio soffrire per amore, ed anche per
-amore gioire; e così spargerò fiori. Non uno solo ne troverò, senza sfogliarlo per te..., e poi canterò, canterò sem-
-pre, anche se debbo cogliere le mie rose in mezzo alle
-spine; il mio canto sarà tanto più melodioso, quanto più
-lunghe e pungenti saranno le spine » (T.B.G. St. 11).
+« O Gesù, agonizzante sulla croce, sii il mio modello nell'ora della morte. Benché Tu sia l'autore ed il restauratore della vita, tuttavia hai voluto sottoporti alla morte coi e l'hai accettata con tutto il cuore per espiare i miei peccati. Tu che nulla devi alla morte, Tu, fonte di vita e d'immortalità, nel quale e per il quale tutte le creature vivono, hai voluto assoggettarti alla morte per farti simile a me e santificare la morte mia.
 
-«O Signore, disponi di me come più ti aggrada, chè
-di tutto sono contenta, purchè ti segua per la via del Calvario, e quanto più la troverò spinosa e la croce pesante,
-tanto più ne resterò consolata, poichè desidero amarti con
-amore paziente, con amore morto, cioè a dire tutto rilassato in te e con amore operativo... Signore mio, Tu in
-croce per me ed io in croce per te. Oh, se una volta potessi intendere quanto è dolce e quanto vale il patire:
-patite e tacere per te, o Gesù! O caro patire, 0 buon
+« O morte, chi ormai potrà temerti, giacché l'Autore della vita ti porta nel seno, ed in lui, senza dubbio, non puoi essere mortale, bensì vitale? Io ti abbraccio, ti stringo nei Cuore del mio divin Salvatore e qui, come pulcino sotto le ali della chioccia, aspetterò in pace i tuoi attacchi, ben sicuro che il mio clementissimo Gesù mi addolcirà le tue amarezze e mi difenderà dai tuoi rigori.
 
+« O Gesù, voglio impiegare tutte le mie forze nel sottomettermi fin d'ora a tutte le circostanze e i dolori della mia morte; fin d'ora di buon cuore voglio accettare la morte nel luogo, ora e maniera che a te piacerà stabilire.
 
-Gesù! » (T.M. Sp. pp. 325€ 361). Sì, caro patire perchè mi
-ermetti di dare al mio Dio prove di amore, perchè, nel-
-‘oscurità della fede in cui devo vivere quaggiù, mi dai la
-sicurezza di amare non a parole, ma con amore sodo, effettivo. O Gesù, ora comprendo perchè S. Teresa d'Avila
-non ti chiedeva che una cosa: «O morire o patire» e
-diceva di non aver altro motivo di vivere se non quello
-di soffrire per amor tuo (Vi. 40, 20).
-
-O Signore, potessi avere anch'io un amore così forte,
-così vero, così ardente! Concedimelo Tu che tutto puoi
-darmi e che puoi in un istante trasformare in una fornace
-di carità questo mio cuore così arido e così freddo.
+So molto bene che mi è necessario soffrire e venir macinato sotto i denti delle tribolazioni, dei dolori, delle privazioni, delle desolazioni e delle pene per diventare pane degno di servire al tuo celeste banchetto, o Cristo, nel giorno della risurrezione universale. So molto bene che se il grano di frumento non marcisce e muore sotto terra non produce la spiga, e perciò di tutto cuore accetto l'annientamento della morte per essere fatto uomo nuovo, non più mortale e corruttibile, ma immortale e glorioso » (S. Francesco di Sales).

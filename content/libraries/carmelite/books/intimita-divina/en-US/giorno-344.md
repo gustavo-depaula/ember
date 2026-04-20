@@ -1,69 +1,23 @@
-## 344 — INTERIOR TRIALS
+## 22 — APOSTOLIC HOPE
 
-### Presence of God
-
-O Lord, purify me like gold in the furnace; purify me and spare me not, that I may come to You.
+**Presence of God.** — *O Jesus, in your power, in your infinite love, in your Passion I place every hope for the souls you have entrusted to me.*
 
 ### Meditation
 
-1 — If you are patient in accepting exterior trials, little by little God will pass to those more intimate and spiritual, in order to «purify you well within so as to give you more interior goods» (cf. St. John of the Cross).
+**1** — In his work the apostle needs to be sustained by strong hope. Moments of enthusiasm are brief; successes are soon followed by failures; difficulties are many; the struggle unleashed by hostile forces is harsh and unceasing; and if the apostle were not anchored in God by firm theological hope, sooner or later he would give up, discouraged, in the enterprise. "I have overcome the world" *(Jn.* 16:33), Jesus said, and sending the Apostles to carry out his victorious mission he assured them: "I am with you all days even to the consummation of the world" *(Mt.* 28:20). Here is the foundation of apostolic hope: Christ's victory, his unceasing assistance. Yes, He is with us *all days*, therefore also on dark days when the horizon is black with no glimpse of light, when the enemy triumphs, friends depart, and humanly speaking no possibility of success is seen. If we trusted in our own resources, abilities, works, we would be right to despair and surrender; but it is not so. We hope, and we are certain in our hope, because God is omnipotent, because God wills that all men be saved, because Christ redeemed us with his Blood, because He died for us and for us rose again, because finally his promises - promises of a God - are infallible: "heaven and earth shall pass, but my words shall not pass" *(Mt.* 24:35).
 
-The passive night of the spirit reaches its summit precisely in these interior sufferings through which God «grinds down and dissolves the spiritual substance» of the soul so as to make it be born again completely to divine life.
+Relying on God's salvific will, on his infinite power, on Christ's Redemption, the apostle must nourish certain hope that in the end grace will triumph. But at the same time, so as not to expose himself to illusions, he must be convinced that victory is reached only by passing through Calvary. "The apostle is not greater than He who sent him" *(Jn.* 13:16); if Jesus reached the triumph of Resurrection only after his Passion and most painful death, the apostle cannot claim to tread another way. Hours of darkness will necessarily come for him too, but instead of being a sign of defeat they will be the prelude to victory; instead of being a sign of abandonment by God, they will be proof that God is with him, precisely because He is leading him by the same way by which He led his divine Son.
 
-We are indeed so mixed with miseries and defects, and they adhere so closely to our nature, that if God Himself does not lay hands on us, almost unmaking and remaking us from head to foot, we shall never be freed from them.
+**2** — Jesus too knew failure: when, after finishing his discourse in the synagogue, the Nazarenes in indignation "led Him to the brow of the hill, that they might cast Him down" *(Lk.* 4:29); when, twice, the Jews scandalized by his words "took up stones to stone Him" *(Jn.* 10:30-31); when the Pharisees conspired against Him and plotted deceit to condemn Him to death; when Judas betrayed Him; when his own abandoned Him and He, become the mockery of soldiers, was scourged, crowned with thorns, dressed as a mock king, slapped, spat upon; when He was preferred less than Barabbas; when He was dragged to Calvary between two thieves and crucified in their midst. Humanly speaking, one can indeed say that Jesus' apostolate ended in a clamorous failure, in the death of a criminal. All this must be deeply impressed in the apostle's mind so that he may not be scandalized when something similar occurs in his life: "If they have persecuted me, they will also persecute you" *(Jn.* 15:20).
 
-Jesus also spoke of this total remaking, this profound spiritual rebirth: «Unless one be born again of water and the Holy Ghost, he cannot enter into the kingdom of God» (Jn 3:5).
-
-The kingdom of God here below is the state of perfect union with Him, to which no one comes unless first totally purified.
-
-St. John of the Cross explained at length how this work of purification is performed precisely by the Holy Spirit, who, investing the soul with the living flame of His love, destroys and consumes all its imperfections.
-
-«As long as the divine flame,» says the Saint, «purges and disposes the soul, it is very painful to it: it is not a clear flame but a dark one, which, if it gives some light, does so that the soul may see and feel only its miseries and defects.»
-
-Though the soul is under the direct action of the Holy Spirit, this action is not pleasant but painful, because its first office is precisely to show all its weaknesses and miseries so that it may conceive horror of them, detest them, humble itself for them, and grieve over them.
-
-The penetrating light of the «living flame of love» lifts the thick veil that hid from the soul the roots of its evil habits.
-
-Before this vision the soul suffers, not only because it feels humiliated, but also because it fears being rejected by God. Recognizing itself so miserable, it feels terribly unworthy of divine love, and at times it even seems to it that the Lord, displeased, drives it from Himself.
-
-This is the greatest torment the soul can suffer, yet it is a precious torment, because it purifies it of every residue of self-love and pride, and digs in it that deep abyss of humility which calls and draws the abyss of divine mercies.
-
-2 — If God did not make you experience your misery, you could not be freed from it, because, not knowing it, you could not cooperate with the purification He wants to accomplish in you.
-
-Therefore, when through failures in your spiritual life, through impotence of spirit, or through struggles and rebellions of nature, divine light shows you the depths of your bad tendencies, you must humbly endure this sight.
-
-You must acknowledge and confess your weaknesses without excusing them, without blaming adverse circumstances, without turning your gaze elsewhere.
-
-These are the moments in which more than ever you must bow «under the mighty hand of God» (1 Pt 5:6), who shows you what in reality you are before Him.
-
-On the other hand, the picture of your miseries, however ugly and abominable it may be, must not throw you into discouragement. This is not why the Holy Spirit shows it, but to strip you of every trace of secret self-esteem and extinguish in your heart any claim to merit divine favors and gifts.
-
-You must not even think you have become worse than before. You always carried these miseries within you; the difference is that before you ignored them, while now divine light lets you see them clearly—and not to drown you in them, but to free you from them.
-
-Therefore, despite all the suffering you may feel at sight of your misery, you must remain trusting and certain that God will not abandon you.
-
-It is true: you have been unfaithful; you have not corresponded as you should to His love; the services rendered to Him are very little, indeed nothing compared with what God deserves.
-
-Yet He, infinitely good, does not despise your contrite and humbled heart. God loves you and, far from rejecting you, desires to unite you to Himself; but before doing so He wants to make you perfectly aware that you are wholly undeserving of so great a grace.
-
-God communicates Himself only to humble souls, and only the humble He fills with His gifts. Here is the reason for the purifying sufferings of the night of the spirit.
-
-Indeed, it is impossible to reach full humility without passing through the bitter anguishes of this night in which God undertakes to humble the soul.
-
-But when at last He has reduced it to the center of its nothingness, then He will exalt it by drawing it to Himself in perfect union of love.
+Through persecutions, humiliations, and failures the apostle will learn not to trust his own strength, to regard himself as an unprofitable servant even after toiling much, to become convinced of his own insufficiency and the insufficiency of all human means, and therefore to place all his hopes in God alone. He will learn to work only for love of God, without seeking the comfort of success, renouncing even the legitimate satisfaction of seeing the results of his labors; he will learn to detach himself from men's opinion and judgment, to act independently of their approval or disapproval, and to await only God's judgment and approval. The adversities and sorrows the apostle meets in his work constitute his dark night, comparable to that of contemplatives; painful night, but most precious, because ordered to purify his spirit of all remnants of self-love, egoism, vanity, and attachment to creatures and their esteem. If well accepted, this night will lead him little by little to ever greater interior purity and therefore to ever fuller union with God. He must therefore remain firm in hope and, despite struggles, difficulties, and failures, be sure of success not only for the salvation of souls entrusted to him, but also for his own personal sanctification. And if, by God's permission, this success remains hidden from him and all his work, like Jesus' own, ends in apparent defeat, in the Wounds and Blood of the divine Crucified he will find strength still to hope, to hope against all hope.
 
 ### Colloquy
 
-«O my soul, if you have been wounded by sin, behold your Physician ready to heal you. His mercy is infinitely greater than all your iniquities. And I tell you this not that you remain in your misery, but that, striving to overcome it, you may not despair of His clemency and pardon.
+"O Lord, I want to draw your mercy upon this poor world not only by the generosity of my sacrifice and detachment, but also by the generosity of my confidence. I want to believe against all evidence, to hope against all hope. I want to believe with unshakable confidence even when things seem to become ever more painful and difficult to resolve. O Lord, I want to move you by the firmness and generosity of my confidence!
 
-«Your God is sweetness itself, gentleness itself; whom will you love, whom will you desire apart from Him?
+"I know and firmly believe that You love me, that You permit everything for your greater glory and for my greater good; I know that I can cooperate in the salvation of souls and that the sufferings of this time are not proportioned to future glory; I know that to become saints one must suffer much and that one reaches pure love through pure suffering; I know that all is possible for me in You who are my support.
 
-«Do not be cast down, my soul, because of your imperfections. Your God does not despise you for being imperfect and infirm; rather He loves you because you desire and seek to be healed of your miseries.
+"Even when crushed, anguished, in agony, looking at You, Jesus Crucified, I can always taste an intimate, supernatural joy, because You admit me to share your sufferings so as to conform me to your Passion and one day admit me to share your glory.
 
-«He will come to your aid and make you more perfect than you would have dared hope, and adorned by His own hand, your beauty will have no equal, like His goodness.
-
-«Oh, my Jesus, tender Shepherd, sweet Master, help me; raise up your fallen little sheep; stretch out your hand to sustain me; heal my wounds; strengthen my weakness; save me or I perish.
-
-«I confess myself unworthy to live, unworthy of your light, unworthy of your help, because my ingratitude has been immense; yet your mercy is far greater still. Have pity on me, O God, You who so love men! O my last hope! Have pity on me according to the greatness of your mercies» (Bl. Louis de Blois).
-
-«Abyss calls to abyss. And there, my God, at the very depth, the meeting with You will happen: the abyss of my nothingness and misery will stand before the abyss of your mercy, of the immensity of your all; there I shall find strength to die to myself and be changed into love ...»
+"O Jesus, before any suffering, humiliation, trial, interior or exterior pain, I can always rejoice, thinking that You honor me by inviting me to share your Passion, your redemptive work for souls. Therefore, far from considering these sorrows as evils, teach me to embrace and welcome them as favors and precious means for my sanctification, vivifying them with love and with peaceful, total adherence to your will. O Lord, in this spirit I intend to offer You my prayer, my mortification, daily renunciation, and continual acceptance of the sufferings You send me, to draw graces upon the whole Church, to save souls" *(cf. Sr. Carmela of the Holy Spirit, o.c.d.)*.

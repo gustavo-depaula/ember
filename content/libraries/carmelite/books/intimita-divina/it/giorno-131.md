@@ -1,119 +1,33 @@
-## 131 — IL TRIONFO DI GESÙ
-*domenica delle Palme*
+## 55 — I SETTE DOLORI DI MARIA
 
-### Presenza di Dio
+*venerdì della settimana di Passione*
 
-O Gesù, voglio seguirti fino al Calvario.
+**Presenza di Dio.** — *Accoglimi, o Maria, vicino alla croce e fammi partecipare con te alla Passione di Gesù.*
 
 ### Meditazione
 
-1 — La settimana santa si apre col ricordo dell’i Di
-so trionfale del Signore in Gn serbe bp
-la domenica precedente la sua Passione. Gesù, che si era
-sempre opposto ad ogni manifestazione pubblica, e che
-era fuggito quando il popolo voleva farlo re (cfr. Gv. 6,
-15); oggi si lascia portare in trionfo. Solo ora, che sta per
-andare alla morte, accetta di essere pubblicamente acclamato quale Messia, perchè proprio morendo sulla croce
-sarà, nel modo più pieno, ii (essia, il Redentore, il Re,
-il Vincitore. Accetta di essere riconosciuto Re, ma un Re
-che regnerà dalla croce, che trionferà e vincerà mediante
-la morte di croce. La stessa folla esultante che oggi lo
-acclama, tra canti di gioia, domani lo condurrà al Calvario; e così il trionfo di oggi darà maggior rilievo
-e risalto alla Passione di dois sente pra
-cdi entra SHORT nella città santa, ma vi entra
-per soffrire, per morire, Di qui il doppio significato
-processione delle Palme: cin si fo ngi va
+**1** — La prima esplicita dichiarazione della parte che Maria SS.ma avrebbe avuto alla Passione di Gesù la troviamo nella profezia del vecchio Simeone: « una spada ti trapasserà l'anima » *(Lc.* 2, 35); profezia che trova la sua piena realizzazione sul Calvario. « Sì, o Madre beata — commenta S. Bernardo — una spada ha veramente trapassato l'anima tua. Perchè soltanto passando per questa ha potuto penetrare la carne del tuo Figliolo. E certo, dopo che il tuo Gesù ebbe reso lo spirito, la lancia crudele, aprendogli il costato, non giunse all'anima di lui, sibbene trapassò l'anima tua. Infatti l'anima di lui non c'era più là, ma la tua ne poteva distaccare » *(BR.)*. Bella interpretazione che ci fa intendere come Maria, in quanto Madre, fu intimamente associata alla Passione del Figlio.
 
+Il Vangelo non ci dice che Maria sia stata presente nei momenti gloriosi della vita di Gesù, ma ci dice invece che fu presente sul Calvario: « Presso la croce di Gesù stavano sua Madre e... Maria di Cleofa e Maria Maddalena » *(Gv.* 19, 25). Nessuno aveva potuto impedirle di correre là, dove il Figlio suo doveva essere giustiziato; ed il suo amore le dà il coraggio di « *stare* » là, ritta, in piedi, presso la croce, per assistere alla dolorosissima agonia e alla morte di Colui che amava sopra tutte le cose, giacchè era insieme suo Figlio e suo Dio. Come un giorno aveva accettato di diventarne la Madre, ora accetta di vederlo martoriato dalla testa ai piedi, accetta di vederselo strappare da una morte crudele.
 
-gnare Gesù in trionfo, ma di accompagnarlo alla Passione,
-pronti a condividerla con lui, cercando — secondo l’esortazione di S. Paolo (Ep.: Fil. 2; 5-11) di far nostri i
-suoi sentimenti, sentimenti di umiltà e d’immolazione totale. che devono condurci, come lui e con lui « fino alla
-morte cvalla morte di croce». Le palme; i rami d'ulivo benedetti, che oggi il sacerdote ci consegna, non hanno solo
-un significato di festa, ma « desi 10 la vittoria che Gesù
-sta per riportare sul Liegi della morte » (MR.). Devono
-quindi designare anche la nostra vittoria; dobbiamo anche
-noi meritare la palma della vittoria, anzitutto vincendo il
-male che è in noi, nelle nostre cattive tendenze, e poi il
-male che è fuori di noi. Ricevendo la palma benedetta
-rinnoviamo la nostra promessa di voler vincere con Gesù,
-e non dimentichiamo che Egli ha vinto sulla Croce.
+E non solo accetta, ma offre. Gesù era andato spontaneamente alla Passione, e Maria offre volontariamente il Figlio diletto per la gloria della SS.ma Trinità e per la salvezza degli uomini. Il sacrificio di Gesù diventa perciò il sacrificio di Maria, non solo perchè Maria l'offre insieme con lui e offre in lui il Figlio che le appartiene, ma anche perchè con questa offerta compie il più profondo olocausto di se stessa, essendo Gesù il centro dei suoi affetti, di tutta la sua vita. Dio, che le aveva dato quel Figlio divino, sul Calvario glielo richiede e Maria glielo offre con tutto l'affetto del suo cuore, con la più intera adesione alla volontà divina.
 
+**2** — La liturgia del giorno mette sulle labbra della Madonna addolorata queste commoventi parole: « O voi che passate per via, fermatevi e considerate se vi è un dolore simile al dolore mio » *(MR.)*. Sì, il suo dolore è incommensurabile, ma il suo amore è più grande ancora, tanto grande che tutto può contenere quel mare di dolore; di nessuna creatura come di Maria si può dire che il suo amore è più forte della morte e di fatto l'ha resa capace di sopportare la morte amarissima di Gesù.
 
-2 — Gesù accetta di essere portato in trionfo, ma
-come è umile e mansueto nel suo trionfo! Egli sa che in
-mezzo al popolo osannante si nascondono i suoi nemici
-che, con maligne insinuazioni, riusciranno a convertire
-quegli « hosanna » in « crucifige »; lo sa e potrebbe imporsi ad essi con la potenza della sua Divinità, potrebbe
-smascherarli pubblicamente, sventando i loro piani. Ma
-Gesù non vuol vincere e regnare con la forza, bensì con
-l’amore; con la dolcezza; ben a proposito nota l'Evangelista: « Dite alla figlia di Sion: ecco il tuo re viene a te
-mansueto; cavalcando un asinello » (Mt.21, 5). E con la
-stessa mansuetudine lui, l’ Innocente, l’unico vero Re e
-Vincitore, accetterà di apparire quale reo, quale condannato e vinto, quale re da burla. Ma proprio così, quando
-sarà inalzato sulla croce, trarrà tutto a sè.
+« Chi potrebbe rimanere impassibile nel contemplare Maria di Cristo dolorante col Figlio? » canta lo *Stabat Mater* e subito soggiunge: « O Madre... fammi sentire la veemenza del tuo dolore, onde io pianga con te. Fa' che io porti nel mio cuore le piaghe di Cristo, fammi consorte della sua Passione, fa' che io sia inebriato della Croce e del Sangue del Figlio tuo ». Seguendo l'invito della Chiesa contempliamo, compatiamo i dolori di Maria, chiediamole la grande grazia di partecipare con lei alla Passione del suo Gesù. E ricordiamo che questa partecipazione non deve rimanere nel campo del sentimento — sia pure di sentimenti buoni e santi — ma deve condurci al vero *compatire*, cioè al *patire insieme* con Gesù e con Maria. Le sofferenze che incontriamo nella nostra vita ci sono date appunto per questo.
 
-Mentre il corteo procede festante, Gesù vede profilarsi ai suoi piedi il panorama di Gerusalemme. E— narra
-S. Luca (19, 41-44) — «quando fu vicino alla città la
-guardò e pianse su di lei dicendo: ‘O se conoscessi anche
-tu e proprio in questo giorno, quel che giova alla tua
-pace!... I tuoi nemici non lasceranno în te pietra su pietra,
-
-
-perchè non hai conosciuto il momento nel quale sei stata
-visitata». Gesù piange sull’ostinazione della città santa,
-che, per non averlo riconosciuto come Messia, per non
-aver accolto il suo vangelo, verrà distrutta dalle fondamenta: Gesù è vero Dio, ma è anche vero uomo e, come
-tale, vibra di commozione e di dolore per la triste sorte
-che Gerusalemme si è preparata con la sua ostinata resistenza alla grazia. Egli sta per andare alla Passione e morirà
-anche per la salvezza di Gerusalemme, ma Gerusalemme
-non sarà salvata perchè non l’ha voluto; « perchè non ha
-riconosciuto il momento nel d0E è stata visitata». È
-questa la storia di tante anime che resistono alla grazia; è
-
-uesto il motivo della sofferenza più profonda e più intima del Cuore dolcissimo di Gesù. Almeno tu, anima
-devota; da’ al Signore la gioia di vederti approfittare appieno dei meriti della sua dolorosissima Passione, di tutto
-il suo Sangue versato. Quando. resisti agli inviti della
-grazia, resisti alla Passione di Gesù e impedisci che questa
-ti venga applicata in tutta la sua pienezza.
+La visione della Madonna ai piedi della croce ci rende sempre più dura e sempre più amara la lezione della croce, l'esempio materno di lei c'incoraggia al patire, ci rende più soave la via del Calvario. Andiamo, dunque, con Maria a raggiungere Gesù sul Calvario, andiamo con lei incontro alla croce e, sostenuti da lei, abbracciamola volontariamente per offrirla insieme con quella del Figlio suo.
 
 ### Colloquio
 
-«O Gesù, ti contemplo nella tua entrata trionfante in
-Gerusalemme, quando, presago della turba che stava per
-venire ad incontrarti, sei montato sull’asinello e hai dato
-esempio di mirabile umiltà tra gli ia del popolo
-accorrente che ‘tagliava î rami degli alberi e tappezzava
-di vesti la strada. hi mentre le folle cantavano inni di lode,
-Tu, mai dimenticando la tua compassione, hai pianto su
-Gerusalemme. Sorgi adesso, anima mia, ancella del Salvatore; e nel corteo delle figlie di Sion, va’ a vedere il tua
-Re. Accompagna il Signore del cielo e della terra, sedente
-in groppa al puledro, seguilo sempre con rami d’olivo e
-di palme, con opere di pietà e con virtù vittoriose »
-(cfr. S. Bonaventura).
+« O Maria, santa Madre di Gesù crocifisso, dimmi qualche cosa della sua Passione, perchè, fra tanti che vi furono presenti, Tu più di tutti ne sentisti e vedesti, avendola mirata con gli occhi del corpo e della mente, e avendola considerata con ogni attenzione, giacchè Tu grandemente l'amavi » (B. Angela da Foligno).
 
-O Gesù, com'è amaro il tuo pianto sulla città che non
-ti vuol riconoscere! E quante anime, come Gerusalemme,
+« O Maria, fammi stare con te accanto alla croce, fammi contemplare con te la Passione del tuo Gesù; fammi partecipare al tuo dolore, al tuo pianto. O Santa Madre, imprimi profondamente nel mio cuore le piaghe del Crocifisso, fammi soffrire con lui, associami al suo ed al tuo patire » (cfr. *Stabat Mater*).
 
+« O Regina dei vergini, Tu sei anche Regina dei martiri. Ma la ferita del pugnale si apre nel tuo cuore, perchè in te tutto avviene al di dentro...
 
-vanno incontro alla perdizione per la loro ostinata resistenza alla grazia. Per esse ti supplico con tutte le mie
-forze. «È qui, mio Dio, che EA manifestarsi il tuo
-POSar qui che deve risplendere la tua misericordia!...
+« Oh! come sei bella se ti contemplo durante il tuo lungo martirio, così serena, ammantata di una maestà che emana forza e dolcezza insieme! Tu avevi dal Verbo stesso come devono soffrire coloro che il Padre ha scelto per vittime, che ha deciso di associare alla grande opera della Redenzione, coloro, che 'ha conosciuto e predestinato ad essere simili al suo Cristo', crocifisso per amore.
 
-iom’è difficile la mia domanda, o mio vero Dio, quando
-ti prego di amare chi non ti ama, di aprire a chi non
-bussa, di dar la salute a chi va in cerca di malattia e gode
-d'essere malato!... Tu dici, Signor mio, che sei venuto a
-cercare i peccatori. Eccoli quì, Signore, i veri peccatori!
-Ma invece di guardare alla nostra cecità, considera, ti
-RE o, mio Dio, il Sangue prezioso che sparse per noi il
+« Tu sei là, o Maria, ai piedi della croce, eretta, nella forza e nel coraggio; ed il Maestro mi dice: 'Ecco la Madre tua'. Mi da te per mamma! Ora che Egli è ritornato a casa, che mi ha messo al suo posto sulla croce, perchè io soffra in me 'quel che manca alla sua Passione per il suo corpo che è la Chiesa', Tu, o Maria, sei ancora là, per insegnarmi a soffrire con lui, per ripetermi, per farmi comprendere l'ultimo canto della sua anima, quel canto che Tu sola, la Madre, hai potuto intendere » (E.T. II, 15).
 
-iglio tuo. Fa' che fra tanta malizia risplenda la tua misericordia e, considerando, Signore, che siamo tue creature, spandi su di noi la tua misericordiosa clemenza.» (T.G.
-Es.8,2€3).
-
-È pur vero, o Gesù! anche se noi resistiamo alla grazia, Tu sei sempre il Vincitore, la tua vittoria sul principe
-delle tenebre è stata piena e in te l'umanità è salva e redenta. Ma Tu sei il buon Pastore che conosce e ama ad
-una ad una le sue pecorelle e ad una ad una le vuol portare în salvo. Al tuo Cuore amantissimo non basta l’aver
-meritato la salvezza per tutto il gregge, ma esso desidera
-ardentemente che ogni pecorella approfitti di questa salvezza... O Signore, dacci dunque quella buona volontà
-capace di accogliere il tuo dono, la tua grazia; fa’ che la
-Passione tua non sia vana per noi,
+O Madre dolcissima, perchè il mio desiderio di soffrire non sia vano, aiutami a riconoscere in ogni sofferenza quotidiana la croce del tuo Gesù e ad abbracciarla con amore.

@@ -1,115 +1,24 @@
-## 134 — L'UOMO DEI DOLORI
-*mercoledì santo*
+## 58 — LA CENA DI BETANIA
+*lunedì santo*
 
-### Presenza di Dio
-
-— O Gesù appassionato, fa' che nella tua Passione io possa leggere l'amor tuo per me.
+**Presenza di Dio.** — *O Signore, prima che il tuo corpo venga sfigurato dalla Passione, desidero, con Maria di Betania, prestargli i miei umili e devoti omaggi.*
 
 ### Meditazione
 
-1 — La Messa di oggi porta due lezioni di Isaia (62,
-11 63, 1-7; 53,1-12) che tratteggiano in modo impressionante la figura di Gesù, l' Uomo dei dolori. È il Cristo
-sofferente che si presenta ai nostri sguardi ricoperto della
-viva porpora del suo Sangue, piagato dalla testa ai piedi.
-«Perchè dunque il tuo paludamento è rosso ed il tuo vestito come quello di coloro che pigiano nello strettoio? —
-Da me solo ho premuto il torchio e delle genti nessuno è
-con me». Da solo Gesù ha premuto il torchio della sua
-Passione. Pensiamo all’agonia nell'orto quando la veemenza
-del dolore imporporò tutte le sue membra di un sudore di
-sangue, Pensiamo al momento in cui Pilato, dopo averlo
-fatto flagellare, lo presentò alla folla. dicendo: «Ecco
-l’uomo »; Gesù apparve allora con il capo coronato di spine, le carni straziate dai flagelli, mentre il rosso vivo del
-suo Sangue si confondeva col vermiglio della veste di porpora, di cui i soldati l'avevano vestito per farne un re da
-burla. E mentre Cristo dava se stesso per gli uomini, versando il Sangue per la loro salvezza, gli uomini l’abbandonavano: « Girai lo sguardo e nessuno mi prestò soccorso,
-cercai e non vi fu chi mi desse aiuto ». Dove sono i malati
-da lui guariti, i ciechi che al tocco delle sue mani hanno
-riacquistato la vista, i morti risuscitati, le migliaia di persone da lui sfamate col pane del miracolo, tutti gli innumerevoli che in tanti modi hanno sperimentato la sua
-bontà? Davanti a Gesù non c’è che una folla inferocita
-che urla: «Crucifige, crucifige! ». Anche gli Apostoli,
-anche i più intimi se ne sono andati e proprio uno di
+**1** — Ecco la scena commovente presentataci dal Vangelo della Messa odierna *(Gv.* 12, 1-9): « Sei giorni prima di Pasqua Gesù venne a Betania... E quivi gli fecero una cena; Marta serviva... Maria poi prese una fiala d'unguento di nardo di gran valore, e ne unse i piedi a Gesù e glieli asciugò coi suoi capelli ». Marta, come al solito, si affaccenda nel servizio; Maria invece si occupa solo di Gesù e, per rendergli omaggio, non le sembra troppo spargere sulla sua Persona un intero vaso di unguento prezioso. Alcuni invitati mormorano: « Perchè questo sciupio? Non si sarebbe potuto vendere quell'unguento a pro dei poveri? » e fremono contro di lei (cfr. *Mr.* 14, 4 e 5); ma Maria non risponde, non si scusa e tutta intenta al Maestro adorato, continua il suo gesto di devozione e di amore.
 
+Maria è il simbolo dell'anima innamorata di Dio che si dona esclusivamente a lui, consumando per lui tutto ciò che è, e tutto ciò che possiede; è il simbolo di quelle anime che lasciano, del tutto o in parte, l'attività esterna per dedicarsi maggiormente al servizio diretto di Dio, per darsi ad una vita di più intima unione con lui. E chi non comprende mormora, quasi fosse sprecato consumare per Iddio ciò che non si ritiene sprecato consumare per le opere. Se tutto quel che siamo e abbiamo è dono suo, sarà davvero uno sciupio usare i suoi doni per sacrificarli unicamente in suo onore, supplendo così all'indifferenza di tante creature che non hanno neppure un pensiero per lui?
 
-loro l’ha tradito: «Se un nemico m'avesse insultato,
-l’avrei sopportato... ma sei stato tu, tu che eri un'anima
-sola con me, mio duce, mio amico e familiare, tu che
-eri già stretto con me in dolce intimità » (Sul. 54, 13-1 5)
-A questo testo che oggi, come in tutti i mercoledì dell’anno, leggiamo nei salmi di Terza e che esprime tanto
-bene l'amarezza di Gesù di fronte al tradimento e all'abbandono dei suoi, corrisponde questo responsorio di
-Mattutino: «In contracambio dell’ amor mio m'imputano senza ragione. E rendono a me male per bene e
-odio in cambio del mio amore » (BR.). dr,
+Il denaro, il tempo, le forze e anche le vite umane che si consumano per il servizio diretto del Signore non sono valori sciupati, ma anzi, impegnati in ciò che vi può essere di più grande. L'elemosina ai poveri è un dovere, ma l'amore verso di Dio, il culto di Dio è un obbligo più grande ancora. E se urgenti doveri di carità esigono talvolta che si lasci il servizio di Dio per il servizio del prossimo, questo però non deve farci capovolgere le posizioni: Dio deve sempre avere il primo posto.
 
-Contemplando Gesù nella sua Passione ognuno di noi
-può dire: « dilexit me, et tradidit semetipsum pro me»,
-mi ha amato e ha dato se stesso per me (Ga/. 2, 20), ed
-è bene che poi si domandi: come ho ricambiato il suo
-amore?
+Del resto, Gesù stesso prende le difese di Maria: « Lasciatela stare, ha serbato questo profumo per il giorno della mia sepoltura ». In nome di tutte le anime amanti, Maria ha reso al corpo santissimo di Gesù, prima che fosse sfigurato dalla Passione, l'ultimo omaggio di un amore ardente e devoto.
 
-
-2 — Nessuno più di Gesù avrebbe avuto diritto alla
-riconoscenza e alla fedeltà degli uomini, perchè nessuno
-più di lui li ha beneficati, eppure nessuno più di lui ha
-assaporato l'amarezza dell’ingratitudine e del tradimento.
-
-Accostiamo per un istante il prologo del Vangelo di
-S. Giovanni, in cui Gesù ci è presentato nella sua ‘maestà
-divina, nel suo splendore eterno di Verbo, di « luce vera,
-venuta ad illuminare il mondo », con la lezione di Isaia
-(2° lez. della Messa) che ci dipinge lo stato di obbrobrio
-e d’ignominia a cui l'ha ridotto la sua Passione e intuiremo più a fondo due grandi verità: l'eccessiva carità
-con cui Gesù ci ha amato e l’enorme gravità del peccato.
-
-Proprio di lui, Figlio di Dio, è detto: « non ha bellezza
-alcuna, nè splendore; noi l'abbiamo visto e non aveva al
-cuna apparenza che attirasse i nostri sguardi. Abbietto, l'ultimo degli uomini, l’uomo dei dolori, che... quasi cerca di
-nascondersi la faccia ». Non ha splendore, lui che è lo
-splendore del Padre; cerca di nascondere il volto, lui il cui
-volto forma la beatitudine degli angeli e dei santi; ed è tal
-mente sfigurato da sembrare un lebbroso, così abbietto che
-
-
-nessuno «ne ha fatto alcun conto ». In tale stato l'hanno
-ridotto i nostri peccati: « Veramente delle nostre infermità Egli si è caricato e si è addossato i nostri dolori
-[infermità e dolori conseguenze del peccato] ...Egli è
-stato trafitto per le nostre. iniquità, è stato maltrattato
-per le nostre colpe... Il Signore fece ricadere su. di lui
-le iniquità di noi tutti ». Ma in tale stato l’ha pure ridotto
-il suo amore per noi, amore che gli ha fatto liberamente
-abbracciare la Passione; e avendola abbracciata « perchè
-l’ha voluto », non si è sottratto ai suoi nemici, ma spontaneamente si è dato nelle loro mani, Ricordiamo il momento in cui Gesù, dopo aver atterrato con la sua patenza divina i soldati venuti a catturarlo e aver dichiarato che, se lo volesse, potrebbe avere in sua difesa legioni
-di angeli, si lascia prendere e legare senza la minima resistenza; ricordiamo quando, già prigioniero e condannato non esita a dire al governatore romano: « Tu non
-avresti nessun potere su di me, se non ti fosse dato dall’alto » (Gv. 19, 11). Gesù è la vittima che va spontaneamente al sacrificio, è la vittima che s'immola per amore
-e con piena libertà. Massimo amore e massima libertà,
-perchè sono l’amore e la libertà di Dio.
+**2** — Nel Vangelo di S. Giovanni è detto espressamente che le mormorazioni verso il gesto di Maria furono mosse da Giuda Iscariote. Accanto a quella di Maria, la fedelissima, la tetra figura del traditore ha un risalto ancor più tenebroso; materialmente egli fa ancora parte del dodici, ma spiritualmente non è già da tempo separato. Fin dall'anno precedente, quando il Maestro aveva annunziato l'Eucaristia, Giuda era perduto e, proprio alludendo a lui, Gesù aveva detto: « Non fui io a eleggere voi dodici? Eppure uno di voi è il diavolo » *(Gv.* 6, 71). Sì, Giuda era stato scelto da Gesù con amore di predilezione, era stato ammesso fra i suoi più intimi e, come gli altri undici, aveva ricevuto la grande grazia dell'apostolato. Da principio dovette essere fedele, ma poi l'attacco ai beni terreni, la cupidigia per il denaro cominciò ad invaderlo sino a raffreddare completamente il suo amore per il Maestro, sino a trasformarlo da apostolo in traditore. Gesù, nella sua prescienza divina, aveva tutto previsto e tuttavia, poichè agli inizi Giuda era stato degno della sua fiducia, lo aveva ammesso ugualmente nel collegio apostolico e, anche dopo, quando aveva già cominciato a prevaricare, continuò a trattarlo come gli altri, dimostrandogli lo stesso amore, la stessa stima. Situazione assai penosa per il Cuore sensibilissimo di Gesù, ma Egli non ha voluto evitarla per insegnarci con quanto amore, con quanta pazienza e delicatezza vanno trattati anche i più ostinati nemici. Quante volte il Maestro avrà cercato d'illuminare quella mente ottenebrata! E certamente avrà pensato in modo speciale a Giuda quando impartiva i suoi insegnamenti sul distacco dai beni terreni: « Non potete servir Dio e Mammona... Che giova mai all'uomo guadagnare tutto il mondo se poi perde l'anima? » *(Mt.* 6, 24; 16, 26); e tuttavia queste parole, che dovevano avere per il traditore il significato di un richiamo amoroso, non riuscirono a scuoterlo. Giuda rappresenta quelle anime che hanno avuto da Dio grazie di predilezione, ma che per la loro infedeltà se ne sono rese indegne. Anima consacrata, almeno tu sii fedele alla tua vocazione e, per mantenerti tale, non permettere che il più piccolo attacco alligni nel tuo cuore!
 
 ### Colloquio
 
-«In che stato ti intuisco, Gesù dolce! O dolcissimo ed
-amantissimo Gesù buono! Ti hanno martoriato con le
-ferite molteplici di flagelli e di chiodi, ti hanno coronato
-di spine! Quanti sono, buon Gesù, quelli che ti percuotono! Ti percuote il Padre tuo, poichè a te non perdonò, ma
-ti consegnò vittima per tutti noi. E ti percuoti da te, offrendo alla morte l’anima tua, quella che nessuno può togliere a te, senza di te. E ti percuote, inoltre, il SRO
-che ti tradisce col bacio. E ti percuote il giudeo con calci e
-manate; e ti percuotono i gentili con flagelli e con chiodi.
-Ecco, quante persone, quante umiliazioni, quanti carnefici!
+Ecco, o Signore, due vie, le più opposte e contrastanti: la via della fedeltà, la via del tradimento; la fedeltà amorosa di Maria di Betania, il tradimento orribile di Giuda. Come vorrei, o Signore, avere per te il cuore di Maria; come vorrei che in me fosse interamente morto e distrutto il traditore! Ma tu mi dici: « Vegliate e pregate per non cadere in tentazione! » *(Mr.* 14, 38). Oh, quanto mi è necessario vegliare e pregare, affinchè il nemico non venga a seminare nel mio cuore il germe velenoso del tradimento! Che io ti sia fedele, Signore, fedele ad ogni costo, fedele nelle grandi, ma anche nelle piccole cose, sì che le volpicelle dei piccoli attacchi non possano entrare ad invadere e a devastare la vigna del mio cuore.
 
-«E quanti, i traditori tuoi! Il Padre celeste ti tradì,
+« Gesù Signore, se io voglio meditare piamente la tua Passione, prima a venirmi sott'occhio è la perfidia del traditore. Egli fu ripieno di tanto veleno di frode, da tradire te, suo Maestro è Signore; acceso da tale fiamma di cupidigia che vendette per argento te, ottimo Dio, per vile moneta il tuo Sangue preziosissimo; egli fu di tanta ingratitudine da perseguitare a morte chi l'aveva inalzato al grado ecelso di Apostolo... O Gesù, quanto fu eccessiva la tua bontà verso il duro discepolo! Sebbene l'empietà del traditore fu tanto grande, son colpito infinitamente più dalla dolcissima mitezza tua, o Agnello di Dio! E questa mitezza è data a noi a modello. Ecco qui, o Signore, l'uomo che Tu avevi ammesso a confidenze uniche, l'uomo che sembrava tanto unito a te, tuo Apostolo, tuo intimo, l'uomo che assaggiò il tuo pane, l'uomo che alla santa cena mangiò con te le dolci bevande... e quest'uomo ha levato su di te, suo Maestro e Dio, il colpo dell'iniquità. E nonostante... Tu, mitissimo Agnello, non hai dubitato darti alla maliziosissima bocca, alla bocca che nell'ora del tradimento, ti baciò. Tutto gli hai dato come agli altri Apostoli, per dargli ogni cosa che avesse potuto ammansire la pertinacia di un cuore cattivo » (cfr. S. Bonaventura).
 
-
-per noi tutti; e Tu tradisti te stesso, come S. Paolo gioiosamente cantava: Mi amò e si tradì da sè, per me.
-
-«Quel cambio è in realtà meraviglioso! Tradì se
-stesso il Padrone per il servo, Iddio per l’uomo, il Creatore per la creatura, l’Innocente per il peccatore. E Tu
-ti consegnasti da te nelle mani di quel traditore, del
-discepolo falso, Il traditore ti consegnò ai giudei. I giudei
-
-simi ti consegnarono ai gentili per le irrisioni, gli
-sputi, la flagellazione, la crocifissione. L'avevi dette queste
-cose, le avevi predette: si sono avverate. E, consumate
-tutte le cose, ecco, Tu sei crocifisso e collocato tra i
-malvagi. Ma bastasse che Tu fossi ferito! Aggiunsero
-altre cattiverie sopra .il dolore delle tue piaghe, e ti
-han dato — a te riarso di sete — la pozione del vino
-mirrato misto di fiele.
-
-«Io piango sopra di te, mio Re, Signore e Maestro,
-Padre e Fratello mio, Gesù amantissimo » (S. Bonaventura).
+O Gesù, per la sofferenza atroce che il tradimento infame ha inflitto al tuo Cuore, concedimi te ne supplico, la grazia di una fedeltà integra, totale, amorosa, devota.

@@ -1,95 +1,19 @@
-## 192 — LO SPIRITO SANTO E L'ATTIVITÀ
+## XXIII — LA NOSTRA COLLABORAZIONE
 
-### Presenza di Dio
-
-O Spirito Santo, sii l'ispiratore delle mie azioni, il regolatore della mia attività.
+**Presenza di Dio.** — *O Spirito Santo, rendimi docile alla tua azione, sempre pronto a lasciarmi muovere e dirigere da te.*
 
 ### Meditazione
 
-1. — L'anima interiore deve arrivare, gradatamente,
-a porre tutta la sua vita — e quindi non solo la sua preghiera, ma anche la sua attività — sotto la direzione dello
-Spirito Santo. Gesù stesso ci ha detto che Egli deve « insegnarci ogni cosa e suggerirci tutto» (cfr. Gv. 14, 26).
-Consideriamo in primo luogo quell’attività più strettamente
-congiunta alla nostra vita spirituale e che consiste nel cercare di attuare durante il giorno i buoni propositi formulati
-nella preghiera: sono i propositi dei nostri Esercizi annuali,
-dei nostri ritiri mensili, Melle. nostre confessioni settimanali.
-Talvolta le anime ne fanno un lavoro quasi esclusivamente
-«morale» e troppo poco «teologale»; ossia cercano di
-correggersi dei loro difetti e di esercitarsi nelle virtà con
-l'intenzione di piacere a Dio, sì, ma in pratica lo fanno
-rimanendo, per così dire, sganciate da Dio. L'anima lavora
-da sola, quasi dimenticandosi che in lei c'è chi potrebbe
-non solo aiutarla, ma lavorare assai meglio di lei; è un po'
-simile ad un marinaio che, tutto intento a remare, non si
-cura per nulla del soffio del vento e così non riceve alcun
-aiuto. L'anima non deve certamente tralasciare il suo lavoro,
-ma lo deve compiere in un modo più interiore, più teologale, ossia più dipendente da Dio, dall'azione dello Spirito
-Santo. Anzichè prendere di mira direttamente un difetto
-o una virtù, le gioverà molto di più prendere di mira la
-continua dipendenza dal Maestro interiore, passando all’azione dopo aver ascoltato la sua voce intima e silenziosa.
-Insomma, si tratta di agire in tutte le cose adeguandosi al
-movimento interiore della grazia, all’ispirazione dello Spirito
-Santo; si tratta di trasferire l’andamento della nostra vita
-interiore dalle mani nostre alla direzione dello Spirito
-Santo.
+**1** — Di fronte alla santità noi siamo sempre degli scolaretti, degli apprendisti che avendo una conoscenza molto limitata dell'arte che stanno imparando, hanno sempre bisogno della guida e dei suggerimenti del loro maestro. Il Maestro di santità è appunto lo Spirito Santo; parlando di Lui Gesù ha detto: «Egli v'insegnerà ogni cosa e vi suggerirà tutto» *(Gv.* 14, 26). Egli c'insegna quel che dobbiamo fare per amare Dio con tutte le nostre forze, Egli ci suggerisce tutto ciò che noi non sappiamo, sia riguardo a Dio, sia riguardo alla pratica della perfezione; e non solo c'insegna, ma ci mette in grado di operare quel bene che ci mostra. Infatti, agendo direttamente sulla nostra volontà, la fortifica, l'attira, la slancia potentemente in Dio, l'orienta perfettamente verso di Lui. Così lo Spirito Santo «aiuta la nostra debolezza» *(Rom.* 8, 26) e, siccome questa è «costituzionale», inerente alla nostra natura umana, abbiamo continuamente bisogno di Lui. E di fatto Egli non ci lascia mai: tutta la nostra vita spirituale è avvolta nella sua azione; abbiamo visto come fin dagli inizi ci viene incontro preparando, assecondando le nostre iniziative personali, ma
 
-2. — Anche nei rapporti col prossimo, nel disimpegno
-dei doveri quotidiani, nell'attività professionale, come nelle
-opere di apostolato, dobbiamo lasciarci guidare dallo Spirito Santo. Egli deve prendere la direzione di tutta la nostra
-condotta. A tale scopo è necessario anzitutto mantenerci
-in contatto con Lui anche in mezzo all'azione; brevi momenti di pausa ci aiuteranno, di tanto in tanto, a rafforzare
-tale contatto o a ristabilirlo quando la troppa attività o gli
-impulsi delle nostre passioni l'avessero in qualche modo
-interrotto. « lo non faccio nulla da me — ha detto Gesù —
-ma parlo sempre in conformità a quanto mi ha insegnato
-ii Padre mio » (Gv. 8, 28). Questa era la norma della condotta di Gesù e questa deve essere la norma della nostra
-condotta: agire in continua dipendenza da Dio che, per
-mezzo del suo Spirito, ci suggerisce tutto quello che dobbiamo fare. In questo campo, però, è necessario pure saper
-riconoscere le ispirazioni dello Spirito Santo dai movimenti
-della natura e dalle insinuazioni dello spirito maligno.
-Senza questa prudente discrezione, troppo facilmente ci
-esporremmo ad illusioni e ad inganni, ritenendo ispirazione
-divina quel che invece è frutto degli impulsi più o meno
-inconsci della nostra umanità difettosa, delle nostre passioni.
-Una norma facile e pratica riconoscere le vere ispirazioni dello Spirito Santo è nen se ci mantengono e, anzi,
-se ci fanno entrare sempre più nella linea della volontà di
-Dio, ossia nella linea degli ordini dei superiori, delle leggi
-cui siamo sottoposti, dei doveri del nostro stato, o se invece
-ci fanno uscire o anche solo scostare da tale linea. In questo
-caso c'è tutto da temere, perchè lo Spirito Santo non può
-spingerci che al compimento della volontà di Dio e quindi
-non può ispirarci nulla che sia contrario all'obbedienza e
-ai nostri doveri, Nei casi dubbi bisogna ricorrere al con-
+poi, se ci trova docili ai suoi inviti, Egli stesso prende in noi le sue iniziative. Perciò tutta l'opera della nostra santificazione si riduce, in fondo, ad una questione di docilità al divino Paraclito. Anzitutto dobbiamo essere molto attenti e docili ai suoi inviti: «*Utinam hodie vocem eius audiatis: nolite obdurare corda vestra*»; oh, se oggi avete ascoltato la sua voce, non ostinatevi in cuor vostro! *(Sal.* 94, 7 e 8). Gli inviti dello Spirito Santo possono giungere a noi attraverso le parole della S. Scrittura, la predicazione, gli insegnamenti della Chiesa, le varie circostanze della vita, i buoni pensieri, le sante ispirazioni: corrispondiamo subito, dimostrando la nostra buona volontà accettando ed obbedendo prontamente ai suoi inviti.
 
-siglio di una persona illuminata e prudente e allora l'anime
-che è veramente condotta dallo Spirito Santo sarà docile
-a piegarsi al parere altrui, anche se contrario al suo.
+**2** — Ma molte volte, purtroppo, la nostra volontà è ancora dura, indocile, restia, e questo perché è ancora tanto attaccata alle creature e specialmente a quella creatura che è il nostro *io* e che noi amiamo sempre troppo. Quindi, per corrispondere all'azione dello Spirito Santo, la prima cosa richiesta è lavorare assiduamente per distaccarci da tutto ed anche da noi stessi. Il distacco ci libererà da tanti legami che, simili a funi, ci avvincono alle creature, rendendoci impossibile la docilità e la pieghevolezza necessaria per essere facilmente mossi dallo Spirito Santo. E ricordiamo che per avvincere l'anima alle creature basta anche un solo tenue filo, ossia bastano anche piccoli attacchi: «che importa se ad un uccellino sia legato ad un filo sottile piuttosto che ad uno grosso? per quanto il filo sia sottile, è sempre vero che l'uccellino è legato e, sino a che non lo spezzi, non potrà volare» (G.C. *S.* I, 11, 4). Il distacco spezza il filo che ci lega alla terra, e l'anima nostra, così liberata, può assecondare ogni minimo impulso dello Spirito Santo ed Egli può invaderla e dirigerla a suo beneplacito.
 
-Lo Spirito Santo, ha detto Gesù, «dimorerà in voi e
-serà in voi» (Gv. 14, 17); quale enorme stoltezza sarebbe,
-dunque, agire indipendentemente da Lui che « ci è stato
-dato» (cfr. Rom. 5, 5) appunto per essere la nostra guida,
-il nostro santificatore.
+Abbiamo detto che lo Spirito Santo non si accontenta d'invitarci al bene, ma vuole prendere in noi le sue iniziative per spingerci più efficacemente verso Dio. Tuttavia, Egli rispetta la nostra libertà e perciò non s'impadronirà della nostra volontà, se noi non siamo disposti a dargliela liberamente. E qui possiamo porre un altro ostacolo alla sua azione: lo Spirito Santo vorrebbe portarci in alto, in Dio, ma noi non aderiamo pienamente, perché manchiamo di generosità e con la nostra grettezza ritardiamo l'opera divina. Forse corrispondiamo in parte alla sua mozione, gli diamo qualche cosa di quello che ci domanda, ma non arriviamo a dargli «tutto». È quindi molto necessario coltivare lo spirito di «totalità» che non mette limiti alla nostra donazione; occorre avere un cuore largo, generoso per non ritardare l'opera dello Spirito Santo che vuole portarci non solo alle azioni buone, ma alle azioni generose, eroiche, sante.
 
 ### Colloquio
 
-«O Spirito Santo, Tu sei il dispensatore dei tesori
-che sono nel seno del Padre; Tu sei il tesoriere dei consigli
-che si fanno tra il Padre e il Verbo. Tu ci manifesti quelle
-cose che dobbiamo fare per piacere alla Trinità; e le manifesti nell'intimo del cuore mediante le tue ipirazioni e
-all'esterno con la predicazione e i consigli dei tuoi ministri. Sempre le porte del cielo sono aperte per mandar
-giù la grazia, ma noi non teniamo aperta la bocca del desiderio per riceverla. Venga, venga questa grazia; venga, o
-Padre eterno, venga o purissimo Verbo, poichè vi degnate
-di volerci mandare il vostro amenissimo Spirito, Spirito di
-bontà. O Spirito Santo, come vieni ricco per noi, e beato
-chi t'accoglie! Tu ci porti la potenza del Padre, l’amore
-ardente del Verbo!» (cfr. S. M. Maddalena de' Pazzi).
+«Dio mio misericordioso, dolcezza ed amor mio, manda dal Paradiso il tuo Spirito Santo e crea in me un cuore ed uno spirito nuovo. La tua unzione m'insegni tutte le cose, perché io ti ho eletto fra mille e ti amo al di sopra di ogni amore e più della stessa anima mia. O Spirito Santo, Dio amore, ricevimi nella tua piissima misericordia e carità, affinché, in tutto il corso della vita mia, ti abbia come maestro e precettore, e dolcissimo amante del cuor mio» (S. Geltrude).
 
-«O Signore, fammi conoscere la strada che devo tenere
-per giungere a te, insegnami a fare la tua volontà, e il
-tuo Spirito mi guidi per la via retta. Crea in me, o Signore,
-un cuore puro e infondi in me il tuo Spirito, Spirito di rettitudine e di verità. Dio mio, non mi allontanare dalla tua
-presenza, e non togliermi il tuo Santo Spirito, perchè senza
-di Lui io resterei privo della vita e della grazia. Sostienimi,
-o Signore, col tuo Spirito magnanimo, senza del quale
-nulla potrei fare» (cfr. Sal. 143 e 50).
+«O Spirito Santo, insegnami ad apprezzare ogni tua minima ispirazione! Essa è più preziosa di tutto il mondo — fosse pure la minima ispirazione di trattenere una parola o uno sguardo — perché è una piccola «vocazione», è un invito ad addentrarci sempre più nell'intimità divina se, corrispondendovi fedelmente, cresco nella grazia e nell'amore. O Spirito Santo, fammi ben comprendere che la perfezione consiste nel dirti sempre «Amen» ogni qualvolta mi chiedi qualche cosa per mezzo dell'obbedienza o delle tue ispirazioni. Aiutami Tu, ad evitare ogni piccola infedeltà, ogni esitazione, a non rifiutarti nulla ed allora la tua luce andrà sempre crescendo in me e l'amore diventerà un abisso che non si può scandagliare. Ma, o Spirito Santo, so bene che, praticamente, spesso cadrò, mancherò — Dio mio! purché non sia volontariamente! — però Tu m'insegni che anche in questo caso devo riprendermi subito e, con un atto di amore, rimettermi subito sotto il tuo influsso. No, Tu non vuoi che mi turbi, né mi lasci scoraggiare dalle mie infedeltà, perché il tuo spirito è soave: 'O quanto è soave il tuo Spirito, o Signore' *(Sap.* 12, 1) e 'dove è lo Spirito del Signore, ivi è libertà' *(II Cor.* 3, 17), gioia e pace nello Spirito Santo» (cfr. Sr. Carmela d. Spirito S. c. s.).

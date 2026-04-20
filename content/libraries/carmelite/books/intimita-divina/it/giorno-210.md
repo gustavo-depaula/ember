@@ -1,84 +1,17 @@
-## 210 — IL SACRO CUORE E L'EUCARISTIA
+## X — LA DEVOZIONE AL CUORE DI GESÙ
 
-### Presenza di Dio
-
-Sacro Cuore di Gesù, insegnami a vivere con te mediante il Sacramento del tuo amore.
+**Presenza di Dio.** — *O Sacro Cuore di Gesù, insegnami a conoscerti, insegnami ad amarti.*
 
 ### Meditazione
 
-1. — La devozione al Sacro Cuore deve portarci ad
-una vita di intima unione con Gesù, e Gesù — lo sappiamo — si trova vivo e vero nell'Eucaristia. Queste due devozioni, al Sacro Cuore ed' all'Eucaristia, sono intimamente
-legate fra loro. Si richiamano e — si potrebbe dire — si
-esigono a vicenda. Il Sacro Cuore ci spiega il mistero dell'amore di Gesù che si è fatto pane per nutrirci con la
-sua sostanza e, d'altra parte, nell'Eucaristia abbiamo la presenza reale di questo stesso Cuore vivente in mezzo agli
-uomini. E' bello contemplare il Cuore di Gesù come simbolo del suo amore infinito, ma è ancora più bello trovarlo sempre vivente vicino a noi, nel Sacramento dell'altare. Il Sacro Cuore che noi onoriamo non è il cuore di
-un morto che non palpita più, sì che bisogna accontentarsi del suo ricordo, ma è il cuore di un vivo, eternamente
-vivo. Vivo non solo in cielo; ove risiede gloriosa l'Umanità
-santa di Gesù, ma vivo anche sulla terra ovunque si conserva l'Eucaristia; e dall'Eucaristia questo Cuore ci ripete:
-«Ecco, io sono con voi tutti i giorni sino alla fine del mondo» (Mt. 28, 20). Nella Comunione, poi, questo Cuore
-viene a palpitare in noi, viene a mettersi in contatto col
-nostro cuore, viene a nutrirci con la sua Carne e col suo
-Sangue, affinchè noi rimaniamo in lui e lui in noi. «Nell'Eucaristia — dice Benedetto XV — questo divin Cuore
-ci governa e ci ama vivendo ed abitando con noi, onde
-noi viviamo ed abitiamo in lui, perchè in questo Sacramento... Egli si offre e si dà a noi come vittima, come compagno, come nutrimento, come viatico e come pegno della
-gloria futura » (9 nov. 1921).
+**1** — L'oggetto della devozione al Sacro Cuore è propriamente il Cuore di carne di Gesù, che, facendo parte della sua Umanità santissima unita ipostaticamente al Verbo, è degno di adorazione. Tuttavia, l'oggetto terminale di questa devozione è l'amore di Gesù del quale il suo Cuore è il simbolo; in altre parole, «sotto l'immagine simbolica del Cuore, meditiamo e veneriamo l'immensa carità e l'amore liberale del nostro divin Redentore» (Pio VI). È proprio questo il significato della devozione al Sacro Cuore, mediante la quale la Chiesa ci propone di onorare il Cuore di Gesù come immagine visibile del suo amore invisibile: «la tua carità — canta la liturgia della festa — ti volle trafitto da un colpo visibile di lancia, perché noi venerassimo le ferite del tuo amore invisibile» (*BR.* inno delle Lodi). L'oggetto principale della devozione al Sacro Cuore è dunque l'amore di Gesù: l'amore increato con cui Egli, in quanto Verbo, insieme col Padre e con lo Spirito Santo, ci ha amato fin dall'eternità e fin dall'eternità ha deciso d'incarnarsi per la nostra salvezza; e inoltre, l'amore creato di carità col quale ci ha amato, in quanto Uomo, fino a morire per noi sulla Croce, meritandoci col suo amore quella stessa carità mediante la quale noi potessimo riamarlo. È questo il senso più profondo della devozione al Sacro Cuore, senso che fu tanto bene compreso da S. Teresa Margherita del Cuore di Gesù, la quale fece di questa devozione il centro della sua vita. La Santa — dicono i Processi — «riguardava il Cuore di Gesù come il centro [la fonte] dell'amore onde il divin Verbo, nel seno del Padre, ci ha amati per tutta l'eternità e col quale ci ha nel tempo meritato che noi, con lo stesso amore partecipato, lo possiamo in terra ed in cielo riamare» (¹).
 
-2. — La presenza eucaristica di Gesù in noi si limita
-a quei brevi momenti durante i quali durano le sacre specie e cessa non appena queste sono consumate. Tuttavia,
-Gesù ha dichiarato espressamente: «Chi mangia la mia
-carne O beve il mio sangue rimane in me ed io in lui»
-(Gv. 6, 57). Il Verbo «rimanere» non può indicare uno
-stato passeggero, ma esprime senz'altro qualche cosa di stabile, di duraturo; ciò fa pensare ad un'unione con Gesù
-che permane anche quando le sacre specie sono ormai consumate. Ed è proprio così. Anzitutto, perdura l'unione con
-la Divinità di Gesù, poichè le tre Persone divine inabitano
-continuamente nelle anime in grazia, ma poi perdura anche
-Una certa unione con la sua Umanità la quale, pur non
-essendo più presente nel comunicante con la sua sostanza,
-lo è però con l'influsso della sua presenza operatrice, con
-l'effusione della sua grazia. Se, distrutte le apparenze del
-pane e del vino, il Cuore di Gesù non è più in noi per
-
-la presenza sacramentale, tuttavia rimane con noi spiritualmente per l'irradiazione del suo amore, della sua attività
-vivificante, giacchè tutto ciò che noi riceviamo nell'ordine
-soprannaturale lo riceviamo sempre per la mediazione dell'Umanità santissima di Cristo. È' vero, questa unione spirituale con Gesù, col suo Sacro Cuore non esige necessa
-riamente la Comunione, richiede solo lo stato di grazia;
-tuttavia il Pane eucaristico nutre, rinsalda, rinforza tale
-unione, la rende più profonda, nel senso che Gesù prende
-sempre più sotto il suo influsso l'anima del comunicante,
-che il suo Cuore divino irradia sempre più il suo amore e
-tutte le sue virtù nel cuore che lo riceve sacramentato.
-Non è quindi un'utopia aspirare ad un'unione effettiva,
-permanente con Gesù, col suo Sacro Cuore, anzi, è proprio questa unione che la Chiesa ci fa chiedere ogni giorno
-nella bellissima preghiera della Messa che precede la Comunione: «a te numquam separari permittas», non permettere ch'io mi separi mai da te.
+**2** — Le altre devozioni al Redentore hanno per oggetto misteri o aspetti particolari della sua vita, come ad esempio l'Incarnazione, la vita nascosta, la Passione ecc.; invece la devozione al Sacro Cuore mira ad un oggetto più generale: l'amore di Gesù, amore che costituisce il motivo profondo ed essenziale di tutti i suoi misteri, che è la causa prima ed unica di tutto quanto Egli ha fatto per noi. In questo senso la devozione al Sacro Cuore tocca, per così dire, il fondo di tutti i misteri del Redentore, tocca il fondo essenziale della sua vita, della sua Persona: è l'amore che spiega l'Incarnazione del Verbo, è l'amore che spiega l'esistenza dell'Uomo-Dio, è l'amore che spiega la sua Passione, è l'amore che spiega l'Eucaristia. È impossibile intendere il mistero per cui il Figlio di Dio si è fatto carne, è morto in Croce per salvare gli uomini e si è fatto loro cibo, se non si ammette questo amore infinito che ha spinto Dio — l'Altissimo, il Creatore — a trovare il modo di darsi tutto per la salvezza della sua creatura. Proprio in questo senso si esprime la Chiesa nell'inno di Mattutino che ripete in tutta l'ottava del Sacro Cuore: «*Amor coegit te tuus mortale corpus sumere*», l'amore ti spinse — anzi, *ti costrinse*, se prendiamo il vocabolo latino in tutta la sua forza — a prendere un corpo mortale per renderci ciò che il peccato di Adamo ci aveva tolto. E l'inno continua così inneggiando ora all'amore eterno del Verbo, ora all'amore umano di Gesù, amori che di fatto non si possono separare come non si può separare l'Umanità SS.ma di Gesù dal Verbo che l'ha assunta. Gesù è ad un tempo Dio ed Uomo e così il suo amore è ad un tempo amore divino e amore umano; Gesù ci ha amato e ci ama continuamente come Dio e come Uomo. Il suo amore umano, creato, viene sublimato dall'amore eterno del Verbo, anzi, diventa l'amore stesso del Verbo che lo fa suo, come sono suoi tutti i sentimenti e le azioni di Cristo-Uomo; e il suo amore divino diventa a noi sensibile, comprensibile, tangibile mediante le manifestazioni del suo amore umano. È sempre l'Umanità di Gesù che ci rivela la sua Divinità e, come attraverso questa Umanità SS.ma conosciamo il Figlio di Dio, così, attraverso l'amore umano di Gesù, conosciamo il suo amore divino.
 
 ### Colloquio
 
-«Signore Gesù Cristo, Figlio di Dio vivo che, per volere del Padre e con la cooperazione dello Spirito Santo,
-hai vivificato il mondo con la tua morte, liberami per questo tuo Corpo e Sangue da tutte le mie iniquità e da tutti
-i miei mali e fa' che io sia sempre fedele ai tuoi comandamenti e non permettere che io mi separi mai da te» (MR.).
+«Per questo, o Gesù, ti fu trafitto il costato: perché si aprisse a noi facile l'entrata. Ti fu trafitto il Cuore affinché, liberi dai turbamenti esteriori, potessimo abitare in esso. Ma, inoltre, ti fu trafitto affinché, attraverso la ferita visibile noi vedessimo quella invisibile dell'amore, perché chi brucia d'amore è dall'amore ferito. E in qual maniera potevi mostrarci meglio questo tuo amore ardente che lasciandoti squarciare da una lancia non soltanto il Corpo, ma perfino il Cuore? La ferita corporale indica dunque la ferita spirituale.
 
-«Oh! che magnifica c stretta unione si produce tra l'anima e te, amabilissimo Signore, quando ella ti riceve Sacramentato! Allora l'anima diventa una cosa sola con te,
-purchè mediante l'esercizio delle virtù sia disposta ad imitare quel che Tu operasti nella tua vita, passione e morte.
-No, non posso unirmi perfettamente a te, o Cristo, e Tu
-a me nella S. Comunione, se prima non mi faccio simile
-a te col rinnegare me stessa e con l'esercitarmi in quelle
-virtù che più ti piacciono e di cui Tu ci desti sì. grandi
-esempi. E sarà più o meno perfetta la mia unione con te
+«E chi, dunque, non amerà questo Cuore così trafitto? Chi non riamerà Chi tanto ci ama? Chi non abbraccerà uno Sposo sì casto? Certamente, o Signore, ti riama l'anima che, sentendosi ferita dall'amore tuo grida: 'Io sono ferita dalla carità'. Anche noi, pellegrini nella carne, per quanto ci è possibile amiamo, riamiamo, abbracciamo il nostro Ferito, cui furono trapassate le mani ed i piedi, il costato ed il Cuore. Amiamo e preghiamo: o Gesù, degnati di legare col vincolo e di ferire col dardo del tuo amore il nostro cuore ancor duro e impenitente» (S. Bonaventura, *Vite mistica,* 3, 5).
 
-nel riceverti Sacramentato, quanto più o meno mi farò simile a te mediante le virtù» (cfr. S. M. Maddalena de'
-Pazzi).
-
-«O Gesù, te solo amo e desidero, di te solo ho fame
-e sete, in te voglio perdermi e consumarmi. Avvolgimi nella
-fiamma della tua carità e fammi aderire tanto fermamente
-a te, che mai da te possa separarmi!
-
-«O Signore Gesù, o mare immenso, perchè tardi ad
-assorbire questa piccola goccia d'acqua nella tua pienezza?
-Tutto il desiderio dell'anima mia è di uscire da me stessa
-per entrare in te. Aprimi, o Signore, il tuo Cuore tanto
-amato, perchè te solo io desidero e a te voglio aderire con
-tutto il mio fervore. Oh, che amabile unione! Questa in
-tima familiarità con te è davvero più apprezzabile della
-stessa vita! O mio Diletto, lascia che io ti abbracci nell'intimo dell'anima mia, affinchè, così unita a te, io rimanga
-a te avvinta in modo indissolubile!» (S. Geltrude).
+«O Gesù, uno dei soldati con una lancia ti aprì il costato affinché nel tuo costato aperto imparassimo l'amore del tuo Cuore, amore che è giunto fino alla morte, ed entriamo anche noi in quell'ineffabile amore per il quale Tu sei venuto a noi. Appressati, dunque, o anima mia, al Cuore di Cristo, Cuore grande, Cuore segreto, Cuore che a tutto pensa, Cuore che tutto conosce, Cuore che ama, anzi, che arde di amore. Fammi comprendere, o Signore, che la porta del tuo Cuore è stata aperta dalla veemenza dell'amore, e permettimi di entrare nel segreto del tuo amore nascosto fin dall'eternità, ma ora rivelato dalla ferita del tuo Cuore» (cfr. S. Bernardino da Siena).

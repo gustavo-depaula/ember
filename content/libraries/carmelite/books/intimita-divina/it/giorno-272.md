@@ -1,73 +1,23 @@
-## 272 — FAME E SETE DI GIUSTIZIA
+## XI — LA CARITÀ NON È EGOISTA
 
-### Presenza di Dio
-
-— Dammi, o Signore, un desiderio profondo ed efficace di giustizia, affinchè possa avvicinarmi a te, giustizia infinita.
+**Presenza di Dio.** — *O Dio, che dall'eternità mi hai amato e che sempre mi ami senza nessun interesse, insegnami ad amare senza calcoli e misure.*
 
 ### Meditazione
 
-1. — « Beati quelli che hanno fame e sete della giustizia »
-(Mr. 5, 6), ha detto Gesù e intendeva parlare di quella giustizia generale che inclina l’uomo a vivere in perfetto accordo con la volontà divina, sì che questa santa volontà sia da
-lui bramata come il nutrimento unico ed indispensabile della
-sua vita spirituale. Tuttavia si possono applicare queste parole anche alla virtù particolare della giustizia senza la qua
-le, del resto, non vi potrà mai essere accordo con la volontà
-di Dio e quindi non vi potrà mai essere santità. Se vuoi vivere unito a Dio, che è giustizia infinita, devi essere affamato
-e assetato di giustizia in tutte le tue azioni, in tutti i tuoi rapporti col prossimo. La fame e la sete indicano delle necessità
-impellenti che non possono essere soffocate: è questione di
-vita o di morte. Come il cibo e la bevanda sono assolutamente
-indispensabili per la vita del corpo, così la giustizia è assolutamente indispensabile per una vita virtuosa e i suoi doveri
-sono così essenziali che nessun motivo può esimerci dall’adempierli. Se un atto di carità verso il prossimo c’imponesse
-un grave disturbo o un notevole danno, non saremmo obbligati a compierlo, ma il medesimo disturbo o danno non potranno mai dispensarci dal soddisfare un dovere di giustizia
-verso gli altri; motivi seri potranno talvolta autorizzarci a rimandare l'adempimento, ma l'obbligo resterà sempre e, quand'anche fossimo impediti dall'assolverlo materialmente, dovremo supplirvi almeno moralmente. E' quindi appropriato
-parlare di fame e di sete della giustizia, non già nel senso di
-rivendicare i nostri diritti, ma nel senso di coltivare in noi
-un desiderio così vivo, un bisogno così impellente di giusti-
+**1** — La carità «non è egoista» *(I Cor.* 13, 5). Essere sensibili alle necessità ed alle sofferenze altrui, essere sempre pronti a prestare aiuto al prossimo, non giustifica l'esigenza di pretendere il contraccambio. La carità ha questo di proprio che, mentre si dona con generosità agli altri, non reclama nulla per sè. «Fate del bene e date in prestito senza speranza di ricambio; e grande sarà la vostra ricompensa e voi sarete i figli dell'Altissimo, ch'è buono pure verso gli ingrati, e i cattivi» *(Lc.* 6, 35). La carità non è un dare per avere, ma è un dare senza calcolo e misura, che si ritiene massimamente ripagato dall'onore di poter servire e amare Dio nelle sue creature. La carità ama, serve, si dà, si prodiga per il gusto di amare, di servire Dio nel prossimo, per la gioia di imitare la sua prodigalità infinita, per la gioia di sentirsi figlia del Padre celeste che tutti benefica senza distinzione. Quale ricompensa maggiore di quella di chiamarsi e di essere effettivamente figli di Dio? Per avere quest'unica ricompensa, la carità cerca di sfuggire ogni ricompensa terrena; nasconde quindi il bene che fa: «non sappia la tua sinistra quello che fa la destra» *(Mt.* 6, 3) e cerca di preferenza di beneficare proprio da coloro da cui non può sperare nessun ricambio: «quando fai un pranzo o una cena, non invitare i tuoi amici o i tuoi fratelli... perché non avvenga che anch'essi ti invitino e ti sia reso il contraccambio. Ma quando fai un convito, chiama poveri, storpi, zoppi e ciechi; e sarai fortunato che non abbian modo di contraccambiarti» *(Lc.* 14, 12-14). Quanto è distante la logica del Vangelo dalla logica dei calcoli umani!
 
-zia in tutti i nostri rapporti con gli altri, da non sentirci soddisfatti finchè non avremo adempiuto fino in fondo tutti i
-doveri derivanti da questa virtù.
+Quando in un cuore nasce la passione di darsi a Dio, nasce nello stesso tempo quella di darsi al prossimo unicamente per amore di Dio e è allora quel cuore non fa più distinzione se si tratta direttamente del servizio di Dio o dei fratelli, ma vedendo in tutti i fratelli Dio, si dà ai fratelli per darsi a Dio, si dona al prossimo come si donerebbe a Dio. E' questo l'atteggiamento del cuore di Paolo che grida: «Ben volentieri spenderò il mio e spenderò tutto me stesso per le anime vostre; anche se amandovi così esuberantemente, dovessi essere amato di meno» *(II Cor.* 12, 15).
 
+**2** — «La carità è longanime, è benigna... non s'irrita» *(I Cor.* 13, 4 e 5). La carità non si stanca, non perde la pazienza di fronte agli ingrati; non s'irrita di fronte alle ripulse, ma persevera nel bene e nel beneficare. La carità non pretende riconoscenza, non è permalosa, non si ritiene offesa per le mancanze di delicatezza e di riguardo, ma, malgrado le freddezze e le ostilità che può incontrare intorno a sè, continua nella sua unica occupazione: darsi e sempre darsi per amore di Dio. E tuttavia la carità non è insensibile alle ingratitudini e alle offese; anzi, più un cuore è delicato nell'amore e più è sensibile a tutto ciò che è contrario all'amore; ma non si serve della sua sensibilità come arma di difesa per i propri diritti, per protestare contro l'ingratitudine altrui o per reclamare un po' di giustizia, bensì se ne serve per farne un sacrificio a Dio, proprio a beneficio di coloro che lo fanno soffrire. Questa è la caratteristica della carità: «non si lascia vincere dal male, ma vince nel bene il male» (cfr. *Rom.* 12,21).
 
-2. — Anche la giustizia, come tutte le altre virtù, ha i
-suoi acerrimi nemici nelle nostre passioni e anzitutto nell’egoismo. L'egoismo non abbastanza mortificato e vinto, trova
-sempre il modo di far apparire troppo pesanti certi doveri imposti dalla giustizia e di escogitare pretesti e scappatoie per
-esimersene. Altre volte l'egoismo, oltre essere attaccamento
-ai propri interessi e diritti, prende il particolare aspetto della gelosia e anche in questo caso è causa d’ingiustizie. Chi è geloso o, peggio, invidioso è quasi inconsciamente portato a diminuire i meriti degli altri, a criticare e a trovare sempre difettoso il loro modo di agire e così viene ad intaccare la stima
-di cui essi dovrebbero giustamente godere presso i superiori,
-gli uguali o gli inferiori, Tutto ciò è contrario non solo alla
-carità, ma anche alla giustizia.
-
-Altra fonte di ingiustizie sono le parzialità, le preferenze
-per qualche individuo in particolare a danno di altri che hanno diritti identici e non è raro che questo modo di procedere
-si mascheri sotto l'aspetto di carità. Ma non si può parlare di
-carità quando per favorire, difendere, sostenere una persona o per essere con lei maggiormente liberali, si manca di
-giustizia verso gli altri e talvolta, forse, verso una comunità
-intera. Un'anima che ha fame e sete della giustizia vigilerà
-attentamente su se stessa: per impedire che s'insinui nella sua
-condotta qualsiasi difetto di questo genere, sia pure in forma
-lieve. Finchè in noi ci sono le passioni — e ci saranno sempre — abbiamo motivo di temere di noi stessi e dobbiamo essere diligenti nell'esaminare i moventi delle nostre azioni.
-Occorre un grande amore per la giustizia, per la verità, per
-il bene comune, occorre molta rettitudine per smascherare
-tutte quelle passioncelle che possono farci deviare, sia pure
-per poco, dalla via della giustizia. Specchiamo la nostra giustizia nella Giustizia infinita e troveremo sempre qualcosa da
-
-
-correggere, da migliorare. « Felice chi osserva il diritto e pratica la giustizia in ogni tempo » canta il salmista, perchè «i retti
-vedranno il volto di Dio» (Sal. 105,3; 10,7). Il desiderio di
-unirci a Dio, Giustizia infinita, ci spinga ad una pratica sempre più perfetta di questa virtù.
+Eppure tutti sappiamo come ciò sia difficile e duro alla natura egoista ed esigente. Talvolta, proprio quando un'anima si applica con maggior impegno ad una delicata carità fraterna, si desta in lei un senso più vivo di sdegno e di protesta di fronte alle mancanze di riguardo di cui è fatta segno. Ma questa è evidentemente una tentazione che va soffocata sul nascere perché non prenda piede; chi, sotto pretesto di giustizia o d'insegnare agli altri, indulge con simili sentimenti e agisce in conseguenza, diventerà ben presto una persona esigente con grande danno della carità. Soprattutto nelle convivenze è necessaria questa carità longanime che sa passare sopra ai torti piccoli o grandi, alle incomprensioni ed alle offese, che sa accettare in pace le punture di spillo, senza neppure aver l'aria di soffrirne, senza prendersi la rivincita di far capire agli altri che ci danno pena. Con la grazia di Dio e a forza di lotte contro i risentimenti dell'amor proprio, dobbiamo arrivare a questa carità completamente dimentica di sè e allora nel nostro ambiente di vita saremo «non giudici, ma angeli di pace» (T.B.G. CR.).
 
 ### Colloquio
 
-«O Signore, accresci in me la fame e la sete della giustizia affinchè compia con amore tutti i doveri che sono di giustizia e di obbligo verso te e verso il prossimo, senza trascurarne nessuno ed eseguendoli tutti volentieri, anche se spiacevoli alla natura. Questa fame mi spinga a progredire di più
-in più nelle virtù, ritenendo sempre poco quello che ho già
-conseguito e molto quel che ancora mi manca. Questa fame
-e questa sete mi diano un desiderio ardentissimo della tua
-grazia, mi sospingano con grande ardore ai santi sacramenti
-e specialmente al Sacramento dell'altare per cibarmi di te, o
-Gesù, che sei la mia giustizia.
+«O Dio eterno, l'anima che in verità ti ama si adopera per l'utilità del prossimo suo e non può essere altrimenti, perché l'amore di te e l'amore del prossimo è una medesima cosa: quanto l'anima ama te, altrettanto ama il prossimo, perché l'amore verso di lui proviene da te.
 
-«O Gesù, Tu avesti tanta fame della giustizia da non avvertire la fame corporale e così, stando una volta molto stanco e bisognoso di ristoro, dicesti ai tuoi discepoli: ‘Il mio cibo è fare la volontà di Colui che mi ha mandato”; e ne avesti una sete così ardente da desiderare con viva ansia di accostare le labbra al calice amarissimo della tua Passione sì
-che dicesti: ‘Io devo essere ancora battezzato con un battesimo e come sono angustiato finchè esso non si compia!'
+«Questo è quel mezzo che Tu ci hai dato, o Dio altissimo, affinché esercitandolo e proviamo la carità, non potendo fare utilità a te, la facciamo al prossimo. Perciò l'anima innamorata di te, Signore amabilissimo, non lascia mai di adoperarsi per l'utilità di tutti i suoi fratelli, ingegnandosi di porre alle loro necessità e di sovvenirvi con premura.
 
-«O amato mio Redentore, infiammami col fuoco del tuo
-amore, donde procede questa fame e questa sete, affinchè io
-sempre l'abbia del tuo servizio, come ‘Tu l’avesti del mio riscatto» (cfr. Ven. L. Da Ponte).
+«O Dio, Trinità eterna, ci chiedi di quel medesimo amore di cui Tu ci ami. Questo non possiamo farlo, poiché Tu ci amasti senz'essere da noi amato, mentre, per quanto amore ti portiamo, noi t'ameremo sempre per debito e non gratuitamente, giacché Tu per il primo ci amasti. Sì che non potendo noi rendere a te quell'amore che ci chiedi, Tu ci hai dato il prossimo, affinché facciamo a lui quel che non possiamo fare a te, ossia lo amiamo senza essere prevenuti, gratuitamente e senza aspettarne alcun vantaggio.
+
+«Insegnami, dunque, o Signore, ad amare il prossimo senza essere da lui amata, ad amarlo senza alcun riguardo alla mia utilità, ma solo perché Tu mi ami, solo per ricambiare il tuo amore gratuito. Così adempirò il comandamento della legge: d'amare te sopra ogni cosa, e il prossimo come me stessa» (cfr. S. Caterina da Siena).

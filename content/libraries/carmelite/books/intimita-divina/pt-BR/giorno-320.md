@@ -1,47 +1,41 @@
-## 320 — O APOSTOLADO DO EXEMPLO
+## 320 — O DOM DA SABEDORIA
 
 ### Presença de Deus
 
-Ó Senhor, faze que minha conduta seja tal que te procure glória e atraia muitas almas ao teu amor.
+Vem, Espírito de Sabedoria, atrai-me!
 
 ### Meditação
 
-1. — Ao lado da oração e do sacrifício, outra poderosa arma de apostolado acessível a todos é a de uma vida boa, de uma vida santa. Nem todos podem pregar, nem todos têm o dever de admoestar ou exortar, nem todos podem dedicar-se a obras apostólicas, mas não há ninguém que não possa cooperar para o bem espiritual do próximo com o exemplo de uma vida integralmente cristã, coerente com os princípios professados e fiel aos próprios deveres.
+1. — O dom da inteligência faz-nos penetrar as coisas de Deus; o dom da sabedoria leva-nos mais adiante ainda: faz-nos saboreá-las, dá-nos um conhecimento saboroso. É a «saborosa cognição» de que fala São Bernardo, é o intraduzível *dulce sapere* invocado por São Tomás (*Adoro te devote*); é o precioso dom que o Espírito Santo nos oferece dizendo: *Gustate et videte quoniam suavis est Dominus*, saboreai e vede como o Senhor é bom (Sl. 33, 9).
 
-«Cada um pode aproveitar ao próximo se cumpre seu dever», afirma o Crisóstomo, e acrescenta: «Ninguém seria mais pagão, se os cristãos fossem cristãos de verdade, se de fato observassem os preceitos. A vida boa é uma voz mais aguda e mais forte que uma trombeta». A vida boa impõe-se por si, tem autoridade e exerce fascínio muito superior ao das palavras.
+Não por acaso se diz primeiro saboreai e depois vereis, porque o dom da sabedoria faz-nos conhecer Deus precisamente através da experiência do coração que «saboreia» o objeto amado.
 
-Para uma alma que busca a verdade, que busca a virtude, não é difícil encontrar livros ou mestres que delas falem, também de modo atraente, mas é bem mais difícil encontrar pessoas cuja vida seja testemunho prático disso.
+Há dois modos de conhecer: um modo especulativo, intelectual, e um modo experimental, que deriva de certa connaturalidade com o objeto a conhecer; este último é menos distinto, mas muito mais profundo que o primeiro e colhe a íntima substância das coisas. Assim, por exemplo, através daquela afinidade de sentimentos e de afetos que a liga ao filho, uma mãe conhece o coração dele muito melhor que qualquer outra pessoa. Semelhante a esta é a compreensão das coisas divinas que adquirimos mediante o dom da sabedoria.
 
-A mentalidade moderna, sedenta de experiência, tem particular necessidade desses exemplares, capazes de oferecer não só belas teorias de vida espiritual, mas, sobretudo, encarnações concretas da virtude, do ideal de santidade e de união com Deus. Muito mais do que pelo pensamento puro, as almas são atraídas pelo pensamento vivido, pelos ideais traduzidos na realidade da vida.
+Entre nós e Deus há certa «connaturalidade», certa semelhança produzida pelo amor que nos une a ele e, de algum modo, nos assimila a ele; aliás São Paulo não hesita em dizer que «quem se une ao Senhor forma um só espírito com ele» (1Cor. 6, 17). O dom da sabedoria faz-nos conhecer Deus e as coisas divinas precisamente através desta «connaturalidade» e, por isso, dá-nos experiência quente e saborosa pelo amor de que deriva.
 
-Aliás, esta é a grande linha que o próprio Deus seguiu para manifestar-se aos homens: o Verbo eterno se encarnou e, através da realidade tão concreta e tão humana de sua vida terrena, mostrou-nos o imenso amor de Deus por nós e suas infinitas perfeições.
+Tal experiência toma a alma em seu centro, isto é, na vontade, atraindo-a fortemente para Deus e, ao mesmo tempo, redunda como luz no intelecto. O dom da sabedoria age um pouco como o raio de sol que aquece e ilumina ao mesmo tempo. Aquece, reaviva a caridade da alma e, através dessa inflamação de amor, ilumina-a sobre as realidades divinas e a torna capaz de julgá-las, intuindo sua bondade infinita e superioridade absoluta sobre todas as coisas. «Ó profundidade da riqueza de Deus!» (Rm. 11, 33) é o grito da alma inflamada e iluminada pelo dom da sabedoria.
 
-Jesus, que possuía as perfeições divinas, pôde dizer-nos: «Sede perfeitos como é perfeito vosso Pai celeste» (Mt. 5, 48) e dizendo-nos isso não só nos mostrava o ideal supremo da santidade, mas oferecia-nos em si mesmo o modelo.
+2. — Todos os dons do Espírito Santo estão estreitamente ligados à caridade, pois só se encontram na alma que possui a caridade e se desenvolvem à medida que ela cresce; mas o dom da sabedoria tem com o amor de caridade relação muito particular.
 
-O apóstolo deve trilhar a via trilhada por Jesus, encarnando na própria vida aquele ideal de santidade que quer propor aos outros; só assim se poderá afirmar dele, como do Senhor: «*coepit facere et docere*» (At. 1, 1), começou primeiro a fazer e depois a ensinar. E só assim o apóstolo poderá repetir, muito mais com a conduta do que com as palavras, a audaz frase paulina: «Sede meus imitadores, como eu o sou de Cristo» (1Cor. 4, 16).
+Antes de tudo, é precisamente através da caridade que ele se atua. «A causa do dom da sabedoria — diz São Tomás — encontra-se na vontade e é a caridade» (II-II, q. 45, a. 2); por isso, quanto mais uma alma ama a Deus, tanto mais é capaz de acolher a moção deste dom.
 
-2. — Jesus, que nos ensinou a rezar, jejuar e dar esmola em segredo, para que só o Pai celeste o saiba e nos dê recompensa, ensinou-nos também a agir de modo que nossas obras sejam, para os que as veem, um tácito incentivo ao bem: «Brilhe vossa luz diante dos homens, de modo que, vendo vossas boas obras, deem glória ao vosso Pai que está nos céus» (Mt. 5, 16).
+Além disso, a saborosa cognição de Deus derivante do dom da sabedoria é poderosíssima para aumentar a caridade: como poderíamos não amar mais o Senhor depois de tê-lo saboreado? À medida que o dom da sabedoria investe uma alma, a caridade aumenta e aumenta também sua força unitiva, pela qual a alma adere cada vez mais a Deus.
 
-São Gregório ensina-nos como conciliar os dois ensinamentos do Senhor: «A obra seja pública — diz ele — mas a intenção permaneça oculta, para que assim demos ao próximo o exemplo de uma obra boa e, ao mesmo tempo, com a intenção, com a qual procuramos agradar só a Deus, desejemos sempre o segredo».
+Este dom conduz a uma oração ainda mais profunda do que aquela em que intervém só o dom da inteligência: a alma sente-se «tomada» por Deus, atraída por ele de modo irresistível; sente-se verdadeiramente unida ao Senhor e nesta união o saboreia — não de maneira sensível, mas espiritual — e o intui do modo mais íntimo possível aqui na terra.
 
-Há grande diferença entre aquele que faz ostentação do bem, praticando-o para atrair os louvores alheios ou talvez também para granjear certa fama de santidade, e aquele que, agindo com reta intenção unicamente para agradar a Deus, é com sua conduta luz e guia para os que lhe vivem ao lado.
+Desta oração a alma sai verdadeiramente inflamada de amor, que ela demonstra sobretudo com a conformidade de sua vontade à vontade de Deus em todas as contingências da vida; sai tão cheia de Deus que, voltando às suas ocupações ordinárias, tudo vê e considera em relação a Deus. Desse modo o dom da sabedoria estende seu influxo também à vida prática e ensina-nos a julgar todas as coisas à luz de Deus.
 
-Quando a intenção é reta — isto é, dar glória a Deus e procurar atrair outras almas ao seu serviço — não devemos temer que nossas boas obras sejam vistas; antes, devemos sentir a responsabilidade de comportar-nos de modo que nossa conduta seja de edificação para os outros.
+Para sermos aptos às moções do dom da sabedoria — o mais sublime dos dons — devemos docemente dispor nosso coração à plenitude do amor e, ao mesmo tempo, aplicar-nos a adquirir profunda humildade, pois, como disse Jesus, «estas coisas são escondidas aos doutos e sábios segundo o mundo e reveladas aos pequeninos» (cf. Mt. 11, 25).
 
-Toda alma de vida interior, mesmo buscando agradar somente ao Pai celeste, deve ser apóstola do exemplo; sua vida de piedade sincera, de virtude sólida, de união com Deus deve resplandecer diante dos homens e deve chamá-los à oração, ao recolhimento, à busca das coisas celestes.
-
-Isso é possível a todos e em qualquer ambiente de vida: pode fazê-lo o profissional no meio do mundo entre colegas, alunos ou clientes; pode fazê-lo a esposa e a mãe no círculo da família; pode fazê-lo o religioso e a religiosa no âmbito da própria comunidade; pode fazê-lo o sacerdote no raio de sua ação.
-
-Uma alma de verdadeira vida interior é por si um apóstolo, é, como diz Jesus, «uma cidade posta sobre o monte [que] não pode ficar escondida», é uma candeia acesa colocada «no candelabro para iluminar a todos os que estão em casa» (Mt. 5, 14-15). Quanto mais profunda é a vida interior, tanto mais a candeia brilha, ilumina as almas e as atrai a Deus.
+«Adquirem a sabedoria de Deus somente aqueles que, quase crianças ignorantes, depondo o próprio saber, avançam com amor em seu serviço» (São João da Cruz).
 
 ### Colóquio
 
-«Meu Deus, nada é mais frio do que um cristão que não se cuida da salvação dos outros! Para dispensar-me disso não posso alegar como pretexto a pobreza. Pedro dizia: “Não tenho prata nem ouro”; Paulo era tão pobre que muitas vezes sofria fome. Não posso alegar minha humilde condição, porque eles também não eram nobres e não tinham pais nobres.
+«Desce, ó divino Espírito, e repousa sobre minha cabeça e investe meu coração; dissipa todas as trevas que a loucura do mundo chama sabedoria; concede-me, ao contrário, o dom da sabedoria celeste. Só tu podes ensinar-me a desprezar o que o mundo ama, o que deleita e lisonjeia; só tu podes ensinar-me a saborear as coisas de Deus, a virtude, a piedade, o amor que vieste acender na terra para que o mundo se inflame» (Anônimo).
 
-«Não posso sequer desculpar-me, ó Senhor, dizendo que sou ignorante, porque eles também o eram. Ainda que eu fosse escravo e fugitivo, poderia cumprir meu dever: também Onésimo era tal. Não posso objetar que sou doente, porque também Timóteo era frequentemente enfermo.
+«Ó Deus, que essencialmente és amor incriado, amor infinito, amor sem medida, não só amante, mas todo o amor; ó Deus do qual procedem os amores de todos os serafins e de todas as criaturas, por que não te amarei eu? Por que não me consumirei neste fogo de amor que abraça todo o universo?
 
-«Ó Senhor, tua luz me faz compreender que também eu posso aproveitar ao próximo se cumpro meu dever. E isso farei se observo tua lei, e especialmente a lei do amor, com a qual se ensina a bondade aos que nos ofendem. Os mundanos se comovem mais pela vida boa do que pelos milagres; e tu me dizes que nada torna boa a vida mais do que a caridade e o amor do próximo.
+«Ó Deus, que és essencialmente a mesma bondade, pelo qual todo o bom é bom, do qual deriva a bondade de todas as criaturas, como do mar vêm as outras águas, acima de cuja excelente bondade não existe coisa alguma na terra e no céu que se possa dizer boa, por que não te amarei eu, sendo a bondade objeto do amor?
 
-«Ajuda-me, pois, ó Senhor, a conduzir uma vida santa, a fazer obras boas, de modo que quem me observa possa dar louvor ao teu nome» (cf. São João Crisóstomo).
-
-«Ó Senhor, concede-me crer com o coração, professar com a boca e pôr em prática tua palavra, para que os homens, vendo minhas boas obras, glorifiquem a ti, nosso Pai que estás nos céus, por Jesus Cristo nosso Senhor, ao qual pertence a glória pelos séculos dos séculos. Amém» (Orígenes).
+«Ó Pai santíssimo! Ó Filho clementíssimo! Ó Espírito Santo amantíssimo! Quando, no mais íntimo da minha alma e no seu mais profundo, serás Tu, ó Pai, a coisa mais escondida, e me possuirás plenamente? Quando serei todo teu e Tu todo meu? Quando serás meu rei? Quando virá tal dia? Oh, quando? Ah, virá certamente! Crês tu que virá? Que demora! Que penoso adiamento! Apressa-te, ó Jesus, apressa-te, não tardes!» (Venerável Luís de Granada).

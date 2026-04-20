@@ -1,108 +1,20 @@
-## 131 — O TRIUNFO DE JESUS
-*domingo de Ramos*
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-Ó Jesus, quero seguir-te até o Calvário.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — A Semana Santa abre-se com a lembrança da
-entrada triunfal do Senhor em Jerusalém, no domingo
-anterior à sua Paixão. Jesus, que sempre se opusera a toda manifestação pública e que fugira quando o povo queria fazê-lo rei (cf. Jo. 6, 15), hoje se deixa levar em triunfo. Só agora, quando está para
-ir à morte, aceita ser publicamente aclamado como Messias, porque precisamente morrendo na cruz
-será, do modo mais pleno, o Messias, o Redentor, o Rei,
-o Vencedor. Aceita ser reconhecido Rei, mas um Rei
-que reinará da cruz, que triunfará e vencerá mediante
-a morte de cruz. A mesma multidão exultante que hoje o
-aclama com cantos de alegria, amanhã o conduzirá ao Calvário; e assim o triunfo de hoje dará maior relevo
-e destaque à Paixão de Jesus. Ele entra triunfante na cidade santa, mas entra
-para sofrer, para morrer. Daí o duplo significado da
-procissão dos Ramos: não somos chamados apenas a acompanhar Jesus em triunfo, mas a acompanhá-lo à Paixão,
-prontos a partilhá-la com ele, procurando - segundo a exortação de S. Paulo (Ep.: Fl. 2, 5-11) - tornar nossos os seus
-sentimentos, sentimentos de humildade e de imolação total,
-que devem conduzir-nos, como ele e com ele, "até a
-morte e morte de cruz". As palmas, os ramos de oliveira bentos que hoje o sacerdote nos entrega, não têm só
-um significado de festa, mas "designam a vitória que Jesus
-está para reportar sobre o príncipe da morte" (MR.). Devem
-portanto designar também a nossa vitória; também
-nós devemos merecer a palma da vitória, antes de tudo vencendo o
-mal que está em nós, em nossas más tendências, e depois o
-mal que está fora de nós. Recebendo a palma benta,
-renovemos nossa promessa de querer vencer com Jesus,
-e não esqueçamos que Ele venceu na Cruz.
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — Jesus aceita ser levado em triunfo, mas
-quão humilde e manso é em seu triunfo! Ele sabe que em
-meio ao povo que o osana escondem-se seus inimigos,
-que, com malignas insinuações, conseguirão converter
-aqueles "hosana" em "crucifige"; sabe-o e poderia impor-se a eles com a potência de sua Divindade,
-poderia desmascará-los publicamente, frustrando seus planos. Mas
-Jesus não quer vencer e reinar com força, mas com
-amor, com doçura; muito a propósito nota o Evangelista:
-"Dizei à filha de Sião: eis que teu rei vem a ti
-manso, montado num jumentinho" (Mt. 21, 5). E com a
-mesma mansidão Ele, o Inocente, o único verdadeiro Rei e
-Vencedor, aceitará aparecer como réu, como condenado e vencido, como rei de escárnio. Mas justamente assim, quando
-for levantado na cruz, atrairá tudo a si.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-Enquanto o cortejo segue festivo, Jesus vê delinear-se a seus pés o panorama de Jerusalém. E - narra
-S. Lucas (19, 41-44) - "quando chegou perto da cidade,
-olhou para ela e chorou sobre ela, dizendo: 'Ah! se conhecesses,
-tu também, ao menos neste teu dia, o que te poderia trazer a paz!... Teus inimigos não deixarão em ti pedra sobre pedra,
-porque não reconheceste o tempo em que foste
-visitada'." Jesus chora sobre a obstinação da cidade santa,
-que, por não o haver reconhecido como Messias, por não
-haver acolhido seu Evangelho, será destruída desde os fundamentos:
-Jesus é verdadeiro Deus, mas é também verdadeiro homem e, como
-tal, vibra de comoção e de dor pela triste sorte
-que Jerusalém preparou para si com sua obstinada resistência à graça. Ele está para ir à Paixão e morrerá
-também pela salvação de Jerusalém, mas Jerusalém
-não será salva porque não o quis; "porque não reconheceu o tempo em que foi visitada". Esta
-é a história de tantas almas que resistem à graça; este
-é o motivo do sofrimento mais profundo e mais íntimo do dulcíssimo Coração de Jesus. Ao menos tu, alma
-devota, dá ao Senhor a alegria de ver-te aproveitar plenamente dos méritos de sua dolorosíssima Paixão, de todo
-seu Sangue derramado. Quando resistes aos convites da
-graça, resistes à Paixão de Jesus e impedes que ela
-te seja aplicada em toda a sua plenitude.
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"Ó Jesus, contemplo-te na tua entrada triunfante em
-Jerusalém, quando, pressentindo a turba que estava para
-vir ao teu encontro, montaste no jumentinho e deste
-exemplo de admirável humildade entre os aplausos do povo
-acorrente que cortava ramos das árvores e forrava
-de vestes o caminho. E enquanto as multidões cantavam hinos de louvor,
-Tu, sem jamais esquecer tua compaixão, choraste sobre
-Jerusalém. Levanta-te agora, alma minha, serva do Salvador;
-e no cortejo das filhas de Sião, vai ver teu
-Rei. Acompanha o Senhor do céu e da terra, sentado
-no potro, segue-o sempre com ramos de oliveira e
-de palmas, com obras de piedade e com virtudes vitoriosas"
-(cf. S. Boaventura).
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-Ó Jesus, como é amargo teu pranto sobre a cidade que não
-te quer reconhecer! E quantas almas, como Jerusalém,
-vão ao encontro da perdição por sua obstinada resistência à graça.
-Por elas te suplico com todas as minhas forças. "É aqui, meu Deus, que deve manifestar-se teu poder,
-é aqui que deve resplandecer tua misericórdia!...
-Como é difícil minha súplica, ó meu verdadeiro Deus, quando
-te peço amar quem não te ama, abrir a quem não
-bate, dar saúde a quem procura doença e se compraz
-em estar doente!... Tu dizes, meu Senhor, que vieste
-buscar os pecadores. Ei-los aqui, Senhor, os verdadeiros pecadores!
-Mas em vez de olhar para nossa cegueira, considera, te
-suplico, meu Deus, o Sangue precioso que derramou por nós o
-teu Filho. Faze que entre tanta malícia resplandeça tua misericórdia e, considerando, Senhor, que somos tuas criaturas, derrama sobre nós tua misericordiosa clemência" (T.G.
-Es. 8, 2 e 3).
-
-É bem verdade, ó Jesus! ainda que resistamos à graça,
-Tu és sempre o Vencedor, tua vitória sobre o príncipe
-das trevas foi plena e em ti a humanidade é salva e redimida. Mas Tu és o bom Pastor que conhece e ama suas
-ovelhinhas uma por uma e uma por uma as quer conduzir a salvo. Ao teu Coração amantíssimo não basta haver
-merecido a salvação para todo o rebanho, mas ele deseja
-ardentemente que cada ovelhinha aproveite desta salvação... Ó Senhor, dá-nos, pois, aquela boa vontade
-capaz de acolher teu dom, tua graça; faze que tua
-Paixão não seja vã para nós.
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

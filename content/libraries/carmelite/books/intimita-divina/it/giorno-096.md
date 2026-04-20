@@ -1,114 +1,27 @@
-## 96 — LO SPIRITO DI MORTIFICAZIONE
+## 20 — PROVA DI AMORE
 
-### Presenza di Dio
-
-— Ritorno ai tuoi piedi, o Gesù crocifisso, col desiderio di comprendere più a fondo lo spirito di mortificazione.
+**Presenza di Dio.** — *O Gesù crocifisso, degnati di farmi intendere come la Croce è la più grande prova di amore.*
 
 ### Meditazione
 
-1 — Lo spirito di mortificazione non si limita alla
-mortificazione fisica, ma abbraccia anche il rinnegamento
-dell’io, della volontà, dell’intelligenza. Come nel nostro
-corpo e nei nostri sensi vi sono disordinate tendenze al
-godimento materiale, così nel nostro io vi sono disordimate tendenze all'affermazione di noi stessi. L’amor pro-
-prio ed il compiacimento della propria eccellenza sono
-Spesso tanto grandi da far sì che, anche inconsciamente,
-l'uomo tenda a porre il suo io quasi a centro del mondo.
+**1** — La Croce di Gesù, dopo l'Incarnazione, è la più grande prova di amore che Egli ha dato agli uomini; così anche per noi la mortificazione, la sofferenza abbracciata spontaneamente per amor suo è una delle più belle prove di amore che gli possiamo dare. Si tratta infatti di rinunciare liberamente ad una nostra soddisfazione, ad un nostro piacere per imporci per amor di Dio qualche cosa che ci dispiace e contraria; ciò dimostra chiaramente che preferiamo dar soddisfazione a Dio che a noi stessi. Ogni atto di mortificazione volontaria, sia fisica che morale, dice a Dio non con le parole, ma con i fatti: Signore ti amo più di me stesso! E siccome l'anima innamorata desidera vivamente dar prova del suo amore, è assai vigilante per non lasciarsi sfuggire nessuna occasione di rinuncia.
 
-Lo spirito di mortificazione è veramente completo
-quando, non trascurando di mortificare il corpo, mira anzitutto a mortificare l'amor proprio in tutte le sue mol-
-teplici manifestazioni. Il fariseo che digiunava itualmente, ma che aveva il cuore gonfio di superbia, sì da
-ridurre la sua preghiera ad una lode di sè e ad un disprezzo
+In questo senso S. Teresa Margherita del Cuore di Gesù si era proposta di « non lasciar mai occasione che le si presentasse di patire più che poteva, sempre in silenzio fra sé e Dio » e, in realtà, metteva ogni industria per « stare in ogni tempo ed occasione in qualche atto di patire o di pena corporale per non soddisfare mai, o nel modo o nella sostanza, alcun benché minimo ed innocente appetito e desiderio, e per trovar maniera di rendere penose e moleste al corpo le pure ed inevitabili necessità » *(Sp.* pp. 129 e 131). Il suo ardente amore per Iddio trovava uno sfogo in questo generoso e assiduo esercizio di mortificazione.
 
+Con altra espressione S. Teresa del B. G. chiamava questa pratica: « sparger fiori » ossia valersi di ogni minima occasione di sofferenza per dare a Dio una prova di amore. E, sapendo che il valore della mortificazione dipende dalle buone e generose disposizioni con cui si compie, la Santa diceva: « canterò sempre anche se debbo cogliere i miei fiori in mezzo alle spine » *(St.* 11).
 
-21 - LO SPIRITO DI MORTIFICAZIONE Val
+**2** — Il pregio della mortificazione volontaria consiste assai più nella buona volontà con cui si esercita, che non nell'intensità della sofferenza che ci s'impone; benché anche questa vi possa contribuire, nel senso che una mortificazione maggiore richiede maggiore buona volontà.
 
+La misura della sofferenza va saggiamente proporzionata, limitata secondo le forze fisiche di ciascuno; ma quello che non deve mai essere limitato è l'amore, lo spirito di generosità con cui compiere ogni atto di rinuncia. Sotto questo aspetto, vale assai più una lieve mortificazione compiuta con tutto l'amore di cui un'anima è capace, che non una gravosa penitenza compiuta materialmente, senza spirito interiore. Quindi, prima di fare un atto di mortificazione — soprattutto quando si tratta di certe pratiche abituali, come quelle che sono in uso negli Istituti religiosi — è necessario risvegliare la buona volontà, il sincero desiderio di soffrire volentieri qualche cosa per amore di Dio, affinché non accada di compiere degli atti più o meno meccanici e quindi di poco o di nessun valore.
 
-del prossimo; non possedeva lo spirito di mortificazione e
-perciò non fu giustificato dinanzi a Dio. Poco vale imporsi delle mortificazioni corporali, se poi non si sa ri-
-munciare al proprio modo di vedere per adattarsi a quello
-altrui, se non si sa andare d’accordo con chi ci è contrario, sopportare tranquillamente un torto, una parola
-pungente 0 tacere una incato piccante. È
+L'amorosa contemplazione del Crocifisso era l'anima di tutte le austerità di S. Teresa Margherita: « Questo Dio umiliato e penante, e sempre fra i suoi pensieri versato, era quello che le dava la forza interna per superare qualunque fortissima difficoltà, che le faceva assumere spontaneamente tante fatiche ed opere di carità e di mortificazione, che la rendeva insaziabile nel patire » *(Sp.* p. 126).
 
-«Perchè — domanda S. Teresa di Gesù — ci mostreremo tanto ritrose a mortificare il nostro interno [os-
-sia l'amor proprio, la volontà, il giudizio] quando questa
-mortificazione rende più perfette e meritorie tutte le altre
-e ci aiuta a praticarle con maggior pace e soavità? »
-(Cam. 12, 1). Finchè la mortificazione non colpisce l'amor
-proprio, rimane a mezza strada e non raggiunge il suo
-scopo.
-
-
-2 — Il vero spirito di mortificazione abbraccia in
-primo luogo tutte le occasioni di sofferenza fisica o morale
-rmesse dalla divina Provvidenza. Le sofferenze derivanti
-dalle malattie, la fatica e lo sforzo richiesto dall’adempimento del proprio dovere o da una vita di intenso lavoro,
-le privazioni imposte da uno stato di povertà sono ottime
-penitenze fisiche. Un'anima che ama lasciarsi guidare in
-tutto dalla divina Provvidenza non cercherà di sfuggirle
-e neppure di alleggerirle, ma le abbraccerà interamente,
-così come Dio le pone sul suo cammino. Sarebbe un assurdo non voler accettare una sola di queste occasioni
-provvidenziali di sofferenza, per andare in cerca di mortificazioni volontarie di propria scelta. Così pure, per chi
-ha abbracciato la vita religiosa, sarebbe irragionevole lasciare il minimo esercizio imposto dalla regola, per fare
-una penitenza di proprio arbitrio.
-
-Lo stesso nel campo morale. Non succede talvolta
-anche a te di sfuggire una persona antipatica che il Signore ti ha messo accanto, oppure di cercare tutti i modi
-per evitare un’umiliazione, un’obbedienza che ti costa? In
-tal modo sfuggi proprio le migliori occasioni per rinne-
-
-
-gare e mortificare il tuo amor proprio; anche se vorrai
-sostituirle con altre, queste non saranno mai così efficaci
-come quelle che Dio stesso ti aveva reparate. Infatti,
-nelle mortificazioni permesse per te Provvidenza
-non c’è nulla della tua volontà, dei tuoi gusti, e ti colpi
-scono proprio dove hai maggior bisogno e dove tu, con
-la mortificazione volontaria, non riusciresti mai ad arrivare.
-
-Per giungere alla santità non si richiede da tutti una
-determinata misura di penitenza volontaria — Ja quale
-varia secondo l’ispirazione dello Spirito Santo, il parere dei
-superiori e le forze fisiche di ognuno — però da tutti si
-richiede quel retto e profondo spirito di mortificazione
-che sa abbracciare con generosità ogni occasione di rinuncia preparata o permessa da Dio,
+Contemplando il Crocifisso l'anima sente che, per quanto si mortifichi per amor suo, i suoi sacrifici, le sue rinunce, sono un nulla e, anziché concepire sentimenti di vana compiacenza per le mortificazioni compiute, sente il bisogno di umiliarsi e di fare sempre di più. « Ama molto i patimenti — insegna S. Giovanni della Croce — e stimali ben poca cosa per entrare nella grazia dello Sposo, il quale non ha dubitato di morire per te » *(AM.* II, 15).
 
 ### Colloquio
 
-O Signore, che hai chiesto adoratori in Spirito e verità, preservami, te ne prego, da quello spirito di fari-
-seismo che hai tanto combattuto terra e che è tanto
-contrario a te, Verità e Semplicità infinita. Fa' che, mentre
-mortifico il mio corpo, sappia ancor più mortificare il
-mio orgoglio, o meglio mortificalo Tu stesso.
+« O mio Diletto, come ti darò io prova del mio amore se l'amore si attesta con le opere? Io non ho altro mezzo per attestarti il mio amore, che sparger fiori, ossia non lasciarmi sfuggire nessun sacrificio per quanto piccolo: uno sguardo, una parola, anche nelle minime occasioni, e compierli per amore. Voglio soffrire per amore, ed anche per amore gioire; e così spargerò fiori. Non uno solo ne troverò, senza sfogliarlo per te..., e poi canterò, canterò sempre, anche se debbo cogliere le mie rose in mezzo alle spine; il mio canto sarà tanto più melodioso, quanto più lunghe e pungenti saranno le spine » (T.B.G. *St.* 11).
 
-Tu, che conosci tutti i nascondigli più riposti del mio
-cuore, tutti gli impulsi più oscuri del mio egoismo, prepara per me la medicina più efficace per tutto Spina
-sanare, trasformare. Tu solo sai dove si annida il microbo
-più nocivo e Tu solo puoi distruggerlo. Ma quante volte,
-purtroppo, nelle diverse circostanze della vita, non ho saputo riconoscere la tua mano, la tua opera e ho cercato
-in tanti modi di sfuggire le sofferenze fisiche e morali, le
-mortificazioni, le umiliazioni, le contrarietà che Tu stesso
-mi avevi preparato.
+« O Signore, disponi di me come più ti aggrada, chè di tutto sono contenta, purché ti segua per la via del Calvario, e quanto più la troverò spinosa e la croce pesante, tanto più ne resterò consolata, poiché desidero amarti con amore paziente, con amore morto, cioè a dire tutto rilassato in te e con amore operativo... Signore mio, Tu in croce per me ed io in croce per te. Oh, se una volta potessi intendere quanto è dolce e quanto vale il patire: patire e tacere per te, o Gesù! O caro patire, o buon Gesù! » (T.M. *Sp.* pp. 325 e 361). Sì, caro patire perché mi permetti di dare al mio Dio prove di amore, perché, nell'oscurità della fede in cui devo vivere quaggiù, mi dai la sicurezza di amare non a parole, ma con amore sodo, effettivo. O Gesù, ora comprendo perché S. Teresa d'Avila non ti chiedeva che una cosa: « O morire o patire » e diceva di non aver altro motivo di vivere se non quello di soffrire per amor tuo *(Vi.* 40, 20).
 
-Come sono cieco, o Signore, e quanto poco so riconoscere le tue vie, tanto diverse e tanto lontane dalle mie
-corte vedute umane. Dammi, Dio mio, uno sguardo so-
-
-
-prannaturale che sappia giudicare gli avvenimenti alla
-tua luce, che sappia scorgere l'intimo significato della
-sofferenza che ponî sul mio cammino. E tanto più, te ne
-prego, intensifica questa luce, SETA le contrarietà
-che mi prepari vanno a colpire il mio io, il mio orgoglio,
-i miei punti di vista, i miei diritti, perchè soprattutto
-allora i0 sono terribilmente cieco e, brancolando nel
-buio, respingo la medicina che Tu mi porgi. Mi mancheranno, dunque, o Signore, i mezzi per-condurre a
-fondo la purificazione del mio io, tanto stolto e superbo?
-Ma nulla può mancare a te, che sei il Tutto, che nella
-tua misericordia infinita superi immensamente la mia
-miseria, Signore, lo confesso, tante volte ho errato come
-la Resia che, lasciando il suo DESIE ha preso un
-falso cammino. Ma ancora una volta voglio ritornare e
-ritorno con fiducia piena perchè so che Tu mai ti stanchi di attendere e di perdonare. Eccomi, o Signore, mi
-metto nelle tue mani: mortificami, purificami come
-meglio Ti piace perchè dove Tu colpisci, ogni male si
-sana, dove Lon mortifichi, sorge la vita.
+O Signore, possiate avere anch'io un amore così forte, così vero, così ardente! Concedimelo Tu che tutto puoi darmi e che puoi in un istante trasformare in una fornace di carità questo mio cuore così arido e così freddo.

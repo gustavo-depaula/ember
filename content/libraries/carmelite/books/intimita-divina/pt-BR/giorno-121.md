@@ -1,104 +1,20 @@
-## 121 — OBEDIÊNCIA SOBRENATURAL
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-— Ó Jesus, ensina-me a ver somente a ti em meus superiores.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — Eis um excelente ensinamento de S. João da
-Cruz: "Nunca consideres teu superior como inferior a Deus,
-seja ele quem for, pois para ti ele representa Deus" (Ct. 12).
-Se não tens esse olhar sobrenatural que te faz ver
-Deus na pessoa do superior, tua obediência não poderá ser
-sobrenatural. Para que o seja, é necessário que sejas animado por este único motivo: obedeço porque meu superior
-me representa Deus, fala-me em lugar de Deus;
-meu superior é Cristo: "hic est Christus meus".
-
-Não deves obedecer por motivo de confiança humana
-na pessoa do teu superior, isto é, porque ele é inteligente,
-prudente, ou porque te compreende ou te quer
-bem, etc.: esta é obediência humana, fruto de prudência
-humana, ato bom, mas não sobrenatural. Não deves tampouco obedecer
-porque o que te é mandado é o mais
-perfeito; este ainda não é o verdadeiro motivo da obediência,
-o qual consiste unicamente em obedecer porque
-tudo o que o superior manda, Deus o quer. Só um
-caso faz exceção: quando o superior mandasse
-cometer um pecado, coisa que certamente Deus não pode querer,
-ou quando suas ordens fossem contrárias à Regra
-ou aos Estatutos por ti abraçados, porque então já não
-seriam legítimas. Mas, quanto ao resto, não deves pôr reserva alguma à tua obediência. E nem deves hesitar temendo que o superior te peça algo menos perfeito, porque mesmo que ele te ordenasse algo objetivamente menos perfeito que outra coisa (por exemplo, descansar,
-em vez de trabalhar), para ti seria o mais perfeito,
-já que pelo simples fato de o superior tê-lo ordenado
-é evidente ser justamente isso, e não outra coisa,
-que Deus quer de ti naquele momento. Pode muito bem acontecer que, em abstrato, vejas a possibilidade de fazer algo de maior perfeição do que aquilo que te é mandado e
-que tua opinião seja melhor que a do superior,
-mas em concreto não há dúvida: não pode haver para ti
-nada mais perfeito do que cumprir aquilo que Deus te manda por meio do superior.
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — Se não deves basear tua obediência num motivo de confiança humana nas qualidades do teu superior, deves
-porém baseá-la num motivo de confiança sobrenatural, isto é,
-de confiança no governo sobrenatural do Senhor através dos superiores que Ele te deu. Ainda que alguma vez
-te encontrasses diante de superiores menos retos, menos
-virtuosos, não terias motivo para temer; de fato, a fé
-te ensina que Deus domina e governa tudo e que nenhuma
-vontade humana pode subtrair-se à sua vontade divina.
-Ainda que o superior errasse, ou te ordenasse algo
-bom ou indiferente em si, mas por motivo menos
-reto, Deus saberá sempre valer-se dos erros dele
-para o bem da tua alma e se servirá até de suas intenções pouco retas para fazer-te fazer o que quer de ti.
-Isto é certo: Deus te dirige por meio dos teus superiores, e estes não são independentes
-de Deus, mas o próprio Deus se serve deles como de instrumentos
-que pode fazer agir segundo seu beneplácito.
-Por isso recorre ao teu superior com
-confiança porque, recorrendo a ele, recorres a Deus; obedecendo-lhe, obedeces a Deus. Uma tal obediência é inteiramente sobrenatural e te põe em contato direto com
-a vontade de Deus.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-Agindo de modo diverso, "farias a ti mesmo o imenso dano de abaixar a obediência do plano divino para o
-humano... E tua obediência será tanto mais vã e estéril,
-quanto mais te sentires contrariado pela atitude hostil do
-teu superior ou mais contente com seu humor fácil e agradável.
-Eu te digo - adverte-te S. João da Cruz -
-é precisamente assim que o demônio, na ordem da perfeição,
-arruinou uma infinidade de religiosos, cuja obediência tem bem pouco valor diante de Deus,
-por terem eles fixado o olhar sobre estas coisas particulares em matéria de obediência" (Ct. 12).
-
-Se queres que tua obediência tenha todo o seu valor,
-fixa teu olhar somente em Deus, "a quem serves no
-teu superior" (ibid.).
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-Ó Senhor, aumenta meu espírito de fé, para que eu
-possa ver-te vivo na alma dos meus superiores; que diante
-de cada um deles eu possa espontânea e sinceramente
-repetir: "hic est Christus meus!" Justamente assim,
-através da obediência, me será possível uma vida de contínuos encontros,
-de contínua intimidade contigo. Se no Sacramento do altar te encontro vivo e palpitante atrás do véu
-das espécies eucarísticas, sempre pronto a acolher e
-nutrir minha alma, posso, embora de outro modo, encontrar-te
-escondido também na pessoa dos meus superiores, através
-dos quais me falas, sempre pronto a dissipar minhas hesitações, a manifestar-me tua santa vontade, a dirigir-me,
-a guiar-me pelo caminho que desde toda a eternidade escolheste
-para minha santificação.
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-Por que então, ó Senhor, hei de deter-me nas aparências
-humanas dos superiores? Isso só me impede de reencontrar-te neles, de reconhecer, na vontade deles, tua
-vontade. Ajuda-me, meu Deus, a superar todos os lados humanos da obediência, para pôr-me em contato contigo,
-com teu querer divino. Como diante da Eucaristia não devo
-parar nas espécies criadas do pão e do vinho, assim diante da obediência não devo parar na pessoa do superior,
-mas considerar somente tua vontade que me chega através das
-aparências de uma ordem, de um comando humano. Ó Jesus,
-que grande mistério! A Eucaristia me dá teu Corpo,
-teu Sangue, tua Divindade: este é o poder do sacramento por ti instituído; a obediência me dá tua vontade, põe-me em comunhão com ela: este é o poder da autoridade por ti constituída.
-
-Ó Senhor, depois de compreender esta profunda verdade,
-como ousarei ainda discutir e hesitar diante das ordens dos meus superiores? "Não seria porventura curioso que,
-dizendo-me Tu que vá fazer algo que te está muito a peito,
-eu não quisesse obedecer com o pretexto de fazer
-outra coisa que me parece melhor? Belo modo de progredir no teu amor! Seria atar-te as mãos e crer
-que Tu não me podes conduzir à perfeição senão por
-um caminho..." (cf. T.G. Fd. 5, 5). Não, Senhor, não assim;
-mas quero seguir-te para onde quer que Tu queiras conduzir-me por meio da santa obediência.
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

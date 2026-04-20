@@ -1,127 +1,21 @@
-## 120 — LIBERA IMMOLAZIONE DELLA LIBERTÀ
+## 44 — IL VALORE DELL'OBBEDIENZA
 
-### Presenza di Dio
+**Presenza di Dio.** — O Gesù obbedientissimo, fammi comprendere il valore dell'obbedienza.
 
 ### Meditazione
 
-1— Il voto di obbedienza è stato ottimamente definito
-«la libera immolazione della libertà » (Pio XII, Congr.
-Relig. dic. 1950). Questa definizione mette in evidenza il
-concetto di immolazione libera, e ciò, ben più che ad una
-supina passività, fa pensare ad un'intensa e nobile attività
-che consiste nella rinuncia volontaria del proprio volere,
-per sottomettersi volontariamente alla volontà di Dio,
+**1** — « Il Signore — insegna S. Giovanni della Croce — preferisce da te il minimo grado di obbedienza e sottomissione che non tutti i servigi che pensi di prestargli » *(AM.* I, 13). Perché? Perché l'obbedienza ti fa rinunciare alla tua volontà per aderire alla volontà di Dio, espressa nei comandi dei superiori; e proprio nella completa conformità della tua volontà con la volontà divina consiste la perfezione della carità, consiste l'essenza dell'unione con Dio. La carità sarà in te perfetta quando in ogni tua azione ti regolerai non secondo le tue inclinazioni e desideri personali, ma secondo la volontà di Dio, conformando ad essa la tua. E appunto questo è lo stato di unione con Dio, poiché « l'anima che ha la volontà interamente conforme e somigliante alla divina, è perciò stesso del tutto unita e trasformata in Dio » *(G.C.S.* II, 5, 4).
 
+La volontà di Dio la trovi espressa nei suoi comandamenti, nei precetti della Chiesa, nei doveri del tuo stato; ma oltre a ciò rimane ancora un largo campo alla tua libera scelta e tuttavia non sempre ti sarà facile riconoscere con certezza quel che Dio vuole da te. Invece, nella voce dell'obbedienza la volontà divina prende una forma chiara, precisa e ti viene manifestata apertamente, per cui non puoi più temere di sbagliare. Infatti, « non v'è potestà se non da Dio » *(Rom.* 13, 1), sicché, obbedendo ai tuoi legittimi superiori, puoi essere sicuro di obbedire a Dio. Gesù stesso, affidando ai suoi discepoli la missione di evangelizzare le genti, ha detto: « Chi ascolta voi, ascolta me e chi disprezza voi, disprezza me » *(Lc.* 10, 16); e così c'insegna che i superiori ecclesiastici lo rappresentano e ci parlano in nome suo. E del resto, S. Tommaso dimostra che in ogni autorità legittima — anche di ordine naturale, come per esempio di ordine civile e sociale — quando questa comanda nei giusti limiti dei suoi poteri, si ha una manifestazione della volontà divina. Proprio in questo senso l'Apostolo non esita a dire: « O servi, obbedite ai vostri padroni... come a Cristo... facendo di cuore la volontà di Dio » *(Ef.* 6, 5 e 6).
 
-espressa nei comandi dei superiori. Siamo, quindi, ben
-lontano dal concetto di un’ obbedienza meccanica, materiale, oppure forzata, subìta necessariamente, per cui
-l’uomo agisce come una macchina o come un servo che
-si sottomette al padrone solo perchè non può farne a
-meno. Qui c’è solo il nome e l'apparenza esterna dell'obbedienza, ma in realtà ne manca il contenuto inte-
-riore; l'atto formale, il quale consiste appunto nella rinuncia libera e quindi cosciente del proprio volere, per
-aderire al volere di Dio manifestato dai comandi del
-superiore. Soltanto in forza di questo duplice elemento:
-libera rinuncia di sè e libera adesione alla volontà divina, l'obbedienza è un perfetto olocausto, tanto gra-
-dito e prezioso agli occhi di Dio, sì da valere « assai più
-delle vittime» (I Re, 15, 22). Se viene a mancare questo
-duplice elemento interiore, l’atto esterno di obbedienza
-potrà essere sufficiente per non venir meno al voto o alla
-promessa fatta, ma perde il suo profondo valore e non sarà mai mezzo per distaccare l’uomo dalla sua volontà e
-slanciarlo nella volontà di Dio.
+**2** — Uno dei maggiori ostacoli alla piena conformità della tua volontà con quella di Dio, è l'attacco al tuo volere, ai tuoi desideri, alle tue inclinazioni. Ora, l'obbedienza, chiedendoti di regolarti secondo il volere altrui, è il migliore esercizio per abituarti a rinnegare la tua volontà, per distaccarti da essa e farti invece aderire alla volontà divina, manifestata dagli ordini dei superiori. E, quanto più è stretta la forma di obbedienza cui sei sottoposto, ossia più essa tende ad abbracciare non solo qualche particolare, ma tutta la tua vita, tanto più intenso sarà questo esercizio e maggiormente ti farà entrare nella volontà di Dio. Questo è il grande valore dell'obbedienza: mettere la vita dell'uomo nella volontà di Dio, dare all'uomo, in ogni circostanza, la possibilità di regolarsi non secondo la sua volontà, tanto debole, fragile, soggetta all'errore, tanto limitata e cieca, ma secondo la volontà di Dio, così buona, perfetta e santa che non può mai sbagliare, né volere il male, ma solo vuole il bene, e non il bene transitorio che oggi è e domani non è più, ma il bene eterno, imperituro.
 
-Quando ti accontenti di un’obbedienza materiale, forzata, non compi l’atto interno di rinuncia a te stesso; an-
-che se esternamente ti uniformi all'ordine ricevuto, interiormente però ti riservi la tua volontà; non puoi
-quindi dire d aver realizzato l’immolazione della libertà
-e neppure di aver abbracciato liberamente la volontà
-divina. Una simile obbedienza è un controsenso per
-un’anima che aspira all'unione con Dio, è un pretendere
-di giungere al fine senza usare i mezzi, è cambiare la
-moneta preziosa della vera obbedienza con una vile moneta di stagno. S. Teresa di Gesù insegna: « l’obbedien-
-za è la via più breve e il mezzo più efficace per arrivare
-al felicissimo stato dell’ unione con Dio» (Fd. s, 11); si
-tratta unicamente, però, di quell’obbedienza che è «libera immolazione della libertà», per non voler altra
-libertà fuorchè quella di fare la volontà di Dio.
-
-2 — Una «libera immolazione » esige sempre coscienza, consapevolezza da parte di chi la compie, così deve es-
-sere dell’atto di obbedienza, Se hai fatto il voto o la promessa di obbedienza devi cercare di mantenere sempre
-desto in te il senso di responsabilità per l'impegno preso.
-
-Pronunciando la tua professione hai inteso di offrire la
-tua volontà in olocausto al Signore, per lasciarti guidare
-da chi lo rappresenta; perciò, di fronte ai vari comandi
-dell’ obbedienza — e soprattutto di fronte a quelli che
-più contrastano con le tue vedute o che per qualunque
-motivo ti sono più gravosi — devi vigilare perchè non
-ti accada di riprenderti, in pratica, quello che hai offerto
-con. voto, il che sarebbe commettere una rapina nell'olocausto. La tua volontà l’hai già consacrata, sacrifi-
-cata sull’altare del Signore, non è più tua, quindi non
-sei più libero di riprenderla. Devi invece usare la tua
-libertà per vivere, per attuare giorno per giorno la tua
-offerta, ossia per rinnovare continuamente, di fronte ad
-ogni. disposizione dell’obbedienza, l'immolazione della tua
-libertà. Benedetta obbedienza che ti permette di realizzare il tuo olocausto! «Se non consacraste così la vostra
-volontà al Signore — scriveva Teresa di Gesù alle sue
-figlie — somigliereste ad uno che mostra ad un altro
-una perla preziosa, gliela offre, lo prega di accettarla,
-e quando quello stende la mano per prenderla, ritira
-l'offerta e la nasconde ben bene» (Can. 32,7). Ciò purtroppo è sempre possibile anche a te; infatti, pur avendo
-sacrificato con voto la tua volontà, questa rimane ancora
-nelle tue mani e dipende dalla tua stessa volontà il mantener fede al voto fatto. È quindi necessario che tu sia
-ben deciso a vincere le tue ripugnanze per abbracciare
-il volere di Dio espresso nei comandi dei superiori.
-
-«L'obbedienza è il peso dei forti» (Pio XII, aî Carm.
-Sc. Sett, 1952), appunto perchè richiede la forza di rinunciare a se stessi; ma questo ‘peso, ossia questa rinun-
-cia, è soave per l’anima innamorata della volontà di Dio,
-
-
-che proprio nel suo amore troverà sempre ‘la forza di
-rinnegarsi.
+L'obbedienza ti fa fare questo felicissimo cambio: lasciare la tua volontà, per abbracciare quella di Dio. È questo il motivo per cui i santi correvano incontro all'obbedienza. Di S. Teresa Margherita del Cuore di Gesù è detto: « non solamente volava nell'eseguire i comandi, ma gioiva estremamente e tripudiava nell'obbedire » *(Sp.* p. 74). Se alla natura può costare il rinnegare la propria volontà, rinunciare a un progetto, a un piano, a un lavoro tanto amato e accarezzato, non è a questa rinuncia che l'anima di vita interiore ferma lo sguardo, ma, pur soffrendo e lottando per vincere se stessa, lo lancia assai più oltre: lo fissa nella volontà di Dio che le si presenta nascosta nella voce dell'obbedienza ed a quella volontà tende con tutte le sue forze, poiché abbracciare la volontà di Dio è abbracciare Dio stesso.
 
 ### Colloquio
 
-O Signore, quale ideale più grande e più bello che
-giungere a conformare totalmente la mia volontà alla tua,
-sì che non più la mia, ma solo la volontà tua mi regga,
-mi guidi, mi governi in tutti i miei movimenti, in tutte
-le mie azioni?
+« Oh, quanto è dolce e gloriosa questa virtù dell'obbedienza in cui sono tutte le altre virtù! Perché ella nasce dalla carità; in lei è fondata la pietra della santissima fede; ella è una regina e colui che la sposa non sente verun male, ma sente pace e quiete. Le onde del mare tempestoso non gli possono nuocere, perché naviga nella tua volontà, Dio mio... Non ha alcun desiderio che non venga soddisfatto, perché l'obbedienza gli fa desiderare soltanto te, o Signore, che puoi, sai e vuoi compiere i desideri suoi. Oh, obbedienza che navighi senza fatica, e senza pericolo giungi al porto della salute! O Gesù, io vedo l'obbedienza conformarsi con te, con te la vedo salire la navicella della santissima croce. Concedimi dunque, o Signore, questa santa obbedienza, unta di vera umiltà, dritta senza veruna stortura, che mena con sé la luce della divina grazia. Concedimi questa margherita nascosta e calpestata dal mondo, che avvilisce se stessa, sottoponendosi per amor tuo alle creature » (S. Caterina da Siena).
 
-Oh, quanto è sublime lo stato di perfetta conformità al
-tuo volere divino! E Tu ancora una volta mi ripeti che
-Spe acquistare questo tesoro non v'è mezzo migliore
+O Signore, non ho che una vita sola e in qual modo migliore potrò impegnarla per la tua gloria e per la mia santificazione che mettendola direttamente sotto l'obbedienza? Solo così avrò la certezza di non perder tempo e di non sbagliare, giacché mettersi nell'obbedienza è mettersi nella tua volontà. E se la mia volontà è tanto difettosa, la tua è santa e santificante; se la mia volontà ha il triste potere di farmi sbagliare, la tua ha il grande potere di santificare la mia povera vita, di santificare tutte le azioni, anche le più semplici e indifferenti, compiute sotto il suo impulso. O Signore, appunto il desiderio di vivere totalmente nella volontà tua mi spinge verso l'obbedienza, mi fa amare e abbracciare questa virtù, malgrado il mio vivo amore per la libertà e all'indipendenza.
 
-e scavare nella miniera dell’obbedienza ed  estrarlo a
-viva forza. Più scaverò e più troverò; più mi assoggetterò agli uomini per amor tuo, non volendo altra volontà
-che quella dei superiori, e più mi farò padrone della mia
-per conformarla alla tua. Questa è la vera unione con
-te, mio Dio, questa è l'unione, che desidero, non già
-
-uelle. sospensioni molto dilettose a cui si dà il nome
-
-i unione, e che unione non sono, se non quando sono
-precedute da Sus Tu mi fai ben comprendere che,
-se avrò poca obbedienza e molta volontà mia, l’unione
-non sarà con la tua volontà, ma col mio amor proprio.
-Ti piaccia, o Signore, che io metta in pratica quanto
-mi dai grazia di comprendere » (cfr. T.G. Fd. 5, 13).
-
-O Signore, Tu ben lo sai, alla mia volontà non piace
-sottomettersi, non piace rinunciare a se stessa per assog-
-
-ttarsi al volere altrui; c'è in me un forte amore alla
-libertà, all’ indipendenza, che m’inclina a cercare mille
-Ta mille vie per sfuggire alla necessità di dipendere.
-
-tu sai anche che nessuna cosa al mondo amo, cerco,
-desidero come la volontà tua. E per vivere nella tua
-volontà, per avere la certezza e la gioia di agire in
-ogni cosa secondo il tuo volere divino sono pronto, col
-tuo aiuto, a fare qualsiasi sacrificio, a immolare sino in
-
-
-fondo la mia libertà. O Signore, accresci il mio amore
-
-
-per la tua santa volontà, accendi in me la passione della
-tua volontà e allora crescerà in me l’amore all’obbedienza, canale d’oro attraverso cui mi giunge il tesoro pre-
-ziosissimo della volontà tua.
+O santa e santificante volontà del mio Dio, ti voglio amare sopra tutte le cose, voglio abbracciarti in ogni istante della mia vita, non voglio far nulla senza di te, fuori di te.

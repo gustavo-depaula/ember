@@ -1,106 +1,33 @@
-## 363 — LA MATERNITA DI MARIA
-*11 ottobre*
+## 41 — IL GRANELLO DI SENAPA
 
-### Presenza di Dio
+*XXIV Domenica dopo Pentecoste — VI dopo l'Epifania*
 
-Maria, Madre di Dio, accetta i miei umili ossequi e fa' che anch'io possa godere i dolci frutti della tua maternità.
+**Presenza di Dio.** — *O Signore, venga il tuo regno su tutta la terra; venga il tuo regno nel mio cuore.*
 
 ### Meditazione
 
-più bello, la sua prerogativa più gloriosa: madre di Dio,
-titolo e prerogativa solennemente proclamati dal Concilio
-di Efeso, contro l'eresia di Nestorio. Oggi la Chiesa si
-congratula con Maria per questa sua altissima dignità che
-la pone al di sopra di ogni semplice creatura, alle soglie
-dell'infinito, che la costituisce non solo regina degli uo
-mini, ma anche degli angeli. Tutta la Messa del giorno
-è intonata a questo tema. L'Introito riporta il vaticinio di
-Isaia il quale, fin dall'antico testamento, aveva intravisto
-la grandezza di questa Donna singolare: Ecco, la Vergine concepirà e partorirà un Figlio e lo chiameranno col
+**1** — Dai testi della Messa odierna emerge la parabola del granello di senapa, tanto breve, ma tanto ricca di significato: «Il regno dei cieli è simile a un granellino di senapa che un uomo prende e semina nel campo; esso è il più piccolo di tutti i semi, ma quando è cresciuto è il più grande di tutti gli erbaggi e si fa un albero; tanto che gli uccelli del cielo vengono a riposarsi tra i suoi rami» *(Vg.: Mt.* 13, 31-35). Nulla di più piccolo e di più umile del «regno dei cieli», ossia della Chiesa alle sue origini: Gesù, che ne è Capo e fondatore, nasce in una grotta di animali, vive per trent'anni nella botteguccia di un fabbro e per soli tre anni svolge la sua opera in mezzo a povera gente predicando una dottrina così semplice che tutti, anche gli illetterati, possono intenderla. Quando Gesù lascia la terra, la Chiesa è costituita da un esiguo gruppo di dodici uomini, raccolti intorno ad un'umile donna, Maria; ma questo primo nucleo ha una forza così vitale, così possente che in pochi anni si diffonde in tutte le terre del vasto impero romano. Via via attraverso i secoli, la Chiesa, da minuscolo granello di senapa seminato nel cuore di una Vergine-Madre e di poveri pescatori, diventa un albero gigantesco che stende i suoi rami in ogni regione del globo e alla cui ombra si rifugiano genti di ogni lingua e di ogni popolo.
 
-nome di Emmanuele », e cioè Dio con: noi. L'Epistola
-(Ecli. 24, 23-31), applicando alla Madonna un brano dell'elogio alla Sapienza, canta le lodi della sua maternità
-divina: Maria è la vite ubertosa da cui germogliò il frutto più bello, Gesù; Maria è la « madre del bell'amore »
-in cui è «ogni grazia di via e di verità, ogni speranza di
-vita e di virtù», giacchè solo per mezzo di lei Dio ha
-dato al mondo il suo Unigenito, solo per mezzo di lei
-gli uomini hanno avuto il loro Salvatore. Chi vuole Gesù
-deve cercarlo tra le braccia di Maria; chi vuole propiziarsi il Salvatore deve ricorrere a lei che ne è la madre.
-Assai dolce, perciò, suona all'orecchio l'invito materno:
-«Venite a me, o voi tutti che mi desiderate, e saziatevi
-dei miei frutti ». Sì, andiamo a Maria e non saremo delusi, in lei troveremo di che saziarci perchè Maria ci dà
-Gesù Redentore, Padre, Cibo delle anime nostre, e non
-solo ce lo dà, ma, con gli esempi della sua mirabile vita,
-c'insegna ad amarlo, a imitarlo, a seguirlo, a valerci nel
-modo più pieno della sua opera redentrice e santificatrice.
-Proprio così Maria estende anche a noi la sua maternità,
-compie anche verso di noi l'ufficio di madre e noi possiamo ripetere con tutta confidenza la preghiera che la
-Chiesa ci mette oggi sulle labbra: «O Signore... concedici di essere aiutati presso di te dall'intercessione di
-Colei che crediamo vera madre di Dio » (Colletta).
+La Chiesa non è una società di soli uomini, ma di uomini che hanno per capo Gesù, il Figlio di Dio; la Chiesa è il Cristo totale, ossia Gesù più i suoi fedeli incorporati a lui e formanti con lui un unico corpo; la Chiesa è il Corpo mistico di Cristo di cui ogni battezzato è un membro. Amare la Chiesa è amare Gesù; lavorare per la diffusione della Chiesa è lavorare per l'incremento del Corpo mistico di Cristo, affinché sia completo il numero dei suoi membri e ogni membro cooperi al suo splendore. La breve invocazione: «*adveniat regnum tuum*», indica tutto ciò e tutto ciò sollecita dal Padre celeste.
 
-re nei nostri cuori Ja confidenza, la fiducia in Colei che,
-a motivo della sua da di madre, ha i massimi poteri
-presso il suo Figlio divino, Lodandola madre di Dio, la
+E poco quello che possiamo fare per la diffusione della Chiesa? Facciamolo almeno con tutto il cuore, cooperiamo anche noi con la nostra povera opera, vero granello di senapa, allo sviluppo di quest'albero meraviglioso, all'ombra del quale tutti gli uomini devono trovare salvezza e riposo.
 
-sollecitiamo a impegnare la sua maternità in nostro favore: «Santa Maria, Madre di Dio, prega per noi peccatori ». Quale maggiore avvocata potremmo trovare? Quale
-più potente patrona? Gesù non può resistere alle suppliche della Madre sua e Maria non può resistere a coloro
-che l'invocano sotto il titolo dolcissimo della sua maternità. Se ogni donna si commuove sentendosi chiamare
+**2** — La parabola del granello di senapa ci fa pensare non solo allo sviluppo del regno di Dio nel mondo, ma anche allo sviluppo di questo regno nel nostro cuore. Non ha detto forse Gesù: «Il regno di Dio è dentro di voi»? *(Lc.* 17, 21). Ebbene, anche in noi questo regno meraviglioso ha avuto i suoi inizi da un piccolissimo seme, il seme della grazia: grazia santificante che, in modo nascosto e misterioso, Dio ha seminato in noi nel santo battesimo; grazia attuale delle buone ispirazioni, della parola divina — «*semen est verbum Dei*» *(Lc.* 8, 11) — che Gesù, Seminatore celeste, ha sparso a piene mani nelle anime nostre. Un po' alla volta questo piccolo seme ha germogliato, ha messo radici sempre più fonde, è cresciuto penetrando progressivamente tutto il nostro spirito, finché ci ha conquistati interamente a Dio, finché abbiamo sentito il bisogno di dire: Signore, tutto ciò che ho e che sono sia tuo; mi do tutto a te. Voglio essere *regno tuo.*
 
-===
+Essere totalmente *regno di Dio* in modo che Egli sia l'unico Sovrano e Dominatore del nostro cuore e nullesista in noi che non gli appartenga o non sia soggetto al suo impero, è l'ideale dell'anima che ama Dio con amore totale. Ma, come arrivare al pieno sviluppo di questo regno di Dio in noi? Ce lo dice la seconda parabola che leggiamo oggi: «Il regno dei cieli è simile al lievito che una donna prende e rimescola in tre staia di farina, finché tutta la massa lievita». Ecco un'altra bellissima immagine del lavoro che la grazia deve compiere nell'anima nostra: la grazia è stata posta in noi come lievito che a poco a poco deve crescere fino a permeare tutta la nostra personalità e a divinizzarla interamente. La grazia, lievito divino, ci è stata data perché sani, elevi, santifichi il nostro essere con tutte le sue potenze e facoltà; solo quando avrà condotto a termine quest'opera noi saremo interamente *regno di Dio.*
 
-«mamma », quanto var non si commuoverà Maria sentendosi chiamare « Madre di Dio »? Invochiamola dunque
-così, trattiamola da madre, madre di Dio anzitutto e poi
-/ anche madre nostra, giacchè Gesù, morendo sulla croce,
-ha voluto mettere a nostra disposizione i tesori della di
-lei maternità. La Madonna ha una missione materna da
-adempiere verso le anime nostre; Gesù stesso gliel'ha affidata, perciò le è carissima e non desidera altro che di
-portarla a compimento. Sì, Maria vuole esserci madre,
-vuole impegnare a nostro vantaggio i privilegi e i tesori
-della sua maternità, ma non può farlo, se non ci affidiamo a lei come figli docili e amanti. Anche fra coloro che
-sono consacrati a Dio, non tutti e non sempre compre
-dono abbastanza la necessità di darsi a Maria come figli,
-di aprire l'anima al suo influsso materno, di ricorrere a
-lei con confidenza piena, d'invocare il suo aiuto in tutte
-le difficoltà, in tutti i pericoli, di mettere la propria vita
-spirituale sotto il suo patrocinio. Come nell'ordine naturale il bambino ha bisogno della mamma e quando la
-mamma viene a mancare il bambino soffre moralmente e spiritualmente, così nell'ordine soprannaturale le anime hanno bisogno di una madre, di Maria Santissima.
-Senza di lei, senza le sue cure materne le anime soffrono,
-la loro vita spirituale è stentata, spesso intristisce 0, almeno, non è rigogliosa come potrebbe esserlo. Quando
-invece le anime si danno a Maria, cercano Maria e a Ici
-si affidano, la loro vita interiore progredisce rapidamente,
-il loro passo verso Dio si fa più agile e svelto, tutto diventa più facile perchè vi è una mano materna che le
-sorregge, vi è un cuore materno che le conforta.
+Riflettiamo ancora una volta al grande problema della nostra corrispondenza alla grazia. Questo seme divino, questo lievito soprannaturale è in noi; chi gli potrà impedire di diventare albero gigantesco capace di dare rifugio ad altre anime, chi gli potrà impedire di fermentare tutta la massa, se rimuoveremo tutti gli ostacoli che si frappongono al suo sviluppo, se asseconderemo i suoi impulsi e le sue esigenze?
+
+*«Adveniat regnum tuum!»* Sì, invochiamo l'avvento totale del regno di Dio anche nei nostri cuori.
 
 ### Colloquio
 
-«Il tuo nome, o Madre di Dio, è ripieno di tutte le
-grazie e le benedizioni divine. Tu hai portato nel tuo seno Colui che i cieli non possono contenere. Tu hai nutrito Colui che tutto nutre. Il Signore dell' Universo ha
+«Signore Dio mio, che mi creasti a tua immagine e somiglianza, concedimi questa grazia che mi dimostrasti tanto grande e necessaria, onde io possa vincere la pessima natura, che trascina alle colpe ed alla perdizione. Poiché sento nella mia carne la tendenza al peccato, che contraddice alle leggi dello Spirito e mi conduce come uno schiavo ad ubbidire in molte cose ai sensi; né posso resistere alle passioni se non mi assiste, o Signore, la tua santissima grazia infondendosi col suoi ardori nel mio cuore.
 
+«O Signore, senza la grazia, io nulla posso fare, mentre se essa mi aiuta e conforta, riesco a tutto.
 
-voluto aver bisogno di te, avendogli Tti dato quella carne che nona non aveva. Rallegrati, o Madre e Ancella
-di Dio! Rallegrati! Tu hai per uu Colui che dà l'essere a tutte le creature; tutti noi siamo debitori a Dio,
-ma Dio è debitore a te!
+«O grazia veramente celeste, senza la quale non abbiamo meriti, senza la quale tutti i doni della natura sono da stimarsi nulla! O grazia santissima, che rendi ricco di virtù il povero di spirito, che rendi umile di cuore chi è fornito di molti beni, vieni, discendi in me, riempimi oggi di celeste consolazione, onde l'anima mia non cada per la stanchezza e l'aridità di spirito.
 
-; «O Santissima Vergine, Tu hai maggior bontà, maggior carità di tutti gli altri santi e più di tutti hai accesso al trono di Dio, poichè ne sei la madre. Ti supplico,
-dunque, io che celebro le tue glorie e lodo la tua grande
-bontà, di ricordarti di me e delle mie miserie » ($. Metodio).
+«Ti prego, Signore, che io trovi grazia davanti a te: se anche non otterrò ciò che la natura desidera, "mi basterà la tua grazia". Avendola, non temerò alcun male, allorché sarò tentato e angustiato da molte tribolazioni. Essa è la mia fortezza, mi dà aiuto e consiglio, è più potente di qualunque nemico, più sapiente di qualunque saggio.
 
-«O gran Madre di Dio, ti dirò anch'io con S. Bernardo: “Parla, o Signora, che il Figlio tuo ti ascolta e
-quanto gli chiederaî, tutto ti concederà *. Parla, dunque,
-paria: '© Maria, avvocata mia, a favore di me miserabile.
-
-icordati che anche per mio bene hai ricevuto tanta potenza e tanta dignità; Dio ha voluto farsi tuo debitore
-prendendo da te la natura umana, affinchè tu potessi dispensare liberamente ai miseri le ricchezze della sua divina misericordia.
-
-«Se tu, immensamente buona, fai del bene a tutti,
-anche a coloro che non ti conoscono e non ti onorano,
-quanto più dovremo FRE dalla tua benignità noi che
-vogliamo onorarti, vogliamo amarti e confidiamo nel tuo
-
-aiuto? O Maria, anche se siamo peccatori, puoi salvarci,
-perchè Dio ti ha arricchito di misericordia e di potenza
-maggiore di ogni nostra iniquità, O Madre dolcissima, a
-te presento l'anima mia affinchè la purifichi, la
-la faccia tutta di Gesù » (S. Alfonso).
-
-ntifichi,
+«"La tua grazia, Dio mio, mi prevenga e mi accompagni sempre, faccia sì che io sia sempre intento alle opere buone, per Gesù Cristo Figlio tuo". Così sia» *(Imit. III,* 55).

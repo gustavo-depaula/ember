@@ -1,94 +1,30 @@
-## 140 — VIDA DE FÉ EM S. JOSÉ
+## 142 — A PÁSCOA DO SENHOR
+*Domingo da Ressurreição*
 
 ### Presença de Deus
 
-Na tua escola, ó glorioso S. José, desejo aprender a viver de fé, deixando-me em tudo guiar pela divina Providência.
+— Ó Jesus ressuscitado, faze-me digno de participar da alegria da tua ressurreição.
 
 ### Meditação
 
-1 — A atitude fundamental da vida de S.
-José é toda de confiança e abandono em Deus, e brota de sua fé. S. Mateus diz dele "que era homem
-justo" (1, 19). Ora, a Sagrada Escritura ensina que "o justo vive de fé" (Rm. 1, 17), e pode-se bem afirmar que
-nenhuma criatura - depois da Virgem Maria - viveu de
-fé quanto José. De fato, sua vida, tendo-se desenvolvido
-na órbita do mistério da Encarnação, teve necessariamente de passar por todas aquelas obscuridades que cir-
-cundaram o cumprimento do grande mistério. José
-teve, portanto, necessidade de uma grande fé, fé continuamente alimentada de sofrimentos e temperada através das
-angústias. As perplexidades despertadas nele pela misteriosa maternidade de Maria, a pobreza extrema e as angustias de Belém, os incômodos da fuga para o Egito fizeram gemer sua
-alma delicada, tanto que nos momentos mais graves teve
-necessidade da intervenção de um Anjo, por quem foi sustentado e introduzido nas profundidades do mistério divino que
-se desenrolava sob seus olhos. E José deixa-se guiar com a docilidade e a confiança cega de uma criança. O
-testemunham estes quatro fatos narrados pelo Evangelho.
-1o. O Anjo põe termo às suas ansiedades, ordenando-lhe
-tomar Maria SS.ma por esposa "porque o que nela foi concebido
-é obra do Espírito Santo": José não hesita
-um instante e faz "como lhe havia ordenado o Anjo do
-Senhor" (Mt. 1, 20 e 24). 2o. O Anjo o adverte de "tomar o menino e sua mãe e fugir para o Egito"
-(ibid., 2, 13): sem demora, no coração da noite, o Santo
-levanta-se e executa a ordem. Objetivamente a fuga
-apresentava grandíssimas dificuldades: os enormes incômodos e perigos da viagem, a extrema pobreza, o exílio em terra
-estrangeira; mas o Anjo falou e José obedece.
-3o. Morto Herodes, o Anjo lhe ordena retornar à
-terra de Israel. 4o. O Anjo o adverte de retirar-se para a Galileia (cf. ibid., 2, 19-23).
-Temos aqui quatro atos de fé e de obediência cega.
-José não hesita, não raciocina, não opõe dificuldades,
-porque confia totalmente em Deus, porque crê plenamente
-nele, em sua palavra, em sua divina Providência.
+1. — «Este é o dia que o Senhor fez: exultemos e alegremo-nos nele!» (BR.). É o dia por excelência, o dia mais jubiloso de todo o ano, porque nele «a nossa Páscoa, Cristo, foi imolada». Também o Natal é festa de alegria, mas, enquanto a alegria natalina tem uma nota inconfundível de doçura, a alegria pascal tem uma nota inconfundível de triunfo: é o júbilo pelo triunfo de Cristo, pela sua vitória. A liturgia da Missa nos indica as duas características da alegria pascal: alegria na verdade (Epístola), alegria na caridade (Postcommunio).
 
+Alegria na verdade: segundo a vibrante exortação de S. Paulo: «Celebremos a festa não com o velho fermento... mas com os ázimos da pureza e da verdade». Neste mundo há tantas alegrias efêmeras, baseadas em fundamentos frágeis e inconsistentes, mas a alegria pascal é a alegria de saber-se na verdade, a verdade que Cristo trouxe ao mundo e confirmou com a sua ressurreição. A sua ressurreição nos diz que a nossa fé não é vã, que a nossa esperança não está posta em um morto, mas em um vivo, no Vivo por excelência, cuja vida é tão poderosa que vivifica não só para o tempo, mas também para a eternidade todos os que nele creem: «Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá» (Jo. 11, 25). Alegria na verdade: porque só as almas sinceras e retas, que procuram com amor a verdade e, mais ainda, que praticam a verdade, podem gozar plenamente a ressurreição. Alma sincera é aquela que se reconhece como é, com os seus defeitos, com as suas deficiências, com a sua necessidade de conversão e que, precisamente por tal consciência da sua miséria, está sinceramente decidida a querer purificar-se do velho fermento das paixões para renovar-se toda em Cristo ressuscitado.
 
-2 — Toda a vida de S. José resume-se numa
-contínua adesão ao plano divino, ainda que diante de
-situações para ele muito misteriosas e obscuras.
+Mas a verdade deve ser praticada na caridade: «veritatem facientes in charitatem» (Ef. 4, 15); é, portanto, mais do que oportuna a oração que o Postcommunio põe em nossos lábios: «Senhor, infunde em nós o espírito de caridade... e, por tua piedade, torna-nos concordes». Não pode haver verdadeira alegria pascal onde não há concórdia e mútua benevolência.
 
-Também em nossa vida há sempre um pouco de mistério,
-quer porque Deus ama operar de modo escondido, secreto,
-quer porque sua ação é sempre impenetrável ao nosso pobre olhar. Caminhemos, pois, nas vias de Deus com o espírito
-de José, certos de que Deus pode servir-se de
-qualquer pessoa e de qualquer circunstância para fazer-nos conhecer e realizar seu querer divino; exatamente como se serviu do édito de César para conduzir José a Belém, onde Jesus devia nascer. As intenções do imperador
-romano tinham sido bem diversas, mas Deus serviu-se
-daquele ato político para realizar o plano da Encarnação.
-É sempre verdade que Deus tudo governa e dirige ao cumprimento de sua vontade.
+2. — O Evangelho nos apresenta as piedosas mulheres, as fidelíssimas, que ao primeiro alvorecer do domingo correm ao sepulcro e, pelo caminho, perguntam-se preocupadas: «Quem nos removerá a pedra da entrada do sepulcro?». Mas essa preocupação, embora muito justificada pelo tamanho e pelo peso da pedra de fechamento, não as desvia do seu propósito: estão demasiado tomadas pelo desejo de encontrar Jesus! E eis que, logo que chegam, veem a «pedra removida» e, portanto, entrando no túmulo, encontram um Anjo que lhes dá o grande anúncio: «Ele ressuscitou; não está aqui». Por enquanto Jesus não se deixa encontrar, nem ver; mas pouco depois, quando, segundo a ordem recebida dos Anjos, as mulheres irão dar a notícia aos discípulos, ele lhes virá ao encontro dizendo: «Salve!» (Mt. 28, 9), e a alegria delas será plena.
 
-Outra característica da vida de S. José é ter-se
-consagrado totalmente à missão que Deus lhe confiou;
-José não vive para si mesmo, para seus interesses pessoais,
-mas unicamente para Deus, que serve em Jesus e em
-Maria. S. José é assim o verdadeiro modelo das almas de
-vida interior, das almas que aspiram a viver totalmente
-para Deus e com Deus, no cumprimento da missão por ele
-recebida.
+Também nós temos o grande desejo de encontrar o Senhor: talvez já há muitos anos nos pusemos a procurá-lo e talvez também para nós o desejo tenha sido acompanhado de sérias preocupações: como farei para remover os obstáculos, para tirar da minha alma aquelas pedras que me impedem de encontrar o Senhor, de me dar inteiramente a ele, de fazê-lo triunfar em mim? Mas, precisamente porque queríamos encontrar o Senhor, sustentados por sua graça, superamos tantos obstáculos, e a divina Providência nos ajudou a remover muitas pedras, a vencer tantas dificuldades. Contudo, a busca de Deus é progressiva e deve continuar por toda a vida; por isso, como as piedosas mulheres, devemos ter sempre a santa preocupação de encontrar o Senhor; preocupação que deve tornar-nos industriosos e solícitos na busca e, ao mesmo tempo, confiantes no auxílio divino, porque é certo que, onde as nossas forças não podem chegar, o Senhor proverá, fazendo ele por nós aquilo que não sabemos fazer.
+
+Que a Páscoa assinale todos os anos uma renovação em nossa vida espiritual, uma renovação em nossa busca de Deus; todos os anos retomemos o nosso caminho para ele em «novitate vitae».
 
 ### Colóquio
 
-"Ó José, quanto te amo! Quanto bem me faz pensar na tua vida tão simples, humilde. Quanto bem me faz
-pensar que também tu viveste de fé como nós. Contemplo-te na casinha de Nazaré junto a Jesus e Maria,
-todo ocupado em trabalhar para eles. Parece-me ver-te aplainar madeira, depois enxugar de vez em quando a fronte e apressar-
-te para terminar a tempo o trabalho a entregar aos
-clientes. Embora vivendo ao lado do Filho de Deus, tua vida
-se desenrolou de modo totalmente ordinário, porque certamente Jesus não fazia milagres inúteis... Na tua vida
-tudo aconteceu como na nossa. E quantas penas, quantas fadigas, quantos perigos! Como ficaríamos admirados se
-soubéssemos tudo o que sofreste!" (cf. T.B.G. CR.
-e NV.)
+«Senhor Jesus, Jesus piedoso, Jesus bom, que te dignaste morrer por nossos pecados e ressuscitaste para a nossa justificação, peço-te, por tua gloriosa ressurreição, ressuscita-me do sepulcro dos meus vícios e pecados, para que eu mereça participar verdadeiramente da tua ressurreição. Dulcíssimo Senhor, que subiste ao Céu com triunfo na tua glória e estás sentado à direita do Pai, tu que poderosíssimo me atrais para o alto, até ti, para que eu corra ao odor dos teus perfumes, para que eu corra e não desfaleça, enquanto tu me atrais e me conduzes. Atrai a boca da minha alma sedenta para junto da fonte suprema da eterna saciedade; do fundo atrai-me à fonte viva, para que ali, segundo a minha capacidade, eu beba daquilo por que eu viva para sempre, ó meu Deus, minha vida.
 
-"Não sei como se pode pensar na Rainha dos anjos e no muito que sofreu com o Menino Jesus sem
-pensar em ti, glorioso S. José, sem agradecer a ti,
-que lhes foste de tanto auxílio! Por esse motivo me
-parece que te devem ser especialmente afeiçoadas as pessoas de oração...
+«Assuma, ó Senhor, assuma, eu te peço, o meu espírito asas como de águia, e voe, e não desfaleça; voe, e chegue até o esplendor da tua glória, para que ali seja alimentado dos teus segredos à mesa dos cidadãos celestes, no lugar da tua páscoa, junto da fonte abundantíssima; repouse em ti, ó Senhor, o meu coração; coração semelhante a grande mar, agitado por ondas túmidas.
 
-"Pela longa experiência que tenho dos favores que tu
-obténs de Deus, quisera persuadir a todos a serem devotos de ti.
-Não conheci pessoa que te seja verdadeiramente devota e
-que pratique em tua honra alguma devoção particular
-que não faça notáveis progressos no caminho da virtude.
-As almas que a ti se recomendam são ajudadas de um
-modo todo especial. Vi claramente que teu
-auxílio foi sempre maior do que eu poderia esperar.
-Não me lembro de haver-te pedido alguma
-graça sem tê-la logo obtido. O Senhor quer fazer-nos
-entender com isso que, do mesmo modo que te era sujeito
-na terra, onde tu, como Pai e guarda, podias comandar-lhe, assim ainda no céu continua a fazer quanto lhe
-pedes" (cf. T.G. Vi. 6, 6-8).
+«Preciosíssimo, desejadíssimo, amabilíssimo Senhor, quando te verei? Quando comparecerei diante da tua face? Quando serei saciado da tua beleza? Quando me tirarás desta prisão tenebrosa, para que eu confesse o teu nome, sem mais ser confundido?... Que farei eu, miserável, oprimido pelo peso das cadeias da minha mortalidade? Que farei?... Enquanto estamos no corpo, peregrinamos para o Senhor. Não temos aqui morada estável, mas buscamos a cidade futura, pois a nossa pátria está nos Céus.
 
-Ó querido S. José, ponho-me, pois, com plena confiança sob teu patrocínio; ensina-me a viver como tu de
-fé e de abandono em Deus, ensina-me a viver unicamente
-para ele, dando-me todo ao seu serviço.
+«Dá-me graça, ó Senhor, que, enquanto trago comigo estes frágeis membros, eu adira a ti, porque: quem adere ao Senhor é um só espírito com ele» (S. Agostinho)

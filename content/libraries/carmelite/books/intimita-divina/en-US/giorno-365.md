@@ -1,42 +1,106 @@
-## 365 — THE SAINTS
-*November 1*
+## 43 — JESUS TRUE VINE
 
 ### Presence of God
 
-O Lord, through the intercession of Your Saints, may I too walk with courage on the road of holiness.
+— Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.
 
 ### Meditation
 
-The Church, our Mother in salvation, today exults with immense joy as she contemplates the glory of her children who have reached the heavenly homeland. They are secure forever, saved from every snare of the evil one, forever God's chosen people.
+1 — Jesus is the one "Mediator between God and men"
+(1 Tim. 2, 5); yet He was not content to redeem us
+while remaining separated from us, His redeemed, but willed that
+all our redemption should be wrought in Him, through a
+most close union between Him and us. This is the great mystery
+of our incorporation into Christ, revealed by Him Himself
+to the Apostles on the evening before His Passion. "I am
+the true vine and my Father is the vinedresser... Abide in
+me and I will abide in you. As the branch cannot bear
+fruit by itself unless it remains in the vine, so neither can you unless you remain in me" (Jn. 15, 1-4).
 
-Like a mother proud of her children's triumph, she presents them to all Christians and invites every faithful soul to share her joy: "Let us all rejoice in the Lord, celebrating this feast in honor of all the Saints; at whose solemnity the angels rejoice and praise the Son of God."
+Jesus strongly affirms that there is no redemption, there
+is no supernatural life, life of grace, except for one who lives
+in Him, grafted in Him; just as in the branch there is no
+life and no fruit except insofar as it is joined to the trunk. Behold the very close connection that Jesus willed to establish between Him and us, a connection indispensable for
+our salvation, for our sanctification. Not even the
+smallest degree of grace can come to us without Christ's mediation,
+just as the smallest drop of sap cannot
+reach the branch if this is detached from the tree.
 
-The Epistle (Rev 7:2-12) gives us the apocalyptic vision of their glory: "A great multitude, which no one could number, of every nation, tribe, people, and tongue, standing before the throne and before the Lamb, clothed in white robes, with palms in their hands." Martyrs, apostles, confessors, virgins: luminous ranks unceasingly beholding, adoring, and praising God.
+Moreover Jesus declares that, by remaining in Him, not only
+do we have supernatural life, but we become object
+of special care on the part of the heavenly Father, who is "the vinedresser" of the mystical vine. In fact the heavenly Father
+knows us as His adopted children and as such loves us and
+cares for us only insofar as He sees us in Christ, His only beloved Son. The grace of adoption embraces only those whom the Father
+finds strictly joined to His Only-Begotten, so as to
+be "living part" of Him, as the branch is living part
+of the vine.
 
-But who are these glorious Saints? Men and women who lived on this earth as we do, who knew our miseries, struggles, and difficulties. Some are known to us, raised by the Church to the altars; but the vast majority are unknown: humble people who lived hidden lives, faithful in daily duty, without brilliance or fame, remembered by no one on earth, yet seen by the Father in secret and welcomed into His glory.
+2 — "Abide in me." One cannot abide unless one
+already is. Jesus tells us to "abide" in Him precisely
+because our grafting into Him is a fact already accomplished,
+merited for all men by His death on the cross, and
+actualized individually for each of us at the moment of
+Baptism. Christ, at the price of His Blood, united us
+to Himself; therefore we "are" in Him, but it is for us
+to "remain" in Him in the fullest and most vital way.
 
-If among them there are also great figures who held honored places or did notable works, that earthly greatness no longer counts. In eternity, one thing remains: the degree of love attained, and the corresponding degree of glory.
-
-To show us what their heavenly life has as foundation, the Gospel (Mt 5:1-12), with the Beatitudes, reveals what their earthly life was: poverty of spirit, meekness, patience in sorrow, hunger for righteousness, mercy, purity of heart, peacemaking, and strength to suffer persecution for God's sake.
-
-This is the program of life if we too would become saints.
-
-We want holiness, but often we want it easy - without violence to self, without real sacrifice. We practice virtue up to a point, as long as it does not cost too much. So when faced with acts demanding deeper self-denial - silencing wounded pride, giving up our own claims, yielding to those who oppose us - we often draw back, thinking such effort unnecessary.
-
-Yet our progress in holiness depends precisely on these acts we refuse. Without them we remain mediocre, at the same level, if we do not go backward.
-
-Let us beg the Saints we honor today to help us overcome laziness, weakness, and cowardice. Let us ask those who walked before us on this hard road to obtain for us the strength to follow.
-
-"If these and those, why not I?" (St. Augustine). The grace God gave to the Saints He gives to us as well; what is lacking, alas, is our correspondence.
+If to be grafted into Christ Baptism is sufficient,
+and if one degree of grace is enough to remain in Him as living
+branches, we must not be content with this. We
+must be conscious of the immense gift received and seek
+that our grafting into Christ become ever deeper;
+we must "live" this union with Christ,
+the center, the sun of our interior life. Not by chance
+did Jesus say: "Abide in me"; thus He wished to indicate
+that our life in Him requires our personal collaboration:
+we must apply all our strength,
+our mind, our will, our heart to willing to
+live in Him and by Him. The more we apply ourselves
+to abiding in Christ, the more deeply we sink our
+little branch in Him, and He will communicate to us ever more abundantly
+the sap of grace.
+"Abide in me and I will abide in you"; to the degree that,
+through faith, charity, and good works, we hold ourselves
+tightly united to Christ, He will abide in us,
+continually communicating new life of grace to us. Then we shall
+be not only living branches, but rich in fruits, fruits of
+holiness destined to gladden God's heart, because Jesus
+said: "My Father will be glorified if you bear
+abundant fruit" (Jn. 15, 8).
 
 ### Colloquy
 
-"Happy is your lot, O holy souls, who enjoy your blessedness without fear and ceaselessly sing the praises of my God. How right that you should be forever occupied in this praise! My soul envies you for being free from the sorrow that overwhelms me at the grave offenses done to my God and at the blindness by which so many souls are lost.
+"O high and eternal Trinity, Deity, Love, we are
+trees of death and You are tree of life.
+Infinite God, what a spectacle it is to see in Your light the pure tree of Your
+creature! Supreme Purity, You gave branches to this tree,
+that is, the soul's faculties:
+memory, intellect, and
+will... Memory should retain You, intellect know You, will love You... But this tree, because it departed
+from innocence, by disobedience fell, and from tree of
+Life became tree of death, whence it produced fruits
+only of death.
 
-"O blessed souls of heaven, come to the aid of our misery. Intercede for us with divine mercy, that we too may share your joy and become participants in the clear vision you now possess.
+"Wherefore You, high and eternal Trinity, as if
+drunk with love and mad for Your creature, seeing that
+this tree could bear no fruit but of death,
+because it was separated from You who are life, gave it
+the remedy with that same love with which You had created it, grafting Your Deity into the dead tree of our humanity.
+O sweet and gentle graft!... Who constrained You to this,
+to restore life to it, though that creature had done You such
+injury? Love alone; and because of this graft death
+is dissolved.
 
-"And You, my God, make us understand what reward is reserved for those who, in the brief dream of this poor life, fight bravely. Obtain for us, loving souls, understanding of your happiness - the joy of knowing your state will never end.
+"And was it enough for Your charity to have made this union with it? No, and therefore You, eternal Word, watered this tree with Your Blood.
+This Blood, by its warmth, makes it sprout,
+if man by free will grafts himself into You,
+unites and binds to You his heart and his affection, binding and bandaging this graft with the band of charity, and following Your doctrine.
+So that through You, Life, we produce fruits of
+life, if we wish to be grafted into You. When we are grafted in You, then the branches You gave to our tree bear their fruits" (St. Catherine of Siena).
 
-"Fortunate souls, who used God's gifts so well to purchase so delightful and lasting an inheritance, tell us how you used them to arrive at endless joy. Help us, you who are already near the Fountain, drawing water for us who here are dying of thirst."
-
-"O Saints of heaven, I am the most miserable of creatures, and I know my misery; yet I also know how noble and generous hearts love to do good. I beg you, blessed citizens of heaven, adopt me as your child. The glory of my salvation will be yours; deign to hear my prayer and obtain for me your love." (cf. St. Teresa of Jesus; St. Therese of the Child Jesus)
+O Jesus, how much it comforts me to think that my desire for union with You is not a vain chimera, but is already
+a reality: yes, because You willed to graft me into You as the
+branch on the stock, to the point that I live only for this
+union with You. Oh, grant that my soul may keep itself ever more
+closely united to You and open itself ever more to receive the
+vital sap of grace that You produce in me, Your branch!

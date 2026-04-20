@@ -1,67 +1,88 @@
-## 352 — UNITIVE LOVE
+## 30 — BELIEVE IN LOVE
+*December 26*
 
 ### Presence of God
 
-My God, who have infused love in me, grant that it may grow until it leads me to union with You.
+— O sweetest Child Jesus, let me penetrate the abyss of Your infinite love, so that I may know how to believe in it with all my strength.
 
 ### Meditation
 
-Love «produces marvelous effects in the soul, enlightening and inflaming it with ardent desires for divine love alone, and for nothing else» (St. John of the Cross).
+1 — In creation God loved us to the point of making man in His image and likeness; in redemption He loved us to the point of making Himself in our image! Christmas
+is par excellence the feast of love, and of love that reveals itself not in the sufferings of the Cross, but in the lovableness of
+a little Child, our God, who stretches out His arms to us so as to make us understand that He loves us.
 
-Thus, as it detaches from earth, laying aside every affection and appetite for creatures, the soul ascends the «secret ladder» of love, which step by step raises it to its Creator, «for only love is what unites the soul with God.»
+If consideration of infinite justice can move us to greater fidelity in God's service, how much more does consideration of His infinite love move us! St. Teresa of the Child Jesus said: "My nature is such that fear makes me retreat; with love, instead, I not only go forward, but I fly" (St. 8).
 
-This kindling of love is not felt at the beginning of purification, because then «the divine fire works more to dry and dispose the soul than to warm it; but in time, when it has warmed it sufficiently, the soul often feels this loving ardor.»
+And Jesus, the Child-God, is here among us precisely to change the old law of fear into the new one of love.
 
-The blazing of love may be accompanied by great spiritual delight. Those are moments of immense joy in which the soul tastes beforehand the union with God to which it draws near—joy that amply repays all pains and anxieties suffered in the darkness of night and encourages it to embrace willingly those still to be suffered in order to reach perfect union.
+To run in the way of God's commandments, our souls
+need to be enlarged in the conviction of God's infinite charity for us; and precisely for this purpose we want to
+immerse ourselves in contemplation of the Christmas mystery. In fact, when we see Jesus, the eternal Word, become for us
+a Child and, from the first instant of His earthly life, fully embrace our miseries, to the point of having as cradle only a manger,
+as bed a little hay, as covering poor swaddling cloths... oh, we can no longer doubt His love. God loves us! Jesus loves us! Yes, let us repeat it and repeat it without end: "We have known and believed in the charity God has for us" (1 Jn. 4, 16). Lord,
+I believe in Your love for me! Lord, increase my faith.
 
-Yet it is helpful to remember that the enkindling of love does not consist in the joy the soul may experience, but in the strong decision of the will to give itself wholly to God.
+2 — "God is charity!" The treasure enclosed in this word is immense, and it is the treasure that God opens and reveals to the soul that concentrates itself wholly in contemplation of the
+Incarnate Word. As long as one does not understand that God is
+infinite love, infinite benevolence that gives itself and extends
+to all men and women to communicate to them His good and His
+happiness, spiritual life remains in bud; it has
+not yet developed, it is not yet deep. Only when
+the soul, enlightened by the Holy Spirit, penetrates the mystery
+of divine charity, does its spiritual life become full and mature.
 
-«Besides, all this is the Lord’s work, who infuses as He wills»—that is, He may infuse love «while leaving the will dry,» or inflaming it with sweet ardor.
-
-In any case, what should matter to us is not to enjoy love, but to progress rapidly in it, precisely because only love is the force that can unite us to God.
-
-Treating this subject, St. John of the Cross specifies: «The inclination of the soul, the strength and power it has to go to God, is love.... Therefore, the more degrees of love it has, the more deeply it enters into God and is concentrated with Him.»
-
-As a stone in falling is drawn to earth’s center by gravity, so the soul is drawn to God by the force of love. The stronger this love is, the more powerfully it drags the soul wholly into God and unites it entirely to Him: «the stronger love is, the more unitive it is.»
-
-Can a soul that sincerely desires union with God fail to apply all its strength to grow in love?
-
-To each degree of love corresponds a degree of union: to imperfect love, imperfect union; to perfect love, perfect union.
-
-«For the soul to be in its divine center [that is, in God], one degree of love suffices, because with one degree it is united to God by grace; and if it has two degrees, it will be united and concentrated with God in a center more inward, and so on.»
-
-Just as the stone, drawn by its weight to earth’s center, arrives there more swiftly the heavier it is and the fewer obstacles are in its way, so love is the weight that draws us into God.
-
-But the reverse is also true: love attracts God into our soul, because Jesus said: «If anyone loves Me, he will keep My word... and We will come to him and make Our abode with him» (Jn 14:23).
-
-One degree of love—namely observance of divine law that ensures the state of grace—is enough for God to make Himself present in the soul by dwelling in it, and thus the soul can live united to Him.
-
-Yet obviously to this first degree of love and grace corresponds a very imperfect union with God.
-
-In this state the soul is already in its center, that is, in God; it already lives united to Him, who deigns to dwell in it by grace. Nevertheless, a long road remains to reach its deepest center: to penetrate God’s depths and live intimately and perfectly united with Him.
-
-The stages of this road are marked by growth in love: the more the soul loves, the more it is immersed in God; and, on the other hand, God Himself, fulfilling His promise, makes Himself ever more present by grace, inviting it to friendship and union ever more intimate.
-
-Until one day, «having reached the last degree [of love], the love of God will wound it even to its deepest center, transforming and enlightening it according to all its being and its powers and faculties ... so as to make it seem God.»
-
-Love works the great miracle: it draws God into the soul that loves Him and hurls that soul into God.
-
-Through love, a miserable creature meets its Creator and is united to Him so intimately and perfectly as to remain wholly transformed and divinized.
-
-What greater gift could God have given us than to create us in love, to infuse in us love, the great force capable of uniting us to Him?
+We cannot understand our God's infinite love better than by drawing near the poor manger where
+He lies, made flesh for us. "The divine virtues and attributes are discovered in God through the mysteries of the God-Man," teaches St. John of the Cross (cf.
+C. 37, 2), and among these attributes the first is always that of charity, which constitutes the very divine being. From loving and silent contemplation of the Child Jesus there easily arises in us
+a very deep and penetrating sense of His infinite
+love: it is not only to believe, it is in a certain way to experience that God loves us. Then the will fully accepts
+what faith teaches it; it accepts it with love, with all
+its strength, and the soul throws itself totally into believing in infinite love.
+God is charity: this truth, foundational for all
+Christian life, has penetrated deeply into the soul; it
+feels it, it lives it, because it has, so to speak, almost touched it
+in its Incarnate God. Whoever thus believes in Infinite Love
+will know how to give himself to it without measure: to give himself totally.
 
 ### Colloquy
 
-«O most loving peaceful King, desired by all generous hearts in heaven and on earth, You who with infinite sweetness ask me to love You with all my heart, all my mind, all my strength, do not despise my sighs and desires.
+Lord, I believe in Your love for me! How could I still
+doubt?
 
-«Beloved King, who came into the world to reign in human hearts with the sweetest empire of charity, grant that I may love You with all my heart and with all the powers of my mind.
+"You descended from the great height of Your divinity
+to the mire of our humanity, because the lowliness of my intellect could neither understand nor gaze upon Your height. So that with my littleness I might see
+Your greatness, You made Yourself a little child,
+enclosing the greatness of Your Deity in the smallness of
+our humanity. And thus You manifested Yourself to us in the Incarnate Word Your Son; thus I have known You, abyss
+of charity! Be ashamed, be ashamed, blind creature, so
+exalted and honored by your God, of not knowing that God,
+by His inestimable charity, descended from the height of
+Deity down to the lowliness of the mire of your humanity. O
+inestimable love, O inestimable love, what do you say to this,
 
-«Grant, O most lovable Lord, that I may no longer live in myself, but in You, who are my life, and be transformed in You by love.
+my soul? I say to You, eternal Father, I beseech You, most benign God, that You communicate us, and all Your servants, with the fire of Your charity" (St. Catherine of Siena).
 
-«Communicate to me that sweetest fire which burns in your Heart, and grant that in all things I seek You alone, true peace and center of my soul. From You I want nothing but that You inflame me with your eternal fire, which may generate in my heart such concern for You that day and night I always seek You.
+O God, how much I need to know Your infinite love! To know in order to believe, to believe in order to love, to love in order to give myself totally to You, without reserve, just as You gave Yourself entirely to me.
 
-«May this concern impel me to use all things, profit from every occasion, and always devise new means to please You and move all creatures to serve You, love You, and unite themselves to You in the bond of charity.
-
-«Come into me, sweetest Spouse of my soul, most ardent and most desired heart of my heart. Enter as absolute Lord into your house and govern it sovereignly by the power of your omnipotent love.
-
-«Today, O magnificent Son of God, I would be drawn to You, and that my soul be transformed into Yours; and then You would be my soul, my life, the only comfort of my afflicted heart, my relief» (Ven. John of Jesus and Mary, O.C.D.).
+How I would like, O my God, to repay Your gift! But
+You, who are All, have given me all, while I, who am
+nothing, can give You only nothing! And yet how slow,
+sluggish, and stingy I am in giving You this nothing, how I try
+to spare myself, to give myself with measure and prudence... Oh,
+Your love has known no measure, did not calculate the
+infinite distance between Creator and creature, but
+surpassed and filled this distance, uniting indissolubly human nature with the divine Person of the
+Word! How true it is that love knows no obstacles and overcomes all,
+adapts itself to all, provided it reaches its
+goal! O sweet Child Jesus, my God, my Savior,
+grant me to understand more and more the greatness and
+depth of Your love; let me penetrate this boundless abyss
+whose bottom no creature will ever be able to touch! As
+I enter more deeply into it, I feel in me a new strength,
+a new impulse that pushes me irresistibly to give myself entirely to You. You know how much I need
+this strength, this impulse to increase and be consolidated
+to make me truly generous and ready for every sacrifice,
+for every self-giving. O Lord, may I understand
+Your infinite charity, may I have in it an unshakable faith, and
+then may I never refuse anything to Your love: this is the gift
+I ask You at Your Nativity!

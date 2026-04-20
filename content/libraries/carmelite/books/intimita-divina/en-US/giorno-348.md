@@ -1,59 +1,21 @@
-## 348 — ESTEEMING LOVE
+## 26 — MARTHA AND MARY
 
-### Presence of God
-
-My God, supreme and infinite Good, grant that I may esteem nothing more than You and prefer nothing to You.
+**Presence of God.** — *O Lord, may I love you with Mary's heart and at the same time serve you with Martha's dedication.*
 
 ### Meditation
 
-1 — «Do you know what it means truly to love Me?—the Lord said to St. Teresa of Jesus—To be convinced that everything displeasing to Me is a lie» (*Life*).
+**1** — Two great attractions dominate the soul that has seriously given itself to God: attraction to solitary and silent prayer in order to plunge into God, to listen to his voice, to penetrate his mysteries and above all to unite itself more intimately to Him; and at the same time attraction to apostolate, to active and generous sacrifice for the salvation of brethren. To recollect itself in God, the soul "would like to flee men and greatly envies those who live and have lived in deserts. At the same time it would like to throw itself into the midst of the world so that even one soul might praise God more" *(T.G.M.* VI, 6, 3). This is the double movement of charity, which, being love of God and love of neighbor together, impels toward union with God and toward service of neighbor; lacking one of these movements, charity would not be full. Development of interior life implies this twofold attraction, which is sign and means of progress and at the same time torment for the soul that does not yet know how to balance well between the two tendencies. To which of the two shall it give prevalence? To action or to contemplation? In practice the problem must be resolved on the basis of demands of the duties of one's state, dispositions of obedience, and concrete circumstances permitted by God. Desire for contemplation that distracted or drew the soul away from duty would not be conformed to God's will, and God has full right to ask renunciation even of this desire in order that we may give ourselves to service of neighbor. To Magdalene, happy at having finally found Him and desiring to remain at his feet, the risen Jesus commanded: "Go to my brethren" *(Jn.* 20:17), and she, docile, went forth to announce the Resurrection. On the other hand, the reverse is also true: to the Apostles returned from preaching, Jesus said, "Come apart into a desert place" *(Mk.* 6:31), thus inviting them to suspend apostolic activity in order to refresh their spirit in silence and prayer, alone with Him. The right way, which prevents us from deviating in one direction or the other, is always that of duty, God's will, interior inspiration checked by one who has authority to direct souls.
 
-Though without sound of words, the Holy Spirit gives this lesson to every soul that lets itself be formed and purified by Him. The more He enlightens it concerning the truth of its misery and the misery of all creatures, the more the soul becomes detached from them and withdraws all hope from them, coming truly to esteem God above all and to prefer Him to everything else.
+**2** — To harmonize interiorly attraction to apostolate and attraction to union with God, a deeper solution is required, one that cannot come from outside but only from within, and that consists in greater progress in the ways of the spirit so as to reach a higher degree of love. Love is the one root from which action and contemplation spring; it is the one force that, nourishing both these activities at once, finally succeeds in fusing them in full harmony so that they produce the best fruits. Born from the one stock of a love already advanced, action and contemplation fuse in perfect love.
 
-The attitude of this soul thus becomes very similar to that of St. Paul, who exclaimed: «I count all things to be loss in view of ... Christ Jesus my Lord, for whom I have suffered the loss of all things and count them but refuse, that I may gain Christ» (Phil 3:8).
-
-The esteeming love that the Holy Spirit infuses through purifying darkness is so strong that the soul is ready to make any sacrifice, face any obstacle, endure any humiliation and suffering in order to win its God.
-
-«Indeed,» says St. John of the Cross, «so great is the esteeming love it bears Him, though in darkness and without feeling it, that not only does it gladly endure its sufferings, but it would most willingly give life a thousand times to please Him.»
-
-Notice: the soul does not feel and enjoy its love; it is not accompanied by sweetness and delight; yet it is so real that it effectively leads to doing even the hardest things «in order to go to meet the Beloved.»
-
-Notice also: these are not mere wishes or idle desires that collapse before concrete sacrifice; rather it is a decision of will so strong that nothing can shake it.
-
-When this soul has understood that to be united with God it must decide on a certain step, it no longer heeds anything—neither nature’s repugnances, nor voices of self-love and egoism, nor what others may say or think—but throws itself forward with great boldness.
-
-2 — Another effect of this great esteeming love for God is that «the heaviest among sufferings [the soul can endure] consists in the tormenting doubt of having lost God and been abandoned by Him» (St. John of the Cross).
-
-As it is concerned with no gain except gaining God, so it fears no loss except losing Him. Everything can be taken from it—health, riches, honors, esteem, trust, affection of dearest creatures, and those creatures themselves—but it could never bear having God taken from it or being prevented from loving Him.
-
-Thus thought and acted the saints. Thus thought St. Teresa Margaret of the Heart of Jesus, who in her immense desire to love God protested she was ready even to suffer the pains of hell if only to obtain this grace; and when asked how she could bear such unspeakable torment, she answered without hesitation: «I believe love would make it bearable, perhaps even sweet, because love alone makes one overcome everything.»
-
-Thus thought St. Teresa of Jesus, who left this beautiful remembrance to her daughters: «Let your desire be to see God; your fear, to lose Him; your sorrow, not to possess Him; your joy, in whatever can lead you to Him.»
-
-This is the mark of true love: creating in the soul one concern, one fear, one desire, one joy, all centered in God alone.
-
-If you want to see how far your esteeming love for God has gone, examine your conduct and seek to discover the ultimate motive of your concerns, fears, desires, joys. If that motive is not God, but creatures, your interests, your satisfaction, you must humbly admit you have not yet come to esteem God above all things, because you place «in one balance God and what is infinitely distant from Him.»
-
-Looking more deeply into your heart, you will see that not rarely you put on the same level your will and God’s will, your tastes and His good pleasure, your interests and His glory, your comfort and His service.
-
-Indeed, while in theory you protest you esteem God above all, in practice you often give preference not to His wills, tastes, and interests, but to your own; and thus you fall into many imperfections.
-
-Be convinced: «Where there is true love of God, love of self and of one’s own things does not enter» (St. John of the Cross).
+Perfect charity makes the soul recollected in contemplation at the Lord's feet extremely active and fruitful for the good of brethren: "A little of this pure love" - the solitary love that flowers in intimate contact with God - "brings greater benefit to the Church than all other works put together... Therefore," declares St. John of the Cross, "when a soul had a little of this solitary love, great harm would be done to it and to the Church if they wished to occupy it with exterior or active things, however important" *(C.C.* 29, 2 and 3). In the regions of pure love, that is, of perfect charity, contemplation and apostolate are identified, complete one another, and mutually require one another. Having reached this degree, the contemplative soul is supremely apostolic, and the greatest activity it can carry out for brethren is precisely that of solitary prayer, nourished by love, nourished by sacrifice and immolation. On the other hand, perfect charity also makes the soul engaged in apostolic works, at the same time, more than ever united to God, more than ever contemplative; love has fixed it so strongly in God that even during work its interior gaze is always turned toward Him to nourish itself with his divine presence, to reflect in conduct his infinite perfections, to regulate itself in all things according to expression of his good pleasure. Thus, at the summit of spiritual life, action and contemplation fuse in unity and perfect harmony. "Believe me," writes St. Teresa of Jesus, "for the Lord to be housed, to be always with us, to be well treated, and fed, it is necessary **that** Martha and Mary agree... The Lord is fed when one does all possible to win many souls, who, being saved, may praise Him eternally" *(M.* VII, 4, 12). From this we understand how all great contemplatives were great apostles, and great apostles were great contemplatives.
 
 ### Colloquy
 
-«I confess to You, most lovable Son of God, my fault: I do not know by what judgment I allowed my heart, created for You, to be drawn by affections of creatures and sullied it with profane commerce with earth.
+"O Lord, desire to listen to your divine word, need for silence, is sometimes so strong that I would wish to know nothing else but to remain at your feet, like Magdalene, to penetrate ever more deeply into that mystery of love You came to reveal to us. But You teach me that if the soul never departs from You, it can remain always absorbed in contemplation, even when in appearance it performs Martha's office. In this way, O Lord, I understand and wish to exercise apostolate: can I radiate You, can I give You to souls, if I do not depart from You, divine source? Help me, sweet Master, to stay very close to You, to enter into communion with your Soul, to make all your affections mine, and then to go as You did to fulfill the Father's will.
 
-«It was not reality, but the appearance of love, artfully painted, that deceived me and drew me away from You and from the most sweet law of your true and only love.
+"What power the apostle exercises over souls who never detach from the source of living waters! Grant, O Lord, that I may be one of these. I can let the wave overflow and spread around without danger that my soul be found empty, because it is in continual communication with You, the Infinite.
 
-«But now that by your light You have dispelled my darkness, I reject every worldly beauty and choose You, Son of God and of the most Blessed Virgin, to love You by a covenant of eternal love.
+"My God, deign to invade all powers of my soul; let everything in me be divine and bear your seal, so that I may be in myself another Christ working for your glory.
 
-«Without You, infinite Goodness and Beauty, no creature can have true goods, nor can my soul find any satisfaction outside You, since You gave it such capacity and hunger for the infinite that by very force it must neither will nor seek any good outside You.
-
-«I turn my gaze to earth, O Son of the Most High, and all things seem little and imperfect compared with You.
-
-«If all the dignities of the world, all beauties of creation, all comforts of life were given me; if all that is great, honorable, rich, and admirable in the world were in my power and I could possess all these goods together for all eternity, never would I change my choice; with ardent affection I would sing: I seek and shall always seek your face, O Lord.
-
-«Close, Lord, my heart, that human affections may not enter; and grant that I may neither see nor feel nor taste any created thing, nor let any creature attach itself to me to the detriment of your pure love.
-
-«May You alone, infinite Good, suffice to fill all my desires and satisfy this hunger that crucifies me. No other good, not even all other goods together, is enough for me; after tasting them all, I would remain starving and languish in utter abandonment, deprived of You» (Ven. John of Jesus and Mary, O.C.D.).
+"O Lord, I want to labor much for your glory! I want to give myself wholly to You, let myself be permeated by your divine sap; be You the life of my life, the soul of my soul, and grant that I always remain vigilant and aware under your divine action" *(cf. E.T. Lt.)*.

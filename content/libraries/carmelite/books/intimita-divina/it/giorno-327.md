@@ -1,107 +1,31 @@
-## 327 — UMILTA NELL'APOSTOLATO
+## 5 — L'ANIMA DELL'APOSTOLATO
 
-### Presenza di Dio
-
-O Signore, imprimi in me un senso così profondo della mia indigenza, per cui tutto il bene che opero, o attenda da te e a te solo attribuisca ogni bene.
+**Presenza di Dio.** — *Fammi comprendere, o Signore, che solo l'unione con te, che solo l'amore può fecondare ogni apostolato.*
 
 ### Meditazione
 
-tutta la vita spirituale, così è la condizione base di ogni
-apostolato e costituisce la parte centrale del programma
+**1** — Non si può essere collaboratori di Dio, docili strumenti nelle sue mani, non si può sentire con Cristo e associarsi al suo amore ed alla sua opera per la salvezza delle anime, senza una vita di affettuosa intimità con Dio e con Gesù benedetto, ossia senza una intensa vita interiore.
 
-di abnegazione e dimenticanza di sè da esso richiesta. Appunto perchè l'apostolo è — più o meno — posto sul
-'candelabro, ha bisogno più degli altri di proteggere il
-suo spirito dai fumi dell'orgoglio e della vanagloria con
-una profonda umiltà. Scorrendo il Vangelo è significativo
-constatare quanto Gesù ha insistito su peo punto rinardo alla formazione dei suoi Apostoli. Allorchè essi
-liscutevano intorno a chi sarebbe stato più grande nel re- .
-io messianico, il Maestro rispose: «Se voi non vi camdisc è non diventerete come i pargoli, non entrerete
-nel regno dei cieli » (Mt. 18, 3). In un'altra circostanza del
-genere, quando la madre di Giacomo e di Giovanni chiedeva per i figli i primi posti, ribattè: «Chi tra voi vorrà essere il primo sia vostro servo » (ivi, 20, 27); e la sera
-dell'ultima Cena, alla lavanda dei piedi, Egli mostrò loro
-fin dove gli apostoli devono farsi servi: «Se io, Signore
-e Maestro, ho lavato i piedi a voi, anche voi dovete lavarvi i piedi gli uni gli altri» (Gv. 13, 14); infine, prima
-d'inviarli nella sua vigna a produrre «frutti copiosi», dichiarò loro ripetutamente: «Senza di me non. potete far
-nulla » (ivi, 15, 5).
-Sì, gli apostoli sono gli amici di Gesù, da lui scelti
-e destinati ad evangelizzare il mondo, da lui preposti al
-governo della Chiesa, insigniti della dignità sacerdotale,
-del potere di «sciogliere e di legare », o — se non chierici — elevati alla dignità di collaboratori della Gerarchia,
-chiamati anch'essi a cooperare alla salvezza delle anime;
-ma alla base di tutti questi privilegi, di tutti questi onori
-stanno le grandi parole: « bisogna farsi piccoli come fanciulli; senza di me non potete far nulla ». Oh, se fossimo
-veramente convinti che, sebbene Dio voglia servirsi di
-noi, lui solo ha il potere di rendere feconda la nostra azione, lui solo può produrre fruttì di vita eterna, lui solo
-può dare la grazia alle anime e noi non siamo che strumenti, tanto più atti a servire di mezzo per la salvezza
-altrui, quanto più ci facciamo piccoli riconoscendo la nostra indigenza! Quale merito può vantare un pennello sc
+Mediante la preghiera e la lotta contro il peccato, mediante la rinuncia di sé e l'esercizio delle virtù, la vita interiore spoglia progressivamente l'anima di tutto ciò che è difettoso, favorendo così in lei lo sviluppo della grazia e dell'amore, il che è quanto dire che la riveste di vita divina, giacché grazia e amore sono una partecipazione della vita stessa di Dio. Ne consegue che quanto più un'anima coltiva la vita interiore, tanto più si avvicinerà a Dio e, diventata simile a lui per grazia ed amore, potrà vivere nella sua intimità, potrà godere della sua amicizia, penetrare i suoi misteri ed associarsi ad essi. Chi, dunque, sarà atto a comprendere il grande mistero della Redenzione e a portarvi il suo contributo più di colui che, per mezzo di una fervorosa vita interiore, vive in intima amicizia con Dio?
 
-un valente pittore si è servito di esso per compiere un'o
-pera d'arte? Quale merito può vantare il marmo che Mi
-chelangelo ha usato per scolpire il suo Mosè? « Non voi
-avete scelto me — diceva Gesù agli Apostoli — ma io
-ho scelto voi e vi ho destinati ad andare a portare frutto» (Go. 15,16).
+Ai fini dell'apostolato non può essere sufficiente quel primo grado di amicizia divina che risulta dall'assenza del peccato grave, ma occorre un'amicizia più profonda che crei uniformità di vedute, di volontà, di desideri, di affetti in modo che l'apostolo possa agire secondo il cuore di Dio, mosso non da impulsi personali, ma dall'impulso della grazia, dal volere divino, dalle ispirazioni dello Spirito Santo. È significativo il fatto che Gesù, prima di lanciare gli Apostoli alla conquista del mondo, ha voluto farli vivere per tre anni nella sua intimità, trattandoli da veri amici: «Io non vi chiamo più servi... vi ho chiamati amici» *(Gv.* 15, 15). Amici non solo perché ha partecipato ad essi i tesori della sua vita divina, ma anche perché li ha voluti collaboratori e, in un certo senso, continuatori della sua missione di Redentore.
 
-2 — « Senza di me non potete far nulla »; davanti a
-queste parole quante ambizioni, quanti punti di onore,
-quante vane compiacenze di sè, quante pretese di plauso,
-quanti desideri di avanzamenti e di riconoscimento del
-proprio valore cadono infranti come le onde del mare di
-fronte agli scogli! Gesù non ci dice che senza di lui possiamo far poco, ma w%/la, assolutamente mela e se in aparenza le opere prosperano, gli ammiratori aumentano,
-le Chiese o le sale si affollano, in realtà non un granellino di grazia scende nei cuori se Dio non interviene.
+L'apostolo non può essere tale se non è amico di Dio; Dio stesso lo invita a questa amicizia, ma è necessario che egli vi corrisponda con una seria vita interiore che renda i suoi rapporti con Dio sempre più intimi e più ricchi di amore.
 
-Povero apostolo, talvolta tanto soddisfatto e gonfio dei
-tuoi successi! Nonostante le tue capacità, il tuo ingegn
-il tuo stile brillante, la tua conversazione attraente, i tuoi
-titoli, i tuoi successi, nei confronti dell'apostolato sei più
-piccolo e più impotente di una formica davanti ad un'altissima montagna. Riconosci il tuo niente, rifugiati in Dio,
-tieniti fortemente unito a lui, perchè solo da lui puoi trarre la fecondità delle tue opere.
+**2** — Solo dall'amicizia con Dio, solo dalla carità che ci unisce a lui, scaturisce quella forza soprannaturale che rende efficace qualsiasi forma di apostolato. Quanto più un'anima è unita a Dio, tanto più partecipa della potenza di Dio e quindi le sue preghiere, i suoi sacrifici e le sue opere intraprese per la salvezza delle anime sono efficaci, raggiungono il loro intento.
 
-Incaricata dell'educazione delle novizie, S. Teresa del
-B. G. esclamava: « Lo vedete, Signore, che io sono troppo piccola per nutrire le vostre figlie; se volete dare a
-ciascuna di esse per mio mezzo ciò che loro conviene,
-riempite la mia mano ced io, senza lasciare le vostre braccia, senza neppure voltarmi altrove, distribuirò i vostri tesori all'anima che verrà a chiedermi il cibo » (St. ro). Feco l'atteggiamento che deve prendere ogni apostolo; anzi,
-quanto ia la sua missione è alta, importante, delicata,
-tinto più è necessaria questa umile consapevolezza della
-propria indigenza, questo fiducioso ricorso a Dio, questo
-tenersi continuamente uniti a lui, Se Dio non si serve di
-
-noi per compiere opere grandi non sarà forse perchè, non
-essendo abbastanza convinti del nostro nulla, potremmo
-farci ladri della sua gloria, attribuendo il successo a merito nostro? Se la nostra attività apostolica dà pochi frutti
-non sarà forse perchè, confidando troppo în noi stessi, non
-ci preoccupiamo abbastanza di tenerci stretti a Dio mediante l'umiltà e la preghiera?
-
-«Restate in me, — ci ripete Gesù — Come il tralcio
-non può portare frutto da se medesimo... così neppure
-voi se non rimanete in me » (Gv. 15,4). Non basta che
-l'apostolo rimanga unito a Gesù mediante lo stato di grazia, ma deve rimanervi spinto anche dall'umiltà profonda
-che gli fa sentire di non poter far nulla, proprio nulla,
-senza il suo continuo aiuto.
+Ma, dove attingerà l'apostolo questo amore che, unendolo a Dio, lo rende tanto potente? Senza dubbio da Dio stesso: «L'amore divino si è riversato nei nostri cuori per lo Spirito Santo che ci fu dato» *(Rom.* 5, 5). In un primo momento, il momento della giustificazione, Dio infonde in noi la carità senza la nostra collaborazione, ma Egli non ci conserva questo dono, e tanto meno l'accresce, se non ci manteniamo uniti a lui mediante gli esercizi della vita interiore. La lotta contro le passioni, la frequenza dei sacramenti, la preghiera, il raccoglimento, la presenza di Dio hanno appunto lo scopo di favorire l'unione col Signore e l'aumento della carità. La vita interiore è la fucina segreta in cui l'anima a contatto con Dio s'infiamma del suo amore, e, proprio perché infiammata e forgiata dall'amore, diventa docile strumento di cui Dio può valersi per diffondere l'amore in altri cuori. È quindi molto opportuno richiamarsi spesso al grande principio: *la vita interiore è l'anima dell'apostolato*. Una vita interiore profonda sarà generatrice di intenso amore, di intima unione con Dio, e perciò da essa sgorgherà un apostolato fecondo, vera collaborazione all'opera salvifica di Cristo; invece una vita interiore mediocre non potrà produrre che un amore e un'unione con Dio molto deboli e fiacchi, e di conseguenza l'apostolato che ne deriverà non potrà avere un efficace influsso sulle anime. Dove poi la vita interiore fosse quasi o del tutto spenta, allora la carità e l'amicizia con Dio minaccerebbero di estinguersi e, estinguendosi la fiamma interiore, l'apostolato verrebbe svuotato della sua sostanza, riducendosi ad un puro movimento che può fare del chiasso, ma che non può dare alcun frutto. «Tutto — dice S. Giovanni della Croce — si ridurrà ad un martellare invano e a fare poco più di niente, e a volte anche niente, anzi talvolta anche danno» (C. 29, 3).
 
 ### Colloquio
 
-«O Signore, Tu vuoi che nel mio apostolato senta €
-riconosca il mio nulla, ma nello stesso tempo vuoi che mi
-lasci prendere e ERRE da te per compiere la missione che Tu mi affidi e poi rientrare nell 'ombra, tacere,
-non vantarmi e dire: * servi imutiles sumus'; sono una serva inutile, senza di te non posso far nulla,
+«Traimi, Signore, dietro a te; corriamo!...
 
-«O Signore, aiutami a fuggire la lode, a fuggire il
-plauso delle creature, aiutami ad agire sempre con retta
-intenzione mirando solo al tuo beneplacito. Ti Seno
-di tenere lontano da me quei difetti che possono distogliermi dall'operare unicamente per piacere a te: ostentazioni, complimenti, adulazioni, desiderio .di far bella figura, di essere gradita agli altri. Fa' che non cerchi mai la
-mia gloria, ma solo la tua. Tutto per piacere a te, nulla per
-soddisfare me stessa! » (Sr. Carmela d. Spirito S., o.c.d.).
+«O Gesù, ti chiedo di attirarmi nelle fiamme del tuo amore e di unirmi così strettamente a te, che Tu stesso viva ed agisca in me. Quanto più il fuoco dell'amor tuo incendierà il mio cuore e quanto più lo ripeterò: *traimi*, tanto più le anime che si avvicineranno a me correranno velocemente dietro al tuo odore dei tuoi profumi.
 
-«Ti pro: ignor mio, di drizzare a te il cuore e la
-volontà dei tuoi apostoli, sì che seguano te, Agnello svenato, poverello,, umile e mansueto, per la via della santissima croce, a modo tuo e non a modo loro. Caccia dal
-loro cuore le tenebre e da' la tua luce, traine l'umido dell'amor proprio e vi rimanga il fuoco della tua carità. Fa”
-che serrino le potenze dell'anima, chiudano la memoria ai
-vani diletti e benefici terreni e l'aprano solo ai benefici
-tuoi, sì che non amino cosa veruna fuori di te, ma amino
-te sopra tutte le cose ed ogni cosa secondo la volontà tua,
-e seguano solamente te.
+«Sì, o Signore, correranno, correremo insieme, perché le anime infiammate d'amore non possono rimanere inattive. Esse ne stanno, come S. Maria Maddalena, ai tuoi piedi ascoltando le tue parole dolci ed infiammate, ma se in apparenza sembra che non facciano niente, fanno però molto più di Marta che si affanna per tante cose.
 
-«Fa' che, con carità ordinata, cerchino la salute di
-tutti, disponendosi a dare la vita per il bene delle anime.
-E siano creature angeliche, angeli terrestri in questa vita
-e siano lucerne ardenti nella santa Chiesa! » (cfr. S. Cate-
+«O Gesù, non è necessario, dunque, dire: traendo me, trai anche le anime che amo. Questa semplice parola: *traimi*, basta; perché, quando un'anima si è lasciata vincere dall'odore inebriante dei tuoi profumi, non saprebbe più correr sola, e tutte le anime da lei amate sono trascinate dietro di lei; è come una conseguenza naturale della sua attrazione verso di te.
+
+«Come un torrente trascina seco nelle profondità del mare tutto ciò che incontra nel corso suo, così, Gesù mio, l'anima che si sprofonda nell'oceano senza rive del tuo amore, attira dietro di sé tutti i tuoi tesori! Signore, questi tesori sono per me le anime che ti è piaciuto d'unire alla mia; questi tesori me li hai affidati tu.
+
+«Ma, volendo raggiungere una meta, occorre valersi dei mezzi opportuni. Perciò, Gesù mio, avendomi Tu fatto comprendere che mi avresti dato delle anime mediante la croce, quanto maggiori sono le croci che incontro, tanto più si fa viva in me la brama dei patimenti» (T.B.G. *St.* 10 e 7).

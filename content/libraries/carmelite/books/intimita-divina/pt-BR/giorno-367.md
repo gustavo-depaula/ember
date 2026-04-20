@@ -1,48 +1,39 @@
-## 367 — APRESENTAÇÃO DE MARIA NO TEMPLO
-*21 de novembro*
+## 45 — "EU SOU A VIDA"
 
 ### Presença de Deus
 
-Ó Maria, apresenta Tu ao Senhor minha oferta e minha vida.
+— Ó Jesus, fonte de vida, infunde cada vez mais a tua vida em minha alma.
 
 ### Meditação
 
-Embora a Sagrada Escritura não narre a apresentação de Maria Santíssima no Templo, esse fato está solidamente fundado na tradição cristã mais antiga, e a Igreja o reconheceu oficialmente ao instituir uma festa mariana própria.
+1 — Jesus anunciou assim a sua missão: "Eu vim para que tenham vida e a tenham em abundância" (Jo. 10, 10). E qual é a vida que Ele nos dá? É a vida da graça, a qual é uma participação na vida divina.
 
-Maria Menina, que em tenra idade deixa a casa e os pais para viver à sombra do Templo, fala-nos de desprendimento, separação do mundo e dedicação plena ao serviço de Deus; fala-nos de consagração virginal ao Altíssimo.
+Jesus é o Verbo Encarnado e, enquanto Verbo, possui por natureza a vida divina no mesmo modo e medida do Pai: "Como o Pai tem a vida em si mesmo, assim concedeu também ao Filho ter a vida em si mesmo" (Jo. 5, 26). Esta plenitude de vida divina, em razão da união hipostática, reflete-se na Humanidade de Cristo. Posta em contato direto com a Divindade, à qual está pessoalmente unida,
 
-Depois dela, inumeráveis almas virgens se apresentarão para oferecer-se a Deus, mas nenhuma oferta será tão pura, tão total, tão agradável quanto a de Maria.
+a santíssima Humanidade de Jesus é inundada pela vida divina, isto é, recebe dela a máxima participação por meio de uma "tal plenitude de graça que não se pode conceber maior" (Myst. Corp.). A graça santificante que invade a Alma de Jesus é tão plena, perfeita, intensa, superabundante, que os teólogos não hesitam em chamá-la de "graça infinita".
 
-Desde os primeiros instantes de sua existência, ela ouviu o grande chamado: «Ouve, filha, vê e inclina o ouvido; esquece teu povo e a casa de teu pai» (Sl 44,11). O Altíssimo enamorou-se de sua beleza e a quis toda para si. Maria responde, e sua resposta é pronta e completa.
+Em Cristo, afirma S. Paulo, "aprouve (ao Pai) que nele habitasse toda a plenitude" (Col. 1, 19), e São João no-lo apresenta "cheio de graça e de verdade" (Jo. 1, 14). Mas Jesus não quer guardar unicamente para si essas imensas riquezas: Ele quer ter irmãos a quem delas participar; por isso abraça a sua dolorosíssima Paixão e, morrendo na Cruz, merece para nós, seus membros, aquela graça que Ele possui com tanta plenitude. Cristo torna-se assim para nós a fonte, e a única fonte, da graça e da vida sobrenatural: Ele é tão "cheio de graça e de verdade" que "de sua plenitude todos nós recebemos" (Jo. 1, 14 e 16). Eis, portanto, como chega até nós a vida divina: do Pai ao Verbo, do Verbo à Humanidade que Ele assumiu na sua Encarnação, desta Humanidade, que é a Humanidade santa de Cristo, às nossas almas.
 
-Semelhante deve ser a resposta das almas que Deus chama ao altar, à vida religiosa ou à consagração virginal no mundo. Também elas devem separar-se do mundo, deixar parentes e amigos. Às vezes não se trata de separação material, mas deve haver sempre separação espiritual, isto é, do afeto.
+2 — Como tudo o que existe fora de Deus, assim também a graça é criada por Deus. Enquanto Deus, isto é, como Verbo, Jesus é, junto com o Pai e o Espírito Santo, o criador da graça. Mas agora consideramos Jesus enquanto nosso Redentor, portanto como Homem, e, como tal, Ele é o Mediador da graça, isto é, Aquele que no-la mereceu e no-la dispensa. De fato, Jesus, mediante o tesouro infinito de graça que possui, pôde merecê-la também para nós. E não só a mereceu uma vez por todas morrendo por nós na Cruz, mas continuamente a aplica às nossas almas, produzindo-a em nós: a graça é infundida e se desenvolve em nós por sua ação viva e atual. Desse modo Jesus nos dá a vida, é para nós vida, única fonte da nossa vida sobrenatural. Por este motivo, a graça de Jesus se chama
 
-É o coração que precisa desapegar-se e isolar-se, porque os eleitos do Senhor não podem mais pertencer ao mundo: «Eles não são do mundo» (Jo 17,14). Viver no mundo sem ser do mundo não é fácil, mas é absolutamente necessário para responder ao chamado divino.
+"graça capital", isto é, a graça da Cabeça que a merece e a comunica aos membros.
 
-Há almas consagradas que faltam à vocação justamente porque permanecem apegadas às máximas do mundo, às vaidades, curiosidades e comodidades. Isso pode ocorrer tanto com quem vive no mundo quanto com quem vive no claustro, pois o espírito do mundo penetra em toda parte e invade os corações não totalmente desprendidos.
+E eis duas preciosíssimas consequências práticas. Quem quer ter a graça, a vida sobrenatural, deve ir a Cristo, ser incorporado a Ele e viver n'Ele: "Quem tem o Filho tem a vida - ensina o Evangelista - quem não tem o Filho não tem a vida" (1 Jo. 5, 12).
 
-Maria ensina a consagração total. Ela se dá toda ao seu Deus, sem reservas, para sempre. Tais foram as disposições com que a santa Menina se ofereceu ao Altíssimo, disposições vividas com plenitude e coerência que desconcertam nossa pobreza.
-
-Nem por um instante Maria voltou atrás em sua consagração. Deus pôde fazer nela tudo o que quis, sem encontrar a menor resistência. Circunstâncias muito dolorosas encheram sua vida: a provação de José, a viagem difícil, a pobreza de Belém, a fuga para o Egito, as penas de Nazaré, a hostilidade contra Jesus, a traição, a ingratidão, a condenação, o Calvário e a Crucifixão.
-
-Em vão procuraríamos no coração de Maria um só movimento de ressentimento, protesto ou queixa. Ela se deu totalmente a Deus e deixou que Ele exercesse nela todos os direitos de Soberano. Ofereceu-se sem reservas; e, quando sua oferta foi consumada, repetiu apenas: «Fiat! Ancilla Domini!»
-
-Quanta diferença em nossa vida de almas consagradas! Com que facilidade retomamos o dom feito a Deus: retomamos o coração, quando o deixamos ocupar por afetos humanos; retomamos a vontade, quando resistimos a obediências que nos mortificam; retomamos a oferta, quando murmuramos e defendemos nossos direitos.
-
-E, no entanto, o único verdadeiro direito da alma consagrada a Deus é deixar-se totalmente usar e consumir para sua glória.
-
-Peçamos a Maria apresentada no Templo que tome em suas mãos maternas nossa pobre oferta, a cure e complete com a sua, tão pura e perfeita, e a esconda dentro de sua grande e generosa oblação, para que, assim purificada e renovada, seja agradável a Deus.
+A graça que santifica as nossas almas é, em sua essência, idêntica àquela que orna a santíssima Alma de Jesus (cf. S. Tomás, I-II, q. 8, a. 5); sem dúvida a medida e a perfeição são imensamente diversas, mas a natureza é a mesma. Portanto, a graça tem em nós a mesma potência santificadora, as mesmas tendências que tem na Alma de Jesus: ela tende a santificar-nos, fazendo-nos viver em união com Deus e para a sua glória; Jesus, pois, ao dar-nos a graça, comunicou-nos verdadeiramente a sua vida, pôs em nós o germe da sua santidade, e nós podemos viver uma vida semelhante à sua.
 
 ### Colóquio
 
-«Ó Amada de Deus, amabilíssima menina Maria, quem me dera hoje oferecer-te os primeiros anos da minha vida e dedicar-me todo ao teu serviço, santa e dulcíssima Senhora, assim como Tu te apresentaste no Templo e te consagraste inteiramente à glória e ao amor de Deus.
+Ó Jesus, como é doce para mim contemplar a tua santíssima Humanidade repleta de todos os tesouros da vida divina! Fixar o meu olhar diretamente na tua Divindade de Verbo eterno é para mim muito difícil, mas considerá-la participada na tua Humanidade é mais fácil e acessível; aqui o pensamento repousa e não cessa de admirar a tua grandeza. Ó Jesus, a tua Alma é tão rica de graça, tão luminosa, e tão cheia de vida divina, que nela se reflete toda a tua glória de Unigênito do Pai, e a tua Humanidade me aparece como única mediadora e fonte de toda a graça, de toda a vida divina que pode ser participada aos homens. Mas depois essa Humanidade, tão santa, tão gloriosa,
 
-«Mas já não estou em tempo, tendo perdido tantos anos servindo ao mundo e aos meus caprichos, quase esquecendo de ti e de Deus. Ai do tempo em que não te amei! Mas antes tarde que nunca começar.
+tão unida a Deus, eu a contemplo dilacerada no duro tormento da Cruz: tudo o que é glória está escondido, não se vê senão dor, morte, aniquilamento total. Mas das feridas sangrentas eis jorrar uma esplêndida fonte de vida:
 
-«Eis, ó Maria, que hoje me apresento a ti e me ofereço inteiro ao teu serviço, no pouco ou muito que me resta viver nesta terra; e, como tu, renuncio às criaturas e me dedico inteiramente ao Amor do meu Criador.
+com a tua morte, ó Jesus, mereceste comunicar-nos a graça e te tornaste Tu mesmo a nossa única fonte.
 
-«Consagro-te, ó Rainha, minha mente, para que sempre pense no amor que mereces; minha língua, para que te louve; meu coração, para que te ame. Aceita, ó Virgem Santíssima, a oferta que te apresenta este pobre pecador.
+Ó Jesus, corro a ti, de ti me aproximo como o sedento corre e se aproxima da fonte das águas. "Dá-me, ó Senhor, da tua água e não terei sede eternamente, porque a água que Tu me dás se tornará em mim uma fonte que jorrará até a vida eterna" (cf. Jo. 4, 13 e 14). Ó Jesus, os teus Apóstolos, não querendo de modo algum deixar-te, disseram-te um dia: "Tu só tens palavras de vida eterna" (ibid., 6, 69); oh, bem mais do que palavras de vida, Tu tens, antes, és a própria vida, e a nós a dispensas!
 
-«Aceita-a, peço-te, por aquela consolação que teu coração sentiu quando, no Templo, te deste a Deus. E se tarde me ponho a teu serviço, que eu repare o tempo perdido redobrando homenagens e amor.
+Mas, Jesus, permite-me uma pergunta: se aquela graça santificante que me vem de ti e vivifica a minha alma é, na sua natureza, a mesma que inunda a tua santíssima Alma, por que então sou eu tão dessemelhante de ti, tão longe da santidade?
 
-«Ó Mãe de misericórdia, ajuda minha fraqueza com tua poderosa intercessão. Obtém de Jesus perseverança e força para ser-te fiel até a morte; e faze que, servindo-te sempre nesta vida, eu venha louvar-te para sempre no Paraíso.» (Santo Afonso)
+Compreendo: se gratuitamente me dás a tua graça, não queres, porém, que ela cresça em mim sem o concurso da minha livre e boa vontade. Muitas vezes há em mim uma dura luta entre as exigências da tua graça e as da minha má natureza e, infelizmente, quantas vezes a natureza prevalece sobre a graça! Senhor, dá-me força para vencer e renegar-me a mim mesmo a todo custo. Que a tua graça, que a tua vida triunfe em mim para a tua glória, para a glória da tua Obra redentora.
+
+"Todo o meu espírito, todo o meu coração, todo o meu corpo; toda a minha vida viva para ti, minha doce vida. Amar-te-ei, Senhor, minha virtude; amar-te-ei e viverei não para mim, mas para ti".

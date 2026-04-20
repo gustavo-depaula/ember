@@ -1,87 +1,19 @@
-## 225 — LA BONTÀ INFINITA
+## XXV — CONCORDIA FRATERNA
 
-### Presenza di Dio
+*V Domenica dopo Pentecoste*
 
-O mio Dio, Tu che sei il solo buono, degnati di rivestirmi della tua bontà.
+**Presenza di Dio.** — *O Signore, insegnami a vivere in perfetta concordia col prossimo, affinché le mie preghiere e le mie offerte ti siano gradite.*
 
 ### Meditazione
 
-1. — Quando Mosè chiese a Dio di mostrargli la sua
-gloria, Dio gli rispose: «Io ti mostrerò ogni bene» (Es. 33,
-19), quasi ad indicargli che la sua gloria è la bontà infinita,
-è il bene che Egli possiede con tale pienezza che ogni bene
-è in lui e nessun bene esiste indipendentemente da lui. Dio
-possiede il bene non perchè l'abbia ricevuto da qualcuno, ma
-perchè Egli stesso è, per sua natura, il Bene sommo, perchè
-il suo essere è bontà infinita. Se le creature sono buone, lo
-sono soltanto perchè Dio ha comunicato ad esse qualche cosa
-della sua bontà, ma di per sè la creatura, come non può esistere, così non può avere bontà alcuna. Ecco perchè al giovane che lo aveva chiamato « Maestro buono », Gesù disse:
-«Perchè mi chiami buono? Nessuno è buono, tranne Dio
-solo» (Mc. 10, 18). Neppure Gesù come uomo possedeva
-in proprio la bontà, ma la possedeva solo perchè Dio, cui
+**1** — Questa domenica potrebbe chiamarsi la domenica della *concordia*, virtù tanto necessaria per mantenersi sempre in fraterni rapporti col prossimo. «Carissimi — ci esorta S. Pietro nell'Epistola — siate tutti concordi, compassionevoli, amanti dei fratelli, misericordiosi, modesti, umili». L'Apostolo ci parla in modo molto pratico e realistico; egli sa che, data la nostra fragilità e limitatezza, è impossibile conservare la concordia, se non sappiamo compatire i difetti altrui, se non sappiamo essere misericordiosi con chi ci è causa di dispiaceri, se non sappiamo sopportare umilmente qualche torto. Chi, per vivere in perfetto accordo con gli altri, pretende di non ricevere alcuna noia, alcun disgusto, di non essere mai contrariato e disturbato, ha ben poca esperienza della realtà della vita e dimentica che non siamo puri spiriti, ma spiriti limitati dalla materia; tali, fragili, infermi, che portiamo vasi di terra (ossia il corpo) causa l'un l'altro di angustia», proprio come recipienti di terra cotta che, viaggiando in un unico carro, cozzano l'un l'altro, recandosi reciproco disturbo. La nostra limitatezza fa sì che abbiamo mentalità, gusti, desideri, interessi gli uni diversi dagli altri, per cui non sempre riusciamo a capirci e talvolta, pur senza volerlo e senza cattiva intenzione, l'uno agisce in senso opposto all'altro. Il rimedio a questi inconvenienti inevitabili è quello suggerito da S. Agostino: se la limitatezza della nostra materia ci è causa di reciproca angustia «*dilatentur spatia charitatis*», si dilatino gli spazi della carità, ossia dilatiamo il cuore in una carità più grande per saperci compatire e comprendere a vicenda e, d'altra parte, esercitiamo una maggiore umiltà per vincere i risentimenti dell'amor proprio. E anche se qualcuno agisce contro di noi con malanimo dobbiamo saperlo perdonare, secondo la parola dell'Apostolo: «non rendete male per male, né maledizione per maledizione; ma invece benedite... E anche se aveste a soffrire qualcosa per la giustizia, beati voi!... Benedette nei vostri cuori Cristo Signore» *(Ep.)*.
 
-era ipostaticamente unito, gliela comunicava, Soltanto di Dio
-si può dire che è buono, nel senso che Egli è la bontà stessa, che la bontà gli appartiene per natura, come per natura
-gli appartiene la divinità; e, come è impossibile che venga
-meno la sua divinità, così è impossibile che venga meno la
-sua bontà. Passerà il cielo, passerà la terra, passeranno i secoli, ma la bontà di Dio non passerà in eterno. La malizia
-degli uomini potrà accumulare peccati su peccati, mali su
-mali, ma al di sopra di essi la bontà di Dio rimarrà immutabile; l'ombra del male mai la sfiorerà, anzi, Dio, sempre benigno, si chinerà sul male per ridurlo al bene, per ritrarne
-un bene maggiore. Così la bontà infinita si è chinata sull'uomo peccatore e dalla caduta di Adamo ha ricavato un bene immensamente più grande: la redenzione del mondo mediante l'incarnazione del suo Unigenito. Questo è il carattere distintivo della bontà di Dio: volere il bene, unicamente
-il bene al punto da trarre il bene anche dal male.
-
-2. — Dio, sommamente buono in se stesso, è buono anche in tutte le sue opere; da lui, bontà infinita, non possono
-venire che opere buone: « E vide Dio tutte le opere sue ed
-erano grandemente buone», così la S. Scrittura termina il
-racconto della creazione (Gen. 1, 31). Tutto ciò che esce dalle mani di Dio porta l'impronta della sua bontà, Buono è il
-sole che illumina e riscalda la terra, buona la terra che produce fiori e frutti, buono il mare, buono il cielo, buone le
-stelle: tutto è buono perchè tutto è opera di Dio, bontà essenziale, infinita, eterna. Ma Dio ha voluto che fra le sue
-creature ve ne fossero alcune, come l'uomo, che, oltre ad essere
-buone perchè Egli le ha create tali, lo fossero pure con l'aderire di loro libero arbitrio a quella bontà che egli ha infuso in esse. Ecco il grande onore che Dio ha fatto all'uomo:
-non solo l'ha creato buono, come ha creato buoni il cielo e
-la terra, ma ha voluto che fosse buono col libero concorso
-del suo volere, quasi renderlo padrone di quella bontà
-che Egli ha posto in lui. Proprio per questo gli ha dato il
-
-grande dono della libertà. Vedi, dunque, quanto ti allontani dalla bontà allorchè del tuo libero arbitrio ti servi non
-per volere il bene, bensì per volere il male. Vedi la somma
-distanza che passa fra te e Dio: Dio è bontà infinita al punto
-da ricavare il bene anche dal male, tu sei malizia profonda
-sì che anche il bene sai volgere in male, valendoti del bene
-della tua libertà per accondiscendere al tuo egoismo, al tuo
-orgoglio, al tuo amor proprio. Eppure, se tu aderissi a quell'impulso interiore al bene che Dio ha posto in te, se
-lasciassi sviluppare quella bontà che Egli ha infuso nel tuo
-cuore, non ti sarebbe difficile essere buono. Dio ti ha fatto
-buono, ti vuole buono; è vero che la tua malizia — conseguenza del peccato — è grande, ma la sua bontà infinita la
-supera immensamente e può ben sanarla e distruggerla sino
-in fondo, purchè tu lo voglia e confidi in essa.
+**2** — Il Vangelo riprende e approfondisce lo stesso argomento. Anzitutto, Gesù ci dice: «Se la vostra giustizia non sarà maggiore di quella degli scribi e dei farisei, non entrerete nel regno dei cieli». È una chiara allusione alla nuova legge, la legge dell'amore che Gesù ci ha portato e che supera di gran lunga la pura legge della giustizia: non possiamo accontentarci — come si accontentavano i farisei — di non recar danno al prossimo, ma dobbiamo praticare verso di lui una delicata carità fraterna. Non basta «non uccidere», per sfuggire «il giudizio», insegna il Maestro, ma «chiunque si adira contro il suo fratello, merita di essere giudicato». Ecco un altro aspetto della legge nuova proposta da Gesù: non basta essere giusti nell'esterno, ma bisogna anzitutto essere giusti nell'interno, ossia nel cuore; non basta evitare l'offesa esterna del prossimo, ma bisogna evitare, o meglio, reprimere anche il risentimento interno. I farisei, con la loro interpretazione materiale della legge, ne avevano totalmente dimenticato lo spirito, avevano dimenticato che, come dice S. Pietro nell'Epistola, gli occhi del Signore sempre ci guardano e vedono non solo l'esterno, ma anche l'interno, sì che a lui non sfugge l'ira e il risentimento che cova nel cuore. Del resto, anche nel tratto esterno verso il prossimo Gesù ci chiede una grande delicatezza esigendo che si evitino non solo gli atti, ma anche le parole offensive. E gli sta così a cuore la carità, la concordia fraterna che non esita a dirci: «Se dunque tu nel fare la tua offerta sull'altare, ti rammenti che il tuo fratello ha qualcosa contro di te, lascia lì la tua offerta... e va' prima a riconciliarti con lui! E Egli» — osserva S. Giovanni Grisostomo — non bada neppure al suo onore quando si tratta di esigere l'amore del prossimo. S'interrompa pure il mio culto — dice — ma si rista­bilisca la tua carità». Come dunque potranno essere gradite a Dio le nostre preghiere e le nostre offerte quando fra noi e il nostro prossimo c'è qualche cosa che impedisce la perfetta concordia?
 
 ### Colloquio
 
-« Nell'intendere la tua bontà, o Dio, l'anima dovrebbe
-muoversi ad operare con ogni sforzo per corrispondere a questa bontà; e dovrebbe correre veloce a ritrovare te che la
-vai inseguendo e pregando: * Aprimi, sorella mia!'.
+«O Gesù, meditando le tue parole divine, vedo quanto è imperfetto l'amore che porto alle mie sorelle. Come intendo ora bene che la vera carità consiste nel sopportare tutti i difetti del prossimo, nel non meravigliarsi delle sue debolezze, nell'edificarsi dei minimi suoi atti di virtù! Ma soprattutto mi fai comprendere che la carità non deve starsene chiusa nel fondo del nostro cuore perché, come Tu hai detto, nessuno accende la lucerna per metterla sotto il moggio, ma per collocarla sul candelabro, affinché serva ad illuminare tutti coloro che sono nella casa. Questa lucerna, o Signore, mi sembra che rappresenti la carità, la quale deve illuminare e rallegrare non solamente coloro che mi sono più cari, ma 'tutti coloro che si trovano nella casa'.
 
-«E quale vantaggio ricava l'anima dall'intendere la tua
-bontà? E' questo: che si riveste di tale bontà.
-Oh, se aprissimo gli occhi e vedessimo quanto grande essa
-sì! Ma talora siamo ciechi e non vediamo. Solo il Sangue
-caldo di Cristo è il collirio capace di aprire non solo gli occhi, ma anche il cuore per fare intendere alle anime l'immensità della bontà divina... O mio Dio, Tu mi mostri la tua
-infinita bontà come un grandissimo fiume che si riversa sulla terra e nelle cui acque tutte le creature s'immergono e si
-nutrono come i pesci nel mare. Contemplando questo
-fiume, io vi resto sommersa, ma rivolgendomi e vedendo la
-malizia umana tanto contraria alla tua bontà, me ne dolgo
-grandemente. O Bontà infinita, l'anima mia vuol renderti onore in due modi: anzitutto con la lode, ringraziandoti e benedicendoti di continuo di tutti i doni e le grazie che le fai
+«Ricordandomi che la carità copre la moltitudine delle colpe', attingo a quella miniera feconda che Tu ci hai aperta nel santo Vangelo; penetro nelle profondità delle tue parole adorabili, ed esclamo con Davide: 'dal momento che Tu hai dilatato il mio cuore, ho corso nella via dei tuoi comandamenti'. Solamente la carità può dilatare il mio cuore. O Gesù mio, dall'istante in cui questa dolce fiamma lo consuma, corro deliziosamente nella via del tuo *comandamento nuovo* e voglio corrervi fino al giorno beato, nel quale, unendomi al verginale corteo, ti seguirò per gli spazi infiniti, cantando il tuo *Cantico nuovo*, che dev'essere il cantico dell'amore» (cfr. T.B.G. St. 9).
 
-e narrando le tue grandezze; e poi con le opere, non guastando in sè la tua immagine, ma mantenendosi pura e senza macchia come Tu l'hai creata da principio » (cfr. S. M.
-Maddalena de' Pazzi).
-
-«O Signore, voglio confidare nella tua bontà che
-è più grande di tutto il male che possiamo fare. Quando riconosciamo la nostra miseria e vogliamo tornare alla tua amicizia, Tu dimentichi che ti siamo stati ingrati. Le grazie di
-cui ci hai ricolmati sarebbero, per sè, un motivo di più per
-castigarci perchè da noi accolte male; ma esse, invece, ti inclinano a perdonarci più presto, come gente di tua casa che,
-come suol dirsi, ha mangiato il pane della tua mensa. O Signore, ecco quello che hai fatto con me: mi sono stancata
-prima io ad offenderti che non Tu a perdonarmi. Tu non
-ti stanchi mai di donare, nè le tue misericordie si possono
-esaurire: non stanchiamoci noi di riceverle!» (cfr. T.G.
-Vi. 19, 15).
+«O Signore Gesù Cristo, se non avessi alcun altro motivo per amare il mio prossimo, e non solo chi mi vuol bene, ma anche chi mi è contrario, mi deciderei a farlo unicamente in vista del precetto che ci desti di amarci a vicenda, come Tu stesso ci hai amato. Come Tu, Bellezza, Bontà e Perfezione infinita ami me, uomo pieno di miseria e non mi rigetti per i miei difetti, così io, per amor tuo, voglio amare tutti i miei fratelli» (cfr. Ven. Giovanni di G. M., o. c. d.).

@@ -1,87 +1,29 @@
-## 326 — DIMENTICANZA E ABNEGAZIONE DI SE
+## 4 — SENTIRE CON CRISTO
 
-### Presenza di Dio
-
-O Signore, che ti dai a noi sino a farti nostro cibo, insegnami a darmi alle anime sino a dimenticare totalmente me stesso.
+**Presenza di Dio.** — *O Gesù, fa' che io possa nutrire per le anime sentimenti simili a quelli del tuo Cuore divino.*
 
 ### Meditazione
 
-nerosa dimenticanza e forte abnegazione di sè » (Pio XII);
-del resto, senza dimenticanza di sè non sarebbe possibile
-neppure la rettitudine d'intenzione. Appunto perchè si
-mo tanto presenti a noi stessi, tanto occupati e preoccuati del nostro io, del nostro interesse, delle nostre comodità, tanto solleciti di essere amati e di riscuotere lauso
-e stima, una quantità d'intenzioni seconde tenta din Itrarsì nel nostro agire. Bisogna « uscire da se stessi e dalle
-creature », direbbe S. Giovanni della Croce; uscire anzitutto da quella creatura che più di ogni altra amiamo, il
-nostro io. Se in vista dell'ideale contemplativo di unione
-con Dio il Santo ci addita la via del «nulla », possiamo
-ben dire che la vita apostolica non richiede di meno, ma
-esige anch'essa una totale abnegazione di sè che si realizza appunto ripetendo continuamente a se stessi: nulla,
-nulla, nulla, di v
-Come il missionario per realizzare la sua vocazione
+**1** — Un'efficace collaborazione esige sempre una certa affinità d'intenti e di metodi fra il promotore dell'opera e i suoi collaboratori, anzi questa affinità deve essere tanto più profonda quanto più l'opera da compiersi non è materiale, ma spirituale. Dovendo collaborare con Dio per il bene delle anime, l'apostolo deve vivere in intima *affinità spirituale* con lui, sì da entrare il più possibile nelle sue vedute e nei suoi disegni per la salvezza del mondo.
 
-deve lasciare la patria, i parenti, gli amici, deve abbandonare la lingua, gli usi, i costumi del suo paese per adeguarsi a quelli del nuovo, così — proporzioni fatte —
-ogni apostolo, anche se svolge la sua attività nella propria
-patria, nel Riario ambiente di lavoro o di vita, deve ri
-munciare ad una quantità di cose. Gusti, abitudini, esigenze personali di cultura, di educazione, di sensibilità devono essere messe generosamente da parte per adattarsi
-alla mentalità ed alle esigenze altrui; quiete, riposo, sollievi devono cedere il posto al servizio delle anime. L'apostolo non deve andare in cerca di conversazioni piacevoli, di amicizie consolanti, di occupazioni gradite, di risultati soddisfacenti; potrà darsi che talvolta incontri queste cose sul suo cammino, ma neppure allora può fermarsi
-a goderne egoisticamente, bensì a servirsene come mezzi per il suo apostolato e, in ogni caso, non può, nè deve
-mai regolare la sua attività in vista di esse. L'apostolo è
-mandato a «dare » e non a «ricevere », a seminare e non
-a raccogliere, perciò deve saper dare il suo tempo, il suo
-lavoro, le sue energie e perfino se stesso anche in quegli
-ambienti che non offrono nulla di confortante, anche a
-quelle anime da cui non riceverà mai soddisfazioni, nè
+Solo penetrando a fondo il mistero dell'amore di Dio per gli uomini, l'apostolo potrà cooperare all'effusione dell'amore e della grazia. Mediante le virtù teologali egli deve tenersi in contatto intimo con Dio e cercare di cogliere il movimento profondo del suo amore. La fede c'insegna che Dio ha chiamato all'esistenza gli uomini, spinto dalla sua bontà infinita che ha voluto effondersi al di fuori di sé, onde partecipare ad altri qualche cosa del suo bene, della sua felicità, della sua stessa vita. Ecco la grazia, creazione del suo amore, che rende gli uomini consorti della sua natura. E quando gli uomini, col peccato, si sono distaccati da lui rendendosi immeritevoli del suo dono, Egli non ha rinunciato al suo piano d'amore e, per poter ridare ad essi ciò che colpevolmente avevano perduto, ha sacrificato il suo Unigenito «che per noi uomini e per la nostra salute discese dal cielo» (Credo).
 
-a vantaggio degli uomini » (Ebr. 5,1) e lo stesso può dirsi
-di ogni altro apostolo. L'apostolo non è per se stesso, per
-la: sua carriera, per il suo interesse, ma è per le anime, è
-ne il vantaggio degli altri, in tutto quel che riguarda il
-oro bene spirituale. Anche se l'apostolato gli conferisce
-qualche autorità, qualche dignità, questa non è per il suo
-onore, per il suo utile, ma soltanto per il servizio dei fratelli. L'unico vantaggio personale che può e deve pretendere dall'esercizio del suo apostolato è la sua santificazione: geco l'unico diritto che l'apostolo può far valere, l'uunigo interesse che può cercare per sè; tutto il resto deve essere generosamente sacrificato a.Dio ed alle anime.
+L'apostolo deve comprendere a fondo che l'azione di Dio per gli uomini è tutta azione di amore: è l'azione del Padre che va in cerca del figliuol prodigo, del pastore che va in cerca della pecorella smarrita; è l'azione di Dio che vuol offrire agli uomini la sua amicizia per renderli felici, per poterli accogliere nella sua casa, per poterli ammettere alla sua intimità, per renderli beati della sua beatitudine eterna. L'apostolo deve cercare di mettere il proprio cuore a contatto col cuore di Dio per riempirlo del suo amore, per condividere la sua carità per gli uomini. L'apostolo deve, per così dire, sentire con Dio, sentire con Cristo, ossia nutrire profondi sentimenti di amore per i suoi fratelli, pallido riflesso dell'amore di Dio per gli uomini.
 
-Un'anima veramente data all'apostolato non si reo
-tiene più: le sue forze, i suoi talenti, il suo tempo, la sua
-salute, la sua vita sono di Dio e del prossimo. E, essendosi data, non può più RRENeA non può disporre di
-se stessa, si può dire che ha perso il diritto di proprietà
-di tutto ciò che è e di tutto ciò che ha. Quindi il suo
-programma è: darsi dimenticandosi e dimenticarsi per darsi di più. E ciò non solo nei momenti di entusiasmo, nelle giornate luminose, quando le anime rispondono alle
-sue cure, quando le opere fioriscono, quando le forze sono in pieno vigore, ma anche nei momenti di oscurità,
-nelle giornate grigie in cui sembra che tutto crolli sotto
-l'urto delle difficoltà, anche quando il fisico stanco reclama un po' di riposo, il lavoro pesa, le energie scemano €,
-per l'impeto delle lotte interne ed esterne, è molto faticoso rimanere al proprio posto. SÌ, anche nelle ore di abbandono e di prova l'apostolo deve continuare a darsi con
-uguale costanza e generosità. Che se egli non lo facesse
-di buon volere — ossia con vero spirito di sacrificio —
-sarebbe impossibile che dalla sua condotta non trasparisse
-un po' di malumore, di scontento, di riluttanza o d'impazienza, e ciò verrebbe a menomare di molto il suo asce!
+**2** — Non solo nella preghiera, ma nell'esercizio stesso del suo apostolato, l'apostolo deve cercare di mantenersi in contatto con Dio e col mistero del suo amore per gli uomini, cui deve umilmente collaborare. Cercherà questo contatto attraverso un intenso esercizio della fede che gli farà sempre più comprendere il mistero della Redenzione, che gli farà riconoscere l'attuazione di questo mistero nelle varie circostanze della vita, nello svolgersi degli avvenimenti, che lo aiuterà ad inserire la sua umile azione nella grande azione divina. In tal modo, anche quando userà mezzi umani, anche quando si occuperà di questioni materiali, si manterrà in un'atmosfera soprannaturale: non perderà mai di vista il fine ultimo della sua attività, ma sarà sempre desta in lui la consapevolezza di collaborare con Cristo alla salvezza delle anime.
 
-dente e la sua azione. Ma dove trovare la forza per rimanere sempre al livello di un così alto dono di sè? Nell'Eucaristia. Lì Gesù si dà a noi sino a farsi nostro nutrimento e se l'apostolo — chiamato a prolungare la missione del Maestro — non può imitarlo dandosi letteralmente in cibo alle anime, può però imitarlo mettendosi
-a loro disposizione fino al punto di lasciarsi «mangiare »
-da esse, ossia di lasciarsi consumare per il loro servizio.
+Alla fede l'apostolo deve unire un'ardente carità, perché il contatto con Dio e l'affinità col suo amore si realizzano appunto per via della carità; e la carità, per la forza d'intuizione che le è propria, permetterà all'apostolo di penetrare più a fondo il mistero della Redenzione, di gustare la dolce realtà dell'Amore infinito che in esso si manifesta e lo spingerà a vivere in intima comunione con questo Amore di cui deve essere il collaboratore e lo strumento. Allora il suo esempio, le sue parole renderanno testimonianza di verità non solo come credute in teoria, ma vissute in pratica, ma assaporate, sperimentate nel contatto intimo con Dio. Allora l'apostolo potrà affermare con S. Giovanni: «Noi abbiamo conosciuto e creduto alla carità che Dio ha per noi» *(1 Gv.* 4, 16) e ancora: «Quel che abbiamo veduto con gli occhi nostri, che abbiamo contemplato e che le nostre mani han toccato del Verbo della vita... lo attestiamo... lo annunziamo a voi» *(ivi,* 1, 1-3).
+
+Mediante la fede e l'amore l'apostolo giungerà ad un'affinità spirituale sempre più grande col mistero della Redenzione e con Gesù che ne è il grande Artore, potrà fare suoi i sentimenti di Gesù secondo la parola di S. Paolo: «abbiate in voi quel sentire che era anche in Gesù Cristo» *(Fil.* 2, 5). Questo «sentire con Cristo», che significa amare e vivere all'unisono col Cuore divino, che significa condividere il suo amore immenso per Dio e per le anime, è il segreto di ogni apostolato.
 
 ### Colloquio
 
-«O Signore, fammi ben comprendere che il mio lavoro ha valore per l'eternità in proporzione dell'amore
-col quale lo compio e non del successo che può avere ©
-no. Anche se io non ne vedo i frutti, che importa, purchè i frutti li veda Tu? Tu vuoi che lavori con spirito
-di fede senza ricercare la mia soddisfazione.
+«O Gesù, Figlio di Dio, se penso che Tu sei morto per la redenzione delle anime, come posso non desiderare di morire io stesso per loro? E, vedendo calpestato il tuo Sangue, come posso tollerare una tale ingiuria fatta a te, mio Signore? Come posso dire di amarti e di desiderare il tuo amore se, vedendo la tua immagine gettata nel fango, non mi preoccupo di cavarnela? Perché dunque non mi do tutto a pregare, non mi do tutto a faticare per far conoscere e onorare il tuo nome, affinché, convertendo le anime, possa raccogliere i frutti del tuo Sangue?
 
-. «Sento che sono madre delle anime e che devo sacrificarmi per esse con la più grande generosità, perchè la
-salvezza di molte può dipendere dalla mia corrispondenza
-alla grazia. Signore, sono un povero piccolo nulla, ma ti
-offro tutto. O Padre, ti offro il tuo divin Fig lo. Prendimi e disponi di me per la tua maggior gloria.
+«Dio mio, anche se fossi certissimo di non dover mai gloriarti, nondimeno, per onorarti, vorrei di buonissimo grado morire una volta per ciascun'anima peccatrice; di guisa che sosterrei al presente tante morti, quante sono al mondo le anime peccatrici, affinché esse conseguissero ora la grazia, e in avvenire la gloria; ma quanto più lo farei, se sapessi di dover poi ricever gloria con loro!» (S. Bonaventura).
 
-«O ignore, Tu mi spingi in modo pressante, costante al sacrificio sempre più generoso, totale. Sento il bisogno di dare, di darmi a te, di non riservarmi più nulla.
+«Signore, non ho che una cosa sola da fare durante la notte di questa vita, l'unica notte che verrà una volta sola: amarti con tutta la forza del mio cuore e salvarti delle anime perché Tu sia amato.
 
-oglio, dunque, rinnovarti la mia offerta perchè Tu mi
-prenda tutta, perchè mi trasformi, perchè ti serva di me
-per la tua gloria, per la salvezza delle anime, perchè ti
-degni di completare in me ciò che manca alla tua Passione, a vantaggio del tuo Corpo che è la Chiesa, contenta di trovare poi nella mia giornata tante occasioni pi
-tiche di attuare questa offerta » (cfr. Sr. Carmela d. Spi
-to S., o.cd.). Di;
+«O Gesù, alla vista del tuo Sangue prezioso che cade per terra senza che nessuno si dia premura di raccoglierlo, mi si spezza il cuore dal dolore! Propongo perciò di starmene continuamente ai piedi della croce per raccogliere questa divina rugiada di salvezza e spargerla poi sulle anime.
 
-«O Signore, la Pagni e il sacrificio formano tutta
-
-la mia forza, sono le mie armi invincibili e so per esperienza che, più delle parole, possono muovere i cuori »
-
-(T.B.G.St. 10).
+«Il tuo grido: 'Ho sete', risuona continuamente nel mio cuore e vi accende un fuoco vivissimo. O mio Diletto, voglio dissetarti e, sentendomi divorata dalla tua stessa sete delle anime, voglio strappare ad ogni costo i peccatori alle fiamme dell'inferno. Voglio impiegare in ciò tutti i mezzi che sono alla mia portata, ma, ben sapendo che da sola non posso niente, ti offro come prezzo del loro riscatto i tuoi stessi meriti infiniti ed i tesori della santa Chiesa» (T.B.G. *Lt.* 74; *St.* 5).

@@ -1,98 +1,111 @@
-## 135 — THE GIFT OF LOVE
-*Holy Thursday*
+## 99 — VENIAL SIN
 
 ### Presence of God
 
-Grant me, O Jesus, to penetrate the immensity of that love which led You to give us the Eucharist.
-
 ### Meditation
 
-1 — "Since Jesus had loved His own, He loved them to
-the end" (Gospel: Jn. 13:1-15), and precisely in the final hours
-of intimacy spent among them He wished to give them the greatest pledge of His love. They were hours of sweet
-intimacy, but also of most painful anguish; Judas had already agreed upon the price of the infamous sale, Peter was about to deny Him, all would soon abandon Him.
-The institution of the Eucharist thus appears as Jesus' response
-to men's betrayal, as the supreme gift
-of His infinite love in exchange for supreme ingratitude:
-it is the merciful God who pursues His rebellious
-creature not with threats, but with the most delicate devices of His immense charity. Jesus had already done
-and suffered so much for sinful man, and now,
-at the moment when human malice is about to touch
-the furthest depth of the abyss, He, as if exhausting the resources of His love, offers Himself to man not only as
-Redeemer who will die for him on the cross, but as food
-that will nourish him with His Flesh and His Blood; and if
-in a few hours death will snatch Him from the earth,
-the Eucharist will perpetuate there His living and real presence until the consummation of time. "O madman of love for Your
-creature!" exclaims St. Catherine of Siena. "Whole God
-and whole Man, You left Yourself all as food for us, so that, while we are pilgrims in this life, we may not fail through weariness, but be strengthened by You,
-heavenly Food!"
+1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
+opposite to it, with the consequence of diminishing its
+impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
+God.
 
-Today's Mass is, in a very particular way, the commemoration and renewal of the Last Supper, in which we are all invited to share. Let us enter the church and gather around the altar as we would have entered the Upper Room and gathered around Jesus. Here, as the Apostles in Jerusalem, we find the living Master in
-our midst, and He Himself, in the person of His minister,
-will renew once again the great miracle that changes
-bread and wine into His Body and His Blood and then
-will say to us: "Take and eat... take and drink."
-
-Let us reflect that Jesus Himself had arranged preparations for the Last Supper and for that purpose chose "a
-large upper room" (Lk. 22:12), charging the Apostles to prepare it fittingly. Our heart too must
-be an upper room "large," made spacious and enlarged by love, so that Jesus may come there to celebrate worthily
-His Passover.
+This kind of venial sins, when committed habitually,
+diminish the soul's tendency toward God and instead increase the tendency toward selfish
 
 
-2 — At the Last Supper Jesus, together with the Sacrament
-of love, leaves us the testament of love: a living and concrete testament of His admirable example of humility and charity in the washing of the feet; an oral testament in the announcement of His "new commandment." The Gospel of today's Mass presents Jesus precisely in the act of washing the Apostles' feet and ends with the Master's words:
-"I have given you an example, that you also should
-do as I have done to you." It is an urgent invitation to that fraternal charity which must be the fruit of our union with Jesus, the fruit of our Eucharistic Communion. He spoke of it expressly precisely at the Last Supper: "I give you a new commandment: Love one
-another. As I have loved you, so you also
-must love one another" (Jn. 13:34).
+satisfaction, toward creatures. And thus, little by little,
 
-If we cannot imitate Jesus' love to the point of giving
-our body as food to our brothers, we can however imitate Him
-in giving them our loving assistance, and not
-only in easy things, but also in difficult and repugnant ones.
-The Master who washes His Apostles' feet teaches us how far we must humble ourselves to render service
-to our neighbor, even the humblest and most abject.
-The Master who, with continuous proofs of love, goes out to meet ungrateful men and His own traitors, teaches us that our charity is not like His if we do not know how to repay evil with good, if we do not know how to forgive to the very end, reaching the point of doing good to the one
-who has wronged us. The Master, who gives His life for the salvation of His own, tells us that our love is not full if we do not know how to sacrifice ourselves generously for others. His
-"new commandment," which sets Jesus' own love as the measure of our fraternal love, opens boundless horizons to the exercise of charity; it is a charity that knows no limits. And if there is a limit, it is that of giving, like the Master, one's life for others, because "no one has greater love than this, that one lay down his
-life for his friends" (Jn. 15:13).
 
-Jesus inculcates the perfection of fraternal charity on the
-very evening in which He institutes the Eucharist, as though to indicate
-that such perfection must be at once the fruit of the Eucharistic Sacrament and our response to this immense gift.
+the soul loses fervor, loses sensitivity to offense against
+God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
+an indifference that puts it in danger of offending God
+even in grave matter. It is in this sense that venial sin
+can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
+undermines the organism. It is not rare to find
+souls who, having at first given themselves to God with sincere
+fervor, over time, yielding to selfishness, laziness,
+their own comfort, and not knowing how to impose generous efforts
+upon themselves to proceed on the path undertaken, let themselves
+go to continual negligences, listlessness, voluntary omissions,
+acts of laziness. Their spiritual life is reduced
+to a kind of lethargy that is not yet death, but
+has no longer anything of the freshness and vigor of a
+healthy and robust life. The fervor of charity is lacking,
+extinguished by continual, deliberate compliances with venial sin.
+St. Teresa of Jesus, warning against such a state,
+teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
+the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
+however small... And what can ever be small in
+offending a Majesty so great?" (P. 2,
+5 and 20; Way 41, 3).
+
+
+2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
+wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
+by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
+of the Lord, rises again, and sets out once more. Such
+
+
+sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
+Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
+which will lead it to distrust its own strength totally,
+
+
+to place in God alone all its trust. It will experience
+in practice the great reality of Jesus' words: "Without
+Me you can do nothing" (Jn. 15, 5). Not infrequently the
+Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
+seriously in humility, which is the basis of all spiritual life.
+
+St. Therese of the Child Jesus, speaking of such faults,
+believed she could assert that they "do not displease
+the Lord," precisely because they do not depend on bad
+will, which with open eyes and a cool mind
+commits sin, but rather on the weakness of human
+nature.
+
+If because of our weakness it is impossible not to fall
+every day into some venial faults of surprise or fragility,
+what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
+must be firmly resolved never to commit one for all
+the gold in the world.
 
 ### Colloquy
 
-"O Lord, Lord! Small and narrow is the house of my soul,
-for You to come into it: enlarge it Yourself.
-It is all in ruins: repair it Yourself. It has things that offend
-Your eyes: I know and I confess it. But who shall cleanse it?
-or to whom, except to You, shall I cry: cleanse me, O Lord,
-from my hidden sins?" (St. Augustine).
+"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
+has kept me Your spouse, although through my defects
+I have always been unfaithful to You. Peccavi, Domine, miserere mei.
+O my soul, and what are you doing? Do you not know that
+you are continually seen by God? Know that from His
+eye you can never hide, because nothing is hidden from Him... O eternal God,
+O compassionate and merciful Father, have pity and mercy
+on us, because we are blind and without any
 
-"O good Jesus, to sustain our weakness
-and to inflame us to love, You resolved to remain
-always among us; and yet You well foresaw the lot You
-would have among men, the dishonors and outrages You
-would have to suffer. O eternal Father, how could You allow
-Your Son to remain always among us
-to suffer every day new kinds of mistreatment? O
-my God! What excess of love in that Son! And what excess likewise in that Father!
 
-"O eternal Father, why did You will that Your Son
-be one day at the mercy of people so perverse as we?
-Is it possible that Your tenderness allows Him to be exposed
-every day - yes, I say every day - to so many ill-treatments? Oh, how many are done today to this most divine
-Sacrament! In how many hostile hands are You forced to
-see Him!
+light, especially I, poor and miserable... O You,
+true sun, enter my soul and illumine it with Yourself.
+Drive out its darkness and give light; destroy the frost of self-
+love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
 
-"Consider, O eternal Father, that so many scourges, outrages, and most tormenting sufferings borne by Your Son during His earthly life are not things to be forgotten.
-Must He do something more to satisfy You?
-Has He not already done all? Has He not already satisfied enough for Adam's sin?
+"May it please You, O Lord, that I fear only
+offending You, convinced that greater harm can come to me
+from one deliberate venial sin than from all
+hell" (T.G. Life 25, 20). In fact, the true evil, the only
+one I must fear, is neither temptation nor trials,
+nor interior and exterior contradictions, nor loss of material
+goods or bodily health; but true evil is what
+can in any way hinder my union with You, my
+supreme Good! And this evil, I understand, can be
+caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
+free me from so great an evil, take from me the sad ability to
+offend You, and if by my native weakness it is impossible
+for me to be exempt from every fault, grant that these may
+never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
 
-"O holy Father who art in heaven, if Your divine Son
-has left nothing undone to give us sinners
-so great a gift as that of the Most Holy Eucharist,
-do not permit, O most merciful Lord, that He be
-treated so badly! He has left Himself among us in so wondrous a way that we may offer Him to You in sacrifice as many times as we wish. Well then, by this most august sacrifice, may the flood of sins and irreverences finally be stayed, sins committed even there where this Most Blessed
-Sacrament dwells" (cf. T.G. Cam. 33, 2-3; 35, 3).
+"Yes, because of my misery I fall very often, often I
+allow myself to be distracted from my one occupation, I move away
+from You, I wet my poor little wings, scarcely formed,
+in the miserable puddles of water I find on this earth! Then
+I groan like the swallow, and my cry tells You all,
+and You, infinite Mercy, remember that You did not come
+to call the just, but sinners" (T.B.G. St. 11).

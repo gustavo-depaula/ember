@@ -1,49 +1,41 @@
-## 325 — RETIDÃO DE INTENÇÃO
+## 325 — COLABORADORES DE DEUS
 
 ### Presença de Deus
 
-Ó Deus, arranca do meu coração todas as intenções secundárias, todos os movimentos de amor-próprio, para que eu vise unicamente à tua glória.
+Senhor, toma-me para que eu seja digno de colaborar contigo na difusão do teu reino.
 
 ### Meditação
 
-Muitos fracassos no apostolado provêm do fato de que a atividade apostólica não é exercida com as condições que ela mesma requer e que são indispensáveis para transformá-la num intenso exercício de vida espiritual.
+1. — Falando do trabalho apostólico, São Paulo diz: *Dei sumus adjutores* (1Cor. 3, 9), somos cooperadores, colaboradores de Deus.
 
-Trata-se de certa desordem, de motivos mais ou menos humanos que, infiltrando-se nessa atividade, a fazem descer do plano sobrenatural ao plano humano e a transformam em ocasião de desvio e de arrefecimento da vida interior; por isso a alma se sente insatisfeita e inquieta.
+O apostolado não é, portanto, atividade pessoal, fruto mais ou menos apreciável dos próprios recursos e iniciativas; não é atividade que se possa desenvolver segundo as próprias perspectivas e muito menos com as próprias forças. Qualquer forma de apostolado é colaboração à obra única de redenção e de santificação que Deus realiza através dos séculos no mundo.
 
-Pio XII, no Motu proprio *Primo feliciter*, exprimiu com muita clareza as condições de uma atividade santa: «O apostolado — diz ele — deve ser sempre santamente exercido com tanta pureza de intenção, com tanta união interior com Deus, com tão generoso esquecimento e forte abnegação de si e com tal amor às almas, que ele brote do espírito interior que o informa e, ao mesmo tempo, continuamente alimente e renove esse mesmo espírito».
+Só Deus pode redimir e santificar, Ele que possui a santidade em próprio, Ele que é o criador e a fonte da graça. «Um só é o Mediador entre Deus e os homens» (1Tm. 2, 5), um só é o Redentor e o Santificador: Jesus, Verbo Encarnado; todos os outros, também os maiores santos e até a Madonna, são apóstolos só enquanto colaboram na obra de Cristo. Nós, como diz São Paulo, não fazemos senão prestar a Deus nossa atividade: «Eu plantei, Apolo regou, mas é Deus quem fez crescer; de modo que nada é o que planta, nada o que rega, mas tudo é Deus que faz crescer» (1Cor. 3, 6-7).
 
-Reexaminando nosso apostolado à luz dessas palavras, poderemos identificar os pontos fracos, descobrir os defeitos a evitar e também os remédios a tomar. As condições propostas são quatro: pureza de intenção, união com Deus, abnegação de si, amor às almas. Elas são de tal importância que, ao mesmo tempo em que asseguram ao apostolado sua fecundidade, fazem dele um eficaz meio de progresso espiritual.
+A obra do agricultor é certamente necessária para fazer frutificar o campo; no entanto, não é suficiente: é preciso a chuva e o sol, é preciso a estação propícia. De modo semelhante, dado o plano estabelecido por Deus para a salvação dos homens, a atividade do apóstolo é necessária, porém não é suficiente: só Deus pode dar o incremento. Como só Deus pode fazer brilhar o sol ou mandar a chuva para fecundar o campo material, assim só Deus pode dar a graça para fecundar o campo do apostolado.
 
-Consideremos antes de tudo a pureza de intenção. Se ninguém pode «servir a Deus e a Mamom» (Mt 6,24), muito menos o apóstolo pode dedicar-se à atividade apostólica com a dupla intenção de servir a Deus e ao amor-próprio, de agradar a Deus e ao mundo, de zelar os interesses das almas e os interesses pessoais.
+São Paulo estava tão convencido desta verdade que, dirigindo-se aos Coríntios, exclamava: *Dei agricultura estis, Dei aedificatio estis* (1Cor. 3, 9). Embora ele por primeiro os tivesse gerado à fé, não diz: sois meus filhos, sois meu campo, mas «sois campo de Deus, sois edifício de Deus». O apostolado não é obra humana, mas obra divina, à qual o homem presta sua colaboração como humilde instrumento.
 
-A força, a paz e a vida vêm da unidade; o fragmentarismo, mesmo o do espírito, só pode levar à fraqueza, à divisão, à luta e, por fim, à morte. O apóstolo que tem o coração dividido por intenções opostas procurará em vão a paz no trabalho; estará sempre inquieto e insatisfeito.
+2. — Se o apóstolo é instrumento de Deus, não é porém instrumento material, como é por exemplo a pena nas mãos do escritor, mas instrumento vivo, pessoal, dotado de inteligência e vontade e que, por isso, deve pôr-se voluntariamente à disposição do Artista divino, procurando harmonizar, ou melhor, sincronizar seu modo de pensar, de querer, de agir, com o modo divino, isto é, com os métodos e os desígnios divinos.
 
-As intenções secundárias podem aparecer de modo grosseiro, fácil de perceber, mas também de modo tão sutil que a alma distraída não as nota. Para descobrir até as menores intenções secundárias, que como pequenas raposas se insinuam às escondidas para arruinar a atividade apostólica, é preciso um clima de recolhimento e de oração.
+Cada um de nós será apóstolo na medida em que for instrumento dócil nas mãos de Deus, de modo que Ele possa servir-se dele como quer.
 
-Nos momentos de pausa aos pés do Senhor, o apóstolo perceberá que muitas vezes, durante as ocupações cotidianas, perde de vista o fim sobrenatural que deveria animar sua atividade e que, no lugar dele, entram fins secundários que se tornam o motivo imediato de muitas deliberações e ações.
+Também aqui devemos fixar o olhar em Jesus; sua Humanidade foi o instrumento de que o Verbo se serviu para a redenção do gênero humano. A Humanidade de Jesus não tem personalidade própria separada do Verbo; sua vontade, sua inteligência, seus afetos, seu corpo são instrumentos do Verbo, dos quais Ele usa com plena liberdade e através dos quais realiza sua obra de amor para a salvação dos homens.
 
-Isso significa que sua intenção não permanece orientada unicamente para Deus e para as almas, mas muitas vezes se desvia sob o influxo do amor-próprio: às vezes busca mais ou menos inconscientemente o aplauso e a glória; outras vezes, preocupa-se com a própria vantagem, com o próprio interesse material — não perder um cargo, obter algum progresso na carreira, ser preferido pelos superiores, ser escolhido para obras mais atraentes ou mais rentáveis.
+De maneira análoga o apóstolo — embora tenha uma personalidade própria que permanecerá sempre distinta de Deus, mesmo nos mais altos estados de união mística — deve dar-se a Deus como docilíssimo instrumento, como pura capacidade colocada totalmente à sua disposição. Tudo o que o apóstolo recebeu de Deus — inteligência, vontade, dotes naturais e sobrenaturais — deve livremente oferecer-lhe, para que Ele se sirva disso como quiser para difusão de seu reino.
 
-Em suma, deverá constatar que, ao lado do amor de Deus e das almas, há ainda muito amor-próprio e egoísmo. Diante desse quadro pouco consolador, não deve desanimar, mas reconhecer humildemente a própria miséria e agradecer ao Senhor, que lha revela justamente para que possa corrigir-se.
+Que Deus o utilize para obras grandes e vistosas ou para obras humildes e escondidas; que o use para anunciar em público sua palavra ou para iluminar no segredo as almas; que o empregue numa atividade intensa ou o imole na oração e no silêncio, pouco importa, contanto que todas as suas forças e toda sua vida sejam postas a serviço das almas.
 
-Não deve, porém, pensar que tudo o que faz seja unicamente fruto de amor-próprio. Não: quando uma pessoa se entrega ao apostolado movida pelo desejo sincero de fazer a vontade do Senhor e conquistar outros corações, é preciso dizer que ela é animada pelo amor de Deus e das almas; e, contudo, também é preciso admitir que esse amor ainda não é tão forte a ponto de triunfar totalmente das paixões humanas.
-
-O apóstolo, portanto, não deve cessar de combater todas as manifestações, mesmo mínimas, do amor-próprio. Não deve condescender com elas sob o pretexto de que se trata de movimentos naturais, mas corrigi-las, mortificá-las, reprimi-las, cortá-las sem piedade, retificando sempre as intenções.
-
-É necessária uma longa e profunda purificação para vencer totalmente o dualismo entre Deus e o eu, entre o amor das almas e o amor de si. É preciso implorar ao Senhor a graça dessa purificação total e dispor-se a ela, aproveitando todas as ocasiões de desapego, renúncia, sacrifício e humilhação que a atividade apostólica oferece em abundância a quem se dedica seriamente.
-
-Seguindo essa via, o apóstolo encontrará no próprio trabalho um ótimo meio de ascensão espiritual e, em vez de enredar-se nos perigos que a atividade externa apresenta quando o amor-próprio não é reprimido, purificar-se-á através do exercício do seu apostolado.
+Como a obra da santificação pessoal, assim também a obra da santificação alheia, isto é, o apostolado, resolve-se num problema de docilidade, de disponibilidade à graça, aos desígnios de Deus; por conseguinte, resolve-se num problema de morte a si mesmo, a tudo o que no próprio pensamento, na própria vontade e conduta possa minimamente contrastar com o pensamento, com a vontade, com a conduta de Deus.
 
 ### Colóquio
 
-«Ó Senhor, quando quero rezar ou trabalhar para o bem das almas, devo antes de tudo dirigir o olhar da mente para ti, Luz eterna, e para o teu esplendor, para que me dês luz, fortifiques meu espírito e me ajudes a retirar-me o mais possível das coisas exteriores, para ser toda interior e voltada às coisas interiores.
+«Meu Deus, sei muito bem que tu não tens necessidade de ninguém para cumprir tua obra de santificação; e, no entanto, queres ser ajudado no cultivo divino das almas, do mesmo modo que permites a um hábil jardineiro cultivar plantas delicadas e raras, reservando para ti o cuidado de fecundá-las. Ah, quantas almas chegariam a uma santidade eminente, se fossem bem dirigidas desde seus primeiros passos!
 
-«Faze que no próximo eu considere somente o homem interior, sem cuidar do exterior senão na medida em que sirva ao interior, de modo que todo o resto seja posto de lado como vaidade e eu não seja atraída para coisas vãs.
+«Meu Deus, a honra maior que podes fazer a uma alma não é dar-lhe muito, mas pedir-lhe muito. Por isso, quando me dás sofrer pela salvação das almas, tratas-me como teus privilegiados! Não foi porventura sofrendo e morrendo que tu também redimiste o mundo? Ó Jesus, eu aspiro à felicidade de sacrificar minha vida por ti, mas o martírio do coração não é menos fecundo que a efusão do sangue, e desde agora este martírio é meu. Como é bela, ó Senhor, a parte que me reservaste, parte digna de um apóstolo!
 
-«Meu Deus, que eu seja movida ao apostolado, à oração e ao bom exemplo, somente pelo desejo de salvar as almas, e não pela vanglória, ambição, complacência humana ou alguma utilidade mundana. Somente a ti, ó Cristo crucificado, quero buscar!
+«Ó Senhor, sim, desejo trabalhar contigo pela saúde das almas; não tenho senão o único dia desta vida para salvá-las e dar-te assim prova do meu amor. O dia seguinte deste dia será a eternidade; então tu me restituirás centuplicadas as alegrias que sacrifico por ti.
 
-«Quero inebriar as almas com teu Sangue e não com curiosidade, para que te desejem a ti somente. Quero dizer a cada uma delas: não conheço outra coisa senão Jesus Cristo e este crucificado.
+«Quanto é doce, ó Jesus, ajudar-te com nossos pequenos sacrifícios a salvar as almas por ti redimidas por meio do teu Sangue e que, para não cair no abismo, não esperam senão nosso socorro.
 
-«Por isso, não só não quero vantagens terrenas nem me importa agradar aos homens, mas também não julgo conhecer pessoa alguma ou coisa alguma fora de ti, Cristo crucificado.
-
-«Ó Senhor, inebria-me tanto do teu amor que qualquer outra coisa que se ofereça à vista, ao gosto, ao ouvido ou a qualquer outro sentido, qualquer coisa, exceto tu, eu a considere um nada, de modo que eu não me deleite, não me glorie, não descanse senão no teu Sangue. Faze que meus olhos não estejam cheios de coisas terrenas, mas do teu sofrer; faze que minha boca não esteja cheia de palavras vãs, mas da tua Paixão ...»
+«Como eu seria feliz se no ponto da morte pudesse ter uma alma para oferecer-te! Haveria uma alma arrancada ao fogo do inferno e que te bendiria por toda a eternidade» (Santa Teresinha do Menino Jesus).

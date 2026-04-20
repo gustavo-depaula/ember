@@ -1,103 +1,23 @@
-## 240 — IL MOTIVO DELLA SPERANZA
+## X — FRUTTI DI VITA
 
-### Presenza di Dio
+*VII Domenica dopo Pentecoste*
 
-Fammi ben comprendere, o Signore, che la mia speranza deve avere il suo fondamento non in me, ma nella tua misericordia infinita.
+**Presenza di Dio.** — *Aiutami, o Signore, a non accontentarmi di parole, ma a produrre frutti di santità.*
 
 ### Meditazione
 
-1. — Se dovessimo fondare la nostra speranza sui nostri
-meriti, sul grado di grazia che abbiamo raggiunto, la speranza sarebbe molto incerta, perchè nè possiamo avere la certezza di essere in stato di grazia, nè possiamo essere sicuri
-delle nostre opere buone, sempre piene di difetti. Ma la nostra
-speranza è certa perchè il suo primo fondamento dobbiamo ricercarlo non in noi, ma in Dio, nella sua bontà infinita, nella
-sua volontà salvifica per cui «vuole che tutti gli uomini si
-salvino» (I Tim. 2, 4), nella sua volontà santificante per
-cui ci vuole non solo salvi, ma anche santi: «questa è la
-volontà di Dio, la santificazione vostra» (I Tess. 4, 3). Dunque la certezza della nostra speranza poggia unicamente
-su di lui. Pur esigendo la nostra collaborazione,
-Dio non vuole che fondiamo su di esse la
-nostra fiducia; infatti, Gesù, dopo averci spronato a fare
-tutto ciò che è in nostro potere, ha soggiunto: «quando
-avrete fatto tutto quello che vi è comandato, dite: siamo
-servi inutili» (Lc. 17, 10). Lezione che devono ben apprendersi da quelle anime che sono troppo abituate a contare sulle loro forze e che s'illudono di potersi addentrare in
-una vita spirituale più profonda con le loro risorse personali.
-Perciò, quando il Signore le vuole far progredire, le fa
-passare per penosi stati d'impotenza, lascia loro sentire le
-povertà e le sproporzioni della natura, affinchè si convincano
-quanto è vana la fiducia che ripongono in se stesse. E proprio qui sta il punto delicato: saper accettare questa esperienza di impotenza
-senza cadere nello scoraggiamento. Se nel passato sentivi su di te
-ed ora, di fronte a certe difficoltà, a certe prove della vita
-interiore, vedi le tue forze ridotte al nulla, ringrazia il Signore. Egli in tal modo ti libera dalla troppa fiducia che avevi in te stesso e ti obbliga all'esercizio di una speranza più
-pura, più soprannaturale, spoglia da ogni elemento ed appoggio umano. Ma, se non puoi sperare in te stesso, questo
-non è un motivo per disperarti, bensì per sperare unicamente
-in Dio, per buttarti in lui con piena fiducia, un po' come il
-bambino che, quanto più è incapace ed impotente, tanto più
-si rifugia fiducioso fra le braccia della mamma.
+**1** — Oggi l'Epistola e il Vangelo ci parlano dei veri frutti della vita cristiana e c'invitano a controllare quali frutti abbiamo finora portati. Quando «eravate schiavi del peccato» — dice S. Paolo — «portavate frutti di morte, «ma ora, affrancati dal peccato e fatti schiavi di Dio, avete il frutto nella vostra santificazione». La nostra santificazione deve essere il frutto della nostra vita cristiana ed ecco il punto su cui esaminarci: quali progressi facciamo nella virtù? Quale è la fedeltà ai nostri propositi? Ogni cristiano può considerarsi come un albero della vigna del Signore: Gesù stesso, divino Giardiniere, l'ha piantato in terra buona, fertile, feconda, la terra della Chiesa, irrigata dall'acqua viva della grazia, l'ha circondato delle cure più amorevoli, potandone i rami inutili per mezzo delle prove, guarendone i mali mediante la sua Passione e Morte, innaffiandone le radici col suo Sangue preziosissimo. Talmente l'ha curato che può dire: «Che cosa avrei dovuto fare ancora alla mia vigna e non gliel'abbia fatta?» *(Is.* 5, 4). Ma, dopo tante cure, un giorno Gesù passa per vedere quali frutti porti quest'albero e dai suoi frutti lo giudicherà, perché «non può un albero buono produrre frutti cattivi, né un albero cattivo dar frutti buoni» *(Vg.)*. Se, prima della Redenzione, l'umanità era simile ad un albero selvatico capace solo di portare frutti di morte, con la Redenzione è stata innestata in Cristo e Cristo, che si nutre con la sua stessa linfa, ha tutti i diritti di trovare in noi frutti di santità, di vita eterna. Non bastano, perciò, le parole ed i sospiri, non basta neppure la fede, ché la «fede, se non ha le opere, è morta» *(Giac.* 2, 17), occorrono i fatti, occorre la pratica della volontà di Dio, perché «non chiunque mi dice: "Signore! Signore!" entrerà nel regno dei cieli, ma chi fa la volontà del Padre mio che è nei cieli» *(Vg.)*.
 
-2. — La certezza della nostra speranza deriva dalla certezza della nostra fede: «So in chi ho posto fede — dice
-S. Paolo — e son certo che Egli ha il potere di conservare
-il mio deposito fino a quel giorno», ossia fino alla vita eterna
-(II Tim. 2, 11). Non si tratta di una certezza intellettuale,
-ma piuttosto di una certezza della volontà, del cuore per cui
-ci fidiamo pienamente di una persona da cui sappiamo con
-sicurezza di essere amati. E chi ci ama più di Dio? Chi, più
-di Dio, ci ha dato prova del suo amore? Guardiamo Gesù
-in croce e ripetiamo con S. Paolo: «Il Figlio di Dio mi ha
-amato e ha dato se stesso per me» (Gal. 2, 20). Ora, chi
-«ha un amore più grande di questo, di uno che dia la vita
-per i suoi amici?» (Gv. 15, 13).
+**2** — Nel Vangelo odierno Gesù ferma la nostra attenzione sui «falsi profeti» che si presentano «travestiti da pecore, mentre dentro sono lupi rapaci». Molti ci tengono a farla da maestri di morale o di spirito, ma sono falsi maestri perché le loro opere non corrispondono alle loro parole; è facile, infatti, parlare bene, ma non è facile vivere bene. Talvolta le dottrine proposte sono false in se stesse, anche se a prima vista non lo sembrino giacché si rivestono di certi aspetti della verità; è falsa quella dottrina che in nome di un principio evangelico offende gli altri, che ad esempio, in nome della compassione verso i singoli nuoce al bene comune, che in nome della carità offende la giustizia o dimentica l'obbedienza ai legittimi superiori. È falsa quella dottrina che è causa di rilassamento, che turba la pace e l'unione, che, sotto pretesto di un bene migliore, divide i sudditi dai superiori, che non si piega ai richiami dell'autorità. Gesù ci vuole «semplici come le colombe», alieni dalla critica e dal giudizio severo verso il prossimo, ma ci vuole anche «prudenti come i serpenti» *(Mt.* 10, 16), affinché non ci lasciamo ingannare da false apparenze di bene che nascondono perniciose insidie.
 
-Ecco dove si fonda la certezza della tua speranza. Devi
-sperare di giungere al possesso beatificante di Dio nella vita
-eterna ed all'unione con lui su questa terra non tanto perchè
-hai fatto sempre il tuo dovere, perchè ti senti forte nel bene,
-virtuoso, ben disposto, ma perchè, malgrado la tua miseria
-e la tua debolezza, sai che Dio è sempre pronto ad aiutarti,
-purchè tu riconosca umilmente il tuo nulla e riponga in Lui
-tutta la tua fiducia. S. Teresa del B. G. diceva: «La santità non consiste in questa o in quella pratica; consiste
-invece in una disposizione del cuore che ci rende umili
-e piccoli fra le braccia di Dio, coscienti della nostra debolezza
-e confidenti fino all'audacia nella sua bontà di Padre» (NV.).
-
-Se nelle tue cadute e nelle tue impotenze ti rinchiudi in te
-stesso, ti tarpi le ali della speranza e non fai che affogarti
-sempre più nella tua miseria; ma se, invece, ti sollevi a
-Dio con un atto di fiducia piena, allora la tua debolezza viene confortata e sostenuta dalla sua onnipotenza ausiliatrice.
-Se, di fronte alle difficoltà, ai sacrifici che il dovere t'impone,
-stai a calcolare le tue forze, indietreggi, sei tentato di disertare; ma se, invece, distogliendo lo sguardo da te stesso, lo
-rivolgi a Dio, al suo amore infinito, la certezza del suo aiuto
-ti darà la forza di procedere. La salda speranza in lui ti renderà forte, coraggioso, generoso: sarà la leva della tua vita.
+Del resto, essere maestri non è da tutti, né è richiesto a tutti; a tutti, invece, — dotti ed ignoranti, maestri e discepoli — il Signore chiede la pratica concreta della vita cristiana. Che ci varrebbe possedere una dottrina profonda ed elevata se poi non vivessimo secondo questa dottrina? Prima, dunque, di voler essere maestri agli altri cerchiamo di esserlo a noi stessi, impegnandoci a vivere integralmente gli insegnamenti del Vangelo, imitando Gesù che cominciò a fare e poi ad insegnare *(cfr. At.* 1, 1). Il frutto genuino che deve comprovare la bontà della nostra dottrina e della nostra vita è sempre quello indicatoci da Gesù: l'adempimento della sua volontà. Adempimento che significa adesione piena alle leggi divine ed ecclesiastiche, obbedienza leale ai legittimi superiori, fedeltà ai propri doveri e tutto ciò in ogni circostanza, anche quando esige da noi la rinuncia delle nostre vedute personali, della nostra volontà.
 
 ### Colloquio
 
-«Fortissimo, onnipotente Signore, mostrami la mia povertà affinchè la conosca. Io dissi d'essere ricco e che non
-mancavo di nulla ed ignoravo che ero povero, cieco, nudo,
-misero e miserabile; credevo d'essere qualche cosa, ed ero
-nulla. Io dissi: 'Diverrò sapiente' e divenni stolto; credevo
-d'esser prudente, e m'ingannai; e vedo ora che la sapienza è
-tuo dono, che senza di te non possiamo far nulla, poichè se
-Tu, o Signore, non custodisci la città, invano vigila chi la
-sta custodendo. Questo Tu m'insegnasti affinchè io mi conoscessi; mi abbandonasti e mi provasti... affinchè io mi conoscessi. Appena ti scostasti alquanto da me, tosto caddi; vidi
-allora e conobbi che Tu mi reggevi; se caddi fu da me, e
-se risorsi fu per il tuo aiuto.
+«O Dio eterno, nel tempo che l'uomo era albero di morte, Tu lo rifacesti albero di vita innestando te in lui! E, tuttavia, molti uomini per i loro difetti non producono altro che frutti di morte, perché non innestano se stessi in te, vita eterna. Molti stanno nella morte del loro peccati e non vengono alla fonte dove sta il Sangue di Cristo per innaffiare l'albero loro... e così si vede che Tu li creasti non senza di noi, ma non ci vuoi salvare senza di noi.
 
-«O mio Dio, io potrei disperare per i miei grandi peccati e
-per le mie innumerevoli negligenze... ma non ardisco di disperare poichè, tuo nemico un tempo, fui con te riconciliato per
-la morte del tuo Figlio; e non solamente riconciliato, ma da
-lui fatto salvo. Perciò ogni mia speranza e la certezza della
-mia fiducia è tutta nel prezioso suo Sangue che fu sparso per
-noi e la nostra salute. In Lui respiro, in Lui fidando,
-spero di giungere a te, non per la mia giustizia, ma per quella che ha origine dal Figlio tuo, Signor nostro Gesù Cristo.
+«Ma quanta dignità, o Dio, riceve l'anima innestata in te e quali ottimi frutti produce! E donde trae quest'albero questi frutti di vita, mentre per sé è sterile e morto? Li trae da te, o Cristo, ché se Tu non ti fossi innestato in esso, nessun frutto potrebbe produrre per sua virtù, perché è la nulla.
 
-«Nel travaglio, dunque, di questa guerra levo lo sguardo
-a te, Signore Gesù. Mi faccia il nemico ciò che vuole, io
-non temerò perchè Tu sei un forte difensore. Ho ben ragione
-di sperare in te, poichè non sarò confuso in eterno.
+«O verità eterna, amore inestimabile, come Tu, o Cristo, producesti per noi frutti di fuoco, d'amore, di luce, di obbedienza pronta, per la quale obbedienza corresti come innamorato all'obbrobriosa morte della croce e ci desti questi frutti mediante l'innesto della tua Divinità nell'umanità nostra, così l'anima innestata in te a nessun'altra cosa attende se non all'onore tuo e alla salute delle anime: ella diventa fedele, prudente, paziente. Vergognati, anima mia, che per i tuoi difetti ti privi di tanto bene! Il mio bene non porta utilità a te, o Dio, né il mio male ti nuoce; ma Tu ti diletti che la tua creatura produca frutti di vita, affinché ne riceva frutto infinito e pervenga al fine per il quale tutti ci hai creati.
 
-«Ora, finchè sono nel corpo, son lontano da te; giacchè
-vado avanti per fede e non per visione. Verrà il tempo in
-cui vedrò quello che ora credo senza vedere e sarò felice.
-Allora verrà la realtà di cui ora ho la speranza. Nella mia
-speranza vivo contento, perchè Tu nella tua promessa sei
-verace; ma, tuttavia, non possedendoti ancora, gemo sotto
-il pungolo del desiderio. Fammi, in questo desiderio, perseverante fino a che venga ciò che hai promesso; allora finiranno i gemiti e risonerà unicamente la lode» (S. Agostino).
+«O Dio, la tua alta ed eterna volontà non vuole altro che la nostra santificazione, perciò l'anima che desidera santificarsi si spoglia della volontà sua e si riveste della tua. O dolcissimo Amore, questo mi pare che sia verrissimo segno di coloro che sono innestati in te: che seguano la tua volontà a modo tuo e non a modo loro, che siano vestiti della tua volontà» *(cfr.* S. Caterina da Siena).

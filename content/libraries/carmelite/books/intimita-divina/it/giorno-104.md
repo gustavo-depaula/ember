@@ -1,107 +1,23 @@
-## 104 — L'UMILTÀ
+## 28 — LA CONFESSIONE
 
-### Presenza di Dio
-
-— O Gesù, che tanto ti sei umiliato per noi, insegnami la pratica della vera umiltà.
+**Presenza di Dio.** — *Ai piedi della tua Croce, o Gesù, confesso i miei peccati e invoco su di me l'effusione del tuo Sangue, affinché purifichi l'anima mia.*
 
 ### Meditazione
 
-1 — La carità è l'essenza della perfezione cristiana,
-perchè solo la carità ha il potere di unire l’uomo a Dio, suo
-ulrimo fine. Ma da parte nostra — povere, misere creature
-che Dio vuole inalzare fino all'unione con lui — la carità
-è proprio l’ultimo fondamento della vita spirituale? No,
-esiste qualche cosa di ancora più profondo, che è per
-così dire, il fondamento della carità ed è l'umiltà. L'umiltà
-sta alla carità, come le fondamenta stanno all'edificio.
-Scavare le fondamenta di una casa non è ancora costruire
-la casa, tuttavia è il lavoro preliminare, indispensabile:
-la condizione sine qua mon. Quanto più le fondamenta
-saranno profonde, ben piantate, tanto più l’edificio potrà
-ergersi in altezza e darà garanzia di solidità. Solo lo stolto,
-«fabbrica la sua casa sulla sabbia » con l'inevitabile conseguenza di vederla ben presto crollare, ma l’uomo saggio
-si fabbrica «la casa sulla roccia » (Mt.7,24-26) e allora,
-malgrado l’imperversare delle acque e dei venti, la casa
-non crolla, appunto perchè le sue fondamenta sono solidamente piantate.
+**1** — La confessione è il sacramento del Sangue di Cristo, di cui Dio — secondo l'espressivo detto di S. Caterina da Siena — « ci ha eta per lavare la faccia delle anime nostre dalla lebbra del peccato ». Se materia necessaria di questo sacramento sono solo i peccati mortali, i peccati veniali ne sono materia sufficiente e tutta la tradizione cattolica insiste sull'opportunità di ricorrere alla confessione frequente anche per i soli peccati veniali. Ma chi, seguendo tale direttiva, pratica la confessione settimanale, deve vigilare attentamente affinché, lungi dal diventare abitudine meccanica, il suo atto sia un vero atto vitale, che lo renda capace di approfittare in pieno di tutte le grazie offerte da questo sacramento.
 
-L'umiltà è la roccia solida e sicura su cui ogni anima
-cristiana deve inalzare l’edificio della sua vita spirituale.
-« Se volete che il vostro edificio s'inalzi sopra buon fondamento — insegna S. Teresa di Gesù alle sue figlie —
-procurate di essere le ultime di tutte [ossia esercitatevi
-molto nell’umiltà] e verrete così a porre sì forti pietre da
-impedire che il vostro castello rovini » (cfr. M. VII, 4,8).
+« Non disprezzate il Sangue di Cristo! », esclama S. Caterina da Siena, e certamente chi lo sprezza non si accosterà con leggerezza alla confessione. A tale scopo è utile riflettere che l'assoluzione è appunto l'effusione del Sangue prezioso che, inondando e penetrando l'anima, la purifica dal peccato, le restituisce la grazia santificante se l'ha perduta e l'aumenta se già la possiede. Questa remissione del peccato e produzione della grazia è il frutto dell'azione di Gesù, espressa dalla formula che il sacerdote dice in Suo nome: « Io ti assolvo... ». In tale momento è Gesù che agisce nell'anima sia rimettendo il peccato, sia producendo o aumentando la grazia. E giova ricordare che l'efficacia dell'assoluzione non si limita solo ai peccati commessi, bensì si estende anche all'avvenire, premuniendola contro le ricadute, offrendole la forza per resistere alle tentazioni e per attuare i buoni propositi, e ciò mediante la grazia sacramentale. In questo senso il Sangue di Cristo non è solo medicina per il passato, ma è anche preservativo e corroborante per l'avvenire: l'anima, che vi viene immersa come in un bagno salutare, ne ricava nuovo vigore e un po' alla volta vede estinguersi in lei la forza delle passioni.
 
-L’umiltà scava le fondamenta della carità, nel senso
+Da qui l'importanza della confessione frequente per un'anima che, anelando all'unione con Dio, deve necessariamente aspirare ad una purificazione totale.
 
-
-che vuota l’anima dalla superbia, vuota l’anima dall’amore sregolato di sè e della propria eccellenza per far posto all’amore di Dio e del prossimo. Quanto
-più l'umiltà sbarazza l’anima dalle vane ed orgogliose
-pretese dell'io, tanto più fa posto a Dio. E « quando alfine [l'uomo spirituale] giungerà a ridursi al nulla, cioè
-a stabilirsi in somma umiltà, allora sì che potrà dirsi avvenuta ormai l'unione spirituale tra l’anima sua e Dio»
-(G.C.S.1I,7, 11).
-
-
-2 — L’anima che desidera pervenire alle sublimi altezze dell'unione con Dio, deve battere la via di una pro-
-fonda umiltà, perchè, come il Maestro divino insegna,
-soltanto «chi si umilia sarà esaltato » (Le. 18, 14).
-
-Più alto è l’ideale di santità cui tu aspiri, più eccelsa
-la meta cui tendi e tanto più devi scendere o meglio devi
-scavare in te stesso il fertile abisso dell’umiltà. « Abyssus
-abyssum invocat » (Sal. 41,8), l’abisso dell’umiltà invoca
-l’abisso della Misericordia infinita, delle grazie e dei doni
-divini; infatti « Dio resiste ai superbi e dà la grazia agli
-umili » (7 Pie. 5, 5). Umiliati dunque sotto la mano potente di Dio, riconosci sinceramente il tuo nulla, prendi
-coscienza della tua miseria e se vuoi gloriarti, Fassa _
-come S. Paolo — solo delle tue infermità, perchè proprio
-nella tua debolezza, umilmente riconosciuta, opera e trionfa la grazia e la virtù divina (cfr. 77 Cor. 12, 9). Se anche
-tu appartieni alla schiera di quelle anime buone, sinceramente desiderose di avanzare nella via della perfezione,
-ma che contano troppo sulle proprie forze e iniziative
-
-ersonali, potrai con molto vantaggio applicare a te stesso
-il prezioso ammonimento che S, Teresa del B. G. dava
-ad una novizia: «Vedo bene che sbaglia strada e non
-arriverà mai alla fine del suo viaggio, ‘chè vorrebbe
-salire un monte, mentre Dio vuol farglielo discendere...
-Gesù stesso s’incaricherà di riempire l’anima sua, a mano
-a mano che ella la vuoterà delle sue imperfezioni » (CR.).
-
-Il sublime ideale dell'unione con Dio supera totalmente le nostre capacità di deboli creature; se possiamo aspi-
-rarvi, non è perchè contiamo di giungervi attraverso i
-nostri sforzi e le nostre iniziative, bensì perchè confidiamo che Dio stesso, secondo la sua promessa, verrà a
-prenderci per mano. Ma Dio non prende per mano l’anima superba, Egli si china solo sugli umili e quanto
-iù trova un'anima umile, tanto più l’inalza fino a sè.
-’umiltà scava nell'anima la capacità di ricevere l’abbondanza dei doni divini.
+**2** — Quando, al tribunale della penitenza, un'anima non ha da sottoporre che dei peccati veniali, non è il caso che si preoccupi dell'integrità dell'accusa — come invece è richiesto per i peccati mortali — ossia non è necessario che enumeri tutte le venialità che le sono sfuggite nella settimana, ma è molto più profittevole che fermi la sua attenzione anzitutto su quelle deliberate, poi su quelle semideliberate, anche se fossero semplici imperfezioni, e ne denunci non solo l'aspetto esterno, ma anche il motivo interno. Benché ciò non sia di per sé necessario per la validità della confessione, è certo che quanto più l'accusa mette a nudo la radice del male, tanto più l'anima ne ricaverà vantaggio e per l'atto di umiltà compiuto e per l'impulso ad un più profondo pentimento e ad un più vivo desiderio di correggersi, che logicamente deriva dalla considerazione dei motivi ben poco nobili da cui, in genere, dipendono le nostre mancanze. Inoltre, una simile accusa darà modo al confessore di conoscere meglio i punti deboli del penitente e quindi di suggerirgli i rimedi più adatti, cosa particolarmente importante quando alla confessione è connessa la direzione. Ma più ancora che dell'accusa, l'anima deve preoccuparsi del dolore dei propri peccati in quanto sono offesa di Dio, Bontà infinita; che sia un dolore ex amore, proveniente dall'amore, ossia il pentimento del figlio il quale, più che pensare alla sua vergogna e ai castighi meritati, si affligge per il dispiacere recato ad un Padre che tanto lo ama e di cui deve ricambiare l'amore. Il dolore è talmente necessario per la validità del sacramento che, se mancasse, l'assoluzione sarebbe nulla e, d'altra parte, quanto più è perfetto il dolore, tanto più l'assoluzione distrugge non solo il peccato, ma anche la pena temporale da esso contratta. Quanto più il penitente porta alla confessione un cuore contrito, tanto più il Sangue di Gesù lo purifica, lo rinnova, lo arricchisce di forza, di carità, di grazia.
 
 ### Colloquio
 
-«O mio Dio, Tu mi fai comprendere fino a che punto
-devo scendere perchè il mio cuore possa servirti di dimora: devo farmi sì povera da non sapere ove posare il
-capo. Il mio cuore non è interamente vuoto di me stessa e
-per questo Tu mi ordini di scendere. Oh, io voglio scendere molto in basso, perchè Tu possa riposare nel mio
-cuore la tua testa divina e quivi sentirti amato e compreso!
-O dolce Ospite divino, Tu conosci la mia miseria e proprio per questo vieni in me con l’intenzione di trovarvi
-una tenda vuota, un cuore totalmente vuoto di sè. Tu non
-mi chiedi altro » (cfr. T.B.G. Lt. 116 e 144).
+« Gesù dolce, Gesù amore! Per vestire noi della vita della grazia, ti sei spogliato della vita del corpo tuo; sul legno della santissima croce hai disteso il tuo corpo, sì che sembra un agnello svenato che da ogni parte perde sangue. E nel Sangue ci hai ricreato alla vita della grazia.
 
-O Signore, aiutami a scavare nella povera anima mia
-quell’ abisso di umiltà che attira l'abisso delle tue misericordie infinite. Aiutami a scendere, mentre il mio orgoglio
-ama tanto salire. Aiutami a riconoscere, a confessare umilmente il mio nulla e la mia debolezza, mentre il mio or-
-goglio ama tanto riputarsi qualche cosa di grande. Aiutami
-a gloriarmi delle mie infermità, mentre il mio orgoglio
-tende continuamente a.gloriarsi di ciò che non è mio, ma
-è puro dono tuo. Dio mio, com'è vero che la ia batte
-il cammino opposto della natura! Dammi la forza di intraprendere con coraggio questo cammino, di andare
-in te, o Signore, perchè so che sei sempre pronto a sorreggere il debole che a te ricorre e a te si affida; perchè so
-che, se la mia superbia è grande, la tua misericordia è
+« Gesù dolce, l'anima mia desidera ardentemente di vedersi tutta bagnata ed annegata nel Sangue tuo... Perché nel Sangue trovo la fonte della misericordia; nel Sangue la clemenza; nel Sangue il fuoco; nel Sangue la pietà; nel Sangue è fatta giustizia delle colpe nostre; nel Sangue è saziata la misericordia; nel Sangue si dissolve la durezza nostra; nel Sangue le cose amare divengono dolci e i grandi pesi leggeri. E poiché, o Cristo, nel Sangue tuo maturano le virtù, inebria e annega nel Sangue l'anima mia, affinché si vesta delle vere e reali virtù » (S. Caterina da Siena).
 
+O Gesù, se una sola goccia del tuo preziosissimo Sangue ha il potere di cancellare tutti i delitti del mondo, che cosa non potrà operarsi in me quando, al momento dell'assoluzione, Tu l'effondi con tanta abbondanza sulla povera anima mia? O Gesù, ravviva la mia fede e fammi penetrare a fondo il valore immenso del sacramento del tuo Sangue. È solo il Sangue tuo che mi lava dai peccati, che mi purifica dalle impurità, che risana e vivifica l'anima mia. Oh, fa' che questo lavacro salutare tutto penetri il mio essere e tutto lo rinnovi nella tua grazia, nel tuo amore!
 
-infinita e la tua onnipotenza è invincibile; perchè so che
-se «qualcuno è sfinito e bisognoso di aiuto, mancante di
-forze e abbondante di miseria, non appena il tuo occhio
-si posa su lui, Tu lo sollevi dalla sua abbiezione e miseria,
-e rialzi il suo capo » (cfr. Ecli. 11, 11-13). i
-
-O Signore, chi sarà «abbondante di miseria » più di
-me, che ancora non ho vinto il mio orgoglio? E allora chi
-più di me avrà bisogno del tuo soccorso?
+Per i meriti della tua Passione, concedimi, o Signore, di portare sempre al tribunale della penitenza un cuore veramente umile e contrito, un dolore sempre più perfetto delle mie colpe, una detestazione sempre più sincera e profonda di tutto ciò che è offesa tua, Dio mio. Solo così il tuo Sangue prezioso, non trovando in me alcun attacco al peccato, potrà penetrare interamente l'anima mia, potrà tutta mondarla, tutta rinnovarla, tutta vivificarla. O Gesù, fa' che il tuo Sangue porti in me tutto il suo frutto!

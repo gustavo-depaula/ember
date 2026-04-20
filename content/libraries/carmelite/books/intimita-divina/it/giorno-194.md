@@ -1,76 +1,21 @@
-## 194 — FESTA DEL «CORPUS DOMINI»
-*Giovedì dopo la I Dom. dopo Pentecoste*
+## XXV — LA VIA DELLA CROCE
 
-### Presenza di Dio
-
-«O vivo Pan che ascondi il mio Tesoro, innanzi a te, prostrandomi, t'adoro!» (G.C. Poesie).
+**Presenza di Dio.** — *O Spirito Santo, istruiscimi sul valore della sofferenza, insegnami a stimarla e ad amarla come mezzo di santificazione.*
 
 ### Meditazione
 
-1. — Di tappa in tappa, attraverso l'anno liturgico,
-dalla considerazione dei misteri della vita di Gesù siamo
-saliti fino alla contemplazione della SS.ma Trinità, di cui
-abbiamo celebrato la festa domenica scorsa. Gesù, nostro
-Mediatore, nostra via, ci ha preso per mano e ci ha por
-tato alla Trinità ed oggi sembra che la Trinità stessa’ voglia ricondurci a Gesù, considerato nella sua Eucaristia.
-«Nessuno viene al Padre se non per mezzo mio» (Gv,
-14, 6), ha detto Gesù ed ha soggiunto: « Nessuno può
-venire a me se non vi è attratto dal Padre» (ivi, 6, 44).
-E' questo l'itinerario dell'anima cristiana: da Gesù al Padre, alla Trinità; dalla Trinità, dal Padre a Gesù; Gesù
-ci porta al Padre, il Padre ci attira a Gesù. Il cristiano non
-può assolutamente fare a meno di Cristo; Egli è nel senso
-più stretto della parola il nostro Pontefice, Colui che si
-è fatto ponte fra Dio e noi. Chiuso il ciclo liturgico in
-cui si commemorano i misteri ‘del Salvatore, la Chiesa,
-quale buona madre, ben sapendo che la nostra vita spirituale non può sussistere senza Gesù, ci porta a lui,
-vivo e vero nel SS.mo Sacramento dell'altare. La solennità del «Corpus Domini» non è il semplice ricordo di
-un fatto storicamente avvenuto circa duemila anni or sono,
-la sera dell'ultima Cena, ma è la festa di un fatto attuale,
-di una realtà sempre presente e sempre viva in mezzo a
-noi, per cui possiamo ben dire che Gesù non ci ha «lasciati orfani», ma ha voluto rimanere stabilmente con noi
-nell’integrità della sua Persona, con tutta la sua Umanità,
-con tutta la sua Divinità. Nell’Ostia consacrata abbiamo
-il nostro Dio (BR.). Sì, nell’Eucaristia è permanentemente l’Emanuele, il Dio con noi.
+**1** — Bisogna essere ben convinti che, se lo Spirito Santo lavora nelle anime nostre per assimilarci a Cristo, non può farlo che aprendo per noi la via della croce. Gesù è Gesù Crocifisso: non vi può essere quindi conformità con Lui, se non mediante la croce; e non si entrerà mai nelle profondità della vita spirituale se non entrando nel mistero della croce. S. Teresa di Gesù insegna che anche le più alte grazie contemplative vengono date alle anime proprio per renderle più capaci di portare la croce. «Siccome Dio — dice la Santa — non può farci maggiore favore che concederci una vita conforme a quella del suo amatissimo Figliuolo, così tengo per certo che lo scopo di queste grazie sia di fortificare la nostra debolezza *onde sappiamo imitarlo nel molto patire* » *(M.* VII, 4, 4). Sì, più di tutte le grazie mistiche vale ed importa la conformità a Gesù Crocifisso! Tutta la vita spirituale è dominata dalla croce e, come la croce sta nel centro della storia del mondo, così sta nel centro della storia di ogni anima. La croce ci ha dato la vita e la croce imprimerà in noi i tratti della più perfetta somiglianza a Gesù: quanto più parteciperemo della sua croce, tanto più saremo simili a Lui e coopereremo all'opera della Redenzione.
 
-La Messa del Corpus Domini, benchè non ne tratti direttamente, è tutta piena di allusione. Vi allude l’Introito,
-che ricorda il miele di cui Dio nutrì il suo popolo nel deserto in modo miracoloso e tuttavia, solo in figura del «Pane
-vivo e vivificatore» (Lauda Sion) dell’Eucaristia; ne parla
-l’Epistola, riportando le parole di S. Paolo sull’istituzione del Sacramento, quando Gesù, «dopo aver reso grazie a
-Dio, spezzò e disse: Prendete e mangiate; questo è il mio Corpo»; lo canta il Graduale:
-«La mia Carne è vero cibo ed il mio Sangue è vera bevanda»; poi, riprendendo una frase della Sequenza,
-bisogna ritornare alle parole stesse di Gesù che, opportunamente, sono riportate nel Vangelo odierno: «Chi
-mangia la mia Carne e beve il mio Sangue vive in me ed
-io in lui» (Gv. 6, 57). Gesù si dà a noi in cibo per assimilarci a lui, per farci vivere in lui, come
-Egli vive nel Padre. L’Eucaristia è il sacramento dell’unione e nello stesso tempo è la prova
-più chiara e convincente che Dio ci chiama e ci sollecita
-all’unione intima con lui.
+La necessità della croce per giungere alla santità è evidente: non si può abbracciare, sempre e in ogni circostanza, la volontà di Dio, rinnegare la volontà propria, non ci si può conformare in tutto a Gesù «il quale in questa vita non ebbe e non cercò altra soddisfazione che adempiere la volontà del Padre» *(G.C.* S. I, 13, 3), senza rinunciare alle proprie soddisfazioni egoistiche. E tutto questo significa: distacco, croce, sacrificio, rinnegamento di se stessi. Significa mettersi sulla via indicataci da Gesù stesso: «Se qualcuno vuol venire dietro a me, rinunzi a se stesso, prenda la sua croce e mi segua» *(Mt.* 16, 24). Ed è proprio su questa via che lo Spirito Santo ci sospinge e c'invita. Quando ci sorprendiamo in cerca delle cose più facili, più comode, più onorevoli, quando ci accorgiamo di concedere soddisfazioni al nostro amor proprio, alla nostra vanagloria, o ci vediamo attaccati alla nostra volontà, diciamo pure a noi stessi che tutto ciò è ben lontano dall'essere ispirato dallo Spirito Santo e che, anzi, ostacola la sua azione in noi.
+
+**2** — Esercitando con coraggio la rinuncia, ci mettiamo sulla via della conformità a Gesù Crocifisso, ma anche qui le nostre iniziative sono impari al fine da raggiungere: le rinunce e le mortificazioni da noi intraprese sono insufficienti a spogliarci fino in fondo dell'uomo vecchio, onde rivestirci di Cristo e di Cristo Crocifisso. Ecco perché lo Spirito Santo, dopo averci sospinto sulla via della croce con le sue ispirazioni tendenti a farci abbracciare per amor di Dio le cose aspre e penose alla natura, s'incarica Egli stesso di completare la nostra purificazione. Egli fa questo sottoponendoci a prove esteriori ed interiori. Egli — dice San Giovanni della Croce — con la sua «amorosa fiamma divina... ferisce nell'anima distruggendone e consumandone le imperfezioni e i mali abiti: con questa operazione, lo Spirito Santo la dispone alla debita unione e trasformazione di amore in Dio» *(G.C.* F. 1, 19). Non possiamo quindi pensare che l'azione dello Spirito Santo in noi sia sempre consolante, tutt'altro! E, del resto, la sofferenza è necessaria non solo per la nostra purificazione, ma anche per associarci all'opera redentrice di Gesù: quanto più ci inoltremo nella via della croce, tanto più santificheremo noi stessi e potremo esercitare nella Chiesa un fecondo apostolato. È dunque evidente: lo Spirito Santo per santificarci non può condurci per altra via che per quella della croce. E noi dobbiamo assecondare la sua direzione cercando anzitutto di abbracciare di buon cuore quanto di amaro e di penoso incontriamo nella nostra vita di ogni giorno. Spesso si trascura la croce delle difficoltà quotidiane per amare una lontana che forse non verrà mai; non dobbiamo andare a cercare la nostra croce in sofferenze straordinarie che ben raramente e forse mai incontreremo, ma nel dovere, nella vita, nelle difficoltà, nei sacrifici di ogni giorno, di ogni momento; abbiamo qui ricchezze inesauribili, basta saperle scoprire con la luce della fede. Lo Spirito Santo ci aiuta a riconoscere e ci spinge ad abbracciare questa croce di ogni giorno: abbracciare, e non subire, il che significa *accettare* e *offrire* attivamente aderendo con tutto il cuore: «Sì, lo voglio, anche se mi sembra di restarne oppresso!».
 
 ### Colloquio
 
-«O Dio, O Creatore, o Spirito di novità che colmi le
-tue creature di doni spirituali sempre nuovi, Tu concedi
-gi tuoi eletti il dono che sempre si rinnova: il Corpo e il
-Sangue di Gesù Cristo!
+«O Spirito di verità, fammi conoscere il tuo Verbo, insegnami a ricordarmi tutto ciò ch'Egli ha detto; illuminami, guidami, rendimi conforme a Gesù, un '*alter Christus*' comunicandomi le sue virtù, soprattutto la sua pazienza, la sua umiltà, la sua obbedienza; rendimi partecipe della sua opera redentrice, facendomi intendere ed amare la croce.
 
-«O Gesù, Tu hai istituito questo Sacramento, mosso
-non da timore, nè da desiderio d’alcun utile che a te po
-tesse pervenire, ma unicamente mosso da un amore che
-non ha nome, se non questo: amore senza misura. Tu hai
-istituito questo Sacramento perchè il tuo amore oltrepa:
-tutte le parole. Ardendo di amore per noi, hai voluto donarti a noi e ti sei posto là dentro, nell'Ostia consacrata,
-tutto e per sempre fino alla consumazione dei secoli. E
-questo non l'hai fatto solo per memoria della tua morte
-che è la nostra salute, ma l'hai fatto anche per rimanere
-tutto con noi, sempre con noi.
+«O Spirito Santo, mi metto dinanzi a te come un piccolo frutto acerbo che deve maturare al sole, come una pagliuzza che dev'essere bruciata dal fuoco, come una goccia di rugiada che dev'essere assorbita dal sole, come una bambina ignorante che dev'essere istruita. O Spirito Santo, che t'effondi nell'anima piccola, povera, umile, voglio presentarmi a te in questo atteggiamento e con queste disposizioni t'invoco: '*Veni, Spiritus Sancte, sanctifica me'*. Ho tanto desiderio della santità! Santificami Tu, fammi gran santa, presto santa, senza che io lo sappia, nel nascondimento della mia vita quotidiana.
 
-«Anima mia, se vuoi entrare nelle profondità di questo mistero, occorre che tu abbia. Ja vista resa acuta dall'amore! Occorre che tu vegga e sappia! Considera l’ultima Cena, considera Gesù Ciisto consapevole di doversi
-ben presto separare col corpo dall'umanità, considera il
-Suo amore per cui, volendo congiungersi per sempre a
-noi, istituì questo Sacramento, onde possa essere corporalmente e per sempre unito all'umanità. O amore inestinguibile! Amore veramente affocato fu questo, o amore di
-Cristo, o amore per gli uomini! O Gesù, già avevi davanti
-agli occhi la morte che ti attendeva, i dolori ed i tormenti
-atroci della Passione già scavavano il tuo Cuore e nondimeno volesti offrirti ai tuoi crocifissori e far sì che, mediante questo Sacramento, essi ti potessero sempre avere
-come dono d'eternità, o Tu, le cui delizie sono d'essere
-coi figli degli uomini!
+«Voglio gettarmi in te, o Spirito Santo, Fuoco divino, perché Tu compia la mia purificazione, distrugga il mio miserabile *io* e mi trasformi tutta in amore. Perciò ti supplico di *sopravvenire in me* e di dirigermi nel tuo beneplacito: '*Dirige actos nostros in beneplacito tuo*'.
 
-«O anima mia, come non vorrai immergerti tutta te stessa nell’amore di Colui che mai si dimenticò di noi e desidera a noi unirsi per sempre?» (cfr. S. Angela da Foligno).
+«O Fuoco consumatore, Amore divino in persona, infiammami, bruciami, consumami, distruggi il mio io, trasformami tutta in amore, fammi giungere al nulla, per possedere il Tutto, fammi pervenire alla vetta del «Monte» dove abita solo la gloria di Dio, dove tutto è «pace e gaudio» dello Spirito Santo! Ch'io raggiunga qui in terra — attraverso la sofferenza e l'amorosa contemplazione — l'unione più intima con la SS.ma Trinità, in attesa di volare a contemplarla svelatamente lassù in cielo nella pace, nella gioia, nella sicurezza dell'eterno convito» (cfr. Suor Carmela d. Spirito S. c. s).

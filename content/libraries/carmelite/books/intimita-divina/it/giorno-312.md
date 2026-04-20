@@ -1,105 +1,21 @@
-## 312 — COLLABORATORI DI DIO
+## XX — BEATI I MITI
 
-### Presenza di Dio
-
-Signore, prendimi affinchè sia degno di collaborare con te alla diffusione del tuo regno.
+**Presenza di Dio.** — *O Spirito Santo, infondi sempre più nel mio cuore l'olio della pietà e della dolcezza.*
 
 ### Meditazione
 
-1 — Parlando del lavoro apostolico S. Paolo dice:
-«Dei sumus adjutores» (I Cor. 3, 9), siamo cooperatori,
-collaboratori di Dio.
+**1** — Lo Spirito Santo che, mediante il dono della fortezza, rinvigorisce il nostro cuore, mediante il dono della pietà vuole renderlo mite e soave. Noi stessi, esercitando la virtù della dolcezza, facciamo il possibile — e dobbiamo farlo a tutti i costi — per acquistare quella mansuetudine di cuore tanto raccomandata da Gesù e che, come Gesù stesso ha detto, ha per frutto la pace interiore: «Imparate da me che sono mansueto ed umile di cuore e troverete riposo alle anime vostre» *(Mt.* 11, 29). Tuttavia non riusciamo ancora a stabilirci in una dolcezza abituale, in una pace continua, tanto è vero che di fronte a casi imprevisti, a contraddizioni, a torti, ad offese, la dolcezza vien meno e la pace del cuore svanisce, almeno per qualche istante. Queste esperienze quotidiane, benché dolorose ed umilianti, sono salutari, giacché, molto meglio di qualsiasi ragionamento, ci fanno comprendere l'insufficienza dei nostri sforzi e l'estrema necessità dell'aiuto divino, aiuto che Dio stesso ha già stabilito di darci infondendo in noi il dono della pietà. Mettendo in atto questo dono lo Spirito Santo spegnerà in noi tutti i residui di risentimento verso il prossimo, finirà di sciogliere la nostra durezza, prenderà, per dir così, il nostro cuore nelle sue mani, per stabilirlo nella mansuetudine e nella pace abituale. Finché questo povero cuore rimane in mano nostra, non riusciremo mai ad esserne totalmente padroni; ma anche se ogni giorno, nonostante i propositi tante volte rinnovati, dovessimo registrare delle mancanze di dolcezza, non dovremmo per questo desistere dall'impresa, bensì riprendere di buon volere i nostri sforzi e nello stesso tempo invocare con umile insistenza l'aiuto divino: «*Veni, Sancte Spiritus, flecte quod est rigidum, fove quod est frigidum, rege quod est devium*» (Seq.). Vieni, Spirito Santo, piega e vinci la mia durezza, riscalda la mia freddezza, reggi e raddrizza ciò che mi fa deviare dalla mansuetudine.
 
-L'apostolato non è quindi un'attività personale, frutto
-più o meno pregevole delle proprie risorse ed iniziative;
-non è un'attività che si può svolgere secondo le proprie
-vedute e tanto meno con le proprie forze. Qualsiasi forma di apostolato è collaborazione all’opera unica di re-
-denzione e di santificazione che Dio svolge attraverso i
-secoli nel mondo. Dio solo può redimere e santificare,
-Egli che possiede la santità in proprio, Egli che è il creatore e la sorgente della grazia. « Uno è il Mediatore fra
-Dio e gli uomini » (I Tim. 2, 5), uno solo è il Redentore
-e il Santificatore: Gesù, Verbo Incarnato; tutti gli altri,
-anche i più grandi santi e perfino la Madonna, sono apostoli solo in quanto collaborano all'opera di Cristo. Noi,
-come dice S. Paolo, non facciamo che prestare a Dio la
-nostra attività: «Io ho piantato, Apollo ha innaffiato, ma
-è Dio che ha fatto crescere; di modo che nulla è il piantatore, nulla l'innaffiatore, ma tutto è Dio che fa cresce-
-re» (I Cor. 3, 6-7).
+**2** — La beatitudine che corrisponde al dono della pietà è il premio promesso alle anime che, mediante i loro sforzi e l'aiuto dello Spirito Santo, hanno raggiunto la mansuetudine perfetta: «Beati i mansueti, perché essi possederanno la terra» *(Mt.* 5, 4). Quale terra? Anzitutto quella del proprio cuore, dice S. Tommaso, «la mansuetudine rende l'uomo padrone di sé» *(IIa*, *IIae*, q. 157, a. 4). Senza questo dominio interiore di tutti i propri impulsi — movimenti di animosità, di antipatia, di sdegno, di collera, ecc. — si potrà rivestire la propria condotta di un'apparenza di dolcezza, come fanno i mondani per opportunismo, ma non si potrà avere quella mansuetudine profonda che regge imperturbata di fronte agli urti della vita. Del resto, la piena padronanza di sé è proprio quella che — come ha detto Gesù — ci permetterà di possedere la terra nel senso più vasto e più bello, ossia di possedere il cuore degli uomini. Se vogliamo giovare ai nostri fratelli e conquìdere i loro cuori per orientarli al bene, alla verità, a Dio, dobbiamo servirci, non già della forza e dell'imposizione che inasprisce e provoca reazioni contrarie, ma della mansuetudine, della pazienza, della longanimità. È il metodo usato da Gesù la cui missione è stata annunciata da lui stesso come un'opera di dolcezza: «Lo Spirito del Signore è sopra di me; per questo Egli mi ha unto per portare la buona novella ai poveri; mi ha mandato a guarire i contriti di cuore... a rimettere in libertà gli oppressi» *(Lc.* 4, 18 e 19).
 
-L'opera dell’agricoltore è certamente necessaria per
-far fruttificare il campo, tuttavia non è sufficiente, ma
-occorre la pioggia e il sole, occorre la stagione propizia.
-Parimenti, dato il piano stabilito da Dio per la salvezza
-degli uomini, l’attività dell’ apostolo è necessaria, però
-non è sufficiente, Dio solo può dare l’incremento. Come
-Dio solo può far splendere il sole o mandare la pioggia
-per fecondare il campo materiale, così Dio solo può dare la grazia per fecondare il campo dell'apostolato. S. Paolo
-era talmente convinto di questa verità che, rivolgendosi
-ai Corinti, esclamava: «Dei agricultura estis, Dei aedificatio estis» (I Cor. 3, 9); benchè egli per il primo li aves-
-se generati alla fede non dice: siete miei figli, siete mio
-campo, ma «siete campo di Dio, siete edificio di Dio ».
-L’apostolato non è opera umana, ma opera divina, cui
-l'uomo presta la sua collaborazione come umile strumento.
+Anche a noi è stato dato lo «Spirito del Signore», lo Spirito Santo, e anche i nostri cuori sono stati unti con l'olio della pietà, della dolcezza affinché potessimo continuare nel mondo la missione di Gesù. A questo Egli c'invita dicendoci: «Andate: ecco io vi mando come agnelli in mezzo ai lupi» *(Lc.* 10, 3) e ci ordina, come ordinò agli Apostoli, di andare senza bastone o arma di difesa, pur sapendo che incontreremo opposizioni, lotte, nemici.
 
-
-2 — Se l’apostolo è strumento di Dio, non è però
-uno strumento materiale, come lo è ad esempio la penna
-nelle mani dello scrittore, ma è strumento vivo, personale, fornito di intelligenza e volontà e che perciò deve
-mettersi volontariamente a disposizione dell’Artista divino
-cercando di armonizzare, o meglio di sincronizzare il suo
-modo di pensare, di volere, di agire, col modo divino, ossia con i metodi e i voleri divini. Ognuno di noi sarà apo-
-apostolo nella misura in cui sarà strumento docile nelle mani
-di Dio, in modo che Egli possa servirsi di lui come vuole.
-
-Anche qui dobbiamo fissare lo sguardo su Gesù; la
-sua Umanità fu lo strumento di cui il Verbo si servì per
-la redenzione del genere umano. L'Umanità di Gesù non
-ha personalità propria; la sua volontà, la sua intelligenza,
-i suoi affetti, il suo corpo sono strumenti del Verbo, di
-cui Egli usa con pienissima libertà e attraverso i quali
-compie la sua opera di amore per la salvezza degli uomini.
-
-In maniera analoga l’apostolo — benchè abbia una
-personalità propria che rimarrà sempre distinta da Dio,
-anche nei più alti stati di unione mistica — deve darsi
-a Dio come docilissimo strumento, come una pura capacità messa totalmente a sua disposizione. Tutto ciò che
-l’apostolo ha ricevuto da Dio — intelligenza, volontà, doti
-naturali e soprannaturali — deve liberamente offrirlo a
-lui, affinchè Egli se ne serva come vuole per la diffusione
-del suo regno. Che Dio lo adoperi per opere grandi e
-vistose, o per opere umili e nascoste, che lo usi per annunziare in pubblico la sua parola o per illuminare nel segreto le anime, che lo impieghi in un'attività intensa o
-lo immoli nella preghiera e nel silenzio, poco importa,
-purchè tutte le sue forze e tutta la sua vita siano poste a
-servizio delle anime,
-
-Come l’opera della santificazione personale, così anche l’opera della santificazione altrui, ossia l’apostolato, si
-risolve in un problema di docilità, di disponibilità alla
-grazia, ai voleri di Dio; conseguenza, si risolve in un
-problema di morte a se stessi, a tutto ciò che nel proprio pensiero, nella propria volontà e condotta può mi-
-nimamente contrastare col pensiero, con la volontà, con
-la condotta di Dio.
+Come Gesù, l'Agnello di Dio, ha conquistato il mondo con la mansuetudine, così noi conquisteremo il cuore dei nostri fratelli a misura che, dominando noi stessi, diventeremo agnelli di dolcezza, disposti come lui a soffrire piuttosto che imporci e difenderci con la forza.
 
 ### Colloquio
 
-«Dio mio, so benissimo che Tu non hai bisogno di
-nessuno per compiere la tua opera di santificazione; e
-tuttavia vuoi essere aiutato nella divina cultura delle anime, nel medesimo modo che permetti ad un abile giar-
-diniere di coltivare delle piante delicate e rare, pur riserbando per te la cura di fecondarle. Oh, quante anime
-arriverebbero ad una santità eminente, se fossero ben dirette fin dai loro primi passi!
+«O Gesù, Salvatore del mondo, in mezzo agli insulti, alle persecuzioni o alle sofferenze non minacciavi, non maledicevi, non ti difendevi, non ti vendicavi, non ti scusavi! Ti sputavano sulla faccia e Tu non la nascondevi, ti stiravano le mani e le braccia sulla croce e non le ritracevi, ma in tutto ti abbandonavi alla volontà dei tuoi carnefici per compiere l'opera della Redenzione. Questo è un mistero di misericordia infinita, ma è anche un esempio. Così, o Signore, Tu dai a noi esempi di mansuetudine e di pazienza nella tribolazione e nell'avversità; c'insegni a non rendere male per male, ma anzi a rendere bene per male.
 
-«Dio mio, l'onore più grande che Tu possa fare ad
-un'anima, non è già darle molto, ma chiederle molto. Perciò, quando mi dai da soffrire per la salvezza delle anime, mi tratti come i tuoi privilegiati! Non fu forse soffrendo e morendo che Tu pure hai redento il mondo?
-O Gesù, io aspiro alla felicità di sacrificare la mia vita
-per te, ma il martirio del cuore non è meno fecondo dell’effusione del sangue, e fin d’ora questo martirio è mio.
-Com'è bella, o Signore, la parte che mi hai riservata,
-parte degna di un apostolo!
+«Leggi adunque, o anima mia, leggi ancora in questo libro di vita che è Cristo Crocifisso! Leggivi l'infinita mansuetudine di Dio! Come puoi ancora protestare, mormorare contro le tribolazioni, contro chi ti fa soffrire, quando il tuo Dio si è immolato per te come mansuetissimo agnello?» (cfr. Beata Angela da Foligno).
 
-«O Signore, sì, desidero lavorare con te per la salute
-delle anime; non ho che l’unico giorno di questa vita per
-salvarle e darti così prova del mio amore. L’indomani di questo giorno sarà l’eternità; allora Tu mi renderai centuplicate le gioie che sacrifico per te.
-
-«Quanto è dolce, o Gesù, aiutarti coi nostri piccoli sacrifici a salvare le anime da te redente a mezzo del tuo
-Sangue e che, per non cadere nell’abisso, non attendono
-che il nostro soccorso.
-Come sarei felice se in punto di morte potessi avere
-un’anima da offrirti! Vi sarebbe un’anima strappata al
-fuoco dell’inferno e che ti benedirebbe per tutta l’eternità » (T.B.G. St. 5; Lt. 184, 171, 23).
+«O Spirito Santo, dammi un cuore semplice che non si ripieghi ad assaporare le proprie tristezze; un cuore magnanimo nel donarsi, facile alla compassione; un cuore fedele e generoso che non dimentichi alcun bene ricevuto e non serbi rancore per alcun male. Forma in me un cuore dolce e umile, pronto a perdonare, capace di sopportare soavemente tutte le contrarietà, un cuore che ami senza esigere di essere riamato, contento di scomparire in altri cuori sacrificandosi davanti al Padre celeste; un cuore grande ed indomabile così che nessuna ingratitudine lo possa chiudere e nessuna indifferenza lo possa stancare; un cuore tormentato dalla gloria di Gesù Cristo, ferito dal suo amore con una piaga che non rimargini se non in cielo» (cfr. P. Grandmaison S.J.).

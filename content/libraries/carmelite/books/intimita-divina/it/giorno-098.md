@@ -1,123 +1,29 @@
-## 98 — IL PECCATO
+## 22 — LA GRANDE LOTTA
 
-### Presenza di Dio
+*I domenica di Quaresima*
 
-— O Gesù crocifisso, fammi comprendere la grande malizia del peccato.
+**Presenza di Dio.** — *O Gesù, mi ritiro con te nel deserto; insegnami come devo lottare contro la triplice concupiscenza della carne, dell'orgoglio, dell'avarizia.*
 
 ### Meditazione
 
-1 — L'essenza della perfezione cristiana consiste nella
-unione con Dio mediante la carità. Ora, mentre la carità,
-conformando la nostra volontà alla volontà divina, ci unisce a Dio, il peccato — peccato grave — opponendosi di-
-rettamente alla volontà di Dio, produce l’effetto contrario.
-In altre parole, la carità è la forza che unisce l’uomo a Dio,
-il peccato è la forza che lo distacca da Dio. Il peccato grave
-è così il più grande nemico della vita spirituale, poichè non
-solo attenta ad essa, ma la distrugge nei suoi elementi costitutivi, carità e grazia. E questa distruzione, questa morte
-spirituale è appunto l'inevitabile conseguenza del peccato,
-atto con cui l’uomo si distacca volontariamente da Dio,
-unica fonte di vita, di carità, di grazia. Come non può
-vivere il ramo reciso dal tronco, così non può vivere l’anima separata da Dio.
+**1** — Oggi, iniziandosi il periodo strettamente quaresimale, la Chiesa ci invita a quella grande lotta, lotta contro il peccato, che deve condurci alla risurrezione pasquale. Il modello è Gesù, lui che, pur essendo esente dal fomite della concupiscenza, ha voluto *per noi* essere tentato dal demonio, onde « compatire le nostre debolezze » *(Ebr.* 4, 15).
 
-Se Dio, come causa di ogni essere, è sempre presente
-niell’anima del peccatore — nella stessa guisa in cui è presente în tutte le cose — però non vi è presente come Padre,
-come Ospite, come Trinità che si offre all'anima quale oggetto di conoscenza e di amore. Così l'anima, creata per
-essere il tempio della Trinità, si è resa volontariamente
-incapace di vivere in società con le Persone divine, si è
-sbarrata la via all’unione con Dio, ha, ‘per così dire,
-costretto Dio a rompere con lei ogni rapporto di amicizia. E tutto ciò perchè al Bene sommo ta preferito il
+Dopo quaranta giorni di rigoroso digiuno, mentre sente gli stimoli della fame, Gesù è tentato da Satana a mutare le pietre in pane. Non si può abbracciare un regime di seria penitenza o di mortificazione, senza subirne gli incomodi, ma è allora il momento di resistere alle voci insinuanti che invitano a maggior condiscendenza verso le esigenze fisiche, rispondendo con Gesù: « Non di solo pane vive l'uomo, ma di ogni parola che esce dalla bocca di Dio » (Vg.: *Mt.* 4, 1-11). La vita dell'uomo, assai più che dal nutrimento materiale, dipende dalla volontà di Dio; chi è convinto di ciò avrà il coraggio di sottoporsi a privazioni, confidando nella divina Provvidenza per il proprio sostentamento.
 
+Gesù poi viene tentato di orgoglio: « Se Tu sei il Figlio di Dio, gettati giù di qui... e gli angeli ti sosterranno sulle loro mani ». Un simile miracolo gli avrebbe attirato l'ammirazione e l'entusiasmo del popolo, ma Gesù sa che il Padre ha scelto per lui ben altra via: non trionfi, ma umiliazioni, croce, morte; Egli non vuole uscire da questa via e risolutamente respinge la superba proposta. Il mezzo migliore per vincere le tentazioni di orgoglio e di vanità, è scegliere espressamente quel che ci umilia e che ci fa scomparire agli occhi altrui.
 
-bene limitato e caduco di una misera creatura, di una
-soddisfazione egoistica, di un piacere terreno. Ecco la
-malizia del peccato che ripudia il dono divino, che tradisce il Creatore, il Padre, l’Amico. « Oh! perchè non
-comprendiamo che il peccato è una guerra aperta di tutti
-i nostri sensi e di tutte le nostre potenze contro il Signore, una gara universale a chi più inventa tradimenti
-contro il proprio Re? » (T.G. Es. 14, 2).
+Il demonio torna alla carica e tenta Gesù di avarizia: « Tutte queste cose io ti darò se, prostrandoti davanti a me, mi adorerai », ma Egli risponde: « Adora il Signore Dio tuo e servi lui solo! ». Chi ha il cuore fortemente ancorato in Dio non si lascia mai distogliere dal suo servizio per gli allettamenti e la cupidigia dei beni terreni. Ma, se manca questa forte adesione a Dio, quante volte la tentazione di avarizia riuscirà a far deviare anche coloro che dovrebbero, per particolare vocazione, « servire Dio solo »!
 
+**2** — Gesù è stato tentato perché lo ha voluto. Noi siamo tentati anche senza volerlo e anzi, molto spesso, contro la nostra volontà. La tentazione di Gesù è stata puramente esteriore, non trovando in lui alcuna risonanza; in noi, invece, la natura, ferita dalla triplice concupiscenza della carne, dell'orgoglio, dell'avarizia, non solo presenta facile presa agli assalti del demonio, ma è essa stessa fonte di molteplici tentazioni. È quindi impossibile per noi vivere senza tentazioni e la nostra virtù non consiste nell'essere esenti da esse, ma nel saper vincere. È questa una lotta che nessuno può sottrarsi, anzi Dio vuole che questa stessa lotta sia il pegno della vita eterna: « Beato l'uomo che sopporta la prova, perché quando sarà stato provato, riceverà la corona della vita » *(Giac.* 1, 12).
 
-2 — Se vogliamo comprendere meglio la malizia del
+Impariamo da Gesù come comportarci nelle tentazioni; anzitutto dobbiamo avere una grande fiducia in Dio. Gesù non ha voluto provvedere alla sua fame, non ha voluto imporsi agli uomini per mezzo di uno strepitoso miracolo, non ha accettato regni e ricchezze, perché, avendo piena fiducia nel Padre suo, tutto — la sua vita, la sua missione, la sua gloria — aveva totalmente affidato alle di lui cure. Chi ha piena fiducia in Dio ed è sicuro della sua divina Provvidenza, non si lascerà facilmente attirare dalle vane lusinghe del demonio, del mondo e della carne, poiché sa che Dio solo può dargli il vero bene, la vera felicità.
 
-cato mortale dobbiamo considerarne i disastrosi effetti.
-Un solo peccato ha in un istante trasformato Lucifero da
-angelo di luce in angelo delle tenebre, in eterno nemico di
-Dio. Un solo peccato ha destituito Adamo ed Eva dallo
-stato di grazia, di amicizia con Dio, privandoli di ogni
-dono soprannaturale e preternaturale, condannandoli alla
-morte, e con loro tutta l’umanità. Un solo peccato è
-bastato per scavare un abisso fra Dio e l'umanità, per
-precludere al genere umano ogni possibilità di unione
-con Dio.
-
-Ma, più ancora di tutto ciò, la Passione di Gesù ci dice
-quanto sia grande la malizia e la forza distruttrice del
-peccato. Le membra straziate del Cristo, la sua dolorosissima morte di croce, ci dicono che il peccato è una
-specie il deicidio. Gesù, il più bello dei figli degli uomini, a causa del peccato è diventato «l’abbietto, l’ultimo
-degli uomini, l’uomo dei dolori... Egli è stato trafitto per
-le nostre iniquità » in modo tale che « dalla pianta dei
-
-iedi fin al sommo della testa, non ha nulla di sano »
-Is. 53,3-551,6). Il to ha martoriato Cristo e l’ha
-ridotto alla morte, ma d’altra parte Cristo è andato alla
-passione e alla morte «perchè lo ha voluto » (ivi, 5357),
-è con la sua morte ha voluto distruggere il peccato
-
-e ristabilire l’uomo nell'amicizia divina.
-
-E Gesù, nostro Capo, invita noi suoi membri ad associarci alla sua opera distruttrice del peccato: distruggerlo
-in noi fin nelle sue ultime radici, ossia nelle cattive ten-
-
-
-denze, e distruggerlo anche negli altri membri. È questa
-una legge di solidarietà, perchè il male dell'uno è male
-dell'altro, perchè ogni peccato grava su tutto il mondo
-e tenta di spostarne l’asse da Dio. Perciò ogni cristiano —
-e tanto più ogni anima consacrata a Dio — deve sentirsi
-fortemente impegnato in questa lotta contro il peccato
-e deve combatterlo con i mezzi adatti: con la penitenza
-e con la preghiera espiatrice e più ancora con l’amore.
-L'amore di carità, quando è perfetto, distrugge il peccato
-pri del fuoco del purgatorio, anche senza alcuna mani-
-‘estazione esterna. Ecco perchè i santi hanno potuto convertire tante anime; Dio si è servito del fuoco della loro
-carità per distruggere il peccato nei peccatori.
+Ma in un altro senso dobbiamo coltivare la fiducia nel momento della tentazione. Se Dio permette che siamo tentati, non permette però che lo siamo al di sopra delle nostre forze e, accanto ad ogni tentazione, è sempre pronta una particolare grazia attuale sufficiente per vincerla. Perciò, anziché lasciarci turbare dalla violenza della lotta, guardiamo con fiducia la grazia che Dio ci offre e cerchiamo di farla nostra mediante la preghiera umile e fiduciosa.
 
 ### Colloquio
 
-«O mio Dio e mia vera Fortezza, donde viene che,
-codardi in tutto, siamo poi sì arditi nell’offenderti? Ecco
-a che servono le energie dei figli di Adamo! Se la ragione
-non fosse così cieca comprenderebbero che tutte le forze
-degli uomini sarebbero ancora insufficienti a dar ardire
-di prendere le armi contro il loro Creatore e continuare
-la guerra contro Colui che in un solo istante può precipitarli tutti negli abissi. Ma poichè in essi la ragione è
-cieca, vanno come pazzi incontro alla morte; immaginandosi di trovare la vita... O inaccessibile Sapienza! Occorre
-tutto l’affetto di cui Tu ami le creature tue per sopportare tanta pazzia, per aspettare la nostra guarigione e la-
-vorare a procurarcela con ogni sorta di mezzi e di rimedi.
+« Signore, Padre e Dio, vita per la quale tutti vivono e senza la quale tutte le cose sono da reputarsi come morte, non abbandonarmi nel pensiero maligno e nella superbia degli occhi; togli da me le concupiscenze e non darmi in preda all'animo irriverente e stolto; ma possiedi il mio cuore, affinché sempre pensi a te... Ora, o Redentore, ti prego, aiutami, affinché io non cada davanti ai miei avversari, preso nei lacci che tesero ai piedi miei, per incurvare l'anima mia; ma salvami, virtù della mia salute, affinché non porga motivo di riso ai tuoi nemici che ti odiano. Sorgi, o Signore Dio mio, mia fortezza; e saranno dispersi i tuoi nemici, e fuggiranno dalla tua faccia quelli che ti odiano.
 
-«Ecco un fatto che mi stupisce. Non si ha coraggio
-di superare nemmeno una leggera difficoltà; ci si crede
-incapaci, malgrado ogni nostra buona volontà, di liberarci
-da un’occasione e di sottrarci ad un pericolo in cui l’anima
-si rovina, eppure si ha il coraggio e l’ardire di levarci
-contro una Maestà così grande come la tua. Cos'è questo,
-mio Bene? Cos'è? Chi c’infonde tanto ardire?...
+« Come fonde la cera al fuoco, così si dileguino i peccatori dalla tua faccia; ed io mi nasconderò in te, e godrò con tutti i tuoi beni. Tu, o Signore Dio, Padre degli orfani e Tu, Madre dei pupilli, stendete le vostre ali, affinché sotto ad esse ci rifugiamo, per salvarci dai nemici » (S. Agostino).
 
-«Ah! Signore, che durezza, che follia! che cecità. Si
-
-
-LIL PECCATO VENIALE 89
-
-
-soffre se si perde un oggetto, un apo € poi si resta insensibili innanzi alla perdita di quell’Aquila reale che sei
-Tu, o Dio della gloria'.. Cos'è questo, dunque, cos'è?
-Non ci capisco più nulla. Guarisci, mio Dio, tanta demenza e cecità!... La perdita di tante anime mi affligge
-in tal modo che non posso più contenermi. O Signore,
-inalzando a te la mia voce, ti supplico di fornirmi di
-ialche mezzo per contribuire a guadagnarne qualcuna
-icon servizio, e di darmi modo di fare un po’ di bene
-con la preghiera, posto che non sono capace di altro...
-Mi sembra che per salvare un’anima sola delle molte che
-si perdono, sacrificherei mille volte la vita!... Mi pare, 0
-Signore, che Tu apprezzi di più un’anima sola che con le
-mostre industrie e orazioni noi, per tua misericordia, ti
-guadagnamo, che non tutti i servizi che ti possiamo rendere » (T.G. Es. 12,1 e 2; 14, 4; Fd. 1,7; Cam. 1, 2).
+Sì, Signore e mio Salvatore, io confido in te! E soprattutto nel momento della lotta voglio, con raddoppiata fiducia, rifugiarmi in te, perché « il mio difensore sei Tu... e Tu mi libererai dal laccio dei cacciatori e da ogni calamità. Con le tue ali mi proteggerai e sotto le tue penne sarò al sicuro. D'uno scudo mi circonderà la tua fedeltà ed io non temerò gli spaventi notturni, né la freccia volante nel giorno, non la peste vagolante nelle tenebre, né l'assalto e il demonio meridiano. Tu sei, o Signore, la mia speranza e Tu Altissimo, il mio rifugio! Agli angeli tuoi hai dato ordine per me, che mi custodiscano in tutte le tue vie; ed essi mi porteranno sulle loro mani affinché i miei piedi non abbiano ad urtare nei sassi » (cfr. *Sal.* 90, 3-12).

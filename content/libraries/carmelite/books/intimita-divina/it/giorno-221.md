@@ -1,90 +1,21 @@
-## 221 — IL PREZIOSISSIMO SANGUE
+## XXI — IL MISTERO TRINITARIO
 
-### Presenza di Dio
-
-O Gesù che mi hai redento col tuo Sangue, fa' che il tuo Sangue produca in me tutto il suo frutto.
+**Presenza di Dio.** — *O mio Dio, Trinità che adoro, insegnami a conoscerti ed ad amarti.*
 
 ### Meditazione
 
-1.— Dalla liturgia odierna la figura di Gesù balza maestosa
-come quella di un re che si presenta al suo popolo nello
-splendore del suo paludamento regale: «Chi è questi —
-canta l'Ufficio del giorno — che viene... tinto le vesti, splen
-dido nel suo paludamento? » (BR.). Ma il manto che Cristo
-indossa non è splendente per il bisso o la porpora, bensì per
-il sangue, il suo Sangue, sparso per i nostri peccati: « Egli
-è ravvolto in un manto tinto di sangue e il suo nome è
-«il Verbo di Dio'» (ivi), Quel Sangue che il Verbo; incarnandosi, prese dalla nostra natura umana, tutto ce l'ha ridato come prezzo del nostro riscatto. E ce l'ha ridato non
-costretto da nessuno, ma liberamente, perchè l'ha voluto, perchè ci ha amato: « Cristo ci ha amato — dice S. Giovanni
-— e ci ha lavato dai nostri peccati nel suo Sangue » (Ap.
-1, 5). Tutti i misteri della nostra redenzione sono misteri
-d'amore e tutti, perciò, ci spingono all'amore; ma quello che
-oggi meditiamo ha una nota particolarmente commovente,
-giacchè ci riporta a considerare la Redenzione sotto il suo aspetto più cruento: lo spargimento del Sangue di Gesù
-che, dal Calvario, scende ad imporporare tutto il mondo, ad
-irrorare tutte le anime. « Non per mezzo del sangue di capri o di vitelli — esclama S. Paolo nell'Epistola — ma mediante il proprio Sangue Cristo ci ha dato una realtà, realtà che, se comprendessimo davvero, sarebbe più che
+**1** — In quanto creature, noi non avevamo alcun diritto di conoscere il mistero della SS.ma Trinità, che è il mistero della vita intima di Dio; tuttavia, Dio ce l'ha manifestato perché non ha voluto lasciarci nello stato di pure creature, ma ha voluto innalzarci a quello di figli, di amici. Il Figlio di Dio ha detto: «Io non vi chiamo più servi, perché il servo non sa quello che fa il padrone; vi ho chiamati amici, perché vi ho fatto conoscere *tutto* quello che ho udito dal Padre mio» *(Gv.* 15, 15); e questo *tutto* è appunto il mistero della SS.ma Trinità, che solo Gesù, come Figlio di Dio, ha veduto e udito nel seno del Padre.
 
-sufficiente a fare di noi degli autentici santi. Dobbiamo avere il «senso» del Sangue di Cristo, di quel Sangue che
-Egli ha versato per noi fino all'ultima stilla, di quel Sangue
+Già nell'Antico Testamento troviamo qualche accenno a tale mistero, ma la rivelazione di esso appartiene al Nuovo, al Testamento dell'amore e si può dire che Dio ha voluto riservarsi a sé la manifestazione. Infatti, non ce l'ha rivelato mediante i profeti, ma mediante il suo Unigenito che è una cosa sola con lui: «Nessuno ha veduto mai Dio; — dice l'Evangelista — il Figlio unigenito, che è nel seno del Padre, ce l'ha fatto conoscere» *(Gv.* 1, 18). Gesù è venuto per narrarci il mistero della vita intima di Dio; ci ha parlato di sé, come Figlio di Dio in tutto uguale al Padre: «Chi mi vede, vede anche il Padre mio» perché «io sono nel Padre e il Padre è in me» (ivi, 14, 9 e 11); ci ha parlato dello Spirito Santo, senza il quale non si può giungere alla vita eterna: «Se uno non rinasce dal acqua e dallo Spirito Santo, non può entrare nel regno di Dio» *(Gv.* 3, 5) e ci ha detto che Egli stesso, insieme col Padre, ci manderà questo Spirito il quale perciò procede nello stesso tempo e da lui, il Verbo, e dal Padre: «È utile per voi che me ne vada, perché... se io me ne andrò, ve lo manderò» (ivi, 16, 7); «io pregherò il Padre ed Egli vi darà un altro Paraclito... cioè lo Spirito di verità» (ivi, 14, 16). Molte volte Gesù è ritornato su questi concetti e così ci ha insegnato che è bene per noi fissare lo sguardo sull'altissimo mistero della SS.ma Trinità per ammirarlo, lodarlo, per riamare questo Dio uno e trino che ci ha amati fino ad introdurci nel segreto della sua vita intima.
 
-che, mediante i sacramenti -— particolarmente la confessione — scende di continuo ad irrorare le anime nostre, a lavarle,
-a purificarle, ad impreziosirle con i meriti infiniti del Redentore. « Bagnatevi nel Sangue, annegatevi nel Sangue, rivestitevi del Sangue di Cristo» era il grido incessante di Caterina da Siena.
+**2** — Dio, bene sommo ed infinito, basta a sé stesso: nella conoscenza e nell'amore di sé Egli trova tutta la sua felicità. Essendo l'Essere infinitamente perfetto, la conoscenza e l'amore sono in lui essenzialmente fecondi e da questa fecondità sgorga il mistero della sua vita intima, il mistero trinitario. Il Padre da tutta l'eternità conosce perfettamente se stesso e, conoscendosi, genera il Verbo, Idea sostanziale in cui il Padre esprime e a cui comunica tutta la sua essenza, divinità e bontà infinita. Il Verbo è così «il riflesso della gloria e l'impronta della sostanza» del Padre *(Ebr.* 1, 3); ma riflesso e impronta sostanziale, poiché ha in sé la stessa natura e le stesse perfezioni del Padre. Da tutta l'eternità il Padre ed il Figlio si contemplano a vicenda e si amano infinitamente a motivo dell'infinita indivisibile perfezione che entrambi possiedono; amandosi, sono attratti l'uno all'altro e si donano l'uno all'altro riversando tutta la loro natura ed essenza divina in una terza Persona, lo Spirito Santo, che è il termine, il pegno, il dono sostanziale del loro mutuo amore. Così la medesima natura e vita divina circola dal Padre al Figlio, e dal Figlio e dal Padre si riversa nello Spirito Santo. In tal modo la Trinità ci appare come il mistero della vita *intima* di Dio, mistero che sgorga da quelle operazioni perfettissime di conoscenza e di amore con cui Egli conosce ed ama se stesso.
 
-2. — Nell'Ufficio del giorno S. Paolo ci invita con calore
-a corrispondere al dono di Cristo: « Gesù, per santificare col
-suo Sangue il popolo, soffrì fuori della porta. Usciamo, dunque, verso di lui portando gli oltraggi di lui ». Se vogliamo che il Sangue di Cristo porti in noi tutto il suo frutto,
-dobbiamo unirvi il nostro. Solo il suo è preziosissimo, tanto
-prezioso che una sola stilla è sufficiente a salvare tutto il mondo; tuttavia Gesù vuole, come sempre, che noi vi aggiungiamo la nostra piccola parte, il nostro contributo di sofferenza, di sacrificio, portando i suoi oltraggi ». Se siamo sinceri dobbiamo ben riconoscere che gli oltraggi di Cristo noi li
-fuggiamo a tutto potere; se basta talvolta una mancanza di
-riguardo, un piccolo torto, una paroletta pungente a farci
-fremere, come possiamo dire di saper partecipare alle umiliazioni di Gesù? Ecco il Maestro divino trattato come un
-malfattore, trascinato tra gli scherni villani della soldataglia
-fuori della porta di Gerusalemme e ivi crocifisso in mezzo a
-due ladroni. E noi? quale parte prendiamo alla sua Passione,
-in qual modo condividiamo i suoi oltraggi?
-
-Per la nostra redenzione « Gesù sostenne il supplizio della croce disprezzandone l'ignominia... E voi -— rimprovera
-S. Paolo — non avete ancora resistito fino al sangue lottando contro il peccato » (Ebr. 12, 2 e 4). Possiamo dire di saper
-lottare « fino al sangue» per vincere i nostri difetti, il nostro
-orgoglio, il nostro amor proprio? Oh, come siamo fiacchi e
-codardi nella lotta, come siamo malaccorti e pietosi con noi
-stessi e soprattutto col nostro orgoglio! Gesù, innocentissimo,
-ha castigato in se stesso i nostri peccati fino alla morte sanguinosa ed obbrobriosa; noi, colpevoli, non sappiamo castigare in noi stessi, non dico fino al sangue, ma neppure fino al rinnegamento del nostro amor proprio. Ecco il sangue che Gesù
-ci chiede per unirlo col suo: il sangue che sgorga dal rinnegamento pieno e sincero del nostro io, dall'accettazione umile e generosa di tutto ciò che mortifica il nostro io, che
-lo indebolisce, lo distrugge. Il Sangue preziosissimo di Gesù ce
-ne darà la forza « perchè l'anima che s'inebria e si annega
-nel Sangue di Cristo si veste di vere e reali virtù » (S. Caterina da Siena).
+Il mistero trinitario, più di ogni altro, ci mostra che il nostro Dio è il Dio *vivente*, che la sua vita è essenzialmente feconda, così feconda che il Padre può comunicare al Figlio tutta la sua natura ed essenza divina, e il Padre e il Figlio possono comunicarla allo Spirito, senza rimanerne spogli, ma possedendola tutti e tre con la stessa perfezione infinita. La Trinità, più di ogni altro mistero, ci rivela la perfezione della bontà di Dio, ossia ci dice che Dio è buono non solo perché è il bene infinito, ma anche perché comunica tutto questo suo bene: dal Padre al Figlio, dal Padre e dal Figlio allo Spirito Santo. Mentre nelle opere fuori di sé Dio effonde solo parzialmente il suo bene, in seno alla Trinità lo comunica integralmente, necessariamente, sì che la sua vita intima consiste appunto in questa eterna, necessaria, assoluta comunicazione di tutto il suo bene, di tutto il suo essere. Il mistero trinitario ci fa così intuire che in Dio vi è un oceano sconfinato e inesauribile di bontà, di amore, di fecondità, di vita; intuizione preziosa perché, più delle altre, capace di sviluppare in noi il senso dell'infinita grandezza di Dio.
 
 ### Colloquio
 
-«O dolcissimo amore Gesù, per fare più forte l'anima mia
+«Incomprensibile Dio, eterna è la tua grandezza, ineffabile è la tua bontà. Vedo, e nel vedere mi compiaccio, le tre Persone divine fluire l'una nell'altra in modo indicibile ed imperscrutabile. Il Padre fluisce nel Figlio, il Figlio fluisce nel Padre; il Padre ed il Figlio fluiscono nello Spirito Santo. Dio eterno, sei indicibilmente buono, Tu che per bontà comunichi alla creatura, che conosce il suo non essere, qualche cognizione del tuo essere eterno; ma, benché questa comunicazione sia ammirabile, si può dire con pura verità che è un puro niente in confronto di quello che in realtà passa fra te e la creatura» (cfr. S. M. Maddalena de' Pazzi).
 
-e toglierle la debolezza nella quale era caduta se il peccato,
-l'hai circondata tutt'intorno di un muro, avendone intrisa la
-calce con l'abbondanza del Sangue tuo, il quale Sangue fa
-unire e confermare l'anima nella divina dolce volontà e carità di Dio! E, come per unire insieme pietra a pietra vi si
-mette la calce intrisa con l'acqua, così Tu, o Dio, hai messo
-in mezzo, fra la creatura e te, il Sangue dell'Unigenito tuo
-Figliolo, intriso con la calce viva del fuoco dell'ardentissima
-carità; sì che non è Sangue senza fuoco, nè fuoco senza sangue. Sparso fu il tuo Sangue, o Cristo, col fuoco dell'amore! »
+«O Sommo ed eterno Bene, chi ha mosso te, Dio infinito, ad illuminare me, tua creatura finita, col lume della tua verità? Tu stesso, fuoco d'amore, ne sei la causa. Poiché sempre l'amore è quello che ti ha costretto e ti costringe a farci misericordia, donando smisurate ed infinite grazie alle creature. O bontà sopra ogni bontà! Tu solo sei Colui che è sommamente buono! Tu ci donasti il Verbo, Unigenito tuo Figliuolo, affinché venisse a conversare con noi che siamo fango e pieni di tenebre. Qual'è la causa di questo dono? L'amore, perché ci amasti prima che noi fossimo.
 
-(S. Caterina da Siena).
-
-Sì, ti adoro, o Sangue preziosissimo di Gesù; fiore della
-creazione, frutto della verginità, strumento ineffabile dello
-Spirito Santo; ed esulto pensando che, proveniente dalle stille del Sangue vergineo, a cui impresse il movimento d'amore, fosti assunto dal Verbo e nella sua persona deificato.
-To mi commuovo d'intima tenerezza, pensando come dal Cuore della Vergine passasti nel Cuore del Verbo e, animato dal
-soffio della divinità, diventasti adorabile perchè Sangue di
-Cristo. Ti adoro chiuso nelle vene di Gesù, conservato nella
-sua Umanità come la manna nell'urna d'oro, memoriale della
-redenzione eterna da lui ora nei giorni della sua vita mortale. Ti adoro, Sangue del nuovo ed eterno Testamento,
-
-fluente dalle vene di Gesù nel Getsemani, dalle sue cami
-flagellate nel Pretorio, dalle mani e piedi trafitti, dal costato
-aperto sul Golgota. Ti adoro nei sacramenti; ti adoro nell'Eucaristia, ove ti so contenuto sostanzialmente.
-
-In te ripongo la mia fiducia, o adorabile Sangue, nostro
-prezzo e lavacro. Stilla soavemente nei cuori traviati e rammolliscine la durezza. Tergi, o Sangue adorabile di Gesù,
-tergi le nostre macchie, salvaci dall'ira dell'angelo sterminatore. Irriga la Chiesa: fecondala di taumaturghi e di apostoli;
-arricchiscila di anime sante, pure e raggianti di una bellezza
-divina » (S. Alberto Magno).
+«O Trinità eterna! e chi potrà raggiungere l'altezza tua e renderti grazie di tanto smisurato dono e di tanti larghi benefici che mi hai elargiti e della dottrina della verità che mi hai insegnata? Rispondi Tu, Signore! Tu hai dato e Tu stesso rispondi e soddisfa, infondendo un lume di grazia in me, affinché con questo stesso lume io ti ringrazi» (S. Caterina da Siena).

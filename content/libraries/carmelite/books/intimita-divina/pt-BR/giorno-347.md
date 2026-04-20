@@ -1,59 +1,29 @@
-## 347 — O DESENVOLVIMENTO DO AMOR
+## 25 — PATERNIDADE E MATERNIDADE ESPIRITUAL
 
-### Presença de Deus
-
-Meu Deus, que desde toda a eternidade me preveniste com teu amor infinito, aumenta meu amor por ti.
+**Presença de Deus.** — *Ó meu Deus, une-me a ti pelo vínculo de um amor intenso e, em força dessa união, faze que eu te possa gerar almas.*
 
 ### Meditação
 
-1 — «Quem impedirá Deus de fazer o que quer numa alma resignada, despida e aniquilada?» (São João da Cruz).
+**1** — Deus fez ao homem a grande honra de querê-lo seu colaborador na obra que mais lhe é própria e que pertence essencialmente só a Ele, isto é, a comunicação da vida, e não só da vida natural, mas também da sobrenatural. No plano natural, que poderíamos chamar plano da criação, são seus colaboradores os pais e mães de família, aos quais é confiada a alta missão de comunicar a vida a novos seres humanos, criá-los e educá-los para a glória divina. No plano sobrenatural, o plano da Redenção, são colaboradores de Deus todos os que, dedicando-se ao apostolado, têm a missão, ainda mais nobre e ampla, de comunicar aos homens a vida da graça, sem a qual eles são criaturas infelizes e, em certo sentido, diminuídas, não podendo chegar à vida eterna. Na Encíclica *Menti Nostrae*, o Papa Pio XII declara: "O sacerdote é... o órgão de comunicação e incremento da vida do Corpo místico de Cristo. Pela lei do celibato, o sacerdote, em vez de perder o dom e o ofício da paternidade, aumenta-o ao infinito, porque, se não gera filhos para esta vida terrena e caduca, gera-os para a celeste e eterna". Feitas as devidas proporções, o mesmo pode dizer-se de qualquer apóstolo, porque o fim último de todo apostolado é precisamente gerar almas para a vida sobrenatural.
 
-Esta sentença te faz compreender que Deus deseja imensamente trabalhar em tua alma para conduzir-te à santidade e à união com Ele, contanto que te ponhas em suas mãos despojado de todo apego, aniquilado no amor-próprio, totalmente dócil à sua ação, totalmente maleável e movível.
+"Meus filhinhos, por quem de novo sinto dores de parto, até que Cristo seja formado em vós!", exclama São Paulo aos Gálatas (4, 19). Da mesma forma, cada apóstolo, em relação às almas pelas quais se sacrifica dando todo a si mesmo, tem pleno direito de sentir-se pai e mãe ao mesmo tempo, paternidade e maternidade que são reflexo, ou melhor, participação da paternidade de Deus. Na ordem natural, Deus estabeleceu que a fecundidade, fonte de vida, seja fruto da união entre duas criaturas; também na ordem sobrenatural a fecundidade é fruto de união, mas de uma união imensamente superior e toda espiritual, a da alma com Deus. Quanto mais uma criatura se une a Deus por amor, tanto mais participa da sua fecundidade inesgotável, que tem por fim a comunicação da vida divina aos homens. Quem, portanto, renunciou a uma paternidade ou maternidade natural para consagrar-se a Deus, não empobreceu nem sufocou sua vida na esterilidade, mas, pela força da sua união com Deus, é elevado a uma paternidade, a uma maternidade de muito superiores.
 
-Mediante as provas purificadoras, o Senhor te ajuda a esvaziar-te de ti mesmo, a desapegar-te das criaturas, a afundar-te na verdadeira humildade; mas ao mesmo tempo te ajuda a crescer no amor, a grande força que deve unir-te a Ele.
+**2** — É pai, é mãe das almas não só quem trabalha no campo do apostolado externo, mas também quem se dedica à vida contemplativa pura. Santa Teresa do Menino Jesus, embora totalmente separada do mundo, sente crescer desmedidamente no seu coração o sentido da maternidade espiritual e, na solidão do Carmelo, escreve: "Ser vossa esposa, ó Jesus... e, pela minha união convosco, mãe das almas" *(St.* 11). Esta é a aspiração fundamental do seu espírito, o ideal que a atrai, a sustenta e a impele numa vida de contínua e penosa imolação. A humilde claustral está perfeitamente consciente de dever dar-se, sacrificar-se pelas almas, de dever colocar-se à total disposição delas, exatamente como uma mãe amorosa se dá toda pelos filhos. Um dia, vendo uma noviça ir de má vontade ao trabalho, a Santa, cheia de fervor, repreendeu-a: "É este o cuidado que deve ter quem tem filhos para nutrir e é obrigada a trabalhar para os sustentar?" *(CR.)*.
 
-Todo o trabalho que Deus realiza em tua alma mira fazer-te progredir nesta virtude; provas exteriores e interiores, humilhações, impotências, aridez, lutas, tempestades têm, no plano divino, o objetivo de apagar em ti os fogos-fátuos do amor-próprio, do orgulho, dos afetos terrenos e de toda paixão desordenada, para que em ti arda um só fogo, cada vez mais intenso e vigoroso: o fogo da caridade.
+O verdadeiro apóstolo está consciente de ter filhos para *nutrir*, de dever gastar por eles toda a sua vida, de dever *sustentá-los* com seus suores, com suas orações, com suas fadigas e sobretudo com seu amor. É precisamente do amor - daquele mesmo amor que o une a Deus - que ele tira a força para sacrificar-se por eles e tira também aquela fecundidade espiritual pela qual se torna colaborador de Deus ao comunicar-lhes a vida da graça. Quanto mais o amor cresce, tanto mais a união com Deus se torna profunda e, portanto, daí deriva maior fecundidade, maior potência comunicadora de vida divina a número imenso de almas. Quem pode dizer a quantas almas se estendeu a paternidade e a maternidade espiritual dos santos?
 
-Quanto mais o Senhor te purifica, tanto mais teu coração se liberta de toda escória e se torna capaz de concentrar n’Ele todos os seus afetos.
-
-Caminha, portanto, nessa direção, aceitando a purificação em vista de um amor mais pleno e orientando toda tua vida espiritual ao exercício do amor.
-
-Aquilo que sofres, sofre-o por amor: sofre-o de boa vontade, sem recalcitrar, sem lamentar-te; e então, à medida que tua alma for humilhada, despojada, mortificada, será também revestida de caridade.
-
-As provas que Deus te manda não têm só o fim de tornar mais puro teu coração, mas também de dilatá-lo na caridade. Elas visam cavar em ti maior capacidade de amor, não de amor sensível, mas de forte amor de vontade, que tende a Deus com pura benevolência, independentemente de todo conforto pessoal, na única busca de sua glória e de seu beneplácito.
-
-2 — «[Deus] instrui maravilhosamente a alma na perfeição do amor» (São João da Cruz).
-
-Antes de tudo, ensina-a a amar independentemente de todo gozo e alegria, privando-a até daquela alegria, tão legítima e espontânea, que deriva da consciência de amar.
-
-A alma ainda não totalmente purificada poderia apegar-se a essa alegria, e Deus lha retira. As densas trevas lhe tiram a consciência de amar; a seca aridez apaga nela todo gozo e doçura, e ela é constrangida a prosseguir pelo puro ato da vontade.
-
-Em vez de comprazê-la no próprio amor, que já não sente, a alma permanece profundamente afligida pela dúvida tormentosa de não saber amar; e, para combater essa dúvida, não tem outro meio senão aplicar-se com todas as forças a realizar as obras do amor, isto é, abraçar com generosidade qualquer coisa, qualquer sacrifício que agrade a Deus.
-
-Justamente assim seu amor se desenvolve e se torna mais puro e mais forte: mais puro porque nele não se mistura conforto pessoal algum; mais forte porque a impele a obras mais generosas.
-
-Neste estado, a alma adere a Deus pelo só ato da vontade, no qual consiste a substância do amor: quer bem a Deus unicamente porque Ele é o Bem sumo, infinitamente amável.
-
-Quer somente a Ele e somente a Ele serve, cumprindo todos os seus divinos quereres, sem nenhum retorno sobre si mesma, sem busca de alegrias, de gostos espirituais; a alma já não se preocupa em gozar de seu amor, já não está ansiosa de receber, mas seu único cuidado é dar, doar-se, agradar a Deus.
-
-Daí entendes como a aridez e as trevas, em vez de sufocar o amor, fazem-no crescer de modo admirável, contanto que a alma esteja disposta a caminhar buscando só o gosto de Deus e esquecendo-se totalmente de si.
-
-«Aprende a amar como Deus quer ser amado e deixa teus modos pessoais...» (São João da Cruz): aprende a amar Deus com puro e forte ato de vontade, sem preocupar-te com tudo o que é sentimento, consolação, alegria do coração.
-
-Talvez teu modo de amar ainda dependa um pouco demais do sentimento; então agradece ao Senhor se Ele te faz caminhar em trevas e aridez, porque assim te ajudará a libertar-te dessas fraquezas.
+Não há vida interior, não há santidade autêntica que não se coroe com a auréola da paternidade, da maternidade espiritual. Mas, como no campo natural a mãe não dá à luz os filhos senão na dor, assim na ordem espiritual não se torna pai, mãe das almas sem sofrimento. Jesus gerou-nos para a vida divina morrendo na Cruz; dele aprendemos que, se queremos associar-nos à sua obra redentora, não devemos temer nem perseguições, nem escárnios, nem flagelos, nem espinhos, nem cravos, nem cruz, mas devemos estar prontos a dar pelas almas tudo quanto temos e somos, até consumir por elas nossa substância, até nutri-las com nosso sangue.
 
 ### Colóquio
 
-«Ó Senhor da minha alma e meu único Bem, por que não queres que, apenas a alma se determina a amar-te e faz o possível para desapegar-se de tudo a fim de melhor servir-te, não tenha logo a consolação de ver-se em posse do verdadeiro amor perfeito? Mas falei mal. Devia dizer, lamentando-me: por que não queremos nós? Sim, a culpa é nossa se não chegamos logo a tão grande honra!
+"Ó Eterno Pai, Tu não podes deixar de saber que os pobres pecadores são criaturas tuas e, pelo título supremo da criação, a ti pertencem.
 
-«Se conseguíssemos alcançar perfeitamente teu verdadeiro amor, teríamos com ele toda sorte de bens. Mas, meu Deus, somos tão avaros e tão lentos em dar-nos a ti que nunca nos determinamos a pôr-nos nas disposições para recebê-lo, até porque, sendo este amor tão precioso, Tu exiges que não seja desfrutado senão a caro preço.
+"Ó Filho, ó Rei bendito, não poderás negar que estes miseráveis são teus, por ti ganhos pelo incontestável título da Redenção. Ouve-me, ó Filho obedientíssimo, ouve-me e mostra-te propriamente às minhas preces, porque, assim apresentando-me eu ao Eterno Pai com o penhor na mão do teu Sangue e da tua Paixão, não poderá Ele afastar-me de si antes de atender aos meus pedidos.
 
-«Não há nada na terra que possa comprar tal tesouro; mas tornar-nos-íamos logo seus possuidores se fizéssemos o máximo para não nos apegar às coisas do mundo, pondo todo nosso cuidado e conversação nas do céu.
+"Ajuda-me, ó eterno Espírito Santo! Estes, embora abomináveis pela enormidade dos pecados, contudo a ti pertencem, porque Tu os fizeste teus admitindo-os à participação da tua bondade.
 
-«Em vez disso, Senhor, acontece que julgamos dar-te tudo, quando na realidade te damos só a renda e os frutos, reservando para nós o capital e a propriedade. Bela maneira de buscar teu amor! E depois o queremos logo e às mãos cheias.
+"Ó Senhor, eu não tenho outro refrigério senão ver meus próximos converterem-se a ti; e por isso somente sofro pacientemente tua ausência. Se Tu não me concedes este contentamento, que devo fazer? Não me expulses, clementíssimo Senhor!
 
-«Ó Senhor, se Tu não nos dás esse tesouro todo de uma vez, é porque também nós não nos damos a ti de todo. Compraze-te ao menos em no-lo dar gota a gota, ainda que para isso devamos sujeitar-nos a todos os trabalhos do mundo.
+"Tu estás resolvido e já disposto a atender-me; voltando para mim teus olhos benignos, vejo revestidos da tua luz meus filhinhos e filhinhas espirituais, meus irmãos e irmãs e todos aqueles que, dia após dia, te vou adquirindo com o desejo de vê-los sempre fiéis a ti.
 
-«Não, meu Deus, o amor não está nas lágrimas, nem naquelas consolações e ternuras que ordinariamente tanto se desejam e tanto recreiam. Ele consiste, ao contrário, em servir-te com justiça, com fortaleza de ânimo e humildade. Sem isso, pareceria um receber sempre e nunca sofrer.
-
-«Não permitas, Senhor, que coisa de tão grande preço como teu amor seja dada a pessoas que te servem somente por cobiça de consolações espirituais» (Santa Teresa de Jesus).
+"Recomendo-te, sumo e eterno Pai, meus diletíssimos filhos, os quais Tu puseste sobre meus ombros, e te peço que os visites com tua graça; faze-os viver mortos para o mundo com verdadeira e perfeitíssima luz; liga-os entre si com o doce vínculo da caridade. Peço-te, Eterno Pai, que nenhum me seja tirado das mãos e perdoa-nos todas as nossas iniquidades. Eu te ofereço e te recomendo meus diletíssimos filhos, porque eles são minha alma" (Santa Catarina de Sena).

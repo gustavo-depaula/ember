@@ -1,67 +1,49 @@
-## 340 — PURIFYING LOVE
+## 340 — HUMILITY IN APOSTOLATE
 
 ### Presence of God
 
-O Lord, help me open my soul wide to the invasion of your purifying love.
+O Lord, imprint in me so deep a sense of my poverty that all the good I do I may expect from You and attribute every good to You alone.
 
 ### Meditation
 
-The final grace God gives a soul is precisely to introduce it into the desolating pains of the night of the spirit, because in this very way He prepares and disposes it for union.
+Humility, as it is the foundation of all spiritual life, is also the basic condition of every apostolate and the central part of the program of self-denial and self-forgetfulness it requires.
 
-Though, for the soul that experiences its painful grip, this night may seem a punishment from God, it is instead a gift of His merciful love, which wants to disentangle it from the last bonds of imperfection.
+Precisely because the apostle is, more or less, set on the lampstand, he needs more than others to protect his spirit from pride and vainglory by profound humility.
 
-St. John of the Cross declares expressly that this night is the work «of God’s loving wisdom,» which, by purging the soul, «disposes it for union of love.»
+Reading the Gospel, it is striking to see how insistently Jesus taught this point in forming His Apostles. When they argued about who would be the greatest in the messianic kingdom, the Master answered: «Unless you are converted and become as little children, you shall not enter into the kingdom of heaven» (Mt 18:3).
 
-But if it is a work of love, why is it so painful? Something happens to the soul similar to what happens to green wood set on fire.
+On another similar occasion, when the mother of James and John asked the first places for her sons, He replied: «Whoever among you wishes to be first shall be your servant» (Mt 20:27). And at the Last Supper, in washing their feet, He showed them how far apostles must become servants: «If I then, being your Lord and Master, have washed your feet, you also ought to wash one another’s feet» (Jn 13:14).
 
-First, fire drives out its moisture; then blackens it and makes it give off a foul odor. As it dries it little by little, it brings to light and removes all dark and unpleasant elements contrary to fire.
+Finally, before sending them into His vineyard to bear «abundant fruit,» He repeatedly declared: «Without Me you can do nothing» (Jn 15:5).
 
-Finally, it begins to heat it from without, inflames it, and transforms it into itself, making it as beautiful as fire itself.
+Yes, apostles are Jesus’ friends, chosen by Him and destined to evangelize the world, set by Him over the Church, adorned with priestly dignity and the power to bind and loose—or, if not clerics, raised to the dignity of collaborators of the hierarchy, also called to cooperate in the salvation of souls. But at the foundation of all these privileges and honors stand these great words: you must become little like children; without Me you can do nothing.
 
-Likewise, divine love, before uniting and transforming the soul in itself, purges it of all contrary qualities. It brings out its uncleanness and makes it look ugly and dark, so that it seems worse and more abominable than before.
+If only we were truly convinced that, although God wills to use us, He alone has the power to make our action fruitful, He alone can produce fruits of eternal life, He alone can give grace to souls—and we are only instruments, the more apt for others’ salvation the more we become little by acknowledging our poverty.
 
-It is easy to understand how, under the press of such purification, the soul must suffer; yet all this is the work of love.
+What merit can a brush claim because a skilled painter used it to create a masterpiece? What merit can marble claim because Michelangelo used it to sculpt his Moses? «You have not chosen Me, but I have chosen you and appointed you that you should go and bring forth fruit» (Jn 15:16).
 
-God’s loving Wisdom, touching a still imperfect soul, must necessarily begin by doing in it a work of demolition and purification. Only when He has thus freed it from everything opposed to divine love will He unite it to Himself and transform it in Himself.
+«Without Me you can do nothing.» Before these words, how many ambitions, points of honor, vain self-complacencies, claims to praise, desires for advancement and recognition shatter like waves against rocks.
 
-Then the work of love will no longer be painful; it will be very sweet and delightful. But until the soul is totally purified, it cannot fail to be a cause of affliction.
+Jesus does not say that without Him we can do little, but nothing—absolutely nothing. Even if outwardly works prosper, admirers increase, churches and halls are full, in reality not a grain of grace descends into hearts unless God intervenes.
 
-Blessed affliction that disposes it for so great a good!
+Poor apostle, at times so satisfied and inflated by your successes! Despite your abilities, brilliance, attractive speech, titles, and achievements, in apostolate you are smaller and more powerless than an ant before a high mountain.
 
-«O souls who desire to go safely and consoled in the things of spirit!» exclaims St. John of the Cross. «If you knew how necessary it is to suffer in order to attain this security and consolation ... you would seek consolations in no way, neither from God nor from creatures; rather, you would bear the Cross, and embracing it, would desire to drink there gall and pure vinegar, and would count this great good fortune.»
+Recognize your nothingness, take refuge in God, hold fast to Him, for from Him alone you can draw fruitfulness for your works.
 
-2 — The more intimately convinced we are that purification is the work of love, the more we shall know how to embrace it courageously and greet it gladly even when it costs us much.
+Charged with the formation of novices, St. Therese of the Child Jesus exclaimed: «You see, Lord, that I am too little to feed your daughters; if You wish to give each one through me what she needs, fill my hand, and I, without leaving your arms, without turning elsewhere, will distribute your treasures to the soul that comes to ask me for food.»
 
-Besides, the general law of perfect love—even of human love—is this: it tolerates no division of affections, no rivals, no disharmony between those who love one another.
+This is the attitude every apostle must take. Indeed, the higher, more important, and more delicate his mission is, the more necessary are this humble awareness of poverty, this trusting recourse to God, and this continual abiding in Him.
 
-If human love, so limited and weak, has such demands of totality, why should we not recognize the same rights, indeed infinitely superior rights, in divine love?
+If God does not use us for great works, is it perhaps because, not being sufficiently convinced of our nothingness, we might steal His glory by attributing success to ourselves? If our apostolic activity bears little fruit, is it perhaps because, trusting too much in ourselves, we do not concern ourselves enough with clinging to God through humility and prayer?
 
-Love tends by nature to equality: it either finds lovers equal or makes them equal. God, seeing a soul of good will that wants to give itself wholly to Him, loves it to the point of wanting to make it like Himself.
-
-Therefore He strips it of all that conflicts with His infinite perfection, and as He strips it, He clothes it with Himself, with divine life.
-
-Love tends by nature to unity; it wants full fusion of hearts. God, who infinitely loves souls that seek Him sincerely, desires nothing more than to unite them to Himself, and so He purifies them of every stain that would hinder perfect union with His infinite purity.
-
-Jesus Himself, at the Last Supper, expressed the supreme desire of His love for us by asking precisely this perfect union: «As Thou, Father, in Me and I in Thee; that they also may be one in Us» (Jn 17:21).
-
-But since, corrupted by sin and full of misery, we were radically incapable of this, He took our sins upon Himself and washed them in His Blood. Christ’s Passion tells us what our purification cost the Son of God.
-
-And if it cost so much to Him, the most innocent, is it not just that it should cost at least a little to us, guilty ones who have offended God so many times and so often placed obstacles, by our bad will, to the invasion of His love in our soul?
-
-Now that this divine love, instead of abandoning us as we deserve, comes to us to purify us, should we flee its action? No, it must not be so.
-
-As purifying sufferings are the work of God’s love for us, so may our acceptance of them be the work and proof of our love for Him.
-
-«True love consists in stripping oneself of all that is not God» (St. John of the Cross).
+«Abide in Me,» Jesus repeats. «As the branch cannot bear fruit of itself ... so neither can you unless you abide in Me» (Jn 15:4). It is not enough that the apostle remain united to Jesus by the state of grace; he must remain there also by deep humility, which makes him feel he can do nothing, truly nothing, without His continual help.
 
 ### Colloquy
 
-«O Lord, remember me as I lie in darkness and in the shadow of death, and raise up this creature of Yours with your love, which is my vital spirit. Let the divine fire of your love consume in me all evil humors of earthly affections, and let one single affection remain in my heart, wholly turned toward your infinite beauty and goodness.
+«O Lord, You want me in my apostolate to feel and acknowledge my nothingness; but at the same time You want me to let myself be taken and used by You to fulfill the mission You entrust to me, and then return to the shadows, be silent, not boast, and say: *servi inutiles sumus*—I am an unprofitable servant; without You I can do nothing.
 
-«O Jesus, the immense love with which You draw me to unite me to You awakens in me a living concern to love You in return. For this reason, from the depth of my heart I cry to You and beg You, by the flames of that immense charity with which You loved me and became incarnate for me, to send me the Holy Spirit, divine Fire who enlightened the Church, my Mother and your Spouse, so that He may enlighten and convert me, renewing the face of my soul.
+«O Lord, help me flee praise, flee the applause of creatures; help me act always with right intention, seeking only your good pleasure. I ask You to keep far from me those faults that can distract me from acting solely to please You: display, compliments, flattery, the desire to make a good impression, to be liked by others. May I never seek my glory, but only yours. Everything to please You, nothing to satisfy myself!» (Sr. Carmela of the Holy Spirit, O.C.D.).
 
-«Come, sweetest Son of God, this divine Spirit, to whom I open my whole heart, so that He may reform me, deformed by sin, and transform me into your most beautiful form and grace.
+«I beg You, my Lord, to direct to You the heart and will of your apostles, so that they may follow You, slain Lamb, poor, humble and meek, by the way of the most holy Cross, in your manner and not in theirs. Drive darkness from their hearts and give your light; dry up in them self-love and let the fire of your charity remain.
 
-«This is my petition, O Lord; and to be heard I offer myself to the fire and water of tribulations and to all torments of this life. For this I rise early to forestall You in prayer and sacrifice myself to You in the morning vigil. For this I will supplicate You in the silence of the night and knock at the doors of your clemency.
-
-«If You deign to hear me by sending your fire, I will sacrifice to You the first fruits of my affections and never serve strange gods. I will praise You in public and in secret and sing forever your mercies...»
+«Grant that with ordered charity they seek the salvation of all, disposing themselves to give their life for the good of souls. And may they be angelic creatures, earthly angels in this life, and burning lamps in Holy Church!» (cf. St. Catherine of Siena).

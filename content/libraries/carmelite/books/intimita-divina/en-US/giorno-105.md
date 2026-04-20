@@ -1,137 +1,130 @@
-## 105 — OUR PLACE
+## 103 — THE TRANSFIGURATION
+*Second Sunday of Lent*
 
 ### Presence of God
 
-— O my God, that I may know You, that I may know myself! Know that You are He who is, and I am he who is not.
-
 ### Meditation
 
-1 — Among all creatures in which we love to delight
-and toward which our nature feels greatly drawn, our
-self undoubtedly holds first place. There is no person,
-however little endowed with gifts and qualities, who does not love
-his own excellence and does not seek in some way to
-make it shine before his own eyes and those of others. Indeed,
-for this purpose we are often spontaneously led to exaggerate our own worth and, consequently, to show
-demands and pretensions that make us haughty,
-arrogant, and even difficult in our relations with others. Humility is precisely the virtue that keeps within right limits the love
-of one's own excellence; and while this drives us to place ourselves too high, that is, to occupy
-a place higher than is ours, humility is the virtue that makes us stay
-in our place. Humility is truth, because it tends to put
-our understanding in truth, making us recognize
-what in reality we are, and our life too, inclining us to
-take, before God and before men, the place
-that is ours and no other.
+1 — The Soul of Jesus, personally united to the Word,
+enjoyed the beatific vision, whose connatural effect is
+the glorification of the body. But this effect was held back by
+Jesus who, during the years of His earthly life, willed
+to assimilate Himself to us as much as possible, clothing Himself
+with "flesh like that of sin" (Rom. 8, 3). Yet, to confirm in faith the Apostles shaken by the announcement
+of His Passion, Jesus on Mount Tabor allowed
+for brief instants some rays of His blessed soul
+to overflow into His body, and then Peter, James, and
+John saw Him transfigured: "His face shone
+like the sun and His garments were white as snow."
+They remained enraptured, and yet Jesus had shown them
+only one ray of His glory, since no
 
 
-Humility makes you recognize that before God you are
-only a small creature of His, in all things dependent on
-Him both in your existence and in your acting. Having received
-life from God, you cannot exist even one instant
-independently of Him, but it is He who, as He created you
-with His creative action, so maintains you in life by His
-conserving action. Not only this, but you cannot perform
-the smallest act without God's concurrence, somewhat as
-any machine, even the most perfect, cannot make
-the slightest movement unless set in motion by the artisan who made it. It is true that, unlike
-the machine, your acting is neither mechanical nor forced,
-but conscious and free; nevertheless you cannot even
-move a finger without the concurrence of the Divine Artisan.
+human creature could have borne its full
+vision.
 
-Consequently, all you have in the order of
-being - qualities, gifts, capacities, etc. - and all you have
-achieved in the order of acting, nothing is yours, but everything, in
-one way or another, is God's gift, is action accomplished
-with divine help. "What have you that you have not received? and if you received it, why do you glory as though you had not
-received it?" (I Cor. 4, 7).
+Glory is the fruit of grace; the grace Jesus
+possesses in infinite measure overflows into an infinite glory
+that transfigures Him entirely. Something similar happens
+also to us: grace transforms us, transfigures us "from glory
+to glory" (II Cor. 3, 18), until one day, in heaven, it will introduce us into God's beatific vision. And while grace transfigures, sin, with its opacity, disfigures those
+who are its victims.
 
+Today's Gospel (Mt. 17, 1-9) shows the intimate relation between Jesus' Transfiguration and Passion. Moses
+and Elijah, appearing on Tabor beside the Savior,
+spoke with Him and, as St. Luke specifies, they were speaking precisely of His coming Passion, "of the departure that
+He was about to accomplish in Jerusalem" (Lk. 9, 31).
 
-2 — In the supernatural order, where everything depends
-on grace, Jesus' word is verified in the strictest way:
-"Without Me you can do nothing" (Jn. 15, 5).
-Although baptismal sanctifying grace has raised us to the supernatural order, and infused virtues have
-made our faculties capable of producing supernatural acts, nevertheless, St. Paul warns, "no one can say: 'Lord
-Jesus,' except by the Holy Spirit" (I Cor. 12, 3).
-
-Thus, to produce even the least supernatural act,
-you need God's help; you need actual grace that
-goes before you with its action and accompanies you in action, up to its completion.
-
-The great theologian who has studied Catholic doctrine in depth, in order to put into practice its least point, as
-for producing one single act of love of God, has absolute
+The divine Master thus wants to teach His disciples
+that it is impossible for Him and for them to reach the glory
+of the Transfiguration without passing through suffering; it is the lesson He will give later to the two disciples
+of Emmaus: "Was it not necessary that the Christ should suffer such things
+and so enter into His glory?" (Lk. 24, 26). What sin
+has disfigured cannot return to its original
+supernatural beauty except through purifying suffering.
 
 
-need, no less than the peasant who knows only his
-catechism, of the help of actual grace. Likewise,
-the saint, who has received many divine favors and lights,
-who has already reached heroism of virtues, cannot perform the smallest virtuous act without the help of actual grace. This
-tells you how great your dependence on God must be.
-You are therefore far from true humility when,
-trusting in your knowledge or in your long exercise of spiritual life, you believe your lights or virtues are sufficient
-for you to act as a good Christian. No, St. Paul admonishes you,
-"sufficientia nostra ex Deo est," our sufficiency comes
-from God (II Cor. 3, 5). Without God you can neither think,
-nor say, nor will any good, "since it is God who works in
-us both to will and to act according to His good pleasure"
-(Phil. 2, 13).
+2 — Peter, enraptured by the vision of Tabor, with his
+usual ardor exclaims: "It is good for us to be here," and
+offers to prepare three tents: for Jesus, for Moses, and for
+Elijah. But his proposal is interrupted by a voice from above: "This is my beloved Son, in whom I am well
+pleased: listen to Him!" and the vision
+disappears.
 
-Of your own, therefore, connatural to your limited
-nature and moreover wounded by original sin, you have
-only one thing: the capacity to fail in your duties,
-to fail, to sin. Take from yourself what is God's and
-you will find that, by yourself, you are nothing, indeed less
-than nothing, because nothingness cannot offend God and you instead
-have this sad possibility.
+Spiritual consolations are never an end in themselves,
+and we must neither desire them nor seek to hold them
+for our enjoyment. Joy, even spiritual joy,
+must never be sought for itself; as in heaven joy
+
+
+will be the necessary consequence of possession of God,
+so on earth it must be solely a means to give ourselves
+with greater generosity to God's service. To Peter,
+who asks to remain on Tabor in the sweet vision of
+Jesus transfigured, God Himself responds by inviting him rather to listen and follow the teachings of His beloved
+Son. And very soon the ardent Apostle will know that
+to follow Jesus means to carry the cross and climb Calvary
+with Him.
+
+God does not console us to amuse us,
+but to encourage us, to make us strong and generous in suffering for love of Him.
+
+When the vision disappeared, the Apostles raised their eyes and
+saw no one any more "nisi solum Jesum," except Jesus
+alone, and with "Jesus alone" they came down from the mountain. This is what
+we must always seek and what must suffice us: Jesus
+alone, God alone. All the rest - consolations,
+helps, friendships even spiritual, understanding, esteem, support even
+of superiors - can be good insofar as God
+permits us to enjoy them and very often He makes use of them
+precisely to sustain our weakness; but when,
+through circumstances, the divine Hand deprives us of all
+this, we must neither be dismayed nor lose ourselves. These
+are precisely the cases in which, more than ever, we can bear witness to God - by deeds and not by words - that
+He is our All and that He alone is enough for us. This is
+one of the most beautiful testimonies a loving soul
+can render to its God: to be faithful to Him, to trust in Him,
+to persevere in the purpose of total self-giving, even
+when He, withdrawing all His gifts, leaves it alone, in
+darkness, perhaps in incomprehension, bitterness,
+material and spiritual solitude coupled with interior
+desolation. Then is the moment to repeat: "Jesus alone"
+and to descend with Him from Tabor to follow Him with the
+Apostles to Calvary, where He Himself will agonize abandoned not only by men, but also by His
+Father.
+
+
 
 ### Colloquy
 
-"O almighty Father, God of truth, God of love,
-grant me to enter the cell of self-knowledge,
-recognizing that I by myself am not, but that all
-being and goodness in me comes solely from You.
-Show me my defects, so that I may know how to detest my
-malice and thus I shall flee self-love and find myself clothed
-with the garment of divine charity, which is necessary
-to be admitted to the wedding feast of eternal life" (St. Catherine of Siena).
+"I love You alone, my God, I follow You alone, I seek You alone,
+I am ready to follow You alone... I want to be at Your disposal alone. Command, I pray You, command all that
+You will, but heal, open my eyes, that I may see
+Your signs; heal me wholly, that I may recognize You.
+Tell me where I must direct my attention so that I
+may see You; and I hope I shall know how to do all that You command me..."
+(St. Augustine).
 
-"Grant, O my God, that I may learn to know myself
-thoroughly! And that I may truly be convinced that I am nothing and that
-You are all. And that I may consider myself nothing more than that
-nothing I am. And that I may never do anything for myself,
+Yes, O Jesus, may I follow You alone and follow You not only on
+Tabor, but above all on Calvary. Tabor is light, it is
+splendor that draws me; I would wish, even only for an instant,
+to glimpse Your Face, O my God! Calvary is night,
+solitude, dark pain that frightens me; but in the darkness
+a cross rises and on that cross I contemplate You, crucified for love. I glimpse Your Face not transfigured
+by glory, but disfigured by pain, fruit of our
+sins!
 
+O Jesus, destroy in me sin, that sin that
+disfigured Your Face, that sin that disfigured
+my soul, created in Your image and likeness. But for this destruction to happen it is necessary that I participate
+in Your Calvary, in Your Cross; deign, then, O Lord,
+to associate with Your Passion all the small and
+great sufferings of my life, so that through them I may be purified
+and be disposed to ascend from clarity to clarity, up to
+total transfiguration in You.
 
-but all for You. And that no creature may think more of me,
-nor speak more of me, nor do anything for me, nor give me
-anything more, but do all for You, give all to You. And that my
-nothingness may be reduced to nothing in the eyes of all Your
-creatures and in Your eyes, my God. And that You, the All, be all,
-in all and through all" (St. John Eudes).
-
-Show me, O Lord, my nothingness, and show it in such a way
-that I not only understand it, but have practical,
-profound conviction of it. You know how difficult this is to my
-proud nature! If the intellect cannot resist the evidence
-
-
-of truth and must necessarily admit that
-
-
-I am nothing, have nothing and can do nothing without You, in practical life my self always seeks to attribute to itself, to arrogate to itself
-something and to delight in it as though it were its own.
-Help me, O Lord, to overthrow this pride, because, You see,
-it is thief of Your gifts; because, You see,
-it makes my life sterile, preventing me from receiving
-the abundance of Your graces.
-
-O Lord, that I may recognize my nothingness, and the more
-I recognize it with simplicity and humility of heart, the more
-You will delight to be my All. You the all,
-and I the nothing; You He who is, and I he who is not!
-Therefore glorify Yourself in my nothingness! In this nothingness
-may Your love and Your grace triumph, but may Your mercy
-
-
-also triumph, because I am a nothingness that has sinned. Peccavi,
-
-
-Domine, miserere mei!
+The light, the glory of Tabor encourage me; thanks, O Lord,
+for having granted me, even if only for brief instants,
+to contemplate Your splendor, to enjoy Your divine
+consolations; thus refreshed and encouraged I descend from the
+mountain to follow You alone, to Calvary.

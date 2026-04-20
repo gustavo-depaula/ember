@@ -1,85 +1,21 @@
-## 353 — L'UNIONE DI VOLONTA
+## 31 — LA NOTTE DELLO SPIRITO
 
-### Presenza di Dio
-
-O Signore, prendi tutta la mia volontà e trasformala nella tua.
+**Presenza di Dio.** — *O Signore, infondimi maggior amore e maggior coraggio, perché sappia di buon cuore accettare la tua azione purificatrice.*
 
 ### Meditazione
 
-tiva dell'amore è la perfetta unione della volontà dell'uomo con la volontà di Dio. L'amore, sviluppandosi, ha talmente vuotato l'anima di tutto ciò che è contrario al volere divino e l'ha talmente spinta ad amare e volere solo
-ciò che Dio stesso ama e vuole, che un po' alla volta la
-debole volontà umana si è pienamente conformata e unita
-a quella divina al punto che di duc volontà se n'è fatta
-una sola «la quale è volontà di Dio, e questa è anche volontà dell'anima » (G.G. S.1, 11, 3). In tutti i suoi atti deliberati l'anima non è più guidata dalla sua volontà personale tanto defettibile ed incostante, ma è unicamente
-Buidara e mossa dalla volontà di Dio nella quale ha perluta la sua e l'ha perduta per amore. « Chi avrà perduto
-la sua vita per amor mio, la ritroverà », ha detto Gesù
-(Mt. 16,25); presa d'amore per Iddio, l'anima ha rinunciato per lui ad ogni suo volere, ha voluto perdere in lui
-ogni suo desiderio, ogni suo UNO, ed ora la perdita fatta diventa il più grande guadagno perchè ritrova la sua
-volontà totalmente trasformata in quella di Dio, Poteva
-sperare un cambio più vantaggioso? «Lo stato dell'unione divina — dice S. Giovanni della Croce — consiste
-precisamente nell'essere l'anima secondo la volontà del
-tutto trasformata nella volontà di Dio» (S.I, 11,2). Del
-tutto e non solo in parte; del tutto e non solo per le cose di maggior rilievo, ma anche per le più piccole e minute, cosicchè la volontà divina diventa realmente l'unico
-movente dell'anima: quello che essa fa, dice, pensa è « in
-tutto e per tutto solamente volontà di Dio» (ivi). Manifico stato che inalza la creatura all'altezza del Creatore, che dal livello della vita umana la porta al livello della vita divina! Per giungervi valeva la pena che l'anima
-subisse l'amara purificazione mediante i quale è stata
-«spogliata e scorticata della sua antica pelle» (G.C.N.
-II, 13; 11), ossia della sua volontà difettosa, valeva la pena che rinunciasse a se stessa ed a tutte le cose!
+**1** — Per estirpare le radici degli abiti imperfetti è necessaria quell'amara e forte purificazione che si chiama *notte dello spirito*. La purificazione dell'anima incomincia con la *notte dei sensi* che, mettendola all'oscuro e privandola di ogni gusto sensibile, la libera dagli attacchi alle creature e ai beni materiali, ma si completa soltanto con la *notte dello spirito* che, annichilendola nelle sue potenze spirituali, giunge a distruggere in lei ogni abito imperfetto. S. Giovanni della Croce nota con molta finezza che anche dopo aver oltrepassato la notte dei sensi «restano tuttavia nello spirito le macchie dell'uomo vecchio, quantunque ad esso non sembri, né riesca a vederle » *(N.* II, 2, 1); sono macchie così profonde e nascoste di cui difficilmente l'anima si rende conto.
 
-Dio, S. Teresa di Gesù scrive: « Questa è l'unione che io
-ho sempre desiderato e che non cesso mai di domandare
-a Dio, perchè più evidente e più sicura » (M. V. 3, 5). La
-Santa, che aveva sperimentato l'efficacia e la dolcezza
-delle grazie mistiche di unione per cui l'anima non può
-«dubitare che Dio sia stato in lei e lei in Dio» (ivi, 1,9),
-non csita a preferire a tali delizie la perfetta unione con
-la volontà di Dio. Solo in tale unione, infatti, consiste
-l'essenza della santità, mentre le grazie mistiche sono un
-mezzo per giungervi, mezzo preziosi imo, perchè il più
-rapido, ma sempre mezzo e non fine, il quale sta soltanto nella completa conformità del proprio volere al volere divino. Del resto, non dipende di noi scegliere la
-«scorciatoia » delle grazie mistiche, anzichè battere la via
-ordinaria dello sforzo generoso e perseverante; ciò dipende unicamente da Dio che è padrone dei suoi doni e li
-« distribuisce come vuole, quando vuole e a chi vuole,
-senza far ingiuria ad alcuno » (ivi, IV, 1,2).
+Ecco, ad esempio, una persona distaccata dalle creature e dai beni terreni, avanzata nell'orazione e nelle virtù, un'anima, quindi, che ha già percorso le tappe della via purgativa e della via illuminativa, tuttavia, messa alla prova, facilmente si riscontra in lei un certo attacco alle sue opere buone — opere d'apostolato, esercizi di penitenza o di devozione — in modo tale che quando l'obbedienza o il servizio del prossimo l'obbligano a lasciarle o a sostituirle con altre, se ne turba, oppone una certa resistenza e solo con molta riluttanza riesce a sottomet-tersi. Ciò accade appunto perché vi sono ancora in lei le radici degli abiti imperfetti e, soprattutto, dell'orgoglio e dell'egoismo, da cui derivano tutti gli altri difetti ed imperfezioni. Che vale sopprimere gli atti difettosi, se nello spirito ne rimane la radice? Presto o tardi questa, troncata alla superficie, metterà germogli in altra direzione.
 
-Quel che importa sommamente è sapere che lo stato
-di unione con Dio non è riservato a pochi privilegiati,
-ma è aperto ad ogni anima di buona volontà, anche se
-deve accontentarsi di percorrere la via ordinaria, «la piccola via», come la chiamava S. Teresa del B, G.-@ «la
-via dei carri» come la definiva la B. Maria Bertilla. Invece di preoccuparci della via, dobbiamo preoccuparci di
-essere pienamente generosi, perchè all'unione con Dio arrivano solo le anime che sanno darsi del tutto a lui. « Badate — scrive S, Teresa d'Avila alle sue figlie — che per
+Nessuno può essere liberato dalle radici dei difetti senza passare attraverso la penosa notte dello spirito. Paragonando tale notte a quella dei sensi, S. Giovanni della Croce dice che la differenza che corre fra l'una e l'altra «è quella che passa tra estirpare un ramo, ovvero tra cavare una macchia penetrata e vecchia e pulirne una fresca e superficiale ». Benché ciò sia molto arduo da farsi e doloroso a subirsi, tuttavia è indispensabile, perché le macchie dell'uomo vecchio si cavano solo «col sapone e col forte ranno » della purgazione dello spirito, senza la quale l'anima «non potrà mai pervenire alla purezza dell'unione divina » *(ivi)*.
 
-acquistarvi ciò che dico [l'unione con Dio], Egli sie
-che non vi riserviate nulla, Sia poco 0 molto uello che
-avete, lo vuole tutto per sè: più o meno grandi saranno
-le zie che ne avrete, ma sempre in proporzione di
-bodio che vedrete di aver dato » (M. V, 1,3). Più saremo
-snerosi nel nostro dono, più Dio ci verrà incontro con
-fa sua grazia e ci sosterrà con la sua azione onnipotente,
-giacchè battere la via ordinaria non significa davvero reStare privi del soccorso divino; questo potrà essere più nascosto e meno confortante di quello offerto nei favori
-mistici, ma non sarà perciò meno reale ed efficace.
+**2** — Se per entrare nella *notte del senso* occorre una buona dose di coraggio, perché si tratta di rinunciare «a qualsivoglia gusto sensibile che non sia puramente a onore e gloria di Dio » *(G.C.S.* I, 13, 4), per entrare nella *notte dello spirito* ce ne vuole di più, perché si tratta di rinunciare non più a cose materiali, ma a cose spirituali. Si tratta, ad esempio, di accecare il proprio intelletto, di rinnegare la propria volontà, di rinunciare alla affermazione della propria personalità non solo rispetto ai beni materiali, ma anche rispetto a quelli morali e spirituali. Nella notte dello spirito l'anima deve camminare al buio, deve essere messa nel vuoto, non solo riguardo ai sensi, ma anche riguardo alle sue facoltà spirituali. In questa notte Dio «nuda le potenze, le affezioni e i sentimenti, sì spirituali che sensibili, esterni ed interni, lasciando l'intelletto al buio, la volontà all'asciutto, vuota la memoria, e gli affetti dell'anima in somma afflizione, amarezza ed angustia, privando la medesima del sapore dei beni spirituali che prima gustava » *(N.* II, 3, 3).
+
+Tanta desolazione e tanta privazione di ogni cosa non ci deve scoraggiare perché non è ordinata alla morte, ma alla vita e, anzi, alla pienezza della vita che è l'unione di amore con Dio. Perciò, l'anima che ama non si sgomenta, non si spaventa; il suo ideale è l'unione divina e vuole raggiungerlo ad ogni costo, sì che nessun sacrificio le sembra troppo grave pur di arrivarvi. D'altra parte, se intuiamo almeno qualche cosa dell'infinita perfezione di Dio e conosciamo anche solo un poco la nostra profonda miseria, dobbiamo convenire che nessuna purificazione, per quanto forte e penosa, sarà mai esagerata dovendo disporre noi, indegni e miserabili quali siamo, all'unione con Colui che è la bontà, la purezza, la bellezza infinita; né le sofferenze che tale purificazione c'imporrà potranno mai sembrarci insopportabili in confronto al bene immenso che ci devono procurare. «Tanto è il bene che mi aspetto, che ogni pena mi è diletto », ripete assieme a S. Francesco l'anima innamorata di Dio; e questo bene essa lo attende fin da quaggiù, perché sa che Dio non rifiuta di ammettere alla sua unione lo spirito ben disposto, ossia totalmente purificato.
 
 ### Colloquio
 
-«O Signore, com'è efficace il dono della volontà! Se
-lo facessimo con generosità, attrarrebbe te, l'Onnipotente,
-a fare una cosa sola con la nostra debolezza, trastormando noi in te, la creatura nel Creatore.
+«O anima mia, quando, divenuta migliore, sarai liberata dalle tue passioni e dalle tue viziose tendenze? Quando si disseccherà in te la radice di ogni male? Quando sarà cancellata in te ogni traccia di peccato? Oh, se tu amassi ardentemente il tuo Dio! Se tu fossi indissolubilmente unita al tuo sovrano Bene!
 
-«Più Tu vedi che il dono della nostra volontà si maifesta non con parole di complimento, ma con fervore
-di opere, più ci attiri a te c, inalzando l'anima al di sopra di se stessa e di tutte le cose terrene, la prepari a
-ricevere grandissimi favori. Stimi tanto questo dono da
-non cessare di ricompensarlo fin da questa vita: l'anima
-non saprà più che cosa domandarti e Tu continuerai sempre a donare. E, non contento di unirla a te stesso facendoti un tutt'uno con lei, comincerai a compiacertene,
-a scoprirle i tuoi segreti, a farle comprendere il molto
-che ha guadagnato e a farle intravedere la felicità che le
-tieni preparata. Comincerai a trattarla con maggiore amicizia, ritornandole non solo la volontà che ella ti ha dato, ma dandole insieme la tua. E queste due volontà andranno molto d'accordo, perchè, vedendo che l'anima fa
-quello che Tu vuoi, anche Tu farai ciò che ella desidera.
-
-«Dio mio, nia è preziosa l'unione che consegue
-l'anima con te, dopo essersi stabilita nella sottomissione al
-tuo volere! Oh, che unione desiderabile è mai questa! Felice l'anima che l'ha raggiunta! Ella ha pace in questa e
-nell'altra vita, perchè, a e il pericolo di perdere te, 0
-Si nore, e di vederti offeso, non vi è nulla che la possa
-affliggere: non la povertà, non le malattie, neppure la
-morte, vedendo essa ad evidenza che Tu sai disporre le
-cose meglio che non si sappia desiderare! » (T.G. Cam.
+«Buon Gesù, tenero Pastore, mio dolce Maestro, Re dell'eterna gloria, quando comparirò sano e mite e veramente umile dinanzi a te? Quando, per amor tuo, disprezzerò profondamente tutte le cose di quaggiù? Quando sarò del tutto distaccato da me stesso e da ogni cosa? Poiché se io fossi realmente libero da ogni attacco terreno, non avrei più una volontà mia: non gemerei più sotto il giogo delle passioni e degli affetti sregolati, né cercherei più me stesso in niuna cosa. La mancanza di questo assoluto e totale distacco è il solo e vero ostacolo fra te e me, che m'impedisce di slanciarmi liberamente verso di te. Quando dunque sarò spoglio di tutto? Quando mi abbandonerò senza riserva alcuna alla tua divina volontà? Quando ti servirò con spirito puro, calmo, sereno? Quando ti amerò perfettamente? Quando la mia anima, ricevendoti nel suo seno, si unirà deliziosamente al suo Diletto? Quando mi slancerò verso di te con tenero ed ardente desiderio? Quando la mia negligenza e le mie imperfezioni saranno assorbite nell'immensità del tuo amore? Oh! Dio mio, vita mia, amor mio, mio unico desiderio! Tesoro mio! mio Bene! mio principio e mia fine! La mia anima sospira il tuo tenero amplesso, languisce e vien meno per il desiderio di unirsi a te, di essere stretta intimamente a te con il legame dolce e santo di un indissolubile amore! Che cosa cerco io nei cieli? Che cosa desidero sulla terra? Il Dio del mio cuore, il Dio che sarà il mio retaggio per l'eternità » (B. Luigi de Blois).

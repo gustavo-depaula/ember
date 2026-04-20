@@ -1,114 +1,19 @@
-## 184 — LE INIZIATIVE DELLO SPIRITO SANTO
+## XV — La preghiera di Maria
 
-### Presenza di Dio
-
-O Spirito Santo, vieni Tu a dirigere l'anima mia nel cammino della santità.
+**Presenza di Dio.** — *O Maria, che sei stata la fedele adoratrice di Dio, insegnami a vivere in continua preghiera.*
 
 ### Meditazione
 
-1. — Benchè l’anima nostra sia soprannaturalizzata dalla
+**1** — Per comprendere qualche cosa della preghiera di Maria bisogna cercare di penetrare nel santuario della sua intima unione con Dio. Nessuno come lei ha vissuto in intimità col Signore. Intimità di madre anzitutto: chi potrà intuire gli stretti rapporti di Maria col Verbo Incarnato, durante i mesi che lo portò nel suo seno verginale? Benché all'esterno nulla la distingua dalle donne della sua condizione, pure nel segreto del suo cuore si svolge la più stretta vita di unione che può esistere fra Dio e una pura creatura. «*Omnis gloria ejus ab intus*» *(Sal.* 44, 15), tutta la gloria e la grandezza di Maria è nel suo interno, vero santuario che cela il Santo dei Santi; Maria è il ciborio vivente del Verbo Incarnato, ciborio tutto palpitante d'amore, tutto immerso nell'adorazione. Portando in sé la «fornace ardente della carità», come potrà Maria non rimanerne tutta infiammata? E più s'infiamma d'amore più intuisce il mistero d'amore che si compie in lei: nessuno più di Maria ha penetrato i segreti del Cuore di Cristo, nessuno più di lei ha avuto il senso della divinità di Gesù, delle sue grandezze infinite. Parimenti, nessuno più di lei ha sentito il bisogno struggente di darsi tutta a Lui, di perdersi in Lui come una tenue goccia nell'immensità dell'oceano. Ecco la preghiera incessante di Maria: adorazione perenne del Verbo Umanato che porta nel suo seno; unione profonda con Cristo, continuo inabissarsi in Lui e trasformarsi in Lui per amore; continuo associarsi agli omaggi e alle lodi infinite che dal Cuore di Cristo salgono alla Trinità e continua offerta alla Trinità di queste lodi, le uniche degne della Maestà divina. Maria vive nell'adorazione del suo Gesù e, in unione a Lui, nell'adorazione della Trinità.
 
-zia santificante, le nostre potenze siano investite dal-
+C'è un momento della giornata in cui anche noi possiamo partecipare nel modo più pieno a questa preghiera di Maria, il momento della Comunione Eucaristica, quando anche a noi è dato di stringere Gesù vivo e vero nel nostro cuore. Come abbiamo bisogno che la Madonna c'insegni ad approfittare di sì gran dono! Che c'insegni ad inabissarci con lei nel suo e nostro Gesù fino a trasformarci in lui, che c'insegni ad associarci alle adorazioni che dal Cuore di Gesù salgono alla Trinità e che le offra con noi al Padre per supplire alle deficienze delle nostre!
 
-fe virtù infuse e le nostre azioni FER e accompagnate dalla grazia attuale, tuttavia il nostro agire rimane
-sempre, in quanto al modo, umano, quindi incapace di coniungerci perfettamente a Dio e di portarci alla santità.
-fofar, la nostra intelligenza, per quanto investita dalla
-virtù della fede, è sempre inadeguata all’Essere infinito,
-è sempre incapace di rappresentarcelo tale quale Egli è;
-pur seguendo i dati della rivelazione dalla quale sappiamo
-che Dio è uno e trino, le idee che ci formiamo della
-SS.ma Trinità, delle tre Persone divine, delle perfezioni di
-Dio, rimangono sempre al di sotto della realtà. Sì, finchè
-siamo su questa terra conosciamo Dio «a traverso uno
-specchio, in enigma », mentre soltanto in cielo «lo vedremo
-a faccia a faccia » (1 Cor. 13, 12). E non solo non abbiamo
-una conoscenza adeguata di Dio, ma non l'abbiamo her
-pure della santità: fino a un certo punto conosciamo ‘O
-cose di Dio e così pure fino ad un certo punto conosciamo
-la via della perfezione; infatti non sempre sappiamo di
-scernere il più perfetto e molte volte, pur non volendo,
-sbagliamo credendo buono e santo ciò che in realtà non lo è.
-altra parte, la piena unione con Dio, ossia la santità,
+**2** — Da Betlemme a Nazareth, Maria visse per trent'anni nella dolce intimità familiare con Gesù. Gesù è sempre il centro della sua attrazione, il centro dei suoi affetti, dei suoi pensieri, delle sue cure. Maria si muove intorno a Lui, guarda a Lui, cercando sempre di scoprire nuovi mezzi per fargli piacere, per servirlo ed amarlo con la massima dedizione. La sua volontà si muove all'unisono con la volontà di Gesù, il suo cuore palpita in perfetta armonia con quello di Lui; ella «è partecipe dei pensieri di Cristo, dei suoi nascosti desideri, di modo che si può dire che viva la vita stessa del Figlio» (Pio X, Enc. *Ad diem illum*). Come la vita di Maria, così la sua preghiera continua ad essere *cristocentrica*, ma Cristo la porta alla Trinità. È stato proprio il mistero dell'Incarnazione che ha introdotto Maria nella pienezza della vita trinitaria, le sue particolarissime relazioni con le tre Persone divine s'iniziano quando l'Angelo le annunzia che sarà la madre del *Figlio* dell'Altissimo e lo sarà per virtù dello *Spirito Santo*. Ecco la figlia diletta del Padre, la sposa dello Spirito Santo, la madre del Verbo, e queste relazioni non si restringono al periodo in cui Maria porta in sé il Verbo Incarnato, ma si estendono a tutta la sua vita. Ecco Maria «tempio della Trinità» (S. Caterina da Siena), Maria che, «dopo Gesù, e indubbiamente con la distanza che corre dall'infinito al finito, è la grande lode di gloria della SS.ma Trinità» (E.T. II, 15).
 
-esige un perfetto orientamento verso di Lui, secondo il
-primo ed il massimo precetto di Gesù: «Ama il Signore
-Dio tuo con tutto il tuo cuore, con tutta la tua anima e
-con tutta la tua mente» (Mt. 22, 37); ma questo perfetto
-
-orientamento eccede le nostre forze, appunto perchè abbiamo una conoscenza troppo imperfetta di Dio e della
-via che a Lui conduce. Dovremo, dunque, rinunciare alla
-santità? Niente affatto! Dio, che ci vuole santi, ci dà anche il
-modo di diventarlo: lo Spirito Santo ci è stato dato proprio a
-questo scopo. « Riceverete forza di Spirito Santo, quando
-verrà su di voi» (At. 1, 8), ha detto Gesù.
-
-2. — Lo Spirito Santo che «scruta le profondità di
-Dio» (I Cor. 2, 10) e quindi conosce perfettamente la
-natura e i misteri divini, che penetra tutte le cose e quindi
-conosce a perfezione le finezze e i segreti della virtù più
-elevata, come pure i bisogni e le deficienze delle anime
-nostre, viene a prenderci per mano per guidarci alla santità.
-Finchè procediamo con le nostre iniziative, il nostro orientamento verso Dio rimane sempre imperfetto, incompleto,
-pesto noi agiamo in modo umano, ma allorchè interviene
-lo Spirito Santo, Egli opera come Dio, in modo divino e
-perciò ci attira e ci orienta completamente verso di Lui.
-Quando siamo noi ad agire, dobbiamo sempre cominciare
-col lavoro del pensiero e, solo in seguito a questo, passiamo
-alla determinazione della volontà; ma, siccome il nostro
-pensiero è tanto limitato, ecco che nella pratica rimaniamo
-sempre immensamente al di sotto di quel che dovremmo
-fare per Iddio. Quando, invece, interviene lo Spirito Santo,
-Egli agisce direttamente sulla volontà attirandola a sè,
-c'infiamma il cuore e, di conseguenza, c'illumina Ja mente.
-Così nasce in noi quel «senso di Dio» che non sappiamo
-esprimere, ma che ci fa conoscere, gustare Dio e ci orienta
-a Lui più di qualsiasi ragionamento ed industria nostra.
-Allora sentiamo che Dio è «unico», che tutte le creature
-sono infinitamente distanti da Lui, sentiamo che Egli
-merita tutto il nostro amore e che, anzi, questo è un nulla
-di fronte alla infinita amabilità divina; sentiamo che qual
-siasi sacrificio è sempre troppo poco per un Dio così grande.
-Proprio in tal modo lo Spirito Santo ci pone sul cammino
-
-della santità. E lo fa anche aiutandoci a superare le difficoltà
-pratiche: molte volte, ad esempio, ci troviamo alle prese
-con un difetto che non riusciamo a vincere, con una virtù
-che non riusciamo ad acquistare, con una perplessità che
-non riusciamo a risolvere; ma ad un certo punto, senza
-saper come, le cose cambiano: vediamo con chiarezza quel
-che prima ci lasciava dubbiosi e riusciamo a fare con
-facilità quel che prima ci pareva impossibile. Anche ciò
-è frutto dell'azione dello Spirito Santo nell'anima nostra.
-Ecco perchè le sue iniziative sono tanto preziose per noi,
-e dobbiamo desiderarle e invocarle con tanta fiducia.
+Maria si presenta così come il modello più perfetto delle anime che aspirano all'intimità con Dio e nello stesso tempo ne è la guida più sicura. Ella ci guida a Gesù e c'insegna a concentrare in Lui tutti i nostri affetti, a darci totalmente a Lui, fino a perderci ed a trasformarci in Lui; ma, per mezzo di Gesù, ci guida pure alla vita di unione con la Trinità. Anche l'anima nostra è, per la grazia che l'investe, tempio della Trinità e Maria c'insegna a vivere in questo tempio come perenni adoratori delle Persone divine che vi dimorano. «Non devo fare nessuno sforzo — diceva Suor Elisabetta della Trinità — per penetrare in questo mistero dell'inabitazione divina nella Vergine Santa; mi sembra di trovarvi il movimento abituale dell'anima sua che fu pure il suo: adorare in me il Dio nascosto» *(Lettere)*. Dietro la guida di Maria, sia dato anche a noi di vivere in questo atteggiamento d'incessante adorazione della Trinità inabitante nell'anima nostra.
 
 ### Colloquio
 
-«O amore del Dio eterno, santa comunicazione del
-Padre onnipotente e del beatissimo Figlio suo, onnipotente
-Paraclito Spirito, clementissimo consolatore dei mesti,
-colla tua potente virtù penetra nell'intimo del mio cuore:
-col fulgore della tua splendente luce allieta qualsiasi tenebroso angolo della negletta dimora dell'anima mia, e,
-visitandola, feconda coll'abbondanza della tua rugiada ciò
-che una lunga aridità ha reso languente e squallido. Ferisci
-l'intimo dell’uomo interiore col dardo del tuo amore; penetra nelle midolle del cuore intorpidito, ed accendilo di
-salutari fiamme; illustrando col fuoco del santo fervore
-l'intimo della mente e del corpo, tutto l'uomo riconforta.
+«Penso, o Maria, che cosa dovevi provare quando, dopo l'Incarnazione, possedevi in te il Verbo Umanato, il dono di Dio! Con quale silenzio, con quale adorazione dovevi inabissarti nel profondo dell'anima tua, per stringere in te quel Dio di cui eri Madre! Mi sembra, o Vergine santa, che il tuo atteggiamento durante i mesi che precedettero la Natività di Gesù, sia il modello delle anime interiori, degli esseri che Dio ha scelto per vivere al 'di dentro' in fondo all'abisso senza fondo. Con quale pace, con quale raccoglimento ti recavi e ti portavi ad ogni cosa! Come divinizzavi anche le più ordinarie, poiché attraverso tutto Tu rimanevi l'adoratrice del dono di Dio!» (cfr. E.T. *Lettere*; I, 10).
 
-«Credo che ogni qualvolta Tu discendi in un'anima,
-ivi prepari il domicilio al Padre ed al Figlio. Beato colui che
-merita di ospitarti! Per te in lui stabiliscono la loro dimora
-il Padre ed il Figlio. Vieni adunque, vieni, benignissimo
-Consolatore della dolente anima, protettore in ogni occorrenza e sostegno nella tribolazione. Vieni, purificatore dei
-delitti, medico delle ferite. Vieni, fortezza dei fragili, ristoratore di quelli che cadono. Vieni, maestro degli umili,
-Tu che atterri i superbi. Vieni, o pio padre degli orfani,
-delle vedove giudice pio. Vieni, speranza dei poveri, ristoro
-dei languenti. Vieni, stella dei naviganti, porto dei naufra-
-
-ghi. Vieni, o Tu, decoro singolare d'ogni vivente, dei morenti unica salute.
-
-«Vieni, santissimo Spirito; vieni, ed abbi pietà di me;
-rivestimi di te, e propizio esaudiscimi, affinchè, secondo
-la moltitudine delle tue misericordie, piaccia la mia piccolezzà alla tua grandezza: la mia debolezza alla tua forza, per
-Gesù Cristo mio Salvatore, che col Padre vive e regna
-nella tua unità, pei secoli dei secoli. Così sia » (S. Agostino).
+«O Maria, Tu sei il trono di Dio, l'ostensorio del suo amore. Sei l'ostensorio vivente di Gesù e quando io adoro Gesù in te è proprio un'adorazione del Santo Sacramento esposto, *adoratio in ostensoria*. O Maria, tutta la teologia conferma questo tuo bel nome: ostensorio di Cristo! Ostensorio di Cristo in Betlemme, nella Presentazione, in Cana, sulla Croce, nell'Eucaristia, in cielo. Sì, anche in cielo; non ti diciamo forse: 'Dopo questo esilio, mostraci — *ostende* — Gesù, il frutto benedetto del tuo ventre?'... O Maria, insegnami a guardare, ad amare Gesù come lo guardi e lo ami Tu, insegnami a desiderarlo col tuo amore, a donarmi a Lui, ad essere tutto suo come Tu sei sua, insegnami ad adorare Gesù con i tuoi stessi sentimenti. O Madre dolcissima insegnami a trovare ed a pregare Gesù; riempimi di Gesù, trasformami in lui. O Maria, introducimi nella contemplazione della vita, dell'opera e della divinità del Figlio tuo. Sii Tu la via che mi conduce a Gesù, il vincolo che mi unisce a lui e che, con lui ed in lui, mi unisce alla SS.ma Trinità» (cfr. D. Edoardo Poppe).

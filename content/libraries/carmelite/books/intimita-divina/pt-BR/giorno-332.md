@@ -1,57 +1,43 @@
-## 332 — MATURIDADE APOSTÓLICA
+## 332 — A IMOLAÇÃO APOSTÓLICA
 
 ### Presença de Deus
 
-Teu amor, ó Deus, amadureça minha alma e a torne capaz de dar-se plenamente ao serviço das almas.
+Ó Jesus, imolado por minha salvação, faze que eu seja digno de imolar-me contigo pela salvação dos meus irmãos.
 
 ### Meditação
 
-1 — Chegada à união com Deus na qual a chama do zelo irrompe espontânea, o apóstolo pode agora entregar-se livremente ao apostolado.
+1. — A oração apostólica deve ser acompanhada do sacrifício, à imitação da oração que Jesus elevou por nós ao Pai no horto das oliveiras e na Cruz. O amor deve impelir os orantes «ao sacrifício ativo, que não descansa na oração até que a dor e o sofrimento tenham quase tocado o limite das forças. Nesses momentos, consumidos pelo ardor da caridade e pela veemência do desejo, eles já não serão apenas orantes, mas orações viventes» (Pio XII).
 
-É fato que, tendo chegado a esse ponto, a alma não pode e não deve esquivar-se do dom de si: seja consagrada à contemplação ou à ação, viva na solidão do claustro ou no turbilhão do mundo, sua vida consiste agora em dar-se incessantemente: dar-se a Deus em proveito do próximo; dar-se ao próximo para glória de Deus.
+Oração e sacrifício estão intimamente conexos, porque brotam de uma única chama: o amor que impele à oração e à imolação incessante pela glória de Deus e pela salvação das almas. Vida contemplativa é, portanto, sinônimo de vida austera e penitente, a ponto de ser um contínuo «sacrifício de louvor». Quanto mais a oração é nutrida e impregnada de sacrifício, tanto mais é eficaz; aliás, alcança a máxima eficácia justamente quando o sacrifício é máximo.
 
-Sufocar essa tendência seria retroceder e empobrecer a própria vida espiritual; é precisamente a fase em que a alma deve enriquecer-se justamente por meio do dom de si vivido no exercício de intenso apostolado, interior ou exterior.
+Toda alma contemplativa deve «ser digno altar onde possa residir a Divina Majestade» (São João da Cruz), altar do qual se eleva a oração e sobre o qual se imola o sacrifício. O apostolado de Jesus culminou e se cumpriu no aniquilamento da morte de cruz e por meio dela.
 
-Todavia os santos nos ensinam que a prudência ainda é necessária, e não se deve cessar de vigiar, pois ter recebido a graça interior do apostolado não significa estar confirmado na graça.
+Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo. 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
 
-Santa Teresa o diz expressamente: «Conheci algumas pessoas muito adiantadas que, depois de chegarem até aqui, o demônio ainda conseguiu fazer suas por meio de insídias e astúcias sutis» (*Castelo Interior* V, 4, 6). E pouco antes havia dito: «Quantos devem ser os que, chamados por Deus ao apostolado, honrados como Judas com suas próprias comunicações... acabam depois, por culpa própria, perdendo-se!»
+Nossa participação no apostolado de Jesus encontra seu cumprimento no sacrifício de nós mesmos: sacrifício não fantasioso e hipotético, mas real e concreto, de cujo modo e medida o próprio Deus nos indica através das circunstâncias da vida, das permissões de sua divina Providência, das disposições dos superiores, dos deveres de nosso estado.
 
-Espontaneamente recorda-se o grito cheio de humildade e de desconfiança de si que brotou do coração de Paulo, o Apóstolo arrebatado ao terceiro céu: «Não aconteça que, depois de ter pregado aos outros, eu mesmo venha a ser reprovado» (1Cor 9,27).
+Quando uma alma está disposta, pela salvação dos irmãos, a viver no contínuo sacrifício da própria vontade, no contínuo renegar-se; quando está disposta a deixar-se crucificar de qualquer modo pela santa vontade de Deus para conquistar ao seu amor outras almas, então alcança o vértice do apostolado e, portanto, da fecundidade apostólica.
 
-Enquanto estamos nesta terra temos motivo para temer. Infelizmente, temos sempre a triste possibilidade de não corresponder à graça, de afastar-nos, ainda que em mínimas coisas, da vontade de Deus — e nisso está justamente nossa ruína — e assim, pouco a pouco, retroceder.
+2. — Muitos não se salvam porque não há quem reze e se sacrifique por eles. Sem as lágrimas e os sofrimentos de Mônica, muito provavelmente a Igreja não teria Santo Agostinho. Benditas, pois, aquelas almas que fazem da imolação apostólica a razão de ser e o fim de sua vida.
 
-«Almas cristãs que o Senhor conduziu até aqui — exclama Teresa de Jesus — peço-vos, por amor dele, que nunca vos descuideis e fuji das ocasiões!» E acrescenta: «Creio que [o demônio], para conseguir fazer desviar um apóstolo, deve mobilizar todo o inferno, persuadido de que arruinar uma alma dessas é arruinar uma multidão.»
+«Minhas irmãs em Cristo — escreve Santa Teresa de Jesus às suas filhas — uni-vos comigo em pedir a Deus esta graça [a salvação das almas]. Para isso Ele vos trouxe aqui; este é o vosso encargo e os vossos desejos, este o assunto de vossas lágrimas e de vossas orações... No dia em que vossas orações, disciplinas, desejos e jejuns não fossem empregados para isso, sabei-o, não alcançaríeis o fim para o qual o Senhor vos reuniu aqui» (Caminho da Perfeição).
 
-Ao contrário, se o apóstolo se mantém fiel à graça do apostolado, não só se torna instrumento para a salvação de muitos, mas enriquece imensamente sua vida interior.
+Os contemplativos e as contemplativas, não tendo tarefas de apostolado externo, estão maximamente obrigados a concentrar todas as suas forças na oração e no sacrifício, porque só assim corresponderão às grandes esperanças que a Igreja põe neles e realizarão sua vocação.
 
-2 — Nessa etapa, três cautelas são particularmente necessárias.
+Mediante as penitências que provêm do viver em comum e da observância de uma vida austera, humilde, submetida em tudo à obediência e privada de toda satisfação humana, são chamados de modo especial a cumprir generosamente na própria carne o que falta à Paixão de Cristo em favor de seu Corpo místico, que é a Igreja (cf. *Sponsa Christi*).
 
-Primeiro, é preciso ter sempre ciumento cuidado da humildade, defendendo-se das vozes lisonjeiras dos elogios e sucessos e contrapondo-lhes o quadro das próprias misérias, bem como dos erros e insucessos experimentados no apostolado.
+«Vim ao Carmelo para salvar as almas», havia declarado Santa Teresinha do Menino Jesus e, depois de consumir e oferecer para esse fim todas as suas energias, durante os estragos da última doença oferecia pelos pecadores até aquelas orações que se faziam para obter-lhe algum alívio.
 
-Se por orgulho caiu Lúcifer — puro espírito — não é impossível que por orgulho caia um apóstolo que, sendo homem, está agravado pela matéria.
+Mas, se os contemplativos devem ser os «especializados» do apostolado do sacrifício, este não pode e não deve faltar, embora em forma diversa, na vida de todo apóstolo. Como Jesus comprou nossas almas ao preço de seu Sangue, assim todo aquele que quer colaborar com Ele na salvação da humanidade deve estar disposto a unir ao Sangue precioso de Cristo alguma gota do próprio.
 
-Depois, é necessária delicada atenção para manter o contato íntimo com Deus, porque, como o ferro se abrasa e resplandece somente em contato com o fogo, assim o apóstolo difunde luz e calor divinos somente se se mantém unido Àquele que é sua única fonte.
-
-Por fim, é de máxima importância perseverar no perfeito desapego do próprio juízo e da própria vontade. A esse respeito, São João da Cruz adverte «que, entre as muitas astúcias usadas pelo demônio para enganar os espirituais, a mais comum é iludi-los sob aparência de bem e não de mal, porque já sabe que o mal manifesto mal tocarão» (*Subida* 10).
-
-Por isso, para não cair na cilada, o Santo exorta a nunca empreender «uma ação, por mais boa e cheia de caridade» que pareça, sem aprovação da obediência.
-
-Esse aviso vale não só para os religiosos, mas para todos os que trabalham no apostolado, porque todos devem manter-se submetidos à autoridade eclesiástica.
-
-Ainda que uma obra, uma iniciativa, um método de apostolado desse os melhores resultados, se a autoridade eclesiástica, por qualquer motivo, não os aprovasse, o apóstolo deveria estar pronto a renunciar imediatamente, sem críticas, sem queixas, sem artifícios para fazer prevalecer o próprio ponto de vista.
-
-Protegido por profunda humildade, sustentado por sincero desapego e íntima união com Deus, o apóstolo pode percorrer os caminhos do mundo sem temor algum por sua vida espiritual.
+As almas custam caro e o apóstolo deve pagar do seu aquelas que quer conquistar. O apostolado é verdadeiro e fecundo na medida em que é intrínseco de sofrimento, na medida em que é fruto de imolação.
 
 ### Colóquio
 
-«Ó Senhor, as almas que te foram mais próximas, como tua santíssima Mãe e teus gloriosos Apóstolos, foram as que mais sofreram e mais se afadigaram por ti, sem se conceder descanso algum.
+«Senhor, meu coração exulta pensando que te dignaste escolher-me para associar-me à grande obra da Redenção e para sofrer em mim quase um prolongamento da tua Paixão. Tu me tomaste e queres que eu seja para ti quase uma humanidade acrescentada em que possas sofrer pela glória do Pai, pelas necessidades da tua Igreja.
 
-«Meu Deus, quão descuidada do próprio repouso deve ser a alma que vive profundamente unida a ti! Quão pouco deve cuidar da honra! Quão longe deve estar de desejar ser estimada em alguma coisa! Sim, se ela se entretém frequentemente contigo, como convém, acaba por esquecer-se de si para esgotar toda preocupação em buscar agradar-te mais e em conhecer em que coisas e por quais vias possa mostrar-te o amor que te traz.
+«Como eu seria feliz, Mestre adorado, se me pedisses até derramar o sangue por ti. Mas o que desejo sobretudo é o martírio de amor que consumiu os santos. Pois Tu disseste que a maior prova de amor é dar a vida por quem se ama, eu te dou a minha, para que faças dela o que quiseres; se não sou mártir de sangue, quero ser mártir de amor.
 
-«Ó Senhor, Tu me ensinas que este é o fim da oração, e para isso tende a união contigo: para produzir obras e obras.
+«Quanto me alegro pensando que, desde a eternidade, fomos conhecidos pelo Pai e que Ele quer reencontrar em nós tua imagem, ó Cristo crucificado! Quão necessário é, pois, o sofrimento, para que tua obra se cumpra em mim! Tu desejas enriquecer-me com tuas graças; sou eu que limito teu dom e determino sua medida em proporção à generosidade com que me deixo imolar por ti.
 
-«Se eu fixar meu olhar em ti, divino Crucificado, tudo me será fácil. Se Tu me mostraste teu amor com obras tão grandes e com tormentos tão espantosos, por que eu haveria de contentar-me somente com palavras?
-
-«Oh, faze que eu saiba dar-me a ti como tua escrava, tal que, marcada com teu ferro, o da cruz, Tu possas vender-me por escrava de todo o mundo! Eis o que quer dizer ser verdadeiramente espiritual.
-
-«Unida a ti, Forte divino, participarei da tua fortaleza, como dela participaram os santos, para trabalhar com grande zelo por tua glória, para sofrer e morrer por ti, para ganhar-te muitas almas» (cf. Santa Teresa de Jesus).
+«Ó Senhor, Tu chamavas a hora da tua Paixão de “tua hora”, aquela para a qual vieste, aquela que todos os teus desejos buscavam. Quando uma grande dor, ou mesmo um pequeníssimo sacrifício, se me apresentar, quero logo pensar que aquela é “a minha hora”, a hora em que posso dar prova do meu amor a ti, que tanto me amaste» (Isabel da Trindade).

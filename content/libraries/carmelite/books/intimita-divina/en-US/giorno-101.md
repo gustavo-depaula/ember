@@ -1,118 +1,111 @@
-## 101 — EXAMINATION OF CONSCIENCE
+## 99 — VENIAL SIN
 
 ### Presence of God
 
-— O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.
-
 ### Meditation
 
-1 — To ensure spiritual life an orderly
-and progressive development, it is necessary to become aware
-of one's own position, that is, of one's sins, weak points,
-evil tendencies, as well as of progress
-made, good results obtained, tendencies toward
-good. This awareness of one's interior state
-is made precisely by means of examination of conscience which,
-considered thus, constitutes one of the most important exercises
-of spiritual life, since it has the purpose of helping the soul
-to eliminate all that can hinder or delay its
-journey toward God and of urging it to quicken its pace
-toward Him. As one cannot wage war on an unknown enemy and cannot conquer an unknown region,
-so one cannot combat evil in ourselves unless first
-we identify it, and one cannot conquer holiness
-without having studied the best plan for attaining it. In
-other words, examination of conscience reaches its purpose
-when the soul that has applied itself to it can say to itself:
-these are the tendencies I must watch most carefully so as not to fall into sin, these the weak points
+1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
+opposite to it, with the consequence of diminishing its
+impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
+God.
+
+This kind of venial sins, when committed habitually,
+diminish the soul's tendency toward God and instead increase the tendency toward selfish
 
 
-that I must strengthen, and on the other hand these are the good tendencies I must cultivate, these the virtues in which I must
-exercise myself more. In this way the soul will be able to formulate well-defined practical resolutions,
-which will then become the particular object of its further examinations.
-
-It is clear that first of all there must be well known and combated the tendencies that can lead to
-mortal sin, but then also those that lead to
-venial sin or to simple voluntary imperfections. Everything
-that is voluntary fault must be progressively, but
-decisively, eliminated by a soul that wants to reach union with God.
+satisfaction, toward creatures. And thus, little by little,
 
 
-2 — In its examinations of conscience, a soul of interior
-life - supposing it is now free from mortal
-sin - rather than go seeking all the faults
-committed, should fix its attention on the degree of voluntariness that is in them, even when they concern
-simple imperfections, because it is precisely deliberate
-faults that most hinder spiritual progress and
-union with God. Of such faults it should carefully seek
-the cause, the motive, and thus it will often
-realize that, while its external faults are of
-various kinds - for example faults against charity,
-patience, obedience, sincerity - all nevertheless proceed from one single cause; for example from pride or
-sloth, which is their common root. And it is precisely against these ultimate roots of our sins and imperfections that
-we must direct our efforts: we must combat them directly not only trying to repel them by mortification,
-but also developing in ourselves the contrary virtues.
-It is, in other terms, the struggle against the predominant
-defect or passion; a most important struggle, because, aiming to destroy evil at its root, it of itself
-eliminates many present faults.
-
-When then the soul has no longer to reproach itself for properly deliberate sins and imperfections, it must direct
-
-
-its attention to semi-deliberate ones,
-of which, though having a half-consciousness or confused awareness, it still cannot free itself, despite sincere and repeated resolutions
-to correct itself. In these cases, besides continuing to combat the roots of its faults, it is very useful to strengthen more and more the resolution to conquer itself, because
-in proportion as the will is resolved to correct itself, the faults that still escape lose voluntariness and
-therefore become lighter and lighter; indeed often they are
+the soul loses fervor, loses sensitivity to offense against
+God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
+an indifference that puts it in danger of offending God
+even in grave matter. It is in this sense that venial sin
+can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
+undermines the organism. It is not rare to find
+souls who, having at first given themselves to God with sincere
+fervor, over time, yielding to selfishness, laziness,
+their own comfort, and not knowing how to impose generous efforts
+upon themselves to proceed on the path undertaken, let themselves
+go to continual negligences, listlessness, voluntary omissions,
+acts of laziness. Their spiritual life is reduced
+to a kind of lethargy that is not yet death, but
+has no longer anything of the freshness and vigor of a
+healthy and robust life. The fervor of charity is lacking,
+extinguished by continual, deliberate compliances with venial sin.
+St. Teresa of Jesus, warning against such a state,
+teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
+the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
+however small... And what can ever be small in
+offending a Majesty so great?" (P. 2,
+5 and 20; Way 41, 3).
 
 
-only purely natural residues of contracted habits,
-but already detested.
+2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
+wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
+by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
+of the Lord, rises again, and sets out once more. Such
 
-Another important point always to keep in mind in examination of conscience is to watch and keep awake the tendency toward holiness, the desire always to do what
-pleases God more, because this is the spring of spiritual
-life, of generosity. Likewise an excellent method
-is to examine ourselves more from God's point of view than from
-our own, that is, to ask whether the Lord can be pleased
-with us and what His judgment will be on our conduct.
+
+sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
+Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
+which will lead it to distrust its own strength totally,
+
+
+to place in God alone all its trust. It will experience
+in practice the great reality of Jesus' words: "Without
+Me you can do nothing" (Jn. 15, 5). Not infrequently the
+Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
+seriously in humility, which is the basis of all spiritual life.
+
+St. Therese of the Child Jesus, speaking of such faults,
+believed she could assert that they "do not displease
+the Lord," precisely because they do not depend on bad
+will, which with open eyes and a cool mind
+commits sin, but rather on the weakness of human
+nature.
+
+If because of our weakness it is impossible not to fall
+every day into some venial faults of surprise or fragility,
+what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
+must be firmly resolved never to commit one for all
+the gold in the world.
 
 ### Colloquy
 
-"O God of my soul, who am I and what am I? Is there a fault
-that has not been in my actions or, if not in my actions, in my words, or, if not in my words, in my
-will? But You, O Lord, are good and merciful is
-Your right hand.
-
-"O Physician of my soul, reveal to me the fruits of my
-confession. I confess myself so that confession of my
-evils... may awaken my heart, that it may not sleep; but even saying this I do not feel myself capable; may it awaken in love of
-Your mercy and in the sweetness of Your grace, through
-which every infirm spirit feels itself strong and becomes aware of its weakness.
-
-"I will love You, O Lord, and I will give You thanks and exalt
-Your name, because You forgave me so many evil deeds. It was
-the work of Your grace and of Your mercy, if my
+"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
+has kept me Your spouse, although through my defects
+I have always been unfaithful to You. Peccavi, Domine, miserere mei.
+O my soul, and what are you doing? Do you not know that
+you are continually seen by God? Know that from His
+eye you can never hide, because nothing is hidden from Him... O eternal God,
+O compassionate and merciful Father, have pity and mercy
+on us, because we are blind and without any
 
 
-sins You melted like ice. Work of Your grace
-is also all the evil I have not done. What sin was there
-I did not know how to commit, I who loved fault even gratuitously? And I confess that all sins were forgiven me,
-both those I committed spontaneously and
-those I did not commit with Your help" (St. Augustine).
-O my God, who by one single act of Your will
-created light and light was, repeat over me Your omnipotent creative word: "fiat lux," and there will be light in
-my soul; and in Your light I shall be able to see myself as I really
-am in Your sight. But light is not enough for me, so
-weak and feeble; I need strength, O Lord; I need
-a strong and resolute will to detest every form of evil,
-to detest my selfishness, my pride, my sloth, to renew and strengthen the resolution to conquer myself
-for love of You. Yes, O Lord, with Your help I want to conquer myself,
-not for the vain satisfaction of feeling better,
-but solely to please You, to avoid the smallest
-thing that displeases You, to grow in Your love, to enter
-ever more deeply into Your union. O my God, Infinite Perfection, envelop and penetrate my soul with the reflection
-of Your holiness and as the sun with its ray illuminates,
-purifies, and makes the earth fruitful, so You enlighten, purify,
-sanctify my whole being. Teach me to look at myself in
-You, to know myself in You, to consider my miseries in the
-reflection of Your infinite perfections, to throw open my
-soul to the invasion of Your purifying, sanctifying light.
+light, especially I, poor and miserable... O You,
+true sun, enter my soul and illumine it with Yourself.
+Drive out its darkness and give light; destroy the frost of self-
+love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+
+"May it please You, O Lord, that I fear only
+offending You, convinced that greater harm can come to me
+from one deliberate venial sin than from all
+hell" (T.G. Life 25, 20). In fact, the true evil, the only
+one I must fear, is neither temptation nor trials,
+nor interior and exterior contradictions, nor loss of material
+goods or bodily health; but true evil is what
+can in any way hinder my union with You, my
+supreme Good! And this evil, I understand, can be
+caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
+free me from so great an evil, take from me the sad ability to
+offend You, and if by my native weakness it is impossible
+for me to be exempt from every fault, grant that these may
+never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+
+"Yes, because of my misery I fall very often, often I
+allow myself to be distracted from my one occupation, I move away
+from You, I wet my poor little wings, scarcely formed,
+in the miserable puddles of water I find on this earth! Then
+I groan like the swallow, and my cry tells You all,
+and You, infinite Mercy, remember that You did not come
+to call the just, but sinners" (T.B.G. St. 11).

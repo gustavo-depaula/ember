@@ -1,61 +1,99 @@
-## 351 — AMOR OPEROSO E FORTE
+## 29 — APARECEU O SALVADOR
+*25 dezembro*
 
 ### Presença de Deus
 
-Ó Senhor, faze que meu amor por ti não se contente com palavras, mas se demonstre com obras generosas.
+Meu Deus, que me criaste para ti, faze que eu possa voltar a ti e a ti unir-me por amor.
 
 ### Meditação
 
-1 — «O amor nunca está ocioso» (Santa Teresa de Jesus). Quando o verdadeiro amor de Deus entra numa alma, pouco a pouco gera nela um dinamismo interior tão forte e premente que a impele a buscar sempre novos meios de agradar ao Amado, tornando-a industriosa em descobrir maneiras de lhe dar prova de amor.
+i — Deus é caridade, Deus nos amou com amor eterno!
+"Parece que o Senhor dissesse: o homem não me ama porque não me vê; quero fazer-me ver por ele e assim fazer-me
+amar. O amor divino para com o homem era demasiado grande e
+assim sempre fora ab aeterno; mas este amor ainda não tinha
+aparecido... Então verdadeiramente apareceu quando o Filho de Deus se fez ver menino numa estrebaria, sobre um pouco
+de palha" (S. Afonso). Eis o mistério natalino; eis o grito exultante de São Paulo: "A graça de Deus, nosso Salva-
+dor, manifestou-se a todos os homens... Apareceu a bondade e
+o amor pelos homens de Deus, nosso Salvador" (Ep. na
+II Missa: Tit. 2, 11-15; 3, 4-7). Eis o bem-aventurado anúncio
+"da grande alegria" que o Anjo traz aos pastores:
+"Hoje vos nasceu um Salvador, que é o Cristo Senhor"
+(Ev. I Missa: Lc. 2, 1-11). Na liturgia de hoje os textos
+se sucedem em tom de exultação crescente para enaltecer
+o dulcíssimo Menino Jesus, o Verbo humanado, vivo e pulsante no meio de nós: "Quem vistes, pastores? Dizei-o,
+anunciai-no-lo: quem apareceu na terra? O Menino
+vimos e hostes de anjos que louvavam em coro o
+Senhor" (BR.). "Alegrem-se os céus e exulte toda a terra
+na presença do Senhor!" (MR.). O nosso Deus está
+aqui, no meio de nós, feito um de nós: "Nasceu-nos um
+Menino, foi-nos dado um Filho... o seu nome é: Admirável, Deus, Príncipe da paz, Pai do século fu-
+turo... Exulta filha de Sião, canta filha de Jerusalém...
+Jubilai ao Senhor, habitantes da terra! Vinde, ó nações,
+e adorai o Senhor" (BR.).
 
-O amor alimenta-se de obras, não de suaves sentimentos ou fantasias.
+Vamos, vinde, adorai, escutai, jubilai: Jesus, o Verbo
+do Pai, nos diz uma grande palavra: Deus vos ama!
 
-«O amor — diz Santa Teresa de Jesus — pode comparar-se a um grande fogo que é preciso alimentar continuamente para impedir que se apague. Assim essas almas [as almas em que o próprio Deus vai acendendo a chama da caridade], para encontrar alimento e impedir que se apague, estão prontas a lançar nele a lenha dos maiores sacrifícios.»
+2 — As três Missas natalinas põem diante de nós um
+quadro majestoso: a comovente descrição do nascimento
+de Jesus enquanto homem alterna-se com a sublime da
+geração eterna do Verbo no seio do Pai e não faltam
+alusões ao nascimento de Cristo nas almas por meio da
+graça. Mas este tríplice nascimento não é senão uma única manifestação de Deus-Caridade. Ninguém, nesta terra, podia
+conhecer o amor de Deus, mas o Verbo, que está no seio do
+Pai, conhece-o e pode revelá-lo. O Verbo se fez carne e nos mostrou o amor de Deus; por Ele, a sua incom-
+preensível e invisível caridade tornou-se evidente, palpável naquele doce Menino que do presépio nos estende os braços. O
+Prefácio de hoje o declara expressamente: "Eterno Deus,
+pelo mistério da Encarnação do Verbo um novo raio
+da tua luz vem resplandecer diante dos olhos da nossa mente para que, conhecendo sensivelmente Deus,
+sejamos arrebatados ao amor das coisas invisíveis". Sim, aquele
+"Menino envolto em faixas e deitado numa manjedoura" é o nosso Deus, feito para nós sensível, visível, o nosso Deus que nos
+mostra do modo mais concreto a sua caridade infinita. Não se
+pode contemplar o pequeno Jesus sem sentir-se tomado, arrebatado
+pelo amor infinito que no-lo deu; Jesus Menino nos
+revela o amor de Deus, manifesta-no-lo na forma mais clara e mais comovente.
 
-Quem ama de verdade não fica examinando se uma coisa é fácil ou difícil, agradável ou desagradável, mas põe mãos a tudo para alimentar o amor; aliás, de preferência escolhe as obras de maior sacrifício, porque entende que o amor nunca é tão verdadeiro como quando leva a sacrificar-se por Aquele que se ama.
-
-Assim acontece que o amor «produz na alma um habitual sofrer por causa do Amado, sem jamais cansar-se. Pois, como diz Santo Agostinho, o amor torna fáceis e quase nada até as coisas maiores e mais penosas.... [Nesse estado] o espírito tem tanta força que mantém sujeita a carne e faz tão pouco caso dela quanto uma árvore de uma de suas folhas; e de modo algum busca conforto e prazer, nem em si nem em outra coisa» (São João da Cruz).
-
-Isso explica a atitude dos santos, que não só abraçavam de boa vontade todos os sofrimentos que Deus punha em seu caminho, mas eles mesmos os buscavam com cuidado zeloso, como o avaro busca o ouro.
-
-Ao Senhor que lhe perguntava o que queria em recompensa dos grandes serviços prestados, São João da Cruz, ardente de amor, respondia: «Padecer e ser desprezado por amor de ti.»
-
-E Santa Teresa de Jesus, vendo prolongar-se seu exílio terreno, encontrava no sofrimento abraçado por Deus o único modo de aquietar seu coração sedento de amor eterno e suplicava: «Senhor, não vos peço senão uma coisa: ou morrer ou padecer.»
-
-No céu não teremos necessidade de sofrer para testemunhar a Deus nosso amor, porque lá amaremos na claridade indefectível da visão beatífica. Mas aqui embaixo, onde amamos na obscuridade da fé, precisamos do sofrimento para provar a Deus a realidade de nosso amor.
-
-2 — «O amor, quando é perfeito, tem a força de fazer-nos esquecer toda satisfação própria para agradar ao Amado»; tem a força de fazer-nos aceitar «com a mesma alegria tanto o doce quanto o amargo, quando nisso está seu querer» (Santa Teresa de Jesus).
-
-Evidentemente, tal amor não pode ser fruto de nossa humanidade, à qual o sofrimento tanto repugna; não pode ser fruto de uma conquista nossa, porque supera grandemente as capacidades de nossa natureza tão fraca e vil.
-
-Só Deus infunde pouco a pouco esse amor nas almas que se deixam por Ele conduzir pela via estreita da purificação interior.
-
-Sim, na aridez, na solidão do coração, na privação de toda luz e conforto, o Espírito Santo acende nelas a chama da caridade, chama que tanto mais as invade quanto mais as encontra dispostas e purificadas de tudo o que é contrário ao amor.
-
-Quando todas as resistências são vencidas, todas as escórias eliminadas, o amor irrompe incontível e confere à alma força de gigante.
-
-A chama do amor — explica São João da Cruz — «faz [a alma] sair de si e toda a renova e a faz passar a novo modo de ser.» Modo tão novo que, enquanto antes temia e fugia do sofrer, agora o ama e o abraça com fortaleza.
-
-A alma mais forte no padecer é a alma mais forte no amor.
-
-Nenhuma criatura no mundo amou e amará Deus mais que Maria Santíssima, e nenhuma criatura foi e será mais forte do que ela no sofrimento.
-
-Ei-la aos pés da Cruz: é mãe e assiste voluntariamente ao atroz suplício do Filho; vê os cravos afundarem-se na carne, ouve os golpes surdos do martelo, vê a cabeça coroada de espinhos procurar em vão algum repouso no duro lenho, vê erguer-se a cruz e o Filho pender suspenso entre a terra e o céu, desfigurado de dor, sem o mínimo conforto.
-
-Maria tem o coração traspassado, e no entanto repete seu fiat com a mesma plenitude com que o pronunciou no anúncio tão jubiloso de sua maternidade; e no amor encontra coragem para oferecer o Filho dileto pela salvação de seus algozes.
-
-Que mãe poderia igualar a fortaleza de Nossa Senhora? E contudo seu sacrifício supera imensamente o de qualquer mãe, porque só ela pode dizer: o Filho que imolo é meu Deus.
-
-Aos pés da Cruz, junto de Maria, que o amor e a dor tornaram Rainha dos mártires, aprendamos o segredo do amor forte.
+São Paulo na Epístola (Heb. 1, 1-11) da terceira Missa
+natalina diz: "Deus... nestes últimos tempos falou-nos por
+meio de seu Filho... reflexo da sua glória e impressão da sua substância". Jesus, Verbo Encarnado, no seu
+silêncio de menino impotente, fala-nos e revela-nos a
+substância de Deus: a caridade de Deus.
 
 ### Colóquio
 
-«Quem te ama de verdade, Senhor, não tem senão um único cuidado: contentar-te. Morre de desejo de ser por ti reamado e consome a vida na ânsia de poder amar-te mais. E um tal amor poderá manter-se escondido?
+"Ó poderosa e eterna Trindade! Ó dulcíssima e inefável Caridade! quem não se inflamaria em tanto amor? Qual
+coração poderia defender-se de consumir-se por ti?
 
-«Não, meu Deus, é impossível! Certo, o amor tem seus graus e manifesta-se mais ou menos conforme sua medida. Se é pequeno, manifesta-se pouco; e se é grande, muito. Mas, seja pequeno ou grande, quando é verdadeiro amor, sempre se faz conhecer.
+"Ó abismo de caridade! Tu és, pois, assim perdidamente
+apegado às tuas criaturas, que parece que não podes viver sem elas! E no entanto és nosso Deus! Tu não tens neces-
+sidade de nós. O nosso bem nada acrescenta à tua grandeza,
+pois és imutável. O nosso mal não poderia
+causar dano a ti, que és a soberana e eterna bondade!
+Quem, pois, te estimula a tanta misericórdia? O amor. Porque Tu não tens obrigação alguma para conosco e não tens de nós
+necessidade alguma. Quem leva a ti, Deus infinito, para mim, pequena criatura? Nenhum outro senão Tu mesmo. Ó Fogo de A-
+mor, sempre o Amor somente te impeliu e te impele!—
 
-«Ó Senhor, faze que meu amor não seja fruto de imaginação, mas seja provado com obras. E que posso eu fazer por ti, que morreste por nós, que nos criaste e nos conservas no ser, senão ter-me por feliz de poder pagar-te, ao menos em parte, o muito que te devo?
+"Tu, suma doçura, dignaste-te unir-te com a
+nossa amargura; Tu, esplendor, com as trevas; Tu, sa-
 
-«Ah, faze, Senhor, que também para mim amanheça finalmente o dia em que eu possa de algum modo satisfazer ao muito de que te sou devedor! Custe o que custar, Senhor, mas não permitas mais que eu venha diante de ti com as mãos vazias, já que o prêmio será em proporção das obras. Conheço o pouco que valho, mas unido a ti serei capaz de tudo.
+bedoria, com a loucura; Tu, vida, com a morte; Tu, infinito, com nós finitos!" (Santa Catarina de Sena).
 
-«Ah, meu Senhor, se quem te ama não faz grandes coisas, não é certamente por tua culpa, mas por nossa pusilanimidade e covardia, que nos impedem de resolver-nos de verdade, cheios como estamos de temores e prudências humanas. Por isso, meu Deus, não manifestas tuas grandezas e maravilhas. Quem mais do que Tu é amigo de dar, encontrando quem queira receber? Quem mais largamente do que Tu retribui os serviços que lhe são prestados?» (Santa Teresa de Jesus).
+Ó dulcíssimo Verbo Encarnado, ó amabilíssimo Menino Jesus, eis-me finalmente aos teus pés: deixa-me contemplar, permite que eu me deleite na tua beleza, na tua
+bondade, na tua caridade imensa! O teu amor infinito se
+apresenta a mim vivo e pulsante neste terno Menino
+que me sorri e me estende os seus bracinhos e este
+Menino és Tu mesmo, ó meu Deus! Como poderei agradecer-te
+o teu amor excessivo? Como poderei retribuir-te?
+
+"Tu, sendo grande e rico, por nós te fizeste pequeno e pobre, escolheste nascer fora de casa numa
+estrebaria, ser envolto em paninhos, sugar leite virginal,
+ser deposto no presépio entre o boi e o jumentinho.
+'Hoje brilhou para nós o dia da redenção nova,
+da restauração antiga,
+da felicidade eterna; hoje por
+todo o mundo os céus destilaram mel!' Abraça
+agora, pois, alma minha, esse divino presépio, aperta os
+lábios aos pezinhos do Menino, beija-os a ambos. Medita,
+além disso, as vigílias dos pastores, vê o exército dos anjos acorrendo, une-te para fazer a tua parte na celeste melodia,
+cantando com a boca e com o coração: Glória a Deus no
+mais alto dos céus e paz na terra aos homens de boa vontade" (S. Boaventura).

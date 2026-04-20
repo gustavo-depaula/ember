@@ -1,126 +1,100 @@
-## 106 — HUMILITY AND TRUST
+## 104 — HUMILITY
 
 ### Presence of God
 
-— From the depth of my nothingness I cry to You, O Lord; Lord hear my voice... I trust in You.
+— O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.
 
 ### Meditation
 
-1 — Christian humility does not depress, but lifts up,
-does not cast down, but encourages, because the more it unveils to the soul
+1 — Charity is the essence of Christian perfection,
+because only charity has the power to unite man to God, his
+last end. But on our part - poor, miserable creatures
+whom God wants to raise up to union with Him - is charity
+properly the ultimate foundation of spiritual life? No,
+there is something still deeper, which is, so to speak,
+the foundation of charity, and this is humility. Humility
+stands to charity as foundations stand to a building.
+Digging a house's foundations is not yet building
+the house, and yet it is the preliminary and indispensable work:
+the conditio sine qua non. The deeper and better planted the foundations are,
+the higher the building can rise and the more solidity it will
+guarantee. Only the fool
+"builds his house on sand," with the inevitable consequence of seeing it soon collapse; but the wise man
+builds "his house on rock" (Mt. 7, 24-26), and then,
+despite raging waters and winds, the house
+does not collapse, precisely because its foundations are firmly planted.
+
+Humility is the solid and secure rock on which every Christian soul
+must raise the building of its spiritual life.
+"If you want your building to rise on a good foundation - teaches St. Teresa of Jesus to her daughters -
+seek to be the least of all [that is, exercise yourselves much in humility], and thus you will lay such strong stones as to prevent your castle from collapsing" (cf. M. VII, 4, 8).
+
+Humility digs the foundations of charity, in the sense
 
 
-its nothingness, its lowliness, the more it launches it toward God,
-full of trust and confidence. The very fact
-that in everything - in being and in acting, both in the natural order and in
-the supernatural - we depend on Him and cannot do anything without Him, tells us that God wills to sustain us continually
-with His help, with His grace. Consequently,
-the relations of a humble soul with God will be those
-of a child who trustfully awaits everything
-from his father. This is the teaching Jesus wanted
-to give the Apostles when they asked Him who would be greatest
-in the kingdom of heaven: "Truly I say to you:
-unless you turn and become like little children,
-you shall not enter the kingdom of heaven. Whoever therefore makes himself little like this child, shall be greatest in the kingdom of heaven" (Mt. 18, 3-4).
-To become children - explains St. Therese of the Child Jesus -
-"means to recognize one's nothingness,
-to expect everything from the good God as a child expects
-everything from his father... Even among the poor,
-the child is given what is necessary; but when he has
-become grown, his father no longer wishes to maintain him
-and says: 'Now work! you can provide for yourself.' Precisely so as not to hear these words,
-I have never wanted to become grown, recognizing myself absolutely incapable of earning my life,
-eternal life!" (CR. and NV.).
-
-For the soul that, humbly recognizing its poverty,
-turns to God with full trust, God is a most tender
-Father who delights to fill it with His gifts and to do
-for it what it by itself does not know how to do. Then the one who is smallest - that is, most convinced of his own nothingness - becomes the greatest,
-because he has at his disposal the greatness of
-God Himself.
+that it empties the soul of pride, empties the soul of disordered love of self and of one's own excellence, to make room for the love of God and neighbor. The
+more humility clears the soul of vain and proud
+claims of self, the more room it makes for God. And "when at last [the spiritual man] comes to reduce himself to nothing, that is,
+to establish himself in supreme humility, then indeed it may be said that spiritual union between his soul and God has now occurred"
+(J.C. A. II, 7, 11).
 
 
-2 — God does not introduce souls into a higher
-spiritual life, does not admit them to greater intimacy with Him,
-until He finds them completely stripped of every trust
-in themselves. When a soul, practically forgetting
-its nothingness, trusts even a little in its own strength,
+2 — The soul that desires to attain the sublime heights
+of union with God must tread the way of profound
+humility, because, as the divine Master teaches,
+only "he who humbles himself shall be exalted" (Lk. 18, 14).
 
+The higher the ideal of holiness to which you aspire,
+the loftier the goal to which you tend, the more you must go down, or rather
+must dig in yourself the fertile abyss of humility. "Abyssus
+abyssum invocat" (Ps. 41, 8), the abyss of humility calls
+the abyss of Infinite Mercy, of graces and divine gifts;
+indeed "God resists the proud and gives grace to the
+humble" (I Pet. 5, 5). Humble yourself, then, under the mighty hand of God, sincerely acknowledge your nothingness,
+become aware of your misery, and if you wish to glory,
+do so - like St. Paul - only in your infirmities, because precisely in your weakness, humbly acknowledged, grace and divine power work and triumph (cf. II Cor. 12, 9). Even
+if you belong to the number of those good souls,
+sincerely desirous of advancing on the way of perfection,
+but who rely too much on their own strength and personal initiatives, you can very profitably apply to yourself
+the precious warning that St. Therese of the Child Jesus gave
+to a novice: "I see well that she is taking the wrong road and will never
+arrive at the end of her journey,
+for she would like to climb a mountain, whereas God wants her to descend it... Jesus Himself will undertake to fill her soul, little by little,
+as she empties it of her imperfections" (CR.).
 
-its knowledge, initiatives, virtues, God leaves it
-to itself; the failures that follow, relapses,
-the sterility of its works will lay bare
-its insufficiency. And the more tenacious the soul is in
-trusting itself, the longer the Lord will prolong for it this
-practical experience of its nothingness.
-
-St. Teresa of Jesus, speaking of her definitive and total
-conversion, confesses that what prevented her from overcoming
-the final obstacles was precisely a residue of trust she
-still had in herself: "I was wrong not to place in the
-Lord all my trust and not to distrust my
-own powers enough" (Life 8, 12). Trust in God grows in proportion
-to distrust of self and becomes total when the soul, having understood deeply its nothingness, has lost every trust
-in its personal resources. The soul then experiences the
-reality of Jesus' word: "When you have done all
-that is commanded you, say: 'We are unprofitable servants'"
-(Lk. 17, 10) and, though it has greatly exercised itself in interior life, prayer, and virtue, it knows it cannot count
-at all on its own strength, knows that though it has labored for
-the glory of God, it cannot at all count on its works;
-and therefore it counts totally and solely on God's mercy and
-grace: "Non habeo fiduciam nisi in tua misericordia." Its trust is in Jesus' infinite merits,
-in the merciful love of the heavenly Father and in the work
-
-
-of grace; and this trust renders it more than ever courageous and bold, because it knows that with God all is possible.
+The sublime ideal of union with God totally surpasses our capacities as weak creatures; if we can aspire
+to it, it is not because we count on reaching it through our
+own efforts and initiatives, but because we trust that God Himself, according to His promise, will come to
+take us by the hand. But God does not take by the hand the proud soul; He bends only over the humble, and
+the more humble He finds a soul, the more He raises it to Himself.
+Humility digs in the soul the capacity to receive the abundance of divine gifts.
 
 ### Colloquy
 
-"What pleases Jesus - says the Saint of Lisieux -
-is to see me love my littleness and my poverty; it is the
+"O my God, You make me understand to what point
+I must descend so that my heart may serve You as a dwelling: I must become so poor as not to know where to lay
+my head. My heart is not entirely empty of myself, and
+for this You command me to descend. Oh, I want to descend very low, that You may rest Your divine head in my
+heart and there feel Yourself loved and understood!
+O sweet divine Guest, You know my misery, and precisely for this You come into me with the intention of finding there
+an empty tent, a heart totally empty of self. You ask no
+other thing of me" (cf. T.B.G. Lt. 116 and 144).
+
+O Lord, help me dig in my poor soul
+that abyss of humility which draws the abyss of Your infinite mercies. Help me descend, while my pride
+loves so much to rise. Help me recognize and confess humbly my nothingness and weakness, while my pride so loves to deem itself something great. Help me
+glory in my infirmities, while my pride
+tends continually to glory in what is not mine,
+but pure gift of Yours. My God, how true it is that holiness follows the path opposite to nature! Give me strength to undertake this path courageously, to go
+into You, O Lord, for I know You are always ready to sustain the weak who has recourse to You and entrusts himself to You; because I know that, if my pride is great, Your mercy is
 
 
-blind hope I have in His mercy. This is my
-only treasure" (Lt. 176).
+infinite and Your omnipotence invincible; because I know that
+if "someone is exhausted and in need of help, lacking
+strength and abounding in misery, as soon as Your eye
+rests upon him, You raise him from his abjection and misery,
+and lift up his head" (cf. Sir. 11, 11-13).
 
-
-"I recognize it, O Lord, I am very weak and every
-day I make new experience of it. But You deign
-
-
-to teach me that science which makes me glory in my infirmities.
-This is a very great grace, and in it alone
-I find peace and rest of heart, because I have now understood Your way: You give as God knows to give, but You want humility of heart" (cf. T.B.G. Lt. 87 and 140).
-
-O Lord, Your light penetrates my soul and makes me
-understand how far my ways are from Yours!
-Instead of being irritated by my miseries, instead of being cast down
-by my falls and failures, instead of pretending
-to succeed in everything and accomplish great things, I must
-accept humbly to see myself so weak, so needy,
-so much in need of Your help.
-
-For a soul that loves You, my God,
-how sweet it is to need You, so as to be unable to do anything without You!
-It is sweet, because this tells me that You
-wish continually to intervene in my poor life, that You wish continually to sustain me by Your grace,
-that You will never abandon me, not even for the first moment. And to give me the abundance of Your divine helps,
-You await only that I place myself before You in the humble and trusting attitude
-of a child who, unable to rely on his own strength and resources, expects everything from his father. You await
-that, profoundly convinced of my nothingness, I accept and
-love to feel myself nothing, so that You may be my All.
-
-Strip me, O Lord, strip me of every residue of trust in myself. If every man is like the grass of the field
-that today is and tomorrow is no more, what greater folly
-can there be than to count on the strength of a blade of grass? Heal me, O Lord, of such folly and place me, I beg You,
-in truth. O You who are Truth, sanctify me in truth,
-in the truth of my nothingness.
-
-You alone are good, my God, and You alone can make me
-good; You alone are just, and You alone can justify me. You
-alone are holy, and You alone can sanctify me. The less
-I can expect from myself, the more I can and want to expect
-from You; from You good will and constancy,
-from You strength and patience, from You purity and goodness,
-from You virtue and holiness. From me nothing, and from You all. O Lord, hasten to
-come to my aid: my nothingness invokes You, my misery sighs for You!
+O Lord, who will be "abounding in misery" more than
+I, who have not yet conquered my pride? And then who
+more than I will have need of Your help?

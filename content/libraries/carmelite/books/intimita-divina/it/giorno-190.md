@@ -1,125 +1,19 @@
-## 190 — LE VIRTÙ E I DONI
+## XXI — L'AZIONE DELLO SPIRITO SANTO
 
-### Presenza di Dio
-
-Insegnami, o Spirito Santo, a mantenermi in atteggiamento di continuo ascolto delle tue ispirazioni, di continua dipendenza dai tuoi impulsi.
+**Presenza di Dio.** — *O Spirito Santo, rivelami la tua azione nell'anima mia, insegnami a riconoscerla ed a assecondarla.*
 
 ### Meditazione
 
-1. — S. Tommaso insegna che i doni dello Spirito
-Santo ci sono dati in aiuto delle virtù: «dona sunt in
-adjutorium virtutum>. L'espressione è molto profonda:
-i doni ci sono dati per aiutare le virtù, quindi non per
-sostituirle; ciò vuol dire che l’anima deve fare da parte
-sua tutto quello che può, applicandosi seriamente all'esercizio delle virtù, ed allora lo Spirito Santo, mediante i
-doni, compirà da parte sua quel di l’anima non può fare.
+**1** — Come lo Spirito Santo stava nell'Anima SS.ma di Cristo per portarla in Dio, così sta pure nelle anime nostre; ma, mentre in Gesù trovava una volontà totalmente docile che poteva padroneggiare in pieno, in noi trova spesso una volontà restia che gli oppone resistenza; Egli, quindi, si arresta, poiché non vuole violentare la nostra libertà. Spirito di *Amore*, attende che noi corrispondiamo per *amore* all'opera sua: che per amore e liberamente apriamo l'anima alla sua azione santificatrice. Per farci santi, dobbiamo, dunque, collaborare all'opera dello Spirito Santo; ma, poiché non si può prestare una collaborazione efficace se non si conosce il modo di agire del promotore dell'opera da compiersi, ecco che è necessario conoscere come il divino Paraclito, promotore della nostra santificazione, agisce in noi.
 
-Quindi il primo atteggiamento pratico che l'anima deve
-prendere, affinchè lo Spirito Santo si degni di porre in
-atto i suoi doni, è quello di mettersi in cammino verso la
-santità mediante i suoi sforzi. Tutta la tradizione cattolica
+È importante sapere che lo Spirito Santo lavora sempre nelle anime nostre, anche nelle prime tappe della vita spirituale, anzi fin dall'inizio di essa, benché allora lo faccia in un modo più nascosto e quindi meno conosciuto. Ma la sua azione c'è, è preziosissima e consiste soprattutto nel preparare e assecondare le nostre iniziative per l'acquisto della perfezione. La prima opera che Egli compie in noi è quella di elevarci allo stato soprannaturale comunicandoci la grazia, senza la quale non potremmo far nulla per giungere alla santità. La grazia ci viene da Dio, tutta la SS.ma Trinità ce la dona, ma, come al Padre se ne attribuisce particolarmente la creazione, come il Figlio con la sua Incarnazione, passione e morte ce l'ha meritata, così lo Spirito Santo la diffonde nelle anime nostre; a Lui infatti, Spirito di Amore, viene attribuita, in modo speciale, l'opera della nostra santificazione. Quando abbiamo ricevuto il battesimo siamo stati giustificati «nel nome del Padre e del Figlio e dello Spirito Santo», tuttavia la Sacra Scrittura attribuisce quest'opera di rigenerazione e di filiazione divina in modo particolare allo Spirito Santo; Gesù stesso ci ha presentato il battesimo come una rinascita «dallo Spirito Santo» *(Gv.* 3, 5) e S. Paolo afferma: «tutti siamo stati battezzati in un unico Spirito» e «lo Spirito stesso attesta allo spirito nostro che siamo figli di Dio» (cfr. *I Cor.* 12, 13; *Rom.* 8, 16). È, dunque, lo Spirito Santo che ha preparato e disposto le anime nostre alla vita soprannaturale effondendo in noi la grazia.
 
-pone come punto di za questa attività ed appli
-cazione personale, perchè ese l’anima cerca Dio, molto
-più il suo amato Signore cerca lei... l’attrae e la fa correre
-verso di Lui» (G.C. F. 3, 28). E l'anima cerca Dio ap
-punto attraverso l'esercizio assiduo delle virtù che, pur
-non essendo sufficiente a condurla alla meta, è però ne
-cessario per dimostrare al Signore la sua buona volontà.
-Come il marinaio che vuol giungere al porto non aspetta
-oziosamente il soffio del vento, ma nell'attesa si pone a
-remare con vigore, così l'anima che desidera trovare il
-Signore, nell'attesa che Egli stesso venga ad attirarla a sè,
-non si abbandona all’ozio, ma si applica di lena a cercarlo
-con le sue iniziative personali: sono sforzi per vincere i
-pri difetti, per distaccarsi dalle creature, per praticare
-le virtù. per attuare il raccoglimento interiore, ecc. E pro
-prio in questi sforzi lo Spirito Santo inserirà la sua azione,
-mettendo in atto i suoi doni. Vediamo, quindi, quanto è
-sbagliato l'atteggiamento di certe anime che rimangono
-troppo passive nella loro vita spirituale, non rendendo
-sufficienti iniziative personali per avanzare nel bene, per
-andare incontro a Dio. Queste anime perdono il loro tempo
-e si espongono a facili illusioni. Soprattutto agli inizi della
-vita spirituale, è necessario mettersi attivamente all'opera:
-solo così possiamo sperare nel soccorso dello Spirito Santo.
+**2** — Inoltre, per renderci capaci di compiere azioni soprannaturali, lo Spirito Santo, venendo nell'anima nostra, ne ha investito le potenze — intelligenza e volontà — con le virtù infuse. Anzitutto, Egli effonde in noi la carità e, con la carità, le altre virtù teologali: la fede e la speranza; parimenti infonde in noi le virtù morali. Così, proprio per suo intervento, noi diventiamo capaci di operare soprannaturalmente. Ma l'azione dello Spirito Santo non si limita a questo; Egli, come un buon maestro, continua ad assisterci nel nostro agire, sollecitandoci al bene e sostenendoci nei nostri sforzi. Anzitutto, c'invita al bene con le ispirazioni interiori ed anche mediante mezzi esterni, particolarmente mediante la Sacra Scrittura e il magistero della Chiesa. La Sacra Scrittura è la parola di Dio vergata dagli uomini, i quali hanno scritto sotto la mozione dello Spirito Santo. Nella Sacra Scrittura è quindi il divino Paraclito che ci parla, illuminando con la sua luce la nostra mente, spingendo col suo impulso la nostra volontà: perciò meditare i sacri testi, è un po' come «andare a scuola» dallo Spirito Santo. Lo Spirito Santo, inoltre, continua ad istruirci e a stimolarci al bene mediante la parola viva della Chiesa, poiché tutti coloro che nella Chiesa hanno una missione d'insegnamento, mentre espongono ai fedeli le sacre dottrine, sono sotto il suo influsso. Se poi accettiamo le ispirazioni dello Spirito Santo, se dietro il suo invito ci decidiamo ad agire, Egli ancora ci accompagna ed assiste con la grazia attuale, affinché possiamo condurre a termine l'opera virtuosa. È chiaro dunque che anche quando la vita spirituale è agli inizi e si concentra nella correzione dei difetti e nell'acquisto delle virtù, l'attività dell'anima è interamente permeata e sostenuta dall'azione dello Spirito Santo. A questa verità noi pensiamo troppo poco e perciò in pratica teniamo poco conto della continua
 
-2. — In genere, nel primo periodo della vita spirituale,
-l'influsso dei doni dello Spirito Santo, pur non mancando
-mai, è piuttosto nascosto « raro; naturalmente, perciò, in
-questo pe prevale l'iniziativa dell'anima, ossia l'esercizio
-attivo delle virtù e dell’orazione. Ma, a misura che la vita
-spirituale si sviluppa, ossia a misura che la carità cresce,
-viene a crescere anche l'influsso dei doni, anzi, quando
-l'anima è fedele, quest'influsso si fa gradatamente più forte
-e frequente fino a prendere la prevalenza sulle iniziative
-dell'anima stessa; ed è proprio così che, sotto la direzione
-dello Spirito Santo, l’anima giunge alla santità.
-
-Per poter approfittare dei doni dello Spirito Santo, occorre
-che l’anima, fin dagli inizi della sua vita spirituale, si abitui ad
-essere insieme attiva e passiva, cioè, pur prendendo le sue
-iniziative, cerchi, nello stesso tempo, di mantenersi attenta
-e docile alle ispirazioni dello Spirito Santo. Infatti, se vi sono
-delle anime troppo passive, ve ne sono anche di troppo
-attive che fanno consistere tutto nei loro piani di riforma
-spirituale, nei loro propositi, nei loro esercizi, come se la
-santità dipendesse unicamente dalle loro industrie; in fondo,
-esse contano troppo sulle loro forze e troppo poco sull'aiuto
-divino. Queste anime corrono il rischio di non saper cogliere le ispirazioni dello Spirito Santo, di soffocare i suoi
-impulsi e, quindi, di affaticarsi senza raggiungere la meta.
-Occorre più docibilità e docilità, occorre -più abbandono.
-Docibilità della mente per riconoscere le ispirazioni interiori
-dello Spirito Santo, docilità della volontà per assecondarle,
-abbandono per lasciarsi condurre anche per vie oscure ed
-ignote e contrarie ai propri gusti. Nessuno può essere a se
-stesso maestro di santità, il Maia è unico: è lo Spirito
-Santo; bisogna tenersi sempre alla sua scuola, alla sua dipendenza, perciò, pur lavorando attivamente per la correzione
-dei difetti e per l'acquisto delle virtù, bisogna mantenere
-l'orecchio interiore sempre attento agli impulsi dello Spirito
-Santo: proprio per renderci capaci di ciò Egli ci ha dato i
-suoi doni. «Il Signore mi ridesta le orecchie, affinchè io
-l’ascolti come maestro -— dice Isaia —. Il Signore mi ha
-aperto l'orecchio ed io non contraddico, nè mi sono mai
-tirato indietro» (50, 4 e 5). Questo deve essere l’atteggiamento interiore di un'anima che vuol lasciarsi guidare dallo
-Spirito Santo.
+opera del divino Spirito nelle anime nostre. Bisogna pensarvi per non lasciar passare invano le sue ispirazioni e i suoi impulsi. «Per grazia di Dio son quel che sono», ma S. Paolo poteva aggiungere: «la grazia di Dio in me non fu vana» *(I Cor.* 15, 10).
 
 ### Colloquio
 
-«O Spirito Santo, Dio Amore, nodo della Santa Trinità
-per via dell'amore, Tu riposi e poni le tue delizie tra i figli
-degli uomini, nella santa castità che, per l'influsso della tua
-fo za e dei tuoi incanti, fiorisce quaggiù come la rosa tra le
+«O Spirito Santo, Ospite divino delle anime nostre, Tu sei l'ospite più nobile e più degno di tutti gli ospiti! Con l'agilità della tua bontà e del tuo amore per noi, ti rechi rapidamente verso tutte le anime dispose a riceverti. E chi potrebbe dire gli effetti meravigliosi che produci sui ricevuto? Tu parli senza dir nulla e il tuo sublime silenzio è inteso ovunque. Sei sempre immobile e sempre in movimento e, nella tua mobile immobilità, ti comunichi a tutti. Sei sempre in riposo e tuttavia sempre operoso; e nel tuo riposo operi le più grandi, le più degne, le più ammirabili opere. Sei sempre in cammino, senza però cambiar posto e dovunque penetri, affermi, conservi, e, al tempo stesso, distruggi tutto. La tua scienza immensa e penetrante conosce tutto, intende tutto, penetra tutto. Senza ascoltar nulla, odi la minima parola detta nel più intimo dei cuori.
 
-spine. Spirito Santo! Amore! Amore! Dimmi qual via conduce
-ad un sì delizioso soggiorno, dov'è il sentiero della vita, che
-mena a queste praterie fecondate dalla divina rugiada, dove
-si dissetano i cuori arsi dalla sete. O Amore, Tu solo conosci
-questa strada che mena alla vita e alla verità. In te si compie
-il connubio pieno di delizie, che unisce fra loro le divine
-Persone della Trinità santa. Per mezzo tuo, o Spirito Santo,
-sono sparsi sopra di noi i più preziosi doni. Da te procedono
-i semi fecondi che producono i frutti della vita. Da te emana
-il miele così dolce delle delizie che sono solamente in Dio.
-Per te scendono sopra di noi le acque fertilizzanti delle
-divine benedizioni, doni sì cari dello Spirito, ma, purtroppo,
-così rari nella nostra regione.
-
-«O Spirito Santo, Tu sei il fonte cui anelo, il desiderio
-del mio cuore. Oceano riboccante di acque, assorbi questa
-minima goccia errante che desidera uscire da se stessa per
-entrare in te. Tu sei l'intera unica sostanza del cuor mio ed
-a te aderisco con tutto il fervore. Oh, che amabile unione!
-Veramente questa familiarità con te è più apprezzabile della
-stessa vita; il tuo profumo è come un balsamo di propizia.
-zione e di pace.
-
-«O Spirito Santo Amore, tu sei il soavissimo bacio della
-SS.ma Trinità che unisce il Padre ed il Figlio. Tu sei quel
-benedetto bacio che la regale divinità donò all'umanità per
-mezzo del Figlio di Dio. O bacio dolcissimo, il tuo vi
-colo non abbandoni me, atomo di polvere; i tuoi amplessi
-mi stringano, finchè io non sia una cosa sola con Dio. Fammi sperimentare quali delizie siano in te, Dio vivente; dolcissimo amor mio, fa' che ti abbracci, che mi unisca a te.
-O Dio Amore, Tu sei la carissima mia possessione, senza la
-quale niente altro io spero, voglio e desidero in cielo ed in
-terra » (S. Geltrude).
+«O Spirito Santo, dappertutto ti fermi, dove non sei discacciato, perché a tutti ti comunichi, fuorché ai peccatori che non vogliono uscir dal fango del peccato, perché in loro non trovi dove riposarsi, né puoi patire quel lezzo pestilente che emana dal cuore che vuole ostinatamente perseverare nel male. Ti fermi invece nelle creature che, per la loro purezza, si rendono atte a ricevere la comunicazione dei tuoi doni. E in me ti riposi per comunicazione, per operazione, per sapienza, per potenza, per liberalità, per benignità, per carità, per amore, per purità, ed insomma, per tua stessa bontà; e, infondendo queste grazie nella tua creatura, Tu stesso la rendi atta a riceverti» (S. M. Maddalena de' Pazzi).

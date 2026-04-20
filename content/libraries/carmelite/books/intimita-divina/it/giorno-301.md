@@ -1,107 +1,25 @@
-## 301 — BEATI I MISERICORDIOSI
+## IX — PERSEVERANZA E FIDUCIA
 
-### Presenza di Dio
-
-O Spirito Santo, rendi il mio cuore misericordioso a imitazione del Cuore di Gesù.
+**Presenza di Dio.** — O Signore, accresci la mia fiducia nel tuo soccorso e fa' che in questa fiducia trovi sempre il coraggio per ricominciare.
 
 ### Meditazione
 
-1. — Mediante il dono del consiglio lo Spirito Santo vuol
-prendere la direzione pratica della nostra vita per condurci
-alla santità, perciò tutta la perfezione cristiana, che è stata
-oggetto dell’insegnamento di Gesù, è parimenti oggetto del
-dono del consiglio, dei suggerimenti dello Spirito Santo:
-«Egli vi suggerirà tutto ciò io vi ho detto» (Gv. 14, 26),
-ha dichiarato il Maestro. Tuttavia, come nell'insegnamento
-di Gesù vi è una nota dominante ed è quella dell'amore, che
-Egli chiama il suo comandamento, così fra le ispirazioni del
-dono del consiglio, ve n'è una che è generalmente riconosciuta come l'effetto proprio di questo dono ed è la misericordia.
+**1** — Ciò che maggiormente sgomenta le anime di buona volontà, che vogliono applicarsi seriamente alla vita spirituale, è proprio il ritrovarsi tanto spesso a terra, malgrado i loro ripetuti e sinceri propositi. Quando l'anima incomincia l'ascesa è, in genere, piena di coraggio e non dubita affatto della riuscita; ma è ancora inesperta, non si è ancora misurata con le esigenze di una virtù più profonda, né conosce le lotte che l'attendono su questa via. Ed ecco l'insidia: nello scontro con le nuove difficoltà cade; si rialza e cade di nuovo; si rialza ancora e poco dopo si ritrova per terra e così via, finché ad un certo punto si affaccia la più perniciosa delle tentazioni: rinunciare all'impresa che ormai appare impossibile. Quante anime, che avevano intrapreso con fervore la salita del monte della perfezione, sfiduciate per il loro continuo cadere, si sono fermate a mezza strada, anzi sono tornate indietro proprio perché non hanno avuto il coraggio di ricominciare da capo ogni giorno, ogni momento.
 
+Per avere questo coraggio occorre anzitutto umiltà; ossia bisogna essere convinti che, pur nutrendo alte aspirazioni, siamo uomini fallibili come tutti gli altri. La S. Scrittura afferma che «il giusto cadrà sette volte e si rialzerà» *(Pro.* 24, 16); come dunque possiamo pretendere di non cadere noi, che giusti non siamo? Il vero male non sta tanto nel cadere, cosa che quando — Dio lo permette — le anime fervorose e perfino i santi non è l'assenza di qualsiasi mancanza, ma il pronto risorgere dopo ognuna di esse. Quella specie di dispetto che tante anime provano nel vedersi sempre a terra non è frutto di umiltà, ma di orgoglio: non sono ancora così convinte della propria miseria da non meravigliarsi se la sperimentano ad ogni istante, contano ancora troppo su se stesse e Dio, che le vuol condurre al centro del loro nulla, le lascia cadere. Nel piano della divina Provvidenza queste cadute hanno proprio la funzione di persuaderci della nostra miseria; se vogliamo aderire al piano divino non abbiamo che un mezzo: umiliarci; ché se invece ci scoraggiamo e desistiamo dall'impresa, non facciamo che allontanarci da esso, con nostro danno enorme.
 
-Gesù, proponendo il suo comandamento, ha detto: « amatevi scambievolmente come io ho amato voi» (Gv. 15, 12);
-ebbene, la caratteristica fondamentale del suo amore, dell’amore di Dio per gli uomini, è appunto la misericordia. Tutte
-le creature sono miseria davanti a Dio, miseria incapace di
-sussistere senza il continuo intervento della sua azione. E noi
-uomini che cosa siamo? Non solo miseria incapace di sussistere, ma miseria capace di peccare: da soli « nulla siamo,
-nulla possiamo, nulla valiamo, nulla abbiamo fuorchè il peccato» (S. Giov. Eudes); siamo dunque miseria nel senso più
-pieno della parola. Perciò, quando Dio ci ama, il suo amore
-è essenzialmente e necessariamente un atto di misericordia,
-ossia è amore che si china verso la nostra miseria per sollevarla, sostenerla, arricchirla con la sua ricchezza infi-
-nita. Ecco quello che lo Spirito Santo si propone in modo particolare di compiere in noi mediante il dono del consiglio:
-insegnarci a ricopiare questa misericordia che è la caratteristica principale dell'amore di Dio per noi. Lo Spirito Santo
-vuole condurci alla perfetta osservanza del comandamento di
-Gesù, ossia ad imitare l'amore misericordioso del suo cuore
-divino: «amatevi scambievolmente come io ho amato voi»;
-vuol portarci ad imitare la misericordia infinita del Padre celeste: «siate misericordiosi com'è misericordioso il Padre vo-
-stro» (Lc. 6, 36).
+**2** — Certe anime giustificano il loro scoraggiamento dicendo che non possono tollerare di offendere Dio. Sta bene, perché la prima condizione richiesta per farci santi è proprio quella di detestare il peccato e di essere fermamente decisi di evitarlo anche nelle forme più lievi ed a costo di qualsiasi sacrificio. Bisogna però distinguere: questa è la disposizione sincera che dobbiamo sempre coltivare, per cui non tollerare in noi la minima offesa di Dio significa non fare mai pace con i difetti e le mancanze che, nonostante la nostra buona volontà, ancora ci sfuggono; ma, quando, malgrado i nostri sforzi siamo ancora caduti, tale disposizione non ci autorizza affatto a sgomentarci al punto da non essere più capaci di risorgere. Proprio perché non vogliamo tollerare in noi alcuna cosa che dispiaccia al Signore non ci arrenderemo mai nella lotta, ma la riprenderemo con vigore appunto per evitare nuove cadute. In questo campo chi si arrende è già vinto. Infatti, pur combattendo senza tregua, siamo soggetti a cadere, che cosa avverrà quando cederemo le armi? Sarà sempre meglio lottare zoppicando e con qualche ferita che non lottare affatto.
 
+Ma per avere il coraggio di perseverare nella lotta, soprattutto quando — o per la nostra imperfezione e fragilità o permettendolo Dio per umiliarci maggiormente — le cadute sono più frequenti, bisogna unire all'umiltà un'immensa fiducia nel soccorso divino. Avendo sperimentato la nostra miseria, non possiamo davvero risorgere appoggiandoci alle nostre forze e tuttavia ci rimane una risorsa assai più potente: confidare nell'aiuto di Dio. La forza di ricominciare continuamente da capo la troveremo appunto nella fiducia, nel senso che Dio solo può darci tale forza e ce la darà nella misura della nostra confidenza: più avremo fiducia in lui e più saremo forti. Più un'anima è convinta che Dio la chiama alla santità e che, d'altra parte, le sue risorse personali sono insufficienti a condurvela, tanto più deve essere sicura che Dio stesso le fornirà gli aiuti per corrispondere alla sua chiamata. In Dio non vi è nulla di illogico: se vuole da noi una cosa non può negarci i mezzi per conseguirla; perciò se questi mezzi non li troviamo in noi stessi, li troveremo certamente in lui, nella sua onnipotenza ausiliatrice.
 
-2. — Dio è infinitamente misericordioso perchè conosce
-a fondo la nostra miseria; noi siamo ben poco misericordiosi
-perchè la conosciamo troppo poco. Lo Spirito Santo, mediante il dono del consiglio, c'illumina su questo punto e anzitut-
-to riguardo alla nostra miseria naturale: negli insuccessi,
-nelle cadute ci ripete in fondo al cuore gli ammonimenti di
-Gesù: «Senza di me non potete far nulla... Siete servi inutili» (Gv. 15, 5; cfr. Lc. 17, 10); e poco alla volta questa le-
-zione, resa più viva ed efficace dall'esperienza, penetra pro-
-fondamente nelle anime nostre; non abbiamo più bisogno
-di lunghi ragionamenti per persuaderci della nostra insuffi-
-
-
-cienza, del nostro nulla: lo vediamo, lo tocchiamo con mano.
-Il dono del consiglio ci ha aperto gli occhi.
-
-La comprensione della nostra miseria naturale ci rende
-comprensivi anche della miseria altrui. Come potrà avere
-l’ardire di condannare gli altri chi è davvero convinto della
-propria fragilità, debolezza, incostanza? « Chi è senza peccato,
-getti per primo la pietra » (Gv. 8, 7), ci suggerisce interiormente lo Spirito Santo quando, sdegnati per le mancanze al-
-trui, siamo forse tentati d'imitare il gesto duro dei farisei
-verso la donna adultera. Lo Spirito Santo vuole scolpire in
-noi i tratti di Gesù, vuole trasformarci in immagini viventi
-del Salvatore e perciò soavemente, incessantemente ci spinge
-alla misericordia. Ci mette in cuore l'amore per i miseri: miseri nell'ordine materiale, miseri nell'ordine morale affinchè,
-come Gesù, andiamo in cerca di essi, pronti a sacrificarci per
-la loro salvezza. Ci spinge soprattutto in cerca di coloro che,
-avendoci fatto soffrire, hanno un diritto speciale alla nostra
-misericordia e allora non potremo più accontentarci di perdo
-narli, di trattarli con mansuetudine, ma sentiremo il bisogno
-di beneficarli per attuare in pieno l'insegnamento di Gesù:
-«fate del bene.a chi vi odia» (Mt. 5, 44).
-
-Ecco dove vuole condurci lo Spirito Santo col dono del
-consiglio ed in tal modo ci stabilirà in quella misericordia
-
-perfetta di cui il Maestro divino ha detto: « Beati i misericor-
-
-diosi, perchè troveranno misericordia» (Mt. 5, 7). Ecco
-il consiglio prudentissimo dello Spirito Santo: siate miseri
-cordiosi perchè «sarete giudicati secondo lo stesso giudizio col quale avrete giudicato» (ivi, 7, 2).
+«Chi avrà perseverato sino alla fine sarà salvo» *(Mt.* 10, 22), ha detto Gesù. Persevererà sino alla fine non già chi non cadrà mai, ma chi, dopo ogni caduta, saprà umiliarsi e risorgere appoggiandosi alla forza infinita di Dio.
 
 ### Colloquio
 
-« Accorro a te, Signore, a motivo della tua bontà e misericordia, perchè so che non hai disprezzato i poveri, nè hai
-orrore dei peccatori. Tu non hai respinto il ladrone che confessava il suo fallo, nè la peccatrice in lacrime, nè la cananea
-supplicante, nè quella donna che fu colta in flagrante adulterio, e neppure il gabelliere al suo banco, nè il pubblicano
+«O Gesù, lo vedi, io non sono che una piccolissima anima, la quale non può offrirti che tenuissima virtù; anzi, mi accade spesso di lasciarmi ancora sfuggire questi piccoli sacrifici che danno tanto pace al cuore, ma non per questo mi scoraggio; mi adatto ad avere un po' meno di pace e mi sforzo di essere più guardinga un'altra volta. O Signore, quanto mi rendono felice e coraggiosa il tuo perdono ed il tuo aiuto! Com'è facile e soave servirti in terra!
 
+«Se vuoi che per tutta la vita io provi ripugnanza a soffrire e ad essere umiliata, se permetti che tutti i fiori dei miei desideri e della mia buona volontà cadano a terra senza nulla produrre, non voglio turbarmi. Sono sicura che, se persevererò nei miei poveri sforzi, in un batter d'occhio, al momento della morte, Tu saprai far maturare bei frutti sull'albero dell'anima mia» (cfr. T.B.G. *St.* 10; CR.).
 
-implorante misericordia o l’Apostolo che ti rinnegava e nemmeno quelli che ti crocifiggevano. Il profumo delle tue grazie
-mi attira. ‘
+«O Dio, sono sfinito e bisognoso d'aiuto, mancante di forza e abbondante di miseria; ma se il tuo occhio si poserà su di me, sarò sollevato dalla mia umiliazione, si rialzerà il mio capo e molti te ne renderanno gloria.
 
-«Ho sentito il profumo della tua misericordia e vengo a
-te per esserne fornito. Felice l'uomo che, seguendo i tuoi
-esempi, ha il cuore pieno di compassione per i miseri.
-Felice colui che è misericordioso e pronto a soccorrere quelli
-che sono nel bisogno, che si ritiene più beato di dare anzichè di ricevere, che è pronto a perdonare e lento ad adirarsi,
-che non si vendica mai ed in tutte le circostanze considera
-le necessità degli altri come se fossero sue. O Signore, riversa nella mia anima la rugiada della tua misericordia, riem-
-pi il mio cuore di carità, affinchè sappia farmi tutto a tutti
-e sia così morto a me stesso che viva soltanto il bene
-altrui. Insegnami a distillare il profumo soave della misericordia che è composto delle necessità dei poveri, delle angosce
-degli oppressi, delle ansie degli affitti, dei falli dei tori
-e infine di tutte le sofferenze di coloro che sono nel dolore,
-anche se fossero nemici. Tutte queste cose appaiono sprege
-voli alla mia natura, ma il profumo che da esse si ricava sorpassa tutti gli aromi poichè, come. Tu hai detto, ha il potere
-di darci la vita eterna: ‘Beati i misericordiosi perchè troveranno misericordia’. O Signore, fa’ che io possa versare questo
-profumo non solo sul tuo capo e sui tuoi piedi, ma sul tuo
-corpo intero che è la Chiesa, affinchè lenisca i dolori di tutti
-i tuoi membri sofferenti» (cfr. S. Bernardo).
+«Concedimi di star saldo nel patto stretto con te, di vivere conforme ad esso e d'invecchiare nell'adempimento dei miei doveri. Voglio confidare e perseverare nella mia impresa, giacché per te è cosa facile, o Signore, arricchire il povero ad un tratto. La tua benedizione sarà il mio premio ed in brevi momenti farà fruttificare i miei sforzi» (cfr. *Ecli* 11, 12-24).

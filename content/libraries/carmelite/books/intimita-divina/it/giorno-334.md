@@ -1,96 +1,25 @@
-## 334 — MARTA E MARIA
+## 12 — LE OPERE APOSTOLICHE
 
-### Presenza di Dio
-
-O Signore, che io ti ami col cuore di Maria e insieme ti serva con la dedizione di Marta.
+**Presenza di Dio.** — *O mio Dio, rendimi degno di collaborare alla diffusione del tuo regno di amore.*
 
 ### Meditazione
 
-l'anima che si è data seriamente a Dio: l'attrattiva all'orazione solitaria e silenziosa per tuffars in Dio, per ascoltare la sua voce, per penetrare i suoi misteri e soprattutto
+**1** — L'apostolato interiore della preghiera e della sofferenza ha, per la sua intrinseca efficacia e fecondità, la preminenza su ogni altra forma di apostolato a tal punto che, anche senza essere accompagnato da alcuna attività esteriore, è sufficiente per fare di coloro che lo vivono dei grandi apostoli eminenti. Tuttavia, nella società, nella Chiesa sono necessarie anche le opere; Dio le vuole e, infatti, in linea ordinaria, Egli interviene nel mondo proprio mediante l'attività dei suoi apostoli. Per diffondere la vita della grazia nelle anime, accanto all'apostolato interiore dei contemplativi, è necessaria l'attività esterna dei Pastori e dei fedeli: per amministrare i sacramenti è necessario il ministero sacerdotale; per convertire gli infedeli occorrono missionari; per la formazione cristiana della gioventù occorrono scuole e educatori; per la cristianizzazione della società occorrono opere sociali, occorrono professionisti che siano apostoli nel loro ambiente di vita. Nel campo dell'apostolato, come dice S. Paolo, vi sono molte mansioni, molti uffici d'importanza e di valore, eppure tutti derivano da un unico spirito, lo Spirito Santo che «li distribuisce a ciascuno secondo che vuole» e nel medesimo tempo li ordina tutti ad un unico scopo: l'incremento del Corpo mistico di Cristo *(cfr. I Cor.* 12). E, come nel corpo non può un membro fare a meno dell'altro, «né può l'occhio dire alla mano: 'Non ho bisogno di te'; né la testa ai piedi: 'Non ho bisogno di voi'» *(ivi,* 21), così né i contemplativi possono dire agli attivi: «non sono necessarie le vostre opere», né questi possono dire a quelli: «è inutile la vostra preghiera», né i sostenitori delle varie attività apostoliche possono gli uni anteporsi o preferirsi agli altri, ma, apprezzandosi a vicenda, tutti devono lavorare con spirito di solidarietà, aiutandosi scambievolmente e attendendo ciascuno ad adempiere il proprio ufficio con la maggior perfezione possibile. Dall'amore con cui ognuno disimpegna le proprie mansioni e, nello stesso tempo, si tiene unito agli altri apostoli, sempre pronto ad appoggiare ed a favorire le opere altrui, risulta appunto il bene universale della Chiesa, bene cui l'apostolo deve mirare al di sopra di ogni opera o interesse personale.
 
-per unirsi più intimamente a lui, c, nello stesso tempo,
-l'attrattiva all'apostolato, al sacrificio attivo e generoso
-per la salvezza dei fratelli. Per raccogliersi in Dio l'anima
-«vorrebbe fuggire gli uomini e invidia grandemente coloro che vivono e son vissuti nei deserti. Nel contempo
-vorrebbe pure cacciarsi in mezzo al mondo per ottenere
-che anche un'anima sola lodasse Iddio di più » (1.G.M.
-VI, 6,3). È questo il doppio movimento della carità che,
-essendo amore di Dio e amore del prossimo insieme, spinge e verso l'unione con Dio e verso il servizio del prossimo; mancando uno di questi movimenti Ja carità non
-sarebbe piena. Lo sviluppo della vita interiore comporta
-tale duplice attrattiva, la quale è indice e mezzo di progresso ed insieme è anche tormento per l'anima che non
-sa ancora cquilibrarsi bene fra le due tendenze. A quale
-delle due darà la prevalenza? All'azione o alla contemplazione? In pratica il problema deve essere risolto in base
-alle esigenze dei doveri del proprio stato, alle disposizioni
-dell'obbedienza, alle circostanze concrete permesse da Dio;
-il desiderio della contemplazione che dovesse distrarre ©
-distogliere l'anima dall'adempimento del dovere non sarebbe conforme alla volontà di Dio e Dio ha tutto il di
-ritto di chiedere anche la rinuncia a questo desiderio per
-ìnviarci al servizio del prossimo. Alla Maddalena, felice
-d'averlo finalmente ritrovato e desiderosa di sostare ai
-suoi piedi, Gesù risorto ingiungeva: « Va' dai miei fratelli » (Gv. 20,17) e lei, docile, partiva ad annunziare la
-risurrezione. D'altra parte, è vero anche il contrario; agli
-Apostoli, ritornati dalla predicazione, Gesù diceva: «Venitevene in disparte, in un luogo solitario » (Mr. 6,31), invitandoli così a sospendere l'attività apostolica per ritemprare il loro Spirito nel silenzio e nella preghiera, soli a
-solo con lui. La via giusta, che c'impedisce di deviare in
-un senso o nell'altro, è sempre quella del dovere, della
-volontà di Dio, dell'ispirazione interiore, controllata da
-chi ha l'autorità di dirigere le anime.
+**2** — Il primo posto nel ministero apostolico spetta senz'altro ai Pastori che sono i diretti successori degli Apostoli, cui Gesù affidò ufficialmente il mandato di evangelizzare il mondo: «Andate, ammaestrate tutte le genti, battezzandole nel nome del Padre e del Figliolo e dello Spirito Santo, insegnando loro ad osservare tutto quanto vi ho comandato» *(Mt.* 28, 19 e 20). Accanto a questo, che è *l'apostolato gerarchico*, riservato ai chierici, vi è quello dei laici che la Chiesa invita a collaborare con la Gerarchia. I Pastori guidano, governano, tracciano le linee e, sotto la loro direzione, i fedeli sono chiamati a prestare la loro opera. S'intende quindi che l'apostolato autentico, l'unico che può rientrare nel piano di Dio per la salvezza del mondo, è quello che viene svolto in armonia con le direttive della Chiesa. Non merita il nome di apostolo chi vuol lavorare la vigna del Signore indipendentemente da coloro che il Signore stesso ha preposto alla cura e al governo di essa; un'attività di tal genere non solo non coopererebbe ai fini dell'apostolato, ma sarebbe piuttosto di danno e di ostacolo.
 
-postolato e quella all'unione con Dio, occorre una soluzione più profonda che non può venire dall'esterno, ma
-solo dall'interno e che consiste in un maggior progresso
-nelle vie dello spirito, sì da pervenire a un più alto grado di amore. L'amore è l'unica radice da cui sbocciano
-l'azione e Ja contemplazione; esso è l'unica forza che, ali.
-mentando ad un tempo queste due attività, riesce infine
-fonderle in piena armonia affinchè diano i frutti migliori.
-Nate dall'unico ceppo di un amore già progredito, azione e contemplazione si fondono solo nell'amore perfetto.
-
-La carità perfetta fa sì che l'anima raccolta in contemplazione ai piedi del Signore, sia quanto mai operosa
-e feconda per il bene dei fratelli: « Un pochino di questo puro amore [l'amore solitario che fiorisce nel contatto
-intimo con Dio] apporta maggiore utilità alla Chiesa che
-non tutte le altre opere unite insieme... Pertanto — dichiara S. Giovanni della Croce — quando un'anima avesse un po' di questo solitario amore, si farebbe gran danno
-a lei e alla Chiesa, se la volessero occupare in cose esteriori o attive, quantunque assai importanti » (G.C. C. 29,
-2 e 3). Nelle regioni dell'amore puro, ossia della carità perfetta, contemplazione ed apostolato s'identificano, si completano e si esigono a vicenda. Giunta a questo grado l'amima contemplativa è massimamente apostolica e la maggiore attività che può svolgere a beneficio dei fratelli è
-proprio quella della sua preghiera solitaria, nutrita di amore, nutrita di sacrificio e di immolazione. D'altra parte,
-la carità perfetta fa pure che l'anima impegnata nelle opere apostoliche sia, nello stesso tempo, più che mai unita
-
-a Dio, più che mai contemplativa; l'amore l'ha talmente
-
-fissata in Dio che anche durante il lavoro il suo sguardo
-interiore è sempre rivolto a lui per nutrirsi della sua divina presenza. per riflettere nella propria condotta le suc
-perfezioni infinite, per regolarsi in tutte le cose secondo
-l'espressione del suo beneplacito. Proprio così, al vertice
-della vita spirituale, azione e contemplazione si fondono
-
-in unità ed armonia perfetta. « Credetemi — scrive S. Teresa di Gesù — per ospitare il Signore, averlo sempre con
-noi, trattarlo bene e offrirgli da mangiare, occorre che
-Marta e Maria vadano d'accordo... Si dà da mangiare al
-Signore quando si fa il possibile per guadagnare molte
-anime le quali, salvandosi, lo lodino eternamente » (M.
-VII, 4, 12). Da ciò comprendiamo come tutti i grandi contemplativi sono stati grandi apostoli e i grandi apostoli
-sono stati grandi contemplativi.
+In questa collaborazione con la Gerarchia vengono in primo luogo le anime consacrate a Dio con vincoli stabili, ossia i religiosi laici e le suore dediti ad opere di apostolato esterno e i membri degli Istituti secolari; seguono gli appartenenti all'Azione Cattolica ed hanno il loro posto anche i semplici cristiani che, privatamente o collettivamente, esercitano qualche forma di apostolato. Non a caso Pio XII, nell'Enciclica *Mystici Corporis*, a proposito della collaborazione dei fedeli all'apostolato dei Pastori, ha nominato espressamente i padri e le madri di famiglia, appunto perché ogni cristiano che lavora per far penetrare lo spirito del Vangelo nel proprio ambiente di vita — casa, scuola, officina, ospedale, ecc. — è un vero collaboratore della Gerarchia. Anzi, lo stesso Papa afferma: «Questo lavoro apostolico, compiuto secondo lo spirito della Chiesa, consacra il laico quasi a ministro di Cristo in quel senso che S. Agostino così spiega: 'O fratelli... anche voi, a modo vostro, dovete essere ministri di Cristo vivendo bene, facendo elemosine, predicando il suo nome e la sua dottrina. Così [anche il padre di famiglia] eserciterà in casa sua l'ufficio di chierico e, in certo qual modo, di vescovo, servendo a Cristo, per essere con lui in eterno'» *(Enc. Summi Pontificatus)*. Proprio in questo senso S. Pietro, rivolgendosi ai fedeli, non esitava a dire: «Siete stirpe eletta, sacerdozio regale» *(I Pt.* 2, 9).
 
 ### Colloquio
 
-«O Signore, il desiderio di ascoltare la tua divina parola, il bisogno di tacere è talvolta così forte che vorrei
-non saper far altro che rimanere ai tuoi piedi, come la
-Maddalena, per penetrare sempre più addentro a quel mistero di amore che Tu sci venuto a rivelare na Tu
-m'insegni che se l'anima non si discosta mai da re, può
-rimanere sempre assorta nella contemplazione, anche quan
-do, in apparenza, compie l'ufficio di Marta. In questo modo, o Signore, io intendo e voglio esercitare l'apostolato :
-potrò irradiarti, potrò darti alle anime se non mi allontanerò mai da te, sorgente divina. Aiutami, o dolce Macstro, a starti molto vicino, a mettermi in comunione con
-l'Anima tua, a fare miei tutti i tuoi affetti per poi andare
-come te a compiere la volontà del Padre.
+«Dio mio, fa' che io non pensi più se ho da perdere o da guadagnare, ma il mio unico scopo sia quello di servirti e di contentarti. Conoscendo l'amore che Tu ci porti, rinuncio volentieri ad ogni mia soddisfazione per non contentarmi che di piacere a te, servendo il prossimo ed annunziando alle anime le verità che fan loro del bene. Delle perdite che potrei avere, no, non mi preoccupo affatto: voglio tenere innanzi il solo interesse del prossimo e nient'altro. Per meglio piacere a te, Dio mio, voglio dimenticarmi per gli altri, pronta pure a morire, se occorre, come fecero molti martiri.
 
-«Quale potenza esercita sulle anime l'apostolo che non
-si distacca mai dalla sorgente delle acque vive! Fa', o Signore, che io possa essere uno di questi. Allora potrò lasciare che l'onda trabocchi e si sparga all'intorno, senza
-pericolo che la mia anima venga a trovarsi vuota, perchè
-si trova in continua comunicazione con te, l'Infinito.
+«Credo che una delle più grandi consolazioni di questa vita sia vedere le anime avvantaggiarsi per nostro mezzo. Felici, o Signore, coloro cui Tu concedi questa grazia!» *(T.G.P.* 7, 5 e 6).
 
-«Dio mio, degnati d'invadere tutte le potenze dell'afa' che in me tutto sia divino e porti il tuo
-suggello, affinchè io sia un altro Cristo che lavora per la
-tua gloria.
-«O Signore, voglio lavorare tanto per la tua gloria!
+«Dio mio, fortunato colui il quale ha gustato quanto sia dolce il lavorare per la salute delle anime! Egli allora non teme né freddo né caldo, né fame né sete, né dispiaceri né affronti e neppure la morte.
 
-Voglio donarmi interamente a te, lasciarmi pervadere dalla tua linfa divina; sii Tu la vita della mia vita, l'anima
-della mia anima e fa' che io rimanga sempre vigile e cosciente sotto la tua azione divina » (cfr.E.T.Lt.).
+«O Signore, dammi per croce e spine e persecuzioni di ogni genere, purché possa salvare anime e tra le altre la mia. *Da mihi animas, coetera tolle*: Signore, dammi delle anime e prenditi tutto il resto.
 
-1 NOSTRI DOVERI
+«Solo quando saprò che il demonio cesserà dall'insidiare le anime, io cesserò dal cercare nuovi mezzi per salvarle dai suoi inganni e dalle sue insidie.
+
+«O Signore, voglio farti un sacrificio totale della mia vita, voglio lavorare fino all'ultimo respiro per la tua gloria, sopportando con pazienza le avversità e le contriarietà nel bene operare. Aiutami Tu ad impiegare, finché posso, tutte le mie forze per la salute delle anime» *(S. Giovanni Bosco)*.

@@ -1,117 +1,31 @@
-## 128 — SOFFERENZA E ABBANDONO
+## 52 — LA PAZIENZA
 
-### Presenza di Dio
-
-— O Signore, insegnami a soffrire con semplicità, senza inutili ritorni su me stesso, ma abbandonandomi al tuo volere divino.
+**Presenza di Dio.** — *O Gesù, Paziente divino e mansuetissimo, insegnami il segreto della vera pazienza.*
 
 ### Meditazione
 
-1 — Il segreto per imparare a soffrire virtuosamente
-sta in gran parte nel dimenticarsi e abbandonarsi; dimenticare se stessi ed il proprio dolore e abbandonarsi a Dio.
+**1** — La pazienza è la virtù che, per amore di Dio, ci fa accettare con generosità e con pace tutto quel che dispiace alla natura, senza lasciarci abbattere dalla tristezza che facilmente c'invade quando ci troviamo di fronte a cose spiacevoli.
 
-Chi si ripiega sulle proprie sofferenze, concentrando su
-di esse la propria attenzione, si rende incapace di sopportarle con serenità e coraggio. « A ciascun: giorno basta il
-suo affanno » (Mt. 6,34), ha detto Gesù; industriamoci
-dunque di sopportare in pace, giorno per giorno, momento
-per momento quelle pene e quei crucci che Dio mette sul
-nostro cammino, senza pensare a quanto abbiamo sofferto
-ieri, senza preoccuparci di quanto soffriremo domani. Anche quando la sofferenza è intensa non sopravvalutiamola,
-non diamole troppa importanza, non lasciamoci prendere
-da quella tendenza un po’ morbosa di accarezzare il nostro
-soffrire, di soffermarci a contemplarlo, ad analizzarlo e
-pesarlo in tutti i suoi aspetti. In tal modo verremmo a paralizzare il nostro spirito di sacrificio, la nostra capacità
-di accettazione e di azione, rendendoci spesso inutili a noi
-stessi ed agli altri, Chi è troppo sensibile e troppo occupato
-delle proprie sofferenze diventa spesso insensibile ed indifferente alle sofferenze altrui.
+La pazienza è un aspetto particolare della virtù della fortezza la quale c'impedisce di deviare dal retto cammino per timore delle difficoltà che s'incontrano. Non c'è vita senza difficoltà, anzi, per coloro che vogliono intraprendere grandi cose, queste sono abitualmente maggiori e più frequenti. Le grandi opere, le grandi virtù, le virtù eroiche sboccano sempre in mezzo alle difficoltà. Di fronte ad esse la fortezza ha un duplice atto: *aggredire* e *sopportare*. Molte difficoltà vanno superate e vinte con un atto di coraggio; altre invece è impossibile eliminarle e allora bisogna imparare a *sopportarle*, e questo è appunto il compito della pazienza. Compito arduo, perchè è più facile affrontare direttamente un ostacolo, che non sopportare contrarietà e sofferenze inevitabilmente connesse alla vita e che, con l'andar del tempo, tentano di fiaccare il nostro coraggio e di farci cadere nella tristezza.
 
-Per reagire contro queste tendenze dell’egoismo che
-sono state giustamente definite « il tarlo dell’afflizione cristiana » (P. Faber), bisogna dimenticarsi, bisogna uscire da
-se stessi e dalla cerchia delle proprie sofferenze ed occuparsi invece di quelle altrui, industriandosi di alleviarle. È
-questo un mezzo efficacissimo per ritrovare, nei momenti
-di scoraggiamento, la forza di portare le proprie croci.
+Solo fissando lo sguardo su Gesù, il Paziente divino, s'impara a esercitare la pazienza. Quando vediamo lui, venuto al mondo per salvarci, vivere fin dai primi istanti della sua esistenza terrena in mezzo ai disagi, alle privazioni, alla povertà, e poi, alle incomprensioni, alle persecuzioni, fatto segno all'odio dei suoi stessi concittadini, calunniato cercato a morte, tradito da un amico, processato e condannato come un malfattore, il nostro animo si scuote e comprende che non possiamo essere suoi discepoli se non battendo il suo stesso cammino. Se Gesù, innocentissimo, ha tanto sopportato per amor nostro, noi peccatori e quindi meritevoli di sofferenza, sopportare qualche cosa per amor suo? Per quanto nella nostra vita ci possa essere da soffrire, sarà sempre ben poco, anzi un nulla di fronte alle infinite sofferenze di Gesù, perchè Gesù nella sua Passione non ha abbracciato il dolore di una sola vita o di molte vite umane, ma il dolore di *tutta* l'umanità.
 
+**2** — Chi vuol diventare paziente deve anzitutto, di fronte ai motivi della sofferenza, avere un profondo sguardo di fede, che gli faccia comprendere come tutto ciò che accade nella vita è sempre permesso da Dio e unicamente per il suo bene. Molto spesso, è vero, la sofferenza, le difficoltà si presentano a noi attraverso cause seconde; ma, che cosa importa quando sappiamo che tutto ci viene dal nostro buon Padre Celeste, il quale si serve di queste circostanze penose proprio per farci diventare più virtuosi? Un'anima che vuol vivere unicamente di Dio non si ferma a considerare le cause umane delle sue sofferenze, ma, di fronte ad esse ripete con semplicità: *Dominus est!* è il Signore! e tutto accetta dalle mani di lui.
 
-Bisogna sempre pensare — come è vero — che non siamo
-mai soli a soffrire, che se le nostre sofferenze sono grandi,
-non manca mai chi ne ha di maggiori; bisogna pensare che
-le nostre pene sono una goccia in confronto al mare di
-dolori in cui naviga l'umanità e sono pressochè nulla in
-confronto alla Passione di Gesù.
+Questo però non impedisce che si senta il peso della sofferenza e che lo si senta profondamente — lo ha sentito anche Gesù nella sua agonia nell'orto — ma ci aiuta a non turbarci, a non perdere la pace e la serenità, a non perdere il dominio di noi stessi e quindi la pazienza.
 
-Chi si occupa troppo di ciò che soffre, finisce per esasperare il proprio dolore, per affogarsi in esso, stroncando
-in sè ogni slancio generoso. Chi, invece, sa dimenticarsi, si
-mantiene in equilibrio, sempre capace di pensare pi agli
-altri che a se stesso, sempre aperto alla carità ed alla generosità verso Dio e verso il prossimo. L’anima semplice, dimentica di sè, è quella che sa soffrire con maggior coraggio ricavandone maggior profitto per la propria santificazione.
+Si comincia ad esercitare la pazienza cercando di tollerare i disagi e le sofferenze quotidiane senza mormorare, ma con rassegnazione, sapendo che la divina Provvidenza non permette prova alcuna che non sia per noi fonte di bene. Agli inizi, ed anche per lungo tempo, l'anima sentirà molta ripugnanza per la sofferenza, tuttavia, se si sforza di abbracciarla bene — con costanza, con pace, con sottomissione al volere divino — un po' alla volta, proprio attraverso questo esercizio tanto penoso, comincerà a sperimentare il grande profitto spirituale che ne deriva, si sentirà infatti più distaccata dalle creature e da se stessa e più vicina a Dio. Quantunque allora giungerà a stimare la sofferenza e poi, sperimentandone sempre più la fecondità spirituale, finirà con l'amarla.
 
-
-2 — Malgrado tutti gli sforzi per buttarsi al di là
-del proprio dolore, per dimenticare le proprie pene; si
-possono passare momenti di angoscia così profonda, di
-tenebre così fitte che la povera anima non sa come venirne
-fuori, tanto più quando l'orizzonte, invece di schiarirsi,
-diventa sempre più cupo e minaccioso, In questi casi non
-resta che fare un salto nel buio, abbandonandosi totalmente nelle mani di Dio. Siamo tanto poveri e deboli che
-abbiamo sempre bisogno di un punto di appoggio; se l’anima si dimentica e disoccupa di sè, ha pur bisogno di
-qualcuno che la sorregga e pensi a lei. Questo Qualcuno
-è Dio che mai si dimentica di noi, che conosce a fondo
-il nostro patire, che sa i nostri bisogni, che vede la nostra
-debolezza ed è sempre pronto a soccorrere coloro che
-si rifugiano in lui. Possiamo, è vero, cercare un po’ di
-conforto ed aiuto anche presso le creature, ma non illudiamoci: non sempre ci capiranno, non sempre potranno
-essere a nostra disposizione. Ma se ci rivolgiamo a Dio,
-non saremo mai delusi; anche se Egli non muterà le nostre
-condizioni, se non ci toglierà le nostre pene, però interiormente — sebbene in modo nascosto e silenzioso —
-
-
-conforterà il nostro cuore, dandoci la forza di proseguire
-il cammino,
-
-«Abbandona a Dio la cura di te, Egli ti sosterrà»
-(Sal. 54, 23). Ecco l’atteggiamento di abbandono che dobbiamo avere nel momento della sofferenza e che dobbiamo
-rafforzare quanto più questa si fa profonda. A maggior
-patire deve corrispondere maggior abbandono in Dio e
-allora non andremo perduti,
-
-Tante anime esagerano le loro sofferenze, le drammatizzano perchè non sanno vedere in esse la mano paterna
-di Dio, perchè non credono abbastanza alla sua divina
-Provvidenza e, di conseguenza, non sanno abbandonarsi ad
-essa con piena fiducia. Se la nostra vita con tutte le sue
-circostanze, anche le più penose, non fosse nelle. mani
-di Dio, avremmo ragione di temere, ma siccome tutto è
-sempre nelle sue mani non dobbiamo aver paura, non
-dobbiamo sgomentarci. L'anima che è sicura di Dio e
-si abbandona a lui, sa mantenersi tranquilla anche nei più
-grandi dolori, sa prendere con semplicità anche le cose
-tragiche, sa soffrire con serenità e coraggio, perchè è sempre sorretta da Dio.
+Ma non bisogna farsi illusioni: l'amore alla sofferenza è il vertice della pazienza, è il frutto della pazienza perfetta; per giungere a queste altezze occorre cominciare da un esercizio assai più umile: accettare in pace, senza lamentarsi, tutto quello che fa soffrire.
 
 ### Colloquio
 
-«O Signore, fa’ che la mia anima corra continuamente
-a te senza posa, mirando sempre a te solo, Consolata 0
-desolata, corra senza fermarsi a nulla, corra tanto presto
-da non aver tempo. di guardare, nè di vedere le cose
-della terra, perchè il passo è velocissimo. Via dunque, per
-amor tuo, godimento, riposo, affidamento sul giudizio
-degli uomini, riposo sulla loro approvazione, apprensione
-per il malessere fisico, per le tristezze morali, per il successo prospero o avverso. Via, insomma, tutto ciò che
-non è Dio.
+O Gesù, per amor tuo e col tuo aiuto, voglio soffrire in pace tutte le contrarietà della vita. « I tuoi pensieri non sono i nostri pensieri, le tue vie non sono le nostre vie. Tu ci presenti alle volte un calice tanto amaro che appena la nostra natura può sopportarlo. Ma non voglio ritirare le labbra dal calice preparatomi dalla tua mano. Tu m'insegni il segreto di soffrire in pace. Chi dice *pace* non dice *gioia*, o almeno gioia sentita; per soffrire in pace basta volere tutto quello che Tu vuoi.
 
-«Le mie pene, lo riconosco, sono state permesse e
-volute da te, mio Signore, per insegnarmi ad avere fiducia
-malgrado tutto.
+« Per essere tua sposa devo somigliarti; e Tu sei tutto sanguinante e coronato di spine. Tu vuoi rendermi simile a te; e perchè allora dovrei aver paura di non saper portare la croce senza cadere? Tu, sulla via del Calvario, sei caduto tre volte; e io, povera creatura, non vorrò esserti simile? Non vorrò cadere cento volte per provarti il mio amore, rialzandomi poi con più forza di prima dalla caduta?
 
+« Quanto mi consola pensare che anche Tu, il Dio forte, hai conosciuto le nostre debolezze, hai tremato alla vista dell'amaro calice che altre volte avevi sì ardentemente bramato.
 
-«O Signore, sii l’unico mio sostegno nelle apprensioni,
-nelle debolezze, nelle angustie; sii il mio confidente o, meglio, la mia confidenza. Ospite divino, che risiedi in me,
-sul trono del mio cuore, dimoravi da padrone; a te spetta
-il dominio, l’amore, il governo di tutto il mio essere!
+« O Gesù, come costa talvolta darti quello che chiedi! Ma che felicità che costi! Lungi dal lamentarmi con te delle croci che mi dai, non posso comprendere l'amore infinito che ti ha mosso a trattarmi così. O Signore, non voglio lasciarmi sfuggire le prove che Tu mi mandi; esse sono miniere d'oro da sfruttare. Io, granello di sabbia, voglio mettermi all'opera senza gioia, senza coraggio, senza forza, e queste stesse impotenze mi faciliteranno l'impresa; voglio lavorare per amore.
 
-«Perchè turbarmi o temere ancora? Tutto è tuo, o
-Dio, e Tu stesso ne prendi cura e provvedi ai miei bisogni. Tu sei amore infinito e ami l’opera delle tue mani
-
-iù di quanto essa sappia e possa amarsi. Chi oserà duitare della tua potenza, delle cure previdenti cd affettuose che prodighi alle tue creature, dell'eternità e dell'efficacia del tuo amore?
-
-«Credo che Tu fai tutto e permetti tutto per il mio
-bene e la mia salvezza e mi abbandono alla tua condotta
-con fiducia, con amore, senza ansie, nè apprensioni, nè
-calcoli» (B. M. Teresa de Soubiran).
+« Nonostante le prove che mi tolgono ogni consolazione, posso ripetere: Signore, con tutto ciò che Tu fai mi riempi di gioia, perchè può esserci gioia maggiore di quella che ci dà il patire per amor tuo? Più il dolore è intenso, meno apparisce agli occhi delle creature, e più ti fa sorridere, o mio Dio; ma se, per un caso impossibile, Tu pure dovessi ignorarlo, godrei tuttavia di soffrire, sperando di poter impedire o riparare, con le mie lacrime, anche un solo peccato » (T.B.G. *Lt.* 63, 57, 184, 59; *St.* 9).

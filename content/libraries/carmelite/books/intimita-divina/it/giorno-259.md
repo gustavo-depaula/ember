@@ -1,88 +1,19 @@
-## 259 — PORTARE GLI UNI I PESI DEGLI ALTRI
+## XXIX — L'ATTO DELL'AMORE
 
-### Presenza di Dio
-
-O Signore, fammi intendere tutto il valore della carità fraterna che mi fa portare i pesi degli altri come fossero i miei.
+**Presenza di Dio.** — *O Signore, fa' che io ti ami per te stesso e non per la mia consolazione, fa' che amandoti cerchi sempre la tua volontà e non la mia.*
 
 ### Meditazione
 
-1. — Ogni uomo porta il suo peso più o meno grave: è
-il peso delle sue debolezze fisiche e morali, è il carico dei
-suoi doveri, delle sue responsabilità, delle fatiche, delle difficoltà che incombono sulle sue spalle; ed ogni uomo sente
-il bisogno di una mano amica che l’aiuti a sostenere il suo
-peso. Questa mano gli deve essere offerta dalla carità fraterna che, per amore di Dio, sa farsi tutta a tutti. « Portate
-i pesi gli uni degli altri così adempirete la legge di Cristo»,
-ci esorta S. Paolo (Gal. 6, 2). Il cristiano sa di non essere isolato, ma membro di un unico corpo, il Corpo mistico di Cristo: «noi molti siamo un corpo solo in Cristo e, per i rapporti reciproci, siamo membri gli uni degli altri» (Rom. 12,
-5); questa consapevolezza della sua solidarietà con i fratelli
-fa sì che il cristiano non viva chiuso nella cerchia ristretta
-dei suoi interessi personali, ma che abbia il cuore aperto
-agli interessi, ai bisogni altrui. Il mistero della nostra incorporazione a Cristo non è solo un fatto individuale, ma per
-sua natura è un fatto sociale: essere inseriti in Cristo mediante la grazia e la carità, comporta la nostra reciproca inserzione tra fratelli e sorelle, in modo simile ai tralci di una stessa
-vite che, essendo inseriti in un unico tronco, vengono a trovarsi strettamente congiunti gli uni con gli altri, sì che vivono,
-crescono, si sviluppano insieme. Come l'amore per Cristo è
-l'espressione vitale della nostra unione con lui e quanto più
-questa si fa profonda tanto più l’amore cresce, così la carità
-fraterna è l’espressione vitale della nostra reciproca unione
-coi fratelli in Cristo, al punto che se questa carità non fosse
-viva ed operante bisognerebbe dire che la nostra unione in
-Cristo e con Cristo è molto fiacca o, forse, addirittura nulla.
-Se la carità e la grazia ci uniscono a Cristo in rapporti
-così intimi e vitali, è evidente la necessità di vivere questa
-unione anzitutto con lui, nostro Capo, ma poi anche con i fratelli, compartecipi della nostra inserzione in Cristo. Di qui
-quella simpatia soprannaturale che deve fare di noi un
-cuor solo ed un'anima sola, pronti a soffrire, a faticare gli
-uni per gli altri, pronti nell'aiuto scambievole, nell’appoggio
-reciproco. «Rallegrarsi con chi gode, piangere con chi piange» (Rom. 12, 15), dice l’Apostolo, il che significa condividere
-le gioie, le pene, le fatiche, le preoccupazioni altrui come se
-fossero nostre; e di fatto lo sono perchè sono gioie, pene, fatiche, preoccupazioni di quell'unico Corpo mistico di Cristo
-cui apparteniamo e che perciò è nostro.
+**1** — Amare è *voler* bene a qualcuno; si comprende, quindi, che l'essenza dell'amore sta nell'atto della volontà con cui si *vuol* bene. Ciò non toglie che in noi quest'atto vada facilmente congiunto con l'affetto sensibile e allora l'amore è insieme atto della volontà e della sensibilità; tuttavia è chiaro che la sostanza del vero amore non sta nell'emozione del sentimento, ma nell'atto della volontà. La carità non muta il nostro modo di amare, ma lo penetra, lo soprannaturalizza, rendendo la volontà e la sensibilità capaci di amare Dio. Sì, anche il nostro affetto sensibile può essere impegnato nell'atto di amore soprannaturale: Dio non disdegna neppure questa più umile e meno elevata manifestazione del nostro amore per lui, tanto è vero che ci ha comandato di amarlo non solo con tutta la mente e con tutta l'anima, ma anche *con tutto il cuore*. Tutte le nostre forze — intellettuali, volitive, affettive — vengono impegnate nell'atto di amore e, tuttavia, la sostanza di questo atto non sta nel sentimento ma nella volontà. Perciò, quando nel tuo amore per Dio rimani freddo riguardo alla sensibilità e non «senti» nulla, non devi turbarti: troverai allora così minore soddisfazione nel tuo amore — perché sentire di amare è assai più dolce — ma il tuo atto di amore sarà ugualmente vero e pieno. Anzi, mancandoti l'appoggio e lo slancio che viene dal sentimento, sarai costretto ad applicarti con maggior decisione all'atto della volontà e ciò, lungi dal nuocere, renderà più volitivo, e perciò più meritorio, il tuo atto d'amore. Appunto perché la sostanza dell'amore sta nell'atto della volontà che vuol bene a Dio, ecco che il Signore, per renderlo più puro e più intenso il tuo amore, spesso lo priverà di ogni dolcezza di sentimento; non sentirai più di amare Dio — e ciò ti darà pena — ma, in realtà, lo amerai nella misura in cui saprai decisamente volere la sua volontà, il suo beneplacito, il suo gusto al di sopra di tutte le cose. Del resto, sentire l'amore non è in tuo potere, mentre è sempre in tuo potere fare atti d'amore con la volontà, è sempre in tuo potere *voler* bene a Dio cercando con tutte le tue forze di vivere per lui, di fargli piacere.
 
-
-2. — Portare i pesi gli uni degli altri significa anche sopportare con serenità e gentilezza i difetti altrui, conseguenze
-inevitabili della limitatezza di ogni uomo. L' Imitazione di
-Cristo avverte: « Quei difetti che l'uomo non può correggere
-
-
-in sè e negli altri, deve sopportare con pazienza, fino a quando non piaccia a Dio di disporre altrimenti» (I, 16, 1). Negli ultimi mesi della sua vita S. Teresa del B. G. scriveva: « Come intendo ora bene che la vera carità consiste nel sopportare tutti i difetti del prossimo, nel non meravigliarsi delle sue debolezze e nell'edificarsi dei minimi suoi atti di virtù» (St. 9).
-
-Non per nulla la carità « soffre ogni cosa, ogni cosa crede,
-tutto spera, tutto sopporta » (I Cor. 13, 7). La carità crede
-sempre alla buona volontà altrui, anche se mescolata a difetti, spera sempre in quel bene che sa scorgere in ogni creatura, anche se offuscato da molte deficienze; e quel che più
-importa, sopporta tutto non trovando mai nulla di troppo gravoso. Sopportare, come dice l'etimologia della parola, significa mettersi sotto per portare un peso: proprio così, la carità
-sente il bisogno di curvarsi con amore per prendere su di sè
-i pesi degli altri e specialmente quei pesi che tutti sfuggono per la loro molestia. S. Teresa del B. G. nota che certe persone vengono lasciate in disparte a motivo delle loro imperfezioni naturali, come la mancanza di criterio, di educazione
-e la suscettibilità del loro carattere: « So bene — dice la Santa — che tali malattie sono croniche e senza speranza di
-guarigione... eppure devo cercare la compagnia di queste consorelle e compiere a loro riguardo l'ufficio del buon samaritano» (cfr. St. 10). Ecco la carità che, anzichè sfuggire,
-va incontro alle persone che sono sofferenti per le loro
-imperfezioni naturali e morali e si occupa di esse con tanto
-amore da non lasciar per nulla intravvedere che quell'ufficio
-pietoso le costa, che quei difetti le sono molesti. La carità
-tutto soffre, tutto sopporta con volto amabile e sereno, senza
-mai mostrarsi infastidita o aggravata per i pesi che porta.
+**2** — S. Giovanni della Croce precisa: «La volontà si unisce a Dio mediante la propria operazione, il cui termine è l'amore, non già per mezzo... dei sentimenti che hanno nell'anima il proprio termine e fine» (S. III, 46, 2). L'operazione della volontà è l'atto di amore con cui vogliamo bene a Dio, con cui conformiamo la nostra volontà alla sua; questa operazione termina propriamente in Dio, è il vero mezzo per unirci a lui. Il sentimento dell'amore invece, non essendo altro che un'impressione soggettiva prodotta talvolta nella sensibilità dall'atto di amore, termina nell'anima che lo prova e le è di conforto, ma è chiaro che di per sé non giova ad unirla a Dio. È vero, l'anima può valersene per darsi al Signore con maggiore generosità e, in questo caso, il sentimento dell'amore viene a rinforzare l'operazione della volontà; ma, purtroppo, essendo noi tanto inclìnati a cercare la nostra soddisfazione anche nelle cose più sante, non è difficile che l'anima si arresti nella dolcezza di questo sentimento ed allora cessi di tendere a Dio con tutte le sue forze. È quindi molto opportuno che Dio ci faccia passare per periodi di aridità, obbligandoci così ad andare a lui con la pura operazione della volontà; allora, dice il Dottore mistico, «l'anima si ferma soltanto in Dio e, lasciando da parte ogni cosa, lo ama sopra tutte» (S. III, 45, 3). E soggiunge: «molto insipiente sarebbe colui che, vedendosi privo di spirituale dolcezza, pensasse per questo che gli manchi Dio; o che, al contrario, si rallegrasse credendo di possederlo qualora provasse spirituale diletto» (S. III, 46, 1). No, non consiste in ciò il vero amore e l'unione con Dio, ma nella pura operazione della volontà che cerca Dio e il suo volere al di sopra di ogni cosa. Perciò, se vuoi davvero amare Dio ed unirti a lui, «abbi fama soltanto della volontà di Dio» (ivi, 46, 2), ossia cerca solo la sua volontà preferendola sempre alla tua. Questo modo di amare ti fa uscire totalmente da te stesso, da ciò che vi è di più profondo nel tuo io, ossia dalla tua volontà, per slanciarti tutto nella volontà di Dio. E, se pensi che, per giungere alla perfetta unione con Dio, tutta la tua vita deve essere inclusa nella sua volontà, sentirai il bisogno di essere continuamente generoso per uscire dalla tua volontà e rimanere sempre in quella di Dio.
 
 ### Colloquio
 
-«O Signore, insegnami ad amare il prossimo con tutta
-l'ampiezza del mio cuore, non contentandomi di amarlo come
-me stesso, ma più di me stesso per adempiere il tuo precetto:
+«O mio Dio e Signore! Quanti sono coloro che in te non cercano che la propria consolazione, solo desiderando da te grazie e doni! Invece, quelli che vogliono dar piacere a te e offrirti qualcosa a prezzo di sacrifici, posposto il proprio interesse, quanto mai sono pochi!
 
+«Dammi grazia, o Signore, di seguirti con vero amore e con spirito di sacrificio, sì che in nessun modo cerchi conforto e piacere, né in te, né in altra cosa! Non voglio chiederti ricompense perché ben vedo di aver già ricevuto molte grazie; desidero piuttosto che ogni mio pensiero sia indirizzato a darti piacere e a servirti per il modo che Tu meriti, a costo di qualunque disagio e patimento. O mio Amato, ogni cosa aspra e gravosa la voglio per me; tutto ciò che è soave e dilettoso, per te» (cfr. G.C. N. II, 19, 4; PA. 52).
 
-“Amatevi l'un l’altro come io ho amato voi’, Come Tu, o
-Signore, ci hai sempre preferiti a te medesimo e lo fai ancora
-tutte le volte che ti riceviamo nel Ss.mo Sacramento facendoti nostro cibo, così vuoi che abbiamo l’un l’altro un amore
-sì grande che preferiamo sempre il nostro prossimo a noi stessi; e come Tu hai fatto tutto quel che potevi per noi, eccetto
-il peccare — poichè non lo potevi nè dovevi fare — così
-vuoi che facciamo tutto quel che possiamo gli uni per gli
-altri, eccetto il peccato. Fa', dunque, o Signore, che, esclusa
-ogni tua offesa, il mio amore per il prossimo sia così fermo,
-cordiale e solido che io non ricusi mai di fare o di sopportare
-qualsiasi cosa per lui. Insegnami ad amarlo coi fatti, procurandogli tutto quel bene che posso per l'anima come per
-il corpo, pregando per lui, servendolo cordialmente quando
-l'occasione si presenta; poichè se il mio amore consistesse
-solo in belle parole sarebbe ben poca cosa e non sarebbe già
-un amare il prossimo come Tu ci hai amato. Ma per giungere
-alla perfezione dell'amore non basta ch'io m'impieghi per il
-mio prossimo, devo anche lasciarmi impiegare secondo il suo
-volere e nel modo che a lui piacerà senza fare alcuna resistenza; proprio in ciò acquisterò maggior merito, consistendo in
-questo il grado supremo del rinnegamento di me stesso»
-(cfr. S. Francesco di Sales).
+«O Signore, come è necessario imparare ad amarti senza alcun interesse! Per camminare come si deve nella via dell'amore, bisogna aver l'unico desiderio di servire te, o Dio Crocifisso; perciò, non solo non voglio domandarti consolazioni, ma nemmeno le desidero e ti supplico a non volermele concedere in questa vita.
+
+«No, Dio mio, l'amore non sta nei gusti spirituali, ma nell'essere fermamente risoluti a contentarti in ogni cosa, nel fare ogni sforzo per non offenderti, nel pregare per l'accrescimento del tuo onore e della tua gloria. Sta soprattutto nella perfetta conformità al voler tuo, sì da volere anch'io — e fermamente — quanto so che Tu vuoi, accettando con la medesima allegrezza tanto il dolce che il duro. O possente amor di Dio! Com'è vero che l'amante non trova nulla d'impossibile!» (Cfr. T.G.M. IV, 2, 9; l, 7; Fo. 5, 10; P. 3, 8).

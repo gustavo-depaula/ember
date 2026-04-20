@@ -1,110 +1,25 @@
-## 174 — LA SPERANZA DI MARIA
+## V — Madre nostra
 
-### Presenza di Dio
-
-O Maria, Madre della buona speranza, insegnami la via della piena confidenza in Dio.
+**Presenza di Dio.** — *O Maria, poiché Tu sei veramente Madre mia, fa' che io sia vero figlio tuo, degno di te.*
 
 ### Meditazione
 
-1. — Nel Magnificat — il canto sgorgato dal cuore
-di Maria nell'incontro con la cugina Elisshetta — troviamo
-un'espressione particolarmente rivelatrice dell'atteggiamento
-interiore della Vergine: « L'anima mia magnifica il Signore...
-perchè Egli ha rivolto i suoi sguardi sulla bassezza della
-sua ancella » (Lc. 1, 46-48). Nell’atto in cui Maria le pronun-
+**1** — Dando il suo consenso per diventare la Madre del Figlio di Dio, Maria si congiungeva in un consorzio strettissimo non solo con la persona, ma anche con l'opera di Gesù. Sapeva che il Salvatore sarebbe venuto al mondo per redimere il genere umano, perciò, accettando di diventare sua Madre, accettava anche di diventare la più intima collaboratrice della sua missione. E di fatto Maria, dandoci Gesù, fonte della grazia, ha collaborato nel modo più diretto alla diffusione della grazia nelle anime nostre. «Se Gesù fu il Padre delle anime nostre — dice S. Alfonso — Maria fu la Madre poiché, dandoci Gesù, diede a noi la vera vita, ed offrendo poi sul Calvario la vita del Figlio per la nostra salvezza, venne allora a partorirci alla vita della divina grazia».
 
-ciava, queste parole erano la dichiarazione delle «grandi
-cose» che Dio aveva operato in lei; ma considerate nel
-Riad della sua vita ci esprimono il costante movimento
-lel suo cuore che, dalla piena consapevolezza del suo nulla,
-sapeva slanciarsi in Dio con la più intensa speranza nel
-suo soccorso. Nessuno più di Maria ebbe la scienza concreta e pratica del proprio nulla: Ella sa bene che tutto
-il suo essere, sia naturale che soprannaturale, ricadrebbe
-imevocabilmente nel nulla, se Dio non lo sostenesse istante
-per istante. Sa che tutto ciò che è, e tutto ciò che ha
-non è suo, ma di Dio, puro frutto della sua liberalità. La
-grande missione, i grandi privilegi ricevuti dall’Altissimo
-non le impediscono affatto di vedere e di sentire la sua
-«bassezza». Ma ciò, lungi dallo sgomentarla e scoraggiarla
-— come spesso accade a noi quando constatiamo la nostra
-nullità e miseria — le serve di punto d'appoggio per
-slanciarsi in Dio con un rapido movimento di speranza.
-Anzi, quanto più è consapevole del suo nulla ‘e della
-sua impotenza, tanto più la sua anima s'innalza nella
-speranza. Proprio perchè, vera povera di spirito, non ha
-alcuna fiducia nelle sue risorse, nelle sue capacità, nei
-suoi meriti, Maria ripone in Dio solo tutta la sua confidenza. E Dio, che «rimanda vuoti i ricchi e ricolma di bene
-gli affamati» (cfr. Lc. 1, 53) ha saziato la sua «fame»,
-ta esaudito le sue speranze non solo riempiendola dei
-suoî doni, ma donandosi a lei nel modo più pieno.
+Come una donna — Eva — aveva cooperato alla perdita della grazia, così, per armoniosa disposizione della Divina Provvidenza, un'altra donna — Maria — doveva cooperare alla restituzione della grazia. Certamente la vita della grazia ci viene da Gesù che ne è l'*unica fonte* ed è l'*Unico Salvatore;* ma, in quanto Maria è Colei che lo ha dato al mondo, in quanto Maria è intimamente associata a tutta la vita e all'opera di Gesù, si può ben dire che la grazia ci viene anche da Maria. Se Gesù non è la fonte e la sorgente, Maria, come ama dire S. Bernardo, ne è il canale, l'acquedotto che a noi la deriva. Come Gesù ha voluto venire a noi per mezzo di Maria, così tutta la grazia, tutta la vita soprannaturale giunge a noi per mezzo di Maria. «Questa è la volontà di Colui che ha stabilito che *tutto* noi abbiamo per mezzo di Maria» (S. Bernardo). *Tutto* quello che Gesù ci ha meritato in senso proprio, di *diritto,* Maria ce lo ha meritato secondariamente, per merito di *convenienza.* La Madonna, dunque, è davvero Madre nostra: insieme con Gesù ci ha generato alla vita della grazia, e con tutta verità possiamo salutarla: «Salve Regina, *Madre* di misericordia; *vita,* dolcezza e speranza nostra, salve!».
 
-2. — La speranza di Maria è stata veramente totalitaria.
-Ne abbiamo un esempio tipico nella sua condotta verso
-Giuseppe quando questi, avendo colto in lei i segni di una
-maternità di cui ignorava l'origine, pensava «di lasciarla
-segretamente» (Mt. 1, 19). Maria certamente intuì lo
-stato d'animo del suo purissimo sposo, intuì i dubbi che
-avrebbero potuto attraversargli la mente, nonchè il rischio
-che lei stessa avrebbe corso di venire abbandonata, mentre
-nulla le era stato detto dall’Angelo che avrebbe potuto
+**2** — Dal momento in cui diventò la Madre del Salvatore, Maria SS.ma tanto ci amò — dice S. Bernardino da Siena — e tanto si dedicò a procurare la nostra salvezza «fin d'allora ci portò nel suo seno come amorosissima Madre». Ma, come l'opera redentiva di Gesù, iniziata nell'Incarnazione, culminò sul Calvario dove con la sua morte ci meritò la grazia, così la maternità di Maria nei nostri riguardi doveva avere il suo compimento ai piedi della Croce. Mentre Gesù moriva fra i più atroci tormenti, il suo Cuore amorosissimo ci preparava un dono fra tutti veramente squisito. Qui, sulla terra, Egli non possedeva nulla di più caro che la Madre sua e questa Madre volle lasciarla a noi, quale preziosissima eredità: «Ecco tua Madre» *(Gv.* 19, 27) disse a Giovanni; e nel darla a Lui, che in quel momento rappresenta l'umanità intera, le parole di Gesù erano l'espressione della grande realtà che aveva avuto il suo principio fin dal primo istante della sua Incarnazione nel seno della Vergine e che ora si compiva lì, sotto la Croce: la maternità spirituale di Maria nei nostri riguardi. Infatti, proprio allora la Madonna, insieme con Gesù, salvava le anime nostre offrendo per esse la Vittima divina che era sua, poiché era suo Figlio. Con questa offerta Maria ci ha procurata la vita della grazia; è dunque veramente la donna che, nell'ordine soprannaturale, ci dà la vita: è la Madre nostra.
 
-rassicurarla su questo punto tanto delicato e, tuttavia,
-piena di speranza nel soccorso divino, non volle in alcun
-modo palesare il suo segreto. « Nel silenzio e nella speranza
-sarà la vostra forza » (Is. 30, 15) ha detto lo Spirito Santo
-per bocca d'Isaia, e questa sentenza trova la sua più bella
-realizzazione nel contegno di Maria. Tace senza cercare
-di giustificarsi di fronte a Giuseppe, tace perchè è piena
-di speranza in Dio, è totalmente sicura del suo aiuto. Il
-silenzio e la speranza le permettono di appoggiarsi totalmente a Dio, e così, forte della fortezza di Lui, rimane
-serena e tranquilla in una situazione estremamente difficile e delicata.
-Anche noi speriamo in Dio, ma la nostra speranza non
-è totalitaria come quella di Maria. Appunto perciò non
-sappiamo essere totalmente sicuri dell'aiuto divino e sen
-tiamo sempre il bisogno di ricorrere a tanti piccoli espedienti
-personali per procurarci qualche sicurezza, qualche appoggio umano; ma poichè tutto ciò che è umano è instabile ed incerto, ecco che, fondando qui le nostre speranze, rimaniamo
-ur sempre agitati ed inquieti. La Madonna col suo silenzio e con la sua speranza ci addita l'unica via della
-vera sicurezza, della serenità e della pace interiore anche
-in mezzo alle situazioni più difficili: la via della totale
-confidenza in Dio. « In te Domine speravi non confundar
-in aeternum>, ho sperato in te, o Signore, e non sarò confuso in eterno (Te Deum). Sì, Dio non deluderà mai la
-nostra speranza e come mandò un Angelo a rivelare a Giuseppe nie mistero della maternità di Maria, così troverà
-sempre il modo di aiutare e di sostenere un'anima che si è
-totalmente affidata a Lui.
+«Dio ha talmente amato il mondo da dare il suo Figliuolo unigenito per la sua salvezza» dice l'Evangelista (cfr. *Gv.* 3, 16) e parimenti — dichiara S. Bonaventura — può dirsi che Maria ha talmente amato il mondo da dare il suo Unigenito, affinché per Lui tutti abbiano la vita eterna. Ecco a qual prezzo la Madonna è diventata Madre nostra e noi siamo diventati figli suoi. È Lei, che ci ha generato a sì caro prezzo, ben giustamente desidera che viviamo da veri figli suoi, degni della vita della grazia, sgorgata dal petto squarciato del suo Gesù e dal suo cuore materno trafitto dalla spada del dolore.
 
 ### Colloquio
 
-«O Madre del santo amore, o vita, rifugio e speranza
-nostra, Tu sai bene che il tuo Figlio Gesù, non contento
-di farsi il nostro perpetuo avvocato presso l'Eterno Padre,
-ha voluto che anche Tu t'impegnassi a perorare per noi
+«O beata fiducia, o sicuro rifugio: Tu, Madre di Dio, sei la madre mia! Come dunque non spererò quando la mia salvezza e la mia santità sono nelle mani di Gesù, mio fratello, e di Maria, mia madre?» (cfr. S. Anselmo).
 
-le divine misericordie. Dunque io mi rivoli
-“i e eo ana
-per la tua intercessione otterrò l'eterna salvezza. E confido
-tanto che se la mia salvezza stesse in mano mia, la
-metterei ugualmente nelle mani tue, giacchè mi fido maggiormente della misericordia e protezione tua, che di tutte
-le opere mie. Madre e speranza mia, non mi abbandonare!
-La pietà che Tu hai dei miseri e la potenza che Tu hai presso
-Dio superano il numero e la malizia di tutti i miei demeriti.
-Si a CREO tutti di me, ma non scordartene Tu,
-fadre io onnipotente. Di' a Dio ch'i io
-digli Ta Tu mi difendi e sarò ite rep i
+«O Maria, Maria, portatrice del fuoco; Maria portatrice di misericordia! Maria ricompratrice dell'umana generazione, perché sostenendo la carne tua nel Verbo, fu ricomprato il mondo. Cristo lo ricomprò con la sua Passione, e Tu col tuo dolore del corpo e della mente» (S. Caterina da Siena).
 
-«Per aiutarmi, o Madre, non andare a cercare i
-nè virtù, nè meriti; guarda solo, ti prego, la idea (a
-ripongo in te e la volontà che ho di essere migliore. Guarda
-quel che ha fatto e patito Gesù per me e poi abbandonami
+«O Maria, Tu sei quel giardino serrato nel quale è incluso il Dator dell'essere; in Te è incluso lo stesso Iddio, tutto il cielo e tutte le creature. Mediante il sangue tratto da te è salvato tutto il mondo. E se non c'eri Tu, o Maria, per me non v'era paradiso; se non c'eri Tu, per me non c'era Dio...
 
-ure, se hai il cuore di abbandonarmi. Io ti presento tutte
-le pene della sua vita: il freddo che patì nella stalla, il
-Viaggio che fece in Egitto, il sangue che sparse, la povertà
-i sudori, le tristezze, la morte cl sopportò per amor mio
-alla tua presenza, « Tu, per amore di Gesù, impegnati
-a soccorrermi. O Madre mia, non negare la tua pietà a
-chi Gesù non ha negato il sangue!
+«O Maria, quanti sono i doni e le grazie che Tu vuoi dare alle creature! E chi non vorrebbe avere tali doni? Ma manca la perseveranza nel volerli e Tu, Madre amorosa, non concedi doni ai tuoi figliuoli quando vedi che li terranno in poco conto e li getteranno via, perché sai che dovresti poi dar loro debita pena. O Maria, vuoi darmi i doni tuoi, ma io me ne privo perché voglio fare una mescolanza dei doni miei e dei doni tuoi. Vorrei le tue grazie, ma insieme voglio la mia volontà, ed in tal modo non le posso avere. Vorrei la benevolenza tua, ma insieme voglio l'amore e la particular benevolenza delle creature, e non si può. Vorrei l'amor tuo insieme col mio, ma così non posso averlo. Vorrei abitare sotto il tuo manto, e anche sotto il manto dei miei comodi. Ma, come disse il Figlio tuo, non è giusto che sotto un capo coronato di spine, vi siano membra delicate. Non è giusto, e neppure è giusto che le figlie stiano così loro comodi sotto il manto tuo, Madre dolcissima, che tanto hai disprezzato te stessa.
 
-«O Maria, io mi fido di te; in questa speranza vivo
-ed in questa ig e spero di morire, ripetendo sempre:
-unica spes mea Jesus, et post Jesum virgo Maria, l'unica
-speranza mia è Gesù, e dopo Gesù Maria» (S. Alfonso).
+«O Maria, che ti potrò dare ed offrire che ti sia grato? Se t'offro la mia volontà, temo che non ti piaccia, perché non è conforme al volere di Dio. Se t'offro l'intelletto, non è illuminato; se l'affetto, non è puro. T'offro il Cuore del tuo Unigenito, e maggior dono non ti posso offrire» (cfr. S. M. Maddalena de' Pazzi).

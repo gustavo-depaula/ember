@@ -1,49 +1,41 @@
-## 318 — APOSTOLIC PRAYER
+## 318 — THE GIFT OF UNDERSTANDING
 
 ### Presence of God
 
-Accept, Lord, my poor prayer for coming of your kingdom.
+Come, Spirit of understanding, enlighten me!
 
 ### Meditation
 
-1. — Since Jesus died for us on cross, redemption of humanity is objectively accomplished fact. Every man coming into world is already redeemed, in sense that most precious Blood of Jesus has already merited for him all graces necessary for salvation and even sanctification.
+1. — In our journey toward God we find difficulties not only from creatures trying to hinder our steps, but also because of impenetrability of divine mysteries. And as, to help us overcome the first, Holy Spirit comes to our aid with gift of knowledge, so to help us overcome the second He comes with gift of understanding.
 
-What remains to be done is only application of these graces to individual souls. Precisely here God wants our collaboration, and wants it so much He has established distribution of certain graces necessary for our own and others' salvation to depend precisely on our prayers.
+Our intelligence is incapable of grasping infinite. Though invested by faith, its mode of understanding remains human mode proceeding through ideas and limited concepts, absolutely insufficient to express divine realities. Revelation itself reaches us by means of human words and therefore cannot manifest what God is in Himself, cannot reveal intimate essence of revealed truths.
 
-In other words, through merits of Jesus, grace and infinite mercy of God are ready to pour out abundantly on men. But they do not pour out unless someone raises supplicating hands to heaven to invoke them. As long as prayer does not rise to throne of Most High, grace is not granted.
+Proceeding only with virtue of faith, we are constrained, so to speak, to remain at surface of divine mysteries: we know with certainty they have been revealed by God, we adhere to them with all strength, and yet cannot penetrate them. But what faith cannot do by itself it will do with help of gift of understanding.
 
-This explains absolute necessity of apostolic prayer and its great efficacy. "This kind is not cast out but by prayer and fasting" (Mt. 17:20), Jesus said. Prayer is irreplaceable because it goes to draw grace directly from its source, which is God.
+This gift goes beyond our human mode of understanding and enlightens us in divine manner. It makes us *intus legere*, that is, "read within" divine mysteries with light and intelligence of Holy Spirit Himself.
 
-Our activity, words, and works can dispose soil for grace; but if one does not pray, grace will not descend to irrigate souls.
+It is rapid and deep penetration adding nothing new to data of Revelation, but making us grasp inner meaning of revealed truths. Gift of understanding, so to speak, tears open wrapping of propositions and human concepts and allows us to cast a gaze into substance of divine mysteries. Faith tells us God is Trinity. Gift of understanding says nothing more, does not make us see nor explain this mystery, but makes us penetrate it.
 
-In light of these truths we can better evaluate scope of Jesus' insistent exhortations to prayer: "We ought always to pray and not to faint ... Ask and it shall be given you; seek and you shall find; knock and it shall be opened" (Lk. 18:1; 11:9).
+Under influence of this gift, soul not only believes God is One and Triune, but intuits Trinitarian mystery is essential to divine nature and is that which more than all others reveals God's perfection, power, and infinite love.
 
-We cannot be certain all our prayers will be heard, because we do not know whether what we ask conforms to divine will. But when it is question of apostolic prayer seeking grace and salvation of souls, matter is very different.
+2. — Only Holy Spirit, who is God, can make us penetrate divine mysteries. St. Paul says it explicitly: "The things that eye hath not seen, nor ear heard ... to us God hath revealed by his Spirit. For the Spirit searches all things, yea, the deep things of God ... the things that are of God no man knows but the Spirit of God. Now we have received not spirit of this world, but Spirit that is of God, that we may know the things that are given us from God" (1 Cor. 2:9-12).
 
-Indeed, when we pray for apostolic ends, we insert ourselves into plan God Himself has from eternity prepared for salvation of all men, a plan God desires to carry out infinitely more than we do. Therefore we cannot doubt result of our prayer. Precisely for this efficacy, apostolic prayer constitutes one of most powerful means of apostolate.
+This is marvelous action Holy Spirit performs in us through gift of understanding. To souls united with Him by love He communicates participation in his knowledge of divine mysteries. Therefore it is clear: the more united we are to Holy Spirit by perfect charity, the more apt we are to receive this precious communication.
 
-2. — If God has willed to subordinate distribution of grace in world to men's prayer, and if today men pray so little — indeed many, perhaps most, do not pray at all — it is supremely necessary there be in Church souls totally consecrated to prayer.
+Then gift of understanding will not remain inoperative in us, but will intervene with its light to illumine our studies and meditations on things of God, making us penetrate their depth, grasp intimate sense of sacred texts, and receive exact understanding of divine commandments and counsels.
 
-By life of continual prayer, adoration, and unceasing praise of Most High, such souls supply negligence and neglect of many and thus restore in world equilibrium between rights of God and duties of men, between action and contemplation.
+Thus Holy Spirit introduces soul into prayer more simple and deep. Mind no longer needs to reason and seek convincing motives, but under illuminating touch of Holy Spirit it stops and fixes gaze in truth. This simple contemplative gaze reveals God to it more than any theological study. It feels itself sinking into divine, senses a bottomless abyss in which it delights to immerse itself. It does not see, distinguish, or know how to say anything precise, but it senses God, senses it is in contact with Him.
 
-Praying and imploring for all, they are in Mystical Body of Christ hidden but precious organs whose task is to make divine sap of grace flow through all members. They are in Church "power stations" of supernatural energies, energies drawn and accumulated by prayer and through prayer diffused to ends of earth.
-
-As prayer of Moses was secret and guarantee of Israel's victory, so prayer of contemplative men and women is secret and guarantee of victory for those who struggle in world. "My brothers work for me," exclaims St. Therese of Child Jesus, "while I stay very near royal throne, and we pray for those who fight" — that is, we pray, suffer, and offer for them.
-
-Unceasing prayer contemplatives raise to God in name of whole Christianity does not dispense other faithful from personally fulfilling this great duty. Above all, those dedicated to exterior apostolate must in their lives give sufficient place to prayer.
-
-But unfortunately we often trust more in our work, methods, and technique than in prayer. We believe too little in its efficacy, too little in help God certainly grants to one invoking Him from heart. Therefore we consider time spent in prayer almost lost.
-
-This is fundamental error deriving from lack of faith and humility, an error explaining sterility of so many works. "Those who are very active," warns St. John of the Cross, "and think to embrace whole world with their preachings and exterior works, should reflect well they would be much more useful to Church and far more pleasing to God, even apart from good example they would give, if they spent at least half that time in being with God in prayer" (Canticle 29).
+What difference in understanding same mystery when we meditate it purely in light of faith and when we receive grace to penetrate it with light from gift of understanding! Then we no longer look at it from outside but from within; we no longer stop at verbal expression containing it, but penetrate secret hidden behind formula.
 
 ### Colloquy
 
-"O eternal Father, I want to offer You that Blood your Word shed with such abyssal love and fire of charity for salvation of men.
+Come, O Holy Spirit, come Divine Light!
 
-"O Word, I offer You infinite drops of Blood You poured out with such abundance when You were scourged at pillar. And as You shed it from all your members, so I offer it to You for all members of holy Church, of which You are Head. I offer it for your priests, that they may return to being light of world; for your virgins, that they not be among foolish ones; for infidels and heretics, that they return into fold of God; that all souls may be saved.
+"O Light no other light has seen, light that darkens every other light, light from which every light derives, light compared with which every light is darkness and every brightness obscurity; supreme light, not dimmed by blindness, not clouded by mist, not darkened by shadows, light hindered by no obstacle, not divided by any shade, light that illumines all things together and always: absorb me in ocean of your clarity so that I may see You in You, and myself in You, and all things beneath You" (St. Augustine).
 
-"O Word, I want to speak with You as You did with us. Truly, truly I say to You, O Word, that a thousand times I would sacrifice life, had I a thousand, to help these souls be saved. I do not want to depart from here until You enlighten some soul. But I am not worthy to be heard. Hear not me, who am too presumptuous, but your Blood. You cannot fail Yourself. Hear, hear then, O Word, your Blood.
+"How can I approach You, O Holy Spirit? You dwell in inaccessible light, and You Yourself are only light, knowledge, and splendor; while I dwell in place of darkness and I myself am only ignorance and roughness.
 
-"O eternal Father, that love which moved You to create men, may same love move You to infuse your light into them. I know well You do not fail to infuse it, but they do not receive it. And who is cause? My ingratitude. Yes, O God, I know my ingratitude, but I do not wholly disdain it. Punish your offenses upon me. Punish their faults upon me. Oh, miserable me, cause of all ingratitude and all evil!
+"Meanwhile, O divine Spirit, I invoke You with confidence to be enlightened by You. Uncover divine greatnesses and mysteries so I may adore and acknowledge them. Uncover snares of devil and world so I may avoid them and never fall into them. Uncover also my miseries and weaknesses, my errors, prejudices, obstinacies, artifices of self-love so I may hate and correct them.
 
-"If I could, I would take all men and lead them into bosom of your holy Church, that she might purge them from all infidelities, regenerate them as mother her little children, and nourish them with sweet milk of most holy sacraments" (St. Mary Magdalene de' Pazzi).
+"But, O beneficent Light, enlighten above all my soul, that it may know what You want of me. Grant that I learn well all enchantment of your attractions and your grace, and all I must do to merit beneficent influences of your goodness, so I may correspond to them with full fidelity. Sustain me that I may be faithful to You until death" (Fr. Aurillon).

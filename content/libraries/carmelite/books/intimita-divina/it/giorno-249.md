@@ -1,89 +1,17 @@
-## 249 — VITA DI AMORE
+## XIX — FEDE VISSUTA
 
-### Presenza di Dio
-
-Fa', o Signore, che fin da quaggiù cominci ad amarti come ti amerò un giorno in cielo.
+**Presenza di Dio.** — *O Signore, fa' che la fede sia la luce che mi guidi in ogni circostanza della vita.*
 
 ### Meditazione
 
-1. — Se si può dire che per la fede « comincia in noi
-la vita eterna » ID, q. 4, a. 1), altrettanto e a maggior ragione si può affermare riguardo alla carità la quale resterà
-immutata anche in cielo. La vita eterna sarà essenzialmente
-vita di amore e di amore sbocciato nella sua massima pienezza giacchè, conoscendo perfettamente Dio mediante la
-visione beatifica, potremo finalmente adempire con assoluta
+**1** — La fede deve essere la luce che avvolge tutta la nostra vita e non solo le nostre ore di preghiera. Nella preghiera tu dici: «Credo in Dio Padre onnipotente», ma pochi istanti dopo, di fronte ad un dovere difficile, ad una persona importuna, ad una circostanza che turba i tuoi piani dimentichi che tutto ciò è voluto, è disposto da Dio per il tuo bene; dimentichi che Dio è Padre e, come tale, pensa al tuo bene più di quello che tu stesso possa pensarvi; dimentichi che Dio è onnipotente e, come tale, può aiutarti in ogni difficoltà. Perdendo di vista la luce della fede che ti fa vedere tutte le cose in dipendenza da Dio e da lui ordinate per il tuo vantaggio, ti smarrisci in considerazioni, in proteste puramente umane, come se Dio non entrasse per nulla nella tua vita o vi entrasse solo molto poco; ti perdi in scoraggiamenti simili a quelli di chi non ha fede. Sì, credi in Dio Padre onnipotente, ma non ci riesci al punto da riconoscere la sua volontà o, almeno, la sua permissione, in tutte le circostanze. Eppure, fino a che la fede non penetrerà nella tua vita al punto da farti considerare tutto in rapporto a Dio, in dipendenza da lui, non potrai dire che la luce della fede è la guida della tua vita. Ossia, lo è, ma solo parzialmente; quante volte questa luce vera, che partecipa della luce di Dio, rimane nascosta sotto il moggio della tua mentalità ancora troppo umana, troppo terrena! Gesù ha detto che «non si accende una lucerna per metterla sotto il moggio, ma sul candeliere, perché faccia lume a tutti quelli che sono in casa» *(Mt.* 5, 15). La lucerna della fede è stata accesa in te il giorno del tuo battesimo e tu devi metterla in alto, al di sopra di tutti i tuoi pensieri, di tutti i tuoi ragionamenti, affinché illumini tutta la tua vita, tutta la tua casa: la casa interiore dell'anima tua, la casa esteriore in cui vivi, l'ambiente in cui ti muovi, le persone con le quali tratti.
 
-perfezione il precetto di amare Dio con tutte le nostre forze.
-Su questa terra tale perfezione non è possibile che in modo
-relativo, tuttavia, fin d'ora possediamo la stessa carità con cui
-ameremo un giorno in cielo, perciò fin d'ora possiamo cominciare quella vita di amore che fiorirà pienamente nel
-
-
-l'eternità. Il nostro amore in cielo avrà le caratteristiche del
-pieno vigore e dell'assoluta continuità, sì che non potrà venire mai meno: qui sulla terra non possiamo giungere a tanto,
-tuttavia possiamo tendervi mediante l'esercizio di un amore
-puro, intenso e il più possibile sempre in atto. Ecco, quindi,
-le qualità che deve avere il tuo amore per Iddio: purezza,
-intensità, continuità.
-
-Il tuo amore per Dio sarà puro quando gli vorrai così
-bene da cercare soltanto la sua gloria O l'adempimento della
-sua volontà; «sia santificato il tuo nome, sia fatta la tua
-volontà » (Mt. 6,9 e 10). Questo è l'unico e vero bene che
-tu, povera creatura, puoi volere al tuo Dio; tutta la gloria
-che puoi dargli sta nel dire completamente sì alla sua santa
-volontà, nel compiere quaggiù sulla terra il suo volere con
-tanto amore, con tanta pienezza da gareggiare con gli angeli
-ed i beati del cielo: « sia fatta la tua volontà, come in cielo
-così in terra » (ivi). Ecco in quale senso deve essere puro.il tuo
-amore: cercare solo la gloria di Dio, solo la sua volontà,
-dimenticandoti completamente, pronto a sacrificare per lui qualsiasi tuo volere, desiderio e interesse.
-
-Perciò, anche nella tua vita spirituale il tuo primo pensiero deve essere non la tua pace, il tuo progresso, il
-tuo conforto, ma sempre il gusto di Dio, il suo beneplacito,
-la sua gloria. E proprio così troverai il tuo massimo vantaggio
-perchè, chi si dà a Dio dimenticandosi totalmente attira su
-di sè la pienezza dell'amore divino; e, quale maggior bene
-può venirti che essere amato dall'Amore infinito?
-
-
-2. — Ma poi, bisogna che il tuo amore per Iddio sia
-intenso, vigoroso, perchè così sarà sempre più forte l'inclinazione della tua volontà verso di lui. e Amor meus pondus
-meum » dice (S. Agostino): l'amore è il peso che mi trascina,
-che trascina tutto il mio essere, tutto il mio volere, tutta la
-mia vita in Dio. E bisogna che questo peso aumenti affinchè
-ti trascini in Dio con moto sempre più accelerato. S. Giovanni della Croce insegna che basta un grado di amore perchè
-
-l'anima sia nel suo centro che è Dio, ma, quanti più gradi
-di amore possiede, tanto più s'incentra e si sprofonda in lui
-e perciò «l'amore più forte sarà il più unitivo » (F. 1, 13).
-L'amore si rafforza e cresce con l'esercizio: deve essere
-però un esercizio generoso, intenso, che impiega tutte le
-forze dell'anima. Quando compi le tue azioni non con grettezza o negligenza, ma con tutto l'ardore, ossia con tutta la
-buona volontà di cui sei capace, allora il tuo amore cresce
-immediatamente e ad ogni atto corrisponde un nuovo aumento di carità. In questo modo il tuo amore crescerà sempre
-di più, diventerà forte, maturo, capace di trascinarti tutto
-in Dio. Procura, dunque, che nella tua giornata questi atti
-di amore siano il più possibile frequenti per poter vivere
-il più possibile in continua attualità di amore. Ma c'è un momento del giorno destinato in modo tutto particolare a rinfervorarti nella carità, ed è il momento dell'orazione. Orazione intesa come incontro intimo della tua anima con Dio
-mediante l'amore, orazione intesa come rapporto di amicizia
-fra te e Dio. Lì devi raccoglierti e concentrati, lì devi rinnovare la decisione della tua volontà di darti tutto a Dio,
-di cercare sempre la sua volontà, il suo gusto al di sopra di
-tutte le cose. Va' all'orazione per cercare Dio, per stare con
-lui come l'amico sta con l'amico e chiedigli, sommessamente, ma con dolce insistenza, che t'insegni ad amarlo come
-l'amerai un giorno in cielo. Come l'amicizia umana si rinsalda negli incontri degli amici, così l'amicizia divina — la
-carità — si rafforza nell'orazione, in questo amichevole ed
-amoroso incontro dell'anima con Dio.
+**2** — Chi vive di fede può ripetere le belle parole di Elisabetta della Trinità: «Tutto ciò che accade è per me un messaggio dell'amore eccessivo di Dio per l'anima mia». Per arrivare a questo sguardo di fede vivo e profondo devi abituarti, nelle tue relazioni con le creature, ad oltrepassare le cause seconde per risalire alla Causa prima, a Dio, che con la sua Provvidenza tutto governa ed ordina ai suoi santissimi fini. Sapendo e credendo che Colui che guida tutte le cose è tuo Padre, ti affiderai al suo governo con piena fiducia e saprai mantenerti sereno anche nelle avversità, ben convinto che Egli sa valersi anche del male, anche degli errori degli uomini e perfino dei loro peccati e della loro malignità per il bene degli eletti: «tutto coopera a bene per chi ama Dio» *(Rom.* 8, 28). Lo sguardo di fede è lo sguardo più comprensivo e concreto perché tiene conto della realtà *intera* delle creature e degli avvenimenti, considerandoli, non solo nella loro entità materiale, ma anche nella loro relazione di dipendenza da Dio. Quanto più saprai guardare tutte le cose in questa luce, tanto più ti avvicinerai al pensiero eterno, alla sapienza infinita di Dio, tanto più giudicherai tutto secondo la verità infallibile di Dio. Lo sguardo di fede ti renderà così meno difficile accettare certe situazioni dolorose, certe amarezze della vita perché anche in esse ti farà scorgere la mano paterna di Dio che tutto ordina alla tua santificazione. Se, giudicando queste cose dal punto di vista umano, sei tentato di protestare, di far valere le tue ragioni, i tuoi diritti, di ribellarti a trattamenti di per sé ingiusti, ecco che, innalzando lo sguardo a Dio e considerando che Egli permette tutto ciò per esercitarti nella virtù, per spingerti alla santità, avrai la forza di accettare in pace ogni cosa e di mantenerti benevolo verso chi ti fa soffrire. Ma, nello stesso tempo, ricorda che la fede è luce oscura per il tuo intelletto e perciò molte volte ti chiederà di credere al governo sapiente ed amoroso di Dio pur senza intenderne nulla, anzi, sembrandoti piuttosto il contrario. Proprio in ciò consiste la vera vita di fede e l'uomo «giusto vive di fede» *(Rom.* 1, 17).
 
 ### Colloquio
 
-«O Signore, Tu mi fai comprendere che tutti i doni
-più perfetti sono un nulla senza l'amore, che la carità è la
-via maestra per giungere sicuramente a te. Perciò non desidero altro che la scienza dell'amore; e, pur avendo dato per
-essa le mie ricchezze, mi sembra di non aver dato nulla,
+«Dio mio, per farti piacere e ottenere molto da te devo credere semplicemente al tuo amore, alla tua potenza, alla dolcezza dei tuoi doni; devo credere che Tu brami comunicarmeli e che il tuo desiderio supera di gran lunga quello che io ho di riceverli. Devo credere, perché il giusto vive di fede. Voglio essere come una figlia affettuosa che non vuol vedere, né sapere quali mezzi sceglierai per prodigarmi i tuoi beni ineffabili. Devo soltanto crederlo, perché il giusto vive di fede.
 
+«O Signore, Tu penetri ovunque con la tua bontà, col tuo amore individuale, infinito e con la tua onnipotenza. Dammi una fede tanto semplice per cui, senza alcuna riflessione, mi muova e permanga in questa verità come nel mio centro e in un asilo di pace, dove niente può colpirmi se vi resto ben nascosta. O Signore, Tu mi ami più di quanto io ami me stessa e puoi tutto; vuoi, prima di ogni altra cosa, il mio bene; devo credere che lo desideri più di me. Eccomi dinanzi a te costantemente e in ogni tempo; perché so che gli atti di adorazione perfetta e di abbandono totale sono più veri, umili e semplici quando, privi di qualsiasi sentimento, si esprimono col solo appoggio della fede... soprattutto quando l'anima, nella parte inferiore, vede e tocca il vuoto profondo nel tempo e nell'eternità. Ebbene, o Signore, fa' che in questi istanti io possa rimanere, con la fede, più che mai presente innanzi a te. O prodigio! Quando piace alla tua bontà divina, l'anima nella parte superiore sentirsi inondata di pace, anche mentre continua la tempesta. O pace ineffabile che sorpassi ogni sentimento, tu disgusti per sempre del sensibile e fai correre verso la pura fede come all'unica fonte di un bene divino di cui sei il frutto ineffabile e mille volte benedetto» (cfr. B. M. Teresa Soubiran).
 
-Comprendo così bene che soltanto l'amore è capace di renderci graditi a te, ch'esso è il solo tesoro che io bramo.
-La mia unica occupazione è quella di cogliere i fiori dell'amore e del sacrificio e offrirli a te. Voglio solo lavorare per tuo amore, per farti piacere, di consolare il tuo Sacratissimo Cuore e di salvare delle anime che ti ameranno in eterno.
-
-« O Signore, il tuo amore deve essere totalitario, infinito nel desiderio, perchè l'anima non si dà del tutto a te se ha ancora qualche attacco. Non ammettere nessuna partita, non rifiutarti nulla. Fa' che io viva in una donazione continua, ininterrotta, avendo di mira in tutto la tua maggior gloria; desiderando solo farti contento, volendo solo ciò che Tu vuoi, facendo ogni cosa con tutto il cuore. Tutto ciò che si fa per te deve essere soave; insegnami ad avere a quelle finezze, a quelle attenzioni che tanto apprezzi e che ti si possono mostrare nell'amore, nel sacrificio, nella rinuncia, nell'accettazione sorridente del dolore. In tutto questo io voglio esercitarmi nelle piccole occasioni quotidiane » (cfr. Sr. Carmela d. Spirito S.).
-
+«O Signore, è così dolce servirti fra le tenebre e nel dolore, non avendo che questa vita per vivere di fede» (cfr. T.B.G. CR.).

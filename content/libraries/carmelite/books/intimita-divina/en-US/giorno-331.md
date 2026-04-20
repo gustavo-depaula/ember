@@ -1,49 +1,49 @@
-## 331 — PROGRESS IN THE APOSTOLATE
+## 331 — APOSTOLIC PRAYER
 
 ### Presence of God
 
-O Lord, unite me to You, and let the power of your charity kindle in my heart the true apostolic flame.
+Accept, Lord, my poor prayer for coming of your kingdom.
 
 ### Meditation
 
-Love produces a flame, and the flame of love is zeal. If the fire burns intensely, then the flame it produces is also consuming and intense.
+1. — Since Jesus died for us on cross, redemption of humanity is objectively accomplished fact. Every man coming into world is already redeemed, in sense that most precious Blood of Jesus has already merited for him all graces necessary for salvation and even sanctification.
 
-True apostolic zeal is the spontaneous result, the normal fruit, of the soul’s intimate contact with God through love. The more a soul is united to God in love, the more it is drawn into the flame of His charity; and so it shares in His infinite love for men, in His eternal zeal for their salvation, and thus necessarily becomes apostolic.
+What remains to be done is only application of these graces to individual souls. Precisely here God wants our collaboration, and wants it so much He has established distribution of certain graces necessary for our own and others' salvation to depend precisely on our prayers.
 
-To say that one cannot be an apostle before being so intimately seized by divine love would be an exaggeration. But it is clear that one does not reach the fullness of apostolate, and therefore of apostolic fruitfulness, without this interior flame born of union with God.
+In other words, through merits of Jesus, grace and infinite mercy of God are ready to pour out abundantly on men. But they do not pour out unless someone raises supplicating hands to heaven to invoke them. As long as prayer does not rise to throne of Most High, grace is not granted.
 
-Until one arrives there, one must consider oneself a beginner in apostolate, like apprentices applying themselves now to this work, now to that, yet not fully sustained and carried by personal inspiration.
+This explains absolute necessity of apostolic prayer and its great efficacy. "This kind is not cast out but by prayer and fasting" (Mt. 17:20), Jesus said. Prayer is irreplaceable because it goes to draw grace directly from its source, which is God.
 
-Being beginners, we must behave as such: act with caution, give ourselves to apostolate with prudence and measure, precisely because, not yet having reached that spiritual maturity from which the flame of zeal spontaneously blazes forth, we do not yet possess those resources of grace that protect the soul from the dangers of too intense external activity and at the same time make all its work fruitful.
+Our activity, words, and works can dispose soil for grace; but if one does not pray, grace will not descend to irrigate souls.
 
-«Here the soul,» says St. Teresa of Jesus, «is not yet formed: it is like a child beginning to nurse, which if it leaves its mother’s breast can expect only death. If it withdraws from prayer without urgent necessity and does not return quickly, I greatly fear it will end like the child, going from bad to worse» (*Interior Castle* IV, 3, 10).
+In light of these truths we can better evaluate scope of Jesus' insistent exhortations to prayer: "We ought always to pray and not to faint ... Ask and it shall be given you; seek and you shall find; knock and it shall be opened" (Lk. 18:1; 11:9).
 
-Let us note that the Saint is not speaking of souls taking their first steps in interior life, but of those who, having already reached prayer of quiet, can well be called proficient; yet it is not exaggerated to say that, in relation to apostolate, they are still beginners.
+We cannot be certain all our prayers will be heard, because we do not know whether what we ask conforms to divine will. But when it is question of apostolic prayer seeking grace and salvation of souls, matter is very different.
 
-2 — St. Teresa of Jesus presents the soul at the moment when—as a consequence of charity that unites it to God—the interior flame of apostolate is born in it.
+Indeed, when we pray for apostolic ends, we insert ourselves into plan God Himself has from eternity prepared for salvation of all men, a plan God desires to carry out infinitely more than we do. Therefore we cannot doubt result of our prayer. Precisely for this efficacy, apostolic prayer constitutes one of most powerful means of apostolate.
 
-It is a soul made, through surrender and love, so submissive to God’s will «as to know and want only one thing: that He do with it all that He wills»; and God, who «holds it wholly for Himself ... marks it with His seal,» infusing a most vivid sorrow for men’s sins and an ardent desire to immolate itself for their salvation.
+2. — If God has willed to subordinate distribution of grace in world to men's prayer, and if today men pray so little — indeed many, perhaps most, do not pray at all — it is supremely necessary there be in Church souls totally consecrated to prayer.
 
-In this soul, charity has grown to such a point that it is capable of effectively renouncing its own will in order to conform in everything to the divine will. Even in difficult and unforeseen situations, which demand much spirit of sacrifice, it knows how to set aside every reluctance and resentment of nature, every personal view and desire, to adhere to God’s will—whether that will comes under the aspect of daily duties, through the external voice of obedience, through the interior voice of the Holy Spirit, or through the circumstances of life.
+By life of continual prayer, adoration, and unceasing praise of Most High, such souls supply negligence and neglect of many and thus restore in world equilibrium between rights of God and duties of men, between action and contemplation.
 
-It is therefore a soul truly united to God by love, truly given to Him; and God takes it and launches it into the service of the Church and of souls, wishing to use it to carry out His plan of salvation and sanctification of humanity.
+Praying and imploring for all, they are in Mystical Body of Christ hidden but precious organs whose task is to make divine sap of grace flow through all members. They are in Church "power stations" of supernatural energies, energies drawn and accumulated by prayer and through prayer diffused to ends of earth.
 
-Thus in the soul there awaken immense apostolic desires, in no way comparable to those it may have had before: it feels that it no longer belongs to itself, that its life is necessarily bound to that of the divine Redeemer and that, in imitation of Him, it must dedicate and consume itself entirely in the service of souls.
+As prayer of Moses was secret and guarantee of Israel's victory, so prayer of contemplative men and women is secret and guarantee of victory for those who struggle in world. "My brothers work for me," exclaims St. Therese of Child Jesus, "while I stay very near royal throne, and we pray for those who fight" — that is, we pray, suffer, and offer for them.
 
-Even those who live apparently most removed from the world and from external contact with men—cloistered nuns in their enclosure, contemplatives in hermitages or deserts—when they reach this state, become eminently apostolic, and their entire life of prayer and sacrifice is oriented toward a single ideal: to make reparation for humanity’s sins and save souls.
+Unceasing prayer contemplatives raise to God in name of whole Christianity does not dispense other faithful from personally fulfilling this great duty. Above all, those dedicated to exterior apostolate must in their lives give sufficient place to prayer.
 
-While contemplatives express this apostolic zeal by redoubling hidden immolation, the active, dedicated to external works, find in the interior flame blazing from union with God the impulse, strength, support, and fruitfulness of their apostolate.
+But unfortunately we often trust more in our work, methods, and technique than in prayer. We believe too little in its efficacy, too little in help God certainly grants to one invoking Him from heart. Therefore we consider time spent in prayer almost lost.
 
-Once again we must conclude that the way to maximum apostolic effectiveness is the solitary and silent way of union with God.
+This is fundamental error deriving from lack of faith and humility, an error explaining sterility of so many works. "Those who are very active," warns St. John of the Cross, "and think to embrace whole world with their preachings and exterior works, should reflect well they would be much more useful to Church and far more pleasing to God, even apart from good example they would give, if they spent at least half that time in being with God in prayer" (Canticle 29).
 
 ### Colloquy
 
-«My God, what fervor and what strength in the charity of a soul united to You by love! Those so taken by You cannot limit themselves to personal profit, nor be content with it; but because it seems little to them to go alone to heaven, with wholly heavenly concern and affection they strive with exquisite diligence to lead many others with them. Grant, O Lord, that this may be the effect of my love for You!»
+"O eternal Father, I want to offer You that Blood your Word shed with such abyssal love and fire of charity for salvation of men.
 
-«O Lord, from a soul already resolved to love You and wholly surrendered into your hands, You desire only that it long for and seek, as much as possible, to contribute to your greater glory.
+"O Word, I offer You infinite drops of Blood You poured out with such abundance when You were scourged at pillar. And as You shed it from all your members, so I offer it to You for all members of holy Church, of which You are Head. I offer it for your priests, that they may return to being light of world; for your virgins, that they not be among foolish ones; for infidels and heretics, that they return into fold of God; that all souls may be saved.
 
-«Oh, the charity of those who truly love You! What rest could they have if they saw that they could contribute, even a little, that a soul might advance and love You more, or at least receive consolation and be delivered from danger? How unbearable personal rest would become for them!
+"O Word, I want to speak with You as You did with us. Truly, truly I say to You, O Word, that a thousand times I would sacrifice life, had I a thousand, to help these souls be saved. I do not want to depart from here until You enlighten some soul. But I am not worthy to be heard. Hear not me, who am too presumptuous, but your Blood. You cannot fail Yourself. Hear, hear then, O Word, your Blood.
 
-«O Lord, afflicted by the ruin of so many souls, if I cannot help them by works, I want to importune You by prayer. I want to renounce every personal satisfaction, and count it well lost; I want to forget myself entirely, thinking only of the best way to fulfill your will.
+"O eternal Father, that love which moved You to create men, may same love move You to infuse your light into them. I know well You do not fail to infuse it, but they do not receive it. And who is cause? My ingratitude. Yes, O God, I know my ingratitude, but I do not wholly disdain it. Punish your offenses upon me. Punish their faults upon me. Oh, miserable me, cause of all ingratitude and all evil!
 
-«My God, the more time passes, the more in me grows the desire to contribute to the good of some soul. I often seem like a person in possession of a great treasure, eager to share it with all, yet unable to distribute it because her hands are bound. No longer able to contain myself, I raise my voice to You, begging You to provide some means by which I may cooperate in winning at least some soul for your service» (cf. St. Teresa of Jesus).
+"If I could, I would take all men and lead them into bosom of your holy Church, that she might purge them from all infidelities, regenerate them as mother her little children, and nourish them with sweet milk of most holy sacraments" (St. Mary Magdalene de' Pazzi).

@@ -1,96 +1,21 @@
-## 264 — L'ASSUNZIONE DI MARIA
+## III — L'ESTENSIONE DELLA CARITÀ FRATERNA
 
-### Presenza di Dio
-
-O Maria SS.ma assunta in cielo, ti supplico di purificare i miei sensi, affinchè impari a gustare Dio fin quaggiù.
+**Presenza di Dio.** — *O Signore, fammi comprendere che la vera carità non ammette eccezioni, ma abbraccia con amore sincero qualsiasi prossimo.*
 
 ### Meditazione
 
-1. — La Madonna, che oggi contempliamo assunta alla
-gloria del cielo in anima e corpo, ci ricorda con una forza
+**1** — Se la carità si basasse sulle qualità del prossimo, sui suoi meriti, sul suo valore, se si basasse sul conforto e sui benefici che da esso riceviamo, sarebbe davvero impossibile estenderla a tutti gli uomini. Ma, poiché si fonda sulle relazioni del prossimo con Dio, nessuno può essere lecitamente escluso, giacché tutti appartengono a Dio, sono di fatto creature sue e, almeno per vocazione, sono tutti figli suoi, redenti dal Sangue di Cristo, chiamati a vivere «in società» con Dio (cfr. *I Gv.* 1, 3) mediante la grazia qui in terra e la visione beatifica in cielo. E anche se alcuni, per la loro malizia, si sono resi indegni della grazia di Dio, tuttavia, finché vivono, sono pur sempre capaci di convertirsi e di essere riammessi nella dolce intimità del Padre celeste.
 
-tutta particolare che la nostra stabile dimora non è la terra,
-ma il cielo dove, insieme col suo divin Figlio, lei ci ha preceduto nella completezza della sua persona. E' questo il pensiero dominante della liturgia odierna: «O Dio onnipotente
-ed eterno — dice l'Oremus del giorno — che avete elevato
-nel corpo e nell'anima alla gloria celeste l'Immacolata Vergine Maria, Madre del vostro Figlio, fate, ve ne supplichiamo,
-che sempre attenti ai beni celesti, noi meritiamo di essere
-associati alla sua gloria ». Sì, la festa dell'Assunta è per noi
-un forte richiamo a vivere «sempre attenti ai beni celesti»,
-non lasciandoci travolgere dalle vicende e dalle lusinghe della
-vita terrena. Non solo l'anima nostra è creata per il cielo, ma
-anche il corpo che, dopo la risurrezione della carne, sarà accolto nei padiglioni celesti e ammesso a partecipare alla gloria dello spirito. Questa piena glorificazione della nostra umanità che, non solo per noi, ma anche per i nostri santi, si
-realizzerà solo alla fine dei tempi, la contempliamo oggi già
-pienamente realizzata in Maria, Madre nostra. Ciò ben conveniva a lei, tutta pura e tutta santa, il cui corpo non fu mai
-sfiorato dall’ombra del male, ma fu sempre tempio dello Spirito Santo, il cui seno verginale fu tabernacolo immacolato
-del Figlio di Dio. E ciò richiama noi ad innalzare tutta la nostra vita, non solo quella dello spirito, ma anche quella dei
-sensi, all'altezza della vita celeste che ci attende. «O Madre
-di Dio e Madre degli uomini, — esclama Pio XII nella sua
-bellissima preghiera alla Madonna Assunta — ti supplichiamo di purificare i nostri sensi, affinchè apprendiamo, fin da
-quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature ».
+Nell'Antico Testamento, in cui il grande mistero della comunicazione della vita divina agli uomini non era ancora stato rivelato e Gesù non era ancora venuto ad instaurare la realizzazione di questi nuovi rapporti fra Dio e gli uomini, la legge dell'amore del prossimo non esigeva questo abbraccio universale e profondo di cui gli antichi non sarebbero stati capaci. Ma da quando Gesù è venuto a dirci che Dio è nostro Padre al punto da volerci comunicare la sua vita divina, da quando Gesù è venuto ad offrirci la grazia di adozione a figli di Dio, il precetto della carità ha acquistato una nuova ampiezza. «Voi avete udito che è stato detto: 'amerai il tuo prossimo e odierai il tuo nemico'. Io invece — proclama Gesù — dico a voi: 'amate i vostri nemici, fate del bene a chi vi odia e pregate per quelli che vi perseguitano e vi cacciano, affinché siate figli del Padre vostro, che è nei cieli, il quale fa sorgere il sole su i buoni e sui cattivi e fa piovere sui giusti e sugli ingiusti'» *(Mt.* 5, 43-45). Ecco come Gesù stesso dichiara il motivo della carità universale: dobbiamo amare tutti per essere figli del Padre celeste, per imitare il suo amore universale verso tutti gli uomini che sono creature sue, da lui eletti a suoi figli adottivi. Anche Gesù ci insegna che dobbiamo amare il prossimo «*propter Deum*», a motivo di Dio.
 
+**2** — Molte volte in pratica troviamo difficile il precetto della carità universale, perché facciamo dell'amore del prossimo un fatto quasi esclusivamente personale, soggettivo e quindi egoista. In altre parole, anziché far dipendere il nostro amore per il prossimo dalle sue relazioni con Dio, lo facciamo dipendere dalle sue relazioni con noi. Se il prossimo ci vuol bene, ci rispetta, ci tiene in giusta considerazione, ci presta servizi, ecc. non troviamo nessuna difficoltà ad amarlo, anzi ci compiacciamo in questo amore e cerchiamo il nostro conforto. Ma ben altro accade se il prossimo ci è contrario, se ci urta, se ci procura — sia pure involontariamente — dei dispiaceri, se non condivide il nostro modo di pensare, se non approva la nostra condotta. Di fronte a tutto ciò dobbiamo pur convenire che sbagliamo in partenza sostituendo a Dio, che è il vero motivo per cui dobbiamo amare il prossimo, il nostro misero io con le sue esigenze egoistiche. Anche in fatto di amore del prossimo dobbiamo purtroppo riconoscere che siamo quasi sempre *egocentrici* e ben poco *teocentrici*. Se il centro dei nostri rapporti col prossimo fosse veramente Dio, sapremmo superare il punto di vista egocentrico, ossia egoista, personale e, pur soffrendo per i torti, le indelicatezze, i dispiaceri che possiamo ricevere dal prossimo, non prenderemmo mai da ciò motivo per rifiutargli il nostro amore. In fondo, è sempre l'egoismo che ci porta fuori strada e, in questo caso, ci chiude la strada alla pratica della carità teologale.
 
-2. — L'assunzione di Maria SS.ma ci indica l'itinerario
-della nostra ascesa spirituale: distacco dalla terra, slancio verso Dio, unione con Dio.
-
-La Madonna è stata assunta in cielo in anima e corpo
-perché è l'Immacolata: lei così pura, non solo di ogni ombra
- di colpa, ma anche di ogni minimo attacco alle cose della
-terra, che «nella sua anima non ebbe mai impressa alcuna
-
-forma di creatura che la muovesse ad agire» (G.C. S. III,
-2, 11). La prima condizione per giungere a Dio è appunto
-la purezza totale, frutto di distacco totale. La Madonna che
-ha vissuto la nostra vita terrestre in un distacco assoluto da
-ogni cosa creata, c'insegna a non lasciarci avvincere dal fascino delle creature, ma a vivere in mezzo ad esse, ad occuparci di esse con molta carità, sì, ma senza mai attaccarvi il
-cuore, senza mai cercare in esse la nostra soddisfazione.
-
-La Madonna Assunta ci parla di slancio verso il cielo,
-verso Dio. Non basta purificare il cuore da ogni peccato e
-da ogni attacco, ma bisogna contemporaneamente slanciarlo
-verso Dio tendendo a lui con tutte le nostre forze. « O Signo
-re — ci fa pregare la Chiesa nella Messa del giorno —
-mediante l'intercessione della Beatissima Vergine Maria assunta in cielo, i nostri cuori, infiammati dal fuoco del vostro
-amore, aspirino ininterrottamente a voi» (Segreta). La nostra vita terrena vale per la vita eterna in quanto è slancio
-verso Dio, è continua ricerca di lui, continua adesione alla
-sua grazia; quando questo slancio vien meno, vien meno anche il valore ultraterreno della nostra esistenza.
-
-Maria è stata assunta in cielo perchè è la Madre di Dio
-e questo suo massimo privilegio, radice e motivo di tutti gli
-altri, ci parla in modo particolare di unione intima con Dio,
-come ce ne parla il fatto dell'assunzione all'unione beatificante del cielo. La Madonna Assunta ci conferma dunque in
-
-questa grande e dolce verità: noi siamo creati e chiamati al-
-
-l'unione con Dio; e la Madonna stessa ci tende la sua mano
-materna per suscitarti al raggiungimento di così alto ideale.
-Con lo sguardo fisso a lei sarà più agevole procedere: lei sarà «la nostra guida, forza e consolazione » in qualsiasi lotta
-e difficoltà.
+Bisogna, dunque, vincere l'egoismo e slanciarci oltre gli orizzonti tanto limitati di un amore basato sui nostri interessi personali. Guardiamo più in alto, guardiamo a Dio che ci ripete come a noi come a S. Caterina da Genova: «Chi mi ama, ama tutto ciò che è amato da me». Se, a motivo delle difficoltà che incontriamo nei nostri rapporti col prossimo, la nostra carità si arresta, vuol dire che ciò che regola i nostri rapporti con i fratelli non è l'amore di Dio, ma l'amore del nostro io.
 
 ### Colloquio
 
-«O Vergine Immacolata, Madre di Dio e Madre degli
-uomini.
-« Noi crediamo con tutto il fervore della nostra fede nel-
+«O Gesù, lo sai, io non trovo nemici intorno a me, ma trovo però, delle simpatie: mi sento attirata verso una sorella e invece un'altra mi farebbe fare un bel giro per scansarla. Ebbene, Tu mi dici che devo amare questa sorella e pregare per lei, anche se dal suo modo di fare potessi capire che non sono nelle sue grazie. 'Se amate coloro che vi amano, qual merito ne avrete? Anche i peccatori, infatti, amano chi li ama'. E m'insegni pure che l'amore non basta, perché l'amore va provato con le opere. Godere nel far piacere ad un amico è naturale, ma in ciò non consiste la carità: anche i peccatori lo fanno.
 
+«Ecco, dunque, la conclusione che Tu mi suggerisci: devo cercare la compagnia delle sorelle che non mi piacciono per naturale inclinazione e compiere a loro riguardo l'ufficio del buon samaritano. Basta spesso una parola ed un amabile sorriso per dilatare un'anima triste e ferita! Tuttavia, o Signore, Tu non vuoi che io sia caritatevole per la sola speranza di consolare gli altri; mirando soltanto a questo scopo presto mi scoraggerei, perché una parola detta con la migliore intenzione verrà forse presa a traverso. Perciò, per non perdere né tempo, né fatica, vuoi che mi sforzi di operare unicamente per rallegare te, o Gesù, e per rispondere al tuo consiglio: 'Quando dai un banchetto, non invitare i parenti e gli amici, per timore che anch'essi invitino te e così tu abbia ricevuto la tua ricompensa'.
 
-la tua assunzione trionfale in anima e corpo al cielo, ove
-sei acclamata regina da tutti i cori degli angeli e da tutte le
-schiére dei santi; e noi ad essi ci uniamo per lodare e benedire
-il Signore, che ti ha esaltata sopra tutte le altre pure creature, e per offrirti l'anelito della nostra devozione e del nostro
-amore.
-
-« Noi sappiamo che il tuo sguardo, che maternamente accarezzava l'umanità umile e sofferente di Gesù in terra, si
-sazia in cielo alla vista dell'umanità gloriosa della Sapienza
-increata, e che la letizia dell'anima tua nel contemplare a faccia a faccia l'adorabile Trinità fa sussultare il tuo cuore di
-beatificante tenerezza; e noi, poveri peccatori, noi a cui il corpo appesantisce il volo dell'anima, ti preghiamo di purificare i nostri sensi affinchè apprendiamo, fin da quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature.
-
-« Noi confidiamo che le tue pupille misericordiose si abbassino sulle nostre miserie e sulle nostre angosce, sulle nostre lotte e sulle nostre debolezze; che le tue labbra sorridano
-alle nostre gioie e alle nostre vittorie, che Tu senta la voce
-di Gesù dirti di ognuno di noi, come già del suo discepolo
-amato: “Ecco il tuo figlio”; e noi che ti invochiamo nostra
-Madre, noi ti prendiamo, come Giovanni, per guida, forza
-e consolazione della nostra vita mortale,
-
-« Da questa terra, ove passiamo pellegrini, confortati dalla fede nella futura risurrezione, guardiamo verso di te, nostra vita, nostra dolcezza, nostra speranza; attraici con la soavità della tua voce per mostrarci un giorno, dopo il nostro
-esilio, Gesù, frutto benedetto del tuo seno, o clemente, o
-pia, o dolce Vergine Maria» (Pio XII).
+«O Gesù, quale banchetto potrò mai offrirti come mie sorelle se non un banchetto spirituale composto di una carità lieta ed amabile? Insegnami ad imitare S. Paolo che si rallegreva con coloro che trovava nella gioia. È vero che anche le lacrime dovranno qualche volta apparire nel banchetto che voglio imbandire, ma col tuo aiuto, cercherò sempre che le lacrime si cambino in riso, poiché Tu ami chi offre con gioia» (T.B.G. St. 9 e 10).

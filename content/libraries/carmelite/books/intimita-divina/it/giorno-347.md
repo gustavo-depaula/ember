@@ -1,92 +1,29 @@
-## 347 — LO SVILUPPO DELL'AMORE
+## 25 — PATERNITÀ E MATERNITÀ SPIRITUALE
 
-### Presenza di Dio
-
-Dio mio, che fin dall'eternità mi hai prevenuto col tuo amore infinito, aumenta il mio amore per te.
+**Presenza di Dio.** — *O mio Dio, uniscimi a te col vincolo di un amore intenso e in forza di quest'unione fa' che io possa generarti delle anime.*
 
 ### Meditazione
 
-1 — «Chi impedirà a Dio di fare quel che vuole in
-un'anima rassegnata, muda e annichilità? » (S. II, 4, 2).
-Questa sentenza di S. Giovanni della. Croce ti fa comprendere che Dio desidera immensamente lavorare nell'anima tua per condurti alla santità, all'uniore con lui, purchè ti metta nelle sue mani spoglio di ogni attacco, annichilito nel tuo amor proprio, totalmente docile alla sua
-azione, totalmente malleabile e movibile. Mediante le prove purificatrici, il Signore ti aiuta a vuotarti di te stesso,
-a distaccarti dalle creature, ti aiuta ad inabissarti nella vera umiltà, ma nello stesso tempo ti aiuta a crescere nell'amore, la grande forza che deve unirti a lui. Tutto il
-lavoro che Dio compie nell'anima tua mira a farti proredire in questa virtù; prove esteriori ed interiori, umiiazioni, impotenze, aridità, lotte, rempeste hanno, nel piano divino, lo scopo di spegnere in te i fuochi fatui dell'amor proprio, dell'orgoglio, degli affetti terreni e di ogni
-altra passione sregolata perchè in te divampi un solo fuoco sempre più intenso e vigoroso, il fuoco della carità.
+**1** — Dio ha fatto all'uomo il grande onore di volerlo suo collaboratore nell'opera che più gli è propria e che appartiene essenzialmente a lui solo, cioè la comunicazione della vita, e non solo della vita naturale, ma anche di quella soprannaturale. Sul piano naturale, che potremmo chiamare il piano della creazione, sono suoi collaboratori i padri e le madri di famiglia cui è affidata l'alta missione di comunicare la vita a nuovi esseri umani, di allevarli e di educarli per la gloria divina. Sul piano soprannaturale, il piano della Redenzione, sono collaboratori di Dio tutti coloro che, dedicandosi all'apostolato, hanno la missione, ancor più nobile e vasta, di comunicare agli uomini la vita della grazia, senza la quale essi sono creature infelici e minorate, in un certo senso, non potendo pervenire alla vita eterna. Nell'Enciclica *Menti Nostrae* il Papa Pio XII dichiara: «Il sacerdote è... l'organo di comunicazione e d'incremento della vita del Corpo mistico di Cristo. Con la legge del celibato il sacerdote, piuttosto che perdere il dono e l'ufficio della paternità, l'accresce all'infinito, giacché se non genera una figlianza a questa vita terrena e caduca, ne genera a quella celeste ed eterna». Fatte le debite proporzioni, lo stesso può dirsi di qualsiasi apostolo perché il fine ultimo di ogni apostolato è appunto quello di generare anime alla vita soprannaturale.
 
-Quanto più il Signore ti purifica, tanto più il tuo cuore si libera da ogni scoria e diventa capace di concentrare in lui tutti i suoi affetti. Cammina, dunque, in questa direzione accettando la purificazione in vista di un
-amore più pieno e orientando tutta la tua vita spirituale
-all'esercizio dell'amore. Ciò che soffri, soffrilo per amore,
-ossia soffrilo di buon volere, senza recalcitrare, senza lamentarti e allora, a misura che la tua anima verrà umiliata, spogliata, mortificata, verrà anche rivestita di carità. Le prove che Dio ti manda non hanno solo lo scopo
+«O figlioli miei, che io di nuovo partorisco, fino a tanto che sia formato Cristo in voi!», esclama S. Paolo rivolto ai Galati (4, 19); parimenti ogni apostolo, rispetto alle anime per cui si sacrifica dando tutto se stesso, ha ben diritto di sentirsi padre e madre insieme, paternità e maternità che sono un riflesso, o meglio una partecipazione della paternità di Dio. Nell'ordine naturale Dio ha stabilito che la fecondità, fonte di vita, sia il frutto dell'unione fra due creature; anche nell'ordine soprannaturale la fecondità è frutto di unione, ma di un'unione immensamente superiore e tutta spirituale, quella dell'anima con Dio. Quanto più una creatura si unisce a Dio per amore, tanto più partecipa della fecondità inesauribile di lui, avente per fine la comunicazione della vita divina agli uomini. Chi dunque ha rinunciato a una paternità o maternità naturale per consacrarsi a Dio, non ha immiserito e soffocato la sua vita nella sterilità, ma, in forza della sua unione con Dio, viene innalzato ad una paternità, ad una maternità di gran lunga superiori.
 
-di rendere più puro il tuo cuore, ma anche di dilatarlo
-nella carità. Esse mirano a scavare in te una maggiore capacità di amore, non certo di amore sensibile, ma di forte amore di volontà, che tende a Dio con pura benevolenza, indipendentemente da ogni conforto personale, nel-
+**2** — È padre, è madre delle anime non solo chi lavora nel campo dell'apostolato esterno, ma anche chi si dedica alla vita contemplativa pura. S. Teresa del B. G., benché totalmente separata dal mondo, sente crescere a dismisura nel suo cuore il senso della maternità spirituale e, nella solitudine del Carmelo, scrive: «Essere sposa vostra, o Gesù... e, per la mia unione con Voi, madre delle anime» *(St.* 11); questa è l'aspirazione fondamentale del suo spirito, è l'ideale che l'attira, che la sostiene e la sospinge in una vita di continua e penosa immolazione. L'umile claustrale è perfettamente cosciente di doversi dare, sacrificare per le anime, di doversi mettere a loro totale disposizione, proprio come una madre amorosa si dà tutta per i suoi figli. Un giorno, vedendo una novizia ricalsi svogliatamente al lavoro, la Santa, piena di fervore, la riprese: «È questa la premura che deve avere chi ha dei figli da nutrire ed è obbligata a lavorare per mantenerli?» *(CR.)*.
 
-| l'unica ricerca della sua gloria e del suo beneplacito.
+Il vero apostolo è consapevole di avere dei figli da *nutrire*, di dover spendere per essi tutta la sua vita, di doverli *mantenere* con i suoi sudori, con le sue preghiere, con le sue fatiche e soprattutto col suo amore. Proprio dall'amore — da quello stesso amore che l'unisce a Dio — trae la forza di sacrificarsi per loro e trae pure quella fecondità spirituale per cui diventa collaboratore di Dio nel comunicare ad essi la vita della grazia. Quanto più l'amore cresce, tanto più l'unione con Dio si fa profonda e quindi ne deriva una maggiore fecondità, una maggiore potenza comunicatrice di vita divina ad un numero immenso di anime. Chi può dire a quante anime si è estesa la paternità e la maternità spirituale dei santi?
 
-mente ammaestra l'anima nella perfezione dell'amore »
-(G.C.N.II, 5, 1). Anzitutto le insegna ad amare indipendentemente da ogni gaudio e gioia, privandola perfino di
-pirla gioia, pur tanto legittima e spontanea, che deriva
-
-falla consapevolezza del proprio amore. L'anima non ancora del tutto purificata potrebbe attaccarsi a questa gioia
-e Dio gliela sottrae interamente; le fitte tenebre le tolgono la coscienza di amare, la secca aridità spegne în lei
-ogni gaudio e dolcezza ed essa è costretta a procedere
-col puro atto della volontà. Anzichè compiacersi nel suo
-amore, che ormai non ayverte più, l'anima resta profondamente afflitta dal dubbio tormentoso di non sapere amare e per combattere questo dubbio non ha altro mezzo
-che applicarsi con tutte le sue forze a compiere le opere
-dell'amore, ossia ad abbracciare con generosità qualsiasi
-cosa, qualsiasi sacrificio che piaccia a Bio. Proprio così il
-suo amore si sviluppa e diventa più puro e più forte:
-più lancia non vi si mescola nessun conforto perSonale, più forte perchè la spinge ad opere più generose.
-In questo stato l'anima aderisce a Dio col solo atto- della
-volontà, in cui consiste la sostanza dell'amore: vwo/ bene
-a Dio unicamente perchè Egli è il Bene sommo, infinitamente amabile; vuole lui solo e lui solo serve compiendo
-tutti i suoi divini voleri, senza alcun ritorno su di sè, senza nessuna ricerca di gioie, di gusti spirituali; l'anima non
-è più preoccupata di godere del suo amore, non è più
-premia di ricevere, ma la sua unica cura è di dare,
-li donarsi, di far piacere a Dio. Da ciò intendi come l'aridità e le tenebre, anzichè soffocare l'amore, lo fanno
-
-crescere in modo meraviglioso, purchè l'anima sia disposta a camminare cercando solo il gusto di Dio e dimenricando totalmente se stessa. n
-«Impara ad amare come Dio vuole essere amato, ©
-lascia le tue maniere personali... » (AM. I, 57), ti dice
-S. Giovanni della Croce, cioè impara ad amare Dio col
-puro e forte atto di volontà, non preoccupandoti di tutto
-ciò che è sentimento, consolazione, gioia del cuore. Forse il tuo modo di amare è ancora un po' troppo dipendente dal sentimeno, e allora ringrazia il Signore se ti fa
-camminare in tenebre ed aridità in tal modo Egli ti
-
-aiuterà a liberarti da queste debolezze.
+Non c'è vita interiore, non c'è santità autentica che non si coroni dell'aureola della paternità, della maternità spirituale. Ma come, nel campo naturale, la madre non dà alla luce i figli se non nel dolore, così nell'ordine spirituale non si diventa padre, madre delle anime senza la sofferenza. Gesù ci ha generato alla vita divina morendo sulla Croce; da lui impariamo che, se vogliamo associarci alla sua opera redentrice, non dobbiamo temere né persecuzioni, né scherni, né flagelli, né spine, né chiodi, né croce, ma dobbiamo essere pronti a dare per le anime tutto quanto abbiamo e siamo, fino a consumare per esse la nostra sostanza, fino a nutrirle col nostro sangue.
 
 ### Colloquio
 
-«O Signore dell'anima mia e mio unico Bene, perchè
-non vuoi che appena l'anima si determina ad amarti e fa
-il possibile per staccarsi da tutto onde meglio servirti,
-non abbia subito la consolazione di vedersi in possesso
-del vero amore perfetto? Ma ho detto male. Dovevo dire lamentandomi: perchè non vogliamo noi? Sì, la colpa
-è nostra se non arriviamo subito a tanto onore!
+«O Eterno Padre, Tu non puoi non sapere che i poveri peccatori sono creature tue, e per il titolo supremo della creazione a te appartengono.
 
-«Se riuscissimo a conseguire perfettamente il tuo vero amore, avremmo insieme ogni altra sorta di beni, Ma,
-Dio mio, noi siamo così avari e così lenti nel darci a te
-che non ci determiniamo mai a metterci nelle disposizioni per riceverlo, anche perchè, essendo quest'amore tanto
-prezioso, Tu esigi che non sia goduto se non a caro prezzo.
+«O Figliolo, o Re benedetto, negare Tu non potrai che questi miserabili siano tuoi, da te guadagnati per l'incontrastabile titolo della Redenzione. Ascoltami, o Figliolo obbedientissimo, ascoltami e mostrati proprio alle mie preghiere, perché così presentandomi io all'Eterno Padre col pegno in mano del Sangue e della Passione tua, non potrà Egli scacciarmi lungi da sé, prima esaudire le mie richieste.
 
-«Non v'è nulla sulla terra che possa comperare un
-tal tesoro; ma ne diverremmo presto possessori solo che
-facessimo del nostro meglio per non attaccarci alle cose
-del mondo, ponendo ogni nostra cura e conversazione in
+«Aiutami, o eterno Spirito Santo! Costoro, quantunque abominevoli per l'enormità dei peccati, pure a te appartengono, perché Tu li facesti tuoi con ammetterli alla partecipazione della tua bontà.
 
-uelle del cielo. Invece, o Signore, avviene che crediamo
+«O Signore, io non ho qual altro refrigerio se non vedere i miei prossimi convertirsi a te; e per questo solo soffro pazientemente la tua assenza. Se Tu non mi concedi questo contento che cosa dovrò fare? Non mi scacciare, clementissimo Signore!
 
-î darti ogni cosa, mentre in realtà non ti diamo che la
-rendita e i frutti, ritenendoci il capitale e la proprietà.
-Bella maniera di cercare il tuo amore! E poi lo vogliamo
-subito e a piene mani.
+«Tu risoluto sei e già disposto ad esaudirmi; volgendo gli occhi tuoi benigni verso di me, scorgo rivestiti della tua luce i miei spirituali figlioli e figlie, i miei fratelli e sorelle e tutti quelli che di giorno in giorno te li acquisto col desiderio di vederli in ogni tempo fedeli a te.
 
-«O Signore, se Tu non ci dai questo itesoro tutto in
-una volta è perchè anche noi non ci diamo a te del tutto. Ti piaccia almeno di darcelo a goccia a goccia, anche se per questo dovessimo sottostare a tutti i travagli
-del mondo.
-
-«No, Dio mio, l'amore non sta nelle lacrime e neppure in quelle consolazioni e tenerezze che ordinariamente si desiderano tanto e tanto in esse ci si ricrea. Esso invece consiste nel servirti con giustizia, con fortezza d'animo e umiltà. Senza questo sembrerebbe un ricevere sempre e un soffrire mai nulla.
-
-« Non permettere, o Signore, che cosa di sì gran prezzo come il tuo amore sia dato a persone che ti servono
-soltanto per bramosia di consolazioni spirituali » (T.G.
+«Ti raccomando, sommo ed eterno Padre, i dilettissimi figli miei, i quali Tu hai posto sulle mie spalle e ti prego di visitarli con la grazia tua, falli vivere morti al mondo con vero e perfettissimo lume; legali insieme col dolce vincolo della carità. Pregoti, Eterno Padre, che nessuno me ne sia tolto dalle mani e perdonaci tutte le nostre iniquità. Io offro a te e ti raccomando i dilettissimi figli miei, perché essi sono l'anima mia» (S. Caterina da Siena).

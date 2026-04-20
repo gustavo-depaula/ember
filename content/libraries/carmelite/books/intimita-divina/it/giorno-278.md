@@ -1,100 +1,27 @@
-## 278 — LA SEMPLICITÀ
+## XVII — LA PRUDENZA
 
-### Presenza di Dio
-
-— Dammi, o Signore, un cuore semplice, senza doppiezze, senza storture; un cuore che tenda a te con la semplicità di un fanciullo.
+**Presenza di Dio.** — *Insegnami, o Signore, la via della vera prudenza.*
 
 ### Meditazione
 
-1. — La semplicità è una virtù molto affine alla sincerità :
-la suppone come base indispensabile e la oltrepassa giungendo, quando è pe ad abbracciare tutta la vita morale dell'uomo e a ridurla all'unità. La semplicità esclude ogni forma
-di doppiezza e di complicazione derivante dall'egoismo, dall'amor proprio, dall'attacco a se stessi ed alle creature e quindi spinge l'anima in un'unica direzione, Dio: vivere per lui,
-per fargli piacere, per dargli gloria. Tutta la vita spirituale
+**1** — Per giungere all'unione con Dio tutta la nostra vita deve essere orientata a lui; e siccome la nostra vita risulta da un insieme di moltissime azioni, è necessario che queste siano tali da avvicinarci sempre più a Dio, siano continui passi in avanti sul cammino che a lui conduce. La prudenza soprannaturale è appunto quella virtù che ci suggerisce ciò che dobbiamo fare e ciò che dobbiamo evitare per raggiungere la meta prefissa. Se vuoi arrivare all'unione con Dio, ti dice la prudenza, devi conformarti in tutto alla sua volontà, devi rinunciare a qualsiasi cosa, per quanto piccola, che sia contraria al volere divino. Se vuoi farti santo devi fare questi atti di carità, di generosità, non devi ritirarti di fronte al sacrificio. Se vuoi diventare un'anima d'orazione, devi coltivare il raccoglimento, devi fuggire le chiacchiere inutili, devi mortificare la curiosità, devi applicarti con diligenza alla preghiera. Così la prudenza, sia in vista del fine ultimo — l'unione con Dio, la santità — sia in vista dei fini immediati, ma sempre ordinati al fine supremo — come l'acquisto di particolari virtù — ci prescrive ciò che dobbiamo fare e quel che dobbiamo fuggire.
 
+La parabola delle vergini prudenti e delle vergini stolte ci mostra molto bene la necessità di questa virtù. Se si addormentano nell'attesa dello sposo ma, mentre le prime cinque vengono introdotte alle nozze, le altre vengono respinte soltanto perché non hanno avuto la prudenza di portare con sé olio sufficiente per alimentare le loro lampade. E la parabola conclude: «Vigilate, dunque, poiché non sapete né il giorno né l'ora» *(Mt.* 25, 13). La prudenza soprannaturale ci consiglia anzitutto di valerci con diligenza del tempo che il Signore ci dà e delle occasioni che ci offre per esercitare le virtù, perché «poi viene la notte, in cui nessuno può operare» *(Gv.* 9, 4). Quando, per la nostra pigrizia o negligenza, ci lasciamo sfuggire l'occasione di fare un'opera buona, questa è perduta per sempre; è vero che in seguito ne potranno presentarsene altre, ma quella ormai non ritornerà più.
 
-consiste in questa progressiva semplificazione che va di pari
-peso con la purificazione interiore: quando un'anima è perettamente purificata da ogni passione e da ogni attacco, allora è ridotta alla semplicità perfetta, quella semplicità che
-la fa vivere unicamente di Dio e per Iddio. Per giungere a
-uesta meta dobbiamo, in tutta la nostra vita, lasciarci guidae da un'unica luce, appoggiarci ad un'unica forza, tendere
-ad un unico fine: Dio.
+**2** — L'avvenire è nelle mani di Dio; noi non abbiamo a disposizione che l'attimo presente con le sue circostanze attuali. Perciò la vera prudenza soprannaturale consiste nel valorizzarlo al massimo, in vista del nostro fine eterno, l'istante che fugge. La prudenza umana valorizza il tempo per accumulare beni terreni, la prudenza soprannaturale per accumulare beni eterni: «Non accumulate tesori sulla terra... accumulate invece tesori nel cielo, ove né la ruggine né il tarlo li consumano... Cercate prima il regno di Dio e la sua giustizia e tutto il resto vi sarà dato per giunta» *(Mt.* 6, 19-23). Ecco le grandi regole della prudenza dettateci da Gesù.
 
-L'anima che vuole acquistare la santa semplicità, non accetta altra luce fuorchè quella che viene da Dio, che è Dio
-stesso; perciò scarta tutte le vedute dell'amor proprio e dell'egoismo, respinge i riflessi abbaglianti, ma falsi, delle pas
-sioni e delle massime del mondo, riconoscendo che tutto è
-tenebra ed inganno, tranne la luce della verità che può venire da Dio solo, dalla sua legge, dal Vangelo. Giudica tutte
-le cose alla luce della fede, vedendo in ogni circostanza, in
-ogni avvenimento, anche i più penosi, la mano di Dio e valendosi di tutto per andare a lui, senza perdere tempo a
-ragionare sulla condotta delle creature, cosa che complica la
-vita e crea ostacoli all'esercizio della virtù. Nulla la trattiene
-nel suo rapido andare perchè trova in Dio non solo la luce
-per discernere la retta via, ma anche la forza per procedere
-in essa. In ogni momento e ad ogni passo della sua vita,
-l’anima semplice si appoggia a Dio, cercando in lui il suo
-unico sostegno e la sua unica forza. Ciò non toglie che si valga anche ‘ell'aiuto di one sagge e prudenti, ma lo fa
-con distacco, senza turbarsi nè agitarsi quando il Signore
-permette che queste le vengano a mancare. Comunque, in
-qualsiasi circostanza, il suo prime appoggio lo cerca sem-
+A una religiosa, la quale confessava la sua ripugnanza a compiere un atto di carità che richiedeva particolare spirito di sacrificio, S. Teresa del B.G. rispondeva: «Io invece sarei stata felice di poterlo compiere, poiché siamo sulla terra per soffrire e più si soffre, più si è felici. Oh, quanto sapete sistemare male i vostri affari!» (Ricordi inediti). La prudenza soprannaturale ci insegna appunto a sistemare bene i nostri affari non in vista di una felicità terrena, ma di una beatitudine eterna; non in vista dei nostri interessi egoistici, ma in vista del nostro progresso nella via della perfezione, in vista soprattutto della gloria di Dio e del vantaggio delle anime.
 
-re in Dio e con piena confidenza, convinta che soltanto in
-fai troverà la forza necessaria per sostenere la sua debolezza
-e che questa forza non le sarà mai negata.
+La prudenza soprannaturale non giudica delle cose secondo il loro valore umano, secondo il piacere o il disgusto che ci procurano, ma le giudica alla luce della fede, alla luce dell'eternità: «*Quod Deus non est, nihil est*» (Imit. III, 31, 2) e «*Quid hoc ad aeternitatem?*» (S. Bernardo). Ciò che non è Dio, è nulla. Che giova ciò per l'eternità?
 
-
-2. — Qualsiasi cosa faccia, l’anima semplice mira ad un
-unico fine: Dio; ed ha un'unica intenzione: servire Dio, fargli piacere, dargli gusto. Perciò è molto attenta affinchè nella
-
-sua condotta non s'nfiltrino mai intenzioni seconde, quali
-sono, ad esempio, far bella figura, attirarsi la stima altrui, accontentare un po' la propria curiosità o pigrizia, il proprio
-onore o il proprio egoismo, Queste intenzioni seconde sono
-simili alle piccole volpi di cui parla il Cantico dei cantici,
-le quali penetrano di soppiatto nella vigna fiorita dell'anima,
-dea i fiori ed i frutti delle opere buone. Quante
-azioni buone, iniziate per amor di Dio, perdono almeno metà del loro valore perchè a mezza strada vengono contaminate
-da qualche intenzione seconda non sufficientemente repressa e rettificata! E quante altre, da buone, si trasformano in
-cattive per mancanza di rettitudine d’intenzione! L'anima semplice ha dichiarato guerra a tutto ciò e ripete con S. Francesco di Sales: « Dio mio, se sapessi che una sola fibra del
-mio cuore non palpita per voi, subito la strapperei e la getterei lontano da me». La grande purezza d'intenzione fa sì
-che tutte le sue parole e le sue azioni siano semplici, rispecchiando senza ombre i suoi pensieri e i suoi intenti. Il suo
-linguaggio è semplice: « sì, sì; no, no » (Mt. 5, 37); la sua condotta è semplice: fa quello che deve senza nascondersi, senza simulare. Non teme nulla perchè cerca solo Dio e la sua
-approvazione, quindi agisce con la santa libertà dei figli di
-Dio, senza rispetti umani, senza preoccuparsi del giudizio e
-del favore delle creature: «chi mi deve giudicare è il Signore » (I Cor. 4, 4) — dice con S. Paolo — e prosegue il suo
-cammino, mirando solo a Dio. Così, libera da impacci e da
-preoccupazioni inutili, l'anima semplice va a Dio rapida e
-dritta come una freccia. L'unica luce, l'unica forza, l'unico
-fine della sua vita é Dio e proprio per questo tutta la sua condotta acquista una luminosità, un vigore, un'unità incantevole, pallido riflesso delle perfezioni divine.
+La prudenza cristiana non ha quindi niente a che fare con la prudenza della carne, la quale tutto risolve in vista della felicità terrena, senza nessun riguardo alla legge di Dio: «La saggezza della carne è nemica a Dio, perché non sta soggetta alla legge divina» *(Rom.* 8,7); e supera di gran lunga la prudenza umana che, pur non essendo cattiva, non è capace di orientare le nostre azioni al fine supremo poiché mira unicamente a fini terreni.
 
 ### Colloquio
 
-«O Signore, che io possa venire a te per la via retta della
-verità e della semplicità! Concedi all'anima mia quell'intenzione retta, quello sguardo unico che vuol piacere a te solo e
+«Dio mio, l'anima innamorata di te non tiene più conto dei suggerimenti della prudenza umana. In lei non operano che l'amore e la fede e perciò stima le cose del mondo per quel poco che valgono, non brama alcun bene della terra nella convinzione che tutto è vanità e quando sa che una cosa è di tuo maggior servizio non ascolta più nulla e subito la eseguisce, convinta che in questo consiste ogni suo vantaggio» (cfr. T.G. P. 3, 1 e 2).
 
+«O Signore, se voglio farmi santa devo vivere in pieno sul piano soprannaturale, ricordando che, come dice l'*Imitazione*: "*Quod Deus non est, nihil est*" e perciò devo lasciarlo o devo servirmene per venire a te.
 
-non si preoccupa delle interpretazioni altrui sul proprio operato.
+«Se non vi sono io stessa, potrei materializzare anche lo spirito, fermarmi alla superficie, vedere tutto dal lato umano. Purtroppo, o Signore, riconosco di aver agito a volte proprio così.
 
-«Dammi uno sguardo di fede per vedere te solo nei miei
-superiori, affinchè tratti con loro con franchezza, rispetto, stima, fiducia, obbedienza, docilità.
-
-««Fa' che riguardo a me stessa sappia andar dritta al
-centro del mio nulla e mi mantenga in questa posizione senza ripiegarmi su di me, eliminando ogni scrupolo e malinconia, ogni turbamento. Insegnami ad andar dritta al centro
-più profondo dell'anima mia dove Tu risiedi.
-
-« Fa’ che, trattando col prossimo, segua sempre la via retta dell'amore di pura benevolenza, amando te in lui, senza
-ricerca di soddisfazione naturale.
-
-«In mezzo alle vicende della vita, agli imprevisti, insegnami ad andare dritto dove mi chiama Ia tua volontà, senza curiosità, nè distrazioni. Insegnami a battere la via retta
-dell'amore che non conosce indugi, della semplicità che non
-conosce deviazioni, della verità che non conosce raggiri, dell'obbedienza che non conosce repliche, della purezza che
-non conosce fascino delle creature, del raccoglimento che non
-conosce distrazioni.
-
-«E' questa la via che piace a te, o Gesù, che hai voluto
-chiamarti via rettissima: “go sum via rectissima’. E' questa
-la via che conduce al Padre, poichè Tu hai detto: * nessuno
-va al Padre se non mel”. E' questa la via per la quale
-ci guida lo Spirito Santo, giacchè la Sapienza * conduce il
-giusto per vie rettel’.
-
-«Perciò, o Dio, ti chiedo con fervore e desiderio pieno
-di fiducia: crea in me un cuore mondo e rinnova in me il
-tuo spirito. Il tuo spirito buono mi conduca per la via retta! »
-(Sr. Carmela d. Spirito S. css.).
+«Oh no! La vita spesa per te è così grande, così bella! Ma non è grande per azioni straordinarie, bensì per l'amore e la fedeltà con cui devo considerare anche i minimi doveri, per l'amore che deve trasformare anche le minime azioni e tutti gli incontri quotidiani, per le intenzioni apostoliche che devono animare la mia orazione e i miei sacrifici. Insegnami, o Signore, a dare ad ogni istante il massimo amore, a rendere eterno l'istante che fugge, dandogli il valore della carità» (cfr. Sr. Carmela d. Spirito S. c. s.).

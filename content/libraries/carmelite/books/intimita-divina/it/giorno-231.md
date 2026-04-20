@@ -1,95 +1,21 @@
-## 231 — LA GIUSTIZIA INFINITA
+## I — IL PREZIOSISSIMO SANGUE
 
-### Presenza di Dio
-
-O Signore, fammi conoscere le bellezze della tua giustizia, insegnami ad amarla con zelo e con fiducia.
+**Presenza di Dio.** — *O Gesù che mi hai redento col tuo Sangue, fa' che il tuo Sangue produca in me tutto il suo frutto.*
 
 ### Meditazione
 
-1. — La giustizia, pur sembrando tanto differente dalla
-misericordia, è, come questa, un aspetto della santità di Dio,
-della sua bontà e delle sue perfezioni infinite. Anzi, più precisamente, giustizia e misericordia sono due aspetti diversi
-— ma inseparabili — di quell'unico amore con cui Dio ama
-le sue creature. La misericordia è amore, amore infinito del bene e parimenti lo è la giustizia; la misericordia si palesa
-con la giustizia e la giustizia con la misericordia. Spiega il perchè Dio è giusto: Egli è anche compassionevole, come dice S. Teresa del B. G. (Lt.). Dio è misericordioso perchè
-è giusto ed è giusto perchè è misericordioso, perchè, conoscendo la nostra miseria, si china su di noi con misericordia
-infinita.
+**1** — Dalla liturgia odierna la figura di Gesù balza maestosa come quella di un re che si presenta al suo popolo nello splendore del suo paludamento regale: «Chi è questi — canta l'Ufficio del giorno — che viene... tinto le vesti, splendido nel suo paludamento?» *(BR.).* Ma il manto che Cristo indossa non è splendente per il bisso o la porpora, bensì per il sangue, il *suo* Sangue, sparso per i nostri peccati: «Egli è ravvolto in un manto tinto di sangue e il suo nome è 'il Verbo di Dio'» *(ivi).* Quel Sangue che il Verbo, incarnandosi, prese dalla nostra natura umana, tutto ce l'ha ridato come prezzo del nostro riscatto. E ce l'ha ridato non costretto da nessuno, ma liberamente, perché l'ha voluto, perché ci ha amato: «Cristo ci ha amato — dice S. Giovanni — e ci ha lavato dai nostri peccati nel suo Sangue» *(Ap.* 1, 5). Tutti i misteri della nostra redenzione sono misteri d'amore e tutti, perciò, ci spingono all'amore; ma quello che oggi meditiamo ha una nota particolarmente commovente, giacché ci riporta a considerare la Redenzione sotto il suo aspetto più cruento: lo spargimento del Sangue di Gesù che, dal Calvario, scende ad imporporare tutto il mondo, ad irrorare tutte le anime. «Non per mezzo del sangue di capri o di vitelli — esclama S. Paolo nell'Epistola — ma mediante il proprio Sangue» Cristo ci ha redenti: grande realtà, realtà che, se comprendessimo davvero, sarebbe più che sufficiente a fare di noi degli autentici santi. Dobbiamo avere il «senso» del Sangue di Cristo, di quel Sangue che Egli ha versato per noi fino all'ultima stilla, di quel Sangue che, mediante i sacramenti — particolarmente la confessione — scende di continuo ad irrorare le anime nostre, a lavarle, a purificarle, ad impreziosirle con i meriti infiniti del Redentore. «Bagnatevi nel Sangue, annegatevi nel Sangue, rivestitevi del Sangue di Cristo» era il grido incessante di Caterina da Siena.
 
-Tuttavia, la giustizia si distingue dalla misericordia, o
-meglio, la giustizia è l'amore di Dio che ci dà tutto ciò che
-è necessario al nostro bene, al raggiungimento del nostro fine;
-la misericordia, invece, è amore di Dio che ci dà molto più
-del necessario. La giustizia, però, non è mai disgiunta dalla
-misericordia. Anzitutto la suppone perchè, ad esempio, Dio
-non potrebbe provvedere alle necessità della nostra vita — e
-questo è l'atto della giustizia —- se prima non avesse create
-in noi queste necessità chiamandoci all'esistenza — e questo
-è l'atto della misericordia. La giustizia, poi, è sempre accompagnata dalla misericordia chè Dio ci dà sempre molto di
-più di quel che ci sarebbe dovuto: come creature non ci spettava che uno stato di felicità naturale; Dio, invece, ha voluto
-chiamarci ad uno stato di felicità soprannaturale; per vivere
-da figli di Dio ci sarebbe bastato il soccorso della grazia, Dio,
-invece, ha voluto darci anche il grande dono dell'Eucaristia
-per redimere il mondo dal peccato sarebbe stata sufficiente
-una sola goccia del Sangue di Gesù, Gesù, invece, ha voluto
-morire in croce. Ecco la misericordia che sempre accompagna e
-sorpassa la giustizia e questa sempre s'intreccia con quella, poichè Dio non sarebbe la giustizia infinita, se non fosse la
-misericordia infinita, e viceversa.
+**2** — Nell'Ufficio del giorno S. Paolo ci invita con calore a corrispondere al dono di Cristo: «Gesù, per santificare col suo Sangue il popolo, soffrì fuori della porta. Usciamo, dunque, verso di lui... portando gli oltraggi di lui». Se vogliamo che il Sangue di Cristo porti in noi tutto il suo frutto, dobbiamo unirvi il nostro. Solo il suo è preziosissimo, tanto prezioso che una sola stilla è sufficiente a salvare tutto il mondo; tuttavia Gesù vuole, come sempre, che noi vi aggiungiamo la nostra piccola parte, il nostro contributo di sofferenza, di sacrificio «portando i suoi oltraggi». Se siamo sinceri dobbiamo ben riconoscere che gli oltraggi di Cristo noi li fuggiamo a tutto potere; se basta talvolta una mancanza di riguardo, un piccolo torto, una paroletta pungente a farci fremere, come possiamo dire di saper partecipare alle umiliazioni di Gesù? Ecco il Maestro divino trattato come un malfattore, trascinato tra gli scherni villani della soldataglia fuori della porta di Gerusalemme e ivi crocifisso in mezzo a due ladroni. E noi? quale parte prendiamo alla sua Passione, in qual modo condividiamo i suoi oltraggi?
 
-2. — La misericordia è l'effusione del sommo Bene che
-comunica la sua bontà alle creature; la giustizia è lo zelo che
-difende i diritti di questo sommo Bene che deve essere amato sopra tutte le cose. In questo senso la giustizia interviene
-quando la creatura, calpestando i diritti di Dio, invece di amarlo e di onorarlo, l'offende. Ecco allora il castigo che punisce il peccatore, castigo che è frutto della giustizia, ma che
-nello stesso tempo è frutto della misericordia: « perchè Dio
-castiga chi ama » (Pro. 3, 12). Dio, infatti, non castiga il peccatore per annientarlo, ma per indurlo alla conversione: è proprio così che in questa vita le misure della giustizia divina sono
-sempre ordinate all'uso della misericordia, ossia hanno sempre
-lo scopo di mettere il peccatore in condizione di approfittare
-della divina misericordia. Perciò, anche quando Dio ci castiga,
-è sempre misericordioso; i suoi castighi non sono mai sole
-punizioni, ma sono anche e soprattutto rimedi per sanare le
-anime nostre dal peccato. Rimangono puramente punizioni
-soltanto per chi non vuole in nessun modo convertirsi.
-
-Così nella nostra vita spirituale è tutto un alternarsi, un
-intrecciarsi di misericordia e di giustizia. Per misericordia Dio
-ci offre la sua amicizia divina, ma per giustizia non può ammettere alla sua intimità l'anima che conserva il minimo attacco al peccato e all'imperfezione e, quindi, le sottomette alle prove purificatrici. Queste prove hanno sempre il duplice
-scopo: farci riparare le nostre colpe — e questo è lo scopo
-della giustizia — e distruggere in noi le ultime radici del
-peccato per disporci all'unione con Dio — e questo è lo scopo
-della misericordia. Dobbiamo, dunque, accettare le nostre prove con umiltà, riconoscendo che le meritiamo, dobbiamo accettarle con zelo ed amore della giustizia volendo rivendicare
-su di noi i diritti di Dio, diritti che troppo spesso dimentichiamo e trascuriamo; ma dobbiamo accettarle con amore perchè ogni prova è una grande misericordia di Dio
-che vuol farci avanzare nella via della santità.
+Per la nostra redenzione «Gesù sostenne il supplicio della croce disprezzandone l'ignominia... E voi — rimprovera S. Paolo — non avete ancora resistito fino al sangue lottando contro il peccato» *(Ebr.* 12, 2 e 4). Possiamo dire di saper lottare «fino al sangue» per vincere i nostri difetti, il nostro orgoglio, il nostro amor proprio? Oh, come siamo fiacchi e codardi nella lotta, come siamo indulgenti e pietosi con noi stessi e soprattutto col nostro orgoglio! Gesù, innocentissimo, ha castigato in se stesso i nostri peccati fino alla morte sanguinosa ed obbrobriosa; noi, colpevoli, non sappiamo castigarli in noi stessi, non dico fino al sangue, ma neppure fino al sacrificio del nostro amor proprio. Ecco il sangue che Gesù ci chiede per unirlo col suo: il sangue che sgorga dal rinnegamento pieno e sincero del nostro io, dall'accettazione umile e generosa di tutto ciò che mortifica il nostro orgoglio, che lo spezza, lo distrugge. Il Sangue preziosissimo di Gesù ce ne darà la forza «perché l'anima che s'inebria e si annega nel Sangue di Cristo si veste di vere e reali virtù» (S. Caterina da Siena).
 
 ### Colloquio
 
-«Tu mi hai elargito la tua misericordia; contemplando i tuoi attributi,
-essi mi appariscono allora tutti sfavillanti di amore,
-perfino la tua giustizia; e questa, forse ancora più degli
-altri, mi sembra rivestita di amore. Quale gioia, o
-Signore, è pensare che Tu sei giusto, che tieni conto delle
-nostre debolezze, che conosci perfettamente la fragilità della
-nostra natura! Di che mai potrò dunque temere? Tu, infinitamente giusto,
-che ti degni di perdonare con tanta misericordia le colpe del figliol prodigo,
-sarai giusto anche verso di me.
+«O dolcissimo amore Gesù, per fare più forte l'anima mia e toglierle la debolezza nella quale era caduta per il peccato, l'hai circondata tutt'intorno di un muro, avendone intrisa la calce con l'abbondanza del Sangue tuo, il quale Sangue fa unire e confermare l'anima nella divina dolce volontà e carità di Dio. E, come per unire insieme pietra a pietra vi si mette la calce intrisa con l'acqua, così Tu, o Dio, hai messo in mezzo, fra la creatura e te, il Sangue dell'Unigenito tuo Figlio, intriso con la calce viva del Fuoco dell'ardentissima Sanità; sì che non è Sangue senza fuoco, né fuoco senza Sangue. Sparso fu il tuo Sangue, o Cristo, col fuoco dell'amore!» (S. Caterina da Siena).
 
-«E' giusto che ci sentiamo timidi dinanzi a te, Dio di ogni
-santità: dobbiamo essere puri; sappiamo tuttavia che Tu sei
-giusto, e questa tua giustizia, che incute spavento,
-forma l'argomento della mia gioia.
-O Signore, io spero nella tua giustizia
-e nella tua misericordia, perchè io credo
-che tu sei anche buono; e io mi dolgo,
-nel punire e nel castigare,
-sei più largo nella misericordia» (T.B.G.).
+«Io ti adoro, o Sangue preziosissimo di Gesù, fiore della creazione, frutto della verginità, strumento ineffabile dello Spirito Santo; ed esulto pensando che, proveniente dalle stille del Sangue vergineo, a cui impresse il movimento l'eterno amore, fosti assunto dal Verbo e nella sua persona deificato. Io mi comunovo d'intima tenerezza, pensando come dal Cuore della Vergine passasti nel Cuore del Verbo e, animato dal soffio della divinità, diventasti adorabile perché Sangue di un Dio.
 
-«Che cosa sarà di me, che devo rimproverarmi
-mancanze e colpe? Ma là dove abbonda il peccato,
-abbonda la misericordia. O Signore, dura in cielo,
-in eterno la tua bontà. La tua bontà è la tua giustizia,
-e io non ne ho altra che la tua, perchè tu sei giusto.
-Dovrò temere che non basti per tutti?
-Ma la tua giustizia è infinita e resta per tutta
-la vita; questa giustizia immensa coprirà tutti
-gli errori, in me coprirà la moltitudine dei miei peccati,
-e nei tuoi, Signore, dovrà soltanto nascondere i tesori
-di grazia che mi attendono nelle ferite delle piaghe,
-e qui io troverò la tua infinita dolcezza» (cfr. T.B.G. Lt.).
+«Io ti adoro chiuso nelle vene di Gesù, conservato nella sua Umanità come la manna nell'urna d'oro, memoriale della redenzione eterna da lui operata nei giorni della sua vita mortale. Ti adoro, Sangue del nuovo ed eterno Testamento, fluente dalle vene di Gesù nel Getsemani, dalle sue carni flagellate nel Pretorio, dalle mani e piedi trafitti, dal costato aperto sul Golgota. Ti adoro nei sacramenti; ti adoro nell'Eucaristia, ove ti so contenuto sostanzialmente...
+
+«In te ripongo la mia fiducia, o adorabile Sangue, nostro prezzo e lavacro. Stilla soavemente nei cuori traviati e rammolliscine la durezza. Tergi, o Sangue adorabile di Gesù, le nostre macchie, salvaci dall'ira dell'angelo sterminatore. Irriga la Chiesa: fecondala di taumaturghi e di apostoli; arricchiscila di anime sante, pure e raggianti di una bellezza divina» (S. Alberto Magno).

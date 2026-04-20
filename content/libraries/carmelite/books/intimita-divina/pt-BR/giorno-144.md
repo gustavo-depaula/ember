@@ -1,19 +1,18 @@
-## 144 — A QUEM PROCURAS?
+## V — A QUEM PROCURAS?
+
 *Terça-feira de Páscoa*
 
-### Presença de Deus
-
-— Ó Senhor, que eu procure sempre somente a ti e, procurando-te, me seja dado encontrar-te.
+**Presença de Deus.** — *Ó Senhor, que eu procure sempre somente a ti e, procurando-te, me seja dado encontrar-te.*
 
 ### Meditação
 
-1. — Nas Missas da semana da Páscoa, o Evangelho narra as várias aparições de Jesus ressuscitado, das quais a primeira e uma das mais comoventes é a de Maria Madalena (Jo. 20, 11-18). Também neste episódio Maria aparece com sua inconfundível característica de alma totalmente tomada pelo amor de Deus. Chegada ao sepulcro, logo que «vê a pedra removida», um só pensamento a preocupa: «Tiraram do sepulcro o Senhor»; quem o terá levado? onde o terão posto? E o diz a todos os que encontra, supondo em todos uma ansiedade igual à sua: diz a Pedro e a João, que corre a avisar, diz aos Anjos, diz até a Jesus. As outras mulheres, visto o sepulcro aberto, entram para inteirar-se do acontecido; ela sai correndo depressa para levar a notícia aos Apóstolos. E depois volta: que fará junto àquele túmulo vazio? Não o sabe, mas o seu amor a leva e a mantém ali, onde fora posto o Corpo do Mestre, que ela quer reencontrar a qualquer custo.
+**1** — Nas Missas da semana da Páscoa, o Evangelho narra as várias aparições de Jesus ressuscitado, das quais a primeira e uma das mais comoventes é a de Maria Madalena (Jo. 20, 11-18). Também neste episódio Maria aparece com sua inconfundível característica de alma totalmente tomada pelo amor de Deus. Chegada ao sepulcro, logo que «vê a pedra removida», um só pensamento a preocupa: «Tiraram do sepulcro o Senhor»; quem o terá levado? onde o terão posto? E o diz a todos os que encontra, supondo em todos uma ansiedade igual à sua: diz a Pedro e a João, que corre a avisar, diz aos Anjos, diz até a Jesus. As outras mulheres, visto o sepulcro aberto, entram para inteirar-se do acontecido; ela sai correndo depressa para levar a notícia aos Apóstolos. E depois volta: que fará junto àquele túmulo vazio? Não o sabe, mas o seu amor a leva e a mantém ali, onde fora posto o Corpo do Mestre, que ela quer reencontrar a qualquer custo.
 
 Vê os Anjos, mas não se admira nem se assusta como as outras mulheres: está tão tomada pelo seu amor que, em sua alma, não há lugar para outras emoções. E quando os Anjos a interrogam: «Mulher, por que choras?», ela tem uma só resposta: «Levaram o meu Senhor e não sei onde o puseram». Pouco depois Jesus lhe dirige a mesma pergunta e Maria, sempre fixa no seu pensamento, nem sequer o reconhece; mas «julgando-o o hortelão», diz-lhe: «Senhor, se tu o levaste, dize-me onde o puseste e eu o tomarei». A preocupação de reencontrar Jesus é tão dominante nela que nem sente necessidade de nomeá-lo; parece-lhe que todos devam pensar nele, que todos devam compreendê-la ao primeiro instante, como se em todos houvesse um estado de alma semelhante ao seu.
 
 Quando o amor e o desejo de Deus tomaram plena posse de uma alma, nela não fica mais lugar para outros amores, para outros desejos, para outras preocupações. Todos os seus movimentos são orientados para Deus e, através de todas as coisas, a alma não faz senão buscar somente a Deus.
 
-2. — «Se a alma busca a Deus, muito mais o Senhor busca a ela» (G.C. C 3, 28). Maria tem tão grande amor e eis que o próprio Senhor a busca, e a busca chamando-a: «Maria!». Embora ressuscitado e glorioso, Jesus é sempre o bom Pastor que conhece suas ovelhas, conhece-as uma por uma e «chama-as pelo nome e as ovelhas o seguem porque conhecem a sua voz» (Jo. 10, 3 e 4). Chamada pelo nome, a mulher reconhece o Senhor e exclama: «Rabboni! Mestre».
+**2** — «Se a alma busca a Deus, muito mais o Senhor busca a ela» (G.C. C 3, 28). Maria tem tão grande amor e eis que o próprio Senhor a busca, e a busca chamando-a: «Maria!». Embora ressuscitado e glorioso, Jesus é sempre o bom Pastor que conhece suas ovelhas, conhece-as uma por uma e «chama-as pelo nome e as ovelhas o seguem porque conhecem a sua voz» (Jo. 10, 3 e 4). Chamada pelo nome, a mulher reconhece o Senhor e exclama: «Rabboni! Mestre».
 
 Maria está ainda uma vez aos pés de Jesus, o seu lugar preferido. Nosso pensamento a revê na mesma atitude em Betânia, enquanto Marta se afadiga em preparar o almoço; revemo-la na casa de Simão, o leproso, quando, no sábado anterior à paixão, quebra o vaso de unguento precioso aos pés de Jesus e depois os banha com suas lágrimas e os enxuga com seus cabelos; revemo-la aos pés da Cruz, onde não quer separar-se do divino Crucificado. É sempre o mesmo amor ardente, que a torna esquecida e descuidada de tudo. Maria busca só o Senhor, quer só a Ele; o resto não a interessa e não lhe diz respeito. Mais uma vez desejaria estreitar aqueles pés benditos e permanecer ali em amorosa contemplação, mas Jesus suavemente lhe diz: «Não me toques!».
 

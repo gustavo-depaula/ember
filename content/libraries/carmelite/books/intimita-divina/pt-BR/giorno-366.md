@@ -1,50 +1,118 @@
-## 366 — COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS
-*2 de novembro*
+## 44 — O CORPO MÍSTICO DE CRISTO
 
 ### Presença de Deus
 
-Ó Senhor, concede o eterno repouso às almas dos defuntos e faze que o pensamento da morte me impulsione a maior generosidade.
+— Espírito Santo, concede-me "a abundância da plena inteligência para conhecer o mistério de Cristo Jesus" (Col. 2, 3).
 
 ### Meditação
 
-1 — «A Igreja, nossa boa mãe, depois de exaltar com dignos louvores seus filhos que já gozam no céu, quer socorrer as almas que ainda sofrem no lugar da purificação e por elas intercede com todas as forças junto do Senhor Cristo, seu Esposo, para que quanto antes alcancem a comunidade dos eleitos no céu.» Assim lemos no Martirológio Romano.
+1 — "Eu sou a videira e vós sois os ramos" (Jo. 15, 5).
+Sobre estas palavras de Jesus, que indicam a nossa união
+com Ele, funda-se a doutrina do Corpo místico de Cristo.
+Só a comparação mudou: em vez de uma única videira, fala-
+se de um único corpo do qual Jesus é a cabeça e nós somos
+os membros. É a genial comparação de São Paulo que repete em
+outra forma o que Jesus já tinha dito. "Como o corpo
+é um e tem muitos membros, e todos os membros do corpo,
+ainda sendo muitos, formam um só corpo: assim também Cristo... Vós sois corpo de Cristo e, em particular, membros
+dele" (1 Cor. 12, 12 e 27). A identidade de pensamento é evidente: como os ramos formam uma só coisa com o tronco de que nascem e vivem
+da mesma seiva, como os membros do corpo humano formam
+um só corpo e vivem uma única vida, assim nós, incorporados
+a Cristo, formamos com Ele um único corpo e vivemos da
+vida dele: eis o Corpo místico de Cristo "que — como
+ensina São Paulo — é a Igreja" (Col. 1, 24).
 
-Ontem contemplamos a glória da Igreja triunfante e invocamos sua intercessão. Hoje contemplamos as penas expiatórias da Igreja padecente e suplicamos para ela o socorro divino: «Dai-lhes, Senhor, o repouso eterno.»
+Deste Corpo, Cristo é a Cabeça: "Cristo é Cabeça
+da Igreja, Ele o Salvador do corpo dela" (Ef. 5, 23);
+Ele foi constituído pelo Pai "Cabeça suprema da Igreja,
 
-É o dogma da comunhão dos santos em ato: a Igreja triunfante intercede por nós, Igreja militante, e nós, por nossa vez, corremos em auxílio da Igreja padecente.
 
-A morte nos arrancou pessoas queridas; contudo, não pode haver verdadeira separação daqueles que expiraram no beijo do Senhor. O vínculo da caridade continua a unir-nos, estreitando num só abraço terra, céu e purgatório, de modo que dessas três margens circula o auxílio fraterno, fruto do amor, ordenado ao triunfo do amor na glória comum do Paraíso.
 
-A liturgia de hoje é permeada de tristeza, mas não da tristeza dos que «não têm esperança» (1Ts 4,13), porque sobre ela brilha a fé na ressurreição e na felicidade eterna que nos espera.
+que é o corpo... e o complemento dele" (ibid., 1, 22).
+Um só corpo, uma só vida, e a vida provém da Cabeça para os
+diversos membros: "Jesus Cristo faz viver a Igreja da
+sua própria vida superior, permeando com a sua virtude divina
+todo o corpo dela e alimentando e sustentando os diversos
+membros... como a videira nutre e faz frutificar os ramos que lhe
+são unidos" (Myst. Corp.).
 
-Os trechos evangélicos das três Missas dos defuntos falam dessas verdades consoladoras com as próprias palavras de Jesus: «Esta é a vontade daquele que me enviou... que eu não perca nada do que me deu, mas o ressuscite no último dia» (Jo 6,39).
+Eis novamente afirmado como todo cristão vive
+em Cristo e da vida de Cristo.
 
-Que afirmação mais consoladora! Jesus se apresenta ainda hoje como o Bom Pastor que não quer perder nenhuma de suas ovelhas e não poupa meios para conduzi-las à salvação. A Igreja responde com gratidão: «Para os vossos fiéis, Senhor, a vida é transformada, não tirada; e, desfeito o corpo desta morada terrestre, prepara-se no céu uma habitação eterna.»
+2 — A nossa união com Cristo, Cabeça do Corpo místico, certamente não deve ser entendida no mesmo sentido da união existente entre os vários membros de um corpo físico: de fato, embora incorporados a Ele, cada um de nós mantém "totalmente a própria personalidade" (Myst. Corp.); mas não deve
+ser entendida tampouco como uma simples união moral que
+existe, por exemplo, entre os membros de uma mesma sociedade. Não,
+é algo muito mais profundo; é uma união misteriosa, e nesse sentido é chamada mística, mas real e vital. União que provém de estar presente em todas as partes do
+corpo da Igreja "um princípio interno que existe e
+age vigorosamente em toda a estrutura e nas singulares partes dela, e é de tal excelência que supera por
+si mesmo imensamente todos os vínculos de unidade... Não é algo de ordem natural, mas sobrenatural, aliás em si
+mesmo infinito e incriado, isto é, o Espírito divino que,
+como diz o Angélico, único e idêntico em número, enche e
+une toda a Igreja" (ibid.).
 
-Mais que fim inexorável, a morte é, para o cristão, porta aberta para a eternidade.
+O Espírito Santo, "alma da Igreja" (ibid.), é o vínculo que íntima e realmente une e vivifica todos os
+membros de Cristo, difundindo neles a graça e a caridade.
+Ele foi "comunicado à Igreja com copiosíssima efusão,
+para que os seus membros, dia após dia,
+se tornem sempre mais semelhantes ao Redentor" (ibid.). Não se
+trata, portanto, de uma união simbólica, metafórica, mas de
+uma união real, de uma realidade que supera todas as outras "como a graça supera a natureza e como as coisas imortais transcendem as coisas caducas" (ibid.). Realidade tão grande que
+abraça não só a vida terrena do cristão, mas,
+guardada por ele, permanece por toda a eternidade como única fonte da
+sua bem-aventurança, pois "a graça é a semente da glória".
 
-2 — Isso vale não só para nossos mortos, mas também para nós. A morte é castigo e traz naturalmente pena, temor e sobressalto. Os santos o experimentaram, e o próprio Jesus quis experimentá-lo. Ainda assim, a Igreja nos propõe palavras que nos animam: «Bem-aventurados os mortos que morrem no Senhor... para descansarem de seus trabalhos, porque suas obras os acompanham» (Ap 14,13).
-
-Morre a vida do corpo, passa o que é terreno, mas permanece a vida do espírito e permanecem as obras boas: único patrimônio que segue a alma no grande passo e torna preciosa sua morte. «Preciosa aos olhos do Senhor é a morte de seus santos.» Com razão foi chamada dies natalis, dia de nascimento para a vida eterna.
-
-Como desejaríamos que assim fosse nossa morte: nascimento para a visão beatífica, para o amor indefectível do céu.
-
-Mas hoje mesmo, ao convidar-nos a rezar pelos fiéis defuntos, a liturgia recorda que entre a morte e a beatitude eterna há o purgatório. Justamente porque nossas obras nos seguem e nem todas são boas - ou, sendo boas, estão cheias de imperfeições -, é necessário que a alma seja purificada de toda escória antes de ser admitida à visão de Deus.
-
-Se fôssemos perfeitamente fiéis à graça, o purgatório não seria necessário. Desde aqui Deus se encarrega de purificar os que se dão totalmente a Ele e se deixam trabalhar e plasmar segundo seu beneplácito.
-
-Além disso, enquanto no purgatório se sofre sem crescer no amor, a purificação feita na terra tem a grande vantagem de ser meritória: aumenta em nós a graça e a caridade, e assim nos torna capazes de amar mais a Deus por toda a eternidade.
-
-Por isso devemos desejar ser purificados em vida. Mas não nos iludamos: também na terra a purificação total exige grandes sofrimentos. Se hoje não somos generosos no padecer, se não sabemos aceitar o sofrimento nu e puro, semelhante ao de Jesus na cruz, nossa purificação deverá necessariamente cumprir-se no purgatório.
-
-Que o pensamento desse lugar de expiação nos torne zelosos em sufragar as almas dos defuntos e, ao mesmo tempo, corajosos em abraçar o sofrimento em reparação de nossas culpas.
+Somos membros de Cristo: esta é a nossa grandeza,
+a nossa glória, que supera infinitamente toda dignidade e
+grandeza terrena.
 
 ### Colóquio
 
-«Concede-me, Senhor, que diante da morte de meus entes queridos eu tenha uma aflição razoável, derramando lágrimas resignadas sobre nossa condição mortal, logo reprimidas pelo pensamento consolador da fé, que me diz que os fiéis, ao morrer, se afastam de nós apenas por pouco tempo para estar melhor.
+"Ó dileto Esposo e amoroso Verbo, de um modo a ti
+conhecido e só por ti mesmo entendido, Tu geras o corpo da
+Santa Igreja... Com teu Sangue formas para ti um corpo bem or-
 
-«Faze que esteja longe de mim entristecer-me como os pagãos sem esperança. Posso sentir tristeza; mas, quando aflito, que a esperança me console. Com esperança tão grande, não convém que teu templo, ó Deus, permaneça de luto, pois nele habitas Tu, Consolador, que não falhas em tuas promessas.» (Santo Agostinho)
 
-«Ó Senhor e Criador do universo, Senhor da vida e da morte, Tu conservas e cumulas de benefícios nossas almas; Tu realizas e transformas todas as coisas pela obra do teu Verbo, no tempo determinado e segundo o desígnio da tua sabedoria. Recebe hoje nossos irmãos defuntos e concede-lhes o eterno repouso.
 
-«E recebe também a nós, quando te aprouver, depois de nos guiares e deixares nesta carne pelo tempo que te parecer útil e salutar. Recebe-nos preparados pelo teu temor, sem perturbação e sem hesitação no último dia. Faze que não deixemos com pena as coisas da terra, como os demasiado apegados ao mundo e à carne, mas avancemos decididos e felizes para a vida longa e bem-aventurada em Cristo Jesus, nosso Senhor, a quem pertence a glória pelos séculos dos séculos. Amém.» (São Gregório Nazianzeno)
+ganizado, bem composto, do qual corpo Tu és a cabeça,
+em cuja beleza se comprazem os Anjos, admiram os
+Arcanjos, enamoram-se os Serafins e todos os espíritos
+celestes se maravilham com ele e dele se nutrem ainda todas
+aquelas almas bem-aventuradas da Pátria celeste. E a SS.ma Trindade
+nele se compraz de um modo por nós não entendido" (S. Maria Madalena de' Pazzi).
+
+Eis, Senhor, diante de ti uma pobríssima criatura:
+frágil e fraca, inclinada ao mal, capaz de todo pecado,
+criatura vã, semelhante ao feno dos campos, que hoje é e amanhã
+não será mais; criatura miserável que de si mesma não tem
+bem algum e não é capaz de bem algum. E Tu, ó Deus,
+verdadeiro Filho de Deus, imagem do Pai, princípio e fim
+de todas as coisas, rei do universo, Salvador do mundo,
+inclinas-te até mim, tomas esta mísera criatura e a unes
+tão intimamente a ti a ponto de fazê-la membro teu. E sendo teu
+membro, comunicas-me a tua vida, fazes-me viver a tua
+própria vida. Ó Senhor, beleza e santidade infinita, como podes
+suportar ter como membro teu uma criatura tão
+miserável e indigna? Mas não só o suportas: o queres e
+me dizes: "Permanece em mim".
+
+Como, ó Senhor, não aceitar o teu convite e o teu
+mandamento quando Tu mesmo já quiseste inserir-me no
+teu Corpo místico? Ó Senhor, se eu pudesse compreender a
+
+
+
+grandeza, o valor do dom infinito que me ofereces, se pudesse compreender o que significa viver em ti e de ti,
+como o ramo vive na videira, como o membro vive no
+corpo! Que me falta, ó Senhor, para a minha santificação,
+para a minha vida de união contigo? Tu me deste
+muito mais do que eu jamais poderia ter desejado.
+
+Ó Senhor, faze-me sentir a profunda realidade deste
+grande mistério que a ti me une tão intimamente. Faze
+que tal realidade domine, ilumine, dirija toda a minha vida;
+que diante dela tudo o resto desvaneça, que fora
+dela eu não busque e não deseje nada, que a vaidade
+das coisas terrenas já não me atraia e não me engane. Faze
+que eu sinta vivo e profundo o dever e a doce necessidade de
+ser um membro digno de ti, que as minhas ações e a minha
+vida sejam tais que honrem a ti, minha dulcíssima Cabeça.

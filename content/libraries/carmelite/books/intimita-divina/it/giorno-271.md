@@ -1,76 +1,17 @@
-## 271 — LA GIUSTIZIA
+## X — PORTARE GLI UNI I PESI DEGLI ALTRI
 
-### Presenza di Dio
-
-Dammi, o Signore, un desiderio profondo ed efficace di giustizia, affinchè possa avvicinarmi a te, giustizia infinita.
+**Presenza di Dio.** — *Dammi, o Signore, una carità attenta e pronta ai bisogni altrui, una carità che per amor tuo sappia farsi tutto a tutti.*
 
 ### Meditazione
 
-1. — Ai farisei che, con fine astuzia, gli chiesero un giorno se era lecito o no pagare il tributo a Cesare, Gesù rispose:
-« Rendete a Cesare quello che è di Cesare, e a Dio quello che
-è di Dio» (Mt. 22, 21) e con questa semplice risposta ci ha
-tracciato la linea chiara e precisa della virtù della giustizia:
-dare a ciascuno il suo, dare ad ognuno quanto gli spetta.
-«La giustizia — conferma S. Tommaso — è la perpetua e
-costante volontà di attribuire a ciascuno il suo diritto » (II-II, q. 58, a. 1). A Dio il culto che gli è dovuto come Creatore, Signore, Padre nostro e quindi adorazione, onore, gloria, riconoscenza, osservanza fedele delle sue leggi, servizio
-umile e devoto. Al prossimo il rispetto dei suoi diritti, tenendo conto dei diversi doveri che abbiamo verso di lui,
-secondo che ci è superiore, uguale o inferiore.
+**1** — Ogni uomo porta il suo peso più o meno grave: è il peso delle sue debolezze fisiche e morali, è il carico dei suoi doveri, delle sue responsabilità, delle fatiche, delle difficoltà che incombono sulle sue spalle; ed ogni uomo sente il bisogno di una mano amica che l'aiuti a sostenere il suo peso. Questa mano gli deve essere offerta dalla carità fraterna che, per amore di Dio, sa farsi tutto a tutti. «Portate i pesi gli uni degli altri così adempiendo la legge di Cristo», ci esorta S. Paolo *(Gal.* 6, 2). Il cristiano sa di non essere isolato, ma membro di un unico corpo, il Corpo mistico di Cristo: «noi molti siamo un corpo solo in Cristo e, per i rapporti reciproci, siamo membri gli uni degli altri» *(Rom.* 12, 5); questa consapevolezza della sua solidarietà con i fratelli fa sì che il cristiano non viva chiuso nella cerchia ristretta dei suoi interessi personali, ma che abbia il cuore aperto agli interessi, ai bisogni altrui. Il mistero della nostra incorporazione a Cristo non è solo un fatto individuale, ma per sua natura è un fatto sociale: essere inseriti in Cristo mediante la grazia e la carità, comporta la nostra reciproca inserzione tra fratelli e fratelli, in modo simile ai tralci di una stessa vite che, essendo inscritti in un unico tronco, vengono a trovarsi strettamente congiunti gli uni con gli altri, sì che vivono, crescono, si sviluppano insieme. Come l'amore per Cristo è l'espressione vitale della nostra unione con lui e quanto più questa si fa profonda tanto più l'amore cresce, così la carità fraterna è l'espressione vitale della nostra reciproca unione coi fratelli in Cristo, al punto che se questa carità non fosse viva ed operante bisognerebbe dire che la nostra unione in Cristo e con Cristo è molto fiacca o, forse, addirittura nulla.
 
-Certamente l'anima che tende alla perfezione non può
-accontentarsi di rimanere nei limiti della giustizia; la carità
-la spingerà a voler dare e fare di più, tuttavia la giustizia
-sarà sempre il presupposto indispensabile della carità, senza
-il quale la carità stessa non può sussistere. La carità verso
-Dio può e deve spingerci a fare qualche cosa di più di quel
-che è strettamente prescritto, ma questo di più non sarà gradito a Dio se, per farlo, trascurassimo qualche dovere d'obbligo; così un professionista non può dedicarsi ad opere di
-apostolato con pregiudizio dei suoi doveri professionali ed un
+Se la carità e la grazia ci uniscono a Cristo in rapporti così intimi e vitali, è evidente la necessità di vivere questa unione anzitutto con lui, nostro Capo, ma poi anche con i fratelli, compartecipi della nostra inserzione in Cristo. Di qui quella simpatia soprannaturale che deve legarci fra di noi, un cuor solo ed un'anima sola, pronti a soffrire, a faticare gli uni per gli altri, nell'aiuto scambievole, nell'appoggio reciproco. «Rallegrarsi con chi gode, piangere con chi piange» *(Rom.* 12, 15), dice l'Apostolo, il che significa condividere le gioie, le pene, le fatiche, le preoccupazioni altrui come se fossero nostre; e di fatto lo sono perché sono gioie, pene, fatiche, preoccupazioni di quell'unico Corpo mistico di Cristo cui apparteniamo e che perciò è *nostro*.
 
-religioso non può fare opere supererogatorie che lo mettano
-in condizione di venir meno a qualche punto della sua regola.
-Parimenti la carità verso il prossimo può e deve spingerci a
-fare l'elemosina, ma questa non sarebbe accetta a Dio se venisse fatta con denaro che, per giustizia, spettava ad altri, come sarebbe, ad esempio, se tale denaro doveva essere impiegato per pagare la giusta mercede agli operai o per saldare debiti, ecc. Dove si vien meno alla giustizia, ossia a ciò che è
-di obbligo, non si può parlare di carità nè verso Dio, nè verso
-il prossimo. Solo partendo dalla base solida e indispensabile
-della giustizia, la carità potrà prendere lo slancio per un volo
-alto e sicuro.
+**2** — Portare i pesi gli uni degli altri significa anche sopportare con serenità e gentilezza i difetti altrui, conseguenze inevitabili della limitatezza di ogni uomo. L'*Imitazione di Cristo* avverte: «Quei difetti che l'uomo non può correggere in sé e negli altri, deve sopportare con pazienza, fino a quando non piaccia a Dio di disporre altrimenti» *(I,* 16, 1). Negli ultimi mesi della sua vita S. Teresa del B. G. scriveva: «Come intendo ora bene che la vera carità consiste nel sopportare tutti i difetti del prossimo, nel non meravigliarsi delle sue debolezze e nell'edificarsi dei minimi suoi atti di virtù» *(St.* 9).
 
-
-2. — «Tu ami la giustizia e aborrisci l'iniquità, perciò
-ti unse il Signore Dio tuo con olio di letizia», canta il salmista tessendo l'elogio del giusto (Sal. 44, 8). Dio dà la sua letizia e la sua pace all'anima rispettosa della giustizia, che
-adempie con scrupolosa esattezza tutti i doveri che ne derivano, anche a costo di sacrifici. Non è raro infatti che, per
-rispettare i diritti altrui, si debba rinunciare a qualche comodità o benessere personale e si debbano talvolta sacrificare
-anche i propri interessi; ma l'anima che vuol tendere alla perfezione deve essere generosa in tutti i campi e non deve mai
-permettere che l'egoismo le impedisca di adempiere i suoi
-doveri di giustizia verso il prossimo. Una delle cose che scandalizza e indispone di più la gente del mondo è vedere persone dedite alla pietà e che, nei loro rapporti con gli altri, non si fanno scrupolo di mancare alla giustizia e di chiudere gli occhi di fronte a quei diritti altrui che vengono a disturbare i loro interessi personali. Quanto più un'anima aspira
-alla perfezione, tanto più deve avere un vero culto per la giustizia e detestare sinceramente tutto ciò che vi si oppone anche in lieve misura. Una condotta simile è fonte di pace per
-sè e per gli altri. « Giustizia e pace si abbracciano insieme »
-(Sal. 84, 11), dice la S. Scrittura, appunto perchè solo dove
-è la giustizia può regnare la pace, mentre dove la giustizia
-
-
-non è rispettata saranno vani tutti i tentativi di accordo e
-di pace. Il nostro Dio è il Dio della pace; chi, dunque, più
-dell'anima che vuol vivere nella sua intimità dovrà essere
-portatrice di pace in ogni ambiente? Ma porterà la pace solo
-se osserverà la giustizia; non servirebbe a nulla, infatti, esortare alla pace, se si nega di dare a ciascuno il suo diritto.
-
-Come l'osservanza della giustizia è fonte di pace e di letizia per la nostra coscienza, così è fonte di pace e di letizia per le famiglie, per le comunità, per qualsiasi ambiente
-di vita, per la società intera.
+Non per nulla la carità «soffre ogni cosa, ogni cosa crede, tutto spera, tutto sopporta» *(I Cor.* 13, 7). La carità crede sempre alla buona volontà altrui, anche se mescolata a difetti, spera sempre in quel bene che sa scorgere in ogni creatura, anche se offuscato da molte deficienze e, quel che più importa, sopporta tutto non trovando mai nulla di troppo gravoso. Sopportare, come dice l'etimologia della parola, significa *mettersi sotto per portare un peso*: proprio così, la carità ha il bisogno di curvarsi con amore per prendere su di sé i pesi degli altri e specialmente quei pesi che tutti sfuggono per la loro molestia. S. Teresa del B. G. nota che certe persone vengono lasciate in disparte a motivo delle loro imperfezioni naturali, come la mancanza di criterio, di educazione e la suscettibilità del lor carattere: «So bene — dice la Santa — che tali malattie sono croniche e senza speranza di guarigione... eppure devo cercare la compagnia di queste consorelle e compiere a loro riguardo l'ufficio del buon samaritano» (cfr. *St.* 10). Ecco la carità che, anziché fuggire, va incontro alle persone maggiormente sofferenti per le loro imperfezioni naturali e morali e si occupa di esse con tanto amore da non lasciar trapelare per nulla intravvedere che quell'ufficio pietoso le costa, che quei difetti le sono molesti. La carità tutto soffre, tutto sopporta con volto amabile e sereno, senza mai mostrarsi infastidita o aggravata per i pesi che porta.
 
 ### Colloquio
 
-«O giustizia, tu sei quella perla preziosa per cui l’anima
-risplende, tu dai pace e luce e le fai stare in santo timore e tieni uniti i loro cuori. Quando la tua luce viene
-a mancare, subito ci troviamo immersi nel disordine e avvolti nelle tenebre dell’ingiustizia » (cfr. S. Caterina da Siena).
-
-O Signore, Tu solo puoi infondermi la vera giustizia, perchè Tu solo sei la giustizia infinita, « Tu che sei giusto in
-tutta la tua condotta e benigno in tutti i tuoi atti» (Sal.
-144, 17).
-
-«Giusto sei Tu, o Signore, e retti sono i tuoi giudizi.
-Giustizia e lealtà somma mostri in tutte le tue disposizioni.
-La tua giustizia è giustizia eterna e la tua legge è costante.
-Dammi intelligenza dei tuoi precetti e avrò vita. Insegnami,
-o Signore, la pratica dei tuoi statuti e li seguirò puntualmente. Guidami per il cammino dei tuoi comandamenti
-perchè mi piace tanto; piega il mio cuore ai tuoi avvertimenti
-e non all'interesse. Insegnami ad amare la giustizia e ad aborrire l'iniquità affinchè possa godere le tue benedizioni in eterno» (cfr. Sal. 118 e 44).
+«O Signore, insegnami ad amare il prossimo con tutta l'ampiezza del mio cuore, non contentandomi di amarlo come me stesso, ma più di me stesso per adempiere il tuo precetto: 'Amatevi l'un l'altro come io ho amato voi'. Come Tu, o Signore, ci hai sempre preferiti a te medesimo e lo fai ancora tutte le volte che ti riceviamo nel SS.mo Sacramento facendoti nostro cibo, così vuoi che abbiamo l'un l'altro un amore sì grande che preferiamo sempre il nostro prossimo a noi stessi; e come Tu hai fatto tutto quel che potevi per noi, eccetto il peccare — poiché non lo potevi né dovevi fare — così vuoi che facciamo tutto quel che possiamo gli uni per gli altri, eccetto il peccato. Fa', dunque, o Signore, che, esclusa ogni tua offesa, il mio amore per il prossimo sia così fermo, cordiale e solido che io non ricusi mai di fare o di sopportare qualsiasi cosa per lui. Insegnami ad amarlo così fatti, procurandogli tutti i bene che posso per l'anima come per il corpo, pregando per lui, servendolo cordialmente quando l'occasione si presenta; poiché se il mio amore consistesse solo in belle parole sarebbe ben poca cosa e non sarebbe già un amare il prossimo come Tu ci hai amato. Ma per giungere alla perfezione dell'amore non basta ch'io m'impieghi per il mio prossimo, devo anche lasciarmi impiegare secondo il suo volere e nel modo che a lui piacerà senza fare alcuna resistenza; proprio in ciò acquisterò maggior merito, consistendo in questo il grado supremo del rinnegamento di me stesso» (cfr. S. Francesco di Sales).

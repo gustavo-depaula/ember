@@ -1,100 +1,19 @@
-## 261 — LA CARITÀ SI ACCOMODA A TUTTO
+## XXXI — CARITÀ E UMILTÀ
 
-### Presenza di Dio
+*X Domenica dopo Pentecoste*
 
-— O Dio, che ti adatti alla mia miseria fino a farti uomo come me, insegnami ad adattarmi ai miei fratelli.
+**Presenza di Dio.** — *Dammi, o Signore, umiltà con amore: l'umiltà custodisca in me la carità e questa cresca secondo la misura da te voluta.*
 
 ### Meditazione
 
-1. — La carità non è rigida nelle sue posizioni, non attende e tanto meno pretende che gli altri si adattino a lei,
-ma è sempre pronta ad adattarsi al prossimo. Dio si è adattato a noi fino a farsi uomo e noi non sappiamo scendere
-dal piccolo piedestallo della nostra superbia per adattarci
-alla mentalità, ai gusti, ai bisogni dei nostri fratelli. E ci
-scusiamo: «sbagliano, sono rozzi, ingrati, non comprendono
-certe esigenze, certe delicatezze... » e c'inganniamo! Come siamo piccini nelle nostre sciocche esigenze! Guardiamo a lui, di Figlio di Dio, al Verbo eterno che non ha disdegnato di mettersi al nostro livello fino a rivestire nostra carne mortale, a vivere la nostra vita umana, a convivere in
-mezzo a noi. Nella sua vita terrena ha scelto per compagni non
-persone intellettuali, di educazione raffinata, ma pescatori ignoranti dalla mentalità rozza, dai gusti semplici che ben poco
-conoscevano le finezze del pensiero e del galateo, ed ha vissuto con loro, adattandosi a loro con tutta naturalezza, senza
-alcuna distinzione fuorchè quella di una carità senza limiti.
+**1** — Oggi, attraverso i testi della Messa, la liturgia ci presenta, come in uno schizzo, le linee fondamentali dell'anima cristiana. Anzitutto — e lo dice S. Paolo nell'Epistola — ci mostra quest'anima vivificata dallo Spirito Santo il quale diffonde in lei i suoi doni. L'Apostolo si ferma a parlare dei «carismi» ossia di quelle grazie speciali, come il dono delle lingue, della scienza, dei miracoli, ecc. accordate con particolare abbondanza dallo Spirito Santo alla Chiesa primitiva. Pur essendo preziosi, questi doni sono però inferiori alla grazia ed alla carità perché soltanto la grazia e la carità possono conferire all'anima la vita soprannaturale, mentre i carismi possono accompagnarla o no, senza per questo aumentarne o diminuirne l'intensità. S. Tommaso fa osservare che, a Dio, i carismi santificano l'anima e l'uniscono a lui; i carismi, invece, sono ordinati all'utilità del prossimo e possono sussistere anche in chi non possiede la grazia. Del resto, anche S. Paolo — e proprio nella stessa lettera di cui oggi leggiamo un brano nella Messa — dopo aver enumerato tutti questi doni straordinari, conclude con la famosa affermazione: tutto ciò è nulla senza la carità. È sempre questa la virtù «centro», la caratteristica fondamentale dell'anima cristiana ed è pure questo il più grande dono che lo Spirito Santo possa effondere in noi. Se il divino Paraclito non vivificasse le anime nostre con la carità e con la grazia, che le è inseparabilmente congiunta, nessuno, neppure l'uomo più virtuoso, potrebbe compire il minimo atto di valore soprannaturale: «nessuno può dire: 'Signore Gesù' se non per lo Spirito Santo» afferma l'Apostolo. Come l'albero che non ha linfa vitale non può dare frutti, così l'anima che non è vivificata dallo Spirito Santo non può fare azioni di valore soprannaturale. Ecco, ancora una volta, il grande pregio della grazia e della carità; vale più il minimo grado di esse che tutti i doni straordinari i quali, se possono disporre le anime al bene, non hanno il potere né d'infondere, né di aumentare in noi la vita divina.
 
-Evidentemente non possiamo adattarci al prossimo, accondiscendere ai suoi desideri quando, anche per poco, ne
-va di mezzo l'onore di Dio e l'osservanza della sua legge:
-in questi casi la condiscendenza sarebbe debolezza colpevole.
-Ma vi sono molti altri casi in cui si tratta solo di rinunciare
-all'affermazione della nostra personalità, del nostro modo di
-vedere, dei nostri gusti per far luogo alla mentalità ed ai
+**2** — Il Vangelo ci presenta un'altra caratteristica fondamentale dell'anima cristiana: l'umiltà. È vero, la carità è superiore perché ci comunica la vita divina, tuttavia l'umiltà ha un'importanza grandissima perché è la virtù che sbarra il terreno, che fa il posto alla grazia ed alla carità. È questo l'insegnamento che riceviamo oggi da Gesù in una forma molto viva e concreta attraverso la parabola del fariseo e del pubblicano. Il Vangelo ci dice espressamente che Gesù parlava per quelli che «dentro di sè confidano d'esser giusti e disprezzano gli altri»; il fariseo ne è il prototipo e il rappresentante. Eccolo, è sicuro della sua giustizia, è gonfio dei suoi meriti: io non rubo, non sono adultero, io digiuno e pago le decime. Che cosa si può pretendere di più? Ma quest'uomo superbo non si accorge che gli manca il meglio, ossia gli manca la carità, tanto è vero che si scaglia contro gli altri, li accusa, li condanna: «io non sono come gli altri uomini rapaci, ingiusti, adulteri, e nemmeno come quel pubblicano». Non avendo la carità verso il prossimo, non può avere neppure la carità verso Dio, dilatti, entrato nel tempio per pregare, non è stato capace di fare il più piccolo atto di amore, di adorazione e, invece di lodare Dio per i suoi benefici, non ha fatto altro che lodare se stesso. In realtà, quest'uomo non sa pregare perché non ha la carità e non può possedere la carità perché è pieno di superbia: «Dio resiste ai superbi e dà la grazia agli umili» *(Giac.* 4, 6), perciò il fariseo torna a casa condannato, non tanto dal Signore che ama sempre usar misericordia, quanto dalla sua superbia che impedisce in lui l'opera della misericordia.
 
-usti altrui; allora questa condiscendenza è virtù soda e, lungi
-all'essere debolezza, è una bella prova di forza morale, di
-quella forza che sa vincere e rinnegare l'io per amore di Dio,
-
-
-Non è possibile carità duratura, concordia perfetta senza questa pieghevolezza che ci rende capaci di adattarci agli altri.
-Solo quando saremo ben decisi a passar sopra a tutte le dif-
-
-
-ferenze di temperamento, di mentalità, di educazione, di gu”
-
-
-sti ed a cedere i nostri punti di vista per accomodarci a quelli
-del prossimo, la partita della carità fraterna potrà dirsi vinta.
-
-
-2. — Nel Vangelo troviamo bellissime lezioni di condiscendenza; «A chi vuol chiamarti in giudizio per toglierti
-la tunica, cedigli anche il mantello; e con chi ti vuole obbligare a fare un miglio con lui, fanne due. Dà a chi ti domanda e non voltar le spalle a chi ti chiede un prestito >
-(Mt. 5, 40-42), Il Maestro divino ci spinge decisamente alla
-longanimità, alla dolcezza, alla rinuncia dei nostri diritti, affinchè ci mettiamo umilmente a servizio del prossimo, ci sacrifichiamo con generosità per lui, per il suo vantaggio, per
-la sua gioia. Anzichè altercare o discutere per resistere
-al fratello importuno ed averla vinta, Gesù c'insegna a cedere sempre, anche di fronte a certe richieste indiscrete.
-S. Teresa del B. G. così commenta questo brano evangelico:
-« Cedere il mantello equivale, mi sembra, a rinunziare ai
-propri estremi diritti, considerarsi come serva e schiava
-degli altri. Ma non basta che dia a chi mi chiede, devo prevenire i desideri e mostrarmi molto obbligata ed onorata di
-rendere servizio al prossimo; se mi vien tolta una cosa a mio
-uso, devo mostrarmi felicissima di esserne liberata » (St. 9).
-Tuttavia la Santa non si fa illusioni: sa molto bene che,
-soprattutto quando un servizio, un piacere, un oggetto ci
-viene chiesto con mal garbo, con tono di pretesa e di comando, l'amor proprio è subito pronto a risentirsi e a protestare:
-«l'anima che ancora non è stabilita nella carità perfetta,
-subito si rivolta trovando allora mille ragioni per rifiutare ciò
-che le viene richiesto» (ivi). Ma chi vuol giungere alla
-carità piena non cede a queste ribellioni interne e, facendo
-Violenza a se stesso, si mette gentilmente a disposizione del
-prossimo.
-
-Se di fronte alle richieste altrui rispondiamo con frequenti rifiuti, vuol dire che la nostra carità è ancora molto
-fiacca, nè dobbiamo essere facili a rifugiarci nelle scuse:
-«non ho tempo...; sono pretese ingiuste...; deve imparare a fare da sè» e simili. E' però vero che in certi casi, o per non venir meno al proprio dovere, o per impossibilità reale, si è co
-stretti a rispondere con un diniego; ma anche in questi casi
-la carità deve farci evitare tutti quei modi scortesi che mortificano ed umiliano. « Quando la carità ha messo profonde radici in un'anima, si manifesta anche all’esterno e vi è
-un modo così cortese di negare quello che non si può dare,
-che il rifiuto fa piacere quanto i dono medesimo » (ivi).
+Nel pubblicano tutt'altro atteggiamento: è un pover'uomo, sa di aver peccato, è conscio della sua miseria morale, neppure lui ha la carità, perché il peccato è ostacolo alla carità, però è umile, molto umile e confida nella misericordia di Dio: «O Dio, abbi pietà di me, che son peccatore». È Dio, che ama chinarsi sugli umili, all'istante lo giustifica: la sua umiltà ha attirato su di lui la grazia dell'Altissimo. S. Agostino ha detto: «Quanto più piace a Dio l'umiltà nelle cose mal fatte, che la superbia in quelle bene fatte!». No, non sono le nostre virtù, le nostre buone azioni che ci giustificano, ma la grazia e la carità che lo Spirito Santo diffonde nei nostri cuori e diffonde, sì, «secondo che vuole», ma sempre in proporzione della nostra umiltà.
 
 ### Colloquio
 
-«Non posso, Dio mio, non amare le tue creature, perchè
-Tu stesso me l'hai comandato. Tu sei amore e per amore
-sei stato mosso a creare l'uomo, affinchè anch'egli partecipasse del tuo amore; noi tutti, dunque, siamo stati creati
+«O buon Gesù, quante volte, dopo lacrime amare, dopo singulti e gemiti inenarrabili, non hai guarito le piaghe della mia coscienza con l'unzione della tua misericordia e con l'olio della tua letizia? Quante volte, dopo aver cominciato senza speranza la mia preghiera, ho ritrovato la gioia nella speranza del perdono? Coloro che hanno provato questi sentimenti sanno che Tu sei un vero medico che guarisce i cuori contriti e ne medica le piaghe con sollecitudine. Coloro, poi, che non ne hanno ancor fatto l'esperienza, credano almeno alla tua parola: 'Lo spirito del Signore mi ha riempito della sua unzione e mi ha inviato ad annunciare ai mansueti la buona novella, a guarire quelli che hanno il cuore contrito' *(Is.* 51, 1). Se rimangono ancora in dubbio, si avvicinino a te e lo impareranno da se stessi quel che vogliono dire queste tue parole: 'Voglio la misericordia e non il sacrificio' *(Mt.* 9, 13).
 
-d'amore, d'amore e con amore, affinchè godiamo di te, o
-Dio, che sei amore. Come farò dunque a non amare?
-
-« Dimmi, ti prego, o mio Cristo, in che modo devo amare questo mio prossimo. Tu mi mostri un termine assai alto, ossia m'insegni ad amarlo come Tu stesso l'hai amato.
-Per le creature umane Tu hai lasciato, almeno in apparenza, il seno del Padre; hai lasciato, o meglio, hai nascosto la
-tua potenza, sapienza e purezza infinita per poter conversare con l’impurità delle creature. Ed io pure per i miei prossimi devo lasciare me stessa e l’amore di tutte le cose create
-ed essere pronta, quando fosse necessario per la loro salute,
-a dare il mio sangue.
-
-«O carità, quanto sei bella e grata a Dio! Tu fai come
-il dolce pellicano, che dà il proprio sangue non solo per i
-figlioli, ma ancora per i nemici, E veramente colui che ti
-possiede non reputa nessuno per nemico, ma tiene tutti per
-carissimi amici e darebbe anche la vita per l’anima del prossimo, quando ve ne fosse il bisogno.
-
-«O amore del prossimo da tanti poco conosciuto! Tu,
-o Dio, che sei scrutatore dei cuori, conosci l'amore e l'odio
-e noi invece diciamo di amare il prossimo quando l’offendiamo. Oh, quanto sono differenti i tuoi giudizi dai nostri! Tu
-m'insegni che per amore del prossimo devo saper rinunciare
-alle mie comodità, devo inclinare le orecchie ai piccoli, ai
-poveri, ai bisognosi nell'anima e nel corpo, devo rispondere con dolcezza e con mansuetudine » (S. M. Maddalena
-de’ Pazzi).
+«O Signore, Tu dici: 'Venite a me voi tutti che siete affaticati ed oppressi ed io vi consolerò' *(Mt.* 11, 28). Ma per quale via dobbiamo venire a te? Per quella dell'umiltà, e solo così Tu ci consolerai. Ma qual'è la consolazione che prometti agli umili? È la carità. Infatti, l'anima otterrà la carità in proporzione della sua umiltà. Oh, quale nutrimento dolce e soave è la carità! La carità sostiene quelli che sono affaticati, fortifica i deboli, consola quelli che sono nella tristezza. O Signore, dammi questa carità che rende soave il tuo giogo e leggero il tuo peso» (cfr. S. Bernardo).

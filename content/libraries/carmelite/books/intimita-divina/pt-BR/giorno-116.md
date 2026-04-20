@@ -1,116 +1,141 @@
-## 116 — NÃO DESCULPAR-SE
+## 114 — ESCONDER-SE COM CRISTO EM DEUS
 
 ### Presença de Deus
 
-— Ó Jesus, que quiseste calar diante de quem te condenava à morte, ensina-me a arte de não me desculpar.
-
 ### Meditação
 
-1 — Diante de qualquer defeito, culpa ou erro pessoal,
-nosso eu corre instintivamente em busca de desculpas:
-é a tática do orgulho, que não quer reconhecer os próprios
-erros e se empenha em cobri-los com um manto mais ou menos
-falso, encontrando sempre um modo de atribuí-los ora a outras
-pessoas, ora às circunstâncias. Tal foi a conduta de Adão
-e de Eva depois do pecado; tal é o comportamento instintivo
-de todo homem assim que cai em alguma falta.
-Mas isso traz grande dano à alma, pois é impossível
-corrigir defeitos que não se querem reconhecer; é preciso,
-portanto, ter coragem de desmantelar as engenhosas,
-mas inconsistentes construções do amor-próprio,
-para pôr a descoberto os próprios defeitos e encará-los,
-como são, sem atribuí-los a outros senão a nós mesmos.
-"Quando cometemos uma falta - dizia S. Teresa do Menino Jesus - não devemos jamais atribuí-la a uma
-causa física, como doença ou estação do ano, ou outras
-circunstâncias, mas à nossa imperfeição. Não são as ocasiões que tornam o homem frágil, mas elas lhe mostram o que
-ele é" (CR.).
+1 — Quando se fala da vida escondida de Jesus, não se
+deve entender apenas o seu ocultar-se aos olhos dos homens,
+escondendo-lhes a sua divindade e fugindo da sua glória;
+é preciso, além dessas relações externas com as criaturas,
+penetrar no segredo do seu Coração, onde — oculta a todo
+olhar humano — se desenrola outra vida escondida, muito
+mais sublime. É a sua vida interior, vida de íntimas
+relações com a Trindade. A santíssima Alma de Jesus, unida
+hipostaticamente ao Verbo, goza incessantemente da visão
+beatífica: vê o Verbo como sujeito de toda a sua atividade,
+vê o Pai, fonte do seu ser, vê o Espírito Santo que nela
+habita como "em seu templo preferido" e que, revestindo-a
+com a chama do seu amor, a arrasta para Deus, no pleno
+cumprimento de sua vontade. Exteriormente Jesus vive com
+os homens, trata com eles como um deles, mas a sua vida
+verdadeira, vida de Filho de Deus, vive-a — escondida a todo
+olhar humano — com a Trindade, na Trindade. Eis aonde mira,
+como meta última, a imitação da vida escondida de Jesus:
+participar da sua vida interior, isto é, esconder-se "com
+Cristo em Deus", para penetrar com ele no santuário da
+sacrossanta Trindade. Era isso que exprimia S. Teresa
+Margarida no seu ardente desejo de "emular pela fé, quanto
+é possível à criatura, a vida e as ações internas e
+escondidas do intelecto e da vontade, isto é, os sublimes
+conhecimentos e afetos da santíssima Humanidade de Jesus
+Cristo, unida hipostaticamente ao Verbo" (Sp. p. 374).
 
-Desculpar as próprias faltas pode satisfazer o orgulho,
-mas na realidade é cegar-se voluntariamente, é tornar-se incapaz de perceber a verdade da própria situação e, assim,
-a pobre alma não só não pode avançar, mas fica condenada a tatear no escuro, sem possibilidade de saída.
-Ao contrário, reconhecer sinceramente as próprias culpas é já
-dar o primeiro passo para corrigi-las. Não basta, porém,
-não se desculpar interiormente; é preciso também não se
-desculpar diante dos outros, isto é, depois de reconhecer diante de
-Deus nossas faltas, é preciso reconhecê-las também diante dos
-homens, para aceitar humildemente a correção e reparar o mau exemplo que se possa ter
-dado. Aliás, valeria bem pouco aceitar em silêncio uma acusação,
-uma repreensão, quando a alma não renunciasse - ainda que à custa de lutas e esforços - a desculpar-se no interior.
+A prática da vida escondida tem, portanto, dois aspectos. O
+primeiro, negativo e predominantemente exterior, consiste em
+ocultar-se aos olhos alheios e também aos próprios: é morrer
+para a glória e para as honras terrenas; o segundo, positivo
+e todo interior, consiste em concentrar-se em Deus, numa vida
+de íntimas relações com ele. O primeiro aspecto é a condição
+e a medida do segundo: quanto mais a alma souber esconder-se
+das criaturas — e também de si mesma — tanto mais será capaz
+de viver "com Cristo em Deus", segundo a bela expressão de
+S. Paulo: "estais mortos — isto é, mortos para o mundo e
+suas vaidades — e vossa vida está escondida com Cristo em
+Deus" (Cl. 3, 3).
 
 
-2 — Muitas vezes te ressentes diante das correções,
-porque não as achas totalmente proporcionadas aos teus defeitos,
-às tuas faltas. E não pensas que isso é consequência
-inevitável da limitação humana? Só Deus, que lê o
-coração, pode julgar com perfeita justiça nossas ações; os homens veem
-apenas o exterior; por isso, mesmo quando têm o dever
-de nos corrigir, nem sempre acertam exatamente o alvo,
-mas podem errar por excesso ou por defeito. Se queres aceitar
-só as observações que se ajustam perfeitamente aos teus defeitos,
-muitas vezes te verás exposto a desculpar-te,
-a protestar, a dizer tuas razões; e, se não puderes fazê-lo exteriormente,
-farás ao menos no interior, perdendo assim todo o proveito
-que poderias tirar das correções se as recebesses
-com humildade de coração.
+2 — "Meu Deus... agora para sempre entendo encerrar-me
+no vosso amabilíssimo Coração como num deserto,
+para aí fazer em Vós, convosco, por Vós, esta vida
+escondida de amor e de sacrifício". Assim S. Teresa Margarida
+concretizava o seu ideal de vida escondida com Cristo.
 
-S. Teresa de Jesus convida as almas que querem chegar
-à união com Deus a uma grande generosidade neste ponto,
-isto é, a aceitar sem desculpar-se qualquer correção ou repreensão, ainda que não totalmente merecida e
-ainda que completamente injusta. "Calar-se quando se é
-acusado injustamente - diz a Santa - é um grande
-ato de humildade, e imita-se mais de perto nosso Senhor, que
-tomou sobre si todos os nossos pecados. O verdadeiro humilde deve
-desejar ser desprezado, perseguido e condenado
-sem motivo, até em coisas graves. Se quer imitar o
-Senhor, em que o poderá fazer melhor, senão nisto?
-Não precisa de forças corporais, nem de ajuda de ninguém,
-senão de Deus." E depois acrescenta com muita
-fineza: "Tudo considerado, nunca somos culpados
-sem razão, sendo sempre cheios de defeitos... Se somos
-inocentes do que nos atribuem, nunca somos tão isentos
-de culpa como o bom Jesus" (Camz. 15, 1 e 4).
 
-"Jesus calava-se" (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
-que aspira à união íntima com Jesus deve saber unir-se
-aos seus silêncios diante das acusações, mesmo das mais injustas.
-E, quando motivos particulares - como evitar escândalo
-ou desgosto ao próximo - exigem que se desculpe,
-fá-lo-á só o estritamente necessário, com muita
-medida e ponderação, para não perder a graça da humilhação.
+"A alma que por longo tempo se exercitou no aspecto exterior e
+negativo do escondimento, isto é, que com constante fidelidade
+soube ocultar-se aos olhos das criaturas, está livre e
+pronta para esconder-se com Cristo em Deus.
+
+Já não dissipa suas energias em busca de estima
+ou satisfações humanas; desse ponto de vista as
+criaturas tornaram-se um nada para ela, e pode bem dizer
+que "as coisas criadas, nem suas nem alheias, já não lhe dão
+o mínimo incômodo e embaraço, como se de todo não existissem"
+(T.M. Sp. p. 373), e por isso alcançou aquela
+soberana liberdade de espírito que lhe permite concentrar-se
+totalmente em Deus. Então sua conduta nada apresenta de
+extraordinário; antes, o próprio cuidado de esconder-se aos
+olhos alheios muitas vezes a faz passar despercebida,
+enquanto os mais a julgam pessoa de pouca conta;
+mas, no segredo do seu coração, desenrola-se uma riquíssima
+vida interior conhecida só por Deus. Unida a Jesus, nele,
+com ele, por ele, participa de sua vida trinitária. Isso
+significa alcançar a plenitude, o fim da vida cristã, porque
+a graça nos foi dada justamente para nos tornar participantes
+da natureza e, portanto, da vida divina, da vida de
+Deus-Trindade. Precisamente para esse fim o Verbo se encarnou;
+Jesus, morrendo na cruz, mereceu-nos a graça,
+enxertou-nos em si, para reconduzir-nos com ele ao seio da
+Trindade, do qual pelo pecado nos havíamos afastado. Assim
+nós, não por nosso mérito, não por nossa capacidade, mas só
+por estarmos enxertados em Cristo podemos, com ele e por ele
+— nosso Mediador, nossa ponte, nosso caminho — penetrar
+na vida íntima de Deus, na vida trinitária. A fé e a
+caridade, que Jesus nos mereceu juntamente com a graça,
+tornam-nos capazes de entrar em relação com as três Pessoas
+divinas, de modo que podemos realmente viver "escondidos com
+Cristo em Deus".
+
+A vida escondida em Deus é o grande atrativo das
+almas interiores e, para chegar a ela, elas se sentem bem
+felizes em esconder-se aos próprios olhos e aos alheios,
+fugindo de toda sombra de esplendor terreno.
+Bendito escondimento que introduz a alma na "vita abscondita cum Christo in
+Deo"!
 
 ### Colóquio
 
-Isto te peço, ó Senhor: que a tua luz esteja em mim
-tão abundante que dissipe, como névoa ao sol, todas
-essas desculpas com que meu amor-próprio procura cobrir
-minhas faltas, meus defeitos. Isto te peço: que
-eu saiba bem reconhecer todos os meus erros e saiba julgá-los como Tu mesmo os julgas. Freia meu coração,
-para que não escorregue em busca de raciocínios maliciosos
-para obter desculpas para minhas faltas. E, se por minha fraqueza
-me é tão fácil cair, faze que ao menos eu saiba confessá-lo
-humildemente diante de ti e diante dos homens. Liberta
-minha consciência da máscara das desculpas vãs e piedosas
-que me impedem de ver-me como Tu me vês, como
-Tu me conheces, como na realidade sou diante de ti. E depois,
-ó Senhor, dá-me a humildade necessária para aceitar de bom
-coração as correções alheias. Apaga com tua doçura
-minha suscetibilidade tão fácil de acender-se e ressentir-se, e
-concede-me a graça de imitar tua mansidão e humildade diante dos tribunais.
+"Sim, ó Jesus, a nada mais quero atender senão a tornar-me
+uma tua cópia perfeita e, já que tua vida não foi senão
+vida escondida de humilhação, de amor,
+de sacrifício, assim doravante deve ser a minha; por isso,
+agora para sempre entendo encerrar-me no teu amabilíssimo
 
-"Ó meu Senhor, quando recordo teus múltiplos
-tormentos que por nenhum motivo merecias, não sei o que dizer
-de mim, nem onde estou quando pretendo desculpar-me.
-Tu já sabes, meu Bem, que, se há em mim alguma coisa
-boa, não me veio senão de ti. E deveria agora desejar
-que de criatura tão má como eu não se dissesse
-mal algum, quando tanto se disse de ti, que és o Bem
-acima de todo bem? Não se pode suportar! E bem quereria
-que Tu também não o suportasses e que nada permitisses
-em tua serva que pudesse desagradar aos teus olhares. Sou
-cega, Senhor, e contento-me com muito pouco. Dá-me
-luz e faze que eu deseje verdadeiramente ser desprezada por
-todos, pois também eu te desprezei, a ti que me amaste
-com tanta fidelidade!
 
-"Que é isto, meu Deus? Que nos importa ser acusados até por todas as criaturas se Tu não nos acusas?"
-(T.G. Com. 15, 5 e 6).
+Coração como num deserto, para aí fazer em ti, contigo,
+por ti, esta vida escondida de amor e de sacrifício... E
+
+visto que me inspiras ao coração fazer-me, quanto possível,
+em tudo semelhante a ti, a isso tenderão meus cuidados,
+e particularmente te imitarei naquelas virtudes que tanto agradam ao teu amabilíssimo Coração: humildade... e pureza de intenção,
+tanto no interior como no exterior, agindo sempre com espírito
+de simplicidade" (T.M. Sp. p. 324).
+
+Ó Jesus, digna-te abrir também para mim o teu dulcíssimo
+Coração e permite-me refugiar-me nele para viver
+contigo escondido em Deus. A vida exterior, a vida de
+aparência e de glória terrena já não tem para mim qualquer
+atrativo: não é toda vaidade, tudo fugaz suceder-se de
+circunstâncias que logo não serão mais? A única
+vida que me atrai e que permanecerá para sempre,
+acima de toda contingência terrena, é a de íntima união com
+Deus. E este é o grande tesouro que Tu me ofereces pelos
+méritos da tua Paixão. Contemplo-te na cruz, ó Jesus,
+com o peito aberto pela lança como que para indicar-me que
+tua morte me abriu as portas do teu Coração,
+para admitir-me no santuário da tua vida interior. Tua
+morte, de fato, enxertou em ti minha pobre vida humana
+para torná-la participante de tua vida divina, vida de íntimas
+relações com a Trindade. Esta, sim, é vida verdadeira,
+vida duradoura, vida eterna! E a ela aspiro,
+não por meus méritos, mas pelos méritos da tua Paixão. Ó Jesus,
+
+
+faze que eu procure minha alegria, meu bem, somente nesta
+
+
+participação da tua vida interior, e que nela eu ponha toda a minha glória.
+
+E toda a minha glória esteja no íntimo, no segredo da
+minha vida escondida contigo em Deus.

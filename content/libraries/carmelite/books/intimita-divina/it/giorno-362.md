@@ -1,86 +1,23 @@
-## 362 — LA MADONNA DEL ROSARIO
-*7 ottobre*
+## 40 — AMORE ESTIMATIVO
 
-### Presenza di Dio
-
-Il tuo Rosario benedetto, o Vergine santa, mi sia arma di difesa e scuola di virtù.
+**Presenza di Dio.** — *Dio mio, Bene sommo ed infinito, fa' che nulla stimi più di te e nulla preferisca a te.*
 
 ### Meditazione
 
-noscenza per le grandi vittorie riportate dal popolo cristiano in virtù del Rosario di Maria e, nello stesso tem- |
-po, è la più bella e autorevole testimonianza del valore
-di questa preghiera, La liturgia del giorno è un com- i
-mento e un'amplificazione del Rosario: i tre inni dell'ufficiatura, le antifone del Mattutino e delle Lodi ne scorrono i vari misteri, le lezioni ne cantano le glorie e i
-continui riferimenti alla Vergine, che «germoglia tra i
-fiori, che è circondata dalle rose e dai gigli delle valli »,
-sono una chiara allusione alle mistiche corone di rose che |
-i devoti di Maria intrecciano ai suoi piedi con la recita
+**1** — «Sai tu cosa vuol dire amarmi per davvero? — diceva il Signore a S. Teresa di Gesù — Persuadersi che è menzogna tutto quello che a me non piace» *(Vi.* 40, 1). Benché senza suono di parole, lo Spirito Santo impartisce questa lezione ad ogni anima che si lascia da lui plasmare e purificare; quanto più Egli la illumina sulla verità della sua miseria e della miseria di tutte le creature, tanto più l'anima ne resta svegliata e ritrae da esse ogni speranza, giungendo davvero a stimare Dio al di sopra di tutto, preferendolo ad ogni altro. L'atteggiamento di quest'anima diventa così molto simile a quello di S. Paolo che esclamava: «Credo che tutte le cose siano una perdita di fronte a... Cristo Gesù Signor mio, per amore del quale mi sono privato di tutto e tutto tengo in conto di spazzatura, allo scopo di guadagnarmi Cristo» *(Fil.* 3, 8).
 
-del Rosario. La festa odierna ci dice che onorare il Rosario è onorare Maria, poichè esso non è altro che la me- |
-ditazione della vita della Madonna, accompagnata dalla
-devota ripetizione dell'Ave. Proprio sotto tale aspetto la
-Chiesa loda questa pratica e la raccomanda ai fedeli con
-tanta insistenza; «O Dio — invoca nell'Oremzs del giorno — concedici che, meditando questi misteri col santissimo Rosario della beata Vergine Maria, imitiamo gli
-esempi che contengono e conseguiamo i premi che promettono ». Il Rosario ben recitato è preghiera e scuola
+L'amore estimativo che lo Spirito Santo infonde nell'anima attraverso le tenebre purificatrici è così forte che essa è disposta a compiere qualsiasi sacrificio, ad affrontare qualsiasi ostacolo, a subire qualsiasi umiliazione e sofferenza pur di conquistare il suo Dio. «Invero — dice S. Giovanni della Croce — è tanto grande l'amore estimativo che gli porta, benché all'oscuro e senza sentirlo, che non solo sopporta lieta i suoi patimenti, ma ben volentieri darebbe mille volte la vita per compiacerlo» *(N. II,* 13, 5). Notiamo che l'anima non sente e non gode il suo amore; esso non è accompagnato da dolcezza e soavità, tuttavia è un amore così reale che la conduce effettivamente a compiere anche le cose più difficili «pur di andare in contro al suo Amato» *(ivi).* Notiamo pure che non si tratta di velleità, di desideri inoperosi che subito crollano di fronte ai casi concreti di sacrificio, ma si tratta invece di una decisione così forte della volontà che nulla vale a smuovere. Quando quest'anima ha capito che per unirsi a Dio è necessario decidersi ad un determinato passo, non bada a nulla, né alle ripugnanze della natura, né alle voci dell'amor proprio o dell'egoismo, né a quello che gli altri potranno dire o pensare di lei, ma si slancia a capofitto, con grande ardire.
 
-insieme; i suoi misteri ci dicono che nella vita della Madonna tutto è giudicato in rapporto a Dio: le sue gioie
-e ji suoi contenti sono di ciò che dà gusto a Dio, mentre i suoi dolori coincidono, per così dire, con i dolori
-stessi di Dio il quale, essendosi fatto uomo, ha voluto
-soffrire per i peccati dell'umanità. L'unica gioia di Maria
-è Gesù: esserne la Madre, stringerlo fra le braccia, presentarlo all'adorazione del mondo, contemplarlo nella gloria della Risurrezione, unirsi a lui in cielo. L'unico dolore di Maria è la Passione di Gesù: vederlo tradito,
-flagellato, coronato di spine, crocifisso per i nostri peccati. Ecco un primo frutto che dovremmo ricavare dalla
-recita del Rosario: giudicare gli avvenimenti della nostra
-vita in rapporto a Dio; godere di ciò che a lui piace, di
-ciò che ci unisce a lui, soffrire per il peccato che ci allontana da lui ed è causa della Passione e morte di Gesù.
+**2** — Altro effetto del grande amore estimativo per Iddio è «che il più grave tra i patimenti [che l'anima possa soffrire] consiste nel dubbio tormentoso di aver perduto Dio e di esserne stata abbandonata» *(G.C. N. II,* 13, 5). Come non si preoccupa di nessun acquisto che non sia l'acquisto di Dio, così l'anima non si preoccupa di nessuna perdita che non sia la perdita di lui. Tutto le si può togliere; la salute, le ricchezze, gli onori, la stima, la fiducia, l'affetto delle creature più care e queste stesse creature, ma giammai sopporterebbe che le fosse tolto Dio o le venisse impedito di amarlo. Così pensavano ed agivano i santi. Così pensava S. Teresa Margherita del Cuore di Gesù, la quale nel suo immenso desiderio di amare Dio protestava di essere disposta a soffrire anche le pene dell'inferno pur di ottenere tale grazia; e a chi le domandava come avrebbe potuto sopportare tormenti tanto indicibili, rispondeva senza esitare: «Credo che l'amore ce li renderebbe tollerabili e forse anche dolci, perché il solo amore fa superare tutto» *(Sp.* p. 347). Così pensava S. Teresa di Gesù che ha lasciato alle sue figlie il bellissimo ricordo: «Il tuo desiderio sia di vedere Iddio; il tuo timore, di perderlo; il tuo dolore, di non possederlo; la tua gioia, in quello che ti può condurre a lui» *(A.* 69). Questa è la caratteristica del vero amore: creare nell'anima un'unica preoccupazione, un unico timore, un unico desiderio, un'unica gioia che si accentri in Dio solo.
 
-recita quotidiana del Rosario è la penetrazione dei misteri
-di Cristo; per mezzo di Maria e con Maria, che ce ne
-schiude la porta, il Rosario ci aiuta a penetrare le ineffabili grandezze dell'Incarnazione, della Passione e della
-gloria di Gesù. Chi più della Madonna ha compreso e
-vissuto questi misteri? Chi più della Madonna può darcene l'intelligenza? Se durante la recita, del Rosario sapessimo davvero metterci in contatto spirituale con Maria per accompagnarla nelle varie tappe della sua vita,
-potremmo cogliere qualche cosa dei sentimenti del suo
-cuore dinanzi ai grandi misteri di cui fu testimone, e
-spesso anche protagonista, e ciò servirebbe mirabilmente
-a nutrire il nostro spirito. In tal modo il nostro Rosario
-si trasformerebbe in un quarto d'ora di meditazione, direi
-quasi di contemplazione, sotto la guida della Madonna. È
-appunto ciò che la Madonna vuole e non già certi Rosari recitati a fior di labbra, mentre il pensiero divaga in
-mille direzioni! Le Ave, continuamente ripetute, devono
-esprimere l'atteggiamento dell'anima che si sforza d'inalzarsi alla Vergine, di slanciarsi verso di lei, per essere da
-lei presa ed introdotta nella comprensione dei misteri divini. « Ave Maria! » dicono le labbra, e il cuore mormora: Insegnami, o Maria, a conoscere e ad amare Gesì
-come Tu l'hai conosciuto ed amato.
+Se vuoi vedere fino a qual punto giunge il tuo amore estimativo per Iddio esamina la tua condotta e cerca di scoprire il motivo ultimo delle tue preoccupazioni, dei tuoi timori, dei tuoi desideri, delle tue gioie; se questo motivo non è Dio, ma lo sono invece le creature, i tuoi interessi e la tua soddisfazione, devi convenire umilmente che non sei ancora giunto a stimare Dio al di sopra di tutte le cose, perché metti «in una stessa bilancia Dio e quello che dista infinitamente da lui» *(G.C. S. I,* 5, 4). Scrutando più a fondo il tuo cuore vedrai che non di rado metti sullo stesso piano la tua volontà e la volontà di Dio, i tuoi gusti ed il suo beneplacito, i tuoi interessi e la sua gloria, il tuo comodo ed il suo servizio, non solo, ma mentre in teoria protesti di stimare Dio al di sopra di tutte le cose, molto spesso in pratica dai la preferenza non ai suoi voleri, ai suoi gusti, ai suoi interessi, ma ai tuoi ed appunto così cadi in tante imperfezioni.
 
-Una simile recita del Rosario richiede raccoglimento,
-richiede, come dice S. Teresa di Gesù, «che prima di
-cominciarlo, l'anima si domandi con chi sta per parlare
-e chi è colei che parla, per meglio conoscere come diportarsi » (cfr. Can. 22, 3). La Santa, con la sua fine arguzia, si burla di quelle persone «talmente attaccate al
-recitare, [che] recitano tante preghiere vocali così in fretta da far credere che si siano obbligate a recitarne un
-dato numero ogni giorno e che cerchino di soddisfare
-prestamente al loro compito » (ivi, 31, 12). Rosari recitati
-in tal modo non possono davvero alimentare la vita interiore, poco frutto recano all'anima e poca gloria danno
-alla Vergine. Recitato invece con vero spirito di devozione, il Rosario diventa un mezzo assai efficace per coltivare la pietà mariana, per addentrarsi nell'intimità di
-Maria Santissima e del suo Figlio divino.
+Persuaditi: «dov'è vero amor di Dio non entra amore di se stesso, né delle proprie cose» *(G.C. N. II,* 21, 10).
 
 ### Colloquio
 
-«O Maria, come fra gli spiriti beati non vi è alcuno
-che ami Dio più di te, così noi non abbiamo, nè possiamo avere, dopo Dio, chi ci ami più di te, Madre nostra
-amorevolissima. P se si potesse riunire l'amore di tutte
-le madri per i loro figli, di tutte le spose per i loro sposi, di tutti i santi e Ei tutti gli Si per i loro devoti,
-non si giungerebbe all'amore che Tu porti ad un'anima
-sola è quindi anche all'anima mia»,
+«Confesso a te, amabilissimo Figliolo di Dio, la colpa mia; non so con che giudizio lasciai tirare il mio cuore, dagli affetti delle creature e lo imbrattai con la conversazione profana della terra. Non la realtà, ma l'apparenza dell'amore artificiosamente dipinto m'ingannò e mi allontanò da te e dalla dolcissima legge del vero ed unico amor tuo. Ma ormai che con la luce tua scacciasti le mie tenebre, rifiuto ogni bellezza mondana ed eleggo te, Figliolo di Dio e della beatissima Vergine, per amarti con un patto di amore eterno.
 
-«O Maria, giacchè mi ami, rendimi simile a te. Tu
-hai tutto il potere di mutare i cuori; prendi dunque il
-cuore mio e mutalo. Fammi santo, fammi degno Guolti lio.
+«Senza di te, Bontà e Bellezza infinita, nessuna creatura può avere veri beni, né fuori di te l'anima mia può trovare soddisfazione alcuna, poiché Tu le desti tanta capacità e fame d'infinito che per viva forza bisogna che non voglia né cerchi altro bene fuori di te. Volgo lo sguardo alla terra, o Figlio dell'Altissimo, e tutte le cose mi sembrano piccole e imperfette in confronto a te. Se mi fossero date tutte le dignità del mondo, tutte le bellezze del creato, tutte le comodità della vita; se fosse dato in mio potere tutto quello che di grande, onorevole, ricco ed ammirabile vi è nel mondo e potessi godere tutti questi beni insieme per tutta l'eternità, non muterei giammai la mia scelta, ma con affetto ardentissimo canterei; cerco e cercherò sempre il tuo volto, o Signore.
 
-«Ti domandino gli altri quel che vogliono: salute,
-ricchezze, vantaggi terreni; io vengo a domandarti, o Madre mia, quelle cose che Tu stessa desideri da me e sono
-maggiormente grate al tuo cuore. Tu che fosti tanto umile, impetrami l'umiltà e l'amore ai disprezzi. Tu, tanto
-paziente nei dolori di questa vita, ottienimi la pazienza
-nelle contrarietà; Tu, tutta piena d'amore verso Dio, o
-tienimi il dono del santo e puro amore. Tu, tutta cari
-verso il prossimo, impetrami la carità verso tutti e particolarmente verso coloro che mi sono avversi; Tu, insomma, o Maria, che sei la più santa fra tutte le creature, fammi santo. A te non manca l'amore, nè il potere;
-tutto vuoi e tutto puoi ottenermi! Solo la mia negligenza nel ricorrere a te, solo la mia poca confidenza nel tuo
-soccorso può impedirmi di ricevere le tue grazie » (S. AL
-fonso).
+«Chiudi, o Signore, il mio cuore affinché non vi entrino affetti umani e fa' che non li veda, non senta, né gusti alcuna cosa creata, né alcuna creatura si attacchi a me con detrimento del puro amore tuo. Basti Tu, Bene infinito, per colmare tutti i miei desideri e saziare questa fame che mi crucia; nessun altro bene, neppure tutti gli altri beni riuniti insieme mi bastano; anzi, dopo averli tutti gustati, resterò morto di fame e languirò in un estremo abbandono, privo di te» (Ven. Giovanni di G. M., o.c.d.).

@@ -1,119 +1,23 @@
-## 158 — VITA DI ORAZIONE
+## XIX — ARIDITÀ E CONTEMPLAZIONE
 
-### Presenza di Dio
-
-— O Signore, che io ti cerchi non solo in qualche ora o momento del giorno, ma in tutti i momenti della mia vita.
+**Presenza di Dio.** — *O Signore, attirami a te per la via che Tu vuoi e come Tu vuoi; ti chiedo solo la grazia di saperTi seguire sempre.*
 
 ### Meditazione
 
-a L'anima che anela ad una vita d’intimità con
-Dio, non si accontenta di limitare i suoi rapporti con
-Lui al tempo della preghiera, ma cerca di prolungarli
-durante tutta la giornata. E' questo un desiderio più che
-legittimo, perchè chi ama tende a rapporti sempre più
-stabili e continui con la persona amata. Così accade per
-l'anima che ama Dio; e ciò è tanto più possibile per
-il fatto che Dio stesso è sempre con noi, è sempre presente
-e operante in noi; si tratta, è vero, di una presenza spirituale, invisibile, ma reale e non soltanto affettiva e morale,
-come può essere quella della persona amata nella mente
-e nel cuore dell'amante,
+**1** — L'aridità che proviene da Dio non ha solo il vantaggio di farci progredire nella virtù, ma anche quello di introdurci in un'orazione più elevata. S. Giovanni della Croce insegna che proprio mediante questa specie di aridità il Signore invita le anime ad una forma di orazione più semplice e più profonda che egli chiama « contemplazione iniziale »; e, affinchè si possa distinguere tale aridità da quella proveniente da altre cause, ci dà tre contrassegni. Il primo è questo: come l'anima « non sente piacere e consolazione nelle cose di Dio, così neppure in alcuna delle cose create » *(N. I,* 9, 2). Anche quando l'aridità proviene da mancanze commesse l'anima perde il gusto delle cose di Dio; allora però va in cerca di soddisfazioni umane, mentre in questo caso, pur non sentendo più la gioia di stare col Signore, non ritorna alle creature, anzi rimane ferma nella decisione di mantenere il suo cuore distaccato da esse. Il secondo segno è che, malgrado la sua aridità, l'anima « ordinariamente volge il pensiero a Dio con sollecitudine e cura penosa, temendo di non servirlo » *(N. I,* 9, 3); in altre parole, l'anima il Signore, di non amare e di tanto teme di non servire con l'ansia di chi non riesce più a trovare il suo tesoro. Rimane quindi sempre occupata di Dio, benchè in un modo negativo e penoso simile a quello di chi soffre per l'assenza di una persona amata. Quando invece l'aridità è colpevole, particolarmente poi se deriva da uno stato di tiepidezza abituale, l'anima non si preoccupa affatto di non amare Dio: essa è diventata indifferente. L'ultimo segno consiste nel « non poter più meditare nè discorrere valgendosi, come soleva, del senso dell'immaginazione, per quanto faccia da parte sua » *(N. I,* 9, 8). L'anima vorrebbe meditare, vi si applica, si sforza quanto può e tuttavia non vi riesce. Quando questo stato è continuo — giacchè se duresse solo per qualche periodo potrebbe provenire da particolari circostanze fisiche o morali — e, pur fluttuando tra giorni di maggiore o di minore intensità, tende ad invadere tutta l'anima, così da renderla abitualmente impossibile la meditazione, allora è proprio il caso di vedere in tale aridità la chiamata del Signore ad una orazione più profonda.
 
-Se Dio è sempre con noi, perchè noi non potremo
-mantenerci in continuo contatto con Lui? Questo contatto si realizza mediante il pensiero e l'affetto, ma assai
-più con questo che con quello. Infatti, non è possibile
-pensare sempre a Dio, e perchè la mente si stanca, e perchè
-molte occupazioni richiedono tutta l'applicazione dell’intelligenza e questa non può attendere, nello stesso tempo,
-a due oggetti diversi. Invece, anche mentre il pensiero è
-occupato altrove, il cuore può sempre amare, nè mai si
-stanca di tendere all'oggetto del suo amore. Siccome l'amore
-soprannaturale non consiste nel sentimento, ma in un
-intimo orientamento della volontà verso Dio, noi vediamo
-che questo orientamento è possibile anche durante il disimpegno
-simpegno di doveri che assorbono tutta l'intelligenza. Anzi,
-la volontà potrà rafforzare questo suo orientamento verso
+**2** — Immergendo l'anima nell'aridità, il Signore vuole elevarla da un modo ancora troppo umano e basso di trattare con Lui, ad un modo più soprannaturale. Nella meditazione l'anima andava a Dio mediante il lavoro della sua intelligenza, mezzo ottimo, ma pur sempre tanto limitato e inadeguato per farci conoscere Dio che, essendo infinito, supera immensamente la capacità del nostro intelletto. Ora Dio, ponendo l'anima nell'aridità, le rende impossibile la meditazione obbligandola, per così dire, ad andare a Lui per altra via.
 
-
-Dio proprio col desiderio di compiere ogni dovere per amor
-suo, per fargli piacere, per dargli gloria. S. Tommaso,
-insegna appunto che il cuore può tendere sempre a Dio
-mediante <il desiderio della carità», ossia mediante il
-desiderio di amarlo, di servirlo e di unirsi a Lui in ogni
-azione. «La preghiera non è altro che un desiderio el
-cuore; se il vostro desiderio è continuo, la vostra preghiera
-è continua. Volete dunque non cessar mai di pregare?
-Non cessate mai di desiderare » (S. Agostino).
-
-
-2. — Come l’orazione non consiste nel molto pensare,
-ma nel molto amare, così la vita di continua preghiera
-consiste assai più nell'amore che nel pensiero. Tuttavia
-una certa attività del pensiero è necessaria, sia per orientare
-il cuore verso Dio, sia per mantenerlo in tale direzione.
-
-L'anima che si applica bene alla sua orazione mentale,
-facilmente raccoglierà in essa dei buoni pensieri che potranno servirle nella giornata per mantenere il suo cuore indirizzato a Dio; sarà quindi utile che spesso, fra le sue occupazioni, cerchi di ridestare tali pensieri e di agganciarli alla
-sua vita pratica.
-
-Se, ad esempio, nell’orazione abbiamo considerato l'infinita misericordia di Dio nei nostri riguardi, cercheremo
-che questo pensiero ci segua anche in mezzo alle nostre
-occupazioni, riconoscendo ‘nelle varie circostanze in cui
-ci veniamo a trovare altrettanti tratti di questa misericordia. Infatti, tanti avvenimenti, che da un punto di vista
-umano sono spiacevoli e penosi, nascondono in realtà delle
-vere misericordie del Signore che, mediante î dolori, le
-fatiche e le noie della vita, vuol distaccarci dalle creature,
-farci esercitare la virtù e progredire verso il bene. D'altra
-parte, nei nostri contatti col prossimo cercheremo di imitare la misericordia del Signore: «Siate misericordiosi,
-‘come è misericordioso il Padre vostro » (Lc. 6, 36). Se poi
-la nostra orazione si sarà svolta nell’aridità senza lasciarci
-alcun pensiero determinato, ma solo un senso più pro-
-
-
-fondo del nostro nulla e dell’infinita grandezza di Dio,
-ne faremo tesoro cercando, durante il giorno, di compiere
-i nostri doveri in spirito di umiltà e di omaggio a Dio,
-lieti se si presenterà qualche occasione di umiliarei e di
-riconoscere la nostra pochezza anche di fronte alle creature
-e di esaltare invece le grandezze del Signore,
-
-In tal modo l’orazione non rimarrà un fatto isolato
-nella nostra giornata, ma la penetrerà tutta, conferendo
-
-
-ad ogni azione e circostanza un tono di continua pre
-ghiera.
+Secondo S. Giovanni della Croce questa via è quella della contemplazione iniziale che consiste nel cominciare a conoscere Dio non più solo con l'intelligenza, ma mediante l'esperienza dell'amore, esperienza che non comunicherà all'anima nuove idee di Dio, ma le darà il « senso » proprio delle sue grandezze. Infatti abbiamo già visto come in mezzo all'aridità nasce nell'anima quella pena tormentosa di non amare più il Signore, di non sentirlo più, pena che non esisterebbe se l'anima non avesse acquistato un senso profondo delle grandezze di Dio e di quanto Egli sia degno di essere amato. Tale senso non è frutto di ragionamenti — che ora l'anima non è più in grado di fare — ma della sua esperienza di amore; e di fatto l'anima, benchè non se ne renda conto, ama Dio assai più di prima, e la più bella prova ne è appunto quella forte pena di che, proprio attraverso questa penosa esperienza d'amore, consistente nella preoccupazione di non amare e servire il suo Dio, nasce nell'anima la conoscenza contemplativa, ossia il « senso » di Dio. Si tratta, è vero, di una conoscenza che per ora non ha nulla di confortante per l'anima, ma che tuttavia è preziosissima, perchè, assai meglio di qualsiasi meditazione, le infonde il « senso » della Divinità e quindi l'innamora sempre più di quel Dio di cui ora intuisce maggiormente l'infinita amabilità. E questi vantaggi sono così preziosi, che in vista di essi l'anima non solo deve abbracciare con coraggio l'aridità che il Signore le ha inviato, ma riconoscere in essa una delle più grandi misericordie che Egli possa farle.
 
 ### Colloquio
 
-«O Signore, fa' che Ja mia vita sia orazione continua,
-alla quale è obbligata ogni creatura ragionevole. Questa
-orazione nasce dall'amore, è fuoco e vero desiderio fondato
-nella carità che spinge l'anima a fare tutte le sue opera
-zioni per onor tuo. Desta in me, o Signore, la carità,
-affinchè io sempre ti desideri e, sempre desiderandoti, continuamente preghi. In ogni luogo, in ogni tempo, in tutto
-ciò che faccio, l'anima mia sempre preghi dinanzi a te per
-l'affetto della carità » (cfr. S. Caterina da Siena).
+« O Gesù, come è amara e pesante la vita quando ti celi al nostro amore! Che fai dunque, o mio dolce Amico? Non vedi le mie angosce e il peso che mi opprime? Dove sei? Perchè non vieni a consolarmi, giacchè non ho altro amico all'infuori di te?
 
-«Mio Dio, se io fossi inebriato d’amore per te, niente
-altro cercherei in tutte le cose, se non come servirti con
-maggior diligenza e perfezione e, rinnegando la mia volontà in tutto e per tutto, mi sforzerei, con slancio di cuore,
-di fare soltanto quello che è di tuo maggior gusto.
+« Ma, se a te piace lasciarmi in questo stato, aiutami ad accettarlo per amor tuo. Fa' che io ti ami fino a saper soffrire per te tutto quel che vorrai, tutte le pene di spirito, le aridità, le angosce, le apparenti freddezze, perchè è una grande prova di amore amarti senza sentire la dolcezza del tuo amore.
 
-«Dammi, o Signore, sì grande fervore e smisurato
-amore che io non faccia differenza tra vita e vita, stato
-e stato, persona e persona, tempo e tempo, luogo e luogo,
-ma comunque ed in qualunque ora mi adopri a compiere
-quel che a te più piace, sempre tendendo a te con l'affetto
-dell'anima. Fa' che io veda tutte le cose in te e in tutte
-le cose non veda altro che te, sempre sospiroso, sempre
-bramoso di servirti in ogni cosa; e, tutto acceso, tutto
-ardente d'amore, non consideri quel che a me è più
-facile e soave, ma soltanto ciò che a te torna più gradito.
+« Molti, o Signore, ti servono quando li consoli, ma pochi sono quelli che consentono a tenerti compagnia quando dormi sulle onde in tempesta... Chi dunque ti vorrà servire unicamente per te, senza cercare consolazioni? Oh, fa' che possa esserlo io! La tua gloria ed il tuo gusto, o Gesù, ecco tutta la mia ambizione; la mia gloria ed il mio gusto a te l'abbandono! E se mi sembra che Tu mi dimentichi, ebbene, sei libero di farlo, perchè io non sono più mia, ma tua, interamente tua.
 
-«Concedimi, o Signore, d'imitare gli angelici spiriti
-che, mentre stanno con noi, non cessano però dalla divina
-contemplazione. Fa' che tratti e serva i miei simili,
-considerando e godendo te in loro e prendendoti
-porgendo il cuore a te. E quando mi avviene di allontanarmi da questo nobile esercizio, aiutami a ritornarvi,
-subito facendo ogni sforzo per riuscirvi, sì che, col tuo
-divino soccorso, possa sempre vivere col cuore fisso in te»
-(cfr. S. Bonaventura).
+« Il santo Vangelo mi dice che Tu, divino Pastore, lasci tutte le pecorelle fedeli nel deserto per correre dietro a quella smarrita. Quanto mi commuove questa fiducia! Sei ben sicure delle tue pecorelle! E come potrebbero fuggire? Sono schiave dell'amore. E così Tu, diletto Pastore dell'anima mia, mi privi della tua presenza sensibile, per recare le tue consolazioni ai peccatori... O Signore, fa' come ti piace. Ti stancher ai non presto Tu di farmi aspettare, che io d'aspettarti! » (cfr. T.B.G. *Lettere*).
+
+Dio mio, una cosa sola ti chiedo: che in questa aridità il mio amore cresca ed io ti rimanga fedele ad ogni costo; che, quanto meno sento di amarti, tanto più ti ami con la realtà dei fatti; che, quanto meno il mio amore dà gioia a me, tanto più dia gloria a te. E se per crescere nell'amore mi è necessario soffrire, sia benedetta questa prova, poichè Tu mi percuoti per ammacstrarmi, mi mortifichi per sanarmi e per darmi maggior vita.

@@ -1,102 +1,29 @@
-## 140 — VITA DI FEDE IN S. GIUSEPPE
+## I — LA PASQUA DEL SIGNORE
 
-### Presenza di Dio
+*Domenica di Risurrezione*
 
-Alla tua scuola, o glorioso S. Giuseppe, desidero imparare a vivere di fede, lasciandomi in tutto guidare dalla divina Provvidenza.
+**Presenza di Dio.** — *O Gesù risorto, fammi degno di partecipare al gaudio della tua risurrezione.*
 
 ### Meditazione
 
-1 — L'atteggiamento fondamentale della vita di S.
-Giuseppe è tutto di fiducia e di abbandono in Dio, e scaturisce dalla sua fede. S. Matteo dice di lui «che era uomo
-giusto » (1, 19), ora la Sacra Scrittura insegna che « il giusto vive di fede» (Rorz, 1,17) e si può ben affermare che
-nessuna creatura — dopo la Vergine Maria — ha vissuto di
-fede quanto Giuseppe. Infatti la sua vita, essendosi svolta
-nell'orbita del mistero dell’Incarnazione, ha dovuto necessariamente passare attraverso tutte quelle oscurità che cir-
+**1** — « Questo è il giorno che ha fatto il Signore: esultiamo e rallegriamoci in esso! » *(BR.).* È il giorno per eccellenza, il giorno più gaudioso di tutto l'anno poichè in esso « la nostra Pasqua, Cristo, è stata immolata ». Anche il Natale è festa di gioia ma, mentre la gioia natalizia ha una nota inconfondibile di dolcezza, la gioia pasquale ha una nota inconfondibile di trionfo: è il gaudio per il trionfo di Cristo, per la sua vittoria. La liturgia della Messa ci indica le due caratteristiche della gioia pasquale: gioia nella verità (Epistola), gioia nella carità (Postcommunio).
 
+Gioia nella verità: secondo il vibrante ammonimento di S. Paolo: « Celebriamo la festa non col vecchio fermento..., ma con gli azzimi della purità e della verità ». In questo mondo ci sono tante gioie effimere basate su fondamenti fragili ed inconsistenti, ma la gioia pasquale è la gioia di sapersi nella verità, la verità che Cristo ha portato al mondo e che ha confermato con la sua risurrezione. La sua risurrezione ci dice che la nostra fede non è vana, che la nostra speranza non è riposta in un morto, ma in un vivo, nel *vivo* per eccellenza, la cui vita è tanto potente da vivificare non solo per il tempo, ma anche per l'eternità tutti coloro che credono in Lui: « Io sono la risurrezione e la vita; chi crede in me quand'anche fosse morto vivrà » *(Gv.* 11, 25). Gioia nella verità: perchè solo le anime sincere e rette che cercano con amore la verità e, più ancora, che operano la verità possono godere appieno della risurrezione. Anima sincera è quella che si riconosce quale è, coi suoi difetti, con le sue deficienze, col suo bisogno di conversione e che, proprio per tale consapevolezza della sua miseria, è sinceramente decisa a volersi purgare dal vecchio fermento delle passioni per tutta rinnovarsi in Cristo risorto.
 
-A A
+Ma la verità deve operarsi nella carità: « veritatem facientes in charitatem » *(Ef.* 4, 15), è quindi più che mai opportuna la preghiera che il Postcommunio ci mette sulle labbra: « Signore, infondi in noi lo spirito di carità... e per la tua pietà rendici concordi ». Non può esservi vera gioia pasquale dove non vi è concordia e mutua benevolenza.
 
+**2** — Il Vangelo ci presenta le pie donne, le fedelissime, che al primo albeggiare della domenica, corrono al sepolcro e, cammin facendo, si domandano preoccupate: « Chi ci toglierà la pietra dall'ingresso del sepolcro? ». Ma questa preoccupazione, benché assai giustificata dalla mole e dalla pesantezza della pietra di chiusura, non le distoglie dal loro disegno: sono troppo prese dal desiderio di trovare Gesù! Ed ecco che, appena giunte, vedono la « pietra rimossa » e quindi, entrate nella tomba, trovano un Angelo che dà loro il grande annunzio: « Egli è risorto; non è qui ». Per il momento Gesù non si fa trovare, né vedere, ma poco dopo, quando, secondo l'ordine ricevuto dagli Angeli, le donne andranno a dar la nuova ai discepoli, Egli si farà loro incontro dicendo: « Vi saluto! » *(Mt.* 28, 9) e la loro gioia sarà piena.
 
-condarono il compimento del grande mistero; Giuseppe
-ebbe quindi bisogno di una grande fede, fede che fu continuamente nutrita di sofferenze e temprata attraverso le
-angosce. Le perplessità destate in lui dalla misteriosa maternità di Maria, la povertà estrema e le angustie di Betlemme, i disagi della fuga in Egitto fecero gemere la sua
-anima delicata, tanto Sh nei momenti più gravi, ebbe
-bisogno dell'intervento di un Angelo, da cui fu sostenuto e introdotto nelle profondità del mistero divino che
-si svolgeva sotto i suoi occhi. E Giuseppe si lascia guidare con la docilità e la fiducia cieca di un fanciullo. Lo
-testimoniano questi quattro fatti riportati dal Vangelo.
-1° L'Angelo pone termine alle sue ansie ordinandogli
-di prendere Maria $S.ma in sposa « perchè quel che è nato
-in lei è opera dello Spirito Santo »: siasi non esita
-un istante e fa «come gli aveva comandato l'Angelo del
-Signore » (Mt. 1, 20€ 24). 2° L'Angelo l’avverte di «prender il bambino e la madre sua e di fuggire in Egitto »
-(ivi, 2,13): senza indugio, nel cuore della notte, il Santo
-si alza ed eseguisce l’ordine. Oggettivamente la fuga presentava grandissime difficoltà: gli enormi disagi e i pericoli del viaggio, la povertà estrema, l'esilio in terra
-straniera; ma l'Angelo ha parlato e Giuseppe obbedisce.
-3° Morto Erode, l'Angelo gli ordina di ritornare nella
-terra d'Israele. 4° L'Angelo l’avverte di ritirarsi nella Galilea (cfr. ivi, 2, 19-23).
-Abbiamo qui quattro atti di fede e di obbedienza cieca.
-Giuseppe non esita, non ragiona, non oppone difficoltà,
-erchè si fida totalmente di Dio, perchè crede pienamente
-in Iuî, nella sua parola, nella sua divina Provvidenza.
+Anche noi abbiamo il grande desiderio di trovare il Signore: forse già da molti anni ci siamo messi in cerca di Lui e forse anche per noi il desiderio è stato accompagnato da serie preoccupazioni: come farò a rimuovere gli ostacoli, a togliere dall'anima mia quelle pietre che m'impediscono di trovare il Signore, di darmi interamente a Lui, di farlo trionfare in me? Ma, appunto perchè volevamo trovare il Signore, sostenuti dalla sua grazia, abbiamo superato tanti ostacoli e la divina Provvidenza ci ha aiutato a rimuovere molte pietre, a vincere tante difficoltà. Tuttavia, la ricerca di Dio è progressiva e deve continuare per tutta la vita, perciò, come le pie donne, dobbiamo avere sempre la santa preoccupazione di trovare il Signore; preoccupazione che ci deve rendere industriosi e solerti nella ricerca e, nello stesso tempo, fiduciosi nell'aiuto divino, perchè è certo che, dove le nostre forze non possono arrivare, provvederà il Signore facendo Lui per noi quello che noi non sappiamo fare.
 
-
-2 — Tutta la vita di S. Giuseppe si riassume in una
-continua adesione al piano divino, sia pure di fronte a
-situazioni per lui assai misteriose ed oscure.
-
-Anche nella nostra vita c'è sempre un po’ di mistero, e
-perchè Dio ama operare in modo nascosto, segreto, e perchè la sua azione è sempre impenetrabile al nostro povero
-
-
-VITA DI FEDE IN S. GIUSEPPE 233
-
-
-di Giuseppe, sicuri che Dio può servirsi di
-qualsiasi persona e di qualsiasi circostanza per farci conoscere e attuare il suo volere divino; proprio come si è servito dell’editto di Cesare per condurre Giuseppe a Betlemme, dove doveva nascere Gesù. Le intenzioni Mare
-ratore romano erano state ben diverse, ma Dio si è servito
-di quell’atto politico attuare il piano dell’Incarnazione.
-È sempre vero che Dio tutto governa e dirige al compimento della sua volontà.
-
-Altra caratteristica della vita di S. Giuseppe è di essersi totalmente consacrato alla missione affidatagli da Dio;
-Giuseppe non vive per se stesso, per i suoi interessi personali, ma unicamente per Iddio che serve in Gesù ed in
-Maria. S. Giuseppe è così il vero modello delle anime di
-vita interiore, delle anime che aspirano a vivere totalmente
-per Dio e con Dio, nel compimento della missione da lui
-ricevuta.
+La Pasqua segni ogni anno un rinnovamento nella nostra vita spirituale, un rinnovamento nella nostra ricerca di Dio; ogni anno riprendiamo il nostro cammino verso di lui in « *novitate vitae* ».
 
 ### Colloquio
 
-«O Giuseppe, quanto ti amo! Come mi fa bene pensare alla tua vita tanto semplice, umile. Come mi fa bene
-pensare che anche tu hai vissuto di fede come noi, Ti contemplo nella casetta di Nazaret accanto a Gesù ed a Maria,
-tutto occupato a lavorare per loro. Mi par di vederti piallare, poi asciugarti di quando in quando la fronte e aftret-
+« Signore Gesù, Gesù pio, Gesù buono, che ti degnasti di morire pei nostri peccati e risorgesti per la nostra giustificazione, ti prego, per la tua gloriosa risurrezione, risuscitami dal sepolcro dei miei vizi e peccati, affinchè io meriti di partecipare veramente alla tua risurrezione. Dolcissimo Signore, che ascendesti in Cielo con trionfo nella tua gloria e siedi alla destra del Padre, che potentissimo, trai me in alto, fino a te, affinchè io corra all'odore dei tuoi unguenti, affinchè io corra e non venga meno, mentre Tu mi trai e mi conduci. Attrai la bocca dell'anima mia assetata presso il superno fonte dell'eterna sazietà; dal fondo trai me al fonte vivo, affinchè ivi, secondo la mia capacità, beva di che sempre io viva, o mio Dio, vita mia.
 
+« Assuma, o Signore, assuma, te ne prego, il mio spirito penne come d'aquila, e voli, e non venga meno; voli, e giunga fino allo splendore della tua gloria, affinchè ivi sia pasciuto dei tuoi segreti alla mensa dei celesti cittadini, nel luogo della tua pasqua, presso abbondantissimo fonte; riposi in te, o Signore, il mio cuore; cuore simile a grande mare, agitato da tumidi flutti.
 
-tarti per terminare in tempo il lavoro da consegnare ai
-clienti. Pur vivendo accanto al Figlio di Dio, la tua vita
-si è svolta in un modo del tutto ordinario, perchè certamente Gesù non faceva miracoli inutili... Nella tua vita
-tutto è avvenuto come nella nostra. E quante pene, quante fatiche, quanti pericoli! Come saremmo meravigliati se
-sapessimo tutto ciò che hai sofferto! » (cfr. T.B.G. CR.
-eNV.)
+« Preziosissimo, desideratissimo, amabilissimo Signore, quando ti vedrò? Quando comparirò davanti alla tua faccia? Quando sarò saziato della tua bellezza? Quando mi condurrai fuori di questo carcere tenebroso, affinchè io confessi il tuo nome, senza più essere confuso?... Che farò io misero, oppresso dal peso delle catene della mia mortalità? Che farò?... Finchè siamo nel corpo, pellegrimiamo verso il Signore. Non abbiamo qui stabile dimora, ma cerchiamo la città futura, poichè la nostra patria è nei Cieli.
 
-«Non so come si possa pensare alla Regina degli angeli e al molto che ha sofferto col Bambino Gesù, senza
-pensare a te, glorioso S. Giuseppe, senza ringraziare te,
-che fosti loro di tanto aiuto! Per questo motivo mi
-pare che ti devono essere specialmente affezionate le persone di orazione...
-
-«Per la nde esperienza che ho dei favori che tu
-ottieni da Dio, vorrei persuadere tutti ad esserti devoti.
-Non ho conosciuta persona che ti sia veramente devota e
-che pratichi in tuo onore qualche particolare devozione
-che non faccia notevoli progressi sulla via della virtù.
-Le anime che a te si raccomandano sono aiutate in una
-maniera tutta speciale. Ho visto chiaramente che il tuo
-aiuto è stato sempre più grande di quello che avrei potuto sperare, Non mi ricordo di averti pregato di alcuna
-
-‘azia senza averla subito ottenuta. Il Signore vuol farci
-intendere con ciò che, a quel modo che ti era soggetto
-in terra, dove tu, come Padre e custode, gli potevi comandare, così ancora in cielo continua a fare quanto gli
-domandi » (cfr. T.G. Vi. 6, 6-8).
-
-O caro S. Giuseppe, mi metto dunque con piena fiducia sotto il tuo patrocinio; insegnami a vivere come te di
-fede e di abbandono in Dio, insegnami a vivere unicamente
-per lui, dandomi tutto al suo servizio,
+« Dammi grazia, o Signore, che mentre porto con me queste fragili membra, io aderisca a te, giacchè: chi aderisce al Signore, è un solo spirito con Lui » (S. Agostino).

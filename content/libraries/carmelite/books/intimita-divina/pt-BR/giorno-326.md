@@ -1,57 +1,47 @@
-## 326 — ESQUECIMENTO E ABNEGAÇÃO DE SI
+## 326 — SENTIR COM CRISTO
 
 ### Presença de Deus
 
-Ó Senhor, Tu que te dás a nós até fazer-te nosso alimento, ensina-me a dar-me às almas até esquecer-me totalmente de mim mesmo.
+Ó Jesus, faze que eu possa nutrir pelas almas sentimentos semelhantes aos do teu Coração divino.
 
 ### Meditação
 
-«Generoso esquecimento e forte abnegação de si» (Pio XII): sem esquecimento de si, nem sequer seria possível a retidão de intenção.
+1. — Uma colaboração eficaz exige sempre certa afinidade de intenções e de métodos entre o promotor da obra e seus colaboradores; aliás essa afinidade deve ser tanto mais profunda quanto mais a obra a cumprir não é material, mas espiritual.
 
-Justamente porque estamos tão presentes a nós mesmos, tão ocupados e preocupados com nosso eu, com nosso interesse, com nossas comodidades, tão solícitos em ser amados e em receber aplauso e estima, uma quantidade de intenções secundárias tenta infiltrar-se em nosso agir.
+Devendo colaborar com Deus para o bem das almas, o apóstolo deve viver em íntima afinidade espiritual com Ele, de modo a entrar o mais possível em suas perspectivas e em seus desígnios para a salvação do mundo.
 
-É preciso «sair de si e das criaturas», diria São João da Cruz; sair, antes de tudo, daquela criatura que mais do que todas amamos: o nosso eu.
+Só penetrando a fundo o mistério do amor de Deus pelos homens, o apóstolo poderá cooperar à efusão atual do amor e da graça. Mediante as virtudes teologais, ele deve manter-se em contato íntimo com Deus e procurar captar o movimento profundo de seu amor. A fé nos ensina que Deus chamou os homens à existência, impelido por sua bondade infinita, que quis efundir-se fora de si para participar a outros algo do seu bem, da sua felicidade, da sua própria vida.
 
-Se, em vista do ideal contemplativo da união com Deus, o Santo nos aponta a via do «nada», podemos dizer com razão que a vida apostólica não exige menos, mas também requer total abnegação de si, que se realiza justamente repetindo continuamente a si mesmo: nada, nada, nada de si.
+Eis a graça, criação do seu amor, que torna os homens consortes de sua natureza. E quando os homens, pelo pecado, se separaram dele, tornando-se indignos de seu dom, Ele não renunciou ao seu plano de amor e, para poder dar-lhes de novo o que culposamente haviam perdido, sacrificou seu Unigênito «que por nós homens e para nossa salvação desceu do céu» (Credo).
 
-Como o missionário, para realizar sua vocação, deve deixar pátria, parentes e amigos, deve abandonar língua, usos e costumes do seu país para adaptar-se aos do novo, assim também — guardadas as proporções — todo apóstolo, mesmo exercendo a atividade na própria pátria, no ambiente ordinário de trabalho ou de vida, deve renunciar a muitas coisas.
+O apóstolo deve compreender a fundo que a ação de Deus pelos homens é toda ação de amor: é a ação do Pai que vai em busca do filho pródigo; do pastor que vai em busca da ovelha perdida; é a ação de Deus que quer oferecer aos homens sua amizade para torná-los felizes, para poder acolhê-los em sua casa, para poder admiti-los à sua intimidade, para torná-los bem-aventurados de sua beatitude eterna.
 
-Gostos, hábitos, exigências pessoais de cultura, de educação, de sensibilidade devem ser generosamente postos de lado para adaptar-se à mentalidade e às exigências dos outros; quietude, repouso e alívios devem ceder lugar ao serviço das almas.
+O apóstolo deve procurar pôr o próprio coração em contato com o coração de Deus para encher-se de seu amor, para compartilhar sua caridade pelos homens. O apóstolo deve, por assim dizer, sentir com Deus, sentir com Cristo, isto é, nutrir profundos sentimentos de amor por seus irmãos, pálido reflexo do amor de Deus pelos homens.
 
-O apóstolo não deve ir em busca de conversas agradáveis, amizades consoladoras, ocupações de seu gosto, resultados satisfatórios. Pode acontecer que às vezes encontre essas coisas no caminho; mas nem então pode deter-se para gozá-las egoisticamente: deve servir-se delas como meios para seu apostolado e, em todo caso, não pode nem deve jamais regular sua atividade em vista delas.
+2. — Não só na oração, mas no próprio exercício do seu apostolado, o apóstolo deve procurar manter-se em contato com Deus e com o mistério de seu amor pelos homens, ao qual deve humildemente colaborar.
 
-O apóstolo é enviado para «dar» e não para «receber», para semear e não para colher. Portanto deve saber dar seu tempo, seu trabalho, suas energias e até a si mesmo, mesmo em ambientes que não oferecem nada de reconfortante, mesmo a almas das quais nunca receberá satisfações ou retorno.
+Procurará esse contato através de intenso exercício da fé, que o fará compreender cada vez mais o mistério da Redenção, que o fará reconhecer a atuação deste mistério nas várias circunstâncias e no desenrolar dos acontecimentos, que o ajudará a inserir sua humilde ação na grande ação divina.
 
-Como se diz do sacerdote, ele é «constituído em favor dos homens» (Hb 5,1), e o mesmo pode dizer-se de todo apóstolo. O apóstolo não é para si mesmo, para sua carreira, para seu interesse, mas é para as almas, para vantagem dos outros em tudo o que se refere ao seu bem espiritual.
+Deste modo, também quando usar meios humanos, também quando se ocupar de questões materiais, manter-se-á numa atmosfera sobrenatural: nunca perderá de vista o fim último de sua atividade, mas estará sempre desperta nele a consciência de colaborar com Cristo para a salvação das almas.
 
-Ainda que o apostolado lhe confira alguma autoridade, alguma dignidade, isso não é para sua honra nem utilidade, mas somente para o serviço dos irmãos.
+À fé o apóstolo deve unir uma ardente caridade, porque o contato com Deus e a afinidade com seu amor realizam-se justamente pela via do amor. A caridade, pela força de intuição que lhe é própria, permitirá ao apóstolo penetrar mais a fundo o mistério da Redenção, saborear a doce realidade do Amor infinito que nele se manifesta e o impelirá a viver em íntima comunhão com esse Amor de que deve ser colaborador e instrumento.
 
-A única vantagem pessoal que pode e deve pretender do exercício do seu apostolado é a própria santificação: eis o único direito que o apóstolo pode fazer valer, o único interesse que pode buscar para si; todo o resto deve ser generosamente sacrificado a Deus e às almas.
+Então seu exemplo e suas palavras darão testemunho de verdades não só cridas em teoria, mas vividas na prática, saboreadas e experimentadas no contato íntimo com Deus. Então o apóstolo poderá afirmar com São João: «Nós conhecemos e cremos na caridade que Deus tem por nós» (1Jo. 4, 16), e ainda: «Aquilo que vimos com nossos olhos, aquilo que contemplamos e que nossas mãos tocaram do Verbo da vida... disso damos testemunho... disso vos anunciamos» (1Jo. 1, 1-3).
 
-Uma alma verdadeiramente entregue ao apostolado não se pertence mais: suas forças, seus talentos, seu tempo, sua saúde, sua vida são de Deus e do próximo. E, tendo-se dado, não pode mais pertencer-se, não pode dispor de si; pode-se dizer que perdeu o direito de propriedade de tudo o que é e de tudo o que tem.
+Mediante a fé e o amor, o apóstolo chegará a uma afinidade espiritual cada vez maior com o mistério da Redenção e com Jesus, que é seu grande Ator; poderá fazer seus os sentimentos de Jesus segundo a palavra de São Paulo: «Tende em vós os mesmos sentimentos que havia também em Cristo Jesus» (Fl. 2, 5).
 
-Seu programa, portanto, é: dar-se esquecendo-se e esquecer-se para dar-se mais.
-
-E isso não só nos momentos de entusiasmo, nos dias luminosos, quando as almas correspondem, quando as obras florescem, quando as forças estão em pleno vigor, mas também nos momentos de escuridão, nos dias cinzentos em que parece que tudo desaba sob o choque das dificuldades; também quando o corpo cansado reclama um pouco de repouso, o trabalho pesa, as energias diminuem e, pelo ímpeto das lutas internas e externas, é muito penoso permanecer no próprio posto.
-
-Sim, também nas horas de abandono e de prova o apóstolo deve continuar a dar-se com igual constância e generosidade.
-
-Se não o fizesse de boa vontade — isto é, com verdadeiro espírito de sacrifício — seria impossível que de sua conduta não transparecesse um pouco de mau humor, de descontentamento, de relutância ou de impaciência; e isso diminuiria muito sua ascensão e sua ação.
-
-Mas onde encontrar força para manter-se sempre no nível de tão alto dom de si? Na Eucaristia. Ali Jesus se dá a nós até fazer-se nosso alimento.
-
-E se o apóstolo — chamado a prolongar a missão do Mestre — não pode imitá-lo dando-se literalmente em alimento às almas, pode, porém, imitá-lo colocando-se à disposição delas até o ponto de deixar-se «comer» por elas, isto é, deixar-se consumir no seu serviço.
+Este «sentir com Cristo», que significa amar e querer em uníssono com o Coração divino, que significa compartilhar seu amor imenso por Deus e pelas almas, é o segredo de todo apostolado.
 
 ### Colóquio
 
-«Ó Senhor, faze-me compreender bem que meu trabalho tem valor para a eternidade na proporção do amor com que o faço e não do sucesso que pode ou não ter. Ainda que eu não veja seus frutos, que importa, contanto que Tu os vejas? Tu queres que eu trabalhe com espírito de fé sem buscar minha satisfação.
+«Ó Jesus, Filho de Deus, se penso que tu morreste pela redenção das almas, como posso não desejar morrer eu mesmo por elas? E, vendo teu Sangue calcado aos pés, como posso tolerar tal injúria feita a ti, meu Senhor? Como posso dizer que te amo e desejo teu amor se, vendo tua imagem lançada na lama, não me preocupo em tirá-la? Por que, então, não me dou todo à oração, não me dou todo ao trabalho para fazer conhecer e honrar teu nome, para que, convertendo as almas, eu possa recolher os frutos do teu Sangue?
 
-«Sinto que sou mãe das almas e que devo sacrificar-me por elas com a maior generosidade, porque a salvação de muitas pode depender da minha correspondência à graça. Senhor, sou um pobre pequeno nada, mas te ofereço tudo.
+«Meu Deus, ainda que eu tivesse certíssima certeza de nunca te gozar, não obstante, para honrar-te, eu quereria de muito boa vontade morrer uma vez por cada alma pecadora; de modo que sustentaria no presente tantas mortes quantas são no mundo as almas pecadoras, para que elas conseguissem agora a graça e no futuro a glória; mas quanto mais o faria, se soubesse que depois receberia glória com elas!» (São Boaventura).
 
-«Ó Pai, ofereço-te teu divino Filho. Toma-me e dispõe de mim para tua maior glória.
+«Senhor, não tenho senão uma coisa a fazer durante a noite desta vida, a única noite que virá uma só vez: amar-te com toda a força do meu coração e salvar-te almas para que tu sejas amado.
 
-«Ó Senhor, Tu me impele de modo insistente e constante ao sacrifício cada vez mais generoso, total. Sinto necessidade de dar, de dar-me a ti, de nada mais reservar para mim.
+«Ó Jesus, à vista do teu Sangue precioso caindo por terra sem que ninguém se preocupe em recolhê-lo, quebra-se meu coração de dor. Proponho, portanto, ficar continuamente aos pés da cruz para recolher esse divino orvalho de salvação e depois espalhá-lo sobre as almas.
 
-«Quero, pois, renovar-te minha oferta para que Tu me tomes inteira, para que me transformes, para que te sirvas de mim para tua glória e para a salvação das almas, para que te dignes completar em mim o que falta à tua Paixão, em proveito do teu Corpo que é a Igreja, contente de encontrar no meu dia tantas ocasiões práticas de realizar esta oferta» (cf. Ir. Carmela do Espírito Santo, O.C.D.).
+«Teu grito: “Tenho sede”, ressoa continuamente no meu coração e nele acende fogo vivíssimo. Ó meu Dileto, quero dessedentar-te e, sentindo-me devorada por tua própria sede das almas, quero arrancar a todo custo os pecadores das chamas do inferno.
 
-«Ó Senhor, a oração e o sacrifício formam toda a minha força; são minhas armas invencíveis, e sei por experiência que, mais do que as palavras, podem mover os corações» (Santa Teresinha do Menino Jesus).
+«Quero empregar nisso todos os meios que estão ao meu alcance; mas, sabendo bem que sozinho nada posso, ofereço-te como preço de seu resgate os teus próprios méritos infinitos e os tesouros da santa Igreja» (Santa Teresinha do Menino Jesus).

@@ -1,98 +1,25 @@
-## 289 — LA TEMPERANZA
+## XXVIII — I DUE REGNI
 
-### Presenza di Dio
+*XIV Domenica dopo Pentecoste*
 
-Insegnami, o Signore, a mortificare la mia carne per vivere in pieno la vita dello spirito.
+**Presenza di Dio.** — Sostieni, o Signore, la mia debolezza affinché possa giungere al possesso del tuo regno.
 
 ### Meditazione
 
-1. — L'uomo può deviare dal dovere o per il timore delle
-difficoltà e del sacrificio che incontra, o per le attrattive del
-iacere; nel primo caso viene in suo soccorso la virtù della
-Eos nel secondo quella della temperanza. La temperanza
-è appunto la virtù che modera in noi il desiderio disordinato del godimento sensibile, contenendolo entro i limiti as-
-segnati dalla ragione e dalla fede. Data la profonda disarmonia prodotta in noi dal peccato, per cui la parte inferiore
-tende a ribellarsi alla parte superiore appetendo cose contrarie
-allo spirito, non potremmo difenderci dalle attrattive del piacere senza il soccorso di questa virtù che Dio ha infuso nell’a-
-nima nostra proprio per renderci capaci di frenare la tendenza sregolata il godere. Come la fortezza, con le virtù connesse
-della magnanimità, della pazienza, della perseveranza, è un
-sostegno per la nostra debolezza, così la temperanza, con le
-virtù che ne derivano — sobrietà, castità, continenza, mo-
+**1** — Il pensiero centrale della Messa odierna lo troviamo in sintesi nella Colletta: «O Signore, poiché senza di te l'umana debolezza cade, col tuo aiuto sia allontanata dal male e indirizzata verso la via della salute». Ecco la posizione dell'uomo di fronte alla vita spirituale: è come un bambino che si trova ad un bivio, da solo non sa camminare, non sa quale via scegliere per tornare a casa. Due strade si aprono davanti al cristiano: l'una conduce al regno dello spirito, al regno di Dio e l'altra al regno della carne, al regno di Mammona; quale delle due sceglierà? Evidentemente vuol dare la precedenza a quella che conduce al regno di Dio, regno pacifico e dolce descritto da Gesù nel Vangelo di oggi; ma anche il regno di Mammona — il regno delle ricchezze e della carne — ha purtroppo delle attrattive e tenta di allettare il suo cuore. Per resistere a queste lusinghe l'Epistola c'insegna che bisogna lottare: «La carne ha desideri contrari allo spirito e lo spirito li ha contrari alla carne; son cose opposte fra loro, sì che voi non dovete fare tutto quel che vorreste».
 
+La lotta è rude e talvolta si desta anche in anime già decisamente incamminate verso il regno di Dio: perché? Perché la via che vi conduce è aspra, faticosa e spesso si addensa in dense oscurità senza che l'anima si renda conto del cammino percorso, dei progressi fatti. Qui bisogna procedere al buio credendo e sperando. Ma intanto lo sguardo cade sull'altra via: più larga, più comoda, seminata di beni sensibili che si vedono, si toccano, si possono cogliere e godere immediatamente: basta allungare una mano. L'anima sente la tentazione e sente anche che da sola non può resistervi, ma se si rifugia in Dio, se si lascia condurre dallo spirito, sarà salva, benché non senza sacrificio. «Conducetevi secondo lo spirito — incalza S. Paolo — e non soddisfate ai desideri della carne... Ora, le opere della carne è chiaro quali sono» *(Ep)* e l'Apostolo ne dà un elenco tutt'altro che attraente. È sempre così: i beni materiali si presentano con l'incanto dei fiori, ma è un incanto che presto sfuma in putredine; non val la pena fermarsi ad essi! Appunto per questo «i seguaci di Cristo Gesù hanno crocifisso la carne con le sue passioni e le sue concupiscenze» (ivi).
 
-destia, ece. — è un freno per le nostre concupiscenze. Tuttavia, pur essendo un freno, non ha solo un compito nega-
-tivo, qual'è quello di temperare, contenere, PRINS Ta
-more disordinato del piacere, ma ne ha anche uno positivo,
-ossia quello di regolare Je passioni e di permetterci l'uso dei
-sensi in perfetta armonia con le esigenze dello spirito, in
-modo che non venga affatto disturbata la nostra vita spirituale. E' proprio così che la temperanza, insieme con la
-grazia e con le altre virtù, sana ed eleva la nostra natura ristabilendo in noi l'armonia distrutta dal peccato. Questo, però,
-non può realizzarsi senza la nostra ‘collaborazione che, nel
-campo della temperanza, consiste soprattutto nella mortificazione delle Reno e dei sensi. «Se vivrete secondo la
-came — dice S. Paolo — morirete; ma se con lo spirito darete morte alle azioni della carne vivrete» (Rom. 8, 13). La
-virtù della temperanza è stata infusa in noi appunto per renderci capaci di dar «morte alle azioni della carne», morte
-che non è fine a se stessa, ma è condizione indispensabile
-per la vita dello spirito.
-
-
-2. — La bellezza della virtù della temperanza sta proprio
-nell’aiutarci a fare a ritroso il cammino percorso dai nostri
-progenitori in conseguenza del loro peccato: dalla tta
-armonia tra lo spirito e la materia essi caddero nella disarmonia profonda e noi da questa dobbiamo risalire a quella. Co
-me prima di slanciarsi alla corsa il cavaliere imbriglia il cavallo focoso, così noi, per intraprendere questo cammino,
-dobbiamo imporre alla nostra carne le foiti briglie della mortificazione in modo da padroneggiarne tutti i movimenti e
-gli appetiti. S'intende facilmente come la mortificazione sia
-necessaria nel campo della castità: vivere casti senza mortificare il proprio corpo è un'illusione perchè nè la virtù, nè il
-voto di castità mutano la nostra natura e neppure ci rendono insensibili agli allettamenti del senso, del mondo, del
-demonio. Invece si comprende di meno la necessità della mortificazione circa il senso del gusto. In questo campo anche le
-
-
-anime che tendono alla perfezione sono, in genere, abbastanza facili ad accondiscendere al piacere sensibile  conside-
-randolo come cosa del tutto innocente e senza conseguenze
-per la vita dello spirito; ma non è così perchè tutto ciò che è
-disordine, anche lieve, nella vita dei sensi, viene più o meno
-ad appesantire e ad infiaccchire la vita dello spirito. Di fatto
-il disordine c'è tutte le volte che nell'uso dei cibi e delle bevande ci lasciamo in qualche modo determinare dal gusto
-che troviamo in essi, prendendone più del necessario quando
-ci piacciono, mostrandoci malcontenti o rifiutandoli quando
-non corrispondono ai nostri gusti. Anche questa è schiavitù
-dei sensi, è-lasciarsi dominare dal piacere sensibile ed è quindi lasciare in noi una porta aperta alle ribellioni del senso
-contro lo spirito. S. Paolo ci ammonisce: « Non illudetevi...
-ciò che uno avrà seminato quello mieterà; chè chi semina
-nella sua carne, dalla carne mieterà corruzione, chi semina
-nello spirito, dallo »spirito mieterà vita eterna» (Gal. 6,8).
-Chi nella sua vita semina piaceri sensibili, di qualsiasi genere siano, semina corruzione perchè tutto ciò che è senso è de-
-stinato a perire è conduce alla deriva. Come può, dunque,
-un'anima che aspira ad un'alta vita spirituale assoggettarsi,
-sia pure in materia lieve, alle soddisfazioni dei sensi? « Convinciti — dice S. Giovanni della Croce — che non entrerai
-mai nel gusto e nella soavità dello spirito se non ti darai alla
-mortificazione di tutte le cose che desideri» (AM. 38).
+**2** — Il Vangelo ci mette nuovamente in guardia contro le attrattive dei beni materiali. Anzitutto afferma che non si possono servire nello stesso tempo due padroni: Dio e Mammona, come non si possono battere contemporaneamente due strade: quella del regno di Dio e quella dei piaceri terreni. Chi si è dato a Dio, deve avere il coraggio di darsi a lui in fondo, senza rimpianti, senza ritorni — neppure fugaci — sulle vie del mondo. L'anima che, dopo aver scelto il cammino della perfezione non lo batte con totalità, con generosità, non sarà mai contenta: non avrà la gioia di sentirsi tutta di Dio, né avrà la soddisfazione di poter seguire tutte le attrattive del mondo; la prima le sarà impedita dalla sua infedeltà, la seconda dal timore di Dio, che ancora le resta. È un'infelice, divisa a metà, in continua lotta con se stessa. Ma cos'è che c'impedisce di cercare totalmente il regno di Dio? Ce lo dice Gesù nel Vangelo di oggi: la troppa sollecitudine per il benessere materiale, per le comodità e per la sicurezza della vita presente. Pur volendo vivere secondo lo spirito, finché pellegrimiamo quaggiù in un corpo mortale siamo sempre soggetti a lasciarci invadere dalle preoccupazioni materiali: «Cosa mangeremo? Cosa berremo? Di che ci vestiremo?». Proprio per liberarci da queste sollecitudini Gesù ci presenta il quadro meraviglioso della divina Provvidenza: «Osservate gli uccelli dell'aria, che non seminano, non mietono e non raccolgono nei granai; eppure il Padre vostro celeste li nutre. Ora, non siete voi molto di più di essi?». Sono parole che danno le ali, che fanno venire voglia di buttar via tutte le vane preoccupazioni terrene, per concentrarsi nella ricerca del regno di Dio: «Cercate prima il regno di Dio e la sua giustizia e tutto il resto vi sarà dato per giunta». Oh, se avessimo maggior fede nella divina Provvidenza come saremmo più liberi di attendere a Dio, di attendere alle cose dell'anima! E, pur dovendoci occupare di affari terreni, non ne rimarremmo invischiate, ma sapremmo muoverci in mezzo ad essi con piena libertà di spirito.
 
 ### Colloquio
 
-«Io, Signore, non piglio degli umani disordini meraviglia, poichè Tu hai ferito questo mio cuore colla perfettissi-
-ma carità tua, e l'hai custodito colla custodia della purità. Oh!
-se i ciechi mortali provassero quale sia la dolcezza e la soavità
-del tuo santo amore! Stimo che subito detesterebbero e concepirebbero nausea orrenda e fastidio dei piaceri dei sensi, su-
-bito correndo ansiosi e sitibondi a dissetarsi al fonte della
-soavità tua. Ma perchè non corrono dietro le tracce dei tuoi
-odori?
+«O Signore, ora che la carne ha desideri contrari allo spirito e lo spirito ha desideri contrari alla carne, la lotta è mortale: io non faccio quello che vorrei, perché vorrei non avere concupiscenze; ma è una cosa impossibile. Volere o no, le tengo; volere o no, lusingano, stimolano, importuno, vogliono sempre alzare la testa; si possono comprimere, ma non soffocare.
 
+«I tuoi precetti, o Signore Dio mio, sono le mie armi. Per mezzo del tuo Spirito mi hai dato la possibilità di tenere a freno le mie membra; tutta la mia speranza riposa dunque in te. Tu dammi di poter fare ciò che comandi e poi comandami ciò che vuoi.
 
-« T'intendo, eterna Verità. Se costoro, con attenta meditazione, considerassero e tenessero sempre presente alla me-
-moria gli immensi quotidiani benefici de ad essi dispensi, si
-lascerebbero facilmente tirare dalla dolcezza ineffabile del tuo
-amore e si vedrebbero correre con ansietà di desiderio a dilettarsi nelle fragranze di tante tue dolcezze!» (S. Caterina
-da Siena).
+«Non voglio, o Signore, essere amico di questo mondo; perché se sarò amico di questo mondo sarò nemico tuo. Delle cose create mi voglio far scala per ascendere a te; poiché se amerò queste cose di più di te, non possederò té. Che mi giova l'abbondanza delle cose fatte da te, se mi manchi Tu, che ne sei l'Autore?
 
-« Una sola cosa desidero, o Signore: cercarti! E per cercarti non mi vorrò mai fermare a cogliere i fiori che incon-
-trerò per via, ossia non mi fermerò mai a gustare i piaceri
-che mi si possono offrire in questa vita perchè mi distoglierebbero dal proseguire il mio cammino. Non porrò il mio
-cuore nelle ricchezze e nei beni che il mondo offre, nè ammetterò i diletti e i contenti della mia carne, nè mi fermerò
-nei gusti e nelle consolazioni del mio spirito, a fine di non
-essere trattenuto dal cercare te, Dio mio e amor mio, per i
-monti delle virtù e dei travagli. Fa', o Signore, che l’anima
-mia sia veramente innamorata di te, che stimi te più di ogni
-altra cosa e allora, confidando nel tuo amore e nel tuo aiuto,
-avrà la forza di gettare a terra tutte le affezioni naturali e
-gli appetiti sensitivi» (cfr. G.C. C. 3, 5-10).
+«Perché tanto travagliare per amore delle ricchezze? L'avidità del denaro impone fatiche, pericoli, logoramento, tribolazioni ed io, infelice, mi vi sottometto. Mi vi sottometto per avere di che riempire il forziere, e così perdo la tranquillità.
+
+«Ma Tu, che cosa mi comandi, o mio Dio? Di amarti. Amando l'oro, mi metto a cercarlo, senza poterlo trovare; ma chiunque cerchi te, Tu sei con lui. Vuoi l'onore, e forse non potrò conseguirlo; ma, chi ama te senza arrivare a te? Quale cosa più dolce di questo amore? Tu sei l'amor mio, Signore! Io t'amo col più fervido ardore, calpestando tutto ciò che mi alletta, risoluto di passar oltre» (S. Agostino).

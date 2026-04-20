@@ -1,58 +1,43 @@
-## 329 — FORGIVENESS
-*XXI Sunday after Pentecost*
+## 329 — APOSTOLIC IDEAL
 
 ### Presence of God
 
-O Lord, teach me to forgive generously, and be lavish with your forgiveness toward me.
+Kindle in me, Lord, flame of apostolate and nourish it with your love.
 
 ### Meditation
 
-1 — «The kingdom of heaven is likened to a king who would take account of his servants.» Today’s Gospel (Mt 18:23-35) alludes to the reckoning that one day all of us will be called to give; a grave thought that leads us, as last Sunday, to reflect on the state of our conscience.
+1. — As seed cannot put forth stalk that will bear new ear unless it first sinks roots into soil, so soul cannot bear fruits for apostolate unless it first puts down roots of serious interior life, by which it will draw from God Himself sap making it fruitful. Interior life is vital principle, strength, flame of apostolate.
 
-Yet as we continue reading the parable, the heart is consoled: God, represented under the figure of the king, shows Himself so good, so merciful and compassionate toward the poor servant who cannot pay his debt: He forgives him everything and lets him go free.
+Yet apostolate in turn can contribute to interior life, helping render it more generous and intense. When soul is seized by apostolic ideal, its very desire to win other souls to God urges it to engage with greater generosity in prayer, mortification, and exercise of virtues, precisely with aim of making itself more capable of fruitful apostolate.
 
-That servant’s debt was not small: ten thousand talents. But our debts toward God are far greater. They are not calculated in money, in silver or gold, but according to the price of our redemption, the most precious Blood of Jesus.
+Thus, while interior life is soul of apostolate, apostolate in turn is very powerful spring impelling soul to union with God, perfection, holiness. Apostolic ideal in itself awakens spiritual energies and generous holy life. Teresa of Jesus, moved by ardent desire to counterbalance great evil Protestant heresy was causing in her time, gave reform she began a mark of particular austerity and organized life of her daughters so as to engage them in continuous exercise of prayer, sacrifice, and self-giving for salvation of souls.
 
-Our debts are our sins, which needed to be washed in the Blood of a God. Debts that, in one form or another, and despite good will, we increase every day, if only by falls of fragility and weakness.
+System of life in Teresian Carmel — contemplative life of deep intensity — was born thus from great ideal of apostolate.
 
-Who at the end of the day can say he has contracted no new debt with God? If at life’s end God were to place before us the exact account of our deficit, we would find ourselves in a situation far more embarrassing than that of the servant in the parable.
+This same ideal has recently caused in Church a new state of life to arise, that of secular institutes, in which souls desiring to consecrate themselves to salvation of brethren commit themselves to live in world according to evangelical perfection. "Specific end [of apostolate] seems necessarily to have required and also created generic end [of perfection]" (Pius XII).
 
-But God is infinite goodness. He knows and pities our misery, and every time we present ourselves humbled before Him, acknowledging our wrongs, He immediately forgives us and absolves us of every debt.
+When apostolic ideal is alive and rightly understood, instead of recklessly throwing souls into action, it leads them to deeper interior life, total self-gift, holiness, because one must be sanctified to sanctify. "For them do I sanctify Myself" (Jn. 17:19).
 
-God is magnificent in forgiveness: He does not reproach us for faults already wept over, nor keep account of them any longer. His forgiveness is so great and so full that He not only cancels debts but even destroys their memory, as though they had never existed.
+2. — An interior life in which apostolic ideal does not shine can never be full and vigorous. This depends on nature of grace and charity, which are by themselves expansive and apostolic.
 
-It is enough for Him to see us repentant, and every wound, even the most gangrenous and repulsive, is healed and destroyed by the most precious Blood of Jesus. Christ’s Blood is like an infinite sea with power to wash and destroy the sins of all humanity, provided they are sincerely detested.
+Although grace adheres intimately and incommunicably to soul endowed with it, it benefits whole Christian community. Dogma of communion of saints tells us precisely that grace and holiness of one member of Christ redound to advantage of all other members.
 
-Every day, every moment, we can take the burden—more or less heavy—of our faults and infidelities and cast it into this ocean of grace and love, certain that no trace will remain.
+Likewise charity, inseparable companion of grace, is by nature expansive and, embracing God, embraces all creatures in God. It imprints on soul twofold impulse: toward God and toward neighbor. If one or other of these impulses is repressed, charity is suffocated in its essence.
 
-2 — But now comes the painful contrast. Returning home, that fortunate servant, who had been released from every debt, meets a fellow servant who owed him a hundred denarii, truly a tiny sum compared with the ten thousand talents forgiven him.
+This virtue develops and reaches maturity only when its two aspects are in full efficiency: love of God and love of neighbor. By excluding or diminishing fraternal charity, of which apostolate is highest expression, one inevitably diminishes love toward God as well.
 
-Yet he, treated with such pity, shows none to his fellow. He listens neither to pleas nor tears; rather, «he went and cast him into prison till he should pay the debt.»
+Therefore an interior life cold and indifferent to good of souls is necessarily diminished and shriveled, reduced to narrow and petty form of piety, often also egoistic. It has lost vital warmth, warmth of charity, and does not even deserve name of life.
 
-A moment ago we were moved by the master’s goodness; now we are indignant at the servant’s cruelty. And yet, though blushing, we must admit that just as the master’s goodness is the image of God’s mercy always ready to forgive, so the servant’s cruelty is the image of our hardness, our meanness in forgiving our neighbor.
+Where flame of apostolate is alive, however, one has interior life more vigorous than ever, capable of great generosity. Is it not true that sometimes desire for our own perfection is not enough to give us courage to accept certain sacrifices and renunciations so costly to nature? But when one thinks salvation of other souls may depend on our generosity, fidelity to grace, and immolation, then one can refuse nothing to Lord and finds strength to embrace even harshest and most painful things.
 
-Sadly, it is so: we who need God’s forgiveness even more than daily bread are so hard, so exacting toward others, so difficult in indulgence and pardon.
-
-What are the debts our neighbor may have toward us compared with those we have toward God? Certainly infinitely less than a few denarii compared with ten thousand talents, since it is an offense against a miserable creature versus an offense against God’s infinite majesty.
-
-But here is the contrast: God forgives, forgets, entirely cancels our grave debts, and does not cease to love and benefit us despite our continual infidelities. We, instead, only with great effort manage to forgive some small wrong, and even when forgiving we do not wholly forget, so that when occasion presents itself we are ready to reproach it.
-
-And what if our neighbor committed against us each day as many infidelities and indelicacies as we commit against God? Oh, how narrow and poor our forgiveness is!
-
-The parable recounts the punishment inflicted on the cruel servant: «Being angry, his lord delivered him to the torturers until he should pay all his debt.» Then comes the conclusion: «So also shall my heavenly Father do to you, if each one of you does not forgive his brother from the heart.»
-
-If we want God to be generous with us in forgiveness, we must be generous with ours toward neighbor. In the measure we forgive, we shall be forgiven. This is to say that we ourselves give God the exact measure of the mercy He is to use toward us.
+Thus apostolic ideal becomes powerful lever for personal sanctification, and soul, enriched by fervent interior life, can place at disposal of this ideal new energies and new fecundity.
 
 ### Colloquy
 
-«Who is there, O Lord, who is not your debtor? And who is there who does not have some brother as debtor? Therefore in your justice You have established that your rule of conduct toward me, your debtor, should be the one I follow toward him who is in debt to me.
+"O Lord, I have immense desires to serve You, and very lively is my sorrow in seeing myself incapable of realizing them. I would like to raise my voice to make everyone understand how important it is not to be content with little in your service, and to make known great treasures received from You when one disposes oneself to receive them.
 
-«Since I too have sinned—and how much!—I must be indulgent toward the one who asks my pardon. For the hour of prayer will come, and then I must say to You: “Forgive me, Lord, my debts.” And how? The condition is set by me; I myself fix the law: “forgive as I forgive.”
+"My God, I feel very great pain over loss of so many souls, especially those who by Baptism were already members of Church, and I greatly desire to labor for their salvation, so much so that I feel ready to endure a thousand deaths to free one alone from terrible torments of hell. How can one bear seeing a soul condemned forever and to eternal rigor of punishments? If we are moved with compassion for pains of this world, which after all have an end and always cease with death, how can we, O Lord, show ourselves indifferent before torments that will last forever, and before great number of souls devil drags with him to hell each day?
 
-«Two brief sayings, O Lord, You have made law in the Gospel: “forgive, and you shall be forgiven; give, and it shall be given to you.” Here is my prayer: I ask forgiveness of You for my sins, and You will that there be someone to whom I forgive.
+"Since You, my God, see sorrow I feel at sight of great number being lost, save at least one, Lord, at least one who may give light to many others. Not for me, Lord, who do not deserve it, but for merits of your Son. Behold, Lord, his wounds; and since He forgave those who made them, do You also forgive us.
 
-«The poor man asks bread from me; and what do I ask from You, if not Yourself, who said: “I am the living bread come down from heaven”?
-
-«I shall ask pardon, I shall forgive; I shall remit to others, and it shall be remitted to me; wishing to receive, I shall give, and it shall be given to me.
-
-«Is it hard for me to forgive one who offends me? I will have recourse to prayer. Instead of returning insults for insults, I will pray for the one who injures me. When I feel like answering him harshly, I will speak to You, Lord, in his favor. And then I will remember that You promise eternal life if I forgive my brother.»
+"My God, I want only your will. I am so submitted to it that I no longer desire to live more than to die. Yet, if it pleases You so, I desire to live in order to serve You a little more. If I could contribute in something to make You loved and praised by one soul even for short time, this would seem to me far more important than already being in glory" (St. Teresa of Jesus).

@@ -1,120 +1,23 @@
-## 126 — LA PAZIENZA
+## 50 — GESÙ PERSEGUITATO
 
-### Presenza di Dio
+*domenica di Passione*
 
-— O Gesù, Paziente divino e mansuetissimo, insegnami il segreto della vera pazienza.
+**Presenza di Dio.** — O Gesù, introducimi nel mistero della tua Passione, associami ad essa, affinché possa poi partecipare alla tua Risurrezione.
 
 ### Meditazione
 
-1 — La pazienza è la virtù che, per amore di Dio, ci fa
-accettare con generosità e con pace tutto quel che dispiace
-alla natura, senza lasciarci abbattere dalla tristezza che facilmente c’invade quando ci troviamo di fronte a cose
-spiacevoli.
+**1** — Oggi comincia il « tempo di Passione », tempo particolarmente consacrato al ricordo ed all'amorosa contemplazione dei dolori di Gesù. La croce e i quadri velati, la sospensione del *Gloria* nella Messa e nei responsori dell'Ufficio divino, l'assenza del Salmo « *Judica me* » all'inizio della Messa, sono tutti segni di lutto con cui la Chiesa commemora la Passione del Signore. Nelle lezioni dell'Ufficio divino, S. Leone Papa ci esorta a partecipare « alla Croce di Cristo, affinché facciamo anche noi qualche cosa che ci unisca a quel che Egli ha fatto per noi, come dice l'Apostolo: "se soffriamo con lui, saremo glorificati con lui" ». Non si tratta quindi solo di meditare i dolori di Gesù, ma di prendervi parte, di portare la sua Passione nel nostro cuore e nel nostro corpo (cfr. *II Cor.* 4, 10), perché solo così potremo partecipare ai frutti di essa. Ecco perché, nell'ufficiatura del tempo, la Chiesa ripete con maggiore insistenza l'invito: « allorché sentirete la voce del Signore, non vogliate chiudere i vostri cuori ». In questi giorni la voce del Signore si fa udire non per mezzo di parole, ma mediante l'eloquente testimonianza dei fatti, mediante il grande fatto della Passione, che è il mistero più convincente del suo infinito amore per noi. Apriamo dunque il nostro cuore alle sublimi lezioni della Passione: impariamo quanto ci ha amato e quanto non dobbiamo riamarlo; impariamo che anche a noi, se vogliamo seguirlo, è necessario patire, è necessario portare la croce con lui e dietro di lui. E nello stesso tempo apriamo il cuore alla più viva speranza perché nella Passione di Gesù è la nostra salvezza. S. Paolo nell'Epistola odierna *(Ebr.* 9, 11-15) ci presenta la figura maestosa di Cristo, Sommo Sacerdote che, « mediante il proprio sangue, è entrato una volta per sempre nel santuario [ossia nel cielo] ottenendoci una redenzione eterna ». La Passione di Gesù ci ha redenti, ci ha riaperto la casa del Padre; la Passione di Gesù è la ragione della nostra speranza.
 
-La pazienza è un aspetto particolare della virtù della
-fortezza la quale c’impedisce di deviare dal retto cammino
-per timore delle difficoltà che s'incontrano, Non c'è vita
-senza difficoltà, anzi, per coloro che vogliono intraprendere grandi cose, queste sono abitualmente maggiori e più
-frequenti. Le grandi opere; le grandi virtù, le virtù eroiche
-sbocciano sempre in mezzo alle difficoltà. Di fronte ad
-esse la fortezza ha un duplice atto: aggredire e sopportare. Molte difficoltà vanno superate e vinte con un
-atto di coraggio; altre invece è impossibile eliminarle e
-allora bisogna imparare a sopportarle, e questo è appunto
-il compito della pazienza. Compito arduo, perchè è più
-facile affrontare direttamente un ostacolo, che non sopportare contrarietà e sofferenze inevitabilmente connesse
-alla vita e che, con l’andar del tempo, tentano di fiaccare
-il nostro coraggio e di farci cadere nella tristezza,
+**2** — Nel Vangelo odierno *(Gv.* 8, 46-59) abbiamo un tratto delle serrate ostilità dei giudei, chiaro preludio della Passione di Gesù. Quei cuori induriti non vogliono in nessun modo ammettere la missione del Salvatore e s'industriano in mille maniere di controbattere i suoi insegnamenti, per denigrarlo di fronte al popolo, presentandolo come un mentitore, un indemoniato; infine, il loro livore giunge al punto che decidono di lapidarlo: « allora presero delle pietre per scagliargliele contro ». La morte di Gesù è già decretata dai giudei, ma, non essendo venuta l'ora fissata dal Padre, « Gesù si nascose e uscì dal tempio ».
 
-Solo fissando lo sguardo su Gesù, il Paziente divino,
-s'impara a esercitare la pazienza. Quando vediamo lui, venuto al mondo per salvarci, vivere fin dai primi istanti. della
-sua esistenza terrena in mezzo ai disagi, alle privazioni, alla
-povertà, e poi, alle incomprensioni, alle persecuzioni, fatto
-segno all’odio dei suoi stessi concittadini, calunniato, cercato a morte, tradito da un amico, processato e condannato
-come un malfattore, il nostro animo si scuote e comprende
+Questo brano evangelico ci permette di considerare la condotta di Gesù di fronte ai suoi persecutori: mansuetudine, zelo per le loro anime, disinteresse personale e totale abbandono in Dio. S. Gregorio Magno scrive: « Considerate, fratelli carissimi, la mansuetudine del Signore. Egli, che era venuto a rimettere i peccati, diceva: "Chi di voi mi convincerà di peccato?" Egli, che in virtù della sua divinità poteva giustificare i peccatori, non disdegna di mostrare col ragionamento che non è peccatore » *(BR.)*.
 
-
-che non possiamo essere suoi discepoli se non battendo il
-suo stesso cammino. Se Gesù, innocentissimo, ha tanto
-sopportato per amor nostro, non sapremo noi, peccatori e
-quindi meritevoli di sofferenza, sopportare qualche cosa
-per amor suo? Per quanto nella nostra vita ci possa essere
-da soffrire, sarà sempre ben poco, anzi un nulla di fronte
-alle infinite sofferenze di Gesù, perchè Gesù nella sua
-Passione non ha abbracciato il dolore di una sola vita o di
-molte vite umane, ma il dolore di tutta l'umanità.
-
-
-2 — Chi vuol diventare paziente deve anzitutto, di
-fronte ai motivi della sofferenza, avere un profondo sguardo di fede, che gli faccia comprendere come tutto ciò che
-accade nella vita è sempre permesso da Dio e unicamente
-per il suo bene. Molto spesso, è vero, la sofferenza, le difficoltà si presentano a noi attraverso cause seconde; ma, che
-cosa importa quando sappiamo che tutto ci viene dal nostro buon Padre Celeste, il quale si serve di queste circostanze penose proprio per farci diventare più virtuosi?
-Un’anima che vuol vivere unicamente di Dio non si ferma
-mai a considerare le cause umane delle sue sofferenze, ma
-di fronte ad esse ripete con semplicità: Dominus est! è il
-Signore! e tutto accetta dalle mani di lui.
-
-Questo però non impedisce che si senta il peso della
-sofferenza e che lo si senta profondamente — lo ha sentito
-anche Gesù nella sua agonia nell'orto — ma ci aiuta a
-non turbarci, a non perdere la pace e la serenità, a non
-perdere il dominio di noi stessi e quindi la pazienza.
-
-Si comincia ad esercitare la pazienza cercando di tollerare i disagi e le sofferenze quotidiane senza mormorare,
-ma con rassegnazione, sapendo che la divina Provvidenza
-non permette prova alcuna che non sia per noi fonte di
-bene. Agli inizi, ed anche per lungo tempo, l’anima sentirà
-molta ripugnanza per la sofferenza, tuttavia, se si sforza di
-abbracciarla bene — con costanza, con pace, con sottomissione al volere divino — un po’ alla volta, proprio attraverso questo esercizio tanto penoso, comincerà a speri-
-
-
-mentare il grande profitto spirituale che ne deriva, si sentirà infatti più distaccata dalle creature e da se stessa e più
-vicina a Dio. Spontaneamente allora giungerà a stimare la
-sofferenza e poi, sperimentandone sempre più la fecondità
-spirituale, finirà con l’amarla.
-
-Ma non bisogna farsi illusioni: l'amore alla sofferenza
-è il vertice della pazienza; è il frutto della pazienza perfetta; per giungere a queste altezze occorre cominciare
-da un esercizio assai più umile: accettare in pace, senza
-lamentarsi, tutto ciò che fa soffrire.
+Seguono le calunnie: « sei un samaritano e hai un demonio ». Il Maestro divino risponde, ma sempre mansueto e solo quel tanto che è necessario per testimoniare la verità: « Io non ho un demonio, ma onoro il Padre mio e voi mi vituperate ». Quanto al resto, affida la sua riputazione e la sua causa nelle mani di Dio: « Io non cerco la mia gloria; v'è chi la cerca e giudica ». E intanto, attraverso il dibattito, non cessa d'istruire e di illuminare le menti per cercare di strapparle all'errore; sempre noncurante di sé, pensa solo al bene delle anime. Così, proprio in questa penosa circostanza, Gesù ci dà preziosi insegnamenti: « Chi è da Dio, ascolta le parole di Dio. Se alcuno custodirà la mia parola, non vedrà la morte in eterno ». Dalla bocca del Maestro perseguitato raccogliamo questi moniti e conserviamoli nel nostro cuore con cura gelosa. Ancora oggi il mondo è pieno dei suoi nemici, di chi combatte la sua dottrina, di chi disprezza la sua Passione. Almeno noi crediamo in lui e siamogli amici fedeli.
 
 ### Colloquio
 
-O Gesù, per amor tuo e col tuo aiuto, voglio soffrire
-in pace tutte le contrarietà della vita. «I tuoi pensieri non
-sono i nostri pensieri, le tue vie non sono le nostre vie.
-Tu ci presenti alle volte un calice tanto amaro che appena
-Ja nostra natura può sopportarlo. Ma non voglio ritirare
-le labbra dal calice preparatomi dalla tua mano. Tu m'insegni il segreto di soffrire in pace. Chi dice pace non dice
-gioia, o almeno gioia sentita; per soffrire in pace basta
-volere tutto quello che Tu vuoi,
+« Sia lode a te, Dio misericordiosissimo che, essendo noi miseri, sbanditi, prigioni e condannati, hai voluto redimerci e rialzarci mediante la Passione, il dolore, il dispregio e la povertà del Figlio tuo. Io corro dunque alla tua Croce, o Cristo, al dolore, al dispregio e alla povertà e con tutte le mie forze desidero trasformarmi in te, o Dio-Uomo passionato, che tanto mi hai amato fino a voler patire una vergognosa e orrenda morte, e questo al solo fine di salvarmi e di darmi esempio a patire, per amor tuo, le avversità. È perfezione e vero segno di amore conformarmi a te, Crocifisso, che per le mie colpe hai voluto spietatamente morire, dandoti tutto in preda ai tormenti. O mio Dio passionato, solo leggendo nel libro della vita e morte tua mi sarà dato conoscerti e penetrare il tuo mistero. Concedimi dunque un profondo spirito di orazione, un'orazione devota, umile, attenta, fatta non solamente con la bocca, ma col cuore e con la mente per poter comprendere le lezioni della tua Passione!
 
-«Per essere tua sposa devo somigliarti; e Tu sei tutto
-sanguinante e coronato di spine. Tu vuoi rendermi simile
-a te; e perchè allora dovrò aver paura di non saper portare la croce senza cadere? Tu, sulla via del Calvario,
-sei caduto tre volte, e io, povera creatura, non vorrò
-esserti simile? Non vorrò cadere cento volte per provarti il mio amore, rialzandomi poi con più forza di
-prima dalla caduta?
+« In questo libro vedo la tua infinita bontà e pietà per cui hai preferito prendere sopra di te la nostra condanna, il nostro dispregio e dolore, anziché lasciar noi in così miserabile stato. Vedo la tua infinita bontà, diligenza e cura che hai avuto nel salvarci e ricondurci alla patria del cielo. Vedo l'infinita sapienza con la quale, in modo ineffabile, ci hai redenti, salvati ed esaltati per misericordia, senza fare alcuna ingiustizia alla giustizia. E così hai saputo fare che, mentre penosamente morivi, vivificavi tutte le cose e distruggevi la morte comune.
 
-«Quanto mi consola pensare che anche Tu, il Dio
-forte, hai conosciuto le nostre debolezze, hai tremato alla
-vista dell'amaro calice che altre volte avevi sì ardentemente bramato.
-
-«O Gesù, come costa talvolta darti quello che chiedi!
-Ma che felicità che costi! Lungi dal lamentarmi con te
-delle croci che mi dai, non posso comprendere l’amore
-
-
-infinito che ti ha mosso a trattarmi così. O Signore, non
-voglio lasciarmi sfuggire le prove che Tu mi mandi; esse
-sono miniere d’oro da sfruttare. Io, granello di sabbia, voglio mettermi all'opera senza gioia, senza coraggio, senza
-forza, e queste stesse impotenze mi faciliteranno l’impresa;
-voglio lavorare per amore.
-
-« Nonostante le prove che mi tolgono ogni consolazione, posso ripetere: Signore, con tutto ciò che Tu fai
-mi riempi di gioia, perchè può esserci gioia maggiore di
-quella che ci dà il patire per amor tuo? Più il dolore è intenso, meno apparisce agli occhi delle creature, e più ti fa
-sorridere, o mio Dio; ma se anche, per un caso impossibile,
-Tu pure dovessi ignorarlo, godrei tuttavia di soffrire,
-sperando di poter impedire o riparare, con le mie lacrime,
-anche un solo peccato » (T.B.G. Lt, 63, 57, 184, 59; St. 9).
+« Di più, nel libro della Croce vedo la tua infinita mansuetudine per la quale, essendo Tu maledetto, non maledicevi, né ti vendicavi, anzi perdonavi e acquistavi il cielo ai tuoi stessi crocifissori » (cfr. B. Angela da Foligno).

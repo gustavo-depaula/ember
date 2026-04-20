@@ -1,118 +1,23 @@
-## 99 — IL PECCATO VENIALE
+## 23 — LA CONVERSIONE
 
-### Presenza di Dio
+**Presenza di Dio.** — *O Signore, che mi hai creato per te, fa' che con tutte le mie forze io tenda a te, mio ultimo fine.*
 
 ### Meditazione
 
-1 — Benchè in materia più lieve, anche il peccato veniale, come quello mortale, va contro la volontà di Dio e
-quindi, pur non distruggendo la carità, va in direzione
-opposta ad essa, con conseguenza di diminuirne lo
-slancio, il vigore e di impedirne lo sviluppo. Questo è il
-disastroso 0 dei peccati veniali deliberati, ossia com-
-‘messi ad occhi aperti, pur sapendo di far cosa che dispiace
-a Dio.
+**1** — Oggi, nell'Epistola della Messa del tempo *(Ez.* 34, 11-16), leggiamo: « Così dice il Signore Dio: visiterò le mie pecore e le ritrarrò in salvo da tutti i luoghi ove erano state disperse nei giorni di nembo e di caligine... e le menerò nella loro terra e le pascolerò sui monti d'Israele... Nei più grassi pascoli le pascolerò ». È il programma di quanto il Signore vuol compiere a favore delle anime nostre in questo santo tempo quaresimale, per condurle ad una vita di maggior perfezione e di più profonda intimità con lui. Egli ci tende la mano non solo per cavarci dai pericoli, ma anche per aiutarci a salire verso quelle posizioni più elevate dove Egli stesso ci nutrirà.
 
-Tale specie di peccati veniali, quando sono commessi
-abitualmente, diminuiscono la tendenza dell'anima verso
-Dio e invece aumentano la tendenza verso la soddisfa
+Da parte tua, il punto di partenza, che renderà possibile l'attuazione di questo piano divino, è una nuova *conversione:* devi raccogliere le tue forze, i tuoi desideri, i tuoi affetti, che tanto facilmente si disperdono e si attardano nella valle dell'umano, per riunirli in un sol fascio e farli *convergere* tutti in Dio, tuo unico e ultimo fine. In questo senso la tua *conversione* quaresimale deve consistere in una generosa determinazione di metterti più decisamente in cammino verso la perfezione. In altre parole, si tratta di un rinnovato *proposito di santità.* Il desiderio della santità è la molla della vita spirituale; più questo desiderio sarà in te intenso e reale e più ti spingerà ad impegnarti totalmente. In questa prima settimana di quaresima, cerca di ridestare ed irrobustire il tuo proposito di santità. Se altri sforzi fatti in passato sono andati falliti o non hanno raggiunto pienamente lo scopo, non per questo devi scoraggiarti. « *Nunc coepi* » — ho cominciato adesso, anzi, comincio ora — ripeti umilmente, e l'esperienza dei tuoi insuccessi ti faccia riporre in Dio solo la tua fiducia.
 
+**2** — S. Tommaso insegna che « nel fine non si deve porre alcuna misura » *(IIa IIae,* q. 184, a. 3, co). La santità è il fine della vita spirituale, perciò devi proporla non in una forma diminuita, ridotta, ma in tutta la sua ampiezza. Ampiezza che ti parla di unione intima con Dio, di piena conformità alla volontà divina, sì che questa divenga l'unico movente di tutte le tue azioni, ampiezza che ti parla di piena invasione della grazia, perché quando l'anima si sarà totalmente purificata da tutto ciò che è contrario alla volontà di Dio « allora il Signore le comunicherà le sue soprannaturale, tanto da sembrare Dio stesso, ed ella possiederà quel che Dio possiede » (G.C. *S.* II, 5, 7). La santità è pienezza di amore e di grazia, è trasformazione in Dio per amore, è deificazione per grazia.
 
-' zione egoistica, verso le creature. E così, un po’ alla volta,
+A quale misura di amore e di grazia dovrai giungere? Questo dipende in primo luogo dai disegni di Dio sull'anima tua e poi dalla tua collaborazione. Ora, da parte tua, il segreto per giungere alla meta è di non fermarsi mai, anzitutto perché, per quanto ti cresca nell'amore, non potrai mai amare Dio quanto Egli è amabile e poi perché non sai a quale grado di santità Dio ti chiama. E del resto Dio non si lascia vincere in generosità e quanto più ti darai a lui nell'esercizio di un intenso amore, tanto più Egli si darà a te per grazia.
 
-
-l’anima perde il fervore, perde la sensibilità all’offesa di
-Dio e si riduce allo stato di tiepidezza, caratterizzato apunto da una certa indifferenza per il peccato veniale;
-indifferenza che la mette in pericolo di offendere Dio
-anche in materia grave. È in questo senso che il peccato
-veniale può essere paragonato ad una ‘malattia sottile, insidiosa — una specie di tubercolosi spirituale — che len-
-tamente, ma fatalmente, mina l'organismo. Non è raro il
-caso di anime che, datesi in principio a Dio con sincero
-fervore, col passare del tempo, cedendo all’egoismo, alla
-pigrizia, al proprio comodo, non sapendo imporsi sforzi
-generosi per procedere nel cammino intrapreso, si lasciano
-andare a continue negligenze, svogliatezze, omissioni volontarie, atti di pigrizia. La loro vita spirituale si riduce
-ad una specie di letargo che non è ancora la morte, ma
-che non ha più nulla della freschezza, del vigore di una
-vita sana e robusta. Manca il fervore della carità, spento
-da continue, deliberate condiscendenze al peccato veniale.
-S. Teresa di Gesù, mettendo in guardia da simile stato,
-insegna: « Quando non sentite alcuna pena per un difetto che vi succede di commettere, temete, perchè il
-peccato, sia pur veniale, vi deve penetrare di dolore fino
-al profondo dell’anima... Per amore di Dio, vegliate attentamente a non mai commettere un sol peccato veniale
-avvertito, ancorchè piccolo... E che cosa vi può mai essere
-di piccolo, nell’offesa di una Maestà così grande? » (P.2,
-5 e 20; Cam. 41, 3).
-
-
-2 — Ben diversi sono i peccati veniali che ci sfuggono per fragilità, per inavvertenza. Spesso l’anima non
-vorrebbe cedere a nessun costo, ma, poichè è ancora debole, al momento della tentazione, soprattutto se è colta
-di sorpresa, cade; tuttavia, appena se ne avvede, ne prova
-un sincero dolore, subito se ne pente, domanda perdono
-al Signore, si rialza e si mette di nuovo in cammino. Tali
-
-
-25 -. IL PECCATO VENIALE È cli
-
-
-peccati non portano gran danno all’anima, ma sono piuttosto indice della sua debolezza, della sua immaturità spi-
-rituale. Anzi, se di fronte a tali cadute l’anima sa umiliarsi sinceramente, ne ricava un vero vantaggio, e pre-
-cisamente una più profonda coscienza della sua miseria
-che la porterà a diffidare totalmente delle proprie forze,
-
-er riporre in Dio solo tutta la sua fiducia, Sperimenterà
-im pratica la grande realtà delle parole di Gesù: «Senza
-di me, non potete far nulla » (Gv. 15, 5). Non di rado il
-Signore permette simili cadute, appunto per dare all’anima questa conoscenza pratica del suo nulla, per fondarla
-seriamente nell’umiltà, che è la base di ogni vita spirituale.
-
-S. Teresa del Bambino Gesù, parlando di tali mancanze, credeva di poter asserire che «non fanno dispia-
-cere al Signore», appunto perchè non dipendono dalla
-cattiva volontà, che, ad occhi aperti e a mente fredda,
-commette il peccato, ma piuttosto dalla debolezza della
-matura umana.
-
-Se per la nostra debolezza è impossibile non cadere
-ogni giorno in RESE venialità di sorpresa o di fragilità,
-l'importante è di saperle subito detestare e riparare generosamente. Ma quanto ai peccati veniali avvertiti, l'anima
-deve essere ben decisa a non commetterne mai per tutto
-l'oro del mondo,
+La misura di amare Dio è di amarlo « senza misura »; ma se non devi porre misura nell'amore, non devi neppure porre misura nella *conversione.* « Dice il Signore: convertitevi a me di tutto cuore » *(Joel.* 2, 12): ecco la condizione indispensabile per amare Dio con tutto il cuore. Sono rari i casi in cui questa conversione totale si realizza in un istante per un particolare colpo di grazia; in genere non si arriva ad essa che attraverso una diuturna e progressiva conversione. E se nella conversione, come in tutta l'opera della santificazione, l'iniziativa è sempre di Dio che ti previene con la sua grazia, si richiede però la tua collaborazione; perciò ogni giorno devi applicarti con rinnovato impegno per « convertirti a Dio di tutto cuore ». Sia questo il tuo programma quaresimale.
 
 ### Colloquio
 
-«Peccavi, Domine, miserere mei! Perdona, Padre, perdona a me miserabile ingrata. Confesso che la tua bontà
-mi ha conservata tua sposa, benchè per i miei difetti
-‘sempre ti sia stata infedele. Peccavi, Domine, miserere mei.
-© anima mia, e che fai tu? Non sai che continuamente
-sei veduta da Dio? Sappi che all'occhio suo mai non ti
-puoi nascondere perchè niuna cosa gli è occulta... O Dio
-‘eterno, 0 pietoso e misericordioso Padre, abbi pietà e misericordia di noi, perocchè noi siamo ciechi e senza verun
+« O Signore dell'anima e mio unico Bene, perché non vuoi che appena l'anima si determina ad amarti e fa il possibile per staccarsi da tutto onde servirti, non abbia subito la consolazione di vedersi in possesso del vero amore perfetto? Ma ho detto male; dovevo dire lamentandomi: perché non lo voglio io? Sì, la colpa è mia se non arrivo subito a tanto onore!... Se riuscissi a conseguire perfettamente il tuo amore, avrei insieme ogni altra sorta di beni. Ma io, o Signore, sono così avaro e così lento nel darmi a te che non mi determino mai a mettermi nelle disposizioni per riceverlo... Se questo tesoro non mi vien dato tutto in una volta, è perché anch'io, o Signore, non mi do a te del tutto.
 
+« O mio Dio, concedimi la grande grazia di risolvermi e il coraggio di procurarmi questo bene con tutte le mie forze. Se vi persevero, Tu che non neghi a nessuno il tuo aiuto andrà: fortificando il mio coraggio sino a farmi uscire con vittoria. Sì, o Signore, ho bisogno di coraggio perché il demonio tenta distormi da questa via con un'infinità di ostacoli » (T.G. *Vi.* 11, 1-4).
 
-‘ PIMS IRENE ce
-
-
-lume è massimamente io, misera e miserabile... O Tu,
-vero sole, entra nell'anima mia e la illumina di te. Cacciane le tenebre e dalle luce; distruggi il gelo dell’amor
-proprio e infondi il fuoco della tua carità... Peccavi, Domine, miserere mei » (S. Caterina da Siena).
-
-«Ti piaccia, o Signore, che io tema soltanto la tua
-offesa, convincendomi che mi può venire gior danno
-da un sol peccato veniale deliberato che non da tutto
-l'inferno » (T.G. Vi. 25,20). Infatti, il vero male, l’unico
-che devo temere, non sono nè la tentazione, nè le prove,
-nè le contrarietà interne ed esterne, nè la perdita dei beni
-materiali o della salute corporale, ma il vero male è ciò che
-può ostacolare in qualsiasi modo la mia unione con te, mio
-sommo Bene! E questo male, lo comprendo, può essere
-causato da un solo peccato veniale deliberatamente commesso. O Gesù, te ne supplico, per i meriti della tua Pas-
-sione, liberami da tanto male, toglimi la triste capacità di
-offenderti e, se per la mia nativa debolezza mi è impossibile andare esente da ogni mancanza, fa’ che queste non
-siano mai frutto di cattivo volere. Fa” che le mie mancanze servano solo ad umiliarmi, senza mai offenderti.
-
-«Sì, per la mia miseria cado molto spesso, spesso mi
-lascio distrarre dalla mia unica occupazione, mi allontano
-da te, bagno le mie DEE ali, appena formate, nelle
-misere pozze d’acqua che incontro su questa terra! Gemo
-allora come la rondinella, ed il mio ito ti dice tutto,
-e Tu, Misericordia infinita, ti ricordi che non sei venuto
-a chiamare i giusti, ma i peccatori » (T.B.G. St. 11).
+Concedimi, o Signore Gesù, per i meriti infiniti della tua Passione, di convertirmi a te con tutto il mio cuore. Non permettere che mi lasci scoraggiare per il continuo rinascere delle mie tendenze egoistiche, per la lotta incessante che devo sostenere contro di esse. Fammi ben comprendere che, se voglio totalmente convertirmi a te, non devo mai far pace con le mie debolezze, con i miei difetti, col mio egoismo, col mio amor proprio. Fammi comprendere che tutto deve essere sacrificato al tuo amore e quando tutto avrò sacrificato dovrò dire ancora: sono un servo inutile, o Signore, perché ogni cosa è nulla in paragone con quanto meriti Tu, o infinitamente amabile!

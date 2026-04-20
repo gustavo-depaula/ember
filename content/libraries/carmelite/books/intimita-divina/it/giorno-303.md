@@ -1,112 +1,29 @@
-## 303 — BEATI COLORO CHE PIANGONO
+## XI — LE CARATTERISTICHE DELL'ANIMA CRISTIANA
 
-### Presenza di Dio
+*XVI Domenica dopo Pentecoste*
 
-Concedimi, o Signore, di versare solo lacrime che ti siano accette e mi aiutino a crescere nel tuo amore.
+**Presenza di Dio.** — Fa', o Signore, che l'anima mia sia ben radicata nella carità e nell'umiltà.
 
 ### Meditazione
 
-1. — Al dono della scienza corrisponde la beatitudine:
-«Beati coloro che piangono, perchè saranno consolati » (Mt,
-5, 5). Beati anzitutto coloro che, profondamente illuminati
-dallo Spirito Santo sul nulla delle creature, piangono il tem-
+**1** — L'Epistola che leggiamo nella Messa odierna è uno dei brani più belli delle lettere di S. Paolo. In essa troviamo il famoso augurio dell'Apostolo agli Efesini, che in tre battute riassume tutta la sostanza della vita interiore.
 
-trascorso in cerca di esse, le energie e gli affetti sprecati
-nelle vanità del mondo. Sono le lacrime roventi di P deo
-stino che nelle sue Confessioni non cessa di lamentarsi: «Tardi ti ho amato, o Bellezza sempre antica e sempre nuova, tar-
-di ti ho amato... Tu eri con me e io non ero con te; mi trattenevano lontano da te le creature ». Sono le lacrime della
-Maddalena penitente e di S. Pietro che piange il suo fallo.
-Lacrime benedette che lavano le anime dal peccato e le dispongono all'amicizia con Dio. Sono le lacrime delle anime
-già decise a cercare Dio al disopra di tutte le creature e che
-tuttavia, a motivo della loro fragilità, devono ogni giorno rimproverarsi qualche debolezza, qualche piccolo ritorno alle fu-
-tili soddisfazioni terrene. Il dono della scienza non ci permette
-di chiudere gli occhi sulle nostre infedeltà, benchè lievi, ma
-ci spinge a detestarle, a piangerle, se non con le lacrime materiali, con le lacrime della compunzione. Un'anima che vive
-sotto l'influsso di questo dono non sarà mai facilona, nè su)
-ficiale nei suoi esami di coscienza, e le sue confessioni, benchè serene, saranno sempre dolorose, sempre accompagnate
-da profonda contrizione. Tali erano le confessioni dei santi
-che col più vivo dolore si accusavano delle minime imper-
+«Il Padre del Signore nostro Gesù Cristo... dia a voi... di essere, per mezzo dello Spirito di lui, fortemente corroborati nell'uomo interiore». L'uomo interiore è lo spirito umano rigenerato dalla grazia, è l'uomo spirituale che ha rinunciato alle cose materiali ed ai piaceri dei sensi. Quest'uomo è in ciascuno di noi e deve essere forte per poter sostenere la lotta contro l'uomo animale che, purtroppo, finché siamo su questa terra, vive ancora in noi e tenta di trascinarci verso il basso. Giustamente l'Apostolo invoca questa fortezza dallo Spirito Santo, perché la fortezza della nostra virtù non è sufficiente se non viene corroborata da quella che lo Spirito Santo infonde in noi mediante i suoi doni.
 
+«E faccia sì che Cristo dimori nei vostri cuori per mezzo della fede». Cristo, col Padre e con lo Spirito Santo, abita già nell'anima in grazia, ma la sua presenza può divenire sempre più profonda. E, quanto più sarà profonda, tanto più l'anima verrà penetrata dalla divina carità, sì da essere veramente «radicata e fortificata» nell'amore. Se vogliamo crescere nell'amore dobbiamo tenerci in contatto con la fonte dell'amore, con Dio vivente nell'anima nostra.
 
-fezioni.
+«Siate resi capaci di comprendere... quest'amore di Cristo che sorpassa ogni scienza». Comprendere, per quanto è possibile alla nostra limitatezza, il mistero dell'amore di Dio è il culmine della vita spirituale. Il cristianesimo è tutto amore: noi siamo cristiani a misura che viviamo nell'amore, a misura che intendiamo l'amore di Dio. Eppure questo mistero ci lascia sempre un po' increduli, un po' scettici. Oh, se potessimo vedere, come lo vedono i beati, che Dio è carità e non vuol altro che carità; che la via per andare a lui è la via dell'amore; che la sofferenza, la mortificazione, l'umiltà non sono che mezzi per giungere all'amore perfetto, per corrispondere all'amore di Dio-carità! Allora saremmo davvero «ripieni di tutta la pienezza di Dio».
 
+**2** — S. Paolo nell'Epistola ci ha esortato ad essere radicati nella carità e nel Vangelo ci esorta ad essere radicati nell'amore e nell'umiltà.
 
-Lo Spirito Santo non vuole renderci scrupolosi, ma molto
-delicati nella nostra fedeltà a Dio, perciò non si accontenta
-che disprezziamo le vanità del mondo così all'ingrosso, ma
-vuole che le disprezziamo anche nelle loro più sottili manifestazioni quali sono le piccole rivincite dell’amor proprio, le
-minime compiacenze di sè, le piccole ricerche dell'affetto e
-della stima altrui. Beata l'anima che sa riconoscere e piangere tutte le sue miserie non già con lacrime di scoraggiamento
-o di turbamento, ma con lacrime di profonda contrizione che,
-anzichè restringerla nel timore, la dilatano nell'amore penitente e la buttano fra le braccia di Dio con un cuore rinno-
-vato nell'amore e nel dolore.
+Nonostante la tacita disapprovazione dei farisei, frutto della grettezza della loro mente e del loro cuore, Gesù guarisce in giorno di sabato un povero idropico e così c'insegna una volta di più la grande importanza dell'amore del prossimo. Invano penseremo di essere radicati nell'amore di Dio, se non lo fossimo anche nell'amore del prossimo. Come si può pensare che un atto di carità fraterna sia in opposizione con la legge della santificazione della festa? Sono queste le aberrazioni a cui si giunge quando si pretende di amare Dio badando solo ai propri interessi, senza alcun pensiero per le necessità altrui. Questo non è cristianesimo, ma fariseismo distruttore della carità.
 
-
-2, — Il dono della scienza, facendoci sperimentare a fondo la vanità delle creature, ci convince della loro inconsisten-
-za, defettibilità e quindi ci spinge a riporre in Dio tutte le nostre speranze. In questo senso tale dono perfeziona e rafforza
-la virtù della speranza affinchè, senza più esitare, il nostro
-cuore si ancori in Dio, riconoscendo in lui il nostro unico
-appoggio e fondamento, nonchè la nostra unica felicità.
-
-Più l'anima spera in Dio e nel possesso beatificante di lui
-che l’attende nella vita eterna e tanto più è disposta non solo
-a rinunciare alla felicità ed alle soddisfazioni che le possono
-offrire le creature, ma anche ad abbracciare tutti i sacrifici necessari per raggiungere la vita eterna. I sacrifici sono molti
-perchè non è possibile andare a Dio se non battendo la stessa
-via che il Figlio di Dio ha percorso per condurci a lui: la
-via della croce. Ma, pur soffrendo, l'anima che vive di speranza è capace di ripetere con S. Paolo: «Non ci scorag-
-giamo... poichè la momentanea e leggera tribolazione nostra
-
-opera in noi oltre ogni misura uno smisurato peso di gloria » (II Cor. 4, 16 e 17). Il dono della scienza ci fa giudicare
-lievi i dolori presenti in confronto alla beatitudine eterna e in
-vista di questa ci spinge a benedirli anche se ci costano sangue. Ecco perchè l’Apostolo si rallegra e si vanta nelle sue
-tribolazioni (cfr. Rom. 5, 3-5) e S. Francesco d'Assisi canta:
-
-
-« Tanto è il bene che m'aspetto che ogni pena mi è diletto ».
-
-Proprio così, sotto l'influsso del dono della scienza, l’anima comprende la beatitudine delle lacrime, ossia la beati-
-tudine delle sofferenze abbracciate per amor di Dio. Questo
-dono non ci rende insensibili ai dolori fisici e morali, tanto
-è vero che la beatitudine parla espressamente di «lacrime»,
-ma; benchè non c'impedisca di piangere, santifica il nostro
-pianto e lo rende pianto rassegnato alla volontà di Dio, apprezzato come mezzo di assimilazione a Cristo Crocifisso,
-pianto preferito alle gioie vane del mondo. Quale differenza
-tra queste lacrime e quelle versate per orgoglio, per non volersi sottomettere alla volontà divina o per i capricciosi risen-
-timenti dell’amor proprio!
-
-Quando l’anima è arrivata al punto di preferire le lacrime
-sante versate ai piedi della Croce ai godimenti terreni può
-sperare nella beatitudine promessa da Gesù: « Beati coloro
-che piangono, perchè saranno consolati ».
+Per essere radicati nell'amore, bisogna esserlo anche nell'umiltà, perché solo chi è umile è capace di amare davvero Dio e il prossimo. Ecco, dunque, che il Vangelo prosegue con una lezione pratica di umiltà condannando la caccia ai primi posti; e non dobbiamo intendere che ciò valga solo per i posti materiali, bensì anche per quelli morali, ossia per quei posti che il nostro orgoglio pretende di occupare nella stima e nella considerazione altrui. È un fatto umiliante constatare come il nostro io tenta sempre di farci prendere un posto più elevato di quello che ci conviene e ciò con nostro smacco «perché chiunque si innalza sarà umiliato». «Andiamo all'ultimo posto — dice S. Bernardo — Non vi è nessun danno ad umiliarci ed a crederci inferiori di quello che siamo in realtà. Ma è un danno terribile ed un male assai grande volerci innalzare, anche di un sol pollice, al di sopra di quel che siamo e preferirci sia pure ad uno solo. Come nel passare sotto una porta troppo bassa, non nuoce inchinarsi troppo, ma nuoce moltissimo sollevarsi di un dito di più dell'altezza del trave perché ci urta e ci si ferisce la testa, così non dobbiamo aver paura di umiliarci troppo, ma dobbiamo temere ed aborrire il più piccolo movimento di presunzione». Chiediamo perciò al Signore, come l'hanno chiesto i santi, di mandarci una umiliazione tutte le volte che il nostro orgoglio tenterà d'innalzarci al di sopra degli altri; sarà questo il mezzo più sicuro per radicarci nell'umiltà. Radicati nell'umiltà, lo saremo anche nella carità e così possiederemo le due caratteristiche fondamentali dell'anima cristiana.
 
 ### Colloquio
 
-« O Signore, la pace che Tu ci dai in questo mondo è piena d'affanni, di tribolazioni e persecuzioni; ma poi ci conduci
-ad una quieta e tranquilla pace, anzi dirò di più, in mezzo
-agli stessi affanni ci dai la tua pace, perchè finalmente lo
-Spirito ci rende in qualche modo testimonianza che siamo
-figli tuoi. Questo vuol dire: “Beati coloro che piangono, perchè saranno consolati’. Non solo ci consolerai in avvenire,
-ma fai sì che lo stesso pianto sia nostra consolazione e la
-stessa guerra sia pace. Chi ti ama, o Signore, nel più ardente
-fuoco delle tribolazioni trova il vento fresco e la rugiada della
-celeste consolazione! s (S. M. Maddalena de’ Pazzi).
+«Accresci, o Signore, la mia fede nell'amor tuo affinché possa dirti con tutta verità: 'ho conosciuto l'amore che hai per me e vi ho creduto'. Mi pare che questo sia l'atto più grande della nostra fede, il modo più bello di renderti amore per amore, il 'segreto nascosto' di cui parla S. Paolo, segreto che la mia anima è ansiosa di penetrare e, penetrandolo, trasalisce di gioia. O Signore, rendimi capace di credere al tuo amore eccessivo per me. Allora non mi arresterò più ai gusti, ai sentimenti, poco mi importerà di sentirti o di non sentirti, di ricevere da te la gioia o il dolore: crederò al tuo amore e basta.
 
-«Dio mio, sii benedetto che non ci hai chiesto per
-prezzo del tuo Regno una attesa lunga, ma brevissima,
-breve quanto la vita, un momento di fronte all’eternità della
-beatitudine! E certo, se fosse stato necessario sopportare per
-amor tuo, durante centinaia di migliaia di anni, dolori mille
-volte più aspri, più duri e penosi, noi avremmo dovuto lo
-stesso, con immensa gioia, con immenso desiderio, accettare
-tal decreto e renderti grazie a mani giunte, a ginocchia piegate Quanto più, dunque, dobbiamo ringraziarti ora che, nel-
-la tua misericordia, ci hai concesso la sofferenza più breve
-che sia possibile, la sofferenza breve quanto la vita! Breve
-cioè, quanto un istante, quanto un niente, Niente è la vita
-di fronte all’eternità.
+«Fa', o Dio, che l'anima mia penetri nella tua profondità e quivi dimori radicata e fondata nell'amore.
 
-«Venite adunque, venite o figli di Dio, e corriamo alla
-croce di Cristo, al dolore, al disprezzo, alla povertà! Fa', o Signore, che io ti ami come Tu mi hai amato, con assoluta fe-
-deltà, con purezza assoluta, con l'amore assoluto che nulla serba per sè, che tutto si dona e perciò si slancia ai dolori; alle
-sofferenze e in tutto non vede e non sente che amore» (Beata
-Angela da Foligno).
+«O Signore, quando considero nel mio intimo la tua immensità, la tua fedeltà, le tue prove d'amore, i tuoi benefici e poi guardo me stessa e vedo i miei attentati verso di te, non posso fare altro che rivolgermi all'anima mia con un profondo senso di disprezzo e tuttavia questo disprezzo non è sufficiente a mettermi in basso come vorrei. O Signore, immergimi Tu nell'umiltà! Mi sembra che essere immersi nell'umiltà sia essere immersi in te, giacché, vivendo in te che sei la Verità, è impossibile non conoscere il proprio nulla. L'anima umile è il recipiente che ci vuole, è l'anfora capace di ricevere la tua grazia e solo in essa Tu vuoi versarla. Fa', dunque, o Signore, che io sia umile e fammi comprendere che mai l'umile metterà te abbastanza in alto e se stesso abbastanza in basso» (cfr. E.T. I, 6; II, 8; I, 9).

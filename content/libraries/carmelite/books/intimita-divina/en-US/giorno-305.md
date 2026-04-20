@@ -1,41 +1,39 @@
-## 305 — THE GIFT OF UNDERSTANDING
+## 305 — SPIRITUAL PROGRESS
 
 ### Presence of God
 
-Come, Spirit of understanding, enlighten me!
+O Lord, grant me to progress each day on the path of holiness, never growing weary and never turning back.
 
 ### Meditation
 
-1. — In our journey toward God we find difficulties not only from creatures trying to hinder our steps, but also because of impenetrability of divine mysteries. And as, to help us overcome the first, Holy Spirit comes to our aid with gift of knowledge, so to help us overcome the second He comes with gift of understanding.
+1. — "Be holy, for I am holy" (Lev. 19:2): this is God's will, this is our vocation, this is the object of our desires and efforts. Created in God's likeness, we do not want his image in us clouded by defects and passions; we want it to shine clear and pure, reflecting as much as possible his holiness.
 
-Our intelligence is incapable of grasping infinite. Though invested by faith, its mode of understanding remains human mode proceeding through ideas and limited concepts, absolutely insufficient to express divine realities. Revelation itself reaches us by means of human words and therefore cannot manifest what God is in Himself, cannot reveal intimate essence of revealed truths.
+To make us like Himself, God infused in our soul, together with grace, theological and moral virtues whose very purpose is to copy in us something of his infinite perfections. And He, who as Father loves to find in his children traits of his likeness, ardently desires to see us grow in virtues.
 
-Proceeding only with virtue of faith, we are constrained, so to speak, to remain at surface of divine mysteries: we know with certainty they have been revealed by God, we adhere to them with all strength, and yet cannot penetrate them. But what faith cannot do by itself it will do with help of gift of understanding.
+"The soul," says St. John of the Cross, "cannot practice and acquire virtues by itself without God's help, nor does God infuse them and make them grow in the soul without it" (Canticle, adapted). Indeed, although in Baptism God infused virtues in us without any merit of ours, He does not make them grow without our cooperation. It belongs to us — always aided by grace — to put into practice the virtuous principles He has given us. Only thus shall we acquire good habits and perform virtuous acts with ease.
 
-This gift goes beyond our human mode of understanding and enlightens us in divine manner. It makes us *intus legere*, that is, "read within" divine mysteries with light and intelligence of Holy Spirit Himself.
+Therefore, if we want to cooperate with God's action that seeks to make us like Himself, we must apply ourselves with great commitment to the exercise of virtues. We will apply ourselves first to the virtue we recognize as most necessary to correct our defects and conquer our dominant passion. We will make it the particular object of our resolutions, examinations of conscience, and reports to our spiritual director.
 
-It is rapid and deep penetration adding nothing new to data of Revelation, but making us grasp inner meaning of revealed truths. Gift of understanding, so to speak, tears open wrapping of propositions and human concepts and allows us to cast a gaze into substance of divine mysteries. Faith tells us God is Trinity. Gift of understanding says nothing more, does not make us see nor explain this mystery, but makes us penetrate it.
+We must not think this exercise is reserved to beginners, because "the obligation to progress in the love of God — and therefore in all other virtues — lasts until death" (St. Francis de Sales). No one, however advanced in spiritual ways, can consider himself exempt from practicing virtue.
 
-Under influence of this gift, soul not only believes God is One and Triune, but intuits Trinitarian mystery is essential to divine nature and is that which more than all others reveals God's perfection, power, and infinite love.
+2. — St. Teresa of Jesus, while describing heights of union with God, repeatedly digresses to strongly recommend the exercise of virtues. "It is necessary," she writes to her daughters, "that you do not place your foundation only in praying and contemplating; for if you do not strive to acquire virtues and practice them, you will always remain dwarfs" (Interior Castle VII, 4, 9). Elsewhere she says explicitly that by virtues one can "make great progress in serving God even without being great contemplatives, whereas without virtues no one can do so" (Way 4, 3).
 
-2. — Only Holy Spirit, who is God, can make us penetrate divine mysteries. St. Paul says it explicitly: "The things that eye hath not seen, nor ear heard ... to us God hath revealed by his Spirit. For the Spirit searches all things, yea, the deep things of God ... the things that are of God no man knows but the Spirit of God. Now we have received not spirit of this world, but Spirit that is of God, that we may know the things that are given us from God" (1 Cor. 2:9-12).
+Whether God leads us or not by the path of high contemplation is not essential for becoming saints and, moreover, does not depend on our will. But what is essential — and this depends on us — is always the practice of virtue. Whether God wills us in family life or dedicated to a profession, whether He calls us to apostolate or contemplative life, in every case we become holy only in proportion as we are virtuous.
 
-This is marvelous action Holy Spirit performs in us through gift of understanding. To souls united with Him by love He communicates participation in his knowledge of divine mysteries. Therefore it is clear: the more united we are to Holy Spirit by perfect charity, the more apt we are to receive this precious communication.
+The more we apply ourselves to practicing virtues, the more their practice becomes easy and almost connatural. But to reach this ease, characteristic of mature virtue, we must have courage to persevere long in struggle against our defects and in effort to acquire contrary habits. Yet we shall never attain perfect virtue, still less heroic virtue, without help of the Holy Spirit's gifts, whose very office is to perfect virtues.
 
-Then gift of understanding will not remain inoperative in us, but will intervene with its light to illumine our studies and meditations on things of God, making us penetrate their depth, grasp intimate sense of sacred texts, and receive exact understanding of divine commandments and counsels.
-
-Thus Holy Spirit introduces soul into prayer more simple and deep. Mind no longer needs to reason and seek convincing motives, but under illuminating touch of Holy Spirit it stops and fixes gaze in truth. This simple contemplative gaze reveals God to it more than any theological study. It feels itself sinking into divine, senses a bottomless abyss in which it delights to immerse itself. It does not see, distinguish, or know how to say anything precise, but it senses God, senses it is in contact with Him.
-
-What difference in understanding same mystery when we meditate it purely in light of faith and when we receive grace to penetrate it with light from gift of understanding! Then we no longer look at it from outside but from within; we no longer stop at verbal expression containing it, but penetrate secret hidden behind formula.
+While it belongs to us to put virtues into act, only God can put gifts into act; however, He ordinarily does so in proportion to our commitment in exercising virtues. Assiduous practice of virtues opens our soul wide to God's action, making it apt to receive and follow motions of the Holy Spirit. Let us therefore give ourselves generously to this exercise. The Holy Spirit will not delay in coming to meet us with his gifts, and we shall advance rapidly toward perfect virtue, heroic virtue, toward holiness.
 
 ### Colloquy
 
-Come, O Holy Spirit, come Divine Light!
+"O Lord, You said, 'Be holy, for I am holy.' This, it seems to me, is the same will You had from the day of creation when You declared: 'Let us make man in our image and likeness.' It is always your same desire to associate your creature with Yourself, to identify it with You. How can we better satisfy this desire than by remaining simply and lovingly turned toward You, so that You may reflect your image in us as the sun is reflected through a clear crystal?
 
-"O Light no other light has seen, light that darkens every other light, light from which every light derives, light compared with which every light is darkness and every brightness obscurity; supreme light, not dimmed by blindness, not clouded by mist, not darkened by shadows, light hindered by no obstacle, not divided by any shade, light that illumines all things together and always: absorb me in ocean of your clarity so that I may see You in You, and myself in You, and all things beneath You" (St. Augustine).
+"But to mirror your perfections it is necessary to strip off the old man and clothe ourselves with the new man, created by You in justice and holiness. Here is the traced road: we need only strip ourselves in order to walk it according to your divine intention. Help me, then, to strip myself, to die to myself, to lose sight of myself" (Elizabeth of the Trinity).
 
-"How can I approach You, O Holy Spirit? You dwell in inaccessible light, and You Yourself are only light, knowledge, and splendor; while I dwell in place of darkness and I myself am only ignorance and roughness.
+Help me, O Lord, to fight my defects so as to strip off the old man; help me to practice virtues so as to put on the new man. Splendor of works and fame of a great name are worth little before You; practice of virtue is worth much.
 
-"Meanwhile, O divine Spirit, I invoke You with confidence to be enlightened by You. Uncover divine greatnesses and mysteries so I may adore and acknowledge them. Uncover snares of devil and world so I may avoid them and never fall into them. Uncover also my miseries and weaknesses, my errors, prejudices, obstinacies, artifices of self-love so I may hate and correct them.
+"You prefer to see in me the least degree of purity of conscience to all the works I could do.
 
-"But, O beneficent Light, enlighten above all my soul, that it may know what You want of me. Grant that I learn well all enchantment of your attractions and your grace, and all I must do to merit beneficent influences of your goodness, so I may correspond to them with full fidelity. Sustain me that I may be faithful to You until death" (Fr. Aurillon).
+"You prefer in me the smallest degree of obedience to all the services I think I render You.
+
+"You value more one desire of suffering for love of You than all the spiritual consolations I might have" (St. John of the Cross).

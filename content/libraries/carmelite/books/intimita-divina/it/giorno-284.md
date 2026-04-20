@@ -1,98 +1,19 @@
-## 284 — FORTEZZA E PAZIENZA
+## XXIII — FAME E SETE DI GIUSTIZIA
 
-### Presenza di Dio
-
-Insegnami, o Signore, a sopportare con fermezza e pazienza ciò che mi fa soffrire.
+**Presenza di Dio.** — *Dammi, o Gesù, un desiderio profondo ed efficace di giustizia, affinché possa avvicinarmi a te, giustizia infinita.*
 
 ### Meditazione
 
-1. — Benchè, per affrontare ed intraprendere cose difficili ci voglia del coraggio, ce ne vuole ancora di più per sop-
-portarle, soprattutto quando si tratta di cose penose che durano a lungo e non si possono nè evitare, nè cambiare. Pro-
-prio in questo senso S. Tommaso insegna che l'atto principale della fortezza non è aggredire, ma star fermi nei peri-
-coli e sostenere con animo virile le lotte, le contrarietà, i
-disagi, le persecuzioni.
+**1** — «Beati quelli che hanno fame e sete della giustizia» *(Mt.* 5, 6), ha detto Gesù e intendeva parlare di quella giustizia generale che inclina l'uomo a vivere in perfetto accordo con la volontà divina, sì che questa santa volontà sia da lui bramata come il nutrimento unico ed indispensabile della sua vita spirituale. Tuttavia si possono applicare queste parole anche alla virtù particolare della giustizia senza la quale, del resto, non vi potrà mai essere accordo con la volontà di Dio e quindi non vi potrà mai essere santità. Se vuoi vivere unito a Dio, che è giustizia infinita, devi essere affamato e assetato di giustizia in tutte le tue azioni, in tutti i tuoi rapporti col prossimo. La fame e la sete indicano delle necessità impellenti che non possono essere soffocate: è questione di vita o di morte. Come il cibo e la bevanda sono assolutamente indispensabili per la vita del corpo, così la giustizia è assolutamente indispensabile per una vita virtuosa e i suoi doveri sono così essenziali che nessun motivo può esimerci dall'adempierli. Se un atto di carità verso il prossimo c'imponesse un grave disturbo o un notevole danno, non saremmo obbligati a compierlo, ma il medesimo disturbo o danno non potranno mai dispensarci dal soddisfare un dovere di giustizia verso gli altri; motivi seri potranno talvolta autorizzarci a rimandarne l'adempimento, ma l'obbligo resterà sempre e, quand'anche fossimo impediti dall'assolverlo materialmente, dovremo supplirvi almeno moralmente. È quindi appropriato parlare di *fame* e di *sete* della giustizia, non già nel senso di rivendicare i nostri diritti, ma nel senso di coltivare in noi un desiderio così vivo, un bisogno così impellente di giustizia in tutti i nostri rapporti con gli altri, da non sentirci soddisfatti finché non avremo adempito fino in fondo tutti i doveri derivanti da questa virtù.
 
-Nella vita spirituale non incontriamo solo difficoltà che
-con un bell’atto di coraggio possiamo superare e vincere una
-volta per sempre, ma incontriamo — e con frequenza molto
-maggiore — cose difficili e penose cui è impossibile sottrarci e che, volere o no, dobbiamo subire. Sono mali fisici che
-ci logorano e c'impediscono di espandere come vorremmo la
-nostra attività; sono dolori morali derivanti da lacune del
+**2** — Anche la giustizia, come tutte le altre virtù, ha i suoi acerrimi nemici nelle nostre passioni e nell'egoismo. L'egoismo non abbastanza mortificato e vinto, trova sempre il modo di far apparire troppo pesanti certi doveri imposti dalla giustizia e di escogitare pretesti e scappatoie per esimersene. Altre volte l'egoismo, oltre essere attaccato ai propri interessi e diritti, prende il particolare aspetto della gelosia e anche in questo caso è causa d'ingiustizie. Chi è geloso o, peggio, invidioso è quasi inconsciamente portato a diminuire i meriti degli altri, a criticare e a trovare sempre difettoso il loro modo di agire e così viene ad intaccare la stima di cui essi dovrebbero giustamente godere presso i superiori, gli uguali o gli inferiori. Tutto ciò è contrario non solo alla carità, ma anche alla giustizia.
 
-
-nostro temperamento, dal contatto con persone che ci contrastano o non ci comprendono, oppure dalla pena di ve-
-der soffrire coloro che ci sono cari senza poterli sollevare, dalla lontananza di amici, dalla solitudine tei cuore; sono pene
-spirituali dovute alle aridità, alle oscurità interiori, alla stanchezza dello spirito, alle tentazioni, agli scrupoli; e poi ci
-sono ancora tutti i disagi, le fatiche, le difficoltà inerenti all'adempimento del dovere quotidiano. Sappiamo che tutto
-questo è disposto da Dio per la nostra santificazione, per il
-nostro bene, ma ciò non toglie che ne sentiamo il peso: soffrire non è mai piacevole e, pur volendo accettare tutto per
-amor di Dio, talvolta sorge in noi la tentazione di reagire, di
-buttar via tutto, di sottrarci al giogo, oppure ci sentiamo opressi dalla tristezza e dallo scoraggiamento. Il rimedio qua-
-è? E° quello stesso che indicava Gesù agli Apostoli dopo aver
-loro annunciato le persecuzioni cui sarebbero andati incontro: «in patientia vestra possidebitis animas vestras»; gua-
-dagnerete le anime vostre con la pazienza (Lc. 21,19). La
-pazienza è appunto la virtù che ci permette di vivere in stato di sofferenza, di disagio, di privazione senza perdere la
-serenità, che ci permette di mantenerci saldi in mezzo alle
-tempeste, alle contraddizioni, ai pericoli, senza irritarci, senza avvilirci, nè deflettere.
-
-
-2. — La pazienza cristiana non è la rassegnazione forzata del fatalista o del filosofo che si sottomette al dolore per
-chè sa di non poterlo sfuggire, non è neppure l’atteggiamento di colui che subisce perchè è incapace di reagire per man-
-canza di forze e di risorse, ma è accettazione volontaria del
-dolore in vista di Dio e della beatitudine eterna, accettazione sostenuta dalla consapevolezza che la sofferenza è assolu-
-tamente necessaria per purificarsi dal peccato, per espiare le
-proprie colpe, per disporsi all'incontro con Dio. La pazienza
-cristiana ci spinge anzitutto ad accettare il dolore con serenità e poi, un po' alla volta, ci porta a stimarlo e ad amarlo,
-non perchè vi in esso il fine della vita, ma perchè lo ri-
-
-
-conosce mezzo indispensabile per raggiungere il fine. Il fine
-è l'amore, è l’unione con Dio. Ma se Gesù, per accendere in noi
-Ja fiamma della carità e per ristabilire i rapporti di amicizia
-fra noi e Dio, ha voluto vivere una vita di martirio ed è morto in croce, come pretenderemo noi di arrivare alla pienezza
-dell'amore e all'intimità divina, senza seguire la stessa via
-battuta da lui? « Poichè Cristo ha sofferto nella carne, anche
-voi armatevi dello stesso pensiero», grida S. Pietro (I, 4,1),
-ossia anche noi abbracciamo il patire con gli stessi sentimenti
-con cui l’ha abbracciato Gesù: fare la volontà del Padre celeste, espiare il peccato, dargli prova di amore.
-
-La pazienza cristiana non include, quindi, solo un atteggiamento passivo di fronte al dolore, ma anche un atteg-
-giamento attivo, volontario, che è il più importante ed è appunto quello che la rende meritoria. L'uomo paziente è pas-
-sivo perchè lo vuol essere, perchè usa della sua volontà libera per assoggettarsi a tutte le sofferenze che incontra sul
-suo cammino, perchè curva volontariamente le spalle sotto
-il giogo del dolore, come Gesù ha curvato le sue sotto il Lia
-della croce perchè lo ha voluto « quia ipse voluit » (Is. 53,7).
-Il cristiano non è un cireneo forzato ma un cireneo volontario, non nel senso che vada spontaneamente in cerca del
-dolore — cosa che non è alla portata di tutti e, talvolta, potrebbe anche essere imprudente — ma nel senso più mode-
-sto che accetta volontariamente tutto il dolore che incontra
-sul suo cammino, riconoscendo in esso la croce offertagli da
-Dio per la sua santificazione.
+Altra fonte di ingiustizie sono le parzialità, le preferenze per qualche individuo in particolare a danno di altri che hanno diritti identici e non è raro che questo modo di procedere si mascheri sotto l'aspetto di carità. Ma non si può parlare di carità quando per favorire, sostenere una persona o per essere con lei maggiormente liberali, si manca di giustizia verso gli altri e talvolta, forse, verso una comunità intera. Un'anima che ha fame e sete della giustizia vigilerà attentamente su se stessa per impedire che s'insinui nella sua condotta qualsiasi difetto di questo genere, sia pure in forma lieve. Finché in noi ci sono le passioni — e ci saranno sempre — abbiamo motivo di temere di noi stessi e dobbiamo essere diligenti nell'esaminare i moventi delle nostre azioni. Occorre un grande amore per la giustizia, per la verità, per il bene comune, occorre molta rettitudine per smascherare tutte quelle passioncelle che possono farci deviare, sia pure per poco, dalla via della giustizia. Specchiamo la nostra giustizia nella Giustizia infinita e troveremo sempre qualcosa da correggere, da migliorare. «Felice chi osserva il diritto e pratica la giustizia in ogni tempo» canta il salmista, perché «i retti vedranno il volto di Dio» *(Sal.* 105, 3; 10, 7). Il desiderio di unirci a Dio, Giustizia infinita, ci spinga ad una pratica sempre più perfetta di questa virtù.
 
 ### Colloquio
 
-« O Gesù, l'ufficio delle anime che ammetti alla tua intimità è quello di patire con te, di portare alta la croce, senza
-lasciarsela sfuggire di mano, nonostante i pericoli in cui si
-trovano e senza mai mostrare nel patire la minima debolezza.
+«O Signore, accresci in me la fame e la sete della giustizia affinché compia con amore tutti i doveri che sono di giustizia e di obbligo verso te e verso il prossimo, senza trascurarne nessuno ed eseguendoli tutti volentieri, anche se spiacevoli alla natura. Questa fame mi spinga a progredire di più in più nelle virtù, ritenendo sempre poco quello che ho già conseguito e molto quel che ancora mi manca. Questa fame e questa sete mi spingano con grande ardore ai santi sacramenti e specialmente al Sacramento dell'altare per cibarmi di te, o Gesù, che sei la mia giustizia.
 
-«Mi hai fatto così bene intendere, o Signore, la grande
-utilità delle persecuzioni e dei patimenti sofferti per amor
-tuo, che ora non posso fare a meno di amare il sacrificio.
+«O Gesù, Tu avesti tanta fame della giustizia da non avvertire la fame corporale e così, stando una volta molto stanco e bisognoso di ristoro, dicesti ai tuoi discepoli: "Il mio cibo è fare la volontà di Colui che mi ha mandato"; e ne avesti una sete così ardente da desiderare con viva ansia di accostare le labbra al calice amarissimo della tua Passione sì che dicesti: "lo devo essere ancora battezzato con un battesimo e come sono angustiato finché esso non si compia!".
 
-
-Tale è la via che Tu hai battuto e tale deve essere pur quella che devono battere coloro che intendono seguirti, se non
-vogliono perdersi. Ma benedette croci che vengono abbondantemente ripagate fin da questa vita!
-
-«In qual modo, o Gesù mio, mi potresti mostrare maggior amore se non volendo per me quello che hai voluto
-per teò DIGA
-
-«O morire, o patire: ecco quale deve essere il mio desiderio» (T.G. Cam. 18, 5; Vi. 33,4; 11,5).
-
-«O Cristo crocifisso, Tu mi basti, con te voglio soffrire
-e riposare! Fa' che, crocifisso interiormente ed esteriormente
-con te, possa vivere nella pienezza e soddisfazione dell'anima
-mia, però nella pazienza.
-
-«Insegnami a stimare molto i patimenti ed a considerarli ben poca cosa per entrare nelle tue grazie, o Signore,
-che non hai dubitato di morire per me. O mio Amato, ogni
-cosa aspra e gravosa la voglio per me; tutto ciò che è soave
-e delizioso per te!» (G.C. PA. 13, 8, 15, 52).
+«O amato mio Redentore, infiammami col fuoco del tuo amore, donde procede questa fame e questa sete, affinché io sempre l'abbia del tuo servizio, come Tu l'avesti del mio riscatto» (cfr. Ven. L. Da Ponte).

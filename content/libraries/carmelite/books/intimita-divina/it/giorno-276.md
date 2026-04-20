@@ -1,102 +1,29 @@
-## 276 — I DUE REGNI
-*XIV Domenica dopo Pentecoste*
+## XV — L'ASSUNZIONE DI MARIA
 
-### Presenza di Dio
+*15 agosto*
 
-Sostieni, o Signore, la mia debolezza affinchè possa giungere al possesso del tuo regno.
+**Presenza di Dio.** — *O Maria SS.ma assunta in cielo, ti supplico di purificare i miei sensi, affinché impari a gustare Dio fin da quaggiù.*
 
 ### Meditazione
 
-1. — Il pensiero centrale della Messa odierna lo troviamo
-in sintesi nella Colletta: « O Signore, poichè senza di te l’umana debolezza cade, col tuo aiuto sia allontanata dal male
-e indirizzata verso la via della salute ». Ecco la posizione dell'uomo di fronte alla vita spirituale: è come un bambino che
-si trova ad un bivio, da solo non sa camminare, non sa quale
-via seguire per tornare a casa. Due strade si aprono davanti al cristiano: l'una conduce al regno dello spirito, al regno di Dio e l’altra al regno della carne, al regno di Mammona; quale delle due sceglierà? Evidentemente vuol dare la
-precedenza a quella che conduce al regno di Dio, regno pacifico e dolce descritto da Gesù nel Vangelo di oggi; ma anche il regno di Mammona — il regno delle ricchezze e della
-carne — ha purtroppo delle attrattive e tenta di allettare il
-suo cuore. Per resistere a queste lusinghe l’Epistola c'insegna
-che bisogna lottare: « La carne ha desideri contrari allo spirito e lo spirito li ha contrari alla carne; son cose opposte fra
-loro, sì che voi non dovete fare tutto quel che vorreste ».
+**1** — La Madonna, che oggi contempliamo assunta alla gloria del cielo in anima e corpo, ci ricorda con una forza tutta particolare che la nostra stabile dimora non è la terra, ma il cielo dove, insieme col suo divin Figlio, lei ci ha preceduto nella completezza della sua persona. E' questo il pensiero dominante della liturgia odierna: «O Dio onnipotente ed eterno — dice l'*Oremus* del giorno — che avete elevato nel corpo e nell'anima alla gloria celeste l'Immacolata Vergine Maria, Madre del vostro Figlio, fate, ve ne supplichiamo, che sempre attenti ai beni celesti, noi meritiamo di essere associati alla sua gloria». Sì, la festa dell'Assunta è per noi un forte richiamo a vivere «sempre attenti ai beni celesti», non lasciandoci travolgere dalle vicende e dalle lusinghe della vita terrena. Non solo l'anima nostra è creata per il cielo, ma anche il corpo che, dopo la risurrezione della carne, sarà accolto nei padiglioni celesti ed ammesso a partecipare alla gloria dello spirito. Questa piena glorificazione della nostra umanità che, non solo per noi, ma anche per i nostri santi, si realizzerà solo alla fine dei tempi, la contempliamo oggi già pienamente realizzata in Maria, Madre nostra. Ciò ben conveniva a lei, tutta pura e tutta santa, il cui corpo non fu mai sfiorato dall'ombra del male, ma fu sempre tempio dello Spirito Santo, il cui seno verginale fu tabernacolo immacolato del Figlio di Dio. E ciò richiama noi ad innalzare tutta la nostra vita, non solo quella dello spirito, ma anche quella dei sensi, all'altezza della vita celeste che ci attende. «O Madre di Dio e Madre degli uomini, — esclama Pio XII nella sua bellissima preghiera alla Madonna Assunta — ti supplichiamo di purificare i nostri sensi, affinché apprendiamo, fin da quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature».
 
-La lotta è rude e talvolta si ridesta anche in anime già decisamente incamminate verso il regno di Dio: perchè? Perchè la via che vi conduce è aspra, faticosa e spesso si addentra in dense nebbie senza che l'anima si renda conto del
-cammino percorso, dei progressi fatti. Qui bisogna procedere
-al buio credendo e pregando. Ma intanto l'occhio cade
-sull'altra via: più larga, più comoda, seminata di beni sensibili che si vedono, si toccano, si possono cogliere e godere
-immediatamente: basta allungare una mano. L'anima sente
-la tentazione e sente anche che da sola non può resistervi,
+**2** — L'assunzione di Maria SS.ma ci indica l'itinerario della nostra ascesa spirituale: distacco dalla terra, slancio verso Dio, unione con Dio.
 
+La Madonna è stata assunta in cielo in anima e corpo perché è l'Immacolata: è così pura, non solo di ogni ombra di colpa, ma anche di ogni minimo attacco alle cose della terra, che «nella sua anima non ebbe mai impressa alcuna forma di creatura che la muovesse ad agire» *(G.C. S. III,* 2, 11). La prima condizione per giungere a Dio è appunto la purezza totale, frutto di distacco totale. La Madonna che ha vissuto la nostra vita terrestre in un distacco assoluto da ogni cosa creata, c'insegna a non lasciarci avvincere dal fascino delle creature, ma a vivere in mezzo ad esse, ad occuparci di esse con molta carità, sì, ma senza mai attaccarvi il cuore, senza mai cercare in esse la nostra soddisfazione.
 
-ma se si rifugia in Dio, se si lascia condurre dallo spirito, sarà
-salva, benchè non senza sacrificio. « Conducetevi secondo lo
-spirito — incalza S. Paolo — e non soddisfate ai desideri della carne... Ora, le opere della carne è chiaro quali sono» (Ep)
-e l'Apostolo ne dà un elenco tutt'altro che attraente. E’ sempre così: i beni materiali si presentano con l'incanto dei fiori,
-ma è un incanto che presto sfuma in putredine; non val la
-pena fermarsi ad essi! Appunto per questo «i seguaci di
-Cristo Gesù hanno crocifisso la carne con le sue passioni e
-le sue concupiscenze » (ivi).
+La Madonna Assunta ci parla di slancio verso il cielo, verso Dio. Non basta purificare il cuore da ogni peccato e da ogni attacco, ma bisogna contemporaneamente slanciarcsi verso Dio tendendo a lui con tutte le nostre forze. «O Signore — ci fa pregare la Chiesa nella Messa del giorno — mediante l'intercessione della Beatissima Vergine Maria assunta in cielo, i nostri cuori, infiammati dal fuoco del vostro amore, aspirino ininterrottamente a voi» *(Segreta)*. La nostra vita terrena vale per la vita eterna in quanto è slancio verso di lui, continua ricerca di lui, continua adesione alla sua grazia; quando questo slancio vien meno, vien meno anche il valore ultraterreno della nostra esistenza.
 
-
-2. — Il Vangelo ci mette nuovamente in guardia contro
-le attrattive dei materiali. Anzitutto afferma che non si
-possono servire nello stesso tempo due padroni: Dio e Mammona, come non si possono battere contemporaneamente due
-strade: quella del regno di Dio e quella dei piaceri terreni. Chi
-si è dato a Dio, deve avere il coraggio di darsi a lui sino in fondo, senza rimpianti, senza ritorni — neppure fugaci — sulle
-vie del mondo. L'anima che, dopo avere scelto il cammino
-della perfezione non lo batte con totalità, con generosità, non
-sarà mai contenta: non avrà la gioia di sentirsi tutta di Dio,
-nè avrà la soddisfazione di poter seguire tutte le attrattive
-del mondo; la prima le sarà impedita dalla sua infedeltà, la
-seconda dal timore di Dio, che ancora le resta. E' un'infelice,
-divisa a metà, in continua lotta con se stessa. Ma che cos'è
-che c'impedisce di cercare totalmente il regno di Dio? Ce lo
-dice Gesù nel Vangelo di oggi: la troppa sollecitudine Te
-il benessere materiale, per le comodità e per la sicurezza della vita presente. Pur volendo vivere secondo lo spirito, finchè peregriniamo quaggiù in un corpo mortale siamo sempre
-soggetti a lasciarci invadere dalle preoccupazioni materiali:
-«Cosa mangeremo? Cosa berremo? Di che ci vestiremo? >.
-Proprio per liberarci da queste sollecitudini Gesù ci presenta
-il quadro meraviglioso della divina Provvidenza: « Osservate gli uccelli dell’aria, che non seminano, non mietono e non
-raccolgono nei granai; eppure il Padre vostro celeste li nutre.
-
-Ora, non siete voi molto di più di essi?». Sono parole che
-danno le ali, che fanno venire voglia di buttar via tutte le
-vane preoccupazioni terrene, per concentrarsi nella ricerca
-del regno di Dio: « Cercate prima il regno di Dio e la sua
-giustizia e tutto il resto vi sarà dato per giunta ». Oh, se avessimo maggior fede nella divina Provvidenza come saremmo
-più liberi di attendere a Dio, di attendere alle cose dell’anima! E, pur dovendoci occupare di affari terreni, non ne rimarremmo invischiati, ma sapremmo muoverci in mezzo ad
-essi con piena libertà di spirito.
+Maria è stata assunta in cielo perché è la Madre di Dio e questo suo massimo privilegio, radice e motivo di tutti gli altri, ci parla in modo particolare di unione intima con Dio, come ce ne parla il fatto dell'assunzione all'unione beatificante del cielo. La Madonna Assunta ci conferma dunque in questa grande e dolce verità: noi siamo creati e chiamati all'unione con Dio; e la Madonna stessa ci tende la sua mano materna per guidarci al raggiungimento di così alto ideale. Con lo sguardo fisso a lei ci sarà più agevole percorrere; lei sarà «la nostra guida, forza e consolazione» in qualsiasi lotta e difficoltà.
 
 ### Colloquio
 
-«O Signore, ora che la carne ha desideri contrari allo
-spirito e lo spirito ha desideri contrari alla carne, la lotta
-è mortale: io non faccio quello che vorrei, perchè vorrei non
-avere concupiscenze, ma è una cosa impossibile. Volere o no,
-le tengo; volere o no, lusingano, stimolano, importunano, vogliono sempre alzare la testa; si possono comprimere, ma non
-soffocare.
+«O Vergine Immacolata, Madre di Dio e Madre degli uomini.
 
-«I tuoi precetti, o Signore Dio mio, sono le mie armi.
-Per mezzo del tuo Spirito mi hai dato la possibilità di tenere
-a freno le mie membra; tutta la mia speranza riposa dunque in te. Tu dammi di poter fare ciò che comandi e poi comandami ciò che vuoi.
+«Noi crediamo con tutto il fervore della nostra fede nella tua assunzione trionfale in anima e corpo al cielo, ove sei acclamata regina da tutti i cori degli angeli e da tutte le schiere dei santi; e noi ad essi ci uniamo per lodare e benedire il Signore, che ti ha esaltata sopra tutte le altre pure creature, e per offrirti l'anelito della nostra devozione e del nostro amore.
 
-< Non voglio, o Signore, essere amico di questo mondo;
-perchè se sarò amico di questo mondo sarò nemico tuo, Delle
-cose create mi voglio far scala per ascendere a te; poichè se
-amerò le cose più di te, non possederò te. Che mi giova
-l'abbondanza delle cose fatte da te, se mi manchi Tu, che
+«Noi sappiamo che il tuo sguardo, che maternamente accarezzava l'umanità umile e sofferente di Gesù in terra, si sazia in cielo alla vista dell'umanità gloriosa della Sapienza increata, e che la letizia dell'anima tua nel contemplarla faccia a faccia l'adorabile Trinità fa sussultare il tuo cuore di beatificante tenerezza; e noi, poveri peccatori, a cui il corpo appesantisce il volo dell'anima, ti supplichiamo di purificare i nostri sensi affinché apprendiamo, fin da quaggiù, a gustare Dio, Dio solo, nell'incanto delle creature.
 
+«Noi confidiamo che le tue pupille misericordiose si abbassino sulle nostre miserie e sulle nostre angosce, sulle nostre lotte e sulle nostre debolezze; che le tue labbra sorridano alle nostre gioie e alle nostre vittorie, che Tu senta la voce di Gesù dirti di ognuno di noi, come già del tuo discepolo amato: 'Ecco il tuo figlio'; e noi che ti invochiamo nostra Madre, noi ti prendiamo, come Giovanni, per guida, forza e consolazione della nostra vita mortale.
 
-ne sei l'Autore?
-
-Perchè tanto travagliare per amore delle ricchezze? L'avidità del denaro impone fatiche, pericoli, logoramenti, tribolazioni ed io, infelice, mi vi sottometto. Mi vi sottometto
-e non trovo di che riempire il forziere, e così perdo la tran-
-
-«Ma Tu, che cosa mi comandi, o mio Dio? Di amarti.
-
-
-Amando l'oro, mi metto a cercarlo, senza poterlo seguire: ma
-chiunque cerchi te, Tu sei con lui. Vorrei l'onore, e DE
-non potrò conseguirlo; ma, chi ama te senza arrivare a sd
-Sol che io ti ami, l'amore stesso ti avvicinerà a A
-cosa più dolce di questo amore? Tu sei l'amor Dio mio
-Io t'amo col più fervido ardore, calpestando tutto ciò che
-alletta, risoluto di passar oltre» (S. Agostino).
+«Da questa terra, ove passiamo pellegrini, confortati dalla fede nella futura risurrezione, guardiamo verso di te, nostra vita, nostra dolcezza, nostra speranza; attraici con la soavità della tua voce per mostrarci un giorno, dopo il nostro esilio, Gesù, frutto benedetto del tuo seno, o clemente, o pia, o dolce Vergine Maria» (Pio XII).

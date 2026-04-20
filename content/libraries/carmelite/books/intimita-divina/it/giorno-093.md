@@ -1,126 +1,23 @@
-## 93 — LE CENERI
+## 17 — CON GESÙ CROCIFISSO
 
-### Presenza di Dio
-
-— Mi metto alla tua presenza, © Signore, affinchè la tua luce m'illumini sulle verità eterne e desti in me sinceri desideri di conversione.
+**Presenza di Dio.** — *O Gesù, mi metto ai piedi della tua Croce, perché Tu mi faccia comprendere quanto è necessario patire per diventare simile a te.*
 
 ### Meditazione
 
-1 — e Sei polvere ed in polvere tornerai » (Gen. 3,19).
-Queste parole, pronunziate per la prima volta da Dio e
-rivolte ad Adamo in conseguenza dei peccato commesso,
+**1** — Per l'anima che aspira all'unione con Dio, la penitenza non è solo un mezzo per assoggettare la carne allo spirito, ma è anche un mezzo per assimilarsi a Cristo crocifisso, per riprodurre e prolungare nel proprio corpo la sua Passione. « L'amore produce parità e somiglianza » (G.C. S.I, 4, 4): chi ama davvero, desidera spontaneamente di partecipare alle sofferenze della persona amata; così avviene ai veri amanti del Crocifisso. S. Maria Maddalena de' Pazzi esclamava: « Sotto un capo coronato di spine e crocifisso non sta bene un membro delicato, ed accanto ad uno sposo penante non sta bene una sposa immortificata ». Per una sposa è un onore poter dividere in tutto la vita del suo sposo; per un'anima consacrata a Dio è un onore poter dividere, almeno in piccola parte, la passione di Cristo e se ne gloria: « Quanto a me sia lungi il gloriarmi d'altro che della Croce del Signor nostro Gesù Cristo, per la quale il mondo è stato per me crocifisso, e io pel mondo » *(Gal.* 6, 14).
 
+Se la mortificazione dello spirito è certamente più importante di quella del corpo, non bisogna dimenticare che Gesù per salvare il mondo ha voluto abbracciare entrambe, e nel modo più completo. Tutta la vita di lui fu croce e martirio, e si concluse col sacrificio del Calvario dove l'immolazione, spirituale e fisica, giunse al massimo. « In quanto alla mortificazione della sensibilità — dice S. Giovanni della Croce — certo è che Egli morì rispetto alla parte sensitiva, spiritualmente in tutta la sua vita, e naturalmente nell'ora della sua morte; poiché in vita... non ebbe ove riposare il capo e molto meno in morte... Perciò — conclude il Santo — qualunque spirito che volesse andare per via di dolcezze e di comodità e rifuggisse dall'imitazione di Cristo, io non lo terrei per buono » *(S.* II, 7, 10 e 18).
 
-oggi la Chiesa le ripete ad ogni cristiano per ricordargli
-due verità fondamentali: il suo nulli e la realtà della
-morte,
+**2** — S. Teresa Margherita del Cuore di Gesù ha scritto: « Ricordati che, entrando in religione, pretendesti di esprimere in te la vita del Crocifisso » *(Sp.* p. 127). Esprimere la vita del Crocifisso significa vivere la sua Passione, associarsi alle sue sofferenze con le stesse sue intenzioni: la gloria del Padre, la salvezza delle anime. « Completo nella mia carne quel che manca delle sofferenze di Cristo, a pro del corpo suo che è la Chiesa » *(Col.* 1, 24). Ecco un altro motivo che ha spinto i Santi ad una generosa mortificazione corporale. Nulla manca alla Passione di Cristo: tutto « è finito » *(Gv.* 19, 30), ha detto Egli stesso sulla Croce; tutto è compiuto in lui, nostro Capo, ma deve compiersi ancora in noi, suoi membri. Gesù vuole continuare in noi la sua Passione per associarci alla sua opera redentiva, per farci suoi collaboratori nella più sublime delle sue opere: la salvezza delle anime. Gesù, che poteva fare tutto da solo, ha voluto aver bisogno di noi, per applicare i meriti infiniti della sua Passione a tante anime.
 
-La polvere — la cenere che il Sacerdote oggi pone sul
-tuo capo — che non ha consistenza e basta un lieve soffio
-di vento per disperdere, dice molto bene il nulla dell’uomo. «0 Signore, la mia vita è come un niente in tuo
-confronto » (Sa/. 38, 6) esclama il Salmista. Come ha bisogno il tuo orgoglio, la tua superbia, di comprendere que-
-sta verità, di comprendere che tutto è «nulla» in te!
-Tratto dal nulla dalla potenza creatrice di Dio, dall'amore
-infinito che ha voluto comunicarti il suo essere e la sua
-vita, tu, a motivo del peccato, non puoi ricongiungerti
-eternamente al tuo Dio, senza passare per l’oscura realtà
-della morte. Conseguenza e castigo del peccato, la morte
-è per se stessa amara e dolorosa; ma Gesù, che ha voluto
-in tutto farsi simile a noi, sottomettendosi ad essa, dà ad
-ogni cristiano la forza di accettarla per amore, Comunque,
-la morte resta; e tu devi considerarla non per turbarti,
-ma per spronarti al bene. «In tutte le opere tue ricordati
-della tua fine, e non peccherai in eterno » (Ecli. 7,40). Il
-pensiero della morte ti ammonisce sulla vanità delle cose
-terrene, sulla rapidità della vita — « tutto passa, Dio solo
-Testa» — e perciò ti epigne a non attaccarti a nulla, a
-disprezzare ogni soddisfazione terrena, per cercare Dio
-solo, Il pensiero della morte ti fa comprendere che « tutto
-è vanità fuorchè amare Dio e servire lui solo» (Zrzit. I
-1,4).
+La mortificazione, la sofferenza anche fisica è, quindi, un'esigenza della vita di unione con Cristo, e quanto più sarà generosa, tanto più l'anima parteciperà intimamente alla vita interiore ed all'opera apostolica di Gesù. Non si può essere intimi di Cristo, se non si soffre con lui, se non si sale con lui sulla Croce. « Ti basti Cristo crocifisso e con lui soffri e riposa » (G.C. *AM.* II, 13).
 
-«Ricordati che hai un'anima sola, che' devi morire
-una sola volta... e lascerai andare molte cose » (T.G. A.
-68), ossia lascerai andare tutte quelle cose che non valgono
-
-(er l'eternità. Per l'eternità vale solo l’amore, la fedeltà a
-o: « Nell'ultima ora sarai esaminato sull’amore » (G.C.
-AMI, 57).
-
-
-2 — Tutta la liturgia odierna è un invito alla penitenza. Durante l’imposizione delle ceneri si canta: « Cam-
-
-
-biamo abito e ricopriamoci di cenere e di cilicio; digiuniamo e piangiamo dinanzi a Dio». È l'invito alla
-penitenza corporale, particolarmente prescritta in questo
-tempo; ma subito segue l'invito alla conversione: « Émendiamoci dei peccati commessi ». Il fine della penitenza
-fisica è la penitenza spirituale, ossia l'umiltà, il riconoscimento delle proprie colpe, la compunzione del cuore, la
-riforma della vita.
-
-Questo è il pensiero dominante del giorno. Nell’Epistola (Joel. 2, 12-19) leggiamo: «Ecco quello che dice il
-Signore: — Convertitevi a me di tutto cuore nel digiuno, nel pianto e nel duolo, Squarciate i vostri cuori e non
-le vostre vesti ». La compunzione, la conversione del cuore
-è posta in rn piano perchè, se la penitenza corporale
-mon viene da un cuore contrito, non ha alcun valore. Ma
-d’altra parte la penitenza corporale prepara l’anima alla
-conversione, in quanto è mezzo per giungervi. «O Dio —
-canta il Prefazio del tempo — per mezzo del digiuno corporale, tu reprimi il peccato, elevi l’anima, e forza e
-ricompensa ». Chi vuol giungere al fine — che è il rinnovamento dello spirito — deve abbracciare volentieri il
-mezzo che vi conduce, ossia la penitenza corporale. Questi
-due elementi non vanno. mai separati: la compunzione del
-cuore dà valore alla penitenza del corpo, la penitenza del
-corpo aiuta ed esprime la compunzione del cuore.
-
-Il Vangelo (Mt. 6, 16-21) poi ci dice che ogni penitenza va compiuta con sincerità, senza vana ostentazione
-e lietamente: « Quando digiunate, non vogliate imitare gli
-PERE che prendono un'aria malinconica e sfigurano la
-‘accia per far vedere agli uomini che digiunano ». La vanità, la superbia rendono inutili e perfino peccaminose
-anche le più austere pratiche di penitenza: ne distruggono
-la sostanza ed il valore, le riducono a miseri involucri
-esterni privi di ogni contenuto, Perciò quando mortifichi
-il tuo corpo, bada di mortificare ancor più il tuo amor
-proprio.
-
-
-Egli ama e go
+La sofferenza ha un valore soprannaturale solo quando si soffre con Cristo e per Cristo: è Gesù che santifica il dolore; lontano da lui il dolore non vale nulla, non serve a nulla. Ma, abbracciata per amor suo, diventa moneta preziosa, capace di redimere, di santificare le anime, diventa prolungamento della sua Passione.
 
 ### Colloquio
 
-«O Gesù, com'è lunga la vita dell'uomo, malgrado si
-dica che sia breve! Breve, mio Dio, per arrivare con essa
-2 guadagnarsi la vita che non ha fine, ma lunghissima per
-l’anima che desidera di vedersi presto con te.
+« O passione desiderata! E chi è colui il quale ti desidera e ti ama e si gloria di te? O Verità eterna, Tu mi dici che non è desiderata, né amata da chi ama se stesso, ma da chi si è spogliato di sé e si è vestito di te, Cristo crocifisso, e col lume tuo scorge nella croce l'altezza della tua carità. O piacevole e tranquilla passione, che con tranquillità di pace fai correre l'anima sopra le onde del mare tempestoso. O dilettabile e molto dolce passione! O ricchezza dell'anima, o vera allegrezza, o gloria e beatitudine nostra, l'anima che si gloria in te acquista il frutto tuo. O Verbo, l'anima che si è rifugiata nella tua Passione, è morta quanto alla sensualità e perciò gusta l'affetto della tua carità.
 
-«Anima mia, quando ti inabisserai nel sommo Bene
-e conoscerai gala che Egli conosce, amerai quello che
+« O mio Dio, amor mio, una cosa ti domando: nel tempo che il mondo giaceva come infermo, Tu gli mandasti il tuo unigenito Figliolo come medico... ed ora qual mezzo userai per risuscitare un'altro mondo che nuovamente giace nella morte?... Ecco, io veggo che Tu chiami Cristi i tuoi servi e per mezzo loro vuoi togliere la morte e rendere la vita al mondo. E in che modo? Bisogna che essi camminino virilmente per la via del Verbo, con sollecitudine e affocato desiderio, procurando il tuo onore e la salute delle anime; e per questo devono sostenere pazientemente pene, tormenti, obbrobri, rimproveri... O Rimediatore ottimo, da' dunque a noi di questi Cristi, i quali vivano continuamente in vigilie, in lacrime, in orazione per la salute del mondo » (S. Caterina da Siena).
 
-rai quello che Egli gode, allora entrerai nel
-tuo riposo: la tua volontà perderà la sua incostanza, nè
-andrà più soggetta a mutamenti... e godrai sempre di
-lui e del suo amore... Beati quelli che sono scritti nel
-libro di questa vita! Se tu lo sei, perchè, anima mia,
-ti rattristi e mi conturbi? Spera in Dio a cui nuovamente confesserò i miei peccati e di cui proclamerò le
-misericordie. Comporrò un cantico di lodi per inalzarlo,
-con incessanti sospiri, a te, mio Salvatore e mio Dio. E ben
-può essere che un giorno ti possa pur cantare la mia
-loria, senza che la mia coscienza vi sperimenti l'amarezza
-Sella compunzione, in quel soggiorno ove le lacrime e i
-timori saranno per sempre cessati... O Signore, amo meglio
-vivere e morire nella speranza e nello sforzo per l'acquisto
-della vita eterna, che possedere tutte le creature coi loro
-beni fugaci. Non abbandonarmi, o Signore! To spero in
-te e la mia speranza non sarà confusa. Dammi sempre di
-servirti, e fa” di me quel che vuoi! » (T.G. Es. 15,1; 17,
-506).
-
-Se il pensiero delle mie infedeltà mi sgomenta, mi ri
-corderò, o Signore, che «appena ci pentiamo di averti
-offeso, Tu dimentichi ogni nostro peccato e malizia. O
-bontà veramente infinita! Che si può volere di più? Chi
-non arrossirebbe di domandarti tanto? Questo è il momento di approfittarne, accettando quanto Tu, pietoso Si
-
-ore Dio mio, ci offri. Tu vuoi la nostra amicizia. Chi
-te la rifiuterà, quando Tu non hai rifiutato di spargere
-tutto il tuo Sangue per noi, sacrificando la tua vita? È
-un nulla quanto Tu domandi! Ascoltarti è di sommo
-mostro interesse » (ivi, 14, 3).
+Tu lo conosci, o Signore, il profondo desiderio del mio cuore: assimilarmi, unirmi a te, per non vivere che la vita tua. Se non sono per me i sublimi stati di orazione e i voli dello spirito, la croce è per me: Tu me la offri ed io voglio abbracciarla con tutto il mio cuore. La sento, quel che più facilmente si trova a mia portata, che incontro ogni giorno, che è più adeguato e possibile alla mia miseria ed è proprio il patire, giacché non c'è vita umana senza dolore. Ebbene, o Signore, fa' che in ogni sofferenza fisica o morale, io sappia riconoscerle ed abbracciare la croce tua, affinché possa intimamente associarmi alla tua Passione per la salvezza delle anime. Tu ora, glorioso alla destra del Padre, non puoi più soffrire nella tua Umanità glorificata, degnati dunque di servirti in me, di servirti della mia misera carne per continuare la tua opera redentrice.

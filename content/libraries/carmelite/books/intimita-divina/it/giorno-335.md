@@ -1,98 +1,29 @@
-## 335 — I NOSTRI DOVERI
-*XXII domenica dopo Pentecoste*
+## 13 — VERSO LA PATRIA
 
-### Presenza di Dio
+*XX Domenica dopo Pentecoste*
 
-Insegnami, Signore, a compiere tutti i miei doveri in ossequio alla tua sovrana Maestà.
+**Presenza di Dio.** — *O Signore, insegnami la via per giungere a te.*
 
 ### Meditazione
 
-domenica si possono sintetizzare nella nota frase di Gesù,
-che proprio oggi leggiamo nel Van celo (Mt. 22, 15-21):
-«Rendete a Cesare quello che è di Cesare, e a Dio quello
-che è di Dio »; in alma parole: adempite con esattezza i
-vostri doveri verso Dio e verso il prossimo, dando a ciascuno il suo.
+**1** — La liturgia delle ultime domeniche dopo Pentecoste ha un tono particolare, il tono delle cose che volgono al termine; infatti fra non molto l'anno liturgico finirà e, finendo, c'invita a riflettere sulla caducità della vita presente e a rivolgere gli sguardi all'eterna che ci aspetta. Spontaneamente gli animi si raccolgono nella revisione delle proprie posizioni: come abbiamo impiegato il tempo ricevuto da Dio? Nell'Introito troviamo l'umile confessione: «O Signore, peccammo contro di te, né osservammo i tuoi precetti» e nella Colletta la domanda del perdono: «Deh, Signore, largisci placato ai tuoi fedeli il perdono e la pace». S. Paolo poi, nell'Epistola *(Ef.* 5, 15-21), ci insegna ad usare nel miglior modo il tempo che ci resta per venire alla gloria eterna: «State bene attenti a come vi portate; non da insipiente, ma da saggi, valendovi del tempo opportuno, perché i giorni sono cattivi». L'Apostolo ci spiega in che cosa deve consistere la nostra saggezza: «Non siate imprudenti, ma cercate di capire qual'è la volontà di Dio». La maggiore stoltezza e imprudenza che si possa commettere nel viaggio di questa vita è quella di seguire il proprio capriccio, la propria volontà; in tal modo si batte una strada molto pericolosa e che non condurrà mai alla meta, mentre l'unica via che vi giunge è quella della volontà di Dio. Chi cerca con sincerità la volontà divina e cammina in essa, anziché essere guidato dallo spirito proprio, è guidato dallo Spirito di Dio, lo Spirito Santo, e può quindi essere sicuro di non sbagliare. «Siate ripieni dello Spirito Santo — ci esorta oggi S. Paolo — trattenendovi con salmi, inni e canti spirituali, cantando e salmodiando di cuore al Signore... sottomettendovi gli uni agli altri». Quando un'anima si lascia docilmente guidare dallo Spirito Santo, Egli la prende e la invade fino a riempirla di sé; da questa pienezza fiorisce spontaneo lo spirito di preghiera, fiorisce spontanea la virtù, l'umile sottomissione e la concordia fraterna.
 
-L'Epistola (Fil. 1,6-11) ci presenta S, Paolo come modello di carità verso coloro che Dio ha sottoposto alle
-nostre cure. « Vi ho nel cuore — scrive l'Apostolo ai
-Filippesi — come quelli che, e nelle mie catene, e nella
-difesa e nella confermazione del Vangelo, siete tutti compagni a me nella grazia ». Paolo sente vivamente la sua
+Camminare nella volontà divina, guidati dallo Spirito Santo, è la via più rapida e sicura per giungere alla patria celeste.
 
-aternità spirituale verso le anime che ha generato a
-Biisto, anche da lontano sì sente responsabile della loro
-buona riuscita, si preoccupa della loro perseveranza nel
-bene, le sostiene I suo affetto paterno e con i suoi saggi
+**2** — È impossibile scoprire e battere la via della volontà divina senza la fede; il Vangelo odierno *(Gv.* 4, 46-53) ci parla proprio della fede e delle qualità che questa deve avere per piacere a Dio.
 
-consigli: «[Sono] persuaso che Chi ha cominciato in voi
-life buona, la pon fino al giorno di Gesù Cristo ».
-Non vuole che si sgomentino per la sua lontananza : egli
-non è che un povero strumento, Dio solo è la vera guida
+Un ufficiale del re, avendo sentito parlare delle guarigioni meravigliose operate da Gesù, va da lui e lo prega di andare a casa sua per «guarirgli il figliolo, il quale sta per morire». Quest'uomo ha fede nella virtù taumaturgica del Maestro, ma è ben lontano dal credere che Egli è il Figlio di Dio. Gesù comprende e risponde: «Se voi non vedete dei segni e dei prodigi non credete». Queste parole, rivolte storicamente al regio e ai suoi compaesani, valgono moralmente per tutti coloro che fanno dipendere la loro fede da ciò che si vede o si sente. Sono poveri Rivelazione, al magistero della Chiesa; i più rimangono indifferenti e si scuotono solo di fronte a qualche fatto insolito che colpisce i loro sensi. È vero che il Signore si può servire anche di ciò per aiutare la nostra debolezza, ma non è questa la fede che piace a lui: «Beati coloro che hanno creduto e non videro» *(Gv.* 20, 29), disse a Tommaso che non voleva credere se non vedeva il foro dei chiodi e se non metteva il dito nelle piaghe. Il motivo profondo della fede non è la nostra esperienza, non è l'aver visto o toccato con mano, ma è l'autorità di Dio; Dio si è rivelato, Egli non s'inganna, né può ingannare e noi crediamo sicuri sulla sua parola. Credere sulla parola di Dio, ecco la fede genuina, la fede pura che piace al Signore.
 
-delle anime e Dio continuerà l'opera incominciata; quanto
-a lui, siano certi che non cessa di amarli: «Dio mi è testimone che io voglio bene a tutti voi nelle viscere di
-Cristo Gesù ».
+Gesù, che voleva condurre il regio a questa fede, gli disse: «Va', tuo figlio vive». E quell'uomo credette alla parola dettagli da Gesù e partì». Non era ancora la fede soprannaturale nel Figlio di Dio, tuttavia era un atto di fede nella parola del Maestro, benché atto imperfetto, produsse il suo frutto: il figlio guarì. Il Signore non pretende di più di quanto ognuno può dargli; vista la buona volontà, visto lo sforzo sincero, interviene lui stesso a perfezionare l'opera. Così la fede imperfetta e ancora amara del regio fu premiata con la guarigione del figliolo e, in conseguenza, la fede di lui diventò soprannaturale: credette in Gesù non più come in un semplice profeta o taumaturgo, ma come nel Figlio di Dio; «credette lui e tutta la sua famiglia».
 
-S. Giovanni Crisostomo dice che il cuore di Paolo è
-il cuore di Cristo, a motivo del suo grande amore per le
-anime che lo rende tanto simile al (piane: così dovrebbe potersi dire del cuore di ogni apostolo. Quando
-Dio ha messo un'anima sul nostro cammino e ci ha chiesto di occuparci di lei, non possiamo più disinteressarcene; quell'anima è ormai legata alla nostra, dobbiamo sentircene responsabili, dobbiamo sentirci impegnati ad aiutarla sino alla fine,
-
-Dopo averci parlato della sollecitudine, che dobbiamo
-avere verso coloro che sono affidati alle nostre cure, l'Epistola ci richiama anche alla carità in genere verso qualSiasi prossimo: «la carità cresca sempre più e più, in cognizione e în ogni finezza di senso ». Si tratta di una carità sempre più delicata nella comprensione dell'animo altrui, sempre più fine nell'adattarsi alla mentalità, alle esigenze, ai poi degli altri; una carità che ci deve spingere. come dice S. Paolo, a «riconoscere — e quindi a fare — le cose migliori», affinchè siamo «schietti e irreprensibili fino al giorno di Cristo ».
-
-del cristiano di fronte all'autorità civile. La questione insidiosa se sia lecito o no pagare il tributo a Cesare, offre
-a Gesù l'occasione di risolvere il problema dei rapporti
-fra i doveri civili e i doveri religiosi. Si fa dare una moneta e domanda: « Di chi è questa immagine e l'iserizione? ». «Di Cesare» gli rispondono; e lui di rimando:
-«Rendete a Cesare quello che è di Cesare, e a Dio quello che è di Dio ». È
-. Non vi è opposizione fra i diritti del potere politico
-ei diritti di Dio, giacchè «non vi sarebbe nessun potere
-se non fosse dato dall' alto» (cfr. Gv. 19, 11): l'autorità
-
-politica legittimamente costituita viene da, Dio e va rispet
-tata come un riflesso dell'autorità divina. Appunto perciò
-i cristiano è tenuto ad adempiere tutti i doveri di buon
-cittadino e quindi ad obbedire all'autorità politica, salvo
-uando questa comandasse cose contrarie alla legge di
-io, perchè in tal caso non rappresenterebbe più l'autorità divina e allora, come dice S. Pietro, «bisogna ubbedire a Dio più che agli uomini » (At. 5, 29).
-Non dobbiamo pensare che, essendoci dedicati all'apostolato o consacrati ad opere religiose, siamo per ciò diensati dai doveri civili; anzi, anche in questo campo 1
-cattolici dovrebbero avere il primato. Gli imperatori, ire,
-gli uomini politici e gli uomini d'arme, che la Chiesa onoTa come santi, ci dicono che la santità è possibile ovunque
-e che si può realizzarla anche dedicandosi al servizio dello Stato, perchè anche qui si tratta di servire Dio nelle
-creature. i
-Dicendo di dare a Cesare quel che è di Cesare, Gesù
-c'insegna a dare allo Stato tutto ciò che è di sua competenza, ossia tutto ciò che concerne l'ordinamento e il bene pubblico temporale. Ma Gesù non si arresta qui e dice ancora: «rendete a Dio quello che è di Dio». Se il
-denaro, che porta l'effigie di Cesare, deve essere restituito a Cesare, molto più l'anima nostra, che porta in sè
-l'immagine di Dio, deve essere restituita a Dio, Dire che
-a Dio dobbiamo dare l'anima, è dire che gli dobbiamo
-tutto, perchè tutto infatti abbiamo ricevuto da lui. In questo senso assolvere i nostri doveri verso il prossimo, verso gli uguali o gli inferiori, verso i superiori ecclesiastici
-o civili, è assolvere i nostri doveri verso Dio, è restituirgli quanto ci ha dato, sottomettendo la nostra libertà alla
-sua la ponendo la nostra volontà al servizio della sua.
+In questa vita noi camminiamo verso Dio non nella visione, ma nella fede; quanto più la nostra fede sarà pura, spoglia di elementi umani, tanto più piacerà a Dio e ci permetterà di conoscere e di fare con amore la sua santa volontà.
 
 ### Colloquio
 
-<Q mio Dio, poichè sono tuo per tante ragioni ed
-ho tanti obblighi di servirti, non permettere mai più che
+«Sii propizio ai tuoi figlioli, o Maestro divino, Padre, Signore. Concedi a noi, che seguiamo i tuoi precetti, di rispecchiare la tua immagine e di sperimentare, secondo le nostre forze, la tua bontà e non la severità del tuo giudizio.
 
-nè la colpa, nè Satana, nè il mondo usurpino, sia pure in
-minima parte, quello che è interamente tuo. Ma prendi,
-se così ti piace, intero ed assoluto possesso dell'essere mio
-e della mia vita. O mio Dio, ecco, mi do tutto a te, giurandoti di non voler esistere che per te e di non volere
-nè pensare, nè dire, nè compiere, nè soffrire cosa alcuna
-che per amor tuo, oggi, domani e sempre » (S. Giovanni
-Eudes).
+«Concedici di vivere tutti nella tua pace, di essere ammessi dallo Spirito Santo, tua Sapienza ineffabile, e da lui guidati notte e giorno, fino al giorno perfetto. Concedici sino all'ultima ora di pregare ringraziando e di ringraziare pregando l'unico Padre e Figlio, Figlio e Padre, il Figlio educatore e maestro, insieme con lo Spirito Santo» *(Clemente di Alessandria)*.
 
-«O mio Signore Gesù, Tu mi desti te medesimo ed
-a me non chiedi che il cuore: ma, Signore mio, che è
-questo mio cuore, mentre Tu sei tanta cosa? Se avessi un
-cuore che da solo valesse più di tutti i cuori dei figlioli
-degli uomini presi insieme e di tutti gli affetti degli angeli e fosse talmente capace che contenesse ad un tempo
-molte cose spirituali e corporali, e potesse contenerne più
-del cielo empirco, io te lo dovrei consacrare tutto e interamente: e pur sarebbe a tanto Signore picciol dono,
-anzi presso che nulla. Or quanto pulliova darò a te e
-in te riporrò pienamente questa scintilluzza di cuore che
-io mi ritrovo! Imperocchè questa è per me una grandissima cosa, che ti degni di tenere il mio cuore. È non
-sarei stolto, se da qui avanti lo consacrassi a qualche creatura, quando il mio Dio lo vuole per sè? Non voglio che
-rimanga più oltre in me; ma voglio che tutto riposi in
-te, che lo creasti affinchè ti lodasse. È meglio che il mio
-cuore stia nell'eterno godere, nella divina maestà e nell'immensa bontà, piuttosto che nella mia fragil ità; nella
-tua Si piuttosto che nella mia iniquità » (S. Bonaventura).
+«Signore, Tu conosci che cosa sia meglio per me; sia fatto questo o quello, secondo la tua volontà. Dammi ciò che vuoi e quando vuoi. Opera con me come Tu sai essere meglio, come a te piace, e secondoché sarà a tuo maggior onore. Mettimi dove vuoi e disponi di me liberamente in ogni cosa. Io sono nelle tue mani, fa' di me quello che credi. Ecco, io sono tuo servo, disposto a tutto, poiché non desidero di vivere per me, ma soltanto per te, e ciò possa almeno fare degnamente e perfettamente!
+
+«O benignosissimo Gesù, concedimi ch'io possa sempre desiderare e volere solo ciò che è a te più gradito e più caro; la tua volontà sia la mia, la mia segua sempre la tua e le si accordi completamente. Il mio volere o non volere sia sempre uguale al tuo, Signore, in modo che io non possa desiderare o disprezzare se non ciò che Tu vuoi o disprezzi» *(Imit.* III, 15, 2 e 3).

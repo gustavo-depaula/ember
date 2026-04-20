@@ -1,97 +1,21 @@
-## 279 — LA FORTEZZA
+## XVIII — IL GIUDIZIO PRUDENTE
 
-### Presenza di Dio
-
-— Insegnami, O Signore, ad agire virilmente confidando in te.
+**Presenza di Dio.** — *Aiutami, o Signore, a giudicare rettamente le cose, per poter poi agire rettamente.*
 
 ### Meditazione
 
-1. — «Il regno dei cieli si acquista con la forza» (Mt.
+**1** — Il primo ufficio della prudenza è quello di aiutarci a scegliere i mezzi più adatti al conseguimento del nostro fine ultimo. Spesso questa scelta è facile e si presenta spontanea alla mente già abituata a giudicare e ad agire alla luce dell'eternità; altre volte, invece, la scelta è difficile e laboriosa, come quando, ad esempio, si tratta della scelta dello stato o della professione, di dare un nuovo indirizzo alla propria vita oppure di risolvere casi complicati in cui occorre tener conto di elementi anche indipendenti dalla propria volontà. In questi casi occorre prender tempo per esaminare tutto con ponderatezza, occorre il consiglio di persone prudenti e sperimentate: l'agire con precipitazione sarebbe già da sé un mancare di prudenza. Gesù stesso nel Vangelo ci parla dell'uomo prudente che, volendo innalzare una torre, «dapprima si siede a calcolare la spesa per vedere se ha da poterla finire» *(Lc.* 14, 28). Il tempo impiegato in questi esami, in questi calcoli dettati dalla prudenza soprannaturale non è tempo sprecato, tutt'altro; anzi non di rado, di fronte a gravi decisioni, Dio stesso vuole che attendiamo pazientemente affinché le circostanze ci manifestino con chiarezza la sua volontà. In queste attese dobbiamo dare un gran posto alla preghiera, per invocare dal Signore quella luce che la nostra prudenza non sa darci. Infatti la prudenza, pur essendo virtù infusa e soprannaturale, è sempre virtù esercitata mediante le nostre facoltà umane e perciò risente della nostra limitatezza; in aiuto ad essa, però, Dio ci ha dato un particolare dono dello Spirito Santo: il dono del consiglio, la cui attuazione non dipende da noi, ma che possiamo invocare con la preghiera.
 
+Quando poi, usando tutti i mezzi suggeriti dalla prudenza soprannaturale, la decisione è presa, allora la stessa prudenza ci comanda di passare all'attuazione con coraggio e diligenza, senza frapporre indugi da parte nostra e senza scoraggiarci per le difficoltà che possiamo incontrare.
 
-11, 12). Non bastano le buone risoluzioni, i buoni desideri
-per farsi santi, occorre tradurli in pratica; ed è proprio in
-io attuazione pratica che si incontrano le maggiori dif-
+**2** — Perché i nostri giudizi e le nostre scelte siano prudenti, dobbiamo saperle svincolare da elementi troppo soggettivi, quali sono i gusti, gli interessi, le antipatie o simpatie naturali. Talvolta possiamo illuderci di giudicare di una situazione, o di determinarci ad un'opera unicamente per la gloria di Dio e per il bene del prossimo, mentre se ci esaminiamo in profondità ci accorgeremo forse che i motivi che hanno prevalso nel nostro giudizio o nella nostra deliberazione sono stati egoistici, di amor proprio, di vanità, di ricerca della stima altrui o di interesse personale. Anche la prudenza, quindi, ci richiede di purificare il cuore da tutti questi moventi umani, ci richiede distacco e rinuncia. Proprio terminando di parlare della prudenza necessaria all'uomo che vuol fabbricare una torre ed al re che vuol entrare in guerra, Gesù ha detto: «Così, chiunque di voi non *rinunzia* a tutto quanto possiede, non può essere mio discepolo» *(Lc.* 14, 33). In altre parole, la prudenza necessaria a chi vuol essere vero seguace di Cristo consiste nel rinunciare a tutto ciò che gli può essere di ostacolo al conseguimento della vita eterna, consiste nel rinnegare se stesso per avere il cuore libero da moventi egoistici, personali. Solo questa rinuncia ci permetterà di trionfare delle reazioni spontanee del nostro amor proprio o degli impulsi del nostro egoismo e quindi ci metterà in grado di formulare giudizi retti, di fare scelte, di prendere deliberazioni spassionate.
 
-icoltà, per cui spesso le anime si fermano scoraggiate o addirittura retrocedono dal cammino intrapreso. Sono anime deboli che si spaventano di fronte alla fatica, allo sforzo, alla
-lotta; sono anime cui manca, o per lo meno difetta, la virtù
-della fortezza. Questa virtù è appunto quella che ci rende
-capaci di affrontare e di sostenere qualsiasi difficoltà, qualsiasi disagio e sacrificio che possiamo incontrare nell’adempimento del dovere. Difficoltà e sacrifici che non mancheranno
-mai, perchè, mentre «larga è la porta e spaziosa è la via che
-conduce alla perdizione... stretta è la porta e angusta è la via
-che conduce alla vita » (Mt. 7, 13 e 14). Quindi, come sarebbe
-un'illusione pretendere di trovare facile e comoda la via del
-bene, così sarebbe un'illusione pensare di poterla battere senza un assiduo esercizio della virtù della fortezza. Anzi, quanto
-più un'anima aspira a maggior perfezione, tanto più deve essere forte e coraggiosa, giacchè maggiori saranno le difficoltà
-che dovrà affrontare.
+Soprattutto di fronte a giudizi o a deliberazioni di una certa importanza, che possono avere conseguenze per il prossimo o che possono corrispondere al nostro genio naturale, la prudenza esige un esame coscienzioso per vedere se siamo davvero mossi da motivi soprannaturali indipendentemente da qualsiasi considerazione umana. Quando poi qualche circostanza ci ha un po' scosse, un po' toccato sul vivo, la prudenza c'insegna a sospendere ogni giudizio e deliberazione finché non sia ritornata la calma, altrimenti ci esporremo ad agire più per passione che per un sincero amore del bene.
 
-Quando Gesù ha voluto fare l'elogio del Precursore ha
-detto: «Che siete andati a vedere nel deserto? Una canna
-agitata dal vento? » (Mt. 11,7); no, il Battista non era un debole che poteva essere scosso dal vento delle difficoltà, ma
-un forte che, per difendere la legge di Dio, non ebbe timore
-d’incorrere nella disgrazia del suo re e seppe affrontare con coraggio anche il martirio. Altrove, parlando della vittoria
-sul male e sul demonio, Gesù ha tracciato l'elogio dell’uomo
-
-
-forte: «Quando un uomo forte, ben armato, custodisce l’ingresso di casa sua, quanto egli possiede è al sicuro» (Lc.
-11, 21). E' l'immagine dell'anima che ha la virtù della fortezza: essa è bene armata e nessuna lotta, nessuna tentazione,
-nessun ostacolo può spaventarla, anzi, malgrado tutto ciò,
-rimane sicura e tranquilla poichè trae la sua forza da Dio
-stesso.
-
-
-2. — «Sua Maestà — scrive S. Teresa d'Avila — vuole
-anime coraggiose, ed è loro molto amico, purchè camminino
-con umiltà, diffidando sempre di se stesse » (Vi. 13, 2). La fortezza cristiana non è temerarietà nè presunzione delle proprie
-forze, ma si basa su Dio e sui grandi doni che Egli ha elargito all'uomo. Se l'uomo è nulla per se stesso, è però grande
-per quel che Dio l'ha fatto e gli ha donato, per la dignità altissima che gli ha conferito: nell'ordine naturale è stato preposto al governo del mondo, tutte le altre creature gli sono
-state sottoposte ed egli deve servirsene per meglio conoscere
-ed amare Dio; nell'ordine soprannaturale ha ricevuto la vocazione altissima di figlio di Dio, chiamato da lui a partecipare alla sua vita ed alla sua beatitudine eterna. Per conseguire
-tale mèta gli è stata conferita la grazia la quale non è solo
-vita e luce soprannaturale, ma è anche forza divina, forza
-infusa in lui proprio per sanare le debolezze della sua natura,
-per corroborare la sua volontà, onde renderlo capace di adempiere tutti i doveri inerenti alla sua vocazione. Nel battesimo,
-assieme alle altre virtù infuse, ha ricevuto la virtù della fortezza, partecipazione della fortezza divina, depositata nell’anima sua come un germe capace di svilupparsi fino a piena
-perfezione. Nei doni naturali e soprannaturali ricevuti da
-Dio, nella dignità altissima cui l’uomo è stato da Dio innalzato, sta quindi il fondamento della fortezza cristiana. Se siamo deboli, ciò non proviene da insufficienza dei doni divini,
-ma dalla nostra insufficienza, ossia dal non aver trafficato abbastanza i talenti di natura e di grazia che il Signore ci ha
-
-dati. E, se siamo forti, il merito non è nostro, ma di Dio che ci
-ha reso tali. Il cristiano è umile nella sua fortezza perchè
-sa che questa non scaturisce da lui come da fonte propria,
-ma dai doni che Dio gli ha dato ed egli rimane sempre dipendente da Dio, tanto nella considerazione del suo nulla,
-come in quella della sua grandezza, tanto nella sua umiltà,
-come nella sua fortezza. Ecco perchè il Signore, pur amando
-le anime coraggiose, le vuole umili e sempre diffidenti di sè,
-ecco perchè lo Spirito Santo dice: «agisci virilmente e confida nel Signore» (Sal. 26, 14).
+«L'amore è prudente, cauto, retto», dice l'*Imitazione di Cristo*, e da ciò impariamo che la prudenza è indispensabile caratteristica della virtù genuina.
 
 ### Colloquio
 
-«O Dio eterno, Tu vedesti la fragilità di questa nostra
-natura umana, vedesti quanto è debole, fragile e misera; e
-perciò Tu, sommo provveditore, che in ogni cosa hai provveduto alla tua creatura, Tu rimediatore ottimo, che ad ogni
-cosa hai dato rimedio, ci desti la rocca e la fortezza della volontà per sostenere la debolezza della nostra carne. E questa
-volontà è tanto forte, che nè demonio, nè creatura alcuna la
-può vincere, se noi non vogliamo, cioè se il libero arbitrio,
-nelle cui mani è posta, non acconsente.
+«O Dio, è più grata a te un'opera sola fatta con prudenza, che molte fatte con imprudenza e leggerezza, giacché questa virtù considera e pondera molto bene ogni azione perché riesca di tuo onore e gloria.
 
-«O Bontà infinita, e donde viene tanta fortezza nella volontà della tua creatura? Da te, somma ed eterna Fortezza,
-poichè partecipa della fortezza della volontà tua. Onde noi
-vediamo che la nostra volontà è tanto forte, quanto segue
-la tua; ed è tanto debole, quanto se ne parte; perchè a somiglianza della tua volontà creasti la nostra e perciò, stando
-nella tua, ella è forte.
-
-« Nella volontà nostra, Padre eterno, dimostri la fortezza
-della volontà tua, poichè, se ad un piccolo membro Tu hai
-data tanta fortezza, quanta stimeremo che sia la tua, o Creatore e Governatore di tutte le cose?
-
-«Mi pare che questa volontà libera, la quale Tu ci hai
-data, è fortificata dal lume della fede, perchè in questo lume
-conosce la volontà tua, la quale non vuole altro che la nostra
-
-
-santificazione. Sì che la volontà, fortificata e nutrita dalla
-fede santa, dà vita alle azioni nostre e perciò nè volontà vera,
-nè fede viva possono essere senza le opere. La fede nutre ed
-alimenta il fuoco della carità, perchè mostra all'anima l'amore
-e la dilezione tua verso di noi e così la rende forte nell'amarti » (S. Caterina da Siena).
+«La prudenza vera e soprannaturale è tua e in te, o Signore, e da pochi si trova perché tanti la van cercando con un'astuzia che par prudenza, volendo investigare con la loro sapienza i tuoi disegni e così perdono il tempo e non la troveranno mai. Chi vuol veramente possedere la prudenza deve venire a te, Verbo incarnato, e in te la troveranno assieme a tutte le altre virtù, ma la troveranno assai diversa dalla prudenza umana la quale tende a ciò che esalta e non a quello che abbassa. In te troveranno la prudenza che conduce ad umiliarsi e ad abbassarsi, come Tu hai voluto umiliarti ed abbassarti per insegnarci la via che conduce alla salvezza. Tu, o Signore, hai detto: "Chi vuol venire dietro di me, rinneghi se stesso, prenda la sua croce e mi segua". Oh, questa sì che è somma prudenza! Eppure alla prudenza umana appare somma pazzia. Agli uomini sapienti di questo mondo sembra somma pazzia pigliar la croce e venir dietro a te, Cristo crocifisso! Ma Tu m'insegni che la stoltezza della croce è somma sapienza, e il rinnegare se stesso è somma prudenza. Quale più savia pazzia vi può essere che pigliar la croce con te e seguirti battendo le tue orme? E quale maggiore prudenza vi può essere che morire a se stesso per trovar vita in te, da cui riceve vita ogni cosa?» (S. M. Maddalena de' Pazzi).

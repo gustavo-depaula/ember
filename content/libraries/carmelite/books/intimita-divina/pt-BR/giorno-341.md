@@ -1,55 +1,23 @@
-## 341 — RUMO A UMA PURIFICAÇÃO COMPLETA
+## 19 — HUMANIDADE PERFEITA E CARIDADE APOSTÓLICA
 
-### Presença de Deus
-
-Ajuda-me, Senhor, para que eu tenha força de encaminhar-me por minha própria iniciativa a uma purificação completa.
+**Presença de Deus.** — *Adoça, Senhor, o meu coração com a chama da tua caridade.*
 
 ### Meditação
 
-1 — «A alma que quer chegar ao alto estado de união com Deus encontra grande obstáculo quando se afeiçoa a algum modo seu de entender, de sentir ou de imaginar, quando se apega ao próprio parecer ou vontade, ou a qualquer outra coisa própria, e não sabe desapegar-se de tudo isso e despojar-se inteiramente» (São João da Cruz).
+**1** — O apostolado é expressão e fruto da *charitas apostolica*, isto é, do amor de Deus e do próximo, crescido até tornar-se zelo das almas. Mas, ao lado disso, que é o aspecto essencial da caridade que deve animar o apóstolo, há aspectos secundários, quase humanos, e que, no entanto, têm grande importância para permitir ao apóstolo conquistar as almas. Queremos falar de todas aquelas qualidades de afabilidade, fineza de trato, cortesia, sociabilidade, sinceridade e compreensão que, por si mesmas, são qualidades humanas, mas que, elevadas pela graça e usadas para fins apostólicos, adquirem valor sobrenatural. Trata-se, em substância, das qualidades que São Paulo atribui ao amor: "O amor é paciente, é benigno... não se irrita, não pensa o mal,... alegra-se com a verdade" *(1 Cor.* 13, 4-6).
 
-O ofício da noite do espírito é justamente operar na alma esse desapego profundo e radical.
+Não basta amar as almas no segredo do nosso coração, trabalhando e sacrificando-nos por elas; é preciso que esse amor transpareça também para fora, por meio de um trato amável e agradável, de modo que, ao se aproximarem de nós, sintam-se bem queridas e, assim, encorajadas à confiança. Certos modos rudes, bruscos, impacientes são a causa de muitos se afastarem desgostosos e talvez até escandalizados. O apóstolo pode ter um coração de ouro, rico em caridade e zelo, mas, se conserva uma casca grosseira e espinhosa, fecha para si mesmo o caminho para chegar às almas, diminuindo notavelmente o bem que poderia fazer. Os Santos, embora muito sobrenaturais, nunca descuidaram desses aspectos mais humanos da caridade. São Francisco de Sales inculcava continuamente que, como se atraem mais moscas com uma gota de mel do que com um barril de vinagre, assim se conquistam mais corações com uma migalha de doçura do que com muitas maneiras ásperas. E Santa Teresa de Jesus, que queria suas filhas unidas pelo vínculo de uma pura caridade sobrenatural, não julgava supérfluo fazer recomendações como estas: "Quanto mais santas fordes, tanto mais afáveis deveis mostrar-vos com as irmãs, e nunca evitá-las, por mais enfadonhas e importunas que sejam em suas conversas. Se quiserdes atrair-lhes o amor e fazer-lhes bem, deveis guardar-vos de qualquer rusticidade" *(Cam.* 41, 7). Aviso utilíssimo para quem quer conquistar almas para Deus.
 
-Se queres, pois, entrar nessa noite, que tanto bem trará à tua alma, deves procurar, quanto puderes, negar-te em tudo e sobretudo naquilo que mais te pesa e te é caro.
+**2** — A propósito das qualidades naturais colocadas a serviço da caridade apostólica, podemos meditar com proveito a seguinte exortação dirigida por Pio XII a um grupo de religiosos: "Antes que o jovem religioso [e poder-se-ia dizer antes que o apóstolo] possa ser um exemplo brilhante, procure tornar-se homem perfeito nas coisas ordinárias cotidianas... Aprenda, portanto, e mostre com sua conduta, qual é o decoro conveniente à natureza humana e à sociedade; regule dignamente o rosto e o porte, seja fiel e veraz, cumpra as promessas, governe os atos e as palavras, honre a todos, não perturbe os direitos alheios, suporte o mal e seja sociável... Como bem sabeis, as chamadas virtudes naturais são elevadas à dignidade da vida sobrenatural sobretudo quando o homem as pratica e cultiva precisamente para tornar-se um bom cristão ou um digno arauto e ministro de Cristo" (setembro de 1951). Não se pode, portanto, pensar que haja antagonismo entre a plenitude da vida sobrenatural, que deve conduzir à união com Deus, e a plenitude de humanidade, que deriva de um justo desenvolvimento das virtudes naturais. É preciso lembrar que a graça não destrói a natureza, mas a eleva. A luta contra a natureza, para o triunfo da graça, visa mortificar e destruir somente o que nela é defeituoso, enquanto as qualidades e forças boas são elevadas e transportadas para o plano sobrenatural. A graça, e portanto a vida cristã, é sumamente respeitosa e utilizadora de todos os valores humanos; além disso, como pensar que o sobrenatural destrói o natural, quando este, não menos que aquele, é obra de Deus, fruto de sua sabedoria e bondade infinitas?
 
-Deves estar disposto a renunciar a teus planos, teus projetos, teus pontos de vista, não só a respeito das coisas terrenas, mas também das espirituais, porque deves ir a Deus não por uma via de tua escolha e gosto, mas unicamente pela via que Ele mesmo te preparou.
-
-Deves estar disposto a renunciar às consolações divinas, a caminhar no escuro, na aridez, e por todo o tempo que o Senhor quiser; deves estar disposto a renunciar às obras mais caras, aos afetos mais legítimos, às amizades mais santas, ao apoio de quem te compreende e te guia nos caminhos de Deus.
-
-Poucos entram efetivamente na noite do espírito, justamente porque «poucos sabem e querem entrar no vazio e na perfeita nudez do espírito». Poucos, mesmo entre os espirituais, se persuadem de que a via que conduz à união com Deus «consiste numa só coisa necessária: negar-se de verdade a si mesmo, tanto no interior quanto no exterior, abraçando de coração o sofrer por Cristo, aniquilando-se em tudo».
-
-Procura, portanto, ao menos tu, persuadir-te disso e regular-te em tudo com máximo desapego, sem deter-te com afeto de propriedade ou com vã complacência nem nos bens materiais nem nos espirituais.
-
-Olha Jesus na cruz: Ele estava realmente despojado e privado de tudo, «aviltrado e humilhado em tudo»; quanto à estima dos homens, pois vendo-o morrer no madeiro, em vez de ter por Ele alguma consideração, zombavam d’Ele; quanto à natureza, pois nela de certo modo se aniquilava morrendo; e quanto à proteção e ao conforto espiritual do Pai, que naqueles momentos o abandonou.
-
-Daí deves entender qual é a via para unir-te a Deus e compreender que, quanto mais te aniquilares por amor d’Ele, tanto mais te unirás a Ele.
-
-2 — A generosa prática da renúncia total não é a única coisa que podes fazer para entrar na noite do espírito; há outra, não mais negativa, mas eminentemente positiva: um intenso exercício das virtudes teologais.
-
-A fé, a esperança e a caridade devem ser teu sustento, tua guia nas obscuridades da noite e, ao mesmo tempo, devem ajudar-te a purificar as potências do teu espírito: entendimento, memória e vontade, para que possam aderir só a Deus.
-
-«A fé — diz São João da Cruz — produz o vazio no entendimento.» De fato, propondo-te crer coisas que, por sua altura, não podes compreender, a fé te ensina que, para unir-te a Deus, em vez de apoiares-te no teu modo de raciocinar e entender, deves antes despojar-te dele, o que significa pôr o entendimento no vazio.
-
-Quanto mais progredires na fé, tanto mais te desapegarás de tua baixa maneira de pensar, e isso não só a respeito dos mistérios divinos e de teus relacionamentos diretos com Deus, mas também acerca dos acontecimentos da vida, que aprenderás a julgar somente em referência a Deus.
-
-A esperança, por sua vez, põe «nas trevas a memória», esvaziando-a de todas as coisas. Se esperas fortemente, quer dizer que esperas bens que ainda não tens e não te contentas com os que já possuis.
-
-Se pões em Deus todas as tuas esperanças, quer dizer que já não esperas nas coisas da terra, que sua posse não te satisfaz; em consequência, sua lembrança torna-se menos viva e menos frequente, e assim tua memória fica vazia, capaz de aplicar-se unicamente ao que diz respeito a Deus e ao seu serviço.
-
-Exercita-te intensamente na esperança dos bens celestes e esquecerás os terrenos; espera só em Deus e não estarás mais ocupado na lembrança das criaturas.
-
-«Por fim, a caridade esvazia a vontade de todas as coisas, porque nos obriga a amar Deus acima delas; o que não pode acontecer, se não desviando delas o afeto para colocá-lo inteiramente em Deus.»
-
-Se queres chegar ao desapego e à renúncia total, deves amar muito. Quanto mais cresceres no amor divino, tanto mais te desapegarás com facilidade das coisas terrenas e também de ti mesmo; tanto mais serás capaz de negar tua vontade e aniquilar teu eu em todas as coisas.
-
-Caminha na fé, na esperança e no amor, e avançarás na noite do espírito sem perder-te nas obscuridades e trevas que poderás encontrar, porque essas virtudes te manterão firmemente ancorado em Deus.
+Elevando o homem ao plano sobrenatural, Deus não quis destruir nele aquilo que já havia criado, mas somente sublimá-lo, elevá-lo. À luz desses princípios, compreende-se por que foi dito que o apóstolo, como o sacerdote, deve ser um "perfeito cavalheiro" (Newman); compreende-se por que os santos são também os homens mais perfeitos, no sentido de terem levado à máxima perfeição e sublimação as virtudes naturais; compreende-se por que os santos, embora amem as criaturas com amor puramente sobrenatural, são capazes, mais do que os outros, de cercá-las de amabilidade, delicadeza e compreensão, de modo a conquistar com maior facilidade o seu coração. Além disso, é fácil entender que uma perfeita cortesia sempre igual a si mesma - mesmo com os importunos e mesmo nos momentos de cansaço - só pode provir de uma profunda virtude sobrenatural, de uma delicada caridade.
 
 ### Colóquio
 
-«Senhor, torna possível por tua graça aquilo que a mim parece impossível pela natureza. Tu sabes que valho pouco para sofrer e me abato logo que surge pequena dificuldade. Pela glória do teu nome, torne-se para mim amável e desejável qualquer prova e tribulação, pois sofrer e ser perseguido por amor de ti é de grande utilidade.
+"Ó Senhor, se eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria apenas bronze que soa ou címbalo que retine. E se eu tivesse o dom da profecia, e conhecesse todos os mistérios e toda a ciência, e se tivesse toda a fé, a ponto de transportar montanhas, e me faltasse amor, nada seria. E se distribuísse todos os meus bens em favor dos pobres, e entregasse o meu corpo para ser queimado, e não tivesse amor, de nada me aproveitaria.
 
-«Jesus, meu Senhor, assiste-me em todo lugar e circunstância; seja minha consolação privar-me espontaneamente de todas as glórias terrenas; e, caso me falte o conforto divino, seja minha consolação suprema tua vontade e a justa prova à qual me submetes.
+"Concede-me, pois, meu Deus, o amor: o amor que é paciente, benigno, que não inveja, que não se envaidece, não se ensoberbece, não é ambicioso, não é egoísta, não se irrita, não pensa o mal, mas alegra-se com a verdade, tudo sofre, tudo crê, tudo espera, tudo suporta" *(cf. 1 Cor.* 13, 1-7).
 
-«Ó Senhor, contanto que minha vontade se conserve sempre reta e firmemente unida a ti, faze de mim como melhor te aprouver, pois o que fazes por mim não pode deixar de ser ótimo. Se queres que eu viva nas trevas, bendito sejas; se me queres na luz, bendito sejas; se queres que eu sofra, igualmente bendito sejas para sempre.
+Ó Senhor, faze que, ao dar-me ao teu serviço, não diminua, mas cresça no meu coração a ternura para com o próximo e se torne cada vez mais pura, mais sobrenatural. Ensina-me a amar com essa ternura todos os que se aproximam de mim. Torna-me doce, afável, condescendente, não para atrair para mim a benevolência das criaturas, mas para poder conquistar para ti os seus corações.
 
-«Senhor, estou disposto a tolerar de boa vontade, por amor de ti, tudo o que te agradar dispor; de tua mão quero receber com o mesmo ânimo o mal e o bem. Lava-me de toda culpa e não terei mais temor da morte nem do inferno. Contanto que Tu não me afastes de ti para sempre, ó Senhor, e não me apagues do livro da vida eterna, nenhuma adversidade que possa acontecer-me me poderá causar dano» (*Imitação de Cristo*).
+Ó Jesus, se o apóstolo deve ser uma cópia tua não só nas grandes linhas, mas também nos matizes, como poderei sê-lo se não procurar imitar a doçura do teu Coração? Ó Jesus, manso e humilde de coração, torna o meu coração semelhante ao teu.

@@ -1,100 +1,23 @@
-## 239 — LA SPERANZA
+## IX — LA MISERICORDIA INFINITA
 
-### Presenza di Dio
-
-O Signore, rendi salda la mia speranza, perchè chi spera in te non resterà mai confuso.
+**Presenza di Dio.** — *Fammi comprendere, o Signore, i segreti della tua misericordia affinché possa approfittarne appieno.*
 
 ### Meditazione
 
-1.— La fede ti fa conoscere Dio; tu credi in lui con tutte le tue forze, però non lo vedi. La tua fede ha dunque bisogno di essere sostenuta dalla certezza che un giorno vedrai
-il tuo Dio, lo possederai e potrai unirti a lui in eterno. Questa certezza te la dà la virtù della speranza la quale ti presenta Dio come tuo bene infinito, come tua mercede eterna.
-La fede ti dice: Dio è bontà, bellezza, sapienza, provvidenza,
-carità, misericordia infinita; e la speranza soggiunge: questo
-Dio così grande e così buono è tuo, egli vuol essere il tuo
+**1** — L'amore di Dio verso di noi assume un carattere tutto particolare, consono alla nostra natura di creature fragili e deboli: il carattere della misericordia. La misericordia è l'amore che si china sulla miseria per sollevarla, per redimerla, per innalzarla a sé. Sembra quasi che Dio ci ami attratto dalla nostra debolezza, non perché questa sia amabile, ma perché Egli, bontà infinita, ne ha compassione e vuol supplirvi con la sua misericordia. Con la sua perfezione infinita vuol sanare la nostra imperfezione, con la sua purezza la nostra impurità, con la sua sapienza la nostra stoltezza, con la sua bontà il nostro egoismo, con la sua fortezza la nostra fragilità. Dio, bene supremo ed eterno, vuole essere il rimedio di tutti i nostri mali «perché sa bene di che siamo impastati e rammenta che siamo di fango» *(Sal.* 103, 14).
 
-egli è la tua beatitudine eterna, non solo, ma nell'attesa
-del cielo, fin da quaggiù, Egli vuol essere da te posseduto
-mediante la carità e, fin da quaggiù, t'invita a vivere
-in intima unione con lui.
+E, siccome il nostro male maggiore — anzi, l'unico vero male — è il peccato, ecco che la misericordia infinita vuole essere il rimedio anche a questo male estremo. Certamente Dio odia il peccato ma, mentre a motivo di esso Egli è costretto a ritirare la sua amicizia, la sua grazia dall'anima del peccatore, la sua misericordia sa ancora trovare il modo di continuare ad amarlo; e, di fatto, se non può più amarlo come amico, lo ama sempre come creatura, come fattura delle sue mani, lo ama per quel bene che resta ancora in lui e che dà speranza di conversione. La misericordia di Dio è tanto grande che nessuna miseria, per quanto profonda, può esaurirla, che nessun peccato, neppure il più obbrobriosa, purché pianto, può arrestarla. Un'unica cosa ha questo triste potere: la volontà superba dell'uomo che si rinchiude sdegnosamente nella sua miseria non volendo riconoscere il bisogno che ha della misericordia infinita. Dinanzi a questi casi, benché la misericordia divina sia immensa, si avverano le gravi parole del Vangelo: «Dio disperde coloro che s'inorgogliscono nei pensieri del loro cuore, rovescia dal loro trono i potenti... e rimanda vuoti i ricchi» (cfr. *Lc.* 1, 51-53).
 
-Tu guardi Dio infinito, perfettissimo, così immensamente
-al di sopra di te, creatura debole e misera, e pensi: ma, come
-per giungere a lui, come potrò unirmi a lui che supera infinitamente le mie capacità? E la speranza ti risponde: lo puoi, perchè Dio stesso lo vuole, anzi, proprio per questo fine
+**2** — La misericordia di Dio non ha limiti: mai ci rigetta a causa dei nostri peccati, mai si stanca delle nostre infedeltà, mai ci rifiuta il perdono, ma è sempre pronta a dimenticare qualsiasi offesa superba, a ricambiarci le sue grazie le nostre ingratitudini. E non ci rinfaccia mai i nostri torti, neppure quando, appena ricevuto il perdono, subito ricadiamo; neppure allora si sdegna per la nostra tenacia nel male, per la nostra fiacchezza nel bene, ma sempre ci tende la mano, desiderando soccorrerci. Anche quando gli uomini ci condannano, Dio ci usa misericordia, ci assolve, ci rende giustificati, come Gesù ha mandato giustificata la donna adultera: «Va', e non voler più peccare» *(Gv.* 8, 11). Col suo esempio e con le sue parole, Gesù ci mostra l'inesauribile grandezza della misericordia di Dio: pensiamo al figlio prodigo, alla pecorella smarrita, alla Maddalena, al buon ladrone. Ma Egli ci ha detto anche: «Siate misericordiosi come è misericordioso il Padre vostro» *(Lc.* 6, 36). Fin dove arriva la nostra misericordia? Fino a qual punto sappiamo compatire i difetti altrui? La misura della nostra misericordia verso il prossimo sarà la misura della misericordia di Dio verso di noi, perché Gesù ha detto: «sarete misurati con la stessa misura con la quale avrete misurato» *(Mt.* 7, 2).
 
-ti ha creato e ti ha elevato allo stato soprannaturale fornendoti tutti gli aiuti necessari per così ardua impresa. Il
-Concilio di Trento asserisce che tutti dobbiamo avere «speranza fermissima — firmissimam spem — nell'aiuto di Dio »,
-aiuto che Egli ha formalmente promesso a coloro che lo amano e ricorrono a lui con fiducia: « Chiedete e vi sarà dato —
-ha detto Gesù — cercate e troverete; picchiate e vi sarà aperto... Se voi, pur essendo cattivi, sapete dare buoni doni ai
-vostri figli, quanto più il Padre vostro che è nei cieli darà
-cose buone a quelli che gliele domandano? » (Mt. 7, 7 e 11)
-Le «cose buone » promesse da Gesù sono anzitutto quelle
-compendiate nell'atto di speranza: « la vita eterna e le grazie
-necessarie per meritarla >; è questo l'oggetto della speranza,
-è questo che dobbiamo chiedere ed invocare prima di ogni
-altra cosa.
-
-2. — Quando ti metti di fronte a Dio, al fine altissimo
-dell'unione con lui, intuisci subito che il grande ostacolo che
-si frappone fra te e Dio sono i tuoi peccati, la tua fragilità
-e la tua miseria per cui ti è tanto difficile vivere in modo
-degno di Dio. Ma la speranza ti viene incontro assicurandoti
-
-da parte della misericordia infinita e il perdono dei peccati
-e la grazia necessaria per vivere bene, anzi, per vivere santamente.
-
-Il perdono dei peccati rimuove da te l'ostacolo all'unione
-
-con Dio, la grazia ti avvicina a lui e finalmente consuma
-l'unione. Quanto conforto inonda l'anima tua quando tu,
-così debole, che non riesci ad evitare ogni peccato, pensi che
-Dio ti vuole sicuro del suo perdono; sì, tutte le volte che,
-sinceramente pentito, riconosci i tuoi falli, Egli, di fatto,
-per i meriti di Gesù, ti perdona e le tue colpe sono per sempre dimenticate; di ciò devi essere certo, non ti è lecito dubitarne, perchè non è lecito dubitare della misericordia e delle
-promesse di Dio. « Anche se i vostri peccati fossero come
-uno scarlatto — ha detto il Signore — diventeranno bianchi
-come la neve» (cfr. Is. 1, 18). Non solo, ma Dio vuole che
-tu sia parimenti sicuro che Egli ti concederà le grazie necessarie per vivere bene, per vincere le tue tentazioni ed i tuoi
-difetti, per progredire nelle virtù; proprio così conseguirai
-l'unione con lui, non solo in cielo, ma anche sulla terra. Il
-tuo ideale, ideale di santità, non è, quindi, irrealizzabile!
-E Dio vuole che aspetti tutto questo da lui, non perchè tu ne
-sia meritevole, ma perchè Egli è infinitamente buono, perchè
-Egli è l'omnipotentia auxilians, l'onnipotenza ausiliatrice, sempre pronta a venire in nostro soccorso. Certo, sarebbe temerarietà sperare che Dio ti salvi e ti santifichi senza la tua
-cooperazione; ma, se da parte tua fai tutto il possibile per evitare anche le mancanze più lievi e per esercitare con generosità le virtù, puoi sperare con certezza che Egli farà per te
-ciò che tu, malgrado i tuoi sforzi, non riesci a fare. Dio vuole che tu sia sicuro di ciò. La sicurezza è una proprietà della
-speranza perfetta e Dio vuole che tu eserciti questa virtù con
-perfezione.
+Per riversare su di noi la pienezza delle sue misericordie Dio non esige che siamo impeccabili, ma che siamo misericordiosi verso i nostri fratelli ed esige, inoltre, che siamo umili. Non basta, infatti, essere miseri per attirare su di sé la divina misericordia, ma bisogna riconoscere umilmente la propria miseria e rivolgersi a Dio con piena fiducia: «Ciò che piace a Gesù — diceva Teresa di Lisieux — è di vedermi amare la mia piccolezza e la mia povertà, è la cieca fiducia che ho nella sua misericordia. Ecco il mio tesoro» *(Lt.).* Questo è il tesoro che supplisce a tutte le nostre miserie, debolezze, ricadute, infedeltà, perché mediante questa umiltà e questa fiducia ci impadroniamo della misericordia infinita. E, avendo questa a nostra disposizione, come potremo scoraggiarci per la nostra miseria?
 
 ### Colloquio
 
-« Rivestimi, o Signore, della verde divisa della speranza.
+«Benedici il Signore, anima mia, e non dimenticare tanti suoi benefici. No, non dimenticherò che Tu hai perdonato tutte le mie colpe, guariti tutti i miei mali, che mi ricolmi di tenerezze e di favori, che sazi con beni i miei desideri.
 
-La viva speranza in te dà all'anima una tale vivezza, coraggio ed elevazione alle cose della vita eterna che, a confronto
-di ciò che lassù si aspetta, tutte le cose del mondo le sembrano, come sono in verità, appassite, aride, morte e di nessun
-valore. Dammi, dunque, forte speranza, o mio Dio, affinchè
-io mi spogli di tutte le vanità del mondo ed io non riponga
-in altra cosa, non sperando niente di ciò che si
-trova quaggiù, ma viva solamente vestito della speranza di
-vita eterna. La speranza sia l'elmo di salute che protegga
-il mio capo dalle ferite del nemico e che orienti il mio sguardo al cielo, permettendomi di fissare gli occhi soltanto in te,
-Dio mio. Come gli occhi della serva si posano sulle mani della sua padrona, così i miei si fermino in te; sino a che Tu
-avrai pietà di me a motivo della mia speranza. Fa' che io non
-fissi lo sguardo in altra cosa, nè mi appaghi se non di te e
-Tu, allora, ti compiacerai di me, sì che con tutta verità potrò dire che tanto da te ottengo quanto ne spero » (cfr. G.O.
+«Tu sei pietoso, indulgente, o Signore, paziente e pieno di bontà; non stai sempre a contestare, né serbi perpetuo rancore. Non mi hai trattato a stregua dei miei peccati, né mi hai ripagato come meritano le mie colpe; anzi, quanto il cielo si leva alto da terra, tanto la tua bontà supera i miei meriti. Come è pietoso un padre verso i suoi figli, così, o Signore, Tu sei pietoso verso quelli che ti temono, perché Tu sai bene di che siamo impastati e rammenti che siamo di fango. Tutto passa, ma la tua bontà, o Dio, dura in eterno e va di generazione in generazione» (cfr. *Sal.* 102).
 
-S. II, 21, 6-8).
+«O Signore, credo da un pezzo che Tu sei più tenero di una madre... e so che una madre è sempre pronta a perdonare le mancanze involontarie del suo bambino. Sì, dal momento che anche a me fu dato comprendere l'amore del tuo Cuore, esso liberò il mio cuore da ogni paura. Il ricordo delle mie colpe mi umilia, mi induce a non appoggiarmi mai sulla mia forza, che non è altro che debolezza; ma questo ricordo, o Signore, mi parla ancor più della tua misericordia e del tuo amore. Come, dunque, non saranno distrutte le mie colpe se le getterò con una confidenza filiale nella fornace ardente del tuo amore?
 
-«Per contemplare la grandezza della tua Divinità, o Signore, mi è necessaria la fede e per operare mi è necessaria la
-speranza, perchè se non avessi speranza di vederti un giorno, non avrei la forza di faticare quaggiù. Non desidero più
-cose terrene, non più, sebbene in esse non ho mai sperato.
-Ma ho viva speranza di conseguire non le cose della terra,
-nelle quali vanamente sperano i mondani, ma di conseguire te, mio Dio.
-
-«O Signore, dammi salda speranza, perchè non mi posso
-salvare senza questa virtù ben radicata ed infusa nell'anima.
-Essa mi è necessaria per impetrare perdono dei miei peccati
-e per raggiungere il mio fine. Quale diletto dà all'anima mia
-la speranza, facendole sperare quello che in patria deve poi
-godere, facendole fin da quaggiù gustare in parte quello che
-nel cielo deve eternamente godere, intendere e possedere,
-il che sei Tu, Dio mio» (S. M. Maddalena de' Pazzi).
+«O Gesù, perché non mi è dato di narrare a tutte le anime la tua condiscendenza ineffabile? Io lo sento che se, per un caso impossibile, Tu mi trovassi un poco più debole della mia, ti compiaceresti di colmarla di grazie più grandi ancora, purché ella si abbandonasse con piena fiducia alla tua misericordia infinita» (cfr. T.B.G. St. 8; Lt.; St. 11).

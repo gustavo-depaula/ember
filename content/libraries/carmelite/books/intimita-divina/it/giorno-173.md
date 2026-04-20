@@ -1,120 +1,17 @@
-## 173 — L’ASCENSIONE DEL SIGNORE
+## IV — Madre di Dio
 
-### Presenza di Dio
-
-O Gesù che sali al cielo, fa' che abiti anch'io col cuore in cielo.
+**Presenza di Dio.** — *Santa Madre del mio Dio, fammi sentire i palpiti del tuo cuore che ha battuto all'unisono col cuore di Dio!*
 
 ### Meditazione
 
-1. — Il pensiero centrale della liturgia odierna è innalzare i nostri cuori al cielo, per cominciare ad abitare
-in ispirito là, dove Gesù ci ha. preceduti: « L'ascensione
-di Cristo — dice S. Leone — è la nostra elevazione; e
-il corpo ha la speranza d'essere un giorno dove l'ha preceduto il suo glorioso Capo» (BR.). Infatti, già nel discorso
-dell'ultima Cena il Signore aveva detto: «Vado a pre
-parare un posto per voi. E quando sarò andato e avrò
-preparato il vostro posto, tornerò e vi prenderò con me,
-affinchè dove sono io, siate anche voi » (Gv. 14, 2 e 3). L'Ascensione è quindi una festa di gioiosa speranza, di soave
-pregustazione del cielo: entrandovi, Gesù, nostro Capo,
-ci ha dato il diritto di seguirlo un giorno; anzi, possiamo
-dire, con S. Leone, «che in Cristo noi stessi siamo penetrati nel più alto dei cieli» (BR.). Come in Cristo Crocifisso siamo morti al peccato ed in Cristo risorto siamo
-risorti alla vita della grazia, così in Lui asceso al cielo
-siamo saliti al cielo anche noi. Questa vitale partecipa
-zione ai misteri di Cristo è la grande conseguenza della
+**1** — La maternità divina è la fonte di tutti i privilegi di Maria; Maria è la figlia diletta del Padre, preservata dalla colpa di origine, è la sposa dello Spirito Santo, adombrata dalla sua virtù, appunto perché è stata prescelta quale madre del Verbo Incarnato. Tutte le grandezze e le glorie di Maria si spiegano in vista della sua maternità divina; anzi la sua stessa esistenza si spiega in vista della predestinazione a sì alto ufficio. Se Dio non avesse stabilito l'Incarnazione del Figlio suo nel seno di una Vergine, noi non avremmo avuto quel capolavoro di grazia e di amabilità che è Maria SS.ma, non avremmo avuto il suo sorriso, le sue carezze materne. Noi dunque amiamo e onoriamo la Madonna, proprio perché è madre di Dio, è madre di Gesù, e, amandola così in rapporto a Dio, la nostra devozione verso di lei non fa che rendere più profondo e più delicato il nostro amore per Iddio, per Gesù. «Mater Dei, Mater Creatoris» invochiamo nelle litanie: due titoli che sembrano contraddittori nei loro termini e che pure esprimono una grande realtà, perché Maria, pur essendo creatura, è veramente la madre del suo Creatore, madre del Figlio di Dio a cui ha dato un corpo umano, frutto delle sue viscere e del suo sangue. Qui, più che mai, si vede come la dignità di Maria tocca le soglie dell'infinito: Dio può fare un mondo più grande, un cielo più vasto, ma non può fare una pura creatura più eccelsa di Maria, giacché essere madre di Dio è la massima dignità conferibile ad una semplice creatura (cfr. S. Bonaventura).
 
+E a chi si meraviglia come mai nel Vangelo è detto tanto poco di Maria, S. Tommaso da Villanova risponde: «Che cosa cerchi di più? Ti basti sapere che è la Madre di Dio. Fu abbastanza dire di lei: *de qua natus est Jesus,* da lei nacque Gesù». Sì, per innamorarmi di te mi basta sapere che Tu sei la Madre del mio Dio.
 
-nostra incorporazione a Lui; essendo Egli il nostro Capo,
-noi, sue membra, siamo totalmente dipendenti da Lui e
-intimamente legati alla sua sorte. «Iddio, ricco di misericordia — insegna S. Paolo — per il grande amore che
-ci portava... ci richiamò a vita in Cristo... in Gesù Cristo
-ci ha risuscitati e ci ha fatti sedere nei cieli» (Ef. 2, 4-6).
-Il diritto al cielo è acquistato, il posto è pronto, tocca a
-noi vivere in modo tale da meritare di occuparlo un giorno.
-Frattanto, nell'attesa, dobbiamo attuare la bella petizione
-che la liturgia ci mette sulle labbra: e Concedici, o Dio
-onnipotente, che abitiamo anche noi con lo spirito nella
-celeste dimora » (Colletta). « Dov'è il tuo tesoro, là v'è
-anche il tuo cuore» (Mt. 6, 21) ha detto un giorno Gesù.
-Se Gesù è veramente il nostro tesoro, il nostro cuore non
-potrà essere che in cielo vicino a Lui. E' questo il grande
-anelito dell'anima cristiana, tanto bene espresso nell'inno
-dei vespri odierni: «Gesù, sii la meta dei nostri cuori,
-sii il conforto delle nostre lacrime, sii il dolce premio della
-nostra vita» (BR.).
+**2** — Benché fin dall'eternità Dio avesse predestinata Maria quale madre del Figlio suo, non volle però che lo fosse inconsciamente ma, giunta l'ora di realizzare il suo piano, Egli volle chiedere il consenso dell'umile Vergine. L'annunzio dell'Angelo rivela a Maria l'altissima vocazione che Dio le riserva: «Tu concepirai nel tuo seno e darai alla luce un figliuolo, a cui porrai nome Gesù» *(Lc.* 1, 31). Maria interroga e l'Angelo spiega il mistero della maternità divina che si opererà in lei, senza ledere la sua verginità. Che cosa può fare dunque Maria se non aderire? Non è la prima volta che la sua volontà si perde in quella del Signore: fin dal principio della sua esistenza ella ha vissuto nello stato di perfetta unione con Dio, la sua caratteristica è proprio la piena uniformità della volontà umana con quella divina. Perciò Maria con tutto l'amore dell'anima sua dà il suo consenso, dice il suo *fiat!,* volontariamente accetta, volontariamente si abbandona all'azione di Dio. Subito il mistero si compie e la Vergine porta Dio presente in lei non solo spiritualmente — come tutte le anime in grazia — ma anche fisicamente. Il Verbo di Dio, dice S. Pier Damiani, è presente in lei «per identità» di natura, poiché è una cosa sola con lei, come il figlio è una cosa sola con la madre sua. Identità di natura per la carne ed il sangue, per la vita del corpo che Maria comunica al Figlio; identità di grazia per la sovrabbondanza di vita soprannaturale che il Figlio comunica alla Madre; identità di affetti, di desideri, di sentimenti che il Cuore di Cristo imprime nel Cuore di Maria. Nessuno più della Vergine Madre può dire: «Vivo non più io, ma vive in me Cristo» *(Gal.* 2, 20).
 
-2. — Ma accanto alla speranza ad alla gioiosa aspettazione del cielo, la festa dell'Ascensione ha anche un
-tono di malinconia. Di fronte alla definitiva dipartita di
-Gesù, gli Apostoli dovettero essere presi da un senso di
-
-
-sgomento, lo sgomento di chi vede allontanarsi per sempre
-l'amico e il sostegno più caro e si ritrova solo di fronte
-alle difficoltà della vita. Il Signore intuì lo stato d'animo
-dei suoi ed ecco che ancora una volta li conforta promettendo la venuta dello Spirito Santo, lo Spirito consolatore:
-« Comandò loro — leggiamo nell'Epistola — di non allontanarsi da Gerusalemme, ma d’aspettarvi la promessa del
-Padre... Voi sarete battezzati con lo Spirito Santo, di
-qui a non molti giorni». Ma anche questa volta gli
-Apostoli non compresero! — Come avevano bisogno di essere illuminati e trasformati dallo Spirito Santo per essere
-atti alla grande missione che sarebbe stata loro affidata! E
-
-infatti Gesù riprese: « Voi riceverete forza di Spirito Santo...
-e mi sareté testimoni... fino alle estremità della terra».
-Ma per il momento sono lì, attorno al Maestro, deboli,
-timorosi, sgomenti, un po' come bambini che vedono la
-mamma partire per un paese lontano e sconosciuto. Infatti,
-mentre i loro sguardi sono rivolti su di Lui, Gesù si leva
-in alto e una nube lo nasconde agli occhi loro. Devono
-venire due Angeli a distoglierli del grande sbigottimento
-ed a richiamarli alla realtà del fatto compiuto; allora,
-confidando nella parola di Gesù, che è ormai il loro unico
-appoggio, ritornano a Gerusalemme e si chiudono nel
-Cenacolo per attendere in preghiera l'adempimento della
-promessa. Era la prima novena di Pentecoste: « perseveravano concordi nella preghiera... con Maria Madre di Gesù»
-(At. 1, 14).
-
-Ritiro, raccoglimento, preghiera, concordia coi fratelli,
-unione con Maria SS.ma, ecco le caratteristiche della novena che deve preparare anche noi alla venuta dello Spirito Santo.
+Immenso, meraviglioso mistero! E sullo sfondo di questo mistero troviamo il sì di una piccola creatura umana. Dio ha creato l'uomo libero e perciò, pur desiderando operare in lui grandi cose, non vuol farlo senza il suo consenso. Dio ci vuole trasformare con la sua grazia, ci vuole santificare, ma per farlo attende il nostro sì. Se il nostro sì è pieno e totale come quello di Maria e Dio compirà in noi l'opera sua.
 
 ### Colloquio
 
-« O mio Dio, o mio Dio, o mio Gesù, te ne vai e da
-noi ti parti! Oh, che gaudio si farà in cielo! Ma noi,
-restiamo quaggiù in terra. O eterno Verbo, che t'ha fatto la
-creatura, per la quale hai operate tante cose ed ora ascendi
-al cielo per maggior sua gloria? Dimmi, che t'ha fatto che
-tanto l'ami? Che le dai? Che ricerchi da lei? L’ami tanto
-‘che le dai te stesso che sei ogni cosa, e fuor di te non è
-cosa alcuna. Vuoi da lei ogni suo volere e sapere, poichè,
-dandoti questo, ti dà tutto quello che ha, O Sapienza
-infinita, o Bontà somma, o Amore, o Amore poco conosciuto, meno amato e da pochi posseduto! O ingratitudine
-nostra, cagione d'ogni male; o purità poco conosciuta
-e poco desiderata! O mio Sposo, o mio Sposo, ora che sei
-con l’Umanità tua nel cielo sedente alla destra dell'Eterno
-Padre, crea in me un cuore puro e uno spirito retto
-
-rinnova nel mio seno» (S. M. Maddalena de’ Pazzi).
-«Ahimè, Signore, come è lungo questo esilio! Come
-
-lo rende più pesante il desiderio di vederti! Signore, che
-
-può fare un'anima chiusa in questo carcere?... Ma io desi-
-
-dero contentarti. Eccomi qui, Signore! Se per servirti in
-
-. qualche cosa m'è necessario vivere ancora, non rifiuto
-
-nessuna delle croci che mi possono attendere sulla terra.
-Ma, ahimè, Signore, ahimè! io non ho che parole; nè
-d'altro son capace. Fa, mio Dio, che innanzi a te abbiano
-valore almeno i miei desideri, senza guardare alla pochezza
-dei miei meriti.
-
-«Ah, che i miei servizi sarebbero sempre miseri mio
-Dio, anche se te ne rendessi in gran numero! E allora,
-perchè rimanere in questa vita così piena di miserie?
-Unicamente per fare la tua volontà. è forse possibile
-un maggior guadagno di questo? Spera dunque, anima
-mia, spera. Vigila attentamente perchè non sai il giorno,
-nè l'ora. Tutto passa con prestezza, benchè la tua impazienza ti renda... lungo un tempo breve. Pensa che se più
-combatti, più dai prove d'amore al tuo Dio e più godrai
-del tuo Diletto nel gaudio e nella felicità senza fine»
-(T.G. Es. 15).
+«A te, Signore Iddio, rendo grazie dal più intimo del cuore, perché ti sei degnato di prendere per noi, indegni, la nostra natura e, nascendo dalla Vergine, hai voluto esser nutrito di latte, essere raccolto nel suo grembo e stare a lei sottoposto, Tu che tutto conservi e reggi. E ti sei degnato d'illuminare me miserabile in modo che io sappia che Tu hai una Madre, e tanto a me indegnissimo concedesti che possa e ardisca salutarla... Oh, con quanta devozione dovrebbe effondersi il mio cuore verso di te, Vergine Maria! La mia bocca dovrebbe abbondare di una mirabile dolcezza mentre saluto te, dolce e benigna Signora, e benedico il frutto del tuo seno. Oh, come può essere che nel salutarti non mi diletti tanto da porre in oblio ogni cosa per te e per il tuo Frutto? E che cosa Tu puoi ascoltare più volentieri del saluto, nel quale si riconosci la Madre di Dio? Tu vuoi che gli uomini si rallegrino in te, sì che l'affetto loro ritorni sempre in Colui del quale sei Madre, poiché Tu altro non desideri che esser salutata e conosciuta per Madre di Dio. *Ave,* dunque, o Maria, e veramente *ave! O* mirabile *ave!,* dal quale i demoni sono messi in fuga, liberati i peccatori, ricreati i figliuoli; l'Angelo si congratula con te, o Vergine, il Verbo s'incarna nel tuo seno e Tu diventi Madre di Dio. A te, dunque, canti *ave* senza fine l'universa creatura... Con ogni riverenza onore e devozione dobbiamo salutarti, o Beatissima Vergine, e Tu cerchi chi si accosta a te con riverenza e devozione. Questi ami, questi nutri, questi ti prendi quali figlioli. Oh, beato colui che ha la gioia di averti per Madre, che ti abbraccia con l'affetto, che ti imita nelle opere! Oh, felice colui che fa di tutto per conformarsi a te, Madre di Dio! Questi è certamente colui che, disprezzata ogni creatura, a Dio solo si stringe con singolare amore e, crocifisso con Cristo, brama la salute delle anime» (cfr. S. Bonaventura).

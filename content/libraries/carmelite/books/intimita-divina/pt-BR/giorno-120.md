@@ -1,123 +1,118 @@
-## 120 — LIVRE IMOLAÇÃO DA LIBERDADE
+## 118 — O VALOR DA OBEDIÊNCIA
 
 ### Presença de Deus
 
+— Ó Jesus obedientíssimo, faze-me compreender o valor da obediência.
+
 ### Meditação
 
-1 — O voto de obediência foi otimamente definido como
-"a livre imolação da liberdade" (Pio XII, Congr.
-Relig. dez. 1950). Esta definição põe em evidência o
-conceito de imolação livre, e isso, muito mais que uma
-passividade inerte, faz pensar numa intensa e nobre atividade
-que consiste na renúncia voluntária do próprio querer,
-para submeter-se voluntariamente à vontade de Deus,
-expressa nas ordens dos superiores. Estamos, portanto, bem
-longe do conceito de uma obediência mecânica, material,
-ou então forçada, sofrida necessariamente, pela qual
-o homem age como uma máquina ou como um servo que
-se submete ao patrão só porque não pode fazer de outro
-modo. Aqui há somente o nome e a aparência externa da obediência,
-mas na realidade falta-lhe o conteúdo interior:
-o ato formal, que consiste precisamente na renúncia livre e portanto consciente da própria vontade, para
-aderir à vontade de Deus manifestada pelas ordens do
-superior. Somente em virtude desse duplo elemento:
-livre renúncia de si e livre adesão à vontade divina,
-a obediência é um perfeito holocausto, tão agradável e precioso aos olhos de Deus, a ponto de valer "muito mais
-que as vítimas" (1 Sm. 15, 22). Se falta esse
-duplo elemento interior, o ato externo de obediência
-poderá bastar para não faltar ao voto ou à
-promessa feita, mas perde seu profundo valor e jamais será meio para desprender o homem de sua vontade e
-lançá-lo na vontade de Deus.
+1 — "O Senhor - ensina S. João da Cruz -
+prefere de ti o menor grau de obediência e submissão
+mais do que todos os serviços que pensas prestar-lhe"
+(AM. I, 13). Por quê? Porque a obediência te faz renunciar
+à tua vontade para aderir à vontade de Deus,
+expressa nas ordens dos superiores; e precisamente na completa conformidade da tua vontade com a vontade divina consiste a
+perfeição da caridade, consiste a essência da união com
+Deus. A caridade será em ti perfeita quando em toda ação
+te regulares não segundo tuas inclinações e desejos
+pessoais, mas segundo a vontade de Deus,
+conformando a ela a tua. E precisamente esse é o estado
+de união com Deus, pois "a alma que tem a vontade inteiramente conforme e semelhante à divina é, por isso mesmo, totalmente unida e transformada em Deus"
+(J.C. S. II, 5, 4).
 
-Quando te contentas com uma obediência material, forçada, não cumpres o ato interno de renúncia de ti mesmo; ainda
-que exteriormente te conformes à ordem recebida,
-interiormente, porém, reservas tua vontade; não podes
-portanto dizer que realizaste a imolação da liberdade
-nem tampouco que abraçaste livremente a vontade
-divina. Uma semelhante obediência é um contrassenso para
-uma alma que aspira à união com Deus; é pretender
-chegar ao fim sem usar os meios, é trocar a
-moeda preciosa da verdadeira obediência por uma vil moeda de estanho. S. Teresa de Jesus ensina: "a obediência
-é o caminho mais breve e o meio mais eficaz para chegar
-ao felicíssimo estado da união com Deus" (Fd. 5, 11); trata-
-se unicamente, porém, daquela obediência que é "livre imolação da liberdade", para não querer outra
-liberdade senão a de fazer a vontade de Deus.
+A vontade de Deus encontras expressa em seus mandamentos,
+nos preceitos da Igreja, nos deveres do teu estado;
+mas além disso ainda resta largo campo à tua livre
+escolha, e, no entanto, nem sempre te será fácil reconhecer com
+certeza o que Deus quer de ti. Ao contrário, na voz da
+obediência a vontade divina toma forma clara,
+precisa, e te é manifestada abertamente, de modo que já não podes
+temer errar. Com efeito, "não há autoridade que não venha
+de Deus" (Rm. 13, 1), de sorte que, obedecendo a teus legítimos superiores, podes ter certeza de obedecer a Deus. O próprio Jesus,
+confiando aos seus discípulos a missão de evangelizar as
+gentes, disse: "Quem vos ouve, a mim ouve, e quem vos rejeita, a mim rejeita" (Lc. 10, 16); e assim nos ensina
+que os superiores eclesiásticos o representam e nos falam
+em seu nome. E, aliás, S. Tomás demonstra que em
+toda autoridade legítima - também de ordem natural, como por
+exemplo a de ordem civil e social - quando ela
+manda dentro dos justos limites de seus poderes, há manifestação da vontade divina. Precisamente nesse sentido
+o Apóstolo não hesita em dizer: "Servos, obedecei a vossos
+senhores... como a Cristo... fazendo de coração a vontade
+de Deus" (Ef. 6, 5 e 6).
 
-2 — Uma "livre imolação" exige sempre consciência,
-consciência por parte de quem a cumpre; assim deve ser
-do ato de obediência. Se fizeste o voto ou a promessa de obediência, deves procurar manter sempre
-vivo em ti o senso de responsabilidade pelo compromisso assumido.
 
-Ao pronunciares tua profissão, quiseste oferecer tua
-vontade em holocausto ao Senhor, para deixares-te guiar
-por quem o representa; por isso, diante das várias ordens
-da obediência - e sobretudo diante daquelas que
-mais contrastam com tuas vistas ou que por qualquer
-motivo te são mais gravosas - deves vigiar para que não
-te aconteça retomares, na prática, aquilo que ofereceste
-com voto, o que seria cometer uma rapina no holocausto. Tua vontade já foi consagrada,
-sacrificada no altar do Senhor; não é mais tua,
-portanto já não és livre para retomá-la.
-Deves, ao contrário, usar tua
-liberdade para viver, para realizar dia por dia tua
-oferta, isto é, para renovar continuamente, diante de
-cada disposição da obediência, a imolação da tua
-liberdade. Bendita obediência que te permite realizar teu holocausto! "Se não consagrásseis assim vossa
-vontade ao Senhor - escrevia Teresa de Jesus às suas
-filhas - assemelhar-vos-íeis a alguém que mostra a outro
-uma pérola preciosa, lha oferece, pede que a aceite,
-e quando ele estende a mão para tomá-la, retira
-a oferta e a esconde bem" (Can. 32, 7). Isso infelizmente
-é sempre possível também a ti; de fato, embora tenhas
-sacrificado com voto tua vontade, ela permanece ainda
-em tuas mãos e depende da tua própria vontade manter fé ao voto feito. É, portanto, necessário que sejas
-bem decidido a vencer tuas repugnâncias para abraçar
-o querer de Deus expresso nas ordens dos superiores.
+2 — Um dos maiores obstáculos à plena conformidade
+da tua vontade com a de Deus é o apego ao teu querer,
+aos teus desejos, às tuas inclinações. Ora, a obediência,
+pedindo-te que te regules segundo o querer alheio, é o
+melhor exercício para habituar-te a negar tua própria vontade,
+para desapegar-te dela e fazer-te antes aderir à
+vontade divina, manifestada nas ordens dos superiores. E,
+quanto mais estreita for a forma de obediência à qual estás submetido,
+isto é, quanto mais ela tender a abranger não só algum
+particular, mas toda tua vida, tanto mais intenso será
+esse exercício e mais te fará entrar na
+vontade de Deus. Este é o grande valor da obediência:
+pôr a vida do homem na vontade de Deus, dar ao
+homem, em toda circunstância, a possibilidade de regular-se
+não segundo sua vontade, tão fraca, frágil, sujeita
+ao erro, tão limitada e cega, mas segundo a
+vontade de Deus, tão boa, perfeita e santa que não
+pode jamais errar, nem querer o mal, mas quer só o
+bem, e não o bem transitório que hoje é e amanhã
+já não é, mas o bem eterno, imperecível.
 
-"A obediência é o peso dos fortes" (Pio XII, aos Carm.
-Descalços, set. 1952), justamente porque requer a força de renunciar a si mesmo; mas esse peso, isto é, essa renún-
-cia, é suave para a alma enamorada da vontade de Deus,
-que justamente em seu amor encontrará sempre a força
-de renegar-se.
+A obediência te faz realizar esta troca felicíssima:
+deixar tua vontade para abraçar a vontade de Deus. É este
+o motivo pelo qual os santos corriam ao encontro da obediência.
+De S. Teresa Margarida do Coração de Jesus se diz:
+"não somente voava ao executar as ordens, mas
+alegrava-se extremamente e exultava em obedecer" (Sp. p.
+74). Se à natureza pode custar negar a própria vontade,
+renunciar a um projeto, a um plano, a um trabalho tão
+amado e acalentado, não é nessa renúncia que a alma de
+vida interior fixa o olhar; mas, ainda sofrendo e lutando
+para vencer-se, lança-o muito mais além:
+fixa-o na vontade de Deus, que se lhe apresenta escondida
+na voz da obediência, e a essa vontade se entrega com
+todas as suas forças, porque abraçar a vontade de Deus
+é abraçar o próprio Deus.
 
 ### Colóquio
 
-Ó Senhor, que ideal maior e mais belo do que
-chegar a conformar totalmente minha vontade à tua,
-de tal modo que não mais a minha, mas só a tua vontade me sustente,
-me guie, me governe em todos os meus movimentos, em todas
-as minhas ações?
+"Oh, quão doce e gloriosa é esta virtude da obediência,
+na qual estão todas as outras virtudes! Porque ela nasce
+da caridade; nela está fundada a pedra da santíssima fé;
+ela é uma rainha, e aquele que a desposa não sente mal algum,
+mas sente paz e quietude. As ondas do mar tempestuoso não
+lhe podem fazer dano, porque ele navega na tua vontade,
+meu Deus... Não tem desejo algum que não seja satisfeito,
+porque a obediência o faz desejar somente a ti, ó Senhor,
+que podes, sabes e queres cumprir seus desejos.
+Ó obediência, que navegas sem fadiga e sem perigo chegas
+ao porto da salvação! Ó Jesus, vejo a obediência
+conformar-se contigo, contigo a vejo subir à navicela da
+santíssima cruz. Concede-me, pois, ó Senhor, esta
+santa obediência, ungida de verdadeira humildade, reta sem
+qualquer tortuosidade, que leva consigo a luz da graça divina.
+Concede-me esta pérola escondida e calcada pelo mundo,
+que se avilta, sujeitando-se por amor de ti às
+criaturas" (S. Catarina de Sena).
 
-Oh, quão sublime é o estado de perfeita conformidade à
-tua vontade divina! E Tu mais uma vez me repetes que
-para adquirir este tesouro não há meio melhor
-do que cavar na mina da obediência e extraí-lo
-à viva força. Quanto mais cavarei, mais encontrarei;
-quanto mais me sujeitarei aos homens por amor teu,
-não querendo outra vontade
-que a dos superiores, tanto mais me tornarei senhor da minha
-para conformá-la à tua. Esta é a verdadeira união com
-teu, meu Deus, esta é a união que desejo, não
-aquelas suspensões muito deleitosas às quais se dá o nome
-de união, e que união não são, senão quando são
-precedidas por esta. Tu me fazes compreender bem que,
-se eu tiver pouca obediência e muita vontade minha, a união
-não será com tua vontade, mas com meu amor-próprio.
-Praza-te, ó Senhor, que eu ponha em prática quanto
-me dás graça de compreender" (cf. T.G. Fd. 5, 13).
+Ó Senhor, não tenho senão uma vida, e de que modo
+melhor poderei empenhá-la para tua glória e para minha
+santificação do que colocando-a diretamente sob a
+obediência? Só assim terei a certeza de não perder tempo e de
+não errar, pois pôr-se na obediência é pôr-se
+na tua vontade. E, se minha vontade é tão defeituosa,
+a tua é santa e santificante; se minha vontade tem o triste poder de fazer-me errar, a tua tem o grande poder de santificar
+minha pobre vida, de santificar todas as minhas ações,
+até as mais simples e indiferentes, feitas sob
+seu impulso. Ó Senhor, é justamente o desejo de viver
+totalmente na tua vontade que me impele para a obediência,
+que me faz amar e abraçar esta virtude, apesar do
+meu vivo amor à liberdade e à independência.
 
-Ó Senhor, Tu bem o sabes, à minha vontade não agrada
-submeter-se, não agrada renunciar a si mesma para sujeitar-
-se ao querer alheio; há em mim um forte amor à
-liberdade, à independência, que me inclina a buscar mil
-e mil caminhos para fugir à necessidade de depender.
-
-Mas Tu também sabes que nenhuma coisa no mundo amo, busco,
-desejo como tua vontade. E para viver na tua
-vontade, para ter a certeza e a alegria de agir em
-tudo segundo teu querer divino, estou pronto, com
-teu auxílio, a fazer qualquer sacrifício, a imolar até o
-fundo minha liberdade. Ó Senhor, aumenta meu amor
-por tua santa vontade, acende em mim a paixão da
-tua vontade, e então crescerá em mim o amor à obediência,
-canal de ouro através do qual me chega o tesouro preciosíssimo da tua vontade.
+Ó santa e santificante vontade do meu Deus, quero
+amar-te acima de todas as coisas, quero abraçar-te em cada instante
+da minha vida, não quero fazer nada sem ti, fora de ti.

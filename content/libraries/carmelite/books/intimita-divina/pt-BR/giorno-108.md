@@ -1,132 +1,132 @@
-## 108 — AS HUMILHAÇÕES
+## 106 — HUMILDADE E CONFIANÇA
 
 ### Presença de Deus
 
-— Ó Jesus, humilhado por mim até a abjeção, ensina-me a humilhar-me por amor de ti.
+— Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.
 
 ### Meditação
 
-1 — A muitos agrada ser humildes, mas a poucos agrada ser
-humilhados; muitos com fervorosas orações pedem a Deus a humildade, mas bem poucos pedem a humilhação, e no entanto sem
-humilhação é impossível conseguir a humildade,
-porque, como o estudo é o meio para adquirir a ciência,
-assim a humilhação é o meio para adquirir a humildade.
-
-Enquanto desejas a humildade, mas não sabes aceitar humilhações, não podes pensar que estás no caminho da verdadeira humildade;
-e, ainda que em certos encontros saibas comportar-te humildemente, trata-se mais de humildade superficial e aparente do que
-de humildade real e profunda. A humildade é verdade e por isso te diz
-que, não tendo de teu senão o pecado, por direito de
-justiça não te cabe senão humilhação e desprezo. Se
+1 — A humildade cristã não deprime, mas eleva,
+não abate, mas encoraja, porque quanto mais desvenda à alma
 
 
-estivesses realmente convencido disso, acharias muito justo
-que todos te humilhassem, te tratassem mal, te desprezassem.
-E de fato, que honras e considerações merece aquele que
-ofendeu seu Criador, quando um só pecado, ainda que
-venial, é mais deplorável e merece maior desprezo que
+seu nada, sua baixeza, tanto mais a lança para Deus,
+cheia de confiança e de abandono. O próprio fato
+de que em tudo - no ser e no agir, tanto na ordem natural quanto na
+sobrenatural - dependemos dele e nada podemos fazer sem ele,
+nos diz que Deus quer sustentar-nos continuamente
+com seu socorro, com sua graça. Em consequência,
+as relações de uma alma humilde com Deus serão aquelas
+de um filho que espera tudo confiantemente
+de seu pai. É este o ensinamento que Jesus quis
+dar aos Apóstolos quando lhe perguntaram quem seria o maior
+no reino dos céus: "Em verdade vos digo:
+se não vos converterdes e não vos tornardes como criancinhas,
+não entrareis no reino dos céus. Quem portanto se fizer pequeno como esta criança será o maior no reino dos céus" (Mt. 18, 3-4).
+Tornar-se criança - explica S. Teresa do Menino Jesus -
+"quer dizer reconhecer o próprio nada,
+esperar tudo do bom Deus como uma criança espera
+tudo de seu pai... Mesmo entre os pobres,
+dá-se à criança o necessário; mas quando ela se torna
+grande, seu pai já não quer sustentá-la
+e lhe diz: 'Agora trabalha! podes bastar-te a ti mesma.' Precisamente para não ouvir essas palavras,
+eu nunca quis tornar-me grande, reconhecendo-me absolutamente incapaz de ganhar minha vida,
+a vida eterna!" (CR. e NV.).
+
+Para a alma que, reconhecendo humildemente sua indigência,
+se volta para Deus com plena confiança, Deus é um terníssimo
+Pai que se compraz em cumulá-la de seus dons e em fazer
+por ela aquilo que ela sozinha não sabe fazer. Então quem é mais
+pequeno - isto é, mais convencido do próprio nada - torna-se
+o maior, porque tem à sua disposição a grandeza do
+próprio Deus.
 
 
-qualquer estado de miséria, de pobreza, de ignobilidade terrena?
-
-Profundamente persuadidos disso, os Santos nunca
-consideravam demasiado graves as humilhações que lhes eram infligidas,
-aliás achavam-nas sempre inferiores ao que pensavam
-merecer. "Nunca ouvi dizer tanto mal de mim -
-dizia S. Teresa de Jesus - sem ver ao mesmo tempo que
-ainda era pouco. Se me acusavam falsamente sobre um
-ponto, eu via que havia ofendido o Senhor sobre muitos
-outros e que me faziam grande caridade em não falar deles"
-(Cam. 15, 3).
-
-"Tem, pois, paciência nas tuas humilhações, porque,
-como no fogo se prova o ouro, assim o homem no crisol
-da humilhação" (cf. Ecli. 2, 4 e 5). Se sentes o peso do
-teu orgulho e desejas de verdade libertar-te dele, aceita
-todas as humilhações e por meio delas o Senhor quebrará teu orgulho.
+2 — Deus não introduz as almas numa vida espiritual
+mais elevada, não as admite a maior intimidade com ele,
+enquanto não as encontra completamente despojadas de toda confiança
+em si mesmas. Quando uma alma, esquecendo praticamente
+seu nada, confia ainda que um pouco em suas próprias forças,
 
 
-2 — Mais do que procurar humilhações por tua iniciativa,
-dispõe-te a aceitar bem aquelas que te são infligidas
-contra teu gênio. Porque, enquanto nas humilhações que tu
-mesmo te impões pode misturar-se um orgulho sutil - como
-seria, por exemplo, querer ser tido por humilde -
-tal perigo não existe de modo algum para as humilhações que,
-a teu pesar, te vêm dos outros. Também neste caso,
-para produzir seu fruto, a humilhação deve ser
-aceita voluntariamente. Com efeito, não é a humilhação em si
-mesma que te torna humilde, mas o ato de vontade com que a aceitas. S. Bernardo ensina que é bem diferente ser humilhado
-e ser humilde. Pode-se dizer que, de um modo ou de outro,
-todos encontram humilhações na vida, e no entanto poucos são
-os que se tornam humildes, justamente porque poucos são
-os que aceitam a humilhação e a ela se submetem com
-paciência.
+em sua ciência, iniciativas e virtudes, Deus a deixa
+a si mesma; os insucessos que se seguirão, as recaídas,
+a esterilidade de suas obras porão a nu
+sua insuficiência. E quanto mais tenaz a alma for em
+confiar em si, tanto mais o Senhor lhe prolongará esta
+experiência prática do seu nada.
 
-De que te vale receber humilhações se, em vez de aceitá-las,
-reages e as repele com ressentimento,
-com despeito, e te indignas contra quem tas proporciona?
+S. Teresa de Jesus, falando de sua definitiva e total
+conversão, confessa que o que a impedia de superar
+os últimos obstáculos era precisamente um resíduo de confiança que
+ainda tinha em si mesma: "Eu errava por não pôr no
+Senhor toda minha confiança e por não desconfiar bastante das
+minhas forças" (Vi. 8, 12). A confiança em Deus cresce à medida
+da desconfiança de si e torna-se total quando a alma, tendo compreendido a fundo seu nada, perdeu toda confiança
+em seus recursos pessoais. A alma então experimenta a
+realidade da palavra de Jesus: "Quando tiverdes feito tudo
+o que vos foi mandado, dizei: 'Somos servos inúteis'"
+(Lc. 17, 10) e, embora se tenha muito exercitado na vida
+interior, na oração, na virtude, sabe que não pode contar
+de forma alguma com suas forças, sabe que, embora tenha trabalhado para
+a glória de Deus, não pode contar de modo nenhum com suas obras;
+e assim conta total e unicamente com a misericórdia e
+com a graça de Deus: "Non habeo fiduciam nisi in tua misericordia". Sua confiança está nos méritos infinitos de Jesus,
+no amor misericordioso do Pai celeste e na obra
 
-Certamente, a humilhação não pode ser agradável à nossa
 
-
-natureza orgulhosa e suscetível; no entanto, mesmo sentindo
-a amargura dela, deves esforçar-te por aceitá-la de boa vontade,
-repetindo em teu coração: bom para mim, ó Senhor, que fui
-humilhado. Se, apesar de todas as repugnâncias e ressentimentos
-da natureza, com um ato de vontade te submetes à humilhação e protestas a Deus que queres estar contente com ela e
-queres saboreá-la até o fundo, pouco a pouco te tornarás humilde. Pouco a pouco o pão duro e amargo
-das humilhações tornar-se-á doce e suave para ti; mas a esta
-suavidade só se chega depois de longo exercício,
-porque, de resto, o que mais conta não é a suavidade,
-mas a vontade de aceitar tudo o que nos
-humilha. "Deixa-te instruir, deixa-te comandar, deixa-te sujeitar e
-serás perfeito" (G.C. C.E. II, 33).
+da graça; e esta confiança a torna mais que nunca corajosa e ousada, porque sabe que com Deus tudo se pode.
 
 ### Colóquio
 
-"Ó Senhor, que injúria se poderá jamais fazer a uma
-pessoa como eu, que mereceu ser atormentada pelos
-demônios por toda a eternidade? Se me tratam mal neste mundo, não é talvez com justiça? Verdadeiramente, ó Senhor,
-eu, sob este aspecto, não tenho propriamente nada a
-oferecer-te... Reconheço-me tão culpado diante de ti que vejo que aqueles que me
-injuriam ainda me tratam bem demais, quando,
-por não conhecerem quem sou, como Tu me conheces,
-creem ofender-me" (T.G. Cam. 36, 2).
-
-Meu Deus, é bem verdade! a única coisa que a mim,
-pecador, me cabe de direito é a humilhação, a injúria, o desprezo.
-E no entanto como sou relutante e excessivamente sensível diante de
-tudo o que fere meu orgulho! Tu o sabes,
-meu Deus, quanto desejo ser despojado da minha
-soberba; e posso bem dizer que, com a ajuda da tua graça,
-a detesto e nada em mim me parece mais odioso. No entanto
-não sei aceitar o remédio que Tu me apresentas.
-Como terei, Senhor, coragem de pedir-te humilhações,
-quando tantas vezes as rejeitei, transformando-as de
-remédio em ocasião de novos atos de orgulho?
+"O que agrada a Jesus - diz a Santa de Lisieux -
+é ver-me amar minha pequenez e minha pobreza; é a
 
 
-Quantas vezes, em vez de ver nas humilhações o remédio que me providenciaste para curar-me da soberba,
-meu olhar deteve-se nas criaturas de que Tu te servias
-para humilhar-me e eu me irritei,
-indignei-me contra elas,
-rebelei-me como diante de uma injustiça. Como
-sou cego, ó Senhor, como me desviei dos teus caminhos!
-Vem devolver a luz à minha alma, vem colocar-me
-na verdade, vem reconduzir-me pela via boa e segura
-das humilhações.
-
-Não te peço humilhações particulares, mas te peço
-dispor meu coração a aceitar bem aquelas que no teu
-amor e na tua misericórdia infinita preparaste no meu caminho desde a eternidade. Tu preparaste o remédio
-adequado para minha soberba; se até hoje tantas vezes recusei aproximar-lhe os lábios, agora ajuda-me
-a não deixar escapar mais a mínima porção dele. Estou
-doente, ó Senhor, e como o doente deseja o remédio
-que o cura e o engole ainda que amargo, assim eu,
-sustentado pela tua graça, quero aceitar,
-quero sorver até a última gota toda humilhação.
-Mas ajuda-me Tu,
-ó Jesus dulcíssimo que quiseste conhecer a humilhação,
-porque sem ti sei apenas faltar aos meus
+cega esperança que tenho em sua misericórdia. Eis meu
+único tesouro" (Lt. 176).
 
 
-propósitos.
+"Reconheço-o, ó Senhor, sou muito fraca e cada
+dia faço nova experiência disso. Mas Tu te dignas
+
+
+ensinar-me aquela ciência que me faz gloriar das minhas enfermidades.
+Esta é uma graça muito grande, e só nela
+encontro paz e repouso do coração porque já compreendi teu modo: dás como sabe dar Deus, mas queres
+a humildade do coração" (cf. T.B.G. Lt. 87 e 140).
+
+Ó Senhor, tua luz penetra minha alma e me faz
+compreender quão distantes estão minhas vias das tuas!
+Em vez de irritar-me por minhas misérias, em vez de abater-me
+por minhas quedas e por meus fracassos, em vez de pretender
+ter êxito em tudo e realizar coisas grandes, devo
+aceitar humildemente ver-me tão fraca, tão indigente,
+tão necessitada do teu auxílio.
+
+Para uma alma que te ama, meu Deus,
+quão doce é ter necessidade de ti, de tal modo que nada se possa fazer sem ti!
+É doce, porque isso me diz que Tu
+queres continuamente intervir na minha pobre vida, que queres continuamente sustentar-me com tua graça,
+que jamais me abandonarás um instante sequer. E para dar-me a abundância
+de teus auxílios divinos,
+Tu não esperas outra coisa senão que eu me ponha diante de ti na atitude humilde e confiante
+de uma criança que, não podendo contar com suas forças
+e seus recursos, tudo espera de seu pai. Tu esperas
+que, profundamente convencido do meu nada, eu aceite e
+ame sentir-me nada, para que Tu sejas meu Tudo.
+
+Despoja-me, ó Senhor, despoja-me de todo resíduo de confiança em mim mesmo. Se todo homem é semelhante ao feno dos campos
+que hoje é e amanhã já não é, que maior estultícia
+pode haver do que contar com a força de um fio de erva? Cura-me, ó Senhor, de tanta estultícia e põe-me, eu te peço,
+na verdade. Ó Tu que és a Verdade, santifica-me na verdade,
+na verdade do meu nada.
+
+Só Tu és bom, meu Deus, e só Tu podes fazer-me
+bom; só Tu és justo e só Tu podes justificar-me. Tu
+só és santo e só Tu podes santificar-me. Quanto menos
+posso esperar de mim, tanto mais posso e quero esperar
+de ti; de ti o bom querer e a constância,
+de ti a força e a paciência, de ti a pureza e a bondade,
+de ti a virtude e a santidade. De mim nada, e de ti tudo. Ó Senhor, apressa-te em
+vir em meu socorro: meu nada te invoca, minha miséria suspira por ti!

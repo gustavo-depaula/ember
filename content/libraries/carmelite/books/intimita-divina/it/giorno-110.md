@@ -1,91 +1,29 @@
-## 110 — LA FORZA DI GESÙ
-*III domenica di Quaresima*
+## 34 — LE UMILIAZIONI
 
-### Presenza di Dio
-
-— O Gesù, Forte divino, vengo a te per cercare appoggio alla mia debolezza, alla mia infermità.
+**Presenza di Dio.** — *O Gesù, umiliato per me fino all'abbiezione, insegnami ad umiliarmi per amor tuo.*
 
 ### Meditazione
 
-1 — Fin dalla prima domenica di Quaresima la Chiesa
-ci ha presentato Gesù in lotta contro il demonio, ma,
-mentre allora ce lo presentava in umile atteggiamento di
-difesa di fronte alle tentazioni del maligno, oggi ce lo
-‘mostra in atteggiamento di attacco e di clamorosa vittoria,
-Ecco un povero ossesso, dice il Vangelo (Lc. 11, 14-
-28), che «era muto »; Gesù, con un solo atto della sua
-forza divina, « scacciò il demonio; e quando esso fu uscito,
-il muto parlò e le turbe furono piene di sbigottimento ».
-Ma il nemico, quasi per rifarsi della sconfitta, insinua nelle
-menti dei farisei la maligna calunnia: « Egli scaccia i demoni per mezzo del principe dei demoni ». Gesù è accusato di essere un indemoniato e di aver ricevuto dal demonio il potere di liberare l’ossesso. Ma il Signore vuole
-smascherare fino in fondo il nemico e con logica serrata
-risponde che non può Satana dargli un simile potere, altrimenti Satana si adopererebbe alla distruzione del
-suo regno. No, non può essere così: Gesù scaccia i demoni « col dito di Dio », cioè per virtù divina. Se Satana
-è forte e i suoi satelliti lottano con lui per regnare sull'uomo, Gesù è più forte di lui e lo vincerà STARFAIONI
-la preda. Egli è venuto per distruggere il regno di Satana
-e per instaurare il regno di Dio.
-E se ancor oggi Dio permette che il demonio lavori
-per cercare di travolgere nel male gli individui e la società, Gesù, morendo sulla croce, ha già versato il prezzo
-della nostra vittoria. Questo prezzo è a nostra disposizione: con la virtù di Cristo, con la grazia di Cristo ogni
-cristiano ha il potere di vincere qualsiasi attacco del nemico, Non lasciamoci quindi sgomentare di fronte ai trionfi
+**1** — A molti piace essere umili, ma a pochi piace essere umiliati; molti con fervide preghiere chiedono a Dio l'umiltà, ma ben pochi chiedono l'umiliazione, eppure senza umiliazione è impossibile conseguire l'umiltà, perché, come lo studio è il mezzo per acquistare la scienza, così l'umiliazione è il mezzo per acquistare l'umiltà.
 
+Finché desideri l'umiltà, ma non sai accettare le umiliazioni, non puoi pensare di essere sulla via dell'umiltà vera; e, anche se in certi incontri sai comportarti umilmente, si tratta più di umiltà superficiale e apparente che di umiltà reale e profonda. L'umiltà è verità e perciò ti dice che, non avendo di tuo altro che il peccato, per diritto di giustizia non ti spetta che l'umiliazione e la disistima. Se Tu fossi realmente convinto di ciò, troveresti molto giusto che tutti ti umiliassero, ti trattassero male, ti disprezzassero. E infatti, quali onori e riguardi merita colui che ha offeso il suo Creatore, quando un solo peccato, sia pure veniale, è più deplorevole e merita maggior disprezzo di qualsiasi stato di miseria, di povertà, d'ignobiltà terrena?
 
-del male: non sono che trionfi apparenti, perchè Gesù è
-il più forte, l’unico ed ultimo vincitore.
+Profondamente persuasi di ciò, i Santi non ritenevano mai troppo gravi le umiliazioni che venivano loro inflitte, anzi le trovavano sempre inferiori a quanto pensavano di meritare. «Non ho mai sentito dire tanto male di me — diceva S. Teresa di Gesù — da non vederli insieme che era ancora troppo poco. Accusavano falsamente sopra un punto, vedevo che avevo offeso il Signore sopra molti altri e che mi facevano una grande carità a non parlarne» *(Cam.* 15, 3).
 
+«Abbi dunque pazienza nelle tue umiliazioni, perché, come col fuoco si saggia l'oro, così l'uomo nel crogiuolo dell'umiliazione» (cfr. *Ecli.* 2, 4 e 5). Se senti il peso della tua superbia e desideri davvero di esserne liberato, accetta in pace le umiliazioni e per mezzo di esse il Signore spezzerà il tuo orgoglio.
 
-2 — Per far nostra la vittoria di Gesù sul male, occorre evidentemente la nostra collaborazione. Nel Van-
-gelo odierno Gesù stesso ce ne indica diversi aspetti.
+**2** — Più che procurarti umiliazioni di tua iniziativa, disponiti ad accettare bene quelle che ti vengono inflitte contro tuo genio. Perché, mentre nelle umiliazioni che tu stesso t'imponi può mescolarsi un orgoglio sottile — come sarebbe, ad esempio, quello di voler essere ritenuto umile — tale pericolo non esiste affatto per le umiliazioni che, tuo malgrado, ti vengono dagli altri. Anche in questo caso però, per produrre il suo frutto, l'umiliazione deve essere accettata volontariamente. Infatti, non è l'umiliazione in se stessa che ti rende umile, ma l'atto di volontà con cui l'accetti. S. Bernardo insegna che è ben diverso essere umiliati ed essere umili. Si può dire che, in un modo o nell'altro, tutti incontrano umiliazioni nella vita, eppure pochi sono quelli che diventano umili, appunto perché pochi sono quelli che accettano l'umiliazione e vi si sottomettono con pazienza.
 
-«Ogni regno diviso in se stesso va in rovina »; il Si-
+Che ti vale ricevere umiliazioni se, anziché accettarle, reagisci e le respingi con risentimento, con dispetto, e ti sdegni contro chi te le procura?
 
-ore afferma così che l'unione è il segreto della vittoria.
-
-Anzitutto unione con lui, perchè senza di lui non possiamo
-far nulla, ma poi anche unione col prossimo. Se vogliamo
-lavorare per il trionfo del bene collaboriamo — un cuore
-solo ed un'anima sola — con i nostri superiori, con i nostri
-fratelli, Spesso nel campo del bene si potrebbe fare molto
-di più se, rinunciando a vedute personali, si sapesse lavorare in perfetto accordo. Talvolta potrà anche essere ne-
-cessario rinunciare a idee, a piani, a mezzi in se stessi migliori; ma non lasciamoci ingannare: il meglio è sempre
-l'unione. La divisione non porterà mai alla vittoria.
-
-«Chi non è con me è contro di me » aggiunge Gesù.
-Il cristianesimo non ammette indifferenti; chi non si schiera decisamente con Cristo, chi non lavora con lui per la
-diffusione del suo regno, per ciò stesso si oppone a lui, si
-oppone al bene, è nemico di Cristo e fautore del male.
-
-Omettere il bene che si potrebbe e dovrebbe fare, è già
-fare il male, è acconsentire allo sviluppo del male.
-
-La prima condizione della vittoria sul male è l’attiva
-collaborazione all'opera di Cristo, in unione con i fratelli.
-La seconda è la vigilanza. Gesù avverte che il nemico del
-bene è in agguato e che, anche dopo aver lasciato un’anima, è pronto a ritornarvi più forte di prima «con altri
-sette spiriti peggiori di lui», quando la trova vuota e
-aperta alle sue insidie. Grande mezzo per impedire l’accesso del male è vigilare nella preghiera, è riempire il
-cuore di Dio, perchè non vi sia più posto per il nemico
-di Dio. E non vi è più posto quando l’anima è totalmente
-unita a Dio mediante l’accettazione e l’osservanza della sua
-
-parola, della sua volontà. Infatti, alla donna che loda la
-Madre sua, Gesù risponde: « Anzi, beati coloro che odono
-la parola di Dio e l’osservano ». Sì, Maria SS.,ma è beata
-per aver dato la vita al Redentore, ma è molto più beata
-per essere a lui perfettamente unita nell’osservanza della
-sua parola. Questa beatitudine non è riservata a Maria,
-ma è offerta ad ogni anima di buona volontà, ed è la massima garanzia della vittoria sul male, perchè chi è unito
-a Dio diventa forte della fortezza di lui.
+Certo, l'umiliazione non può essere gradita alla nostra natura orgogliosa e suscettibile, tuttavia, pur sentendone l'amarezza, devi sforzarti di accettarla di buon volere ripetendo in cuor tuo: buon per me, o Signore, che mi hai umiliato. Se, nonostante tutte le ripugnanze e i risentimenti della natura, con un atto di volontà ti sottometti all'umiliazione e protesti a Dio che ne vuoi essere contento e vuoi assaporarla fino in fondo, un po' alla volta diventerai umile. Un po' alla volta il pane duro ed amaro delle umiliazioni ti diventerà dolce e soave; ma a questa soavità si giunge solo dopo un lungo esercizio, che, del resto, quel che più conta non è la soavità, ma la volontà di accettare tutto quel che ci umilia. «Lasciatevi ammaestrare, lasciatevi comandare, lasciatevi assoggettare e sarai perfetto» (G.C. *AM.* II, 33).
 
 ### Colloquio
 
-«O Sangue dolce, Tu fortifichi l’anima, Tu l’illumini,
-in te diventa angelica, Tu l’adombri in tal modo col fuoco
-della tua carità che del tutto dimentica se stessa e nessuna
-cosa può vedere all’infuori di te.
+«O Signore, che ingiuria si potrà mai fare ad una persona come me che ha meritato d'essere tormentata dai demoni per tutta l'eternità? Se mi trattano male in questo mondo, non è forse con giustizia? Veramente, o Signore, io, sotto questo aspetto, non ho proprio nulla da offrirti... Mi riconosco così colpevole innanzi a te, da vedere che mi trattano ancora troppo bene coloro che mi ingiuriano, quando, per non conoscere chi sono, come Tu mi conosci, credono di offendermi» (T.G. *Com.* 36, 2).
 
-«O dottrina di verità, tanta forza dai all'anima vestita di fortezza che mai viene meno, nè per le avversità, nè per
-le pene o tentazioni, ma in ogni battaglia riporta forte
-vittoria. Misera me, che non ho seguito te, vera dottrina,
-onde son tanto debole che in ogni minima tribolazione
-vengo meno » (S. Caterina da Siena).
+Mio Dio, è ben vero! l'unica cosa che a me peccatore spetta di diritto è l'umiliazione, l'ingiuria, il disprezzo. Eppure come sono riluttante e eccessivamente sensibile di fronte a tutto ciò che ferisce il mio orgoglio! Tu lo sai, mio Dio, quanto io desidero di essere spogliato dalla mia superbia; sì, posso ben dire che, con l'aiuto della tua grazia, la detesto e nulla in me mi sembra più odioso. Tuttavia non so accettare il rimedio che Tu mi presenti. Come avrò, Signore, il coraggio di chiederti umiliazioni, quando tante volte le ho respinte, mutandole da medicina, in occasione di nuovi atti di orgoglio?
+
+Quante volte, anziché vedere nelle umiliazioni il rimedio da te procuratomi per guarirmi dalla superbia, il mio sguardo si è fermato alle creature di cui ti servivi per umiliarmi e mi sono irritato, sdegnato contro di esse, mi sono ribellato come di fronte ad un'ingiustizia. Come sono cieco, o Signore, come ho deviato dalle tue vie! Vieni a ridare la luce all'anima mia, vieni a mettermi nella verità, vieni a ricondurmi sulla via buona e sicura delle umiliazioni.
+
+Non ti chiedo particolari umiliazioni, ma ti chiedo di disporre il mio cuore ad accettare bene quelle che nel tuo amore e nella tua misericordia infinita, fin dall'eternità, hai preparato sul mio cammino. Tu hai preparato la medicina adatta alla mia superbia; se fino ad oggi tanto spesso ho rifiutato di accettarvi le labbra, ora aiutami a non lasciarmene più sfuggire la minima porzione. Sono malato, o Signore, e come il malato desidera il farmaco che lo guarisca, e lo trangugia anche se amaro, così io, sostenuto dalla tua grazia, voglio accettare, voglio sorbire fino all'ultima goccia ogni umiliazione. Ma aiutami Tu, o Gesù dolcissimo che hai voluto conoscere l'umiliazione, perché senza di te non so come venir meno ai miei propositi.

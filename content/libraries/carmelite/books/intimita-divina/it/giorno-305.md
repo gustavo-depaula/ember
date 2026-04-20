@@ -1,100 +1,27 @@
-## 305 — IL DONO DELL’INTELLETTO
+## XIII — IL PROGRESSO SPIRITUALE
 
-### Presenza di Dio
-
-Vieni, Spirito d’intelletto, illuminami!
+**Presenza di Dio.** — Aiutami, o Signore, a progredire rapidamente nel cammino della virtù.
 
 ### Meditazione
 
-1, — Nel nostro cammino verso Dio troviamo difficoltà,
-non solo da parte delle creature che tentano d’impedirci il
-passo, ma anche a motivo dell’impenetrabilità dei misteri divini; e, come, per farci superare le prime, lo Spirito Santo
-ci viene in soccorso col dono della scienza, così, per farci superare le seconde, ci viene in aiuto col dono dell'intelletto.
+**1** — «Siate santi, perché io sono santo» *(Lev.* 19, 2): questa è la volontà di Dio, questa è la nostra vocazione, questo è l'oggetto dei nostri desideri e dei nostri sforzi. Creati a somiglianza di Dio, non vogliamo che la sua immagine sia in noi offuscata dai difetti e dalle passioni, ma vogliamo che risplenda limpida e pura, riflettendo il più possibile la sua santità. Per renderci simili a sé, Dio ha infuso nell'anima nostra, assieme alla grazia, le virtù teologali e morali che hanno proprio lo scopo di ricopiare in noi qualche cosa delle sue perfezioni infinite; ed Egli, che come Padre ama ritrovare nei suoi figli i tratti della sua somiglianza, desidera sommamente vederci crescere nelle virtù. «L'anima — dice S. Giovanni della Croce — non può esercitare e acquistare le virtù da sola, senza l'aiuto di Dio, e neppure Dio le inserisce da solo nell'anima, senza di lei» *(C.* 30, 6). Infatti, benché nel battesimo Dio abbia infuso in noi le virtù senza alcun nostro merito, non le fa crescere senza la nostra collaborazione; tocca a noi — sempre soccorsi dalla grazia — mettere in esercizio i principi virtuosi che Egli ci ha dato; solo così ne acquisteremo le buone abitudini e ne compiremo con facilità gli atti.
 
-La nostra intelligenza è incapace di afferrare l'infinito;
-sebbene investita dalla fede, il suo modo d'intendere è sempre
-modo umano che procede per mezzo d'idee, di concetti limitati, assolutamente insufficienti ad esprimere le realtà di-
+Quindi, se vogliamo assecondare l'azione di Dio che vuol renderci simili a sé, dobbiamo applicarci con grande impegno all'esercizio delle virtù. Ci applicheremo anzitutto a quella virtù che riconosciamo maggiormente necessaria per correggere i nostri difetti, per vincere la nostra passione dominante; ne faremo oggetto particolare dei nostri propositi, dei nostri esami di coscienza e renderemo conto al direttore spirituale. Non dobbiamo pensare che questo esercizio sia riservato ai principianti perché «l'obbligo di progredire nell'amore di Dio — e quindi anche in tutte le altre virtù — dura fino alla morte» (S. Francesco di Sales). Nessuno, per quanto avanzato nelle vie dello spirito, può considerarsi dispensato dall'esercizio delle virtù.
 
+**2** — S. Teresa di Gesù, descrivendo le altezze della vita di unione con Dio, fa continue digressioni per raccomandare vivamente l'esercizio delle virtù: «È necessario — scrive alle sue figlie — che cerchiate di non far consistere il vostro fondamento soltanto nel pregare e contemplare, perché, se non procurate di acquistare le virtù e non ne fate l'esercizio, rimarrete sempre delle nane» *(M.* VII, 4, 9); e altrove dice espressamente che mediante le virtù «potremmo molto progredire nel servizio di Dio anche senza essere grandi contemplative, mentre senza di esse nessuna potrà farlo» *(Cam.* 4, 3). Che Dio ci conduca o no per la via dell'alta contemplazione, ciò non è essenziale per farci santi e d'altronde non dipende dalla nostra volontà; ma l'essenziale, invece — e questo dipende da noi — è sempre la pratica della virtù. Sia che Dio ci voglia nella vita di famiglia o dediti all'esercizio di una professione, sia che ci chiami all'apostolato o alla vita contemplativa, in ogni caso ci faremo santi nella misura in cui saremo virtuosi.
 
-vine. La Rivelazione stessa giunge a noi per mezzo di parole
-umane e quindi non può Siro ciò che Dio è in se stesso,
-non può manifestarci l'intima essenza delle verità rivelate.
-Procedendo unicamente con la virtù della fede, siamo costretti a fermarei, per dir così, alla superficie dei misteri di-
-vini: sappiamo.con sicurezza che ci sono stati rivelati da Dio,
-aderiamo ad essi con tutte le nostre forze e tuttavia non riusciamo a penetrarli. Ma quello che la fede non può fare da
-sola, lo farà coll’aiuto del dono dell'intelletto. Questo dono oltrepassa il nostro modo umano d'intendere e c'illumina in
-modo divino, ci fa «intus legere», ossia «leggere dentro»
-i misteri divini con la luce, con l'intelligenza stessa dello Spirito Santo,
-
-E' una penetrazione rapida, profonda che non aggiunge
-nulla di nuovo ai dati della Rivdlazione, ma che ci fa intendere l'intimo senso delle verità rivelate; il dono dell'intelletto
-squarcia, per così dire, l'involucro delle proposizioni e dei
-concetti umani e ci permette di lanciare uno sguardo nella
-sostanza dei misteri divini. La fede ci dice che Dio è Trinità; il dono dell'intelletto non ci dice niente di più, non ci
-fa vedere e neppure ci spiega tale mistero, ma ci fa penetrare in esso. So l'influsso di questo dono l'anima, non
-solo crede che Dio è Uno e Trino, ma intuisce che il mistero
-Trinitario è essenziale alla natura divina ed è quello che megod tutti gli altri rivela la perfezione, la potenza, l’amore in-
-
-inito di Dio.
-
-
-2. — Solo lo Spirito Santo, che è Dio, può farci penetrare i misteri divini; S. Paolo lo dice espressamente: « Ciò
-che occhio non vide nè orecchio udì... a noi Dio lo rivelò per
-mezzo dello Spirito suo, poichè lo Spirito penetra tutte le
-cose, anche le profondità di Dio. Infatti... le cose divine nessun altro le sa fuorchè lo Spirito di Dio. E noi abbiamo ri-
-cevuto non lo spirito del mondo, ma lo Spirito che vien da
-Dio, affinchè conosciamo le cose a noi donate da Dio» (1 Cor.
-2, 9-12), E' questa la meravigliosa azione che lo Spirito Santo
-
-
-compie in noi mediante il dono dell'intelletto. Alle anime che
-gli sono unite per mezzo dell'amore Egli comunica una par
-tecipazione della sua conoscenza dei misteri divini. Perciò
-è chiaro che, più saremo uniti allo Spirito Santo con carità
-perfetta, tanto più saremo atti a ricevere questa preziosa comunicazione. Allora il dono dell'intelletto non sarà in noi
-inoperoso, ma interverrà con la sua luce ad illuminare i nostri
-studi, le nostre meditazioni delle cose di Dio facendoci penetrare nella loro profondità, facendoci cogliere l'intimo senso
-dei sacri testi, dandoci l’esatta intelligenza dei comandamenti
-e dei consigli divini. Proprio così lo Spirito Santo introduce
-l'anima in un'orazione più semplice e profonda: la mente
-non ha più bisogno di ragionare di andare in cerca di
-motivi convincenti, ma, sotto il tocco illuminante dello
-Spirito Santo, si ferma e fissa lo sguardo nella verità.
-Questo semplice sguardo contemplativo le rivela Dio più di
-qualsiasi studio teologico: sente d’inabissarsi nel divino, avverte un abisso senza fondo nel quale gode d'immergersi; non
-vede, non distingue, non sa dire nulla di preciso, ma sente
-Dio, sente di essere in contatto con lui. Quale diversità di
-comprensione dello stesso mistero quando lo meditiamo puramente alla luce della fede e quando invece abbiamo la
-grazia di penetrarlo con la luce derivante dal dono dell'intelletto! Allora non lo guardiamo più dall'esterno, ma dall’in-
-terno, non ci fermiamo più all'espressione verbale che lo
-uan, ma penetriamo nel segreto nascosto dietro la formula.
+Più ci applichiamo ad esercitare le virtù, più la pratica di esse ci diventerà facile e quasi connaturale; ma per giungere a questa facilità, che è la caratteristica della virtù matura, dobbiamo avere il coraggio di perseverare a lungo nella lotta contro i nostri difetti e nello sforzo per acquistare le abitudini contrarie. Tuttavia non arriveremo mai alla virtù perfetta, e tanto meno a quella eroica, senza il soccorso dei doni dello Spirito Santo, il cui ufficio è appunto quello di perfezionare le virtù. Mentre sta a noi mettere in atto le virtù, solo Dio può mettere in atto i doni, però abitualmente Egli lo fa in modo proporzionato al nostro impegno nell'esercitare le virtù. La pratica assidua delle virtù spalanca l'anima nostra all'azione dello Spirito Santo, la rende atta ad accogliere ed a seguire le mozioni dello Spirito Santo. Diamoci dunque con generosità a questo esercizio; lo Spirito Santo non tarderà a venirci incontro con i suoi doni e noi progrediremo rapidamente verso la virtù perfetta, eroica, verso la santità.
 
 ### Colloquio
 
-Vieni, o Spirito Santo, vieni Luce divina!
+«O Signore, Tu hai detto: 'Siate santi perché io sono santo'; è proprio questa, mi sembra, la stessa volontà che hai espresso il giorno della creazione quando hai dichiarato: 'Facciamo l'uomo a nostra immagine e somiglianza'; è sempre lo stesso tuo desiderio di associare, di identificare a te la tua creatura... Come soddisfare meglio questo tuo desiderio, se non rivolgendomi semplicemente ed amorosamente a te, affinché Tu possa riflettere in noi la tua immagine come il sole si riflette attraverso un nitido cristallo?...
 
-«O Luce che non vide altra luce, lume che oscura ogni
-altro lume, luce dalla quale deriva ogni luce; lume a paraone del quale ogni lume è tenebre, ed i luce oscurità;
-luce suprema, non annebbiata da cecità, non offuscata da caligine, non oscurata dalle tenebre; luce che da nessun osta-
-colo è impedita, che non è divisa da ombra; luce che illu-
+Ma per specchiare le tue perfezioni è necessario spogliarsi dell'uomo vecchio onde rivestirsi dell'uomo nuovo, creato da te nella giustizia e nella santità. Ecco la via tracciata: non si tratta che di spogliarsi per percorrerla secondo il tuo intendimento divino. Aiutami, dunque, a spogliarmi, a morire a me stessa, a perdermi di vista» (E.T. II, 9; I, 7).
 
+Aiutami, o Signore, a combattere i miei difetti per spogliarmi dell'uomo vecchio; aiutami a praticare le virtù per rivestirmi dell'uomo nuovo. Poco vale di fronte a te la splendidezza delle opere o la fama di un gran nome, ma molto vale l'esercizio della virtù.
 
-mini tutte le cose insieme e sempre, assorbimi nel pelago
-della tua chiarezza, affinchè io vegga te in te e me in te, e
-tutte le cose sotto di te» (S. Agostino).
+«Tu preferisci vedere in me il più piccolo grado di purezza di coscienza che tutte le opere che io possa fare.
 
-« Come posso avvicinarmi a te, o Spirito Santo? Tu abiti
-una luce inaccessibile e Tu stesso non sei che luce, scienza
-e splendore; io invece abito un luogo di tenebre ed io stesso
-non sono che ignoranza e rozzezza.
+«Preferisci in me il minimo grado di obbedienza che non tutti quei servizi che penso di renderti.
 
-«Frattanto, o divino Spirito, io t'invoco con fiducia per
-essere da te illuminato. Scoprimi le grandezze divine, i di
-vini misteri, affinchè io li adori e li riconosca. Scoprimi le
-insidie del demonio e del mondo, affinchè le eviti e non vi
-cada giammai; scoprimi ancora le mie miserie e le mie debolezze, i miei errori, i miei pregiudizi, le mie ostinazioni, gli
-artifizi del mio amor proprio, affinchè li odii e li corregga.
-Ma, o luce benefica, illumina soprattutto l’anima mia, onde
-conosca quanto vuoi da me; fa' che ben apprenda tutto l’incanto delle tue attrattive e della tua grazia e tutto ciò che
-devo fare per meritare i benefici influssi della tua bontà, affinchè io vi corrisponda con fedeltà piena; e sostienimi ond'io
-ti sia fedele fino alla morte» (P. Aurillon).
+«Stimi di più un mio desiderio di sofferenza per amor tuo, che non tutte le consolazioni spirituali che potrei avere» (G.C. *AM.* 12-14).

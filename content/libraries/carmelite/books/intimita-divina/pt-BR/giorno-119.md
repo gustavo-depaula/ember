@@ -1,20 +1,127 @@
-## 119 — VEM E SEGUE-ME
+## 117 — A MULTIPLICAÇÃO DOS PÃES
+*IV domingo da Quaresma*
 
 ### Presença de Deus
 
-— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
+— Ó Jesus, verdadeiro pão de vida eterna, sacia minha fome.
 
 ### Meditação
 
-1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
+1 — O domingo de hoje é uma pausa de santa alegria, de
+refrigério espiritual que a Igreja, como boa mãe,
+nos oferece no meio das austeras práticas quaresmais,
+quase para restaurar nossas forças. "Alegra-te, ó Jerusalém -
+canta o Intróito da Missa - e vós todos que a amais
+exultai de alegria e saciai-vos na abundância de suas
+delícias". Quais são essas delícias? Responde-nos o Evangelho
+do dia (Jo. 6, 1-15) com a narração da multiplicação
+dos pães, o grande milagre mediante o qual Jesus
+quis dispor as multidões para o anúncio de um milagre
+bem mais estupendo: a instituição da Eucaristia, pela qual Ele,
+o Mestre, se tornaria nosso pão, "pão vivo
+descido do céu" (Jo. 6, 41), para alimento de
+nossas almas. Eis o motivo da nossa alegria, eis a fonte
+de nossas delícias: Jesus é o pão da vida, sempre à
+nossa disposição para saciar nossa fome.
+
+Mas Jesus, ainda que avalie muito melhor do que nós os
+valores espirituais, não esquece nem despreza as necessidades
+materiais do homem. O Evangelho de hoje no-lo apresenta
+rodeado por uma multidão que o havia seguido para ouvir
+seus ensinamentos; Jesus pensa na fome daquele povo
+e, para provê-la, realiza um dos mais estupendos milagres:
+cinco pães e dois peixes, por ele abençoados, bastam para
+fartar cinco mil homens, sobrando ainda doze cestos.
+
+Jesus sabe que, quando o homem é atormentado pela fome,
+pelas necessidades materiais, é incapaz de atender às coisas
+do espírito. A caridade exige também em nós essa compreensão
+das necessidades materiais alheias, compreensão efetiva
+que se traduz em ação eficaz. "Se um irmão ou uma
+irmã estiverem nus e necessitados do alimento quotidiano,
+e um dentre vós lhes disser: 'Ide em paz...' sem lhes dar as coisas
+necessárias para o corpo, que proveito haverá?" (Tg. 2, 15 e 16).
+
+Os Apóstolos haviam proposto ao Mestre despedir
+a multidão para que todos pudessem ir "comprar de
+comer" (Mt. 14, 15). Jesus não aceitou
+e quis prover pessoalmente. Procura também tu, na medida do
+possível, nunca mandar embora o próximo necessitado
+sem lhe prestar tua ajuda.
 
 
-2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
+2 — Antes de realizar o milagre, Jesus pergunta a
+Filipe: "Onde compraremos pão para dar de comer a esta gente?" e o Evangelista observa: "dizia isso para pô-lo à prova,
+porque sabia o que havia de fazer". Não há circunstância difícil da nossa vida cuja solução Deus não conheça; para cada caso,
+mesmo o mais intricado, Ele previu desde a eternidade
+e mantém pronto o remédio. Todavia, diante de circunstâncias difíceis,
+às vezes parece que Ele nos deixa sozinhos, quase como se
+a solução devesse vir de nós; mas faz isso unicamente
+para provar-nos. Quer que, medindo-nos a sós
+com as dificuldades, tomemos maior consciência da nossa
+impotência e insuficiência; e, por outro lado, quer
+exercitar-nos na fé, na confiança nele. Na realidade,
+o Senhor não nos abandona jamais, se não somos nós os primeiros
+a deixá-lo; apenas se esconde e esconde na escuridão
+também a sua obra: então é o momento de crer, de crer
+fortemente e esperar com humilde paciência, com
+plena confiança.
 
-Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
+Os Apóstolos avisam Jesus de que um menino tem cinco
+pães e dois peixes: bem pouca coisa, quase nada, para saciar
+cinco mil homens; mas o Senhor pede um nada
+e serve-se dele para realizar o grande milagre. É sempre
+assim: Deus onipotente, que tudo pode fazer e criar do
+nada, quando se encontra diante da criatura livre,
+não quer agir sem seu concurso. É bem pouco o que
+o homem pode fazer, mas esse pouco Deus o quer, o pede,
+o exige como condição de sua intervenção. Só o Senhor pode santificar-te, assim como só ele podia multiplicar
+as poucas provisões do menino; e, no entanto, pede
+teu concurso. Também tu, como o menino do Evangelho,
+dá-lhe tudo o que está em teu poder, isto é, apresenta-lhe cada
+dia teus propósitos, sempre renovados com constância e
+amor, e Ele operará também em ti um grande milagre,
+o milagre da tua santificação.
 
 ### Colóquio
 
-"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
+"Senhor Jesus Cristo, Filho do Deus vivo, que na
+cruz, com os braços abertos, bebeste, para a redenção de
+todos os homens, o cálice de inenarráveis dores, digna-te
+hoje socorrer-me. Eis: eu, pobre, venho a ti,
+rico; miserável, apresento-me a ti, misericordioso: ah, faze
+que eu não me afaste de ti vazio e desiludido.
+Faminto, a ti venho; não permitas que de ti eu parta em jejum;
+famelico, aproximo-me; ah, que eu não me retire
+sem ter sido por ti saciado; e se antes de comer suspiro,
+concede que depois dos suspiros eu possa ser alimentado" (S. Agostinho).
 
-Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).
+Sim, tenho fome de ti, pão verdadeiro, pão vivo, pão da vida.
+Tu conheces minha fome, fome da alma e fome do corpo,
+e a uma e outra quiseste prover. Com tua
+doutrina, com teu Corpo e com teu Sangue sacias
+meu espírito, sacias-no abundantemente, sem pôr medida,
+senão aquela que eu mesmo ponho com a frieza do
+meu amor, com a estreiteza do meu coração. Preparaste-me uma mesa rica e copiosa além de todo dizer,
+à qual, para ser nutrido, não tenho senão aproximar-me; e Tu não
+só me acolhes, mas te fazes meu alimento e minha bebida,
+mas te dás todo a mim: todo na tua Divindade, todo na tua
+Humanidade.
+
+E depois, na tua bondade infinita, preparaste uma mesa
+também para meu corpo e com tua providência o nutres,
+o vestes, o manténs em vida como os lírios do campo, como
+as aves do céu. Tu conheces minhas necessidades, minhas
+angústias, minhas preocupações pelo passado, pelo presente,
+pelo futuro, e a tudo provês com amor paterno.
+Ó Senhor, como não confiar em ti, como não lançar
+em ti toda minha solicitude, certo de que Tu terás um
+remédio para tudo? A ti, pois, confio minha vida:
+
+vida do corpo, vida terrena com todas as suas necessidades,
+com todos os seus trabalhos; vida do espírito com todas as suas
+exigências, suas ansiedades, com toda sua fome do infinito. Tu
+só podes preencher a capacidade do meu coração; Tu só podes
+
+tornar-me feliz; Tu só podes realizar meu ideal de
+santidade, de união contigo.

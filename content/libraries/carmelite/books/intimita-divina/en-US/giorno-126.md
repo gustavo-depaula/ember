@@ -1,116 +1,122 @@
-## 126 — PATIENCE
+## 100 — IMPERFECTION
 
 ### Presence of God
 
-— O Jesus, divine and most meek Patient One, teach me the secret of true patience.
-
 ### Meditation
 
-1 — Patience is the virtue that, for love of God, makes us
-accept with generosity and peace everything that displeases
-nature, without letting ourselves be cast down by the sadness that easily invades us when we are faced with unpleasant
-things.
+1 — Whereas venial sin always includes a
+transgression, more or less slight, of a law of God, imperfection
+is the omission of a better good to which one is not
+obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
+presented to me the possibility of doing a better action,
+which is fitting and proportionate to my state,
+to my present possibilities, which is in harmony with my
+duties, and for which I can reasonably think myself
+inspired by the Holy Spirit, and yet I deliberately refuse
+to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
+cannot be considered good, nor can it be justified
+by the thought that, since no law or command exists
+imposing that better action on me, I may omit it merely to exercise my freedom; this would be
+an abuse of freedom, which was given to me by God
+only to render me capable of adhering to good, without
+letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
+laziness, narrowness, attachment to my comfort; and
+all this is evidently contrary to perfection.
 
-Patience is a particular aspect of the virtue of
-fortitude, which prevents us from deviating from the straight path
-through fear of the difficulties we encounter. There is no life
-without difficulties; indeed, for those who wish to undertake great things, these are usually greater and more frequent.
-Great works, great virtues, heroic virtues,
-always blossom amid difficulties. Before
-them fortitude has a twofold act: to attack and to endure.
-Many difficulties must be overcome and conquered by an
-act of courage; others, however, are impossible to eliminate,
-and then one must learn to endure them, and this is precisely
-the task of patience. A hard task, because it is easier
-to face an obstacle directly than to bear adversities and sufferings inevitably connected
-with life, and which, over time, try to break
-our courage and make us fall into sadness.
-
-Only by fixing our gaze on Jesus, the divine Patient One,
-do we learn to exercise patience. When we see Him, come into the world to save us, living from the first moments of
-His earthly existence amid discomforts, privations, and
-poverty, and then amid misunderstandings and persecutions, made
-the target of hatred by His own fellow citizens,
-calumniated, sought for death, betrayed by a friend,
-tried and condemned as an evildoer, our soul is stirred and understands
-that we cannot be His disciples unless we tread
-His same path. If Jesus, most innocent, endured so much
-for love of us, shall we, sinners and
-therefore deserving of suffering, not know how to endure something
-for love of Him? However much there may be to suffer
-in our life, it will always be very little, indeed nothing compared
-with Jesus' infinite sufferings, because Jesus in His
-Passion did not embrace the suffering of one life or of
-many human lives, but the suffering of all humanity.
+Considered thus, it is clear that voluntary imperfection
+can never be conformed to the will of God,
+therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
+with the divine will. Hence the importance,
 
 
-2 — Whoever wishes to become patient must first of
-all, before motives of suffering, have a deep gaze of faith, which makes him understand how everything that
-happens in life is always permitted by God and solely
-for his good. Very often, it is true, suffering and difficulties present themselves to us through secondary causes;
-but what does that matter when we know that everything comes to us from our good heavenly Father, who uses these painful circumstances precisely to make us more virtuous?
-A soul that wishes to live solely for God never stops
-to consider the human causes of its sufferings, but
-before them repeats with simplicity: Dominus est! it is the
-Lord! and accepts everything from His hands.
+for the soul that seeks perfection, of eliminating from its
 
-This, however, does not prevent one from feeling the weight of
-suffering, and feeling it deeply - Jesus too felt it
-in His agony in the garden - but it helps us
-not to be troubled, not to lose peace and serenity, not
-to lose mastery of ourselves and therefore patience.
 
-One begins to practice patience by trying to bear
-daily discomforts and sufferings without murmuring,
-but with resignation, knowing that divine Providence
-permits no trial that is not for us a source of
-good. At the beginning, and even for a long time, the soul will feel
-great repugnance for suffering; nevertheless, if it strives to
-embrace it well - with constancy, with peace, with submission to the divine will - little by little, precisely through this very painful exercise, it will begin to experience the great spiritual profit that derives from it; it will in fact feel itself more detached from creatures and from itself, and closer to God. Spontaneously then it will come to esteem suffering and then, experiencing more and more its spiritual fruitfulness,
-it will end by loving it.
+conduct any voluntary imperfection. It is precisely in
+this sense that St. John of the Cross warns: "For the soul
+to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
+that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
+but also progress in perfection" (A. I, 11, 3).
 
-But one must not entertain illusions: love of suffering
-is the summit of patience; it is the fruit of perfect patience; to reach these heights one must begin
-with a much humbler exercise: accepting in peace, without
-complaining, everything that causes suffering.
+
+2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
+of a law that of itself does not oblige under sin,
+as are generally the constitutions or statutes of various
+religious Orders and Institutes. In this regard it should
+be noted that if there is no reasonable,
+proportionate, and sufficient motive for failing in one of these laws,
+very easily such transgressions will become venial
+sin because of lack of a morally good end. In fact,
+as St. Thomas teaches, man is bound always to act
+
+
+for a reasonable motive, for a good end. If the
+
+
+end is vitiated - as it would be, for example, to transgress the
+law of silence, recollection, or religious modesty out of
+curiosity, for one's own convenience, and the like - the action
+thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
+ingratitude, and a certain hardness of heart that does not
+sufficiently appreciate the help God gives us for
+better works" (Salmanticenses). Another kind of imperfection
+is a certain lack of completeness found in an
+act substantially good, but carried out, for example, with
+some narrowness, or without employing in it all the
+good will and impetus of which one is capable.
+
+In the end, every kind of voluntary imperfection
+always derives from lack of effort, of vigor, of momentum
+in spiritual life. It is always selfishness that, in one way
+or another, takes something from God to satisfy
+self. We are too calculating; we are afraid of giving
+
+
+too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
 
 ### Colloquy
 
-O Jesus, for love of You and with Your help, I want to suffer
-in peace all life's adversities. "Your thoughts are not
-our thoughts, Your ways are not our ways.
-At times You present us a chalice so bitter that scarcely
-our nature can bear it. But I do not want to withdraw
-my lips from the chalice prepared for me by Your hand.
-You teach me the secret of suffering in peace. Whoever says peace does not say
-joy, or at least felt joy; to suffer in peace it is enough
-to will all that You will.
+I beg You, O my God, grant me a charity
+strong, generous, capable of destroying to the very root my
+selfishness. Oh, how I see that it is precisely this
+selfishness that is the cause of so many little infidelities of mine, of so many
+imperfections into which I habitually fall and which
+I do not care to correct under the pretext that they are not
 
-"To be Your bride I must resemble You;
-and You are all bleeding and crowned with thorns.
-You want to make me like You; and why then should I fear not being able to carry the cross without falling? You, on the way to Calvary,
-fell three times, and I, poor creature, shall not
-want to resemble You? Shall I not want to fall a hundred times to prove my love for You, rising again with more strength
-than before from my fall?
 
-"How it consoles me to think that You too, the
-strong God, have known our weaknesses, have trembled at the sight of the bitter chalice that at other times You had so ardently desired.
+sins!
 
-"O Jesus, how much it costs at times to give You what You ask!
-But what happiness that it costs! Far from complaining to You
-of the crosses You give me, I cannot comprehend the
-infinite love that moved You to treat me thus.
-O Lord, I do not want to let the trials You send me escape;
-they are gold mines to be worked. I, grain of sand, want
-to set myself to work without joy, without courage, without
-strength, and these very impotences will make the undertaking easier for me;
-I want to work for love.
+But such faults are not without importance for
+a soul that, being consecrated to You, has the duty to
+tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
+How can I claim to unite myself to You, Infinite Perfection,
+I who voluntarily admit into my life so many and
+so many imperfections? How can my will be
+wholly conformed to Yours, when I will and love what
+You do not will and absolutely cannot love?
 
-"Despite trials that take away all consolation from me,
-I can repeat: Lord, with all that You do
-You fill me with joy, because what greater joy can there be
-than that given us by suffering for love of You? The more intense the pain is, the less it appears to creatures' eyes, and the more it makes You smile, O my God;
-but even if, in an impossible case,
-You too should ignore it, I would nevertheless rejoice in suffering,
-hoping to be able to prevent or repair, with my tears,
-even a single sin" (T.B.G. Lt. 63, 57, 184, 59; St. 9).
+O Lord, how I feel the weight of my selfishness
+that drags me downward, that would like to achieve the
+maximum with minimum effort, that seeks by every means to avoid
+toil, renunciation, full and generous self-gift! How
+I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
+to tomorrow what costs me or repels me, that presents me
+a thousand pretexts to evade an act of generosity!
+
+Yes, O Lord, I feel all this, and You know better
+than I how far the retreats and compromises of my
+selfishness go. But You also know that I want to love You with all my
+heart, that I want to give myself entirely to You; You know that my
+poor desires are sincere, though ineffective. Well then,
+do You give me a real, operative love, capable of conquering
+all the resistances of selfishness, of dismantling all its
+
+
+plans. You who are infinite charity, consuming fire, infuse
+
+
+into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
+is the weight that tries to slow my flight toward You,
+grant that Your love be a weight still stronger that
+draws me incessantly into You, by means of a total
+self-giving, without reserve, without measure.

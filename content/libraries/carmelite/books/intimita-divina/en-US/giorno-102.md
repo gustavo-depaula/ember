@@ -1,108 +1,122 @@
-## 102 — CONFESSION
+## 100 — IMPERFECTION
 
 ### Presence of God
 
 ### Meditation
 
-1 — Confession is the sacrament of Christ's Blood, of which God - according to the expressive saying of St. Catherine
-of Siena - "has made us a bath to wash the face
-of our souls from the leprosy of sin." If necessary matter
-of this sacrament is only mortal sins, venial sins are sufficient matter and all Catholic
-tradition insists on the usefulness of frequenting
-confession even for venial sins alone. But
-whoever, following this directive, practices weekly confession must watch attentively that, far from becoming a mechanical habit, his act be a true living act,
-that makes him capable of taking full profit from all
-the graces offered by this sacrament.
+1 — Whereas venial sin always includes a
+transgression, more or less slight, of a law of God, imperfection
+is the omission of a better good to which one is not
+obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
+presented to me the possibility of doing a better action,
+which is fitting and proportionate to my state,
+to my present possibilities, which is in harmony with my
+duties, and for which I can reasonably think myself
+inspired by the Holy Spirit, and yet I deliberately refuse
+to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
+cannot be considered good, nor can it be justified
+by the thought that, since no law or command exists
+imposing that better action on me, I may omit it merely to exercise my freedom; this would be
+an abuse of freedom, which was given to me by God
+only to render me capable of adhering to good, without
+letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
+laziness, narrowness, attachment to my comfort; and
+all this is evidently contrary to perfection.
 
-"Do not despise the Blood of Christ!" exclaims
-St. Catherine of Siena, and certainly he who does not despise it
-will not approach confession lightly. For this purpose
-it is useful to reflect that absolution is precisely the outpouring of the Precious Blood which, flooding and penetrating the soul,
-
-
-purifies it from sin, restores sanctifying grace if
-it has lost it, and increases it if it already possesses it. This remission of sin and production of grace is the fruit of Christ's action, expressed in the formula the priest
-says in His name: "I absolve you..." At this moment
-Jesus is acting in the soul, both remitting sin and
-producing or increasing grace. And it is useful to remember
-that the efficacy of absolution is not limited only to sins
-committed, but extends also to the future, safeguarding the soul against relapses, offering it strength to resist temptations and to carry out good resolutions,
-and this through sacramental grace. In this sense the
-Blood of Christ is not only medicine for the past,
-but also preservative and strengthening for the future: the
-soul, immersed in it as in a salutary bath,
-draws from it new vigor and little by little sees in itself
-the force of passions extinguished.
-
-Hence the importance of frequent confession for
-a soul that, longing for union with God, must necessarily aspire to total purification.
+Considered thus, it is clear that voluntary imperfection
+can never be conformed to the will of God,
+therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
+with the divine will. Hence the importance,
 
 
-2 — When, at the tribunal of penance, a soul
-has to submit only venial sins, there is no need
-to concern itself with the integrity of accusation - as instead
-is required for mortal sins - that is, it is not necessary
-to enumerate all the venial faults that escaped it during
-the week; it is much more profitable that it fix its
-attention first on deliberate ones,
-then on semi-deliberate ones, even if they were simple imperfections, and denounce not only their external
-aspect, but also the interior motive. Although this is not in itself necessary for the validity of confession, it is certain
-that the more the accusation lays bare the root of evil,
-the more the soul will gain from it both for the act of humility accomplished
+for the soul that seeks perfection, of eliminating from its
 
 
-and for the impulse to deeper repentance and to a livelier desire to correct itself, which logically derives
-from considering the very little noble motives on which,
-in general, our faults depend. Moreover, such an accusation will allow the confessor to know better
-the penitent's weak points and therefore suggest the remedies best suited, something particularly important when
-direction is connected with confession. But even more
-than about accusation, the soul must concern itself with sorrow for
-its sins insofar as they are offense against God, infinite Goodness;
-that it be sorrow ex amore, proceeding from love,
+conduct any voluntary imperfection. It is precisely in
+this sense that St. John of the Cross warns: "For the soul
+to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
+that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
+but also progress in perfection" (A. I, 11, 3).
 
 
-that is, repentance of the child who, more than thinking
-of his shame and deserved punishments, grieves over the displeasure caused to a Father who loves him so much and whose
-love he ought to return. Sorrow is so necessary
-for the validity of the sacrament that, if it were lacking,
-absolution would be null; and on the other hand, the more perfect sorrow is, the more absolution destroys not only sin, but also the temporal punishment contracted by it.
-The more the penitent brings to confession a contrite
-heart, the more the Blood of Jesus purifies him,
-renews him, enriches him with strength, charity, and grace.
+2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
+of a law that of itself does not oblige under sin,
+as are generally the constitutions or statutes of various
+religious Orders and Institutes. In this regard it should
+be noted that if there is no reasonable,
+proportionate, and sufficient motive for failing in one of these laws,
+very easily such transgressions will become venial
+sin because of lack of a morally good end. In fact,
+as St. Thomas teaches, man is bound always to act
+
+
+for a reasonable motive, for a good end. If the
+
+
+end is vitiated - as it would be, for example, to transgress the
+law of silence, recollection, or religious modesty out of
+curiosity, for one's own convenience, and the like - the action
+thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
+ingratitude, and a certain hardness of heart that does not
+sufficiently appreciate the help God gives us for
+better works" (Salmanticenses). Another kind of imperfection
+is a certain lack of completeness found in an
+act substantially good, but carried out, for example, with
+some narrowness, or without employing in it all the
+good will and impetus of which one is capable.
+
+In the end, every kind of voluntary imperfection
+always derives from lack of effort, of vigor, of momentum
+in spiritual life. It is always selfishness that, in one way
+or another, takes something from God to satisfy
+self. We are too calculating; we are afraid of giving
+
+
+too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
 
 ### Colloquy
 
-"Sweet Jesus, Jesus love! To clothe us in the life
-of grace, You stripped Yourself of the life of Your body;
-on the wood of the most holy cross You stretched out Your body,
-so that it seemed a slaughtered lamb losing blood from every side. And in the Blood You recreated us to the life of grace.
-
-"Sweet Jesus, my soul ardently desires
-to see itself all bathed and drowned in Your Blood... Because in the Blood I find the fountain of mercy; in the Blood,
-clemency; in the Blood, fire; in the Blood, pity;
-in the Blood justice is made for our faults; in the Blood
-mercy is satisfied; in the Blood our hardness is dissolved;
-in the Blood bitter things become sweet and
-great burdens light. And since, O Christ, in Your Blood
-virtues mature, inebriate and drown my soul in the Blood,
-that it may be clothed in true and real virtues" (St. Catherine of Siena).
-
-O Jesus, if one drop alone of Your most precious Blood has the power to erase all the crimes of the world, what
-will not be worked in me when, at the moment of absolution,
-You pour it out with such abundance upon my poor
-soul? O Jesus, rekindle my faith and make me penetrate deeply the immense value of the sacrament of
-Your Blood. It is only Your Blood that washes me from sins, that purifies me from impurities, that heals and vivifies my soul. Oh, grant that this salutary laver
+I beg You, O my God, grant me a charity
+strong, generous, capable of destroying to the very root my
+selfishness. Oh, how I see that it is precisely this
+selfishness that is the cause of so many little infidelities of mine, of so many
+imperfections into which I habitually fall and which
+I do not care to correct under the pretext that they are not
 
 
-may penetrate all my being and renew it all in Your
+sins!
+
+But such faults are not without importance for
+a soul that, being consecrated to You, has the duty to
+tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
+How can I claim to unite myself to You, Infinite Perfection,
+I who voluntarily admit into my life so many and
+so many imperfections? How can my will be
+wholly conformed to Yours, when I will and love what
+You do not will and absolutely cannot love?
+
+O Lord, how I feel the weight of my selfishness
+that drags me downward, that would like to achieve the
+maximum with minimum effort, that seeks by every means to avoid
+toil, renunciation, full and generous self-gift! How
+I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
+to tomorrow what costs me or repels me, that presents me
+a thousand pretexts to evade an act of generosity!
+
+Yes, O Lord, I feel all this, and You know better
+than I how far the retreats and compromises of my
+selfishness go. But You also know that I want to love You with all my
+heart, that I want to give myself entirely to You; You know that my
+poor desires are sincere, though ineffective. Well then,
+do You give me a real, operative love, capable of conquering
+all the resistances of selfishness, of dismantling all its
 
 
-grace, in Your love!
+plans. You who are infinite charity, consuming fire, infuse
 
-By the merits of Your Passion, grant me, O Lord,
-always to bring to the tribunal of penance a heart
-truly humble and contrite, an ever more perfect sorrow
-for my faults, an ever more sincere and profound detestation of everything that is offense against You, my God. Only
-thus Your Precious Blood, finding in me no attachment to sin, may wholly penetrate my soul,
-may wholly cleanse it, wholly renew it, wholly vivify it. O Jesus, grant that Your Blood bear in me all
-its fruit!
+
+into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
+is the weight that tries to slow my flight toward You,
+grant that Your love be a weight still stronger that
+draws me incessantly into You, by means of a total
+self-giving, without reserve, without measure.

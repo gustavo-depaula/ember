@@ -1,102 +1,29 @@
-## 329 — IL PERDONO
-*XXI domenica dopo Pentecoste*
+## 7 — L'IDEALE APOSTOLICO
 
-### Presenza di Dio
-
-O Signore, insegnami a perdonare con generosità e siimi largo del tuo perdono.
+**Presenza di Dio.** — *Accendi in me, Signore, la fiamma dell'apostolato e alimentala col tuo amore.*
 
 ### Meditazione
 
-1 — «Il regno dei cieli è simile a un re, il quale vol
-le regolare i conti con i suoi servitori ». Il Vangelo odierno (Mt. 18, 23-35) allude al rendiconto che tutti un giorno saremo chiamati a dare; pensiero grave che ci porta a
-riflettere, come già domenica scorsa, sullo stato della nostra coscienza. uttavia, proseguendo la lettura della pa
-rabola, il cuore si conforta: Dio, adombrato sotto Ja figura del re, si mostra così buono, così misericordioso e
-compassionevole col povero servo che non può saldare il
-suo debito: gli condona ogni cosa e lo lascia in libertà.
+**1** — Come il seme non può germinare lo stelo che porterà una nuova spiga se prima non affonda le radici nel terreno, così l'anima non può dar frutti per l'apostolato se prima non mette le radici di una seria vita interiore, mediante la quale trarrà da Dio la linfa che la renderà feconda. La vita interiore è il principio vitale, è la forza, è la fiamma dell'apostolato; ma d'altra parte anche l'apostolato può portare il suo contributo alla vita interiore, cooperando a renderla più generosa, più intensa. Quando un'anima è presa dall'ideale apostolico, il suo stesso desiderio di conquistare altre anime a Dio la spinge ad impegnarsi con maggiore generosità nella preghiera, nella mortificazione, nell'esercizio delle virtù proprio con l'intento di rendersi maggiormente capace di un apostolato fecondo. Così, mentre la vita interiore è l'anima dell'apostolato, l'apostolato è a sua volta una molla assai potente per spingere l'anima all'unione con Dio, alla perfezione, alla santità. L'ideale apostolico è di per sé suscitatore di energie spirituali, di vita generosa, santa. Teresa di Gesù, mossa appunto da un ardente desiderio di controbilanciare il grande male che l'eresia protestante andava facendo ai suoi tempi, diede alla riforma da lei iniziata un timbro di particolare austerità e organizzò la vita delle sue figlie in modo da impegnarle in un continuo esercizio di preghiera, di sacrificio, di donazione per la salvezza delle anime (cfr. *Cam.* 1, 2). Il sistema di vita del Carmelo teresiano — vita contemplativa di profonda intensità — è nato così da un grande ideale di apostolato.
 
-. Il debito di quel servo non era cosa da nulla: dieci
-mila talenti; ma i nostri debiti con Dio sono assai più rilevanti; essi non sono calcolabili in denaro, nè in argento,
-nè in oro, ma vanno calcolati secondo il prezzo del nostro riscatto, il Sangue preziosissimo di Gesù. I nostri debiti sono i nostri peccati, che hanno avuto bisogno di essere lavati dal Sangue di un Dio. Debiti che, in una forma più o meno lieve e nonostante la buona volontà, accresciamo ogni giorno, se non altro con cadute di fragilità, di debolezza. Chi alla fine della giornata può dire di
-non aver contratto nuovi debiti con Dio? Se al termine
-della vita Dio ci ponesse davanti il conto esatto del nostro deficit, ci troveremmo in una posizione assai più imbarazzante di quella del servo della parabola. Ma Dio è
-bontà infinita, Egli conosce e compatisce la nostra miseria e, tutte le volte che ci presentiamo umiliati davanti a
-lui riconoscendo i nostri torti, subito ci perdona e ci assolve da ogni debito. Dio è magnifico nel suo perdono:
+Questo stesso ideale ha fatto sorgere recentemente nella Chiesa un nuovo stato di perfezione, quello degli Istituti secolari, in cui anime desiderose di consacrarsi alla salvezza dei fratelli s'impegnano a vivere nel mondo secondo la perfezione evangelica. «Il fine specifico [di apostolato] sembra aver necessariamente richiesto e anche creato il fine generico [di perfezione]» (Pio XII, *Primo feliciter*).
 
-non ci rinfaccia le colpe già piante, nè tiene più alcun
-conto di esse; il suo perdono è così grande, così picno,
-che non solo annulla i debiti, ma ne distrugge anche il
-ricordo, come se non fossero mai esistiti. Gli basta veder:
-ci pentiti e ogni piaga, anche la più canerenosa e la più
-ributtante, viene sanata e distrutta dal Sangue preziosissimo di Gesù. Il Sangue di Cristo è come un mare infinito
-che ha il potere di lavare e di distruggere i peccati di
-tutta l'umanità, purchè sinceramente detestati; ogni giorno, ogni momento possiamo prendere il fardello più
-meno greve delle nostre colpe, delle nostre infedeltà e
-farlo sparire in questo oceano di grazia e di amore, sicuri
-che non ne rimarrà alcuna traccia.
+Quando l'ideale apostolico è vivo e ben compreso, anziché gettare sventatamente la propria nell'azione, le conduce ad una vita interiore più profonda, al dono totale di sé, alla santità, perché è necessario santificarsi per santificare. «Per essi santifico me stesso» *(Gv.* 17, 19).
 
-perdono. Tornando a casa, quel servo fortunato, che era
-stato sciolto da ogni debito, incontra un suo conservo
-che gli doveva cento denari, somma veramente infima in
-confronto ai diecimila talenti che erano stati a lui condonati; ma egli, che era stato trattato con tanta pietà,
-non ne dimostra alcuna per il suo simile, non ascolta nè
-suppliche, nè lacrime, anzi «va e caccia in prigione fil
-suo conservo] finchè non abbia pagato il debito ».
+**2** — Una vita interiore in cui non brilla l'ideale apostolico non potrà mai essere piena, rigogliosa. Ciò dipende dalla natura della grazia e della carità che sono per se stesse espansive, apostoliche. Sebbene la grazia aderisca in modo intimo ed incomunicabile all'anima che ne è dotata, tuttavia giova al bene di tutta la comunità cristiana. Il dogma della comunione dei santi ci dice appunto che la grazia e la santità di un membro di Cristo ridonda a vantaggio di tutte le altre membra. Parimenti la carità, compagna inseparabile della grazia, è per sua natura espansiva e, abbracciando Dio, abbraccia tutte le creature in Dio. Essa imprime all'anima un duplice slancio: verso Dio e verso il prossimo; se l'uno o l'altro di questi slanci viene represso, la carità resta soffocata nella sua essenza. Questa virtù si sviluppa e giunge a maturità solo quando sono in piena efficienza i suoi due aspetti: amore di Dio e amore del prossimo; escludendo o diminuendo la carità fraterna, di cui l'apostolato è l'espressione più alta, si viene inevitabilmente a diminuire anche l'amore verso Dio.
 
-Mentre poco prima ci siamo commossi per la bontà
-del padrone, ora ci sdegnamo per la crudeltà del servo.
-Eppure, benchè arrossendo, dobbiamo riconoscere che,
-come la bontà del padrone è l'immagine della misericordia di Dio sempre pronto al perdono, così la crudeltà del
-servo è l'immagine della nostra durezza, della nostra avarizia nel perdonare al prossimo. Purtroppo è proprio così: noi che abbiamo bisogno del perdono di Dio più an
-cora che del pane. quotidiano, siamo tanto duri, tanto esi
-genti verso i nostri simili, tanto difficili all'indulgenza e
-al perdono. Che cosa sono i debiti che il prossimo può
-avere con noi in confronto a quelli che noi abbiamo verso
-Dio? Certo infinitamente meno di pochi denari in confronto a diecimila talenti, poichè si tratta di un'offesa recata ad una creatura miserabile in paragone dell'offesa recata alla maestà infinita di Dio. Ma ecco il contrasto: Dio
-perdona, dimentica, annulla interamente i nostri gravi debiti, nè cessa di amarci e di beneficarci malgrado le nostre continue infedeltà; noi invece solo a grande stento
-riusciamo a perdonare qualche piccolo torto, e, pur perdonando, non I dimenticare interamente, sì che,
-presentandosene l'occasione, siamo pronti a rinfacciarlo. E
-che cosa sarebbe se il prossimo commettesse ogni giorno
-a nostro riguardo tante infedeltà e indelicatezze, quante
-sono quelle che noi commettiamo verso Dio? Oh, quanto
-è misero e stretto il nostro perdono!
+Perciò una vita interiore fredda, indifferente per il bene delle anime è necessariamente una vita sminuita, rimpicciolita, ridotta ad una forma di pietà gretta, meschina e spesso anche egoista; ha perso il calore vitale, il calore della carità e non merita neppure il nome di vita.
 
-La parabola riferisce il castigo che il padrone inflisse
-al servo crudele: «sdegnato, lo diede in mano ai manigoldi fintantochè non avesse pagato tutto il suo debito »;
-quindi segue la conclusione: « Così farà con voi il Padre
-mio celeste, se ognuno di voi non perdonerà di cuore al
-proprio fratello ». Se vogliamo che Dio sia largo con noi
-del suo perdono, dobbiamo essere larghi del nostro con il
-prossimo; nella misura in cui perdoneremo saremo perdonati. È quanto dire che noi stessi diamo a Dio la misura
-esatta della misericordia che deve usare a nostro riguardo.
+Dove invece la fiamma dell'apostolato è viva, si ha una vita interiore più che mai rigogliosa, capace di grande generosità. Non è forse vero che talvolta il desiderio della nostra perfezione non è sufficiente a darci il coraggio per accettare certi sacrifici, certe rinunce che costano tanto alla natura? Ma quando si pensa che dalla nostra generosità, dalla nostra fedeltà alla grazia, dalla nostra immolazione può dipendere la salvezza di altre anime, allora non si può rifiutare nulla al Signore e si trova la forza per abbracciare anche le cose più aspre e penose.
+
+Così l'ideale apostolico diventa una leva potente per la santificazione personale e l'anima, resa più ricca da una fervorosa vita interiore, può mettere a disposizione di questo ideale nuove energie, nuova fecondità.
 
 ### Colloquio
 
-«Chi è, o Signore, che non sia debitore verso di t
-Chi è che non abbia per debitore qualche fratello? Perciò
-nella tua giustizia hai stabilito che la tua regola di condotta verso di me, tuo debitore, fosse quella seguita da
-me con chi è debitore a mio riguardo. Dunque, poichè anch'io ho peccato — e quanto! — devo essere indulgente
-con chi mi chiede perdono. Verrà, infatti, il momento
-della preghiera e allora dovrò dirti: ' Rimetti a me, o Signore, i miei debiti”. E come? La condizione è posta da
-me, io stesso fisso la legge: “rimetti come rimetto io”.
+«O Signore, ho in me desideri immensi di servirti, e vivissimo è il mio dispiacere nel vedermi incapace di realizzarli. Vorrei alzare la voce per far intendere a tutti e dar a conoscere i grandi tesori che si ricevono da te, quando ci si dispone a riceverli.
 
-«Due brevi sentenze, o Signore, hai fatto regi.
-nel Vangelo: “perdonate e vi sarà perdonato; date e vi
+«Provo, Dio mio, una pena grandissima per la perdita di tante anime, specialmente di coloro che per il battesimo erano già membri della Chiesa, e desidero grandemente di lavorare per la loro salute, tanto da sentirmi pronta a sopportare mille morti pur di liberarne una sola dai terribili supplizi dell'inferno. Come si può reggere a vedere un'anima condannata per l'eternità al maggiore dei supplizi? Se siamo presi di compassione per i dolori di questo mondo, che dopo tutto hanno un termine e cessano sempre con la morte, come potremo, o Signore, mostrarci indifferenti innanzi a tormenti che dureranno in eterno e innanzi al gran numero di anime che ogni giorno il demonio trascina con sé nell'inferno?
 
-sarà dato”, Ecco la mia preghiera: io chiedo perdono a
-te del mio peccare, e Tu vuoi che vi sia qualcuno a cui
-no 10. A gi
-Tea accatta da me il povero, così io sono il poverello tuo, che sto alla porta del padre di famiglia, anzi
-mi vi prostro, supplicani lo con gemiti, per la Drama ni
-ricevere qualche cosa, c questo qualche cosa sei Tu. i
-povero chiede a me del pane, e io che cosa chieggo @
-te, se non te sso che hai detto: 'lo sono il pane vivo
-[ cielo ?? n }
-“agri perdono, perdonerò; rimetterò ad altri, e
-sarà rimesso a me; volendo ricevere, darò, e mi sarà dato.
+«Poiché Tu, Dio mio, vedi il dolore che provo alla vista del gran numero di quelli che si perdono, salvane almeno uno, Signore, almeno uno che possa dar luce a molti altri. Non per me, Signore, che non lo merito, ma per i meriti di tuo Figlio! Osserva, Signore, le sue piaghe; e poiché Egli ha perdonato a quelli che gliele hanno fatte, perdona Tu pure a noi.
 
-«È cosa ardua per me perdonare chi mi offende? Ri
-correrò alla preghiera. Invece di IRDRRETO ingiurie Hu sh
-giurie, pregherò per l'ingiuriatore. V enendomi voglia : i
-risponderglì acerbamente, parlerò a te, Signore, in suo favorè. E poi ricorderò che 'Tu prometti la vita SIA, sos
-comandi di perdonare al fratello. È come se mi e
-“Tu che sei uomo, perdona ad altro. uomo, affinchè io
+«Dio mio, non voglio che la tua volontà; vi sono talmente sottomessa che non desidero più di vivere che di morire. Tuttavia, se così a te piace, desidero di vivere per poterti servire un po' di più. Se potessi contribuire in qualche cosa per farti amare e lodare da un'anima anche solo per poco tempo, ciò mi sembrerebbe assai più importante che essere già nella gloria» (T.G. *RS.* 1, 3; *Vt.* 32, 6; *Es.* 11, 3; *RS.* 6, 7).

@@ -1,109 +1,23 @@
-## 311 — IL DOVERE DELL'APOSTOLATO
+## XIX — IL DONO DELLA PIETÀ
 
-### Presenza di Dio
-
-O Gesù, che mi accogliesti come tuo membro, fa' che io non viva da estraneo nel tuo Corpo mistico, ma possa giovare al bene di tutti i fratelli.
+**Presenza di Dio.** — *O Spirito Santo, Spirito di pietà, rallegra e addolcisci il mio cuore.*
 
 ### Meditazione
 
-1 — Prescindendo dal grado di carità cui un’anima può
-essere giunta e dalla sua particolare vocazione, esiste per
-ogni cristiano un dovere di apostolato che ha il suo fondamento nel fatto stesso di essere cristiano, ossia di es-
+**1** — Mediante il dono della pietà lo Spirito Santo dà un nuovo tocco alla nostra vita spirituale, un tocco di soavità e di dolcezza che perfeziona e semplifica i nostri rapporti con Dio e col prossimo. Questi rapporti sono fondamentalmente regolati dalla giustizia, virtù che c'inclina a compiere sempre il nostro dovere dando a ciascuno il suo. Se però nella vita fossimo guidati unicamente dalla giustizia il nostro cammino sarebbe molto arido e la fedeltà difficile. Quando, invece, mediante l'azione dello Spirito Santo, si sviluppa in noi il senso della *pietà filiale* verso il Padre celeste, senso che in pratica si traduce nel vivo desiderio di fargli piacere in tutte le cose, allora oltrepassiamo i limiti sempre un po' rigidi della giustizia per darci, con tutto il cuore, al servizio del Signore. Sospinti da quel profondo grido interiore: «Padre!» che lo Spirito Santo va ripetendo in noi (cfr. *Gal.* 4, 6), ci eleviamo verso il cielo col desiderio di conquistare il cuore di Dio, di comportarci in tutto da veri figli suoi e così anche i doveri più ardui e gravosi diventano facili e soavi. In tal modo il dono della pietà aiuta la virtù della giustizia e quindi, per quanto riguarda i nostri rapporti con Dio, la virtù della religione. Mediante tale dono lo Spirito Santo «attesta al nostro spirito che siamo figli di Dio» *(Rom.* 8, 16), sì che questa verità diventa esperienza viva, personale, capace d'innalzarci a Dio con uno slancio filiale tutto nuovo, slancio che facilita e semplifica la nostra preghiera trasformandola in un intimo cuore a cuore col Padre celeste.
 
+È molto giusto quindi che, aspirando ad una vita di intima unione con Dio, noi desideriamo ed invochiamo questo dono: sotto il suo influsso la nostra orazione diventerà più cordiale, più filiale e attenderemo con maggior amore e facilità a tutto ciò che concerne il culto divino. Invochiamo questo dono soprattutto nei momenti in cui ci sentiamo più aridi e freddi, affinché — sia pure attraverso la prova ed il travaglio interiore — ci aiuti ad andare a Dio con cuore di figli. Del resto, la nostra diligenza e costante applicazione alla preghiera, nonostante la mancanza di devozione sensibile, è una delle migliori disposizioni per attirare su di noi il soffio vivificatore del dono della pietà.
 
-sere membro del Corpo mistico di Cristo. « Noi molti
-siamo un corpo solo in Cristo e, per i rapporti reciproci,
-siamo membri gli uni degli altri» (Rom. 12, 5); perciò,
-come nel nostro corpo ciascun membro s’interessa al bene degli altri membri «e se un membro soffre, tutti con
-esso soffrono, e se un membro ha gloria, tutte le membra godono con lui» (I Cor. 12,26), così ogni cristiano è
-tenuto ad interessarsi del bene degli altri.
+**2** — Il dono della pietà perfeziona la giustizia circa i nostri rapporti col prossimo aiutandoci soprattutto a smussare le angolosità di un certo senso di ritrosia e di durezza che, pur cercando di praticare la virtù, rimane ancora nella nostra condotta, particolarmente verso coloro che ci sono molesti od ostili. Il dono della pietà c'ispira il senso della paternità divina non solo riguardo a noi stessi, ma anche riguardo agli altri, ossia ci fa sentire che non solo su noi, ma su tutti gli uomini, vicini o lontani, amici o nemici, si estende la medesima paternità, giacché «uno [è] Padre di tutti, Colui che è sopra tutti e per tutti» *(Ef.* 4, 6). La consapevolezza della comune paternità non deve rimanere confinata nel campo delle idee, ma deve penetrare nella nostra vita pratica, deve incidere nei nostri rapporti col prossimo per modificarli, facilitarli, addolcirli. È proprio questa l'azione che lo Spirito Santo vuole compiere in noi mettendo in atto il dono della pietà, mediante il quale c'inclina soavemente alla dolcezza, all'indulgenza, alla compassione verso tutti, appunto perché tutti siamo figli di uno stesso Padre. Lo Spirito Santo ci fa comprendere che la nostra fratellanza soprannaturale è un legame assai più forte dei legami che provengono dalla carne e dal sangue, perché sgorga non dalla volontà dell'uomo, ma dalla volontà del Padre celeste il quale, «prima della fondazione del mondo, ci ha predestinati ad essere suoi figli adottivi per mezzo di Gesù Cristo» *(Ef.* 1, 4 e 5); e in vista di questo legame ci spinge ad oltrepassare qualsiasi difficoltà che possiamo incontrare nei rapporti col prossimo, trattando tutti non da stranieri, ma da fratelli.
 
-«Se una spina — dice S. Giovanni Crisostomo —
-penetra nella pianta del piede, tutto il corpo la sente c
-ne è sollecito: il dorso si piega, le mani si tendono per
-estrarla, il capo si abbassa e gli occhi guardano con gran
-cura e sollecitudine ». Come il dorso, le mani, il capo e
-gli occhi non trascurano il bene del piede, nè dicono:
-«che me ne importa? », ma ognuno, a modo proprio,
-corre in aiuto del membro sofferente, così nessun cristi:
-no può disinteressarsi del suo fratello, ma è tenuto —
-secondo le sue possibilità — ad adoperarsi per il bene
-dell’anima di lui e ciò appunto in forza del battesimo
-che, costituendolo membro del Corpo mistico, l’ha reso
-solidale con le altre membra, sì che il bene altrui è bene
-suo, come pure il male altrui è male suo,
-
-«Tutti i mali nascono dal fatto che reputiamo cose
-estranee quelle che riguardano il nostro stesso corpo,
-Nessuno può fare il proprio dovere se trascura la salvezza del prossimo. Se osi dire di non aver nulla di comune
-col tuo membro, nè stimi di aver nulla di comune col
-tuo fratello, non hai neppure Cristo per Capo ». Queste
-forti parole del Crisostomo ci dicono che l’apostolato
-non è un di più, non è qualche cosa di facoltativo lasciato
-all’arbitrio della generosità dei singoli, ma è dovere preciso di ogni cristiano, dovere derivante dalla natura stes-
-sa del cristianesimo, dovere così stringente che non si può
-essere veri cristiani senza adempierlo.
-
-
-2 — Come S. Paolo alle prime cristianità, come
-S. Giovanni Crisostomo alla Chiesa di Antiochia, così oggi il Vicario di Cristo alza la voce per inculcare ai fedeli di tutto il mondo il grande dovere dell’apostolato.
-Gesù che, morendo sulla croce, ha meritato per noi la
-grazia, «avrebbe potuto elargirla da sè a tutto il genere
-umano; ma volle farlo per mezzo di una Chiesa visibile,
-nella quale gli uomini si riunissero affine di cooperare
-tutti con lui, e per mezzo di essa, a comunicare vicendevolmente i divini frutti della Redenzione. Come infatti il
-Verbo di Dio, per redimere gli uomini coi suoi dolori e
-tormenti volle servirsi della nostra natura, quasi allo stesso modo, nel decorso dei secoli, si serve della sua Chic-
-sa per continuare perennemente l’opera incominciata »
-(Pio XII, Myst. Can) La Chiesa è la società dei fedeli,
-la Chiesa siamo noi, quindi ad ognuno di noi incombe il
-dovere di cooperare alla diffusione della grazia nelle anime. Senza dubbio, in questo ministero ‘il primo posto
-Spetta ai vescovi ed ai sacerdoti, ma accanto a loro, e
-alla loro dipendenza, ogni cristiano è chiamato a prendervi parte. « Non solo ai sacri ministri ed a coloro che
-han fatto oblazione di sè a Dio nella vita religiosa, ma
-anche agli altri membri del mistico Corpo di Cristo, a
-ciascuno in ragione della propria possibilità, incombe il
-
-
-dovere di affaticarsi con ogni impegno e diligenza alla
-costruzione ed all'incremento del medesimo Corpo » (ivi).
-Ù Di ogni suo membro, ossia di ogni cristiano, Gesù
-si vuol servire per continuare la sua opera redentrice nel
-mondo; Egli, onnipotenza infinita, che, come ha creato
-tutto dal nulla, così ha il potere di santificare le anime
-senza il concorso di nessuno, vuole avere bisogno di noi,
-della nostra povera opera e c'invita e ci sollecita a sacrificarci insieme con lui per la salvezza dei fratelli. « Mi-
-stero tremendo — esclama Pio XII — nè mai sufficientemente meditato: che, cioè, la salvezza di molti dipen-
-da dalle preghiere e dalle volontarie mortificazioni a questo scopo intraprese dalle membra del mistico Corpo di
-Gesù Cristo e dalla cooperazione dei Pastori e dei fedeli» (ivi). Essere apostoli significa prestare a Cristo la propria capacità, la propria attività, affinchè Egli, per mezzo nostro, continui a redimere ed a santificare le anime.
+Se vogliamo assecondare il movimento del dono della pietà, dobbiamo ingegnarci a disporre il nostro cuore alla benevolenza e alla mitezza, abituandoci a considerare qualsiasi uomo — anche se ci fosse contrario — come figlio di Dio, come fratello nostro. E quando questo esercizio ci sarà più difficile, invece di scoraggiarci, ci rivolgeremo con maggior insistenza allo Spirito Santo supplicandolo di voler compiere in noi quel che da soli non sappiamo fare.
 
 ### Colloquio
 
-«Signore mio, volgi l'occhio della tua misericordia
-Sopra il popolo tuo e sopra il Corpo mistico della santa
-Chiesa, poichè Tu sarai più glorificato nel perdonare a
-tante creature, che non perdonando solamente a me, miserabile, che tanto ti ho offeso. Perciò ti prego, divina,
-eterna Carità, che Tu faccia vendetta di me e faccia misericordia al popolo tuo; mai mi partirò dalla tua presen-
-za finchè non vedrò che Tu faccia ad esso misericordia.
-Come potrei accontentarmi se io avessi vita eterna e il
-popolo tuo la morte?... Voglio dunque, e per grazia te
-la domando, che usi misericordia al popolo tuo per quella carità che ti mosse a creare l’uomo ad immagine e so-
-miglianza tua, affinchè partecipasse di te, della tua vita.
+«O Spirito Santo, dirigi l'anima mia poiché tutti quelli che sono mossi da te, sono realmente figli di Dio. Tu m'insegni che non ho ricevuto lo spirito di servitù sì da essere ancora guidato dal timore, ma lo spirito di adozione a figlio per cui, volgendo lo sguardo a Dio, posso gridare: «Padre!». Tu stesso rendi testimonianza al mio spirito che sono figlio di Dio; e se sono figlio sono anche erede: erede di Dio e coerede di Cristo, purché accetti di soffrire con lui, onde essere con lui glorificato» (cfr. *Rom.* 8, 14-17).
 
-«O Signore, offro a te la vita mia, ora e per sempre, quando piacerà a te; e la metto per la tua gloria,
-pregando ancora umilmente, per la virtù della tua Passione, che Tu mondi e purifichi da ogni difetto Ja Chie-
-Sa, tua sposa, e non ritardi più... Rivolgo poi ad altra
-parte lo sguardo e vedo le anime perdute d’innumerevoli
+«Dio mio, manda la tua luce e la tua verità, affinché risplendano sulla faccia della terra: io sono come un terreno vuoto e sterile finché Tu, Signore, non mi rischiari. Infondi dal cielo la tua grazia, ricrea il cuor mio con la celeste rugiada, dammi l'acqua della devozione per irrigare la superficie della terra, onde produca frutti belli e buoni. Solleva l'anima mia che è oppressa dal peso delle sue colpe, e solleva alle cose divine tutti i miei desideri, sì che, gustata una volta la soavità della felicità celeste, ogni cosa terrena mi riesca di tedio.
 
-eccatori e nel vederle mi si spiaccia, anzi piuttosto, con la
-‘orza di acerbo rammarico, mi si dilata il cuore, c così,
-vinta dalla compassione, non posso fare a meno di piangere la miseria loro, quasi come mi trovassi simile ad
-esse, imbrattata dal fango delle colpe loro.
+«Attira fino a te il mio cuore liberandomi dalle consolazioni umane che durano poco; nessuna creatura può accontentare appieno i miei desideri e confortarmi. Uniscimi a te col vincolo indistruttibile dell'amor tuo, poiché Tu solo basti a chi ti ama, e senza di te tutte le cose non hanno alcun valore» *(Imit.* III, 23, 9 e 10).
 
-«Signore, Tu, nel corso del viver tuo mortale, il
-pe portasti di due croci, portando sopra il dorso tuo
-la soma gravosa dei peccati nostri; così Tu, acciocchè
-io divenissi a te conforme, del peso mi caricasti di duc
-eroci; una mi abbatte con le infermità ed altre angustie
-il corpo, l’altra mi trafigge l’anima addolorata per la perdizione e cecità di tanti miserabili ed ostinati peccatori »
-(S. Caterina da Siena).
+O Spirito Santo, crea in me un cuore di figlio verso il Padre celeste, un cuore che sempre lo cerchi, lo ami e lo serva di buon volere. Crea in me un cuore di fratello verso tutti i prossimi affinché, superando ogni contrasto, sappia essere benevolo, dolce e mite con tutti.

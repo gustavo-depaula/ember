@@ -1,104 +1,25 @@
-## 274 — PIETÀ E DEVOZIONE
+## XIII — LA DOLCEZZA
 
-### Presenza di Dio
-
-— O Dio, Padre nostro, infondi in me il vero spirito di pietà e di devozione.
+**Presenza di Dio.** — *O Signore, che sei dolce e soave, insegnami la dolcezza del cuore, la soavità del tratto.*
 
 ### Meditazione
 
-1. — La religione cristiana non si limita ai semplici rapporti di una creatura col suo Creatore, rapporti che, data la distanza infinita tra i due termini, rimarrebbero unicamente
-nel campo della riverenza, dell'ossequio, senza nessun carattere d’intimità, senza nessuno slancio confidenziale verso Dio.
-Il cristiano sa di essere legato a Dio per altri motivi oltre
-quello, già tanto grande, della creazione, ossia a motivo dell'elevazione allo stato soprannaturale e della Redenzione. Il
-cristiano si sente non solo creatura, ma figlio di Dio, ma redento di Cristo e ciò conferisce ai suoi rapporti con Dio quel
-senso di pietà filiale che è l’anima di tutta la sua religione.
-Contempliamo Gesù nelle sue relazioni con Dio: Egli si sente
-Figlio, Figlio che vive per il Padre da cui ha avuto l’esistenza:
-«il Padre... ha inviato me ed io vivo per il Padre » (Gv. 6,58);
-Figlio che non ha altro ideale fuorchè quello di compiere la
-volontà del Padre, alla quale aderisce con tutto lo slancio del
-suo cuore: « Sì, o Padre, perchè così t'è piaciuto » (Mt. 11,26);
+**1** — La dolcezza è il fiore della carità; è una partecipazione di quella soavità infinita con cui Dio guida e governa tutte le cose. Nessuno vuole il nostro bene, la nostra santificazione con tanta forza come Dio, e tuttavia Egli non lo vuole con durezza, rigidità o violenza, ma con forza sommando a nostri sforzi, attendendo la nostra libera adesione alla grazia con pazienza e dolcezza infinita. Il Vangelo così ci descrive la dolcezza di Gesù: «Non disputerà e non griderà e nessuno udrà la sua voce sulle piazze. Non spezzerà la canna rotta e non spegnerà il lucignolo fumigante» *(Mt.* 12, 19 e 20). I farisei mormorano perché lo vedono mangiare coi pubblicani e i peccatori e lui risponde: «Andate ad imparare che cosa significa: io voglio misericordia e non sacrificio; perché io non sono venuto a chiamare i giusti, ma i peccatori» *(Mt.* 9, 13). Gli Apostoli sono pronti ad invocare il fuoco sui samaritani che respingono il Maestro, ma Egli li sgrida: «Non sapete di quale spirito siete. Il Figliuol dell'uomo non è venuto a perdere le anime ma a salvarle» *(Lc.* 9, 55 e 56).
 
-Figlio che in tutte le sue azioni mira unicamente al beneplacito del Padre: « faccio sempre quanto piace a lui » (Gv. 8,28).
-Gesù, l’Unigenito del Padre, l'unico Figlio di Dio per natura,
-ci ha reso partecipi, per grazia, della sua figliolanza divina,
-sì che ci possiamo « chiamare e siamo di fatto figlioli di Dio»
-(cfr. I Gv. 3, 1); e se lo siamo è ben giusto che cerchiamo di
-partecipare anche ai sentimenti di pietà filiale di Cristo verso il Padre celeste. E° proprio questo il tono, la caratteristica
-che il Maestro divino ha dato alla nostra religione; « Voi,
-dunque — ci ha insegnato — pregherete così: Padre nostro,
-che sei nei cieli » (Mt. 6, 9). Egli non vuole che consideriamo
-e invochiamo Dio se non come Padre: il Padre che provvede
-a tutte le nostre necessità; il Padre che vuol essere pregato
-nel segreto e nel segreto esaudirà le nostre suppliche; il Padre che vede tutte le nostre azioni, anche le più nascoste, e
-ce ne prepara la ricompensa; il Padre che vuole essere onorato mediante l'osservanza dei comandamenti e che si compiace di porre la sua dimora nelle anime che lo amano. La
-paternità divina è il centro della religione cristiana ed a questa paternità deve corrispondere da parte nostra il senso di
-una profonda pietà filiale: amare Dio come un figlio ama
-il padre suo, cercando di fargli piacere in tutte le cose. La
-pietà è veramente il cuore della nostra religione,
+E a queste anime che, combattendo contro le loro miserie, sentono il peso e la fatica della lotta quotidiana, dice: «Venite a me voi tutti, che siete affaticati e oppressi ed io vi consolerò. Il mio giogo è dolce e il mio carico è leggero» *(Mt.* 11, 28 e 30). Ciò che rende dolce il giogo del Signore, ciò che ne alleggerisce il peso è appunto la sua carità infinita che infonde dovunque un senso di soavità e di dolcezza.
 
+La carità fraterna deve fiorire in questo spirito di soavità che, anziché esasperare le piaghe altrui le addolcisce, anziché aumentare i pesi li alleggerisce, anziché rendere più duro l'adempimento del dovere lo rende più facile e soave. La carità ha questa dolcezza con tutti, anche con gli ostinati, anche con i tardi ed i pigri nel corrispondere al bene, anche con i deboli che sempre ricadono negli stessi difetti. Anche se in un cuore ci fosse solo un briciolo di bene, bisogna circondare questo briciolo di cure amorevoli per aiutarne lo sviluppo e perciò chi ha imparato la dolcezza di Gesù «non spegnerà il lucignolo fumigante».
 
-2. — Se Dio ha voluto innalzarci allo stato di figli suoi,
+**2** — Nei contatti col prossimo talvolta la nostra carità è messa a dura prova e, di fronte al comportamento irritante di certe persone, i propositi di dolcezza vengono ben presto travolti da movimenti di sdegno, di collera. Ciò non deve scoraggiarci trattandosi in genere di reazioni spontanee indipendenti dalla volontà, ma non deve neppure autorizzarci a seguire gli impulsi della passione col pretesto che è troppo difficile resistere e che ci sentiamo trascinati nostro malgrado. E' sempre in mano nostra il poter reagire e ci riusciremo più facilmente quanto più la nostra reazione sarà pronta, energica e soave insieme. S. Teresa del B. G. insegnava alle sue novizie: «Quando vi sentite esasperate verso qualcuno, e fosse pure fino alla collera, il mezzo per ritrovare la pace è di pregare per quella persona e chiedere a Dio di ricompensarla perché vi dà occasione di soffrire». E suggeriva di prevenire questi incontri cercando di «addolcire anticipatamente il cuore» *(Ricordi inediti)*.
 
-è giusto che noi viviamo come tali e non come servi. Il servo
-fa solo quanto è strettamente necessario per conseguire la
-paga, per non essere licenziato; il figlio, invece, non si preoccupa della mercede ma, amando teneramente il padre, si mette a sua disposizione senza riserve, senza restrizioni. Il servo è
-pigro, avaro, cerca di risparmiarsi il più possibile e non vuol dare al padrone un briciolo di più di quanto è convenuto.
-Non così il figlio: per lui non c'è tempo di lavoro o di vacanza, per lui non c'è nulla di troppo faticoso quando si tratta di far piacere al padre e, sempre pronto ai suoi ordini,
-sempre attento ai suoi desideri, è lieto di potergli ripetere in
-
-
-ogni momento: « Ecco, io vengo per compiere, o Dio, la tua
-volontà » (Ebr. 10, 7). Proprio così, nei nostri rapporti verso
-Dio, la pietà filiale sfocia nella devozione, che è appunto
-«la volontà di fare con prestezza tutto ciò che appartiene al
-servizio di Dio» (II° II°, q. 82, a. 1).
-
-Tanto la pietà come la devozione possono essere vive nell’anima, anche se questa si sente arida e fredda nella parte
-sensibile, al punto da compiere tutti i suoi esercizi di preghiera e di virtù senza provare la minima dolcezza o conforto,
-ma sperimentando piuttosto forti ripugnanze.
-
-Ciò non deve sgomentarci; S. Tommaso insegna che la
-devozione è un atto della volontà, il quale atto può ben sussistere malgrado le aridità, le freddezze, le ripugnanze ed anche le ribellioni della parte inferiore. S. Paolo stesso, pur essendo stato elevato al terzo cielo, non era ancora del tutto
-libero da queste miserie e confessava: «mi diletto della legge di Dio secondo l’uomo interiore, e vedo un'altra legge nelle
-mie membra che fa guerra alla legge della mia mente » (Rom.
-7, 22 e 23). E come Paolo, nonostante queste resistenze della
-parte sensibile, non era privo di vera pietà e di vera devozione, così non ne è priva l’anima che, nonostante tutto, si
-mantiene ferma nella decisione della volontà di darsi con
-
-prontezza al servizio di Dio. Devozione — che deriva dal
-latino devoveo — significa appunto consacrazione alla divinità; e l’anima si dà totalmente a Dio non mediante gli slanci e gli entusiasmi del sentimento, ma mediante l’atto della
-volontà. Anzi, quando la devozione è priva di ogni gusto per
-le cose divine «vale il doppio, perchè l’anima compie ugualmente le opere che deve fare e, di più, con la forza della volontà doma l'appetito sensibile» (Ven. Giovanni di G.
-
-
-M., o.c.d.).
+Del resto se al prossimo adirato rispondiamo con ira, non facciamo che aumentare l'incendio, mentre bisogna cercare di spegnere la collera opponendovi dolcezza e mansuetudine. La dolcezza però non è condiscendenza e tanto meno connivenza col male: vi sono pure dei casi in cui, come insegna il Vangelo, la correzione fraterna è un dovere che si impone e allora è un vero atto di carità. Ma perché sia davvero tale non deve mai essere fatta con tono di umiliare, di mortificare e tanto meno di offendere il colpevole, non deve mai essere ispirata, anche solo indirettamente, da motivi personali tendenti a far valere i propri diritti, le proprie ragioni, a prendersi la rivincita per qualche torto ricevuto. In questi casi la correzione, lungi dall'essere un atto di carità, è totalmente contraria a questa virtù e, anziché fare del bene, produrrà piuttosto l'effetto contrario. Solo un desiderio spassionato e sincero del bene altrui può rendere caritatevole ed efficace la correzione fraterna e questa deve essere fatta con tanta bontà che in essa il fratello senta molto di più l'amore che gli portiamo che non l'umiliazione di venir ripreso. Proprio così Gesù ha trattato i colpevoli: tutti sono stati sanati dal suo amore, dalla sua dolcezza.
 
 ### Colloquio
 
-O Dio altissimo, che hai voluto essermi Padre, fa’ che io
-ti sia veramente figlio. Figlio devoto ed amante, attento e docile ai tuoi cenni, desideroso di servirti e di farti piacere in
+«O Signore Gesù che, morendo sulla croce, avevi un cuore sì dolce verso di noi e ci amavi tanto soavemente, mentre noi stessi eravamo la causa della tua morte e ad altro non pensavi che ad ottenere il perdono dei tuoi crocifissori, mentre quelli ti martoriavano ed insultavano crudelmente, aiutami, ti prego, a sopportare con dolcezza le imperfezioni e i difetti del mio prossimo.
 
-ogni cosa. O Tu che hai per me un cuore di Padre, crea
-in me un cuore di figlio, un cuore scevro di timore servile,
-ma ricco di timore filiale, un cuore disinteressato e generoso
-che tema una sola cosa: offenderti; che brami una sola cosa:
-darti gusto,
+«Insegnami a ricambiare coloro che mi disprezzano o mormorano di me con umiltà, dolcezza e bontà di cuore invariabile, senza mai difendermi in alcun modo. Per amor tuo voglio lasciar dire ad ognuno quello che vorrà, perché ciò che vale non sono le parole, ma l'amore, e chi più amerà sarà più amato e glorificato. Aiutami, dunque, Gesù mio, ad amare te e per amor tuo tutte le creature, particolarmente quelle che mi disprezzano, senza lasciarmi turbare per i loro disprezzo, ma applicandomi a praticare l'umiltà e la dolcezza e allora Tu sarai la mia corona.
 
-« Che la tua volontà sia il voler mio, la mia passione, il
-mio onore! Fa’ che io la cerchi, la trovi, l'adempia. Mostrami
-le tue vie, indicami i tuoi sentieri. O Padre, Tu hai dei disegni su di me; manifestameli chiaramente e fa' che io li
-segua fino ad ottenere la salvezza dell'anima mia. Fa' che mi
-sia amara ogni gioia senza di te, impossibile ogni desiderio
-fuori di te, insopportabile ogni riposo fuori di te, dolce qualunque lavoro fatto per te.
+«Insegnami sempre a comportarmi con dolcezza e soavità, senza rompere mai la pace con nessuno. Ciò che potrò fare ed ottenere con amore lo farò; ma ciò che non potrò fare ed ottenere senza contrasto, lo lascerò stare. Aiutami Tu a valermi delle avversioni e ripugnanze che incontrerò nel trattare col prossimo, per esercitare la virtù della dolcezza, agendo amorosamente con qualsiasi persona, ancorché mi fosse contraria o mi cagionasse disgusto.
 
-«Fa' che la mia pietà sia, non già un'abitudine, ma un
-continuo slancio del cuore... e il mio spirito, incapace di disconoscerti, ardente nel cercarti, ti sappia trovare, o Padre
-benignissimo.
-
-« Deh, non ti dispiaccia il mio parlare! Che fidente e calmo, io aspetti le tue risposte e, sulla parola tua, io mi riposi! »
-(S. Tommaso d'Aquino).
-
-Accoglimi, o Padre, nel tuo abbraccio, ricevimi nella tua
-intimità! Fa', te ne supplico, che il mio cuore non si smarrisca quando Tu lo lasci nelle tenebre e nello sconforto ma,
-sorretto dalla tua grazia, sempre perseveri a cercarti ed a servirti di buona volontà.
+«In conclusione, propongo col tuo aiuto, o Dio amabilissimo, di applicarmi per acquistare la soavità del cuore verso il prossimo, considerandolo come creatura tua, destinata a goderti in eterno in Paradiso. Quelli che Sopporta Tu, o Signore Iddio, è ben giusto che li sopporti anch'io teneramente e con grande compassione per le loro infermità spirituali» (cfr. S. Francesco di Sales).

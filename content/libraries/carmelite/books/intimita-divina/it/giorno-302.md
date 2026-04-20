@@ -1,123 +1,17 @@
-## 302 — IL DONO DELLA SCIENZA
+## X — LA TEMPERANZA
 
-### Presenza di Dio
-
-O Spirito Santo, istruiscimi a fondo sul nulla delle cose umane.
+**Presenza di Dio.** — Insegnami, o Signore, a mortificare la mia carne per vivere in pieno la vita dello spirito.
 
 ### Meditazione
 
-1. — Con i doni del timore, della fortezza, della pietà e
-del consiglio lo Spirito Santo governa soprattutto la nostra
+**1** — L'uomo può deviare dal dovere o per il timore delle difficoltà e del sacrificio che incontra, o per le attrattive del piacere; nel primo caso viene in suo soccorso la virtù della fortezza, nel secondo quella della temperanza. La temperanza è appunto la virtù che modera in noi il desiderio disordinato del godimento sensibile, contenendolo entro i limiti assegnati dalla ragione e dalla fede. Data la profonda disarmonia prodotta in noi dal peccato, per cui la parte inferiore tende a ribellarsi alla parte superiore appetendo cosa contrarie allo spirito, non potremmo difenderci dalle attrattive del piacere senza il soccorso di questa virtù che Dio ha infuso nell'anima nostra proprio per renderci capaci di frenare la tendenza sregolata al godere. Come la fortezza, con le virtù connesse della magnanimità, della pazienza, della perseveranza, è un sostegno per la nostra debolezza, così la temperanza, con le virtù che ne derivano — sobrietà, castità, continenza, modestia, ecc. — è un freno per le nostre concupiscenze. Tuttavia, pur essendo un freno, non ha solo un compito negativo, qual è quello di temperare, contenere, moderare l'amore disordinato del piacere, ma ne ha anche uno positivo, ossia quello di regolare le passioni e di permettere l'uso dei sensi in perfetta armonia con le esigenze dello spirito, in modo che non venga affatto disturbata la nostra vita spirituale. È proprio così che la temperanza, insieme con la grazia e con le altre virtù, sana ed eleva la nostra natura ristabilendo in noi l'armonia distrutta dal peccato. Questo, però, non può realizzarsi senza la nostra collaborazione che, nel campo della temperanza, consiste soprattutto nella mortificazione delle passioni e dei sensi. «Se vivrete secondo la carne — dice S. Paolo — morirete; ma se con lo spirito darete morte alle azioni della carne vivrete» *(Rom.* 8, 13). La virtù della temperanza è stata infusa in noi appunto per renderci capaci di dar «morte alle azioni della carne», morte che non è fine a se stessa, ma è condizione indispensabile per la vita dello spirito.
 
-
-vita morale; con gli altri doni invece, la scienza, l'intelletto e
-la sapienza, governa più direttamente la nostra vita teologale, ossia la nostra vita di rapporti con Dio. Mentre i pri-
-mi quattro doni perfezionano specialmente le virtù morali,
-questi ultimi tre perfezionano quelle teologali; sono i cosiddetti doni della vita contemplativa, cioè della vita di orazione,
-di unione con Dio.
-
-Nell'ascesa verso Dio incontriamo un grande ostacolo: le
-creature che con le loro attrattive ci impressionano, ci attirano
-e tentano di fermarci ad esse — beni sensibili e visibili —
-distogliendoci da Dio — Bene infinito — che sfugge all’esperienza della nostra umanità. Credere che Dio è tutto, cre-
-dere che è l’unico bene, l'unica felicità e sperare unicamente
-in lui, mentre Egli si cela al nostro sguardo; credere che le
-creature sono nulla, essere convinti della loro vanità, mentre
-esse si presentano a noi con tante lusinghe, con tanti incanti,
-non è facile per noi che viviamo di sensi. E' vero, la fede viene in nostro soccorso e alla sua luce abbiamo tante volte ri-
-flettuto su queste verità, tuttavia in pratica i nostri ragionamenti sono spesso falliti: di fronte all’attrattiva di qualche
-creatura abbiamo dimenticato e forse anche tradito il Creatore. Occorre quindi un aiuto più potente, una luce divina
-che c'illumini dal di dentro senza bisogno di passare attraverso i nostri ragionamenti tanto limitati e grossolani: è ap-
-punto la luce che lo Spirito Santo c'infonde mediante il dono
-della scienza. Questo dono non ci fa ragionare sulla vanità
-delle cose, ma ce ne dà l’esperienza viva, concreta, ce la fa
-intuire in un modo così chiaro che non ammette esitazioni.
-Sotto l'impulso di questo dono, Francesco d'Assisi abbandona
-di colpo le compagnie gaudenti per sposare madonna Povertà
-e, quando suo padre indignato lo ripudia, esclama in fervore di spirito: « Da qui innanzi non dirò più padre Pietro
-Bernardone, ma Padre nostro che sei nei cieli »!
-
-Sotto l'impulso di questo dono, Teresa d'Avila scrive le
-sue sentenze: e Tutto passa, Dio solo resta. Se hai Dio nel
-cuore non manchi di nulla; basta il suo amore» e la Beata
-
-
-Maria Bertilla muore dicendo: «Bisogna lavorare per Ge
-sù solo. Tutto è niente».
-
-
-2. — Guidato dal dono della scienza, S. Giovanni della
-Croce ha tracciato la famosa via del « nulla », la via che, lasciando da parte tutti i beni creati, sale dritta e rapida il mon-
-te della perfezione, sul quale avviene l'incontro dell'anima con
-Dio. «Nulla, nulla — ripete il Santo — nè questo, nè quest'altro; nè i beni della terra, nè i beni del cielo», ossia nep-
-pure gusti e consolazioni spirituali, ma solo Dio. Tanta rinuncia, tanto spogliamento, tanta nudità sgomenta la povera na-
-tura umana, Ma l'anima illuminata dallo Spirito Santo comprende: nulla di tutto, perchè « tutte le cose sono vanità, ec-
-cetto l’amare Dio e servire a lui solo» (Imit. I, 1, 4). A misura che il dono della scienza si sviluppa in lei, l’anima in-
-tende, assapora il nulla delle cose e le fa presentire il
-tutto di Dio e sente il bisogno di evadere da esse per immergersi in lui. E' il primo passo verso la contemplazione.
-
-«Tutti gli esseri creati a paragone dell'infinito essere di
-Dio sono niente» (G.C. S. I, 4, De nulla: le meraviglie del
-creato, nulla le più splendide opere dell'ingegno umano, nulla la scienza degli uomini più dotti: Dio solo vale e dà valore
-
-
-a tutte le cose, o perchè sono opera delle sue mani, o perchè *
-
-
-sono opere operate dall'uomo per la sua gloria,
-
-Di fronte alle nostre più belle imprese, di fronte a tutto
-il nostro agitarci le cose della terra, lo Spirito Santo ci
-ricorda le parole di Gesù: « Che giova mai all'uomo guadagnare tutto il mondo, se poi perde e danneggia se stesso?»
-(Lc. 9, 25) e le altre: « T'affanni e t'inquieti per troppe cose,
-Eppure una sola cosa è necessaria » (ivi, 10, 41); e così ci
-fa comprendere che l'essenziale sta nell'aderire a Dio, mentre tutto il resto è accessorio e molto spesso anche vano.
-
-Di fronte, poi, alle bellezze del creato il dono della scienza,
-pur mostrandoci il loro nulla essenziale, non nega quelle perfezioni relative che si trovano in esse, ma ce le mostra unica-
-mente come un vestigio, un riflesso della perfezione infinita
-
-
-di Dio. E' proprio questa la luce che cambia le creature da
-ostacolo in aiuto per salire a Dio, giacchè «l’anima è mossa
-grandemente all'amore del suo amato Dio mediante la considerazione delle creature, vedendo che sono opere soltanto
-della sua mano» (G.C. C. 4, 3).
-
-Quando un'anima è profondamente illuminata dal dono
-della scienza le creature non la disturbano più nella sua asce
-sa verso Dio ma, sia che consideri il loro nulla o le bellezze
-che il Signore ha posto'in esse, sia che le abbandoni, sia che
-le usi per necessità, sempre la spingono in Dio, a cercare e
-ad amare lui, bellezza unica ed infinita.
+**2** — La bellezza della virtù della temperanza sta proprio nell'aiutarci a fare a ritroso il cammino percorso dai nostri progenitori in conseguenza del loro peccato: dalla perfetta armonia tra lo spirito e la materia essi caddero nella disarmonia profonda e noi da questa dobbiamo risalire a Dio. Come prima di slanciarsi alla corsa il cavaliere imbriglìa il cavallo focoso, così noi, per intraprendere questo cammino, dobbiamo imporre alla nostra carne le forti briglie della mortificazione in modo da padroneggiarne tutti i movimenti e gli appetiti. S'intende facilmente come la mortificazione sia necessaria nel campo della castità: vivere casti senza mortificare il proprio corpo è un'illusione perché né il voto di castità mutano la nostra natura e neppure ci rendono insensibili agli allettamenti del senso, del mondo, del demonio. Invece si comprende di meno la necessità della mortificazione circa il senso del gusto. In questo campo anche le anime che tendono alla perfezione sono, in genere, abbastanza facili ad accondiscendere al piacere sensibile considerandolo come cosa del tutto innocente e senza conseguenze per la vita dello spirito; ma non è così perché tutto ciò che è disordine, anche lieve, nella vita dei sensi, viene più o meno ad appesantire e ad infiacchire la vita dello spirito. Di fatto il disordine c'è tutte le volte che nell'uso dei cibi e delle bevande ci lasciamo in qualche modo determinare dal gusto che troviamo in essi, prendendone più del necessario quando ci piacciono, mostrandoci malcontenti o rifiutandoli quando non corrispondono ai nostri gusti. Anche questa è schiavitù dei sensi, è lasciarsi dominare dal piacere sensibile ed è quindi di lasciare in noi una porta aperta alle ribellioni del senso contro lo spirito. S. Paolo ci ammonisce: «Non illudetevi... ciò che uno avrà seminato quello mieterà; chè chi semina nella sua carne, dalla carne mieterà corruzione, chi semina nello spirito, dallo spirito mieterà vita eterna» *(Gal.* 6, 8). Chi nella sua vita semina piaceri sensibili, di qualsiasi genere siano, semina corruzione perché tutto ciò che è senso è destinato a perire e conduce alla deriva. Come può, dunque, un'anima che aspira ad un'alta vita spirituale assoggettarsi, sia pure in materia lieve, alle soddisfazioni dei sensi? «Convinciti — dice S. Giovanni della Croce — che non entrerai mai nel gusto e nella soavità dello spirito se non ti darai alla mortificazione di tutte le cose che desideri» *(AM.* 38).
 
 ### Colloquio
 
-« Dio mio, qui sulla terra tutto è vanità. Che cosa posso
-cercare e desidero trovare quaggiù, dove nulla è puro? Tutto qui è vano, incerto, ingannevole, eccetto amare te, Signore,
-e operare sempre bene. Ma io non posso amarti perfettamente senza disprezzare me stesso e il mondo,
+«Io, Signore, non piglio degli umani disordini meraviglia, poiché Tu hai ferito questo mio cuore colla tua perfettissima carità, e l'hai custodito colla custodia della purità. Oh! se i ciechi mortali provassero quale sia la dolcezza e la soavità del tuo santo amore! Stimo che subito detesterebbero e concepirebbero nausea orrenda e fastidio dei piaceri dei sensi, subito correndo ansiosi e sitibondi a dissetarsi al fonte della soavità tua. Ma perché non corrono dietro le tracce dei tuoi odori?
 
-«Anima mia, non ti sia grave allontanarti dagli amici e
-conoscenti: essi spesso impediscono la divina consolazione.
+«T'intendo, eterna Verità. Se costoro, con attenta meditazione, considerassero e tenessero sempre presente alla memoria gli immensi quotidiani benefici che ad essi dispensi, si lascerebbero facilmente tirare dalla dolcezza ineffabile del tuo amore e si vedrebbero correre con ansietà di desiderio a dilettarsi nelle fragranze di tante tue dolcezze!» (S. Caterina da Siena).
 
-‘e sono i compagni con cui giocai e risi? Non so: se ne
-sono andati, m'hanno abbandonato. E ciò che osservai ieri,
-dov'è? Svanito. Tutto è passato. Allora è sapiente solo chi
-serve te, o Signore, disprezzando la vita inferiore con tutte
-le sue attrattive.
-
-« Guardami, Dio mio, dalla ricerca delle gioie del mondo.
-Ti scongiuro, spogliami il cuore da ogni attacco alle vanità
-della terra. Trascinami su all’altezza della croce: che ti segua dovunque mi precederai. Povero e ignudo, come esule
-nel mondo ed ignoto, io sto volentieri con te (Ven. T. da
-Kempis). ;
-
-Toglimi, Dio mio, tutto ciò che mi svia da te; conce
-dimi tutto ciò che mi avvia a te. Rapiscimi affinchè io viva
-tutto e sempre per te» (S. Nicola de Fliie).
-
-« Rapisca ti prego, Signore, l'ardente e dolce forza dell’amor
-tuo la mia mente ed il mio cuore da tutte le cose terrene, affin-
-
-
-chè io muoia per amore dell’amor tuo, come Tu ti sei degnato
-di morire per amor mio» (S. Francesco).
+«Una sola cosa desidero, o Signore: cercarti! E per cercarti non mi vorrò mai fermare a cogliere i fiori che incontrerò per via, ossia non mi fermerò mai a gustare i piaceri che mi si possono offrire in questa vita perché mi distoglierebbero dal proseguire il mio cammino. Non porrò il mio cuore nelle ricchezze e nei beni che il mondo offre, né ammetterò i diletti e i contenti della mia carne, né mi fermerò nei gusti e nelle consolazioni del mio spirito, a fine di non essere trattenuto dal cercare te. Dio mio e amor mio, per i monti delle virtù e dei travagli. Fa', o Signore, che l'anima mia sia veramente innamorata di te, che stimi te più di ogni altra cosa e allora, confidando nel tuo amore e nel tuo aiuto, avrà la forza di gettare a terra tutte le affezioni naturali e gli appetiti sensitivi» (cfr. G.C. *C.* 3, 5-10).

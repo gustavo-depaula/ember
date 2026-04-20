@@ -1,95 +1,23 @@
-## 245 — AMORE DI AMICIZIA
+## XV — IL CHIARO-OSCURO DELLA FEDE
 
-### Presenza di Dio
-
-- O Signore, che io possa vivere in pieno nella tua amicizia divina,
+**Presenza di Dio.** — *O Signore, insegnami a credere anche in mezzo all'oscurità, alle tenebre; insegnami a credere fidandomi unicamente della tua parola.*
 
 ### Meditazione
 
-1. — La più alta espressione dell'amore umano è l'amicizia; e S. Tommaso insegna che la carità è appunto amore di
-di amicizia tra l'uomo e Dio. L'amicizia, però, esige una certa parità, una comunanza di vita, di beni; esige reciprocità di
-affetti, mutua benevolenza. Ma quale parità e comunanza di
-vita può esistere fra la creatura che è nulla e Dio che è
-l'Essere supremo? Dal punto di vista naturale nessuna. Però Dio ha voluto innalzare la creatura allo stato soprannaturale,
-comunicandole una partecipazione della sua natura e della
-sua vita divina. E' vero, benchè divinizzato dalla grazia, l'uomo resta sempre creatura e Dio resta sempre l'Essere inaccessibile, trascendente; tuttavia Egli, nel suo amore infinito,
-ha trovato il modo di elevare l'uomo sul piano della Sua vita
-divina. Il primo frutto dell'amore di Dio per noi è proprio
-questa forma di parità, di comunanza di vita che, mediante
-la grazia, Egli ha voluto stabilire fra noi e lui. Dio ci ha,
-dunque, prevenuti, non solo col suo amore di Creatore, per
-cui ci ha dato l'esistenza, ma anche col suo amore di Padre,
-per cui ci ha resi partecipi della sua vita divina.
-« L'amore trova o rende uguali gli amanti #; ed ecco che
-Dio ci ha amati fino a renderci simili a sè, onde poterci ammettere nella cerchia della sua amicizia divina, di quell'amicizia
-che esiste nel seno della Trinità fra le tre Persone divine. Di
+**1** — L'intelligenza umana con le sue sole forze può, attraverso la considerazione del creato, risalire alla conoscenza di Dio Creatore, può conoscerne l'esistenza ed anche alcune perfezioni, ma fino al mistero della Sua vita intima, che sfugge allo sguardo di qualsiasi creatura, non ci può giungere se Dio stesso non ve l'innalza. Solo Dio conosce i misteri della sua vita intima e la comunicazione di tale vita agli uomini e solo Dio può rivelarli. La divina rivelazione ci fa «sapere» con certezza che tali realtà esistono e, tuttavia, non ce le fa «vedere»: ci fa sapere che Dio è Trinità, ma non ce la fa vedere; ci fa sapere che Dio ci dà la grazia, ma non ce la fa vedere. Appunto perché non vediamo, per aderire ai misteri divini, dobbiamo credere fiduciosi in Dio che ce li ha rivelati; ed è proprio in questo consiste l'atto della fede. La fede è certa perché si appoggia sulla parola di Dio il quale non si inganna né può ingannare; in questo senso si può dire che la fede è *chiara*, ossia limpida da errori *(cfr. G.C.* C 12, 3), e non ammette dubbio, giacché non si può dubitare della parola di Dio, ma nello stesso tempo rimane *oscura* proprio perché non ci mostra le verità che ci propone a credere e perciò queste rimangono per noi ammisterio. Riprensiamo al vaso che racchiude una fiaccola accesa, ma senza lasciarla vedere. Questo lato oscuro della fede è poi per noi penoso e glorioso ad un tempo. Penoso, perché non vediamo ciò che crediamo, penoso, perché spesso l'atto di fede si esige al buio, nelle tenebre, cosa che ripugna alla natura umana la quale ama controllare, rendersi conto, procedere dai dati evidenti. Le realtà soprannaturali sono tanto più elevate, tanto più sono oscure, sono tenebre per la nostra intelligenza incapace di procedere senza l'aiuto dei sensi e incapace di abbracciare l'infinito. D'altra parte, però, proprio questa oscurità costituisce il merito e la gloria del nostro atto di fede: merito, perché è atto tutto soprannaturale che si basa non su quello che vediamo e controlliamo, ma unicamente su quello che Dio ci ha rivelato; gloria perché il nostro atto di fede è tanto più glorioso e onorico per Iddio quando più si appoggia unicamente sulla sua parola.
 
+**2** — Di fronte alla verità: due più due è uguale a quattro, la mia intelligenza non ha bisogno del concorso della volontà per credervi: lo vede, è evidente. Invece, di fronte alle verità divine, appunto perché queste non sono per me evidenti, la mia intelligenza rimane libera di dare o no il suo assenso, ed io credo solo perché *voglio* credere. Di fronte alle verità naturali che posso controllare, come le verità matematiche, la mia adesione dipende dalla forza della mia intelligenza: più conosco e comprendo a fondo e più ne sono convinto. Invece di fronte alle verità soprannaturali, la mia adesione dipende dalla forza della mia volontà: è la volontà che dà l'impulso all'intelligenza. La volontà libera e retta, che ama il suo Dio, accetta con pienezza tutto quello che Egli ha rivelato; non è un'accettazione fredda, ma amorosa che impegna tutte le forze, tutta l'anima.
 
-più, come l'amico desidera vivere con l'amico e sempre cerca la
-sua presenza, la sua vicinanza, così Dio ha voluto rendersi così vicino e così intimo a noi da venire a porre la sua dimora nelle
-anime nostre: « verremo a lui e faremo dimora presso di lui»
-(Gv. 14, 23). Quale maggiore comunanza di vita fra noi e Dio di questa continua società con le Persone divine che abitano nell'anima nostra e con le quali, mediante la carità,
-possiamo entrare in veri rapporti di amicizia?
-
-
-2. — L'amicizia esige reciprocità di amore. Dio ci ha prevenuti col suo amore di amicizia: Dio per il primo ci ha
-amati e, amandoci, ha infuso in noi la grazia e la carità mediante le quali ci ha resi capaci di ricambiare il suo amore.
-Ricambieremo l'amore di Dio, non con il nostro amore naturale, umano — che sarebbe insufficiente allo scopo — ma
-con l'amore di carità che lo Spirito Santo ha infuso nei nostri
-cuori e che è una partecipazione di quell 'amore infinito con
-cui Dio ama se stesso. Dio infonde in noi questo dono preziosissimo e noi dobbiamo accoglierlo con cuore puro, libero,
-
-per potervi aderire con tutta la forza della nostra volontà e del nostro affetto.
-
-Come Dio, offrendoci la sua amicizia, ci ha fatto simili a sè, trasformando il nostro essere da naturale in soprannaturale, così noi, per rispondere alla sua amicizia, dobbiamo cercare di renderci simili a lui trasformando la nostra volontà nella sua.
-La vera amicizia porta a comunanza di pensieri, di volontà,
-di affetti, di desideri, di interessi. Il vero amico fa suoi gli
-interessi ed i voleri dell'amico, pensa come lui, ama quello
-che lui ama, vuole quello che lui vuole. Così dobbiamo fare
-noi riguardo a Dio, se vogliamo vivere realmente da amici suoi. Gesù stesso ha detto: « Voi siete miei amici, se fate quel che vi comando » e « se uno mi ama, osserverà la mia parola » (Gv. 15, 14; 14, 23). Da parte nostra, perciò, l'amicizia con Dio, ossia la carità, esige una continua tendenza a conformare i nostri pensieri, voleri e desideri al pensiero
-ed alla volontà dell'Amico divino. La nostra amicizia con
-
-
-Dio sarà perfetta quando in noi non vi sarà più nulla che
-contrasta con i desideri ed i voleri divini, ma ci saremo in
-tutto adeguati ad essi e allora sarà perfetta anche la nostra
-unione con lui. «Lo stato dell'unione divina consiste precisamente nell'avere l'anima secondo la volontà del tutto trasformata in quella di Dio, in modo che non vi sia in lei alcuna cosa contraria alla volontà divina, ma bensì i suoi moti
-siano in tutto e per tutto solamente volontà di Dio» (G.C.
-S. I, 11, 2). Perfetta carità, perfetta amicizia, perfetta unione
-con Dio; ecco la meta verso la quale devi tendere, avanzando
-sollecito con i passi dell'amore.
+Tuttavia, appunto perché manca l'evidenza, nel mio pensiero può sempre sorgere il dubbio, e di ciò non mi devo meravigliare: è di per sé un fatto naturale che l'intelletto umano dubiti di ciò che non vede e non capisce. Talvolta i dubbi possono nascere da ignoranza ed allora è doveroso istruirsi; ma altre volte possono essere semplicemente tentazioni e allora devono essere superati con l'atto della volontà: Signore, voglio credere; credo anche se non capisco, se non vedo, se sono nelle tenebre. Credo unicamente sulla tua parola. Questa è la condotta che bisogna tenere nelle tentazioni contro la fede; anziché smarrirsi in ragionamenti o scoraggiarsi, bisogna semplicemente aderire con l'atto della volontà. Nella sua dura prova contro la fede S. Teresa del B. Gesù ci scrive: «Per quanto mi conforto della fede, mi sforzo però di eseguirne le opere; ho rinnovato più atti di fede di un anno a questa parte, che non in tutto il corso della mia vita» *(St.* 9°). Proprio mediante queste prove dolorose la fede si fa più pura, più soprannaturale: l'anima crede non per il conforto che la fede le dà, non appoggiandosi al sentimento o all'entusiasmo e neppure a quel poco che comprende dei misteri divini, ma crede solo perché Dio ha parlato. Quando il Signore vuol condurre le anime a un'unione più intima con lui quasi sempre le fa passare per queste prove: è il momento di dargli la testimonianza della nostra fede, buttandosi a occhi chiusi fra le sue braccia.
 
 ### Colloquio
 
-«Tu lo sai, mio Dio, che non ho mai desiderato altro
-che amare te unicamente e che non ambisco altra gloria che
-questa. Il tuo amore mi prevenne sin dall'infanzia, crebbe
-con me ed ora è diventato un abisso del quale non posso
-scandagliare le profondità. L'amore trae l'amore: il mio amore si slancia verso di te e vorrebbe colmare l'abisso che l'attrae; ma, ahimè! esso non è neanche una goccia di rugiada perduta nell'oceano. Per amarti, o Signore, come Tu
-ami me devo servirmi del tuo amore; solamente allora io
-trovo riposo.
+«O fede benedetta, tu sei certa, ma sei anche oscura. Sei oscura perché induci a credere verità da Dio stesso rivelate, che sono al disopra di ogni lume naturale. La tua eccessiva luce — luce di verità divine — si volge per me in oscure tenebre, perché il mio occhio vi viene in essa, come la luce risplendente del sole fa scomparire ogni altra luce e vince anche la mia potenza visiva.
 
-«L'amore! Ecco tutto quello che Tu esigi da noi. Non
-hai bisogno delle nostre opere, ma solamente del nostro
-amore..., Tu, che non hai dubitato di chiedere in elemosina
-un po' d'acqua alla Samaritana. Avevi sete, ma, dicendo
-'Dammi da bere', era l'amore della tua povera creatura che
-Tu, Creatore dell'universo, chiedevi: avevi sete di amore!
-Oh, sì, veramente. E oggi, più che mai, sei assetato! Non
-incontri che ingrati ed indifferenti fra i discepoli del mondo
-e fra i tuoi discepoli trovi pochissimi cuori che si abbandonino
-senza riserva alla tenerezza del tuo amore infinito.
+«Tu sei notte oscura per l'anima e come notte la illumini, simile a quella nube tenebrosa che, nella notte, rischiarava il cammino ai figli d'Israele; sì, quantunque tu sia un'oscura nube, tuttavia con le tue tenebre rischiari quelle dell'anima mia. Posso dunque dire anch'io: la notte sarà la mia luce nelle mie delizie. Nel cammino della pura contemplazione ed unione con Dio, la tua notte, o fede, sarà la mia guida.
 
-«Il tuo amore misericordioso è dovunque sconosciuto,
-rigettato...; quei cuori ai quali vorresti farne dono generoso
-si rivolgono alle creature, mendicando la loro felicità al mise
+«Fammi dunque comprendere, o Signore, che, per congiungermi in unione con te, non devo escogitare ragioni, né appoggiarmi al gusto e al senso o all'immaginazione, ma devo credere al tuo infinito Essere divino che non cade sotto pensiero o senso alcuno» *(cfr. G.C.* S. II, 3, 1-6; 4, 4).
 
-ro affetto di brevi istanti, invece di gettarsi fra le tue braccia ed accettare la deliziosa fiamma del tuo amore infinito.
-O mio Dio, quest'amore disprezzato rimarrà, dunque, sempre
-chiuso nel tuo cuore? A me sembra che se Tu trovassi delle
-anime, le quali si offrissero al tuo amore, le consumeresti rapidamente e saresti felice di non comprimere le fiamme di
-tenerezza infinita che in te sono racchiuse. O Gesù, sia dato
-a me l'essere quest'anima fortunata! Consuma nel fuoco dell'amore divino questa piccola ostia; il tuo amore mi penetri,
-mi circondi, mi rinnovi, mi purifichi ad ogni istante e non
-lasci nel mio cuore traccia alcuna di colpa » (cfr. T.B.G.
-St. 10; 11; 8).
+«O fede, tu sei la grande amica del nostro spirito e alle scienze umane, che si vantano di essere più evidenti di te, puoi dire quello che la sacra Sposa diceva alle altre pastorelle: "Io sono bruna, ma bella". Tu sei bruna perché stai fra le oscurità delle rivelazioni divine le quali, essendo prive di apparente evidenza, ti fanno comparire *nera* rendendoti quasi irriconoscibile; ma pure sei *bella* in te stessa per la tua infinita certezza» *(cfr.* S. Francesco di Sales).
+
+«Solo la bella luce della fede deve illumininarmi per venire incontro a te, o Signore. Il Salmista canta che "Tu ti nascondi nelle tenebre" e poi altrove sembra quasi contraddirsi dicendo che "la luce ti avvolge come un manto". Quel che risulta, per me, da questa contraddizione apparente è che devo immergermi nella tenebra sacra, facendo la notte, il vuoto nelle mie potenze. Allora t'incontrerò, o mio Maestro, e la luce che ti circonda come una tunica avvolgerà anche me, perché Tu vuoi che la sposa sia splendente della tua luce, della *sola* tua luce» *(cfr. E.T.* II, 4).

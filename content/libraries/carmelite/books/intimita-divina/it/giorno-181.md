@@ -1,111 +1,17 @@
-## 181 — DOLCE OSPITE DELL'ANIMA
+## XII — Lo sviluppo della carità in Maria
 
-### Presenza di Dio
-
-O Spirito Santo, che ti degni di abitare in me, aiutami ad aprirmi totalmente alla tua azione.
+**Presenza di Dio.** — *O Maria, Madre del bell'amore, insegnami il segreto per crescere continuamente nella carità.*
 
 ### Meditazione
 
-1. — L'Enciclica e Mystici Corporis» afferma che «lo
-Spirito Santo è l'anima della Chiesa». Anima significa
-«principio di vita», perciò questa affermazione equivale
-a dire che il divino Paraclito è Colui che fa vivere la
-Chiesa; come l'anima è il principio di vita del corpo, così
-lo Spirito Santo è il principio di vita della Chiesa, Corpo
-Mistico di Cristo (cfr. Enc. Divinum illud munus).
+**1** — Non si deve pensare che Maria SS.ma, per essere stata fin dalla sua origine costituita nel più alto grado di santità a cui sia mai giunto il più grande santo, sia stata perciò dispensata da qualsiasi attività personale, da qualsiasi progresso: tutt'altro! Anche per lei, come per noi, questa vita fu la «via» in cui si deve sempre progredire nella carità; anche a lei, come a noi, fu chiesta la sua personale corrispondenza alla grazia. E il grande merito di Maria è stato proprio quello di aver corrisposto con la massima fedeltà agli immensi doni ricevuti. Certamente, i privilegi della sua concezione immacolata, dello stato di santità in cui nacque e della sua maternità divina furono puri doni di Dio, tuttavia, ben lungi dal riceverli passivamente — così come uno scrigno accoglie gli oggetti preziosi che vengono posti in esso — li ha ricevuti come una persona libera, capace di aderire con la propria volontà ai favori divini mediante una piena corrispondenza alla grazia. S. Tommaso insegna che, se Maria non poté meritare l'Incarnazione del Verbo, però, mediante la grazia ricevuta, meritò quel grado di santità che la rese degna madre di Dio (cfr. III. q. 2, a. 11, ad 3), e lo meritò appunto con la sua collaborazione alla grazia. Anche in Maria, quindi, possiamo considerare il progresso nella santità, progresso che non dipese solo dalla nuova copia di grazia che Dio infuse in lei in determinati momenti della sua vita — come si pensa essere avvenuto al momento dell'Incarnazione — ma anche dalla sua attività personale, tutta informata dalla grazia e dalla carità, mediante la quale seppe far fruttificare il tesoro affidatole dal Signore. Maria è, nel senso pieno della parola, la «Vergine fedele» che ha saputo trafficare al cento per cento i talenti ricevuti da Dio. Sì, per pura liberalità divina e in vista della missione altissima cui era destinata, le fu concessa la massima misura di grazia che mai fu data ad una semplice creatura, ma Ella vi corrispose con la massima fedeltà di cui può essere capace una creatura. Pienezza di grazia da parte di Dio, dunque, e pienezza di fedeltà da parte di Maria, sì che «la sua bell'anima — dice S. Alfonso — senza mai fermarsi, sempre volava a Dio e sempre cresceva nell'amarlo».
 
-Abbiamo visto che lo Spirito Santo stava nell’Anima di
-Cristo per dirigerla al compimento, della sua missione redentiva. Gesù avrebbe potuto assolvere completamente da
-solo tale missione, ma invece ha voluto associarvi anche
-la Chiesa; dovendo dunque la Chiesa prolungare l'opera
-di Cristo, ha bisogno dello stesso Impulso che muoveva
-l’Anima di Lui, ha bisogno dello Spirito Santo. Difatti
-Gesù, sulla Croce, ci ha meritato il suo Spirito: con la
-sua morte Egli ha anzitutto espiato il peccato, che è l’ostacolo all'invasione dello Spirito Santo e poi, tornato al
-cielo, l'ha inviato agli Apostoli, rappresentanti tutta la
-Chiesa. Ed anche ora, mentre siede glorioso alla destra
-del Padre suo intercendo sempre per noi, di continuo, insieme col Padre, invia alla Chiesa lo Spirito Santo che le
-ha promesso. Ed ecco che il divino Spirito opera nella
-
-Chiesa quello che operava nell’Anima santissima di Cristo:
-le dà l'impulso, la muove, la spinge al compimento della
-volontà di Dio, aftinenè essa prata la sua missione,
-
-ossia prolunghi attraverso i secoli l'opera redentiva del
-Salvatore. Giustamente, perciò, gli antichi Padri hanno
-detto che lo Spirito Santo è l'anima della Chiesa, e nel
-
-«Credo» la Chiesa stessa lo invoca: « Dominum et vivificantem!» Siccome l'anima è principio di vita, così lo Spirito
-Santo vivifica la Chiesa: Fgli è l'Impulso d'amore che
-accende in lei lo zelo per la gloria di Dio e per la salvezza
-delle anime, che dà luce e forza ai Pastori, che infervora
-O sospinge sl Apostoli, che dà coraggio e fede invincibile
-ai Martiri,
-
-2.— Essendo la Chiesa la « società » dei fedeli, essa risulta
-appunto dalla loro unione; sono i fedeli, siamo noi che
-formiamo la Chiesa. Quindi, dire che Gesù ha meritato
-lo Spirito Santo per la sua Chiesa equivale a dire che lo
-ha meritato per noi; dire che Gesù, insieme col Padre, ha
-mandato e continua a mandare il suo Spirito alla Chiesa,
-è dire che l'ha mandato e continua a mandarlo a noi.
-Proprio in questo senso si esprime la « Mystici Corporis»:
-lo Spirito Santo « viene comunicato alla Chiesa con copiosissima effusione, affinchè le sue singole membra siano di giorno in giorno sempre più simili al Redentore». Lo Spirito
-Santo, dunque, esercita il suo influsso non solo nel Corpo
-della Chiesa, ma anche nelle singole anime, in cui abita
-quale «dolce ospite ». Egli sta in noi per invadere le anime
-nostre, per santificarle, per plasmarci ad immagine di
-Cristo, per spingerci a prolungare la sua missione redentiva; Egli è l'Impulso d'amore che ci sollecita a compiere
-la santa volontà di Dio, che ci orienta alla glorificazione
-della SS.ma Trinità, che ci porta in Dio.
-
-Ma se lo Spirito Santo è un Impulso d'amore che
-viene in noi per santificarci, per portarci in Dio, come va
-che non ci facciamo tutti santi? Ecco un mistero che
-mette in vista la nostra tremenda responsabilità. Lo Spirito
-Santo, insieme col Padre e col Figlio, ci ha creati bai
-e ci vuole tali, iò, venendo in noi, ri e, quindi,
-non violenta ri libertà; pur dente ce
-nell'anima nostra ed invaderci, non lo fa se noi non gli
-diamo libero accesso. E’ proprio il caso di richiamare il
-
-grande principio su cui ama tanto insistere S. ‘Teresa di
-Gesù: «Dio non sforza nessuno: accetta quanto gli si
-dà, ma non si dà del tutto se non a coloro che del tutto
-si danno a Lui» (Cam. 28, 12). Se non ci santifichiamo,
-non è perchè lo Spirito Santo non lo vuole — Egli che
-ci è mandato e viene in noi appunto per questo — ma
-perchè noi non diamo libero adito alla sua azione, E' qui
-il punto in cui manchiamo: non usiamo della nostra libertà
-per aprire totalmente l'anima nostra alla sua potente ed
-amorosa invasione. Ma se la nostra ‘volontà gli aprisse
-completamente le porte, lo Spirito Santo ci prenderebbe
-sotto la sua guida, e noi, per Lui, ci faremmo santi.
+**2** — La teologia insegna che l'aumento della grazia e della carità risulta in noi dalle opere meritorie, ossia dalle opere buone compiute sotto l'influsso della carità. Quando una persona fa le sue opere buone «con tutto il cuore», il merito che così acquista — e che consiste sempre in un aumento di grazia e di carità — le viene immediatamente concesso; ed allora la sua vita spirituale cresce subito in intensità. Tenendo presente questa dottrina, si può intuire in quale proporzione dovette svilupparsi nell'anima di Maria il capitale di carità e di grazia che Dio vi aveva deposto dal primo momento della sua esistenza. Pensiamo, come fa notare S. Giovanni della Croce, che l'anima della Vergine non fu mai mossa, e quindi mai ritardata, dall'attacco alle creature — e che perciò in lei non vi furono mai né secondi fini umani, né grettezza derivante dall'egoismo — ma che sempre agì puramente sotto l'impulso dello Spirito Santo, dobbiamo concludere che Maria crebbe di continuo in grazia e carità e che la carità diventò in lei veramente abissale. In questo modo si spiega come, già santa e già stabilita nell'unione con Dio fin dalla sua origine, abbia potuto continuamente progredire nella santità, i cui elementi costitutivi sono appunto la grazia e la carità. Lo slancio generoso e fedele con cui rispondeva agli inviti divini, andava incontro ad ogni manifestazione della volontà di Dio, accettava qualsiasi disposizione della divina Provvidenza e compiva tutti i suoi doveri quotidiani, l'ha posta in questo magnifico stato d'incessante e rapidissimo progresso nell'amore. L'esempio luminoso di Maria c'incoraggia ad applicarci con tutto il cuore al servizio di Dio, affinché possiamo anche noi crescere rapidamente nella carità.
 
 ### Colloquio
 
-«O Spirito Santo, Tu nel seno purissimo della Vergine
-Maria bai plasmato il nostro Redentore; Tu hai animato
-Gesù guidandolo in tutto ciò che Egli pensò, disse, fece
-e patì durante la sua vita terrena e nel sacrificio di se stesso
-che Egli, sulla Croce, offerse al Padre per noi.'E quando
-Gesù salì al cielo, Tu sei venuto sulla terra per stabilirvi
-il Corpo mistico di Cristo che è la Chiesa e per applicare
-a tale Corpo i frutti della vita, del Sangue, della Passione
-e della morte di Cristo. Senza di che Gesù avrebbe sofferto
-e sarebbe morto inutilmente. Di più, o Spirito Santo, nel
-S. Battesimo, Tu scendi in noi per formare nelle anime
-nostre Gesù Cristo, per incorporarci a Lui, per farci nascere
-e vivere in Lui, per applicarci gli effetti e i meriti del suo
-Sangue e della sua morte, per animarci, ispirarci, spingerci e condurre in tutto quello che dobbiamo pensare,
-dire, fare e soffrire per Iddio. Quale dunque dovrebbe essere
-la nostra vita? Oh, dovrebbe essere una vita tutta santa,
-tutta divina, tutta spirituale, secondo la parola di Gesù:
-‘ciò che nasce dallo Spirito è spirito”!
+«O Maria, Tu hai conosciuto il dono di Dio e non ne hai perduto un atomo; Tu così pura, così luminosa da sembrare la Luce stessa: *Speculum justitiae*; Tu la cui vita fu così semplice, così perduta in Dio, che non se ne può dire quasi nulla: *Virgo fidelis*, sei la Vergine fedele, quella che custodiva ogni cosa nel suo cuore» (E.T. I, 10).
 
-«O divinissimo Spirito, mi dono tutto a te. Prendi possesso dell'anima mia, guidami in ogni cosa e fa' che io viva
-come un autentico figlio di Dio, come un membro non
+O Maria, quale meraviglioso spettacolo è contemplare la tua anima crescere incessantemente nell'amore, ascendere senza soste alle più alte vette della santità! In te nulla ritarda l'azione divina, nulla ostacola lo sviluppo della carità. «Chi è costei che sale dal deserto, ricolma di delizie, appoggiata al suo diletto?» *(Can.* 8, 5). Sei Tu, o Madre sostenuta, sempre sali di grazia in grazia, di virtù in virtù. O Madre del bell'amore, piena di grazia, o Vergine fedele, aiutami a corrispondere con fedeltà ai doni di Dio! Non permettere che la mia miseria renda vana in me la grazia. Aiutami Tu, Madre mia, a vincere le innumerevoli resistenze della mia natura fiacca e codarda, attirami col soave fascino del tuo amore, affinché ti possa seguire con slancio nella via della carità perfetta.
 
-degenere di Gesù Cristo e come una cosa che, nata da te,
-a te totalmente appartiene e da te dev'essere totalmente
-posseduta, animata, condotta » (S. Giovanni Eudes).
+«O Madre mia, Tu che sempre ardesti d'amore per Iddio, degnati di donarmene almeno una scintilla. Tu pregasti il tuo Figlio per quegli sposi cui mancava il vino dicendo: *vinum non habent*, e non pregherai per me mancante come sono di amore di Dio, mentre tanto sono obbligato ad amarlo? Di' pure: *amorem non habet*. E impetrarmi questo amore. Altra grazia non ti chiedo fuorché questa. O Madre, per quanto ami Gesù esaudiscimi. Mostrami quanto si grande la grazia che possiedi presso di Lui coll'impetrarmi una luce e una fiamma divina così potente che mi muti da 'peccatore in santo e che, staccandomi da ogni affetto di terra, tutto m'accenda del divino amore. Fallo, o Maria, che Tu lo puoi fare. Fallo per amore di quel Dio che ti ha fatto sì grande, sì potente e pietosa» (S. Alfonso).

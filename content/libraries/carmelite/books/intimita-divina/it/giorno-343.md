@@ -1,83 +1,27 @@
-## 343 — PURIFICAZIONE PASSIVA
+## 21 — VALORI UMANI AL SERVIZIO DELL'APOSTOLATO
 
-### Presenza di Dio
-
-Dio mio, illumina il mio cammino, affinchè non mi smarrisca in mezzo alle tenebre delle tribolazioni.
+**Presenza di Dio.** — *Insegnami, Signore, a mettere al servizio dell'apostolato tutti i talenti da te ricevuti.*
 
 ### Meditazione
 
-1 — Benchè da te stesso, mediante la generosa pratica del rinnegamento totale e un intenso esercizio delle
-virtù teologali, possa introdurti nella notte dello spirito,
-non potrai penetrare là dove è più folta, se non ti ci pone Dio medesimo, Lui solo può addensare sul tuo capo
-le tenebre di questa notte in modo tale da ridurti veramente al nulla, da annientarti in tutto, sì da farti pervenire alla pazza e alla povertà di spirito richieste per
-l'unione. Più che prendere iniziative, il tuo compito si riduce, allora, ad accettare con amore, a subire con pazienza ed umiltà tutto ciò che Dio dispone per te.
+**1** — Accanto alle virtù naturali messe al servizio della carità apostolica, bisogna considerare anche gli altri valori umani che permettono all'apostolo di imporsi nel suo ambiente, non già per far valere la propria persona, bensì per far valere l'idea cristiana. Dire infatti che l'apostolo, malgrado la sua cultura e le sue capacità, non può far nulla senza l'aiuto di Dio, non significa dare il bando a questi valori naturali, ma affermare che essi sono di per sé insufficienti a raggiungere il fine essenziale dell'apostolato, ossia la comunicazione della grazia alle anime, fine che solo l'azione divina può conseguire. Ma ciò che è insufficiente in se stesso può diventare nelle mani di Dio ottimo mezzo per il bene delle anime. Anche il pennello è di per sé incapace di qualsiasi pittura, ma nelle mani di un bravo artista può servire per fare grandi capolavori.
 
-Per non metterti nel rischio di resistere all'azione divina, devi tener presente che, in genere, Dio purifica le
-anime attraverso le circostanze ordinarie della vita, Nella
-vita di ogni cristiano, di ogni apostolo, di ogni religioso
-vi è sempre una misura di sofferenza sufficiente per attuare la purificazione dello spirito; sono sofferenze da Dio
-stesso scelte e disposte nel modo più adatto secondo i diversi bisogni delle anime, ma il male è che ben pochi
-sanno valersene, perchè pochi sanno riconoscere, nei dolori della vita, la mano di Dio che vuole purificarli, Malattice, lutti, distacchi, separazioni da persone care, incomprensioni, lotte, difficoltà talvolta proprio
-da coloro da cui si aspetterebbe maggior aiuto e sostegno, crolli di opere amate e sostenute a prezzo di grandi fatiche, abbandono di amici, solitudine materiale e spirituale, ecco qualche cosa delle sofferenze che, più o meno, si trovano nella vita di ogni uomo e che, quindi, anche tu incontrerai nella tua, Ebbene, sappi che tutto ciò
-è positivamente voluto, o almeno permesso, da Dio per
-purificarti sin nelle più intime fibre del tuo essere. Di
-fronte a queste cose non incolpare mai la malizia degli
-uomini, non fermarti mai ad esaminare se siano giuste o
-ingiuste, ma guarda solo la mano benedetta di Dio che
-ti porge questi rimedi amari per condurti alla perfetta sanità dello spirito, « È molto necessario — dice S. Giovanni della Croce — che l'anima sopporti con grande pazienza e costanza tutte le tribolazioni e pene che Dio volesse mandarle. Siano esse interne od esterne, spirituali o
-corporali, grandi o piccole, deve riceverle tutte dalla mano del Signore, come dirette a suo bene e medicina. Sano la sua salute» (F.2,30).
+L'apostolo deve essere conscio dell'insufficienza radicale delle sue doti, dei suoi talenti, ma nello stesso tempo deve coltivare queste doti, deve far fruttare questi talenti per metterli a disposizione di Dio ai fini dell'apostolato. Ecco quindi la necessità che gli apostoli, assieme alla vita interiore, coltivino la loro formazione intellettuale; certamente la santità è sempre l'elemento più importante, ma, quando alla santità si unisce la dottrina, i risultati saranno migliori. Di questo parere è S. Teresa di Gesù che, in proposito di direzione spirituale, non esita a dire: «Il direttore dev'essere uomo di spirito, ma se non è anche dotto, l'inconveniente è gravissimo» *(Vi.* 13, 19). Del resto non solo per la direzione delle anime, ma per qualsiasi forma di apostolato «la scienza è una gran cosa e serve a dar luce in tutto» *(T.G. Cam.* 5, 2); anzi, vi sono degli ambienti in cui è impossibile penetrare senza una sufficiente cultura. È dunque un dovere dell'apostolo procurarsi una preparazione intellettuale adeguata all'apostolato che deve svolgere; non si tratta di andare in cerca della scienza vana che gonfia, non si tratta di coltivare la propria intelligenza per far bella mostra di sé, ma di mettere al servizio delle anime tutti i talenti ricevuti da Dio. Sotto l'influsso vivificante della carità, tutto — educazione, cultura, dottrina, capacità tecniche, ecc. — viene trasformato in mezzo di apostolato.
 
-2 — Considera quanto spirito di fede ti è necessario
-per accettare dalla mano di Dio tutte le circostanze che
-ti affliggono, ti umiliano, ti contrariano, ti mortificano.
-Talvolta ti potrà essere più facile piegarti di fronte a
-gravi prove che vengono direttamente dal Signore — come malattie, lutti, ecc. — mentre forse sentirai maggior
-ripugnanza dinanzi ad altre più lievi in cui entrano in
-gioco le creature. L'azione immediata delle creature, soprattutto quando vi ha parte la loro malizia, ti rende più
-difficile scorgere la mano divina; ti occorre qui maggiore spirito di fede per oltrepassare il lato umano delle circostanze, per oltrepassare il modo di agire difettoso di
-questa o quella persona e vedere, al di là di tutto questo, le disposizioni della divina Provvidenza la quale vuol
-servirsi appunto di quelle creature ed anche dei loro difetti ed errori per limare il tuo amor proprio, per annientare il tuo orgoglio.
+**2** — Coloro che sono chiamati ad esercitare l'apostolato nella vita professionale hanno, più degli altri, il dovere di formarsi una cultura e delle capacità tecniche proporzionate alla loro professione. Un insegnante che non prepara bene le sue lezioni, che non è aggiornato, che non si dà con zelo all'insegnamento, non potrà mai avere ascendenza sui suoi alunni e qualsiasi iniziativa di apostolato, che volesse svolgere in mezzo ad essi, sarà destinata al fallimento. Solo una buona competenza professionale può procurare al professionista cattolico quell'autorità che, oltrepassando i limiti della propria professione, raggiunge spesso il campo morale e religioso permettendogli di esercitare un efficace influsso su coloro che lo avvicinano; in tal modo egli può fare un bene immenso e talvolta la sua parola essere ascoltata ancora più di quella del sacerdote. Ben giustamente Pio XII raccomanda ai laici cattolici di non «essere da meno di altri nella palestra del valore scientifico e della competenza professionale», ma di fare il possibile per diventare «i migliori professionisti, i migliori giuristi, letterati, medici, ingegneri», ecc. (ai Laureati Catt. 20-3-1941); e questo non per lucro, ma per poter acquisire un più largo e autorevole ascendente ai fini apostolici. Infatti, in proporzione della loro competenza professionale, i cattolici saranno chiamati a coprire nella società posti direttivi e così potranno cooperare più efficacemente ad organizzare un mondo civile in armonia con i principi del Vangelo e perciò capace di ricevere la grazia divina.
 
-In simili casi ti sarà utilissimo il consiglio che S. Giovanni della Croce dà ad un religioso: « considera che quanti
-[vivono intorno a te] abbiano l'ufficio, come in verità lo
-hanno, di metterti alla prova, lavorandoti gli uni con la
-parola, gli altri con l'opera, altri infine col pensiero; e
-che in questo devi essere soggetto a tutti come l'immagine lo è al pittore e allo scultore che la dipinge o indora» (Ct. 15).
-Anima di fede, profondamente convinta che Dio guida
-e regge le cose e tutto dispone per il bene di coloro che
-lo amano, non si ribellerà e non si sdegnerà per
-i trattamenti poco delicati o addirittura ingiusti che riceve, piega la testa e li accetta umilmente come la cura
-più adatta per liberarsi dai suoi difetti o imperfezioni. È
-proprio questa la condotta che devi tenere se vuoi cavar
-profitto da tutte le prove che Dio pone sul tuo cammino. Guardati, dunque, in tali casi, dall'atteggiarti a vittima, dal prendere un tono di protesta, di lamentela o di
-rivincita; qualsiasi sofferenza ti possa venire dalle creature, una sola ne è la vera spiegazione: il Signore vuole
-purificarti e incomincia a farlo proprio mediante queste
-tribolazioni esterne. Persuaditi che tutto giova grandemente al tuo avanzamento spirituale, perchè non si giunge
-all'unione con Dio se prima non si arriva a ridursi al nulla, cioè a stabilirsi in somma umiltà.
+Prima, dunque, di dedicarsi ad altre forme di apostolato, il laico deve mettersi in grado di esercitare a perfezione quelle inerenti alla sua vita professionale. Come la santità va cercata anzitutto nell'adempimento dei doveri del proprio stato, così l'apostolato deve essere svolto anzitutto attraverso il perfetto adempimento dei doveri professionali, che rientrano appunto tra i doveri del proprio stato. Farsi santo nella linea del dovere quotidiano, farsi apostolo nella linea del dovere professionale deve essere il programma del laico cattolico; programma pratico e alla portata di tutti e che tuttavia richiede eminente spirito di sacrificio, di fede e di amore onde trasformare il non lieve lavoro professionale in arma di apostolato. Ma la carità apostolica è capace di tanto; in nome di Dio tutto può, «tutto soffre, tutto spera» *(I Cor.* 13, 7).
 
 ### Colloquio
 
-« Insegnami, Dio mio, a soffrire in pace le afflizioni
-che mi mandi affinchè l'anima mia esca dal crogiuolo della prova più raffinata e chiarificata per meglio contemplare te che dimori nel mio interno. Allora i travagli che
-adesso mi sembrano insopportabili, mi diventeranno cosa
-da nulla e desidererò tornarli a soffrire, se così Tu volessi, giacchè anche le maggiori prove e persecuzioni non
-sono mai senza profitto. Ma io sono troppo imperfetta e
-non le sopporto come dovrei » (T.G. Vi. 30, 14).
+O Signore, non voglio la scienza che gonfia, ma la scienza umile che viene da te, che illumina le menti e accende i cuori.
 
-«O grandezza del mio Dio! Quello che permetti in
-noi di tentazione e di tribolazione, tutto, tutto è ordinato
-a nostro bene; e se d'altro non ci ricordassimo, quando
-siamo tentati quaggiù in terra, che della tua bontà, questo ci sarebbe sufficiente per vincere ogni tentazione.
+«Sei Tu, o Signore, che insegni la scienza agli uomini, Tu che dai ai fanciulli più chiara intelligenza di quella che qualunque uomo possa insegnare. Se Tu mi parli, diventerò presto saggio e farò quindi progressi spirituali.
 
-«O mio amoroso e dolce Sposo Verbo, Tu che hai
-ogni potestà in cielo ed in terra, sei quello che confondi
-ognuno e mandi in fuga tutti i nemici. Io per me sono
-debole e debolissima, nulla veggo, essendo piena di miserie e di peccati; ma Tu, Verbo, con un piccolo sguardo
-fughi tutti i nemici come pagliuzze al vento; prima però li
-lasci combattere coi tuoi servi per far questi più forti.
-E quanto maggior grazia e maggior lume vuoi dare ad
-essi, acciocchè maggiormente ti amino e ti conoscano, tanto più provi col fuoco e purghi i loro cuori a guisa dell'oro, affinchè appariscano le loro virtù come pietre degne e preziose.
+«Sei Tu, o Signore, che in un attimo elevi la mente umile a comprendere molte ragioni della eterna verità. Sei Tu che ammaestri senza strepito di parole, senza confusione d'opinioni, senza contrasto d'argomenti» *(Imit.* III, 43, 2 e 3).
 
-« Nella tua fortezza, o Verbo, conferisci a noi la forza per combattere; e chi vuol combattere virilmente per
-la tua gloria, bisogna che scenda più al basso nel conoscimento di sè, pur sempre inalzando il cuore a te per
-non essere confuso » (S. M. Maddalena de' Pazzi).
+O Signore, dammi questa scienza ed allora potrò addentrarmi nello studio e nel lavoro senza alcun pericolo di vanagloria. L'intelligenza che Tu mi hai dato, voglio impegnarla al tuo servizio, voglio farla fruttificare per la tua gloria e per il bene delle anime. Tutte le capacità fisiche da te ho ricevuto: intelligenza, volontà, energie fisiche e morali, devono essere usate a questo scopo, perché l'apostolo deve essere totalmente dato al compimento della sua missione, sempre sulla breccia per la difesa e la gloria del tuo nome.
+
+Santifica, o Signore, i miei studi, il mio lavoro, l'esercizio della mia professione; fa' che l'amore trasformi tutto questo in mezzo di apostolato.
+
+«Ricordati, o Signore, che mi dichiarasti essere io posta per la salute delle anime. Offro, dunque, a te la vita mia, ora e per sempre, quando piacerà a te; e la metto per la tua gloria, pregandoti umilmente, per la virtù della tua Passione, che Tu mondi e santifichi il popolo tuo» (S. Caterina da Siena).

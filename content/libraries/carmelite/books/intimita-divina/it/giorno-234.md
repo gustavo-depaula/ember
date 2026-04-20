@@ -1,122 +1,25 @@
-## 234 — IL CHIARO-OSCURO DELLA FEDE
+## IV — LA SEMPLICITÀ DIVINA
 
-### Presenza di Dio
-
-O Signore, insegnami a credere anche in mezzo all'oscurità e alle tenebre, insegnami a credere fidandomi unicamente della tua parola.
+**Presenza di Dio.** — *O Signore, Essere semplicissimo, semplifica il mio sguardo ed il mio cuore affinché possa servirti con semplicità di spirito.*
 
 ### Meditazione
 
-1. — L'intelligenza umana con le sue ò
-traverso la considerazione del creato, SEE TALPA
-di Dio Creatore, può conoscerne l'esistenza ed anche alcune
-perfezioni, ma fino al mistero della Sua vita intima, ch
-sfugge allo sguardo di qualsiasi creatura, non può iun, Si
-se Dio stesso non ve l'innalza. Solo Dio conosce fanti
-della sua vita intima e della comunicazione di tale vita a i
-uomini e solo Dio può rivelarli. La divina rivelazione ERA
-«sapere» con certezza che tali realtà esistono e, tuttavia,
-non ce le fa «vedere»: ci fa sapere che Dio è Trinità, si
-non ci fa vedere la Trinità; ci fa sapere che Dio ci da la gra.
-zia, ma non ce la fa vedere. Appunto perchè non a
-per aderire ai misteri divini, dobbiamo, credere fiduciosi i
+**1** — Dio è l'Essere semplicissimo perché è uno nella sua essenza ed in tutte le sue perfezioni. S. Tommaso, quando parla della semplicità di Dio, non fa che presentarla come esclusione di qualsiasi composizione. In Dio non vi sono parti quantitative come in noi, che siamo composti di corpo e di spirito; Dio è semplice perché in lui non vi è materia, ma spirito purissimo. Anche l'angelo è puro spirito e, tuttavia, l'angelo è un essere composto perché in lui, come in noi, l'essenza è distinta dall'esistenza: l'essenza angelica non esiste per se stessa, ma ha solo la capacità di esistere e, di fatto, nessun angelo, come nessun uomo, esiste se Dio non lo chiama alla vita. In Dio, invece, vi è somma semplicità, ed esistenza sono la stessa cosa, la sua essenza esiste di per sé, Egli è l'Essere eternamente sussistente.
 
-)io che ce li ha rivelati; e proprio i iste l'
-DI de La fede è certa SANO pricing pn; di
-il quale non si inganna nè può i i
-senso si au dire che la fede è chissa Sino
+Neppure le sue innumerevoli perfezioni creano in Dio molteplicità: Dio non è composto di bontà, di bellezza, di sapienza, di giustizia, ma Egli è nello stesso tempo l'Essere infinitamente buono, bello, sapiente, giusto. In lui nessuna distinzione fra sostanza e qualità, perché tutto è sostanza, le sue perfezioni infinite sono la sua sostanza stessa. Dio abbraccia in un'unica semplicissima perfezione, la perfezione del suo Essere divino, tutte le molteplici perfezioni che noi troviamo divise nelle creature e mille e mille altre ancora, un po' come un milione contiene il valore di moltissime lire. La semplicità di Dio non è, dunque, povertà, ma ricchezza infinita, ma perfezione infinita in cui noi dobbiamo specchiarci.
 
-(cfr. G.
+Guarda come Dio è ricco d'innumerevoli perfezioni e tutte le possiede nel medesimo grado; guarda, invece, come tu sei povero di virtù e, se ne hai qualcuna, è così limitata, così ristretta, così mescolata a difetti; e, inoltre, per una virtù che possiedi tanto malamente, quante altre te ne mancano! Guarda come Dio è semplice, come tu, invece, sei complicato. Contempla la semplicità divina e cerca di ricopiarla in te mediante una vera semplicità di spirito.
 
-C. 12, 3), e non ammette dubbio, giacchè non
+**2** — In Dio l'essere non è distinto dall'agire, la potenza non è distinta dall'atto. Egli è atto purissimo, atto d'intelligenza infinita che sempre sussiste ed abbraccia ogni verità e, nello stesso tempo, atto di volontà che sempre sussiste e vuole il bene. Nel pensiero eterno di Dio non vi è nessuna mescolanza di errori; nella volontà eterna di Dio non vi è nessuna deviazione verso il male. In Dio non vi è una successione di pensieri, ma un pensiero unico, eterno, immutabile, sussistente, che comprende ogni verità. In Dio non vi sono molti atti di volontà che si susseguono, ma una volontà unica, perfettissima, immutabile, che sempre vuole il bene con purissima intenzione e, se permette il male, lo permette solo in vista di un bene maggiore.
 
-si può dubitare della parola di Dio, ma nello stesso tempo rimane oscura proprio perchè non ci mostra le verità che
-ci propone a credere e perciò queste rimangono per noi un
-mistero. Ripensiamo al vaso che racchiude una saccola accesa, ma senza lasciarla vedere. Questo lato oscuro della fede
-è poi per noi penoso e glorioso ad un tempo. Penoso, perchè
-non vediamo ciò che crediamo, penoso, perchè spesso l'atto
-di fede esige un salto nel buio, nelle tenebre, cosa che ripugna alla natura umana la
-conto, procedere su dati evidenti. Le realtà soprannaturali
-quanto più sono elevate, tanto più sono oscure, sono tenebre per la nostra intelligenza incapace di procedere senza
-l'aiuto dei sensi e incapace di abbracciare l'infinito. D'altra
-parte, però, proprio questa oscurità costituisce il merito e la
-gloria del nostro atto di fede: merito, perchè è atto tutto
-soprannaturale che si basa non su quello che vediamo e controlliamo, ma unicamente su quello che Dio ci ha rivelato;
+Se vuoi avvicinarti in qualche modo alla semplicità divina, devi evitare ogni forma di doppiezza. Eviterai la doppiezza della mente con la ricerca spasionata della verità, amando ed accettando la verità anche quando essa esige da te sacrifici, anche quando non ti fa onore perché mette a nudo i tuoi difetti, i tuoi errori. Dovrai, inoltre, coltivare la più schietta sincerità fuggendo ogni forma di menzogna: «Il vostro linguaggio — ha detto Gesù — sia 'sì, sì, no, no'» *(Mt.* 5, 37) e, prima ancora che nelle tue parole, questa semplicità deve risplendere nel tuo pensiero, nella tua mente perché «se il tuo occhio è torbido, tutto il tuo corpo sarà nelle tenebre» *(Mt.* 6, 23). Il pensiero è l'occhio che guida il tuo agire; se i tuoi pensieri saranno semplici, retti, sinceri, lo saranno pure tutte le tue azioni.
 
-loria perchè il nostro atto di fede è tanto più glorioso e onorifico per Iddio quando più si appoggia unicamente sulla
-sua parola.
-
-2. — Di fronte alla verità: due più due è uguale a quattro, la mia intelligenza non ha bisogno del concorso della
-volontà per credervi: lo vede, è evidente. Invece, di fronte
-alle verità divine, appunto perchè queste non sono per me
-evidenti, la mia AS rimane libera di dare o no il
-suo assenso, ed io credo solo perchè voglio credere. Di fronte
-alle verità naturali che controllare, come le verità matematiche, la mia adesione dipende dalla forza della mia intelligenza: più conosco e comprendo a fondo e più ne sono
-convinto. Invece di fronte alle verità so) rannaturali, la mia adesione dipende dalla forza della mia volontà: è la volontà che
-dà l'impulso all'intelligenza. La volontà libera e retta, che ama
-il suo Dio, accetta con pienezza tutto quello che Egli ha ri
-velato; non è un'accettazione fredda, ma amorosa che impegna tutte le forze, tutta l'anima.
-
-uale ama controllare, rendersi _
-
-Tuttavia, appunto perchè manca l'evidenza, nel mio pensiero può sempre sorgere il dubbio, e di ciò non mi a
-meravigliare: è di per sè un fatto naturale che l'intelletto
-umano dubiti di ciò che non vede e non capisce. Talvolta
-i dubbi possono nascere da ignoranza ed allora è doveroso
-istruirsi; ma altre volte possono essere semplici tentazioni e
-allora devono essere superati con l'atto della volontà: Signore credo perchè voglio credere; credo anche se non capisco,
-se non vedo, se sono nelle tenebre. Credo unicamente sulla
-tua parola. Questa è la condotta che bisogna tenere nelle
-tentazioni contro la fede; anzichè smarrirsi in ragionamenti
-o scoraggiarsi, bisogna semplicemente aderire con l'atto della
-volontà. Nella sua dura prova contro la fede S. Teresa del
-B. Gesù scriveva: e Per quanto mi manchi. il conforto della
-fede, mi sforzo però di eseguirne le opere; ho rinnovato più
-atti di fede da un anno a questa parte, che non in tutto il
-corso della mia vita» (St. 9 ). Proprio mediante queste prove dolorose la fede si fa più pura, più soprannaturale: l'anima crede non per il conforto che la fede le dà, non appoggiandosi al sentimento o all'entusiasmo e neppure a quel
-Io che comprende dei misteri divini, ma crede solo perchè
-
-io ha parlato. Quando il Signore vuol condurre le anime
-a un'unione più intima con lui quasi sempre le fa passare
-per queste prove: è il momento di dargli la testimonianza
-della nostra fede, buttandosi a occhi chiusi fra le sue braccia.
+Eviterai la duplicità della volontà con la rettitudine dell'intenzione: rettitudine che ti deve spingere ad operare unicamente per piacere a Dio; allora, pur nella molteplicità delle tue azioni, vi sarà in te semplicità, unità profonda. Allora non zoppicherai inclinando verso due parti: verso il tuo amor proprio o verso l'amore di Dio, verso le creature e verso il Creatore, ma camminerai su un'unica via, la via retta del dovere, della volontà di Dio, del suo beneplacito.
 
 ### Colloquio
 
-«O fede benedetta, tu sei certa, ma sei anche oscura.
-Sei oscura perchè induci a credere verità da Dio stesso rivelate, che sono al disopra di ogni lume naturale. La tua eccessiva luce — luce di verità divine — si volge per me in
-oscure tenebre, perchè il più vince il meno, come la luce
-risplendente del sole fa scomparire ogni altra luce e vince
-anche la mia potenza visiva.
+«O Dio altissimo, nel tuo unico e semplice essere Tu sei tutte le virtù e le grandezze dei tuoi attributi: sei onnipotente, sapiente, buono, misericordioso, giusto, forte, amoroso con altri infiniti attributi e virtù che noi non conosciamo. Tu sei tutte queste cose nel tuo semplice essere.
 
-«Tu sei notte oscura per l'anima e come notte la illumini, simile a quella nube tenebrosa che, nella notte, rischia
-rava il cammino ai figli d'Israele; sì, quantunque tu sia
-un'oscura nube, tuttavia con le tue tenebre rischiari quelle
-dell'anima mia. Posso dunque dire anch'io: la notte sarà la
-mia luce nelle mie delizie. Nel cammino della pura contemplazione ed unione con Dio, la tua notte, o fede, sarà la
+«O ammirabile eccellenza di Dio! O abisso di delizie che si abbondante nelle tue ricchezze, quanto più queste sono raccolte nell'unità e semplicità infinita del tuo unico essere! La conoscenza di ogni tua perfezione è tale che non impedisce la conoscenza e il gusto perfetto dell'altra, anzi, ogni grazia e virtù che è in te è luce di qualsiasi altra tua grandezza, perché per la tua purità, o Sapienza divina, molte cose in una si vedono in te» (cfr. G.C. F. 3, 2 e 17).
 
-mia guida. :
-
-Fa dunque comprendere, o Signore, che, per congiungermi in unione con te, non devo escogitare forme nè
-appoggiarmi al gusto e al senso o all'immaginazione, ma devo
-credere al tuo infinito Essere divino che non cade sotto pensiero o senso alcuno » (cfr, G.C. S. II, 3, 1-6; 4, 4).
-
-«O fede, tu sei la grande amica del nostro spirito e
-alle scienze umane, che si vantano di essere più evidenti di
-
-te, puoi ben dire quello che la sacra Sposa diceva alle altre
-pastorelle: 'Io sono bruna, ma bella". Tu sei bruna perchè
-stai fra le oscurità delle rivelazioni divine le quali, essendo
-prive di apparente evidenza, ti fanno comparire nera ren
-dendoti quasi irriconoscibile; ma pure sei bella in te stessa per
-la tua infinita certezza » (cfr. S. Francesco di Sales).
-
-«Solo la bella luce della fede deve illuminarmi per ve:
-nire incontro a te, O Signore. Il Salmista canta che "Tu ti
-nascondi nelle tenebre" e poi altrove sembra quasi contrad:
-dirsi dicendo che 'la luce ti avvolge come un manto . Quel
-che risulta, per me, da questa contradizione apparente è che
-devo immergermi nella tenebra sacra, facendo la notte, il
-vuoto nelle mie potenze. Allora t'incontrerò, o mio Maestro,
-e la luce che ti circonda come una tunica avvolgerà anche
-me, perchè Tu vuoi che la sposa sia avvolta della tua
-luce, della sola tua luce» (cfr. E.T. El. II, 4).
+«O divina Essenza, che sei un abisso senza fondo e senza limiti di meraviglie! O insondabile oceano di grandezze, o unità del mio Dio, o semplicità, o eternità senza principio e senza termine, a cui ti sei continuamente presente! O immensità che riempi ogni cosa e che ogni cosa contieni! O infinità che abbracci tutte le immaginabili perfezioni, o immutabilità, o immortalità, o inaccessibile splendore! o verità incomprensibile, o abisso di scienza e di sapienza, o verità del mio Dio!... O divina forza che tutto sostieni e tutto fai; o divina onnipotenza, o divina provvidenza, che tutto governi! O giustizia, o bontà, o misericordia, o bellezza, o gloria, o fedeltà!... O gran Dio, io adoro in te tutte le magnificenze e tutte le perfezioni che sono andato contemplando, insieme con tutte le altre innumerevoli ed inconcepibili che mi sono e mi saranno ignote. E ti adoro, ti lodo, ti glorifico e ti amo secondo tutto quel che Tu sei. Oh, come giubila il mio cuore vedendoti così grande e si ricolma d'ogni sorta di tesori e di splendori! E, certo, se io possedessi tutte queste grandezze e Tu ne fossi privo, vorrei subito spogliarmene per darle a te» (S. G. Eudes).

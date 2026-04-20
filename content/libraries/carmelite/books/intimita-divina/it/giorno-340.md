@@ -1,104 +1,27 @@
-## 340 — L'AMORE PURIFICANTE
+## 18 — UMILTÀ NELL'APOSTOLATO
 
-### Presenza di Dio
-
-O Signore, aiutami a spalancare l'anima mia all'invasione del tuo amore purificante.
+**Presenza di Dio.** — *O Signore, imprimi in me un senso così profondo della mia indigenza, per cui tutto io attenda da te ed a te solo attribuisca ogni bene.*
 
 ### Meditazione
 
-ad un'anima è appunto quella d'introdurla nelle pene desolanti della notte dello spirito, perchè proprio in tal modo Egli la prepara e la dispone all'unione. Benchè, per
-l'anima che ne sperimenta le strette dolorose, questa notte possa sembrare un castigo di Dio, essa è invece un dono del suo amore misericorilioso che in tal modo vuole
-distrigarla dagli ultimi lacci delle sue imperfezioni. S. Giovanni della Croce dichiara espressamente che questa notte è opera. « della 'sapienza amorosa di Dio » la quale, purgando l'anima, «la dispone all'unione di amore » (N.II.
-5, 1). Ma se è opera dell'amore, come mai è così dolorosa? Accade all'anima qualche cosa di simile a quello che
-si verifica per un pezzo di legno verde messo ad ardere;
-prima di tutto il fuoco comincia a cacciarne fuori l'umidità, « di poi lo annerisce e gli fa tramandare anche cattivo odore: e mentre a poco a poco lo dissecca, ne trae
-alla luce e toglie tutti gli spiacevoli ed oscuri accidenti,
-contrari al fuoco. Finalmente, comincia a riscaldarlo al
-di fuori, l'infiamma, lo trasforma in sè, rendendolo tanto
-bello quanto il fuoco stesso », Parimenti, l'amore divino
-«prima di unire e trasformare l'anima, in sè, la purga da
-tutte le qualità contrarie. Le cava fuori le sue sozzure e
-la rende brutta e nera, tanto da sembrare peggiore, più
-abominevole di prima » (ivi, 10, 1 e 2). Si comprende facilmente come sotto il torchio di simile purificazione l'anima debba soffrire, eppure tutto ciò è opera dell'amore.
-La Sapienza amorosa di Dio, investendo l'anima ancora
-imperfetta, deve necessariamente cominciare a compiere
-in lei un lavoro di demolizione, di purificazione e, solo
-quando l'avrà così liberata da tutto ciò che è contrario
-all'amore divino, l'unirà a sè e in sè la trasformerà. Allora
-Vopera dell'amore non sarà più penosa per l'anima, chè
-anzi le sarà molto soave e deliziosa, ma finchè essa non
-è totalmente purificata, non può non esserle motivo di
-afflizione. Benedetta afflizione che la dispone a un bene
-così grande! « O anime che desiderate di andar sicure e
-consolate nelle cose dello spirito! — esclama S. Giovanni della Croce — Sc voi sapeste quanto vi è necessario
-soffrire pet ottenere questa sicurezza e consolazione..,,
-non cerchereste consolazioni in aleun modo, nè da Dio,
-nè dalle creature, Che anzi sopportereste la Croce e, abbracciate ad essa, desiderereste bere lì il fiele e il puro
-aceto, ed avreste ciò a grande fortuna vostra » (F.2,28).
+**1** — Come l'umiltà è il fondamento indispensabile di tutta la vita spirituale, così è la condizione base di ogni apostolato e costituisce la parte centrale del programma di abnegazione e dimenticanza di sé da esso richiesta. Appunto perché l'apostolo è — più o meno — posto sul candelabro, ha degli altri bisogni di proteggere il suo spirito dai fumi dell'orgoglio e della vanagloria con una profonda umiltà. Scorrendo il Vangelo è significativo constatare quanto Gesù ha insistito su questo punto riguardo alla formazione dei suoi Apostoli. Allora essi discutevano intorno a chi sarebbe stato il più grande nel regno messianico, il Maestro risponde: «Se voi non cambierete e non diventerete come i pargoli, non entrerete nel regno dei cieli» *(Mt.* 18, 3). In un'altra circostanza del genere, quando la madre di Giacomo e di Giovanni chiedeva per i figli i primi posti, ribatté: «Chi tra voi vorrà essere il primo sia vostro servo» *(ivi,* 20, 27); e la sera dell'ultima Cena, alla lavanda dei piedi, Egli mostrò loro fino dove gli apostoli devono farsi *servi*: «Se io, Signore e Maestro, ho lavato i piedi a voi, anche voi dovete lavarvi i piedi gli uni agli altri» *(Gv.* 13, 14); infine, prima di inviarli nella sua vigna a produrre «frutti copiosi», dichiarò loro ripetutamente: «Senza di me non potete far nulla» *(ivi,* 15, 5).
 
-— Più saremo intimamente convinti che la purificazione è opera dell'amore, più sapremo abbracciarla con
+Sì, gli apostoli sono gli amici di Gesù, da lui scelti e destinati ad evangelizzare il mondo, da lui preposti al governo della Chiesa, insigniti della dignità sacerdotale, del potere di «sciogliere e di legare», o — se non chierici — elevati alla dignità di collaboratori della Gerarchia, chiamati anch'essi a cooperare alla salvezza delle anime; ma alla base di tutti questi privilegi, di tutti questi onori stanno le grandi parole: «bisogna farsi piccoli come fanciulli; senza di me non potete far nulla». Oh, se fossimo veramente convinti che, sebbene Dio voglia servirsi di noi, lui solo ha il potere di rendere feconda la nostra azione, lui solo può produrre frutti di vita eterna, lui solo può dare la grazia alle anime e noi non siamo che strumenti, tanto più atti a servire di mezzo per la salvezza altrui, quanto più ci facciamo piccoli riconoscendo la nostra indigenza! Quale merito può vantare un pennello se un valente pittore si è servito di esso per compiere un'opera d'arte? Quale merito può vantare il marmo che Michelangelo ha usato per scolpire il suo Mosè? «Non voi avete scelto me — diceva Gesù agli Apostoli — ma io ho scelto voi e vi ho destinati ad andare a portare frutto» *(Gv.* 15, 16).
 
-coraggio e farle lieto viso anche quando ci costa molto.
-Del resto, la legge generale dell'amore perfetto — anche
-dell'amore umano — è proprio questa: non tollerare divisione di affetti, non tollerare rivali, non sopportare disarmonie fra coloro che si amano. Se l'amore umano, tanto limitato e debole, ha tali esigenze di totalità, perchè
-non riconosceremo gli stessi diritti, anzi, diritti infinitamente superiori all'amore divino?
+**2** — «Senza di me non potete far nulla»; davanti a queste parole quante ambizioni, quanti titoli di onore, quante vane compiacenze di sé, quante pretese di plauso, quanti desideri di avanzamenti e di riconoscimento del proprio valore cadono infranti come le onde del mare di fronte agli scogli! Gesù non ci dice che senza di lui possiamo far poco, ma *nulla*, assolutamente *nulla* e se in apparenza le opere prosperano, gli ammiratori aumentano, le Chiese o le sale si affollano, in realtà non un granellino di grazia scende nei cuori se Dio non interviene.
 
-L'amore tende per sua natura all'uguaglianza: o trova
-o rende uguali gli amanti; e Dio, vedendo un' anima di
-buona volontà, che gli si vuol dare interamente, l'ama' al
-punto di volerla rendere simile a sè, perciò la spoglia di
-tutto quello che contrasta con la sua perfezione infinità
-e, a misura che la spoglia, la riveste di sè, la riveste di
-vita divina.
+Povero apostolo, talvolta tanto soddisfatto e gonfio dei tuoi successi! Nonostante le tue capacità, il tuo ingegno, il tuo stile brillante, la tua conversazione attraente, i tuoi titoli, i tuoi successi, nei confronti dell'apostolato sei più piccolo e più impotente di una formica davanti ad un'altissima montagna. Riconosci il tuo niente, rifugiati in Dio, tieniti fortemente unito a lui, perché solo da lui puoi trarre la fecondità delle tue opere.
 
-L'amore tende per sua natura all'unità, vuole la piena
-fusione dei, cuori; e Dio, il quale ama infinitamente le
-anime che lo cercano con affetto sincero, nulla più desidera che unirle a sè e quindi le va purificando da ogni
-macchia che impedirebbe la perfetta unione con la sua
-purezza infinita. Gesù stesso, nell'ultima Cena, ha espresso il supremo desiderio del suo amore per noi chiedendo
-appunto questa unione perfetta: «Come Tu, Padre, sei
-in me e io sono in te, anch'essi siano uno in noi» (Gv.
-17,21). Ma poichè, viziati dal peccato e pieni di ogni
-miseria. ne eravamo radicalmente incapaci, Egli ha preso
-su di sè i nostri peccati e li ha lavati nel suo Sangue. La
-Passione di Gesù ci dice quanto è costata al Figlio di Dio
-la nostra purificazione. E se tanto è costata a lui, innocentissimo, non sarà giusto che costi un poco anche a
-noi, colpevoli, che tante volte abbiamo offeso Dio, che
-tante volte, con la nostra cattiva volontà, abbiamo posto
-ostacolo all'invasione del suo amore nell'anima nostra? Ora
-che questo amore divino, invece di abbandonarci come
-meriteremmo, ci viene incontro per purificarci, vorremmo sfuggire alla sua azione? No, non deve essere così!
-Alla stessa guisa che le sofferenze purificatrici sono opera dell'amore di Dio per noi, così vogliamo che l'accettazione di esse sia opera, sia prova del nostro amore per
-Ini. «Il vero amore consiste nello spogliarsi di tutto ciò
-che non è Dio» (G.C. S.II, 5,7).
+Incaricata dell'educazione delle novizie, S. Teresa del B. G. esclamava: «Lo vedete, Signore, che io sono troppo piccola per nutrire le vostre figlie; se volete dare a ciascuna di esse per mio mezzo ciò che loro conviene, riempite la mia mano ed io, senza lasciare le vostre braccia, senza neppure voltarmi altrove, distribuirò ai vostri tesori all'anima che verrà a chiedermi il cibo» *(St.* 10). Ecco l'atteggiamento che deve prendere ogni apostolo; anzi, quanto più la sua missione è alta, importante, delicata, tanto più è necessaria questa umile consapevolezza della propria indigenza, questo fiducioso ricorso a Dio, questo tenersi continuamente uniti a lui. Se Dio non si serve di noi per compiere opere grandi non sarà forse perché, non essendo abbastanza convinti del nostro nulla, potremmo farci ladri della sua gloria, attribuendo il successo a merito nostro? Se la nostra attività apostolica da pochi frutti non sarà forse perché, confidando troppo in noi stessi, non ci preoccupiamo abbastanza di tenerci stretti a Dio mediante l'umiltà e la preghiera?
+
+«Restate in me, — ci ripete Gesù — Come il tralcio non può portare frutto da se medesimo... così neppure voi se non rimanete in me» *(Gv.* 15, 4). Non basta che l'apostolo rimanga unito a Gesù mediante lo stato di grazia, ma deve rimanervi spinto anche dall'umiltà profonda che gli fa sentire di non poter far nulla, proprio nulla, senza il suo continuo aiuto.
 
 ### Colloquio
 
-«O Signore, ricordati di me che giaccio nelle tenebre e nell'ombra della morte e risuscita questa creatura
-tua con l'amor tuo che è il mio spirito vitale. Fa' che il
-fuoco divino del tuo amore consumi in me tutti i cattivi
-umori degli affetti terreni e che nel mio cuore rimanga un
-unico affetto tutto rivolto alla tua bellezza e bontà infinita.
+«O Signore, Tu vuoi che nel mio apostolato senta e riconosca il mio nulla, ma nello stesso tempo vuoi che mi lasci prendere e trasportare da te per compiere la missione che Tu mi affidi e da cui posso rientrare nell'ombra, tacere, non vantarmi e dire: '*servi inutiles sumus*'; sono una serva inutile, senza di te non posso far nulla.
 
-«O Gesù, l'immenso amore con cui mi attiri per
-unirmi a te desta in me una viva sollecitudine di riamarti.
-Per questa ragione dall'intimo del cuore io grido a te e
-ti supplico, per le fiamme dell'immensa carità con cui mi
-amasti e t'incarnasti per me, di mandarmi lo Spirito Santo, Fuoco divino che illuminò la Chiesa madre mia e sposa tua, affinchè mi illumini e mi converta rinnovando la
-faccia dell'anima mia. Venga, o dolcissimo Figlio di Dio,
-questo Spirito divino, al quale spalanco tutto il cuore
-mio, affinchè riformi me, deformato dal peccato, e mi
-trasformi nella bellissima forma e grazia tua.
+«O Signore, aiutami a fuggire la lode, a fuggire il plauso delle creature, aiutami ad agire sempre con retta intenzione mirando solo al tuo beneplacito. Ti supplico di tenere lontano da me quei difetti che possono distogliermi dall'operare unicamente per piacere a te: ostentazione, complimenti, adulazioni, desiderio di far bella figura, di essere gradita agli altri. Fa' che non cerchi mai la mia gloria, ma solo la tua. Tutto per piacere a te, nulla per soddisfare me stessa!» *(Sr. Carmela d. Spirito S., o.c.d.)*.
 
-«Questa è la domanda mia, o Signore, e per essere
-esaudito mi offro al fuoco e all'acqua delle tribolazioni e
-a tutti i rormenti di questa vita. Per questo mi sveglio
-di buon'ora a prevenirti con la preghiera e a sacrificarmi
-a te nella vigilia mattutina. Per questo ti supplicherò nel
-silenzio della notte e batterò alle porte della clemenza tua.
-Gli occhi miei parleranno a te con lacrime e non prenderò alcun riposo fino a che non soddisferai il desiderio mio.
+«Ti prego, Signor mio, di drizzare a te il cuore e la volontà dei tuoi apostoli, sì che ti seguano te, Agnello svegliato, poverello, umile e mansueto, per la via della santissima croce, a modo tuo e non a modo loro. Caccia dal loro cuore le tenebre e da' la tua luce, traine l'umido dell'amor proprio e vi rimanga il fuoco della tua carità. Fa' che serrino le potenze dell'anima, chiudano la memoria ai vani diletti e benefici terreni e l'aprano solo ai benefici tuoi, sì che non amino cosa veruna fuori di te, ma amino te sopra tutte le cose ed ogni cosa secondo la tua volontà, e seguano solamente te.
 
-«Se ti degnerai di esaudirmi mandando il tuo fuoco,
-ti sacrificherò le primizie degli affetti miei e non servirò
-mai a dèi stranieri. Ti loderò in pubblico e in segreto e
-canterò în eterno le tue misericordie celebrando le vitto-
+«Fa' che, con carità ordinata, cerchino la salute di tutti, disponendosi a dare la vita per il bene delle anime. E siano creature angeliche, angeli terrestri in questa vita e siano lucerne ardenti nella santa Chiesa!» *(cfr. S. Caterina da Siena)*.

@@ -1,111 +1,23 @@
-## 123 — DIFFICOLTÀ DELL'OBBEDIENZA
+## 47 — OBBEDIENZA SOPRANNATURALE
 
-### Presenza di Dio
-
-— Insegnami, o Gesù, il segreto dell'obbedienza umile che si sottomette a qualsiasi superiore ed a qualsiasi comando.
+**Presenza di Dio.** — O Gesù, insegnami a vedere soltanto te nei miei superiori.
 
 ### Meditazione
 
-1 — Benchè l'obbedienza sia così preziosa da mettere
-tutta la vita nella volontà di Dio, tuttavia presenta anch'essa
-le sue difficoltà, le quali derivano in gran parte dal fatto
-che l'obbedienza stessa non ci viene immediatamente da
-Dio, bensì attraverso î suoi rappresentanti. Accade così
-che troppo spesso ci dimentichiamo di vedere Dio nei
-superiori e di riconoscere nella loro la sua autorità, Quando, ad esempio — cosa che accade facilmente nella vita
-religiosa — ci si trova ad avere come superiore un antico
-collega o forse anche un antico discepolo, più giovane e
-meno sperimentato di noi, di cui si conoscono molto bene
-le lacune e i difetti, si può esser tentati a non aver abbastanza stima della sua autorità, a non dare abbastanza valore ai suoi ordini. Allora la vita di obbedienza diventa
-particolarmente difficile, si stenta a sottomettersi, non si
-ricorre al superiore con fiducia filiale e, quel che è peggio,
-si crede di avere ragione. Vi è invece un grosso sbaglio
-di prospettiva; si è dimenticato che il superiore, chiunque
-sia, riveste sempre un'autorità che viene da Dio e che si è
-posata su di lui unicamente perchè è stato chiamato a tale
-ufficio. Quest’autorità è invariabile ed ha lo stesso valore
-sia nel superiore anziano che in quello giovane, tanto in
-quello sperimentato e virtuoso come in chi lo è meno.
-In fondo, se ci troviamo in queste difficoltà, dobbiamo
-accusare la nostra mancanza di spirito soprannaturale, di
-spirito di fede, Giudichiamo le cose spirituali secondo le
-vedute naturali, dal punto di vista dei valori umani ed in
-tal modo ci è impossibile entrare bene nella yita di obbe-
+**1** — Ecco un ottimo insegnamento di S. Giovanni della Croce: « Non considerare mai il tuo superiore come inferiore a Dio, chiunque esso sia, poiché, per te, egli rappresenta Dio » *(Ct.* 12). Se non hai questo sguardo soprannaturale che ti fa vedere Dio nella persona del superiore, la tua obbedienza non potrà essere soprannaturale. Per esserlo, è necessario che tu sia animato da quest'unico motivo: obbedisco perché il mio superiore mi rappresenta Dio, mi parla in luogo di Dio; il mio superiore è Cristo: « *hic est Christus meus* ».
 
+Non devi obbedire per un motivo di fiducia umana nella persona del tuo superiore, ossia perché egli è intelligente, è prudente, capace, perché ti comprende e ti vuol bene ecc.: questa è obbedienza umana, frutto di prudenza umana, atto buono, ma non soprannaturale. Non devi neppure obbedire perché ciò che ti viene comandato è il più perfetto, questo non è ancora il vero motivo dell'obbedienza, il quale consiste unicamente nell'obbedire perché tutto ciò che il superiore comanda, Dio lo vuole. Solo un caso fa eccezione, ossia quando il superiore comandasse di fare un peccato, cosa che certamente Dio non può volere, oppure quando i suoi comandi fossero contrari alla Regola o agli Statuti da te abbracciati, perché allora non sarebbero più legittimi. Ma per il resto non devi mettere alcuna riserva alla tua obbedienza. E non devi neppure esitare temendo che il superiore ti chieda qualche cosa di meno perfetto, perché anche se egli ti ordinasse una cosa oggettivamente meno perfetta di un'altra (per esempio di riposare, anziché lavorare), per te sarebbe la più perfetta, giacché per il semplice fatto che il superiore te l'ha ordinata è evidente esser proprio quella, e non altra, che Dio vuole *da te* in quel momento. Può darsi benissimo che in astratto tu veda la possibilità di fare una cosa di maggior perfezione di quella che ti viene comandata e che il tuo parere sia migliore di quello del superiore, ma in concreto non c'è dubbio: non ci può essere per te niente di più perfetto che eseguire ciò che Dio ti comanda per mezzo del superiore.
 
-dienza, che è invece tutta basata su valori e motivi soprannaturali. Bisogna saper evadere dalle considerazioni umane
-sulla persona del superiore, dal pensiero delle sue qualità o
-dei suoi difetti, di quel che è stato în passato, ecc., per
-vedere in lui unicamente il rappresentante di Dio, l’autorità divina, È vero, ciò talvolta può richiedere lotta
-e sforzo veramente grandi e che tuttavia è assolutamente necessario intraprendere se non si vuol perdere il
-frutto della vita di obbedienza. È certo che quanto più
-ci sforzeremo di considerare nei superiori l'autorità che
-viene da Dio, tanto più la nostra obbedienza sarà perfetta
-e meritoria, è Dio stesso s'incaricherà di guidarci attraverso il loro governo.
+**2** — Se non devi basare la tua obbedienza su un motivo di fiducia umana nella qualità del tuo superiore, devi però basarla su un motivo di fiducia soprannaturale, ossia di fiducia nel governo soprannaturale del Signore attraverso i superiori che Egli ti ha dato. Anche se qualche volta ti trovassi davanti a superiori meno retti, meno virtuosi, non avresti motivo di temere; infatti, la fede t'insegna che Dio domina e governa tutto e che non vi è volontà umana che possa sottrarsi al suo volere divino. Anche se il superiore sbagliasse o se ti ordinasse qualcosa in sé buono o indifferente, ma per un motivo meno retto, Dio saprà sempre valersi degli sbagli di lui per il bene dell'anima tua, e si servirà anche delle sue intenzioni poco rette per farti fare quello che vuole da te. Questo è certo: Dio ti dirige per mezzo dei tuoi superiori, e questi non sono indipendenti da Dio, ma Dio stesso si serve di loro come di strumenti che può far agire a suo talento. Perciò ricorri al tuo superiore con fiducia perché, ricorrendo a lui, ricorri a Dio, obbedendo a lui, obbedisci a Dio. Una simile obbedienza è interamente soprannaturale e ti mette in contatto diretto con la volontà di Dio.
 
+Comportandoti diversamente, « ti faresti il torto immenso di abbassare l'obbedienza dal piano divino a quello umano... E la tua obbedienza sarà tanto più vana e sterile, quanto più ti sentirai contrariato dall'attitudine ostile del tuo superiore o più contento per il suo umore facile e gradevole. Io te lo dico — ti avverte S. Giovanni della Croce — è proprio così che il demonio, nell'ordine della perfezione, ha rovinato un'infinità di religiosi, l'obbedienza dei quali ha ben poco valore dinanzi agli occhi di Dio, per aver essi fissato lo sguardo sopra queste cose particolari in materia di obbedienza » *(Ct.* 12).
 
-2 — Molte volte, per non dire sempre, alla mancanza
-di spirito soprannaturale si accoppia la mancanza di umiltà. Costa all’amor proprio dipendere e sottomettersi; costa
-sottoporre le proprie cose al giudizio ed al governo di
-un’altra persona e rimettersi alle sue decisioni. Costa soprattutto quando il superiore può apparirci, almeno sotto
-certi aspetti, quasi inferiore a noi, inferiore per età, per
-cultura, Res esperienza, per capacità; ed ecco che l'io,
-punto nel suo orgoglio, recalcitra fortemente, mascherando la propria resistenza con mille scuse. Eppure anche qui
-vi è un grosso sbaglio, perchè, pur concedere che in
-realtà vi possano essere nel superiore alcune di queste inferiorità, non su di esse dobbiamo fermarci, ma solo sul
-fatto che il superiore è sempre tale nei nostri confronti
-erchè così Dio l’ha costituito. Superiore perchè Dio
-ha preposto al nostro governo, superiore perchè Dio gli
-ha dato la missione di dirigerci in suo luogo; le sue qualità
-o deficienze personali non incidono sulla superiorità che
-Dio gli ha conferita. Certamente il superiore, da parte sua,
-deve studiarsi di acquistare, qualora non le possedesse, le
-virtù e le capacità necessarie all'esercizio dell'ufficio che
-ricopre, ma questo è affare suo; da parte nostra — da
-parte dei sudditi cioè — c'è da fare una cosa sola: sotto-
-
-
-mettersi con umiltà filiale, lasciarsi guidare, lasciarsi governare. È proprio questione di umiltà, perchè in fondo umiliarsi vuol dire abbassarsi, vuol dire mettersi al proprio
-posto e il posto del suddito di fronte ai superiori è sempre
-uello di un’umile dipendenza. Consideriamo. l'obbedienza
-di Gesù e vedremo in essa questo atteggiamento di umiltà
-portato al massimo: pur essendo Dio, « annichilì se stesso,
-assumendo la natura di schiavo e facendosi simile all’uomo; ... umiliò se stesso, fattosi obbediente sino alla, morte,
-e alla morte di croce » (Fil. 2, 7 e 8). Che cos'è il nostro
-abbassarci, che cos'è il nostro sottometterci e dipendere
-dai superiori in confronto ai profondi abbassamenti di
-Gesù che, essendo Dio, ha voluto farsi uomo, ha voluto
-vivere come un uomo qualsiasi, sottomettendosi alle sue
-stesse creature?
-Persuadiamoci che, se la nostra obbedienza è difettosa, quasi sempre ciò dipende da mancanza di umiltà.
+Se vuoi che la tua obbedienza abbia tutto il suo valore, fissa il tuo sguardo soltanto in Dio « al quale tu servi nel tuo superiore » *(ivi)*.
 
 ### Colloquio
 
-« Mio dolce Salvatore, potrò vederti obbediente, per
-amor mio, alle tue creature, e ricusare d'esserlo io, per
-amor tuo, a coloro che ti rappresentano? Potrò vederti
-obbediente per amor mio fino alla morte, alla morte di
-croce, senza abbracciare amorosamente questa virtù e la
-croce in cui Tu la consumasti?
+O Signore, accresci il mio spirito di fede, affinché io possa vederti vivente nell'anima dei miei superiori; che di fronte a ciascuno di essi io sappia spontaneamente e sinceramente ripetere: « *hic est Christus meus!* ». Proprio così, attraverso l'obbedienza, mi sarà possibile una vita di continui rapporti, di continua intimità con te. Se nel Sacramento dell'altare ti trovo vivo e palpitante dietro il velo delle specie eucaristiche, sempre pronto ad accogliermi ed a nutrire l'anima mia, posso, benché in altro modo, trovarti nascosto anche nella persona dei miei superiori, attraverso i quali mi parli, sempre pronto a sciogliere le mie esitazioni, a manifestarmi la tua santa volontà, a dirigermi, a guidarmi per la via che fin dall'eternità hai prescelto per la mia santificazione.
 
-«Voglio sforzarmi, quanto più posso, per imitare i
-tuoi esempi, obbedendo per amor tuo ad ogni creatura 0
-superiore o uguale o inferiore che sia, in tutte le cose,
-senza replica, mormorazione o ritardo, ma allegramente ed
-amorosamente. Perciò non voglio indagare per qual:motivo mi venga ordinata don 0 quella cosa, molto meno
-voglio considerare il modo in cui mi viene comandata o la
-persona che me la comanda, ma nel comando voglio considerare solo la tua volontà, lasciandomi, a tua imitazione,
-muovere in qualunque direzione, da qualsiasi persona, in
+Perché allora, o Signore, mi fermerò alle parvenze dei miei superiori? Ciò non fa che impedirmi di ritrovarti in loro, di riconoscere, nella volontà loro, la volontà tua. Aiutami, Dio mio, a superare tutti i lati umani dell'obbedienza per mettermi in contatto con te, col tuo volere divino. Come di fronte all'Eucaristia non devo fermarmi alle specie create del pane e del vino, così di fronte all'obbedienza non devo fermarmi alla persona del superiore, ma considerare solo il tuo volere che mi giunge attraverso le apparenze di un ordine, di un comando umano. O Gesù, quale grande mistero! L'Eucaristia mi dà il tuo Corpo, il tuo Sangue, la tua Divinità: è questa la forza del sacramento da te istituito; l'obbedienza mi dà la tua volontà, mi mette in comunione con essa: è questo il potere dell'autorità da te costituita.
 
-
-cose piacevoli o penose, convenienti o disdicevoli. Non
-importa! Faccia di me l'obbedienza ciò che vuole.
-
-«O Gesù, che a prezzo della tua vita hai voluto riparare la disobbedienza di Adamo e la mia; o Gesù, che
-mediante la tua morte mi hai acquistato la grazia di saper
-obbedire, io non voglio più vita se non per sacrificarla a re
-mediante una continua e perfetta obbedienza » (S. Francesco di Sales).
-
-«O Signore, Tu vuoi, è vero, infondere l'obbedienza
-nei nostri cuori, ma ciò che l’impedisce è il non voler
-riconoscere che Tu parli ed operi nei superiori; ed è ancora l'essere attaccati alla propria volontà » (S. M. Maddalena de’ Pazzi).
+O Signore, dopo aver compreso questa profonda verità, come oserò ancora discutere ed esitare di fronte agli ordini dei miei superiori? « Non sarebbe forse curioso che, dicendomi Tu d'andare a fare una cosa che ti sta molto a cuore, non volessi obbedire col pretesto di farne un'altra che mi sembra migliore? Bel modo di progredire nel tuo amore! Sarebbe legarti le mani e credere che Tu non mi possa condurre alla perfezione che per una strada... » (cfr. T.G. *Fd.* 5, 5). No, Signore, non così; ma voglio seguirti ovunque Tu voglia condurmi per mezzo della santa obbedienza.

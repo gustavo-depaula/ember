@@ -1,93 +1,21 @@
-## 256 — LA GRAZIA DEL BATTESIMO
-*XI Domenica dopo Pentecoste*
+## XXVI — AMORE DI AMICIZIA
 
-### Presenza di Dio
-
-— O Signore, che la grazia del S. Battesimo giunga in me a maturazione piena.
+**Presenza di Dio.** — *O Signore, che io possa vivere in pieno nella tua amicizia divina.*
 
 ### Meditazione
 
-1. — La guarigione del sordomuto di cui parla il Vangelo odierno è la viva immagine della grazia battesimale.
-Anche noi un giorno siamo stati condotti davanti a Gesù
-in condizioni simili a quelle del poveruomo di Galilea,
-cioè sordi e muti nella vita dello spirito; e Gesù, nella per
-sona del suo Ministro, ci accolse con grande amore al fonte
-battesimale. Il Sacerdote ripetè su di noi lo stesso gesto del
-Maestro divino e pronunciò la sua medesima parola: «éffeta!»
-Quasi da quel momento l'udito dell'anima nostra si è aperto
-alla fede e la favella si è aperta alle lodi di Dio, noi siamo
-diventati capaci di intendere le voci della fede, le voci esterne
-ecclesiali della Chiesa, le voci interiori dello Spirito
-Santo che ci sollecitano al bene; da quel momento le nostre labbra sono diventate capaci di schiudersi alla preghiera, agli accenti di lode, di adorazione, di supplica. Ma poi
-i rumori del mondo ci hanno assordato, ci hanno distratto
-ed assieme al frastuono delle passioni hanno attutito la nostra capacità di ascoltare le voci di Dio; così pure il vano parlare delle cose terrene, il troppo occuparsi e affannarsi per
-le vicende umane ci ha spesso resi incapaci di una preghiera sincera e profonda. Ed ecco che oggi Gesù vuol rinnovare in noi la grazia battesimale, vuol ripetere su di noi
-la parola onnipotente: «éffeta!». Come abbiamo bisogno
-che Egli risvegli le nostre orecchie alla sua voce, come abbiamo bisogno che Egli ci renda più attenti, più sensibili
-ai suoi richiami! «Il Signore mi ridesta le orecchie, affinchè
-io l'ascolti come maestro », dice Isaia, e subito soggiunge:
-«ed io non contraddico, non mi sono mai tirato indietro +
-(50, 4 e 5). E' questa la grazia che dobbiamo chiedere oggi
-al Signore: non solo ascoltare, ma sempre seguire la sua voce,
-senza mai contrariarla; e più saremo fedeli nel seguirla, più
-diventeremo capaci di percepirne i minimi sussurri. Ed insieme chiediamo la grazia che le nostre labbra siano sempre
-aperte per lodare il Signore, per invocare la sua misericordia, per chiedere umilmente perdono, accusando con sincerità e pentimento le nostre colpe.
+**1** — La più alta espressione dell'amore umano è l'amicizia; e S. Tommaso insegna che la carità è appunto amore di amicizia tra l'uomo e Dio. L'amicizia, però, esige una certa parità, una comunanza di vita, di beni; esige reciprocità di affetti, mutua benevolenza. Ma quale parità e comunanza di vita può esistere fra la creatura che è nulla e Dio che è l'Essere supremo? Dal punto di vista naturale nessuna. Però Dio ha voluto innalzare la creatura allo stato soprannaturale, comunicandole una partecipazione della sua natura e della sua vita divina. È vero, benché divinizzato dalla grazia, l'uomo resta sempre creatura e Dio resta sempre l'Essere inaccessibile, trascendente; tuttavia Egli, nel suo amore infinito, ha trovato il modo di elevare l'uomo sul piano della Sua vita divina. Il primo frutto dell'amore di Dio per noi è proprio questa forma di parità, di comunanza di vita che, mediante la grazia, Egli ha voluto stabilire fra noi e lui. Dio ha, dunque, prevenuti, non solo col suo amore di Creatore, per cui ci ha dato l'esistenza, ma anche col suo amore di Padre, per cui ci ha resi partecipi della sua vita divina.
 
+«L'amore trova o rende uguali gli amanti»; ed ecco che Dio ci ha amati fino a rendersi simili a sè, onde poterci ammettere nella cerchia della sua amicizia divina, di quell'amicizia che esiste nel seno della Trinità fra le tre Persone divine. Di più, come l'amico desidera vivere con l'amico e sempre cerca la sua presenza, la sua vicinanza, così Dio ha voluto rendersi così vicino e così intimo a noi da venire a porre la sua dimora nelle anime nostre: «verremo a lui e faremo dimora presso di lui» *(Gv.* 14, 23). Quale maggiore comunanza di vita fra noi e Dio di questa continua società con le Persone divine che abitano nell'anima nostra e con le quali, mediante la carità, possiamo entrare in veri rapporti di amicizia?
 
-2. — Coloro che erano stati testimoni del miracolo di
-Gesù l'ammiravano ripetendo: «Egli ha fatto bene ogni
-cosa: fa udire i sordi e fa parlare i muti». Sì, Gesù ha fatto
-bene ogni cosa, ha disposto ottimamente ogni cosa per la
-nostra santificazione, ci ha preparato tutte le grazie necessarie e non solo in misura sufficiente, ma anche sovrabbondante. Purtroppo però, non sempre corrispondiamo e spesso l'orgoglio, l'egoismo e tutte le altre nostre passioni non domate
-volgono in male ciò che il Signore ha disposto per il nostro
-bene. Se avessimo accettato con amore e con rassegnazione
-quelle difficoltà, quelle prove, quei contrasti che Dio aveva
-permesso proprio per esercitarci nella virtù, avremmo fatto
-grandi progressi, ma invece con le nostre insofferenze, con le
-nostre proteste e lamenti abbiamo accumulato soltanto mancanze ed infedeltà. Abbiamo bisogno di maggiore corrispondenza
-alla grazia, di maggior finezza di udito interiore per percepire tutti gli inviti al bene che il Signore continuamente ci
-manda attraverso le varie circostanze della vita.
+**2** — L'amicizia esige reciprocità di amore. Dio ci ha prevenuti col suo amore di amicizia: Dio per il primo ci ha amati e, amandoci, ha infuso in noi la grazia e la carità mediante le quali ci ha resi capaci di ricambiare il suo amore. Ricambieremo l'amore di Dio, non con il nostro amore naturale, umano — che sarebbe insufficiente allo scopo — ma con l'amore di carità che lo Spirito Santo ha infuso nei nostri cuori e che è una partecipazione di quell'amore infinito con cui Dio ama se stesso. Dio infonde in noi questo dono preziosissimo e noi dobbiamo accoglierlo con cuore puro, libero, per potervi aderire con tutta la forza della nostra volontà e del nostro affetto.
 
-La Messa di oggi, e precisamente l'Epistola, ci presenta
-un magnifico modello di corrispondenza alla grazia. E' l'Apostolo Paolo il quale, se nella sua umiltà si dichiara «il
-minimo degli Apostoli», esclama però con tutta sincerità:
-«Per grazia di Dio son quel che sono, e la grazia di lui verso
-di me non fu cosa vana». Paolo riconosce che, se da persecutore della Chiesa è diventato apostolo, non è per merito
-suo, ma unicamente per merito della grazia: nulla attribuisce a sè ma tutto a Dio. Nello stesso tempo, però, è conscio della sua corrispondenza, corrispondenza che è sempre
-frutto della grazia, ma che include anche, come elemento
-indispensabile, la nostra libera adesione. Dunque, alla base
-della nostra corrispondenza alla grazia dobbiamo porre un
-atteggiamento di umiltà, ossia dobbiamo riconoscere sinceramente che se qualche cosa di buono è in noi
-è dovuto unicamente a Dio, ed a questo atteggiamento dobbiamo unire l'assenso libero e costante della nostra volontà
-agli inviti divini. Senza la grazia non saremmo capaci di
-dare tale assenso e tuttavia esso dipende da noi, è in mano
-nostra. Perciò, come Paolo, non possiamo ascrivere niente
-a nostro merito, ma con lui dobbiamo ripetere: « per grazia
-di Dio son quel che sono». Però la nostra libera adesione
-alla grazia ci deve dare il diritto di soggiungere: «e la grazia di lui in me non fu cosa vana ». Ma avremo questo diritto
-solo se la nostra adesione sarà costante, fedele, generosa.
+Dio, offrendoci la sua amicizia, ci ha fatti simili a sè, trasformando il nostro essere da naturale in soprannaturale, e noi, per rispondere alla sua amicizia, dobbiamo cercare di renderci simili a lui trasformando la nostra volontà nella sua. La vera amicizia porta a comunanza di pensieri, di volontà, di affetti, di desideri, di interessi. Il vero amico fa suoi gli interessi ed i voleri dell'amico, pensa come lui, ama quello che lui ama, vuole quello che lui vuole. Così dobbiamo fare noi riguardo a Dio, se vogliamo vivere realmente da amici suoi. Gesù stesso ha detto: «Voi siete miei amici, se fate quel che vi comando» e «se uno mi ama, osserverà la mia parola» *(Gv.* 15, 14; 14, 23). Da parte nostra, perciò, l'amicizia con Dio, ossia la carità, esige una continua tendenza a conformare i nostri pensieri, voleri e desideri al pensiero ed alla volontà dell'Amico divino. La nostra amicizia con Dio sarà perfetta quando in noi non vi sarà più nulla che contrasta con i desideri ed i voleri divini, ma ci saremo in tutto adeguati ad essi e allora sarà perfetta anche la nostra unione con lui. «Lo stato dell'unione divina consiste precisamente nell'avere l'anima secondo la volontà del tutto trasformata in quella di Dio, in modo che non vi sia in lei alcuna cosa contraria alla volontà divina, ma bensì i suoi moti siano in tutto e per tutto solamente volontà di Dio» (G.C. S.I, II, 2). Perfetta carità, perfetta amicizia, perfetta unione con Dio: ecco la meta verso la quale devi tendere, avanzando sollecito con i passi dell'amore.
 
 ### Colloquio
 
-«O Signore, ormai te solo amo, te solo seguo, te solo cerco, a te solo voglio servire; Tu solo hai diritto di comandare
-ed a te solo desidero di stare soggetto. Comanda, te ne prego; imponi tutto ciò che vuoi; guarisci e apri le mie orecchie,
-perchè io possa udire i tuoi ordini; guarisci e apri i miei
-occhi, perchè io possa vedere i cenni della tua volontà; rimuovi da me la sconsideratezza, perchè ti possa contemplare
+«Tu lo sai, mio Dio, che non ho mai desiderato altro che amare te unicamente e che non ambisco altra gloria che questa. Il tuo amore mi previene sin dall'infanzia, crebbe con me ed ora è diventato un abisso del quale non posso scandagliare le profondità. L'amore trae l'amore: il mio amore si slancia verso di te e vorrebbe colmare l'abisso che l'attrae; ma, purtroppo, esso non è neanche una goccia di rugiada perduta nell'oceano. Per amarti, o Signore, come Tu mi ami devo servirmi del tuo amore; solamente allora io trovo riposo.
 
-e così adempirò, spero, fedelmente ciò che Tu mi comanderai. gi
+«L'amore! Ecco tutto quello che Tu esigi da noi. Non hai bisogno delle nostre opere, ma solamente del nostro amore..., Tu, che non hai dubitato di chiedere in elemosina un po' d'acqua alla Samaritana. Avevi sete, ma, dicendo 'Dammi da bere', era l'amore della tua povera creatura che Tu, Creatore dell'universo, chiedevi: avevi sete di amore! Oh, sì, veramente. E oggi, più che mai, sei assetato! Non incontri che ingrati ed indifferenti fra i discepoli del mondo e fra i *tuoi discepoli* trovi pochissimi cuori che si abbandonino senza riserva alla tenerezza del tuo amore infinito.
 
-«Ricevi, ti prego, questo tuo fuggitivo, o Signore e Padre clementissimo. Basti ormai ciò che ho passato, basti di
-essere stato finora zimbello d'ingannatrici vanità. Ora che
-fuggo da queste tirannie, ricevimi per tuo servo, come mi
-ricevettero esse quando da te fuggivo in loro balìa. Sento
-il bisogno di ritornare da te; ecco che picchio alla tua porta:
-aprimi, insegnami come si arriva fino a te. Altro non posseggo che la mia volontà: altro non so se non che bisogna
-disprezzare le cose passeggere e caduche per cercare le immutabili e le eterne.
-
-«Il mio desiderio è rivolto a te ed a te domando i mezzi
-per secondare questo desiderio. Se Tu ci abbandoni noi siamo perduti; ma Tu non ci abbandoni, perchè sei il sommo
-bene, e nessuno ti ha mai cercato con rettitudine senz'averti trovato... Tu lo sai, o Signore, ho il volere ma non il potere; e neppure posso volere il bene senza di te; nè posso ciò
-che voglio. se non mi aiuta la tua potenza; e ciò che posso
-alle volte non lo voglio, a meno che Tu non faccia trionfare
-la tua volontà in terra, come in cielo. Una cosa sola, dunque, invoco dalla tua somma clemenza, ed è che Tu mi converta interamente a te, impedendomi di resistere alla grazia
-che verso di te mi porta » (S. Agostino).
+«Il tuo amore misericordioso è dovunque sconosciuto, rigettato...; quei cuori ai quali vorresti farne dono generoso si rivolgono alle creature, mendicando la loro felicità al misero affetto di brevi istanti, invece di gettarsi fra le tue braccia ed accettare la deliziosa fiamma del tuo amore infinito. O mio Dio, quest'amore disprezzato rimarrà, dunque, sempre chiuso nel tuo cuore? A me sembra che se Tu travessi le anime, le quali si offrissero al tuo amore, le consumeresti rapidamente e saresti felice di non comprimere le fiamme di tenerezza infinita che in te sono racchiuse. O Gesù, sia dato a me l'essere quest'anima fortunata! Consuma nel fuoco della amore divino questa piccola ostia; il tuo amore mi penetri e mi circondi, mi rinnovi, mi purifichi ed ogni istante e non lasci nel mio cuore traccia alcuna di colpa» (cfr. T.B.G. St. 10; 11; 8).

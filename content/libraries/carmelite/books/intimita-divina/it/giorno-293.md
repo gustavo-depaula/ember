@@ -1,96 +1,23 @@
-## 293 — IL DONO DEL TIMORE
+## I — IL CORAGGIO
 
-### Presenza di Dio
-
-O Signore, fa’ ch’io tema una cosa sola: dispiacerti e separarmi da te.
+**Presenza di Dio.** — O Signore, fammi diventare un soldato forte e coraggioso nel tuo servizio.
 
 ### Meditazione
 
-1. — Lo Spirito Santo c'invita alla sua scuola: « Venite,
-figliuoli, ascoltatemi; io v'insegnerò il timore di Dio» (Sal.
-35, 12). E' questa la prima lezione che il divino Paraclito
-imparte all'anima desiderosa di santità, lezione importantissima e fondamentale perchè, infondendo nell'anima l'odio
-al peccato che è il più grande ostacolo all'unione con Dio,
-assicura lo sviluppo della vita spirituale. In questo senso la
-S. Scrittura dice: «Il principio della sapienza è il timor di
-Dio» (Ecli. 1, 16).
+**1** — Quanto più un'anima ama il Signore, tanto più sarà coraggiosa nell'intraprendere per amor suo qualsiasi opera per quanto ardua possa essere. La paura della fatica, della sofferenza, del rischio è il grande nemico della fortezza: paralizza l'anima e la fa indietreggiare di fronte al dovere. Il coraggio invece le slancia, facendole affrontare qualsiasi cosa pur di essere fedele a Dio. In questo senso il coraggio spinge ad abbracciare anche la morte, anche il martirio quando è necessario per non venir meno al dovere. Il martirio è il massimo atto della fortezza cristiana, atto che non viene richiesto a tutti e che tuttavia è bene non escludere dalla nostra visuale. Ogni cristiano è, per così dire, un martire in potenza, nel senso che la virtù della fortezza, infusagli nel battesimo e nella cresima, lo rende capace, in caso di necessità, di sacrificare anche la propria vita per amor di Dio. E se di fatto non tutti i cristiani sono chiamati a rendere al Signore questa suprema testimonianza, tutti però devono vivere da soldati coraggiosi, abituandosi a non disertare mai — né in poco né in molto — il proprio dovere per timore del sacrificio.
 
-Per educarci al timore di Dio, lo Spirito Santo, più
-che metterci davanti la visione dei castighi e delle pene dovute al peccato, più che presentarci Dio come un giudice se-
-vero, ci mostra Dio quale Padre amantissimo, infinitamente
-desideroso del nostro bene e ci presenta il quadro commovente dei suoi benefici, delle sue misericordie. « Dio ti ha amato
-con amore eterno e per questo ti ha attirato a sè — sussurra
-in fondo all'anima nostra — Non sei servo, ma amico, ma
-figlio» (cfr. Ger. 31, 3; Gv. 15, 15). Così, presa d'amore per
-un Padre tanto buono, l'anima nulla più desidera che ricambiare il suo amore, che fargli piacere e vivere sempre uni-
-ta a lui; di conseguenza nulla più teme del peccato che contrista Dio ed ha il triste potere di separarla da lui. Quale
-differenza fra questo timore filiale, frutto dell'amore, e il
-timore servile, Frutto della paura del castigo! E' vero, anche
-il timore del giudizio e dei castighi divini è salutare ed in
+È vero, la virtù della fortezza non ci esenta dalla paura e dallo sgomento che invadono la nostra natura di fronte ai sacrifici, ai pericoli e soprattutto di fronte al pericolo della morte; però la fortezza — come tutte le altre virtù — si esercita con la volontà, quindi è possibile compiere atti di coraggio malgrado la paura che invade la parte sensibile. In questi casi il coraggio adempie una doppia funzione: vince la paura ed affronta il dovere difficile. Tale fu il supremo atto di fortezza compiuto da Gesù nell'orto degli ulivi quando, nonostante lo sgomento della sua umanità, accettò di bere l'amarissimo calice della sua Passione. Proprio associandoci a quest'atto del Salvatore, troveremo la forza per abbracciare qualsiasi dovere sacrificante.
 
+**2** — Anche chi è timido per natura può diventare coraggioso per grazia; ma non bisogna pretendere che la grazia agisca senza la nostra collaborazione. La virtù della fortezza è stata data a tutti i cristiani, e in questo senso è virtù infusa, ma spetta a noi metterla in atto mediante l'esercizio, e in questo senso deve diventare virtù acquisita. Del resto, è per tutte le virtù teologali e morali infuse nell'anima assieme alla grazia: sono capitali che fruttano solo se li sappiamo impiegare con buona volontà.
 
-certi casi può molto servire a trattenere l’anima dal peccato;
-però, se non si muterà un po' alla volta in timore filiale, non
-sarà mai sufficiente a spingere l’anima alla santità. Il puro timore servile agghiaccia l’anima e la rende gretta, mentre il
-timore filiale la dilata, la slancia nella via della generosità e
-della perfezione.
-
-
-2. — Il dono del timore perfeziona ad un tempo la virtù
-della speranza e quella della temperanza. Oggetto della speranza pari possesso di Dio e la EA eterna; il dono
-del timore, facendoci fuggire con ogni cura la più piccola offesa di Dio, ci mette nelle condizioni migliori per sperare
-l'unione beatificante del cielo e per ottenere i mezzi necessari
-onde conseguirla.
-
-Oggetto della temperanza è il freno delle passioni e dell’attrattiva verso il piacere sensibile; il dono del timore per-
-feziona questa virtù rendendoci maggiormente generosi nel
-mortificare i nostri sensi e le nostre passioni. Sospinti da questo santo timore, saremo più che mai attenti a non lasciarci
-minimamente trascinare dal desiderio della nostra soddisfazione e saremo pronti ad affrontare qualsiasi rinuncia pur di
-non dare il più piccolo disgusto al Padre celeste. « Molto meglio dispiacere a me che dispiacere a Dio», ripete l’anima
-sotto l'influsso di questo dono.
-
-Lo Spirito Santo, più che farci temere Dio, ci fa, dunque temere noi stessi, la nostra cattiva volontà e le nostre
-passioni, che, essendo causa del peccato, possono metterci in
-perio di offendere Dio, di separarci da lui o, per lo meno,
-
-li non vivere abbastanza uniti a lui. Non si tratta però di
-un timore che genera inquietudine e scrupoli, ma di un timore congiunto all'amore, alla confidenza e che perciò spinge
-l'anima a mettersi totalmente nelle mani di Dio, affinchè
-Egli la preservi da qualsiasi ombra di peccato. Ma, pur
-slanciandola con immensa fiducia fra le braccia del Padre
-celeste, il dono del timore le infonde anche un senso di rispettosa riverenza verso la sua Maestà infinita: l'anima sente
-
-
-che Dio, per la sua dignità immensa, è sommamente distante da lei, ma sente anche che, per il suo amore misericordioso,
-le si è fatto tanto vicino da invitarla a vivere nella sua intimità. Fra queste alternative di riverenza filiale e di fiducia
-confidente il dono del timore matura a sboccia nell'amore
-persia «Quando l’anima giunge ad avere con perfezione
-lo spirito di timore, ha conseguito già perfettamente lo spirito d'amore; in quanto che quel timore, che è l’ultimo dei
-sette doni, è un timore filiale, e il timore perfetto di figlio
-nasce dall'amore perfetto verso il padre» (G.C. C. 26, 3).
+Come si diventa umili facendo atti di umiltà, così si diventa forti e coraggiosi facendo atti di coraggio. Non sta a noi evitare la paura sensibile che, derivando dal temperamento, subiamo nostro malgrado, ma sta a noi impedire che invada la volontà, paralizzando i nostri movimenti. Occorre perciò reagire energicamente buttandoci in nome di Dio a fare quanto dobbiamo, senza fermarci a discutere con la paura. «Molte anime dicono: io non ho forza per compiere il tale sacrificio. Ma, suvvia, facciamo, degli sforzi! Dio non rifiuta mai la prima grazia che conferisce il coraggio di agire, dopo di che il cuore si fortifica e si va di vittoria in vittoria» *(T.B.G. NV.).* È proprio così, per diventare coraggiosi bisogna decidersi ad operare malgrado gli sgomenti ed i timori della natura. Ciò è particolarmente necessario in quelle circostanze in cui, o per la debolezza fisica o per la privazione del sostegno sensibile della grazia, anche le più piccole difficoltà ci sembrano montagne e tutto ci spaventa; ché, se aspettassimo ad agire solo quando sentissimo di averne il coraggio, non verremmo mai a capo di nulla. «Che importa — diceva la Santa di Lisieux ad una novizia — se non ha coraggio, purché agisca come se l'avesse?» *(CR.).* Gli atti di coraggio compiuti senza averne la forza sono più puri e più soprannaturali: più puri perché non danno luogo a sentimenti di orgoglio, più soprannaturali perché si basano non sulle risorse della natura, ma unicamente su quelle della grazia. Invece gli atti di coraggio compiuti per disposizione naturale rimangono molto spesso semplici atti umani e sono facile esca all'amor proprio. Perciò, chi è forte per natura deve imparare a non fidarsi della sua fortezza, ma ad appoggiarsi a Dio ed alla sua grazia, senza di che ogni fortezza umana è estrema debolezza.
 
 ### Colloquio
 
-« Dio mio, per quanto io desideri d'amarti, per quanto
-conosca le vanità del mondo ed a queste preferisca il tuo servizio, pure, finchè sono quaggiù, non posso ritenermi si-
-cura di non tornare ad offenderti. Siccome è così, che altro
-posso fare se non ricorrere a te e supplicarti che.i miei ne
-mici non mi traggano in tentazione? Come potrei scoprire le
-loro insidie? Oh, mio Dio, come ho bisogno del tuo aiuto!
-Signore, dimmi qualche tua parola che porti in me la luce e
-la sicurezza! Degnati d'insegnarmi qualche rimedio per mettermi al riparo dagli assalti di questa guerra tanto pericolosa!
-E Tu stesso mi dici che il rimedio uaica e timore. L'amore deve farmi accelerare il passo, il timore deve indurmi a
-guardare dove metto i piedi per non cadere. Dammeli tutti
-e due, o Signore, giacchè l'amore e il timore sono due fortissimi castelli dall'alto dei quali potrò vincere ogni tenta-
-zione. Sostienimi Tu, Dio mio, in modo che per tutto l'oro
-del mondo non commetta mai avvertitamente nessun peccato veniale, per piccolo che sia » (cfr. T.G. Cam. 39, 4 e 6;
-40, 1-2; 41, 1 e 3).
+«O Signore, Dio degli eserciti, che nel tuo Vangelo dicesti: "Non sono venuto a portare la pace, ma la guerra", dammi le forze e le armi per la lotta. Io ardo dal desiderio di combattere per la tua gloria, ma, te ne supplico, fortifica il mio coraggio. Allora col santo re Davide potrò esclamare: "Tu solo sei il mio scudo; sei Tu, Signore, che addestri le mie mani alla guerra".
 
-«Mio Signore e mio Dio, tutto il mio bene è starmene
-unito a te e porre in te tutta la mia speranza. Abbandonata
-a se stessa, l’anima mia non sarébbe se non un soffio che si
-dilegua e non ritorna. Senza di te non posso operare il bene, nè star saldo nel bene; senza di te non posso amarti, nè
-piacerti, nè evitare quel che ti dispiace. Mi rifugio, dunque,
-in te, mi abbandono a te, perchè Tu mi sostenga con la tua
-potenza, mi trattenga col tuo vigore e non permetta giammai
-che io mi separi da te» (cfr. S. Bernardo).
+«O mio Gesù, combatterò per amor tuo sino alla fine della mia vita e la mia spada sarà l'amore.
+
+«La mia impotenza non mi deve sgomentare; quando al mattino mi sento priva di coraggio e di ogni forza per praticare la virtù, devo considerare ciò come una grazia, perché Tu mi insegni che proprio quello è il momento di porre la scure alla radice dell'albero, contando solo sul tuo aiuto.
+
+«Dove sarebbe il mio merito se dovessi combattere unicamente quando ne sento il coraggio? Che importa se non ne ho, purché agisca come se l'avessi? O Gesù, fammi ben comprendere, che se mi sentissi troppo debole anche per raccattare una sola gugliata di filo e, tuttavia, lo facessi per amor tuo, meriterei molto di più che se compissi un'azione considerevole in un momento di fervore. Dunque, invece di rattristarmi, devo rallegrarmi vedendo che Tu, lasciandomi sentire la mia debolezza, mi porgi occasione di salvarmi un maggior numero di anime» *(T.B.G. Preghiera; Lt.; CR.).*

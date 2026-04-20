@@ -1,129 +1,25 @@
-## 101 — L'ESAME DI COSCIENZA
+## 25 — IL PECCATO VENIALE
 
-### Presenza di Dio
-
-— O Signore, proietta sull'anima mia un raggio della tua luce, affinchè io possa vedermi come Tu stesso mi vedi e mi giudichi.
+**Presenza di Dio.** — *Infiammami, o Signore, col tuo santo zelo affinché non sappia tollerare in me la più piccola cosa che ti dispiaccia.*
 
 ### Meditazione
 
-1 — Per assicurare alia vita spirituale un ben ordinato
-e progressivo sviluppo, è necessario prendere coscienza
-delle proprie posizioni, ossia dei propri peccati, dei punti
-deboli, delle tendenze cattive, come pure dei progressi
-realizzati, dei buoni risultati ottenuti, delle tendenze al
-bene. Questa presa di coscienza del proprio stato interiore
-si fa appunto per mezzo dell'esame di coscienza che, così
-considerato, costituisce uno dei più importanti esercizi
-della vita spirituale, giacchè ha lo scopo di aiutare l’anima
-ad eliminare tutto pr che può ostacolare o ritardare il suo
-cammino verso Dio e di spronarla ad accelerare il passo
-verso di lui. Come non si può muover guerra ad un nemico
-ignoto e non si può conquistare una regione sconosciuta,
-così non si può combattere in noi il male, se prima non
-l'abbiamo individuato, e non si può conquistare la santità
-senza aver studiato il piano più adatto per conseguirla. In
-altre parole, l'esame di coscienza raggiunge il suo scopo
-uo l’anima che vi si è applicata può dire a se stessa:
-queste sono le tendenze che devo maggiormente sorvegliare per non cadere nel peccato, questi i punti deboli
+**1** — Benché in materia più lieve, anche il peccato veniale, come quello mortale, va contro la volontà di Dio e quindi, pur non distruggendo la carità, va in direzione opposta ad essa, con conseguenza di diminuirne lo slancio, il vigore e di impedirne lo sviluppo. Questo è il disastroso effetto dei peccati veniali deliberati, ossia commessi ad occhi aperti, pur sapendo di far cosa che dispiace a Dio.
 
+Tale specie di peccati veniali, quando sono commessi abitualmente, diminuiscono la tendenza dell'anima verso Dio e invece aumentano la tendenza verso la soddisfazione egoistica, verso le creature. E così, un po' alla volta, l'anima perde il fervore, perde la sensibilità all'offesa di Dio e si riduce allo stato di tiepidezza, caratterizzato appunto da una certa indifferenza per il peccato veniale; indifferenza che la mette in pericolo di offendere Dio anche in materia grave. È in questo senso che il peccato veniale può essere paragonato ad una malattia sottile, insidiosa — una specie di tubercolosi spirituale — che lentamente, ma fatalmente, mina l'organismo. Non è raro il caso di anime che, datesi in principio a Dio con sincero fervore, col passare del tempo, cedendo all'egoismo, alla pigrizia, al proprio comodo, non sapendo imporsi sforzi generosi per procedere nel cammino intrapreso, si lasciano andare a continue negligenze, svogliatezze, omissioni volontarie, atti di pigrizia. La loro vita spirituale si riduce ad una specie di letargo che non è ancora la morte, ma che non ha più nulla della freschezza, del vigore di una vita sana e robusta. Manca il fervore della carità, spento da continue, deliberate condiscendenze al peccato veniale.
 
-27 + L'ESAME DI COSCIENZA 97
+S. Teresa di Gesù, mettendo in guardia da simile stato, insegna: « Quando non sentite alcuna pena per un difetto che vi succede di commettere, temete, perché il peccato, sia pur veniale, vi deve penetrare di dolore fino al profondo dell'anima... Per amore di Dio, vegliate attentamente a non mai commettere un sol peccato veniale avvertito, ancorché piccolo... E che cosa vi può mai essere di piccolo, nell'offesa di una Maestà così grande? » (P.2, 5 e 20; Cam. 41, 3).
 
+**2** — Ben diversi sono i peccati veniali che ci sfuggono per fragilità, per inavvertenza. Spesso l'anima non vorrebbe cedere a nessun costo, ma, poiché è ancora debole, al momento della tentazione, soprattutto se è colta di sorpresa, cade; tuttavia, appena se ne avvede, ne prova un sincero dolore, subito se ne pente, domanda perdono al Signore, si rialza e si mette di nuovo in cammino. Tali peccati non portano gran danno all'anima, ma sono piuttosto indice della sua debolezza, della sua immaturità spirituale. Anzi, se di fronte a tali cadute l'anima sa umiliarsi sinceramente, ne ricava un vero vantaggio, e precisamente una più profonda coscienza della sua miseria che la porterà a diffidare totalmente delle proprie forze, e a riporre in Dio solo tutta la sua fiducia. Sperimenterà in pratica la grande realtà delle parole di Gesù: « Senza di me, non potete far nulla » (Gv. 15, 5). Non di rado il Signore permette simili cadute, appunto per dare all'anima questa conoscenza pratica del suo nulla, per fondarla seriamente nell'umiltà, che è la base di ogni vita spirituale.
 
-che devo rafforzare e, d’altra parte, queste sono le tendenze buone che devo coltivare, queste le virtù in cui devo
-maggiormente esercitarmi. In val modo l’anima potrà formulare propositi pratici ben determinati, che diventeranno
-poi particolare oggetto dei suoi ulteriori esami.
+S. Teresa del Bambino Gesù, parlando di tali mancanze, credeva di poter asserire che « non fanno dispiacere al Signore », appunto perché non dipendono dalla cattiva volontà, che, ad occhi aperti e a mente fredda, commette il peccato, ma piuttosto dalla debolezza della natura umana.
 
-chiaro che anzitutto dovranno essere ben conosciute e combattute le tendenze che possono portare al
-peccato mortale, ma poi anche quelle che conducono al
-peccato veniale o a semplici imperfezioni volontarie. Tutto
-ciò che è mancanza volontaria va progressivamente, ma
-decisamente, eliminato da un’anima che vuol giungere all'unione con Dio.
-
-
-2 — Nei suoi esami di coscienza, un’anima di vita
-interiore — supponendo che sia ormai libera dal peccato
-mortale — più che andare in cerca di tutte Je mancanze
-commesse, dota fissare la sua attenzione sul grado di volontarietà che vi è in esse, anche quando si trattasse di
-semplici imperfezioni, perchè sono appunto le mancanze
-deliberate che più impediscono il progresso spirituale e
-l’unione con Dio. Di tali mancanze dovrà cercare accuratamente la causa, il motivo, ed in tal modo spesso si
-renderà conto che, mentre le sue colpe esterne sono di
-vario genere — per esempio mancanze di carità, di pazienza, di obbedienza, di sincerità — tutte però proven-
-fono da un'unica causa; ad esempio dall’orgoglio o dal-
-
-‘accidia, che ne è Ja comune radice. Ed è proprio contro
-este ultime radici dei nostri peccati e imperfezioni che
-obbiamo puntare gli sforzi: bisogna combatterle direttamente non solo cercando di rintuzzarle con Ja mortifi-
-cazione, ma anche sviluppando in noi le virtù contrarie.
-i tratta, in altri termini, della lotta contro il difetto: 0 la
-ione dominante; lotta importantissima, perchè, mirando a distruggere il male nella sua radice, viene di per sè
-‘ad eliminare tante mancanze attuali.
-
-Quando poi l’anima non ha più da rimproverarsi peccati ed imperfezioni propriamente deliberati, deve rivol-
-
-
-gere la sua attenzione a quelli semiavvertiti, di cui, pur
-avendo una semicoscienza o coscienza confusa, non riesce
-ancora a liberarsi, malgrado i sinceri e ripetuti propositi
-di correggersi. In questi casi, oltre che continuare a combattere contro le radici delle proprie mancanze, è molto
-utile rafforzare sempre più il Jprgpostto di vincersi, perchè
-a misura in cui la volontà è decisa a correggersi, le mancanze che ancora sfuggono perdono di volontarietà e
-gue diventano sempre più evi, anzi spesso non sono
-
-e residui puramente naturali di abitudini contratte, ma
-già detestate.
-
-Altro punto importante da tener sempre presente nell'esame di coscienza è quello di sorvegliare e tener desta
-la tendenza verso la santità, il desiderio di far sempre quel
-che più piace a Dio, perchè questa è la molla della vita
-spirituale, della generosità. Come pure è ottimo metodo
-quello di esaminarsi più dal punto di vista di Dio che dal
-nostro, ossia domandarsi se il Signore può essere contento
-di noi e quale sarà il suo giudizio sulla nostra condotta.
+Se per la nostra debolezza è impossibile non cadere ogni giorno in qualche venialità di sorpresa o di fragilità, l'importante è di saperle subito detestare e riparare generosamente. Ma quanto ai peccati veniali avvertiti, l'anima deve essere ben decisa a non commetterne mai per tutto l'oro del mondo.
 
 ### Colloquio
 
-«O Dio dell'anima mia, chi sono io e quale? C'è colpa
-che non sia stata nelle mie azioni o, se non nelle mie azioni, nelle mie parole 0, se non nelle mie parole, nella miu
-volontà? Ma Tu, o Signore, sei buono e misericordiosa è
-la tua destra.
+« *Peccavi, Domine, miserere mei!* Perdona, Padre, perdona a me miserabile ingrata. Confesso che la tua bontà mi ha conservata tua sposa, benché per i miei difetti sempre ti sia stata infedele. *Peccavi, Domine, miserere mei.* O anima mia, e che fai tu? Non sai che continuamente sei veduta da Dio? Sappi che all'occhio suo mai non ti puoi nascondere perché niuna cosa gli è occulta... O Dio eterno, o pietoso e misericordioso Padre, abbi pietà e misericordia di noi, perché noi siamo ciechi e senza verun lume è massimamente io, misera e miserabile... O Tu, vero sole, entra nell'anima mia e la illumina di te. Cacciarne le tenebre e dalle luce; distruggi il gelo dell'amor proprio e infondi il fuoco della tua carità... *Peccavi, Domine, miserere mei* » (S. Caterina da Siena).
 
-«O Medico dell'anima mia, rivelami i frutti della mia
-confessione, Io mi confesso, perchè la confessione de’ miei
-mali... risvegli il mio cuore, che non s'addormenti; ma pur
-dicendo mon mi sento capace; si ridesti nell'amore della
-tua misericordia e nella dolcezza della tua grazia, per la
-quale ogni spirito infermo si sente forte e diviene consapevole della sua debolezza.
+« Ti piaccia, o Signore, che io tema soltanto la tua offesa, convincendomi che mi può venire gior danno da un sol peccato veniale deliberato che non da tutto l'inferno » (T.G. Vi. 25, 20). Infatti, il vero male, l'unico che devo temere, non sono né la tentazione, né le prove, né le contrarietà interne ed esterne, né la perdita dei beni materiali o della salute corporale, ma il vero male è ciò che può ostacolare in qualsiasi modo la mia unione con te, mio sommo Bene! E questo male, lo comprendo, può essere causato da un solo peccato veniale deliberatamente commesso. O Gesù, te ne supplico, per i meriti della tua Passione, liberami da tanto male, toglimi la triste capacità di offenderti e, se per la mia nativa debolezza mi è impossibile andare esente da ogni mancanza, fa' che queste non siano mai frutto di cattivo volere. Fa' che le mie mancanze servano solo ad umiliarmi, senza mai offenderti.
 
-«Ti amerò, o Signore, e ti renderò grazie ed esalterò
-il tuo nome; perchè mi perdonasti tante cattive azioni, Fu
-opera della tua grazia e della tua misericordia, se i miei
-
-
-27) L'ESAME DI COSCIENZA 7 9
-
-
-peccati sciogliesti come ghiaccio. Opera della tua grazia
-è pure tutto il male che non ho fatto. C'era peccato che
-io non sapessi commettere, i0 che ho amato la colpa perfino gratuitamente? E confesso che tutti i peccati mi fu-
-rono perdonati e quelli che spontaneamente commisi, e
-quelli che, col tuo aiuto, non commisi » (S. Agostino).
-© mio Dio, che con un solo atto della tua volontà
-‘hai creato la luce e la luce fu, ripeti su di me la tua onniportato parola creatrice: « fiat lux» e si farà luce nel-
-‘anima mia e nella luce tua potrò vedermi quale realmente
-sono al tuo tto. Ma la luce non basta a me, tanto
-debole e fiacco; ho bisogno di forza, o Signore; ho bisogno
-di volontà forte e decisa per detestare ogni forma di male,
-per detestare il mio egoismo, il mio orgoglio, la mia accidia, per rinnovare e rafforzare il proposito di vincermi
-per amor tuo. Sì, o Signore, col tuo aiuto voglio vincermi,
-non per la vana soddisfazione di sentirmi migliore, ma
-unicamente per farti piacere, per evitare la più piccola
-cosa che a te dispiaccia, per crescere nel tuo amore, per
-addentrarmi sempre più nella tua unione. O mio Dio, Perfezione infinita, avvolgi e penetra l’anima mia col riflesso
-della tua santità e come il sole col suo raggio illumina,
-purifica e feconda la terra, così. Tu illumina, urifica,
-santifica tutto il mio essere. Insegnami a guardarmi in
-te, a conoscermi in te, a considerare Je mie miserie al
-riflesso delle tue perfezioni infinite, a spalancare l’anima
-mia all’invasione della tua luce purificatrice, santificatrice.
+« Sì, per la mia miseria cado molto spesso, spesso mi lascio distrarre dalla mia unica occupazione, mi allontano da te, bagno le mie deboli ali, appena formate, nelle misere pozze d'acqua che incontro su questa terra! Gemo allora come la rondinella, ed il mio grido ti dice tutto, e Tu, Misericordia infinita, ti ricordi che non sei venuto a chiamare i giusti, ma i peccatori » (T.B.G. St. 11).

@@ -1,128 +1,126 @@
-## 108 — HUMILIATIONS
+## 106 — HUMILITY AND TRUST
 
 ### Presence of God
 
-— O Jesus, humbled for me even unto abjection, teach me to humble myself for love of You.
+— From the depth of my nothingness I cry to You, O Lord; Lord hear my voice... I trust in You.
 
 ### Meditation
 
-1 — Many like to be humble, but few like to be
-humbled; many with fervent prayers ask God for humility, but very few ask for humiliation, and yet without
-humiliation it is impossible to attain humility,
-because, as study is the means to acquire knowledge,
-so humiliation is the means to acquire humility.
-
-As long as you desire humility but do not know how to accept humiliations, you cannot think yourself on the way of true humility;
-and even if in certain encounters you know how to behave humbly, it is more superficial and apparent humility than
-real and profound humility. Humility is truth and therefore tells you
-that, having of your own only sin, by right of
-justice what belongs to you is only humiliation and contempt. If
+1 — Christian humility does not depress, but lifts up,
+does not cast down, but encourages, because the more it unveils to the soul
 
 
-you were really convinced of this, you would find very just
-that all should humble you, treat you badly, despise you.
-For in fact, what honors and regards does one deserve who has
-offended his Creator, when one single sin, even
-venial, is more deplorable and merits greater contempt than
+its nothingness, its lowliness, the more it launches it toward God,
+full of trust and confidence. The very fact
+that in everything - in being and in acting, both in the natural order and in
+the supernatural - we depend on Him and cannot do anything without Him, tells us that God wills to sustain us continually
+with His help, with His grace. Consequently,
+the relations of a humble soul with God will be those
+of a child who trustfully awaits everything
+from his father. This is the teaching Jesus wanted
+to give the Apostles when they asked Him who would be greatest
+in the kingdom of heaven: "Truly I say to you:
+unless you turn and become like little children,
+you shall not enter the kingdom of heaven. Whoever therefore makes himself little like this child, shall be greatest in the kingdom of heaven" (Mt. 18, 3-4).
+To become children - explains St. Therese of the Child Jesus -
+"means to recognize one's nothingness,
+to expect everything from the good God as a child expects
+everything from his father... Even among the poor,
+the child is given what is necessary; but when he has
+become grown, his father no longer wishes to maintain him
+and says: 'Now work! you can provide for yourself.' Precisely so as not to hear these words,
+I have never wanted to become grown, recognizing myself absolutely incapable of earning my life,
+eternal life!" (CR. and NV.).
+
+For the soul that, humbly recognizing its poverty,
+turns to God with full trust, God is a most tender
+Father who delights to fill it with His gifts and to do
+for it what it by itself does not know how to do. Then the one who is smallest - that is, most convinced of his own nothingness - becomes the greatest,
+because he has at his disposal the greatness of
+God Himself.
 
 
-any state of misery, poverty, or earthly ignobility?
-
-Deeply persuaded of this, the Saints never
-considered humiliations inflicted on them too grave,
-indeed they always found them inferior to what they thought they
-deserved. "I have never heard so much evil said of me -
-said St. Teresa of Jesus - without seeing at the same time that
-it was still too little. If they accused me falsely on
-one point, I saw that I had offended the Lord on many
-others and that they did me a great charity by not speaking of them"
-(Way 15, 3).
-
-"Have patience, then, in your humiliations, because,
-as gold is tested by fire, so man in the crucible
-of humiliation" (cf. Sir. 2, 4 and 5). If you feel the weight of
-your pride and truly desire to be freed from it, accept
-every humiliation and through them the Lord will break your pride.
+2 — God does not introduce souls into a higher
+spiritual life, does not admit them to greater intimacy with Him,
+until He finds them completely stripped of every trust
+in themselves. When a soul, practically forgetting
+its nothingness, trusts even a little in its own strength,
 
 
-2 — Rather than seek humiliations on your own initiative,
-dispose yourself to accept well those inflicted on you
-against your liking. Because, while in humiliations you
-impose on yourself there can be mingled a subtle pride - as
-would be, for example, wanting to be held humble -
-such danger does not exist at all for humiliations that,
-despite yourself, come to you from others. Even in this case,
-in order to produce its fruit, humiliation must be
-accepted voluntarily. In fact, it is not humiliation in itself
-that makes you humble, but the act of will with which you accept it. St. Bernard teaches that it is very different to be humiliated and to be humble.
-One can say that, in one way or another,
-everyone meets humiliations in life, yet few are
-those who become humble, precisely because few are those
-who accept humiliation and submit to it with
-patience.
+its knowledge, initiatives, virtues, God leaves it
+to itself; the failures that follow, relapses,
+the sterility of its works will lay bare
+its insufficiency. And the more tenacious the soul is in
+trusting itself, the longer the Lord will prolong for it this
+practical experience of its nothingness.
 
-What use is it to receive humiliations if, instead of accepting them,
-you react and reject them with resentment,
-with annoyance, and grow indignant against those who procure them?
+St. Teresa of Jesus, speaking of her definitive and total
+conversion, confesses that what prevented her from overcoming
+the final obstacles was precisely a residue of trust she
+still had in herself: "I was wrong not to place in the
+Lord all my trust and not to distrust my
+own powers enough" (Life 8, 12). Trust in God grows in proportion
+to distrust of self and becomes total when the soul, having understood deeply its nothingness, has lost every trust
+in its personal resources. The soul then experiences the
+reality of Jesus' word: "When you have done all
+that is commanded you, say: 'We are unprofitable servants'"
+(Lk. 17, 10) and, though it has greatly exercised itself in interior life, prayer, and virtue, it knows it cannot count
+at all on its own strength, knows that though it has labored for
+the glory of God, it cannot at all count on its works;
+and therefore it counts totally and solely on God's mercy and
+grace: "Non habeo fiduciam nisi in tua misericordia." Its trust is in Jesus' infinite merits,
+in the merciful love of the heavenly Father and in the work
 
-Certainly, humiliation cannot be pleasing to our
 
-
-proud and touchy nature; nevertheless, though feeling
-its bitterness, you must strive to accept it willingly,
-repeating in your heart: good for me, O Lord, that I have
-been humbled. If, despite all the repugnances and resentments
-of nature, by an act of will you submit to humiliation and protest to God that you want to be content with it and
-want to taste it to the full, little by little you will become humble. Little by little the hard and bitter bread
-of humiliations will become sweet and gentle to you; but to this
-gentleness one arrives only after long exercise,
-for besides, what counts most is not gentleness,
-but the will to accept all that
-humiliates us. "Let yourself be taught, let yourself be commanded, let yourself be subjected and
-you will be perfect" (J.C. S.C. II, 33).
+of grace; and this trust renders it more than ever courageous and bold, because it knows that with God all is possible.
 
 ### Colloquy
 
-"O Lord, what injury can ever be done to a
-person like me who has deserved to be tormented by
-demons for all eternity? If they treat me badly in this world, is it not perhaps with justice? Truly, O Lord,
-in this respect I really have nothing to offer You... I acknowledge myself so guilty before You that I see those who
-injure me still treat me too well, when,
-not knowing who I am, as You know me,
-they believe they offend me" (T.G. Way 36, 2).
-
-My God, it is very true! the only thing that to me, a sinner,
-belongs by right is humiliation, injury, contempt.
-And yet how reluctant and excessively sensitive I am before
-all that wounds my pride! You know it,
-my God, how much I desire to be stripped of my
-pride; and I can well say that, with the help of Your grace,
-I detest it and nothing in me seems more hateful. Yet
-I do not know how to accept the remedy You present to me.
-How shall I have courage, Lord, to ask You for humiliations,
-when so many times I have rejected them, turning them from medicine into occasion for new acts of pride?
+"What pleases Jesus - says the Saint of Lisieux -
+is to see me love my littleness and my poverty; it is the
 
 
-How many times, instead of seeing in humiliations the remedy You procured for me to heal me of pride,
-my gaze has stopped at the creatures of whom You made use
-to humble me and I have become irritated,
-angry against them,
-I have rebelled as before an injustice. How
-blind I am, O Lord, how I have strayed from Your ways!
-Come give light again to my soul, come place me
-in truth, come lead me back on the good and sure
-way of humiliations.
-
-I do not ask You for particular humiliations, but I ask You to dispose my heart to accept well those which in Your
-love and in Your infinite mercy You have prepared on my path from eternity. You have prepared the medicine suitable to my pride; if until today I have so often refused to put my lips to it, now help me
-not to let even the smallest portion escape me any more. I am
-sick, O Lord, and as the sick man desires the medicine
-that heals him and swallows it even if bitter, so I,
-sustained by Your grace, want to accept,
-want to drink to the last drop every humiliation.
-But help me Yourself,
-O sweetest Jesus who willed to know humiliation,
-because without You I know only how to fail in my
+blind hope I have in His mercy. This is my
+only treasure" (Lt. 176).
 
 
-resolutions.
+"I recognize it, O Lord, I am very weak and every
+day I make new experience of it. But You deign
+
+
+to teach me that science which makes me glory in my infirmities.
+This is a very great grace, and in it alone
+I find peace and rest of heart, because I have now understood Your way: You give as God knows to give, but You want humility of heart" (cf. T.B.G. Lt. 87 and 140).
+
+O Lord, Your light penetrates my soul and makes me
+understand how far my ways are from Yours!
+Instead of being irritated by my miseries, instead of being cast down
+by my falls and failures, instead of pretending
+to succeed in everything and accomplish great things, I must
+accept humbly to see myself so weak, so needy,
+so much in need of Your help.
+
+For a soul that loves You, my God,
+how sweet it is to need You, so as to be unable to do anything without You!
+It is sweet, because this tells me that You
+wish continually to intervene in my poor life, that You wish continually to sustain me by Your grace,
+that You will never abandon me, not even for the first moment. And to give me the abundance of Your divine helps,
+You await only that I place myself before You in the humble and trusting attitude
+of a child who, unable to rely on his own strength and resources, expects everything from his father. You await
+that, profoundly convinced of my nothingness, I accept and
+love to feel myself nothing, so that You may be my All.
+
+Strip me, O Lord, strip me of every residue of trust in myself. If every man is like the grass of the field
+that today is and tomorrow is no more, what greater folly
+can there be than to count on the strength of a blade of grass? Heal me, O Lord, of such folly and place me, I beg You,
+in truth. O You who are Truth, sanctify me in truth,
+in the truth of my nothingness.
+
+You alone are good, my God, and You alone can make me
+good; You alone are just, and You alone can justify me. You
+alone are holy, and You alone can sanctify me. The less
+I can expect from myself, the more I can and want to expect
+from You; from You good will and constancy,
+from You strength and patience, from You purity and goodness,
+from You virtue and holiness. From me nothing, and from You all. O Lord, hasten to
+come to my aid: my nothingness invokes You, my misery sighs for You!

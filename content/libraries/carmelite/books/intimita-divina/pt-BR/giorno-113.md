@@ -1,144 +1,113 @@
-## 113 — ESCONDER-SE DE SI MESMO
+## 111 — O ÚLTIMO LUGAR
 
 ### Presença de Deus
 
-— Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.
+— Ó Jesus, que disseste: "Não vim para ser servido, mas para servir" (cf. Mc. 10, 45), ensina-me a amar o último lugar.
 
 ### Meditação
 
-1 — Para entrar na plenitude da vida escondida, não
-basta esconder-se aos olhares alheios; é preciso esconder-se também de si
-mesmo, isto é, esquecer-se, evitando toda preocupação e
-retorno egoístico sobre si. Pode-se estar preocupado consigo de
-um ponto de vista material, grosseiro, mas pode-se estar assim
-também de um ponto de vista espiritual. Preocupar-se demais
-com o próprio progresso espiritual, com as consolações que Deus
+1 — Jesus não só com palavras, mas também com o exemplo nos mostrou que veio não para ser servido,
+mas para servir; e quis reservar este exemplo para a véspera de sua Paixão, quase para no-lo deixar em testamento,
+junto com seus últimos e mais preciosos ensinamentos. Antes de instituir a Eucaristia,
+Ele, como um escravo qualquer, "começou a lavar os pés dos discípulos" e, quando terminou, disse: "Eu vos dei o exemplo,
+para que também vós façais como eu vos fiz",
+porque "o servo não é maior que o senhor, nem o apóstolo
+maior que aquele que o enviou" (Jo. 13, 15 e 16). O
+ensinamento é claro: se queres ser verdadeiro discípulo de
+Jesus, deves como ele humilhar-te; e considera que aqui não se
+trata só de humilhar-te diante de Deus, mas também diante do
+próximo. Considerar-te servo nas tuas relações com Deus
+não é difícil, mas considerar-te servo e comportar-te como tal
+nas tuas relações com o próximo é mais difícil. Mais difícil
+ainda é deixar-te tratar como servo, isto é, sem atenções,
 
 
-concede ou não, com o próprio estado de aridez etc.,
-é muitas vezes indício de um sutil egoísmo espiritual,
-é indício de uma alma mais ocupada de si que de Deus.
-É então o caso de aprender
-a esquecer-se, a esconder-se de si mesmo, não querendo examinar demais
-o que passa no próprio interior, não lhe dando
-importância excessiva e renunciando também à satisfação
-de querer dar-se conta do próprio caminho interior. E
-é bom saber que não raramente Deus permite estados penosos e
-obscuros, justamente porque quer que a alma viva escondida de si
-mesma. Precisamente aqui ia terminar o programa de
-escondimento de S. Teresa Margarida, a qual não só
-pretendia "viver por assim dizer, invisível e não observada"
-entre suas coirmãs, mas "ainda ser de certa maneira
-oculta e ignota a si mesma, morrer a si sem
-sabê-lo e sem gozar qualquer prazer desta morte
-mística espiritual, sepultando em Cristo todo pensamento
-e todo reflexo, também espiritual e eterno, de si,
-de um modo subtilíssimo". É este o propósito explícito da completa
-esquecença de si, que abrange também a renúncia
-à satisfação espiritual de dar-se conta da própria
-imolação. Mas para evitar voltar sobre
-si, a alma deve necessariamente polarizar alhures suas
-aspirações; por isso o exercício negativo de não pensar
-mais em si deve ir de par com o positivo
+sem consideração alguma, também por quem te é inferior.
+E no entanto Jesus, infinitamente superior a todos, quis ser
+tratado não só como servo, mas como escravo e também como
+malfeitor.
+Como diante de Deus a humildade te coloca num lugar
+de inferioridade, de dependência absoluta, assim diante do
+próximo te faz tomar "o último lugar". "Ai de vós,
 
 
-de centrar-se em Cristo, de "sepultar em Cristo" todo
+que amais o primeiro lugar nas sinagogas" (Lc. 11, 43),
+disse Jesus aos fariseus condenando a caça aos primeiros
+lugares, aos ofícios e cargos honrosos, e acrescentou:
+"quando fores convidado, vai colocar-te no último
+lugar" (Lc. 14, 10). No que depende de ti, em qualquer
+ambiente em que te encontres, procura sempre escolher o último lugar,
+mas fá-lo com simplicidade e desenvoltura, de modo que ninguém,
+apercebendo-se disso, venha convidar-te a passar ao
+primeiro. Tal convite espera-o só de Deus, e não nesta
+vida, mas na outra.
 
 
-pensamento, toda preocupação, também espiritual, de si.
+2 — Durante a última Ceia Jesus quis dar aos Apóstolos outra lição de humildade; enquanto eles discutiam
+quem deles devia ser considerado maior, Ele
+os admoestou: "o maior entre vós seja como o menor,
+e quem governa como aquele que serve", pois eu também
+"estou no meio de vós como aquele que serve" (Lc. 22, 26-27).
+Quando Jesus fala das nossas relações com o próximo,
+insiste sempre para que cada um tome o lugar de servo e se
+considere servo dos outros.
+Disse-o quando apresentou uma criança como modelo de perfeição: "Se alguém
+quer ser o primeiro, será o último de todos e servo
+de todos" (Mc. 9, 34), e repetiu-o quando pôs em guarda
+seus discípulos contra a conduta soberba
+dos fariseus: "o maior entre vós será vosso servo"
+(Mt. 23, 11). É claro: para os seguidores de Cristo o lugar de
+honra, de privilégio, é o lugar de servo, e o Mestre divino
+insiste para que justamente aqueles que ocupam os primeiros lugares
+sejam os mais zelosos em fazer-se servidores de todos.
 
-Ninguém conseguirá afastar a preocupação de si
-mesmo se não a fixa no objeto do seu amor; S. Teresa
-Margarida esqueceu-se até o fundo, sepultando seu pensamento
-"em Cristo", único Dileto.
-
-
-2 — A alma totalmente esquecida de si é também
-totalmente desinteressada. Não serve mais a Deus com espírito
-mercenário, isto é, mirando mais à recompensa
-que poderá receber do que à glória dele, mas o serve
-- segundo a bela expressão de S. Teresa de Jesus -
-"gratuitamente como os grandes senhores servem os reis"
-
-
-(Lt.). Tal deve ser o estilo de uma alma de vida interior,
-a qual, tendo sido convidada por Deus à sua
-intimidade, não deve agir como mercenária, mas como filha,
-como esposa. Este é um dos frutos mais belos da vida escondida.
-
-S. João da Cruz ensina: "Deus agrada-se mais
-de uma obra, por pequena que seja, feita em segredo e sem desejo de que seja conhecida, do que de muitas obras feitas com
-este desejo; porque quem com amor puríssimo
-opera pelo Senhor, não somente não se importa de modo algum que
-suas ações sejam vistas pelos homens, mas nem sequer as faz
+Portanto, se tens alguma autoridade sobre teus próximos, deves
 
 
-para que o próprio Deus as saiba. De modo que, por hipótese,
-se o Senhor nunca as soubesse, não cessaria de render-lhe iguais serviços, com a mesma alegria e pureza de
-amor" (C.E. I, 20). O mesmo delicado pensamento encontramos
-em S. Teresa do Menino Jesus: "Se também, coisa impossível, Deus
-mesmo ignorasse minhas boas ações, não me afligiria,
-porque o amo tanto que gostaria de poder agradá-lo
-sem que Ele soubesse que sou eu" (CR.).
+pensar que te foi dada não para tua honra, mas para o
+serviço dos outros. Se depois nada te distingue do nível
+comum, não te adiantas para pôr-te em evidência;
+e enfim, se teu lugar é o de inferior, ocupa-o de boa vontade,
+nunca procurando sair dele. Ao assinalar-te um lugar humilde,
+o próprio Deus cuidou de fazer-te praticar a humildade;
+esta é uma das maiores graças que Ele te fez e
+tu procura corresponder exercitando-te muito nesta
+virtude.
 
-Esta absoluta pureza de intenção faz com que a alma aja unicamente por Deus e nunca por seu proveito, nem
-mesmo espiritual. Certamente Deus recompensará as obras boas, mas este cuidado é totalmente deixado ao seu beneplácito,
-enquanto a alma ocupa-se só de agradá-lo. A vida escondida culmina assim num soberano desinteresse, não só com respeito às recompensas e louvores humanos,
-mas também com respeito às consolações espirituais.
-A alma então busca só Deus e
-só ele lhe basta. E se Deus, quase parecendo não fazer conta
-de seu amor e de seus serviços, a deixa na aridez e
-no abandono, não se preocupa e por isso não
-para, porque o único motivo que a impele a agir é
-contentar só a Deus.
+"A única coisa não invejada é o último lugar - dizia
+S. Teresa do Menino Jesus - e somente nele não há
+vaidade e aflição de espírito" (CR.).
 
 ### Colóquio
 
-Ó meu Deus, ensina-me a esquecer-me, a ocultar em ti
-toda preocupação, todo cuidado excessivo de mim. Porque
+"Ó Senhor, quando eras peregrino cá embaixo disseste:
+'Aprendei de mim, porque sou manso e humilde de coração, e
+vossas almas encontrarão repouso.' Pois bem, minha alma
+encontra repouso ao ver-te, poderoso Monarca dos céus,
+revestido da forma e natureza de escravo, humilhar-te até
+lavar os pés dos teus Apóstolos. Recordo então aquelas
+palavras que pronunciaste para ensinar-me a praticar a humildade:
+'Eu vos dei o exemplo para que, como fiz eu,
+assim façais também vós. O discípulo não é maior que seu
+Mestre... Sabendo estas coisas, sereis bem-aventurados se as praticardes.' Com o socorro da tua graça eu as entendo,
+essas palavras, ó Senhor, saídas do teu Coração humilde e
+doce, e quero praticá-las com o socorro da tua graça.
+
+"Quero abaixar-me humildemente e submeter minha
+vontade à dos outros, sem contradizê-los em nada e
+sem examinar se tenham ou não tenham o direito de
+mandar-me. Ninguém tinha esse direito sobre ti;
+e no entanto Tu obedeceste não só à Santíssima Virgem
+e a S. José, mas ainda aos teus carrascos.
+
+"Ó Senhor, não podias abaixar-te mais para ensinar-me a humildade; quero por isso responder ao teu amor pondo-me no último lugar, e participando das tuas humilhações para depois ter parte contigo no reino dos Céus.
+
+"Peço-te, meu divino Jesus, que me envies uma humilhação cada vez que eu tentar elevar-me acima dos outros.
 
 
-quero servir-te, ó Senhor? Por que quero amar-te
-e avançar na via da santidade? Talvez para minha satisfação,
-para meu interesse ou vã complacência? Oh, quão mesquinha
-seria uma vida espiritual que tivesse fins tão baixos,
-tão vãos! Não, meu Deus, Tu me criaste para tua
-glória, e eu te peço humildemente poder viver só
-para tua glória, acima de todo interesse e satisfação
-pessoal!
-
-Não é já grande bastante a honra que me fazes
-permitindo que uma criatura mesquinha e miserável como eu
-possa orientar sua vida para tua glória? que um pobre
-verme, qual eu sou, possa dar glória a ti, ó Deus altíssimo,
-perfeição infinita? Que irei então buscar, ó Senhor,
-fora disso? Vale mais contentar a criatura ou
-o Criador, contentar a mim mesmo ou ao meu Deus?
-Ó Senhor, quero servir e contentar só a ti, quero dar gosto só
-a ti, e somente nisso quero pôr meu gosto,
-o motivo da minha alegria. Compreendo-o: se Tu me conduzes por uma via árida e escura,
-se permites que muitas vezes
-as trevas se adensem ao meu redor, é justamente porque
-queres ensinar-me a servir-te com pureza de intenção,
-buscando só tua satisfação e não a minha. Se permites
-que eu continue a exercitar-me na vida interior,
-na virtude, sem ver resultado algum, se me manténs escondidos meus poucos progressos, fazes isso justamente para estabelecer-
-me na humildade. Talvez se eu tivesse mais luz,
-se o trabalho da tua graça fosse em mim mais manifesto,
-eu me gloriaria disso e, comprazendo-me de mim, deteria meu
-ímpeto para ti, único objeto da minha complacência.
-
-Ó Senhor, como és admirável em teus caminhos! Ben-
-dita seja esta obscuridade interior que me defende dos
-perigos do orgulho espiritual! Não, Deus meu, não te
-peço mudar meu caminho; antes te suplico
-continuares a conduzir-me assim, numa vida de completo escondimento, não só aos olhos alheios, mas também aos meus.
-E se, por tua graça, há em mim alguma coisa boa, que esta sirva para alegrar teus olhares e não os meus,
-que, comprazendo-se vaidosamente, poderiam arruiná-la num instante.
-Guarda-me pois à sombra de tuas asas,
-ensina-me a servir-te gratuitamente por puro amor;
-ensina-me a esquecer-me, a sepultar em ti toda preocupação
-de mim mesmo, a confiar com pleno abandono nas
-tuas mãos minha alma. Eis que, para ganhá-la, eu ta entrego,
-quero perdê-la em ti, e em ti a reencontrarei revestida
-da tua beleza.
+"Mas, Senhor, minha fraqueza te é conhecida; todas as manhãs formo o propósito de praticar a humildade, e todas as noites
+reconheço que cometi ainda muitas faltas. A esta vista sou tentado ao desânimo; mas sei que também
+o desânimo é orgulho, por isso quero antes, ó
+meu Deus, fundar minha esperança só em ti. Já que és
+onipotente, digna-te fazer nascer em minha alma a virtude
+que desejo" (T.B.G. St.; Orações).

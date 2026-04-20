@@ -1,44 +1,107 @@
-## 363 — A MATERNIDADE DE MARIA
-*11 de outubro*
+## 41 — EPIFANIA
+*6 janeiro*
 
 ### Presença de Deus
 
-Maria, Mãe de Deus, aceita minhas humildes homenagens e faze que eu também possa gozar os doces frutos da tua maternidade.
+— Ó pequeno Jesus, em ti reconheço o Rei do céu e da terra: faze que eu possa adorar-te com a fé e o amor dos Magos.
 
 ### Meditação
 
-Hoje a Igreja celebra o título mais belo de Maria e sua prerrogativa mais gloriosa: Mãe de Deus, título solenemente proclamado pelo Concílio de Éfeso contra a heresia de Nestório. A Igreja se congratula com Maria por essa altíssima dignidade que a coloca acima de toda simples criatura e a constitui Rainha não só dos homens, mas também dos anjos.
+1 — "Hoje o mundo reconheceu Aquele que a
+Virgem deu à luz... hoje resplandece a festa da
+sua manifestação" (BR.). Hoje Jesus se manifesta ao
+mundo como Deus.
 
-A liturgia inteira do dia está marcada por esse tema. Recorda-se a profecia de Isaías: «Eis que a Virgem conceberá e dará à luz um Filho, e seu nome será Emanuel», isto é, Deus conosco. A Epístola, aplicando à Virgem um trecho de louvor à Sabedoria, canta sua maternidade divina: Maria é a vide fecunda da qual brotou o mais belo fruto, Jesus; Maria é "Mãe do belo amor", na qual há graça, verdade, esperança, vida e virtude.
+O Intróito da Missa introduz-nos diretamente neste espírito apresentando-nos Jesus na majestade real da
+sua Divindade: "Eis que veio o soberano Senhor: Ele
+tem nas mãos o cetro, o poder e o império".
+A Epístola (Is. 60, 1-6) irrompe num hino de alegria anunciando a vocação dos gentios à fé; também eles reconhecerão e adorarão em Jesus o seu Deus: "Levanta-te,
+resplandece, ó Jerusalém, porque veio a tua luz...
+E as nações caminharão à tua luz e os reis ao esplendor
+que nascerá de ti... Virão todos os de Sabá trazendo
+ouro e incenso e anunciando os louvores do Senhor". Em torno
+do presépio já não a humilde cena dos pastores, mas o faustoso
+cortejo dos Magos do Oriente, vindos como representantes
+dos povos pagãos e de todos os reis da terra para render
+homenagem ao Deus-Menino.
 
-Somente por meio dela Deus deu ao mundo seu Unigênito; somente por meio dela os homens receberam o Salvador. Quem quer Jesus deve procurá-lo nos braços de Maria. Quem quer alcançar misericórdia do Salvador deve recorrer àquela que é sua Mãe.
+Epifania (ou Teofania) significa "aparição de Deus";
+e esta aparição de Deus vemo-la realizada em Jesus,
+que hoje se manifesta ao mundo como seu Deus e Senhor.
+Já um primeiro prodígio revelara a sua divindade:
+a extraordinária estrela aparecida no Oriente; mas ao recordar este
+milagre, que na liturgia de hoje ocupa o primeiro lugar,
+a Igreja acrescenta em resumo outros dois: a água que se
+transforma em vinho nas bodas de Caná, e o batismo de Jesus no
+Jordão, enquanto do céu uma voz atesta: este é o meu
 
-Soa, por isso, dulcíssimo o convite materno: «Vinde a mim, vós todos que me desejais, e saciai-vos dos meus frutos». Sim, vamos a Maria e não seremos decepcionados: nela encontraremos alimento, porque Maria nos dá Jesus - Redentor, Pai e Alimento de nossas almas - e, com o exemplo de sua vida admirável, ensina-nos a amá-lo, imitá-lo, segui-lo e aproveitar plenamente sua obra redentora e santificadora.
+Filho amado. "Três milagres ilustraram o santo dia que hoje celebramos", canta a antífona do Magnificat;
+três milagres que devem dispor-nos a reconhecer e adorar, com viva fé, em Jesus Menino o nosso Deus,
 
-Assim Maria estende também a nós sua maternidade. Cumpre para conosco o ofício de mãe, e podemos repetir com confiança a oração da Igreja: «Concedei-nos, Senhor... ser ajudados junto de vós pela intercessão daquela que cremos verdadeira Mãe de Deus».
+o nosso Rei.
 
-Este título deve acender em nosso coração grande confiança. Por sua dignidade de Mãe, Maria tem máximo poder junto de seu Filho divino. Quando a chamamos Mãe de Deus, solicitamos que empregue sua maternidade em nosso favor: «Santa Maria, Mãe de Deus, rogai por nós pecadores».
+2 — "Vimos a sua estrela no Oriente e
+viemos com dons adorar o Senhor"; assim nos versículos
+da Missa de hoje se sintetiza a conduta dos Magos.
+Ver a estrela e pôr-se a caminho foi uma só coisa.
+Não duvidaram: a sua fé era firme, segura, toda
+de uma peça. Não hesitaram diante dos trabalhos
+da longa viagem: o seu coração era generoso. Não
+adiaram para outro tempo: o seu ânimo era pronto.
 
-Que advogada maior poderíamos encontrar? Que patrona mais poderosa? Jesus não pode resistir às súplicas de sua Mãe, e Maria não resiste aos que a invocam sob o dulcíssimo título de sua maternidade.
+Também no céu da nossa alma muitas vezes aparece
+uma estrela: é a íntima e clara inspiração de Deus que nos convida
+a um ato generoso, a um desapego, a uma vida de mais íntima união com Ele. Deveríamos saber sempre seguir
+a nossa estrela com a fé, a confiança e a prontidão dos
+Magos; seguida assim, ela nos conduzirá sem dúvida
+ao encontro do Senhor, far-nos-á encontrar Aquele que procuramos.
 
-Ao morrer na cruz, Jesus colocou à nossa disposição os tesouros da maternidade de Maria. Ela recebeu d'Ele uma missão materna para com nossas almas e deseja ardentemente cumpri-la. Quer ser nossa Mãe e usar em nosso proveito os privilégios da sua maternidade.
+Os Magos perseveraram na sua busca mesmo
+quando a estrela desapareceu dos seus olhos; assim também nós devemos perseverar no bem também entre as obscuridades interiores:
+é a prova da fé, que se supera só com intenso
+exercício de fé pura, nua. Sei que Deus o quer, sei que
+Deus me chama, e isso me basta: Scio cui credidi et certus sum (2 Tim. 1, 12); sei quem é Aquele em quem acreditei,
+e aconteça o que acontecer não posso duvidar dele.
 
-Mas ela não o pode fazer se não nos confiamos a ela como filhos dóceis e amantes. Mesmo entre pessoas consagradas a Deus, nem todos entendem suficientemente a necessidade de dar-se a Maria como filhos, abrir a alma ao seu influxo materno, recorrer a ela com plena confiança em todas as dificuldades e perigos, e colocar a vida espiritual sob seu patrocínio.
-
-Como na ordem natural a criança precisa da mãe, assim na ordem sobrenatural as almas precisam de uma mãe: Maria Santíssima. Sem seus cuidados maternos, a vida espiritual sofre e muitas vezes fica raquítica. Quando, porém, as almas se dão a Maria, procuram Maria e a ela se confiam, a vida interior progride rapidamente: o passo para Deus se torna mais ágil e mais leve, porque há uma mão materna que sustenta e um coração materno que consola.
+Com estas disposições vamos com os Magos ao presépio.
+"E, como aqueles com os seus tesouros ofereceram ao Senhor dons místicos, assim também nós saibamos tirar dos nossos corações
+dons dignos de Deus" (BR.).
 
 ### Colóquio
 
-«Teu nome, ó Mãe de Deus, está cheio de todas as graças e bênçãos divinas. Trouxeste em teu seio Aquele que os céus não podem conter. Alimentaste Aquele que tudo alimenta. O Senhor do universo quis precisar de ti, pois tu lhe deste a carne que Ele antes não tinha.
+"Ó Jesus, eu te adoro, pois Tu és o Senhor Deus meu...
+Tu és um Deus grande e o Rei de todos os reis. Nas tuas mãos
 
-«Alegra-te, ó Mãe e Serva de Deus! Alegra-te! Tens por teu devedor Aquele que dá o ser a todas as criaturas. Todos nós somos devedores de Deus, mas Deus se fez devedor de ti.
+estão todos os confins da terra e Tu contemplas os cumes
+dos montes. Teu é o mar e Tu és Aquele que o fez, e sobre as tuas mãos se funda a terra... E nós somos o teu povo
+e as ovelhinhas da tua mão" (cf. Sl. 94). Sim, ó Jesus,
+eu sou uma tua ovelhinha, uma tua criatura,
+e alegro-me em reconhecer o meu nada diante de ti.
+Mas alegro-me ainda mais em reconhecer e adorar em ti, amabilíssimo Menino,
+o meu Deus e o meu Criador. Como desejaria que todos os povos
+te reconhecessem como Tu és, que todos se prostrassem diante de ti, adorando-te como seu Deus e Senhor.
 
-«Ó santíssima Virgem, tens mais bondade e caridade que todos os santos e acesso maior que todos ao trono de Deus, porque és sua Mãe. Suplico-te, pois, lembra-te de mim e de minhas misérias.» (São Metódio)
+Ó Senhor, Tu o podes, mostra a todos a tua Divindade;
+e, como um dia conduziste a ti os Magos do Oriente,
+assim agora reúne em torno do teu presépio todos os povos, todas
+as gentes.
 
-«Ó grande Mãe de Deus, direi também eu com São Bernardo: “Fala, Senhora, que teu Filho te escuta, e tudo o que pedires Ele te concederá”. Fala, pois, ó minha advogada, em favor de mim, miserável.
+Mas Tu me fazes compreender que queres a minha pobre
+colaboração para o advento do teu reino: Tu queres que
+eu reze, sofra e trabalhe pela conversão dos próximos e dos
+distantes. Queres que também eu leve ao teu presépio os dons dos
+Magos: o incenso da oração, a mirra da mortificação e do sofrimento generosamente abraçado por
+amor de ti, o ouro da caridade; caridade que torne o meu coração
+todo e exclusivamente teu; caridade que me impulsione a trabalhar, a dar-me pela conversão dos pecadores, dos infiéis,
+pela maior santificação dos teus eleitos.
 
-«Lembra-te de que também para meu bem recebeste tanto poder e tanta dignidade. Deus quis fazer-se teu devedor tomando de ti a natureza humana, para que pudesses distribuir livremente aos miseráveis as riquezas de sua misericórdia.
+Ó meu dulcíssimo Rei, cria em mim um coração de apóstolo.
+Como eu gostaria hoje de levar aos teus pés os louvores e adorações sinceras de todos os homens da terra!
 
-«Se tu, imensamente boa, fazes o bem a todos, até aos que não te conhecem nem te honram, quanto mais devemos esperar de tua benignidade nós que queremos honrar-te, amar-te e confiamos em teu auxílio?
-
-«Ó Maria, ainda que sejamos pecadores, podes salvar-nos, porque Deus te enriqueceu de misericórdia e de poder maior que toda a nossa iniquidade. Ó Mãe dulcíssima, a ti apresento minha alma: purifica-a, santifica-a, faze-a toda de Jesus.» (Santo Afonso)
+Mas, ó Jesus, enquanto te peço que te manifestes ao mundo,
+peço-te também que te manifestes cada vez mais à minha pobre alma. Faze que hoje também para mim brilhe a tua estrela e me
+indique o caminho que a ti conduz; faze que hoje também para mim
+seja uma verdadeira Epifania, isto é, uma nova manifestação de ti
+à minha mente e ao meu coração. Quem mais te conhece, mais te
+ama, ó Senhor; e eu desejo conhecer-te unicamente para
+amar-te, para dar-me a ti com generosidade sempre crescente.

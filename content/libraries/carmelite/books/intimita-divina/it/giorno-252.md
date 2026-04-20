@@ -1,101 +1,15 @@
-## 252 — IL MOTIVO DELLA CARITÀ FRATERNA
+## XXII — LA PROVA DELLA SPERANZA
 
-### Presenza di Dio
-
-O Madre che tanto hai amato gli uomini, insegnami ad adempiere con perfezione il precetto della carità fraterna.
+**Presenza di Dio.** — *Dammi, o Signore, una speranza invincibile; insegnami a sperare contro ogni speranza, insegnami a «soprasperare».*
 
 ### Meditazione
 
-1. — Non esistono due virtù di carità, una per amare
-Dio e un'altra per amare il prossimo, ma un'unica virtù con
-la quale amiamo Dio e il prossimo. Amiamo Dio a motivo
-della sua infinita amabilità e amiamo il prossimo perchè la
-fede ci fa riconoscere in esso un riflesso dell'amabilità di
-Dio. Il motivo della carità fraterna è quindi il medesimo motivo della carità verso Dio: si tratta sempre di amare Dio o
-immediatamente in se stesso, o mediatamente nel prossimo.
-Avendo dunque per oggetto e motivo ultimo Dio, la carità fraterna è virtù identica alla virtù teologale con
-la quale amiamo Dio. Certamente a Dio compete il primo
-posto: a lui, Bene infinito, dobbiamo dare l'assoluta preferenza al di sopra di ogni prossimo. Ma anche l'amore del
-prossimo rientra nell'amore verso Dio, in quanto amiamo il
-prossimo in Dio e per Dio, ossia a motivo delle sue relazioni
-con Dio, della sua appartenenza a Dio. « Il motivo di amare
-il prossimo è Dio — insegna S. Tommaso — ...dal che si
-vede che l'atto col quale si ama Dio è il medesimo di quello
-con cui si ama il prossimo. E perciò la virtù della carità non si
-estende solo all'amore di Dio, ma anche all'amore del prossimo» (II* Il*, q. 25, a. 1). Quando un'anima ama veramente Dio, sa amare anche il prossimo e sa amarlo così com'è,
-nonostante i suoi difetti, nonostante la noia e anche i dispiaceri che talvolta le può procurare, perchè, lungi dal fermarsi a considerare tutto ciò, va assai più oltre: si spinge fino a
-cercare Dio nei suoi fratelli, in Dio fissa il suo sguardo e
-«propter Deum», a motivo di Dio, ama tutti senza distinzioni, senza restrizioni.
+**1** — Diamo prova della saldezza della nostra fede quando perseveriamo in essa malgrado le oscurità; diamo prova della saldezza della nostra speranza quando non cessiamo di sperare malgrado le circostanze avverse per cui ci sembra che Dio ci abbia abbandonato. Come è più meritorio l'atto di fede fatto in mezzo alle tenebre ed ai dubbi, così è più meritorio l'atto della speranza emesso in mezzo alla desolazione ed all'abbandono. Le virtù teologali sono il mezzo più adatto e proporzionato per unirci a Dio, e di fatto ci uniremo di più a lui quanto più la nostra fede, la nostra speranza e la nostra carità saranno pure, intense, pienamente soprannaturali. Proprio per farci giungere a ciò Dio ci fa passare attraverso il crogiuolo della prova. Per ogni anima cara a Dio si rinnova, in certo modo, la storia di Giobbe: è provato nei beni, nei figli, nella sua persona; è abbandonato dagli amici e dalla moglie; da ricco e stimato qual'era, si trova solo, su un letamaio, ricoperto di un'orribile malattia dalla testa ai piedi. Ma, se Dio è buono, se è vero che ci vuol bene, perché permette tutto ciò? Perché ci lascia soffrire? «Dio non ha fatto la morte — dice la S. Scrittura — e non si alliera della perdizione dei viventi... Ma gli empi, con la mano e con la voce, chiamano la morte» *(Sap.* 1, 13 e 16). La morte e la sofferenza sono conseguenze dei peccati che Dio non impedisce perché vuol lasciare l'uomo libero. E, tuttavia, non soffrono solo i peccatori, ma anche gli innocenti: perché? Perché Dio vuol provarli come si prova l'oro nella fornace, perché vuole purificarli, vuole innalzarli ad un bene e ad una felicità immensamente superiori ai beni ed alle felicità della terra. Ed ecco che Dio permette la sofferenza dei buoni e si serve anche delle conseguenze del peccato — guerre, disordini, ingiustizie sociali e private — per il maggior bene dei suoi eletti. Resta però che, mentre siamo nella prova, non vediamo, non comprendiamo il perché di essa, Dio non ci dà conto della sua condotta, non ci svela i suoi piani e perciò è per noi duro resistere nella fede e nella speranza. Duro, ma non impossibile, perché è certo che Dio non manda mai prove superiori alle nostre forze, come pure è certo che Dio non ci abbandona mai, se non siamo noi i primi ad abbandonarlo.
 
-
-Quest'anima non ha bisogno di lunghi ragionamenti per
-comprendere la rigorosa logica dell'obiezione dell'Apostolo: «Se uno dice 'io amo Dio', e odierà il suo fratello,
-è mentitore», ma l'intuisce per una specie d'istinto soprannaturale, intuizione che le fa abbracciare tutta la
-portata del comandamento della carità: « Questo comandamento abbiamo da Dio: che chi ama Dio ami anche il proprio fratello» (I Gv. 4, 20 e 21).
-
-
-2. — Se amo il mio prossimo perchè mi è simpatico, perchè mi rende dei servizi o mi benefica, perchè la sua amicizia mi è di conforto; se lo amo per le sue belle qualità, per
-il suo tratto amabile e piacevole, il mio è amore umano e
-non è affatto amore di carità. Se sono benevolo verso il prossimo, se lo soccorro perchè mi fa compassione, perchè mi
-sento legato ad esso da doveri di solidarietà umana, il mio
-amore potrà chiamarsi simpatia, filantropia, ma non potrà
-chiamarsi ancora carità la cui caratteristica è di amare il
-prossimo « propter Deum». Il mio amore è virtù di carità
-solo nella misura in cui fra me e il prossimo entra in gioco
-l'amore di Dio, solo nella misura in cui la mia dilezione per
-i fratelli è ispirata dalla dilezione per Iddio. Più il mio
-amore si appoggia unicamente a motivi umani — come la
-simpatia, le doti naturali, i legami del sangue, ecc. — e
-più è semplice amore umano che non ha per nulla il merito
-ed il valore della carità, « L'amore del prossimo non è meritorio se non perchè il prossimo è amato a motivo di Dio»
-(S. Tommaso, La II*, q. 27, a. 8). Proprio in questo senso
-S. Paolo ha detto: « Se anche sbocconcellassi a favor dei poveri tutto quel che ho... e non avessi amore, non ne avrei
-alcun giovamento » (I Cor. 13, 3).
-
-E' facile illuderci di avere molta carità perchè amiamo chi
-ci vuol bene, perchè siamo pieni di premure e di gentilezze
-per coloro che la pensano come noi, che ci sono solidali, e
-invece non si tratta che di semplice amore umano in cui non
-centra per nulla l'amore di Dio. «Se voi amate coloro che vi
-
-
-amano — ha detto Gesù — qual ricompensa meritate?... Non
-fanno forse altrettanto anche i gentili?» (Mt. 5, 46 e 47).
-Se voglio che il mio amore per il prossimo sia carità, devo salire molto più in alto, devo considerare il prossimo in Dio, de
-vo amare il prossimo in relazione a Dio, a motivo di Dio.
-Solo così il mio amore per il prossimo sarà atto della virtù teologale della carità, lo stesso atto con cui amo Dio e solo così
-adempirò il precetto della carità fraterna.
+**2** — Il minimo atto di speranza, di fiducia in Dio, formulato in mezzo alla prova, in uno stato di desolazione interiore od esteriore, vale immensamente più di molti atti formulati nel tempo della gioia, della prosperità. Quando soffri nel corpo o nell'anima, quando sperimenti il vuoto dell'abbandono e dell'impotenza, quando sei travagliato da ripugnanze e da ribellioni della natura che vorrebbe scuotere il giogo del Signore, non puoi pretendere di avere il sentimento confortante della speranza, della fiducia, anzi, spesso ne proverai il sentimento contrario e, tuttavia, anche in questo stato puoi fare atti di speranza e di fiducia, non sentiti, non voluti. Le virtù teologali si esercitano essenzialmente con la volontà; quando il sentimento le accompagna, il loro esercizio è soave, consolante; ma quando rimane il puro atto della volontà allora questo esercizio è arido e freddo, eppure, non per questo è meno meritorio, anzi, può esserlo ancora di più e dà molta gloria a Dio. Non devi, quindi, turbarti se non *senti* più la fiducia, ma devi *voler* avere fiducia; devi *voler* sperare e sperare ad ogni costo, malgrado tutti i colpi che Dio t'inflinge per mezzo della prova. Allora è il momento di ripetere con Giobbe: «Quand'anche Dio mi uccidesse, in lui spererò» (13, 15). Non illuderti di poter passare attraverso queste prove senza dover lottare contro lo scoraggiamento, contro tentazioni di sfiducia e forse anche di disperazione; questa è la reazione della natura che si ribella a ciò che la ferisce. Il Signore, che conosce la nostra debolezza, non ci condanna, ma ci compatisce. Questo stato non offende Dio, purché tu cerchi sempre dolcemente di reagire con atti di fiducia voluta. Ogni volta che l'onda dello scoraggiamento tenta di travolgerti, reagisci ancorandoti in Dio con un semplice movimento di fiducia; anche se in certi periodi la tua vita spirituale dovesse ridursi a questo esercizio, non avresti perduto nulla ma, anzi, avresti guadagnato molto. Proprio attraverso queste prove si arriva all'esercizio eroico della fede e della speranza; e l'eroismo delle virtù è necessario per arrivare alla santità.
 
 ### Colloquio
 
-«Come Tu, o Dio, hai creato l'uomo a tua immagine e
-somiglianza, così ci hai ordinato di amare gli uomini con un
-amore simile a quello dovuto alla tua divinità. Il motivo per
-cui amiamo te, O Signore, è la tua bontà sovranamente somma ed infinita ed il motivo per cui amiamo gli uomini è perchè tutti sono stati creati a tua immagine e somiglianza, sì
-che li amiamo come santissime e vive immagini della tua divinità.
+«Salvami, o Dio, perché mi arriva l'acqua sino alla gola! Mi trovo immerso in profondo pantano senza punto d'appoggio; sono disceso in fondo all'acqua e la corrente mi travolge. Sono stanco di chiamare, ho secche le fauci, ho consunti gli occhi in attesa di te, mio Dio. Ma io fo a te la mia preghiera, o Signore, implorando un tempo favorevole. O Dio, per la tua grande bontà rispondimi con la costanza del tuo soccorso. Traimi dal fango perché non ci affondi; ch'io scampi dai nemici e dal fondo dell'acqua. Esaudiscimi per la tua pietosa bontà; per la tua somma clemenza volgiti a me, non nascondermi il tuo volto. Salvami, poiché Tu sei la mia speranza, Signore Iddio! Tu la mia sicurezza sin dall'infanzia, in te sempre ho riposto la mia fiducia. O Dio, non startene lontano da me, accorri in mio aiuto. Io soffro, ma sempre spererò in te e abbonderò vieppiù in ogni tua lode. Tu, che mi facesti provare grandi angustie e sciagure, ancora mi ridonerai la vita e mi farai risalire dai cupi abissi terrestri; accrescerai la mia grandezza e continuerai a consolarmi» (cfr. *Sal.* 68 e 70).
 
-«Ecco, dunque, che quella medesima carità con la quale
-amiamo te, o Signore, è fonte degli atti con i quali amiamo il
-prossimo. Una medesima dilezione si estende a te, Dio mio,
-ed al prossimo, ci solleva all'unione del nostro spirito con te
-e ci riconduce all'amorosa società con i prossimi, di maniera
-però che amiamo il prossimo in quanto è creato ad immagine
-e similitudine tua, creato per comunicare con la tua bontà
-divina, per partecipare della tua grazia e godere della tua
-gloria.
-
-«« Amare il prossimo con amore di carità è amare te, Dio
-mio, nell'uomo e l'uomo in te; è amare te solo per amore di te
-stesso e amare anche la creatura per amor tuo.
-
-« Ah, Dio buono! Nel vedere un nostro prossimo creato a
-tua immagine e somiglianza, non dovremmo dirci l'un l'altro:
-guarda questa creatura come somiglia al Creatore? non dovremmo abbracciarla, accarezzarla e piangere di amore su di lei?
-non dovremmo darle tante e tante benedizioni? E perchè
-mai? Per amore di lei? No, certo, perchè non sappiamo se
-
-sia in sè degna di amore o di odio. E perchè dunque? Per
-amor tuo, O Signore, che l'hai formata a tua immagine e somiglianza e quindi l'hai resa capace di partecipare della tua
-bontà nella grazia e nella gloria. Perciò, o amore divino,
-non solo tu comandi più volte l'amore del prossimo, ma lo
-produci e infondi Tu stesso nei nostri cuori» (cfr. S. Francesco di Sales).
+«O speranza, dolce sorella della fede, tu sei quella virtù che con le chiavi del Sangue di Cristo disserri a noi la vita eterna. Tu guardi la città dell'anima dal nemico della confusione; e, quando il demonio, con la gravità delle colpe commesse, vuol gettare l'anima nella disperazione, tu non rallenti i tuoi passi ma, tutta virile, perseveri nella fortezza, ponendo nella bilancia il prezzo del Sangue di Cristo. Tu poni la corona della vittoria in capo alla perseveranza, poiché sperasti conseguirla in virtù del Sangue» (S. Caterina da Siena).

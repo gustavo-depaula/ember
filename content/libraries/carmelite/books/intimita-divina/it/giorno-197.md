@@ -1,101 +1,19 @@
-## 197 — L'INVITO AL BANCHETTO
-*Domenica fra l'ottava del Corpus Domini*
+## XXVIII — LE VIRTÙ E I DONI
 
-### Presenza di Dio
-
-O Gesù, concedimi di rispondere sempre al tuo invito e di partecipare degnamente al tuo banchetto.
+**Presenza di Dio.** — *Insegnami, o Spirito Santo, a mantenermi in atteggiamento di continuo ascolto delle tue ispirazioni, di continua dipendenza dai tuoi impulsi.*
 
 ### Meditazione
 
-1. — Il Vangelo di questa domenica s'intona perfettamente all'ottava del Corpus Domini. « Un uomo fece una
-gran cena e invitò molti». L'uomo che fa la cena è Dio;
-O la gran cena è il suo regno dove le anime troveranno ogni
-abbondanza di beni spirituali quaggiù e la felicità eterna
-nell'altra vita. Questo è il senso proprio della parabola, ma
-nulla vieta che si possa intendere anche in un senso più
-particolare, vedendo nella cena il Banchetto eucaristico e
-nell'uomo che l'imbandisce Gesù, il quale invita gli uomini a cibarsi della sua Carne e del suo Sangue, « E' apparecchiata per noi la mensa del Signore — canta l'Ufficio dell'ottava — La Sapienza [ossia il Verbo incarnato] ha
-preparato il vino ed ha imbandita la mensa ». Gesù stesso,
-annunziando l'Eucaristia, rivolse a tutti il suo invito: «lo
-sono il pane di vita! Chi viene a me none avrà più fame,
-e chi crede in me none avrà più sete. I vostri padri mangiarono la manna nel deserto e morirono. Questo è il pane
-disceso dal cielo, affinchè chi ne mangia non muoia » (Gv.
-6, 35-50). Gesù non si limita, come gli altri uomini, ad
-imbandire una cena, a fare larghi inviti e neppure ad apprestare vivande prelibate, ma il fatto singolarissimo — che
+**1** — S. Tommaso insegna che i doni dello Spirito Santo ci sono dati in aiuto delle virtù: «*dona sunt in adjutorium virtutum*». L'espressione è molto profonda: i doni ci sono dati per *aiutare* le virtù, quindi *non* per sostituirle; ciò vuol dire che l'anima deve fare da parte sua tutto quello che può, applicandosi seriamente all'esercizio delle virtù, ed allora lo Spirito Santo, mediante i doni, compirà da parte sua quel che l'anima non può fare. Quindi il primo atteggiamento pratico che l'anima deve prendere, affinché lo Spirito Santo si degni di porre in atto i suoi doni, è quello di mettersi in cammino verso la santità mediante i suoi sforzi. Tutta la tradizione cattolica pone come punto di partenza questa attività ed applicazione personale, perché «se l'anima cerca Dio, molto più il suo amato Signore cerca lei... l'attrae e la fa correre verso di Lui» *(G.C.* F. 3, 28). E l'anima cerca Dio appunto attraverso l'esercizio assiduo delle virtù che, pur non essendo sufficiente a condurla alla méta, è però necessario per dimostrare al Signore la sua buona volontà. Come il marinaio che vuol giungere al porto non aspetta oziosamente il soffio del vento, ma nell'attesa si pone a remare con vigore, così l'anima che desidera trovare il Signore, nell'attesa che Egli stesso venga ad attirarla a sé, non si abbandona all'ozio, ma si applica di lena a cercarlo con le sue iniziative personali: sono sforzi per vincere i propri difetti, per distaccarsi dalle creature, per praticare le virtù, per attuare il raccoglimento interiore, ecc. E proprio in questi sforzi lo Spirito Santo inserirà la sua azione, mettendo in atto i suoi doni. Vediamo, quindi, quanto è sbagliato l'atteggiamento di certe anime che rimangono troppo passive nella loro vita spirituale, non prendendo sufficienti iniziative personali per avanzare nel bene, per andare incontro a Dio. Queste anime perdono il loro tempo e si espongono a facili illusioni. Soprattutto agli inizi della vita spirituale, è necessario mettersi attivamente all'opera: solo così possiamo sperare nel soccorso dello Spirito Santo.
 
-nessun uomo, per quanto ricco e potente, potrà mai imitare — è che Egli stesso si offre in cibo. S. Giovanni Crisostomo, a chi nell’Eucaristia vorrebbe veder Cristo con
-li occhi del corpo, dice: « Ebbene, tu lo vedi, lo tocchi,
-lo mangi. Tu desideri vederne le vesti, Egli invece ti
-concede non solo di vederlo, ma ancora di mangiarlo, di
-toccarlo e di riceverlo dentro ‘di te... Ciò che gli Angeli
-guardano con tremore e non possono mirare liberamente
-per lo splendore abbagliante, diventa nostro alimento, noi
-ci uniamo ad esso e diventiamo con Cristo un solo corpo
-e una sola carne» (BR. lez. V e VI).
+**2** — In genere, nel primo periodo della vita spirituale, l'influsso dei doni dello Spirito Santo, pur non mancando mai, è piuttosto nascosto e raro; naturalmente, perciò, in questo periodo prevale l'iniziativa dell'anima, ossia l'esercizio attivo delle virtù e dell'orazione. Ma, a misura che la vita spirituale si sviluppa, ossia a misura che la carità cresce, viene a crescere anche l'influsso dei doni, anzi, quando l'anima è fedele, quest'influsso si fa gradatamente più forte e frequente fino a prendere la prevalenza sulle iniziative dell'anima stessa; ed è proprio così che, sotto la direzione dello Spirito Santo, l'anima giunge alla santità.
 
-2. — Gesù non poteva offrire all'uomo una mensa più
-ricca del banchetto eucaristico. E in qual modo gli uomini
-corrispondono al suo invito a questa mensa? Molti, come i
-giudei increduli, scrollano le spalle e se ne vanno con un
-sorriso scettico sul labbro: % Come mai costui può darci da
-mangiare la sua carne?» (Gv. 6, 53). Ma ciò che tiene
-lontano dall'Eucaristia non è solo la mancanza di fede; questa molto spesso è accompagnata e anzi, non di rado, deriva
-da quelle cause morali di cui parla il Vangelo odierno.
-«Ho comprato un podere e bisogna che ne a vederlo;
-abbi mi, ti prego, per iscusato» rispose uno; e une altro:
-«Ho comperato cinque paia di buoi e vado a provarli; abbi mi, ti prego, per iscusato ». L'eccessiva preoccupazione per
-i beni terreni, l'attaccamento ad essi, l'ingolfarsi totalmente
-negli affari, è il motivo per cui tanti rifiutano l'invito di
-Gesù. Ma non è tutto: «Ho preso moglie e quindi non
-posso venîre» risponde un terzo e rappresenta quelli che,
-immersi nei piaceri dei sensi, hanno perso la sensibilità alle
-cose dello spirito e di fronte ad esse tirano diritto, senza
-E cercare di scusarsi,
-
-' impossibile non fremere di fronte all'enorme cecità
-dell'uomo che pospone il dono di Cristo, Pane degli Angeli, pegno di vita eterna, agli interessi terreni, ai vili piaceri dei sensi che ben presto sfumano come nebbia al
-sole. Eppure, non è difficile che un'ombra di questa cecità
-veli anche lo sguardo ed il cuore di coloro che Gesù ha
-chiamato a seguirlo più da vicino e che ha designato col
-dolce nome di amici. Costoro non rifiutano l'invito, ma spesso l’accettano con freddezza, quasi per abitudine. Non è
-forse vero che, mentre ci preoccupiamo di molte cose: la-
-
-
-voro, affari, famiglia, amicizie, ecc., ci preoccupiamo ben
-poco di disporci ogni giorno nel modo più degno al Banchetto eucaristico? Gesù viene in noi forse ogni mattina,
-ma vi trova sempre un’ospitalità calda, delicata, premurosa,
-piena di amore? Oh, troppe volte trova il cuore dei suoi
-amici occupato in mille pensieri, bagattelle e affetti ter
-reni, mentre per lui, Ospite divino, rimane ben poco posto!
-Eppure, il posto dovrebbe essere tutto suo; eppure, il pensiero dell'incontro quotidiano con Gesù eucaristico dovrebbe
-essere in cima ad ogni altro pensiero!
+Per poter approfittare dei doni dello Spirito Santo, occorre che l'anima, fin dagli inizi della sua vita spirituale, si abitui ad essere insieme *attiva* e *passiva*, cioè, pur prendendo le sue iniziative, cerchi, nello stesso tempo, di mantenersi attenta e docile alle ispirazioni dello Spirito Santo. Infatti, se vi sono delle anime troppo passive, ve ne sono anche di troppo attive che fanno consistere tutto nei loro piani di riforma spirituale, nei loro propositi, nei loro esercizi, come se la santità dipendesse unicamente dalle loro industrie; in fondo, esse contano troppo sulle loro forze e troppo poco sull'aiuto divino. Queste anime corrono il rischio di non saper cogliere le ispirazioni dello Spirito Santo, di soffocare i suoi impulsi e, quindi, di affaticarsi senza raggiungere la méta. Occorre più docilità e docilità, occorre più abbandono. *Docilità* della mente per riconoscere le ispirazioni interiori dello Spirito Santo, *docilità* della volontà per assecondarle, *abbandono* per lasciarsi condurre anche per vie oscure ed ignote e contrarie ai propri gusti. Nessuno può essere a se stesso maestro di santità, il Maestro è unico: è lo Spirito Santo; bisogna tenersi sempre alla sua scuola, alla sua dipendenza, perciò, pur lavorando attivamente per la correzione dei difetti e per l'acquisto delle virtù, bisogna mantenere l'orecchio interiore sempre attento agli impulsi dello Spirito Santo: proprio per renderci capaci di ciò Egli ci ha dato i suoi doni. «Il Signore mi ridesta le orecchie, affinché io l'ascolti come maestro — dice Isaia —. Il Signore mi ha aperto l'orecchio e io non contraddico, né mi sono mai tirato indietro» (50, 4 e 5). Questo deve essere l'atteggiamento interiore di un'anima che vuol lasciarsi guidare dallo Spirito Santo.
 
 ### Colloquio
 
-«O Sacramento di pietà! o sigillo di unità! o vincolo di
-carità! Chi vuol vivere, ha dove vivere, ha donde vivere.
-O Signore, mi accosterò con fede alla tua mensa, incorporandomi ivi per esserne vivificato.
+«O Spirito Santo, Dio Amore, nodo della Santa Trinità per via dell'amore. Tu riposi e poni le tue delizie tra i figli degli uomini, nella santa castità che, per l'influsso della tua forza e dei tuoi incanti, fiorisce quaggiù come la rosa tra le spine. Spirito Santo! Amore! Amore! Dimmi qual via conduce ad un sì delizioso soggiorno, dov'è il sentiero della vita, che mena a queste praterie fecondate dalla divina rugiada, dove si dissetano i cuori arsi dalla sete. O Amore, Tu solo conosci questa strada che mena alla vita e alla verità. In te si compie il connubio pieno di delizie, che unisce fra loro le divine Persone della Trinità santa. Per mezzo tuo, o Spirito Santo, sono sparsi sopra di noi i più preziosi doni. Da te procedono i semi fecondi che producono i frutti della vita. Da te emana il miele così dolce delle delizie che sono solamente in Dio. Per te scendono sopra di noi le acque fertilizzanti delle divine benedizioni, doni si cari dello Spirito, ma, purtroppo, così rari nella nostra regione.
 
-«Fa', o Signore, ch'io sia inebriato dall’opulenza della
-tua casa, e dammi da bere al torrente delle tue delizie.
-Poichè presso di te è la sorgente della mia vita: none al
-trove fuori di te, ma ivi presso di te è la sorgente della vita,
-Neale bere per vivere; non voglio fare da me quasi per
-andarmi a perdere, non voglio saziarmi del mio come per
-inaridirmi; ma voglio accostare la mia bocca alla sorgente,
-là dove l'acqua non vien meno.
+«O Spirito Santo, Tu sei il fonte cui anelo, il desiderio del mio cuore. Oceano riboccante di acque, assorbi questa minima goccia errante che desidera uscire da se stessa per entrare in te. Tu sei l'intera unica sostanza del cuor mio ed a te aderisco con tutto il fervore. Oh, che amabile unione! Veramente questa familiarità con te è più apprezzabile della stessa vita; il tuo profumo è come un balsamo di propizizione e di pace.
 
-« Torrò di mezzo le vane e cattive scuse e mi accosterò
-alla cena che mi deve interiormente impinguare. Non mi
-trattenga altezzosità di superbia: no, non mi faccia la supula altezzoso; neppure mi arresti curiosità illecita, alontanandomi da te; non m'impedisca diletto carnale di gustare il diletto spirituale.
-
-«Fa' ch'io m'accosti e m'impingui; lascia che m'accosti,
-benchè mendìco, debole, storpio e cieco. Alla tua cena non
-vengono i ricchi sani, che credono di camminar bene e di
-aver vista acuta, uomini molto presuntuosi di sè e quindi
-tanto più insanabili quanto più superbi. M'accosterò qual
-mendìco, perchè mi inviti Tu, che da ricco ti sei fatto po-
-vero per me, affinchè la tua povertà arricchisse la mendicità mia. M'accosterò come debole, perchè non hanno bisogno del medico i sani, ma gli infermi. M'accosterò come
-storpio e ti dirò: “Reggi Tu i miei passi ne' tuoi sentieri’.
-M'accosterò qual cieco, e ti dirò: “Illumina gli occhi miei,
-affinchè io non dorma giammai sonno di morte» (S. Agostino).
+«O Spirito Santo Amore, tu sei il soavissimo bacio della SS.ma Trinità che unisce il Padre col Figlio. Tu sei quel benedetto bacio che la regale divinità donò all'umanità per mezzo del Figlio di Dio. O bacio dolcissimo, Tu sei il vincolo non abbandoni me, atomo di polvere; i tuoi amplessi mi stringano, finché io non sia una cosa sola con Dio. Fammi sperimentare quali delizie siano in te, Dio vivente; dolcissimo amor mio, fa' che ti abbracci, che mi unisca a te. O Dio Amore, Tu sei la carissima mia possessione, senza la quale niente altro io spero, voglio e desidero in cielo ed in terra» (S. Geltrude).

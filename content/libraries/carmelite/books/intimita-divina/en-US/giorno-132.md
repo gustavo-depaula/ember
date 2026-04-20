@@ -1,110 +1,122 @@
-## 132 — THE SUPPER AT BETHANY
-*Holy Monday*
+## 100 — IMPERFECTION
 
 ### Presence of God
 
-— O Lord, before Your body is disfigured by the Passion, I desire, with Mary of Bethany, to offer it my humble and devout homage.
-
 ### Meditation
 
-1 — Here is the moving scene presented by the Gospel of today's Mass (Jn. 12:1-9): "Six days before
-Passover Jesus came to Bethany... and there they made Him a
-supper; Martha served... then Mary took a pound of precious
-spikenard ointment and anointed Jesus' feet
-and wiped them with her hair." Martha, as usual,
-is busy with service; Mary instead is occupied only with
-Jesus and, to render Him homage, it does not seem too much to her
-to pour upon His Person an entire jar of precious
-ointment. Some guests murmur: "Why this
-waste? Could not this ointment have been sold for the benefit of the poor?" and they rage against her (cf. Mk. 14:4-5);
-but Mary does not reply, does not excuse herself, and wholly intent
-upon the adored Master, continues her gesture of devotion and
-love.
+1 — Whereas venial sin always includes a
+transgression, more or less slight, of a law of God, imperfection
+is the omission of a better good to which one is not
+obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
+presented to me the possibility of doing a better action,
+which is fitting and proportionate to my state,
+to my present possibilities, which is in harmony with my
+duties, and for which I can reasonably think myself
+inspired by the Holy Spirit, and yet I deliberately refuse
+to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
+cannot be considered good, nor can it be justified
+by the thought that, since no law or command exists
+imposing that better action on me, I may omit it merely to exercise my freedom; this would be
+an abuse of freedom, which was given to me by God
+only to render me capable of adhering to good, without
+letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
+laziness, narrowness, attachment to my comfort; and
+all this is evidently contrary to perfection.
 
-Mary is the symbol of the soul in love with God that
-gives itself exclusively to Him, consuming for Him all that
-it is and all that it possesses; she is the symbol of those souls
-that leave, wholly or in part, external activity in order
-to dedicate themselves more to God's direct service,
-to give themselves to a life of more intimate union with Him. And those who do not understand murmur, as though it were wasted to consume for
-God what is not judged wasted when spent for works.
-If all we are and have is His gift,
-is it truly a waste to use His gifts to sacrifice them
-solely in His honor, thus making up for the indifference
-of so many creatures who do not even have a thought
-for Him?
-
-Money, time, strength, and even human lives that
-are spent in the Lord's direct service are not
-wasted values, but rather invested in what can be
-greatest. Almsgiving to the poor is a duty, but love toward God, worship of God is an obligation still greater.
-And if urgent duties of charity sometimes require that we
-leave God's service for service of neighbor, this
-must not make us reverse positions: God must
-always have first place.
-
-Besides, Jesus Himself comes to Mary's defense:
-"Leave her alone; she has kept this perfume for the day
-of my burial." In the name of all loving souls,
-Mary has rendered to Jesus' most holy body, before it was
-disfigured by the Passion, the final homage of ardent and devout love.
+Considered thus, it is clear that voluntary imperfection
+can never be conformed to the will of God,
+therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
+with the divine will. Hence the importance,
 
 
-2 — In St. John's Gospel it is expressly said
-that the murmuring against Mary's gesture came
-from Judas Iscariot. Beside that of Mary, the most faithful one, the dark figure of the traitor stands out yet
-more gloomy; materially he is still part of the Twelve,
-but spiritually he has long been separated from them. Since the previous year, when the Master had announced the Eucharist,
-Judas was lost, and, alluding precisely to him, Jesus
-had said: "Did I not choose you Twelve? Yet
-one of you is a devil" (Jn. 6:71). Yes, Judas had been chosen
-by Jesus with predilection-love, had been admitted among the
-most intimate and, like the other eleven, had received the great grace of the apostolate. At first he must have been
-faithful, but later attachment to earthly goods, greed for
-money began to invade him until completely cooling his love
-for the Master, until transforming him from
-apostle into traitor. Jesus, in His divine foreknowledge,
-had foreseen everything and yet, because at first Judas had
-been worthy of His trust, admitted him all the same
-to the apostolic college and, even afterward, when he had already begun to prevaricate, continued to treat him like the
-others, showing him the same love, the same esteem. A very painful situation for Jesus' most sensitive Heart, but
-He did not want to avoid it in order to teach us with what love,
-with what patience and delicacy even the most obstinate enemies must be treated. How many times the Master must have sought
-to enlighten that darkened mind! And certainly He must have thought in a special way of Judas when imparting His teachings on detachment from earthly goods: "You cannot
-serve God and Mammon... What does it profit a man to gain the whole world and forfeit his soul?" (Mt. 6:24; 16:26); and yet those words, which should have had for the
-traitor the meaning of a loving call, failed to shake him. Judas represents those souls that
-have received from God graces of predilection, but which by
-their infidelity have made themselves unworthy of them. Consecrated soul, at least you be faithful to your vocation and, to remain such, do not allow the smallest attachment
-to nest in your heart!
+for the soul that seeks perfection, of eliminating from its
+
+
+conduct any voluntary imperfection. It is precisely in
+this sense that St. John of the Cross warns: "For the soul
+to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
+that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
+but also progress in perfection" (A. I, 11, 3).
+
+
+2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
+of a law that of itself does not oblige under sin,
+as are generally the constitutions or statutes of various
+religious Orders and Institutes. In this regard it should
+be noted that if there is no reasonable,
+proportionate, and sufficient motive for failing in one of these laws,
+very easily such transgressions will become venial
+sin because of lack of a morally good end. In fact,
+as St. Thomas teaches, man is bound always to act
+
+
+for a reasonable motive, for a good end. If the
+
+
+end is vitiated - as it would be, for example, to transgress the
+law of silence, recollection, or religious modesty out of
+curiosity, for one's own convenience, and the like - the action
+thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
+ingratitude, and a certain hardness of heart that does not
+sufficiently appreciate the help God gives us for
+better works" (Salmanticenses). Another kind of imperfection
+is a certain lack of completeness found in an
+act substantially good, but carried out, for example, with
+some narrowness, or without employing in it all the
+good will and impetus of which one is capable.
+
+In the end, every kind of voluntary imperfection
+always derives from lack of effort, of vigor, of momentum
+in spiritual life. It is always selfishness that, in one way
+or another, takes something from God to satisfy
+self. We are too calculating; we are afraid of giving
+
+
+too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
 
 ### Colloquy
 
-Behold, O Lord, two ways, the most opposite and contrasting:
-the way of fidelity, the way of betrayal; Mary's loving fidelity, and Judas's horrible betrayal.
-How I would like, O Lord, to have Mary's heart for You;
-how I would like the traitor in me to be wholly dead and destroyed!
-But You say to me: "Watch and pray, lest you enter into temptation!" (Mk. 14:38). Oh, how necessary it is for me to watch and pray,
-lest the enemy come and sow in my heart the poisonous seed of betrayal!
-May I be faithful to You, Lord, faithful at any cost, faithful
-in great things but also in little things, so that the little foxes
-of small attachments may not enter to invade
-and devastate the vineyard of my heart.
+I beg You, O my God, grant me a charity
+strong, generous, capable of destroying to the very root my
+selfishness. Oh, how I see that it is precisely this
+selfishness that is the cause of so many little infidelities of mine, of so many
+imperfections into which I habitually fall and which
+I do not care to correct under the pretext that they are not
 
-"Lord Jesus, if I wish devoutly to meditate Your
-Passion, first before my eyes comes the perfidy of the traitor. He was filled with such poison of deceit as to betray
-You, his Master and Lord; inflamed by such a flame of greed that he sold You for silver, best God, for vile coin
-Your most precious Blood; and he was of such ingratitude as to pursue to death Him who had raised him to the
-exalted rank of apostle. O Jesus, how excessive was Your
-goodness toward the hard disciple! Though the impiety of the traitor was so great, infinitely more am I struck by Your most sweet meekness, O Lamb of God! And this meekness
-is given to us as model. Here, O Lord, is the man whom You
-had admitted to unique confidences, the man who seemed
-so united to You, Your Apostle, Your intimate; the man who tasted Your bread, the man who at the holy supper ate
-with You the sweet foods... and this man lifted against You,
-his Master and God, the blow of iniquity. And yet...
-You, most meek Lamb, did not hesitate to give Yourself to that most malicious mouth, the mouth that, in the hour of betrayal,
-kissed You. You gave him everything as to the other Apostles,
-to give him every help that might soften the obstinacy
-of an evil heart" (cf. St. Bonaventure).
 
-O Jesus, by the atrocious suffering that infamous betrayal inflicted on Your Heart, grant me, I beg You,
-the grace of an integral, total, loving, devout fidelity.
+sins!
+
+But such faults are not without importance for
+a soul that, being consecrated to You, has the duty to
+tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
+How can I claim to unite myself to You, Infinite Perfection,
+I who voluntarily admit into my life so many and
+so many imperfections? How can my will be
+wholly conformed to Yours, when I will and love what
+You do not will and absolutely cannot love?
+
+O Lord, how I feel the weight of my selfishness
+that drags me downward, that would like to achieve the
+maximum with minimum effort, that seeks by every means to avoid
+toil, renunciation, full and generous self-gift! How
+I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
+to tomorrow what costs me or repels me, that presents me
+a thousand pretexts to evade an act of generosity!
+
+Yes, O Lord, I feel all this, and You know better
+than I how far the retreats and compromises of my
+selfishness go. But You also know that I want to love You with all my
+heart, that I want to give myself entirely to You; You know that my
+poor desires are sincere, though ineffective. Well then,
+do You give me a real, operative love, capable of conquering
+all the resistances of selfishness, of dismantling all its
+
+
+plans. You who are infinite charity, consuming fire, infuse
+
+
+into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
+is the weight that tries to slow my flight toward You,
+grant that Your love be a weight still stronger that
+draws me incessantly into You, by means of a total
+self-giving, without reserve, without measure.

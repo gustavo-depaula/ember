@@ -1,104 +1,120 @@
-## 104 — A HUMILDADE
+## 102 — A CONFISSÃO
 
 ### Presença de Deus
 
-— Ó Jesus, que tanto te humilhaste por nós, ensina-me a prática da verdadeira humildade.
-
 ### Meditação
 
-1 — A caridade é a essência da perfeição cristã,
-porque só a caridade tem o poder de unir o homem a Deus, seu
-último fim. Mas da nossa parte - pobres, míseras criaturas
-que Deus quer elevar até a união com ele - a caridade
-é propriamente o último fundamento da vida espiritual? Não,
-existe algo ainda mais profundo, que é por assim
-dizer o fundamento da caridade, e é a humildade. A humildade
-está para a caridade, como os fundamentos estão para o edifício.
-Escavar os fundamentos de uma casa ainda não é construir
-a casa, contudo é o trabalho preliminar, indispensável:
-a condição sine qua non. Quanto mais os fundamentos
-forem profundos e bem assentados, tanto mais o edifício poderá
-erguer-se em altura e dará garantia de solidez. Só o estulto
-"edifica sua casa sobre a areia", com a inevitável consequência de vê-la bem cedo desabar; mas o homem sábio
-edifica "a casa sobre a rocha" (Mt. 7, 24-26) e então,
-apesar do ímpeto das águas e dos ventos, a casa
-não desaba, justamente porque seus fundamentos estão solidamente plantados.
+1 — A confissão é o sacramento do Sangue de Cristo, do qual Deus - segundo o expressivo dito de S. Catarina
+de Sena - "nos fez um banho para lavar a face
+de nossas almas da lepra do pecado". Se matéria
+necessária deste sacramento são só os pecados mortais, os pecados veniais são matéria suficiente e toda a
+tradição católica insiste na conveniência de recorrer à
+confissão frequente também só pelos pecados veniais. Mas
+quem, seguindo tal diretiva, pratica a confissão semanal, deve vigiar atentamente para que, longe de tornar-se
+hábito mecânico, seu ato seja um verdadeiro ato
+vital, que o torne capaz de aproveitar em cheio de todas
+as graças oferecidas por este sacramento.
 
-A humildade é a rocha sólida e segura sobre a qual toda alma
-cristã deve elevar o edifício de sua vida espiritual.
-"Se quereis que vosso edifício se levante sobre bom fundamento - ensina S. Teresa de Jesus às suas filhas -
-procurai ser as últimas de todas [isto é, exercitai-vos
-muito na humildade] e assim poreis pedras tão fortes que impedirão vosso castelo de ruir" (cf. M. VII, 4, 8).
-
-A humildade cava os fundamentos da caridade, no sentido
+"Não desprezeis o Sangue de Cristo!", exclama
+S. Catarina de Sena, e certamente quem o não despreza
+não se aproximará com leviandade da confissão. Para tal fim
+é útil refletir que a absolvição é precisamente a efusão do
+Sangue precioso que, inundando e penetrando a alma,
 
 
-de que esvazia a alma da soberba, esvazia a alma do amor desregrado de si e da própria excelência para dar lugar ao amor de Deus e do próximo. Quanto
-mais a humildade desocupa a alma das vãs e orgulhosas
-pretensões do eu, tanto mais dá lugar a Deus. E "quando enfim [o homem espiritual] chegar a reduzir-se ao nada, isto é,
-a estabelecer-se em suma humildade, então sim se poderá dizer que já aconteceu a união espiritual entre sua alma e Deus"
-(G.C. S. II, 7, 11).
+a purifica do pecado, restitui-lhe a graça santificante se
+a perdeu e a aumenta se já a possui. Esta remissão do pecado e produção da graça é fruto da
+ação de Jesus, expressa na fórmula que o sacerdote
+diz em Seu nome: "Eu te absolvo...". Nesse momento é
+Jesus quem age na alma, quer perdoando o pecado, quer
+produzindo ou aumentando a graça. E convém recordar
+que a eficácia da absolvição não se limita apenas aos pecados
+cometidos, mas se estende também ao futuro, premunindo a alma contra recaídas, oferecendo-lhe força para resistir às tentações e para realizar os bons propósitos,
+e isso mediante a graça sacramental. Neste sentido, o
+Sangue de Cristo não é só remédio para o passado,
+mas é também preservativo e fortificante para o futuro: a
+alma, que nele é imersa como num banho salutar,
+dele tira novo vigor e pouco a pouco vê extinguir-se
+em si a força das paixões.
+
+Daí a importância da confissão frequente para
+uma alma que, anelando à união com Deus, deve necessariamente aspirar a uma purificação total.
 
 
-2 — A alma que deseja chegar às sublimes alturas
-da união com Deus deve trilhar a via de uma profunda
-humildade, porque, como o Mestre divino ensina,
-só "quem se humilha será exaltado" (Lc. 18, 14).
+2 — Quando, no tribunal da penitência, uma alma
+não tem a submeter senão pecados veniais, não é o caso
+de preocupar-se com a integridade da acusação - como ao contrário
+é requerido para os pecados mortais - isto é, não é necessário
+enumerar todas as venialidades que lhe escaparam na
+semana; é muito mais proveitoso que fixe sua
+atenção antes de tudo sobre as deliberadas,
+depois sobre as semideliberadas, ainda que fossem simples imperfeições, e denuncie não só o aspecto externo,
+mas também o motivo interno. Embora isso não seja por si necessário para a validade da confissão, é certo
+que quanto mais a acusação põe a nu a raiz do mal,
+tanto mais a alma tirará proveito, quer pelo ato de humildade cumprido,
 
-Quanto mais alto é o ideal de santidade a que aspiras,
-quanto mais excelsa a meta a que tendes, tanto mais deves descer, ou melhor deves escavar em ti mesmo o fértil abismo da humildade. "Abyssus
-abyssum invocat" (Sl. 41, 8), o abismo da humildade invoca
-o abismo da Misericórdia infinita, das graças e dos dons
-divinos; de fato "Deus resiste aos soberbos e dá a graça aos
-humildes" (I Ped. 5, 5). Humilha-te, pois, sob a mão potente de Deus, reconhece sinceramente teu nada, toma
-consciência da tua miséria, e se queres gloriar-te,
-fá-lo - como S. Paulo - só das tuas enfermidades, porque justamente na tua fraqueza, humildemente reconhecida, opera e triunfa a graça e a virtude divina (cf. II Cor. 12, 9). Se também
-tu pertences à fileira daquelas almas boas, sinceramente desejosas de avançar na via da perfeição,
-mas que contam demais com as próprias forças e iniciativas
-pessoais, poderás com muito proveito aplicar a ti mesmo
-a preciosa advertência que S. Teresa do Menino Jesus dava
-a uma noviça: "Vejo bem que ela erra caminho e não
-chegará jamais ao fim de sua viagem, porque quereria
-subir um monte, enquanto Deus quer fazê-la descer...
-o próprio Jesus se encarregará de encher-lhe a alma, à medida
-que ela a esvaziar de suas imperfeições" (CR.).
 
-O sublime ideal da união com Deus supera totalmente as nossas capacidades de fracas criaturas; se podemos aspirar
-a ele, não é porque contamos chegar por meio de nossos
-esforços e iniciativas, mas porque confiamos que o próprio Deus, segundo sua promessa, virá
-tomar-nos pela mão. Mas Deus não toma pela mão a alma soberba, Ele se inclina só sobre os humildes e quanto
-mais encontra uma alma humilde, tanto mais a eleva até si.
-A humildade escava na alma a capacidade de receber a abundância dos dons divinos.
+quer pelo impulso a um arrependimento mais profundo e a um
+desejo mais vivo de corrigir-se, que logicamente deriva
+da consideração dos motivos bem pouco nobres dos quais,
+em geral, dependem nossas faltas. Além disso, semelhante acusação dará modo ao confessor de conhecer melhor
+os pontos fracos do penitente e portanto de sugerir-lhe os remédios mais aptos, coisa particularmente importante quando
+à confissão está ligada a direção. Mas ainda mais
+que da acusação, a alma deve preocupar-se com a dor dos
+próprios pecados enquanto são ofensa de Deus, Bondade infinita;
+que seja uma dor ex amore, proveniente do amor,
+
+
+isto é, o arrependimento do filho que, mais do que pensar
+na sua vergonha e nos castigos merecidos, se aflige pelo
+desgosto dado a um Pai que tanto o ama e de cujo
+amor deve retribuir. A dor é tão necessária
+para a validade do sacramento que, se faltasse,
+a absolvição seria nula e, por outro lado, quanto mais perfeita
+for a dor, tanto mais a absolvição destrói não só o pecado,
+mas também a pena temporal por ele contraída.
+Quanto mais o penitente leva à confissão um coração
+contrito, tanto mais o Sangue de Jesus o purifica,
+o renova, o enriquece de força, de caridade, de graça.
 
 ### Colóquio
 
-"Ó meu Deus, Tu me fazes compreender até que ponto
-devo descer para que meu coração possa servir-te de morada: devo fazer-me tão pobre a ponto de não saber onde reclinar
-a cabeça. Meu coração não está inteiramente vazio de mim mesma e
-por isso Tu me ordenas descer. Oh, eu quero descer
-muito para baixo, para que Tu possas repousar no meu
-coração tua cabeça divina e ali sentir-te amado e compreendido!
-Ó doce Hóspede divino, Tu conheces minha miséria e justamente por isso vens a mim com a intenção de encontrar
-uma tenda vazia, um coração totalmente vazio de si. Tu não
-me pedes outra coisa" (cf. T.B.G. Lt. 116 e 144).
+"Jesus doce, Jesus amor! Para vestir-nos da vida
+da graça, despojaste-te da vida do teu corpo; sobre o
+lenho da santíssima cruz estendeste teu corpo,
+de modo que parece um cordeiro sangrado que por toda parte perde
+sangue. E no Sangue nos recriaste para a vida da graça.
 
-Ó Senhor, ajuda-me a escavar na minha pobre alma
-aquele abismo de humildade que atrai o abismo das tuas misericórdias infinitas. Ajuda-me a descer, enquanto meu orgulho
-ama tanto subir. Ajuda-me a reconhecer e confessar humildemente meu nada e minha fraqueza, enquanto meu or-
-gulho ama tanto reputar-se alguma coisa grande. Ajuda-me
-a gloriar-me de minhas enfermidades, enquanto meu orgulho
-tende continuamente a gloriar-se do que não é meu,
-mas é puro dom teu. Meu Deus, como é verdade que a santidade percorre caminho oposto ao da natureza! Dá-me a força de empreender com coragem este caminho, de ir
-em ti, ó Senhor, porque sei que estás sempre pronto a socorrer o fraco que a ti recorre e em ti se confia; porque sei
-que, se minha soberba é grande, tua misericórdia é
+"Jesus doce, minha alma deseja ardentemente
+ver-se toda banhada e afogada no teu Sangue... Porque no Sangue encontro a fonte da misericórdia; no Sangue,
+a clemência; no Sangue, o fogo; no Sangue, a piedade;
+no Sangue faz-se justiça das nossas culpas; no Sangue
+é saciada a misericórdia; no Sangue se dissolve nossa dureza;
+no Sangue as coisas amargas tornam-se doces e os
+grandes pesos leves. E porque, ó Cristo, no teu Sangue
+amadurecem as virtudes, inebria e afoga no Sangue minha alma,
+para que se vista das verdadeiras e reais virtudes" (S. Catarina de Sena).
+
+Ó Jesus, se uma só gota do teu preciosíssimo Sangue tem o poder de apagar todos os delitos do mundo, que
+coisa não poderá operar-se em mim quando, no momento da absolvição,
+Tu o efundes com tanta abundância sobre a pobre
+alma minha? Ó Jesus, reaviva minha fé e faze-me penetrar a fundo o valor imenso do sacramento do
+teu Sangue. É só teu Sangue que me lava dos pecados,
+que me purifica das impurezas, que sara e vivifica
+minha alma. Oh, faze que este lavacro salutar
 
 
-infinita e tua onipotência é invencível; porque sei que
-se "alguém está exausto e necessitado de auxílio, sem
-forças e abundante de miséria, assim que teu olhar
-se põe sobre ele, Tu o levantas de sua baixeza e miséria,
-e ergues sua cabeça" (cf. Ecli. 11, 11-13).
+penetre todo meu ser e o renove todo na tua
 
-Ó Senhor, quem será "abundante de miséria" mais do que
-eu, que ainda não venci meu orgulho? E então quem
-mais do que eu terá necessidade do teu socorro?
+
+graça, no teu amor!
+
+Pelos méritos da tua Paixão, concede-me, ó Senhor,
+levar sempre ao tribunal da penitência um coração
+verdadeiramente humilde e contrito, uma dor cada vez mais perfeita
+das minhas culpas, uma detestação cada vez mais sincera e
+profunda de tudo o que é ofensa tua, Deus meu. Só
+assim teu Sangue precioso, não encontrando em mim apego algum ao pecado, poderá penetrar inteiramente minha alma,
+poderá toda purificá-la, toda renová-la, toda vivificá-la.
+Ó Jesus, faze que teu Sangue produza em mim todo
+seu fruto!

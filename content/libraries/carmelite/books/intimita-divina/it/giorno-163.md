@@ -1,117 +1,25 @@
-## 163 — LA GRANDE PROMESSA
-*IV Domenica dopo Pasqua*
+## XXIV — Esercizio della presenza di Dio
 
-### Presenza di Dio
-
-O Gesù, disponi il mio cuore ad accogliere lo Spirito Santo che ci hai promesso e meritato.
+**Presenza di Dio.** — *O Signore, che io viva sempre alla tua presenza, con lo sguardo interiore fisso in te.*
 
 ### Meditazione
 
-1. — Fin dalla domenica scorsa la Chiesa ha cominciato a prepararci all’Ascensione del Signore; oggi, riprendendo l'argomento, fa un passo innanzi, ossia ci parla
+**1** — La vita di continua orazione riesce tanto più facile, quanto più l'anima sa conservare durante la giornata il senso della presenza di Dio. Già sappiamo che Dio è sempre presente in noi, che noi viviamo, ci moviamo e siamo in Lui, ma, mentre nelle ore di orazione, cerchiamo di prendere più viva coscienza di questa grande realtà, nel ritornare alle nostre occupazioni, pian piano questa consapevolezza si dilegua e spesso ci sorprendiamo ad agire come se Dio non fosse più presente a noi.
 
-della venuta dello Spirito Santo e, per farlo, si serve an-
+L'esercizio della presenza di Dio consiste appunto nel procurare che, anche in mezzo ai nostri lavori, il Signore sia sempre presente alla nostra mente e al nostro cuore. Tale esercizio può farsi in diversi modi: servendoci di oggetti esterni, come un'immagine, un crocifisso, che portiamo con noi o teniamo sul nostro tavolo di lavoro e la cui vista ci riporterà spesso al pensiero di Dio; oppure servendoci dell'immaginazione per rappresentarci «internamente» il Signore vicino a noi, cosa che corrisponde a realtà, perché, se l'Umanità di Gesù non ci è fisicamente presente, però è sempre esercita su di noi un influsso, anche fisico, nella comunicazione della grazia. Possiamo quindi benissimo «rappresentarci» questa azione di Gesù in noi come un suo continuo accompagnarci. Possiamo anche mantenere vivo il ricordo di Dio mediante un pensiero di fede; per esempio, posso coltivare il pensiero della continua presenza della Trinità in me e cercare di compiere tutte le mie azioni in omaggio agli Ospiti divini; oppure, posso considerare i miei doveri come altrettante manifestazioni della volontà di Dio e così, nel compierli, procurare di unirmi a questa divina volontà; posso anche esercitarmi a «vedere» tutte le circostanze della mia vita alla luce della fede e quindi disposte dalla divina Provvidenza per il mio bene. Ciò mi porterà ad abbracciare tutto volentieri ripetendo continuamente al Padre Celeste: sono contento di tutto ciò che Tu fai per me.
 
-cora di un brano del discorso di Gesù dopo l'ultima Cena.
+**2** — L'esercizio della presenza di Dio, particolarmente suggerito da S. Teresa di Gesù a coloro che aspirano all'intimità divina, è quello che mira a mantenere l'anima in contatto intimo con Dio presente in lei. «Dobbiamo ritirarci in noi stessi anche in mezzo alle occupazioni — dice la Santa —. Sia pure per un momento, il ricordo di Colui che porto in me, mi è sempre di grande vantaggio» *(Cam.* 29, 5). Si potrebbe obiettare che questo metodo è più adatto per chi vive in solitudine, che per chi vive in continuo contatto con gli altri; eppure la Santa lo applica, in un modo tanto pratico e semplice, proprio a questo secondo caso: «Se [qualcuno] deve parlare, penserà che ha da parlare in se stesso con qualche altro [ossia con Dio]. Se deve ascoltare, si ricorderà di prestare orecchio ad una voce [la voce di Dio] che gli parla più da vicino. E constaterà, infine, che se vuole, può mantenersi sempre col suo Dio... Se può, lo ricordi spesso ogni giorno, o almeno di tanto in tanto» (ivi, 7).
 
-E' sempre il Signore che parla agli Apostoli e continua
-
-a disporre i loro animi alla sua dipartita; essi ascoltano
-tristi e pensierosi, senza avere il coraggio di interrogarlo.
-E il Signore, come una buona mamma, rompe quel penoso silenzio: «Vado a Colui che mi ha mandato; e nessuno mi domanda: Dove vai?» e quindi si affretta a consolarli: «E' utile per voi che me ne vada, perchè se io
-non vado il Paraclito non verrà a voi; ma se io me ne
-andrò, ve lo manderò». Infatti, solo la morte di Gesù ci
-
-avrebbe meritato questo grande dono e solo dopo la sua
-Ascensione al cielo, lo Spirito Santo, l'Inviato del Padre
-e del Figlio, sarebbe effettivamente sceso sulla Chiesa. Gli
-Apostoli stanno per perdere la presenza sensibile, fisica
-del Maestro adorato, ma questi non li lascerà orfani e
-continuerà ad assisterli invisibilmente per mezzo del suo
-Spirito che proseguirà presso di loro l'opera sua. Gesù ha
-vissuto in mezzo ad essi in modo visibile, lo Spirito Santo
-lo farà invece in modo segreto e nascosto, ma non per
-questo meno efficace e meno reale. Anzi — Gesù stesso
-lo dice — l’azione del divino Paraclito completerà la sua.
-«Ho ancora molte cose da dirvi, ma per ora non potete
-sostenerle. Quando sarà venuto lo Spirito di verità, Egli
-v'insegnerà tutta la verità. Egli... prenderà del mio e ve
-lo annunzierà ». Il cuore degli Apostoli, ancora ottuso dal
-peccato, non può intendere le verità più profonde; sarà
-necessario che Gesù, morendo sulla Croce, distrugga il
-peccato — il grande ostacolo all’azione dello Spirito Santo —
-e poi, salito al Cielo, ci invii il divino Paraclito, meritato
-per noi con la sua Passione.
-
-L'invio dello Spirito Santo alle anime nostre è il massimo frutto della Passione di Gesù.
-
-2. — Dal Vangelo odierno possiamo trarre alcune applicazioni pratiche. Anzitutto, dobbiamo disporci con ardore alla Pentecoste perchè si rinnovi in noi con grande pienezza la discesa dello Spirito Santo. E, siccome l'ostacolo
-
- all’effusione dello Spirito Santo è appunto il peccato, la
-
-nostra preparazione consista in una particolare purezza di
-coscienza. Il peccato deve essere distrutto in noi non solo
-nelle sue manifestazioni attuali, per quanto lievi, ma anche
-nelle sue radici più profonde e nascoste.
-
-Dobbiamo inoltre essere convinti che nell'anima in grazia, tanto più quando questa cerca di corrispondere con
-fedeltà alle mozioni divine, non manca mai una certa
-azione dello Spirito Santo e non è affatto necessario che
-
-questa sia sensibile e consolante. Anche nell’aridità e nello
-sconforto lo Spirito Santo lavora nell'anima fedele: è un’azione del tutto segreta e nascosta, ma reale ed efficace,
-che mira principalmente a purificarla e a disporla all'unione con Dio. L'anima che è convinta di ciò si mantiene
-fiduciosa anche attraverso le difficoltà e, se non comprende e non vede il suo cammino, si affida allo Spirito Santo
-che ben sa e ben vede dove vuole condurla.
-
-Infine, il Vangelo odierno c'invita ad invocare l'azione dello Spirito Santo sulla Chiesa e sul mondo tutto.
-Sulla Chiesa perchè la governi e la diriga al compimento
-della sua missione, sul mondo perchè lo convinca della
-verità da esso rigettata. «E quando sarà venuto — ha detto
-Gesù — accuserà il mondo di peccato, di giustizia e di
-giudizio», ossia gli mostrerà che è schiavo del peccato
-per non aver creduto in Cristo, gli farà comprendere come
-solo in Lui, il Redentore, sta la giustizia e la santità e gli
-
-mostrerà che il demonio, il « principe di questo mondo»,
-è ormai vinto e condannato.
+Qualsiasi professionista o lavoratore può adottare questo metodo in tutte le sue relazioni col prossimo. E nulla gli impedisce di usarlo anche in senso inverso, ossia di applicarlo alla presenza di Dio nell'anima altrui. Se, purtroppo, non in tutti gli uomini Dio è sempre presente per grazia, lo è però con la sua Essenza, ossia come Creatore e Conservatore del loro essere. Così un insegnante può sempre considerare Dio presente nei suoi alunni, un medico o un'infermiera nei suoi malati, un negoziante o una sarta nei suoi clienti come in qualsiasi altra persona; ciò varrà ad ispirarci sentimenti di benevolenza, di carità, di rispetto verso tutte le persone con cui trattiamo, e ci porterà ad occuparci di esse ed a servirle non solo per il nostro guadagno e neppure soltanto per un sentimento di dovere, ma in omaggio e in relazione a Dio che riconosciamo presente in loro. Si tratta, insomma, di cercare, di servire, di amare Dio presente nei nostri fratelli. Questo esercizio, congiunto a quello suggerito da S. Teresa, ci aiuterà efficacemente a mantenerci in continuo contatto con Dio, sì che lo consideriamo presente nell'anima nostra, sia in quella del nostro prossimo. «Se vi abituerete a stare con sì buon Amico — dice la Santa — e a vederlo fare con voi con amore e che cercate ogni mezzo per contentarlo, non solo non vi mancherà mai, ma, come suol dirsi, non potrete mai toglierVelo d'attorno» *(Cam.* 26, 1).
 
 ### Colloquio
 
-«Deh! eterno Verbo, dimmi, ti prego: qual'è la causa
-che impedisce che lo Spirito Santo compia nell'anima
-tutta intera l'opera sua? E Tu mi dici che il primo impedimento è la malizia, altro impedimento è il proprio volere
-per cui ti vogliamo servire, ma a modo nostro. Vogliamo
-il tuo Spirito, sì, ma lo vogliamo in quel modo che a
-a noi e quanto a noi piace, e in questo modo ci rendiamo
-inabili a riceverlo. Altre volte questo impedimento è la
-tiepidezza sì che ci sembra di servire a te e non ci avvediamo che serviamo a noi stessi. Ma Tu, o Signore, vuoi
-essere servito senza amor proprio bensì con sincerità ed
-umiltà. Così lo Spirito tuo non si posa se non in quel
-l'anima che si trova nel centro della propria umiltà. Ma
-deh! amoroso Verbo, vorrei sapere quello che devo fare
-contro questi impedimenti, perchè che gioverebbe a me
+«O Signore, Tu in me e io in te, questo sia il mio motto! Com'è bella questa tua presenza in me, nell'interno santuario dell'anima mia! Fa' che la mia continua occupazione sia di rientrare nel mio interno per perdermi in te, per vivere insieme con te. Ti sento così vivo nell'anima mia, che mi basta raccogliermi per trovarti qui, dentro di me; e questa è tutta la mia felicità.
 
-averli intesi, se non sapessi il rimedio? Ecco, il rimedio
-alla malizia è l'intenzione retta e semplice; il rimedio
-al proprio volere è una volontà morta tanto da non volere
-se non quel che è volontà tua. Il rimedio alla tiepidezza è
-l'ardore della carità che a guisa di fuoco scende nei cuori
-e abbrucia ogni tiepidezza » (S. M. Maddalena de' Pazzi).
+«O Signore, che io viva con te come con un amico. Aiutami a mantenere desta la mia fede, per unirmi a te attraverso tutte le cose. Io porto il cielo nell'anima mia poiché Tu, che sazi i beati nell'eterna visione, ti doni a me nella fede e nel mistero.
 
-«Vieni, o Spirito Santo, santificami! Vieni, o Spirito di verità, riempimi! La tua sapienza divina mi stabilirà
-nella verità. Ne sono assetata e vorrei che la verità regnasse
-nella mia mente, nelle mie parole, nei miei affetti, nelle
-mie azioni, evitando tutto ciò che le è contrario, e non
-solo la bugia, ma anche le dissimulazioni, le doppiezze, le
-mancanze di sincerità con me stessa.
+«Fa', Dio mio, che la mia anima sia un piccolo paradiso dove Tu possa riposanti deliziosamente; aiutami perciò a togliere da essa tutto quello che potrebbe ferire il tuo sguardo divino. E poi, che io viva in questo piccolo cielo, sempre con te. In qualunque luogo io sia, qualsiasi cosa io faccia, Tu non mi lasci mai; che io pure, dunque, rimanga sempre con te; che in ogni ora del giorno e della notte, in ogni gioia e in ogni prova, in ogni lavoro e in ogni azione sappia trovarti in me.
 
-«Vieni, o Tu di pace, dammi la tua pace! Quella
-pace profonda che dilata l’anima, che la rende atta alle tue
-operazioni, che calma e domina tutta la parte sensibile e
-anche quella superiore.
+«Dio mio, Trinità santa, sii Tu la mia dimora, il mio nido, la casa paterna da cui non devo mai uscire. Che io rimanga in te, non per qualche istante, o per alcune ore che passeranno, ma in modo permanente, abituale. Che io preghi in te, adori in te, ami in te, soffra in te, lavori, agisca in te. Rimanga in te per presentarmi a qualunque persona o cosa, per applicarmi a qualsiasi dovere, spingendomi sempre più innanzi nelle tue divine profondità. O Signore, che ogni giorno più m'inoltri in questo sentiero che mi conduce a te, che io mi lasci scivolare su questo pendio con una fiducia tutta piena d'amore» (cfr. E.T. *Lettere* e I, 1).
 
-« Vieni, o Spirito di carità, accendimi e fa’ ch'io sia così
-infiammata del tuo amore da riversarlo su tutte le anime
-che vorrei portare tutte a te! Oh! trasformami in amore;
-solo così potrò rispondere pienamente alla: tua chiamata
-ed essere utile alla Chiesa » (Sr. Carmela d. Spirito S. c.s.).
+«Concedimi, o Signore, d'imitare gli angelici spiriti che, mentre stanno con noi, non cessano però dalla divina contemplazione. Fa' che tratti e serva i miei fratelli, considerando e godendo te in loro e porga aiuto al prossimo, porgendo il cuore a te. E quando mi avverrà d'allontanarmi da questo nobile esercizio, aiutami a ritronarvi subito facendo ogni sforzo per riuscirvi, sì che, col tuo divino soccorso, possa sempre vivere col cuore fisso in te» (cfr. S. Bonaventura).

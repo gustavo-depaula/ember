@@ -1,90 +1,19 @@
-## 166 — SPOSA DELLO SPIRITO SANTO
+## XXVII — La S. Messa
 
-### Presenza di Dio
-
-O Maria, sposa dello Spirito Santo, rendimi docile alle sue divine mozioni.
+**Presenza di Dio.** — *Concedimi, o Gesù, di comprendere sempre meglio il valore ed il significato del tuo Sacrificio eucaristico.*
 
 ### Meditazione
 
-1. — Maria SS.ma, dice S. Agostino, «fu l’unica che
-meritò di esser chiamata madre e sposa» di Dio. E fu
-madre di Dio, perchè fu sposa dello Spirito Santo: «Lo
-Spirito Santo scenderà in te e la potenza dell’Altissimo
-ti coprirà con la sua ombra » (Lc. 1, 35), le disse l'Angelo
-spiegandole il modo misterioso e divino per cui diverrà
-a e madre del Figlio di Dio. In quel momento lo
-Spirito Santo, che già possedeva l'anima di Maria fin dal
+**1** — Il centro del culto liturgico è la S. Messa. Come l'opera redentrice di Gesù culmina sul Calvario mediante la sua morte di Croce, così l'azione liturgica, che prolunga l'opera di Gesù nel mondo, culmina nella S. Messa che rinnova e perpetua sui nostri altari il sacrificio della Croce. Gesù ha voluto che i preziosi frutti di redenzione da Lui meritati sul Calvario per tutto il genere umano vengano applicati e trasmessi ad ogni fedele in particolare mediante la sua partecipazione al Sacrificio eucaristico. Sui nostri altari, quindi, continua a fluire quella fonte di grazia che Gesù aprì sul Calvario, fonte cui tutti i fedeli sono tenuti ad accostarsi almeno una volta alla settimana, mediante l'assistenza alla Messa festiva, ma alla quale possiamo associarci anche ogni giorno, tutte le volte che partecipiamo al Sacrificio dell'altare. La S. Messa è veramente «la fonte della vita»: Gesù offrendosi ed immolandosi continuamente sui nostri altari ci ripete: «Chi ha sete, venga a me e beva!» *(Gv.* 7, 37).
 
-primo istante della sua immacolata concezione, sopravvenne
-in lei con una pienezza tanto singolare sì da formare in
-lei il Corpo SS.mo di Gesù. Giustamente, perciò, Maria
-merita il nome di sposa dello Spirito Santo: Maria è possessione sua, è suo sacrario, suo tempio.
+«L'augusto Sacrificio dell'altare — dice l'Enciclica *Mediator Dei* — non è una pura e semplice commemorazione della passione e morte di Gesù Cristo, ma è un vero e proprio sacrificio, nel quale, immolandosi incruentamente, il Sommo Sacerdote fa ciò che fece una volta sulla Croce». Identica la Vittima, identico il Sacerdote, diverso soltanto il modo di fare l'offerta: sul Calvario in modo cruento, sull'altare in modo incruento. Ma se nella S. Messa noi non vediamo, come lo vide Maria sul Calvario, il Corpo straziato di Cristo e il Sangue sgorgare dalle sue ferite, però, in forza della Consacrazione, abbiamo realmente presente quello stesso Corpo e Sangue e inoltre, realizzandosi questa divina presenza sotto specie distinte, viene misticamente rinnovata la morte cruenta avvenuta sul Calvario con la reale separazione del Corpo e del Sangue del Salvatore.
 
-A lei il divino Paraclito può ben rivolgere quelle parole della Cantica: « Un giardino chiuso sei tu, sorella mia
-sposa, un giardino chiuso, una fonte sigillata» (4, 12).
-Un giardino chiuso che mai fu violato neppure per un
-istante dall'ombra del peccato, che mai fu soggetto ai
-venti delle passioni sregolate, che mai fu occupato da
-alcun affetto di creatura. «La gloriosissima Nostra Signora
-dichiara S. Giovanni della Croce — non ebbe mai impressa nell'anima sua alcuna forma di creatura che la muovesse
-ad agire, ma sempre la sua mozione fu dallo Spirito Santo»
-(S. III, 2, 11). Piena di grazia fin dalla nascita, Maria
-fu sempre la sposa fedele dello Spirito Santo, attenta e
-
-docile ad ogni suo impulso, ad ogni sua ispirazione.
-
-Se gli altissimi privilegi di Maria sono riservati a lei
-sola, possiamo però imitare le sue disposizioni interiori,
-procurando che, come il suo, così il nostro cuore sia sempre pronto e docile all'azione dello Spirito Santo.
-
-2. — La piena docilità alla mozione dello Spirito Santo è proprio la caratteristica dello stato di unione con Dio.
-A questo stato, come insegna S. Giovanni della Croce,
-Maria SS.ma fu «innalzata fin dalla sua origine» (S. III
-2, 11); e ciò è evidente se si riflette che Maria, non solo fu
-creata in grazia, ma fin dalla sua nascita ebbe un grado
-di grazia assai superiore a quello che i più grandi santi
-raggiungono al termine della loro vita. Quindi quello
-stato di perfetta unione con Dio, che costituisce il nostro
-ideale e la meta di tutti i nostri sforzi, fu la porzione
-di Maria fin dall'inizio della sua vita; e, d'altra parte, Maria, con la sua libera corrispondenza e fedeltà alla grazia,
-non fece che progredire vertiginosamente in questo al-
-
-tissimo stato. Dopo Gesù, la Madonna è quindi il modello
-e la guida più sicura per coloro che aspirano all'unione con
-Dio; anzi, la sua condizione di semplice creatura la rende
-a noi più accessibile, più imitabile. Maria c'insegna che
-il grande segreto per giungere presto all'unione con Dio è
-il totale distacco dalle creature e, principalmente, da quella
-creatura che amiamo tanto e che è il nostro «io». Maria
-non vive che per Iddio: studiando la sua vita attraverso
-il Vangelo, mai la vediamo mossa da motivi egoistici, da
-interessi personali; una sola molla la spinge: la gloria di
-Dio, gli interessi di Gesù e delle anime. Nella sua condizione umile e nascosta, nel suo lavoro, nella sua povertà,
-negli stenti e nella sofferenza che dovette subire, mai
-un ritorno su di sè, mai un lamento, ma sempre avanti,
-totalmente dimentica del suo patire, totalmente protesa
-nell'adempimento della volontà divina. È lo Spirito Santo
-che la guida, che la spinge, che la sostiene, e il segreto di
-Maria sta in questo, lasciarsi in tutto reggere e muovere da
-Lui. Come per opera dello Spirito Santo la. Vergine ha
-concepito il Figlio di Dio, così tutte le sue azioni sono
-concepite dietro la mozione del divino Spirito. È appunto
-in questo che noi dobbiamo imitare Maria: eliminare dalla
-Nostra vita tutto ciò che è frutto del nostro egoismo, amor
-proprio, orgoglio, per concepire solo azioni mosse dalla grazia,
-dietro l’impulso dello Spirito Santo.
+**2** — Il modo migliore di assistere alla S. Messa è quello che ci fa maggiormente partecipare all'azione sublime che si svolge sull'altare. A tale scopo è molto raccomandabile il metodo liturgico che, facendoci recitare le stesse preghiere del sacerdote, ci permette di seguire più da vicino le varie parti del santo Sacrificio. Tuttavia, più che preoccuparsi dell'integrità della recita — la quale è obbligatoria solo per il celebrante — bisogna attendere a penetrare il significato delle varie preghiere e soprattutto di quelle che accompagnano i punti principali della Santa Messa, come: l'Offertorio, la Consacrazione, la Comunione. Il metodo liturgico, però, pur essendo ottimo, non è l'unico; l'Enciclica *Mediator Dei* nota espressamente che «i bisogni e le disposizioni delle anime non sono uguali in tutti, né restano sempre gli stessi nei singoli». Non è raro il caso, ad esempio, che, dopo aver seguito per molto tempo e con frutto il metodo liturgico, certe anime sentano il bisogno di chiudere il loro messale per «gustare» più profondamente la sostanza stessa della Messa, per «penetrarvi» più addentro. Evidentemente, questo non è un regresso, ma un progresso. Più che attendere in modo distinto alle varie cerimonie e preghiere, l'anima sente il bisogno «di porsi in intimo contatto col Sommo Sacerdote» *(Med. Dei)* per associarsi interiormente alla sua azione, alla sua offerta, alla sua immolazione. In questo caso l'anima segue la Messa in modo più contemplativo che liturgico, cioè con la semplice «attenzione amorosa» che è la caratteristica dell'orazione contemplativa. Senza seguire necessariamente in tutte le sue varie parti lo svolgimento del sacro Rito, l'anima vi fissa la mente e il cuore con uno sguardo generale, ma reso penetrante dall'amore, e così si addentra in una comprensione sempre maggiore del S. Sacrificio, ne acquista un «senso» sempre più profondo e si desta in lei un desiderio più efficace di associarsi ad esso. Tuttavia sarà sempre bene che, di tanto in tanto, ritorni al suo messale — particolarmente per seguirvi la liturgia delle domeniche e delle feste — e vi scoprirà ogni volta nuove luci, nuovi sensi che l'aiuteranno a penetrare sempre meglio la sostanza del S. Sacrificio.
 
 ### Colloquio
 
-«O Maria, Tu sei santa di corpo e di spirito. In un
-modo tutto speciale Tu puoi dire: “La mia conversazione
-è nei cieli” (cfr. Fil. 3, 20). Tu sei il giardino chiuso, la
-fonte sigillata, il tempio del Signore, il santuario dello
-Spirito Santo» (cfr. S. Bernardo).
+«O Eterno Padre, permettimi di offrirti il Cuore di Gesù tuo dilettissimo Figlio, come Egli stesso si offre a te nel santo Sacrificio dell'altare. Accetta, se ti piace, questa offerta per me; accetta tutti i desideri, i sentimenti, gli affetti, i moti e gli atti del suo Cuore sacrosanto: son tutti miei, perché Gesù per me li sacrifica e protesta in avvenire di non voler mai avere altri desideri che i suoi. Ricevili in soddisfazione dei miei peccati ed in ringraziamento di tutti i tuoi benefici; ricevili per concedermi, in virtù dei loro meriti, tutte le grazie che mi sono necessarie, massimamente quella della perseveranza finale. Ricevili come tanti atti di amore, di adorazione, di lode che offro alla tua divina Maestà, poiché soltanto da essi Tu sei degnamente onorato e glorificato.
 
-O Maria, aiutami dunque, o Vergine fedele, a vincere ogni
-resistenza del mio orgoglio, del mio egoismo, della mia
-codardia, affinchè l’anima mia si apra totalmente all’invasione
-della grazia, si abbandoni docilmente all’azione dello Spirito
-Santo, ne segua con prontezza gli impulsi, le ispirazioni,
-gli inviti.
+«Mio Dio, io ti offro il Figlio tuo diletto per ringraziamento di tutto il bene che mi fai, per mia domanda, mia offerta, mia adorazione e per mio tutto. Ricevilo, o Padre Eterno, per tutto quello che desideri ch'io ti offra, se non Colui dal quale mi dai il godimento con tanto amore» (S. Margherita M. Alacoque).
+
+«Che cosa renderò al Signore per tutti i benefici che ho ricevuto da Lui? Ecco: prenderò il calice della salvezza. Sì, Dio mio, prenderò questo calice incorporato del Sangue del mio Sangue, e nel ringraziamento, giocondamente mescolerò il mio sangue a quello della Vittima santa; allora il mio sacrificio sarà, per così dire, 'infinitizzato' e potrà renderti, o Padre, una splendida lode; allora la mia sofferenza diventerà un messaggio che trasmette la tua gloria. O Gesù, degnati d'identificarmi così bene a te, che io possa continuamente esprimerti agli occhi del Padre. Venendo nel mondo Tu hai detto: 'Eccomi, vengo, o Dio, per fare la tua volontà!' Fa' che questa preghiera sia il palpito e sia insieme la spada che m'immoli. E così, insieme con te, Maestro adorato, andrò lietamente incontro a qualunque immolazione, rallegrandomi di essere stata riconosciuta dal Padre, giacché Egli mi crocifigge insieme con te» (cfr. E.T. II, 7 e 14).

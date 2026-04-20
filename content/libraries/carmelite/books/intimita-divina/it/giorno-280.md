@@ -1,89 +1,21 @@
-## 280 — IL CORAGGIO
+## XIX — PRUDENZA E RETTITUDINE
 
-### Presenza di Dio
-
-— O Signore, fammi diventare un soldato forte e coraggioso nel tuo servizio,
+**Presenza di Dio.** — *Insegnami, Dio mio, quella prudenza che conduce a te per la via retta del dovere e della verità.*
 
 ### Meditazione
 
-1. — Quanto più un’anima ama il Signore, tanto più sarà coraggiosa nell’intraprendere per amor suo qualsiasi opera
-per quanto ardua possa essere. La paura della fatica, della
-sofferenza, del rischio è il grande nemico della fortezza: paralizza l’anima e la fa indietreggiare di fronte al dovere, Il
-coraggio invece la slancia, facendole affrontare qualsiasi cosa pur di essere fedele a Dio. In questo senso il coraggio spinge ad abbracciare anche la morte, anche il martirio quando è necessario per non venir meno al dovere. Il martirio
-è il massimo atto della fortezza cristiana, atto che non viene
-richiesto a tutti e che tuttavia è bene non escludere dalla
-nostra visuale. Ogni cristiano è, per così dire, un martire
-in potenza, nel senso che la virtù della fortezza, infusagli
-nel battesimo e nella cresima, lo rende capace, in caso di
-necessità, di sacrificare anche la propria vita per amor di Dio.
-E se di fatto non tutti i cristiani sono chiamati a rendere al
-Signore questa suprema testimonianza, tutti però devono vivere da soldati coraggiosi, abituandosi a non disertare mai —
-nè in poco nè in molto — il proprio dovere per timore del
-sacrificio.
+**1** — La prudenza non si limita a consigliarci le buone opere che dobbiamo fare per raggiungere il fine della nostra santificazione, ma ci segue anche durante il compimento di tali opere, suggerendoci la condotta più adatta a seconda delle circostanze del momento. La prudenza, ad esempio, ci dice quando è opportuno tacere e quando parlare, quando agire e quando attendere, quando cedere e quando resistere, quando e in quale forma praticare questa o quella virtù. La prudenza è così la grande regolatrice di tutta la nostra vita e ben giustamente è chiamata «*auriga virtutum*», ossia colei che dirige l'esercizio di tutte le altre virtù. Riguardo alle virtù morali la prudenza le regola in modo che mantengano la nostra condotta nel giusto mezzo evitando gli eccessi opposti che sono sempre difettosi, ad esempio: il troppo ardire o la timidezza esagerata, la troppa attività o la passività eccessiva, la ricerca delle comodità o le penitenze che rovinano la salute, ecc. Riguardo alle virtù teologali, invece, per le quali non vi è questione di giusto mezzo, il compito della prudenza consiste nell'indicarci in quali circostanze e con quali mezzi li dobbiamo praticare. Così, ad esempio, la prudenza ci indicherà i pericoli che minacciano la fede e il modo di evitarli, ci suggerirà come esercitare la piena confidenza in Dio, senza timore di cadere nella presunzione, c'insegnerà ad amare Dio con tutto il cuore, senza trascurare l'amore del prossimo o l'adempimento dei nostri doveri ed infine a praticare la carità fraterna con piena dedizione, ma senza commettere imprudenze che potrebbero essere molto dannose.
 
-E' vero, la virtù della fortezza non ci esenta dalla paura
-e dallo sgomento che invadono la nostra natura di fronte ai
-sacrifici, ai pericoli e soprattutto di fronte al pericolo della
-morte; però la fortezza — come tutte le altre virtù — si
-esercita con la volontà, quindi è possibile compiere atti di coraggio malgrado la paura che invade la parte sensibile. In
-questi casi il coraggio adempie una duplice funzione: vince
-la paura ed affronta il dovere difficile. Tale fu il supremo atto
-di fortezza compiuto da Gesù nell'orto degli ulivi quando,
+Si può dunque dire che la prudenza è utile e necessaria in tutte le cose: è un po' come il sale che deve condire tutte le nostre azioni. L'anima distaccata da se stessa che mira a Dio solo, l'anima raccolta che non si lascia dissipare dal chiasso del mondo, batterà con facilità e quasi spontaneamente la via della prudenza soprannaturale e per tale via giungerà a Dio rettamente, senza deviazioni e perdita di tempo.
 
+**2** — «La prudenza vera e perfetta consiglia, giudica e comanda *rettamente* in vista del fine ultimo di tutta la vita» (S. Tommaso, II-II ae, q. 47, a. 13). La grande differenza fra la prudenza cristiana e la prudenza del mondo non sta solo nella enorme diversità dei fini da conseguirsi, ma anche nella scelta dei mezzi. Mentre la seconda, pur di raggiungere i suoi intenti, non si fa scrupolo né di valersi di mezzi illeciti, né di battere le vie traverse della menzogna, dell'astuzia, dell'inganno, la prudenza cristiana scarta a priori qualsiasi mezzo che contrasti, sia pur lievemente, con la legge di Dio e batte soltanto la via retta della sincerità. Anche la prudenza cristiana ci può suggerire di rimandare a tempo migliore l'attuazione di un progetto benché buono e santo, di non rivelare a chiunque le nostre intenzioni, di tacere su un determinato argomento, ecc. e tuttavia non ci chiederà mai di venir meno al dovere o alla verità. Quando Gesù diceva che «i figli di questo secolo sono, nel loro genere, più accorti che i figli della luce» *(Lc.* 16, 8), intendeva certamente richiamarci a maggior prudenza ed accortezza nel compiere il bene, ma non intendeva davvero incoraggiarci ad usare i mezzi illeciti di cui si servono con tanta disinvoltura i figli delle tenebre. Né dobbiamo pensare che, dovendo usare solo mezzi buoni e retti, la nostra prudenza rimanga sopraffatta dalla prudenza del mondo, poiché, di fronte ad intrighi ed inganni che non possiamo in nessun modo ricambiare, disponiamo di un mezzo ben più potente che, in ultima analisi, avrà sempre la vittoria: il ricorso a Dio mediante la preghiera e il sacrificio.
 
-nonostante lo sgomento della sua umanità, accettò di bere
-l'amarissimo calice della sua Passione. Proprio associandoci
-a quest’atto del Salvatore, troveremo la forza per abbracciare
-qualsiasi dovere sacrificante.
-
-
-2. — Anche chi è timido per natura può diventare coraggioso per grazia; ma non bisogna pretendere che la grazia
-agisca senza la nostra collaborazione. La virtù della fortezza
-è stata data a tutti i cristiani, e in questo senso è virtù infusa,
-ma spetta a noi metterla in atto mediante l'esercizio, e in
-questo senso deve diventare virtù acquisita. Così, del resto,
-è per tutte le virtù teologali e morali infuse nell'anima assieme alla grazia: sono capitali che fruttano solo se li sappiamo impiegare con buona volontà.
-
-Come si diventa umili facendo atti di umiltà, così si diventa forti e coraggiosi facendo atti di coraggio. Non sta a
-noi evitare la paura sensibile che, derivando dal temperamento, subiamo nostro malgrado, ma sta a noi impedire che
-invada la volontà, paralizzando i nostri movimenti. Occorre
-
-perciò reagire energicamente buttandoci in nome di Dio a fare quanto dobbiamo, senza fermarci a discutere con la paura. « Molte anime dicono: io non ho forza per compiere il
-tale sacrificio. Ma, suvvia, facciano, degli sforzil Dio non rifiuta mai la prima grazia che conferisce il coraggio di agire,
-dopo di che il cuore si fortifica e si va di vittoria in vittoria »
-bisogna decidersi ad operare malgrado gli sgomenti ed i
-timori della natura. Ciò è particolarmente necessario in quelle circostanze in cui, o per la debolezza fisica o per la privazione del sostegno sensibile della grazia, anche le più piccole
-difficoltà ci sembrano montagne e tutto ci spaventa; chè, se
-aspettassimo ad agire solo quando sentissimo di averne il coraggio, non verremmo mai a capo di nulla. « Che importa —
-diceva la Santa di Lisieux ad una novizia — se non ha coraggio, purchè agisca come se l'avesse?» (CR.). Gli atti
-di coraggio compiuti senza averne la forza sono più puri e
-.
-
-
-più soprannaturali: più puri perchè non danno luogo a sentimenti di orgoglio, più soprannaturali perchè si basano non
-sulle risorse della natura, ma unicamente su quelle della grazia. Invece gli atti di coraggio compiuti per disposizione naturale rimangono molto spesso semplici atti umani e sono facile esca all’amor proprio. Perciò, chi è forte per natura deve
-abituarsi a non fidarsi della sua fortezza, ma ad appoggiarsi
-a Dio ed alla sua grazia, senza di che ogni fortezza umana è
-estrema debolezza.
+Mandando i suoi Apostoli in mezzo al mondo, dove le insidie del male sono immense, Gesù ha raccomandato: «Siate sempre prudenti come i serpenti, e semplici come le colombe» *(Mt.* 10, 16); indicando insieme queste due virtù, prudenza e semplicità, ci dice chiaramente che l'una non deve mai essere disgiunta dall'altra, né l'una deve essere di pretesto per mancare all'altra. La prudenza non deve mai farci mancare di semplicità — ed ecco l'esclusione di tutti quei mezzi che sanno di menzogna — ma nello stesso tempo la semplicità non deve mai farci mancare di prudenza.
 
 ### Colloquio
 
-«O Signore, Dio degli eserciti, che nel tuo Vangelo
-dicesti: NNon sono venuto a portare la pace, ma la guerra’,
-dammi la forza e le armi per la lotta. Io ardo dal desiderio di
-combattere per la tua gloria, ma, te ne supplico, fortifica il mio coraggio. Allora col santo re Davide potrò esclamare: “Tu
-solo sei il mio scudo; sei Tu, Signore, che addestri le mie mani alla guerra”.
+«O prudenza, sei simile ad un alto monte dove chi alberga si conserva sano godendo l'aria più pura e da quell'altezza vede e prevede tutto quel che deve fare. Così, o Dio, la prudenza che deriva da te mantiene l'anima al di sopra delle nebbie delle passioni e delle considerazioni umane, le conferisce maggior vigore di virtù, la spinge ad onorarti in tutte le opere sue e la fa prevedere ogni cosa onde si armi con fortezza contro le tentazioni. Concedimi, Dio mio, questa vera e retta prudenza affinché mi conduca all'unione con te. E mi conduca in modo tale che, per nessun motivo o riguardo di creatura, io tralasci di mettere in esecuzione le opere tue» (cfr. S. M. Maddalena de' Pazzi).
 
-«O mio Gesù, combatterò per amor tuo sino alla fine
-della mia vita e la mia spada sarà l'amore.
+«Crea in me, o Signore, un cuore puro e fondami in me uno spirito retto. Insegnami le tue vie, affinché io segua la tua verità. Dammi la temperanza e la prudenza, la giustizia e la fortezza, delle quali nulla c'è di più utile in vita agli uomini» (cfr. *Sal.* 50; *Sap.* 8, 7).
 
-«La mia impotenza non mi deve sgomentare; quando al
-mattino mi sento priva di coraggio e di ogni forza per praticare la virtù, devo considerare ciò come una grazia, perchè
-Tu mi insegni che proprio quello è il momento di porre la
-scure alla radice dell'albero, contando solo sul tuo aiuto,
-
-«Dove sarebbe il mio merito se dovessi combattere unicamente quando ne sento il coraggio? Che importa se non
-ne ho, purchè agisca come se l'avessi? O Gesù, fammi ben
-comprendere che, se mi sentissi troppo debole anche per raccattare una sola gugliata di filo e, tuttavia, lo facessi per amor
-tuo, meriterei molto di più che se compissi un'azione consi
-derevole in un momento di fervore. Dunque, invece di rattristarmi, devo rallegrarmi vedendo che Tu, lasciandomi sentire la mia debolezza, mi dai occasione di salvarti un maggior numero di anime» (T.B.G. Preghiera; Lt; CR.).
+«Bontà suprema, o mio Gesù, io ti chiedo un cuore sì innamorato di te, che nessuna cosa della terra sappia distrarlo... un cuore libero, non mai sedotto, non mai schiavo; un cuore retto che non si trovi mai per vie tortuose» (S. Tommaso d'Aquino).

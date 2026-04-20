@@ -1,115 +1,20 @@
-## 135 — O DOM DO AMOR
-*quinta-feira santa*
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-Concede-me, ó Jesus, penetrar a imensidade daquele amor que te levou a dar-nos a Eucaristia.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — "Como Jesus havia amado os seus, amou-os até
-o fim" (Evangelho: Jo. 13, 1-15), e justamente nas últimas horas
-de intimidade passadas no meio deles quis dar-lhes o máximo penhor do seu amor. Foram horas de doce
-intimidade, mas também de dolorosíssima angústia; Judas já
-havia ajustado o preço da venda infame, Pedro estava
-para negá-lo, todos em breve o abandonariam.
-A instituição da Eucaristia aparece assim como a resposta
-de Jesus à traição dos homens, como o máximo
-dom do seu amor infinito em troca da máxima ingratidão:
-é o Deus misericordioso que persegue sua
-criatura rebelde não com ameaças, mas com as mais delicadas indústrias da sua imensa caridade. Jesus já havia
-feito e sofrido tanto pelo homem pecador, e eis que,
-no momento em que a malícia humana está para tocar
-o fundo extremo do abismo, Ele, quase esgotando os recursos do seu amor, oferece-se ao homem não só como
-Redentor que morrerá por ele na cruz, mas como alimento
-que o nutrirá com sua Carne e com seu Sangue; e se
-em poucas horas a morte o arrancará da terra,
-a Eucaristia nela perpetuará sua presença viva e real até a
-consumação dos tempos. "Ó louco de amor pela tua
-criatura!" exclama S. Catarina de Sena. "Todo Deus
-e todo Homem, todo te deixaste em alimento para nós, para que, enquanto somos peregrinos nesta vida, não venhamos
-a faltar pelo cansaço, mas sejamos fortificados por ti,
-Alimento celeste!"
-
-A Missa de hoje é, de modo todo particular, a comemoração e a renovação da última Ceia, da qual todos
-somos convidados a participar. Entremos na Igreja e estreitemo-nos em torno do Altar como teríamos entrado no Cenáculo e nos teríamos reunido em torno de Jesus. Aqui, como os
-Apóstolos em Jerusalém, encontramos o Mestre vivo em
-nosso meio, e ele mesmo, na pessoa do seu ministro,
-renovará ainda uma vez o grande milagre que muda
-o pão e o vinho no seu Corpo e no seu Sangue e depois
-nos dirá: "Tomai e comei... tomai e bebei".
-
-Reflitamos que o próprio Jesus dispôs os preparativos para a última Ceia e para tal fim quis escolher "uma
-grande sala" (Lc. 22, 12), encarregando os Apóstolos de prepará-la de modo conveniente. Também nosso coração deve
-ser um cenáculo "grande", tornado espaçoso e dilatado pelo amor, para que Jesus possa vir nele celebrar dignamente
-sua Páscoa.
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — Na última Ceia, Jesus, junto com o Sacramento
-do amor, deixa-nos o testamento do amor. Testamento
-vivo e concreto do seu admirável exemplo de humildade e de
-caridade no lava-pés; testamento oral no anúncio do seu "mandamento novo". O Evangelho da
-Missa de hoje apresenta justamente Jesus no ato de lavar os pés aos Apóstolos e termina com as palavras do
-Mestre: "Eu vos dei o exemplo, para que também vós
-façais como eu vos fiz". É um convite premente àquela caridade fraterna que deve ser fruto da
-nossa união com Jesus, fruto da nossa Comunhão
-eucarística. Ele falou dela expressamente precisamente na última Ceia: "Dou-vos um mandamento novo: Amai-vos
-uns aos outros. Como eu vos amei, assim vós amai-vos reciprocamente" (Jo. 13, 34).
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-Se não podemos imitar o amor de Jesus até dar
-nosso corpo em alimento aos irmãos, podemos porém imitá-lo
-no dar-lhes nossa amorosa assistência e não
-só nas coisas fáceis, mas também nas difíceis e repugnantes.
-O Mestre que lava os pés aos seus Apóstolos ensina-nos até onde devemos abaixar-nos para prestar serviço
-ao nosso próximo, também ao mais humilde e desprezado. O
-Mestre que, com contínuos testemunhos de amor, vai ao encontro dos homens ingratos e dos seus próprios traidores, ensina-nos que nossa caridade não é semelhante à sua, se não
-soubermos retribuir o mal com o bem, se não soubermos
-perdoar até o fim, chegando a beneficiar quem
-nos fez mal. O Mestre, que dá a vida pela salvação
-dos seus, diz-nos que nosso amor não é pleno, se não
-soubermos sacrificar-nos generosamente pelos outros. Seu
-"mandamento novo", que põe o próprio amor de Jesus como medida do nosso amor fraterno, abre horizontes sem limites ao exercício da caridade; trata-se de uma caridade que não conhece limites. E, se há um limite, é o
-de dar, como o Mestre, a vida pelos outros, porque "ninguém tem amor maior do que este: dar a
-vida pelos seus amigos" (Jo. 15, 13).
-
-Jesus inculca-nos a perfeição da caridade fraterna na
-mesma noite em que institui a Eucaristia, quase a indicar
-que tal perfeição deve ser ao mesmo tempo o fruto do Sacramento Eucarístico e nossa resposta a este imenso dom.
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"Ó Senhor, Senhor! Pequena e estreita é a casa da minha alma,
-para que Tu venhas nela: alarga-a Tu mesmo.
-Está toda em ruínas: repara-a Tu. Nela há coisas que ofendem
-teus olhos: eu sei e o confesso. Mas quem a limpará?
-ou a quem, fora de ti, gritarei eu: purifica-me, ó Senhor,
-dos pecados que me são ocultos?" (S. Agostinho).
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-"Ó bom Jesus, para sustentar nossa fraqueza
-e para excitar-nos ao amor tomaste a resolução de permanecer
-sempre entre nós, e no entanto bem previas a sorte que terias
-entre os homens, as desonras e os ultrajes que deverias
-sofrer. Ó eterno Pai, como pudeste permitir
-que teu Filho permanecesse sempre no meio de nós
-para sofrer cada dia novo gênero de maus-tratos? Ó
-meu Deus! Que excesso de amor naquele Filho! E que excesso também naquele Pai!
-
-"Ó eterno Pai, por que quiseste que teu Filho
-ficasse um dia à mercê de gente tão perversa como nós?
-É possível que tua ternura permita que Ele seja exposto
-cada dia - sim, digo cada dia - a tantos maus-tratos? Oh, quantos se fazem hoje a este diviníssimo
-Sacramento! Em quantas mãos inimigas és Tu obrigado a
-vê-lo!
-
-"Considera, ó eterno Pai, que tantos flagelos, maus-tratos e sofrimentos atormentadíssimos sofridos por teu Filho durante sua vida terrena não são coisas de esquecer.
-Acaso Ele deve fazer alguma outra coisa para contentar-te?
-Não fez Ele já tudo? Não satisfez já bastante pelo pecado de Adão?
-
-"Ó Pai santo que estás nos céus, se teu divino Filho
-nada deixou de fazer para dar a nós, pecadores,
-um dom tão grande como o da SS.ma Eucaristia,
-não permitas, ó misericordiosíssimo Senhor, que Ele venha
-a ser tratado tão mal! Ele se deixou entre nós de modo
-tão admirável para podermos oferecê-lo em sacrifício quantas
-vezes quisermos. Pois bem, por este augustíssimo sacrifício, detenha-se afinal a maré dos pecados e das irreverências que se cometem até lá onde este SS.mo
-Sacramento reside" (cf. T.G. Cam. 33, 2-3; 35, 3).
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

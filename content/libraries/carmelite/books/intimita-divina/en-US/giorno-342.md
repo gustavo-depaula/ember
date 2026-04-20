@@ -1,68 +1,29 @@
-## 342 — DESIGNS OF PEACE AND LOVE
-*XXIII Sunday after Pentecost*
+## 20 — FORGIVENESS
 
-### Presence of God
+*XXI Sunday after Pentecost*
 
-O Lord, accomplish in me your designs of peace and love, making me rise to a fully fervent life.
+**Presence of God.** — *O Lord, teach me to forgive generously and be lavish with your forgiveness toward me.*
 
 ### Meditation
 
-Even when we sincerely seek holiness, we still find ourselves full of miseries, always in debt to God; and rightly, as we approach Him, our soul trembles: how will He receive us? Will He reject us?
+**1** — "The kingdom of heaven is like a king who wished to settle accounts with his servants." Today's Gospel *(Mt.* 18:23-35) alludes to the account that one day all of us will be called to render; a grave thought that leads us to reflect, as last Sunday, on the state of our conscience. Yet, as we continue reading the parable, the heart is comforted: God, represented under the figure of the king, shows himself so good, so merciful and compassionate toward the poor servant who cannot pay his debt: he forgives him everything and lets him go free.
 
-But the answer is so different from what we deserve: «I think thoughts of peace and not of affliction over you, says the Lord. You shall call upon Me and I will hear you. I will bring you back from the land of your captivity.»
+That servant's debt was no small thing: ten thousand talents. But our debts toward God are far greater; they are not calculated in money, nor in silver, nor in gold, but according to the price of our ransom, the most precious Blood of Jesus. Our debts are our sins, which needed to be washed by the Blood of a God. Debts that, in one form or another and despite good will, we increase every day, if only through falls of fragility and weakness. Who at the end of the day can say he has contracted no new debts with God? If at the end of life God were to place before us the exact account of our *deficit*, we would find ourselves in a far more embarrassing position than the servant in the parable. But God is infinite goodness. He knows and pities our misery, and every time we present ourselves humbled before him, acknowledging our faults, he immediately forgives us and absolves us of every debt. God is magnificent in his forgiveness: he does not reproach us for sins already wept over, nor does he keep any account of them; his forgiveness is so great, so full, that it not only cancels debts but even destroys their memory, as though they had never existed. It is enough for him to see us repentant, and every wound, even the most gangrenous and repulsive, is healed and destroyed by the most precious Blood of Jesus. The Blood of Christ is like an infinite sea with power to wash away and destroy the sins of all humanity, provided they are sincerely detested. Every day, every moment, we can take the burden - lighter or heavier - of our faults and infidelities and make it disappear in this ocean of grace and love, certain that no trace of it will remain.
 
-These consoling words, read today in the Introit, open our heart to sweetest hopes: despite everything, God loves us; God is always Father to us and wants to free us from slavery to our passions and weaknesses.
+**2** — The second part of the parable speaks of our forgiveness. Returning home, that fortunate servant, who had been released from all debt, meets a fellow servant who owed him one hundred denarii, a truly tiny sum compared with the ten thousand talents forgiven to him. Yet he, who had been treated with such pity, shows none to his fellow servant; he listens neither to pleas nor to tears, but instead "went and cast him into prison till he should pay the debt."
 
-Then spontaneously rises to our lips the humble invocation of the Collect: «O Lord, may your goodness free us from the bonds of sin which in our fragility we have contracted.»
+Whereas a little earlier we were moved by the master's goodness, now we are indignant at the servant's cruelty. And yet, though blushing, we must acknowledge that just as the master's goodness is the image of God's mercy, always ready to forgive, so the servant's cruelty is the image of our hardness, our stinginess in forgiving our neighbor. Sadly, it is exactly so: we who need God's forgiveness more than our daily bread are so hard, so exacting toward others, so difficult to move to indulgence and pardon. What are the debts our neighbor may have toward us compared with those we have toward God? Certainly infinitely less than a few denarii compared with ten thousand talents, since it is an offense done to a miserable creature compared with offense against the infinite majesty of God. But here is the contrast: God forgives, forgets, and entirely cancels our grave debts, nor does he cease loving us and doing us good despite our continual infidelities; we, instead, only with great effort manage to forgive some small wrong, and even when forgiving, we do not know how to forget entirely, so that, when occasion presents itself, we are ready to reproach the offender with it. And what would it be if our neighbor committed every day toward us as many infidelities and discourtesies as we commit toward God? Oh, how poor and narrow our forgiveness is!
 
-Humility, sincere acknowledgment of one’s faults, is always the starting point of conversion.
-
-St. Paul speaks of conversion in the Epistle (Phil 3:17-21; 4:1-3): «Many walk as enemies of the Cross of Christ ... and mind earthly things.»
-
-Practically, every time we flee sacrifice, protest before suffering, or seek selfish satisfactions, we behave as enemies of Jesus’ Cross; and thus our life becomes too earthly, too bound to creatures, too heavy to tend toward heaven.
-
-We must convert, detach ourselves, remember that «our conversation is in heaven,» and therefore willingly embrace the labors of the journey back to the blessed homeland.
-
-To encourage us, St. Paul sets before us the splendors of eternal life: «Jesus Christ will reform the body of our lowness, made like to the body of His glory.»
-
-Here are God’s «thoughts of peace,» His great designs of love for us: to free us from slavery to sin and conform us to His Son, making us share in His glorious Resurrection.
-
-Marvelous designs, which nevertheless will not be realized if we do not cooperate with them. «Therefore, my dearly beloved brethren, my joy and my crown,» the Apostle pleads, «so stand fast in the Lord.»
-
-Stand fast, that is, stable in conversion; steady in humility, trust, and love of the Cross.
-
-2 — The Gospel miracle is a vivid example of the transformation God wants to accomplish in us, and of the way He carries out His designs of peace in those who go to Him with humble and trusting heart.
-
-First, the woman with a hemorrhage: her illness is persistent; for twelve years it has resisted every remedy. Humiliated and ashamed, she dares not present herself directly to Jesus like other sick people.
-
-Yet her faith is so great that she thinks: «If I shall touch only His garment, I shall be healed.» She approaches secretly and touches the hem; Jesus feels that light touch and, turning, says: «Be of good heart, daughter; thy faith hath made thee whole.»
-
-No request, no outward supplication; what moves the Lord is the prayer of that humble, trusting heart full of faith.
-
-As Jesus healed the hemorrhaging woman, so He wants to heal our souls; but He awaits dispositions like hers.
-
-We are too content with prayers on the lips while the heart is cold and absent. Jesus, instead, looks at the heart and wants the prayer of the heart: cry of humility, cry of trust, cry that goes straight to touch His divine Heart.
-
-Besides, how much more fortunate we are than she! She could touch Jesus’ garment only once, while our soul every day, through Holy Communion, comes into contact with His Body and Blood.
-
-Oh, if only we had faith the size of a mustard seed!
-
-Then follows the second miracle. The little girl is no longer sick; she is dead. But for Jesus it is no harder to raise the dead than to heal the sick.
-
-He, true Lord of life and death, «took the girl by the hand, and she arose.» Jesus is our resurrection, not only for eternal life, when at His command our body will rise in glory and be reunited to the soul, but also in this life: resurrection from death of sin to life of grace, from lukewarm life to fervent life, from fervent life to holy life.
-
-With the humility and trust of the hemorrhaging woman, let us approach Jesus and ask Him from the heart to accomplish in us His designs of love, tearing us from the gray mediocrity of a spiritual life still hampered by selfishness, and launching us decisively toward holiness.
+The parable recounts the punishment the master inflicted on the cruel servant: "And his lord, being angry, delivered him to the torturers till he should pay all the debt"; then comes the conclusion: "So also shall my heavenly Father do to you, if each of you does not forgive his brother from his heart." If we want God to be lavish with us in his forgiveness, we must be lavish with ours toward our neighbor; in the measure in which we forgive, we shall be forgiven. Which is to say that we ourselves give God the exact measure of the mercy he must use toward us.
 
 ### Colloquy
 
-«O Lord, how poorly we repay your friendship when so quickly we return to being your mortal enemies! Ah, truly great is your mercy! Can one find a friend more patient than You?
+"Who is there, O Lord, who is not your debtor? Who is there who does not have some brother as debtor? Therefore in your justice you established that your rule of conduct toward me, your debtor, would be the one followed by me toward those who are debtors to me. Therefore, since I too have sinned - and how much! - I must be indulgent toward the one who asks my forgiveness. Indeed, the moment of prayer will come and then I shall have to say to you: 'Forgive me, O Lord, my debts.' And how? The condition is set by me, I myself establish the law: 'forgive as I forgive.'
 
-«If such a thing happened even once between two friends, they would not forget it so easily, and their friendship would surely no longer remain as close as before. Yet how many times we fail against You! And for so many years You continue to wait for us! Blessed be You, my Lord and my God, who bear with us in such compassion that one might think You forget your greatness so as not to punish so black a betrayal as we deserve» (St. Teresa of Jesus).
+"Two brief sentences, O Lord, you had written in the Gospel: 'forgive and it shall be given to you.' Here is my prayer: I ask pardon from you for my sinning, and you want there to be someone whom I forgive.
 
-«O Jesus, You are my peace, because through You I have access to the Father, because it has pleased the Father to make peace by the Blood of your Cross with all things, whether on earth or in heaven.
+"As the poor man begs bread from me, so I am your little poor one standing at the door of the father of the household; indeed I prostrate myself there, supplicating with groans, desiring to receive something - and that something is You. The poor asks me for bread, and what do I ask from you, if not yourself, who said: 'I am the living bread that came down from heaven'?
 
-«Behold your work in every soul of good will; behold the work your immense, excessive love impels You to accomplish in me. You want to be my peace.
+"To obtain forgiveness, I will forgive; I will remit to others, and it shall be remitted to me; desiring to receive, I will give, and it shall be given to me.
 
-«By the Blood of your Cross You will pacify everything in the little heaven of my soul. You will fill me with Yourself, bury me in Yourself, make me live again with You your own life.
-
-«O Jesus, if I fall at every instant, I will let You raise me with wholly trusting faith. And I know You will forgive me, that You will carefully erase everything; still more: You will strip me, free me from all my misery, from everything that hinders divine action; You will bind all my powers and make them your prisoners. Then I shall have passed entirely into You. Then I shall be able to say: “It is no longer I who live; my Master lives in me.”»
+"Is it hard for me to forgive one who offends me? I will have recourse to prayer. Instead of returning insult for insult, I will pray for the one who insults me. When I feel like answering him harshly, I will speak to you, Lord, on his behalf. Then I will remember that you promise eternal life, but command that I forgive my brother. It is as if you were saying to me: 'You who are man, forgive another man, so that I, who am God, may come to you'" (St. Augustine).

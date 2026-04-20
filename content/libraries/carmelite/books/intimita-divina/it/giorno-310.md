@@ -1,118 +1,25 @@
-## 310 — LO ZELO PER LE ANIME
+## XVIII — L'UNIONE FRATERNA
 
-### Presenza di Dio
+*XVII Domenica dopo Pentecoste*
 
-O Gesù, che ti sei dato per la salvezza del mondo, accendi nel mio cuore un grande zelo per la salvezza delle anime.
+**Presenza di Dio.** — *Dio mio, dammi grazia di conservare l'unione col prossimo, nel vincolo della carità e della pace.*
 
 ### Meditazione
 
-1 — A misura che l’amore di Dio prende possesso
-dei nostri cuori, vi fa nascere e vi alimenta un amore
-sempre più grande per il prossimo, amore che, essendo
-soprannaturale, mira soprattutto al bene soprannaturale
-dei nostri simili e diventa perciò zelo per la salvezza
-delle anime.
+**1** — Come Gesù nella sua vita terrena non ha cessato di raccomandare la carità e l'unione fraterna, così la Chiesa nelle Messe domenicali, continua ad inculcarci questa virtù. Oggi lo fa servendosi di un brano della lettera di S. Paolo agli Efesini. «Vi esorto di condurvi in modo degno della chiamata che avete ricevuto, con tutta umiltà e mansuetudine e con longanimità, tollerandovi a vicenda con amore, sforzandovi di conservare l'unità dello spirito nel vincolo della pace» *(Ep.)*. La chiamata che abbiamo ricevuto è la vocazione al cristianesimo, che è quanto dire vocazione all'amore. Dio, carità infinita, ci adotta quali figli suoi, affinché emulìamo la sua carità e l'emulìamo al punto che l'amore sia il vincolo che ci unisca tutti in un sol cuore, come il Padre ed il Figlio sono uniti in un'unica Deità nel vincolo dello Spirito Santo. «Come Tu, Padre, sei in me, e io sono in te, anch'essi siano uno in noi», ha chiesto per noi Gesù *(Gv.* 17, 21).
 
-Se amiamo poco Dio, ameremo poco anche le anime
-e, viceversa, se il nostro zelo per le anime è debole, vuol
-«ire che altrettanto debole è il nostro amore per Iddio.
-Infatti, come sarebbe possibile amare molto Dio, senza
-amare molto coloro che sono figli suoi, che sono oggetto
-del suo amore, delle sue cure, del suo zelo? Le anime
-sono, per così dire, il tesoro di Dio; Egli le ha cercate
-a sua immagine e somiglianza in un atto di amore, Egli
-le ha redente nel Sangue del suo Unigenito in un atto
-di amore più grande ancora. « Dio ha talmente amato il
-mondo da dare il suo Figliolo unigenito, affinchè chiunque crede in lui non perisca, ma abbia la vita eterna »
-(Go. 3, 16). Chi ha penetrato il mistero dell'amore di Dio
-per gli uomini, non può rimanere indifferente alla loro
-sorte: alla luce della fede ha compreso che tutta l’azione
-di Dio nel mondo mira al loro bene, alla loro felicità
-eterna, e vuole in qualche modo prender parte a quest'azione, sicuro di non poter fare cosa maggiormente
-grata a Dio che prestare la sua umile collaborazione alla
-salvezza di coloro che gli sono tanto cari. Tale è stato
-sempre il desiderio ardente dei santi; desiderio che li ha
+«Conservare l'unità nel vincolo della pace»: ecco una cosa facile e difficile ad un tempo. È facile perché, quando il cuore è davvero umile, mansueto, longanime, si sopporta tutto con amore, avendo cura di adattarsi ai gusti ed alla mentalità altrui piuttosto che di far valere i propri. Ma è difficile perché, finché siamo quaggiù, l'amor proprio, anche se mortificato, tenta sempre di risorgere e di affermarsi creando continue occasioni di urti reciproci, per schivare le quali occorre tanta rinuncia di sé e tanta delicatezza per gli altri. Dobbiamo persuaderci che tutto ciò che disturba, affievolisce o, peggio, distrugge l'unione non piace a Dio e non gli piace neppure se lo facciamo sotto pretesto di zelo. Salvo l'adempimento del dovere ed il rispetto alla legge di Dio, dobbiamo sempre preferire di rinunciare alle nostre idee, anche buone, piuttosto che contrastare col prossimo. Dà molto più gloria a Dio un atto di umile rinuncia in vista dell'unione, dà molto più gloria a Dio la pace tra fratelli che un'opera grandiosa, la quale fosse causa di discordoe di disarmonia.
 
+**2** — Molto spesso la causa delle divisioni fra i buoni è il personalismo eccessivo, il troppo voler fare le cose a modo proprio. Data la nostra limitatezza, non vi può essere nulla di così assoluto nelle nostre idee da non poter far posto alle idee altrui. Se le nostre vedute sono buone, rette, luminose, accanto ad esse possono esservene altre ugualmente buone ed anche migliori, perciò è molto più saggio, umile e caritevole accettare le vedute altrui, cercando di conciliare con esse le nostre, anziché scardarle per non saper rinunciare a particolari ed a sfumature troppo personali. Questo personalismo è nemico dell'unione, è ostacolo ad una migliore riuscita delle opere ed anche al nostro progresso spirituale.
 
-ppi a compiere eroismi di generosità pur di procurare
-il bene di un’anima sola. «Questa — scrive S. Teresa di
-Gesù — è l'inclinazione che il Signore mi ha dato. Mi
-pare che Egli apprezzi di più un’anima sola che con le
-nostre industrie ed orazioni, per sua misericordia, noi gli
-guadagnamo, che non quanti servizi gli possiamo RA
-re» (Fd. 1,7).
+Nell'epistola odierna S. Paolo ci mette davanti tutti i motivi che abbiamo per mantenerci uniti: «[siete] un corpo solo, un solo spirito, come in un'unica speranza siete stati chiamati; uno è il Signore, una la fede, uno il battesimo; uno Iddio e padre di tutti». Se Dio ha voluto salvarci e santificarci tutti uniti in Cristo, congiuntandoci in lui in un sol corpo, dandoci un'unica vocazione, un'unica fede, un'unica speranza ed essendo Egli il Padre di tutti, come pretenderemo noi di salvarci e santificarci separandoci gli uni dagli altri? Se non vogliamo frustrare il piano di Dio, se non vogliamo mettere in pericolo la nostra salvezza e la nostra santificazione, dobbiamo essere pronti a qualsiasi sacrificio personale pur di mantenere e rinsaldare l'unione. Ricordiamo che Gesù ha chiesto per noi non solo l'unione, ma l'unione perfetta: «siano perfetti nell'unità» *(Gv.* 17, 23).
 
-È vero, il fine primario dell’azione di Dio è la sua
-gloria, ma questa gloria Egli, infinitamente buono, ama
-procurarsela particolarmente mediante la salvezza e la felicità delle sue creature, e di fatto nulla più dell’opera
-salvifica degli uomini esalta la sua bontà, il suo amore,
-la sua misericordia. Perciò, amare Dio e la sua gloria significa amare le anime, significa lavorare e sacrificarsi
-per la loro salvezza.
-
-
-2 — Lo zelo per le anime nasce dalla carità, nasce
-dalla contemplazione di Cristo crocifisso: le sue piaghe,
-il suo sangue, i dolori strazianti della sua agonia ci dicono quanto valgono le anime al cospetto di Dio e quan-
-to Dio le ama. Ma quest'amore non è corrisposto e sembra che gli uomini ingrati vogliano sempre più sfuggire
-alla sua azione, È il triste spettacolo di tutti i tempi che
-anche oggi si rinnova, quasi ad insultare Gesù e a rinnovare la sua Passione, « Tutto il mondo è in fiamme:
-gli empi, per così dire, anelano di condannare ancora
-Gesù Cristo, sollevano contro di lui un'infinità di calunnie e si adoperano in mille modi per distruggere la sua
-Chiesa ». Se Teresa di Gesù (Car. 1, 5) poteva dire così
-del suo secolo tormentato dall’eresia protestante, tanto
-più possiamo dirlo noi del nostro in cui la lotta contro Dio e contro la Chiesa è aumentata a dismisura e di-
-laga ormai in tutto il mondo. Beati noi se possiamo ripetere con la Santa: «La perdita di tante anime mi spez.
-za il cuore. Vorrei che il numero dei reprobi non andasse
-aumentando... Mi pare che pur di salvare un’anima sola
-delle molte che si perdono, sacrificherei mille volte la
-
-
-vita » (ivi, 4 e 2). Ma non si tratta solo di formulare desideri: occorre fare, occorre agire e patire per la salvezza
-dei fratelli.
-
-S. Giovanni Crisostomo afferma che «nulla è più
-freddo di un cristiano che non si cura della salvezza
-altrui ». Questa freddezza è conseguenza di una carità
-molto languida; accendiamo, ravviviamo la carità, e si
-accenderà in noi lo zelo per la salvezza delle anime. Allora il nostro apostolato non sarà più soltanto un dovere
-imposto dall’esterno, cui dobbiamo necessariamente attendere per obbligo del nostro stato, ma sarà un'esigenza
-dell'amore, una fiamma che divampa spontaneamente per
-il calore interno della carità,
-
-Darsi alla vita interiore non significa chiudersi in una
-torre d'avorio per godere indisturbati le consolazioni di
-Dio disinteressandosi del bene altrui, ma significa concentrare tutte le proprie forze nella ricerca di Dio, nel la-
-vorare per la propria santificazione onde diventare accetti
-a Dio ed acquistare così una potenza d’azione e d’intercessione, mediante la quale ottenere la salvezza di molte anime.
+Anche il Vangelo di oggi viene a rafforzare questa spinta all'unione, giacché in esso Gesù ci ripete che il comandamento dell'amore del prossimo è, insieme con quello dell'amore di Dio, il fondamento di «tutta la legge», ossia di tutto il cristianesimo. Non lasciamo cadere invano questi continui richiami alla carità ed all'unione; la Chiesa insiste su questi punti perché su di essi ha insistito Gesù, perché la carità «è il precetto del Signore; e se questo solo sarà osservato, basta» (S. Giov. Ev.).
 
 ### Colloquio
 
-«O mio dolce Signore, quanto sei indegnamente perseguitato da coloro cui hai fatto tanto bene! Sembra ve-
-ramente che questi traditori ti vogliano crocifiggere un’altra volta, non lasciandoti alcun luogo ove posare là te-
-sta. Non posso affissarmi in questo spettacolo, o mio Redentore, senza sentirmi spezzare il cuore!
+«O Verbo Figlio di Dio, Tu guardi con maggior compiacenza un'opera fatta in unione e carità fraterna che mille azioni in disunione; ti piace di più un'azione minima, come un battitore d'occhio, fatta in unione e carità che se io patissi il martirio in disunione e senza carità. Dov'è unione sei Tu, perché ti chiami carità: *"Deus charitas est"*. Ti chiami Dio di pace e di unione: *"Deus pacis"*. Sei quello che metti ogni pace e senza di te non vi può essere vera pace, né unione. Finta è la pace e l'unione tra i peccatori, né può durare lungo tempo, perché, essendo i loro cuori signoreggiati dalla tirannia del peccato e dalle passioni, subito si rompe quel vincolo che è fra di loro, vincolo debole più che un fil di stoppa. Sicché da te solo, o Dio, viene la perfetta unione e dove è disunione, ivi è confusione a causa del peccato e del demonio. Con quanto desiderio dovremmo cercare questa unione e con quanta volontà amarla! Dov'è unione ivi è ogni bene, vi è l'abbondanza di ogni cosa, di tutte le ricchezze celesti e terrestri.
 
-«Considera, o Eterno Padre, che tanti flagelli, strapazzi e tormentosissime sofferenze non sono cose da di-
-menticarsi. È dunque possibile, Creator mio, che un cuore tanto affettuoso, come il tuo, sopporti che si faccia
-così poco conto, come ai nostri giorni, di ciò che tuo
-Figlio ha effettuato con tanto amore, unicamente per contentarti e per obbedire ai tuoi comandi, quando gli in-
-giungesti di amarci fino a lasciarsi nel SS.mo Sacramento,
+«O Santissima Trinità, dacci, dunque, grazia di vivere sempre uniti gli uni agli altri, conservando l'unione di spirito, avendo un medesimo volere e sentire, emulando quella indivisibile unità che è fra le tre Persone divine» (S. M. Maddalena de' Pazzi).
 
-
-che ora gli eretici oltraggiano, distruggendo i suoi Tabernacoli e demolendo le sue Chiese? Forse che tuo Fi-
-filo deve fare qualche altra cosa per contentarti? Non
-ha Egli già fatto tutto? Possibile che ogni qualvolta noi
-torniamo ad offenderti, la debba sempre pagare questo
-innocentissimo Agnello» Non lo permettere più, O mio
-sovrano Signore! Si plachi ormai la tua divina Maestà!
-Nonchè considerare i nostri peccati, ricordati che a redimerci fu il tuo Figlio sacratissimo. Ricorda i suoi me-
-riti, i meriti della sua gloriosissima Madre, quelli dei tanti
-santi e dei tanti martiri che sono morti per te!
-«Oh, vergogna!... Come mai, Signore, ho io l’ardire
-di farti questa preghiera? Innanzi alla mia temerità hai
-tutte le ragioni per sdegnarti di più. Però, o Signore, non
-devi dimenticarti che sei Dio di misericordia: ‘abbi, dunque, pietà di questa indegna peccatrice, di questo mise-
-rabile verme che si lascia andare a tanta audacia.
-«Guarda ai miei desideri, alle lacrime che accompagnano la mia preghiera e, dimenticandoti dei mici pec-
-cati, ti supplico per quello che sei, o mio Dio, di avere
-pira delle molte anime che si perdono e di proteggere
-la tua Chiesa » (T.G. Cam. 1,20; 3,3-8).
+«Dove c'è l'amore, la carità, ivi sei Tu, o Signore! L'amore di Dio, o Cristo, ci ha riunito in un sol corpo ed in un sol cuore, concedici dunque di amarci con animo sincero. Tieni lontano da noi le contese e le liti; fa' che i nostri cuori siano sempre uniti in te e Tu sta sempre in mezzo a noi» (dalla Liturgia).

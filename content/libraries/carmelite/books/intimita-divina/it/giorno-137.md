@@ -1,139 +1,30 @@
-## 137 — LA VITTORIA DELLA CROCE
-*sabato santo*
+## 61 — IL DONO DELL'AMORE
+*giovedì santo*
 
-### Presenza di Dio
-
-— O Gesù, crocifisso per amor mio, svelami la vittoria riportata dalla tua morte.
+**Presenza di Dio.** — *Concedimi, o Gesù, di penetrare l'immensità di quell'amore che ti ha condotto a donarci l'Eucaristia.*
 
 ### Meditazione
 
-1 — Non appena Gesù rese l’ultimo respiro, «il velo
-del tempio si squarciò... e la terra tremò, e le rocce si fendettero, e le tombe si spalancarono e molti corpi... risuscitarono », sì che i presenti «temettero grandemente e
-dissero: ‘Costui era dear Figlio di Dio » (Mt. 27, st54). Gesù ha voluto morire nell’ignominia più completa,
-accettando fino all'ultimo gli scherni e le ironiche sfide dei
+**1** — « Poichè Gesù aveva amato i suoi... li amò sino alla fine » *(Vg.: Gv.* 13, 1-15) e proprio nelle ultime ore d'intimità passate in mezzo ad essi volle dar loro il massimo pegno del suo amore. Furono quelle ore di dolce intimità, ma anche di penosissima angoscia; Giuda aveva già partito il prezzo della vendita infame, Pietro stava per rinnegarlo, tutti fra poco l'avrebbero abbandonato. L'istituzione dell'Eucaristia appare così come la risposta di Gesù al tradimento degli uomini, come il massimo dono del suo amore infinito, in cambio della massima ingratitudine: è il Dio misericordioso che insegna la sua creatura ribelle non con le minacce, ma con le più delicate industrie della sua immensa carità. Gesù aveva già fatto e sofferto tanto per l'uomo peccatore ed ecco che, nel momento in cui la malizia umana sta per toccare l'estremo fondo dell'abisso, Egli, quasi esaurendo le risorse del suo amore, si offre all'uomo non solo come Redentore che morirà per lui sulla croce, ma come cibo che lo nutrirà con la sua Carne e col suo Sangue; e se fra poche ore la morte lo strapperà alla terra, l'Eucaristia vi perpetuerà la sua presenza viva e reale fino alla consumazione del tempo. « O pazzo d'amore per la tua creatura! — esclama S. Caterina da Siena — Tutto Dio e tutto ti lasci in cibo a noi, acciocchè, mentre siamo pellegrini in questa vita, non veniamo meno per la fatica, ma siamo fortificati da te, Cibo celestiale! ».
 
+La Messa di oggi è, in modo tutto particolare, la commemorazione e la rinnovazione dell'ultima Cena, cui tutti siamo invitati a partecipare. Entriamo in Chiesa e stringiamoci attorno all'Altare come saremmo entrati nel Cenacolo e ci saremmo stretti attorno a Gesù. Qui, come gli Apostoli a Gerusalemme, troviamo il Maestro vivente in mezzo a noi, e lui stesso, nella persona del suo ministro, rinnoverà ancora una volta il grande miracolo che muta il pane ed il vino nel suo Corpo e nel suo Sangue e poi ci dirà: « Prendete e mangiate... prendete e bevete ».
 
-#3 - LA VITTORIA DELLA CROCE 221
+Riflettiamo che Gesù aveva già disposto i preparativi per l'ultima Cena e a tale scopo volle scegliere « una gran sala » *(Lc.* 22, 12), incaricando gli Apostoli di allestirla in modo conveniente. Anche il nostro cuore deve essere un cenacolo « grande », reso spazioso e dilatato dall'amore, affinchè Gesù possa venirvi a celebrare degnamente la sua Pasqua.
 
+**2** — Nell'ultima Cena, Gesù, assieme al Sacramento dell'amore, ci lascia il testamento dell'amore. Testamento vivo e concreto del suo mirabile esempio di umiltà e di carità nella lavanda dei piedi, testamento orale nell'annunzio del suo « comandamento nuovo ». Il Vangelo della Messa odierna ci presenta appunto Gesù nell'atto di lavare i piedi agli Apostoli e termina con le parole del Maestro: « Vi ho dato l'esempio, affinchè anche voi facciate come io ho fatto a voi ». È un invito pressante a quella carità fraterna che deve essere il frutto della nostra unione con Gesù, frutto della nostra Comunione eucaristica. Egli ne ha parlato espressamente proprio nell'ultima Cena: « Vi do il comandamento nuovo: Amatevi gli uni con gli altri. Come io ho amato voi, così voi amatevi a vicenda » *(Gv.* 13, 34).
 
-soldati: «Se Tu sei il Cristo salva te stesso » (Lc. 23, 39);
-ma, appena spirato, la sua Divinità si rivelò in un modo
-così potente da imporsi anche a coloro che fino a quel
-momento si erano burlati di lui. La morte di Cristo comincia così a manifestarsi quale realmente è, ossia, non una
-sconfitta, ma una vittoria, la più grande vittoria che il
-mondo conosca: vittoria sul peccato, vittoria sulla morte,
-conseguenza del peccato, vittoria che ridona agli uomini
-la vita della grazia.
+Se non possiamo imitare l'amore di Gesù fino a dare il nostro corpo in cibo ai fratelli, possiamo però imitarlo nel donare ad essi la nostra amorevole assistenza e non solo nelle cose facili, ma anche in quelle difficili e ripugnanti. Il Maestro che lava i piedi agli Apostoli ci insegna fin dove dobbiamo abbassarci per prestare servizio al nostro prossimo, anche al più umile ed abbietto. Il Maestro che, con continue testimonianze di amore, va incontro agli uomini ingrati ed ai suoi stessi traditori, ci insegna che la nostra carità non è simile alla sua, se non sappiamo ricambiare il male col bene, se non sappiamo perdonare sino in fondo, giungendo a beneficare chi ci ha fatto torto. Il Maestro, che dà la vita per la salvezza dei suoi, ci dice che il nostro amore non è pieno, se non sappiamo sacrificarci generosamente per gli altri. Il suo « comandamento nuovo », che pone l'amore stesso di Gesù quale misura del nostro amore fraterno, apre orizzonti sconfinati all'esercizio della carità; si tratta di una carità che non conosce limiti. E, se un limite c'è, è quello di dare, come il Maestro, la vita per gli altri perchè « nessuno ha un amore più grande di questo, di uno che dia la vita per i suoi amici » *(Gv.* 15, 13).
 
-Ieri, presentando la Croce alla nostra adorazione, la
-Chiesa cantava: « Ecco il legno della Croce su cui è stata
-sospesa la salute del mondo» e, dopo il mesto alternarsi
-degli imzproperi, inalzava un inno in lode della Croce:
-«Intorno al trofeo della Croce celebra il nobile trionfo
-
-er cui il Redentore del mondo, pur immolato, ha vinto! ».
-Boa la considerazione e la compassione dei patimenti del
-Signore si alterna con l’inno della vittoria. Morte e vita,
-morte e vittoria sono termini contraddittori tra loro, eppure vediamo che in Gesù sono strettamente congiunti,
-così da essere il primo la causa del secondo. S. Giovanni
-della Croce, dopo aver descritto l'agonia di Gesù sulla
-Croce, afferma: « proprio allora compì l’opera più grande
-di quante mai in vita ne avesse fatte con miracoli e prodigi strepitosi,... l'opera con la quale riconciliò ed unì il
-genere umano con Dio, per mezzo della grazia. Ciò avvenne appunto allorchè l’amoroso Signore era più avvilito
-ed umiliato in tutto, cioè: intorno alla reputazione degli
-uomini, poichè vedendolo morire su di un tronco, non
-che averne un po’ di stima, si facevano beffe di lui; e in
-quanto alla natura, poichè in essa in certo modo si annichiliva morendo; e circa la protezione e il conforto spirituale del Padre che in quei momenti lo abbandonò ».
-E poi conclude: « Di qui l’uomo spirituale intenda il mistero della porta e della via di Cristo, per unirsi con Dio,
-e sappia che quanto più si annienta per amor suo,... tanto
-più si unisce a lui e tanto maggior opera compie » (S.II,
-TI).
-
-
-2 — « In pace dormo e riposo »; così comincia il Mattutino del sabato santo, alludendo alla pace del sepolero
-in cui, dopo tanti strazi, riposa il Corpo santissimo di
-Gesù; difatti questo giorno è il più indicato per raccoglierci nel silenzio e nella preghiera accanto al sepolcro
-del Signore,
-
-Dopo la morte di Gesù, atterriti dal terremoto e dalle
-tenebre, tutti avevano lasciato il Calvario, tranne il Tuppo
-dei più fedeli: Maria SS.ma e Giovanni che non si erano
-mai allontanati dalla Croce, Maria Maddalena ed altre
-pie donne che «avevano seguito Gesù dalla Galilea per
-assisterlo » (Mr. 27, 55). Il Signore è ormai spirato, ma essi
-non sanno distaccarsi da lui, Maestro adorato, oggetto di
-tutto il loro amore e di tutte le loro speranze. Ciò che li
-trattiene in modo irresistibile accanto a quel Corpo esanime è appunto il loro amore. Questo è il carattere della
-vera fedeltà, perseverare anche nei momenti più oscuri e
-penosi in cui tutto sembra perduto, in cui l’amico, anzichè
-trionfare, viene ridotto alla sconfitta ed all’umiliazione più
-profonda, Essere fedeli a Dio quando tutto va bene, quando la sua causa trionfa, è facile; ma essere fedeli nell'ora
-delle tenebre, quando Egli permette il momentaneo sopravvento del male, per cui tutto ciò che è buono e santo
-sembra travolto e sommerso irrimediabilmente, è arduo,
-ed è la prova più certa di un amore verace.
-
-Intanto due discepoli, Giuseppe d’Arimatea e Ni
-demo, s’incaricano della sepoltura: il sacro Corpo viene
-deposto dalla Croce, involto in un lenzuolo con aromi e
-pi deposto «nel sepolcro nuovo» che Giuseppe « s'era
-‘atto scavare per sè nella roccia » (Mf. 27, 60). Insieme con
-la Madonna, che dovette certamente esser presente alla
-scena e accogliere fra le braccia il Corpo straziato del
-suo Figlio divino, accostiamoci anche noi a quelle sacre
-spoglie; ancora una volta fissiamo lo sguardo in quelle
-piaghe, in quelle ferite, in quel sangue che con tanta eloquenza ci parlano dell'amore infinito di Gesù per noi.
-
-vero, ora quelle piaghe non sono più doloranti, ma
-
-
-gloriose e domani, con la Pasqua, celebreremo appunto
-la grande vittoria da esse riportata; ma, benchè glorificate,
-quelle piaghe restano e resteranno in eterno come il segno
-indelebile dell’eccessiva carità con cui Cristo ci ha amati.
-Sabato santo, giorno di transizione fra le angustie del
-venerdì e la gloria della Risurrezione, sia un giorno di
-raccoglimento e di preghiera accanto al Corpo esanime
-di Gesù: spalanchiamo il nostro cuore, purifichiamolo nel
-Sangue di lui, affinchè, tutto rinnovato nell'amore e nella
-rezza, possa gareggiare col «sepolcro nuovo» nell'offrire all’amantissimo Maestro un luogo di pace e di riposo.
+Gesù c'inculca la perfezione della carità fraterna nella sera stessa in cui istituisce l'Eucaristia quasi ad indicare che tale perfezione deve essere insieme il frutto del Sacramento Eucaristico e la nostra risposta a questo immenso dono.
 
 ### Colloquio
 
-«Ave, o Croce, unica speranza nostra! Tu ai giusti
-accresci la grazia e ai peccatori rimetti le IRS al
-bero glorioso e fulgido, ornato dalla porpora del Re, sulle
-tue braccia è appeso il prezzo della nostra Redenzione,
-in te è la nostra vittoria, il nostro riscatto! » (cfr. BR).
+« O Signore, Signore! Piccola e stretta è la casa dell'anima mia, perchè Tu venga in essa: allargala Tu. È tutta una rovina: riparala Tu. Ha cose che offendono i tuoi occhi: lo so e lo confesso. Ma chi la rifarà monda? o a chi, fuori che a te, griderò io: mondami, o Signore, dai peccati che mi sono nascosti? » (S. Agostino).
 
-«O Cristo, ancora una volta fisso nel tuo volto esanime il mio pianto e non senza lacrime alzo gli occhi
-miei alle piaghe e trafitture tue, non senza commozione
-inalzo il cuore contrito e considero quanta tribolazione
-hai incontrato per cercare me, per salvare me.
+« O buon Gesù, per sostenere la nostra debolezza e per eccitarci all'amore che hai preso la risoluzione di rimanere sempre fra noi, eppure ben prevedevi la sorte che avresti avuto dagli uomini, i disonori e gli oltraggi che avresti dovuto soffrire. O Eterno Padre, come hai potuto permettere che il Figlio tuo rimanesse sempre in mezzo a noi per soffrire ogni giorno nuovo genere di strapazzi? O mio Dio! Che eccesso d'amore in quel Figlio! E che eccesso pure in quel Padre!
 
-«O Gesù buono, con quanta liberalità, sulla croce,
-ci regalasti tutto quel che avevi! Ai crocifissori desti la
-tua orazione affettuosa, al ladrone il paradiso, alla Madre
-il figlio, al figlio la Madre, ai morti la vita, alle mani del
-Padre l’anima tua; offristi a tutto il mondo segni del tuo
-potere e, per redimere lo schiavo, non poche stille, ma
-tutto il Sangue donasti, il Sangue che versavi dalle molte
-€ larghe ferite!... O soavissimo Signore e Salvatore dell'universo, come ti ringrazierò degnamente?
+« O Eterno Padre, perchè hai voluto che tuo Figlio fosse un giorno in balla di gente sì perversa come noi? È possibile che la tua tenerezza permetta che sia esposto ogni giorno — sì, dico ogni giorno — a tanti maltrattamenti? Oh, quanti ne fanno oggi a questo divinissimo Sacramento! In quante mani nemiche sei Tu costretto a vederlo!
 
-«O Gesù buono, Tu chini il fiorente capo, trafitto
-dai molti aculei, invitandomi al bacio di pace e par che
-mi dica: ‘Ecco come sono sfigurato, squarciato, ammazzato. Sai perchè? O pecorella smarrita, per prenderti e
+« Considera, o Eterno Padre, che tanti flagelli, strapazzi e tormentosissime sofferenze da tuo Figlio sofferte durante la sua vita terrena non sono cosa da dimenticarsi. Forse che Egli deve fare qualche altra cosa per contentarti? Non ha forse già tutto? Non ha forse già soddisfatto abbastanza per il peccato di Adamo?
 
-
-riportarti sulle mie spalle e ricondurti al pascolo celestiale
-del Paradiso. Rendimi il contracambio... Guardami nella
-mia Passione. Amami, Io mi son dato a te, datti a me...”.
-O Signore, intenerito dalle tue. piaghe, voglio metterti
-sopra di me, appassionato quale ti vedo; voglio metterti
-come sigillo sopra il mio cuore, e come segnacolo al mio
-braccio, per conformarmi a te ed al tuo martirio in tutti
-i pensieri, del mio cuore, in tutte le imprese del mio
-braccio.
-
-«O dolcissimo buon Gesù! Tu che ti desti per noi
-in prezzo del riscatto, concedici, sebbene non siam degni
-di tanto prezzo, che ci arrendiamo alla tua grazia, interamente, perfettamente e in tutto » (cfr. S. Bonaventura).
+« O Padre santo che sei nei cieli, se il tuo divin Figlio non ha nulla tralasciato per dare a noi, poveri peccatori, un dono così grande come quello della SS.ma Eucaristia, non permettere, o misericordiosissimo Signore, che venga trattato così male! Egli si è lasciato fra noi in un modo così ammirabile da potertelo noi offrire in sacrificio quante volte vogliamo. Ebbene, per questo augustissimo sacrificio, si arresti finalmente la marea dei peccati e delle irreverenze che si commettono fin là dove questo SS.mo Sacramento si risiede » (cfr. T.G. *Can.* 33, 2 e 3; 3, 8; 35, 3).

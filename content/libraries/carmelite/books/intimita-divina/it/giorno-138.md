@@ -1,105 +1,28 @@
-## 138 — LA PURIFICAZIONE DI MARIA
-*febbraio*
+## 62 — IL MISTERO DELLA CROCE
+*venerdì santo*
 
-### Presenza di Dio
-
-— O Signore, vengo a te supplicandoti, per intercessione di Maria SS.ma, di purificare l'anima mia.
+**Presenza di Dio.** — *O Gesù, concedimi di addentrarmi con te nel folto del mistero della Croce.*
 
 ### Meditazione
 
-1 — La festa odierna, che chiude il ciclo natalizio, è
-nello stesso tempo festa di Gesù e di Maria: di Gesù che
-quaranta giorni dopo la nascita viene, secondo la prescrizione della legge, presentato al tempio dalla Madre sua; di
-Maria che si sottomette al rito della purificazione.
+**1** — Il venerdì santo è la giornata che più di ogni altra c'invita a penetrare « nella densità dei travagli e dei dolori del Figlio di Dio » (G.C.C.A. 35, 9)[^1] e non solo con la considerazione teorica della mente, ma anche con la disposizione pratica della volontà ad abbracciare volentieri il patire, per associarci e assimilarci al Crocifisso. Soffrendo con lui comprenderemo meglio le sue sofferenze, intenderemo meglio il suo amore per noi, poichè « il più puro patire, porta con sè un più intimo e puro intendere » (G.C.C. 36, 12); e « nessuno sente più profondamente nel cuore la Passione di Cristo, di colui che avrà sofferto qualche cosa di simile » (*Imit.* II, 12, 4). Con queste disposizioni accompagniamo il Signore nella sua *ultima* giornata terrena.
 
-Anzitutto, la liturgia festeggia il primo ingresso di
-Gesù Bambino nel tempio: «Ecco viene al suo tempio
-il Dominatore, il Signore: gioisci e rallegrati, o Sion,
-andando incontro al tuo Dio» (BR.). Andiamogli incontro anche noi, emulando i sentimenti del vecchio
-Simeone che, « condotto dallo Spirito Santo » (Vg.: Le. 2,
-22-32), andò al tempio e pieno di gioia accolse il Bambino Gesù nelle sue braccia.
+L'atroce martirio, che fra poche ore strazierà il suo Corpo, non è ancora cominciato e tuttavia l'agonia di Gesù nell'orto degli ulivi segna uno dei momenti più dolorosi della sua Passione e più rivelatori delle amarissime sofferenze del suo spirito. La sua SS.ma Anima si trova immersa in una angoscia inesprimibile: è l'abbandono e la desolazione estrema, senza il minimo conforto nè da parte di Dio, nè da parte degli uomini. Il Salvatore sente gravare su di sè il peso enorme di tutti i peccati dell'umanità; Egli, innocentissimo, si vede ricoperto dei delitti più esecrandi, fatto quasi nemico di Dio, fatto segno alla sua giustizia infinita che punirà in lui tutte le nostre scelleratezze. Certamente, in quanto Dio, Gesù non cessò mai, neppure nei momenti più dolorosi della sua Passione, di essere unito al Padre suo, ma in quanto uomo si sentì come rigettato da lui, « percosso da Dio ed umiliato » *(Is.* 53, 4). Questo spiega l'intimo dramma del suo spirito — dramma assai più doloroso delle terribili sofferenze fisiche che l'attendono — spiega la crudele agonia che gli fece sudar sangue, spiega il suo lamento: « L'anima mia è triste fino alla morte » *(Mt.* 26, 38). E mentre prima aveva desiderato ardentemente la Passione, ora che la sua umanità si trova di fronte alla rude concretezza del fatto, priva del soccorso sensibile della Divinità, la quale pare non solo ritirarsi, ma anche sdegnarsi contro di essa, Gesù geme: « Padre mio, se è possibile passi da me questo calice! ». Ma il grido angoscioso della natura umana si spegne subito in quello della perfetta conformità del volere di Cristo al volere del Padre: « Tuttavia non come voglio io, ma come vuoi Tu » (ivi, 39).
 
-Per rendere questo incontro più festoso, oggi la Chiesa benedice e ci consegna le candele benedette; in processione con i ceri accesi, entriamo nel tempio. La candela accesa è simbolo della vita cristiana, della fede e
-della grazia che deve splendere nell'anima nostra. Ma è
-anche simbolo di Cristo, luce del mondo, « luce che deve
-illuminare le nazioni», come lo ha salutato Simeone. La
-candela accesa ci ricorda che dobbiamo portare sempre
-Cristo con noi, Egli, fonte della nostra vita, autore della
-fede e della grazia. E Gesù stesso, con la sua grazia, ci
+**2** — All'agonia nell'orto segue il bacio traditore di Giuda, la cattura, la notte passata tra gli interrogatori dei sacerdoti e gli insulti dei soldati che schiaffeggiano Gesù, gli sputano in volto, gli velano gli occhi, mentre fuori, nell'atrio, Pietro lo rinnega. All'alba riprendono le interrogazioni e le accuse, poi incominciano i vari giri da un tribunale all'altro: da Caifa a Pilato, da Pilato ad Erode, da Erode ancora a Pilato: tien dietro l'orribile flagellazione, la coronazione di spine e infine, vestito da re da burla, il Figlio di Dio viene presentato alla folla che urla: « Togli via costui, e libera Barabba », mentre per lui, il Salvatore, la pleba chiede a gran voce: « Crocifiggilo, crocifiggielo! » *(Lc.* 23, 18 e 21). Carico del legno del supplizio, Gesù viene trascinato al Calvario e quindi crocifisso fra due ladroni. È una somma di terribili sofferenze fisiche e morali che raggiungono il massimo quando il Signore, agonizzando sulla croce, lancia il grido: « Dio mio, Dio mio, perchè mi hai abbandonato? » *(Mt.* 27, 46).
 
-
-dispone ad andargli incontro con maggior fede ed amore. Il nostro incontro con lui sia oggi particolarmente
-intimo e santificante.
-
-Gesù è presentato al tempio per essere offerto al
-Padre, Per lui non vale il riscatto, come per gli altri
-primogeniti degli ebrei, Egli è la vittima che dovrà essere
-immolata per la salvezza del mondo. La sua presentazione al tempio è, per così dire, l’offertorio della sua
-vita; il sacrificio si compirà poi sul Calvario, Offriamoci
-insieme con Gesù.
-
-
-2 — Gesù è presentato al tempio dalla Madre sua;
-oggi dunque contempliamo Maria nella sua funzione di
-Corredentrice. La Madonna non ignorava che Gesù era
-il Salvatore del mondo e, attraverso il velo delle profezie, intuiva che la missione di lui si sarebbe compiuta in
-un mistero di dolore a cui, come Madre, lei avrebbe dovuto partecipare; e Simeone con la sua profezia: «a te
-stessa una spada trapasserà l’anima » (Le. 2, 35) glielo confermava. Maria allora nel segreto del suo cuore dovette
-ripetere il suo fiat: «Ecco l’ancella del Signore, si faccia di me secondo la tua parola » (ivi, 1, 38). Offrendo il
-Figlio, offre se stessa, sempre congiunta intimamente alla
-sorte di lui.
-
-Ma, prima di entrare nel tempio per presentarvi Gesù,
-Maria vuole sottostare alla legge della purificazione legale.
-Benchè sia ben consapevole della sua verginità, si mette
-alla pari di tutte le altre madri e, confusa in mezzo a
-loro, attende umilmente il suo turno, portando con sè
-«un paio di tortore », l'offerta dei poveri. Vediamo Gesù
-e Maria sottomettersi a leggi cui non erano per nulla
-tenuti: Gesù non doveva essere riscattato, Maria non
-doveva essere purificata. Lezioni di umiltà e di rispetto
-alla legge di Dio.
-
-Vi sono leggi cui noi siamo tenuti e da cui il nostro
-amor proprio ci esime con falsi pretesti: sono dispense
-abusive reclamate in nome di diritti che in realtà non esi-
-
-
-stono. Umiliamoci e, mentre Maria non aveva alcun bisogno di essere purificata, riconosciamo il nostro estremo
-bisogno di purificazione interiore.
+Eccoci nuovamente di fronte all'intimo dramma che strazia l'Anima di Cristo ed ora accompagna, con rapido crescendo, l'intenso aumentare delle sue sofferenze fisiche. Durante il discorso dell'ultima Cena, parlando della sua prossima Passione, aveva detto agli Apostoli: « Viene l'ora in cui voi sarete dispersi... e mi lascerete solo; ma io non sono solo, perchè il Padre è con me » *(Gv.* 16, 32). L'unione col Padre è tutto per Gesù: è la sua vita, la sua forza, il suo conforto e la sua gioia; se gli uomini l'abbandonano, il Padre è sempre con lui e questo gli basta. Da ciò possiamo intendere meglio l'intensità della sua sofferenza quando, durante la Passione, il Padre si ritira da lui. Eppure, anche nella sua agonia e nella sua morte di croce, Gesù è sempre Dio e come tale è sempre indissolubilmente unito al Padre. Ma Egli si è addossato il pesante carico dei nostri peccati e questi si ergono come una barriera di divisione morale fra lui e il Padre. La sua Umanità, benché unita personalmente al Verbo, si trova, per un miracolo, priva di ogni conforto e sostegno divino e sente invece gravare su di sè la maledizione dovuta al peccato: « Cristo — dice S. Paolo — ci ha riscattati dalla maledizione... diventando lui maledizione per noi » *(Gal.* 3, 13). Tocchiamo qui le profondità della Passione di Gesù, le amarezze più atroci che Egli ha abbracciato per la nostra salvezza. E tuttavia, anche in mezzo a così crudeli tormenti, il lamento di Gesù si compone nell'espressione dell'abbandono totale: « Padre, nelle tue mani raccomando lo spirito mio » *(Lc.* 23, 46). Così Gesù, che ha voluto gustare sino in fondo quanto sia amaro per l'uomo il soffrire e il morire, c'insegna a superare i turbamenti e le angosce causate in noi dal dolore e dalla morte con atti di piena sottomissione al volere di Dio e di fiducioso abbandono nelle sue mani.
 
 ### Colloquio
 
-«O Gesù, sei andato ad offrirti al tempio, chi ti ha
-offerto? Ti ha offerto Maria Vergine, quella che nè avanti
-a lei, nè dopo di lei non ve ne sarà mai una simile. Ti ha
-offerto Maria che, per la bocca del sapiente, fu chiamata
-dal Padre tuo tanto bella e formosa... À chi ti ha offerto?
-Ti ha offerto a Dio, sostanza infinita, eccelso nella sua creazione, fecondo nell’eredità sublime ed inesauribile nei suo
-ordine, grazioso e soave nell’amore, E che cosa ha offerto?
-Ha offerto te, Verbo eterno, sostanza dell’Essenza divina,
-Figliolo dell’Altissimo, legislatore dell’universo. Te, che
-con tanti e belli e grandi nomi sei chiamato: o chiave di
-David, o Re delle genti, o Emmanuele.
+« O Cristo, Figlio di Dio, contemplando il gran dolore che hai sostenuto per noi sulla croce, sento dirti all'anima mia: 'Io non ti ho amato per inganno!' Queste parole aprono gli occhi miei e chiaramente vedo quanto Tu hai fatto per me, per effetto di questo amore. Vedo quel che hai sostenuto nella vita e nella morte, o Uomo-Dio appassionato, a cagione di questo amore sviscerato ed indicibile. Sì, o Signore, Tu non mi hai amato per inganno, ma con amore perfettissimo e verissimo. E in me scorgo essere tutto il contrario, poichè io ti amo tiepidamente e senza verità, e il conoscere questo mi è pena insopportabile.
 
-«E che cosa m’insegni, o Signore, offrendoti al
-tempio? Mi mostri riverenza alla legge, perchè hai voluto
-osservarla; mi mostri adorazione, perchè ti sei offerto al
-Padre non come uguale a lui, come invero Tu sei, mia
-come uomo. Qui m'insegni la riverenza che devo avere
-alla tua legge; e non sono le leggi tue solo i dieci Comandamenti, ma anche la Regola e le Costituzioni. Questa
-tua legge mi è tutta dolce e soave, ma me la rendo amara
-quando non rinnego me stessa, perchè allora, anzichè
+« O Maestro, Tu mi hai amato senza inganno; io invece, peccatrice, non ti ho amato mai, se non con amore mancante. E mai ho voluto sentire di quei dolori che Tu volentieri hai patito in croce, e così ti ho servito con negligenza e senza verità.
 
-ortarla soavemente, la legge è costretta a portar me»
-(cfr. S. M. Maddalena de” Bazzi).
+« Il tuo amore, Dio mio, eccita in me un desiderio affocato di non voler fare cosa alcuna nella quale ci sia l'offesa tua, di voler abbracciare il dolore e il disprezzo da te sostenuti, di tener continuamente fissa nella mente la tua Passione e Morte, nella quale è la vera salute e vita nostra.
 
-O Gesù, oggi per le mani di Maria, desidero offrirmi
-insieme con te all’Eterno Padre. Ma Tu sei Ostia purissima, santa, immacolata, mentre io sono pieno di macchie, di miserie, di peccato, O Madre mia Maria, Tu che,
-pur essendo esente da ogni ombra d’imperfezione, hai
-voluto, essere purificata, purifica, te ne prego, la povera
-anima mia, perchè sia meno indegna di essere offerta al
-Padre insieme col suo e tuo Gesù. O Vergine purissima,
+« O Signore, o Maestro e Medico eterno, il Sangue tuo è la medicina che, senza verun prezzo, Tu ci offri per la guarigione delle anime nostre e, mentre a te è costata l'amarissima Passione e Morte di croce, a me non costa nulla, se non il dispormi a riceverla e Tu subito me la doni e sani le mie infermità. Dio mio, poichè hai disposto di liberarmi e sanarmi, sol che io con lacrime e dolore ti mostri i miei mali e le mie infermità, Signore, poichè la mia anima è inferma, ecco io ti mostro i miei peccati e le mie sciagure. Nessun peccato vi può essere, nessuna malattia dell'anima e dello spirito cui Tu non abbia dato rimedio bastante e non abbia soddisfatto con la tua morte.
 
+« Tutta la mia salute e la mia allegrezza è dunque in te, o Cristo crocifisso, sì che, in qualunque stato io mi trovi, non voglio mai togliere lo sguardo dalla croce tua » (B. Angela da Foligno).
 
-introducimi nella via di una seria e profonda purificazione, e poi accompagnami Tu stessa affinchè la mia pusillanimità non venga meno per l’asprezza del cammino.
+[^1]: La sigla *C. A.* indica la prima redazione delle cinque ultime strofe del *Cantico Spirituale*, pubblicata in appendice all'Opera omonima a cura del P. Gabriele di S. M. Maddalena - Libreria Fiorentina, 1948.

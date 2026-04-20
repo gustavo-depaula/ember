@@ -1,49 +1,41 @@
-## 325 — RIGHT INTENTION
+## 325 — COLLABORATORS OF GOD
 
 ### Presence of God
 
-O God, tear from my heart every secondary intention, every movement of self-love, so that I may seek only your glory.
+Lord, take me, that I may be worthy to collaborate with You in spread of your kingdom.
 
 ### Meditation
 
-Many failures in apostolate come from the fact that apostolic activity is not carried out with the very conditions it requires and that are indispensable if it is to become an intense exercise of spiritual life.
+1. — Speaking of apostolic work, St. Paul says: *Dei sumus adjutores* (1 Cor. 3:9): we are cooperators, collaborators of God.
 
-There is often a certain disorder, motives more or less human, which creep into that activity, lowering it from the supernatural plane to the merely human one, and turning it into an occasion of deviation and cooling of interior life. Then the soul feels dissatisfied and restless.
+Apostolate therefore is not personal activity, fruit more or less valuable of one's own resources and initiatives. It is not activity one can carry out according to one's own views, much less with one's own strength. Any form of apostolate is collaboration in one work of redemption and sanctification God carries on through centuries in world.
 
-Pius XII, in the Motu proprio *Primo feliciter*, expressed very clearly the conditions of holy activity: «Apostolate must always be exercised holily, with such purity of intention, with such interior union with God, with such generous forgetfulness and strong self-denial, and with such love for souls, that it may spring from the interior spirit that animates it and at the same time continually nourish and renew that same spirit.»
+God alone can redeem and sanctify — He who possesses holiness in Himself, He who is Creator and source of grace. "One is mediator of God and men" (1 Tim. 2:5): one alone is Redeemer and Sanctifier, Jesus, Incarnate Word. All others, even greatest saints and even Our Lady, are apostles only insofar as they collaborate in Christ's work. We, as St. Paul says, merely lend our activity to God: "I planted, Apollo watered, but God gave increase. Therefore neither he that plants is anything, nor he that waters, but God that gives increase" (1 Cor. 3:6-7).
 
-If we examine our apostolate in this light, we can identify its weak points, discover defects to avoid, and also remedies to apply. The conditions proposed are four: purity of intention, union with God, self-denial, and love of souls. They are of such importance that, while ensuring apostolic fruitfulness, they also make apostolate an effective means of spiritual progress.
+Work of farmer is certainly necessary for field to bear fruit; yet it is not sufficient. Rain and sun are needed, favorable season is needed. Likewise, given plan established by God for salvation of men, apostle's activity is necessary, but not sufficient: God alone can give increase. As God alone can make sun shine or send rain to fertilize material field, so God alone can give grace to fertilize field of apostolate.
 
-Let us first consider purity of intention. If no one can «serve God and mammon» (Mt 6:24), still less can the apostle give himself to apostolic activity with a double intention: to serve God and self-love, to please God and the world, to seek the good of souls and personal interests.
+St. Paul was so convinced of this truth that, addressing Corinthians, he exclaimed: *Dei agricultura estis, Dei aedificatio estis* (1 Cor. 3:9). Although he had first generated them to faith, he does not say: you are my children, my field; but "you are God's field, God's building." Apostolate is not human work, but divine work, to which man lends collaboration as humble instrument.
 
-Strength, peace, and life come from unity; fragmentation, even spiritual fragmentation, can bring only weakness, division, conflict, and finally death. The apostle whose heart is divided by opposed intentions will seek peace in vain in his work; he will always remain troubled and unsatisfied.
+2. — If apostle is instrument of God, he is not material instrument, as pen in writer's hand, but living and personal instrument endowed with intelligence and will. Therefore he must place himself voluntarily at disposal of divine Artist, seeking to harmonize — better, synchronize — his way of thinking, willing, and acting with divine way, that is, with divine methods and wills.
 
-Secondary intentions can appear in a coarse way, easily seen, but also in such subtle ways that a distracted soul does not notice them at all. To detect even the smallest secondary intentions, which like little foxes stealthily ruin apostolic activity, one needs an atmosphere of recollection and prayer.
+Each of us will be apostle in measure he is docile instrument in God's hands, so that God may use him as He wills.
 
-In pauses at the Lord’s feet, the apostle realizes that during daily occupations he often loses sight of the supernatural end that should animate his activity, and that secondary ends take its place and become the immediate motive of many decisions and actions.
+Here too we must fix gaze on Jesus: his humanity was instrument Word used for redemption of human race. Jesus' humanity has no personal subject distinct from Word; his will, intelligence, affections, body are instruments of Word, which He uses with fullest freedom and through which He accomplishes work of love for salvation of men.
 
-This means his intention does not remain directed uniquely toward God and souls, but often deviates under the influence of self-love: sometimes a more or less unconscious search for praise and glory, at other times concerns about personal advantage or material interest—keeping a position, obtaining advancement, being preferred by superiors, being chosen for more attractive or profitable works.
+In analogous way apostle — though having own personality always distinct from God, even in highest states of mystical union — must give himself to God as most docile instrument, as pure capacity totally placed at his disposal. Everything apostle has received from God — intelligence, will, natural and supernatural gifts — he must freely offer to Him so He may use them as He wills for spread of his kingdom.
 
-In short, he must acknowledge that alongside love of God and souls there is still much self-love and egoism. Faced with this discouraging picture he should not lose heart, but humbly recognize his misery and thank the Lord who reveals it so that he may correct it.
+Whether God employs him in great and visible works or humble and hidden works, whether He uses him to proclaim his word publicly or to illumine souls in secret, whether He employs him in intense activity or immolates him in prayer and silence, it matters little, provided all his powers and whole life are placed at service of souls.
 
-He must not, however, think that everything he does is only the fruit of self-love. No: when a person has given himself to apostolate moved by a sincere desire to do the Lord’s will and win hearts for Him, he is truly animated by love of God and souls. Yet it must also be admitted that this love is not yet strong enough to triumph totally over human passions.
-
-Therefore the apostle must never stop fighting all manifestations, even minimal ones, of self-love. He must not indulge them under the pretext that they are natural movements, but correct them, mortify them, repress them, cut them off without pity, continually rectifying his intentions.
-
-A long and deep purification is necessary to conquer completely the dualism between God and self, love of souls and love of self. One must beg the Lord for this grace of total purification and dispose oneself to receive it by making good use of all occasions of detachment, renunciation, sacrifice, and humiliation that apostolic activity offers in abundance to one who seriously embraces it.
-
-Walking this path, the apostle will find in his work an excellent means of spiritual ascent and, instead of becoming entangled in the dangers that external activity presents when self-love is not repressed, he will be purified through the exercise of his apostolate.
+As work of personal sanctification, so also work of sanctification of others — that is, apostolate — resolves itself into problem of docility and availability to grace, to will of God. Consequently it resolves into problem of death to self, to everything in one's thoughts, will, and conduct that can in least contrast with God's thought, will, and conduct.
 
 ### Colloquy
 
-«O Lord, when I want to pray or work for the good of souls, I must first raise the eye of my mind to You, eternal Light, and to your splendor, so that You may give me light, strengthen my spirit, and help me withdraw as much as possible from external things in order to be wholly interior and turned toward interior realities.
+"My God, I know very well You do not need anyone to accomplish your sanctifying work, and yet You wish to be helped in divine cultivation of souls, just as You permit skilled gardener to cultivate delicate and rare plants while reserving to Yourself care of making them fruitful. Oh, how many souls would reach eminent holiness if they were well directed from first steps!
 
-«Grant that in my neighbor I may consider only the interior man, caring for the exterior only insofar as it serves the interior, so that all the rest may be set aside as vanity and I may not be drawn to vain things.
+"My God, greatest honor You can do to a soul is not to give it much, but to ask much of it. Therefore, when You give me suffering for salvation of souls, You treat me as one of your privileged. Was it not by suffering and dying that You too redeemed world? O Jesus, I aspire to happiness of sacrificing my life for You, but martyrdom of heart is no less fruitful than outpouring of blood, and already now this martyrdom is mine. How beautiful, O Lord, is part You have reserved for me, part worthy of apostle!
 
-«My God, may I be moved to apostolate, to prayer, and to good example only by the desire to save souls, and not by vainglory, ambition, human complacency, or worldly utility. You alone, O crucified Christ, do I want to seek!
+"O Lord, yes, I desire to work with You for salvation of souls. I have only one day of this life to save them and thus give You proof of my love. Tomorrow of this day will be eternity; then You will repay me a hundredfold joys I sacrifice for You.
 
-«I want to intoxicate souls with your Blood and not with curiosity, so that they may desire You alone. I want to say to each of them: I know nothing except Jesus Christ and Him crucified.
+"How sweet, O Jesus, to help You by our little sacrifices to save souls redeemed by your Blood, who, not to fall into abyss, await only our help.
 
-«Therefore I do not want earthly advantages, and I do not care to please men; nor do I judge myself to know any person or anything other than You, Christ crucified.
-
-«O Lord, so intoxicate me with your love that whatever else is offered to my sight or taste, hearing or any other sense—anything but You—I may consider as nothing, so that I may find delight, glory, and rest only in your Blood. Let my eyes be filled not with earthly things but with your suffering; let my mouth be filled not with vain words but with your Passion ...»
+"How happy I would be if at point of death I could have one soul to offer You! There would be one soul snatched from fire of hell and blessing You for all eternity" (St. Therese of the Child Jesus).

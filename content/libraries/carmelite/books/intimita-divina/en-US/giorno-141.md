@@ -1,111 +1,28 @@
-## 141 — THE ANNUNCIATION OF MARY
-*March*
+## 143 — STAY WITH US
+*Easter Monday*
 
 ### Presence of God
 
-Beside you, O Mary, I want to learn to repeat in every circumstance your: "Ecce ancilla Domini!"
+— O Jesus, sweet pilgrim, do not leave me; I need you.
 
 ### Meditation
 
-1 — Through the suggestive account of St. Luke
-(Gospel: 1:26-38), let us try to penetrate Mary's interior dispositions at the moment of the Annunciation.
-The Angel, sent by God, finds the Virgin recollected in
-solitude and, "having entered to her," says: "Hail, full of
-grace; the Lord is with you! Blessed are you among women."
-Before such words Mary - says the sacred text - "was
-troubled"; however, we must not understand this expression
-in the sense of a real agitation that takes away serenity of mind, but rather in the sense of a profound
-wonder before the unusual greeting, a wonder so
-great as to generate a kind of fear. This was Mary's
-first reaction before the angelic message,
-a reaction springing from her most profound humility, which
-must have made such extraordinary praise seem very strange to her.
-Meanwhile the Angel communicates to her the great announcement: God
-wills that she become Mother of the Redeemer. Mary, living under the continual governance of the Holy Spirit,
-had by His inspiration made a vow of virginity, and therefore is persuaded she must remain a virgin and that this is
-God's will. But now God lets her know He has chosen her as Mother of
-His Son, and she, humble handmaid, is ready to adhere to the divine plan; yet she does not understand how she can be at once
-mother and virgin, and on this point questions the Angel: "How shall this be?" The Angel explains: "The
-Holy Spirit will come upon you and the power of the Most High
-will overshadow you." Her motherhood will be the direct
-work of the Holy Spirit and will preserve her virginity.
+1. — God made us for Himself and we cannot live without Him; we need Him, we hunger and thirst for Him, the Only One who can fill our heart. The Easter liturgy is wholly pervaded by this longing for God, for what is above; indeed it presents this to us as the mark of our participation in the paschal mystery: "If you have risen with Christ, seek the things that are above, where Christ sits at the right hand of God; mind the things that are above, not those of earth" (RB.). The more the soul is renewed in Christ's Resurrection, the more it feels the need of God and of heavenly things; and so it detaches itself ever more from earthly things, to turn toward those of heaven.
 
-God's will is now entirely unveiled to her,
-and Mary, who throughout her life was always and only
-moved by the divine will, immediately embraces it with
-the most complete adhesion and the most intense and pure love: "Behold
-the handmaid of the Lord, let it be done to me according to your word." Total acceptance is accompanied by total
-self-gift: Mary accepts by offering herself and offers herself by giving herself. She offers herself as handmaid, indeed as slave, if we understand the word in all the force of the Greek text; she gives herself by abandoning herself as prey to the divine will, adhering
-in advance to all that God will ask of her. An
-adhesion at once passive and active, by which Mary wills all that
-God wills, accepting all that He does and doing all that He desires. Thus Mary appears to us
-as the model of the soul totally united, fully
-given to God's will.
+As physical hunger is a sign of a healthy organism full of life, so spiritual hunger is a sign of an efficient spiritual life in continual growth. The soul that does not feel the need of God, the need to seek Him and find Him, the soul that does not thrill and suffer with the yearning of this search, does not bear within itself the marks of the Resurrection: it will be a dead soul or at least a stunned one, made insensitive by tepidity. The Easter alleluia is a cry of triumph for Christ's Resurrection, but at the same time it is an urgent invitation to our own resurrection. Like a war reveille, it calls us to the combats of the spirit; it invites us to shake ourselves, to renew ourselves, to share ever more deeply in Christ's Resurrection. Who, however advanced in the ways of the spirit, can say he has totally brought about his resurrection?
 
+2. — In today's Mass we read the beautiful Gospel of the disciples of Emmaus (Lk. 24, 13-35), in which we find the pressing plea: "Stay with us, for it is toward evening and the day is now far spent."
 
-2 — The Angel's explanation does not remove the fact that many
-circumstances of what must happen remain hidden and
-obscure to Mary's sight. She stands before a
-mystery, and a mystery she intuits rich in suffering,
-for from Sacred Scripture she knows that the Redeemer must be the man of sorrows, sacrificed for humanity's salvation. The ineffable joy of divine motherhood is therefore presented to her enveloped in a mystery of sorrow: to accept
-being Mother of the Son of God means to accept
-being Mother of one executed, of one condemned
-to death. And Mary in her fiat embraces all this:
-as before joy, so before mystery and sorrow,
-she has only one simple response: "Behold
-the handmaid of the Lord." By this adhesion Our Lady is intimately associated with Jesus' life of suffering and therefore with His work of Redemption, and becomes spiritual Mother of the human race. This
-was God's plan for her, and Mary accepted it totally,
-without reserve, precisely because her will was
-totally united to God's will.
+Stay with us, Lord! This is the cry of the soul that, having found its God, no longer wishes to be separated from Him. We too, like the disciples of Emmaus, go in search of the Lord; our whole life is a continual pilgrimage toward Him, and often we too are sad because we cannot find Him, because, not understanding His mysterious ways, it almost seems to us that He has abandoned us. "We had hoped that he was the one to redeem Israel, but..." said the two disciples, disappointed by Jesus' death; and they did not realize that just when they were about to lose all hope, Jesus was there beside them, having made Himself their traveling companion. So it happens with us as well: though hidden in the darkness of faith, God draws near to our souls, makes Himself companion of our journey; indeed, more than that, He lives in us by grace. It is true: here below He does not show Himself in the clarity of the "face to face" reserved for eternity, and we see Him only "through a glass, in a dark manner" (I Cor. 13, 12); yet God knows how to make Himself recognized. As to the disciples of Emmaus, so to us His presence is revealed in an obscure, yes, but unmistakable way, by that wholly particular ardor that He alone can awaken in our hearts: "Did not our hearts burn within us while he spoke to us?" The soul that, even once, has thus found the Lord, and has found Him not only outside itself but within itself, living and working in its heart, cannot refrain from crying to Him: "Stay with me!"
 
-Every Christian receives from God a vocation, a mission to fulfill, by which he is called to share in Jesus' redemptive work. This mission then, for souls consecrated to God, always culminates in a task
-of spiritual fatherhood or motherhood. Oh, if before the
-divine call every soul knew how to respond with the full
-adhesion of Our Lady: "Ecce ancilla Domini... fiat"!
-Many times in our life we have received invitations from the Lord - and certainly we shall receive more - invitations to suffering, to sacrifice, to the gift of self.
-How have we responded? Has the vision of the labors
-and sorrows we would have to embrace perhaps held us back?
-Let us at least for the future seek to
-have the eyes of the soul more open to understand, like Mary,
-that precisely through suffering God calls us to contribute with Jesus to the sanctification of souls.
+And yet this cry is already answered; it is already a permanent reality because in fact God is always with the soul in grace; God is always with us, even when we do not feel Him, even when we do not perceive His presence. God is there, God remains with us; it is for us to remain with Him. And if at certain moments God lets Himself be recognized by the soul, He does so precisely to invite it to live with Him, in His intimacy. Let us therefore ask Him with ardor: teach us, Lord, to remain with you, to live with you.
 
 ### Colloquy
 
-"I greet you, Mary, O full of grace, the Lord is with you!
-Not only is God the Son with you, to whom you give your blood,
-but also God the Holy Spirit, by whose work you conceive,
-also God the Father, who from eternity has begotten Him
-whom you conceive. The Father is with you, who makes
-His Son yours; the Son is with you, who, wishing to accomplish a wondrous
-mystery, hides Himself in your maternal womb without violating
-your virginal integrity; the Holy Spirit is with you, who together
-with the Father and the Son sanctifies you. God is with you,
-truly" (St. Bernard).
+"My hope, my Father, my Creator, my true Lord and brother, when I think of what You say - namely, that your delights are to dwell with the children of men - my soul is flooded with joy. Lord of heaven and earth, where is the sinner who, after such words, can still despair? Perhaps, Lord, you have no one else with whom to take your delight, that you come to seek it in a loathsome worm such as I am?... O immense mercy! O favor infinitely above our merits!
 
-"O Mary, Mary, temple of the Trinity... O Mary,
-vessel of humility, you pleased the Eternal Father, so that He
-enraptured you and drew you to Himself, loving you with singular love. With
-the fire of your charity and the oil of your humility you drew
-the Divinity to come into you.
+"Rejoice, my soul... and since the Lord finds in you His delights, let not the things of earth prevent you from finding in Him yours and from rejoicing in His greatness.
 
-"Mary, at the Angel's word were you perhaps troubled by
-fear? It does not seem so, though you showed a sign of wonder.
-At what then were you amazed? At God's great goodness,
-while considering yourself and knowing yourself unworthy of such grace. You were therefore amazed and astonished through consideration of your own unworthiness and infirmity and of God's ineffable grace... and thus you showed profound humility.
-But in you too, O Mary, there is shown today the dignity and freedom of man, because before the Word was incarnate the Angel was sent to you to seek the consent of your will.
-And the Son of God did not descend into your womb before
-you consented; He was waiting at the door of your will for you to open to Him, for He wished to come into you; and never would He have entered if you had not opened to Him saying: -
-'Behold the handmaid of the Lord; be it done unto me according to your
-word...'
+"O Lord, I do not love the world, nor anything that belongs to it; apart from you I find no contentment anywhere; indeed, it seems to me that everything is a most heavy cross...
 
-"O Mary, my sweetest love, you opened to the eternal
-Divinity the door of your will and immediately the Word
-was incarnate in you. And with this you teach me that God,
-who created me without me, will not save me without
-me... but He knocks at the door of my will and waits
-for me to open to Him" (St. Catherine of Siena).
-
-O Mother, by the ineffable mystery accomplished today in
-you, I beg you always to teach me and help me to throw wide the door of my soul to every divine call, to every solicitation of grace. Grant that before any manifestation
-of the divine will I may always repeat with you
-my humble and prompt: "Ecce, fiat."
+"O my God, the only thing I fear - and I fear it with reason - is that You may leave me. I know well how far my little virtue and strength go, and what I can do if You do not continue to infuse strength into me and to help me so that I may not leave You... It seems to me, O Lord, that it would be impossible for me to abandon You... But since I have abandoned You so many times, now I cannot but fear, knowing that it would be enough for You to withdraw a little from me for me at once to tumble to the ground. But blessed be You, O Lord! While I was abandoning You, You never abandoned me completely; rather, You stretched out your hand so that I might at once rise again. O Lord, You who know all things, consider my weakness and do not leave me alone" (cf. T.J. Excl. 7, 1 and 3; Way 6, 9).

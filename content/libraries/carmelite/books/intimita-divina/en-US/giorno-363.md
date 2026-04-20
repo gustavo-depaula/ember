@@ -1,44 +1,103 @@
-## 363 — THE MATERNITY OF MARY
-*October 11*
+## 41 — EPIPHANY
+*January 6*
 
 ### Presence of God
 
-Mary, Mother of God, accept my humble homage and grant that I too may enjoy the sweet fruits of your motherhood.
+— O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.
 
 ### Meditation
 
-Today the Church celebrates Mary's most beautiful title and most glorious prerogative: Mother of God, solemnly proclaimed by the Council of Ephesus against the heresy of Nestorius. She rejoices with Mary in this sublime dignity that raises her above every mere creature and makes her Queen not only of men but also of angels.
+1 — "Today the world has recognized Him whom the
+Virgin brought forth... today shines the feast of
+His manifestation" (BR.). Today Jesus manifests Himself to the
+world as God.
 
-The liturgy of the day is entirely marked by this theme. Isaiah's prophecy appears: "Behold, the Virgin shall conceive and bear a Son, and His name shall be called Emmanuel" - God with us. The Epistle, applying to Our Lady words of praise for Wisdom, sings her divine maternity: Mary is the fruitful vine from which came forth the fairest Fruit, Jesus; she is Mother of fair love, in whom are grace, truth, hope, life, and virtue.
+The Introit of the Mass introduces us directly into this spirit, presenting Jesus in the royal majesty of
+His Divinity: "Behold the sovereign Lord has come: He
+holds in His hands the scepter, the power and the empire."
+The Epistle (Is. 60, 1-6) bursts into a hymn of joy announcing the vocation of the Gentiles to faith; they too will recognize and adore in Jesus their God: "Arise,
+shine, O Jerusalem, for your light has come... And the nations shall walk in your light and kings in the splendor that shall arise from you... All those of Sheba shall come bearing
+gold and incense and proclaiming the praises of the Lord." Around
+the manger no longer the humble scene of shepherds, but the sumptuous cortege
+of the Magi from the East, come as representatives
+of pagan peoples and of all kings of the earth to render
+homage to the Child-God.
 
-Through her alone God gave the world His Only-Begotten; through her alone mankind received the Savior. Whoever wants Jesus must seek Him in Mary's arms. Whoever seeks favor from the Savior must turn to His Mother.
+Epiphany (or Theophany) means "appearance of God";
+and this appearance of God we see realized in Jesus,
+who today manifests Himself to the world as its God and Lord.
+A first prodigy had already revealed His divinity:
+the extraordinary star that appeared in the East; but recalling this
+miracle, which in today's liturgy occupies first place,
+the Church adds briefly two others: the water turned
+into wine at Cana's wedding, and Jesus' baptism in the
+Jordan, while from heaven a voice attests: this is my
 
-How sweet, then, the maternal invitation: "Come to me, all you who desire me, and be filled with my fruits." Let us go to Mary: in her we will not be disappointed. She gives us Jesus - Redeemer, Fatherly Guide, and Food of our souls - and by her life she teaches us to love Him, imitate Him, follow Him, and profit fully from His redemptive and sanctifying work.
+beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the Magnificat antiphon;
+three miracles that should dispose us to recognize and adore, with living faith, in the Child Jesus our God,
 
-Thus Mary extends her motherhood to us. She truly fulfills toward us a mother's office, and we can confidently pray with the Church: "Grant, O Lord... that we may be helped by the intercession of her whom we believe to be truly the Mother of God."
+our King.
 
-This title should awaken confidence in our hearts. Because she is Mother, Mary has supreme power before her divine Son. When we call her Mother of God, we invoke that motherhood on our behalf: "Holy Mary, Mother of God, pray for us sinners."
+2 — "We have seen His star in the East and have
+come with gifts to adore the Lord"; thus in the verses
+of today's Mass the conduct of the Magi is summarized.
+Seeing the star and setting out were one and the same.
+They did not doubt: their faith was firm, sure, whole.
+They did not waver before the toils
+of the long journey: their heart was generous. They did not
+postpone to another time: their spirit was ready.
 
-What greater advocate could we find? What more powerful patron? Jesus cannot resist His Mother's supplication, and Mary cannot resist those who call upon her under this sweetest title.
+Even in the sky of our soul many times a
+star appears: it is God's intimate, clear inspiration that invites us
+to a generous act, to detachment, to a life of more intimate union with Him. We should always know how to follow
+our star with the faith, trust, and promptness of the
+Magi; followed thus, it will undoubtedly lead us
+to the Lord, it will make us find Him whom we seek.
 
-Jesus, dying on the Cross, entrusted to us the treasures of her motherhood. She has a maternal mission toward our souls, given to her by Jesus Himself, and she longs to fulfill it. She wants to be our Mother and to use for us the privileges of her motherhood.
+The Magi persevered in their search even
+when the star disappeared from their sight; so we too must persevere in good even amid interior darkness:
+it is the trial of faith, overcome only by intense exercise
+of pure, naked faith. I know God wills it, I know
+God calls me, and this is enough for me: Scio cui credidi et certus sum (2 Tim. 1, 12); I know in whom I have believed,
+and whatever happens I cannot doubt Him.
 
-Yet she cannot do this if we do not entrust ourselves to her as docile and loving children. Even among those consecrated to God, many do not sufficiently understand the need to give themselves to Mary as children, to open the soul to her maternal influence, to seek her with confidence in difficulties and dangers, and to place spiritual life under her care.
-
-As in natural life a child needs its mother, so in supernatural life souls need a mother: the Blessed Virgin. Without her maternal care, spiritual life suffers and often remains stunted. But where souls entrust themselves to Mary, interior life progresses rapidly: the journey to God becomes lighter, swifter, easier, because a maternal hand sustains and a maternal heart consoles.
+With these dispositions let us go with the Magi to the manger.
+"And, as they with their treasures offered mystical gifts to the Lord, so may we too know how to draw from our hearts
+gifts worthy of God" (BR.).
 
 ### Colloquy
 
-"Your name, O Mother of God, is full of every grace and blessing. You bore in your womb Him whom the heavens cannot contain. You nourished Him who nourishes all. The Lord of the universe willed to need you, for you gave Him the flesh He did not have.
+"O Jesus, I adore You, for You are my Lord God...
+You are a great God and King of all kings. In Your hands
 
-"Rejoice, O Mother and Handmaid of God! Rejoice, for you have as your debtor Him who gives being to all creatures. We all are debtors to God, but God became debtor to you.
+are all the ends of the earth and You behold the heights
+of the mountains. Yours is the sea and You are He who made it, and on Your hands the earth is founded... And we are Your people
+and the sheep of Your hand" (cf. Ps. 94). Yes, O Jesus,
+I am one of Your little sheep, one of Your creatures,
+and I rejoice in acknowledging my nothingness before You.
+But I rejoice still more in recognizing and adoring in You, most lovable Child,
+my God and my Creator. How I wish all peoples
+might recognize You for who You are, that all might prostrate themselves before You, adoring You as their God and Lord.
 
-"O most holy Virgin, you have greater goodness and charity than all the saints and greater access than all to the throne of God, because you are His Mother. I beg you, then, remember me and my miseries." (St. Methodius)
+O Lord, You can do it: show all Your Divinity;
+and, as one day You led to Yourself the Magi of the East,
+so now gather around Your manger all peoples, all
+nations.
 
-"O great Mother of God, I too say with St. Bernard: 'Speak, Lady, for your Son hears you, and whatever you ask He grants.' Speak, then, O my Advocate, for me, miserable as I am.
+But You make me understand that You want my poor
+collaboration for the coming of Your kingdom: You want
+me to pray, suffer, and work for the conversion of near and distant souls.
+You want me too to bring to Your manger the gifts of the
+Magi: the incense of prayer, the myrrh of mortification and of suffering generously embraced for
+love of You, the gold of charity; charity that makes my heart
+wholly and exclusively Yours; charity that urges me to work, to give myself for the conversion of sinners, of unbelievers,
+for the greater sanctification of Your elect.
 
-"Remember that for my good too you received such power and dignity. God willed to become your debtor by taking human nature from you, so that you might freely distribute to the poor the riches of His mercy.
+O my sweetest King, create in me the heart of an apostle.
+How I would like today to bring to Your feet the praises and sincere adorations of all the people of the earth!
 
-"If you, infinitely good, do good to all, even those who do not know or honor you, how much more should we expect from your kindness, we who desire to honor and love you and trust in your help?
-
-"O Mary, even if we are sinners, you can save us, for God has enriched you with mercy and power greater than all our iniquity. O sweetest Mother, I place my soul before you: purify it, sanctify it, make it wholly Jesus'." (St. Alphonsus)
+But, O Jesus, while I pray You to manifest Yourself to the world,
+I also pray You to manifest Yourself ever more to my poor soul. Grant that today Your star may also shine for me and indicate the way that leads to You; grant that today it may also be for me
+a true Epiphany, that is, a new manifestation of You to my mind and to my heart. The more one knows You, the more one loves You,
+O Lord; and I desire to know You solely in order to love You,
+to give myself to You with ever-growing generosity.

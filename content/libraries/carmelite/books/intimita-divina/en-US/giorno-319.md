@@ -1,43 +1,43 @@
-## 319 — APOSTOLIC IMMOLATION
+## 319 — BLESSED ARE THE PURE OF HEART
 
 ### Presence of God
 
-O Jesus, immolated for my salvation, grant that I may be worthy to immolate myself with You for salvation of my brethren.
+Increase, O Lord, purity of my heart and mind so that I may know You ever better.
 
 ### Meditation
 
-1. — Apostolic prayer must be accompanied by sacrifice, in imitation of prayer Jesus raised for us to Father in Garden and on Cross. Love must urge those who pray "to active sacrifice, a sacrifice that does not rest in prayer until pain and suffering have almost touched limits of strength. In those moments, consumed by ardor of charity and vehemence of desire, they will no longer be those who pray, but living prayers" (Pius XII).
+1. — To gift of understanding corresponds beatitude: "Blessed are the clean of heart, for they shall see God" (Mt. 5:8). There is first purity of heart that is indispensable condition for abundant influence of gift of understanding. It is purity resulting not only from absence of sin, but also from even smallest earthly affections.
 
-Prayer and sacrifice are intimately connected because they spring from one flame: love that impels to unceasing prayer and immolation for glory of God and salvation of souls. Contemplative life is therefore synonymous with austere and penitential life, so as to become continual "sacrifice of praise." The more prayer is nourished and kneaded with sacrifice, the more effective it is; indeed it reaches maximum efficacy precisely when sacrifice is maximum.
+It is a fact God does not communicate Himself totally to creature unless it has total purity of heart, that is, unless it reserves for Him whole affective capacity. As long as some attachment to creatures remains in us, some search for their affection, some complacency in being loved by them, our heart is not pure enough to enjoy divine communications.
 
-Every contemplative soul must be "worthy altar where Divine Majesty may dwell" (St. John of the Cross), altar from which prayer rises and on which sacrifice is immolated. Jesus' apostolate culminated and was accomplished in annihilation of death on cross and by means of it.
+Therefore, before introducing soul into penetration of his mysteries, God subjects it to purification of affections. These are detachments, tearings that at times cost blood, but if accepted generously they finish unbinding heart from creatures and render it completely free for Creator.
 
-Only after being crushed by scourges, pierced by nails, abandoned by God and men, did Savior say: "Consummatum est" — all is finished (Jn. 19:30). So it will be for us. Only when we have truly sacrificed ourselves for souls, only when we have accepted with Jesus to immolate ourselves totally for their salvation, can we repeat with Him: all is accomplished.
+If God makes us pass through these trials, let us not draw back, let us not flee his action, but cooperate with it, fully persuaded He reserves fullness of his gifts and light only for souls pure from every shadow of creature, only for hearts wholly belonging to Him. In this sense one may truly say vision of God is reward promised to pure of heart.
 
-Our participation in Jesus' apostolate finds fulfillment in sacrifice of ourselves: not fantastical or hypothetical sacrifice, but real and concrete, whose form and measure God Himself indicates through circumstances of life, permissions of his divine Providence, dispositions of superiors, and duties of our state.
+Indeed, when heart keeps some attachment, however slight, to creatures, intellect remains clouded and "has no capacity to receive light of God's wisdom, just as darkened air has none to receive that of the sun ... Oh," exclaims St. John of the Cross, "if men knew how much divine light's good is taken from them by blindness caused by their affections and desires!" (Ascent I, 8).
 
-When soul is disposed, for salvation of brethren, to live in continual sacrifice of its own will, in continual self-denial; when it is disposed to let itself be crucified in any way by holy will of God so as to win other souls to his love, then it reaches summit of apostolate and therefore of apostolic fecundity.
+Instead, when heart is pure, then intellect, like clear glass, can be wholly penetrated by light of Holy Spirit.
 
-2. — Many are not saved because there is no one who prays and sacrifices for them. Without tears and sufferings of Monica, Church would very probably not have had St. Augustine. Blessed then those souls who make apostolic immolation reason for being and goal of their life.
+2. — There is also another purity of heart that is no longer disposition for receiving gift of understanding, but fruit of this gift. Here word heart is understood in broader sense of spirit and mind, usual in Sacred Scripture.
 
-"My sisters in Christ," writes St. Teresa of Jesus to her daughters, "join me in asking God this grace [salvation of souls]. For this He has brought you here; this is your business and your desires, this matter of your tears and your prayers ... On day your prayers, disciplines, desires, and fasts were not employed for this, know you would not reach end for which Lord gathered you here" (Way of Perfection).
+Our mind is so coarse we can always err in understanding divine things: imagining them materially on level of earthly things, or interpreting them according to personal views, or grasping only one aspect and neglecting other essential ones, and so forth. Precisely thus, unfortunately, many heresies arose in Church.
 
-Contemplatives, not having tasks of exterior apostolate, are especially bound to concentrate all strength in prayer and sacrifice; only thus will they correspond to great hopes Church places in them and realize their vocation.
+Gift of understanding, by communicating to us light of Holy Spirit Himself, purifies our mind from these errors, frees it from deceits of imagination as from all other false interpretations. Through this purity of mind, gift of understanding ensures integrity of our faith, makes us penetrate objective reality of divine mysteries, gives true sense of Lord's law, commandments, and counsels.
 
-Through penances arising from common life and observance of austere and humble life, fully submitted to obedience and deprived of human satisfactions, they are specially called to accomplish generously in their flesh what is lacking to Passion of Christ for his Mystical Body, Church (cf. *Sponsa Christi*).
+Moreover, this gift, making us penetrate divine things by infused light of Holy Spirit, makes us understand well God cannot be enclosed in our coarse imaginations nor in our short ideas, but is infinitely above all we can think and imagine of Him. "Because God is inaccessible," says St. John of the Cross, "seek not to stop at what your powers can understand and your senses perceive, lest you be satisfied with less and your soul lose lightness needed to ascend to God" (Sayings).
 
-"I came to Carmel to save souls," had declared St. Therese of Child Jesus, and after consuming and offering for this end all her energies, during anguish of last illness she offered for sinners even prayers made to obtain some relief for her.
+If we want to cooperate with movement of gift of understanding, we must be detached from our ideas. We must be ready to renounce them even if very dear. We must not be too sure of our way of understanding things of God, but seek Church's discernment. Above all, we must humbly ask for gift of understanding so it may free us from errors and give right understanding of divine things.
 
-But if contemplatives must be "specialists" in apostolate of sacrifice, this cannot and must not be lacking, though in different form, in life of every apostle. As Jesus bought our souls at price of his Blood, so whoever wants to collaborate with Him for salvation of humanity must be disposed to unite to precious Blood of Christ some drop of his own.
-
-Souls cost dearly, and apostle must pay of his own for those he wants to win. Apostolate is true and fruitful in measure it is imbued with suffering and is fruit of immolation.
+Finding in us a pure spirit, Holy Spirit will illumine us more and more. Greater light will correspond to greater purity and vice versa, and thus, from clarity to clarity, we shall reach deeper penetration of divine mysteries making us foretaste something of beatific vision: "Blessed are the pure of heart, for they shall see God!"
 
 ### Colloquy
 
-"Lord, my heart exults in thought You have deigned to choose me to associate me with great work of Redemption and to suffer in me almost prolongation of your Passion. You have taken me and want me to be for You almost added humanity in which You can suffer for Father's glory and needs of your Church.
+"O Lord, give me right sentiments concerning You and grant that I may seek You with simplicity of heart. My heart says to You: 'I will seek your face.' Your presence I seek, O Lord, when with my heart I seek You. You dwell where You abide; and where do You abide if not in your temple? Your temple is our heart. Teach me how I must welcome You. You are Spirit, and in spirit and truth I must adore You.
 
-"How happy I would be, adored Master, if You asked even to pour out blood for You. But what I desire above all is martyrdom of love that consumed saints. Since You said greatest proof of love is to lay down life for one loved, I give You mine that You may do with it what You will. If I am not martyr of blood, I want to be martyr of love.
+"Enter my heart and let all idols fall.
 
-"How I rejoice in thought that from eternity we were known by Father and that He wants to find in us your image, O Christ crucified! How necessary then suffering is, that your work be accomplished in me! You desire to enrich me with your graces; it is I who limit your gift and determine its measure according to generosity with which I let myself be immolated by You.
+"I shall now listen to your voice and learn to desire You; I shall learn to prepare myself to be able to see You. Blessed are all who see You! And if they see You, this is not because during life they were poor in spirit, or meek, or mournful, or hungering and thirsting for justice, or merciful, but because they were pure of heart. Good is humility for possessing kingdom of heaven, good meekness for possessing earth, good mourning for being consoled, good hunger and thirst for justice for being satisfied, good mercy for obtaining mercy; but it is purity of heart that makes one see You.
 
-"O Lord, You called hour of your Passion 'your hour,' that for which You had come, that all your desires sought. When great suffering, or even very little sacrifice, presents itself to me, I want at once to think this is 'my hour,' hour in which I can give proof of my love to You who loved me so much" (Elizabeth of the Trinity).
+"I want to see You: great is thing I want, but it is You who tell me to want it. Come to purify my heart, because pure is what I want to see and impure is means with which I want to see it. Come to me, O Lord, and purify me with your grace. Purify my heart with your helps and consolations. If I receive You in my heart during this life, after present life You will admit me to your presence" (St. Augustine).
+
+"Come, O Holy Spirit, and speak always to my heart; or at least, if You prefer silence, let your very silence speak to me, because without You I am always in danger of following my errors and confusing them with your teachings" (cf. St. Bernard).

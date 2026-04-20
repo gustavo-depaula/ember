@@ -1,63 +1,41 @@
-## 330 — HUMAN VALUES IN THE SERVICE OF APOSTOLATE
+## 330 — THE VARIOUS FORMS OF APOSTOLATE
 
 ### Presence of God
 
-Teach me, Lord, to put all the talents received from You at the service of apostolate.
+O Jesus, teach me to pray, to suffer, to work with You for salvation of souls.
 
 ### Meditation
 
-1 — Alongside natural virtues placed at the service of apostolic charity, we must also consider other human values that allow the apostle to make an impact in his environment—not to assert his own person, but to make the Christian ideal prevail.
+1. — When one speaks of apostolate, one thinks almost exclusively of exterior activity. Certainly this is necessary, but it is not only form of apostolate. We must always keep before us that Jesus saved us not only by activity carried out during last three years of his life, dedicated to evangelization of crowds and formation of first nucleus of Church, but also by prayer, by suffering — in sum, by his whole life.
 
-To say that the apostle, despite his culture and abilities, can do nothing without God’s help does not mean banishing these natural values; it means affirming that by themselves they are insufficient to attain the essential end of apostolate, namely the communication of grace to souls, an end only divine action can achieve.
+Jesus was always Apostle, always One sent by Father for our salvation. His apostolate begins at Bethlehem in squalor of grotto, where, little Child wrapped in swaddling clothes, He already suffers for us; it continues in thirty years of life spent at Nazareth in prayer, retreat, hiddenness; it takes exterior form in direct contact with souls during public life; and it culminates in agony of garden and death on cross.
 
-Yet what is insufficient in itself can become in God’s hands an excellent means for the good of souls. A brush is in itself incapable of painting anything, but in the hands of a good artist it can produce great masterpieces.
+Jesus is apostle in stable of Bethlehem, in Joseph's workshop, in anguishes of Gethsemane and Calvary, no less than when He traverses Palestine teaching crowds or disputing with doctors of law.
 
-The apostle must be conscious of the radical insufficiency of his gifts and talents, but at the same time he must cultivate them and make them bear fruit in order to place them at God’s disposal for apostolic ends.
+Our apostolate consists in associating ourselves with all Jesus did for redemption of humanity. Therefore it is not limited to exterior activity alone, but consists also, and essentially, in prayer and sacrifice. Thus two fundamental forms of apostolate are distinguished: interior apostolate of prayer and immolation, continuation of hidden life and Passion of Jesus; and exterior apostolate of word and works, continuation of his public apostolic life.
 
-Hence the necessity that apostles, together with interior life, cultivate intellectual formation. Certainly holiness is always the most important element, but when holiness is joined to doctrine, results will be better.
+Both are participation in saving work of Jesus. Yet there is great difference between them: interior apostolate is indispensable foundation of exterior apostolate. No one can think to save souls by activity not sustained by prayer and sacrifice.
 
-St. Teresa of Jesus held this view. Speaking of spiritual direction, she does not hesitate to say: «The director must be a spiritual man, but if he is not also learned, the inconvenience is very grave» (*Life* 13,19).
+On other hand there are cases in which exterior activity may be lacking without diminishing interior apostolate of prayer and sacrifice, which can still be very intense and fruitful. Every Christian is apostle not only by force of activity he carries out, but principally by force of participation in prayer and sacrifice with which Jesus redeemed world.
 
-Moreover, not only for direction of souls but for every form of apostolate, «knowledge is a great thing and serves to give light in everything»; indeed, there are environments into which it is impossible to penetrate without sufficient culture.
+2. — Interior apostolate can subsist of itself, and in fact there are forms of life that legitimately exclude exterior apostolate. Such is case of pure contemplative life, always flourishing in Church and maternally supported by her against those who accuse it of absenteeism from field of activity.
 
-It is therefore a duty of the apostle to acquire an intellectual preparation suited to the apostolate he must carry out. This is not a search for vain science that puffs up; it is not cultivating one’s intelligence for self-display, but placing all talents received from God at the service of souls.
+Those who, following God's call, withdraw from works to dedicate themselves to this life are not deserters or runaways. If they leave ranks of external apostolate, they do so precisely to give themselves to deeper apostolate: that of prayer and continual immolation.
 
-Under the vivifying influence of charity, everything—education, culture, doctrine, technical skills, and so forth—is transformed into a means of apostolate.
+"Those who in Church fulfill office of continual prayer and penance contribute to increase of Church and salvation of human race much more than those who cultivate Lord's field by activity. For if they did not draw from heaven abundance of divine graces to water field, evangelical workers would certainly reap less fruit from their labor" (Pius XI, *Umbratilem*).
 
-2 — Lay people engaged in professional life have, more than others, the duty to form a culture and technical competence proportioned to their profession.
+This authoritative statement of great Pope leaves no doubt about high apostolic value of contemplative life. But it is right to note such value is realized only when contemplatives engage with all strength in prayer and continual immolation. In other words, not just any prayer and any sacrifice reach such fecundity, but only prayer and sacrifice proceeding from heart supremely pure and generous, wholly given to God and renewing and living day by day with fresh and ever deeper depth its immolation.
 
-A teacher who does not prepare lessons well, who is not up to date, who does not devote himself zealously to teaching, will never have influence over students; any apostolic initiative he might attempt among them is destined to fail.
+When contemplative life is lived with such intensity, it is in eminent way apostolic life. Precisely in this sense Pius XII defines cloistered vocation as "universal apostolic vocation ... fully apostolic vocation, not circumscribed by limits of place, time, and circumstances, but always and everywhere ready to zeal for all that can in any way concern honor of Spouse and salvation of souls" (*Sponsa Christi*).
 
-Only sound professional competence can procure for the Catholic professional that authority which, while remaining within the limits of his profession, often reaches the moral and religious field, enabling him to exercise effective influence on those who approach him.
-
-In this way he can do immense good, and at times his word may be heard even more than that of the priest.
-
-Very rightly Pius XII recommended to Catholic laity not to be «inferior to others in the arena of scientific value and professional competence,» but to do what is possible to become «the best professionals, the best jurists, men of letters, physicians, engineers,» and so forth (to Catholic Graduates, 20 March 1941).
-
-And this not for profit, but in order to acquire broader and more authoritative influence for apostolic purposes.
-
-Indeed, in proportion to their professional competence, Catholics will be called to positions of leadership in society and thus will be able to cooperate more effectively in organizing a civil world in harmony with Gospel principles and therefore capable of receiving divine grace.
-
-Before dedicating themselves to other forms of apostolate, then, lay people must put themselves in a position to exercise perfectly those inherent in their professional life.
-
-As holiness is sought first of all in fulfillment of the duties of one’s state, so apostolate must be exercised first of all through perfect fulfillment of professional duties, which belong precisely to one’s state in life.
-
-To become holy along the line of daily duty, to become apostle along the line of professional duty: this must be the program of Catholic laity—a practical program within reach of all, yet requiring eminent spirit of sacrifice, faith, and love to transform not-light professional work into a weapon of apostolate.
-
-But apostolic charity is capable of this much; in the name of God it can do all things, «beareth all things, hopeth all things» (1 Cor 13:7).
+Moreover, contemplative monasteries, by simple example of life of retreat, prayer, and penance, are for all a continual call to detachment from earthly things, search for heavenly ones, union with God, holiness.
 
 ### Colloquy
 
-«O Lord, I do not want the knowledge that puffs up, but humble knowledge that comes from You, that enlightens minds and kindles hearts.
+"O Jesus, what can I do to save souls? And You answer me with words You once addressed to disciples, showing them fields of ripe grain: 'Lift up your eyes and see countries, for they are white already to harvest ... truly the harvest is great, but laborers are few. Pray therefore Lord of harvest that He send laborers.'
 
-«You, O Lord, teach knowledge to men; You give little ones clearer understanding than any man can teach. If You speak to me, I shall at once become wise and will therefore make spiritual progress.
+"What mystery! O Jesus, are You not omnipotent? Do not creatures belong to You who created them? Why then do You say: 'Ask Lord of harvest to send laborers'? Why?... Ah, Jesus, because You have for us so immense a love that You want us to have part with You in salvation of souls. You will do nothing without us! You, Creator of universe, await prayer of poor little soul to save other souls redeemed like it at price of your Blood.
 
-«You, O Lord, can in an instant raise the humble mind to understand many reasons of eternal truth. You teach without noise of words, without confusion of opinions, without conflict of arguments» (*Imitation of Christ* III, 43).
+"My vocation does not consist in going to reap in ripe fields. You do not say to me: 'Lower your eyes, look at fields, and go reap.' My mission is still more sublime. You tell me: 'Lift up your eyes and see. See how in heaven there are empty places. It is your task to fill them ... You must be my Moses praying on mountain. Ask me for laborers and I will send them; I await only a prayer, a sigh of your heart.'
 
-«O Lord, give me this knowledge, and then I shall be able to enter study and work without any danger of vainglory. The intelligence You have given me, I want to employ in your service; I want to make it bear fruit for your glory and for the good of souls.
-
-«All capacities received from You—intelligence, will, physical and moral energies—must be used for this purpose, because the apostle must be wholly given to fulfillment of his mission, always on the breach for the defense and glory of your name.
-
-«Sanctify, O Lord, my studies, my work, the exercise of my profession; make love transform all this into means of apostolate.
-
-«Remember, O Lord, that You declared I was placed for the salvation of souls. Therefore I offer to You my life, now and forever, whenever it pleases You; and I place it for your glory, humbly praying You, by the power of your Passion, to cleanse and sanctify your people» (St. Catherine of Siena).
+"Behold, O Lord, mission You entrust to me: to contribute by prayer and sacrifice to formation of evangelical workers who will save millions of souls, of whom I shall be mother" (St. Therese of the Child Jesus).

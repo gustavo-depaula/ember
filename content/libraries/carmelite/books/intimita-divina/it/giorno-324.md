@@ -1,91 +1,23 @@
-## 324 — SANTIFICARSI NELL'APOSTOLATO
+## 2 — IL DOVERE DELL'APOSTOLATO
 
-### Presenza di Dio
-
-Dammi luce, o Dio, affinchè riconosca le grazie che hai preparato sul mio cammino per condurmi alla santità; rendimi Tu capace di corrispondere ad esse.
+**Presenza di Dio.** — *O Gesù, che mi accogliesti come tuo membro, fa' che io non viva da estraneo nel tuo Corpo mistico, ma possa giovare al bene di tutti i fratelli.*
 
 ### Meditazione
 
-que essere santi prima di darsi all'apostolato? Teoricamente sarebbe l'ideale, ma in pratica è impossibile. Non si può
-pensare che bastino gli anni della formazione — del seminario o del noviziato, ad esempio — per fare i santi;
-nè, quando il dovere o la carità l'impongono, ci si può
-esimere dalle Ppare di apostolato col motivo che non si è
-ancora giunti alla santità. Bisogna dunque concludere che,
-premesso il periodo dedicato esclusivamente alla preparazione, è necessario congiungere l'ascesa personale verso la
-santità con l'esercizio dell'attività apostolica, In altre parole, gli apostoli devono santificarsi nell'apostolato e per
-mezzo di esso. « Santificarsi in vista e per mezzo dell'apostolato, ecco la parola d'ordine per un sacerdote diocesano... Faremmo mentire la Chi sa, la vita di Gesù e tutte
-le vite dei santi se affermassimo l'incompatibilità dell'apostolato esteriore con la santità ». Queste parole che Don
-Poppe rivolge ai sacerdoti, valgono per tutti gli apostoli,
-chierici o laici, religiosi 0 secolari: ogni apostolo deve
-avere la certezza che proprio sul suo campo di lavoro —
-e non altrove — troverà tutte le grazie necessarie per santificarsi, per giungere all'unione intima con Dio. Quando
-una persona si dà all'apostolato non di propria scelta, non
-per impulso naturale all'attività, ma solo per rispondere
-ad una chiamata divina, deve essere sicura che, come Dio
-l'ha voluta nell'apostolato, così la vole santa e le darà
-tutti i mezzi per diventarlo. Dio non può condannare alla
-mediocrità un'anima che per fare la sua volontà, e quindi
+**1** — Prescindendo dal grado di carità cui un'anima può essere giunta e dalla sua particolare vocazione, esiste per ogni cristiano un dovere di apostolato che ha il suo fondamento nel fatto stesso di essere cristiano, ossia di essere membro del Corpo mistico di Cristo. «Noi molti siamo un corpo solo in Cristo e, per i rapporti reciproci, siamo membri gli uni degli altri» *(Rom.* 12, 5); perciò, come nel nostro corpo ciascun membro s'interessa al bene degli altri membri «se un membro soffre, tutti con esso soffrono, e se un membro ha gloria, tutte le membra godono con lui» *(1 Cor.* 12, 26), così ogni cristiano è tenuto ad interessarsi del bene degli altri.
 
-per amor suo, si è sobbarcata a pesi e fatiche apostoliche.
-« No, fratelli — riprende Don Poppe — la vita attiva non
-è una notte dove si spegne il lume dell'ideale. Se tanti vi
-hanno perduto il loro, voi abbiate più confidenza, wiliatevi più profondamente per la vostra debolezza e una grazia più abbondante vi porterà certamente anche il successo. Non sapete che le difficoltà e gli ostacoli, sotto l'azione meravigliosa della grazia, si trasformano talvolta in
-aiuti e cooperano meravigliosamente al bene? * Certus
-sum', potete dire con S. Paolo: sono sicuro che nessul
-creatura al mondo ha il potere di allontanarmi dal cammino della santità », Nella misura che l'apostolo sarà docile e fedele alla grazia, Dio lo purificherà, lo affinerà, lo
-santificherà proprio attraverso le sue fatiche apostoliche,
+«Se una spina — dice S. Giovanni Crisostomo — penetra nella pianta del piede, tutto il corpo la sente e ne è sollecito: il dorso si piega, le mani si tendono per estrarla, il capo si abbassa e gli occhi guardano con gran cura e sollecitudine». Come il dorso, le mani, il capo e gli occhi non trascurano il bene del piede, né dicono: «che me ne importa?», ma ognuno, a modo proprio, corre in aiuto del membro sofferente, così nessun cristiano può disinteressarsi del suo fratello, ma è tenuto — secondo le sue possibilità — ad adoperarsi per il bene dell'anima di lui e ciò appunto in forza del battesimo che, costituendolo membro del Corpo mistico, l'ha reso solidale con le altre membra, sì che il bene altrui è bene suo, come pure il male altrui è male suo.
 
-opere non esclude quel tacito richiamo al raccoglimento,
-quel desiderio di solitudine e d'intimità con Dio che spes
-so accompagna l'apostolo in mezzo alla sua attività e talvolta si acuti. ino. a gettare sulla sua vita un velo di
-nostalgia. Chi ha gustato anche solo un po' la bellezza €
-la bontà infinita di Dio, non può non sentire prepotente
-l'ansia e il bisogno di lui. Ciò è buon segno: significa che
-l'anima non si è lasciata invadere e dissipare dalle occupazioni esterne e che, pur vivendo nel mondo, non è del
-mondo, ma tende davvero a Dio, Anche se tale ansia dovesse in qualche momento diventare tormentosa, l'apostolo non si deve turbare, nè pensare di avere sbagliato strada: questo tormento lo purificherà e lo condurrà al Signore. Del resto, non si può pensare che il semplice desiderio di maggiore raccoglimento e unione con Dio sia
-senz'altro indice di una chiamata alla vita contemplativa,
-la quale è caratterizzata soprattutto dal bisogno di dedizione e di immolazione più profonda. L'insistente richiamo all'interiorità deve essere piuttosto considerato come
-una grazia ordinata a difendere l'apostolo dai pericoli dell'attività esterna: è il baluardo, è il muro di clausura della sua vita spirituale.
+«Tutti i mali nascono dal fatto che reputiamo cose estranee quelle che riguardano il nostro stesso corpo. Nessuno può fare il proprio dovere se trascura la salvezza del prossimo. Se così dire di non aver nulla di comune col tuo membro, né stimi di aver nulla di comune col tuo fratello, non hai neppure Cristo per Capo». Queste forti parole del Crisostomo ci dicono che l'apostolato non è un *di più*, non è qualche cosa di facoltativo lasciato all'arbitrio della generosità dei singoli, ma è dovere preciso di ogni cristiano, dovere derivante dalla natura stessa del cristianesimo, dovere così stringente che non si può essere veri cristiani senza adempierlo.
 
-Tuttavia il bisogno di Dio deve essere soddisfatto; oltre le ore quotidiane di preghiera e di silenzio, l'apostolo
-deve avere delle sufficienti pause nel suo lavoro: ritiri
-mensili, esercizi annuali sono indispensabili, e così pure
-maggior agio per raccogliersi dopo un periodo di attivi
-particolarmente intensa. Sarebbe un errore fatale lasciarsi
-assorbire dal lavoro al punto da non trovare più il tempo
-per concentrarsi in Dio, in un intimo cuore a cuore con
-lui; neppure sotto l'aspetto di maggiore generosità l'apostolo deve rinunciare alle sue ore di preghiera,
+**2** — Come S. Paolo alle prime cristianità, come S. Giovanni Crisostomo alla Chiesa di Antiochia, così oggi il Vicario di Cristo alza la voce per inculcare ai fedeli di tutto il mondo il grande dovere dell'apostolato. Gesù che, morendo sulla croce, ha meritato per noi la grazia, «avrebbe potuto elargirla da sé a tutto il genere umano; ma volle farlo per mezzo di una Chiesa visibile, nella quale gli uomini si riunissero affine di cooperare con lui, e per mezzo di essa, a comunicare vicendevolmente i divini frutti della Redenzione. Come infatti il Verbo di Dio, per redimere gli uomini coi suoi dolori e tormenti volle servirsi della nostra natura, quasi allo stesso modo, nel decorso dei secoli, si serve della nostra Chiesa per continuare perennemente l'opera incominciata» (Pio XII, *Myst. Corp.*). La Chiesa è la società dei fedeli, la Chiesa siamo *noi*, quindi ad ognuno di noi incombe il dovere di cooperare alla diffusione della grazia nelle anime. Senza dubbio, in questo ministero il primo posto spetta ai vescovi ed ai sacerdoti, ma accanto a loro, e alla loro dipendenza, ogni cristiano è chiamato a prendervì parte. «Non solo ai sacri ministri ed a coloro che han fatto oblazione di sé a Dio nella vita religiosa, ma anche agli altri membri del mistico Corpo di Cristo, a ciascuno in ragione della propria possibilità, incombe il dovere di affaticarsi con ogni impegno e diligenza alla costruzione ed all'incremento del medesimo Corpo» *(ivi)*.
 
-Ma nello stesso tempo egli deve andare al suo lavoro
-con animo sereno e fiducioso, tenendo ben presente che,
-finchè non avrà raggiunto la piena maturità della vita spirituale, non potrà sfuggire al conflitto tra azione e contemplazione one che tenta di distogliere dalla contemplazione e tao che vorrebbe prolungarsi oltre il termine stabilito. Il suo sforzo deve essere quello di mantenersi in una posizione di equilibrio, evitando i due estremi e unificando la sua vita per mezzo dell'amore. Primn
-che il conflitto si plachi in una perfetta armonia, resta da
-percorrere un lungo cammino durante il quale è assolutamente necessario darsi all'azione con prudenza ed essere
-molto fedeli all'orazione, non lasciando invadere dal lavoro il tempo ad essa destinato,
+Di ogni suo membro, ossia di ogni cristiano, Gesù si vuol servire per continuare la sua opera redentrice nel mondo; Egli, onnipotenza infinita, che, come ha creato tutto dal nulla, così ha il potere di santificare le anime senza il concorso di nessuno, vuole avere *bisogno* di noi, della nostra povera opera e c'invita e ci sollecita a sacrificarci insieme con lui per la salvezza dei fratelli. «Mitemente meditato — esclama Pio XII — né mai sufficienda di questo, cioè, che la salvezza di tutti gli uomini dipende dalle preghiere e dalle volontarie mortificazioni a questo scopo intraprese dalle membra del mistico Corpo di Gesù Cristo e dalla cooperazione dei Pastori e dei fedeli» *(ivi)*. Essere apostoli significa prestare a Cristo la propria capacità, la propria attività, affinché Egli, per mezzo nostro, continui a redimere ed a santificare le anime.
 
 ### Colloquio
 
-«Dio mio, come sono pochi gli apostoli santi! Come
-sono rari i tuoi veri amici! O Signore, brucio dal desiderio della venuta del tuo regno nelle anime degli apostoli;
-brucio, ma sono talmente povero che sarò consumato prima che questo regno si avvicini.
+«Signore mio, volgi l'occhio della tua misericordia sul popolo tuo e sopra il Corpo mistico della santa Chiesa, poiché Tu sarai più glorificato nel perdonare a tante creature, che non perdonando solamente a me, miserabile, che tanto ti ho offeso. Perciò ti prego, divina, eterna Carità, che faccia vendetta di me e faccia misericordia al popolo tuo; mai mi partirò dalla tua presenza finché non vedrò che Tu faccia ad esso misericordia. Come potrei accontentarmi se io avessi vita eterna e il popolo tuo la morte?... Voglio dunque, e per grazia te lo domando, che tu usi misericordia al popolo tuo per quella carità che ti mosse a creare l'uomo ad immagine e somiglianza tua, affinché partecipassi di te, della tua vita.
 
-«Fa? di me, o Signore, un santo apostolo; perchè ottiene di più un santo con una sola parola che non un lavoratore ordinario con una serie di discorsi, Senza santità
+«O Signore, offro a te la vita mia, ora e per sempre, quando piacerà a te; e la metto per la tua gloria, pregando ancora umilmente, per la virtù della tua Passione, che Tu mondi e purifichi da ogni difetto la Chiesa, tua sposa, e non ritardi più... Rivolgo poi ad altra parte lo sguardo e vedo le anime perdute d'innumerevoli peccatori e nel vederle mi si spezza, o piuttosto, con la forza di acerbo rammarico, mi si dilata il cuore, e così, vinta dalla compassione, non posso fare a meno di piangere la miseria loro, quasi come mi trovassi simile ad esse, imbrattata dal fango delle colpe loro.
 
-sono un bronzo risonante, un cembalo squillante e Tu, 0
-Dio, parli solo attraverso la bocca dei santi. Dammi dunque la santità, l'unica cosa capace di commuovere il sentimento, di trafiggere le anime, di rinnovarle, Dio mio, che
-io non venda orpello, che io non sia un recipiente vuoto!
-
-« Santificarsi nell'apostolato è difficile; molti sono gli
-ostacoli e i pericoli che s'incontrano. Dovrò dunque ritirarmi sfiduciato? No, Dio mio, giacchè, se ho buona volontà, sarò sempre aiutato dalla tua grazia, e dove lavora
-la grazia si trova sempre la via che conduce al fine, alla
-santità! Che devo dunque temere? La tua grazia è con
-me, Tu stesso sei con me, in me. E se Tu, o Dio, entri
-in campo con me, che cosa potrò ancora chiamare “osta
-colo? La tribolazione o l'angoscia, la fame o la nudità, il
-pericolo o la persecuzione o la spada? Tutte queste difficoltà le supererò col tuo aiuto, poichè Tu mi ami e non
-
-° mi abbandoni. Appoggiandomi a te, O Signore, sono sicuro che nessuna creatura al mondo ha il potere di allontanarmi dal cammino della santità. Ne sono sicuro
-perchè Tu vuoi vedere gli apostoli santi, perchè Tu sei
-infinitamente buono, infinitamente potente e fedele alle
-promesse, perchè Tu sei infinitamente misericordioso »
-(D. Edoardo Poppe).
+«Signore, Tu, nel corso del viver tuo mortale, il peso portasti di due croci, portando sopra il dorso tuo la soma gravosa dei peccati nostri; così Tu, acciocché io divenissi a te conforme, del peso mi caricasti di due croci: una mi abbatte con le infermità ed altre angustie il corpo, l'altra trafigge l'anima addolorata per la perdizione e cecità di tanti miserabili ed ostinati peccatori» (S. Caterina da Siena).

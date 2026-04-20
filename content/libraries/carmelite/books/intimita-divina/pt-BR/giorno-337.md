@@ -1,61 +1,55 @@
-## 337 — A UNIÃO COM DEUS
+## 337 — SANTIFICAR-SE NO APOSTOLADO
 
 ### Presença de Deus
 
-Meu Deus, que me criaste para ti, faze que eu possa retornar a ti e unir-me a ti por amor.
+Dá-me luz, ó Deus, para que eu reconheça as graças que preparaste no meu caminho para conduzir-me à santidade; torna-me capaz de corresponder a elas.
 
 ### Meditação
 
-O homem vem de Deus e a Deus deve retornar. Quanto mais total for esse retorno, até tornar-se união íntima com Ele, tanto mais terá alcançado o fim para o qual foi criado; e, assim, será perfeito e eternamente feliz.
+É preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
 
-São Tomás ensina que uma coisa é perfeita quando alcança seu fim. Assim, a perfeição do homem consiste em chegar a Deus e unir-se a Ele, nosso fim último.
+É preciso, portanto, concluir que, suposto o período dedicado exclusivamente à preparação, é necessário unir a ascensão pessoal à santidade com o exercício da atividade apostólica. Em outras palavras, os apóstolos devem santificar-se no apostolado e por meio dele.
 
-Na união com Deus o homem encontra tudo o que pode desejar: encontra sua paz, o apaziguamento da ânsia de infinito, da sede de amor e de felicidade imperecível. «Fizeste-nos para ti, Senhor, e inquieto está o nosso coração enquanto não repousa em ti» (Santo Agostinho).
+«Santificar-se em vista e por meio do apostolado: eis a palavra de ordem para um sacerdote diocesano... Faríamos mentir a Igreja, a vida de Jesus e todas as vidas dos santos se afirmássemos a incompatibilidade do apostolado exterior com a santidade.»
 
-Na união com Deus o homem encontra sua felicidade eterna. A vida do céu não é outra coisa senão essa união com Deus, levada à sua última perfeição.
+Estas palavras, que Dom Poppe dirige aos sacerdotes, valem para todos os apóstolos, clérigos ou leigos, religiosos ou seculares: todo apóstolo deve ter a certeza de que precisamente no seu campo de trabalho — e não em outro lugar — encontrará todas as graças necessárias para santificar-se, para chegar à união íntima com Deus.
 
-Precisamente porque perfeitamente unido a Deus, o homem Lhe dará então a máxima glória e o máximo amor, e isso redundará para o próprio homem em bem-aventurança eterna.
+Quando uma pessoa se entrega ao apostolado não por escolha própria, não por impulso natural à atividade, mas somente para responder a um chamado divino, deve estar certa de que, como Deus a quis no apostolado, assim a quer santa e lhe dará todos os meios para tornar-se tal.
 
-A alma que ama verdadeiramente a Deus não se resigna a esperar o céu para unir-se a Ele, mas anseia antecipar já aqui essa união. É possível? Sim, porque Jesus o disse: «Se alguém me ama, guardará minha palavra, e meu Pai o amará, e viremos a ele e faremos nele nossa morada» (Jo 14,23).
+Deus não pode condenar à mediocridade uma alma que, para fazer sua vontade e, portanto, por amor dele, assumiu pesos e fadigas apostólicas. «Não, irmãos — retoma Dom Poppe — a vida ativa não é uma noite onde se apaga a luz do ideal. Se muitos nela perderam a própria luz, vós tende mais confiança, humilhai-vos mais profundamente por vossa fraqueza, e uma graça mais abundante vos trará certamente também o sucesso.
 
-Aliás, com essas palavras o próprio Senhor nos indica a condição para viver unidos a Ele: o amor. «Quem permanece na caridade permanece em Deus, e Deus nele» (1Jo 4,16).
+«Não sabeis que as dificuldades e os obstáculos, sob a ação maravilhosa da graça, às vezes se transformam em auxílios e cooperam maravilhosamente para o bem? *Certus sum*, podeis dizer com São Paulo: estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade.»
 
-O amor é a grande força que nos une a Deus já nesta vida, onde, aprisionados na matéria, ainda não podemos gozar o contato direto e a visão face a face d’Ele.
+Na medida em que o apóstolo for dócil e fiel à graça, Deus o purificará, o aperfeiçoará, o santificará justamente através de suas fadigas apostólicas.
 
-«O fim da vida espiritual — diz São Tomás — é que o homem se una a Deus; e isso se faz por meio do amor.»
+Isso não exclui aquele chamado silencioso ao recolhimento, aquele desejo de solidão e intimidade com Deus que muitas vezes acompanha o apóstolo no meio da atividade e, às vezes, se acentua até lançar sobre sua vida um véu de nostalgia. Quem provou, ainda que um pouco, a beleza e a bondade infinita de Deus, não pode deixar de sentir forte a ânsia e a necessidade dele.
 
-Com os passos do amor, *passibus amoris*, caminhamos para nosso fim último: a união com Deus. União de amor com Deus: eis o grande ideal que deve iluminar e dirigir toda a nossa vida, eis a grande meta que, com auxílio divino, podemos alcançar desde já, na medida possível à nossa condição de viandantes.
+Isto é bom sinal: significa que a alma não se deixou invadir e dissipar pelas ocupações externas e que, embora viva no mundo, não é do mundo, mas tende verdadeiramente para Deus.
 
-2 — São João da Cruz explica em que consiste a união de amor com Deus. Não se trata da união substancial que sempre existe entre Deus e todas as criaturas e pela qual «Ele lhes conserva o ser que têm». Essa espécie de união é natural e nunca pode faltar a criatura alguma, nem mesmo ao pecador.
+Mesmo que em algum momento essa ânsia se torne dolorosa, o apóstolo não deve perturbar-se, nem pensar que errou de caminho: esse tormento o purificará e o conduzirá ao Senhor.
 
-A união de amor, ao contrário, é sobrenatural e não se verifica sempre, mas somente nas almas em graça. «Embora Deus — diz o Santo — esteja sempre presente na alma e conserve nela o ser natural com sua assistência, nem sempre, porém, lhe comunica o ser sobrenatural. Este, de fato, não se comunica senão por meio do amor e da graça divina, que nem todas as almas possuem; e as que estão em graça não o estão em igual grau, mas umas têm um grau de amor mais intenso do que outras.»
+Aliás, não se pode pensar que o simples desejo de maior recolhimento e união com Deus seja, por si só, sinal de chamado à vida contemplativa, que se caracteriza sobretudo pela necessidade de dedicação e imolação mais profundas.
 
-Eis a conclusão: «Une-se mais a Deus aquela alma que está mais adiantada no amor.»
+O insistente chamado à interioridade deve antes ser considerado como uma graça ordenada a defender o apóstolo dos perigos da atividade externa: é o baluarte, é o muro de clausura de sua vida espiritual.
 
-O ponto de partida para a união de amor com Deus é o estado de graça; o ponto de chegada é o pleno desenvolvimento da graça, de modo que a alma permaneça totalmente sobrenaturalizada e todas as suas forças, toda sua vontade e todo seu afeto se concentrem em Deus, não desejando e não amando senão aquilo que Deus quer e ama.
+Contudo, a necessidade de Deus deve ser satisfeita. Além das horas cotidianas de oração e silêncio, o apóstolo deve ter pausas suficientes no trabalho: retiros mensais, exercícios anuais e também maior folga para recolher-se depois de um período de atividade particularmente intensa.
 
-A graça é a vida de Deus em nós, vida que se desenvolve mediante o progresso do amor. Quanto mais a alma ama, mais cresce nela a graça; em consequência, sua participação na vida divina torna-se mais profunda e a conduz a uma união com Deus cada vez mais intensa e perfeita.
+Seria erro fatal deixar-se absorver pelo trabalho a ponto de não encontrar mais tempo para concentrar-se em Deus, num íntimo coração a coração com Ele; nem sequer sob aparência de maior generosidade o apóstolo deve renunciar às suas horas de oração.
 
-A graça e o amor são o germe preciosíssimo da união com Deus; põem a alma em comunhão íntima com Ele: comunhão de vida, de pensamento, de vontade. Deus permanece sempre Deus, distinto da criatura; a criatura conserva sempre sua personalidade; e, contudo, a alma fica tão permeada de vida divina que Deus «lhe comunica de tal modo seu ser sobrenatural que parece mais Deus do que alma».
+Mas, ao mesmo tempo, ele deve ir ao trabalho com ânimo sereno e confiante, tendo bem presente que, enquanto não tiver alcançado a plena maturidade da vida espiritual, não poderá escapar do conflito entre ação e contemplação: ação que tenta afastá-lo da contemplação, e contemplação que gostaria de prolongar-se além do tempo estabelecido.
 
-Eis o termo último da união com Deus na terra. Termo altíssimo, mas sobre o qual não é temerário fixar o olhar, pois na graça batismal cada um de nós recebeu o germe da união com Deus.
+Seu esforço deve ser manter-se numa posição de equilíbrio, evitando os dois extremos e unificando a própria vida por meio do amor. Antes que o conflito se acalme numa perfeita harmonia, resta percorrer um longo caminho, durante o qual é absolutamente necessário entregar-se à ação com prudência e ser muito fiel à oração, sem deixar que o trabalho invada o tempo a ela destinado.
 
 ### Colóquio
 
-«Ó Jesus, quem me dará a graça de formar um só espírito contigo? Eu, certamente, Senhor, rejeitando a multiplicidade das criaturas, quero somente tua unidade! Ó Deus, Tu és o único Um, a única unidade necessária à minha alma!
+«Meu Deus, como são poucos os apóstolos santos! Como são raros os teus verdadeiros amigos! Ó Senhor, ardo de desejo pela vinda do teu reino nas almas dos apóstolos; ardo, mas sou tão pobre que serei consumido antes que esse reino se aproxime.
 
-«Ó caro Amigo do meu coração, une esta única pobre alma minha à tua unicíssima bondade! Tu és todo meu; quando serei eu todo teu?
+«Faze de mim, ó Senhor, um santo apóstolo; porque um santo obtém mais com uma só palavra do que um trabalhador comum com uma série de discursos. Sem santidade sou bronze que soa, címbalo que tine, e Tu, ó Deus, falas somente pela boca dos santos.
 
-«Como o ímã atrai o ferro e o prende a si, assim, Senhor Jesus, meu Amante, sê o ímã do meu coração: aperta, ata, une para sempre meu espírito ao teu peito paterno.
+«Dá-me, pois, a santidade, a única coisa capaz de comover os corações, de traspassar as almas, de renová-las. Meu Deus, que eu não venda ouropel, que eu não seja um recipiente vazio!
 
-«Ah, já que fui feito para ti, por que não estou em ti? Mergulha esta gota que é meu espírito, dado por ti, no mar da tua bondade de onde procede. Senhor, já que teu coração me ama, por que não me arrebata para si, desejando-o eu tanto?
+«Santificar-se no apostolado é difícil; muitos são os obstáculos e perigos que se encontram. Deverei, então, retirar-me desanimado? Não, meu Deus, pois, se tenho boa vontade, sempre serei ajudado por tua graça; e onde a graça trabalha, encontra-se sempre o caminho que conduz ao fim, à santidade! Que devo, pois, temer?
 
-«Atrai-me, e correrei atrás dos teus atrativos para lançar-me em teus braços e não sair mais dali pelos séculos dos séculos. Amém» (São Francisco de Sales).
+«Tua graça está comigo; Tu mesmo estás comigo, em mim. E se Tu, ó Deus, entras em campo comigo, que coisa poderei ainda chamar de “obstáculo”? A tribulação ou a angústia, a fome ou a nudez, o perigo ou a perseguição ou a espada? Todas essas dificuldades superarei com tua ajuda, pois Tu me amas e não me abandonas.
 
-«Ó Senhor, quem nos fará entender quão vantajoso é lançar-nos em teus braços e estabelecer contigo este pacto: eu cuidarei de ti e Tu cuidarás de mim; Tu velarás por meus interesses e eu pelos teus?
-
-«Que sou sem ti, Senhor? Que valho se não estou unido a ti? E onde vou parar se me afasto um pouco de ti?
-
-«Senhor meu, Misericórdia minha e meu Tesouro, que outro bem se pode desejar aqui embaixo, senão estar-te tão perto que não seja possível mais nenhuma separação?
-
-«Ó Senhor da minha vida, atrai-me a ti, mas de tal modo que minha vontade te permaneça tão unida ...»
+«Apoiando-me em ti, ó Senhor, estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade. Estou certo disso porque Tu queres ver os apóstolos santos, porque Tu és infinitamente bom, infinitamente poderoso e fiel às promessas, porque Tu és infinitamente misericordioso» (D. Eduardo Poppe).

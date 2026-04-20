@@ -1,87 +1,23 @@
-## 346 — FIDUCIA E ABBANDONO
+## 24 — MATURITÀ APOSTOLICA
 
-### Presenza di Dio
-
-Nelle tue mani, o Signore, mi abbandono con fiducia piena.
+**Presenza di Dio.** — *Il tuo amore, o Dio, maturi l'anima mia e la renda capace di darsi pienamente al servizio delle anime.*
 
 ### Meditazione
 
-1 — « Molti desiderano di andare avanti [nel cammino spirituale] e con grande insistenza chiedono a Dio che
-li tragga e faccia passare a quello stato di perfezione [lo
-stato di unione]; ma quando Egli comincia a condurli per
-i primi travagli e mortificazioni, com'è necessario, non se
-la sentono di passarvi, si ritirano, rifuggendo dall'angusto
-sentiero della vita e cercando la via larga della propria
-consolazione » (G.C. F. 2,27). È questo il motivo per cui
-molte anime non giungono all'unione con Dio: non vogliono battere la via della croce, l'unica che vi conduce.
+**1** — Ci si può domandare se, giunto a quel grado di unione con Dio in cui la fiamma dello zelo divampa spontanea, l'apostolo può darsi ormai liberamente all'apostolato. È un fatto che, pervenuta a questo punto, l'anima non può e non deve esimersi dal dono di sé: che sia consacrata alla contemplazione o all'azione, che viva nella solitudine del chiostro o in mezzo al turbinio del mondo, la sua vita consiste ormai nel darsi incessantemente: darsi a Dio a vantaggio del prossimo, darsi al prossimo a gloria di Dio. Soffocare questa tendenza sarebbe retrocedere e immiserire la propria vita spirituale; è questa l'epoca in cui l'anima deve arricchirsi appunto mediante il dono di sé vissuto nell'esercizio di un intenso apostolato interiore od esteriore che sia. Tuttavia i santi c'insegnano che la prudenza è ancora necessaria, né si deve cessare di vigilare, giacché aver ricevuto la grazia interiore dell'apostolato, non significa essere confermati in grazia. S. Teresa lo dice espressamente: «Ho conosciuto alcune persone molto avanzate che, dopo essere giunte sin qui, il demonio è riuscito ancora a far sue mediante insidìe ed astuzie sottili» *(M.* V, 4, 6), e poco prima aveva detto: «Quanti devono essere coloro che, chiamati da Dio all'apostolato, onorati come Giuda delle sue stesse comunicazioni... finiscono poi, per loro colpa, col perdersi!» *(ivi,* 3, 2). Spontaneamente si ripensa al grido pieno di umiltà e di diffidenza di sé sgorgato dal cuore di Paolo, l'Apostolo rapito al terzo cielo: «non avvenga che dopo aver predicato agli altri, io rimanga disapprovato» *(I Cor.* 9, 27). Finché siamo su questa terra abbiamo ragione di temere; purtroppo abbiamo sempre la triste possibilità di non corrispondere alla grazia, di distaccarci, sia pure in minime cose, dalla volontà di Dio — e qui sta appunto la nostra rovina — e così un po' alla volta retrocedere. «Anime cristiane che il Signore ha condotto fin qui — esclama S. Teresa di Gesù — vi prego per amor suo di non mai trascurarvi e di fuggire le occasioni!» e soggiunge: «per riuscire [a far deviare un apostolo], deve mobilitare tutto l'inferno, essendo persuaso che, rovinare un'anima di queste è rovinarne una moltitudine» *(M.* V, 4, 5 e 6). Al contrario, se l'apostolo si mantiene fedele alla volontà di Dio, non solo diventa strumento per la salvezza di molti, ma arricchisce immensamente la sua vita interiore.
 
-Anche tu desideri pervenire all'unione divina, ma forse anche tu pensavi di giungervi per una via comoda,
-luminosa, lieta, per la via dei successi, dove si procede
-di vittoria in vittoria, dove si godono abbondanti consolazioni spirituali, dove si trova il plauso, l'appoggio, la
-stima delle creature. Ma adesso hai certamente capito che
-bisogna prendere ben altra via: via stretta, oscura, in cui
-l'anima scopre tutta la sua miseria, in cui sperimenta tutta la sua impotenza, in cui manca il conforto di Dio e
-degli uomini. Ebbene, sappi che devi accettare di procedere per questa strada per tutto quel tempo che a Dio
-piacerà. Quanti mesi, quanti anni basteranno? Dio solo lo
-sa. Molto spesso Egli trattiene a lungo le anime nella tenebrosa notte dello spirito; anzi, si può ben dire che in
-genere, pur avendone superato le tappe principali, c'è sempre un po' di notte finchè si vive quaggiù. Il partito più
-saggio a cui appigliarti è, dunque, quello di rimetterti
-completamente alle disposizioni di Dio, senza porre alcun
-limite nè circa la durata, nè circa il genere delle prove.
-Dio sa quel che più ti conviene; Egli, che conosce perfettamente le debolezze e le necessità del tuo spirito, saprà dosare la cura adatta per sanare i tuoi mali. Non avere fretta, ma abbi invece molta pazienza e così non ti esporrai a delusioni. Sia pazienza longanime e fiduciosa perchè
-si tratta di soffrire, è vero, ma non si tratta di sofferenze che ti vengono da un nemico, bensì dal tuo più grande Amico, da Dio che ti ama più di quanto tu possa amare te stesso, che vuole il tuo bene, la tua felicità,
-che desidera la tua santificazione molto più di quello che
-tu stesso possa desiderarla. Fidati di lui e non sarai confuso; fidati ad occhi chiusi e non avrai nulla da temere.
+**2** — Per non venir meno alla grazia dell'apostolato sono particolarmente necessarie tre cautele. Anzitutto bisogna avere sempre una cura gelosa dell'umiltà, difendendosi dalle voci lusinghiere delle lodi e dei successi e contrapponendo ad esse il quadro delle proprie miserie, nonché quello «delle brutte figure», degli sbagli fatti e degli insuccessi riportati nell'apostolato. Se per orgoglio è caduto Lucifero — puro spirito — non è impossibile che per orgoglio cada un apostolo che, essendo uomo, è appesantito dalla materia. Occorre poi dedicare attenzione per mantenere il contatto intimo con Dio, perché come il ferro si arroventa e risplende solo a contatto col fuoco, così l'apostolo diffonde luce e calore divini solo se si tiene unito a Colui che ne è l'unica fonte.
 
-2 — I momenti più adatti per dimostrare a Dio che
-ti fidi ciecamente di lui, che vuoi abbandonarti a lui senza riserva, sono proprio quelli della tenebrosa notte dello
-spirito. Anche se ti sembra che tutto crolli sotto i tuoi
-piedi, anche se la tempesta ti travolge al punto da sentirti tentato contro la fede e la speranza, non devi temere
-perchè in questa notte ti trovi in modo tutto particolare
-sotto l'azione dello Spirito Santo. È lui che con la viva
-fiamma del suo amore mette a ferro e fuoco l'anima tua
-per purificarla, ma nel medesimo tempo Egli stesso la ricopre con la sua ombra infondendole segretamente la forza di resistere e dosando la sofferenza in modo che non
-ne superi la capacità. Non temere, sei in buone mani; sei
-protetto dall'ombra dell'Altissimo e nulla di male ti potrà accadere, purchè tu aderisca volontariamente e docilmente alla sua azione purificante. Accetta e ripeti continuamente il tuo « fiat »; questo il Signore vuole da te in
-tale stato, questo puoi e devi fare anche in mezzo alle
-tempeste più violente. Questa adesione pura e semplice
-della volontà ti aggancerà a Dio, ti ancorerà in lui, impedendoti il naufragio. Non importa se non sai fare e dire di più, non importa se sei incapace di altre preghiere: anche Gesù nell'orto degli olivi non ha fatto che ripetere quest'unica protesta: « Padre... sia fatta la tua volontà » (Mt. 26,42). Questa sia pure la tua preghiera,
-preghiera più del cuore che delle labbra, atteggiamento
-interiore di pura adesione alla volontà di Dio in cui
-immergerti con tutte le forze del tuo spirito. Tale adesione deve diventare così forte, così piena, così
-fiduciosa da trasformarsi in un prolungato atto di abbandono: «Padre, nelle tue mani raccomando lo spirito mio »
-(Lc. 23, 46). Anche Gesù ha formulato questo atto in
-mezzo allo sconforto e alla desolazione, sconforto e desolazione infinitamente più grandi di quelli che tu puoi
-sperimentare. Unisciti a Gesù agonizzante, appoggiati a
-lui ed in lui troverai la forza per accettare e per resistere. Fissando lo sguardo su Gesù crocifisso, che ha riconciliato e unito il genere umano col divin Padre mediante
-la sua Passione e Morte, comprenderai sempre meglio che
-«l'unione con Dio non consiste in gioie o sentimenti o
-delizie di spirito, ma in una viva morte di croce sensitiva e spirituale, interiore ed esteriore » (G.C. S.II, 7,11).
+Infine è di massima importanza perseverare nel perfetto distacco dal proprio giudizio e dalla propria volontà. A questo proposito S. Giovanni della Croce avverte «che tra le molte astuzie usate dal demonio per ingannare gli spirituali, la più comune è d'illuderli sotto apparenze di bene e non di male; perché già sa che il male manifesto appena lo toccheranno» *(Ct.* 10). Perciò, per non cadere nel tranello, il Santo sprona a non intraprendere mai «un'azione, per quanto buona e piena di carità» *(ivi,* 11) possa sembrare, senza l'approvazione dell'obbedienza. Questo avviso vale non solo per i Religiosi, ma per tutti coloro che lavorano nell'apostolato, perché tutti devono mantenersi sottomessi all'Autorità ecclesiastica. Anche se un'opera, un'iniziativa, un metodo di apostolato, dessero i migliori risultati, qualora l'Autorità ecclesiastica, per qualsiasi motivo, non li approvasse, l'apostolo dovrebbe essere pronto a rinunciarvi subito, senza critiche, senza lamenti, senza ragioni con cui cercare di far valere il proprio punto di vista.
+
+Protetto da un'umiltà profonda, da un distacco sincero, sorretto da un'intima unione con Dio, l'apostolo può battere le vie del mondo senza nessun timore per la sua vita spirituale.
 
 ### Colloquio
 
-«Dov'è, o mio Dio, il sole della tua grazia? A me
-pare oscurato: la bontà tua mi pare del tutto sottratta
-all'anima mia. Ora sono abbandonata come un corpo che,
-non avendo alcun membro, non si può aiutare, o come
-un tronco sterile, perocchè, venendo a me sottratta la
-grazia tua, non mi posso aiutare. O mio Dio, stendi sopra di me la tua destra e dammi fortezza.
+«O Signore, le anime che ti furono più vicine, come la tua santissima Madre e i tuoi gloriosi Apostoli, furono quelle che patirono di più e si affaticarono di più per te, non concedendosi alcun riposo.
 
-«O Eterno Padre, se sarà con me il tuo Verbo, chi
-mi potrà contraddire? Chi mi potrà muovere, nonchè abbattere e vincere? Batteranno le tempeste la scorza, ma
-non l'intimo del cuore. Se vorranno dar pena la daranno,
-ed io volentieri l'accetto perchè così Tu vuoi, ma non
-potranno mai inquietare l'animo sempre abbandonato al
-tuo beneplacito divino. Quieterò ogni turbamento pensando che questi travagli vengono dal tuo volere e mi
-immergerò nella bassezza del mio essere. Se queste pene
-mi sprofonderanno nell'inferno, mi inalzerò al cielo col
-tuo aiuto, e nel tuo nome supererò ogni lotta.
+«Dio mio, come deve essere trascurata dal suo riposo l'anima che vive profondamente unita a te! Come non si deve curare dell'onore! Come deve essere lontana dal desiderare d'essere stimata in qualche cosa! Sì, se ella s'intrattiene spesso con te, come sarebbe doveroso, finisce col dimenticarsi di se stessa per esaurire ogni sua preoccupazione nel cercare di maggiormente contentarti e nel conoscere in quali cose e per quali vie possa mostrarti l'amore che ti porta. O Signore, m'insegni che questo è il fine dell'orazione e a questo tende l'unione con te: a produrre opere ed opere.
 
-«Nondimeno conosco la fragilità mia e durante questa prova, breve o lunga, come a te piace, mentre insorgono molte battaglie, so bene che dovrò fare; confiderò in
-te e non crollerò in eterno» (S. M. Maddalena de' Pazzi).
+«Se fisserò lo sguardo su di te, divin Crocifisso, mi diverrà facile ogni cosa. Se Tu mi hai mostrato il tuo amore con opere così grandi e con sì spaventevoli tormenti, perché io vorrò contentarmi soltanto di parole? Oh, fa' che io sappia darmi a te come tua schiava, tal che, segnata col tuo ferro, quello della Croce, Tu mi possa vendere per schiava di tutto il mondo! Ecco che cosa vuol dire essere veramente spirituali.
 
-«Maestro santo, fa' che a tua imitazione, il beneplacito divino sia il mio nutrimento, il mio pane quotidiano;
-fa' che a tua immagine, o Cristo adorato, mi lasci immolare da tutte le volontà del Padre. Se talvolta i suoi voleri sono più crocifiggenti, senza dubbio posso ripetere
-con te: 'Padre, se è possibile, passi da me questo calice', ma aggiungerò subito: 'non come voglio io, ma come vuoi Tu' e con forza e con calma salirò anch'io
-il mio calvario insieme con te, divino Crocifisso! Salirò
-cantando interiormente al Padre un inno di ringraziamento, perchè coloro che vanno per questa via dolorosa sono quelli che Egli ha conosciuto e predestinato ad essere conformi all'immagine del suo divin Figlio, crocifisso per amore» (E.T.I, 368).
+«Unita a te, Forte divino, parteciperò alla tua fortezza, a quel modo che ne parteciparono i santi, onde lavorare con gran zelo per la tua gloria, onde lavorare e morire per te, per guadagnarti molte anime» *(cfr. T.G.M.* VII, 4, 5-10).

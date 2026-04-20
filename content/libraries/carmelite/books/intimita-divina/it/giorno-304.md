@@ -1,108 +1,21 @@
-## 304 — LA POTENZA E L’AMORE DI GESÙ
-*XVIII Domenica dopo Pentecoste*
+## XII — LA MANSUETUDINE
 
-### Presenza di Dio
-
-O Gesù, fa’ che io sappia sempre corrispondere ai doni del tuo amore.
+**Presenza di Dio.** — O Gesù, mite ed umile di cuore, rendi il mio cuore simile al tuo.
 
 ### Meditazione
 
-1. — Un povero paralitico viene presentato al Signore;
-probabilmente si è fatto portare da lui solo per chiedere la
-salute del corpo, ma davanti alla purezza ed alla santità che
-emana dalla persona di Gesù si ricorda di essere peccatore e
-rimane lì confuso, umiliato. Gesù ha già letto nel suo cuore
-e, vista la sua fede e la sua umiltà, non aspetta neppure che
-parli, ma subito gli dice con immensa bontà: è Abbi fiducia, figliuolo, i tuoi peccati ti sono perdonati ». Il primo e il
-più grande miracolo è operato: quell'uomo non è più schiavo
-di Satana, ma è figlio di Gesù, che è venuto a salvare
-le anime, ha ben voluto guarire l'anima prima del corpo.
+**1** — Come la temperanza rende l'uomo padrone di sé frenando in lui le passioni della concupiscenza, così la mansuetudine lo rende padrone di sé frenando in lui gli impeti dell'ira e della collera. Il grande pregio di questa virtù sta nell'assicurare all'anima la pace interiore tanto necessaria per attendere con equanimità a tutti i doveri verso Dio e verso il prossimo. L'anima sconvolta dai risentimenti dell'ira è incapace di vedere le cose nella giusta luce, di formulare giudizi spassionati, di prendere decisioni equilibrate, di contenere le sue parole e i suoi atti nei limiti della cortesia e della gentilezza. Il suo agire diventa scomposto, disordinato e, spesso, ingiusto, diventa occasione di dispiaceri per gli altri raffreddando la carità e rompendo l'armonia dei buoni rapporti. L'irascibilità non contenuta annebbia lo spirito impedendogli di comprendere la volontà di Dio e facendolo perciò deviare dalla linea del dovere secondo gli impulsi della passione. La mansuetudine ha proprio il compito di moderare, di pacificare tutti questi moti passionali, rendendo l'anima padrona di sé e capace di mantenersi calma anche di fronte a circostanze difficili ed irritanti. «Siamo molto mansueti verso tutti — esorta S. Francesco di Sales — e badiamo bene che il nostro cuore non ci sfugga dalle mani, perciò mettiamolo ogni mattina in posizione di umiltà, di dolcezza e di tranquillità. La perfetta uguaglianza di spirito, la dolcezza e la soavità di cuore continue sono virtù molto rare della perfetta castità e sono sommamente desiderabili». Per difendere il nostro cuore dai moti dell'ira dobbiamo essere pronti a frenarli sul loro primo destarsi, perché se li assecondiamo, sia pure per poco, si fanno subito più prepotenti e ci sarà poi molto difficile vincerli. La costante fedeltà nel reprimere qualsiasi movimento di collera ci condurrà un po' alla volta a gustare il dolce frutto della mansuetudine: «I mansueti godranno le delizie di una pace profonda» *(Sal.* 36, 11).
 
-La cosa però non piace agli scribi i quali non credendo
-nella divinità del Signore, già in cuor loro lo tacciano di
+**2** — La mansuetudine ha un'importanza tutta particolare per lo sviluppo della vita di orazione e di unione con Dio. Come può attendere al raccoglimento ed al colloquio intimo col Signore l'anima agitata dal vento dell'ira? Invano cercherà di applicarsi alla preghiera: la sua mente ed il suo cuore le sfuggiranno inseguendo i fantasmi suscitati dalla passione. Del resto: «*non in commotione Dominus*» *(III Re,* 19, 11); Dio non si lascia riconoscere né si manifesta nel turbamento ed all'eccitazione, ma solo nella pace e nella calma interiore. Quando l'anima è scossa, anche per poco, dai risentimenti dell'ira non può percepire le soavi mozioni della grazia né il sussurro lieve delle divine ispirazioni: il chiasso della passione non domata le impedisce di porgere orecchio al Maestro interiore e così, perdendo la sua guida, non agisce più secondo il beneplacito divino, ma si lascia trasportare dai capricci della sua impulsività, che le faranno sempre commettere delle mancanze.
 
+Un'anima di vita interiore sa molto bene che tutto quanto accade — anche le circostanze più scabrose — è permesso da Dio per la sua santificazione, eppure, sotto l'imperversare dell'ira, questo spirito svanisce completamente e lei non vede più nulla, fuorché quelle creature o quelle cose che l'hanno urtata e contro le quali vuol reagire. Se vogliamo che la nostra vita rimanga sempre sotto il governo dello Spirito Santo, che le nostre azioni siano sempre mosse dalla grazia e conformi alla volontà di Dio, non dobbiamo mai permetterci di accondiscendere, neppure sotto pretesto di bene, ai moti dell'ira. Dobbiamo piuttosto in questi momenti avere l'energia di sospendere ogni giudizio e ogni azione applicandoci invece a ristabilire il nostro cuore in quella pace necessaria per poter giudicare le cose nella luce di Dio.
 
-bestemmia. Ma il Maestro, come ha letto nell'anima del
-paralitico, così legge nella loro: e Perchè pensate male nel
-vostro cuore?>. Se in quei cuori Gesù vedesse un po’ di
-umiltà, un po' di fede sarebbe pronto a sanarli come ha sanato il cuore del paralitico; ma purtroppo non trova altro che
-superbia e ostinazione. Tuttavia vuole usare ogni mezzo
-per piegarli e dà loro la prova più evidente della sua divinità. « Affinchè voi sappiate che il Figlio] dell’uomo ha sulla
-terra il potere di perdonare i peccati: « Alzati — disse al paralitico — prendi il tuo letto e vattene a casa’, E questi
-s'alzò e se ne andò a casa». Il miracolo fu strepitoso, rapidissimo: la parola di Gesù operò immediatamente quanto espri-
-meva; un simile potere non può averlo che la parola di Dio,
-Ma gli scribi non si dettero per vinti: quando il cuore è superbamente ostinato, neppure l'evidenza dei fatti è capace di scuo-
-terlo.
-
-Non diciamo mai che la nostra fede è debole perchè non
-vediamo, non tocchiamo con mano le verità che ci propone
-a credere, ma diciamo piuttosto che è debole perchè il nostro
-cuore non è abbastanza docile alla grazia, non è del tutto
-sgombro dall'orgoglio. Se vogliamo avere una grande fede, siamo umili e semplici come fanciulli; se vogliamo avere par-
-te alla grazia di santificazione ottenuta dal paralitico, presentiamoci al Signore con cuore contrito ed umiliato, profonda-
-Dia convinti di avere bisogno del suo aiuto, del suo per-
-
-lono.
-
-
-2. — Il Vangelo ci ha presentato Gesù nello splendore
-della sua personalità divina, avente tutti i poteri propri di
-Dio; l'Epistola ce lo presenta nell'atto di porre, per così dire,
-la sua divinità a nostro servizio onde santificarci, divinizzarci. Quello che Gesù ha operato nell'anima del paralitico, con-
-tinua ad operarlo nelle anime nostre e l’Epistola di oggi
-è appunto una bella sintesi della sua azione in noi, azione
-vasta e completa che abbraccia tutto il nostro essere.
-Contemplando questa azione S. Paolo esplode in un inno di
-
-
-ringraziamento: « Rendo grazie sempre a Dio per la
-grazia di Dio che v'è stata data in Cristo Gesù, perchè in
-tutto siete stati arricchiti in lui d'ogni dono di parola e d'ogni
-conoscenza... in guisa che non vi manca nessun carisma >.
-Sì, da Gesù ci viene ogni grazia ed ogni dono, per cui la
-nostra persona e la nostra vita sono da lui santificate. Mediante la grazia santificante Egli santifica l'anima nostra, me-
-diante le virtù infuse santifica le nostre potenze, mediante
-la grazia attuale santifica la nostra attività, rendendoci capaci di agire soprannaturalmente. Eppure ciò non basta an-
-cora alla sua liberalità: non si accontenta di averci messo in
-grado di camminare verso Dio soprannaturalizzati dalla grazia e dalle virtù, ma vuole sostituire il nostro modo umano
-di procedere col modo divino e perciò ci arricchisce dei doni dello Spirito Santo che ci rendono capaci di essere mossi
-da Dio stesso. Tutto ciò è dono di Gesù, è frutto della sua
-Passione; ed è pure dono suo lo Spirito Santo, il Dono per
-eccellenza che Egli, morendo sulla croce, ci ha meritato e
-che continuamente, insieme col Padre, c'invia dal Cielo affinchè illumini e diriga le anime nostre.
-
-Sembra quasi che Gesù, vero figlio di Dio, non sia ge
-loso della sua divinità, delle sue prerogative, ma cerchi tutti
-i mezzi possibili onde partecipare a noi per grazia quello che
-Egli possiede per natura. Com'è vero che la caratteristica dell'amore è donarsi, è rendere uguali gli amanti!
-
-Apriamo il cuore alla riconoscenza, corrispondiamo all'amore infinito di Gesù e manteniamoci sempre sotto il
-suo influsso, perchè Egli ci vuol « confermare sino alla fine,
-in modo da essere irreprensibili nel giorno della sua venuta »,
+Il Signore «insegna ai miti le sue vie» *(Sal.* 24, 9) perché solo l'anima che ha messo a tacere i risentimenti dell'ira e gli impeti della collera è nelle condizioni di essere ammaestrata da Dio: di ascoltare e di seguire la sua voce.
 
 ### Colloquio
 
-«Pigliasti, o Gesù, la mia morte dandomi la tua vita,
-prendesti la mia carne per darmi il tuo Spirito, ti caricasti dei
-miei peccati per regalarmi la grazia.
+«O Gesù, agnello mansuetissimo, che essendo maledetto non maledicevi, che patendo ingiurie non minacciavi, che ricevendo grandissimi disprezzi, rispondevi con divina dolcezza o tacevi con ammirabile silenzio, aiutami affinché, a tua imitazione, vinca l'ira, reprima la collera, abbracci la mansuetudine e, armato di pazienza, soffra volentieri qualsiasi travaglio onde giunga a godere con te gli eterni riposi» (Ven. L. Da Ponte).
 
+«O Signore, col tuo aiuto voglio fare un particolare esercizio di dolcezza e di rassegnazione alla tua volontà, non tanto per le cose straordinarie, quanto per gli incontri e le contrarietà di ogni giorno.
 
-«Così, o mio Redentore, tutte le tue pene sono tesoro
-e ricchezza mia. Mi riveste la tua porpora, mi onora la tua
-corona, m'abbelliscono le tue lividure, i tuoi dolori sono il
-mio dono, le tue amarezze mi sostentano, le tue piaghe mi
-sanano, il tuo sangue m'arricchisce, il tuo amore m'inebria.
-
-«Tu sei riposo, fuoco e desiderio delle anime. Sei il
-pastore e l'agnello che togli i peccati del mondo. Sei l'eterno
-pontefice, potente di placare l’ira del supremo Padre. Chi
-non ti loderà, o Signore? Chi non t'amerà con tutto il
-cuore? O Gesù benigno, infiammami l’anima di tale amore,
-mostrami il tuo bel viso, rendi i miei occhi felici con i tuoi
-e non negare a chi ti ama il bacio di pace. Tu sei lo Sposo;
-dell'anima mia, essa ti cerca, ti chiama con lacrime. Lo
-o Santo, l'hai liberata dalla morte con la tua morte e ferendola con il tuo amore non l'hai aborrita. Perchè la mise
-ra non sente la dolcezza della tua presenza? Ascolta, Dio
-mio e Salvator mio, dammi un cuore che ti ami, poichè
-niente v’è di più dolce che ardere sempre nel tuo amore»
-(Ven. Luigi di Granata).
+«Appena mi accorgerò che l'ira si accende in me, raccoglierò le mie forze non con impeto, ma con soavità, non con violenza, ma dolcemente e cercherò di ristabilire il mio cuore nella pace. Ma, sapendo bene che da solo non potrò far nulla, sarò sollecito di invocare il tuo aiuto come l'invocarono gli Apostoli tormentati dalla tempesta e sballottati in mezzo alle onde del mare in burrasca. O Signore, permetterai forse che io ti invochi invano? Degnati, in quei momenti, di accorrere in mio soccorso, di comandare alle passioni che cessino, degnati di alzare la tua mano benedicente e ne seguirà una grande calma. Insegnami ad essere mansueto con tutti, anche con coloro che mi offendono o mi sono contrari e perfino con me stesso, non indispettendomi per le mie ricadute e per i miei difetti. Quando, nonostante i miei sforzi, mi ritroverò a terra, mi riprenderò dolcemente: 'Orsù, povero cuore mio — dirò — eccoci nuovamente caduti in quella fossa che tante volte ci eravamo proposti di scansare. Rialziamoci ora e lasciamola una volta per sempre. Ricorriamo alla misericordia di Dio, speriamo in essa ed essa ci aiuterà'. Così, o Signore, confidando in te ricomincerò da capo battendo il cammino dell'umiltà e della mansuetudine» (cfr. S. Francesco di Sales).

@@ -1,61 +1,47 @@
-## 333 — PATERNIDADE E MATERNIDADE ESPIRITUAL
+## 333 — O APOSTOLADO DO EXEMPLO
 
 ### Presença de Deus
 
-Ó meu Deus, une-me a ti pelo vínculo de um amor intenso e, pela força dessa união, faze que eu possa gerar almas para ti.
+Ó Senhor, faze que minha conduta seja tal que te procure glória e atraia muitas almas ao teu amor.
 
 ### Meditação
 
-Deus chama o homem a ser seu colaborador na obra que mais lhe é própria e que pertence essencialmente só a Ele, isto é, a comunicação da vida, e não só da vida natural, mas também da sobrenatural.
+1. — Ao lado da oração e do sacrifício, outra poderosa arma de apostolado acessível a todos é a de uma vida boa, de uma vida santa. Nem todos podem pregar, nem todos têm o dever de admoestar ou exortar, nem todos podem dedicar-se a obras apostólicas, mas não há ninguém que não possa cooperar para o bem espiritual do próximo com o exemplo de uma vida integralmente cristã, coerente com os princípios professados e fiel aos próprios deveres.
 
-No plano natural, que poderíamos chamar plano da criação, são colaboradores seus os pais e as mães de família, aos quais é confiada a alta missão de comunicar a vida a novos seres humanos, criá-los e educá-los para a glória divina.
+«Cada um pode aproveitar ao próximo se cumpre seu dever», afirma o Crisóstomo, e acrescenta: «Ninguém seria mais pagão, se os cristãos fossem cristãos de verdade, se de fato observassem os preceitos. A vida boa é uma voz mais aguda e mais forte que uma trombeta». A vida boa impõe-se por si, tem autoridade e exerce fascínio muito superior ao das palavras.
 
-No plano sobrenatural, o plano da Redenção, são colaboradores de Deus todos os que, dedicando-se ao apostolado, têm a missão, ainda mais nobre e vasta, de comunicar aos homens a vida da graça, sem a qual eles são criaturas infelizes e, em certo sentido, diminuídas, não podendo chegar à vida eterna.
+Para uma alma que busca a verdade, que busca a virtude, não é difícil encontrar livros ou mestres que delas falem, também de modo atraente, mas é bem mais difícil encontrar pessoas cuja vida seja testemunho prático disso.
 
-Na Encíclica *Menti Nostrae*, o Papa Pio XII declara: «O sacerdote é... o órgão de comunicação e de incremento da vida do Corpo místico de Cristo. Pela lei do celibato, o sacerdote, em vez de perder o dom e o ofício da paternidade, aumenta-o ao infinito, pois, se não gera filhos para esta vida terrena e caduca, gera-os para a vida celeste e eterna.»
+A mentalidade moderna, sedenta de experiência, tem particular necessidade desses exemplares, capazes de oferecer não só belas teorias de vida espiritual, mas, sobretudo, encarnações concretas da virtude, do ideal de santidade e de união com Deus. Muito mais do que pelo pensamento puro, as almas são atraídas pelo pensamento vivido, pelos ideais traduzidos na realidade da vida.
 
-Guardadas as devidas proporções, o mesmo pode dizer-se de qualquer apóstolo, porque o fim último de todo apostolado é precisamente gerar almas para a vida sobrenatural.
+Aliás, esta é a grande linha que o próprio Deus seguiu para manifestar-se aos homens: o Verbo eterno se encarnou e, através da realidade tão concreta e tão humana de sua vida terrena, mostrou-nos o imenso amor de Deus por nós e suas infinitas perfeições.
 
-«Meus filhinhos, por quem de novo sinto as dores de parto até que Cristo seja formado em vós!», exclama São Paulo aos Gálatas (4,19).
+Jesus, que possuía as perfeições divinas, pôde dizer-nos: «Sede perfeitos como é perfeito vosso Pai celeste» (Mt. 5, 48) e dizendo-nos isso não só nos mostrava o ideal supremo da santidade, mas oferecia-nos em si mesmo o modelo.
 
-Do mesmo modo, todo apóstolo, em relação às almas pelas quais se sacrifica dando tudo de si, tem pleno direito de sentir-se pai e mãe ao mesmo tempo: paternidade e maternidade que são reflexo, ou melhor, participação da paternidade de Deus.
+O apóstolo deve trilhar a via trilhada por Jesus, encarnando na própria vida aquele ideal de santidade que quer propor aos outros; só assim se poderá afirmar dele, como do Senhor: «*coepit facere et docere*» (At. 1, 1), começou primeiro a fazer e depois a ensinar. E só assim o apóstolo poderá repetir, muito mais com a conduta do que com as palavras, a audaz frase paulina: «Sede meus imitadores, como eu o sou de Cristo» (1Cor. 4, 16).
 
-Na ordem natural, Deus estabeleceu que a fecundidade, fonte de vida, seja fruto da união entre duas criaturas; também na ordem sobrenatural a fecundidade é fruto de união, mas de uma união imensamente superior e toda espiritual: a da alma com Deus.
+2. — Jesus, que nos ensinou a rezar, jejuar e dar esmola em segredo, para que só o Pai celeste o saiba e nos dê recompensa, ensinou-nos também a agir de modo que nossas obras sejam, para os que as veem, um tácito incentivo ao bem: «Brilhe vossa luz diante dos homens, de modo que, vendo vossas boas obras, deem glória ao vosso Pai que está nos céus» (Mt. 5, 16).
 
-Quanto mais uma criatura se une a Deus por amor, tanto mais participa de sua fecundidade inesgotável, que tem por fim a comunicação da vida divina aos homens.
+São Gregório ensina-nos como conciliar os dois ensinamentos do Senhor: «A obra seja pública — diz ele — mas a intenção permaneça oculta, para que assim demos ao próximo o exemplo de uma obra boa e, ao mesmo tempo, com a intenção, com a qual procuramos agradar só a Deus, desejemos sempre o segredo».
 
-Quem, pois, renunciou a uma paternidade ou maternidade natural para consagrar-se a Deus não empobreceu nem sufocou sua vida na esterilidade, mas, pela força da união com Deus, é elevado a uma paternidade, a uma maternidade de longe superior.
+Há grande diferença entre aquele que faz ostentação do bem, praticando-o para atrair os louvores alheios ou talvez também para granjear certa fama de santidade, e aquele que, agindo com reta intenção unicamente para agradar a Deus, é com sua conduta luz e guia para os que lhe vivem ao lado.
 
-Isso vale não só para quem trabalha no campo do apostolado externo, mas também para quem se dedica à vida contemplativa pura. Santa Teresinha, embora totalmente separada do mundo, sente crescer desmedidamente no coração o senso da maternidade espiritual e, na solidão do Carmelo, escreve: «Ser tua esposa, ó Jesus... e, pela minha união contigo, mãe das almas!»
+Quando a intenção é reta — isto é, dar glória a Deus e procurar atrair outras almas ao seu serviço — não devemos temer que nossas boas obras sejam vistas; antes, devemos sentir a responsabilidade de comportar-nos de modo que nossa conduta seja de edificação para os outros.
 
-Essa é a aspiração fundamental do seu espírito, o ideal que a atrai, a sustenta e a impulsiona numa vida de contínua e penosa imolação.
+Toda alma de vida interior, mesmo buscando agradar somente ao Pai celeste, deve ser apóstola do exemplo; sua vida de piedade sincera, de virtude sólida, de união com Deus deve resplandecer diante dos homens e deve chamá-los à oração, ao recolhimento, à busca das coisas celestes.
 
-A humilde claustral tem perfeita consciência de que deve dar-se, sacrificar-se pelas almas, pôr-se à disposição total delas, exatamente como uma mãe amorosa se dá toda por seus filhos.
+Isso é possível a todos e em qualquer ambiente de vida: pode fazê-lo o profissional no meio do mundo entre colegas, alunos ou clientes; pode fazê-lo a esposa e a mãe no círculo da família; pode fazê-lo o religioso e a religiosa no âmbito da própria comunidade; pode fazê-lo o sacerdote no raio de sua ação.
 
-Um dia, vendo uma noviça ir sem vontade para o trabalho, a Santa, cheia de fervor, repreendeu-a: «É este o cuidado que deve ter quem tem filhos para alimentar e é obrigada a trabalhar para mantê-los?»
-
-O verdadeiro apóstolo está consciente de ter filhos para nutrir, de dever gastar por eles toda a vida, de dever sustentá-los com seus suores, com suas orações, com seus trabalhos e sobretudo com seu amor.
-
-Precisamente do amor — daquele mesmo amor que o une a Deus — tira a força para sacrificar-se por eles e tira também aquela fecundidade espiritual pela qual se torna colaborador de Deus na comunicação da vida da graça.
-
-Quanto mais o amor cresce, tanto mais a união com Deus se aprofunda e, portanto, daí deriva maior fecundidade, maior potência comunicadora de vida divina a um número imenso de almas. Quem pode dizer a quantas almas se estendeu a paternidade e a maternidade espiritual dos santos?
-
-Não há vida interior, não há santidade autêntica que não se coroe com a auréola da paternidade, da maternidade espiritual.
-
-Mas, como no campo natural a mãe não dá à luz os filhos sem dor, assim também na ordem espiritual não se torna pai ou mãe das almas sem sofrimento.
-
-Jesus nos gerou para a vida divina morrendo na Cruz; d’Ele aprendemos que, se quisermos associar-nos à sua obra redentora, não devemos temer nem perseguições, nem escárnios, nem flagelos, nem espinhos, nem cravos, nem cruz; devemos estar prontos para dar pelas almas tudo quanto temos e somos, até consumir por elas nossa substância, até alimentá-las com nosso sangue.
+Uma alma de verdadeira vida interior é por si um apóstolo, é, como diz Jesus, «uma cidade posta sobre o monte [que] não pode ficar escondida», é uma candeia acesa colocada «no candelabro para iluminar a todos os que estão em casa» (Mt. 5, 14-15). Quanto mais profunda é a vida interior, tanto mais a candeia brilha, ilumina as almas e as atrai a Deus.
 
 ### Colóquio
 
-«Ó Eterno Pai, Tu não podes deixar de saber que os pobres pecadores são criaturas tuas, e pelo título supremo da criação te pertencem.
+«Meu Deus, nada é mais frio do que um cristão que não se cuida da salvação dos outros! Para dispensar-me disso não posso alegar como pretexto a pobreza. Pedro dizia: “Não tenho prata nem ouro”; Paulo era tão pobre que muitas vezes sofria fome. Não posso alegar minha humilde condição, porque eles também não eram nobres e não tinham pais nobres.
 
-«Ó Filho, ó Rei bendito, não poderás negar que esses miseráveis são teus, por ti resgatados pelo incontestável título da Redenção. Escuta-me, ó Filho obedientíssimo, escuta-me e mostra-te propício às minhas preces, porque assim, apresentando-me eu ao Eterno Pai com o penhor na mão do teu Sangue e da tua Paixão, não poderá Ele afastar-me de si sem antes atender meus pedidos.
+«Não posso sequer desculpar-me, ó Senhor, dizendo que sou ignorante, porque eles também o eram. Ainda que eu fosse escravo e fugitivo, poderia cumprir meu dever: também Onésimo era tal. Não posso objetar que sou doente, porque também Timóteo era frequentemente enfermo.
 
-«Ajuda-me, ó eterno Espírito Santo! Estes, embora abomináveis pela enormidade dos pecados, ainda te pertencem, porque Tu os fizeste teus ao admiti-los à participação da tua bondade.
+«Ó Senhor, tua luz me faz compreender que também eu posso aproveitar ao próximo se cumpro meu dever. E isso farei se observo tua lei, e especialmente a lei do amor, com a qual se ensina a bondade aos que nos ofendem. Os mundanos se comovem mais pela vida boa do que pelos milagres; e tu me dizes que nada torna boa a vida mais do que a caridade e o amor do próximo.
 
-«Ó Senhor, não tenho aqui outro refrigério senão ver meus próximos converterem-se a ti; e por isso somente suporto pacientemente tua ausência. Se Tu não me concedes esse contentamento, que deverei fazer? Não me rejeites, clementíssimo Senhor!
+«Ajuda-me, pois, ó Senhor, a conduzir uma vida santa, a fazer obras boas, de modo que quem me observa possa dar louvor ao teu nome» (cf. São João Crisóstomo).
 
-«Tu estás resoluto e já disposto a atender-me, pois, voltando teus olhos benignos para mim, vejo revestidos de tua luz meus filhinhos e filhinhas espirituais, meus irmãos e irmãs e todos aqueles que de dia em dia te ganho com o desejo de vê-los sempre fiéis a ti.
-
-«Recomendo-te, sumo e eterno Pai, meus diletíssimos filhos, os quais Tu puseste sobre meus ombros, e te peço que os visites com tua graça; faze-os viver mortos para o mundo com verdadeiro e perfeitíssimo lume; une-os com o doce vínculo da caridade. Rogo-te, Eterno Pai, que nenhum me seja tirado das mãos e perdoa-nos todas as nossas iniquidades. Eu te ofereço e te recomendo meus diletíssimos filhos, porque eles são minha alma» (Santa Catarina de Sena).
+«Ó Senhor, concede-me crer com o coração, professar com a boca e pôr em prática tua palavra, para que os homens, vendo minhas boas obras, glorifiquem a ti, nosso Pai que estás nos céus, por Jesus Cristo nosso Senhor, ao qual pertence a glória pelos séculos dos séculos. Amém» (Orígenes).

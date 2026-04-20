@@ -1,53 +1,49 @@
-## 336 — O ESPÍRITO SANTO E O APOSTOLADO
+## 336 — A FORMAÇÃO DOS APÓSTOLOS
 
 ### Presença de Deus
 
-Recolho-me no íntimo santuário da minha alma para ali buscar Deus, que vive em mim pela graça.
+Aceita, Senhor, minha pobre oração pelo advento do teu reino.
 
 ### Meditação
 
-Santa Teresinha compreendeu isso muito bem quando, depois de passar em revista todas as vocações possíveis, reconhecendo que ainda não bastavam para saciar seus imensos desejos apostólicos, concluiu: «Encontrei enfim minha vocação! Minha vocação é o amor!... No coração da Igreja, minha Mãe, eu serei o amor! Assim serei tudo.»
+Quanto ao apostolado da oração e do sacrifício, não é necessária nenhuma cautela, pois, quanto mais uma alma se dedica a isso, tanto mais beneficia o bem do próximo e, ao mesmo tempo, tira grande proveito para a própria santificação. De fato, as armas do apostolado interior coincidem perfeitamente com os exercícios fundamentais da vida espiritual.
 
-Mas onde haurir uma caridade tão plena e transformante? Não devemos esquecer que a fonte principal da caridade é o Espírito Santo, termo pessoal do amor do Pai e do Filho, sopro eterno do seu amor mútuo.
+Não se pode dizer o mesmo do apostolado externo, que, por sua natureza, exige necessariamente solicitações e ocupações diversas daquelas relativas ao proveito individual.
 
-Esse Espírito Santo nos foi «dado», é «nosso», habita em nossos corações precisamente para derramar neles aquela caridade sobrenatural que nos faz arder de amor por Deus e pelas almas: «O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado» (Rm 5,5).
+Uma alma pouco iniciada na vida interior não pode ter a capacidade de atender ao mesmo tempo à própria santificação e à alheia, mas deve ter tempo para concentrar antes de tudo as forças na própria formação espiritual.
 
-Ao comunicar aos homens a chama da caridade divina, associando-os ao seu amor infinito, o Espírito Santo é o animador e sustentador secreto de todo apostolado. «Ele — ensina Pio XII — com seu sopro celeste de vida, é o princípio de toda ação vital e eficazmente salutar... no Corpo místico de Cristo» (*Mystici Corporis*). Ele é a alma da Igreja.
+Além disso, se o apostolado tira sua eficácia do grau de amor e de união com Deus a que chegou quem o exerce, é evidente que um principiante não será capaz de um apostolado fecundo. Empenhar-se cedo demais na atividade apostólica significa, portanto, dispersar inutilmente as energias, com a consequência de prejudicar a própria vida interior e de não trazer fruto algum para os outros.
 
-Queremos ser apóstolos? Abramos, escancaramos nosso coração às efusões do Espírito Santo, para que sua caridade nos invada e penetre até absorver em si nosso pobre amor.
+O próprio Jesus, embora, sendo Deus, não tivesse disso necessidade alguma, quis dedicar os primeiros trinta anos de sua vida à oração e ao recolhimento, quase para indicar-nos que, antes de lançar-se no apostolado externo, é necessário amadurecer o espírito nos exercícios da vida interior.
 
-Quando o amor de uma alma se une à «chama viva de amor», que é o Espírito Santo, até «tornar-se uma só coisa com ela», então torna-se amor vivificante no coração da Igreja; só assim é possível realizar o grande ideal: «no coração da Igreja, eu serei o amor! Assim serei tudo.»
+Com os Apóstolos aconteceu algo semelhante: os três anos passados com Jesus foram anos de verdadeira formação. O Senhor os instruía, admoestava, ensinava a rezar, a praticar as virtudes e só algumas vezes, timidamente, para que fizessem experiência, confiava-lhes alguma missão.
 
-Para chegar a esse cume supremo do amor e do apostolado, é preciso, dia a dia, momento a momento, corresponder aos impulsos do Espírito Santo; é preciso abandonar-se docilmente à sua ação; é preciso deixar-se dirigir e governar por Ele.
+Depois, antes de enviá-los definitivamente à conquista do mundo, quis que temperassem o espírito alimentando-se de sua Carne, assistindo à sua Paixão e, enfim, reunindo-se no Cenáculo para esperar a vinda do Espírito Santo.
 
-Sobretudo, é preciso conformar-se ao movimento de sua caridade infinita, que com plenitude total se lança para o Pai e o Filho e depois se derrama sobre as almas para arrastá-las todas à Trindade bem-aventurada.
+Assim, a genuína práxis católica exige que, antes de descer ao campo, os apóstolos se preparem no exercício de uma intensa vida interior, para se tornarem instrumentos aptos e fecundos para o bem das almas.
 
-2 — Pensemos em Pentecostes, quando os Apóstolos, «cheios do Espírito Santo, começaram a falar em várias línguas, conforme o Espírito lhes concedia que se exprimissem» (At 2,4). Antes disso, os Doze eram homens pobres, obtusos, fracos, cheios de medo. Mas eis que o Espírito Santo toma posse deles e os transforma em homens de fogo, prontos a dar a vida para testemunhar o Senhor.
+A urgência das necessidades apostólicas, sempre mais premente hoje, não pode justificar uma preparação apressada para o apostolado. De que adiantaria lançar no combate um número maior de pessoas, se estas, por falta de formação, seriam incapazes não só de conquistar terreno, mas até de sustentar o choque das forças inimigas?
 
-Como então, assim hoje o Espírito Santo pode renovar esse grande milagre. Como então, também hoje Ele pode — e quer — tomar homens pobres e fracos e transformá-los em apóstolos ardentes.
+Não basta o entusiasmo e a boa vontade. É necessária robustez de vida interior, firmeza de ideias e de propósitos, espírito de sacrifício e união com Deus; de outro modo, longe de ajudar o bem alheio, colocar-se-á em perigo a sorte dos próprios apóstolos.
 
-Qual é a condição que Ele requer? Uma docilidade tão fina e delicada que se torne plena disponibilidade diante de sua presença operante, de seus impulsos, de suas iniciativas.
+À urgência do apostolado é preciso prover antes de tudo intensificando a formação daqueles que a ele se dedicam, porque só almas ancoradas em Deus mediante intensa vida interior serão capazes de sustentar o ímpeto, às vezes avassalador, da atividade externa e de vivificar tal atividade com a chama do amor.
 
-Isso exige no apóstolo um verdadeiro senso de dependência do divino Paráclito, senso que deve traduzir-se, na prática, em diligente cuidado de manter-se, mesmo em meio à atividade, em contínuo contato com Ele, sempre atento às suas inspirações e pronto a segui-las.
+«Um homem perfeito — diz Santa Teresa de Jesus — faz muito mais do que um grande número de imperfeitos» (*Caminho de Perfeição*). É, portanto, de suma importância que os que se dedicam ao apostolado estejam seriamente encaminhados para a perfeição, para a santidade; só assim poderão dar Deus às almas e levar as almas a Deus.
 
-À semelhança do vento, o Espírito Santo «sopra onde quer e ouves sua voz, mas não sabes de onde vem nem para onde vai» (Jo 3,8). Sua inspiração pode surpreender-nos no meio da atividade não menos que na oração; é preciso, pois, aprender a tratar interiormente com Ele também enquanto, exteriormente, tratamos com as criaturas.
+Toda a história da Igreja é uma demonstração prática deste princípio: «Um só era São Paulo e quantos atraiu!... Se todos os cristãos fossem como São Paulo, quantos mundos poderiam converter!» (São João Crisóstomo). O santo Cura d’Ars tinha pouquíssimos recursos humanos; contudo, converteu um número imenso de almas justamente pela força de sua santidade, de seu amor e de sua união com Deus.
 
-Essa atitude é particularmente necessária nos contatos diretos com as almas. Então, mais do que nunca, o apóstolo deve invocar o Espírito Santo, manter-se sob seu influxo, deixar-se guiar por Ele. As almas são de Deus e é preciso dirigi-las não segundo o espírito próprio, mas segundo o Espírito de Deus.
+As exigências impelentes do apostolado externo põem mais do que nunca em evidência a necessidade de apóstolos bem formados, de apóstolos de profunda vida interior, de apóstolos santos. Por isso, mesmo quando termina o período de formação, é preciso vigiar sempre para que a atividade externa não venha de modo algum a diminuir a vida interior.
 
-A plena disponibilidade exige grande fé e grande confiança na ação onipotente e transformante do Espírito Santo. Só assim o apóstolo terá coragem de deixar-se usar para qualquer obra, mesmo reconhecendo-se inapto; só assim terá coragem de enfrentar com generosidade qualquer sacrifício, ainda sentindo toda sua fraqueza.
-
-O Espírito Santo não vos foi dado em vão. Ele está em nós e, contanto que nos entreguemos totalmente a Ele, pode transformar-nos em «instrumentos eleitos» para a glória de Deus e a salvação das almas.
+É preciso manter sempre o equilíbrio entre oração e trabalho, para que o apóstolo não esgote as energias espirituais, mas tenha tempo suficiente para reabastecer-se, para retomar e manter o contato íntimo com Deus.
 
 ### Colóquio
 
-«Ó Jesus, eu gostaria de iluminar as almas como os profetas e doutores. Gostaria de percorrer a terra pregando teu Nome e plantando em solo infiel tua Cruz gloriosa, ó Bem-Amado. Mas uma só missão não me bastaria: gostaria ao mesmo tempo de anunciar o Evangelho em todas as partes do mundo e até nas ilhas mais remotas.
+«Ó Senhor, desejo grandemente que, tendo Tu tantos inimigos e tão poucos amigos, estes ao menos te sejam devotos. Por isso determino fazer o pouco que depende de mim: observar os conselhos evangélicos com toda perfeição possível e rezar pelos defensores da Igreja, pelos pregadores, pelos doutos que a sustentam.
 
-«Gostaria de ser missionária não somente por alguns anos, mas de o ter sido desde a criação do mundo e continuar a sê-lo até a consumação dos séculos.
+«Ó Senhor, já que não sou forte para defender diretamente tua Igreja, quero ao menos tornar fortes minhas orações para ajudar estes teus servos, que com tantos esforços e suores se armaram de ciência e de boa vida, e agora se afadigam para defender teu nome.
 
-«Mas compreendo que nem todos podem ser ao mesmo tempo apóstolos, profetas e doutores; compreendo que os dons mais perfeitos nada são sem o amor, e que a caridade é o caminho melhor para chegar a ti, meu Deus. A caridade me dá a chave da minha vocação.
+«Meu Deus, eu gostaria de ser tal que merecesse de ti duas coisas: a primeira, que no grande número de santos e doutos personagens que hoje defendem a Igreja haja muitos que tenham as prerrogativas necessárias, e que Tu as concedas aos que não as têm plenamente, porque um homem perfeito faz muito mais do que um grande número de imperfeitos.
 
-«Compreendo que, se a Igreja tem um corpo composto de vários membros, não lhe falta o órgão mais necessário e mais nobre: ela tem um coração, e esse coração arde de amor. Compreendo que só o amor faz agir seus membros e que, se o amor se extinguisse, os apóstolos não anunciariam mais o Evangelho e os mártires recusariam derramar o sangue.
+«E a segunda, que, uma vez lançados nesta luta, Tu os sustentes com tua mão, para que se guardem de todos os perigos do mundo e atravessem este mar tempestuoso com os ouvidos fechados ao canto das sereias. Se junto de ti, meu Deus, posso nisso alguma coisa, eis que também eu combato por tua glória, embora recolhida na solidão.
 
-«Compreendo ainda que o amor encerra em si todas as vocações, que o amor é tudo e abraça todos os tempos e todos os lugares, porque é eterno.
-
-«Ó Jesus, meu Amor, encontrei finalmente minha vocação! Minha vocação é o amor! Sim, encontrei meu lugar no seio da Igreja, e esse lugar, ó meu Deus, foi por ti que me foi dado: no coração da Igreja, que é minha Mãe, eu serei o amor!...»
+«Suplico-te, Senhor, escuta-me. Da minha parte, jamais cessarei de suplicar-te, apesar de minha grande miséria: trata-se da tua glória e do bem da tua Igreja, e para isso convergem todos os meus desejos. No dia em que minhas orações, disciplinas, desejos e jejuns não fossem empregados para o que disse, eu não alcançaria o fim para o qual Tu, ó Senhor, me chamaste ...»

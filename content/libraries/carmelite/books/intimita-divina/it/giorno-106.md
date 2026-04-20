@@ -1,122 +1,25 @@
-## 106 — UMILTÀ E FIDUCIA
+## 30 — L'UMILTÀ
 
-### Presenza di Dio
-
-— Dal profondo del mio nulla io grido a te, o Signore; Signore ascolta la mia voce... io confido in te.
+**Presenza di Dio.** — *O Gesù, che tanto ti sei umiliato per noi, insegnami la pratica della vera umiltà.*
 
 ### Meditazione
 
-1 — L’umiltà cristiana non deprime, ma inalza, non
-‘abbatte, ma incoraggia, perchè, quanto più svela all'anima
+**1** — La carità è l'essenza della perfezione cristiana, perché solo la carità ha il potere di unire l'uomo a Dio, suo ultimo fine. Ma da parte nostra — povere, misere creature che Dio vuole inalzare fino all'unione con lui — la carità è proprio l'ultimo fondamento della vita spirituale? No, esiste qualche cosa di ancora più profondo, che è per così dire, il fondamento della carità ed è l'umiltà. L'umiltà sta alla carità, come le fondamenta stanno all'edificio. Scavare le fondamenta di una casa non è ancora costruire la casa, tuttavia è il lavoro preliminare, indispensabile: la condizione sine qua non. Quanto più le fondamenta saranno profonde, ben piantate, tanto più l'edificio potrà ergersi in altezza e darà garanzia di solidità. Solo lo stolto « fabbrica la sua casa sulla sabbia » con l'inevitabile conseguenza di vederla ben presto crollare, ma l'uomo saggio si fabbrica « la casa sulla roccia » (Mt. 7, 24-26) e allora, malgrado l'imperversare delle acque e dei venti, la casa non crolla, appunto perché le sue fondamenta sono solidamente piantate.
 
+L'umiltà è la roccia solida e sicura su cui ogni anima cristiana deve inalzare l'edificio della sua vita spirituale. « Se volete che il vostro edificio s'inalzi sopra buon fondamento — insegna S. Teresa di Gesù alle sue figlie — procurate di essere le ultime di tutte [ossia esercitate vi molto nell'umiltà] e verrete così a porre sì forti pietre da impedire che il vostro castello rovini » (cfr. M. VII, 4, 8).
 
-il suo nulla, la sua abbiezione, tanto più la slancia in Dio,
-piena di fiducia e di confidenza. Il fatto stesso che in tutto
-— nell'essere e nell’agire, sia nell'ordine naturale che in
-quello soprannaturale — dipendiamo da lui e non possiamo far nulla senza di lui, ci dice che Dio vuol continua-
-mente sostenerci col suo soccorso, con la sua grazia. Di
-conseguenza le relazioni di un'anima umile con Dio saranno quelle di un figlio che attende tutto fiduciosamente
-dal padre suo. È questo l'insegnamento che Gesù volle
-dare agli Apostoli quando gli domandarono chi sarebbe
-stato il più grande nel regno dei cieli: « In verità vi dico:
-se voi non vi cambierete e non diventerete come i pargoli
-non entrerete nel regno dei cieli. Chi dunque sì farà piccolo come questo fanciullo, sarà il più grande nel regno dei
-cieli » (Mt. 18,364). Diventare fanciulli — spiega S$. Teresa del B. G. — « vuol dire riconoscere il proprio nulla,
-tutto aspettare. dal buon Dio come un bambino attende
-tutto da suo padre... Anche tra i poveri al bambino si dà il
-necessario; ma allorchè è diventato grande, suo ‘pere non
-vuol più mantenerlo e gli dice: ‘ Adesso lavora! puoi bastare a te stesso’, Appunto per non sentirmi dire queste
-parole, non ho mai voluto diventar ogranda. riconoscendomi assolutamente incapace di guadagnarmi la. vita, la
-vita eterna!» (CR. e NV.
+L'umiltà scava le fondamenta della carità, nel senso che vuota l'anima dalla superbia, vuota l'anima dall'amore sregolato di sé e della propria eccellenza per far posto all'amore di Dio e del prossimo. Quanto più l'umiltà sbarazza l'anima dalle vane ed orgogliose pretese dell'io, tanto più fa posto a Dio. E « quando al fine [l'uomo spirituale] giungerà a ridursi al nulla, cioè a stabilirsi in somma umiltà, allora sì che potrà dirsi avvenuta ormai l'unione spirituale tra l'anima sua e Dio » (G.C.S. II, 7, 11).
 
-Per l’anima che, riconoscendo umilmente la sua indigenza, si rivolge a Dio con piena fiducia, Dio è un padre
-tenerissimo che si compiace di colmarla dei suoi doni e di
-fare per lei ciò che lei da sola non sa fare. Allora chi è più
+**2** — L'anima che desidera pervenire alle sublimi altezze dell'unione con Dio, deve battere la via di una profonda umiltà, perché, come il Maestro divino insegna, soltanto « chi si umilia sarà esaltato » (Lc. 18, 14).
 
-iccolo — ossia più convinto del proprio nulla — diventa
-il più grande, perchè ha a sua disposizione la grandezza di
-Dio stesso,
+Più alto è l'ideale di santità cui tu aspiri, più eccelsa la meta cui tendi e tanto più devi scendere o meglio devi scavare in te stesso il fertile abisso dell'umiltà. « Abyssus abyssum invocat » (Sal. 41, 8), l'abisso dell'umiltà invoca l'abisso della Misericordia infinita, delle grazie e dei doni divini; infatti « Dio resiste ai superbi e dà la grazia agli umili » (1 Pie. 5, 5). Umiliati dunque sotto la mano potente di Dio, riconosci sinceramente il tuo nulla, prendi coscienza della tua miseria e se vuoi gloriarti, fallo — come S. Paolo — solo delle tue infermità, perché proprio nella tua debolezza, umilmente riconosciuta, opera e trionfa la grazia e la virtù divina (cfr. 2 Cor. 12, 9). Se anche tu appartieni alla schiera di quelle anime buone, sinceramente desiderose di avanzare nella via della perfezione, ma che contano troppo sulle proprie forze e iniziative personali, potrai con molto vantaggio applicare a te stesso il prezioso ammonimento che S. Teresa del B. G. dava ad una novizia: « Vedo bene che sbaglia strada e non arriverà mai alla fine del suo viaggio, perché vorrebbe salire un monte, mentre Dio vuol farglielo discendere... Gesù stesso s'incaricherà di riempire l'anima sua, a mano a mano che ella la vuoterà delle sue imperfezioni » (CR.).
 
-
-2 — Dio non introduce le anime in una vita spirituale
-più elevata, non le ammette a maggior intimità con lui,
-finchè non le trova completamente spoglie di ogni fiducia
-în se stesse. Quando un’anima, dimenticando praticamente
-il suo nulla, si fida anche solo un poco delle sue forze, della
-
-
-sua scienza, delle sue iniziative, delle sue virtù, Dio l’abbandona a se stessa; gli insuccessi che ne seguiranno, le
-ricadute, le infecondità delle suè opere metteranno a nudo
-la sua insufficienza. È, quanto più l’anima è tenace nel
-fidarsi di sè, tanto più il Signore le prolungherà questa
-esperienza pratica del suo nulla.
-
-S. Teresa di Gesù, parlando della sua definitiva e totale
-conversione, confessa che ciò che le impediva di superare
-gli ultimi ostacoli era proprio un residuo di fiducia che
-ancora aveva in se stessa: « Avevo il torto di non porre nel
-Signore ogni mia fiducia e di non diffidare abbastanza delle
-mie forze» (Vi. 8,12). La fiducia in Dio cresce a misura
-della diffidenza di sè e diventa totale quando l’anima, avendo compreso a fondo il suo nulla, ha perduto ogni fiducia
-nelle sue risorse personali. L'anima allora sperimenta la
-realtà della parola di Gesù: «Quando avrete fatto tutto
-Quello che vi è comandato dite: ‘Siamo servi inutili?»
-(Le. 17, 10) e, pur essendosi molto esercitita nella vita
-interiore, nell’orazione, nella virtù, sa che non può contare
-per nulla sulle sue forze, sa che, pur avendo lavorato per
-la gloria di Dio, non può affatto contare sulle sue opere; e
-quindi conta totalmente è unicamente sulla iisericordia e
-sulla grazia di Dio: « Now habeo fiduciam misi în ta niisericordia ». La sua fiducia è nei meriti infiniti di Gesù,
-nell'amore. misericordioso del Padre Celeste c nell'opera
-
-ella grazia; e questa fiducia la rende più che mai coraggiosa ed ardita, perchè sa che con Dio si può tutto.
+Il sublime ideale dell'unione con Dio supera totalmente le nostre capacità di deboli creature; se possiamo aspirarvi, non è perché contiamo di giungervi attraverso i nostri sforzi e le nostre iniziative, bensì perché confidiamo che Dio stesso, secondo la sua promessa, verrà a prenderci per mano. Ma Dio non prende per mano l'anima superba, Egli si china solo sugli umili e quanto più trova un'anima umile, tanto più l'inalza fino a sé. L'umiltà scava nell'anima la capacità di ricevere l'abbondanza dei doni divini.
 
 ### Colloquio
 
-«Ciò che piace a Gesù — dice la Santa di Lisieux —
-‘è vedermi amare la mia piccolezza e la mia povertà, è la
+« O mio Dio, Tu mi fai comprendere fino a che punto devo scendere perché il mio cuore possa servirti di dimora: devo farmi sì povera da non sapere ove posare il capo. Il mio cuore non è interamente vuoto di me stessa e per questo Tu mi ordini di scendere. Oh, io voglio scendere molto in basso, perché Tu possa riposare nel mio cuore la tua testa divina e quivi sentirti amato e compreso! O dolce Ospite divino, Tu conosci la mia miseria e proprio per questo vieni in me con l'intenzione di trovarvi una tenda vuota, un cuore totalmente vuoto di sé. Tu non mi chiedi altro » (cfr. T.B.G. Lt. 116 e 144).
 
-ieca speranza che ho nella sua misericordia. Ecco il mio
-lo tesoro » (Lt..176).
+O Signore, aiutami a scavare nella povera anima mia quell'abisso di umiltà che attira l'abisso delle tue misericordie infinite. Aiutami a scendere, mentre il mio orgoglio ama tanto salire. Aiutami a riconoscere, a confessare umilmente il mio nulla e la mia debolezza, mentre il mio orgoglio ama tanto riputarsi qualche cosa di grande. Aiutami a gloriarmi delle mie infermità, mentre il mio orgoglio tende continuamente a gloriarsi di ciò che non è mio, ma è puro dono tuo. Dio mio, com'è vero che la via battuta il cammino opposto della natura! Dammi la forza di intraprendere con coraggio questo cammino, di andare contro la corrente limacciosa ed infida del mio egoismo. Come potrò farlo se Tu non mi aiuterai? Ma io confido in te, o Signore, perché so che sei sempre pronto a sorregere il debole che a te ricorre e a te si affida; perché so che, se la mia superbia è grande, la tua misericordia è infinita e la tua onnipotenza è invincibile; perché so che se « qualcuno è sfinito e bisognoso di aiuto, mancante di forze e abbondante di miseria, non appena il tuo occhio si posa su lui, Tu lo sollevi dalla sua abbiezione e miseria, e rialzi il suo capo » (cfr. Ecli. 11, 11-13).
 
-
-«Lo riconosco, o Signore, sono molto debole e ogni
-orno ne faccio una nuova esperienza. Ma tu ti degni
-
-
-insegnarmi quella scienza che mi fa gloriare delle mie infermità. È questa una grazia ben grande, e solo in essa
-trovo la pace e il riposo del cuore perchè ho ormai compreso il tuo carattere: dai come sa dare Dio, ma vuoi
-l'umiltà del cuore» (cfr. T.B.G. Lt. 87 € 140).
-
-O Signore, la tua luce penetra l’anima mia e mi ‘fa
-comprendere quanto sono lontane le mie vie dalle tue!
-Anzichè indispettirmi per le mie miserie, anzichè avvilirmi
-per le mie cadute e per i miei insuccessi, anzichè pretendere di riuscire in tutto e di realizzare cose grandi, devo
-accettare umilmente di vedermi tanto debole, tanto indigente, tanto bisognoso del tuo aiuto.
-
-Per un'anima che ti ama, quanto è dolce, Dio mio,
-aver bisogno di te, così da non poter far nulla senza di
-tel È dolce, perchè ciò mi dice che Tu vuoi continuamente intervenire nella mia povera vita, che vuoi conti-
-nuamente sostenermi con la tua grazia, che non mi abbandonerai mai per il primo, E per darmi l’ abbondanza
-dei tuoi aiuti divini, Fu non attendi altro che io mi
-metta davanti a te nell’atteggiamento umile e fiducioso
-di un fanciullo che, non potendo contare sulle sue forze
-e sulle sue risorse, tutto aspetta dal padre suo. Tu attendi
-che, profondamente convinto del mio nulla, accetti ed
-ami di sentirmì nulla, perchè Tu sia il mio Tutto.
-
-Spogliami, o Signore, spogliami di ogni residuo di fiducia in me stesso, Se ogni uomo è simile al fieno dei campi
-che oggi è e domani non è più, quale stoltezza maggiore
-può esservi che contare sulla forza di un filo d’erba? Sanami, o Signore, da tanta stoltezza e mettimi, ti prego,
-nella verità. O Tu che sei la Verità, santificami nella verità, nella verità del mio nulla.
-
-Tu solo sei buono, Dio mio, e Tu solo puoi farmi
-buono; Tu solo sei giusto e Tu solo puoi giustiticarmi. Tu
-solo sei santo e Tu solo puoi rn Quanto meno
-posso attendere da me, tanto più posso e voglio attendere
-da te; da te il buon volere e la costanza, da te la forza e la
-pazienza, da te la purezza e la bontà, da te la virtù e la
-
-
-santità, Da me nulla e da te tutto. O Signore, affrettati a
-venire in mio soccorso: il mio nulla t'invoca, la mia miseria ti sospira!
+O Signore, chi sarà « abbondante di miseria » più di me, che ancora non ho vinto il mio orgoglio? E allora chi più di me avrà bisogno del tuo soccorso?

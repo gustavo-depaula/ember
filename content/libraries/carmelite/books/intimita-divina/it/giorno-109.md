@@ -1,122 +1,29 @@
-## 109 — L'UMILTÀ DEL CUORE
+## 33 — UMILTÀ NELLE CADUTE
 
-### Presenza di Dio
-
-— O Gesù, dolce ed umile di cuore, rendi il mio cuore simile al tuo.
+**Presenza di Dio.** — *« Io sono misero e bisognoso, o Signore, accorri a me. All'ombra delle tue ali mi rifugio » (Sal. 39, 18; 56, 2).*
 
 ### Meditazione
 
-7 — Una sola volta Gesù ha detto espressamente:
-‘imparate da me, e l’ha detto proprio in proposito dell’umiltà : « Imparate da me che sono mansueto ed umile di
-cuore » (Mt. 11, 29). Ben sapendo quanto sarebbe stato difficile alla nostra natura orgogliosa la pratica della vera
+**1** — Se consideri la tua miseria senza alzare gli occhi a Dio, Padre delle misericordie, rimarrai facilmente soffocato e scoraggiato. E se ben ti esamini vedrai che lo scoraggiamento deriva sempre da due cause intimamente connesse fra loro: l'una è che, avendo fatto assegnamento sulle tue forze, il tuo orgoglio è rimasto ferito e deluso per lo smacco subito, e l'altra è che, non avendo contato su Dio, non hai pensato a ricorrere a lui e, come non hai saputo ricorrervi per riuscire nel bene, così non hai saputo ricorrervi quando sei caduto nel male. Insomma hai agito da solo: da solo hai cercato di riuscire, da solo sei caduto, da solo hai considerato la tua caduta. Il risultato di tale condotta non può essere che lo scoraggiamento; come, infatti, potrai trovare in te la forza di rialzarti, quando proprio per mancanza di forze ti trovi a terra? Ma Dio non vuole che tu agisca da solo. « Guai a chi è solo — dice la Sacra Scrittura — perché, cadendo, non ha chi lo sollevi » (Eccl. 4, 10). Guai all'uomo che appoggia i suoi piedi alle sue forze. quando cadrà non avrà a sua disposizione la forza di Dio per risollevarsi e rimarrà così nella sua miseria, avvilito e confuso.
 
+Come non devi formulare buoni propositi senza contare sull'aiuto di Dio per mantenerli, così non devi considerare le tue cadute, senza considerare insieme la divina misericordia, perché come Dio è l'unico che può aiutarti a riuscire nel bene, così è l'unico che può aiutarti a rialzarti dal male.
 
-umiltà, sembra che Egli abbia voluto darci così un particolare incoraggiamento, Il suo esempio, le sue inaudite
-umiliazioni, che l'hanno reso «vilipendio di ognuno e
-spregio del popolo» (Sal. 21,7), che per noi l'han « fatto
-peccato » (I7 Cor. 5,21) e portatore di tutte le nostre iniquità, fino ad essere « annoverato tra i malfattori » (Mr.
-15,28), sono il più grande sprone ed il più grande invito
-alla pratica dell’umiltà.
+Ecco perché tutti i santi hanno insegnato che il conoscimento di sé non deve mai essere disgiunto dal conoscimento di Dio e viceversa. S. Teresa di Gesù dice: « L'anima che si addestra nel proprio conoscimento, deve inalzarsi, di tanto in tanto, a considerare la grandezza e la maestà di Dio. In ciò scoprirà la propria miseria meglio che rimane ndo in se stessa, e sarà meno infastidita dagli animaletti immondi », ossia dalle proprie miserie (M. I, 2, 8).
 
-Gesù ci parla direttamente dell’umiltà del cuore, perchè, per essere sincera, ogni virtù, ogni riforma di vita
-deve sempre partire dal cuore da cui vengono i pensieri
-e le azioni. Un portamento esterno, un parlare umile sono
-vani, senza l'umiltà del cuore, anzi spesso sono la maschera
-di un orgoglio raffinato e quindi più pericoloso. « Rimonda prima l'interno — diceva Gesù stigmatizzando l’ipo-
-crisia dei farisei — e anche l’esterno diventerà pulito »
-(Mt.23, 26). E S. Tommaso insegna che « dall’ interiore
-disposizione all’umiltà procedono i segni nelle parole, nei
-gesti, nei fatti, mediante i quali si manifesta all’esterno, ciò
-che è nascosto nell'interno » (IT* Il:, q. 161, a. 6, co.).
+**2** — « La vera umiltà, per profonda che sia, non inquieta mai; non agita, non disturba l'anima, ma l'inonda di pace, di soavità e di riposo... la dilata e la rende più abile a servire Dio ». Invece « l'umiltà del demonio disturba, scompiglia, mette tutto sossopra ed è molto penosa. Se il maligno ci vuol far credere che siamo umili, penso che sia per poi indurci, potendolo, a diffidare di Dio » (T.G. Cam. 39, 2).
 
-Quindi, se vuoi essere veramente umile, applicati anzitutto all’umiltà del cuore, addentrandoti sempre più nel
-sincero riconoscimento del tuo nulla, della tua pochezza.
-Sappi riconoscere sinceramente i tuoi difetti, le tue mancanze, senza volerli attribuire ad altra causa che alla tua
-miseria; sappi riconoscere il bene che è in te come puro
-dono di Dio, senza mai fartene padrone.
+La mancanza di fiducia e il turbamento diminuiscono la capacità di amare e lo scopo del demonio è appunto quello di trattenere le anime dalla via dell'amore. Egli tenta in tal modo specialmente coloro che non cederebbero mai a tentazioni aperte di peccato. In questo caso bisogna reagire, ricordando che, come insegna S. Teresa del B. G., « ciò che offende Gesù e ferisce il suo cuore, è la mancanza di confidenza » (Lt. 71).
 
-
-2 — L'umiltà del cuore è virtù difficile e facile insieme: difficile, perchè tanto contraria all'orgoglio che sem-
-pre ci spinge ad esaltarci; facile, perchè non abbiamo bisogno di andare lontano a cercarne i motivi, ma li ab-
-biamo — e in abbondanza — in noi stessi, nella nostra
-miseria. Tuttavia, non basta essere miserabili per essere
-umili, ma è umile solo chi riconosce sinceramente la propria miseria e agisce in conseguenza.
-
-A questo riconoscimento l’uomo, superbo per istinto,
-
-
-non può giungere senza la grazia di Dio, ma, poichè Dio
-non nega a nessuno le grazie necessarie, rivolgiti a lui e,
-con fiducia e costanza, chiedigli l'umiltà del cuore. Chiedila nel nome di Gesù che tanto si è umiliato per la gloria
-del Padre e per la tua salvezza, «chiedi in nome suo e
-riceverai» (ctr. Gv. 16,24). Se poi, malgrado il tuo sincero desiderio di diventare umile, senti spesso agitarsi in
-te movimenti di orgoglio, di vanagloria, di vana compiacenza, anzichè avvilirti, riconosci in questo il frutto della
-tua natura cattiva e serviti di ciò come di un nuovo motivo per umiliarti.
-
-Ricorda inoltre che puoi praticare sempre l’ umiltà
-del cuore, anche quando non puoi fare particolari atti
-di umiltà esterna, anche quando nessuno ti umilia e sei
-invece fatto segno alla fiducia, alla stima, alle lodi
-altrui. In simili circostanze S. Teresa del B. G. diceva:
-« Nulla vale ad ispirarmi sentimenti di vanità, perchè il
-ricordo delle mie miserie mi sta continuamente presente »
-(St. 10); e tu pensa che, come « non ti rende più spregevole il biasimo, così non ti rendono più santo le lodi
-altrui » (/zit. II, 6,3). Anzi, più gli altri ti esaltano e più
-cerca di umiliarti in cuor tuo. Praticata in tal modo,
-l’umiltà del cuore ti farà concepire un così basso concetto
-di te, che non saprai più preferirti a nessuno, ma tutti
-EItichen migliori di te e di te maggiormente degni
-
-i stima, di rispetto, di riguardi e così te ne starai in pace,
-non venendo mai turbato nè dal desiderio di sorpassare gli
-altri, nè dalle umiliazioni che potrai ricevere. La pace
-
-
-interiore è frutto dell’umiltà, infatti Gesù ha detto: « Im-
-
-
-parate da me che sono mansueto ed umile di cuore e troverete riposo — requiem — alle anime vostre » (Mf.11,29).
+La diffidenza nella misericordia di Dio, sia pure in seguito a gravi cadute, non è mai indice di vera umiltà, ma piuttosto di orgoglio subdolo e di tentazione diabolica. Se Giuda fosse stato umile, anziché disperarsi, avrebbe saputo, come Pietro, chiedere perdono e piangere i suoi peccati. L'umiltà è la virtù che ci fa stare al nostro posto; ora il nostro posto di fronte a Dio è quello di figlioli deboli e miseri, sì, ma fiduciosi. Quando, dopo tanti propositi, ti vedi ricadere nelle medesime mancanze; quando, dopo tanti sforzi, non riesci ancora a vincere certi difetti, a superare certe difficoltà e, in un modo o nell'altro, ti trovi molto al di sotto di quello che dovresti e vorresti essere, ricorri al rimedio infallibile dell'umiltà. « L'umiltà — dice S. Teresa di Gesù — è l'unguento che sana ogni ferita » (M. II, 2, 6). Anche se ti sembra di aver esaurito ogni forza, anche se ti senti incapace di tutto e ti vedi sempre per terra impotente a rialzarti, ti rimane ancora una possibilità, quella di umiliarti. Umiliati, umiliati con sincerità e con fiducia; e l'umiltà supplirà a tutte le tue miserie, guarirà tutte le tue piaghe, perché attirerà su di esse la misericordia divina.
 
 ### Colloquio
 
-O Gesù, dolce ed umile di cuore, sanami dall’orgo-
+« O Signore, la mia miseria non mi reca più meraviglia e non mi affliggo tanto nel vedere che io sono la debolezza medesima; al contrario, di questa debolezza mi glorio e ogni giorno mi aspetto di scoprire dentro di me sempre nuove imperfezioni. Lo confesso, Signore, questi lumi sulla mia nullità mi fanno meglio che non i lumi intorno alla fede...
 
+« Quale illusione!... Vorremmo non cadere mai? Che mi importa, o Gesù, di cadere ad ogni istante. Vedo in ciò la mia debolezza ed è un gran guadagno per me. Tu vedi con ciò quello di cui sono capace e così sarai obbligato a portarmi fra le tue braccia... Se non lo fai, vuol dire che ti piace vedermi per terra... perciò non me ne inquieterò, ma tenderò sempre verso di te le mie braccia supplichevoli e piene d'amore! Non posso credere che mi abbandonerai.
 
-io, rendi Tu umile il cuor mio, infondi in me un po’
-lella tua profondissima umiltà. Perchè, Tu lo sai meglio
+« O Gesù, è vero, non sono sempre fedele; ma non mi perdo mai di coraggio, mi abbandono nelle tue braccia e, come una gocciolina di rugiada, mi sprofondo sempre più nel vuo tuo calice, o Fiore divino dei campi, e là ritrovo quanto ho perduto e ancora di più.
 
+« Dopo tutti i miei malestri, invece di nascondermi in cantuccio e piangervi la mia miseria, mi volgo a te, o mio Diletto, e ti racconto in dettaglio tutte le mie infedeltà, pensando, nel mio temerario abbandono, di acquistare più impero, di attirarmi pienamente il tuo amore; giacché Tu non sei venuto a chiamare i giusti, ma i peccatori.
 
-di me, come potrei io, con la mia volontà superba, rendere umile il mio cuore? Non può un povero dar ric-
-chezze a se stesso, non può un superbo dare umiltà al suo
-cuore. Soltanto la tua bontà infinita può dar rimedio alla
-superbia.
-
-«E il rimedio è questo: fissare lo sguardo in te, Verbo
-Incarnato pendente dalla ‘croce; e, vedendo Tu l’anima
-umiliata riguardare in.tal modo in te, presto ti muovi a
-riguardare in lei e col tuo sguardo fai come fa il raggio
-del sole sulla verra, il quale col suo calore la va asciugando
-e disponendo affinchè fruttifichi. Così fai ‘Tu, Verbo, che
-col raggio del tuo sguardo asciughi l’anima, tirando a te
-tutta la superbia che è in lei, per consumarla col tuo calore. Nessuno, dunque, può acquistare l'umiltà, se non
-fissa lo sguardo in te, Verbo in croce » (S.. M. Maddalena
-de’ Pazzi).
-
-«O Verbo, ti sei umiliato fino alla morte di croce,
-fino a voler essere trattato come l’ultimo degli uomini dai
-
-eccatori, dai demoni, dallo Spirito Santo e dall’eterno tuo
-
-'adre. E tutto questo per glorificare il Padre, per riparare
-l'offesa fatta al Padre ban nostro orgoglio, per confondere
-e ‘per distruggere la nostra arroganza, per insegnarci a
-detestar la vanità e ad amar l'umiltà, Oh, come può dirsi
-che, davvero, la superbia disonora Dio e che a Dio gravissimamente. dispiace, poichè in riparazione di' tal disonore
-fu.necessario che ‘Fu, figlio di Dio, venissi tanto umiliato!
-Oh; come può dirsi che, davvero, la vanità è cosa’ mostruosa, giacchè per ‘annientarla, Tu hai voluto ridurti
-ad. un così infimo grado di abbassamento! Oh, come si
-deve credere che agli occhi di Dio l'umiltà è tesoro veramente prezioso e gemma a lui graditissima, poichè Tu,
-suo Figlio divino, hai voluto esser tanto umiliato per farci
-amare tale virtù, per stimolarci ad imitarti nella. pratica
-di essa e per meritarci la grazia di compierne le opere »
-(S. Giovanni Eudes).
+« Sono felice di sentirmi così imperfetta e di aver tanto bisogno della tua misericordia! Quando s'accetta con dolcezza l'umiliazione d'essere stati imperfetti, la tua grazia, o Signore, ritorna subito » (T.B.G. St. 9; Lt. 65, 122, 175; NV.)

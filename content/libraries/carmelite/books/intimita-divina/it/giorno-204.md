@@ -1,94 +1,23 @@
-## 204 — L'AMORE MISERICORDIOSO
-*Domenica fra l'ottava del S. Cuore di Gesù*
+## IV — L'INVITO AL BANCHETTO
 
-### Presenza di Dio
+*Domenica fra l'Ottava del Corpus Domini*
 
-O Gesù, degnati di scoprirmi gli infiniti tesori di misericordia racchiusi nel tuo Cuore.
+**Presenza di Dio.** — *O Gesù, concedimi di rispondere sempre al tuo invito e di partecipare degnamente al tuo banchetto.*
 
 ### Meditazione
 
-1. — La liturgia odierna, in perfetta armonia con l'ottava del Sacro Cuore, è un caldo invito alla confidenza
-nell'amore misericordioso di Gesù. Fin dal principio della
-Messa la Chiesa ci fa pregare così: « Volgiti a me, ed abbi
-di me pietà, o Signore, perchè desolato e misero io sono.
-Vedi la mia miseria, la mia pena e perdona tutti i miei
-peccati» (Introito); nella Colletta poi ci fa chiedere: «O
-Dio, effondi sopra di noi la tua misericordia», e poco
-più avanti ci esorta: « Abbandona a Dio la cura di te, Egli
-ti manterrà » (Graduale). Ma, come giustificare tanta confidenza in Dio, se noi siamo pur sempre poveri peccatori?
-Questa giustificazione la troviamo nel Vangelo odierno che
-riporta le parabole di cui Gesù stesso si è servito per insegnarci che non confideremo mai troppo nella sua misericordia infinita: la parabola della pecora e quella
-della dramma perduta. Anzitutto, ci si presenta il buon
-pastore che va in traccia della pecorella smarrita: è la figura di Gesù sceso dal cielo per andare in cerca della povera umanità perduta fra gli antri oscuri del peccato: per
-ritrovarla, per salvarla e ricondurla all'ovile, Egli non esita
-ad affrontare le più amare sofferenze ed anche la morte. « E
-quando l'ha trovata, se la pone sulle spalle tutto allegro
-e, giunto a casa, chiama gli amici e i vicini e dice loro:
-*Rallegratevi meco perchè ho trovato la mia pecorella che
-si era smarrita». Questa è la storia dell'amore di Gesù
-e non solo per tutta l'umanità, ma per ogni singola anima; storia ben sintetizzata nella dolce figura del buon pastore, sotto la quale Gesù stesso ha voluto rappresentarsi.
-Si può ben dire che l'immagine del buon pastore — tanto
-amata nei primi secoli della Chiesa — equivale a quella
-del Sacro Cuore; l'una e l'altra sono l'espressione viva e
-concreta dell'amore misericordioso di Gesù e ci spingono
-ad andare a lui con piena confidenza.
+**1** — Il Vangelo di questa domenica s'intona perfettamente all'ottava del *Corpus Domini*. «Un uomo fece una gran cena e invitò molti». L'uomo che fa la cena è Dio; e la gran cena è il suo regno dove le anime troveranno ogni abbondanza di beni spirituali quaggiù e la felicità eterna nell'altra vita. Questo è il senso proprio della parabola, ma nulla vieta che si possa intendere anche in un senso più particolare, vedendo nella cena il Banchetto eucaristico e nell'uomo che l'imbandisce Gesù, il quale invita gli uomini a cibarsi della sua Carne e del suo Sangue. «È apparecchiata per noi la mensa del Signore — canta l'Ufficio dell'ottava — La Sapienza [ossia il Verbo incarnato] ha preparato il vino ed ha imbandita la mensa». Gesù stesso, annunziando l'Eucaristia, rivolse a tutti il suo invito: «Io sono il pane di vita! Chi viene a me non avrà più fame, e chi crede in me non avrà più sete. I vostri padri mangiarono la manna nel deserto e morirono. Questo è il pane disceso dal cielo, affinché chi ne mangia non muoia» *(Gv.* 6, 35-50). Gesù non si limita, come gli altri uomini, ad imbandire una cena, a fare larghi inviti e neppure ad apprestare vivande prelibate, ma fa fatto singolarissimo — che nessun uomo, per quanto ricco e potente, potrà mai imitare — è che Egli stesso si offre in cibo. S. Giovanni Crisostomo, a chi nell'Eucaristia vorrebbe veder Cristo con gli occhi del corpo, dice: «Ebbene, tu lo vedi, lo tocchi, lo mangi. Tu desideri vederne le vesti, Egli invece ti concede non solo di vederlo, ma ancora di mangiarlo, di toccarlo e di riceverlo dentro di te... Ciò che gli Angeli guardano con tremore e non possono mirare liberamente per lo splendore abbagliante, diventa nostro alimento, noi ci uniamo ad esso e diventiamo con Cristo un solo corpo e una sola carne» *(BR. lez.* V e VI).
 
-2. — «Io vi dico che vi sarà in cielo più festa per un
-peccatore pentito, che non per novantanove giusti i quali
-non hanno bisogno di penitenza». Con questo pensiero,
-benchè espresso in forma diversa, terminano tutte e tre
-le parabole della misericordia: quella della pecora smarrita,
-della dramma perduta e del figliuol prodigo. Questa insistente ripetizione ci dice quanta premura ha avuto Gesù
-d'inculcarci un profondo senso della misericordia infinita,
-misericordia assolutamente in contrasto con l'atteggiamento
-duro e sprezzante dei farisei che mormoravano dicendo:
-«Costui [Gesù] accoglie i peccatori e mangia con loro »;
-anzi, le tre parabole sono appunto la risposta del Maestro
-all'insinuazione maligna e gretta dei farisei.
+**2** — Gesù non poteva offrire all'uomo una mensa più ricca del banchetto eucaristico. E in qual modo gli uomini corrispondono al suo invito a questa cena? Molti, come i giudei increduli, scrollano le spalle e se ne vanno con un sorriso scettico sul labbro: «Come mai costui può darci da mangiare la sua carne?» *(Gv.* 6, 53). Ma ciò che tiene lontano dall'Eucaristia non è solo la mancanza di fede; questa molto spesso è accompagnata e anzi, di rado, deriva da quelle cause morali di cui parla il Vangelo odierno. «Ho comprato un podere e bisogna che vada a vederlo; abbimi, ti prego, per iscusato» risponde uno; e un altro: «Ho comperato cinque paia di buoi e vado a provarli; abbimi, ti prego, per iscusato». L'eccessiva preoccupazione per i beni terreni, l'attaccamento ad essi, l'ingolfarsi totalmente negli affari, è il motivo per cui tanti rifiutano l'invito di Gesù. Ma non è tutto: «Ho preso moglie e quindi non posso venire» risponde un terzo e rappresenta coloro che, immersi nei piaceri dei sensi, hanno perso la sensibilità alle cose dello spirito e di fronte ad esse tirano diritto, senza neppure cercare di scusarsi.
 
-Per noi, creature limitate e dalla vista spirituale tanto
-corta, non è facile intendere a fondo questo ineffabile mistero; e non solo ci è difficile intenderlo rispetto agli altri,
-ma anche riguardo a noi stessi. Eppure, Gesù l'ha detto e
-ripetuto: «ci fa più festa in cielo per un peccatore pentito, che non per novantanove giusti» e con questo ha voluto dirci quanta gloria dà a Dio l'anima che, dopo le sue
-cadute, ritorna a lui pentita e fiduciosa. Il senso di queste
-parole non va applicato solo ai grandi peccatori, a coloro
-che si convertono dal peccato grave, ma anche a quelli che
-si convertono dai peccati veniali, che si umiliano e si rialzano dopo le infedeltà sfuggite per debolezza o per irriflessione. E' questa la nostra storia di tutti i giorni: quante
-volte abbiamo proposto di vincere la nostra impazienza,
-irascibilità, suscettibilità, e quante volte ricadiamo! Ma se,
-riconoscendo umilmente il nostro torto, andiamo con fiducia «a gettarci nelle braccia di Gesù, chiedendogli perdono, Egli trasalisce di gioia», anzi, «farà anche di più:
-ci amerà più ancora che prima della nostra colpa» (T.B.G.
-Lt; CR.).
-
-Nel Communio, oggi la liturgia ripete l'ultimo versetto del Vangelo: «Vi dico: gli Angeli di Dio si rallegrano per un solo peccatore che si pente»; e noi nella
-S. Comunione chiediamo a Gesù di farci penetrare i segreti del suo infinito amore misericordioso.
+È impossibile non fremere di fronte all'enorme cecità dell'uomo che pospone il dono di Cristo, Pane degli Angeli, pegno di vita eterna, agli interessi terreni, ai vili piaceri dei sensi che ben presto sfumano come nebbia al sole. Eppure, non è difficile che un'ombra di questa cecità veli anche lo sguardo ed il cuore di coloro che Gesù ha chiamato a seguirlo più da vicino e che ha designato col dolce nome di amici. Costoro non rifiutano l'invito, ma spesso l'accettano con freddezza, quasi per abitudine. Non è forse vero che, mentre ci preoccupiamo di molte cose: lavoro, affari, famiglia, amicizie, ecc., ci preoccupiamo ben poco di disporci ogni giorno nel modo più degno al Banchetto eucaristico? Gesù viene in noi forse ogni mattina, ma vi trova sempre un'ospitalità calda, delicata, premurosa, piena di amore? Oh, troppo volte trova il cuore dei suoi amici occupato in mille pensieri, bagattelle e affetti terreni, mentre per lui, Ospite divino, rimane ben poco posto! Eppure, il posto dovrebbe essere tutto suo; eppure, il pensiero dell'incontro quotidiano con Gesù eucaristico dovrebbe essere in cima ad ogni altro pensiero!
 
 ### Colloquio
 
-«E in chi, o Signore, può meglio risplendere la tua
-misericordia se non in me che con le mie opere ho profanato tante volte le tue grandi grazie? Se cerco scuse, non
-ne trovo. La colpa è di nessuno, ma tutta mia, perchè se
-avessi corrisposto anche solo in parte al tuo amore, non
-avrei amato altri che te. Ma se di tanto non mi sono mostrata meritevole, mi valga almeno, o Signore, la tua infinita misericordia.
+«O Sacramento di pietà! o sigillo di unità! o vincolo di carità! Chi vuol vivere, ha dove vivere, ha donde vivere. O Signore, mi accosterò con fede alla tua mensa, incorporandomi ivi per esserne vivificato.
 
-«Da tanta mia ignominia la tua bontà infinita ha già
-saputo ricavare del bene, perchè dove più grande è la miseria, più risplendono i benefici delle tue misericordie. Oh,
-le tue misericordie, con quanta ragione dovrei io sempre
-cantarle! Signore, dammi di poterle cantare in eterno, giacchè ti sei compiaciuto di prodigarmele con tanta munificenza. Io ne rimango trasecolata, sì che le lodi mi sgorgano abbondantemente. Senza di te, o mio Bene, io non
-posso far altro che sradicare di nuovo i fiori del mio giardino e ricondurre questa mia terra miserabile allo stato di
-un letamaio. Ma non permetterlo, o Signore, non permettere che vada perduta quest'anima che, redenta un giorno
-a prezzo di tanti tuoi dolori, hai poi riscattata tante altre volte
-e strappata di bocca al dragone infernale» (T.G. Vi. 4, 4;
-14, 10).
+«Fa', o Signore, ch'io sia inebriata dall'opulenza della tua casa, e dammi da bere al torrente delle tue delizie. Poiché presso di te è la sorgente della mia vita: non altrove fuori di te, ma ivi presso di te è la sorgente della vita. Voglio bere per vivere; non voglio fare da me quasi per andarmi a perdere, non voglio saziarmi del mio come per inaridirmi; ma voglio accostare la mia bocca alla sorgente, là dove l'acqua non vien meno.
 
-«O Gesù, lo so, il tuo Cuore è molto più afflitto per
-le mille piccole imperfezioni dei tuoi amici, che non per
+«Torrò di mezzo le vane e cattive scuse e mi accosterò alla cena che mi deve interiormente impinguare. Non mi trattenga altezzosità di superbia: no, non mi faccia la superbia altezzosa; neppure mi arresti curiosità illecita, allontanandomi da te; non m'impedisca diletto carnale di gustare il diletto spirituale.
 
-le colpe anche gravi commesse dai tuoi nemici. Tuttavia,
-mi pare che solamente quando noi facciamo delle nostre
-indelicatezze un'abitudine e non te ne chiediamo perdono,
-Tu possa dire: * Queste piaghe che scorgete in mezzo alle
-mie mani, le ho ricevute nella casa di coloro che mi amavano!' Ma se dopo ogni minima colpa veniamo a gettarci
-nelle tue braccia chiedendoti perdono, Tu trasalisci di gioia
-e dici ai tuoi Angeli ciò che il padre del figliuol prodigo
-diceva ai suoi servi: "Ponetegli in dito un anello e si banchetti". O Gesù, come sono poco conosciuti la bontà e l'amore misericordioso del tuo Cuore!» (cfr. T.B.G. Lt.).
+«Fa' ch'io m'accosti e m'impingui; lascia che m'accosti, benché mendico, debole, storpio e cieco. Alla tua cena non vengono i ricchi sani, che credono di camminare bene e di aver vista acuta, uomini molto presuntuosi di sé e quindi tanto più insanabili quanto più superbi. M'accosterò qual mendico, perché mi inviti Tu, che da ricco ti sei fatto povero per me, affinché la tua povertà arricchisse la mendicità mia. M'accosterò come debole, perché non hanno bisogno del medico i sani, ma gli infermi. M'accosterò come storpio e ti dirò: "Reggi Tu i miei passi ne' tuoi sentieri". M'accosterò qual cieco, e ti dirò: "Illumina gli occhi miei, affinché io non dorma giammai sonno di morte"» (S. Agostino).

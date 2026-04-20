@@ -1,106 +1,27 @@
-## 127 — LA CROCE QUOTIDIANA
+## 51 — IL VALORE DELLA SOFFERENZA
 
-### Presenza di Dio
-
-— O Gesù crocifisso, per i meriti della tua Croce, insegnami a portare ogni giorno la mia croce.
+**Presenza di Dio.** — *O Gesù crocifisso, insegnami la scienza della croce, insegnami il valore della sofferenza.*
 
 ### Meditazione
 
-1 — « Chi non prende la sua croce e non mi segue non
-è degno di me» (Mt. 10, 38). Con tali parole il Maestro divino dichiara espressamente che portare la croce è una
-condizione indispensabile per essere suoi seguaci. Il nome
-di croce, però, non deve farci pensare soltanto a sofferenze
-speciali — le quali, pur non essendo escluse; non sono, in
-genere, cose di tutti i giorni — ma conviene anzitutto pensare a quei disagi ordinari e quotidiani che non mancano
-mai in nessuna forma di vita e che dobbiamo cercare di
-abbracciare, come altrettanti strumenti di progresso e di
-fecondità spirituale.
+**1** — La Passione di Gesù c'insegna in modo concreto che nella vita cristiana bisogna essere capaci di abbracciare il dolore per amore di Dio. Questa lezione è dura e ripugnante alla nostra natura tanto inclinata al godimento, alla gioia; eppure questa lezione viene da Gesù, Maestro di verità e di vita, Maestro amantissimo delle anime nostre, che vuole solo il nostro vero bene. Se, dunque, Gesù c'insegna a soffrire, vuol dire che nella sofferenza è racchiuso un grande tesoro.
 
-Spesso è forse più facile accettare, in uno slancio di
+In sé la sofferenza è un male e non può essere amabile; se Gesù ha voluto abbracciarla con tanta pienezza, e se la propone a noi invitandoci a stimarla ed amarla, è unicamente in vista di un bene superiore raggiungibile soltanto per mezzo di essa, il bene sublime della redenzione e santificazione delle anime nostre.
 
+Benché l'uomo, essendo un essere composto, sia per sua natura soggetto al dolore, Dio, mediante i doni preternaturali, aveva voluto che i nostri progenitori non ne fossero esenti. Ma col peccato tali doni andarono per sempre perduti, e così la sofferenza è entrata in modo inevitabile nella nostra vita. L'immane somma di dolori che travaglia l'umanità è la conseguenza del disordine prodotto dal peccato, e non solo dal peccato originale, ma anche dai peccati attuali. Eppure, la Chiesa canta: *« felix culpa »*! Perchè? Perchè l'amore infinito di Dio tutto trasforma e sa trarre dal duplice male del peccato e della sofferenza il grande bene della redenzione del genere umano. Gesù, prendendo su di sé i peccati degli uomini, ne ha preso anche le conseguenze, ossia il dolore e questo dolore, da lui abbracciato durante tutta la sua vita e specialmente nella sua Passione, è diventato il mezzo della nostra redenzione. Il dolore, conseguenza del peccato, diventa in Gesù e con Gesù, mezzo per distruggere il peccato stesso. Ecco perchè il cristiano non può considerare la sofferenza come peso indesiderabile cui deve necessariamente sottostare, ma — e molto più — come mezzo di redenzione e di santificazione.
 
-generosità, grandi sacrifici, grandi sofferenze che si presentano una volta tanto, che non certe piccole, minute sofferenze quotidiane, intimamente connesse col proprio stato
-di vita e con l’adempimento del proprio dovere; sofferenze
-che si ripresentano ogni giorno, sempre con lo stesso volto,
-con la stessa intensità ed insistenza, attraverso situazioni
-che durano immutabili per lungo tempo. Sono disagi fisici
-derivanti da mancanza di salute, da ristrettezze economiche, oppure dalla fatica, da sovraccarico di lavoro o di
-preoccupazioni; sono sofferenze morali risultanti da divergenze di vedute, da contrasti di temperamento, da incomprensioni, ecc. Tutto ciò costituisce quella croce concreta
-e reale che ogni giorno Gesù ci presenta, invitandoci a
-portarla dietro di lui; umile croce quotidiana che non esige
-grandi gesti di eroismo, ma davanti alla quale dobbiamo
-ogni giorno ripetere il nostro sì, piegando docilmente le
-spalle per portarne il peso con generosità ed amore, Il valore, la fecondità delle nostre sofferenze quotidiane sta
-proprio qui, in questa accettazione senza riserve, per cui
-le prendiamo così come Dio ce le presenta, senza cercare
-di sottrarci ad esse e neppure di diminuirne il peso. « Sì, 0
-Padre, perchè così ti è piaciuto » (Mt. 11, 26).
-
-
-2 — Gesù dà alle nostre sofferenze il nome di croce,
-perchè croce significa strumento di salvezza, ed Egli vuole
-che il nostro soffrire non sia vano, ma diventi croce, ossia
-diventi per noi mezzo di elevazione, di santificazione. E di
-fatto qualsiasi sofferenza si trasforma in croce non appena
-noi l’accettiamo dalle mani del Signore, aderendo alla sua
-volontà che si vuol servire di essa per il nostro profitto
-spirituale. Se ciò è vero per le grandi sofferenze, è molto
-vero anche per le piccole; tutte rientrano nel piano divino, tutte — anche le più minute — sono state fin dall'eternità predisposte da Dio per la nostra santificazione.
-Accettiamole quindi con serenità, senza lasciarci immergere nelle cose che ci fanno. dispiacere; manteniamole
-al posto che devono avere e che in realtà hanno nel pia-
-
-
-no divino, ossia posto di strumenti, mediante i quali potremo realizzare il nostro ideale di santità, di unione con
-Dio. Se queste contrarietà sono un male perchè ci fanno
-soffrire, sono un bene perchè ci danno occasione di esercitare la virtù, perchè ci purificano e ci avvicinano al
-Signore. Ma, per saper portare la croce, non basta comprenderne il valore, occorre anche la forza. Se ci lasciamo guidare da Gesù, Egli certamente ce la darà e, proprio attraverso le lotte e le sofferenze quotidiane, Egli
-ci porterà, per la strada da lui scelta, a quel grado di
-santità che ha fissato per ognuno di noi. Ma bisogna avere un'immensa fiducia, andare avanti ad occhi chiusi, ‘abbandonandosi totalmente; bisogna accettare la croce che
-il Signore ci porge e portarla con amore. Se, con l’aiuto della grazia, sapremo santificare così tutte le grandi
-e piccole sofferenze quotidiane, senza perdere la serenità e
-la fiducia, ci faremo santi. Molte anime si scoraggiano di
-fronte alla sofferenza e s’industriano di evitarla, perchè non
-hanno abbastanza fiducia nel Signore, non credono abbastanza che tutto, fin nei minimi particolari, è disposto da
-lui per il nostro vero bene. Ogni sofferenza, grande o piccola che sia, nasconde sempre una grazia di redenzione, dî
-santificazione; e questa grazia diventa nostra non appena
-accettiamo il patire con spirito di fede e per amor di Dio.
+**2** — La sofferenza è un sentimento sgradevole che proviamo di fronte ad una cosa — situazione, circostanza, ecc. — che non corrisponde alle nostre tendenze, esigenze, aspirazioni, che non si armonizza con esse, che non le asseconda, ma anzi le contraria e vi pone ostacolo. Tutti gli uomini sono soggetti alla sofferenza, ma solo il cristiano possiede il segreto di farla entrare nella sua vita, senza che ne distrugga l'armonia e la felicità possibili su questa terra. E tale segreto consiste proprio nel saper armonizzare ogni genere di sofferenza con le proprie aspirazioni, le quali, per un cristiano, non possono mai limitarsi a un ideale di felicità terrena. Questa armonizzazione è possibile, perchè quello che è contrariato e inconveniente da un punto di vista, spesso è assai conveniente da un altro: come, per esempio, la sofferenza fisica — fame, freddo, malattia, ecc. — pur essendo inconveniente per il corpo, può essere assai utile per il raggiungimento di un bene morale o soprannaturale, qual'è l'acquisto della virtù, il progresso nella santità, ecc. Se dal punto di vista puramente umano, certe sofferenze sono del tutto inopportune ed inutilizzabili, non lo sono mai dal punto di vista soprannaturale. « Tutto coopera a bene di chi ama Dio » *(Rom.* 8, 28), e anche le più grandi calamità private o sociali possono diventare un prezioso ed efficacissimo mezzo di elevazione. Qualsiasi sofferenza può, quindi, essere armonizzata con gli ideali supremi del cristiano: la salute eterna, la santità, la gloria di Dio, il bene delle anime. Ma ciò non è possibile senza l'amore, anzi sarà possibile solo in proporzione dell'amore. Solo l'amore di Gesù ha potuto trasformare la croce, orribile strumento di tortura, in strumento efficacissimo per la gloria di Dio e la salvezza dell'umanità. Così sarà anche per noi: la carità, l'amore a Dio e alle anime ci renderanno capaci di abbracciare qualsiasi dolore, armonizzandolo con le nostre più alte aspirazioni. In tal modo la sofferenza trova un posto — e un posto molto importante — nella nostra vita, senza tuttavia distruggere l'armonia e la serenità, senza opprimere lo spirito, ma anzi dilatandolo in un respiro sempre più ampio, in un amore sempre più grande. Proprio così, anche soffrendo, si può essere felici. Ecco come Gesù ha trasformato il dolore, ecco il valore che la sua Passione gli ha conferito.
 
 ### Colloquio
 
-«Ben vedo, o Gesù, mio dolce Capitano, che Tu alzi lo
-stendardo della tua Croce e amorosamente mi di Prene
-di la croce che ti presento e, quantunque ti sembri grave il
-suo peso, vieni dietro a me e non dubitare’. Per corrispondere dunque al tuo invito, ti prometto, o mio celeste
-Spa di non far più resistenza al tuo amore. Ma già vedo
-che t’incammini al Calvario, ed ecco che la tua sposa
-prontamente ti segue.
+« O Signore, ti costa abbeverarci di amarezza; ma Tu sai che questo è l'unico mezzo per disporci a conoscerti come Tu conosci te stesso, per disporci a divenire simili a te.
 
-«E siccome la sposa non può piacere allo Sposo, se
-non si studia con particolare diligenza di rendersi in tutto
+« Sai bene, o Signore, che se Tu mi dessi soltanto un'ombra di gioia, mi ci attaccherei con tutta l'energia, con tutta la forza del cuore; e quest'ombra me la rifiuti... perchè vuoi che il mio cuore sia tutto per te.
 
+« La vita passa così presto che veramente è meglio avere una bellissima corona in cielo e un po' di sofferenza quaggiù, che avere una corona ordinaria senza soffrire. Quando penso che per una sofferenza sopportata con gioia ti amerò di più per tutta l'eternità, comprendo bene che se Tu mi donassi l'universo intero con tutti i suoi tesori, ciò non sarebbe da paragonarsi alla più leggera sofferenza. Ogni nuova sofferenza, ogni angoscia del cuore è come un leggero zeffiro che ti porta, o Gesù, il profumo dell'anima che ti ama; allora Tu sorridi con amore e subito prepari una nuova amarezza, riempi il calice sino all'orlo, pensando che quanto più l'anima cresce nell'amore, tanto più deve crescere nella sofferenza.
 
-simile a lui, così, o mio Sposo Gesù, propongo ora e per
-sempre di procurare con ogni cura di imitarti e di crocifiggermi tutta con te... Devo figurarmi che il mio calvario sia
-il chiostro, mia croce la regolare osservanza, miei chiodi i
-tre voti. Ogni mia consolazione, o Signore, soltanto da te
-la desidero, in terra no, ma nel cielo; poco mi curo di viver
-lieta, purchè io viva da religiosa. Di buona voglia consegno
-il mio cuore in preda alle afflizioni, alle mestizie, ai travagli.
-Godo di non godere, perchè a quella mensa dell’eternità
-che mi aspetta, deve precedere in questa vita il digiuno.
+« Quale privilegio mi accordi dandomi da soffrire! Ah, l'eternità non sarà troppo lunga per ringraziarti. Perchè tanta predilezione? È un segreto che Tu ci rivelerai nella Patria, il giorno in cui asciugherai tutte le nostre lacrime.
 
-«Tutto è poco, Dio mio, per conquistare te, in cui è
-ogni bene; e nessuna fatica mi deve parer dura, nè devo
-tornare indietro per le difficoltà che potrò incontrare, ma
-voglio abbracciare le amarezze e ogni sorta di croci con
-prontezza » (cfr. T.M. Sp. pp. 324, 304, 132, 128, 131).
+« Sei Tu, o Signore, che vieni a chiedermi in elemosina questa tristezza, questa prova... ne hai bisogno per le anime, per la mia anima. O Gesù, da quando mi hai fatto comprendere che mi avresti dato delle anime mediante la croce, quanto maggiori sono le croci che incontro, tanto più si fa viva in me la brama di patire.
 
-«Vi è forse alcuna cosa, o Signore, fra tutte quelle che
-fai, la quale non sia diretta al maggior bene dell'anima che
-consideri ormai come tua, essendosi essa sottomessa al tuo
-volere, per seguirti dovunque, fino alla morte di croce,
-determinata ad aiutarti a portarla e a non lasciarti mai
-solo?... Voglio dunque fidarmi della tua bontà... Conducimi per dove meglio ti piace; non sono più mia, ma tua,
-Fa' di me, o Signore, uello che vuoi; ti chiedo soltanto
-che non abbia più ad RR Voglio patire, o Signore,
-giacchè hai patito anche Tu » (cfr. T.G. Vi. 11, 12),
+« Sono felice di non essere liberata dalle sofferenze di quaggiù; il dolore unito all'amore è la sola cosa che mi sembra desiderabile in questa valle di lacrime » (T.B.G. *Lt.* 32, 50, 23, 40, 58, 224; *St.* 7).

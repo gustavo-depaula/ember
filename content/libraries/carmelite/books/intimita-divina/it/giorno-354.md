@@ -1,107 +1,23 @@
-## 354 — L'AIUTO DIVINO
+## 32 — L'AMORE PURIFICANTE
 
-### Presenza di Dio
-
-O Signore, che mi previeni, accompagni e sostieni con la tua grazia, fa' che questa grazia in me non sia vana.
+**Presenza di Dio.** — *O Signore, aiutami a spalancare l'anima mia all'invasione del tuo amore purificante.*
 
 ### Meditazione
 
-Pietra) «Se l'anima cerca Dio, molto più il suo amato
-Signore cerca lei: e se ella gli dirige i suoi desideri amorosi,... Egli pure da parte sua le invia il profumo dei suoi
-unguenti, con cui l'attrae e la fa correre verso di lui»
-(G.C. F. 3% 28). Nel suo sforzo per giungere all'unione,
-l'anima non è mai sola: Dio stesso le va incontro quasi
-porgendole la mano e attirandola a sè per mezzo delle
-sante ispirazioni che le illuminano la mente e dei tocchi
-interiori che le infiammano la volontà. Queste ispirazioni
-e tocchi divini non sono altro che l'attuazione dei doni
-dello Spirito Santo, mediante i quali Dio prende Ja direzione dell'anima e lavora in lei prima per purificarla e
-disporla all'unione e poi per unirla effettivamente a sè per
-mezzo dell'amore, È molto consolante pensare che questa
-ricchezza di aiuti divini rientra nella linea normale dello
-sviluppo della vita della grazia e quindi s'incontra anche
-sola via ordinaria della santità; è questo il patrimonio che
-io tiene preparato per ogni anima, chè si:
-nel darsi isti ca: isa LIA
+**1** — Una delle più grandi grazie che Dio può fare ad un'anima è appunto quella d'introdurla nelle pene desolanti della notte dello spirito, perché proprio in tal modo Egli la prepara e la dispone all'unione. Benché, per l'anima che ne sperimenta le strette dolorose, questa notte possa sembrare un castigo di Dio, essa è invece un dono del suo amore misericordioso che in tal modo vuole distragarla dagli ultimi lacci delle sue imperfezioni. S. Giovanni della Croce dichiara espressamente che questa notte è opera «della sapienza amorosa di Dio » la quale, purgando l'anima, «la dispone all'unione di amore » *(N.* II, 5, 1). Ma se è opera dell'amore, come mai è così dolorosa? Accade all'anima qualcosa di simile a quello che si verifica per un pezzo di legno verde messo ad ardere; prima di tutto il fuoco comincia a cacciarne fuori l'umidità, «di poi lo annerisce e gli fa tramandare anche cattivo odore; e mentre a poco a poco lo dissecca, ne trae la luce e toglie tutti gli spiacevoli ed oscuri accidenti, contrari al fuoco. Finalmente, comincia a riscaldarlo al di fuori, l'infiamma, lo trasforma in sé, rendendolo tanto bello quanto il fuoco stesso ». Parimenti, l'amore divino «prima di unire e trasformare l'anima in sé, la purga da tutte le qualità contrarie. Le cava fuori le sue sozzure e la rende brutta e nera, tanto da sembrare peggiore, più abominevole di prima » *(ivi,* 10, 1 e 2). Si comprende facilmente come sotto il torcchio di simile purificazione l'anima debba soffrire, eppure tutto ciò è opera dell'amore. La Sapienza amorosa di Dio, investendo l'anima ancora imperfetta, deve necessariamente cominciare a compiere in lei un lavoro di demolizione, di purificazione e, solo quando l'avrà così liberata da tutto ciò che è contrario all'amore divino, l'unirà a sé e in sé la trasformerà. Allora l'opera dell'amore non sarà più penosa per l'anima, ché anzi le sarà molto soave e deliziosa, ma finché essa non è totalmente purificata, non può non esserle motivo di afflizione. Benedetta afflizione che la dispone a un bene così grande! «O anime che desiderate di andar sicure e consolate nelle cose dello spirito! — esclama S. Giovanni della Croce — Se voi sapete quanto vi è necessario soffrire per ottenere questa sicurezza e consolazione..., non cerchereste consolazioni in alcun modo, né da Dio, né dalle creature. Che anzi sopportereste la Croce e, abbracciata ad essa, desiderereste bere là il fiele e il puro aceto, ed avreste ciò a grande fortuna vostra » *(F.* 2, 28).
 
-Biso; dunque concludere con S.- Giovanni della
-Croce che, se sono così pochi quelli che giungono davvero alla perfetta unione, « ciò avviene, non perchè Dio
-voglia che pochi siano gli spiriti elevati » o pe sia
-avaro dei suoi soccorsi, «ma perchè trova pochi vasi capaci di un'opera sì sublime » (F.2, 27), ossia trova poche
-anime generose.
+**2** — Più saremo intimamente convinti che la purificazione è opera dell'amore, più sapremo abbracciarla con coraggio e farle lieto viso anche quando ci costa molto. Del resto, la legge generale dell'amore perfetto — anche dell'amore umano — è proprio questa: non tollerare divisione di affetti, non tollerare rivali, non sopportare disarmonie fra coloro che si amano. Se l'amore umano, tanto limitato e debole, ha tali esigenze di totalità, perché non riconosceremo gli stessi diritti, anzi, diritti infinitamente maggiori, all'amore divino?
 
-Se, dopo molti anni di vita spirituale, ci troviamo ancora lontano dall'unione con Dio, non possiamo davvero
-attribuirlo alla scarsezza degli aiuti divini, ma dobbiamo
-incolpare unicamente la nostra mancanza di generosità c
-di fedeltà alla grazia. S. Teresa dichiara con forza: «La
-vera unione si può sempre ottenere sforzandosi di acquistarla col sottomettere la propria alla volontà di Dio ».
-E, pur riconoscendo che « ciò non si può fare se non a
+L'amore tende per sua natura all'uguaglianza: o trova o rende uguali gli amanti; e Dio, vedendo in un'anima di buona volontà, che gli si vuol dare interamente, l'ama al punto di volerla rendere simile a sé, perciò la spoglia di tutto quello che contrasta con la sua perfezione infinita e, a misura che la spoglia, la riveste di sé, la riveste di vita divina.
 
-rezzo di grandi lotte», assicura: «nessun dubbio che
-vi sì possa giungere purchè l'unione con la volontà di
-Dio sia vera » (M.V, 3,305).
-
-2 — «Per arrivare all'unione non è necessario che il
-Signore ci dia grandi consolazioni: basta quello che ci
-ha dato nell'aver mandato suo Figlio ad insegnarcene la
-strada » (T.G. M.V,3:7). Gesù ci basta! Egli che, non
-solo ci ha mostrato la via dell'unione divina, ma ci ha
-anche procacciato i mezzi per conseguirla.
-
-Gesù lava e purifica le anime nostre col suo Sangue,
-le nutre con la sua Carne, le ammaestra con i suoi insegnamenti; Gesù ogni giorno e migliaia di volte al giorno,
-rinnova sull'altare il suo Sacrificio in nostro favore; Gesù, glorioso alla destra del Padre, sempre intercede per
-noi ottenendoci e distribuendoci le ie secondo le nostre necessità; Gesù ci invia lo Spirito Santo, il suo Spirito, affinchè ci guidi nel cammino della santità; Gesù ci
-dona la madre sua, Maria santissima, affinchè sia la madre
-nostra, nostro rifugio e sostegno nelle ore difficili. Che
-cosa Vico di più? Forse perchè tali grazie rientrano
-nel quadro delle grazie comuni concesse ad ogni anima,
-
-dobbiamo ritenerle meno preziose? Oh, se fossimo yeramente convinti dell'efficacia di questi mezzi di santificazione non andremmo in cerca di altro e, anzichè poro
-tare chissà quali favori straordinari per deciderci a darci
-del tutto a Dio, ci applicheremmo a corrispondere con
-grande fedeltà alle grazie che Egli ogni giorno ci offre
-con immensa larghezza e così giungeremmo sicuramente
-alla meta.
-
-«Facciamoci coraggio — ci esorta Teresa d'Avila —
-e siccome un po' di cielo lo possiamo godere fin da questa vita, supplichiamo il Signore di concederci di non rimanerne prive per nostra colpa » (ivi, 1,2). Il cielo che
-possiamo godere fin da quaggiù è appunto lo stato di
-unione con Dio, in cui l'anima, perfettamente conformata al volere divino, gode una gran pace anche in mezzo
-agli inevitabili dolori della vita, riposando sempre abbandonata fra le braccia della divina Provvidenza. A questo
-felice stato tutti possiamo giungere purchè siamo ben decisi a seguire la strada che Gesù stesso ci ha indicato
-cendo: «Se uno mi ama, osserverà la mia parola... Siete
-miei amici, se fate quel che vi comando » (Gv. 14, 23; 151
-14); strada che Egli ha percorso, non volendo altro cibo
-fuorchè adempiere la volontà del Padre suo e facendo
-sempre quello che a lui piace, Seguiamo Gesù, affidiamoci alla sua guida e lui, che è la via, la verità e la vita,
-ci condurrà alla sospirata unione.
+L'amore tende per sua natura all'unità, vuole la piena fusione dei cuori; e Dio, il quale ama infinitamente le anime che lo cercano con affetto sincero, nulla più desidera che unirle a sé e quindi le va purificando da ogni macchia che impedirebbero la perfetta unione con la sua purezza infinita. Gesù stesso, nell'ultima Cena, ha espresso il supremo desiderio del suo amore per noi chiedendo appunto questa unione perfetta: «Come Tu, Padre, sei in me e io sono in te, anch'essi siano uno in noi » *(Gv.* 17, 21). Ma poiché, viziati dal peccato e pieni di ogni miseria, ne eravamo radicalmente incapaci, Egli ha preso su di sé i nostri peccati e li ha lavati nel suo Sangue. La Passione di Gesù ci dice quanto è costata al Figlio di Dio la nostra purificazione. E se tanto è costata a lui, innocentissimo, non sarà giusto che ci costi un poco anche a noi, colpevoli, che tante volte lo abbiamo offeso Dio, che tante volte, con la nostra cattiva volontà, abbiamo posto ostacolo all'invasione del suo amore nell'anima nostra? Ora che questo amore divino, invece di abbandonarci come meriteremmo, ci viene incontro per purificarci, vorremo fuggire alla sua azione? No, non deve essere così! Alla stessa guisa che le sofferenze purificatrici sono ope-ra dell'amore di Dio per noi, così vogliamo che l'accettazione di esse sia prova del nostro amore per lui. «Il vero amore consiste nello spogliarsi di tutto ciò che non è Dio » *(G.C.S.* II, 5, 7).
 
 ### Colloquio
 
-«O Gesù, in quelle sparole con cui dicesti essere
+«O Signore, ricordati di me che giaccio nelle tenebre e nell'ombra della morte e risuscita questa creatura tua con l'amor tuo che è il mio spirito vitale. Fa' che il fuoco divino del tuo amore consumi in me tutti i cattivi umori degli affetti terreni e che nel mio cuore rimanga un unico affetto tutto rivolto alla tua bellezza e bontà infinita.
 
-tuo cibo fare la volontà del Padre tuo, ci hai mostrato
-che la tua volontà era la sua e la sua volontà era Ja tua
-e, avendo con lui una sola volontà, ci hai dichiarato esser Tu uguale al Padre ed una sola cosa con lui. Ma di
-più ci hat insegnato in quale maniera anche noi possiamo
-diventare, per grazia ed in certo qual modo, uguali a
-Dio ed una cosa sola con lui. Lo possiamo, facendo la
+«O Gesù, l'immenso amore con cui mi attiri per unirti a te desta in me una viva sollecitudine di riamarli. Per questa ragione dall'intimo del cuore io grido a te e ti supplico, per le fiamme dell'immensa carità con cui mi amasti e t'incarnasti per me, di mandarmi lo Spirito Santo, Fuoco divino che illuminò la Chiesa madre mia e sposa tua, affinché mi illumini e mi converta rinnovando la faccia dell'anima mia. Venga, o dolcissimo Figlio di Dio, questo Spirito divino, al quale spalancho tutto il cuore mio, affinché riformi me, deformato dal peccato, e mi trasformi nella bellissima forma e grazia tua.
 
-sua volontà, la quale deve essere la regola e il polo verso cui, come ago calamitato, la volontà nostra sempre miri; e quando ci discostiamo anche per poco dalla volontà
-divina, perdiamo Moe uguaglianza e questa unione.
+«Questa è la domanda mia, o Signore, e per essere esaudito mi offro al fuoco e all'acqua di tutte le tribolazioni e a tutti i tormenti di questa vita. Per questo mi sveglio di buon'ora e mi appresto con la preghiera e a sacrificarmi a te nella vigilia mattutina. Per questo ti supplicherò nel silenzio della notte e batterò alle porte della clemenza tua. Gli occhi miei parleranno a te con lacrime e non prenderò alcun riposo fino a che non soddisfai il desiderio mio.
 
-«O Signore, degnati di unirmi tutta a te come novella sposa, Togli da me la mia volontà e tutti i miei desideri, in modo che nulla possa nè desiderare, nè volere,
-se non quello che Tu vuoi. Rendi la mia volontà tanto
-conforme ed unita alla volontà tua, sì che da me non
-possa volere più nulla e più non mi curi nè di morire,
-nè di vivere, ma solo voglia quello che è volontà tua.
-
-« Dio mio, quando ti avrò offerto la mia volontà in
-tutto 'e per tutto, Tu me la renderai, poichè quando la
-volontà mia non sarà più mia, ma tutta te l'avrò donata,
-allora ti contenterai che io la faccia in tutte le cose, giacchè non sarà più mia, ma tutta tua » (cfr. S. M; Maddalena de' Pazzi).
-
-«Ricevi, o Signore, l'intera mia libertà. Ricevi la memoria, l'intelletto e la volontà tutta. Quanto ho e possiedo, Tu me l'hai donato: tutto ti restituisco e rimetto interamente al governo della tua volontà. Dammi solo il
-tuo amore con la tua a, e sono ricco abbastanza, nè
-domando più altro» ($ Ignazio di Loyola).
+«Se ti degnerai di esaudirmi mandando il tuo fuoco, ti sacrificherò le primizie degli affetti miei e non servirò più a dei stranieri. Ti loderò in pubblico e in segreto e canterò in eterno le tue misericordie celebrando le vittorie del tuo amore » (Ven. Giovanni di G. M., o.c.d.).

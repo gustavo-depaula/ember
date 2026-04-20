@@ -1,67 +1,49 @@
-## 340 — O AMOR PURIFICANTE
+## 340 — HUMILDADE NO APOSTOLADO
 
 ### Presença de Deus
 
-Ó Senhor, ajuda-me a escancarar minha alma à invasão do teu amor purificante.
+Ó Senhor, imprime em mim um sentido tão profundo da minha indigência, que todo o bem que eu fizer eu o espere de ti e a ti somente atribua todo bem.
 
 ### Meditação
 
-A última graça que Deus concede a uma alma é justamente introduzi-la nas penas desolantes da noite do espírito, porque exatamente assim Ele a prepara e a dispõe para a união.
+A humildade, como é fundamento de toda a vida espiritual, assim também é condição básica de todo apostolado e constitui a parte central do programa de abnegação e de esquecimento de si por ele exigido.
 
-Embora, para a alma que experimenta seu aperto doloroso, essa noite possa parecer um castigo de Deus, ela é, ao contrário, dom do seu amor misericordioso, que assim quer desembaraçá-la dos últimos laços de suas imperfeições.
+Justamente porque o apóstolo está, mais ou menos, colocado no candelabro, precisa mais que os outros proteger o espírito dos fumos do orgulho e da vanglória por meio de profunda humildade.
 
-São João da Cruz declara expressamente que essa noite é obra «da sabedoria amorosa de Deus», a qual, purgando a alma, «a dispõe para a união de amor».
+Percorrendo o Evangelho, é significativo constatar quanto Jesus insistiu nesse ponto na formação de seus Apóstolos. Quando discutiam sobre quem seria o maior no reino messiânico, o Mestre respondeu: «Se não vos converterdes e não vos tornardes como crianças, não entrareis no reino dos céus» (Mt 18,3).
 
-Mas, se é obra do amor, como pode ser tão dolorosa? Acontece com a alma algo semelhante ao que ocorre com um pedaço de lenha verde posto no fogo.
+Noutra ocasião semelhante, quando a mãe de Tiago e João pedia os primeiros lugares para os filhos, replicou: «Quem entre vós quiser ser o primeiro seja vosso servo» (Mt 20,27). E na noite da Última Ceia, ao lavar-lhes os pés, mostrou até onde os apóstolos devem fazer-se servos: «Se eu, Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros» (Jo 13,14).
 
-Primeiro, o fogo começa a expulsar-lhe a umidade; depois a enegrece e lhe faz exalar mau cheiro; enquanto pouco a pouco a seca, traz à luz e remove todos os acidentes escuros e desagradáveis contrários ao fogo.
+Enfim, antes de enviá-los à sua vinha para produzir «frutos abundantes», declarou repetidamente: «Sem mim nada podeis fazer» (Jo 15,5).
 
-Por fim, começa a aquecê-la por fora, inflama-a e transforma-a em si, tornando-a tão bela quanto o próprio fogo.
+Sim, os apóstolos são amigos de Jesus, por Ele escolhidos e destinados a evangelizar o mundo, por Ele prepostos ao governo da Igreja, revestidos da dignidade sacerdotal e do poder de ligar e desligar; ou, se não clérigos, elevados à dignidade de colaboradores da Hierarquia, também chamados a cooperar na salvação das almas. Mas na base de todos esses privilégios e honras estão as grandes palavras: é preciso fazer-se pequeno como criança; sem mim nada podeis fazer.
 
-Do mesmo modo, o amor divino, antes de unir e transformar a alma em si, purga-a de todas as qualidades contrárias. Tira-lhe as sujidades e a torna feia e negra, de modo que parece pior e mais abominável do que antes.
+Ah, se estivéssemos realmente convencidos de que, embora Deus queira servir-se de nós, só Ele tem poder de tornar fecunda nossa ação, só Ele pode produzir frutos de vida eterna, só Ele pode dar a graça às almas, e nós não somos senão instrumentos, tanto mais aptos para a salvação alheia quanto mais nos fazemos pequenos reconhecendo nossa indigência!
 
-Compreende-se facilmente como, sob o lagar de tal purificação, a alma deva sofrer; e, no entanto, tudo isso é obra do amor.
+Que mérito pode reclamar um pincel porque um bom pintor se serviu dele para fazer uma obra-prima? Que mérito pode reclamar o mármore usado por Michelangelo para esculpir seu Moisés? «Não fostes vós que me escolhestes; fui eu que vos escolhi e vos destinei para irdes e dardes fruto» (Jo 15,16).
 
-A Sabedoria amorosa de Deus, investindo a alma ainda imperfeita, deve necessariamente começar nela um trabalho de demolição e purificação; só quando a tiver libertado de tudo o que é contrário ao amor divino, a unirá a si e nela a transformará.
+«Sem mim nada podeis fazer»; diante dessas palavras, quantas ambições, quantos pontos de honra, quantas complacências vãs de si, quantas pretensões de aplauso, quantos desejos de promoção e reconhecimento do próprio valor se quebram como ondas contra os rochedos!
 
-Então a obra do amor já não será penosa para a alma; ao contrário, ser-lhe-á muito suave e deliciosa. Mas enquanto ela não estiver totalmente purificada, não pode deixar de ser-lhe motivo de aflição.
+Jesus não nos diz que sem Ele podemos fazer pouco, mas nada, absolutamente nada; e se na aparência as obras prosperam, os admiradores aumentam, as igrejas e salas se enchem, na realidade nem um grão de graça desce aos corações se Deus não intervém.
 
-Bendita aflição, que a dispõe para um bem tão grande!
+Pobre apóstolo, às vezes tão satisfeito e inchado com teus sucessos! Apesar de capacidades, engenho, estilo brilhante, conversa atraente, títulos e êxitos, diante do apostolado és menor e mais impotente que uma formiga diante de uma altíssima montanha.
 
-«Ó almas que desejais caminhar seguras e consoladas nas coisas do espírito!» exclama São João da Cruz. «Se soubésseis quanto vos é necessário sofrer para alcançar essa segurança e consolação... não buscaríeis consolações de modo algum, nem em Deus nem nas criaturas. Antes, suportaríeis a cruz e, abraçadas a ela, desejaríeis beber ali o fel e o puro vinagre, e teríeis isso por grande fortuna vossa.»
+Reconhece teu nada, refugia-te em Deus, mantém-te fortemente unido a Ele, porque só d’Ele podes tirar a fecundidade de tuas obras.
 
-2 — Quanto mais intimamente estivermos convencidos de que a purificação é obra do amor, tanto mais saberemos abraçá-la com coragem e recebê-la com alegria, mesmo quando muito nos custa.
+Encarregada da educação das noviças, Santa Teresinha exclamava: «Vedes, Senhor, que sou pequena demais para alimentar vossas filhas; se quereis dar a cada uma por meu intermédio o que lhe convém, enchei minha mão, e eu, sem deixar vossos braços e sem voltar-me para outro lado, distribuirei vossos tesouros à alma que vier pedir-me alimento.»
 
-Aliás, a lei geral do amor perfeito — também do amor humano — é precisamente esta: não tolerar divisão de afetos, não tolerar rivais, não suportar desarmonias entre os que se amam.
+Eis a atitude que todo apóstolo deve assumir. Aliás, quanto mais alta, importante e delicada for sua missão, tanto mais necessária é essa humilde consciência da própria indigência, esse recurso confiante a Deus, esse manter-se continuamente unido a Ele.
 
-Se o amor humano, tão limitado e fraco, tem tais exigências de totalidade, por que não reconheceremos os mesmos direitos, e direitos infinitamente superiores, ao amor divino?
+Se Deus não se serve de nós para realizar obras grandes, não será talvez porque, não estando suficientemente convencidos do nosso nada, poderíamos roubar-lhe a glória, atribuindo o sucesso ao nosso mérito? Se nossa atividade apostólica dá poucos frutos, não será talvez porque, confiando demais em nós mesmos, não nos preocupamos bastante em manter-nos unidos a Deus por meio da humildade e da oração?
 
-O amor tende por sua natureza à igualdade: ou encontra ou torna iguais os amantes. E Deus, vendo uma alma de boa vontade que quer dar-se inteiramente a Ele, ama-a a ponto de querer torná-la semelhante a si.
-
-Por isso a despoja de tudo o que contrasta com sua perfeição infinita e, à medida que a despoja, a reveste de si, reveste-a de vida divina.
-
-O amor tende por sua natureza à unidade; quer plena fusão dos corações. E Deus, que ama infinitamente as almas que o buscam com afeto sincero, nada mais deseja do que uni-las a si e, portanto, vai purificando-as de toda mancha que impediria a perfeita união com sua pureza infinita.
-
-O próprio Jesus, na Última Ceia, exprimiu o desejo supremo de seu amor por nós pedindo justamente essa união perfeita: «Como Tu, Pai, estás em mim e eu em Ti, que também eles sejam um em nós» (Jo 17,21).
-
-Mas, como viciados pelo pecado e cheios de toda miséria éramos radicalmente incapazes disso, Ele tomou sobre si nossos pecados e os lavou no seu Sangue. A Paixão de Jesus nos diz quanto custou ao Filho de Deus nossa purificação.
-
-E se tanto custou a Ele, inocentíssimo, não será justo que custe um pouco também a nós, culpados, que tantas vezes ofendemos a Deus e tantas vezes, com nossa má vontade, pusemos obstáculo à invasão de seu amor em nossa alma?
-
-Agora que esse amor divino, em vez de abandonar-nos como mereceríamos, vem ao nosso encontro para purificar-nos, quereríamos fugir de sua ação? Não, não deve ser assim.
-
-Assim como os sofrimentos purificadores são obra do amor de Deus por nós, assim também queremos que a aceitação deles seja obra e prova do nosso amor por Ele.
-
-«O verdadeiro amor consiste em despojar-se de tudo o que não é Deus» (São João da Cruz).
+«Permanecei em mim» — repete-nos Jesus. «Como o ramo não pode dar fruto por si mesmo... assim também vós, se não permanecerdes em mim» (Jo 15,4). Não basta que o apóstolo permaneça unido a Jesus pelo estado de graça; deve permanecer também por profunda humildade, que lhe faz sentir que não pode fazer nada, absolutamente nada, sem seu auxílio contínuo.
 
 ### Colóquio
 
-«Ó Senhor, lembra-te de mim que jaz nas trevas e na sombra da morte e ressuscita esta tua criatura com teu amor, que é meu espírito vital. Faze que o fogo divino do teu amor consuma em mim todos os maus humores dos afetos terrenos e que em meu coração permaneça um único afeto, todo voltado para tua beleza e bondade infinitas.
+«Ó Senhor, Tu queres que no meu apostolado eu sinta e reconheça meu nada; mas ao mesmo tempo queres que eu me deixe tomar e usar por ti para cumprir a missão que me confias e depois voltar à sombra, calar, não me vangloriar e dizer: *servi inutiles sumus*; sou serva inútil, sem ti nada posso fazer.
 
-«Ó Jesus, o imenso amor com que me atrais para unir-me a ti desperta em mim viva solicitude de amar-te de volta. Por isso, do íntimo do coração eu clamo a ti e te suplico, pelas chamas da imensa caridade com que me amaste e te encarnaste por mim, que me envies o Espírito Santo, Fogo divino que iluminou a Igreja, minha mãe e tua esposa, para que me ilumine e me converta, renovando a face da minha alma.
+«Ó Senhor, ajuda-me a fugir do louvor, a fugir do aplauso das criaturas; ajuda-me a agir sempre com reta intenção, visando apenas ao teu beneplácito. Peço-te que mantenhas longe de mim os defeitos que podem desviar-me de agir unicamente para agradar-te: ostentações, cumprimentos, adulações, desejo de fazer bela figura, de ser agradável aos outros. Que eu jamais busque minha glória, mas só a tua. Tudo para agradar-te, nada para satisfazer a mim mesma!» (Ir. Carmela do Espírito Santo, O.C.D.).
 
-«Venha, ó dulcíssimo Filho de Deus, este Espírito divino, ao qual escancaro todo meu coração, para que reforme a mim, deformado pelo pecado, e me transforme na tua belíssima forma e graça.
+«Peço-te, Senhor meu, que dirijas para ti o coração e a vontade dos teus apóstolos, para que te sigam, Cordeiro imolado, pobre, humilde e manso, pelo caminho da santíssima cruz, ao teu modo e não ao deles. Expulsa de seus corações as trevas e dá tua luz; seca neles o úmido do amor-próprio e faça ficar o fogo da tua caridade.
 
-«Este é meu pedido, ó Senhor, e para ser atendido ofereço-me ao fogo e à água das tribulações e a todos os tormentos desta vida. Por isso me levanto cedo para prevenir-te com a oração e sacrificar-me a ti na vigília da manhã. Por isso te suplicarei no silêncio da noite e baterei às portas da tua clemência.
-
-«Se te dignares ouvir-me enviando teu fogo, sacrificarei a ti as primícias dos meus afetos e nunca servirei a deuses estranhos. Louvar-te-ei em público e em segredo e cantarei eternamente tuas misericórdias...»
+«Faze que, com caridade ordenada, busquem a salvação de todos, dispondo-se a dar a vida pelo bem das almas. E sejam criaturas angélicas, anjos terrestres nesta vida e lâmpadas ardentes na santa Igreja!» (cf. Santa Catarina de Sena).

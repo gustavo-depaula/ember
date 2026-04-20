@@ -1,100 +1,29 @@
-## 342 — DISEGNI DI PACE E DI AMORE
-*XXIII domenica dopo Pentecoste*
+## 20 — IL PERDONO
 
-### Presenza di Dio
+*XXI Domenica dopo Pentecoste*
 
-O Signore, compi in me i tuoi disegni di pace e di amore, facendomi risorgere ad una vita pienamente fervorosa.
+**Presenza di Dio.** — *O Signore, insegnami a perdonare con generosità e simi largo del tuo perdono.*
 
 ### Meditazione
 
-santità, ci ritroviamo sempre pieni di miserie, sempre in
-debito con Dio €, giustamente, avvicinandoci a lui, l'anima nostra trepida: come ci accoglierà? non ci respingerà da sè? Ma la risposta è così diversa da quella che meriteremmo: «Le mie intenzioni sopra di voi, dice il Signore, sono intenzioni di pace e non di aftlizione. Voi
-m'invocherete ed io vi esaudirò. Vi ricondurrò dal luoo della vostra schiavitù ». Queste consolanti parole, che
-leggiamo oggi nell'Introito della Messa, spalancano il nostro cuore alle più dolci speranze: malgrado tutto, Dio
-ci ama, Dio ci è sempre Padre c vuole liberarci dalla schiavitù delle nostre passioni, delle nostre debolezze. Spontanea allora sale alle labbra l'umile invocazione della Colletta: «O Signore, la tua benignità ci liberi dalle catene
-del peccato che per la nostra fragilità abbiamo contratto ».
-L'umiltà, il riconoscimento sincero dei propri torti è sempre il punto di partenza per la conversione.
-Della conversione ci parla S. Paolo nell'Epistola (F#. 3,
-17-2154, 1-3): «Molte volte vi dicevo, e anche ora pianendo ve lo dico, molti procedono da nemici della croce
-di Cristo... e non hanno altro pensiero che alle cose ter
-rene». Praticamente, tutte le volte che sfuggiamo il sacri
-ficio, che protestiamo di fronte al dolore, che andiamo in
-cerca di soddisfazioni egoistiche, ci comportiamo da nemici della croce di Gesù e così la nostra vita diventa troppo terrestre, FIDO legata alle creature, troppo pesante
-per tendere al cielo. Dobbiamo convertirci, dobbiamo svincolarci, dobbiamo ricordare che « la nostra cittadinanza è
-nei cieli », e perciò è necessario abbracciare di buon volere le fatiche del viaggio di ritorno alla patria beata. Per
-incoraggiarci S. Paolo ci mette davanti gli splendori della
-vita eterna: « Gesù Cristo trasformerà il corpo della nostra miseria sì che sia conforme al corpo della sua gloria », Ecco «le intenzioni di pace », ecco i grandi disegni
-di amore che il Padre celeste ha sopra di noi: liberarci
-dalla schiavità del peccato e conformarci al Figlio suo fino a renderci partecipi della sua gloriosa risurrezione. In
-tenzioni meravigliose, ma che non si realizzeranno se noi
-non le asseconderemo. «Per conseguenza, o fratelli miei
-cari e desideratissimi, allegrezza e corona mia — supplica
-l'Apostolo — rimanete così fermi nel Signore ». Fermi,
+**1** — «Il regno dei cieli è simile a un re, il quale volle regolare i conti con i suoi servitori». Il Vangelo odierno *(Mt.* 18, 23-35) allude al rendiconto che tutti un giorno saremo chiamati a dare; pensiero grave che ci porta a riflettere, come già domenica scorsa, sullo stato della nostra coscienza. Tuttavia, proseguendo la lettura della parabola, il cuore si conforta: Dio, adombrato sotto la figura del re, si mostra così buono, così misericordioso e compassionevole col povero servo che non può saldare il suo debito: gli condona ogni cosa e lo lascia in libertà.
 
-'ossia stabili nella conversione; fermi nell'umiltà, nella fiducia, nell'amore alla croce.
+Il debito di quel servo non era cosa da nulla: diecimila talenti; ma i nostri debiti con Dio sono assai più rilevanti; essi non sono calcolabili in denaro, né in argento, né in oro, ma vanno calcolati secondo il prezzo del nostro riscatto, il Sangue preziosissimo di Gesù. I nostri debiti sono i nostri peccati, che hanno avuto bisogno di essere lavati dal Sangue di un Dio. Debiti che, in una forma più o meno lieve e nonostante la buona volontà, accresciamo ogni giorno, se non altro con cadute di fragilità, di debolezza. Chi alla fine della giornata può dire di non aver contratto nuovi debiti con Dio? Se al termine della vita Dio ci ponesse davanti il conto esatto del nostro *deficit*, ci troveremmo in una posizione assai più imbarazzante di quella del servo della parabola. Ma Dio è bontà infinita, Egli conosce e compatisce la nostra miseria e tutte le volte che ci presentiamo umiliati davanti a lui riconoscendo i nostri torti, subito ci perdona e ci assolve da ogni debito. Dio è magnifico nel suo perdono: non ci rinfaccia le colpe già piante, né tiene più alcun conto di esse; il suo perdono è così grande, così pieno, che non solo annulla i debiti, ma ne distrugge anche il ricordo, come se non fossero mai esistiti. Gli basta vederci pentiti e ogni piaga, anche la più cancrenosa e la più ributtante, viene sanata e distrutta dal Sangue preziosissimo di Gesù. Il Sangue di Cristo è come un mare infinito che ha il potere di lavare e di distruggere i peccati di tutta l'umanità, purché sinceramente detestati; ogni giorno, ogni momento possiamo prendere il fardello più o meno greve delle nostre colpe, delle nostre infedeltà e farlo sparire in questo oceano di grazia e di amore, sicuri che non ne rimarrà alcuna traccia.
 
-vente di quella trasformazione che Dio vuol compiere in
-noi, è un esempio del modo con cui Egli attua le sue intenzioni di pace in coloro che vanno a lui con cuore umile e fiducioso. Anzitutto l'emorroissa: il suo male è tenace, da dodici anni resiste a qualsiasi rimedio; la povera
-donna, umiliata e vergognosa, non osa, come gli altri malati, presentarsi direttamente a Gesù, d'altra parte la sua
-fede è così grande per cui pensa: « Se io riesco a tor
-re anche solo la sua veste, sarò guarita »; gli si avvicina
-furtivamente e sfiora il lembo Sell'abito, Gesù avverte
-quel tocco leggero c, voltandosi dice: «Sta di buon animo, o figlia, la tua fede ti ha guarita ». Nessuna domanda, nessuna supplica esterna, ma ciò che commuove il Signore è la preghiera di quel cuore umile, confidente, pieno di fede
+**2** — La seconda parte della parabola parla del nostro perdono. Tornando a casa, quel servo fortunato, che era stato sciolto da ogni debito, incontra un suo conservo che gli doveva cento denari, somma veramente infima in confronto ai diecimila talenti che erano stati a lui condonati; ma egli, che era stato trattato con tanta pietà, non dimostra alcuna per il suo simile, non ascolta né suppliche, né lacrime, anzi «va e caccia in prigione [il suo conservo] finché non abbia pagato il debito».
 
-Come Gesù ha sanato l'emorroissa, così vuole sanare
-le anime nostre, ma attende disposizioni simili a quelle di
-lei, Noi ci accontentiamo troppo di preghiere a fior di
-labbra mentre il cuore è freddo e assente; Gesù, invece,
-guarda il cuore e vuole la preghiera del cuore: grido di
-umiltà, di confidenza, grido che va dritto a colpire il suo
-Cuore divino. Del resto, quanto siamo più fortunati noi
-che l'emorroissa! Lei riuscì una sola volta a toccare il
-lembo della veste di Gesù, mentre l'anima nostra ogni
-giorno, mediante la S. Comunione, viene in contatto col
-Suo Corpo e col suo Sangue. Oh, se avessimo tanta fede
-quanto un granello di senapa!
+Mentre poco prima ci siamo commossi per la bontà del padrone, ora ci sdegniamo per la crudeltà del servo. Eppure, benché arrossendo, dobbiamo riconoscere che, come la bontà del padrone è l'immagine della misericordia di Dio sempre pronto al perdono, così la crudeltà del servo è l'immagine della nostra durezza, della nostra avarizia nel perdonare il prossimo. Purtroppo è proprio così: noi che abbiamo bisogno del perdono di Dio più ancora che del pane quotidiano, siamo tanto duri, tanto esigenti verso i nostri simili, tanto difficili all'indulgenza e al perdono. Che cosa sono i debiti che il prossimo può avere con noi in confronto a quelli che noi abbiamo verso Dio? Certo infinitamente meno di pochi denari in confronto a diecimila talenti, poiché si tratta di un'offesa recata ad una creatura miserabile in paragone dell'offesa recata alla maestà infinita di Dio. Ma ecco il contrasto: Dio perdona, dimentica, annulla interamente i nostri gravi debiti, né cessa di amarci e di beneficarci malgrado le nostre continue infedeltà; noi invece solo a grande stento riusciamo a perdonare qualche piccolo torto, e, pur perdonando, non sappiamo dimenticare interamente, sì che, presentandosene l'occasione, siamo pronti a rinfacciarlo. E che cosa sarebbe se il prossimo commettesse ogni giorno a nostro riguardo tante infedeltà e indelicatezze, quante sono quelle che noi commettiamo verso Dio? Oh, quanto è misero e stretto il nostro perdono!
 
-Segue il secondo miracolo. La figlia
-malata, è morta; ma per Gesù non è più difficile risuscitare un morto che sanare un malato. Egli, da vero Signore della vita e della morte, « prese per mano la fanciulla
-e questa si alzò ». Gesù è la nostra risurrezione, non solo
-per la vita eterna, quando ad un suo cenno il nostro corpo risorgerà glorioso e si ricongiungerà all'anima, ma è
-la nostra risurrezione anche in questa vita: risurrezione
-dalla morte del peccato alla vita della grazia, risurrezione
-da una vita tiepida ad una vita fervorosa, da una vita fervorosa ad una vita santa.
-
-Con l'umiltà e la fiducia dell'emorroissa accostiamoci
-a Gesù e preghiamolo di cuore di compiere in noi i suoi
-disegni di amore, strappandoci dalla grigia mediocrità di
-una vita spirituale, ancora inceppata dai lacci dell'egoismo,
-per slanciarci decisamente verso la santità,
+La parabola riferisce il castigo che il padrone inflisse al servo crudele: «sdegnato, lo diede in mano ai manigoldi fintantoché non avesse pagato tutto il suo debito»; quindi segue la conclusione: «Così farà con voi il Padre mio celeste, se ognuno di voi non perdonerà di cuore al proprio fratello». Se vogliamo che Dio sia largo con noi del suo perdono, dobbiamo essere larghi del nostro con il prossimo; nella misura in cui perdoneremo saremo perdonati. È quanto dire che noi stessi diamo a Dio la misura esatta della misericordia che deve usare a nostro riguardo.
 
 ### Colloquio
 
-«O Signore, come ricompensiamo male la tua amici
-zia, quando torniamo così presto ad essere tuoi mortali
-nemici! Ah, ch'è veramente grande la tua misericordia!
-Si può forse trovare un amico più paziente di te? Se anche una volta sola ciò dovesse avvenire fra due amici,
-non ne perderebbero il ricordo tanto facilmente, nè più
-così stretta come prima rimarrebbe certo la loro amicizia.
-Invece, quante volte noi manchiamo verso di te! Eppure
-da quarti anni Tu continui ad aspettarci! Sii benedetto,
-o mio Signore e mio Dio, che ci sopporti con tanta compassione da far credere che dimentichi la tua grandezza
-per non castigare un così nero tradimento come si merital » (T.G. P. 2, 19).
+«Chi è, o Signore, che non sia debitore verso di te? Chi è che non abbia per debitore qualche fratello? Perciò nella tua giustizia hai stabilito che la tua regola di condotta verso di me, tuo debitore, fosse quella seguita da me con chi è debitore a mio riguardo. Dunque, poiché anch'io ho peccato — e quanto! — devo essere indulgente con chi mi chiede perdono. Verrà, infatti, il momento della preghiera e allora dovrò dirti: 'Rimetti a me, o Signore, i miei debiti'. E come? La condizione è posta da me, io stesso fisso la legge: 'rimetti come rimetto io'.
 
-«O Gesù, Tu sei la mia pace, perchè per mezzo tuo
-io ho accesso al Padre, perchè è piaciuto al Padre di pacificare col Sangue dell tua Croce tutto ciò che esiste
-sia in terra che in cielo,
+«Due brevi sentenze, o Signore, hai fatto registrare nel Vangelo: 'perdonate e vi sarà dato'. Ecco la mia preghiera: io chiedo perdono a te del mio peccare, e Tu vuoi che vi sia qualcuno a cui perdono io.
 
-«Ecco la tua opera in ogni anima di buona volontà;
-ecco il lavoro che il tuo immenso amore, il tuo eccessivo
-amore, ti spinge a compiere in me. Tu vuoi essere la mia
-pace. Col Sangue della tua Croce pacificherai tutto nel
-piccolo cielo dell'anima mia. Mi riempirai di te, mi seppellirai in te, mi farai rivivere con te la tua stessa vita.
+«Come accatta da me il povero, così io sono il poverello tuo, che sto alla porta del padre di famiglia, anzi mi vi prostro, supplicando con gemiti, per la brama di ricevere qualche cosa, e questo qualche cosa sei Tu. Il povero chiede a me del pane, e io che cosa chiedo a te, se non te stesso che hai detto: 'Io sono il pane vivo disceso dal cielo'?
 
-«O Gesù, se cado ad ogni istante, mi farò rialzare da
+«Per ottenere perdono, perdonerò; rimetterò ad altri, e sarà rimesso a me; volendo ricevere, darò, e mi sarà dato.
 
-te con una fede tutta fiduciosa. E so che mi perdonerai,
-che cancellerai tutto con cura gelosa; ancora di più: mi
-spoglierai, mi libererai da ogni mia miseria, da tutto quanto ostacola l'azione divina, avvincerai tutte le mie potenze che farai tue prigioniere. Allora sarò passata tutta in te.
-Allora potrò dire: * Non vivo più io, il mio Maestro vive
-in me'» (ET. IL 12),
+«È cosa ardua per me perdonare chi mi offende? Ricorrerò alla preghiera. Invece di ribattere ingiurie con ingiurie, pregherò per l'ingiuriatore. Venendomi voglia di rispondergli acerbamente, parlerò a te, Signore, in suo favore. E poi ricorderò che Tu prometti la vita eterna, ma comandi di perdonare al fratello. È come se mi dicessi: 'Tu che sei uomo, perdona ad altro uomo, affinché io che sono Dio, possa venire a te'» (S. Agostino).

@@ -1,93 +1,19 @@
-## 200 — IL SACRAMENTO DELL'UNIONE
+## XXXI — MARIA MEDIATRICE
 
-### Presenza di Dio
-
-O Gesù, che mi nutri col tuo Corpo e col tuo Sangue, fa' che io viva di te, della tua vita.
+**Presenza di Dio.** — *O Maria, come Gesù ha voluto venire a noi per mezzo tuo, fa' che per mezzo tuo io possa andare a Lui.*
 
 ### Meditazione
 
-1. — Nel suo discorso sul « pane di vita» Gesù stesso
-ci ha presentato l'Eucaristia come il sacramento della nostra unione con lui: « Chi mangia la mia carne e beve il
-mio sangue rimane in me ed io in lui» (Gv. 6, 57). E' una
-vera compenetrazione di Cristo in noi e di noi in Cristo.
-Evidentemente, la vita di Gesù e la nostra, la Persona sua
-e la nostra restano distinte e, tuttavia, Egli penetra talmente
-in noi con la sua vita, col suo spirito, con la sua Divinità
-che noi rimaniamo immersi in lui e lui in noi. «Il Corpo
-e il Sangue di Cristo che noi mangiamo — afferma S. Ilario Vescovo — fanno sì che noi siamo in Cristo e Cristo
-in noi. Lui stesso, dunque, è in noi e noi in lui per la sua
-Carne e — conclusione meravigliosa — con lui è in Dio
-tutto ciò che noi siamo». Mai come nel momento della
-Comunione sacramentale noi siamo uniti a Gesù, da lui
-compenetrati, trasformati, deificati e tuffati nella Divinità:
-«con lui è in Dio tutto ciò che noi siamo».
+**1** — La Chiesa ci fa chiudere il mese di maggio con la festa di Maria «*Mediatrice di tutte le grazie*»; questo titolo è un po' la sintesi di quello che la Madonna è per noi nei rapporti con il Figlio diletto: Mediatrice di grazia, di misericordia, tesoriera di tutte le grazie che Gesù ci ha meritato. «Mediante la comunione dei dolori e della volontà tra Cristo e Maria — insegna Pio X — questa ha meritato di diventare la dispensatrice di tutti i benefici che Gesù ci ha acquistati col suo Sangue» *(Enc. Ad diem illum)*. Associata nel modo più intimo e più profondo alla vita, all'opera ed alla Passione del Figlio suo, Maria ha cooperato con Lui alla nostra Redenzione, sì che la grazia, che solo Gesù poteva meritarci di *diritto*, è stata, benché in modo secondario e di pura *convenienza*, meritata anche da Maria. Maria ha ottenuto così un vero potere su tutti i tesori soprannaturali acquistati col Figlio suo e, come insieme con Lui li ha accumulati, così, insieme con Lui ce li dispensa. «Si può affermare — dice Leone XIII — che, secondo la volontà di Dio, niente ci è dato che non passi per le mani di Maria, di modo che, come nessuno può avvicinarsi al Padre onnipotente se non attraverso il Figlio, così nessuno, per così dire, può avvicinarsi a Cristo se non attraverso sua Madre» *(Enc. Octobri mense)*. Accanto e dopo Gesù, *unico Mediatore*, Maria è dunque la Mediatrice e, come Gesù in cielo intercede incessantemente presso il Padre suo in nostro favore, così Maria, insieme con Lui, intercede per noi e ci ottiene e dispensa tutte le grazie di cui abbiamo bisogno. Ben a proposito l'Introito della Messa del giorno applica a Maria ciò che S. Paolo dice di Gesù: «Accostiamoci con fiducia al trono della grazia, per ottenere misericordia e trovare grazia». Sì, dopo Gesù, Maria è veramente «trono della grazia» e tutto può ottenerci dal Figlio suo, Lei che è l'*Omnipotentia supplex*, onnipotente nella sua preghiera di madre.
 
-E' vero, anche mediante la fede e la grazia noi siamo
-uniti a Cristo ed inseriti in lui come suoi membri, ma
-questa unione, iniziata col battesimo, raggiunge la massima pienezza con l'Eucaristia. Per questo sacramento Gesù si unisce a noi così che noi diventiamo uno stesso corpo
-con lui, e non solo mediante la fede, ma effettivamente
-e in realtà» (S. Giovanni Crisostomo). Anche l'unione a
-Cristo per la fede e per la grazia è unione effettiva, reale,
-ma nella Comunione abbiamo di più l'unione fisica con Cristo; allora, sia pure per brevi istanti, lo portiamo in noi
-come Maria SS.ma lo portò per nove mesi nel suo seno
-purissimo. E se a questa unione fisica si congiunge l'unione
-morale, che consiste nella piena conformità della nostra
-volontà, delle nostre aspirazioni alla volontà di Dio, al suo
-beneplacito, la Comunione diventa davvero per noi il momento della massima unione con Dio che possiamo raggiungere su questa terra,
+**2** — Maria è Mediatrice tra noi e il Figlio suo per un duplice motivo: e perché ci *dà* Gesù e perché ci *porta* a Gesù. Il Vangelo più volte ci mostra nell'atteggiamento di portatrice di Gesù agli uomini, atteggiamento tipicamente materno: Maria presenta Gesù Bambino all'adorazione dei pastori e dei magi, Maria porta Gesù al Tempio e lei stessa lo presenta a Simeone; Maria, a Cana, con la sua intercessione ottiene il primo miracolo del Figlio; Maria, sul Calvario, riceve tra le braccia il Corpo esanime e straziato del Figlio diletto, che offre all'umanità quale prezzo del suo riscatto; Maria, nel Cenacolo, invoca la pienezza dello Spirito Santo sugli Apostoli e, quindi, fino al giorno del suo beato transito, sostiene con la sua preghiera e col suo incoraggiamento materno la Chiesa nascente. Dove c'è Maria, c'è Gesù; tutta la ragione dell'esistenza di Maria, tutta la sua missione è così: portare, dare Gesù al mondo ed alle anime, e con Gesù dare anche la sua grazia, i suoi favori. Maria, come dice S. Bernardo, è veramente l'acquedotto che porta all'umanità l'acqua viva della grazia, anzi, più ancora, porta Gesù stesso fonte della grazia.
 
-2. — Ma Gesù va più oltre e, per spiegarci meglio la
-profonda unione che si stabilisce tra lui e l'anima del comunicante, non esita a paragonarla all'unione che esiste fra
-lui e il Padre suo. « Come il Padre, che vive, ha inviato
-me, ed io vivo per il Padre, così chi mangia me, vivrà per
-me» (Gv. 6, 57). Gesù vive perchè il Padre gli comunica
-la vita: tutta la vita di Gesù viene unicamente dal Padre,
-Egli non ha altra vita se non quella che il Padre gli partecipa. Parimenti, chi si nutre dell'Eucaristia vive della vita
-che Gesù gli comunica, ossia vive della vita di lui; vita che,
-senza dubbio, ha già ricevuto per mezzo del battesimo o
-della penitenza, ma che nella Comunione riceve con maggiore immediatezza da Gesù, poichè Egli stesso, in persona, viene a portarla in lui, anzi viene a viverla in lui.
-Gesù vive per il Padre, perchè il Padre è l'unica fonte della
-sua vita; e il comunicante vive per Gesù, perchè Gesù, facendosi suo cibo, diventa nel modo più diretto, più intimo, più profondo la sorgente della sua vita. Ma possiamo
-intendere le parole di Gesù anche sotto un altro aspetto:
-avendo ricevuto tutta la vita e tutto l'essere del Padre, Gesù
-vive per il Padre anche nel senso che vive unicamente per
-la sua gloria, impiegando tutto quel che ha ricevuto da lui
-per compiere la missione che Egli gli ha affidata, per fare
-la sua santa volontà. Così deve essere del comunicante: non
-deve più vivere per sè, non deve più vivere una vita egoistica, una vita ristretta a cure e ad interessi terreni, ma
-deve vivere per Gesù, per i suoi interessi, per la sua gloria.
-Deve vivere di Gesù, fonte della sua vita; deve vivere in
-Gesù che, nutrendolo ogni giorno con la sua Carne, lo stringe, l'unisce più intimamente a sè; deve vivere per Gesù
-impiegando per lui tutte le sue forze e le sue capacità, dandosi totalmente al suo servizio. Quella vita divina che Gesù
-ci comunica deve trovare nell'anima nostra il terreno
-adatto per svilupparsi appieno — terreno sgombro dalla superbia, dall'egoismo, dagli attacchi alle creature — e così
-produrre opere degne di Gesù ed a lui gradite. Come Gesù
-ha vissuto per la gloria del Padre «che lo ha mandato»
-(Gv. 7, 18), così noi dobbiamo vivere per la gloria di Cristo che, facendosi nostro cibo, ci partecipa la sua vita.
+Ma inoltre Maria porta gli uomini a Gesù: lei ci insegna la via per andare al Figlio suo, lei dispone le anime nostre perché gli siano accette. Noi siamo sempre poveri bambini incapaci di offrire a Dio doni presentabili, e Maria è sempre la Mamma che, con materna cura, accomoda, abbellisce i nostri doni, le nostre azioni, le nostre preghiere ed offerte, e con le sue mani li porge al suo Figlio divino. Ma Maria guarda soprattutto i nostri cuori e, da vera Madre nostra, vuol formarli in modo che piacciano a Gesù; Maria vuol formare in ognuno di noi un cuore puro, pieno di amore e di bontà, che possa battere all'unisono con quello del Figlio suo. Mettiamo dunque il nostro cuore nelle mani di Maria, affinché lo riempia «di grazia e di verità, di vita e di virtù» (cfr. Graduale della Messa).
 
 ### Colloquio
 
-«O Signore, fin dove ti conduce il tuo amore? Ti conduce fino a lasciare te stesso alla tua creatura, fino a lasciarle il Corpo e Sangue tuo in cibo e bevanda. E per
-quanto? Oh, Dio mio, Tu stesso l'hai detto: fino alla consumazione dei secoli! Afinchè noi ti possiamo avere non
-una volta sola, non ogni anno, non ogni mese, non ogni
-settimana, no; ma ogni dì, ogni mattina ti possiamo ricevere e, ogni volta che vogliamo, ti possiamo avere dentro
-di noi e starcene con te a nostro piacere. O gran bontà del
-mio Sposo Verbo! O misera me, che ho tante ricchezze e
-ne faccio così poco frutto! Ma è più infelice chi non conosce questo dono e non si cura d'esserne privo per molti
-e molti anni, o chi lo riceve stando in peccato mortale, sì
-che quel Pane di vita diventa per lui cibo di morte. Per
-queste anime ti prego, Signore: non guardare ai loro demeriti, ma alla bontà tua; convertile affinchè riconoscano
-il torto grandissimo che fanno a se stesse, ed all'infinita bontà tua.
+«Signora mia, santissima Madre di Dio, e piena di grazia, oceano inesausto delle divine ed intime liberalità e doni; dopo la Trinità, Signora di tutti, dopo il Paraclito, nuova Consolatrice e, dopo il Mediatore, Mediatrice del mondo intero: guarda la fede mia ed il desiderio ispiratomi dal cielo. Non disprezzarmi perché indegno, né la bruttezza delle mie azioni sospenda l'immensa tua misericordia, o Madre di Dio, o nome che supera ogni mio desiderio!» (S. Efrem Siro).
 
-«Ma quando l'anima, o Signore, ti riceve con le dovute disposizioni si può dire di lei quel che si dice di Maria SS.ma: "beata te, poichè porti nel tuo seno Colui che
-i cieli non possono contenere!' E, siccome Maria è vestita
-di sole, così quest'anima che ti riceve in sè è vestita di sole,
-poichè Sole sei Tu, o Sole di giustizia, Cristo Dio nostro.
+«O Maria, Dio ha posto in te la pienezza di tutti i suoi beni per farci comprendere che ogni speranza, ogni grazia, ogni salvezza ci viene dalla tua sovrabbondanza. Fa', dunque, o Maria, che per mezzo tuo possiamo accedere al Figlio, o benedetta, che hai trovato la grazia, che ci hai dato la vita, madre di salvezza! Fa' che per te ci accolga Colui che per te ci fu donato. Che la tua purezza senza macchia scusi ai suoi occhi le colpe della nostra malizia, che la tua umiltà, così gradita a Dio, ottenga perdono al nostro orgoglio! Che la tua immensa carità copra la moltitudine dei nostri peccati e che la tua gloriosa fecondità renda feconde le nostre opere buone.
 
-«In quanto a me, o Signore, mi par d'esserti più obbligata per avermi lasciato te stesso in cibo, che per avermi
-creata, perchè se mi avessi creata e non m'avessi lasciato
-te che farei? E così mi mostri quanto hai voluto comunicarti a noi, poichè non ti sei contentato di comunicarti agli
-uomini stando in terra trent'anni, ma inoltre volesti lasciarci il Corpo e il Sangue tuo, affinchè noi potessimo stare
-continuamente in te, e Tu in noi. E così, stando nell'anima, Tu la vai, per così dire, deificando, trasformando in
-te, continuamente la vai comunicando e la tieni unita a te »
-
-(S.M. Maddalena de' Pazzi).
+«O Signora, Mediatrice, avvocata nostra, riconciliaci col Figlio tuo, raccomandaci al Figlio tuo, presentaci al Figlio tuo. O benedetta, per la grazia che hai trovato, per i privilegi che hai meritato, per la misericordia che hai messo al mondo, ottienici che Gesù, il quale per tuo mezzo si è degnato di partecipare alla nostra infermità ed alla nostra miseria, ci faccia aver parte, ancora per tuo mezzo, alla sua gloria e alla sua beatitudine» (S. Bernardo).

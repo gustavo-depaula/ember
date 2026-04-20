@@ -1,52 +1,51 @@
-## 322 — RUMO À PÁTRIA
-*XX domingo depois de Pentecostes*
+## 322 — AO ENCONTRO DO ESPÍRITO SANTO
 
 ### Presença de Deus
 
-Ó Senhor, ensina-me o caminho para chegar até ti.
+Vem, Espírito Santo, investe-me com tua ação e conduz-me a Deus.
 
 ### Meditação
 
-Este domingo tem um tom particular, o tom das coisas que caminham para o fim. Dentro de pouco tempo o ano litúrgico terminará e, ao terminar, convida-nos a refletir sobre a caducidade da vida presente e a voltar o olhar para a vida eterna que nos espera.
+1. — Considerando os dons do Espírito Santo e as bem-aventuranças que são seus frutos, compreendemos sempre melhor de que maravilhosas riquezas Deus nos dotou. Desde o dia do batismo, todo cristão possui esses dons preciosos; não é, portanto, temerário desejar que se desenvolvam em nós até a maturidade, de modo que nossa alma possa ser totalmente investida pela ação do Espírito Santo.
 
-Espontaneamente os ânimos se recolhem numa revisão da própria situação: como empregamos o tempo recebido de Deus? No Intróito encontramos a humilde confissão: «Ó Senhor, pecamos contra ti e não observamos teus preceitos»; e na Coleta, o pedido de perdão: «Concede, Senhor, a teus fiéis, aplacado, o perdão e a paz».
+Aliás, com esse desejo vamos ao encontro do próprio desejo de Deus, que nos deu esses dons justamente para que possamos ser movidos e guiados por seu Espírito, «porque os que são guiados pelo Espírito de Deus, esses são filhos de Deus» (Rm. 8, 14). E se nós desejamos ser verdadeiros filhos de Deus, não o deseja talvez imensamente mais o Pai celeste, que justamente para isso nos criou e elevou ao estado de graça?
 
-Depois, São Paulo, na Epístola (Ef 5,15-21), ensina-nos a usar do melhor modo o tempo que nos resta para chegar à glória eterna: «Vede, pois, irmãos, como andais prudentemente: não como insensatos, mas como sábios, remindo o tempo, porque os dias são maus». O Apóstolo explica em que deve consistir nossa sabedoria: «Não sejais imprudentes, mas procurai compreender qual é a vontade de Deus».
+Lancemos, pois, nossas almas a grandes desejos: não, não é demais, não é temerário, não é presunção; Deus o quer: *voluntas Dei, sanctificatio vestra* (1Ts. 4, 3), esta é a vontade de Deus, nossa santificação! Mas, para que nossos desejos não sejam vãos, apliquemo-nos com generosidade sempre crescente a dispor nossa alma à ação do Espírito Santo.
 
-A maior loucura e imprudência que se pode cometer na viagem desta vida é seguir o próprio capricho, a própria vontade; assim se toma um caminho muito perigoso e que nunca conduzirá à meta, ao passo que o único caminho que ali chega é o da vontade de Deus. Quem procura com sinceridade a vontade divina e caminha nela, em vez de ser guiado pelo próprio espírito, é guiado pelo Espírito de Deus, o Espírito Santo, e pode, portanto, estar certo de não se enganar.
+Persuadamo-nos de que, antes de fazer-nos saborear Deus e sua divina união, o divino Paráclito deve realizar em nós uma obra de profunda purificação, porque, como a lenha verde não pode ser penetrada pelo fogo se antes não for secada e purgada de toda umidade, assim a alma não pode ser investida e transformada pelo fogo do amor divino se antes não for purificada de todas as suas imperfeições.
 
-«Enchei-vos do Espírito Santo» — exorta-nos hoje São Paulo — «falando entre vós com salmos, hinos e cânticos espirituais, cantando e salmodiando em vosso coração ao Senhor... sujeitando-vos uns aos outros». Quando uma alma se deixa docilmente guiar pelo Espírito Santo, Ele a toma e a invade até enchê-la de si. Dessa plenitude floresce espontaneamente o espírito de oração; florescem espontaneamente a virtude, a humilde submissão e a concórdia fraterna.
+Disponhamo-nos, portanto, a sofrer com coragem esta purificação indispensável; antes, procuremos nós mesmos antecipá-la, cortando sem piedade todos os fios que ainda nos ligam à terra e, sobretudo, os que nos ligam ao nosso amor-próprio, ao nosso orgulho.
 
-Caminhar na vontade divina, guiados pelo Espírito Santo, é a via mais rápida e segura para chegar à pátria celeste.
+«Ó humildade, humildade!... — exclama Teresa de Jesus — a falta daqueles que não vão adiante [nos caminhos do espírito] está toda aqui», na falta de humildade, «porque a humildade é o fundamento do edifício e o Senhor nunca o elevará muito se esta virtude não estiver verdadeiramente bem firme» (Moradas).
 
-Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
+2. — À generosidade, ao desapego e à humildade unamos a fervorosa oração para invocar a obra do Espírito Santo. Elevemos a ele nossas súplicas com as próprias palavras do hino:
 
-Um oficial do rei, tendo ouvido falar das curas maravilhosas operadas por Jesus, vai até ele e lhe pede que vá à sua casa para «curar-lhe o filho, que está para morrer». Esse homem tem fé na virtude taumaturga do Mestre, mas está bem longe de crer que Ele é o Filho de Deus.
+*Veni, Creator Spiritus...*
+*Accende lumen sensibus, infunde amorem cordibus,*
+*infirma nostri corporis virtute firmans perpeti.*
 
-Jesus compreende e responde: «Se não virdes sinais e prodígios, não credes». Essas palavras, dirigidas historicamente ao oficial e aos seus conterrâneos, valem moralmente para todos os que fazem depender sua fé daquilo que se vê ou se sente. Poucos são os que creem com simplicidade no Evangelho, na Revelação, no magistério da Igreja; a maioria permanece indiferente e só se comove diante de algum fato insólito que impressione os sentidos.
+Na escuridão dos nossos sentidos, temos necessidade de luz interior: que o divino Espírito venha e, acendendo em nós esta luz, nos faça conhecer Deus por meio da contemplação amorosa de suas grandezas. Temos necessidade de caridade: que Ele venha e a infunda em nossos corações, muitas vezes tão áridos e frios, porque cheios de amor-próprio e egoísmo. «O amor de Deus foi derramado em nossos corações pelo Espírito Santo» (Rm. 5, 5); só dele podemos recebê-lo.
 
-É verdade que o Senhor pode servir-se também disso para ajudar nossa fraqueza, mas não é essa a fé que lhe agrada: «Bem-aventurados os que creram sem terem visto» (Jo 20,29), disse a Tomé, que não queria crer senão vendo o sinal dos cravos e pondo o dedo nas chagas.
+Temos necessidade de fortaleza para vencer-nos, para enfrentar as dificuldades, para manter-nos serenos e generosos; que Ele venha sustentar-nos com seus dons e já não seguiremos as tolas exigências do amor-próprio; já não nos deixaremos assustar, impressionar pelo sofrimento e pelas dificuldades; já não perderemos tão facilmente a paz em meio às contradições: fortes de sua fortaleza, poderemos manter aquele equilíbrio interior e aquela serenidade que nos permitirão ser sempre generosos, sempre em ato de dar-nos totalmente a Deus.
 
-O motivo profundo da fé não é a nossa experiência, não é ter visto ou tocado com a mão, mas é a autoridade de Deus. Deus se revelou; Ele não se engana nem pode enganar, e nós cremos com segurança na sua palavra. Crer na palavra de Deus: eis a fé genuína, a fé pura que agrada ao Senhor.
+*Hostem repellas longius, pacemque dones protinus...*
 
-Jesus, que queria conduzir o oficial a essa fé, disse-lhe: «Vai, teu filho vive». «Aquele homem creu na palavra que Jesus lhe dissera e partiu.» Ainda não era a fé sobrenatural no Filho de Deus; contudo, era um ato de fé na palavra do Mestre e, embora imperfeito, produziu seu fruto: o filho foi curado.
+Quando o Espírito Santo nos tiver conduzido àquele perfeito equilíbrio que é a própria santidade, já não teremos nada a temer do demônio; o maligno fugirá para longe e, se alguma vez ainda conseguir perturbar-nos, não poderá fazer mais que chegar ao limiar da sensibilidade, enquanto — sob a válida proteção do Espírito Santo — o fundo de nossa alma permanecerá na paz.
 
-O Senhor não exige mais do que cada um pode dar-lhe. Vendo a boa vontade, vendo o esforço sincero, Ele mesmo intervém para aperfeiçoar a obra. Assim, a fé imperfeita e ainda humana do oficial foi premiada com a cura do filho e, em consequência, sua fé tornou-se sobrenatural: creu em Jesus não mais como em simples profeta ou taumaturgo, mas como no Filho de Deus; «creu ele e toda a sua família».
-
-Nesta vida caminhamos para Deus não na visão, mas na fé. Quanto mais pura for a nossa fé, despojada de elementos humanos, tanto mais agradará a Deus e nos permitirá conhecer e cumprir com amor sua santa vontade.
+O equilíbrio pleno e a paz perfeita são características da vida de união com Deus: o Espírito Santo nos introduzirá e fará progredir nessa união, até fazer-nos penetrar no santuário da vida íntima de Deus, na vida trinitária. Este é o mais belo fruto de sua ação em nossas almas: fruto precioso, penhor da glória eterna, fruto que amadurecerá perfeitamente no céu, na visão beatífica do nosso amadíssimo Deus.
 
 ### Colóquio
 
-«Sê propício a teus filhos, ó Mestre divino, Pai e Senhor. Concede a nós, que seguimos teus preceitos, refletir tua imagem e experimentar, segundo nossas forças, tua bondade e não a severidade do teu juízo.
+«Ó Espírito Santo, tu vais tirando, por assim dizer, da glória do Pai um raio candidíssimo e luminosíssimo de glória e do Verbo Encarnado uma seta ardentíssima e pungentíssima de amor para iluminar e entenebrecer, para ferir e sanar, para acender e refrescar, para aviltar e deslumbrar, para tornar gloriosas as criaturas que te recebem no coração e fazê-las caminhar com amor. E quem poderá dizer quais e quantos sejam teus influxos? São tantos e tantos que são sem número.
 
-«Concede-nos viver todos na tua paz, ser admitidos no teu reino, depois de atravessar sem naufrágio as ondas do pecado, impelidos adiante em plena bonança pelo Espírito Santo, tua Sabedoria inefável, e por Ele guiados noite e dia, até o dia perfeito.
+«Mas onde vais tu infundindo teus dons e tuas graças? Nas almas que encontras dispostas; essas renovas e conduzes ao entendimento de Deus. Que coisa é, então, meu Deus, aquilo que priva a alma do teu Espírito? É o perverso amor-próprio, fonte e origem de todo pecado. Ah, infelizmente, bem vejo como o mundo está todo submerso e afogado no amor-próprio! Quem com o intelecto, quem com a memória, quem com a vontade, quem com toda a alma vai afundando nele.
 
-«Concede-nos, até a última hora, rezar dando graças e dar graças rezando ao único Pai e Filho, Filho e Pai, o Filho educador e mestre, juntamente com o Espírito Santo» (Clemente de Alexandria).
+«E o que mais te desagrada, ó Deus, é que este perverso amor-próprio habite também em teus ministros e em tuas esposas. Não nos pareça pequeno o desordem do nosso amor-próprio, do nosso querer próprio. Não são precisos montes de pecados enormes; basta a areia desses defeitos — que parecem pequenos e não o são — para deter o curso desse rápido rio e oceano da graça!
 
-«Senhor, Tu sabes o que é melhor para mim; faça-se isto ou aquilo, segundo tua vontade. Dá-me o que queres e quando queres. Age comigo como sabes ser melhor, como te agrada, e segundo for para tua maior honra.
+«Ó Espírito Santo, purifica, purifica o mundo inteiro, purifica minha alma do amor-próprio para que mais não volte a ele!» (cf. Santa Maria Madalena de' Pazzi).
 
-«Põe-me onde quiseres e dispõe de mim livremente em tudo. Eu estou em tuas mãos; faze de mim o que julgares. Eis-me aqui, teu servo, disposto a tudo, pois não desejo viver para mim, mas somente para ti, e que ao menos eu possa fazê-lo digna e perfeitamente!
+«Ó Espírito Santo e Santificador, Deus onipotente, amor essencial do Pai e do Filho, vínculo adorável da augusta Trindade, eu te adoro e te amo com todo o meu coração. Fonte inesgotável de graças e de amor, ilumina minha mente, santifica minha alma e inflama meu coração. Deus de bondade e de misericórdia, vem a mim: visita-me, enche-me, permanece em mim, faze do meu coração um templo e um santuário animado onde tu possas receber minhas adorações e minhas homenagens e encontrar tuas delícias.
 
-«Ó benigníssimo Jesus, concede-me que eu possa sempre desejar e querer somente o que te é mais agradável e mais caro; tua vontade seja a minha, e a minha siga sempre a tua e com ela concorde plenamente.
+«Fonte de água viva que jorra até a vida eterna, irriga, dessedenta minha alma que tem sede de justiça. Fogo sagrado, purifica-me, faze que eu arda de tuas chamas e elas em mim jamais se extingam. Luz inefável, ilumina-me; Santidade perfeita, consagra-me; Espírito de verdade, sem ti estou no erro; Espírito de amor, sem ti sou gelo; Espírito de unção, sem ti estou na aridez; Espírito de vida e vivificante, sem ti estou na morte.
 
-«Meu querer e não querer seja sempre igual ao teu, Senhor, de modo que eu não possa desejar ou desprezar senão aquilo que Tu ...»
+«Ó Espírito divino, faze ao meu coração uma doce violência para empenhá-lo a desejar-te, a buscar-te, a obedecer-te, a amar-te e a possuir-te no tempo e na eternidade. Assim seja» (Pe. Aurillon).

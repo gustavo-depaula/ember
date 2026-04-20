@@ -1,89 +1,19 @@
-## 216 — CONCORDIA FRATERNA
-*V Domenica dopo Pentecoste*
+## XVI — IL CUORE DI GESÙ NOSTRO RIFUGIO
 
-### Presenza di Dio
-
-O Signore, insegnami a vivere in perfetta concordia col prossimo, affinchè le mie preghiere e le mie offerte ti siano gradite.
+**Presenza di Dio.** — *O Gesù, degnati d'introdurmi nel tuo Cuore sacratissimo e sia questo il luogo del mio raccoglimento, del mio rifugio, del mio riposo.*
 
 ### Meditazione
 
-1. — Questa domenica potrebbe chiamarsi la domenica della concordia, virtù tanto necessaria per mantenersi
-sempre in fraterni rapporti col prossimo. «Carissimi —
-ci esorta S. Pietro nell'Epistola — siate tutti concordi, compassionevoli, amanti dei fratelli, misericordiosi, modesti,
-umili». L'Apostolo ci parla in modo molto pratico e realistico; egli sa che, data la nostra fragilità e limitatezza, è
-impossibile conservare la concordia, se non sappiamo compatire i difetti altrui, se non sappiamo essere misericordiosi
-con chi ci è causa di dispiaceri, se non sappiamo sopportare
-umilmente qualche torto. Chi, per vivere in perfetto accordo con gli altri, pretende di non ricevere alcuna noia,
-alcun disgusto, di non essere mai contrariato e disturbato,
-ha ben poca esperienza della realtà della vita e dimentica
-che non siamo puri spiriti, ma spiriti limitati dalla materia;
-dimentica che, come dice S. Agostino, «siamo uomini mortali, fragili, infermi, che portiamo vasi di terra (ossia il corpo)
-causa l'un l'altro di angustia », proprio come recipienti
-di terra cotta che, viaggiando in un unico carro, cozzano
-l'un l'altro, recandosi reciproco disturbo. La nostra limitatezza fa sì che abbiamo mentalità, gusti, desideri, interessi
-gli uni diversi dagli altri, per cui non sempre riusciamo a
-capirci e talvolta, pur senza volerlo e senza l'ombra di cattiva intenzione. l'uno agisce in senso opposto all'altro. Il
-rimedio a questi inconvenienti inevitabili è quello suggerito da S. Agostino: se la limitatezza della nostra materia ci
-è causa di reciproca angustia « dilatentur spatia charitatis»,
-si dilatino gli spazi della carità, ossia dilatiamo il cuore in una
-carità più grande per saperci compatire e comprendere a vicenda e, d'altra parte, esercitiamo una maggiore umiltà per
-vincere i risentimenti dell'amor proprio. È anche se qualcuno agisce contro di noi con malanimo dobbiamo saperlo
-perdonare, secondo la parola dell'Apostolo: «non rendete
-male per male, nè maledizione per maledizione; ma invece
-benedite... E anche se aveste a soffrire qualcosa per la giu
-stizia, beati voil... Benedite nei vostri cuori Cristo Signore »
+**1** — Ripetutamente la liturgia della festa e di tutta l'ottava del Sacro Cuore ci presenta il Cuore di Gesù come arca di salvezza, come nostro asilo e rifugio. «Cuore, arca... della grazia, del perdono, della misericordia. Cuore, santuario purissimo della nuova alleanza, tempio più santo dell'antico... Chi non sceglierà in questo Cuore la sua eterna dimora?» canta l'inno delle Lodi. In queste beatissime aperture del Cuore di Cristo «mi rifugerò — esclama S. Pietro Canisio — in esse porterò il mio sicurissimo nido» (*BR.* merc. d. l'ott., lez. VIII). Questa è sempre stata l'aspirazione delle anime contemplative, delle anime di vita interiore: rifugiarsi nel Cuore di Cristo, come nel loro asilo preferito. S. Teresa Margherita del Cuore di Gesù scriveva nei suoi ultimi propositi: «Mio Dio, ora per sempre intendo rinchiudermi nel vostro amabilissimo Cuore come in un deserto, per quivi vivere in voi, con voi e per voi una vita nascosta di amore e di sacrificio» (cfr. *Sp.* p. 324). L'anima che desidera approfondire i misteri di Cristo, che desidera intendere qualche cosa del suo amore infinito non può trovare miglior mezzo che penetrare nel suo Cuore o, come si esprime S. Giovanni della Croce, «nascondersi nel petto del suo Amato, poiché in questo pertugio Egli l'invita nei Cantici dicendo: 'Alzati, affrettati, amica mia bella; vieni colomba mia, nei forami della pietra e nell'apertura della maceria'» *(C.* 37, 5). Rinchiuditi, dunque, nel Cuore di Cristo per contemplare i suoi misteri ed il suo amore, ma rinchiuditi in esso anche per trovarvi una difesa alla tua vita interiore. È questo un luogo di ritiro che è sempre a tua disposizione e in cui puoi rifugiarti pur vivendo in mezzo alle occupazioni e agli affari. Quando il chiasso, la curiosità, le chiacchiere, le vanità del mondo tentano d'invaderti, usa la santa pratica di rifugiarti, con un rapido movimento interiore, nel Cuore di Gesù e quivi troverai sempre raccoglimento e pace.
 
-(Ep.).
+**2** — «In ogni tentazione rifugiati con diligenza nell'amabile Cuore di Cristo e mettiti innanzi la sua bontà e carità e con essa paragona la tua bassezza, malizia, infedeltà, arroganza» (*BR.* merc. d. l'ott. S. Cuore). Sì, il Cuore di Gesù sarà il tuo più sicuro asilo durante le tentazioni; se vuoi sfuggire le insidie di satana e della tua natura cattiva, rifugiati nel Cuore di Colui che ha vinto satana e che con le sue ferite ha sanato le nostre miserie. Gesù è il vincitore del male, rifugiandoti in lui nulla avrai da temere; la tempesta potrà ancora ruggire contro di te, ma l'anima tua sarà ben riparata e protetta dal naufragio. Di qualunque genere siano le lotte che devi sostenere, anche le più aspre ed umilianti, mantieni intatta la tua fiducia in quel Cuore divino che è la salvezza di coloro che sperano in lui. «*Cor Jesu, salus in te sperantium*», ci fa dire la Chiesa nella litanie del Sacro Cuore.
 
-2. — Il Vangelo riprende e approfondisce lo stesso argomento. «Se la vostra giustizia non sarà maggiore di quella degli scribi e dei farisei,
-non entrerete nel regno dei cieli». È una chiara allusione alla
-nuova legge, la legge dell'amore che supera di gran lunga la pura legge della giustizia. Non dobbiamo accontentarci — come si accontentavano i farisei —
-di non recar danno al prossimo, ma dobbiamo praticare verso di lui una delicata carità fraterna. Non basta «non uccidere», per sfuggire «il giudizio»; perchè
-«chiunque si adira contro il suo fratello, merita di essere
-giudicato». Ecco un altro aspetto della legge nuova propostaci da Gesù: non basta essere giusti all'esterno, ma bisogna anzitutto essere giusti nell'interno, ossia nel cuore; non
-basta evitare l'offesa esterna del prossimo, ma bisogna evitare, o meglio, reprimere anche il sentimento interno. I
-farisei, con la loro interpretazione materiale della legge,
-avevano totalmente dimenticato lo spirito, dimenticato che, come dice S. Pietro nell'Epistola, gli occhi del Signore sempre ci guardano e vedono non solo l'esterno ma
-anche l'interno, sì che a lui non sfugge l'ira e il risentimento che cova nel cuore. Del resto, anche nel tratto esteriore
-verso il prossimo Gesù ci chiede una grande finezza, volendo che si evitino non solo gli atti, ma anche le parole offensive. E gli sta così a cuore la carità, la concordia fraterna,
-che non esita a dirci: «Se dunque tu nel fare la tua offerta sull'altare, ti rammenti che il tuo fratello ha qualche
-cosa contro di te, lascia lì la tua offerta... e va' prima a riconciliarti». Quanto ci ama il Signore! «Egli — osserva finemente S. Giovanni Crisostomo — non bada al
-suo onore quando si tratta di esigere l'amore fraterno:
-interrompa pure il mio culto — dice — ma si
-
-bilisca la tua carità », Come dunque potranno essere gradite
-a Dio le nostre preghiere e le nostre offerte quando fra
-noi e il nostro prossimo c'è qualche cosa che impedisce la
-perfetta concordia?
+E anche nelle cadute, nelle infedeltà di ogni giorno continua a confidare in questo dolcissimo Cuore: «con gran fiducia getta i tuoi peccati nell'abisso della sua carità — ti ammonisce S. Pietro Canisio — e ti troverai subito liberato da essi» (*BR.* l. c.). E S. Bernardo dice con maggiore forza: «Ho commesso un gran peccato: si turberà la coscienza, ma non si sconcerterò, perché mi ricorderò delle piaghe del Signore. Egli, infatti, è stato piagato per le nostre iniquità. Chi è tanto condannato a morte che non possa essere liberato dalla morte di Cristo?» (*BR.* ottava S. Cuore, lez. IV). Con questa fiducia ricorri al Cuore di Gesù e rifugiati in esso, in tutte le tue cadute. Malgrado la buona volontà di essere sempre fedele, spesso ti accadrà, o per debolezza o per sorpresa, di commettere qualche fallo: umiliatene profondamente, riconosci con umiltà la tua miseria, ma la constatazione di questa non ti allontani mai dal Cuore di Gesù: ritorna a lui come il figliuol prodigo alla casa del Padre e, ritornando, chiedi perdono, baccia la sua sacratissima piaga, rinnova il proposito di voler stabilire la tua dimora in questo Cuore pieno di bontà e di misericordia.
 
 ### Colloquio
 
-«O Gesù, meditando le tue parole divine, vedo quanto
-è debole l'amore che porto alle mie sorelle. Come intendo
-ora bene che la vera carità consiste nel sopportare tutti
-i difetti del prossimo, nel non meravigliarsi delle sue debolezze, nell'edificarsi dei minimi suoi atti di virtù! Ma soprattutto mi fai comprendere che la carità non deve starsene
-chiusa nel fondo del nostro cuore perchè, come Tu hai detto,
-nessuno accende la lucerna per metterla sotto il moggio, ma
-per collocarla sul candelabro, affinchè serva ad illuminare
-tutti coloro che sono nella casa. Questa lucerna, o Signore, mi
-sembra che rappresenti la carità, la quale deve illuminare e
-rallegrare non solamente coloro che mi sono più cari, ma
-'tutti coloro che si trovano nella casa'.
+«O Gesù dolcissimo, la tortuosità dei miei peccati mi vieterebbe l'ingresso nel tuo Cuore. Ma, siccome un'incomprensibile carità ha dilatato ed ampliato il tuo Cuore, siccome Tu, che solo sei Santo, puoi rendere mondo chi è concepito da immondo seme, o Gesù bellissimo, lavami dal delitto, mondami dai peccati miei. Purificato da te, posso avvicinarmi a te, Purissimo, possa entrare e dimorare nel tuo Cuore tutti i giorni della mia vita, per sapere e per fare tutto quello che vuoi da me!» (S. Bonaventura, *Vite mistica,* 3, 4).
 
-« Ricordandomi che la carità copre la moltitudine delle colpe', attingo a quella miniera feconda che Tu ci hai
-aperta nel santo Vangelo; penetro nelle profondità delle tue
-parole adorabili, ed esclamo con Davide: 'dal momento
-che Tu hai dilatato il mio cuore, ho corso nella via dei tuoi
-comandamenti'. Solamente la carità può dilatare il mio
-cuore. O Gesù mio, dall'istante in cui questa dolce fiamma
-lo consuma, corro deliziosamente nella via del tuo comandamento nuovo e voglio corrervi fino al giorno. beato, nel
-quale, unendomi al verginale corteo, ti seguirò per gli spazi
-infiniti, cantando il tuo Cantico nuovo, che dev'essere il
-cantico dell'amore » (cfr. T.B.G. St. 9).
+«Dove, invero, troveranno i deboli certa e stabile sicurezza e quiete se non nelle tue piaghe, o mio Salvatore? Tanto più sicuro io vi abito, quanto più Tu sei potente a salvarmi. Freme il mondo, pesa il corpo, insedia il demonio: io non cedo, poiché sono fondato in te, solida pietra. Se dunque, o Cristo, mi ricorderò delle tue piaghe, mi ricorderò di questa medicina tanto potente ed efficace, non potrò essere spaventato da alcun morbo maligno. Pertanto io, pieno di fiducia, quel che mi manca lo prenderò dalle tue viscere, o Signore, perché in te abbondano le misericordie, né mancano i fori delle ferite per cui quelle fluiscono. Hanno forato le tue mani ed i tuoi piedi, con una lancia hanno aperto il tuo costato; attraverso queste ferite mi è lecito gustare e vedere quanto Tu sei dolce, o Signo­re!...
 
-«Signore Gesù Cristo, se non avessi alcun altro motivo per amare il mio prossimo, e non solo chi mi vuol bene,
-ma anche chi mi è contrario, mi deciderei a farlo unicamente
-in vista del precetto che ci desti di amarci a vicenda, come Tu stesso ci hai amato. Come Tu, Bellezza, Bontà e
-Perfezione infinita ami me, uomo pieno di miseria e non mi
-rigetti per i miei difetti, così io, per amor tuo, accetto tutti
-tutti i miei fratelli » (cfr. Ven. Giovanni di G. M., O.C.D.).
+«Il ferro trapassò l'anima tua e raggiunse il tuo Cuore, affinché Tu sappia compatire le mie infermità. Dalle ferite del Corpo è scoperto il segreto del tuo Cuore, è scoperto quel grande mistero di pietà, sono scoperte quelle viscere di misericordia per cui Tu sei venuto a noi dall'alto dei cieli. Dove, più chiaramente che nelle tue piaghe, poteva apparire che Tu, o Signore, sei dolce e mite e pieno di misericordia? Infatti, nessuno ha misericordia più grande di Colui che dà la sua vita per i condannati e votati a morte. Quindi, tutto il mio merito è la tua misericordia, o Signore, ed io non sarò sprovveduto, finché Tu sarai misericordioso» (S. Bernardo, *In Cant.* 61, 3-5).

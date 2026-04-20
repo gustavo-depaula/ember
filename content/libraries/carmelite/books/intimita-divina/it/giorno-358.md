@@ -1,93 +1,23 @@
-## 358 — L'UNIONE TOTALE
+## 36 — PROVE INTERIORI
 
-### Presenza di Dio
-
-Ti supplico, Dio mio, fa' che niente disturbi la mia unione con te.
+**Presenza di Dio.** — *O Signore, purificami come l'oro nel crogiuolo; purificami e non risparmiarmi affinché io possa giungere a te.*
 
 ### Meditazione
 
-l'uomo, ponendola completamente sotto l'influsso movente
-del volere divino; tuttavia in lui vi è ancora qualcosa che
-tenta di sfuggire al governo della volontà di Dio, ed è
-la sensibilità la quale, in seguito al disordine prodotto dal
-peccato originale, molto difficilmente si assoggetta. allo
-spirito. Perciò, mentre l'anima, secondo la volontà, è del
-tutto conformata e unita al volere divino, la sensibilità va
-ancora un po' per conto suo, traendo gli affetti, suscitando talvolta ripugnanze e lotte che possono rendere faticoso il continuo aderire alla volontà di Dio e turbare la
-pace dell'anima. Proprio a causa della sensibilità, l'anima
-può andare ancora soggetta a impressioni, ad emozioni un
-po' troppo vive che, non riuscendo a dominare del tutto,
-l'espongono, a volte, a commettere qualche mancanza per
-inavvertenza e fragilità. Non è neppure escluso che il demonio si valga di questi movimenti della parte sensibile
-per aggredire l'anima e cercare di sbarrarle il passo 0, addirittura, di farla tornare indietro, il che, purtroppo, finchè siamo in questa vita è sempre possibile. L'anima soffre di queste difficoltà e, vedendo come tutto ciò può disturbare la sua unione con Dio, che desidera quanto mai
-intensa e perfetta, sospira ardentemente di esserne liberata. Dio solo può ristabilire nell'uomo l'armonia rotta dal
-peccato originale. Egli non rifiuta quest'ultima grazia a
-chi gli è davvero fedele e la concede per mezzo di una
-più intima e completa unione con lui, mediante la quale,
-quasi impossessandosi dell'anima, la domina tutta col suo
-potente influsso. Questa è P wzione totale, chiamata dai
+**1** — Se il Signore ti troverà forte e fedele, umile e paziente nell'accettare le prove esterne, passerà un po' alla volta a quelle più intime, più spirituali per «purificarti bene addentro e farti di gran beni più intimi » (cfr. *G.C.F.* 2, 28). La notte passiva dello spirito culmina proprio con queste pene interiori mediante le quali Dio «sminuzza e disfà la sostanza spirituale » *(N.* II, 6, 1) dell'anima per farla rinascere completamente a vita divina. Siamo, infatti, così impastati di miserie e di difetti ed essi sono così aderenti alla nostra natura, che se Dio stesso non ci pone le mani, quasi disfacendoci e rifacendoci da capo a piedi, non ne saremo mai liberati. Anche Gesù ha parlato di questo totale rifacimento, di questa profonda rinascita spirituale: «se uno non rinasce dall'acqua e dallo Spirito Santo, non può entrare nel regno di Dio » *(Gv.* 3, 5); regno di Dio quaggiù è lo stato di perfetta unione con lui, al quale nessuno perviene se prima non è totalmente purificato.
 
-mistici « matrimonio spirituale », l'ultimo 'grado di unione con Dio possibile su questa terra,
+S. Giovanni della Croce ha spiegato diffusamente come tale opera di purificazione viene appunto compiuta dallo Spirito Santo il quale, investendo l'anima con la viva fiamma del suo amore, distrugge e consuma tutte le sue imperfezioni. «Finché la divina fiamma — dice il Santo — purga e dispone l'anima, riesce a lei assai molesta: non è una fiamma chiara ma oscura, la quale, se le dona un po' di luce, lo fa perché ella veda e senta solamente le sue miserie e difetti » *(F.* 1, 19). Benché l'anima si trovi sotto l'azione diretta dello Spirito Santo, questa azione non le è gustosa, ma penosa perché il primo ufficio che essa compie è proprio quello di mostrarle tutte le sue debolezze e miserie affinché non concepisca orrore, le detesti, se ne umili. La luce penetrante della «fiamma d'amor viva » solleva il fitto velo che nascondeva all'anima le radici dei suoi mali abiti. Di fronte a tale visione l'anima soffre, non solo perché se ne sente umiliata, ma anche perché teme di essere ripudiata da Dio; infatti, riconoscendosi tanto miserabile, si sente terribilmente indegna dell'amore divino e, anzi, in certi momenti le sembra addirittura che il Signore, sdegnato, l'allontani da sé. È questo il più grande tormento che l'anima può soffrire, ma è un tormento prezioso perché la purifica da ogni residuo di amor proprio, di orgoglio, perché scava in lei quel profondo abisso di umiltà che invoca e attira l'abisso delle misericordie divine.
 
-Oh, con quanto ardore l'anima amante anela a questo
-sublime stato in cui potrà darsi interamente a Dio, potrà
-essere da lui del tutto posseduta e diretta, senza venire
-importunata dalla turbolenza della sensibilità!
-
-2 «Il matrimonio spirituale — dice S. Giovanni
-della Croce — è una trasformazione totale nell'Amato,
-nella quale ambedue le parti si consegnano a vicenda, trasferendo l'una l'intero possesso di sè all'altra, con una certa consumazione di unione di amore » (C. 22,4).
-
-È una trasformazione totale in Dio; ossia, la trasformazione che prima — nello Sposalizio spirituale — si realizzava solo nella volontà dell'anima, ora si estende anche
-alle altre potenze. Ciò dipende da una mutua donazione
-perfetta d Dio all'anima e dell'anima a Dio. Dio si dà
-all'anima quasi suo possesso, stabilendosi in lei come principio movente non solo della sua volontà, ma di tutto il
-suo essere, prendendo la direzione di tutta la sua vita e
-ispirandola in tutto ciò che fa. Questo è il risultato di
-un più intenso influsso dei doni dello Spirito Santo, che
-ridonda in tutte le facoltà dell'anima e perfino nella parte
-sensibile la quale resta, così, completamente assoggettata
-allo spirito. In tal modo i'anima possiede il suo Dio conc
-Colui che la vivifica, la muove, la governa; lo possiede
-come suo principio di vita, come suo AGI sua forza,
-suo tutto; spontaneamente esclama con S. Paolo: « Vivo
-non più io, ma vive in me Cristo » (Gal. 2, 20). Sente che
-la sua vita è molto più vita di Dio che vita sua prop:
-infatti, come Dio si è dato tutto a lei, così — e proprio
-in forza della singolare pienezza del dono divino — l'anima si è data tutta a lui: non è più solo il dono perfetto
-della volontà, ma è il dono di tutto l'essere magnificamente armonizzato dall'abbondante mozione dei doni dello
-Spirito Santo. Questo dono, questa consegna totale di se
-stessa all'Amato, fa sì che l'anima trasferisca, per così dire, la sua vita in Dio, vivendo più in lui che in se stessa,
-«più in Colui che ama che nel corpo da lei animato »
-(cfr. G.C.C.8, 3). Come la mistica sposa della Cantica,
-l'anima, giunta 'a questo stato, può ripetere con tutta verità: «Il mio Diletto è per me, e io per lui» (2,16).
-
-L'unione dell'anima con Dio è ormai così perfetta,
-così piena che, oltre a questa, c'è solo l'unione (eatifica
-del cielo. L'unione totale è il cielo anticipato, il cielo offerto alle anime generose che non risparmiano fatiche è
-sacrifici per darsi interamente a Dio.
+**2** — Se lo Spirito Santo non ti facesse conoscere e sperimentare la tua miseria, non potresti essere liberato giacché, ignorandola, non potresti assecondare l'opera di purificazione che Egli vuol compiere in te. Perciò, quando, attraverso gli insuccessi della tua vita spirituale, le lotte e le ribellioni della natura, la luce divina ti mostra il bassofondo delle tue cattive tendenze, devi sopportare umilmente la vista, devi riconoscere e confessare le tue debolezze senza scusarle, senza incolpare le circostanze avverse, senza rivolgere altrove lo sguardo. Sono questi i momenti in cui devi per ché più mai piegarti «sotto la potente mano di Dio » *(1 Pt.* 5, 6), il quale ti fa vedere quello che in realtà sei al suo cospetto. D'altra parte, il quadro delle tue miserie, per quanto brutto possa essere e abominevole, non deve gettarti nello scoraggiamento: non è questo il fine per cui lo Spirito Santo te lo mostra, bensì quello di spogliarti da ogni traccia di segreta stima di te stesso e di spegnere nel tuo cuore — qualora vi fosse — qualsiasi pretesa di essere meritevole dei favori e dei doni divini. Non devi neppure credere di essere diventato peg-giore di prima; queste miserie le hai sempre portate in te, con la differenza che prima le ignoravi, mentre ora la luce divina te le fa vedere con chiarezza e te le fa vedere non per affogarti in esse, ma per liberartene. Malgrado, dunque, tutta la sofferenza che può provare alla vista della tua miseria, devi mantenerti fiducioso e sicuro che Dio non ti abbandonerà. È vero, gli sei stato infedele, non hai corrisposto come dovevi al suo amore, i servizi che gli hai reso sono ben poca cosa, anzi sono un nulla in confronto a quello che Dio merita, tuttavia Egli, infinitamente buono, non disprezza il tuo cuore pentito e umiliato. Dio ti ama e, lungi dal rigettarti, desidera unirti a sé, ma prima di farlo vuole renderti perfettamente consapevole che sei del tutto immeritevole di questa grande grazia. Dio si comunica solo alle anime umili e solo gli umili riempie dei suoi doni: ecco il motivo delle sofferenze purificatrici della notte dello spirito; è impossibile, infatti, giungere all'umiltà piena senza passare attraverso le amare angustie di questa notte in cui Dio stesso s'incarica di umiliare l'anima. Ma quando, alfine, l'avrà ridotta al centro del suo nulla, allora l'esalterà attirandola a sé nella perfetta unione d'amore.
 
 ### Colloquio
 
-«O Signore, quanto è grande la grazia che Tu fai
-all'anima quando l'unisci a te in una ma giore intimità!
-Com'è squisito il tuo convito! Com'è delizioso il vino che
-mi dai! Una goccia sola mi fa scordare ogni cosa, uscire
-dalle creature e da me stessa, rigettare i piaceri e le soddisfazioni che finora la mia sensualità ha reclamato, Questa grazia è assai grande ed io ne sono indegna.
+«O anima mia, se sei rimasta ferita dal peccato, ecco il tuo Medico pronto a guarirti. La sua misericordia è infinitamente più grande di tutte le tue iniquità. E io ti dico questo non perché rimanga nella tua miseria, ma perché, sforzandoti di vincerla, non abbia a disperare della sua clemenza e del suo perdono.
 
-«Stiano pure i mondani con i loro domini', con le loro ricchezze, coi loro piaceri, coi loro onori e coi loro
-banchetti! La felicità chie queste cose procurano non arriverebbe neppure in mille anni ad equiparare il contento
-che gusta l'anima in un solo istante dopo che Tu, O Signore, l'hai elevata a questo stato.
+«Il tuo Dio è la stessa dolcezza, la soavità stessa; chi altro bene si può desiderare quaggiù fuor di lui?
 
-« No, non vedo possibile mettere in paragone le lassezze della terra con delizie così soavi che nessuno può
-meritare, con questa strettissima unione con te, Dio mio,
-con questo amore così ineffabilmente testimoniato e gustato » (T.G. P.4€7).
+«Non avvilirti, anima mia, per le tue imperfezioni; il tuo Dio non ti disprezza perché sei imperfetta e inferma, Egli, anzi, ti ama perché tu desideri e cerchi di guarire delle tue miserie. Egli verrà in tuo aiuto e ti rende-rà più perfetta ancora di quanto tu avresti osato sperare e, adornata dalla sua stessa mano, la tua bellezza non avrà pari, come la sua bontà.
 
-«Chi mai, Signore e Dio mio, cercandoti con amore
-pure e semplice, non ti troverà a suo piacimento e voontà? Poichè Tu ti riveli per il primo, ed esci incontro
-a coloro che ti desiderano.
+«Oh, Gesù mio, tenero Pastore, dolce Maestro, soccorrimi, rialza la mia pecorella abbattuta, stendi la mano per sostenermi, guarisci le mie piaghe, fortifica la mia debolezza, salvami o io perirò. Io confesso d'essere indegno di vivere, indegno della tua luce, indegno del tuo soccorso, perché la mia ingratitudine è stata immensa; tuttavia la tua misericordia è ben più grande ancora; abbi, dunque, pietà di me, o Dio, che tanto ami gli uomini! Abbi pietà di me, secondo la grandezza delle tue misericordie » (B. Luigi De Blois).
 
-«Oh, quanto mi sarà dolce la tua presenza, la presenza di te che sei il sommo Bene! Mi avvicinerò a te
-nel silenzio, acciocchè ti degni di unirmi a te con vincolo nuziale: non sarò contento finchè non mi sarà dato
-di godere fra le tue braccia. E adesso ti prego, o Signore, non abbandonarmi mai nel mio raccoglimento, perchè
-sono un fuggitivo se non mi stai a fianco » (G.C. C.1, 9).
+«L'abisso chiama un altro abisso. E là, Dio mio, proprio in fondo, avverrà l'incontro con te: l'abisso del mio nulla, della mia miseria, si troverà di fronte all'abisso della tua misericordia, dell'immensità del tuo tutto; là troverò la forza di morire a me stessa e sarò mutata in amore » *(E.T.* I, 1).

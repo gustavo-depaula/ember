@@ -1,91 +1,19 @@
-## 199 — MISTERO D'AMORE
+## XXX — LO SPIRITO SANTO E L'ATTIVITÀ
 
-### Presenza di Dio
-
-O Gesù, concedimi di riconoscere e rispondere al tuo amore infinito che ti ha spinto a farti nostro cibo e nostra bevanda.
+**Presenza di Dio.** — *O Spirito Santo, sii l'ispiratore delle mie azioni, il regolatore della mia attività.*
 
 ### Meditazione
 
-1. — Tutta l'azione di Dio in favore degli uomini è
-azione d'amore, si risolve in un immenso mistero d'amore
-che porta lui, Bene sommo ed infinito, ad innalzare l'uomo
-fino a sè, rendendolo partecipe della sua natura divina, comunicandogli la sua vita. Proprio per comunicare la vita
-divina agli uomini, per unire gli uomini a Dio, il Verbo
-si è incarnato e nella sua Persona la Divinità si è unita
-all'umanità nel modo più pieno e più perfetto; si è unita direttamente all'Umanità SS.ma di Gesù e, mediante
-questa, a tutto il genere umano. In virtù dell'Incarnazione
-del Verbo, ogni uomo — appunto per mezzo della grazia
-meritata dal Verbo Incarnato — ha il diritto di chiamare
-Gesù suo fratello, di chiamare Dio suo Padre e di aspirare all'unione con lui. La via dell'unione con Dio è così
-aperta all'uomo: il Figlio di Dio incarnandosi e morendo
-poi sulla croce, non solo ha tolto gli ostacoli a questa unione,
-ma ne ha fornito tutti i mezzi, anzi, lui stesso si è fatto
-via: unendosi a lui, l'uomo si unirà a Dio. Ed è proprio
-qui che l'amore di Gesù, sorpassando qualsiasi misura, ha
-voluto trovare il mezzo di unirsi ad ognuno di noi nella
-maniera più intima, più personale e lo ha fatto mediante
-l'Eucaristia. Facendosi nostro cibo, Gesù ci fa una cosa sola
-con lui e così ci partecipa nel modo più diretto la sua vita
-divina, la sua unione col Padre, con la Trinità. Nell'Incarnazione il Figlio di Dio, assumendo la nostra carne, si
-è unito una volta per sempre al genere umano; nell'Eucaristia il Figlio di Dio fatto uomo continua ad unirsi ad
-ogni singolo uomo. Comprendiamo così, come l'Eucaristia,
-secondo il pensiero dei santi Padri, può essere davvero « considerata come una continuazione ed un'estensione dell'Incarnazione: per essa la sostanza del Verbo incarnato è unita
-a ciascun uomo» (Mirae charitatis).
+**1** — L'anima interiore deve arrivare, gradatamente, a porre tutta la sua vita — e quindi non solo la sua preghiera, ma anche la sua attività — sotto la direzione dello Spirito Santo. Gesù ci ha detto che Egli deve «insegnare *ogni* cosa e suggerirci *tutto*» (cfr. *Gv.* 14, 26). Consideriamo in primo luogo quell'attività più strettamente congiunta alla nostra vita spirituale e che consiste nel cercare di attuare durante il giorno i buoni propositi formulati nella preghiera: sono i propositi dei nostri Esercizi annuali, dei nostri ritiri mensili, delle nostre confessioni settimanali. Talvolta le anime ne fanno un lavoro quasi esclusivamente «morale» e troppo poco «teologale»; ossia cercano di correggersi dei loro difetti e di esercitarsi nelle virtù con l'intenzione di piacere a Dio, sì, ma in pratica lo fanno rimanendo, per così dire, sganciate da Dio. L'anima lavora da sola, quasi dimenticandosi che in lei c'è chi potrebbe non solo aiutarla, ma lavorare assai meglio di lei; è un po' simile ad un marinaio che, tutto intento a remare, non si cura per nulla del soffio del vento e così non riceve alcun aiuto. L'anima non deve certamente tralasciare il suo lavoro, ma lo deve compiere in un modo più interiore, più *teologale*, ossia più dipendente da Dio, dall'azione dello Spirito Santo. Anziché prendere di mira direttamente un difetto o una virtù, le giovrà molto di più prendere di mira la continua dipendenza dal Maestro interiore, passando all'azione dopo aver ascoltato la sua voce intima e silenziosa. Insomma, si tratta di agire in tutte le cose adeguandosi al movimento interiore della grazia, all'ispirazione dello Spirito Santo; si tratta di trasferire l'andamento della nostra vita interiore dalle mani nostre alla direzione dello Spirito Santo.
 
-2. — Il piano dell'amore infinito, che vuol unire gli
-uomini a Dio, che vuol partecipare ad essi la natura e la
-vita divina, trova la sua estrema e massima realizzazione
-nell'Eucaristia. Nell'Ostia consacrata, infatti, non abbiamo
-solo il Corpo, Sangue ed Anima di Cristo, ma abbiamo
-anche la sua Divinità di Figlio di Dio e quindi tutta la
-Divinità. Quale mezzo più potente di questo poteva trovare Iddio per unirci a lui, per renderci consorti della sua
-natura e della sua vita? Quale cibo più vitale del
-Corpo di Cristo che, per la sua unione personale col Verbo, è la
-fonte della vita e della grazia? Dandosi a noi in cibo, Gesù
-ci nutre con la sua sostanza, ci assimila a sè, ci comunica
-personalmente la vita divina. Anche mediante gli altri sacramenti Gesù ci dà la grazia e quindi ci partecipa la vita
-divina, ma in essi vi è solo la sua azione, ossia nel momento in cui il sacramento si compie — ad esempio, nell'atto in cui il sacerdote ci assolve dai peccati — Gesù,
-con la sua virtù operativa, produce in noi la grazia. Nell'Eucaristia, invece, c'è Gesù stesso, fatto sacramento, che
-viene personalmente in noi nell'integrità della sua Persona
-di Uomo-Dio. Ricevendo l'Ostia santa, non abbiamo solo
-l'azione di Cristo nell'anima nostra, ma abbiamo la sua
-Persona realmente; fisicamente presente; non abbiamo solo
-l'aumento della grazia, ma Gesù, fonte di grazia; non abbiamo solo una nuova partecipazione di vita divina, ma
-abbiamo il Verbo Incarnato che ci trascina con sè nel seno
-della Divinità.
+**2** — Anche nei rapporti col prossimo, nel disimpegno dei doveri quotidiani, nell'attività professionale, come nelle opere di apostolato, dobbiamo lasciarci guidare dallo Spirito Santo. Egli deve prendere la direzione di tutta la nostra condotta. A tale scopo è necessario anzitutto mantenerci in contatto con Lui anche in mezzo all'azione; brevi momenti di pausa ci aiuteranno, di tanto in tanto, a rafforzare tale contatto o a ristabilirlo quando la troppa attività o gli impulsi delle nostre passioni l'avessero in qualche modo interrotto. «Io non faccio nulla da me — ha detto Gesù — ma parlo sempre in conformità a quanto mi ha insegnato il Padre mio» *(Gv.* 8, 28). Questa era la norma della condotta di Gesù e questa deve essere la norma della nostra condotta: agire in continua dipendenza da Dio che, per mezzo del suo Spirito, ci suggerisce tutto quello che dobbiamo fare. In questo campo, però, è necessario pure saper riconoscere le ispirazioni dello Spirito Santo dai movimenti della natura e dalle insinuazioni dello spirito maligno. Senza questa prudente discrezione, troppo facilmente ci esponiamo ad illusioni e ad inganni, ritenendo ispirazione divina quel che invece è frutto degli impulsi più o meno inconsci della nostra umanità difettosa, delle nostre passioni. Una norma facile e pratica per riconoscere le vere ispirazioni dello Spirito Santo è vedere se ci mantengono e, anzi, se ci fanno entrare sempre più nella linea della volontà di Dio, ossia nella linea degli ordini dei superiori, delle leggi cui siamo sottoposti, dei doveri del nostro stato, o se invece ci fanno uscire o anche solo scostare da tale linea. In questo caso c'è tutto da temere, perché lo Spirito Santo non può spingerci al compimento della volontà di Dio e quindi non può ispirarci nulla che sia contrario all'obbedienza e ai nostri doveri. Nei casi dubbi bisogna ricorrere al consiglio di una persona illuminata e prudente e allora l'anima che è veramente condotta dallo Spirito Santo sarà docile a piegarsi al parere altrui, anche se contrario al suo.
 
-Inoltre, mentre il cibo materiale viene assimilato da chi
-lo mangia e si trasforma nel corpo e nel sangue di lui,
-Gesù, invece, cibo vitale, ha il potere di assimilare a sè
-coloro che se ne nutrono e di trasformarli in sè. «La comunione del Corpo e del Sangue di Cristo — dice S. Leone
-— non tende ad altro se non a mutarci in ciò che mangiamo» e S. Giovanni Crisostomo specifica: «Cristo s'è
-unito in tal modo a noi, da fondere quasi in uno il suo corpo
-col nostro, così che noi siamo una cosa sola con lui... e ciò
-è proprio di quelli che amano ardentemente ».
+Lo Spirito Santo, ha detto Gesù, «dimorerà in voi e sarà in voi» *(Gv.* 14, 17); quale enorme stoltezza sarebbe, dunque, agire indipendentemente da Lui che «ci è stato dato» (cfr. *Rom.* 5, 5) appunto per essere la nostra guida, il nostro santificatore.
 
 ### Colloquio
 
-«O Trinità eterna! O fuoco e abisso di carità! che utilità ti venne dalla nostra redenzione? Nessuna; poichè Tu
-non hai bisogno di noi, che sei il Dio nostro. A chi venne
-questa utilità? Solamente all'uomo. O inestimabile carità,
-sì come Tu ti desti tutto a noi, tutto Dio e tutto Uomo,
-così tutto ti lasciasti in cibo, affinchè, mentre siamo pellegrini in questa vita, non veniamo meno per la fatica, ma
-siamo fortificati per te, Cibo celestiale. O uomo, che cosa
-t'ha lasciato il Dio tuo? Ti ha lasciato tutto se stesso, tutto Dio e tutto Uomo, velato sotto quella bianchezza del
-pane. O fuoco d'amore! non ti bastava di averci creato ad
-immagine e somiglianza tua e d'averci ricreati nella grazia
-mediante il Sangue del tuo Figliuolo, senza darci in cibo
-tutto te, Dio, Essenza divina? Chi t'ha costretto? Non altro
-che la carità tua. E, come Tu non mandasti e desti per la
-nostra redenzione solo il Verbo, così non ci lasciasti solo lui
-in cibo, ma, come pazzo d'amore della tua creatura, tutta
-l'Essenza divina. E non solo, o Signore, ti dai a noi, ma, nutrendoci con questo Cibo divino, ci fai forti della tua potenza contro le battaglie dei demoni, contro le ingiurie delle
-creature, contro la ribellione della nostra carne, contro ogni
-angoscia e tribolazione da qualunque lato esse vengano.
+«O Spirito Santo, Tu sei il dispensatore dei tesori che sono nel seno del Padre; Tu sei il tesoriere dei consigli che si fanno tra il Padre e il Verbo. Tu ci manifesti quelle cose che dobbiamo fare per piacere alla Trinità; e le manifesti nell'intimo del cuore mediante le tue ispirazioni e all'esterno con la predicazione e i consigli dei tuoi ministri. Sempre le porte del cielo sono aperte per mandar giù la grazia, ma noi non teniamo aperta la bocca del desiderio per riceverla. Venga, venga questa grazia; venga, o Padre eterno, venga o purissimo Verbo, poiché vi dignate di volerci mandare il vostro amorissimo Spirito, Spirito di bontà. O Spirito Santo, come vieni ricco per noi, e beato chi t'accoglie! Tu ci porti la potenza del Padre, l'amore ardente del Verbo!» (cfr. S. M. Maddalena de' Pazzi).
 
-«O Cibo degli angeli, somma ed eterna purità, Tu richiedi e vuoi tanta purità nell'anima che ti riceve in questo dolcissimo Sacramento, che, se fosse possibile, gli Angeli stessi dovrebbero purificarsi di fronte a sì grande mistero. E come si purificherà l'anima mia? Nel fuoco della
-tua carità, o Dio eterno, lavando la sua faccia nel Sangue
-dell'Unigenito tuo Figliuolo. O misera anima mia, come
-vai a sì grande mistero senza sufficiente purificazione? Mi
-spoglierò dunque del vestimento fetido della mia volontà
-e mi vestirò, o Signore, dell'eterna volontà tua!» (S. Caterina da Siena).
+«O Signore, insegnami la strada che devo tenere per giungere a te, insegnami a fare la tua volontà, e il tuo Spirito mi guidi per la via retta. Crea in me, o Signore, un cuore puro e infondi in me il tuo Spirito, Spirito di rettitudine e di verità. Dio mio, non mi allontanare dalla tua presenza, e non togliermi il tuo Santo Spirito, perché senza di Lui io resterei privo della vita e della grazia. Sostienimi, o Signore, col tuo Spirito magnanimo, senza del quale nulla potrei fare» (cfr. *Sal.* 143 e 50).
+
+O Spirito Santo, Spirito di verità, che interiormente parli ed ammaestri le anime, rendimi attento ai tuoi insegnamenti, docile alle tue ispirazioni.

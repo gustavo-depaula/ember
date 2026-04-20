@@ -1,111 +1,17 @@
-## 288 — PERSEVERANZA E FIDUCIA
+## XXVII — LA GRATITUDINE
 
-### Presenza di Dio
-
-O Signore, accresci la mia fiducia nel tuo soccorso e fa' che in questa fiducia trovi sempre il coraggio per ricominciare.
+**Presenza di Dio.** — Dio mio, dammi un cuore riconoscente, capace di cantare in eterno le tue misericordie.
 
 ### Meditazione
 
-1. — Ciò che maggiormente sgomenta le anime di buona
-volontà, che vogliono applicarsi seriamente @lla vita spiri
-tuale, è proprio il ritrovarsi tanto spesso a terra, malgrado
-i loro ripetuti e sinceri propositi. Quando l’anima incomincia
-l'ascesa è, in genere, piena di coraggio e non dubita affatto
-della riuscita; ma è ancora inesperta, non si è ancora misurata con le esigenze di una virtù più profonda, nè conosce
-le lotte che l'attendono su questa via. Ed ecco l’insidia: nello scontro con le nuove difficoltà cade; si rialza e cade di
-nuovo; si rialza ancora e poco dopo si ritrova per terra e così
-via, finchè ad un certo punto si affaccia la più perniciosa delle tentazioni: rinunciare all'impresa che ormai appare im-
-possibile. Quante anime, che avevano intrapreso con fervore la salita del monte della perfezione, sfiduciate per il lo-
-ro continuo cadere, si sono fermate a mezza strada, anzi sono tornate indietro proprio perchè non hanno avuto il co-
-raggio di ribminciare di capo ogni giorno, ogni momento.
+**1** — Incapaci, come siamo, di soddisfare secondo giustizia i nostri debiti verso Dio, dobbiamo almeno cercare di supplire con la gratitudine. Anche il più miserabile pezzente, che non ha nulla da rendere in cambio dell'elemosina ricevuta, ha sempre la possibilità di riconoscere e di mostrarsi grato al suo benefattore. È proprio questa la nostra posizione verso Dio: nulla abbiamo in proprio, tutto ciò che siamo e possediamo è dono suo e per ricambiare la sua liberalità infinita non possiamo far altro che servirci dei suoi stessi doni onde cantargli la nostra riconoscenza. «In ogni cosa rendete grazie, poiché questa è la volontà di Dio manifestata a voi in Cristo Gesù» *(I Tess.* 5, 18): Dio, che ci benefica con larghezza infinita, ha ben diritto di esigere la nostra riconoscenza. Eppure, questo, che è un bisogno spontaneo dell'anima umile e delicata, è un dovere tanto spesso trascurato anche dai buoni, anche dai più beneficati. Gesù ne ha mosso lamento quando, dopo aver guarito dieci lebbrosi, uno solo ritornò indietro a ringraziarlo: «E dove sono gli altri nove? Non s'è trovato chi tornasse a rendere gloria a Dio, se non questo straniero?» *(Lc.* 17, 17 e 18). Significativo il fatto che gli ingrati sono stati proprio i nove giudei i quali, essendo connazionali del Salvatore, si trovavano in una posizione di privilegio di fronte allo straniero. Talvolta proprio le anime che Gesù ha chiamato a vivere più vicino a sé, cui ha dato una vocazione di privilegio, sono anche le meno riconoscenti. Sembra quasi che la molteplicità delle grazie ricevute attutisca la loro sensibilità di fronte ai doni divini, sembra che non avvertano più né la grandezza, né la totale gratuità di essi, per cui s'inaridisce nel loro cuore la vena spontanea della riconoscenza. «Ah, — esclama Teresa di Gesù — di danno sarà agli ingrati la stessa grandezza dei benefici ricevuti!» *(Es.* 3, 1). L'ingratitudine ridonda sempre a svantaggio dell'anima che ne è infetta; pensiamo, ad esempio, all'enorme danno che procurò ai nove lebbrosi i quali, non essendo tornati a ringraziare per la guarigione ricevuta, non ebbero, come l'unico riconoscente, la gioia di sentirsi dire da Gesù: «La tua fede ti ha salvato» *(Lc.* 17, 19). La mancanza di riconoscenza li privò della salute dell'anima, grazia immensamente più preziosa della salute del corpo.
 
-'er avere questo coraggio occorre anzitutto umiltà; ossia bisogna essere convinti che, pur nutrendo alte aspirazioni,
-siamo uomini fallibili come tutti gli altri. La S. Scrittura af
-ferma che «il giusto cadrà sette volte e si rialzerà» (Pro.
-24, 16); come dunque possiamo pretendere di non cadere noi,
-che giusti non siamo? Il vero male non sta tanto nel cadere,
-quanto nel non risorgere. Ciò che distingue le anime fervorose e perfino i santi non è l'assenza di qualsiasi mancanza,
-
-
-ma il pronto risorgere dopo ognuna di esse. Quella specie
-
-
-di dispetto che tante anime provano nel vedersi sempre a
-terra non è frutto di umiltà, ma di orgoglio: non sono ancora così convinte della propria miseria da non meravigliarsi
-se la sperimentano: ad ogni istante, contano ancora troppo
-su se stesse e Dio, che le vuol condurre al centro del loro nulla,
-le lascia cadere e ricadere. Nel piano della divina Provvidenza queste cadute hanno proprio la funzione di persuaderci
-della nostra miseria; se vogliamo aderire al piano divino non
-abbiamo che un mezzo: umiliarci; chè se invece ci scoraggiamo e desistiamo. dall'impresa, non facciamo che allontanarei
-da esso, con nostro danno enorme.
-
-
-2. — Certe anime giustificano il loro scoraggiamento dicendo che non possono tollerare di offendere Dio. Sta bene,
-perchè la prima condizione richiesta per farci santi è pro-
-
-rio quella di detestare il peccato e di essere fermamente
-Ses di evitarlo anche nelle forme più lievi ed a costo di
-ualsiasi sacrificio. Bisogna però distinguere: questa è la
-lisposizione sincera che dobbiamo sempre coltivare, per cui
-non tollerare in noi la minima offesa di Dio significa non
-fare mai pace con i difetti e le mancanze che, nonostante
-la nostra buona volontà, ancora ci sfuggono; ma, quando,
-malgrado i nostri sforzi siamo caduti, tale disposizione non
-ci autorizza affatto a sgomentarci al punto da non essere più
-capaci di risorgere. Proprio perchè non vogliamo tollerare
-in noi alcuna cosa che dispiace al Signore non ci arrende
-remo mai nella lotta, ma la riprenderemo con vigore appunto per evitare nuove cadute. In questo campo chi si arrende
-è già vinto. Infatti, se, pur combattendo senza tregua, siamo
-soggetti a cadere, che cosa avverrà quando cederemo le armi? Sarà sempre meglio lottare zoppicando e con qualche fe-
-rita che non lottare affatto.
-
-Ma per avere il coraggio di perseverare nella lotta, soprattutto quando — o per la nostra imperfezione e fragilità
-o ettendolo Dio per umiliarci maggiormente — le
-
-lute sono più frequenti, bisogna unire all'umiltà un’im-
-
-
-mensa fiducia nel soccorso divino. Avendo sperimentato la
-nostra miseria, non possiamo davvero risorgere appoggiandoci alle nostre forze e tuttavia ci rimane una risorsa assai
-più potente: confidare nell'aiuto di Dio. La forza di rico
-minciare continuamente da capo la troveremo appunto nella fiducia, nel senso che Dio solo può darci tale forza e ce
-la darà nella misura della nostra confidenza: più avremo fiducia in lui e più saremo forti. Più un'anima è convinta che
-Dio la chiama alla santità e che, d'altra parte, le sue risorse
-personali sono insufficienti a condurvela, tanto più deve
-essere sicura che Dio stesso le fornirà gli aiuti per corrispondere alla sua chiamata. In Dio non vi è nulla di illogico:
-se vuole da noi una cosa non può negarci i mezzi per conseguirla; perciò se questi mezzi non li troviamo in noi
-stessi, li troveremo certamente in lui, nella sua onnipotenza
-ausiliatrice.
-
-«Chi avrà perseverato sino alla fine sarà salvo» (Mt.
-10,22), ha detto Gesù. Persevererà sino alla fine non già
-chi non cadrà mai, ma chi, dopo ogni caduta, saprà umiliarsi
-e risorgere appoggiandosi alla forza infinita di Dio.
+**2** — «L'ingratitudine — dice S. Bernardo — è la nemica dell'anima, la rovina dei meriti e delle virtù, la perdita dei benefici. È un vento bruciante che inaridisce la fonte della pietà, la rugiada della misericordia, i torrenti della grazia». Viceversa, la riconoscenza attira nuove grazie, nuovi doni, piega verso le anime la liberalità infinita. Ma deve essere una riconoscenza schietta, cordiale, che si estende a tutti i benefici divini: «Nessun dono di Dio, grande o minimo che sia, deve restare senza rendimento di grazie. Neppure il più piccolo beneficio deve essere dimenticato» (ivi). Questa gratitudine sincera fiorisce solo in un cuore umile, convinto della propria indigenza e profondamente persuaso che nulla è e nulla può essere senza il continuo soccorso divino. Non è impossibile, infatti, che qualcuno ringrazi Dio con la bocca, mentre nel segreto del cuore attribuisce a proprio merito le grazie ricevute. Tale era la falsa riconoscenza del fariseo: «Ti ringrazio, o Dio, perché io non sono come gli altri uomini» *(Lc.* 18, 11); dal contesto appare assai chiaro che quell'uomo borioso era ben lontano dal riconoscere il suo nulla e dall'attribuire unicamente a dono di Dio quel po' di bene che poteva esserci in lui. L'anima umile è in tutt'altra posizione: anche se riesce a fare del bene, ad esercitare la virtù, è convinta che tutto ciò è frutto della grazia e allora non solo i grandi benefici divini, ma anche le minime azioni buone che compie le sono continue occasioni per rendere grazie a Dio, da cui riconosce ogni bene. Che dire poi della sua gratitudine per ogni Messa, per ogni Comunione, per ogni confessione? Ognuna di queste grazie, anche se si ripetesse per la millesima volta, la trova sempre viva, sempre desta nella riconoscenza, come se si trattasse di un dono del tutto nuovo. E in realtà è così: ogni sacramento, ogni soccorso divino, ogni grazia attuale, ogni aiuto spirituale e materiale, porta con sé una novità di grazia, di vita spirituale, di amore; beata l'anima che lo sa riconoscere rendendone lode a Dio! Se la moltitudine dei benefici divini non produce in noi frutto adeguato, forse la causa è proprio la poca gratitudine e, se vogliamo scoprire più a fondo la radice del male, quasi sempre troveremo che ciò dipende dalla poca umiltà.
 
 ### Colloquio
 
-<O Gesù, lo vedi, io non sono che una piccolissima anima, la quale non può offrirti che tenuissime cose; anzi, mi
-accade spesso di lasciarmi ancora sfuggire questi piccoli sacrifici che danno tanta pace al cuore, ma non per questo mi
-scoraggio; mi adatto ad avere un po’ meno di pace e mi
-sforzo di essere più guardinga un’altra volta. O Signore,
-quanto mi rendono felice e coraggiosa il tuo perdono ed il
-tuo aiuto! Com'è facile e soave servirti qui in terra!
+«Grazia, grazia sia resa a te, Padre eterno, che non hai disprezzato la creatura tua, né voltato la tua faccia da me, né sprezzato i miei desideri. Tu, luce, non hai disdegnato le mie tenebre; Tu, vita, non ti sei allontanato da me che sono morte; né Tu, medico, hai trascurato le mie gravi infermità. Per tutti questi ed altri infiniti mali e difetti che sono in me, la tua sapienza, la tua bontà, la tua clemenza ed il tuo infinito bene non mi hai disprezzata. Chi ti ha costretto ad amarmi ed a concedermi tanta grazia? Non le mie virtù, ma solo la carità tua. Fa', dunque, che la mia memoria sia capace di ritenere i benefici tuoi e che la volontà arda nel fuoco della tua carità.
 
-«Se vuoi che per tutta la vita io provi ripugnanze a
-soffrire e ad essere umiliata, se permetti che tutti i fiori dei
-miei desideri e della mia buona volontà cadano a terra senza
-nulla produrre, non voglio turbarmi. Sono sicura che, se per
-severerò nei mici poveri sforzi, in un batter d'occhio, al mo-
+«O Amore inestimabile, ammirabili sono le cose che Tu hai operato nella creatura tua! O miserabile e cieca anima mia, dov'è il grido della gratitudine, dove sono le lacrime che devi versare nel cospetto del Dio tuo che continuamente t'invita? Dove sono gli ansiosi desideri nel cospetto della divina pietà? Non ci sono in me, perché ancora non ho perduta me medesima, che se io mi fossi perduta e avessi cercato solo te, o Dio, solo la gloria e la lode del nome tuo, il cuore mi uscirebbe dalla bocca in un canto di riconoscenza.
 
-
-mento della morte, Tu saprai far maturare bei frutti sull’albero dell'anima mia» (cfr. T.B.G. St. 10; CR.).
-
-«O Dio, sono sfinito e bisognoso d'aiuto, mancante di
-forze e abbondante di miseria; ma se il tuo occhio si poserà
-su di me, sarò sollevato dalla mia umiliazione, si rialzerà il
-mio capo e molti te ne renderanno gloria,
-
-«Concedimi di star saldo nel patto stretto con te, di vivere conforme ad esso e d’invecchiare nell'adempimento dei
-mici doveri. Voglio confidare e perseverare nella mia impresa,
-giacchè per te è cosa facile, o Signore, arricchire il povero ad
-un tratto. La tua benedizione sarà il mio premio ed in brevi momenti farà fruttificare i miei sforzi» (cfr. Ecli 11, 12-24).
+«Grazie, grazie siano rese a te, alta ed eterna Trinità! Io sono colei che non sono e Tu sei Colui che è. Dunque, Tu stesso rendi grazie, dando a me di poterti lodare. Perdona, Padre, perdona a me miserabile, a me ingrata degli immensi benefici da te ricevuti. Confesso che la tua bontà mi ha conservata tua sposa, benché per i miei difetti sempre ti sia stata infedele» (S. Caterina da Siena).

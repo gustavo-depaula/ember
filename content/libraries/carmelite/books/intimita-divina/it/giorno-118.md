@@ -1,120 +1,23 @@
-## 118 — IL VALORE DELL'OBBEDIENZA
+## 42 — NON SCUSARSI
 
-### Presenza di Dio
-
-— O Gesù obbedientissimo, fammi comprendere il valore dell’obbedienza.
+**Presenza di Dio.** — O Gesù, che hai voluto tacere di fronte a chi ti condannava a morte, insegnami l'arte di non scusarmi.
 
 ### Meditazione
 
-1 — «Il Signore — insegna S. Giovanni della Croce
-— preferisce da te il minimo grado di obbedienza e sottomissione che non tutti i servigi che pensi di prestargli »
-(AM.I, 13). Perchè? Perchè l'obbedienza ti fa rinunciare
-alla tua volontà per aderire alla volontà di Dio, espressa
-nei comandi dei superiori; e proprio nella completa conformità della tua volontà con la volontà divina consiste la
+**1** — Di fronte a qualsiasi difetto, colpa, errore personale, il nostro io corre istintivamente in cerca di scuse: è la tattica dell'orgoglio che non vuol riconoscere i propri torti e s'industria di ricoprirli con un manto più o meno falso, trovando sempre il modo di attribuirli o ad altre persone o alle circostanze. Tale fu la condotta di Adamo e di Eva dopo il loro peccato, tale è il comportamento istintivo di ogni uomo non appena cade in qualche fallo. Ma ciò reca un grande danno all'anima, giacché è impossibile correggersi dei difetti che non si vogliono riconoscere; bisogna quindi avere il coraggio di smantellare le ingegnose, ma inconsistenti costruzioni dell'amor proprio, per mettere a nudo i propri difetti e guardarli in faccia, così come sono, senza attribuirli ad altri che a noi stessi. « Allorché commettiamo una mancanza — diceva S. Teresa del B. G. — non dobbiamo mai attribuirla ad una causa fisica, come alla malattia o alla stagione o ad altre circostanze, ma alla nostra imperfezione. Non sono le occasioni che fan l'uomo fragile, ma esse gli mostrano quello che è » *(CR.)*.
 
-erfezione della carità, consiste l’essenza dell'unione con
+Lo scusare i propri falli può appagare l'orgoglio, ma in realtà è un accecarsi volontariamente, è un rendersi incapaci di cogliere la verità della propria situazione e così la povera anima non solo non può avanzare, ma è condannata a brancolare nel buio, senza possibilità di uscita. Invece, riconoscere sinceramente le proprie colpe è già fare il primo passo per correggersene. Non basta però non scusarsi interiormente, bisogna anche non scusarsi di fronte agli altri, ossia, dopo aver riconosciuto di fronte a Dio le nostre mancanze, bisogna riconoscerle anche di fronte agli uomini e per accettarne umilmente la correzione e riparare il cattivo esempio che si può aver dato. D'altra parte, ben poco varrebbe accettare in silenzio un'accusa, un rimprovero, quando l'anima non rinunciasse — sia pure a costo di lotte e di sforzi — a scusarsi nel suo interno.
 
-io. La carità sarà in te perfetta quando in ogni tua azione
-ti regolerai non secondo le tue inclinazioni e desideri
-personali, ma secondo la volontà di Dio, conformando ad
-essa la tua. E appunto questo è lo stato di unione con Dio,
-poichè « l’anima che ha la volontà interamente conforme e
-somigliante alla divina, è perciò stesso del tutto unita e
-trasformata in Dio » (G.C. S. II, 5, 4).
+**2** — Spesso ti risenti di fronte alle correzioni, perché non le trovi completamente adeguate ai tuoi difetti, alle tue mancanze. E non pensi che questa è una conseguenza inevitabile della limitatezza umana; solo Dio, che legge nel cuore, può giudicare con perfetta giustizia le nostre azioni; gli uomini non vedono che l'esterno, perciò, anche quando hanno il dovere di correggerci, non sempre colgono esattamente nel segno, ma possono sbagliare o per eccesso o per difetto. Se vuoi accettare solo le osservazioni che quadrano perfettamente coi tuoi difetti, troppe volte ti troverai esposto a scusarti, a protestare, a dire le tue ragioni e, se non potrai farlo all'esterno, lo farai almeno nel tuo interno, perdendo così tutto il beneficio che potresti ricavare dalle correzioni qualora le ricevessi con umiltà di cuore.
 
-La volontà di Dio la trovi espressa nei suoi comandamenti, nei precetti della Chiesa, nei doveri del tuo stato;
-ma oltre a ciò rimane ancora un largo campo alla tua libera
-scelta e tuttavia non sempre ti sarà facile riconoscere con
-certezza quel che Dio vuole da te. Invece, nella voce dell'obbedienza la volontà divina prende una forma chiara,
-precisa e ti viene manifestata apertamente, per cui non puoi
-più temere di sbagliare. Infatti, « non v'è potestà se non da
-Dio » (Rom. 13, 1), sicchè, obbedendo ai tuoi legittimi superiori, puoi essere sicuro di obbedire a Dio. Gesù stesso.
-affidando ai suoi discepoli la missione di evangelizzare le
+S. Teresa di Gesù invita le anime che vogliono giungere all'unione con Dio ad una grande generosità su questo punto, ossia ad accettare senza scusarsi qualsiasi correzione o rimprovero, anche se non del tutto meritato e anche se completamente ingiusto. « Tacere quando si è accusati ingiustamente — dice la Santa — è un grande atto di umiltà, e si imita più da vicino nostro Signore che prese sopra di sé tutti i nostri peccati. Il vero umile deve desiderare d'esser disprezzato, perseguitato e condannato senza motivo, anche in cose gravi. Se vuole imitare il Signore, in che cosa lo potrà meglio fare, se non in questo? Non ha bisogno di forze corporali, né d'esser aiutato da chicchessia, fuorché da Dio ». E poi aggiunge con molta finezza: « Tutto considerato, non veniamo mai incolpati senza ragione, essendo sempre pieni di difetti... Se siamo innocenti di quanto ci attribuiscono, non siamo mai così scevri di colpa come lo era il buon Gesù » *(Cam.* 15, 1 e 4).
 
-
-44 » IL VALORE DELL'OBBEDIENZA 155
-
-
-genti, ha detto: «Chi ascolta voi, ascolta me e chi direzza voi, disprezza me» (Le.10,16); e così c’insegna
-e i superiori ecclesiastici lo rappresentano e ci parlano
-
-in nome suo. E del resto, S. Tommaso dimostra che in
-
-ogni autorità legittima — anche di ordine naturale, come
-
-esempio di ordine civile e sociale — quando questa
-comanda nei giusti limiti dei suoi poteri, si ha una manifestazione della volontà divina. Proprio in questo senso
-l’Apostolo non esita a dire: «O servi, obbedite ai vostri
-padroni... come a Cristo... facendo di cuore la volontà
-
-di Dio» (Ef.6,5e6).
-
-
-2 — Uno dei maggiori ostacoli alla piena conformità
-della tua volontà con quella di Dio, è l’attacco al tuo volere, ai tuoi desideri, alle tue inclinazioni. Ora, l’obbedien-
-za, chiedendoti di regolarti secondo il volere altrui, è il
-migliore esercizio per abituarti a rinnegare la tua volontà,
-per distaccarti da essa e farti invece aderire alla volontà
-divina, manifestata dagli ordini dei superiori. E, quanto
-più è stretta la forma di obbedienza cui sei sottoposto,
-ossia più essa tende ad abbracciare non solo qualche
-particolare, ma tutta la tua vita, tanto più intenso sarà
-questo esercizio e maggiormente ti farà entrare nella
-volontà di Dio. Questo è il grande valore dell’obbedienza: mettere la vita dell’uomo nella volontà di Dio, dare
-all'uomo, in ogni circostanza, la possibilità di regolarsi
-non secondo la sua volontà, tanto debole, fragile, soggetta all’errore, tanto limitata e cieca, ma secondo la
-volontà di Dio, così buona, perfetta e santa che non
-
-ò mai sbagliare, nè volere il male, ma solo vuole il
-
-e, e non il bene transitorio che oggi è e domani
-non è più, ma il bene eterno, imperituro.
-
-L'obbedienza ti fa fare questo felicissimo cambio: lasciare la tua volontà, per abbracciare quella di Dio. È que-
-sto il motivo per cui i santi correvano incontro all’obbedienza. Di S. Teresa Margherita del Cuore di Gesù è det-
-to: «non solamente volava nell’eseguire i comandi, ma
-
-
-ioiva estremamente e tripudiava nell’obbedire » (Sp. p.
-74). Se alla natura può costare rinnegare la propria volontà, rinunciare a un progetto, a un piano, a un lavoro tanto
-amato e accarezzato, mon è a questa rinuncia che l’anima di
-vita interiore ferma lo sguardo, ma, pur soffrendo e lottando per vincere se stessa, lo lancia assai più oltre:
-lo fissa nella volontà di Dio che le si presenta nascosta
-nella voce dell’obbedienza ed a quella volontà rende con
-tutte le sue forze, poichè abbracciare la volontà di Dio
-è abbracciare Dio stesso.
+« Gesù taceva » *(Mt.* 26, 63), dice l'Evangelista presentandoci il silenzio di Gesù davanti ai tribunali. L'anima che aspira all'unione intima con Gesù deve sapersi unire ai suoi silenzi di fronte alle accuse, anche le più ingiuste. E, quando particolari motivi — come evitare scandalo o disgusto al prossimo — esigono che si scusi, lo farà solo lo stretto necessario, con molta misura e ponderatezza, per non perdere la grazia dell'umiliazione.
 
 ### Colloquio
 
-«Oh, quanto è dolce e gloriosa questa virtù dell’obbedienza in cui sono tutte le altre virtù! Perchè ella nasce
-dalla carità; in lei è fondata la pietra della santissima fede;
-ella è una regina e colui che la sposa non sente verun male,
-ma sente pace e quiete. Le onde del mare tempestoso non
-gli possono nuocere, perchè naviga nella tua volontà, Dio
-mio... Non ha alcun desiderio che non venga soddisfatto,
-perchè l'obbedienza gli fa desiderare soltanto re, o Signore,
-che puoi, sai e vuoi compiere i desideri suoi. Oh, obbedienza che navighi senza fatica, e senza pericolo giungi
-al porto della salute! O Gesù, io vedo l'obbedienza conformarsi con te, con te la vedo salire la navicella della
-santissima croce. Concedimi dunque, o Signore, questa
-santa obbedienza, unta di vera umiltà, dritta senza veruna
-stortura, che mena con sè la lucé della divina grazia. Concedimi questa margherita nascosta e calpestata dal mondo.
-che avvilisce se stessa, sottoponendosi per amor tuo alle
-creature » (S. Caterina da Siena).
+Questo ti chiedo, o Signore, che la tua luce sia in me così abbondante da dissipare, come nebbia al sole, tutte quelle scuse con cui il mio amor proprio cerca di coprire le mie mancanze, i miei difetti. Questo ti chiedo: che io sappia ben riconoscere tutti i miei torti e sappia giudicarli come Tu stesso li giudichi. Frena il mio cuore, affinché non scivoli in cerca di ragionamenti maliziosi per accettare scuse ai miei falli. E se, per la mia debolezza, mi è tanto facile cadere, fa' che almeno sappia confessarlo umilmente davanti a te e davanti agli uomini. Libera la mia coscienza dalla maschera delle scuse vane e pietose che m'impediscono di vedermi quale Tu mi vedi, quale Tu mi conosci, quale in realtà sono davanti a te. E poi, o Signore, dammi l'umiltà necessaria per accettare di buon cuore le correzioni altrui. Spegni con la tua dolcezza la mia suscettibilità tanto facile ad accendersi, a risentirsi, e concedimi la grazia d'imitare la mitezza e l'umiltà tua di fronte ai tribunali.
 
-O Signore, non ho che una vita sola e in qual modo
-migliore potrò impegnarla per la tua gloria e per la mia
-santificazione che mettendola direttamente sotto l’ obbedienza? Solo così avrò la certezza di non perder tempo e di
-non sbagliare, giacchè mettersi nell’obbedienza è mettersi
-nella tua volontà. E se la mia volontà è tanto difettosa, la
+« O Signor mio, quando ricordo i tuoi molteplici tormenti che per nessun motivo meritavi, non so che dire di me, né dove mi trovi ora quando pretendo discolparmi. Già lo sai, mio Bene, che se vi è in me qualche cosa di buono, non viene che da te. E dovrei ora desiderare che di una creatura così cattiva come son io, non si dica alcun male, quando tanto se n'è detto di te, che sei il Bene sopra ogni bene? Non lo si può soffrire! E ben vorrei che non lo sofrissi neppur Tu, e che nulla permettessi nella tua serva che possa disgustare i tuoi sguardi. Io sono cieca, Signore, e mi contento di troppo poco. Dammi luce e fa' che desideri veramente d'essere disprezzata da tutti, poiché anch'io ho disprezzato te che mi hai amato con tanta fedeltà! »
 
-
-tua è santa e santificante; se la mia volontà ha il triste potere di farmi sbagliare, la tua ha il grande potere di santifi-
-care la mia povera vita, di santificare tutte le azioni,
-anche le più semplici e indifferenti, compiute sotto il
-suo impulso. O Signore, appunto il desiderio di vivere
-totalmente nella volontà tua mi spinge verso l’obbedienza, mi fa amare e abbracciare questa virtù, malgrado il
-mio vivo amore alla libertà e all'indipendenza.
-
-© santa e santificante volontà del mio Dio, ti voglio
-‘amare sopra tutte le cose, voglio abbracciarti in ogni istante
-della mia vita, non voglio far nulla senza di te, fuori di te.
+« Che è questo, mio Dio? Che c'importa d'esser incolpati da tutte le creature quando non c'incolpi Tu? » *(T.G. Cam.* 15, 5 e 6).

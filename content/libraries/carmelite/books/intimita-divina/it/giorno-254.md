@@ -1,97 +1,23 @@
-## 254 — IL COMANDAMENTO NUOVO
+## XXIV — CORRISPONDENZA ALLA GRAZIA
 
-### Presenza di Dio
+*IX Domenica dopo Pentecoste*
 
-— Gesù, concedimi la grazia di comprendere a fondo il tuo comandamento nuovo, il comandamento della carità fraterna.
+**Presenza di Dio.** — *O Signore, fa' che in me la tua grazia non sia vana.*
 
 ### Meditazione
 
-1. — Il precetto « amerai il tuo prossimo come te stesso »
-(Mt. 22, 38), esige già una virtù soda e profonda, ma non
+**1** — Oggi la liturgia c'invita a riflettere sul grave problema della nostra corrispondenza alla grazia e lo fa presentandoci il triste quadro delle vicende d'Israele, il popolo eletto che Dio aveva ricolmato dei suoi benefici, circondato di grazie, protetto con cura gelosa e che, tuttavia, per la sua infedeltà si è perduto. Nell'Epistola, S. Paolo, dopo aver toccato alcuni punti della prevaricazione d'Israele, conclude: «Queste cose accaddero loro a modo di esempio e furono scritte per ammonimento a noi... Cosicché, chi crede di stare in piedi, badi di non cadere». È un forte richiamo alla vigilanza, all'umiltà. Se Dio ci ha prevenuti con le sue grazie, se ci ha chiamati ad una vita interiore più intensa, ad una maggiore intimità con lui, tutto ciò, lungi dal renderci presuntuosi, deve scavare nel nostro cuore un'umiltà più profonda: i doni di Dio vanno custoditi sotto la cenere di un'umile diffidenza di sé. Guai a noi se dovessimo ritenerci ormai affrancati da quelle debolezze che riscontriamo e che, forse, condanniamo negli altri! Ripetiamo piuttosto umilmente: Signore, aiutami, altrimenti io potrei fare anche peggio. Ma, esortandoci anche alla confidenza perché «Dio è fedele e non permetterà che siate tentati oltre quel che potete, ma con la tentazione vi procurerà anche la via d'uscita, onde possiate sopportarla». Anche l'Apostolo ci ricorda che la coscienza della nostra debolezza non deve scoraggiarci perché Dio è sempre pronto a sostenerci con la sua grazia. Dio conosce le nostre debolezze, conosce le lotte che dobbiamo sostenere, conosce le tentazioni che ci travagliano e, per ognuna di esse, ci dà quella misura di grazia che ci è necessaria per trionfarne. È ben vero che quando la bufera infuria noi avvertiamo solo l'urto della lotta, mentre la grazia con cui Dio ci soccorre rimane del tutto nascosta; eppure, questa grazia c'è, dobbiamo esserne certi, perché «Dio è fedele». «Dio mi ha sempre soccorso — diceva S. Teresa del B.G. — Io conto sopra di lui. La sofferenza potrà giungere al colmo, ma sono sicura che Egli non mi abbandonerà» (St. 12).
 
+**2** — Il Vangelo, riprendendo lo stesso argomento dell'Epistola, ci presenta Gesù che piange su Gerusalemme. Il Creatore, il Signore, il Salvatore piange sulla rovina delle sue creature, del popolo che ha prediletto fino a sceglierlo quale compagno della sua vita terrena e che ebbero voluto salvare a tutti i costi.
 
-raggiunge ancora la massima perfezione dell'amore; questa
-ci è stata proposta da Gesù poco prima di morire, in quegli
-estremi momenti in cui ognuno raccomanda ai suoi cari
-quel che più gli sta a cuore: « Io vi do il comandamento nuovo... Come io ho amato voi, così voi amatevi a vicenda... Ecco il mio comandamento: amatevi scambievolmente come
-io ho amato voi » (Gv. 13, 34; 15, 12). Questa è la perfezione
-veramente nuova portata da Gesù al precetto della carità; amare gli altri non solo come noi stessi, ma come Egli ci ama,
-come Egli li ama; e questa perfezione gli è tanto cara che la
-chiama il suo comandamento, ossia il comandamento che più
-gli preme e la cui osservanza deve diventare la caratteristica
-inconfondibile dei suoi intimi amici: «Da questo tutti conosceranno che siete miei discepoli » (Gv. 13, 35). Con un
-potente colpo d'ala Gesù ci trasporta ad un tratto da una
-misura di carità grande sì, ma ancora troppo umana, quella
-dell'amore per noi stessi, ad una misura divina, quella del
-suo infinito amore per le anime nostre. Non si tratta più
-di fissare lo sguardo sull'amore che portiamo a noi stessi onde nutrirne uno simile per i nostri fratelli, ma di fissare lo
-sguardo infinitamente più in alto, nel Cuore di Cristo, che
-è il Cuore di Dio e penetrare il segreto del suo amore infinito per gli uomini, onde cercare di emularlo nei nostri rapporti col prossimo. La carità fraterna sarà in noi perfetta solo
-quando sarà il riflesso, o meglio, la continuazione dell'amore di Gesù per ogni creatura. Dobbiamo tendere ad amare
-ogni fratello — anche il meno simpatico, anche colui che
-non ci ama — come lo ama Gesù e Gesù lo ama al punto
-che per lui ha dato la vita, che per lui ogni giorno rinnova
-la sua immolazione sugli altari, che per lui è rimasto vivo
-e vero nell'Eucaristia, sempre pronto a nutrirlo con le sue
-carni immacolate. Quale scusa troveremo alla nostra poca
-carità verso il prossimo, quando la mettiamo in confronto con
-quella di Gesù?
+«Gerusalemme, Gerusalemme... quante volte io pure volli adunare i tuoi figli come la gallina raduna i suoi pulcini sotto le ali e tu non hai voluto!» *(Mt.* 23, 37). Questo è stato l'atteggiamento costante di Gesù verso la città santa, ma questa è sempre rimasta cieca ad ogni luce, sorda ad ogni invito e il Salvatore, pochi giorni prima di andare alla Passione, le lancia l'ultimo, accorato richiamo: «Oh, se conoscessi, anche tu in questo giorno, quel che ti giova e Gesù, alla tua pace!» Ma ancora una volta la città resiste e Gesù, dopo averla tanto amata, dopo aver pianto su di lei come la madre piange sul figlio traviato, le predice la sua rovina: «i tuoi nemici... non lasceranno in te pietra su pietra, perché non hai riconosciuto il momento nel quale sei stata visitata».
 
-2. — Considerando il «comandamento nuovo » della carità, S. Teresa del B. G. esclama: « Oh, come l'amo! poichè
-esso mi dà la certezza che la vostra volontà, o Signore, è di
-amare in me tutti coloro che Voi mi comandate di amare»
-(St, 9). La Santa comprende che non arriverà alla perfezione della carità fraterna se non cercherà di amare il suo
-
-prossimo come lo ama Gesù, ma intuendo quanto ciò sia difficile, si rallegra pensando che, se Gesù ci ha dato questo precetto,
-è proprio perchè vuole condurci a tali altezze. E di fatto è
-così, purchè lo lasciamo libero di agire in noi, purchè gli
-offriamo pure ed integre le energie del nostro cuore e della
-nostra volontà, affinchè Egli possa servirsene per circondare
-di delicate attenzioni i nostri fratelli, come un giorno circondava di attenzioni gli abitanti della Palestina. Allora lo faceva personalmente ed oggi vuol farlo per mezzo nostro. In
-tal modo il nostro amore per il prossimo diventerà davvero
-una rinnovazione dell'amore di Gesù e noi potremo far sentire ad ogni persona che avviciniamo qualche cosa dell'infinita tenerezza del cuore di Cristo. Ma per giungere a tanto dobbiamo sbarazzare il nostro cuore da tutti i residui dell'egoismo, da tutti gli impacci delle antipatie e simpatie personali e dobbiamo inoltre penetrare sempre più nel mistero
-dell'amore di Gesù per noi. Gesù ci ama così come siamo,
-ci ama malgrado i nostri difetti, malgrado le ottusità della
-mente e le durezze della volontà; ci ama perfino malgrado i
-nostri peccati, anzi, proprio per noi peccatori si è incarnato
-ed è morto in croce. Mai la mancanza di doti naturali, mai
-i difetti e neppure i peccati sono per lui motivo per respingerci da sè, ma sempre va in cerca delle anime nostre, sempre
-ci circonda con la sua grazia, ci sollecita, c'invita per portarci alla santità. Anche le anime dei più grandi peccatori
-gli sono care, anche queste sono continuamente perseguitate
-suo amore; perfino Giuda, il traditore, è stato avvolto
-fino all'ultimo dalle tenerezze del suo amore, è stato chiamato col dolce nome di amico ed ha ricevuto il suo bacio.
-Gesù ci ama non perchè siamo perfetti, ma perchè siamo figli del suo Padre celeste; ci ama non perchè siamo buoni, ma
-perchè vede in noi l'immagine del Padre suo, perchè siamo
-le creature sue, le pecorelle del suo pascolo. E allora perchè
-pretendiamo di amare solo coloro che sono buoni, la cui compagnia è gradevole, la cui amicizia ci è di conforto? Se Gesù
-volesse trattarci come noi trattiamo il prossimo, dovremmo
-avere ben poche speranze di godere della sua comprensione,
-della sua misericordia, della sua amicizia.
+E tu sai riconoscere i momenti nei quali il Signore visita l'anima tua? Una parola buona, letta o udita forse anche per caso, un esempio edificante, un'ispirazione interiore, una luce nuova che ti fa vedere più a fondo i tuoi difetti, che ti apre nuovi orizzonti di virtù e di bene, sono altrettante visite di Gesù. E tu, come corrispodi? La tua anima è sensibile a queste luci, a questi richiami? Non ti sorprendi qualche volta in atto di rivolgere lo sguardo altrove per timore che la luce intravista ti chieda sacrifici troppo duri al tuo amor proprio? Oh, se tu avessi sempre riconosciuto il momento in cui il Signore ti ha visitato! Se ti fossi sempre spalancato alla sua visita! Cerca, dunque, di ricominciare oggi da capo, disposto a ricominciare poi ogni volta che ti accadrà di cedere alla natura. «Quello che giova alla tua pace», al tuo bene, alla tua santificazione sta proprio qui, in questa continua adesione agli impulsi della grazia.
 
 ### Colloquio
 
-«Quando nell'antica legge, o Signore, comandavi al tuo
-popolo d'amare il prossimo come se stesso, non eri sceso ancora su questa terra e, ben sapendo a che punto ciascuno
-ami se stesso, non potevi chieder di più. Ma quando Tu lasci ai tuoi Apostoli un comandamento nuovo, il tuo comandamento, non esigi più solamente che amiamo il prossimo
-nostro come noi stessi, ma come Tu stesso lo ami e come
-l'amerai fino alla consumazione dei secoli.
+«Come già a te confessai, o gloria della mia vita, o Signore Dio mio, virtù della mia salute, io sperai talvolta nella mia virtù la quale, però, non era virtù; e quando volli correre, mentre maggiormente mi credevo in piedi, allora più velocemente caddi e tornai indietro, invece d'avanzare; e ciò che credevo di conseguire, s'è andato da me allontanando: così Tu, o Signore, in molti modi metti alla prova le nostre forze. Ora che m'illuminasti, conosco che ciò che maggiormente credevo di fare non lo potevo compiere da me. Dico a me stesso: Farò questo, terminerò quello; e non feci né l'una cosa né l'altra. Vi era la volontà, non il potere e s'era il potere, non vi era la volontà, poiché confidavo nelle mie forze. Sorreggimi, dunque, o Signore, perché da solo nulla posso; perché quando la mia stabilità sei Tu, allora è vera stabilità; ma quando la mia stabilità sono io, allora è fiacchezza» (S. Agostino).
 
-«So benissimo, o mio Gesù, che non comandi mai nulla d'impossibile; Tu conosci meglio di me la mia debolezza
-e la mia imperfezione; sai purtroppo che mai giungerò ad
-amare le mie consorelle come le ami Tu, se Tu stesso, mio
-divin Salvatore, non le ami in me. E poichè appunto vuoi
-concedermi questa grazia, mi hai dato un comandamento
-nuovo. Oh, come l'amo! poichè esso mi dà la certezza che la
-tua volontà è d'amare in me tutti coloro che Tu mi comandi
-di amare.
+«O Signore, insegnami ad essere sempre docile alla tua grazia, a dirti sempre di sì. Dire sempre di sì alla tua volontà significata nei tuoi comandamenti. Dire sempre di sì alle ispirazioni intime con cui Tu mi solleciti, m'inviti ad una più intensa unione, ad una più generosa dedizione, ad un più totale distacco. Fa' che la mia anima sia come sempre pronta ad aprirti la porta della mia volontà, anzi, a tenerla sempre spalancata affinché Tu possa entrarvi e così io non perda neppure una di queste tue visite, di questi tocchi delicati, di queste richieste.
 
-«Quando io sono caritatevole, sento veramente che Tu
-solo, o Gesù, operi in me; e quanto più sono unita con te,
-tanto pi amo tutte le mie sorelle » (T.B.G. St. 9).
-
-«O Cristo, le tue parole non sono altro che un canto nuovo: "vi do un comandamento nuovo"! E che altro contiene
-questo tuo comandamento fuorchè amore e carità? Tu vuoi
-che amiamo gli altri come li ami Tu che sei l'amore! Ci dici: "amatevi come io ho amato voi" e non "come io ho amato me", perchè mentre hai fatto giustizia su di te, hai
-
-amato noi in un atto di misericordia, di mansuetudine e di
-compassione infinita. E così Tu vuoi che noi amiamo gli altri» (S. M. Maddalena de' Pazzi).
+«Fammi ben comprendere che la vera pace non consiste né devo ricercarla nell'esenzione dalle difficoltà, nella condiscendenza ai miei desideri, ma nella totale adesione alla tua volontà, nella docilità alle ispirazioni dello Spirito Santo» (Cfr. Sr. Carmela d. Spirito S. c. s.).

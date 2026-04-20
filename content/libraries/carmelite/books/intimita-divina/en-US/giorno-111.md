@@ -1,111 +1,123 @@
-## 111 — THE LAST PLACE
+## 109 — HUMILITY OF HEART
 
 ### Presence of God
 
-— O Jesus, who said: "I have not come to be served but to serve" (cf. Mk. 10, 45), teach me to love the last place.
+— O Jesus, meek and humble of heart, make my heart like Yours.
 
 ### Meditation
 
-1 — Jesus not only with words, but also by example showed us that He came not to be served,
-but to serve; and He wished to reserve this example for the eve of His Passion, as if to leave it to us in testament,
-together with His final and most precious teachings. Before instituting the Eucharist,
-He, like any slave, "began to wash the disciples' feet" and, when He had finished, He said: "I have given you an example,
-that you also should do as I have done to you,"
-because "the servant is not greater than his master, nor the apostle
-greater than he who sent him" (Jn. 13, 15 and 16). The
-teaching is clear: if you want to be a true disciple of
-Jesus, you must, like Him, humble yourself; and consider that here it is
-not only a matter of humbling yourself before God, but also before your
-neighbor. To consider yourself as servant in your relations with God
-is not difficult, but to consider yourself servant and behave as such
-in your relations with neighbor is more difficult. More difficult
-still is to let yourself be treated as servant, that is, without regard,
+1 — Only once did Jesus expressly say:
+"learn from Me," and He said it precisely with regard to humility: "Learn from Me, for I am meek and humble of
+heart" (Mt. 11, 29). Knowing well how difficult the practice of true humility would be for our proud nature,
 
 
-without consideration at all, even by one inferior to you.
-And yet Jesus, infinitely superior to all, willed to be
-treated not only as servant, but as slave, and also as
-malefactor.
-As before God humility places you in a place
-of inferiority, of absolute dependence, so before
-neighbor it makes you take "the last place." "Woe to you,
+it seems He wanted thus to give us a particular encouragement. His example, His unheard-of
+humiliations, which made Him "the reproach of all and
+the outcast of the people" (Ps. 21, 7), which for us "made
+Him sin" (II Cor. 5, 21) and bearer of all our iniquities, to the point of being "numbered among the malefactors" (Mk.
+15, 28), are the greatest spur and the greatest invitation
+to the practice of humility.
+
+Jesus speaks directly to us of humility of heart,
+because, to be sincere, every virtue, every reform of life
+must always begin from the heart, from which thoughts
+and actions come. An external bearing, humble speech, are
+vain without humility of heart; indeed they are often the mask
+of a refined and therefore more dangerous pride. "Clean first what is inside - Jesus said, stigmatizing the hypocrisy of the Pharisees - and the outside will become clean as well"
+(Mt. 23, 26). And St. Thomas teaches that "from interior
+disposition to humility proceed the signs in words,
+gestures, deeds, by which there is manifested outwardly what
+is hidden inwardly" (II-II, q. 161, a. 6, co.).
+
+Therefore, if you want to be truly humble, apply yourself first
+to humility of heart, entering ever more deeply into
+sincere recognition of your nothingness, your poverty.
+Know how to recognize sincerely your defects, your faults,
+without wanting to attribute them to any cause other than your own
+miserableness; know how to recognize the good in you as pure
+gift of God, never making yourself its master.
 
 
-who love the first place in synagogues" (Lk. 11, 43),
-Jesus said to the Pharisees condemning the hunt for first
-places, offices and honorable posts; and He added:
-"When you are invited, go and sit in the last
-place" (Lk. 14, 10). As far as it depends on you, in whatever
-setting you find yourself, always try to choose the last place,
-but do it with simplicity and ease, so that no one,
-noticing it, comes to invite you to pass to the
-first. Such an invitation await only from God, and not in
-this life, but in the other.
+2 — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which al-
+ways pushes us to exalt ourselves; easy, because we do not need to go far to seek its motives, but have them
+- and in abundance - in ourselves, in our
+miserableness. Nevertheless, it is not enough to be miserable to be
+humble, but humble is only he who sincerely recognizes his own
+miserableness and acts accordingly.
+
+To this recognition, man, proud by instinct,
 
 
-2 — During the Last Supper Jesus wanted to give the Apostles another lesson in humility; while they were discussing
-which of them should be considered the greater, He
-admonished them: "Let the greatest among you be as the youngest,
-and the one who governs as one who serves," for I too
-"am among you as one who serves" (Lk. 22, 26-27).
-When Jesus speaks of our relations with neighbor,
-He always insists that each one take the place of servant and consider himself servant of others.
-He said it when He presented a child as model of perfection: "If one
-wants to be first, he shall be last of all and servant
-of all" (Mk. 9, 34), and He repeated it when He warned
-His disciples not to imitate the proud conduct
-of the Pharisees: "The greatest among you shall be your servant"
-(Mt. 23, 11). It is clear: for followers of Christ the place of
-honor, of privilege, is the place of servant; and the divine Master
-insists that precisely those who occupy first places
-be the most zealous in becoming servants of all.
+cannot arrive without God's grace, but since God
+denies no one the necessary graces, turn to Him and,
+with trust and perseverance, ask Him for humility of heart.
+Ask it in the name of Jesus who so humbled Himself for the glory
+of the Father and for your salvation, "ask in His name and
+you shall receive" (cf. Jn. 16, 24). If then, despite your sincere desire to become humble, you often feel movements of pride, vainglory, vain self-complacency stirring in
+you, instead of being cast down, recognize in this the fruit of your bad
+nature and use it as a new motive to humble
+yourself.
 
-Therefore, if you have some authority over your neighbors, you must
+Remember also that you can always practice humility
+of heart, even when you cannot perform particular acts
+of external humility, even when no one humiliates you and you are
+instead marked by others' trust, esteem, and praise.
+In similar circumstances St. Therese of the Child Jesus said:
+"Nothing can inspire me with vanity, because the
+memory of my miseries is continually present to me"
+(St. 10); and you think that, as "blame does not make you more contemptible, so others' praise does not make you holier"
+(Imit. II, 6, 3). Indeed, the more others exalt you, the more
+seek to humble yourself in your heart. Practiced in this way,
+humility of heart will make you conceive such a low opinion
+of yourself that you will no longer know how to prefer yourself to anyone, but all you will esteem better than yourself and more worthy than you of
+esteem, respect, consideration, and thus you will remain at peace,
+never being disturbed either by desire to surpass others,
+or by humiliations you may receive. Interior peace
 
 
-think that it was given you not for your honor, but for others'
-service. If then nothing distinguishes you from the
-common level, do not push yourself forward to put yourself on display;
-and finally if your place is that of inferior, occupy it willingly,
-never seeking to leave it. In assigning you a humble place,
-God Himself has taken care to make you practice humility;
-this is one of the greatest graces He has given you and
-you seek to correspond by exercising yourself much in this
-virtue.
+is fruit of humility; indeed Jesus said: "Learn
 
-"The only thing not envied is the last place - said
-St. Therese of the Child Jesus - and only in it there is no
-vanity and affliction of spirit" (CR.).
+
+from Me for I am meek and humble of heart, and you shall find rest - requiem - for your souls" (Mt. 11, 29).
 
 ### Colloquy
 
-"O Lord, when You were pilgrim here below You said:
-'Learn from Me, for I am meek and humble of heart, and
-you shall find rest for your souls.' Well then, my soul
-finds rest in seeing You, mighty Monarch of heaven,
-clothed in the form and nature of a slave, humbling Yourself
-even to washing the feet of Your Apostles. I remember then those
-words You pronounced to teach me to practice humility:
-'I have given you the example, that as I have done,
-so you may do also. The disciple is not greater than his
-Master... Knowing these things, you shall be blessed if you practice them.' With the help of Your grace I understand
-these words, O Lord, coming forth from Your humble and
-sweet Heart, and I want to practice them with the help of Your grace.
-
-"I want to lower myself humbly and submit my
-will to that of others, without contradicting them in anything and
-without examining whether they have or do not have the right to command me. No one had this right over You;
-yet You obeyed not only the Blessed Virgin and St. Joseph,
-but even Your executioners.
-
-"O Lord, You could not humble Yourself more to teach me humility; I therefore want to answer Your love by putting myself in the last place, and by sharing in Your humiliations so as later to have part with You in the kingdom of Heaven.
-
-"I beg You, my divine Jesus, to send me a humiliation every time I try to raise myself above others.
+O Jesus, meek and humble of heart, heal me of pride,
 
 
-"But, Lord, my weakness is known to You; every morning I form the purpose of practicing humility, and every evening
-I recognize that I have still committed many faults. At this sight I am tempted to discouragement; but I know that
-discouragement too is pride; therefore I rather want, O
-my God, to found my hope in You alone. Since You are
-omnipotent, deign to cause the virtue I desire
-to be born in my soul" (T.B.G. St.; Prayers).
+make my heart humble Yourself, infuse in me a little
+of Your most profound humility. For You know better
+
+
+than I: how could I, with my proud will, make my heart humble? A poor man cannot give riches to himself, a proud man cannot give humility to his
+heart. Only Your infinite goodness can remedy
+pride.
+
+"And the remedy is this: to fix one's gaze on You, Incarnate
+Word hanging upon the cross; and seeing the soul
+humbled thus looking at You, You soon move to
+look upon it, and with Your gaze You do as the sun's ray does on the earth, which by its heat dries and disposes it
+to bear fruit. So do You, O Word, who by the ray of
+Your gaze dry the soul, drawing to Yourself all the pride in it,
+to consume it with Your heat. No one, therefore, can acquire humility unless he fixes his gaze on You, Word on the cross" (St. Mary Magdalene de' Pazzi).
+
+"O Word, You humbled Yourself unto death on the cross,
+even to willing to be treated as the least of men by
+
+
+sinners, by demons, by the Holy Spirit, and by Your eternal
+
+
+Father. And all this to glorify the Father, to repair
+the offense done to the Father by our pride, to confound
+and destroy our arrogance, to teach us to detest
+vanity and to love humility. Oh, how truly one can say
+that pride dishonors God and that it most grievously displeases God, since to repair such dishonor it was necessary that You, Son of God, come to be so humbled! Oh,
+how truly one can say that vanity is a monstrous thing,
+since to annihilate it You willed to reduce Yourself
+to so low a degree of abasement! Oh, how one must
+believe that in God's eyes humility is a truly precious treasure and gem most pleasing to Him, since You,
+His divine Son, willed to be so humbled to make us
+love this virtue, to stir us to imitate You in the practice
+of it, and to merit for us the grace to perform its works"
+(St. John Eudes).

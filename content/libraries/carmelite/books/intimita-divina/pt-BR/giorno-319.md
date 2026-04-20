@@ -1,43 +1,43 @@
-## 319 — A IMOLAÇÃO APOSTÓLICA
+## 319 — BEM-AVENTURADOS OS PUROS DE CORAÇÃO
 
 ### Presença de Deus
 
-Ó Jesus, imolado por minha salvação, faze que eu seja digno de imolar-me contigo pela salvação dos meus irmãos.
+Aumenta, ó Senhor, a pureza do meu coração e da minha mente, para que eu possa conhecer-te sempre melhor.
 
 ### Meditação
 
-1. — A oração apostólica deve ser acompanhada do sacrifício, à imitação da oração que Jesus elevou por nós ao Pai no horto das oliveiras e na Cruz. O amor deve impelir os orantes «ao sacrifício ativo, que não descansa na oração até que a dor e o sofrimento tenham quase tocado o limite das forças. Nesses momentos, consumidos pelo ardor da caridade e pela veemência do desejo, eles já não serão apenas orantes, mas orações viventes» (Pio XII).
+1. — Ao dom da inteligência corresponde a bem-aventurança: «Bem-aventurados os puros de coração, porque verão a Deus» (Mt. 5, 8). Há, antes de tudo, uma pureza de coração que é condição indispensável para ter abundante influxo do dom da inteligência; é a pureza que resulta não só da ausência do pecado, mas também dos mínimos afetos terrenos.
 
-Oração e sacrifício estão intimamente conexos, porque brotam de uma única chama: o amor que impele à oração e à imolação incessante pela glória de Deus e pela salvação das almas. Vida contemplativa é, portanto, sinônimo de vida austera e penitente, a ponto de ser um contínuo «sacrifício de louvor». Quanto mais a oração é nutrida e impregnada de sacrifício, tanto mais é eficaz; aliás, alcança a máxima eficácia justamente quando o sacrifício é máximo.
+É fato que Deus não se comunica totalmente a uma criatura se esta não tem total pureza de coração, isto é, se não reserva para Ele toda a sua capacidade afetiva. Enquanto em nós houver algum apego às criaturas, alguma busca de seu afeto, alguma complacência em sentir-nos amados por elas, nosso coração não é bastante puro para gozar as comunicações divinas.
 
-Toda alma contemplativa deve «ser digno altar onde possa residir a Divina Majestade» (São João da Cruz), altar do qual se eleva a oração e sobre o qual se imola o sacrifício. O apostolado de Jesus culminou e se cumpriu no aniquilamento da morte de cruz e por meio dela.
+Por isso, antes de introduzir uma alma na penetração de seus mistérios, Deus a submete à purificação dos afetos: são desprendimentos, são rupturas que às vezes custam sangue, mas que, se aceitas com generosidade, acabam por desvincular o coração das criaturas e o tornam completamente livre para o Criador.
 
-Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo. 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
+Se Deus nos faz passar por essas provas, não recuemos, não fujamos de sua ação, mas secundemo-la, bem persuadidos de que Ele reserva a plenitude de seus dons e de sua luz somente às almas puras de toda sombra de criatura, somente aos corações que lhe pertencem completamente. Nesse sentido, pode-se dizer que a visão de Deus é o prêmio prometido aos puros de coração.
 
-Nossa participação no apostolado de Jesus encontra seu cumprimento no sacrifício de nós mesmos: sacrifício não fantasioso e hipotético, mas real e concreto, de cujo modo e medida o próprio Deus nos indica através das circunstâncias da vida, das permissões de sua divina Providência, das disposições dos superiores, dos deveres de nosso estado.
+Com efeito, quando o coração conserva algum apego, ainda mínimo, às criaturas, o intelecto permanece ofuscado e «não tem capacidade de receber a luz da sabedoria de Deus, à semelhança do ar tenebroso que não a tem para receber a do sol... Oh! — exclama São João da Cruz — se os homens soubessem de quanto bem de luz divina os priva a cegueira causada por seus afetos e desejos!» (Subida I, 8).
 
-Quando uma alma está disposta, pela salvação dos irmãos, a viver no contínuo sacrifício da própria vontade, no contínuo renegar-se; quando está disposta a deixar-se crucificar de qualquer modo pela santa vontade de Deus para conquistar ao seu amor outras almas, então alcança o vértice do apostolado e, portanto, da fecundidade apostólica.
+Ao contrário, quando o coração é puro, então o intelecto, semelhante a um vidro límpido, pode ser totalmente penetrado pela luz do Espírito Santo.
 
-2. — Muitos não se salvam porque não há quem reze e se sacrifique por eles. Sem as lágrimas e os sofrimentos de Mônica, muito provavelmente a Igreja não teria Santo Agostinho. Benditas, pois, aquelas almas que fazem da imolação apostólica a razão de ser e o fim de sua vida.
+2. — Há depois outra pureza de coração que já não é disposição para receber o dom da inteligência, mas é fruto desse dom. Aqui o vocábulo coração é entendido no sentido mais amplo de espírito, de mente, sentido habitual na Sagrada Escritura.
 
-«Minhas irmãs em Cristo — escreve Santa Teresa de Jesus às suas filhas — uni-vos comigo em pedir a Deus esta graça [a salvação das almas]. Para isso Ele vos trouxe aqui; este é o vosso encargo e os vossos desejos, este o assunto de vossas lágrimas e de vossas orações... No dia em que vossas orações, disciplinas, desejos e jejuns não fossem empregados para isso, sabei-o, não alcançaríeis o fim para o qual o Senhor vos reuniu aqui» (Caminho da Perfeição).
+Nossa mente é tão grosseira que podemos sempre errar ao entender as coisas divinas, ora imaginando-as de modo material à maneira das coisas terrenas, ora interpretando-as segundo nossas perspectivas pessoais, ora colhendo só algum aspecto e negligenciando outros essenciais, e assim por diante. Justamente assim, infelizmente, surgiram na Igreja tantas heresias.
 
-Os contemplativos e as contemplativas, não tendo tarefas de apostolado externo, estão maximamente obrigados a concentrar todas as suas forças na oração e no sacrifício, porque só assim corresponderão às grandes esperanças que a Igreja põe neles e realizarão sua vocação.
+O dom da inteligência, participando-nos a luz mesma do Espírito Santo, purifica nossa mente desses erros, liberta-a dos enganos da fantasia, bem como de todas as outras falsas interpretações. Mediante essa pureza da mente, o dom da inteligência assegura a integridade de nossa fé, faz-nos penetrar a realidade objetiva dos mistérios divinos, dá-nos o verdadeiro sentido da lei do Senhor, dos mandamentos e dos conselhos.
 
-Mediante as penitências que provêm do viver em comum e da observância de uma vida austera, humilde, submetida em tudo à obediência e privada de toda satisfação humana, são chamados de modo especial a cumprir generosamente na própria carne o que falta à Paixão de Cristo em favor de seu Corpo místico, que é a Igreja (cf. *Sponsa Christi*).
+Por outro lado, esse dom, fazendo-nos penetrar as coisas divinas mediante a luz infusa do Espírito Santo, faz-nos compreender bem que Deus não pode ser encerrado em nossas imaginações grosseiras, nem em nossas ideias curtas, mas está infinitamente acima de tudo o que podemos pensar e imaginar dele. «Porque Deus é inacessível — diz São João da Cruz — procura não te deteres no que tuas potências podem compreender e teus sentidos perceber, para que não te dês por satisfeito com menos e tua alma não perca a leveza necessária para subir a Deus» (Avisos).
 
-«Vim ao Carmelo para salvar as almas», havia declarado Santa Teresinha do Menino Jesus e, depois de consumir e oferecer para esse fim todas as suas energias, durante os estragos da última doença oferecia pelos pecadores até aquelas orações que se faziam para obter-lhe algum alívio.
+Se queremos secundar o movimento do dom da inteligência, devemos estar desprendidos de nossas ideias; devemos estar dispostos a renunciar a elas, mesmo que nos sejam muito caras; não devemos estar demasiado seguros do nosso modo de entender as coisas de Deus, mas buscar o controle da Igreja; devemos, sobretudo, pedir humildemente o dom da inteligência para que nos liberte dos erros e nos dê a reta inteligência das coisas divinas.
 
-Mas, se os contemplativos devem ser os «especializados» do apostolado do sacrifício, este não pode e não deve faltar, embora em forma diversa, na vida de todo apóstolo. Como Jesus comprou nossas almas ao preço de seu Sangue, assim todo aquele que quer colaborar com Ele na salvação da humanidade deve estar disposto a unir ao Sangue precioso de Cristo alguma gota do próprio.
-
-As almas custam caro e o apóstolo deve pagar do seu aquelas que quer conquistar. O apostolado é verdadeiro e fecundo na medida em que é intrínseco de sofrimento, na medida em que é fruto de imolação.
+Encontrando em nós um espírito puro, o Espírito Santo nos iluminará cada vez mais: a maior luz corresponderá maior pureza e vice-versa, e assim, de claridade em claridade, chegaremos a uma mais profunda penetração dos mistérios divinos, que nos fará pregustar algo da visão beatífica. «Bem-aventurados os puros de coração, porque verão a Deus!»
 
 ### Colóquio
 
-«Senhor, meu coração exulta pensando que te dignaste escolher-me para associar-me à grande obra da Redenção e para sofrer em mim quase um prolongamento da tua Paixão. Tu me tomaste e queres que eu seja para ti quase uma humanidade acrescentada em que possas sofrer pela glória do Pai, pelas necessidades da tua Igreja.
+«Ó Senhor, dá-me sentimentos retos a teu respeito e faze que eu te procure com simplicidade de coração. Meu coração diz a ti: “Buscarei tua face”. Tua presença eu busco, ó Senhor, quando com meu coração te busco. Tu resides onde habitas; e onde habitas, senão em teu templo? Teu templo é nosso coração: ensina-me de que modo devo acolher-te. Tu és espírito, e em espírito e verdade devo adorar-te.
 
-«Como eu seria feliz, Mestre adorado, se me pedisses até derramar o sangue por ti. Mas o que desejo sobretudo é o martírio de amor que consumiu os santos. Pois Tu disseste que a maior prova de amor é dar a vida por quem se ama, eu te dou a minha, para que faças dela o que quiseres; se não sou mártir de sangue, quero ser mártir de amor.
+«Entra em meu coração e desmoronem todos os ídolos.
 
-«Quanto me alegro pensando que, desde a eternidade, fomos conhecidos pelo Pai e que Ele quer reencontrar em nós tua imagem, ó Cristo crucificado! Quão necessário é, pois, o sofrimento, para que tua obra se cumpra em mim! Tu desejas enriquecer-me com tuas graças; sou eu que limito teu dom e determino sua medida em proporção à generosidade com que me deixo imolar por ti.
+«Escutarei agora tua voz e aprenderei a desejar-te; aprenderei a preparar-me para poder ver-te. Bem-aventurados todos os que te veem! E se te veem, não é porque durante a vida foram pobres de espírito, nem porque foram mansos ou chorosos ou famintos e sedentos de justiça ou misericordiosos, mas porque foram puros de coração. Boa é a humildade para possuir o reino dos céus, boa a mansidão para possuir a terra, bom o pranto para ser consolado, boa a fome e a sede de justiça para ser saciado, boa a misericórdia para obter misericórdia: mas é a pureza do coração que faz ver-te.
 
-«Ó Senhor, Tu chamavas a hora da tua Paixão de “tua hora”, aquela para a qual vieste, aquela que todos os teus desejos buscavam. Quando uma grande dor, ou mesmo um pequeníssimo sacrifício, se me apresentar, quero logo pensar que aquela é “a minha hora”, a hora em que posso dar prova do meu amor a ti, que tanto me amaste» (Isabel da Trindade).
+«Eu te quero ver: é grande a coisa que quero, mas és tu que me dizes de querê-la. Vem purificar meu coração, porque puro é o que eu quero ver e impuro é o meio com que o quero ver. Vem a mim, ó Senhor, e purifica-me com tua graça; purifica meu coração com teus auxílios e teus confortos. Se eu te receber no meu coração durante esta vida, tu, depois da vida presente, admitir-me-ás à tua presença» (Santo Agostinho).
+
+«Vem, ó Espírito Santo, e fala sempre ao meu coração; ou ao menos, se te agrada calar, que teu próprio silêncio me fale, porque sem ti estou sempre em perigo de seguir meus erros e de confundi-los com teus ensinamentos» (cf. São Bernardo).

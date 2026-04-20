@@ -1,91 +1,21 @@
-## 202 — FESTA DEL SACRO CUORE DI GESÙ
-*Venerdì dopo l'ottava del Corpus Domini*
+## II — LA PRESENZA REALE
 
-### Presenza di Dio
-
-O Gesù, concedimi di penetrare i segreti nascosti nel tuo Cuore divino.
+**Presenza di Dio.** — *«Ti adoro devotamente, o Dio nascosto sotto i veli eucaristici. A te il mio cuore tutto si abbandona, perché contemplandoti vien meno» (cfr. Adoro te devote).*
 
 ### Meditazione
 
-1. — Dopo aver fissato i nostri sguardi sull'Eucaristia,
-dono che corona tutti i doni dell'amore di Gesù per gli
-uomini, la Chiesa c'invita a considerare direttamente l'amore del Cuore di Cristo, fonte e motivo di ogni dono. Si
-può dire che la festa del Sacro Cuore di Gesù è la festa
-del suo amore per noi. «Ecco quel Cuore che ha tanto
-amato gli uomini» ha detto Gesù a S. Margherita Maria; « ecco il Cuore che ha tanto amato gli uomini » ci
-ripete oggi la Chiesa, mostrandoci che proprio « nel Cuore
-di Cristo, ferito per i nostri peccati, Dio si è misericordiosamente degnato di donarci infiniti tesori di amore» (cfr.
-Colletta). Ispirandosi a questo pensiero, la liturgia odierna
-è una rassegna degli immensi benefici che a noi provengono dall'amore di Cristo, è un inno di lode al suo amore.
-« Cogitationes Cordis ejus» canta l'Introito della Messa:
-«I disegni del suo Cuore — del Cuore di Gesù — passano di età in età per strappare le anime alla morte, per
-alimentarle in tempo di carestia ». Il Cuore di Gesù è sempre
-in cerca di anime da salvare, da sciogliere dai lacci del
-peccato, da lavare col suo Sangue, da cibare col suo Corpo;
-il Cuore di Gesù è sempre vivo nell'Eucaristia per saziare
-la fame di tutti coloro che anelano a lui, per accogliere e
-consolare tutti quelli che, delusi dalle amarezze della vita,
-si rifugiano in lui, in cerca di pace e di ristoro. E Gesù
-stesso ci sostiene nell'asprezza del cammino: « Prendete su di
-voi il mio giogo e imparate da me che sono mansueto e
-umile di cuore, e troverete riposo alle anime vostre» (Alleluja). Se è impossibile eliminare il dolore dalla vita, è
-però possibile per chi vive per Gesù, soffrire in pace e trovare nel suo cuore il riposo dell'anima stanca.
+**1** — «*Verbum caro factum est*» *(Gv.* 1, 14): l'Incarnazione del Verbo, l'ineffabile mistero dell'amore misericordioso di Dio che ha amato l'uomo fino a farsi «carne» per la sua salvezza, viene — in un certo senso — continuato e amplificato attraverso i secoli, e lo sarà fino alla fine dei tempi, per mezzo dell'Eucaristia, il sacramento mediante il quale il Verbo incarnato si è fatto per noi «cibo». Dio non si è accontentato di averci dato una volta per sempre il suo Unigenito volendo che prendesse carne nel seno di una Vergine, carne simile alla nostra, affinché potesse soffrire e morire per noi sulla croce, ma ha voluto che Egli rimanesse per sempre con noi, perpetuando nell'Eucaristia la sua reale presenza ed il suo sacrificio. Attraverso il racconto degli Evangelisti possiamo ricostruire e rivivere in cuor nostro i dolci misteri della vita di Gesù; ma se avessimo solo il Vangelo dovremmo limitarci a ricordi pieni di nostalgia: Gesù non sarebbe più con noi, ma solo in cielo alla destra del Padre, avendo lasciato definitivamente la terra il giorno dell'Ascensione. Con quanto rimpianto volgeremmo lo sguardo ai trentaré anni di vita terrena del Salvatore, ormai trascorsi da secoli! Ma non è così. L'Eucaristia rende permanente in mezzo a noi la presenza di Gesù. Nell'Ostia consacrata troviamo quel Gesù che Maria diede alla luce; che i pastori trovarono avvolti in pochi panni, giacente nella mangiatoia; che Maria e Giuseppe nutrirono, custodirono e videro crescere sotto i loro sguardi; quel Gesù che chiamò dietro a sé gli Apostoli, che affascinava e ammaestrava le folle, che compiva i miracoli più strepitosi, che si è dichiarato la «luce» e la «vita» del mondo, che ha perdonato alla Maddalena, che ha risuscitato Lazzaro; che per amor nostro ha sudato sangue, ha accettato il bacio traditore, è stato ridotto ad una piaga, è morto sulla croce; quel Gesù che, risorto, è apparso agli Apostoli e nelle cui piaghe Tommaso ha posto il dito, che è asceso al cielo, che ora siede glorioso alla destra del Padre e, insieme col Padre, c'invia lo Spirito Santo. O Gesù, Tu sei sempre con noi! sempre il medesimo «ieri ed oggi e anche per i secoli» *(Ebr.* 13, 8). Sempre il medesimo in eterno per l'immutabilità della tua Persona divina, sempre il medesimo nel tempo per il Sacramento eucaristico.
 
-2. — Il Vangelo e l'Epistola ci fanno considerare ancor più direttamente il Cuore di Gesù. Il Vangelo ci mostra
-il suo Cuore messo a nudo dalla ferita della lancia: «uno
-dei soldati gli aprì il costato con la lancia» e S. Agostino
-commenta: «L'Evangelista ha detto aprì, per mostrarci che
-la porta della vita ci si apre in certo modo là, donde sono
-sgorgati i sacramenti». Dal Cuore trafitto di Cristo — simbolo dell'amore che l'ha immolato per noi sulla Croce —
-sono sgorgati i sacramenti, figurati nell'acqua e nel sangue
-usciti dalla sua ferita, e proprio mediante questi sacramenti
-noi riceviamo la vita della grazia; sì, è ben giusto dire che
-il Cuore di Gesù è stato aperto per introdurci nella vita.
-« Stretta è la porta che conduce alla vita» (Mt. 7, 14) disse
-un giorno Gesù, ma se per questa porta noi intendiamo
-la ferita del suo Cuore, possiamo dire che non poteva aprirci
-una porta più accogliente.
+**2** — Gesù nell'Eucaristia è presente con tutta la sua Divinità e con tutta la sua Umanità. Anche l'Umanità, benché sia presente «*per modum substantiae*» — ossia a mo' di sostanza e non corporalmente estesa — è tutta intera nell'Ostia consacrata: Corpo ed Anima, e quest'ultima con le sue facoltà dell'intelligenza e della volontà. Perciò, Gesù nell'Eucaristia ci conosce e ci ama come Dio e come Uomo; Egli non è un oggetto passivo della nostra adorazione, ma è *vivente*: ci vede, ci ascolta, risponde alle nostre preghiere con le sue grazie, cosicché noi possiamo avere col dolce Maestro di cui parla il Vangelo, dei rapporti vivi, concreti e, per quanto non sensibili, simili a quelli che avevano con lui i suoi contemporanei. È vero che nell'Eucaristia è celata non solo la Divinità, ma anche l'Umanità: tuttavia la fede sostituisce vantaggiosamente i sensi, sostituisce ciò che non vediamo e non tocchiamo: *sola fides sufficit*, «a persuadere un cuore sincero — canta S. Tommaso — basta la sola fede» *(Pange lingua)*. Come un giorno Gesù, nascosto sotto le sembianze di pellegrino, istruiva e infervorava il cuore dei discepoli di Emmaus, così Gesù, nascosto sotto i veli eucaristici, illumina le anime nostre, le infiamma col suo amore e le inclina sempre più efficacemente verso il bene.
 
-Ma S. Paolo, nella sua bellissima Epistola, c'invita ad
-entrare ancora più addentro nel Cuore di Gesù per contemplare le sue imperscrutabili ricchezze » e penetrare l'arcano nascosto in Dio». Quest'arcano è appunto il mistero dell'amore infinito di Dio che ci ha prevenuto fin dall'eternità e che ci è stato rivelato dal Verbo fatto carne, è
-il mistero di quell'amore che ci ha voluto redimere e santificare in Cristo «nel quale abbiamo libero accesso a Dio».
-Ancora una volta Gesù ci si presenta come la porta che
-conduce alla salvezza: «Io sono la porta. Chi entrerà per
-me sarà salvo» (Gv. 10, 9) e la porta è il suo Cuore che,
-lacerandosi per noi, ci ha introdotto nella vita. Solo l'amore ci può far penetrare questo mistero d'amore infinito; ma
-non è un amore qualsiasi, è necessario, come dice
-S. Paolo, essere «radicati e fortificati in amore », solo così
-potremo « intendere quest'amore di Cristo che sorpassa ogni
-scienza, affinchè siamo ripieni di tutta la pienezza di Dio».
+Gesù è lì, nell'Ostia consacrata, è il vero Uomo e vero Dio e, come per noi si è incarnato, così per noi si è celato sotto le sacre specie: lì ci attende, ci desidera, sempre pronto ad accoglierci, ad ascoltarci. E noi abbiamo tanto bisogno di lui! È vero, Dio, purissimo spirito, è presente in ogni luogo, anzi, Egli — uno e trino — si degna di abitare nell'anima nostra vivificata dalla grazia; tuttavia, abbiamo sempre bisogno d'incontrarci con Gesù, il Verbo fatto carne, il Dio fatto uomo, il nostro Mediatore, il nostro Salvatore, il nostro fratello, e lo troviamo appunto nell'Eucaristia. Qui, sulla terra, non siamo mai più vicini a lui di quando ci troviamo vicini al SS.mo Sacramento dell'altare.
 
 ### Colloquio
 
-«O Gesù, per divina disposizione fu permesso che uno
-dei soldati ti aprisse e squarciasse il costato. Col Sangue e
-con l'acqua che ne sgorgarono, venne ad effondersi il prezzo della nostra salute che, versandosi dal fonte arcano del
-tuo Cuore, desse forza ai sacramenti di conferire la vita
-della grazia e fosse, per quelli che vivono in te, la coppa
-che attinge al fonte vivo che sale in vita eterna. Sorgi
-dunque, o anima mia, non cessare di vegliare, accosta qui
-la tua bocca, per attingere le acque, per abbeverarti alla
-fonte del Salvatore.
+«O Signore, ricchezza dei poveri, come sai bene sostentare le anime! Invece di scoprire i tuoi tesori tutti in una volta, li sveli a poco a poco, per cui io, nel contemplare la tua eccelsa Maestà velata sotto le fragili apparenze di un'Ostia, non posso a meno di ammirare la tua grande sapienza.
 
-«O Gesù, ora che già mi sono introdotto nel tuo dolcissimo Cuore — ed è gran bene lo starmene qui — non
-voglio facilmente lasciarmi distaccare da te. O quanto è
-buono e dolce abitare nel tuo Cuore! Il Cuore tuo, o Gesù
-buono, è il ricco tesoro, è la perla preziosa che ho scoperto nel segreto del tuo Corpo trafitto, come nel campo
-scavato. Chi getterà via questa perla? Ma piuttosto io butterò via tutte le perle del mondo, darò in cambio tutti i
-miei pensieri e tutti i miei affetti e me la comprerò; getterò ogni mia sollecitudine nel tuo Cuore, o Gesù buono,
-e certamente esso mi sazierà. Ed io l'ho trovato il tuo Cuore.
-O Signore, il tuo Cuore, o Gesù benignissimo: Cuore di re,
-Cuore di fratello, Cuore di amico. Nascosto nel tuo Cuore,
-non pregherò io? Pregherò, sì. Di già il tuo Cuore, lo dico
-francamente, è anche cuore mio. Se Tu, o Gesù, sei il
-Capo mio, come dunque quello che è tuo non dovrà dirsi
-mio? Non è forse vero che gli occhi della mia testa sono
-miei? E dunque il Cuore del mio Capo spirituale, è il cuor
-mio. Che gioia per me! Ecco: Tu ed io abbiamo un solo
-cuore. Frattanto, avendo ritrovato, o Gesù dolcissimo, questo Cuore divino ch'è tuo ed è mio, pregherò te, Dio mio:
-accogli nel sacrario delle tue udienze le mie orazioni, anzi
-attirami tutto nel tuo Cuore!» (S. Bonaventura. Legno di
-vita, 30; Vite mistica, 3, 3 e 4).
+«Signor mio, se Tu non velassi così la tua grandezza, chi ardirebbe di venire a te tante volte per unire con la tua ineffabile Maestà un'anima così piena di sozzure e miserie? Sii per sempre benedetto, o mio Dio! Gli Angeli e le creature tutte ti lodino per aver accomodato i tuoi misteri alla nostra debolezza, in modo da farci godere delle tue ricchezze, senza andare atterriti dalla grande tua potenza. Povere e fragili creature come siamo, se Tu non fossi ricorso a quest'espediente, non avremmo mai osato di avvicinarti.
+
+«O Signore, come potrei io, povera peccatrice che tante volte ti ha offeso, avere il coraggio di starti vicino, se ti vedessi in tutta la tua Maestà? Sotto gli accidenti del pane, invece, sei molto più accessibile, a quel modo che quando un re si traveste, sembra che, parlando con lui, non si debbano avere tanti riguardi e soggezioni. Se Tu, o Signore, non ti fossi travestito, chi di noi oserebbe accostarti, così pieni di freddezza, d'indegnità e d'imperfezione come siamo?
+
+«Del resto, io non posso dubitare affatto della tua reale presenza nell'Eucaristia. Tu mi hai dato una fede così viva che quando sento dire da altri che avrebbero desiderato di vivere nel tempo in cui Tu stavi sulla terra, rido tra me stessa, sembrandomi che, possedendoti nel SS.mo Sacramento, non vi sia più altro da desiderare!» (T.G. *Vi.* 38, 20 e 19; cfr. *Ctm.* 34, 9 e 6).

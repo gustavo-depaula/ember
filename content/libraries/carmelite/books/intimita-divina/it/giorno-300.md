@@ -1,61 +1,25 @@
-## 300 — IL DONO DEL CONSIGLIO
+## VIII — LA NATIVITÀ DI MARIA SANTISSIMA
 
-### Presenza di Dio
+*8 Settembre*
 
-Vieni, Spirito di consiglio, e fa' che il mio cuore ascolti i tuoi suggerimenti!
+**Presenza di Dio.** — O Maria, Madre mia, insegnami a vivere nascosta con te all'ombra di Dio.
 
 ### Meditazione
 
-1. — «Lo Spirito Santo che il Padre manderà in mio nome, v'insegnerà ogni cosa e vi suggerirà tutto ciò che io vi ho detto» (Gv. 14, 26). Questa promessa di Gesù vale per ogni cristiano, vale anche per noi; lo Spirito Santo dimora nelle anime nostre per consigliarci, per ricordarci gli insegnamenti del Signore ed applicarli ai casi concreti della nostra vita. Ma come potremo noi, povere creature tanto grossolane ed abituate al linguaggio rumoroso degli uomini, percepire il lieve mormorio dei divini suggerimenti? Dio vi ha provveduto con un dono speciale, la virtù del consiglio, mediante il quale l'anima nostra diventa capace d'intendere la voce intima e silenziosa dello Spirito Santo, distinguendola da tutte le altre voci.
+**1** — La liturgia celebra con entusiasmo la nascita di Maria e ne fa una delle feste più popolari della devozione mariana. «La tua natività, o Vergine Madre di Dio — canta oggi l'Ufficio — annunziò la gioia al mondo intero; perché da te è sorto il Sole di giustizia, Cristo Dio nostro». Il natale di Maria è il preludio del natale di Gesù, perché proprio in esso ha il suo primo inizio la realizzazione del grande mistero del Figlio di Dio fatto uomo per la salvezza dell'umanità. Come potrebbe passare inosservato al cuore dei redenti il giorno natalizio della Madre del Redentore? La Madre preannuncia il Figlio, dice che il Figlio sta per venire, che le promesse divine, preconizzate da secoli, stanno per avverarsi. La nascita di Maria è l'aurora della nostra Redenzione; il suo apparire proietta una luce nuova su tutta l'umanità: luce d'innocenza, di purezza, di grazia, anticipo splendente della grande luce che inonderà la terra quando apparirà Cristo, *«lux mundi»*. Maria, preservata dal peccato in previsione dei meriti di Cristo, non solo annuncia che la Redenzione è vicina, ma ne porta in sé le primizie, lei, la prima redenta dal suo Figlio divino. E per lei, tutta pura e tutta piena di grazia, la SS.ma Trinità posa finalmente sulla terra uno sguardo di compiacenza, poiché finalmente vi trova una creatura in cui può riflettere la sua bellezza infinita.
 
-Il dono del consiglio è il potente ausiliare della virtù della prudenza. Guidati da questa virtù, cerchiamo di capire come dobbiamo comportarci nelle varie circostanze della vita per piacere a Dio, però non sempre riusciamo a vedere con chiarezza, anzi, di fronte a casi concreti, rimaniamo dubbiosi. Sarà più conforme alla volontà divina questa o quella cosa? In questa deliberazione sono veramente mosso da motivi soprannaturali o c'entra invece la natura, c'entra il mio io? L'interrogativo permane ed anche i consigli di persone sagge non sono sufficienti a dileguare le nostre perplessità, a dare quella luce per cui possiamo agire con sicurezza.
+Dopo la nascita di Gesù, nessuna nascita è stata tanto importante agli occhi di Dio e tanto importante per il bene dell'umanità, quanto quella di Maria. Eppure questa nascita rimane completamente nell'ombra: nulla ce ne dicono le Sacre Scritture e, quando nel Vangelo cerchiamo la genealogia di Gesù, troviamo solo quella che si riferisce a Giuseppe, mentre, fuorché l'accenno alla di lei discendenza da David, nulla di esplicito troviamo circa la genealogia di Maria. Le origini della Madonna scompaiono nel silenzio, come è scomparsa nel silenzio tutta la sua vita. La natività di Maria ci parla di umiltà: più vogliamo crescere agli occhi di Dio, più dobbiamo nasconderci a quelli delle creature; più vogliamo fare cose grandi per Iddio, più dobbiamo lavorare nel silenzio e nel nascondimento.
 
-Abbiamo bisogno che Dio stesso c'illumini dal di dentro, abbiamo bisogno che lo Spirito Santo, mettendo in atto il dono del consiglio, faccia giungere all'anima nostra i suoi consigli divini. Questo dono è come l'antenna che ci dà la possibilità di captare i consigli dello Spirito Santo, consigli preziosissimi e semplicissimi che, oltrepassando il labirinto dei nostri ragionamenti, ci mostrano con luminosa chiarezza la via da seguire, ci fanno comprendere in un istante la volontà di Dio. Più questo dono si sviluppa in noi e più l'anima nostra si apre alla voce dello Spirito Santo e diventa sensibile ai suoi suggerimenti. In forza di questo dono noi, piccole creature, possiamo rivolgere all'Altissimo l'umile, ma ardita preghiera: «Parla, Signore, che il tuo servo ti ascolta» (I Re 3, 9).
+**2** — Nel Vangelo la figura di Maria è quasi completamente nascosta da quella del suo Figlio divino; di lei gli Evangelisti ci dicono quel tanto che è necessario per presentare la Madre del Redentore e difatti entra in scena solo quando s'inizia il racconto dell'incarnazione del Verbo. La vita di Maria si confonde, si perde in quella di Gesù: Maria ha vissuto veramente nascosta con Cristo in Dio. E notiamo che ha vissuto nell'ombra non solo negli anni della sua infanzia, ma anche nei giorni della sua maternità divina, anche nei momenti di trionfo del Figlio suo, anche quando una donna, entusiasta per le mirabili cose che Gesù compiva, alzò la voce in mezzo alla folla gridando: «Beato il seno che ti ha portato e le mammelle che hai succhiate!» *(Lc.* 11, 27).
 
+La ricorrenza mariana che oggi festeggiamo ci invita dunque per noi a vivere alla nascosta, a nasconderci con Maria in Cristo e con Cristo in Dio. Molte volte è Dio stesso che, attraverso le circostanze o le disposizioni dei superiori, s'incarica di farci vivere nell'ombra: dobbiamo allora esergliene molto grati e valerci di queste occasioni per progredire sempre più nella pratica dell'umiltà e del nascondimento. Altre volte, invece, il Signore può affidarci incarichi, uffici, opere di apostolato che ci mettono un po' in evidenza; ebbene, anche in tali circostanze dobbiamo cercare di scomparire il più possibile. Non dobbiamo certo rifiutare di agire, ma dobbiamo agire in modo da saperci eclissare non appena la nostra parola non è più strettamente necessaria per la buona riuscita delle opere affidateci. Tutto il resto: le lodi, gli applausi, la relazione dei successi o la difesa degli insuccessi, non ci deve interessare; di fronte a ciò la nostra tattica deve essere quella di ritirarci con santa disinvoltura. Un'anima di vita interiore deve avere l'ansia di nascondersi quanto più sotto l'ombra di Dio perché, se qualche cosa di bene ha potuto fare, è convinta che tutto è stato opera di Dio e perciò cerca con delicata premura che tutto ridondi unicamente alla sua gloria.
 
-2. — Non c'è dubbio, mediante il dono del consiglio, lo Spirito Santo vuole essere il nostro consigliere nella via della santità. Ma perchè allora godiamo così poco dei suoi divini avvertimenti? Anzitutto perchè siamo distratti, perchè la nostra anima è assordata dalle voci delle creature, è piena dei rumori del mondo. La S. Scrittura paragona la voce dello Spirito Santo al «sussurro di un'aura leggera» (III Re 19, 12); occorre dunque tacere, tacere esteriormente ed ancor più interiormente per poter percepire questa voce tanto tenue e soave. Solo nel silenzio si può udire Colui che si manifesta «nel divino silenzio» (S. GC. AM. 26).
-
-Altra causa che c'impedisce di ricevere i consigli dello
-Spirito Santo è l'attacco al nostro giudizio, ai corti consigli
-
-
-della nostra mente. Basta un po’ di questo attacco, basta un
-po' di ostinazione nelle proprie idee per chiudere l’anima in
-se stessa e renderla incapace di cogliere le ispirazioni divine.
-Non illudiamoci: ciò si verifica anche quando si tratta di
-ostinazione in cose buone perchè l'attacco alle proprie opinioni non è mai buono, non è mai indice dell'azione della
-grazia, ma piuttosto di amor proprio non vinto. Quando un'anima non è sensibile nè pieghevole alla voce esterna dell'ob-
-bedienza che cerca di smuoverla dalla sua tenacia, tanto meno lo potrà essere alla voce interiore e silenziosa dello Spirito
-Santo. Come la barca che, pur essendo munita di vele, finchè
-resta legata alla riva non può venir mossa dal soffio del vento,
-così l'anima attaccata alle proprie opinioni non può godere
-del prezioso influsso del dono del consiglio; questo dono è in
-lei, ma rimane impotente, quasi paralizzato, come rimangono
-impotenti le vele della barca ancorata nel porto. Perciò
-S. Giovanni della Croce ti avvisa: « Rinuncia ai tuoi desideri
-e troverai quello che il tuo cuore desidera. Che sai tu se la
-tua inclinazione è secondo Dio?» (AM. 15).
-
-Coltivando il raccoglimento interiore, attuando il distacco dal nostro giudizio saremo davvero, come ha detto Gesù, «docibiles Dei», ossia avremo le disposizioni necessarie per essere ammaestrati da Dio, per ricevere gli avvertimenti dello Spirito Santo.
+La vita umile e nascosta di Maria sia il modello della nostra e, per emularla, dobbiamo lottare contro le tendenze sempre rinascenti dell'orgoglio, ricorriamo fiduciosi al di lei aiuto materno e Maria ci farà trionfare di ogni vana gloria.
 
 ### Colloquio
 
-«Parla, Signore, chè il tuo servo ti ascolta. Io sono il tuo servo: dammi intelligenza acciocchè comprenda i tuoi precetti. Piega il mio cuore alle parole della tua bocca e la tua favella scenda in me come rugiada. Dicevano un tempo i figli d'Israele a Mosè: “Parlaci tu e noi ti udiremo; ma non ci parli il Signore, chè moriremmo”. Io no, Dio mio, non prego così, ma piuttosto col profeta Samuele umilmente e fervorosamente ti supplico: “Parla, Signore, chè il tuo servo ti ascolta”. Non mi parli Mosè o alcuno dei profeti, ma parlami Tu, Signore Iddio, che ispiri ed illumini tutti i profeti, giacchè
+«Mentre nel mare di questo mondo mi sento sballottare tra procelle e tempeste, tengo gli occhi fissi a te, o Maria, fulgente stella, per non essere sommerso dai flutti.
 
+«Quando insorgono i venti delle tentazioni, quando urto negli scogli delle tribolazioni, innalzo lo sguardo a te e t'invoco, o Maria. Quando sono agitato dalle onde della superbia, dell'ambizione, della maldicenza, della gelosia innalzo lo sguardo a te e t'invoco, o Maria. Quando la collera o l'avarizia o le seduzioni della carne agitano la fragile navicella dell'anima mia, sempre guardo a te, o Maria. E se, turbato per l'enormità delle colpe, confuso per la laidezza della coscienza, atterrito per la severità del giudizio, mi sentissi trascinare nella voragine della tristezza, nell'abisso della disperazione, ancora innalzerò lo sguardo a te, sempre invocandoti, o Maria!
 
-Tu solo, senza di essi, puoi ammaestrarmi perfettamente,
-mentre essi, senza di te, non possono giovarmi.
-
-«I profeti possono dare il suono alle parole, ma non lo
-spirito; dicono bellissime cose, ma se Tu taci, non infiammano il cuore; insegnano la lettera, ma Tu, Signore, sveli
-lo spirito; annunziano i misteri, ma Tu apri l’intelligenza a
-ciò che vi è adombrato.
-
-«Essi rendono noti i tuoi comandamenti, ma Tu ci aiuti
-a metterli in pratica; essi mostrano la via, ma Tu ci dai la
-forza per camminare; essi provvedono all'esterno, Tu invece
-illumini ed ammaestri i cuori; essi innaffiano di fuori, ma Tu concedi la fecondità; essi dicono parole, ma Tu dai intelligenza all'udito.
-
-«Parla, dunque, Signore: il tuo servo ti ascolta, poichè Tu
-hai parole di vita eterna; parlami, per dare qualche consolazione all'anima mia, per emendare tutta la mia vita, a tua
-gloria e a tuo perpetuo onore» (Imit. III, 2, 1-3).
+«Nei pericoli, nelle angustie, nelle perplessità sempre penserò a te, o Maria, sempre t'invocherò. Non partirti, o Vergine, dalla mia bocca; non partirti dal mio cuore; per ottenere l'appoggio delle tue preghiere, fa' che io non perda mai di vista gli esempi della tua vita. Seguendo te, o Maria, non devio, pensando a te non erro, se Tu mi sostieni non cado, se Tu mi proteggi non ho da temere, se Tu mi accompagni non mi affatico, se Tu mi sei propizia giungerò al termine» (cfr. S. Bernardo).

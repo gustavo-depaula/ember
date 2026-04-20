@@ -1,110 +1,19 @@
-## 247 — L'ECCELLENZA DELLA CARITÀ
+## XVII — LE NOSTRE RICCHEZZE
 
-### Presenza di Dio
+*VIII Domenica dopo Pentecoste*
 
-— Fammi comprendere, o Signore, il primato della carità, affinchè io mi impegni in essa con tutto il cuore.
+**Presenza di Dio.** — *O Signore, insegnami ad essere un fedele ed accorto amministratore dei tuoi beni.*
 
 ### Meditazione
 
-1. — Tutte e tre le virtù teologali, avendo per oggetto
+**1** — Anche oggi, come domenica scorsa, nell'Epistola della Messa S. Paolo mette a confronto le due vite che sempre si dibattono in noi: la vita dell'uomo vecchio, schiavo del peccato e delle passioni, da cui provengono frutti di morte, e la vita dell'uomo nuovo, schiavo, o meglio, figlio di Dio, da cui provengono frutti di vita: «Se vivrete secondo la carne morirete, ma se con lo spirito darete morte alle azioni della carne, vivrete». Il battesimo ci ha fatto nascere alla vita dello spirito, ma non ha soppresso in noi la vita della carne; l'uomo nuovo deve sempre combattere contro l'uomo vecchio, lo spirito deve lottare contro la materia. La grazia battesimale non ci ha esonerati da questa lotta, ma ci ha reso capaci di sostenerla. Occorre esser ben convinti di ciò per non farci illusioni, per non sgomentarci se, dopo lunghi anni di vita spirituale, si ridestano ancora in noi certe battaglie che forse pensavamo di aver superate per sempre. È questa la nostra condizione: «la vita dell'uomo sulla terra è una milizia» *(Glob.* 7, 1), tanto che Gesù ha detto: «il regno dei cieli si acquista con la forza» *(Mt.* 11, 12). Ma la continua lotta non deve spaventarci perché la grazia ci ha fatti figli di Dio e, come tali, abbiamo tutto il diritto di contare sul suo aiuto paterno: «Non avete ricevuto lo spirito di servitù — incalza S. Paolo — da ricadere nel timore, ma spirito di adozione a figliuolanza, per cui gridiamo "Abba, Padre"» *(Ep.)*. E, per rafforzare la nostra fede in questa grande verità, soggiunge: «Lo Spirito stesso attesta al nostro spirito che siamo figli di Dio». Sembra quasi che l'Apostolo voglia dirci: Non sono io che vi dico questo, ma è lo Spirito Santo che ve lo dice e che l'attesta dentro di voi. Lo Spirito Santo è in noi, in noi supplica il Padre celeste, in noi suscita la fiducia, la confidenza: non siete servi — ci dice — ma siete figli: di che temete? Ecco le nostre grandi ricchezze: essere figli di Dio, coeredi di Cristo, templi dello Spirito Santo.
 
+**2** — Sotto il velo di una parabola a prima vista un po' sconcertante, il Vangelo di oggi c'insegna ad essere accorti nell'amministrare le grandi ricchezze della vita della grazia. Nel proporre questa parabola, Gesù non ha inteso certo lodare la condotta del servo «infedele» che, dopo aver rubato durante tutto il tempo del suo servizio, continuò a rubare anche quando seppe di essere ormai licenziato. Tuttavia loda il servo per l'accortezza con cui seppe provvedere al suo domani; l'insegnamento della parabola verte proprio su questo punto: «i figli di questo secolo sono, nel loro genere, più accorti che i figli della luce. E io vi dico: fatevi degli amici col mammona di iniquità, affinché quando voi veniate a mancare, vi accolgano nei tabernacoli eterni». Gesù esorta noi «figli della luce», a non essere meno avveduti nel provvedere ai nostri interessi eterni di quel che lo sono i «figli delle tenebre» nell'assicurarsi i beni della terra.
 
-diretto Dio, sono preci alle virtù morali, le quali hanno
-per oggetto diretto il governo della nostra condotta; ma fra
-le stesse virtù teologali la carità ha il primato. Ha il primato
-perchè, essendo inseparabile dalla grazia, è elemento costitutivo e indien della nostra vita soprannaturale; dove
-non c'è carità non c'è grazia, non c'è vita, ma morte: e Chi
-non ama rimane nella morte» e, per riscontro, «chi sta nella
-carità sta in Dio e Dio in lui » (I Gv. 3, 14; 4, 16). La fede
-e la speranza possono sussistere anche in un'anima che ha
-perduto la grazia, ma la carità no: è talmente vitale che non
-può sussistere con la morte causata dal peccato. Non solo,
-ma è talmente vitale che è imperitura e rimarrà immutata
-per tutta l'eternità. In cielo la fede e la speranza cesseranno
-perchè esse comportano qualche cosa d'imperfetto, nel senso
-che la fede ci fa conoscere Dio senza darcene la visione e la
-speranza ci fa sperare in lui senza darcene il possesso, perciò,
-«quando verrà ciò che è perfetto » ossia la visione beatifica,
-queste due virtù non avranno più ragione di essere. Non
-così della carità la quale non implica nessuna imperfezione
-giacchè ci fa amare Dio sia nelle oscurità della fede, sia nella
-chiarezza della visione e perciò, dice S. Paolo, «la carità
-non verrà mai meno >. Quaggiù, per aderire a Dio, « sol
-tanto queste tre cose perdurano: fede, speranza e carità,
-ma la più grande di tutte — conclude l'Apostolo — è la
-carità » (I Cor. 13, 8-13),
-
-La fede e la speranza non sono virtù complete, perchè
-senza la carità non hanno il potere di unirci a Dio e di produrre opere di vita eterna. La fede e la speranza del peccatore
-che ha perduto la carità sono inattive, inoperose; restano in
-lui, è vero, ma vi restano come morte. «La fede senza le
-opere è morta > (Giac. 2, 26) e vale soltanto «la fede ope
-rante per mezzo dell'amore » (Gal. 5, 6) a tal punto che ese
-avessi tutta la fede, sì da trasportare le montagne e poi mancassi di amore, non sarei nulla » (I Cor. 13, 2). E' la carità
-che dà calore e forza di vita eterna alla fede ed alla speranza;
-è la carità che infonde vigore a queste virtù, perchè solo
-chi ama è capace di credere e di sperare in Dio senza nessuna
-condizione, senza nessuna misura ed è capace di abbandonarsi a lui ad occhi chiusi.
-
-
-2.— Le virtù morali possono rendere l'uomo onesto, virtuoso, possono regolare il suo agire secondo ragione, ma non
-possono in nessun modo introdurlo nell'amicizia di Dio e
-neppure dargli la possibilità di meritare la vita eterna. Senza
-il soffio vivificatore della carità, tutto rimane morto, sterile,
-freddo; senza la carità l'uomo resta confinato nel piano naturale, non può essere figlio di Dio, non può essere suo amico, non può vivere in società con le Persone divine. La carità è il principio, la radice, la fonte, la misura della nostra
-vita soprannaturale: più amiamo e più cresce in noi la vita
-della grazia, più amiamo e più viviamo in Dio: « Noi sap
-piamo che siamo stati trasportati dalla morte alla vita perchè
-amiamo » (I Gv. 3, 14).
-
-Cosa veramente impressionante: neppure le opere più
-grandi e più belle, come l'apostolato, la beneficenza, e neppure il martirio, valgono senza carità: « se anche sbocconcellassi a favore dei poveri tutto quello che ho e dessi il mio
-corpo per esser arso, e non avessi amore, non ne avrei alcun
-giovamento » (I Cor. 13, 3). Ma quando interviene la carità,
-tutto cambia aspetto, come cambia aspetto un panorama baciato dal sole e, con ati , cambia il valore: anche le
-opere più umili, gli atti rtù più nascosti compiuti per
-amor di Dio acquistano valore di vita eterna. E' questo il
-miracolo operato dalla carità che ben giustamente S. Tommaso chiama « forma e madre» di tutte le virtù. « Solo l'amore dì valore alle opere — dice Teresa di Gesù — e l'unica cosa necessaria è che l'amore sia così forte che niente valga
-a soffocarlo» (Es. 5, 2). Tutto ciò fa comprendere che in
-carità è davvero « il più grande e il primo comandamento »
-
-su cui si fonda « tutta la legge » (Mt. 22, 38 e 40). L'anima
-che intende questa de verità non si preoccupa più, nella
-sua vita spirituale, di tante pratiche ed esercizi più o meno
-marginali, ma mira al cuore, al centro di questa vita, mira
-alla carità. L'unica sua preoccupazione è d'impegnare tutte
-le sue forze nell'esercizio dell'amore, è di crescere nell'amore,
-di vivere il più possibile in continua attualità di amore e
-perciò in tutte le cose cerca di operare con l'unico fine di
-piacere a Dio, di dargli gusto, di dargli gloria.
+Anche noi, come il servo della parabola, abbiamo ricevuto da Dio un patrimonio da amministrare: sono i doni naturali, ma sono specialmente i doni soprannaturali con tutto quell'insieme di grazie, di sante ispirazioni, d'incitamenti al bene che Dio ci ha elargito. Anche per noi verrà il giorno del rendiconto ed anche noi dovremo riconoscere di essere stati tante volte infedeli nel trafficare i doni di Dio, nel far fruttificare nell'anima nostra le ricchezze della grazia. Come, dunque, rimediare alle nostre infedeltà? Ecco il momento di mettere in pratica l'insegnamento della parabola con la quale, dice S. Agostino, «il Signore ammonisce tutti a valersi dei beni terreni per farsi amici i poveri. Questi alla loro volta, diventati amici dei loro benefattori, saranno causa della loro ammissione in cielo». In altre parole, si tratta di coprire i nostri debiti verso Dio con la carità verso il prossimo perché, come dice la S. Scrittura: «la carità copre una moltitudine di peccati» *(I Piet.* 4, 8). E non si tratta solo di carità materiale, ma anche di quella spirituale; non si tratta solo di grandi cose, ma anche di piccole, di minime, come un bicchier d'acqua dato per amore di Dio. Questi piccoli atti di carità, sempre alla nostra portata, sono le ricchezze con cui saniamo i nostri debiti, sistemiamo la «nostra amministrazione».
 
 ### Colloquio
 
-«Rivestimi, o Signore, della veste purpurea della carità,
-la quale non solo aggiunge grazia alla fede ed alla speranza,
-ma ad un tratto innalza l'anima rendendola gradita e bella
-al tuo cospetto. Questa virtù è quella che attira maggiormente il tuo amore, che difende l'anima dall'amor proprio,
-che avvalora le altre virtù, dando ad esse forza e vigore,
-e grazia e bellezza affinchè l'anima possa piacerti poichè,
-senza la carità, nessuna virtù è gradita agli occhi tuoi.
+«O Signore, è il tuo spirito che combatte in me dentro di me. Tu mi hai dato lo spirito con cui dar morte alle azioni della carne. Mosso dal tuo spirito, io sostengo la lotta perché ho un valido aiuto: il mio peccato mi ha percosso, mi ha ferito, mi ha abbattuto; ma Tu, mio Creatore, ti sei lasciato ferire per me e con la tua morte hai vinto la mia. Io porto in me l'umana fragilità, io porto ancora i ceppi della primiera schiavitù, io ho nelle membra una legge che si oppone alla legge della mente e mi vorrebbe trascinare schiavo della legge del peccato; ancora il corpo corruttibile aggrava l'anima mia. Per quanto io mi senta fermo mercé la tua grazia, pure, finché continuo a portare in questo vaso di terra il tuo tesoro, devo sempre soffrire a causa della mia debolezza. La mia fermezza, per star saldo contro tutte le tentazioni, sei Tu; se le tentazioni si moltiplicano e mi mettono sgomento, Tu sei il mio rifugio. "La mia speranza sei Tu, Tu sei il mio retaggio nella terra dei vivi".
 
-«O dolcissimo amore di Dio, quanto sei mal conosciuto!
-Colui che scopre le tue sorgenti trova alfine riposo. Tu vuoti
-gli affetti della volontà di qualunque cosa che non sia Dio
-e solamente li volgi a lui e quindi disponi questa potenza
-per via d'amore e l'unisci a Dio.
-
-«O Signore, insegnami ad impegnare tutte le mie forze
-nell'amarti, sì che ogni facoltà dell'anima e del corpo, la
-memoria, l'intelletto, i sensi esterni ed interni, gli appetiti
-della parte sensitiva e spirituale, tutto, insomma, si muova per
-amore e in amore. Fa' che, nell'operare, io faccia ogni cosa
-per amore e nel patire sopporti tutto con gusto d'amore e
-così, Dio mio, custodisca per te tutta la mia forza » (cfr. G.C.
-N. II, 21, 10-11; AM. 16; C. 28, 8).
-
-«Propongo, o mio Dio, in tutte le mie operazioni, sì
-interne che esterne, di non avere altra mira che il solo motivo dell'amore, dicendo sempre ed interrogando me stessa:
-adesso che faccio in quest'azione? Amo il mio Dio? E, conoscendo esservi qualche ostacolo al puro amore, rimprovererò
-me stessa, Se o Signore, che ti devo rendere amore per amore. Ben Tu mi fai conoscere che tanto più ti amerò quanto maggiormente sarò diligente nell'osservare tutte
-le tue sante Ieggi > (cfr. T. M. Sp. pp. 324325).
+«Oh, quanto ti sono debitore, Signore Dio mio, poiché da te fui redento a sì alto prezzo! Oh, quanto ti devo amare, benedire, lodare, onorare, glorificare, poiché tanto mi amasti! Darò lode al tuo nome, o Signore, che mi facesti suscettibile di tanta gloria da poter essere tuo figlio. A te devo tutto ciò che ho, tutto quello che serve alla mia vita e tutto ciò che so e amo. Chi ha qualche cosa che non sia tuo? Tu, Signore Dio nostro, largisci a me i tuoi doni, affinché, da te arricchito, io ti serva e ti piaccia e ogni giorno ti renda grazie per i tanti benefici della tua misericordia. Non posso in altro modo servirti, né piacerti, se non impiegando i tuoi propri doni» *(cfr.* S. Agostino).

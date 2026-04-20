@@ -1,112 +1,29 @@
-## 307 — IL DONO DELLA SAPIENZA
+## XV — BEATI I POVERI IN SPIRITO
 
-### Presenza di Dio
-
-Vieni, Spirito di Sapienza, attirami!
+**Presenza di Dio.** — O Spirito Santo, mostrami la via che conduce alla vera povertà di spirito e dammi la forza di percorrerla sino in fondo.
 
 ### Meditazione
 
-1, — Il dono dell'intelletto ci fa penetrare le cose di Dio,
-il dono della sapienza ci porta più avanti ancora, ce le fa
-gustare, ce ne dà una conoscenza sapida. E’ la « saporosa cognizione » di cui parla S. Bernardo, è l'intraducibile « dulce
-sapere » invocato da S. Tommaso (Adoro te devote); è il prezioso dono che lo Spirito Santo ci offre dicendoci: « Gustate
-et videte quam bonus sit Dominus», gustate e vedrete come è buono il Signore (Sal. 33, 9). Non a caso è detto prima
-gustate e poi vedrete, perchè il dono della sapienza ci È co
-noscere Dio proprio attraverso l’esperienza del cuore che « gusta» l'oggetto amato.
+**1** — Quando l'anima asseconda le mozioni dei doni, questi producono in lei frutti di virtù così squisiti che le fanno pregustare qualche cosa della beatitudine eterna di cui sono dolce pegno e che, appunto perciò, si chiamano *beatitudini*. Ad ogni dono corrisponde una beatitudine; al dono del timore corrisponde quella della povertà di spirito: «Beati i poveri in spirito, perché di loro è il regno dei cieli» *(Mt.* 5, 3).
 
-Vi sono due modi di conoscere: un modo speculativo, intellettuale e un modo sperimentale che deriva da una s
-di «connaturalità» con l'oggetto da conoscersi; quest'ultimo è meno distinto, ma molto più profondo del primo e co-
-glie l'intima sostanza delle cose. Così, ad esempio, attraverso
-quell'affinità di sentimenti e di affetti che la lega al figlio,
-na mamma conosce il cuore di lui molto meglio di quali altra persona. Simile a questa è la conoscenza delle cose
-divine che acquistiamo mediante il dono della sapienza.
-Fra noi e Dio vi è una certa « connaturalità », una certa somiglianza prodotta dall'amore che ci unisce a lui e, in qualche
-modo, ci assimila a lui; anzi S. Paolo non esita a dire che
-«chi si unisce al Signore forma un unico spirito con lui»
-(I Cor, 6, 17). Il dono della sapienza ci fa conoscere Dio e
-le cose divine proprio attraverso questa «connaturalità » e
-perciò ce ne dà un'esperienza calda e gustosa per l’amore da
-cui deriva. Tale esperienza afferra l'anima nel suo centro,
-ossia nella volontà, traendola fortemente in Dio e nello stes-
+Il dono del timore, volendo condurre l'anima a liberarsi completamente dal peccato, mira a spegnere in lei la concupiscenza delle cose terrene, che ne è la causa principale. Perciò la sospinge in una via di totale distacco sì che, spogliandola da ogni pretesa dell'egoismo e dell'orgoglio, da ogni cupidigia e da ogni esigenza circa i beni terreni, la stabilisce gradatamente in una perfetta povertà di spirito. Di fronte a tutto quello che la vita può offrire di onori, di soddisfazioni, di affetti delle creature, di ricchezze e di comodità, lo Spirito Santo ci ripete in fondo al cuore le parole di Gesù: «Se vuoi essere perfetto, va', vendi ciò che hai... poi vieni e seguimi» *(Mt.* 19, 21). Ossia non voler avere di più di quel che possiedi, ma spogliarti piuttosto di quello che hai; non essere avido né di ricchezze, né di piaceri o di consolazioni, né di gloria, né di affetti terreni, ma lascia andare tutte queste cose che, riempiendoti il cuore di terra, t'impediscono di riempirti di Dio.
 
+Lo Spirito Santo spinge l'anima alla povertà materiale insegnandole ad accontentarsi di poco, a non avere pretese circa le cose necessarie alla vita, ma la spinge ancora di più alla povertà spirituale perché senza di questa la prima non vale nulla. «La semplice privazione delle cose — dice S. Giovanni della Croce — non spoglia affatto l'anima, se questa conserva l'appetito [ossia l'attacco] verso di loro. Non le cose di questo mondo occupano o danneggiano l'anima, perché in lei non entrano, bensì il desiderio e l'appetito di esse, i quali dimorano in lei» *(S.* I, 3, 4).
 
-so tempo ridonda come luce nell'intelletto. Il dono della sapienza agisce un po’ come il raggio di sole che riscalda ed
-illumina ad un tempo. Riscalda, ravviva la carità dell'anima
-e, attraverso questa infiammazione d'amore, l’illumina sulle
-realtà divine e la rende capace di giudicarle, intuendone la
-bontà infinita e la superiorità assoluta su tutte le cose. «O
-profondità della ricchezza di Dio!» (Rom. 11, 33) è il grido
-dell'anima infiammata ed illuminata dal dono della sapienza.
+**2** — La povertà di spirito non abbraccia solo il distacco dai beni materiali, ma anche quello dai beni morali e perfino spirituali.
 
+Chi nutre delle pretese circa l'affermazione della sua personalità, circa la stima e la considerazione delle creature, chi conserva degli attacchi alla propria volontà, alle proprie idee o è troppo amante della propria indipendenza non è povero in spirito, ma è ancora ricco di se stesso, di amor proprio, di orgoglio. «Se vuoi essere perfetto — l'esorta S. Giovanni della Croce — vendi la tua volontà; avvicinati a Cristo nella mansuetudine e nell'umiltà e seguilo fino al Calvario ed al Sepolcro» *(Av.* 7).
 
-2. — Tutti i doni dello Spirito Santo sono strettamente
-connessi con la carità, giacchè si trovano solo nell'anima che
-
-iede la carità e si sviluppano a misura che essa aumenta;
-ma il dono della sapienza ha con l'amore di carità un rapporto tutto particolare. Anzitutto, proprio attraverso la ca-
-rità esso viene ad attuarsi; «la causa del dono della sapienza — dice S. Tommaso — si trova nella volontà ed è la
-carità» (II-II, q. 45, a. 2), perciò, quanto più un'anima
-ama Dio, tanto più è capace di accogliere la mozione di
-uesto dono. Inoltre, la saporosa cognizione di Dio derivante
-dal dono della sapienza, è quanto mai potente ad accrescere
-la carità: come potremmo non amare i più il Signore dopo averlo gustato? A misura che il dono della sapienza in-
-veste un'anima, la carità aumenta ed aumenta anche la sua
-forza unitiva per cui l’anima aderisce sempre più a Dio.
-
-Questo dono conduce ad un’orazione ancora più profonda di quella in cui interviene il solo dono dell'intelletto:
-l'anima si sente «presa» da Dio, attirata da lui in modo
-irresistibile, si sente veramente unita al Signore e in quest'unione lo gusta — non già in maniera sensibile, ma spiri-
-tuale —- e lo intuisce nel modo più intimo possibile quagiù. Da questa orazione l'anima esce veramente infiammata
-Sao amore che essa dimostra soprattutto con la
-conformità della sua volontà alla volontà di Dio, in tutte le
-contingenze della vita; da questa orazione esce così piena
-di Dio che, ritornando alle sue occupazioni ordinarie, tutto
-vede e considera in rapporto a Dio. In tal modo il dono
-
-
-della sapienza estende il suo influsso anche alla vita pratica e c'insegna a giudicare tutte le cose alla luce di Dio.
-
-Per essere atti dlle mozioni del dono della sapienza — il
-più sublime dei doni — dobbiamo dolcemente disporre il
-nostro cuore alla pienezza dell'amore e, nello stesso tempo,
-dobbiamo applicarci ad acquistare una profonda umiltà
-poichè, come ha detto Gesù, e queste cose sono nascoste ai
-dotti ed ai sapienti secondo il mondo e rivelate ai piccoli»
-(cfr. Mt. 11, 25).
-
-«Acquistano la sapienza di Dio soltanto coloro che,
-quasi bambini ignoranti, deponendo il proprio sapere avan
-zano con amore nel di lui servizio» (G.C. S. I, 4, 5).
+Parimenti chi va ancora in cerca dell'affetto delle creature, della gioia e delle soddisfazioni che queste possono dargli, non è povero in spirito; e non lo è neppure chi, nella vita di pietà, nei rapporti con Dio, va in cerca di consolazioni e di gusti spirituali. La povertà di spirito consiste nell'essere interamente nudi e vuoti di tutte queste pretensioni, sì che l'anima pretenda e desideri una cosa sola: possedere Dio, e resti di ciò contenta anche quando Dio si lascia trovare solo nelle tenebre, nell'aridità, nello sconforto e nella sofferenza. Questa è la perfetta povertà di spirito che rende l'anima libera da tutto ciò che non è Dio, e proprio in ciò consiste il motivo della sua felicità perché «l'anima che si rende spoglia dei suoi desideri, del suo volere e non volere, Iddio la vestirà della sua purezza e del suo gusto e della sua volontà» (G.C. *PA.* 19). La beatitudine promessa ai poveri in spirito è appunto il possesso di Dio, possesso che la rivestirà delle ricchezze infinite di Dio. Questa è la meta cui lo Spirito Santo desidera condurci: assecondiamo la sua azione seguendo con docilità i suoi inviti al distacco ed allo spogliamento totale. Più saremo generosi nel privarci di tutto ciò che non è Dio e più godremo della beatitudine promessa ai poveri in spirito.
 
 ### Colloquio
 
-«Scendi, o Spirito divino, e posa sul mio capo e investi
-il mio cuore; dissipa tutte le tenebre che la follia del mondo
-chiama sapienza; concedimi invece il dono della sapienza
-celeste. ‘Tu solo puoi insegnarmi a disprezzare ciò che il
-mondo ama, ciò che diletta e lusinga, Ls solo puoi inse
-gnarmi a gustare le cose di Dio, la virtù, la pietà, l'amore
-che sei venuto ad accendere sulla terra perchè il mondo
-se ne infiammi» (Ignoto).
+«O Gesù, libro di vita e salute nostra, la tua prima compagna sulla terra fu la povertà continua, estrema, perfettissima. Tu, il Possente, il Signore di tutte le cose volesti la povertà assoluta, affinché anche noi facessimo una sola cosa dell'amore e della povertà. Fosti povero in tutto: povero di cose materiali, povero di volontà propria, povero di spirito, povero al di sopra di ogni nostra possibile immaginazione, povero infinitamente, perché infinito era l'amore col quale ci amasti. Fosti povero come chi non ha nulla, povero come chi neanche chiede quello che non ha. Povero di beni, povero di amici, povero di potenza e di sapienza umana, povero di fama di santità, povero di dignità terrena, povero di ogni cosa che esiste.
 
-«O Dio, che essenzialmente sei amore incereato, amore
-infinito, amore senza mezzo, non solo amante, ma. tutto
-l’amore; o Dio dal quale procedono gli amori di tutti
-rafini e di tutte le creature, perchè non t'amerò io? Perchè non mi consumerò in questo fuoco d'amore, che ab-
-braccia tutto l'universo?
+«Anche con la parola Tu volesti glorificare la povertà e dicesti beati i poveri, dicesti che i poveri avrebbero giudicato il mondo.
 
-<O Dio, che sei essenzialmente la stessa bontà, per il quale tutto il buono è buono, dal quale deriva la bontà di
-tutte le creature, come dal mare vengon le altre acque, al
-di sopra della cui eccellente bontà non esiste cosa alcuna
-in terra ed in cielo che si possa dire buona, perchè non t'amerò io, essendo la bontà oggetto dell'amore?
+«Ma oh, vergogna e dolore! Oggi, o Signore, questa povertà di spirito da te tanto insegnata ed esaltata è respinta e sfuggita quasi da tutti, ed anche coloro che la predicano e la glorificano a parole, di fatto la rinnegano con la volontà, col desiderio, con le opere.
 
-«O Padre santissimo! O Figlio clementissimo! O Santo
-Spirito amantissimo! Quando nel più intimo della mia ani-
+«Oh, veramente beato chi, seguendo il tuo esempio, o Cristo, ha eletto la povertà a sua compagna! Veramente beato, come Tu hai detto, chi, non solo a parole, ma con la volontà, ma con la vita, si fa povero d'ogni bene, povero di amici, di parenti, di consolazioni e di scienza vana; beato chi rifugge dalle dignità, dalle cariche, dalla fama di santità.
 
-
-ma e nel suo più profondo sarai Tu, o Padre, la cosa più
-riposta, e mi possederai appieno? Quando sarò tutto tuo,
-e Tu tutto mio? Quando sarai mio re? Quando verrà tale
-giorno? Oh, quando? Ah, verrà certo! Credi Tu che verrà?
-Quale ritardo! Che penoso rinvio! Affrettati, o Gesù, af
-frettati, non tardare!» (Ven. Luigi di Granata).
+«O Signore, se non posso materialmente spogliarmi di tutte le cose terrene, concedimi, ti supplico, di spogliarme ne almeno nel cuore, è non una sola, ma ogni giorno, ogni momento. O veramente beato un tal povero, poiché il regno dei cieli è suo!» (B. Angela da Foligno).

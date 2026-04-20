@@ -1,103 +1,27 @@
-## 226 — LA BONTÀ INFINITA SI DIFFONDE
+## XXVI — VIVERE CON LA TRINITÀ
 
-### Presenza di Dio
-
-O Bontà infinita, che incessantemente ti comunichi alle tue creature, insegnami ad imitarti.
+**Presenza di Dio.** — *O Padre, o Figlio, o Spirito Santo, ricevetemi nel vostro amplesso, degnatevi di ammettermi nella vostra intimità.*
 
 ### Meditazione
 
-1. — Il bene non si rinchiude in se stesso; la sua caratteristica è di diffondersi, ossia di comunicarsi agli altri, «ho
-mum diffusivum sui». Quanto più il bene è tale, tanto più
-tende a diffondersi; Dio è il Bene sommo, perciò è il bene
-sommamente diffusivo. Dio si effonde anzitutto in se stesso,
-nel seno della SS.ma Trinità: il Padre comunica al Figlio
-tutta la sua divinità, essenza, vita, bontà, beatitudine divina;
-il Padre ed il Figlio insieme la comunicano allo Spirito San
-to. Proprio in questa comunicazione essenziale, totale, incessante, assoluta consiste la vita intima di Dio, consiste il mistero della SS.ma Trinità; qui abbiamo la suprema realizzazione dell'assioma: e bonum diffusivum sui».
+**1** — Se vuoi che il grande dono dell'inabitazione della Trinità porti in te tutto il suo frutto di intima amicizia con le tre Persone divine, devi abituarti a vivere con la Trinità, giacché è impossibile realizzare una vera amicizia con qualcuno quando, pur ospitandolo in casa propria, si vive poi dimentichi di lui. Per vivere con la Trinità non è necessario che avverta la sua presenza in te — questa è una grazia che dipende unicamente da Dio il concederla o no — basta che ti basi sulla fede mediante la quale sai con certezza che le Persone divine dimorano in te. Fondandoti su questa realtà che non vedi, non senti, né comprendi, ma che Dio te l'ha rivelata, puoi orientarti ad una vera vita di unione con la SS.ma Trinità.
 
-Ma la Bontà infinita vuole effondersi anche al di fuori
-di sè e così Dio chiama all'esistenza un numero sterminato
-di esseri ai quali comunica in modo e in grado differente
-qualche cosa della sua bontà. Dio non crea le creature perchè
-abbia bisogno di esse, chè esse nulla possono aggiungere alla
-sua beatitudine e gloria essenziale, ma le crea unicamente
-per espandere al di fuori di sè la sua bontà infinita. Dio non
-vuole le creature perchè in esse vi sia qualche bene, qualche
-amabilità, ma, creandole, partecipa ad esse il suo bene e le
-rende amabili. Dio si comunica alle creature unicamente perchè è buono e gode di partecipare il suo bene ad altri esseri. La bontà di Dio è talmente grande che può comunicarsi
-ad un numero infinito di creature senza mai esaurirsi; la bontà
-di Dio è talmente diffusiva che fa buono tutto ciò che tocca,
-che rende buone tutte le sue creature. Questa bontà è la ragione del tuo essere e della tua vita; creandoti, essa ha impresso in te la sua orma e tuttora ti avvolge e ti penetra senza Esamina il tuo cuore e vedi se conserva l'impronta
-della bontà divina; esamina i tuoi pensieri, i tuoi sentimenti,
-le tue azioni e vedi se vi risplende il riflesso della bontà infinita.
+Puoi anzitutto considerare la Trinità presente in te nella sua indivisa unità, anzi, già sai che tutto ciò che la Trinità compie fuori di sé, e quindi anche nell'anima tua, è operato indistintamente dalle tre Persone divine. Tutte e tre dimorano ugualmente in te, vi dimorano contemporaneamente e vi producono gli stessi effetti. Tutte e tre diffondono in te la grazia e l'amore, t'illuminano, ti offrono la loro amicizia e ti amano di un unico amore. Tuttavia, ciò non toglie che ognuna di esse sia presente nell'anima tua con le caratteristiche proprie della sua Persona: ossia il Padre, come fonte originaria della divinità e di ogni essere; il Verbo, come splendore del Padre, come luce; lo Spirito Santo come frutto dell'amore del Padre e del Figlio. Ogni Persona divina, dunque, ti ama con una sfumatura personale e ti offre il suo dono particolare. Il Padre ti offre la sua dolcissima paternità, il Verbo t'investe con la sua vivida luce, lo Spirito Santo ti penetra con il suo amore ardente. E tu, piccola creatura, cerca di renderti cosciente di così grandi doni per approfittarne in pieno.
 
-2. — La bontà di Dio è così gratuita che si comunica
-alle creature senza che esse lo meritino; è così liberale che
-sempre le previene e non lascia di effondere su di esse i suoi
-lumi, anche quando, abusando della loro libertà, esse se ne
-mostrano indegne. La bontà di Dio è così longanime che non
-si arresta di (AA alle ingratitudini, alle resistenze e ni
-pure di fronte alle offese delle sue creature, ma sempre
-insegue con le sue grazie. Dio avrebbe tutto il diritto di
+**2** — In corrispondenza alle particolari caratteristiche delle tre Persone divine, tu puoi avere con ognuna di loro particolari rapporti. Considerando in te il Padre, sentirai il bisogno di vivere vicino a lui come un buon figliuolo, di essere per lui un figlio amante e devoto che cerca di fargli piacere in tutto, che vuol fare in tutto la sua volontà. E nello stesso tempo, specialmente nei momenti di difficoltà e di sconforto, ti sentirai spinto a rifugiarti in lui, per trovare nella sua onnipotenza, grandezza, bontà infinita, un sostegno e un rimedio alla tua insufficienza, piccolezza, miseria.
 
-spondere ai peccati degli uomini togliendo ed essi la vita e
-tutti quei beni che ha loro concesso, ma la sua bontà infinita preferisce rispondere con nuovi doni, con nuove prove
-di benevolenza e dice: «Non voglio la morte dell'empio,
+Considerando il Verbo presente nell'anima tua, sentirai il bisogno di lasciarti penetrare dalla sua luce, di farti istruire da lui che è la parola del Padre, affinché ti introduca alla vera conoscenza dei misteri divini e t'insegni a giudicare tutte le cose secondo Dio. Sentirai il bisogno di andarlo a cercare nella sua Incarnazione dove lo trovi più accessibile alla tua umanità, di rifugiarti nella sua Redenzione mediante la quale ti dà la vita, si fa tuo fratello, ti presenta al Padre come figlio.
 
-'bontà è infinitamente dissimile da quella di
-ma che l'empio si converta dalla sua condotta e viva»
-(Ez. 33, 11).
+Considerando lo Spirito Santo, frutto delizioso dell'amore del Padre e del Figlio, sorgerà più vivo in te il desiderio di assecondare la sua opera di amore nell'anima tua, per ciò vorrai seguire più docilmente le sue ispirazioni, vorrai lasciarti guidare da lui in tutte le cose e, infine, lasciarti prendere dal suo impulso divino, affinché ti trascini con sé nel Padre e nel Figlio.
 
-Considera ora la tua bontà e vedi come, in confronto a
-uella di Dio, è meschina, gretta, calcolatrice, interessata.
-uante volte agisci anche tu come quei pagani di cui parla
-
-il Vangelo, i quali amano solo coloro che li amano (cfr. Mt.
-5, 46). Sei buono con chi è buono con te, rendi servizi a chi
-te ne dì il ricambio; ma spesso sei duro e sei avaro dei tuoi
-doni con coloro dai quali non puoi aspettarti nessuna ricompensa. Non ti accade forse di essere dolce e benevolo con chi
-ti approva e condivide le tue idee e di essere, invece, aspro
-e poco benigno con chi ti è contrario? Di fronte alle freddezze, alle ingratitudini, alle offese, e talvolta perfino di fronte alle piccole mancanze di riguardo, la tua bontà si ferma,
-si ritira, si rinchiude in se stessa e non sei più capace di
-essere benevolo verso il prossimo. Vedi, dunque, come la tua
-
-Dio. Vedi come
-hai bisogno di meditare le parole di Gesù che t'invitano ad
-imitare la bontà del Padre celeste: « Amate i vostri nemici.
-fate del bene a chi vi odia e pregate per quelli che vi perseguitano e vi calunniano, affinchè siate figli del Padre vostro
-che è nei cieli, il quale fa sorgere il sole sui buoni e sui cattivi e fa piovere sui giusti e sugl'ingiusti » (Mt. 5, 44 e 45).
+In tal modo, come dice S. Giovanni, si realizzerà in te quel fine altissimo per cui Dio ci ha creato e ci ha redento, ossia che «la nostra società sia col Padre e col Figliolo suo Gesù Cristo» *(I. 1, 3)*. E questo non per i tuoi meriti, ma per i meriti infiniti di Cristo che ti ha partecipato la sua gloria di figlio di Dio, che ti ha messo a parte dell'amore con cui il Padre lo ama, che ti ha donato il suo Spirito, che si è fatto tuo cibo per alimentare nel modo più diretto la tua vita di unione con la Trinità sacrosanta.
 
 ### Colloquio
 
-«O Padre eterno! O fuoco e abisso di carità! O eterna
-clemenza, o speranza, o rifugio dei peccatori! O eterno infinito bene! E hai Tu bisogno della tua creatura? Sì, pare
-a me, poichè agisci come se senza di lei Tu non potessi vivere, Tu che sei la vita dalla quale ogni cosa ha vita
-e senza di te nessupa cosa vive. Perchè, dunque, agisci
-così? Perchè t'innamorasti della tua fattura e ti dilettasti
-di lei, come ebbro della sua salvezza, Ella ti fugge e Tu la
-vai cercando; ella si allontana e Tu ti avvicini. Più vicino
-non le potevi venire che vestendoti della sua umanità. E che
-dirò? Farò come Geremia e dirò: "a, a', perchè non so dire
+«O mio Dio, Trinità che adoro, aiutami a dimenticarmi completamente per stabilirmi in te, immobile e tranquilla come se l'anima mia già fosse nell'eternità! Che nulla possa turbar la mia pace né ritrarmi da te, o mio Immutabile, anzi, che ogni istante mi porti più addentro nella profondità del tuo mistero!
 
-d
+«Pacifica la mia anima, fanne il tuo cielo, la tua dimora gradita e il luogo del tuo riposo: che io non ti lasci mai solo, ma che vi stia tutta intera, sempre desta nella fede, sempre adorando, tutta abbandonata alla tua azione creatrice.
 
-altro, perchè la lingua finita non può esprimere l'affetto dell'anima che infinitamente desidera te. Mi pare di poter ripetere la parola di Paolo quando disse: * Nè lingua può dire,
-nè orecchio udire, nè occhio vedere, nè cuore pensare quello
-che io vidi'. Che vedesti? * Vidi arcana Dei", ho visto i misteri ineffabili di Dio. E io che dico? Nulla aggiungo con i
-miei sentimenti grossolani; ma solo ti dico, anima mia, che
-hai gustato, veduto l'abisso della somma eterna provvidenza.
-Ora rendo grazie a te, sommo eterno Padre, della smisurata
-tua bontà, mostrata a me miserabile, indegna di ogni grazia.
+«O mio Cristo amato, crocifisso per amore, vorrei essere una sposa per il tuo cuore, vorrei colmarti di gloria, vorrei amarti tanto... da morirne. Ma sento la mia impotenza, e ti chiedo di rivestirmi di te stesso, di identificare l'anima mia a tutti i movimenti della tua, di sommergermi, di invadermi, a tutti i movimenti della tua, così che la mia vita non sia più una emanazione della tua. Vieni in me come Adoratore, come Riparatore e come Salvatore.
 
-« E sarò io quella misera che possa render grazia all'infocata carità che Tu mostri a me e a tutte le tue creature?
-No! Ma solo Tu, dolcissimo e amoroso Padre, sarai grato e
-riconoscente per me, cioè l'affetto della tua stessa carità ti
-renderà grazie, perocchè io sono colei che non sono. E se
-dicessi d'essere alcuna cosa per me, mentirei, poichè Tu solo
-sei Colui che sei. E l'essere e ogni grazia io ho ricevuto da
-te che me lo desti e continuamente dai per amore e non per
-debito,
-
-«O bontà infinita, o amore inestimabile, ammirabili sono
-le cose che Tu hai operato nella tua creatura ragionevole!»
-(S. Caterina da Siena).
+«O Verbo eterno, Parola del mio Dio, voglio passar la vita ad ascoltarti, voglio rendermi perfettamente docile per apprender tutto da te; poi, attraverso tutte le notti dello spirito, tutti i vuoti, tutte le impotenze, voglio lissarti sempre e rimanere nella tua luce immensa. O Astro mio amato, affascinami, così ch'io non possa più ritrarmi dal tuo chiarore.

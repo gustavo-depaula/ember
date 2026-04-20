@@ -1,89 +1,19 @@
-## 262 — LA DOLCEZZA
+## I — LA CARITÀ FRATERNA
 
-### Presenza di Dio
-
-O Maria, Madre dolcissima, voglio vivere con te come un figlio vive con la mamma sua.
+**Presenza di Dio.** — *O Signore, concedimi di penetrare il profondo significato del precetto della carità fraterna.*
 
 ### Meditazione
 
-1. — La dolcezza è il fiore della carità; è una partecipazione di quella soavità infinita con cui Dio guida e governa
-tutte le cose. Nessuno vuole il nostro bene, la nostra santificazione con tanta forza come Dio, e tuttavia Egli non lo
-vuole con durezza, rigidità o violenza, ma con forza sommamente soave, sempre rispettando la nostra libertà, sostenendo i nostri sforzi, attendendo la nostra adesione alla grazia
-con pazienza e dolcezza infinita. Il Vangelo così ci descrive
-la dolcezza di Gesù: « Non disputerà e non griderà e nessuno udrà la sua voce sulle piazze. Non spezzerà la canna
-rotta e non spegnerà il lucignolo fumigante » (Mt. 12, 19 e
-20). I farisei mormorano perchè lo vedono mangiare coi pubblicani e i peccatori e lui risponde: « Andate ad imparare
-che cosa significhi: io voglio misericordia e non sacrificio:
-perchè io non son venuto a chiamare i giusti, ma i peccatori» (Mt. 9, 13). Gli Apostoli sono pronti ad invocare il fuoco
-sui samaritani che respingono il Maestro, ma Egli li sgrida:
-«Non sapete di quale spirito siete, il Figliuol dell’uomo non
-è venuto a perdere le anime ma a salvarle » (Lc. 9, 55 e 56).
+**1** — Gesù ci ha proposto come fondamento di tutta la legge non solo il precetto dell'amore di Dio, «il più grande e il primo comandamento», ma anche il precetto dell'amore del prossimo, dichiarandolo espressamente «simile» al primo *(Mt.* 22, 38 e 39). Che il precetto dell'amore di Dio sia la base di tutta la vita cristiana è facile comprenderlo, ma non è altrettanto facile comprendere che tale sia anche il precetto della carità fraterna. Eppure Gesù ha connesso così strettamente questi due comandamenti da farci pensare che l'uno non può sussistere senza l'altro e viceversa; Egli non ha detto che tutto si fonda sul primo comandamento, quello dell'amore di Dio, bensì: «su questi *due comandamenti* [dell'amor di Dio e del prossimo] si fondano tutta la legge e i profeti» *(ivi,* 40). Ma perché mettere l'amore del prossimo così vicino all'amore di Dio, perché farne con esso l'unica base di tutto il cristianesimo? Perché la virtù della carità fraterna non è amore della creatura in se stessa e per se stessa, ma è amore della creatura «*propter Deum*», ossia in vista di Dio, a motivo delle sue relazioni con Dio. In altre parole, dobbiamo ben comprendere che Dio ci comanda di amarlo non solo in se stesso, ma anche nelle sue creature ragionevoli che Egli si è compiaciuto di creare a sua immagine e somiglianza. Come un padre desidera di essere amato e rispettato non solo nella sua persona, ma anche nei suoi figli, così Dio desidera di essere amato non solo in se stesso, ma anche nelle sue creature e lo desidera a tal punto che considera come fatto a sé tutto ciò che viene fatto a qualsiasi uomo. «In verità vi dico — ha detto Gesù — che tutte le volte che avete fatto qualche cosa a uno di questi minimi tra i miei fratelli, l'avete fatta a me» *(Mt.* 25, 40). La carità fraterna è tanto importante perché non è altro che l'estensione della carità verso Dio, estensione che abbraccia tutti gli uomini in vista di Dio, loro Creatore e loro Padre. Proprio per questo motivo il precetto dell'amore del prossimo è inseparabile da quello dell'amore di Dio.
 
-E a queste anime che, combattendo contro le loro miserie,
-sentono il peso e la fatica della lotta quotidiana, dice: « Venite a me voi tutti, che siete affaticati e oppressi ed io vi
-consolerò. Il mio giogo è dolce e il mio carico è leggero»
-(Mt. 11, 28 e 30). Ciò che rende dolce il giogo del Signore,
-ciò che ne alleggerisce il peso è appunto la sua carità infinita
-che infonde dovunque un senso di soavità e di dolcezza.
-
-La carità fraterna deve fiorire in questo spirito di soavità
-che, anzichè esasperare le piaghe altrui le addolcisce, anzichè aumentare i pesi li alleggerisce, anzichè rendere più
-duro l'adempimento del dovere lo rende più facile e soave.
-La carità ha questa dolcezza con tutti, anche con gli ostinati, anche con i tardi ed i pigri nel corrispondere al bene,
-anche con i deboli che sempre ricadono negli stessi difetti.
-Anche se in un cuore ci fosse solo un briciolo di bene, bisogna circondare questo briciolo di cure amorevoli per aiutarne lo sviluppo e perciò chi ha imparato la dolcezza di
-Gesù «non spegnerà il lucignolo fumigante»,
-
-
-2. — Nei contatti col prossimo talvolta la nostra carità
-è messa a dura prova e, di fronte al comportamento irritante
-di certe persone, i propositi di dolcezza vengono ben presto
-travolti da movimenti di sdegno, di collera. Ciò non deve
-scoraggiarci trattandosi in genere di reazioni spontanee indipendenti dalla volontà, ma non deve neppure autorizzarci a seguire gli impulsi della passione col pretesto che è troppo
-difficile resistere e che ci sentiamo trascinati nostro malgrado. E' sempre in mano nostra il poter reagire e ci riusciremo
-più facilmente quanto più la nostra reazione sarà pronta, energica e soave insieme. S. Teresa del B. G. insegnava alle sue
-novizie: «Quando vi sentite esasperate verso qualcuno, e
-fosse pure fino alla collera, il mezzo per ritrovare la pace è
-di pregare per quella persona e chiedere a Dio di ricompensarla perchè vi dà occasione di soffrire». E suggeriva di prevenire questi incontri cercando di « addolcire anticipatamente il cuore » (Ricordi inediti),
-
-Del resto se al prossimo adirato rispondiamo con ira,
-non facciamo chè aumentare l'incendio, mentre bisogna cercare di spegnere la collera opponendovi dolcezza e mansuetudine. La dolcezza però non è condiscendenza e tanto meno connivenza col male: vi sono pure dei casi in cui, come
-insegna il Vangelo, la correzione fraterna è un dovere che
-s'impone ed allora è un vero atto di carità. Ma perchè sia
-davvero tale non deve mai essere fatta con l'intento di umiliare, di mortificare e tanto meno di offendere il colpevole,
-non deve mai essere ispirata, anche solo indirettamente, da
-motivi personali tendenti a far valere i propri diritti, le proprie ragioni, a prendere la rivincita per qualche torto ricevuto. In questi casi la correzione, lungi dall'essere un atto
-di carità, è totalmente contraria a questa virtù, e, anzichè
-fare del bene, produrrà piuttosto l'effetto contrario. Solo un
-desiderio spassionato e sincero del bene altrui può rendere
-caritatevole ed efficace la correzione fraterna e questa deve
-essere fatta con tanta bontà che in essa il fratello senta molto di più l'amore che gli portiamo che non l'umiliazione di
-venir ripreso. Proprio così Gesù ha trattato i colpevoli: tutti
-sono stati sanati dal suo amore, dalla sua dolcezza.
+**2** — Dio ci tiene talmente ad essere amato nel prossimo, che pone questo amore come condizione essenziale della nostra salvezza eterna. Quando Gesù ci parla del giudizio finale non porta altro motivo della giustificazione dei buoni e della dannazione dei reprobi che le opere di misericordia compiute o tralasciate verso il prossimo. «Venite, o benedetti dal Padre mio; possedete il regno che vi è stato preparato fin dalla fondazione del mondo». Ma perché? «Perché io ebbi fame e mi deste da mangiare; ebbi sete e mi deste da bere...» *(Mt.* 25, 34 e 35). Ebbi fame nei poveri, ebbi sete nel vostro prossimo. È molto consolante pensare che Dio ritiene e premia come fatte a sé le opere di carità esercitate verso il prossimo, è altrettanto grave pensare che Egli ritiene e castiga come rivolte a sé le mancanze di carità commesse verso il prossimo stesso. Gesù, che è la personificazione della bontà e della misericordia infinita del Padre celeste, non esita a pronunciare la sentenza di condanna eterna per coloro che non hanno amato, non hanno soccorso, non hanno consolato il prossimo. Perché? Perché: «Io vi dico in verità che tutte le volte che non avete fatto [tali cose] a uno di questi minimi tra i miei fratelli, non l'avete fatto a me» *(Mt.* 25, 45). Dio esige la riprova concreta del nostro amore verso di lui nel nostro modo di comportarci verso il prossimo. Non possiamo illuderci di amare Dio quando non amiamo i nostri simili che, al pari di noi, sono l'immagine vivente del Padre celeste. E che importa se talvolta questa immagine è sfigurata dai difetti, dal peccato e forse anche dai vizi? Resta pur sempre immagine di Dio, immagine che la carità deve farci riconoscere, venerare e amare in qualsiasi uomo ed in qualsiasi condizione possa trovarsi. Non possiamo accontentarci di amare Dio idealmente, ma dobbiamo amarlo realisticamente, nella concretezza dei nostri rapporti col prossimo: qui è la prova più sicura del nostro amore per Iddio.
 
 ### Colloquio
 
-«O Signore Gesù che, morendo sulla croce, avevi un cuore sì dolce verso di noi e ci amavi tanto soavemente, mentre
-noi stessi eravamo la causa della tua morte e ad altro non
-pensavi che ad ottenere il perdono dei tuoi crocifissori, mentre quelli ti martoriavano ed insultavano crudelmente, aiutami, ti prego, a sopportare con dolcezza le imperfezioni ed i
-difetti del mio prossimo.
+«O carità, sei grande quanto il mio stesso Dio, perché Dio è carità. Tu voli tanto in alto che te ne vai al trono della SS.ma Trinità e quivi entri nel seno dell'Eterno Padre e dal seno del Padre te ne vai al Cuore del Verbo Incarnato e lì ti riposi e cavi il nutrimento. Così l'anima che ti possiede cerca di nutrirsi solo di Dio e di riposarsi in lui; e, dopo essersi quivi nutrita e riposata, se ne scende già in terra, perché tu, o carità, ti estendi ancora ai prossimi amandoli non solo come creature, ma come esseri creati da Dio ad immagine e similitudine sua. Non ti fermi ad amare i corpi che sono la scorza, ma penetri nell'interno delle anime e quelle ami soprattutto; non ti fermi ai doni di Dio, ma risali al Donatore e tutti ami unicamente in lui.
 
-««Insegnami a ricambiare coloro che mi disprezzano o mormorano di me con umiltà, dolcezza e bontà di cuore invariabile, senza mai difendermi in alcun modo. Per amor tuo
-voglio lasciar dire ad ognuno quello che vorrà, perchè ciò
-che vale non sono le parole, ma l’amore, e chi più amerà
-sarà più amato e glorificato. Aiutami, dunque, Gesù mio,
+«O carità, tu sei tanto sublime che ci unisci a Dio! Tu puoi ogni cosa e nella Chiesa produci una specie di Trinità a similitudine della SS.ma Trinità; perché, siccome il Padre è Dio, il Figlio è Dio, lo Spirito Santo è Dio e tutti e tre sono uniti e sono una stessa cosa, così mediante la tua virtù, o carità, deriva a noi questa unione perché tu unisci l'anima a Dio e un prossimo all'altro e così formi nella Chiesa, in modo invisibile, una specie di trinità.
 
-ad amare te e per amor tuo tutte le creature, particolarmente
+«Chi ti possiede, o carità, nutre se stesso di Dio, al punto che diventa simile a lui per grazia e partecipazione.
 
-quelle che mi disprezzano, senza lasciarmi turbare per i loro
-disprezzi, ma applicandomi a praticare l'umiltà e la dolcezza
-e allora Tu sarai la mia corona.
-
-«Insegnami sempre a comportarmi con dolcezza e soavità, senza rompere mai la pace con nessuno. Ciò che potrò
-fare ed ottenere con amore lo farò; ma ciò che non potrò fare ed ottenere senza contrasto, lo lascerò stare. Aiutami Tu
-a valermi delle avversioni e ripugnanze che incontrerò nel
-trattare col prossimo, per esercitare la virtù della dolcezza,
-agendo amorosamente con qualsiasi persona, ancorchè mi
-fosse contraria o mi cagionasse disgusto,
-
-«In conclusione, propongo col tuo aiuto, o Dio amabilissimo, di applicarmi per acquistare la soavità del cuore verso il prossimo, amandolo come creatura tua, destinata a lodarti in eterno in Paradiso. Quelli che sopporti Tu, o Signore Iddio, è ben giusto che li sopporti anch'io teneramente e con grande compassione per le loro infermità spirituali» (cfr. S. Francesco di Sales).
+«Concedimi, Dio mio, una carità così perfetta che io sappia abbondantissimamente scendere, sovvenire, sollevare il prossimo mio in tutti i suoi bisogni, infermità e fatiche e sappia con somma prudenza compatire i difetti altrui» (cfr. S. M. Maddalena de' Pazzi).

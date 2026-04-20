@@ -1,61 +1,102 @@
-## 353 — UNION OF WILLS
+## 31 — REPAY LOVE
+*December 27*
 
 ### Presence of God
 
-O Lord, take my whole will and transform it into Yours.
+O my God, may I know You, may I know myself! May I know that You are He who is, and I the one who is not.
 
 ### Meditation
 
-The summit of love is perfect union of man’s will with God’s will.
+1 — In order to assume human nature and thus unite Himself to
+it, the eternal Word concealed His divinity,
+majesty, power, infinite wisdom: behold the divine Infant who does not know how
+to speak, who does not know how to move, who in everything depends and
+expects everything from His mother, His creature.
 
-As love develops, it has so emptied the soul of all that is contrary to the divine will, and so moved it to love and will only what God Himself loves and wills, that little by little the weak human will has been fully conformed and united to the divine, to the point that from two wills one only has been made: «which is God’s will, and this is also the soul’s will» (St. John of the Cross).
+Let us understand this mystery in order to apply it to our poor
+life! True love overcomes every obstacle, accepts
+any condition and renounces all in order to unite itself to the one it
+loves. If we want to unite ourselves to God, we must follow a
+way similar to that which the Word followed to unite Himself to human
+nature: way of prodigious lowering, of infinite
+humility! Behold opening before us the way of "nothing," of total self-denial. "All, nothing; all, nothing!" This is
+the lullaby St. John of the Cross sings to his God
+made man: "To possess all, possess nothing
+of nothing" (Ascent I, 13, 11). Before the infinite humiliations of the eternal
+Word who became flesh, this way cannot seem to us too
+austere and demanding. To repay His
+infinite love, to show Him our love, let us decide to strip ourselves generously of all that can
+delay our union with Him: let us strip ourselves above all
+of self-love, pride, vanity, pretensions
+to assert our rights, our points of honor.
+What a harsh contrast between these vain demands of our
+self and the moving humility of the Incarnate Word!
+"Sic nos amantem, quis non redamaret?" Who would not love in return Him who so greatly loves us? (Adeste fideles).
 
-In all its deliberate acts, the soul is no longer guided by its own personal will, so fallible and inconstant, but is guided and moved solely by God’s will, in which it has lost its own, and lost it for love.
+2 — Jesus, for love of us, not only, so to speak,
+"stripped Himself" of all His greatness and majesty, but
+embraced from the first moment of His earthly life the
+height of privation. Let us also "strip ourselves" gladly for love of Him: let us strip ourselves of love of riches,
+of attachment to our material well-being,
+of comforts, of superfluities. The vow or promise of poverty
+already commits us to this stripping, but even if we did not
+have such a commitment, how could we calmly lead a comfortable life when our God willed
+to embrace such poverty and hardship? Behold the conditions of the Child Jesus: prickly straw, insufficient cloths,
+for house an animals' stable, for cradle a manger.
+Before the crib one feels that the way of nothing asks
+not too much: "Let the soul not seek the better of temporal things, but the worse; and desire, for love of Christ, to be
+poor, naked, and empty of all that exists in this world" (J.C. Ascent I, 13, 6).
 
-«Whoever shall lose his life for My sake shall find it,» Jesus said (Mt 16:25). Seized by love for God, the soul has renounced for Him every personal willing, every desire, every preference, and now this loss becomes the greatest gain, because it finds its will wholly transformed into God’s will.
-
-Could it have hoped for a more advantageous exchange?
-
-«The state of divine union,» says St. John of the Cross, «consists precisely in the soul’s being wholly transformed, according to the will, into the will of God.»
-
-Wholly, and not only in part; wholly, and not only in greater things but also in the smallest and most minute, so that the divine will becomes truly the soul’s sole motive. What it does, says, and thinks is «in everything and through everything only God’s will.»
-
-Magnificent state, which raises the creature to the level of the Creator, carrying it from the level of human life to that of divine life.
-
-To reach it, it was worth the soul’s enduring the bitter purification by which it was «stripped and flayed of its old skin» (that is, its defective will); worth renouncing itself and all things.
-
-2 — Speaking of union with God, St. Teresa of Jesus writes: «This is the union I have always desired and never cease to ask of God, because it is clearer and safer.»
-
-The Saint, who had experienced the efficacy and sweetness of mystical graces of union—whereby the soul cannot doubt that God has been in it and it in God—does not hesitate to prefer to such delights the perfect union with God’s will.
-
-Only in this union, in fact, lies the essence of holiness, whereas mystical graces are means for attaining it: most precious means, because faster, yet always means and not end.
-
-The end lies solely in complete conformity of one’s own willing to the divine will.
-
-Besides, it does not depend on us to choose the «shortcut» of mystical graces instead of the ordinary way of generous and persevering effort.
-
-That depends solely on God, who is master of His gifts and «distributes them as He wills, when He wills, and to whom He wills, without wronging anyone.»
-
-What matters supremely is to know that the state of union with God is not reserved to a few privileged souls, but open to every soul of good will, even if it must be content to follow the ordinary way, «the little way,» as St. Therese called it, «the cart-road,» as Blessed Maria Bertilla called it.
-
-Instead of worrying about the way, we must worry about being fully generous, because only souls that know how to give themselves wholly to God reach union with Him.
-
-«Take care,» St. Teresa of Avila writes to her daughters, «that to acquire what I am saying [union with God], He requires that you reserve nothing. Whether little or much you have, He wants it all for Himself. Greater or lesser will be the graces you receive, but always in proportion to what you see you have given.»
-
-The more generous we are in our gift, the more God will come to meet us with His grace and sustain us with His omnipotent action.
-
-For following the ordinary way does not mean being deprived of divine help. This help may be more hidden and less consoling than mystical favors, but it is no less real and effective.
+If we want to repay Jesus' infinite love, let us strip ourselves generously for Him of everything, and not only of
+material goods, but also of every attachment to creatures, because, St. John of the Cross teaches, "to love is to strip oneself
+for God of all that is not God" (Ascent II, 5, 7). The way
+of nothing quickly leads to Bethlehem, there where God
+united Himself to humanity in the most intimate and personal way, there
+where God awaits us to unite our souls to Himself.
 
 ### Colloquy
 
-«O Lord, how powerful is the gift of the will! If we made it generously, it would draw You, the Almighty, to make one thing with our weakness, transforming us into You, creature into Creator.
+Grant me, sweetest Jesus, to be able at least a little
+to repay Your infinite love. You, for love of me, from
+God became man, from Lord became servant, from rich became poor,
+from almighty became a little powerless child... Oh, grant that for
+love of You I may know how to tread with courage and generosity the
+way of nothing, of total stripping.
 
-«The more You see that the gift of our will is shown not in words of courtesy but in fervor of deeds, the more You draw us to Yourself and, lifting the soul above itself and all earthly things, prepare it to receive very great favors.
+You, for love of me, stripped Yourself of Your majesty and
+greatness, hid every sign of Your divinity, made Yourself
 
-«You esteem this gift so much that You do not cease to reward it even in this life: the soul no longer knows what to ask of You and You continue always to give.
+so small and humble in order to become "mine," so that I could not only know You, but have You wholly with
+me, possess You wholly, since not only at Bethlehem, but every
+day in the Eucharist You give me all Your divinity, all
+Your humanity! And I, Your poor creature, so loved and
+benefited by You, will I not know for love of You, to become
+all Yours, how to strip myself of my self-love?
 
-«And, not content with uniting it to Yourself by becoming one with it, You begin to delight in it, reveal your secrets to it, make it understand how much it has gained, and let it glimpse the happiness You have prepared for it.
+"Oh, what great power and love You show me, so little a Child, by willing to keep silence and to have need of
+everything, like other little children! And again, the first voice
+You uttered, as the Wise Man says, was in weeping to show me my misery: Primam vocem simile omnibus
+emisi plorans. You do not want to be fed except with milk that comes
+as a gift from the Eternal Father, yes: thus the soul should feed
+only on the milk that comes from You. But before nourishing You, You wish to give nourishment to me. And what nourishment do You give me? Laying Your little limbs in the manger on
+the hay and resting Your head upon a stone, You give me the
+nourishment of Your humility and poverty" (St. Mary Magdalene de' Pazzi).
 
-«You begin to treat it with greater friendship, returning not only the will it gave You, but giving it Yours as well. And these two wills will be in great accord, because, seeing that the soul does what You will, You too will do what it desires.
+O God, eternal riches, infinite riches, to what have
+You reduced Yourself for love of me! And I who promised You poverty, how far I still am from being truly
+poor, from practicing fervently this virtue that You
+love so much!
 
-«My God, how precious is the union the soul attains with You after establishing itself in submission to your will! Oh, how desirable this union is! Happy the soul that has reached it! It has peace in this life and in the next, because, except for danger of losing You, O Lord, and of seeing You offended, nothing can afflict it: not poverty, not illness, not even death, for it clearly sees that You know how to arrange things better than one knows how to desire» (St. Teresa of Jesus).
+Lord, sweet Incarnate Word, I desire to repay
+Your infinite love; I too desire to show You by deeds
+that I truly love You. What shall I do for You, sweetest Jesus?
+I will strip myself for love of You of all that is not You,
+because You alone I long for, You alone I desire, and because I want
+to become like You! You, who from God became flesh, grant
+that I from proud may become humble; You, who from Master and
+Lord of the whole universe became poor and miserable,
+grant that I, from lover of my comforts, become true lover
+of true poverty. Humility and poverty will introduce me
+into the way of nothing, and thus, emptied of myself and of all
+things, I shall finally be able to love You with all my strength,
+I shall be able to say to You with full sincerity: Lord, I love You more than myself and all things!

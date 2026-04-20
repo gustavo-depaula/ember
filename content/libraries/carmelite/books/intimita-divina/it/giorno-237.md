@@ -1,122 +1,21 @@
-## 237 — LA POTENZA DELLA FEDE
+## VII — LA SAPIENZA INFINITA
 
-### Presenza di Dio
-
-«Io credo, Signore; aiuta la mia incredulità».
+**Presenza di Dio.** — *Mio Dio, sapienza infinita, illumina la mia mente e insegnami il segreto della vera sapienza.*
 
 ### Meditazione
 
-1. — Gesù ha detto: « Ogni cosa è possibile a chi crede
-» (Mc. 9, 22); sembra infatti che a una fede piena,
-cieca, incondizionata Dio non sappia resistere e si ritenga
-quasi obbligato ad esaudire le nostre suppliche. Il Vangelo
-ce lo dice ad ogni pagina: prima di compiere un miracolo
-Gesù chiedeva sempre un atto di fede: « Credete voi che io
-possa far questo? » (Mt. 9, 28) e, quando la fede era sincera
-subito il prodigio si compiva: «Sta' di buon animo, o figlia
-— diceva all'emorroissa — la tua fede ti ha guarita » (ivi,
-9, 22). Gesù non dice mai: la mia onnipotenza vi ha salvati,
-vi ha guariti, ma la vostra fede, quasi per farci intendere che
-la fede è la condizione indispensabile da lui richiesta per
-impegnare a nostro vantaggio la sua onnipotenza. Egli, sempre onnipotente, non vuole usare la sua onnipotenza che in
-favore di chi crede fermamente in lui. Proprio per questo
-motivo il Maestro divino rifiutò a Nazareth i molti miracoli
-fatti altrove. Quanto più la nostra fede è viva, tanto più è
-onnipotente dell'onnipotenza stessa di Dio. « Se aveste vera
-fede quanto un granello di senapa — ha affermato Gesù —
-potreste dire a questo monte: passa da qui a là! E passerebbe
-e niente vi sarebbe impossibile » (Mt. 17, 19). Come tutte
+**1** — Dio è sapienza infinita che conosce perfettamente se stesso e tutte le cose. In Dio la sapienza non è, come in noi, distinta dall'essere, ma è l'essere stesso di Dio. L'essere di Dio è sapienza somma, è raggio intellettuale luminoso, splendidissimo, eternamente sussistente, che abbraccia e penetra tutta l'essenza divina e, nello stesso tempo, vede in essa, come nella loro causa, tutte le cose che esistono e che potrebbero esistere. La sapienza divina — dice la S. Scrittura — «arriva e penetra dovunque a cagione della sua purezza... È un soffio della potenza di Dio e pura emanazione della gloria dell'Onnipotente... È un riflesso di luce eterna e terso specchio della maestà di Dio e immagine della sua bontà» *(Sap.* 7, 24-26).
 
-le parole del Vangelo sono vere, così anche queste sono vere,
+La sapienza divina è anzitutto perfetta conoscenza di Dio. Nessuna creatura, neppure gli angeli e i beati in cielo, possono conoscere Dio fino ad esaurire la grandezza infinita del suo essere; solo Dio conosce perfettamente se stesso, solo la sapienza divina può esaurire la profondità infinita della sua essenza e dei suoi misteri. Per noi, tanto incapaci a conoscere Dio quale Egli è, è gioia immensa contemplare la sapienza infinita che penetra tutti i misteri divini, è conforto immenso invocarla ed affidarci a lei affinché sia la nostra luce e la nostra guida nella conoscenza di Dio.
 
-letteralmente vere; se non si effettuano per noi è solo perchè
-la nostra fede è molto fiacca. Quante difficoltà incontriamo
-nella vita che sono per noi vere montagne da trasportare!
-Difficoltà nella vita spirituale: difetti che non riusciamo a
-vincere, abitudini virtuose che non riusciamo ad acquistare;
-difficoltà nella vita quotidiana: mancanza di mezzi, lavori
-ed opere che superano le nostre capacità, le nostre forze...
-E noi ci fermiamo scoraggiati ai piedi di queste montagne:
-è impossibile, non ci riesco! Basterebbe un atto di fiducia,
-quanto un granello di senapa — che è piccolissimo — ma
+La sapienza divina è, poi, perfetta conoscenza di tutto ciò che esiste; nessun errore vi può essere in lei che è verità eterna ed immutabile. Nessuna cosa le può essere occulta o misteriosa perché è lei che ha fatto tutte le cose e perciò le conosce fin nella loro intima essenza e non vi è nulla di nuovo da apprendere perché tutto, fin dall'eternità, vede in un eterno presente e nulla, per quanto minimo, può sfuggire alla sua luce splendidissima: «Perfino i capelli del vostro capo sono tutti contati», ha detto Gesù *(Mt.* 10, 30). Dio ci conosce assai meglio di quel che noi stessi ci conosciamo: tutti i movimenti più segreti del nostro cuore, anche quelli che sfuggono al nostro controllo, gli sono perfettamente palesi. Chiediamogli di farci conoscere noi stessi nella sua luce, nella sua verità eterna.
 
-purchè sia fede viva, capace di germogliare come il granello
+**2** — La sapienza divina conosce tutte le cose in Dio, in rapporto a lui che ne è la causa prima. Vede tutte le cose dipendenti da Dio e da lui ordinate alla sua gloria, perciò non le giudica secondo le loro apparenze esteriori, ma unicamente secondo il valore, il posto, il significato che esse hanno di fronte a Dio. I giudizi della sapienza divina sono, quindi, immensamente distanti dai nostri corti giudizi umani che si fermano alla pura materialità delle cose: «O profondità della ricchezza e sapienza e conoscenza di Dio — esclama S. Paolo — come incomprensibili sono i suoi giudizi e imperscrutabili le sue vie!» *(Rom.* 11, 33). E, tanto più sono per noi incomprensibili, quanto più siamo abituati a giudicare le cose dal punto di vista opposto a quello della sapienza divina.
 
-di senapa; fede viva, sicura, decisa, fede soprannaturale che
-conta solo su Dio e solo in nome suo affronta con coraggio
-qualsiasi difficoltà. Oh, se potessimo credere cosìì « Nulla è
-impossibile a chi crede».
-
-2. — Sebbene le difficoltà che incontriamo sul nostro
-cammino possono essere gravi, tuttavia non possono mai legittimare lo scoraggiamento. Ci scoraggiamo perchè ci ripieghiamo sulla nostra impotenza: da un lato il ricordo degli
-insuccessi già riportati e dall'altro la visione di situazioni impari alle nostre forze, che ci si parano davanti come montagne
-insormontabili, ci schianta, ci soffoca, ci paralizza. Ma l'anima
-che ha fede in Dio, che è sicura del suo Dio sa ben trovare
-il modo per uscire da queste strette e si vale delle sue stesse
-impotenze e difficoltà come di un trampolino per tuffarsi in
-Dio con un atto di fede forte e decisa.
-
-Dio permette talvolta condizioni di vita molto difficili di
-cui umanamente parlando non si vede la soluzione, permette
-stati di vera angoscia dovuti a forti prove di spirito proprio
-
-perchè vuol spingerci ad un intenso esercizio della virtù della
-fede, esercizio che in certi casi può e deve diventare eroico.
-Se, dunque, il Signore dispone qualche cosa di simile anche
-per te, persuaditi che non lo fa perchè ti abbia abbandonato
-
-o ti rigetti da sè, non lo fa per avvilirti o per annientarti,
-
-ma per renderti forte ed anche eroico nella fede. Credi in
-lui, credi nella sua onnipotenza soccorritrice, credi nella sua
-parola; forse il Signore tarda a venire in tuo soccorso proprio
-perchè non sei ancora capace di formulare un atto di fede
-pieno. Egli ti domanda, come ai due ciechi del Vangelo:
-« Credi che io possa far questo? » (cfr. Mt. 9, 28) e tu non
-sai ancora rispondergli un sì forte e deciso, senza incertezze,
-senza ma e senza se. Però. anche se la tua fede è forte, Dio
-potrebbe ugualmente provarla, come Gesù provò la fede della
-Cananea. È allora devi fare come lei: non arrenderti, non
-cessare dal credere, ma credere sempre di più, sì che Egli
-sia costretto a risponderti come a quell'umile donna: «la tua
-fede è grande; sia fatto come tu vuoi» (Mt, 15, 28).
+Conoscere le cose in rapporto a Dio, stimarle secondo il valore che hanno al suo cospetto, ecco la vera sapienza, quella la sapienza che tu devi cercare di acquisire al riflesso della sapienza eterna. Vedi come ne sei lontano quando giudichi le creature e gli avvenimenti solo da un punto di vista umano, solo in base alla gioia o al dispiacere che ti recano. Questa sapienza, che è quella del mondo, «è stoltezza presso Dio» *(I Cor.* 3, 19), appunto perché giudica le cose in rapporto all'uomo e non in rapporto a Dio, le giudica secondo la loro apparenza e non secondo la loro realtà. Solo abituandoti a spogliarti del tuo sguardo umano troppo soggettivo ed interessato, potrai oltrepassare l'apparenza delle cose per scoprire, alla luce della fede, il significato e il valore che esse hanno dinanzi a Dio. Allora vedrai con chiarezza che tutto ciò che il mondo tiene in grande considerazione — come la grandezza dell'ingegno, il successo delle opere, la stima delle creature, ecc. — è un nulla secondo la sapienza divina al cui giudizio è immensamente superiore il minimo grado di grazia, il minimo atto di carità soprannaturale. Vedi, dunque, come ti sbagli quando ti preoccupi più della buona riuscita dei tuoi affari che del tuo progresso nella virtù; vedi come ti sbagli quando giudichi il tuo prossimo secondo le sue qualità naturali, secondo la simpatia o antipatia naturale che esso ti ispira, senza tener conto del suo valore soprannaturale. L'umile considerazione della tua insipienza ti faccia sentire più che mai il bisogno d'invocare la sapienza divina: «O Sapienza, che uscisti dalla bocca dell'Altissimo, vieni ad insegnarci la via della prudenza» *(BR.).*
 
 ### Colloquio
 
-« Signore e Dio mio, la fede in noi è così debole che crediamo più facilmente a quanto ci cade sotto gli occhi che non
-alle verità che essa ci insegna e così, inseguendo queste cose
+«O Sapienza divina! In te c'è uno spirito intelligente, santo, unico, molteplice, sottile, lucido, agile, senza macchia, infallibile, mite, amante del bene, acuto, incoercibile, benefico, amico degli uomini, benigno, costante, sicuro, tranquillo, che tutto invigila, che penetra tutti gli spiriti intelligenti, puri, sottilissimi. Infatti, Tu sei più mobile di ogni moto e arrivi e penetri dovunque a cagione della tua purezza. Perché sei un soffio della potenza di Dio e pura emanazione della gloria dell'Onnipotente; perciò nulla d'inquinato può cadere in te. Sei un riflesso d'eterna luce e terso specchio della maestà di Dio e immagine della sua bontà. Sei unica e puoi tutto, resti immutata in te e tutto rinnovi e, diffondendoti nelle anime sante, ne fai amici di Dio. Sei più bella del sole, paragonata alla luce appari superiore, perché dopo di essa succede la notte, ma tu non sei mai sopraffatta dalla malvagità. Ti estendi con potenza da un'estremità all'altra del mondo e tutto governi con bontà.
 
-sensibili, la nostra miseria è anche troppo evidente!..
-
-« Se, poi, vengono a frapporsi gravi difficoltà, oh, come se
-ne giova il maligno! Se non altro per indebolire sempre più
-la nostra fede. E non credere, o Signore, che Tu sia così potente da far cose superiori alla nostra intelligenza è un gran
-danno!
-
-« Benedetto sii Tu, o mio Dio! Riconosco la tua sovrana
-potenza. Sei potente, oh, sì, lo sei veramente. E che cosa
-è impossibile a chi tutto può? Benchè tanto miserabile, io
-credo fermamente che la tua potenza si estenda a tutto ciò
-che vuoi; più son grandi le meraviglie che sento dire di te
-e più si fortifica la mia fede nel pensiero che ne puoi fare
-di maggiori. Perchè meravigliarsi di ciò che fa l'Onnipotente?
-(cfr. T.G. M. II, 5; VI, 3, 7; Es. 4, 2).
-
-«O mio Dio, occorre maggior fede non credere in te
-che per credere in te! E' tanto grande ERE che mi mostri
-che non ho più bisogno di fede per crederlo » (S. M. Maddalena de' Pazzi).
-
-«Dio mio, Tu sei amore e onnipotenza; Tu sai tutto,
-puoi tutto, vuoi tutto e conduci ogni cosa per la gloria tua
-e per il vantaggio nostro. Quanta Fede attingo da queste verità; quanta confidenza, che riposo e che amore mi comuni
-cano! So che, anche quando non mi dai niente di palpabile,
-Tu sei sempre il mio Dio e provvedi sempre con amore al-
-'opera delle tue mani. Perciò mi nascondo in te con fede
-e sostengo l'impeto della tempesta con la certezza che, quan
-do piacerà a te, con la tua onnipotenza divina, farai anche
-risuscitare i morti» (cfr. B. Teresa Soubiran).
-
-«Mio Dio, no, non è diminuita la potenza del tuo braccio.
-Se Tu non compi per me dei miracoli è solo perchè la mia
-fede è fiacca. O Signore, aiuta la mia incredulità, accresci
-la mia fede!»
+«Dio dei Padri miei e Signore di misericordia, con te è la tua sapienza che conosce le tue opere ed era presente quando facevi il mondo e sa ciò che piace agli occhi tuoi e quel ch'è retto secondo i tuoi comandamenti. Mandala giù dal cielo santo e dal trono della tua gloria, affinché sia meco e meco lavori ed io sappia quel che è accetto a te. Perché ella tutto sa ed intende e mi guiderà nelle mie azioni con prudenza e mi custodirà con la sua potenza. O Signore, timidi sono i ragionamenti dei mortali e malsicuri i nostri divisamenti. A mala pena congetturiamo le cose della terra e con fatica troviamo quelle che abbiamo davanti e per le mani; quelle che sono nei cieli chi le scruterà? Chi conoscerà il tuo volere, o Signore, se Tu non gli largirai sapienza e non gli manderai dall'alto il tuo santo spirito?» (cfr. *Sap.* 7, 22-30; 9, 1-17).

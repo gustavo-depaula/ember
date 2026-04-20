@@ -1,101 +1,19 @@
-## 193 — MARIA MEDIATRICE
+## XXIV — Lo Spirito Santo ci conforma a Cristo
 
-### Presenza di Dio
-
-O Maria, come Gesù ha voluto venire a noi per mezzo tuo, fa' che per mezzo tuo io possa andare a Lui.
+**Presenza di Dio.** — *O Spirito Santo, rendimi conforme a Gesù, fa' di me un «alter Christus».*
 
 ### Meditazione
 
-1. — La Chiesa ci fa chiudere il mese di maggio con
+**1** — Lo Spirito Santo ci è stato dato per santificarci, ma per quale via ci condurrà alla santità? Risponde l'Enciclica *Mystici Corporis* dicendo che il divino Paraclito «viene comunicato alla Chiesa... affinché le sue singole membra, di giorno in giorno, siano sempre più simili al Redentore». Lo Spirito Santo viene nelle anime nostre per conformarci, per assimilarci a Cristo: ecco lo scopo immediato della sua azione in noi, ecco la via per cui ci condurrà alla santità.
 
-la festa di Maria « Mediatrice di tutte le grazie »; questo
-titolo è un po’ la sintesi di quello che la Madonna è per noi
-nei rapporti col suo Figlio diletto: Mediatrice di grazia,
-di misericordia, tesoriera di tutte le grazie che Gesù ci ha
-meritato, « Mediante la comunione dei dolori e della volontà
-tra Cristo e Maria — insegna Pio X — questa ha meritato
-di diventare la dispensatrice di tutti i benefici che Gesù
-ci ha acquistati col suo Sangue» (Enc. Ad diem illum).
-Associata nel modo più intimo e più profondo alla vita,
-all'opera ed alla Passione del Figlio suo, Maria ha cooperato
-con Lui alla nostra Redenzione, sì che la grazia, che solo
-Gesù poteva meritarci di diritto, è stata, benchè in modo
-secondario e di pura convenienza, meritata anche da Maria.
-Maria ha ottenuto così un vero potere su tutti i tesori soprannaturali acquistatici dal Figlio suo e, come insieme con Lui
-li ha accumulati, così, insieme con Lui ce li dispensa. «Si
-può affermare — dice Leone XIII — che, secondo la volontà di Dio, niente ci è dato che non passi per le mani
-di Maria, di modo che, come nessuno può avvicinarsi al
-Padre onnipotente se non attraverso il Figlio, così nessuno,
-per così dire, può avvicinarsi a Cristo se non attraverso sua
-Madre» (Enc. e Octobri mense 3). Accanto e dopo Gesù,
-amico Mediatore, Maria è dunque la Mediatrice e, come
-Gesù in cielo intercede incessantemente presso il Padre
-suo in nostro favore, così Maria, insieme con Lui, intercede
-per noi e ci ottiene e dispensa tutte le grazie di cui abbiamo
-bisogno. Ben a proposito l'Introito della Messa del giorno
-applica a Maria ciò che S. Paolo dice di Gesù: « Accostiamoci
-con fiducia al trono della grazia, per ottenere misericordia e
-trovare grazia ». Sì, dopo Gesù, Maria è veramente « trono
-della grazia » e tutto può ottenerci dal Figlio suo, Lei che è
-l'Omnipotentia supplex, onnipotente nella sua preghiera di
-madre.
+Tutti gli eletti sono da Dio «predestinati ad essere conformi all'immagine del Figlio suo» *(Rom.* 8, 29): noi saremo santi a misura della nostra somiglianza con Cristo. E lo Spirito Santo ci è dato appunto perché scolpisca in noi i tratti di questa divina somiglianza, rendendoci «di giorno in giorno sempre più simili al Redentore». Oh, bisognerebbe davvero che non vi fosse giornata in cui questa santa somiglianza non aumentasse in noi! Suor Elisabetta della Trinità era stata profondamente colpita da questa verità e pregava lo Spirito Santo di fare di lei «un'umanità aggiunta nella quale Gesù potesse rinnovare il suo mistero» (cfr. *El.*). Se Gesù è il modello al quale tutti dobbiamo essere conformati, non è presunzione aspirare a diventare talmente simili a Lui che la nostra vita sia un «prolungamento» della sua ed Egli possa continuare in noi la sua opera d'incessante adorazione e glorificazione del Padre, e di redenzione degli uomini. Siamo incapaci di giungere ad una così perfetta conformità con Cristo, ma lo Spirito Santo è in noi per realizzarla. Gesù è il *Santo* per eccellenza; per renderci simili a Lui lo Spirito Santo ci comunica inizialmente la santità di Cristo diffondendo in noi la grazia la quale, poi, deve talmente penetrare il nostro essere, la nostra attività, la nostra vita da fare di ognuno di noi un «*alter Christus*». E notiamo che la grazia diffusa in noi dallo Spirito Santo è identica, nella sua natura, a quella che santifica l'Anima di Gesù: benché a noi venga data in misura infinitamente inferiore, mentre Cristo la possiede «senza misura», è però lo stesso germe, lo stesso principio di santità. Ecco perché il pieno sviluppo della grazia ci può davvero portare all'identificazione con Cristo, fino ad essere altrettante immagini di Lui. E nella misura in cui saremo trasformati in Cristo parteciperemo non solo alla sua santità, ma anche alla sua opera. Gesù rinnoverà in noi il suo mistero: in noi continuerà a glorificare la SS.ma Trinità ed a salvare le anime.
 
-2. — Maria è Mediatrice tra noi e il Figlio suo per un
-duplice motivo: e perchè ci dà Gesù e perchè ci porta a
-Gesù. Il Vangelo più volte ce la mostra nell’atteggiamento
-di portatrice di Gesù agli uomini, atteggiamento tipicamente materno: Maria presenta Gesù Bambino all’adorazione dei pastori e dei magi, Maria porta Gesù al Tempio
-e lei stessa lo presenta a Simeone; Maria, a Cana, con la
-sua intercessione ottiene il primo miracolo del Figlio; Maria,
-sul Calvario, riceve tra le braccia il Corpo esanime e straziato del Figlio diletto, che offre all'umanità quale prezzo
-del suo riscatto; Maria, nel Cenacolo, invoca la pienezza
-dello Spirito Santo sugli Apostoli e, quindi, fino al giorno
-del suo beato transito, sostiene con la sua preghiera e col
-suo incoraggiamento materno la Chiesa nascente. Dove
-c'è Maria, cè Gesù; tutta la ragione dell'esistenza di Maria,
-tutta la sua missione è qui: portare, dare Gesù al mondo ed
-alle anime, e con Gesù dare anche la sua grazia, i suoi
-favori. Maria, come dice S. Bernardo, è veramente l'acquedotto che porta all'umanità l'acqua viva della grazia, anzi,
-più ancora, porta Gesù fonte della grazia.
-
-Ma inoltre Maria porta gli uomini a Gesù: lei c'insegna
-la via per andare al Figlio suo, lei dispone le anime nostre
-perchè gli siano accette. Noi siamo sempre poveri bambini
-incapaci di offrire a Dio doni presentabili, e Maria è sem
-pre la Mamma che, con finezza materna, accomoda, abbellisce i nostri doni, le nostre azioni, le nostre preghiere
-ed offerte, e con le sue mani li porge al suo Figlio divino.
-Ma Maria guarda soprattutto i nostri cuori «, da vera Madre nostra, vuol formarli in modo che piacciano a Gesù;
-
-Maria vuol formare in ognuno di noi un cuore puro,
-pieno di amore e di bontà, che possa battere all'unisono
-con quello del Figlio suo. Mettiamo dunque il nostro cuore
-nelle mani di Maria, affinchè lo riempia «di grazia e di
-verità, di vita e di’virtù» (cfr. Graduale della Messa).
+**2** — La norma di vita di Gesù è stata la volontà del Padre e lo Spirito Santo ci guida di continuo lo guidava all'adempimento di tale volontà. Parimenti, lo Spirito Santo vuole guidarci sempre più nella via segnata dalla volontà di Dio. In pratica, infatti, «la santità consiste solo nella conformità al divino volere» (Benedetto XV), in una conformità talmente piena che, come insegna S. Giovanni della Croce, nell'anima non vi sia più «alcuna cosa contraria alla volontà divina, ma bensì i suoi moti siano in tutto e per tutto solamente volontà di Dio» (G.C. S. I, 11, 2). Arrivare a tal punto non è facile, ma mai vi arriveremo senza il soccorso dello Spirito Santo. Di più, bisogna tener presente che la conformità al divino volere deve esprimersi «in un continuo ed esatto adempimento dei doveri del proprio stato» (Benedetto XV), ed essere sempre ed in tutto fedeli al proprio non è cosa da poco! Richiede abnegazione, generosità e costanza a tutta prova. Guardiamo Gesù in croce e comprenderemo che cosa può esigere il perfetto adempimento della volontà di Dio, il perfetto adempimento del proprio dovere. Tuttavia, questa è la strada su cui dobbiamo metterci con la nostra buona volontà, rinnovando sempre i nostri sforzi. Ma, per quanta buona volontà possiamo avere, siamo così deboli, così incostanti, così tenacemente attaccati a noi stessi, e le nostre forze sono così limitate che non sempre riusciamo a rinunciare del tutto alla nostra volontà per fare quella di Dio, non sempre riusciamo a mantenerci nella linea del perfetto adempimento dei nostri doveri; spesso cadiamo e non sappiamo neppure rialzarci. Umiliamoci allora, — valiamoci di queste cadute per riconoscere sempre più la nostra impotenza e fragilità — umiliamoci, ma non scoraggiamoci. Invece di piangere su noi stessi, rivolgiamo il nostro sguardo e il nostro grido verso lo Spirito Santo affinché venga in nostro soccorso, poi ricominciamo da capo con umiltà e con fiducia. Vedendoci rinnovare i nostri sforzi, lo Spirito Santo ci verrà incontro, ci prenderà per mano e in un istante ci condurrà là, dove noi non siamo stati capaci di arrivare forse in tanti anni. Dobbiamo esserne sicuri, poiché Gesù ci ha meritato e ci manda il suo Spirito «con copiosissima effusione»!
 
 ### Colloquio
 
-«Signora mia, santissima Madre di Dio, e piena di grazia, oceano inesausto delle divine ed intime liberalità e doni;
-dopo la Trinità, Signora di tutti, dopo il Paraclito, nuova
-Consolatrice e, dopo il Mediatore, Mediatrice del mondo
-intero: guarda la fede mia ed il desidero ispiratomi dal
-cielo. Non disprezzarmi perchè indegno, nè la bruttezza
-delle mie azioni sospenda l'immensa tua misericordia, o
-Madre di Dio, o nome che supera ogni mio desiderio!»
-(S. Efrem Siro).
+«Gesù mio dilettissimo, desidero di seguire con te la regola dell'amore, la regola della volontà di Dio per la quale possa rinnovare e trascorrere in te tutta la vita mia. Ponila sotto la custodia del tuo Santo Spirito, onde in ogni tempo sia prontissima all'osservanza dei tuoi comandamenti e di tutti i miei doveri. Io non sono che un povero stelo da te piantato, da me sono niente e meno che niente, ma Tu puoi ben farmi fiorire nell'abbondanza del tuo Spirito. Che cosa sono io, mio Dio, vita dell'anima mia? Ah! quanto sono lontana da te! Sono come un granello di polvere che il vento solleva e disperde. Or dunque, in virtù della tua carità, il valido vento dell'onnipotente tuo amore, per il soffio dello Spirito Santo, con tanto impeto mi proietti in te, in balia della tua provvidenza, che cominci veramente a morire a me stessa per vivere solamente in te, dolce amor mio. Fa' che io perda me in te; che mi abbandoni tanto completamente, sì che di me non rimanga in me alcun vestigio, proprio come avviene di un granello invisibile di polvere che sparisce senza farsi notare. Trasferiscimi così totalmente nell'affetto del tuo amore, che in te si riduca a niente ogni mia imperfezione, ed io non abbia più alcuna vita fuori di te» (S. Geltrude).
 
-«O Maria, Dio ha posto in te la pienezza di tutti i suoi
-beni per farci comprendere che ogni speranza; ogni grazia,
-ogni salvezza ci viene dalla tua sovrabbondanza. Fa', dunque, o Maria, che per mezzo tuo possiamo accedere al Figlio, o benedetta, che hai trovato la grazia, che ci hai dato la
-vita, madre di salvezza! Fa' che per te ci accolga Colui che
-per te ci fu donato. Che la tua purezza senza macchia
-scusi ai suoi occhi le colpe della nostra malizia, che la tua
-umiltà, così gradita a Dio, ottenga perdono al nostro orgoglio! Che la tua immensa carità copra la moltitudine dei
-nostri peccati e che la tua gloriosa fecondità renda feconde
-le nostre opere buone.
+«Fuoco consumante, Spirito d'amore, discendi in me, affinché nell'anima mia si faccia come un'altra incarnazione del Verbo: che io gli sia un'umanità aggiunta nella quale Egli rinnovi il suo mistero» (E.T. *El.*).
 
-«O Signora, Mediatrice, avvocata nostra, riconciliaci col
-Figlio tuo, raccomandaci al Figlio tuo, presentaci al Figlio tuo. O benedetta, per la grazia che hai trovato, per i
-privilegi che hai meritato, per la misericordia che hai messo al mondo, ottienici che Gesù, il quale per tuo mezzo
-si è degnato di partecipare alla nostra infermità ed alla
-nostra miseria, ci faccia aver parte, ancora per tuo mezzo,
-
-alla sua gloria e alla sua beatitudine » (S. Bemardo).
+«O Spirito Santo, insegnami ad apprezzare ogni tua minima ispirazione! Essa è più preziosa di tutto il mondo — fosse pure la minima ispirazione di trattenere una parola o uno sguardo — perché è una piccola «vocazione», è un invito ad entrare più addentro nell'intimità divina se, corrispondendovi fedelmente, cresco nella grazia e nell'amore. Gesù mio, fammi ben comprendere che la perfezione consiste nel dirti sempre «*Amen*» ogni qualvolta mi chiedi qualche cosa per mezzo dell'obbedienza o delle tue ispirazioni. Aiutami Tu, ad evitare ogni piccola infedeltà, ogni esitazione, a non rifiutarti nulla ed allora la tua luce andrà sempre crescendo in me e l'amore diventerà un abisso che non si può scandagliare. Ma, o Spirito Santo, so bene che, praticamente, spesso cadrò, mancherò — Dio mio! purché non sia volontariamente — però Tu m'insegni che anche in questo caso devo riprendermi subito e, con un atto di amore, rimettermi subito sotto il tuo influsso. No, Tu non vuoi che mi turbi, né mi lasci scoraggiare dalle mie infedeltà, perché il tuo spirito è soave: 'O quanto è soave il tuo Spirito, o Signore' *(Sap.* 12, 1) e 'dove è lo Spirito del Signore, ivi è libertà' *(II Cor.* 3, 17), gioia e pace nello Spirito Santo» (cfr. Sr. Carmela d. Spirito S. c. s.).

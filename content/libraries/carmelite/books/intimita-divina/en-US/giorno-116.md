@@ -1,107 +1,135 @@
-## 116 — NOT EXCUSING ONESELF
+## 114 — HIDING WITH CHRIST IN GOD
 
 ### Presence of God
 
-— O Jesus, who willed to keep silence before those who condemned You to death, teach me the art of not excusing myself.
-
 ### Meditation
 
-1 — Before any personal defect, fault, or error, our ego instinctively runs in search of excuses:
-this is the tactic of pride, which does not want to recognize its own wrongs and industriously tries to cover them with a more or less false cloak, always finding a way to attribute them either to other
-persons or to circumstances. Such was the conduct of Adam
-and Eve after their sin; such is the instinctive behavior
-of every man as soon as he falls into some failing.
-But this brings great harm to the soul, since it is impossible to correct defects one does not want to acknowledge; therefore one must have the courage to dismantle
-the ingenious but inconsistent constructions of self-love,
-to lay bare one's own defects and look them in the face,
-as they are, without attributing them to anyone but oneself.
-"When we commit a fault - said St. Teresa of the Child Jesus - we must never attribute it to a
-physical cause, such as illness or weather or other
-circumstances, but to our imperfection. Occasions do not make a man weak; they show him what
-he is" (CR.).
-
-Excusing one's own faults may satisfy pride,
-but in reality it is a voluntary blinding of oneself, a making oneself incapable of grasping the truth of one's condition, and thus the poor soul not only cannot advance, but is condemned to grope in darkness, without a way out.
-Instead, sincerely acknowledging one's own faults is already
-taking the first step to correct them. Yet it is not enough
-not to excuse oneself inwardly; one must also not excuse oneself before others, that is, after acknowledging before God our failings, one must acknowledge them also before
-men, in order humbly to accept correction and to repair the bad example one may have given.
-Besides, it would be worth very little to accept in silence an accusation or rebuke when the soul did not renounce - even at the cost of struggles and efforts - excusing itself within.
+1 — When one speaks of Jesus' hidden life, one
+must not understand only His hiding from men's eyes by concealing His divinity and fleeing their glory,
+but, going beyond these external relations with creatures,
+one must penetrate into the secret of His Heart, where - hidden
+from every human gaze - another and far more sublime hidden life unfolds. It is His interior life, a life of intimate
+relations with the Trinity. Jesus' most holy Soul, united
+personally to the Word, enjoys unceasingly the beatific
 
 
-2 — Often you feel resentment before corrections,
-because you do not find them fully proportioned to your defects and
-faults. And do you not think this is an unavoidable
-consequence of human limitation? God alone, who reads the
-heart, can judge our actions with perfect justice; men see
-only the exterior, therefore, even when they have the duty
-to correct us, they do not always strike exactly the mark,
-but may err by excess or by defect. If you want to accept
-only observations that fit your defects perfectly,
-too often you will find yourself exposed to excusing yourself,
-to protesting, to stating your reasons; and if you cannot do it outwardly,
-you will do it at least inwardly, thus losing all the benefit
-you might draw from corrections if you received them
-with humility of heart.
+vision: it sees the Word as subject of all its activity, sees the Father source of its being, sees the Holy
+Spirit dwelling in it as "in His preferred temple" and who, clothing it with the flame of His love, draws it
+into God, in full accomplishment of His will. Outwardly Jesus lives with men, deals with them,
+as one of them, but His true life, life of the Son of God, He
+lives - hidden from every human gaze - with the Trinity,
+in the Trinity. This is where, as to its ultimate goal,
 
-St. Teresa of Jesus invites souls who wish to reach
-union with God to great generosity on this point,
-that is, to accept without excusing themselves any correction or rebuke, even if not wholly deserved and
-even if completely unjust. "To keep silence when one is
-unjustly accused - says the Saint - is a great
-act of humility, and one imitates our Lord more closely, who
-took upon Himself all our sins. The truly humble must
-desire to be despised, persecuted, and condemned
-without cause, even in grave matters. If he wishes to imitate the
-Lord, in what can he do so better, if not in this?
-He has no need of bodily strength, nor of help from anyone,
-except from God." And then she adds with great
-fineness: "All things considered, we are never blamed
-without reason, being always full of defects... If we are
-innocent of what is attributed to us, we are never so free
-of fault as good Jesus was" (Camz. 15, 1 and 4).
 
-"Jesus remained silent" (Mt. 26, 63), says the Evangelist, presenting the Lord accused before tribunals. The soul
-that aspires to intimate union with Jesus must know how to unite itself
-to His silences before accusations, even the most unjust.
-And when particular motives - such as avoiding scandal
-or displeasure to neighbor - require that it excuse itself,
-it will do so only to the strict extent necessary, with great
-measure and prudence, so as not to lose the grace of humiliation.
+imitation of Jesus' hidden life aims: to participate in His interior life, that is, to hide oneself "with Christ in God,"
+to penetrate with Him into the sanctuary of the most holy Trinity. This St. Teresa Margaret expressed in her
+ardent desire "to emulate by faith, as far as possible to a creature, the hidden interior life and actions of understanding and will, that is, the sublime knowledges and affections of the most holy Humanity of Jesus Christ,
+hypostatically united to the Word" (Sp. p. 374).
+
+The practice of hidden life therefore has two aspects. The
+first, negative and predominantly exterior, which consists in
+hiding from others' eyes and also from one's own: it is dying to glory and earthly honors; the second,
+positive and wholly interior, which consists in concentrating in God, in a life of intimate relations with Him.
+The first aspect is the condition
+and measure of the second: the more the soul knows how to hide from creatures - and also from itself - the more
+
+
+capable it will be of living "with Christ in God," according
+
+
+to St. Paul's beautiful expression: "you are dead - that is,
+dead to the world and to its vanities - and your life is
+hidden with Christ in God" (Col. 3, 3).
+
+
+2 — "My God... now forever I mean to shut myself
+within Your most lovable Heart as in a desert,
+there to make in You, with You, for You this hidden life of love and sacrifice." Thus St. Teresa Margaret made concrete her ideal of hidden life with Christ.
+
+
+"The soul that has long exercised itself in the exterior and
+
+
+negative aspect of hiddenness, that is, which with constant fidelity
+has known how to hide from creatures' eyes, is free and
+ready to hide with Christ in God.
+
+It no longer dissipates its energies seeking esteem
+or human satisfactions; from this point of view
+creatures have become a nothing for it, and it can well say
+that "created things, neither its own nor others', no longer give it the least annoyance and hindrance,
+as though they did not exist at all" (T.M. Sp. p. 373), and for this it has attained that
+
+
+sovereign freedom of spirit that allows it to concentrate
+totally in God. Then its conduct presents nothing extraordinary; indeed its very care to hide from others' eyes very often causes it to pass unnoticed, while most deem it a person of little account;
+but in the secret of its heart there unfolds a most rich interior life
+known to God alone. United to Jesus, in Him, with Him,
+for Him, it participates in His Trinitarian life. This means
+attaining fullness, the end of Christian life, because
+grace was given us precisely to make us participants
+in divine nature and therefore in divine life, in the life of God-
+Trinity. For this very end the Word was incarnate; Jesus,
+dying on the cross, merited grace for us,
+grafted us into Himself, to lead us back with Him into the bosom of the Trinity,
+from which by sin we had withdrawn. Thus we,
+not by our merit, not by our capacity, but only by
+being grafted into Christ can, with Him and through Him -
+our Mediator, our bridge, our way - penetrate
+into God's intimate life, into Trinitarian life. Faith and
+charity, which Jesus merited for us together with grace, make us
+capable of entering relation with the three divine Persons,
+so that we can truly live "hidden with
+Christ in God."
+
+Life hidden in God is the great attraction of
+interior souls, and to attain it they are very glad
+to hide from their own and others' eyes,
+fleeing every shadow of earthly splendor.
+Blessed hiddenness that introduces the soul into the "vita abscondita cum Christo in
+Deo"!
 
 ### Colloquy
 
-This I ask of You, O Lord: that Your light be in me
-so abundant as to dissipate, like mist before the sun, all
-those excuses with which my self-love seeks to cover
-my failings, my defects. This I ask You: that
-I may know well how to recognize all my wrongs and know how to judge them as You Yourself judge them. Restrain my heart,
-that it may not slip away in search of deceitful reasonings
-to procure excuses for my faults. And if, by my weakness,
-it is so easy for me to fall, grant that at least I may know how to confess it
-humbly before You and before men. Free
-my conscience from the mask of vain and pitiable excuses
-that prevent me from seeing myself as You see me, as
-You know me, as in reality I am before You. And then,
-O Lord, give me the humility needed to accept gladly
-the corrections of others. Extinguish with Your sweetness
-my susceptibility, so quick to flare up and resent, and
-grant me the grace to imitate Your meekness and humility before the tribunals.
+"Yes, O Jesus, to nothing else do I want to attend except
+to becoming Your perfect copy; and since Your life was nothing
+but a hidden life of humiliation, of love,
+of sacrifice, so from now on must mine be; therefore now
+forever I intend to shut myself within Your most lovable
 
-"O my Lord, when I remember Your manifold
-torments that You deserved for no reason, I do not know what to say
-of myself, nor where I am when I claim to excuse myself.
-You already know, my Good, that if there is in me anything
-good, it came only from You. And should I now desire
-that of so bad a creature as I, no evil be spoken,
-when so much was said of You, who are the Good
-above all good? It cannot be borne! And I would wish
-that You would not bear it either, and that You would permit
-nothing in Your servant that might displease Your gaze. I am
-blind, Lord, and content myself with too little. Give me
-light and grant that I may truly desire to be despised by
-all, since I too have despised You who have loved me
-with such fidelity!
 
-"What is this, my God? What does it matter to us to be blamed even by all creatures if You do not blame
-us?" (T.G. Com. 15, 5 and 6).
+Heart as in a desert, there to make in You, with You,
+for You, this hidden life of love and sacrifice... And
+
+
+since You inspire my heart to make myself, as far as possible,
+in all things like You, to this my cares shall tend,
+and particularly I will imitate You in those virtues that so please Your most lovable Heart: humility... and purity of intention,
+both inwardly and outwardly, always operating in a spirit
+of simplicity" (T.M. Sp. p. 324).
+
+O Jesus, deign to open also to me Your most sweet
+Heart and permit me to take refuge in it, to live
+with You hidden in God. Exterior life, life of display and earthly glory has no attraction for me any
+longer: is it not all vanity, all fleeting succession of circumstances that soon will be no more? The only
+life that draws me and will always remain,
+above every earthly contingency, is that of intimate union with
+God. And this is the great treasure that You offer me by
+the merits of Your Passion. I contemplate You on the cross, O Jesus,
+with breast opened by the lance as if to indicate to me that
+Your death has opened to me the doors of Your Heart,
+to admit me into the sanctuary of Your interior life. Your
+death, in fact, has grafted my poor human life into You
+to make it participant in Your divine life, life of intimate
+relations with the Trinity. This indeed is true life,
+lasting life, eternal life! And to this I aspire,
+not by my merits, but by the merits of Your Passion. O Jesus,
+
+
+grant that I seek my joy, my good, only in this
+
+
+participation in Your interior life, and that in it I place all my glory.
+
+And may all my glory be within, in the secret of
+my life hidden with You in God.

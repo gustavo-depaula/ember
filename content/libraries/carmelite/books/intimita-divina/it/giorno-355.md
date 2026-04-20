@@ -1,97 +1,29 @@
-## 355 — LA FINE DEL TEMPO
-*ultima domenica dopo Pentecoste*
+## 33 — VERSO UNA COMPLETA PURIFICAZIONE
 
-### Presenza di Dio
-
-Dio mio, che alla fine della vita mi giudicherai sull'amore, rendimi capace di crescere ogni giorno in esso.
+**Presenza di Dio.** — *Aiutami, Signore, affinché abbia la forza di avviarmi di mia iniziativa ad una purificazione completa.*
 
 ### Meditazione
 
-turgico, è una preghiera di ringraziamento per l'anno trascorso, una preghiera di propiziazione per quello che sta
-per incominciare, un ammonimento circa la fugacità della vita presente ed un invito a tenerci pronti al passo estremo che dovrà introdurci nella vita eterna. t y
+**1** — «L'anima, che vuol giungere all'alto stato di unione con Dio, incontra grande ostacolo allorché si affeziona a qualche suo modo d'intendere, di sentire o d'immaginare, quando si attacca al proprio parere o volontà, o a qualsiasi altra cosa propria, e non sa distaccarsi da tutto ciò e spogliarsi interamente » *(G.C.S.* II, 4, 4). L'ufficio della notte dello spirito è appunto quello di operare nell'anima questo distacco profondo e radicale. Se vuoi, dunque, entrare in questa notte, che tanto bene porterà all'anima tua, devi cercare, per quanto puoi, di rinnegarti in tutto e soprattutto in quello che maggiormente ti preme e ti è caro; devi essere disposto a rinunciare ai tuoi piani, ai tuoi progetti, alle tue vedute, non solo riguardo alle cose terrene, ma anche riguardo a quelle spirituali, perché devi andare a Dio non per una via di tua scelta e di tuo gusto, ma unicamente per la via che Egli stesso ti ha preparata. Devi essere disposto a rinunciare alle consolazioni divine, a camminare al buio, nell'aridità e per tutto quel tempo che il Signore vorrà; devi essere disposto a rinunciare alle opere più care, agli affetti più legittimi, alle amicizie più sante, al sostegno di chi ti comprende e ti guida nelle vie di Dio.
 
-Nell'Epistola (Col. 1,9-14), S. Paolo prega e ringrazia
-a nome di tutta Ja cristianità: « Non cessiamo dal pregio
-per voi e dal chiedere che siate ben compenetrati ella
-conoscenza di quel che è la volontà [di Dio]... sì da procedere in modo degno del Signore, con pieno suo gradimento, in ogni opera buona». Ecco una bella sintesi di
-tutto il lavoro che, durante l'intero anno, l'anima di vita
-interiore si è sforzata di compiere per adeguarsi e conformarsi sempre meglio alla santa volontà di Dio, anzi
-per unirsi totalmente ad essa e così, mossa in tutto dal
-divino volere, agire in modo da piacere al Signore in ogni
-cosa. Sia lode a Dio se, col suo aiuto, siamo riusciti a fare qualche passo avanti in questa via che conduce nel
-modo più sicuro alla santità e, facendo nostri i sentimenti
-dell'Apostolo, ringraziamo « Dio Padre dell'averci resi atti ad aver parte nell'eredità dei santi »: l'eredità dei santi, l'eredità di coloro che tendono alla santità è l'unione
-d'amore con Dio, quaggiù nella fede e in cielo nella gloria. Questa eredità è nostra, perchè Gesù ce l'ha meritata
-col suo Sangue, questa eredità è nostra perchè in Gesù
-«abbiamo la redenzione, la remissione dei peccati », si
-che, purificati dalla colpa e rivestiti di grazia per i suoi
-meriti infiniti, possiamo assurgere anche noi allo stato altissimo e beato dell'unione con Dio,
+Pochi entrano effettivamente nella notte dello spirito, appunto perché «pochi sanno e vogliono entrare nel vuoto e nella perfetta nudità dello spirito » *(ivi,* 7, 3). Pochi, anche tra gli spirituali, si persuadono che la via che conduce all'unione con Dio «consiste in una sola cosa necessaria, cioè nell'abnegare davvero se stessi, sì nell'interiore che nell'esteriore, abbracciando di cuore il patire per Cristo, annichilandosi in tutto » *(ivi,* 8). Cerca, dunque, almeno tu di esserne persuaso e di regolarti in ogni cosa col massimo distacco, non fermandoti con affetto di proprietà o con vana compiacenza né ai beni materiali, né a quelli spirituali. Guarda Gesù sulla croce: Egli era davvero spoglio e privo di ogni cosa, «avvilito ed umiliato in tutto, cioè: attorno alla riputazione degli uomini, poiché vedendolo morire su di un tronco, non che averne un po' di stima, si facevano beffe di lui; e in quanto alla natura, poiché in essa in certo modo si annichiliva morendo; e circa la protezione e il conforto spirituale del Padre, che in quei momenti l'abbandonò » *(ivi,* 11). Di qui devi intendere qual'è la via per unirti a Dio e devi capire che quanto più ti annienti per amor suo, tanto più ti unisci a lui.
 
-Ma se, con l'aiuto divino, siamo riusciti a fare qualche progresso, altri e maggiori ne restano da compiere e
-perciò la Chiesa nella Colletta odierna così supplica per
-noi: «Scuoti, Signore, la volontà dei tuoi fedeli, affinchè,
-producendo con più ardore i frutti delle opere celesti,
-ricevano dalla tua bontà soccorsi maggiori ». Proprio così: più corrisponderemo alla grazia, più il Signore ci farà
+**2** — La generosa pratica del rinnegamento totale non è l'unica cosa che tu puoi fare per entrare nella notte dello spirito; ve n'è un'altra, non più negativa, ma eminentemente positiva: un intenso esercizio delle virtù teologali. La fede, la speranza e la carità devono essere il tuo sostegno, la tua guida nelle oscurità della notte e, nello stesso tempo, ti devono aiutare a purificare le potenze del tuo spirito: intelletto, memoria e volontà, affinché possano aderire a Dio solo.
 
-'azie maggiori; più affretteremo il passo verso di lui, più
-gli ci attirerà a sè, finchè da questo intreccio di soccorsi
+«La fede — dice S. Giovanni della Croce — produce il vuoto nell'intelletto » *(S.* II, 6, 2). Infatti, proponendoti a credere cose che per la loro altezza non puoi comprendere, la fede ti insegna che, per unirti a Dio, anziché appoggiarti al tuo modo di ragionare e di intendere, devi piuttosto spogliarti di esso, il che significa mettere l'intelletto in vuoto. Quanto più progredirai nella fede, tanto più ti distaccherai dalla tua bassa maniera di pensare, e ciò non solo riguardo ai misteri divini e ai tuoi rapporti diretti con Dio, ma anche circa gli avvenimenti della vita, avvenimenti che imparerai a giudicare soltanto rispetto a Dio.
 
-divini e di corrispondenza nostra risulterà Ja santificazione di ognuno di noi.
+La speranza, invece, pone «nelle tenebre la memoria » *(ivi,* 3) vuotandola di tutte le cose. Se tu speri fortemente, vuol dire che aspetti beni che ancora non hai e non ti accontenti di quelli che già possiedi. Se riponi in Dio tutte le tue speranze, vuol dire che non speri più nelle cose della terra, che il loro possesso non ti appaga, di conseguenza il loro ricordo si fa meno vivo, meno frequente e così la tua memoria resta vuota, capace di applicarsi unicamente a ciò che riguarda Dio e il suo servizio. Esercitati intensamente nella speranza delle cose celesti e dimenticherai quelle terrene; spera in Dio solo e non sarai più occupato nel ricordo delle creature.
 
-della fine del mondo c della venuta di Cristo a giudicare
-i vivi ed i morti, ci ricorda che, come passa e termina
-l'anno liturgico, così passa e termina la vita dell'uomo
-sulla terra. Tutto avrà fine e, alla fine di tutto, vi sarà
-Pepiloro maestoso: « Allora apparirà nel cielo il segno
-[ossia la croce] del Figlio dell'uomo e tutte le genti della
-terra piangeranno e vedranno il Figlio dell'uomo venire
-sulle nuvole del cielo in gran potenza e gloria ». Gesù,
-che è venuto un pa sulla verra nella povertà, nel nascondimento e nel dolore per insegnarci la via del cielo
-e per redimere le anime nostre, ha tutto il diritto di ri
-tornare glorioso, alla fine del tempo, per cogliere i frutti
-della sua opera e del suo Sangue. Egli sarà il nostro giudice e, come lui stesso ha detto, ci giudicherà sull'amore: « Venite, o benedetti, dal Padre mio; possedete il regno... Perchè io ebbi fame e voi mi deste da mangiare;
-ebbi sete e mi deste da bere... Tutte le volte che avete
-fatto qualche cosa ad uno di questi minimi tra i miei fratelli, l'avete fatta a me» (Mt. 25, 34-40). Il suo dolce precetto dell'amore, amore di Dio e amore del prossimo, sarà il codice su cui saremo esaminati. Beati noi se avremo
-amato e amato molto! «Le son rimessi i suoi molti peccati, perchè molto ha amato» (Le. 7,47), ha detto Gesù
-della donna peccatrice, Quanto più il nostro amore sarà
-grande e profondo, tanto più sarà capace di supplire tutti i nostri peccati, tutte le nostre miserie, tutti quei difetti in cui, malgrado la buona volontà, ricadiamo ogni
+«La carità, infine, vuota la volontà di tutte le cose, perché ci obbliga ad amare Dio al disopra di esse: il che non può avverarsi, se non distogliendo l'affetto da loro per riporlo interamente in Dio ». *(ivi,* 4). Se vuoi giungere al distacco e al rinnegamento totale, devi molto amare. Quanto più crescerai nell'amore divino, tanto più ti distaccherai con facilità dalle cose terrene e anche da te stesso, tanto più sarai capace di rinnegare la tua volontà e di annientare il tuo io in tutte le cose.
 
-| giorno.
-
-«Sommamente importa — dice S. Giovanni della Croce — che l'anima eserciti atti di amore in questa vita affinchè, consumandosi in breve, non si trattenga molto nelle cose di quesgiù che le impediscono di vedere Dio »
-(F. 1, 34). I to allude all'anima infiammata d'amore
-
-divino che anela ansiosamente al cielo per vedere il suo
-Dio a faccia a faccia e per poterlo maggiormente amare. Comunque, è sempre vero che solo un intenso esercizio dell'amore può condurre all'unione con Dio, sia quagiù in terra come nell'eternità beata. Felice l'anima che,
-alla fine della vita, essendosi esercitata molto nell'amore,
-potrà senz'altro essere ammessa all'unione beatificante del
-cielo. Allora nulla avrà da temere dal giudizio di Gesù,
-chè, anzi, questo giudizio sarà la sua gioia e il suo gaudio in eterno.
+Cammina in fede, in speranza, in amore e avanzerai nella notte dello spirito senza smarrirti nelle oscurità e nelle tenebre che potrai incontrare, perché queste virtù ti terranno fortemente ancorato in Dio.
 
 ### Colloquio
 
-« Degnati, o Signore, di darmi il vero amore, almeno
-prima di morire. Sarà per me un gran conforto pensare,
-al momento della morte, di dover essere giudicata da Colui che ho amato sopra ogni cosa. Ti verrò, allora, innanzi con confidenza, anche con il carico dei miei debiti,
+«Signore, rendimi possibile con la tua grazia ciò che a me sembra impossibile per natura. Tu sai che io valgo poco a soffrire e mi abbatto appena una piccola difficoltà insorge. Per la gloria del tuo nome mi divenga amabile e desiderabile qualunque prova e tribolazione, poiché il patire e l'essere perseguitato per amor tuo è di grande utilità.
 
-persuasa di andare non già in una terra straniera, ma nelh mia patria, nel regno tuo, O Signore, che tanto amo è
-che pur tanto mi ami.
+«Gesù, Signor mio, assistimi in ogni luogo e circostanza; la mia consolazione sia il privarmi spontaneamente di tutte le glorie terrene; e qualora mi mancasse il conforto divino, sia mia consolazione suprema la tua volontà e la giusta prova cui Tu mi sottoponi, poiché Tu non vorrai essere segnato col tuo servo, né minacciarmi in perpetuo.
 
-«Come sarà dolce, o mio Dio, la morte di chi avrà
-fatto penitenza dei suoi peccati e non dovrà andare în
-purgatorio! Comincerà fin da pe: a godere la gloria del
+«O Signore, purché la mia volontà si conservi sempre retta e fermamente unita a te, fa' di me come meglio ti piace, poiché ciò che fai per me, non può essere che ottimo. Se Tu vuoi che io viva nelle tenebre, sii benedetto; se mi vuoi nella luce, sii pur benedetto; se invece vuoi che io soffra, sii ugualmente benedetto in eterno.
 
-cielo, senza timore nell'anima in pace perfetta » (T.G.
-Cam. 40;8/€9).
-
-«A te, Signore Dio nostro, noi dobbiamo sempre aderire, affinchè pel continuo tuo ausilio, possiamo vivere
-santamente, piamente e rettamente. Dal peso della nostra
-debolezza siamo tirati in basso; ma per la tua grazia siamo accesi e ci leviamo in alto, c' inftammiamo e dal profondo ascendiamo, disponendo ascensioni nel nostro cuore; così cantiamo il cantico dell'elevazione, ed ardiamo
-del tuo santo fuoco, e camminiamo verso di te.
-
-«Dove andiamo? In alto, alla pace della celeste Gerusalemme, come sta scritto: “Io mi sono rallegrato di
-questo che mi è stato detto; andremo nella casa del Signore”. Ivi ci collocherà la volontà buona, affinchè niente altro vogliamo, se non colà dimorare in eterno. Finchè
-viviamo nel a mortale, peregriniamo verso di te, 0
-Signore; non abbiamo qui città permanente, ma cerchiamo la città futura, poichè il nostro domicilio è nel cielo.
-Per questo, coll'aiuto della tua grazia, entro nel segreto
-del mio cuore ed a te inalzo canti d'amore; a te, mio Re
+«Signore, io sono disposto a tollerare volentieri per amor tuo tutto ciò che ti piacerà disporre; dalla tua mano voglio ricevere con lo stesso animo il male e il bene; non avrò più timore della morte, né dell'inferno. Purché Tu non mi allontani da te per sempre, non mi può recar danno qualunque avversità sia per accadermi » *(Imit.* III, 19, 5; 16, 2; 17, 2 e 4).

@@ -1,105 +1,21 @@
-## 170 — VITA MARIANA
+## I — Maria guida e modello
 
-### Presenza di Dio
-
-O Maria, Madre dolcissima, per la tua umiltà e il tuo amore materno verso tutte le creature, rendi umile il mio cuore.
+**Presenza di Dio.** — *Mi rifugio, sotto il tuo patrocinio o Maria, sii Tu la guida e il modello della mia vita interiore.*
 
 ### Meditazione
 
-1. — Il grande posto che Maria, nella sua qualità di
-Madre, occupa nell’o) della nostra santificazione, giustifica appieno il desiderio di una vita di intimità con lei.
-Come il figlio sta volenteri con la madre sua, così il cristiano vive volentieri con Maria, e perciò si serve di tante
-piccole industrie per mantener desto nella sua mente il
-ricordo di Lei. Cerca, per esempio, di avere sotto gli occhi
-la sua immagine avvezzandosi a salutarla amorosamente
-tutte le volte che la incontra. Ma poi, con lo sguardo di
-fede va molto più in là delle immagini, va fino a Maria
-vivente nella gloria e che, per mezzo della visione beatifica,
-ci vede, ci segue, conosce tutti i nostri bisogni, ci soccorre
-col suo aiuto materno; e così, mediante la fede, l'anima si
-mantiene in continuo contatto con la Madonna. Spontaneamente, allora, moltiplica durante il giorno le piccole
-pratiche di pietà in suo onore, le invocazioni, le giaculatorie e tutto ciò le serve per intensificare i suoi rapporti
-con Lei. Il giorno di sabato, il mese di maggio, le sue
-numerose feste sono altrettante occasioni per ricordarla in
-modo speciale, per meditare le sue prerogative, per contemplare le sue bellezze, per innamorarsi sempre più di
-Lei. Infatti, non è possibile portare nella mente e nel cuore
-la dolce figura di Maria, senza sentirsi mossi ad amarla,
-senza provare il bisogno di dimostrarle la realtà del proprio
-amore, cercando di farle piacere, ossia di vivere da veri
-figli suoi. In tal modo la vita «mariana», ossia la vita
-di intimità con Maria, può penetrare tutto l'insieme della
-nostra vita «cristiana » e condurre ad una maggiore fedeltà
-nell'adempimento di tutti i nostri doveri, perchè nulla
-può far più piacere alla Madre che vederci compiere con
-amore la volontà del Figlio suo. E, d'altra parte, la vita
-cristiana, vissuta così sotto lo sguardo materno di Maria,
-acquista quella speciale dolcezza e soavità che nasce spontaneamente dalla compagnia continua di una Madre dolcissima che ci circonda e tene:
+**1** — Mese di maggio, mese di Maria. Spontaneamente ogni cuore cristiano si rivolge alla Mamma celeste col desiderio di vivere in una maggiore intimità con lei e di rinsaldare i dolci vincoli che a lei lo legano. È un grande conforto incontrare lungo il nostro cammino spirituale — spesso faticoso ed irto di difficoltà — la soave figura di una mamma. Si sta tanto bene vicino alla mamma. Con lei tutto diventa più facile; il cuore scoraggiato e stanco, il cuore agitato dalle tempeste trova nuova forza, nuova speranza e riprende con nuova lena la via.
 
-2. — Altro aspetto della vita mariana è l'imitazione
-di Maria, Solo Gesù è la «via» che ci conduce al Padre,
-Egli è l'unico modello; ma, chi più di Maria è simile a
-Gesù? Chi più di Maria può dire di portare in sè gli
-stessi sentimenti di Cristo? «O Signora — esclama San
-Bernardo — Dio dimora in te e Tu in Lui. Tu lo rivesti
-con la sostanza della tua carne ed «Egli ti riveste con la
-loria della sua Maestà». Dimorando nel seno purissimo
-della Vergine, Gesù l’ha rivestita di sè, le ha partecipato
-le sue perfezioni infinite, le ha infuso i suoi sentimenti,
-i suoi desideri, i suoi affetti, i suoi voleri; e Maria, che si
-è totalmente abbandonata alla sua azione, è stata appieno
-trasformata in Lui, sì da diventarne la copia più fedele.
-« Maria — canta la liturgia — è l’immagine perfettissima
-di Cristo, dipinta al vivo dallo Spirito Santo». Lo Spirito
-Santo, che è lo Spirito di Gesù, prendendo pieno possesso
-dell'anima purissima e dolcissima di Maria, vi ha scolpito,
-e nel modo più completo e delicato, tutti i lineamenti, le
-caratteristiche dell'anima di Cristo, per cui si può ben
-dire che imitare Maria è imitare Gesù. E proprio per
-questo noi la scegliamo quale modello. Come non amiamo
-Maria per se stessa, ma in relazione al Cristo di cui è Madre, così non l'imitiamo per se stessa, ma in rapporto al
-Cristo, di cui è l'immagine più fedele. Gesù è l’unica via
-che ci conduce al Padre, e Maria è la via più sicura e più
-facile per, giungere a Gesù. Gesù, incarnando in sè le
-perfezioni del Padre, ce ne ha resa possibile l'imitazione;
-e Maria, ricopiando in sè le perfezioni di Gesù, ce le ha
-rese più accessibili, le ha messe maggiormente alla nostra
-portata. E, d’altra parte, nessuno più di lei può dirci: e Siate miei imitatori, come io lo sono di Cristo » (I Cor. 4, 16).
-Come Gesù è venuto a noi per mezzo di Maria, così è
-giusto che noi andiamo a Gesù per mezzo di Lei.
+«Se insorgono i venti delle tentazioni — canta San Bernardo — se urti negli scogli delle tribolazioni, guarda la stella, invoca Maria. Nei pericoli, nelle angustie, nelle perplessità pensa a Maria: invoca Maria». In certi momenti l'aspra via del nulla sgomenta la nostra miseria e allora, più che mai, abbiamo bisogno del suo sostegno, il sostegno della mamma. Maria SS.ma, prima di noi, ha battuto la via stretta ed angusta che conduce alla santità, prima di noi ha portato la croce, prima di noi ha conosciuto le ascensioni dello spirito attraverso la sofferenza. Talvolta forse non osiamo fissare gli sguardi su Gesù, l'Uomo-Dio, che per la sua divina maestà sentiamo troppo al di sopra di noi; ma accanto a Lui c'è Maria, la Madre sua e Madre nostra, creatura privilegiata, sì, ma creatura come noi e quindi modello più accessibile alla nostra debolezza.
+
+In questo mese Maria ci viene incontro per prenderci per mano, per introdurci nel segreto della sua vita interiore e diventare così il modello e la norma della nostra.
+
+**2** — S. Teresa del B. G., parlando di certi discorsi su Maria SS.ma, diceva: «ci mostrano la Madonna come inaccessibile, bisognerebbe proporla come *imitabile*» (NV.). È vero, Maria è inaccessibile negli altissimi privilegi che fanno corona alla sua Maternità divina, ed è giusto considerare tali privilegi per ammirare, contemplare, lodare le grandezze della Mamma nostra e quindi innamorarci sempre più di Lei; ma nello stesso tempo bisogna pur considerare Maria nel quadro concreto della sua vita terrena, quadro umile e semplice che non esce affatto dalla cornice della vita ordinaria, comune ad ogni mamma di famiglia; e sotto questo aspetto Maria è veramente imitabile. Contemplare le grandezze di Maria, spronarci all'imitazione delle sue virtù, sarà il programma del nostro mese di maggio. E soprattutto vogliamo considerare la Madonna quale modello ed ideale delle anime di vita interiore. Nessuno, come Lei, ha compreso tutta la profondità della parola di Gesù: «Una sola cosa è necessaria» *(Lc.* 10, 42), e nessuno più di Lei ha vissuto di questa parola. Fin dai primi istanti della sua vita Maria fu tutta di Dio e non visse che per Lui; ecco gli anni passati all'ombra del Tempio nel silenzio e nella preghiera, i mesi trascorsi a Nazareth nel raccoglimento, adorante il Verbo eterno incarnato nel suo seno, i trent'anni passati nella dolce intimità con Gesù, suo Figlio e suo Dio, poi la partecipazione alla vita apostolica di lui, alla sua Passione, e, infine, gli ultimi anni trascorsi presso Giovanni, quando, con la sua preghiera, Maria era il sostegno della Chiesa nascente. Benché lo sfondo su cui si muove ed agisce cambi aspetto, benché si mutino le circostanze esterne in mezzo alle quali vive, la vita di Maria rimane immutabile nella sua sostanza, nella ricerca interiore dell'«Unico necessario», nell'adesione a Dio solo. L'avvicendarsi degli avvenimenti e la sua stessa attività esteriore non le impediscono di perseverare in quell'atteggiamento di continua preghiera in cui ce la presenta S. Luca: «Maria conservava in cuore tutte queste cose [i misteri divini] e le meditava» *(2,* 19 e 51).
+
+Se, ad imitazione di Maria, il nostro cuore sarà fortemente ancorato in Dio, nulla varrà a distoglierlo dalla sua occupazione interiore: cercare, amare il Signore e vivere nella sua intimità.
 
 ### Colloquio
 
-«O madre mia dolcissima, Tu mi chiami e mi dici:
+«Anima mia, temi forse di avvicinarti a Dio? Egli ti ha dato Gesù per mediatore. Che cosa non può ottenerti dal Padre un tale Figlio? Il Padre che lo ama lo esaudirà per l'amore che gli porta. Ma tu hai paura di accostarti anche a Lui? Eppure si è fatto tuo fratello, tuo compagno, ed ha voluto subire tutte le umiliazioni della natura umana, tranne il peccato, proprio per compatire le tue miserie; questo fratello te lo ha dato Maria. Ma forse la sua divina maestà ti spaventa ancora, perché, pur essendo uomo, Gesù non cessa di essere Dio. Vuoi dunque un avvocato presso di Lui? Ricorri a Maria. Maria è una pura creatura, pura non solo perché esente dal peccato, ma anche per la sua natura unicamente umana. O Maria, io non son certo, Tu verrai esaudita per la deferenza che meriti; il Figlio ti esaudirà certamente perché sei sua Madre e il Padre esaudirà il Figlio. Ecco la mia fiducia incrollabile, ecco tutto il motivo della mia speranza! Vergine benedetta, l'Angelo ha detto che Tu «hai trovato grazia presso Dio» *(Lc.* 1, 30). Sempre dunque Tu troverai grazia, e solo di grazia io ho bisogno e solo grazia io ti chiedo» (cfr. S. Bernardo).
 
-*Se qualcuno è piccolo venga a me’. I bambini hanno sempre sulle labbra il nome della mamma ed in ogni pericolo,
-in ogni spavento, in ogni difficoltà subito la chiamano. O
-Madre dolcissima, o Madre amorosissima, questo appunto
-'Tu desideri, che, come piccolo bambino, sempre ti chiami,
-sempre ricorra a te... Lascia dunque che continuamente
-invochi e ti dica: Madre mia, Madre mia amabilissima.
-Questo nome tutto mi consola, m'intenerisce, mi ricorda
-l'obbligo che ho d'amarti. Questo nome mi anima a confidare
-in te, “Madre mia, così ti chiamo, e così voglio sempre chiamarti. Dopo Dio Tu sei la mia speranza, il mio rifugio,
-
-il mio amore in questa valle di lacrime. O mia dolce Signora
-
-e Madre, che con l'amore che mostri ai tuoi figli rapisci i
-loro cuori, rapisci, ti prego, anche il povero cuor mio che
-desidera di amarti tanto. "Tu, Madre mia, con la tua bellezza
-hai innamorato un Dio e l'hai fatto scendere dal cielo nel
-tuo seno, ed io vivrò senza amarti? No, non avrò riposo
-finchè non sarò certo di aver ottenuto un vero amore, un
-amore costante e tenero verso di te, Madre mia. Sì, ti
-voglio amare, Madre dolcissima, ma nello stesso tempo temo
-di non amarti, poichè sento dire che l'amore fa simili gli
-amanti alle persone amate... Dunque, se io mi vedo così
-dissimile da te, è segno che non ti amo? Tu così pura, io
-così impuro! Tu così umile, io così superbo! Tu così santa,
-io così iniquo! Ma questo è quel che devi far Tu, o Maria,
-affinchè mi ami: rendimi simile a te. Tu hai tutta la potenza
-
-di mutare i cuori; prendi dunque il mio e mutalo. Fa' vedere
-al mondo quanto è grande il tuo potere in favore di coloro
-che Tu ami! Fammi santo, fammi degno figlio tuo » (cfr. San
-
-Alfonso).
+«Traimi dietro a te, o Vergine Maria, affinché io corra all'odore dei tuoi profumi. Traimi, perché io sono trattenuto dal peso dei miei peccati e dalla malizia dei tuoi nemici. Come nessuno va al Figlio tuo, se non lo trae il Padre, così, in certo modo, io ardisco dire che nessuno va a Lui se Tu non l'attiri con le tue sante preghiere. Tu insegni la vera sapienza, Tu impetri la grazia ai peccatori, Tu sei la loro avvocata, Tu prometti la gloria a chi ti onora perché sei la tesoriera delle grazie. Tu hai trovato grazia presso Dio, o dolcissima Vergine, Tu che sei stata preservata dalla macchia originale, ripiena di Spirito Santo ed hai concepito il Figlio di Dio. Hai ricevuto tutte queste grazie, o umilissima Maria, non solo per te, ma anche per noi, affinché ci assisti in tutte le nostre necessità» (cfr. Ven. R. Giordano).

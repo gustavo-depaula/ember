@@ -1,106 +1,29 @@
-## 359 — IL TRIONFO DELL'AMORE
+## 37 — ANGOSCE E TENEBRE
 
-### Presenza di Dio
-
-O mio Dio, che in me vi sia solo amore, che tutto venga dall'amore e tutto vada all'amore.
+**Presenza di Dio.** — *Accorri, o Signore, in mio aiuto affinché io non sia travolto dalla tempesta.*
 
 ### Meditazione
 
-definirsi un unico, continuo, intensissimo esercizio di amore mediante il quale si dona senza posa al suo Dio. Tutte le sue potenze, non solo purificate, ma anche perfettamente armonizzate, s'impiegano a gara nel servizio divino: «l'intelletto, applicandosi a conoscere le cose che
-sono di maggior gloria di Dio, per compierle; la volontà,
-amando tutto quello che a Dio piace e volgendo l'affetto
-a lui in ogni cosa; la memoria, avendo sollecito pensiero
-di ciò che appartiene al divino servizio e torna più gradito al Signore ». (G.C. C. 28,3). Non solo, ma anche la
-parte sensibile, anche il corpo con tutti i suoi sensi prende parte a questo magnifico concerto d'amore sì che l'anima può davvero dire che tutto il suo «capitale» —
-ossia tutte le sue potenze spirituali e sensibili — è comFieamente impiegato nell'esercizio del santo amore. « Diatti — spiega il Dottore mistico — [ella] tratta il corpo
-secondo Dio, indirizzando a lui le operazioni dei sensi
-interni ed esterni. Inoltre le quattro passioni dell'anima
-[cioè il gaudio, la speranza, il timore e il dolore] sono regolate secondo Dio; perchè ella non gode se non di Dio,
+**1** — Vedendo con chiarezza la sua miseria, l'anima intuisce l'infinita distanza che passa tra lei e Dio: proprio ora che maggiormente anela ad unirsi a lui, si vede da lui più che mai lontana, assolutamente incapace di superare la somma distanza che da lui la separa. Anche di ciò essa soffre, perché chi ama desidera ardentemente unirsi all'amato. Talvolta, poi, questa sofferenza si fa così intensa da sembrare all'anima che per lei non esista più alcuna speranza né di santità, né di unione con Dio e nemmeno di salvezza eterna.
 
-nè spera in altri che in Dio, nè teme fuorchè di Dio, nè
-si duole se non secondo Dio; infine tutti i suoi appetiti
-e sollecitudini tendono a lui solo » (ivi, 4).
+In queste angustie non vi è nulla di esagerato e tanto meno di falso: lo Spirito Santo, sotto la cui azione l'anima si trova, non può ispirarle nulla che non sia perfettamente conforme a verità. È troppo vero che fra noi, povere creature, e Dio, perfezione somma ed infinita, passano una distanza ed una differenza incalcolabili; è troppo vero che, basandoci sulle nostre forze, siamo radicalmente impotenti ad elevarci fino a Dio; è troppo vero che, guardando alle nostre azioni, anche alle migliori, non vi è niente in noi che possa meritare né l'unione con Dio, né la vita eterna. Se molti non sono convinti di ciò, ma si ritengono capaci di qualche cosa in ordine a Dio ed alla santità, è perché non sono ancora stati illuminati sulla profondità del loro nulla.
 
-La fiamma amorosa della sapienza divina si è talmente
-impadronita di quest'anima, l'ha talmente purificata e innamorata di Dio solo, che tutto il suo essere e tutte le
-sue potenze non vibrano che per lui, non operano. che
-per servirlo e dargli gusto, non sono affamate che di lui,
-non desiderano altro che a lui donarsi ed a lui unirsi in
-amore perfetto. È così che anche i primi moti di quest'anima sono moti di amore: «l'intelletto, la volontà e
-la memoria subito corrono a Dio; e similmente gli affetti, i sensi, i desideri, gli SEA, la speranza, i gaudio
-subito... di primo slancio salgono a Dio » (ivi, 5). L'amore
-è diventato l'atmosfera in cui l'anima si muove, è diventato il suo respiro, la sua vita. I duri sacrifici, le aspre
-lotte e le rinunce del passato, quando il suo esercizio d'amore consisteva « nello spogliarsi di tutto ciò che non è
-Dio » (G.C.S.II, 5,7), le sembrano ora un nulla in confronto al gran bene conseguito e ripete con entusiasmo :
-«Tutto è poco quando si tratta di fare acquisto del puro e vero amor di Dio» (T.M. Sp. p. 131).
+Se però è vero che noi siamo assolutamente indegni di Dio, del suo amore, della sua unione, della sua gloria eterna, è anche vero che Dio stesso, col suo amore misericordioso, ha voluto colmare l'infinita distanza che ci divide da lui, ha voluto chinarsi fino a noi al punto di rivestirci della sua vita divina e di chiamarci alla sua intimità. Quello che alla nostra miseria è assolutamente impossibile, è ben possibile all'onnipotenza di Dio ed alla sua infinita misericordia; ed Egli, infatti, lo vuol fare, ma vuole pure renderci consapevoli che questo è unicamente opera sua.
 
-zione di sè a Dio è il vero amore puro. Amore puro, perchè non più mescolato al minimo affetto di creatura o alla
-minima ricerca di sè. Amore puro, perchè sale direttamente e velocemente a Dio attraverso tutte le circostanze della
-vita, senza mai fermarsi in alcuna cosa creata. Di tutti gli
-avvenimenti, di tutti i doveri, di tutte le azioni l'anima si
-serve per amare il suo Dio, che è quanto dire donarsi a
-lui, servendolo come a lui maggiormente piace. L'anima
-non ha più bisogno, come nel tempo passato, di applicarsi particolarmente a questa o a quella virtù, poichè le ha
-già acquistate tutte in modo perfetto, ma «sì nel disbrigo delle faccende temporali, come nella pratica delle cose spirituali... il suo esercizio consiste solamente in amare» (G.C.C. 28,9). Non ha più bisogno 'del richiamo e
-del pungolo di una legge esterna che ua perchè sua
-legge è il grande amore che porta dentro di sè e che la
-Spinge a cercare ed a volere in tutte le cose il divino beDERUCR: « ira e fa' quello che vuoi », diceva S. Agostino; «per l'uomo giusto non vi è le
-8; Giopani del/i. oce (Sol pini di i Anto
-fezione, e ciò, ben lungi dal significare che RR
-peri dall'osservanza della legge, dal dovere e dall'obbeienza, significa appunto che l'amore, quando è davvero
-PREso, Sepe e completa qualsiasi legge, avendo in
-pa la forza di slanciare l'anima alla più alta per-
-. Di quest'amore totalitario e purissimo, che impiega i
-Dio tutte le forze dell'anima a nulla SR don
-stamore che va direttamente a ferire il cuore di Dio! ol
-trepassando tutte le cose della terra, S. Giovanni della
-Croce ha scritto: «un pochino di puro amore è più prezioso al cospetto di Dio ed apporta maggiore utilità alla
-Chiesa... che non tutte le altre opere unite insieme » (C.
-29, 2). Non vi può essere, infatti, attività più intensa e iù
-sublime di quella che concentra ed occupa in Dio E
-le energie e le capacità della creatura. È l'attività eterna
-degli angeli e dei santi del cielo, è l'attività che, quasi
-gareggiando con essi, possono iniziare fin da quagi iù le
-anime pervenute all'umone totale con Dio, « Lic
-felice stato e fortunata l'anima che vi giunge! dove tut
+Nei suoi timori di non poter giungere a Dio ed alla salvezza eterna, l'anima deve mantenersi salda in una speranza incrollabile. Se è giusto che tema di se stessa e sia convinta di non poter sperare nulla dalle sue opere, è però più che mai giusto che tutto attenda da Dio, il cui amore e la cui bontà superano infinitamente e la sua miseria e le sue aspettative. Comportandosi così, le angosce della notte dello spirito non faranno altro che radicare l'anima non solo in un'umiltà più profonda, ma anche in una speranza più pura, più perfetta, perché unicamente appoggiata all'amore misericordioso di Dio.
 
-to è per lei sostanza di amore e i i i
-Hi gi 'o nuziale »
+**2** — «In questo tempo di purgazione — dice S. Giovanni della Croce — l'anima è avvolta da fitte tenebre nel suo intelletto... Quasi sempre (è) arida e fredda, raramente fervorosa, in nessuna cosa trova sollievo, neanche un pensiero che la conforti, senza poter nemmeno sollevare il cuore a Dio» *(F.* 1, 20).
+
+Ecco un altro motivo di pena spirituale: la secca aridità in cui l'anima si trova, l'incapacità di pensare a Dio. Le sembra quasi che tra lei e Dio si sia inalzato come un muro altissimo il quale impedisce che i suoi gemiti giungano fino a lui. È notte profonda in cui l'anima non può procedere appoggiata alla fede pura e nuda. Infatti, deve andare avanti così, credendo con tutte le sue forze che Dio è infinitamente buono, che Dio le vuol bene e ascolta il suo pianto, che Dio conosce il suo tormento e la sua prova unicamente per purificarla. Non è difficile che in questo stato l'anima vada soggetta a forti tentazioni contro la fede; possono essere, ad esempio, tentazioni simili a quelle che afflissero S. Teresa del B. G. nell'ultimo periodo della sua vita: «Il Signore — scriveva la Santa — permise che la mia anima fosse immersa nelle tenebre più fitte e che il pensiero del cielo, sì caro per me fin dalla mia più tenera infanzia, mi divenisse cagione di lotta e di tormento» *(Sr.* 9). Tuttavia soggiungeva: «Per quanto mi manchi il conforto della fede, mi sforzo però di eseguirne le opere; ho rinnovato più atti di fede da un anno a questa parte, che non in tutto il corso della mia esistenza»; e, alludendo alle sue poesie sulla felicità del cielo, confessava: «Quando canto l'eterno possesso di Dio, non sperimento gioia veruna, perché io canto semplicemente quello che *voglio credere*» *(ivi).* È proprio questa la condotta che l'anima deve tenere in tale stato: *credere perché vuol credere,* senza basarsi su ciò che prova o sperimenta, ma basandosi unicamente sulla parola di Dio. Questi atti di pura fede, spogli di ogni conforto, indipendenti da qualsiasi sentimento, sono atti di fede eroica che tanto più onorano Dio quanto più si appoggiano unicamente alla divina rivelazione e tanto più uniscono l'anima a lui, quanto più sono privi di ogni sostegno umano. Le tenebre della notte dello spirito hanno appunto questo scopo: abituare l'anima a camminare nella fede pura, nella fede eroica.
 
 ### Colloquio
 
-«Come la sposa non in altri ripone il suo amore il
-suo pensiero, la sua opera, fuorché nel suo sposo, così
-fa', O Signore, che l'anima mia non abbia nè affetti di
-volontà, nè cognizione d''intelletto, nè sollecitudini nè
-appetiti che non siano rivolti a te. i
+«O Gesù, Re pacifico, la cui presenza è desiderata dal cielo e dalla terra, come ti sei allontanato da me? Com'è mancata tutta la mia ricchezza e la mia fortezza? O privazione più penosa della ferite mortali, o separazione veramente amarissima, sì da essere peggiore delle angustie della morte!
 
-«Fa' che non sappia fare altra cosa che amare te, Sposo divino. E vedendo che nientè Tu apprezzi, nè di niente ti compiaci all'infuori dell'amore, aiutami ad applicarmi tutto nel puro amore tuo, perchè desidero di servirti
-perfettamente. Ir E S
+«Perché ti nascondesti, dolcissimo Sposo mio, e mi causasti con l'assenza tua questa notte piena di tenebre palpabili e di mestissima desolazione? Chi mi aiuterà in questo estremo abbandono, in questa solitudine? Oh, come sono grandi le sofferenze dell'amore, com'è grande la sollecitudine del cuore che non sa, né può far altro che amare e non può avere chi ama!
 
-«Non permettere che cerchi più il mio interesse, nè
-vada dietro ai miei gusti e nemmeno mi occupi in altre
-cose 0 faccende a te estrance e da te aliene, ma fa' che
-tutta l'anima mia sia impegnata in amarti. Tutte le mie
-azioni siano poste in esercizio di amore; tutto in me si
-muova per amore ed in amore. Nell'operare, voglio fare
-ogni cosa con amore, e nel patire, voglio soffrire tutto con
-gusto di amore. FERILI AMARE
+«O mio Re clementissimo, non ho altro rimedio che sospirate a te; dall'intimo del cuor mio grido a te e invoco la tenerezza dell'amor tuo. Ricordati di me, o speranza mia, e considera l'amarezza della ripulsa e la durezza dell'abbandono che mi consumano.
 
-« Fa” che possa ripeterti insieme con la sposa dei Cantici: 'Tutti i pomi vecchi e nuovi li ho serbati per te”.
-Come se dicessi: 0 mio Diletto, desidero per me e per
-amor tuo tutto ciò che è aspro e faticoso, e tutto ciò che
-è soave e saporito lo desidero per te » (G.C.C.27,708;
-28, 2-10). VELINE ;
+«Non mi abbandonare, o dolcissimo Figliolo della Vergine, poiché nacque insieme con te la misericordia dal seno della purissima Madre tua. Guarda, o Signore, come tutte le mie forze sono venute meno e senza di te sono oppresso dall'orrore e dall'ombra della morte.
 
-«O Gesù, il mio cuore non aspira nè a ricchezze, nè
-a gloria, neppure alla gloria del cielo! Quello che io chiedo è l'amore! Non so più fare che un'unica cosa; amare te, o Gesù! Sì, Gesù mio, ti amo! Amo la Chiesa mia
-Madre e ricordo che il più piccolo moto di puro amore
-le è più utile di tutte le altre opere prese insieme. Fa',
-o Signore, che il puro amore si trovi effettivamente nel
-mio cuore, Î Ki lg :
-
-«O Gesù, fa' che l'amore mi penetri e mi circondi;
-il tuo amore misericordioso mi rinnovi, mi purifichi ad
-ogni istante e non lasci nel mio cuore traccia alcuna di
-colpa! » (T.B.G. St. 11€ 8).
+«Abbi pietà di me, Amico mio, poiché, consumate tutte le forze, solamente mi son rimaste le labbra e la lingua per gridare a te. O vita immortale e fonte d'acqua viva, non mi privare con tanto rigore della tua presenza che mi è più cara della vita. Non mi riposerò mai, o dolcissimo Figliolo di Dio, né cesserò mai di gemere e di supplicare fino a che non rivolga verso di me il tuo volto» (Ven. Giovanni di G. M., o.c.d.).

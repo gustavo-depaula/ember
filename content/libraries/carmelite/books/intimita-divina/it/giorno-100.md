@@ -1,117 +1,23 @@
-## 100 — L'IMPERFEZIONE
+## 24 — IL PECCATO
 
-### Presenza di Dio
+**Presenza di Dio.** — *O Gesù crocifisso, fammi comprendere la grande malizia del peccato.*
 
 ### Meditazione
 
-1 — Mentre il peccato veniale include sempre una
-tras; ione più o meno lieve ad una legge di Dio, l’im-
+**1** — L'essenza della perfezione cristiana consiste nella unione con Dio mediante la carità. Ora, mentre la carità, conformando la nostra volontà alla volontà divina, ci unisce a Dio, il peccato — peccato grave — opponendosi direttamente alla volontà di Dio, produce l'effetto contrario. In altre parole, la carità è la forza che unisce l'uomo a Dio, il peccato è la forza che lo distacca da Dio. Il peccato grave è così il più grande nemico della vita spirituale, poiché non solo attenta ad essa, ma la distrugge nei suoi elementi costitutivi, carità e grazia. E questa distruzione, questa morte spirituale è appunto l'inevitabile conseguenza del peccato, atto con cui l'uomo si distacca volontariamente da Dio, unica fonte di vita, di carità, di grazia. Come non può vivere il ramo reciso dal tronco, così non può vivere l'anima separata da Dio.
 
-fezione è l’omissione di un bene migliore a cui non si
-è obbligati per alcuna legge, ma che tuttavia sarebbe conveniente compiere. Quando, nel caso concreto, mi si pre
-senta con chiarezza la possibilità di compiere un’azione
-migliore, che è conveniente e proporzionata al mio stato,
-alle mie possibilità attuali, che è in armonia con i miei
-doveri, per cui posso ragionevolmente pensare essermi
-ispirata dallo Spirito Santo, e tuttavia rifiuto deliberatamente di compierla, ciò non può essere senza vera e pro-
-pria imperfezione. In questo caso il mio rifiuto del meglio
-non può essere considerato buono, nè può essere giusti»
-ficato dal pensiero che, non esistendo alcuna legge 0 comando che m’impone quell’azione migliore, possa omet-
-terla unicamente per usare la mia libertà; questo sarebbe
-un abuso della libertà, la quale mi è stata data da Dio non
-altro che per rendermi capace di aderire al bene, senza
-lasciarmi influenzare dalle passioni. E infatti, in ultima
-analisi, il mio rifiuto del meglio include sempre una mancanza di generosità, motivata da un po’ di egoismo, di
-pigrizia, di grettezza, di attaccamento al mio comodo, e
-tutto ciò è evidentemente contrario alla perfezione.
+Se Dio, come causa di ogni essere, è sempre presente nell'anima del peccatore — nella stessa guisa in cui è presente in tutte le cose — però non vi è presente come Padre, come Ospite, come Trinità che si offre all'anima quale oggetto di conoscenza e di amore. Così l'anima, creata per essere il tempio della Trinità, si è resa volontariamente incapace di vivere in società con le Persone divine, si è sbarrata la via all'unione con Dio, ha, per così dire, costretto Dio a rompere con lei ogni rapporto di amicizia. E tutto ciò perché al Bene sommo ha preferito il bene limitato e caduco di una misera creatura, di una soddisfazione egoistica, di un piacere terreno. Ecco la malizia del peccato che ripudia il dono divino, che tradisce il Creatore, il Padre, l'Amico. « Oh! perché non comprendiamo che il peccato è una guerra aperta di tutti i nostri sensi e di tutte le nostre potenze contro il Signore, una gara universale a chi più inventa tradimenti contro il proprio Re? » (T.G. *Es.* 14, 2).
 
-Considerata così, è chiaro che l’imperfezione volontaria non può mai essere conforme alla volontà di Dio,
-quindi anch'essa, come il peccato, va nella direzione opposta della carità, la quale tende alla piena conformità
-con la volontà divina. Ecco quindi l’importanza, per l’aliminare dalla sua
+**2** — Se vogliamo comprendere meglio la malizia del peccato mortale dobbiamo considerarne i disastrosi effetti. Un solo peccato ha in un istante trasformato Lucifero da angelo di luce in angelo delle tenebre, in eterno nemico di Dio. Un solo peccato ha destituito Adamo ed Eva dallo stato di grazia, di amicizia con Dio, privandoli di ogni dono soprannaturale e preternaturale, condannandoli alla morte, e con loro tutta l'umanità. Un solo peccato è bastato per scavare un abisso fra Dio e l'umanità, per precludere al genere umano ogni possibilità di unione con Dio.
 
+Ma, più ancora di tutto ciò, la Passione di Gesù ci dice quanto sia grande la malizia e la forza distruttrice del peccato. Le membra straziate del Cristo, la sua dolorosissima morte di croce, ci dicono che il peccato è una specie il deicidio. Gesù, il più bello dei figli degli uomini, a causa del peccato è diventato « l'abbietto, l'ultimo degli uomini, l'uomo dei dolori... Egli è stato trafitto per le nostre iniquità » in modo tale che « dalla pianta dei piedi fino al sommo della testa, non ha nulla di sano » *(Is.* 53, 3-5; 1, 6). Il peccato ha martoriato Cristo e l'ha ridotto alla morte, ma d'altra parte Cristo è andato alla passione e alla morte « perché lo ha voluto » (ivi, 53, 7), perché con la sua morte ha voluto distruggere il peccato e ristabilire l'uomo nell'amicizia divina.
 
-condotta qualsiasi imperfezione volontaria. È proprio in
-questo senso che S. Giovanni della Croce avverte: « Affinchè l’anima venga ad unirsi perfettamente con Dio per
-volontà ed amore... si richiede che non consenta con cognizione ed avvertenza a veruna imperfezione » e insegna
-che basta l’attacco ad una imperfezione volontaria abituale per impedire « non soltanto l’unione divina, ma an-
-che il progresso nella perfezione » (S.I, 11,3).
-
-
-2 — Volendo scendere più al concreto si possono considerare altri tipi d’imperfezione e anzitutto la trasgres-
-sione di una legge che di per sè non obbliga sotto peccato,
-come sono in genere le costituzioni o gli statuti dei vari
-Ordini ed Istituti religiosi. A proposito di ciò bisogna
-notare che se non vi è un motivo ragionevole, proporzionato e sufficiente per venir meno ad una di queste leggi,
-molto facilmente tali trasgressioni diventeranno peccato
-veniale per mancanza di fine moralmente buono. Infatti,
-come insegna S. Tommaso, l’uomo è tenuto ad agire sem-
-
-re pe un motivo ragionevole, per un fine buono. Se il
-
-ine è viziato — come sarebbe per esempio trasgredire la
-legge del silenzio, del ritiro o della modestia religiosa per
-curiosità, per comodo proprio e simili — l’azione diventa
-per ciò stesso peccaminosa; e in genere si tratterà di « peccati, almeno leggeri, di pigrizia spirituale, d’incostanza, di
-ingratitudine e di una certa durezza di cuore che non
-apprezza sufficientemente il soccorso che Dio ci dà per le
-opere migliori » (Salmzart.). Altro genere d’imperfezione
-è una certa mancanza di compiutezza che si verifica in un
-atto sostanzialmente buono, ma eseguito, per esempio, con
-un po’ di grettezza, o senza impiegare in esso tutta la
-buona volontà e lo slancio di cui si è capaci.
-
-In fondo, qualsiasi genere d’imperfezione volontaria
-deriva sempre da mancanza di sforzo, di vigore, di slancio
-nella vita spirituale. È sempre l'egoismo che, in un modo
-© in un altro, toglie qualche cosa a Dio per accontentare
-l'io. Siamo troppo calcolatori, abbiamo paura di dare
-
-
-troppo e così l'egoismo ci tarpa le ali e ci impedisce di
-giungere alla piena unione con Dio.
+E Gesù, nostro Capo, invita noi suoi membri ad associarci alla sua opera distruttrice del peccato: distruggerlo in noi fin nelle sue ultime radici, ossia nelle cattive tendenze, e distruggerlo anche negli altri membri. È questa una legge di solidarietà, perché il male dell'uno è male dell'altro, perché ogni peccato grava su tutto il mondo e tenta di spostarne l'asse da Dio. Perciò ogni cristiano — e tanto più ogni anima consacrata a Dio — deve sentirsi fortemente impegnato in questa lotta contro il peccato e deve combatterlo con i mezzi adatti: con la penitenza e con la preghiera espiatrice e più ancora con l'amore. L'amore di carità, quando è perfetto, distrugge il peccato più del fuoco del purgatorio, anche senza alcuna manifestazione esterna. Ecco perché i santi hanno potuto convertire tante anime; Dio si è servito del fuoco della loro carità per distruggere il peccato nei peccatori.
 
 ### Colloquio
 
-Ti supplico, o mio Dio, di concedermi una carità
-forte, generosa, capace di distruggere sino in fondo il mio
-egoismo. Oh, come lo EE che è proprio questo
-egoismo la causa di tante mie piccole infedeltà, di tante
-imperfezioni in cui cado abitualmente e delle quali non
-mi ene di correggermi col pretesto che non sono
+« O mio Dio e mia vera Fortezza, donde viene che, codardi in tutto, siamo poi sì arditi nell'offenderti? Ecco a che servono le energie dei figli di Adamo! Se la ragione non fosse così cieca comprenderebbero che tutte le forze degli uomini sarebbero ancora insufficienti a dar ardire di prendere le armi contro il loro Creatore e continuare la guerra contro Colui che in un solo istante può precipitarli tutti negli abissi. Ma poiché in essi la ragione è cieca, vanno come pazzi incontro alla morte, immaginandosi di trovare la vita... O inaccessibile Sapienza! Occorre tutto l'affetto di cui Tu ami le creature tue per sopportare tanta pazzia, per aspettare la nostra guarigione e lavorare a procurarcela con ogni sorta di mezzi e di rimedi.
 
-‘cati!
+« Ecco a fatto che mi stupisce. Non si ha coraggio di superare nemmeno una leggera difficoltà; ci si crede incapaci, malgrado ogni nostra buona volontà, di liberarci da un'occasione e di sottrarci ad un pericolo in cui l'anima si rovina, eppure si ha il coraggio e l'ardire di levarci contro una Maestà così grande come la tua. Cos'è questo, mio Bene? Cos'è? Chi c'infonde tanto ardire?...
 
-Ma tali mancanze non sono senza importanza per
-un’anima che, essendo a te consacrata, ha il dovere di
-tendere alla perfezione, per un’anima quindi che Tu chiami alla santità, che Tu inviti alla piena unione con te.
-Come posso pretendere di unirmi a te, Perfezione infinita,
-io che ammetto volontariamente nella mia vita tante e
-tante imperfezioni? Come può la mia volontà essere del
-tutto conforme alla tua, quando io voglio e amo ciò che
-Tu non vuoi e non puoi assolutamente amare?
-
-© Signore, come sento il peso del mio egoismo che
-mi trascina verso il basso, che vorrebbe raggiungere il
-massimo col minimo sforzo, che sfugge a tutto potere la
-fatica, la rinuncia, la dedizione piena e generosa! Come
-sento la pesantezza della carne che cerca sempre di ridurre un po’ Ja misura della mia donazione, che rimanda
-al domani ciò che mi costa 0 mi ripugna, che mi presenta
-mille pretesti per sottrarsi ad un atto di generosità!
-
-Sì, o Signore, tutto questo lo sento e Tu sai meglio
-di me fin dove arrivano i rinirghi i compromessi del mio
-egoismo. Ma sai anche che vo; amarti con tutto il
-‘cuore, che voglio darmi interamente a te, sai che i miei
-poveri desideri sono sinceri, benchè inefficaci. Ebbene,
-donami Tu un amore reale, operativo, capace di vincere
-tutte le resistenze dell’egoismo, di smantellarne tutti i
-
-
-piani. Tu che sei carità infinita, fuoco consumante, infondi
-
-
-nell'anima mia una scintilla del tuo amore, affinchè distrugga e bruci ogni mia tendenza cgoistica. Se l'egoismo
-è il peso che tenta di rallentare il mio slancio verso di te,
-fa’ che il tuo amore sia un peso ancor più forte che mi
-trascini incessantemente in te, per mezzo di una dedizione
-totale, senza riserva, senza misura.
+« Ah! Signore, che durezza, che follia! che cecità. Si soffre se si perde un oggetto, un ago... e poi si resta insensibili innanzi alla perdita di quell'Aquila reale che sei Tu, o Dio della gloria!... Cos'è questo, dunque, cos'è? Non ci capisco più nulla. Guarisci, mio Dio, tanta demenza e cecità!... La perdita di tante anime mi affligge in tal modo che non posso più contenermi. O Signore, inalzando a te la mia voce, ti supplico di fornirmi di qualche mezzo per contribuire a guadagnarne qualcuna al tuo servizio, e di darmi modo di fare un po' di bene con la preghiera, posto che non sono capace di altro... Mi sembra che per salvare un'anima sola delle molte che si perdono, sacrificherei mille volte la vita!... Mi pare, o Signore, che Tu apprezzi di più un'anima sola che con le nostre industrie e orazioni noi, per tua misericordia, ti guadagnamo, che non tutti i servizi che ti possiamo rendere » (T.G. *Es.* 12, 1 e 2; 14, 4; *Fd.* 1, 7; *Cam.* 1, 2).

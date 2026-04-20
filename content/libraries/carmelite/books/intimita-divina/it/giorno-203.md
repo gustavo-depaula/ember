@@ -1,93 +1,19 @@
-## 203 — LA DEVOZIONE AL CUORE DI GESÙ
+## III — MISTERO DI FEDE
 
-### Presenza di Dio
-
-O Gesù, degnati di scoprirmi i tesori del tuo Cuore.
+**Presenza di Dio.** — *O Gesù, ti credo e ti adoro presente nel Sacramento dell'altare: aumenta la mia fede.*
 
 ### Meditazione
 
-1. — L'oggetto della devozione al Sacro Cuore è propriamente il Cuore di carne di Gesù, che, facendo parte della sua Umanità santissima unita ipostaticamente al Verbo, è degno di adorazione. Tuttavia, l'oggetto terminale di
-questa devozione è l'amore di Gesù del quale il suo Cuore
-è il simbolo; in altre parole, «sotto l'immagine simbolica
-del Cuore, meditiamo e veneriamo l'immensa carità e l'amore liberale del nostro divin Redentore» (Pio VI). E' proprio questo il significato della devozione al Sacro Cuore,
-mediante la quale la Chiesa ci propone di onorare il Cuore
-di Gesù come immagine visibile del suo amore invisibile:
-«la tua carità — canta la liturgia della festa — ti volle
-trafitto da un colpo visibile di lancia, perchè noi veneriamo
-le ferite del tuo amore invisibile» (BR. inno delle Lodi).
-L'oggetto principale della devozione al Sacro Cuore è dunque l'amore di Gesù: l'amore increato con cui Egli, in
-quanto Verbo, insieme col Padre e con lo Spirito Santo,
-ci ha amato fin dall'eternità e fin dall'eternità ha deciso
-d'incarnarsi per la nostra salvezza; e inoltre, l'amore creato
-di carità col quale ci ha amato, in quanto Uomo, fino a
-morire per noi sulla Croce, meritandoci col suo amore quella
-stessa carità mediante la quale noi potessimo riamarlo. E'
-questo il senso più profondo della devozione al Sacro Cuore, senso che fu tanto bene compreso da S. Teresa Margherita del Cuore di Gesù, la quale fece di questa devozione il centro della sua vita. La Santa — dicono i Processi — «riguardava il Cuore di Gesù come il centro [la
-fonte] dell'amore onde il divin Verbo, nel seno del Padre, ci ha amati per tutta l'eternità e col quale ci ha nel
-tempo meritato che noi, con lo stesso amore partecipato,
-lo possiamo in terra ed in cielo riamare » (2).
+**1** — Nel Canone della Messa l'Eucaristia è chiamata «*Mysterium fidei*» e, infatti, solo la fede ci può far riconoscere Dio presente sotto le apparenze del pane. Qui, come dice S. Tommaso, i sensi non servono a nulla, anzi, la vista, il tatto, il gusto s'ingannano, non avvertendo nell'Ostia consacrata che un poco di pane. Ma che importa? Abbiamo la parola del Figlio di Dio, la parola di Cristo che ha dichiarato: «Questo è il mio Corpo... Questo è il mio Sangue» e su questa parola crediamo sicuri: «*Credo quidquid dixit Dei Filius, nihil hoc verbo Veritatis verius*»; credo quanto ha detto il Figlio di Dio; nulla è più vero di questa parola della Verità *(Adoro te devote)*. Noi crediamo certamente nell'Eucaristia, non abbiamo alcun dubbio da opporvi ma, purtroppo, molto spesso dobbiamo riconoscere che la nostra fede è languida, debole, fiacca. Pur vivendo vicini ai sacri altari ed abitando forse sotto il medesimo tetto di Gesù Sacramentato, non è difficile rimanere un po' indifferenti, un po' freddi di fronte a questa grande realtà. Purtroppo, la nostra natura tanto grossolana, un po' alla volta, finisce per abituarsi anche alle cose più belle e più sublimi, sì che queste — soprattutto quando si trovano facilmente alla nostra portata — non ci fanno più impressione, non ci scuotono più; così avviene che, pur credendo nella presenza ineffabile di Gesù nel SS.mo Sacramento, non avvertiamo la grandezza di questa realtà, non ne abbiamo il senso vivo, concreto che ne avevano i santi. Ripetiamo dunque anche noi, con molta umiltà e confidenza, la bella preghiera degli Apostoli: «*Domine, adauge nobis fidem*», Signore accresci a noi la fede! *(Lc.* 17, 5).
 
-2. — Le altre devozioni al Redentore hanno per oggetto misteri o aspetti particolari della sua vita, come ad
-esempio l'Incarnazione, la vita nascosta, la Passione ecc.;
-invece la devozione al Sacro Cuore mira ad un oggetto più
-generale: l'amore di Gesù, amore che è il motivo
-profondo ed essenziale di tutti i suoi misteri, che è la causa
-prima ed unica di tutto quanto Egli ha fatto per noi. In
-questo senso la devozione al Sacro Cuore tocca, per così
-dire, il fondo di tutti i misteri del Redentore, tocca il fondo
-essenziale della sua vita, della sua Persona: è l'amore che
-spiega l'Incarnazione del Verbo, è l'amore che spiega l'esistenza dell'Uomo-Dio, è l'amore che spiega la sua Passione,
-la sua Eucaristia. E' impossibile intendere il mistero per
-cui il Figlio di Dio si è fatto carne, è morto in Croce per
-salvare gli uomini e si è fatto loro cibo, se non si ammette
-questo amore infinito che ha spinto Dio — l'Altissimo, il
-Creatore — a trovare il modo di darsi tutto per la salvezza
-della sua creatura. Proprio in questo senso si esprime la
-Chiesa nell'inno di Mattutino che ripete in tutta l'ottava
-del Sacro Cuore: «Amor coegit te tuus mortale corpus
-sumere », l'amore ti spinse — anzi, ti costrinse, se prendiamo il vocabolo latino in tutta la sua forza — a prendere
-un corpo mortale per renderci ciò che il peccato di Adamo
-ci aveva tolto. E l'inno continua così inneggiando ora all'amore eterno del Verbo, ora all'amore umano di Gesù,
-amori che di fatto non si possono separare come non si può
-separare l'Umanità SS.ma di Gesù dal Verbo che l'ha assunta. Gesù è ad un tempo Dio ed Uomo e così il suo
-amore è ad un tempo amore divino e amore umano; Gesù
-ci ha amato e ci ama continuamente come Dio e come Uomo. Il suo amore umano, creato, viene sublimato dall'amore
-eterno del Verbo, anzi, diventa l'amore stesso del Verbo
-che lo fa suo, come sono suoi tutti i sentimenti e le azioni
-di Cristo-Uomo; e il suo amore divino diventa a noi sensibile, comprensibile, tangibile mediante le manifestazioni
-del suo amore umano. E' sempre l'Umanità di Gesù che
-ci rivela la sua Divinità e, come attraverso questa Umanità
-SS.ma conosciamo il Figlio di Dio, così, attraverso l'amore
-umano di Gesù, conosciamo il suo amore divino.
+**2** — Quando Gesù annunziò l'Eucaristia, molti dei suoi uditori si scandalizzarono e parecchi dei suoi discepoli, fino a quel momento l'avevano seguito, «si ritrassero e non andarono più con lui» *(Gv.* 6, 67). Pietro, invece, a nome degli Apostoli diede questa bellissima testimonianza di fede: «Signore..., Tu solo hai parole di vita eterna. Noi abbiamo creduto e conosciuto che Tu sei il Cristo Figlio di Dio» *(Gv.* 6, 69 e 70). La fede nell'Eucaristia ci appare, così, come la pietra di paragone dei veri seguaci di Gesù e, quanto più questa fede è intensa, tanto più rivela un'amicizia intima e profonda con Cristo. Chi, come Pietro, crede fermamente in lui, crede ed accetta tutte le sue parole, tutti i suoi misteri: dall'Incarnazione, all'Eucaristia. Sappiamo che la fede è anzitutto dono di Dio. Proprio nel discorso in cui ha promesso l'Eucaristia — che più degli altri è un mistero di fede perché più degli altri sfugge ad ogni legge naturale — Gesù ha affermato ripetutamente questo principio, dichiarando ai giudei increduli che nessuno può andare a lui, e quindi credere in lui, se «non è attratto dal Padre» *(Gv.* 6, 44; cfr. ivi, 66) ed ha soggiunto: «ed essi saranno tutti ammaestrati da Dio» *(ivi,* 45). Per avere una fede viva e profonda nell'Eucaristia — come in ogni altro mistero — occorre questa «attrazione», questo «ammaestramento interiore» che può venire solo da Dio, e al quale, però, possiamo e dobbiamo disporci, sia sollecitandone la grazia con una preghiera umile e fiduciosa, sia esercitandoci attivamente nella fede. Infatti, avendo Dio infuso in noi questa virtù nel S. Battesimo ed essendo la fede un'adesione *volontaria* dell'intelletto alle verità rivelate, possiamo fare atti di fede quando vogliamo: sta a noi voler credere e portare in questo atto tutta la forza della nostra volontà. A misura che la fede crescerà in noi, ci renderà capaci di penetrare le profondità del mistero eucaristico, di entrare in rapporti vitali con Gesù Ostia, di godere della sua presenza. E, quanto più la nostra fede sarà intensa, tanto più si manifesterà anche nel nostro contegno di fronte al SS.mo Sacramento; guardandoci al tabernacolo, Gesù non deve aver mai motivo di rivolgerci l'accorato rimprovero: «uomini di poca fede» *(Mt.* 8, 26), che rivolse più volte agli Apostoli e che oggi meriterebbe molti cristiani, per nulla rispettosi della sua divina presenza. Il nostro contegno davanti al SS.mo Sacramento sia sempre tale da essere una viva testimonianza della nostra fede.
 
 ### Colloquio
 
-«Per questo, o Gesù, ti fu trafitto il costato: perchè
-si aprisse a noi facile l'entrata. Ti fu trafitto il Cuore affinchè, liberi dai turbamenti esteriori, potessimo abitare in
+«Ti lodo e ti ringrazio, o fede benedetta! tu mi fai sapere e mi assicuri che nel Santo Sacramento dell'altare, in quel Pane celeste non vi è pane, ma ci sta tutto il mio Signore Gesù Cristo e vi sta per amor mio.
 
-esso. Ma, inoltre, ti fu trafitto affinchè, attraverso la ferita
-visibile noi vedessimo quella invisibile dell'amore, perchè
-chi brucia d'amore è dall'amore ferito. E in qual maniera
-potevi mostrarci meglio questo tuo amore se non che lasciandoti squarciare da una lancia non soltanto il Corpo,
-ma perfino il Cuore? La ferita corporale indica dunque
-la ferita spirituale.
+«O Gesù, come un giorno, pieno di bontà e di amore, Tu sedevi presso una fonte ad attendere la Samaritana per convertirla e salvarla, così ora, nascosto nell'Ostia consacrata, te ne stai sui nostri altari, aspettando ed invitando dolcemente le anime per conquistarle al tuo amore. E sembra che dal tabernacolo ci parli e dica a tutti: "O uomini, perché non venite e non vi accostaste a me che tanto vi amo? Non sono venuto qui per giudicarvi, ma mi son nascosto in questo Sacramento di amore solo per beneficare e consolare chi a me ricorre". Ti comprendo, o Signore, l'amore ti ha reso nostro prigioniero, l'amore appassionato che ci porta ti ha legato in tal modo che notte e giorno non ti lascia mai partire da noi.
 
-«E chi, dunque, non amerà questo Cuore così trafitto?
-Chi non riamerà chi tanto ci ama? Chi non abbraccerà
-uno Sposo sì casto? Certamente, o Signore, ti riama l'anima che, sentendosi ferita dall'amore tuo grida: 'Io sono
-ferita dalla carità'. Anche noi, pellegrini nella carne, per
-quanto ci è possibile amiamo, riamiamo, abbracciamo il
-nostro Ferito, cui furono trapassate le mani ed i piedi, il
-costato ed il Cuore. Amiamo e preghiamo: o Gesù, degnati di legare col vincolo e di ferire col dardo del tuo
-amore il nostro cuore ancor duro e impenitente» (S. Bonaventura, Vite mistica, 3, 5).
+«O Signore, Tu trovi le tue delizie nel restare con noi; e noi troviamo le nostre nello stare con te? Le troviamo specialmente noi che abbiamo l'onore di abitare tanto vicino ai tuoi altari, di abitare forse nella tua stessa casa? Oh, quante freddezze, indifferenze ed anche ingiurie devi soffrire in questo Sacramento, mentre Tu stai in esso per assisterci con la tua presenza!
 
-«O Gesù, uno dei soldati con una lancia ti aprì il costato affinchè nel tuo costato aperto impariamo l'amore del
-tuo Cuore, amore che è giunto fino alla morte, ed entriamo anche noi in quell'ineffabile amore per il quale Tu sei
-venuto a noi. Appressati, dunque, o anima mia, al Cuore
-di Cristo, Cuore grande, Cuore segreto, Cuore che a tutto
-pensa, Cuore che tutto conosce, Cuore che ama, anzi, che
-arde d'amore. Fammi comprendere, o Signore, che la porta
-del tuo Cuore è stata aperta dalla veemenza dell'amore, e
-ammettimi di entrare nel segreto del tuo amore nascosto
-fin dall'eternità, ma ora rivelato dalla ferita del tuo Cuore»
-(cfr. S. Bernardino da Siena).
+«O Dio Sacramentato, o Pane degli Angeli, o cibo divino, io ti amo; ma né Tu né io siamo contenti del mio amore. Ti amo, ma ti amo troppo poco! Fa', o Gesù, che il mio cuore si spogli di tutti gli affetti terreni e faccia posto, anzi dia tutto il posto al tuo amore. Per innamorarmi tutto di te e per unirti tutto a me, ogni giorno Tu scendi dal Cielo sull'Altare; è dunque giusto che io non pensi ad altro fuori di te, che mi occupi di adorarti, di darti gusto. Ti amo con tutta l'anima mia, ti amo con tutti gli affetti miei. E se mi vuoi pagare questo amore, dammi maggiore amore!» (S. Alfonso).

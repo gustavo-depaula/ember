@@ -1,49 +1,45 @@
-## 327 — HUMILDADE NO APOSTOLADO
+## 327 — A ALMA DO APOSTOLADO
 
 ### Presença de Deus
 
-Ó Senhor, imprime em mim um sentido tão profundo da minha indigência, que todo o bem que eu fizer eu o espere de ti e a ti somente atribua todo bem.
+Faze-me compreender, ó Senhor, que só a união contigo, que só o amor pode fecundar todo apostolado.
 
 ### Meditação
 
-A humildade, como é fundamento de toda a vida espiritual, assim também é condição básica de todo apostolado e constitui a parte central do programa de abnegação e de esquecimento de si por ele exigido.
+1. — Não se pode ser colaborador de Deus, dócil instrumento em suas mãos; não se pode sentir com Cristo e associar-se ao seu amor e à sua obra para a salvação das almas sem uma vida de afetuosa intimidade com Deus e com Jesus bendito, isto é, sem uma intensa vida interior.
 
-Justamente porque o apóstolo está, mais ou menos, colocado no candelabro, precisa mais que os outros proteger o espírito dos fumos do orgulho e da vanglória por meio de profunda humildade.
+Mediante a oração e a luta contra o pecado, mediante a renúncia de si e o exercício das virtudes, a vida interior despoja progressivamente a alma de tudo o que é defeituoso, favorecendo assim nela o desenvolvimento da graça e do amor, o que equivale a dizer que a reveste de vida divina, já que graça e amor são uma participação da própria vida de Deus. Segue-se que, quanto mais uma alma cultivar a vida interior, tanto mais se aproximará de Deus e, tornando-se semelhante a Ele pela graça e pelo amor, poderá viver na sua intimidade, poderá gozar da sua amizade, penetrar seus mistérios e associar-se a eles.
 
-Percorrendo o Evangelho, é significativo constatar quanto Jesus insistiu nesse ponto na formação de seus Apóstolos. Quando discutiam sobre quem seria o maior no reino messiânico, o Mestre respondeu: «Se não vos converterdes e não vos tornardes como crianças, não entrareis no reino dos céus» (Mt 18,3).
+Quem, pois, será apto a compreender o grande mistério da Redenção e a levar-lhe sua contribuição, mais do que aquele que, por meio de uma fervorosa vida interior, vive em íntima amizade com Deus?
 
-Noutra ocasião semelhante, quando a mãe de Tiago e João pedia os primeiros lugares para os filhos, replicou: «Quem entre vós quiser ser o primeiro seja vosso servo» (Mt 20,27). E na noite da Última Ceia, ao lavar-lhes os pés, mostrou até onde os apóstolos devem fazer-se servos: «Se eu, Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros» (Jo 13,14).
+Para os fins do apostolado, não pode ser suficiente aquele primeiro grau de amizade divina que resulta da ausência do pecado grave, mas é necessária uma amizade mais profunda que crie uniformidade de perspectivas, de vontade, de desejos, de afetos, de modo que o apóstolo possa agir segundo o coração de Deus, movido não por impulsos pessoais, mas pelo impulso da graça, pelo querer divino, pelas inspirações do Espírito Santo.
 
-Enfim, antes de enviá-los à sua vinha para produzir «frutos abundantes», declarou repetidamente: «Sem mim nada podeis fazer» (Jo 15,5).
+É significativo o fato de que Jesus, antes de lançar os Apóstolos à conquista do mundo, quis fazê-los viver por três anos na sua intimidade, tratando-os como verdadeiros amigos: «Já não vos chamo servos... vos chamei amigos» (Jo. 15, 15). Amigos não só porque participou a eles os tesouros de sua vida divina, mas também porque os quis colaboradores e, em certo sentido, continuadores de sua missão de Redentor.
 
-Sim, os apóstolos são amigos de Jesus, por Ele escolhidos e destinados a evangelizar o mundo, por Ele prepostos ao governo da Igreja, revestidos da dignidade sacerdotal e do poder de ligar e desligar; ou, se não clérigos, elevados à dignidade de colaboradores da Hierarquia, também chamados a cooperar na salvação das almas. Mas na base de todos esses privilégios e honras estão as grandes palavras: é preciso fazer-se pequeno como criança; sem mim nada podeis fazer.
+O apóstolo não pode ser tal se não é amigo de Deus; o próprio Deus o convida a essa amizade, mas é necessário que ele corresponda com uma séria vida interior, que torne seus relacionamentos com Deus cada vez mais íntimos e mais ricos de amor.
 
-Ah, se estivéssemos realmente convencidos de que, embora Deus queira servir-se de nós, só Ele tem poder de tornar fecunda nossa ação, só Ele pode produzir frutos de vida eterna, só Ele pode dar a graça às almas, e nós não somos senão instrumentos, tanto mais aptos para a salvação alheia quanto mais nos fazemos pequenos reconhecendo nossa indigência!
+2. — Só da amizade com Deus, só da caridade que nos une a ele, o apóstolo tira aquelas energias sobrenaturais que tornam suas obras verdadeiramente eficazes e capazes de alcançar seu intento.
 
-Que mérito pode reclamar um pincel porque um bom pintor se serviu dele para fazer uma obra-prima? Que mérito pode reclamar o mármore usado por Michelangelo para esculpir seu Moisés? «Não fostes vós que me escolhestes; fui eu que vos escolhi e vos destinei para irdes e dardes fruto» (Jo 15,16).
+Mas onde tirará o apóstolo esse amor que, unindo-o a Deus, o torna tão potente? Sem dúvida, do próprio Deus: «O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado» (Rm. 5, 5).
 
-«Sem mim nada podeis fazer»; diante dessas palavras, quantas ambições, quantos pontos de honra, quantas complacências vãs de si, quantas pretensões de aplauso, quantos desejos de promoção e reconhecimento do próprio valor se quebram como ondas contra os rochedos!
+Num primeiro momento, o momento da justificação, Deus infunde em nós a caridade sem nossa colaboração, mas Ele não nos conserva esse dom, e muito menos o aumenta, se não nos mantemos unidos a ele mediante os exercícios da vida interior. A luta contra as paixões, a prática das virtudes, a frequência dos sacramentos, a oração, o recolhimento, a presença de Deus têm justamente o objetivo de favorecer a união com o Senhor e o aumento da caridade.
 
-Jesus não nos diz que sem Ele podemos fazer pouco, mas nada, absolutamente nada; e se na aparência as obras prosperam, os admiradores aumentam, as igrejas e salas se enchem, na realidade nem um grão de graça desce aos corações se Deus não intervém.
+A vida interior é a forja secreta na qual a alma, em contato com Deus, inflama-se de seu amor e, precisamente porque inflamada e forjada pelo amor, torna-se dócil instrumento de que Deus possa valer-se para difundir o amor em outros corações.
 
-Pobre apóstolo, às vezes tão satisfeito e inchado com teus sucessos! Apesar de capacidades, engenho, estilo brilhante, conversa atraente, títulos e êxitos, diante do apostolado és menor e mais impotente que uma formiga diante de uma altíssima montanha.
+É, portanto, muito oportuno recordar frequentemente o grande princípio: a vida interior é a alma do apostolado. Uma vida interior profunda será geradora de intenso amor, de íntima união com Deus, e então dela jorrará um apostolado fecundo, verdadeira colaboração à obra salvífica de Cristo; ao contrário, uma vida interior medíocre não poderá produzir senão um amor e uma união com Deus muito fracos e débeis, e, por consequência, o apostolado que dela derivar não poderá ter eficaz influência sobre as almas.
 
-Reconhece teu nada, refugia-te em Deus, mantém-te fortemente unido a Ele, porque só d’Ele podes tirar a fecundidade de tuas obras.
-
-Encarregada da educação das noviças, Santa Teresinha exclamava: «Vedes, Senhor, que sou pequena demais para alimentar vossas filhas; se quereis dar a cada uma por meu intermédio o que lhe convém, enchei minha mão, e eu, sem deixar vossos braços e sem voltar-me para outro lado, distribuirei vossos tesouros à alma que vier pedir-me alimento.»
-
-Eis a atitude que todo apóstolo deve assumir. Aliás, quanto mais alta, importante e delicada for sua missão, tanto mais necessária é essa humilde consciência da própria indigência, esse recurso confiante a Deus, esse manter-se continuamente unido a Ele.
-
-Se Deus não se serve de nós para realizar obras grandes, não será talvez porque, não estando suficientemente convencidos do nosso nada, poderíamos roubar-lhe a glória, atribuindo o sucesso ao nosso mérito? Se nossa atividade apostólica dá poucos frutos, não será talvez porque, confiando demais em nós mesmos, não nos preocupamos bastante em manter-nos unidos a Deus por meio da humildade e da oração?
-
-«Permanecei em mim» — repete-nos Jesus. «Como o ramo não pode dar fruto por si mesmo... assim também vós, se não permanecerdes em mim» (Jo 15,4). Não basta que o apóstolo permaneça unido a Jesus pelo estado de graça; deve permanecer também por profunda humildade, que lhe faz sentir que não pode fazer nada, absolutamente nada, sem seu auxílio contínuo.
+Onde a vida interior estivesse quase ou totalmente apagada, também a caridade e a amizade com Deus ameaçariam extinguir-se e, extinguida a chama interior, o apostolado seria esvaziado de sua substância, reduzindo-se a puro movimento que pode fazer barulho, mas não pode dar fruto algum. «Tudo — diz São João da Cruz — se reduzirá a martelar em vão e a fazer pouco mais de nada, e às vezes propriamente nada, e por vezes até dano» (Cântico 29).
 
 ### Colóquio
 
-«Ó Senhor, Tu queres que no meu apostolado eu sinta e reconheça meu nada; mas ao mesmo tempo queres que eu me deixe tomar e usar por ti para cumprir a missão que me confias e depois voltar à sombra, calar, não me vangloriar e dizer: *servi inutiles sumus*; sou serva inútil, sem ti nada posso fazer.
+«Atrai-me, Senhor, atrás de ti; corramos!...
 
-«Ó Senhor, ajuda-me a fugir do louvor, a fugir do aplauso das criaturas; ajuda-me a agir sempre com reta intenção, visando apenas ao teu beneplácito. Peço-te que mantenhas longe de mim os defeitos que podem desviar-me de agir unicamente para agradar-te: ostentações, cumprimentos, adulações, desejo de fazer bela figura, de ser agradável aos outros. Que eu jamais busque minha glória, mas só a tua. Tudo para agradar-te, nada para satisfazer a mim mesma!» (Ir. Carmela do Espírito Santo, O.C.D.).
+«Ó Jesus, peço-te que me atraías às chamas do teu amor e me unas tão estreitamente a ti, que tu mesmo vivas e ajas em mim. Quanto mais o fogo do teu amor incendiar meu coração e quanto mais eu repetir: atrai-me, tanto mais as almas que se aproximarem da minha correrão velozmente atrás do odor dos teus perfumes.
 
-«Peço-te, Senhor meu, que dirijas para ti o coração e a vontade dos teus apóstolos, para que te sigam, Cordeiro imolado, pobre, humilde e manso, pelo caminho da santíssima cruz, ao teu modo e não ao deles. Expulsa de seus corações as trevas e dá tua luz; seca neles o úmido do amor-próprio e faça ficar o fogo da tua caridade.
+«Sim, ó Senhor, correrão, correremos juntos, porque as almas inflamadas de amor não podem ficar inativas. Elas ficam, como Santa Maria Madalena, aos teus pés ouvindo tuas palavras doces e inflamadas, mas, se na aparência parecem não fazer nada, fazem, porém, muito mais do que Marta, que se afadiga por tantas coisas.
 
-«Faze que, com caridade ordenada, busquem a salvação de todos, dispondo-se a dar a vida pelo bem das almas. E sejam criaturas angélicas, anjos terrestres nesta vida e lâmpadas ardentes na santa Igreja!» (cf. Santa Catarina de Sena).
+«Ó Jesus, não é necessário, então, dizer: atraindo-me, atrai também as almas que amo. Esta simples palavra: atrai-me, basta; porque, quando uma alma se deixou vencer pelo odor inebriante dos teus perfumes, não saberia mais correr sozinha, e todas as almas por ela amadas são arrastadas atrás dela; é como uma consequência natural de sua atração para ti.
+
+«Como uma torrente arrasta consigo às profundezas do mar tudo o que encontra no seu curso, assim, meu Jesus, a alma que se aprofunda no oceano sem margens do teu amor atrai atrás de si todos os seus tesouros! Senhor, estes tesouros são para mim as almas que te aprouve unir à minha; estes tesouros me confiastes Tu.
+
+«Mas, querendo alcançar uma meta, é preciso valer-se dos meios oportunos. Por isso, meu Jesus, tendo-me tu feito compreender que me darias almas mediante a cruz, quanto maiores são as cruzes que encontro, tanto mais se torna viva em mim a sede dos sofrimentos» (Santa Teresinha do Menino Jesus).

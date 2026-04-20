@@ -1,100 +1,108 @@
-## 104 — HUMILITY
+## 102 — CONFESSION
 
 ### Presence of God
 
-— O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.
-
 ### Meditation
 
-1 — Charity is the essence of Christian perfection,
-because only charity has the power to unite man to God, his
-last end. But on our part - poor, miserable creatures
-whom God wants to raise up to union with Him - is charity
-properly the ultimate foundation of spiritual life? No,
-there is something still deeper, which is, so to speak,
-the foundation of charity, and this is humility. Humility
-stands to charity as foundations stand to a building.
-Digging a house's foundations is not yet building
-the house, and yet it is the preliminary and indispensable work:
-the conditio sine qua non. The deeper and better planted the foundations are,
-the higher the building can rise and the more solidity it will
-guarantee. Only the fool
-"builds his house on sand," with the inevitable consequence of seeing it soon collapse; but the wise man
-builds "his house on rock" (Mt. 7, 24-26), and then,
-despite raging waters and winds, the house
-does not collapse, precisely because its foundations are firmly planted.
+1 — Confession is the sacrament of Christ's Blood, of which God - according to the expressive saying of St. Catherine
+of Siena - "has made us a bath to wash the face
+of our souls from the leprosy of sin." If necessary matter
+of this sacrament is only mortal sins, venial sins are sufficient matter and all Catholic
+tradition insists on the usefulness of frequenting
+confession even for venial sins alone. But
+whoever, following this directive, practices weekly confession must watch attentively that, far from becoming a mechanical habit, his act be a true living act,
+that makes him capable of taking full profit from all
+the graces offered by this sacrament.
 
-Humility is the solid and secure rock on which every Christian soul
-must raise the building of its spiritual life.
-"If you want your building to rise on a good foundation - teaches St. Teresa of Jesus to her daughters -
-seek to be the least of all [that is, exercise yourselves much in humility], and thus you will lay such strong stones as to prevent your castle from collapsing" (cf. M. VII, 4, 8).
-
-Humility digs the foundations of charity, in the sense
+"Do not despise the Blood of Christ!" exclaims
+St. Catherine of Siena, and certainly he who does not despise it
+will not approach confession lightly. For this purpose
+it is useful to reflect that absolution is precisely the outpouring of the Precious Blood which, flooding and penetrating the soul,
 
 
-that it empties the soul of pride, empties the soul of disordered love of self and of one's own excellence, to make room for the love of God and neighbor. The
-more humility clears the soul of vain and proud
-claims of self, the more room it makes for God. And "when at last [the spiritual man] comes to reduce himself to nothing, that is,
-to establish himself in supreme humility, then indeed it may be said that spiritual union between his soul and God has now occurred"
-(J.C. A. II, 7, 11).
+purifies it from sin, restores sanctifying grace if
+it has lost it, and increases it if it already possesses it. This remission of sin and production of grace is the fruit of Christ's action, expressed in the formula the priest
+says in His name: "I absolve you..." At this moment
+Jesus is acting in the soul, both remitting sin and
+producing or increasing grace. And it is useful to remember
+that the efficacy of absolution is not limited only to sins
+committed, but extends also to the future, safeguarding the soul against relapses, offering it strength to resist temptations and to carry out good resolutions,
+and this through sacramental grace. In this sense the
+Blood of Christ is not only medicine for the past,
+but also preservative and strengthening for the future: the
+soul, immersed in it as in a salutary bath,
+draws from it new vigor and little by little sees in itself
+the force of passions extinguished.
+
+Hence the importance of frequent confession for
+a soul that, longing for union with God, must necessarily aspire to total purification.
 
 
-2 — The soul that desires to attain the sublime heights
-of union with God must tread the way of profound
-humility, because, as the divine Master teaches,
-only "he who humbles himself shall be exalted" (Lk. 18, 14).
+2 — When, at the tribunal of penance, a soul
+has to submit only venial sins, there is no need
+to concern itself with the integrity of accusation - as instead
+is required for mortal sins - that is, it is not necessary
+to enumerate all the venial faults that escaped it during
+the week; it is much more profitable that it fix its
+attention first on deliberate ones,
+then on semi-deliberate ones, even if they were simple imperfections, and denounce not only their external
+aspect, but also the interior motive. Although this is not in itself necessary for the validity of confession, it is certain
+that the more the accusation lays bare the root of evil,
+the more the soul will gain from it both for the act of humility accomplished
 
-The higher the ideal of holiness to which you aspire,
-the loftier the goal to which you tend, the more you must go down, or rather
-must dig in yourself the fertile abyss of humility. "Abyssus
-abyssum invocat" (Ps. 41, 8), the abyss of humility calls
-the abyss of Infinite Mercy, of graces and divine gifts;
-indeed "God resists the proud and gives grace to the
-humble" (I Pet. 5, 5). Humble yourself, then, under the mighty hand of God, sincerely acknowledge your nothingness,
-become aware of your misery, and if you wish to glory,
-do so - like St. Paul - only in your infirmities, because precisely in your weakness, humbly acknowledged, grace and divine power work and triumph (cf. II Cor. 12, 9). Even
-if you belong to the number of those good souls,
-sincerely desirous of advancing on the way of perfection,
-but who rely too much on their own strength and personal initiatives, you can very profitably apply to yourself
-the precious warning that St. Therese of the Child Jesus gave
-to a novice: "I see well that she is taking the wrong road and will never
-arrive at the end of her journey,
-for she would like to climb a mountain, whereas God wants her to descend it... Jesus Himself will undertake to fill her soul, little by little,
-as she empties it of her imperfections" (CR.).
 
-The sublime ideal of union with God totally surpasses our capacities as weak creatures; if we can aspire
-to it, it is not because we count on reaching it through our
-own efforts and initiatives, but because we trust that God Himself, according to His promise, will come to
-take us by the hand. But God does not take by the hand the proud soul; He bends only over the humble, and
-the more humble He finds a soul, the more He raises it to Himself.
-Humility digs in the soul the capacity to receive the abundance of divine gifts.
+and for the impulse to deeper repentance and to a livelier desire to correct itself, which logically derives
+from considering the very little noble motives on which,
+in general, our faults depend. Moreover, such an accusation will allow the confessor to know better
+the penitent's weak points and therefore suggest the remedies best suited, something particularly important when
+direction is connected with confession. But even more
+than about accusation, the soul must concern itself with sorrow for
+its sins insofar as they are offense against God, infinite Goodness;
+that it be sorrow ex amore, proceeding from love,
+
+
+that is, repentance of the child who, more than thinking
+of his shame and deserved punishments, grieves over the displeasure caused to a Father who loves him so much and whose
+love he ought to return. Sorrow is so necessary
+for the validity of the sacrament that, if it were lacking,
+absolution would be null; and on the other hand, the more perfect sorrow is, the more absolution destroys not only sin, but also the temporal punishment contracted by it.
+The more the penitent brings to confession a contrite
+heart, the more the Blood of Jesus purifies him,
+renews him, enriches him with strength, charity, and grace.
 
 ### Colloquy
 
-"O my God, You make me understand to what point
-I must descend so that my heart may serve You as a dwelling: I must become so poor as not to know where to lay
-my head. My heart is not entirely empty of myself, and
-for this You command me to descend. Oh, I want to descend very low, that You may rest Your divine head in my
-heart and there feel Yourself loved and understood!
-O sweet divine Guest, You know my misery, and precisely for this You come into me with the intention of finding there
-an empty tent, a heart totally empty of self. You ask no
-other thing of me" (cf. T.B.G. Lt. 116 and 144).
+"Sweet Jesus, Jesus love! To clothe us in the life
+of grace, You stripped Yourself of the life of Your body;
+on the wood of the most holy cross You stretched out Your body,
+so that it seemed a slaughtered lamb losing blood from every side. And in the Blood You recreated us to the life of grace.
 
-O Lord, help me dig in my poor soul
-that abyss of humility which draws the abyss of Your infinite mercies. Help me descend, while my pride
-loves so much to rise. Help me recognize and confess humbly my nothingness and weakness, while my pride so loves to deem itself something great. Help me
-glory in my infirmities, while my pride
-tends continually to glory in what is not mine,
-but pure gift of Yours. My God, how true it is that holiness follows the path opposite to nature! Give me strength to undertake this path courageously, to go
-into You, O Lord, for I know You are always ready to sustain the weak who has recourse to You and entrusts himself to You; because I know that, if my pride is great, Your mercy is
+"Sweet Jesus, my soul ardently desires
+to see itself all bathed and drowned in Your Blood... Because in the Blood I find the fountain of mercy; in the Blood,
+clemency; in the Blood, fire; in the Blood, pity;
+in the Blood justice is made for our faults; in the Blood
+mercy is satisfied; in the Blood our hardness is dissolved;
+in the Blood bitter things become sweet and
+great burdens light. And since, O Christ, in Your Blood
+virtues mature, inebriate and drown my soul in the Blood,
+that it may be clothed in true and real virtues" (St. Catherine of Siena).
+
+O Jesus, if one drop alone of Your most precious Blood has the power to erase all the crimes of the world, what
+will not be worked in me when, at the moment of absolution,
+You pour it out with such abundance upon my poor
+soul? O Jesus, rekindle my faith and make me penetrate deeply the immense value of the sacrament of
+Your Blood. It is only Your Blood that washes me from sins, that purifies me from impurities, that heals and vivifies my soul. Oh, grant that this salutary laver
 
 
-infinite and Your omnipotence invincible; because I know that
-if "someone is exhausted and in need of help, lacking
-strength and abounding in misery, as soon as Your eye
-rests upon him, You raise him from his abjection and misery,
-and lift up his head" (cf. Sir. 11, 11-13).
+may penetrate all my being and renew it all in Your
 
-O Lord, who will be "abounding in misery" more than
-I, who have not yet conquered my pride? And then who
-more than I will have need of Your help?
+
+grace, in Your love!
+
+By the merits of Your Passion, grant me, O Lord,
+always to bring to the tribunal of penance a heart
+truly humble and contrite, an ever more perfect sorrow
+for my faults, an ever more sincere and profound detestation of everything that is offense against You, my God. Only
+thus Your Precious Blood, finding in me no attachment to sin, may wholly penetrate my soul,
+may wholly cleanse it, wholly renew it, wholly vivify it. O Jesus, grant that Your Blood bear in me all
+its fruit!

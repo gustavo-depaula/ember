@@ -1,106 +1,21 @@
-## 360 — L'AMORE TRASFORMANTE
+## 38 — FIDUCIA E ABBANDONO
 
-### Presenza di Dio
-
-Dio mio, il tuo amore m'invada e mi penetri fino a trasformarmi totalmente in te.
+**Presenza di Dio.** — *Nelle tue mani, o Signore, mi abbandono con fiducia piena.*
 
 ### Meditazione
 
-fiamma di un fuoco immenso diventa una cosa sola con
-quella, bruciando e risplendendo unitamente ad essa sì che
-è impossibile distinguerla dal grande fuoco in cui è immersa, parimenti l'anima unita a Dio per amore si perde
-in lui, restando in lui così avvolta e trasformata da sembrare Dio stesso, da diventare «divina e Dio per parteciazione, quanto è possibile in questa vita » (G.C. C. 22, 4).
+**1** — «Molti desiderano di andare avanti [nel cammino spirituale] e con grande insistenza chiedono a Dio che li tragga e faccia passare a questo stato di perfezione [lo stato di unione]; ma quando Egli comincia a condurli per i primi travagli e mortificazioni, com'è necessario, non se la sentono di passarvi, si ritirano, rifuggendo dall'angusto sentiero della vita e cercando la via larga della propria consolazione» *(G.C. F.* 2, 27). È questo il motivo per cui molte anime non giungono all'unione con Dio: non vogliono battere la via della croce, l'unica che vi conduce.
 
-io è sempre Dio, essenzialmente distinto dall'anima, tuttavia l'amore ha talmente unito e quasi conglutinato la
-creatura al Creatore che « sono due nature in uno spirito
-e amore» (ivi). La perfezione della carità e della grazia
-fa sì che lo Spirito giro abiti con singolare pienezza nell'anima ed in questo divino Spirito — Spirito e vincolo
-di amore — l'anima resta totalmente unita alla Trinità
-sacrosanta. Qui si compie nel modo più perfetto il vivo
-desiderio e l'ardente preghiera di Gesù: «Come Tu, Padre, sei in me e io sono in te, anch'essi siano uno in noi »
-(Gv. 17,21).
+Anche tu desideri pervenire all'unione divina, ma forse anche tu pensavi di giungervi per una via comoda, luminosa, lieta, per la via dei successi, dove si procede di vittoria in vittoria, dove si godono abbondanti consolazioni spirituali, dove si trova il plauso, l'appoggio, la stima degli uomini. Ma adesso hai certamente capito che bisogna prendere ben altra via: via stretta, oscura, in cui l'anima scopre tutta la sua miseria, in cui sperimenta tutta la sua impotenza, in cui manca il conforto di Dio e degli uomini. Ebbene, sappi che devi accettare di procedere per questa strada per tutto quel tempo che a Dio piacerà. Quanti mesi, quanti anni basteranno? Dio solo lo sa. Molto spesso Egli trattiene a lungo le anime nella tenebrosa notte dello spirito; anzi, si può ben dire che in generale c'è sempre un po' di notte finché si vive quaggiù. Il partito più saggio a cui appigliarsi è, dunque, quello di rimetterti completamente alle disposizioni di Dio, senza porre alcun limite né circa la durata, né circa il genere delle prove. Dio sa quel che più ti conviene; Egli, che conosce perfettamente le debolezze e le necessità del tuo spirito, saprà dosare la cura adatta per sanare i tuoi mali. Non aver fretta, ma abbi invece molta pazienza e così non ti esporrai a delusioni. Sia pazienza longanime e fiduciosa perché si tratta di soffrire, è vero, ma non si tratta di sofferenze che ti vengono da un nemico, bensì dal tuo più grande Amico, da Dio che ti ama assai più di quanto tu possa amare te stesso, che vuole il tuo bene, la tua felicità, che desidera la tua santificazione molto più di quello che tu stesso possa desiderarla. Fidati di lui e non sarai confuso; fidati ad occhi chiusi e non avrai nulla da temere.
 
-Essendo così unita a Dio, l'anima rimane trasformata
-in lui per amore o, meglio, è l'amore che, unendola completamente a Dio, la rende a lui così conforme da trasformarla tutta in lui, Questa trasformazione si estende a
-tutte le potenze: «l'intelletto umano unito al divino, diventa divino » e tutto illustrato dalla luce soprannaturale,
-diventa « divina la volontà », fatta una cosa sola con quel
-la di Dio e tutta infiammata dal santo amore, e «lo stesso dicasi della memoria, come pure degli affetti e degli
-appetiti, tutti divinamente trasformati secondo Dio» (E.
-
-C.N.II, 13, 11). E non solo l'anima resta divinizzata nel
-suo essere e nelle sue potenze, ma anche nelle sue azioni,
-perchè «Dio stesso è quegli che divinamente muove e
-dirige [le sue potenze] secondo il suo spirito e la sua volontà, di modo che le operazioni... che l'anima compie...
-sono operazioni divine » (G.C. S.III, 2, 8). La pienezza di
-vita soprannaturale, comunicata all' anima nello stato di
-matrimonio spirituale, realizza in lei al massimo grado la
-prerogativa della grazia che è ERIuOrA quella di rendere
-l'uomo «partecipe della natura ivina » (I Pt. 1,4). Così
-vediamo una volta di più la meravigliosa continuità che
-esiste fra lo sviluppo della grazia nell'anima nostra e questi alti stati che ne sono l'ultima conseguenza e la splendida corona. Perchè, dunque, ci attardiamo nelle misere
-cose della terra, quando Dio ci ha creato per queste divine grandezze?
-
-2 — «L'amante — dice S. Giovanni della Croce —
-non può essere soddisfatto se non sente che ama quanto
-è amato » (C.A. 37, 2). Chi ama davvero non sopporta di
-essere superato in amore, e più si sente amato, iù vuole
-riamare. Ma, come potrà la creatura tanto debole e limitata uguagliare Dio in amore, ossia riamarlo quanto da
-lui è amata? Ebbene, questa santa e ardita pretesa si realizza proprio nello stato di trasformazione totale. Essendo
-la RIPA totalmente trasformata in gela di Dio, «vi
-è uguaglianza di amore — afferma il Santo perchè la
-volontà dell'anima, convertita nella volontà di Dio,... è
-diventata volontà di Dio. E così l'anima ama Dio con la
-volontà di Dio la quale è anche volontà sua e così Jo amerà quanto è amata da Dio, poichè lo ama con la volontà
-dello stesso Dio e con lo stesso amore col quale Egli la
-ama, che è lo Spirito Santo » (ivi). Lo Spirito Santo, terza
-Persona della SS.ma Trinità, termine e vincolo sussistente
-dell'amore increato che unisce indissolubilmente il Padre
-e il Figlio, è stato dato a noi affinchè, accendendo nell'anima nostra la fiamma dell'amore divino, ci renda capaci
-
-di amare Dio, non già da soli con le nostre povere forze
-tanto limitate, ma unitamente a lui, forza ed amore infinito. La fiamma della carità, accesa in noi dal divino Paraclito nel giorno del nostro battesimo e d'allora in poi
-divampata in proporzione della nostra corrispondenza alla grazia, s'immerge e si perde totalmente nella fiamma
-infinita dello Spirito Santo, quando l'anima, essendo giunta alla totale trasformazione in Dio, è diventata un solo
-spirito con lui. Allora l'anima ama veramente Dio come
-è da lui amata, perchè lo ama insieme con lo Spirito Santo. La capacità di amore dell'anima diventa così, in certo
-senso e per partecipazione, quasi infinita e solo in tal
-modo il suo amore resta appagato perchè può riamare Dio
-con parità di amore. L'anima — spiega ancora il Dottore
-mistico — «ama Dio insieme con lo Spirito Santo... unitamente a lui, a ragione della trasformazione... supplendo [Egli] a quello che manca in lei, per essersi ella trasformata in amore con lui » (ivi).
-
-Quale gioia e quale conforto per l'anima che soffre a
-causa della povertà estrema del suo amore in confronto
-all'infinito amore di Dio e alla di lui infinita amabilità,
-sapere che lo Spirito Santo può e vuole supplire alla sua
-
-ochezza, purchè ella si lasci totalmente prendere e assorire nell'immensa fiamma del suo amore!
+**2** — I momenti più adatti per dimostrare a Dio che ti fidi ciecamente di lui, che vuoi abbandonarti a lui senza riserva, sono proprio quelli della tenebrosa notte dello spirito. Anche se ti sembra che tutto crolli sotto i tuoi passi, anche se la tempesta ti travolge al punto da sentirti tentato contro la fede e la speranza, non devi temere perché in questa notte ti trovi in modo tutto particolare sotto l'azione dello Spirito Santo. È lui che con la viva fiamma del suo amore mette a ferro e fuoco l'anima tua per purificarla, ma nel medesimo tempo Egli stesso la ricopre con la sua ombra infondendole segretamente la forza di resistere e dosando la sofferenza in modo che non ne superi la capacità. Non temere, sei in buone mani, sei protetto dall'ombra dell'Altissimo e nulla di male ti potrà accadere, purché tu aderisca volontariamente e docilmente alla sua azione purificante. Accetta e ripeti continuamente il tuo «fiat»; questo il Signore vuole da te in tale stato, e devi fare anche in mezzo alle tempeste più violente. Questa adesione pura e semplice della volontà ti aggancerà a Dio, ti ancorerà in lui, impedendoti il naufragio. Non importa se non sai fare e dire di più, non importa se sei incapace di lunghe preghiere; anche Gesù nell'orto degli olivi non ha fatto che ripetere quest'unica protesta: «Padre... sia fatta la tua volontà» *(Mt.* 26, 42). Questa sia pure la tua preghiera, preghiera più del cuore che delle labbra, atteggiamento profondo di pura adesione alla volontà di Dio in cui devi immergerti con tutte le forze del tuo spirito. Tale adesione deve diventare così forte, così piena, così filiale e fiduciosa da trasformarsi in un prolungato atto di abbandono: «Padre, nelle tue mani raccomando lo spirito mio» *(Lc.* 23, 46). Anche Gesù ha formulato quest'atto in mezzo allo sconforto e alla desolazione, sconforto e desolazione infinitamente più grandi di quelli che tu puoi sperimentare. Unisciti a Gesù agonizzante, appoggiate a lui ed in lui troverai la forza per accettare e per resistere. Fissando lo sguardo su Gesù crocifisso, che ha riconciliato e unito il genere umano col divin Padre mediante la sua Passione e Morte, comprenderai sempre meglio che «l'unione con Dio non consiste in gioie o sentimenti o delizie di spirito, ma in una viva morte di croce sensifiva e spirituale, interiore ed esteriore» *(G.C. S. II,* 7, 11).
 
 ### Colloquio
 
-_ «O anima mia, creata per queste grandezze e ad esse
-chiamata! che fai? in che t'intrattieni? Le tue pretensioni
-sono bassezze e le tue possessioni miserie. Oh, lacrimevole cecità degli occhi tuoi, poichè sei cieca a tanta luce
-e sorda a sì grandi voci, non accorgendoti che, mentre
-cerchi indezze e gloria, te ne rimani misera e vile, ignara e indegna di tanti beni! » (G.C.C. 39, 7).
+«Dov'è, o mio Dio, il sole della tua grazia? A me pare oscurato; la bontà tua mi pare del tutto sottratta all'anima mia. Ora sono abbandonata come un corpo che, non avendo alcun membro, non si può aiutare, o come un tronco sterile, perocché, venendo a me sottratta la grazia tua, non mi posso aiutare. O mio Dio, stendi sopra di me la tua destra e dammi fortezza.
 
-. «O Spirito Santo, Tu fai da mediatore tra l'anima e
-Dio. Tu, infatti, muovi l'anima con ardenti desideri e fai
-che si accenda di quel fuoco sovrano a cui è tanto vicina,
+«O Eterno Padre, se sarà con me il tuo Verbo, chi mi potrà contraddire? Chi mi potrà muovere, nonché abbattere e vincere? Batteranno le tempeste la scorza, ma non l'intimo del cuore. Se vorranno dar pena la daranno, ed io volentieri l'accetto perché così Tu vuoi, ma non potranno mai inquietare l'animo sempre abbandonato al tuo beneplacito. Quieterò ogni turbamento pensando che questi travagli vengono dal tuo volere e mi immergerò nella bassezza del mio essere. Se queste pene mi sprofonderanno nell'inferno, mi inalzeranno al cielo col tuo aiuto, e nel tuo nome supererò ogni lotta.
 
-«Quali misericordie usi con l'anima, o Signore! Sii
-sempre lodato e benedetto per il grande amore che ci
-porti. Dio mio e Creator mio, è mai possibile che vi sia
-qualcuno che non ti ami? Oh, me infelice che per tanto
-tempo non ti ho amato! È pi
+«Nondimeno conosco la fragilità mia e durante questa prova, breve o lunga, come a te piace, mentre insorgono molte battaglie, so bene che dovrò fare; confiderò in te e non crollerò in eterno» (S. M. Maddalena de' Pazzi).
 
-«Come sei buono, Signor mio! Sii per sempre benedetto, e tutte le creature ti lodino! Ci hai tanto amato, 0
-mio Dio, che possiamo in tutta verità parlare di queste
-comunicazioni che ti degni di avere con le anime fin da
-questo esilio, Oh, liberalità infinita del mio Dio, come sono grandi le tue opere! Esse riempiono di ammirazione
-chi per meglio intendere la verità si è staccato da tutto.
-Eppure, grazie così grandi Tu le accordi ad anime che
-ti fino tanto offeso!... Oh, io non capisco più nulla!
-Quando vi penso non posso più andare innanzi. Ma dove
-potrei andare, del resto, se non tornare indietro? Non so
-come ringraziarti, o Signore, per avermi così favorita... »
-(T.G.P. 5,55 Vi. 18, 3).
+«Maestro santo, fa' che a tua imitazione, il beneplacito divino sia il mio nutrimento, il mio pane quotidiano; fa' che a tua immagine, o Cristo adorato, mi lasci immolare da tutte le volontà del Padre. Se talvolta i suoi voleri sono più crocifìggenti, senza dubbio posso ripetere con te: "Padre, se è possibile, passi da me questo calice"; ma mi aggiungerò subito: "non come voglio io, ma come vuoi Tu", e con forza e con calma salirò anch'io il mio calvario insieme con te, divino Crocifisso! Salirò cantando interiormente al Padre un inno di ringraziamento, perché coloro che vanno per questa via dolorosa sono quelli "che Egli ha conosciuto e predestinato ad essere conformi all'immagine del suo divin Figlio", crocifisso per amore» *(E.T. I,* 3 e 8).

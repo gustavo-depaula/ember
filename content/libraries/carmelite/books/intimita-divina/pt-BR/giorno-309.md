@@ -1,51 +1,39 @@
-## 309 — AO ENCONTRO DO ESPÍRITO SANTO
+## 309 — BEM-AVENTURADOS OS QUE TÊM FOME
 
 ### Presença de Deus
 
-Vem, Espírito Santo, investe-me com tua ação e conduz-me a Deus.
+Ó Espírito Santo, extingue em mim a fome das coisas terrenas e aumenta a fome das coisas celestes.
 
 ### Meditação
 
-1. — Considerando os dons do Espírito Santo e as bem-aventuranças que são seus frutos, compreendemos sempre melhor de que maravilhosas riquezas Deus nos dotou. Desde o dia do batismo, todo cristão possui esses dons preciosos; não é, portanto, temerário desejar que se desenvolvam em nós até a maturidade, de modo que nossa alma possa ser totalmente investida pela ação do Espírito Santo.
+1. — Quando o Espírito Santo se apodera de uma alma e a toma totalmente sob seu governo, comunica-lhe uma fortaleza invencível, arrebatadora, capaz de enfrentar qualquer obstáculo e suportar qualquer sofrimento. E, como é próprio do forte não contentar-se com pouco, mas aspirar a grandes coisas, assim, à medida que o Espírito Santo fortifica a alma, faz nascer nela desejos cada vez maiores de justiça, de virtude, de santidade, desejos tão vivos e impelentes que bem podem chamar-se fome e sede.
 
-Aliás, com esse desejo vamos ao encontro do próprio desejo de Deus, que nos deu esses dons justamente para que possamos ser movidos e guiados por seu Espírito, «porque os que são guiados pelo Espírito de Deus, esses são filhos de Deus» (Rm. 8, 14). E se nós desejamos ser verdadeiros filhos de Deus, não o deseja talvez imensamente mais o Pai celeste, que justamente para isso nos criou e elevou ao estado de graça?
+Sob o impulso do dom da fortaleza, a alma torna-se faminta e sedenta de justiça; eis por que ao dom da fortaleza corresponde a bem-aventurança: «Bem-aventurados os que têm fome e sede de justiça, porque serão saciados» (Mt. 5, 6). O vocábulo justiça deve ser entendido aqui no sentido mais amplo de perfeição, de santidade, de doação total a Deus e às almas.
 
-Lancemos, pois, nossas almas a grandes desejos: não, não é demais, não é temerário, não é presunção; Deus o quer: *voluntas Dei, sanctificatio vestra* (1Ts. 4, 3), esta é a vontade de Deus, nossa santificação! Mas, para que nossos desejos não sejam vãos, apliquemo-nos com generosidade sempre crescente a dispor nossa alma à ação do Espírito Santo.
+E é precisamente neste sentido que o Espírito Santo impele a alma, mostrando-lhe horizontes cada vez mais vastos, convidando-a a obras cada vez mais perfeitas, a doações cada vez mais generosas e profundas. Esta alma não pode reservar mais nada para si: o Espírito Santo não lhe permite; deve dar-se toda: «a caridade de Cristo me constrange» (2Cor. 5, 14), repete com São Paulo. Nela há uma sede ardente da vontade de Deus, que busca como o avarento busca o ouro; há uma sede ardente de santidade, de modo que não tolera em si mesma a mínima incorrespondência à graça; há uma sede ardente das almas, pelas quais não cessa de gastar-se sem poupar-se; há uma sede ardente da glória de Deus, pela qual, totalmente esquecida de seu repouso, está sempre pronta a empreender novos sacrifícios e fadigas.
 
-Persuadamo-nos de que, antes de fazer-nos saborear Deus e sua divina união, o divino Paráclito deve realizar em nós uma obra de profunda purificação, porque, como a lenha verde não pode ser penetrada pelo fogo se antes não for secada e purgada de toda umidade, assim a alma não pode ser investida e transformada pelo fogo do amor divino se antes não for purificada de todas as suas imperfeições.
+De onde lhe vem tanta coragem, tanta ousadia? Não de sua força, não de suas energias — ela o sabe muito bem — mas da força do Espírito Santo, da confiança nele, da docilidade à sua ação. Pode, pois, afirmar com toda segurança: «Tudo posso naquele que me dá força» (Fl. 4, 13).
 
-Disponhamo-nos, portanto, a sofrer com coragem esta purificação indispensável; antes, procuremos nós mesmos antecipá-la, cortando sem piedade todos os fios que ainda nos ligam à terra e, sobretudo, os que nos ligam ao nosso amor-próprio, ao nosso orgulho.
+2. — Como o faminto se alegra quando pode saciar-se de pão, assim a alma que vive sob o influxo do dom da fortaleza se alegra quando pode satisfazer sua fome de justiça, de santidade. Alegra-se quando pode mergulhar na vontade de Deus, único alimento que pode saciá-la; alegra-se quando pode satisfazer sua sede de imolação, sacrificando-se por Deus e pelas almas; alegra-se quando pode aplacar sua fome de Deus, recebendo-o na Eucaristia ou imergindo-se nele na intimidade da oração.
 
-«Ó humildade, humildade!... — exclama Teresa de Jesus — a falta daqueles que não vão adiante [nos caminhos do espírito] está toda aqui», na falta de humildade, «porque a humildade é o fundamento do edifício e o Senhor nunca o elevará muito se esta virtude não estiver verdadeiramente bem firme» (Moradas).
+É uma alegria pura, não procurada por si mesma, não desligada do dever; é a alegria da alma que gravita para seu centro, Deus, e sente dar-se cada vez mais a ele, pertencer-lhe totalmente. Mas, para gozar essa alegria, é preciso estar decidido a não querer buscar nem admitir outras. «Vida felicíssima — diz Santa Teresa de Jesus — levam as almas que, desprezando toda satisfação própria, não pensam senão em contentar o Senhor» (Caminho 13, 7).
 
-2. — À generosidade, ao desapego e à humildade unamos a fervorosa oração para invocar a obra do Espírito Santo. Elevemos a ele nossas súplicas com as próprias palavras do hino:
+Se não saboreamos essa alegria, é porque não somos bastante famintos de justiça: ao lado dessa fome santa, nutrimos talvez ainda as avidezes do século — fome das coisas e das alegrias daqui de baixo — que diminuem a força da primeira e fazem desviar nossos passos em busca de satisfações humanas. Mas que podem dar-nos as criaturas? Nunca serão suficientes para saciar nossa fome e sempre nos deixarão insatisfeitos.
 
-*Veni, Creator Spiritus...*
-*Accende lumen sensibus, infunde amorem cordibus,*
-*infirma nostri corporis virtute firmans perpeti.*
+Peçamos, pois, ao Espírito Santo que extinga em nós todo apetite de coisas terrenas e faça crescer nossa fome de santidade. Esta fome ainda é fraca em nós e, sobretudo, é inconstante: quantas vezes, depois de fazer grandes propósitos, recaímos por terra e ficamos ali abatidos, talvez até resignados por não saber fazer mais? O Espírito Santo, mediante o dom da fortaleza, quer tornar mais forte e perseverante nossa fome de santidade, de modo que nunca se extinga, não para deixar-nos morrer de inanição, mas para saciar-nos de bens imperecíveis: de vontade de Deus, de justiça, de santidade.
 
-Na escuridão dos nossos sentidos, temos necessidade de luz interior: que o divino Espírito venha e, acendendo em nós esta luz, nos faça conhecer Deus por meio da contemplação amorosa de suas grandezas. Temos necessidade de caridade: que Ele venha e a infunda em nossos corações, muitas vezes tão áridos e frios, porque cheios de amor-próprio e egoísmo. «O amor de Deus foi derramado em nossos corações pelo Espírito Santo» (Rm. 5, 5); só dele podemos recebê-lo.
-
-Temos necessidade de fortaleza para vencer-nos, para enfrentar as dificuldades, para manter-nos serenos e generosos; que Ele venha sustentar-nos com seus dons e já não seguiremos as tolas exigências do amor-próprio; já não nos deixaremos assustar, impressionar pelo sofrimento e pelas dificuldades; já não perderemos tão facilmente a paz em meio às contradições: fortes de sua fortaleza, poderemos manter aquele equilíbrio interior e aquela serenidade que nos permitirão ser sempre generosos, sempre em ato de dar-nos totalmente a Deus.
-
-*Hostem repellas longius, pacemque dones protinus...*
-
-Quando o Espírito Santo nos tiver conduzido àquele perfeito equilíbrio que é a própria santidade, já não teremos nada a temer do demônio; o maligno fugirá para longe e, se alguma vez ainda conseguir perturbar-nos, não poderá fazer mais que chegar ao limiar da sensibilidade, enquanto — sob a válida proteção do Espírito Santo — o fundo de nossa alma permanecerá na paz.
-
-O equilíbrio pleno e a paz perfeita são características da vida de união com Deus: o Espírito Santo nos introduzirá e fará progredir nessa união, até fazer-nos penetrar no santuário da vida íntima de Deus, na vida trinitária. Este é o mais belo fruto de sua ação em nossas almas: fruto precioso, penhor da glória eterna, fruto que amadurecerá perfeitamente no céu, na visão beatífica do nosso amadíssimo Deus.
+Ele, que tem o poder de suscitar em nós essa fome, tem também o poder de satisfazê-la plenamente, de tal modo que desta saciedade sejamos eternamente bem-aventurados.
 
 ### Colóquio
 
-«Ó Espírito Santo, tu vais tirando, por assim dizer, da glória do Pai um raio candidíssimo e luminosíssimo de glória e do Verbo Encarnado uma seta ardentíssima e pungentíssima de amor para iluminar e entenebrecer, para ferir e sanar, para acender e refrescar, para aviltar e deslumbrar, para tornar gloriosas as criaturas que te recebem no coração e fazê-las caminhar com amor. E quem poderá dizer quais e quantos sejam teus influxos? São tantos e tantos que são sem número.
+«Ó Deus, oceano de amor sagrado e de doçura, vem e dá-te à minha alma! Faze que com todo o coração, com desejo absoluto, com amor flamejante, eu aspire continuamente a ti e em ti respire suavemente. Ó verdadeira e suprema minha exultação, que eu te prefira a toda criatura, que por ti renuncie a todo prazer transitório!
 
-«Mas onde vais tu infundindo teus dons e tuas graças? Nas almas que encontras dispostas; essas renovas e conduzes ao entendimento de Deus. Que coisa é, então, meu Deus, aquilo que priva a alma do teu Espírito? É o perverso amor-próprio, fonte e origem de todo pecado. Ah, infelizmente, bem vejo como o mundo está todo submerso e afogado no amor-próprio! Quem com o intelecto, quem com a memória, quem com a vontade, quem com toda a alma vai afundando nele.
+«Alimenta, ó Senhor, este mendigo faminto; com o influxo da tua divindade alegra-me com a presença desejada da tua graça. Isto peço e desejo: que o amor veemente me penetre, me encha e me transforme em ti.
 
-«E o que mais te desagrada, ó Deus, é que este perverso amor-próprio habite também em teus ministros e em tuas esposas. Não nos pareça pequeno o desordem do nosso amor-próprio, do nosso querer próprio. Não são precisos montes de pecados enormes; basta a areia desses defeitos — que parecem pequenos e não o são — para deter o curso desse rápido rio e oceano da graça!
+«Faze, ó dulcíssimo Redentor, que eu arda de teu amor, que eu desfaleça para mim mesmo, que me deleite só em ti, e só a ti conheça e sinta. Ó abismo transbordante de divindade, atrai-me, mergulha-me em ti! Arranca de meu coração todo outro amor, aplica-o a ti, de modo que eu fique inanimado para todas as outras coisas.
 
-«Ó Espírito Santo, purifica, purifica o mundo inteiro, purifica minha alma do amor-próprio para que mais não volte a ele!» (cf. Santa Maria Madalena de' Pazzi).
+«Invoco-te na minha alma, invoco-te e busco-te com enorme afeto, ó delícia dos íntimos abraços! Vem, Dileto, vem, superdesejado, para que eu te possua dentro e te estreite com os braços da minha alma!
 
-«Ó Espírito Santo e Santificador, Deus onipotente, amor essencial do Pai e do Filho, vínculo adorável da augusta Trindade, eu te adoro e te amo com todo o meu coração. Fonte inesgotável de graças e de amor, ilumina minha mente, santifica minha alma e inflama meu coração. Deus de bondade e de misericórdia, vem a mim: visita-me, enche-me, permanece em mim, faze do meu coração um templo e um santuário animado onde tu possas receber minhas adorações e minhas homenagens e encontrar tuas delícias.
+«Entra em minha alma, ó suma doçura, para que eu saboreie as coisas doces e em ti somente me alegre e descanse.
 
-«Fonte de água viva que jorra até a vida eterna, irriga, dessedenta minha alma que tem sede de justiça. Fogo sagrado, purifica-me, faze que eu arda de tuas chamas e elas em mim jamais se extingam. Luz inefável, ilumina-me; Santidade perfeita, consagra-me; Espírito de verdade, sem ti estou no erro; Espírito de amor, sem ti sou gelo; Espírito de unção, sem ti estou na aridez; Espírito de vida e vivificante, sem ti estou na morte.
-
-«Ó Espírito divino, faze ao meu coração uma doce violência para empenhá-lo a desejar-te, a buscar-te, a obedecer-te, a amar-te e a possuir-te no tempo e na eternidade. Assim seja» (Pe. Aurillon).
+«Ó meu Dileto, Dileto dos meus votos, deixa-te encontrar e, encontrado, que eu te retenha e te estreite fortissimamente entre meus braços espirituais. Eu te desejo; anelo por ti, eterna bem-aventurança. Oh! dá-te a mim, une-me a ti intimamente e inebria-me só com o vinho do teu amor» (Beato Luís de Blois).

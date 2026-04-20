@@ -1,106 +1,17 @@
-## 121 — OBBEDIENZA SOPRANNATURALE
+## 45 — VIENI E SEGUIMI
 
-### Presenza di Dio
-
-— O Gesù, insegnami a vedere soltanto te nei miei superiori.
+**Presenza di Dio.** — O Gesù, che per noi ti sei fatto obbediente fino alla morte di croce, insegnami a seguire il tuo esempio.
 
 ### Meditazione
 
-i — Ecco un ottimo insegnamento di S. Giovanni della
-Croce: «Non considerare mai il tuo superiore come inferiore a Dio, chiunque esso sia, poichè, per te, egli rappresenta Dio » (Ct. 12). Se non hai questo sguardo soprannaturale che ti fa vedere Dio nella persona del superiore, la tua obbedienza non potrà essere soprannaturale. Per esserlo, è necessario che tu sia animato da quest'unico motivo: obbedisco perchè il mio superiore mi
-rappresenta Dio, mi parla in luogo di Dio; il mio superiore è Cristo: « hic est Christus meus ».
+**1** — Al giovane che aspirava alla perfezione, Gesù ha detto: « Se vuoi essere [esse] perfetto, va', vendi ciò che hai e donalo ai poveri [e questo è il consiglio della povertà evangelica] ...poi vieni e seguimi » *(Mt.* 19, 21) e questo, insegna S. Tommaso, è il consiglio dell'obbedienza volontaria. Infatti, seguire Gesù significa imitare le sue virtù e fra queste sta certamente in prima linea l'obbedienza. Gesù viene sulla terra per compiere la volontà del Padre suo: « ecco, io vengo per compiere, o Dio, la tua volontà » *(Ebr.* 10, 7), e più volte durante la sua vita lo attesta espressamente: « Sono disceso dal cielo non per fare la mia volontà, ma la volontà di chi mi ha inviato » *(Gv.* 6, 38), anzi dichiara che il suo cibo, ossia il sostegno, il fulcro della sua vita, sta appunto nel compiere la volontà del Padre suo (cfr. *Gv.* 4, 34). Ma anche Gesù ha voluto concretare la sua dipendenza dal Padre Celeste col sottomettersi a quelle creature che, secondo l'ordine naturale, avevano su di lui, in quanto uomo, qualche autorità. Fu così che per trent'anni visse sottomesso in tutto a Maria ed a Giuseppe riconoscendo, nella loro, l'autorità del Padre. « Stava a loro soggetto » *(Lc.* 2, 51), dice il Vangelo, riassumendo in queste brevi parole il lungo periodo della vita privata del Salvatore. Durante la sua vita pubblica, poi, e soprattutto durante la sua Passione, ha dato pure esempio di obbedienza all'autorità costituita, sia religiosa che civile, sottomettendosi anche ai giudici e ai carnefici, facendosi « obbediente sino alla morte e alla morte di croce » *(Fil.* 2, 8). Venuto al mondo per obbedienza, Gesù ha voluto vivere nell'obbedienza e per obbedienza ha abbracciato la morte, ripetendo nell'orto degli ulivi: « Padre,... si faccia non la mia, ma la tua volontà » *(Lc.* 22, 42). Seguire Gesù nella vita perfetta significa, quindi, abbracciare volontariamente una vita di totale dipendenza; e S. Tommaso, basandosi appunto su questo argomento, conclude che l'obbedienza appartiene all'essenza dello stato di perfezione.
 
-Non devi obbedire per un motivo di fiducia umana
-nella persona del tuo superiore, ossia pérchè egli è intelligente, è prudente, o perchè ti comprende o ti vuol
+**2** — Seguire Gesù significa anche attuare in pieno il suo invito: « se qualcuno vuol venire dietro a me, rinunzi a se stesso » *(Mt.* 16, 24). Ora, la maggiore rinuncia che l'uomo possa fare è propria quella della sua libertà, assoggettandosi in tutto all'obbedienza. Infatti, « niente è più caro all'uomo che la libertà della propria volontà, perché per mezzo di questa egli è padrone anche degli altri, può usare e godere delle altre cose ed è padrone anche dei suoi atti. E siccome l'uomo, abbandonando le ricchezze o le persone congiunte, le rinnega, così lasciando la libertà della propria volontà, per la quale è padrone di sé, viene a rinnegare se stesso » (S. Tommaso — *La perf. della vita sp.*). Per questo motivo il voto di obbedienza è il sacrificio più grande e più meritorio che l'uomo possa offrire a Dio.
 
-ene ecc.: questa è obbedienza umana, frutto di prudenza
-umana, atto buono, ma non soprannaturale. Non devi neppure obbedire perchè ciò che ti viene comandato è il più
-perfetto, questo non è ancora il vero motivo dell’obbedienza, il quale consiste unicamente nell’obbedire perchè
-tutto ciò che il superiore comanda, Dio lo vuole. Solo un
-caso fa eccezione, ossia quando il superiore comandasse di
-fare un peccato, cosa che certamente Dio non può volere,
-oppure quando i suoi comandi fossero contrari alla Regola
-o agli Statuti da te abbracciati, perchè allora non sarebbero
-
-
-più legittimi. Ma per il resto non devi mettere alcuna riserva alla tua obbedienza. E non devi neppure esitare temendo che il superiore ti chieda qualche cosa di meno perfetto, perchè anche se egli ti ordinasse una cosa oggettivamente meno perfetta di un’altra (ad esempio di riposare,
-anzichè lavorare), per te sarebbe la più perfetta, giacchè
-per il semplice fatto che il superiore te l’ha ordinata è
-evidente esser proprio quella, e non altra, che Dio vuole
-da te in quel momento. Può darsi benissimo che in
-astratto tu veda la possibilità di fare una cosa di maggior perfezione di quella che ti viene comandata e de
-il tuo parere sia migliore di quello del superiore, ma
-in concreto non c'è dubbio: non ci può essere per te
-niente di più perfetto che eseguire ciò che Dio ti comanda per mezzo del superiore.
-
-
-2 — Se non devi basare la tua obbedienza su un motivo di fiducia umana nelle qualità del tuo superiore, devi
-erò basarla su un motivo di fiducia soprannaturale, ossia
-di fiducia nel governo soprannaturale del Signore attraverso i superiori che Egli ti ha dato. Anche se qualche
-volta ti trovassi davanti a superiori meno retti, meno
-virtuosi, non avresti motivo di temere; infatti, la fede
-t'insegna che Dio domina e governa tutto e che non vi
-è volontà umana che possa sottrarsi al suo volere divino.
-Anche se il superiore sbagliasse o se ti ordinasse qualche
-cosa in sè buona o indifferente, ma per un motivo meno
-retto, Dio saprà sempre valersi degli sbagli di lui per il
-bene dell'anima tua, e si servirà anche delle sue intenzioni poco rette per farti fare quello che vuole da te.
-Questo è certo: Dio ti dirige per mezzo dei tuoi superiori, e questi non sono indipendenti. da Dio, ma Dio
-stesso si serve di loro come di strumenti che può far
-agire a suo talento. Perciò ricorri al tuo superiore con
-fiducia perchè, ricorrendo a lui, ricorri a Dio, obbedendo a lui, obbedisci a Dio. Una simile obbedienza è inte-
-
-
-ramente soprannaturale e ti mette in contatto diretto con
-la volontà di Dio.
-
-Comportandoti diversamente, «ti faresti il torto immenso di abbassare l'obbedienza dal piano divino a quello
-umano... E la tua obbedienza sarà tanto più vana e sterile,
-quanto più ti sentirai contrariato, dall’attitudine ostile del
-tuo superiore o più contento per il suo umore facile e gradevole. Io telo dico — ti avverte S. Giovanni della Croce
-— è proprio così che il demonio, nell’ordine della perfezione, ha rovinato un'infinità di religiosi, l'obbedienza dei
-quali ha ben poco valore dinanzi agli occhi di Dio, per
-aver essi fissato lo sguardo sopra queste cose particolari în
-materia di obbedienza » (Ct. 12).
-
-Se vuoi che la tua obbedienza abbia tutto il suo valore,
-fissa il tuo sguardo soltanto in Dio «al quale tu servi nel
-tuo superiore » (ivi).
+Qui sta appunto il sacrificio dell'obbedienza: lasciarsi reggere da un altro nella propria vita. Ogni uomo è libero, ha ricevuto da Dio la libertà ed ha quindi il diritto di governare se stesso secondo il suo giudizio e le sue vedute; ora, chi promette obbedienza rinuncia *liberamente* a questo suo diritto, facendone un *libero* olocausto per il servizio, per il culto, per la gloria di Dio. Come l'olocausto del popolo eletto era la vittima che si consumava tutta in onore di Dio, senza che ne fosse risparmiata nessuna parte, così il voto di obbedienza immola l'uomo *tutto* in onore di Dio. In tal modo l'obbedienza viene a sacrificare sino in fondo la nostra personalità o, più precisamente, sacrifica tutto ciò che in essa vi è di egoistico, tutto ciò che è attacco alle vedute, alle inclinazioni, alle esigenze personali; e in questo senso nulla più dell'obbedienza ci aiuta a liberarci dall'amor proprio, a spogliarci di noi stessi. Ma nello stesso tempo, ben lungi dal distruggere la personalità, l'obbedienza la impiega nel modo più bello, più grande e più glorioso, ossia nel rinunciare a se stessa per aderire totalmente a Dio, alla santa e santificante volontà di Dio.
 
 ### Colloquio
 
-O Signore, accresci il mio spirito di fede, affinchè io
-ossa vederti vivente nell'anima dei miei superiori; che di
-ronte a ciascuno di essi io Hun spontaneamente © since
+« O Gesù, Tu che fosti obbediente fino alla morte, non puoi certo volere che un'anima tua amante vada per una strada diversa dalla tua » (T.G. *Fd.* 5, 3). Ed ecco che allora io mi decido a seguirti, a battere dietro a te la via della santa obbedienza, via scavata nella salda roccia dei tuoi esempi, della tua umilissima sottomissione, dei tuoi ineffabili assoggettamenti. « Tu, Dio, cui sono sottoposti gli Angeli, cui obbediscono i Principati e le Potestà, stavi sottomesso a Maria e non soltanto a Maria, ma anche a Giuseppe a cagione di Maria. Che un Dio obbedisca alle sue creature è un'umiltà senza esempio. O Signore, Tu ti abbassi e io mi esalterò? Anima mia, si degni d'imitare l'esempio di un uomo, certo non sarà indegno di te seguire il tuo Fattore. Se non puoi forse seguirlo dovunque vada, degnati almeno di seguirlo fin dove egli vuole discendere per te » (cfr. S. Bernardo).
 
-ramente ripetere: « bic est Christus meus! ». Proprio così,
-attraverso l'obbedienza, mi sarà possibile una vita di continui incontri, di continua intimità con te. Se nel Sacramento dell’altare ti trovo vivo e palpitante dietro il velo
-delle specie eucaristiche, sempre pronto ad accogliere ed a
-nutrire l’anima mia, posso, benchè in altro modo, trovarti
-nascosto anche nella persona dei miei superiori, attraverso
-i quali mi parli, sempre pronto a sciogliere le mie esitazioni, a manifestarmi la tua santa volontà, a dirigermi, a
-guidarmi per la via che fin dall’eternità hai prescelto per
-la mia santificazione.
-
-Perchè allora, o Signore, mi fermerò alle parvenze
-umane dei superiori? Ciò non fa che impedirmi di ritrovarti in loro, di riconoscere, nella volontà loro, la volontà
-tua. Aiutami, Dio mio; a superare tutti i lati umani dell’ob-
-
-
-bedienza per mettermi in contatto con te, col tuo volere
-divino. Come di fronte all’Eucaristia non devo fermarmi
-alle specie create del pane e del vino, così di fronte all’obbedienza non devo fermarmi alla persona del superiore, ma
-considerare solo il tuo volere che mi giunge attraverso le
-apparenze di un ordine, di un comando umano. O Gesù,
-quale grande mistero! L’Eucaristia mi dà il tuo Corpo, il
-tuo Sangue, la tua Divinità: è questa la forza del sacramento da te istituito; l'obbedienza mi dà la tua volontà, mi
-mette in comunione con essa: è questo il potere dell’autorità da te costituita.
-
-O Signore, dopo aver compreso questa profonda verità,
-come oserò ancora discutere ed esitare di fronte agli ordini dei miei superiori? « Non sarebbe forse curioso che,
-dicendomi Tu d’andare a fare una cosa che ti sta molto a cuore, non volessi obbedire col pretesto di farne
-un’altra che mi sembra migliore? Bel modo di progredire nel tuo amore! Sarebbe legarti le mani e credere
-che Tu non mi possa condurre alla perfezione che per
-una strada... » (cfr. T.G. Fd. 5, 5). No, Signore, non così;
-ma voglio seguirti ovunque Tu voglia condurmi per
-mezzo della santa obbedienza.
+Sì, o Gesù, concedimi di seguirti nella via dell'obbedienza, concedimi un profondo spirito di fede per poter sempre riconoscere nella voce dell'obbedienza la voce tua, la volontà tua. « Insegnami, o Signore, ad abbandarmi fiduciosamente alla tua parola: 'Chi ascolta voi, ascolta me'. Insegnami a dimenticare ogni mia volontà, sacrificio questo da te molto apprezzato, perché ti costituisce padrone di quel libero arbitrio che Tu stesso mi hai donato. È questo il dono che io desidero offrirti in tutta la sua pienezza, senza alcuna riserva. Fa' che io sia fedele a tale proposito e allora, benché fra le ripugnanze della natura e in preda a mille lotte, arriverò ad uniformarmi a quanti mi comandano; insomma, con pena o senza pena, finirò col sottomettermi. So lo bene, o Signore, che Tu non lascerai d'aiutarmi; e, assoggettando io per amor tuo la mia ragione e volontà, mi darai modo di divenirne padrone. Una volta padrone di me stesso, potrò consacrarmi a te con perfezione, offrendoti una volontà pura, affinché Tu l'unisca alla tua » (cfr. T.G. *Fd.* 5, 12).

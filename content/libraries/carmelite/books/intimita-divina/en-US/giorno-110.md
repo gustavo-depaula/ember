@@ -1,101 +1,128 @@
-## 110 — THE STRENGTH OF JESUS
-*Third Sunday of Lent*
+## 108 — HUMILIATIONS
 
 ### Presence of God
 
-— O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.
+— O Jesus, humbled for me even unto abjection, teach me to humble myself for love of You.
 
 ### Meditation
 
-1 — Since the first Sunday of Lent the Church has
-presented to us Jesus in combat against the demon, but,
-while then it presented Him in humble posture of
-defense before the temptations of the evil one, today it
-shows Him in posture of attack and resounding victory.
-Behold a poor possessed man, says the Gospel (Lk. 11, 14-
-28), who "was mute"; Jesus, with one act of His
-divine power, "cast out the demon; and when it had gone out,
-the mute man spoke and the crowds were filled with astonishment."
-But the enemy, almost to recover from the defeat, insinuates into
-the minds of the Pharisees the malignant calumny:
-"He casts out demons by means of the prince of demons."
-Jesus is accused of being possessed and of having received from
-the demon the power to free the possessed man. But the Lord wants
-to unmask the enemy to the end and with tightly reasoned logic
-answers that Satan cannot give Him such power,
-otherwise Satan would be working at the destruction of
-his kingdom. No, it cannot be so: Jesus casts out demons
-"by the finger of God," that is, by divine power. If Satan
-is strong and his satellites fight with him to reign over man,
-Jesus is stronger than he and will conquer him by snatching
-away the prey. He has come to destroy Satan's kingdom
-and to establish the kingdom of God.
+1 — Many like to be humble, but few like to be
+humbled; many with fervent prayers ask God for humility, but very few ask for humiliation, and yet without
+humiliation it is impossible to attain humility,
+because, as study is the means to acquire knowledge,
+so humiliation is the means to acquire humility.
 
-And if even today God permits the demon to work
-in seeking to drag individuals and society into evil, Jesus, dying on the cross, has already paid the price
-of our victory. This price is at our disposal:
-through Christ's power, through Christ's grace every
-Christian has power to conquer any attack of the enemy. Let us not therefore be dismayed before the triumphs
+As long as you desire humility but do not know how to accept humiliations, you cannot think yourself on the way of true humility;
+and even if in certain encounters you know how to behave humbly, it is more superficial and apparent humility than
+real and profound humility. Humility is truth and therefore tells you
+that, having of your own only sin, by right of
+justice what belongs to you is only humiliation and contempt. If
 
 
-of evil: they are only apparent triumphs, because Jesus is
-the stronger One, the only and final victor.
+you were really convinced of this, you would find very just
+that all should humble you, treat you badly, despise you.
+For in fact, what honors and regards does one deserve who has
+offended his Creator, when one single sin, even
+venial, is more deplorable and merits greater contempt than
 
 
-2 — To make Jesus' victory over evil our own,
-our collaboration is evidently needed. In today's Gospel
-Jesus Himself indicates several aspects of it.
+any state of misery, poverty, or earthly ignobility?
 
-"Every kingdom divided against itself is brought to ruin"; thus the Lord states that unity is the secret of victory.
+Deeply persuaded of this, the Saints never
+considered humiliations inflicted on them too grave,
+indeed they always found them inferior to what they thought they
+deserved. "I have never heard so much evil said of me -
+said St. Teresa of Jesus - without seeing at the same time that
+it was still too little. If they accused me falsely on
+one point, I saw that I had offended the Lord on many
+others and that they did me a great charity by not speaking of them"
+(Way 15, 3).
 
-
-First of all unity with Him,
-because without Him we can do nothing, but then also
-unity with neighbor. If we want
-to work for the triumph of good, let us collaborate - one heart
-and one soul - with our superiors, with our brothers.
-Often in the field of good much more could be done if,
-renouncing personal views, one knew how to work in perfect harmony. At times it may even be necessary to renounce ideas, plans, means in themselves better; but let us not be deceived: the best is always
-unity. Division will never lead to victory.
-
-"He who is not with Me is against Me," Jesus adds.
-Christianity admits no indifferent persons; whoever does not decisively take Christ's side, whoever does not work with Him for
-the spread of His kingdom, by this very fact opposes Him, opposes good, is enemy of Christ and promoter of evil.
-
-To omit the good one could and should do is already
-to do evil, is to consent to the development of evil.
-
-The first condition of victory over evil is active
-collaboration in Christ's work, in union with brothers.
-The second is vigilance. Jesus warns that the enemy of
-good lies in wait and that, even after leaving a soul,
-he is ready to return stronger than before "with seven
-other spirits worse than himself," when he finds it empty and
-open to his snares. A great means to prevent evil's
-entry is vigilance in prayer, to fill the
-heart with God, so that there is no room left for the enemy
-of God. And there is no more room when the soul is totally
-united to God by acceptance and observance of His
+"Have patience, then, in your humiliations, because,
+as gold is tested by fire, so man in the crucible
+of humiliation" (cf. Sir. 2, 4 and 5). If you feel the weight of
+your pride and truly desire to be freed from it, accept
+every humiliation and through them the Lord will break your pride.
 
 
-word, His will. Indeed, to the woman who praises His
-Mother, Jesus replies: "Rather, blessed are those who hear
-the word of God and keep it." Yes, the Blessed Virgin Mary is blessed
-for having given life to the Redeemer, but she is much more blessed
-for being perfectly united to Him in observance of
-His word. This beatitude is not reserved to Mary,
-but offered to every soul of good will, and it is the greatest
-guarantee of victory over evil, because whoever is united
-to God becomes strong with His strength.
+2 — Rather than seek humiliations on your own initiative,
+dispose yourself to accept well those inflicted on you
+against your liking. Because, while in humiliations you
+impose on yourself there can be mingled a subtle pride - as
+would be, for example, wanting to be held humble -
+such danger does not exist at all for humiliations that,
+despite yourself, come to you from others. Even in this case,
+in order to produce its fruit, humiliation must be
+accepted voluntarily. In fact, it is not humiliation in itself
+that makes you humble, but the act of will with which you accept it. St. Bernard teaches that it is very different to be humiliated and to be humble.
+One can say that, in one way or another,
+everyone meets humiliations in life, yet few are
+those who become humble, precisely because few are those
+who accept humiliation and submit to it with
+patience.
+
+What use is it to receive humiliations if, instead of accepting them,
+you react and reject them with resentment,
+with annoyance, and grow indignant against those who procure them?
+
+Certainly, humiliation cannot be pleasing to our
+
+
+proud and touchy nature; nevertheless, though feeling
+its bitterness, you must strive to accept it willingly,
+repeating in your heart: good for me, O Lord, that I have
+been humbled. If, despite all the repugnances and resentments
+of nature, by an act of will you submit to humiliation and protest to God that you want to be content with it and
+want to taste it to the full, little by little you will become humble. Little by little the hard and bitter bread
+of humiliations will become sweet and gentle to you; but to this
+gentleness one arrives only after long exercise,
+for besides, what counts most is not gentleness,
+but the will to accept all that
+humiliates us. "Let yourself be taught, let yourself be commanded, let yourself be subjected and
+you will be perfect" (J.C. S.C. II, 33).
 
 ### Colloquy
 
-"O sweet Blood, You strengthen the soul, You enlighten it,
-in You it becomes angelic. You overshadow it so
-with the fire of Your charity that it wholly forgets itself and
-can see nothing outside You.
+"O Lord, what injury can ever be done to a
+person like me who has deserved to be tormented by
+demons for all eternity? If they treat me badly in this world, is it not perhaps with justice? Truly, O Lord,
+in this respect I really have nothing to offer You... I acknowledge myself so guilty before You that I see those who
+injure me still treat me too well, when,
+not knowing who I am, as You know me,
+they believe they offend me" (T.G. Way 36, 2).
 
-"O doctrine of truth, You give such strength to the soul clothed in fortitude that it never fails, neither in adversities nor in
-pains or temptations, but in every battle it carries off
-a strong victory. Wretched me, who have not followed You,
-true doctrine, and therefore am so weak that in every least tribulation I fail" (St. Catherine of Siena).
+My God, it is very true! the only thing that to me, a sinner,
+belongs by right is humiliation, injury, contempt.
+And yet how reluctant and excessively sensitive I am before
+all that wounds my pride! You know it,
+my God, how much I desire to be stripped of my
+pride; and I can well say that, with the help of Your grace,
+I detest it and nothing in me seems more hateful. Yet
+I do not know how to accept the remedy You present to me.
+How shall I have courage, Lord, to ask You for humiliations,
+when so many times I have rejected them, turning them from medicine into occasion for new acts of pride?
+
+
+How many times, instead of seeing in humiliations the remedy You procured for me to heal me of pride,
+my gaze has stopped at the creatures of whom You made use
+to humble me and I have become irritated,
+angry against them,
+I have rebelled as before an injustice. How
+blind I am, O Lord, how I have strayed from Your ways!
+Come give light again to my soul, come place me
+in truth, come lead me back on the good and sure
+way of humiliations.
+
+I do not ask You for particular humiliations, but I ask You to dispose my heart to accept well those which in Your
+love and in Your infinite mercy You have prepared on my path from eternity. You have prepared the medicine suitable to my pride; if until today I have so often refused to put my lips to it, now help me
+not to let even the smallest portion escape me any more. I am
+sick, O Lord, and as the sick man desires the medicine
+that heals him and swallows it even if bitter, so I,
+sustained by Your grace, want to accept,
+want to drink to the last drop every humiliation.
+But help me Yourself,
+O sweetest Jesus who willed to know humiliation,
+because without You I know only how to fail in my
+
+
+resolutions.

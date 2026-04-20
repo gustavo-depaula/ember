@@ -1,55 +1,37 @@
-## 324 — SANTIFICAR-SE NO APOSTOLADO
+## 324 — O DEVER DO APOSTOLADO
 
 ### Presença de Deus
 
-Dá-me luz, ó Deus, para que eu reconheça as graças que preparaste no meu caminho para conduzir-me à santidade; torna-me capaz de corresponder a elas.
+Ó Jesus, que me acolheste como teu membro, faze que eu não viva como estranho no teu Corpo místico, mas possa aproveitar ao bem de todos os irmãos.
 
 ### Meditação
 
-É preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
+1. — Prescindindo do grau de caridade a que uma alma possa ter chegado e de sua vocação particular, existe para todo cristão um dever de apostolado que tem seu fundamento no próprio fato de ser cristão, isto é, de ser membro do Corpo místico de Cristo.
 
-É preciso, portanto, concluir que, suposto o período dedicado exclusivamente à preparação, é necessário unir a ascensão pessoal à santidade com o exercício da atividade apostólica. Em outras palavras, os apóstolos devem santificar-se no apostolado e por meio dele.
+«Nós, embora muitos, somos um só corpo em Cristo e, reciprocamente, membros uns dos outros» (Rm. 12, 5); por isso, como em nosso corpo cada membro se interessa pelo bem dos outros membros, «e se um membro sofre, todos os membros sofrem com ele, e se um membro é honrado, todos os membros se alegram com ele» (1Cor. 12, 26), assim todo cristão está obrigado a interessar-se pelo bem dos outros.
 
-«Santificar-se em vista e por meio do apostolado: eis a palavra de ordem para um sacerdote diocesano... Faríamos mentir a Igreja, a vida de Jesus e todas as vidas dos santos se afirmássemos a incompatibilidade do apostolado exterior com a santidade.»
+«Se um espinho — diz São João Crisóstomo — penetra na planta do pé, todo o corpo o sente e se torna solícito: o dorso se curva, as mãos se estendem para tirá-lo, a cabeça se abaixa e os olhos olham com grande cuidado e solicitude.» Como o dorso, as mãos, a cabeça e os olhos não negligenciam o bem do pé, nem dizem: «que me importa?», mas cada um, a seu modo, corre em auxílio do membro sofredor, assim nenhum cristão pode desinteressar-se do irmão, mas está obrigado — segundo suas possibilidades — a empenhar-se pelo bem da alma dele.
 
-Estas palavras, que Dom Poppe dirige aos sacerdotes, valem para todos os apóstolos, clérigos ou leigos, religiosos ou seculares: todo apóstolo deve ter a certeza de que precisamente no seu campo de trabalho — e não em outro lugar — encontrará todas as graças necessárias para santificar-se, para chegar à união íntima com Deus.
+E isto justamente em força do batismo, que, constituindo-o membro do Corpo místico, tornou-o solidário com os outros membros, de modo que o bem alheio é bem seu, como também o mal alheio é mal seu.
 
-Quando uma pessoa se entrega ao apostolado não por escolha própria, não por impulso natural à atividade, mas somente para responder a um chamado divino, deve estar certa de que, como Deus a quis no apostolado, assim a quer santa e lhe dará todos os meios para tornar-se tal.
+«Todos os males nascem do fato de reputarmos coisas estranhas aquelas que dizem respeito ao nosso próprio corpo. Ninguém pode cumprir o próprio dever se descuida da salvação do próximo. Se ousas dizer que nada tens em comum com teu membro e não estimas ter nada em comum com teu irmão, não tens nem mesmo Cristo por Cabeça.» Estas fortes palavras do Crisóstomo nos dizem que o apostolado não é um a mais, não é algo facultativo deixado ao arbítrio da generosidade de cada um, mas é dever preciso de todo cristão, dever derivado da própria natureza do cristianismo, dever tão estrito que não se pode ser verdadeiro cristão sem cumpri-lo.
 
-Deus não pode condenar à mediocridade uma alma que, para fazer sua vontade e, portanto, por amor dele, assumiu pesos e fadigas apostólicas. «Não, irmãos — retoma Dom Poppe — a vida ativa não é uma noite onde se apaga a luz do ideal. Se muitos nela perderam a própria luz, vós tende mais confiança, humilhai-vos mais profundamente por vossa fraqueza, e uma graça mais abundante vos trará certamente também o sucesso.
+2. — Como São Paulo às primeiras cristandades, como São João Crisóstomo à Igreja de Antioquia, assim hoje o Vigário de Cristo levanta a voz para inculcar aos fiéis de todo o mundo o grande dever do apostolado.
 
-«Não sabeis que as dificuldades e os obstáculos, sob a ação maravilhosa da graça, às vezes se transformam em auxílios e cooperam maravilhosamente para o bem? *Certus sum*, podeis dizer com São Paulo: estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade.»
+Jesus, que morrendo na cruz mereceu para nós a graça, «poderia tê-la outorgado por si mesmo a todo o gênero humano; mas quis fazê-lo por meio de uma Igreja visível, na qual os homens se reunissem a fim de cooperar todos com Ele e por meio dela para comunicar reciprocamente os divinos frutos da Redenção. Com efeito, assim como o Verbo de Deus, para redimir os homens com seus sofrimentos e tormentos, quis servir-se de nossa natureza, de modo semelhante, no decorrer dos séculos, serve-se de sua Igreja para continuar perpetuamente a obra começada» (Pio XII, *Mystici Corporis*).
 
-Na medida em que o apóstolo for dócil e fiel à graça, Deus o purificará, o aperfeiçoará, o santificará justamente através de suas fadigas apostólicas.
+A Igreja é a sociedade dos fiéis, a Igreja somos nós; portanto a cada um de nós incumbe o dever de cooperar para difusão da graça nas almas. Sem dúvida, neste ministério o primeiro lugar compete aos bispos e aos sacerdotes; mas ao lado deles e em dependência deles, todo cristão é chamado a tomar parte. «Não só aos ministros sagrados e aos que se ofereceram a Deus na vida religiosa, mas também aos outros membros do Corpo místico de Cristo, a cada um na medida de sua possibilidade, incumbe o dever de esforçar-se com todo empenho e diligência para construção e incremento do mesmo Corpo» (ibid.).
 
-Isso não exclui aquele chamado silencioso ao recolhimento, aquele desejo de solidão e intimidade com Deus que muitas vezes acompanha o apóstolo no meio da atividade e, às vezes, se acentua até lançar sobre sua vida um véu de nostalgia. Quem provou, ainda que um pouco, a beleza e a bondade infinita de Deus, não pode deixar de sentir forte a ânsia e a necessidade dele.
+De cada seu membro, isto é, de cada cristão, Jesus quer servir-se para continuar sua obra redentora no mundo; Ele, onipotência infinita, que assim como criou tudo do nada, assim tem o poder de santificar as almas sem concurso de ninguém, quer ter necessidade de nós, de nossa pobre obra e nos convida e solicita a sacrificar-nos juntamente com Ele pela salvação dos irmãos.
 
-Isto é bom sinal: significa que a alma não se deixou invadir e dissipar pelas ocupações externas e que, embora viva no mundo, não é do mundo, mas tende verdadeiramente para Deus.
-
-Mesmo que em algum momento essa ânsia se torne dolorosa, o apóstolo não deve perturbar-se, nem pensar que errou de caminho: esse tormento o purificará e o conduzirá ao Senhor.
-
-Aliás, não se pode pensar que o simples desejo de maior recolhimento e união com Deus seja, por si só, sinal de chamado à vida contemplativa, que se caracteriza sobretudo pela necessidade de dedicação e imolação mais profundas.
-
-O insistente chamado à interioridade deve antes ser considerado como uma graça ordenada a defender o apóstolo dos perigos da atividade externa: é o baluarte, é o muro de clausura de sua vida espiritual.
-
-Contudo, a necessidade de Deus deve ser satisfeita. Além das horas cotidianas de oração e silêncio, o apóstolo deve ter pausas suficientes no trabalho: retiros mensais, exercícios anuais e também maior folga para recolher-se depois de um período de atividade particularmente intensa.
-
-Seria erro fatal deixar-se absorver pelo trabalho a ponto de não encontrar mais tempo para concentrar-se em Deus, num íntimo coração a coração com Ele; nem sequer sob aparência de maior generosidade o apóstolo deve renunciar às suas horas de oração.
-
-Mas, ao mesmo tempo, ele deve ir ao trabalho com ânimo sereno e confiante, tendo bem presente que, enquanto não tiver alcançado a plena maturidade da vida espiritual, não poderá escapar do conflito entre ação e contemplação: ação que tenta afastá-lo da contemplação, e contemplação que gostaria de prolongar-se além do tempo estabelecido.
-
-Seu esforço deve ser manter-se numa posição de equilíbrio, evitando os dois extremos e unificando a própria vida por meio do amor. Antes que o conflito se acalme numa perfeita harmonia, resta percorrer um longo caminho, durante o qual é absolutamente necessário entregar-se à ação com prudência e ser muito fiel à oração, sem deixar que o trabalho invada o tempo a ela destinado.
+«Mistério tremendo — exclama Pio XII — e jamais suficientemente meditado: que, isto é, a salvação de muitos dependa das orações e das mortificações voluntárias empreendidas para este fim pelos membros do Corpo místico de Jesus Cristo e da cooperação dos Pastores e dos fiéis» (ibid.). Ser apóstolo significa prestar a Cristo a própria capacidade, a própria atividade, para que Ele, por meio de nós, continue a redimir e santificar as almas.
 
 ### Colóquio
 
-«Meu Deus, como são poucos os apóstolos santos! Como são raros os teus verdadeiros amigos! Ó Senhor, ardo de desejo pela vinda do teu reino nas almas dos apóstolos; ardo, mas sou tão pobre que serei consumido antes que esse reino se aproxime.
+«Meu Deus, sei muito bem que tu não tens necessidade de ninguém para cumprir tua obra de santificação; e, no entanto, queres ser ajudado no divino cultivo das almas, do mesmo modo que permites a um hábil jardineiro cultivar plantas delicadas e raras, reservando para ti o cuidado de fecundá-las. Oh, quantas almas chegariam a uma santidade eminente, se fossem bem dirigidas desde seus primeiros passos!
 
-«Faze de mim, ó Senhor, um santo apóstolo; porque um santo obtém mais com uma só palavra do que um trabalhador comum com uma série de discursos. Sem santidade sou bronze que soa, címbalo que tine, e Tu, ó Deus, falas somente pela boca dos santos.
+«Meu Deus, a honra maior que podes fazer a uma alma não é dar-lhe muito, mas pedir-lhe muito. Por isso, quando me dás sofrer pela salvação das almas, tratas-me como teus privilegiados! Não foi acaso sofrendo e morrendo que tu também redimiste o mundo? Ó Jesus, eu aspiro à felicidade de sacrificar minha vida por ti, mas o martírio do coração não é menos fecundo que a efusão do sangue, e desde agora este martírio é meu. Como é bela, ó Senhor, a parte que me reservaste, parte digna de um apóstolo!
 
-«Dá-me, pois, a santidade, a única coisa capaz de comover os corações, de traspassar as almas, de renová-las. Meu Deus, que eu não venda ouropel, que eu não seja um recipiente vazio!
+«Ó Senhor, sim, desejo trabalhar contigo pela salvação das almas; não tenho senão o único dia desta vida para salvá-las e dar-te assim prova do meu amor. O dia seguinte deste dia será a eternidade; então tu me restituirás centuplicadas as alegrias que sacrifico por ti.
 
-«Santificar-se no apostolado é difícil; muitos são os obstáculos e perigos que se encontram. Deverei, então, retirar-me desanimado? Não, meu Deus, pois, se tenho boa vontade, sempre serei ajudado por tua graça; e onde a graça trabalha, encontra-se sempre o caminho que conduz ao fim, à santidade! Que devo, pois, temer?
-
-«Tua graça está comigo; Tu mesmo estás comigo, em mim. E se Tu, ó Deus, entras em campo comigo, que coisa poderei ainda chamar de “obstáculo”? A tribulação ou a angústia, a fome ou a nudez, o perigo ou a perseguição ou a espada? Todas essas dificuldades superarei com tua ajuda, pois Tu me amas e não me abandonas.
-
-«Apoiando-me em ti, ó Senhor, estou certo de que nenhuma criatura no mundo tem poder de afastar-me do caminho da santidade. Estou certo disso porque Tu queres ver os apóstolos santos, porque Tu és infinitamente bom, infinitamente poderoso e fiel às promessas, porque Tu és infinitamente misericordioso» (D. Eduardo Poppe).
+«Quão doce é, ó Jesus, ajudar-te com nossos pequenos sacrifícios a salvar as almas por ti redimidas por meio do teu Sangue e que, para não cair no abismo, não esperam senão nosso socorro. Como eu seria feliz se no ponto da morte pudesse ter uma alma para oferecer-te! Haveria uma alma arrancada ao fogo do inferno e que te bendiria por toda a eternidade» (Santa Teresinha do Menino Jesus).

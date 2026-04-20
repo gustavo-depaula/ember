@@ -1,60 +1,29 @@
-## 349 — O GRÃO DE MOSTARDA
-*XXIV domingo depois de Pentecostes - VI depois da Epifania*
+## 27 — OS NOSSOS DEVERES
 
-### Presença de Deus
+*XXII Domingo depois de Pentecostes*
 
-Ó Senhor, venha teu reino sobre toda a terra; venha teu reino no meu coração.
+**Presença de Deus.** — *Ensina-me, Senhor, a cumprir todos os meus deveres em obséquio da tua soberana Majestade.*
 
 ### Meditação
 
-1 — Dos textos da Missa de hoje emerge a parábola do grão de mostarda, tão breve, mas tão rica de significado: «O reino dos céus é semelhante a um grão de mostarda que um homem tomou e semeou em seu campo; é a menor de todas as sementes, mas, quando cresce, é a maior das hortaliças e torna-se árvore, de modo que as aves do céu vêm abrigar-se em seus ramos» (Mt 13,31-35).
+**1** — Os ensinamentos contidos na Missa deste domingo podem sintetizar-se na conhecida frase de Jesus, que hoje mesmo lemos no Evangelho *(Mt.* 22, 15-21): "Dai, pois, a César o que é de César e a Deus o que é de Deus"; em outras palavras: cumpri com exatidão os vossos deveres para com Deus e para com o próximo, dando a cada um o que lhe pertence.
 
-Nada havia de menor e mais humilde do que o «reino dos céus», isto é, a Igreja em suas origens: Jesus, que é sua Cabeça e Fundador, nasce numa gruta de animais, vive por trinta anos na oficina de um carpinteiro e por apenas três anos desenvolve sua obra entre gente pobre, pregando uma doutrina tão simples que todos, até os iletrados, podem entendê-la.
+A Epístola *(Fl.* 1, 6-11) apresenta-nos São Paulo como modelo de caridade para com aqueles que Deus submeteu aos nossos cuidados. "Tenho-vos no coração - escreve o Apóstolo aos Filipenses - como aqueles que, tanto nas minhas cadeias como na defesa e confirmação do Evangelho, sois todos participantes comigo da graça." Paulo sente vivamente sua paternidade espiritual para com as almas que gerou em Cristo; mesmo de longe se sente responsável pelo bom êxito delas, preocupa-se com sua perseverança no bem, sustenta-as com seu afeto paterno e com seus sábios conselhos: "[Estou] persuadido de que Aquele que começou em vós a boa obra há de completá-la até o dia de Jesus Cristo." Não quer que se assustem com sua distância: ele não passa de pobre instrumento; só Deus é o verdadeiro guia das almas e Deus continuará a obra começada; quanto a ele, estejam certos de que não cessa de amá-los: "Deus me é testemunha de como vos amo a todos nas entranhas de Jesus Cristo."
 
-Quando Jesus deixa a terra, a Igreja é constituída por um pequeno grupo de doze homens reunidos em torno de uma humilde mulher, Maria; mas esse primeiro núcleo tem força vital tão poderosa que, em poucos anos, difunde-se por todas as terras do vasto império romano.
+São João Crisóstomo diz que o coração de Paulo é o coração de Cristo, por causa do grande amor pelas almas que o torna tão semelhante ao Redentor; assim se deveria poder dizer do coração de todo apóstolo. Quando Deus colocou uma alma no nosso caminho e nos pediu que cuidássemos dela, já não podemos desinteressar-nos; essa alma está doravante ligada à nossa, devemos sentir-nos responsáveis por ela, devemos sentir-nos comprometidos a ajudá-la até o fim.
 
-Através dos séculos, a Igreja, de minúsculo grão de mostarda semeado no coração de uma Virgem-Mãe e de pobres pescadores, torna-se árvore gigantesca que estende seus ramos por todas as regiões do globo e à cuja sombra se refugiam povos de toda língua e nação.
+Depois de falar da solicitude que devemos ter para com os que estão confiados aos nossos cuidados, a Epístola chama-nos também à caridade em geral para com qualquer próximo: "que a caridade cresça cada vez mais em conhecimento e em todo discernimento". Trata-se de uma caridade cada vez mais delicada na compreensão do ânimo alheio, cada vez mais fina em adaptar-se à mentalidade, às exigências, aos gostos dos outros; uma caridade que deve levar-nos, como diz São Paulo, a "discernir - e portanto fazer - as coisas melhores", para que sejamos "sinceros e irrepreensíveis até o dia de Cristo".
 
-A Igreja não é sociedade de homens somente, mas de homens que têm por Cabeça Jesus, o Filho de Deus; a Igreja é o Cristo total, isto é, Jesus mais seus fiéis incorporados a Ele e formando com Ele um só corpo.
+**2** — O Evangelho traça nítida e claramente a posição do cristão diante da autoridade civil. A questão insidiosa de saber se é lícito ou não pagar o tributo a César oferece a Jesus ocasião de resolver o problema das relações entre deveres civis e deveres religiosos. Pede uma moeda e pergunta: "De quem é esta imagem e inscrição?" "De César", respondem-lhe; e Ele, de imediato: "Dai, pois, a César o que é de César e a Deus o que é de Deus".
 
-A Igreja é o Corpo místico de Cristo, de que cada batizado é membro. Amar a Igreja é amar Jesus; trabalhar pela difusão da Igreja é trabalhar pelo incremento do Corpo místico de Cristo, para que se complete o número de seus membros e cada membro coopere para seu esplendor.
+Não há oposição entre os direitos do poder político e os direitos de Deus, já que "não haveria nenhum poder se não lhe fosse dado do alto" *(cf. Jo.* 19, 11): a autoridade política legitimamente constituída vem de Deus e deve ser respeitada como reflexo da autoridade divina. Precisamente por isso, todo cristão é obrigado a cumprir todos os deveres de bom cidadão e, portanto, a obedecer à autoridade política, salvo quando esta mandar coisas contrárias à lei de Deus, porque, nesse caso, já não pode representar a autoridade divina e então, como diz São Pedro, "é preciso obedecer antes a Deus do que aos homens" *(At.* 5, 29).
 
-A breve invocação «adveniat regnum tuum» indica tudo isso e tudo isso solicita do Pai celeste.
+Não devemos pensar que, por nos termos dedicado ao apostolado ou consagrado a obras religiosas, estejamos por isso dispensados dos deveres civis; antes, também neste campo os católicos deveriam ter o primado. Os imperadores, reis, homens políticos e homens de armas, que a Igreja honra como santos, dizem-nos que a santidade é possível em toda parte e que pode realizar-se também dedicando-se ao serviço do Estado, porque também aqui se trata de servir a Deus nas criaturas.
 
-É pouco o que podemos fazer pela difusão da Igreja? Façamo-lo ao menos de todo o coração; cooperemos também nós com nossa pobre obra, verdadeiro grão de mostarda, para o desenvolvimento desta árvore maravilhosa, à cuja sombra todos os homens devem encontrar salvação e descanso.
-
-2 — A parábola do grão de mostarda nos faz pensar não só no desenvolvimento do reino de Deus no mundo, mas também no desenvolvimento desse reino em nosso coração.
-
-Não disse Jesus: «O reino de Deus está dentro de vós» (Lc 17,21)? Pois bem, também em nós esse reino maravilhoso teve início de uma semente pequeníssima: a semente da graça.
-
-Graça santificante, que de modo oculto e misterioso Deus semeou em nós no santo Batismo; graça atual das boas inspirações, da palavra divina — «semen est verbum Dei» (Lc 8,11) — que Jesus, Semeador celeste, espalhou a mãos cheias em nossas almas.
-
-Pouco a pouco essa pequena semente germinou, lançou raízes cada vez mais profundas, cresceu penetrando progressivamente todo nosso espírito, até conquistar-nos inteiramente para Deus, até sentirmos necessidade de dizer: Senhor, tudo o que tenho e sou seja teu; dou-me todo a ti; quero ser teu reino.
-
-Ser totalmente reino de Deus, de modo que Ele seja o único Soberano e Dominador de nosso coração e nada exista em nós que não lhe pertença ou não esteja sujeito ao seu império, é o ideal da alma que ama Deus com amor total.
-
-Mas como chegar ao pleno desenvolvimento desse reino de Deus em nós? Diz-no-lo a segunda parábola que lemos no Evangelho de hoje: «O reino dos céus é semelhante ao fermento, que uma mulher toma e mistura em três medidas de farinha, até que toda a massa fique fermentada.»
-
-Eis outra belíssima imagem do trabalho que a graça deve realizar em nossa alma: a graça foi posta em nós como fermento que aos poucos deve crescer até permear toda nossa personalidade e divinizá-la inteiramente.
-
-A graça, fermento divino, nos foi dada para sanar, elevar e santificar nosso ser com todas as suas potências e faculdades; só quando tiver levado essa obra a termo seremos inteiramente reino de Deus.
-
-Reflitamos mais uma vez no grande problema de nossa correspondência à graça. Esta semente divina, este fermento sobrenatural está em nós: quem poderá impedi-lo de tornar-se árvore gigantesca capaz de dar abrigo a outras almas, quem poderá impedi-lo de fermentar toda a massa, se removermos todos os obstáculos que se interpõem ao seu desenvolvimento, se seguirmos seus impulsos e exigências?
-
-«Adveniat regnum tuum!» Sim, invoquemos a vinda total do reino de Deus também em nossos corações.
+Dizendo para dar a César o que é de César, Jesus ensina-nos a dar ao Estado tudo o que é de sua competência, isto é, tudo o que concerne à ordem e ao bem público temporal. Mas Jesus não para aqui e diz ainda: "dai a Deus o que é de Deus". Se o dinheiro, que traz a efígie de César, deve ser restituído a César, muito mais a nossa alma, que traz em si a imagem de Deus, deve ser restituída a Deus. Dizer que a Deus devemos dar a alma é dizer que lhe devemos *tudo*, porque tudo recebemos dele. Nesse sentido, cumprir nossos deveres para com o próximo, para com iguais e inferiores, para com superiores eclesiásticos ou civis, é cumprir nossos deveres para com Deus, é devolver-lhe o que nos deu, submetendo nossa liberdade à sua lei, pondo nossa vontade a serviço da sua.
 
 ### Colóquio
 
-«Senhor Deus meu, que me criaste à tua imagem e semelhança, concede-me esta graça que me mostraste tão grande e necessária, para que eu possa vencer a péssima natureza que arrasta à culpa e à perdição.
+"Ó meu Deus, pois sou teu por tantas razões e tenho tantos deveres de servir-te, não permitas jamais que nem a culpa, nem Satanás, nem o mundo usurpem, ainda que em mínima parte, aquilo que é inteiramente teu. Mas toma, se assim te agrada, inteira e absoluta posse do meu ser e da minha vida. Ó meu Deus, eis-me, dou-me todo a ti, jurando não querer existir senão para ti e não querer nem pensar, nem dizer, nem fazer, nem sofrer coisa alguma senão por amor de ti, hoje, amanhã e sempre" (São João Eudes).
 
-«Pois sinto em minha carne a tendência ao pecado, que contradiz à lei do Espírito e me conduz como escravo a obedecer em muitas coisas aos sentidos; e não posso resistir às paixões se não me assiste, ó Senhor, tua santíssima graça, infundindo-se com seus ardores em meu coração.
-
-«Ó Senhor, sem a graça nada posso fazer, enquanto, se ela me ajuda e conforta, consigo tudo.
-
-«Ó graça verdadeiramente celeste, sem a qual não temos méritos, sem a qual todos os dons da natureza são de estimar-se por nada! Ó graça santíssima, que tornas rico de virtudes o pobre de espírito, que tornas humilde de coração quem está provido de muitos bens, vem, desce em mim, enche-me hoje de consolação celeste, para que minha alma não caia pelo cansaço e pela aridez de espírito.
-
-«Rogo-te, Senhor, que eu encontre graça diante de ti: ainda que não obtenha o que a natureza deseja, bastar-me-á tua graça. Tendo-a, não temerei mal algum, quando for tentado e angustiado por muitas tribulações.
-
-«Ela é minha fortaleza, dá-me ajuda e conselho, é mais poderosa que qualquer inimigo, mais sábia que qualquer sábio.
-
-«Tua graça, meu Deus, me previna e me acompanhe sempre; faça que eu esteja sempre atento às boas obras, por Jesus Cristo teu Filho. Assim seja» (*Imitação de Cristo*).
+"Ó meu Senhor Jesus, Tu me deste a ti mesmo e de mim não pedes senão o coração; mas, Senhor meu, que é este meu coração, enquanto Tu és tamanha coisa? Se eu tivesse um coração que sozinho valesse mais que todos os corações dos filhos dos homens tomados juntos e todos os afetos dos anjos, e fosse tão capaz que contivesse ao mesmo tempo muitas coisas espirituais e corporais, e pudesse conter mais que o céu empíreo, eu te o deveria consagrar todo e inteiramente; e ainda seria para tão grande Senhor pequeno dom, quase nada. Quanto mais, então, não dar-te e em ti depor plenamente esta pequena centelha de coração que me encontro! Porque para mim é coisa grandíssima que te dignes guardar o meu coração. E não seria eu tolo se daqui por diante o consagrasse a alguma criatura, quando o meu Deus o quer para si? Não quero que ele permaneça mais em mim; quero que todo repouse em ti, que o criaste para que te louvasse. É melhor que meu coração esteja no gozo eterno, na divina majestade e na imensa bondade, do que na minha fragilidade; na tua divindade, do que na minha iniquidade" (São Boaventura).

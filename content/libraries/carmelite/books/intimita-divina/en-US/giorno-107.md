@@ -1,104 +1,137 @@
-## 107 — HUMILITY IN FALLS
+## 105 — OUR PLACE
 
 ### Presence of God
 
+— O my God, that I may know You, that I may know myself! Know that You are He who is, and I am he who is not.
+
 ### Meditation
 
-1 — If you consider your misery without raising your eyes
-to God, Father of mercies, you will easily remain suffocated and discouraged. And if you examine yourself well, you will see that discouragement always derives from two causes intimately connected with each other: one is that, having relied on your own strength, your pride has been wounded and disappointed by the setback suffered; and the other is that, not having counted on God,
-you did not think of having recourse to Him and, just as you did not know how to have recourse to Him to succeed in good, so you did not know how to have recourse to Him when you fell into evil. In short, you acted
-alone: by yourself you tried to succeed, by yourself you fell, by
-yourself you considered your fall. The result of such conduct can only be discouragement; for how,
-in fact, will you find in yourself strength to rise again, when
-precisely for lack of strength you find yourself on the ground? But God
-does not want you to act alone. "Woe to him who is alone -
-says Sacred Scripture - because, when he falls, he has no one
-to raise him up" (Eccl. 4, 10). Woe to the man who relies his
-footsteps on his own strength: when he falls he will not have at his disposal God's strength to raise him,
-and so he will remain in his misery, dejected and confused.
-As you must not formulate good resolutions without counting on God's help to keep them, so you must not consider your falls without considering at the same time divine
+1 — Among all creatures in which we love to delight
+and toward which our nature feels greatly drawn, our
+self undoubtedly holds first place. There is no person,
+however little endowed with gifts and qualities, who does not love
+his own excellence and does not seek in some way to
+make it shine before his own eyes and those of others. Indeed,
+for this purpose we are often spontaneously led to exaggerate our own worth and, consequently, to show
+demands and pretensions that make us haughty,
+arrogant, and even difficult in our relations with others. Humility is precisely the virtue that keeps within right limits the love
+of one's own excellence; and while this drives us to place ourselves too high, that is, to occupy
+a place higher than is ours, humility is the virtue that makes us stay
+in our place. Humility is truth, because it tends to put
+our understanding in truth, making us recognize
+what in reality we are, and our life too, inclining us to
+take, before God and before men, the place
+that is ours and no other.
 
 
-mercy, because as God is the only one who can help you
-succeed in good, so He is the only one who can help you rise
-from evil.
+Humility makes you recognize that before God you are
+only a small creature of His, in all things dependent on
+Him both in your existence and in your acting. Having received
+life from God, you cannot exist even one instant
+independently of Him, but it is He who, as He created you
+with His creative action, so maintains you in life by His
+conserving action. Not only this, but you cannot perform
+the smallest act without God's concurrence, somewhat as
+any machine, even the most perfect, cannot make
+the slightest movement unless set in motion by the artisan who made it. It is true that, unlike
+the machine, your acting is neither mechanical nor forced,
+but conscious and free; nevertheless you cannot even
+move a finger without the concurrence of the Divine Artisan.
 
-This is why all the saints have insisted
-that knowledge of self must never be disjoined from knowledge of God and vice versa. St. Teresa of Jesus says: "The soul that trains in self-knowledge must rise,
-from time to time, to consider God's greatness and majesty.
-In this it will discover its own misery better than by remaining in itself, and will be less troubled by unclean little animals," that is, by its own miseries (M. I, 2, 8).
+Consequently, all you have in the order of
+being - qualities, gifts, capacities, etc. - and all you have
+achieved in the order of acting, nothing is yours, but everything, in
+one way or another, is God's gift, is action accomplished
+with divine help. "What have you that you have not received? and if you received it, why do you glory as though you had not
+received it?" (I Cor. 4, 7).
 
 
-2 — "True humility, however deep it may be, never disquiets; it never agitates, never disturbs the soul, but floods
-it with peace, sweetness, and rest... it expands it and renders it more
-able to serve God." Whereas "the devil's humility
-disturbs, upsets, throws everything into confusion and is very burdensome. If the evil one wants to make us believe we are humble,
-I think it is then to induce us, if he can, to distrust God" (T.G. Way 39, 2).
+2 — In the supernatural order, where everything depends
+on grace, Jesus' word is verified in the strictest way:
+"Without Me you can do nothing" (Jn. 15, 5).
+Although baptismal sanctifying grace has raised us to the supernatural order, and infused virtues have
+made our faculties capable of producing supernatural acts, nevertheless, St. Paul warns, "no one can say: 'Lord
+Jesus,' except by the Holy Spirit" (I Cor. 12, 3).
 
-Lack of trust and disturbance diminish
-the capacity to love, and the devil's aim is precisely
-to keep souls from the way of love. He tempts thus
-especially those who would never yield
-to open temptations of sin. In this case one must react,
-remembering that, as St. Therese of the Child Jesus teaches,
-"what offends Jesus and wounds His heart is lack of confidence"
-(Lt. 71).
+Thus, to produce even the least supernatural act,
+you need God's help; you need actual grace that
+goes before you with its action and accompanies you in action, up to its completion.
 
-Distrust in God's mercy, even following grave
-falls, is never a sign of true humility, but
-rather of subtle pride and diabolical temptation. If
-Judas had been humble, instead of despairing, he would have known,
-like Peter, how to ask pardon and weep over his sins.
-Humility is the virtue that makes us stay in our place; now our
-place before God is that of weak and
-miserable children, yes, but trusting. When, after so many resolutions, you
-see yourself falling again into the same faults; when,
-after so many efforts, you still cannot conquer certain defects,
-overcome certain difficulties and, in one way or another, you find yourself far below what you should and would like to be,
-have recourse to the infallible remedy of humility. "Humility - says
-St. Teresa of Jesus - is the ointment that heals every wound"
-(M. III, 2, 6). Even if it seems to you that you have exhausted every
-strength, even if you feel incapable of everything and see yourself
-always on the ground unable to rise, one possibility still remains, that of humbling yourself. Humble yourself,
-humble yourself with sincerity and trust; and humility
-will supply for all your miseries, heal all your wounds,
-because it will draw down upon
-them divine mercy.
+The great theologian who has studied Catholic doctrine in depth, in order to put into practice its least point, as
+for producing one single act of love of God, has absolute
+
+
+need, no less than the peasant who knows only his
+catechism, of the help of actual grace. Likewise,
+the saint, who has received many divine favors and lights,
+who has already reached heroism of virtues, cannot perform the smallest virtuous act without the help of actual grace. This
+tells you how great your dependence on God must be.
+You are therefore far from true humility when,
+trusting in your knowledge or in your long exercise of spiritual life, you believe your lights or virtues are sufficient
+for you to act as a good Christian. No, St. Paul admonishes you,
+"sufficientia nostra ex Deo est," our sufficiency comes
+from God (II Cor. 3, 5). Without God you can neither think,
+nor say, nor will any good, "since it is God who works in
+us both to will and to act according to His good pleasure"
+(Phil. 2, 13).
+
+Of your own, therefore, connatural to your limited
+nature and moreover wounded by original sin, you have
+only one thing: the capacity to fail in your duties,
+to fail, to sin. Take from yourself what is God's and
+you will find that, by yourself, you are nothing, indeed less
+than nothing, because nothingness cannot offend God and you instead
+have this sad possibility.
 
 ### Colloquy
 
-"O Lord, my misery no longer causes me amazement
-and I do not grieve so much to see that I am weakness
-itself; on the contrary, I glory in this weakness and
-every day I expect to discover within me always
-new imperfections. I confess it, Lord, these lights on my
-nothingness do me better than lights concerning
-faith...
+"O almighty Father, God of truth, God of love,
+grant me to enter the cell of self-knowledge,
+recognizing that I by myself am not, but that all
+being and goodness in me comes solely from You.
+Show me my defects, so that I may know how to detest my
+malice and thus I shall flee self-love and find myself clothed
+with the garment of divine charity, which is necessary
+to be admitted to the wedding feast of eternal life" (St. Catherine of Siena).
 
-"What illusion!... Would we want never to fall? What
-does it matter to me, O Jesus, to fall at every instant. I see in this
-my weakness and it is a great gain for me. You thereby see
-what I am capable of, and thus You will be obliged to carry me
-in Your arms... If You do not do so, it means that You
-like to see me on the ground... therefore I will not be disturbed,
-but I will always stretch toward You my supplicating
-and loving arms! I cannot believe that You will abandon me.
-"O Jesus, it is true, I am not always faithful; but I never
-lose courage, I abandon myself in Your arms and,
-like a little drop of dew, I sink myself ever more deeply
-in Your chalice, O divine Flower of the fields, and there I find again all I have
-lost and still more.
-"After all my blunders, instead of hiding in
-a corner and weeping there over my misery, I turn to You,
-O
+"Grant, O my God, that I may learn to know myself
+thoroughly! And that I may truly be convinced that I am nothing and that
+You are all. And that I may consider myself nothing more than that
+nothing I am. And that I may never do anything for myself,
 
 
-my Beloved, and recount in detail all my infidelities,
-thinking, in my audacious abandonment, to gain more empire,
-to draw to myself fully Your love;
-since You did not come to call the righteous, but sinners.
+but all for You. And that no creature may think more of me,
+nor speak more of me, nor do anything for me, nor give me
+anything more, but do all for You, give all to You. And that my
+nothingness may be reduced to nothing in the eyes of all Your
+creatures and in Your eyes, my God. And that You, the All, be all,
+in all and through all" (St. John Eudes).
 
-"I am happy to feel myself thus imperfect and to have such
-need of Your mercy. When one accepts with sweetness the humiliation of having been imperfect, Your grace,
-O Lord, returns at once" (T.B.G. St. 9; Lt. 65, 122,
-175; NV.).
+Show me, O Lord, my nothingness, and show it in such a way
+that I not only understand it, but have practical,
+profound conviction of it. You know how difficult this is to my
+proud nature! If the intellect cannot resist the evidence
+
+
+of truth and must necessarily admit that
+
+
+I am nothing, have nothing and can do nothing without You, in practical life my self always seeks to attribute to itself, to arrogate to itself
+something and to delight in it as though it were its own.
+Help me, O Lord, to overthrow this pride, because, You see,
+it is thief of Your gifts; because, You see,
+it makes my life sterile, preventing me from receiving
+the abundance of Your graces.
+
+O Lord, that I may recognize my nothingness, and the more
+I recognize it with simplicity and humility of heart, the more
+You will delight to be my All. You the all,
+and I the nothing; You He who is, and I he who is not!
+Therefore glorify Yourself in my nothingness! In this nothingness
+may Your love and Your grace triumph, but may Your mercy
+
+
+also triumph, because I am a nothingness that has sinned. Peccavi,
+
+
+Domine, miserere mei!

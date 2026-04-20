@@ -1,111 +1,33 @@
-## 130 — L'AMORE ALLA CROCE
+## 54 — SOFFERENZA E ABBANDONO
 
-### Presenza di Dio
-
-Vengo ancora a te, mio Dio crocifisso, col desiderio di penetrare più profondamente nel mistero della Croce.
+**Presenza di Dio.** — *O Signore, insegnami a soffrire con semplicità, senza inutili ritorni su me stesso, ma abbandonandomi al tuo volere divino.*
 
 ### Meditazione
 
-1 — La croce è la sofferenza veduta nella luce soprannaturale come strumento di salvezza e di santificazione, quindi come strumento di amore, Vista in questa
-luce la croce è certamente amabile: è il grande mezzo
-della nostra santificazione. La nostra unione con Dio non
-è realizzabile se non per mezzo della sofferenza, S. Giovanni della Croce ha dimostrato come l’anima deve essere
-purificata, raschiata sino in fondo per giungere fin da
-questa vita all’unione con Dio. Occorre un’opera di mortificazione totale per strappare tutti i nostri attacchi, perchè in noi ci sono molte resistenze che c’impediscono di
-essere totalmente mossi da Dio; e non è possibile che tutto
+**1** — Il segreto per imparare a soffrire virtuosamente sta in gran parte nel dimenticarsi e abbandonarsi; dimenticare se stessi e il proprio dolore e abbandonarsi a Dio.
 
-uesto si faccia senza la sofferenza. Ma non basta la sofferenza attiva; ossia. non bastano quelle mortificazioni e
-penitenze che ci possiamo procurare di nostra iniziativa,
-ma occorre soprattutto la sofferenza passiva, ossia occorre
-che il Signore stesso ci faccia soffrire e non solo nel corpo,
-ma anche nello spirito, appunto perchè siamo così arrug=
-giniti, così pieni di miserie che la nostra totale purificazione non è possibile, se Dio stesso non interviene con la
-sua azione, Ù metterci nella sofferenza passiva è, quindi,
-una delle più grandi opere della sua misericordia, una delle
-iù grandi prove del suo amore: quando Dio agisce così
-in un’anima è segno che vuole portarla ad alta perfezione.
-E proprio in queste sofferenze passive purificatrici si realizza, in modo particolare, il concetto di croce. Nella
-Fiamma d'amor viva (Il strofa) S. Giovanni della Croce
-si domanda perchè sono così poche le anime che arrivano
-alla pienezza della vita spirituale. E risponde: la ragione
+Chi si ripiega sulle proprie sofferenze, concentrando su di esse la propria attenzione, si rende incapace di sopportarle con serenità e coraggio. « A ciascun giorno basta il suo affanno » *(Mt.* 6, 34), ha detto Gesù; industriamoci dunque di sopportare in pace, giorno per giorno, momento per momento quelle pene e quei crucci che Dio mette sul nostro cammino, senza pensare a quanto abbiamo sofferto ieri, senza preoccuparci di quanto soffriremo domani. Anche quando la sofferenza è intensa non sopravvalutiamola, non diamole troppa importanza, non lasciamoci prendere da quella tendenza un po' morbosa di accarezzare il nostro soffrire, di soffermarci a contemplarlo, ad analizzarlo e pesarlo in tutti i suoi aspetti. In tal modo verremo a paralizzare il nostro spirito di sacrificio, la nostra capacità di accettazione e di azione, rendendoci spesso inutili a noi stessi ed agli altri. Chi è troppo sensibile e troppo occupato delle proprie sofferenze diventa spesso insensibile ed indifferente alle sofferenze altrui.
 
+Per reagire contro queste tendenze dell'egoismo che sono state giustamente definite « il tarlo dell'afflizione cristiana » (P. Faber), bisogna dimenticarsi, bisogna uscire da se stessi e dalla cerchia delle proprie sofferenze ed occuparsi invece di quelle altrui, industriandosi di alleviarle. È questo un mezzo efficacissimo per ritrovare, nei momenti di scoraggiamento, la forza di portare le proprie croci.
 
-non è perchè Dio voglia riservare questo stato a qualche
-anima privilegiata, ma perchè Egli trova poche anime
-disposte ad accettare una profonda opera di purificazione,
-quindi cessa di purificarle e così le anime si condannano alla mediocrità, non camminano più, non vanno
-Fe avanti. È impossibile unirsi a Dio senza queste sofferenze spirituali, senza questo peso di Dio. Soltanto attraverso la sofferenza e la desolazione interiore si allargano
-le potenze dell'anima e questa diventa capace di abbracciare Dio stesso,
+Bisogna sempre pensare — come è vero — che non siamo mai soli a soffrire, che se le nostre sofferenze sono grandi, non manca chi ne ha di maggiori; bisogna pensare che le nostre pene sono una goccia in confronto al mare di dolori in cui naviga l'umanità e sono pressochè nulla in confronto alla Passione di Gesù.
 
+Chi si occupa troppo di ciò che soffre, finisce per esasperare il proprio dolore, per affogarsi in esso, stroncando in sé ogni slancio generoso. Chi, invece, sa dimenticarsi, si mantiene in equilibrio, sempre capace di pensare più agli altri che a se stesso, sempre aperto alla carità ed alla generosità verso Dio e verso il prossimo. L'anima semplice, dimentica di sé, è quella che sa soffrire con maggior coraggio, ricavandone maggior profitto per la propria santificazione.
 
-2 — «O anime che desiderate di andar sicure e consolate nelle cose dello spirito! Se voi sapeste quanto vi
-è necessario soffrire per ottenere questa sicurezza! » (G.C.
-F. 228). Tuttavia, la sofferenza è necessaria non solo per
-il bene dell’anima, ma anche perchè l’anima possa glorificare Dio e dimostrargli il suo amore; infatti non si tratta
-di raggiungere la perfezione per godere di essa — chè
-l’anima perfetta non pensa mai a sè — ma per dedicarsi
-totalmente alla gloria di Dio. Proprio in questo senso,
-sulla cima del Monte di Perfezione sta scritto: «solo l'onore e la gloria di Dio qui abitano». Come la Croce di
-Gesù è stata il grande mezzo mediante il quale Egli ha
-dato al Padre quella gloria che l’uomo peccatore gli aveva
-negata, così deve essere della nostra croce; per mezzo
-della sofferenza dobbiamo espiare e riparare le colpe
-nostre e quelle altrui, per dare a Dio tutta la gloria
-che gli è dovuta,
+**2** — Malgrado tutti gli sforzi per buttarsi al di là del proprio dolore, per dimenticare le proprie pene, si possono passare momenti di angoscia così profonda, di tenebre così fitte che la povera anima non sa come venirne fuori, tanto più quando l'orizzonte, invece di schiarirsi, diventa sempre più cupo e minaccioso. In questi casi non resta che fare un salto nel buio, abbandonandosi totalmente nelle mani di Dio. Siamo tanto poveri e deboli che abbiamo sempre bisogno di un punto di appoggio; se l'anima si dimentica e *disoccupa* di sé, ha pur bisogno di qualcuno che la sostenga e pensi a lei. Questo Qualcuno è Dio che mai si dimentica di noi, che conosce a fondo il nostro patire, che sa i nostri bisogni, che vede la nostra debolezza ed è sempre pronto a soccorrere coloro che si rifugiano in lui. Possiamo, è vero, cercare un po' di conforto ed aiuto anche presso le creature, ma non illudiamoci: non sempre ci capirranno, non sempre potranno essere a nostra disposizione. Ma se ci rivolgiamo a Dio, non saremo mai delusi; anche se Egli non muterà le nostre condizioni, se non ci toglierà le nostre pene, però interiormente — sebbene in modo nascosto e silenzioso — conforterà il nostro cuore, dandoci la forza di proseguire il cammino.
 
-Di più, come la Croce di Gesù è stata la massima
-prova del suo amore per noi, così la nostra croce è la
-più bella prova del nostro amore per lui. Proprio nel fatto
-che il Figlio di Dio è venuto a morire per noi sulla croce,
-si rivela il suo infinito amore per nol; € così, nel fatto
-che per lui noi abbracciamo il patire, si dimostra la realtà
-del nostro amore per Iddio. La croce è quindi strumento
-ed opera di amore: è strumento e opera dell'amore di
-Dio verso di noi e del nostro amore verso Dio. Più Dio
+« Abbandona a Dio la cura di te, Egli ti sosterrà » *(Sal.* 54, 23). Ecco l'atteggiamento di abbandono che dobbiamo avere nel momento della sofferenza e che dobbiamo rafforzare quanto più questa si fa profonda. A maggior patire deve corrispondere maggior abbandono in Dio e allora non andremo perduti.
 
-
-ci santifica e più ci dimostra il suo amore e ci dà modo
-di glorificarlo; ma Egli ci santifica proprio mediante la
-croce, la grande Croce di Gesù cui dobbiamo unire la
-nostra piccola croce. Quanto più il Signore, attraverso
-la sofferenza, ci dà modo di partecipare alla Passione di
-Cristo, tanto più ci santifica e quindi ci ama. Le sofferenze sono, dunque, anche in questo senso, una prova
-del suo amore verso di noi.
-Se si capisse tutto ciò come si amerebbe la croce!
+Tante anime esagerano le loro sofferenze, le drammatizzano perchè non sanno vedere in esse la mano paterna di Dio, perchè non credono abbastanza alla sua divina Provvidenza e, di conseguenza, non sanno abbandonarsi ad essa con piena fiducia. Se la nostra vita con tutte le sue circostanze, anche le più penose, non fosse nelle mani di Dio, avremmo ragione di temere, ma siccome tutto è *sempre nelle sue mani* non dobbiamo aver paura, non dobbiamo sgomentarci. L'anima che è sicura di Dio e si abbandona a lui, sa mantenersi tranquilla anche nei più grandi dolori, sa prendere con semplicità anche le cose tragiche, sa soffrire con serenità e coraggio, perchè è sempre sorretta da Dio.
 
 ### Colloquio
 
-«O Signore, la via della croce è quella che Tu riservi
-ai tuoi diletti: più li ami e più li carichi di travagli...
-poichè Tu ammetti alla tua intimità solo anime amanti
-dei patimenti. Se tu mi domandassi quale preferisco di
-queste due cose: rimanere sulla terra sino alla fine del
-mondo, in mezzo ad ogni sorta di travagli, e poi salire
-al cielo con un po’ di gloria di più; oppure andar subito
-in cielo senza nulla soffrire, mà con un' grado di gloria
-di meno, accetterei volentieri tutti i tormenti del mondo,
-pur di avere in più quel po’ di gloria che mi permette di
-meglio comprenderti. Vedo, infatti, 0 Signore, che chi
-meglio ti comprende, meglio ti ama e meglio ti loda.
+« O Signore, fa' che la mia anima corra continuamente a te senza posa, mirando sempre a te solo. Consolata o desolata, corra senza fermarsi a nulla, corra tanto presto da non aver tempo di guardare, nè di vedere le cose della terra, perchè il passo è velocissimo. Via dunque, per amor tuo, godimento, riposo, affidamento sul giudizio degli uomini, riposa sulla loro approvazione, apprensione per il malessere fisico, per le tristezze morali, per il successo prospero o avverso. Via, insomma, tutto ciò che non è Dio.
 
-«No; non voglio far mai caso di pene che finiscono,
-quando interviene il tuo servizio, quando si tratta di onorare te, che hai tanto patito per noi,
+« Le mie pene, lo riconosco, sono state permesse e volute da te, mio Signore, per insegnarmi ad avere fiducia malgrado tutto.
 
-«Se voglio sapere, Dio mio, come ti comporti con
-chi ti prega sinceramente di compiere in lui la tua volontà, devo domandarlo al tuo glorioso Figliolo che nell'orto degli olivi ti ha rivolto questa preghiera... Tu hai
-compiuto in lui la tua volontà con inondarlo di patimenti,
-d’ingiurie, di persecuzioni, lasciandolo morire infine sopra
-un tronco di croce. Ecco quello che hai dato a Coluî che
-amavi di più. Finchè siamo quaggiù questi sono i tuoi
-doni. Ce li dai a seconda dell'amore che ci porti: ne dai
-di più a chi ami di più, e meno a chi ami di meno, Altra
+« O Signore, sii l'unico mio sostegno nelle apprensioni, nelle debolezze, nelle angustie; sii il mio confidente o, meglio, la mia confidenza. Ospite divino, che risiedi in me, sul trono del mio cuore, dimoravi da padrone; a te spetta il dominio, l'amore, il governo di tutto il mio essere!
 
+« Perchè turbarmi o temere ancora? Tutto è tuo, o Dio, e Tu stesso ti prendi cura e provvedi ai miei bisogni. Tu sei amore infinito e ami l'opera delle tue mani più di quanto essa stessa sappia e possa amarsi. Chi oserà dubitare della tua potenza, delle cure previdenti ed affettuose che prodighi alle tue creature, dell'eternità e dell'efficacia del tuo amore?
 
-regola è il coraggio che vedi in noi e l'amore che ti portiamo, perchè se ti amiamo molto, saremo anche capaci di
-soffrir molto, ma poco invece se pure poco ti amiamo »
-(T.G. Cam. 18, ve 2; Vi. 37,2; Cam. 3, 632,67).
-
-. © mio Dio, accresci dunque. il mio amore, dilata il
-mio povero cuore e rendilo capace di molto patire per te.
-Sì, di buona voglia voglio accettare il patire per attestarti
-coi fatti la realtà del mio amore.
+« Credo che Tu fai tutto e permetti tutto per il mio bene e la mia salvezza e mi abbandono alla tua condotta con fiducia, con amore, senza ansie, nè apprensioni, nè calcoli » (B. M. Teresa de Soubiran).

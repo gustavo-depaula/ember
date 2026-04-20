@@ -1,53 +1,46 @@
-## 328 — HUMANIDADE PERFEITA E CARIDADE APOSTÓLICA
+## 328 — O CONVITE DIVINO
+*XIX domingo depois de Pentecostes*
 
 ### Presença de Deus
 
-Adoça, Senhor, meu coração com a chama da tua caridade.
+Concede-me, ó Deus, a graça suprema de corresponder com generosidade a todos os teus convites.
 
 ### Meditação
 
-O verdadeiro fundamento do apostolado é a caridade apostólica, isto é, o amor de Deus e do próximo crescido até tornar-se zelo pelas almas. Mas, ao lado disso, que é o aspecto essencial da caridade que deve animar o apóstolo, há aspectos secundários, por assim dizer humanos, que, no entanto, têm grande importância para permitir ao apóstolo alcançar as almas.
+1. — O Evangelho de hoje (Mt. 22, 1-14) delineia a história dolorosa — infelizmente sempre atual — da ingratidão humana, que rejeita a misericórdia divina, descuidando-se de seus dons e de seus convites.
 
-Referimo-nos a todas aquelas qualidades de afabilidade, finura de trato, cortesia, sociabilidade, sinceridade e compreensão, que em si são qualidades humanas, mas que, elevadas pela graça e usadas para fins de apostolado, adquirem valor sobrenatural.
+«O reino dos céus é semelhante a um rei que fez as bodas de seu filho; e mandou seus servos chamar os convidados, os quais não quiseram vir.» O rei é Deus Pai, o filho é o Verbo eterno que, encarnando-se, desposou a natureza humana para redimi-la e santificá-la.
 
-Trata-se, em substância, das qualidades que São Paulo atribui ao amor: «O amor é paciente, é benigno... não se irrita, não pensa o mal... alegra-se com a verdade» (1Cor 13,4-6).
+Deus convida todos os homens ao grande banquete dessas núpcias divinas, em que está a salvação deles; mas eles, afogados na materialidade das coisas terrenas, rejeitam o convite e os embaixadores. «Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados» (Mt. 23, 37), lamentará um dia o Filho de Deus, denunciando ao mundo não só a obstinada resistência do povo eleito, mas também a de todas as almas que, com tanta teimosia e ingratidão, rejeitam seu amor e sua graça.
 
-Não basta amar as almas no segredo do coração, trabalhando e sacrificando-se por elas; é preciso que esse amor transpareça também exteriormente através de um trato amável e agradável, de modo que, ao aproximar-se de nós, elas se sintam benquistas e assim encorajadas à confiança.
+Os profetas, o Batista, os Apóstolos são justamente os «servos», os mensageiros enviados por Deus para chamar os homens ao banquete da Redenção; mas todos foram presos e mortos: «Presos os servos — diz o Evangelho — os ultrajaram e mataram».
 
-Certos modos ásperos e impacientes são causa de que muitos se afastem desgostosos e talvez até escandalizados. O apóstolo pode muito bem ter um coração de ouro, rico de caridade e de zelo; mas, se conserva uma casca rude e pungente, fecha para si mesmo o caminho para chegar às almas, diminuindo notavelmente o bem que poderia fazer.
+A parábola de hoje não vai mais adiante, mas, infelizmente, muito mais adiante foi a ingratidão humana: não só os servos, não só os mensageiros foram mortos, mas o próprio Filho de Deus. E, no entanto, a misericórdia de Deus é tão grande que não se dá por vencida e continua a convidar ao seu convívio; antes, nesse convívio oferece como alimento as próprias carnes imaculadas de seu Filho divino que os homens mataram.
 
-Os santos, embora muito sobrenaturais, nunca negligenciaram esses aspectos mais humanos da caridade. São Francisco de Sales inculcava continuamente que, assim como se atraem mais moscas com uma gota de mel do que com um barril de vinagre, assim se conquistam mais corações com uma migalha de doçura do que com muitos modos rudes.
+O banquete está preparado; Jesus, Cordeiro divino, foi imolado para a redenção da humanidade e, se muitos não corresponderam ao convite, outros serão convidados: «As bodas estão prontas, mas os convidados não foram dignos. Ide às encruzilhadas e chamai para as bodas todos quantos encontrardes».
 
-E Santa Teresa de Jesus, que queria suas filhas unidas pelo vínculo de uma caridade sobrenatural pura, não julgava supérfluo fazer recomendações como estas: «Quanto mais santas fordes, mais afáveis deveis mostrar-vos com as irmãs; e nunca as eviteis, por mais enfadonhas e importunas que sejam em suas conversas. Se quereis atrair o amor delas e fazer-lhes bem, deveis guardar-vos de toda rusticidade» (*Caminho de Perfeição*).
+Também nós fomos convidados; como correspondemos ao convite? Não mostramos também nós, às vezes, maior interesse pelos negócios terrenos do que pelas coisas de Deus? Não fomos semelhantes àqueles homens da parábola que «não se importando, foram-se, um para seu campo e outro para seu comércio»?
 
-Aviso utilíssimo para quem quer conquistar almas para Deus.
+2. — A parábola de hoje representa, antes de tudo, o convite à vida cristã, convite que, recusado pelo povo hebreu, foi dirigido a todas as nações. Mas nela podemos ver figurado também o convite a seguir uma vocação particular: vocação ao sacerdócio, à consagração a Deus no claustro ou no mundo, ao apostolado, a uma missão particular.
 
-Para uma compreensão prática desses aspectos da caridade apostólica, podemos meditar com proveito a seguinte exortação dirigida por Pio XII a um grupo de religiosos: «Antes que o jovem religioso [e poderíamos dizer: antes que o apóstolo] possa ser um exemplo brilhante, esforce-se por tornar-se homem perfeito nas coisas ordinárias.
+Para corresponder à vocação, não basta uma adesão qualquer; é necessária uma adesão sincera, profunda, que comprometa toda a alma. A parábola nos fala de um homem que não recusou o convite, mas lhe correspondeu de modo indigno, apresentando-se ao banquete sem a veste nupcial.
 
-«Aprenda, portanto, e o demonstre com sua conduta, qual seja o decoro conveniente à natureza humana e à sociedade; regule dignamente o rosto e o comportamento; seja fiel e veraz; mantenha as promessas; governe seus atos e palavras; venere a todos; não lese os direitos alheios; suporte o mal e seja sociável...
+É a imagem daqueles que aderem materialmente ao chamado do Senhor, sem preocupar-se em aderir-lhe com o espírito e com as obras, sem cuidar de viver de modo digno da própria vocação; almas estas que põem em sério risco sua salvação eterna, porque com Deus não se brinca. Ele não pode ser enganado pelas aparências; não há uniformes ou insígnias externas que possam ocultar-lhe o verdadeiro estado de uma alma.
 
-«Como bem sabeis, as virtudes chamadas naturais são elevadas à dignidade da vida sobrenatural sobretudo quando o homem as pratica e cultiva precisamente para tornar-se bom cristão ou digno arauto e ministro de Cristo» (setembro de 1951).
+Muito melhor do que o rei da parábola, Ele discerne aqueles que não estão revestidos da veste nupcial, isto é, da veste de graça e de virtude correspondente à vocação recebida; cedo ou tarde virá o dia em que para cada um deles pronunciará as tremendas palavras: «Amarrai-lhe as mãos e os pés e lançai-o fora nas trevas».
 
-Não se pode, portanto, pensar que haja antagonismo entre a plenitude da vida sobrenatural, que deve conduzir à união com Deus, e a plenitude de humanidade, que deriva de um justo desenvolvimento das virtudes naturais. É preciso lembrar: a graça não destrói a natureza, mas a eleva.
+Mas, mesmo sem chegar a esses extremos, pode-se ficar muito aquém da plena correspondência ao chamado divino. A esse propósito, convém recordar que o problema da correspondência à vocação não é um problema resolvido de uma vez para sempre no dia em que se abraça um particular estado de vida, mas é um problema de todos os dias, porque cada dia a vocação exige uma nova resposta, uma nova adesão adequada às circunstâncias e à graça do momento.
 
-A luta contra a natureza, para o triunfo da graça, visa mortificar e destruir apenas o que nela é defeituoso, enquanto as qualidades e forças boas são elevadas e transportadas para o plano sobrenatural.
+A vocação chega à sua plena realização justamente através da contínua fidelidade aos convites divinos que, sucedendo-se ininterruptamente, abrem à alma atenta horizontes sempre novos, apresentam novos deveres, novos aspectos de generosidade, novos matizes de perfeição e de doação.
 
-A graça, e portanto a vida cristã, respeita e utiliza ao máximo todos os valores humanos. Como pensar que o sobrenatural destrua o natural, quando este, não menos que aquele, é obra de Deus, fruto de sua sabedoria e bondade infinitas?
-
-Elevando o homem ao plano sobrenatural, Deus não quis destruir nele aquilo que já havia criado, mas somente sublimá-lo e elevá-lo.
-
-À luz desses princípios, entende-se por que se disse que o apóstolo, como o sacerdote, deve ser um «perfeito cavalheiro» (Newman); entende-se por que os santos são também os homens mais perfeitos, no sentido de terem levado à maior perfeição e sublimação as virtudes naturais; entende-se por que os santos, embora amem as criaturas com amor puramente sobrenatural, são capazes, mais do que os outros, de cercá-las de amabilidade, delicadeza e compreensão, conquistando com maior facilidade seus corações.
-
-Aliás, é fácil compreender que uma perfeita cortesia, sempre igual a si mesma — mesmo com os importunos e nos momentos de cansaço — só pode derivar de profunda virtude sobrenatural, de delicada caridade.
+A parábola fecha-se com a grave sentença: «muitos são os chamados, mas poucos os escolhidos». Por que os escolhidos são poucos? Porque poucos são os que sabem corresponder dia após dia à graça da vocação; poucos os que sabem aceitar todas as consequências e exigências do chamado divino; poucos os que sabem dizer sempre sim aos convites da graça.
 
 ### Colóquio
 
-«Ó Senhor, ainda que eu falasse as línguas dos homens e dos anjos, se não tivesse amor, seria como bronze que soa ou címbalo que retine. E se tivesse o dom da profecia, conhecesse todos os mistérios e toda ciência, e tivesse toda fé a ponto de transportar montanhas, mas me faltasse amor, eu nada seria.
+«Ó Senhor, assim falas à minha alma: “Por que te afastaste de mim com vãs preocupações? Por que não te apressaste em preparar uma veste ornada para as núpcias? Eu, ó alma, sofri a morte para tomar-te por esposa. Fiz-me homem por ti; para libertar tua vida da corrupção, antepus a tua salvação a todas as minhas obras. Preparei-te um tálamo no céu e ordenei aos anjos que nele te servissem. E tu quererás desprezar-me, Esposo celeste? E quem quererás preferir a mim, que com minhas misericórdias salvei o gênero humano? Qual pai poderá dar-te a vida como eu? Qual pai e qual esposo poderá amar-te como eu?”
 
-«E ainda que distribuísse aos pobres tudo o que possuo, e entregasse meu corpo para ser queimado, se não tivesse amor, nada disso me aproveitaria.
+«Meu Deus, que te responderei?
 
-«Concede-me, portanto, meu Deus, o amor: o amor que é paciente, benigno, que não tem inveja, que não se ensoberbece, não é ambicioso, não é egoísta, não se irrita, não pensa o mal, mas alegra-se com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta» (cf. 1Cor 13,1-7).
+«Perdoa-me, salva-me, ó paciente e longânimo Senhor! Salva-me, Filho de Deus, ó Cristo, que só tu és sem pecado! Faze que eu nada tenha no coração senão o desejo de responder aos teus convites e que, cooperando comigo tua graça, cumpra sempre tua vontade e esteja pronto a executar benevolamente tuas ordens, para que, com os talentos de ti recebidos, possa negociar e adquirir os bens do teu reino. Faze que eu te louve com confiança e com afeto de coração te diga, quando vieres: sou feliz, porque vieste para revestir-me da digna veste nupcial que adquiro com tua graça.
 
-«Ó Senhor, faze que, ao dedicar-me ao teu serviço, não diminua, mas cresça em meu coração a ternura para com o próximo, e se torne cada vez mais pura, mais sobrenatural. Ensina-me a amar com essa ternura todos os que se aproximam de mim. Torna-me doce, afável, complacente, não para atrair para mim a benevolência das criaturas, mas para poder conquistar para ti seus corações.
-
-«Ó Jesus, se o apóstolo deve ser uma cópia tua não só nas grandes linhas, mas também nas nuances, como poderei sê-lo se não procurar imitar a doçura do teu Coração? Ó Jesus, manso e humilde de coração, faze meu coração semelhante ao teu.»
+«Acenderei a lâmpada, ó Cristo, que me foi dada por tua graça e bondade. Irei ao teu encontro com alegria, bendizendo-te, louvando-te, glorificando-te, ó Esposo imortal» (São Efrém).

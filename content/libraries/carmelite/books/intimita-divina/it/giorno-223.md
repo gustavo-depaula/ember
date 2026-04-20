@@ -1,84 +1,31 @@
-## 223 — LA COMPASSIONE DI GESÙ
-*VI Domenica dopo Pentecoste*
+## XXIII — LA TRINITÀ E NOI
 
-### Presenza di Dio
-
-O Gesù, Signore e Padre mio, abbi compassione della povera anima mia e sostentala con la tua grazia.
+**Presenza di Dio.** — *O Santissima Trinità, che ti compiaci di abitare nell'anima mia, degnati di associarmi alla tua vita divina.*
 
 ### Meditazione
 
-1. — Un pensiero affiora in modo speciale dalla liturgia
-del giorno e la domina tutta: il Signore è il Padre misericordioso che ha compassione di noi e nutre le anime nostre.
-L'anima nostra è sempre affamata, ha sempre bisogno di alimentare, di sostenere la sua vita soprannaturale; solo Dio
-può darci il nutrimento adatto, ed ecco che oggi la Chiesa ci
-fa rivolgere a lui questa bella preghiera: « O Dio delle virtù,
-da cui procede tutto ciò che è ottimo, semina nel nostro cuore l'amore... aumenta il nostro spirito di religione... nutri in
-noi tutto ciò che è buono e conserva quel che hai nutrito »
-(Colletta). Il Padre celeste accoglie benigno la nostra supplica e ci risponde indirizzandoci al suo Figlio divino, al suo
-Unigenito che ha mandato al mondo affinchè in lui avesse la vita. Proprio nell'Epistola S. Paolo ci ricorda che, « come siamo stati battezzati nella morte di Cristo », così in lui
-siamo «risorti in novità di vita» e in lui possiamo « vivere
-a Dio». In Gesù, dunque, nella sua redenzione, troviamo
-tutto ciò di cui abbiamo bisogno per alimentare la vita delle
-anime nostre, troviamo la grazia, l'amore, la fede, il sostegno
-ai nostri buoni propositi, proprio come avevamo chiesto nella Colletta. E' una grande gioia per noi sentirci ripetere che
-siamo risorti in Cristo a «novità di vita », è un grande conforto per la nostra debolezza. Tuttavia, rimane un punto oscuro: ma allora, perchè continuiamo a ricadere, perchè ci
-ritroviamo sempre tanto miserabili? Una più attenta lettura
-dell'Epistola ce ne fa scoprire il motivo: perchè non siamo
-ancora del tutto «morti» con Cristo, perchè in noi « l'uomo
-vecchio » non è stato ancora « crocifisso» fino al punto da
-non essere più schiavi del peccato ». In una parola, se vogliamo vivere in pieno la vita che Cristo ci ha conquistato
-con la sua morte, dobbiamo prima morire con lui. E, poichè
-si tratta, non della morte materiale del corpo, ma di una morte spirituale ai nostri difetti, alle nostre passioni, questa morte deve continuamente rinnovarsi: e quotidie morior » (I Cor.
-15, 31), ogni giorno muoio a me stesso. La debolezza della
-nostra vita spirituale dipende dall'insufficienza della nostra
-morte.
-2. — Al Vangelo ascoltiamo le parole buone di Gesù:
-« Ho compassione di questo popolo è. Gesù ha compassione
-di noi, delle nostre debolezze, della nostra fiacchezza, dell'indecisione della nostra volontà. Vede le anime nostre stanche, affamate, bisognose di aiuto e, come un giorno alle fol
-le accorse ad ascoltarlo, ripete anche a noi: « Ho compassione!» La compassione di Gesù si rivolge anzitutto ai nostri
-bisogni spirituali; ad essi ha già provveduto largamente con
-la sua Passione e Morte, tuttavia vuol continuare a provvedervi ogni giorno nel modo più personale e più diretto offrendosi in cibo alle anime nostre. Il Vangelo ci parla della
-seconda moltiplicazione dei pani, ma a noi, più fortunati delle folle della Palestina, Gesù ha riservato un pane infinitamente più nutriente e più prezioso: l'Eucaristia.
+**1** — Gesù è venuto non solo a manifestarci il mistero della SS.ma Trinità, ma anche a metterci in rapporto con le tre Persone divine. Egli è per noi non solo il Rivelatore della Trinità, ma il Mediatore, la Via, il Ponte che ad essa ci porta ed unisce. Già ai nostri progenitori creati nello stato di grazia, Dio aveva voluto darsi non solo come Creatore, ma come Trinità; il peccato, però, ha interrotto questa più intima comunicazione di amicizia mediante la quale Dio avrebbe voluto trattare l'uomo non solo come creatura, ma come amico a cui svelare il mistero della sua vita intima per associarlo ad essa. Tutto ciò verrà ridato all'uomo, ma solo dopo l'Incarnazione del Verbo, quando Gesù, l'Uomo-Dio, si porrà come Mediatore tra Dio e gli uomini. Purificandoci col suo preziosissimo Sangue, Gesù ha ridato all'anima nostra la capacità di ricevere il dono divino: la grazia santificante, partecipazione della natura e della vita divina, e così ci ha ricostituiti nella nostra originaria dignità di templi viventi della Triade gloriosa. Ed ecco che in forza della sua Redenzione, Gesù ha potuto farci grande la promessa: «Se uno mi ama... il Padre mio l'amerà e verremo a lui e faremo dimora presso di lui» *(Gv.* 14, 23). Queste parole ci rivelano il mistero dell'inhabitazione della Trinità nell'anima nostra, inhabitazione che comporta una presenza tutta speciale di Dio in noi; questa presenza si realizza solo nell'anima che ama, ossia nell'anima che vive nella carità e nella grazia perché, come dice S. Giovanni, «chi sta nella carità, sta in Dio e Dio in lui» *(I,* 4, 16).
 
-Affascinate dalla parola di Gesù, le folle l'avevano seguito dimenticando perfino le loro necessità: da tre giorni stavano con lui e non avevano nulla da mangiare. Quale lezione per noi, troppo spesso ben più solleciti del cibo materiale,
-anzichè di quello spirituale! E Gesù, dopo aver provveduto
-largamente ai bisogni del loro spirito, pensa anche a quelli
-del corpo. I suoi discepoli, invece, fanno le meraviglie: « Come è mai possibile trovare qui, in un deserto, pane abbastanza per sfamarli? ». Essi avevano già assistito alla prima
-moltiplicazione dei pani, ma sembra che ora non la ricor
-dino affatto e rimangono diffidenti. Quante volte anche noi
-abbiamo toccato con mano i miracoli della grazia, i miracoli
-della divina Provvidenza! Eppure, non è raro che di fronte
-a nuovi casi difficili od oscuri rimaniamo titubanti; sembra
-quasi che mettiamo in dubbio l'onnipotenza di Dio, Pensiamo, ad esempio, alla nostra vita spirituale: ci sono ancora
-dei punti morti da vincere, da superare... abbiamo provato
-tante volte e forse ora non abbiamo più il coraggio di ritentare. Oh, se avessimo maggior fede, se ci slanciassimo in Dio
-con maggiore confidenza! Basterebbe forse un bell'atto di fiducia piena per conseguire la vittoria. Gesù ci guarda e ci
-ripete: « Ho compassione di questo popolo» e la sua compassione non è sterile, ma è azione vitale, ma è soccorso e
-grazia attuale per l'anima nostra: perchè, dunque, non abbiamo maggior fiducia in lui?
+Dio dimora nell'anima in grazia come amico che si compiace di stare con l'amico, d'intrattenersi con lui in dolce familiarità. «Ecco — dice il Signore — io sto all'uscio e picchio: se uno ascolta la mia voce ed apre l'uscio, entrerò con lui e desinero con lui e lui con me» *(Apoc.* 3, 20).
+
+**2** — Se sei in grazia, Dio non solo dimora in te ma, essendo il Dio vivente, vive in te: vive la sua vita intima, vita trinitaria. Vive in te il Padre che continuamente genera il suo Figlio, vivono il Padre ed il Figlio dai quali incessantemente procede lo Spirito Santo. L'anima tua è il piccolo cielo in cui si svolge questa magnifica vita divina, la vita della SS.ma Trinità. Ma perché la Trinità vive in te, se non per associarti alla sua vita, per farti entrare nella corrente della sua vita?
+
+Il Padre genera in te il Figlio e te lo dona per farti suo figlio adottivo proprio in vista di lui, il suo Unigenito, che per te si è incarnato. Il Padre ed il Figlio spirano in te lo Spirito Santo e te lo donano affinché Egli, che è il termine e il vincolo del loro amore e della loro unione, sia pure il vincolo del tuo amore e della tua unione con Essi.
+
+Le Persone divine sono in te: tu le accogli e ti associ alla loro vita divina per mezzo della fede e della carità. Mediante la fede *credi* in loro, mediante la carità ti *unisci* a loro. Unendoti al Padre, Egli ti riceve nel suo abbraccio paterno, ti sostiene con la sua forza onnipotente e ti trascina con sé nella contemplazione e nell'amore del Figlio, «secondo quello che il Figlio stesso ci ha rivelato: «nessuno può venire a me se non vi è attratto dal Padre» *(Gv.* 6, 44). Unendoti al Figlio, Egli t'investe col suo luce infinita, ti fa conoscere il Padre, ti ricopre coi meriti che, incarnandosi, ha acquistati per te e quindi ti trae seco nella lode e nell'amore del Padre, avverandosi così la sua parola: «nessuno viene al Padre se non per mezzo mio» (ivi, 14, 6).
+
+Unendoti allo Spirito Santo, Egli effonde in te la grazia di adozione a figlio di Dio, riversa nell'anima tua una partecipazione sempre più piena della vita divina e quindi ti stringe con sé in una comunione sempre più intima col Padre e col Figlio, affinché, come ha detto Gesù, tu sia «perfetto nell'unità» (ivi, 17, 23).
+
+«O anime create per queste grandezze e ad esse chiamate! — grida con entusiasmo S. Giovanni della Croce — In che v'intratteniete?» (C. 39, 7). La SS.ma Trinità ci vuole associare alla sua vita divina e noi volgeremo altrove i nostri sguardi?
 
 ### Colloquio
 
-« Ah, Signor mio! Il tuo aiuto mi è assolutamente necessario: senza di te non posso proprio far nulla. Per la tua mi.
-sericordia, o Signore, non permettere che la mia anima
-lasci ingannare abbandonando la strada incominciata. Dammi
-luce per riconoscere che ogni mio bene dipende dal perseverare...
+«O Trinità eterna, unico Dio, uno in essenza e trino in Persone! Tu hai fatto l'uomo a immagine e similitudine tua, acciocché per tre potenze che egli ha in un'unica anima, si assomigli alla tua Trinità e alla tua Unità. E siccome si assomiglia, così ancora si unisca a te: cioè, per la memoria si assomigli e si unisca al Padre, a cui si attribuisce la potenza; per l'intelletto si assomigli e si unisca al Figliolo, a cui si attribuisce la sapienza; per la volontà si assomigli e si unisca allo Spirito Santo, a cui si attribuisce la clemenza, che è l'amore del Padre e del Figliolo.
 
-« Fammi comprendere che la mia fede in te deve predominare la mia miseria e che non devo mai spaventarmi della
-mia debolezza. O Gesù, ricordo che anche Tu nell'orto hai
-detto: "la carne è inferma'; devo quindi lasciare che la carne faccia il suo ufficio senza sgomentarmi. Se anche Tu, che
-sei senza peccato, hai sperimentato la debolezza della natura
-umana, come vorrei io essere tanto forte da non sentire alcun timore? O Signore, non voglio, dunque, preoccuparmi
-delle mie paure, nè perdermi di coraggio per la mia debolezza. Voglio, invece, confidare nella tua misericordia, diffidando affatto delle mie forze, convinta che la mia debolezza
-deriva tutta dall'appoggiarmi su di me» (cfr. T.G. M. II,
-6; P. 3,10 e 12).
+«O Padre, fa' che io congiunga a te la mia memoria, ricordandomi sempre che Tu sei il principio dal quale procede ogni cosa. O Figliolo, illuminami l'intelletto, conoscendo perfettamente tutte le cose secondo l'ordine stabilito dalla tua sapienza. O Spirito Santo, che io congiunga a te la mia volontà, amando perfettamente quell'amore e quella clemenza che è la causa della mia creazione e di ogni grazia data a me, senza alcun mio merito precedente.
 
-«A te, o Signore, io ricorro; ch'io non rimanga giammai
-deluso; salvami per la tua giustizia. Porgi a me orecchio, liberami tosto. Fammi da rocca di rifugio, da luogo di riparo
-ove pormi in salvo; poichè mia rocca e mio riparo sei Tu;
-per amore del tuo Nome, assistimi e guidami. Nelle tue mani rimetto il mio spirito; Tu mi hai riscattato, o Signore, Dio
-fedele. Avrò da gioire e rallegrarmi del tuo favore, perchè
-Tu, vedendo la mia miseria, conoscendo l'angoscia dell'animo mio, non mi abbandonerai in balìa del nemico, ma mi
-farai mettere il piede in salvo... Io confido in te, o Signore,
-salvami per la tua pietà! Ch'io non sia deluso d'averti invocato... perchè gran bene Tu riserbi a chi ti teme e concedi
+«Grazie, grazie siano rese a te, alta ed eterna Trinità, di tanto amore che ci hai mostrato, dandoci sì dolce forma e potenze nell'anima nostra: cioè l'intelletto per conoscere te, la memoria per ricordarci di te, la volontà e l'amore per amare te sopra ogni altra cosa! Ragionevole cosa è, che conoscendo te, Bontà infinita, te ami; ed è di tanta forza questo amore, che né demonio, né altra creatura me lo può togliere se io non lo voglio.
 
-a chiunque si rifugia in te. Confortatevi e animatevi di coraggio, voi tutti che sperate nel Signore» (cfr. Sal. 30).
+«O potenza del Padre eterno aiutami; sapienza del Figliolo illumina l'occhio dell'intelletto mio; clemenza e amore dolce dello Spirito Santo, infiammami e unisci il mio cuore in te.
+
+«O Trinità eterna, Amore mio dolce, Tu Lume, dona a me lume; Tu Sapienza, dona a me sapienza; Tu somma Fortezza, fortificami! O Dio eterno, Tu sei l'oceano tranquillo in cui vivono e si nutrono le anime, dove si trovano il loro riposo nell'unione dell'amore» (cfr. S. Caterina da Siena).

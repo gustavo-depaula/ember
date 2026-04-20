@@ -1,101 +1,25 @@
-## 345 — ANGOSCE E TENEBRE
+## 23 — I PROGRESSI NELL'APOSTOLATO
 
-### Presenza di Dio
-
-Accorri, o Signore, in mio aiuto affinchè io non sia travolto dalla tempesta.
+**Presenza di Dio.** — *O Signore, uniscimi a te e la forza della tua carità accenda nel mio cuore la vera fiamma apostolica.*
 
 ### Meditazione
 
-1 Vedendo con chiarezza la sua miseria, l'anima
-intuisce l'infinita distanza che passa tra lei e Dio: proprio ora che maggiormente anela ad unirsi a lui, si vede
-da lui più che mai lontana, assolutamente incapace di superare la somma distanza che da lui la separa. Anche di
-ciò essa soffre, perchè chi ama desidera ardentemente
-unirsi all'amato. Talvolta, poi, questa sofferenza si fa così intensa da sembrare all'anima che per lei non esista più
+**1** — S. Tommaso insegna: l'amore è come il fuoco, produce una fiamma e la fiamma dell'amore è lo zelo; se il fuoco arde intensamente allora anche la fiamma che produce è divorante, intensa. Il vero zelo apostolico è la risultante spontanea, il frutto normale del contatto intimo dell'anima con Dio per mezzo dell'amore. Quanto più un'anima si unisce a Dio per amore, tanto più viene coinvolta nella fiamma della sua carità, perciò partecipa del suo amore infinito per gli uomini, del suo zelo eterno per la loro salvezza, sì che diventa *necessariamente apostolica*.
 
-alcuna speranza nè di santità, nè di unione con Dio e
-nemmeno di salvezza eterna.
+Dire che non si possa essere apostoli prima di venire così intimamente presi dall'amore divino, sarebbe un'esagerazione, ma è chiaro che alla pienezza dell'apostolato, e quindi alla pienezza della fecondità apostolica, non si giunge senza questa fiamma interiore che nasce appunto dall'unione con Dio. Finché non si arriva a quel grado di unione bisogna considerarsi principianti nell'apostolato, simili ad apprendisti che si applicano ad un'arte eseguendo or questo or quel lavoro, senza tuttavia essere ancora sostenuti e trasportati dall'ispirazione personale. Essendo principianti, bisogna comportarsi come tali, ossia agire con cautela, darsi all'apostolato con prudenza e misura, appunto perché, non avendo ancora raggiunto quella maturità spirituale da cui divampa spontanea la fiamma dello zelo, non si posseggono ancora quelle risorse di grazia che servono a difendere l'anima dai pericoli di un'attività esterna troppo intensa e che, nello stesso tempo, hanno la forza di rendere fecondo tutto il suo lavoro. «Qui l'anima — afferma S. Teresa di Gesù — non è ancora formata: è come un bambino che comincia a poppare, il quale se si discosta dal petto della madre non può aspettarsi che la morte. Se si allontana dall'orazione senza un'urgente necessità e non vi fa subito ritorno, temo grandemente che finisca come il bambino, andando di male in peggio» *(M.* IV, 3, 10). Notiamo che la Santa non parla qui delle anime che stanno facendo i primi passi nella vita interiore, ma di quelle che, essendo già giunte all'orazione di quiete, possono già chiamarsi proficienti; e tuttavia non è esagerato affermare che, rispetto all'apostolato, esse sono ancora principianti.
 
-In queste aper non vi è nulla di esagerato e tanto
-meno di falso: Îo Spirito Santo, sotto la cui azione l'anima si trova, non può ispirarle nulla che non sia perfettamente conforme a verità. È troppo vero che fra noi,
-povere creature, e Dio, perfezione somma ed infinita, passano una distanza ed una differenza incalcolabili; è troppo vero che, basandoci sulle nostre forze, siamo radical
-mente impotenti ad elevarci fino a Dio; è troppo vero che,
+**2** — S. Teresa di Gesù ci presenta l'anima nel momento in cui — come conseguenza della carità che l'unisce a Dio — nasce in lei la fiamma interiore dell'apostolato. Si tratta di un'anima resa dall'abbandono e dall'amore così sottomessa alla volontà di Dio «da non sapere né volere che una cosa: che Egli faccia di lei tutto quello che vuole»; e Dio, che la «ritiene tutta per sé... la segna col suo sigillo» infondendole un vivissimo dolore per i peccati degli uomini e un ardente desiderio d'imbrolarsi per la loro salvezza *(cfr. M.* V, 2, 12-14). In quest'anima la carità è cresciuta a tal punto da renderla capace di rinunciare effettivamente alla sua volontà per conformarsi in tutto alla volontà divina; anche di fronte a casi difficili ed improvvisti, che richiedono molto spirito di sacrificio, ella sa mettere da parte ogni ripugnanza e risentimento della natura, ogni veduta e desiderio personale per aderire al volere divino, sia che questo le si presenti sotto l'aspetto dei doveri quotidiani o per mezzo della voce esterna dell'obbedienza o di quella interiore dello Spirito Santo, come pure per mezzo delle circostanze della vita. È, dunque, un'anima veramente unita a Dio per amore, veramente *data* a lui, e Dio la *prende* e la lancia al servizio della Chiesa, delle anime, volendo valersi di lei per attuare il suo piano di salvezza e di santificazione dell'umanità.
 
-ardando alle nostre azioni, anche alle migliori non vi
-niente in noi che. possa meritare nè l'unione con Dio,
-nè la vita eterna. Se molti non sono convinti di ciò, ma
-
-sericordioso, ha voluto colmare l'infinita distanza che ci
-divide da lui, ha voluto chinarsi fino a noi al punto di
-rivestirci della sua vita divina e di chiamarci alla sua intimità. Quello che alla nostra miseria è assolutamente impossibile, è ben possibile all'onnipotenza di Dio ed alla
-sua infinita misericordia; ed Egli, infatti, lo vuol fare, ma
-vuole pure renderci consapevoli che questo è unicamente
-opera sua.
-
-'Nei suoi timori di non poter giungere a Dio ed alla
-salvezza eterna, l'anima deve mantenersi salda in una speranza incrollabile. Se è giusto che tema di se stessa e sia
-convinta di non poter sperare nulla dalle sue opere, è petò più che mai giusto che tutto attenda da Dio, il cui
-amore e la cui bontà superano infinitamente e la sua miseria e le sue aspettative. Comportandosi così, le angosce
-della notte dello spirito non faranno altro che radicare
-l'anima non solo in un'umiltà più profonda, ma anche in
-
-una speranza più pura, più perfetta, perchè unicamente
-appoggiata all'amore misericordioso di Dio.
-
-2 — «In questo tempo di purgazione — dice S. Giovanni della Croce — l'anima è avvolta da fitte tenebre
-nel suo intelletto... Quasi sempre [è] arida o fredda, raramente fervorosa, in nessuna cosa trova sollievo, neanche
-un pensiero che la conforti, senza poter nemmeno sollevare il cuore a Dio » (F. 1, 20).
-
-Ecco un altro motivo di pena spirituale: la secca aridità in cui l'anima si trova, l'incapacità di pensare a Dio,
-l'incapacità di aiutarsi con la considerazione delle cose
-divine. Le sembra quasi che tra lei e Dio si sia inalzato
-come un muro altissimo il quale impedisce che i suoi gemiti giungano fino a lui. È notte profonda in cui l'anima
-non può procedere che appoggiata alla fede pura e nuda
-Infatti, deve andare avanti così, credendo con tutte le sue
-forze che Dio è infinitamente buono, che Dio le vuol
-bene e ascolta il suo pianto, che Dio conosce il suo tormento e la prova unicamente per purificarla. Non è difficile che in questo stato l'anima vada soggetta a forti
-tentazioni contro la fede; possono essere, ad esempio, ten
-tazioni simili a quelle che afflissero S. Teresa del B. G
-nell'ultimo periodo della sua vita: «Il Signore — scrive
-va la Santa — permise che la mia anima fosse immersa
-nelle tenebre si fitte e che il pensiero del cielo, sì caro
-per me fino dalla mia più tenera infanzia, mi divenisse cagione di lotta e di tormento » (S?. 9). Tuttavia soggiungeva: « Per que mi manchi il conforto della fede, mi
-sforzo però di eseguirne le opere; ho rinnovato più atti
-di fede da un anno a questa parte, che non in tutto il
-corso della mia esistenza »; e, alludendo» alle sue poesie
-sulla felicità del cielo, confessava: « Quando canto De
-no possesso di Dio, non sperimento gioia veruna, perchè
-io canto semplicemente quello che voglio credere » (ivi).
-È proprio questa la condotta che l'anima deve tenere in
-rale stato: credere perchè vuol credere, senza basarsi su
-
-ciò che prova o sperimenta, ma basandositunicamente sulla parola di Dio. Questi atti di pura fede, spogli di ogni
-conforto, indipendenti da qualsiasi sentimento, sono. atti
-di fede eroica che tanto più onorano Dio quanto più si
-appoggiano unicamente alla divina rivelazione e tanto più
-uniscono l'anima a lui, quanto più sono privi di ogni soStegno umano. Le tenebre della notte dello spirito hanno
-appunto questo scopo: abituare l'anima a camminare nel
-la fede pura, nella fede eroica.
+In tal modo si destano nell'anima immense brame di apostolato, per nulla paragonabili a quelle che poteva nutrire per l'addietro: ella sente che non si appartiene più, che la sua vita è necessariamente legata a quella del divin Redentore e che, a imitazione di lui, deve dedicarla e consumarla tutta al servizio delle anime. Anche coloro che vivono apparentemente più isolati dal mondo e dal contatto esterno degli uomini — le claustrali nella loro clausura, i contemplativi nei loro eremi o deserti — giunti a questo stato, diventano eminentemente apostolici e tutta la loro vita di preghiera e di sacrificio si orienta verso un unico ideale: riparare i peccati dell'umanità, salvare le anime. Mentre i contemplativi sfogano questo zelo apostolico raddoppiando la loro immolazione nascosta, gli attivi, dediti alle opere esterne, trovano nella fiamma interiore, divampante dalla loro unione con Dio, l'impulso, la forza, il sostegno, la fecondità del loro apostolato. Ancora una volta bisogna concludere che la via per giungere al massimo rendimento apostolico è la via solitaria e silenziosa dell'unione con Dio.
 
 ### Colloquio
 
-«O Sposo mio, perchè mi ferisci con l'assenza tua questa notte piena di tenebre
-e di mestissima desolazione? Chi mi aiuterà in
-questo estremo abbandono, in questa solitudine? Oh, come sono grandi le sofferenze dell'amore, com'è grande la
-sollecitudine del cuore che non sa, nè può far altro che
-amare e non può avere chi ama!
+«Dio mio, quanto fervore e quanta forza nella carità di un'anima che è unita a te per amore! Coloro che sono così presi da te non possono limitarsi al proprio profitto personale, né contentarsene; ma, siccome sembra loro che è poco andarsene soli in cielo, con una sollecitudine e con un affetto tutto celeste e con squisite diligenze si sforzano di condurre con sé molti altri. Fa', o Signore, che simile a questo sia l'effetto del mio amore per te!» *(cfr. G.C.)*.
 
-«O mio Re clementissimo, non ho altro rimedio che
-sospirare a te; dall'intimo del cuor mio grido a te e invoco la tenerezza dell'amor tuo. Ricordati di me, o speranza mia, e considera l'amarezza della ripulsa e la durata dell'abbandono che mi consumano.
+«O Signore, da un'anima già risoluta ed interamente rimessa nelle tue mani, Tu non vuoi altro che desideri e cerchi quanto può di risultare alla tua maggior gloria.
 
-«Non mi abbandonare, o dolcissimo Figliolo della
-Vergine, poichè nacque insieme con te la misericordia
-dal seno della purissima Madre tua. Guarda, o Signore,
-come tutte le mie forze sono venute meno e senza di te
-sono oppresso dall'orrore e dall'ombra della morte.
+«Oh, la carità di coloro che ti amano veramente! Che riposo potrebbero mai avere se vedessero di poter contribuire, fosse pure per poco, acciocché un'anima si avanzasse e ti amasse di più, o solo per darle una consolazione e liberarla da un pericolo? Come diverrebbe insopportabile il loro riposo personale!
 
-« Abbi pietà di me, Amico mio, poichè, consumate
-tutte le forze, solamente mi son rimaste le labbra e la
-lingua per gridare a te. O vita immortale e fonte d'acqua viva, non mi privare con tanto rigore della tua presenza che mi è più cara della vita. Non mi riposerò mai,
-o dolcissimo Figliolo di Dio, nè cesserò mai di gemere e
-di supplicare fino a che non rivolga verso di me il tuo
-sguardo misericordioso » (Ven. Giovanni di G.M., O.c.d.).
+«Oh, Signore, afflitto per la rovina di tante anime, se non posso giovare ad esse con le opere, voglio importunarti con la preghiera. Voglio rinunciare ad ogni mio contento, e lo stimo per ben perduto, voglio dimenticarmi totalmente di me stessa per non pensare che al modo migliore di compiere la tua volontà.
+
+«Dio mio, più il tempo passa, più cresce in me il desiderio di contribuire al bene di qualche anima parendomì, molte volte, di essere come una persona in possesso di un grande tesoro, desiderosa di farne parte a tutti, ma impotente a distribuirlo perché con le mani legate. Non potendomi più contenere, innalzo a te la mia voce, supplicandoti di fornirmi qualche mezzo per cooperare a guadagnare almeno qualche anima al tuo servizio» *(T.G. Fd.* 5, 6 e 5; 1, 6 e 7).

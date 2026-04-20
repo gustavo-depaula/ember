@@ -1,49 +1,39 @@
-## 323 — THE FORMATION OF APOSTLES
+## 323 — ZEAL FOR SOULS
 
 ### Presence of God
 
-Accept, Lord, my poor prayer for the coming of your kingdom.
+O Jesus, who gave Yourself for salvation of world, kindle in my heart great zeal for salvation of souls.
 
 ### Meditation
 
-As for the apostolate of prayer and sacrifice, no caution is needed, since the more a soul devotes itself to these, the more it will benefit the good of neighbor and at the same time draw great profit for its own sanctification. In fact, the weapons of the interior apostolate coincide perfectly with the fundamental exercises of the spiritual life.
+1. — As love of God takes possession of our hearts, it causes to be born and nourished in them ever greater love for neighbor; and this love, being supernatural, aims above all at supernatural good of our brethren and therefore becomes zeal for salvation of souls.
 
-The same cannot be said of the external apostolate, which by its very nature necessarily requires concerns and occupations different from those regarding one’s own individual profit.
+If we love God little, we shall love souls little as well; and conversely, if our zeal for souls is weak, it means our love for God is equally weak. How would it be possible to love God greatly without greatly loving those who are his children, object of his love, his care, his zeal? Souls are, so to speak, treasure of God. He created them in his image and likeness in act of love. He redeemed them in Blood of his Only-Begotten in act of still greater love: "God so loved world as to give his only-begotten Son, that whoever believes in Him may not perish, but may have life everlasting" (Jn. 3:16).
 
-A soul only little initiated into the interior life cannot have the capacity to attend at once to its own sanctification and that of others, but must have time first to concentrate its strength on its own spiritual formation.
+Whoever has penetrated mystery of God's love for men cannot remain indifferent to their destiny. In light of faith he has understood God's whole action in world aims at their good and eternal happiness, and he wants in some way to take part in this action, certain he cannot do anything more pleasing to God than offer his humble cooperation for salvation of those so dear to Him.
 
-Besides, if the apostolate draws its efficacy from the degree of love and union with God reached by the one who practices it, it is clear that a beginner will not yet be capable of a fruitful apostolate. To engage too early in apostolic activity therefore means dispersing one’s energies uselessly, with the consequence of harming one’s interior life and bearing no fruit for others.
+Such has always been ardent desire of saints, a desire that led them to heroic generosity for good of one soul alone. "This," writes St. Teresa of Jesus, "is inclination the Lord has given me. It seems He esteems one soul that by our efforts and prayers, by his mercy, we win for Him, more than all services we can render Him" (Foundations).
 
-Jesus Himself, although as God He had absolutely no need of it, wished to devote the first thirty years of His life to prayer and recollection, as if to show us that before launching oneself into the external apostolate one must mature the spirit in the exercises of the interior life.
+It is true, primary end of God's action is his glory; but this glory, because He is infinitely good, He loves to procure particularly through salvation and happiness of his creatures. In fact nothing more than salvific work for men exalts his goodness, love, and mercy. Therefore to love God and his glory means to love souls, to labor and sacrifice for their salvation.
 
-For the Apostles something similar happened: the three years spent with Jesus were years of true formation. The Lord instructed them, warned them, taught them to pray and to practice the virtues, and only now and then, timidly, to let them make trial of it, entrusted them with some mission.
+2. — Zeal for souls is born from charity, born from contemplation of Christ crucified. His wounds, his Blood, agonizing pains tell us how much souls are worth in God's sight and how much God loves them. Yet this love is not returned, and ungrateful men seem ever more to flee his action. This is sad spectacle of every age, renewed also today, as if to insult Jesus and renew his Passion.
 
-Then, before sending them definitively to conquer the world, He wanted them to temper their spirit by nourishing themselves with His Flesh, witnessing His Passion, and finally gathering in the Cenacle to await the coming of the Holy Spirit.
+"All world is in flames: the impious, so to speak, yearn to condemn Jesus Christ again; they raise against Him countless calumnies and strive in a thousand ways to destroy his Church." If Teresa of Jesus could say this of her century tormented by Protestant heresy, much more can we say it of ours, in which struggle against God and Church has increased beyond measure and spread throughout world.
 
-Thus genuine Catholic practice demands that, before going out into the field, apostles prepare themselves through the exercise of an intense interior life, so as to become fit and fruitful instruments for the good of souls.
+Blessed are we if we can repeat with Saint: "Loss of so many souls breaks my heart. I would not that number of reprobate increase ... It seems to me that to save one soul of many lost, I would sacrifice my life a thousand times" (ibid.). But it is not enough to formulate desires; one must do, act, and suffer for salvation of brothers.
 
-The urgency of apostolic needs, ever more pressing today, cannot justify hasty preparation for apostolate. What would it profit to throw into the fray a greater number of persons if these, for lack of formation, were incapable not only of gaining ground but even of withstanding the clash of hostile forces?
+St. John Chrysostom says: "Nothing is colder than Christian who does not care for salvation of others." This coldness is consequence of very languid charity. Let us kindle and revive charity, and zeal for salvation of souls will be enkindled in us. Then our apostolate will no longer be only duty imposed from outside that we necessarily perform by obligation of our state, but requirement of love, flame spontaneously bursting forth from interior heat of charity.
 
-Enthusiasm and good will are not enough. There must be robustness of interior life, firmness of ideas and resolutions, a spirit of sacrifice and union with God; otherwise, far from helping the good of others, one will endanger the fate of the apostles themselves.
-
-The urgency of apostolate must be met first of all by intensifying the formation of those who dedicate themselves to it, because only souls anchored in God by an intense interior life will be capable of sustaining the sometimes overwhelming momentum of external activity and of vivifying that activity with the flame of love.
-
-«One perfect man,» says St. Teresa of Jesus, «does much more than a great number of imperfect ones» (*Way of Perfection*). It is therefore of the highest importance that those who give themselves to apostolate be seriously set on the way to perfection, toward holiness. Only thus will they be able to give God to souls and bring souls to God.
-
-The whole history of the Church is a practical demonstration of this principle: «One alone was St. Paul, and how many he drew!... If all Christians were like St. Paul, how many worlds they could convert!» (St. John Chrysostom). The holy Curé of Ars had very few human resources, yet he converted an immense number of souls precisely by the power of his holiness, his love, and his union with God.
-
-The pressing demands of the external apostolate highlight more than ever the need for well-formed apostles, for apostles of profound interior life, for holy apostles. Therefore, even when the period of formation has ended, one must always remain vigilant lest external activity in any way diminish interior life.
-
-One must always maintain balance between prayer and work so that the apostle does not exhaust his spiritual energies, but has sufficient time to replenish himself, to renew and maintain intimate contact with God.
+Giving oneself to interior life does not mean shutting oneself in ivory tower to enjoy God's consolations undisturbed while unconcerned for others' good. It means concentrating all one's powers in seeking God and laboring for one's sanctification so as to become pleasing to God and thus acquire power of action and intercession by which to obtain salvation of many souls.
 
 ### Colloquy
 
-«O Lord, I greatly desire that, since You have so many enemies and so few friends, these at least may be devoted to You. Therefore I resolve to do the little that depends on me: to observe the evangelical counsels with every possible perfection and to pray for the defenders of the Church, for preachers, for the learned who support her.
+"O my sweet Lord, how unworthily are You persecuted by those to whom You have done so much good! Truly these traitors seem to want to crucify You once more, leaving You no place to rest your head. I cannot fix my gaze on this spectacle, O my Redeemer, without feeling my heart break.
 
-«O Lord, since I am not strong enough to defend your Church directly, I want at least to make my prayers strong in order to help these your servants, who with so many efforts and labors have armed themselves with learning and good life, and now toil to defend your name.
+"Consider, O eternal Father, that so many scourges, outrages, and most tormenting sufferings are not things to be forgotten. Is it possible, my Creator, that so affectionate a Heart as yours should endure that in our days so little account is made of what your Son accomplished with so much love, solely to please You and obey your commands, when You enjoined Him to love us even to remaining in Most Blessed Sacrament, now outraged by heretics who destroy his tabernacles and demolish his churches?
 
-«My God, I would like to be such as to merit from You these two things: first, that among the great number of holy and learned persons who today defend the Church, there may be many who possess the needed qualities, and that You grant them to those who do not possess them fully, because one perfect man does much more than a great number of imperfect ones.
+"Must your Son do something else to content You? Has He not already done everything? Is it possible that every time we offend You again, this most innocent Lamb must always pay? Permit it no more, O my sovereign Lord! Let your divine Majesty now be appeased. Rather than consider our sins, remember your most holy Son redeemed us. Remember his merits, merits of his most glorious Mother, and those of so many saints and martyrs who died for You!
 
-«And second, that once they have entered this struggle, You sustain them with your hand, so that they may guard themselves from all dangers of the world and cross this stormy sea with ears closed to the song of the sirens. If with You, my God, I can do anything in this, behold I too fight for your glory, although enclosed in solitude.
+"Oh, shame!... How do I dare make this prayer to You? Before my boldness You have every reason to be more indignant. Yet, O Lord, do not forget You are God of mercy: have pity then on this unworthy sinner, this miserable worm who lets herself be carried to such audacity.
 
-«I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me ...»
+"Look at my desires and tears accompanying my prayer, and forgetting my sins, I beg You, for what You are, my God, have pity on many souls that are being lost, and protect your Church" (St. Teresa of Jesus, Way of Perfection).

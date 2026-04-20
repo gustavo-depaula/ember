@@ -1,98 +1,35 @@
-## 322 — VERSO LA PATRIA
-*XX domenica dopo Pentecoste*
+## XXX — INCONTRO ALLO SPIRITO SANTO
 
-### Presenza di Dio
-
-O Signore, insegnami la via per giungere a te.
+**Presenza di Dio.** — *Vieni, Spirito Santo, investimi con la tua azione e conducimi a Dio.*
 
 ### Meditazione
 
-coste ha un tono particolare, il tono delle cose che volono al termine; infatti fra non molto l'anno liturgico
-nirà e, finendo, c'invita a riflettere sulla caducità della
-vita presente e a rivolgere gli sguardi all'eterna che ci
-aspetta. Spontancamente gli animi si raccolgono nella revisione delle proprie posizioni; come abbiamo impiegato
-il tempo ricevuto da Dio? Nell'Introito troviamo l'umile
-confessione: « O Signore, peccammo contro di te, nè osservammo i tuoi precetti » e nella Colletta la domanda del
-perdono: «Deh, Signore, Dee placato ai tuoi fedeli il
-perdono e la pace ». S. Paolo poi, nell Epistola (Ef. 5.
-15-21), c'insegna ad usare nel miglior modo il tempo che
-ci resta onde pervenire alla gloria eterna: « State bene attenti a come vi portate; non da insì) enti, ma da saggi,
-valendovi del tempo opportuno, perchè i giorni sono cattivi». L'Apostolo ci spiega in che cosa deve consistere
-la nostra saggezza : « Non siate imprudenti, ma cercate di
-capire qual'è la volontà di Dio ». La maggiore stoltezza
-e imprudenza che si possa commettere nel viaggio di questa vita è quella di seguire il proprio capriccio, la propria volontà; in tal modo si batte una strada molto pericolosa e che non condurrà mai alla meta, mentre l'unica
-via che vi giunge è quella della volontà di Dio. Chi cerca con sincerità la volontà divina e cammina în essa, anzichè essere guidato dallo spirito proprio, è guidato dallo
-Spirito di Dio, lo Spirito Santo, e può quindi essere sicuro di non sbagliare. « Siate ripieni dello Spirito Santo
+**1** — Considerando i doni dello Spirito Santo e le beatitudini che ne sono i frutti, comprendiamo sempre meglio di quali meravigliose ricchezze Dio ci ha dotato. Fin dal giorno del nostro battesimo, ogni cristiano possiede questi doni preziosi; non è quindi temerario desiderare che essi si sviluppino in noi fino alla maturità, sì che la nostra anima possa essere totalmente investita dall'azione dello Spirito Santo. Anzi, con questo desiderio andiamo incontro al desiderio stesso di Dio che ci ha dato questi doni appunto perché possiamo essere mossi e guidati dal suo Spirito, «giacché coloro che son guidati dallo Spirito di Dio, questi son figli di Dio» *(Rom.* 8, 14). E se noi desideriamo essere veri figli di Dio, non lo desidera forse immensamente di più il Padre celeste che appunto per questo ci ha creati ed elevati allo stato di grazia?
 
-— ci esorta oggi S. Paolo — trattenendovi con salmi,
-inni e canti spirituali, cantando e salmodiando di cuore
-al Signore... sottomettendovi gli uni agli altri». Quando
-un'anima si lascia docilmente guidare dallo Spirito Santo, Egli la prende e la invade fino a riempirla di sè; da
-questa pienezza fiorisce spontaneo lo spirito di preghiera, fiorisce spontanea la virtù, l'umile sottomissione e Ja
-concordia fraterna.
+Slanciamo, dunque, le nostre anime a grandi desideri: no, non è troppo, non è temerario, non è presunzione; Dio lo vuole: «voluntas Dei sanctificatio vestra» *(I Tes.* 4, 3), questa è la volontà di Dio, la santificazione di ciascuno di noi. Perché i nostri desideri non siano vani, applichiamoci con generosità sempre crescente a disporre la nostra anima all'azione dello Spirito Santo. Persuadiamoci che, prima di farci gustare Dio e la sua divina unione, il divino Paraclito deve compiere in noi un'opera di profonda purificazione, perché come il legno verde non può essere penetrato dal fuoco se prima non è disseccato e purgato da tutti i suoi umori, così l'anima non può essere investita e trasformata dal fuoco delle divine perfezioni. Disponiamoci, quindi, a subire con coraggio questa purificazione indispensabile, anzi, cerchiamo noi stessi di anticiparla tagliando senza pietà tutti i fili che ancora ci legano alla terra e, soprattutto, quelli che ci legano al nostro amor proprio, al nostro orgoglio. «O umiltà, umiltà!... — esclama Teresa di Gesù — il torto di coloro che non vanno avanti [nelle vie dello spirito], sta tutto qui», nella mancanza di umiltà, «perché l'umiltà è il fondamento dell'edificio e non mai il Signore lo eleverà di molto se detta virtù non sarà veramente ben salda» *(M.* III, 1, 7; 2, 8; VII, 4, 8).
 
-Camminare nella volontà divina, guidati dallo Spirito
-Santo, è la via più rapida e sicura per giungere alla patria celeste,
+**2** — Alla generosità, al distacco ed all'umiltà uniamo la fervorosa preghiera per invocare l'opera dello Spirito Santo. Eleviamo a lui le nostre suppliche con le parole stesse della Chiesa:
 
-lontà divina senza la fede; il Vangelo odierno (Gv, 4.
-46-53) ci parla proprio della fede e delle qualità che questa deve avere per piacere a Dio.
+«Veni, Creator Spiritus...
+*Accende lumen sensibus — infunde amorem cordibus,
+infirma nostri corporis — virtute firmans perpeti».*
 
-Un ufficiale del re, avendo sentito parlare delle guarigioni meravigliose operate da Gesù, va da lui e lo prega di andare a casa sua per « guarirgli il figliolo, il quale
-sta per morire». Quest'uomo ha fede nella virtù taumaSrna del Maestro, ma è ben lontano dal credere che Egli
-è il Figlio di Dio. Gesù comprende e risponde: «Se voi
-non vedete dei segni e dei prodigi non credete ». Queste
-parole, rivolte storicamente al regolo e ai suoi compaesani, valgono moralmente per tutti coloro che fanno dipendere la loro fede da ciò che si vede o si sente, Sono pochi quelli 'che credono con semplicità al Vangelo, alla
-Rivelazione, al magistero della Chiesa; i più rimangono
-indifferenti e si scuotono solo di fronte a qualche fatto
-insolito che colpisce i loro sensi. È vero che il Signore
-si può servire anche di ciò per aiutare la nostra debolezza, ma non è questa la fede che piace a lui: «Beati coloro che hanno creduto e non videro » (Gv. 20, 29), disse
-a Tommaso che non voleva credere se non vedeva il foro dei chiodi e se non metteva il dito nelle piaghe. Il
-motivo profondo della fede non è la nostra esperienza,
-non è l'aver visto 0 toccato con mano, ma è l'autorità
+Nell'oscurità dei nostri sensi, abbiamo bisogno di luce interiore: che il Divino Spirito venga e, accendendo in noi questa luce, ci faccia conoscere Dio per mezzo della contemplazione amorosa delle sue grandezze. Abbiamo bisogno di carità: che Egli venga e l'infonda nei nostri cuori spesso tanto aridi e freddi, perché pieni di amor proprio e di egoismo. «L'amore divino si è riversato nei nostri cuori per lo Spirito Santo» *(Rom.* 5, 5), solo da lui possiamo riceverlo! Abbiamo bisogno di forza per vincere noi stessi, per affrontare le difficoltà, per mantenerci sereni e generosi; che Egli venga a sostenerci coi suoi doni e non seguiremo più le sciocche esigenze dell'amor proprio; non ci lasceremo più spaventare, impressionare dalla sofferenza, dalle difficoltà; non perderemo così facilmente la pace in mezzo alle contraddizioni: forti della sua fortezza potremo mantenere quell'equilibrio interiore e quella serenità che ci permetteranno di essere sempre generosi, sempre in atto di donarci totalmente a Dio.
 
-di Dio; Dio si è rivelato, Egli non s'inganna, nè può inmnare e noi crediamo sicuri sulla sua parola. Credere
-sulla parola di Dio, ecco la fede genuina, la fede pura
-che piace al Signore.
+«Hostem repellas longius — pacemque dones protinus...»
 
-Gesù, che voleva condurre il regolo a questa fede,
-gli disse: «' Va”, tuo figlio vive'. E quell'uomo credette
-alla parola detta da Gesù e partì ». Non era ancora la
-fede soprannaturale nel Figlio di Dio, tuttavia era un atto
-di fede nella parola del Maestro e, benchè atto imperfetto, produsse il suo frutto: il figlio guarì. Il Signore
-non pretende più di quanto ognuno può dargli; vista la
-buona volontà, visto lo sforzo sincero, interviene lui stesso a perfezionare l'opera. Così la fede imperfetta e ancora umana del regolo fu premiata con la guarigione del
-figliolo e, in conseguenza, la fede di lui diventò soprannaturale: credette in Gesù non più come in un semplice
-profeta o taumaturgo, ma come nel Figlio di Dio; « credette Ini e tutta la sua famiglia ». ;
+Quando lo Spirito Santo ci avrà condotti a quel perfetto equilibrio, che è la santità stessa, non avremo più nulla da temere dal demonio; il maligno fuggirà lontano e, se qualche volta riuscirà ancora a turbarci, non potrà fare altro che giungere alla soglia della sensibilità, mentre — sotto la valida protezione dello Spirito Santo — il fondo dell'anima nostra rimarrà nella pace.
 
-In questa vita noi camminiamo verso Dio non nella
-visione, ma nella fede; quanto più la nostra fede sarà pura, spoglia di clementi umani, tanto più piacerà a Dio e
-ci permetterà di conoscere e di fare con amore la sua
-santa volontà.
+L'equilibrio pieno e la pace perfetta sono le caratteristiche della vita di unione con Dio: lo Spirito Santo c'introdurrà e ci farà progredire in questa unione, sino a farci penetrare nel santuario della vita intima di Dio, nella vita Trinitaria. Questo è il più bel frutto della sua azione nelle anime nostre: frutto squisito, pegno della gloria eterna, frutto che maturerà perfettamente in cielo, nella visione beatifica del nostro amatissimo Dio.
 
 ### Colloquio
 
-«Sii propizio ai tuoi figlioli, o Maestro divino, Padre.
-Signore. Concedi a noi, che seguiamo i tuoi precetti, di
-rispecchiare la tua immagine e di sperimentare, secondo
-le nostre forze, la tua bontà e non la severità del tuo
-giudizio. ; ' : 4
+«O Spirito Santo, Tu vai traendo, per dir così, dalla gloria del Padre un raggio candidissimo e luminosissimo di gloria e dal Verbo Incarnato una saetta ardentissima e pungentissima d'amore per illuminare ed ottenebrare, per ferire e sanare, per accendere, per raffreddare, per avvilire o abbagliare, per far gloriose le creature che ti ricevono nel loro cuore e per farle camminare con amore. E chi può mai dire quali e quanti siano i tuoi influssi? Son tanti e tanti che sono senza numero.
 
-«Concedici di vivere tutti nella tua pace, di essere
-ammessi nel tuo regno, dopo aver attraversato senza natfragio le onde del peccato, spinti innanzi in piena bonaccia dallo Spirito Santo, tua Sapienza ineffabile, e da
-lui guidati notte e giorno, fino al giorno perfetto. Concedici sino all'ultima ora di pregare ringraziando e di ringraziare pregando l'unico Padre e Figlio, Figlio e Padre,
-il Figlio educatore e maestro, insieme con lo Spirito Santo » (Clemente di Alessandria).
+«Ma dove vai Tu infondendo i tuoi doni e le tue grazie? Nelle anime che trovi disposte: quelle rinnovi e le conduci all'intendimento di Dio. Che cosa è dunque, Dio mio, quello che priva l'anima del tuo Spirito? E' il perverso amor proprio, fonte e origine d'ogni peccato. Oh, purtroppo, ben vedo come stia il mondo tutto sommerso ed annegato nell'amor proprio! Chi con l'intelletto, chi con la memoria, chi con la volontà, chi con tutta l'anima va sommergendosi in esso. E quel che più ti dispiace, o Dio, è che questo perverso amor proprio abiti anche nei tuoi ministri e nelle tue spose. Non ci paia piccolo il disordine del nostro amor proprio, del nostro proprio volere. Non bisognano monti di peccati enormi, basta l'arena di questi difetti — che sembrano piccoli e non lo sono — a trattenere il corso di questo rapido fiume ed oceano della grazia!
 
-«Signore, Tu conosci che cosa sia meglio per me;
-sia fatto questo o quello, secondo la tua volontà. Dammi
-ciò che vuoi e quando vuoi. Opera con me come Tu sai
-essere meglio, come a te piace, e secondochè sarà a tuo
-maggior onore. Mettimi dove vuoi e disponi di me liberamente in ogni cosa. Io sono nelle tue mani, fa' di me
-quello che credi. Ecco, io sono tuo servo, disposto a tutto, poichè non desidero di vivere per me, ma soltanto per
-te, e ciò possa almeno fare degnamente e perfettamente!
+«O Spirito Santo, purifica, purifica il mondo tutto, purifica l'anima mia dall'amor proprio perché più non ci ritorni!» *(cfr. S. M. Maddalena de' Pazzi)*.
 
-«O benignissimo Gesù, concedimi ch'io possa sempre
-desiderare e volere solo ciò che è a te più gradito e più
-caro; la tua volontà la mia, la mia segua sempre la
-tua e le si accordi completamente. Il mio volere o non
-volere sia sempre uguale al tuo, Signore, in modo che io
-non possa desiderare o disprezzare se non ciò che Tu
+«O Spirito Santo e Santificatore, Dio onnipotente, amore essenziale del Padre e del Figlio, nodo adorabile dell'augusta Trinità, io ti adoro e ti amo con tutto il mio cuore. Sorgente inesausta di grazie e di amore, rischiara la mia mente, santifica l'anima mia ed infiamma il mio cuore. Dio di bontà e di misericordia, vieni a me: visitami, riempimi, resta in me, fa del cuor mio un tempio ed un santuario animato dove Tu possa ricevere le mie adorazioni ed i miei omaggi e trovare le tue delizie. Sorgente d'acqua viva, che zampilli sino alla vita eterna, irriga, abbevera l'anima mia che ha sete della giustizia. Fuoco sacro, purificami, fa' ch'io bruci delle tue fiamme ed esse in me giammai si estinguano. Luce ineffabile, illuminami; Santità perfetta, consacrami; Spirito di verità, senza di te sono nell'errore; Spirito di amore, senza di te sono ghiaccio; Spirito di unzione, senza di te sono nell'aridità; Spirito di vita e vivificante, senza di te sono nella morte.
+
+«O Spirito divino, fa' al cuore mio una dolce violenza per impegnarlo a desiderarti, a cercarti, ad amarti, ed a possederti nel tempo e nell'eternità. Così sia» *(P. Aurillon)*.

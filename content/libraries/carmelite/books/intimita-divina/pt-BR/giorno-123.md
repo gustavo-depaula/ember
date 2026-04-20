@@ -1,110 +1,20 @@
-## 123 — DIFICULDADES DA OBEDIÊNCIA
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-— Ensina-me, ó Jesus, o segredo da obediência humilde que se submete a qualquer superior e a qualquer comando.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — Embora a obediência seja tão preciosa a ponto de pôr
-toda a vida na vontade de Deus, ela apresenta, contudo,
-suas dificuldades, as quais derivam em grande parte do fato
-de que a própria obediência não nos vem imediatamente de
-Deus, mas através de seus representantes. Acontece assim
-que muitas vezes nos esquecemos de ver Deus nos
-superiores e de reconhecer na autoridade deles a sua. Quando, por exemplo - coisa que acontece facilmente na vida
-religiosa - nos encontramos tendo como superior um antigo
-colega ou talvez até um antigo discípulo, mais jovem e
-menos experiente do que nós, de quem se conhecem muito bem
-as lacunas e os defeitos, pode-se ser tentado a não ter bastante estima por sua autoridade, a não dar bastante valor às suas ordens. Então a vida de obediência se torna
-particularmente difícil, custa submeter-se, não se
-recorre ao superior com confiança filial e, o que é pior,
-crê-se ter razão. Há, ao contrário, um grave erro
-de perspectiva; esqueceu-se que o superior, quem quer
-que seja, reveste sempre uma autoridade que vem de Deus e que repousa sobre ele unicamente porque foi chamado para tal
-ofício. Essa autoridade é invariável e tem o mesmo valor
-tanto no superior idoso quanto no jovem,
-tanto no experimentado e virtuoso quanto em quem o é menos.
-No fundo, se nos encontramos nessas dificuldades, devemos
-acusar nossa falta de espírito sobrenatural, de
-espírito de fé. Julgamos as coisas espirituais segundo
-vistas naturais, do ponto de vista dos valores humanos, e desse
-modo nos é impossível entrar bem na vida de obediência,
-que, ao contrário, é toda baseada em valores e motivos sobrenaturais. É preciso saber evadir-se das considerações humanas
-sobre a pessoa do superior, do pensamento de suas qualidades ou
-de seus defeitos, do que foi no passado, etc., para
-ver nele unicamente o representante de Deus, a autoridade
-divina. É verdade, isso às vezes pode exigir luta
-e esforço realmente grandes, e, contudo, é absolutamente necessário empreendê-los se não se quiser perder o
-fruto da vida de obediência. É certo que quanto mais
-nos esforçarmos por considerar nos superiores a autoridade que
-vem de Deus, tanto mais nossa obediência será perfeita
-e meritória, e o próprio Deus se encarregará de guiar-nos através do governo deles.
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — Muitas vezes, para não dizer sempre, à falta
-de espírito sobrenatural se junta a falta de humildade.
-Custa ao amor-próprio depender e submeter-se; custa
-submeter as próprias coisas ao juízo e ao governo de
-outra pessoa e render-se às suas decisões. Custa
-sobretudo quando o superior pode parecer-nos, ao menos sob
-certos aspectos, quase inferior a nós, inferior em idade, em
-cultura, em experiência, em capacidade; e eis que o eu,
-tocado em seu orgulho, recalcitra fortemente, mascarando
-sua resistência com mil desculpas. Contudo, também aqui
-há um grave erro, porque, ainda concedendo que
-na realidade possam haver no superior algumas dessas inferioridades,
-não devemos deter-nos nelas, mas só no fato
-de que o superior é sempre tal em relação a nós
-porque assim Deus o constituiu. Superior porque Deus
-o preposto ao nosso governo, superior porque Deus lhe
-deu a missão de dirigir-nos em seu lugar; suas qualidades
-ou deficiências pessoais não incidem sobre a superioridade que
-Deus lhe conferiu. Certamente o superior, da sua parte,
-deve esforçar-se por adquirir, caso não as possua, as
-virtudes e capacidades necessárias ao exercício do ofício que
-ocupa, mas isso é assunto dele; da nossa parte - da
-parte dos súditos, isto é - há uma só coisa a fazer: submeter-
-se com humildade filial, deixar-se guiar, deixar-se governar. É propriamente questão de humildade, porque no fundo humilhar-se quer dizer abaixar-se, quer dizer pôr-se no próprio
-lugar; e o lugar do súdito diante dos superiores é sempre
-o de uma humilde dependência. Consideremos a obediência
-de Jesus e veremos nela essa atitude de humildade
-levada ao máximo: embora sendo Deus, "aniquilou-se a si mesmo,
-assumindo a condição de servo e tornando-se semelhante aos homens; ... humilhou-se a si mesmo, fazendo-se obediente até a morte,
-e morte de cruz" (Fl. 2, 7 e 8). Que é o nosso
-abaixar-nos, que é o nosso submeter-nos e depender
-dos superiores em comparação com os profundos abaixamentos de
-Jesus que, sendo Deus, quis fazer-se homem, quis
-viver como um homem qualquer, submetendo-se às suas próprias
-criaturas?
-Persuadamo-nos de que, se nossa obediência é defeituosa, quase sempre isso depende de falta de humildade.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
+
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"Meu doce Salvador, poderei ver-te obediente, por
-amor de mim, às tuas criaturas, e recusar ser eu, por
-amor de ti, àqueles que te representam? Poderei ver-te
-obediente por amor de mim até a morte, até a morte de
-cruz, sem abraçar amorosamente esta virtude e a
-cruz na qual Tu a consumaste?
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-"Quero esforçar-me, quanto mais puder, para imitar
-teus exemplos, obedecendo por amor de ti a toda criatura,
-seja superior, igual ou inferior, em todas as coisas,
-sem réplica, murmuração ou demora, mas alegre e
-amorosamente. Por isso não quero indagar por que motivo me é ordenada esta ou aquela coisa; muito menos
-quero considerar o modo como me é mandada ou a
-pessoa que a manda; no comando quero considerar só tua vontade, deixando-me, à tua imitação,
-mover em qualquer direção, por qualquer pessoa, em
-coisas agradáveis ou penosas, convenientes ou desairosas.
-Não importa! Faça de mim a obediência o que quiser.
-
-"Ó Jesus, que ao preço da tua vida quiseste reparar a desobediência de Adão e a minha; ó Jesus, que
-mediante tua morte me adquiriste a graça de saber
-obedecer, já não quero vida senão para sacrificá-la a ti
-mediante uma contínua e perfeita obediência" (S. Francisco de Sales).
-
-"Ó Senhor, Tu queres, é verdade, infundir a obediência
-em nossos corações, mas o que a impede é não querer
-reconhecer que Tu falas e operas nos superiores;
-e é ainda o estar apegado à própria vontade" (S. Maria Madalena de' Pazzi).
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

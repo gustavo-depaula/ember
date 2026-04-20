@@ -1,92 +1,29 @@
-## 349 — IL GRANELLO DI SENAPA
-*XXIV domenica dopo Pentecoste - VI dopo l'Epifania*
+## 27 — I NOSTRI DOVERI
 
-### Presenza di Dio
+*XXII Domenica dopo Pentecoste*
 
-O Signore, venga il tuo regno su tutta la terra; venga il tuo regno nel mio cuore.
+**Presenza di Dio.** — *Insegnami, Signore, a compiere tutti i miei doveri in ossequio alla tua sovrana Maestà.*
 
 ### Meditazione
 
-1 — Dai testi della Messa odierna emerge la parabola
-del granello di senapa, tanto breve, ma tanto ricca di significato: «Il regno dei cieli è simile a un granellino di
-senapa che un uomo prende e semina nel campo; esso è
-il più piccolo di tutti i semi, ma quando è cresciuto è il
-più grande di tutti gli erbaggi e si fa un albero; tanto
-che gli uccelli del cielo vengono a riposarsi tra i suoi
-rami» (Vg.: Mt. 13, 31-35). Nulla di più piccolo e di
-più umile del «regno dei cieli», ossia della Chiesa alle sue origini: Gesù, che ne è Capo e fondatore, nasce in una grotta di animali, vive per trent'anni nella
-botteguccia di un fabbro e per soli tre anni svolge la
-sua opera in mezzo a povera gente predicando una dottrina così semplice che tutti, anche gli illetterati, possono intenderla. Quando Gesù lascia la terra, la Chiesa è
-costituita da un esiguo gruppo di dodici uomini, raccolti
-intorno ad un'umile donna, Maria; ma questo primo nucleo ha una forza così vitale, così possente che in pochi
-anni si diffonde in tutte le terre del vasto impero romano. Via via attraverso i secoli, la Chiesa, da minuscolo
-granello di senapa seminato nel cuore di una Vergine-Madre di poveri pescatori, diventa un albero gigantesco
-che stende i suoi rami in ogni regione del globo e alla cui
-ombra si rifugiano genti di ogni lingua e di ogni popolo.
+**1** — Gli insegnamenti contenuti nella Messa di questa domenica si possono sintetizzare nella nota frase di Gesù, che proprio oggi leggiamo nel Vangelo *(Mt.* 22, 15-21): «Rendete a Cesare quello che è di Cesare, e a Dio quello che è di Dio»; in altre parole: adempite con esattezza i vostri doveri verso Dio e verso il prossimo, dando a ciascuno il suo.
 
-La Chiesa non è una società di soli uomini, ma di
-uomini che hanno per capo Gesù, il Figlio di Dio; la
-Chiesa è il Cristo totale, ossia Gesù più i suoi fedeli incorporati a lui e formanti con lui un unico corpo; la
-Chiesa è il Corpo mistico di Cristo di cui ogni battezzato è un membro. Amare la Chiesa è amare Gesù; lavorare per la diffusione della Chiesa è lavorare per l'incremento del Corpo mistico di Cristo, affinchè sia completo il numero dei suoi membri e ogni membro cooperi
-al suo splendore. La breve invocazione: « adveniat regnum tuum», indica tutto ciò e tutto ciò sollecita dal
-Padre celeste.
+L'Epistola *(Fil.* 1, 6-11) ci presenta S. Paolo come modello di carità verso coloro che Dio ha sottoposto alle nostre cure. «Vi ho nel cuore — scrive l'Apostolo ai Filippesi — come quelli che, e nelle mie catene, e nella difesa e nella confermazione del Vangelo, siete tutti compagni a me nella grazia». Paolo sente vivamente la sua paternità spirituale verso le anime che ha generato a Cristo; anche da lontano si sente responsabile della loro buona riuscita, si preoccupa della loro perseveranza nel bene, li sostiene col suo affetto paterno e con i suoi saggi consigli: «[Sono] persuaso che Chi ha cominciato in voi l'opera buona, la compirà fino al giorno di Gesù Cristo». Non vuole che si sgomentino per la sua lontananza: egli non è che un povero strumento, Dio solo è la vera guida delle anime e Dio continuerà l'opera incominciata; quanto a lui, siano certi che non cessa di amarli: «Dio mi è testimone che io voglio bene a tutti voi nelle viscere di Cristo Gesù».
 
-È poco quello che possiamo fare per la diffusione della Chiesa? Facciamolo almeno con tutto il cuore, cooperiamo anche noi con la nostra povera opera, vero granello di senapa, allo sviluppo di quest'albero meraviglioso,
-all'ombra del quale tutti gli uomini devono trovare salvezza e riposo.
+S. Giovanni Crisostomo dice che il cuore di Paolo è il cuore di Cristo, a motivo del suo grande amore per le anime che lo rende tanto simile al Redentore; così dovrebbe potersi dire del cuore di ogni apostolo. Quando Dio ha messo un'anima sul nostro cammino e ci ha chiesto di occuparci di lei, non possiamo più disinteressarcene; quell'anima è ormai legata alla nostra, dobbiamo sentircene responsabili, dobbiamo sentirci impegnati ad aiutarla sino alla fine.
 
-2 — La parabola del granello di senapa ci fa pensare
-non solo allo sviluppo del regno di Dio nel mondo, ma
-anche allo sviluppo di questo regno nel nostro cuore.
-Non ha detto forse Gesù: «Il regno di Dio è dentro di
-voi »? (Lc. 17, 21). Ebbene, anche in noi questo regno
-meraviglioso ha avuto i suoi inizi da un piccolissimo seme, il seme della grazia: grazia santificante che, in modo
-nascosto e misterioso, Dio ha seminato in noi nel santo
-battesimo; grazia attuale delle buone ispirazioni, della parola divina — « semen est verbum Dei » (Lc.8,11) — che
-Gesù, Seminatore celeste, ha sparso a piene mani nelle
-anime nostre. Un po' alla volta questo piccolo seme ha
-germogliato, ha messo radici sempre più profonde, è cresciuto penetrando progressivamente tutto il nostro spirito,
-finchè ci ha conquistati interamente a Dio, finchè abbiamo sentito il bisogno di dire: Signore, tutto ciò che ho
-e che sono sia tuo; mi do tutto a te. Voglio essere regno tuo.
+Dopo aver parlato della sollecitudine che dobbiamo avere verso coloro che sono affidati alle nostre cure, l'Epistola ci richiama anche alla carità in genere verso qualsiasi prossimo: «la carità cresca sempre più e più, in cognizione e in ogni finezza di senso». Si tratta di una carità sempre più delicata nella comprensione dell'animo altrui, sempre più fine nell'adattarsi alla mentalità, alle esigenze, ai gusti degli altri; una carità che ci deve spingere, come dice S. Paolo, a «riconoscere — e quindi a fare — le cose migliori», affinché siamo «schietti e irreprensibili fino al giorno di Cristo».
 
-Essere totalmente regno di Dio in modo che Egli
-sia l'unico Sovrano e Dominatore del nostro cuore e nulla esista in noi che non gli appartenga o non sia soggetto al suo impero, è l'ideale dell'anima che ama Dio
-con amore totale. Ma, come arrivare al pieno sviluppo di
-questo regno di Dio in noi? Ce lo dice la seconda parabola che leggiamo nel Vangelo odierno: «Il regno dei
-cieli è simile al lievito, che una donna prende e rimescola in tre staia di farina, finchè tutta la massa lievita ».
-Ecco un'altra bellissima immagine del lavoro che la grazia deve compiere nell'anima nostra: la grazia è stata posta in noi come lievito che a poco a poco deve crescere
-fino a permeare tutta la nostra personalità e a divinizzarla interamente. La grazia, lievito divino, ci è stata data
-perchè sani, elevi, santifichi il nostro essere con tutte le
-sue potenze e facoltà; solo quando avrà condotto a termine quest'opera noi saremo interamente regno di Dio.
+**2** — Il Vangelo traccia nitida e chiara la posizione del cristiano di fronte all'autorità civile. La questione insidiosa se sia lecito o no pagare il tributo a Cesare, offre a Gesù l'occasione di risolvere il problema dei rapporti fra i doveri civili e i doveri religiosi. Si fa dare una moneta e domanda: «Di chi è questa immagine e l'iscrizione?». «Di Cesare» gli rispondono; e lui di rimando: «Rendete a Cesare quello che è di Cesare, e a Dio quello che è di Dio».
 
-Riflettiamo ancora una volta al grande problema della nostra corrispondenza alla grazia. Questo seme divino,
-questo lievito soprannaturale è in noi; chi gli potrà impedire di diventare albero gigantesco capace di dare rifugio ad altre anime, chi gli potrà impedire di fermentare
-tutta la massa, se rimuoveremo tutti gli ostacoli che si
-frappongono al suo sviluppo, se asseconderanno i suoi impulsi e le sue esigenze?
+Non vi è opposizione fra i diritti del potere politico e i diritti di Dio, giacché «non vi sarebbe nessun potere se non fosse dato dall'alto» *(cfr. Gv.* 19, 11): l'autorità politica legittimamente costituita viene da Dio e va rispettata come un riflesso dell'autorità divina. Appunto perciò ogni cristiano è tenuto ad adempiere tutti i doveri di buon cittadino e quindi ad obbedire all'autorità politica, salvo quando questa comandasse cose contrarie alla legge di Dio, perché in tal caso non può rappresentare più l'autorità divina e allora, come dice S. Pietro, «bisogna obbedire a Dio più che agli uomini» *(At.* 5, 29).
 
-«Adveniat regnum tuum! » Sì, invochiamo l'avvento
-totale del regno di Dio anche nei nostri cuori.
+Non dobbiamo pensare che, essendoci dedicati all'apostolato o consacrati ad opere religiose, siamo per ciò dispensati dai doveri civili; anzi, anche in questo campo i cattolici dovrebbero avere il primato. Gli imperatori, i re, gli uomini politici e gli uomini d'arme, che la Chiesa onora come santi, ci dicono che la santità è possibile ovunque e che si può realizzarla anche dedicandosi al servizio dello Stato, perché anche qui si tratta di servire Dio nelle creature.
+
+Dicendo di dare a Cesare quel che è di Cesare, Gesù c'insegna a dare allo Stato tutto ciò che è di sua competenza, ossia tutto ciò che concerne l'ordinamento e il bene pubblico temporale. Ma Gesù non si arresta qui e dice ancora: «rendete a Dio quello che è di Dio». Se il denaro, che porta l'effigie di Cesare, deve essere restituito a Cesare, molto più l'anima nostra, che porta in sé l'immagine di Dio, deve essere restituita a Dio. Dire che a Dio dobbiamo dare l'anima, è dire che gli dobbiamo *tutto*, perché tutto infatti abbiamo ricevuto da lui. In questo senso assolvere i nostri doveri verso il prossimo, verso gli uguali e gli inferiori, verso i superiori ecclesiastici o civili, è assolvere i nostri doveri verso Dio, è restituirgli quanto ci ha dato, sottomettendo la nostra libertà alla sua legge, ponendo la nostra volontà al servizio della sua.
 
 ### Colloquio
 
-«Signore Dio mio, che mi creasti a tua immagine e
-somiglianza, concedimi questa grazia che mi dimostrasti
-tanto grande e necessaria, onde io possa vincere la pessima natura, che trascina alle colpe ed alla perdizione. Poichè sento nella mia carne la tendenza al peccato, che contraddice alle leggi dello Spirito e mi conduce come uno
-schiavo ad ubbidire in molte cose ai sensi; nè posso resistere alle passioni se non mi assiste, o Signore, la tua santissima grazia infondendosi coi suoi ardori nel mio cuore.
+«O mio Dio, poiché sono tuo per tante ragioni ed ho tanti obblighi di servirti, non permettere mai più che né la colpa, né Satana, né il mondo usurpino, sia pure in minima parte, quello che è interamente tuo. Ma prendi, se così ti piace, intero ed assoluto possesso dell'essere mio e della mia vita. O mio Dio, ecco, mi do tutto a te, giurandomi di non volere esistere che per te e di non volere né pensare, né dire, né compiere, né soffrire cosa alcuna che per amor tuo, oggi, domani e sempre» (S. Giovanni Eudes).
 
-«O Signore, senza la grazia, io nulla posso fare, mentre se essa mi aiuta e conforta, riesco a tutto.
-
-«O grazia veramente celeste, senza la quale non abbiamo meriti, senza la quale tutti i doni della natura sono da stimarsi nulla! O grazia santissima, che rendi ricco
-di virtù il povero di spirito, che rendi umile di cuore chi
-è fornito di molti beni, vieni, discendi in me, riempimi
-oggi di celeste consolazione, onde l'anima mia non cada
-per la stanchezza e l'aridità di spirito.
-
-«Ti prego, Signore, che io trovi grazia davanti a te:
-se anche non otterrò ciò che la natura desidera, mi basterà la tua grazia. Avendola, non temerò alcun male,
-allorchè sarò tentato e angustiato da molte tribolazioni.
-Essa è la mia fortezza, mi dà aiuto e consiglio, è più
-potente di qualunque nemico, più sapiente di qualunque
-saggio.
-
-«La tua grazia, Dio mio, mi prevenga e mi accompagni sempre, faccia sì che io sia sempre intento alle opere buone, per Gesù Cristo Figlio tuo. Così sia» (Imit.
-III, 55).
+«O mio Signore Gesù, Tu mi desti te medesimo ed a me non chiedi che il cuore: ma, Signore mio, che è questo mio cuore, mentre Tu sei tanta cosa? Se avessi un cuore che da solo valesse più di tutti i cuori dei figlioli degli uomini presi insieme e di tutti gli affetti degli angeli e fosse talmente capace che contenesse ad un tempo molte cose spirituali e corporali, e potesse contenere più del cielo empireo, io te lo dovrei consacrare tutto e interamente: e pur sarebbe a tanto Signore picciol dono, anzi presso di nulla. Or quanto più non darlo a te e in te riporlo pienamente questa scintilluzza di cuore che io mi ritrovo! Imperocché essa è per me una grandissima cosa, che ti degni di tenere il mio cuore. E non sarei stolto, se da qui avanti lo consacrassi a qualche creatura, quando il mio Dio lo vuole per sé? Non voglio che rimanga più oltre in me; ma voglio che tutto riposi in te, che lo creasti affinché ti lodasse. È meglio che il mio cuore stia nell'eterno godere, nella divina maestà e nell'immensa bontà, piuttosto che nella mia fragilità; nella tua deità, piuttosto che nella mia iniquità» (S. Bonaventura).

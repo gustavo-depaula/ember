@@ -1,49 +1,45 @@
-## 327 — HUMILITY IN APOSTOLATE
+## 327 — THE SOUL OF APOSTOLATE
 
 ### Presence of God
 
-O Lord, imprint in me so deep a sense of my poverty that all the good I do I may expect from You and attribute every good to You alone.
+Make me understand, O Lord, that only union with You, only love, can make every apostolate fruitful.
 
 ### Meditation
 
-Humility, as it is the foundation of all spiritual life, is also the basic condition of every apostolate and the central part of the program of self-denial and self-forgetfulness it requires.
+1. — One cannot be a collaborator of God, a docile instrument in his hands; one cannot feel with Christ and associate oneself with his love and his work for salvation of souls, without a life of loving intimacy with God and with blessed Jesus — that is, without an intense interior life.
 
-Precisely because the apostle is, more or less, set on the lampstand, he needs more than others to protect his spirit from pride and vainglory by profound humility.
+By prayer and struggle against sin, by self-denial and practice of virtues, interior life progressively strips soul of all that is defective, thus favoring in it growth of grace and love. This means clothing it with divine life, since grace and love are participation in God's own life. It follows that the more a soul cultivates interior life, the more it approaches God; and becoming like Him through grace and love, it can live in his intimacy, enjoy his friendship, penetrate his mysteries, and associate itself with them.
 
-Reading the Gospel, it is striking to see how insistently Jesus taught this point in forming His Apostles. When they argued about who would be the greatest in the messianic kingdom, the Master answered: «Unless you are converted and become as little children, you shall not enter into the kingdom of heaven» (Mt 18:3).
+Who then will be more capable of understanding great mystery of Redemption and bringing to it his contribution than one who, through fervent interior life, lives in intimate friendship with God?
 
-On another similar occasion, when the mother of James and John asked the first places for her sons, He replied: «Whoever among you wishes to be first shall be your servant» (Mt 20:27). And at the Last Supper, in washing their feet, He showed them how far apostles must become servants: «If I then, being your Lord and Master, have washed your feet, you also ought to wash one another’s feet» (Jn 13:14).
+For purposes of apostolate, that first degree of divine friendship resulting merely from absence of grave sin cannot suffice. A deeper friendship is required, one creating conformity of views, will, desires, and affections, so apostle may act according to heart of God, moved not by personal impulses but by impulse of grace, by divine will, by inspirations of Holy Spirit.
 
-Finally, before sending them into His vineyard to bear «abundant fruit,» He repeatedly declared: «Without Me you can do nothing» (Jn 15:5).
+It is significant that Jesus, before sending Apostles to conquest of world, wanted to make them live for three years in his intimacy, treating them as true friends: "I will not now call you servants ... but I have called you friends" (Jn. 15:15). Friends, not only because He shared with them treasures of his divine life, but also because He wanted them collaborators and, in a certain sense, continuators of his mission as Redeemer.
 
-Yes, apostles are Jesus’ friends, chosen by Him and destined to evangelize the world, set by Him over the Church, adorned with priestly dignity and the power to bind and loose—or, if not clerics, raised to the dignity of collaborators of the hierarchy, also called to cooperate in the salvation of souls. But at the foundation of all these privileges and honors stand these great words: you must become little like children; without Me you can do nothing.
+Apostle cannot be such unless he is friend of God. God Himself invites him to this friendship, but it is necessary he correspond by serious interior life that makes his relations with God ever more intimate and richer in love.
 
-If only we were truly convinced that, although God wills to use us, He alone has the power to make our action fruitful, He alone can produce fruits of eternal life, He alone can give grace to souls—and we are only instruments, the more apt for others’ salvation the more we become little by acknowledging our poverty.
+2. — Only from friendship with God, only from charity that unites us to Him, does apostle draw those supernatural energies that make his works truly effective and capable of reaching their goal.
 
-What merit can a brush claim because a skilled painter used it to create a masterpiece? What merit can marble claim because Michelangelo used it to sculpt his Moses? «You have not chosen Me, but I have chosen you and appointed you that you should go and bring forth fruit» (Jn 15:16).
+But where will apostle draw this love which, uniting him to God, renders him so powerful? Certainly from God Himself: "The charity of God is poured forth in our hearts by the Holy Ghost who is given to us" (Rom. 5:5).
 
-«Without Me you can do nothing.» Before these words, how many ambitions, points of honor, vain self-complacencies, claims to praise, desires for advancement and recognition shatter like waves against rocks.
+At first moment, that of justification, God infuses charity in us without our collaboration; but He does not preserve this gift for us, much less increase it, unless we keep united to Him through exercises of interior life. Struggle against passions, practice of virtues, frequenting sacraments, prayer, recollection, and God's presence have precisely purpose of fostering union with Lord and increase of charity.
 
-Jesus does not say that without Him we can do little, but nothing—absolutely nothing. Even if outwardly works prosper, admirers increase, churches and halls are full, in reality not a grain of grace descends into hearts unless God intervenes.
+Interior life is hidden forge in which soul, in contact with God, is inflamed by his love and, precisely because inflamed and forged by love, becomes docile instrument God can use to spread love in other hearts.
 
-Poor apostle, at times so satisfied and inflated by your successes! Despite your abilities, brilliance, attractive speech, titles, and achievements, in apostolate you are smaller and more powerless than an ant before a high mountain.
+It is therefore very fitting to recall often this great principle: interior life is soul of apostolate. A deep interior life will generate intense love and intimate union with God; and from it will spring fruitful apostolate, true collaboration in Christ's saving work. A mediocre interior life, instead, can produce only very weak and languid love and union with God, and consequently apostolate deriving from it cannot have effective influence on souls.
 
-Recognize your nothingness, take refuge in God, hold fast to Him, for from Him alone you can draw fruitfulness for your works.
-
-Charged with the formation of novices, St. Therese of the Child Jesus exclaimed: «You see, Lord, that I am too little to feed your daughters; if You wish to give each one through me what she needs, fill my hand, and I, without leaving your arms, without turning elsewhere, will distribute your treasures to the soul that comes to ask me for food.»
-
-This is the attitude every apostle must take. Indeed, the higher, more important, and more delicate his mission is, the more necessary are this humble awareness of poverty, this trusting recourse to God, and this continual abiding in Him.
-
-If God does not use us for great works, is it perhaps because, not being sufficiently convinced of our nothingness, we might steal His glory by attributing success to ourselves? If our apostolic activity bears little fruit, is it perhaps because, trusting too much in ourselves, we do not concern ourselves enough with clinging to God through humility and prayer?
-
-«Abide in Me,» Jesus repeats. «As the branch cannot bear fruit of itself ... so neither can you unless you abide in Me» (Jn 15:4). It is not enough that the apostle remain united to Jesus by the state of grace; he must remain there also by deep humility, which makes him feel he can do nothing, truly nothing, without His continual help.
+Where interior life were almost or entirely extinguished, charity and friendship with God would also threaten to die out. And when interior flame is extinguished, apostolate is emptied of its substance, reduced to mere movement that can make noise but cannot bear fruit. "Everything," says St. John of the Cross, "will come to no more than hammering in vain and doing little more than nothing, and sometimes truly nothing, indeed at times even harm" (Canticle 29).
 
 ### Colloquy
 
-«O Lord, You want me in my apostolate to feel and acknowledge my nothingness; but at the same time You want me to let myself be taken and used by You to fulfill the mission You entrust to me, and then return to the shadows, be silent, not boast, and say: *servi inutiles sumus*—I am an unprofitable servant; without You I can do nothing.
+"Draw me, Lord, after You; let us run!...
 
-«O Lord, help me flee praise, flee the applause of creatures; help me act always with right intention, seeking only your good pleasure. I ask You to keep far from me those faults that can distract me from acting solely to please You: display, compliments, flattery, the desire to make a good impression, to be liked by others. May I never seek my glory, but only yours. Everything to please You, nothing to satisfy myself!» (Sr. Carmela of the Holy Spirit, O.C.D.).
+"O Jesus, I ask You to draw me into flames of your love and unite me so closely to You that You Yourself may live and act in me. The more fire of your love enkindles my heart and the more I repeat, 'draw me,' the more souls that approach mine will run swiftly after fragrance of your perfumes.
 
-«I beg You, my Lord, to direct to You the heart and will of your apostles, so that they may follow You, slain Lamb, poor, humble and meek, by the way of the most holy Cross, in your manner and not in theirs. Drive darkness from their hearts and give your light; dry up in them self-love and let the fire of your charity remain.
+"Yes, Lord, they will run, we will run together; for souls inflamed by love cannot remain inactive. They remain, like St. Mary Magdalene, at your feet listening to your sweet and burning words; but if outwardly they seem to do nothing, they do far more than Martha who busies herself with many things.
 
-«Grant that with ordered charity they seek the salvation of all, disposing themselves to give their life for the good of souls. And may they be angelic creatures, earthly angels in this life, and burning lamps in Holy Church!» (cf. St. Catherine of Siena).
+"O Jesus, it is not necessary then to say: drawing me, draw also souls I love. This simple word, 'draw me,' is enough; for when a soul has let itself be conquered by intoxicating fragrance of your perfumes, it can no longer run alone, and all souls loved by it are dragged behind it. It is like natural consequence of its attraction toward You.
+
+"As a torrent drags with it into depths of sea all it encounters on its course, so, my Jesus, soul that plunges into shoreless ocean of your love draws behind it all its treasures. Lord, these treasures are for me souls You have been pleased to unite to mine; these treasures You entrusted to me.
+
+"But to reach a goal, one must use fitting means. Therefore, my Jesus, since You have made me understand You would give me souls through cross, the greater the crosses I meet, the more vivid in me becomes longing for sufferings" (St. Therese of the Child Jesus).

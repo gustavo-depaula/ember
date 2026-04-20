@@ -1,86 +1,19 @@
-## 195 — LA PRESENZA REALE
+## XXVI — I DONI DELLO SPIRITO SANTO
 
-### Presenza di Dio
-
-O Gesù, fammi penetrare oltre i veli eucaristici, affinchè contemplandoti il mio cuore viva di te.
+**Presenza di Dio.** — *O Spirito Santo, sviluppa in me i tuoi doni, affinché io possa ricevere le tue mozioni divine.*
 
 ### Meditazione
 
-1. — «Verbum caro factum est» (Gv. 1, 14). L’Incarnazione del Verbo, l’ineffabile mistero dell’amore di Dio
-che si abbassa fino all’uomo, fino a farsi uomo, a prendere «carne» per la sua salvezza, è continuato e amplificato attraverso l’Eucaristia. Il Padre mandò il suo
-Unigenito volendo che prendesse carne da una Vergine, carne simile alla nostra, affinchè potesse
-soffrire e morire sulla croce; ma ha voluto anche che
-questa presenza si perpetuasse, perpetuando nell’Eucaristia il suo sacrificio. Se non fosse così, se avessimo solo il Vangelo, saremmo
-pieni di nostalgia pensando a Gesù che siede
-in cielo alla destra del Padre, avendo lasciato definitivamente la terra; e con quale doloroso
-rimpianto volgeremmo lo sguardo ai trentatrè anni di vita
-terrena del Salvatore, ormai trascorsi da secoli! Ma non
-è così. L'Eucaristia rende permanente in mezzo a noi la
-presenza. di Gesù. Nell'Ostia consacrata troviamo quel
-Gesù che Maria diede alla luce; che i pastori trovarono
-avvolti in pochi panni, giacente nella mangiatoia; che Maria e Giuseppe nutrirono, custodirono e videro crescere
-sotto i loro sguardi; quel Gesù che chiamò dietro a sè gli
-Apostoli, che affascinava e ammaestrava le folle, che compiva i miracoli più strepitosi, che si è dichiarato la «luce»
-e la e vita» del mondo, che ha perdonato alla Maddalena,
-che ha risuscitato Lazzaro; che per amor nostro ha sudato
-sangue, ha accettato il bacio traditore, è stato ridotto ad
-una piaga, è morto sulla croce; quel Gesù che, risorto, è
-apparso agli Apostoli e nelle cui piaghe Tommaso ha posto il dito, che è asceso al cielo, de ora siede glorioso
-alla destra del Padre e, insieme col Padre, c'invia lo Spirito Santo. O Gesù, Tu sei sempre con noi! sempre il medesimo «ieri e oggi e anche per i secoli» (Ebr. 13, 8).
-Sempre il medesimo in eterno per l'immutabilità della tua
-Persona divina, sempre il medesimo nel tempo per il Sacramento eucaristico.
+**1** — Abbiamo già visto che non è possibile giungere al perfetto orientamento in Dio, alla santità, senza il soccorso dello Spirito Santo. E questo soccorso non è riservato ad anime privilegiate, ma è necessario per ogni cristiano. Infatti, nel santo battesimo ogni anima, insieme alla grazia santificante, riceve le virtù infuse e i doni dello Spirito Santo. Le virtù infuse sono princìpi soprannaturali di attività, per cui noi diventiamo capaci di agire in un modo virtuoso non solo da un punto di vista umano, ma da un punto di vista soprannaturale, sì che abbiamo la capacità di compiere azioni meritorie e quindi di applicarci attivamente al raggiungimento della santità. I doni dello Spirito Santo, invece, sono princìpi soprannaturali per cui diventiamo capaci di ricevere il soccorso dello Spirito Santo, di riconoscere le sue ispirazioni e di assecondare. In altre parole, i doni sono disposizioni permanenti che Dio ha posto nelle nostre facoltà affinché noi possiamo ricevere e seguire l'impulso dello Spirito Santo. San Tommaso li paragona alle vele della barca: come la barca, mediante le vele, ha la capacità di essere mossa e portata dal vento, così l'anima nostra, mediante i doni, ha la capacità di essere mossa e guidata dallo Spirito Santo.
 
-2. — Gesù nell'Eucaristia è presente con tutta la sua
-Divinità e con tutta la sua Umanità. Anche l'Umanità,
-benchè sia presente «per modum substantiae» — ossia
-a mo' di sostanza e non corporalmente estesa — è tutta
-intera nell'Ostia consacrata: Corpo ed Anima, e que
-st'ultima con le sue facoltà dell’intelligenza e della volontà.
-Perciò, Gesù nell'Eucaristia ci conosce e ci ama come Dio
-e come Uomo; Egli non è un oggetto passivo della nostra
-adorazione, ma è vivente: ci vede, ci ascolta, risponde alle
-nostre preghiere con le sue grazie, cosicchè noi possiamo
-avere col dolce Maestro di cui parla il Vangelo, dei rapporti
-vivi, concreti e, per quanto non sensibili, simili a quelli che
-avevano con lui i suoi contemporanei. E’ vero che nell’Eucaristia è celata non solo la Divinità, ma anche l’Umanità:
-tuttavia la fede sostituisce vantaggiosamente i sensi, sostituisce ciò che non vediamo e non tocchiamo; sola fides
-sufficit, «a persuadere un cuore sincero — canta S. Tommaso — basta la sola fede» (Pange lingua). Come un giorno Gesù, nascosto sotto le sembianze di pellegrino, istruiva
-e infervorava il cuore dei discepoli di Emmaus, così Gesù,
-nascosto sotto i veli eucaristici, illumina le anime nostre,
-le infiamma col suo amore e le inclina sempre più efficacemente verso il bene.
+Se un marinaio mette le vele alla sua imbarcazione, vuol dire che intende farla procedere non solo a forza di remi, ma anche con la spinta del vento. Parimenti se Dio ha infuso nell'anima nostra i doni dello Spirito Santo, vuol dire che intende farla avanzare non solo con l'esercizio attivo delle virtù, ma anche mediante l'intervento dello Spirito Santo. E, mentre il marinaio può mettere le vele alla sua barca ma non può suscitare il soffio del vento, Dio invece non solo ci ha dato i doni dello Spirito Santo, ma ha inoltre il potere di metterli in atto quando e come vuole. Il fatto stesso che nel nostro organismo spirituale Dio ha voluto inserire i doni, è la prova più evidente che Egli vuole intervenire nell'opera della nostra santificazione, che Egli vuole accordarci il soccorso dello Spirito Santo.
 
-Gesù è lì, nell’Ostia consacrata, è lì vero Uomo e vero
-Dio e, come per noi si è incarnato, così per noi si è celato
-sotto le sacre specie: lì ci attende, ci ama, è pronto ad
-ascoltarci. E noi abbiamo bisogno di stare
-con Gesù, il Verbo fatto carne,
-il Dio fatto uomo, il nostro Mediatore, il nostro Salvatore,
-il nostro fratello, e lo troviamo appunto nell’Eucaristia. Qui,
-mai siamo più vicini a lui di quando ci troviamo vicini al SS.mo Sacramento dell’altare.
+**2** — L'Enciclica «*Divinum illud munus*» insegna: «Il giusto, che già vive la vita della grazia ed opera coll'aiuto delle virtù, ha bisogno di quei sette doni che dicono propri dello Spirito Santo. Per mezzo di questi l'uomo si rende più pieghevole e forte insieme a seguire con maggior facilità e prontezza il divino istinto». «Il divino istinto» è appunto l'ispirazione e la mozione dello Spirito Santo; ora, l'uomo, per sua natura, sia pure con la migliore intelligenza e buona volontà, è incapace di comprendere e di seguire tale istinto: «l'uomo animale — dice S. Paolo — non capisce le cose dello Spirito di Dio; per lui sono stoltezze e non le può intendere» *(I Cor.* 2, 14). Ecco quindi i doni dello Spirito Santo che ci sono stati dati proprio per renderci sensibili all'«*istinto divino*»: senza di essi non potremmo ricevere le mozioni dello Spirito Santo. Questo ci fa comprendere sempre più la preziosità dei doni e quindi l'importanza che si sviluppino in noi in tutta la loro pienezza. Infatti, anche i doni che abbiamo ricevuti in germe nel S. Battesimo sono destinati, come la grazia santificante e le virtù infuse, a crescere ed a svilupparsi fino alla morte. Ed è molto consolante pensare che, data la profonda unità del nostro organismo soprannaturale, la grazia, le virtù e i doni crescono simultaneamente e parallelamente col crescere della carità. Se vogliamo che i doni si sviluppino in pieno nell'anima nostra dobbiamo esercitarci senza posa nella carità; ad ogni progresso nell'amore divino corrisponderà un nuovo sviluppo dei doni. I doni sono le vele dell'anima, ma queste vele possono rimanere ammainate, legate dal nostro egoismo, dal nostro amor proprio, dagli attacchi a noi stessi ed alle creature; la carità, invece, libera le vele da ogni impaccio e le distende al soffio soave dello Spirito Santo: più le vele saranno sciolte ed ampie, più saranno capaci di cogliere il minimo impulso del divino Paraclito.
 
 ### Colloquio
 
-«O Signore, ricchezza dei poveri, come sai bene sostentare le anime! Invece di scoprire i tuoi tesori tutti in una
-volta, li sveli a poco a poco, per cui io, nel contemplare la tua
-eccelsa Maestà velata sotto le fragili apparenze di un’Ostia,
-non vengo meno.
+«Vedo te Dio Padre, Verbo e Spirito, e intendo che vai cercando, con somma sapienza, con eterna bontà, la tua creatura, in guisa che pare che Tu non abbia nè gloria, nè compiacimento alcuno, se non nella tua creatura che pur è tanto vile, e questo tuo Spirito è l'amore col quale vai cercando di pigliarla. E quel cuore che riceve lo Spirito, è simile a quel rovo che vide Mosè, che ardeva e non si consumava. Con una somma purità arde di desiderio che non sia offeso Dio, e si consuma dal desiderio che Dio sia onorato, sebbene non si vede consumare.
 
-Benedetto, o mio Dio! Gli Angeli e
-le creature tutte ti lodino per aver accomodato i tuoi misteri alla nostra debolezza, in modo da farci godere delle
-tue ricchezze, senza andare atterriti dalla grande tua potenza. Povere e fragili creature come siamo, se Tu non
-fossi ricorso a quest’espediente, non avremmo mai osato di
-accostarci a te. Signore, come potrei io, povera peccatrice che tante
-volte ti ha offeso, avere il coraggio di starti vicino, se ti
-vedessi in tutta la tua Maestà? Sotto gli accidenti del pane,
-invece, sei molto più accessibile, a quel modo che quando
-un re si traveste, sembra che, parlando con lui, non si debbano avere tanti riguardi e soggezioni. Se Tu, o Signore,
-non ti fossi così travestito, chi di noi oserebbe accostarti,
-così pieni di freddezza, d’indegnità e d’imperfezione come
-siamo?
+«Vieni, vieni, Santo Spirito. Venga l'unione del Padre, il compiacimento del Verbo, la gloria degli Angeli. Tu sei, o Spirito di Verità, premio dei Santi, refrigerio delle anime, luce delle tenebre, ricchezza dei poveri, tesoro di quelli che amano, sazietà degli esurienti, consolazione dei pellegrini, e, insomma, Tu sei quello nel quale si contiene ogni tesoro.
 
-Del resto, io non posso dubitare affatto della tua reale
-presenza nell’Eucaristia. Tu mi hai dato una fede così forte
-che quando sento dire da altri che avrebbero desiderato di
-vivere nel tempo in cui Tu stavi sulla terra, rido tra me
-stessa, sembrandomi che, possedendoti nel SS.mo Sacramento, non vi sia più altro da desiderare!» (T.G. Vi. 38,
-20 e 19; cfr. Cam. 34, 9 e 6).
+«O Spirito Santo, con una eterna sapienza sforzi dolcemente, senza toglier loro la libertà, le creature ragionevoli che vogliono ricevere i tuoi doni. Vai bussando al cuore di tutti, ma bussi dolcemente, cercando che ognuno si disponga a ricevere questi doni. Vai soavemente cantando con dolce pianto. Vai giubilando, piangendo e ricercando che ognuno sia disposto a riceverti. Ammiri l'intelletto, noti la volontà, intenda la memoria l'immensa tua bontà, o Spirito Santo, che infondi te stesso e i tuoi doni nell'anima! O Spirito procedente dal Padre e dal Verbo, t'infondi nell'anima in un modo tanto soave che non è inteso, non essendo inteso, da pochi è stimato. Eppure, oltre la tua Bontà, Tu infondi nell'anima la Potenza del Padre e la Sapienza del Figlio: e l'anima, resa così potente e sapiente, si rende atta a portarti in sé quale dolce abitatore, accarezzandoti, ossia comportandosi in modo che Tu ti compiaccia e non ti parta da lei» (S. Maria Maddalena de' Pazzi).

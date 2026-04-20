@@ -1,103 +1,17 @@
-## 227 — LA SAPIENZA INFINITA
+## XXVII — LA GLORIA DELLA SS.MA TRINITÀ
 
-### Presenza di Dio
-
-Mio Dio, sapienza infinita, illumina la mia mente e insegnami il segreto della vera sapienza.
+**Presenza di Dio.** — *O Santissima Trinità, che mi hai creato per la tua gloria, fa' che io ti dia tutta la gloria di cui sono capace.*
 
 ### Meditazione
 
-1. — Dio è sapienza infinita che conosce perfettamente
-se stesso e tutte le cose. In Dio la sapienza non è, come in
-noi, distinta dall'essere, ma è l'essere stesso di Dio. L'essere
-di Dio è sapienza somma, è raggio intellettuale luminoso,
-splendidissimo, eternamente sussistente, che abbraccia e penetra tutta l'essenza divina e, nello stesso tempo, vede in
-essa, come nella loro causa, tutte le cose che esistono e che
-potrebbero esistere. La sapienza divina — dice la S. Scrit
-tura — «arriva e penetra dovunque a cagione della sua purezza... E' un soffio della potenza di Dio e pura emanazione
-della gloria dell'Onnipotente... E' un riflesso di luce eterna
-e terso specchio della maestà di Dio e immagine della sua
-bontà» (Sap. 7, 24-26).
+**1** — La SS.ma Trinità è la radice e il centro di tutti gli altri misteri della nostra santa fede, radice da cui tutti sgorgano e dipendono, centro intorno a cui tutti gravitano. L'immensa opera della creazione e l'amorosa opera della redenzione, tutto è dono della SS.ma Trinità, tutto è effusione libera gratuita della sua bontà, del suo amore infinito; e, d'altra parte, tutto è ordinato alla gloria della Triade divina. «Noi — dice S. Paolo — siamo stati predestinati in Cristo... secondo il proposito di Chi tutto agisce secondo il consiglio della propria volontà, sì che noi riusciamo a lode della sua gloria» *(Ef.* 1, 11 e 12). Immensamente più della creazione, l'opera della redenzione, che ha riversato su di noi i più grandi benefici divini, è, come dice ancora l'Apostolo, «una gloriosa manifestazione della grazia» *(ivi,* 6), ossia della bontà infinita di Dio. Se le creature inanimate, se i cieli e la terra «narrano la gloria di Dio» *(Sal.* 18) perché attestano la sua potenza e sapienza e bellezza infinita, le opere riguardanti la nostra elevazione allo stato soprannaturale cantano la gloria della SS.ma Trinità appunto perché sono «la più gloriosa manifestazione» della sua bontà. Bontà la più «gloriosa» grande che ha spinto Dio, non per alcuna necessità, ma unicamente per amore, a partecipare a noi, sue piccole creature, qualche cosa del suo bene sommo, della sua natura divina, della sua felicità eterna, che l'ha spinto a rivelarci il mistero della sua vita trinitaria e ad associarci ad essa. E tutto ciò non per qualche merito da parte nostra, non perché Egli avesse bisogno di noi — Egli, già infinitamente beato, felice e glorioso in se stesso — ma unicamente per bontà sua. Chi, dunque, più dell'uomo, che è stato rivestito da Dio non solo di bellezze naturali, ma anche di bellezze soprannaturali che lo rendono simile a lui, che lo associano alla sua vita divina, dovrà riuscire «a lode della sua gloria»?
 
-La sapienza divina è anzitutto perfetta conoscenza di
+**2** — Per il solo fatto che le opere di Dio sono una dimostrazione della sua onnipotenza, sapienza e bontà infinita, ecco che tutte ridondano a sua gloria così come un'opera d'arte torna sempre a gloria dell'artista che l'ha compiuta, appunto perché esprime la potenza del suo ingegno. Però, mentre l'uomo può ordinare le sue opere alla gloria di un altro essere a lui superiore, questo non può verificarsi in Dio che è l'Essere supremo, il Bene sommo e quindi necessariamente operare per la sua gloria. Tuttavia Dio, infinitamente buono, vuole glorificarsi procurando il bene, la felicità delle sue creature. Egli, infatti, non si accontenta di glorificarsi in opere belle e grandiose ma incapaci, perché inanimate, di godere della loro bellezza, ma vuole soprattutto glorificarsi in creature che — come gli Angeli e gli uomini — ha rese capaci di godere dei suoi doni e che, anzi, ha propriamente destinate a partecipare alla sua felicità eterna. Comprendiamo così, sempre meglio quanto è grande la bontà di Dio che ha voluto trovare la sua maggior gloria proprio in quel che torna a maggior vantaggio ed onore delle sue creature. Nessuna opera, ad esempio, glorifica la SS.ma Trinità più dell'Incarnazione del Verbo, e nessun'opera torna, più di questa, a nostra utilità ed a nostro onore.
 
-Dio. Nessuna creatura, neppure gli angeli e i beati in cielo,
-può conoscere Dio fino ad esaurire la grandezza infinita
-del suo essere; solo Dio conosce perfettamente se stesso, solo
-la sapienza divina può penetrare la profondità infinita della
-sua essenza e dei suoi misteri. Per noi, tanto incapaci di conoscere Dio quale Egli è, è gioia immensa contemplare la
-sapienza infinita che penetra tutti i misteri divini, è conforto
-immenso invocarla ed affidarci a lei affinchè sia la nostra luce
-e la nostra guida nella conoscenza di Dio.
-
-La sapienza divina è, poi, perfetta conoscenza di tutto
-ciò che esiste; nessun errore vi può essere in lei che è verità
-eterna ed immutabile. Nessuna cosa le può essere occulta o
-misteriosa perchè è lei che ha fatto tutte le cose e perciò
-le conosce fin nella loro intima essenza e non vi è nulla di
-nuovo che debba apprendere perchè tutto, fin dall'eternità,
-vede in un eterno presente e nulla, per quanto minimo, può
-sfuggire alla sua luce splendidissima: «perfino i capelli del
-vostro capo sono tutti contati », ha detto Gesù (Mc. 10, 30).
-Dio ci conosce assai meglio di quel che noi stessi ci conosciamo: tutti i movimenti più segreti del nostro cuore, anche
-quelli che sfuggono al nostro controllo, gli sono perfettamente
-palesi. Chiediamogli di farci conoscere noi stessi nella sua
-luce, nella sua verità eterna,
-
-2. — La sapienza divina conosce tutte le cose in Dio,
-in rapporto a lui che ne è la causa prima. Vede tutte le cose
-dipendenti da Dio e da lui ordinate alla sua gloria, perciò
-non le giudica secondo le loro apparenze esteriori, ma unicamente secondo il valore, il posto, il significato che esse hanno di fronte a Dio. I giudizi della sapienza divina sono, quindi, immensamente distanti dai nostri corti giudizi umani che
-si fermano alla pura materialità delle cose: «O profondità
-della ricchezza e sapienza e conoscenza di Dio — esclama
-S. Paolo — come incomprensibili sono i suoi giudizi e imperscrutabili le sue vie!» (Rom. 11, 33). E, tanto più sono per
-noi incomprensibili, quanto più siamo abituati a giudicare
-le cose dal punto di vista opposto a quello della sapienza divina.
-
-Conoscere le cose in rapporto a Dio, stimarle secondo il
-valore che hanno al suo cospetto, ecco la vera sapienza, quella sapienza che tu devi cercare di acquistare al riflesso della
-sapienza eterna. Vedi come ne sei lontano quando giudichi
-le creature e gli avvenimenti solo da un punto di vista umano, solo in base alla gioia o al dispiacere che ti recano. Questa sapienza, che è quella del mondo, «è stoltezza presso
-Dio » (I Cor. 3, 19), appunto perchè giudica le cose in rapporto
-all'uomo e non in rapporto a Dio, le giudica secondo
-la loro apparenza e non secondo la loro realtà. Solo abituandoti a spogliarti del tuo sguardo umano troppo soggettivo ed
-interessato, potrai oltrepassare l'apparenza delle cose per scoprire, alla luce della fede, il significato e il valore che esse
-hanno dinanzi a Dio. Allora vedrai con chiarezza che tutto
-ciò che il mondo tiene in grande considerazione — come la
-grandezza dell'ingegno, il successo delle opere, la stima delle
-creature, ecc. — è un nulla secondo la sapienza divina al cui
-cospetto è immensamente superiore il minimo grado di grazia,
-il minimo atto di carità soprannaturale. Vedi, dunque, come
-ti sbagli quando ti preoccupi più della buona riuscita dei tuoi
-affari che del tuo progresso nella virtù; vedi come ti sbagli
-quando giudichi il tuo prossimo secondo le sue qualità naturali, secondo la simpatia o antipatia naturale che esso t'ispira, senza tener conto del suo valore soprannaturale. L'umile considerazione della tua insipienza ti faccia sentire più
-che mai il bisogno d'invocare la sapienza divina: «O Sapienza, che uscisti dalla bocca dell'Altissimo, vieni ad insegnarci la via della prudenza » (BR.).
+Dio, nella sua bontà infinita, ha voluto che la sua gloria coincidesse col nostro bene, con la nostra felicità; e noi dobbiamo procurare che il nostro bene e la nostra felicità coincidano con la gloria di Dio, ossia, dobbiamo cercare il nostro bene e la nostra felicità in quelle opere che maggiormente glorificano il Signore e danno gloria al suo Nome. Tutti i doni meravigliosi che la Trinità ha riversato su di noi devono ridondare a sua gloria, devono fruttificare per la sua gloria. E, mentre i cieli cantano la gloria di Dio pur senza volerlo, noi dobbiamo cantarla perché lo vogliamo, perché comprendiamo essere giusto e doveroso che tutta la nostra vita e tutte le nostre opere siano un inno di gloria alla SS.ma Trinità che, infinitamente beata e gloriosa in se stessa, ha voluto glorificarsi in noi, povere e piccole creature.
 
 ### Colloquio
 
-«O Sapienza divina! In te c'è uno spirito intelligente,
-santo, unico, molteplice, sottile, lucido, agile, senza macchia,
-infallibile, mite, amante del bene, acuto, incoercibile, benefico, amico degli uomini, benigno, costante, sicuro, tranquillo,
-che tutto può, tutto invigila, che penetra tutti gli spiriti
-intelligenti, puri, sottilissimi. Infatti, 'Tu sei più mobile di ogni moto e arrivi e penetri dovunque a cagione della tua purezza. Perchè sei un soffio della potenza di Dio e pura emanazione della gloria dell'Onnipotente; perciò nulla d'inquinato può cadere in te. Sei un riflesso d'eterna luce e terso
-specchio della maestà di Dio e immagine della sua bontà.
+«O santissima Trinità, ti adoro, ti benedico e ti glorifico in tutti i tuoi misteri, unendomi a tutto l'amore ed a tutte le lodi che le tue divine Persone mutuamente si scambiano. Ti offro tutta la gloria che hai in te stessa, rendendotene, insieme con tutta la Chiesa, grazie infinite: *Gratias agimus tibi, propter magnam gloriam tuam...* O mio Dio e Padre mio, come e quanto mi rallegro nel vedere che il Figlio tuo ed il tuo Spirito Santo ti amano e ti lodano da tutta l'eternità e per tutta l'eternità con un amore e con una lode proporzionata alla tua grandezza! O Figlio unico di Dio, come e quanto esulta l'anima mia nel vedere l'amore e la gloria infinita che tu ricevi dal Padre tuo e dal tuo Spirito Santo! O Spirito Santo, come e quanto giubila il mio cuore nel vedere la dilezione e le benedizioni che ti sono incessantemente rese dal Padre e dal Figlio! O santissima Trinità, che gioia, che esultanza, che felicità è per me sapere che tu sei colma di una gloria indicibile, di una beatitudine incomprensibile e di una infinità di innumerevoli ed incomparabili tesori e splendori!» (S. G. Eudes).
 
-Pur unica e puoi tutto, resti immutata in te e tutto rinnovi
-
-e, diffondendoti nelle anime sante, ne fai amici di Dio. Sei
-
-più bella del sole e alla luce appari superiore, perchè a questa succede la notte, ma tu non sei mai sopraffatta
-
-dalla malvagità. Ti estendi con potenza da un'estremità all'altra del mondo e tutto governi con bontà.
-
-« Dio dei Padri miei e Signore di misericordia, con te è
-la tua sapienza che conosce le tue opere ed era presente
-quando facevi il mondo e sa ciò che piace agli occhi tuoi
-e quel ch'è retto secondo i tuoi comandamenti. Mandala giù
-dal cielo tuo santo e dal trono della tua gloria, affinchè sia
-meco e meco lavori ed io sappia quel che è accetto a te. Perchè ella tutto sa ed intende e mi guiderà nelle mie azioni
-con prudenza e mi custodirà con la sua potenza. O Signore,
-timidi sono i ragionamenti dei mortali e malsicuri i nostri divisamenti. A mala pena congetturiamo le cose della terra
-e con fatica troviamo quelle che abbiamo davanti e per le
-mani; quelle che sono nei cieli chi le scruterà? Chi conoscerà il tuo volere, o Signore, se Tu non gli largirai sapienza e
-non gli manderai dall'alto il tuo santo spirito? » (cfr. Sap.
-7, 22:30; 9, 1-17).
+Ma, quale gioia è pure per me sapere che Tu, Trinità sacrosanta, già infinitamente gloriosa in te stessa, non disdegni la gloria che ti può dare questo misero niente, ma, anzi, mi hai creato proprio per la tua gloria! «Io, dunque, mi consacro e mi sacrifico tutto a te. E, se avessi in me tutto l'essere creato e tutte le vite degli uomini e degli angeli, se avessi in mio potere milioni di mondi, sarei pronto a sacrificare tutto questo in onore tuo. O mio Dio, da' fondo a tutta la tua potenza e bontà infinita, per totalmente prendermi e possedermi, sì che io rimanga a te consacrato, sì che io sappia, o Signore, interamente e per sempre, immolarmi alla tua purissima gloria» (S. G. Eudes).

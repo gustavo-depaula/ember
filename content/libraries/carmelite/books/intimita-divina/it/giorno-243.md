@@ -1,114 +1,19 @@
-## 243 — CORRISPONDENZA ALLA GRAZIA
-*IX Domenica dopo Pentecoste*
+## XIII — L'ONNIPOTENZA
 
-### Presenza di Dio
-
-— O Signore, fa' che in me la tua grazia non sia vana.
+**Presenza di Dio.** — *O Dio onnipotente, metti in atto la tua onnipotenza infinita per convertirmi totalmente al tuo amore.*
 
 ### Meditazione
 
-1. — Oggi la liturgia c'invita a riflettere
-blema della nostra na alla ni DE iS
-sentandoci il triste quadro delle vicende d'Israele, il popolo
-eletto che Dio aveva ricolmato dei suoi benefici, circondato
-di grazie, protetto con cura closa e che, tuttavia, per la sua
-infedeltà si è perduto. Nell'Epistola, S. Paolo, dopo aver toccato alcuni punti della prevaricazione d'Israele, conclude:
-« Queste cose accaddero loro a modo di esempio e furono
-seritte per ammonimento a noi... Cosicchè, chi crede di stare
-in piedi, badi di non cadere ». E' un forte richiamo alla vi
-gilanza, all'umiltà. Se Dio ci ha prevenuti con le sue grazie,
-se ci ha chiamati ad una vita interiore più intensa, a una
-maggiore intimità con lui, tutto ciò, lungi dal renderci presuntuosi, deve scavare nel nostro cuore un'umiltà più ua
-da: i doni di Dio vanno custoditi sotto la cenere di un'umile
-diffidenza di sè. Guai a noi se dovessimo ritenerci ormai affrancati da quelle debolezze che riscontriamo e che, forse,
-condanniamo negli altri! Ripetiamo piuttosto umilmente: Si
-gnore, aiutami, altrimenti io potrei fare anche peggio. Ma
-esortandoci all'umiltà, S. Paolo ci spinge pure alla confidenza
-perchè « Dio è fedele e non permetterà che siate tentati ol
-tre quel che potete, ma con la tentazione vi procurerà anche
-la via d'uscita, onde possiate sopportarla ». Anche l'Apostolo
-c'insegna che la coscienza della nostra debolezza non deve
-scoraggiarei perchè Dio è sempre to a sostenerci con la
-sua grazia. Dio conosce le nostre debolezze, conosce le lotte
-che dobbiamo sostenere, conosce le tentazioni che ci travagliano e, per ognuna di esse, ci dà quella misura di grazia
-che ci è necessaria per trionfarne. E' ben vero che quando
-la bufera infuria noi avvertiamo solo l'urto della lotta, mentre la grazia con cui Dio ci soccorte rimane del tutto nascosta;
-eppure, questa grazia c'è, dobbiamo esseme certi. perchè
-è Dio è fedele». «Dio mi ha sempre soccorso. — diceva
-S. Teresa del B.G. — Io conto sopra di lui. La sofferenza
+**1** — «Io sono Dio onnipotente» *(Gen.* 17, 1), così Dio stesso si è presentato ad Abramo. Dio è onnipotente perché può fare tutto ciò che vuole, tutto ciò che la sua sapienza infinita vede come possibile, e può farlo come vuole, quando vuole, senza nessuna limitazione: «Tutto ciò che il Signore lo fa: in cielo, in terra, nei mari e in tutti gli abissi» *(Sal.* 134, 6). Niente può ostacolare la sua azione, niente può opporsi al suo volere, niente gli è difficile. Le nostre opere, anche le più semplici, richiedono tempo, fatica, materiale adatto, collaborazione; le opere di Dio, anche le più grandi, si compiono in uno solo istante, per un semplicissimo atto della sua volontà. Dio è così onnipotente che con una sola parola ha tratto dal nulla tutte le cose: «fiat» e la luce e i cieli, la terra e i mari e l'universo intero sono stati fatti. Le nostre parole sono suoni vani che si disperde nell'aria senza nulla produrre; la parola di Dio, invece, è onnipotente, creatrice, operatrice, efficace, così onnipotente che, avendo creato l'uomo libero, lo governa e lo dirige secondo il suo beneplacito senza ledere per nulla la sua libertà. Dio è così onnipotente da trasformare gli uomini, figli del peccato, in suoi figli adottivi, partecipi della sua vita divina. Dio è così onnipotente da ricavare il bene anche dal male. L'onnipotenza di Dio è sempre in atto, sempre attiva, sempre all'opera, senza mai stancarsi; e questa onnipotenza grandiosa, infinita, eterna è totalmente al servizio della sua bontà infinita o, meglio, è la stessa bontà infinita che può fare tutto quel bene che vuole. Come abbiamo bisogno del soccorso di questa onnipotenza noi, così deboli, che, pur vedendo e volendo il bene, tanto spesso siamo incapaci di farlo!
 
-potrà giungere al colmo, ma sono sicura che Egli non mi
-abbandonerà » (St. 12).
+**2** — Dio è l'unico onnipotente, l'unico che possiede la potenza per sua natura; noi invece — come tutte le altre creature — siamo impotenti, incapaci di qualsiasi cosa. Il sole non può splendere, il fuoco non può ardere, il fiore non può sbocciare e noi non possiamo neppure fare un passo senza il concorso dell'onnipotenza divina. È la grande verità che Gesù ci ha insegnato con le parole: «Senza di me non potete far nulla» *(Gv.* 15, 5).
 
-
-2. — Il Vangelo, riprendendo lo stesso argomento dell'Epistola, ci presenta Gesù che piange su Gerusalemme. Il
-Creatore, il Signore, il Salvatore piange sulla rovina delle
-sue creature, del lo che ha prediletto fino a sceglierlo
-quale compagno della sua vita terrena e che avrebbe voluto
-salvare a tutti i costi.
-
-« Gerusalemme, Gerusalemme... quante volte io pure vol:
-li adunare i tuoi figlioli come la pla raduna i suoi pul
-cini sotto l'ali e tu non hai voluto!» (Mt. 23, 37). Questo
-è stato l'atteggiamento costante di Gesù verso la città santa,
-ma questa è sempre rimasta cieca ad ogni luce, sorda ad ogni
-invito e il Salvatore, pochi giorni prima di andare alla Pas
-sione, le lancia l'ultimo, accorato richiamo: «Oh, se cono
-scessi anche tu, e proprio in questo iorno, quel che giova
-alla tua pace!» Ma ancora una volta la città resiste e Gesù,
-dopo averla tanto amata, dopo aver pianto su di lei come la
-madre piange sul figlio traviato, le predice le sua rovina:
-«i tuoi nemici... non lasceranno in te pietra su pietra, perchè
-non hai riconosciuto il momento nel quale sci stata visitata >.
-
-E tu sai riconoscere i momenti nei quali il Signore visita
-l'anima tua? Una parola buona, letta o udita forse anche per
-caso, un esempio edificante, un'ispirazione interiore, una luce
-nuova che ti fa vedere più a fondo i tuoi difetti, che ti apre
-nuovi orizzonti di virtù e di bene, sono altrettante visite di
-Gesù. E tu, come corrispondi? La tua anima è sensibile a
-queste luci, a questi richiami? Non ti sorprendi qualche volta
-in atto di a lo sguardo altrove per timore che la luce
-
-
-intravista ti chieda sacrifici troppo duri al tuo amor proprio?
-
-
-Oh, se tu avessi sempre riconosciuto il momento in cui
-il Signore ti ha visitato! Se ti fossi sempre spalancato alla
-sua azione! Cerca, dunque, di ricominciare oggi da capo, disposto a ricominciare poi ogni volta che ti accadrà di cedere
-alla natura. « Quello che giova alla tua pace, al tuo bene,
-
-alla tua santificazione sta proprio qui, in questa continua
-adesione agli impulsi della grazia. .
+La nostra potenza, la nostra capacità non ha in noi la sua radice, ma unicamente in Dio: «la nostra sufficienza viene da Dio» *(II Cor.* 3, 5), dice S. Paolo. Pensiero questo che si deve tenere molto presente: qualsiasi cosa noi sappiamo fare, non è per virtù nostra, ma unicamente perché Dio ci ha messi a parte della sua potenza divina; abbandonati a noi stessi, non saremmo capaci neppure di formulare un pensiero o di articolare una parola. D'altra parte, questa nostra radicale impotenza non ci deve avvilire perché Dio, bontà infinita, come ci ha comunicato l'essere, come ci ha comunicato la sua bontà, così ci comunica la sua potenza e, anzi, è disposto a comunicarcela maggiormente quanto più ci vede umili e convinti della nostra impotenza. È così che Dio si diletta a scegliere gli umili, «le cose vili e spregevoli del mondo, cose che non son nulla» *(I Cor.* 1, 27), per compiere le opere più grandiose. È così che S. Teresa d'Avila può dire: «Teresa da sola non può nulla, ma con Gesù può tutto», e S. Paolo: «Ogni cosa posso in Colui che mi dà forza» *(Fil.* 4, 13). La ragione di tanti nostri insuccessi nel bene, nelle opere di apostolato e nel progresso della virtù sta proprio nel non appoggiarci abbastanza all'onnipotenza divina. Facciamo troppo assegnamento sui mezzi umani e troppo poco sul soccorso di Dio onnipotente. È vero che non dobbiamo rimanere inerti ad attendere l'aiuto divino, è vero che dobbiamo fare tutto ciò che è in nostro potere, tuttavia non dobbiamo mai aspettarci la riuscita dalle nostre industrie e fatiche, ma unicamente dall'aiuto della divina onnipotenza.
 
 ### Colloquio
 
-«Come già a te confessai, o gloria della mia vil i
-gnore Dio mio, virtù della mia salute, io ZA AT
-mia virtù la quale, però, non era virtù; e quando volli correre,
-mentre maggiormente mi credevo in piedi, allora più velocemente caddi e tornai indietro, invece d'avanzare; e ciò che
-credevo di conseguire, s'è andato da me allontanando; così Tu,
-O Signore, in molti modi metti alla prova le mie forze. Ora
-che m'illuminasti, conosco che ciò che maggiormente credevo
-di fare non lo potevo compiere da me. Dicevo a me stesso:
-Farò questo, terminerò quel lo; e non feci nè l'una cosa nè l'altra. Vi era la volontà, non il potere e se v'era il potere, non vi
-era la volontà, poichè confidavo nelle mie forze. Sorreggimi,
-dunque, o Sig ore, perchè da solo nulla posso; perchè quan:
-do la mia stabilità sei Tu, allora, è vera stabilità; ma quando
-la mia stabilità sono io, allora è fiacchezza » (S. Agostino).
+«L'onnipotente tua mano, o Signore, creò in cielo gli angeli e sulla terra il vermiciattoli e non fu superiore nel creare quelli, né inferiore nel creare questi. Come nessun'altra mano potrebbe creare l'angelo, così nessuna può creare il vermiciattolo; come nessuna potrebbe creare il cielo, così nessuna può creare la minima foglia d'albero, né alcun altra cosa al quale tutto è ugualmente possibile. Né a te è più facile creare il verme che l'angelo, ma tutto quello che Tu volesti fu fatto in cielo ed in terra, nel mare e in tutti gli abissi.
 
-«O Signore, insegnami ad essere sempre docile alla tua
-grazia, a dirti sempre di sì. Dire sempre di sì alla tua volontà
-significata nei tuoi comandamenti. Dire sempre di sì alle ispirazioni intime con cui Tu mi solleciti, m'inviti ad una più
-intensa unione, ad una più generosa dedizione, ad un più
-totale distacco. Fa' che io sia sempre pronta ad aprire la
-porta della mia volontà, anzi, a tenerla sempre spalancata
-affinchè Tu possa entrare e così io non perda nessuna di
-queste tue visite, di questi tocchi delicati, di queste
-ispirazioni.
+«Tu creasti dal nulla tutte le cose, le quali facesti con la sola tua volontà; Tu possiedi ogni tua creatura senz'alcuna indigenza, la governi senza fatica, la reggi senza tedio e nulla v'ha che turbi l'ordine del tuo impero, né in alto, né in basso. Tu non sei autore del male che non puoi fare, benché Tu via sia che Tu non possa; né mai ti pentisti di ciò che avevi fatto, né sei turbato da alcuna tempesta o commozione dell'animo, né i pericoli di tutta la terra possono riuscire a tuo danno» (S. Agostino).
 
-« Fammi ben comprendere che la vera pace non consiste
-nè devo ricercarla nell'esenzione dalle difficoltà, ma nella totale adesione alla tua
-volontà, nella docilità alle ispirazioni della grazia »
-(Cfr. Sr. Carmela d. Spirito S.).
+«Mi rallegro, o Signore, che la tua onnipotenza sia posta nelle mani della tua giusta ed amorosa volontà, perché tutto quello che procederà da tal volere e potere sarà buono ed utile per me e tornerà a gloria del tuo nome. O Dio uno e trino, tanto saggio quanto potente e tanto potente quanto buono, e in tutto infinito, illumina il mio intelletto con la tua sapienza, rendi buona la mia volontà con la tua sovrana bontà, fortifica le mie potenze con la tua meravigliosa potenza, affinché io ti conosca, ti ami e ti serva con fortezza» (Ven. L. Da Ponte).

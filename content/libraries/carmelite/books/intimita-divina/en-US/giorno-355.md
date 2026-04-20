@@ -1,50 +1,105 @@
-## 355 — THE END OF TIME
-*Last Sunday after Pentecost*
+## 33 — PEACE TO MEN
+*December 29*
 
 ### Presence of God
 
-My God, who at the end of life will judge me on love, make me capable of growing in it every day.
+— I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).
 
 ### Meditation
 
-At the close of the liturgical year, the Church gives us a prayer of thanksgiving for the year now passed, a prayer of propitiation for the one about to begin, a warning about the brevity of this present life, and an invitation to remain ready for the final step that will introduce us into eternal life.
+1 — At Bethlehem the angels announce two things: glory to God and peace to men; one corresponds to the other.
+No one gives glory to God as that little Child does,
 
-In the Epistle (Col 1:9-14), St. Paul prays and gives thanks in the name of all Christians: «We do not cease praying for you and asking that you may be filled with the knowledge of [God’s] will... so as to walk worthy of the Lord, pleasing Him in all things, bearing fruit in every good work.»
+who lies on the hay: He alone, being the eternal Word, can
 
-This is a beautiful summary of all the labor that, during the whole year, the interior soul has tried to do in order to conform itself ever better to God’s holy will, indeed to unite itself wholly to it, so that, moved in everything by the divine will, it may act in a way pleasing to the Lord in all things.
+give Him perfect, infinite praise worthy of Him. And no one
+more than Jesus the Savior brings peace to men and women;
+repairing the offense of sin, He reconciles man with his Creator and establishes between them a new covenant: the Creator will become Father and man His child.
 
-Let us praise God if, with His help, we have managed to take some step forward on this road, the surest road to holiness; and making the Apostle’s sentiments our own, let us thank «God the Father, who has made us worthy to share in the inheritance of the saints»: the inheritance of saints, of those who strive for holiness, is union of love with God—here below in faith, in heaven in glory.
+Something similar takes place in our daily life: whoever observes the divine law enjoys peace; but we can also say: whoever observes the divine law gives glory to
+God. To the peace of men corresponds perfectly the
+glory of God. It is a matter, however, of that peace that comes only from
+God, from His grace, and which we would vainly seek elsewhere.
 
-This inheritance is ours because Jesus merited it for us with His Blood. It is ours because in Jesus «we have redemption, the remission of sins,» so that, purified from guilt and clothed in grace by His infinite merits, we too may rise to that most high and blessed state of union with God.
+"Peace is the tranquility of order." Order is established by law, by the divine will: whoever fully respects
 
-But if, with divine help, we have made some progress, greater progress still remains; therefore the Church in today’s Collect prays for us: «Stir up, O Lord, the wills of your faithful, that, bringing forth more fervently the fruits of heavenly works, they may receive greater help from your goodness.»
+the law possesses the fullness of interior peace; whoever
+departs, even a little, from this order loses in propor-
 
-Exactly so: the more we correspond to grace, the more the Lord gives greater graces; the more we hasten our steps toward Him, the more He draws us to Himself, until from this intertwining of divine helps and our response there results the sanctification of each of us.
+tion his peace. Peace is the refreshment, the rest of the soul amid the struggles and sorrows of life; but not
+only for this must we strive to conquer and possess it,
+we must want it above all because to it corresponds the
+glory of God.
 
-The Gospel on the end of the world and Christ’s coming to judge the living and the dead reminds us that, as the liturgical year passes and ends, so too man’s life on earth passes and ends.
+2 — The angels promise peace "to men of
+good will." The will is "good" when it is upright, docile,
+resolute. Upright, that is, sincerely and totally oriented toward
+good. Docile, always ready to follow every indication of the divine will. Resolute, ready to adhere to God's
+will, even when obstacles and
+difficulties intervene and sacrifices are required. Through the circumstances
+of life, even the smallest, the Lord continually urges
+us to generosity, to self-denial: we must give ourselves
+without hesitation, sure that, if God asks, He will also grant
+the strength to carry it out. Such was the conduct of the shepherds: as soon as
+they heard the Angel's announcement they left everything, flock and rest, "they went with haste and found... the Child lying in the manger" (Lk. 2, 16). They were the first to find Jesus and to taste His peace.
 
-Everything will come to an end; and at the end of all things there will be the majestic epilogue: «Then shall appear in heaven the sign [that is, the Cross] of the Son of Man, and all peoples of the earth shall mourn, and they shall see the Son of Man coming upon the clouds of heaven with great power and majesty.»
-
-Jesus, who once came to earth in poverty, hiddenness, and suffering to teach us the way to heaven and redeem our souls, has every right to return in glory at the end of time to gather the fruits of His work and of His Blood.
-
-He will be our Judge, and as He Himself said, He will judge us on love: «Come, ye blessed of my Father, possess the kingdom... For I was hungry and you gave Me to eat; I was thirsty and you gave Me to drink... As long as you did it to one of these My least brethren, you did it to Me» (Mt 25:34-40).
-
-His sweet precept of love—love of God and love of neighbor—will be the code by which we are examined. Blessed are we if we have loved, and loved much!
-
-«Many sins are forgiven her, because she hath loved much» (Lk 7:47), Jesus said of the sinful woman. The greater and deeper our love, the more it can make up for all our sins, all our miseries, all those faults into which, despite good will, we fall every day.
-
-«It matters greatly,» says St. John of the Cross, «that the soul exercise acts of love in this life, so that, being quickly consumed, it may not remain long in these lower things that hinder it from seeing God.»
-
-He is speaking of the soul inflamed with divine love that anxiously longs for heaven to see God face to face and love Him more. Yet in any case it remains true that only an intense exercise of love can lead to union with God, both here on earth and in blessed eternity.
-
-Happy the soul that, at life’s end, having exercised itself much in love, may at once be admitted to heaven’s beatifying union. Then it will have nothing to fear from Jesus’ judgment; rather, that judgment will be its joy forever.
+St. Teresa of Jesus says: "Holy peace consists in conforming in everything to God's will, in such a way that between
+God and the soul there is no division and between
+them there reigns only one will, not in words and desires,
+but in deeds. When the soul knows that a certain thing is of better service to her Spouse, she no longer listens to anything, neither the reasons
+of the intellect nor fears..., but lets faith act,
+without caring for her own rest and interest" (P. 3, 1). This is
+perfect "good will." Mary and Joseph are its unsurpassable model: despite the obscurity of the mystery and the
+sacrifices, they adhered with total abandonment to the
+divine plan and had the supreme joy of welcoming the King of
+heaven in their arms. To the greatest good will corresponds the greatest union with God, peace and joy.
 
 ### Colloquy
 
-«Deign, O Lord, to give me true love, at least before I die. It will be great consolation for me, at the hour of death, to think I must be judged by Him whom I have loved above all things. I will then come before You with confidence, even with the burden of my debts, persuaded that I go not to a foreign land, but to my homeland, to your kingdom, O Lord, whom I love and who love me so much.
+How I thank You, O Jesus, for the infinite glory You give
+to Your divine Father, thus making up for all the incapacity and insufficiency of us poor men and women! You are the perfect praise
+of the Most Holy Trinity, the splendor of Its glory: praise and
+thanks I give to You, O Lord! You could glorify Your
+Father without caring for us who had offended Him: what need
+has God of our good, of our happiness? But, most compassionate, You willed to give glory to Your Father precisely by giving
+us salvation, by giving us peace. Oh, how I desire this peace that You came to bring into the world!
+You alone can give it to me, You alone can fully pacify
+my poor heart, too often torn between the
+demands of Your divine love and the violence of my passions,
+the attractions of the world.
 
-«How sweet, my God, will be the death of one who has done penance for sins and need not go to purgatory! He will begin already on earth to enjoy heaven’s glory, without fear, with soul in perfect peace» (St. Teresa of Jesus).
+Give me, O Lord, Your peace; may it establish in me Your
+kingdom and make me a praise of glory for Your holy Name.
+But You will that, while expecting everything from Your grace and
+from Your mercy, I do not cease to work diligently
+to obtain this great gift of Yours.
 
-«To You, Lord our God, we must always cling, so that by your continual help we may live holily, piously, and justly. By the weight of our weakness we are drawn downward; but by your grace we are set ablaze and rise upward.
+You will give me peace if I have "good will." A will
+sincere, that adheres uprightly to good, without duplicity,
+without evasions, without ulterior motives or compromises. O Lord,
+give me this upright will that at no cost departs from
+good, from truth; even when truth lashes me and lays bare
+my miseries, give me courage to love it,
+to accept it entirely as it is and to act accordingly.
+I would like, O Lord, to have a most docile will at every
+sign of Yours, like a light sailboat that
+docilely follows every breath of wind. But my will is
+still so hard, stubborn, difficult to bend, fixed in
+its positions! Make it pliable, sweetest Jesus, You
+who from heaven bent down to earth to carry out the will of Your Father.
 
-«We burn with your holy fire and walk toward You. Where are we going? Upward, to the peace of heavenly Jerusalem.... We have here no lasting city, but seek the city to come, for our dwelling is in heaven. Therefore, with aid of your grace, I enter the secret of my heart and raise to You songs of love, to You, my King...»
+And then give strength to my will, that it may know how to overcome
+every reluctance, every wavering and hesitation, above all
+
+when it must surmount difficulties and meet sacrifices.
+Lord, I would like to have an upright and resolute will to come to You straight and swift like an arrow, a will
+docile like the wave to the wind, to follow faithfully
+every indication of Your divine will. Then there would no longer be any division between my will and Yours, there
+would be perfect union, perfect peace.
+What a most lofty ideal, O Jesus, You have given to man redeemed by You! He who was in sin, and therefore so far from God as guilt is from infinite perfection,
+is, by Your precious merits, not
+only raised up from the abyss in which he lay, but called to union with God. Through Your mediation, the Master and
+Judge becomes Father, Friend, Spouse of the soul of good
+will.
+
+O Jesus, how much You have given us, how much You have given me! To You be praise forever!

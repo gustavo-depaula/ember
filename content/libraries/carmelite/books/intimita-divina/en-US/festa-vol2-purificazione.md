@@ -1,0 +1,27 @@
+## February 2 — THE PURIFICATION OF MARY
+
+**Presence of God.** — *O Lord, I come to You beseeching You, through the intercession of the Blessed Virgin Mary, to purify my soul.*
+
+### Meditation
+
+**1** — Today's feast, which closes the Christmas cycle, is at the same time a feast of Jesus and of Mary: of Jesus who, forty days after His birth, is presented in the temple by His Mother according to the prescription of the law; of Mary who submits to the rite of purification.
+
+First of all, the liturgy celebrates the first entrance of the Child Jesus into the temple: "Behold, the Ruler, the Lord, comes to His temple: rejoice and be glad, O Sion, going forth to meet your God" *(BR.)*. Let us also go forth to meet Him, emulating the sentiments of old Simeon who, "led by the Holy Spirit" *(Vg.: Lk.* 2, 22-32), went to the temple and full of joy received the Child Jesus in his arms.
+
+To make this meeting more festive, today the Church blesses and gives us blessed candles; in procession with lighted candles, we enter the temple. The lighted candle is a symbol of Christian life, of faith and grace which must shine in our soul. But it is also a symbol of Christ, the light of the world, "a light to enlighten the nations," as Simeon hailed Him. The lighted candle reminds us that we must always carry Christ with us, He who is the source of our life, the author of faith and grace. And Jesus Himself, by His grace, disposes us to go to meet Him with greater faith and love. May our meeting with Him today be especially intimate and sanctifying.
+
+Jesus is presented in the temple to be offered to the Father. For Him there is no redemption price, as for the other firstborn of the Jews; He is the victim who must be immolated for the salvation of the world. His presentation in the temple is, so to speak, the offertory of His life; the sacrifice will then be accomplished on Calvary. Let us offer ourselves together with Jesus.
+
+**2** — Jesus is presented in the temple by His Mother; today therefore we contemplate Mary in her role as Coredemptrix. Our Lady did not ignore that Jesus was the Savior of the world and, through the veil of prophecy, she intuited that His mission would be fulfilled in a mystery of sorrow in which, as Mother, she would have to participate; and Simeon's prophecy, "and your own soul a sword shall pierce" *(Lk.* 2, 35), confirmed this to her. Then Mary in the secrecy of her heart had to repeat her *fiat*: "Behold the handmaid of the Lord; be it done to me according to thy word" *(ibid.* 1, 38). Offering the Son, she offers herself, always intimately united to His lot.
+
+But before entering the temple to present Jesus there, Mary wishes to submit to the law of legal purification. Although fully aware of her virginity, she places herself on the same level as all other mothers and, mingled among them, humbly waits her turn, bringing with her "a pair of turtledoves," the offering of the poor. We see Jesus and Mary submit to laws by which they were in no way bound: Jesus did not have to be redeemed, Mary did not have to be purified. Lessons in humility and respect for God's law.
+
+There are laws by which we are bound and from which our self-love exempts us with false pretexts: they are abusive dispensations claimed in the name of rights that in reality do not exist. Let us humble ourselves and, while Mary had no need at all to be purified, let us acknowledge our extreme need of interior purification.
+
+### Colloquy
+
+"O Jesus, You went to offer Yourself in the temple; who offered You? Mary Virgin offered You, she than whom neither before nor after there has ever been one like her. Mary offered You, she who by the mouth of the wise man was called by Your Father so beautiful and fair... To whom did she offer You? She offered You to God, infinite substance, exalted in His creation, fruitful in sublime inheritance and inexhaustible in His order, gracious and gentle in love. And what did she offer? She offered You, eternal Word, substance of the divine Essence, Son of the Most High, lawgiver of the universe. You, who are called by so many beautiful and great names: O key of David, O King of nations, O Emmanuel.
+
+"And what do You teach me, O Lord, by offering Yourself in the temple? You show me reverence for the law, because You wished to observe it; You show me adoration, because You offered Yourself to the Father not as equal to Him, as in truth You are, but as man. Here You teach me the reverence I must have for Your law; and not only are Your law the Ten Commandments, but also the Rule and Constitutions. This Your law is all sweet and gentle to me, but I make it bitter when I do not deny myself, because then, instead of carrying it sweetly, the law is forced to carry me" (cf. St. Mary Magdalene de' Pazzi).
+
+O Jesus, today through the hands of Mary, I desire to offer myself together with You to the Eternal Father. But You are the purest Host, holy, immaculate, whereas I am full of stains, miseries, and sin. O my Mother Mary, You who, though exempt from every shadow of imperfection, wished to be purified, purify, I beg You, my poor soul, so that it may be less unworthy to be offered to the Father together with His and Your Jesus. O most pure Virgin, introduce me into the way of a serious and profound purification, and then accompany me Yourself so that my faintheartedness may not fail because of the harshness of the path.

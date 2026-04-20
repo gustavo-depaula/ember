@@ -1,119 +1,30 @@
-## 139 — S. GIUSEPPE PATRONO DELLA CHIESA
-*marzo*
+## 63 — LA VITTORIA DELLA CROCE
+*sabato santo*
 
-### Presenza di Dio
-
-— O glorioso S. Giuseppe, fa' che sotto il tuo patrocinio cresca e si sviluppi la mia vita interiore.
+**Presenza di Dio.** — *O Gesù, crocifisso per amor mio, svelami la vittoria riportata dalla tua morte.*
 
 ### Meditazione
 
-1 — Oggi la Chiesa ci presenta S. Giuseppe, il grande
-patriarca alla cui custodia Dio volle affidare la porzione
-elettissima del suo gregge: Maria SS.ma e Gesù. Appunto
-PERE cenno è stato scelto da Dio quale custode della
+**1** — Non appena Gesù rese l'ultimo respiro, « il velo del tempio si squarciò... e la terra tremò, e le rocce si fendettero, e le tombe si spalancarono e molti corpi risuscitarono », sì che i presenti « temettero grandemente e dissero: 'Costui era davvero Figlio di Dio' » *(Mt.* 27, 51-54). Gesù ha voluto morire nell'ignominia più completa, accettando fino all'ultimo gli scherni e le ironiche sfide dei soldati: « Se Tu sei il Cristo salva te stesso » *(Lc.* 23, 39); ma, appena spirato, la sua Divinità si rivelò in un modo così potente da imporsi anche a coloro che fino a quel momento si erano burlati di lui. La morte di Cristo comincia così a manifestarsi quale realmente è, ossia non una sconfitta, ma una vittoria, la più grande vittoria che il mondo conosca: vittoria sul peccato, vittoria sulla morte, conseguenza del peccato, vittoria che ridona agli uomini la vita della grazia.
 
-amiglia di Nazaret, primo nucleo del grande famiglia
-cristiana, la Chiesa ha voluto riconoscere in lui il custode,
-il patrono di tutta la cristianità. È questo il significato
-della festa odierna, la quale c’invita così a fissare lo sguardo sulla missione del grande Santo nei rapporti con Gesù e
-con la sua Chiesa.
+Ieri, presentando la Croce alla nostra adorazione, la Chiesa cantava: « Ecco il legno della Croce su cui è stata sospesa la salute del mondo » e, dopo il mesto alternarsi degli *improperi*, inalzava un inno in lode della Croce: « Attorno al trofeo della Croce celebra il nobile trionfo per cui il Redentore del mondo, pur immolato, ha vinto! ». Così la considerazione e la compassione dei patimenti del Signore si alterna con l'inno della vittoria. Morte e vita, morte e vittoria sono termini contraddittori tra loro, eppure vediamo che in Gesù sono strettamente congiunti, così da essere il primo la causa del secondo. S. Giovanni della Croce, dopo aver descritto l'agonia di Gesù sulla Croce, afferma: « proprio allora compì l'opera più grande di quante mai in vita ne avesse fatte con miracoli e prodigi strepitosi,... l'opera con la quale riconciliò ed unì il genere umano con Dio, per mezzo della grazia. Ciò avvenne appunto allorchè l'amoroso Signore era più avvilito e umiliato in tutto, cioè: intorno alla reputazione degli uomini, poichè vedendolo morire su di un tronco, non che averne un po' di stima, si facevano beffe di lui; e in quanto alla natura, poichè in essa in certo modo si annichilava morendo; e circa la protezione e il conforto spirituale del Padre che in quei momenti lo abbandonò ». E poi conclude: « Di qui l'uomo spirituale intende il mistero della porta e della via di Cristo, per unirsi con Dio, e sappia che quanto più si annienta per amor suo,... tanto più si unisce a lui e tanto maggior opera compie » (S. II, 7, 11).
 
-Conosciuto il mistero dell’Incarnazione, tutta la vita di
-Giuseppe gravita intorno a quella del Verbo Incarnato:
+**2** — « In pace dormo e riposo »; così comincia il Mattutino del sabato santo, alludendo alla pace del sepolcro in cui, dopo tanti strazi, riposa il Corpo santissimo di Gesù; difatti questo giorno è il più indicato per raccoglierci nel silenzio e nella preghiera accanto al sepolcro del Signore.
 
-er lui le sue ansie, le sue sofferenze, le sue fatiche, il suo.
-lavoro; per lui tutte le sue premure, le sue energie, le sue
-risorse, il suo tempo. Non ha riservato nulla per sè, ma,
-totalmente dimentico di qualsiasi esigenza, desiderio o veduta personale, si è dato tutto agli interessi ed all'opera di
-Gesù; per Giuseppe non esistono che Gesù e Maria ed egli
-sente che la sua vita non ha altra ragione di essere che il
-loro servizio, la loro custodia. Così ha partecipato in pieno,
-qui: collaboratore umile e nascosto, all'opera della Redenzione e, se non ha accompagnato Gesù nella sua
-vita apostolica ed alla sua morte di croce — come invece
+Dopo la morte di Gesù, atterriti dal terremoto e dalle tenebre, tutti avevano lasciato il Calvario, tranne il gruppo dei più fedeli: Maria SS.ma e Giovanni che non si erano mai allontanati dalla Croce, Maria Maddalena ed altre pie donne che « avevano seguito Gesù dalla Galilea per assisterlo » *(Mt.* 27, 55). Il Signore è ormai spirato, ma essi non sanno distaccarsi da lui, Maestro adorato, oggetto di tutto il loro amore e di tutte le loro speranze. Ciò che li trattiene in modo irresistibile accanto a quel Corpo esanime è appunto il loro amore. Questo è il carattere della vera fedeltà, perseverare anche nei momenti più oscuri e penosi in cui tutto sembra perduto, in cui l'amico, anzichè trionfare, viene ridotto alla sconfitta e all'umiliazione più profonda. Essere fedeli a Dio quando tutto va bene, quando la sua causa trionfa, è facile; ma essere fedeli nell'ora delle tenebre, quando Egli permette il momentaneo sopravvento del male, per cui tutto ciò che è buono e santo sembra travolto e sommerso irrimediabilmente, è arduo, ed è la prova più certa di un amore verace.
 
+Intanto due discepoli, Giuseppe d'Arimatea e Nicodemo, s'incaricano della sepoltura: il sacro Corpo viene deposto dalla Croce, involto in un lenzuolo con aromi e poi deposto « nel sepolcro nuovo » che Giuseppe « s'era fatto scavare per sè nella roccia » *(Mt.* 27, 60). Insieme con la Madonna, che dovette certamente essere presente alla scena e accogliere fra le braccia il Corpo straziato del suo Figlio divino, accostiamoci anche noi a quelle sacre spoglie; ancora una volta fissiamo lo sguardo in quelle piaghe, in quelle ferite, in quel sangue che con tanta eloquenza ci parlano dell'amore infinito di Gesù per noi. È vero, ora quelle piaghe non sono più doloranì, ma gloriose e domani, con la Pasqua, celebreremo appunto la grande vittoria da esse riportata; ma, benché glorificate, quelle piaghe restano e resteranno in eterno come il segno indelebile dell'eccessiva carità con cui Cristo ci ha amati.
 
-ha fatto Maria — ha però lavorato agli stessi fini del
-Salvatore.
-
-Essendo stato il custode fedele della Sacra Famiglia,
-non è possibile che dal cielo S. Giuseppe non continui
-ad essere il custode della grande famiglia cristiana, la
-Chiesa tutta, la quale, sicura della sua protezione ed appoggiandosi ad essa, così prega: « Sostenuti dal patrocinio dello Sposo della tua santissima Madre, imploriamo, o Signore, la tua clemenza...; per i suoi meriti e
-per la sua intercessione guidaci alla gloria eterna » (MR).
-
-
-2 — La chiamata di Giuseppe a custode della famiglia di Nazaret è stata anche una chiamata all'intimità
-ivina. Non dobbiamo dimenticare che S. Giuseppe sta
-
-nel punto di divisione fra l’antico e il nuovo testamento;
-la prima parte della sua vita appartiene all'antico e la
-seconda al nuovo. Prima della venuta di Gesù, Egli,
-come tutti i patriarchi della vecchia alleanza, avrà certamente seguito l'indirizzo dei suoi tempi, per cui i suoi
-rapporti con Dio saranno stati soprattutto informati da
-un senso di sacro timore riverenziale. Ma dal momento
-in cui l'Angelo gli rivela il mistero dell’Incarnazione ed
-Egli viene a sapere che Maria, sua Sposa, è la Madre
-del Redentore, tutto cambia nella sua vita. Dio, da lui
-sempre onorato come l'Altissimo, l’Inaccessibile, il tre
-volte Santo, gli si fa vicino, tanto vicino, fino ad incarnarsi nel seno della sua Sposa e fino a scegliere lui come
-suo Padre putativo. Appena nato, vien posto fra le sue
-braccia, è affidato alle sue cure, e poi crescerà sotto i
-suoi sguardi, si nutrirà alla sua mensa, dormirà sotto
-il suo tetto. Quale vita d’intimità! E non solo è intimità
-di rapporti esterni, ma anche di rapporti interiori, spirituali, perchè Giuseppe sa per fede che Gesù è il suo
-Dio. Così, insieme con Maria, il grande Santo fu il primo
-ad entrare in quella vita di amore e d’intimità con Dio,
-di cui Gesù ci ha aperto le porte. Vediamo dunque Giuseppe compiere la sua missione non solo con totale de-
-
-
-dizione esterna, ma anche con un cuore pieno di Gesù,
-in cui fiorisce una splendida vita d'intimità divina. Mentre si dà alle opere richieste dal suo compito di padre
-putativo, nel segreto della sua anima vive in continui
-rapporti d'amore col suo Dio, Verbo Incarnato.
-
-Nella Chiesa ognuno di noi ha la sua missione da
-compiere per il bene delle anime e per la gloria di Dio,
-missione che esige opere e spesso opere faticose, sacrifici e azione intensa. Come S. Giuseppe, dobbiamo darci
-con generosità, con totalità, senza risparmio, senza riserva; ma, nello stesso tempo, dobbiamo anche noi darci
-alle opere di Dio con un cuore pieno di Dio, con un
-cuore che vive in intimità con lui, alimentando questa
-intimità mediante l’ esercizio assiduo dell’ orazione. Giuseppe c’insegni il suo dolce segreto di vita attiva e contemplativa insieme, affinchè, come lui, sappiamo darci
-all’azione senza trascurare la nostra vita di intima unione
-con Dio.
+Sabato santo, giorno di transizione fra le angustie del venerdì e la gloria della Risurrezione, sia un giorno di raccoglimento e di preghiera accanto al Corpo esanime di Gesù: spalanchiamo il nostro cuore, purifichiamoci nel Sangue di lui, affinchè, tutto rinnovato nell'amore e nella purezza, possa gareggiare col « sepolcro nuovo » nell'offrire all'amantissimo Maestro un luogo di pace e di riposo.
 
 ### Colloquio
 
-«San Giuseppe, te felice, cui fu dato non solo di vedere e di ascoltare quel Dio che molti re bramarono di
-vedere e non videro, di ascoltare e non ascoltarono, ma
-anche di portarlo fra le braccia, di baciarlo, di vestirlo, e
-custodirlo!... O S. Giuseppe, gli altri solo dopo la morte,
-ma Tu ancora vivente, al pari dei beati, godi di Dio e
-vivi accanto a lui. Tu stringi al tuo cuore Gesù Bambino,
-‘Tu lo segui profugo in Egitto, Tu l’alberghi sotto il tuo
-tetto » (cfr. BR).
+« Ave, o Croce, unica speranza nostra! Tu ai giusti accresci la grazia e ai peccatori rimetti le colpe. O albero glorioso e fulgido, ornato dalla porpora del Re, sulle tue braccia è appeso il prezzo della nostra Redenzione, in te è la nostra vittoria, il nostro riscatto! » (cfr. *BR.).*
 
-«Oh, quanti dolci baci hai ricevuto da lui! Con quanta
-dolcezza sentivi chiamarti dal pargoletto che appena balbettava e con quanta soavità ti sentivi dolcemente abbracciare. Con quanto amore, nei viaggi, lo facevi riposare
-sulle tue ginocchia mentre Egli, ancora bambino, era
-spossato dalla fatica! Un amore senza riserve ti portava
-verso di lui, come verso un dolcissimo Figliolo che lo
+« O Cristo, ancora una volta fisso nel tuo volto esanime il mio sguardo e non senza lacrime alzo gli occhi miei alle piaghe e trafitture tue, non senza commozione inalzo il cuore contrito e considero quanta tribolazione hai incontrato per cercare me, per salvare me.
 
+« O Gesù buono, con quanta liberalità, sulla croce, ci regalasti tutto quel che avevi! Ai crocifissori desti la tua orazione affettuosa, al ladrone il paradiso, alla Madre il figlio, al figlio la Madre, ai morti la vita, alle mani del Padre l'anima tua; offristi a tutto il mondo segni del tuo potere e, per redimere lo schiavo, non poche stille, ma tutto il Sangue donasti, il Sangue che versavi dalle molte e larghe ferite!... O soavissimo Signore e Salvatore dell'universo, come ti ringrazierò degnamente?
 
-Spirito Santo ti aveva donato, medianté la Vergine tua
-sposa » (S. Bernardino da Siena). ali
+« O Gesù buono, Tu chini il fiorente capo, trafitto dai molti aculei, invitandomi al bacio di pace e par che mi dica: 'Ecco come sono sfigurato, squarciato, ammazzato. Sai perchè? O pecorella smarrita, per prenderti e riportarti sulle mie spalle e ricondurti al pascolo celestiale del Paradiso. Rendimi il contracambio... Guardami nella mia Passione. Amami. Io mi son dato a te, datti a me...'. O Signore, intenerito dalle tue piaghe, voglio mettermi sopra di me, appassionato quale ti vedo; voglio mettermi come sigillo sopra il mio cuore, e come segnacolo al mio braccio, per conformarmi a te ed al tuo martirio in tutti i pensieri del mio cuore, in tutte le imprese del mio braccio.
 
-«O glorioso Santo, è cosa che fa veramente meraviglia
-il ricordare i grandi favori che il Signore mi ha fatto e i
-pericoli, sì di anima che di corpo, da cui, per la tua intercessione, mi ha liberata, Sembra che agli altri Santi Dio
-abbia concesso di soccorrerci in questa o in quell'altra
-necessità, Tu invece stendi il tuo patrocinio su tutto... A
-te devono essere affezionate specialmente le persone di
-orazione;... e chi non avesse maestro da cui imparare per
-far orazione, prenda te per guida e non sbaglierà » (T.G.
-Vi.6,6C8).
-
-O Giuseppe, fa’ che sotto il tuo patrocinio cresca e
-prosperi la vita della Chiesa tutta e Îa vita interiore di
-ogni cristiano. Sotto la tua protezione metto la mia vita
-spirituale; Tu che hai vissuto tanto vicino a Gesù, introducimi nella sua intimità e fa’ che, come te, possa servirlo
-con un cuore pieno di amore.
+« O dolcissimo buon Gesù! Tu che ti desti per noi in prezzo del riscatto, concedici, sebbene non siam degni di tanto prezzo, che ci arrendiamo alla tua guida, interamente, perfettamente e in tutto » (cfr. S. Bonaventura).

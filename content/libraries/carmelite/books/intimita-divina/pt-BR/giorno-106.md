@@ -1,132 +1,104 @@
-## 106 — HUMILDADE E CONFIANÇA
+## 104 — A HUMILDADE
 
 ### Presença de Deus
 
-— Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.
+— Ó Jesus, que tanto te humilhaste por nós, ensina-me a prática da verdadeira humildade.
 
 ### Meditação
 
-1 — A humildade cristã não deprime, mas eleva,
-não abate, mas encoraja, porque quanto mais desvenda à alma
+1 — A caridade é a essência da perfeição cristã,
+porque só a caridade tem o poder de unir o homem a Deus, seu
+último fim. Mas da nossa parte - pobres, míseras criaturas
+que Deus quer elevar até a união com ele - a caridade
+é propriamente o último fundamento da vida espiritual? Não,
+existe algo ainda mais profundo, que é por assim
+dizer o fundamento da caridade, e é a humildade. A humildade
+está para a caridade, como os fundamentos estão para o edifício.
+Escavar os fundamentos de uma casa ainda não é construir
+a casa, contudo é o trabalho preliminar, indispensável:
+a condição sine qua non. Quanto mais os fundamentos
+forem profundos e bem assentados, tanto mais o edifício poderá
+erguer-se em altura e dará garantia de solidez. Só o estulto
+"edifica sua casa sobre a areia", com a inevitável consequência de vê-la bem cedo desabar; mas o homem sábio
+edifica "a casa sobre a rocha" (Mt. 7, 24-26) e então,
+apesar do ímpeto das águas e dos ventos, a casa
+não desaba, justamente porque seus fundamentos estão solidamente plantados.
+
+A humildade é a rocha sólida e segura sobre a qual toda alma
+cristã deve elevar o edifício de sua vida espiritual.
+"Se quereis que vosso edifício se levante sobre bom fundamento - ensina S. Teresa de Jesus às suas filhas -
+procurai ser as últimas de todas [isto é, exercitai-vos
+muito na humildade] e assim poreis pedras tão fortes que impedirão vosso castelo de ruir" (cf. M. VII, 4, 8).
+
+A humildade cava os fundamentos da caridade, no sentido
 
 
-seu nada, sua baixeza, tanto mais a lança para Deus,
-cheia de confiança e de abandono. O próprio fato
-de que em tudo - no ser e no agir, tanto na ordem natural quanto na
-sobrenatural - dependemos dele e nada podemos fazer sem ele,
-nos diz que Deus quer sustentar-nos continuamente
-com seu socorro, com sua graça. Em consequência,
-as relações de uma alma humilde com Deus serão aquelas
-de um filho que espera tudo confiantemente
-de seu pai. É este o ensinamento que Jesus quis
-dar aos Apóstolos quando lhe perguntaram quem seria o maior
-no reino dos céus: "Em verdade vos digo:
-se não vos converterdes e não vos tornardes como criancinhas,
-não entrareis no reino dos céus. Quem portanto se fizer pequeno como esta criança será o maior no reino dos céus" (Mt. 18, 3-4).
-Tornar-se criança - explica S. Teresa do Menino Jesus -
-"quer dizer reconhecer o próprio nada,
-esperar tudo do bom Deus como uma criança espera
-tudo de seu pai... Mesmo entre os pobres,
-dá-se à criança o necessário; mas quando ela se torna
-grande, seu pai já não quer sustentá-la
-e lhe diz: 'Agora trabalha! podes bastar-te a ti mesma.' Precisamente para não ouvir essas palavras,
-eu nunca quis tornar-me grande, reconhecendo-me absolutamente incapaz de ganhar minha vida,
-a vida eterna!" (CR. e NV.).
-
-Para a alma que, reconhecendo humildemente sua indigência,
-se volta para Deus com plena confiança, Deus é um terníssimo
-Pai que se compraz em cumulá-la de seus dons e em fazer
-por ela aquilo que ela sozinha não sabe fazer. Então quem é mais
-pequeno - isto é, mais convencido do próprio nada - torna-se
-o maior, porque tem à sua disposição a grandeza do
-próprio Deus.
+de que esvazia a alma da soberba, esvazia a alma do amor desregrado de si e da própria excelência para dar lugar ao amor de Deus e do próximo. Quanto
+mais a humildade desocupa a alma das vãs e orgulhosas
+pretensões do eu, tanto mais dá lugar a Deus. E "quando enfim [o homem espiritual] chegar a reduzir-se ao nada, isto é,
+a estabelecer-se em suma humildade, então sim se poderá dizer que já aconteceu a união espiritual entre sua alma e Deus"
+(G.C. S. II, 7, 11).
 
 
-2 — Deus não introduz as almas numa vida espiritual
-mais elevada, não as admite a maior intimidade com ele,
-enquanto não as encontra completamente despojadas de toda confiança
-em si mesmas. Quando uma alma, esquecendo praticamente
-seu nada, confia ainda que um pouco em suas próprias forças,
+2 — A alma que deseja chegar às sublimes alturas
+da união com Deus deve trilhar a via de uma profunda
+humildade, porque, como o Mestre divino ensina,
+só "quem se humilha será exaltado" (Lc. 18, 14).
 
+Quanto mais alto é o ideal de santidade a que aspiras,
+quanto mais excelsa a meta a que tendes, tanto mais deves descer, ou melhor deves escavar em ti mesmo o fértil abismo da humildade. "Abyssus
+abyssum invocat" (Sl. 41, 8), o abismo da humildade invoca
+o abismo da Misericórdia infinita, das graças e dos dons
+divinos; de fato "Deus resiste aos soberbos e dá a graça aos
+humildes" (I Ped. 5, 5). Humilha-te, pois, sob a mão potente de Deus, reconhece sinceramente teu nada, toma
+consciência da tua miséria, e se queres gloriar-te,
+fá-lo - como S. Paulo - só das tuas enfermidades, porque justamente na tua fraqueza, humildemente reconhecida, opera e triunfa a graça e a virtude divina (cf. II Cor. 12, 9). Se também
+tu pertences à fileira daquelas almas boas, sinceramente desejosas de avançar na via da perfeição,
+mas que contam demais com as próprias forças e iniciativas
+pessoais, poderás com muito proveito aplicar a ti mesmo
+a preciosa advertência que S. Teresa do Menino Jesus dava
+a uma noviça: "Vejo bem que ela erra caminho e não
+chegará jamais ao fim de sua viagem, porque quereria
+subir um monte, enquanto Deus quer fazê-la descer...
+o próprio Jesus se encarregará de encher-lhe a alma, à medida
+que ela a esvaziar de suas imperfeições" (CR.).
 
-em sua ciência, iniciativas e virtudes, Deus a deixa
-a si mesma; os insucessos que se seguirão, as recaídas,
-a esterilidade de suas obras porão a nu
-sua insuficiência. E quanto mais tenaz a alma for em
-confiar em si, tanto mais o Senhor lhe prolongará esta
-experiência prática do seu nada.
-
-S. Teresa de Jesus, falando de sua definitiva e total
-conversão, confessa que o que a impedia de superar
-os últimos obstáculos era precisamente um resíduo de confiança que
-ainda tinha em si mesma: "Eu errava por não pôr no
-Senhor toda minha confiança e por não desconfiar bastante das
-minhas forças" (Vi. 8, 12). A confiança em Deus cresce à medida
-da desconfiança de si e torna-se total quando a alma, tendo compreendido a fundo seu nada, perdeu toda confiança
-em seus recursos pessoais. A alma então experimenta a
-realidade da palavra de Jesus: "Quando tiverdes feito tudo
-o que vos foi mandado, dizei: 'Somos servos inúteis'"
-(Lc. 17, 10) e, embora se tenha muito exercitado na vida
-interior, na oração, na virtude, sabe que não pode contar
-de forma alguma com suas forças, sabe que, embora tenha trabalhado para
-a glória de Deus, não pode contar de modo nenhum com suas obras;
-e assim conta total e unicamente com a misericórdia e
-com a graça de Deus: "Non habeo fiduciam nisi in tua misericordia". Sua confiança está nos méritos infinitos de Jesus,
-no amor misericordioso do Pai celeste e na obra
-
-
-da graça; e esta confiança a torna mais que nunca corajosa e ousada, porque sabe que com Deus tudo se pode.
+O sublime ideal da união com Deus supera totalmente as nossas capacidades de fracas criaturas; se podemos aspirar
+a ele, não é porque contamos chegar por meio de nossos
+esforços e iniciativas, mas porque confiamos que o próprio Deus, segundo sua promessa, virá
+tomar-nos pela mão. Mas Deus não toma pela mão a alma soberba, Ele se inclina só sobre os humildes e quanto
+mais encontra uma alma humilde, tanto mais a eleva até si.
+A humildade escava na alma a capacidade de receber a abundância dos dons divinos.
 
 ### Colóquio
 
-"O que agrada a Jesus - diz a Santa de Lisieux -
-é ver-me amar minha pequenez e minha pobreza; é a
+"Ó meu Deus, Tu me fazes compreender até que ponto
+devo descer para que meu coração possa servir-te de morada: devo fazer-me tão pobre a ponto de não saber onde reclinar
+a cabeça. Meu coração não está inteiramente vazio de mim mesma e
+por isso Tu me ordenas descer. Oh, eu quero descer
+muito para baixo, para que Tu possas repousar no meu
+coração tua cabeça divina e ali sentir-te amado e compreendido!
+Ó doce Hóspede divino, Tu conheces minha miséria e justamente por isso vens a mim com a intenção de encontrar
+uma tenda vazia, um coração totalmente vazio de si. Tu não
+me pedes outra coisa" (cf. T.B.G. Lt. 116 e 144).
+
+Ó Senhor, ajuda-me a escavar na minha pobre alma
+aquele abismo de humildade que atrai o abismo das tuas misericórdias infinitas. Ajuda-me a descer, enquanto meu orgulho
+ama tanto subir. Ajuda-me a reconhecer e confessar humildemente meu nada e minha fraqueza, enquanto meu or-
+gulho ama tanto reputar-se alguma coisa grande. Ajuda-me
+a gloriar-me de minhas enfermidades, enquanto meu orgulho
+tende continuamente a gloriar-se do que não é meu,
+mas é puro dom teu. Meu Deus, como é verdade que a santidade percorre caminho oposto ao da natureza! Dá-me a força de empreender com coragem este caminho, de ir
+em ti, ó Senhor, porque sei que estás sempre pronto a socorrer o fraco que a ti recorre e em ti se confia; porque sei
+que, se minha soberba é grande, tua misericórdia é
 
 
-cega esperança que tenho em sua misericórdia. Eis meu
-único tesouro" (Lt. 176).
+infinita e tua onipotência é invencível; porque sei que
+se "alguém está exausto e necessitado de auxílio, sem
+forças e abundante de miséria, assim que teu olhar
+se põe sobre ele, Tu o levantas de sua baixeza e miséria,
+e ergues sua cabeça" (cf. Ecli. 11, 11-13).
 
-
-"Reconheço-o, ó Senhor, sou muito fraca e cada
-dia faço nova experiência disso. Mas Tu te dignas
-
-
-ensinar-me aquela ciência que me faz gloriar das minhas enfermidades.
-Esta é uma graça muito grande, e só nela
-encontro paz e repouso do coração porque já compreendi teu modo: dás como sabe dar Deus, mas queres
-a humildade do coração" (cf. T.B.G. Lt. 87 e 140).
-
-Ó Senhor, tua luz penetra minha alma e me faz
-compreender quão distantes estão minhas vias das tuas!
-Em vez de irritar-me por minhas misérias, em vez de abater-me
-por minhas quedas e por meus fracassos, em vez de pretender
-ter êxito em tudo e realizar coisas grandes, devo
-aceitar humildemente ver-me tão fraca, tão indigente,
-tão necessitada do teu auxílio.
-
-Para uma alma que te ama, meu Deus,
-quão doce é ter necessidade de ti, de tal modo que nada se possa fazer sem ti!
-É doce, porque isso me diz que Tu
-queres continuamente intervir na minha pobre vida, que queres continuamente sustentar-me com tua graça,
-que jamais me abandonarás um instante sequer. E para dar-me a abundância
-de teus auxílios divinos,
-Tu não esperas outra coisa senão que eu me ponha diante de ti na atitude humilde e confiante
-de uma criança que, não podendo contar com suas forças
-e seus recursos, tudo espera de seu pai. Tu esperas
-que, profundamente convencido do meu nada, eu aceite e
-ame sentir-me nada, para que Tu sejas meu Tudo.
-
-Despoja-me, ó Senhor, despoja-me de todo resíduo de confiança em mim mesmo. Se todo homem é semelhante ao feno dos campos
-que hoje é e amanhã já não é, que maior estultícia
-pode haver do que contar com a força de um fio de erva? Cura-me, ó Senhor, de tanta estultícia e põe-me, eu te peço,
-na verdade. Ó Tu que és a Verdade, santifica-me na verdade,
-na verdade do meu nada.
-
-Só Tu és bom, meu Deus, e só Tu podes fazer-me
-bom; só Tu és justo e só Tu podes justificar-me. Tu
-só és santo e só Tu podes santificar-me. Quanto menos
-posso esperar de mim, tanto mais posso e quero esperar
-de ti; de ti o bom querer e a constância,
-de ti a força e a paciência, de ti a pureza e a bondade,
-de ti a virtude e a santidade. De mim nada, e de ti tudo. Ó Senhor, apressa-te em
-vir em meu socorro: meu nada te invoca, minha miséria suspira por ti!
+Ó Senhor, quem será "abundante de miséria" mais do que
+eu, que ainda não venci meu orgulho? E então quem
+mais do que eu terá necessidade do teu socorro?

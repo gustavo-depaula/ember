@@ -1,100 +1,19 @@
-## 209 — IL CUORE DI GESÙ NOSTRO RIFUGIO
+## IX — FESTA DEL SACRO CUORE DI GESÙ
 
-### Presenza di Dio
+*Venerdì dopo l'Ottava del Corpus Domini*
 
-O Gesù, degnati d'introdurmi nel tuo Cuore sacratissimo e sia questo il luogo del mio raccoglimento, del mio rifugio, del mio riposo.
+**Presenza di Dio.** — *O Gesù, concedimi di penetrare i segreti nascosti nel tuo Cuore divino.*
 
 ### Meditazione
 
-1. — Ripetutamente la liturgia della festa e di tutta
-l'ottava del Sacro Cuore ci presenta il Cuore di Gesù come arca di salvezza, come nostro asilo e rifugio. « Cuore,
-arca... della grazia, del perdono, della misericordia. Cuore,
-santuario purissimo della nuova alleanza, tempio più santo
-dell'antico... Chi non sceglierà in questo Cuore la sua eterna dimora? » canta l'inno delle Lodi. In queste beatissime
-aperture del Cuore di Cristo mi rifugerò — esclama
-S. Pietro Canisio — in esse porrò il mio sicurissimo nido »
-(BR. merc. d. l'ott., lez. VIII). Questa è sempre stata
-l'aspirazione delle anime contemplative, delle anime di vita
-interiore: rifugiarsi nel Cuore di Cristo, come nel loro
-asilo preferito, S. Teresa Margherita del Cuore di Gesù
-scriveva nei suoi ultimi propositi: « Mio Dio, ora per sempre intendo rinchiudermi nel vostro amabilissimo Cuore
-come in un deserto, per quivi vivere in voi, con voi e per
-voi una vita nascosta di amore e di sacrificio » (cfr. Sp.
-p. 324). L'anima che desidera approfondire i misteri di
-Cristo, che desidera intendere qualcosa del suo amore
-infinito non trova miglior mezzo che penetrare nel suo
-Cuore o, come si esprime S. Giovanni della Croce, «nascondersi nel petto del suo Amato, poichè in questo pertugio Egli l'invita nei Cantici dicendo: "Alzati, affrettati,
-amica mia bella; vieni colomba mia, nei forami della pietra
-e nell'apertura della maceria"» (C. 37, 5). Rinchiuditi, dunque, nel Cuore di Cristo per contemplare i suoi misteri ed
-il suo amore, ma rinchiuditi in esso anche per trovarvi una
-difesa alla tua vita interiore. E' questo un luogo di ritiro
-che è sempre a tua disposizione e in cui puoi rifugiarti pur
-vivendo in mezzo alle occupazioni ed agli affari. Quando il
-chiasso, la curiosità, le chiacchiere, le vanità del mondo
-tentano d'invaderti, usa la santa pratica di rifugiarti, con
-un rapido movimento interiore, nel Cuore di Gesù e quivi
-troverai sempre raccoglimento e pace.
+**1** — Dopo aver fissato i nostri sguardi sull'Eucaristia, dono che corona tutti i doni dell'amore di Gesù per gli uomini, la Chiesa c'invita a considerare direttamente l'amore del Cuore di Cristo, fonte e motivo di ogni dono. Si può dire che la festa del Sacro Cuore di Gesù è la festa del suo amore per noi. «Ecco quel Cuore che ha tanto amato gli uomini» ha detto Gesù a S. Margherita Maria; «ecco quel Cuore che ha tanto amato gli uomini» ci ripete oggi la Chiesa, mostrandoci che proprio «nel Cuore di Cristo, ferito per i nostri peccati, Dio si è misericordiosamente degnato di donarci infiniti tesori di amore» (cfr. Colletta). Ispirandosi a questo pensiero, la liturgia odierna è una rassegna degli immensi benefici che a noi provengono dall'amore di Cristo, è un inno di lode al suo amore. «*Cogitationes Cordis ejus*» canta l'Introito della Messa: «del Cuore di Gesù» — i disegni del suo Cuore — passano di età in età per strappare le anime alla morte, per alimentarle in tempo di carestia. Il Cuore di Gesù è sempre in cerca di anime da salvare, da sciogliere dai lacci del peccato, da lavare col suo Sangue, da cibare col suo Corpo; il Cuore di Gesù è sempre vivo nell'Eucaristia per saziare la fame di tutti coloro che anelano a lui, per accogliere e consolare tutti quelli che, delusi dalle amarezze della vita, si rifugiano in lui, in cerca di pace e di ristoro. E Gesù stesso ci sostiene nell'asprezza del cammino: «Prendete su di voi il mio giogo e imparate da me che sono mansueto e umile di cuore, e troverete riposo alle vostre anime» (Alleluja). Se è impossibile eliminare il dolore dalla vita, è però possibile per chi vive per Gesù, soffrire in pace e trovare nel suo Cuore il riposo dell'anima stanca.
 
-2. — «In ogni tentazione rifugiati con diligenza nel
-l'amabile Cuore di Cristo e mettiti innanzi la sua bontà
-e carità e con essa paragona la tua bassezza, malizia, infedeltà, arroganza» (BR. merc. d. l'ott. S. Cuore). Sì, il
-Cuore di Gesù sarà il tuo più sicuro asilo durante le
-tentazioni; se vuoi sfuggire le insidie di satana e della tua
-natura cattiva, rifugiati nel Cuore di Colui che ha vinto
-satana e che con le sue ferite ha sanato le nostre miserie.
-Gesù è il vincitore 'del male, rifugiandoti in lui nulla
-avrai da temere; la tempesta potrà ancora ruggire contro
-di te, ma l'anima tua sarà ben riparata e protetta dal naufragio. Di qualunque genere siano le lotte che devi sostenere, anche le più aspre ed umilianti, mantieni intatta la
-tua fiducia in quel Cuore divino che è la salvezza di coloro che sperano in lui. « Cor Jesu, salus in te sperantium,
-ci fa dire la Chiesa nelle litanie del Sacro Cuore.
+**2** — Il Vangelo e l'Epistola ci fanno considerare ancora più direttamente il Cuore di Gesù. Il Vangelo ci mostra il suo Cuore messo a nudo dalla ferita della lancia: «uno dei soldati gli aprì il costato con la lancia» e S. Agostino commenta: «L'Evangelista ha detto *aprì*, per mostrarci che la porta della vita ci si apre in certo modo là, donde sono sgorgati i sacramenti». Dal Cuore trafitto di Cristo — simbolo dell'amore che l'ha immolato per noi sulla Croce — sono sgorgati i sacramenti, figurati nel sangue e nell'acqua usciti dalla sua ferita, e proprio mediante questi sacramenti noi riceviamo la vita della grazia; sì, è ben giusto dire che il Cuore di Gesù è stato *aperto* per introdurci nella vita. «Stretta è la porta che conduce alla vita» *(Mt.* 7, 14) disse un giorno Gesù, ma se per questa porta noi intendiamo la ferita del suo Cuore, possiamo dire che non poteva aprirci una porta più accogliente.
 
-E anche nelle cadute, nelle infedeltà di ogni giorno continua a confidare in questo dolcissimo Cuore: «con gran
-fiducia getta i tuoi peccati nell'abisso della sua carità — ti
-ammonisce S. Pietro Canisio — e ti troverai subito liberato da essi» (BR. l.c.). E S. Bernardo dice con maggiore
-forza: «Ho commesso un gran peccato: si turberà la coscienza, ma non si sconcerterà, perchè mi ricorderò delle
-piaghe del Signore. Egli, infatti, è stato piagato per le
-
-nostre iniquità. Chi è tanto condannato a morte che non
-possa essere liberato dalla morte di Cristo?» (BR. ottava
-S. Cuore, lez. IV). Con questa fiducia ricorri al Cuore di
-Gesù e rifugiati in esso, in tutte le tue cadute. Malgrado
-la buona volontà di essere sempre fedele, spesso ti accadrà,
-o per debolezza o per sorpresa, di commettere qualche
-fallo: umiliatene profondamente, riconosci con umiltà la
-tua miseria, ma la constatazione di questa non ti allontani
-mai dal Cuore di Gesù: ritorna a lui come il figliuol prodigo alla casa del Padre e, ritornando, chiedi perdono, bacia la sua sacratissima piaga, rinnova il proposito di voler
-stabilire la tua dimora in questo Cuore pieno di bontà e
-di misericordia.
+Ma S. Paolo, nella sua bellissima Epistola, ci invita ad entrare ancora più addentro nel Cuore di Gesù per contemplare «le sue imperscrutabili ricchezze» e penetrare l'«arcano nascosto in Dio». Quest'«arcano» è appunto il mistero dell'amore infinito che ci ha prevenuto sin dall'eternità e che ci è stato rivelato dal Verbo fatto carne, è il mistero di quell'amore che ci ha voluto redimere e santificare in Cristo «nel quale abbiamo libero accesso a Dio». Ancora una volta Gesù ci si presenta come la porta che conduce alla salvezza: «Io sono la porta. Chi entrerà per me sarà salvo» *(Gv.* 10, 9) e la porta è il suo Cuore che, lacerandosi per noi, ci ha introdotto nella vita. Solo l'amore ci può far penetrare questo mistero d'amore infinito; ma non basta un amore qualsiasi, è necessario, come dice S. Paolo, essere «radicati e fortificati in amore», solo così potremo «intendere quest'amore di Cristo che sorpassa ogni scienza, affinché siamo ripieni di tutta la pienezza di Dio».
 
 ### Colloquio
 
-«O Gesù dolcissimo, la tortuosità dei miei peccati mi
-vieterebbe l'ingresso nel tuo Cuore. Ma, siccome un'incomprensibile carità ha dilatato ed ampliato il tuo Cuore,
-siccome Tu, che solo sei Santo, puoi rendere mondo chi
-è concepito da immondo seme, o Gesù bellissimo, lavami
-dal delitto, mondami dai peccati miei. Purificato da te, possa avvicinarmi a te, Purissimo, possa entrare e dimorare
-nel tuo Cuore tutti i giorni della mia vita, per sapere e
-per fare quello che vuoi da me!» (S. Bonaventura, Vite
-mistica, 3, 4).
+«O Gesù, per divina disposizione fu permesso che uno dei soldati ti aprisse e squarciasse il costato. Col Sangue e con l'acqua che ne sgorgarono, veniva ad effondersi il prezzo della nostra salute che, versandosi dal fonte arcano del tuo Cuore, desse forza ai sacramenti di conferire la vita della grazia e fosse, per quelli che vivono in te, la coppa dunque, o anima mia, non cessare di vegliare, accosta qui la tua bocca, per attingere le acque, per abbeverarti alla fonte del Salvatore.
 
-«Dove, invero, troveranno i deboli certa è stabile sicurezza e quiete se non nelle tue piaghe, o mio Salvatore?
-Tanto più sicuro io vi abito, quanto più Tu sei potente
-a salvarmi. Freme il mondo, pesa il corpo, insidia il demonio: io non cedo, poichè sono fondato in te, solida pie
-tra. Se dunque, o Cristo, mi ricorderò delle tue piaghe,
-mi ricorderò di questa medicina tanto potente ed efficace,
-non potrò essere spaventato da alcun morbo maligno. Pertanto io, pieno di fiducia, quel che mi manca lo prenderò
-dalle tue viscere, o Signore, perchè in te abbondano le
-misericordie, nè mancano i fori delle ferite per cui quelle
-
-fluiscono. Hanno forato le tue mani ed i tuoi piedi, con
-una lancia hanno aperto il tuo costato; attraverso queste
-ferite mi è lecito gustare e vedere quanto Tu sei dolce, o
-Signore!
-«Il ferro trapassò l'anima tua e raggiunse il tuo Cuore,
-affinchè Tu sappia compatire le mie infermità. Dalle ferite del Corpo è scoperto il segreto del tuo Cuore, è scoperto quel grande mistero di pietà, sono scoperte quelle
-viscere di misericordia per cui Tu sei venuto a noi dall'alto
-dei cieli. Dove, più chiaramente che nelle tue piaghe, poteva apparire che Tu, o Signore, sei dolce e mite e pieno
-di misericordia? Infatti, nessuno ha misericordia più grande
-di Colui che dà la sua vita per i condannati e votati a
-morte. Quindi, tutto il mio merito è la tua misericordia,
-O Signore, ed io non sarò sprovveduto, finchè Tu sarai misericordioso» (S. Bernardo, In Cant. 61, 3-5).
+«O Gesù, ora che già mi sono introdotto nel tuo dolcissimo Cuore — ed è gran bene lo starmene qui — non voglio facilmente lasciarmi distaccare da te. O quanto è buono e dolce abitare nel tuo Cuore! Il Cuore tuo, o Gesù buono, è il ricco tesoro, è la perla preziosa che ho scoperto nel segreto del tuo Corpo trafitto, come nel campo scavato. Chi getterà via questa perla? Ma piuttosto io butterò via tutte le perle del mondo, darò in cambio tutti i miei pensieri e tutti i miei affetti e me la comprò; getterò ogni mia sollecitudine nel tuo Cuore, o Gesù buono, e certamente esso mi sazierà. Ed io l'ho trovato il tuo Cuore, o Signore, il tuo Cuore, o Gesù benignosissimo: Cuore di re, Cuore di fratello, Cuore di amico. Nascosto nel tuo Cuore, non pregherò io? Pregherò, sì. Di già il *tuo* Cuore, lo dico francamente, è anche cuore *mio*. Se Tu, o Gesù, sei il Capo mio, come dunque quello che è tuo non può dirsi mio? Non è forse vero che gli occhi della mia testa sono miei? È dunque il Cuore del mio Capo spirituale, è cuor mio. Che gioia per me! Ecco: Tu ed io abbiamo un solo cuore. Frattanto, avendo ritrovato, o Gesù dolcissimo, questo Cuore divino ch'è tuo ed è mio, pregherò te, Dio mio: accogli nel sacrario delle tue udienze le mie orazioni, anzi attirami tutto nel tuo Cuore!» (S. Bonaventura. *Legno di vita,* 30. *Vite mistica,* 3, 3 e 4).

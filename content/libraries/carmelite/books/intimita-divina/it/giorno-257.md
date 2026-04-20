@@ -1,101 +1,21 @@
-## 257 — SIATE MISERICORDIOSI
+## XXVII — IL PRECETTO DELLA CARITÀ
 
-### Presenza di Dio
-
-— O Signore, dilata il mio cuore nella considerazione della tua misericordia infinita, affinchè impari a trattare i miei fratelli con viscere di misericordia.
+**Presenza di Dio.** — *O Signore, insegnami ad amarti davvero con tutto il cuore, con tutta l'anima, con tutte le forze.*
 
 ### Meditazione
 
-1. — Gesù ci ha rivelato il mistero dell'amore misericordioso del Padre celeste non solo per il nostro conforto e
-profitto personale, non solo per spingerci in Dio con fiducia
+**1** — «La virtù sta nel mezzo». Questo detto, tanto giusto per le virtù morali, non può essere applicato alle virtù teologali, che hanno un oggetto infinito. Dio, non possono avere nessun limite. La misura di amarla, è di non porre nessuna misura né alla fede, né alla speranza, né all'amore. Per quanto tu ami Dio, non potrai amarlo troppo, né potrai amarlo quanto Egli è amabile. Per natura sua, dunque, la carità non ammette alcun limite e tu non potrai mai dire: amerò Dio fino ad un certo punto e poi basta, perché in tal modo rinunceresti a tendere alla perfezione della carità che consiste nell'avvicinarsi il più possibile ad amare Dio in modo adeguato alla sua amabilità infinita. Perciò è necessario che nell'esercizio della carità non ti fermi mai, ma sempre cresca, impegnandoti in esso con tutte le tue forze. Proprio perché si tratta di amare Dio, bene supremo ed infinito, il precetto della carità ha un carattere totalitario: «Ama il Signore tuo Dio con *tutto* il cuore, con *tutta* la tua anima, con *tutta* la tua mente e con *tutta* la tua forza» *(Mc.* 12, 30). Se tu, creatura tanto limitata, non impieghi nell'amore di Dio tutto quel poco che hai e che sei, come potrai mai tendere davvero alla perfezione della carità? Se non è in tuo potere amare Dio quanto è amabile, è però in tuo potere cercare di amarlo con tutte le tue forze, ed è proprio questa la perfezione dell'amore che Dio richiede da te.
 
+Del resto, anche l'amore umano è per sua natura totalitario; quanto più un'amicizia è intima e profonda, tanto più esige il dono esclusivo del cuore; e quando un amico comincia a fare delle riserve, a donare ad altri il proprio affetto, l'amicizia perde il suo vigore, si raffredda e può anche spengersi. Vigila, dunque, perché non vi siano freddezze nella tua amicizia con Dio, vigila per conservare unicamente per lui le primizie del tuo cuore, vigila per impegnarti davvero ad amarlo con tutte le forze. È vero, solo in cielo potrai amare Dio con tutto il tuo potere e in modo tale che il tuo amore tenda *sempre attualmente* a lui; qui sulla terra non ti è possibile questa assoluta totalità e stabilità nell'amore, però è possibile, ogni volta che te ne accorgi, riportare in Dio il tuo cuore, i tuoi affetti, la tua volontà, i tuoi desideri.
 
-piena, ma anche per insegnarci ad usare misericordia verso
-il nostro prossimo: « Siate misericordiosi, com'è misericordioso il Padre vostro» (Lc. 6, 36). Il bene trascina al bene,
-la bontà genera bontà e così, quanto più un'anima penetra
-il mistero della misericordia infinita, tanto più si sente spinta ad emularla nei suoi rapporti con gli altri. Quando ci sentiamo irritati verso qualcuno, indisposti all'indulgenza ed al
-perdono, dovremmo tuffarci con tutte le nostre forze nella
-considerazione della misericordia infinita di Dio per affogare in essa ogni durezza, ogni risentimento, ogni collera. Se abbiamo un po' di esperienza della nostra miseria, non ci sarà
-difficile renderci conto che non vi è istante della nostra vita
-in cui non abbiamo bisogno della misericordia di Dio e questa misericordia è così longanime che mai ci rigetta per le
-nostre ricadute, che mai ci rinfaccia di averci perdonato molte volte, che mai ci nega il suo abbraccio paterno e pacificante. Nulla più di questa considerazione addolcisce l'anima
-e la rende piena di bontà verso gli altri. Oh, se gli altri potessero sentire nel nostro tratto un riflesso della misericordia
-infinita!
+**2** — Gesù ha detto: «Chi ama il padre o la madre più di me non è degno di me» *(Mt.* 10, 37), quindi il precetto della carità ci chiede di amare Dio sopra tutte le cose. Tuttavia, può essere inteso in due sensi: amare Dio più di qualsiasi creatura al punto da essere pronti a qualunque rinuncia piuttosto che offendere Dio gravemente; e questo è il primo grado della carità, indispensabile per essere amici di Dio, per possedere la grazia e, perciò, è richiesto a tutti. In un senso più profondo, però, amare Dio sopra tutte le cose significa dargli la preferenza su tutto e non soltanto su quello che può essere occasione di peccato grave o veniale, ma ancora su tutto ciò che non corrisponde pienamente al suo beneplacito; questo è il grado della carità perfetta a cui deve tendere ogni anima che aspira all'amicizia intima con Dio, grado che richiede assoluta rinuncia e assoluta purezza da qualsiasi ombra di peccato e di attacco alle creature. L'esercizio della carità perfetta esige, dunque, e compie in noi un'opera di totale purificazione: «La carità perfetta — dice S. Giovanni della Croce — vuota la volontà di tutte le cose perché ci obbliga ad amare Dio al di sopra di esse» (S. II, 6, 4).
 
-Pietro non aveva ancora compreso a fondo il mistero
-dell'amore misericordioso quando domandò a Gesù se bastava perdonare al prossimo fino a sette volte e gli dovette
-sembrare esagerata la risposta avuta: « Non ti dico fino a
-sette volte, ma fino a settanta volte sette» (Mt. 18, 22).
-Ma, dopo avere sperimentato la bontà di Gesù che con
-tanta larghezza gli perdonava la sua triplice negazione senza
-rivolgergli neppure una parola di rimprovero, il suo animo
-dovette cambiare completamente e lui, così focoso, così pronto all'ira e alle minacce, rivolgerà alla Chiesa primitiva questa tenera esortazione alla bontà ed al perdono: « Siate concordi, compassionevoli, amanti dei fratelli, misericordiosi. non rendete male per male, nè maledizione per male
-dizione; ma invece benedite perchè a questo siete stati chiamati » (I Pe. 3, 8). Come non sentire in queste parole un'eco
-
-
-di quelle di Gesù: « Amate i vostri nemici, fate del bene a
-chi vi odia »? (Mt. 5, 44).
-
-
-2. — Leggendo il Vangelo è facile constatare come le
-parole di Gesù, così miti a dolci perfino con i più grandi
-
-peccatori — ricordiamo quelle rivolte alla Maddalena, all'adultera e perfino a Giuda — diventano eccezionalmente
-severe e quasi dure di fronte alle mancanze di carità verso
-il prossimo. Dio ci ama infinitamente, non desidera altro
-che riversare sulle anime nostre i torrenti della sua misericordia sconfinata e tuttavia il suo amore e la sua misericordia si arrestano e si mutano in severità nella misura in cui
-trova duri ed esigenti verso il prossimo. Abbiamo tanto
-bisogno della misericordia del Signore, abbiamo tanto bisogno che Egli non ci giudichi, ma piuttosto ci compatisca,
-ci perdoni, ci usi misericordia e allora, perchè non ne useremo altrettanta verso i nostri fratelli? Forse perchè ci hanno
-offeso, ci hanno fatto soffrire? E noi non abbiamo offeso il
-nostro Dio? Non abbiamo, coi nostri peccati, cooperato all'amarissima passione di Gesù? Troppe volte siamo simili
-al servo crudele della parabola che, dopo aver ricevuto dal
-suo padrone il condono di un grande debito, non volle a
-sua volta condonarne uno molto più piccolo al suo compagno, ma lo gettò in prigione fino a che non avesse pagato l'ultimo centesimo. Come possiamo sperare che il Signore ci sia
-largo del suo perdono e della sua misericordia, se. noi ne
-siamo tanto avari col nostro prossimo? Non dimentichiamo le
-parole che ogni giorno ripetiamo nel Pater noster: « Perdona a noi i nostri debiti, come anche noi li perdoniamo ai
-nostri debitori » (Mt. 6, 12) e facciamo in modo che non siano
-la nostra condanna perchè Gesù ha detto: « Se voi perdonate agli uomini le loro mancanze, anche a voi le perdonerà
-il Padre vostro celeste; ma se non perdonate agli uomini,
-nemmeno il Padre vostro vi perdonerà i vostri peccati» (ivi,
-14 e 15). E, dunque, in mano nostra l'essere giudicati un
-giorno con maggiore o minore misericordia.
-
-«Alla sera di tua vita sarai esaminato sull'amore»
-(G.C. AM. 57), ossia in base all'amore che avrai avuto per
-
-
-Iddio e anche in base a quello che avrai avuto per il prossimo.
+Devi persuaderti che quaggiù l'esercizio dell'amore è intimamente congiunto con quello della rinuncia e di pari passo con essa; anzi, quanto più la carità è intensa e perfetta, tanto più esige rinuncia totale, ma è appunto così che l'anima giunge ad amare Dio con tutte le sue forze: «La forza dell'anima — dice ancora il Dottore mistico — consiste nelle sue potenze, passioni e appetiti, le quali cose son tutte governate dalla volontà; perciò, quando questa [mediante l'amore] le indirizza a Dio, sviandole da tutto ciò che non è lui, allora sì che veramente lo ama con tutta la sua forza» (S. III, 16, 2). Ecco la grande funzione della rinuncia rispetto alla carità: liberare le forze dell'anima perché possano essere tutte impegnate nell'amare e servire Dio. Devi davvero amare Dio con tutto il tuo cuore, sii molto generoso nella rinuncia e nel distacco; anche questo è esercizio di amore perché dispone l'anima alla carità perfetta.
 
 ### Colloquio
 
-«O Gesù, quanto stimi la carità che ci porta ad amarci
-vicendevolmente! Potevi infatti insegnarci a dire: 'Perdonaci, O Signore, perchè facciamo molta penitenza, perchè
-preghiamo molto, perchè digiuniamo, perchè abbiamo lasciato per te ogni cosa e ti amiamo assai'. Non hai neppur detto: "Perdonaci perchè siamo disposti a sacrificare per te anche la vita' ed altre cose del genere, ma soltanto: Perdonaci
-perchè perdoniamo!
+«O Signore Iddio, non bastava che ci permettessi di amarti, senza degnarti d'invitarci a ciò con esortazioni, di obbligarci con comandamenti? Ma no, Bontà divina, affinché non ci trattenesse dall'amarti né la grandezza tua, né la bassezza nostra, né qualunque altro pretesto, ce l'hai comandato. Oh, Dio buono, se sapessimo intendere la felicità e l'onore di poterti amare, quanto ci terremmo obbligati a te che non solo ci permetti, ma ci comandi di amarti! Oh, mio Dio, io non so se debbo amare più la tua infinita bellezza che dalla tua bontà divina mi si ordina di amare, o questa tua bontà che mi ordina di amare una sì infinita bellezza! O bellezza del mio Dio, quanto sei amabile essendomi concessa da sì immensa bontà; o bontà, quanto sei amabile nel comunicarmi una sì eminente bellezza!
 
-«Ecco una verità che dobbiamo spesso considerare: Tu,
-O Signore, hai voluto legare una grazia così grande com'è
-quella del perdono dei nostri peccati, meritevoli del fuoco
-eterno, ad una condizione così semplice com'è quella di perdonare anche noi. Ma che cosa dovrà mai fare una povera
-anima come la mia che ha avuto così poche occasioni di
-perdonare e molte, invece, di essere perdonata? Però, o Sinore, accetta il mio desiderio: mi sembra che per ottenere
-il tuo perdono sarei pronta a perdonare ogni cosa... Ma, pel
-momento, mi riconosco così colpevole innanzi a te, da vedere
-che mi trattano ancora troppo bene coloro che mi ingiuriani
+«O Signore, quanto è dolce questo comandamento, dato che, se da te fosse rivolto ai dannati, sarebbero all'istante liberati dalla loro massima sventura, e i Beati, solo per l'adempimento di esso, sono beati. O amore celeste, quanto sei amabile alle anime nostre! O Bontà divina, sii benedetta in eterno, Tu che con tanta premura ci comandi di amarti, benché il tuo amore sia tanto desiderabile e necessario alla nostra felicità, che senza di esso noi non possiamo essere se non infelici!
 
-«O Signore, io ho tanto poco da perdonare che Tu
-devi perdonare gratuitamente! Come qui si manifesta bene
-la tua divina misericordia!
-
-«Ma vi è forse qualche altro che, essendomi in ciò somigliante, non ha ancora compresa questa verità? Se cè,
-gli chiedo in nome tuo, o Signore, che la richiami spesso alla
-mente e non faccia conto di certe piccolezze che si chiamano
-offese. Eppure alle volte si ha il coraggio di credere di aver
-fatto gran troppo perdonando una miseria di queste.
-E poi, come se avessimo fatto un grande sforzo, ci presentiamo a te, o Signore, per domandarti perdono, col pretesto
-
-
-d'aver anche noi perdonato!... Ah! Signor mio, facci intendere che non comprendiamo nulla e che le nostre mani sono
-vuote! Degnati, sì, di perdonarci, ma soltanto per la tua misericordia! » (T.G. Cam. 36, 7 e 2-6).
+«O Signore, in cielo non avremo bisogno di alcun comandamento per amarti, giacché i nostri cuori, tratti e rapiti dalla visione della tua somma bellezza e bontà, si troveranno in una dolcissima necessità di amarti eternamente. Lassù avremo un cuore interamente sgombro da passioni, un'anima totalmente scevra di distrazioni, uno spirito libero da contrarietà, forze esenti da ripugnanze e perciò ti ameremo con perpetua e mai interrotta dilezione. Ma in questa vita mortale non possiamo giungere ad un così perfetto grado di amore, non avendo ancora né il cuore, né l'anima, né lo spirito, né le forze dei Beati. Tuttavia, Tu vuoi che in questa vita non lasciamo di fare quanto sta in noi per amarti con tutto il cuore e con tutte le forze che abbiamo; ciò non solo è possibile, ma facilissimo, perché amare te, o Dio, è cosa sommamente amabile» (cfr. S. Francesco di Sales).

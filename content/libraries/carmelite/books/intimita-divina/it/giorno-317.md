@@ -1,97 +1,27 @@
-## 317 — LE VARIE FORME DI APOSTOLATO
+## XXV — LA POTENZA E L'AMORE DI GESÙ
 
-### Presenza di Dio
+*XVIII Domenica dopo Pentecoste*
 
-O Gesù, insegnami a pregare, a soffrire, a lavorare con te per la salvezza delle anime.
+**Presenza di Dio.** — *O Gesù, fa' che io sappia sempre corrispondere ai doni del tuo amore.*
 
 ### Meditazione
 
-1 — Quando si parla di apostolato si pensa quasi
-esclusivamente all’attività esterna; certamente questa è necessaria, però non è l’unica forma di apostolato. Bisogna
-aver sempre presente che Gesù ci ha salvato non solo
-con l’attività svolta negli ultimi tre anni della sua vita,
-dedicati all’evangelizzazione delle folle e alla formazione
-del primo nucleo della Chiesa, ma anche con la preghiera, con la sofferenza, insomma, con tutta la sua vita. Ge-
-sù fu sempre apostolo, fu sempre il mandato del Padre
-per la nostra salvezza. Il suo apostolato comincia a Betlemme nello squallore di una grotta dove, piccolo bam-
-bino avvolto in fasce, già soffre per noi; continua nei
-trent'anni di vita trascorsi a Nazaret nella preghiera, nel ritiro, nel nascondimento; prende una forma esterna a
-contatto diretto con le anime durante la vita pubblica e
-culmina nell’agonia dell'orto degli olivi e nella morte di
-croce. Gesù è apostolo nella stalla di Betlemme, nella bottega di Giuseppe, nelle angosce del Getsemani e del Cal-
-vario non meno di quando percorre la Palestina ammaestrando le turbe o disputando con i dottori della legge.
-Il nostro apostolato consiste nell’associarci a quanto Gesù
-ha fatto per la redenzione dell'umanità, perciò non si limita solo all'attività esterna, ma consiste anche, e in mo-
-do essenziale, nella preghiera e nel sacrificio. Si distinguono così due forme fondamentali di apostolato: l’aposto-
-lato interiore della preghiera e dell'immolazione, che è
-un prolungamento della vita nascosta e della Passione di
-Gesù; l’apostolato esteriore della parola e delle opere, che
-è un prolungamento della sua vita apostolica. Tutti e due
-sono una partecipazione dell’opera salvifica di Gesù, però
-vi è fra loro una grande differenza: l’apostolato interiore
-è la base indispensabile dell’apostolato esteriore; nessuno
-infatti, può pensare di salvare le anime con un'attività
-che non sia sostenuta dalla preghiera e dal sacrificio. Invece, si danno casi in cui l'attività esterna può mancare,
-senza che per questo venga diminuita quella interiore della preghiera e del sacrificio, che può ugualmente essere
-molto intensa e feconda. Ogni cristiano è apostolo non
-solo in forza dell'attività che svolge, ma principalmente
-in forza della sua partecipazione alla preghiera ed al sacrificio con cui Gesù ha redento il mondo.
+**1** — Un povero paralitico viene presentato al Signore; probabilmente si è fatto portare da lui solo per chiedere la salute del corpo, ma davanti alla purezza ed alla santità che emana dalla persona di Gesù si ricorda di essere peccatore e rimane lì confuso, umiliato. Gesù ha già letto nel suo cuore e, vista la sua fede e la sua umiltà, non aspetta neppure che parli, ma subito gli dice con immensa bontà: «Abbi fiducia, figliuolo, i tuoi peccati ti sono perdonati». Il primo e il più grande miracolo è operato: quell'uomo non è più schiavo di Satana, ma è figlio di Dio. Gesù, che è venuto a salvare le anime, ha ben diritto di guarire l'anima prima del corpo.
 
+La cosa però non piace agli scribi i quali, non credendo nella divinità del Signore, subito in cuor loro lo tacciano di bestemmia. Ma il Maestro, come ha letto nell'anima del paralitico, così legge nelle loro: «Perché pensate male nel vostro cuore?». Se in quei cuori Gesù vedesse un po' di umiltà, un po' di fede sarebbe pronto a sanarli come ha sanato il cuore del paralitico; ma purtroppo non trova altro che superbia e ostinazione. Tuttavia vuole usare ogni mezzo per piegarli e dà loro la prova più evidente della sua divinità: «Affinché voi sappiate che il Figliuol dell'uomo ha sulla terra il potere di perdonare i peccati: "Alzati — disse al paralitico — prendi il tuo letto e vattene a casa"». E questi s'alzò e se ne andò a casa». Il miracolo fu strepitoso, rapidissimo: la parola di Gesù operò immediatamente quanto esprimeva; un simile potere non può averlo che la parola di Dio. Ma gli scribi non si dettero per vinti: quando il cuore è superbo ed ostinato, neppure l'evidenza dei fatti è capace di scuoterlo.
 
-2 — L'apostolato interiore può sussistere da sè e infatti vi sono forme di vita che legittimano l'assenza del-
-l'apostolato esteriore. È il caso della vita contemplativa
-pura, sempre fiorita nella Chiesa e da essa maternamente
-sostenuta contro chi la taccia di assenteismo dal campo
-dell’attività. Coloro che, seguendo la chiamata di Dio, si
-ritirano dalle opere per darsi a questo genere di vita non
-sono dei disertori, degli evasi; e se lasciano le file dell’apostolato esterno, lo fanno proprio per darsi ad un
-apostolato più profondo: quello della preghiera e dell’immolazione continua.
-« Coloro che compiono nella Chiesa l'ufficio della preghiera e della penitenza continua, contribuiscono all'in-
-cremento della Chiesa e alla salvezza del genere umano
-molto più di quelli che coltivano il campo del Signore
-con la loro attività; se essi infatti non traessero dal cielo
-l'abbondanza delle grazie divine per irrigare il campo, gli
-operai evangelici ricaverebbero certamente minor frutto
-dal loro lavoro » (Pio XI, Umbratilem). Questa autorevole
-affermazione di un grande Papa non può lasciar dubbio
-circa l’alto valore apostolico della vita contemplativa; d’altra parte, però, è giusto osservare che tale valore si rea-
-lizza solo quando i contemplativi si impegnano con tutte
-le loro forze nella preghiera e nell’immolazione continua.
-In altre parole, non qualsiasi preghiera e qualsiasi sacrificio raggiungono una fecondità così grande, ma solo la pre-
-ghiera e il sacrificio che partono da un cuore massimamente puro e generoso, totalmente dato a Dio e che,
-giorno per giorno, rinnova e vive con freschezza e profondità sempre maggiore la sua immolazione. Quando la
-vita contemplativa è vissuta con tale intensità è, in modo
-eminente, vita apostolica. Proprio in questo senso Pio XII
-definisce la vocazione claustrale una «vocazione apostolica
-universale... vocazione pienamente apostolica, non
-circoscritta da limiti di luogo, di tempo e di circostanze,
-ma sempre e dovunque pronta a zelare tutto ciò che in
-qualche modo può riguardare l'onore dello Sposo e la salute delle anime » (Cost. Ap. Sponsa Christi). Del resto, i
-monasteri contemplativi, col semplice esempio della loro
-vita di ritiro, di preghiera, di penitenza, sono per tutti
-un continuo richiamo al distacco dalle cose terrene, alla
-ricerca di quelle celesti, all'unione con Dio, alla santità.
+Non diciamo mai che la nostra fede è debole perché non vediamo, non tocchiamo con mano le verità che ci propone a credere, ma diciamo piuttosto che è debole perché il nostro cuore non è abbastanza docile alla grazia, non è del tutto sgombro dall'orgoglio. Se vogliamo avere una grande fede, siamo umili e semplici come fanciulli; se vogliamo avere parte alla grazia di santificazione ottenuta dal paralitico, presentiamoci al Signore con cuore contrito ed umiliato, profondamente convinti di avere bisogno del suo aiuto, del suo perdono.
+
+**2** — Il Vangelo ci ha presentato Gesù nello splendore della sua personalità divina, avente tutti i poteri propri di Dio; l'Epistola ce lo presenta nell'atto di porre, per così dire, la sua divinità a nostro servizio onde santificarci, divinizzarci. Quello che Gesù ha operato nell'anima del paralitico, continua ad operarlo nelle anime nostre e l'Epistola di oggi è appunto una bella sintesi della sua azione in noi, azione vasta e completa che abbraccia tutto il nostro essere. Contemplando questa azione S. Paolo esplode in un inno di ringraziamento: «Rendo grazie sempre a Dio per voi, per la grazia di Dio che v'è stata data in Cristo Gesù, perché in tutto siete stati arricchiti in lui d'ogni dono di parola e d'ogni conoscenza... in guisa che non vi manca nessun carisma». Sì, da Gesù ci viene ogni grazia ed ogni dono, per cui la nostra persona e la nostra vita sono da lui santificate. Mediante la grazia santificante Egli santifica l'anima nostra, mediante le virtù infuse santifica le nostre potenze, mediante la grazia attuale santifica la nostra attività, rendendoci capaci di agire soprannaturalmente. Eppure ciò non basta ancora alla sua liberalità: non si accontenta di averci messo in grado di camminare verso Dio soprannaturalizzati dalla grazia e dalle virtù, ma vuole sostituire il nostro modo umano di procedere col modo divino e perciò ci arricchisce dei doni dello Spirito Santo che ci rendono capaci di essere mossi da Dio stesso. Tutto ciò è dono di Gesù, è frutto della sua Passione; ed è pure dono suo lo Spirito Santo, il Dono per eccellenza che Gesù, morendo sulla croce, ci ha meritato e che continuamente, insieme col Padre, c'invia dal Cielo affinché illumini e diriga le anime nostre.
+
+Sembra quasi che Gesù, vero figlio di Dio, non sia geloso della sua divinità, delle sue prerogative, ma cerchi tutti i mezzi possibili onde partecipare a noi per grazia quello che Egli possiede per natura. Com'è vero che la caratteristica dell'amore è donarsi, è rendere uguali gli amanti!
+
+Apriamo il cuore alla riconoscenza, corrispond iamo all'amore infinito di Gesù e manteniamoci sempre sotto il suo influsso, perché Egli ci vuol «confermare sino alla fine, in modo da essere irreprensibili nel giorno della sua venuta».
 
 ### Colloquio
 
-«O Gesù, che cosa potrei fare per salvare le anime?
-E Tu mi rispondi con le parole che rivolgesti un giorno
-ai tuoi discepoli, additando loro i campi di grano maturo: «Alzate gli occhi e guardate come le campagne già
-biondeggiano per la messe... In verità la messe è copiosa,
-ma gli operai sono pochi; pregate dunque il Padrone della
-messe perchè mandi degli operai».
+«Pigliasti, o Gesù, la mia morte dandomi la tua vita, prendesti la mia carne per darmi il tuo Spirito, ti caricasti dei miei peccati per regalarmi la grazia.
 
-«Che mistero! O Gesù, non sei forse onnipotente?
+«Così, o mio Redentore, tutte le tue pene sono tesoro e ricchezza mia. Mi riveste la tua porpora, mi onora la tua corona, m'abbelliscono le tue lividure, i tuoi dolori sono il mio dono, le tue amarezze mi sostentano, le tue piaghe mi sanano, il tuo sangue m'arricchisce, il tuo amore m'inebria.
 
-Le creature non appartengono forse a te che le hai create? Perchè dunque dici: «Chiedete al Padrone della messe che mandi degli operai?» Perchè?... Ah, Gesù, perchè hai per noi un amore così immenso da volere che
-abbiamo parte con te alla salvezza delle anime: Tu non
-vuoi far niente senza di noi! Tu, Creatore dell'universo,
-aspetti la preghiera di una povera piccola anima per salvare altre anime redente come lei a prezzo del Sangue tuo.
-«La mia vocazione non consiste nell'andare a mietere
-nei campi maturi; Tu non mi dici: «Abbassa gli occhi,
-guarda i campi e va' a mietere»; la mia missione è ancora più sublime. Tu mi dici: «Alza gli occhi e vedi. Vedi
-come nel cielo vi sono dei posti vuoti: tocca a te riempirli... tu devi essere il mio Mosè pregante sulla montagna; chiedimi degli operai ed io li manderò, non aspetto
-che una preghiera, un sospiro del tuo cuore!».
-
-«Ecco, o Signore, la missione che mi affidi: contribuire con la preghiera e col sacrificio alla formazione
-degli Operai evangelici, i quali salveranno milioni di anime, di cui sarò la madre » (T.B.G. cfr. Lt. 114).
+«Tu sei riposo, fuoco e desiderio delle anime. Sei il pastore e l'agnello che togli i peccati del mondo. Sei l'eterno pontefice, potente per placare l'ira del supremo Padre. Chi non ti loderà, o Signore? Chi non t'amerà con tutto il cuore? O Gesù benigno, infiammami l'anima di tale amore, mostrami il tuo bel viso, rendi i miei occhi felici con i tuoi e non negare a chi ti ama il bacio di pace. Tu sei lo Sposo dell'anima mia, essa ti cerca, ti chiama con lacrime. Tu, o Santo, l'hai liberata dalla morte con la tua morte e ferendola con il tuo amore non l'hai aborrita. Perché la miseria mia e Salvator mio, dammi un cuore che ti ami, poiché niente v'è di più dolce che ardere sempre nel tuo amore» *(Ven. Luigi di Granata)*.

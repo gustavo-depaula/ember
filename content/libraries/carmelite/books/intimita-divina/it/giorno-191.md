@@ -1,85 +1,19 @@
-## 191 — LO SPIRITO SANTO E LA PREGHIERA
+## XXII — LE INIZIATIVE DELLO SPIRITO SANTO
 
-### Presenza di Dio
-
-O Spirito Santo, vieni a pregare in me, vieni a regolare i miei rapporti di figlio verso il Padre celeste.
+**Presenza di Dio.** — *O Spirito Santo, vieni Tu a dirigere l'anima mia nel cammino della santità.*
 
 ### Meditazione
 
-1. — I nostri rapporti con Dio sono essenzialmente rap
-porti di figli, devono quindi essere rapporti di piena fiducia e confidenza, poichè non siamo stranieri ma « domestici
-Dei» (Ef. 2, 19), ossia apparteniamo alla famiglia di Dio.
-Perciò la nostra preghiera dovrebbe essere l’espressione dei
-sentimenti di un figlio che gode d'intrattenersi a cuore a
-cuore col padre suo e che si butta fra le sue braccia con
-pieno abbandono. Ma, dato che siamo pur sempre poveri
-peccatori e la consapevolezza delle nostre miserie ed infedeltà cerca di paralizzare questo slancio filiale, generando
-nell'anima un certo timore, per cui spesso sale spontaneo
-alle labbra il grido di Pietro: « Allontanati da me, Signore,
-perchè sono uomo peccatore» (Lc. 5, 8.) Questo avviene
-soprattutto quando l'anima attraversa periodi oscuri di lotte,
-di tentazioni, di difficoltà che tentano di buttarla nell’agitazione e nel turbamento impedendole, malgrado i suoi sforzi
-quello slancio fiducioso del cuore che affoga in Dio ogni
+**1** — Benché l'anima nostra sia soprannaturalizzata dalla grazia santificante, le nostre potenze siano investite dalle virtù infuse e le nostre azioni prevenute e accompagnate dalla grazia attuale, tuttavia il nostro agire rimane sempre, in certo qual modo, umano, quindi incapace di congiungerci perfettamente a Dio e di portarci alla santità. Infatti, la nostra intelligenza, per quanto investita dalla virtù della fede, è sempre inadeguata all'Essere infinito, è sempre incapace di rappresentarcelo tale quale Egli è; per seguendo i dati della rivelazione dalla quale sappiamo che Dio è uno e trino, le idee che ci formiamo della SS.ma Trinità, delle tre Persone divine, delle perfezioni di Dio, rimangono sempre al di sotto della realtà. Sì, finché siamo su questa terra conosciamo Dio «a traverso uno specchio, in enigma», mentre soltanto in cielo «lo vedremo faccia a faccia» *(I Cor.* 13, 12). E non solo non abbiamo una conoscenza adeguata di Dio, ma non l'abbiamo neppure della santità: fino a un certo punto conosciamo le cose di Dio e così pure fino ad un certo punto conosciamo la via della santità; infatti non sempre sappiamo discernere il più perfetto e molte volte, pur non volendo, sbagliamo credendo buono e santo ciò che in realtà non lo è.
 
-preoccupazione. Ma ecco che un giorno, durante l'orazione,
-l’anima si raccoglie sotto l'influsso di una luce nuova che fuga ogni timore; non è un pensiero nuovo, ma una persuasione nuova, intima che le fa sentire profondamente di essere figlia di Dio e che Dio è suo Padre. E' l'influsso del
-dono di pietà, messo in atto dallo Spirito Santo. Già S. Paolo
-diceva ai primi cristiani: «Non avete ricevuto spirito di
-servitù da ricadere nel timore, ma spirito di adozione a
-figliuoli per cui gridiamo: “Abba, Padre’. Lo Spirito
-stesso attesta allo spirito nostro che siamo figli di Dio»
-(Rom. 8, 15 e 16). E’, dunque, lo Spirito Santo che infonde
+D'altra parte, la piena unione con Dio, ossia la santità, esige un perfetto orientamento verso di Lui, secondo il primo ed il massimo precetto di Gesù: «Ama il Signore Dio tuo con tutto il tuo cuore, con tutta la tua anima e con tutta la tua mente» *(Mt.* 22, 37); ma questo perfetto orientamento eccede le nostre forze, appunto perché abbiamo una conoscenza troppo imperfetta di Dio e della via che a Lui conduce. Dovremo, dunque, rinunciare alla santità? Niente affatto! Dio, che ci vuole santi, ci dà anche il modo di diventarlo: lo Spirito Santo ci è stato dato proprio a questo scopo. «Riceverete forza di Spirito Santo, quando verrà su di voi» *(At.* 1, 8), ha detto Gesù.
 
-
-
-nell'anima questo profondo senso di pietà filiale, di piena
-fiducia nel Padre celeste, anzi, Egli stesso in noi, con gemiti
-inenarrabili, va sussurando: «Padre!». «Mandò Iddio lo
-Spirito del Figlio suo nei nostri cuori, il quale grida ‘Abba,
-Padre!» (Gal 4, 6). E così l’anima si sente trasformata ed
-i suoi rapporti con Dio diventano veramente filiali.
-
-2. — La preghiera profonda è un tratto intimo dell'anima con Dio; ma chi potrà insegnare all'uomo, così
-rozzo e materiale, le finezze richieste per trattare intimamente col Re del cielo e della terra? Non vi sarà mai nè
-cerimoniale, nè libro devoto capace di regolare in modo
-degno gli intimi rapporti di amicizia tra il Creatore e la
-creatura. Ma un Maestro c'è, la cui valentia è pienamente
-adeguata allo scopo e il cui insegnamento è alla portata
-di ogni anima cristiana.
-
-Questo Maestro è lo Spirito Santo: «Lo Spirito ci aiuta
-a sostenere la nostra debolezza, giacchè noi non sappiamo
-che cosa dobbiamo dire nelle preghiere per pregare come si
-deve, ma lo stesso Spirito intercede per noi con ineffabili
-sospiri » (Rom. 8, 26). Realtà questa quanto mai consolante
-per l’anima che ha il senso della sua impotenza e della
-sua incapacità a trattare con Dio, per l'anima che sente il bisogno di una preghiera adeguata alla bontà infinita di quel
-Dio che ci ha amato fino a farsi uno di noi, e nello stesso
-tempo sente il bisogno di una preghiera adeguata alla sovrana
-maestà, alla trascendenza infinita dell’Altissimo. Ed ecco che
-lo Spirito Santo alterna nell'anima sentimenti di piena confidenza e di profonda adorazione, di amicizia amorosa e di
-riconoscimento della suprema grandezza di Dio. Lo Spirito
-Santo ripete in noi: Pater, e ripete ancora: Tu solus Sanctus,
-Tu solus Dominus, Tu solus altissimus. Anche quando
-siamo nell’aridità, anche quando il cuore è freddo e la mente
-ottenebrata, lo Spirito Santo prega in noi e noi possiamo
-sempre offrire a Dio la sua preghiera. È questa la preghiera
-più vera, più preziosa, preghiera che sarà certamente esaudita,
-
-perchè lo Spirito Santo non può ispirare i sentimenti e
-desideri contrari al divino beneplacito, ma «intercede
-per noi secondo Dio» (Rom. 8, 27).
+**2** — Lo Spirito Santo che «scruta le profondità di Dio» *(I Cor.* 2, 10) e quindi conosce perfettamente la natura e i misteri divini, che penetra tutte le cose e quindi conosce a perfezione le finezze e i segreti della virtù più elevata, come pure i bisogni e le deficienze delle anime nostre, viene a prenderci per mano per guidarci alla santità. Finché procediamo con le nostre iniziative, il nostro orientamento verso Dio rimane sempre imperfetto, incompleto, perché noi agiamo *in modo umano*, ma allorché interviene lo Spirito Santo, Egli opera come Dio, *in modo divino* e perciò ci attira e ci orienta completamente verso di Lui. Quando siamo noi ad agire, dobbiamo sempre cominciare col lavoro del pensiero e, solo in seguito a questo, passiamo alla determinazione della volontà; ma, siccome il nostro pensiero è tanto limitato, ecco che nella pratica rimaniamo sempre immensamente al di sotto di quel che dovremmo fare per Iddio. Quando, invece, interviene lo Spirito Santo, Egli agisce direttamente sulla volontà attraendola a sé, c'infiamma il cuore e, di conseguenza, c'illumina la mente. Così nasce in noi quel «senso di Dio» che non sappiamo esprimere, ma che ci fa conoscere, gustare Dio e ci orienta a Lui più di qualsiasi ragionamento ed industria nostra. Allora sentiamo che Dio è «unico», che tutte le creature sono infinitamente distanti da Lui, sentiamo che Egli merita tutto il nostro amore e che, anzi, questo è un nulla di fronte alla infinita amabilità divina; sentiamo che qualsiasi sacrificio è sempre troppo poco per un Dio così grande. Proprio in tal modo lo Spirito Santo ci pone sul cammino della santità. E lo fa anche aiutandoci a superare le difficoltà pratiche: molte volte, ad esempio, ci troviamo alle prese con un difetto che non riusciamo a vincere, con una virtù che non riusciamo ad acquistare, con una perplessità che non riusciamo a risolvere; ma ad un certo punto, senza saper come, le cose cambiano: vediamo con chiarezza quel che prima ci lasciava dubbiosi e riusciamo a fare con facilità quel che prima ci pareva impossibile. Anche ciò è frutto dell'azione dello Spirito Santo nell'anima nostra. Ecco perché le sue iniziative sono tanto preziose per noi, e dobbiamo desiderarle e invocarle con tanta fiducia.
 
 ### Colloquio
 
-« Vieni, o Spirito Santo, e manda dal cielo un raggio
-della tua luce. Vieni, padre dei poveri; vieni datore di ogni
-grazia; vieni, luce dei cuori. O consolatore ottimo, dolce
-ospite dell'anima, dolce refrigerio. Tu sei riposo nella
-fatica, sollievo nell’ardore, conforto nel pianto. O luce beatissima, inonda gl’intimi recessi del mio cuore. Senza il
-tuo potente aiuto nulla di bene è in me, nulla che non
-sia difettoso. Lava ciò ch'è impuro, irriga ciò ch'è arido,
-risana ciò ch'è ferito. Piega ciò ch'è duro, riscalda ciò ch'è
-freddo, raddrizza ciò che devia. Vieni, o Spirito Santo,
-riempi il mio cuore, accendi in esso il fuoco del tuo amore
-e tutto in me sarà rinnovato» (cfr. Seq. dello Spirito S.).
+«O amore del Dio eterno, santa comunicazione del Padre onnipotente e del beatissimo Figlio suo, onnipotente Paraclito Spirito, clementissimo consolatore dei mesti, colla tua potente virtù penetra nell'intimo del mio cuore; col fulgore della tua splendente luce alliceta qualsiasi tenebroso angolo della negletta dimora dell'anima mia, e, visitandola, feconda coll'abbondanza della tua rugiada ciò che una lunga aridità ha reso languente e squallido. Ferisci l'intimo dell'uomo interiore col dardo del tuo amore; penetra nelle midolle del cuore intorpidito, ed accendilo di salutari fiamme; illustrando col fuoco del santo fervore l'intimo della mente e del corpo, tutto l'uomo riconforta.
+
+«Credo che ogni qualvolta Tu discendi in un'anima, ivi prepari il domicilio al Padre ed al Figlio. Beato colui che merita di ospitarti! Per te in lui stabiliscono la loro dimora il Padre ed il Figlio. Vieni adunque, vieni, benignissimo Consolatore della dolente anima, protettore in ogni occorrenza e sostegno nella tribolazione. Vieni, purificatore dei delitti, medico delle ferite. Vieni, fortezza dei fragili, ristoratore di quelli che cadono. Vieni, maestro degli umili, Tu che atterri i superbi. Vieni, o pio padre degli orfani, delle vedove giudice pio. Vieni, speranza dei poveri, ristoro dei languenti. Vieni, stella dei naviganti, porto dei naufraghi. Vieni, o Tu, decoro singolare d'ogni vivente, dei morenti unica salute.
+
+«Vieni, santissimo Spirito; vieni, ed abbi pietà di me; rivestimi di te, e proprio esaudiscimi, affinché, secondo la moltitudine delle tue misericordie, piaccia la mia piccolezza alla tua grandezza: la mia debolezza alla tua forza, per Gesù Cristo mio Salvatore, che col Padre vive e regna nella tua unità, pei secoli dei secoli. Così sia» (S. Agostino).

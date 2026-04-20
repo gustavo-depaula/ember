@@ -1,94 +1,133 @@
-## 115 — TRUE GLORY
+## 113 — HIDING FROM ONESELF
 
 ### Presence of God
 
-— O Jesus, who for love of me accepted the dishonor of death on the cross, teach me wherein true glory consists, and grant that for love of You I may know how to conquer my points of honor.
+— O Jesus who, wholly forgetful of Yourself, consecrated Yourself to the Father's glory, teach me to forget myself.
 
 ### Meditation
 
-1 — St. Teresa of Jesus teaches: "If one is attached even a little to honor, one cannot advance in virtue without first freeing oneself from it," because "where points of honor reign, one will never reach full detachment, nor enjoy the true fruit of prayer," which is intimacy with God. Indeed, the Saint notes that the reason why many persons, long trained in spiritual life and deserving for so many good works, "still crawl along the ground" and do not succeed in rising higher, lies precisely in being held back by the "point of honor; and, what is worse, they do not want to be persuaded of it, deceived as they are by the devil to the point of believing they are obliged to defend it" (Vi. 31, 20; Cam. 12, 5).
-
-Attachment to points of honor is resolved in practice
-into many small or great touchy sensitivities for asserting
-one's own personality, for defending one's own esteem and
-one's own points of view; it becomes concrete in many more
-or less conscious and petty maneuvers to win or maintain
-certain privileged and honored positions before others,
-to make one's own reasons prevail - reasons always judged good -
-one's own capacities, one's own works, one's own merits,
-which are always considered great and worthy of regard.
-All this remains more or less masked by the fact that each
-person has, or believes he has, the intention of acting for
-good and therefore considers his own way of acting legitimate;
-meanwhile one does not realize that, under the pretext of
-defending good, of avoiding scandal, of sustaining good works,
-in reality one is defending self-love. This is shown by the
-fact that, when occasion presents itself and all other things
-are equal, so many efforts are not made at all to defend
-others' honor and works, but only to defend one's own honor
-and works. A soul that lets itself be taken by such concerns
-is, as St. Teresa of Jesus says, bound to earth
-by "a chain that no file can break. God alone
-can shatter it, but He wills to be aided by us with
-prayers and generous efforts" (Vi. 31, 20).
+1 — To enter the fullness of hidden life, it is not
+enough to hide from others' eyes; one must hide also from oneself, that is, forget oneself, avoiding every self-
+centered concern and return to self. One can be concerned with oneself from a material, coarse point of view, but one can be so
+also from a spiritual point of view. To be too preoccupied
+with one's own spiritual progress, with consolations God
 
 
-2 — To see whether we are truly detached from
-points of honor, we must not rely on certain desires that
-sometimes come in abundance during prayer, by which
-we seem ready to bear any humiliation
-and contempt; rather, we must examine what, in practice,
-our conduct is before everything that wounds
-our self-love. Then it will not be hard to observe
-that "if we are touched even a little in our honor, we no longer know how to bear it and it seems to us we ought not to bear it" (T.G.
-Dam. 16, 11). These more or less lively reactions of our sensitivity clearly tell us that we are still far
-from having trampled points of honor underfoot; and becoming aware of this deficiency will be the starting point for correcting ourselves, because the greatest obstacle to acquiring virtues is precisely believing we have already
-acquired them and thus no longer need to practice
-them.
+grants or does not grant, with one's state of dryness, etc.,
+is often a sign of subtle spiritual selfishness,
+is a sign of a soul more occupied with itself than with God.
+Then it is time to learn to forget oneself,
+to hide from oneself, not wishing to examine too much
+what passes within, not giving it
+too much importance and renouncing even the satisfaction
+of wanting to account for one's own interior journey. And
+it is good to know that not infrequently God permits painful and
+dark states precisely because He wants the soul to live hidden from itself. Precisely here ended the program
+of hiddenness of St. Teresa Margaret, who not only intended "to live, so to speak, invisible and unobserved"
+among her sisters, but "also to be in a certain manner
+hidden and unknown to herself, to die to self without
+knowing it and without tasting any pleasure of this mystical spiritual death, burying in Christ every thought
+and every reflection, even spiritual and eternal, on self,
+in a most subtle way." This is the explicit purpose of complete forgetfulness of self,
+which embraces also renunciation
+of the spiritual satisfaction of accounting for one's own
+immolation. But to avoid returning upon self,
+the soul must necessarily polarize elsewhere its
+aspirations; therefore the negative exercise of no longer thinking
+of self must go hand in hand with the positive one
 
-"May God deliver us - exclaims Teresa of Jesus - from persons who pretend to serve Him and at the same time cultivate their own honor!" (ibid., 12, 7). It would be wanting to serve at once two masters, and two masters so irreconcilable as
-God and our self-love. Everything a soul does to serve its ego, to sustain its honor, it withdraws from the service of God, from the pure and sincere pursuit of
-His honor and glory. Even if at times it seems to us
-that we have good rights to claim, if we do not know how
-to renounce them, at least as regards our own person,
-we shall never attain that freedom of spirit necessary
-to enter deeply into interior life. The concerns bound up with defending our rights will only distract us from our ideal of union with God, make us lose interior peace, involve us in too many excessively human disputes, which will often be occasions of frequent failures in charity and even in justice toward our neighbor, since it is very difficult, not to say impossible,
-to defend one's own rights without offending, more or less,
-the rights of others.
+
+of centering itself in Christ, of "burying in Christ" every
+
+
+thought, every concern, even spiritual, about self.
+
+No one will succeed in turning concern away from self
+unless he fixes it on the object of his love; St. Teresa
+Margaret forgot herself to the end by burying her thought
+"in Christ," the only Beloved.
+
+
+2 — The soul totally forgetful of self is also
+totally disinterested. It no longer serves God with
+mercenary spirit, that is, looking more to the reward
+it may receive than to His glory, but serves Him
+- according to the beautiful expression of St. Teresa of Jesus -
+"gratuitously, as great lords serve kings"
+
+
+(Lt.). Such must be the style of a soul of interior life,
+which, having been invited by God to His
+intimacy, must not act as a hireling, but as daughter,
+as spouse. This is one of the most beautiful fruits of hidden life.
+
+St. John of the Cross teaches: "God is better pleased
+with one work, however small, done in secret and without desire that it be known, than with many works done with this desire;
+because one who with pure love works for the Lord,
+not only does not care at all that his actions be seen by men,
+but does not even do them
+
+
+so that God Himself may know them. So that if, by hypothesis,
+the Lord should never know them, he would not cease to render Him the same services, with the same joy and purity of
+love" (S.C. I, 20). The same delicate thought we find
+in St. Therese of the Child Jesus: "Even if, impossible thing, God
+Himself were ignorant of my good actions, I would not be grieved,
+for I love Him so much that I would like to be able to please Him
+without His knowing it is I" (CR.).
+
+This absolute purity of intention makes the soul act only for God and never for its own advantage, not
+even spiritual. Certainly God will recompense good works, but this care is totally left to His good pleasure,
+while the soul concerns itself only with pleasing Him. Hidden life thus culminates in sovereign disinterest, not only with respect to human rewards and praises,
+but also with respect to spiritual consolations.
+Then the soul seeks God alone and
+He alone suffices it. And if God, as though seeming not to take account
+of its love and services, leaves it in dryness and
+abandonment, it does not worry and does not for this
+stop, because the only motive that moves it to act is
+to please God alone.
 
 ### Colloquy
 
-"O Lord, Lord! Are You not, then, our
-Master and Model? And in what did You place Your honor,
-You who are our honor? Ah, Lord, by humbling Yourself unto
-death, not only did You not lose it, but You won it
-for all of us... May it please You, my God, that by
-wishing to follow these ugly points of honor, some soul may
-not end by losing itself. Oh, if one understood wherein true honor consists... All our harm, Lord, comes from
-not keeping our eyes fixed on You; thus we fall a thousand times, stumble in a thousand ways, and lose the road."
+O my God, teach me to forget myself, to hide in You
+every concern, every excessive care for myself. Why
 
-"My God, we desire intimate union with You,
-we claim to follow the counsels of Christ who was covered
-with insults and falsehoods, and at the same time we want
-to keep our honor and reputation intact. The ways are
-too different, and we shall never reach the goal, because
-You, O Lord, unite Yourself only with souls that deny
-themselves and are not afraid to lose their own rights"
-(T.G. Cam. 36, 5 and 6; 16, 11; Vi. 31, 22).
 
-O Jesus, grant me the grace to make my
-honor consist only in uniting myself intimately to You,
-in seeking to make myself as like as possible to You who,
-being God and having the right to be treated and honored as God,
-willed to be treated as the least of men. You
-willed no other right for Yourself except that of fulfilling the Father's will, of dying on the cross for His
-glory and for our salvation. Before Your example,
-how much better I understand the pettiness of my self-love,
-which, to defend foolish rights, loses itself in so many
-quarrels, in so many vain disputes... O Lord, why must I
-be reduced to crawling on the ground among the thorny brambles of my passions,
-when You created me to range in the heavens?
-Oh, help me to free myself from the foolish pretensions of
-my ego, which, like heavy ballast, continually try to drag me downward;
-help me so that, freed from so heavy a weight, I may at last take
-decisive flight toward You, my God!
+do I want to serve You, O Lord? Why do I want to love You
+and advance on the way of holiness? Perhaps for my own satisfaction,
+for my own interest or vain complacency? Oh, how paltry
+would be a spiritual life that had ends so low,
+so vain! No, my God, You created me for Your
+glory, and I humbly ask You to be able to live only
+for Your glory, above every personal interest and
+satisfaction!
+
+Is it not already honor enough that You do me by
+allowing that a poor and miserable creature like me
+may direct his life to Your glory? that a poor
+worm, as I am, may give glory to You, O most high God,
+infinite perfection? What shall I then seek, O Lord,
+beyond this? Is it worth more to satisfy the creature or
+the Creator, to satisfy myself or my God?
+O Lord, I want to serve and satisfy You alone, I want to give pleasure to You alone, and only in this do I want to place my own pleasure, the motive of my gladness.
+I understand it: if You lead me by an arid and dark
+way, if You permit that darkness often gather around me,
+it is precisely because You want to teach me to serve You with purity of intention, seeking only Your satisfaction and not my own. If You permit me to continue exercising myself in interior life,
+in virtue, without seeing any result, if You keep hidden from me my few progresses, You do this precisely to establish me in humility. Perhaps if I had greater light,
+if the work of Your grace in me were more manifest,
+I would glory in it and, delighting in myself, would halt my
+impulse toward You, sole object of my complacency.
+
+O Lord, how admirable You are in Your ways! Blessed
+be this interior darkness that defends me from
+the dangers of spiritual pride! No, my God, I do not ask You to change my way; rather I beg You
+to continue leading me thus, in a life of complete hiddenness, not only from others' eyes, but also from my own.
+And if, by Your grace, there is in me anything good, let this serve to gladden Your gaze and not mine,
+which, vainly delighting, could ruin it in an instant.
+Keep me therefore under the shadow of Your wings,
+teach me to serve You gratuitously out of pure love;
+teach me to forget myself, to bury in You every concern
+for myself, to entrust with full abandonment into
+Your hands my soul. Behold, to gain it, I surrender it to You,
+I want to lose it in You, and in You I shall find it again clothed
+in Your beauty.

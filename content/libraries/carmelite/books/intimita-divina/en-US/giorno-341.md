@@ -1,55 +1,23 @@
-## 341 — TOWARD COMPLETE PURIFICATION
+## 19 — PERFECT HUMANITY AND APOSTOLIC CHARITY
 
-### Presence of God
-
-Help me, Lord, that I may have the strength to set out of my own initiative toward complete purification.
+**Presence of God.** — *Soften, Lord, my heart with the flame of your charity.*
 
 ### Meditation
 
-1 — «The soul that wants to reach the high state of union with God meets great obstacle when it becomes attached to some manner of understanding, feeling, or imagining, when it clings to its own opinion or will, or to anything of its own, and does not know how to detach itself and strip itself entirely» (St. John of the Cross).
+**1** — The apostolate is the expression and fruit of *charitas apostolica*, that is, of love of God and neighbor grown until it becomes zeal for souls. But beside this, which is the essential aspect of the charity that must animate the apostle, there are secondary aspects, almost human, and yet of great importance for enabling the apostle to win souls. We mean all those qualities of affability, refinement in manner, courtesy, sociability, sincerity, and understanding that in themselves are human qualities, but which, elevated by grace and used for apostolic ends, acquire a supernatural value. In substance, they are those qualities St. Paul attributes to love: "Love is patient, is kind... is not provoked, thinks no evil,... rejoices in the truth" *(1 Cor.* 13:4-6).
 
-The task of the night of the spirit is precisely to work in the soul this profound and radical detachment.
+It is not enough to love souls in the secret of our heart, working and sacrificing for them; this love must also appear outwardly through a kind and pleasant manner, so that, when people come near us, they feel loved and are encouraged to confidence and trust. Certain rough, abrupt, impatient ways are the reason many turn away disgusted, and perhaps even scandalized. The apostle may indeed have a heart of gold, rich in charity and zeal, but if he keeps a coarse and prickly shell, he bars for himself the way to souls, greatly reducing the good he could do. The Saints, though very supernatural, never neglected these more human aspects of charity. St. Francis de Sales constantly taught that, just as more flies are caught with a drop of honey than with a barrel of vinegar, so more hearts are won with a crumb of sweetness than with many rough manners. And St. Teresa of Jesus, who wanted her daughters united by the bond of pure supernatural charity, did not consider recommendations such as these superfluous: "The holier you are, the more affable you must show yourselves toward your sisters; never avoid them, however annoying and tiresome their conversations may be. If you want to win their love and do them good, you must guard yourselves against every roughness" *(Way* 41, 7). A most useful warning for anyone who wants to win souls for God.
 
-If, therefore, you want to enter this night, which will bring so much good to your soul, you must seek, as far as you can, to deny yourself in everything, especially in what weighs most on you and is dearest to you.
+**2** — Regarding natural qualities placed at the service of apostolic charity, we can profitably meditate on the following exhortation addressed by Pius XII to a group of religious: "Before the young religious [and one could say before the apostle] can be a shining example, let him strive to become a perfect man in ordinary daily things... Let him learn, and show by his conduct, what decorum befits human nature and society; let him regulate his face and bearing with dignity and be faithful and truthful, keep his promises, govern his actions and words, honor all, disturb no one else's rights, endure wrong, and be sociable... As you well know, the so-called natural virtues are raised to the dignity of supernatural life especially when a man practices and cultivates them precisely in order to become a good Christian or a worthy herald and minister of Christ" (September 1951). One cannot therefore think there is opposition between the fullness of supernatural life that must lead to union with God and the fullness of humanity that comes from right development of natural virtues. We must remember that grace does not destroy nature, but elevates it. The struggle against nature, for the triumph of grace, aims at mortifying and destroying only what is defective in it, while good qualities and strengths are elevated and carried onto the supernatural plane. Grace, and thus Christian life, is supremely respectful of and makes use of all human values; besides, how could one think the supernatural destroys the natural, when this no less than that is the work of God, fruit of his wisdom and infinite goodness?
 
-You must be disposed to renounce your plans, projects, and views, not only regarding earthly things but also spiritual ones, because you must go to God not by a way of your own choosing and liking, but only by the way He Himself has prepared for you.
-
-You must be disposed to renounce divine consolations, to walk in darkness and dryness for however long the Lord wills; disposed to renounce works most dear to you, most legitimate affections, holiest friendships, and even the support of those who understand and guide you in God’s ways.
-
-Few effectively enter the night of the spirit, because «few know and desire to enter emptiness and perfect nakedness of spirit.» Few, even among spiritual persons, are persuaded that the way leading to union with God «consists in one thing only: truly denying oneself, both inwardly and outwardly, wholeheartedly embracing suffering for Christ, annihilating oneself in all things.»
-
-Try, then, at least you, to be convinced of this and to regulate yourself in everything with greatest detachment, stopping with neither proprietary affection nor vain complacency at material goods nor at spiritual goods.
-
-Look at Jesus on the Cross: He was truly stripped and deprived of everything, «abased and humbled in all things,» as to human esteem—for seeing Him die on a tree, far from esteeming Him, they mocked Him; as to nature—for there He in a certain sense annihilated Himself in dying; and as to spiritual support and comfort from the Father—who in those moments abandoned Him.
-
-From this you must understand which is the way to unite yourself with God, and realize that the more you annihilate yourself for love of Him, the more you unite yourself to Him.
-
-2 — The generous practice of total self-denial is not the only thing you can do to enter the night of the spirit. There is another, no longer negative but eminently positive: intense exercise of the theological virtues.
-
-Faith, hope, and charity must be your support and guide in the darkness of night and, at the same time, help you purify the powers of your spirit—intellect, memory, and will—so that they may adhere to God alone.
-
-«Faith,» says St. John of the Cross, «produces emptiness in the intellect.» For by proposing things to believe that, because of their loftiness, you cannot comprehend, faith teaches that to unite yourself with God, instead of relying on your own way of reasoning and understanding, you must strip yourself of it; and this means placing the intellect in emptiness.
-
-The more you progress in faith, the more you detach from your low manner of thinking, not only with regard to divine mysteries and direct relations with God, but also concerning events of life, which you will learn to judge only in reference to God.
-
-Hope, in turn, places «memory in darkness,» emptying it of all things. If you strongly hope, it means you await goods you do not yet possess and are not satisfied with those you already have.
-
-If you place all your hopes in God, it means you no longer hope in earthly things; their possession no longer satisfies you; consequently their remembrance becomes less vivid and frequent, and thus your memory remains empty and able to apply itself only to what concerns God and His service.
-
-Exercise yourself intensely in hope for heavenly things and you will forget earthly ones; hope in God alone and you will no longer be occupied with remembrance of creatures.
-
-«Finally, charity empties the will of all things, because it obliges us to love God above them: and this cannot happen unless affection is withdrawn from them and placed entirely in God.»
-
-If you want to arrive at total detachment and self-denial, you must love much. The more you grow in divine love, the more easily you will detach from earthly things and from yourself, and the more capable you will be of denying your will and annihilating your ego in all things.
-
-Walk in faith, hope, and love, and you will advance in the night of the spirit without losing yourself in darkness, because these virtues will keep you firmly anchored in God.
+By raising man to the supernatural plane, God did not intend to destroy in him what he had already created, but only to sublimate and elevate it. In light of these principles we understand why it has been said that the apostle, like the priest, must be a "perfect gentleman" (Newman); we understand why saints are also the most perfect men, in the sense that they brought natural virtues to their highest perfection and sublimation; we understand why saints, though loving creatures with purely supernatural love, are able, more than others, to surround them with amiability, delicacy, and understanding, and thus win their hearts more easily. Besides, it is easy to understand that perfect courtesy always equal to itself - even with the troublesome and even in moments of fatigue - can come only from deep supernatural virtue, from delicate charity.
 
 ### Colloquy
 
-«Lord, make possible by your grace what seems impossible to me by nature. You know I am weak in suffering and grow faint as soon as a small difficulty arises. For the glory of your name, let every trial and tribulation become lovable and desirable to me, for suffering and being persecuted for love of You is of great profit.
+"O Lord, if I should speak with the tongues of men and of angels, and have not love, I would be only sounding brass or a clashing cymbal. And if I had the gift of prophecy and knew all mysteries and all knowledge, and if I had all faith so as to move mountains, and then lacked love, I would be nothing. And if I distributed all my goods to feed the poor and gave my body to be burned, and had not love, it would profit me nothing.
 
-«Jesus, my Lord, assist me in every place and circumstance. Let my consolation be to deprive myself spontaneously of all earthly glories; and if divine consolation fails me, let your will and the just trial to which You subject me be my supreme consolation.
+"Grant me, therefore, my God, love: love that is patient, kind, not envious, not vain, not puffed up, not ambitious, not selfish, not provoked, thinking no evil, but rejoicing in the truth, bearing all things, believing all things, hoping all things, enduring all things" *(cf. 1 Cor.* 13:1-7).
 
-«O Lord, provided my will remains always upright and firmly united to You, do with me as You please, for what You do for me can only be best. If You want me to live in darkness, blessed be You; if You want me in light, blessed be You; if You want me to suffer, equally be You blessed forever.
+O Lord, grant that, in giving myself to your service, tenderness toward my neighbor may not decrease but grow in my heart and become ever purer, ever more supernatural. Teach me to love with this tenderness all who come near me. Make me gentle, affable, accommodating, not in order to attract to myself the goodwill of creatures, but in order to win their hearts for you.
 
-«Lord, I am disposed to bear willingly for love of You all that You please to ordain; from your hand I want to receive with the same spirit evil and good. Wash me from every fault, and I shall no longer fear death nor hell. As long as You do not cast me away from You forever, O Lord, and do not blot me out of the book of eternal life, no adversity that may befall me can harm me» (*Imitation of Christ*).
+O Jesus, if the apostle must be a copy of you not only in broad lines but also in details, how can I be so unless I try to imitate the gentleness of your Heart? O Jesus, meek and humble of heart, make my heart like yours.

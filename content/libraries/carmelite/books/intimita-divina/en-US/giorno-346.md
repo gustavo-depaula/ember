@@ -1,69 +1,23 @@
-## 346 — TRUST AND ABANDONMENT
+## 24 — APOSTOLIC MATURITY
 
-### Presence of God
-
-Into your hands, Lord, I abandon myself with full trust.
+**Presence of God.** — *May your love, O God, mature my soul and make it capable of giving itself fully in service of souls.*
 
 ### Meditation
 
-1 — «Many desire to advance [in the spiritual way] and insistently ask God to draw them and bring them to that state of perfection [the state of union]; but when He begins to lead them through the first hardships and mortifications, as is necessary, they do not have the courage to pass through, they draw back, fleeing the narrow path of life and seeking the broad way of their own consolation» (St. John of the Cross).
+**1** — One may ask whether, having reached that degree of union with God in which the flame of zeal bursts forth spontaneously, the apostle can now give himself freely to apostolate. It is a fact that, having come to this point, the soul cannot and must not exempt itself from self-giving: whether consecrated to contemplation or action, whether living in cloistered solitude or amid the whirl of the world, its life now consists in unceasing self-giving: giving itself to God for the benefit of neighbor, giving itself to neighbor for God's glory. To stifle this tendency would be to regress and impoverish one's spiritual life; this is the period in which the soul must be enriched precisely through self-giving lived in the exercise of an intense apostolate, whether interior or exterior. Yet the saints teach us that prudence is still necessary, and vigilance must not cease, since having received the interior grace of apostolate does not mean being confirmed in grace. St. Teresa says it expressly: "I have known some persons very advanced who, after having reached this point, the devil still managed to make his own through subtle snares and cunning" *(M.* V, 4, 6), and shortly before she had said: "How many there must be who, called by God to apostolate, honored like Judas with his very communications... then, through their own fault, end up lost!" *(ibid.,* 3, 2). Spontaneously one recalls the cry full of humility and distrust of self that sprang from Paul's heart, the Apostle rapt to the third heaven: "lest perhaps, after preaching to others, I myself should become reprobate" *(1 Cor.* 9:27). As long as we are on this earth we have reason to fear; sadly we always have the possibility of not corresponding to grace, of detaching ourselves, even in small things, from God's will - and there lies our ruin - and thus little by little regressing. "Christian souls whom the Lord has led this far," exclaims St. Teresa of Jesus, "for love of Him I beg you never to neglect yourselves and flee occasions!" and she adds: "to succeed [in turning an apostle aside], [the devil] must mobilize all hell, being persuaded that to ruin one such soul is to ruin a multitude" *(M.* V, 4, 5 and 6). On the contrary, if the apostle remains faithful to God's will, he not only becomes an instrument for the salvation of many, but immensely enriches his own interior life.
 
-This is why many souls do not reach union with God: they do not want to take the way of the Cross, the only one that leads there.
+**2** — To avoid failing the grace of apostolate, three safeguards are particularly necessary. First, one must always have jealous care of humility, defending oneself from flattering voices of praise and success and opposing to them the picture of one's own miseries, as well as that of "bad figures," mistakes made and failures suffered in apostolate. If Lucifer - pure spirit - fell through pride, it is not impossible that an apostle, who as man is burdened by matter, should fall through pride. One must then be attentive to maintain intimate contact with God, because just as iron grows red-hot and shines only in contact with fire, so the apostle diffuses divine light and warmth only if he remains united to the One who is their sole source.
 
-You too desire to attain divine union, but perhaps you too imagined reaching it by a comfortable, bright, joyful road—by the way of success, where one goes from victory to victory, enjoys abundant spiritual consolations, and finds applause, support, and esteem from creatures.
+Finally, it is of greatest importance to persevere in perfect detachment from one's own judgment and will. On this point St. John of the Cross warns "that among the many tricks used by the devil to deceive spiritual persons, the most common is to delude them under appearances of good and not of evil; because he already knows that manifest evil they will scarcely touch" *(Ct.* 10). Therefore, to avoid falling into the trap, the Saint urges never to undertake "an action, however good and full of charity" *(ibid.,* 11) it may seem, without approval of obedience. This warning applies not only to religious, but to all who work in apostolate, because all must remain subject to ecclesiastical Authority. Even if a work, an initiative, a method of apostolate gave the best results, if ecclesiastical Authority, for whatever reason, did not approve it, the apostle should be ready to renounce it immediately, without criticism, without complaint, without arguments meant to make his own point prevail.
 
-But now you have certainly understood that a very different path must be taken: a narrow, dark path, where the soul discovers all its misery, experiences all its impotence, and lacks both God’s and men’s comfort.
-
-Know then that you must accept to proceed on this road for as long as God pleases. How many months, how many years will suffice? God alone knows.
-
-Very often He keeps souls for a long time in the dark night of spirit; indeed, it may well be said that even after passing the principal stages, there is generally always some night as long as we live here below.
-
-The wisest course to adopt is, therefore, to entrust yourself completely to God’s dispositions, placing no limit either regarding duration or kind of trial.
-
-God knows what suits you best. He who knows perfectly the weaknesses and needs of your spirit will know how to measure the cure fit to heal your ills.
-
-Do not be in haste; rather be very patient, and so you will not expose yourself to disappointments.
-
-Let it be long-suffering and trusting patience, because yes, you are suffering, but these sufferings come not from an enemy, but from your greatest Friend: from God, who loves you more than you can love yourself, who wants your good, your happiness, and your sanctification far more than you can desire it.
-
-Trust Him and you will not be confounded; trust Him with eyes closed and you will have nothing to fear.
-
-2 — The moments most suited to showing God that you trust Him blindly and want to abandon yourself to Him without reserve are precisely those of the dark night of spirit.
-
-Even if everything seems to collapse beneath your feet, even if the storm sweeps you away to the point of feeling tempted against faith and hope, you must not fear, because in this night you are in a very special way under the action of the Holy Spirit.
-
-It is He who, with the living flame of His love, puts your soul to fire and sword to purify it; yet at the same time He covers it with His shadow, secretly infusing strength to resist and measuring suffering so it does not exceed your capacity.
-
-Do not fear: you are in good hands. You are protected by the shadow of the Most High, and no evil can happen to you, provided you adhere willingly and docilely to His purifying action.
-
-Accept and continually repeat your «fiat.» This is what the Lord asks of you in this state; this you can and must do even amid the fiercest storms.
-
-This pure and simple adhesion of the will will fasten you to God, anchor you in Him, and prevent shipwreck.
-
-It does not matter if you cannot do or say more; it does not matter if you are incapable of other prayers. Even Jesus in Gethsemane did nothing but repeat this one cry: «Father... not My will, but Thine be done» (Mt 26:42).
-
-Let this be your prayer too: prayer more of the heart than of the lips, an interior stance of pure adhesion to God’s will into which you must plunge with all your spiritual strength.
-
-Such adhesion should become so strong, so full, so trusting as to transform itself into a prolonged act of abandonment: «Father, into Thy hands I commend My spirit» (Lk 23:46).
-
-Jesus Himself made this act amid desolation and discouragement, infinitely greater than anything you can experience.
-
-Unite yourself with the agonizing Jesus; lean on Him, and in Him you will find strength to accept and endure.
-
-Fixing your gaze on Jesus crucified, who reconciled and united the human race to the divine Father by His Passion and Death, you will understand ever better that «union with God does not consist in joys, feelings, or delights of spirit, but in a living death of the cross, sensitive and spiritual, interior and exterior» (St. John of the Cross).
+Protected by deep humility, by sincere detachment, sustained by intimate union with God, the apostle can tread the roads of the world without any fear for his spiritual life.
 
 ### Colloquy
 
-«Where is, my God, the sun of your grace? To me it seems darkened: your goodness seems wholly withdrawn from my soul. I am now abandoned like a body that, having no limbs, cannot help itself, or like a sterile trunk, for when your grace is withdrawn from me, I cannot help myself. O my God, stretch over me your right hand and give me strength.
+"O Lord, the souls closest to You, like your Most Holy Mother and your glorious Apostles, were those who suffered most and labored most for You, granting themselves no rest.
 
-«O Eternal Father, if your Word is with me, who shall contradict me? Who shall move me, much less cast me down and conquer me? Storms may beat the bark, but not the depth of the heart. If they wish to cause pain, they shall cause it, and I accept it willingly because You so will; but they will never disturb the soul always abandoned to your divine good pleasure.
+"My God, how a soul living deeply united to You must neglect its own rest! How it must not care for honor! How far it must be from desiring to be esteemed in anything! Yes, if it converses often with You as it ought, it ends by forgetting itself so as to exhaust every concern in seeking to please You more and in knowing in what things and by what ways it can show You the love it bears You. O Lord, You teach me this is the end of prayer, and this is what union with You tends toward: to produce works and more works.
 
-«I will quiet every turmoil by thinking these trials come from your will, and I will immerse myself in the lowliness of my being. If these pains plunge me into hell, I will rise to heaven with your help, and in your name I will overcome every battle.
+"If I fix my gaze on You, divine Crucified, everything will become easy for me. If You showed me your love by such great works and by such frightful torments, why should I want to be content with words alone? Oh, grant that I may know how to give myself to You as your slave, so that, marked with your brand, that of the Cross, You may sell me as slave of all the world! This is what it means to be truly spiritual.
 
-«Nevertheless I know my fragility, and during this trial, brief or long as You please, while many battles arise, I know well what I must do: I will trust in You and I shall not collapse forever» (St. Mary Magdalene de’ Pazzi).
-
-«Holy Master, grant that after your example, the divine good pleasure be my nourishment, my daily bread; grant that, in your likeness, O adored Christ, I let myself be immolated by all the Father’s wills.
-
-«If at times His wills are more crucifying, I can surely repeat with You: “Father, if it be possible, let this cup pass from me,” but I will add at once: “not as I will, but as Thou wilt”; and with strength and calm I too will ascend my Calvary with You, divine Crucified One.
-
-«I will ascend, inwardly singing to the Father a hymn of thanksgiving, because those who go by this sorrowful way are those whom He has known and predestined to be conformed to the image of His divine Son, crucified for love» (cf. Elizabeth of the Trinity).
+"United to You, divine Strength, I shall share your strength, as the saints shared it, so as to work with great zeal for your glory, to work and die for You, to win many souls for You" *(cf. T.G.M.* VII, 4, 5-10).

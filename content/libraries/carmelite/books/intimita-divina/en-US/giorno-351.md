@@ -1,61 +1,29 @@
-## 351 — ACTIVE AND STRONG LOVE
+## 29 — THE SAVIOR HAS APPEARED
+*December 25*
 
 ### Presence of God
 
-O Lord, grant that my love for You be not content with words, but prove itself by generous deeds.
+My God, who created me for Yourself, grant that I may return to You and be united to You in love.
 
 ### Meditation
 
-1 — «Love is never idle» (St. Teresa of Jesus). When true love of God enters a soul, little by little it generates in it an interior dynamism so strong and urgent that it drives the soul to seek ever new means to please the Beloved, making it inventive in finding ways to prove its love.
+i — God is charity, God has loved us with an eternal love!
+"It seems the Lord said: man does not love me because he does not see me; I want to let myself be seen by him, and so to make myself loved. Divine love toward man was too great and had always been so ab aeterno; but this love had not yet appeared... Then it truly appeared when the Son of God was seen as a little child in a stable, on a little straw" (St. Alphonsus). Here is the Christmas mystery; here is St. Paul's exultant cry: "The grace of God, our Savior, has appeared to all men... The goodness and love for men of God our Savior appeared" (Ep. in II Mass: Tit. 2, 11-15; 3, 4-7). Here is the blessed announcement "of great joy" that the Angel brings to the shepherds: "Today a Savior is born to you, who is Christ the Lord" (Gospel I Mass: Lk. 2, 1-11). In today's liturgy, the texts follow one another in a tone of growing exultation to praise the sweetest Child Jesus, the Word made man, living and throbbing among us: "Whom did you see, shepherds? Tell us, announce to us: who has appeared on earth? We have seen the Child, and choirs of angels praising the Lord" (BR.). "Let the heavens rejoice, and let all the earth exult in the presence of the Lord!" (MR.). Our God is here, among us, made one of us: "A Child is born for us, a Son is given to us... His name is: Admirable, God, Prince of peace, Father of the age to come... Exult, daughter of Zion, sing, daughter of Jerusalem... Shout to the Lord, inhabitants of the earth! Come, O nations, and adore the Lord" (BR.).
 
-Love is nourished by deeds, not by sweet feelings or fantasies.
+Come, then, adore, listen, rejoice: Jesus, the Father's Word, tells us a great word: God loves you!
 
-«Love,» says St. Teresa of Jesus, «can be compared to a great fire that must be continually fed lest it be extinguished. So these souls [souls in which God Himself is kindling the flame of charity], to find fuel and keep it from going out, are ready to throw into it the wood of the greatest sacrifices.»
+2 — The three Christmas Masses place before us a majestic scene: the moving description of Jesus' birth as man alternates with the sublime description of the Word's eternal birth in the Father's bosom, and there are also allusions to Christ's birth in souls through grace. But this threefold birth is only one manifestation of God-Charity. No one on this earth could know God's love, but the Word, who is in the Father's bosom, knows it and can reveal it to us. The Word became flesh and showed us God's love; through Him, His incomprehensible and invisible charity became evident, palpable, in that sweet Child who stretches out His arms to us from the manger. Today's Preface declares it explicitly: "Eternal God, by the mystery of the Incarnation of the Word, a new ray of Your light has shone before the eyes of our mind, so that, knowing God sensibly, we may be carried away to the love of invisible things." Yes, that "Child wrapped in swaddling clothes and lying in a manger" is our God, made sensible and visible to us, our God who shows us in the most concrete way His infinite charity. One cannot contemplate the little Jesus without feeling seized, carried away by the infinite love that gave Him to us; the Child Jesus reveals God's love to us, manifests it to us in the clearest and most moving form.
 
-Whoever truly loves does not stop to examine whether something is easy or difficult, pleasant or repugnant, but undertakes everything to feed love; indeed, one prefers works of greater sacrifice, because one understands love is never so true as when it impels us to sacrifice ourselves for the One we love.
-
-Thus it happens that love «produces in the soul a habitual suffering on account of the Beloved, without ever tiring. For, as St. Augustine says, love makes easy and almost nothing even the greatest and heaviest things.... [In this state] the spirit has such strength that it keeps the flesh subject, and esteems it as little as a tree does one of its leaves; and in no way seeks comfort or pleasure, either in itself or in anything else» (St. John of the Cross).
-
-This explains the attitude of the saints, who not only embraced willingly all sufferings God placed on their path, but themselves sought them with jealous care, as the miser seeks gold.
-
-To the Lord who asked what reward he wanted for the great services rendered Him, St. John of the Cross, burning with love, answered: «To suffer and be despised for love of You.»
-
-And St. Teresa of Jesus, seeing her earthly exile prolonged, found in suffering embraced for God the only way to quiet her heart thirsty for eternal love, and she begged: «Lord, I ask one thing only: either to die or to suffer.»
-
-In heaven we shall not need suffering to testify our love for God, because there we shall love in the unfailing clarity of the beatific vision. But here below, where we love in the darkness of faith, we need suffering to prove to God the reality of our love.
-
-2 — «Love, when perfect, has the power to make us forget every personal satisfaction in order to please the Beloved»; it has power to make us accept «with the same joy both sweet and bitter, when in this is His will» (St. Teresa of Jesus).
-
-Evidently, such love cannot be fruit of our humanity, to which suffering is so repugnant; it cannot be fruit of our own conquest, because it far exceeds the capacities of our weak and low nature.
-
-God alone gradually infuses such love in souls that let themselves be led by Him along the narrow way of interior purification.
-
-Yes, in dryness, in solitude of heart, in deprivation of every light and comfort, the Holy Spirit kindles in them the flame of charity, a flame that invades them all the more as it finds them disposed and purified of everything contrary to love.
-
-When all resistance is overcome and all dross removed, love bursts forth irresistible and gives the soul giant strength.
-
-The flame of love, explains St. John of the Cross, «makes [the soul] go out of itself, renews it wholly, and makes it pass into a new manner of being.» So new a manner that whereas before it feared and fled suffering, now it loves and embraces it with strength.
-
-The soul strongest in suffering is the soul strongest in love.
-
-No creature in the world loved and will love God more than the Blessed Virgin Mary, and no creature was and will be stronger than she in suffering.
-
-Behold her at the foot of the Cross: she is mother and willingly attends the atrocious execution of her Son; she sees the nails sink into His flesh, hears the dull blows of the hammer, sees the thorn-crowned head seek in vain a little rest on hard wood, sees the Cross lifted high and the Son hanging between earth and heaven, disfigured by pain, without the least comfort.
-
-Mary’s heart is pierced, yet she repeats her fiat with the same fullness with which she pronounced it at the joyful announcement of her maternity; and in love she finds courage to offer her beloved Son for the salvation of His executioners.
-
-What mother could emulate Our Lady’s fortitude? Yet her sacrifice infinitely surpasses any mother’s sacrifice, because she alone can say: the Son I immolate is my God.
-
-At the foot of the Cross, near Mary, whom love and sorrow made Queen of martyrs, let us learn the secret of strong love.
+St. Paul, in the Epistle (Heb. 1, 1-11) of the third Christmas Mass, says: "God... in these last times spoke to us through His Son... reflection of His glory and imprint of His substance." Jesus, Incarnate Word, in His silence as a powerless child, speaks to us and reveals God's substance to us: God's charity.
 
 ### Colloquy
 
-«Whoever truly loves You, Lord, has only one concern: to please You. He dies of desire to be loved in return by You and consumes life longing to love You more. And can such love remain hidden?
+"O powerful and eternal Trinity! O sweetest and ineffable Charity! who would not be inflamed with such love? What heart could defend itself from being consumed for You?
 
-«No, my God, it is impossible. Certainly love has degrees and manifests itself more or less according to its extent. If it is little, it manifests little; if great, much. But whether little or great, when it is true love, it always makes itself known.
+"O abyss of charity! Are You then so madly attached to Your creatures that it seems You cannot live without them! And yet You are our God! You have no need of us. Our good adds nothing to Your greatness, for You are immutable. Our evil could cause no harm to You, who are sovereign and eternal goodness! Who then moves You to such mercy? Love. For You have no obligation toward us and have no need of us. Who draws You, infinite God, toward me, a small creature? None other than You Yourself. O Fire of Love, always Love alone has urged and urges You!—
 
-«O Lord, grant that my love be not fruit of imagination, but be proved by deeds. And what can I do for You, who died for us, created us, and keep us in being, except count myself happy to repay You, at least in part, for the much I owe You?
+"You, supreme sweetness, deigned to unite Yourself with our bitterness; You, splendor, with darkness; You, wisdom, with folly; You, life, with death; You, infinite, with us finite!" (St. Catherine of Siena).
 
-«Ah, grant, Lord, that at last there may dawn for me the day when I can in some way satisfy the great debt I owe You. Whatever it cost, Lord, do not permit that I come before You with empty hands, since the reward is in proportion to works. I know how little I am worth, but united with You I shall be capable of everything.
+O sweetest Incarnate Word, O most lovable Child Jesus, here I am at last at Your feet: let me contemplate, allow me to delight in Your beauty, Your goodness, Your immense charity! Your infinite love presents itself to me living and throbbing in this tender Child who smiles at me and stretches out His little arms to me, and this Child is You Yourself, O my God! How shall I thank You for Your excessive love? How shall I repay You?
 
-«Ah, my Lord, if one who loves You does not do great things, this is certainly not because of You, but because of our own pusillanimity and cowardice, which keep us from truly resolving, full as we are of fears and human prudence. For this reason, my God, You do not display your greatness and wonders. Who more than You is friend to giving, when there is one willing to receive? Who repays services more generously than You?» (St. Teresa of Jesus).
+"You, being great and rich, for us made Yourself small and poor; You chose to be born outside a house in a stable, to be wrapped in swaddling clothes, to drink virginal milk, to be laid in a manger between the ox and the little donkey. 'Today has dawned for us the day of new redemption, of ancient restoration, of eternal happiness; today for the whole world the heavens have dripped honey!' Embrace now, therefore, my soul, that divine manger; press your lips to the Child's little feet, kiss both of them. Meditate also on the shepherds' vigils, behold the hastening host of angels, join in doing your part in the heavenly melody, singing with mouth and heart: Glory to God in the highest and peace on earth to men of good will" (St. Bonaventure).

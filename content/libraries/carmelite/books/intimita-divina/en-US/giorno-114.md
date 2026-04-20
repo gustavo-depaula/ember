@@ -1,135 +1,119 @@
-## 114 — HIDING WITH CHRIST IN GOD
+## 112 — THE HIDDEN LIFE
 
 ### Presence of God
 
+— O Jesus, hidden God, teach me the secret of hiddenness.
+
 ### Meditation
 
-1 — When one speaks of Jesus' hidden life, one
-must not understand only His hiding from men's eyes by concealing His divinity and fleeing their glory,
-but, going beyond these external relations with creatures,
-one must penetrate into the secret of His Heart, where - hidden
-from every human gaze - another and far more sublime hidden life unfolds. It is His interior life, a life of intimate
-relations with the Trinity. Jesus' most holy Soul, united
-personally to the Word, enjoys unceasingly the beatific
+1 — In His earthly life, Jesus delighted
+in hiding His divinity under human appearances. Except for
+some rare exceptions, and especially during the thirty years
+preceding His apostolate, He never let anything appear
+of His divinity, wisdom, and infinite omnipotence. Later,
+in the years of His public life, He willed to adapt Himself to the very imperfect way of living and acting of His Apostles,
+He who was infinitely superior to them.
+Jesus is truly the hidden God, and by His example He teaches us the value
+of the hidden life.
+
+If you want to imitate Jesus' humility to the very end, you must
+share in His hidden life, concealing, like Him,
+all that in you may attract attention and others' praise,
+hiding all that can make you singular,
+that can make you noticed, avoiding, as far as lies
+in you, every sign of distinction. "Ama nesciri et pro nihilo
+reputari," love to live unknown and to be held as
+nothing (Imit. I, 2, 3), because thus you will be more like
+Jesus "who, being God, willed to assume the nature of
+a slave and in all His outward bearing be
+recognized as an ordinary man" (cf. Phil. 2, 6-7).
+Jesus Himself taught us the practice of hidden life,
+insisting that good be done in secret, only to
+please God, without ostentation. Thus He teaches you to
+keep in secret your interior life and your relations
+with Him: "when you wish to pray, enter your room and
+shut the door"; to hide from others your mortifications
+and penances: "when you fast, anoint your head and wash your
+face"; not to put your good works on display: "when you give alms, do not let your left hand know what your right hand
+does," because those who do "good works before men,
+to be seen by them... have already received their reward
+and will not have reward from the heavenly Father" (cf. Mt. 6, 1-18).
 
 
-vision: it sees the Word as subject of all its activity, sees the Father source of its being, sees the Holy
-Spirit dwelling in it as "in His preferred temple" and who, clothing it with the flame of His love, draws it
-into God, in full accomplishment of His will. Outwardly Jesus lives with men, deals with them,
-as one of them, but His true life, life of the Son of God, He
-lives - hidden from every human gaze - with the Trinity,
-in the Trinity. This is where, as to its ultimate goal,
+2 — "To act for the purest end of pleasing God
+alone, never wanting... the witness of any human
+eye," was the program of St. Teresa Margaret of the
+Heart of Jesus, the saint of hidden life (Sp. p. 369).
+Wishing to reserve to God alone the gift of her whole self,
+she was most jealous in hiding from creatures' eyes
+the richness of her interior life, the heroism of her
+virtues, so that her life was the full realization of the formula "to live alone with God alone." The soul still
+seeking creatures' approval, praise, and esteem,
+does not live alone with God alone and therefore its interior life
+cannot be deep, its relations with God cannot
+be very intimate. This soul still lives on the
+surface. And thus - preoccupied as it is with exterior appearance,
+with what others may think or say
+of it - in acting it can easily deviate from human respect,
+from desire to draw to itself others' benevolence and esteem.
+Therefore in its conduct there will often be lacking simplicity,
+purity of intention, and perhaps even sincerity.
+The supernatural in it is still too mixed
+with the human to dominate its life, and in fact it often
+acts not to please God, to give Him glory, but to
+please men, to gain their affection,
+to win for itself a more or less honorable place.
 
-
-imitation of Jesus' hidden life aims: to participate in His interior life, that is, to hide oneself "with Christ in God,"
-to penetrate with Him into the sanctuary of the most holy Trinity. This St. Teresa Margaret expressed in her
-ardent desire "to emulate by faith, as far as possible to a creature, the hidden interior life and actions of understanding and will, that is, the sublime knowledges and affections of the most holy Humanity of Jesus Christ,
-hypostatically united to the Word" (Sp. p. 374).
-
-The practice of hidden life therefore has two aspects. The
-first, negative and predominantly exterior, which consists in
-hiding from others' eyes and also from one's own: it is dying to glory and earthly honors; the second,
-positive and wholly interior, which consists in concentrating in God, in a life of intimate relations with Him.
-The first aspect is the condition
-and measure of the second: the more the soul knows how to hide from creatures - and also from itself - the more
-
-
-capable it will be of living "with Christ in God," according
-
-
-to St. Paul's beautiful expression: "you are dead - that is,
-dead to the world and to its vanities - and your life is
-hidden with Christ in God" (Col. 3, 3).
-
-
-2 — "My God... now forever I mean to shut myself
-within Your most lovable Heart as in a desert,
-there to make in You, with You, for You this hidden life of love and sacrifice." Thus St. Teresa Margaret made concrete her ideal of hidden life with Christ.
-
-
-"The soul that has long exercised itself in the exterior and
-
-
-negative aspect of hiddenness, that is, which with constant fidelity
-has known how to hide from creatures' eyes, is free and
-ready to hide with Christ in God.
-
-It no longer dissipates its energies seeking esteem
-or human satisfactions; from this point of view
-creatures have become a nothing for it, and it can well say
-that "created things, neither its own nor others', no longer give it the least annoyance and hindrance,
-as though they did not exist at all" (T.M. Sp. p. 373), and for this it has attained that
-
-
-sovereign freedom of spirit that allows it to concentrate
-totally in God. Then its conduct presents nothing extraordinary; indeed its very care to hide from others' eyes very often causes it to pass unnoticed, while most deem it a person of little account;
-but in the secret of its heart there unfolds a most rich interior life
-known to God alone. United to Jesus, in Him, with Him,
-for Him, it participates in His Trinitarian life. This means
-attaining fullness, the end of Christian life, because
-grace was given us precisely to make us participants
-in divine nature and therefore in divine life, in the life of God-
-Trinity. For this very end the Word was incarnate; Jesus,
-dying on the cross, merited grace for us,
-grafted us into Himself, to lead us back with Him into the bosom of the Trinity,
-from which by sin we had withdrawn. Thus we,
-not by our merit, not by our capacity, but only by
-being grafted into Christ can, with Him and through Him -
-our Mediator, our bridge, our way - penetrate
-into God's intimate life, into Trinitarian life. Faith and
-charity, which Jesus merited for us together with grace, make us
-capable of entering relation with the three divine Persons,
-so that we can truly live "hidden with
-Christ in God."
-
-Life hidden in God is the great attraction of
-interior souls, and to attain it they are very glad
-to hide from their own and others' eyes,
-fleeing every shadow of earthly splendor.
-Blessed hiddenness that introduces the soul into the "vita abscondita cum Christo in
-Deo"!
+"When we catch ourselves desiring what shines - said St. Therese of the Child Jesus - let us place ourselves
+humbly among the imperfect and consider ourselves weak souls whom
+God must sustain at every instant" (CR.). And for her own
+part the Saint asked: "O Jesus, grant that no one concern himself with me and that I be forgotten,
+trodden underfoot like a grain of sand" (St. 8). The soul of interior life wants
+to be known and loved by God alone and for this it hides itself from creatures.
 
 ### Colloquy
 
-"Yes, O Jesus, to nothing else do I want to attend except
-to becoming Your perfect copy; and since Your life was nothing
-but a hidden life of humiliation, of love,
-of sacrifice, so from now on must mine be; therefore now
-forever I intend to shut myself within Your most lovable
+"O Jesus who said: 'My kingdom is not of this
+world,' You teach me that the only kingship to be envied
+consists in willing to be unknown and counted for nothing,
+and in placing one's glory in contempt of oneself. Oh,
+how I long that my face, like Yours, be hidden from
+all glances, so that no one here below may recognize me!
+You wanted neither beauty nor splendor, but Your
 
 
-Heart as in a desert, there to make in You, with You,
-for You, this hidden life of love and sacrifice... And
+Face was as it were hidden and men made no
+account of it. I too desire to be, like You, without
+splendor or beauty, unknown to every creature.
+
+"Yes, I must keep all for You with jealous care; how
+beautiful to work for You alone, O Jesus! for You alone.
+Then the heart is satisfied and one feels light: may no one think
+of me, may my existence be by all, so to speak, ignored;
+I desire only one thing: to be forgotten and counted for nothing. Yes, I desire to be forgotten,
+and not only by creatures, but also by myself; I would wish
 
 
-since You inspire my heart to make myself, as far as possible,
-in all things like You, to this my cares shall tend,
-and particularly I will imitate You in those virtues that so please Your most lovable Heart: humility... and purity of intention,
-both inwardly and outwardly, always operating in a spirit
-of simplicity" (T.M. Sp. p. 324).
+to be so reduced to nothing as to have no
+desire at all. Your glory, O my Jesus, that is all! mine,
+I abandon to You" (cf. T.B.G. St. 7; NV.; Lt. 84 and 81).
 
-O Jesus, deign to open also to me Your most sweet
-Heart and permit me to take refuge in it, to live
-with You hidden in God. Exterior life, life of display and earthly glory has no attraction for me any
-longer: is it not all vanity, all fleeting succession of circumstances that soon will be no more? The only
-life that draws me and will always remain,
-above every earthly contingency, is that of intimate union with
-God. And this is the great treasure that You offer me by
-the merits of Your Passion. I contemplate You on the cross, O Jesus,
-with breast opened by the lance as if to indicate to me that
-Your death has opened to me the doors of Your Heart,
-to admit me into the sanctuary of Your interior life. Your
-death, in fact, has grafted my poor human life into You
-to make it participant in Your divine life, life of intimate
-relations with the Trinity. This indeed is true life,
-lasting life, eternal life! And to this I aspire,
-not by my merits, but by the merits of Your Passion. O Jesus,
+O Lord, to be forgotten by creatures, to work
+without my work being recognized, to pass in the silence and hiddenness of a humble life in which nothing
+stands out, nothing is worthy of attention, behold something that
+mortifies my pride to the very root. Behold, O Lord,
+an energetic cure for my innate desire to assert myself.
+
+Lord, I confess it, and You already know it, I am far
+from desiring, as the saints did, the forgetfulness,
+the disregard of creatures, I who often spontaneously use
 
 
-grant that I seek my joy, my good, only in this
+little devices to be noticed, to put myself on display.
 
-
-participation in Your interior life, and that in it I place all my glory.
-
-And may all my glory be within, in the secret of
-my life hidden with You in God.
+But You know it, my Jesus, that I am sick, and You know
+that I want to be healed, fashioning my life after the example of Yours. Only to be like You can I accept and love hiddenness,
+only to merit Your love,
+Your gaze, Your predilection, can I renounce creatures' benevolence
+and esteem. O Jesus, therefore increase my
+desire to live for You alone and it will be sweet to me to live unknown to men.

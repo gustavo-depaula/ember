@@ -1,103 +1,21 @@
-## 244 — LA CARITÀ
+## XIV — LA FEDE
 
-### Presenza di Dio
-
-O Signore, fa' che mediante la carità io possa davvero partecipare alla tua vita di amore.
+**Presenza di Dio.** — *O Signore, che io comprenda il grande valore della fede.*
 
 ### Meditazione
 
-1. — La fede ti fa aderire a Dio per mezzo della conoscenza e, quindi, interessa soprattutto la tua mente; la speranza
-ti fa aderire a Dio per mezzo della convinzione di possederlo
-un giorno nella vita beata e, quindi, interessa soprattutto il
-tuo desiderio di felicità, ma la carità prende tutto il tuo essere e, per mezzo dell'amore, lo slancia in Dio. La fede ti
-dice chi è Dio, ti rivela il mistero della sua vita intima che
-sei chiamato a partecipare, la speranza ti dice che questo Dio
-vuol essere il tuo bene per tutta l'eternità, ma la carità te lo
-fa raggiungere immediatamente per quella forza unitiva che
-le è propria. « La carità — insegna S. Tommaso — fa propriamente tendere a Dio, unendo l'affetto dell'uomo a Dio,
-sì che l'uomo non viva più per sè, ma per Iddio » (I, q. 17,
-a, 6, ad. 3).
+**1** — «Senza la fede non è possibile piacere a Dio» *(Ebr.* 11, 6) perché la fede è il fondamento dei nostri rapporti con lui. Per l'uomo che non ha fede, Dio non ha nessun significato, nessun posto nella sua vita. Al contrario, più la fede è viva e più Dio entra nella nostra vita, fino a diventare il nostro tutto, fino ad essere l'unica grande realtà per la quale si vive, per la quale si affronta coraggiosamente il dolore e la morte. Solo quando la fede è penetrata profondamente in un'anima questa può esclamare con S. Paolo: «se viviamo, viviamo per il Signore, e se moriamo, moriamo per lui» *(Rom.* 14, 8). A noi non manca la fede, ma manca la vivezza, la concretezza della fede che ci fa sempre vedere Dio in tutte le cose, al di sopra di tutte le cose, che ci dà il senso della sua realtà essenziale, trascendente ed eterna, che supera infinitamente tutte le realtà immediate, contingenti, passeggere di questa vita. La fede non si appoggia ad dati sensibili, a quello che vediamo, che tocchiamo e non si riduce neppure a quello che il nostro intelletto comprende da solo; al contrario, sorpassando tutto ciò, ci rende partecipi della conoscenza stessa di Dio, del suo pensiero, della sua scienza. Avendoci elevati allo stato di suoi figli, Dio ci ha resi capaci di partecipare alla sua vita intima, vita di conoscenza e di amore. A tale scopo, insieme con la grazia, Egli ci ha dato le virtù teologali: la fede ci mette a parte della sua vita di conoscenza e la carità della sua vita di amore. La fede ci rende capaci di conoscere Dio come Egli stesso si conosce, benché non certo esaurientemente. Dio si conosce non solo come Creatore, ma anche come Trinità, come Autore della grazia e così ce lo presenta la fede. Per la fede noi conosciamo le creature come Egli le conosce, cioè in relazione a lui, in dipendenza da lui. Il nostro intelletto non può darci che una luce naturale e su Dio e sulle cose; la fede, invece, ci dà la luce soprannaturale come è una partecipazione della luce di Dio, della conoscenza che Egli ha di se stesso e del mondo.
 
-Ma, che cosè questa carità che ha il potere di unirci a
-Dio, di farci vivere in intimi rapporti con lui al punto che:
-«chi sta nella carità sta in Dio e Dio in lui» (1 Gv. 4, 16)?
-E' una partecipazione creata della carità, dell'amore infinito
-con cui ama se stesso, ossia dell'amore con cui il Padre
-ama il Figlio, con cui il Figlio ama il Padre e l'uno e l'altro si amano nello Spirito Santo. Mediante la carità tu sei
-chiamato ad entrare in questa corrente, in questo circolo d'amore eterno che unisce fra loro le tre Persone della SS,ma
-Trinità. Già la fede, rendendoti partecipe della conoscenza
-che Dio ha di se stesso, ti fa entrare nell'intimità della vita
-divina; ma la carità ti fa penetrare ancora più addentro, inserendoti, per così dire, in quel movimento d'amore, d'amicizia incomparabile che esiste nel seno della SS.ma Trinità,
+**2** — S. Tommaso dice che «la fede è una disposizione abituale della nostra mente con la quale comincia in noi la vita eterna», è un «principio di vita eterna» *(QD. de Ver.*1*e,* q. XIV, a. 2). Infatti, per la fede cominciamo a conoscere Dio come lo conosceremo un giorno in cielo: lassù lo conosceremo svelatamente nel lume di gloria, quaggiù lo conosciamo velatamente mediante la verità che la fede ci propone a credere e, tuttavia, si tratta del medesimo Dio. La fede e la visione beatifica sono come due fasi della medesima conoscenza di Dio: la fede ci dà una conoscenza iniziale, velata, imperfetta; la visione beatifica, in cui la fede terminerà, ci darà la conoscenza piena, svelata, perfetta. Ora «conosciamo parzialmente — come dice S. Paolo, e «uniti alla conoscenza mediante la fede — ma quando verrà ciò che è perfetto — ossia la visione beatifica — il parzialmente finirà» *(I Cor.* 13, 9-10). S. Giovanni della Croce ha un paragone geniale per farci intendere che la fede contiene già in bocca la visione del cielo. Si riferisce al fatto scritturistico dei soldati di Gedeone i quali portavano «in mano delle fiaccole accese, dentro i vasi, perché nascoste dentro dei vasi; rotti questi, subito apparve la luce. Così la fede, simboleggiata da quei vasi, contiene in sé la luce divina, cioè la verità di quel che Dio è in se stesso; e, consumata con l'infrangersi di questa vita mortale, subito lascerà risplendere la luce e la gloria della Divinità che essa conteneva» *(S.* II, 9, 3).
 
-La carità ti lancia nel centro della vita intima di Dio, ti
-rende capace di associarti all'amore infinito delle tre divine
-Persone: per essa, insieme col Padre ami il Figlio, insieme col
-Figlio ami il Padre ed ami il Padre ed il Figlio nell'amore
-dello Spirito Santo.
-
-
-2. — Anche mediante la speranza ami Dio, ma lo ami
-
-
-soprattutto come tuo bene, come fonte della tua felicità,
-lo ami per il soccorso, per l'aiuto che attendi da lui; invece,
-la carità ti rende capace di amare Dio per se stesso, perchè
-Egli è la bontà, la bellezza, la sapienza infinita, in una parola, perchè è Dio. L'amore che produce la speranza, pur
-essendo preziosissimo, è ancora imperfetto appunto perchè
-è amore di concupiscenza, mediante il quale si ama Dio per
-i benefici che da lui si ricevono. Invece l'amore di carità è
-perfetto perchè è puro amore di compiacenza, di benevolenza, ossia è amore che si compiace del bene infinito di Dio
-e che vuole questo suo bene, non per il proprio tornaconto,
-ma per lui, per la sua felicità, per la sua gloria. La carità
-solleva il tuo amore così in alto che lo rende capace di amare realmente Dio come Egli stesso si ama, sebbene non con
-la medesima intensità. Dio ama se stesso con amore di compiacenza e di benevolenza infinita: il Padre si compiace infinitamente nel bene infinito del Figlio e infinitamente lo
-vuole; a sua volta il Figlio si diletta nel bene infinito del
-Padre e infinitamente lo vuole e così pure il Padre ed il
-Figlio rispetto allo Spirito Santo, e viceversa. Fra le tre Persone divine vi è, dunque, un amore di amicizia purissima per
-cui ognuna si diletta nel bene e nella felicità dell'altra e
-ognuna vuole la gloria dell'altra. La carità ti rende capace
-di amare Dio con questo amore di amicizia, ossia di amarlo
-anzitutto per lui, per la sua gloria, per la sua felicità. E
-vero, tu, piccola creatura, nulla puoi aggiungere alla felicità
-ed alla gloria intrinseca di Dio; tuttavia la carità ti spinge ad impegnarti con tutte le tue forze a fargli piacere,
-a dargli gusto, a procurargli, se così si può dire, la gioia di
-
-vederti corrispondere in pieno al suo amore; ti spinge a consacrare a lui tutta la tua vita, a donarti a lui senza riserva;
-ti spinge a cercare in primo luogo la sua volontà, i suoi interessi, la sua gloria, mettendo da parte la tua volontà ed
-i tuoi interessi personali. Ora comprendi meglio la sentenza
-di S. Tommaso: « la carità unisce l'affetto dell'uomo a Dio,
-sì che non viva più per sè, ma per Dio».
+Quanto più la nostra fede è viva, tanto più noi godiamo quaggiù un anticipo della conoscenza di Dio che avremo in cielo. Quanto più la nostra fede è viva e informata dall'amore, tanto più godremo per tutta l'eternità di un alto grado di gloria e quindi di visione di Dio. La fede di oggi ci deve preparare alla visione beatifica di domani, ci deve fare entrare fin da quaggiù in comunione col pensiero, con la conoscenza di Dio. Ecco come la fede ci innalza immensamente al di sopra dei nostri ragionamenti, dei nostri pensieri umani.
 
 ### Colloquio
 
-«Considera, anima mia, con che gioia ed amore il Padre
-riconosce suo Figlio e il Figlio suo Padre; contempla l'ardore
-con cui lo Spirito Santo si unisce ad Essi e come nessuno dei
-Tre possa separarsi da tanto amore e conoscenza, formando
-Essi una così sola; si conoscono, si amano, si compiacciono a
-vicenda. Ora, che bisogno v'è del mio amore? Perchè lo vuoi,
-mio Dio? Che ti guadagni con esso?
+«O fede di Cristo, mio Sposo, mi rivolgo a te come a quella che in sé racchiude e copra la bellissima figura del mio diletto. Tu sei fonte chiara e limpida da errori, da cui derivano all'anima le acque di tutti i beni spirituali. Quindi è che Tu, o Cristo, parlando alla Samaritana, hai detto che in coloro che avrebbero creduto in te sgorgherebbe una fonte la cui acqua salirebbe fino alla vita eterna.
 
-«o amore, o nome ch'io vorrei ripetere ovunque e che
-solo può darmi ardire di ripetere con la sposa dei Cantici:
-"Ho amato il mio Diletto!* Solo l'amore può darmi diritto
-di pensare che Tu, Dio mio, mio Sposo e Bene mio, abbia
-bisogno di me...
+«O fede, è tanta la somiglianza che esiste fra te e Dio, che altra differenza non v'è se non quella che passa tra Dio veduto e Dio creduto. Poiché, come Dio è infinito, così tu ce lo proponi infinito; come è trino ed uno, così tu ce lo manifesti trino ed uno; come Dio è tenebra per il nostro intelletto, così anche tu l'offuschi e l'accieci. E così, o Signore, con questo solo mezzo della nuda fede, Tu ti manifesti all'anima in luce divina che eccede ogni intendimento. Accresci, dunque, o Signore, la mia fede, perché quanto più avrò fede, tanto più sarò unito a te.
 
-« L'amore, però, non deve essere frutto d'immaginazione,
-ma dev'esser provato con le opere... O Gesù, che non fa
-mai un'anima infiammata del tuo amore? Chi ti ama vera
-mente ama tutto ciò che è buono, vuole tutto ciò che è buono,
-loda tutto ciò che è buono, favorisce tutto ciò che è buono,
-non s'accompagna che coi buoni per aiutarli e difenderli;
-insomma, non ama che la verità e ciò che è degno d'essere
-amato. Chi ti ama veramente, o Signore, non è possibile che
-insieme ami le vanità della terra; sua unica cura è di contentare te. Muore dal desiderio di essere da te riamato e consuma la vita nella brama di poterti maggiormente amare. _
+«Anima mia, poiché Dio è inaccessibile, cerca di non contentarti a quello che le tue potenze possono comprendere e il tuo senso percepirà, affinché tu non ti ritenga soddisfatta con meno e non perda la leggerezza necessaria per salire a Dio. Ma cammina in fede, fede nuda e pura, perché solo la fede è il mezzo prossimo e proporzionato alla tua unione con Dio» *(cfr. G.C.* 12, 1-3; S. II, 9,1; *AM.* 52).
 
-«O Signore, degnati di darmi questo amore almeno prima di morire! Sarebbe un gran conforto poter pensare, al
-momento della morte, di dover essere giudicata da te che ho
-amato sopra tutte le cose. Potrei allora venirti innanzi con
-
-confidenza, anche col carico dei miei debiti, persuasa di andare non già in una terra straniera, ma nella mia patria, nel
-regno di Colui che tanto amo e che pur tanto mi ama»
-(Cfr. T.G. Es. 7, 2;:P. 4,11 e 12; Cam. 11,3e 8).
+«O infinita Sapienza, o eterno ed infinito Dio, Tu vuoi essere capito dalla tua creatura, perché sei sommo Bene; ed ella è capace di te e t'intende in quel modo che tu ti mostri a lei sotto il velo della fede; velo, sì, ma lucido, giacché la tua parola illumina e dà luce agli umili. Tuttavia, come è impossibile che Tu non sia Dio, così è impossibile che Tu possa essere pienamente inteso dalla tua creatura. O Signore, chi vuol ascendere alla sublimità della tua natura bisogna, dunque, che abbia tanta fede. Essendo Tu il Bene ottimo, infinito, immenso ed inscrutabile che non può essere inteso se non da te stesso, quanto più l'anima crede in te, tanto più viene ad unirsi a te d'a partecipare della tua bontà» *(cfr.* S. M. Maddalena de' Pazzi).

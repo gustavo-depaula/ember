@@ -1,89 +1,19 @@
-## 242 — SPERARE SENZA MISURA
+## XII — LA DIVINA PROVVIDENZA
 
-### Presenza di Dio
-
-— Sostieni, o Signore, la mia speranza affinchè io possa sperare in te senza misura.
+**Presenza di Dio.** — *O mio Dio, che tutto ordini e disponi per altissimi fini, insegnami ad affidarmi pienamente alla tua divina provvidenza.*
 
 ### Meditazione
 
-1. — « L'uomo — insegna S. Tommaso — non può mai
+**1** — «La sapienza divina — dice la S. Scrittura — si estende con potenza da un'estremità all'altra del mondo e tutto governa con bontà» *(Sap.* 8, 1). La sapienza divina s'identifica così con la divina provvidenza che tutto ordina, dispone, guida al raggiungimento di un fine ben determinato: fine ultimo e supremo, la gloria di Dio; fine prossimo e secondario, il bene e la felicità delle creature. Nulla esiste senza motivo, nulla avviene a caso nel mondo, ma tutto, assolutamente tutto rientra nel grandioso piano della divina provvidenza, piano in cui ogni creatura, anche l'infima fra tutte, ha il suo posto, il suo scopo, il suo valore, in cui ogni avvenimento, anche il più insignificante, è fin dall'eternità previsto ed ordinato nei suoi minimi particolari. In questo piano vastissimo e meraviglioso tutte le creature, dalle più sublimi — come gli angeli — alle più umili — come le gocce di rugiada e i fili d'erba — sono chiamate a portare il loro contributo all'armonia ed al bene dell'insieme.
 
+Se certe situazioni ci sembrano incomprensibili, se non riusciamo a capire la ragion d'essere di circostanze e di creature che ci fanno soffrire, è perché non sappiamo scoprire il posto che esse hanno nel piano della divina provvidenza in cui tutto è ordinato al nostro ultimo bene. Sì, anche la sofferenza è ordinata al nostro bene e Dio, che è bontà infinita, non la vuole e non la permette se non a questo scopo. Noi crediamo ciò in teoria, ma facilmente lo dimentichiamo in pratica sì che, quando ci troviamo davanti a situazioni oscure e dolorose che vengono a spezzare o ad intralciare i nostri progetti, i nostri desideri, ci smarriamo e sulle labbra ci sale la domanda angosciosa: «Perché Dio permette questo?». Eppure, la risposta non manca mai ed è universale ed infallibile come universale ed infallibile è la provvidenza divina: Dio lo permette unicamente per il nostro bene. È questa la grande convinzione di cui abbiamo bisogno per non scandalizzarci di fronte alle prove della vita. «La condotta di Dio è tutta bontà e fedeltà per coloro che osservano il patto e gli ordini di lui» *(Sal.* 24, 10); possiamo dubitare di noi, possiamo dubitare della nostra bontà e della nostra fedeltà, ma non di Dio che è bontà e fedeltà infinita.
 
-amare Dio quanto Egli deve essere amato; parimenti non possiamo credere e sperare in lui quanto Egli merita (II-II, q. 17,
-a. 4). Perciò si può dire che la misura di sperare in Dio è
-è senza misura. La tua speranza, la tua fiducia in
-Dio non sarà mai eccessiva, mai esagerata, perchè si appoggia
-sulla misericordia di Dio che non ha limiti Se cerchi umilmente di fare da parte tua tutto quello che puoi per piacere
-a Dio, non devi temere di sperare troppo in lui. La sua potenza soccorritrice, il suo desiderio del tuo bene, della tua santificazione superano infinitamente le tue speranze, per quanto ardite possano essere. A Dio piace talmente questa speranza cieca, illimitata in lui che, quanto più ci vede sperare, tanto più ci ricolma dei suoi beni: « quanto più l'anima
-spera, tanto più ottiene », ha detto S. Giovanni della Croce
-(S. III, 7, 3) e S. Teresa del B. G., facendo suo questo pensiero, esclama: « Non si può mai abbastanza confidare in Dio
-che è tanto potente e misericordioso. Si ottiene da lui quanto
-appunto da lui si spera » (St. 12).
-
-Quanto più ti trovi misero, debole, impotente, tanto più
-buttati a sperare in Dio; se non puoi nè devi aspettarti di
-giungere alla santità con le tue forze, devi sperare di giungervi con la forza di Dio che è onnipotente, devi sperare
-di giungervi per la sua misericordia infinita che ama chinarsi
-sulle anime consapevoli della propria debolezza, che ama,
-come ha detto la Madonna « esaltare gli umili e ricolmare di
-bene di affamati» (cfr. Lc. 1, 52-53). L'esperienza della tua miseria ti farà comprendere che
-l'anima tua si dilaterà nella speranza, nella fiducia in Dio,
-e più si spalancherà alla sua azione santificatrice. La misericordia di Dio è pronta a scendere su di te per purificarti,
-
-santificarti, ma, per farlo, aspetta che tu le apra le porte
-del tuo cuore con un atto d'immensa confidenza.
-
-
-2. — Quando un'anima si sforza di applicarsi con tutta
-la sua buona volontà all'esercizio delle virtù, all'adempimento di ogni suo dovere, quando è decisa a non rifiutare nulla
-al Signore, deve mantenersi in un atteggiamento di totale
-fiducia in lui, nonostante le inevitabili cadute. Sì, devi avere
-una fiducia estrema che il Signore verrà a santificarti nonostante le mancanze del passato, le miserie del presente, le aridità di spirito, le ripugnanze della natura, la stanchezza, l'abbattimento di forze.
-
-Dio ci ama non perchè siamo senza peccato, ma perchè siamo suoi figli, perchè ha infuso in noi la sua grazia. E tu non
-devi mai fare a Dio il torto di non credere al suo perdono; nè
-
-devi scoraggiarti per le cadute che ti sfuggono malgrado la tua
-buona volontà. Se ti scoraggi è perchè cerchi la perfezione, non
-solo per la gloria di Dio, ma un po' anche per la tua soddisfazione, è perchè vorresti essere sicuro di te stesso, anzichè voler
-essere sicuro di Dio solo. E tutto ciò, in fondo, è frutto di orgoglio sottile. Invece di sgomentarti, d'irritarti per le tue imperfezioni, riconoscile umilmente, presentale a Dio come il malato presenta le piaghe al medico, chiedi perdono e poi ricomincia subito da capo con grande fiducia. Devi imparare
-a servirti delle tue miserie, delle tue mancanze per patrocinare la tua causa, per dimostrare a Dio quanto hai bisogno
-del suo aiuto, per aumentare la tua fiducia in lui. La speranza in Dio è la grande ancora di salvezza della tua povera
-anima sbattuta dai flutti della fragilità umana. In questo
-senso S. Paolo ti esorta a procedere « sorretto dalla virtù di
-Dio, il quale ci ha salvati e ci ha chiamati con una santa
-chiamata, non già per le nostre opere, ma secondo il proprio
-disegno e per la grazia concessa a noi in Gesù Cristo »
-(IT Tim. 1, 8-9). Lungi dal concludere che le opere buone
-sono inutili, la speranza cristiana esige da parte tua tutta
-l'applicazione possibile per fare il bene e fuggire il male;
-ma poi ti lancia molto al di là delle tue povere opere, ti lancia in Dio, nella sua misericordia infinita.
+**2** — Dopo averci creato, Dio non ci ha lasciato in balìa di noi stessi ma, come tenera madre, continua ad assisterci ed a provvedere a tutte le nostre necessità: «Potrà forse una donna dimenticare il suo bambino?... e se pur questa lo pomai di te» *(Is.* 49, 15). Ogni uomo può, con tutta verità, ritenere queste parole come rivolte a lui in particolare e, di fatto, la provvidenza di Dio è così immensa e potente che, mentre abbraccia l'universo intero, nello stesso tempo si prende di una cura speciale di ognuna delle sue creature, anche delle più piccole. Proprio sotto questo aspetto Gesù ci ha presentato la provvidenza del Padre celeste: «Nemmeno un passero cade in terra senza il permesso del Padre vostro... Non temete, dunque, voi siete da più di molti passeri» *(Mt.* 10, 29 e 31). Come Dio non ci ha creato a serie, ma crea individualmente l'anima di ogni uomo che viene al mondo, così la sua divina provvidenza non si limita ad assisterci in blocco, ma ci assiste uno per uno, ben conoscendo tutte le nostre necessità, le nostre difficoltà e perfino i nostri desideri e ben sapendo quel che più conviene al nostro vero bene. Una mamma, anche la più sollecita, può ignorare qualche bisogno del figlio suo, può dimenticarlo, può sbagliarsi nel provvedervi o essere nell'impossibilità di farlo; ma ciò non accadrà mai a Dio la cui provvidenza tutto sa, tutto vede, tutto può. Nemmeno il più piccolo passero è dimenticato, nemmeno il più umile fiore del campo è trascurato. «Considerate — dice Gesù — come crescono i gigli del campo; essi non lavorano e non filano. Tuttavia... neppur Salomone... fu mai vestito come uno di essi. Se dunque Dio veste così l'erba del campo, che oggi è e domani vien buttata nel forno, quanto a maggior ragione vestirà voi, uomini di poca fede?» *(Mt.* 6, 26-30). La provvidenza di Dio ci circonda da tutte le parti; da essa ci muoviamo e siamo e, nondimeno, siamo così tardi a credere in essa, così diffidenti! Come abbiamo bisogno di dilatare il cuore in una fiducia, in una confidenza più grande, anzi, illimitata, poiché illimitata è la divina provvidenza!
 
 ### Colloquio
 
-«O Gesù, come può un'anima così imperfetta al pari della mia aspirare alla santità, alla pienezza dell'amore? Che
-mistero è mai questo? E perchè, mio unico Amico, non riserbi
-questi desideri immensi alle anime grandi, alle aquile che si
-librano alle altezze supreme? Tu lo sai, io non sono che un
-povero uccellino, coperto appena di una leggera lanugine,
+«O Dio, avendo creato il mondo, Tu lo reggi e lo governi con ordine mirabile. Tu fai nascere le piante, le fai germogliare, a suo tempo fai sbocciare i fiori e maturare i frutti. Tu governi il sole, la luna, i pianeti e, insomma, Tu hai creato tutto con mirab il ordine e tutto hai fatto per l'uomo. L'uomo, poi, hai fatto solo per te e vuoi riposarti in lui, né vuoi che egli si riposi e quieti in altro che in te. Tu non hai bisogno della tua creatura, eppure ti degni cercare in essa il tuo riposo, affinché lei ti possa poi godere e godere in eterno, possa goderti e vederti a faccia a faccia, insieme a tutto il Paradiso.
 
-non sono già un'aquila e dell'aquila non ho che l'occhio ed
-il cuore perchè, nonostante la mia estrema debolezza, oso
-fissare il Sole divino dell'amore. Vorrei volare verso questo
-Sole splendente, vorrei elevarmi lassù, fino al focolare divino
-della SS.ma Trinità. Ma l'unica cosa che io posso fare è di
-sollevare le mie piccole ali, ma non è già in mio potere innalzarmi fino a quelle altezze, Che sarà mai di me? Morirò
-forse di dolore alla vista della mia impotenza? Oh, no, non
-me ne affliggerò affatto! Con audace abbandono voglio restarmene qui, fissando fino alla morte il mio Sole divino.
-Niente potrà spaventarmi, nè il vento, nè la pioggia; se grosse nubi verranno a celarmi l'Astro d'amore, se mi parrà di
-credere che non esista altra cosa all'infuori della notte di
-questa vita, sarà allora il momento della gioia perfetta, il
-momento di spingere la mia confidenza sino ai limiti estremi,
-guardandomi bene dal mutar posto, sapendo che, oltre queste
-tristi nubi, continua a brillare il mio dolce Sole. E, se Tu
-resti sordo al grido lamentevole della tua debole creatura, se
-resti velato, ebbene, acconsento a restare bagnata, accetto di
-rimanere assiderata dal freddo e godo ancora di questa sofferenza che mi son meritata. Sì, o mio Astro diletto, sono felice
-di sentirmi piccola e debole alla tua presenza!.. Un giorno,
-o Gesù, lo spero, Tu piomberai sopra di me, trasportandomi
-nel focolare dell'amore e mi immergerai finalmente in quell'ardente voragine » (cfr. T.B.G. St. 11).
+«La tua provvidenza divina, o Signore, è tale che Tu hai cura di tutti come se fossero tutti uno solo; e di uno solo, come se in quello fossero tutti racchiusi. Oh, se la tua provvidenza fosse ben compresa, ogni creatura lascerebbe le cose di questo mondo e seguirebbe te per potersi unire con la tua provvidenza!» (S. M. Maddalena de' Pazzi).
+
+«Benefico sei, o Signore, verso tutti, e la tua pietà si spande su tutte le tue creature. Ti lodino, o Signore, tutte le tue fatture e ti benedicano i tuoi devoti. Gli occhi di tutti a te si rivolgono in attesa e Tu dài a tutti, a suo tempo, il loro cibo; allarghi la mano e colmi di favori ogni vivente. Tu rendi giustizia agli oppressi e dai il pane agli affamati. Sciogli i prigionieri, apri gli occhi ai ciechi, raddrizza gli storpi, ami i giusti. Risani i cuori affranti e ne fasci le piaghe. Tu copri i cieli di nubi, apparecchi alla terra la pioggia e fai crescere l'erba sui monti; dai il loro cibo agli animali, ai piccoli corvi ciò che domandano. O Signore, tutte le creature si effondano nel ricordo della tua immensa bontà e acclamino alla tua liberalità!» *(cfr. Sal.* 144; 145; 146).

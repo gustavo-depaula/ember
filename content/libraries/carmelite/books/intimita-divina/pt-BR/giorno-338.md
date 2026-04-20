@@ -1,55 +1,49 @@
-## 338 — O CAMINHO DA UNIÃO
+## 338 — RETIDÃO DE INTENÇÃO
 
 ### Presença de Deus
 
-Dá-me luz, Senhor, e dá-me força para arrancar de mim tudo o que me impede de unir-me a ti.
+Ó Deus, arranca do meu coração todas as intenções secundárias, todos os movimentos de amor-próprio, para que eu vise unicamente à tua glória.
 
 ### Meditação
 
-1 — «Une-se mais a Deus aquela alma que está mais adiantada no amor, isto é, a que tem a própria vontade mais conforme com a vontade de Deus» (São João da Cruz).
+Muitos fracassos no apostolado provêm do fato de que a atividade apostólica não é exercida com as condições que ela mesma requer e que são indispensáveis para transformá-la num intenso exercício de vida espiritual.
 
-No plano concreto da vida, o amor, quando é verdadeiro, manifesta-se em querer fazer o que agrada à pessoa amada, em conformar-se aos seus desejos, gostos e quereres, não querendo nada do que possa desagradar-lhe.
+Trata-se de certa desordem, de motivos mais ou menos humanos que, infiltrando-se nessa atividade, a fazem descer do plano sobrenatural ao plano humano e a transformam em ocasião de desvio e de arrefecimento da vida interior; por isso a alma se sente insatisfeita e inquieta.
 
-A medida com que uma alma sabe realmente conformar-se à vontade de Deus é a medida de sua união com Ele; e é evidente que essa união não será perfeita enquanto a alma resistir, mesmo em pequenas coisas, ao querer divino, ou não o aceitar de bom coração; e também enquanto conservar desejos e gostos que, ainda que de modo muito leve, estejam em desarmonia com os de Deus.
+Pio XII, no Motu proprio *Primo feliciter*, exprimiu com muita clareza as condições de uma atividade santa: «O apostolado — diz ele — deve ser sempre santamente exercido com tanta pureza de intenção, com tanta união interior com Deus, com tão generoso esquecimento e forte abnegação de si e com tal amor às almas, que ele brote do espírito interior que o informa e, ao mesmo tempo, continuamente alimente e renove esse mesmo espírito».
 
-Todo o caminho espiritual para a união divina consiste num duplo movimento muito simples, mas essencial: despojar-se de tudo o que não agrada a Deus, renunciar a tudo o que contrasta com sua vontade, conformando-se com ela e cumprindo-a com o maior amor.
+Reexaminando nosso apostolado à luz dessas palavras, poderemos identificar os pontos fracos, descobrir os defeitos a evitar e também os remédios a tomar. As condições propostas são quatro: pureza de intenção, união com Deus, abnegação de si, amor às almas. Elas são de tal importância que, ao mesmo tempo em que asseguram ao apostolado sua fecundidade, fazem dele um eficaz meio de progresso espiritual.
 
-Movimento muito simples, mas ao mesmo tempo muito amplo, porque deve estender-se a todas as circunstâncias da vida, sem exceção, de modo que em todas, nas grandes como nas mínimas, a alma se comporte de maneira perfeitamente conforme ao querer divino.
+Consideremos antes de tudo a pureza de intenção. Se ninguém pode «servir a Deus e a Mamom» (Mt 6,24), muito menos o apóstolo pode dedicar-se à atividade apostólica com a dupla intenção de servir a Deus e ao amor-próprio, de agradar a Deus e ao mundo, de zelar os interesses das almas e os interesses pessoais.
 
-Movimento muito profundo, porque deve alcançar as dobras mais escondidas do espírito para desembaraçá-lo dos mínimos resíduos e das últimas resistências do egoísmo e do orgulho, não só eliminando os atos, mas também arrancando as raízes.
+A força, a paz e a vida vêm da unidade; o fragmentarismo, mesmo o do espírito, só pode levar à fraqueza, à divisão, à luta e, por fim, à morte. O apóstolo que tem o coração dividido por intenções opostas procurará em vão a paz no trabalho; estará sempre inquieto e insatisfeito.
 
-Enquanto esse trabalho de profunda purificação não for levado a termo, a vontade da alma não poderá ser totalmente conforme à divina, opondo-se-lhe ainda suas muitas imperfeições e hábitos imperfeitos.
+As intenções secundárias podem aparecer de modo grosseiro, fácil de perceber, mas também de modo tão sutil que a alma distraída não as nota. Para descobrir até as menores intenções secundárias, que como pequenas raposas se insinuam às escondidas para arruinar a atividade apostólica, é preciso um clima de recolhimento e de oração.
 
-Só «a alma que tem a vontade inteiramente conforme e semelhante à divina está... de todo unida e transformada em Deus»; por isso, quem quer chegar à união «não precisa de outra coisa senão de despojar-se de suas contrariedades e dessemelhanças».
+Nos momentos de pausa aos pés do Senhor, o apóstolo perceberá que muitas vezes, durante as ocupações cotidianas, perde de vista o fim sobrenatural que deveria animar sua atividade e que, no lugar dele, entram fins secundários que se tornam o motivo imediato de muitas deliberações e ações.
 
-2 — Reconhece que tua vontade ainda é muito diferente da de Deus. Deus quer somente o bem e o quer de modo perfeitíssimo; tu, porém, junto com o bem, queres muitas vezes também o que é mal; além disso, o próprio bem que queres, queres muito fracamente e o realizas muito imperfeitamente.
+Isso significa que sua intenção não permanece orientada unicamente para Deus e para as almas, mas muitas vezes se desvia sob o influxo do amor-próprio: às vezes busca mais ou menos inconscientemente o aplauso e a glória; outras vezes, preocupa-se com a própria vantagem, com o próprio interesse material — não perder um cargo, obter algum progresso na carreira, ser preferido pelos superiores, ser escolhido para obras mais atraentes ou mais rentáveis.
 
-Todas as vezes que cometes alguma falta, mesmo simples imperfeição, queres algo que Deus não pode querer: pequenos atos de preguiça, negligência, impaciência; sutis buscas de ti mesmo ou do afeto e da estima das criaturas; intenções secundárias que se infiltram no teu agir. Tudo isso deve ser eliminado para chegar à união com Deus.
+Em suma, deverá constatar que, ao lado do amor de Deus e das almas, há ainda muito amor-próprio e egoísmo. Diante desse quadro pouco consolador, não deve desanimar, mas reconhecer humildemente a própria miséria e agradecer ao Senhor, que lha revela justamente para que possa corrigir-se.
 
-São João da Cruz diz expressamente que não só os principiantes no caminho do espírito, mas também os proficientes estão sujeitos a muitas imperfeições e conservam ainda hábitos imperfeitos, provenientes sobretudo de um sutil orgulho e egoísmo espiritual.
+Não deve, porém, pensar que tudo o que faz seja unicamente fruto de amor-próprio. Não: quando uma pessoa se entrega ao apostolado movida pelo desejo sincero de fazer a vontade do Senhor e conquistar outros corações, é preciso dizer que ela é animada pelo amor de Deus e das almas; e, contudo, também é preciso admitir que esse amor ainda não é tão forte a ponto de triunfar totalmente das paixões humanas.
 
-Tendo-se exercitado por muito tempo na vida interior, insinua-se facilmente neles certa presunção e segurança de si, de modo que, no trato com Deus, ficam expostos a faltar em humildade e reverência, enquanto nas relações com o próximo caem muitas vezes na fraqueza de querer ser estimados como perfeitos.
+O apóstolo, portanto, não deve cessar de combater todas as manifestações, mesmo mínimas, do amor-próprio. Não deve condescender com elas sob o pretexto de que se trata de movimentos naturais, mas corrigi-las, mortificá-las, reprimi-las, cortá-las sem piedade, retificando sempre as intenções.
 
-Além disso, não estando totalmente desapegados de si, param para gozar um pouco egoisticamente as consolações espirituais que recebem na oração e assim se distraem da busca de Deus somente, retardam o caminho para a união e se expõem também a cair nos enganos da fantasia ou do demônio.
+É necessária uma longa e profunda purificação para vencer totalmente o dualismo entre Deus e o eu, entre o amor das almas e o amor de si. É preciso implorar ao Senhor a graça dessa purificação total e dispor-se a ela, aproveitando todas as ocasiões de desapego, renúncia, sacrifício e humilhação que a atividade apostólica oferece em abundância a quem se dedica seriamente.
 
-Isso mostra quão profundas são em nós as raízes do orgulho e do egoísmo, de modo que, desapegando o coração das vaidades terrenas e dos bens materiais, estamos logo prontos a apegar-nos aos bens espirituais.
-
-Contudo, não devemos desesperar de chegar à união, mas antes tomar motivo de nossa miséria para suplicar com maior insistência ao Senhor que se digne levar a termo a obra de nossa purificação.
-
-Ele, aliás, o deseja mais do que nós mesmos; e, se não o faz como gostaria, é só porque nos encontra relutantes, impacientes, pouco dispostos a aceitar de bom grado o que nos humilha e mortifica até o fundo.
-
-E, no entanto, só esta é a via para chegar à união com Deus.
+Seguindo essa via, o apóstolo encontrará no próprio trabalho um ótimo meio de ascensão espiritual e, em vez de enredar-se nos perigos que a atividade externa apresenta quando o amor-próprio não é reprimido, purificar-se-á através do exercício do seu apostolado.
 
 ### Colóquio
 
-«Enquanto minha vontade tem caprichos estranhos à união divina, fantasias de sim e de não, permaneço no estado de infância; não caminho no amor a passos de gigante, porque teu fogo, ó Senhor, ainda não queimou todas as escórias: o ouro não está puro, e eu ainda sou buscadora de mim mesma.
+«Ó Senhor, quando quero rezar ou trabalhar para o bem das almas, devo antes de tudo dirigir o olhar da mente para ti, Luz eterna, e para o teu esplendor, para que me dês luz, fortifiques meu espírito e me ajudes a retirar-me o mais possível das coisas exteriores, para ser toda interior e voltada às coisas interiores.
 
-«Ó Senhor, ainda não consumaste em mim toda minha hostilidade para contigo! Mas quando tiveres destruído em mim todo amor vicioso, toda dor e temor defeituosos, então o amor será perfeito e o anel de ouro de nossa união será mais amplo que o céu e a terra.
+«Faze que no próximo eu considere somente o homem interior, sem cuidar do exterior senão na medida em que sirva ao interior, de modo que todo o resto seja posto de lado como vaidade e eu não seja atraída para coisas vãs.
 
-«Mas para isso é necessário que cada dia eu morra para mim mesma. Ó Jesus, quero morrer, quero diminuir, quero renunciar-me cada dia mais, para que Tu cresças e sejas exaltado em mim.
+«Meu Deus, que eu seja movida ao apostolado, à oração e ao bom exemplo, somente pelo desejo de salvar as almas, e não pela vanglória, ambição, complacência humana ou alguma utilidade mundana. Somente a ti, ó Cristo crucificado, quero buscar!
 
-«Sento-me bem pequenina no fundo de minha pobreza; vejo meu nada, minha miséria, minha impotência; percebo-me incapaz de progresso e de perseverança; vejo a multidão de minhas negligências e defeitos. Vendo-me na indigência, prostro-me na miséria e, reconhecendo minha extrema necessidade, exponho-a à tua misericórdia, ó meu divino Mestre.
+«Quero inebriar as almas com teu Sangue e não com curiosidade, para que te desejem a ti somente. Quero dizer a cada uma delas: não conheço outra coisa senão Jesus Cristo e este crucificado.
 
-«Quero fazer consistir a alegria da minha alma — quanto à vontade e não à sensibilidade — em tudo o que pode imolar-me, destruir-me, humilhar-me, porque quero dar lugar a ti, ó Senhor.
+«Por isso, não só não quero vantagens terrenas nem me importa agradar aos homens, mas também não julgo conhecer pessoa alguma ou coisa alguma fora de ti, Cristo crucificado.
 
-«Não quero mais viver de minha vida, mas ser transformada em ti, para que minha vida seja mais divina do que humana, e o Pai, inclinando-se sobre mim, possa reconhecer nela a imagem do Filho dileto no qual pôs todas as suas complacências» (cf. Isabel da Trindade).
+«Ó Senhor, inebria-me tanto do teu amor que qualquer outra coisa que se ofereça à vista, ao gosto, ao ouvido ou a qualquer outro sentido, qualquer coisa, exceto tu, eu a considere um nada, de modo que eu não me deleite, não me glorie, não descanse senão no teu Sangue. Faze que meus olhos não estejam cheios de coisas terrenas, mas do teu sofrer; faze que minha boca não esteja cheia de palavras vãs, mas da tua Paixão ...»

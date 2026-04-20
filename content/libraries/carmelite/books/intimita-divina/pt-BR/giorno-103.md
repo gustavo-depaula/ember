@@ -1,132 +1,123 @@
-## 103 — A TRANSFIGURAÇÃO
-*II domingo da Quaresma*
+## 101 — O EXAME DE CONSCIÊNCIA
 
 ### Presença de Deus
 
+— Ó Senhor, projeta sobre minha alma um raio da tua luz, para que eu possa ver-me como Tu mesmo me vês e me julgas.
+
 ### Meditação
 
-1 — A Alma de Jesus, unida pessoalmente ao Verbo,
-gozava da visão beatífica, cujo efeito conatural é
-a glorificação do corpo. Mas tal efeito foi impedido por
-Jesus que, durante os anos de sua vida terrena, quis
-assimilar-se o mais possível a nós, revestindo-se de "uma carne
-semelhante à do pecado" (Rom. 8, 3). Contudo, para confirmar na fé os Apóstolos abalados pelo anúncio
-de sua Paixão, Jesus, no monte Tabor, deixou
-que por breves instantes alguns raios de sua alma
-bem-aventurada redundassem em seu corpo, e então Pedro, Tiago e
-João o viram transfigurado: "seu rosto resplandecia
-como o sol e suas vestes eram brancas como a neve".
-Eles ficaram extasiados, e no entanto Jesus lhes mostrara
-apenas um raio de sua glória, pois nenhuma
+1 — Para assegurar à vida espiritual um desenvolvimento bem ordenado
+e progressivo, é necessário tomar consciência
+das próprias posições, isto é, dos próprios pecados, dos pontos
+fracos, das tendências más, como também dos progressos
+realizados, dos bons resultados obtidos, das tendências para
+o bem. Esta tomada de consciência do próprio estado interior
+faz-se precisamente por meio do exame de consciência, que,
+assim considerado, constitui um dos mais importantes exercícios
+da vida espiritual, pois tem por finalidade ajudar a alma
+a eliminar tudo o que pode impedir ou retardar seu
+caminho para Deus e estimulá-la a acelerar o passo
+para ele. Como não se pode mover guerra a um inimigo
+desconhecido e não se pode conquistar uma região desconhecida,
+assim não se pode combater em nós o mal se primeiro
+não o tivermos identificado, e não se pode conquistar a santidade
+sem ter estudado o plano mais apto para consegui-la. Em
+outras palavras, o exame de consciência atinge seu fim
+quando a alma que a ele se aplicou pode dizer a si mesma:
+estas são as tendências que devo vigiar mais para não cair no pecado, estes os pontos fracos
 
 
-criatura humana teria podido suportar a
-visão completa.
+que devo fortalecer e, por outro lado, estas são as tendências
+boas que devo cultivar, estas as virtudes nas quais devo
+exercitar-me mais. Assim a alma poderá formular
+propósitos práticos bem determinados, que se tornarão depois objeto particular de seus exames ulteriores.
 
-A glória é fruto da graça; a graça que Jesus
-possui em medida infinita redunda numa glória infinita
-que o transfigura todo. Algo semelhante acontece
-também conosco: a graça nos transforma, nos transfigura "de glória
-em glória" (II Cor. 3, 18), até que um dia, no céu, nos introduzirá na visão beatífica de Deus. E enquanto a graça
-transfigura, o pecado, com sua opacidade, desfigura aqueles
-que dele são vítimas.
-
-O Evangelho de hoje (Mt. 17, 1-9) mostra a íntima relação entre a Transfiguração e a Paixão de Jesus. Moisés
-e Elias, aparecidos no Tabor, ao lado do Salvador,
-falavam com ele e, como especifica S. Lucas, falavam propriamente de sua próxima Paixão, "da partida que
-ele estava para cumprir em Jerusalém" (Lc. 9, 31).
-
-O divino Mestre quer assim ensinar aos seus discípulos
-que é impossível para ele e para eles chegar à glória
-da Transfiguração sem passar através do sofrimento; é a lição que dará mais tarde aos dois discípulos
-de Emaús: "Não era preciso que o Cristo padecesse tais coisas
-e assim entrasse na sua glória?" (Lc. 24, 26). Aquilo que o
-pecado desfigurou não pode voltar à primitiva
-beleza sobrenatural senão por meio do sofrimento
-purificador.
+É claro que, antes de tudo, deverão ser bem conhecidas e combatidas as tendências que podem levar ao
+pecado mortal, mas depois também as que conduzem ao
+pecado venial ou a simples imperfeições voluntárias. Tudo
+o que é falta voluntária deve ser progressiva, mas
+decisivamente, eliminado por uma alma que quer chegar à união com Deus.
 
 
-2 — Pedro, extasiado pela visão do Tabor, com seu
-ardor habitual exclama: "É bom para nós estarmos aqui", e se
-oferece para preparar três tendas: para Jesus, para Moisés e para
-Elias. Mas sua proposta é interrompida por uma voz do alto: "Este é meu Filho amado, no qual pus meu agrado:
-escutai-o!" e a visão
-desaparece.
+2 — Nos seus exames de consciência, uma alma de vida
+interior - supondo que já esteja livre do pecado
+mortal - mais do que ir em busca de todas as faltas
+cometidas, deve fixar sua atenção no grau de voluntariedade que há nelas, ainda quando se trate de
+simples imperfeições, porque são justamente as faltas
+deliberadas que mais impedem o progresso espiritual e
+a união com Deus. De tais faltas deverá procurar cuidadosamente a causa, o motivo, e desse modo muitas vezes se
+dará conta de que, enquanto suas culpas externas são de
+vário gênero - por exemplo faltas de caridade,
+de paciência, de obediência, de sinceridade - todas porém provêm
+de uma única causa; por exemplo do orgulho ou da
+acídia, que é a raiz comum. E é precisamente contra
+estas últimas raízes de nossos pecados e imperfeições que
+devemos dirigir os esforços: é preciso combatê-las diretamente não só procurando rebatê-las com a mortificação,
+mas também desenvolvendo em nós as virtudes contrárias.
+Trata-se, em outros termos, da luta contra o defeito ou paixão
+dominante; luta importantíssima, porque, mirando destruir o mal na sua raiz, vem por si
+eliminar tantas faltas atuais.
 
-As consolações espirituais jamais são fim em si mesmas,
-e nós não devemos nem desejá-las nem procurar retê-las
-para nosso gozo. A alegria, mesmo a espiritual,
-jamais deve ser procurada por si mesma; como no céu a
-
-
-alegria será a necessária consequência da posse de Deus,
-assim nesta terra deve ser unicamente um meio para
-dar-nos com maior generosidade ao serviço de Deus. A Pedro,
-que pede para permanecer no Tabor na doce visão de
-Jesus transfigurado, o próprio Deus responde convidando-o antes a escutar e seguir os ensinamentos do seu
-Filho amado. E muito em breve o Apóstolo ardente saberá que
-seguir Jesus significa levar a cruz e subir o Calvário
-com ele.
-
-Deus não nos consola para nos distrair,
-mas para nos encorajar, para nos tornar fortes e generosos no sofrer por amor dele.
-
-Desaparecida a visão, os Apóstolos levantaram os olhos e
-não viram mais nada "nisi solum Jesum", senão Jesus
-só, e com "Jesus só" desceram do monte. Eis o que
-devemos sempre buscar e o que deve bastar-nos: Jesus
-só, Deus só. Todo o resto - consolações,
-ajudas, amizades até espirituais, compreensão, estima, apoio até
-dos superiores - pode ser bom na medida em que Deus
-nos permite gozá-lo e muitas vezes Ele se serve disso
-justamente para sustentar nossa fraqueza; mas quando,
-através das circunstâncias, a Mão divina nos priva de tudo
-isso, não devemos nem atemorizar-nos nem perder-nos. São
-precisamente estes os casos em que, mais do que nunca, podemos testemunhar a Deus - com os fatos e não com as palavras - que
-Ele é o nosso Tudo e que só Ele nos basta. É esta
-uma das mais belas testemunhas que uma alma amante
-pode render ao seu Deus: ser-lhe fiel, confiar nele,
-perseverar no propósito de uma dedicação total, mesmo
-quando Ele, retirando todos os seus dons, a deixa só, no
-escuro, talvez na incompreensão, na amargura,
-na solidão material e espiritual unida à desolação
-interior. É então o momento de repetir: "Jesus só"
-e descer com ele do Tabor para segui-lo com os
-Apóstolos até o Calvário, onde Ele mesmo agonizará abandonado não só pelos homens, mas também pelo
-Pai.
+Quando depois a alma já não tem de reprovar-se pecados e imperfeições propriamente deliberados, deve dirigir
 
 
+sua atenção para os semideliberados,
+dos quais, embora tendo uma semiconsciência ou consciência confusa, ainda não consegue libertar-se, apesar de sinceros e repetidos propósitos
+de corrigir-se. Nestes casos, além de continuar a combater contra as raízes das próprias faltas, é muito
+útil fortalecer sempre mais o propósito de vencer-se, porque
+à medida em que a vontade está decidida a corrigir-se,
+as faltas que ainda escapam perdem voluntariedade e
+assim se tornam cada vez mais leves, aliás muitas vezes não são
+
+
+senão resíduos puramente naturais de hábitos contraídos,
+mas já detestados.
+
+Outro ponto importante a ter sempre presente no exame de consciência é o de vigiar e manter desperta a tendência para a santidade, o desejo de fazer sempre aquilo
+que mais agrada a Deus, porque esta é a mola da vida
+espiritual, da generosidade. Como também é ótimo método
+examinar-se mais do ponto de vista de Deus do que do
+nosso, isto é, perguntar-se se o Senhor pode estar contente
+conosco e qual será seu juízo sobre nossa conduta.
 
 ### Colóquio
 
-"Eu te amo só a ti, meu Deus, sigo só a ti, busco só a ti,
-estou pronto a seguir só a ti... quero estar à tua disposição somente. Ordena, eu te peço, manda tudo o que
-quiseres, mas cura, abre meus olhos para que eu veja teus
-sinais; cura-me todo para que eu te reconheça.
-Dize-me para que lado devo voltar minha atenção para que
-te veja; e espero saberei fazer tudo o que me mandas..."
-(S. Agostinho).
+"Ó Deus da minha alma, quem sou eu e qual sou eu? Há culpa
+que não tenha estado nas minhas ações ou, se não nas minhas ações, nas minhas palavras, ou, se não nas minhas palavras, na minha
+vontade? Mas Tu, ó Senhor, és bom e misericordiosa é
+tua destra.
 
-Sim, ó Jesus, que eu siga só a ti e te siga não só no
-Tabor, mas sobretudo no Calvário. O Tabor é luz, é
-esplendor que me atrai; eu gostaria, ainda que só por um instante,
-entrever teu Rosto, ó meu Deus! O Calvário é noite, é
-solidão, é dor escura que me assusta; mas nas trevas
-ergue-se uma cruz e sobre aquela cruz eu te contemplo, crucificado por amor. Entrevejo teu Rosto não transfigurado
-pela glória, mas desfigurado pela dor, fruto dos nossos
-pecados!
+"Ó Médico da minha alma, revela-me os frutos da minha
+confissão. Eu me confesso para que a confissão dos meus
+males... desperte meu coração, para que não adormeça; mas embora o diga não me sinto capaz; desperte-se ele no amor da
+tua misericórdia e na doçura da tua graça, pela
+qual todo espírito enfermo se sente forte e se torna consciente de sua fraqueza.
 
-Ó Jesus, destrói em mim o pecado, esse pecado que
-desfigurou teu Rosto, esse pecado que desfigurou
-minha alma, criada à tua imagem e semelhança. Mas para que aconteça essa destruição é necessário que eu participe
-do teu Calvário, da tua Cruz; digna-te, pois, ó Senhor,
-associar à tua Paixão todos os sofrimentos pequenos e
-grandes da minha vida, para que por eles eu seja purificado
-e venha disposto a subir de claridade em claridade, até a
-total transfiguração em ti.
+"Eu te amarei, ó Senhor, e te renderei graças e exaltarei
+teu nome, porque me perdoaste tantas más ações. Foi
+obra da tua graça e da tua misericórdia, se os meus
 
-A luz, a glória do Tabor me encorajam; graças, ó Senhor,
-por me teres concedido, ainda que por breves instantes,
-contemplar teu esplendor, gozar de tuas divinas
-consolações; assim reconfortado e encorajado desço do
-monte para seguir só a ti, até o Calvário.
+
+pecados dissolveste como gelo. Obra da tua graça
+é também todo o mal que não fiz. Que pecado havia
+que eu não soubesse cometer, eu que amei a culpa até gratuitamente? E confesso que todos os pecados me foram perdoados,
+tanto os que espontaneamente cometi, como
+os que, com tua ajuda, não cometi" (S. Agostinho).
+Ó meu Deus, que com um só ato da tua vontade
+criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: "fiat lux", e se fará luz na
+minha alma, e na tua luz poderei ver-me tal como realmente
+sou aos teus olhos. Mas a luz não basta para mim, tão
+fraco e débil; tenho necessidade de força, ó Senhor; tenho necessidade
+de vontade forte e decidida para detestar toda forma de mal,
+para detestar meu egoísmo, meu orgulho, minha acídia, para renovar e fortalecer o propósito de vencer-me
+por amor de ti. Sim, ó Senhor, com tua ajuda quero vencer-me,
+não para a vã satisfação de sentir-me melhor,
+mas unicamente para agradar-te, para evitar a menor
+coisa que te desagrade, para crescer no teu amor, para
+aprofundar-me sempre mais na tua união. Ó meu Deus, Perfeição infinita, envolve e penetra minha alma com o reflexo
+da tua santidade e, como o sol com seu raio ilumina,
+purifica e fecunda a terra, assim Tu ilumina, purifica,
+santifica todo o meu ser. Ensina-me a olhar-me em
+ti, a conhecer-me em ti, a considerar minhas misérias ao
+reflexo das tuas perfeições infinitas, a escancarar a
+minha alma à invasão da tua luz purificadora, santificadora.

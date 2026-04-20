@@ -1,119 +1,25 @@
-## 124 — GESÙ PERSEGUITATO
-*domenica di Passione*
+## 48 — OBBEDIENZA CIECA
 
-### Presenza di Dio
-
-O Gesù, introducimi nel mistero della tua Passione, associami ad essa, affinchè possa poi partecipare alla tua Risurrezione.
+**Presenza di Dio.** — O Gesù, che per amor mio hai voluto sottometterti alle tue creature, insegnami ad obbedire senza voler saper altro.
 
 ### Meditazione
 
-1 — Oggi comincia il «tempo di Passione », tempo
+**1** — Quando nel superiore si vede Dio, si obbedisce senza discussioni, senza inutili ragionamenti, senza indugi: « *Christus jubet, sufficit* », Cristo comanda, questo mi basta. Infatti, che cosa andrò ancora cercando, quando so che gli ordini dei miei superiori sono gli ordini di Dio stesso? Anche se la cosa comandata è per me difficile e gravosa, il sapere con certezza che è proprio il Signore che la vuole da me, mi darà la forza d'intraprenderla con prontezza, senza opporre la minima resistenza.
 
-particolarmente consacrato al ricordo ed all'amorosa contemplazione dei dolori di Gesù. La croce e i quadri velati,
-la sospensione del Gloria nella Messa e nei responsori dell'Ufficio divino, l'assenza del Salmo «Iudica me » all’inizio
-della Messa, sono tutti segni di lutto con cui la Chiesa
-commemora la Passione del Signore. Nelle lezioni dell’Ufficio divino, S. Leone Papa ci esorta a partecipare « alla
-Croce di Cristo, affinchè facciamo anche noi qualche cosa
-che ci unisca a quel che Egli ha fatto per noi, come dice
-l'Apostolo: "se soffriamo con lui, saremo glorificati con
-lui*». Non si tratta quindi solo di meditare i dolori di
-Gesù, ma di prendervi parte, di portare la sua Passione
+Vi possono essere certamente dei casi in cui vi sia un motivo ragionevole per pensare che un dato ordine sia stato imposto senza tener conto di elementi che, se trascurati, potrebbero portare conseguenze penose per il superiore stesso; ed allora è bene, ed anzi può essere doveroso, farlo notare. Così pure non vi è nessuna imperfezione nel chiedere spiegazioni quando l'ordine non ci sembra chiaro o ci mette in serio imbarazzo; ma bisogna farlo con umiltà, senza insistenza e sempre disposti a rimettersi alla decisione del superiore. Per il resto, poi, bisogna essere fermi a non voler ragionare, a non voler discutere sugli ordini ricevuti, a non voler indagare i motivi che possono aver spinto il superiore a dare un determinato ordine. Se ci mettiamo a ragionare sull'obbedienza, ci creeremo degli ostacoli ad obbedire; bisogna quindi saper troncare subito ogni ragionamento, anche interno, di farne un bel sacrificio al Signore. Peggio poi sarebbe comunicare i nostri ragionamenti agli altri, criticare le disposizioni dei superiori, ecc.; in tal modo si creerebbero degli ostacoli anche all'obbedienza altrui.
 
+Se vuoi dare tutta la tua personalità al Signore, devi rinunciare totalmente al tuo modo di vedere che, per quanto possa essere buono, sarà sempre infinitamente inferiore a quello di Dio, e Dio ti fa agire secondo le sue vedute, proprio per mezzo dei suoi superiori.
 
-nel nostro cuore e nel nostro corpo (cfr. II Cor. 4, 10),
-perchè solo così potremo partecipare ai frutti di essa.
-Ecco perchè, nell’ufficiatura del tempo, la Chiesa ripete
-con pia insistenza l'invito: «allorchè sentirete la
-voce del Signore, non vogliate chiudere i vostri cuori ».
-In questi giorni la voce del Signore si fa udire non per
-mezzo di parole, ma mediante l’eloquente testimonianza
-dei fatti, mediante il grande fatto della Passione, che è
-il mistero più convincente del suo infinito amore per
-noi. Apriamo dunque il nostro cuore alle sublimi lezioni
-della Passione: impariamo quanto ci ha amato e quanto
-noi dobbiamo riamarlo; impariamo che anche a noi, se
-vogliamo seguirlo, è necessario patire, è necessario portare la croce con lui e dietro di lui. E nello stesso tempo
-apriamo il cuore alla più viva speranza perchè nella Passione di Gesù è la nostra salvezza. S. Paolo nell’Epistola
-odierna (Ebr. 9, 11-15) ci presenta la figura maestosa
-di Cristo, Sommo Sacerdote che, « mediante il proprio
+**2** — Dire che il superiore ci manifesta la volontà di Dio, non vuol davvero dire che tutto ciò che egli pensa, dice, vuole, lo pensi, lo dica, lo voglia anche Dio. Certamente no. Ma solo che, quando il superiore, in quanto tale, dà un ordine legittimo, quell'ordine è sicuramente la manifestazione della volontà di Dio. L'obbedienza cieca è proprio quella che, oltrepassando ogni giudizio o parere personale, aderisce agli ordini dei superiori, unicamente perché in essi riconosce il volere divino. È *cieca* perché acceca l'intelletto non permettendogli di tener conto del proprio giudizio, di esaminare i motivi del superiore, di discutere sul comando ricevuto; è *cieca* perché si fonda unicamente su un motivo di fede, giacché appunto per fede sappiamo che la volontà di Dio giunge a noi attraverso i superiori. E, siccome la fede è una conoscenza « oscura », si può dire che l'obbedienza è da condizionata e come tale è « priva di luce naturale » e quindi cieca; in altri termini, è un'obbedienza che non si basa sulla ragionevolezza dei motivi umani, ma su quest'unico motivo di fede: chi ascolta i superiori, ascolta Dio. « Chi ascolta voi, ascolta me » *(Lc.* 10, 16).
 
+Nei casi in cui il parere del suddito sia migliore di quello del superiore, l'obbedienza cieca non consiste nel rinnegare il proprio giudizio fino ad affermare il contrario — cosa che non sarebbe conforme alla verità — ma semplicemente nel rinunciare a regolarsi secondo il proprio parere e nel giudicare che bisogna *ugualmente obbedire*, perché è certo che Dio vuole da noi quello che il superiore ha ordinato e non quello che a noi sembra, e forse anche è, migliore.
 
-sangue, è entrato una volta per sempre nel santuario
-
-
-[ossia nel cielo] ottenendoci una redenzione eterna ». La
-Passione di Gesù ci ha redenti, ci ha riaperto la casa
-del Padre; la Passione di Gesù è la ragione della nostra
-speranza.
-
-
-2 — Nel Vangelo odierno (Gv. 8, 46-59) abbiamo un
-tratto delle serrate ostilità dei giudei, chiaro preludio della
-Passione di Gesù. Quei cuori induriti non vogliono in
-nessun modo ammettere la missione del Salvatore e s'industriano in mille maniere di controbattere i suoi insegna-
-
-
-menti, per denigrarlo di fronte al popolo, presentandolo
-
-
-come un mentitore, un indemoniato; infine, il loro livore
-giunge al punto che decidono di lapidarlo: «allora presero delle pietre per scagliarle contro ». La morte di
-Gesù è già decretata dai giudei, ma, non essendo venuta
-l’ora fissata dal Padre, « Gesù si nascose e uscì dal tempio ».
-
-Questo brano evangelico ci permette di considerare
-la condotta di Gesù di fronte ai suoi persecutori: mansue-
-
-tudine, zelo per le loro anime, disinteresse personale e totale abbandono in Dio. S. Gregorio Magno scrive: « Considerate, fratelli carissimi, la. mansuetudine del Signore.
-Egli, che era venuto a rimettere i peccati, diceva: ‘Chi
-di voi mi convincerà di peccato? ‘ Egli, che in virtù della
-sua divinità poteva giustificare i peccatori, non di: a
-di mostrare col ragionamento che non è peccatore » (BR.).
-Seguono le calunnie: «sei un samaritano e hai un
-demonio », Il Maestro divino risponde, ma sempre mansueto e solo; quel tanto che è necessario per testimoniare
-la verità: « lo non ho un demonio, ma onoro il Padre mio
-e voi mi vituperate». Quanto al resto, affida la sua riputazione e la sua causa nelle mani di Dio: «Io però non
-cerco la mia. gloria; v'è chi la cerca e giudica », È tanto,
-attraverso il dibattito, non cessa d’istruirè e di illuminare
-le menti per cercare di strapparle all’errore; sempre noncurante di sè, pensa solo al bene delle anime. Così, proprio
-in questa aspra circostanza, Gesù ci dà preziosi insegnamenti; « Chi è da Dio, ascolta le parole di Dio. Se alcuno
-custodirà la mia parola, non vedrà la morte in eterno ».
-Dalla bocca del Maestro perseguitato raccogliamo questi
-moniti e conserviamoli nel nostro cuore con cura gelosa.
-Ancora oggi il mondo è pieno dei suoi nemici, di chi combatte la sua dottrina, di chi disprezza la sua Passione. Almeno noi crediamo in lui e siamogli amici fedeli.
+Chi, col pretesto del più perfetto, esce dalla via dell'obbedienza, lascia la via sicura della volontà di Dio per la via pericolosa e piena d'insidie della propria volontà; ed è cosa che un'anima consacrata non può fare nulla di grado a Dio fuori della santa obbedienza. « Le azioni del religioso — dice S. Giovanni della Croce — non sono sue, ma dell'obbedienza, e se a questa le sottrae, gliene sarà chiesto conto come di azioni perdute » *(Ct.* 11).
 
 ### Colloquio
 
-« Sia lode a te, Dio misericordiosissimo che, essendo
-noi miseri, sbanditi, prigioni e condannati, hai voluto redimerci ed esaltarci mediante la Passione; il dolore, il dispregio e la povertà del Figlio tuo. Io corro dunque alla
-tua Croce, o Cristo, al dolore, al dispregio ed alla povertà e
-con tutte le mie forze desidero trasformarmi in te, 0 DioUomo passionato, che tanto mi hai amato fino a voler
-patire una vergognosa e orrenda morte, e questo al solo
-fine di salvarmi e di darmi esempio a patire, per amor tuo,
+« O Signore, come son diverse le tue vie dalle nostre grossolane immaginazioni! Come è vero che da un'anima già risoluta ad amarti è tutta rimessa nelle tue mani, Tu non vuoi altro che obbedisca, di null'altro bramosa che di cercare quanto può contribuire alla tua maggior gloria! Siccome la sua volontà è la tua, non ha bisogno di cercare né di scegliersi altra strada, perché questa cura, Signore, la prendi Tu stesso e guidi l'anima pel cammino che le è più vantaggioso. Ma se il superiore non avesse a cuore il nostro profitto spirituale... Tu, o mio Dio, vi provvederesti ugualmente, disponendo in tal modo le anime e le occupazioni nostre da trovarci in seguito, senza saperne la maniera, così avanzati nello spirito e con tanto profitto da rimanercene meravigliati » (T.G. *Fd.* 5, 6).
 
+« Da quante inquietudini non si è mai liberati, buon Dio, pronunziando il voto di obbedienza!... Non avendo per bussola che la volontà dei superiori, sarò mai sicura di procedere sul retto sentiero senza temere di errare, né pur quando ai miei occhi sembra certamente che i superiori s'ingannino. Ma appena cesso di consultare l'infallibile bussola, tosto l'anima mia si smarrisce nei più aridi sentieri, ove presto l'acqua della grazia viene a mancare. O Gesù, l'obbedienza è la bussola che Tu mi hai dato per condurmi con sicurezza alla riva immortale; e quanto mi è dolce posare sopra di essa il mio sguardo e compiere, poi, la tua volontà! » (T.B.G. *St.* 9).
 
-le avversità. È perfezione e vero segno di amòre conformarmi a te, Crocifisso, che per le mie colpe hai voluto
-spietatamente. moriré, dandoti tutto in preda ai tormenti.
-© mio Dio passionato, solo leggendo nel libro della vita
-e morte tua mi sarà dato conoscerti e penetrare il tuo
-mistero. Concedimi dunque un profondo spirito di orazione, un'orazione devota, umile, attenta, fatta non sola-
-
-
-mente con la bocca, ma col cuore e con la mente per poter
-
-
-«comprendere le lezioni della tua Passione!
-
-«In questo libro vedo la tua infinita bontà e pietà
-per cui hai preferito prendere sopra di te la. nostra condanna, il nostro dispregio e dolore, anzichè lasciar noi in
-così miserabile stato. Vedo la tua infinita bontà; diligenza
-e cura che hai avuto nel salvarci e ricondurci alla. patria
-del cielo. Vedo l’infinita sapienza con la quale, in modo
-ineffabile, ci hai redenti, salvati ed esaltati per misericordia, senza fare ingiuria alla giustizia. E così hai saputo
-fare che, mentre penosamente morivi, vivificavi tutte le
-cose e distruggevi la morte comune.
-
-«Di più; nel libro della Croce vedo la tua infinità
-mansuetudine per la quale, essendo Tu maledetto, non
-maledicevi, nè ti vendicavi, anzi perdonavi e acquistavi il
-cielo ai tuoi stessi crocifissori » (cfr. B. Angela da Foligno).
+O Signore, voglio darmi all'obbedienza con una fiducia incrollabile nel tuo governo divino che tutto regge, guida e volge in modo infallibile al bene dell'anima mia. Voglio darmi all'obbedienza senza la minima esitazione; legandomi ad essa mi lego a te, mi lego alla tua volontà.

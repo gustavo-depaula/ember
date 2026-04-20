@@ -1,102 +1,30 @@
-## 189 — FESTA DELLA SS.MA TRINITÀ
-*I Domenica dopo Pentecoste*
+## XX — LA DISCESA DELLO SPIRITO SANTO
 
-### Presenza di Dio
+*Domenica di Pentecoste*
 
-Rendo grazie a te, o Dio, Trinità una e vera, Divinità una e somma, santa ed unica Unità (BR.).
+**Presenza di Dio.** — *Vieni, Spirito Santo, riempi il mio cuore, accendendo in esso il fuoco della tua carità.*
 
 ### Meditazione
 
-1. — Dall'Avvento fino ad oggi la Chiesa ci ha condotto
-a considerare le magnifiche manifestazioni della misericordia di Dio per gli uomini: l’Incarnazione, la Redenzione,
-la Pentecoste; ed ora indirizza i nostri sguardi alla fonte
-di tali doni, alla SS.ma Trinità da cui tutto proviene, sì
-che spontaneo sgorga dal labbro l’inno di riconoscenza
-espresso nell’Introito della Messa: «Sia benedetta la Santa
-Trinità e l’indivisa Unità: noi la canteremo poichè ha
-riversato su di noi la sua misericordia ». Misericordia di
-Dio Padre «che ha talmente amato il mondo da dare per
-esso il suo Unigenito» (cfr. Gv. 3, 16); misericordia di Dio
-Figlio che per la nostra redenzione si è incarnato ed è
-morto in croce; misericordia dello Spirito Santo che si è
+**1** — La Pentecoste è la pienezza del dono di Dio agli uomini. A Natale Dio ci dà il suo Unigenito, Cristo Gesù, il Mediatore, il Ponte che congiunge l'umanità alla Divinità; nella Settimana Santa con la sua Passione Gesù si dà tutto per noi fino alla morte di Croce, ci lava, ci purifica, ci santifica col suo Sangue; a Pasqua Cristo risorge e la sua Risurrezione, come poi la sua Ascensione al Cielo, è pegno della nostra: Egli ci precede nella casa del Padre per prepararci il posto, poiché in Lui e per Lui siamo entrati a far parte della Famiglia divina, siamo diventati figli di Dio, destinati alla beatitudine eterna. Ma il dono di Dio agli uomini non si ferma qui e, salito al cielo, Gesù, insieme col Padre, c'invia lo Spirito, lo Spirito Santo. Il Padre e lo Spirito Santo ci hanno amato fino a darci il Verbo mediante l'Incarnazione; il Padre e il Verbo ci hanno amato fino a darci lo Spirito Santo. È tutta la Trinità che si dona all'uomo, che si china su questo povero nulla per redimenerlo dal peccato, per santificarlo, per introdurlo nella sua intimità. Questa è l'eccessiva carità con cui Dio ci ha amato e il dono divino alle anime nostre culmina appunto sullo Spirito Santo, che è il Dono per eccellenza: «*Donum Dei Altissimi*». Lo Spirito Santo, vincolo e pegno dell'amore scambievole del Padre e del Figlio, che riceve, suggella e corona il loro mutuo donarsi, per i meriti infiniti di Gesù, viene donato alle anime nostre, affinché conduca a compimento l'opera della nostra santificazione. Lo Spirito Santo, che discende sugli Apostoli sotto forma di lingue di fuoco, ci dice come Egli, Spirito di amore, ci viene donato appunto per trasformarci con la sua carità e, così trasformati, ricondurci in Dio.
 
+**2** — Il dono dello Spirito Santo non è un dono passeggero, ma permanente; infatti, per l'anima che vive nella carità, Egli è il dolce Ospite che abita in lei: «Se uno mi ama — dice Gesù, e lo leggiamo nel Vangelo della Messa del giorno — verremo a lui e faremo dimora presso di lui». Tuttavia, questa inabitazione della Trinità, e quindi dello Spirito Santo, nell'anima in grazia è un dono che può e vuole crescere, è una donazione continua. La prima donazione si è realizzata in noi il giorno del nostro battesimo, ed è stata poi rinnovellata, *confermata* in modo specialissimo con la cresima — il sacramento della *Confermazione* che è un po' la Pentecoste di ogni anima cristiana — e quindi, via via, ad ogni aumento di carità, questo dono si rinnova, e lo Spirito Santo, insieme col Padre e col Figlio, si dona all'anima in modo più pieno, più profondo, più invasante. Molto a proposito il Vangelo odierno ci parla della carità che è, nello stesso tempo, e la condizione e la conseguenza dell'inabitazione dello Spirito Santo nelle anime nostre; condizione, perché, secondo la parola di Gesù stesso, le Persone divine fanno dimora solo nell'anima che ama; conseguenza, perché «l'amore divino s'è riversato nei nostri cuori per mezzo dello Spirito Santo
 
+che ci fu dato» *(Rom.* 5, 5). Nel S. Battesimo siamo stati totalmente avvenuti dall'amore divino, ossia, senza alcun nostro merito, ma unicamente per i meriti di Gesù, lo Spirito Santo ci è stato dato ed ha diffuso in noi la carità, in seguito, ogni volta che, corrispondendo agli inviti divini, facciamo atti generosi di carità, Egli rinnova la sua visita invisibile all'anima nostra, diffonde in noi sempre nuova grazia e nuova carità. Così la nostra vita soprannaturale si sviluppa sotto l'azione dello Spirito Santo, tutta presa nella corrente vivificante e trasformante del suo amore. Comprendiamo in tal modo come la Festa di Pentecoste può e deve rappresentare una nuova effusione dello Spirito Santo nell'anima nostra, una sua nuova visita, mediante la quale ci riempia dei suoi doni:
 
-degnato scendere nei nostri cuori per comunicarci la carità
-di Dio, per farci partecipi della vita divina. Ben a proposito, nell'ufficiatura del giorno, la Chiesa ha inserito la
-bella antifona d'ispirazione paolina: «Charitas Pater est,
-gratia Filius, communicatio Spiritus Sanctus, beata Trinitas! » (cfr. II Cor. 13, 13); il Padre è carità, il Figlio è grazia
-e lo Spirito Santo ne è la comunicazione, ossia la carità
-del Padre e la grazia del Figlio ci vengono comunicate dallo
-Spirito Santo che le diffonde nei nostri cuori (cfr.Rom. 5, 5).
-Non si potrebbe meglio sintetizzare la meravigliosa opera
-della Trinità a beneficio delle anime nostre. L'Ufficio divino e la Messa del giorno sono dunque un vero inno di
-lode e di riconoscenza verso la SS.ma Trinità, sono come
-un «Gloria Patri» ed un Te Deum prolungati. E questi
-due inni, l'uno nella sua compendiosa brevità e l’altro nel
-suo maestoso alternarsi di lodi, sono veramente gli inni
-del giorno, destinati a destare nei nostri cuori una profonda
-eco di lode, di ringraziamento, di adorazione.
-
-2. — Ma la festa odierna ci porta a lodare ed a magnificare la SS.ma Trinità non solo per le immense misericordie che ha elargito agli uomini, ma anche e soprattutto in Se stessa e per Se stessa. Per il suo Essere supremo
-che mai ha avuto principio e mai avrà fine; per le sue
-perfezioni infinite, per la sua maestà, bellezza e bontà
-essenziale; per la sublime fecondità di vita per cui inces
-santemente il Padre genera il Verbo e dal Padre e dal
-Verbo procede lo Spirito Santo e tuttavia il Padre non è
-anteriore, nè superiore al Verbo, nè il Padre ed il Verbo
-sono prima dello Spirito Santo od a Lui maggiori, ma
-le Persone divine sono tutte e tre coeterne ed uguali fra
-loro; per la Divinità e tutte le perfezioni ed attributi divini
-che sono unici ed identici nel Padre come nel Figlio e
-nello Spirito Santo. Che cosa può dire e comprendere
-l'uomo di fronte ad un così sublime mistero? Nulla!
-Eppure quel che ne sappiamo è certo, perchè lo stesso
-
-Figlio di Dio el'Unigenito, che è nel seno del Padre,
-ce l'ha fatto conoscere» (Gv. 1, 18), ma il mistero è
-talmente sublime e superiore alla nostra comprensione per
-cui non possiamo che chinare il capo ed adorare in silenzio. «O profondità della ricchezza e sapienza e conoscenza di Dio! come sono imperscrutabili i suoi giudizi e
-impenetrabili le sue vie!» esclama S. Paolo nell'Epistola
-del giorno, lui che, essendo stato rapito «sino al terzo
-cielo», non ha saputo nè potuto dir altro fuorchè di
-aver udito « parole ineffabili che non è lecito ad uomo di
-proferire» (I Cor. 12, 24). Di fronte all'altissimo mistero
-della Trinità si sente realmente che la lode più bella è
-il silenzio, il silenzio dell'anima che adora, riconoscendosi
-incapace di esprimere una lode adeguata alla Maestà divina.
+*Veni, Creator Spiritus — mentes tuorum visita,*
+*imple superna gratia — quae tu creasti pectora*.
 
 ### Colloquio
 
-«O Trinità eterna, Tu sei un mare profondo, nel
-quale quanto più cerco, tanto più trovo, e quanto più
-trovo, tanto più cerco di te. Tu sazi in un modo insaziabile, perchè Tu sazi così l’anima nel tuo abisso, che lei
-rimane sempre famelica; e, affamata di te, o Trinità
-eterna, desidera di vedere il tuo lume nella tua luce.
-Come il cervo desidera la fonte dell'acqua viva, così l'anima
-mia desidera di uscire da questo corpo tenebroso, e vedere
-te in verità come Tu sei.
+«O Spirito Santo, Amore sostanziale del Padre e del Figlio, Amore increato che abiti nelle anime giuste, sopravvieni in me con una nuova Pentecoste portandomi l'abbondanza dei tuoi doni, dei tuoi frutti, della tua grazia e unisciti a me quale Sposo dolcissimo dell'anima mia.
 
-«O abisso! O Deità eterna! O mare profondo! E che
-potevi darmi di più, che darmi te stesso? Tu sei fuoco
-che sempre ardi; Tu consumi e non sei consumato; Tu
-sei che consumi col tuo calore ogni amore proprio dell’anima. Tu sei fuoco, che togli la freddezza, e illumini le
-menti col tuo lume, col quale lume mi hai fatto conoscere
-la tua Verità. Veramente questo lume è un mare che
-nutrisce l’anima, fino a che sia tutta immersa in te, o
-Mare pacifico, Trinità eterna! L'acqua di questo mare non
-è torbida, e perciò non dà timore, ma dà conoscenza della
-Verità. Quest'acqua è trasparente e manifesta le cose
+«Io mi consacro a te totalmente: invadimi, prendimi, possiedimi tutta. Sii luce penetrante che illumini il mio intelletto, mozione soave che attragga e diriga la mia volontà, energia soprannaturale che dia energia al mio corpo. Completa in me la tua opera di santificazione, di amore. Rendimi pura, trasparente, semplice, vera, libera, pacifica, soave, calma, serena anche nel dolore, ardente di carità verso Dio e verso il prossimo.
 
-occulte, onde, dove abbonda l’abbondantissimo lume della
-tua fede, l’anima è quasi fatta certa di quello che crede.
+«'*Accendat in nobis ignem sui amoris et flammam aeternae caritatis*' (M.R.), accendi in me il fuoco del tuo amore e la fiamma dell'eterna carità. Moltiplica in me quei santi trasporti d'amore che mi portino presto all'unione trasformante.
 
-«Tu sei il sommo e infinito Bene: bene sopra ogni
-bene, bene felice, bene incomprensibile, bene inéstimabile; Bellezza sopra ogni bellezza, Sapienza sopra ogni
-sapienza, perchè Tu sei la sapienza stessa. Tu, cibo degli
-Angeli, ti sei dato con fuoco d'amore agli uomini; Tu,
-vestimento che ricopre la mia nudità, pàsci noi, affamati,
-con la tua dolcezza, perchè sei tutto dolce senza nulla di
-amaro. Rivestimi, o Trinità eterna, rivestimi di te stessa, perchè io passi questa vita mortale nella vera obbedienza e nel
-lume della fede santissima di cui hai inebriata l'anima
-mia» (S. Caterina da Siena).
+«Sottometti completamente alla Volontà divina non solo la mia volontà, ma tutte le mie potenze e i miei sensi, cosicché io non sia più dominata in nulla dal mio amor proprio, ma solo dal tuo impulso divino e tutto si muova per amore, nell'amore, in modo tale che nell'operare faccia ogni cosa per amore, nel patire sopporti tutto con gusto di amore. Fa' che il soprannaturale diventi l'atmosfera 'naturale' per l'anima mia.
+
+«Rendimi docile, docile, pronta a seguire le tue ispirazioni. Ch'io non me le lasci cadere neppur una invano, e ti sia sempre una piccola sposa fedele. Rendimi sempre più raccolta, più silenziosa, più sottomessa alla tua azione divina, più atta a ricevere i tuoi tocchi delicati. Attraimi nell'intimo del mio cuore dove risiedi, o dolce Ospite divino, e insegnami a 'vegliare continuamente in orazione'.
+
+«Vieni, o Spirito vivificante, su questa povera società e rinnova la faccia della terra, presiedila ai nuovi ordinamenti, donaci la tua pace, quella pace che il mondo non può dare. Assisti la tua Chiesa, donale santi sacerdoti, fervorosi apostoli. Procura soavi inviti alle anime buone, dolce tormento alle anime peccatrici, consolante refrigerio alle anime sofferenti, forza e aiuto a quelle tentate, luce a quelle che sono nelle tenebre e nell'ombra di morte» (Sr. Carmela d. Spirito S. c. s.).

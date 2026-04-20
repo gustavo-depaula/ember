@@ -1,119 +1,21 @@
-## 125 — IL VALORE DELLA SOFFERENZA
+## 49 — DIFFICOLTÀ DELL'OBBEDIENZA
 
-### Presenza di Dio
-
-O Gesù crocifisso, insegnami la scienza della croce, insegnami il valore della sofferenza.
+**Presenza di Dio.** — Insegnami, o Gesù, il segreto dell'obbedienza umile che si sottomette a qualsiasi superiore ed a qualsiasi comando.
 
 ### Meditazione
 
-1 — La Passione di Gesù c’insegna in modo concreto
-che nella vita cristiana bisogna essere capaci di abbracciare
-il dolore per amore di Dio. Questa lezione è dura e ripugnante alla nostra natura tanto inclinata al godimento,
+**1** — Benché l'obbedienza sia così preziosa da mettere tutta la vita nella volontà di Dio, tuttavia presenta anch'essa le sue difficoltà, le quali derivano in gran parte dal fatto che l'obbedienza stessa non ci viene immediatamente da Dio, bensì attraverso i suoi rappresentanti. Accade così che troppo spesso ci dimentichiamo di vedere Dio nei superiori e di riconoscere nella loro la sua autorità. Quando, ad esempio — cosa che accade facilmente nella vita religiosa — ci si trova ad avere come superiore un antico collega o forse anche un antico discepolo, più giovane e meno sperimentato di noi, di cui si conoscono molto bene le lacune e i difetti, si può esser tentati a non aver abbastanza stima della sua autorità, a non dare abbastanza valore ai suoi ordini. Allora la vita di obbedienza diventa particolarmente difficile, si stenta a sottomettersi, non si ricorre al superiore con fiducia filiale e, quel che è peggio, si crede di avere ragione. Vi è invece un grosso sbaglio di prospettiva; si è dimenticato che il superiore, chiunque sia, riveste sempre un'autorità che viene da Dio e che si è posata su di lui unicamente perché è stato chiamato a tale ufficio. Quest'autorità è invariabile ed ha lo stesso valore sia nel superiore anziano che in quello giovane, tanto in quello sperimentato e virtuoso come in chi lo è meno. In fondo, se ci troviamo in queste difficoltà, dobbiamo accusare la nostra mancanza di spirito soprannaturale, di spirito di fede. Giudichiamo le cose spirituali secondo le vedute naturali, dal punto di vista dei valori umani ed in tal modo ci è impossibile entrare bene nella vita di obbedienza, che è invece tutta basata su valori e motivi soprannaturali. Bisogna saper evadere dalle considerazioni umane sulla persona del superiore, dal pensiero delle sue qualità o dei suoi difetti, di quel che è stato in passato, ecc., per vedere in lui unicamente il rappresentante di Dio, l'autorità divina. È vero, ciò talvolta può richiedere lotta e sforzo veramente grandi e che tuttavia è assolutamente necessario intraprendere se non si vuol perdere il frutto della vita di obbedienza. È certo che quanto più ci sforzeremo di considerare nei superiori l'autorità che viene da Dio, tanto più la nostra obbedienza sarà perfetta e meritoria, e Dio stesso s'incaricherà di guidarci attraverso il loro governo.
 
+**2** — Molte volte, per non dire sempre, alla mancanza di spirito soprannaturale si accoppia la mancanza di umiltà. Costa all'amor proprio dipendere e sottomettersi; costa sottoporre le proprie cose al giudizio e al governo di un'altra persona e rimettersi alle sue decisioni. Costa soprattutto quando il superiore può apparirci, almeno sotto certi aspetti, quasi inferiore a noi, inferiore per età, per cultura, per esperienza, per capacità; ed ecco che l'io, punto nel suo orgoglio, recalcitra fortemente, mascherando la propria resistenza con mille scuse. Eppure anche qui vi è un grosso sbaglio, perché, ammettendo pure che in realtà vi possano essere nel superiore alcune di queste inferiorità, non su di esse dobbiamo fermarci, ma solo sul fatto che il superiore è sempre tale nei nostri confronti perché così Dio l'ha costituito. Superiore perché Dio l'ha preposto al nostro governo, superiore perché Dio gli ha dato la missione di dirigerci in suo luogo; le sue qualità o deficienze personali non incidono sulla superiorità che Dio gli ha conferita. Certamente il superiore, da parte sua, deve studiarsi di acquisire, qualora non le possedesse, le virtù e le capacità necessarie all'esercizio dell'ufficio che ricopre, ma questo è affare suo; da parte nostra — da parte dei sudditi cioè — c'è da fare una cosa sola: sottomettersi con umiltà filiale, lasciarsi guidare, lasciarsi governare. È proprio questione di umiltà, perché in fondo umiliarsi vuol dire abbassarsi, vuol dire mettersi al proprio posto e il posto del suddito di fronte ai superiori è sempre quello di un'umile dipendenza. Consideriamo l'obbedienza di Gesù e vedremo in essa questo atteggiamento di umiltà portato al massimo: pur essendo Dio, « annichilì se stesso, assumendo la natura di schiavo e facendosi simile all'uomo; ... umiliò se stesso, fattosi obbediente sino alla morte, e alla morte di croce » *(Fil.* 2, 7 e 8). Che cos'è il nostro abbassarci, che cos'è il nostro sottometterci e dipendere dai superiori in confronto ai profondi abbassamenti di Gesù che, essendo Dio, ha voluto farsi uomo, ha voluto vivere come un uomo qualsiasi, sottomettendosi alle sue stesse creature?
 
-alla gioia; eppure questa lezione viene da Gesù, Maestro
-di verità e di vita, Pastore amantissimo delle anime nostre,
-che vuole solo il nostro vero bene. Se, dunque, Egli c'insegna a soffrire, vuol dire che nella sofferenza è racchiuso
-un grande tesoro. i
-in sè la sofferenza è un male e non può essere amabile;
-se Gesù ha voluto abbracciarla con tanta pienezza, e se la
-propone a noi invitandoci a stimarla ed amarla, è unicamente in vista di un bene superiore raggiungibile soltanto
-per mezzo di essa, il bene sublime della redenzione e santificazione delle anime nostre. .
-
-Benchè l’uomo, essendo un essere composto, sia per sua
-natura soggetto al dolore, Dio, mediante i doni preternaturali, aveva voluto che i nostri progenitori ne fossero esenti.
-Ma col peccato tali doni andarono per sempre perduti, e
-così la sofferenza è entrata in modo inevitabile nella nostra
-vita. L'immane somma di dolori che travaglia l'umanità è la
-conseguenza del disordine prodotto dal peccato, e non solo
-dal peccato originale, ma anche dai peccati attuali. Eppure,
-la Chiesa canta: «felix culpa»! Perchè? Perchè l’amore
-infinito di Dio tutto trasforma e sa trarre dal duplice male
-del peccato e della sofferenza il grande bene della redenzione del genere umano. Gesù, prendendo su di sè i peccati
-degli uomini, ne ha preso anche le conseguenze, ossia il
-dolore e questo dolore, da lui abbracciato durante tutta la
-sua vita e specialmente nella sua Passione, è diventato il
-mezzo della nostra redenzione. Il dolore, conseguenza del
-peccato, diventa in Gesù e con Gesù, mezzo per distruggere il peccato stesso. Ecco perchè il cristiano non può
-considerare la sofferenza solo come peso indesiderabile cui
-deve necessariamente sottostare, ma — e molto più —
-come mezzo di redenzione e di santificazione,
-
-
-2 — La sofferenza è un sentimento sgradevole che
-proviamo di fronte ad una cosa — situazione, circostanza,
-ecc. — che non corrisponde alle nostre tendenze, esigenze,
-aspirazioni, che non si armonizza con esse, che non le asse-
-
-
-conda, ma anzi le contraria e vi pone ostacolo, Tutti gli
-uomini sono soggetti alla sofferenza, ma solo il cristiano
-possiede il segreto di farla entrare nella sua vita, senza che
-ne distrugga l'armonia e la felicità possibili su questa terra.
-E tale segreto consiste proprio nel saper armonizzare ogni
-genere di sofferenza con le proprie aspirazioni, le quali, Fri
-un cristiano, non possono mai limitarsi a un ideale di felicità terrena. Questa armonizzazione è possibile, perchè
-quello che è contrarietà e inconveniente da un punto di
-Vista, spesso è assai conveniente da un altro: come, per
-esempio, la sofferenza fisica — fame, freddo, malattia, ecc.
-che, pur essendo inconveniente per il corpo, può essere assai
-utile per il raggiungimento di un bene morale o soprannaturale, qual’è l'acquisto della virtù, il progresso nella santità, ecc. Se dal punto di vista puramente umano, certe
-sofferenze sono dei tutto inopportune ed inutilizzabili, non
-lo sono mai dal punto di vista soprannaturale. « Tutto coopera a bene per chi ama Dio » (Rom. 8, 28), e anche le più
-grandi calamità private o sociali possono diventare un prezioso ed efficacissimo mezzo di elevazione. Qualsiasi sofferenza può, quindi, essere armonizzata con gli ideali supremi del cristiano: la salute eterna, la santità, la gloria di
-Dio, il bene delle anime. Ma ciò non è possibile senza l’amore, anzi sarà possibile solo in proporzione dell'amore.
-Solo l’amore di Gesù ha potuto trasformare la croce, orribile strumento di tortura, in strumento efficacissimo per Ja
-gloria di Dio e la salvezza dell'umanità. Così sarà anche per
-noi: la carità, l’amore a Dio e alle anime ci renderanno
-capaci di abbracciare qualsiasi dolore, armonizzandolo con
-le nostre più alte aspirazioni. In tal modo la sofferenza
-trova un posto — e un posto molto importante — nella
-nostra vita, senza tuttavia distruggere l'armonia e la serenità, senza opprimere lo spirito, ma anzi dilatandolo in
-un respiro sempre più ampio, in un amore sempre più
-
-‘ande. Proprio così, anche soffrendo, si può essere felici. Ecco come Gesù ha trasformato il dolore, ecco il
-valore che la sua Passione gli ha conferito.
+Persuadiamoci che, se la nostra obbedienza è difettosa, quasi sempre ciò dipende da mancanza di umiltà.
 
 ### Colloquio
 
-«O Signore, ti costa abbeverarci di amarezza; ma Tu
-sai che questo è l’unico mezzo per disporci a conoscerti
-come Tu conosci te stesso, per disporci a divenire simili a te.
+« Mio dolce Salvatore, potrò vederti obbediente, per amor mio, alle tue creature, e ricusare d'esserlo io, per amor tuo, a coloro che ti rappresentano? Potrò vederti obbediente per amor mio fino alla morte, alla morte di croce, senza abbracciare amorosamente questa virtù e la croce in cui Tu la consumasti?
 
-«Sai bene, o Signore, che se Tu mi dessì soltanto
-un’ombra di gioia, mi ci attaccherei con tutta l'energia,
-con tutta la forza del cuore; e quest'ombra me la rifiuti...
-perchè vuoi che il mio cuore sia tutto per te.
+« Voglio sforzarmi, quanto più posso, per imitare i tuoi esempi, obbedendo per amor tuo ad ogni creatura o superiore o uguale o inferiore che sia, in tutte le cose, senza replica, mormorazione o ritardo, ma allegramente ed amorosamente. Perciò non voglio indagare per qual motivo mi venga ordinata questa o quella cosa, molto meno voglio considerare il modo in cui mi viene comandata o la persona che me la comanda, ma nel comando voglio considerare solo la tua volontà, lasciandomi, a tua imitazione, muovere in qualunque direzione, da qualsiasi persona, in cose piacevoli o penose, convenienti o disdicevoli. Non importa! Faccia di me l'obbedienza ciò che vuole.
 
-«La vita passa così presto che veramente è meglio
-avere una bellissima corona in cielo e un po’ di sofferenza
+« O Gesù, che a prezzo della tua vita hai voluto riparare la disobbedienza di Adamo e la mia; o Gesù, che mediante la tua morte mi hai acquistato la grazia di saper obbedire, io non voglio più vita se non per sacrificarla a te mediante una continua e perfetta obbedienza » (S. Francesco di Sales).
 
-quaggiù, che avere una corona ordinaria senza soffrire.
-
-Quando penso che per una sofferenza sopportata con gioia
-ti amerò di più per tutta l'eternità, comprendo bene che
-se Tu mi donassì l'universo intero con tutti i suoi tesori,
-ciò non sarebbe da paragonarsi alia più leggera sofferenza.
-Ogni nuova sofferenza, ogni angoscia del cuore è come un
-leggero zeffiro che ti porta, 0 sesù, il profumo dell'anima
-che ti ama; allora Tu sorridi con amore e subito prepari
-una nuova amarezza, riempi il calice sino all'orlo, pensando
-che quanto più l’anima cresce nell'amore, tanto più deve
-crescere nella sofferenza.
-
-«Quale privilegio mi accordi dandomi da soffrire! Ah,
-l'eternità non sarà troppo lunga per ringraziarti, Perchè
-tanta predilezione? È un segreto che Tu ci rivelerai nella
-Patria, il giorno in cui asciugherai tutte le nostre lacrime,
-
-«Sei Tu, o Signore, che vieni a chiedermi in elemosina
-questa tristezza, questa prova... ne hai bisogno per le
-anime, per la mia anima. O Gesù, da quando mi hai fatto
-comprendere che mi avresti dato delle anime mediante la
-croce, quanto maggiori sono le croci che incontro, tanto
-più si fa viva in me la brama di patire.
-
-«Sono felice di non essere liberata dalle sofferenze di
-quaggiù; il dolore unito all'amore è la sola cosa che mi
-sembra desiderabile in questa valle di lacrime » (T.B.G.
-Lt. 32, 50, 23, 40, 58, 224; St. 7).
+« O Signore, Tu vuoi, è vero, infondere l'obbedienza nei nostri cuori, ma ciò che l'impedisce è il non voler riconoscere che Tu parli ed operi nei superiori; ed è ancora l'essere attaccati alla propria volontà » (S. M. Maddalena de' Pazzi).

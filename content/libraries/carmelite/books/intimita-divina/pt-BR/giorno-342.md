@@ -1,68 +1,29 @@
-## 342 — DESÍGNIOS DE PAZ E DE AMOR
-*XXIII domingo depois de Pentecostes*
+## 20 — O PERDÃO
 
-### Presença de Deus
+*XXI Domingo depois de Pentecostes*
 
-Ó Senhor, cumpre em mim teus desígnios de paz e de amor, fazendo-me ressurgir para uma vida plenamente fervorosa.
+**Presença de Deus.** — *Ó Senhor, ensina-me a perdoar com generosidade e sê largo no teu perdão para comigo.*
 
 ### Meditação
 
-Mesmo quando buscamos sinceramente a santidade, encontramo-nos sempre cheios de misérias, sempre em dívida com Deus e, com razão, ao aproximar-nos d’Ele, nossa alma treme: como nos acolherá? não nos rejeitará?
+**1** — "O reino dos céus é semelhante a um rei que quis ajustar contas com os seus servos." O Evangelho de hoje *(Mt.* 18, 23-35) alude à prestação de contas que todos, um dia, seremos chamados a dar; pensamento grave que nos leva a refletir, como já no domingo passado, sobre o estado da nossa consciência. Contudo, prosseguindo a leitura da parábola, o coração se conforta: Deus, figurado na pessoa do rei, mostra-se tão bom, tão misericordioso e compassivo para com o pobre servo que não pode pagar sua dívida: perdoa-lhe tudo e o deixa em liberdade.
 
-Mas a resposta é tão diferente da que mereceríamos: «Meus pensamentos sobre vós, diz o Senhor, são pensamentos de paz e não de aflição. Vós me invocareis, e eu vos atenderei. Eu vos reconduzirei do lugar de vossa escravidão.»
+A dívida daquele servo não era pouca coisa: dez mil talentos; mas as nossas dívidas para com Deus são muito maiores; não se calculam em dinheiro, nem em prata, nem em ouro, mas devem ser calculadas segundo o preço do nosso resgate, o preciosíssimo Sangue de Jesus. Nossas dívidas são os nossos pecados, que precisaram ser lavados pelo Sangue de um Deus. Dívidas que, de forma mais ou menos leve e apesar da boa vontade, aumentamos todos os dias, nem que seja por quedas de fragilidade e fraqueza. Quem, ao fim do dia, pode dizer que não contraiu novas dívidas com Deus? Se, no fim da vida, Deus nos colocasse diante da conta exata do nosso *deficit*, encontrar-nos-íamos numa posição bem mais embaraçosa que a do servo da parábola. Mas Deus é bondade infinita; Ele conhece e compadece-se da nossa miséria e, todas as vezes que nos apresentamos humilhados diante dele, reconhecendo as nossas culpas, logo nos perdoa e nos absolve de toda dívida. Deus é magnífico no seu perdão: não nos lança em rosto as culpas já choradas, nem guarda mais conta delas; seu perdão é tão grande, tão pleno, que não só anula as dívidas, mas destrói também a sua lembrança, como se nunca tivessem existido. Basta-lhe ver-nos arrependidos, e toda chaga, mesmo a mais gangrenosa e repelente, é curada e destruída pelo preciosíssimo Sangue de Jesus. O Sangue de Cristo é como um mar infinito que tem poder de lavar e destruir os pecados de toda a humanidade, contanto que sinceramente detestados; todos os dias, a todo momento, podemos tomar o fardo, mais ou menos pesado, das nossas culpas e infidelidades e fazê-lo desaparecer nesse oceano de graça e de amor, certos de que não restará dele nenhum vestígio.
 
-Essas palavras consoladoras, que hoje lemos no Intróito da Missa, escancaram nosso coração às mais doces esperanças: apesar de tudo, Deus nos ama; Deus é sempre Pai para nós e quer libertar-nos da escravidão de nossas paixões e fraquezas.
+**2** — A segunda parte da parábola fala do nosso perdão. Voltando para casa, aquele servo afortunado, que havia sido solto de toda dívida, encontra um companheiro que lhe devia cem denários, soma realmente ínfima em comparação com os dez mil talentos que lhe haviam sido perdoados; mas ele, que fora tratado com tanta piedade, não demonstra nenhuma para com o semelhante, não escuta súplicas nem lágrimas, antes "vai e manda lançar na prisão [o seu companheiro] até que pague a dívida".
 
-Sobe então espontaneamente aos lábios a humilde invocação da Coleta: «Ó Senhor, tua benignidade nos livre das cadeias do pecado que por nossa fragilidade contraímos.»
+Enquanto pouco antes nos comovíamos com a bondade do senhor, agora nos indignamos com a crueldade do servo. E, no entanto, embora corando, devemos reconhecer que, como a bondade do senhor é imagem da misericórdia de Deus, sempre pronto ao perdão, assim a crueldade do servo é imagem da nossa dureza, da nossa avareza em perdoar o próximo. Infelizmente é justamente assim: nós, que precisamos do perdão de Deus mais ainda que do pão de cada dia, somos tão duros, tão exigentes para com os outros, tão difíceis à indulgência e ao perdão. Que são as dívidas que o próximo pode ter para conosco, em comparação com as que nós temos para com Deus? Certamente infinitamente menos que poucos denários em comparação com dez mil talentos, porque se trata de uma ofensa feita a uma criatura miserável em comparação com a ofensa feita à infinita majestade de Deus. Mas eis o contraste: Deus perdoa, esquece, anula inteiramente as nossas graves dívidas, e não cessa de amar-nos e beneficiar-nos apesar das nossas contínuas infidelidades; nós, ao contrário, só com grande custo conseguimos perdoar algum pequeno agravo e, mesmo perdoando, não sabemos esquecer inteiramente, de modo que, surgindo ocasião, estamos prontos para o reprovar. E que seria se o próximo cometesse todos os dias contra nós tantas infidelidades e delicadezas faltosas quantas são as que nós cometemos contra Deus? Oh, quão miserável e estreito é o nosso perdão!
 
-A humildade, o reconhecimento sincero das próprias faltas, é sempre o ponto de partida para a conversão.
-
-Da conversão nos fala São Paulo na Epístola (Fl 3,17-21; 4,1-3): «Muitos procedem como inimigos da cruz de Cristo... e só pensam nas coisas terrenas.»
-
-Praticamente, todas as vezes que fugimos do sacrifício, protestamos diante da dor, buscamos satisfações egoístas, comportamo-nos como inimigos da cruz de Jesus, e assim nossa vida se torna demasiado terrestre, demasiado ligada às criaturas, demasiado pesada para tender ao céu.
-
-Precisamos converter-nos, desvincular-nos, lembrar que «nossa cidadania está nos céus» e, por isso, é necessário abraçar de boa vontade as fadigas da viagem de retorno à pátria bem-aventurada.
-
-Para animar-nos, São Paulo põe diante de nós os esplendores da vida eterna: «Jesus Cristo transformará o corpo da nossa miséria, tornando-o conforme ao corpo da sua glória.»
-
-Eis os «desígnios de paz», eis os grandes desígnios de amor que o Pai celeste tem sobre nós: libertar-nos da escravidão do pecado e conformar-nos ao seu Filho, até tornar-nos participantes de sua gloriosa ressurreição.
-
-Desígnios maravilhosos, mas que não se realizarão se não os acompanharmos. «Portanto, meus irmãos caríssimos e desejadíssimos, minha alegria e minha coroa — suplica o Apóstolo — permanecei firmes no Senhor.»
-
-Firmes, isto é, estáveis na conversão; firmes na humildade, na confiança e no amor à cruz.
-
-2 — O milagre evangélico é exemplo vivo da transformação que Deus quer realizar em nós e do modo como Ele concretiza seus desígnios de paz naqueles que vão a Ele com coração humilde e confiante.
-
-Primeiro, a hemorroíssa: seu mal é tenaz, há doze anos resiste a qualquer remédio. Humilhada e envergonhada, não ousa, como os outros doentes, apresentar-se diretamente a Jesus.
-
-Por outro lado, sua fé é tão grande que pensa: «Se eu conseguir tocar sequer sua veste, serei curada.» Aproxima-se furtivamente e toca a orla do manto; Jesus percebe aquele toque leve e, voltando-se, diz: «Tem ânimo, filha, tua fé te curou.»
-
-Nenhum pedido, nenhuma súplica externa; o que comove o Senhor é a oração daquele coração humilde, confiante, cheio de fé.
-
-Como Jesus curou a hemorroíssa, assim quer curar nossas almas; mas espera disposições semelhantes às dela.
-
-Nós nos contentamos demais com orações de lábios, enquanto o coração está frio e ausente; Jesus, ao contrário, olha o coração e quer a oração do coração: clamor de humildade, de confiança, clamor que vai direto ferir seu Coração divino.
-
-Aliás, como somos mais felizes do que a hemorroíssa! Ela conseguiu tocar uma só vez a orla da veste de Jesus, enquanto nossa alma, todos os dias, pela Santa Comunhão, entra em contato com seu Corpo e seu Sangue.
-
-Oh, se tivéssemos fé quanto um grão de mostarda!
-
-Segue-se o segundo milagre. A filha já não está doente, está morta; mas para Jesus não é mais difícil ressuscitar um morto do que curar um doente.
-
-Ele, verdadeiro Senhor da vida e da morte, «tomou a menina pela mão e ela se levantou». Jesus é nossa ressurreição, não só para a vida eterna, quando a um seu aceno nosso corpo ressuscitará glorioso e se reunirá à alma, mas é nossa ressurreição também nesta vida: ressurreição da morte do pecado para a vida da graça, de uma vida tíbia para uma vida fervorosa, de uma vida fervorosa para uma vida santa.
-
-Com a humildade e confiança da hemorroíssa, aproximemo-nos de Jesus e peçamos de coração que cumpra em nós seus desígnios de amor, arrancando-nos da cinzenta mediocridade de uma vida espiritual ainda presa pelos laços do egoísmo, para lançar-nos decididamente rumo à santidade.
+A parábola refere o castigo que o senhor infligiu ao servo cruel: "indignado, entregou-o aos verdugos até que pagasse toda a dívida"; em seguida vem a conclusão: "Assim fará convosco o meu Pai celeste, se cada um de vós não perdoar de coração ao seu irmão". Se queremos que Deus seja largo conosco no seu perdão, devemos ser largos com o nosso para com o próximo; na medida em que perdoarmos, seremos perdoados. É o mesmo que dizer que nós mesmos damos a Deus a medida exata da misericórdia que ele deve usar para conosco.
 
 ### Colóquio
 
-«Ó Senhor, como recompensamos mal tua amizade, quando tão depressa voltamos a ser teus inimigos mortais! Ah, verdadeiramente grande é tua misericórdia! Pode-se encontrar amigo mais paciente do que tu?
+"Quem há, ó Senhor, que não seja devedor para contigo? Quem há que não tenha algum irmão por devedor? Por isso, na tua justiça, estabeleceste que a tua regra de conduta para comigo, teu devedor, fosse a mesma por mim seguida com quem é devedor para comigo. Portanto, já que também eu pequei - e quanto! - devo ser indulgente com quem me pede perdão. Chegará, de fato, o momento da oração, e então terei de dizer-te: 'Perdoa-me, ó Senhor, as minhas dívidas'. E como? A condição é posta por mim, eu mesmo fixo a lei: 'perdoa como eu perdôo'.
 
-«Se isso acontecesse uma só vez entre dois amigos, não o esqueceriam tão facilmente, nem sua amizade ficaria tão estreita como antes. E, no entanto, quantas vezes faltamos para contigo! E há tantos anos Tu continuas a esperar-nos! Sê bendito, meu Senhor e meu Deus, que nos suportas com tanta compaixão que parece esqueceres tua grandeza para não castigar uma traição tão negra como merecemos» (Santa Teresa de Jesus).
+"Duas breves sentenças, ó Senhor, registraste no Evangelho: 'perdoai e vos será dado'. Eis a minha oração: eu peço perdão a ti do meu pecar, e Tu queres que haja alguém a quem eu perdoe.
 
-«Ó Jesus, Tu és minha paz, porque por meio de ti tenho acesso ao Pai, porque aprouve ao Pai pacificar pelo Sangue da tua Cruz todas as coisas, tanto na terra quanto no céu.
+"Assim como o pobre mendiga de mim, assim eu sou o teu pobrezinho, que estou à porta do pai de família; antes, prosto-me ali, suplicando com gemidos, no desejo de receber alguma coisa - e essa alguma coisa és Tu. O pobre pede-me pão, e eu que te peço, senão a ti mesmo, que disseste: 'Eu sou o pão vivo descido do céu'?
 
-«Eis tua obra em toda alma de boa vontade; eis o trabalho que teu imenso amor, teu excessivo amor, te impele a realizar em mim. Tu queres ser minha paz.
+"Para obter perdão, perdoarei; remirei aos outros, e ser-me-á remido; querendo receber, darei, e ser-me-á dado.
 
-«Com o Sangue da tua Cruz pacificarás tudo no pequeno céu da minha alma. Tu me encherás de ti, me sepultarás em ti, me farás reviver contigo tua própria vida.
-
-«Ó Jesus, se caio a cada instante, deixar-me-ei levantar por ti com uma fé toda confiante. E sei que me perdoarás, que apagarás tudo com cuidado zeloso; mais ainda: despojar-me-ás, libertar-me-ás de toda minha miséria, de tudo quanto impede a ação divina; prenderás todas as minhas potências e as farás tuas prisioneiras. Então terei passado toda para ti. Então poderei dizer: “Já não sou eu que vivo; meu Mestre vive em mim.”»
+"É coisa árdua para mim perdoar quem me ofende? Recorrerei à oração. Em vez de revidar injúrias com injúrias, rezarei pelo injuriador. Quando me vier vontade de responder-lhe asperamente, falarei a ti, Senhor, em favor dele. E depois recordarei que Tu prometes a vida eterna, mas mandas perdoar ao irmão. É como se me dissesses: 'Tu, que és homem, perdoa a outro homem, para que eu, que sou Deus, possa vir a ti'" (Santo Agostinho).

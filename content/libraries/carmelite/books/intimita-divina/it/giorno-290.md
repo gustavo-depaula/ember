@@ -1,109 +1,21 @@
-## 290 — LE CARATTERISTICHE DELL'ANIMA CRISTIANA
-*XVI Domenica dupo Pentecoste*
+## XXIX — LA SINCERITÀ
 
-### Presenza di Dio
-
-Fa’, o Signore, che l’anima mia sia ben radicata nella carità e nell’umiltà.
+**Presenza di Dio.** — Dammi, o Signore, un cuore schietto e sincero, amante della verità, che cerca e vuole la verità ad ogni costo.
 
 ### Meditazione
 
-1. — L'Epistola che leggiamo nella Messa odierna è uno
-dei brani più belli delle lettere di S. Paolo. In essa troviamo il famoso augurio dell’Apostolo agli Efesini, che in tre
-battute riassume tutta la sostanza della vita interiore.
+**1** — «Signore — interroga il salmista — chi sarà ospitato nel tuo padiglione? Chi avrà dimora sul tuo santo monte?». E risponde: «Chi tiene condotta integra e pratica la giustizia, e dice schietto ciò che ha in cuore» *(Sal.* 14, 1-2). Dio è verità e nessuno può essere ammesso alla sua intimità, se non cerca il più possibile di vivere nella verità, di essere verace in tutta la sua condotta. Anzitutto dobbiamo cercare la verità nell'intimo del cuore per poterci conoscere quali siamo veramente, quali siamo al cospetto di Dio, spogli di ogni maschera, di ogni sovrastruttura. Dobbiamo perciò accettare non solo le verità che ci piacciono, ma anche quelle che ci dispiacciono, che colpiscono al vivo il nostro amor proprio, scoprendo i nostri difetti, le nostre cattive tendenze. L'anima sincera non chiude mai gli occhi davanti a queste verità, ma, benché siano per lei umilianti, le apprezza ben sapendo che vale assai più l'umiliazione, che mette nel vero, dell'illusione la quale, lusingando l'orgoglio, trattiene nel falso. Proprio per metterci nel vero, per farci conoscere quello che in realtà siamo, Dio permette talvolta circostanze difficili in cui l'esercizio della virtù diventa particolarmente duro e faticoso; sotto l'urto delle contrarietà l'anima vede sorgere in lei movimenti d'impazienza, di collera, di ribellione, di egoismo prima sconosciuti e dai quali forse s'illudeva di essere affrancata. In simili casi, anziché volgere altrove lo sguardo, bisogna avere il coraggio di riconoscere e di confessare con umile schiettezza tutte le proprie miserie. S. Giovanni della Croce parla di certe anime pie che nelle loro confessioni «coloriscono abilmente i loro peccati, a fine di non apparire tanto cattive e di non perdere la stima del confessore; il che è un andare piuttosto a scusarsi che ad accusarsi» (cfr. *N.* I, 2, 4). L'anima amante della verità è ben lontana dall'agire così e nelle sue confessioni, se deve accusarsi solo di venialità ed imperfezioni, espone tutto con grande sincerità, senza fronzoli, senza artificiose diminuizioni, non attribuendo mai alle circostanze, ma unicamente a se stessa, tutto ciò che di difettoso trova nel suo interno. Ed è questa schiettezza nel confessare le sue debolezze è il primo passo per liberarsene.
 
-«Il Padre del Signore nostro Gesù Cristo... dia a voi...
-di essere, per mezzo dello Spirito di lui, fortemente corrobo-
+**2** — Se un'anima è poco sincera nella sua vita interiore, nei suoi rapporti con Dio, non potrà però mai ingannare Dio e la sua insincerità ridonderà unicamente a suo danno. Ma riguardo al prossimo non è così: la mancanza di sincerità può facilmente recargli danno, se non altro, lo può ingannare; quindi non solo la carità, ma anche la giustizia esige che nei rapporti col prossimo si usi la massima sincerità. «Rigettando ogni menzogna — esorta S. Paolo — dite la verità ciascuno al proprio vicino perché siamo come membri gli uni degli altri» *(Ef.* 4, 25); in forza dei legami naturali e, più ancora, di quelli soprannaturali che lo stringono a noi, il prossimo ha tutto il diritto di non essere ingannato né dalle nostre parole, né dalle nostre azioni.
 
+Per essere sinceri è necessario anzitutto che le nostre parole corrispondano al nostro pensiero. Essere convinti di una cosa ed affermarne un'altra allo scopo di ingannare è direttamente contrario alla verità e quindi è offesa di Dio, Verità infinita. Ciò è assolutamente inammissibile in un'anima che aspira all'unione con Dio: come può la menzogna pretendere di unirsi alla Verità suprema? Eppure, benché in forma più sottile e più lieve, certe mancanze di sincerità non sono del tutto assenti dalla condotta delle anime devote: piccoli raggiri, parole buttate là ad arte per sviare un giusto rimprovero, per coprire uno sbaglio che non si vuole riconoscere o anche per attirarsi qualche lode o un po' di ammirazione... e tutto ciò per vanità, per rispetto umano, per evitare un'umiliazione o un disturbo. Meschini procedimenti, indegni di uno spirito schietto e nobile! Qualsiasi mancanza di sincerità, benché minima, dispiace molto al Signore in un'anima che si è data a lui e costituisce un serio ostacolo al suo progresso spirituale. S. Margherita Maria scrive: «Se vedessi un'anima adorna di tutte le virtù fuorché quella della sincerità e la conoscessi favorita di grandi grazie, tutto in lei mi sembrerebbe inganno ed illusione».
 
-rati nell'uomo interiore ». L'uomo interiore è lo spirito umano rigenerato dalla grazia, è l’uomo spirituale che ha rinun-
-ciato alle cose materiali ed ai piaceri dei sensi. Quest'uomo è
-in ciascuno di noi e deve essere forte per poter sostenere la
-lotta contro l'uomo animale che, purtroppo; finchè siamo su
-questa terra, vive ancora in noi e tenta di trascinarci verso il
-basso. Giustamente l'Apostolo invoca questa fortezza dallo
-Spirito Santo, perchè la fortezza della nostra virtù non è sufficiente se non viene corroborata da quella che lo Spirito
-Santo infonde in noi mediante i suoi doni.
-
-«E faccia sì che Cristo dimori nei vostri cuori per mezzo
-della fede». Cristo, col Padre e con lo Spirito Santo, abita
-già nell'anima’ in grazia, ma la sua presenza può divenire
-sempre più profonda. E, quanto più sarà profonda, tanto più
-l'anima verrà penetrata dalla divina carità, sì da essere vera
-mente «radicata e fortificata » nell'amore. Se vogliamo crescere nell'amore dobbiamo tenerci in contatto con la fonte
-dell'amore, con Dio vivente nell'anima nostra.
-
-«Siate resi capaci di comprendere... quest'amore di Cristo che sor) ogni scienza ». Comprendere, per quanto è
-possibile alla nostra limitatezza, il mistero dell'amore di Dio
-è il culmine della vita spirituale. Il cristianesimo è tutto amore: noi siamo cristiani a misura che viviamo nell'amore, a
-misura che intendiamo l'amore di Dio. Eppure questo mistero ci lascia sempre un po' increduli, un po' scettici. Oh, se
-potessimo vedere, come lo vedono i beati, che Dio è carità
-e non vuol altro che carità; che la via per andare a lui è la
-via dell'amore; che la sofferenza, la mortificazione, l'umiltà
-non sono che mezzi per giungere all'amore perfetto, per corrispondere all'amore di Biccari Allora saremmo davvero
-<ripieni di tutta la pienezza di Dio».
-
-
-2. — S. Paolo nell'Epistola ci ha esortato ad essere radicati nell'amore e Gesù nel Vangelo ci esorta ad essere radi-
-cati nell'amore e nell'umiltà.
-
-Nonostante la tacita disapprovazione dei farisei, frutto
-
-
-della grettezza della loro mente e del loro cuore, Gesù guarisce in giorno di sabato un povero idropico e così c'insegna
-una folla di più la grande importanza dell'amore del prossimo. Invano penseremmo di essere radicati nell'amore di
-Dio, se non lo fossimo anche nell'amore del prossimo. Come si può pensare che un atto di carità fraterna sia in oppo-
-sizione con la legge della santificazione della festa? Sono
-queste le aberrazioni a cui si giunge quando si pretende di
-amare Dio badando solo ai propri interessi, senza alcun pensiero per le necessità altrui. Questo non è cristianesimo, ma
-fariseismo distruttore della carjtà.
-
-Per essere radicati nell'amore, bisogna esserlo anche nell'umiltà, perchè solo chi è umile è capace di‘amare davvero
-Dio e il prossimo. Ecco, dunque, che il Vangelo prosegue con
-una lezione pratica di umiltà condannando la caccia ai primi
-posti; e non dobbiamo intendere che ciò valga solo per i posti materiali, bensì anche per quelli morali, ossia per quei
-posti che il nostro orgoglio pretende di occupare nella stima
-e nella considerazione altrui. E' un fatto umiliante constatare
-come il nostro io tenta sempre di farci prendere un posto
-più elevato di quello che ci conviene e ciò con nostro smacco «perchè chiunque si innalza sarà umiliato». « Andiamo
-a metterci all'ultimo posto — dice S. Bernardo — Non vi è
-nessun danno ad umiliarci ed a crederci inferiori di quello
-che siamo in realtà. Ma è un danno terribile ed un assai grande volerci innalzare, anche di un sol pollice, al di sopra di quel che siamo e preferirci sia pure ad uno solo.
-Come nel passare sotto una porta troppo bassa, non nuoce
-inchinarsi troppo, ma nuoce moltissimo sollevarsi un sol dito di più dell'altezza del trave perchè si urta e ci si ferisce la
-testa, così non dobbiamo aver paura di umiliarci troppo, ma
-dobbiamo temere ed aborrire il più piccolo movimento di
-presunzione». Chiediamo perciò al Signore, come l'hanno
-chiesto i santi, di mandarci una umiliazione tutte le volte che
-il nostro orgoglio tenterà d'innalzarci al di sopra degli altri;
-sarà questo il mezzo più sicuro per radicarci nell'umiltà
-
-
-Radicati nell’umiltà, lo saremo anche nella carità e così pos-
-sederemo le due caratteristiche fondamentali dell'anima cristiana.
+Ma non basta essere sinceri nelle parole; bisogna esserlo anche nelle azioni ed in tutta la nostra condotta. La condotta sincera è quella che ci mostra tali quali siamo, senza affettazioni, senza voler comparire quel che non si è. Le azioni devono esprimere la verità cercata ed amata interiormente. La sincerità non richiede che si riveli a chiunque tutto quel che siamo, pensiamo o sappiamo — il che sarebbe contrario alla prudenza e alle altre virtù — ma richiede che tutto quel che riveliamo, o con le parole o con le azioni e perfino col silenzio, corrisponda a verità.
 
 ### Colloquio
 
-« Accresci, o Signore, la mia fede nell'amor tuo affinchè
-possa dirti con tutta verità: ‘ho conosciuto l’amore che hai
-per me e vi ho creduto’. Mi pare che questo sia l’atto più
-grande della nostra fede, il modo più bello di renderti amore per amore, il ‘segreto nascosto’ di cui parla S. Paolo, se-
+«O Signore, per giungere a te, che sei via, verità e vita, bisogna camminare per la via della verità, senza finzione e simulazione alcuna, rinunciando alla ragione dall'amor proprio e dal rispetto umano. Bisogna procedere con semplicità, morendo del tutto a se stessi ed alle creature. Insegnami, dunque, Verità eterna, a condurmi con grande semplicità e schiettezza. Fa' che la mia anima, semplice come colomba, voli sempre in te per annidarsi nel tuo petto e quivi nutrirsi con la conoscenza di te e di se stessa, per cui, aborendo la sua malizia, non trovi in sé cosa alcuna in cui appagarsi e perciò non possa stare lontano da te, non trovando dove riposarsi fuori di te. Insegnami a camminare dritto per la via della verità, senza fermarmi, ma sempre procedendo innanzi, affrettandomi e correndo velocemente onde seguire te, Verità eterna, mia guida e mia via» (S.M. Maddalena de' Pazzi).
 
-che la mia anima è ansiosa di penetrare e, penetrandolo, trasalisce di gioia. O Signore, rendimi capace di credere
-al tuo amore eccessivo per me. Allora non mi arresterò più
-ai gusti, ai sentimenti, poco mi importerà di sentirti o di non
-sentirti, di ricevere da te la gioia o i] dolore; crederò al tuo
-amore e basta.
+«O Signore, la tua verità mi ammaestri, mi custodisca, mi guidi alla salvezza e mi liberi da ogni affetto impuro. A te confesso i miei peccati con profondo dolore e amarezza e non permettere che m'insuperbisca per aver fatto qualche opera buona; sono pur sempre peccatore, soggetto e schiavo a molte passioni. Per la mia natura tendo sempre al male: presto cado, presto son vinto, presto mi turbo e mi abbatto. Non ho nulla di cui possa gloriarmi, ma molto di cui devo umiliarmi e al tuo cospetto valgo assai meno di quel che non creda.
 
-<Fa), o Dio, che l'anima mia penetri nella tua profondità
-e quivi dimori radicata e fondata nell'amore.
-
-«O Signore, quando considero nel mio intimo la tua immensità, la tua fedeltà, le tue prove d'amore, i tuoi benefici
-e poi guardo me stessa e vedo i miei attentati verso di te,
-non posso far altro che rivolgermi all'anima mia con un profondo senso di disprezzo e tuttavia questo disprezzo non è
-sufficiente a mettermi in basso come vorrei. O Signore, immergimi Tu nell’umiltà! Mi sembra che essere immersi nel-
-l'umiltà sia essere immersi in te, giacchè, vivendo in te che
-sei la Verità, è impossibile non conoscere il proprio nulla.
-L'anima umile è il recipiente che ci vuole, è l’anfora capace
-di ricevere la tua grazia e solo in essa Tu vuoi versarla. Fa',
-dunque, o Signore, che io sia umile e fammi comprendere che
-mai l'umile metterà te abbastanza in alto e se stesso abbastanza in basso» (cfr. E.T. 1,6; 11,8; 19).
+«Insegnami, o Signore, ad ammirare la tua Verità eterna e a disprezzare la mia assoluta nullità» *(Imit.* III, 4, 3 e 4).

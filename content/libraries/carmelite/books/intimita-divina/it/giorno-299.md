@@ -1,99 +1,21 @@
-## 299 — BEATI I MITI
+## VII — LA PERSEVERANZA
 
-### Presenza di Dio
-
-O Spirito Santo, infondi sempre più nel mio cuore l'olio della pietà e della dolcezza.
+**Presenza di Dio.** — La tua grazia, o Dio, mi renda perseverante sino alla fine.
 
 ### Meditazione
 
-1. — Lo Spirito Santo che, mediante il dono della fortezza, rinvigorisce il nostro cuore, mediante il dono della pie-
-tà vuole renderlo mite e soave. Noi stessi, esercitando la
-virtù della dolcezza, facciamo il possibile — e dobbiamo farlo a tutti i costi — per acquistare quella mansuetudine di
-cuore tanto raccomandata da Gesù e che, come Egli stesso
-ha detto, ha per frutto la pace interiore: « Imparate da me
-che sono mansueto ed umile di cuore e troverete riposo alle
-anime vostre» (Mt. 11, 29). Tuttavia non riusciamo ancora
-a stabilirci in una dolcezza abituale, in una pace continua, tanto è vero che di fronte a casi imprevisti, a contraddi-
-zioni, a torti, ad offese, la dolcezza vien meno e la pace del
-cuore svanisce, almeno per qualche istante. Queste esperienze quotidiane, benchè dolorose ed umilianti, sono salutari,
-giacchè, molto meglio di qualsiasi ragionamento, ci fanno
-comprendere l'insufficienza dei nostri sforzi e l'estrema necessità dell'aiuto divino, aiuto che Dio stesso ha già stabilito
-di darci infondendo in noi il dono della pietà. Mettendo in
-atto questo dono lo Spirito Santo spegnerà in noi tutti i residui di risentimento verso il prossimo, finirà di sciogliere la
-nostra durezza, prenderà, per dir così, il nostro cuore nelle
+Per farci santi non basta essere coraggiosi, pazienti ed esercitare tutte le altre virtù per qualche giorno, per qualche mese e neppure per qualche anno, ma bisogna *durare* in questo esercizio sino alla fine, senza cedere alla stanchezza, allo scoraggiamento o alla mollezza. Proprio qui è il punto cruciale, perché come dice S. Tommaso, «applicarsi per lungo tempo a qualche cosa di difficile — e la virtù lo è quasi sempre — costituisce una particolare difficoltà» *(IIª IIae,* q. 137, a. 1); solo superando questa difficoltà potremo giungere alla perfezione. Non siamo angeli, siamo uomini. L'angelo, puro spirito, è per sua natura stabile: presa una risoluzione, rimane fisso in essa; ma non è così di noi che, essendo composti di spirito e di materia, subiamo le conseguenze della mutabilità e delle fluttuazioni di questa. Come la stabilità è la caratteristica dello spirito, così la volubilità è la caratteristica della materia; ecco perché ci riesce tanto difficile essere perfettamente costanti nel bene. Pur avendo formulato nello spirito propositi buoni, sentiamo sempre su di noi le debolezze della parte sensibile la quale rifugge dallo sforzo faticoso continuo e tenta perciò di liberarsene o, almeno, di ridurlo al minimo. Il nostro fisico va soggetto a stanchezza, la sensibilità dà luogo a impressioni, a turbamenti e tutto ciò è occasione di continui alti e bassi: quelle stesse cose che prima ci entusiasmavano ad un tratto ci diventano antipatiche, tediose, sì da sembrarci quasi impossibile poterle sopportare. Questa è la nostra condizione sulla terra, condizione cui nessun uomo può sfuggire. Eppure Dio ci chiama ugualmente alla santità, e poiché questa richiede un continuo esercizio delle virtù, Egli — che non domanda mai nulla di impossibile — ha rimediato all'instabilità della natura infondendo in noi la virtù della perseveranza, la quale ha per oggetto particolare la durata nello sforzo. Se per nostra natura siamo instabili, possiamo dunque, con l'aiuto della grazia, diventare perseveranti.
 
+**2** — Vi sono due forme di perseveranza. La prima è così perfetta che non presenta alcuna incrinatura, è sempre rettilinea, sempre uguale a se stessa, anche nelle circostanze più difficili ed impensate. È la perseveranza della virtù eroica, delle anime giunte allo stato di unione trasformante e che perciò vivono abitualmente sotto il governo dello Spirito Santo. Meta bellissima alla quale possiamo e dobbiamo aspirare, ma alla quale non ci è dato arrivare col solo esercizio della virtù, perché solo l'intervento abituale dei doni dello Spirito Santo può sanare in fondo l'instabilità della nostra natura.
 
-sue mani, per stabilirlo nella mansuetudine e nella pace abituale. Finchè questo povero cuore rimane in mano nostra,
-non riusciremo mai ad esserne totalmente padroni; ma
-anche se ogni giorno, nonostante i propositi tante volte rinnovati, dovessimo registrare delle mancanze di dolcezza, non
-dovremmo per questo desistere dall'impresa, bensì riprendere
-di buon volere i nostri sforzi e nello stesso tempo invocare
-con umile insistenza l’aiuto divino: « Veni, Sancte Spiritus,
-flecte quod est rigidum, fove quod est frigidum, rege quod
-est devitim» (Seq.). Vieni, Spirito Santo, piega e vinci la
-mia durezza, riscalda Ja mia freddezza, reggi e raddrizza ciò
-che mi fa deviare dalla mansuetudine.
-
-
-2. — La beatitudine che corrisponde al dono della pietà
-è il premio promesso alle anime ce mediante i loro sforzi
-e l’aiuto dello Spirito Sarto, hanno raggiunto la mansuetudine perfetta: «Beati i mansueti, perchè essi possederanno
-la terra» (Mt. 5, 4). Quale terra? Anzitutto quella del proprio cuore, giacchè, dice S. Tommaso, « la mansuetudine ren-
-de l'uomo padrone di sè» (II-II, q. 157, a. 4). Senza
-questo dominio interiore di tutti i propri impulsi — movimenti di animosità, di antipatia, di sdegno, di collera,
-ecc. — si potrà rivestire la propria condotta di un’apparenza
-di dolcezza, come fanno i mondani per opportunismo, ma
-non si potrà avere quella mansuetudine profonda che regge
-imperturbata di fronte agli urti della vita. Del resto, la piena
-padronanza di sè è proprio quella che — come ha detto Gesù
-— ci permetterà di possedere la terra nel senso più vasto
-e più bello, ossia di possedere il cuore degli uomini. Se vogliamo giovare ai nostri fratelli e conquistare i loro cuori per
-orientarli al bene, alla verità, a Dio, dobbiamo servirci, non
-già della forza e dell'imposizione che inasprisce e provoca
-reazioni contrarie, ma della mansuetudine, della pazienza,
-della longanimità. E' il metodo usato da Gesù la cui missione è stata annunciata da lui stesso come un’opera di dol-
-cezza: «Lo Spirito del Signore è sopra di me; per questo
-
-
-Egli mi ha unto per portare la buona novella ai poveri; mi
-ha mandato a guarire i contriti di cuore... a rimettere in libertà gli oppressi» (Lc. 4, 18 e 19), i
-
-Anche a noi è stato dato lo « Spirito del Signore», lo Spirito Santo, e anche i nostri cuori sono stati unti con l'olio
-della pietà, della dolcezza affinchè potessimo continuare nel
-mondo la missione di Gesù, A questo Egli c'invita dicendoci:
-« Andate: ceco io vi mando come agnelli in mezzo ai lupi»
-(Lc. 10, 3) e ci ordina, come ordinò agli Apostoli, di andare
-senza bastone o arma di difesa, pur sapendo che incontreremo
-opposizioni, lotte, nemici. .
-
-Come Gesù, l'Agnello di Dio, ha conquistato il mondo
-con la mansuetudine, così noi conquisteremo il cuore dei nostri fratelli a misura che, dominando noi stessi, diventeremo
-agnelli di dolcezza, disposti come lui a soffrire piuttosto che
-imporci e difenderci con la forza.
+La seconda forma è quella delle anime fervorose e anche delle anime perfette, ma che non godono ancora della mozione abituale dello Spirito Santo, e perciò presenta delle incrinature più o meno lievi a seconda della maggiore o minore perfezione dell'anima. In questo caso la continuità della perseveranza non consiste nel rimanere perfettamente stabili nel bene, ma piuttosto nell'incessante ricominciare appena si avverte di essere venuti meno in qualche cosa. Basta alle volte un momento di disattenzione, un fatto nuovo che ci colga all'improvviso, un po' di stanchezza o di emotività per lasciarci sfuggire qualche mancanza che ci eravamo proposti sinceramente di evitare a tutti i costi, ed eccoci a terra! Questo, però, non è un motivo per scoraggiarci, per rattristarci; è invece, un motivo per umiliarci, riconoscendo la nostra debolezza, e per invocare con maggiore insistenza l'aiuto di Dio onde rialzarci subito e ricominciare. Data la mobilità della natura umana, la nostra perseveranza consiste praticamente in un continuo ricominciare. Questa è la perseveranza a cui tutti dobbiamo siamo altro arrivare, perché dipende dalla nostra buona volontà, nel senso che Dio ha infuso in noi tale virtù e ci dà momento per momento la grazia sufficiente per metterla in atto. Non è in nostro potere affrancarci dall'instabilità della nostra natura e quindi non ci è possibile evitare qualsiasi rallentamento nel bene, qualsiasi negligenza, debolezza o mancanza, ma è in nostro potere riprenderci subito appena avvertiamo di aver messo un piede in fallo. Ecco la perseveranza che Dio esige da noi e quando noi saremo fedeli a praticarla, essendo sempre pronti a rialzarci dopo qualsiasi colpa, Dio stesso coronerà i nostri sforzi concedendoci la grazia somma della perseveranza finale.
 
 ### Colloquio
 
-«O Gesù, Salvatore del mondo, in mezzo agli insulti, alle persecuzioni o alle sofferenze non minacciavi, non male
-dicevi, non ti difendevi, non ti vendicavi, non ti scusavi! Ti
-sputavano sulla fi e Tu non la nascondevi, ti stiravano
-le mani e le braccia sulla croce e non le ritraevi, ma in tutto
-ti abbandonavi alla volontà dei tuoi carnefici per compiere
-l’opera della Redenzione. Questo è un mistero di misericordia infinita, ma è anche un esempio. Così, o Signore, Tu dai
-a noi esempio di mansuetudine e di pazienza nella tribolazione e nell’avversità; c'insegni a non rendere male per male,
-ma anzi a rendere bene per male. Ì
-«Leggi adunque, o anima mia, leggi ancora in questo libro di vita che è Cristo Crocifisso! Leggivi l'infinita mansue-
-tudine di Dio! Come potrai ancora protestare, mormorare contro le tribolazioni, contro chi ti fa soffrire, quando il tuo Dio
-si è immolato per te come mansuetissimo agnello? » (cfr. Bcata Angela da Foligno). f
-«O Spirito Santo, dammi un cuore semplice che non si
+«O Signore, sarò certamente salvo se persevererò sino alla fine; ma questa perseveranza deve essere virtuosa per meritare la salvezza; da te mi viene la virtù che mi salva, sei Tu che mi fai perseverare sino a raggiungere la salvezza.
 
+«Ecco che adesso io sono ancora in battaglia: battaglia di fuori con falsi virtuosi, battaglia di dentro con le mie concupiscenze. Al considerare in quante piccole mancanze cado ogni giorno, non fosse altro che con pensieri e con parole, mi avvedo che il loro numero è ben grande e che da questo gran numero di cose piccole si vien formando un grosso mucchio. Infelice me! chi mi libererà da questo corpo di morte? Mi libererai Tu, o Signore, con la tua grazia per mezzo di Gesù Cristo, Figliuol tuo e Signore nostro. Nel travaglio, dunque, di questa guerra levo lo sguardo alla tua grazia e nell'ardore e nell'arsura che già ho cominciato a sentire, invoco la tua ombra vivificatrice.
 
-ripieghi ad assaporare le proprie tristezze; un cuore magnanimo nel donarsi, facile alla compassione; un cuore fedele
-e generoso che non dimentichi alcun bene ricevuto e non
-serbi rancore per alcun male. Forma in me un cuore dolce
-ed umile, pronto a perdonare, capace di sopportare soave
-mente tutte le contrarietà, un cuore che ami senza esigere
-di essere riamato, contento di scomparire in altri cuori sacrificandosi davanti al Padre celeste; un cuore grande ed in-
-domabile così che nessuna ingratitudine lo possa chiudere e
-nessuna indifferenza lo possa stancare; un cuore tormentato
-dalla gloria di Gesù Cristo, ferito dal suo amore con una piaga
-che non rimargini se non in cielo» (cfr. P. Grandmaison SJ).
+«Assistimi, o Signore Gesù, per ripetermi: "Non stancarti e va' per la via stretta: io vi son passato prima di te; io sono la via stessa; sono io la guida e piglio su di me chi conduce e lo conduco fino a me"» (S. Agostino).
+
+«Concedimi, o Dio eterno, la virtù della perseveranza senza la quale nessuno può piacerti né esserti accetto. Questa virtù porta nell'anima l'abbondanza della carità e il frutto di ogni fatica. Oh, quanto sarò beata se Tu, Signore, mi darai questa virtù, perocché fin da quaggiù mi farà gustare un'arra di vita eterna. Ma la tua luce mi mostra che non posso giungere a tanto senza molto patire, perché questa vita non passa senza fatica; e chi volesse fuggire la fatica fuggirebbe il frutto della santa perseveranza» (S. Caterina da Siena).

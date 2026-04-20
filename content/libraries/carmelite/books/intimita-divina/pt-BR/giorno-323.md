@@ -1,49 +1,39 @@
-## 323 — A FORMAÇÃO DOS APÓSTOLOS
+## 323 — O ZELO PELAS ALMAS
 
 ### Presença de Deus
 
-Aceita, Senhor, minha pobre oração pelo advento do teu reino.
+Ó Jesus, que te entregaste pela salvação do mundo, acende em meu coração um grande zelo pela salvação das almas.
 
 ### Meditação
 
-Quanto ao apostolado da oração e do sacrifício, não é necessária nenhuma cautela, pois, quanto mais uma alma se dedica a isso, tanto mais beneficia o bem do próximo e, ao mesmo tempo, tira grande proveito para a própria santificação. De fato, as armas do apostolado interior coincidem perfeitamente com os exercícios fundamentais da vida espiritual.
+1. — À medida que o amor de Deus toma posse de nossos corações, faz nascer e alimentar neles um amor cada vez maior pelo próximo, amor que, sendo sobrenatural, visa sobretudo ao bem sobrenatural dos nossos semelhantes e se torna, por isso, zelo pela salvação das almas.
 
-Não se pode dizer o mesmo do apostolado externo, que, por sua natureza, exige necessariamente solicitações e ocupações diversas daquelas relativas ao proveito individual.
+Se amamos pouco a Deus, amaremos pouco também as almas; e, vice-versa, se nosso zelo pelas almas é fraco, quer dizer que igualmente fraco é nosso amor por Deus. Com efeito, como seria possível amar muito a Deus sem amar muito aqueles que são filhos seus, que são objeto de seu amor, de seus cuidados, de seu zelo? As almas são, por assim dizer, o tesouro de Deus; Ele as criou à sua imagem e semelhança num ato de amor; Ele as redimiu no Sangue de seu Unigênito num ato de amor maior ainda. «Deus amou tanto o mundo que deu seu Filho unigênito, para que todo aquele que nele crer não pereça, mas tenha a vida eterna» (Jo. 3, 16).
 
-Uma alma pouco iniciada na vida interior não pode ter a capacidade de atender ao mesmo tempo à própria santificação e à alheia, mas deve ter tempo para concentrar antes de tudo as forças na própria formação espiritual.
+Quem penetrou o mistério do amor de Deus pelos homens não pode ficar indiferente à sua sorte: à luz da fé compreendeu que toda a ação de Deus no mundo visa ao bem deles, à sua felicidade eterna, e quer de algum modo tomar parte nessa ação, certo de não poder fazer coisa mais grata a Deus do que prestar sua humilde colaboração à salvação daqueles que lhe são tão caros.
 
-Além disso, se o apostolado tira sua eficácia do grau de amor e de união com Deus a que chegou quem o exerce, é evidente que um principiante não será capaz de um apostolado fecundo. Empenhar-se cedo demais na atividade apostólica significa, portanto, dispersar inutilmente as energias, com a consequência de prejudicar a própria vida interior e de não trazer fruto algum para os outros.
+Tal foi sempre o desejo ardente dos santos; desejo que os levou a cumprir heroísmos de generosidade para procurar o bem de uma alma só. «Esta — escreve Santa Teresa de Jesus — é a inclinação que o Senhor me deu. Parece-me que Ele aprecia mais uma alma só que, com nossas diligências e orações, por sua misericórdia, nós lhe ganhamos, do que quantos serviços lhe podemos fazer» (Fundações).
 
-O próprio Jesus, embora, sendo Deus, não tivesse disso necessidade alguma, quis dedicar os primeiros trinta anos de sua vida à oração e ao recolhimento, quase para indicar-nos que, antes de lançar-se no apostolado externo, é necessário amadurecer o espírito nos exercícios da vida interior.
+É verdade, o fim primário da ação de Deus é sua glória; mas esta glória Ele, infinitamente bom, ama procurá-la particularmente mediante a salvação e a felicidade de suas criaturas e, de fato, nada mais do que a obra salvífica dos homens exalta sua bondade, seu amor e sua misericórdia. Por isso, amar Deus e sua glória significa amar as almas, significa trabalhar e sacrificar-se por sua salvação.
 
-Com os Apóstolos aconteceu algo semelhante: os três anos passados com Jesus foram anos de verdadeira formação. O Senhor os instruía, admoestava, ensinava a rezar, a praticar as virtudes e só algumas vezes, timidamente, para que fizessem experiência, confiava-lhes alguma missão.
+2. — O zelo pelas almas nasce da caridade, nasce da contemplação de Cristo crucificado: suas chagas, seu sangue, as dores dilacerantes de sua agonia nos dizem quanto valem as almas aos olhos de Deus e quanto Deus as ama. Mas esse amor não é correspondido e parece que os homens ingratos querem cada vez mais fugir à sua ação.
 
-Depois, antes de enviá-los definitivamente à conquista do mundo, quis que temperassem o espírito alimentando-se de sua Carne, assistindo à sua Paixão e, enfim, reunindo-se no Cenáculo para esperar a vinda do Espírito Santo.
+É o triste espetáculo de todos os tempos, que também hoje se renova, quase para insultar Jesus e renovar sua Paixão. «Todo o mundo está em chamas: os ímpios, por assim dizer, anseiam por condenar novamente Jesus Cristo, levantam contra Ele infinitas calúnias e empregam-se de mil modos para destruir sua Igreja». Se Teresa de Jesus podia dizer assim de seu século atormentado pela heresia protestante, muito mais podemos dizê-lo nós no nosso, em que a luta contra Deus e contra a Igreja aumentou desmedidamente e se espalha por todo o mundo.
 
-Assim, a genuína práxis católica exige que, antes de descer ao campo, os apóstolos se preparem no exercício de uma intensa vida interior, para se tornarem instrumentos aptos e fecundos para o bem das almas.
+Bem-aventurados nós se podemos repetir com a Santa: «A perda de tantas almas me parte o coração. Gostaria que o número dos réprobos não aumentasse... Parece-me que, para salvar uma só alma das muitas que se perdem, sacrificaria mil vezes a vida» (ibid.). Mas não se trata só de formular desejos: é preciso fazer, agir e sofrer pela salvação dos irmãos.
 
-A urgência das necessidades apostólicas, sempre mais premente hoje, não pode justificar uma preparação apressada para o apostolado. De que adiantaria lançar no combate um número maior de pessoas, se estas, por falta de formação, seriam incapazes não só de conquistar terreno, mas até de sustentar o choque das forças inimigas?
+São João Crisóstomo afirma que «nada é mais frio do que um cristão que não cuida da salvação alheia». Essa frieza é consequência de uma caridade muito lânguida; acendamos, reavivemos a caridade, e acender-se-á em nós o zelo pela salvação das almas. Então nosso apostolado já não será somente um dever imposto de fora, ao qual devemos necessariamente atender por obrigação do nosso estado, mas será exigência do amor, chama que irrompe espontaneamente pelo calor interno da caridade.
 
-Não basta o entusiasmo e a boa vontade. É necessária robustez de vida interior, firmeza de ideias e de propósitos, espírito de sacrifício e união com Deus; de outro modo, longe de ajudar o bem alheio, colocar-se-á em perigo a sorte dos próprios apóstolos.
-
-À urgência do apostolado é preciso prover antes de tudo intensificando a formação daqueles que a ele se dedicam, porque só almas ancoradas em Deus mediante intensa vida interior serão capazes de sustentar o ímpeto, às vezes avassalador, da atividade externa e de vivificar tal atividade com a chama do amor.
-
-«Um homem perfeito — diz Santa Teresa de Jesus — faz muito mais do que um grande número de imperfeitos» (*Caminho de Perfeição*). É, portanto, de suma importância que os que se dedicam ao apostolado estejam seriamente encaminhados para a perfeição, para a santidade; só assim poderão dar Deus às almas e levar as almas a Deus.
-
-Toda a história da Igreja é uma demonstração prática deste princípio: «Um só era São Paulo e quantos atraiu!... Se todos os cristãos fossem como São Paulo, quantos mundos poderiam converter!» (São João Crisóstomo). O santo Cura d’Ars tinha pouquíssimos recursos humanos; contudo, converteu um número imenso de almas justamente pela força de sua santidade, de seu amor e de sua união com Deus.
-
-As exigências impelentes do apostolado externo põem mais do que nunca em evidência a necessidade de apóstolos bem formados, de apóstolos de profunda vida interior, de apóstolos santos. Por isso, mesmo quando termina o período de formação, é preciso vigiar sempre para que a atividade externa não venha de modo algum a diminuir a vida interior.
-
-É preciso manter sempre o equilíbrio entre oração e trabalho, para que o apóstolo não esgote as energias espirituais, mas tenha tempo suficiente para reabastecer-se, para retomar e manter o contato íntimo com Deus.
+Dar-se à vida interior não significa fechar-se numa torre de marfim para gozar sem perturbação as consolações de Deus, desinteressando-se do bem alheio, mas significa concentrar todas as próprias forças na busca de Deus, no trabalhar pela própria santificação para tornar-se aceito a Deus e adquirir assim uma potência de ação e de intercessão mediante a qual obter a salvação de muitas almas.
 
 ### Colóquio
 
-«Ó Senhor, desejo grandemente que, tendo Tu tantos inimigos e tão poucos amigos, estes ao menos te sejam devotos. Por isso determino fazer o pouco que depende de mim: observar os conselhos evangélicos com toda perfeição possível e rezar pelos defensores da Igreja, pelos pregadores, pelos doutos que a sustentam.
+«Ó meu doce Senhor, quão indignamente és perseguido por aqueles a quem fizeste tanto bem! Parece verdadeiramente que esses traidores te querem crucificar outra vez, não te deixando lugar algum onde repousar a cabeça. Não posso fixar-me neste espetáculo, ó meu Redentor, sem sentir o coração partido.
 
-«Ó Senhor, já que não sou forte para defender diretamente tua Igreja, quero ao menos tornar fortes minhas orações para ajudar estes teus servos, que com tantos esforços e suores se armaram de ciência e de boa vida, e agora se afadigam para defender teu nome.
+«Considera, ó eterno Pai, que tantos flagelos, maus-tratos e tormentosíssimos sofrimentos não são coisas para serem esquecidas. É possível, Criador meu, que um coração tão afetuoso como o teu suporte que se faça tão pouco caso, como em nossos dias, do que teu Filho efetuou com tanto amor, unicamente para te contentar e obedecer aos teus mandamentos, quando lhe impuseste amar-nos até deixar-se no Santíssimo Sacramento, que agora os hereges ultrajam, destruindo seus tabernáculos e demolindo suas igrejas?
 
-«Meu Deus, eu gostaria de ser tal que merecesse de ti duas coisas: a primeira, que no grande número de santos e doutos personagens que hoje defendem a Igreja haja muitos que tenham as prerrogativas necessárias, e que Tu as concedas aos que não as têm plenamente, porque um homem perfeito faz muito mais do que um grande número de imperfeitos.
+«Acaso teu Filho deve fazer mais alguma coisa para contentar-te? Não fez Ele já tudo? É possível que, cada vez que voltamos a ofender-te, deva sempre pagar este inocentíssimo Cordeiro? Não o permitas mais, ó meu soberano Senhor! Acalme-se já tua divina Majestade! Em vez de considerar nossos pecados, lembra-te de que para redimir-nos foi teu Filho sacratíssimo. Lembra os seus méritos, os méritos de sua gloriosíssima Mãe, os de tantos santos e de tantos mártires que morreram por ti!
 
-«E a segunda, que, uma vez lançados nesta luta, Tu os sustentes com tua mão, para que se guardem de todos os perigos do mundo e atravessem este mar tempestuoso com os ouvidos fechados ao canto das sereias. Se junto de ti, meu Deus, posso nisso alguma coisa, eis que também eu combato por tua glória, embora recolhida na solidão.
+«Ó vergonha!... Como tenho eu a ousadia de fazer-te esta oração? Diante da minha temeridade tens toda razão para indignar-te ainda mais. Contudo, ó Senhor, não deves esquecer que és Deus de misericórdia: tem, pois, piedade desta indigna pecadora, deste miserável verme que se deixa levar a tanta audácia.
 
-«Suplico-te, Senhor, escuta-me. Da minha parte, jamais cessarei de suplicar-te, apesar de minha grande miséria: trata-se da tua glória e do bem da tua Igreja, e para isso convergem todos os meus desejos. No dia em que minhas orações, disciplinas, desejos e jejuns não fossem empregados para o que disse, eu não alcançaria o fim para o qual Tu, ó Senhor, me chamaste ...»
+«Olha para meus desejos, para as lágrimas que acompanham minha prece e, esquecendo-te dos meus pecados, suplico-te por aquilo que és, ó meu Deus, que tenhas piedade das muitas almas que se perdem e protejas tua Igreja» (Santa Teresa de Jesus, Caminho da Perfeição).

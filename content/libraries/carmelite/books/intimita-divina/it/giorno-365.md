@@ -1,99 +1,27 @@
-## 365 — I SANTI
-*1 novembre*
+## 43 — AMORE UMILE E RIVERENTE
 
-### Presenza di Dio
-
-O Signore, per intercessione dei tuoi Santi, possa anch'io battere con coraggio la via della santità.
+**Presenza di Dio.** — *O Dio, che sei tanto grande, degnati d'inalzare fino a te l'anima mia tanto piccola e misera.*
 
 ### Meditazione
 
-la nostra salvezza, oggi esulta d'immensa gioia nel contemplare la gloria dei suoi figli che, giunti alla patria celeste, sono ormai al sicuro per tutta l'eternità, per sempre salvi dalle insidie del maligno, per sempre porzione
-eletta, popolo di Dio. E, come una madre orgogliosa del
+**1** — L'amore che spinge arditamente l'anima alla conquista dell'unione divina è, nello stesso tempo, pieno di riverenza e di rispetto, giacché assai più di prima l'anima intuisce quanto sia sublime ed eccelsa la Maestà di Dio. Se, da un lato, l'amore la rende impaziente di unirsi con lui, dall'altro la continua e chiara consapevolezza della sua miseria la rende più che mai sollecita nel sorvegliarsi attentamente perché nella sua condotta non vi sia nulla che possa dispiacere a così eccelsa Maestà.
 
-trionfo dei suoi figli, li presenta a tutta la cristianità invitando ogni fedele a condividere il suo gaudio materno:
-« Rallegriamoci tutti nel Signore celebrando il giorno festivo di tutti i Santi; della cui solennità godono gli angeli e cantano lodi al Figlio di Dio» (Intr.).
+«L'anima — dice il Dottore mistico — ben presto vede in sé una vera ed efficace determinazione a non far ciò che intende essere offesa di Dio, né di omettere alcuna cosa che riguardi il di lui servizio... Nutre un pensiero assai vigilante e sollecito di ciò che deve fare o lasciare per piacere al Signore, esaminando e scrutando mille volte se stessa per vedere se mai in qualche modo lo abbia offeso» *(N. II,* 16, 14). Evidentemente si tratta qui di cosa assai superiore alla semplice fuga del peccato, si tratta della risoluzione ferma di fuggire qualsiasi imperfezione, omissione o trascuratezza avvertita e poiché l'anima sa per esperienza che, nonostante tutta la sua buona volontà, molte di tali mancanze potranno sfuggirle ancora per disattenzione o per fragilità, vuole intensificare la sua vigilanza per evitare il più possibile anche queste.
 
-L'Epistola (Ap. 7,2-12) ci offre la visione apocalittica
-della gloria dei Santi: « Vidi una gran folla che nessuno
-poteva contare, di tutte le genti e tribù e popoli e lingue, che stavan di faccia al trono e di faccia all'Agnello,
-rivestiti di bianche vesti e [con] palme nelle loro mani »
-Schiere di martiri, di apostoli, di confessori, di vergini,
-schiere luminose che incessantemente si beano della visione di Dio, incessantemente lo adorano e lo lodano dicendo: «Benedizione, gloria, sapienza, ringraziamento, onore, potenza e forza al nostro Dio per i secoli de' secoli.
-Amen! »,
+È una sollecitudine che deriva dall'amore e non dallo scrupolo, vera sollecitudine amorosa simile a quella che faceva continuamente ripetere a S. Teresa Margherita del Cuore di Gesù: «Adesso che faccio in quest'azione? Amo il mio Dio?» *(Sp.* p. 323), o a quella che la Beata Angela da Foligno esprimeva con l'infuocata espressione: «Vedi, o Signore, se in me vi è altra cosa che non sia amore!».
 
-Ma chi sono questi Santi così gloriosi? Sono uomini
-che hanno vissuto come noi su questa terra, che hanno
-conosciuto le nostre miserie, le nostre difficoltà, le nostre
-lotte. Alcuni di essi ci sono ben noti, avendoli la Chiesa
-inalzati agli onori degli altari, ma la grande maggioranz
-ci è del tutto sconosciuta. Umile gente che ha vissuto
-oscuramente nell'adempimento del proprio dovere, senza
-splendore, senza fama, che nessuno quaggiù ricorda, ma
-che il Padre celeste ha veduto e conosciuto nel segreto
-e, avendone provata la fedeltà, ha introdotto nella su:
-gloria. È se fra questa turba immensa vi sono anche personaggi che sulla terra hanno coperto posti onorifici ©
-compiuto grandi opere, ciò non ha più nessun valore:
-la loro beatitudine eterna non ha nessun rapporto con la
-grandezza avuta quaggiù. Di umili e di grandi, di poveri
-e di potenti una sola cosa rimane: il grado d'amore da
-essi raggiunto, cui corrisponde il grado di gloria che li
-rende eternamente beati.
+Se vuoi un segno sicuro del tuo amore per Iddio, guarda quanto sei fermo nel proposito di fuggire ogni minima cosa che gli dispiaccia; deve essere un proposito così radicato nella tua volontà che non solo ti sia continuamente presente — come lo sono le cose che ti premono davvero — ma sia anche valido a trattenerti da ogni imperfezione non appena l'avverti. Ciò è assolutamente indispensabile perché, come insegna S. Giovanni della Croce, «affinché l'anima venga ad unirsi perfettamente con Dio per volontà e per amore... si richiede che non consenta con cognizione ed avvertenza a veruna imperfezione, e che abbia anche il potere e la libertà di non consentirvi mentre l'avverte» *(S. I,* 11, 3).
 
-che cosa della vita dei Santi nella gloria del cielo, il Vangelo (Me. 5,1-12), riportando un brano delle beatitudini,
-ci mostra quale è stata la loro vita sulla terra: «Beati i
-poveri in spirito; beati i mansueti; beati coloro che piangono; beati quelli che hanno fame e sete della giustizia;
-cati i misericordiosi; beati i puri di cuore; beati i pacifici; beati quelli che soffrono persecuzioni ». Povertà, umiltà, distacco dalle cose terrene; mitezza d'animo, rassegnazione e pazienza nel dolore; rettitudine, fame di giustizia, bontà e comprensione per il prossimo, purezza di
-mente e di cuore; spirito pacifico e portatore di pace,
-fortezza e generosità che per amor di Dio abbracciano
-ogni sofferenza e soffrono ogni ingiustizia, ecco le caratteristiche della vita condotta dai Santi sulla terra, ecco il
-programma della nostra vita se vogliamo giungere, come
-loro, alla santità.
+**2** — La cognizione della propria bassezza mantiene l'anima umile nel suo amore, fugando da lei ogni presunzione. Ben lungi dal contare sui suoi meriti e sulle sue opere buone vede chiaramente che, per quanto faccia, tutto è nulla in confronto all'eccelsa maestà di Dio, «per conseguenza si reputa inutile in tutto quello che fa, e le sembra di vivere invano» *(G.C. N. II,* 19, 3). Le parole del Vangelo: «siamo servi inutili» *(Lc.* 17, 10) sono per lei di un'attualità viva ed esprimono molto bene il suo stato d'animo abituale. È troppa la luce che lo Spirito Santo le infonde per cadere in qualche illusione circa il suo valore o per invanirsi delle sue opere. Ma, anzi, «con grande persuasione si giudica per più cattiva di tutti: primo, perché l'amore le insegna ciò che Iddio merita; secondo, perché essendo molte le opere che fa in servizio di lui e conoscendole difettose ed imperfette, da tutte ritrae somma confusione e pena, e comprende che il suo basso modo di procedere è troppo indegno di un sì alto Signore» *(G.C. N. II,* 19, 3). È bello considerare come questa profonda umiltà non è solo frutto di luce, ma anche di amore: l'amore le fa talmente apprezzare Dio che, pur desiderandolo con ardore di possederlo, è profondamente persuasa di essere del tutto incapace di raggiungerlo. D'altra parte, benché umile e riverente, l'amore mantiene la sua caratteristica audacia e non cessa di aspirare all'unione divina. Proprio in questo senso S. Teresa del B. G. scriveva: «Malgrado la mia debolezza oso fissare il Sole divino, il Sole dell'Amore»; la Santa, che con tutta semplicità si paragona ad un uccellino di primo pelo incapace di spiccare il volo, vede bene che da sola non potrà mai elevarsi tanto in alto e tuttavia non perde le sue speranze. Se non può contare sulle sue forze, sa di poter contare sull'amore di Gesù, Verbo divino, che si è incarnato appunto per venire in cerca di noi, poveri peccatori, che ha «voluto soffrire e morire per attirare le anime sino al centro dell'eterno Focolare della Trinità beata». La Santa è sicura che un giorno Gesù si commuoverà della sua debolezza e scenderà su di lei per farla «preda» del suo amore: «Un giorno, io lo spero, Tu verrai a cercare il tuo uccellino e, risalendo con lui al Focolare dell'Amore, lo immergerai per l'eternità nell'eterno Abisso di questo Amore» *(Lt.* 175).
 
-Noi vogliamo farci santi, ma vorremmo diventarlo in
-modo facile, senza far violenza a noi stessi, senza faticare;
-vogliamo esercitare la virtù, ma solo fino ad un certo
-punto, solo quando non c'impone sacrifici troppo costosi,
-quando non ci contraria troppo; e così avviene che, di
-fronte ad atti virtuosi che esigono maggior rinnegamento
-di noi stessi, che implicano l'accettazione di cose difficili
-e ripugnanti come, ad esempio, soffocare i risentimenti
-dell'amor proprio, rinunciare a far valere le proprie ragioni, sottometterci e accondiscendere a chi ci è contrario, molto spesso — per non dire sempre — ci tiriamo
-indietro, pensando che non è necessario giungere a tanto.
-
-Eppure, il nostro progresso nel cammino della santità
-dipende proprio da questi atti che rifiutiamo di compiere;
-senza di essi condurremo sempre una vita mediocre, saremo sempre allo stesso livello, se pure non torneremo
-indietro. Supplichiamo i Santi, che oggi onoriamo, di aiutarci a vincere la nostra pigrizia, la nostra fiacchezza, la
-nostra codardia; chiediamo a loro, che ci hanno preceduti nell'arduo cammino della santità, la forza di seguirli.
-«Se questi e quelli, perchè non io? » (S. Agostino), La
-
-grazia che Dio ha dato ai Santi la dà anche a noi, ma,
-purtroppo, ciò che difetta è la nostra corrispondenza.
+Sì, Gesù è pronto a venire incontro a tutte le anime di buona volontà, è pronto a venire incontro anche alla tua anima per inalzarla alla bramata unione, ma vuole che tu lo sappia attendere con fedeltà nella generosa e piena dedizione al suo servizio.
 
 ### Colloquio
 
-«Avventurata la vostra sorte, 0 anime [sante] che godete senza timore la vostra felicità e celebrate in un continuo trasporto le lodi del mio Dio! Com'è giusto che vi
-occupiate sempre in queste lodi! Come v'invidia l'anima
-mia, per esser voi libere dal dolore che a me arrecano in
-questi tempi sventurati le gravi offese che si fanno al mio
+«O Verbo divino, sei Tu l'Aquila adorata che io amo e che mi attira. Sei Tu che, lanciandoti verso la terra d'esilio, hai voluto soffrire e morire per attirare le anime al centro dell'eterno Focolare della Trinità beata. Sei sino al centro dell'eterno Focolare della Trinità beata. Tu che, risalendo verso l'inaccessibile Luce che sarà d'ora innanzi il tuo soggiorno, rimani ancora nella apparenza d'una candida ostia... Aquila eterna, Tu vuoi nutrire della tua divina sostanza me, povero piccolo essere, che tornerai nel niente se il tuo sguardo divino non mi desse la vita ad ogni istante...
 
-io e la vista della mostruosa ingratitudine e dell'accecamento profondo che fa rimanere insensibili innanzi alla
-moltitudine delle anime che Satana si porta via!
+«O Gesù, lascia che nell'eccesso della mia riconoscenza, ti dica come il tuo amore si spinge sino alla follia! Come vuoi dinanzi a questa follia il mio cuore non si slanciasse verso di te? Come potrebbe mai la mia confidenza aver limiti?...
 
-«O beate anime del cielo, venite in aiuto della nostra
-miseria, intercedete per noi presso la divina misericordia,
-affinchè ci metta a parte del vostro gaudio e ci renda
-partecipi della chiara visione di cui ora godete. E Tu, 0
-mio Dio, facci comprendere quale sia la ricompensa riservata a coloro che nel breve sogno di questa misera viita combattono da valorosi. Otteneteci, anime amanti, di
-comprendere la felicità che v'inonda al pensiero che la
-vostra gioia è eterna e il gaudio di cui vi riempie la certezza che il vostro stato non avrà mai fine.
+«Ah! per te, io lo so, anche i santi han commesso follie, han operato grandi cose, perché erano aquile... Gesù, io sono troppo piccola per fare grandi cose e la mia follia consiste nello sperare che il tuo amore mi accetti qual vittima.
 
-«Anime avventurate, che così bene avete saputo approfittare dei doni di Dio, servendovene per comperarvi
-una sì deliziosa e permanente eredità, diteci come ve ne
-siete servite per arrivare a quel gaudio senza fine. Soccorreteci voi, che siete già vicine alla fonte, attingendo acqua
-per noi che qui moriamo di sete! » (T.G. Es. 13,164).
-
-«O Santi del cielo, io sono la più misera delle creature, riconosco la mia miseria; ma so pure quanto i cuori nobili e generosi amano di fare il bene. Vi scongiuro,
-dunque, fortunati abitatori della celeste città, di adottarmi
-per figlia; su voi soli ridonderà la gloria che mi farete
-acquistare; degnatevi di esaudire la mia preghiera ed ottenetemi, ve ne prego, il vostro amore » (T.B.G, St. 11).
+«Così la lungo quanto vorrai, o mio Diletto, il tuo uccellino se ne rimarrà senza forza e senz'ali; sempre terserà gli occhi fissi su di te: vuole essere affascinato dal tuo sguardo divino, vuol divenire preda del tuo amore. Un giorno, lo spero, Aquila adorata, Tu verrai a cercare il tuo uccellino e, risalendo con lui al Focolare dell'Amore, lo immergerai per l'eternità nell'eterno abisso di questo Amore al quale si è offerto vittima» *(T.B.G. Lt.* 175).

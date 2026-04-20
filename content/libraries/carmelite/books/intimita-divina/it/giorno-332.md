@@ -1,83 +1,25 @@
-## 332 — MATURITA APOSTOLICA
+## 10 — L'IMMOLAZIONE APOSTOLICA
 
-### Presenza di Dio
-
-Il tuo amore, o Dio, maturi l'anima mia e la renda capace di darsi pienamente al servizio delle anime.
+**Presenza di Dio.** — *O Gesù, immolato per la mia salvezza, fa' ch'io sia degno d'immolarmi con te per la salvezza dei miei fratelli.*
 
 ### Meditazione
 
-unione con Dio in cui la fiamma dello zelo divampa spontanea, l'apostolo può darsi ormai liberamente all'apostolato. È un fatto che, pervenuta a questo punto, l'anima non
-può e non deve esimersi dal dono di sè: che sia consacrata alla contemplazione o all'azione, che viva nella solitudine del chiostro o in mezzo al turbinìo del mondo, la
-sua vita consiste ormai nel darsi incessantemente: darsi a
-Dio a vantaggio del prossimo; darsi al prossimo a gloria
-di Dio. Soffocare questa tendenza sarebbe retrocedere e
+**1** — La preghiera apostolica deve essere accompagnata dal sacrificio ad imitazione della preghiera che Gesù inalzò per noi al Padre nell'orto degli ulivi e sulla Croce. L'amore deve spingere gli oranti «al *sacrificio attivo* che non si acquieta nella preghiera finché la pena e la sofferenza non abbiano quasi toccato il limite delle forze. In quei momenti, consumati dall'ardore della carità e dalla veemenza del desiderio, essi non saranno più dei preganti, ma *preghiere viventi*» (Pio XII, 17-1-43). Preghiera e sacrificio sono intimamente connessi perché sgorgano da un'unica fiamma: l'amore che spinge all'orazione e all'immolazione incessante per la gloria di Dio e per la salvezza delle anime. Vita contemplativa è quindi sinonimo di vita austera e penitente, sì da essere un continuo «sacrificio di lode». Più la preghiera è nutrita, impastata di sacrificio e più è efficace, anzi raggiunge la massima efficacia proprio quando il sacrificio è massimo.
 
-immiserire la propria vita spirituale; è FS l'epoca in
-cui l'anima deve arricchirsi appunto mediante il dono di
-sè vissuto nell'esercizio di un intenso apostolato interiore
-od esteriore che sia. Tuttavia i santi c' insegnano che la
-prudenza è ancora necessaria, nè sì deve cessare di vigilare,
-giacchè aver ricevuto la grazia interiore dell'apostolato,
-non significa essere confermati in grazia. S, Teresa lo dice espressamente: « Ho conosciuto alcune persone molto
-avanzate che, dopo essere giunte sin qui, il demonio è
-riuscito ancora a far sue mediante insidie ed astuzie sottili» (M.V,4,6), e poco prima aveva detto: «Quanti
-devono essere coloro che, chiamati da Dio all'apostolato,
-onorati come Giuda delle sue stesse comunicazioni... finiscono poi, per loro colpa, col perdersi! » (ivi, 3, 2). Spontancamente si ripensa al grido pieno di umiltà e di diffidenza di sè sgorgato dal cuore di Paolo, l'Apostolo rapito al terzo cielo: «non avvenga che dopo aver predicato
-agli altri, rimanga io disapprovato » (I Cor. 9, 27). Finchè
-siamo su questa terra abbiamo ragione di temere; purtroppo abbiamo sempre la triste possibilità di non corrispondere alla grazia, di distaccarci, sia pure in minime cose,
-dalla volontà di Dio — e qui sta appunto la nostra rovina
-— e così un po' alla volta retrocedere. « Anime cristiane
-che il Signore ha condotto fin qui — esclama Teresa di
-Gesù — vi prego per amor suo di non mai trascurarvi
-e di fuggire le occasioni! » e soggiunge: «Credo che [il
-demonio), pur di riuscire (a far deviare un apostolo], debba mobilitare tutto l'inferno, essendo persuaso che, rovinare un'anima di queste è rovinarne una moltitudine »
-(M. V, 4,56). Al contrario, se l'apostolo si mantiene fedele alla grazia dell'apostolato, non solo diventa strumento per la salvezza di molti, ma arricchisce immensamente
-la sua vita interiore.
+Ogni anima contemplativa deve «essere degno altare dove possa risiedere la Divina Maestà» *(G.C.S.* I, 5, 7), altare da cui s'inalza la preghiera e su cui s'immola il sacrificio. L'apostolato di Gesù è culminato e si è compiuto nell'annientamento della morte di croce e per mezzo di essa; solo dopo essere stato maciullato dai flagelli, trafitta dai chiodi, abbandonato da Dio e dagli uomini il Salvatore ha potuto dire: «*Consummatum est*», tutto è finito *(Gv.* 19, 30). Così sarà di noi; soltanto quando ci saremo davvero sacrificati per le anime, soltanto quando avremo accettato con Gesù di immolarci totalmente per la loro salvezza, potremo con lui ripetere: tutto è compiuto. La nostra partecipazione all'apostolato di Gesù trova il suo compimento nel sacrificio di noi stessi: sacrificio non fantastico e ipotetico, ma reale e concreto, di cui Dio stesso ci indica la forma e la misura attraverso le circostanze della vita, le permissioni della sua divina Provvidenza, le disposizioni dei superiori, i doveri del nostro stato. Quando un'anima è disposta, per la salvezza dei fratelli, a vivere nel continuo sacrificio della propria volontà, nel continuo rinnegamento di sé; quando è disposta a lasciarsi crocifiggere in qualsiasi modo dalla santa volontà di Dio pur di conquistare al Suo amore altre anime, allora raggiunge il vertice dell'apostolato e quindi della fecondità apostolica.
 
-sono particolarmente necessarie tre cautele. Anzitutto bisogna avere sempre una cura gelosa dell'umiltà, difendendosi dalle voci lusinghiere delle lodi e dei successi e contrapponendo ad esse il quadro delle proprie miserie, nonchè quello « delle brutte figure », degli sbagli fatti e degli
-insuccessi riportati nell'apostolato. Se per orgoglio è caduto Lucifero — puro spirito — non è impossibile che
-per orgoglio cada un apostolo che, essendo uomo, è appesantito dalla materia. Occorre poi delicata attenzione
-per mantenere il contatto intimo con Dio, perchè come
-il ferro si arroventa e risplende solo a contatto col fuoco,
-così l'apostolo diffonde luce e calore divini solo se si tiene unito a Colui che ne è l'unica fonte.
+**2** — Molti non si salvano perché non c'è chi prega e si sacrifica per essi. Senza le lacrime e le sofferenze di Monica molto probabilmente la Chiesa non avrebbe avuto S. Agostino. Benedette, dunque, quelle anime che dell'immolazione apostolica fanno la ragion d'essere e il fine della loro vita. «Mie sorelle in Cristo — scrive S. Teresa di Gesù alle sue figlie — unitevi con me nel domandare a Dio questa grazia [la salvezza delle anime]. Per questo Egli vi ha qui raccolte: questa è la vostra vocazione, queste le vostre incombenze e le brame vostre, questo il soggetto delle vostre lacrime e delle vostre preghiere... Il giorno in cui le vostre orazioni, le vostre discipline, i desideri e i digiuni vostri non fossero impiegati per ciò, non raggiungereste — sappiatelo — il fine per cui il Signore vi ha qui raccolte» *(Cam.* 1, 5; 3, 10). I contemplativi e le contemplative, non avendo mansioni di apostolato esterno, sono massimamente tenuti a concentrare tutte le loro forze nella preghiera e nel sacrificio, che solo così corrisponderanno alle grandi speranze che la Chiesa ripone in essi e realizzeranno la loro vocazione. Mediante le penitenze che provengono dal vivere in comune e dall'osservanza di una vita austera, umile, sottomessa in tutto all'obbedienza e priva di ogni soddisfazione umana, essi sono chiamati in modo speciale a compiere generosamente nella loro carne ciò che manca alla Passione di Cristo, in favore del suo Corpo mistico che è la Chiesa *(cfr. Cost. Ap. Sponsa Christi)*.
 
-Infine è di massima importanza perseverare nel perfetto distacco dal proprio giudizio e dalla propria volontà. A_ questo proposito S. Giovanni della Croce avverte
-«che tra le molte astuzie usate dal demonio per ingannare gli spirituali, la più comune è d'illuderli sotto. apparenze di bene e non di male; perchè già sa che il male
-manifesto appena lo toccheranno » (Cr. 10). Perciò, per
-non cadere nel tranello, il Santo sprona a non intraprendere mai « un'azione, pe quanto buona e piena di carità» (ivi, 11) possa sembrare, senza l'approvazione dell'obbedienza. Questo avviso vale non solo per i Religiosi, ma
-per tutti coloro che lavorano nell'apostolato, perchè tutti
-devono mantenersi sottomessi all'Autorità ecclesiastica.
-Anche se un'opera, un'iniziativa, un metodo dî apostolato,
-dessero i migliori risultati, qualora l'Autorità ecelesiastica,
-per qualsiasi motivo, non li approvasse, l'apostolo dovrebbe essere pronto a rinunciarvi subito, senza critiche, senza lamenti, senza raggiri con cui cercare di far valere il
-proprio punto di vista.
+«Sono venuta al Carmelo per salvare le anime», aveva dichiarato S. Teresa del B. G. e, dopo aver consumato ed offerto a tale scopo tutte le sue energie, durante gli strazi dell'ultima malattia offriva per i peccatori anche quelle preghiere che si facevano per otternerle un po' di sollievo.
 
-Protetto da un'umiltà profonda, da un distacco sincero, sorretto da un'intima unione con Dio, l'apostolo può
-battere le vie del mondo senza nessun timore per la sua
-vita spirituale.
+Ma se i contemplativi devono essere gli «specializzati» dell'apostolato del sacrificio, questo non può e non deve mancare, benché in forma diversa, nella vita di ogni apostolo. Come Gesù ha comprato le anime nostre a prezzo del suo Sangue, così chiunque vuol collaborare con lui alla salvezza dell'umanità, deve essere disposto ad unire al Sangue preziosissimo di Cristo qualche goccia del proprio. Le anime costano care e l'apostolo deve pagare *del suo* quelle che vuol conquistare. L'apostolato è vero e fecondo a misura che è intriso di sofferenza, che è frutto di immolazione.
 
 ### Colloquio
 
-«O Signore, le anime che ti furono più vicine, come
-la tua santissima Madre e i tuoi gloriosi Apostoli, furono
-quelle che patirono di più c si affaticarono di più per te,
-non concedendosi alcun riposo. '
+«Signore, il mio cuore esulta pensando che ti sei degnato di scegliermi per associarmi alla grande opera della Redenzione e per soffrire in me quale un prolungamento della tua Passione. Mi hai preso e vuoi che io sia per te quasi un'umanità aggiunta in cui Tu possa soffrire per la gloria del Padre, per i bisogni della tua Chiesa.
 
-«Dio mio, come deve essere trascurata del suo riposo
-l'anima che vive profondamente unita a te! Come non si
-deve curare dell'onore! Come deve essere lontana dal desiderare d'essere stimata in qualche cosa! Sì, se ella s'intrattiene spesso con te, come sarebbe doveroso, finisce col
-dimenticarsi di sc stessa per esaurire ogni sua preoccupazione nel cercare di maggiormente contentarti e nel conoscere in quali cose e per quali vie possa mostrarti Va
-more che ti porta. O Signore, Tu m'insegni che questo
-è il fine dell'orazione e a questo tende l'unione 'con te:
-a produrrè opere ed opere. Di
+«Come sarei felice, Maestro adorato, se mi chiedessi anche di versare il sangue per te. Ma ciò che bramo soprattutto è il martirio d'amore che ha consumato i santi... E poiché Tu hai detto che la più grande prova d'amore è dar la vita per chi si ama, io ti do la mia, perché Tu ne faccia ciò che vuoi; se non sono martire di sangue, voglio essere martire d'amore.
 
-PSe fisserò lo NR su di te, divin Crocifisso, mi
-diverrà facile ogni cosa. Se Tu mi hai mostrato il tuo
-amore con opere così grandi e con sì spaventevoli tormenti, perchè io vorrò contentarmi soltanto di parole? Oh,
-fa' che io sappia darmi a te come tua schiava, tale che
-segnata col tuo ferro, quello della croce, Tu mi pos
-vendere per schiava di tutto il mondo! Ecco che cosa
-vuol dire essere veramente spirituali. —
+«Quanto mi rallegro pensando che, fin dall'eternità, noi siamo stati conosciuti dal Padre e che Egli vuol ritrovarsi in noi la sua immagine, o Cristo crocifisso! Com'è dunque necessario il dolore, perché l'opera tua si compia in me! Tu brami arricchirmi delle tue grazie, ma sono io che limito il tuo dono, che ne determino la misura in proporzione alla generosità con cui mi lascio immolare da te.
 
-« Unita a te, Forte divino, parteciperò alla tua fortezza, a quel modo che ne parteci arono i santi, onde lavorare con gran zelo per la tua gloria, onde lina: e morire per te, per guadagnarti molte anime » cfr. T.G.M,
-VII, 4, 5-10).
+«O Signore, Tu chiamavi l'ora della tua Passione *'la tua ora'*, quella per la quale eri venuto, quella che tutti i tuoi desideri affrettavano. Quando una grande sofferenza, o anche un sacrificio piccolissimo mi si presenta, voglio pensare subito che quella è *l'ora mia*, l'ora in cui posso dar prova del mio amore a te che tanto mi hai amato» *(E. T. Lt.)*.

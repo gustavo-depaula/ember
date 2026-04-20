@@ -1,111 +1,25 @@
-## 111 — L'ULTIMO POSTO
+## 35 — L'UMILTÀ DEL CUORE
 
-### Presenza di Dio
-
-— O Gesù che hai detto: « Non son venuto per essere servito ma per servire» (cfr. Mc. 10,45), insegnami ad amare l’ultimo posto.
+**Presenza di Dio.** — *O Gesù, dolce ed umile di cuore, rendi il mio cuore simile al tuo.*
 
 ### Meditazione
 
-1 — Gesù non solo con le parole, ma anche con l’esempio ci ha mostrato di essere venuto non per esser ser-
-vito, bensì per servire, e ha voluto riservare questo esempio
-alla vigilia della sua Passione, quasi per lasciarcelo in testamento, insieme con i suoi ultimi e più preziosi inse-
-gnamenti. Prima di istituire l'Eucaristia, Egli, come uno
-schiavo qualunque, « cominciò a lavare i piedi ai discepoli » e, quand’ebbe terminato, disse: « Vi ho dato l’esem-
-pio, affinchè anche voi facciate come io ho fatto a voi»,
-perchè «il servo non è da più del padrone, nè l’apostolo
-da più di colui che l'ha mandato » (Gv. 13, 15 e 16). L’insegnamento è chiaro: se vuoi essere vero discepolo di
-Gesù, devi come lui umiliarti; e considera che qui non si
-tratta solo di umiliarti davanti a Dio, ma anche davanti al
-prossimo. Ritenerti qual servo nei tuoi rapporti con Dio
-non è difficile, ma ritenerti servo e comportarti come tale
-nei tuoi rapporti col prossimo è più difficile, Più difficile
-ancora è lasciarti trattare da servo, cioè senza riguardi,
+**1** — Una sola volta Gesù ha detto espressamente: imparate da me, e l'ha detto proprio in proposito dell'umiltà: «Imparate da me che sono mansueto ed umile di cuore» *(Mt.* 11, 29). Ben sapendo quanto sarebbe stato difficile alla nostra natura orgogliosa la pratica della vera umiltà, sembra che Egli abbia voluto darci così un particolare incoraggiamento. Il suo esempio, le sue inaudite umiliazioni, che l'hanno reso «vilipendio di ognuno e spregio del popolo» *(Sal.* 21, 7), che per noi l'han «fatto peccato» *(II Cor.* 5, 21) e portatore di tutte le nostre iniquità, fino ad essere «annoverato tra i malfattori» *(Mr.* 15, 28), sono il più grande sprone ed il più grande invito alla pratica dell'umiltà.
 
+Gesù ci parla direttamente dell'umiltà del cuore, perché, per essere sincera, ogni virtù, ogni riforma di vita deve sempre partire dal cuore da cui vengono i pensieri e le azioni. Un portamento esterno, un parlare umile sono vani, senza l'umiltà del cuore, anzi spesso sono la maschera di un orgoglio raffinato e quindi più pericoloso. «Rimonda prima l'interno — diceva Gesù stigmatizzando l'ipocrisia dei farisei — e anche l'esterno diventerà pulito» *(Mt.* 23, 26). E S. Tommaso insegna che «dall'interiore disposizione all'umiltà procedono i segni nelle parole, nei gesti, nei fatti, mediante i quali si manifesta all'esterno, ciò che è nascosto nell'interno» *(IIa IIae,* q. 161, a. 6, co.).
 
-senza considerazione alcuna, anche da chi ti è inferiore.
-Eppure Gesù, infinitamente superiore a tutti, volle essere
-trattato non solo da servo, ma da schiavo, ed anche da
-malfattore.
-Come di fronte a Dio l'umiltà ti colloca in un posto
-di inferiorità, di dipendenza assoluta, così di fronte al
-prossimo ti fa prendere «l’ultimo posto ». « Guai a voi,
-ij ‘Ar amate il primo posto nelle sinagoghe » (Lc. 11, 43),
-la detto Gesù ai farisei condannando la caccia ai primi
-posti, agli uffici ed alle cariche onorevoli, ed ha soggiun-
-(CH i Sonde sarai invitato, vai a metterti all’ultimo
-posto » (Lc. 14, 10). Per quanto dipende da te, in qualsiasi
-ambiente ti trovi, cerca sempre di scegliere l’ultimo posto,
-ma fallo con semplicità e disinvoltura, in modo che nessuno, accorgendosene, venga ad invitarti a passare al
-primo. Un tale invito attendilo solo da Dio, e non in
-questa vita, ma nell’altra,
+Quindi, se vuoi essere veramente umile, applicati anzitutto all'umiltà del cuore, addentrandoti sempre più nel sincero riconoscimento del tuo nulla, della tua pochezza. Sappi riconoscere sinceramente i tuoi difetti, le tue mancanze, senza volerli attribuire ad altra causa che alla tua miseria; sappi riconoscere il bene che è in te come puro dono di Dio, senza mai fartene padrone.
 
+**2** — L'umiltà del cuore è virtù difficile e facile insieme: difficile, perché tanto contraria all'orgoglio che sempre ci spinge ad esaltarci; facile, perché non abbiamo bisogno di andare lontano a cercarne i motivi, ma li abbiamo — e in abbondanza — in noi stessi, nella nostra miseria. Tuttavia, non basta essere miserabili per essere umili, ma è umile solo chi si riconosce sinceramente la propria miseria e agisce in conseguenza.
 
-2 — Durante l’ultima Cena Gesù volle dare agli Apostoli un’altra lezione di umiltà; mentre essi discutevano
-chi di loro dovesse esser considerato maggiore, Egli li
-ammonì: «Il più grande tra di voi sia come il più piccolo;
-e chi governa sia come colui che serve », poichè anch'io
-«Io sto in mezzo a voi come uno che serve » (Le. 22, 26-27).
-Quando Gesù parla dei nostri rapporti col prossimo in-
-Siste sempre perchè ognuno prenda il posto di servo e si
-consideri servo degli altri. L'ha detto quando ha presentato un fanciullo come modello di perfezione: «Se uno
-vuol essere il primo, sarà l’ultimo di tutti e il servitore
-di tutti » (Mc. 9, 34) e l’ha ripetuto quando ha messo in
-guardia i suoi discepoli dall’imitare la condotta superba
-dei farisei: «Il più grande tra voi, sarà vostro servo»
-(Mt. 23,11). È chiaro: per i seguaci di Cristo il posto di
-onore, di privilegio è il posto di servo, e il Maestro divino
-insiste perchè proprio coloro che occupano i primi posti
-‘siano i più zelanti a farsi servitori di tutti.
+A questo riconoscimento l'uomo, superbo per istinto, non può giungere senza la grazia di Dio, ma, poiché Dio non nega a nessuno le grazie necessarie, rivolgiti a lui e, con fiducia e costanza, chiedigi l'umiltà del cuore. Chiedila nel nome di Gesù che tanto si è umiliato per la gloria del Padre e per la tua salvezza, «chiedi in nome suo e riceverai» (cfr. *Gv.* 16, 24). Se poi, malgrado il tuo sincero desiderio di umiltà, senti spesso agitarsi in te movimenti di orgoglio, di vanagloria, di vana compiacenza, anziché avvilirti, riconosci in questo il frutto della tua natura cattiva e serviti di ciò come di un nuovo motivo per amarti.
 
-Quindi, se hai qualche autorità sui tuoi prossimi, devi
-
-
-pensare che ti è stata data non per tuo onore, ma per il
-servizio degli altri. Se poi nulla ti distingue dal livello
-comune, non farti avanti per metterti in vista; e infine se
-il tuo posto è quello d’inferiore, occupalo volentieri, non
-cercando mai di uscirne. Nell’assegnarti un posto umile,
-Dio stesso si è preso cura di farti praticare l'umiltà; è questa ‘una delle grazie più grandi che Egli ti abbia fatto e
-tu cerca di corrispondervi esercitandoti molto in questa
-virtù.
-
-«L'unica cosa non invidiata è l’ultimo posto — diceva
-S, Teresa del B. G. — e solamente in esso non v'è vanità
-e afflizione di spirito » (CR.).
+Ricorda inoltre che puoi praticare sempre l'umiltà del cuore, anche quando non puoi fare particolari atti di umiltà esterna, anche quando nessuno ti umilia e sei invece fatto segno alla fiducia, alla stima, alle lodi altrui. In simili circostanze S. Teresa del B. G. diceva: «Nulla vale ad ispirarmi sentimenti di vanità, perché il ricordo delle mie miserie mi sta continuamente presente» *(St.* 10); e ti pensa che, come «non ti rende più spregevole il biasimo, così non ti rendono più sante le lodi altrui» *(Imit.* II, 6, 3). Anzi, più gli altri ti esaltano e più stai attento ad umiliarti in cuor tuo. Praticata in tal modo, l'umiltà del cuore ti farà concepire un così basso concetto di te, che non saprai più preferirti a nessuno, ma tutti giudicherai migliori di te e di te maggiormente degni di stima, di rispetto, di riguardi e così te ne starai in pace, non venendo mai turbato né dal desiderio di sorpassare gli altri, né dalle umiliazioni che potrai ricevere. La pace interiore è frutto dell'umiltà, infatti Gesù ha detto: «Imparate da me che sono mansueto ed umile di cuore e troverete riposo — *requiem* — alle anime vostre» *(Mt.* 11, 29).
 
 ### Colloquio
 
-«O Signore, quand’eri pellegrino vaggiù hai detto:
-*Imparate da me che sono mansueto ed umile di cuore, e
-le anime vostre troveranno riposo’. Ebbene, l’anima mia
-trova riposo nel veder te, potente Monarca dei cieli, ri
-vestito della forma e della natura di schiavo, umiliarti fino
-a lavare i piedi dei tuoi Apostoli. Ricordo allora quelle
-parole che hai pronunziate per insegnarmi a praticar l’umiltà: ‘Io vi ho dato l'esempio affinchè, come ho fatto
-io, così facciate anche voi. Il discepolo non è da più del
-suo Maestro... Sapendo queste cose, sarete beati se le praticherete ”. Col soccorso della tua grazia io le intendo
-queste parole, o Signore, uscite dal tuo Cuore umile e
-dolce, e voglio praticarle col soccorso della tua grazia.
+O Gesù, dolce ed umile di cuore, sanami dall'orgoglio, rendi Tu umile il cuor mio, infondi in me un po' della tua profondissima umiltà. Perché, Tu lo sai meglio di me, come potrei io, con la mia volontà superba, rendere umile il mio cuore? Non può un povero dar ricchezze a se stesso, non può un superbo dare umiltà al suo cuore. Soltanto la tua bontà infinita può dar rimedio alla superbia.
 
-«Voglio abbassarmi umilmente e sottomettere la mia
-volontà a quella degli altri, senza contraddirli in nulla e
-senza esaminare se essi abbiano o non abbiano il diritto di
-comandarmi. Nessuno aveva questo diritto verso di te;
-eppure Tu hai obbedito non solamente alla SS.ma Vergine
-e a S. Giuseppe, ma ancora ai tuoi carnefici.
+«E il rimedio è questo: fissare lo sguardo in te, Verbo Incarnato pendente dalla croce; e, vedendo Tu l'anima umiliata riguardare in tal modo in te, presto ti muovi a riguardare in lei e col tuo sguardo fai come fa il raggio del sole sulla terra, il quale col suo calore la va asciugando e disponendo affinché fruttifichi. Così fai Tu, Verbo, che col raggio del tuo sguardo asciughi l'anima, tirando a te tutta la superbia che è in lei, per consumarla col tuo calore. Nessuno, dunque, può acquistare l'umiltà, se non fissa lo sguardo in te, Verbo in croce» (S. M. Maddalena de' Pazzi).
 
-« O Signore, non potevi abbassarti di più per insegnarmi l'umiltà; voglio perciò rispondere all’amor tuo col met-
-
-
-termi all'ultimo luogo, e col partecipare alle tue umiliazioni per aver poi parte con te nel regno dei Cieli. :
-
-« Ti prego, mio divino Gesù, di mandarmi un’umiliazione ogni volta che proverò a sollevarmi al di sopra
-degli altri.
-
-« Ma, Signore, la mia debolezza ti è nota; tutte le mattine formo il proposito di praticare l'umiltà, e tutte le sere
-riconosco di aver commesso ancora molte mancanze. A
-tale vista sono tentata di scoraggiarmi; ma io so che anche
-lo scoraggiamento è orgoglio, onde voglio piuttosto, 0
-mio Dio, fondare la mia speranza in te solo. Poichè sei
-onnipotente, degnati di far nascere nell'anima mia la virtù
-che desidero » (T.B.G. St.; Preghiere).
+«O Verbo, ti sei umiliato fino alla morte di croce, fino a voler essere trattato come l'ultimo degli uomini dai peccatori, dai demoni, dallo Spirito Santo e dall'eterno tuo Padre. E tutto questo per glorificare il Padre, per riparare l'offesa fatta al Padre dal nostro orgoglio, per confondere e per distruggere la nostra arroganza, per insegnarci a detestar la vanità e ad amar l'umiltà. Oh, come può dirsi che, davvero, la superbia disonora Dio e che a Dio gravissimamente dispiace, poiché in riparazione di tal disonore fu necessario che Tu, figlio di Dio, venissi tanto umiliato! Oh, come può dirsi che, davvero, la vanità è cosa mostruosa, giacché per annientarla, Tu hai voluto ridurci ad un così infimo grado di abbassamento! Oh, come si deve credere che agli occhi di Dio l'umiltà è tesoro veramente prezioso e gemma a lui gradissima, poiché Tu, suo Figlio divino, hai voluto esser tanto umiliato per farci amare tale virtù, per stimolarci ad imitarti nella pratica di essa e per meritarci la grazia di compierle le opere» (S. Giovanni Eudes).

@@ -1,109 +1,17 @@
-## 214 — IL MISTERO TRINITARIO
+## XIV — LA RIPARAZIONE
 
-### Presenza di Dio
-
-O mio Dio, Trinità che adoro, insegnami a conoscerti e ad amarti.
+**Presenza di Dio.** — *Cuore di Gesù, piagato per nostro amore, rendimi degno di riparare le ferite che i nostri peccati ti hanno inflitto.*
 
 ### Meditazione
 
-1. — In quanto creature, noi non avevamo alcun diritto di conoscere il mistero della SS.ma Trinità, che è il
-mistero della vita intima di Dio; tuttavia, Dio ce l'ha manifestato perchè non ha voluto lasciarci nello stato di pure
-creature, ma ha voluto innalzarci a quello di figli, di amici.
-Il Figlio di Dio ha detto: «lo non vi chiamo più servi,
-perchè il servo non sa quello che fa il padrone; vi ho chia:
-mati amici, perchè vi ho fatto conoscere tutto quello che
-ho udito dal Padre mio» (Gv. 15, 15); e questo tutto è
-appunto il mistero della SS.ma Trinità, che solo Gesù,
-come Figlio di Dio, ha veduto e udito nel seno del Padre.
+**1** — L'inno dei primi Vespri della festa del Sacro Cuore dice: «Ecco come l'insolente e orribile schiera delle nostre colpe ha ferito il Cuore innocente di un Dio» e, con maggior realismo, continua: «Il colpo della lancia del soldato fu diretto dai nostri peccati» (*BR.*). Queste espressioni ci richiamano alla mente le parole che Gesù rivolse a S. Margherita Maria e che ogni anno la Chiesa rilegge nell'Ufficio del martedì durante l'ottava del Sacro Cuore: «Ecco quel Cuore che ha tanto amato gli uomini... ma in cambio del suo amore infinito, anziché trovare gratitudine, incontrò dimenticanza, indifferenza, oltraggi, talora anche da chi dovrebbe tributargli speciale amore» (lez. VI). Di fronte al lamento del Cuore divino, l'anima non può restare indifferente: vuole espiare, riparare, consolare. E lo vuole, insegna Pio XI, per un doppio motivo: «di giustizia e di amore: di giustizia per riparare l'offesa recata a Dio con le nostre colpe... di amore per patire con Cristo paziente e saturato di obbrobri e recargli, secondo la nostra pochezza, qualche conforto» *(Enc. Miserent. Red.)*. Che si debba riparare i nostri peccati è facile intenderlo, ma che si possa farlo anche per consolare il Cuore di Gesù non è forse altrettanto chiaro. «Come potrà dirsi — domanda Pio XI — che Cristo regna beato nel cielo si può essere consolato da questi atti di riparazione? 'Datemi un'anima amante e comprenderà quel che dico'» (ivi), risponde il grande Papa. Infatti, l'anima che penetra con amore nel mistero di Gesù comprende bene che Egli, quando nel Getsemani vedeva tutti i nostri peccati, vedeva anche tutte le opere buone che avremo fatto per consolarlo e, in realtà, l'avranno consolato allora gli atti che oggi facciamo a tale intento. Questo pensiero ci spinge sempre più ad opere di riparazione, affinché Gesù non abbia motivo di rivolgere ancora a noi il pietoso lamento: «il dolore mi spezza il Cuore... mi aspettava qualche consolatore, e non l'ho trovato» (Messa S. Cuore).
 
-Già nell'Antico Testamento troviamo qualche accenno
-a tale mistero, ma la rivelazione di esso appartiene al Nuovo,
-al Testamento dell'amore e si può dire che Dio ha voluto riservarne a sè la manifestazione.' Infatti, non ce l'ha
-rivelato mediante i profeti, ma mediante il suo Unigenito
-che è una cosa sola con lui: e Nessuno ha veduto mai
-Dio; — dice l'Evangelista — il Figlio unigenito, che è
-nel seno del Padre, ce l'ha fatto conoscere» (Gv. 1, 18).
-
-Gesù è venuto per narrarci il mistero della vita intima di
-Dio; ci ha parlato di sè, come Figlio di Dio in tutto uguale
-al Padre: « Chi vede me, vede anche il Padre mio» perchè «io sono nel Padre e il Padre è in me» (ivi, 14, 9
-e 11); ci ha parlato dello Spirito Santo, senza il quale non
-sì può giungere alla vita eterna: «Se uno non rinasce dal
-l'acqua e dallo Spirito Santo, non può entrare nel regno
-di Dio» (Gv. 3, 5) e ci ha detto che Egli stesso, insieme
-col Padre, ci manderà questo Spirito il quale perciò procede
-nello stesso tempo e da lui, il Verbo, e dl Padre: « E' utile
-per voi che me ne vada, perchè... se io me ne andrò, ve lo
-manderò » (ivi, 16, 7); <io pregherò il Padre ed Egli vi
-darà un altro Paraclito... cioè lo Spirito di verità» (ivi, 14,
-16). Molte volte Gesù è ritornato su questi concetti e così
-ci ha insegnato che è bene per noi fissare lo sguardo sul
-l'altissimo mistero della SS.ma Trinità per ammirarlo, lodarlo, per riamare questo Dio uno e trino che ci ha amati
-fino ad introdurci nel segreto della sua vita intima.
-
-2. — Dio, bene sommo ed infinito, basta a se stesso:
-nella conoscenza e nell'amore di sè Egli trova tutta la sua
-felicità, Essendo l'Essere infinitamente perfetto, la conoscenza e l'amore sono in lui essenzialmente fecondi e da
-questa fecondità sgorga il mistero della sua vita intima, il
-mistero trinitario. Il Padre da tutta l'eternità conosce perfettamente se stesso e, conoscendosi, genera il Verbo, Idea
-sostanziale in cui il Padre esprime ed a cui comunica tutta
-la sua essenza, divinità e bontà infinita. Il Verbo è così
-«il riflesso della gloria e l'impronta della sostanza» del
-Padre (Ebr. 1, 3); ma riflesso e impronta sostanziale, poichè ha in sè la stessa natura e le stesse perfezioni del Padre. Da tutta l'eternità il Padre ed il Figlio si contemplano
-a vicenda e si amano infinitamente a motivo dell'infinita
-indivisibile perfezione che entrambi possiedono; amandosi,
-sono attratti l'un l'altro e si donano l'un l'altro riversando
-tutta la loro natura ed essenza divina in una terza Persona,
-lo Spirito Santo, che è il termine, il pegno, il dono sostanziale del loro mutuo amore. Così la medesima natura e
-vita divina circola dal Padre al Figlio, e dal Figlio e dal
-Padre si riversa nello Spirito Santo. In tal modo la Trinità ci appare come il mistero della vita intima di Dio,
-mistero che sgorga da quelle operazioni perfettissime di
-conoscenza e di amore con cui Egli conosce ed ama se
-stesso.
-
-Il mistero trinitario, più di ogni altro, ci mostra che il
-nostro Dio è il Dio vivente, che la sua vita è essenzialmente feconda, così feconda che il Padre può comunicare
-al Figlio tutta la sua natura ed essenza divina, e il Padre ed il Figlio possono comunicarla allo Spirito, senza
-rimanerne spogli, ma possedendola tutti e tre con la
-stessa perfezione infinita. La Trinità, più di ogni altro
-mistero, ci rivela la perfezione della bontà di Dio, ossia
-ci dice che Dio è buono non solo perchè è il bene infinito
-ma anche perchè comunica tutto questo suo bene: dal Padre al Figlio, dal Padre e dal Figlio allo Spirito Santo.
-Mentre nelle opere che compie fuori di sè Dio effonde
-solo parzialmente il suo bene, nel seno della Trinità lo
-comunica integralmente, necessariamente, sì che la sua
-vita intima consiste appunto in questa eterna, necessaria,
-assoluta comunicazione di tutto il suo bene, di tutto il suo
-essere. Il mistero trinitario ci fa così intuire che in Dio vi
-è un oceano sconfinato e inesauribile di bontà, di amore,
-di fecondità, di vita; intuizione preziosa perchè, più delle
-altre, capace di sviluppare in noi il senso dell'infinita grandezza di Dio.
+**2** — Il concetto di riparazione richiama quello di «vittima riparatrice», concetto ben noto ai devoti del Sacro Cuore e riconosciuto ufficialmente dalla Chiesa, mediante l'Enciclica di Pio XI sulla riparazione. Il venerando documento spiega che cosa deve fare l'anima che intende offrirsi come vittima: «dovrà senza dubbio non solo abborrire ogni peccato come sommo male e fuggirlo, ma offrirsi tutta alla volontà di Dio e adoperarsi a risarcire l'onore leso della divina Maestà con l'assidua preghiera, con l'uso volontario di penitenze e con la paziente sofferenza di quelle prove che ne incolgono; infine, con la vita tutta vissuta secondo questo spirito di riparazione» *(Miserent. Red.)*. Siamo ben lontani da quel concetto fantastico di vittima per cui, sotto il pretesto di doversi offrire ad immolazioni straordinarie, le anime evadono dalla realtà della vita quotidiana e s'illudono di essere capaci di chissà quali sofferenze, mentre, di fatto, cercano di sfuggire i sacrifici di ogni giorno. Il concetto di vittima riparatrice offertoci dalla dottrina della Chiesa è, invece, qualche cosa di molto serio, concreto, realistico. L'anima vittima deve riparare il peccato, e lo riparerà facendo il contrario di ciò che è il peccato. Il peccato è atto di ribellione a Dio ed alla sua volontà manifestata nella legge e nelle disposizioni della divina Provvidenza. Perciò, il contrario del peccato sarà aderire totalmente alla volontà divina abbracciandola con tutto il cuore ed in tutte le sue manifestazioni, malgrado le ripugnanze che si possono sentire. Ecco, quindi, il programma dell'anima vittima: non solo evitare il peccato, anche nelle sue forme più lievi, ma andare talmente incontro alla volontà di Dio che Egli possa realmente fare di lei tutto ciò che vuole. Aggiungerà poi preghiere e penitenze volontarie, ma queste avranno valore solo nella misura in cui partiranno da un cuore totalmente arreso alla volontà divina. E notiamo che la prima penitenza segnalata anche dall'Enciclica — è sempre «la paziente sofferenza» delle prove della vita.
 
 ### Colloquio
 
-« Incomprensibile Dio, eterna è la tua grandezza, ineffabile è la tua bontà. Vedo, e nel vedere mi compiaccio,
-le tre Persone divine fluire l'una nell'altra in modo indicibile ed imperserutabile. Il Padre fluisce nel Figlio, il
-Figlio fluisce nel Padre; il Padre ed il Figlio fluiscono nello
-Spirito Santo. Dio eterno, sei indicibilmente buono, Tu
-che per bontà comunichi alla creatura, che conosce il suo
-non essere, qualche cognizione del tuo essere eterno; ma,
-benchè questa comunicazione sia ammirabile, si può dire
-con pura verità che è un puro niente in confronto di quello
-che in realtà passa fra te e la creatura» (cfr. S. M. Maddalena de' Pazzi).
+«O Dio, perché non posso lavare con le mie lacrime e col mio sangue tutti quei luoghi ove è stato vilipeso il tuo Cuore? Perché non mi è permesso di riparare tanti sacrilegi e tante profanazioni? Perché non mi concedi per un solo momento, di essere padrona del cuore di tutti gli uomini, per risarcire, col sacrificio che te ne farci, la dimenticanza e l'insensatezza di tutti coloro che non hanno voluto conoscerti o che, pur conoscendoti, tanto poco ti hanno amato? Ma, Salvatore adorato, quel che mi copre di confusione e che maggiormente mi addolora è che io stessa sono stata una di questi ingrati. Tu, mio Dio, che vedi il fondo del mio cuore, guarda il dolore che soffro per le mie ingratitudini e per vederti trattato tanto indegnamente. Eccomi dunque, o Signore, col cuore spezzato dal dolore, umiliato, proteso, pronto a ricevere dalla tua mano tutto ciò che ti piacerà esigere da me in riparazione di tanti oltraggi» (S. Margherita M. Alacoque).
 
-«O Sommo ed eterno Bene, chi ha mosso te, Dio infinito, ad illuminare me, tua creatura finita, col lume della
-tua verità? Tu stesso, fuoco d'amore, ne sei la causa. Poi
-chè sempre l'amore è quello che ti ha costretto e ti costringe a farci misericordia, donando smisurate ed infinite
-grazie alle creature. O bontà sopra ogni bontà! Tu solo
-sei Colui che è sommamente buono! Tu ci donasti il Verbo, Unigenito tuo Figliuolo, affinchè venisse a conversare
-con noi che siamo fango e pieni di tenebre. Qual'è la
-causa di questo dono? L'amore, perchè ci amasti prima che
-noi fossimo.
+«Sì, mio Dio... Tu sai che altro non bramo che di essere una vittima del tuo Sacro Cuore, consumata tutta 'in olocausto col fuoco del tuo santo amore, e perciò il tuo Cuore sarà l'altare dove si deve compiere questa consumazione di me in te, mio caro Sposo, e Tu devi essere il Sacerdote che consumar questa vittima con gli ardori del Santo Cuor tuo. Ma, mio Dio, quanto mi confondo vedendo quanto sia rea questa vittima e indegna che Tu ne accetti il sacrificio, ma confido che tutto resterà incenerito in quel divin Fuoco.
 
-«O Trinità eterna! e chi potrà raggiungere l'altezza
-tua e renderti grazie di tanto smisurato dono e di tanti
-larghi benefici che mi hai elargiti e della dottrina della
-verità che mi hai insegnata? Rispondi Tu, Signore! Tu
-hai dato e Tu stesso rispondi e soddisfa, infondendo un
-lume di grazia in me, affinchè con questo stesso lume io
-ti ringrazi» (S. Caterina da Siena).
+«Per l'offerta che ho fatto di tutta me stessa a te, intendo di averti lasciato il mio libero arbitrio, poiché solo Tu, da qui in avanti, devi essere il dominatore del mio cuore, e perciò la sola tua volontà deve essere la regola delle mie azioni. E così disponi sempre di me come più ti aggrada ch'è di tutto son contenta... poiché desidero di amarti con amore paziente, con amore morto, cioè a dire tutto abbandonato in te e con amore operativo; insomma con amore sodo e senza divisione e, quello che più importa, con amore perseverante» (T.M. *Sp.* pp. 324, 325).

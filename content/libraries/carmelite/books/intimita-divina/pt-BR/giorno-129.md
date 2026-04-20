@@ -1,119 +1,20 @@
-## 129 — AS SETE DORES DE MARIA
-*sexta-feira da semana da Paixão*
+## 119 — VEM E SEGUE-ME
 
 ### Presença de Deus
 
-Acolhe-me, ó Maria, junto à cruz e faze-me participar contigo da Paixão de Jesus.
+— Ó Jesus, que por nós te fizeste obediente até a morte de cruz, ensina-me a seguir teu exemplo.
 
 ### Meditação
 
-1 — A primeira explícita declaração da parte que
-Maria SS.ma teria na Paixão de Jesus encontramo-la na profecia do velho Simeão: "uma espada
-traspassará tua alma" (Lc. 2, 35); profecia que encontra sua
-plena realização no Calvário. "Sim, ó Mãe bendita" -
-comenta S. Bernardo - "uma espada verdadeiramente traspassou tua alma. Porque só passando por ela pôde
-penetrar a carne do teu Filho. E certamente, depois
-que teu Jesus expirou, a lança cruel,
-abrindo-lhe o lado, não atingiu a alma dele, mas
-traspassou tua alma. De fato, a alma dele já não estava
-ali, mas a tua não podia separar-se" (BR.). Bela
-interpretação que nos faz entender como Maria, enquanto
-Mãe, foi intimamente associada à Paixão do Filho.
-
-O Evangelho não nos diz que Maria tenha estado presente nos
-momentos gloriosos da vida de Jesus, mas nos diz, ao contrário,
-que esteve presente no Calvário: "Junto à cruz de Jesus
-estavam sua Mãe e... Maria de Cléofas e Maria Madalena" (Jo. 19, 25). Ninguém pôde impedi-la de
-correr até lá, onde seu Filho devia ser executado; e
-seu amor lhe dá coragem de "estar" ali, de pé,
-junto à cruz, para assistir à dolorosíssima agonia e
-à morte d'Aquele que amava acima de todas as coisas, pois
-era ao mesmo tempo seu Filho e seu Deus. Como um dia
-aceitara tornar-se sua Mãe, agora aceita vê-lo
-martirizado da cabeça aos pés, aceita vê-lo arrebatado de si por uma morte cruel.
-
-E não apenas aceita, mas oferece. Jesus fora espontaneamente à Paixão, e Maria oferece voluntariamente o
-Filho dileto para a glória da SS.ma Trindade e para a
-salvação dos homens. O sacrifício de Jesus torna-se, por isso,
-o sacrifício de Maria, não só porque Maria o oferece junto com ele e oferece nele o filho que lhe pertence,
-mas também porque com essa oferta cumpre o mais profundo holocausto de si mesma, sendo Jesus o centro de
-seus afetos, de toda a sua vida. Deus, que lhe havia dado aquele Tesouro divino, no Calvário o reclama, e Maria lho
-oferece com todo o afeto do seu coração, com a mais inteira
-adesão à vontade divina.
+1 — Ao jovem que aspirava à perfeição, Jesus disse: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres [e este é o conselho da pobreza evangélica] ... depois vem e segue-me" (Mt. 19). Isto, ensina S. Tomás, é o conselho da obediência voluntária. Com efeito, seguir Jesus significa imitar suas virtudes, e entre elas está certamente em primeiro plano a obediência. Jesus vem à terra para cumprir a vontade de seu Pai: "eis que venho para cumprir, ó Deus, tua vontade" (Hb. 10, 7), e muitas vezes durante sua vida o atesta expressamente: "Desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou" (Jo. 6, 38); aliás declara que seu alimento, isto é, o sustento e o fulcro de sua vida, está justamente em cumprir a vontade de seu Pai (cf. Jo. 4, 34). Mas também Jesus quis concretizar sua dependência do Pai celeste, submetendo-se àquelas criaturas que, segundo a ordem natural, tinham sobre Ele, enquanto homem, alguma autoridade. Foi assim que por trinta anos viveu submetido em tudo a Maria e a José, reconhecendo, na autoridade deles, a autoridade do Pai. "Estava-lhes sujeito" (Lc. 2, 51), diz o Evangelho, resumindo nessas breves palavras o longo período da vida privada do Salvador. Durante sua vida pública, e sobretudo durante sua Paixão, deu sempre exemplo de obediência à autoridade constituída, tanto religiosa quanto civil, submetendo-se até aos juízes e aos carrascos, fazendo-se "obediente até a morte, e morte de cruz" (Fl. 2, 8). Vindo ao mundo por obediência, Jesus quis viver na obediência e por obediência abraçou a morte, repetindo no horto das oliveiras: "Pai... faça-se não a minha, mas a tua vontade" (Lc. 22, 42). Seguir Jesus na vida perfeita significa, portanto, abraçar voluntariamente uma vida de total dependência; e S. Tomás, baseando-se justamente neste argumento, conclui que a obediência pertence à essência do estado de perfeição.
 
 
-2 — A liturgia do dia põe nos lábios da
-Madona dolorosa palavras comoventes: "Ó vós
-que passais pelo caminho, detende-vos e considerai se há
-dor semelhante à minha dor" (MR.). Sim, sua dor é
-incomensurável, mas seu amor é ainda maior,
-tão grande que pode conter todo esse mar de dor;
-de nenhuma criatura como de Maria se pode dizer que seu
-amor é mais forte que a morte e, de fato, tornou-a capaz
-de suportar a morte amarguíssima de Jesus.
+2 — Seguir Jesus significa também pôr plenamente em prática seu convite: "se alguém quer vir após mim, negue-se a si mesmo" (Mt. 16, 24). Ora, a maior renúncia que o homem pode fazer é precisamente a de sua liberdade, sujeitando-se em tudo à obediência. Com efeito, "nada é mais caro ao homem que a liberdade da própria vontade, porque por meio dela ele é senhor também das outras coisas, pode usar e gozar das outras coisas e é senhor também de seus atos. E assim como o homem, abandonando as riquezas ou as pessoas conjuntas, as renega, assim deixando a liberdade da própria vontade, pela qual é senhor de si, vem a renegar-se a si mesmo" (S. Tomás - A perfeição da vida espiritual). Por esse motivo o voto de obediência é o sacrifício maior e mais meritório que o homem possa oferecer a Deus.
 
-"Quem poderia ficar impassível ao contemplar
-a Mãe de Cristo sofrendo com o Filho?" canta o Stabat
-Mater, e logo acrescenta: "Ó Mãe... faze-me sentir a
-veemência da tua dor, para que eu chore contigo.
-Faze que eu traga no meu coração as chagas de Cristo; faze-me partícipe
-de sua Paixão; faze que eu me inebrie da Cruz e
-do Sangue do teu Filho". Seguindo o convite da Igreja
-contemplemos, compadeçamo-nos das dores de Maria;
-peçamos-lhe a grande graça de participar com ela da Paixão do
-seu Jesus. E recordemos que esta participação não
-deve permanecer no campo do sentimento - ainda que de
-sentimentos bons e santos - mas deve conduzir-nos ao verdadeiro com-
-padecer, isto é, ao sofrer junto com Jesus e com Maria.
-Os sofrimentos que encontramos na nossa vida nos são dados
-justamente para isso.
-
-A visão de Nossa Senhora aos pés da cruz nos torna
-menos dura e menos amarga a lição da cruz, o exemplo
-materno dela nos encoraja ao sofrer, torna-nos mais suave
-o caminho do Calvário. Vamos, pois, com Maria ao encontro
-de Jesus no Calvário, vamos com ela ao encontro da
-cruz e, sustentados por ela, abracemo-la voluntariamente
-para oferecê-la junto com a do seu Filho.
+Aqui está precisamente o sacrifício da obediência: deixar-se governar por outro na própria vida. Todo homem é livre, recebeu de Deus a liberdade e tem, portanto, o direito de governar-se segundo seu juízo e suas vistas; ora, quem promete obediência renuncia livremente a esse direito, fazendo dele um livre holocausto para o serviço, para o culto, para a glória de Deus. Como o holocausto do povo eleito era a vítima que se consumia toda em honra de Deus, sem que dela fosse poupada parte alguma, assim o voto de obediência imola todo o homem em honra de Deus. Desse modo, a obediência vem a sacrificar até o fundo nossa personalidade - ou, mais precisamente, sacrifica tudo aquilo que nela há de egoístico, tudo aquilo que é apego às vistas, às inclinações, às exigências pessoais; e, nesse sentido, nada mais do que a obediência nos ajuda a libertar-nos do amor-próprio, a despojar-nos de nós mesmos. Mas, ao mesmo tempo, bem longe de destruir a personalidade, a obediência a emprega do modo mais belo, maior e mais glorioso, isto é, no renunciar-se para aderir totalmente a Deus, à santa e santificante vontade de Deus.
 
 ### Colóquio
 
-"Ó Maria, santa Mãe de Jesus crucificado, dize-me
-alguma coisa de sua Paixão, porque, entre tantos que
-estiveram presentes, Tu mais que todos a sentiste e viste,
-tendo-o contemplado com os olhos do corpo e da mente,
-e tendo-a considerado com toda atenção, pois Tu grandemente o amavas" (B. Ângela de Foligno).
+"Ó Jesus, Tu que foste obediente até a morte, não podes certamente querer que uma alma tua amante vá por um caminho diverso do teu" (T.G. Fd. 5, 3). E eis que então eu me decido a seguir-te, a trilhar atrás de ti o caminho da santa obediência, caminho escavado na rocha firme dos teus exemplos, da tua humildíssima submissão, dos teus inefáveis sujeitamentos. "Tu, Deus, a quem estão submetidos os Anjos, a quem obedecem os Principados e as Potestades, estavas submetido a Maria e não somente a Maria, mas também a José por causa de Maria. Que um Deus obedeça às suas criaturas é uma humildade sem exemplo. Ó Senhor, Tu te abaixas e eu me exaltarei? Alma minha, se desdenhas imitar o exemplo de um homem, certamente não será indigno de ti seguir teu Criador. Se talvez não podes segui-lo por onde quer que vá, digna-te ao menos segui-lo até onde ele quis esconder-se por ti" (cf. S. Bernardo).
 
-"Ó Maria, faze-me estar contigo ao pé da cruz;
-faze-me contemplar contigo a Paixão do teu Jesus; faze-me participar da tua dor, do teu pranto. Ó Santa
-Mãe, imprime profundamente no meu coração as chagas
-do Crucificado, faze-me sofrer com ele, associa-me ao
-seu e ao teu padecer" (cf. Stabat Mater).
-
-"Ó Rainha das virgens, Tu és também Rainha dos mártires.
-Mas a ferida do punhal abre-se no teu coração, porque
-em ti tudo acontece por dentro...
-
-"Oh! como és bela quando te contemplo durante teu
-longo martírio, tão serena, revestida de uma majestade que
-emana força e doçura ao mesmo tempo! Tinhas aprendido do
-próprio Verbo como devem sofrer aqueles que o Pai
-escolheu para vítimas, que decidiu associar à grande
-obra da Redenção, aqueles que 'conheceu e predestinou
-a serem conformes ao seu Cristo', crucificado por
-amor.
-
-"Tu estás ali, ó Maria, ao pé da cruz, ereta, na
-força e na coragem; e o Mestre me diz: 'Eis a
-tua Mãe'. Dá-te a mim por mãe! Agora que Ele voltou ao Pai, que me pôs no lugar dele na cruz,
-para que eu sofra em mim 'o que falta à sua Paixão
-por seu corpo, que é a Igreja', Tu, ó Maria, estás ainda
-ali para ensinar-me a sofrer como ele, para repetir-me,
-para fazer-me compreender o último canto de sua alma,
-aquele canto que Tu só, a Mãe, pudeste entender" (E.T.
-II 15).
-
-Ó Mãe dulcíssima, para que meu desejo de sofrer
-não seja vão, ajuda-me a reconhecer em cada sofrimento
-cotidiano a cruz do teu Jesus e a abraçá-la com
-amor.
+Sim, ó Jesus, concede-me seguir-te no caminho da obediência, concede-me um profundo espírito de fé para poder sempre reconhecer na voz da obediência tua voz, tua vontade. "Ensina-me, ó Senhor, a abandonar-me confiadamente à tua palavra: 'Quem vos ouve, a mim ouve.' Ensina-me a esquecer toda vontade minha, sacrifício por ti muito apreciado, porque te constitui senhor daquele livre-arbítrio que Tu mesmo me doaste. É este o dom que desejo oferecer-te em toda a sua plenitude, sem reserva alguma. Faze que eu seja fiel a tal propósito e então, embora entre as repugnâncias da natureza e presa de mil lutas, chegarei a conformar-me àqueles que me comandam; enfim, com pena ou sem pena, acabarei por submeter-me. Sei bem, ó Senhor, que Tu não deixarás de ajudar-me; e, sujeitando eu por amor teu minha razão e vontade, me darás modo de tornar-me senhor delas. Uma vez senhor de mim mesmo, poderei consagrar-me a ti com perfeição, oferecendo-te uma vontade pura, para que Tu a unas à tua" (cf. T.G. Fd. 5, 12).

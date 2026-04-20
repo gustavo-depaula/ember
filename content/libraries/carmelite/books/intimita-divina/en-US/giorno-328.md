@@ -1,53 +1,46 @@
-## 328 — PERFECT HUMANITY AND APOSTOLIC CHARITY
+## 328 — THE DIVINE INVITATION
+*Nineteenth Sunday after Pentecost*
 
 ### Presence of God
 
-Soften my heart, Lord, with the flame of your charity.
+Grant me, O God, supreme grace of corresponding generously to all your invitations.
 
 ### Meditation
 
-The true foundation of apostolate is apostolic charity, that is, love of God and neighbor grown until it becomes zeal for souls. But beside this, which is the essential aspect of the charity that must animate the apostle, there are secondary aspects, almost human ones, which nevertheless have great importance in enabling the apostle to reach souls.
+1. — Today's Gospel (Mt. 22:1-14) outlines painful history — sadly always current — of human ingratitude that rejects divine mercy, heedless of its gifts and invitations.
 
-We mean all those qualities of affability, refinement, courtesy, sociability, sincerity, and understanding that are in themselves human qualities but, elevated by grace and used for apostolic ends, acquire supernatural value.
+"The kingdom of heaven is likened to a king who made a marriage for his son; and he sent his servants to call those invited, and they would not come." The king is God the Father, the son is eternal Word who, by becoming incarnate, espoused human nature to redeem and sanctify it.
 
-In substance, these are the qualities that St. Paul attributes to love: «Charity is patient, is kind... is not provoked to anger, thinketh no evil... rejoiceth with the truth» (1 Cor 13:4-6).
+God invites all men to great banquet of these divine nuptials, in which their salvation consists. But they, drowned in materiality of earthly things, reject invitation and ambassadors. "Jerusalem, Jerusalem, thou that killest the prophets and stonest them that are sent unto thee" (Mt. 23:37), Son of God will one day lament, denouncing to world not only obstinate resistance of chosen people, but also that of all souls that with such obstinacy and ingratitude reject his love and grace.
 
-It is not enough to love souls in the secret of our heart, working and sacrificing for them. This love must also appear externally through a kindly and pleasant manner, so that those who approach us may feel loved and thus encouraged to confidence and trust.
+The prophets, Baptist, Apostles are precisely the "servants," messengers sent by God to call men to banquet of Redemption, but all were taken and killed: "And taking his servants, they treated them contumeliously and put them to death," says Gospel.
 
-Certain harsh, impatient ways are the reason why many withdraw disgusted and perhaps even scandalized. The apostle may indeed have a heart of gold, rich in charity and zeal; but if he keeps a rough and prickly shell, he blocks for himself the way to souls and notably reduces the good he could do.
+Today's parable goes no further, but unfortunately human ingratitude went much further: not only servants, not only messengers were killed, but Son of God Himself. And yet God's mercy is so great it does not yield and continues to invite to his feast; indeed in this feast He offers as food very immaculate flesh of his divine Son whom men killed.
 
-The Saints, though highly supernatural, never neglected these more human aspects of charity. St. Francis de Sales continually taught that, as more flies are caught with a drop of honey than with a barrel of vinegar, so more hearts are won by a crumb of sweetness than by many rough manners.
+Banquet is prepared. Jesus, divine Lamb, has been immolated for redemption of humanity; and if many have not responded to invitation, others will be invited: "The marriage indeed is ready, but they that were invited were not worthy. Go ye therefore into highways, and as many as you shall find, call to the marriage."
 
-And St. Teresa of Jesus, who wanted her daughters united by the bond of pure supernatural charity, did not think recommendations like these superfluous: «The holier you are, the more affable you must show yourselves with your sisters, and never avoid them, however tedious and troublesome their conversations may be. If you wish to win their love and do them good, you must guard against any roughness» (*Way of Perfection*).
+We too have been invited. How have we responded? Have we not sometimes shown greater interest in earthly affairs than in things of God? Have we not resembled those men in parable who, "neglecting it, went their ways, one to his farm and another to his merchandise"?
 
-Very useful counsel for anyone who wants to win souls to God.
+2. — Today's parable shadows first invitation to Christian life, an invitation refused by Jewish people and then addressed to all nations. But in it we can also see invitation to follow particular vocation: vocation to priesthood, consecration to God in cloister or in world, apostolate, particular mission.
 
-For a practical understanding of these aspects of apostolic charity, we can profitably meditate on the following exhortation addressed by Pius XII to a group of religious: «Before the young religious [and we could say: before the apostle] can be a shining example, let him study to become a perfect man in ordinary things.
+To correspond to vocation, some generic adhesion is not enough. A sincere and deep adhesion is needed, engaging whole soul. Parable speaks of man who did not refuse invitation, but corresponded unworthily by presenting himself at banquet without wedding garment.
 
-«Let him therefore learn—and show by his conduct—what decorum befits human nature and society; let him regulate his countenance and behavior with dignity; let him be faithful and truthful, keep his promises, govern his acts and words, respect all, not violate others’ rights, bear wrongs, and be sociable....
+He is image of those who adhere materially to Lord's call without caring to adhere in spirit and in works, without caring to live worthily of their vocation. Such souls put their eternal salvation in grave danger, because one does not mock God. He cannot be deceived by appearances. No external uniforms or signs can hide from Him true state of soul.
 
-«As you well know, the so-called natural virtues are raised to the dignity of supernatural life especially when man practices and cultivates them precisely in order to become a good Christian or a worthy herald and minister of Christ» (September 1951).
+Far better than king of parable, He discerns those not clothed in wedding garment, that is, garment of grace and virtue corresponding to vocation received. Sooner or later day will come when for each of them He will pronounce terrible words: "Bind his hands and feet, and cast him into exterior darkness."
 
-One cannot therefore think there is antagonism between fullness of supernatural life, which must lead to union with God, and fullness of humanity, which comes from the right development of natural virtues. Grace does not destroy nature; it elevates it.
+But even without reaching such extremes, one can remain far below full correspondence to divine call. In this regard it helps to remember that problem of corresponding to vocation is not solved once for all day one embraces particular state of life. It is problem of every day, because every day vocation requires new response, new adhesion proportioned to circumstances and grace of moment.
 
-The struggle against nature, for the triumph of grace, aims to mortify and destroy only what in nature is defective, while good qualities and strengths are elevated and carried to the supernatural plane.
+Vocation reaches full realization precisely through continual fidelity to divine invitations, which, succeeding one another unceasingly, open ever new horizons to attentive soul, present new duties, new aspects of generosity, new shades of perfection and self-giving.
 
-Grace, and thus Christian life, highly respects and makes use of all human values. How could one think that the supernatural destroys the natural, when the latter no less than the former is God’s work, fruit of His infinite wisdom and goodness?
-
-In raising man to the supernatural plane, God did not intend to destroy what He had already created in him, but only to sublimate and elevate it.
-
-In the light of these principles we understand why it has been said that the apostle, like the priest, should be a «perfect gentleman» (Newman); why saints are also the most perfect men, in the sense that they bring natural virtues to their greatest perfection and sublimation; why saints, even loving creatures with purely supernatural love, are more capable than others of surrounding them with kindness, delicacy, and understanding, and so winning their hearts more easily.
-
-Moreover, it is easy to see that perfect courtesy, always equal to itself—even with the troublesome, even in moments of fatigue—can derive only from deep supernatural virtue, from delicate charity.
+Parable closes with grave sentence: "Many are called, but few are chosen." Why are chosen few? Because few know how to correspond day by day to grace of vocation. Few know how to accept all consequences and demands of divine call. Few know how always to say yes to invitations of grace.
 
 ### Colloquy
 
-«O Lord, if I should speak with the tongues of men and angels and have not love, I am only sounding brass or a clanging cymbal. And if I had prophecy, and knew all mysteries and all knowledge, and if I had all faith so as to move mountains, and then lacked love, I would be nothing.
+"O Lord, thus You speak to my soul: 'Why have you withdrawn from Me with vain preoccupations? Why did you not hasten to prepare adorned garment for wedding? I, O soul, underwent death to take you as spouse. I made Myself man for you. To free your life from corruption, I set your salvation before all my works. I prepared bridal chamber for you in heaven and commanded angels to serve you there. And will you despise Me, heavenly Spouse? And whom will you prefer to Me, who by my mercies saved human race? What father can give you life as I? What father and what spouse can love you as I?'
 
-«And if I should distribute all I have to the poor, and deliver my body to be burned, and had not love, it would profit me nothing.
+"My God, what shall I answer You?
 
-«Grant me, therefore, my God, love: love that is patient and kind, that does not envy, that is not puffed up, not ambitious, not selfish, is not provoked, thinks no evil, but rejoices with the truth; bears all things, believes all things, hopes all things, endures all things» (cf. 1 Cor 13:1-7).
+"Forgive me, save me, O patient and long-suffering Lord! Save me, Son of God, O Christ, who alone are without sin! Grant that I have nothing else in heart except desire to respond to your invitations, and that your grace cooperating with me, I always do your will and am ready to execute your commands benevolently, so that with talents received from You I may trade and acquire goods of your kingdom. Grant that I may praise You with confidence and with affection of heart say to You when You come: I am blessed, for You came to clothe me with worthy wedding garment that I acquire by your grace.
 
-«O Lord, grant that by giving myself to your service, tenderness toward my neighbor may not diminish in my heart, but increase, becoming ever purer and more supernatural. Teach me to love with this tenderness all who approach me. Make me gentle, affable, accommodating—not to draw creatures’ goodwill to myself, but to win their hearts to You.
-
-«O Jesus, if the apostle must be your copy not only in broad lines but also in the details, how can I be so if I do not seek to imitate the gentleness of your Heart? O Jesus, meek and humble of heart, make my heart like unto yours.»
+"I will light lamp, O Christ, given me by your grace and goodness. I will come forth to meet You with gladness, blessing You, praising You, glorifying You, O immortal Bridegroom" (St. Ephrem).

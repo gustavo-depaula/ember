@@ -1,100 +1,19 @@
-## 172 — LA FEDE DI MARIA
+## III — Sposa dello Spirito Santo
 
-### Presenza di Dio
-
-O Madre mia, insegnami a credere con piena fermezza, insegnami a fidarmi totalmente di Dio.
+**Presenza di Dio.** — *O Maria, sposa dello Spirito Santo, rendimi docile alle sue divine mozioni.*
 
 ### Meditazione
 
-1. — La Chiesa, facendo sue le parole di S. Elisabetta,
-rivolge a Maria questa bellissima lode: «Te beata, che
-hai creduto; perchè si compiranno le cose dette a te dal
-Agno» (Lc. 1, 45). Grandi cose infatti si compirono in
+**1** — Maria SS.ma, dice S. Agostino, «fu l'unica che meritò di esser chiamata madre e sposa» di Dio. E fu madre di Dio, perché fu sposa dello Spirito Santo: «Lo Spirito Santo scenderà in te e la potenza dell'Altissimo ti coprirà con la sua ombra» *(Le.* 1, 35), le disse l'Angelo spiegandole il modo misterioso e divino per cui diverrrà madre e madre del Figlio di Dio. In quel momento lo Spirito Santo, che già possedeva l'anima di Maria fin dal primo istante della sua immacolata concezione, sopravvenne in lei con una pienezza tanto singolare sì da formare in lei il Corpo SS.mo di Gesù. Giustamente, perciò, Maria merita il nome di sposa dello Spirito Santo: Maria è possessione sua, è suo sacrario, suo tempio.
 
-laria ed Ella ebbe il grande merito di crederle. Sulla
+A lei il divino Paraclito può ben rivolgere quelle parole della Cantica: «Un giardino chiuso sei tu, sorella mia sposa, un giardino chiuso, una fonte sigillata» *(4,* 12). Un giardino chiuso che mai fu violato neppure per un istante dall'ombra del peccato, che mai fu soggetto ai venti delle passioni sregolate, che mai fu occupato da alcun affetto di creatura. «La gloriosissima Nostra Signora — dichiara S. Giovanni della Croce — non ebbe mai impressa nell'anima sua alcuna forma di creatura che la muovesse ad agire, ma sempre la sua mozione fu dallo Spirito Santo» (S. III, 2, 11). Piena di grazia fin dalla nascita, Maria fu sempre la sposa fedele dello Spirito Santo, attenta e docile ad ogni suo impulso, ad ogni sua ispirazione.
 
-ola di Dio, annunziatale dall’Angelo, credette che sarebbe
-iventata mamma senza perdere la verginità; credette, lei
-tanto umile, che sarebbe diventata davvero la madre di
-Dio, che il frutto del suo seno sarebbe stato realmente il
-Figlio dell'Altissimo. Aderì con piena fede a quanto le
-veniva rivelato senza per nulla esitare di fronte ad un
-iano che veniva a sconvolgere tutto l'ordine naturale
-lle cose: una madre vergine, una creatura madre del
-Creatore. Credette quando l'Angelo le parlò, ma continuò
-‘a credere anche quando l'Angelo la lasciò sola e lei si trovò
-nelle umili condizioni di una donna qualunque che sta
-per diventar madre. «La Vergine — dice S. Bernardo —
-così piccola ai suoi occhi, non fu meno magnanima nella sua
-fede nella promessa di Dio; lei che si stimava nient'altro che
-una povera ancella, non ha mai avuto il minimo dubbio sulla
-Sua vocazione a questo incomprensibile mistero, a questo mirabile scambio, a questo inscrutabile sacramento, e credette
-pre che sarebbe diventata la vera madre dil’Uomo-
-10 >».
+Se gli altissimi privilegi di Maria sono riservati a lei sola, possiamo però imitare le sue disposizioni interiori, procurando che, come il suo, così il nostro cuore sia sempre pronto e docile all'azione dello Spirito Santo.
 
-La Madonna c'insegna a credere nella nostra vocazione
-alla santità, all'intimità divina; vi abbiamo creduto quand:
-Dio ce l'ha rivelata nella chiarezza della luce interiore
-confermata dalla parola del suo Ministro; ma vi dobbiamo
-
-credere anche quando ci troviamo soli, nelle oscurità, nelle
-difficoltà che tentano di travolgerci, di scoraggiarci. Dio
-è fedele, Dio non fa le cose a metà: Dio condurrà a termine l’opera sua in noi, purchè noi ci fidiamo totalmente
-di Lui.
-
-2. — Sarebbe molto lontano dal vero pensare che
-per la Madonna i Misteri divini fossero talmente svelati
-e la Divinità del suo Gesù le fosse talmente evidente da
-non avere più bisogno di credere. Eccettuata l’Annunciazione, ed i fatti che circondarono la nascita di Gesù; non
-troviamo nella sua vita straordinarie manifestazioni del
-soprannaturale. Ella vive di pura fede, proprio come
-noi, appoggiandosi sulla parola di Dio. Gli stessi misteri
-divini che si compiono in Lei e attorno a Lei rimangono
-abitualmente avvolti nel velo della fede, assumendo all'esterno l'andamento comune alle varie circostanze della
-vita. ordinaria, anzi, spesso si nascondono sotto aspetti
-molto oscuri e sconcertanti. Così, ad esempio, l'estrema
-povertà in cui nacque Gesù, la necessità di fuggire in
-esilio per salvare lui, Re del cielo, dalle furie di un re
-della terra, gli stenti per procurargli lo stretto necessario
-e, talvolta, perfino la mancanza di esso. Ma Maria non ha
-mai dubitato che quel Bambino debole ed impotente, bisognoso di cure materne e di difesa come ogni altro bambino,
-fosse il Figlio di Dio. Ha sempre creduto, anche quando
-non ha capito. Così fu ad esempio, di fronte all’improvvisa
-scomparsa di Gesù allorchè Egli, dodicenne, rimase nel
-tempio ad insaputa dei suoi. S. Luca nota che quando il
-Fanciullo ne spiegò il motivo su la missione affidatagli dal Padre Celeste, Maria e Giuseppe «non compresero
-ciò che aveva lor detto» (2, 50). Se Maria sapeva con
-certezza che Gesù era il Messia, non sapeva però in quale
-modo Egli avrebbe iuto la sua missione, quindi, per
-il momento, non intese la relazione fra il suo intrattenersi
-nel tempio e la volontà di Dio. Tuttavia non indagò di
-
-più: sapeva che Gesù era il suo Dio e ciò le bastava; era
-sicura, totalmente sicura di Lui.
-
-L'anima di fede non s'indugia ad esaminare la condotta di Dio e, pur non comprendendo, si butta a credere
-ed a seguire ciecamente le disposizioni della volontà divina. Talvolta nella nostra vita spirituale ci fermiamo perchè vogliamo troppo capire, troppo indagare i disegni di Bio
-sull’anima nostra; no, il Signore non ci chiede di capire,
-ma di credere con tutte le nostre forze.
+**2** — La piena docilità alla mozione dello Spirito Santo è proprio la caratteristica dello stato di unione con Dio. A questo stato, come insegna S. Giovanni della Croce, Maria SS.ma fu «innalzata fin dalla sua origine» (S. III, 2, 11); e ciò è evidente se si riflette che Maria, non solo fu creata in grazia, ma fin dalla sua nascita ebbe un grado di grazia assai superiore a quello che i più grandi santi raggiungono al termine della loro vita. Quindi quello stato di perfetta unione con Dio, che costituisce il nostro ideale e la meta di tutti i nostri sforzi, fu la porzione di Maria fin dall'inizio della sua vita; e, d'altra parte, Maria, con la sua libera corrispondenza e fedeltà alla grazia, non fece che progredire vertiginosamente in questo altissimo stato. Dopo Gesù, la Madonna è quindi il modello e la guida più sicura per coloro che aspirano all'unione con Dio; anzi, la sua condizione di semplice creatura la rende a noi più accessibile, più imitabile. Maria c'insegna che il grande segreto per giungere presto all'unione con Dio è il totale distacco dalle creature e, principalmente, da quella creatura che amiamo tanto e che è il nostro «io». Maria non vive che per Iddio: studiando la sua vita attraverso il Vangelo, mai la vediamo mossa da motivi egoistici, da interessi personali; una sola molla la spinge: la gloria di Dio, gli interessi di Gesù e delle anime. Nella sua condizione umile e nascosta, nel suo lavoro, nella sua povertà, negli stenti e nella sofferenza che dovette subire, mai un ritorno su di sé, mai un lamento, ma sempre avanti, totalmente dimentica del suo patire, totalmente protesa nell'adempimento della volontà divina. È lo Spirito Santo che la guida, che la sostiene, e il segreto di Maria sta in questo, lasciarsi in tutto reggere e muovere da Lui. Come per opera dello Spirito Santo la Vergine ha concepito il Figlio di Dio, così tutte le sue azioni sono concepite dietro la mozione del divino Spirito. È appunto in questo che noi dobbiamo imitare Maria: eliminare dalla nostra vita tutto ciò che è frutto del nostro egoismo, amor proprio, orgoglio, per concepire solo azioni mosse dalla grazia, dietro l'impulso dello Spirito Santo.
 
 ### Colloquio
 
-«O Maria, coprimi con la tua ombra ed io resterò
-calmo e fiducioso sotto le tue ali. Accompagnami nel mio
-cammino e conducimi per scorciatoie segrete. La sofferenza
-non mi risparmierà, ma Tu me ne OR affamato come
-di un alimento indispensabile. Oh, Maria, Maria! Il tuo
-nome è sulle mie labbra come un miele e un balsamo. Maria,
-Maria! Ave Maria! Chi può resisterti? Chi dunque si
-perderà con l'Ave Maria? Maria, Marial Tu la Madre dei
-iccoli, la salute dei deboli, la stella delle tempeste... O
+«O Maria, Tu sei santa di corpo e di spirito. In un modo tutto speciale Tu puoi dire: "La mia conversazione è nei cieli"» (cfr. *Fil.* 3, 20). Tu sei il giardino chiuso, la fonte sigillata, il tempio del Signore, il santuario dello Spirito Santo, Tu sei la Vergine prudente che non solo è fornita d'olio, ma che ne ha nascosto la pienezza nella sua lampada. O Maria, come hai potuto raggiungere la Maestà inaccessibile di Dio, se non bussando, chiedendo, cercando? Sì, Tu hai trovato quel che hai cercato e l'Angelo ti ha detto: "Hai trovato grazia presso Dio". Ma in qual modo Tu, già piena di grazia, trovi ancora grazia? Oh, sei veramente degna di trovare grazia Tu che non ti accontenti della tua pienezza, ma domandi una sovrabbondanza di grazia per la salute del mondo! "Lo Spirito Santo sopravverrà in te", ti ha detto l'Angelo, e questo prezioso balsamo si effonde su di te in tanta copia che da primo lo Spirito Santo te ridonda su tutta la terra... Se prima lo Spirito Santo era in te con la ricchezza della grazia, ora *sopravviene,* era in te con la grazia sovrabbondante della grazia quasi a significare la pienezza sovrabbondante della grazia che su te riversa. Se prima la grazia riempiva solo l'anima tua, ora invece pervade anche il tuo seno... la potenza divina ti rende feconda e Tu concepirai di Spirito Santo» (cfr. S. Bernardo).
 
-aria! Maria! Se sono senza aiuti, senza coraggio, senza
-
-consolazioni, corro a te e grido: Ave Maria! Tu sei il
-
-conforto degli schiavi, il coraggio dei piccoli, la potenza dei
-deboli, Ave Maria! Quando pronuncio il tuo nome tutto
-il mio cuore è infiammato, Ave Maria! Allegrezza degli
-Angeli. nutrimento delle anime, Ave Maria!» (cfr. Don
-Edoardo Poppe).
+O Maria, sposa fedelissima dello Spirito Santo, guarda alla mia miseria, alla mia debolezza. Dio ha posto in te la pienezza di tutti i suoi doni per farmi comprendere che ogni speranza, ogni grazia, ogni salvezza viene da te! Tu vedi la durezza del mio cuore. Tu vedi la cecità della mia mente, aiutami dunque, o Vergine fedele, a vincere ogni resistenza del mio orgoglio, del mio egoismo, della mia codardia, affinché l'anima mia si apra totalmente all'invasione della grazia, si abbandoni docilmente all'azione dello Spirito Santo, ne segua con prontezza gli impulsi, le ispirazioni, gli inviti.

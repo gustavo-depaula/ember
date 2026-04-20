@@ -1,120 +1,23 @@
-## 133 — L'AGNELLO MANSUETO
-*martedì santo*
+## 57 — IL TRIONFO DI GESÙ
 
-### Presenza di Dio
+*domenica delle Palme*
 
-O Gesù, concedimi la grazia di penetrare l'abisso di dolore scavato dal peccato nel tuo Cuore mansuetissimo.
+**Presenza di Dio.** — *O Gesù, voglio seguirti nel tuo trionfo per seguirti poi fino al Calvario.*
 
 ### Meditazione
 
-sr Nell’Epistola della Messa del giorno Geremia (11,
-18-20) ci parla in figura del Salvatore sofferente: « io sono
+**1** — La settimana santa si apre col ricordo dell'ingresso trionfale del Signore in Gerusalemme, avvenuto appunto la domenica precedente la sua Passione. Gesù, che si era sempre opposto ad ogni manifestazione pubblica, e che era fuggito quando il popolo voleva farlo re (cfr. *Gv.* 6, 15), oggi si lascia portare in trionfo. Solo ora, che sta per andare alla morte, accetta di essere pubblicamente acclamato quale Messia, perchè proprio morendo sulla croce sarà, nel modo più pieno, il Messia, il Redentore, il Re, il Vincitore. Accetta di essere riconosciuto Re, ma un Re che regnerà dalla croce, che trionferà e vincerà mediante la morte di croce. La stessa folla esultante che oggi lo acclama, tra pochi giorni, imprecando, lo condurrà al Calvario; e così il trionfo di oggi darà maggiore pubblicità e risalto alla Passione di domani.
 
+Gesù entra trionfante nella città santa, ma vi entra per soffrire, per morire. Di qui il doppio significato della processione delle Palme: non si tratta solo di accompagnare Gesù in trionfo, ma di accompagnarlo alla Passione, pronti a condividerla con lui, cercando — secondo l'esortazione di S. Paolo *(Ep.:* *Fil.* 2, 5-11) — di far nostri i suoi sentimenti, sentimenti di umiltà e d'immolazione totale che devono condurci, come lui e con lui « fino alla morte e alla morte di croce ». Le palme, i rami d'ulivo benedetti, che oggi il sacerdote ci consegna, non hanno solo un significato di festa, ma « designano la vittoria che Gesù sta per riportare sul principe della morte » *(MR.)*. Devono quindi designare anche la nostra vittoria; dobbiamo anche noi meritare la palma della vittoria, anzitutto vincendo il male che è in noi, nelle nostre cattive tendenze, e poi il male che è fuori di noi. Ricevendo la palma benedetta rinnoviamo la nostra promessa di voler vincere con Gesù, e non dimentichiamo che Egli ha vinto sulla Croce.
 
-stato come agnello mansueto che è condotto ad essere
-immolato ». Questa frase esprime l’atteggiamento di Gesù
-di fronte alle amarezze della sua Passione, amarezze che
-Egli già conosceva ad una ad una in tutti i loro particolari
-più)concreti, che aveva già pregustate in cuor suo e che
-non l'hanno abbandonato neppure un istante nel corso della
-sua esistenza terrena. Se nella sua realtà storica, materiale,
-la Passione del Signore si è svolta in meno di 24 ore, nella
-sua realtà spirituale è durata per tutto lo spazio della
-vita di lui.
+**2** — Gesù accetta di essere portato in trionfo, ma come è umile e mansueto nel suo trionfo! Egli sa che in mezzo al popolo osannante si nascondono i suoi nemici che, con maligne insinuazioni, riusciranno a convertire quegli « hosanna » in « crucifige »; lo sa e potrebbe imporsi ad essi con la potenza della sua Divinità, potrebbe smascherarli pubblicamente, sventando i loro piani. Ma Gesù non vuole vincere e regnare con la forza, bensì con l'amore, con la dolcezza; ben a proposito nota l'Evangelista: « Dite alla figlia di Sion: ecco il tuo re a te viene mansueto, cavalcando su un asinello » *(Mt.* 21, 5). E con la stessa mansuetudine lui, l'Innocente, il vero Re e Vincitore, accetterà di apparire quale reo, quale condannato e vinto, quale re da burla. Ma proprio così, quando sarà inalzato sulla croce, trarrà tutto a sé.
 
-Gesù sapeva a che cosa andava incontro, il suo Cuore
-ne sentiva tutto lo strazio, eppure non solo ha accettato,
-ma ha desiderato ardentemente quell'ora, «l’ora sua », e si
-è dato nelle mani dei suoi nemici con la mansuetudine di
-un agnello che viene. condotto al sacrificio. « Ho dovuto
-abbandonare la mia casa — ci dice ancora per bocca di
-Geremia — ...ho dato l’anima mia diletta in mano dei miei
-nemici » (BR.). Giuda l'ha tradito, i suoi nemici l'hanno
-trascinato ‘ai tribunali, l'hanno condannato a morte, gli
-hanno straziato il corpo in modo orrendo, ma Gesù, anche
-nella Passione, resta sempre Dio, resta sempre il Padrone, il
-Signore: «Io ho il potere di dare la mia vita e di riprenderla di nuovo », canta la liturgia nel Vespro del giorno...
-(BR.). Gesù è andato alla Passione perchè l’ha voluto »
-(Is. 53,7) e lo ha voluto perchè, come Egli stesso ha detto,
-«questo è il comando datogli dal Padre » (Gv. 10, 18).
-
-Ma, pur volendola, ne ha gustato tutta l'amarezza:
-«Dolori di morte mi han pi Ho sofferto contumelie e terrori da coloro che mi erano amici... O Dio d’Israele, per te io sopporto l’obbrobrio, e la vergogna copre
-il mio volto » (BR. e MR.). Cerchiamo di penetrare questi
-sacri testi che oggi la liturgia ci presenta appunto per farci
-intendere qualche cosa dell’amarissima Passione di Cristo.
-
-
-2 — Nella Messa di oggi, si legge la « Passione » scritta
-da S. Marco (14, 1-72; 15,1-46), il discepolo di Pietro.
-Nessun altro evangelista ha descritto così minutamente la
-
-
-negazione di Pietro: è l’umile confessione che il capo degli
-Sia fa di sè per bocca del suo discepolo. Durante
-l’ultima Cena, quando Gesù aveva predetto agli Apostoli
-che in quella notte l'avrebbero abbandonato, Pietro aveva
-protestato con tutta la vivacità del suo carattere ardente:
-« Ancorchè tutti si scandalizzassero per tua cagione, non
-sarà così di me ». E invano il Maestro gli aveva predetto la
-sua diserzione, designandone i più minuti particolari:
-« Questa notte, prima che il gallo abbia cantato la seconda
-volta, mi rinnegherai tre volte »; la troppa fiducia di sè
-l'aveva reso cieco, impedendogli di credere alle parole di
-Gesù e di dubitare almeno un poco delle sue forze. «Quand’anche dovessi morire con te, non ti rinnegherò »; Pietro
-era sincero nella sua affermazione, ma peccava di presunzione; non aveva ancora fatto l’esperienza pratica della
-miseria e della debolezza umana per cui nessuno, neppure
-l’uomo più coraggioso, può, senza l’aiuto divino, mantenersi fedele al dovere. Al Getsemani ne farà la prima
-esperienza, quando anche lui, come gli altri, non sarà
-capace di vegliare «un'ora sola» col Maestro; ne. farà
-la seconda quando, alla cattura di Gesù, fuggirà pieno
-di paura. Ma queste due esperienze non basteranno ad
-abbattere la sua presunzione, ce ne vorrà una terza, la
-più dolorosa.
-
-Nel cortile del palazzo di Caifa — dove, riavutosi dal
-primo spavento, era andato a vedere come le cose andavano
-a finire — Pietro viene riconosciuto da una serva come discepolo di Gesù, ma, preso dal timore di essere coinvolto
-nel processo, subito nega dicendo: « Non lo conosco ».
-Scivolato una volta, non sa più riprendersi e, nuovamente
-interrogato, nega una seconda ed una terza volta, «Subito il gallo cantò e il Signore si volse a guardarlo »;
-que canto e ancor più quello sguardo pieno di amore e
-
-i dolore lo fanno rientrare in se stesso «e uscito fuori
-pianse amaramente » (Lc. 22, 62). La benda della presunzione cade dai suoi occhi e Pietro, che realmente
-ama Gesù, riconosce la sua debolezza, la sua colpa. L’'a-
-
-
-more € lo sguardo del Maestro l’hanno salvato. Ed ora
-che Pietro non si fida più di sè, Gesù potrà fidarsi di
-lui e affidargli il suo gregge. Finchè un’anima si fida di
-sè, non è matura per la sua santificazione, nè per cooperare efficacemente alla santificazione ‘altrui.
+Mentre il corteo procede festante, Gesù vede profilarsi ai suoi piedi il panorama di Gerusalemme. E — narra S. Luca *(19, 41-44)* — « quando fu vicino alla città la guardò e pianse su di lei dicendo: 'O se conoscessi anche tu e proprio in questo giorno, quel che giova alla tua pace!... I tuoi nemici non lasceranno in te pietra su pietra, perchè non hai conosciuto il momento nel quale sei stata visitata' ». Gesù piange sull'ostinazione della città santa, che, per non averlo riconosciuto come Messia, per non aver accolto il suo vangelo, verrà distrutta dalle fondamenta. Gesù è vero Dio, ma è anche vero uomo e, come tale, vibra di commozione e di dolore per la triste sorte che Gerusalemme si è preparata con la sua ostinata resistenza alla grazia. Egli sta per andare alla Passione e morirà anche per la salvezza di Gerusalemme, ma Gerusalemme non sarà salvata perchè non l'ha voluto, « perchè non ha riconosciuto il momento nel quale sei stata visitata ». È questa la storia di tante anime che resistono alla grazia; è questo il motivo della sofferenza più profonda e più intima del Cuore dolcissimo di Gesù. Almeno tu, anima devota, dà' al Signore la gioia di vederti approfittare appieno dei meriti della sua dolorosissima Passione, di tutto il suo Sangue versato. Quando resisti agli inviti della grazia, resisti alla Passione di Gesù e impedisci che questa ti venga applicata in tutta la sua pienezza.
 
 ### Colloquio
 
-«O Dio dell'anima mia, come siam pronti ad offenderti! E come Tu lo sei più ancora a perdonarci. Ma che
-cosa dici, Signore! ‘Dolori di morte mi hanno circondato”. Ahi! che gran male è il peccato se fu sufficiente
-ad uccidere un Dio fra dolori sì orribili! E come, ancor
-oggi, ne sei circondato, Signore! Qual è il luogo ove Tu
-non trovi dolore? Da ogni parte gli uomini ti coprono
-di ferite,
+« O Gesù, ti contemplo nella tua entrata trionfante in Gerusalemme, quando, presago della turba che stava per venire ad incontrarti, sei montato sull'asinello e hai dato esempio di mirabile umiltà fra gli applausi del popolo accorrente che tagliava i rami degli alberi e tappezzava di vesti la strada. E mentre le folle cantavano inni di lode, Tu, mai dimenticando la tua compassione, hai pianto su Gerusalemme. Sorgi adesso, anima mia, ancella del Salvatore; nel corteo delle figlie di Sion, va' a vedere il tuo Re. Accompagna il Signore del cielo e della terra, sedente in groppa al puledro, seguilo sempre con rami d'ulivo e di palme, con opere di pietà e con virtù vittoriose » (cfr. S. Bonaventura).
 
-«Cristiani, è ora di difendere il vostro Re e di tenergli compagnia nella sua desolata solitudine, Come son
+O Gesù, com'è amaro il tuo pianto sulla città che non ti vuol riconoscere! E quante anime, come Gerusalemme, vanno incontro alla perdizione per la loro ostinata resistenza alla grazia. Per esse ti supplico con tutte le mie forze. « È qui, mio Dio, che deve manifestarsi il tuo potere, che deve risplendere la tua misericordia!... Com'è difficile la mia domanda, o mio vero Dio, quando ti prego di amare chi non ti ama, di aprire a chi non bussa, di dar la salute a chi va in cerca di malattia e gode d'essere malato!... Tu dici, Signor mio, che sei venuto a cercare i peccatori. Ecco qui, Signore, i veri peccatori! Ma invece di guardare alla nostra cecità, considera, ti prego, mio Dio, il Sangue prezioso che sparse per noi il Figlio tuo. Fa' che fra tanta malizia risplenda la tua misericordia e, considerando, Signore, che siamo tue creature, spandi su di noi la tua misericordiosa clemenza » (T.G. *Es.* 8, 2 e 3).
 
-chi, ‘0 Signore, i vassalli che ti son rimasti fedeli!...
-E il peggio si è che ne hai di quelli che, mentre in pubblico si mostrano tuoi amici, in segreto ti vendono. E
-non sai quasi più di chi fidarti. a >
-
-«O Amico sincero, come ti paga male chi ti tradisce!
-
-«O veri cristiani, venite a piangere col vostro Dio!
-Le lacrime di compassione ch'Egli sparse al sepolcro di
-Lazzaro non furono soltanto per lui, ma per tutti coloro
-che avrebbero rifiutato di risorgere, nonostante il suo richiamo, Allora, mio Bene, ‘Tu avevi presenti anche i peccati che io avrei commesso contro di te. Ma cessino ormai,
-cessino con i miei anche quelli degli altri! Fa” che questi
-morti risorgano. La tua voce, Signore, sia così potente
-da dar loro la vita, ‘anche se non la chiedono. Neppur
-Lazzaro ti chiese d'esser risuscitato, eppure Tu lo risuscitasti per le preghiere d’una peccatrice. Eccone qui
-un’altra, mio Dio, e assai più colpevole di quella. Fa'
-dunque risplendere la tua misericordia: telo domando,
-nonostante la mia miseria, e coloro che non te lo vogliono domandare » (T.G. Es. 10).
+È pur vero, o Gesù! anche se noi resistiamo alla grazia, Tu sei sempre il Vincitore, la tua vittoria sul principe delle tenebre è stata piena e in te l'umanità è salva e redenta. Ma Tu sei il buon Pastore che conosce e ama ad una ad una le sue pecorelle e ad una ad una le vuol portare in salvo. Al tuo Cuore amantissimo non basta l'aver meritato la salvezza per tutto il gregge, ma esso desidera ardentemente che ogni pecorella approfitti di questa salvezza... O Signore, dacci dunque quella buona volontà capace di accogliere il tuo dono, la tua grazia; fa' che la Passione tua non sia vana per noi.

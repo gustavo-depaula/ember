@@ -1,113 +1,31 @@
-## 296 — BEATI I FAMELICI
+## IV — GESÙ VITA NOSTRA
 
-### Presenza di Dio
+*XV Domenica dopo Pentecoste*
 
-O Spirito Santo, estingui in me la fame delle cose terrene e accresci quella delle cose celesti.
+**Presenza di Dio.** — O Gesù, vita dell'anima mia, fammi risorgere ogni giorno a nuova vita di carità e di fervore.
 
 ### Meditazione
 
-1. — Quando lo Spirito Santo s'impadronisce di un'anima
-e la prende totalmente sotto il suo governo, le comunica una
-fortezza invincibile, travolgente, capace di affrontare qual
-siasi ostacolo, di sopportare qualsiasi sofferenza. E, siccome è
-proprio del forte non accontentarsi di poco, ma aspirare-a
-i cose, così, a misura che lo Spirito Santo fortifica l’a-
+**1** — Nella Messa di oggi domina un pensiero tanto spesso ribadito dalla liturgia e tanto caro al nostro cuore: Gesù è la nostra vita. Tutto ciò che di buono è in noi è frutto della sua grazia: per la sua grazia restiamo saldi nel bene (Colletta); per la sua grazia possiamo vivere secondo lo spirito (Ep.); per la sua grazia risorgiamo dal peccato (Vg.) e, cibandoci della sua Carne, alimentiamo in noi la sua vita (Com.). Senza Gesù saremmo nella morte, senza di lui non potremmo mai vivere quella magnifica vita dello spirito che S. Paolo ci descrive nell'Epistola odierna.
 
+Spigliamo da questa qualche pensiero. «Nessuno si vanagloriosì, provocatori gli uni degli altri. Se uno crede di essere qualcosa mentre non è nulla, illude se stesso». L'umiltà è qui presentata come il fondamento della concordia fraterna: chi è superbo porta con sé un focolare di discordia, preferendosi agli altri, sarà spesso provocatore, invidioso, sarà altero e sprezzante di coloro che crede da meno di sé.
 
-u
+«Se anche una persona fosse colta in fallo, voi gli spirituali, correggete tale con spirito di mitezza». Chi cerca di scalare le altezze deve stare attento a non criticare chi cammina più in basso, a non scandalizzarsi per le debolezze altrui e, se il dovere gli impone di ammonire qualcuno, deve farlo con dolcezza e bontà; dolcezza che è ancora frutto di umiltà perché, correggendo gli altri, bisogna sempre badare a se stessi: «che alle volte non cada anche tu in tentazione».
 
+«Non stanchiamoci nel fare il bene; perché a tempo giusto mieteremo». Le difficoltà della vita spirituale non devono sgomentarci neppure quando non riusciamo a superarle. Dio non ci chiede di riuscire, ma di rinnovare continuamente i nostri sforzi, anche se non ne vediamo i risultati. «A tempo giusto», cioè quando Dio vorrà e nel modo che a lui piacerà, raccoglieremo i frutti, a patto però che «non ci rilasciamo».
 
-nima, fa nascere in lei desideri sempre più grandi di giusti
-zia, di virtù, di santità, desideri così vivi ed impellenti che
-possono ben dirsi fame e sete. Sotto l'impulso del dono della
-fortezza l'anima diventa un'affamata, un'assetata di giustizia; ecco perchè al dono della fortezza corrisponde la beati-
-tudine: « Beati quelli che hanno fame e sete della giustizia,
-perchè essi saranno saziati » (Mt. 5, 6). Il vocabolo di giustizia va inteso qui nel senso più largo di perfezione, di santità,
-di donazione totale a Dio elalle anime, Ed è proprio in que
-sto senso che lo Spirito Santo spinge l’anima mostrandole
-orizzonti sempre più vasti, invitandola ad opere sempre più
-perfette, a donazioni sempre più generose e più profonde.
-Quest'anima non può riserbarsi più nulla, lo Spirito Santo
-non glielo permette; deve darsi tutta: ela carità di Cristo
-mi costringe» (II Cor. 5, 14) ripete con S. Paolo. In lei c'è
-una sete ardente della volontà di Dio di cui va in cerca come
-l’avaro va in cerca dell'oro; c'è una sete ardente di santità, sì
-che non tollera in se stessa la minima incorrispondenza alla
-grazia e le sembra sempre «di fare troppo poco [per il Signore] e se le fosse lecito disfarsi mille volte per lui, ne sa-
-rebbe molto contenta» (G.C. N. IT, 19, 3); in lei c'è una
-sete ardente delle anime per le quali non cessa di spendersi
-senza risparmio; c'è una sete ardente della gloria di Dio per
-cui, totalmente dimentica del suo riposo, è sempre pronta ad
-intraprendere nuovi sacrifici e fatiche. Donde le viene tanto
-coraggio, tanto ardire? Non dalla sua forza, non dalle sue
-energie — lo sa molto bene — ma dalla forza dello Spirito Santo, dalla confidenza in lui, dalla docilità alla sua azione.
-Può quindi affermare con tutta sicurezza: «Ogni cosa io
-posso in Colui che mi dà forza» (Fil. 4, 13).
+**2** — Nel Vangelo il concetto *Gesù vita nostra* risplende nel modo più chiaro. Il Maestro s'imbatte nel triste corteo che accompagna alla sepoltura un giovane; la madre di lui è lì accanto che singhiozza e «il Signore n'ebbe compassione e le disse: "Non piangere"». Poi, «accostatosi, toccò la bara ed esclamò: "Giovanetto, io ti dico, levati su..."» e lo rese a sua madre». Gesù è il Salvatore che ha compassione delle nostre miserie e che impiega la sua onnipotenza divina per sollevarle; oggi lo vediamo operare un miracolo per consolare una madre vedova restituendole, pieno di vita, il figlio già morto. È un tratto della delicatezza del suo amore per noi; ma quanti altri ne sono sgorgati dal suo Cuore, meno visibili forse, ma non meno amorosi e vivificanti! «Troviamo nel Vangelo tre morti risuscitati visibilmente dal Signore — commenta S. Agostino — ma Egli ha risuscitato migliaia di morti invisibili»; scrivendo queste parole il Santo doveva ricordare con riconoscenza ineffabile il miracolo immensamente più grande che Gesù aveva compiuto per lui facendolo risorgere dalla morte del peccato.
 
+S. Agostino, e con lui tanti altri santi, sono dei risorti. Se i santi vissuti nell'innocenza esercitano su di noi un grande fascino, quelli risorti dal peccato hanno sull'altro un maggior potere per incoraggiarci nella lotta. Se vincere l'orgoglio, la sensualità e tutte le altre passioni è per noi cosa ardua, non lo è stata meno per loro; anch'essi hanno conosciuto le nostre tentazioni, le nostre lotte, le nostre cadute; e se essi sono risorti, perché non possiamo risorgere anche noi?
 
-2. — Come l’affamato gode quando può saziarsi di pane,
-così l'anima, che vive sotto l’influsso del dono della fortezza,
-gode quando può soddisfare la sua fame di giustizia, di santità. Gode quando può immergersi nella volontà di Dio, unico
-co cibo che può satollarla, gode quando può soddisfare la
-
-
-sua sete d'immolazione sacrificandosi per Iddio e per le anime, gode quando può appagare la sua fame di Dio ricevendolo di diritto o tuffandosi in lui nell'intimità della
-preghiera. E' una gioia pura, che non cercata, che
-non è detratta dal dovere; è la gioia dell'anima che gravita verso il suo centro, Dio, e sente di
-l’anima che gravita verso il suo centro, Dio, e sente di
-darsi sempre di più a lui, di appartenergli totalmente. Ma,
-per godere questa gioia, bisogna essere decisi a non volerne
-cercare ed ammetterne altre. « Vita felicissima — dice S. Teresa di Gesù — conducono le anime che, disprezzando ogni
-propria soddisfazione, non pensano che a contentare il Signore» (Cams. 13, 7).
-
-Se non gustiamo questa gioia è perchè non siamo abbastanza affamati di giustizia: accanto a questa fame santa
-nutriamo forse ancora le avidità del secolo — fame delle cose e delle gioie di quaggiù — che diminuiscono la forza del-
-la prima e fanno deviare i nostri passi in cerca di soddisfazioni umane. Ma che cosa possono darci le creature? Non
-saranno mai sufficienti a saziare la nostra fame e ci lasceranno sempre insoddisfatti. Chiediamo dunque allo Spirito San-
-to che estingua in noi ogni appetito di cose terrene e faccia
-crescere la nostra fame di santità. Questa fame è ancora de
-bole in noi e, soprattutto, è incostante: quante volte, dopo
-aver fatto grandi propositi, siamo ricaduti a terra e siamo rimasti lì avviliti e forse anche rassegnati a non saper fare di
-più. Lo Spirito Santo, mediante il dono della fortezza, vuol
-rendere più forte e perseverante la nostra fame di santità in
-modo che non si estingua mai, non già per lasciarci morire
-d'inedia, ma per saziarci di beni imperituri: di volontà di
-Dio, di giustizia, di santità. Egli, che ha il potere di suscitare
-in noi questa fame, ha pure il potere di soddisfarla a sazietà,
-sì che di questa sazietà noi siamo eternamente beati.
+Non sempre — grazie a Dio — si tratta di dover risorgere dal peccato grave, ma sempre si tratta di risorgere dalle piccole infedeltà giornaliere che, se non sono riparate, un po' alla volta affievoliscono il fervore della vita spirituale. In questo senso, ogni giorno, anzi, ogni ora, abbiamo bisogno di risorgere; eppure tante volte non ne abbiamo la forza. Ma se invochiamo Gesù, vita nostra, Egli ci toccherà con la sua grazia, come toccò con la sua mano la bara del giovanetto di Naim, c'infonderà nuovo vigore e ci rimetterà, pieni di coraggio, sulla via della perfezione. La resurrezione del giovanetto fu implorata dalle lacrime di sua madre; la nostra sia implorata ogni giorno dalle lacrime del nostro cuore, dalla compunzione, dall'umiltà, dalla fiducia.
 
 ### Colloquio
 
-«O Dio, oceano d'amor sacro e di dolcezza, vieni e donati
-all'anima mia! Fa’ che con tutto il cuore, con desiderio as-
+«O Signore Dio mio, io m'accostai alle porte della morte e Tu fra esse e me ti frapponesti affinché non le passassi, mi traesti spesso anche dalla morte del corpo, o mio Salvatore, quando mi afflissero gravi morbi, o mi trovai esposto a molti pericoli. Tu sapevi, o Signore, che allora mi avesse sorpreso la morte, l'anima mia sarebbe precipitata nell'inferno e sarei stato per sempre dannato; e la tua misericordia e la tua grazia mi prevennero, salvandomi dalla morte del corpo e dell'anima; queste e molte altre cose facesti per me, o Signore mio Dio!
 
+«Ora, dunque, o luce dell'anima mia, Signore Dio mio, vita mia pel quale vivo, io ti rendo grazie: a te le offro, benché povere e vili, inadeguate ai tuoi benefizi, quali te le può offrire la mia fragilità.
 
-Sie va
+«Io, primo fra i peccatori che salvasti, per porgere agli altri un esempio della tua benignissima pietà, confesserò i tuoi grandi benefizi; poiché mi salvasti dal più profondo inferno una volta, e due, e tre, e cento, e mille; ed io sempre tendevo all'inferno e Tu sempre me ne traevi, mentre giustamente m'avresti molte volte dannato, se così Tu avessi voluto. Non lo volesti, poiché ami le anime e dissimuli i peccati degli uomini, affinché facciano penitenza, o Signore Dio mio, molto misericordioso in tutte le tue vie.
 
-
-soluto, con amore fiammeggiante aspiri di continuo a te e in
-te respiri soavemente. O vera e suprema mia esultanza, ch'io
-ti preferisca ad ogni creatura, che per te rinunzi ad ogni
-transitorio piacere!
-
-«Pasci, o Signore, questo mendicante famelico. coll’influsso della tua divinità, rallegrami con la presenza desiderata
-della tua grazia. Questo chiedo e desidero affinchè l’amore
-veemente mi penetri, mi riempia, mi trasformi in te.
-
-«Fa',o Lisi Redentore, ch'io bruci del tuo amore,
-che venga meno a me stesso, che mi diletti in te solo, e solo
-te conosca e senta. O abisso traboccante di divinità, attirami, immergimi in te! Strappa ogni amore dal mio cuore, ap-
-plicalo a te in modo ch'io sia inanimato per tutte le altre cose.
-
-«T'invoco nell'anima mia, te invoco e cerco con enorme
-affetto, o delizia degli intimi abbracci! Vieni, Diletto, vieni
-superdesiderato, ch'io ti possegga dentro e ti stringa con le
-braccia della mia anima!
-
-«Entra nell'anima mia, o somma dolcezza, ch'io gusti
-le cose dolci e in te solo mi rallegri e riposi.
-
-«O mio Diletto, Diletto dei miei voti, fatti trovare e,
-trovato, che io ti tenga e ti stringa strettissimamente fra le
-mie braccia spirituali. Ti desidero; anelo a te, eterna beatitudine. Oh! donati a me, uniscimi a te intimamente e ine
-briami del solo vino del tuo amore» (B. Luigi di Blois).
+«Ora vedo, e per tuo lume ciò conosco, o Signore Dio mio, e vien meno l'anima mia considerando la grandezza della tua misericordia. Tutta la mia vita, che periva nella mia miseria, è risuscitata nella tua misericordia; tutto io cero morto e tutto Tu mi risuscitasti. Sia dunque tuo tutto ciò che è in me, ché tutto a te mi offro» (S. Agostino).

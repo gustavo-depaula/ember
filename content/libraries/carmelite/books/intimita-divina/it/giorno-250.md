@@ -1,91 +1,21 @@
-## 250 — CARITÀ E UMILTÀ
-*X Domenica dopo Pentecoste*
+## XX — LA SPERANZA
 
-### Presenza di Dio
-
-— Dammi, o Signore, umiltà con amore: l'umiltà custodisca in me la carità e questa cresca sempre più voluta.
+**Presenza di Dio.** — *O Signore, rendi salda la mia speranza, perché chi spera in te non resterà mai confuso.*
 
 ### Meditazione
 
-1. — Oggi, attraverso i testi della Messa, la liturgia ci presenta, come in uno schizzo, le linee fondamentali dell'anima cristiana. Anzitutto ci mostra quest'anima vivificata dallo Spirito Santo il quale
-diffonde in lei i suoi doni. L'Apostolo si ferma a parlare dei
-« carismi » ossia di quelle grazie speciali, come il dono delle
-lingue, della scienza, dei miracoli, ecc. accordate con parti
-colare abbondanza dallo Spirito Santo alla Chiesa primitiva.
-Pur essendo preziosi, questi doni sono però inferiori alla
-grazia ed alla carità perchè soltanto la grazia e la carità possono conferire all'anima la vita soprannaturale, mentre i carismi possono accompagnarla o no, senza per questo aumentarne o diminuirne l'intensità. S. Tommaso fa osservare che,
-mentre la grazia e la carità santificano l'anima e l'uniscono
-a Dio, i carismi, invece, sono ordinati all'utilità del prossimo e possono sussistere anche in chi non possiede la grazia.
-Del resto, anche S. Paolo — e proprio nella stessa lettera
-di cui oggi leggiamo un brano nella Messa — dopo aver
-enumerato tutti questi doni straordinari, conclude con la famosa affermazione: tutto ciò è nulla senza la carità, E' sempre questa la virtù «centro», la caratteristica fondamentale
-dell'anima cristiana ed è pure questo il più grande dono che
-lo Spirito Santo possa effondere in noi. Se il divino Paraclito non vivificasse le anime nostre con la carità e con la
-grazia, che le è inseparabilmente congiunta, nessuno, neppure l'uomo più virtuoso, potrebbe compiere il minimo atto
-di valore soprannaturale: « nessuno può dire: 'Signore Gesù' se non per lo Spirito Santo » afferma l'Apostolo. Come
-l'albero che non ha linfa vitale non può dare frutti, così
-l'anima che non è vivificata dallo Spirito Santo non può fare
-azioni di valore soprannaturale. Ecco, ancora una volta, il
-grande pregio della grazia e della carità; vale più il minimo
+**1** — La fede ti fa conoscere Dio; tu credi in lui con tutte le tue forze, però non lo vedi. La tua fede ha dunque bisogno di essere sostenuta dalla certezza che un giorno vedrai il tuo Dio, lo possederai e potrai unirti a lui in eterno. Questa certezza te la dà la virtù della speranza la quale ti presenta Dio come tuo bene infinito, come tua mercede eterna. La fede ti dice: Dio è bontà, bellezza, sapienza, provvidenza, carità, misericordia infinita; e la speranza soggiunge: questo Dio così grande e così buono è tuo, Egli vuol essere il tuo possesso e la tua beatitudine eterna, non solo, ma nell'attesa del cielo, fin da quaggiù, Egli vuol essere da te posseduto mediante la carità e la grazia, fin da quaggiù t'invita a vivere in intima unione con lui.
 
-grado di esse che tutti i doni straordinari i quali, se possono guidare le anime al bene, non hanno però il potere nè d'infondere, nè di aumentare in noi la vita divina.
+Tu guardi Dio infinito, perfettissimo, così immensamente al di sopra di te, creatura debole e misera, e pensi: ma, come potrò giungere a lui, come potrò unirmi a lui che supera infinitamente le mie capacità? E la speranza ti risponde: lo puoi, perché Dio stesso lo vuole, anzi, proprio per questo fine Egli ti ha creato e ti ha elevato allo stato soprannaturale fornendoti tutti gli aiuti necessari per così ardua impresa. Il Concilio di Trento asserisce che tutti dobbiamo avere «speranza fermissima — *firmissimam spem* — nell'aiuto di Dio», aiuto che Egli ha formalmente promesso a coloro che lo amano e ricorrono a lui con fiducia: «Chiedete e vi sarà dato — ha detto Gesù — cercate e troverete; picchiate e vi sarà aperto. Se voi, pur essendo cattivi, sapete dare buoni doni ai vostri figli, quanto più il Padre vostro che è nei cieli darà cose buone a quelli che gliele domandano?» *(Mt.* 7, 7 e 11). Le «cose buone» promesse da Gesù sono anzitutto quelle compendiate nell'atto di speranza: «la vita eterna e le grazie necessarie per meritarla»; è questo l'oggetto della speranza, è questo che dobbiamo chiedere ed invocare prima di ogni altra cosa.
 
+**2** — Quando ti metti di fronte a Dio, al fine altissimo dell'unione con lui, intuisci subito che il grande ostacolo che si frappone fra te e Dio sono i tuoi peccati, la tua fragilità e la tua miseria per cui ti è tanto difficile vivere in modo degno di Dio. Ma la speranza ti viene incontro assicurandoti da parte della misericordia infinita e il perdono dei peccati e la grazia per vivere bene, anzi, per vivere santamente.
 
-2. — Il Vangelo ci presenta un'altra caratteristica fondamentale dell'anima cristiana: l'umiltà. E vero, la carità è
-
-superiore perchè ci comunica la vita divina, tuttavia l'umiltà ha un'importanza grandissima perchè è la virtù che sbarazza il terreno, che fa il posto alla grazia ed alla carità. E
-questo l'insegnamento che riceviamo oggi da Gesù in una
-forma molto viva e concreta attraverso la parabola del fariseo
-e del pubblicano. Il Vangelo ci dice espressamente che Gesù
-parlava per quelli che « da sè confidano d'esser giusti
-e disprezzano gli altri »; il fariseo ne è il prototipo e li rap
-presenta a meraviglia. Eccolo, è sicuro della sua giustizia,
-è gonfio dei suoi meriti: io non rubo, non sono adultero, io
-digiuno e pago le decime. Che cosa si può pretendere di
-più? Ma quest'uomo superbo non si accorge che gli manca
-il meglio, ossia gli manca la carità, tanto è vero che si scaglia contro gli altri, li accusa, li condanna: «io non sono
-come gli altri uomini rapaci, ingiusti, adulteri, e nemmeno
-come quel pubblicano ». Non avendo la carità verso il prossimo, non può avere neppure la carità verso Dio, difatti,
-entrato nel tempio per pregare, non è stato capace di fare
-il più piccolo atto di amore, di adorazione e, invece di lodare
-Dio per i suoi benefici, non ha fatto altro che lodare se stesso. In realtà, quest'uomo non sa pregare perchè non ha la
-carità e non può possedere la carità perchè è pieno di superbia: « Dio resiste ai superbi e dà la grazia agli umili »
-(Giac. 4, 6), perciò il fariseo torna a casa condannato, non tanto dal Signore che ama sempre usar misericordia, quanto dalla sua superbia che impedisce in lui l'opera della misericordia.
-
-Nel pubblicano tutt'altro atteggiamento: è un pover'uomo, sa di aver peccato, è conscio della sua miseria morale;
-neppure lui ha la carità, perchè il peccato è ostacolo alla
-carità, però è umile, molto umile e confida nella misericordia
-di Dio: «O Dio, abbi pietà di me, che son peccatore». E Dio, che ama chinarsi sugli umili, all'istante lo giustifica:
-la sua umiltà ha attirato su di lui la grazia dell'Altissimo.
-S. Agostino ha detto: « Quanto più piace a Dio l'umiltà
-nelle cose mal fatte, che la superbia in quelle bene fatte! ».
-No, non sono le nostre virtù, le nostre buone azioni che ci
-
-
-procurano ma la grazia e la carità che lo Spirito Santo diffonde nei nostri cuori e diffonde «secondo che vuole»,
-ma sempre in proporzione della nostra umiltà.
+Il perdono dei peccati rimuove da te l'ostacolo all'unione con Dio, la grazia ti avvicina a lui e finalmente consuma l'unione. Quanto conforto inonda l'anima tua quando tu, così debole, che non riesci ad evitare ogni peccato, pensi che Dio ti vuole sicuro del suo perdono; sì, tutte le volte che, sinceramente pentito, riconosci i tuoi falli, Egli, di fatto, per i meriti di Gesù, ti perdona e le tue colpe sono per sempre dimenticate; di ciò devi essere certo, non ti è lecito dubitarne, perché non ti è lecito dubitare della misericordia e delle promesse di Dio. «Anche se i vostri peccati fossero come uno scarlatto — ha detto il Signore — diventeranno bianchi come la neve» (cfr. *Is.* 1, 18). Non solo, ma Dio vuole che tu sia parimenti sicuro che Egli ti concederà le grazie necessarie per vivere bene, per vincere le tue tentazioni ed i tuoi difetti, per progredire nelle virtù; proprio così conseguirai l'unione con lui, non solo in cielo, ma anche sulla terra. Il tuo ideale, ideale di santità, non è, quindi, irrealizzabile! E Dio vuole che aspetti tutto questo da lui, non perché tu ne sia meritevole, ma perché Egli è infinitamente buono, perché Egli è l'*omnipotentia auxilians*, l'onnipotenza ausiliatrice, sempre pronta a venire in nostro soccorso. Certo, sarebbe temerarietà sperare che Dio ti salvi e ti santifichi senza la tua cooperazione; ma, se da parte tua fai tutto il possibile per evitare anche le mancanze più lievi e per esercitare con generosità le virtù, puoi sperare con *certezza* che Egli farà per te ciò che tu, malgrado i tuoi sforzi, non riesci a fare. Dio vuole che tu sia *sicuro* di ciò. La sicurezza è una proprietà della speranza perfetta e Dio vuole che tu eserciti questa virtù con perfezione.
 
 ### Colloquio
 
-«O buon Gesù, quante volte, dopo lacrime amare, dopo
+«Rivestimi, o Signore, della verde divisa della speranza. La viva speranza in te dà all'anima una tale vivezza, coraggio ed elevazione alle cose della vita eterna che, a confronto di ciò che lassù si aspetta, tutte le cose del mondo le sembrano, come sono in verità, appassite, aride, morte e di nessun valore. Dammi, dunque, forte speranza, o mio Dio, affinché essa mi spogli di tutte le vanità del mondo ed io non riponga il cuore in nessuna cosa, non sperando niente di ciò che si trova quaggiù, ma viva solamente vestito della speranza di vita eterna. La speranza sia l'elmo di salute che protegga il mio capo dalle ferite del nemico e che orienti il mio sguardo al cielo, permettendomi di fissare gli occhi soltanto in te, Dio mio. Come gli occhi della serva si posano sulle mani della sua padrona, così i miei si fermino in te, sino a che Tu avrai pietà di me a motivo della mia speranza. Fa' che io non fissi lo sguardo in altra cosa, né mi appaghi se non di te e Tu, allora, ti compiacerai di me, sì che con tutta verità potrò dire che tanto da te ottengo quanto ne spero» (cfr. G.C. N. II, 21, 6-8).
 
+«Per intendere la grandezza della tua Divinità, o Signore, mi è necessaria la fede e per operare mi è necessaria la speranza, perché se non avessi speranza di possederti un giorno, non avrei la forza di faticare quaggiù. Non desidero più cose terrene, non più, sebbene in esse non ho mai sperato. Ma ho viva speranza di conseguire non le cose della terra, nelle quali ordinariamente sperano i mondani, ma di conseguire te, mio Dio.
 
-singulti e gemiti inenarrabili, non hai guarito le piaghe della mia coscienza con l'unzione della tua misericordia e con
-l'olio della tua letizia? Quante volte, dopo aver cominciato
-senza speranza la mia preghiera, ho ritrovato la gioia nella
-speranza del perdono! Coloro che hanno provato questi sentimenti sanno che Tu sei un vero medico che guarisce i cuori contriti e ne medica le piaghe con sollecitudine. Coloro,
-poi, che non ne hanno ancor fatto l'esperienza, credano almeno alla tua parola: 'Lo spirito del Signore mi ha riempito della sua unzione e mi ha inviato ad annunciare ai
-mansueti la buona novella, a guarire quelli che hanno il
-cuore contrito ' (Is. 51, 1). Se rimangono ancora nel dubbio,
-si avvicinino a te e lo provino, ed impareranno da se stessi
-quel che vogliono dire queste tue parole: 'Voglio la misericordia e non il sacrificio' (Mt. 9, 13).
-
-«O Signore, Tu dici: ' Venite a me voi tutti che siete
-affaticati ed oppressi ed io vi consolerò' (Mt. 11, 28). Ma
-per quale via dobbiamo venire a te? Per quella dell'umiltà,
-è solo così Tu ci consolerai. Ma qual'è la consolazione che
-prometti agli umili? E' la carità. Infatti l'anima otterrà la
-carità in proporzione della sua umiltà. Oh, quale nutrimento
-dolce e soave è la carità! La carità sostiene quelli che sono
-affaticati, fortifica i deboli, consola quelli che sono nella tristezza. O Signore, dammi questa carità che rende soave il
-tuo giogo e leggero il tuo peso » (cfr. S. Bernardo).
+«O Signore, dammi salda speranza, perché non mi posso salvare senza questa virtù ben radicata ed infusa nell'anima. Essa mi è necessaria per impetrare perdono dei miei peccati e per raggiungere il mio fine. Quale diletto dà all'anima mia la speranza, facendole sperare quello che in patria deve poi godere, facendole fin da quaggiù gustare in parte quello che nel cielo deve eternamente godere, intendere e possedere, il che sei Tu, Dio mio» (S. M. Maddalena de' Pazzi).

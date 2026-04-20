@@ -1,118 +1,116 @@
-## 118 — O VALOR DA OBEDIÊNCIA
+## 116 — NÃO DESCULPAR-SE
 
 ### Presença de Deus
 
-— Ó Jesus obedientíssimo, faze-me compreender o valor da obediência.
+— Ó Jesus, que quiseste calar diante de quem te condenava à morte, ensina-me a arte de não me desculpar.
 
 ### Meditação
 
-1 — "O Senhor - ensina S. João da Cruz -
-prefere de ti o menor grau de obediência e submissão
-mais do que todos os serviços que pensas prestar-lhe"
-(AM. I, 13). Por quê? Porque a obediência te faz renunciar
-à tua vontade para aderir à vontade de Deus,
-expressa nas ordens dos superiores; e precisamente na completa conformidade da tua vontade com a vontade divina consiste a
-perfeição da caridade, consiste a essência da união com
-Deus. A caridade será em ti perfeita quando em toda ação
-te regulares não segundo tuas inclinações e desejos
-pessoais, mas segundo a vontade de Deus,
-conformando a ela a tua. E precisamente esse é o estado
-de união com Deus, pois "a alma que tem a vontade inteiramente conforme e semelhante à divina é, por isso mesmo, totalmente unida e transformada em Deus"
-(J.C. S. II, 5, 4).
+1 — Diante de qualquer defeito, culpa ou erro pessoal,
+nosso eu corre instintivamente em busca de desculpas:
+é a tática do orgulho, que não quer reconhecer os próprios
+erros e se empenha em cobri-los com um manto mais ou menos
+falso, encontrando sempre um modo de atribuí-los ora a outras
+pessoas, ora às circunstâncias. Tal foi a conduta de Adão
+e de Eva depois do pecado; tal é o comportamento instintivo
+de todo homem assim que cai em alguma falta.
+Mas isso traz grande dano à alma, pois é impossível
+corrigir defeitos que não se querem reconhecer; é preciso,
+portanto, ter coragem de desmantelar as engenhosas,
+mas inconsistentes construções do amor-próprio,
+para pôr a descoberto os próprios defeitos e encará-los,
+como são, sem atribuí-los a outros senão a nós mesmos.
+"Quando cometemos uma falta - dizia S. Teresa do Menino Jesus - não devemos jamais atribuí-la a uma
+causa física, como doença ou estação do ano, ou outras
+circunstâncias, mas à nossa imperfeição. Não são as ocasiões que tornam o homem frágil, mas elas lhe mostram o que
+ele é" (CR.).
 
-A vontade de Deus encontras expressa em seus mandamentos,
-nos preceitos da Igreja, nos deveres do teu estado;
-mas além disso ainda resta largo campo à tua livre
-escolha, e, no entanto, nem sempre te será fácil reconhecer com
-certeza o que Deus quer de ti. Ao contrário, na voz da
-obediência a vontade divina toma forma clara,
-precisa, e te é manifestada abertamente, de modo que já não podes
-temer errar. Com efeito, "não há autoridade que não venha
-de Deus" (Rm. 13, 1), de sorte que, obedecendo a teus legítimos superiores, podes ter certeza de obedecer a Deus. O próprio Jesus,
-confiando aos seus discípulos a missão de evangelizar as
-gentes, disse: "Quem vos ouve, a mim ouve, e quem vos rejeita, a mim rejeita" (Lc. 10, 16); e assim nos ensina
-que os superiores eclesiásticos o representam e nos falam
-em seu nome. E, aliás, S. Tomás demonstra que em
-toda autoridade legítima - também de ordem natural, como por
-exemplo a de ordem civil e social - quando ela
-manda dentro dos justos limites de seus poderes, há manifestação da vontade divina. Precisamente nesse sentido
-o Apóstolo não hesita em dizer: "Servos, obedecei a vossos
-senhores... como a Cristo... fazendo de coração a vontade
-de Deus" (Ef. 6, 5 e 6).
+Desculpar as próprias faltas pode satisfazer o orgulho,
+mas na realidade é cegar-se voluntariamente, é tornar-se incapaz de perceber a verdade da própria situação e, assim,
+a pobre alma não só não pode avançar, mas fica condenada a tatear no escuro, sem possibilidade de saída.
+Ao contrário, reconhecer sinceramente as próprias culpas é já
+dar o primeiro passo para corrigi-las. Não basta, porém,
+não se desculpar interiormente; é preciso também não se
+desculpar diante dos outros, isto é, depois de reconhecer diante de
+Deus nossas faltas, é preciso reconhecê-las também diante dos
+homens, para aceitar humildemente a correção e reparar o mau exemplo que se possa ter
+dado. Aliás, valeria bem pouco aceitar em silêncio uma acusação,
+uma repreensão, quando a alma não renunciasse - ainda que à custa de lutas e esforços - a desculpar-se no interior.
 
 
-2 — Um dos maiores obstáculos à plena conformidade
-da tua vontade com a de Deus é o apego ao teu querer,
-aos teus desejos, às tuas inclinações. Ora, a obediência,
-pedindo-te que te regules segundo o querer alheio, é o
-melhor exercício para habituar-te a negar tua própria vontade,
-para desapegar-te dela e fazer-te antes aderir à
-vontade divina, manifestada nas ordens dos superiores. E,
-quanto mais estreita for a forma de obediência à qual estás submetido,
-isto é, quanto mais ela tender a abranger não só algum
-particular, mas toda tua vida, tanto mais intenso será
-esse exercício e mais te fará entrar na
-vontade de Deus. Este é o grande valor da obediência:
-pôr a vida do homem na vontade de Deus, dar ao
-homem, em toda circunstância, a possibilidade de regular-se
-não segundo sua vontade, tão fraca, frágil, sujeita
-ao erro, tão limitada e cega, mas segundo a
-vontade de Deus, tão boa, perfeita e santa que não
-pode jamais errar, nem querer o mal, mas quer só o
-bem, e não o bem transitório que hoje é e amanhã
-já não é, mas o bem eterno, imperecível.
+2 — Muitas vezes te ressentes diante das correções,
+porque não as achas totalmente proporcionadas aos teus defeitos,
+às tuas faltas. E não pensas que isso é consequência
+inevitável da limitação humana? Só Deus, que lê o
+coração, pode julgar com perfeita justiça nossas ações; os homens veem
+apenas o exterior; por isso, mesmo quando têm o dever
+de nos corrigir, nem sempre acertam exatamente o alvo,
+mas podem errar por excesso ou por defeito. Se queres aceitar
+só as observações que se ajustam perfeitamente aos teus defeitos,
+muitas vezes te verás exposto a desculpar-te,
+a protestar, a dizer tuas razões; e, se não puderes fazê-lo exteriormente,
+farás ao menos no interior, perdendo assim todo o proveito
+que poderias tirar das correções se as recebesses
+com humildade de coração.
 
-A obediência te faz realizar esta troca felicíssima:
-deixar tua vontade para abraçar a vontade de Deus. É este
-o motivo pelo qual os santos corriam ao encontro da obediência.
-De S. Teresa Margarida do Coração de Jesus se diz:
-"não somente voava ao executar as ordens, mas
-alegrava-se extremamente e exultava em obedecer" (Sp. p.
-74). Se à natureza pode custar negar a própria vontade,
-renunciar a um projeto, a um plano, a um trabalho tão
-amado e acalentado, não é nessa renúncia que a alma de
-vida interior fixa o olhar; mas, ainda sofrendo e lutando
-para vencer-se, lança-o muito mais além:
-fixa-o na vontade de Deus, que se lhe apresenta escondida
-na voz da obediência, e a essa vontade se entrega com
-todas as suas forças, porque abraçar a vontade de Deus
-é abraçar o próprio Deus.
+S. Teresa de Jesus convida as almas que querem chegar
+à união com Deus a uma grande generosidade neste ponto,
+isto é, a aceitar sem desculpar-se qualquer correção ou repreensão, ainda que não totalmente merecida e
+ainda que completamente injusta. "Calar-se quando se é
+acusado injustamente - diz a Santa - é um grande
+ato de humildade, e imita-se mais de perto nosso Senhor, que
+tomou sobre si todos os nossos pecados. O verdadeiro humilde deve
+desejar ser desprezado, perseguido e condenado
+sem motivo, até em coisas graves. Se quer imitar o
+Senhor, em que o poderá fazer melhor, senão nisto?
+Não precisa de forças corporais, nem de ajuda de ninguém,
+senão de Deus." E depois acrescenta com muita
+fineza: "Tudo considerado, nunca somos culpados
+sem razão, sendo sempre cheios de defeitos... Se somos
+inocentes do que nos atribuem, nunca somos tão isentos
+de culpa como o bom Jesus" (Camz. 15, 1 e 4).
+
+"Jesus calava-se" (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
+que aspira à união íntima com Jesus deve saber unir-se
+aos seus silêncios diante das acusações, mesmo das mais injustas.
+E, quando motivos particulares - como evitar escândalo
+ou desgosto ao próximo - exigem que se desculpe,
+fá-lo-á só o estritamente necessário, com muita
+medida e ponderação, para não perder a graça da humilhação.
 
 ### Colóquio
 
-"Oh, quão doce e gloriosa é esta virtude da obediência,
-na qual estão todas as outras virtudes! Porque ela nasce
-da caridade; nela está fundada a pedra da santíssima fé;
-ela é uma rainha, e aquele que a desposa não sente mal algum,
-mas sente paz e quietude. As ondas do mar tempestuoso não
-lhe podem fazer dano, porque ele navega na tua vontade,
-meu Deus... Não tem desejo algum que não seja satisfeito,
-porque a obediência o faz desejar somente a ti, ó Senhor,
-que podes, sabes e queres cumprir seus desejos.
-Ó obediência, que navegas sem fadiga e sem perigo chegas
-ao porto da salvação! Ó Jesus, vejo a obediência
-conformar-se contigo, contigo a vejo subir à navicela da
-santíssima cruz. Concede-me, pois, ó Senhor, esta
-santa obediência, ungida de verdadeira humildade, reta sem
-qualquer tortuosidade, que leva consigo a luz da graça divina.
-Concede-me esta pérola escondida e calcada pelo mundo,
-que se avilta, sujeitando-se por amor de ti às
-criaturas" (S. Catarina de Sena).
+Isto te peço, ó Senhor: que a tua luz esteja em mim
+tão abundante que dissipe, como névoa ao sol, todas
+essas desculpas com que meu amor-próprio procura cobrir
+minhas faltas, meus defeitos. Isto te peço: que
+eu saiba bem reconhecer todos os meus erros e saiba julgá-los como Tu mesmo os julgas. Freia meu coração,
+para que não escorregue em busca de raciocínios maliciosos
+para obter desculpas para minhas faltas. E, se por minha fraqueza
+me é tão fácil cair, faze que ao menos eu saiba confessá-lo
+humildemente diante de ti e diante dos homens. Liberta
+minha consciência da máscara das desculpas vãs e piedosas
+que me impedem de ver-me como Tu me vês, como
+Tu me conheces, como na realidade sou diante de ti. E depois,
+ó Senhor, dá-me a humildade necessária para aceitar de bom
+coração as correções alheias. Apaga com tua doçura
+minha suscetibilidade tão fácil de acender-se e ressentir-se, e
+concede-me a graça de imitar tua mansidão e humildade diante dos tribunais.
 
-Ó Senhor, não tenho senão uma vida, e de que modo
-melhor poderei empenhá-la para tua glória e para minha
-santificação do que colocando-a diretamente sob a
-obediência? Só assim terei a certeza de não perder tempo e de
-não errar, pois pôr-se na obediência é pôr-se
-na tua vontade. E, se minha vontade é tão defeituosa,
-a tua é santa e santificante; se minha vontade tem o triste poder de fazer-me errar, a tua tem o grande poder de santificar
-minha pobre vida, de santificar todas as minhas ações,
-até as mais simples e indiferentes, feitas sob
-seu impulso. Ó Senhor, é justamente o desejo de viver
-totalmente na tua vontade que me impele para a obediência,
-que me faz amar e abraçar esta virtude, apesar do
-meu vivo amor à liberdade e à independência.
+"Ó meu Senhor, quando recordo teus múltiplos
+tormentos que por nenhum motivo merecias, não sei o que dizer
+de mim, nem onde estou quando pretendo desculpar-me.
+Tu já sabes, meu Bem, que, se há em mim alguma coisa
+boa, não me veio senão de ti. E deveria agora desejar
+que de criatura tão má como eu não se dissesse
+mal algum, quando tanto se disse de ti, que és o Bem
+acima de todo bem? Não se pode suportar! E bem quereria
+que Tu também não o suportasses e que nada permitisses
+em tua serva que pudesse desagradar aos teus olhares. Sou
+cega, Senhor, e contento-me com muito pouco. Dá-me
+luz e faze que eu deseje verdadeiramente ser desprezada por
+todos, pois também eu te desprezei, a ti que me amaste
+com tanta fidelidade!
 
-Ó santa e santificante vontade do meu Deus, quero
-amar-te acima de todas as coisas, quero abraçar-te em cada instante
-da minha vida, não quero fazer nada sem ti, fora de ti.
+"Que é isto, meu Deus? Que nos importa ser acusados até por todas as criaturas se Tu não nos acusas?"
+(T.G. Com. 15, 5 e 6).

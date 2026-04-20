@@ -1,82 +1,27 @@
-## 267 — IL GIUDIZIO PRUDENTE
+## VI — NON GIUDICATE
 
-### Presenza di Dio
-
-— Aiutami, o Signore, a giudicare rettamente le cose, per poter poi agire rettamente.
+**Presenza di Dio.** — *O Signore, preserva la mia mente dal giudicare e criticare il prossimo e dammi per tutti pensieri di bontà e di amore.*
 
 ### Meditazione
 
-1. — Il primo ufficio della prudenza è quello di aiutarci
+**1** — «Non giudicate affinché non siate giudicati» *(Mt.* 7, 1). La carità verso il prossimo comincia dal pensiero; molte mancanze di carità hanno la loro radice propria nei nostri giudizi. Non stimiamo abbastanza gli altri, non teniamo abbastanza conto delle loro buone qualità, non siamo benevoli nell'interpretare il loro modo di agire. Perché? Perché quasi sempre giudichiamo il prossimo in base ai suoi difetti e soprattutto in base a quelli che urtano la nostra sensibilità, che cozzano col nostro modo di vedere e di fare, mentre teniamo in poco o nessun conto i suoi lati buoni.
 
-a scegliere i mezzi più adatti al conseguimento del nostro
-fine ultimo. Spesso questa scelta è facile e si presenta spon
-tanea alla mente già abituata a giudicare e ad agire alla
-luce dell'eternità; altre volte, invece, la scelta è difficile e laboriosa, come quando, ad esempio, si tratta della scelta dello
-stato o della professione, di dare un nuovo indirizzo alla
-propria vita oppure di risolvere casi complicati in cui occorre tener conto di elementi anche indipendenti dalla propria volontà. In questi casi occorre prender tempo per esaminare tutto con ponderatezza, occorre il consiglio di persone prudenti e sperimentate: l'agire con precipitazione sarebbe già un mancare di prudenza. Gesù stesso nel Vangelo
-ci parla dell'uomo prudente che, volendo innalzare una torre, «dapprima si siede a calcolare la spesa per vedere se
-ha da poterla finire » (Lc. 14, 28). Il tempo impiegato in questi esami, in questi calcoli dettati dalla prudenza soprannaturale non è tempo sprecato, tutt'altro; anzi non di rado, di
-fronte a gravi decisioni, Dio stesso vuole che attendiamo
-pazientemente affinchè le circostanze ci manifestino con
-chiarezza la sua volontà. In queste attese dobbiamo dare un
-ran posto alla preghiera, per invocare dal Signore quella
+È un grave errore giudicare persone e cose dal punto di vista negativo ed è anche illogico, perché se il negativo esiste, esiste solo come difetto di qualche cosa di positivo, di buono, come lo strappo di un abito esiste solo in quanto esiste quell'abito. Quando ci fermiamo a criticare i lati negativi di una persona o di un ambiente, facciamo opera demolitrice: demolitrice per la nostra virtù personale e per il bene del prossimo. Invece per fare opera costruttiva occorre oltrepassare il difetto e saper valorizzare le qualità e i lati buoni che non mancano in nessuna persona.
 
-luce che la nostra prudenza non sa darci. Infatti la prudenza
-pur essendo virtù infusa e soprannaturale, è sempre virtù
-esercitata mediante le nostre facoltà umane e perciò risente
-della nostra limitatezza; in aiuto ad essa, però, Dio ci ha dato
-un particolare dono dello Spirito Santo: il dono del consiglio,
-la cui attuazione non dipende da noi, ma che possiamo invocare con la preghiera,
+Del resto, non abbiamo anche noi molti difetti e forse più gravi di quelli del prossimo? «Perché guardi la pagliuzza nell'occhio del tuo fratello, mentre non badi alla trave che sta nel tuo occhio?» *(Mt.* 7, 3). Consideriamo seriamente queste parole di Gesù perché, purtroppo, non è difficile che, pur desiderando farci santi, s'annidi ancora nel nostro cuore qualcosa di questo detestabile spirito critico, di questa doppia misura nel considerare i difetti nostri e i difetti altrui. Quanto progresso faremmo nella carità fraterna e nell'acquisto della perfezione personale se, di fronte ai difetti altrui, anziché criticarli, ci esaminassimo per vedere se non vi fosse in noi qualche cosa di simile o, forse, di peggio e ci applicassimo ad emendarci! Diceva S. Teresa di Gesù alle sue monache: «Quando scoprite nelle vostre sorelle qualche difetto... procurate di esercitare con ogni possibile perfezione la virtù contraria alla mancanza che avete in esse osservata» *(Cam.* 7, 7); è proprio questo uno dei modi migliori per aiutare anche gli altri a correggersi.
 
-Quando poi, usando tutti i mezzi suggeriti dalla prudenza
-soprannaturale, la decisione è presa, sì, la stessa prudenza ci comanda di passare all'attuazione con coraggio e diligenza, senza frapporre indugi da parte nostra e senza scoraggiarci per le difficoltà che possiamo incontrare.
+**2** — Il giudizio è cosa riservata a Dio solo, perché solo Dio vede l'intimo dei cuori, conosce le intenzioni e i motivi che ci spingono ad agire: «mentre l'uomo guarda all'apparenza, il Signore guarda al cuore» *(I Re* 16, 7). Perciò chi giudica — a meno che non vi sia obbligato per ufficio o come i superiori — usurpa in un certo senso il diritto di Dio, si mette al posto di Dio. Erigersi a giudici dei propri fratelli include sempre un atteggiamento di orgoglio verso Dio e verso il prossimo. Di più, giudicando con facilità gli altri ci esponiamo a commettere sbagli grossolani proprio perché, non conoscendo le intenzioni altrui, ci mancano gli elementi sufficienti per formulare un giudizio retto.
 
+Evidentemente, di fronte ad un'azione di per sé riprovevole non siamo tenuti a giudicarla buona. Tuttavia dobbiamo saper scusare l'intenzione di chi la compie, non attribuendo la senz'altro a cattiva volontà. «Se le azioni del prossimo avessero cento facce, noi dovremmo considerarle secondo la migliore; e se poi è biasimevole l'azione, scusiamo almeno l'intenzione» *(T.M. Sp.* p. 413).
 
-2. — Perchè i nostri giudizi e le nostre scelte siano prudenti, dobbiamo saperle svincolare da elementi troppo soggettivi, quali sono i gusti, gli interessi, le antipatie o simpatie
-naturali. Talvolta possiamo illuderci di giudicare di una situazione, o di determinarci ad un'opera unicamente per la
-gloria di Dio e per il bene del prossimo, mentre se ci esaminassimo in profondità ci accorgeremmo forse che i motivi
-che hanno prevalso nel nostro giudizio o nella nostra deliberazione sono stati egoistici, di amor proprio, di vanità, di ricerca della stima altrui o di interesse personale. Anche la prudenza, quindi, ci richiede di purificare il cuore da tutti questi
-moventi umani, ci richiede sforzo e rinuncia. Proprio terminando di parlare della prudenza necessaria all'uomo che
-vuol fabbricare una torre ed al re che vuol entrare in guerra,
-Gesù ha detto: « Così, chiunque di voi non rinunzia a tutto
-
-anto possiede, non può essere mio discepolo » (Lc. 14,33).
-In altre parole, la prudenza necessaria a chi vuol essere vero
-seguace di Cristo consiste nel rinunciare a tutto ciò che gli può
-essere di ostacolo al conseguimento della vita eterna, consiste nel rinnegare se stesso per avere il cuore libero da moventi egoistici, personali. Solo questa rinuncia ci permetterà
-di trionfare delle reazioni spontanee del nostro amor proprio
-o degli impulsi del nostro egoismo e quindi ci metterà in grado di formulare giudizi retti, di fare scelte, di prendere dl
-berazioni spassionate.
-
-Soprattutto di fronte a giudizi o a deliberazioni di una
-certa importanza, che possono avere conseguenze per il prossimo o che possono corrispondere al nostro genio personale,
-la prudenza esige un esame coscienzioso per vedere se siamo
-davvero mossi da motivi soprannaturali indipendentemente
-
-
-da qualsiasi considerazione umana. Quando poi qualche circostanza ci ha un po’ scosso, un po' toccato sul vivo, la prudenza c'insegna a sospendere ogni giudizio e deliberazione finchè non sia ritornata la calma, altrimenti ci esporremmo ad
-agire più per passione che per un sincero amore del bene.
-
-«L'amore è prudente, cauto, retto», dice l’Imitazione di
-Cristo, e da ciò impariamo che la prudenza è indispensabile caratteristica della virtù genuina.
+Di fatto, anch'io commetto ogni giorno molte mancanze, anch'io cado in tanti difetti, ma ciò non significa che tutto dipenda da cattiva volontà. Spesso sono mancanze che mi sfuggono per inavvertenza, per fragilità e il Signore, purché io detesti queste mie debolezze, vuole che continui ad avere piena fiducia nel suo amore ed Egli continua ad amarmi. Come è per me, così è per gli altri; non ho quindi nessun diritto di dubitare della buona volontà del prossimo solo perché lo vedo commettere delle mancanze e neppure ho il diritto di diminuire per questo motivo la mia benevolenza e la mia stima verso di lui. Forse quella persona che tanto biasimo ha già detestato e pianto in cuor suo i suoi difetti più di quello che non faccio io per i miei, il Signore l'ha già perdonata e continua ad amarla; vorrò dunque essere io più severo del Signore? Devo allora ricordarmi che quella severità che io uso verso il prossimo, Dio stesso l'userà verso di me perché Gesù ha detto: «Sarete giudicati secondo lo stesso giudizio col quale avrete giudicato, e sarete misurati con la stessa misura con la quale avrete misurato» *(Mt.* 7, 2).
 
 ### Colloquio
 
-«O Dio, è più grata a te un’opera sola fatta con prudenza, che molte fatte con imprudenza e leggerezza, giacchè questa virtù considera e pondera molto bene ogni azione perchè
-riesca di tuo onore e gloria.
+«Chi giudica sei Tu, o Gesù! E per rendermi favorevole il tuo giudizio, o piuttosto per non essere giudicata, poiché Tu hai detto: 'non giudicate e non sarete giudicati', voglio essere prudente per non essere indulgenti. Perciò, allorché mi accadrà di vedere qualche cosa d'irregolare, cercherò subito di scusare il colpevole e di attribuirgli delle buone intenzioni che egli ha certamente.
 
-«La prudenza vera e soprannaturale è tua e in te, o Signore, e da pochi si trova perchè tanti la van cercando con
-un'astuzia che par prudenza, volendo investigare con la loro
-sapienza i tuoi disegni e così perdono il tempo e non la troveranno mai. Chi vuol veramente possedere la prudenza deve
-venire a te, Verbo incarnato, e in te la troveranno assieme a
-tutte le altre virtù, ma la troveranno assai diversa dalla prudenza umana la quale tende a ciò che esalta e non a quello
-che abbassa. In te troveranno la prudenza che conduce ad
-umiliarsi e ad abbassarsi, come Tu hai voluto umiliarti ed
-abbassarti per insegnarci la via che conduce alla salvezza. Tu,
-o Signore, hai detto: “Chi vuol venire dietro di me, rinneghi se stesso, prenda la sua croce e mi segua’. Oh, questa sì
-che è somma prudenza! Eppure alla prudenza umana appare
-somma pazzia. Agli uomini sapienti di questo mondo sembra
-somma pazzia pigliar la croce e venir dietro a te, Cristo crocifisso! Ma Tu m'insegni che la stoltezza della croce è somma sapienza, e il rinnegare se stesso è somma prudenza. Quale più savia pazzia vi può essere che pigliar la croce con te
-e seguirti battendo le tue orme? E quale maggiore prudenza
-vi può essere che morire a se stesso per trovar vita in te, da
-cui riceve vita ogni cosa?» (S. M. Maddalena de’ Pazzi).
+«O Gesù, Tu mi fai comprendere che la principale indulgenza plenaria è quella che tutti possono acquistare senza le solite condizioni: è l'indulgenza della carità che copre la moltitudine dei peccati» (cfr. T.B.G. St. 9 e 10; CR.).
+
+«Insegnami, o Signore, a non giudicare il prossimo per difetto alcuno che lo vedessi commettere; e se lo vedessi peccare, dammi grazia di scusarne l'intenzione la quale è nascosta e non si può vedere. Ma se pure vedessi che l'intenzione è stata apertamente cattiva, dammi grazia di scusare il prossimo per la tentazione dalla quale nessun mortale viene escluso» (S. M. Maddalena de' Pazzi).
+
+«O Signore, aiutami a non considerare nel prossimo nient'altro che le virtù e le buone opere ed a coprire i difetti altrui con i miei grandi peccati. In tal modo Tu mi condurrai adagio adagio ad una virtù così solida da considerare gli altri sempre migliori di me. Ma per giungere a tanto il tuo aiuto mi è assolutamente necessario: senza di te, infatti, le mie sforze sono tutte inutili; perciò ti supplico che Tu stesso ponga in me questa virtù» (cfr. T.G. *Vi.* 13, 10).

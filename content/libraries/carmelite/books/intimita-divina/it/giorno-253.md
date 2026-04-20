@@ -1,90 +1,17 @@
-## 253 — L'ESTENSIONE DELLA CARITÀ FRATERNA
+## XXIII — SPERARE SENZA MISURA
 
-### Presenza di Dio
-
-— O Signore, fammi comprendere che la vera carità non ammette eccezioni, ma abbraccia con amore sincero qualsiasi prossimo.
+**Presenza di Dio.** — *Sostieni, o Signore, la mia speranza affinché io possa sperare in te senza misura.*
 
 ### Meditazione
 
-1. — Se la carità si basasse sulle qualità del prossimo,
-sui suoi meriti, sul suo valore, se si basasse sul conforto e sui
-benefici che da esso riceviamo, sarebbe davvero impossibile
-estenderla a tutti gli uomini. Ma, poichè si fonda sulle relazioni del prossimo con Dio, nessuno può esserne lecitamente
-escluso, giacchè tutti appartengono a Dio, sono di fatto creature sue e, almeno per vocazione, sono tutti figli suoi, redenti dal
-Sangue di Cristo, chiamati a vivere «in società» con Dio
-(cfr. I Gv. 1, 3) mediante la grazia qui in terra e la visione
-beatifica nel cielo. E anche se alcuni, per la loro malizia, si
-sono resi indegni della grazia di Dio, tuttavia, finchè vivono,
-sono pur sempre capaci di convertirsi e di essere riammessi
-nella dolce intimità del Padre celeste.
+**1** — «L'uomo — insegna S. Tommaso — non può mai amare Dio quanto Egli deve essere amato; parimenti non possiamo credere e sperare in lui quanto dobbiamo» (I-II, q. 64, a. 4). Perciò si può dire che la misura di sperare in Dio è di sperare senza misura. La tua speranza, la tua fiducia in Dio non sarà mai eccessiva, mai esagerata, perché si appoggia sulla misericordia di Dio che non ha limiti. Se cerchi sinceramente di fare da parte tua tutto quello che puoi per piacere a Dio, non devi temere di sperare troppo in lui. La sua potenza soccorritrice, il suo desiderio del tuo bene, della tua santificazione superano infinitamente le tue speranze, per quanto ardite possano essere. A Dio piace talmente questa speranza cieca, intensa in lui che, quanto più ci vede sperare, tanto più ci ricolma dei suoi beni: «tanto più l'anima spera, tanto più ottiene», ha detto S. Giovanni della Croce (S. III, 7, 3) e S. Teresa del B. G., facendo suo questo pensiero, esclama: «Non si può mai abbastanza confidare in Dio che è tanto potente e misericordioso. Si ottiene da lui quanto appunto da lui si spera» (St. 12).
 
-Nell'Antico Testamento, in cui il grande mistero della
-comunicazione della vita divina agli uomini non era ancora
-stato rivelato e Gesù non era ancora venuto ad instaurare
-la realizzazione di questi nuovi rapporti fra Dio e gli uomini,
-la legge dell'amore del prossimo non esigeva questo abbraccio universale e profondo di cui gli antichi non sarebbero stati
-capaci. Ma da quando Gesù è venuto a dirci che Dio è nostro Padre al punto di volerci comunicare la sua vita divina,
+Quanto più ti trovi misero, debole, impotente, tanto più buttati a sperare in Dio; se non puoi né devi aspettarti di giungere alla santità con le tue forze, devi sperare di giungervi con la forza di Dio che è onnipotente, devi sperare di giungervi per la sua misericordia infinita che ama chinarsi sulle anime consapevoli della propria debolezza, che ama, come ha detto la Madonna «esaltare gli umili e ricolmare di bene di affamati» (cfr. *Lc.* 1, 52-53). L'esperienza della tua miseria deve farti sentire sempre più vivo il bisogno di Dio, anzi, la tua stessa miseria deve essere un grido incessante che invoca con piena fiducia il suo aiuto onnipotente. Più l'anima tua si dilaterà nella speranza, nella fiducia in Dio, e più si spalancherà alla sua azione santificatrice. La misericordia di Dio è pronta a scendere su di te per purificarti, per santificarti, ma, per farlo, aspetta che tu le apra le porte del tuo cuore con un atto d'immensa confidenza.
 
+**2** — Quando un'anima si sforza di applicarsi con tutta la sua buona volontà all'esercizio delle virtù, all'adempimento di ogni suo dovere, quando è decisa a non rifiutare nulla al Signore, deve mantenersi in un atteggiamento di totale fiducia in lui, nonostante le inevitabili cadute. Sì, devi avere una fiducia estrema che il Signore verrà a santificarti nonostante le mancanze del passato, le miserie del presente, le aridità di spirito, le ripugnanze della natura, la stanchezza, l'abbattimento di forze.
 
-da quando Gesù è venuto ad offrirci la grazia di adozione
-a figli di Dio, il precetto della carità ha acquistato una nuova
-ampiezza. «Voi avete udito che è stato detto: 'amerai il
-tuo prossimo e odierai il tuo nemico". lo invece — proclama
-Gesù — dico a voi: "amate i vostri nemici, fate del bene a
-chi vi odia e pregate per quelli che vi perseguitano e vi calunniano, affinchè siate figli del Padre vostro, che è nei
-cieli, il quale fa sorgere il sole sui buoni e sui cattivi e fa piovere sui giusti e sugli ingiusti» (Mt. 5, 43-45). Ecco come
-Gesù stesso dichiara il motivo della carità universale: dobbiamo amare tutti per essere figli del Padre celeste, per imitare il suo amore universale verso tutti gli uomini che sono
-creature sue, da lui eletti a suoi figli adottivi. Anche Gesù
-c'insegna che dobbiamo amare il prossimo « propter Deum»,
-a motivo di Dio.
-
-
-2. — Molte volte in pratica troviamo difficile il precetto
-della carità universale, perchè facciamo dell'amore del pros:
-simo un fatto quasi esclusivamente personale, soggettivo e
-quindi egoistico. In altre parole, anzichè far dipendere il
-nostro amore per il prossimo dalle sue relazioni con Dio, lo
-facciamo dipendere dalle sue relazioni con noi. Se il prossimo ci ama, ci rispetta, ci tiene in giusta considerazione, ci presta servizi, ecc. non troviamo nessuna difficoltà ad
-amarlo, anzi ci compiacciamo in questo amore e cerchiamo
-in esso conforto. Ma ben altro accade se il prossimo ci è contrario, se ci urta, se ci procura — sia pure involontariamente — dei dispiaceri, se non condivide il nostro modo di pensare, se non approva la nostra condotta. Di fronte a tutto ciò
-dobbiamo pur convenire che sbagliamo in partenza sostituendo a Dio, che è il vero motivo per cui dobbiamo amare
-il prossimo, il nostro misero io con le sue esigenze egoistiche.
-Anche in fatto di amore del prossimo dobbiamo riconoscere
-che siamo purtroppo quasi sempre egocentrici e ben poco
-teocentrici. Se il centro dei nostri rapporti col prossimo fosse veramente Dio, sapremmo superare il punto di vista egocentrico, ossia egoista, personale e, pur soffrendo per i torti,
-le indelicatezze, i dispiaceri che possiamo ricevere dal prossimo, non prenderemmo mai da ciò motivo per rifiutargli il
-nostro amore. In fondo, è sempre l'egoismo che ci porta fuori
-strada e, in questo caso, ci chiude la strada alla pratica della
-carità teologale.
-
-Bisogna, dunque, vincere l'egoismo e slanciarci oltre gli
-orizzonti tanto limitati di un amore basato sui nostri interessi personali. Guardiamo più in alto, guardiamo a Dio che
-ripete anche a noi come a S. Caterina da Genova: « Chi
-ama me, ama tutto ciò che è amato da me». Se, a motivo delle
-difficoltà che incontriamo nei nostri rapporti col prossimo, la
-nostra carità si arresta, vuol dire che ciò che regola i nostri rapporti con i fratelli non è l'amore di Dio, ma l'amore del nostro io.
+Dio ci ama non perché siamo senza peccato, ma perché siamo suoi figli, perché ha infuso in noi la sua grazia. E tu non devi mai fare a Dio il torto di non credere al suo perdono; né devi scoraggiarti per le cadute che ti sfuggono malgrado la tua buona volontà. Se ti scoraggi è perché cerchi la perfezione, non solo per la gloria di Dio, ma un po' anche per la tua soddisfazione, è perché vorresti essere sicuro di te stesso, anziché voler essere sicuro di Dio solo. E tutto ciò, in fondo, è frutto di orgoglio sottile. Invece di sgomentarti, d'irritarti per le tue imperfezioni, riconoscile umilmente, presentale a Dio come il malato presenta le piaghe al medico, chiedi perdono e poi ricomincia subito da capo con grande fiducia. Devi imparare a servirti delle tue mancanze, delle tue miserie per patrocinare la tua causa, per dimostrare a Dio quanto hai bisogno del suo aiuto, per aumentare la tua fiducia in lui. La speranza in Dio è la grande ancora di salvezza della tua povera anima sbattuta dai flutti della fragilità umana. In questo senso S. Paolo ti esorta a procedere «sorretto dalla virtù di Dio, il quale ci ha salvati e ci ha chiamati con una santa chiamata, non già per le nostre opere, ma secondo il proprio disegno e per la grazia concessa a noi in Gesù Cristo» *(II Tim.* 1, 8.9). Lungi dal concludere che le opere buone sono inutili, la speranza cristiana esige da parte tua tutta l'applicazione possibile per fare il bene e fuggire il male; ma poi ti lancia molto al di là delle tue povere opere, ti lancia in Dio, nella sua misericordia infinita.
 
 ### Colloquio
 
-«O Gesù, lo sai, io non trovo nemici intorno a me, ma
-trovo però, delle simpatie: mi sento attirata verso una sorella e invece un'altra mi farebbe fare un bel giro per iscansarla: Ebbene, Tu mi dici che devo amare questa sorella e pregare per lei, anche se dal suo modo di fare potessi capire che
-non sono nelle sue grazie. 'Se amate coloro che vi amano,
-qual merito ne avrete? Anche i peccatori, infatti, amano chi li
-ama'. E m'insegni pure che l'amore non basta, perchè l'amore va provato con le opere. Godere nel far piacere ad un
-amico è naturale, ma in ciò non consiste la carità: anche i
-peccatori lo fanno.
-
-«Ecco, dunque, la conclusione che Tu mi suggerisci: devo cercare la compagnia delle sorelle che non mi piacciono per
-naturale inclinazione e compiere a loro riguardo l'ufficio del
-buon samaritano. Basta spesso una parola ed un amabile sorriso per dilatare un'anima triste e ferita! Tuttavia, o Signore, Tu non vuoi che io sia caritatevole per la sola speranza
-di consolare gli altri; mirando soltanto a questo scopo presto
-mi scoraggerei, perchè una parola detta con la migliore intenzione verrà forse presa a traverso. Perciò, per non perdere nè tempo, nè fatica, vuoi che mi sforzi di operare unicamente per rallegrare te, o Gesù, e per rispondere al tuo
-consiglio: "Quando dai un banchetto, non invitare i parenti
-e gli amici, per timore che anch'essi invitino te e così tu abbia ricevuto la tua ricompensa'.
-
-«O Gesù, quale banchetto potrò mai offrire alle mie sorelle se non un banchetto spirituale fatto di una carità
-lieta ed amabile? Insegnami ad imitare S. Paolo che si rallegrava con coloro che trovava nella gioia. E' vero che anche
-le lacrime dovranno qualche volta apparire nel banchetto che
-voglio imbandire, ma col tuo aiuto, cercherò sempre che le
-lacrime si cambino in riso, poichè Tu ami chi offre con gioia »
-(T.B.G. St. 9 e 10).
+«O Gesù, come può un'anima così imperfetta al pari della mia aspirare alla pienezza dell'amore? Che mistero è mai questo? E perché, mio unico Amico, non riserbi questi desideri immensi alle anime grandi, alle aquile che si librano alle altezze supreme? Tu lo sai, io non sono che un povero uccellino, coperto appena di una leggera lanugine, non sono già un'aquila e dell'aquila non ho che l'occhio ed il cuore perché, nonostante la mia estrema debolezza, oso fissare il Sole divino dell'amore. Vorrei volare verso questo Sole splendente, vorrei elevarmi lassù, sino al focolare divino della SS.ma Trinità. Ma l'unica cosa che io posso fare è di sollevare le mie piccole ali, ma non è già in mio potere innalzarmi fino a quelle altezze. Che sarà mai di me? Morirò forse di dolore alla vista della mia impotenza? Oh, no, non me ne affliggerò affatto! Con audace abbandono voglio restarmene qui, fissando anche la morte il mio Sole divino. Niente potrà spaventarmi, né il vento, né la pioggia; se grosse nubi verranno a celarmi l'Astro d'amore, mi parrà di credere che non esista altra cosa all'infuori della notte di questa vita, sarà allora il momento della gioia *perfetta*, il momento di spingere la mia confidenza sino ai limiti estremi, guardandomi bene dal mutar posto, sapendo che, oltre queste tristi nubi, continua a brillare il mio dolce Sole. E, se Tu resti sordo al grido lamentevole della tua debole creatura, se resti velato, ebbene, acconsento a restare bagnata, accetto di rimanere assiderata dal freddo e godo ancora di questa sofferenza che mi son meritata. Sì, o mio Astro diletto, son felice di sentirmi piccola e debole alla tua presenza!... Un giorno, o Gesù, Tu piomberai sopra di me, trasportandomi nel focolare dell'amore e mi immergerai finalmente in quell'ardente voragine» (cfr. T.B.G. St. 11).

@@ -1,124 +1,28 @@
-## 141 — A ANUNCIAÇÃO DE MARIA
-*março*
+## 143 — FICA CONOSCO
+*Segunda-feira de Páscoa*
 
 ### Presença de Deus
 
-Ao teu lado, ó Maria, quero aprender a repetir em toda circunstância o teu: "Ecce ancilla Domini!".
+— Ó Jesus, doce peregrino, não me deixes; tenho necessidade de ti.
 
 ### Meditação
 
-1 — Através do sugestivo relato de S. Lucas
-(Evangelho: 1, 26-38), procuremos penetrar as disposições da alma de Maria no momento da Anunciação.
-O Anjo, enviado por Deus, encontra a Virgem recolhida em
-solidão e, "entrando onde ela estava", diz-lhe: "Ave, cheia de
-graça; o Senhor é contigo! Tu és bendita entre as mulheres".
-Diante de tais palavras Maria - diz o texto sagrado - "se
-perturbou"; não devemos, porém, entender esta expressão
-no sentido de uma verdadeira perturbação que tira a serenidade da mente, mas antes no sentido de uma profunda
-admiração diante da inusitada saudação, admiração tão
-grande que gera uma espécie de temor. Esta foi a
-primeira reação de Maria diante da mensagem angélica,
-reação proveniente da sua profundíssima humildade, que
-deve ter-lhe feito parecer bem estranho tão extraordinário elogio.
-Enquanto isso o Anjo lhe comunica o grande anúncio: Deus
-quer que Ela se torne Mãe do Redentor. Maria, vivendo sob o contínuo governo do Espírito Santo,
-justamente por sua inspiração havia feito voto de virgindade e portanto está
-persuadida de dever permanecer virgem e de que tal seja a vontade
-de Deus. Mas agora Deus lhe faz saber que a elegeu Mãe do
-seu Filho, e ela, humilde serva, está pronta a aderir ao plano
-divino; contudo não compreende como poderá ser ao mesmo tempo
-mãe e virgem e, sobre este ponto, interroga o Anjo: "Como acontecerá isso?" O Anjo explica: "O
-Espírito Santo descerá sobre ti e a potência do Altíssimo te
-cobrirá com sua sombra". Sua maternidade será obra
-direta do Espírito Santo e respeitará sua virgindade.
+1. — Deus nos fez para si e nós não podemos viver sem Ele; temos necessidade, temos fome e sede dele, o Único que pode preencher o nosso coração. A liturgia pascal é toda perpassada por este anelo para Deus, para o alto, e até no-lo apresenta como o distintivo da nossa participação no mistério pascal: «Se ressuscitastes com Cristo, buscai as coisas do alto, onde Cristo está sentado à direita de Deus; pensai nas coisas do alto, não nas da terra» (BR.). Quanto mais a alma se renova na ressurreição de Cristo, tanto mais sente necessidade de Deus e das coisas celestes; e assim se desprende cada vez mais das coisas da terra, para voltar-se para as do céu.
 
-A vontade de Deus já lhe está inteiramente desvelada,
-e Maria, que em toda sua vida foi sempre e somente
-movida pelo querer divino, logo a abraça com a mais
-inteira adesão e com o mais intenso e puro amor: "Eis
-a serva do Senhor, faça-se em mim segundo tua palavra".
-A aceitação total é acompanhada por uma total
-doação: Maria aceita oferecendo-se e oferece-se doando-se.
-Oferece-se como serva, aliás como escrava, se entendermos
-a palavra em toda a força do texto grego; doa-se abandonando-se como presa à vontade divina, aderindo
-de antemão a tudo aquilo que Deus quiser dela. Adesão
-passiva e ativa ao mesmo tempo, pela qual Maria quer tudo o que
-Deus quer, aceitando tudo o que Ele faz e fazendo tudo o que Ele deseja. Maria aparece-nos assim
-como modelo da alma totalmente unida, plenamente
-entregue à vontade de Deus.
+Assim como a fome física é sinal de um organismo são e cheio de vida, assim a fome espiritual é sinal de uma vida espiritual eficiente e em contínuo desenvolvimento. A alma que não percebe a necessidade de Deus, a necessidade de procurá-lo e encontrá-lo, a alma que não vibra e não sofre pela ansiedade desta busca, não traz em si os sinais da ressurreição; será uma alma morta, ou ao menos amortecida e, portanto, tornada insensível pela tibieza. O aleluia pascal é um grito de triunfo pela ressurreição de Cristo, mas ao mesmo tempo é um convite premente à nossa ressurreição. Semelhante a um toque de alvorada de guerra, chama-nos aos combates do espírito, convida-nos a sacudir-nos, a renovar-nos, a participar cada vez mais a fundo da ressurreição de Cristo. Quem, por mais avançado que esteja nos caminhos do espírito, pode dizer que realizou totalmente a sua ressurreição?
 
+2. — Na Missa de hoje lê-se o belíssimo evangelho dos discípulos de Emaús (Lc. 24, 13-35), no qual encontramos a insistente súplica: «Fica conosco, porque já é tarde e o dia já declina».
 
-2 — A explicação do Anjo não tira que muitas
-circunstâncias do que deverá acontecer permaneçam veladas e
-obscuras ao olhar de Maria. Ela se encontra diante de um
-mistério, e de um mistério que intui rico de sofrimento,
-pois pelas Sagradas Escrituras sabe que o Redentor deverá ser o homem das dores, sacrificado para a salvação da humanidade. O gáudio inefável da maternidade divina lhe se apresenta
-portanto envolto num mistério de dor: aceitar
-ser a Mãe do Filho de Deus significa aceitar
-ser a Mãe de um justiçado, de um condenado
-à morte. E Maria no seu fiat abraça tudo isso:
-como diante do gáudio, assim diante do mistério e da
-dor, não tem senão uma única resposta simples: "Eis
-a serva do Senhor". Por esta sua adesão a Madonna vem intimamente associada à vida de sofrimento
-do seu Jesus e, portanto, à sua obra de Redenção, e
-torna-se a Mãe espiritual do gênero humano. Este
-era o plano divino sobre ela e Maria o aceitou totalmente,
-sem reservas, justamente porque sua vontade estava
-totalmente unida à vontade de Deus.
+Fica conosco, Senhor! é o grito da alma que, tendo encontrado o seu Deus, não quer mais separar-se dele. Também nós, como os discípulos de Emaús, andamos à procura do Senhor; toda a nossa vida é um contínuo peregrinar para ele, e muitas vezes também nós estamos tristes porque não conseguimos encontrá-lo, porque, não compreendendo os seus caminhos misteriosos, parece-nos quase que ele nos tenha abandonado. «Esperávamos que ele fosse libertar Israel, mas...» diziam os dois discípulos, desiludidos pela morte de Jesus, e não percebiam que, justamente quando estavam para perder toda esperança, Jesus estava ali perto deles, feito seu companheiro de viagem. Assim acontece também conosco: embora oculto na obscuridade da fé, Deus se aproxima das nossas almas, faz-se companheiro do nosso caminho; mais ainda, vive em nós pela graça. É verdade, aqui embaixo ele não se mostra na clareza do «face a face» reservado para a eternidade, e nós o vemos só «por espelho, em enigma» (I Cor. 13, 12), mas, contudo, Deus sabe fazer-se reconhecer. Como aos discípulos de Emaús, assim também a nós a sua presença se revela de um modo obscuro, sim, mas inconfundível, por aquele ardor todo particular que só ele sabe despertar em nossos corações: «Não ardia acaso o nosso coração no peito enquanto ele nos falava?». A alma que, ainda que uma única vez, assim encontrou o Senhor, e o encontrou não só fora de si, mas dentro de si, vivente e operante no seu coração, não pode deixar de lhe dirigir o grito: «Fica comigo!»
 
-Todo cristão recebe de Deus uma vocação,
-uma missão a cumprir, mediante a qual é chamado a participar da obra redentora de Jesus. Essa missão, para
-as almas consagradas a Deus, culmina sempre numa tarefa
-de paternidade ou maternidade espiritual. Oh, se diante do
-chamado divino toda alma soubesse responder com a plena
-adesão de Nossa Senhora: "Ecce ancilla Domini... fiat"!
-Muitas vezes em nossa vida recebemos convites do Senhor - e certamente receberemos ainda - convites ao sofrimento, ao sacrifício, ao dom de
-si. Como correspondemos? A visão das fadigas
-e dores que devíamos abraçar nos terá
-talvez detido? Procuremos ao menos para o futuro
-ter os olhos da alma mais abertos para compreender, como Maria,
-que precisamente através do sofrimento Deus nos chama a contribuir com Jesus para a santificação das almas.
+E, contudo, este grito já é atendido, já é uma realidade permanente, porque de fato Deus está sempre com a alma em graça; Deus está sempre conosco, mesmo quando não o sentimos, mesmo quando não percebemos a sua presença. Deus está, Deus permanece conosco; cabe a nós permanecer com ele. E se em certos momentos Deus se deixa reconhecer pela alma, faz isso precisamente para convidá-la a viver com ele, na sua intimidade. Peçamos-lhe, pois, com ardor: ensina-nos, Senhor, a permanecer contigo, a viver contigo.
 
 ### Colóquio
 
-"Eu te saúdo, Maria, ó cheia de graça, o Senhor é contigo!
-Não só está contigo Deus Filho, a quem dás teu sangue,
-mas também Deus Espírito Santo, por obra do qual concebes,
-também Deus Pai que desde a eternidade gerou aquele
-que tu concebes. Está contigo o Pai, que faz teu o Filho
-seu; está contigo o Filho, que, querendo cumprir um prodigioso
-mistério, esconde-se em teu seio materno sem violar
-a integridade virginal; está contigo o Espírito Santo, que juntamente
-com o Pai e o Filho te santifica. Deus está contigo,
-verdadeiramente" (S. Bernardo).
+«Esperança minha, Pai meu, meu Criador, meu verdadeiro Senhor e irmão, quando penso naquilo que tu dizes, isto é, que as tuas delícias estão em habitar com os filhos dos homens, minha alma se inunda de alegria. Senhor do céu e da terra, onde está o pecador que, depois de tais palavras, ainda possa desesperar? Talvez, Senhor, não tenhas nenhum outro com quem tomar as tuas delícias, para vir buscá-las num verme tão repelente como eu sou?... Ó imensa misericórdia! Ó favor infinitamente superior aos nossos méritos!
 
-"Ó Maria, Maria, templo da Trindade... Ó Maria,
-vaso de humildade, agradastes ao Pai Eterno, de modo que Ele te
-arrebatou e te atraiu a si, amando-te com singular amor. Com
-o fogo da tua caridade e com o óleo da tua humildade atraíste
-a Divindade a vir em ti.
+«Alegra-te, alma minha, ... e, pois que o Senhor encontra em ti as suas delícias, que as coisas da terra não te impeçam de encontrar nele as tuas e de alegrar-te com as suas grandezas.
 
-"Maria, à palavra do Anjo talvez te perturbaste por
-medo? Não parece, embora mostrasses sinal de admiração.
-De que, então, te admiraste? Da grande bondade de Deus,
-enquanto, considerando a ti mesma, te conheceste indigna de tanta graça. Estavas pois admirada e pasmada pela consideração da tua indignidade e enfermidade e da inefável graça de Deus... e assim demonstravas profunda humildade.
-Mas em ti ainda, ó Maria, demonstra-se hoje a dignidade e a liberdade do homem, porque antes que o Verbo se encarnasse foi mandado a ti o Anjo para buscar o consentimento da tua vontade.
-E o Filho de Deus não desceu ao teu seio antes que
-tu consentisses; Ele esperava à porta da tua vontade
-que tu lhe abrisses, porque queria vir em ti; e jamais ali
-teria entrado se tu não lhe tivesses aberto dizendo: -
-'Eis a serva do Senhor; faça-se em mim segundo tua
-palavra...'
+«Ó Senhor, não amo o mundo, nem qualquer coisa que lhe pertença; fora de ti não encontro contentamento em parte alguma: parece-me, aliás, que tudo é cruz pesadíssima...
 
-"Ó Maria, dulcíssimo amor meu, tu abriste à eterna
-Divindade a porta da tua vontade e logo o Verbo
-se encarnou em ti. E com isso me ensinas que Deus,
-que me criou sem mim, não me salvará sem
-mim... mas Ele bate à porta da minha vontade e espera
-que eu lhe abra" (S. Catarina de Sena).
-
-Ó Mãe, pelo inefável mistério que hoje se cumpre em
-ti, peço-te que sempre me ensines e me ajudes a escancarar a porta da minha alma a todo chamado divino, a
-toda solicitação da graça. Faze que diante de qualquer
-manifestação do querer divino eu possa sempre repetir
-contigo o meu humilde e pronto: "Ecce, fiat".
+«Ó meu Deus, a única coisa que temo — e a temo com razão — é que tu me deixes. Conheço bem até onde chega a minha pouca virtude e valentia e o que eu posso fazer se tu não continuares a infundir-me fortaleza e a ajudar-me para que eu não te deixe... Parece-me, ó Senhor, que me seria impossível abandonar-te... Mas, como te abandonei tantas vezes, agora não posso deixar de temer, sabendo que bastaria que te afastasses um pouco de mim para que eu logo rolasse por terra. Mas sejas tu bendito, ó Senhor! Enquanto eu te abandonava, tu nunca me abandonavas completamente; antes, estendias a mão para que eu pudesse logo levantar-me. Ó Senhor, tu que conheces todas as coisas, olha para a minha fraqueza e não me deixes só» (cfr. T.G. Es. 7, 1 e 3; Vi. 6, 9).

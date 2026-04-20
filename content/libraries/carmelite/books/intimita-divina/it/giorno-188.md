@@ -1,104 +1,25 @@
-## 188 — I DONI DELLO SPIRITO SANTO
+## XIX — DOLCE OSPITE DELL'ANIMA
 
-### Presenza di Dio
+*Triduo di Pentecoste*
 
-O Spirito Santo, apri la mia anima ai tuoi doni, affinchè io possa ricevere le tue mozioni divine.
+**Presenza di Dio.** — *O Spirito Santo, che ti degni di abitare in me, aiutami ad aprirmi totalmente alla tua azione.*
 
 ### Meditazione
 
-1. — Abbiamo già visto che non è possibile giungere
-al perfetto orientamento in Dio, alla santità, senza il soccorso dello Spirito Santo. E questo soccorso non è riservato ad anime privilegiate, ma è necessario per ogni cri
-stiano. Infatti, nel santo battesimo ogni anima, insieme
-alla grazia santificante, riceve le virtù infuse e i doni
-dello Spirito Santo. Le virtù infuse sono principi soprannaturali di attività, per cui noi diventiamo capaci di agire
-in un modo virtuoso non solo da un punto di vista
-umano, ma da un punto di vista soprannaturale, sì che
-abbiamo la capacità cli compiere azioni meritorie e quindi
-di applicarci attivamente al raggiungimento della santità.
-I doni dello Spirito Santo, invece, sono Panni soprannaturali per cui diventiamo capaci di ricevere il soccorso
-dello Spirito Santo, di riconoscere le sue ispirazioni e di
-assecondarle. In altre parole, i doni sono disposizioni permanenti che Dio ha posto nelle nostre facoltà affinchè noi
-possiamo ricevere e seguire l'impulso dello Spirito Santo.
-San Tommaso li paragona alle vele della barca: come la barca, mediante le vele, ha la capacità di essere mossa e portata
-dal vento, così l'anima nostra, mediante i doni, ha la
-capacità di essere mossa e guidata dallo Spirito Santo.
+**1** — L'Enciclica «*Mystici Corporis*» afferma che «lo Spirito Santo è l'anima della Chiesa». Anima significa «principio di vita», perciò questa affermazione equivale a dire che il divino Paraclito è Colui che fa vivere la Chiesa; come l'anima è il principio di vita del corpo, così lo Spirito Santo è il principio di vita della Chiesa, Corpo Mistico di Cristo (cfr. Enc. *Divinum illud munus*).
 
+Abbiamo visto che lo Spirito Santo stava nell'Anima di Cristo per dirigerla al compimento della sua missione redentiva. Gesù avrebbe potuto assolvere completamente da solo tale missione, ma invece ha voluto associarvi anche la Chiesa; dovendo dunque la Chiesa prolungare l'opera di Cristo, ha bisogno dello stesso Impulso che muoveva l'Anima di Lui, ha bisogno dello Spirito Santo. Difatti Gesù, sulla Croce, ci ha meritato il suo Spirito: con la sua morte Egli ha anzitutto espiato il peccato, che è l'ostacolo all'invasione dello Spirito Santo e poi, tornato al cielo, l'ha inviato agli Apostoli, rappresentanti tutta la Chiesa. Ed anche ora, mentre siede glorioso alla destra del Padre suo intercedendo sempre per noi, di continuo, insieme col Padre, invia alla Chiesa lo Spirito Santo che le ha promesso. Ed ecco che il divino Spirito opera nella Chiesa quello che operava nell'Anima santissima di Cristo: le dà l'impulso, la muove, la spinge al compimento della volontà di Dio, affinché essa adempia la sua missione, ossia prolunghi attraverso i secoli l'opera redentiva del Salvatore. Giustamente, perciò, gli antichi Padri hanno detto che lo Spirito Santo è l'anima della Chiesa, e nel
 
-Se un marinaio mette le vele alla sua imbarcazione,
-vuol dire che intende farla procedere non solo a forza
-di remi, ma anche con la spinta del vento. Parimenti
-se Dio ha infuso nell'anima nostra i doni dello Spirito
-Santo, vuol dire che intende farla avanzare non solo con
-l’esercizio attivo delle virtù, ma anche mediante l’intervento dello Spirito Santo. E, mentre il marinaio può
-mettere le vele alla sua barca. ma non può suscitare il
-soffio del vento, Dio invece non solo ci ha dato i doni
-dello Spirito Santo, ma inoltre ha il potere di metterli in
-atto quando e come vuole. Il fatto stesso che nel nostro
-organismo spirituale Dio ha voluto inserire i doni, è la
-prova più evidente che Egli vuole intervenire nell'opera
-della nostra santificazione, che Egli vuole accordarci il
-soccorso dello Spirito Santo.
+«Credo» la Chiesa stessa lo invoca: «*Dominum et vivificantem!*» Siccome l'anima è principio di vita, così lo Spirito Santo vivifica la Chiesa: Egli è l'Impulso d'amore che accende in lei lo zelo per la gloria di Dio e per la salvezza delle anime, che dà luce e forza ai Pastori, che infervora e sospinge gli Apostoli, che dà coraggio e fede invincibile ai Martiri.
 
-2. — LEnciclica « Divinum illud munus» insegna:
-«Il giusto, che già vive la vita della grazia ed opera coll’aiuto delle virtù, ha bisogno di quei sette doni che
-diconsi propri dello Spirito Santo. fer mezzo di questi
-l'uomo si rende più pieghevole e forte insieme a seguire
-con maggior facilità e prontezza il divino istinto». «Il
-divino istinto» è appunto l'ispirazione e la mozione dello
-Spirito Santo; ora, eri per sua natura, sia pure con la
-migliore intelligenza e buona volontà, è incapace di comprendere e di seguire tale istinto: «l'uomo animale —
-dice S. Paolo — non capisce le cose dello Spirito di Dio;
-per lui sono stoltezze e non le può intendere » (1 Cor. 2, 14).
-Ecco quindi i doni dello Spirito Santo che ci sono stati
-dati proprio per renderci sensibili all’« istinto divino v: senza di essi non potremmo ricevere le mozioni dello Spirito
-Santo, Questo ci fa comprendere sempre più la preziosità dei
-doni e quindi l’importanza che si sviluppino in noi in tutta la
-loro pienezza. Infatti, anche i doni che abbiamo ricevuti
-in germe nel S. Battesimo sono destinati, come la grazia
-santificante e le virtù infuse, a crescere ed a svilupparsi
+**2** — Essendo la Chiesa la «società» dei fedeli, essa risulta appunto dalla loro unione; sono i fedeli, siamo noi che formiamo la Chiesa. Quindi, dire che Gesù ha meritato lo Spirito Santo per la sua Chiesa equivale a dire che lo ha meritato per noi; dire che Gesù, insieme col Padre, ha mandato e continua a mandare il suo Spirito alla Chiesa, è dire che l'ha mandato e continua a mandarlo a noi. Proprio in questo senso si esprime la «*Mystici Corporis*»: lo Spirito Santo «viene comunicato alla Chiesa copiosissima effusione, affinché le sue *singole membra* siano di giorno in giorno sempre più simili al Redentore». Lo Spirito Santo, dunque, esercita il suo influsso non solo nel Corpo della Chiesa, ma anche nelle singole anime, in cui abita quale «dolce ospite». Egli sta in noi per invadere le anime nostre, per santificarle, per plasmarci ad immagine di Cristo, per spingerci a prolungare la sua missione redentiva; Egli è l'Impulso d'amore che ci sollecita a compiere la santa volontà di Dio, che ci orienta alla glorificazione della SS.ma Trinità, che ci porta in Dio.
 
-fino alla morte. Ed è molto consolante pensare che, data
-la profonda unità del nostro organismo soprannaturale, la
-grazia, le virtù e i doni crescono simultaneamente e parallelamente col crescere della carità. Se vogliamo che i doni
-si sviluppino in pieno nell'anima nostra dobbiamo esercitarci
-senza posa nella carità; ad ogni progresso nell'amore divino
-corrisponderà un nuovo sviluppo dei doni. I doni sono le
-vele dell'anima, ma queste vele possono rimanere ammainate, legate dal nostro egoismo, dal nostro amor proprio,
-dagli attacchi a noi stessi ed alle creature; la carità, invece,
-libera le vele da ogni impaccio e le distende al soffio soave
-dello Spirito Santo: più le vele saranno sciolte ed ampie,
-più saranno capaci di cogliere il minimo impulso del divino Paraclito.
+Ma se lo Spirito Santo è un Impulso d'amore che viene in noi per santificarci, per portarci in Dio, come va che non ci facciamo tutti santi? Ecco un mistero che mette in vista la nostra tremenda responsabilità. Lo Spirito Santo, insieme col Padre e col Figlio, ci ha creati liberi e ci vuole tali, perciò, venendo in noi, rispetta e, quindi, non violenta la nostra libertà; pur desiderando entrare nell'anima nostra ed invaderci, non lo fa se noi non gli diamo libero accesso. È proprio il caso di richiamare il grande principio su cui ama tanto insistere S. Teresa di Gesù: «Dio non sforza nessuno: accetta quanto gli si da, ma non si dà del tutto se non a coloro che del tutto si danno a Lui» *(Cam.* 28, 12). Se non ci santifichiamo, non è perché lo Spirito Santo non lo vuole — Egli che ci è mandato e viene in noi appunto per questo — ma perché noi non diamo libero adito alla sua azione. È qui il punto in cui manchiamo: non usiamo della nostra libertà per aprire totalmente l'anima nostra alla sua potente ed amorosa invasione. Ma se la nostra volontà gli aprisse completamente le porte, lo Spirito Santo ci prenderebbe sotto la sua guida, e noi, per Lui, ci faremmo santi.
 
 ### Colloquio
 
-«Vedo te Dio Padre, Verbo e Spirito, e intendo che
-vai cercando, con somma sapienza, con eterna bontà, la
-tua creatura, in guisa che pare che Tu non abbia nè gloria,
-nè compiacimento alcuno, se non nella tua creatura che
-pur è tanto vile, e questo tuo Spirito è l'amore col quale
-vai cercando di pigliarla. E quel cuore che riceve lo Spirito, è simile a quel rovo che vide Mosè, che ardeva e non
-sì consumava, Ci una somma purità arde di desiderio
-che non sia offeso Dio, e si consuma dal desiderio che
-Dio sia onorato, sebbene non si vede consumare.
+«O Spirito Santo, Tu nel seno purissimo della Vergine Maria hai plasmato il nostro Redentore; Tu hai animato Gesù guidandolo in tutto ciò che Egli pensò, disse, fece e patì durante la sua vita terrena e nel sacrificio di se stesso su questa Croce, offrese al Padre per noi. E quando Gesù salì al cielo, Tu sei venuto sulla terra per stabilirvi il Corpo mistico di Cristo che è la Chiesa e per applicare a tale Corpo i frutti della vita, del Sangue, della Passione e della morte di Cristo. Senza di che Gesù avrebbe sofferto e sarebbe morto inutilmente. Di più, o Spirito Santo, nel S. Battesimo, Tu scendi in noi per formare nelle anime nostre Gesù Cristo, per incorporarci a Lui, per farci nascere e vivere in Lui, per applicarci gli effetti e i meriti del suo Sangue e della sua morte, per animarci, ispirarci, spingerci e condurre in tutto quello che dobbiamo pensare, dire, fare e soffrire per Iddio. Quale dunque dovrebbe essere la nostra vita? Oh, dovrebbe essere una vita tutta santa, tutta spirituale, secondo la parola di Gesù: "ciò che nasce dallo Spirito è spirito"!
 
-« Vieni, vieni, Santo Spirito. Venga l'unione del Padre,
-il compiacimento del Velbo, la gloria degli Angeli. Tu
-sei, o Spirito di Verità, premio dii Santi, refrigerio delle
-anime, luce delle tenebre, ricchezza dei poveri, tesoro di
-quelli che amano, sazietà degli esurienti, consolazione dei
-pellegrini, e, insomma, Tu sei quello nel quale si contiene
-ogni tesoro.
+«O divinissimo Spirito, mi dono tutto a te. Prendi possesso dell'anima mia, guidami in ogni cosa e fa' che io viva come un autentico figlio di Dio, come un membro non degenere di Gesù Cristo e come una cosa che, nata da te, a te totalmente appartiene e da te dev'essere totalmente posseduta, animata, condotta» (S. Giovanni Eudes).
 
-«O Spirito Santo, con una eterna sapienza sforzi dolcemente, senza toglier loro la libertà, le creature ragionevoli
-che vogliono ricevere i tuoi doni. Vai bussando al cuore di
-
-tutti, ma bussi dolcemente, cercando che ognuno si disponga a ricevere questi doni. Vai soavemente cantando con
-dolce pianto. Vai giubilando, piangendo ‘e ricercando che
-ognuno sia disposto a ricevetti. iri l'intelletto, noti la volontà, intenda la memoria l'immensa tua bontà, o Spirito
-Santo, che infondi te stesso e i tuoi doni nell'anima!
-O Spirito procedente dal Padre e dal Verbo, t'infondi nell'anima in un modo tanto soave che non è inteso e, non essendo inteso, da pochi è stimato. Eppure, oltre la tua Bontà,
-Tu infondi nell'anima la Potenza del Padre e la Sapienza del
-Figlio: e l’anima, resa così potente e sapiente, si rende
-atta a portarti in sè quale dolce abitatore, accarezzandoti,
-ossia comportandosi in modo che Tu ti compiaccia e non
-ti parta da lei» (S. Maria Maddalena de’ Pazzi).
+«O Spirito dell'anima mia, io ti adoro. Illuminami, guidami, consolami; insegnami ciò che devo fare, dammi i tuoi ordini; ti prometto di sottomettermi a tutto ciò che desideri da me e di accettare tutto ciò che permetterai mi accada» (Card. Mercier).

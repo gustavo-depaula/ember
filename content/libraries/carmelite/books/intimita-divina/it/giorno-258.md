@@ -1,89 +1,23 @@
-## 258 — IL MANTO DELLA CARITÀ
+## XXVIII — L'ECCELLENZA DELLA CARITÀ
 
-### Presenza di Dio
-
-— O Signore, insegnami a ricoprire col manto della carità i difetti e gli errori altrui.
+**Presenza di Dio.** — *Fammi comprendere, o Signore, il primato della carità, affinché io mi impegni in essa con tutto il cuore.*
 
 ### Meditazione
 
-1. — «Fratelli, non parlate male l'uno dell'altro. — esorta S. Giacomo — Chi parla male di un fratello, parla contro la legge» (4, 11), ossia contro la legge evangelica della
-carità fraterna. Per parlare male del prossimo non è necessario giungere a seminare sospetti ingiusti o attribuire colpe
-e torti non veri, ma è sufficiente anche parlare senza necessità
-dei difetti altrui, siano pure reali e noti a tutti. Anche ciò
-è contro la carità perchè in tal modo si fissa l’attenzione
+**1** — Tutte e tre le virtù teologali, avendo per oggetto diretto Dio, sono superiori alle virtù morali, le quali hanno per oggetto diretto il governo della nostra condotta; ma fra le stesse virtù teologali la carità ha il primato. Ha il primato perché, essendo inseparabile dalla grazia, è elemento costitutivo e indispensabile della nostra vita soprannaturale; dove non c'è carità non c'è grazia, non c'è vita, ma c'è morte: «Chi non ama rimane nella morte» e, per riscontro, «chi sta nella carità sta in Dio e Dio in lui» *(I Gv.* 3, 14; 4, 16). La fede e la speranza possono sussistere anche in un'anima che ha perduto la grazia, ma la carità no: è talmente *vitale* che non può sussistere con la morte causata dal peccato. Non solo, ma è talmente vitale che è imperituro e rimarrà immutata per tutta l'eternità. In cielo la fede e la speranza cesseranno perché esse comportano qualche cosa d'imperfetto, nel senso che la fede ci fa conoscere Dio senza darcene la visione e la speranza ci fa sperare in lui senza darcene il possesso, perciò, «quando verrà ciò che è perfetto» ossia la visione beatifica, queste due virtù non avranno più ragione di essere. Non così della carità la quale non implica nessuna imperfezione giacché ci fa amare Dio sia nell'oscurità della fede, sia nella chiarezza della visione e perciò, dice S. Paolo, «la carità non verrà mai meno». Quaggiù, per aderire a Dio, «soltanto queste tre cose perdurano: fede, speranza e carità, ma la più grande di tutte — conclude l'Apostolo — è la carità» *(I Cor.* 13, 8-13).
 
-propria e altrui sui lati difettosi del prossimo, anzichè sui
-lati buoni, con la conseguenza di diminuire nell'animo di
-chi ascolta la stima dovuta al prossimo, o almeno di gettarvi
-sopra qualche ombra. Ben diverso è il contegno della carità
-la quale, come dice la S. Scrittura, «su tutte le colpe stende il suo velo» (Pro. 10, 12) cercando piuttosto di coprire
-le mancanze altrui che di metterle in luce. Quella stessa industria che istintivamente usiamo per coprire i nostri difetti e i nostri torti, non amando per niente che gli altri ne facciano oggetto di conversazione, dobbiamo usarla per motivo
-di carità soprannaturale riguardo al nostro prossimo. Se noi
-siamo tanto sensibili circa quello che gli altri danno al nostro conto, come possiamo pensare che sia una cosa del tutto indifferente parlare con tanta libertà dei difetti altrui col pretesto che si tratta di difetti veri e già conosciuti? E i difetti
+La fede e la speranza non sono virtù complete, perché senza la carità non hanno il potere di unirci a Dio e di produrre opere di vita eterna. La fede e la speranza del peccatore che ha perduto la carità sono inattive, inoperose; restano in lui, è vero, ma vi restano come morte. «La fede senza le opere è morta» *(Giac.* 2, 26) e vale soltanto «la fede operante per mezzo dell'amore» *(Gal.* 5, 6) a tal punto che «se avessi tutta la fede, sì da trasportare le montagne e poi man-cassi di amore, non sarei nulla» *(I Cor.* 13, 2). È la carità che dà calore e forza di vita eterna alla fede ed alla speranza; è la carità che infonde vigore a queste virtù, perché solo chi ama è capace di credere e di sperare in Dio senza nessuna condizione, senza nessuna misura ed è capace di abbandonarsi a lui ad occhi chiusi.
 
-nostri non sono forse ugualmente veri e palesi a quanti ci avvicinano?
+**2** — Le virtù morali possono rendere l'uomo onesto, virtuoso, possono regolare il suo agire secondo ragione, ma non possono in nessun modo introdurlo nell'amicizia di Dio e neppure dargli la possibilità di meritare la vita eterna. Senza il soffio vivificatore della carità, tutto rimane morto, sterile, freddo; senza la carità l'uomo resta confinato nel piano naturale, non può essere figlio di Dio, non può essere suo amico, non può vivere in società con le Persone divine. La carità è il principio, la radice, la fonte, la misura della nostra vita soprannaturale: più amiamo e più cresce in noi la vita della grazia, più amiamo e più viviamo in Dio: «Noi sappiamo che siamo stati trasportati dalla morte alla vita perché amiamo» *(I Gv.* 3, 14).
 
-La carità fraterna consiste nell'amare il prossimo a motivo di Dio, in quanto appartiene a Dio ed è opera delle sue
-mani. Come ad una mamma non può far piacere sentir parlare dei difetti dei suoi figli, come un artista non ama che
-vengano criticate le sue opere, così a Dio non piace che si
-parli dei difetti delle sue creature. Perciò dobbiamo non
-solo proibirci severamente di parlare dei difetti altrui, ma
-dobbiamo anche evitare di prestare attenzione a chi lo fa.
-« Non ascoltare mai il racconto delle altrui debolezze — dice S. Giovanni della Croce — e se alcuno con te si lamentasse di un altro, potrai pregarlo umilmente di non dirti nulla» (PA. 68).
-
-
-2.— S. Teresa di Gesù scriveva alle sue figlie: « Godere
-che le virtù delle sorelle siano conosciute è sempre una
-gran cosa, come pure il sentir pena di un difetto notato in
-loro, come se fosse nostro e cercare di coprirlo» (M. V, 3,
-11). Ecco il vero atteggiamento di una delicata carità fraterna. Del resto è proprio quello che spontaneamente facciamo per i nostri amici, ma che, per carità universale,
-dobbiamo cercare di fare per qualsiasi persona. Troppe volte, però, il demonio, nemico della carità, suscita in noi delle
-lotte per farci agire in senso contrario. Anche i santi hanno
-conosciuto simili tentazioni, ma, mentre noi tante volte le
-assecondiamo, essi hanno saputo reagire con coraggio valendosene per esercitare con maggior impegno la carità. Ecco
-la tattica che usava S. Teresa del B. G. «Quando il demonio si sforza di porre davanti ai miei occhi i difetti di questa o di quella consorella, mi affretto subito a ricercarne le virtù e i buoni desideri; dico a me stessa che, se l'ho veduta cadere una volta, ella può ben aver riportato numerose vittorie da lei tenute nascoste per umiltà, e che anche quello
-che appare una colpa, può essere benissimo, per l'intenzione,
-un atto di virtù» (St. 9).
-
-Se una persona ci è naturalmente antipatica o ci ha fatto
-qualche torto ci sarà facile vedere in lei assai più i difetti
-che non le virtù e vedere i primi ingranditi e le seconde diminuite, ci sarà facile interpretare male quel che dice o che
-fa; è allora il caso di essere particolarmente vigilanti, di controbattere i pensieri poco benevoli che spontaneamente ci
-vengono in mente nei suoi riguardi e di non permetterci mai
-di parlarne agli altri. Non solo, ma dobbiamo reagire anche
-con atti positivi di carità: pregare particolarmente per lei,
-cogliere con disinvoltura tutte le occasioni per renderle qualche servizio, mostrarci verso di lei particolarmente gentili
-e benevoli. Il manto della carità deve essere tanto largo da
-coprire non solo i difetti degli amici, ma anche quelli dei nemici o delle persone che non ci vanno a genio. La carità non
-fa distinzioni personali, ma usa verso tutti uguale benevolenza, perchè in tutti vede e ama Dio solo.
+Cosa veramente impressionante: neppure le opere più grandi e più belle, come l'apostolato, la beneficenza, e neppure il martirio, valgono senza carità: «se anche sboccellassi a favore dei poveri tutto quello che ho e dessi il mio corpo per esser arso, e non avessi amore, non ne avrei alcun giovamento» *(I Cor.* 13, 3). Ma quando interviene la carità, tutto cambia aspetto, come cambia aspetto un panorama baciato dal sole e, con l'aspetto, cambia il valore: anche le opere più umili, gli atti di virtù più nascosti compiuti per amor di Dio acquistano valore di vita eterna. È questo il miracolo operato dalla carità che ben giustamente S. Tommaso chiama «forma e madre» di tutte le virtù. «Solo l'amore dà valore alle opere — dice Teresa di Gesù — e l'unica cosa necessaria è che l'amore sia così forte che niente valga a soffocarlo» *(Es.* 5, 2). Tutto ciò fa comprendere che la carità è davvero «il più grande e il primo comandamento» su cui si fonda «tutta la legge» *(Mt.* 22, 38 e 40). L'anima che intende questa grande verità non si preoccupa più, nella sua vita spirituale, di tante pratiche ed esercizi più o meno marginali, ma mira al cuore, al centro di questa vita, mira alla carità. L'unica sua preoccupazione è d'impegnare tutte le sue forze nell'esercizio dell'amore, di crescere nell'amore, di vivere il più possibile in continua attualità di amore e perciò in tutte le cose cerca di operare con l'unico fine di piacere a Dio, di dargli gusto, di dargli gloria.
 
 ### Colloquio
 
-«Per conoscere se possiedo vera carità, devo considerare
-se, quando mi metto a parlare di qualche mio prossimo,
-sono più pronta a dire le sue virtù che i suoi difetti. E sebbene non dicessi male, il solo stare ad udire il male, sarebbe già gran male perchè, tacendo, mostrerei d’acconsentire
-a quel che ascolto. Perciò, Dio mio, quando qualcuno mi
-verrà a dire qualche difetto del prossimo, non lo vorrò udire e gli dirò che faccia orazione per lui e preghi perchè io
-emendi me stessa. E più facilmente dirò il difetto a colui che
-lo commette, anzichè parlarne con altri perchè, facendo così,
-invece di porvi rimedio, si commettono molti altri difetti assai peggiori di quelli di cui si parla.
+«Rivestimi, o Signore, della veste purpurea della carità, la quale non solo aggiunge grazia alla fede ed alla speranza, ma ad un tratto innalza l'anima rendendola grazia e bella al tuo cospetto. Questa virtù è quella che attira maggiormente il tuo amore, che difende l'anima dall'amor proprio, che avvalora le altre virtù, dando ad esse forza e vigore, e grazia e bellezza affinché l'anima possa piacerti poiché, senza la carità, nessuna virtù è gradita agli occhi tuoi.
 
-«Se il mio occhio fosse puro, O Signore, vedrei molto
-bene in quale modo devo esercitare l’amore verso il mio prossimo. Scorgendomi difettosa in qualche cosa e trovando il
-medesimo difetto in un fratello, andrei da lui e gli chiederei
-consiglio pregandolo d'insegnarmi in qual modo correggermi. Allora egli, volendomi rispondere, andrà considerando
+«O dolcissimo amore di Dio, quanto sei mal conosciuto! Colui che scopre le tue sorgenti trova alfine riposo. Tu vuoi gli affetti della volontà di qualunque cosa che non sia Dio e solamente li volgi a lui e quindi disponi questa potenza per via d'amore e l'unisci a Dio.
 
+«O Signore, insegnami ad impegnare tutte le mie forze nell'amarti, sì che ogni facoltà dell'anima e del corpo, la memoria, l'intelletto, i sensi esterni ed interni, gli appetiti della parte sensitiva e spirituale, tutto, insomma, si muova per amore e in amore. Fa' che, nell'operare, io faccia ogni cosa per amore e nel patire sopporti tutto con gusto d'amore e così, Dio mio, custodisca per te tutta la mia forza» (cfr. G.C. N. II, 21, 10-11; AM. 16; C. 28, 8).
 
-quel difetto e così conoscerà di averlo in sè ed in tal modo
-rimarremo ammaestrati tutti e due. Dio mio, con quale dolce
-amore sa prendere il prossimo colui che ha l'occhio puro!
-
-«Se io amo la mia sorella, o Signore, ancorchè fossi a
-cantare le tue lodi, sarei obbligata ad interromperle per sovvenire alle sue necessità; e se devo fare questo per il suo bene
-materiale, molto più devo farlo per il bene dell'anima sua. Se
-per aiutare il corpo dovrei vegliare una notte o due, quando ne
-avesse bisogno, molto più, se avessi vera carità, non stimerei
-fatica vegliare una notte o due e con lacrime piangere un difetto, benchè minimo, della mia sorella; e sono obbligata a
-desiderare per lei ogni virtù e ad affaticarmi perchè l'acquisti.
-Non solo, poi, devo desiderare per lei la virtù e la salute dell'anima, ma anche che abbia molti meriti e che per la tua
-grazia, o Signore, si trasformi totalmente in te» (S. M. Maddalena de' Pazzi).
+«Propongo, o mio Signore, in tutte le mie operazioni, sì interne che esterne, di non avere altra mira che il solo motivo dell'amore, dicendo sempre ed interrogando me stessa: adesso che faccio in quest'azione? Amo il mio Dio? E, cono-scendo esservi qualche ostacolo al puro amore, rimprovererò me stessa, ricordandomi, o Signore, che ti devo rendere amore per amore. Ben Tu mi fai conoscere che tanto più ti amerò quanto maggiormente sarò diligente nell'osservare tutte le tue sante leggi» (cfr. T. M. Sp. pp. 324-325).

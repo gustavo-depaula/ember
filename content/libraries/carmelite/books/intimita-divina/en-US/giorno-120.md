@@ -1,120 +1,116 @@
-## 120 — FREE IMMOLATION OF FREEDOM
+## 118 — THE VALUE OF OBEDIENCE
 
 ### Presence of God
 
+— O most obedient Jesus, make me understand the value of obedience.
+
 ### Meditation
 
-1 — The vow of obedience has been very well defined as
-"the free immolation of freedom" (Pius XII, Congr.
-Relig. Dec. 1950). This definition highlights the
-concept of free immolation, and this, far more than a
-supine passivity, makes one think of an intense and noble activity
-consisting in the voluntary renunciation of one's own will,
-in order voluntarily to submit to God's will,
-expressed in the commands of superiors. We are therefore far
-from the concept of a mechanical, material obedience,
-or one that is forced, necessarily endured, by which
-man acts like a machine or like a servant who
-submits to his master only because he cannot do otherwise.
-Here there is only the name and external appearance of obedience,
-but in reality its interior content is lacking:
-the formal act, which consists precisely in free and therefore conscious renunciation of one's own will, in order
-to adhere to God's will manifested by the superior's
-commands. Only by virtue of this twofold element -
-free renunciation of self and free adherence to the divine will -
-is obedience a perfect holocaust, so pleasing and precious in God's eyes as to be worth "far more
-than victims" (1 Sam. 15, 22). If this twofold interior element is lacking, the external act of obedience
-may be enough not to fail in the vow or promise made,
-but it loses its profound value and will never be a means
-to detach man from his own will and launch him into God's will.
+1 — "The Lord - teaches St. John of the Cross -
+prefers from you the least degree of obedience and submission
+rather than all the services you think to render Him"
+(AM. I, 13). Why? Because obedience makes you renounce
+your own will in order to adhere to God's will,
+expressed in the commands of superiors; and precisely in the complete conformity of your will with the divine will consists the
+perfection of charity, consists the essence of union with
+God. Charity will be perfect in you when in every action
+you regulate yourself not according to your personal
+inclinations and desires, but according to God's will,
+conforming your own to it. And this is precisely the state
+of union with God, since "the soul whose will is entirely conformed and likened to the divine will is, by that very fact, wholly united and transformed in God"
+(J.C. ASC II, 5, 4).
 
-When you are content with a material, forced obedience,
-you do not perform the interior act of renunciation of self;
-even if outwardly you conform to the order received,
-inwardly you reserve your own will; therefore you cannot
-say you have realized the immolation of freedom
-or even that you have freely embraced the divine will.
-Such obedience is a contradiction for
-a soul that aspires to union with God; it is claiming
-to reach the end without using the means, it is exchanging the
-precious coin of true obedience for a base coin of tin.
-St. Teresa of Jesus teaches: "obedience is the shortest way
-and the most effective means to reach
-the most happy state of union with God" (Fd. 5, 11); this concerns only, however, that obedience which is "free immolation of freedom," so as to will no other
-freedom except that of doing God's will.
+You find God's will expressed in His commandments,
+in the precepts of the Church, in the duties of your state;
+but beyond this there still remains a wide field for your free
+choice, and yet it will not always be easy to recognize with
+certainty what God wants from you. Instead, in the voice of obedience, the divine will takes a clear,
+precise form and is openly manifested to you, so that you can no
+longer fear making a mistake. In fact, "there is no authority
+except from God" (Rom. 13, 1), so that, obeying your legitimate superiors, you can be sure of obeying God. Jesus Himself,
+entrusting to His disciples the mission to evangelize the
+nations, said: "He who hears you, hears me, and he who rejects you, rejects me" (Lk. 10, 16); and thus He teaches us
+that ecclesiastical superiors represent Him and speak to us
+in His name. Moreover, St. Thomas shows that in
+every legitimate authority - even of natural order, as for
+example civil and social order - when it
+commands within the just limits of its powers, there is a manifestation of the divine will. Precisely in this sense
+the Apostle does not hesitate to say: "Servants, obey your
+masters... as to Christ... doing from the heart the will
+of God" (Eph. 6, 5 and 6).
 
-2 — A "free immolation" always requires awareness,
-consciousness on the part of the one who performs it; so it must be
-with the act of obedience. If you have made the vow or promise of obedience, you must seek always to keep alive in you the sense of responsibility for the commitment assumed.
 
-When pronouncing your profession, you intended to offer your
-will in holocaust to the Lord, to let yourself be guided
-by whoever represents Him; therefore, before the various commands
-of obedience - and especially before those that
-most clash with your views or that for any
-reason are more burdensome to you - you must be watchful so
-that it does not happen that you take back in practice
-what you offered by vow, which would be committing a robbery in the holocaust. Your will has already been consecrated,
-sacrificed on the Lord's altar; it is no longer yours,
-therefore you are no longer free to take it back.
-Instead you must use your freedom to live, to carry out day by day your
-offering, that is, continually to renew, before
-every disposition of obedience, the immolation of your
-freedom. Blessed obedience that allows you to realize your holocaust! "If you did not thus consecrate your
-will to the Lord - Teresa of Jesus wrote to her
-daughters - you would resemble one who shows another
-a precious pearl, offers it to him, asks him to accept it,
-and when that person stretches out his hand to take it, withdraws
-the offer and hides it carefully" (Can. 32, 7). This unfortunately is always possible also for you; in fact, although
-you have sacrificed your will by vow, it still remains
-in your hands, and keeping faith with the vow made depends on your own will. It is therefore necessary that you be
-firmly resolved to overcome your repugnances in order to embrace
-God's will expressed in the commands of superiors.
+2 — One of the greatest obstacles to full conformity
+of your will with God's is attachment to your own willing,
+to your own desires, to your own inclinations. Now obedience,
+asking you to regulate yourself according to another's will, is the
+best exercise to accustom you to deny your own will,
+to detach yourself from it, and instead make you adhere to the
+divine will manifested in superiors' commands. And,
+the stricter the form of obedience to which you are subject,
+that is, the more it tends to embrace not only some
+particular but your whole life, the more intense this
+exercise will be and the more it will make you enter into
+God's will. This is the great value of obedience:
+to place man's life in God's will, to give
+man, in every circumstance, the possibility of regulating himself
+not according to his own will - so weak, fragile, subject
+to error, so limited and blind - but according to
+God's will, so good, perfect, and holy that it can
+never err, nor will evil, but wills only the
+good, and not the transitory good that is today and tomorrow
+is no more, but the eternal, imperishable good.
 
-"Obedience is the burden of the strong" (Pius XII, to the Discalced Carmelites, Sept. 1952), precisely because it requires the strength to renounce oneself; but this burden, that is, this renunciation,
-is sweet for the soul in love with God's will,
-which precisely in that love will always find the strength
-to deny itself.
+Obedience makes you make this most happy exchange:
+to leave your own will in order to embrace God's will. This is the reason why the saints ran to obedience.
+Of St. Teresa Margaret of the Heart of Jesus it is said:
+"not only did she fly to execute commands, but
+she rejoiced exceedingly and exulted in obeying" (Sp. p.
+74). If for nature it can be costly to deny one's own will,
+to renounce a plan, a project, a work so much loved and cherished,
+it is not upon this renunciation that the soul of
+interior life fixes its gaze, but, while suffering and struggling
+to overcome itself, it casts that gaze much farther:
+it fixes it on God's will, which presents itself hidden
+in the voice of obedience, and to that will it yields itself with
+all its strength, because to embrace God's will
+is to embrace God Himself.
 
 ### Colloquy
 
-O Lord, what greater and more beautiful ideal than
-to come to conform my will totally to Yours,
-so that no longer my will, but only Yours may hold me,
-guide me, govern me in all my movements, in all
-my actions?
+"Oh, how sweet and glorious is this virtue of obedience,
+in which are all the other virtues! For it is born
+of charity; in it is founded the stone of most holy faith;
+it is a queen, and he who espouses it feels no evil,
+but feels peace and quiet. The waves of the stormy sea cannot
+harm him, because he sails in Your will,
+my God... He has no desire that is not fulfilled,
+because obedience makes him desire only You, O Lord,
+who can, know, and will to fulfill his desires.
+O obedience, you who sail without toil, and without danger arrive
+at the harbor of salvation! O Jesus, I see obedience
+conforming itself to You; with You I see it climb the little vessel of the
+most holy cross. Grant me, then, O Lord, this
+holy obedience, anointed with true humility, straight without any
+crookedness, which brings with it the light of divine grace.
+Grant me this hidden pearl, trampled by the world,
+which abases itself by subjecting itself, for love of You, to
+creatures" (St. Catherine of Siena).
 
-Oh, how sublime is the state of perfect conformity to
-Your divine will! And once again You repeat to me that
-to acquire this treasure there is no better means
-than to dig in the mine of obedience and draw it out
-by force. The more I dig, the more I shall find;
-the more I subject myself to men for love of You,
-willing no will other than that of my superiors,
-the more I shall become master of my own
-to conform it to Yours. This is true union with
-You, my God, this is the union I desire, not
-those very delightful suspensions that are called
-union, and which are not union unless they are
-preceded by this. You make me understand well that,
-if I have little obedience and much self-will, my union
-will not be with Your will, but with my self-love.
-May it please You, O Lord, that I put into practice what
-You grant me to understand" (cf. T.G. Fd. 5, 13).
+O Lord, I have but one life, and in what better way
+can I commit it to Your glory and to my
+sanctification than by placing it directly under
+obedience? Only thus shall I have the certainty of not wasting time and of
+not erring, since to place oneself in obedience is to place oneself
+in Your will. And if my will is so defective,
+Yours is holy and sanctifying; if my will has the sad power to make me err, Yours has the great power to sanctify
+my poor life, to sanctify all my actions,
+even the simplest and most indifferent, done under
+its impulse. O Lord, it is precisely the desire to live
+totally in Your will that impels me toward obedience,
+that makes me love and embrace this virtue, despite
+my lively love for liberty and independence.
 
-O Lord, You know it well: my will does not like
-to submit, does not like to renounce itself in order to subject
-itself to another's will; there is in me a strong love of
-freedom, of independence, that inclines me to seek a thousand
-and a thousand ways to escape the necessity of depending.
-
-But You also know that nothing in the world I love, seek,
-desire as I do Your will. And to live in Your
-will, to have the certainty and joy of acting in
-everything according to Your divine will, I am ready, with
-Your help, to make any sacrifice, to immolate to the very
-end my freedom. O Lord, increase my love
-for Your holy will, kindle in me the passion for
-Your will, and then love of obedience will grow in me,
-the golden channel through which the most precious treasure
-of Your will reaches me.
+O holy and sanctifying will of my God, I want to
+love you above all things, I want to embrace you at every instant
+of my life, I want to do nothing without you, outside of you.

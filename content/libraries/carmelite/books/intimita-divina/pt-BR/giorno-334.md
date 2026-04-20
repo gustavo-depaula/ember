@@ -1,63 +1,51 @@
-## 334 — MARTA E MARIA
+## 334 — AS OBRAS APOSTÓLICAS
 
 ### Presença de Deus
 
-Ó Senhor, que eu te ame com o coração de Maria e, ao mesmo tempo, te sirva com a dedicação de Marta.
+Ó meu Deus, torna-me digno de colaborar na difusão do teu reino de amor.
 
 ### Meditação
 
-Na alma que se deu seriamente a Deus encontram-se dois atrativos: o atrativo da oração solitária e silenciosa para mergulhar em Deus, escutar sua voz, penetrar seus mistérios e sobretudo unir-se mais intimamente a Ele; e, ao mesmo tempo, o atrativo do apostolado, do sacrifício ativo e generoso pela salvação dos irmãos.
+O apostolado da oração e do sofrimento, por sua eficácia e fecundidade intrínsecas, tem primazia sobre toda outra forma de apostolado, a tal ponto que, mesmo sem ser acompanhado de alguma atividade exterior, basta para fazer daqueles que o vivem apóstolos eminentes.
 
-Para recolher-se em Deus, a alma «quereria fugir dos homens e inveja grandemente os que vivem e viveram nos desertos. Ao mesmo tempo quereria também lançar-se no meio do mundo para conseguir que ao menos uma só alma louvasse mais a Deus».
+Contudo, na sociedade e na Igreja, também são necessárias as obras. Deus as quer e, de ordinário, intervém no mundo justamente por meio da atividade de seus apóstolos. Para difundir nas almas a vida da graça, ao lado do apostolado interior dos contemplativos, é necessária a atividade externa dos Pastores e dos fiéis.
 
-É este o duplo movimento da caridade que, sendo amor de Deus e amor do próximo ao mesmo tempo, impele tanto para a união com Deus quanto para o serviço do próximo; faltando um desses movimentos, a caridade não seria plena.
+Para administrar os sacramentos, é necessário o ministério sacerdotal; para converter os infiéis, são necessários missionários; para a formação cristã da juventude, são necessárias escolas e educadores; para a cristianização da sociedade, são necessárias obras sociais e profissionais que sejam apóstolos no próprio ambiente de vida.
 
-O desenvolvimento da vida interior comporta esse duplo atrativo, que é índice e meio de progresso, e ao mesmo tempo é também tormento para a alma que ainda não sabe equilibrar-se bem entre as duas tendências.
+No campo do apostolado, como diz São Paulo, há muitos ministérios e muitos ofícios de importância e valor; no entanto, todos derivam de um só Espírito, o Espírito Santo, que «distribui a cada um como quer» e, ao mesmo tempo, ordena tudo a um único fim: o incremento do Corpo místico de Cristo (cf. 1Cor 12).
 
-A qual das duas dará prevalência? À ação ou à contemplação?
+E, assim como no corpo um membro não pode dispensar o outro — «nem o olho pode dizer à mão: não preciso de ti; nem a cabeça aos pés: não preciso de vós» — assim também os contemplativos não podem dizer aos ativos: «vossas obras não são necessárias», nem estes podem dizer àqueles: «vossa oração é inútil».
 
-Na prática, o problema deve ser resolvido com base nas exigências dos deveres do próprio estado, nas disposições da obediência e nas circunstâncias concretas permitidas por Deus.
+Nem os sustentadores das várias atividades apostólicas podem colocar-se uns acima dos outros ou preferir-se entre si. Pelo contrário, estimando-se mutuamente, todos devem trabalhar com espírito de solidariedade, ajudando-se reciprocamente e cuidando cada um de cumprir o próprio ofício com a maior perfeição possível.
 
-O desejo de contemplação que distraísse ou desviasse a alma do cumprimento do dever não seria conforme à vontade de Deus; e Deus tem pleno direito de pedir até mesmo a renúncia desse desejo para enviar-nos ao serviço do próximo.
+Do amor com que cada um desempenha os próprios encargos e, ao mesmo tempo, permanece unido aos outros apóstolos, sempre pronto a apoiar e favorecer as obras alheias, resulta precisamente o bem universal da Igreja, bem para o qual o apóstolo deve tender acima de toda obra ou interesse pessoal.
 
-A Madalena, feliz por finalmente tê-lo reencontrado e desejosa de ficar a seus pés, Jesus ressuscitado ordenava: «Vai a meus irmãos» (Jo 20,17), e ela, dócil, partia para anunciar a ressurreição.
+Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt 28,19-20).
 
-Por outro lado, é verdadeiro também o contrário. Aos Apóstolos, voltando da pregação, Jesus dizia: «Vinde à parte, a um lugar deserto» (Mc 6,31), convidando-os assim a suspender a atividade apostólica para refazer o espírito no silêncio e na oração, a sós com Ele.
+Ao lado deste apostolado hierárquico, reservado aos clérigos, há o dos leigos, que a Igreja convida a colaborar com a Hierarquia. Os Pastores guiam, governam, traçam as linhas; sob sua direção, os fiéis são chamados a oferecer sua obra.
 
-A via justa, que nos impede de desviar num sentido ou noutro, é sempre a do dever, da vontade de Deus, da inspiração interior, controlada por quem tem autoridade para dirigir as almas.
+Compreende-se, portanto, que o apostolado autêntico, o único que pode entrar no plano de Deus para a salvação do mundo, é o que se realiza em harmonia com as diretrizes da Igreja. Não merece o nome de apóstolo quem quer trabalhar na vinha do Senhor independentemente daqueles que o próprio Senhor predispôs para seu cuidado e governo; uma atividade desse gênero não só não cooperaria para os fins do apostolado, como antes seria dano e obstáculo.
 
-2 — Para resolver o conflito entre o atrativo do apostolado e o da união com Deus, é necessária solução mais profunda, que não pode vir de fora, mas só de dentro, e consiste num maior progresso nos caminhos do espírito, de modo a chegar a um grau mais alto de amor.
+Nesta colaboração com a Hierarquia vêm em primeiro lugar as almas consagradas a Deus por vínculos estáveis: irmãos e irmãs religiosos dedicados às obras externas de apostolado e membros dos Institutos Seculares. Seguem-se os pertencentes à Ação Católica; e há lugar também para os simples cristãos que, privada ou coletivamente, exercem alguma forma de apostolado.
 
-O amor é a única raiz de que brotam ação e contemplação; é a única força que, alimentando ao mesmo tempo essas duas atividades, consegue finalmente fundi-las em plena harmonia para que deem os melhores frutos.
+Não por acaso Pio XII, na Encíclica *Mystici Corporis*, ao tratar da colaboração dos fiéis no apostolado dos Pastores, nomeou expressamente os pais e as mães de família, justamente porque todo cristão que trabalha para fazer penetrar o espírito do Evangelho no próprio ambiente de vida — casa, escola, oficina, hospital etc. — é verdadeiro colaborador da Hierarquia.
 
-Nascidas do único tronco de um amor já progredido, ação e contemplação fundem-se apenas no amor perfeito.
+Aliás, o mesmo Papa afirma: «Este trabalho apostólico, realizado segundo o espírito da Igreja, consagra o leigo quase como ministro de Cristo», no sentido em que Santo Agostinho explica: «Ó irmãos... também vós, ao vosso modo, deveis ser ministros de Cristo, vivendo bem, dando esmolas, pregando o seu nome e a sua doutrina. Assim [também o pai de família] exercerá em sua casa o ofício de clérigo e, de certo modo, de bispo, servindo a Cristo para estar com Ele eternamente» (*Summi Pontificatus*).
 
-A caridade perfeita faz com que a alma recolhida em contemplação aos pés do Senhor seja ao mesmo tempo sumamente operosa e fecunda para o bem dos irmãos: «Um pouquinho deste amor puro [o amor solitário que floresce no contato íntimo com Deus] traz maior utilidade à Igreja do que todas as outras obras juntas.... Portanto», declara São João da Cruz, «quando uma alma tivesse um pouco desse amor solitário, causar-lhe-iam grande dano, a ela e à Igreja, se a quisessem ocupar em coisas exteriores ou ativas, por mais importantes que fossem».
-
-Nas regiões do amor puro, isto é, da caridade perfeita, contemplação e apostolado se identificam, se completam e se exigem mutuamente.
-
-Chegada a esse grau, a alma contemplativa é maximamente apostólica, e a maior atividade que pode exercer em benefício dos irmãos é precisamente a de sua oração solitária, nutrida de amor, nutrida de sacrifício e de imolação.
-
-Por outro lado, a caridade perfeita faz também que a alma empenhada nas obras apostólicas seja, ao mesmo tempo, mais do que nunca unida a Deus, mais do que nunca contemplativa.
-
-O amor a fixou de tal modo em Deus que, mesmo durante o trabalho, seu olhar interior está sempre voltado para Ele: para nutrir-se de sua presença divina, para refletir na própria conduta suas perfeições infinitas, para regular-se em tudo segundo a expressão do seu beneplácito.
-
-Assim, no ápice da vida espiritual, ação e contemplação fundem-se em unidade e harmonia perfeitas.
-
-«Crede-me — escreve Santa Teresa de Jesus — para hospedar o Senhor, tê-lo sempre conosco, tratá-lo bem e oferecer-lhe alimento, é preciso que Marta e Maria se entendam... Dá-se de comer ao Senhor quando se faz o possível para ganhar muitas almas, as quais, salvando-se, o louvem eternamente» (*Castelo Interior* VII, 4, 12).
-
-Daí compreendemos como todos os grandes contemplativos foram grandes apóstolos, e os grandes apóstolos foram grandes contemplativos.
+É precisamente neste sentido que São Pedro, dirigindo-se aos fiéis, não hesitava em dizer: «Sois raça eleita, sacerdócio régio» (1Pd 2,9).
 
 ### Colóquio
 
-«Ó Senhor, o desejo de escutar tua divina palavra, a necessidade de calar, é às vezes tão forte que eu desejaria não saber fazer outra coisa senão permanecer a teus pés, como Madalena, para penetrar sempre mais no mistério de amor que vieste revelar.
+«Meu Deus, faze que eu já não pense se tenho a perder ou a ganhar, mas que meu único fim seja servir-te e agradar-te. Conhecendo o amor que nos tens, renuncio de boa vontade a toda satisfação minha, para não contentar senão a ti, servindo o próximo e anunciando às almas as verdades que lhes fazem bem. Das perdas que eu possa ter, não, não me preocupo de modo algum: quero ter diante de mim somente o interesse do próximo e nada mais.
 
-«Mas Tu me ensinas que, se a alma nunca se afasta de ti, pode permanecer sempre absorta na contemplação, mesmo quando, na aparência, cumpre o ofício de Marta.
+«Para melhor agradar-te, meu Deus, quero esquecer-me de mim pelos outros, pronta até a morrer, se for preciso, como fizeram muitos mártires.
 
-«Deste modo, ó Senhor, eu entendo e quero exercer o apostolado: poderei irradiar-te, poderei dar-te às almas, se não me afastar jamais de ti, fonte divina. Ajuda-me, ó doce Mestre, a ficar muito perto de ti, a pôr-me em comunhão com tua Alma, a fazer meus todos os teus afetos e depois ir, como tu, cumprir a vontade do Pai.
+«Creio que uma das maiores consolações desta vida é ver as almas aproveitarem por nosso intermédio. Felizes, Senhor, aqueles a quem concedes esta graça!» (cf. Santa Teresa de Jesus).
 
-«Que poder exerce sobre as almas o apóstolo que não se destaca jamais da fonte das águas vivas! Faze, ó Senhor, que eu possa ser um desses. Então poderei deixar que a onda transborde e se espalhe ao redor, sem perigo de minha alma vir a encontrar-se vazia, porque está em contínua comunicação contigo, o Infinito.
+«Meu Deus, feliz aquele que provou quão doce é trabalhar pela salvação das almas! Então ele não teme nem frio nem calor, nem fome nem sede, nem desgostos nem afrontas, nem sequer a morte.
 
-«Meu Deus, digna-te invadir todas as minhas potências; faze que em mim tudo seja divino e traga teu selo, para que eu seja um outro Cristo que trabalha para tua glória.
+«Ó Senhor, dá-me cruzes, espinhos e perseguições de todo gênero, contanto que eu possa salvar almas, entre as quais a minha. *Da mihi animas, coetera tolle*: Senhor, dá-me almas e toma todo o resto.
 
-«Ó Senhor, quero trabalhar muito para tua glória! Quero doar-me inteiramente a ti, deixar-me pervadir por tua linfa divina; sê Tu a vida da minha vida, a alma da minha alma, e faze que eu permaneça sempre vigilante e consciente sob tua ação divina» (cf. E.T.).
+«Só quando eu souber que o demônio cessou de armar ciladas às almas, cessarei de buscar novos meios para salvá-las de seus enganos e de suas insídias.
+
+«Ó Senhor, quero fazer-te um sacrifício total da minha vida; quero trabalhar até o último suspiro para tua glória, suportando com paciência as adversidades e contrariedades no bem operar. Ajuda-me tu a empregar, enquanto puder, todas as minhas forças para a salvação das almas» (São João Bosco).

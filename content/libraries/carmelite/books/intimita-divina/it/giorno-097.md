@@ -1,110 +1,25 @@
-## 97 — LA CONVERSIONE
+## 21 — LO SPIRITO DI MORTIFICAZIONE
 
-### Presenza di Dio
+**Presenza di Dio.** — *Ritorno ai tuoi piedi, o Gesù crocifisso, col desiderio di comprendere più a fondo lo spirito di mortificazione.*
 
 ### Meditazione
 
-1 Oggi, nell’Epistola della Messa del tempo (Ez. 34,
-11-16), leggiamo: « Bos dice il Signore Dio: visiterò le
-mie pecore e le ritrarrò in salvo da tutti i luoghi ove erano
-state disperse nei giorni di nembo e di caligine... e le menerò Sal loro terra e le pascolerò sui monti d'Israele... Nei
-più grassi pascoli le pascolerò », È il La di quanto
-il Signore vuol compiere a favore delle anime nostre .in
-que santo tempo quaresimale, per condurle ad una vita
+**1** — Lo spirito di mortificazione non si limita alla mortificazione fisica, ma abbraccia anche il rinnegamento dell'io, della volontà, dell'intelligenza. Come nel nostro corpo e nei nostri sensi vi sono disordinate tendenze al godimento materiale, così nel nostro io vi sono disordinate tendenze all'affermazione di noi stessi. L'amor proprio ed il compiacimento della propria eccellenza sono spesso tanto grandi da far sì che, anche inconsciamente, l'uomo tenda a porre il suo io quasi a centro del mondo.
 
-li maggior purieaglie e di più profonda intimità con lui.
-Egli ci tende la mano non solo per cavarci dai pericoli,
-ma anche per aiutarci a salire verso quelle posizioni più
-elevate dove Egli stesso ci nutrirà.
+Lo spirito di mortificazione è veramente completo quando, non trascurando di mortificare il corpo, mira anzitutto a mortificare l'amor proprio in tutte le sue molteplici manifestazioni. Il fariseo che digiunava puntualmente, ma che aveva il cuore gonfio di superbia, si da ridurre la sua preghiera ad una lode di sé e ad un disprezzo del prossimo, non possedeva lo spirito di mortificazione e perciò non fu giustificato dinanzi a Dio. Poco vale imporsi delle mortificazioni corporali, se poi non si sa rinunciare al proprio modo di vedere per adattarsi a quello altrui, se non si sa andar d'accordo con chi ci è contrario, sopportare tranquillamente un torto, una parola pungente o tacere una risposta piccante.
 
-Da parte tua, il punto di partenza, che renderà possibile l'attuazione di questo piano divino, è una nuova con-
-versione: devi raccogliere le tue forze, i tuoi desideri, i
-tuoi affetti, che tanto facilmente si disperdono e si attardano nella valle dell’umano, per riunirli in un sol fascio e farli
-convergere tutti in Dio, tuo unico e ultimo fine. In questò
-senso la tua conversione quaresimale deve consistere in una
-generosa determinazione di metterti più decisamente in
-cammino verso la perfezione. In altre parole, si tratta di
-un rinnovato proposito di santità. Il desiderio della santità è la molla della vita spirituale; più questo desiderio
-sarà in te intenso e reale e più ti spingerà ad impegnarti
-totalmente. In questa prima settimana di quaresima, cerca di ridestare ed irrobustire il tuo proposito di santità.
-Se altri sforzi fatti in passato sono andati falliti o non
-hanno raggiunto pienamente lo scopo, non per questo
-devi scoraggiarti. « Nunc coepi» — ho cominciato
+« Perché — domanda S. Teresa di Gesù — ci mostreremo tanto ritrose a mortificare il nostro interno [ossia l'amor proprio, la volontà, il giudizio] quando questa mortificazione rende più perfette e meritorie tutte le altre e ci aiuta a praticarle con maggior pace e soavità? » *(Cam.* 12, 1). Finché la mortificazione non colpisce l'amor proprio, rimane a mezza strada e non raggiunge il suo scopo.
 
+**2** — Il vero spirito di mortificazione abbraccia in primo luogo tutte le occasioni di sofferenza fisica o morale permesse dalla divina Provvidenza. Le sofferenze derivanti dalle malattie, la fatica e lo sforzo richiesto dall'adempimento del proprio dovere o da una vita di intenso lavoro, le privazioni imposte da uno stato di povertà sono ottime penitenze fisiche. Un'anima che ama lasciarsi guidare in tutto dalla divina Provvidenza non cercherà di sfuggirle e neppure di alleggerirle, ma le abbraccerà interamente, così come Dio le pone sul suo cammino. Sarebbe un assurdo non voler accettare una sola di queste occasioni provvidenziali di sofferenza, per andare in cerca di mortificazioni volontarie di propria scelta. Così pure, per chi ha abbracciato la vita religiosa, sarebbe irragionevole lasciare il minimo esercizio imposto dalla regola, per fare una penitenza di proprio arbitrio.
 
-adesso, anzi, comincio ora — ripeti umilmente, e l’esperienza dei tuoi insuccessi ti faccia riporre in Dio solo
-la tua fiducia.
+Lo stesso nel campo morale. Non succede talvolta anche a te di sfuggire una persona antipatica che il Signore ti ha messo accanto, oppure di cercare tutti i modi per evitare un'umiliazione, un'obbedienza che ti costa? In tal modo sfuggi proprio le migliori occasioni per rinnegare e mortificare il tuo amor proprio; anche se vorrai sostituirle con altre, queste non saranno mai così efficaci come quelle che Dio stesso ti aveva preparate. Infatti, nelle mortificazioni permesse per te dalla Provvidenza non c'è nulla della tua volontà, dei tuoi gusti, e ti colpiscono proprio dove hai maggior bisogno e dove tu, con la mortificazione volontaria, non riusciresti mai ad arrivare.
 
-
-2 — S. Tommaso insegna che « nel fine non si deve
-porre alcuna misura » (Il Je, q. 184, a. 3, co). La santità è
-il fine della vita spirituale, perciò devi proportela non in
-una forma diminuita, ridotta, ma in tutta la sua ampiezza.
-Ampiezza che ti parla di unione intima con Dio, di piena
-conformità alla volontà divina, sì che questa divenga
-l’unico movente di tutte le tue azioni, ampiezza che ti
-parla di piena invasione della grazia, perchè quando l’anima si sarà totalmente purificata da tutto ciò che è con-
-trario alla volontà di Dio «allora il Signore le comunicherà il suo essere soprannaturale, tanto da sembrare Dio
-stesso, ed ella possederà quel che Dio possiede» (G.C.
-S.II, 5,7). La santità è pienezza di amore e di grazia, è
-trasformazione in Dio per amore, è deificazione per grazia.
-
-A quale misura di amore e di ia dovrai giungere?
-Questo dipende in primo luogo dai disegni di Dio sull’anima tua e poi dalla tua collaborazione, Ora, da parte tua, il
-segreto per giungere alla meta è di non fermarti mai,
-anzitutto perchè, pe quanto tu cresca nell'amore, non
-potrai mai amare Dio quanto Egli è amabile e poi perchè non sai a quale grado di santità Dio ti chiama. E
-del resto Dio non si lascia vincere in generosità e
-quanto più ti darai a lui nell'esercizio di un intenso
-amore, tanto più Egli si darà a te per grazia.
-
-La misura di amare Dio è di amarlo « senza misura »;
-ma se non devi porre misura nell’amore, non devi neppure
-porre misura nella conversione. « Dice il Signore: convertitevi a me di tutto cuore » (Joel. 2, 12): ecco la condi-
-zione indispensabile per amare Dio con tutto il cuore. Sono
-rari i casi in cui questa conversione totale si realizza in un
-istante per un particolare colpo di grazia; in genere non si
-arriva ad essa che attraverso una diuturna e progressiva
-conversione. E se nella conversione, come in tutta l’opera
-
-
-della santificazione, l’iniziativa è sempre di Dio che ti previene con la sua grazia, si richiede però Ja tua collabora-
-zione; perciò ogni giorno devi applicarti con rinnovato
-impegno per « convertirti a Dio di tutto cuore ». Sia questo il tuo programma quaresimale.
+Per giungere alla santità non si richiede da tutti una determinata misura di penitenza volontaria — la quale varia secondo l'ispirazione dello Spirito Santo, il parere dei superiori e le forze fisiche di ognuno — ma a tutti si richiede quel retto e profondo spirito di mortificazione che sa abbracciare con generosità ogni occasione di rinuncia preparata o permessa da Dio.
 
 ### Colloquio
 
-«O Signore dell'anima e mio unico Bene, perchè non
-vuoi che appena l’anima si determina ad amarti e fa il
-ibile per staccarsi da tutto onde servirti, non abbia
-subito la consolazione di vedersi in possesso del vero
-amore perfetto? Ma ho detto male; dovevo dire lamentandomi: perchè non voglio io? Sì, la colpa è mia se non
-arrivo subito a tanto onore!... Se riuscissi a conseguire
-perfettamente il tuo amore, avrei insieme ogni altra sorta
-di beni. Ma jo, o Signore, sono così avaro e così lento
-nel darmi a te che non mi determino mai a mettermi nelle
-isposizioni per riceverlo... Se questo tesoro non mi vien
-dato tutto in una volta, e perchè anch'io, o Signore, non
-mi do a te del tutto.
+O Signore, che hai chiesto adoratori in spirito e verità, preservami, te ne prego, da quello spirito di fariseis­mo che hai tanto combattuto sulla terra e che è tanto contrario a te, Verità e Semplicità infinita. Fa' che, mentre mortifico il mio corpo, sappia ancor più mortificare il mio orgoglio, o meglio mortifichi Tu lo stesso.
 
-«O mio Dio, concedimi la grande grazia di risolvermi
-e il coraggio di procurarmi questo bene con tutte le mie
-forze. Se vi persevero, Tu che non neghi a nessuno il tuo
-aiuto andrai fortificando il mio coraggio sino a farmi
-uscire con vittoria. Sì, o Signore, ho bisogno di coraggio
-SE il demonio tenta distormi da questa via con un’in-
+Tu, che conosci tutti i nascondigli più riposti del mio cuore, tutti gli impulsi più oscuri del mio egoismo, prepara per me la medicina più efficace per tutto purificare, sanare, trasformare. Tu solo sai dove si annida il microbo più nocivo e Tu solo puoi distruggerlo. Ma quante volte, purtroppo, nelle diverse circostanze della vita, non ho saputo riconoscere la tua mano, la tua opera e ho cercato in tanti modi di sfuggire le sofferenze fisiche e morali, le mortificazioni, le umiliazioni, le contrarietà che Tu stesso mi avevi preparato.
 
-ità di ostacoli » (T.G. Vi.11, 1-4).
-
-Concedimi, o Signore Gesù, per i meriti infiniti della
-tua Passione, di convertirmi a te con tutto il mio cuore,
-Non permettere che mi lasci scoraggiare per il continuo
-rinascere delle mie tendenze FRA per la lotta incessante che devo sostenere contro di esse. Fammi ben com-
-prendere che, se voglio totalmente convertirmi a te, non
-devo mai far pace con le mie debolezze, con i miei difetti,
-«col mio egoismo, col mio amor proprio. Fammi comprendere che tutto deve essere sacrificato al tuo amore e quan-
-
-
-do tutto avrò sacrificato dovrò dire ancora: sono un servo
-inutile, o Signore, perchè ogni cosa è nulla in paragone
-all'amore che meriti Tu, o infinitamente amabile!
+Come sono cieco, o Signore, e quanto poco so riconoscere le tue vie, tanto diverse e tanto lontane dalle mie corte vedute umane. Dammi, Dio mio, uno sguardo soprannaturale che sappia giudicare gli avvenimenti alla tua luce, che sappia scorgere l'intimo significato della sofferenza che poni sul mio cammino. E tanto più, te ne prego, intensifica questa luce, quanto più le contrarietà che mi preparano vanno a colpire il mio io, il mio orgoglio, i miei punti di vista, i miei diritti, perché soprattutto allora io sono terribilmente cieco e, brancolando nel buio, respingo la medicina che Tu mi porgi. Mi mancheranno, dunque, o Signore, i mezzi per condurre a fondo la purificazione del mio io, tanto stolto e superbo! Ma nulla può mancare a te, che sei il Tutto, che nella tua misericordia infinita superi immensamente la mia miseria. Signore, lo confesso, tante volte ho errato come la pecorella che, lasciando il suo pastore, ha preso un falso cammino. Ma ancora una volta voglio ritornare e ritorno con fiducia piena perché so che Tu mai ti stanchi di attendere e di perdonare. Eccomi, o Signore, mi metto nelle tue mani: mortificami, purificami come meglio Ti piace perché dove Tu colpisci, ogni male si sana, dove Tu mortifichi, sorge la vita.

@@ -1,103 +1,21 @@
-## 330 — VALORI UMANI AL SERVIZIO DELL'APOSTOLATO
+## 8 — LE VARIE FORME DI APOSTOLATO
 
-### Presenza di Dio
-
-Insegnami, Signore, a mettere al servizio dell'apostolato tutti i talenti da te ricevuti.
+**Presenza di Dio.** — *O Gesù, insegnami a pregare, a soffrire, a lavorare con te per la salvezza delle anime.*
 
 ### Meditazione
 
-t — Accanto alle virtù naturali messe al servizio della
-carità apostolica, bisogna considerare anche gli altri valori
-umani che permettono all'apostolo d'imporsi nel suo am
-biente, non già per far valere la propria persona, bensì
+**1** — Quando si parla di apostolato si pensa quasi esclusivamente all'attività esterna; certamente questa è necessaria, però non è l'unica forma di apostolato. Bisogna aver sempre presente che Gesù ci ha salvato non solo con l'attività svolta negli ultimi tre anni della sua vita, dedicati all'evangelizzazione delle folle e alla formazione del primo nucleo della Chiesa, ma anche con la preghiera, con la sofferenza, insomma, con tutta la sua vita. Gesù fu sempre *apostolo*, fu sempre il *mandato* del Padre per la nostra salvezza. Il suo apostolato comincia a Betlemme nello squallore di una grotta dove, piccolo bambino avvolto in fasce, già soffre per noi; continua nei trent'anni di vita trascorsi a Nazaret nella preghiera, nel ritiro, nel nascondimento; prende una forma esterna a contatto diretto con le anime durante la vita pubblica e culmina nell'agonia dell'orto degli ulivi e nella morte di croce. Gesù è apostolo nella stalla di Betlem, nella bottega di Giuseppe, nelle angosce del Getsemani e del Calvario non meno di quando percorre la Palestina ammaestrando le turbe o disputando con i dottori della legge. Il nostro apostolato consiste nell'associarci a quanto Gesù ha fatto per la redenzione dell'umanità, perciò non si limita solo all'attività esterna, ma consiste anche, e in modo così essenziale, nella preghiera e nel sacrificio. Si distinguono così due forme fondamentali di apostolato: l'apostolato interiore della preghiera e dell'immolazione, che è un prolungamento della vita nascosta e della Passione di Gesù; l'apostolato esteriore della parola e delle opere, che è un prolungamento della sua vita apostolica. Tutti e due sono una partecipazione dell'opera salvifica di Gesù, però vi è fra loro una grande differenza: l'apostolato interiore è la base indispensabile dell'apostolato esteriore; nessuno, infatti, può pensare di salvare le anime con un'attività che non sia sostenuta dalla preghiera e dal sacrificio. Invece, si danno casi in cui l'attività esterna può mancare, senza che per questo venga diminuita quella interiore della preghiera e del sacrificio, che può ugualmente essere molto intensa e feconda. Ogni cristiano è apostolo non solo in forza dell'attività che svolge, ma principalmente in forza della sua partecipazione alla preghiera ed al sacrificio con cui Gesù ha redento il mondo.
 
-er far valere l'idea cristiana. Dire infatti che l'apostolo, malgrado la sua cultura e le sue capacità, non può
-far nulla senza l'aiuto di Dio, non significa dare il bando
+**2** — L'apostolato interiore può sussistere da sé e infatti vi sono forme di vita che legittimano l'assenza dell'apostolato esteriore. È il caso della vita contemplativa pura, sempre fiorita nella Chiesa e da essa maternamente sostenuta contro chi la taccia di assenteismo dal campo dell'attività. Coloro che, seguendo la chiamata di Dio, si ritirano dalle opere per darsi a questo genere di vita non sono dei disertori, degli evasi; e se lasciano le file dell'apostolato esterno, lo fanno proprio per darsi ad un apostolato più profondo: quello della preghiera e dell'immolazione continua.
 
-a questi valori naturali, ma affermare che essi sono di per
-sè insufficienti a raggiungere il fine essenziale dell'apostolato, ossia la comunicazione della grazia alle anime, fine
-che solo l'azione divina può conseguire. Ma ciò che è insufficiente in se stesso può diventare nelle mani di Dio
-ottimo mezzo per il bene delle anime. Anche il pennello
-è di per sè incapace di qualsiasi pittura, ma nelle mani
-di un bravo artista può servire per fare grandi capolavori.
-
-L'apostolo deve essere conscio dell'insufficienza radicale delle sue doti, dei suoi talenti, ma nello stesso tempo
-deve coltivare queste doti, deve far fruttare questi talenti per metterli a disposizione di Dio ai fini dell'apostolato. Ecco quindi la necessità che gl apostoli, assieme alla
-vita interiore, coltivino la loro formazione intellettuale;
-certamente la santità è sempre l'elemento più importante,
-ma, quando alla santità si unisce la dottrina, i risultati saranno migliori. Di questo parere è S. Teresa di Gesù che,
-in proposito di direzione spirituale, non esita a dire: «Il
-direttore dev'essere uomo di spirito, ma se non è anche
-dotto, l'inconveniente è gravissimo » (Vi. 13, 19). Del resto non solo per la direzione delle anime, ma per qualsiasi
-forma di apostolato «la scienza è una gran cosa e serve
-a dar luce în tutto » (T.G. Cam. 5, 2); anzi, vi sono degli
-ambienti in cui è impossibile penetrare senza una sufficiente cultura. È dunque un dovere dell'apostolo procurarsi una preparazione intellettuale adeguata all'apostolato che deve svolgere; non si tratta di andare in cerca
-della scienza vana che gonfia, non si tratta di coltivare
-la propria intelligenza per far bella mostra di sè, ma di
-mettere al servizio delle anime tutti i talenti ricevuti da
-Dio. Sotto l'influsso vivificante; della carità, tutto — educazione, cultura, dottrina, capacità tecniche, ecc. — viene
-trasformato in mezzo di apostolato.
-
-lato nella vita professionale hanno, più degli altri, il dovere di formarsi una cultura e delle capacità tecniche
-
-È - VALORI UMANI AL SERVIZIO DELL'APOSTOLATO 83
-
-proporzionate alla loro professione. Un 'insegnante' che
-non prepara bene le sue lezioni, che non è aggiornato,
-che non si dà con zelo all'insegnamento, non potrà mai
-avere ascendente sui suoi alunni e qualsiasi iniziativa di
-apostolato, che volesse svolgere in mezzo ad essi, sarà destinata al fallimento, Solo una buona competenza professionale può procurare al professionista cattolico quell'autorità che, ESSE i limiti della propria professione,
-raggiunge spesso il campo morale e religioso permettendogli di esercitare un efficace influsso su coloro che lo
-avvicinano; in tal modo egli può fare un bene immenso
-e talvolta la sua parola potrà essere ascoltata ancora. più
-di quella del sacerdote. Ben giustamente Pio XII raccomanda ai laici cattolici di non «essere da meno di altri
-nella palestra del valore scientifico e della. competenza
-professionale », ma di fare il possibile per diventare «i
-migliori professionisti, i migliori giuristi, letterati, medici,
-ingegneri», ecc. (ai Laureati Catt. 20-3-1941); e questo
-non per lucro, ma per poter acquistare un più largo e
-autorevole ascendente ai fini apostolici. Infatti, in proporzione della loro competenza professionale, i cattolici saranno chiamati a coprire nella società posti direttivi e così potranno cooperare più efficacemente ad organizzare un
-mondo civile in armonia con i principi del Vangelo e
-perciò capace di ricevere la grazia divina.
-
-Prima, dunque, di dedicarsi ad altre forme di apostolato, il laico deve mettersi in grado di esercitare a perfezione quelle inerenti alla sua vita professionale. Come la
-santità va cercata anzitutto nell'adempimento dei doveri
-del proprio stato, così l'apostolato deve essere svolto anzitutto attraverso il perfetto adempimento dei doveri pro
-fessionali, che rientrano appunto tra i doveri del: proprio
-stato. Farsi santo nella linea del dovere quotidiano, farsi
-apostolo nella linea del dovere professionale deve essere
-il programma del laico cattolico; programma. pratico .e
-alla portata di tutti e che tuttavia richiede eminente spirito di sacrificio, di fede e di amore onde trasformare il
-
-non lieve lavoro professionale în arma di apostolato. Ma
-la carità apostolica è capace di tanto, in nome di Dio
-tutto può, «tutto soffre, tutto spera » (I Cor. 13,7).
+«Coloro che compiono nella Chiesa l'ufficio della preghiera e della penitenza continua, contribuiscono all'incremento della Chiesa e alla salvezza del genere umano *molto più* di quelli che coltivano il campo del Signore con la loro attività; se essi infatti non traessero dal cielo l'abbondanza delle grazie divine per irrigare il campo, gli operai evangelici ricaverebbero certamente minor frutto dal loro lavoro» (Pio XI, *Umbratilem*). Questa autorevole parola di un grande Papa non può lasciar dubbio circa l'alto valore apostolico della vita contemplativa; d'altra parte, però, è giusto osservare che tale valore si realizza solo quando i contemplativi si impegnano con tutte le loro forze nella preghiera e nell'immolazione continua. In altre parole, non qualsiasi preghiera e qualsiasi sacrificio raggiungono una fecondità così grande, ma solo la preghiera e il sacrificio che partono da un cuore massimamente puro e generoso, totalmente dato a Dio e che, giorno per giorno, rinnova e vive con freschezza e profondità sempre maggiore la sua immolazione. Quando la vita contemplativa è vissuta con tale intensità è, in modo eminente, vita apostolica. Proprio in questo senso Pio XII definisce la vocazione claustrale una «vocazione apostolica universale... vocazione pienamente apostolica, non circoscritta ai limiti di luogo, di tempo e di circostanze, ma sempre e dovunque pronta a zelcare tutto ciò che in qualche modo può riguardare l'onore dello Sposo e la salute delle anime» (Cost. Ap. *Sponsa Christi*). Del resto, i monasteri contemplativi, col semplice esempio della loro vita di ritiro, di preghiera, di penitenza, sono per tutti un continuo richiamo al distacco dalle cose terrene, alla ricerca di quelle celesti, all'unione con Dio, alla santità.
 
 ### Colloquio
 
-_ O Signore, non voglio la scienza che gonfia, ma Ja
-scienza umile che viene da te, che illumina le menti e accende i cuori.
+«O Gesù, che cosa potrei fare per salvare le anime? E Tu mi rispondi con le parole che rivolgesti un giorno ai tuoi discepoli, additando loro i campi di grano maturi: 'Alzate gli occhi e guardate come le campagne già biondeggiano per la messe... In verità la messe è copiosa, ma gli operai sono pochi; pregate dunque il Padrone della messe perché mandi degli operai'.
 
-. Sei Tu, o Signore, che insegni la scienza agli uomini, Tu che dai ai fanciulli più chiara intelligenza di quel
-la che qualunque uomo possa insegnare. Se Tu mi parli,
-diventeri Lise saggio e farò quindi progressi spirituali.
+«Che mistero! O Gesù, non sei forse onnipotente? Le creature non appartengono forse a te che le hai create? Perché dunque dici: 'Chiedete al Padrone della messe che mandi degli operai?'... Perché?... Ah, Gesù, perché hai per noi un amore così immenso da volere che abbiamo parte con te alla salvezza delle anime: Tu non vuoi far niente senza di noi! Tu, Creatore dell'universo, aspetti la preghiera di una povera piccola anima per salvare altre anime redente come lei a prezzo del tuo Sangue.
 
-« Sei , O Signore, che in un attimo elevi la mente
-umile a comprendere molte ragioni della eterna verità.
-Sei Tu che ammaestri senza strepito di parole, senza confusione d'opinioni, senza contrasto d'argomenti» (Imit.
-III, 43,263).
-* o Signore, dammi questa scienza ed allora potrò addentrarmi nello studio e nel lavoro senza alcun pericolo
-di vanagloria. L'intelligenza che Tu mi hai dato, voglio
-impegnarla al tuo servizio, voglio farla fruttificare per la
-tua gloria e per il bene delle anime. Tutte le capacità
-che da te ho ricevuto: intelligenza, volontà, energie fisiche e morali, devono essere usate a questo scopo, perchè
-l'apostolo deve essere totalmente dato al compimento della sua missione, sempre sulla breccia per la difesa e la
-gloria del tuo nome.
+«La mia vocazione non consiste nell'andare a mietere nei campi maturi; Tu non mi dici: 'Abbassa gli occhi, guarda i campi e va' a mietere'; la mia missione è ancora più sublime. Tu mi dici: 'Alza gli occhi e vedi. Vedi come nel cielo vi sono dei posti vuoti: tocca a te riempirli... tu devi essere il mio Mosè pregante sulla montagna; chiedi degli operai ed io li manderò, non aspetto che una preghiera, un sospiro del tuo cuore!'.
 
-] Santifica, o Signore, i miei studi, il mio lavoro, l'esercizio della mia professione; fa' che l'amore trasformi tutto questo in mezzo di apostolato.
-
-«Ricordati, o Signore, che mi dichiarasti essere io posta per la salute delle anime. Offro, dunque, a te la vita
-mia, ora e per sempre, quando piacerà a te; e la metto
-per la tua gloria, pregandoti umilmente, per la virtù della
-tua Passione, che Tu mondi e santifichi il popolo tuo »
-(S. Caterina da Siena).
+«Ecco, o Signore, la missione che mi affidi: contribuire con la preghiera e col sacrificio alla formazione degli operai evangelici, i quali salveranno milioni di anime, di cui sarò la madre» (T.B.G. cfr. *Lt.* 114).

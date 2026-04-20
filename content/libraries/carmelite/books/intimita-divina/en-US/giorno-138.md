@@ -1,96 +1,122 @@
-## 138 — THE PURIFICATION OF MARY
-*February*
+## 100 — IMPERFECTION
 
 ### Presence of God
 
-— O Lord, I come to You begging, through the intercession of Mary Most Holy, that You purify my soul.
-
 ### Meditation
 
-1 — Today's feast, which closes the Christmas cycle,
-is at the same time a feast of Jesus and of Mary: of Jesus who,
-forty days after birth, is presented in the temple by His Mother according to the prescription of the law; of
-Mary, who submits to the rite of purification.
+1 — Whereas venial sin always includes a
+transgression, more or less slight, of a law of God, imperfection
+is the omission of a better good to which one is not
+obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
+presented to me the possibility of doing a better action,
+which is fitting and proportionate to my state,
+to my present possibilities, which is in harmony with my
+duties, and for which I can reasonably think myself
+inspired by the Holy Spirit, and yet I deliberately refuse
+to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
+cannot be considered good, nor can it be justified
+by the thought that, since no law or command exists
+imposing that better action on me, I may omit it merely to exercise my freedom; this would be
+an abuse of freedom, which was given to me by God
+only to render me capable of adhering to good, without
+letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
+laziness, narrowness, attachment to my comfort; and
+all this is evidently contrary to perfection.
 
-First of all, the liturgy celebrates the first entrance of
-the Child Jesus into the temple: "Behold, the Ruler,
-the Lord, comes to His temple: rejoice and exult, O Sion,
-going to meet your God" (BR.). Let us go to meet Him too, emulating the sentiments of old
-Simeon who, "led by the Holy Spirit" (Gospel: Lk. 2,
-22-32), went to the temple and full of joy received the Child Jesus in his arms.
-
-To make this meeting more festive, today the Church blesses and gives us blessed candles;
-in procession with lighted candles, let us enter the temple. The burning candle is a symbol of Christian life, of faith and grace that must shine in our soul. But it is
-also a symbol of Christ, light of the world, "the light
-to enlighten the nations," as Simeon greeted Him. The
-burning candle reminds us that we must always carry Christ with us: He, source of our life, author of
-faith and grace. And Jesus Himself, with His grace,
-disposes us to go meet Him with greater faith and love.
-May our meeting with Him today be particularly
-intimate and sanctifying.
-
-Jesus is presented in the temple to be offered to the
-Father. For Him there is no ransom, as for the other
-firstborn of the Hebrews. He is the victim who must be
-immolated for the salvation of the world. His presentation in the temple is, so to speak, the offertory of His
-life; the sacrifice will then be accomplished on Calvary. Let us offer ourselves together with Jesus.
+Considered thus, it is clear that voluntary imperfection
+can never be conformed to the will of God,
+therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
+with the divine will. Hence the importance,
 
 
-2 — Jesus is presented in the temple by His Mother;
-today therefore we contemplate Mary in her office as
-Co-Redemptrix. Our Lady did not ignore that Jesus was
-the Savior of the world and, through the veil of prophecies,
-she intuited that His mission would be accomplished in
-a mystery of sorrow in which, as Mother, she herself would have to participate; and Simeon with his prophecy, "and your own soul a sword shall pierce" (Lk. 2, 35), confirmed it to her. Mary then in the secret of her heart had to repeat her fiat: "Behold the handmaid of the Lord, let it be done to me according to your word" (ibid., 1, 38). Offering the
-Son, she offers herself, always intimately joined to His
-destiny.
+for the soul that seeks perfection, of eliminating from its
 
-But before entering the temple to present Jesus there,
-Mary wishes to undergo the law of legal purification.
-Though fully aware of her virginity, she puts herself
-on a level with all other mothers and, mingled among them,
-humbly waits her turn, carrying with her
-"a pair of turtledoves," the poor person's offering. We see Jesus
-and Mary submit to laws to which they were in no way
-bound: Jesus did not have to be ransomed, Mary did not
-have to be purified. Lessons of humility and respect
-for God's law.
 
-There are laws to which we are bound and from which
-our self-love exempts us with false pretexts: they are abusive
-dispensations claimed in the name of rights that in reality do not
-exist. Let us humble ourselves and, while Mary had no need at all to be purified, let us recognize our extreme need of interior purification.
+conduct any voluntary imperfection. It is precisely in
+this sense that St. John of the Cross warns: "For the soul
+to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
+that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
+but also progress in perfection" (A. I, 11, 3).
+
+
+2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
+of a law that of itself does not oblige under sin,
+as are generally the constitutions or statutes of various
+religious Orders and Institutes. In this regard it should
+be noted that if there is no reasonable,
+proportionate, and sufficient motive for failing in one of these laws,
+very easily such transgressions will become venial
+sin because of lack of a morally good end. In fact,
+as St. Thomas teaches, man is bound always to act
+
+
+for a reasonable motive, for a good end. If the
+
+
+end is vitiated - as it would be, for example, to transgress the
+law of silence, recollection, or religious modesty out of
+curiosity, for one's own convenience, and the like - the action
+thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
+ingratitude, and a certain hardness of heart that does not
+sufficiently appreciate the help God gives us for
+better works" (Salmanticenses). Another kind of imperfection
+is a certain lack of completeness found in an
+act substantially good, but carried out, for example, with
+some narrowness, or without employing in it all the
+good will and impetus of which one is capable.
+
+In the end, every kind of voluntary imperfection
+always derives from lack of effort, of vigor, of momentum
+in spiritual life. It is always selfishness that, in one way
+or another, takes something from God to satisfy
+self. We are too calculating; we are afraid of giving
+
+
+too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
 
 ### Colloquy
 
-"O Jesus, You went to offer Yourself in the temple,
-who offered You? The Virgin Mary offered You,
-she than whom before her and after her there will never be one like her. Mary offered You, she whom, by the mouth of Wisdom, Your Father called
-so beautiful and fair... To whom did she offer You?
-She offered You to God, infinite substance, most high in His creation, fruitful in sublime inheritance and inexhaustible in His order,
-gracious and sweet in love. And what did she offer?
-She offered You, eternal Word, substance of the divine Essence,
-Son of the Most High, lawgiver of the universe. You,
-who are called by so many beautiful and great names:
-O key of David, O King of the nations, O Emmanuel.
+I beg You, O my God, grant me a charity
+strong, generous, capable of destroying to the very root my
+selfishness. Oh, how I see that it is precisely this
+selfishness that is the cause of so many little infidelities of mine, of so many
+imperfections into which I habitually fall and which
+I do not care to correct under the pretext that they are not
 
-"And what do You teach me, O Lord, by offering Yourself in the temple? You show me reverence for the law, because You willed
-to observe it; You show me adoration, because You offered Yourself to the
-Father not as equal to Him, as in truth You are,
-but as man. Here You teach me the reverence I must have
-for Your law; and Your laws are not only the Ten Commandments, but also the Rule and Constitutions. This
-Your law is all sweet and gentle to me, but I make it bitter
-when I do not deny myself, because then,
-instead of carrying it gently, the law is forced to carry me"
-(cf. St. Mary Magdalene de' Pazzi).
 
-O Jesus, today through Mary's hands,
-I desire to offer myself together with You to the eternal Father.
-But You are a most pure, holy, immaculate Host,
-while I am full of stains, miseries, and sin. O my Mother Mary, You who,
-though exempt from every shadow of imperfection,
-willed to be purified, purify, I beg You, my poor soul,
-that it may be less unworthy to be offered to the
-Father together with His and Your Jesus. O most pure Virgin,
-introduce me into the way of a serious and profound purification,
-and then accompany me Yourself, so that my faint-heartedness may not fail under the harshness of the journey.
+sins!
+
+But such faults are not without importance for
+a soul that, being consecrated to You, has the duty to
+tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
+How can I claim to unite myself to You, Infinite Perfection,
+I who voluntarily admit into my life so many and
+so many imperfections? How can my will be
+wholly conformed to Yours, when I will and love what
+You do not will and absolutely cannot love?
+
+O Lord, how I feel the weight of my selfishness
+that drags me downward, that would like to achieve the
+maximum with minimum effort, that seeks by every means to avoid
+toil, renunciation, full and generous self-gift! How
+I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
+to tomorrow what costs me or repels me, that presents me
+a thousand pretexts to evade an act of generosity!
+
+Yes, O Lord, I feel all this, and You know better
+than I how far the retreats and compromises of my
+selfishness go. But You also know that I want to love You with all my
+heart, that I want to give myself entirely to You; You know that my
+poor desires are sincere, though ineffective. Well then,
+do You give me a real, operative love, capable of conquering
+all the resistances of selfishness, of dismantling all its
+
+
+plans. You who are infinite charity, consuming fire, infuse
+
+
+into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
+is the weight that tries to slow my flight toward You,
+grant that Your love be a weight still stronger that
+draws me incessantly into You, by means of a total
+self-giving, without reserve, without measure.

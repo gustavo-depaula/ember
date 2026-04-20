@@ -1,61 +1,55 @@
-## 337 — UNION WITH GOD
+## 337 — SANCTIFYING ONESELF IN THE APOSTOLATE
 
 ### Presence of God
 
-My God, who created me for Yourself, grant that I may return to You and be united to You in love.
+Give me light, O God, so that I may recognize the graces You have prepared along my path to lead me to holiness; make me capable of corresponding to them.
 
 ### Meditation
 
-Man comes from God and must return to God. The more total this return is, to the point of becoming intimate union with Him, the more man reaches the end for which he was created, and thus becomes perfect and eternally happy.
+Must one be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
 
-St. Thomas teaches that a thing is perfect when it attains its end. So man’s perfection consists in reaching God and uniting himself to Him, our last end.
+We must therefore conclude that, once the period dedicated exclusively to preparation is presupposed, it is necessary to unite one’s personal ascent toward holiness with the exercise of apostolic activity. In other words, apostles must sanctify themselves in the apostolate and by means of it.
 
-In union with God man finds all he can desire: his peace, the fulfillment of his thirst for the infinite, his hunger for love and imperishable happiness. «Thou hast made us for Thyself, O Lord, and our heart is restless until it rests in Thee» (St. Augustine).
+«To sanctify oneself in view of and by means of the apostolate—this is the watchword for a diocesan priest.... We would make the Church, the life of Jesus, and all the lives of the saints lie, if we affirmed the incompatibility of external apostolate with holiness.»
 
-In union with God man finds eternal beatitude. The life of heaven is nothing other than this union with God, brought to its ultimate fullness.
+These words that Don Poppe addresses to priests hold true for all apostles, clerics or laity, religious or secular: every apostle must have the certainty that precisely in his field of labor—and not elsewhere—he will find all the graces needed to sanctify himself, to reach intimate union with God.
 
-Precisely because perfectly united to God, man then gives Him maximal glory and maximal love, and this redounds to man himself in eternal blessedness.
+When a person gives himself to apostolate not by his own choice, not from a natural impulse to activity, but only to respond to a divine call, he must be certain that, as God wanted him in apostolate, so He wants him holy and will give him every means to become so.
 
-The soul that truly loves God does not resign itself to waiting for heaven to be united with Him; it longs to anticipate that union already here below. Is this possible? Yes, because Jesus has said it: «If anyone love Me, he will keep My word, and My Father will love him, and We will come to him and make Our abode with him» (Jn 14:23).
+God cannot condemn to mediocrity a soul that, in order to do His will, and therefore for love of Him, has taken upon itself apostolic burdens and labors. «No, brothers,» Don Poppe continues, «the active life is not a night in which the light of the ideal is extinguished. If many have lost theirs there, you must have greater confidence, humble yourselves more deeply for your weakness, and a more abundant grace will certainly bring you success as well.
 
-Indeed, the Lord Himself gives us the condition for living united to Him: love. «He that abideth in charity abideth in God and God in him» (1 Jn 4:16).
+«Do you not know that difficulties and obstacles, under the marvelous action of grace, are sometimes transformed into helps and cooperate wonderfully in good? *Certus sum*, you can say with St. Paul: I am sure that no creature in the world has the power to turn me away from the path of holiness.»
 
-Love is the great force that unites us to God even in this life where, imprisoned in matter, we still cannot enjoy direct contact or face-to-face vision of Him.
+In the measure in which the apostle is docile and faithful to grace, God will purify him, refine him, sanctify him precisely through his apostolic labors.
 
-«The end of the spiritual life,» says St. Thomas, «is that man be united to God; and this is done through love.»
+This does not exclude that silent call to recollection, that desire for solitude and intimacy with God that often accompanies the apostle amid his activity and sometimes grows acute enough to cast a veil of nostalgia over his life. Whoever has tasted, even a little, the beauty and infinite goodness of God cannot but feel a powerful longing and need for Him.
 
-With the steps of love, *passibus amoris*, we walk toward our final end: union with God. Union of love with God: this is the great ideal that must illumine and direct our whole life, the great goal that, with divine help, we can reach even here below, as far as is possible in our state of pilgrims.
+This is a good sign: it means that the soul has not let itself be invaded and dissipated by external occupations and that, even while living in the world, it is not of the world, but truly tends toward God.
 
-2 — St. John of the Cross explains what union of love with God consists in. It is not substantial union, which always exists between God and all creatures and by which «He preserves in them the being they have.» Such union is natural and can never be lacking in any creature, not even in the sinner.
+Even if at times this longing should become tormenting, the apostle must not be disturbed, nor think he has taken the wrong road: this torment will purify him and lead him to the Lord.
 
-Union of love, however, is supernatural and does not occur always, but only in souls in grace. «Although God,» says the Saint, «is always present in the soul and preserves its natural being by His assistance, He does not always communicate supernatural being to it. This is communicated only through love and divine grace, which not all souls possess; and those who are in grace do not possess it in equal degree, but one has more love than another.»
+Besides, one cannot think that the simple desire for greater recollection and union with God is by itself an indication of a call to the contemplative life, which is characterized above all by the need for deeper dedication and immolation.
 
-Hence the conclusion: «That soul is more united with God which is more advanced in love.»
+The insistent call to interiority should rather be considered as a grace meant to defend the apostle from the dangers of external activity: it is the bulwark, the cloister wall of his spiritual life.
 
-The starting point for union of love with God is the state of grace; the point of arrival is the full development of grace, so that the soul remains wholly supernaturalized and all its powers, will, and affections are concentrated in God, desiring and loving only what God wills and loves.
+Yet the need for God must be satisfied. Beyond daily hours of prayer and silence, the apostle must have sufficient pauses in his work: monthly retreats, yearly exercises, and likewise greater leisure for recollection after a period of particularly intense activity.
 
-Grace is God’s life in us, a life that develops through progress in love. The more the soul loves, the more grace grows in it; consequently, participation in divine life becomes deeper and leads it to ever more intense and perfect union with God.
+It would be a fatal error to let oneself be absorbed by work to the point of no longer finding time to concentrate in God, in an intimate heart-to-heart with Him; not even under the appearance of greater generosity should the apostle renounce his hours of prayer.
 
-Grace and love are the precious seed of union with God; they place the soul in intimate communion with Him: communion of life, thought, and will. God remains always God, distinct from the creature; the creature keeps its personality; and yet the soul is so permeated by divine life that God «communicates to it such supernatural being that it seems more God than soul.»
+At the same time, however, he must go to his work with a serene and trusting spirit, keeping clearly in mind that, as long as he has not reached full maturity of spiritual life, he will not escape the conflict between action and contemplation: action that tries to draw him away from contemplation, and contemplation that would like to prolong itself beyond the established time.
 
-This is the highest term of union with God on earth: a very lofty term, yet not rash to contemplate, since in baptismal grace each one of us has received the seed of union with God.
+His effort must be to keep himself in a position of balance, avoiding both extremes and unifying his life through love. Before the conflict is stilled in perfect harmony, a long road remains to be traveled, during which it is absolutely necessary to devote oneself to action with prudence and to be very faithful to prayer, not allowing the time destined for it to be invaded by work.
 
 ### Colloquy
 
-«O Jesus, who will give me the grace to become one spirit with You? I surely, O Lord, rejecting the multiplicity of creatures, want only your unity. O God, You are the One, the only unity necessary for my soul.
+«My God, how few holy apostles there are! How rare your true friends are! O Lord, I burn with desire for the coming of your kingdom in the souls of apostles; I burn, yet I am so poor that I will be consumed before this kingdom draws near.
 
-«Dear Friend of my heart, unite this one poor soul of mine to your most singular goodness! You are wholly mine; when shall I be wholly Yours?
+«Make me, O Lord, a holy apostle; for a saint obtains more with one single word than an ordinary worker with a whole series of speeches. Without holiness I am a sounding brass, a clanging cymbal, and You, O God, speak only through the mouth of saints.
 
-«As a magnet draws iron and holds it, so, Lord Jesus my Beloved, be the magnet of my heart: draw it, bind it, unite my spirit forever to your paternal breast.
+«Give me, then, holiness, the one thing capable of moving hearts, piercing souls, renewing them. My God, may I not sell tinsel; may I not be an empty vessel!
 
-«Since I am made for You, why am I not in You? Plunge this drop, my spirit, given by You, into the sea of your goodness from which it comes. Lord, since your Heart loves me, why does it not seize me to Itself, as I so desire?
+«To sanctify oneself in the apostolate is difficult; many are the obstacles and dangers that one meets. Must I then withdraw in discouragement? No, my God, since, if I have good will, I will always be helped by your grace, and where grace works one always finds the road that leads to the end, to holiness! What then should I fear?
 
-«Draw me, and I will run after your attractions, to cast myself into your arms and never move from there forever and ever. Amen» (St. Francis de Sales).
+«Your grace is with me; You Yourself are with me, in me. And if You, O God, enter the field with me, what can I still call an “obstacle”? Tribulation or anguish, hunger or nakedness, danger or persecution or the sword? All these difficulties I shall overcome with your help, for You love me and do not abandon me.
 
-«O Lord, who can make us understand how advantageous it is to throw ourselves into your arms and establish this pact with You: I will care for You, and You will care for me; You will watch over my interests, and I over Yours?
-
-«What am I without You, Lord? What am I worth if I am not united to You? And where do I end if I move even a little away from You?
-
-«Lord my Mercy and my Treasure, what other good can one desire here below except to stay so close to You that no separation is possible?
-
-«O Lord of my life, draw me to You, and do it so that my will remains so united to You ...»
+«Leaning on You, O Lord, I am sure that no creature in the world has the power to turn me away from the path of holiness. I am sure of it because You want to see holy apostles, because You are infinitely good, infinitely powerful, and faithful to your promises, because You are infinitely merciful» (D. Edward Poppe).

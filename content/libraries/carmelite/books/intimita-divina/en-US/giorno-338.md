@@ -1,55 +1,49 @@
-## 338 — THE WAY OF UNION
+## 338 — RIGHT INTENTION
 
 ### Presence of God
 
-Give me light, Lord, and give me strength to tear away from myself all that prevents me from being united to You.
+O God, tear from my heart every secondary intention, every movement of self-love, so that I may seek only your glory.
 
 ### Meditation
 
-1 — «That soul is more united with God which is more advanced in love, that is, whose will is more conformed to God’s will» (St. John of the Cross).
+Many failures in apostolate come from the fact that apostolic activity is not carried out with the very conditions it requires and that are indispensable if it is to become an intense exercise of spiritual life.
 
-On the concrete plane of life, love, when it is true, shows itself in wanting to do what pleases the beloved person, in conforming oneself to that person’s desires, tastes, and will, wanting nothing that can displease.
+There is often a certain disorder, motives more or less human, which creep into that activity, lowering it from the supernatural plane to the merely human one, and turning it into an occasion of deviation and cooling of interior life. Then the soul feels dissatisfied and restless.
 
-The measure in which a soul truly knows how to conform itself to God’s will is the measure of its union with Him. It is evident that this union will not be perfect as long as the soul resists, even in little things, the divine will or does not accept it wholeheartedly; and likewise as long as it keeps desires and tastes that, even very slightly, are disharmonious with God’s.
+Pius XII, in the Motu proprio *Primo feliciter*, expressed very clearly the conditions of holy activity: «Apostolate must always be exercised holily, with such purity of intention, with such interior union with God, with such generous forgetfulness and strong self-denial, and with such love for souls, that it may spring from the interior spirit that animates it and at the same time continually nourish and renew that same spirit.»
 
-The whole spiritual journey toward divine union consists in a twofold movement, very simple yet essential: stripping oneself of all that does not please God, renouncing all that conflicts with His will, while conforming oneself to it and fulfilling it with greatest love.
+If we examine our apostolate in this light, we can identify its weak points, discover defects to avoid, and also remedies to apply. The conditions proposed are four: purity of intention, union with God, self-denial, and love of souls. They are of such importance that, while ensuring apostolic fruitfulness, they also make apostolate an effective means of spiritual progress.
 
-Very simple movement, yet very broad, because it must extend to all circumstances of life, none excluded, so that in all things, great and small, the soul behaves in perfect conformity to the divine will.
+Let us first consider purity of intention. If no one can «serve God and mammon» (Mt 6:24), still less can the apostle give himself to apostolic activity with a double intention: to serve God and self-love, to please God and the world, to seek the good of souls and personal interests.
 
-Very deep movement, because it must reach the most hidden folds of the spirit to rid it of the slightest remnants and last resistances of egoism and pride, not only eliminating their acts but uprooting their roots.
+Strength, peace, and life come from unity; fragmentation, even spiritual fragmentation, can bring only weakness, division, conflict, and finally death. The apostle whose heart is divided by opposed intentions will seek peace in vain in his work; he will always remain troubled and unsatisfied.
 
-Until this work of deep purification is completed, the soul’s will cannot be totally conformed to the divine will, since many imperfections and imperfect habits still oppose it.
+Secondary intentions can appear in a coarse way, easily seen, but also in such subtle ways that a distracted soul does not notice them at all. To detect even the smallest secondary intentions, which like little foxes stealthily ruin apostolic activity, one needs an atmosphere of recollection and prayer.
 
-Only «the soul whose will is entirely conformed and made similar to the divine is wholly united and transformed in God.» Therefore whoever wishes to reach union «needs nothing else but to strip itself of its contrarieties and dissimilarities.»
+In pauses at the Lord’s feet, the apostle realizes that during daily occupations he often loses sight of the supernatural end that should animate his activity, and that secondary ends take its place and become the immediate motive of many decisions and actions.
 
-2 — You must acknowledge that your will is still very unlike God’s. God wills only the good and wills it in a most perfect way; you, instead, together with the good, often will what is evil as well. Moreover, even the good you will, you will weakly and perform very imperfectly.
+This means his intention does not remain directed uniquely toward God and souls, but often deviates under the influence of self-love: sometimes a more or less unconscious search for praise and glory, at other times concerns about personal advantage or material interest—keeping a position, obtaining advancement, being preferred by superiors, being chosen for more attractive or profitable works.
 
-Every time you commit some fault, even a mere imperfection, you will something God cannot will: little acts of laziness, negligence, impatience; subtle searches for self, for affection and esteem of creatures; subtle secondary intentions infiltrating your actions. All this must be eliminated to arrive at union with God.
+In short, he must acknowledge that alongside love of God and souls there is still much self-love and egoism. Faced with this discouraging picture he should not lose heart, but humbly recognize his misery and thank the Lord who reveals it so that he may correct it.
 
-St. John of the Cross says expressly that not only beginners in the spiritual path but also proficients are subject to many imperfections and still retain imperfect habits, deriving above all from subtle spiritual pride and egoism.
+He must not, however, think that everything he does is only the fruit of self-love. No: when a person has given himself to apostolate moved by a sincere desire to do the Lord’s will and win hearts for Him, he is truly animated by love of God and souls. Yet it must also be admitted that this love is not yet strong enough to triumph totally over human passions.
 
-After long exercise in interior life, a certain presumption and self-security easily slips in, so that in dealings with God they are exposed to lacking humility and reverence, while in relations with neighbor they often fall into wanting to be esteemed as perfect.
+Therefore the apostle must never stop fighting all manifestations, even minimal ones, of self-love. He must not indulge them under the pretext that they are natural movements, but correct them, mortify them, repress them, cut them off without pity, continually rectifying his intentions.
 
-Moreover, not being wholly detached from self, they stop to enjoy somewhat selfishly the spiritual consolations received in prayer, and so distract themselves from seeking God alone, delay their path toward union, and expose themselves to deceptions of imagination or of the devil.
+A long and deep purification is necessary to conquer completely the dualism between God and self, love of souls and love of self. One must beg the Lord for this grace of total purification and dispose oneself to receive it by making good use of all occasions of detachment, renunciation, sacrifice, and humiliation that apostolic activity offers in abundance to one who seriously embraces it.
 
-This shows how deep in us are the roots of pride and egoism: once the heart is detached from earthly vanities and material goods, we are immediately ready to attach ourselves to spiritual goods.
-
-Yet we must not despair of reaching union. Rather, we should take occasion from our misery to beg the Lord more insistently that He deign to complete the work of our purification.
-
-He desires this more than we do and, if He does not do as He would, it is only because He finds us reluctant, impatient, little disposed to accept wholeheartedly what humiliates and mortifies us to the core.
-
-And yet this alone is the way to reach union with God.
+Walking this path, the apostle will find in his work an excellent means of spiritual ascent and, instead of becoming entangled in the dangers that external activity presents when self-love is not repressed, he will be purified through the exercise of his apostolate.
 
 ### Colloquy
 
-«As long as my will has whims foreign to divine union, fantasies of yes and no, I remain in childhood. I do not walk in love with giant steps, because your fire, O Lord, has not yet burned all dross: the gold is not pure, and I am still a seeker of self.
+«O Lord, when I want to pray or work for the good of souls, I must first raise the eye of my mind to You, eternal Light, and to your splendor, so that You may give me light, strengthen my spirit, and help me withdraw as much as possible from external things in order to be wholly interior and turned toward interior realities.
 
-«O Lord, You have not yet consumed all my hostility toward You. But when You will have destroyed in me every vicious love, every defective fear and sorrow, then love will be perfect and the golden ring of our union will be wider than heaven and earth.
+«Grant that in my neighbor I may consider only the interior man, caring for the exterior only insofar as it serves the interior, so that all the rest may be set aside as vanity and I may not be drawn to vain things.
 
-«But for this, I must die to myself every day. O Jesus, I want to die, I want to diminish, I want to renounce myself more each day, so that You may increase and be exalted in me.
+«My God, may I be moved to apostolate, to prayer, and to good example only by the desire to save souls, and not by vainglory, ambition, human complacency, or worldly utility. You alone, O crucified Christ, do I want to seek!
 
-«I sit very little in the depth of my poverty; I see my nothingness, my misery, my powerlessness; I see myself incapable of progress and perseverance; I see the multitude of my negligences and defects. Seeing myself in my indigence, I prostrate in my misery and, recognizing my extreme need, I expose it to your mercy, O my divine Master.
+«I want to intoxicate souls with your Blood and not with curiosity, so that they may desire You alone. I want to say to each of them: I know nothing except Jesus Christ and Him crucified.
 
-«I want to place the joy of my soul—so far as concerns the will, not sensitivity—in all that can immolate me, destroy me, humble me, because I want to make room for You, O Lord.
+«Therefore I do not want earthly advantages, and I do not care to please men; nor do I judge myself to know any person or anything other than You, Christ crucified.
 
-«I no longer want to live my own life, but to be transformed in You, so that my life may be more divine than human, and the Father, bending over me, may recognize there the image of His beloved Son in whom He has placed all His complacency» (cf. Elizabeth of the Trinity).
+«O Lord, so intoxicate me with your love that whatever else is offered to my sight or taste, hearing or any other sense—anything but You—I may consider as nothing, so that I may find delight, glory, and rest only in your Blood. Let my eyes be filled not with earthly things but with your suffering; let my mouth be filled not with vain words but with your Passion ...»

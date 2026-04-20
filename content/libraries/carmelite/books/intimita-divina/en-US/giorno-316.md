@@ -1,43 +1,39 @@
-## 316 — APOSTOLIC IDEAL
+## 316 — BLESSED ARE THOSE WHO MOURN
 
 ### Presence of God
 
-Kindle in me, Lord, flame of apostolate and nourish it with your love.
+Grant me, O Lord, to shed only tears acceptable to You and helping me grow in your love.
 
 ### Meditation
 
-1. — As seed cannot put forth stalk that will bear new ear unless it first sinks roots into soil, so soul cannot bear fruits for apostolate unless it first puts down roots of serious interior life, by which it will draw from God Himself sap making it fruitful. Interior life is vital principle, strength, flame of apostolate.
+1. — To the gift of knowledge corresponds beatitude: "Blessed are they that mourn, for they shall be comforted" (Mt. 5:5). Blessed first are those who, deeply enlightened by Holy Spirit on nothingness of creatures, weep over time spent seeking them, energies and affections wasted in world's vanities.
 
-Yet apostolate in turn can contribute to interior life, helping render it more generous and intense. When soul is seized by apostolic ideal, its very desire to win other souls to God urges it to engage with greater generosity in prayer, mortification, and exercise of virtues, precisely with aim of making itself more capable of fruitful apostolate.
+These are burning tears of St. Augustine who in his Confessions never ceases to lament: "Late have I loved You, O Beauty ever ancient and ever new, late have I loved You ... You were with me and I was not with You; creatures kept me far from You." These are tears of penitent Magdalene and of St. Peter weeping over his fault. Blessed tears, washing souls from sin and disposing them for friendship with God.
 
-Thus, while interior life is soul of apostolate, apostolate in turn is very powerful spring impelling soul to union with God, perfection, holiness. Apostolic ideal in itself awakens spiritual energies and generous holy life. Teresa of Jesus, moved by ardent desire to counterbalance great evil Protestant heresy was causing in her time, gave reform she began a mark of particular austerity and organized life of her daughters so as to engage them in continuous exercise of prayer, sacrifice, and self-giving for salvation of souls.
+They are tears of souls already resolved to seek God above all creatures and yet, because of fragility, must reproach themselves each day for some weakness, some little return to futile earthly satisfactions. Gift of knowledge does not permit us to close eyes to infidelities, though slight, but urges us to detest and bewail them, if not with material tears, with tears of compunction.
 
-System of life in Teresian Carmel — contemplative life of deep intensity — was born thus from great ideal of apostolate.
+A soul living under influence of this gift will never be easygoing or superficial in examinations of conscience; and its confessions, though serene, will always be sorrowful, always accompanied by deep contrition. Such were confessions of saints who accused themselves with keen sorrow of smallest imperfections.
 
-This same ideal has recently caused in Church a new state of life to arise, that of secular institutes, in which souls desiring to consecrate themselves to salvation of brethren commit themselves to live in world according to evangelical perfection. "Specific end [of apostolate] seems necessarily to have required and also created generic end [of perfection]" (Pius XII).
+The Holy Spirit does not want to make us scrupulous, but very delicate in fidelity to God. Therefore He is not content that we despise worldliness in a general way, but wants us to despise it also in subtler manifestations: little revenges of self-love, slightest complacency in self, little searches for others' affection and esteem. Blessed soul able to recognize and weep over all its miseries, not with tears of discouragement or disturbance, but with tears of deep contrition that, instead of narrowing it in fear, enlarge it in penitential love and throw it into God's arms with a heart renewed in love and sorrow.
 
-When apostolic ideal is alive and rightly understood, instead of recklessly throwing souls into action, it leads them to deeper interior life, total self-gift, holiness, because one must be sanctified to sanctify. "For them do I sanctify Myself" (Jn. 17:19).
+2. — Gift of knowledge, by making us experience deeply vanity of creatures, convinces us of their inconsistency and fragility and thus urges us to place all hopes in God. In this sense this gift perfects and strengthens virtue of hope so that, without hesitating any longer, our heart anchors itself in God, recognizing in Him our only support and foundation, and our only happiness.
 
-2. — An interior life in which apostolic ideal does not shine can never be full and vigorous. This depends on nature of grace and charity, which are by themselves expansive and apostolic.
+The more soul hopes in God and in beatifying possession of Him awaiting it in eternal life, the more disposed it is not only to renounce happiness and satisfactions creatures can offer, but also to embrace all sacrifices necessary for reaching eternal life. Sacrifices are many because it is impossible to go to God except by following same path Son of God took to lead us there: way of Cross.
 
-Although grace adheres intimately and incommunicably to soul endowed with it, it benefits whole Christian community. Dogma of communion of saints tells us precisely that grace and holiness of one member of Christ redound to advantage of all other members.
+Yet while suffering, soul living by hope can repeat with St. Paul: "We do not lose heart ... for our present light tribulation works for us above measure exceedingly an eternal weight of glory" (2 Cor. 4:16-17). Gift of knowledge makes us judge present sorrows light compared with eternal beatitude, and in view of this it urges us to bless them even if they cost us blood. That is why Apostle rejoices and glories in tribulations (cf. Rom. 5:3-5), and St. Francis of Assisi sings: "So great is good I await that every pain is delight to me."
 
-Likewise charity, inseparable companion of grace, is by nature expansive and, embracing God, embraces all creatures in God. It imprints on soul twofold impulse: toward God and toward neighbor. If one or other of these impulses is repressed, charity is suffocated in its essence.
+Precisely thus, under influence of gift of knowledge, soul understands beatitude of tears — that is, beatitude of sufferings embraced for love of God. This gift does not make us insensitive to physical and moral pains; indeed beatitude speaks explicitly of "tears." But though it does not prevent us from weeping, it sanctifies our weeping and renders it weeping resigned to God's will, esteemed as means of assimilation to Christ Crucified, preferred to vain joys of world.
 
-This virtue develops and reaches maturity only when its two aspects are in full efficiency: love of God and love of neighbor. By excluding or diminishing fraternal charity, of which apostolate is highest expression, one inevitably diminishes love toward God as well.
+What difference between these tears and those shed from pride, from refusal to submit to divine will, or from capricious resentments of self-love!
 
-Therefore an interior life cold and indifferent to good of souls is necessarily diminished and shriveled, reduced to narrow and petty form of piety, often also egoistic. It has lost vital warmth, warmth of charity, and does not even deserve name of life.
-
-Where flame of apostolate is alive, however, one has interior life more vigorous than ever, capable of great generosity. Is it not true that sometimes desire for our own perfection is not enough to give us courage to accept certain sacrifices and renunciations so costly to nature? But when one thinks salvation of other souls may depend on our generosity, fidelity to grace, and immolation, then one can refuse nothing to Lord and finds strength to embrace even harshest and most painful things.
-
-Thus apostolic ideal becomes powerful lever for personal sanctification, and soul, enriched by fervent interior life, can place at disposal of this ideal new energies and new fecundity.
+When soul has reached point of preferring holy tears shed at foot of Cross to earthly enjoyments, it may hope for beatitude promised by Jesus: "Blessed are they that mourn, for they shall be comforted."
 
 ### Colloquy
 
-"O Lord, I have immense desires to serve You, and very lively is my sorrow in seeing myself incapable of realizing them. I would like to raise my voice to make everyone understand how important it is not to be content with little in your service, and to make known great treasures received from You when one disposes oneself to receive them.
+"O Lord, peace You give us in this world is full of anxieties, tribulations, and persecutions; but then You lead us to tranquil and quiet peace. Indeed, more than this: amid same anxieties You give us your peace, because finally Spirit bears witness in some way that we are your children. This means: 'Blessed are they that mourn, for they shall be comforted.' Not only will You console us in future, but You make our very weeping our consolation, and war itself our peace. Whoever loves You, O Lord, in hottest fire of tribulations finds cool wind and dew of heavenly consolation" (St. Mary Magdalene de' Pazzi).
 
-"My God, I feel very great pain over loss of so many souls, especially those who by Baptism were already members of Church, and I greatly desire to labor for their salvation, so much so that I feel ready to endure a thousand deaths to free one alone from terrible torments of hell. How can one bear seeing a soul condemned forever and to eternal rigor of punishments? If we are moved with compassion for pains of this world, which after all have an end and always cease with death, how can we, O Lord, show ourselves indifferent before torments that will last forever, and before great number of souls devil drags with him to hell each day?
+"My God, blessed be You, who have not asked from us for price of your Kingdom a long waiting, but a very brief one, brief as life, one moment before eternity of beatitude! And certainly, if it had been necessary for love of You to endure for hundreds of thousands of years pains a thousand times harsher and harder, we still would have had to accept such decree with immense joy and desire, and give You thanks with folded hands and bent knees.
 
-"Since You, my God, see sorrow I feel at sight of great number being lost, save at least one, Lord, at least one who may give light to many others. Not for me, Lord, who do not deserve it, but for merits of your Son. Behold, Lord, his wounds; and since He forgave those who made them, do You also forgive us.
+"How much more, then, must we thank You now that in your mercy You granted us shortest suffering possible, suffering brief as life! Brief, that is, as an instant, as a nothing. Nothing is life before eternity.
 
-"My God, I want only your will. I am so submitted to it that I no longer desire to live more than to die. Yet, if it pleases You so, I desire to live in order to serve You a little more. If I could contribute in something to make You loved and praised by one soul even for short time, this would seem to me far more important than already being in glory" (St. Teresa of Jesus).
+"Come then, come, O children of God, and let us run to Christ's Cross, to pain, contempt, poverty! Grant, O Lord, that I may love You as You have loved me, with absolute fidelity, with absolute purity, with absolute love that keeps nothing for itself, gives all, and therefore launches itself toward pains and sufferings, and in all things sees and feels only love" (Blessed Angela of Foligno).

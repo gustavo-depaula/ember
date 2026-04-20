@@ -1,111 +1,21 @@
-## 314 — L'ANIMA DELL'APOSTOLATO
+## XXII — BEATI I MISERICORDIOSI
 
-### Presenza di Dio
-
-Fammi comprendere, o Signore, che solo l'unione con te, che solo l'amore può fecondare ogni apostolato.
+**Presenza di Dio.** — *O Spirito Santo, rendi il mio cuore misericordioso a imitazione del Cuore di Gesù.*
 
 ### Meditazione
 
-1. — Non si può essere collaboratori di Dio, docili
-strumenti nelle sue mani, non si può sentire con Cristo e
-associarsi al suo amore ed alla sua opera per la salvezza
-delle anime, senza una vita di affettuosa intimità con Dio
-e con Gesù benedetto, ossia senza una intensa vita interiore.
+**1** — Mediante il dono del consiglio lo Spirito Santo vuol prendere la direzione pratica della nostra vita per condurci alla santità, perché tutta la perfezione cristiana, che è stata oggetto dell'insegnamento di Gesù, è parimenti oggetto del dono del consiglio, dei suggerimenti dello Spirito Santo: «Egli vi suggerirà tutto ciò che io vi ho detto» *(Gv.* 14, 26), ha dichiarato il Maestro. Tuttavia, come nell'insegnamento di Gesù vi è una nota dominante ed è quella dell'amore, che Egli chiama il suo comandamento, così fra le ispirazioni del dono del consiglio, ve n'è una che è generalmente riconosciuta come l'*effetto proprio* di questo dono ed è la *misericordia*.
 
-Mediante la preghiera e la lotta contro il peccato,
-mediante la rinuncia di sè e l'esercizio delle virtù, la vita
-interiore spoglia progressivamente l’anima di tutto ciò che
-è difettoso, favorendo così in lei lo sviluppo della grazia e dell'amore, il che è quanto dire che la riveste di
-vita divina, giacchè grazia e amore sono una partecipazione della vita stessa di Dio. Ne consegue che quanto
-più un'anima coltiverà la vita interiore, tanto più si avvicinerà a Dio e, diventata simile a lui per grazia ed amo-
-re, potrà vivere nella sua intimità, potrà godere della sua
-amicizia, penetrare i suoi misteri ed associarsi ad essi.
-Chi, dunque, sarà atto a comprendere il grande mistero
-della Redenzione e a portarvi il suo contributo più di
-colui che, per mezzo di una fervorosa vita interiore, vive
-in intima amicizia con Dio?
+Gesù, proponendo il suo comandamento, ha detto: «amatevi scambievolmente come io ho amato voi» *(Gv.* 15, 12); ebbene, la caratteristica fondamentale del suo amore, dell'amore di Dio per gli uomini, è appunto la misericordia. Tutte le creature sono miseria davanti a Dio, miseria incapace di sussistere senza il continuo intervento della sua grazia. E noi uomini che cosa siamo? Non solo miseria incapace di sussistere, ma miseria capace di peccare: da soli «nulla siamo, nulla possiamo, nulla valiamo, nulla abbiamo fuorché il peccato» (S. Giov. Eudes); siamo dunque miseria nel senso più pieno della parola. Perciò, quando Dio ci ama, il suo amore è essenzialmente e necessariamente un atto di misericordia, ossia è amore che si china verso la nostra miseria per sollevarla, per sostenerla, per arricchirla con la sua ricchezza infinita. Ecco quello che lo Spirito Santo si propone in modo particolare di compiere in noi mediante il dono del consiglio: insegnarci a ricopiare questa misericordia che è la caratteristica principale dell'amore di Dio per noi. Lo Spirito Santo vuole condurci alla perfetta osservanza del comandamento di Gesù, ossia ad imitare l'amore misericordioso del suo cuore divino: «amatevi scambievolmente come io ho amato voi»; vuol portarci ad imitare la misericordia infinita del Padre celeste: «siate misericordiosi com'è misericordioso il Padre vostro» *(Lc.* 6, 36).
 
-Ai fini dell’apostolato non può essere sufficiente quel
-primo grado di amicizia divina che risulta dall’assenza del
-peccato grave, ma occorre un’amicizia più profonda che
-crei uniformità di vedute, di volontà, di desideri, di affetti in modo che l’apostolo possa agire secondo il cuore
-di Dio, mosso non da impulsi personali, ma dall’impulso
-della grazia, dal volere divino, dalle ispirazioni dello Spirito Santo. È significativo il fatto che Gesù, prima di
+**2** — Dio è infinitamente misericordioso perché conosce a fondo la nostra miseria; noi siamo ben poco misericordiosi perché la conosciamo troppo poco. Lo Spirito Santo, mediante il dono del consiglio, c'illumina su questo punto e anzitutto riguardo alla nostra miseria personale: negli insuccessi, nelle cadute ci ripete in fondo al cuore gli ammonimenti di Gesù: «Senza di me non potete far nulla». Siete servi inutili» *(Gv.* 15, 5; cfr. *Lc.* 17, 10). Un po' alla volta questa lezione, resa più viva ed efficace dall'esperienza, penetra profondamente nelle anime nostre; non abbiamo più bisogno di lunghi ragionamenti per persuaderci della nostra insufficienza, del nostro nulla: lo vediamo, lo tocchiamo con mano. Il dono del consiglio ci ha aperto gli occhi.
 
+La comprensione della nostra miseria personale ci rende comprensivi anche della miseria altrui. Come potrà avere l'ardire di condannare gli altri chi è davvero convinto della propria fragilità, debolezza, incostanza? «Chi è senza peccato, getti per primo la pietra» *(Gv.* 8, 7), ci suggerisce interiormente lo Spirito Santo, sdegnati per le mancanze altrui, siamo forse tentati d'imitare il gesto duro dei farisei verso la donna adultera. Lo Spirito Santo vuole scolpire in noi i tratti di Gesù, vuole trasformarci in immagini viventi del Salvatore e perciò soavemente, incessantemente ci spinge alla misericordia. Ci mette in cuore l'amore per i miseri: miseri nell'ordine materiale, miseri nell'ordine morale affinché, come Gesù, andiamo in cerca di essi, pronti a sacrificarci per la loro salvezza. Ci spinge soprattutto in cerca di coloro che, avendoci fatto soffrire, hanno un diritto speciale alla nostra misericordia e allora non potremo più accontentarci di perdonarli, di trattarli con mansuetudine, ma sentiremo il bisogno di beneficarli per attuare in pieno l'insegnamento di Gesù: «fate del bene a chi vi odia» *(Mt.* 5, 44).
 
-lanciare gli Apostoli alla conquista del mondo, ha voluto
-farli vivere per tre anni nella sua intimità, trattandoli da
-
-veri amici: «Io non vi chiamo più servi... vi ho chiamati
-amici» (Gv. 15, 15). Amici non solo perchè ha partecipato ad essi i tesori della sua vita divina, ma anche per-
-chè li ha voluti collaboratori e, in un certo senso, continuatori della sua missione di Redentore.
-
-L'apostolo non può essere tale se non è amico di Dio;
-Dio stesso l’invita a questa amicizia, ma è necessario che
-egli vi corrisponda con una seria vita interiore che renda
-i suoi rapporti con Dio sempre più intimi e più ricchi
-di amore.
-
-
-2. — Solo dall'amicizia con Dio, solo dalla carità che ci unisce a lui, l'apostolo attinge quelle energie soprannaturali che rendono le sue opere veramente efficaci e capaci di raggiungere il loro intento.
-Ma, dove attingerà l’apostolo questo amore che, unendolo a Dio, lo rende tanto potente? Senza dubbio da Dio
-stesso: «L'amore divino si è riversato nei nostri cuori
-per lo Spirito Santo che ci fu dato » (Rom. 5, 5). In un
-primo momento, il momento della giustificazione, Dio infonde in noi la carità senza la nostra collaborazione, ma
-Egli non ci conserva questo dono, e tanto meno l'accresce, se non ci manteniamo uniti a lui mediante gli eser-
-cizi della vita interiore. La lotta contro le passioni, la
-pratica delle virtù, la frequenza dei sacramenti, la preghiera, il raccoglimento, la presenza di Dio hanno ap-
-punto lo scopo di favorire l'unione col Signore e l'aumento della carità. La vita interiore è la fucina segreta
-in cui l’anima a contatto con Dio s’infiamma del suo amore e, proprio perchè infiammata e forgiata dall'amore, di-
-venta docile strumento di cui Dio possa valersi per diffondere l’amore in altri cuori. È quindi molto opportuno
-
-
-richiamarsi spesso al grande principio: la vita interiore è
-l'anima dell'apostolato. Una vita interiore profonda sarà
-generatrice di intenso amore, di intima unione con Dio,
-e allora da essa sgorgherà un apostolato fecondo, vera
-collaborazione all'opera salvifica di Cristo; invece una vita interiore mediocre non potrà produrre che un amore
-ed un'unione con Dio molto deboli e fiacchi, e di conseguenza l’apostolato che ne deriverà non potrà avere un
-efficace influsso sulle anime. Dove poi la vita interiore
-fosse quasi o del tutto spenta, anche la carità e l'amicizia
-con Dio minaccerebbero di estinguersi e, estinguendosi
-la fiamma interiore, l’apostolato verrebbe svuotato della
-sua sostanza, riducendosi ad un puro movimento che può
-fare del chiasso, ma che non può dare alcun frutto. « Tutto — dice S. Giovanni della Croce — si ridurrà ad un
-martellare invano e a fare poco più di niente, e alle volte
-proprio niente, anzi talvolta anche danno » (C. 29, 3).
+Ecco dove vuole condurci lo Spirito Santo col dono del consiglio ed in tal modo ci stabilirà in quella misericordia perfetta di cui ha il Maestro divino ha detto: «Beati i misericordiosi, perché troveranno misericordia» *(Mt.* 5, 7). Ecco il consiglio prudentissimo dello Spirito Santo: siate misericordiosi perché «sarete giudicati secondo lo stesso giudizio col quale avrete giudicato» *(ivi,* 7, 2).
 
 ### Colloquio
 
-« Traimi, Signore, dietro a te; corriamo!...
+«Accorro a te, Signore, a motivo della tua bontà e misericordia, perché so che non hai disprezzato i poveri, né hai orrore dei peccatori. Tu non hai respinto il ladrone che confessava il suo fallo, né la peccatrice in lacrime, né la cananea supplicante, né quella donna che fu colta in flagrante adulterio, e neppure il gabelliere al suo banco, né il pubblicano implorante misericordia o l'Apostolo che ti rinnegava e nemmeno quelli che ti crocifiggevano. Il profumo delle tue grazie mi attira.
 
-«O Gesù, ti chiedo di attirarmi nelle fiamme del tuo
-amore e di unirmi così strettamente a te, che Tu stesso
-viva ed agisca in me. Quanto più il fuoco dell’amor tuo
-incendierà il mio cuore e quanto più io ripeterò: traimi,
-tanto più le anime che si avvicineranno alla mia correranno velocemente dietro all'odore dei tuoi profumi.
-
-«Sì, o Signore, correranno, correremo insieme, perchè le anime infiammate d'amore non possono rimanere
-inattive. Esse se ne stanno, come S. Maria Maddalena, ai
-tuoi piedi ascoltando le tue parole dolci ed infiammate,
-ma se in apparenza sembra che non facciano niente, fanno però molto più di Marta che si affanna per tante cose.
-
-«O Gesù, non è necessario, dunque, dire: traendo me,
-trai anche le anime che amo. Questa semplice parola:
-traimi, basta; perchè, quando un’anima si è lasciata vincere dall'odore inebriante dei tuoi profumi, non sapreb-
-
-
-be più correr sola, e tutte le anime da lei amate sono
-trascinate dietro di lei; è come una conseguenza naturale
-della sua attrazione verso di te.
-
-«Come un torrente trascina seco nelle profondità dei
-mari tutto ciò che incontra nel corso suo, così, Gesù
-mio, l’anima che si sprofonda nell’oceano senza rive del
-tuo amore, attira dietro di sè tutti i suoi tesori! Signore,
-questi tesori sono per me le anime che ti è piaciuto d’unire alla mia; questi tesori me li hai affidati Tu.
-
-«Ma, volendo raggiungere una meta, occorre valersi
-dei mezzi opportuni. Perciò, Gesù mio, avendomi Tu
-fatto comprendere che mi avresti dato delle anime mediante la croce, quanto maggiori sono le croci che in-
-contro, tanto più si fa viva in me la brama dei patimenti» (T.B.G. St. 10, 7).
+«Ho sentito il profumo della tua misericordia e vengo a te per esserne fornito. Felice l'uomo che, seguendo i tuoi esempi, ha il cuore pieno di compassione per i miseri. Felice colui che è misericordioso e pronto a soccorrere quelli che sono nel bisogno, che si ritiene più beato di dare anziché di ricevere, che è pronto a perdonare e lento ad adirarsi, che non si vendica mai ed in tutte le circostanze considera le necessità degli altri come se fossero sue. O Signore, riversa nella mia anima la rugiada della misericordia, riempi il mio cuore di carità, affinché sappia farmi tutto a tutti e sia così morto a me stesso che viva soltanto per il bene altrui. Insegnami a distillare il profumo soave della misericordia che è composto delle necessità dei poveri, delle angosce degli oppressi, delle ansie degli afflitti, dei falli dei peccatori e infine di tutte le sofferenze di coloro che sono nel dolore, anche se fossero nemici. Tutte queste cose appaiono sprgevoli alla mia natura, ma il profumo che da esse si ricava sorpassa tutti gli aromi poiché, come Tu hai detto, ha il potere di darci la vita eterna: 'Beati i misericordiosi perché troveranno misericordia'. O Signore, fa' che io possa versare questo profumo non solo sul tuo capo e sui tuoi piedi, ma sul tuo corpo intero che è la Chiesa, affinché lènisca i dolori di tutti i tuoi membri sofferenti» (cfr. S. Bernardo).

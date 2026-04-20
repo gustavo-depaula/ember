@@ -1,101 +1,27 @@
-## 297 — L’UNIONE FRATERNA
-*XVII Domenica dopo Pentecoste*
+## V — FORTEZZA E PAZIENZA
 
-### Presenza di Dio
-
-Dio mio, dammi grazia di conservare l'unione col prossimo, nel vincolo della carità e della pace.
+**Presenza di Dio.** — Insegnami, o Signore, a sopportare con fermezza e pazienza ciò che mi fa soffrire.
 
 ### Meditazione
 
-1. — Come Gesù nella sua vita terrena non ha cessato
-di raccomandare la carità e l'unione fraterna, così la Chiesa
+**1** — Benché, per affrontare ed intraprendere cose difficili ci voglia coraggio, ce ne vuole ancora di più per sopportarle, soprattutto quando si tratta di cose penose che durano a lungo e non si possono né evitare, né cambiare. Proprio in questo senso S. Tommaso insegna che l'atto principale della virtù della fortezza non è aggredire, ma star fermi nei pericoli e sostenere con animo virile le lotte, le contrarietà, i disagi, le persecuzioni.
 
+Nella vita spirituale non incontriamo solo difficoltà che con un bell'atto di coraggio possiamo superare e vincere una volta per sempre, ma incontriamo — e con frequenza molto maggiore — cose difficili e penose cui è impossibile sottrarci e che, volere o no, dobbiamo subire. Sono mali fisici che ci logorano e c'impediscono di espandere come vorremmo la nostra attività; sono dolori morali derivanti da lacune del nostro temperamento, dal contatto con persone che ci contrastano o non ci comprendono, oppure dalla pena di veder soffrire coloro che ci sono cari senza poterli sollevare, dalla lontananza di amici, dalla solitudine del cuore; sono pene spirituali dovute alle aridità, alle oscurità interiori, alla stanchezza dello spirito, alle tentazioni, agli scrupoli; e poi ci sono ancora tutti i disagi, le fatiche, le difficoltà inerenti all'adempimento del dovere quotidiano. Sappiamo che tutto questo è disposto da Dio per la nostra santificazione, per il nostro bene, ma ciò non toglie che ne sentiamo il peso: soffrire non è mai piacevole e, pur volendo accettare tutto per amor di Dio, talvolta sorge in noi la tentazione di reagire, di buttar via tutto, di sottrarci al giogo, oppure ci sentiamo oppressi dalla tristezza e dallo scoraggiamento. Il rimedio qual è? È quello stesso che indicava Gesù agli Apostoli dopo aver loro annunciato le persecuzioni cui sarebbero andati incontro: «*in patientia vestra possidebitis animas vestras*»; guadagnerete le anime vostre con la pazienza *(Lc.* 21,19). La pazienza è appunto la virtù che ci permette di vivere in stato di sofferenza, di disagio, di privazione senza perdere la serenità, che ci permette di mantenerci saldi in mezzo alle tempeste, alle contraddizioni, ai pericoli, senza irritarci, senza avvilirci, né deflettere.
 
-nelle Messe domenicali, continua ad inculcarci questa virtù.
-Oggi lo fa servendosi di un brano della lettera di S. Paolo
-agli Efesini. « Vi esorto di condurvi in modo degno della
-chiamata che avete ricevuto, con tutta umiltà e mansuetudine e con longanimità, tollerandovi a vicenda con amore,
-sforzandovi di conservare l’unità dello spirito nel vincolo
-della pace» (Ep.). La chiamata che abbiamo ricevuto è la
-vocazione al cristianesimo, che è quanto dire vocazione all'amore. Dio, carità infinita, ci adotta quali figli suoi, affinchè
-emuliamo la sua carità e l'emuliamo al punto che l’amore sia
-il vincolo che ci unisca tutti in un sol cuore, come il Padre
-ed il Figlio sono uniti in un'unica Deità nel vincolo dello
-Spirito Santo. e Come Tu, Padre, sei in me, e io sono in te,
-E siano uno in noi», ha chiesto per noi Gesù (Gv.
-17; 21).
+**2** — La pazienza cristiana non è la rassegnazione forzata del fatalista o del filosofo che si sottomette al dolore perché sa di non poterlo sfuggire, né è neppure l'atteggiamento di colui che subisce perché è incapace di reagire per mancanza di forze e di risorse, ma è accettazione volontaria del dolore in vista di Dio e della beatitudine eterna, accettazione sostenuta dalla consapevolezza che la sofferenza è assolutamente necessaria per purificarsi dal peccato, per espiare le proprie colpe, per disporsi all'incontro con Dio. La pazienza cristiana ci spinge anzitutto ad accettare il dolore con serenità e poi, a poco a poco, ci porta a stimarlo ed ad amarlo, non perché vede in esso il fine della vita, ma perché lo riconosce mezzo indispensabile per raggiungere il fine. Il fine è l'amore, è l'unione con Dio. Ma se Gesù, per accendere in noi la fiamma della carità e per ristabilire i rapporti di amicizia fra noi e Dio, ha voluto vivere una vita di martirio ed è morto in croce, come pretenderemo noi di arrivare alla pienezza dell'amore e all'intimità divina, senza seguire la stessa via battuta da lui? «Poiché Cristo ha sofferto nella carne, anche voi armatevi dello stesso pensiero», grida S. Pietro (1, 4,1), ossia anche noi abbracciamo il patire con gli stessi sentimenti con cui l'ha abbracciato Gesù: fare la volontà del Padre celeste, espiare il peccato, dargli prova di amore.
 
-« Conservare l’unità nel vincolo della pace»: ecco una
-cosa facile e difficile ad un tempo. E' facile perchè, quando
-il cuore è davvero umile, mansueto, longanime, si sopporta tutto con amore, avendo cura di adattarsi ai gusti ed alla menta-
-lità altrui piuttosto che di far valere i propri. Ma è difficile
-perchè, finchè siamo quaggiù, l'amor proprio, anche se mortificato, tenta sempre di risorgere e di affermarsi creando
-continue occasioni di urti reciproci, per schivare le quali occorre tanta rinuncia di sè e tanta delicatezza per gli altri. Dob-
-biamo persuaderci che tutto ciò che disturba, affievolisce o,
-peggio, distrugge l'unione non piace a Dio e non gli piace
-neppure se lo facciamo sotto pretesto di zelo. Salvo l'adem:
-pimento del dovere ed il rispetto alla legge di Dio, dobbiamo
-sempre preferire di rinunciare alle nostre idee, anche buone,
-piuttosto che contrastare col prossimo. Dà molto più gloria
-a Dio un atto di umile rinuncia in vista dell'unione, dà mol
-to più gloria a Dio la pace tra fratelli che un'opera grandiosa, la quale fosse causa di disaccordo e di disarmonia.
-
-
-2. — Molto spesso la causa delle divisioni fra i buoni è
-il personalismo eccessivo, il troppo voler fare le cose a modo
-
-
-proprio. Data la nostra limitatezza, non vi può essere nulla
-di così assoluto nelle nostre idee da non poter far posto alle
-idee altrui. Se le nostre vedute sono buone, rette, luminose,
-accanto ad esse possono esservene altre ugualmente buone
-ed anche migliori, perciò è molto più io, umile e caritatevole accettare le vedute altrui, SEGR conciliare con
-esse le nostre, anzichè scartarle per non saper rinunciare a
-
-articolari ed a sfumature troppo personali. Questo personafismo è nemico dell'unione, è ostacolo ad una migliore riusci-
-ta delle opere ed anche al nostro progresso spirituale.
-
-Nell'epistola odierna S. Paolo ci mette davanti tutti i mo-
-
-+ tivi che abbiamo per mantenerci uniti: « [siete] un corpo
-solo, un solo spirito, come in un'unica speranza siete stati
-chiamati; uno è il Signore, una la fede, uno il battesimo; uno
-Iddio e padre di tutti». Se Dio ha voluto salvarci e santificarci tutti uniti in Cristo, conglutinandoci in lui in un sol
-corpo, dandoci un'unica vocazione, un'unica fede, un'unica
-speranza ed essendo Egli il Padre di tutti, come pretenderemo noi di salvarci e santificarci separandoci fi uni dagli al-
-tri? Se non vogliamo frustrare il piano di Dio, se non vogliamo mettere in pericolo la nostra salvezza e la nostra san-
-tificazione, dobbiamo essere pronti a qualsiasi sacrificio personale pur di mantenere e rinsaldare l'unione. Ricordiamo che
-Gesù ha chiesto per noi non solo l'unione, ma l'unione per-
-‘fetta: «siano fetti nell'unità» (Gv. 17, 23).
-
-Anche il Vangelo di oggi viene a rafforzare questa spinta all'unione, giacchè in esso Gesù ci ripete che il comandamento
-mento dell'amore del prossimo è, insieme con quello dell’amore di Dio, il fondamento di «tutta la legge», ossia di
-tutto il cristianesimo. Non lasciamo cadere invano questi continui richiami alla carità ed all'unione; la Chiesa insiste su
-questi punti perchè su di essi ha insistito. Gesù, perchè la
-carità «è il precetto del Signore; e se questo solo sarà osservato, basta» (S. Giov. Ev.).
-
+La pazienza cristiana non include, quindi, solo un atteggiamento passivo di fronte al dolore, ma anche un atteggiamento attivo, volontario, che è il più importante ed è appunto quello che la rende meritoria. L'uomo paziente è passivo perché lo vuol essere, perché usa della sua volontà libera per assoggettarsi a tutte le sofferenze che incontra sul suo cammino, perché curva volontariamente le spalle sotto il giogo del dolore, come Gesù ha curvato le sue sotto il peso della croce perché «*quia ipse voluit*» *(Is.* 53,7). Il cristiano non è un cireneo forzato ma un cireneo volontario, non nel senso che vada spontaneamente in cerca del dolore — cosa che non è alla portata di tutti e, talvolta, potrebbe anche essere imprudente — ma nel senso più modesto che accetta volontariamente tutto il dolore che incontra sul suo cammino, riconoscendo in esso la croce offertagli da Dio per la sua santificazione.
 
 ### Colloquio
 
-«O Verbo Figlio di Dio, Tu guardi con maggior compiacenza un'opera Sira in unione e carità fraterna che mille
-in disunione; ti piace di più un'azione minima, come un batter d'occhio, fatta in unione e carità che se io patissi il mar-
-tirio in disunione e senza carità. Dov'è unione sei Tu, perchè ti chiami carità: ‘Deus charitas est’. Ti chiami Dio
-di pace e di unione: ‘Deus pacis’. Sei quello che metti ogni
+«O Gesù, l'ufficio delle anime che ammetti alla tua intimità è quello di patire con te, di portare alta la croce, senza lasciarla sfuggire di mano, nonostante i pericoli in cui si trovano e senza mai mostrare nel patire la minima debolezza.
 
-ce e senza di te non vi può essere vera pace, nè unione.
+«Mi hai fatto così bene intendere, o Signore, la grande utilità delle persecuzioni e dei patimenti sofferti per amor tuo, che ora non posso fare a meno di amare il sacrificio. Tale è la via che Tu hai battuto e tale deve essere pur quella che devono battere coloro che intendono seguirti, se non vogliono perdersi. Ma benedette croci che vengono abbondantemente ripagate fin da questa vita!
 
-inta è la pace e l'unione tra i peccatori, nè può durare lungo tempo, perchè, essendo i loro cuori signoreggiati dalla ti-
-rannia del peccato e dalle passioni, subito si rom quel vincolo che è fra di loro, vincolo debole più che un fil di sto) pa.
-Sicchè da te solo, o Dio, viene la pelon unione e dove è disunione, ivi è confusione a causa del peccato e del demonio.
-Con quanto desiderio dovremmo cercare questa unione e con
-quanta volontà amarla! Dov'è unione ivi è ogni bene, vi è
-l'abbondanza di ogni cosa, di tutte le ricchezze celesti e terrestri,
-«O Santissima Trinità, dacci, dunque, grazia di vivere
-sempre uniti gli uni agli altri, conservando l'unione di spirito, avendo un medesimo volere e sentire, emulando quella
-indivisibile unità che è fra le tre Persone divine » (S. M. Maddalena de' Pazzi).
+«In qual modo, o Gesù mio, mi potresti mostrare maggior amore se non volendo per me quello che hai voluto per te?
 
-«Dove c'è l’amore, la carità, ivi sei Tu, o Signore! L'amore tuo, O Cristo, ci ha riunito in un sol corpo ed in un sol
-cuore, concedici dunque di amarci con animo sincero. Tieni
-lontano da noi le contese e le liti; fa' che i nostri cuori siano
-sempre uniti in te e Tu sta sempre in mezzo a noi» (dalla
-Liturgia).
+«O morire, o patire: ecco quale deve essere il mio desiderio» *(T.G. Cam.* 18, 5; *Vi.* 33,4; 11,5).
+
+«A Cristo crocifisso, Tu mi basti, con te voglio soffrire e riposare! Fa' che, crocifisso interiormente ed esteriormente con te, possa vivere nella pienezza e soddisfazione dell'anima mia, possedendola nella pazienza.
+
+«Insegnami ad amare molto i patimenti ed a considerarli ben poca cosa per entrare nelle tue grazie, o Signore, che non hai dubitato di morire per me. O mio Amato, ogni cosa aspra e gravosa la voglio per me; tutto ciò che è soave e delizioso per te!» *(G.C. PA.* 13, 8, 15, 52).

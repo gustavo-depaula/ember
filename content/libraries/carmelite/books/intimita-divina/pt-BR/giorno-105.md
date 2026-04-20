@@ -1,142 +1,132 @@
-## 105 — O NOSSO LUGAR
+## 103 — A TRANSFIGURAÇÃO
+*II domingo da Quaresma*
 
 ### Presença de Deus
 
-— Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.
-
 ### Meditação
 
-1 — Entre todas as criaturas de que gostamos de comprazer-nos
-e para as quais nossa natureza se sente muito inclinada, o
-nosso eu ocupa sem dúvida o primeiro lugar. Não há pessoa,
-ainda pouco dotada de dons e qualidades, que não ame
-a própria excelência e não procure de algum modo
-fazê-la brilhar aos próprios olhos e aos dos outros. Aliás,
-para tal fim somos muitas vezes espontaneamente levados a
-exagerar nosso valor e, em consequência, a mostrar
-exigências e pretensões que nos tornam altivos,
-arrogantes e até difíceis em nossas relações com os outros. A humildade é
-justamente a virtude que mantém nos justos limites o amor
-da própria excelência; e enquanto este nos impele a pôr-nos alto demais, isto é, a ocupar
-um lugar mais elevado do que nos cabe, a humildade é a virtude que nos faz ficar
-no nosso lugar. A humildade é verdade, porque tende a pôr
-na verdade nossa inteligência, fazendo-nos reconhecer
-o que na realidade somos, e nossa vida, inclinando-nos a
-tomar, diante de Deus e diante dos homens, aquele
-lugar que nos cabe e não outro.
+1 — A Alma de Jesus, unida pessoalmente ao Verbo,
+gozava da visão beatífica, cujo efeito conatural é
+a glorificação do corpo. Mas tal efeito foi impedido por
+Jesus que, durante os anos de sua vida terrena, quis
+assimilar-se o mais possível a nós, revestindo-se de "uma carne
+semelhante à do pecado" (Rom. 8, 3). Contudo, para confirmar na fé os Apóstolos abalados pelo anúncio
+de sua Paixão, Jesus, no monte Tabor, deixou
+que por breves instantes alguns raios de sua alma
+bem-aventurada redundassem em seu corpo, e então Pedro, Tiago e
+João o viram transfigurado: "seu rosto resplandecia
+como o sol e suas vestes eram brancas como a neve".
+Eles ficaram extasiados, e no entanto Jesus lhes mostrara
+apenas um raio de sua glória, pois nenhuma
 
 
-A humildade te faz reconhecer que diante de Deus não és
-senão uma pequena criatura sua, em tudo dependente
-dele, tanto no teu existir quanto no teu agir. Tendo recebido
-de Deus a vida, não podes existir nem um instante
-independentemente dele, mas é ele que, assim como te criou
-com sua ação criadora, assim te mantém em vida com sua
-ação conservadora. Não só isso, mas não podes cumprir
-o menor ato sem o concurso de Deus, um pouco como
-qualquer máquina, ainda a mais perfeita, não pode fazer
-o menor movimento, se não é posta em ação pelo artífice que a fabricou. É bem verdade que, à diferença
-da máquina, teu agir não é nem mecânico nem obrigado,
-mas consciente e livre; contudo não podes nem sequer
-mover um dedo sem o concurso do Artífice divino.
+criatura humana teria podido suportar a
+visão completa.
 
-Em consequência, tudo o que tens na ordem do
-ser - qualidades, dotes, capacidades etc. - e tudo o que tens
-conseguido na ordem do agir, nada é teu, mas tudo, de
-um modo ou de outro, é dom de Deus, é ação cumprida
-com auxílio divino. "Que tens tu que não tenhas recebido? e se o recebeste, por que te glorias como se não
-o tivesses recebido?" (I Cor. 4, 7).
+A glória é fruto da graça; a graça que Jesus
+possui em medida infinita redunda numa glória infinita
+que o transfigura todo. Algo semelhante acontece
+também conosco: a graça nos transforma, nos transfigura "de glória
+em glória" (II Cor. 3, 18), até que um dia, no céu, nos introduzirá na visão beatífica de Deus. E enquanto a graça
+transfigura, o pecado, com sua opacidade, desfigura aqueles
+que dele são vítimas.
 
+O Evangelho de hoje (Mt. 17, 1-9) mostra a íntima relação entre a Transfiguração e a Paixão de Jesus. Moisés
+e Elias, aparecidos no Tabor, ao lado do Salvador,
+falavam com ele e, como especifica S. Lucas, falavam propriamente de sua próxima Paixão, "da partida que
+ele estava para cumprir em Jerusalém" (Lc. 9, 31).
 
-2 — Na ordem sobrenatural, onde tudo depende
-da graça, verifica-se do modo mais estrito a palavra de
-Jesus: "Sem mim nada podeis fazer" (Jo. 15, 5).
-Embora, com o batismo, a graça santificante nos tenha elevado à ordem sobrenatural, e as virtudes infusas tenham
-tornado nossas faculdades capazes de produzir atos sobrenaturais, no entanto, adverte S. Paulo, "ninguém pode dizer: 'Senhor
-Jesus', senão pelo Espírito Santo" (I Cor. 12, 3).
-
-Assim, para produzir também o menor ato sobrenatural,
-tens necessidade do socorro de Deus, tens necessidade da
-graça atual que te previna com sua ação e te
-acompanhe na ação até seu cumprimento.
-
-O grande teólogo, que estudou a fundo a doutrina
-católica, para pôr em prática seu mínimo ponto, como
-para produzir um só ato de amor de Deus, tem absoluta
+O divino Mestre quer assim ensinar aos seus discípulos
+que é impossível para ele e para eles chegar à glória
+da Transfiguração sem passar através do sofrimento; é a lição que dará mais tarde aos dois discípulos
+de Emaús: "Não era preciso que o Cristo padecesse tais coisas
+e assim entrasse na sua glória?" (Lc. 24, 26). Aquilo que o
+pecado desfigurou não pode voltar à primitiva
+beleza sobrenatural senão por meio do sofrimento
+purificador.
 
 
-necessidade, não menos que o camponês que conhece só seu
-catecismo, do socorro da graça atual. Do mesmo modo
-o santo, que recebeu tantos favores e luzes divinas,
-que já chegou ao heroísmo das virtudes, não pode fazer o menor
-ato virtuoso sem o auxílio da graça atual. Isso
-te diz quão grande deve ser tua dependência de
-Deus. Estás portanto bem longe da verdadeira humildade
-se, confiando em tua ciência ou em teu longo exercício de vida espiritual, crês que tuas luzes ou virtudes te são suficientes
-para agir como bom cristão. Não, admoesta-te S. Paulo,
-"sufficientia nostra ex Deo est", nossa suficiência vem
-de Deus (II Cor. 3, 5). Sem Deus não podes nem pensar,
-nem dizer, nem querer bem algum, "pois é Deus quem opera em
-nós tanto o querer como o agir segundo seu beneplácito"
-(Fil. 2, 13).
+2 — Pedro, extasiado pela visão do Tabor, com seu
+ardor habitual exclama: "É bom para nós estarmos aqui", e se
+oferece para preparar três tendas: para Jesus, para Moisés e para
+Elias. Mas sua proposta é interrompida por uma voz do alto: "Este é meu Filho amado, no qual pus meu agrado:
+escutai-o!" e a visão
+desaparece.
 
-De teu, portanto, conatural à tua natureza limitada
-e além disso ferida pelo pecado original, tens
-apenas uma coisa: a capacidade de faltar a teus deveres,
-de falhar, de pecar. Tira de ti o que é de Deus e
-encontrarás que, por ti mesmo, és nada, antes menos
-que nada, porque o nada não é capaz de ofender a Deus e tu
-tens esta triste possibilidade.
+As consolações espirituais jamais são fim em si mesmas,
+e nós não devemos nem desejá-las nem procurar retê-las
+para nosso gozo. A alegria, mesmo a espiritual,
+jamais deve ser procurada por si mesma; como no céu a
+
+
+alegria será a necessária consequência da posse de Deus,
+assim nesta terra deve ser unicamente um meio para
+dar-nos com maior generosidade ao serviço de Deus. A Pedro,
+que pede para permanecer no Tabor na doce visão de
+Jesus transfigurado, o próprio Deus responde convidando-o antes a escutar e seguir os ensinamentos do seu
+Filho amado. E muito em breve o Apóstolo ardente saberá que
+seguir Jesus significa levar a cruz e subir o Calvário
+com ele.
+
+Deus não nos consola para nos distrair,
+mas para nos encorajar, para nos tornar fortes e generosos no sofrer por amor dele.
+
+Desaparecida a visão, os Apóstolos levantaram os olhos e
+não viram mais nada "nisi solum Jesum", senão Jesus
+só, e com "Jesus só" desceram do monte. Eis o que
+devemos sempre buscar e o que deve bastar-nos: Jesus
+só, Deus só. Todo o resto - consolações,
+ajudas, amizades até espirituais, compreensão, estima, apoio até
+dos superiores - pode ser bom na medida em que Deus
+nos permite gozá-lo e muitas vezes Ele se serve disso
+justamente para sustentar nossa fraqueza; mas quando,
+através das circunstâncias, a Mão divina nos priva de tudo
+isso, não devemos nem atemorizar-nos nem perder-nos. São
+precisamente estes os casos em que, mais do que nunca, podemos testemunhar a Deus - com os fatos e não com as palavras - que
+Ele é o nosso Tudo e que só Ele nos basta. É esta
+uma das mais belas testemunhas que uma alma amante
+pode render ao seu Deus: ser-lhe fiel, confiar nele,
+perseverar no propósito de uma dedicação total, mesmo
+quando Ele, retirando todos os seus dons, a deixa só, no
+escuro, talvez na incompreensão, na amargura,
+na solidão material e espiritual unida à desolação
+interior. É então o momento de repetir: "Jesus só"
+e descer com ele do Tabor para segui-lo com os
+Apóstolos até o Calvário, onde Ele mesmo agonizará abandonado não só pelos homens, mas também pelo
+Pai.
+
+
 
 ### Colóquio
 
-"Ó Pai onipotente, Deus verdade, Deus amor,
-concede-me entrar na cela do conhecimento de mim,
-reconhecendo que eu por mim mesma não sou, mas que todo
-o ser e a bondade que há em mim vêm unicamente de ti.
-Mostra-me meus defeitos, para que eu saiba detestar minha
-malícia e assim fugirei do amor-próprio e me encontrarei vestida
-da veste da divina caridade, a qual é necessária
-para ser admitida às núpcias da vida eterna" (S. Catarina de Sena).
+"Eu te amo só a ti, meu Deus, sigo só a ti, busco só a ti,
+estou pronto a seguir só a ti... quero estar à tua disposição somente. Ordena, eu te peço, manda tudo o que
+quiseres, mas cura, abre meus olhos para que eu veja teus
+sinais; cura-me todo para que eu te reconheça.
+Dize-me para que lado devo voltar minha atenção para que
+te veja; e espero saberei fazer tudo o que me mandas..."
+(S. Agostinho).
 
-"Faze, ó meu Deus, que eu aprenda a conhecer-me
-a fundo! E que me persuada de verdade de que não sou nada e que
-Tu és tudo. E que não me considere nada além daquele
-nada que sou. E que jamais faça nada por mim,
+Sim, ó Jesus, que eu siga só a ti e te siga não só no
+Tabor, mas sobretudo no Calvário. O Tabor é luz, é
+esplendor que me atrai; eu gostaria, ainda que só por um instante,
+entrever teu Rosto, ó meu Deus! O Calvário é noite, é
+solidão, é dor escura que me assusta; mas nas trevas
+ergue-se uma cruz e sobre aquela cruz eu te contemplo, crucificado por amor. Entrevejo teu Rosto não transfigurado
+pela glória, mas desfigurado pela dor, fruto dos nossos
+pecados!
 
+Ó Jesus, destrói em mim o pecado, esse pecado que
+desfigurou teu Rosto, esse pecado que desfigurou
+minha alma, criada à tua imagem e semelhança. Mas para que aconteça essa destruição é necessário que eu participe
+do teu Calvário, da tua Cruz; digna-te, pois, ó Senhor,
+associar à tua Paixão todos os sofrimentos pequenos e
+grandes da minha vida, para que por eles eu seja purificado
+e venha disposto a subir de claridade em claridade, até a
+total transfiguração em ti.
 
-mas tudo por ti. E que nenhuma criatura pense mais em mim,
-nem fale mais de mim, nem faça nada por mim, nem me dê mais
-nada, mas tudo faça por ti, tudo dê a ti. E que meu
-nada se reduza a nada aos olhos de toda tua criatura
-e aos teus olhos, meu Deus. E que Tu, Tudo, sejas tudo,
-em tudo e por tudo" (S. João Eudes).
-
-Descobre-me, ó Senhor, meu nada, e descobre-o de modo
-que eu não só o compreenda, mas tenha dele convicção
-prática, profunda. Tu sabes quanto isso é difícil à minha
-natureza soberba! Se o intelecto não pode resistir à evidência
-
-
-da verdade e deve necessariamente admitir que
-
-
-nada sou, nada tenho e nada posso sem ti, no ato prático meu eu procura sempre atribuir-se, arrogar-se
-alguma coisa e comprazer-se dela como se fosse coisa
-sua. Ajuda-me, ó Senhor, a debelar este orgulho, porque Tu o vês,
-é ladrão de teus dons; porque Tu o vês,
-torna infecunda minha vida, impedindo-me de receber
-a abundância de tuas graças.
-
-Ó Senhor, que eu reconheça meu nada; e quanto mais
-o reconhecer com simplicidade e humildade de coração, tanto
-mais te comprazerás em ser meu Tudo. Tu o tudo,
-e eu o nada; Tu Aquele que é, e eu aquele que não é!
-Glorifica-te, pois, no meu nada! Neste nada triunfe
-teu amor e tua graça, mas triunfe também tua misericórdia,
-
-
-porque sou um nada que pecou. Peccavi,
-
-
-Domine, miserere mei!
+A luz, a glória do Tabor me encorajam; graças, ó Senhor,
+por me teres concedido, ainda que por breves instantes,
+contemplar teu esplendor, gozar de tuas divinas
+consolações; assim reconfortado e encorajado desço do
+monte para seguir só a ti, até o Calvário.

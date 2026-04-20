@@ -1,55 +1,37 @@
-## 324 — SANCTIFYING ONESELF IN THE APOSTOLATE
+## 324 — DUTY OF APOSTOLATE
 
 ### Presence of God
 
-Give me light, O God, so that I may recognize the graces You have prepared along my path to lead me to holiness; make me capable of corresponding to them.
+O Jesus, who welcomed me as your member, grant that I may not live as stranger in your Mystical Body, but may serve good of all brothers.
 
 ### Meditation
 
-Must one be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
+1. — Apart from degree of charity a soul may have reached and apart from its particular vocation, there exists for every Christian a duty of apostolate founded in very fact of being Christian, that is, member of Christ's Mystical Body.
 
-We must therefore conclude that, once the period dedicated exclusively to preparation is presupposed, it is necessary to unite one’s personal ascent toward holiness with the exercise of apostolic activity. In other words, apostles must sanctify themselves in the apostolate and by means of it.
+"Being many, we are one body in Christ, and every one members one of another" (Rom. 12:5). Therefore, as in our body each member is concerned for good of others — "if one member suffers anything, all members suffer with it; if one member glory, all members rejoice with it" (1 Cor. 12:26) — so every Christian is bound to concern himself with others' good.
 
-«To sanctify oneself in view of and by means of the apostolate—this is the watchword for a diocesan priest.... We would make the Church, the life of Jesus, and all the lives of the saints lie, if we affirmed the incompatibility of external apostolate with holiness.»
+"If a thorn," says St. John Chrysostom, "pierces sole of foot, whole body feels it and is solicitous: back bends, hands reach out to extract it, head lowers, eyes look with great care and concern." As back, hands, head, and eyes do not neglect good of foot nor say, "What does it matter to me?" but each in its own way runs to help suffering member, so no Christian may be unconcerned with brother, but is bound — according to his possibilities — to labor for good of his soul.
 
-These words that Don Poppe addresses to priests hold true for all apostles, clerics or laity, religious or secular: every apostle must have the certainty that precisely in his field of labor—and not elsewhere—he will find all the graces needed to sanctify himself, to reach intimate union with God.
+And this precisely by force of Baptism, which by constituting him member of Mystical Body has made him in solidarity with other members, so that another's good is his good, and another's evil his evil.
 
-When a person gives himself to apostolate not by his own choice, not from a natural impulse to activity, but only to respond to a divine call, he must be certain that, as God wanted him in apostolate, so He wants him holy and will give him every means to become so.
+"All evils arise from fact that we consider as foreign things concerning our very own body. No one can do his duty if he neglects salvation of neighbor. If you dare say you have nothing in common with your member and esteem to have nothing in common with your brother, you have not even Christ as Head." These strong words of Chrysostom tell us apostolate is not an extra, not something optional left to arbitrariness of individuals' generosity, but precise duty of every Christian, a duty deriving from very nature of Christianity, so binding that one cannot be true Christian without fulfilling it.
 
-God cannot condemn to mediocrity a soul that, in order to do His will, and therefore for love of Him, has taken upon itself apostolic burdens and labors. «No, brothers,» Don Poppe continues, «the active life is not a night in which the light of the ideal is extinguished. If many have lost theirs there, you must have greater confidence, humble yourselves more deeply for your weakness, and a more abundant grace will certainly bring you success as well.
+2. — As St. Paul to first Christian communities, as St. John Chrysostom to Church of Antioch, so today Christ's Vicar raises voice to inculcate in faithful of whole world great duty of apostolate.
 
-«Do you not know that difficulties and obstacles, under the marvelous action of grace, are sometimes transformed into helps and cooperate wonderfully in good? *Certus sum*, you can say with St. Paul: I am sure that no creature in the world has the power to turn me away from the path of holiness.»
+Jesus, who by dying on cross merited grace for us, "could have bestowed it directly on whole human race; but He willed to do so through visible Church, in which men should unite in order to cooperate with Him and through it in communicating to one another divine fruits of Redemption. As Word of God, to redeem men by his pains and torments, willed to make use of our nature, in almost same way, throughout centuries, He makes use of his Church to continue perpetually work begun" (Pius XII, *Mystici Corporis*).
 
-In the measure in which the apostle is docile and faithful to grace, God will purify him, refine him, sanctify him precisely through his apostolic labors.
+Church is society of faithful, Church is we ourselves. Therefore on each of us falls duty to cooperate in diffusion of grace in souls. Without doubt in this ministry first place belongs to bishops and priests; but beside them and under dependence on them, every Christian is called to take part. "Not only sacred ministers and those who have offered themselves to God in religious life, but also other members of Christ's Mystical Body, each in proportion to own possibility, are bound to labor with all commitment and diligence for building and increase of same Body" (ibid.).
 
-This does not exclude that silent call to recollection, that desire for solitude and intimacy with God that often accompanies the apostle amid his activity and sometimes grows acute enough to cast a veil of nostalgia over his life. Whoever has tasted, even a little, the beauty and infinite goodness of God cannot but feel a powerful longing and need for Him.
+Of each member, that is, of each Christian, Jesus wants to make use in continuing his redemptive work in world. He, infinite omnipotence, who as He created all from nothing also has power to sanctify souls without help of anyone, wants to need us, our poor work, and invites and urges us to sacrifice ourselves with Him for salvation of brethren.
 
-This is a good sign: it means that the soul has not let itself be invaded and dissipated by external occupations and that, even while living in the world, it is not of the world, but truly tends toward God.
-
-Even if at times this longing should become tormenting, the apostle must not be disturbed, nor think he has taken the wrong road: this torment will purify him and lead him to the Lord.
-
-Besides, one cannot think that the simple desire for greater recollection and union with God is by itself an indication of a call to the contemplative life, which is characterized above all by the need for deeper dedication and immolation.
-
-The insistent call to interiority should rather be considered as a grace meant to defend the apostle from the dangers of external activity: it is the bulwark, the cloister wall of his spiritual life.
-
-Yet the need for God must be satisfied. Beyond daily hours of prayer and silence, the apostle must have sufficient pauses in his work: monthly retreats, yearly exercises, and likewise greater leisure for recollection after a period of particularly intense activity.
-
-It would be a fatal error to let oneself be absorbed by work to the point of no longer finding time to concentrate in God, in an intimate heart-to-heart with Him; not even under the appearance of greater generosity should the apostle renounce his hours of prayer.
-
-At the same time, however, he must go to his work with a serene and trusting spirit, keeping clearly in mind that, as long as he has not reached full maturity of spiritual life, he will not escape the conflict between action and contemplation: action that tries to draw him away from contemplation, and contemplation that would like to prolong itself beyond the established time.
-
-His effort must be to keep himself in a position of balance, avoiding both extremes and unifying his life through love. Before the conflict is stilled in perfect harmony, a long road remains to be traveled, during which it is absolutely necessary to devote oneself to action with prudence and to be very faithful to prayer, not allowing the time destined for it to be invaded by work.
+"A tremendous mystery, never sufficiently meditated: that salvation of many depends on prayers and voluntary mortifications undertaken for this purpose by members of Mystical Body of Jesus Christ, and on cooperation of Pastors and faithful" (ibid.). To be apostles means to lend Christ our capacities and activity so that He may through us continue to redeem and sanctify souls.
 
 ### Colloquy
 
-«My God, how few holy apostles there are! How rare your true friends are! O Lord, I burn with desire for the coming of your kingdom in the souls of apostles; I burn, yet I am so poor that I will be consumed before this kingdom draws near.
+"My God, I know very well You need no one to accomplish your work of sanctification. Yet You wish to be helped in divine cultivation of souls, as You allow a skilled gardener to cultivate delicate and rare plants while reserving to Yourself care of making them fruitful. Oh, how many souls would arrive at eminent holiness if they were well directed from first steps!
 
-«Make me, O Lord, a holy apostle; for a saint obtains more with one single word than an ordinary worker with a whole series of speeches. Without holiness I am a sounding brass, a clanging cymbal, and You, O God, speak only through the mouth of saints.
+"My God, greatest honor You can give a soul is not to give it much, but to ask much of it. Therefore, when You give me sufferings for salvation of souls, You treat me as one of your privileged! Was it not by suffering and dying that You too redeemed world? O Jesus, I aspire to happiness of sacrificing my life for You. But martyrdom of heart is no less fruitful than shedding of blood, and already now this martyrdom is mine. How beautiful, O Lord, is part You have reserved for me, part worthy of an apostle!
 
-«Give me, then, holiness, the one thing capable of moving hearts, piercing souls, renewing them. My God, may I not sell tinsel; may I not be an empty vessel!
+"O Lord, yes, I desire to work with You for salvation of souls. I have only one day of this life to save them and thus give You proof of my love. Day after this day will be eternity; then You will return to me a hundredfold joys I sacrifice for You.
 
-«To sanctify oneself in the apostolate is difficult; many are the obstacles and dangers that one meets. Must I then withdraw in discouragement? No, my God, since, if I have good will, I will always be helped by your grace, and where grace works one always finds the road that leads to the end, to holiness! What then should I fear?
-
-«Your grace is with me; You Yourself are with me, in me. And if You, O God, enter the field with me, what can I still call an “obstacle”? Tribulation or anguish, hunger or nakedness, danger or persecution or the sword? All these difficulties I shall overcome with your help, for You love me and do not abandon me.
-
-«Leaning on You, O Lord, I am sure that no creature in the world has the power to turn me away from the path of holiness. I am sure of it because You want to see holy apostles, because You are infinitely good, infinitely powerful, and faithful to your promises, because You are infinitely merciful» (D. Edward Poppe).
+"How sweet, O Jesus, to help You by our little sacrifices save souls redeemed by your Blood, souls that, not to fall into abyss, await only our help. How happy I would be if at death I could have one soul to offer You! There would be one soul snatched from fire of hell and blessing You for all eternity" (St. Therese of the Child Jesus).
