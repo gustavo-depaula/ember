@@ -1,87 +1,87 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useMemo, useState } from 'react'
 import {
-  downloadAndInstallBook,
+  downloadAndInstallLibrary,
   fetchRegistry,
-  getInstalledBooks,
+  getInstalledLibraries,
   installFromLocalFile,
-  isBookUpdateAvailable,
+  isLibraryUpdateAvailable,
   type RegistryEntry,
-  removeBook,
-  updateBook,
+  removeLibrary,
+  updateLibrary,
 } from './libraryManager'
 
-export function useInstalledBooks() {
+export function useInstalledLibraries() {
   return useQuery({
-    queryKey: ['installed-books'],
-    queryFn: getInstalledBooks,
+    queryKey: ['installed-libraries'],
+    queryFn: getInstalledLibraries,
   })
 }
 
-export function useAvailableBooks() {
-  const { data: installed = [] } = useInstalledBooks()
-  const installedIds = useMemo(() => new Set(installed.map((b) => b.book_id)), [installed])
+export function useAvailableLibraries() {
+  const { data: installed = [] } = useInstalledLibraries()
+  const installedIds = useMemo(() => new Set(installed.map((l) => l.book_id)), [installed])
 
   return useQuery({
-    queryKey: ['available-books', [...installedIds]],
+    queryKey: ['available-libraries', [...installedIds]],
     queryFn: fetchRegistry,
-    select: (registry) => registry.libraries.filter((b) => !installedIds.has(b.id)),
+    select: (registry) => registry.libraries.filter((l) => !installedIds.has(l.id)),
   })
 }
 
-export function useDownloadBook() {
+export function useDownloadLibrary() {
   const queryClient = useQueryClient()
   const [progress, setProgress] = useState<Record<string, number>>({})
 
   const mutation = useMutation({
     mutationFn: (entry: RegistryEntry) =>
-      downloadAndInstallBook(entry, (p) => {
+      downloadAndInstallLibrary(entry, (p) => {
         setProgress((prev) => ({ ...prev, [entry.id]: p }))
       }),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['installed-books'] })
-      queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['installed-libraries'] })
+      queryClient.invalidateQueries({ queryKey: ['available-libraries'] })
     },
   })
 
   return { ...mutation, progress }
 }
 
-export function useImportBook() {
+export function useImportLibrary() {
   const queryClient = useQueryClient()
 
   return useMutation({
     mutationFn: (filePath: string) => installFromLocalFile(filePath),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['installed-books'] })
-      queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['installed-libraries'] })
+      queryClient.invalidateQueries({ queryKey: ['available-libraries'] })
     },
   })
 }
 
-export function useRemoveBook() {
+export function useRemoveLibrary() {
   const queryClient = useQueryClient()
 
   return useMutation({
-    mutationFn: (bookId: string) => removeBook(bookId),
+    mutationFn: (libraryId: string) => removeLibrary(libraryId),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['installed-books'] })
-      queryClient.invalidateQueries({ queryKey: ['available-books'] })
+      queryClient.invalidateQueries({ queryKey: ['installed-libraries'] })
+      queryClient.invalidateQueries({ queryKey: ['available-libraries'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })
 }
 
-export function useBookUpdates() {
-  const { data: installed = [] } = useInstalledBooks()
+export function useLibraryUpdates() {
+  const { data: installed = [] } = useInstalledLibraries()
 
   return useQuery({
-    queryKey: ['book-updates', installed.map((b) => b.content_hash)],
+    queryKey: ['library-updates', installed.map((l) => l.content_hash)],
     queryFn: async () => {
       const registry = await fetchRegistry()
       const updates: RegistryEntry[] = []
-      for (const book of installed) {
-        const entry = isBookUpdateAvailable(book, registry.libraries)
+      for (const library of installed) {
+        const entry = isLibraryUpdateAvailable(library, registry.libraries)
         if (entry) updates.push(entry)
       }
       return updates
@@ -90,19 +90,19 @@ export function useBookUpdates() {
   })
 }
 
-export function useUpdateBook() {
+export function useUpdateLibrary() {
   const queryClient = useQueryClient()
   const [progress, setProgress] = useState<Record<string, number>>({})
 
   const mutation = useMutation({
     mutationFn: (entry: RegistryEntry) =>
-      updateBook(entry, (p) => {
+      updateLibrary(entry, (p) => {
         setProgress((prev) => ({ ...prev, [entry.id]: p }))
       }),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['installed-books'] })
-      queryClient.invalidateQueries({ queryKey: ['available-books'] })
-      queryClient.invalidateQueries({ queryKey: ['book-updates'] })
+      queryClient.invalidateQueries({ queryKey: ['installed-libraries'] })
+      queryClient.invalidateQueries({ queryKey: ['available-libraries'] })
+      queryClient.invalidateQueries({ queryKey: ['library-updates'] })
       queryClient.invalidateQueries({ queryKey: ['slots'] })
     },
   })

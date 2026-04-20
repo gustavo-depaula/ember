@@ -48,7 +48,14 @@ export async function fetchHearth<T>(
   }
 
   try {
-    const res = await fetch(`${getBaseUrl()}/${path}`)
+    const controller = new AbortController()
+    const timeout = setTimeout(() => controller.abort(), 15_000)
+    let res: Response
+    try {
+      res = await fetch(`${getBaseUrl()}/${path}`, { signal: controller.signal })
+    } finally {
+      clearTimeout(timeout)
+    }
     if (!res.ok) throw new Error(`Hearth ${path}: ${res.status}`)
     const data: T = await res.json()
 

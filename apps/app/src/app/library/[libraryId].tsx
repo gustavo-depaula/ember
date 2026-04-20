@@ -23,10 +23,10 @@ import {
 import type { Library } from '@/content/sources/filesystem'
 import { baseLibraryId } from '@/features/libraries/constants'
 import {
-  useAvailableBooks,
-  useDownloadBook,
-  useInstalledBooks,
-  useRemoveBook,
+  useAvailableLibraries,
+  useDownloadLibrary,
+  useInstalledLibraries,
+  useRemoveLibrary,
 } from '@/features/libraries/hooks'
 import type {
   BookPreview,
@@ -42,10 +42,10 @@ export default function LibraryDetailScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const removeBook = useRemoveBook()
-  const downloadBook = useDownloadBook()
-  const { data: installed = [] } = useInstalledBooks()
-  const { data: available = [] } = useAvailableBooks()
+  const removeLibrary = useRemoveLibrary()
+  const downloadLibrary = useDownloadLibrary()
+  const { data: installed = [] } = useInstalledLibraries()
+  const { data: available = [] } = useAvailableLibraries()
   const allSlots = useAllSlots()
 
   const installedRow = installed.find((b) => b.book_id === libraryId)
@@ -127,7 +127,7 @@ export default function LibraryDetailScreen() {
   const overlayOpacity = useSharedValue(0)
   const downloadProgress = useSharedValue(0)
 
-  const currentProgress = registryEntry ? (downloadBook.progress[registryEntry.id] ?? 0) : 0
+  const currentProgress = registryEntry ? (downloadLibrary.progress[registryEntry.id] ?? 0) : 0
   useEffect(() => {
     downloadProgress.value = withTiming(currentProgress, { duration: 300 })
   }, [currentProgress, downloadProgress])
@@ -226,7 +226,7 @@ export default function LibraryDetailScreen() {
     })
     if (ok) {
       // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-      removeBook.mutate(libraryId!, { onSuccess: () => router.back() })
+      removeLibrary.mutate(libraryId!, { onSuccess: () => router.back() })
     }
   }
 
@@ -262,15 +262,15 @@ export default function LibraryDetailScreen() {
           {!isInstalled && registryEntry && (
             <YStack gap="$sm">
               <AnimatedPressable
-                onPress={() => downloadBook.mutate(registryEntry)}
-                disabled={downloadBook.isPending}
+                onPress={() => downloadLibrary.mutate(registryEntry)}
+                disabled={downloadLibrary.isPending}
                 accessibilityRole="button"
                 accessibilityLabel={
-                  downloadBook.isPending ? t('library.downloading') : t('library.download')
+                  downloadLibrary.isPending ? t('library.downloading') : t('library.download')
                 }
               >
                 <XStack
-                  backgroundColor={downloadBook.isPending ? '$borderColor' : '$accent'}
+                  backgroundColor={downloadLibrary.isPending ? '$borderColor' : '$accent'}
                   borderRadius="$lg"
                   padding="$md"
                   justifyContent="center"
@@ -278,7 +278,7 @@ export default function LibraryDetailScreen() {
                   gap="$sm"
                   overflow="hidden"
                 >
-                  {downloadBook.isPending && (
+                  {downloadLibrary.isPending && (
                     <Animated.View
                       style={[
                         {
@@ -295,11 +295,11 @@ export default function LibraryDetailScreen() {
                   )}
                   <Download size={18} color="white" />
                   <Text fontFamily="$heading" fontSize="$3" color="white">
-                    {downloadBook.isPending ? t('library.downloading') : t('library.download')}
+                    {downloadLibrary.isPending ? t('library.downloading') : t('library.download')}
                   </Text>
                 </XStack>
               </AnimatedPressable>
-              {downloadBook.isError && (
+              {downloadLibrary.isError && (
                 <Text
                   fontFamily="$body"
                   fontSize="$1"

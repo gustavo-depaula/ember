@@ -7,11 +7,11 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
 import {
-  useAvailableBooks,
-  useBookUpdates,
-  useImportBook,
-  useInstalledBooks,
-  useUpdateBook,
+  useAvailableLibraries,
+  useImportLibrary,
+  useInstalledLibraries,
+  useLibraryUpdates,
+  useUpdateLibrary,
 } from '@/features/libraries/hooks'
 import { localizeContent } from '@/lib/i18n'
 
@@ -68,19 +68,19 @@ export default function LibraryScreen() {
   const router = useRouter()
   const theme = useTheme()
 
-  const { data: installed = [] } = useInstalledBooks()
+  const { data: installed = [] } = useInstalledLibraries()
   const {
     data: available = [],
     isError: availableError,
     refetch: refetchAvailable,
-  } = useAvailableBooks()
-  const { data: pendingUpdates = [] } = useBookUpdates()
-  const updateBook = useUpdateBook()
-  const importBook = useImportBook()
+  } = useAvailableLibraries()
+  const { data: pendingUpdates = [] } = useLibraryUpdates()
+  const updateLibrary = useUpdateLibrary()
+  const importLibrary = useImportLibrary()
 
   async function handleUpdateAll() {
     for (const entry of pendingUpdates) {
-      await updateBook.mutateAsync(entry)
+      await updateLibrary.mutateAsync(entry)
     }
   }
 
@@ -99,7 +99,7 @@ export default function LibraryScreen() {
       })
       return
     }
-    importBook.mutate(file.uri, {
+    importLibrary.mutate(file.uri, {
       onError: () => {
         confirm({
           title: t('library.importFailed'),
@@ -132,13 +132,13 @@ export default function LibraryScreen() {
             </Text>
             <AnimatedPressable
               onPress={handleUpdateAll}
-              disabled={updateBook.isPending}
+              disabled={updateLibrary.isPending}
               hitSlop={8}
               accessibilityRole="button"
               accessibilityLabel={t('library.updateAll')}
             >
               <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                {updateBook.isPending ? t('library.updating') : t('library.updateAll')}
+                {updateLibrary.isPending ? t('library.updating') : t('library.updateAll')}
               </Text>
             </AnimatedPressable>
           </XStack>

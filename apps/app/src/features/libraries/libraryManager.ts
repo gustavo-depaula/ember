@@ -64,7 +64,7 @@ export type Registry = {
   libraries: RegistryEntry[]
 }
 
-export type InstalledBook = {
+export type InstalledLibrary = {
   book_id: string
   version: string
   installed_at: number
@@ -152,7 +152,7 @@ async function extractZipToIdb(zipData: ArrayBuffer, prefix: string) {
   await idbWriteBatch(entries)
 }
 
-async function upsertInstalledBook(
+async function upsertInstalledLibrary(
   libraryId: string,
   version: string,
   manifestJson: string,
@@ -173,19 +173,21 @@ export async function fetchRegistry(): Promise<Registry> {
   return fetchHearth<Registry>(`${hearthLibrariesPath}/registry.json`, { networkFirst: true })
 }
 
-export async function getInstalledBooks(): Promise<InstalledBook[]> {
-  return getDb().getAllAsync<InstalledBook>('SELECT * FROM installed_books')
+export async function getInstalledLibraries(): Promise<InstalledLibrary[]> {
+  return getDb().getAllAsync<InstalledLibrary>('SELECT * FROM installed_books')
 }
 
-export async function getInstalledBook(libraryId: string): Promise<InstalledBook | undefined> {
-  const row = await getDb().getFirstAsync<InstalledBook>(
+export async function getInstalledLibrary(
+  libraryId: string,
+): Promise<InstalledLibrary | undefined> {
+  const row = await getDb().getFirstAsync<InstalledLibrary>(
     'SELECT * FROM installed_books WHERE book_id = ?',
     [libraryId],
   )
   return row ?? undefined
 }
 
-export async function downloadAndInstallBook(
+export async function downloadAndInstallLibrary(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
@@ -205,7 +207,7 @@ export async function downloadAndInstallBook(
 
     const zip = await JSZip.loadAsync(zipData)
     const libraryJson = await zip.file('library.json')!.async('string')
-    await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
+    await upsertInstalledLibrary(entry.id, entry.version, libraryJson, entry.contentHash)
 
     const source = await createIdbSource(entry.id)
     registerSource(source)
@@ -220,7 +222,7 @@ export async function downloadAndInstallBook(
 
     const { File: NativeFile } = nativeFs!
     const libraryJson = await new NativeFile(dest, 'library.json').text()
-    await upsertInstalledBook(entry.id, entry.version, libraryJson, entry.contentHash)
+    await upsertInstalledLibrary(entry.id, entry.version, libraryJson, entry.contentHash)
 
     const source = await nativeSource!.createFileSystemSource(dest.uri)
     registerSource(source)
@@ -252,7 +254,7 @@ export async function installFromLocalFile(filePath: string) {
   if (dest.exists) dest.delete()
   tempDir.move(dest)
 
-  await upsertInstalledBook(library.id, library.version, libraryJson, '')
+  await upsertInstalledLibrary(library.id, library.version, libraryJson, '')
 
   const source = await nativeSource!.createFileSystemSource(dest.uri)
   registerSource(source)
@@ -260,7 +262,7 @@ export async function installFromLocalFile(filePath: string) {
   return library
 }
 
-export async function removeBook(libraryId: string): Promise<void> {
+export async function removeLibrary(libraryId: string): Promise<void> {
   const practiceIds = getPracticeIdsForLibrary(libraryId)
   await deleteBookPractices(practiceIds)
   unregisterSource(libraryId)
@@ -275,10 +277,10 @@ export async function removeBook(libraryId: string): Promise<void> {
   await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [libraryId])
 }
 
-export async function loadInstalledBooks(): Promise<void> {
+export async function loadInstalledLibraries(): Promise<void> {
   if (Platform.OS !== 'web') ensureLibrariesDir()
 
-  const installed = await getInstalledBooks()
+  const installed = await getInstalledLibraries()
   const results = await Promise.all(
     installed.map(async (row) => {
       try {
@@ -287,7 +289,7 @@ export async function loadInstalledBooks(): Promise<void> {
         }
         return await nativeSource!.createFileSystemSource(libraryDir(row.book_id).uri)
       } catch (err) {
-        console.error(`[library] failed to load installed book "${row.book_id}":`, err)
+        console.error(`[library] failed to load installed library "${row.book_id}":`, err)
         return undefined
       }
     }),
@@ -297,8 +299,8 @@ export async function loadInstalledBooks(): Promise<void> {
   }
 }
 
-export function isBookUpdateAvailable(
-  installed: InstalledBook,
+export function isLibraryUpdateAvailable(
+  installed: InstalledLibrary,
   registry: RegistryEntry[],
 ): RegistryEntry | undefined {
   const entry = registry.find((r) => r.id === installed.book_id)
@@ -308,21 +310,21 @@ export function isBookUpdateAvailable(
   return undefined
 }
 
-export async function updateBook(
+export async function updateLibrary(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  await downloadAndInstallBook(entry, onProgress)
+  await downloadAndInstallLibrary(entry, onProgress)
 }
 
-export async function checkAndUpdateBooks(): Promise<boolean> {
-  const [installed, registry] = await Promise.all([getInstalledBooks(), fetchRegistry()])
+export async function checkAndUpdateLibraries(): Promise<boolean> {
+  const [installed, registry] = await Promise.all([getInstalledLibraries(), fetchRegistry()])
   let updated = false
 
-  for (const book of installed) {
-    const entry = isBookUpdateAvailable(book, registry.libraries)
+  for (const library of installed) {
+    const entry = isLibraryUpdateAvailable(library, registry.libraries)
     if (entry) {
-      await updateBook(entry)
+      await updateLibrary(entry)
       updated = true
     }
   }

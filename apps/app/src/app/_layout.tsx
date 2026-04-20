@@ -34,11 +34,11 @@ import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { baseLibraryId } from '@/features/libraries/constants'
 import {
-  checkAndUpdateBooks,
-  downloadAndInstallBook,
+  checkAndUpdateLibraries,
+  downloadAndInstallLibrary,
   fetchRegistry,
-  getInstalledBooks,
-  loadInstalledBooks,
+  getInstalledLibraries,
+  loadInstalledLibraries,
 } from '@/features/libraries/libraryManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
@@ -110,11 +110,9 @@ export default function RootLayout() {
 
   useEffect(() => {
     if (!dbReady) return
-    // Hydrate all stores after DB is ready (they read from preferences table now)
     hydratePrefs()
     hydrateBible()
     hydrateCatechism()
-    initHearth()
   }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
@@ -122,39 +120,40 @@ export default function RootLayout() {
   useEffect(() => {
     if (!dbReady) return
 
-    async function initBooks() {
-      // Load already-installed books into the ContentRegistry
-      await loadInstalledBooks()
+    async function initLibraries() {
+      try {
+        await initHearth()
+        await loadInstalledLibraries()
 
-      // If no books installed (first launch), download the default
-      const installed = await getInstalledBooks()
-      if (installed.length === 0) {
-        const registry = await fetchRegistry()
-        const baseBook = registry.libraries.find((b) => b.id === baseLibraryId)
-        if (baseBook) {
-          await downloadAndInstallBook(baseBook)
+        const installed = await getInstalledLibraries()
+        if (installed.length === 0) {
+          const registry = await fetchRegistry()
+          const baseLibrary = registry.libraries.find((l) => l.id === baseLibraryId)
+          if (baseLibrary) await downloadAndInstallLibrary(baseLibrary)
         }
-      }
 
-      // Seed practices and cursors
-      await Promise.all([seedPractices(), seedCursors()])
-      setSeeded(true)
-      setupNotifications()
-        .then(() => rescheduleAllReminders())
-        .catch((err) => console.error('[startup] notification setup failed', err))
+        await Promise.all([seedPractices(), seedCursors()])
 
-      if (installed.length > 0) {
-        InteractionManager.runAfterInteractions(() => {
-          checkAndUpdateBooks()
-            .then(async (updated) => {
-              if (updated) await seedPractices()
-            })
-            .catch((err) => console.warn('Book update check failed:', err))
-        })
+        if (installed.length > 0) {
+          InteractionManager.runAfterInteractions(() => {
+            checkAndUpdateLibraries()
+              .then(async (updated) => {
+                if (updated) await seedPractices()
+              })
+              .catch((err) => console.warn('Library update check failed:', err))
+          })
+        }
+      } catch (err) {
+        console.error('[startup] initLibraries failed:', err)
+      } finally {
+        setSeeded(true)
+        setupNotifications()
+          .then(() => rescheduleAllReminders())
+          .catch((err) => console.error('[startup] notification setup failed', err))
       }
     }
 
-    initBooks()
+    initLibraries()
   }, [dbReady])
 
   const ready =
