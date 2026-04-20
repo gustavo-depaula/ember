@@ -6,7 +6,13 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
-import { useAvailableBooks, useImportBook, useInstalledBooks } from '@/features/libraries/hooks'
+import {
+  useAvailableBooks,
+  useBookUpdates,
+  useImportBook,
+  useInstalledBooks,
+  useUpdateBook,
+} from '@/features/libraries/hooks'
 import { localizeContent } from '@/lib/i18n'
 
 function BookCard({
@@ -68,7 +74,15 @@ export default function LibraryScreen() {
     isError: availableError,
     refetch: refetchAvailable,
   } = useAvailableBooks()
+  const { data: pendingUpdates = [] } = useBookUpdates()
+  const updateBook = useUpdateBook()
   const importBook = useImportBook()
+
+  async function handleUpdateAll() {
+    for (const entry of pendingUpdates) {
+      await updateBook.mutateAsync(entry)
+    }
+  }
 
   async function handleImport() {
     const result = await DocumentPicker.getDocumentAsync({
@@ -100,6 +114,35 @@ export default function LibraryScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('library.title')} />
+
+        {pendingUpdates.length > 0 && (
+          <XStack
+            gap="$sm"
+            alignItems="center"
+            justifyContent="space-between"
+            paddingVertical="$sm"
+            paddingHorizontal="$md"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$accent"
+            backgroundColor="$accentSubtle"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$color" flex={1}>
+              {t('library.updatesAvailable', { count: pendingUpdates.length })}
+            </Text>
+            <AnimatedPressable
+              onPress={handleUpdateAll}
+              disabled={updateBook.isPending}
+              hitSlop={8}
+              accessibilityRole="button"
+              accessibilityLabel={t('library.updateAll')}
+            >
+              <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                {updateBook.isPending ? t('library.updating') : t('library.updateAll')}
+              </Text>
+            </AnimatedPressable>
+          </XStack>
+        )}
 
         {installed.length > 0 && (
           <YStack gap="$sm">

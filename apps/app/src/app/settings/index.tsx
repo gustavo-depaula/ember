@@ -1,6 +1,9 @@
 import type { ContentLanguage } from '@ember/content-engine'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
+import Constants from 'expo-constants'
+import * as Updates from 'expo-updates'
+import { useUpdates } from 'expo-updates'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, Switch } from 'react-native'
@@ -345,6 +348,10 @@ export default function SettingsScreen() {
 
         <SectionDivider />
 
+        <AppUpdateSection />
+
+        <SectionDivider />
+
         <YStack gap="$sm">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('settings.attribution')}
@@ -361,6 +368,89 @@ export default function SettingsScreen() {
         </YStack>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+function AppUpdateSection() {
+  const { t } = useTranslation()
+  const {
+    currentlyRunning,
+    isUpdateAvailable,
+    isUpdatePending,
+    isChecking,
+    isDownloading,
+    checkError,
+  } = useUpdates()
+
+  const version = Constants.expoConfig?.version ?? '—'
+  const updateId = currentlyRunning.updateId
+  const shortId = updateId ? updateId.slice(0, 8) : t('settings.revisionNone')
+
+  async function handlePress() {
+    if (isUpdatePending) {
+      await Updates.reloadAsync()
+      return
+    }
+    if (isUpdateAvailable) {
+      await Updates.fetchUpdateAsync()
+      return
+    }
+    await Updates.checkForUpdateAsync()
+  }
+
+  const statusLabel = (() => {
+    if (isChecking) return t('settings.checking')
+    if (isDownloading) return t('settings.downloading')
+    if (isUpdatePending) return t('settings.updateReady')
+    if (isUpdateAvailable) return t('settings.updateAvailable')
+    if (checkError) return t('settings.updateError')
+    return t('settings.checkForUpdates')
+  })()
+
+  const statusColor = isUpdateAvailable || isUpdatePending ? '$accent' : '$colorSecondary'
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.about')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.version')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {version}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.revision')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {shortId}
+          </Text>
+        </XStack>
+      </YStack>
+      <Pressable
+        onPress={__DEV__ ? undefined : handlePress}
+        disabled={__DEV__ || isChecking || isDownloading}
+        accessibilityRole="button"
+        accessibilityLabel={statusLabel}
+      >
+        <YStack
+          backgroundColor="$backgroundSurface"
+          borderRadius="$lg"
+          padding="$md"
+          alignItems="center"
+          opacity={__DEV__ ? 0.4 : 1}
+        >
+          <Text fontFamily="$body" fontSize="$2" color={statusColor}>
+            {__DEV__ ? t('settings.checkForUpdates') : statusLabel}
+          </Text>
+        </YStack>
+      </Pressable>
+    </YStack>
   )
 }
 

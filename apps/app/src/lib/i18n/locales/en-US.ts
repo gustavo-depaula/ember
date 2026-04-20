@@ -616,6 +616,17 @@ export default {
     resetDatabase: 'Reset Database',
     resetDatabaseConfirm: 'Drop all data and re-seed?',
     resetDatabaseAction: 'Reset',
+    about: 'About',
+    version: 'Version',
+    revision: 'Revision',
+    revisionNone: 'Built-in',
+    checkForUpdates: 'Check for Updates',
+    checking: 'Checking…',
+    downloading: 'Downloading…',
+    upToDate: 'App is up to date',
+    updateAvailable: 'Update available — tap to apply',
+    updateReady: 'Update downloaded — tap to restart',
+    updateError: 'Could not check for updates',
   },
 
   readingLabel: {
@@ -828,6 +839,10 @@ export default {
     removeConfirm: 'Remove prayer book?',
     removeConfirmDesc:
       'Any practices from this book will be removed from your plan of life. You can reinstall anytime.',
+    updatesAvailable: '{{count}} update available',
+    updatesAvailable_other: '{{count}} updates available',
+    updateAll: 'Update All',
+    updating: 'Updating…',
     books: 'Books',
     tableOfContents: 'Contents',
     previousChapter: 'Previous',
