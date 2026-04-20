@@ -21,14 +21,18 @@ import {
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
-import { baseLibraryId } from '@/features/books/constants'
+import { baseLibraryId } from '@/features/libraries/constants'
 import {
   useAvailableBooks,
   useDownloadBook,
   useInstalledBooks,
   useRemoveBook,
-} from '@/features/books/hooks'
-import type { BookPreview, PracticePreview, PrayerPreview } from '@/features/books/libraryManager'
+} from '@/features/libraries/hooks'
+import type {
+  BookPreview,
+  PracticePreview,
+  PrayerPreview,
+} from '@/features/libraries/libraryManager'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'

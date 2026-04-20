@@ -6,7 +6,7 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
-import { useAvailableBooks, useImportBook, useInstalledBooks } from '@/features/books/hooks'
+import { useAvailableBooks, useImportBook, useInstalledBooks } from '@/features/libraries/hooks'
 import { localizeContent } from '@/lib/i18n'
 
 function BookCard({

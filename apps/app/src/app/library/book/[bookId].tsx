@@ -19,10 +19,10 @@ import {
   getChapterBody,
   loadBookContent,
   type ReaderConfig,
-} from '@/features/books/bookReader'
-import { ReaderTocSheet } from '@/features/books/ReaderTocSheet'
-import type { ReaderMessage, ReaderWebViewHandle } from '@/features/books/ReaderWebView'
-import { ReaderWebView } from '@/features/books/ReaderWebView'
+} from '@/features/libraries/bookReader'
+import { ReaderTocSheet } from '@/features/libraries/ReaderTocSheet'
+import type { ReaderMessage, ReaderWebViewHandle } from '@/features/libraries/ReaderWebView'
+import { ReaderWebView } from '@/features/libraries/ReaderWebView'
 import { readingScale } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'

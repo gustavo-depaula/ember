@@ -32,14 +32,14 @@ import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { baseLibraryId } from '@/features/books/constants'
+import { baseLibraryId } from '@/features/libraries/constants'
 import {
   checkAndUpdateBooks,
   downloadAndInstallBook,
   fetchRegistry,
   getInstalledBooks,
   loadInstalledBooks,
-} from '@/features/books/libraryManager'
+} from '@/features/libraries/libraryManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { initHearth } from '@/lib/hearth'
