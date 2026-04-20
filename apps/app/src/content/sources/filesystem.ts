@@ -119,7 +119,7 @@ async function loadPractice(
     (async () => {
       const loadedFlow = await loadPracticeFlow(base, manifest)
       if (!loadedFlow) return
-
+      rewriteImagePaths(loadedFlow.sections, base)
       flows.set(practiceId, loadedFlow)
     })(),
   )
@@ -204,9 +204,14 @@ function rewriteImagePaths(sections: FlowSection[], baseUri: string): void {
     if (section.type === 'holy-card' && section.image && !section.image.startsWith('file://')) {
       section.image = `${baseUri}/${section.image}`
     }
-    if (section.type === 'options' && 'options' in section) {
+    if ('sections' in section && Array.isArray(section.sections)) {
+      rewriteImagePaths(section.sections as FlowSection[], baseUri)
+    }
+    if ((section.type === 'options' || section.type === 'select') && 'options' in section) {
       for (const opt of section.options) {
-        rewriteImagePaths(opt.sections, baseUri)
+        if (Array.isArray(opt.sections)) {
+          rewriteImagePaths(opt.sections, baseUri)
+        }
       }
     }
   }

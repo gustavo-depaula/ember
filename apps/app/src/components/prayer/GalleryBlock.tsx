@@ -6,12 +6,33 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, type LayoutChangeEvent, Pressable, StyleSheet } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { useImageViewer } from '@/components/ImageViewerContext'
+import { useResolvedImageUri } from '@/hooks/useResolvedImageUri'
 
 type GalleryItem = {
   src: string
   title?: BilingualText
   attribution?: BilingualText
   caption?: BilingualText
+}
+
+function GalleryImage({
+  src,
+  imageWidth,
+  imageHeight,
+}: {
+  src: string
+  imageWidth: number
+  imageHeight: number
+}) {
+  const resolvedSrc = useResolvedImageUri(src)
+
+  return (
+    <Image
+      source={{ uri: resolvedSrc }}
+      style={[styles.image, { width: imageWidth, height: imageHeight }]}
+      contentFit="cover"
+    />
+  )
 }
 
 const peekWidth = 24
@@ -63,11 +84,7 @@ export function GalleryBlock({ items }: { items: GalleryItem[] }) {
             total: items.length,
           })}
         >
-          <Image
-            source={{ uri: item.src }}
-            style={[styles.image, { width: imageWidth, height: imageHeight }]}
-            contentFit="cover"
-          />
+          <GalleryImage src={item.src} imageWidth={imageWidth} imageHeight={imageHeight} />
         </Pressable>
         {item.title && (
           <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">

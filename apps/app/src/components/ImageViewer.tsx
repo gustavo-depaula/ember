@@ -8,11 +8,32 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { Gallery } from 'react-native-zoom-toolkit'
 import { Text, View, YStack } from 'tamagui'
+import { useResolvedImageUri } from '@/hooks/useResolvedImageUri'
 
 export type ViewerImage = {
   src: string
   caption?: string
   attribution?: string
+}
+
+function ViewerImageItem({
+  item,
+  screenWidth,
+  screenHeight,
+}: {
+  item: ViewerImage
+  screenWidth: number
+  screenHeight: number
+}) {
+  const resolvedSrc = useResolvedImageUri(item.src)
+
+  return (
+    <Image
+      source={{ uri: resolvedSrc }}
+      style={{ width: screenWidth, height: screenHeight }}
+      contentFit="contain"
+    />
+  )
 }
 
 export function ImageViewer({
@@ -94,10 +115,10 @@ export function ImageViewer({
                 data={images}
                 keyExtractor={(_, i) => String(i)}
                 renderItem={(item) => (
-                  <Image
-                    source={{ uri: item.src }}
-                    style={{ width: screenWidth, height: screenHeight }}
-                    contentFit="contain"
+                  <ViewerImageItem
+                    item={item}
+                    screenWidth={screenWidth}
+                    screenHeight={screenHeight}
                   />
                 )}
                 initialIndex={initialIndex}

@@ -3,6 +3,7 @@ import { Image } from 'expo-image'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import { useImageViewer } from '@/components/ImageViewerContext'
+import { useResolvedImageUri } from '@/hooks/useResolvedImageUri'
 
 export function ImageBlock({
   src,
@@ -16,6 +17,7 @@ export function ImageBlock({
   const { width } = useWindowDimensions()
   const imageWidth = Math.min(width - 96, 500)
   const { openViewer } = useImageViewer()
+  const resolvedSrc = useResolvedImageUri(src)
 
   return (
     <YStack alignItems="center" gap="$xs" paddingVertical="$sm">
@@ -23,7 +25,7 @@ export function ImageBlock({
         onPress={() =>
           openViewer([
             {
-              src,
+              src: resolvedSrc,
               caption: caption?.primary,
               attribution: attribution?.primary,
             },
@@ -31,7 +33,7 @@ export function ImageBlock({
         }
       >
         <Image
-          source={{ uri: src }}
+          source={{ uri: resolvedSrc }}
           style={[styles.image, { width: imageWidth, height: imageWidth * 1.2 }]}
           contentFit="contain"
         />

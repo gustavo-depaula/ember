@@ -7,6 +7,7 @@ import Svg, { Line, Path } from 'react-native-svg'
 import { Text, View, YStack } from 'tamagui'
 import { HolographicOverlay } from '@/features/saints/components/HolographicOverlay'
 import { useCardGestures } from '@/features/saints/components/useCardGestures'
+import { useResolvedImageUri } from '@/hooks/useResolvedImageUri'
 
 const corners = {
   topLeft: require('../../../assets/textures/corner_top_left.png'),
@@ -121,6 +122,8 @@ function HolyCardFront({
   rotateY: SharedValue<number>
   isActive: SharedValue<number>
 }) {
+  const resolvedImage = useResolvedImageUri(image)
+
   return (
     <View
       position="absolute"
@@ -133,7 +136,7 @@ function HolyCardFront({
       borderWidth={2}
       borderColor="$accent"
     >
-      <Image source={{ uri: image }} style={styles.image} contentFit="cover" />
+      <Image source={{ uri: resolvedImage }} style={styles.image} contentFit="cover" />
       {attribution && (
         <View
           position="absolute"
