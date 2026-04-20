@@ -21,6 +21,7 @@ import {
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
+import { baseLibraryId } from '@/features/books/constants'
 import {
   useAvailableBooks,
   useDownloadBook,
@@ -109,7 +110,7 @@ export default function LibraryDetailScreen() {
       ? localizeContent(registryEntry.description)
       : undefined
   const version = library?.version ?? registryEntry?.version
-  const isDefault = library?.tags?.includes('default') ?? registryEntry?.tags?.includes('default')
+  const isProtectedLibrary = libraryId === baseLibraryId
 
   const enabledIds = useMemo(
     () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
@@ -205,7 +206,7 @@ export default function LibraryDetailScreen() {
   }
 
   async function handleRemove() {
-    if (isDefault) {
+    if (isProtectedLibrary) {
       await confirm({
         title: t('library.cannotRemove'),
         description: t('library.cannotRemoveDesc'),
@@ -525,7 +526,7 @@ export default function LibraryDetailScreen() {
             </>
           )}
 
-          {isInstalled && !isDefault && (
+          {isInstalled && !isProtectedLibrary && (
             <>
               <SectionDivider />
               <AnimatedPressable

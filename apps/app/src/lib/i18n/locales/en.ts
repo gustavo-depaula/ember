@@ -489,7 +489,7 @@ export default {
     invalidFile: 'Invalid file',
     invalidFileDesc: 'Please select a .pray file.',
     cannotRemove: 'Cannot remove',
-    cannotRemoveDesc: 'The default prayer book cannot be removed.',
+    cannotRemoveDesc: 'The base prayer book cannot be removed.',
     removeConfirm: 'Remove prayer book?',
     removeConfirmDesc:
       'Any practices from this book will be removed from your plan of life. You can reinstall anytime.',

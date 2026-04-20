@@ -824,7 +824,7 @@ export default {
     importFailedDesc: 'The file may be damaged or not a valid prayer book.',
     downloadFailed: 'Download failed.',
     cannotRemove: 'Cannot remove',
-    cannotRemoveDesc: 'The default prayer book cannot be removed.',
+    cannotRemoveDesc: 'The base prayer book cannot be removed.',
     removeConfirm: 'Remove prayer book?',
     removeConfirmDesc:
       'Any practices from this book will be removed from your plan of life. You can reinstall anytime.',

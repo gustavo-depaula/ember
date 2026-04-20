@@ -32,6 +32,7 @@ import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
+import { baseLibraryId } from '@/features/books/constants'
 import {
   checkAndUpdateBooks,
   downloadAndInstallBook,
@@ -129,9 +130,9 @@ export default function RootLayout() {
       const installed = await getInstalledBooks()
       if (installed.length === 0) {
         const registry = await fetchRegistry()
-        const defaultBook = registry.libraries.find((b) => b.tags?.includes('default'))
-        if (defaultBook) {
-          await downloadAndInstallBook(defaultBook)
+        const baseBook = registry.libraries.find((b) => b.id === baseLibraryId)
+        if (baseBook) {
+          await downloadAndInstallBook(baseBook)
         }
       }
 

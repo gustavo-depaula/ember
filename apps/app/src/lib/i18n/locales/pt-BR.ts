@@ -827,7 +827,7 @@ export default {
     importFailedDesc: 'O arquivo pode estar corrompido ou não ser um devocionário válido.',
     downloadFailed: 'Falha no download.',
     cannotRemove: 'Não é possível remover',
-    cannotRemoveDesc: 'O devocionário padrão não pode ser removido.',
+    cannotRemoveDesc: 'O devocionário base não pode ser removido.',
     removeConfirm: 'Remover devocionário?',
     removeConfirmDesc:
       'As práticas deste livro serão removidas do seu plano de vida. Você pode reinstalar a qualquer momento.',
