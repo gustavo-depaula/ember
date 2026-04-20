@@ -1,7 +1,5 @@
 ## XVI — ARIDITY AND CONTEMPLATION
 
-**Presenza di Dio.** — *O Signore, aiutami a cercarti e ad unirmi a te, anche attraverso le aridità e le impotenze dello spirito.*
-
 **Presence of God.** — *O Lord, draw me to yourself by the way You will and as You will; I ask only for the grace always to follow you.*
 
 ### Meditation

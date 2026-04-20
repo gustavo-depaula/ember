@@ -1,111 +1,17 @@
-## 99 — VENIAL SIN
+## 45 — COME AND FOLLOW ME
 
-### Presence of God
+**Presence of God.** — O Jesus, who for our sake became obedient unto death on the cross, teach me to follow your example.
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — To the young man who aspired to perfection, Jesus said: "If you would be perfect, go, sell what you have and give to the poor [and this is the counsel of evangelical poverty] ...then come and follow me" *(Mt.* 19, 21) and this, teaches St. Thomas, is the counsel of voluntary obedience. Indeed, to follow Jesus means to imitate his virtues and among these certainly obedience stands in the first line. Jesus comes upon earth to accomplish the will of his Father: "lo, I come to do your will, O God" *(Heb.* 10, 7), and more than once during his life he expressly attests to this: "I have come down from heaven not to do my own will, but the will of him who sent me" *(Jn.* 6, 38), indeed he declares that his food, that is, the support, the fulcrum of his life, consists precisely in accomplishing the will of his Father (cf. *Jn.* 4, 34). But Jesus also willed to concretize his dependence on the Heavenly Father by submitting himself to those creatures who, according to the natural order, had some authority over him as man. Thus for thirty years he lived subject in all things to Mary and Joseph, recognizing in theirs the authority of the Father. "He was subject to them" *(Lk.* 2, 51), says the Gospel, summarizing in these brief words the long period of the Savior's private life. During his public life, moreover, and especially during his Passion, he also gave example of obedience to constituted authority, both religious and civil, submitting himself even to judges and executioners, making himself "obedient unto death, even death on a cross" *(Phil.* 2, 8). Having come into the world through obedience, Jesus willed to live in obedience and through obedience he embraced death, repeating in the garden of olives: "Father,... not my will, but yours be done" *(Lk.* 22, 42). To follow Jesus in the perfect life therefore means to embrace voluntarily a life of total dependence; and St. Thomas, basing himself precisely on this argument, concludes that ob...
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+**2** — To follow Jesus also means to fully carry out his invitation: "if any man would come after me, let him deny himself" *(Mt.* 16, 24). Now, the greatest renunciation that man can make is precisely that of his liberty, subjecting himself in all things to obedience. Indeed, "nothing is dearer to man than the liberty of his own will, because by means of this he is master even of others, can use and enjoy other things and is master even of his own acts. And just as man, by abandoning riches or related persons, renounces them, so by leaving the liberty of his own will, by which he is master of himself, he comes to deny himself" (St. Thomas — *The Perf. of the Sp. Life*). For this reason the vow of obedience is the greatest and most meritorious sacrifice that man can offer to God.
 
-
-satisfaction, toward creatures. And thus, little by little,
-
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+Here precisely lies the sacrifice of obedience: to let oneself be governed by another in one's life. Every man is free, has received liberty from God and therefore has the right to govern himself according to his judgment and his views; now, whoever promises obedience renounces *freely* this his right, making of it a *free* holocaust for the service, for the worship, for the glory of God. As the holocaust of the chosen people was the victim that was consumed entirely in honor of God, without any part of it being spared, so the vow of obedience immolates man *entirely* in honor of God. In this way obedience comes to sacrifice to the very end our personality or, more precisely, sacrifices everything in it that is selfish, everything that is attachment to views, to inclinations, to personal exigencies; and in this sense nothing more than obedience helps us to free ourselves from self-love, to strip ourselves of ourselves. But at the same time, far from destroying the personality, obedience employs it in the most beautiful, greatest and most glorious way, that is in renouncing itself to adhere totally to God, to the holy and sanctifying will of God.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"O Jesus, You who were obedient unto death, you certainly cannot will that a soul that loves you should go by a different road than yours" (T.G. *Fd.* 5, 3). And so then I decide to follow you, to tread behind you the way of holy obedience, a way carved in the solid rock of your examples, of your most humble submission, of your ineffable subjections. "You, God, to whom the Angels are subject, to whom the Principalities and Powers obey, were subject to Mary and not only to Mary, but also to Joseph on account of Mary. That a God should obey his creatures is a humility without example. O Lord, You abase yourself and shall I exalt myself? O my soul, if it deigns to imitate the example of a man, certainly it will not be unworthy of you to follow your Maker. If you cannot perhaps follow him wherever he goes, deign at least to follow him as far as he wills to descend for you" (cf. St. Bernard).
 
-
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
-
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+Yes, O Jesus, grant me to follow you in the way of obedience, grant me a profound spirit of faith so that I may always recognize in the voice of obedience your voice, your will. "Teach me, O Lord, to abandon myself trustfully to your word: 'He who hears you, hears me'. Teach me to forget every will of my own, a sacrifice greatly appreciated by you, because it constitutes you master of that free will which You yourself have given me. This is the gift that I desire to offer you in all its fullness, without any reserve. Make me faithful to this purpose and then, though amidst the repugnances of nature and prey to a thousand struggles, I shall arrive at conforming myself to those who command me; in short, with pain or without pain, I shall end by submitting myself. I know well, O Lord, that You will not fail to help me; and, by subjecting for love of you my reason and will, you will give me the means to become master of them. Once master of myself, I can consecrate myself to you with perfection, offering you a pure will, that You may unite it to yours" (cf. T.G. *Fd.* 5, 12).

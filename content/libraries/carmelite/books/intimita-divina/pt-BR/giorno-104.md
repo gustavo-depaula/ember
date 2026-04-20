@@ -1,4 +1,4 @@
-## 102 — A CONFISSÃO
+## XXVIII — A CONFISSÃO
 
 ### Presença de Deus
 

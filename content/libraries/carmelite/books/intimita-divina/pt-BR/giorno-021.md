@@ -1,18 +1,16 @@
 ## 21 — BUSCAR DEUS NA ATIVIDADE
 
-### Presença de Deus
-
-Deixo toda atividade externa, para recolher-me aos pés de Jesus e peço-lhe que me ensine a manter-me nesta posição interior também no meio das minhas ocupações.
+**Presença de Deus.** — *Deixo toda atividade externa, para recolher-me aos pés de Jesus e peço-lhe que me ensine a manter-me nesta posição interior também no meio das minhas ocupações.*
 
 ### Meditação
 
-1 — À alma que quer chegar em breve ao santo recolhimento, São João da Cruz ensina: "nunca empreender obra alguma, por mais boa e cheia de caridade que te pareça,... sem a ordem da obediência" (C. 1, 11).
+**1** — À alma que quer chegar em breve ao santo recolhimento, São João da Cruz ensina: "nunca empreender obra alguma, por mais boa e cheia de caridade que te pareça,... sem a ordem da obediência" (C. 1, 11).
 
 Deste modo a alma está segura de mover-se unicamente na vontade de Deus; e a vontade de Deus não pode permitir que as ocupações por ela exigidas — ainda que absorventes e assediantes — dificultem e nem sequer diminuam o recolhimento da alma nele. "Se não se opera senão por obediência e com a obediência, na qual é Deus quem manda, não me parece que Ele possa destruir a sua união", isto é, a íntima união entre Si e a alma, afirma Santa Teresa Margarida (Sp. p. 237). Quando a atividade externa é em tudo regulada pela obediência, não só diminui o perigo de agir por amor-próprio ou de expor-se temerariamente a distrações, mas em toda ocupação há a segurança de abraçar a santa vontade de Deus. E se se abraça a vontade de Deus, não pode haver o perigo de separar-se de Deus, de desviar o espírito da contínua orientação para Ele.
 
 A união da alma com Deus não se faz tanto na doçura da oração, quanto em abraçar com perfeição a santa vontade de Deus.
 
-2 — "É necessário que nas obras exteriores, ainda que sejam de obediência e de caridade, procuremos sempre não nos distrair e retirar-nos frequentemente ao interior com o nosso Deus" (T.G. Fd. 5, 17). Eis a segunda condição para que a atividade externa não perturbe o recolhimento interior.
+**2** — "É necessário que nas obras exteriores, ainda que sejam de obediência e de caridade, procuremos sempre não nos distrair e retirar-nos frequentemente ao interior com o nosso Deus" (T.G. Fd. 5, 17). Eis a segunda condição para que a atividade externa não perturbe o recolhimento interior.
 
 "Não farei coisa alguma com pressa ou perturbação" era o constante propósito de Santa Teresa Margarida que, no meio de uma surpreendente atividade, mantinha "um comportamento sempre pacífico e tranquilo, pelo qual parecia ter-se tornado senhora de si mesma em cada ato" (Sp. pp. 273 e 277). Isto significa conservar sempre plena posse de si e da própria atividade e, portanto, evitar o perigo de deixar-se dominar e arrastar pela ação. Quem se lança de cabeça na ação, sem nenhuma cautela, logo verá a alma escapar-lhe das mãos: perderá a calma, agitar-se-á, tornar-se-á incapaz de recolher-se, e cada vez mais, quanto mais a ação se fizer assediante e exigente.
 

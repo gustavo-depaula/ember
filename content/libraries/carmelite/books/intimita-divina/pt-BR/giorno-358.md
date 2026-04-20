@@ -1,103 +1,23 @@
-## 36 — A CIRCUNCISÃO DO SENHOR
-*1 janeiro*
+## 36 — PROVAS INTERIORES
 
-### Presença de Deus
-
-— Aproximo-me de ti, Divino Menino, desejoso de acolher na minha alma as primeiras gotas do teu preciosíssimo Sangue.
+**Presença de Deus.** — *Ó Senhor, purifica-me como o ouro no crisol; purifica-me e não me poupes para que eu possa chegar a ti.*
 
 ### Meditação
 
-1 — A antífona ao Magnificat das primeiras Vésperas sintetiza otimamente o espírito da festa de hoje: "Por
-a imensa caridade com que Deus nos amou, enviou o seu Filho
-sob semelhança de homem pecador". À consideração
-da imensa caridade de Deus, que iluminou e dominou
-todas as festas natalinas, acrescenta-se a visão do Filho de
-Deus enviado a nós sob semelhança de homem pecador; é a
-característica desta solenidade. Para transformar-nos, pecadores, em filhos de Deus, o Unigênito do Pai quis transformar-se em um de nós, até assumir a nossa carne de
-pecado e sofrer todas as suas consequências mais humilhantes. A
-lei da circuncisão não podia de modo algum atingir
-Jesus, o Filho de Deus, o Santo por excelência; mas Jesus
-quis submeter-se a ela como o último filho de Abraão, porque,
+**1** — Se o Senhor te encontrar forte e fiel, humilde e paciente no aceitar as provas externas, passará pouco a pouco àquelas mais íntimas, mais espirituais para "purificar-te bem dentro e fazer-te de grandes bens mais íntimos" (cf. *G.C.F.* 2, 28). A noite passiva do espírito culmina justamente com estas penas interiores mediante as quais Deus "esmiúça e desfaz a substância espiritual" *(N.* II, 6, 1) da alma para fazê-la renascer completamente à vida divina. Estamos, de fato, tão amassados de misérias e de defeitos e eles são tão aderentes à nossa natureza, que se Deus mesmo não põe as mãos, quase desfazendo-nos e refazendo-nos de cima a baixo, não seremos nunca libertados. Também Jesus falou disto total refazimento, desta profunda renascença espiritual: "se um não renascer da água e do Espírito Santo, não pode entrar no reino de Deus" *(Gv.* 3, 5); reino de Deus aqui embaixo é o estado de perfeita união com Ele, ao qual ninguém chega se antes não é totalmente purificado.
 
-como ensina São Paulo, "Ele devia em tudo ser feito
-semelhante aos seus irmãos... para que fossem expiadas as culpas do povo" (Heb. 2, 17). O rito, talvez realizado por José
-na intimidade da família, fez correr das carnes imaculadas de Jesus as primeiras gotas do seu precioso Sangue.
+S. João da Cruz explicou difusamente como tal obra de purificação vem justamente cumprida pelo Espírito Santo o qual, investindo a alma com a viva chama do seu amor, destrói e consome todas as suas imperfeições. "Até que a divina chama — diz o Santo — purgue e disponha a alma, consegue a ela assaz molesta: não é uma chama clara mas escura, a qual, se lhe doa um pouco de luz, o faz para que ela veja e sinta somente as suas misérias e defeitos" *(F.* 1, 19). Embora a alma se encontre sob a ação direta do Espírito Santo, esta ação não lhe é gustosa, mas penosa porque o primeiro ofício que ela cumpre é justamente aquele de mostrar-lhe todas as suas fraquezas e misérias para que não conceba horror, as deteste, se humilhe. A luz penetrante da "chama de amor viva" levanta o denso véu que escondia à alma as raízes dos seus maus hábitos. Diante de tal visão a alma sofre, não só porque se sente humilhada, mas também porque teme de ser repudiada por Deus; de fato, reconhecendo-se tão miserável, se sente terrivelmente indigna do amor divino e, aliás, em certos momentos lhe parece até que o Senhor, indignado, a afaste de si. É este o maior tormento que a alma pode sofrer, mas é um tormento precioso porque a purifica de todo resíduo de amor próprio, de orgulho, porque escava nela aquele profundo abismo de humildade que invoca e atrai o abismo das misericórdias divinas.
 
-Oito dias depois do seu nascimento, Ele inicia assim a sua missão cruenta de Redentor: ainda não fala, não é conhecido pelo mundo, e já derrama o seu Sangue para a salvação do mundo.
-
-Olhando para Ele aprendemos que as obras valem mais
-do que as palavras, que quanto mais as obras custam sacrifício, tanto mais são prova de amor verdadeiro e que,
-para ser fecunda, toda obra deve ter o seu batismo de sangue.
-
-2 — A festa da Circuncisão coincide com o início
-do ano civil: as primeiras gotas do Sangue de Jesus selam e consagram todo ano novo, fazendo dele verdadeiramente o annus Domini,
-o ano do Senhor. O tempo é de
-Deus, a nossa vida é de Deus e de Cristo, que tudo
-recomprou e santificou com o seu Sangue.
-
-Iniciemos o ano circuncidando os nossos corações porque,
-segundo ensina Santo Ambrósio, "aquele que se circuncida dos vícios é julgado digno do olhar do Senhor.
-A circuncisão... Vê como toda a sequência da antiga lei foi figura
-do futuro; porque também a circuncisão significa purificação dos pecados" (BR.).
-
-Ano novo, vida nova; vida nova porque, circuncidando em nós "o homem velho" com os seus vícios e as suas paixões, crescerá em nós "o cristão":
-criatura nova purificada pelo Sangue de Cristo, vivificada e alimentada pela sua
-graça, de modo que já não nós vivamos, mas Cristo viva em nós.
-O ano que hoje começa tem valor só em ordem a
-isto: só enquanto, dia após dia, a graça triunfar
-sempre mais em nós para fazer crescer nas nossas almas a
-vida de Cristo.
-
-Outro ensinamento da festa de hoje é a humilde submissão de Jesus à vontade do seu Pai, manifestada
-através da lei: vemos nisso um convite a aderir
-docilmente à vontade de Deus, qualquer que ela seja. Nenhum
-de nós sabe o que nos espera neste ano novo; mas Deus
-o sabe: a sua vontade já preparou o nosso caminho,
-cada particular da nossa vida já está decidido na sua
-
-mente. Disponhamo-nos a aceitar, a abraçar com coragem e prontidão todo querer divino, toda divina permissão,
-seguros de que só na santa e santificante vontade de
-Deus encontraremos a nossa paz e a nossa santificação.
+**2** — Se o Espírito Santo não te fizesse conhecer e experimentar a tua miséria, não poderias ser libertado pois, ignorando-a, não poderias secundar a obra de purificação que Ele quer cumprir em ti. Por conseguinte, quando, através dos insucessos da tua vida espiritual, as lutas e as rebeliões da natureza, a luz divina te mostra o fundo das tuas más tendências, deves suportar humildemente a vista, deves reconhecer e confessar as tuas fraquezas sem desculpar-te, sem culpar as circunstâncias adversas, sem voltar alhures o olhar. São estes os momentos em que deves mais que nunca curvar-te "sob a potente mão de Deus" *(1 Pt.* 5, 6), o qual te faz ver aquilo que em realidade és ao seu conspecto. Por outro lado, o quadro das tuas misérias, por quanto brutto possa ser e abominável, não deve lançar-te no desânimo: não é este o fim para o qual o Espírito Santo to o mostra, mas aquele de despojar-te de todo traço de secreta estima de ti mesmo e de apagar no teu coração — caso houvesse — qualquer pretensão de ser merecedor dos favores e dos dons divinos. Não deves nem crer de ter-te tornado pior de antes; estas misérias as tens sempre levado em ti, com a diferença que antes as ignoravas, enquanto agora a luz divina tas faz ver com clareza e tas faz ver não para afogar-te nelas, mas para libertar-te delas. Apesar, pois, de todo o sofrimento que pode provar à vista da tua miséria, deves manter-te confiante e seguro de que Deus não te abandonará. É verdade, foste infiel a Ele, não correspondeste como devias ao seu amor, os serviços que Lhe tens prestado são bem pouca coisa, aliás são um nada em comparação àquilo que Deus merece, no entanto Ele, infinitamente bom, não despreza o teu coração arrependido e humilhado. Deus te ama e, longe de rejeitar-te, deseja unir-te a Si, mas antes de fazê-lo quer tornar-te perfeitamente consciente de que és totalmente indigno desta grande graça. Deus se comunica só às almas que se reconhecem indignas de tudo e que, por isso, tudo esperam da sua misericórdia.
 
 ### Colóquio
 
-"Ó Verbo, apenas tens oito dias, e me dás o teu
-Sangue: e que me preparas com o Sangue?... a obediência.
-Três coisas me mostras nesta tua Circuncisão:
-obediência para com Deus, mansidão com Maria, justiça conosco"
-(S. Maria Madalena de' Pazzi).
+«Ó alma minha, se ficaste ferida pelo pecado, eis o teu Médico pronto a curar-te. A sua misericórdia é infinitamente maior de todas as tuas iniquidades. E eu te digo isto não porque permaneças na tua miséria, mas porque, esforçando-te de vencê-la, não hajas de desesperar da sua clemência e do seu perdão.
 
-Permite, ó Jesus, que as primeiras gotas do teu inocentíssimo Sangue desçam a purificar, a inebriar a minha pobre
-alma. Eu o compreendo: desde os teus primeiríssimos dias
-te apressaste em derramar o teu Sangue, porque quiseste
-mostrar-nos logo que és o nosso Salvador e Redentor.
-Este derramamento de Sangue não era necessário para ti,
-Filho de Deus, santo da santidade do teu Pai, mas era
-necessário para mim, pobre criatura nascida no pecado. E
-Tu por mim quiseste humilhar-te até submeter-te à
-lei feita para os homens pecadores. Ó meu Senhor, ensina-me a ser humilde e obediente, Tu, Cordeiro in-
-nocente que tiras os pecados do mundo, não desdenhaste
-o corte da circuncisão; e eu, que sou pecador,
-quererei porventura posar de justo?
-ressentir-me-ei se for
-julgado imperfeito, e procurarei ocultar os meus defeitos
-sob o manto de falsas desculpas? Oh, Tu me ensinas que de
-nenhum modo poderei ser teu seguidor, nem poderei tornar-me semelhante a ti, se não aceitar humilhar-me contigo,
-humilíssimo!
+«O teu Deus é a mesma doçura, a suavidade mesma; que outro bem se pode desejar aqui embaixo fora d'Ele?
 
-Ensina-me também a obedecer, a submeter-me à vontade do Pai Celeste, qualquer que ela seja e qualquer sacri-
-fício que me imponha. "Considero este ano novo como uma
-página branca que o teu Pai me apresenta e na qual Ele
-escreverá dia por dia aquilo que dispôs no seu
-divino beneplácito; mas desde já no alto da página eu
+«Não te avilintes, alma minha, pelas tuas imperfeições; o teu Deus não te despreza porque és imperfeita e enferma, Ele, aliás, te ama porque tu desejas e procuras curar das tuas misérias. Ele virá em teu auxílio e te tornará mais perfeita ainda de quanto terias ousado esperar e, adornada pela sua mesma mão, a tua beleza não terá par, como a sua bondade.
 
+«Oh, Jesus meu, terno Pastor, doce Mestre, socorre-me, levanta a minha ovelhinha abatida, estende a mão para sustentar-me, cura as minhas chagas, fortifica a minha fraqueza, salva-me ou perecerei. Eu confesso de ser indigno de viver, indigno da vossa luz, indigno do vosso socorro, porque a minha ingratidão foi imensa; no entanto a vossa misericórdia é bem maior ainda; tende, pois, piedade de mim, ó Deus, que tanto amais os homens! Tende piedade de mim, segundo a grandeza das vossas misericórdias» (B. Luís De Blois).
 
-
-escrevo com total confiança: Domine, fac de me sicut vis;
-Senhor, faz de mim o que queres. E no fundo da página já ponho o meu Amém, assim seja, a todas as disposi-
-ções da tua divina vontade. Sim, ó Senhor, sim a todas as
-alegrias, a todas as dores, a todas as graças, a todas as fadigas
-que me preparaste e que me irás revelando dia
-por dia. Faze que o meu amém seja o amém pascal, sempre seguido do aleluia, pronunciado, isto é, com todo o
-coração, na alegria de uma completa doação. Dá-me o
-teu amor e a tua graça e serei rico o bastante" (Irmã Carmela d. Espírito S., o.c.d.).
+«O abismo chama outro abismo. E lá, Deus meu, justamente no fundo, acontecerá o encontro convosco: o abismo do meu nada, da minha miséria, se encontrará diante do abismo da vossa misericórdia, da imensidade do vosso tudo; lá encontrarei a força de morrer a mim mesma e serei mudada em amor» *(E.T.* I, 1).

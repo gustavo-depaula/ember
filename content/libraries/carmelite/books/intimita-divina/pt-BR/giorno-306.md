@@ -1,18 +1,16 @@
-## 306 — O DOM DO TEMOR
+## XIV — O DOM DO TEMOR
 
-### Presença de Deus
-
-Ó Senhor, faze que eu tema uma só coisa: desagradar-te e separar-me de ti.
+**Presença de Deus.** — Ó Senhor, faze que eu tema uma só coisa: desagradar-te e separar-me de ti.
 
 ### Meditação
 
-1. — O Espírito Santo convida-nos à sua escola: «Vinde, filhos, ouvi-me; eu vos ensinarei o temor de Deus» (Sl. 33, 12). Esta é a primeira lição que o divino Paráclito ministra à alma desejosa de santidade, lição importantíssima e fundamental porque, infundindo na alma o ódio ao pecado, que é o maior obstáculo à união com Deus, assegura o desenvolvimento da vida espiritual. Neste sentido a Sagrada Escritura diz: «O princípio da sabedoria é o temor de Deus» (Eclo. 1, 16).
+**1** — O Espírito Santo convida-nos à sua escola: «Vinde, filhos, ouvi-me; eu vos ensinarei o temor de Deus» (Sl. 33, 12). Esta é a primeira lição que o divino Paráclito ministra à alma desejosa de santidade, lição importantíssima e fundamental porque, infundindo na alma o ódio ao pecado, que é o maior obstáculo à união com Deus, assegura o desenvolvimento da vida espiritual. Neste sentido a Sagrada Escritura diz: «O princípio da sabedoria é o temor de Deus» (Eclo. 1, 16).
 
-Para educar-nos no temor de Deus, o Espírito Santo, mais que pôr-nos diante da visão dos castigos e das penas devidas ao pecado, mais que apresentar-nos Deus como juiz severo, mostra-nos Deus como Pai amantíssimo, infinitamente desejoso do nosso bem, e apresenta-nos o quadro comovente de seus benefícios, de suas misericórdias. «Deus te amou com amor eterno e por isso te atraiu a si — sussurra no fundo da nossa alma — Não és servo, mas amigo, mas filho» (cf. Jr. 31, 3; Jo. 15, 15).
+Para educar-nos no temor de Deus, o Espírito Santo, mais que pôr-nos diante da visão dos castigos e das penas devidas ao pecado, mais que apresentar-nos Deus como juiz severo, mostra-nos Deus como Pai amantíssimo, infinitamente desejoso do nosso bem, e apresenta-nos o quadro comovente de seus benefícios, de suas misericórdias. «Deus te amou com amor eterno e por isso te atraiu a si — sussurra no fundo da nossa alma — Não és servo, mas amigo, mas filho» (cf. Jr 31, 3; Jo 15, 15).
 
 Assim, tomada de amor por um Pai tão bom, a alma nada mais deseja que corresponder ao seu amor, agradar-lhe e viver sempre unida a ele; em consequência, nada mais teme do que o pecado, que entristece Deus e tem o triste poder de separá-la dele. Que diferença entre este temor filial, fruto do amor, e o temor servil, fruto do medo do castigo! É verdade: também o temor do juízo e dos castigos divinos é salutar e, em certos casos, pode muito servir para deter a alma do pecado; porém, se não se transformar pouco a pouco em temor filial, nunca será suficiente para impelir a alma à santidade. O puro temor servil gela a alma e a torna mesquinha, enquanto o temor filial a dilata e a lança no caminho da generosidade e da perfeição.
 
-2. — O dom do temor aperfeiçoa ao mesmo tempo a virtude da esperança e a da temperança. Objeto da esperança é a posse de Deus e a bem-aventurança eterna; o dom do temor, fazendo-nos fugir com todo cuidado da menor ofensa a Deus, coloca-nos nas melhores condições para esperar a união beatificante do céu e obter os meios necessários para consegui-la.
+**2** — O dom do temor aperfeiçoa ao mesmo tempo a virtude da esperança e a da temperança. Objeto da esperança é a posse de Deus e a bem-aventurança eterna; o dom do temor, fazendo-nos fugir com todo cuidado da menor ofensa a Deus, coloca-nos nas melhores condições para esperar a união beatificante do céu e obter os meios necessários para consegui-la.
 
 Objeto da temperança é o freio das paixões e da atração pelo prazer sensível; o dom do temor aperfeiçoa esta virtude, tornando-nos mais generosos em mortificar nossos sentidos e nossas paixões. Impelidos por este santo temor, estaremos mais atentos que nunca para não nos deixar arrastar minimamente pelo desejo de nossa satisfação e estaremos prontos para enfrentar qualquer renúncia, contanto que não demos o menor desgosto ao Pai celeste. «Muito melhor desagradar a mim do que desagradar a Deus», repete a alma sob o influxo desse dom.
 

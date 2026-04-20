@@ -1,13 +1,12 @@
-## 303 — AS CARACTERÍSTICAS DA ALMA CRISTÃ
+## XI — AS CARACTERÍSTICAS DA ALMA CRISTÃ
+
 *XVI Domingo depois de Pentecostes*
 
-### Presença de Deus
-
-Faze, ó Senhor, que minha alma esteja bem enraizada na caridade e na humildade.
+**Presença de Deus.** — Faze, ó Senhor, que minha alma esteja bem enraizada na caridade e na humildade.
 
 ### Meditação
 
-1. — A Epístola que lemos na Missa de hoje é uma das passagens mais belas das cartas de São Paulo. Nela encontramos o famoso voto do Apóstolo pelos Efésios, que em três traços resume toda a substância da vida interior.
+**1** — A Epístola que lemos na Missa de hoje é uma das passagens mais belas das cartas de São Paulo. Nela encontramos o famoso voto do Apóstolo pelos Efésios, que em três traços resume toda a substância da vida interior.
 
 «O Pai de nosso Senhor Jesus Cristo... vos conceda... serdes poderosamente fortalecidos, por meio do seu Espírito, no homem interior.» O homem interior é o espírito humano regenerado pela graça, é o homem espiritual que renunciou às coisas materiais e aos prazeres dos sentidos. Esse homem está em cada um de nós e deve ser forte para poder sustentar a luta contra o homem animal que, infelizmente, enquanto estamos nesta terra, ainda vive em nós e tenta arrastar-nos para baixo. Com razão o Apóstolo invoca esta fortaleza ao Espírito Santo, porque a fortaleza de nossa virtude não basta, se não for corroborada pela que o Espírito Santo infunde em nós mediante seus dons.
 
@@ -15,7 +14,7 @@ Faze, ó Senhor, que minha alma esteja bem enraizada na caridade e na humildade.
 
 «Sejais capazes de compreender... esse amor de Cristo que supera toda ciência.» Compreender, quanto é possível à nossa limitação, o mistério do amor de Deus é o cume da vida espiritual. O cristianismo é todo amor: somos cristãos na medida em que vivemos no amor, na medida em que entendemos o amor de Deus. E, no entanto, esse mistério nos deixa sempre um pouco incrédulos, um pouco céticos. Ah, se pudéssemos ver, como os bem-aventurados veem, que Deus é caridade e não quer senão caridade; que o caminho para ir a ele é o caminho do amor; que o sofrimento, a mortificação, a humildade não são senão meios para chegar ao amor perfeito, para corresponder ao amor de Deus! Então seríamos realmente «repletos de toda a plenitude de Deus».
 
-2. — São Paulo, na Epístola, exortou-nos a ser enraizados no amor, e Jesus, no Evangelho, exorta-nos a ser enraizados no amor e na humildade.
+**2** — São Paulo, na Epístola, exortou-nos a ser enraizados no amor, e Jesus, no Evangelho, exorta-nos a ser enraizados no amor e na humildade.
 
 Não obstante a tácita desaprovação dos fariseus, fruto da estreiteza de sua mente e de seu coração, Jesus cura em dia de sábado um pobre hidrópico e assim nos ensina mais uma vez a grande importância do amor ao próximo. Em vão pensaríamos estar enraizados no amor de Deus, se não o estivéssemos também no amor do próximo. Como se pode pensar que um ato de caridade fraterna esteja em oposição com a lei da santificação do dia festivo? São estas as aberrações a que se chega quando se pretende amar a Deus atendendo apenas aos próprios interesses, sem nenhum pensamento para as necessidades alheias. Isso não é cristianismo, mas farisaísmo destruidor da caridade.
 

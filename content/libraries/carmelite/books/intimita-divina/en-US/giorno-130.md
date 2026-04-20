@@ -1,122 +1,33 @@
-## 100 — IMPERFECTION
+## 54 — SUFFERING AND ABANDONMENT
 
-### Presence of God
+**Presence of God.** — *O Lord, teach me to suffer with simplicity, without useless returns on myself, but abandoning myself to your divine will.*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — The secret for learning to suffer virtuously lies in great part in forgetting self and abandoning oneself; to forget self and one's own pain and to abandon oneself to God.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+Whoever folds back on his own sufferings, concentrating on them his attention, renders himself incapable of bearing them with serenity and courage. "To each day suffices its own affliction" *(Mt.* 6, 34), Jesus has said; let us strive then to bear in peace, day by day, moment by moment those pains and those troubles that God places on our path, without thinking of what we have suffered yesterday, without preoccupying ourselves with what we shall suffer tomorrow. Even when suffering is intense let us not overvalue it, let us not give it too much importance, let us not let ourselves be taken by that somewhat morbid tendency of caressing our suffering, of stopping to contemplate it, to analyze it and weigh it in all its aspects. In such manner we shall come to paralyze our spirit of sacrifice, our capacity of acceptance and of action, rendering ourselves often useless to ourselves and to others. Whoever is too sensitive and too occupied with his own sufferings becomes often insensible and indifferent to the sufferings of others.
 
+To react against these tendencies of egoism which have been justly defined "the worm of Christian affliction" (P. Faber), one must forget self, one must go out from self and from the circle of one's own sufferings and occupy oneself instead of those of others, striving to alleviate them. This is a most efficacious means to find again, in moments of discouragement, the strength to carry one's own crosses.
 
-for the soul that seeks perfection, of eliminating from its
+One must always think — as is true — that we are never alone to suffer, that if our sufferings are great, there is no lack of those who have greater ones; one must think that our pains are a drop in comparison with the sea of pains in which navigates humanity and are almost nothing in comparison with the Passion of Jesus.
 
+Who occupies himself too much with what he suffers, ends by exasperating his own pain, by drowning himself in it, truncating in himself every generous impulse. Whoever, instead, knows how to forget self, maintains himself in equilibrium, always capable of thinking more of others than of self, always open to charity and to generosity toward God and toward neighbor. The simple soul, forgetful of self, is that which knows how to suffer with greater courage, drawing from it greater profit for its own sanctification.
 
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
+**2** — Despite all efforts to throw oneself beyond one's own pain, to forget one's own pains, one can pass through moments of anguish so profound, of darkness so dense that the poor soul knows not how to come out of them, so much the more when the horizon, instead of clearing itself, becomes always more dark and menacing. In these cases there remains but to make a leap into the dark, abandoning oneself totally into the hands of God. We are so poor and weak that we have always need of a point of support; if the soul forgets self and *disoccupies* itself of self, it has still need of someone who sustain it and think of it. This Someone is God who never forgets us, who knows profoundly our suffering, who sees our needs, who sees our weakness and is always ready to succor those who take refuge in him. We can, it is true, seek a little of comfort and help also from creatures, but let us not deceive ourselves: not always will they understand us, not always will they be at our disposition. But if we have recourse to God, we shall never be deluded; even if He shall not change our conditions, if he shall not take away our pains, yet interiorly — though in a hidden and silent manner — he will comfort our heart, giving us the strength to proceed on the way.
 
+"Cast your care upon the Lord, and he shall sustain you" *(Ps.* 54, 23). Behold the attitude of abandonment that we must have in the moment of suffering and that we must strengthen so much the more as this becomes profound. To greater suffering must correspond greater abandonment in God and then we shall not be lost.
 
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+So many souls exaggerate their sufferings, dramatize them because they know not how to see in them the paternal hand of God, because they do not believe enough in his divine Providence and, consequently, do not know how to abandon themselves to it with full confidence. If our life with all its circumstances, even the most painful, were not in the hands of God, we would have reason to fear, but since all is *always in his hands* we must not fear, we must not be dismayed. The soul that is secure of God and abandons itself to him, knows how to maintain itself tranquil even in the greatest pains, knows how to take with simplicity even tragic things, knows how to suffer with serenity and courage, because it is always sustained by God.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"O Lord, make my soul run continually to you without pause, gazing always at you alone. Consoled or desolated, let it run without stopping at anything, let it run so swiftly as to have no time to look, nor to see the things of earth, because the step is most swift. Away then, for love of you, enjoyment, repose, reliance on the judgment of men, repose on their approval, apprehension for physical malaise, for moral sadnesses, for success prosperous or adverse. Away, in short, all that is not God.
 
+"My pains, I recognize, have been permitted and willed by you, my Lord, to teach me to have confidence despite all.
 
-sins!
+"O Lord, be my only support in apprehensions, in weaknesses, in anguish; be my confidant or, better, my confidence. Divine Guest, who reside in me, on the throne of my heart, dwell as master; to you belongs the dominion, the love, the government of all my being!
 
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
+"Why trouble myself or fear still? All is yours, O God, and You yourself take care and provide for my needs. You are infinite love and love the work of your hands more than it itself knows and can love itself. Who shall dare to doubt of your power, of the provident and affectionate cares that you lavish on your creatures, of the eternity and efficacy of your love?
 
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+"I believe that You do all and permit all for my good and my salvation and I abandon myself to your conduct with confidence, with love, without anxieties, nor apprehensions, nor calculations" (B. M. Teresa de Soubiran).

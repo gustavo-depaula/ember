@@ -1,9 +1,8 @@
-## 8 — EM BREVE O SENHOR VIRÁ
+## VIII — EM BREVE O SENHOR VIRÁ
+
 *II domingo do Advento*
 
-### Presença de Deus
-
-Ponho-me diante de Jesus Sacramentado para ouvir dele o duplo convite à confiança e à penitência, contido na liturgia do dia.
+**Presença de Deus.** — *Ponho-me diante de Jesus Sacramentado para ouvir dele o duplo convite à confiança e à penitência, contido na liturgia do dia.*
 
 ### Meditação
 

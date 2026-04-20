@@ -1,111 +1,23 @@
-## 99 — VENIAL SIN
+## 47 — SUPERNATURAL OBEDIENCE
 
-### Presence of God
+**Presence of God.** — O Jesus, teach me to see only you in my superiors.
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — Here is an excellent teaching of St. John of the Cross: "Never consider your superior as inferior to God, whoever he may be, because, for you, he represents God" *(Ct.* 12). If you do not have this supernatural gaze that makes you see God in the person of the superior, your obedience cannot be supernatural. To be so, it is necessary that you be animated by this sole motive: I obey because my superior represents God to me, he speaks to me in God's place; my superior is Christ: "*hic est Christus meus*".
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+You must not obey for a motive of human confidence in the person of your superior, that is because he is intelligent, is prudent, capable, because he understands you and wishes you well etc.: this is human obedience, fruit of human prudence, a good act, but not supernatural. You must not even obey because that which is commanded you is the most perfect, this is not yet the true motive of obedience, which consists solely in obeying because all that the superior commands, God wills it. Only one case makes exception, that is when the superior should command to do a sin, which certainly God cannot will, or when his commands were contrary to the Rule or to the Statutes embraced by you, because then they would no longer be legitimate. But for the rest you must not place any reserve to your obedience. And you must not even hesitate fearing that the superior may ask you something less perfect, because even if he should order you a thing objectively less perfect than another (for example to rest, rather than work), for you it would be the most perfect, since by the simple fact that the superior has ordered it to you it is evident that it is precisely that, and not other, that God wills *from you* in that moment. It may very well be that in the abstract you see the possibility of doing a thing of greater perfection than that which is commanded you and that your opinion is better than that of the superior, but in concrete there is no doubt: there cannot be for you anything more perfect than to execute what God commands you through the superior.
 
+**2** — If you must not base your obedience on a motive of human confidence in the quality of your superior, you must however base it on a motive of supernatural confidence, that is of confidence in the supernatural government of the Lord through the superiors that He has given you. Even if sometimes you found yourself before less upright, less virtuous superiors, you would have no motive to fear; indeed, faith teaches you that God dominates and governs all and that there is no human will that can withdraw itself from his divine will. Even if the superior should err or if he should order you something in itself good or indifferent, but for a less right motive, God will always know how to avail himself of the errors of him for the good of your soul, and he will avail himself also of his little right intentions to make you do that which he wills from you. This is certain: God directs you through your superiors, and these are not independent of God, but God himself makes use of them as of instruments that he can make act at his talent. Therefore have recourse to your superior with confidence because, having recourse to him, you have recourse to God, obeying him, you obey God. A similar obedience is entirely supernatural and puts you in direct contact with the will of God.
 
-satisfaction, toward creatures. And thus, little by little,
+Behaving differently, "you would do yourself the immense wrong of lowering obedience from the divine plane to the human... And your obedience will be so much the more vain and sterile, as much as you feel yourself contrarieted by the hostile attitude of your superior or more content for his easy and agreeable humor. I tell you — St. John of the Cross warns you — it is precisely thus that the demon, in the order of perfection, has ruined an infinity of religious, the obedience of whom has very little value in the eyes of God, for having fixed their gaze upon these particular things in matter of obedience" *(Ct.* 12).
 
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+If you wish that your obedience have all its value, fix your gaze only on God "whom you serve in your superior" *(ibid)*.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+O Lord, increase my spirit of faith, that I may see you living in the soul of my superiors; that faced with each of them I may know how spontaneously and sincerely to repeat: "*hic est Christus meus!*". Precisely thus, through obedience, will be possible to me a life of continual relations, of continual intimacy with you. If in the Sacrament of the altar I find you living and palpitating behind the veil of the eucharistic species, always ready to receive me and to nourish my soul, I can, though in another way, find you hidden also in the person of my superiors, through whom you speak to me, always ready to loose my hesitations, to manifest to me your holy will, to direct me, to guide me by the way that from eternity you have chosen for my sanctification.
 
+Why then, O Lord, should I stop at the appearances of my superiors? This does nothing but impede me from finding you in them, from recognizing, in their will, your will. Help me, O God, to surpass all the human sides of obedience to put myself in contact with you, with your divine will. As before the Eucharist I must not stop at the created species of bread and wine, so before obedience I must not stop at the person of the superior, but consider only your will that reaches me through the appearances of a human order, of a human command. O Jesus, what great mystery! The Eucharist gives me your Body, your Blood, your Divinity: this is the force of the sacrament instituted by you; obedience gives me your will, puts me in communion with it: this is the power of the authority constituted by you.
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
-
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+O Lord, after having understood this profound truth, how shall I still dare to discuss and hesitate before the orders of my superiors? "Would it not perhaps be curious that, You telling me to go do a thing that is very dear to you, I would not wish to obey with the pretext of doing another that seems better to me? Fine way to progress in your love! It would be tying my hands and believing that You cannot lead me to perfection except by one road..." (cf. T.G. *Fd.* 5, 5). No, Lord, not thus; but I wish to follow you wherever You will to lead me through holy obedience.

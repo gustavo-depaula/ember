@@ -1,121 +1,27 @@
-## 39 — JESUS PRIMOGÊNITO DE TODAS AS CRIATURAS
-*4 janeiro*
+## 39 — O DESENVOLVIMENTO DO AMOR
 
-### Presença de Deus
-
-— Dá-me luz, ó Senhor Jesus, para descobrir as tuas inenarráveis grandezas de Filho de Deus através das tuas humildíssimas aparências de Menino.
+**Presença de Deus.** — *Deus meu, que desde a eternidade me prevenistes com vosso infinito amor, aumentai em mim o amor para convosco.*
 
 ### Meditação
 
-1 — "Ele [Jesus] é imagem do Deus invisível, o
-primogênito de toda criatura, pois nele foram criadas
-todas as coisas nos céus e na terra, as visíveis e as invisíveis... Tudo por meio dele e em vista dele foi criado;
-e Ele é antes de tudo e tudo nele subsiste" (Col. 1,
+**1** — «Quem impedirá a Deus fazer o que quer numa alma resignada, nua e aniquilada?» *(S. II,* 4, 2). Esta sentença de São João da Cruz faz-te compreender que Deus deseja imensamente trabalhar na tua alma para conduzir-te à santidade, à união com Ele, contanto que te ponhas nas suas mãos despojado de todo apego, aniquilado no teu amor-próprio, totalmente dócil à sua ação, totalmente maleável e movível. Mediante as provas purificadoras, o Senhor ajuda-te a esvaziar-te de ti mesmo, a desapegar-te das criaturas, ajuda-te a esboçar em ti a verdadeira humildade, mas ao mesmo tempo ajuda-te a crescer no amor, a grande força que deve unir-te a Ele. Todo o trabalho que Deus realiza na tua alma visa fazer-te progredir nesta virtude; provas exteriores e interiores, humilhações, impotências, aridezes, lutas, tempestades têm, no plano divino, o propósito de apagar em ti os fogos fatais do amor-próprio, do orgulho, dos afetos terrenos e de toda outra paixão desregrada para que em ti se acenda um só fogo sempre mais intenso e vigoroso, o fogo da caridade.
 
-15-17). Neste texto de São Paulo está sintetizada a infinita
-grandeza de Jesus. Como Verbo, Ele é a imagem substancial e perfeitíssima do Pai, tendo a mesma natureza
-dele e dele procedendo por geração eterna. Como
-Verbo é o primogênito de todas as criaturas porque foi
-gerado pelo Pai antes de toda criação; além disso, o
-Pai criou todas as coisas por meio dele, seu Verbo,
-sua sabedoria infinita. "É de saber", ensina São João
-da Cruz, "que com esta só figura de seu Filho,
-Deus olhou todas as coisas: e isso foi dar-lhes o ser natural,
-comunicando-lhes muitas graças e dons de natureza... Olhá-las... foi o mesmo que criá-las no seu Verbo, seu Filho"
-(C. 5, 4). O Verbo, porém, não é só primogênito de todas
-as criaturas, mas, sendo Ele Deus como o Pai, é também seu Criador, de modo que "sem ele não foi feito
-nada do que foi feito" (Jo. 1, 3).
+Quanto mais o Senhor te purifica, tanto mais o teu coração se liberta de toda escória e se torna capaz de concentrar n'Ele todos os seus afetos. Caminha, pois, nesta direção aceitando a purificação em vista de um amor mais pleno e orientando toda a tua vida espiritual ao exercício do amor. O que sofres, sofre por amor, ou seja, sofre de boa vontade, sem recalcitrar, sem te lamentar e então, à medida que a tua alma vier a ser humilhada, despojada, mortificada, virá também a ser revestida de caridade. As provas que Deus te envia não têm só o propósito de tornar mais puro o teu coração, mas também de dilatá-lo na caridade. Elas visam escavar em ti uma maior capacidade de amor, não certamente de amor sensível, mas de forte amor de vontade, que tende a Deus com pura benevolência, independentemente de todo conforto pessoal, na única busca da sua glória e do seu beneplácito.
 
-Todas estas grandezas que pertencem por natureza
-ao Verbo, por motivo da sua Encarnação e portanto da união hipostática, tornam-se as grandezas de Jesus, verdadeiro
-Deus e verdadeiro homem; de fato São Paulo afirma que "em Cristo
-habita corporalmente toda a plenitude da Divindade" (Col.
-2, 9).
+**2** — Mediante as provas purificadoras «Deus secretamente ensina a alma na perfeição do amor» *(G.C. N. II,* 5, 1). Antes de tudo ensina-a a amar independentemente de todo gaúdio e alegria, privando-a perfino daquela alegria, tão legítima e espontânea, que deriva da consciência do próprio amor. A alma ainda não totalmente purificada poderia apegar-se a esta alegria e Deus lha subtrai inteiramente; as densas trevas lhe tiram a consciência de amar, a seca aridez apaga nela todo gaúdio e doçura e ela é constrangida a proceder com o puro ato da vontade. Ao invés de comprazer-se no seu amor, que já não sente mais, a alma resta profundamente aflita pela dúvida tormentosa de não saber amar e para combater esta dúvida não tem outro meio senão o amor, ou seja, abraçar com generosidade qualquer coisa, qualquer sacrifício que agrade a Deus. Justamente assim o seu amor se desenvolve e se torna mais puro e mais forte: mais puro porque não se mescla nenhum conforto pessoal, mais forte porque a impele a obras mais generosas. Neste estado a alma adere a Deus com o só ato da vontade, no qual consiste a substância do amor: *quer bem* a Deus unicamente porque Ele é o Bem sumo, infinitamente bom; quer só Ele e só a Ele serve cumprindo todos os seus divinos quereres, sem algum retorno sobre si, sem nenhuma busca de alegria, de gostos espirituais; a alma não está mais preocupada em gozar do seu amor, não está mais preocupada em receber, mas a sua única cura é dar, doar-se, fazer prazer a Deus. Daí entendes como a aridez e as trevas, ao invés de sufocar o amor, fazem-no crescer de modo maravilhoso, contanto que a alma esteja disposta a caminhar buscando só o gosto de Deus e esquecendo totalmente a si mesma.
 
-Jesus compraz-se em ocultar estes infinitos esplendores da sua divindade no escondimento do presépio, mas,
-guiados pelo amor e pela fé, nós não queremos tardar
-em reconhecê-los e exaltá-los.
-
-2 — Jesus é o primogênito, é a fonte do nosso ser
-não só na ordem natural, isto é, quanto à nossa
-criação, mas também e particularmente na ordem sobrenatural, isto é, quanto à vida da graça; de fato...
-"com a mesma só imagem de seu Filho [Deus] deixou as criaturas vestidas de beleza, participando-lhes o ser sobrenatural: o que aconteceu quando o Verbo, encarnando-se,
-elevou o homem à beleza divina" (J.C. C. 5, 4).
-
-O Verbo se encarnou justamente para comunicar a nós
-o ser sobrenatural; Jesus veio justamente para fazer de
-nós filhos de Deus: Ele, o único Filho de Deus por natureza,
-torna-se assim o primogênito de muitos irmãos que nele e por
-ele são feitos filhos de Deus por graça. Este é o plano admirável e misterioso da nossa elevação ao estado sobrenatural: "Bendito Deus Pai... que nos abençoou
-com toda bênção espiritual em Cristo... tendo-nos predestinado para sermos filhos adotivos seus por meio de Jesus Cris-
-to, segundo a benevolência da sua vontade" (Ef. 1, 3 e 5).
-
-Deus Pai, desde a eternidade, quis elevar os homens à dignidade de seus filhos e, por isso, aos nossos primeiros pais,
-juntamente com a vida natural, tinha dado a vida sobrenatural,
-que eles, porém, perderam com o seu pecado. Mas Deus
-já tinha previsto esta queda e a permitira unicamente em vista de um plano muito mais grandioso que o primi-
-tivo, que manifestaria de modo insuperável a sua
-caridade e misericórdia infinitas: a Encarnação do seu Unigênito,
-para que por meio dele "também nós recebêssemos a adoção
-de filhos" (Gal. 4, 4).
-
-Neste plano maravilhoso contemplamos dois sublimes mistérios: Jesus primogênito de todas as criaturas também
-na ordem sobrenatural e precisamente enquanto homem; nós,
-filhos do pecado, tornados nele e por ele filhos adotivos
-de Deus.
+«Aprende a amar como Deus quer ser amado, e deixa as tuas maneiras pessoais...» *(AM. I,* 57), diz-te São João da Cruz, ou seja, aprende a amar a Deus com o puro e forte ato de vontade, não te preocupando de tudo o que é sentimento, consolação, alegria do coração. Talvez o teu modo de amar seja ainda um pouco demasiado dependente do sentimento, e então agradece ao Senhor se te faz caminhar em trevas e aridez: deste modo Ele te ajudará a libertar-te destas fraquezas.
 
 ### Colóquio
 
-Pai eterno, "Senhor,
-meu Deus, em tão grande número fizeste os teus prodígios e os teus desígnios para nós, e nada é comparável a ti. É belo dar-te louvor, Senhor, e cantar
-ao teu nome, ó Altíssimo; proclamar pela manhã a tua
-bondade e nas horas da noite a tua fidelidade. Porque me fazes
-alegre, ó Senhor, pela tua obra; por tuas ações eu exulto
-em júbilo. Quão grandes são as tuas obras, ó Senhor!
-Sumamente profundos são os teus desígnios" (Sl. 39, 6;
+«Ó Senhor da minha alma e meu único Bem, por que não queres que apenas a alma se determine a amar-Te e faz o possível para desapegar-se de tudo para melhor servir-Te, não tenha logo a consolação de ver-se na posse do verdadeiro amor perfeito? Mas disse mal. Devia dizer queixando-me: por que não queremos nós? Sim, a culpa é nossa se não chegamos logo a tanta honra!...
 
-91, 2-6).
-A tua obra mais esplêndida, a Encarnação do teu
-Unigênito, que obra-prima mais sublime do que Cristo Jesus,
+«Se conseguíssemos conseguir perfeitamente o verdadeiro amor, teríamos junto toda outra sorte de bens. Mas, Deus meu, somos tão avaros e tão lentos em dar-nos a Ti que nunca nos determinamos a pôr-nos nas disposições para recebê-lo, também porque, sendo este amor tão precioso, Tu exiges que não seja gozado senão a caro preço.
 
+«Não há nada sobre a terra que possa comprar um tal tesouro; mas nos tornaríamos logo possuidores dele só que fizéssemos o nosso melhor para não nos apegarmos às coisas do mundo, pondo toda nossa cura e conversação nas do céu. Em vez disso, ó Senhor, acontece que enquanto cremos dar-Te toda coisa, enquanto na realidade não Te damos senão a renda e os frutos, retendo-nos o capital e a propriedade... Bela maneira de buscar o Teu amor! E depois queremos-no logo e a mãos cheias.
 
-verdadeiro Deus e verdadeiro homem, "no qual estão escondidos todos os tesouros
-da sabedoria e da ciência"? (Col. 2, 3).
+«Ó Senhor, se Tu não nos dás este tesouro tudo de uma vez é porque também nós não nos damos a Ti del todo. Apraza-Te pelo menos dar-no-lo gota a gota, ainda que para isso devêssemos submeter-nos a todos os trabalhos do mundo.
 
-Ó Jesus, Tu me fazes entender que és verdadeiramente o Homem-Deus e te manifestas à minha alma com tal majestade que
-não me é possível duvidar da tua infinita grandeza. Ó
-Senhor Jesus, quem poderia compreender a fundo a tua
-majestade de absoluto senhor da terra e do céu?
+«Não, Deus meu, o amor não está nas lágrimas e nem naquelas consolações e ternuras que ordinariamente se desejam tanto e tanto nelas se recreiam. Ele consiste antes no servir-Te com justiça, com fortaleza de alma e humildade. Sem isto pareceria um receber sempre e um sofrer nunca nada.
 
-"Minha esperança, Cristo Deus, doce amador dos homens,
-luz, caminho, vida, salvação, honra e glória de todos os teus
-servos, Tu vives em eterno, reinando agora e por todos os séculos...
-Tu és o meu Deus vivo e verdadeiro; meu Pai santo; meu pio
-Senhor, o Rei grande, o Pastor bom, meu único Mestre,
-ótimo ajudador; meu guia à pátria, meu caminho reto...
-minha vítima imaculada, minha santa redenção, minha firme
-esperança, minha caridade perfeita, minha verdadeira ressurreição, minha
-vida eterna. A ti desejo, dulcíssimo e belíssimo Senhor!...
-
-"Ó esplendor da glória paterna, que te assentas sobre os
-Querubins e contemplas os abismos, luz verdadeira,
-luz que ilumina,
-luz indeficiente, na qual os anjos desejam fixar-se,
-eis que o meu coração está diante de ti; dissipa-lhe as trevas,
-para que seja mais abundantemente inundado pelos esplendores
-do teu santo amor.
-
-"Dá-me a ti mesmo, ó meu Deus; dá-me a ti mesmo, pois eu
-te amo; e se é pouco fervoroso este meu amor, concede-me
-amar-te mais.
-
-"Eu não posso medir quanto me falta do teu
-amor para que seja como deve ser,
-para que a minha vida
-corra nos teus abraços e deles não se afaste até
-que se esconda na luz do teu rosto; isto sei,
-que tudo é mal para mim, fora de ti, ó Senhor, não somente
-fora de mim, mas também dentro de mim mesmo. Toda abundância que não é o meu Deus é para mim indigência e miséria"
-
-
-(S. Agostinho).
+«Não permitas, ó Senhor, que coisa de tão grande preço como o Teu amor seja dada a pessoas que Te servem somente por cobiça de consolações espirituais» *(T.G. Vi.* 11, 1-13).

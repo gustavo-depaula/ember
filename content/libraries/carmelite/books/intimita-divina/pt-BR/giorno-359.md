@@ -1,113 +1,29 @@
-## 37 — O NOME DE JESUS
-*2 janeiro*
+## 37 — ANGÚSTIAS E TREVAS
 
-### Presença de Deus
-
-— Ó Jesus, faze-me compreender os mistérios e os tesouros encerrados no teu dulcíssimo nome.
+**Presença de Deus.** — *Acorrei, ó Senhor, em meu auxílio para que eu não seja tragado pela tempestade.*
 
 ### Meditação
 
-1 — Esta festa é um complemento da
-Circuncisão, circunstância em que foi imposto ao Menino o
-nome de Jesus. Mas, enquanto na Circuncisão consideramos sobretudo a humilhação do Filho de Deus,
-hoje a Igreja nos convida a considerar e a celebrar as
-glórias do seu nome.
+**1** — Vendo com clareza a sua miséria, a alma intui a infinita distância que passa entre ela e Deus: justamente agora que mais anela unir-se a Ele, se vê d'Ele mais que nunca longe, absolutamente incapaz de superar a suma distância que d'Ele a separa. Também disto ela sofre, porque quem ama deseja ardentemente unir-se ao amado. Às vezes, pois, este sofrimento se faz tão intenso a parecer à alma que para ela não exista mais alguma esperança nem de santidade, nem de união com Deus e nem mesmo de salvação eterna.
 
-Glórias que, como nos admoesta São Paulo, brotam
-justamente dos seus prodigiosos abaixamentos: "Irmãos: Cristo
-humilhou-se a si mesmo, fazendo-se obediente até à morte, e à
-morte de cruz. Por isso Deus o exaltou e lhe deu o nome que
-está acima de todo nome, para que ao nome de Jesus todo joelho se dobre" (Fil. 2, 8-10). Assim canta a Igreja no ofício
-do dia, convidando todos os seus filhos a render reconhecido e devoto homena-
+Nestas angústias não há nada de exagerado e tanto menos de falso: o Espírito Santo, sob cuja ação a alma se encontra, não pode inspirar-lhe nada que não seja perfeitamente conforme à verdade. É demasiado verdade que entre nós, pobres criaturas, e Deus, perfeição suma e infinita, passam uma distância e uma diferença incalculáveis; é demasiado verdade que, baseando-nos nas nossas forças, somos radicalmente impotentes a elevar-nos até Deus; é demasiado verdade que, olhando às nossas ações, também às melhores, não há nada em nós que possa merecer nem a união com Deus, nem a vida eterna. Se muitos não estão convencidos disto, mas se consideram capazes de alguma coisa em ordem a Deus e à santidade, é porque não foram ainda iluminados sobre a profundidade do seu nada.
 
+Se porém é verdade que nós somos absolutamente indignos de Deus, do seu amor, da sua união, da sua glória eterna, é também verdade que Deus mesmo, com o seu amor misericordioso, quis colmar a infinita distância que nos divide d'Ele, quis curvar-se até nós ao ponto de revestir-nos da sua vida divina e de chamar-nos à sua intimidade. Aquilo que à nossa miséria é absolutamente impossível, é bem possível à onipotência de Deus e à sua infinita misericórdia; e Ele, de fato, o quer fazer, mas quer também tornar-nos conscientes de que isto é unicamente obra sua.
 
+Nos seus temores de não poder chegar a Deus e à salvação eterna, a alma deve manter-se firme numa esperança inquebrantável. Se é justo que tema de si mesma e esteja convencida de não poder esperar nada das suas obras, é porém mais que jamais justo que tudo aguarde de Deus, cujo amor e cuja bondade superam infinitamente e a sua miséria e as suas expectativas. Comportando-se assim, as angústias da noite do espírito não farão senão radicar a alma não só numa humildade mais profunda, mas também numa esperança mais pura, mais perfeita, porque unicamente apoiada no amor misericordioso de Deus.
 
-\* Mover esta meditação segundo o calendário do ano.
+**2** — "Neste tempo de purgação — diz S. João da Cruz — a alma está envolta em densas trevas no seu intelecto... Quase sempre (é) árida e fria, raramente fervorosa, em nenhuma coisa encontra alívio, nem mesmo um pensamento que a conforte, sem poder nem mesmo levantar o coração a Deus" *(F.* 1, 20).
 
-
-gem Àquele que por nós tanto se
-humilhou.
-
-Respondendo a tal convite, o coração de cada cristão
-deve exaltar o nome santíssimo do seu Salvador, e isso
-equivale a exaltar a sua própria pessoa,
-porque o nome de Jesus exprime precisamente o seu ser:
-ser de Salvador,
-de Redentor. Este nome bendito lhe foi imposto pelo
-próprio Deus que, pela boca do Anjo, o revelou a Maria
-e a José: "chamá-lo-ás Jesus, porque salvará o seu povo dos pecados" (Mt. 1, 21). Este nome exprime e
-sintetiza os grandes mistérios da Encarnação e da Redenção e está no centro do universo como ponto de contato,
-como ponte de ligação entre Deus e a humanidade inteira. Só
-por meio de Jesus e no nome de Jesus o homem pode chegar
-a Deus: "porque não há sob o céu outro nome dado aos homens, pelo qual devamos esperar ser salvos" (Ep.: At. 4, 8-12).
-
-2 — A Missa de hoje, retomando o pensamento de
-
-São Paulo, oferece-nos uma majestosa imagem da glória devida ao nome bendito de Jesus: "Ao nome de Jesus todo
-joelho se dobre, dos seres celestes, dos terrestres e dos
-que estão debaixo da terra; e toda língua confesse que o Senhor Jesus
-Cristo está na glória de Deus Pai" (Intr.). A Igreja triunfante, a Igreja militante, a Igreja padecente estão prostradas
-em adoração; parece que toda a criação se cala e detém
-um instante o seu curso para ouvir aquele nome santíssimo em
-que está toda glória para Deus e toda salvação para a humanidade.
-Verdadeiramente "nem língua vale dizer, nem escritura exprimir"
-os preciosos tesouros encerrados no nome de Jesus. "Nenhum canto
-é mais suave, nenhum som mais alegre, nenhum pensamento mais
-doce que Jesus, Filho de Deus" (BR.). "Um óleo derramado é
-o teu nome" (Cant. 1, 2), diz a Sagrada Escritura, e São Bernardo comenta: "O óleo de fato ilumina,
-alimenta e unge...
-Observa agora o mesmo quanto ao nome do Esposo: ilumina
-pregado, nutre meditado, suaviza e unge invocado...
-Árido é todo alimento da alma, se não é aspergido com este óleo;
-é insípido, se não é temperado com este sal. Se escreves,
-nada me sabe, se não leio ali Jesus. Se disputas ou falas, não
-me agrada, se não ouço ali Jesus. Jesus é mel para a boca,
-melodia para o ouvido, júbilo para o coração. Mas é também remédio" (BR.). Bendigamos e invoquemos com amor este
-dulcíssimo nome no qual está toda a nossa esperança e salvação,
-no qual está a nossa vida e a nossa glória. Só quem ama pode
-penetrar as misteriosas doçuras nele encerradas; só quem
-ama pode louvá-lo eficazmente,
-não somente com palavras,
-mas também com obras e render-lhe testemunho com toda
-a sua vida. "A ti, ó Jesus, cante a nossa voz, a ti expressem os nossos costumes, a ti amem os nossos corações, agora e em
-perpétuo" (BR.).
+Eis outro motivo de pena espiritual: a seca aridez em que a alma se encontra, a incapacidade de pensar a Deus. Parece-lhe quase que entre ela e Deus se tenha erguido como um muro altíssimo o qual impede que os seus gemidos cheguem até Ele. É noite profunda em que a alma não pode proceder apoiada à fé pura e nua. De fato, deve ir adiante assim, crendo com todas as suas forças que Deus é infinitamente bom, que Deus lhe quer bem e escuta o seu pranto, que Deus conhece o seu tormento e a sua prova unicamente para purificá-la. Não é difícil que neste estado a alma vá sujeita a fortes tentações contra a fé; podem ser, por exemplo, tentações semelhantes àquelas que afligiram S. Teresa do B. G. no último período da sua vida: "O Senhor — escrevia a Santa — permitiu que a minha alma fosse imersa nas trevas mais densas e que o pensamento do céu, tão caro para mim desde a minha mais tenra infância, me se tornasse causa de luta e de tormento" *(Sr.* 9). No entanto acrescentava: "Por quanto me falte o conforto da fé, me esforço porém de executar as obras; renovei mais atos de fé de um ano a esta parte, que em todo o curso da minha existência"; e, aludindo às suas poesias sobre a felicidade do céu, confessava: "Quando canto o eterno possesso de Deus, não experimento alegria alguma, porque eu canto simplesmente aquilo que *quero crer*" *(ibid.).* É propriamente esta a conduta que a alma deve ter em tal estado: *crer porque quer crer,* sem basear-se naquilo que prova ou experimenta, mas baseando-se unicamente na palavra de Deus. Estes atos de pura fé, despidos de todo conforto, independentes de qualquer sentimento, são atos de fé heróica que tanto mais honram Deus quanto mais se apoiam unicamente à divina revelação e tanto mais unem a alma a Ele, quanto mais são privados de todo sustento humano. As trevas da noite do espírito têm justamente este scopo: habituar a alma a caminhar na fé pura, na fé nua, sem nenhum apoio sensível.
 
 ### Colóquio
 
-"Ó nome glorioso, nome gracioso, nome amoroso e
-virtuoso! Por ti se perdoam as culpas, por ti se vencem os
-inimigos, por ti se curam os enfermos, por ti os sofredores se
-confortam nas adversidades! Tu és a honra dos crentes, o
-Mestre dos pregadores, o conforto dos operários, o sustento dos fracos e com o teu fogo ardente alimentam-se os
-santos desejos,
-impetram-se os necessários sufrágios,
-inebriam-se as
-almas contemplativas e são glorificados os triunfantes na
-glória celeste! Pelo teu nome santíssimo, ó dulcíssimo
-Jesus, faze reinar também a nós com os bem-aventurados, Tu que és o glorificador de todos os bem-aventurados, Tu que triunfas glorioso com o Pai
-e com o Espírito Santo, em unidade e trindade perfeita por todos
-os séculos dos séculos.
+«Ó Jesus, Rei pacífico, cuja presença é desejada pelo céu e pela terra, como te afastaste de mim? Como faltou toda a minha riqueza e a minha fortaleza? Ó privação mais penosa das feridas mortais, ó separação verdadeiramente amaríssima, de ser pior das angústias da morte!
 
-"Ó nome de Jesus, exaltado acima de todo outro nome! Ó
-nome de triunfo! Ó alegria dos anjos, ó terror do inferno! Em ti está toda esperança de perdão, de graça, de glória!
-Ó nome dulcíssimo, Tu dás perdão aos pecadores,
-reformas os costumes,
-enches os temerosos de divina doçura,
-afastas os fantasmas assustadores! Ó nome gloriosíssimo! Por ti
-se revelam os mistérios da vida eterna, as almas se inflamam
-do divino amor, se fortificam nas batalhas e são liber-
+«Por que te escondeste, dulcíssimo Esposo meu, e me causaste com a ausência tua esta noite cheia de trevas palpáveis e de tristíssima desolação? Quem me ajudará neste extremo abandono, nesta solidão? Oh, como são grandes os sofrimentos do amor, como é grande a solicitude do coração que não sabe, nem pode fazer senão amar e não pode ter quem ama!
 
+«Ó meu Rei clementíssimo, não tenho outro remédio que suspirar a ti; do íntimo do meu coração grito a ti e invoco a ternura do amor teu. Recorda-te de mim, ó esperança minha, e considera a amargura da repulsa e a dureza do abandono que me consomem.
 
+«Não me abandones, ó dulcíssimo Filhinho da Virgem, pois nasceu junto contigo a misericórdia do seio da puríssima Mãe tua. Olha, ó Senhor, como todas as minhas forças vieram a menos e sem de ti estou oprimido pelo horror e pela sombra da morte.
 
-tas de todos os perigos! Ó nome desejável, nome deleitável, nome admirável, venerável nome! Tu, por meio
-de dons e graças, elevas pouco a pouco a mente dos
-fiéis à altura do céu, de modo que todos aqueles que participam e entram na piedade da tua grandeza inefável
-adquirem por tua virtude a salvação e a glória!" (S. Bernardino de Sena).
-
-Ó Senhor, o teu nome é bom e faze que a sua bondade
-torne-me, criatura indigna, capaz de amá-lo e de louvá-lo
-com todo o coração.
-
-Quero que toda obra minha comece e termine no teu
-nome, que todos os meus afetos, desejos, empreendimentos, alegrias e dores tenham o seu selo; mas sobretudo, suplico-te,
-imprime o teu nome no meu coração e na minha mente para que sempre te ame e pense em ti.
+«Tem piedade de mim, Amigo meu, pois, consumidas todas as forças, somente me restaram os lábios e a língua para gritar a ti. Ó vida imortal e fonte de água viva, não me prives com tanto rigor da tua presença que me é mais cara da vida. Não me repousarei nunca, ó dulcíssimo Filhinho de Deus, nem cessarei nunca de gemer e de suplicar até que não voltes para mim o teu rosto» (Ven. João de G. M., o.c.d.).

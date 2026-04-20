@@ -1,4 +1,4 @@
-## 154 — PATROCÍNIO DE S. JOSÉ
+## XVIII — PATROCÍNIO DE S. JOSÉ
 *Quarta-feira da II sem. depois da Páscoa*
 
 ### Presença de Deus

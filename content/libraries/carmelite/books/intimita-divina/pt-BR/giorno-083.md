@@ -1,4 +1,4 @@
-## 83 — A NOITE DOS SENTIDOS
+## VII — A NOITE DOS SENTIDOS
 
 ### Presença de Deus
 

@@ -1,13 +1,11 @@
 ## 27 — O VERBO SE FEZ CARNE
 *23 dezembro*
 
-### Presença de Deus
-
-— Ó Jesus, Verbo eterno, permite-me penetrar mais profundamente no sublime mistério da tua Encarnação, para que o meu coração seja cada vez mais tomado pelo teu amor infinito.
+**Presença de Deus.** — *Ó Jesus, Verbo eterno, permite-me penetrar mais profundamente no sublime mistério da tua Encarnação, para que o meu coração seja cada vez mais tomado pelo teu amor infinito.*
 
 ### Meditação
 
-1 — O Verbo é a segunda Pessoa da SS.ma Trindade.
+**1** — O Verbo é a segunda Pessoa da SS.ma Trindade.
 No seio da única natureza divina há três Pessoas, três
 termos subsistentes. Também nós somos "subsistentes"; a "subsistência" é o que nos permite dizer "eu" e atribuir
 a este eu as diversas ações que fazemos. Em Deus, na
@@ -43,7 +41,7 @@ dos homens" (Jo. 1, 3-4). Vida natural, vida de graça,
 luz, conhecimento de Deus: tudo nos vem do Verbo que é
 Deus, juntamente com o Pai e com o Espírito Santo.
 
-2— "O Verbo se fez carne". Sendo Deus, o Verbo
+**2** — "O Verbo se fez carne". Sendo Deus, o Verbo
 é eterno e imutável, por isso permanece necessariamente
 sempre aquilo que era: manet quod erat! Mas nada impede que Ele, juntamente com o Pai e com o Espírito Santo,
 crie no tempo uma natureza humana que, em vez de ter um

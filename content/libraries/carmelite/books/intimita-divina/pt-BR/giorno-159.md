@@ -1,7 +1,5 @@
 ## XX — EXERCÍCIO DA PRESENÇA DE DEUS
 
-**Presenza di Dio.** — *O Signore, che la tua presenza sia luce e forza all'anima mia, sia sostegno ed appoggio alla mia orazione.*
-
 **Presença de Deus.** — *Ó Senhor, que eu viva sempre na tua presença, com o olhar interior fixo em ti.*
 
 ### Meditação

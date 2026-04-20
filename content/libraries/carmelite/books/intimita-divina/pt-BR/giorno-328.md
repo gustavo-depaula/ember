@@ -1,13 +1,11 @@
 ## 328 — O CONVITE DIVINO
 *XIX domingo depois de Pentecostes*
 
-### Presença de Deus
-
-Concede-me, ó Deus, a graça suprema de corresponder com generosidade a todos os teus convites.
+**Presença de Deus.** — *Concede-me, ó Deus, a graça suprema de corresponder com generosidade a todos os teus convites.*
 
 ### Meditação
 
-1. — O Evangelho de hoje (Mt. 22, 1-14) delineia a história dolorosa — infelizmente sempre atual — da ingratidão humana, que rejeita a misericórdia divina, descuidando-se de seus dons e de seus convites.
+**1** — O Evangelho de hoje (Mt. 22, 1-14) delineia a história dolorosa — infelizmente sempre atual — da ingratidão humana, que rejeita a misericórdia divina, descuidando-se de seus dons e de seus convites.
 
 «O reino dos céus é semelhante a um rei que fez as bodas de seu filho; e mandou seus servos chamar os convidados, os quais não quiseram vir.» O rei é Deus Pai, o filho é o Verbo eterno que, encarnando-se, desposou a natureza humana para redimi-la e santificá-la.
 
@@ -21,7 +19,7 @@ O banquete está preparado; Jesus, Cordeiro divino, foi imolado para a redençã
 
 Também nós fomos convidados; como correspondemos ao convite? Não mostramos também nós, às vezes, maior interesse pelos negócios terrenos do que pelas coisas de Deus? Não fomos semelhantes àqueles homens da parábola que «não se importando, foram-se, um para seu campo e outro para seu comércio»?
 
-2. — A parábola de hoje representa, antes de tudo, o convite à vida cristã, convite que, recusado pelo povo hebreu, foi dirigido a todas as nações. Mas nela podemos ver figurado também o convite a seguir uma vocação particular: vocação ao sacerdócio, à consagração a Deus no claustro ou no mundo, ao apostolado, a uma missão particular.
+**2** — A parábola de hoje representa, antes de tudo, o convite à vida cristã, convite que, recusado pelo povo hebreu, foi dirigido a todas as nações. Mas nela podemos ver figurado também o convite a seguir uma vocação particular: vocação ao sacerdócio, à consagração a Deus no claustro ou no mundo, ao apostolado, a uma missão particular.
 
 Para corresponder à vocação, não basta uma adesão qualquer; é necessária uma adesão sincera, profunda, que comprometa toda a alma. A parábola nos fala de um homem que não recusou o convite, mas lhe correspondeu de modo indigno, apresentando-se ao banquete sem a veste nupcial.
 

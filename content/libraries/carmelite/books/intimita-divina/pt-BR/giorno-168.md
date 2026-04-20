@@ -1,19 +1,18 @@
-## 163 — A GRANDE PROMESSA
+## XXIX — A GRANDE PROMESSA
+
 *IV Domingo depois da Páscoa*
 
-### Presença de Deus
-
-Ó Jesus, dispõe meu coração para acolher o Espírito Santo que nos prometeste e mereceste.
+**Presença de Deus.** — *Ó Jesus, dispõe meu coração para acolher o Espírito Santo que nos prometeste e mereceste.*
 
 ### Meditação
 
-1. — Desde o domingo passado a Igreja começou a preparar-nos para a Ascensão do Senhor; hoje, retomando o assunto, dá um passo adiante, isto é, fala-nos da vinda do Espírito Santo e, para isso, serve-se ainda de um trecho do discurso de Jesus depois da última Ceia.
+**1** — Desde o domingo passado a Igreja começou a preparar-nos para a Ascensão do Senhor; hoje, retomando o assunto, dá um passo adiante, isto é, fala-nos da vinda do Espírito Santo e, para isso, serve-se ainda de um trecho do discurso de Jesus depois da última Ceia.
 
 É sempre o Senhor que fala aos Apóstolos e continua a dispor seus ânimos para a sua partida; eles escutam tristes e pensativos, sem ter coragem de interrogá-lo. E o Senhor, como uma boa mãe, rompe aquele penoso silêncio: «Vou para Aquele que me enviou; e nenhum de vós me pergunta: Para onde vais?» e então se apressa a consolá-los: «Convém-vos que eu vá, porque se eu não for o Paráclito não virá a vós; mas se eu for, vo-lo enviarei». De fato, somente a morte de Jesus nos teria merecido este grande dom e somente depois de sua Ascensão ao céu o Espírito Santo, o Enviado do Pai e do Filho, teria efetivamente descido sobre a Igreja. Os Apóstolos estão para perder a presença sensível, física, do Mestre adorado, mas este não os deixará órfãos e continuará a assisti-los invisivelmente por meio do seu Espírito, que prosseguirá junto deles sua obra. Jesus viveu no meio deles de modo visível, o Espírito Santo o fará, ao contrário, de modo secreto e escondido, mas nem por isso menos eficaz e menos real. Antes - o próprio Jesus o diz - a ação do divino Paráclito completará a sua. «Ainda tenho muitas coisas a dizer-vos, mas por ora não as podeis suportar. Quando vier o Espírito de verdade, Ele vos ensinará toda a verdade. Ele... tomará do que é meu e vo-lo anunciará». O coração dos Apóstolos, ainda embotado pelo pecado, não pode entender as verdades mais profundas; será necessário que Jesus, morrendo na Cruz, destrua o pecado - o grande obstáculo à ação do Espírito Santo - e depois, subido ao Céu, nos envie o divino Paráclito, merecido para nós por sua Paixão.
 
 O envio do Espírito Santo às nossas almas é o máximo fruto da Paixão de Jesus.
 
-2. — Do Evangelho de hoje podemos tirar algumas aplicações práticas. Antes de tudo, devemos dispor-nos com ardor para Pentecostes a fim de que se renove em nós, com grande plenitude, a descida do Espírito Santo. E, como o obstáculo à efusão do Espírito Santo é precisamente o pecado, nossa preparação consista numa particular pureza de consciência. O pecado deve ser destruído em nós não só em suas manifestações atuais, por mais leves que sejam, mas também em suas raízes mais profundas e escondidas.
+**2** — Do Evangelho de hoje podemos tirar algumas aplicações práticas. Antes de tudo, devemos dispor-nos com ardor para Pentecostes a fim de que se renove em nós, com grande plenitude, a descida do Espírito Santo. E, como o obstáculo à efusão do Espírito Santo é precisamente o pecado, nossa preparação consista numa particular pureza de consciência. O pecado deve ser destruído em nós não só em suas manifestações atuais, por mais leves que sejam, mas também em suas raízes mais profundas e escondidas.
 
 Devemos além disso estar convencidos de que na alma em graça, tanto mais quando ela procura corresponder com fidelidade às moções divinas, nunca falta uma certa ação do Espírito Santo e não é de modo algum necessário que esta seja sensível e consoladora. Também na aridez e no desalento o Espírito Santo trabalha na alma fiel: é uma ação toda secreta e escondida, mas real e eficaz, que visa principalmente purificá-la e dispô-la à união com Deus. A alma que está convencida disso mantém-se confiante mesmo através das dificuldades e, se não compreende nem vê seu caminho, entrega-se ao Espírito Santo que bem sabe e bem vê para onde quer conduzi-la.
 

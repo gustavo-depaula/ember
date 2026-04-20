@@ -14,10 +14,10 @@ Protegido por uma humildade profunda, por um desprendimento sincero, sustentado 
 
 ### Colóquio
 
-"Ó Senhor, as almas que te foram mais próximas, como tua santíssima Mãe e teus gloriosos Apóstolos, foram as que mais sofreram e mais trabalharam por ti, não se concedendo nenhum repouso.
+«Ó Senhor, as almas que te foram mais próximas, como tua santíssima Mãe e teus gloriosos Apóstolos, foram as que mais sofreram e mais trabalharam por ti, não se concedendo nenhum repouso.
 
-"Meu Deus, como deve ser desprezado o próprio descanso da alma que vive profundamente unida a ti! Como não deve cuidar da honra! Como deve estar longe de desejar ser estimada em alguma coisa! Sim, se ela se entretém muitas vezes contigo, como convém, acaba esquecendo-se de si mesma para esgotar toda sua preocupação em procurar agradar-te mais e em conhecer em que coisas e por quais caminhos pode mostrar-te o amor que te tem. Ó Senhor, ensinas-me que este é o fim da oração e para isto tende a união contigo: a produzir obras e mais obras.
+«Meu Deus, como deve ser desprezado o próprio descanso da alma que vive profundamente unida a ti! Como não deve cuidar da honra! Como deve estar longe de desejar ser estimada em alguma coisa! Sim, se ela se entretém muitas vezes contigo, como convém, acaba esquecendo-se de si mesma para esgotar toda sua preocupação em procurar agradar-te mais e em conhecer em que coisas e por quais caminhos pode mostrar-te o amor que te tem. Ó Senhor, ensinas-me que este é o fim da oração e para isto tende a união contigo: a produzir obras e mais obras.
 
-"Se eu fixar o olhar em ti, divino Crucificado, tudo me ficará fácil. Se Tu me mostraste teu amor com obras tão grandes e com tão espantosos tormentos, por que eu quereria contentar-me só com palavras? Oh, faze que eu saiba dar-me a ti como tua escrava, de tal modo que, marcada com teu ferro, o da Cruz, Tu me possas vender por escrava de todo o mundo! Eis o que quer dizer ser verdadeiramente espiritual.
+«Se eu fixar o olhar em ti, divino Crucificado, tudo me ficará fácil. Se Tu me mostraste teu amor com obras tão grandes e com tão espantosos tormentos, por que eu quereria contentar-me só com palavras? Oh, faze que eu saiba dar-me a ti como tua escrava, de tal modo que, marcada com teu ferro, o da Cruz, Tu me possas vender por escrava de todo o mundo! Eis o que quer dizer ser verdadeiramente espiritual.
 
-"Unida a ti, Forte divino, participarei da tua fortaleza, do modo como dela participaram os santos, para trabalhar com grande zelo por tua glória, para trabalhar e morrer por ti, para ganhar-te muitas almas" *(cf. T.G.M.* VII, 4, 5-10).
+«Unida a ti, Forte divino, participarei da tua fortaleza, do modo como dela participaram os santos, para trabalhar com grande zelo por tua glória, para trabalhar e morrer por ti, para ganhar-te muitas almas» *(cf. T.G.M.* VII, 4, 5-10).

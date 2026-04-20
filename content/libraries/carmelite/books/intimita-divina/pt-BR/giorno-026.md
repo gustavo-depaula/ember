@@ -1,13 +1,11 @@
 ## 26 — O MISTÉRIO DA ENCARNAÇÃO
 *22 dezembro*
 
-### Presença de Deus
-
-— Ponho-me na presença de Jesus com o vivo desejo de penetrar naquele infinito mistério de amor divino que levou Ele, Deus, a fazer-se "um de nós".
+**Presença de Deus.** — *Ponho-me na presença de Jesus com o vivo desejo de penetrar naquele infinito mistério de amor divino que levou Ele, Deus, a fazer-se "um de nós".*
 
 ### Meditação
 
-1 — Deus é caridade: tudo o que opera em si e fora de
+**1** — Deus é caridade: tudo o que opera em si e fora de
 si é obra de amor. Sendo o Bem infinito, Ele não pode
 amar nada fora de si movido, como nós o somos,
 pelo desejo de aumentar a sua felicidade: em si tem tudo.
@@ -32,7 +30,7 @@ ao homem a vida natural, depois de tê-lo destinado à vida
 sobrenatural, que mais podia dar-lhe senão dar-lhe
 a si mesmo, o seu Verbo feito carne para a sua salvação?
 
-2 — Deus é caridade, e não causa portanto admiração se a
+**2** — Deus é caridade, e não causa portanto admiração se a
 história da sua ação em favor do homem é todo um poema
 de amor, e de amor misericordioso. O primeiro canto deste poema era a nossa destinação eterna à visão e
 à fruição da vida íntima de Deus. O segundo canto

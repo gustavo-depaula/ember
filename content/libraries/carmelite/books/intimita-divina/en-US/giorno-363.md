@@ -1,103 +1,33 @@
-## 41 — EPIPHANY
-*January 6*
+## 41 — THE MUSTARD SEED
 
-### Presence of God
+*24th Sunday after Pentecost — 6th after Epiphany*
 
-— O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.
+**Presence of God.** — *O Lord, may Your kingdom come upon all the earth; may Your kingdom come into my heart.*
 
 ### Meditation
 
-1 — "Today the world has recognized Him whom the
-Virgin brought forth... today shines the feast of
-His manifestation" (BR.). Today Jesus manifests Himself to the
-world as God.
+**1** — From the texts of today's Mass emerges the parable of the mustard seed, so brief, but so rich in meaning: "The kingdom of heaven is like a grain of mustard seed which a man took and sowed in his field; it is the smallest of all seeds, but when it has grown it is the greatest of all plants and becomes a tree, so that the birds of the air come and make nests in its branches" *(Gosp.: Mt. 13, 31-35)*. Nothing more small and humble than the "kingdom of heaven," that is, the Church at its origins: Jesus, who is its Head and founder, is born in a cave of animals, lives for thirty years in the little shop of a carpenter and for only three years carries out His work among poor people preaching a doctrine so simple that all, even the illiterate, can understand it. When Jesus leaves the earth, the Church is constituted by a small group of twelve men, gathered around a humble woman, Mary; but this first nucleus has a vital force so great, so powerful that in a few years it spreads throughout all the lands of the vast Roman empire. Gradually through the centuries, the Church, from a tiny mustard seed sown in the heart of a Virgin-Mother and of poor fishermen, becomes a gigantic tree that extends its branches to every region of the globe and in whose shadow take refuge peoples of every language and of every nation.
 
-The Introit of the Mass introduces us directly into this spirit, presenting Jesus in the royal majesty of
-His Divinity: "Behold the sovereign Lord has come: He
-holds in His hands the scepter, the power and the empire."
-The Epistle (Is. 60, 1-6) bursts into a hymn of joy announcing the vocation of the Gentiles to faith; they too will recognize and adore in Jesus their God: "Arise,
-shine, O Jerusalem, for your light has come... And the nations shall walk in your light and kings in the splendor that shall arise from you... All those of Sheba shall come bearing
-gold and incense and proclaiming the praises of the Lord." Around
-the manger no longer the humble scene of shepherds, but the sumptuous cortege
-of the Magi from the East, come as representatives
-of pagan peoples and of all kings of the earth to render
-homage to the Child-God.
+The Church is not a society of men alone, but of men who have for head Jesus, the Son of God; the Church is the total Christ, that is, Jesus plus His faithful incorporated into Him and forming with Him a single body; the Church is the Mystical Body of Christ of which every baptized person is a member. To love the Church is to love Jesus; to work for the diffusion of the Church is to work for the increase of the Mystical Body of Christ, that the number of its members may be complete and every member may cooperate in its splendor. The brief invocation: "*adveniat regnum tuum*," indicates all this and solicits all this from the heavenly Father.
 
-Epiphany (or Theophany) means "appearance of God";
-and this appearance of God we see realized in Jesus,
-who today manifests Himself to the world as its God and Lord.
-A first prodigy had already revealed His divinity:
-the extraordinary star that appeared in the East; but recalling this
-miracle, which in today's liturgy occupies first place,
-the Church adds briefly two others: the water turned
-into wine at Cana's wedding, and Jesus' baptism in the
-Jordan, while from heaven a voice attests: this is my
+Is it little what we can do for the diffusion of the Church? Let us do it at least with all our heart, let us cooperate also with our poor work, true mustard seed, in the development of this marvelous tree, in whose shadow all men must find salvation and rest.
 
-beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the Magnificat antiphon;
-three miracles that should dispose us to recognize and adore, with living faith, in the Child Jesus our God,
+**2** — The parable of the mustard seed makes us think not only of the development of the kingdom of God in the world, but also of the development of this kingdom in our heart. Did Jesus not perhaps say: "The kingdom of God is within you"? *(Lk. 17, 21)*. Well, even in us this marvelous kingdom had its beginnings from a very small seed, the seed of grace: sanctifying grace that, in a hidden and mysterious way, God sowed in us in holy baptism; actual grace of good inspirations, of the divine word — "*semen est verbum Dei*" *(Lk. 8, 11)* — that Jesus, heavenly Sower, has scattered with full hands in our souls. Little by little this small seed has sprouted, has put roots ever deeper, has grown penetrating progressively our whole spirit, until it has conquered us entirely for God, until we have felt the need to say: Lord, all that I have and that I am be Yours; I give myself entirely to You. I wish to be *Your kingdom.*
 
-our King.
+To be totally *kingdom of God* in such a way that He be the sole Sovereign and Dominator of our heart and nothing exist in us that does not belong to Him or is not subject to His empire, is the ideal of the soul that loves God with total love. But, how to arrive at the full development of this kingdom of God in us? The second parable that we read today tells us: "The kingdom of heaven is like leaven which a woman took and mixed in three measures of meal, until the whole was leavened." Behold another most beautiful image of the work that grace must accomplish in our soul: grace has been placed in us as leaven that little by little must grow until it permeates our whole personality and divinizes it entirely. Grace, divine leaven, has been given us that it may heal, elevate, sanctify our being with all its powers and faculties; only when it will have led to term this work shall we be entirely *kingdom of God.*
 
-2 — "We have seen His star in the East and have
-come with gifts to adore the Lord"; thus in the verses
-of today's Mass the conduct of the Magi is summarized.
-Seeing the star and setting out were one and the same.
-They did not doubt: their faith was firm, sure, whole.
-They did not waver before the toils
-of the long journey: their heart was generous. They did not
-postpone to another time: their spirit was ready.
+Let us reflect once more on the great problem of our correspondence to grace. This divine seed, this supernatural leaven is in us; who will be able to prevent it from becoming a gigantic tree capable of giving refuge to other souls, who will be able to prevent it from fermenting the whole mass, if we remove all the obstacles that oppose its development, if we second its impulses and its exigencies?
 
-Even in the sky of our soul many times a
-star appears: it is God's intimate, clear inspiration that invites us
-to a generous act, to detachment, to a life of more intimate union with Him. We should always know how to follow
-our star with the faith, trust, and promptness of the
-Magi; followed thus, it will undoubtedly lead us
-to the Lord, it will make us find Him whom we seek.
-
-The Magi persevered in their search even
-when the star disappeared from their sight; so we too must persevere in good even amid interior darkness:
-it is the trial of faith, overcome only by intense exercise
-of pure, naked faith. I know God wills it, I know
-God calls me, and this is enough for me: Scio cui credidi et certus sum (2 Tim. 1, 12); I know in whom I have believed,
-and whatever happens I cannot doubt Him.
-
-With these dispositions let us go with the Magi to the manger.
-"And, as they with their treasures offered mystical gifts to the Lord, so may we too know how to draw from our hearts
-gifts worthy of God" (BR.).
+"*Adveniat regnum tuum!*" Yes, let us invoke the total advent of the kingdom of God also in our hearts.
 
 ### Colloquy
 
-"O Jesus, I adore You, for You are my Lord God...
-You are a great God and King of all kings. In Your hands
+"Lord God my, who created me to Your image and likeness, grant me this grace which You showed me to be so great and necessary, that I may overcome the very bad nature, which draws to faults and to perdition. Since I feel in my flesh the tendency to sin, which contradicts the laws of the Spirit and leads me as a slave to obey in many things the senses; nor can I resist the passions if Your most holy grace does not assist me, O Lord, infusing itself with its ardors into my heart.
 
-are all the ends of the earth and You behold the heights
-of the mountains. Yours is the sea and You are He who made it, and on Your hands the earth is founded... And we are Your people
-and the sheep of Your hand" (cf. Ps. 94). Yes, O Jesus,
-I am one of Your little sheep, one of Your creatures,
-and I rejoice in acknowledging my nothingness before You.
-But I rejoice still more in recognizing and adoring in You, most lovable Child,
-my God and my Creator. How I wish all peoples
-might recognize You for who You are, that all might prostrate themselves before You, adoring You as their God and Lord.
+"O Lord, without grace, I can do nothing, while if it helps and comforts me, I can do all things.
 
-O Lord, You can do it: show all Your Divinity;
-and, as one day You led to Yourself the Magi of the East,
-so now gather around Your manger all peoples, all
-nations.
+"O grace truly celestial, without which we have no merits, without which all the gifts of nature are to be esteemed nothing! O most holy grace, which makes the poor in spirit rich in virtue, which makes him humble of heart who is provided with many goods, come, descend into me, fill me today with celestial consolation, that my soul may not fall through weariness and aridity of spirit.
 
-But You make me understand that You want my poor
-collaboration for the coming of Your kingdom: You want
-me to pray, suffer, and work for the conversion of near and distant souls.
-You want me too to bring to Your manger the gifts of the
-Magi: the incense of prayer, the myrrh of mortification and of suffering generously embraced for
-love of You, the gold of charity; charity that makes my heart
-wholly and exclusively Yours; charity that urges me to work, to give myself for the conversion of sinners, of unbelievers,
-for the greater sanctification of Your elect.
+"I pray You, Lord, that I may find grace before You: if even I shall not obtain what nature desires, 'Your grace will be enough for me.' Having it, I shall fear no evil, when I shall be tempted and anguished by many tribulations. It is my strength, it gives me help and counsel, is more powerful than any enemy, more wise than any sage.
 
-O my sweetest King, create in me the heart of an apostle.
-How I would like today to bring to Your feet the praises and sincere adorations of all the people of the earth!
-
-But, O Jesus, while I pray You to manifest Yourself to the world,
-I also pray You to manifest Yourself ever more to my poor soul. Grant that today Your star may also shine for me and indicate the way that leads to You; grant that today it may also be for me
-a true Epiphany, that is, a new manifestation of You to my mind and to my heart. The more one knows You, the more one loves You,
-O Lord; and I desire to know You solely in order to love You,
-to give myself to You with ever-growing generosity.
+"'Your grace, my God, prevent me and accompany me always, make me always intent on good works, through Jesus Christ Your Son.' So be it" *(Imit. III, 55)*.

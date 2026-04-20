@@ -1,12 +1,10 @@
 ## 321 — BEM-AVENTURADOS OS PACÍFICOS
 
-### Presença de Deus
-
-Ó Espírito Santo, ajuda-me a estabelecer meu coração na paz.
+**Presença de Deus.** — *Ó Espírito Santo, ajuda-me a estabelecer meu coração na paz.*
 
 ### Meditação
 
-1. — A alma que, sob o influxo do dom da sabedoria, saboreou Deus olha o mundo com os olhos cheios dele e justamente assim se torna capaz de julgar todas as coisas *secundum rationes divinas* (II-II, q. 45, a. 3), segundo as razões divinas, segundo os motivos sobrenaturais e não segundo as curtas razões humanas.
+**1** — A alma que, sob o influxo do dom da sabedoria, saboreou Deus olha o mundo com os olhos cheios dele e justamente assim se torna capaz de julgar todas as coisas *secundum rationes divinas* (II-II, q. 45, a. 3), segundo as razões divinas, segundo os motivos sobrenaturais e não segundo as curtas razões humanas.
 
 Estes são os verdadeiros juízos «sábios», aos quais nunca poderíamos chegar sem a ajuda do Espírito Santo. De fato, «o homem animal [o homem dos sentidos e da pura razão] não entende as coisas do Espírito de Deus; para ele são loucura e não as pode compreender... ao contrário, o homem espiritual [o homem da fé guiado pelo Espírito Santo] julga tudo» (1Cor. 2, 14-15).
 
@@ -18,7 +16,7 @@ Só quem vive sob o influxo deste dom pode verdadeiramente julgar e ordenar tudo
 
 Justamente assim o dom da sabedoria confere nota de suavidade não só à oração, mas também à vida prática: «sob o influxo deste dom — diz São Tomás — a amargura muda-se em doçura, a fadiga em repouso» (II-II, q. 45, a. 3).
 
-2. — O dom da sabedoria conduz-nos à paz: paz interior da alma que, tendo saboreado Deus, se entrega a ele sem reserva alguma, totalmente rendida à sua vontade divina; paz serena de quem, vendo Deus em tudo, aceita sem perturbar-se as adversidades da vida, adorando nelas as disposições divinas; e também paz social de quem, considerando os homens em relação a Deus, como criaturas e filhos seus, ama a todos e quer viver em paz com todos.
+**2** — O dom da sabedoria conduz-nos à paz: paz interior da alma que, tendo saboreado Deus, se entrega a ele sem reserva alguma, totalmente rendida à sua vontade divina; paz serena de quem, vendo Deus em tudo, aceita sem perturbar-se as adversidades da vida, adorando nelas as disposições divinas; e também paz social de quem, considerando os homens em relação a Deus, como criaturas e filhos seus, ama a todos e quer viver em paz com todos.
 
 Quanto mais perfeita for essa paz, mais nos conduzirá a saborear o prêmio prometido por Jesus: «Bem-aventurados os pacíficos, porque serão chamados filhos de Deus» (Mt. 5, 9).
 

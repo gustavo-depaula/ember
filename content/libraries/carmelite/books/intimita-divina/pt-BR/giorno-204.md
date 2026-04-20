@@ -1,9 +1,8 @@
-## 204 — O CONVITE AO BANQUETE
+## IV — O CONVITE AO BANQUETE
+
 *Domingo dentro da oitava de Corpus Domini*
 
-### Presença de Deus
-
-Ó Jesus, concede-me responder sempre ao teu convite e participar dignamente do teu banquete.
+**Presença de Deus.** — *Ó Jesus, concede-me responder sempre ao teu convite e participar dignamente do teu banquete.*
 
 ### Meditação
 

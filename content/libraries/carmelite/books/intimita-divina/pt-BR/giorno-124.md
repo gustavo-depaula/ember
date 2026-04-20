@@ -1,123 +1,25 @@
-## 120 — LIVRE IMOLAÇÃO DA LIBERDADE
+## 48 — OBEDIÊNCIA CEGA
 
-### Presença de Deus
+**Presença de Deus.** — Ó Jesus, que por amor meu quiseste submeter-te às tuas criaturas, ensina-me a obedecer sem querer saber mais nada.
 
 ### Meditação
 
-1 — O voto de obediência foi otimamente definido como
-"a livre imolação da liberdade" (Pio XII, Congr.
-Relig. dez. 1950). Esta definição põe em evidência o
-conceito de imolação livre, e isso, muito mais que uma
-passividade inerte, faz pensar numa intensa e nobre atividade
-que consiste na renúncia voluntária do próprio querer,
-para submeter-se voluntariamente à vontade de Deus,
-expressa nas ordens dos superiores. Estamos, portanto, bem
-longe do conceito de uma obediência mecânica, material,
-ou então forçada, sofrida necessariamente, pela qual
-o homem age como uma máquina ou como um servo que
-se submete ao patrão só porque não pode fazer de outro
-modo. Aqui há somente o nome e a aparência externa da obediência,
-mas na realidade falta-lhe o conteúdo interior:
-o ato formal, que consiste precisamente na renúncia livre e portanto consciente da própria vontade, para
-aderir à vontade de Deus manifestada pelas ordens do
-superior. Somente em virtude desse duplo elemento:
-livre renúncia de si e livre adesão à vontade divina,
-a obediência é um perfeito holocausto, tão agradável e precioso aos olhos de Deus, a ponto de valer "muito mais
-que as vítimas" (1 Sm. 15, 22). Se falta esse
-duplo elemento interior, o ato externo de obediência
-poderá bastar para não faltar ao voto ou à
-promessa feita, mas perde seu profundo valor e jamais será meio para desprender o homem de sua vontade e
-lançá-lo na vontade de Deus.
+**1** — Quando no superior se vê Deus, obedece-se sem discussões, sem inúteis raciocínios, sem demoras: "*Christus jubet, sufficit*", Cristo manda, isto me basta. Com efeito, que coisa irei ainda buscando, quando sei que as ordens de meus superiores são as ordens do próprio Deus? Mesmo que a coisa mandada seja para mim difícil e gravosa, o saber com certeza que é exatamente o Senhor que a quer de mim, me dará a força de empreendê-la com prontidão, sem opor a mínima resistência.
 
-Quando te contentas com uma obediência material, forçada, não cumpres o ato interno de renúncia de ti mesmo; ainda
-que exteriormente te conformes à ordem recebida,
-interiormente, porém, reservas tua vontade; não podes
-portanto dizer que realizaste a imolação da liberdade
-nem tampouco que abraçaste livremente a vontade
-divina. Uma semelhante obediência é um contrassenso para
-uma alma que aspira à união com Deus; é pretender
-chegar ao fim sem usar os meios, é trocar a
-moeda preciosa da verdadeira obediência por uma vil moeda de estanho. S. Teresa de Jesus ensina: "a obediência
-é o caminho mais breve e o meio mais eficaz para chegar
-ao felicíssimo estado da união com Deus" (Fd. 5, 11); trata-
-se unicamente, porém, daquela obediência que é "livre imolação da liberdade", para não querer outra
-liberdade senão a de fazer a vontade de Deus.
+Pode haver certamente alguns casos em que haja um motivo razoável para pensar que uma dada ordem tenha sido imposta sem levar em conta elementos que, se negligenciados, poderiam trazer consequências penosas para o próprio superior; e então é bom, e até pode ser deveroso, fazê-lo notar. Assim também não há nenhuma imperfeição em pedir explicações quando a ordem não nos parece clara ou nos põe em sério embaraço; mas é preciso fazê-lo com humildade, sem insistência e sempre dispostos a submeter-se à decisão do superior. Pelo resto, porém, é preciso ser firme em não querer raciocinar, em não querer discutir sobre as ordens recebidas, em não querer indagar os motivos que podem ter levado o superior a dar uma determinada ordem. Se nos pomos a raciocinar sobre a obediência, criaremos obstáculos a obedecer; é preciso, pois, saber troncar logo todo raciocínio, também interno, fazendo dele um belo sacrifício ao Senhor. Pior ainda seria comunicar nossos raciocínios aos outros, criticar as disposições dos superiores, etc.; desse modo se criariam obstáculos também à obediência alheia.
 
-2 — Uma "livre imolação" exige sempre consciência,
-consciência por parte de quem a cumpre; assim deve ser
-do ato de obediência. Se fizeste o voto ou a promessa de obediência, deves procurar manter sempre
-vivo em ti o senso de responsabilidade pelo compromisso assumido.
+Se queres dar toda a tua personalidade ao Senhor, deves renunciar totalmente ao teu modo de ver que, por mais bom que possa ser, será sempre infinitamente inferior ao de Deus, e Deus te faz agir segundo suas vistas, precisamente por meio de seus superiores.
 
-Ao pronunciares tua profissão, quiseste oferecer tua
-vontade em holocausto ao Senhor, para deixares-te guiar
-por quem o representa; por isso, diante das várias ordens
-da obediência - e sobretudo diante daquelas que
-mais contrastam com tuas vistas ou que por qualquer
-motivo te são mais gravosas - deves vigiar para que não
-te aconteça retomares, na prática, aquilo que ofereceste
-com voto, o que seria cometer uma rapina no holocausto. Tua vontade já foi consagrada,
-sacrificada no altar do Senhor; não é mais tua,
-portanto já não és livre para retomá-la.
-Deves, ao contrário, usar tua
-liberdade para viver, para realizar dia por dia tua
-oferta, isto é, para renovar continuamente, diante de
-cada disposição da obediência, a imolação da tua
-liberdade. Bendita obediência que te permite realizar teu holocausto! "Se não consagrásseis assim vossa
-vontade ao Senhor - escrevia Teresa de Jesus às suas
-filhas - assemelhar-vos-íeis a alguém que mostra a outro
-uma pérola preciosa, lha oferece, pede que a aceite,
-e quando ele estende a mão para tomá-la, retira
-a oferta e a esconde bem" (Can. 32, 7). Isso infelizmente
-é sempre possível também a ti; de fato, embora tenhas
-sacrificado com voto tua vontade, ela permanece ainda
-em tuas mãos e depende da tua própria vontade manter fé ao voto feito. É, portanto, necessário que sejas
-bem decidido a vencer tuas repugnâncias para abraçar
-o querer de Deus expresso nas ordens dos superiores.
+**2** — Dizer que o superior nos manifesta a vontade de Deus, não quer dizer que tudo aquilo que ele pensa, diz, quer, o pense, o diga, o queira também Deus. Certamente não. Mas apenas que, quando o superior, enquanto tal, dá uma ordem legítima, essa ordem é seguramente a manifestação da vontade de Deus. A obediência cega é precisamente aquela que, ultrapassando todo juízo ou parecer pessoal, adere às ordens dos superiores, unicamente porque neles reconhece o querer divino. É *cega* porque cega o intelecto, não permitindo-lhe levar em conta do próprio juízo, de examinar os motivos do superior, de discutir sobre o mando recebido; é *cega* porque se funda unicamente num motivo de fé, pois exatamente por fé sabemos que a vontade de Deus nos chega através dos superiores. E, sendo a fé uma conhecimento "oscuro", pode-se dizer que a obediência é da condição e como tal é "privada de luz natural" e portanto cega; em outros termos, é uma obediência que não se baseia na razoabilidade dos motivos humanos, mas neste único motivo de fé: quem ouve os superiores, ouve Deus. "Quem vos ouve, a mim ouve" (Lc. 10, 16).
 
-"A obediência é o peso dos fortes" (Pio XII, aos Carm.
-Descalços, set. 1952), justamente porque requer a força de renunciar a si mesmo; mas esse peso, isto é, essa renún-
-cia, é suave para a alma enamorada da vontade de Deus,
-que justamente em seu amor encontrará sempre a força
-de renegar-se.
+Nos casos em que o parecer do súdito seja melhor que o do superior, a obediência cega não consiste em renegar o próprio juízo até afirmar o contrário — coisa que não seria conforme à verdade — mas simplesmente em renunciar a regular-se segundo o próprio parecer e em julgar que é preciso *igualmente obedecer*, porque é certo que Deus quer de nós aquilo que o superior ordenou e não aquilo que a nós parece, e talvez até é, melhor.
+
+Quem, com o pretexto do mais perfeito, sai do caminho da obediência, deixa a via segura da vontade de Deus pela via perigosa e cheia de insídias da própria vontade; e é coisa que uma alma consagrada não pode fazer nada de grado a Deus fora da santa obediência. "As ações do religioso — diz S. João da Cruz — não são suas, mas da obediência, e se a esta as subtrai, lhe será pedido conto como de ações perdidas" (Ct. 11).
 
 ### Colóquio
 
-Ó Senhor, que ideal maior e mais belo do que
-chegar a conformar totalmente minha vontade à tua,
-de tal modo que não mais a minha, mas só a tua vontade me sustente,
-me guie, me governe em todos os meus movimentos, em todas
-as minhas ações?
+"Ó Senhor, como são diversas tuas vias de nossas grosseiras imaginações! Como é verdade que de uma alma já resolvida a amar-te é toda remetida em tuas mãos, Tu não queres outra coisa senão que obedeça, de nada mais desejosa que de buscar quanto pode contribuir para tua maior glória! Sendo sua vontade a tua, não tem necessidade de buscar nem de escolher outro caminho, porque este cuidado, Senhor, o tomas Tu mesmo e guias a alma pelo caminho que lhe é mais vantajoso. Mas se o superior não tivesse a coração nosso proveito espiritual... Tu, ó meu Deus, aí proverias igualmente, dispondo de tal modo as almas e nossas ocupações de encontrar-nos depois, sem saber o modo, tão avançados no espírito e com tanto proveito de ficar maravilhados" (T.G. Fd. 5, 6).
 
-Oh, quão sublime é o estado de perfeita conformidade à
-tua vontade divina! E Tu mais uma vez me repetes que
-para adquirir este tesouro não há meio melhor
-do que cavar na mina da obediência e extraí-lo
-à viva força. Quanto mais cavarei, mais encontrarei;
-quanto mais me sujeitarei aos homens por amor teu,
-não querendo outra vontade
-que a dos superiores, tanto mais me tornarei senhor da minha
-para conformá-la à tua. Esta é a verdadeira união com
-teu, meu Deus, esta é a união que desejo, não
-aquelas suspensões muito deleitosas às quais se dá o nome
-de união, e que união não são, senão quando são
-precedidas por esta. Tu me fazes compreender bem que,
-se eu tiver pouca obediência e muita vontade minha, a união
-não será com tua vontade, mas com meu amor-próprio.
-Praza-te, ó Senhor, que eu ponha em prática quanto
-me dás graça de compreender" (cf. T.G. Fd. 5, 13).
+"De quantas inquietações não se está jamais liberado, bom Deus, pronunciando o voto de obediência!... Não tendo por bússola senão a vontade dos superiores, serei jamais segura de proceder pelo reto caminho sem temer errar, nem mesmo quando a meus olhos parece certamente que os superiores se enganam. Mas apenas cesso de consultar a infalível bússola, logo minha alma se extravia nos mais áridos caminhos, onde logo a água da graça vem a faltar. Ó Jesus, a obediência é a bússola que Tu me deste para conduzir-me com segurança à margem imortal; e quanto me é doce pousar sobre ela meu olhar e cumprir, depois, tua vontade!" (T.B.G. St. 9).
 
-Ó Senhor, Tu bem o sabes, à minha vontade não agrada
-submeter-se, não agrada renunciar a si mesma para sujeitar-
-se ao querer alheio; há em mim um forte amor à
-liberdade, à independência, que me inclina a buscar mil
-e mil caminhos para fugir à necessidade de depender.
-
-Mas Tu também sabes que nenhuma coisa no mundo amo, busco,
-desejo como tua vontade. E para viver na tua
-vontade, para ter a certeza e a alegria de agir em
-tudo segundo teu querer divino, estou pronto, com
-teu auxílio, a fazer qualquer sacrifício, a imolar até o
-fundo minha liberdade. Ó Senhor, aumenta meu amor
-por tua santa vontade, acende em mim a paixão da
-tua vontade, e então crescerá em mim o amor à obediência,
-canal de ouro através do qual me chega o tesouro preciosíssimo da tua vontade.
+Ó Senhor, quero dar-me à obediência com uma confiança inabalável em teu governo divino que tudo rege, guia e volge de modo infalível para o bem de minha alma. Quero dar-me à obediência sem a mínima hesitação; ligando-me a ela me ligo a ti, me ligo à tua vontade.

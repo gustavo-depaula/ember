@@ -1,8 +1,6 @@
-## 2 — CONVITE À SANTIDADE
+## II — CONVITE À SANTIDADE
 
-### Presença de Deus
-
-Coloco-me na presença de Jesus Sacramentado, considerando-o o Redentor e Santificador da minha alma.
+**Presença de Deus.** — *Coloco-me na presença de Jesus Sacramentado, considerando-o o Redentor e Santificador da minha alma.*
 
 ### Meditação
 

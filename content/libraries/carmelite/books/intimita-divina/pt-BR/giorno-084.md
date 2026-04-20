@@ -1,4 +1,4 @@
-## 84 — A SEMENTE DIVINA
+## VIII — A SEMENTE DIVINA
 *domingo da Sexagésima*
 
 ### Presença de Deus

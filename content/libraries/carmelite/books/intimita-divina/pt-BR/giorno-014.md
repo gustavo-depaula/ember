@@ -1,8 +1,6 @@
-## 14 — A VIRGEM DA ENCARNAÇÃO
+## XIV — A VIRGEM DA ENCARNAÇÃO
 
-### Presença de Deus
-
-Aproximo-me de ti, Virgem Maria, com vivo desejo de penetrar no mistério da tua vida interior, para que sejas para mim luz e modelo.
+**Presença de Deus.** — *Aproximo-me de ti, Virgem Maria, com vivo desejo de penetrar no mistério da tua vida interior, para que sejas para mim luz e modelo.*
 
 ### Meditação
 

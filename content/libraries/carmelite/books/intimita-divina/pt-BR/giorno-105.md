@@ -1,4 +1,4 @@
-## 103 — A TRANSFIGURAÇÃO
+## XXIX — A TRANSFIGURAÇÃO
 *II domingo da Quaresma*
 
 ### Presença de Deus

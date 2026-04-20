@@ -1,12 +1,18 @@
-## 93 — AS CINZAS
+## XVII — COM JESUS CRUCIFICADO
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, ponho-me aos pés da tua Cruz, para que Tu me faças compreender quanto é necessário padecer para tornar-me semelhante a ti.*
 
-— Ponho-me na tua presença, ó Senhor, para que tua luz me ilumine sobre as verdades eternas e desperte em mim sinceros desejos de conversão.
+**Meditação**
 
-### Meditação
+**1** — Para a alma que aspira à união com Deus, a penitência não é só um meio para sujeitar a carne ao espírito, mas é também um meio para assimilar-se a Cristo crucificado, para reproduzir e prolongar no próprio corpo a sua Paixão. «O amor produz igualdade e semelhança» (G.C. S.I, 4, 4): quem ama verdadeiramente, deseja espontaneamente participar dos sofrimentos da pessoa amada; assim acontece aos verdadeiros amantes do Crucificado. S. Maria Madalena de' Pazzi exclamava: «Sob uma cabeça coroada de espinhos e crucificada não convém um membro delicado, e junto a um esposo padecente não convém uma esposa imortificada». Para uma esposa é uma honra poder dividir em tudo a vida do seu esposo; para uma alma consagrada a Deus é uma honra poder dividir, ao menos em pequena parte, a paixão de Cristo e disso se gloria: «Quanto a mim, longe esteja de mim gloriar-me em outra coisa senão na Cruz de nosso Senhor Jesus Cristo, pela qual o mundo foi para mim crucificado, e eu para o mundo» (Gal. 6, 14).
 
-1 — "És pó e ao pó tornarás" (Gen. 3, 19).
+Se a mortificação do espírito é certamente mais importante que a do corpo, não se deve esquecer que Jesus para salvar o mundo quis abraçar ambas, e do modo mais completo. Toda a sua vida foi cruz e martírio, e concluiu-se com o sacrifício do Calvário onde a imolação, espiritual e física, chegou ao máximo. «No que diz respeito à mortificação da sensibilidade — diz S. João da Cruz — certo é que Ele morreu rispetto à parte sensitiva, espiritualmente em toda a sua vida, e naturalmente na hora da sua morte; pois em vida... não teve onde repousar a cabeça e muito menos na morte... Por isso — conclui o Santo — qualquer espírito que quisesse ir por via de doçuras e de comodidades e refugisse da imitação de Cristo, eu não o teria por bom» (S. II, 7, 10 e 18).
+
+**2** — S. Teresa Margarida do Coração de Jesus escreveu: «Lembra-te que, entrando na religião, pretendeste exprimir em ti a vida do Crucifixo» (Sp. p. 127). Exprimir a vida do Crucifixo significa viver a sua Paixão, associar-se aos seus sofrimentos com as mesmas suas intenções: a glória do Pai, a salvação das almas. «Completo na minha carne o que falta das sofrimentos de Cristo, a favor do corpo seu que é a Igreja» (Col. 1, 24). Eis outro motivo que impeliu os Santos a uma generosa mortificação corporal. Nada falta à Paixão de Cristo: tudo «está consumado» (Jo. 19, 30), disse Ele mesmo na Cruz; tudo está cumprido n'ele, nosso Cabeça, mas deve cumprir-se ainda em nós, seus membros. Jesus quer continuar em nós a sua Paixão para associar-nos à sua obra redentora, para fazer-nos seus colaboradores na mais sublime das suas obras: a salvação das almas. Jesus, que podia fazer tudo sozinho, quis ter necessidade de nós, para aplicar os méritos infinitos da sua Paixão a tantas almas.
+
+A mortificação, o sofrimento também físico é, portanto, uma exigência da vida de união com Cristo, e quanto mais será generosa, tanto mais a alma participará intimamente da vida interior e da obra apostólica de Jesus. Não se pode ser íntimo de Cristo, se não se sofre com ele, se não se sobe com ele na Cruz. «Baste-te Cristo crucificado e com ele sofre e repousa» (G.C. AM. II, 13).
+
+O sofrimento tem um valor sobrenatural só quando se sofre com Cristo e por Cristo: é Jesus que santifica a dor; longe dele a dor não vale nada, não serve para nada. Mas, abraçada por amor seu, torna-se moeda preciosa, capaz de redimir, de santificar as almas, torna-se prolongamento da sua Paixão.
 Estas palavras, pronunciadas pela primeira vez por Deus e
 dirigidas a Adão em consequência do pecado cometido,
 
@@ -88,47 +94,10 @@ próprio.
 
 
 
-### Colóquio
+**Colóquio**
 
-"Ó Jesus, como é longa a vida do homem, embora se
-diga que é breve! Breve, meu Deus, para com ela
-ganhar a vida que não tem fim, mas longuíssima para
-a alma que deseja ver-se logo contigo.
+«Ó paixão desejada! E quem é aquele que te deseja e te ama e se gloria de ti? Ó Verdade eterna, Tu me dizes que não é desejada, nem amada de quem ama a si mesmo, mas de quem se despojou de si e se vestiu de ti, Cristo crucificado, e com a luz tua descobre na cruz a altura da tua caridade. Ó prazenteira e tranquila paixão, que com tranquilidade de paz fazes correr a alma sobre as ondas do mar tempestuoso. Ó deleitável e muito doce paixão! Ó riqueza da alma, ó verdadeira alegria, ó glória e bem-aventurança nossa, a alma que se gloria em ti adquire o fruto teu. Ó Verbo, a alma que se refugiou na tua Paixão, está morta quanto à sensualidade e por isso gosta o afeto da tua caridade.
 
-"Minha alma, quando te abismares no sumo Bem
-e conheceres como Ele conhece, amarás aquilo que
+«Ó meu Deus, amor meu, uma coisa te peço: no tempo em que o mundo jazia como enfermo, Tu lhe mandaste teu unigênito Filho como médico... e agora qual meio usarás para ressuscitar um outro mundo que novamente jaz na morte?... Eis, eu vejo que Tu chamas Cristos a teus servos e por meio deles queres tirar a morte e dar a vida ao mundo. E de que modo? É necessário que eles caminhem virilmente pela via do Verbo, com solicitude e afoitado desejo, procurando a tua honra e a salvação das almas; e para isso devem sustentar pacientemente penas, tormentos, opróbrios, reproches... Ó Remediador ótimo, dá pois a nós destes Cristos, os quais vivam continuamente em vigílias, em lágrimas, em oração pela salvação do mundo» (S. Catarina de Siena).
 
-
-Ele ama e gozarás aquilo que Ele goza; então entrarás no
-teu repouso: tua vontade perderá sua inconstância e
-não estará mais sujeita a mudanças... e gozarás sempre
-dele e do seu amor... Bem-aventurados os que estão escritos no
-livro desta vida! Se o estás, por que então, minha alma,
-te entristeces e me perturbas? Espera em Deus,
-a quem de novo confessarei meus pecados e proclamarei suas
-misericórdias. Compor-lhe-ei um cântico de louvores para elevá-lo,
-com incessantes suspiros, a ti, meu Salvador e meu Deus. E bem
-pode ser que um dia te cante minha glória,
-sem que minha consciência experimente nela a amargura
-da compunção, naquela morada onde lágrimas e temores
-terão cessado para sempre... Ó Senhor, amo mais
-viver e morrer na esperança e no esforço pela aquisição
-da vida eterna do que possuir todas as criaturas com seus
-bens fugazes. Não me abandones, ó Senhor! Eu espero em
-ti e minha esperança não será confundida. Dá-me sempre
-servir-te, e faze de mim o que quiseres!" (T.G. Es. 15, 1; 17,
-5-6).
-
-Se o pensamento das minhas infidelidades me assusta,
-lembrar-me-ei, ó Senhor, que "logo que nos arrependemos de te
-haver ofendido, Tu esqueces todo nosso pecado e malícia. Ó
-bondade verdadeiramente infinita! Que se pode querer mais? Quem
-não coraria de pedir-te tanto? Este é o momento de aproveitar,
-aceitando quanto Tu, piedoso Senhor
-
-
-Deus meu, nos ofereces. Tu queres nossa amizade. Quem
-ta recusará, quando Tu não recusaste derramar
-todo teu Sangue por nós, sacrificando tua vida? É
-um nada o quanto pedes! Ouvir-te é de sumo
-interesse nosso" (ibid., 14, 3).
+Tu o conheces, ó Senhor, o profundo desejo do meu coração: assimilar-me, unir-me a ti, para não viver senão a vida tua. Se não são para mim os sublimais estados de oração e os voos do espírito, a cruz é para mim: Tu ma ofereces e eu quero abraçá-la com todo o meu coração. Sinto-a, o que mais facilmente se encontra à minha portata, que encontro cada dia, que é mais adequado e possível à minha miséria e é justamente o padecer, pois não há vida humana sem dor. Pois bem, ó Senhor, faze que em cada sofrimento físico ou moral, eu saiba reconhecer e abraçar a cruz tua, para que possa intimamente associar-me à tua Paixão pela salvação das almas. Tu agora, glorioso à direita do Pai, não podes mais padecer na tua Humanidade glorificada, digna-te pois de servir-te em mim, de servir-te da minha mísera carne para continuar a tua obra redentora.

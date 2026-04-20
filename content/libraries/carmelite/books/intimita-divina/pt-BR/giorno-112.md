@@ -1,13 +1,13 @@
-## 110 — A FORÇA DE JESUS
+## 36 — A FORÇA DE JESUS
 *III domingo da Quaresma*
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, Forte divino, venho a ti buscar apoio para minha fraqueza, para minha enfermidade.*
 
-— Ó Jesus, Forte divino, venho a ti buscar apoio para minha fraqueza, para minha enfermidade.
+
 
 ### Meditação
 
-1 — Desde o primeiro domingo da Quaresma a Igreja
+**1** — Desde o primeiro domingo da Quaresma a Igreja
 nos apresentou Jesus em luta contra o demônio, mas,
 enquanto então o apresentava em humilde atitude de
 defesa diante das tentações do maligno, hoje o
@@ -42,7 +42,7 @@ do mal: não passam de triunfos aparentes, porque Jesus é
 o mais forte, o único e último vencedor.
 
 
-2 — Para tornar nossa a vitória de Jesus sobre o mal,
+**2** — Para tornar nossa a vitória de Jesus sobre o mal,
 é necessária evidentemente nossa colaboração. No Evangelho
 de hoje o próprio Jesus nos indica diversos aspectos dela.
 

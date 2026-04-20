@@ -1,12 +1,10 @@
-## 304 — A MANSIDÃO
+## XII — A MANSIDÃO
 
-### Presença de Deus
-
-Ó Jesus, manso e humilde de coração, torna meu coração semelhante ao teu.
+**Presença de Deus.** — Ó Jesus, manso e humilde de coração, torna meu coração semelhante ao teu.
 
 ### Meditação
 
-1. — Assim como a temperança torna o homem senhor de si, refreando nele as paixões da concupiscência, assim a mansidão o torna senhor de si, refreando nele os ímpetos da ira e da cólera. O grande valor desta virtude está em assegurar à alma a paz interior tão necessária para atender com equanimidade a todos os deveres para com Deus e para com o próximo.
+**1** — Assim como a temperança torna o homem senhor de si, refreando nele as paixões da concupiscência, assim a mansidão o torna senhor de si, refreando nele os ímpetos da ira e da cólera. O grande valor desta virtude está em assegurar à alma a paz interior tão necessária para atender com equanimidade a todos os deveres para com Deus e para com o próximo.
 
 A alma transtornada pelos ressentimentos da ira é incapaz de ver as coisas na justa luz, de formular juízos desapaixonados, de tomar decisões equilibradas, de conter palavras e atos dentro dos limites da cortesia e da gentileza. Seu agir torna-se desordenado e, muitas vezes, injusto; torna-se ocasião de desgostos para os outros, esfriando a caridade e rompendo a harmonia dos bons relacionamentos. A irritabilidade não contida obscurece o espírito, impedindo-o de compreender a vontade de Deus e fazendo-o, por isso, desviar-se da linha do dever segundo os impulsos da paixão.
 
@@ -14,7 +12,7 @@ A mansidão tem justamente a tarefa de moderar, de pacificar todos esses movimen
 
 Para defender nosso coração dos movimentos da ira, devemos estar prontos para refreá-los em seu primeiro despertar, porque, se os favorecemos, ainda que por pouco, tornam-se logo mais prepotentes e depois será muito difícil vencê-los. A fidelidade constante em reprimir qualquer movimento de cólera nos conduzirá pouco a pouco a saborear o doce fruto da mansidão: «Os mansos gozarão as delícias de uma profunda paz» (Sl. 36, 11).
 
-2. — A mansidão tem importância toda particular para o desenvolvimento da vida de oração e de união com Deus. Como pode atender ao recolhimento e ao colóquio íntimo com o Senhor a alma agitada pelo vento da ira? Em vão procurará aplicar-se à oração: sua mente e seu coração lhe escaparão, perseguindo os fantasmas suscitados pela paixão. Além disso, *non in commotione Dominus* (1Rs. 19, 11): Deus não se deixa encontrar nem se manifesta no meio da perturbação e da excitação, mas só na paz e na calma interior.
+**2** — A mansidão tem importância toda particular para o desenvolvimento da vida de oração e de união com Deus. Como pode atender ao recolhimento e ao colóquio íntimo com o Senhor a alma agitada pelo vento da ira? Em vão procurará aplicar-se à oração: sua mente e seu coração lhe escaparão, perseguindo os fantasmas suscitados pela paixão. Além disso, *non in commotione Dominus* (1Rs. 19, 11): Deus não se deixa encontrar nem se manifesta no meio da perturbação e da excitação, mas só na paz e na calma interior.
 
 Quando a alma é sacudida, ainda que por pouco, pelos ressentimentos da ira, não pode perceber as suaves moções da graça nem o leve sussurro das inspirações divinas: o ruído da paixão não dominada impede-a de dar ouvido ao Mestre interior e assim, perdendo sua guia, já não age segundo o beneplácito divino, mas deixa-se arrastar pelos caprichos de sua impulsividade, que sempre a farão cometer faltas.
 

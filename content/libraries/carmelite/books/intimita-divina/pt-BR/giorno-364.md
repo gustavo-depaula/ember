@@ -1,110 +1,29 @@
-## 42 — A SAGRADA FAMÍLIA
-*I domingo depois da Epifania*
+## 42 — AMOR AUDAZ E IMPACIENTE
 
-### Presença de Deus
-
-— Peço a Maria SS.ma que me admita na humilde casa de Nazaré para considerar a admirável vida que Jesus ali conduz.
+**Presença de Deus.** — *Deus meu, o Vosso amor me torne audaz no buscar-Vos e impaciente de possuir-Vos.*
 
 ### Meditação
 
-1 — Hoje — e é a última vez no ciclo do ano litúrgico — a Igreja nos reconduz a considerar o mistério
-da vida humilde e escondida de Jesus. Um sentido de profunda
-intimidade e ternura caracteriza a festa de hoje e transparece
-na liturgia: hoje "...é doce para nós recordar a pequena
-casa de Nazaré e a humilde existência que ali se leva... Lá
-Jesus aprende o humilde ofício de José e, na sombra,
-cresce em idade e mostra-se feliz de compartilhar o trabalho do
-carpinteiro. 'O suor banhe os meus membros — Ele disse —
-antes que sejam banhados pela efusão do meu sangue:
-também esta pena sirva de expiação para o gênero humano'" (BR.). Eis-nos de súbito introduzidos
-na casinha de Nazaré; diante de tanta humildade que oculta a infinita grandeza de Jesus, repitamos também nós com o texto sagrado: "Verdadeiramente Tu és um Rei escondido, ó Deus Salvador,
-Rei de Israel" (ibid.).
+**1** — A alma submetida pelo Espírito Santo à purificação interior, embora profundamente consciente da sua miséria e indignidade, tem não obstante tanto «coragem e ardor de aspirar à união divina» *(G.C. N. II,* 13, 9). Donde lhe vem tanta audácia? Do amor que vai sempre mais aumentando nela; de fato, «é próprio do amor que o amante queira unir-se, igualar-se e tornar-se semelhante à coisa amada» *(ivi),* por conseguinte, quanto mais o amor cresce na alma tanto mais ela anela à união com Deus. Ainda que o seu amor não seja ainda perfeito, porque não a conduziu ainda à união, todavia é sincero e, «mediante as forças que já lhe infundiu na vontade, [a alma] sente fome e sede daquilo que lhe falta, ou seja, da união à qual o amor tende» *(ivi).* Aliás, como poderia não aspirar à união com Deus a alma que intuiu alguma coisa da sua beleza infinita e do seu amor imenso? Aquela mesma luz divina que lhe descobre o abismo do seu nada e do nada das criaturas, ilumina-a, por contraste, sobre a infinita superioridade de Deus, de modo que ela fica presa e cativada, enquanto Deus mesmo, à medida que a purifica, atrai-a a Si infundindo-lhe novo amor.
 
-E da humilde vida deste Deus escondido a liturgia
-de hoje quer sobretudo pôr em luz um aspecto típico:
-o da obediência. "Embora fosse Filho de Deus... aprendeu a obediência;... humilhou-se fazendo-se obediente
-até a morte" (BR.): esta é a obediência que acompanhou Jesus de Belém ao Calvário. Mas o Evangelho
-de hoje (Lc. 2, 42-52) quer de modo particular sublinhar a obediência de Jesus em Nazaré e o faz com palavra
-verdadeiramente escultórica: "estava sujeito a eles". Perguntemo-nos com São Bernardo: "Quem obedece? a quem obedece?"
+Humilde, portanto, pela sua indignidade que bem conhece, mas audaz pelo amor que cresce nela e pelo convite que Deus mesmo lhe dirige atraindo-a secretamente a Si, a alma ousa aspirar a este bem supremo que é a união divina. É humilde no seu audaz desejo porque sabe de não merecer tanto dom, mas é audaz porque intui que Deus mesmo quer fazê-lo, é audaz porque é tanta a sua fome e a sua sede de Deus que não pode viver longe d'Ele. «Que coisa — exclama São Bernardo — não poderia confiadamente ousar com Aquele do qual sabe levar em si a nobre imagem e a luminosa semelhança?». O amor de Deus preveniu-a, querendo-a tornar semelhante a Si por criação e por graça; esta divina semelhança natural e sobrenatural exprime justamente o desejo de Deus de uni-la a Si, e ao mesmo tempo constitui a base para tal união. Deus, que pôs esta base, quer certamente conduzir a termo a obra, e para fazê-lo não espera outra coisa que a alma secundária a sua ação, deixando-se purificar, deixando-se despojar de si e revestir completamente de vida divina.
 
+**2** — A alma faminta e sedenta de Deus vai buscando-O sem pausa, «porque nas trevas em que jaz lhe parece de estar privada d'Ele, e morre do desejo d'Ele» *(G.C. N. II,* 13, 8). O amor torna-a impaciente de encontrar o Senhor e de fato busca-O com grande solicitude, semelhante à Madalena que, depois da morte de Jesus, não se dá paz, levanta-se de bom mattino, corre ao sepulcro e, não encontrando mais o sacro Corpo, põe-se a buscá-Lo, interrogando todos aqueles que encontra. «Levantar-me-ei — diz a esposa do Cântico dos Cânticos — e andarei em volta pela cidade: pelas ruas e pelas praças buscarei o amado da minha alma» (3, 2). É a atitude da alma que não se resigna, que não se dá por vencida, mas que a todos os custos quer encontrar aquele Deus que ama mais de si mesma.
 
+Neste estado, diz São João da Cruz, «a alma é tão solícita que em todas as coisas busca o Amado: em tudo aquilo que pensa, logo corre com o pensamento ao Amado; em tudo aquilo que diz, em todos os negócios que lhe capitam, logo fala e trata do Amado; seja que coma, seja que durma, ou queira, ou faça qualquer outra coisa, toda a sua solicitude está reposta no Amado» *(N. II,* 19, 2).
 
-\* Mover esta meditação segundo o calendário do ano.
+Oh, se também tu fosses tão solícito na busca do teu Deus! Também tu, desde a eternidade, foste prevenido pelo seu amor; também tu, criado à sua imagem e semelhança, também tu, revestido de vida divina, és por Deus convidado à união com Ele. Por que, pois, te vais pelo mundo em busca não de Deus, mas de ti mesmo, solícito não do seu amor, mas do amor das criaturas? Não há talvez em ti maior ansiedade e premura pelas pobres coisas de cá em baixo que pelas coisas celestes, que por Deus?
 
-
-E o Santo nos responde: "Um Deus a homens; sim,
-Deus, a quem os anjos estão sujeitos, estava sujeito
-a Maria, e não somente a Maria, mas também a José. Que
-um Deus obedeça a uma mulher é humildade sem exemplo...
-Homem, aprende a obedecer; terra, aprende a submeter-te; pó, aprende a sujeitar-te. Um Deus se sujeita aos
-homens, e tu, buscando dominar os homens, te colocas
-acima do teu Autor?"
-
-2 — "Não sabíeis que eu devo ocupar-me das coisas de meu Pai?" Jesus, tão humilde, tão sujeito,
-não hesita em responder assim a Maria, que docemente o repreende por ter permanecido no templo sem
-que ela e José soubessem, enquanto eles, angustiados, já havia
-três dias o procuravam.
-
-Estas são as primeiras palavras de Jesus que encontramos referidas no Evangelho, e Ele as pronunciou para declarar
-a sua missão e para afirmar o primado dos direitos de
-Deus. Apenas adolescente, Jesus nos ensina que antes de
-tudo devemos ocupar-nos de Deus e das coisas de Deus; que
-a Deus é preciso sempre dar o primeiro lugar e a primeira obediência,
-acima de qualquer outra consideração, ao custo
-de sacrificar os direitos da natureza e do sangue. Não é
-virtude, antes frequentemente é pecado, aquela condescendência para com
-parentes e amigos que nos faz descuidar, ou mesmo só
-retardar, o cumprimento da vontade de Deus.
-
-Dar o primado aos deveres para com Deus não quer dizer,
-porém, descuidar dos deveres para com o próximo: também sobre estes, e particularmente sobre aqueles que dizem respeito à família, a festa de hoje chama
-a nossa atenção. Hoje, de fato, a Igreja nos convida
-a modelar a nossa vida de família — da família natural ou religiosa,
-como também de qualquer outro ambiente — sobre o exemplo da Família de Nazaré e, na Epístola (Col. 3, 12-17), põe diante dos nossos olhos as virtudes
-que para tal fim devemos praticar: "Revesti-vos de entranhas de
-misericórdia, benignidade, humildade, modéstia, longanimidade,
-suportando-vos uns aos outros e perdoando-vos mutuamente".
+Oh, quanto tens ainda necessidade de desapego, de renúncia, de purificação! Não resistas aos convites divinos; escancara o teu coração à ação purificadora do Espírito Santo, porque só Ele pode finalmente desatar-te de todas as curas e solicitações terrenas. Se serás atento e fiel a seguir as inspirações do celeste Paráclito, Ele te enviará das novas, mais subtis e delicadas, que te conduzirão a deixar sempre mais da parte todas as vaidades da terra para buscar e amar só a Deus.
 
 ### Colóquio
 
-Ó Jesus, como me agrada contemplar-te menino na
-pobre casa de Nazaré, junto de Maria e de José!
-Na tua vida, tão simples e humilde, tudo é comum à
-vida de qualquer outro menino da tua idade.
-Tu, Esplendor do
-Pai, não quiseste nada que te distinguisse entre os filhos
-dos homens; Tu, Sabedoria incriada, quiseste aprender
-de Maria e de José, tuas criaturas, as humildes,
-as pequenas coisas da vida. José te ensinava a manejar os instrumentos de trabalho e Tu, atento, olhavas, aprendias, obedecias;
-Maria vos ensinava os hinos sagrados, narrava-te as Sagradas Escrituras e Tu a escutavas em atitude de humilde discípulo,
-Tu que és o único verdadeiro "mestre", Tu que és a verdade
-mesma. Nenhum dos teus conhecidos,
-nenhum dos teus conterrâneos
-podia supor quem realmente Tu eras:
-todos te acreditavam
-filho do carpinteiro e não faziam de ti maior conta
-do que de um rapaz de oficina.
+«Ó Senhor, vida e fortaleza minha, uma das maiores e divinas misericórdias que me fizeste é aquela de dignar-Te que uma criatura Tua, ingrata e cheia de pecados, como sou eu, seja convidada por Ti a amar a Vossa Majestade, à cuja presença se cobrem o rosto os Serafins do céu, vencidos pelo esplendor da divindade e pelo incêndio do Vosso amor. Sinto-me honrada por tanta liberalidade e, ao mesmo tempo, estimulado a amar-Te para retribuir o Vosso amor e o desejo que tendes de unir-me ao Vosso coração, doce ninho ao qual bramo de voar para encontrar repouso.
 
-Só Maria e José sabiam: sabiam por revelação divina seres Tu o Filho do Altíssimo, o Salvador
-do mundo, e no entanto o sabiam mais por fé do que por
-experiência. A tua conduta cotidiana ocultava também deles
-as tuas grandezas, a tua divindade, de modo que, quando sem saber deles te demoraste no templo entre os doutores, eles
-não puderam intuir o motivo daquele comportamento insólito.
+«Atendendo os outros a curas e pretensões terrenas, eu atenderei só a Vós e me farei importuno para impetrar o Vosso amor. Não sei, nem posso pedir outra coisa senão Vós: amo-Vos e busco-Vos; amarei e buscarei sempre o Vosso rosto, a fim de que me atraiais e me avinqueis com a sua divina beleza.
 
-Mas foi só por um instante, e logo quiseste voltar
-ao escondimento da tua humildíssima vida: foste
-com eles, e lhes eras sujeito. E assim, dia
-após dia, até os trinta anos.
+«Ó Senhor amabilíssimo, não me escasseis de Vós! Sempre fostes liberalíssimo e fizestes altíssimas misericórdias também àqueles que não Vo-las pediam; não useis, pois, rigor comigo que invoco de coração a bondade e a doçura do amor Vosso.
 
-Ó meu dulcíssimo Senhor, faze que eu possa ao menos um
-pouco imitar a tua infinita humildade; Tu que, Criador,
-obedeceste às tuas criaturas, ensina-me a curvar a minha cabeça
-soberba e a obedecer de boa vontade aos meus superiores. Tu que
-te abaixaste do céu à terra, dá-me a graça de abaixar-me, de descer de uma vez do pedestal do
-meu orgulho. Como posso suportar ver-te, meu Deus
-e Criador, fazer-te tão pequeno e humilde, quando eu, nada e
+«Prouvesse ao terníssimo Vosso coração, ó Filhinho do Altíssimo, de aceitar-me ao Vosso serviço e ter-me entre os mercenários de casa Vossa, que padecem, trabalham e levam o peso do dia e não querem outra mercede senão Vós.
 
-
-
-pecado, sirvo-me do que recebi de ti para elevar-me acima dos outros, para antepor-me e preferir-me
-até mesmo àquele que me é superior?
+«Mas o meu desejo vai além, pois suspiro de unir-me a Vós com vínculo indissolúvel. Ó Beleza cheia de majestade, que roubais os corações com infinita força e os configurais a Vós, realizai em mim, suplico-Vos, esta configuração, a fim de que eu não viva mais em mim, mas em Vós, e a dulcíssima lei da graça Vossa e a força do Vosso amor dirijam todos os meus pensamentos, todas as minhas palavras e obras» (Ven. João de G. M., o.c.d.).

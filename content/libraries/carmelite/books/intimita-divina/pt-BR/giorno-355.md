@@ -1,113 +1,29 @@
-## 33 — PAZ AOS HOMENS
-*29 dezembro*
+## 33 — RUMO A UMA PURIFICAÇÃO COMPLETA
 
-### Presença de Deus
-
-— Ponho-me aos pés de Jesus Menino para considerar no recolhimento o canto dos anjos: "Paz na terra aos homens de boa vontade" (Lc. 2, 14).
+**Presença de Deus.** — *Ajuda-me, Senhor, para que tenha a força de encaminhar-me de minha iniciativa a uma purificação completa.*
 
 ### Meditação
 
-1 — Em Belém os anjos anunciam duas coisas: glória a Deus e paz aos homens; uma corresponde à outra.
-Ninguém dá glória a Deus quanto aquele pequeno Menino que
+**1** — «A alma, que quer chegar ao alto estado de união com Deus, encontra grande obstáculo quando se afeiçoa a algum seu modo de entender, de sentir ou de imaginar, quando se apega ao próprio parecer ou vontade, ou a qualquer outra coisa própria, e não sabe desapegar-se de tudo isto e despojar-se inteiramente» (G.C.S. II, 4, 4). O ofício da noite do espírito é justamente aquele de operar na alma este desapego profundo e radical. Se queres, pois, entrar nesta noite, que tanto bem trará à alma tua, deves procurar, na medida do possível, de renegar-te em tudo e sobretudo naquilo que mais te importa e te é caro; deves estar disposto a renunciar a teus planos, a teus projetos, a teus pontos de vista, não só respecto às coisas terrenas, mas também respecto às espirituais, porque deves ir a Deus não por uma via de tua escolha e de teu gosto, mas unicamente pela via que Ele mesmo te preparou. Deves estar disposto a renunciar às consolações divinas, a caminhar no escuro, na aridez e por todo aquele tempo que o Senhor quiser; deves estar disposto a renunciar às obras mais caras, aos afetos mais legítimos, às amizades mais santas, ao sustento de quem te compreende e te guia nas vias de Deus.
 
-jaz sobre o feno: Ele só, sendo o Verbo eterno, pode
+Poucos entram efetivamente na noite do espírito, justamente porque «poucos sabem e querem entrar no vazio e na perfeita nudez do espírito» (ibi, 7, 3). Poucos, mesmo entre os espirituais, se persuadem de que a via que conduz à união com Deus «consiste numa só coisa necessária, isto é, na abnegação verdadeira de si mesmo, assim no interior como no exterior, abraçando de coração o padecer por Cristo, aniquilando-se em tudo» (ibi, 8). Procura, pois, ao menos tu de seres persuadido e de regular-te em cada coisa com o máximo desapego, não parando com afeto de propriedade ou com vã complacência nem aos bens materiais, nem aos espirituais. Olha Jesus na cruz: Ele era verdadeiramente despojado e privado de toda coisa, «aviltado e humilhado em tudo, isto é: em redor à reputação dos homens, pois vendo-o morrer sobre um tronco, não que tivessem um pouco de estima, zombavam dele; e quanto à natureza, pois nela de certo modo se aniquilava morrendo; e circa a proteção e o conforto espiritual do Pai, que naqueles momentos o abandonou» (ibi, 11). Daqui deves entender qual é a via para unir-te a Deus e deves compreender que quanto mais te aniquilas por amor seu, tanto mais te unes a ele.
 
-dar-lhe um louvor perfeito, infinito, digno dele. E ninguém,
-mais do que Jesus Salvador, leva aos homens a paz;
-reparando a ofensa do pecado, Ele pacifica o homem com o seu Criador e estabelece entre eles um novo pacto: o Criador tornar-se-á Pai e o homem seu filho.
+**2** — A generosa prática do renegamento total não é a única coisa que podes fazer para entrar na noite do espírito; há outra, não mais negativa, mas eminentemente positiva: um intenso exercício das virtudes teologais. A fé, a esperança e a caridade devem ser teu sustento, tua guia nas obscuridades da noite e, ao mesmo tempo, devem ajudar-te a purificar as potências de teu espírito: intelecto, memória e vontade, para que possam aderir a Deus só.
 
-Algo semelhante se verifica na nossa vida cotidiana: quem observa a lei divina goza a paz; mas po-
-demos também dizer: quem observa a lei divina dá glória a
-Deus. À paz dos homens corresponde perfeitamente a
-glória de Deus. Trata-se, porém, daquela paz que vem só de
-Deus, da sua graça, e que em vão buscaríamos em outro lugar.
+«A fé — diz São João da Cruz — produz o vazio no intelecto» (S. II, 6, 2). Com efeito, propondo-te crer coisas que por sua altura não podes compreender, a fé te ensina que, para unir-te a Deus, antes que apoiar-te em teu modo de raciocinar e de entender, deves antes despojar-te dele, o que significa pôr o intelecto no vazio. Quanto mais progredires na fé, tanto mais te desapegarás de tua baixa maneira de pensar, e isto não só respecto aos mistérios divinos e a teus rapports diretos com Deus, mas também circa os acontecimentos da vida, acontecimentos que aprenderás a julgar somente respecto a Deus.
 
-"A paz é a tranquilidade da ordem." A ordem é estabelecida pela lei, pela vontade divina: quem respeita plenamente
+A esperança, ao contrário, põe «nas trevas a memória» (ibi, 3) esvaziando-a de todas as coisas. Se esperas fortemente, quer dizer que esperas bens que ainda não tens e não te contentas com aqueles que já possuis. Se repões em Deus todas tuas esperanças, quer dizer que não esperas mais nas coisas da terra, que sua posse não te satisfaz, consequentemente seu recuerdo se faz menos vivo, menos frequente e assim tua memória resta vazia, capaz de aplicar-se unicamente àquilo que riguarda Deus e seu serviço. Exercita-te intensamente na esperança das coisas celestes e esquecerás aquelas terrenas; espera em Deus só e não serás mais ocupado no recuerdo das criaturas.
 
-a lei possui a plenitude da paz interior; quem se
-afasta, ainda que pouco, desta ordem perde em propor-
+«A caridade, enfim, esvazia a vontade de todas as coisas, porque nos obriga a amar Deus acima delas: o que não pode acontecer, se não desviando o afeto delas para repô-lo inteiramente em Deus». (ibi, 4). Se queres chegar ao desapego e ao renegamento total, deves muito amar. Quanto mais crescerás no amor divino, tanto mais te desapegarás com facilidade das coisas terrenas e também de ti mesmo, tanto mais serás capaz de renegar tua vontade e de aniquilar teu eu em todas as coisas.
 
-ção a sua paz. A paz é o refrigério, o repouso da
-alma no meio das lutas e dores da vida; mas não
-só por isso devemos esforçar-nos por conquistá-la e possuí-la,
-devemos querê-la sobretudo porque a ela cor-
-responde a glória de Deus.
-
-2 — Os anjos prometem paz "aos homens de
-boa vontade." A vontade é "boa" quando é reta, dócil,
-decidida. Reta, isto é, orientada sincera e totalmen-
-te para o bem. Dócil, sempre disposta a seguir toda indicação da vontade divina. Decidida, pronta a aderir à
-vontade de Deus, mesmo quando se interpõem obstáculos e
-dificuldades e se exigem sacrifícios. Através das circunstâncias
-da vida, ainda as mais minutas, o Senhor continuamente
-nos solicita à generosidade, à abnegação: é preciso dar-nos
-sem hesitação, seguros de que, se Deus pede, concederá também
-a força para executar. Tal foi a conduta dos pastores: logo
-que ouviram o anúncio do Anjo deixaram tudo, rebanho e descanso, "foram depressa e encontraram... o Menino deitado
-na manjedoura" (Lc. 2, 16). Foram os primeiros a encontrar Jesus e a saborear a sua paz.
-
-Santa Teresa de Jesus diz: "A santa paz consiste em conformar-se em tudo à vontade de Deus, de modo que entre
-Deus e a alma não haja divisão alguma e não reine entre
-eles senão uma só vontade, não em palavras e desejos,
-mas em obras. A alma, quando sabe que certa coisa é de melhor
-serviço ao seu Esposo, não escuta mais nada, nem as razões
-do intelecto, nem os temores..., mas deixa agir a fé,
-sem cuidar do próprio repouso e interesse" (P. 3, 1). Esta é
-a perfeita "boa vontade." Maria e José são o modelo insuperável dela: apesar da obscuridade do mistério e dos
-sacrifícios, aderiram com total abandono ao plano
-divino e tiveram a alegria suprema de acolher o Rei dos
-céus entre os seus braços. À máxima boa vontade corresponde a máxima união com Deus, a paz e a alegria.
+Caminha em fé, em esperança, em amor e avançarás na noite do espírito sem te perderes nas obscuridades e nas trevas que poderás encontrar, porque estas virtudes te manterão fortemente ancorado em Deus.
 
 ### Colóquio
 
-Como te agradeço, ó Jesus, pela glória infinita que dás
-ao teu divino Pai, suprindo assim toda a incapacidade e
-insuficiência de nós pobres homens! Tu és o louvor perfeito
-da SS.ma Trindade, o esplendor da sua glória: louvor e
-graças te dou a ti, ó Senhor! Tu podias glorificar o teu Pai
-sem cuidar de nós, que o tínhamos ofendido: que necessidade
-tem Deus do nosso bem, da nossa felicidade? Mas, piedosíssimo, quiseste dar glória ao teu Pai justamente dando
-a nós a salvação, dando a nós a paz. Oh, como desejo esta paz que vieste trazer ao mundo!
-Só Tu ma podes dar, só Tu podes pacificar plenamente
-o meu pobre coração, tantas vezes combatido entre as
-exigências do teu amor divino e a prepotência das minhas
-paixões, os atrativos do mundo.
+«Senhor, torna-me possível com tua graça o que a me parece impossível por natureza. Tu sabes que eu valho pouco a sofrer e me abato apenas uma pequena dificuldade surge. Para a glória de teu nome me torne amável e desejável qualquer prova e tribulação, pois o padecer e o ser perseguido por amor teu é de grande utilidade.
 
-Dá-me, ó Senhor, a tua paz; ela estabeleça em mim o
-teu reino e me torne louvor da glória do teu santo Nome.
-Mas Tu queres que, mesmo esperando tudo da tua graça e
-da tua misericórdia, eu não deixe de trabalhar assiduamente
-para obter este teu grande dom.
+Jesus, Senhor meu, assiste-me em cada lugar e circunstância; minha consolação seja privar-me espontaneamente de todas as glórias terrenas; e caso me faltasse o conforto divino, seja minha consolação suprema tua vontade e a justa prova a que Tu me submetes, pois Tu não quererás ser assinalado com teu servo, nem ameaçar-me em perpétuo.
 
-Tu me darás a paz se eu tiver "boa vontade". Vontade
-sincera que adere retamente ao bem, sem duplicidades,
-sem evasivas, sem segundos fins ou compromissos. Ó Senhor,
-dá-me esta vontade reta que a nenhum custo se aparta do
-bem, do verdadeiro; mesmo quando a verdade me açoita e põe
-a nu as minhas misérias, dá-me Tu a coragem de amá-la,
-de aceitá-la inteira tal qual é e de agir em consequência.
-Queria, ó Senhor, ter uma vontade docilíssima a cada
-teu aceno, semelhante a uma leve embarcação à vela que
-segue docilmente todo sopro de vento. Mas a minha vontade é
-ainda tão dura, obstinada, difícil de dobrar, fixa nas
-suas posições! Torna-a Tu flexível, dulcíssimo Jesus, que
-do céu te inclinaste até à terra para cumprir a vontade do teu Pai.
+Ó Senhor, contanto que minha vontade se conserve sempre reta e firmemente unida a ti, faze de me como melhor te apraz, pois aquilo que fazes por me, não pode ser senão ótimo. Se Tu queres que eu viva nas trevas, sê bendito; se me queres na luz, sê pur bendito; se ao contrário queres que eu sofra, sê igualmente bendito em eterno.
 
-E depois dá força à minha vontade, para que saiba vencer
-toda relutância, toda hesitação e vacilação, sobretudo
-
-quando deve superar dificuldades e enfrentar sacrifícios.
-Senhor, queria ter uma vontade reta e decidida para ir a ti direto e veloz como uma flecha, uma vontade
-dócil como a onda ao vento, para secundar fielmente
-cada indicação do teu querer divino. Então não haveria mais divisão alguma entre a minha e a tua vontade, haveria
-perfeita união, perfeita paz.
-Que ideal altíssimo, ó Jesus, deste ao homem por ti redimido! Quem estava
-no pecado, e portanto tão longe de Deus quanto a culpa
-da perfeição infinita, é, por teus méritos preciosos, não
-só elevado do abismo em que jazia, mas chamado à
-união com Deus. Pela tua mediação, o Senhor e o
-Juiz torna-se Pai, Amigo, Esposo da alma de boa
-vontade.
-
-Ó Jesus, quanto nos deste, quanto me deste! A ti seja
-louvor em eterno!
+Senhor, eu estou disposto a tolerar de boa vontade por amor teu tudo aquilo que te agradará dispor; de tua mão quero receber com o mesmo ânimo o mal e o bem; não terei mais temor da morte, nem do inferno. Contanto que Tu não me afastes de ti para sempre, não me pode causar dano qualquer adversidade que seja para acontecer-me» (Imit. III, 19, 5; 16, 2; 17, 2 e 4).

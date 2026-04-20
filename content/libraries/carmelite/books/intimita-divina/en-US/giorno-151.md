@@ -1,7 +1,5 @@
 ## XII — PRAYER OF RECOLLECTION
 
-**Presenza di Dio.** — *O Signore, benché io ne sia tanto in degno, non disdegnare di ammettermi alla tua intimità.*
-
 **Presence of God.** — *O my God, may I be able to find you in me, in the little heaven of my soul.*
 
 ### Meditation

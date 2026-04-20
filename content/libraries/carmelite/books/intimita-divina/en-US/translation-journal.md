@@ -116,6 +116,12 @@ Target: en-US (English)
 - [Giorni 152-161] Standardized `II/III Domenica dopo Pasqua` as `Second/Third Sunday after Easter`; kept transition vocabulary (`meditazione` -> `contemplazione`, `spirito di fede`, liturgical prayer doctrine from `Mediator Dei`) in formal theological register.
 - [Giorni 162-171] Preserved explicit sacrificial liturgical language (`Holy Mass`, `Sacrifice of the altar`, `Victim`, `Consecration`) and kept Marian doctrinal titles in traditional form (`Mother of God`, `spouse of the Holy Spirit`, `handmaid of the Lord`) with elevated devotional diction.
 - [Giorni 198-207] Standardized Sacred-Heart register with stable terms (`merciful love`, `reparation`, `consecration`, `victim soul`, `actual grace`) while preserving core Latin liturgical citations and Scripture formatting.
+- [Giorni 121-139] Re-translated files with wrong content (duplication of "Venial Sin"/"Imperfection"). Corrected titles: 45-54 (XLV-LIV) on obedience and suffering; 55-63 (LV-LXIII) on Christ's Passion.
+- [Giorno 098] Re-translated from Italian "LA GRANDE LOTTA" (The Great Battle - Jesus' temptation in desert, First Sunday of Lent). Previous English had completely different treatise on sin.
+- [Giorni 351-376] Re-translated final spiritual growth series (union with God, night of spirit, development of love, total union) which had wrong Christmas/liturgical meditations.
+- [Giorni 001-389] Formatted all files to Italian standard: Roman numerals in titles, `**Presence of God.** — *text*` inline (not ### header), bold paragraph numbers (`**1** —`).
+- [Giorni 009, 011, 016] Removed editor footnotes (converted to inline text).
+- [Giorni 151, 153, 155] Removed duplicate Italian sections (`**Presenza di Dio.**` + `**Presence of God.**` → English only).
 
 ## Expressions & Idioms
 

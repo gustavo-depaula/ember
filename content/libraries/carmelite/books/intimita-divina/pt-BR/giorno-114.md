@@ -1,12 +1,12 @@
-## 112 — A VIDA ESCONDIDA
+## 38 — A VIDA ESCONDIDA
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, Deus escondido, ensina-me o segredo do escondimento.*
 
-— Ó Jesus, Deus escondido, ensina-me o segredo do escondimento.
+
 
 ### Meditação
 
-1 — Em sua vida terrena, Jesus se comprazia em
+**1** — Em sua vida terrena, Jesus se comprazia em
 esconder sob aparências humanas sua divindade. Salvo
 alguma rara exceção, e sobretudo durante os trinta anos
 anteriores ao seu apostolado, jamais deixou transparecer nada
@@ -41,7 +41,7 @@ para serem vistos por eles... já receberam a sua recompensa
 e não terão a recompensa do Pai celeste" (cf. Mt. 6, 1-18).
 
 
-2 — "Operar por puríssimo fim de agradar unicamente a Deus,
+**2** — "Operar por puríssimo fim de agradar unicamente a Deus,
 sem jamais querer... o testemunho de olho
 humano", foi o programa de S. Teresa Margarida do
 Coração de Jesus, a santa da vida escondida (Sp. p. 369).

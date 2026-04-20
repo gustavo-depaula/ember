@@ -1,16 +1,14 @@
-## 6 — A SANTIDADE E OS PRÓPRIOS DEVERES
+## VI — A SANTIDADE E OS PRÓPRIOS DEVERES
 
-### Presença de Deus
-
-Ponho-me na presença de Deus com o vivo desejo de que me ajude a conhecer e cumprir a sua santa vontade.
+**Presença de Deus.** — *Ponho-me na presença de Deus com o vivo desejo de que me ajude a conhecer e cumprir a sua santa vontade.*
 
 ### Meditação
 
-1 — Jesus disse: "Se me amais, guardai os meus mandamentos... Se guardardes os meus mandamentos, permanecereis no meu amor, como eu mesmo guardei os mandamentos de meu Pai e permaneço no seu amor" (Jo. 14, 15; 15, 10).
+1 — Jesus disse: "Se me amais, guardai os meus mandamentos... Se guardardes os meus mandamentos, permanecereis no meu amor, como eu mesmo guardei os mandamentos de meu Pai e permaneço no seu amor" (Jo 14, 15; 15, 10).
 
 A perfeição da caridade consiste na perfeita conformidade à vontade divina; tal vontade divina exprime-se antes de tudo nos mandamentos de Deus e nos preceitos da Igreja; além disso, de modo mais concreto e minucioso, nos deveres do meu estado, nas diversas circunstâncias da vida. Os meus deveres de estado, em particular, determinam como devo comportar-me na existência quotidiana para estar continuamente conforme ao querer divino: deveres indicados pela Regra e pelas leis do meu Instituto, pelas ordens dos superiores, pelo trabalho que a obediência me impõe, se sou religioso; pelo ministério das almas, se sou sacerdote; pelas exigências concretas da minha vida de família, da minha profissão, do meu ambiente social, dos meus deveres de bom cidadão, se sou simples leigo.
 
-A vontade de Deus vem-me ao encontro, depois, através das circunstâncias da vida, grandes ou pequenas e até minutissimas: saúde ou doença, pobreza ou riqueza, aridez ou consolações interiores, sucessos ou contradições, desgraças, separações, lutos. E cada vez, segundo as circunstâncias, Deus me apresenta deveres particulares de caridade, de paciência, de atividade ou de renúncia, de desapego, de submissão, de generosidade, de sacrifício. Tudo é permitido por Deus, tudo é por Ele ordenado à minha santificação: "tudo coopera para o bem daqueles que amam a Deus" (Rom. 8, 28), porque "tudo é graça!" (T.B.G. NV).
+A vontade de Deus vem-me ao encontro, depois, através das circunstâncias da vida, grandes ou pequenas e até minutissimas: saúde ou doença, pobreza ou riqueza, aridez ou consolações interiores, sucessos ou contradições, desgraças, separações, lutos. E cada vez, segundo as circunstâncias, Deus me apresenta deveres particulares de caridade, de paciência, de atividade ou de renúncia, de desapego, de submissão, de generosidade, de sacrifício. Tudo é permitido por Deus, tudo é por Ele ordenado à minha santificação: "tudo coopera para o bem daqueles que amam a Deus" (Rom 8, 28), porque "tudo é graça!" (T.B.G. NV).
 
 2 — "A santidade consiste propriamente só na conformidade à vontade divina, expressa num contínuo e exato cumprimento dos deveres do próprio estado" (Bento XV). Esta fórmula confirma-me que a santidade não consiste em coisas extraordinárias, mas se reduz essencialmente à linha do dever: ela está ao meu alcance.
 
@@ -20,7 +18,7 @@ Esta incessante e generosa fidelidade nem sempre me será fácil, mas, sem me de
 
 ### Colóquio
 
-Apesar da minha miséria, Senhor, sinto renascer em mim cada vez mais vivo o desejo de tender à santidade. Quero fazer-me santo, não para minha satisfação pessoal, não para receber a estima ou os louvores alheios, mas unicamente porque Tu o queres, Tu que nos disseste: "Sede santos, porque santo sou eu" (Lev. 19, 2). Portanto, quero fazer-me santo unicamente para corresponder à tua vontade, ao teu desejo, para te agradar, para te dar glória, para corresponder ao teu amor infinito, para te dar todo o amor que queres de mim e de que me queres tornar capaz. E Tu me fazes entender cada vez melhor que a santidade não exige de mim grandes coisas exteriores, mas só um amor forte e generoso que me permita cumprir perfeitamente a tua santa vontade.
+Apesar da minha miséria, Senhor, sinto renascer em mim cada vez mais vivo o desejo de tender à santidade. Quero fazer-me santo, não para minha satisfação pessoal, não para receber a estima ou os louvores alheios, mas unicamente porque Tu o queres, Tu que nos disseste: "Sede santos, porque santo sou eu" (Lev 19, 2). Portanto, quero fazer-me santo unicamente para corresponder à tua vontade, ao teu desejo, para te agradar, para te dar glória, para corresponder ao teu amor infinito, para te dar todo o amor que queres de mim e de que me queres tornar capaz. E Tu me fazes entender cada vez melhor que a santidade não exige de mim grandes coisas exteriores, mas só um amor forte e generoso que me permita cumprir perfeitamente a tua santa vontade.
 
 Meu Deus, quando penso que Tu, Criador e Senhor do universo, te dignas manifestar a tua vontade a mim, que diante de ti sou menos que um pequeno verme, fico cheio de confusão. Um Rei tão grande e onipotente que fala ao último dos seus servos com a bondade com que falaria a um filho amado! Sim, meu Deus, Tu me falas e me manifestas a tua vontade através dos teus mandamentos, através dos deveres do meu estado e de todas as circunstâncias da minha vida. Tudo o que me cerca: cada incidente, cada acontecimento, cada pena, cada alegria... tudo é expressão da tua vontade e me indica, momento a momento, aquilo que Tu queres de mim.
 

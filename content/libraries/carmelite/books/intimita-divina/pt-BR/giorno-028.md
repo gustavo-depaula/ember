@@ -1,13 +1,11 @@
 ## 28 — CUMPRE-SE O GRANDE MISTÉRIO
 *24 dezembro*
 
-### Presença de Deus
-
-Ó Verbo Encarnado, meu Salvador, mostra-me as sábias lições encerradas no mistério da tua Encarnação.
+**Presença de Deus.** — *Ó Verbo Encarnado, meu Salvador, mostra-me as sábias lições encerradas no mistério da tua Encarnação.*
 
 ### Meditação
 
-1 — Entre todas as obras que Deus realizou, no tempo e fora de si, a Encarnação redentora do Verbo é a
+**1** — Entre todas as obras que Deus realizou, no tempo e fora de si, a Encarnação redentora do Verbo é a
 maior. Maior, porque tem por termo não uma
 simples criatura, ainda que sublime, mas o próprio
 Deus, o Verbo eterno que assume no tempo uma natureza humana.
@@ -24,7 +22,7 @@ haveria nem graça, nem visão beatífica de Deus. Sem Jesus
 o homem teria permanecido nos limites de uma vida puramente humana, privada de todo horizonte sobrenatural, tanto
 para o tempo como para a eternidade.
 
-2 — A Encarnação do Verbo, a maior obra de
+**2** — A Encarnação do Verbo, a maior obra de
 Deus, destinada a iluminar e a salvar o mundo inteiro,
 realiza-se na obscuridade, no silêncio, no meio das circunstâncias mais humildes e mais humanas. O édito de César obriga
 Maria e José a deixarem a casinha de Nazaré, e eis-los

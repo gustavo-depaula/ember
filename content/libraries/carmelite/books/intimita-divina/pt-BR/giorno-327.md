@@ -1,12 +1,10 @@
 ## 327 — A ALMA DO APOSTOLADO
 
-### Presença de Deus
-
-Faze-me compreender, ó Senhor, que só a união contigo, que só o amor pode fecundar todo apostolado.
+**Presença de Deus.** — *Faze-me compreender, ó Senhor, que só a união contigo, que só o amor pode fecundar todo apostolado.*
 
 ### Meditação
 
-1. — Não se pode ser colaborador de Deus, dócil instrumento em suas mãos; não se pode sentir com Cristo e associar-se ao seu amor e à sua obra para a salvação das almas sem uma vida de afetuosa intimidade com Deus e com Jesus bendito, isto é, sem uma intensa vida interior.
+**1** — Não se pode ser colaborador de Deus, dócil instrumento em suas mãos; não se pode sentir com Cristo e associar-se ao seu amor e à sua obra para a salvação das almas sem uma vida de afetuosa intimidade com Deus e com Jesus bendito, isto é, sem uma intensa vida interior.
 
 Mediante a oração e a luta contra o pecado, mediante a renúncia de si e o exercício das virtudes, a vida interior despoja progressivamente a alma de tudo o que é defeituoso, favorecendo assim nela o desenvolvimento da graça e do amor, o que equivale a dizer que a reveste de vida divina, já que graça e amor são uma participação da própria vida de Deus. Segue-se que, quanto mais uma alma cultivar a vida interior, tanto mais se aproximará de Deus e, tornando-se semelhante a Ele pela graça e pelo amor, poderá viver na sua intimidade, poderá gozar da sua amizade, penetrar seus mistérios e associar-se a eles.
 
@@ -14,11 +12,11 @@ Quem, pois, será apto a compreender o grande mistério da Redenção e a levar-
 
 Para os fins do apostolado, não pode ser suficiente aquele primeiro grau de amizade divina que resulta da ausência do pecado grave, mas é necessária uma amizade mais profunda que crie uniformidade de perspectivas, de vontade, de desejos, de afetos, de modo que o apóstolo possa agir segundo o coração de Deus, movido não por impulsos pessoais, mas pelo impulso da graça, pelo querer divino, pelas inspirações do Espírito Santo.
 
-É significativo o fato de que Jesus, antes de lançar os Apóstolos à conquista do mundo, quis fazê-los viver por três anos na sua intimidade, tratando-os como verdadeiros amigos: «Já não vos chamo servos... vos chamei amigos» (Jo. 15, 15). Amigos não só porque participou a eles os tesouros de sua vida divina, mas também porque os quis colaboradores e, em certo sentido, continuadores de sua missão de Redentor.
+É significativo o fato de que Jesus, antes de lançar os Apóstolos à conquista do mundo, quis fazê-los viver por três anos na sua intimidade, tratando-os como verdadeiros amigos: «Já não vos chamo servos... vos chamei amigos» (Jo 15, 15). Amigos não só porque participou a eles os tesouros de sua vida divina, mas também porque os quis colaboradores e, em certo sentido, continuadores de sua missão de Redentor.
 
 O apóstolo não pode ser tal se não é amigo de Deus; o próprio Deus o convida a essa amizade, mas é necessário que ele corresponda com uma séria vida interior, que torne seus relacionamentos com Deus cada vez mais íntimos e mais ricos de amor.
 
-2. — Só da amizade com Deus, só da caridade que nos une a ele, o apóstolo tira aquelas energias sobrenaturais que tornam suas obras verdadeiramente eficazes e capazes de alcançar seu intento.
+**2** — Só da amizade com Deus, só da caridade que nos une a ele, o apóstolo tira aquelas energias sobrenaturais que tornam suas obras verdadeiramente eficazes e capazes de alcançar seu intento.
 
 Mas onde tirará o apóstolo esse amor que, unindo-o a Deus, o torna tão potente? Sem dúvida, do próprio Deus: «O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado» (Rm. 5, 5).
 

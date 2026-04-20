@@ -1,4 +1,4 @@
-## 85 — A POBREZA EVANGÉLICA
+## IX — A POBREZA EVANGÉLICA
 
 ### Presença de Deus
 

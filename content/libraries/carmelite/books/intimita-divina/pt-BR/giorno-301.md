@@ -1,12 +1,10 @@
-## 301 — PERSEVERANÇA E CONFIANÇA
+## IX — PERSEVERANÇA E CONFIANÇA
 
-### Presença de Deus
-
-Ó Senhor, aumenta minha confiança no teu socorro e faze que nessa confiança eu encontre sempre a coragem para recomeçar.
+**Presença de Deus.** — Ó Senhor, aumenta minha confiança no teu socorro e faze que nessa confiança eu encontre sempre a coragem para recomeçar.
 
 ### Meditação
 
-1. — O que mais assusta as almas de boa vontade, que querem aplicar-se seriamente à vida espiritual, é precisamente encontrar-se tantas vezes por terra, apesar de seus repetidos e sinceros propósitos. Quando a alma começa a subida é, em geral, cheia de coragem e não duvida de modo algum do êxito; mas ainda é inexperiente, ainda não se mediu com as exigências de uma virtude mais profunda, nem conhece as lutas que a esperam por esse caminho.
+**1** — O que mais assusta as almas de boa vontade, que querem aplicar-se seriamente à vida espiritual, é precisamente encontrar-se tantas vezes por terra, apesar de seus repetidos e sinceros propósitos. Quando a alma começa a subida é, em geral, cheia de coragem e não duvida de modo algum do êxito; mas ainda é inexperiente, ainda não se mediu com as exigências de uma virtude mais profunda, nem conhece as lutas que a esperam por esse caminho.
 
 E eis a cilada: no choque com as novas dificuldades cai; levanta-se e cai de novo; levanta-se ainda e pouco depois se encontra no chão, e assim por diante, até que em certo ponto se apresenta a mais perniciosa das tentações: renunciar ao empreendimento, que já parece impossível. Quantas almas, que haviam empreendido com fervor a subida do monte da perfeição, desconfiadas por seu contínuo cair, pararam no meio do caminho — antes, voltaram atrás — justamente porque não tiveram a coragem de recomeçar do princípio cada dia, cada momento.
 
@@ -14,7 +12,7 @@ Para ter essa coragem é necessária antes de tudo a humildade; isto é, é prec
 
 Essa espécie de despeito que tantas almas provam ao ver-se sempre por terra não é fruto de humildade, mas de orgulho: ainda não estão tão convencidas da própria miséria a ponto de não se admirarem ao experimentá-la; a cada instante contam ainda demasiado consigo mesmas, e Deus, que as quer conduzir ao centro do próprio nada, deixa-as cair e recair. No plano da divina Providência, essas quedas têm justamente a função de persuadir-nos de nossa miséria. Se queremos aderir ao plano divino, temos um só meio: humilhar-nos; pois, se ao contrário desanimamos e desistimos do empreendimento, não fazemos senão afastar-nos dele, com enorme dano nosso.
 
-2. — Certas almas justificam seu desânimo dizendo que não podem tolerar ofender a Deus. Está bem, porque a primeira condição exigida para nos fazer santos é precisamente detestar o pecado e estar firmemente decidido a evitá-lo também nas formas mais leves e a custo de qualquer sacrifício. É preciso, porém, distinguir: esta é a disposição sincera que devemos sempre cultivar; por isso, não tolerar em nós a mínima ofensa de Deus significa nunca fazer paz com os defeitos e faltas que, apesar de nossa boa vontade, ainda nos escapam.
+**2** — Certas almas justificam seu desânimo dizendo que não podem tolerar ofender a Deus. Está bem, porque a primeira condição exigida para nos fazer santos é precisamente detestar o pecado e estar firmemente decidido a evitá-lo também nas formas mais leves e a custo de qualquer sacrifício. É preciso, porém, distinguir: esta é a disposição sincera que devemos sempre cultivar; por isso, não tolerar em nós a mínima ofensa de Deus significa nunca fazer paz com os defeitos e faltas que, apesar de nossa boa vontade, ainda nos escapam.
 
 Mas, quando, malgrado nossos esforços, caímos, tal disposição não nos autoriza de modo algum a desanimar a ponto de não sermos mais capazes de ressurgir. Justamente porque não queremos tolerar em nós coisa alguma que desagrade ao Senhor, nunca nos renderemos na luta, mas a retomaremos com vigor precisamente para evitar novas quedas. Neste campo, quem se rende já está vencido. De fato, se, mesmo combatendo sem trégua, estamos sujeitos a cair, que acontecerá quando entregarmos as armas? Será sempre melhor lutar mancando e com alguma ferida do que não lutar de modo algum.
 

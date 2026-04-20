@@ -1,118 +1,29 @@
-## 98 — SIN
+## 22 — THE GREAT BATTLE
 
-### Presence of God
+*First Sunday of Lent*
 
-— O Jesus crucified, make me understand the great malice of sin.
+**Presence of God.** — *O Jesus, I withdraw with you into the desert; teach me how to fight against the triple concupiscence of the flesh, of pride, of avarice.*
 
 ### Meditation
 
-1 — The essence of Christian perfection consists in
-union with God through charity. Now, while charity,
-conforming our will to the divine will, unites us to God,
-sin - grave sin - by directly opposing itself to
-the will of God, produces the contrary effect.
-In other words, charity is the force that unites man to God,
-sin is the force that detaches him from God. Grave sin
-is thus the greatest enemy of spiritual life, since it not
-only threatens it, but destroys it in its constitutive
-elements, charity and grace. And this destruction, this spiritual
-death is precisely the inevitable consequence of sin,
-an act by which man voluntarily detaches himself from God,
-the only source of life, charity, and grace. As the branch cut from the trunk cannot live, so the soul separated from God cannot live.
+**1** — Today, as the strictly Lenten period begins, the Church invites us to that great battle, the battle against sin, which must lead us to the paschal resurrection. The model is Jesus, he who, though exempt from the fuel of concupiscence, willed *for us* to be tempted by the devil, so that he might "sympathize with our weaknesses" *(Heb.* 4, 15).
 
-If God, as cause of all being, is always present
-in the soul of the sinner - in the same way in which He is present in all things - yet He is not present there as Father,
-as Guest, as Trinity offering Himself to the soul as object
-of knowledge and love. Thus the soul, created to
-be the temple of the Trinity, has voluntarily made itself
-incapable of living in fellowship with the divine Persons,
-has barred to itself the way to union with God, has, so to speak,
-forced God to break with it every relation of friendship. And all this because to the
-supreme Good it has preferred the
+After forty days of rigorous fasting, while feeling the pangs of hunger, Jesus is tempted by Satan to turn the stones into bread. One cannot embrace a regime of serious penance or mortification without experiencing its discomforts, but it is precisely then the moment to resist the insinuating voices that invite greater indulgence toward physical exigencies, responding with Jesus: "Not in bread alone does man live, but in every word that comes from the mouth of God" (Gosp.: *Mt.* 4, 1-11). The life of man, far more than from material nourishment, depends on the will of God; whoever is convinced of this will have the courage to subject himself to privations, trusting in divine Providence for his sustenance.
 
+Jesus is then tempted by pride: "If you are the Son of God, cast yourself down from here... and the angels will sustain you on their hands." A similar miracle would have attracted the admiration and enthusiasm of the people, but Jesus knows that the Father has chosen for him a very different way: not triumphs, but humiliations, cross, death; He does not wish to depart from this way and resolutely rejects the proud proposal. The best means to overcome temptations of pride and vanity is to choose expressly that which humiliates us and makes us disappear in the eyes of others.
 
-limited and passing good of a wretched creature, of an
-selfish satisfaction, of an earthly pleasure. Here is the
-malice of sin, which repudiates the divine gift,
-betrays the Creator, the Father, the Friend. "Oh! why do
-we not understand that sin is open war by all
-our senses and all our powers against the Lord, a universal contest as to who can devise more betrayals
-against his own King?" (T.G. Es. 14, 2).
+The devil returns to the charge and tempts Jesus with avarice: "All these things I will give you if, prostrating yourself before me, you adore me," but He responds: "Adore the Lord your God and serve him alone!" Whoever has his heart firmly anchored in God never allows himself to be turned away from his service by the allurements and cupidity of earthly goods. But if this firm adherence to God is lacking, how many times will the temptation of avarice succeed in turning aside even those who should, by particular vocation, "serve God alone"!
 
+**2** — Jesus was tempted because he willed it. We are tempted even without willing it and, indeed, very often, against our will. The temptation of Jesus was purely exterior, finding no resonance in him; in us, instead, nature, wounded by the triple concupiscence of the flesh, of pride, of avarice, not only offers easy foothold to the assaults of the devil, but is itself the source of manifold temptations. It is therefore impossible for us to live without temptations, and our virtue consists not in being exempt from them, but in knowing how to overcome them. This is a battle from which no one can withdraw; indeed, God wills that this very battle be the pledge of eternal life: "Blessed is the man who endures trial, for when he has been proved, he shall receive the crown of life" *(Jas.* 1, 12).
 
-2 — If we want better to understand the malice of mortal
+Let us learn from Jesus how to comport ourselves in temptations; first of all we must have great trust in God. Jesus did not wish to provide for his hunger, did not wish to impose himself upon men by means of a spectacular miracle, did not accept kingdoms and riches, because, having full trust in his Father, he had totally entrusted everything — his life, his mission, his glory — to his care. Whoever has full trust in God and is sure of his divine Providence will not easily allow himself to be attracted by the vain allurements of the devil, of the world, and of the flesh, since he knows that God alone can give him the true good, true happiness.
 
-
-sin, we must consider its disastrous effects.
-One single sin in an instant transformed Lucifer from
-an angel of light into an angel of darkness, eternal enemy of
-God. One single sin deposed Adam and Eve from the
-state of grace, of friendship with God, depriving them of every
-supernatural and preternatural gift, condemning them to
-death, and with them all humanity. One single sin was
-enough to dig an abyss between God and humanity, to
-close to the human race every possibility of union
-with God.
-
-But, more than all this, the Passion of Jesus tells us
-how great is the malice and destructive force of
-sin. The mangled members of Christ, His most painful death on the cross, tell us that sin is a kind
-of deicide. Jesus, the fairest of the sons of men, because of sin became "despised, the last
-of men, a man of sorrows... He was pierced for
-our iniquities," in such a way that "from the sole of
-
-
-the foot to the top of the head there is nothing sound in Him"
-(Is. 53, 3-5; 1, 6). Sin tortured Christ and reduced Him to death, but on the other hand Christ went to
-the Passion and to death "because He willed it" (ibid., 53, 7), and with His death He willed to destroy sin
-
-
-and restore man to divine friendship.
-
-And Jesus, our Head, invites us, His members, to associate ourselves with His work of destroying sin: to destroy it
-in ourselves down to its last roots, that is, in evil tendencies, and to destroy it in the other members too. This
-is a law of solidarity, because one's evil is another's evil,
-because every sin weighs upon the whole world
-and seeks to shift its axis away from God. Therefore every Christian -
-and still more every soul consecrated to God - must feel himself strongly committed in this struggle against sin
-and must fight it with fitting means: with penance
-and expiatory prayer, and still more with love.
-The love of charity, when it is perfect, destroys sin
-more than the fire of purgatory, even without any external manifestation. This is why the saints were able to convert so many souls; God used the fire of their charity to destroy sin in sinners.
+But in another sense we must cultivate trust in the moment of temptation. If God permits us to be tempted, he does not however permit us to be tempted beyond our strength, and, alongside every temptation, a particular actual grace is always ready, sufficient to overcome it. Therefore, instead of allowing ourselves to be troubled by the violence of the battle, let us look with trust at the grace that God offers us and seek to make it ours through humble and trusting prayer.
 
 ### Colloquy
 
-"O my God and my true Strength, whence comes it
-that, cowards in all things, we are then so bold in offending You? Behold what the energies of Adam's children serve for! If reason were not so blind they would understand
-that all human strength would still be insufficient to give one daring to take up arms against his Creator and continue
-war against Him who in one instant can cast them all into the abyss. But since in them reason is
-blind, they go like madmen toward death, imagining
-they find life... O inaccessible Wisdom! It requires
-all the affection with which You love Your creatures to endure so much madness, to await our healing and labor
-to procure it for us by every kind of means and remedy.
+"Lord, Father and God, life by which all live and without which all things are to be reckoned as dead, abandon me not in the malignant thought and in the pride of the eyes; take away from me the concupiscences and do not give me over to an irreverent and foolish soul; but possess my heart, that I may always think of you... Now, O Redeemer, I beseech you, help me, that I may not fall before my adversaries, caught in the snares they have set for my feet, to bow down my soul; but save me, O virtue of my salvation, that I may not give cause for laughter to your enemies who hate you. Arise, O Lord God my God, my strength; and your enemies shall be scattered, and those who hate you shall flee from your face.
 
-"Here is something that astonishes me. One does not have courage
-to overcome even a slight difficulty; one believes oneself
-incapable, despite all good will, of freeing oneself
-from an occasion and escaping a danger in which the soul
-is ruined, and yet one has the courage and daring to rise up
-against a Majesty as great as Yours. What is this,
-my Good? What is it? Who infuses so much daring in us?...
+"As wax melts before the fire, so let sinners vanish from your face; and I will hide myself in you, and I will rejoice with all your goods. You, O Lord God, Father of orphans, and You, Mother of the fatherless, spread forth your wings, that beneath them we may take refuge, to save ourselves from our enemies" (St. Augustine).
 
-"Ah! Lord, what hardness, what madness,
-what blindness. One suffers if one loses an object,
-
-
-and then remains insensitive before the loss of that Royal Eagle who are
-You, O God of glory!... What is this, then, what is it?
-I understand nothing anymore. Heal, my God, so much madness and blindness!... The loss of so many souls afflicts me
-in such a way that I can no longer contain myself. O Lord,
-raising my voice to You, I beg You to provide me with
-some means to help gain at least some
-for You by my service, and to give me a way to do a little good
-through prayer, since I am capable of nothing else...
-It seems to me that to save one soul alone from the many
-that are lost, I would sacrifice life a thousand times!... It seems to me, O
-Lord, that You value more one single soul that,
-by Your mercy, through our works and prayers, we win for You,
-than all the services we can render You" (T.G. Ex. 12, 1 and 2; 14, 4; Fd. 1, 7; Way 1, 2).
+Yes, Lord and my Savior, I trust in you! And above all in the moment of battle I wish, with redoubled trust, to take refuge in you, because "my defender are You... and You will deliver me from the snare of the hunters and from every calamity. With your wings you will protect me and beneath your feathers I shall be safe. Your faithfulness shall surround me like a shield and I shall not fear the terrors of the night, nor the arrow that flies by day, nor the pestilence that wanders in the darkness, nor the assault and the noonday devil. You are, O Lord, my hope, and You, O Most High, my refuge! To your angels you have given command for me, that they keep me in all your ways; and they shall bear me on their hands lest my feet should stumble against the stones" (cf. *Ps.* 90, 3-12).

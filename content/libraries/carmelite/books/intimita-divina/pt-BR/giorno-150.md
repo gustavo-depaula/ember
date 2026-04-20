@@ -1,16 +1,14 @@
-## 150 — A MEDITAÇÃO
+## XI — A MEDITAÇÃO
 
-### Presença de Deus
-
-— Infunde em mim, ó Senhor, um vivo espírito de piedade, para que eu aprenda a tratar contigo com afeto de filho.
+**Presença de Deus.** — *Infunde em mim, ó Senhor, um vivo espírito de piedade, para que eu aprenda a tratar contigo com afeto de filho.*
 
 ### Meditação
 
-1. — A doutrina de S. João da Cruz e de S. Teresa de Jesus nos dá a chave da meditação: conduzir as almas à intimidade com Deus e prepará-las para a contemplação. S. João da Cruz nos dá o tom: diz ele - da meditação e do discurso mental sobre as coisas divinas - que o fim é tirar delas um pouco de conhecimento e de afeto (N. I, 13, 3; II, 14, 2). Vemos logo que o acento não está no trabalho do intelecto, no «conhecimento especulativo» de Deus e das verdades da fé, mas no «conhecimento amoroso», o qual certamente se apoia no pensamento, porém num pensamento iluminado pelo amor, que brota de um coração amante. Quem ama sabe intuir muito melhor e chegar ao essencial muito mais depressa do que quem estuda talvez mais minuciosamente. S. Teresa de Jesus fala no mesmo sentido e afirma que a oração consiste «não em muito pensar, mas em muito amar» (M. IV, 1, 7). O pensamento é sempre subordinado ao amor; evidentemente, na meditação se pensa, mas não se pensa para tornar-se mais sábio, e sim para excitar o amor.
+**1** — A doutrina de S. João da Cruz e de S. Teresa de Jesus nos dá a chave da meditação: conduzir as almas à intimidade com Deus e prepará-las para a contemplação. S. João da Cruz nos dá o tom: diz ele - da meditação e do discurso mental sobre as coisas divinas - que o fim é tirar delas um pouco de conhecimento e de afeto (N. I, 13, 3; II, 14, 2). Vemos logo que o acento não está no trabalho do intelecto, no «conhecimento especulativo» de Deus e das verdades da fé, mas no «conhecimento amoroso», o qual certamente se apoia no pensamento, porém num pensamento iluminado pelo amor, que brota de um coração amante. Quem ama sabe intuir muito melhor e chegar ao essencial muito mais depressa do que quem estuda talvez mais minuciosamente. S. Teresa de Jesus fala no mesmo sentido e afirma que a oração consiste «não em muito pensar, mas em muito amar» (M. IV, 1, 7). O pensamento é sempre subordinado ao amor; evidentemente, na meditação se pensa, mas não se pensa para tornar-se mais sábio, e sim para excitar o amor.
 
 Quanto mais estivermos convencidos desta verdade, mais deixaremos de dar o lugar principal às reflexões, por mais sublimes e elevadas que possam ser, mas nos serviremos delas apenas quanto for necessário para despertar em nós o amor, para colocar-nos no exercício atual do amor.
 
-2. — Se na meditação não devemos dar ao pensamento a parte principal, não devemos, porém, cair no excesso oposto, isto é, descuidar o esforço e a aplicação necessários. Eis, portanto, a conduta que se deverá ter.
+**2** — Se na meditação não devemos dar ao pensamento a parte principal, não devemos, porém, cair no excesso oposto, isto é, descuidar o esforço e a aplicação necessários. Eis, portanto, a conduta que se deverá ter.
 
 Antes mesmo de ler o ponto da meditação, a alma terá grande cuidado em pôr-se bem na presença de Deus, procurando com um ato decidido da vontade afastar todo pensamento estranho, toda preocupação, toda pressa.
 

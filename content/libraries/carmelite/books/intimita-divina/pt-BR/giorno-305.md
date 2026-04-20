@@ -1,12 +1,10 @@
-## 305 — O PROGRESSO ESPIRITUAL
+## XIII — O PROGRESSO ESPIRITUAL
 
-### Presença de Deus
-
-Ó Senhor, concede-me progredir cada dia no caminho da santidade, sem jamais cansar-me e sem jamais voltar atrás.
+**Presença de Deus.** — Ó Senhor, concede-me progredir cada dia no caminho da santidade, sem jamais cansar-me e sem jamais voltar atrás.
 
 ### Meditação
 
-1. — «Sede santos, porque eu sou santo» (Lv. 19, 2): esta é a vontade de Deus, esta é nossa vocação, este é o objeto de nossos desejos e de nossos esforços. Criados à semelhança de Deus, não queremos que sua imagem em nós fique ofuscada pelos defeitos e pelas paixões, mas queremos que resplandeça límpida e pura, refletindo o mais possível sua santidade.
+**1** — «Sede santos, porque eu sou santo» (Lv. 19, 2): esta é a vontade de Deus, esta é nossa vocação, este é o objeto de nossos desejos e de nossos esforços. Criados à semelhança de Deus, não queremos que sua imagem em nós fique ofuscada pelos defeitos e pelas paixões, mas queremos que resplandeça límpida e pura, refletindo o mais possível sua santidade.
 
 Para tornar-nos semelhantes a si, Deus infundiu em nossa alma, juntamente com a graça, as virtudes teologais e morais, que têm justamente o fim de reproduzir em nós algo de suas perfeições infinitas; e ele, que como Pai ama reencontrar nos filhos os traços de sua semelhança, deseja sumamente ver-nos crescer nas virtudes.
 
@@ -16,7 +14,7 @@ Portanto, se queremos secundar a ação de Deus que quer tornar-nos semelhantes 
 
 Não devemos pensar que esse exercício seja reservado aos principiantes, porque «a obrigação de progredir no amor de Deus — e, portanto, também em todas as outras virtudes — dura até a morte» (São Francisco de Sales). Ninguém, por mais adiantado nos caminhos do espírito, pode considerar-se dispensado do exercício das virtudes.
 
-2. — Santa Teresa de Jesus, ao descrever as alturas da vida de união com Deus, faz contínuas digressões para recomendar vivamente o exercício das virtudes. «É necessário — escreve às suas filhas — que procureis não fazer consistir o vosso fundamento somente em rezar e contemplar, porque, se não procurardes adquirir as virtudes e não as exercitardes, permanecereis sempre anãs» (Moradas VII, 4, 9); e noutro lugar diz expressamente que, mediante as virtudes, «poderão progredir muito no serviço de Deus mesmo sem ser grandes contemplativas, enquanto sem elas nenhuma poderá fazê-lo» (Caminho 4, 3).
+**2** — Santa Teresa de Jesus, ao descrever as alturas da vida de união com Deus, faz contínuas digressões para recomendar vivamente o exercício das virtudes. «É necessário — escreve às suas filhas — que procureis não fazer consistir o vosso fundamento somente em rezar e contemplar, porque, se não procurardes adquirir as virtudes e não as exercitardes, permanecereis sempre anãs» (Moradas VII, 4, 9); e noutro lugar diz expressamente que, mediante as virtudes, «poderão progredir muito no serviço de Deus mesmo sem ser grandes contemplativas, enquanto sem elas nenhuma poderá fazê-lo» (Caminho 4, 3).
 
 Que Deus nos conduza ou não pela via da alta contemplação, isso não é essencial para nos fazer santos e, além disso, não depende da nossa vontade; mas o essencial, ao contrário — e isto depende de nós — é sempre a prática da virtude. Quer Deus nos queira na vida de família ou dedicados ao exercício de uma profissão, quer nos chame ao apostolado ou à vida contemplativa, em todo caso nos faremos santos somente na medida em que formos virtuosos.
 

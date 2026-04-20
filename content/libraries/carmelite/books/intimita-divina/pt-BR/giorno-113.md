@@ -1,12 +1,12 @@
-## 111 — O ÚLTIMO LUGAR
+## 37 — O ÚLTIMO LUGAR
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, que disseste: "Não vim para ser servido, mas para servir" (cf. Mc. 10, 45), ensina-me a amar o último lugar.*
 
-— Ó Jesus, que disseste: "Não vim para ser servido, mas para servir" (cf. Mc. 10, 45), ensina-me a amar o último lugar.
+
 
 ### Meditação
 
-1 — Jesus não só com palavras, mas também com o exemplo nos mostrou que veio não para ser servido,
+**1** — Jesus não só com palavras, mas também com o exemplo nos mostrou que veio não para ser servido,
 mas para servir; e quis reservar este exemplo para a véspera de sua Paixão, quase para no-lo deixar em testamento,
 junto com seus últimos e mais preciosos ensinamentos. Antes de instituir a Eucaristia,
 Ele, como um escravo qualquer, "começou a lavar os pés dos discípulos" e, quando terminou, disse: "Eu vos dei o exemplo,
@@ -43,7 +43,7 @@ primeiro. Tal convite espera-o só de Deus, e não nesta
 vida, mas na outra.
 
 
-2 — Durante a última Ceia Jesus quis dar aos Apóstolos outra lição de humildade; enquanto eles discutiam
+**2** — Durante a última Ceia Jesus quis dar aos Apóstolos outra lição de humildade; enquanto eles discutiam
 quem deles devia ser considerado maior, Ele
 os admoestou: "o maior entre vós seja como o menor,
 e quem governa como aquele que serve", pois eu também

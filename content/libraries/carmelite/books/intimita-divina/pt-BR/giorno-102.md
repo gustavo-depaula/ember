@@ -1,4 +1,4 @@
-## 100 — A IMPERFEIÇÃO
+## XXVI — A IMPERFEIÇÃO
 
 ### Presença de Deus
 

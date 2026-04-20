@@ -116,6 +116,13 @@ Alvo: pt-BR (Português Brasileiro)
 - [Giorni 152-161] Padronizado `II/III Domenica dopo Pasqua` como `II/III Domingo depois da Páscoa`; preservado léxico de transição (`meditação` -> `contemplação`, `espírito de fé`, doutrina da oração litúrgica em `Mediator Dei`) em registro teológico formal.
 - [Giorni 162-171] Preservada linguagem litúrgico-sacrificial explícita (`S. Missa`, `Sacrifício do altar`, `Vítima`, `Consagração`) e mantidos títulos marianos doutrinais em forma tradicional (`Mãe de Deus`, `esposa do Espírito Santo`, `serva do Senhor`) com dicção devocional elevada.
 - [Giorni 198-207] Padronizado registro do Sagrado Coração com termos estáveis (`amor misericordioso`, `reparação`, `consagração`, `alma vítima`, `graça atual`), preservando citações latinas litúrgicas e referências bíblicas no formato tradicional.
+- [Giorni 121-139] Re-traduzidos arquivos com conteúdo errado (duplicação de "Vem e Segue-me" / "Livre Imolação"). Títulos corrigidos: 45-54 (XLV-LIV) sobre obediência e sofrimento; 55-63 (LV-LXIII) sobre Paixão de Cristo.
+- [Giorno 148] Re-traduzido conteúdo errado ("Frutos Pascais" → "A Oração Vocal").
+- [Giorni 351-376] Re-traduzida série final sobre crescimento espiritual (união com Deus, noite do espírito, desenvolvimento do amor, união total) que continha meditações natalinas erradas.
+- [Giorni 001-389] Formatados todos os arquivos conforme padrão italiano: numerais romanos nos títulos, `**Presença de Deus.** — *texto*` inline (não cabeçalho ###), números de parágrafo em negrito (`**1** —`).
+- [Giorni 004-370] Corrigidas abreviações bíblicas em ~35 arquivos: removidos pontos de Jo., Lc., Mt. → Jo, Lc, Mt.
+- [Giorni 009, 011, 016] Removidas notas de rodapé de editor (convertidas para texto inline).
+- [Giorni 151, 153, 155, 159, 167, 170] Removidas seções duplicadas em italiano (`**Presenza di Dio.**` + `**Presença de Deus.**` → apenas português).
 
 ## Expressões e Idiomatismos
 

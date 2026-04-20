@@ -1,4 +1,4 @@
-## 155 — ARIDEZ E CONTEMPLAÇÃO
+## XIX — ARIDEZ E CONTEMPLAÇÃO
 
 ### Presença de Deus
 

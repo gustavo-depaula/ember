@@ -1,111 +1,23 @@
-## 99 — VENIAL SIN
+## 57 — THE TRIUMPH OF JESUS
 
-### Presence of God
+*Palm Sunday*
+
+**Presence of God.** — *O Jesus, I wish to follow You in Your triumph in order to follow You then even to Calvary.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — Holy Week opens with the remembrance of the Lord's triumphal entry into Jerusalem, which occurred precisely on the Sunday preceding His Passion. Jesus, who had always opposed every public manifestation, and who had fled when the people wished to make Him king (cf. *Jn.* 6, 15), today lets Himself be carried in triumph. Only now, that He is about to go to death, does He accept to be publicly acclaimed as Messiah, because precisely by dying on the cross He will be, in the fullest way, the Messiah, the Redeemer, the King, the Victor. He accepts to be recognized as King, but a King who will reign from the cross, who will triumph and conquer by means of the death of the cross. The same exultant crowd that today acclaims Him, in a few days, with imprecations, will lead Him to Calvary; and thus today's triumph will give greater publicity and prominence to tomorrow's Passion.
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+Jesus enters triumphantly into the holy city, but He enters to suffer, to die. Hence the double meaning of the procession of Palms: it is not only a question of accompanying Jesus in triumph, but of accompanying Him to the Passion, ready to share it with Him, seeking — according to the exhortation of St. Paul *(Ep.: Phil.* 2, 5-11) — to make His sentiments our own, sentiments of humility and total immolation that must lead us, like Him and with Him "even to death, and death on the cross". The palms, the blessed olive branches that today the priest hands us, do not have only a meaning of festivity, but "designate the victory that Jesus is about to report over the prince of death" *(MR.)*. They must therefore also designate our victory; we too must merit the palm of victory, first of all by conquering the evil that is in us, in our evil tendencies, and then the evil that is outside of us. Receiving the blessed palm we renew our promise of wishing to conquer with Jesus, and we do not forget that He conquered on the Cross.
 
+**2** — Jesus accepts to be carried in triumph, but how humble and meek He is in His triumph! He knows that in the midst of the osannant people His enemies are hidden who, with malignant insinuations, will succeed in converting those "hosannas" into "crucify hims"; He knows it and could impose Himself upon them with the power of His Divinity, He could unmask them publicly, frustrating their plans. But Jesus does not wish to conquer and reign with force, but with love, with sweetness; very to the purpose the Evangelist notes: "Tell the daughter of Zion: behold your king comes to you meek, riding on an ass" *(Mt.* 21, 5). And with the same meekness He, the Innocent One, the true King and Victor, will accept to appear as a guilty one, as one condemned and vanquished, as a mock king. But precisely thus, when He shall be raised upon the cross, He will draw all to Himself.
 
-satisfaction, toward creatures. And thus, little by little,
-
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+While the cortege proceeds festively, Jesus sees the panorama of Jerusalem profiled at His feet. And — relates St. Luke *(19, 41-44)* — "when He drew near to the city He looked upon it and wept over it, saying: 'O if you also, and precisely on this day, knew what makes for your peace!... Your enemies will not leave in you stone upon stone, because you have not known the moment in which you have been visited'". Jesus weeps over the obstinacy of the holy city, which, for not having recognized Him as Messiah, for not having welcomed His gospel, will be destroyed from its foundations. Jesus is true God, but He is also true man and, as such, vibrates with emotion and sorrow for the sad fate that Jerusalem has prepared for itself with its obstinate resistance to grace. He is about to go to the Passion and will die also for the salvation of Jerusalem, but Jerusalem will not be saved because it did not wish it, "because it has not known the moment in which it has been visited". This is the history of so many souls that resist grace; this is the motive of the most profound and most intimate suffering of the most sweet Heart of Jesus. At least you, devout soul, give to the Lord the joy of seeing you fully profit by the merits of His most painful Passion, of all His Blood shed. When you resist the invitations of grace, you resist the Passion of Jesus and prevent it from being applied to you in all its fullness.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"O Jesus, I contemplate You in Your triumphal entry into Jerusalem, when, prescient of the crowd that was about to come to meet You, You mounted the ass and gave an example of admirable humility amidst the applause of the hurrying people that cut branches from the trees and carpeted the road with garments. And while the crowds sang hymns of praise, You, never forgetting Your compassion, wept over Jerusalem. Arise now, my soul, handmaid of the Savior; in the cortege of the daughters of Zion, go to see your King. Accompany the Lord of heaven and earth, seated on the colt, follow Him always with olive branches and palms, with works of piety and with victorious virtues" (cf. St. Bonaventure).
 
+O Jesus, how bitter is Your weeping over the city that does not wish to recognize You! And how many souls, like Jerusalem, go toward perdition for their obstinate resistance to grace. For them I supplicate You with all my strength. "It is here, my God, that Your power must manifest itself, that Your mercy must shine forth!... How difficult is my request, O my true God, when I pray You to love him who does not love You, to open to him who does not knock, to give health to him who goes in search of sickness and rejoices in being sick!... You say, my Lord, that You have come to seek sinners. Behold here, Lord, the true sinners! But instead of looking at our blindness, consider, I pray You, my God, the precious Blood that Your Son shed for us. Cause that amidst so much malice Your mercy shine forth, and, considering, Lord, that we are Your creatures, spread upon us Your merciful clemency" (T.G. *Es.* 8, 2 and 3).
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
-
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+It is indeed true, O Jesus! even if we resist grace, You are always the Victor, Your victory over the prince of darkness has been full and in You humanity is saved and redeemed. But You are the good Shepherd who knows and loves each one of His sheep individually and one by one wishes to bring them to safety. To Your most loving Heart it is not enough to have merited salvation for the whole flock, but it ardently desires that each sheep profit by this salvation... O Lord, give us then that good will capable of welcoming Your gift, Your grace; cause that Your Passion may not be in vain for us.

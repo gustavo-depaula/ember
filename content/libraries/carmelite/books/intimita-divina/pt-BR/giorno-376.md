@@ -6,20 +6,69 @@
 
 **1** — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo resolutamente sair de si mesma e de todas as coisas, se põe com ardor à busca de Deus vivo e presente nela. Desde este primeiro passo à intimidade profunda, que estreitará a Deus a alma chegada à união total, o caminho é longo e fatigante. Progressivamente, à medida que, sustentada pela graça, a alma se desapega de si mesma e das criaturas, à medida que se liberta das suas imperfeições, que se despoja da sua vontade revestindo-se só da vontade divina e que, deixando inflamar nela o amor, se encaminha «à doce e deleitosa união» (G.C.N. II, 16, 14), a sua intimidade com Deus se faz mais intensa e amorosa até que, pervinda às alturas do amor transformante, se torna contínua e perfeita, torna-se abraço divino que estreita a criatura ao Criador. Então a grande promessa de Jesus: «se alguém Me amar... o Meu Pai o amará e Viremos a ele e faremos nele morada» *(Jo.* 14, 23), se realiza do modo mais perfeito possível na terra.
 
-«Não é para ter-se por coisa incrível — afirma São João da Cruz — que numa alma, já purgada, provada no fogo das tribulações, dos trabalhos e de várias tentações, e encontrada fiel no amor, se cumpram aqui embaixo aquelas palavras com que o Filho de Deus prometeu que, se alguém O amasse, a Santíssima Trindade viria a ele para fazer nele estável morada: isto é, iluminando-lhe divinamente o intelecto na sabedoria de Deus, deleitando-lhe a vontade no Espírito Santo, e absorvendo-a o Pai poderosamente no abismo da sua doçura» *(F.* 1, 15). Nos momentos mais altos da união transformante, a alma sente Deus vivo, presente e operante nela, sente o seu dulcíssimo abraço paterno que a sustém, sente o esplendor da sua Sabedoria que a ilumina, sente o divino flamejar do seu Amor que toda a penetra. Mas também quando o senso da presença e da ação divina nela não é tão forte e beatificante, a alma está consciente de estar profundamente unida a Deus, por Ele movida e governada: «Sei que [Jesus] está em mim, que é Ele que me guia e me inspira a cada instante», atesta Santa Teresinha do Menino Jesus *(St.* 8). A humilde Santa, não tendo conhecido as grandes graças místicas, chegou também ela, não menos da sua grande mãe, Teresa de Jesus, àquela intimidade profunda com Deus que a alma goza no estado de união total.
+«Não é para ter-se por coisa incrível — afirma São João da Cruz — que numa alma, já
+purgada, provada no fogo das tribulações, dos trabalhos e de várias tentações, e
+encontrada fiel no amor, se cumpram aqui embaixo aquelas palavras com que o Filho de
+Deus prometeu que, se alguém O amasse, a Santíssima Trindade viria a ele para fazer nele
+estável morada: isto é, iluminando-lhe divinamente o intelecto na sabedoria de Deus,
+deleitando-lhe a vontade no Espírito Santo, e absorvendo-a o Pai poderosamente no abismo
+da sua doçura» *(F.* 1, 15). Nos momentos mais altos da união transformante, a alma
+sente Deus vivo, presente e operante nela, sente o seu dulcíssimo abraço paterno que a
+sustém, sente o esplendor da sua Sabedoria que a ilumina, sente o divino flamejar do seu
+Amor que toda a penetra. Mas também quando o senso da presença e da ação divina nela não
+é tão forte e beatificante, a alma está consciente de estar profundamente unida a Deus,
+por Ele movida e governada: «Sei que [Jesus] está em mim, que é Ele que me guia e me
+inspira a cada instante», atesta Santa Teresinha do Menino Jesus *(St.* 8). A humilde
+Santa, não tendo conhecido as grandes graças místicas, chegou também ela, não menos da
+sua grande mãe, Teresa de Jesus, àquela intimidade profunda com Deus que a alma goza no
+estado de união total.
 
 **2** — A intimidade divina, sobretudo nos seus graus mais altos, é por si mesma quanto muito gozosa e beatificante; todavia a alma enamorada não anseia a esta intimidade para gozar, mas para amar sempre mais o seu Deus, para estar a Ele totalmente unida, por Ele toda possuída, movida e governada, a fim de servi-Lo sempre melhor e dar-Lhe glória em cada sua ação. Santa Teresa de Ávila diz expressamente que o fim para o qual o Senhor Se comunica às almas e lhes faz tantas graças — até os mais altos favores místicos — não é só de «acariciá-las», isto é, de consolá-las, mas «de fortalecer a sua fraqueza para que saibam imitar [Jesus] no muito padecer» e acrescenta com o seu habitual entusiasmo: «Este é o fim da oração; a isto tende o matrimônio espiritual: a produzir obras e obras» *(M.* VII, 4, 4 e 6).
 
-A doçura e o gozo da intimidade com Deus, têm o fim de tornar a alma mais corajosa no serviço divino, mais generosa no dom de si, mais forte no levar a cruz. Sim, enquanto estamos aqui embaixo o sofrimento não pode jamais faltar e não falta nem mesmo no meio das delícias da união divina, porque devemos conformar-nos a Jesus crucificado, devemos segui-Lo na via do Calvário até a completa imolação com Ele para a glória do Pai e a salvação dos irmãos. As obras que a união com Deus deve produzir são justamente as obras do amor, é a atividade intensa do amor puro, mediante a qual a alma se doa incessantemente a Deus, desejosa de arrastar consigo um número imenso de outras almas. Assim, da intimidade divina, da união total com o Senhor, do amor puro jorra espontâneo o apostolado mais fecundo. «A glória das almas [chegadas ao matrimônio espiritual] — afirma a ardente Teresa de Jesus — está em poder ajudar o seu Deus crucificado, especialmente quando veem até que ponto seja Ele ofendido e como poucos buscam deveras a sua honra, negligenciando todo o resto.» *(M.* VII, 3, 6).
+A doçura e o gozo da intimidade com Deus, têm o fim de tornar a alma mais corajosa no
+serviço divino, mais generosa no dom de si, mais forte no levar a cruz. Sim, enquanto
+estamos aqui embaixo o sofrimento não pode jamais faltar e não falta nem mesmo no meio
+das delícias da união divina, porque devemos conformar-nos a Jesus crucificado, devemos
+segui-Lo na via do Calvário até a completa imolação com Ele para a glória do Pai e a
+salvação dos irmãos. As obras que a união com Deus deve produzir são justamente as obras
+do amor, é a atividade intensa do amor puro, mediante a qual a alma se doa
+incessantemente a Deus, desejosa de arrastar consigo um número imenso de outras almas.
+Assim, da intimidade divina, da união total com o Senhor, do amor puro jorra espontâneo
+o apostolado mais fecundo. «A glória das almas [chegadas ao matrimônio espiritual] —
+afirma a ardente Teresa de Jesus — está em poder ajudar o seu Deus crucificado,
+especialmente quando veem até que ponto seja Ele ofendido e como poucos buscam deveras a
+sua honra, negligenciando todo o resto.» *(M.* VII, 3, 6).
 
-De todo esquecida de si, a alma amante não pensa nem no seu gozar, nem no seu padecer, mas pensa só em amar e em servir o seu Deus, pensa só em contribuir quanto pode para a sua glória, associando-se à obra redentora de Jesus. E se anseia a uma união com Deus sempre mais íntima e perfeita, seja hoje na terra como amanhã no céu, é para amar com a máxima intensidade, é para fazer amar o Amor pelo maior número possível de almas.
+De todo esquecida de si, a alma amante não pensa nem no seu gozar, nem no seu padecer,
+mas pensa só em amar e em servir o seu Deus, pensa só em contribuir quanto pode para a
+sua glória, associando-se à obra redentora de Jesus. E se anseia a uma união com Deus
+sempre mais íntima e perfeita, seja hoje na terra como amanhã no céu, é para amar com a
+máxima intensidade, é para fazer amar o Amor pelo maior número possível de almas.
 
 ### Colóquio
 
-«Senhor Deus, meu Diletto! Se a lembrança dos meus pecados ainda Vos retém de conceder-me o que Vos peço, fazei pois riguardo a eles, ó Deus meu, a Vossa vontade, que é a coisa que eu mais desejo sobre toda outra; mas deh! usai a Vossa bondade e misericórdia, e no perdão deles sereis conhecido. Se depois aguardais as minhas obras para exaudir com tal meio a minha prece, dai-me Vós estas obras, fazei-as Vós mesmo em mim; e se cumpra o Vosso querer nos padecimentos que de mim quiserdes aceitar. Mas se não aguardais as minhas obras, que mais aguardais, clementíssimo Senhor meu? e por que tardais ainda? Pois, se afinal de contas há de ser uma graça e misericórdia aquela que no Vosso divino Filho Vos peço, dignai-Vos aceitar a minha pequena moeda, já que a quereis, e dai-me este Bem, que Vós mesmo quereis dar-me.
+«Senhor Deus, meu Diletto! Se a lembrança dos meus pecados ainda Vos retém de
+conceder-me o que Vos peço, fazei pois riguardo a eles, ó Deus meu, a Vossa vontade, que
+é a coisa que eu mais desejo sobre toda outra; mas deh! usai a Vossa bondade e
+misericórdia, e no perdão deles sereis conhecido. Se depois aguardais as minhas obras
+para exaudir com tal meio a minha prece, dai-me Vós estas obras, fazei-as Vós mesmo em
+mim; e se cumpra o Vosso querer nos padecimentos que de mim quiserdes aceitar. Mas se
+não aguardais as minhas obras, que mais aguardais, clementíssimo Senhor meu? e por que
+tardais ainda? Pois, se afinal de contas há de ser uma graça e misericórdia aquela que
+no Vosso divino Filho Vos peço, dignai-Vos aceitar a minha pequena moeda, já que a
+quereis, e dai-me este Bem, que Vós mesmo quereis dar-me.
 
-«Quem se poderá liberar dos baixos modos de agir, se Vós não o alardes a Vós em pureza de amor, ó meu Deus? Como se levantará a Vós o homem gerado na abjeção e no lodo, se Vós, Senhor, não o levantais com a Vossa mão com que o plasmastes? Não me tirareis, ó Deus meu, aquilo que uma vez me destes no Vosso unigênito Filho Jesus Cristo, no qual me destes tudo o que bramo; e por isto me alegrarei, seguro de que não tardareis, se eu espero.
+«Quem se poderá liberar dos baixos modos de agir, se Vós não o alardes a Vós em pureza
+de amor, ó meu Deus? Como se levantará a Vós o homem gerado na abjeção e no lodo, se
+Vós, Senhor, não o levantais com a Vossa mão com que o plasmastes? Não me tirareis, ó
+Deus meu, aquilo que uma vez me destes no Vosso unigênito Filho Jesus Cristo, no qual me
+destes tudo o que bramo; e por isto me alegrarei, seguro de que não tardareis, se eu
+espero.
 
-«Mas por que pondes demoras, alma minha, quando desde este momento podes amar Deus no teu coração?
+«Mas por que pondes demoras, alma minha, quando desde este momento podes amar Deus no
+teu coração?
 
-«Meus são os céus e minha é a terra; minhas são as gentes, os justos meus e os pecadores; os anjos são meus, e a Mãe de Deus e todas as coisas são minhas; e o próprio Deus é meu e para mim, porque Cristo é meu e tudo para mim. Então, que buscas e pedes, alma minha? Tudo isto é teu e tudo para ti» (G.C. *Oração da alma enamorada*).
+«Meus são os céus e minha é a terra; minhas são as gentes, os justos meus e os
+pecadores; os anjos são meus, e a Mãe de Deus e todas as coisas são minhas; e o próprio
+Deus é meu e para mim, porque Cristo é meu e tudo para mim. Então, que buscas e pedes,
+alma minha? Tudo isto é teu e tudo para ti» (G.C. *Oração da alma enamorada*).

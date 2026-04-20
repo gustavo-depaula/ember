@@ -1,14 +1,10 @@
-## 9 — A IMACULADA CONCEIÇÃO
+## IX — A IMACULADA CONCEIÇÃO
 
-### Presença de Deus
-
-Ponho-me na presença de Maria Imaculada, minha doce Mãe, escutando o seu convite: "Vinde a mim, vós todos que me amais, e vos contarei quanto Deus fez à minha alma".
+**Presença de Deus.** — *Ponho-me na presença de Maria Imaculada, minha doce Mãe, escutando o seu convite: "Vinde a mim, vós todos que me amais, e vos contarei quanto Deus fez à minha alma".*
 
 ### Meditação
 
 1 — A festa da Imaculada harmoniza-se perfeitamente com o espírito do Advento; enquanto a alma se prepara para a vinda do Redentor, é tão justo pensar naquela que foi sua Mãe, "a toda pura".
-
-\* Mover esta meditação segundo o calendário do ano.
 
 A própria promessa do Salvador está unida, aliás está incluída, na promessa desta Virgem singular; depois de amaldiçoar a serpente insidiosa, Deus proclamou: "Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela; ela te esmagará a cabeça" (Gen. 3, 15). E eis a Virgem preanunciada avançar "branca como a neve, resplandecente como o sol, cheia de graça e bendita entre todas as mulheres" (BR.).
 

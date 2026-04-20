@@ -1,122 +1,29 @@
-## 100 — IMPERFECTION
+## 62 — THE MYSTERY OF THE CROSS
 
-### Presence of God
+*Good Friday*
+
+**Presence of God.** — *O Jesus, grant me to enter with You into the thick of the mystery of the Cross.*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — Good Friday is the day that more than any other invites us to penetrate "into the density of the travails and sorrows of the Son of God" (G.C.C.A. 35, 9)[^1] and not only with the theoretical consideration of the mind, but also with the practical disposition of the will to embrace willingly suffering, to associate and assimilate ourselves to the Crucified. Suffering with Him we shall understand better His sufferings, we shall understand better His love for us, since "the most pure suffering carries with it a more intimate and pure understanding" (G.C.C. 36, 12); and "no one feels more profoundly in his heart the Passion of Christ, than he who will have suffered something similar" (*Imit.* II, 12, 4). With these dispositions let us accompany the Lord in His *last* earthly day.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+The atrocious martyrdom that in a few hours will lacerate His Body has not yet begun and nevertheless the agony of Jesus in the garden of olives marks one of the most painful moments of His Passion and most revelatory of the most bitter sorrows of His spirit. His Most Holy Soul finds itself immersed in an inexpressible anguish: it is abandonment and extreme desolation, without the minimum comfort either from God or from men. The Savior feels gravitating upon Himself the enormous weight of all the sins of humanity; He, most innocent, sees Himself covered with the most execrable crimes, made almost enemy of God, made a target for His infinite justice that will punish in Him all our wickednesses. Certainly, insofar as God, Jesus never ceased, even in the most painful moments of His Passion, to be united to His Father, but insofar as man He felt as if rejected by Him, "struck by God and humbled" *(Is.* 53, 4). This explains the intimate drama of His spirit — drama much more painful than the terrible physical sufferings that await Him — explains the cruel agony that made Him sweat blood, explains His lament: "My soul is sorrowful even unto death" *(Mt.* 26, 38). And whereas before He had ardently desired the Passion, now that His humanity finds itself in face of the rude concreteness of the fact, deprived of the sensible succor of the Divinity, which seems not only to withdraw, but also to be indignant against it, Jesus groans: "My Father, if it is possible let this chalice pass from Me!". But the anguished cry of human nature is soon extinguished in that of the perfect conformity of the will of Christ to the will of the Father: "Yet not as I will, but as You will" (ibid., 39).
 
+**2** — To the agony in the garden follows the traitorous kiss of Judas, the capture, the night passed between the interrogations of the priests and the insults of the soldiers who slap Jesus, spit in His face, veil His eyes, while outside, in the atrium, Peter denies Him. At dawn the interrogations and accusations begin again, then begin the various turns from one tribunal to another: from Caiphas to Pilate, from Pilate to Herod, from Herod again to Pilate: follows the horrible flagellation, the coronation of thorns and finally, vested as a mock king, the Son of God is presented to the crowd that yells: "Away with this man, and release Barabbas", while for Him, the Savior, the populace asks in loud voice: "Crucify Him, crucify Him!" *(Lk.* 23, 18 and 21). Laden with the wood of the supplice, Jesus is dragged to Calvary and then crucified between two thieves. It is a sum of terrible physical and moral sufferings that reach the maximum when the Lord, agonizing on the cross, launches the cry: "My God, My God, why have You abandoned Me?" *(Mt.* 27, 46).
 
-for the soul that seeks perfection, of eliminating from its
-
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+Behold us once more in face of the intimate drama that rends the Soul of Christ and now accompanies, with a rapid crescendo, the intense increase of His physical sufferings. During the discourse of the Last Supper, speaking of His approaching Passion, He had said to the Apostles: "Behold the hour comes in which you will be dispersed... and will leave Me alone; but I am not alone, because the Father is with Me" *(Jn.* 16, 32). Union with the Father is everything for Jesus: it is His life, His strength, His comfort and His joy; if men abandon Him, the Father is always with Him and this suffices Him. From this we can understand better the intensity of His sorrow when, during the Passion, the Father withdraws from Him. Yet, even in His agony and His death on the cross, Jesus is always God and as such is always indissolubly united to the Father. But He has taken upon Himself the heavy burden of our sins and these rise up like a barrier of moral division between Him and the Father. His Humanity, although united personally to the Word, finds itself, by a miracle, deprived of every comfort and divine support and feels instead gravitating upon itself the malediction due to sin: "Christ — says St. Paul — has redeemed us from the curse... becoming Himself a curse for us" *(Gal.* 3, 13). We touch here the depths of the Passion of Jesus, the most atrocious bitternesses that He has embraced for our salvation. And nevertheless, even in the midst of such cruel torments, the lament of Jesus composes itself in the expression of total abandonment: "Father, into Your hands I commend My spirit" *(Lk.* 23, 46). Thus Jesus, who has wished to taste to the very bottom how bitter for man is suffering and dying, teaches us to overcome the disturbances and anguishes caused in us by sorrow and death with acts of full submission to the will of God and of trusting abandonment into His hands.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"O Christ, Son of God, contemplating the great sorrow that You have sustained for us on the cross, I feel You say to my soul: 'I have not loved you through deception!' These words open my eyes and clearly I see how much You have done for me, through the effect of this love. I see what You have sustained in life and in death, O passionate God-Man, because of this most visceral and unspeakable love. Yes, O Lord, You have not loved me through deception, but with a most perfect and very true love. And in me I see to be all the contrary, since I love You tepidly and without truth, and to know this is an insupportable pain to me.
 
+"O Master, You have loved me without deception; I instead, sinner, have never loved You, if not with lacking love. And never have I wished to feel any of those sorrows that You willingly suffered on the cross, and thus I have served You with negligence and without truth.
 
-sins!
+"Your love, my God, excites in me an inflamed desire not to wish to do anything in which there be offense to You, to wish to embrace the sorrow and contempt sustained by You, to keep continually fixed in my mind Your Passion and Death, in which is our true health and life.
 
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
+"O Lord, O Master and eternal Physician, Your Blood is the medicine that, without any price, You offer us for the healing of our souls and, while to You it cost the most bitter Passion and Death on the cross, to me it costs nothing, if not to dispose myself to receive it and You immediately give it to me and heal my infirmities. My God, since You have disposed to liberate and heal me, provided that I with tears and sorrow show You my evils and my infirmities, Lord, since my soul is infirm, behold I show You my sins and my miseries. No sin can there be, no illness of soul and spirit for which You have not given sufficient remedy and have not satisfied with Your death.
 
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
+"All my health and my joy is therefore in You, O Christ crucified, yes, in whatever state I may find myself, I never wish to take my gaze from Your cross" (Bl. Angela of Foligno).
 
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+[^1]: The sigla *C. A.* indicates the first redaction of the last five stanzas of the *Spiritual Canticle*, published in appendix to the homonymous Work edited by Fr. Gabriel of St. Mary Magdalen - Florentine Library, 1948.

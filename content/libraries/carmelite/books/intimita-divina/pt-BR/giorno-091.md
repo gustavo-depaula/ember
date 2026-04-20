@@ -1,11 +1,12 @@
-## 91 — A PREDIÇÃO DA PAIXÃO
+## XV — A PREDIÇÃO DA PAIXÃO
+
 *domingo da Quinquagésima*
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, dá-me luz para compreender o mistério e o valor do sofrimento cristão.*
 
-### Meditação
+**Meditação**
 
-1 — Aproximando-se a Quaresma, tempo em que domina a lembrança das dores de Jesus, o Evangelho de hoje (Lc.
+**1** — Aproximando-se a Quaresma, tempo em que domina a lembrança das dores de Jesus, o Evangelho de hoje (Lc.
 18, 31-43) traz o anúncio de sua Paixão.
 
 A predição é clara: "o Filho do homem será entregue
@@ -41,7 +42,7 @@ que o cristão passe pelo crisol da
 dor para chegar à santidade, à vida eterna.
 
 
-2 — Só depois da descida do Espírito Santo os Apóstolos compreenderam plenamente o significado da Paixão de
+**2** — Só depois da descida do Espírito Santo os Apóstolos compreenderam plenamente o significado da Paixão de
 Jesus e, em vez de se escandalizarem com ela, consideraram como a máxima honra seguir e pregar o Cristo crucificado.
 
 O olho humano não tem luz para compreender o valor
@@ -75,9 +76,9 @@ Deus!" A luz sobrenatural que invocamos do
 Senhor nos dará força para segui-lo levando, atrás dele,
 a nossa cruz.
 
-### Colóquio
+**Colóquio**
 
-"Ó Filho do Eterno Pai, Jesus Cristo Senhor nosso,
+«Ó Filho do Eterno Pai, Jesus Cristo Senhor nosso,
 verdadeiro Rei do universo! Qual é a herança que deixaste
 neste mundo para nós, teus descendentes? Que possuíste,
 Senhor meu, senão trabalhos, tormentos e desprezos? E para tragar o cálice amargo da morte,
@@ -88,28 +89,6 @@ aquele reino que Tu compraste com tanto sangue. Por
 amor de Deus, abri os olhos, ó grandes do mundo, e pensai
 
 
-que os verdadeiros cavaleiros de Jesus Cristo, os príncipes da sua
+que os verdadeiros cavaleiros de Jesus Cristo, os príncipes da sua Igreja, como um S. Pedro e um S. Paulo, não seguiram certo o caminho que vós seguis! Credes acaso que para vós deva haver outro caminho? Não o penseis» (T.G. Fd. 10, 11).
 
-
-Igreja, como um S. Pedro e um S. Paulo, não seguiram
-certo o caminho que vós seguis! Credes acaso que para
-
-
-vós deva haver outro caminho? Não o penseis" (TG.
-Fd. 10, 11).
-
-
-Ó meu Jesus, a cruz é tua insígnia; seria portanto
-
-
-bem presunçoso para mim pedir que dela fosse libertado. De um mal só te suplico ardentemente que me livres: de qualquer pecado deliberado, por pequeno que seja. Isto, ó Senhor,
-pelos méritos da tua santíssima Paixão, conserva-o sempre
-longe de mim. Mas quanto aos outros males: sofrimentos do
-corpo e do espírito, dores físicas e morais, peço-te luz
-e força. Luz para entender o sentido recôndito que eles têm nos planos da tua divina Providência, luz para crer
-firmemente que tudo - qualquer amargura ou prova,
-qualquer rompimento ou abalo - é por ti ordenado para meu
-maior bem. Força para não me deixar impressionar pelas
-falsas máximas do mundo nem desviar por um vão miragem de
-felicidade terrena; força para abraçar com coragem e com
-amor qualquer gênero de sofrimento.
+Ó meu Jesus, a cruz é tua insígnia; seria portanto bem vergonhoso para mim pedir de vir dela libertado. De um mal só te suplico ardentemente que me livres: de qualquer pecado deliberado, por pequeno que seja. Isto, ó Senhor, pelos méritos da tua santíssima Paixão, conserva-o sempre longe de mim. Mas quanto aos outros males: sofrimentos do corpo e do espírito, dores físicas e morais, peço-te luz e força. Luz para entender o sentido recôndito que eles têm nos planos da tua divina Providência, luz para crer firmemente que tudo — qualquer amargura ou prova, qualquer rompimento ou abalo — é por ti ordenado ao meu maior bem. Força para não me deixar impressionar pelas falsas máximas do mundo ou desviar por um vão miragem de felicidade terrena; força para abraçar com coragem e com amor qualquer gênero de sofrimento.

@@ -1,12 +1,10 @@
 ## 325 — COLABORADORES DE DEUS
 
-### Presença de Deus
-
-Senhor, toma-me para que eu seja digno de colaborar contigo na difusão do teu reino.
+**Presença de Deus.** — *Senhor, toma-me para que eu seja digno de colaborar contigo na difusão do teu reino.*
 
 ### Meditação
 
-1. — Falando do trabalho apostólico, São Paulo diz: *Dei sumus adjutores* (1Cor. 3, 9), somos cooperadores, colaboradores de Deus.
+**1** — Falando do trabalho apostólico, São Paulo diz: *Dei sumus adjutores* (1Cor. 3, 9), somos cooperadores, colaboradores de Deus.
 
 O apostolado não é, portanto, atividade pessoal, fruto mais ou menos apreciável dos próprios recursos e iniciativas; não é atividade que se possa desenvolver segundo as próprias perspectivas e muito menos com as próprias forças. Qualquer forma de apostolado é colaboração à obra única de redenção e de santificação que Deus realiza através dos séculos no mundo.
 
@@ -16,7 +14,7 @@ A obra do agricultor é certamente necessária para fazer frutificar o campo; no
 
 São Paulo estava tão convencido desta verdade que, dirigindo-se aos Coríntios, exclamava: *Dei agricultura estis, Dei aedificatio estis* (1Cor. 3, 9). Embora ele por primeiro os tivesse gerado à fé, não diz: sois meus filhos, sois meu campo, mas «sois campo de Deus, sois edifício de Deus». O apostolado não é obra humana, mas obra divina, à qual o homem presta sua colaboração como humilde instrumento.
 
-2. — Se o apóstolo é instrumento de Deus, não é porém instrumento material, como é por exemplo a pena nas mãos do escritor, mas instrumento vivo, pessoal, dotado de inteligência e vontade e que, por isso, deve pôr-se voluntariamente à disposição do Artista divino, procurando harmonizar, ou melhor, sincronizar seu modo de pensar, de querer, de agir, com o modo divino, isto é, com os métodos e os desígnios divinos.
+**2** — Se o apóstolo é instrumento de Deus, não é porém instrumento material, como é por exemplo a pena nas mãos do escritor, mas instrumento vivo, pessoal, dotado de inteligência e vontade e que, por isso, deve pôr-se voluntariamente à disposição do Artista divino, procurando harmonizar, ou melhor, sincronizar seu modo de pensar, de querer, de agir, com o modo divino, isto é, com os métodos e os desígnios divinos.
 
 Cada um de nós será apóstolo na medida em que for instrumento dócil nas mãos de Deus, de modo que Ele possa servir-se dele como quer.
 

@@ -1,109 +1,19 @@
-## 30 — CRER NO AMOR
-*26 dezembro*
+## 30 — O CAMINHO DA UNIÃO
 
-### Presença de Deus
-
-— Ó dulcíssimo Menino Jesus, faze-me penetrar no abismo do teu infinito amor, para que eu saiba crer nele com todas as minhas forças.
+**Presença de Deus.** — *Dá-me luz, ó Senhor, e dá-me força para arrancar de mim tudo o que me impede de unir-me a ti.*
 
 ### Meditação
 
-1 — Na criação Deus nos amou até fazer o homem à sua imagem e semelhança; na redenção nos
-amou até fazer a si mesmo à nossa imagem! O Natal
-é por excelência a festa do amor, e do amor que se revela não nos sofrimentos da Cruz, mas na amabilidade de
-um Menino, nosso Deus, que nos estende os braços para
-fazer-nos compreender que nos ama.
+**1** — «Une-se mais a Deus aquela alma que mais progrediu no amor, ou seja, aquela que tem a própria vontade mais conforme à de Deus» (G.C.S. II, 5, 4). No plano concreto da vida o amor, quando é verdadeiro, manifesta-se no querer fazer aquilo que agrada à pessoa amada, no uniformizar-se aos seus desejos, aos seus gostos, aos seus quereres, não querendo nada do que possa desagradar-lhe. A medida com que uma alma sabe verdadeiramente conformar-se à vontade de Deus, é a medida de sua união com ele; e é evidente que esta união não será perfeita enquanto a alma resiste, mesmo em pequenas coisas, ao querer divino ou não o aceita de bom coração, como também enquanto conserva desejos e gostos que, mesmo de modo muito leve, estão em desarmonia com os de Deus. Todo o caminho espiritual para a união divina consiste num duplo movimento muito simples, mas essencial: despojar-se de tudo o que não agrada a Deus, renunciar a tudo o que contrasta com sua vontade, conformando-se a ela e cumprindo-a com o maior amor. Movimento muito simples, mas ao mesmo tempo muito amplo, porque deve estender-se a todas as circunstâncias da vida, nenhuma excluída, de modo que em todas, nas grandes como nas mínimas, a alma se comporte de modo perfeitamente conforme ao querer divino; movimento muito profundo, porque deve alcançar todas as dobras mais escondidas do espírito para desembaraçá-lo dos mínimos resíduos e das últimas resistências do egoísmo e do orgulho, não só eliminando os atos, mas arrancando também as raízes. Enquanto este trabalho de profunda purificação não for levado a termo, a vontade da alma não poderá ser totalmente conforme à de Deus, opondo-se ainda suas muitas imperfeições e hábitos imperfeitos. Apenas «a alma que tem a vontade inteiramente conforme e semelhante à divina, é... de todo unida e transformada em Deus»; por isso quem quer chegar à união «não tem outra necessidade senão despojar-se de suas contrariedades e dissimilaridades» (ibi, 5, 5).
 
-Se a consideração da justiça infinita pode levar-nos a maior fidelidade no serviço de Deus, quanto mais nos
-leva a consideração do seu amor infinito! Santa Teresa
-do Menino Jesus dizia: "A minha natureza é tal que o temor me faz
-recuar; com o amor, ao contrário, não só vou adiante, mas
-voo" (St. 8).
+**2** — Se te examinas atentamente verás que tua vontade é ainda muito dissimilar da de Deus. Deus quer apenas o bem e o quer de modo perfeitíssimo; tu ao contrário, junto com o bem queres frequentemente também aquilo que é mal; queres o bem mesmo, queres-no muito frouxamente e o operas muito imperfeitamente. Todas as vezes que cometes alguma falta, mesmo uma simples imperfeição, queres alguma coisa que Deus não pode querer; poderão ser pequenos atos de preguiça, de negligência, de impaciência; poderão ser sutis buscas de ti mesmo ou do afeto e da estima das criaturas; poderão ser sutis intenções segundas que se infiltram em teu operar. Todas coisas que devem ser eliminadas para chegar à união com Deus.
 
-E Jesus, o Deus-Menino, está aqui, no meio de nós, precisamente para mudar a antiga lei do temor para a nova
-do amor.
+São João da Cruz diz expressamente que não só os principiantes no caminho do espírito, mas também os proficientes vão sujeitos a muitas imperfeições e conservam ainda dos hábitos imperfeitos, provenientes sobretudo de um sutil orgulho e egoísmo espiritual. Tendo-se exercitado longamente na vida interior, facilmente se insinua neles certa presunção e segurança de si, por que em seu trato com Deus estão expostos a faltar à humildade e à reverência, enquanto nas relações com o próximo caem frequentemente na fraqueza de querer ser estimados perfeitos. Além disso, não estando de todo desapegados de si mesmos, detêm-se a gozar um pouco egoisticamente as consolações espirituais que recebem na oração e assim se distraem da busca de Deus só, retardam seu caminho para a união e se expõem também a cair nas ilusões da fantasia ou do demônio (cf. N. II, 2).
 
-Para correr na via dos mandamentos divinos, as almas
-nossas precisam dilatar-se na convicção da infinita caridade de Deus por nós; e justamente para esse fim queremos
-mergulhar na contemplação do mistério natalino. De fato, quando vemos Jesus, o Verbo eterno, fazer-se por nós
-Menino e, desde o primeiro instante da sua vida terrena,
-abraçar plenamente as nossas misérias, até não ter por berço
-senão uma manjedoura, por leito um pouco de feno, por coberta miseráveis paninhos... oh, não podemos mais duvidar
-do seu amor. Deus nos ama! Jesus nos ama! Sim, repitamo-lo e
-repitamo-lo sem fim: "Conhecemos e cremos na caridade que Deus tem por nós" (1 Jo. 4, 16). Senhor,
-eu creio no teu amor por mim! Senhor, aumenta a minha fé.
-
-2 — "Deus é caridade!" O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
-alma que se concentra toda na contemplação do
-Verbo Encarnado. Enquanto não se compreende que Deus é
-amor infinito, infinita benevolência que se dá e se estende
-a todos os homens para comunicar-lhes o seu bem e a
-sua felicidade, a vida espiritual permanece em botão, não se
-desenvolveu ainda, não é ainda profunda. Só quando
-a alma, iluminada pelo Espírito Santo, penetra o mistério
-da divina caridade, a sua vida espiritual se torna plena e madura.
-
-Não podemos entender melhor o amor infinito do
-nosso Deus do que aproximando-nos da pobre manjedoura onde
-Ele jaz, feito carne por nós. "As virtudes e os atributos
-divinos se descobrem em Deus por meio dos mistérios do Homem-
-Deus", ensina São João da Cruz (cf. C. 37, 2), e entre
-esses atributos o primeiro é sempre o da caridade, que
-constitui o próprio ser divino. Da contemplação
-amorosa e silenciosa de Jesus Menino nasce facilmente em nós
-um sentido quanto possível profundo e penetrante do seu infinito
-amor: não é somente crer, é de certo modo experimentar que Deus nos ama. Então a vontade aceita com plenitude
-aquilo que a fé lhe ensina, aceita-o com amor, com todas
-as forças, e a alma se lança totalmente a crer no amor
-infinito. Deus é caridade: esta verdade, fundamental de toda
-a vida cristã, penetrou profundamente na alma; ela
-a sente, a vive, porque a teve, por assim dizer, quase tocada
-no seu Deus Encarnado. Quem assim crê no Amor infinito
-saberá dar-se a ele sem medida: dar-se totalmente.
+Isto demonstra quão profundas são em nós as raízes do orgulho e do egoísmo, de modo que, desapegando o coração das vaidades terrenas e dos bens materiais, estamos logo prontos a apegar-nos aos bens espirituais. Contudo não devemos desesperar de chegar à união, mas antes tomar motivo de nossa miséria para suplicar com maior insistência ao Senhor que se digne levar a termo a obra de nossa purificação. Ele, aliás, o deseja mais do que nós mesmos e, se não o faz como gostaria, é só porque nos encontra relutantes, insuportáveis, muito pouco dispostos a aceitar de boa vontade aquilo que nos humilha e mortifica até o fundo. Contudo esta é a via para chegar à união com Deus.
 
 ### Colóquio
 
-Senhor, eu creio no teu amor por mim! Como poderia
-ainda duvidar?
+«Enquanto minha vontade tem caprichos estranhos à união divina, fantasias de sim e de não, eu permaneço no estado de infância, não caminho no amor a passos de gigante, porque teu fogo, ó Senhor, ainda não queimou todas as escórias, o ouro não é puro, e sou ainda uma buscadora de mim mesma. Ó Senhor, ainda não consumiste toda minha hostilidade para contigo! Mas quando houveres destruído em mim todo amor vicioso, toda dor e temor defeituoso, então o amor será perfeito e o anel de ouro de nossa união será mais largo que o céu e a terra.
 
-"Tu desceste da grande altura da tua divindade
-até ao lodo da nossa humanidade, porque a baixeza do meu entendimento não podia nem compreender, nem olhar
-a tua altura. Para que com a minha pequenez eu pudesse
-ver a tua grandeza, Tu te fizeste menino,
-encerrando a grandeza da tua Deidade na pequenez da
-nossa humanidade. E assim te manifestaste a nós no Verbo
-Encarnado teu Filho; assim te conheci, abismo
-de caridade! Envergonha-te, envergonha-te, criatura cega, tão
-exaltada e honrada por teu Deus, de não conhecer que Deus,
-pela sua inestimável caridade, desceu da altura da
-Deidade até à baixeza do lodo da tua humanidade. Ó
-amor inestimável, ó amor inestimável, que dizes tu,
-
-alma minha? Digo a ti, Pai eterno, suplico a ti, benigníssimo Deus, que comuniques a nós e a todos os teus servos o
-fogo da tua caridade" (Santa Catarina de Sena).
-
-Ó Deus, como tenho necessidade de conhecer o teu amor infinito! Conhecer para crer, crer para amar, amar
-para dar-me totalmente a ti, sem reserva, assim como Tu te
-deste todo a mim.
-
-Como eu gostaria, ó meu Deus, de retribuir o teu dom! Mas
-Tu, que és Tudo, deste-me tudo, enquanto eu, que sou
-nada, não posso dar-te senão o nada! E no entanto quanto sou
-tardo, preguiçoso, avaro em dar-te este nada, como procuro
-poupar-me, dar-me com medida, com prudência... Oh, o
-teu amor não conheceu medida, não calculou a
-distância infinita que vai do Criador à criatura, mas
-superou e encheu essa distância, unindo de modo indissolúvel a natureza humana com a Pessoa divina do
-Verbo! Como é verdade que o amor não conhece obstáculos e
-tudo vence, a tudo se acomoda, contanto que alcance o seu
-fim! Ó doce Menino Jesus, meu Deus, meu Salvador,
-concede-me compreender cada vez mais a grandeza e a
-profundidade do teu amor; faze-me penetrar neste abismo
-sem fronteiras cujo fundo nenhuma criatura jamais poderá
-tocar! À medida que me aprofundo nele, sinto nascer em
-mim uma nova força, um novo impulso que me empurra irresistivelmente a dar-me totalmente a ti. Tu sabes como tenho necessidade
-de que esta força, este impulso cresça, se consolide
-para tornar-me verdadeiramente generoso e pronto para todo sacrifício,
-para toda doação. Ó Senhor, que eu compreenda a
-tua infinita caridade, que tenha nela uma fé inabalável, e
-que depois nunca recuse nada ao teu amor: eis o dom
-que te peço no teu Natal!
+Mas para fazer isto é necessário que cada dia morra a mim mesma. Ó Jesus, quero morrer, quero diminuir, quero renunciar a mim mesma cada dia mais, para que Tu cresças e sejas exaltado em mim. Resido pequena pequena, no fundo de minha pobreza; vejo meu nada, minha miséria, minha impotência, percebo ser incapaz de progresso, de perseverança, vejo a multidão de minhas negligências, de meus defeitos; vejo-me em minha indigência, prostro-me em minha miséria, reconhecendo meu extremo need o exponho à tua misericórdia, ó meu divino Mestre! Quero fazer consistir a alegria da alma minha — quanto à vontade e não à sensibilidade — em tudo o que pode imolar-me, destruir-me, abaixar-me, porque quero dar lugar a ti, ó Senhor. Não quero mais viver de minha vida, mas ser transformada em ti, para que minha vida seja mais divina que humana, e o Pai, inclinando-se sobre mim, possa reconhecer nela a imagem do Filho dileto no qual pôs todas as suas complacências» (cf. E.T. I, 2 e 3).

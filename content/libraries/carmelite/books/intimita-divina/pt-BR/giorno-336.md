@@ -1,8 +1,6 @@
-## 336 — A FORMAÇÃO DOS APÓSTOLOS
+## 14 — A FORMAÇÃO DOS APÓSTOLOS
 
-### Presença de Deus
-
-Aceita, Senhor, minha pobre oração pelo advento do teu reino.
+**Presença de Deus.** — *Aceita, Senhor, minha pobre oração pelo advento do teu reino.*
 
 ### Meditação
 

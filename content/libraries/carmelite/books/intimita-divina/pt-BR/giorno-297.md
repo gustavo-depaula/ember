@@ -1,12 +1,10 @@
-## 297 — A PERSEVERANÇA
+## XXX — A PERSEVERANÇA
 
-### Presença de Deus
-
-Que tua graça, ó Deus, me torne perseverante até o fim.
+**Presença de Deus.** — Que tua graça, ó Deus, me torne perseverante até o fim.
 
 ### Meditação
 
-Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, «aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular» (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
+**1** — Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, «aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular» (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
 
 Não somos anjos, somos homens. O anjo, puro espírito, é por natureza estável: tomada uma resolução, permanece firme nela; mas não é assim conosco, que, sendo compostos de espírito e matéria, sofremos as consequências da mutabilidade e das flutuações desta. Como a estabilidade é característica do espírito, assim a volubilidade é característica da matéria; eis por que nos é tão difícil ser perfeitamente constantes no bem.
 
@@ -14,7 +12,7 @@ Ainda que tenhamos formulado bons propósitos no espírito, sentimos sempre pesa
 
 E, no entanto, Deus nos chama igualmente à santidade e, como esta exige exercício contínuo das virtudes, ele — que nunca pede nada impossível — remediou a instabilidade da natureza infundindo em nós a virtude da perseverança, cujo objeto particular é a duração no esforço. Se por natureza somos instáveis, podemos, pois, com a ajuda da graça, tornar-nos perseverantes.
 
-2. — Há duas formas de perseverança. A primeira é tão perfeita que não apresenta nenhuma fissura: é sempre retilínea, sempre igual a si mesma, mesmo nas circunstâncias mais difíceis e imprevistas. É a perseverança da virtude heroica, das almas chegadas ao estado de união transformante e que, por isso, vivem habitualmente sob o governo do Espírito Santo. Meta belíssima à qual podemos e devemos aspirar, mas à qual não nos é dado chegar só com o exercício da virtude, porque só a intervenção habitual dos dons do Espírito Santo pode sanar até o fundo a instabilidade da nossa natureza.
+**2** — Há duas formas de perseverança. A primeira é tão perfeita que não apresenta nenhuma fissura: é sempre retilínea, sempre igual a si mesma, mesmo nas circunstâncias mais difíceis e imprevistas. É a perseverança da virtude heroica, das almas chegadas ao estado de união transformante e que, por isso, vivem habitualmente sob o governo do Espírito Santo. Meta belíssima à qual podemos e devemos aspirar, mas à qual não nos é dado chegar só com o exercício da virtude, porque só a intervenção habitual dos dons do Espírito Santo pode sanar até o fundo a instabilidade da nossa natureza.
 
 A segunda forma é a das almas fervorosas, e também das almas perfeitas, mas que ainda não gozam da moção habitual do Espírito Santo; por isso apresenta fissuras mais ou menos leves, segundo a maior ou menor perfeição da alma. Neste caso, a continuidade da perseverança não consiste em permanecer perfeitamente estável no bem, mas antes em recomeçar sem cessar, logo que se percebe ter faltado em alguma coisa.
 
@@ -22,7 +20,7 @@ Basta, às vezes, um momento de desatenção, um fato novo que nos surpreenda, u
 
 Esta é a perseverança à qual todos devemos certamente chegar, porque depende da nossa boa vontade, no sentido de que Deus infundiu em nós tal virtude e nos dá, momento a momento, a graça suficiente para colocá-la em ato. Não está em nosso poder livrar-nos da instabilidade da nossa natureza e, portanto, não nos é possível evitar qualquer relaxamento no bem, qualquer negligência, fraqueza ou falta; mas está em nosso poder retomar-nos logo que percebemos ter posto o pé em falso. Eis a perseverança que Deus exige de nós; e, quando formos fiéis em praticá-la, estando sempre prontos a levantar-nos depois de qualquer culpa, o próprio Deus coroará nossos esforços concedendo-nos a graça suprema da perseverança final.
 
-### Colóquio
+### Colloquio
 
 «Ó Senhor, certamente serei salvo se perseverar até o fim; mas essa perseverança deve ser virtuosa para merecer a salvação; se me vem a virtude que me salva, és tu que me fazes perseverar até alcançar a salvação.
 

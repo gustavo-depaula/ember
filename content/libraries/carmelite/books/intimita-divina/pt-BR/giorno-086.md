@@ -1,4 +1,4 @@
-## 86 — A POBREZA VOLUNTÁRIA
+## X — A POBREZA VOLUNTÁRIA
 
 ### Presença de Deus
 

@@ -1,12 +1,10 @@
 ## 25 — A AÇÃO APOSTÓLICA
 
-### Presença de Deus
-
-Inflama-me, ó Senhor, com o teu santo zelo, para que eu não saiba tolerar em mim a menor coisa que te desagrade.
+**Presença de Deus.** — *Inflama-me, ó Senhor, com o teu santo zelo, para que eu não saiba tolerar em mim a menor coisa que te desagrade.*
 
 ### Meditação
 
-1.— Nos três anos da sua vida pública, Jesus exerceu em larga escala o apostolado externo, mas a sua atividade nunca esteve desligada da sua íntima união com o Pai;
+**1** — Nos três anos da sua vida pública, Jesus exerceu em larga escala o apostolado externo, mas a sua atividade nunca esteve desligada da sua íntima união com o Pai;
 ao contrário, brotou dela: união não limitada apenas às horas
 de oração, mas união permanente, indissolúvel de cada
 instante da sua vida. Se semelhante união substancial com
@@ -27,7 +25,7 @@ externa; isto é, que pretendesse — ainda que por motivo da urgência das obra
 interior, da oração e da busca da união com Deus, se
 condenaria a permanecer, por si mesma, infecunda.
 
-2 — A obra apostólica de Jesus, toda permeada de sacrifício, culminou no Sacrifício supremo da Cruz; assim, a
+**2** — A obra apostólica de Jesus, toda permeada de sacrifício, culminou no Sacrifício supremo da Cruz; assim, a
 nossa atividade apostólica, para ser fecunda, deve mergulhar as suas raízes no terreno fértil da imolação. Por
 si, a ação apostólica exige sacrifício, seja pela vida
 cansativa que impõe, seja pelos contínuos contatos com pessoas de mentalidade, gostos

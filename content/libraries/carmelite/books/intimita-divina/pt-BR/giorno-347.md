@@ -16,14 +16,14 @@ Não há vida interior, não há santidade autêntica que não se coroe com a au
 
 ### Colóquio
 
-"Ó Eterno Pai, Tu não podes deixar de saber que os pobres pecadores são criaturas tuas e, pelo título supremo da criação, a ti pertencem.
+«Ó Eterno Pai, Tu não podes deixar de saber que os pobres pecadores são criaturas tuas e, pelo título supremo da criação, a ti pertencem.
 
-"Ó Filho, ó Rei bendito, não poderás negar que estes miseráveis são teus, por ti ganhos pelo incontestável título da Redenção. Ouve-me, ó Filho obedientíssimo, ouve-me e mostra-te propriamente às minhas preces, porque, assim apresentando-me eu ao Eterno Pai com o penhor na mão do teu Sangue e da tua Paixão, não poderá Ele afastar-me de si antes de atender aos meus pedidos.
+«Ó Filho, ó Rei bendito, não poderás negar que estes miseráveis são teus, por ti ganhos pelo incontestável título da Redenção. Ouve-me, ó Filho obedientíssimo, ouve-me e mostra-te propriamente às minhas preces, porque, assim apresentando-me eu ao Eterno Pai com o penhor na mão do teu Sangue e da tua Paixão, não poderá Ele afastar-me de si antes de atender aos meus pedidos.
 
-"Ajuda-me, ó eterno Espírito Santo! Estes, embora abomináveis pela enormidade dos pecados, contudo a ti pertencem, porque Tu os fizeste teus admitindo-os à participação da tua bondade.
+«Ajuda-me, ó eterno Espírito Santo! Estes, embora abomináveis pela enormidade dos pecados, contudo a ti pertencem, porque Tu os fizeste teus admitindo-os à participação da tua bondade.
 
-"Ó Senhor, eu não tenho outro refrigério senão ver meus próximos converterem-se a ti; e por isso somente sofro pacientemente tua ausência. Se Tu não me concedes este contentamento, que devo fazer? Não me expulses, clementíssimo Senhor!
+«Ó Senhor, eu não tenho outro refrigério senão ver meus próximos converterem-se a ti; e por isso somente sofro pacientemente tua ausência. Se Tu não me concedes este contentamento, que devo fazer? Não me expulses, clementíssimo Senhor!
 
-"Tu estás resolvido e já disposto a atender-me; voltando para mim teus olhos benignos, vejo revestidos da tua luz meus filhinhos e filhinhas espirituais, meus irmãos e irmãs e todos aqueles que, dia após dia, te vou adquirindo com o desejo de vê-los sempre fiéis a ti.
+«Tu estás resolvido e já disposto a atender-me; voltando para mim teus olhos benignos, vejo revestidos da tua luz meus filhinhos e filhinhas espirituais, meus irmãos e irmãs e todos aqueles que, dia após dia, te vou adquirindo com o desejo de vê-los sempre fiéis a ti.
 
-"Recomendo-te, sumo e eterno Pai, meus diletíssimos filhos, os quais Tu puseste sobre meus ombros, e te peço que os visites com tua graça; faze-os viver mortos para o mundo com verdadeira e perfeitíssima luz; liga-os entre si com o doce vínculo da caridade. Peço-te, Eterno Pai, que nenhum me seja tirado das mãos e perdoa-nos todas as nossas iniquidades. Eu te ofereço e te recomendo meus diletíssimos filhos, porque eles são minha alma" (Santa Catarina de Sena).
+«Recomendo-te, sumo e eterno Pai, meus diletíssimos filhos, os quais Tu puseste sobre meus ombros, e te peço que os visites com tua graça; faze-os viver mortos para o mundo com verdadeira e perfeitíssima luz; liga-os entre si com o doce vínculo da caridade. Peço-te, Eterno Pai, que nenhum me seja tirado das mãos e perdoa-nos todas as nossas iniquidades. Eu te ofereço e te recomendo meus diletíssimos filhos, porque eles são minha alma» (Santa Catarina de Sena).

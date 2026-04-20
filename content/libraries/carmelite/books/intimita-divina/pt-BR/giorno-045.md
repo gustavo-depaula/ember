@@ -1,22 +1,16 @@
 ## 45 — "EU SOU A VIDA"
 
-### Presença de Deus
-
-— Ó Jesus, fonte de vida, infunde cada vez mais a tua vida em minha alma.
+**Presença de Deus.** — *Ó Jesus, fonte de vida, infunde cada vez mais a tua vida em minha alma.*
 
 ### Meditação
 
-1 — Jesus anunciou assim a sua missão: "Eu vim para que tenham vida e a tenham em abundância" (Jo. 10, 10). E qual é a vida que Ele nos dá? É a vida da graça, a qual é uma participação na vida divina.
+**1** — Jesus anunciou assim a sua missão: "Eu vim para que tenham vida e a tenham em abundância" (Jo. 10, 10). E qual é a vida que Ele nos dá? É a vida da graça, a qual é uma participação na vida divina.
 
-Jesus é o Verbo Encarnado e, enquanto Verbo, possui por natureza a vida divina no mesmo modo e medida do Pai: "Como o Pai tem a vida em si mesmo, assim concedeu também ao Filho ter a vida em si mesmo" (Jo. 5, 26). Esta plenitude de vida divina, em razão da união hipostática, reflete-se na Humanidade de Cristo. Posta em contato direto com a Divindade, à qual está pessoalmente unida,
-
-a santíssima Humanidade de Jesus é inundada pela vida divina, isto é, recebe dela a máxima participação por meio de uma "tal plenitude de graça que não se pode conceber maior" (Myst. Corp.). A graça santificante que invade a Alma de Jesus é tão plena, perfeita, intensa, superabundante, que os teólogos não hesitam em chamá-la de "graça infinita".
+Jesus é o Verbo Encarnado e, enquanto Verbo, possui por natureza a vida divina no mesmo modo e medida do Pai: "Como o Pai tem a vida em si mesmo, assim concedeu também ao Filho ter a vida em si mesmo" (Jo. 5, 26). Esta plenitude de vida divina, em razão da união hipostática, reflete-se na Humanidade de Cristo. Posta em contato direto com a Divindade, à qual está pessoalmente unida, a santíssima Humanidade de Jesus é inundada pela vida divina, isto é, recebe dela a máxima participação por meio de uma "tal plenitude de graça que não se pode conceber maior" (Myst. Corp.). A graça santificante que invade a Alma de Jesus é tão plena, perfeita, intensa, superabundante, que os teólogos não hesitam em chamá-la de "graça infinita".
 
 Em Cristo, afirma S. Paulo, "aprouve (ao Pai) que nele habitasse toda a plenitude" (Col. 1, 19), e São João no-lo apresenta "cheio de graça e de verdade" (Jo. 1, 14). Mas Jesus não quer guardar unicamente para si essas imensas riquezas: Ele quer ter irmãos a quem delas participar; por isso abraça a sua dolorosíssima Paixão e, morrendo na Cruz, merece para nós, seus membros, aquela graça que Ele possui com tanta plenitude. Cristo torna-se assim para nós a fonte, e a única fonte, da graça e da vida sobrenatural: Ele é tão "cheio de graça e de verdade" que "de sua plenitude todos nós recebemos" (Jo. 1, 14 e 16). Eis, portanto, como chega até nós a vida divina: do Pai ao Verbo, do Verbo à Humanidade que Ele assumiu na sua Encarnação, desta Humanidade, que é a Humanidade santa de Cristo, às nossas almas.
 
-2 — Como tudo o que existe fora de Deus, assim também a graça é criada por Deus. Enquanto Deus, isto é, como Verbo, Jesus é, junto com o Pai e o Espírito Santo, o criador da graça. Mas agora consideramos Jesus enquanto nosso Redentor, portanto como Homem, e, como tal, Ele é o Mediador da graça, isto é, Aquele que no-la mereceu e no-la dispensa. De fato, Jesus, mediante o tesouro infinito de graça que possui, pôde merecê-la também para nós. E não só a mereceu uma vez por todas morrendo por nós na Cruz, mas continuamente a aplica às nossas almas, produzindo-a em nós: a graça é infundida e se desenvolve em nós por sua ação viva e atual. Desse modo Jesus nos dá a vida, é para nós vida, única fonte da nossa vida sobrenatural. Por este motivo, a graça de Jesus se chama
-
-"graça capital", isto é, a graça da Cabeça que a merece e a comunica aos membros.
+**2** — Como tudo o que existe fora de Deus, assim também a graça é criada por Deus. Enquanto Deus, isto é, como Verbo, Jesus é, junto com o Pai e o Espírito Santo, o criador da graça. Mas agora consideramos Jesus enquanto nosso Redentor, portanto como Homem, e, como tal, Ele é o Mediador da graça, isto é, Aquele que no-la mereceu e no-la dispensa. De fato, Jesus, mediante o tesouro infinito de graça que possui, pôde merecê-la também para nós. E não só a mereceu uma vez por todas morrendo por nós na Cruz, mas continuamente a aplica às nossas almas, produzindo-a em nós: a graça é infundida e se desenvolve em nós por sua ação viva e atual. Desse modo Jesus nos dá a vida, é para nós vida, única fonte da nossa vida sobrenatural. Por este motivo, a graça de Jesus se chama "graça capital", isto é, a graça da Cabeça que a merece e a comunica aos membros.
 
 E eis duas preciosíssimas consequências práticas. Quem quer ter a graça, a vida sobrenatural, deve ir a Cristo, ser incorporado a Ele e viver n'Ele: "Quem tem o Filho tem a vida - ensina o Evangelista - quem não tem o Filho não tem a vida" (1 Jo. 5, 12).
 
@@ -24,11 +18,7 @@ A graça que santifica as nossas almas é, em sua essência, idêntica àquela q
 
 ### Colóquio
 
-Ó Jesus, como é doce para mim contemplar a tua santíssima Humanidade repleta de todos os tesouros da vida divina! Fixar o meu olhar diretamente na tua Divindade de Verbo eterno é para mim muito difícil, mas considerá-la participada na tua Humanidade é mais fácil e acessível; aqui o pensamento repousa e não cessa de admirar a tua grandeza. Ó Jesus, a tua Alma é tão rica de graça, tão luminosa, e tão cheia de vida divina, que nela se reflete toda a tua glória de Unigênito do Pai, e a tua Humanidade me aparece como única mediadora e fonte de toda a graça, de toda a vida divina que pode ser participada aos homens. Mas depois essa Humanidade, tão santa, tão gloriosa,
-
-tão unida a Deus, eu a contemplo dilacerada no duro tormento da Cruz: tudo o que é glória está escondido, não se vê senão dor, morte, aniquilamento total. Mas das feridas sangrentas eis jorrar uma esplêndida fonte de vida:
-
-com a tua morte, ó Jesus, mereceste comunicar-nos a graça e te tornaste Tu mesmo a nossa única fonte.
+Ó Jesus, como é doce para mim contemplar a tua santíssima Humanidade repleta de todos os tesouros da vida divina! Fixar o meu olhar diretamente na tua Divindade de Verbo eterno é para mim muito difícil, mas considerá-la participada na tua Humanidade é mais fácil e acessível; aqui o pensamento repousa e não cessa de admirar a tua grandeza. Ó Jesus, a tua Alma é tão rica de graça, tão luminosa, e tão cheia de vida divina, que nela se reflete toda a tua glória de Unigênito do Pai, e a tua Humanidade me aparece como única mediadora e fonte de toda a graça, de toda a vida divina que pode ser participada aos homens. Mas depois essa Humanidade, tão santa, tão gloriosa, tão unida a Deus, eu a contemplo dilacerada no duro tormento da Cruz: tudo o que é glória está escondido, não se vê senão dor, morte, aniquilamento total. Mas das feridas sangrentas eis jorrar uma esplêndida fonte de vida: com a tua morte, ó Jesus, mereceste comunicar-nos a graça e te tornaste Tu mesmo a nossa única fonte.
 
 Ó Jesus, corro a ti, de ti me aproximo como o sedento corre e se aproxima da fonte das águas. "Dá-me, ó Senhor, da tua água e não terei sede eternamente, porque a água que Tu me dás se tornará em mim uma fonte que jorrará até a vida eterna" (cf. Jo. 4, 13 e 14). Ó Jesus, os teus Apóstolos, não querendo de modo algum deixar-te, disseram-te um dia: "Tu só tens palavras de vida eterna" (ibid., 6, 69); oh, bem mais do que palavras de vida, Tu tens, antes, és a própria vida, e a nós a dispensas!
 

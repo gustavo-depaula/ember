@@ -1,12 +1,12 @@
-## 113 — ESCONDER-SE DE SI MESMO
+## 39 — ESCONDER-SE DE SI MESMO
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.*
 
-— Ó Jesus que, inteiramente esquecido de ti, te consagraste à glória do Pai, ensina-me a esquecer-me.
+
 
 ### Meditação
 
-1 — Para entrar na plenitude da vida escondida, não
+**1** — Para entrar na plenitude da vida escondida, não
 basta esconder-se aos olhares alheios; é preciso esconder-se também de si
 mesmo, isto é, esquecer-se, evitando toda preocupação e
 retorno egoístico sobre si. Pode-se estar preocupado consigo de
@@ -53,7 +53,7 @@ Margarida esqueceu-se até o fundo, sepultando seu pensamento
 "em Cristo", único Dileto.
 
 
-2 — A alma totalmente esquecida de si é também
+**2** — A alma totalmente esquecida de si é também
 totalmente desinteressada. Não serve mais a Deus com espírito
 mercenário, isto é, mirando mais à recompensa
 que poderá receber do que à glória dele, mas o serve

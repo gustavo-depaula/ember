@@ -1,9 +1,8 @@
-## 1 — O SENHOR VEM DE LONGE
+## I — O SENHOR VEM DE LONGE
+
 *1º Domingo do Advento*
 
-### Presença de Deus
-
-Coloquei-me em sua presença para encontrá-lo com todo o impulso da minha vontade.
+**Presença de Deus.** — *Coloquei-me em sua presença para encontrá-lo com todo o impulso da minha vontade.*
 
 ### Meditação
 

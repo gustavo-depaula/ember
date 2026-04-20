@@ -1,118 +1,25 @@
 ## 44 — O CORPO MÍSTICO DE CRISTO
 
-### Presença de Deus
-
-— Espírito Santo, concede-me "a abundância da plena inteligência para conhecer o mistério de Cristo Jesus" (Col. 2, 3).
+**Presença de Deus.** — *Espírito Santo, concede-me "a abundância da plena inteligência para conhecer o mistério de Cristo Jesus" (Col. 2, 3).*
 
 ### Meditação
 
-1 — "Eu sou a videira e vós sois os ramos" (Jo. 15, 5).
-Sobre estas palavras de Jesus, que indicam a nossa união
-com Ele, funda-se a doutrina do Corpo místico de Cristo.
-Só a comparação mudou: em vez de uma única videira, fala-
-se de um único corpo do qual Jesus é a cabeça e nós somos
-os membros. É a genial comparação de São Paulo que repete em
-outra forma o que Jesus já tinha dito. "Como o corpo
-é um e tem muitos membros, e todos os membros do corpo,
-ainda sendo muitos, formam um só corpo: assim também Cristo... Vós sois corpo de Cristo e, em particular, membros
-dele" (1 Cor. 12, 12 e 27). A identidade de pensamento é evidente: como os ramos formam uma só coisa com o tronco de que nascem e vivem
-da mesma seiva, como os membros do corpo humano formam
-um só corpo e vivem uma única vida, assim nós, incorporados
-a Cristo, formamos com Ele um único corpo e vivemos da
-vida dele: eis o Corpo místico de Cristo "que — como
-ensina São Paulo — é a Igreja" (Col. 1, 24).
+**1** — "Eu sou a videira e vós sois os ramos" (Jo. 15, 5). Sobre estas palavras de Jesus, que indicam a nossa união com Ele, funda-se a doutrina do Corpo místico de Cristo. Só a comparação mudou: em vez de uma única videira, fala-se de um único corpo do qual Jesus é a cabeça e nós somos os membros. É a genial comparação de São Paulo que repete em outra forma o que Jesus já tinha dito. "Como o corpo é um e tem muitos membros, e todos os membros do corpo, ainda sendo muitos, formam um só corpo: assim também Cristo... Vós sois corpo de Cristo e, em particular, membros dele" (1 Cor. 12, 12 e 27). A identidade de pensamento é evidente: como os ramos formam uma só coisa com o tronco de que nascem e vivem da mesma seiva, como os membros do corpo humano formam um só corpo e vivem uma única vida, assim nós, incorporados a Cristo, formamos com Ele um único corpo e vivemos da vida dele: eis o Corpo místico de Cristo "que — como ensina São Paulo — é a Igreja" (Col. 1, 24).
 
-Deste Corpo, Cristo é a Cabeça: "Cristo é Cabeça
-da Igreja, Ele o Salvador do corpo dela" (Ef. 5, 23);
-Ele foi constituído pelo Pai "Cabeça suprema da Igreja,
+Deste Corpo, Cristo é a Cabeça: "Cristo é Cabeça da Igreja, Ele o Salvador do corpo dela" (Ef. 5, 23); Ele foi constituído pelo Pai "Cabeça suprema da Igreja, que é o corpo... e o complemento dele" (ibid., 1, 22). Um só corpo, uma só vida, e a vida provém da Cabeça para os diversos membros: "Jesus Cristo faz viver a Igreja da sua própria vida superior, permeando com a sua virtude divina todo o corpo dela e alimentando e sustentando os diversos membros... como a videira nutre e faz frutificar os ramos que lhe são unidos" (Myst. Corp.). Eis novamente afirmado como todo cristão vive em Cristo e da vida de Cristo.
 
+**2** — A nossa união com Cristo, Cabeça do Corpo místico, certamente não deve ser entendida no mesmo sentido da união existente entre os vários membros de um corpo físico: de fato, embora incorporados a Ele, cada um de nós mantém "totalmente a própria personalidade" (Myst. Corp.); mas não deve ser entendida tampouco como uma simples união moral que existe, por exemplo, entre os membros de uma mesma sociedade. Não, é algo muito mais profundo; é uma união misteriosa, e nesse sentido é chamada mística, mas real e vital. União que provém de estar presente em todas as partes do corpo da Igreja "um princípio interno que existe e age vigorosamente em toda a estrutura e nas singulares partes dela, e é de tal excelência que supera por si mesmo imensamente todos os vínculos de unidade... Não é algo de ordem natural, mas sobrenatural, aliás em si mesmo infinito e incriado, isto é, o Espírito divino que, como diz o Angélico, único e idêntico em número, enche e une toda a Igreja" (ibid.).
 
+O Espírito Santo, "alma da Igreja" (ibid.), é o vínculo que íntima e realmente une e vivifica todos os membros de Cristo, difundindo neles a graça e a caridade. Ele foi "comunicado à Igreja com copiosíssima efusão, para que os seus membros, dia após dia, se tornem sempre mais semelhantes ao Redentor" (ibid.). Não se trata, portanto, de uma união simbólica, metafórica, mas de uma união real, de uma realidade que supera todas as outras "como a graça supera a natureza e como as coisas imortais transcendem as coisas caducas" (ibid.). Realidade tão grande que abraça não só a vida terrena do cristão, mas, guardada por ele, permanece por toda a eternidade como única fonte da sua bem-aventurança, pois "a graça é a semente da glória".
 
-que é o corpo... e o complemento dele" (ibid., 1, 22).
-Um só corpo, uma só vida, e a vida provém da Cabeça para os
-diversos membros: "Jesus Cristo faz viver a Igreja da
-sua própria vida superior, permeando com a sua virtude divina
-todo o corpo dela e alimentando e sustentando os diversos
-membros... como a videira nutre e faz frutificar os ramos que lhe
-são unidos" (Myst. Corp.).
-
-Eis novamente afirmado como todo cristão vive
-em Cristo e da vida de Cristo.
-
-2 — A nossa união com Cristo, Cabeça do Corpo místico, certamente não deve ser entendida no mesmo sentido da união existente entre os vários membros de um corpo físico: de fato, embora incorporados a Ele, cada um de nós mantém "totalmente a própria personalidade" (Myst. Corp.); mas não deve
-ser entendida tampouco como uma simples união moral que
-existe, por exemplo, entre os membros de uma mesma sociedade. Não,
-é algo muito mais profundo; é uma união misteriosa, e nesse sentido é chamada mística, mas real e vital. União que provém de estar presente em todas as partes do
-corpo da Igreja "um princípio interno que existe e
-age vigorosamente em toda a estrutura e nas singulares partes dela, e é de tal excelência que supera por
-si mesmo imensamente todos os vínculos de unidade... Não é algo de ordem natural, mas sobrenatural, aliás em si
-mesmo infinito e incriado, isto é, o Espírito divino que,
-como diz o Angélico, único e idêntico em número, enche e
-une toda a Igreja" (ibid.).
-
-O Espírito Santo, "alma da Igreja" (ibid.), é o vínculo que íntima e realmente une e vivifica todos os
-membros de Cristo, difundindo neles a graça e a caridade.
-Ele foi "comunicado à Igreja com copiosíssima efusão,
-para que os seus membros, dia após dia,
-se tornem sempre mais semelhantes ao Redentor" (ibid.). Não se
-trata, portanto, de uma união simbólica, metafórica, mas de
-uma união real, de uma realidade que supera todas as outras "como a graça supera a natureza e como as coisas imortais transcendem as coisas caducas" (ibid.). Realidade tão grande que
-abraça não só a vida terrena do cristão, mas,
-guardada por ele, permanece por toda a eternidade como única fonte da
-sua bem-aventurança, pois "a graça é a semente da glória".
-
-Somos membros de Cristo: esta é a nossa grandeza,
-a nossa glória, que supera infinitamente toda dignidade e
-grandeza terrena.
+Somos membros de Cristo: esta é a nossa grandeza, a nossa glória, que supera infinitamente toda dignidade e grandeza terrena.
 
 ### Colóquio
 
-"Ó dileto Esposo e amoroso Verbo, de um modo a ti
-conhecido e só por ti mesmo entendido, Tu geras o corpo da
-Santa Igreja... Com teu Sangue formas para ti um corpo bem or-
+"Ó dileto Esposo e amoroso Verbo, de um modo a ti conhecido e só por ti mesmo entendido, Tu geras o corpo da Santa Igreja... Com teu Sangue formas para ti um corpo bem organizado, bem composto, do qual corpo Tu és a cabeça, em cuja beleza se comprazem os Anjos, admiram os Arcanjos, enamoram-se os Serafins e todos os espíritos celestes se maravilham com ele e dele se nutrem ainda todas aquelas almas bem-aventuradas da Pátria celeste. E a SS.ma Trindade nele se compraz de um modo por nós não entendido" (S. Maria Madalena de' Pazzi).
 
+Eis, Senhor, diante de ti uma pobríssima criatura: frágil e fraca, inclinada ao mal, capaz de todo pecado, criatura vã, semelhante ao feno dos campos, que hoje é e amanhã não será mais; criatura miserável que de si mesma não tem bem algum e não é capaz de bem algum. E Tu, ó Deus, verdadeiro Filho de Deus, imagem do Pai, princípio e fim de todas as coisas, rei do universo, Salvador do mundo, inclinas-te até mim, tomas esta mísera criatura e a unes tão intimamente a ti a ponto de fazê-la membro teu. E sendo teu membro, comunicas-me a tua vida, fazes-me viver a tua própria vida. Ó Senhor, beleza e santidade infinita, como podes suportar ter como membro teu uma criatura tão miserável e indigna? Mas não só o suportas: o queres e me dizes: "Permanece em mim".
 
+Como, ó Senhor, não aceitar o teu convite e o teu mandamento quando Tu mesmo já quiseste inserir-me no teu Corpo místico? Ó Senhor, se eu pudesse compreender a grandeza, o valor do dom infinito que me ofereces, se pudesse compreender o que significa viver em ti e de ti, como o ramo vive na videira, como o membro vive no corpo! Que me falta, ó Senhor, para a minha santificação, para a minha vida de união contigo? Tu me deste muito mais do que eu jamais poderia ter desejado.
 
-ganizado, bem composto, do qual corpo Tu és a cabeça,
-em cuja beleza se comprazem os Anjos, admiram os
-Arcanjos, enamoram-se os Serafins e todos os espíritos
-celestes se maravilham com ele e dele se nutrem ainda todas
-aquelas almas bem-aventuradas da Pátria celeste. E a SS.ma Trindade
-nele se compraz de um modo por nós não entendido" (S. Maria Madalena de' Pazzi).
-
-Eis, Senhor, diante de ti uma pobríssima criatura:
-frágil e fraca, inclinada ao mal, capaz de todo pecado,
-criatura vã, semelhante ao feno dos campos, que hoje é e amanhã
-não será mais; criatura miserável que de si mesma não tem
-bem algum e não é capaz de bem algum. E Tu, ó Deus,
-verdadeiro Filho de Deus, imagem do Pai, princípio e fim
-de todas as coisas, rei do universo, Salvador do mundo,
-inclinas-te até mim, tomas esta mísera criatura e a unes
-tão intimamente a ti a ponto de fazê-la membro teu. E sendo teu
-membro, comunicas-me a tua vida, fazes-me viver a tua
-própria vida. Ó Senhor, beleza e santidade infinita, como podes
-suportar ter como membro teu uma criatura tão
-miserável e indigna? Mas não só o suportas: o queres e
-me dizes: "Permanece em mim".
-
-Como, ó Senhor, não aceitar o teu convite e o teu
-mandamento quando Tu mesmo já quiseste inserir-me no
-teu Corpo místico? Ó Senhor, se eu pudesse compreender a
-
-
-
-grandeza, o valor do dom infinito que me ofereces, se pudesse compreender o que significa viver em ti e de ti,
-como o ramo vive na videira, como o membro vive no
-corpo! Que me falta, ó Senhor, para a minha santificação,
-para a minha vida de união contigo? Tu me deste
-muito mais do que eu jamais poderia ter desejado.
-
-Ó Senhor, faze-me sentir a profunda realidade deste
-grande mistério que a ti me une tão intimamente. Faze
-que tal realidade domine, ilumine, dirija toda a minha vida;
-que diante dela tudo o resto desvaneça, que fora
-dela eu não busque e não deseje nada, que a vaidade
-das coisas terrenas já não me atraia e não me engane. Faze
-que eu sinta vivo e profundo o dever e a doce necessidade de
-ser um membro digno de ti, que as minhas ações e a minha
-vida sejam tais que honrem a ti, minha dulcíssima Cabeça.
+Ó Senhor, faze-me sentir a profunda realidade deste grande mistério que a ti me une tão intimamente. Faze que tal realidade domine, ilumine, dirija toda a minha vida; que diante dela tudo o resto desvaneça, que fora dela eu não busque e não deseje nada, que a vaidade das coisas terrenas já não me atraia e não me engane. Faze que eu sinta vivo e profundo o dever e a doce necessidade de ser um membro digno de ti, que as minhas ações e a minha vida sejam tais que honrem a ti, minha dulcíssima Cabeça.

@@ -1,12 +1,10 @@
 ## 324 — O DEVER DO APOSTOLADO
 
-### Presença de Deus
-
-Ó Jesus, que me acolheste como teu membro, faze que eu não viva como estranho no teu Corpo místico, mas possa aproveitar ao bem de todos os irmãos.
+**Presença de Deus.** — *Ó Jesus, que me acolheste como teu membro, faze que eu não viva como estranho no teu Corpo místico, mas possa aproveitar ao bem de todos os irmãos.*
 
 ### Meditação
 
-1. — Prescindindo do grau de caridade a que uma alma possa ter chegado e de sua vocação particular, existe para todo cristão um dever de apostolado que tem seu fundamento no próprio fato de ser cristão, isto é, de ser membro do Corpo místico de Cristo.
+**1** — Prescindindo do grau de caridade a que uma alma possa ter chegado e de sua vocação particular, existe para todo cristão um dever de apostolado que tem seu fundamento no próprio fato de ser cristão, isto é, de ser membro do Corpo místico de Cristo.
 
 «Nós, embora muitos, somos um só corpo em Cristo e, reciprocamente, membros uns dos outros» (Rm. 12, 5); por isso, como em nosso corpo cada membro se interessa pelo bem dos outros membros, «e se um membro sofre, todos os membros sofrem com ele, e se um membro é honrado, todos os membros se alegram com ele» (1Cor. 12, 26), assim todo cristão está obrigado a interessar-se pelo bem dos outros.
 
@@ -16,7 +14,7 @@ E isto justamente em força do batismo, que, constituindo-o membro do Corpo mís
 
 «Todos os males nascem do fato de reputarmos coisas estranhas aquelas que dizem respeito ao nosso próprio corpo. Ninguém pode cumprir o próprio dever se descuida da salvação do próximo. Se ousas dizer que nada tens em comum com teu membro e não estimas ter nada em comum com teu irmão, não tens nem mesmo Cristo por Cabeça.» Estas fortes palavras do Crisóstomo nos dizem que o apostolado não é um a mais, não é algo facultativo deixado ao arbítrio da generosidade de cada um, mas é dever preciso de todo cristão, dever derivado da própria natureza do cristianismo, dever tão estrito que não se pode ser verdadeiro cristão sem cumpri-lo.
 
-2. — Como São Paulo às primeiras cristandades, como São João Crisóstomo à Igreja de Antioquia, assim hoje o Vigário de Cristo levanta a voz para inculcar aos fiéis de todo o mundo o grande dever do apostolado.
+**2** — Como São Paulo às primeiras cristandades, como São João Crisóstomo à Igreja de Antioquia, assim hoje o Vigário de Cristo levanta a voz para inculcar aos fiéis de todo o mundo o grande dever do apostolado.
 
 Jesus, que morrendo na cruz mereceu para nós a graça, «poderia tê-la outorgado por si mesmo a todo o gênero humano; mas quis fazê-lo por meio de uma Igreja visível, na qual os homens se reunissem a fim de cooperar todos com Ele e por meio dela para comunicar reciprocamente os divinos frutos da Redenção. Com efeito, assim como o Verbo de Deus, para redimir os homens com seus sofrimentos e tormentos, quis servir-se de nossa natureza, de modo semelhante, no decorrer dos séculos, serve-se de sua Igreja para continuar perpetuamente a obra começada» (Pio XII, *Mystici Corporis*).
 

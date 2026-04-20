@@ -1,12 +1,10 @@
-## 307 — BEM-AVENTURADOS OS POBRES DE ESPÍRITO
+## XV — BEM-AVENTURADOS OS POBRES DE ESPÍRITO
 
-### Presença de Deus
-
-Ó Espírito Santo, mostra-me o caminho que conduz à verdadeira pobreza de espírito e dá-me força para percorrê-lo até o fim.
+**Presença de Deus.** — Ó Espírito Santo, mostra-me o caminho que conduz à verdadeira pobreza de espírito e dá-me força para percorrê-lo até o fim.
 
 ### Meditação
 
-1. — Quando a alma corresponde às moções dos dons, estes produzem nela frutos de virtude tão preciosos que lhe fazem saborear algo da bem-aventurança eterna, da qual são pequeno penhor e que, justamente por isso, se chamam bem-aventuranças. A cada dom corresponde uma bem-aventurança; ao dom do temor corresponde a pobreza de espírito: «Bem-aventurados os pobres de espírito, porque deles é o reino dos céus» (Mt. 5, 3).
+**1** — Quando a alma corresponde às moções dos dons, estes produzem nela frutos de virtude tão preciosos que lhe fazem saborear algo da bem-aventurança eterna, da qual são pequeno penhor e que, justamente por isso, se chamam bem-aventuranças. A cada dom corresponde uma bem-aventurança; ao dom do temor corresponde a pobreza de espírito: «Bem-aventurados os pobres de espírito, porque deles é o reino dos céus» (Mt. 5, 3).
 
 O dom do temor, querendo conduzir a alma a libertar-se completamente do pecado, visa apagar nela a concupiscência das coisas terrenas, que é sua causa principal. Por isso a impele por uma via de total desapego, de modo que, despojando-a de toda pretensão do egoísmo e do orgulho, de toda cobiça e de toda exigência quanto aos bens terrenos, a estabelece gradualmente numa perfeita pobreza de espírito.
 
@@ -14,7 +12,7 @@ Diante de tudo o que a vida pode oferecer-nos — honras, satisfações, afetos 
 
 O Espírito Santo impele a alma à pobreza material ensinando-a a contentar-se com pouco, a não ter exigências quanto às coisas necessárias à vida; mas impele-a ainda mais à pobreza espiritual, porque sem esta a primeira nada vale. «A simples privação das coisas — diz São João da Cruz — não despoja em absoluto a alma, se esta conserva o apetite [ou seja, o apego] por elas. Não são as coisas deste mundo que ocupam ou prejudicam a alma, porque nelas não entram, mas o desejo e o apetite delas, os quais nela habitam» (Subida I, 3, 4).
 
-2. — A pobreza de espírito não abrange só o desapego dos bens materiais, mas também dos bens morais e até espirituais.
+**2** — A pobreza de espírito não abrange só o desapego dos bens materiais, mas também dos bens morais e até espirituais.
 
 Quem nutre pretensões quanto à afirmação da própria personalidade, quanto à estima e consideração das criaturas, quem conserva apegos à própria vontade, às próprias ideias ou ama demais a própria independência, não é pobre de espírito, mas ainda é rico de si mesmo, de amor-próprio e de orgulho. «Se queres ser perfeito — exorta São João da Cruz — vende tua vontade; aproxima-te de Cristo na mansidão e na humildade e segue-o até o Calvário e até o Sepulcro» (Avisos).
 

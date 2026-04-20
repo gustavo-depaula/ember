@@ -1,12 +1,10 @@
-## 309 — BEM-AVENTURADOS OS QUE TÊM FOME
+## XVII — BEM-AVENTURADOS OS QUE TÊM FOME
 
-### Presença de Deus
-
-Ó Espírito Santo, extingue em mim a fome das coisas terrenas e aumenta a fome das coisas celestes.
+**Presença de Deus.** — Ó Espírito Santo, extingue em mim a fome das coisas terrenas e aumenta a fome das coisas celestes.
 
 ### Meditação
 
-1. — Quando o Espírito Santo se apodera de uma alma e a toma totalmente sob seu governo, comunica-lhe uma fortaleza invencível, arrebatadora, capaz de enfrentar qualquer obstáculo e suportar qualquer sofrimento. E, como é próprio do forte não contentar-se com pouco, mas aspirar a grandes coisas, assim, à medida que o Espírito Santo fortifica a alma, faz nascer nela desejos cada vez maiores de justiça, de virtude, de santidade, desejos tão vivos e impelentes que bem podem chamar-se fome e sede.
+**1** — Quando o Espírito Santo se apodera de uma alma e a toma totalmente sob seu governo, comunica-lhe uma fortaleza invencível, arrebatadora, capaz de enfrentar qualquer obstáculo e suportar qualquer sofrimento. E, como é próprio do forte não contentar-se com pouco, mas aspirar a grandes coisas, assim, à medida que o Espírito Santo fortifica a alma, faz nascer nela desejos cada vez maiores de justiça, de virtude, de santidade, desejos tão vivos e impelentes que bem podem chamar-se fome e sede.
 
 Sob o impulso do dom da fortaleza, a alma torna-se faminta e sedenta de justiça; eis por que ao dom da fortaleza corresponde a bem-aventurança: «Bem-aventurados os que têm fome e sede de justiça, porque serão saciados» (Mt. 5, 6). O vocábulo justiça deve ser entendido aqui no sentido mais amplo de perfeição, de santidade, de doação total a Deus e às almas.
 
@@ -14,7 +12,7 @@ E é precisamente neste sentido que o Espírito Santo impele a alma, mostrando-l
 
 De onde lhe vem tanta coragem, tanta ousadia? Não de sua força, não de suas energias — ela o sabe muito bem — mas da força do Espírito Santo, da confiança nele, da docilidade à sua ação. Pode, pois, afirmar com toda segurança: «Tudo posso naquele que me dá força» (Fl. 4, 13).
 
-2. — Como o faminto se alegra quando pode saciar-se de pão, assim a alma que vive sob o influxo do dom da fortaleza se alegra quando pode satisfazer sua fome de justiça, de santidade. Alegra-se quando pode mergulhar na vontade de Deus, único alimento que pode saciá-la; alegra-se quando pode satisfazer sua sede de imolação, sacrificando-se por Deus e pelas almas; alegra-se quando pode aplacar sua fome de Deus, recebendo-o na Eucaristia ou imergindo-se nele na intimidade da oração.
+**2** — Como o faminto se alegra quando pode saciar-se de pão, assim a alma que vive sob o influxo do dom da fortaleza se alegra quando pode satisfazer sua fome de justiça, de santidade. Alegra-se quando pode mergulhar na vontade de Deus, único alimento que pode saciá-la; alegra-se quando pode satisfazer sua sede de imolação, sacrificando-se por Deus e pelas almas; alegra-se quando pode aplacar sua fome de Deus, recebendo-o na Eucaristia ou imergindo-se nele na intimidade da oração.
 
 É uma alegria pura, não procurada por si mesma, não desligada do dever; é a alegria da alma que gravita para seu centro, Deus, e sente dar-se cada vez mais a ele, pertencer-lhe totalmente. Mas, para gozar essa alegria, é preciso estar decidido a não querer buscar nem admitir outras. «Vida felicíssima — diz Santa Teresa de Jesus — levam as almas que, desprezando toda satisfação própria, não pensam senão em contentar o Senhor» (Caminho 13, 7).
 

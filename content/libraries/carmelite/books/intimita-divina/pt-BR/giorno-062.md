@@ -1,18 +1,16 @@
-## 62 — JESUS E A GLÓRIA DO PAI
+## 62 — LXII — Jesus e a glória do Pai
 
-### Presença de Deus
-
-Ó Jesus, infunde em mim teu espírito e teu zelo pela glória do Pai, e ensina-me a fugir de toda glória pessoal.
+**Presença de Deus.** — *Ó Jesus, infunde em mim teu espírito e teu zelo pela glória do Pai, e ensina-me a fugir de toda glória pessoal.*
 
 ### Meditação
 
-1 — "Eu honro meu Pai... Contudo eu não busco a minha glória... Eu não recebo glória dos homens" (Jo. 8, 49 e 50; 5, 41).
+**1** — "Eu honro meu Pai... Contudo eu não busco a minha glória... Eu não recebo glória dos homens" (Jo. 8, 49 e 50; 5, 41).
 
 É evidente: Jesus busca só a glória do Pai e, para glorificar o Pai, escolheu para si a humilhação mais profunda, até tornar-se "o opróbrio de cada um e o desprezo do povo" (Sal. 21, 7). Belém, Nazaré, o Calvário são as três grandes etapas da vida humilde e escondida de Jesus, que oculta aos olhares dos homens a sua glória de Filho de Deus. Mas também na vida pública, na qual mais se manifesta sua divindade, Jesus procura o mais possível fugir da glória dos homens. Várias vezes, depois de operar um milagre, impõe silêncio; aos três Apóstolos testemunhas da transfiguração ordena "que a ninguém contassem o que tinham visto, antes que... ressuscitasse dos mortos" (Mc. 9, 8); e depois da primeira multiplicação dos pães, "sabendo que viriam para arrebatá-lo a fim de fazê-lo rei, retirou-se de novo sozinho para o monte" (Jo. 6, 15).
 
 A glória de Jesus é ser Filho de Deus: Ele não quer outra. Aceitar outra seria, por assim dizer, renunciar a esta glória essencial e, por isso, declara: "Se eu me glorifico a mim mesmo, a minha glória é vã; mas é meu Pai que me glorifica" (Jo. 8, 54). Jesus sabe que depois de sua morte deverá ser glorificado, reconhecido como Filho de Deus e Salvador do mundo, mas quer que também esta glória sirva para a glorificação do Pai: "Pai, chegou a hora: glorifica teu Filho, para que teu Filho te glorifique" (Jo. 17, 1).
 
-2 — O cristão, à semelhança de Jesus, deve buscar unicamente a glória de Deus e para si não deve querer outra glória senão a de filho de Deus, irmão de Jesus Cristo e membro do seu Corpo místico.
+**2** — O cristão, à semelhança de Jesus, deve buscar unicamente a glória de Deus e para si não deve querer outra glória senão a de filho de Deus, irmão de Jesus Cristo e membro do seu Corpo místico.
 
 É preciso vigiar com cuidado o instinto do orgulho, que nas nossas ações, até as mais espirituais e santas, nos leva a procurar um pouco de satisfação, de louvor, de glória pessoal. Se visamos, ainda que em pequenas coisas, a glorificar a nós mesmos, a nossa glória é um nada: eleva-nos diante dos homens, mas nos abaixa diante de Deus, diminui e pode até pôr em perigo a nossa glória de filhos de Deus.
 

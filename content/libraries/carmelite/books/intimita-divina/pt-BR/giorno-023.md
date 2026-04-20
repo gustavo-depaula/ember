@@ -1,12 +1,10 @@
 ## 23 — CONVITE AO APOSTOLADO
 
-### Presença de Deus
-
-— Ponho-me na presença de Jesus, Cabeça do Corpo místico da Igreja, para que me ensine a colaborar com Ele na salvação das almas.
+**Presença de Deus.** — *Ponho-me na presença de Jesus, Cabeça do Corpo místico da Igreja, para que me ensine a colaborar com Ele na salvação das almas.*
 
 ### Meditação
 
-1 — Na palavra do Batista: "Preparai o caminho do
+**1** — Na palavra do Batista: "Preparai o caminho do
 Senhor" (Lc. 3, 4), está implícito um convite ao apostolado, àquele
 apostolado que o próprio João exercia dispondo
 os corações dos seus irmãos para a vinda e para a obra do Messias.
@@ -34,7 +32,7 @@ a si para dar-nos a honra e a alegria de sermos seus colaboradores
 na maior obra que se realiza no mundo:
 a salvação das almas.
 
-2 — Visto que Jesus, no seu infinito amor por nós,
+**2** — Visto que Jesus, no seu infinito amor por nós,
 quis associar-nos à sua obra redentora, reservando nela um lugar para a nossa atividade, deve-se dizer que agora, na economia atual
 da Redenção, a nossa colaboração é necessária. Doravante,
 para conduzir a termo a sua obra, Jesus tem necessidade de nós. Devemos orgulhar-nos santamente disso, mas não devemos esquecer que daí deriva

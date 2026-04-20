@@ -1,122 +1,23 @@
-## 100 — IMPERFECTION
+## 56 — LOVE FOR THE CROSS
 
-### Presence of God
+**Presence of God.** — *I come again to you, my crucified God, with the desire to penetrate more deeply into the mystery of the Cross.*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — The cross is suffering seen in the supernatural light as an instrument of salvation and sanctification, hence as an instrument of love. Seen in this light the cross is certainly lovable: it is the great means of our sanctification. Our union with God is not realizable except by means of suffering. St. John of the Cross has demonstrated how the soul must be purified, *scraped* to the very bottom to arrive even in this life at union with God. A work of total mortification is needed to tear away all our attachments, because in us there are many resistances that prevent us from being totally moved by God; and it is not possible for all this to be done without suffering. But *active suffering* is not enough, that is, those mortifications and penances that we can procure on our own initiative are not sufficient, but above all *passive suffering* is necessary, that is, that the Lord Himself make us suffer and not only in the body, but also in the spirit, precisely because we are so *rusted*, so full of miseries that our total purification is not possible unless God Himself intervenes with His action. Placing us in passive suffering is, therefore, one of the greatest works of His mercy, one of the greatest proofs of His love: when God thus acts in a soul it is a sign that He wishes to bring it to high perfection. It is precisely in these purifying passive sufferings that the concept of cross is realized in a particular way. In the *Living Flame of Love* (stanza 2) St. John of the Cross asks why there are so few souls that arrive at the fullness of spiritual life. And he answers: the reason is not because God wishes to reserve this state to some privileged soul, but because He finds few souls disposed to accept a profound work of purification, hence He ceases to purify them and thus the souls condemn themselves to mediocrity, they no longer walk, they no longer go forward. It is impossible to be united to God without these sufferings.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+**2** — "O souls who desire to go secure and consoled in the things of the spirit! If you knew how necessary it is for you to suffer to obtain this security!" (G.C. *F.* 2, 28). However, suffering is necessary not only for the good of the soul, but also that the soul may glorify God and demonstrate its love for Him; indeed it is not a question of reaching perfection to enjoy it — for the perfect soul never thinks of itself — but of dedicating itself totally to the glory of God. Precisely in this sense, on the summit of the *Mount of Perfection* is written: "only the honor and glory of God dwells here". As the Cross of Jesus was the great means by which He gave to the Father that glory which sinful man had denied Him, so must our cross be: by means of suffering we must expiate and repair our own faults and those of others, to give to God all the glory that is due to Him.
 
+Moreover, as the Cross of Jesus was the supreme proof of His love for us, so our cross is the most beautiful proof of our love for Him. Precisely in the fact that the Son of God came to die for us on the cross, His infinite love for us is revealed; and thus, in the fact that for Him we embrace suffering, the reality of our love for God is demonstrated. The cross is therefore an instrument and work of love: it is an instrument and work of God's love toward us and of our love toward God. The more God sanctifies us the more He demonstrates His love for us and gives us the means to glorify Him; but He sanctifies us precisely by means of the cross, the great Cross of Jesus to which we must unite our own little cross. The more the Lord, through suffering, gives us the means to participate in the Passion of Christ, the more He sanctifies us and therefore loves us. Sufferings are, therefore, also in this sense, a proof of His love toward us.
 
-for the soul that seeks perfection, of eliminating from its
-
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+If one understood all this, how one would love the cross!
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"O Lord, the way of the cross is that which You reserve for Your beloved: the more You love them the more You load them with trials... since You admit to Your intimacy only souls that are lovers of suffering. If You were to ask me which of these two things I prefer: to remain on earth until the end of the world, amidst every sort of trial, and then ascend to heaven with a bit more glory; or to go immediately to heaven without suffering, but with one degree of glory less, I would willingly accept all the torments of the world, just to have in addition that bit of glory that permits me to understand You better. For I see, O Lord, that he who understands You better, loves You better and praises You better.
 
+"No, I do not wish to make light of pains that end, when Your service intervenes, when it is a question of honoring You, You who have suffered so much for us.
 
-sins!
+"If I wish to know, my God, how You behave with him who sincerely prays You to accomplish Your will in him, I must ask it of Your glorious Son who in the garden of olives addressed this prayer to You... You accomplished Your will in him by inundating Him with sufferings, with injuries, with persecutions, finally letting Him die upon a cross. This is what You gave to Him whom You loved the most. As long as we are down here these are Your gifts. You give them according to the love You bear us: You give more to him whom You love more, and less to him whom You love less. Another rule is the courage You see in us and the love we bear You, because if we love You much, we shall also be capable of suffering much, but little instead if we love You little" (T.G. *Cam.* 18, 1 and 2; *Vi.* 37, 2; *Cam.* 3, 6; 32, 6 and 7).
 
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+O my God, increase then my love, dilate my poor heart and render it capable of much suffering for You. Yes, willingly I wish to accept suffering to attest to You the reality of my love.

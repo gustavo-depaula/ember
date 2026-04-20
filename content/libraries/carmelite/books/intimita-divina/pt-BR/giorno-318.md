@@ -1,12 +1,10 @@
-## 318 — O DOM DA INTELIGÊNCIA
+## XXVI — O DOM DA INTELIGÊNCIA
 
-### Presença de Deus
-
-Vem, Espírito de inteligência, ilumina-me!
+**Presença de Deus.** — *Vem, Espírito de inteligência, ilumina-me!*
 
 ### Meditação
 
-1. — Em nosso caminho para Deus encontramos dificuldades não só da parte das criaturas, que tentam impedir-nos o passo, mas também por causa da impenetrabilidade dos mistérios divinos; e, como, para fazer-nos superar as primeiras, o Espírito Santo nos vem em socorro com o dom da ciência, assim, para fazer-nos superar as segundas, vem em auxílio com o dom da inteligência.
+**1** — Em nosso caminho para Deus encontramos dificuldades não só da parte das criaturas, que tentam impedir-nos o passo, mas também por causa da impenetrabilidade dos mistérios divinos; e, como, para fazer-nos superar as primeiras, o Espírito Santo nos vem em socorro com o dom da ciência, assim, para fazer-nos superar as segundas, vem em auxílio com o dom da inteligência.
 
 Nossa inteligência é incapaz de apreender o infinito; embora investida pela fé, seu modo de entender é sempre modo humano, que procede por meio de ideias e conceitos limitados, absolutamente insuficientes para exprimir as realidades divinas. A própria Revelação chega a nós por meio de palavras humanas e, portanto, não pode manifestar o que Deus é em si mesmo, não pode manifestar-nos a íntima essência das verdades reveladas.
 
@@ -18,7 +16,7 @@ Este dom ultrapassa nosso modo humano de entender e ilumina-nos de modo divino; 
 
 Sob o influxo deste dom a alma não só crê que Deus é Uno e Trino, mas intui que o mistério trinitário é essencial à natureza divina e é aquele que, mais que todos os outros, revela a perfeição, o poder e o amor infinito de Deus.
 
-2. — Só o Espírito Santo, que é Deus, pode fazer-nos penetrar os mistérios divinos; São Paulo o diz expressamente: «O que olho não viu nem ouvido ouviu... Deus no-lo revelou pelo seu Espírito, porque o Espírito perscruta todas as coisas, até as profundezas de Deus... as coisas divinas ninguém as conhece, senão o Espírito de Deus. E nós recebemos não o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos as coisas que Deus nos concedeu» (1Cor. 2, 9-12).
+**2** — Só o Espírito Santo, que é Deus, pode fazer-nos penetrar os mistérios divinos; São Paulo o diz expressamente: «O que olho não viu nem ouvido ouviu... Deus no-lo revelou pelo seu Espírito, porque o Espírito perscruta todas as coisas, até as profundezas de Deus... as coisas divinas ninguém as conhece, senão o Espírito de Deus. E nós recebemos não o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos as coisas que Deus nos concedeu» (1Cor. 2, 9-12).
 
 Esta é a maravilhosa ação que o Espírito Santo realiza em nós mediante o dom da inteligência. Às almas que lhe estão unidas pelo amor, Ele comunica uma participação de seu conhecimento dos mistérios divinos. Por isso é claro que, quanto mais estivermos unidos ao Espírito Santo com caridade perfeita, tanto mais aptos estaremos para receber esta preciosa comunicação.
 

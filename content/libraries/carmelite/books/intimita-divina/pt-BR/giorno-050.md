@@ -1,18 +1,16 @@
-## 50 — "EU SOU A VERDADE"
+## 50 — «EU SOU A VERDADE»
 
-### Presença de Deus
-
-— Ó Jesus, Verbo Encarnado, esplendor e luz do Pai, instrui e ilumina a minha alma.
+**Presença de Deus.** — *Ó Jesus, Verbo Encarnado, esplendor e luz do Pai, instrui e ilumina a minha alma.*
 
 ### Meditação
 
-1 — Jesus veio para nos dar a vida e veio também para nos ensinar o caminho que conduz à vida; Ele, fonte de vida, é também Mestre de vida.
+**1** — Jesus veio para nos dar a vida e veio também para nos ensinar o caminho que conduz à vida; Ele, fonte de vida, é também Mestre de vida.
 
 Assim o Pai celeste o apresentou ao mundo desde o princípio do seu apostolado; o Espírito Santo que, logo após o batismo de Jesus, desceu sobre ele em forma de pomba, e a voz que se ouviu do céu: "Este é o meu Filho amado, no qual pus as minhas complacências" (Mt. 3, 17) são, por assim dizer, as credenciais que garantem o seu ensinamento e são a sua razão profunda. Quem não terá fé na sua palavra, se Ele é o Filho de Deus e se o Espírito Santo está com ele? Dois anos mais tarde, no Tabor, renova-se a mesma apresentação: a mesma voz, as mesmas palavras: "Este é o meu Filho amado", mas além disso nos é feita a recomendação explícita: "escutai-o!" (ibid., 17, 5), que põe em luz ainda mais evidente a sua função de Mestre.
 
 E o próprio Jesus se revelou como Mestre, antes como único Mestre: "Vós me chamais Mestre... e fazeis bem, porque o sou" (Jo. 13, 13); "Não vos façais chamar mestres, porque um só é o vosso Mestre, o Cristo" (Mt. 23, 10). Quando Jesus afirmou ser a Vida, afirmou também ser a "Verdade"; aliás, diante de Pilatos que o interrogava sobre a sua origem e sobre a sua missão, declarou: "Eu nasci e vim ao mundo para dar testemunho da verdade" (Jo. 18, 37). Quem escuta a sua palavra escuta a verdade: "Se permanecerdes na minha palavra... conhecereis a verdade e a verdade vos libertará" (Jo. 8, 31-32).
 
-2 — O homem pode ser mestre, mas pode também não o ser, e contudo permanece sempre homem. Jesus, porém, é Mestre por natureza, justamente porque Ele é o Verbo Encarnado. Deus é verdade; toda a verdade que está no Pai é comunicada ao Verbo e chega a nós por meio de Cristo. O Verbo, Palavra substancial do Pai, manifesta-nos toda a verdade.
+**2** — O homem pode ser mestre, mas pode também não o ser, e contudo permanece sempre homem. Jesus, porém, é Mestre por natureza, justamente porque Ele é o Verbo Encarnado. Deus é verdade; toda a verdade que está no Pai é comunicada ao Verbo e chega a nós por meio de Cristo. O Verbo, Palavra substancial do Pai, manifesta-nos toda a verdade.
 
 "Eu vim como luz ao mundo para que todo aquele que crê em mim não permaneça nas trevas" (Jo. 12, 46); e ainda mais explicitamente: "Eu sou a luz do mundo" (ibid., 8, 12). Só Jesus pode declarar-se luz do mundo, porque só o Verbo é a luz, é a palavra de Deus.
 

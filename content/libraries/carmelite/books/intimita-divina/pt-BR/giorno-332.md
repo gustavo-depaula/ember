@@ -1,24 +1,22 @@
-## 332 — A IMOLAÇÃO APOSTÓLICA
+## 10 — A IMOLAÇÃO APOSTÓLICA
 
-### Presença de Deus
-
-Ó Jesus, imolado por minha salvação, faze que eu seja digno de imolar-me contigo pela salvação dos meus irmãos.
+**Presença de Deus.** — *Ó Jesus, imolado por minha salvação, faze que eu seja digno de imolar-me contigo pela salvação dos meus irmãos.*
 
 ### Meditação
 
-1. — A oração apostólica deve ser acompanhada do sacrifício, à imitação da oração que Jesus elevou por nós ao Pai no horto das oliveiras e na Cruz. O amor deve impelir os orantes «ao sacrifício ativo, que não descansa na oração até que a dor e o sofrimento tenham quase tocado o limite das forças. Nesses momentos, consumidos pelo ardor da caridade e pela veemência do desejo, eles já não serão apenas orantes, mas orações viventes» (Pio XII).
+**1** — A oração apostólica deve ser acompanhada do sacrifício, à imitação da oração que Jesus elevou por nós ao Pai no horto das oliveiras e na Cruz. O amor deve impelir os orantes «ao sacrifício ativo, que não descansa na oração até que a dor e o sofrimento tenham quase tocado o limite das forças. Nesses momentos, consumidos pelo ardor da caridade e pela veemência do desejo, eles já não serão apenas orantes, mas orações viventes» (Pio XII).
 
 Oração e sacrifício estão intimamente conexos, porque brotam de uma única chama: o amor que impele à oração e à imolação incessante pela glória de Deus e pela salvação das almas. Vida contemplativa é, portanto, sinônimo de vida austera e penitente, a ponto de ser um contínuo «sacrifício de louvor». Quanto mais a oração é nutrida e impregnada de sacrifício, tanto mais é eficaz; aliás, alcança a máxima eficácia justamente quando o sacrifício é máximo.
 
 Toda alma contemplativa deve «ser digno altar onde possa residir a Divina Majestade» (São João da Cruz), altar do qual se eleva a oração e sobre o qual se imola o sacrifício. O apostolado de Jesus culminou e se cumpriu no aniquilamento da morte de cruz e por meio dela.
 
-Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo. 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
+Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
 
 Nossa participação no apostolado de Jesus encontra seu cumprimento no sacrifício de nós mesmos: sacrifício não fantasioso e hipotético, mas real e concreto, de cujo modo e medida o próprio Deus nos indica através das circunstâncias da vida, das permissões de sua divina Providência, das disposições dos superiores, dos deveres de nosso estado.
 
 Quando uma alma está disposta, pela salvação dos irmãos, a viver no contínuo sacrifício da própria vontade, no contínuo renegar-se; quando está disposta a deixar-se crucificar de qualquer modo pela santa vontade de Deus para conquistar ao seu amor outras almas, então alcança o vértice do apostolado e, portanto, da fecundidade apostólica.
 
-2. — Muitos não se salvam porque não há quem reze e se sacrifique por eles. Sem as lágrimas e os sofrimentos de Mônica, muito provavelmente a Igreja não teria Santo Agostinho. Benditas, pois, aquelas almas que fazem da imolação apostólica a razão de ser e o fim de sua vida.
+**2** — Muitos não se salvam porque não há quem reze e se sacrifique por eles. Sem as lágrimas e os sofrimentos de Mônica, muito provavelmente a Igreja não teria Santo Agostinho. Benditas, pois, aquelas almas que fazem da imolação apostólica a razão de ser e o fim de sua vida.
 
 «Minhas irmãs em Cristo — escreve Santa Teresa de Jesus às suas filhas — uni-vos comigo em pedir a Deus esta graça [a salvação das almas]. Para isso Ele vos trouxe aqui; este é o vosso encargo e os vossos desejos, este o assunto de vossas lágrimas e de vossas orações... No dia em que vossas orações, disciplinas, desejos e jejuns não fossem empregados para isso, sabei-o, não alcançaríeis o fim para o qual o Senhor vos reuniu aqui» (Caminho da Perfeição).
 

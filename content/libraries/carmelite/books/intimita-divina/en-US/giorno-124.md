@@ -1,122 +1,25 @@
-## 100 — IMPERFECTION
+## 48 — BLIND OBEDIENCE
 
-### Presence of God
+**Presence of God.** — O Jesus, who for love of us willed to submit yourself to your creatures, teach me to obey without wishing to know more.
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — When in the superior one sees God, one obeys without discussions, without useless reasonings, without delays: "*Christus jubet, sufficit*", Christ commands, this suffices me. Indeed, what shall I still go seeking, when I know that the orders of my superiors are the orders of God himself? Even if the thing commanded is for me difficult and grievous, the knowing with certainty that it is precisely the Lord who wills it from me, will give me the strength to undertake it with promptness, without opposing the least resistance.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+There can certainly be some cases in which there is a reasonable motive to think that a given order has been imposed without taking account of elements which, if neglected, could bring painful consequences for the superior himself; and then it is well, and indeed may be obligatory, to make it noted. So likewise there is no imperfection in asking explanations when the order does not seem clear to us or puts us in serious embarrassment; but one must do it with humility, without insistence and always disposed to remit oneself to the decision of the superior. For the rest, moreover, one must be firm in not wishing to reason, in not wishing to discuss the orders received, in not wishing to investigate the motives that may have spurred the superior to give a determined order. If we set ourselves to reason on obedience, we shall create obstacles for ourselves to obey; one must therefore know how to cut short immediately every reasoning, even interior, to make of it a fine sacrifice to the Lord. Worse yet would it be to communicate our reasonings to others, to criticize the dispositions of superiors, etc.; in such manner obstacles would be created also to the obedience of others.
 
+If you wish to give all your personality to the Lord, you must renounce totally your manner of seeing which, for as much as it may be good, will always be infinitely inferior to that of God, and God makes you act according to his views, precisely through his superiors.
 
-for the soul that seeks perfection, of eliminating from its
+**2** — To say that the superior manifests to us the will of God, does not truly mean that all that he thinks, says, wills, God also thinks, says, wills. Certainly not. But only that, when the superior, as such, gives a legitimate order, that order is surely the manifestation of the will of God. Blind obedience is precisely that which, surpassing every judgment or personal opinion, adheres to the orders of superiors, solely because in them it recognizes the divine will. It is *blind* because it blinds the intellect not permitting it to take account of its own judgment, to examine the motives of the superior, to discuss the command received; it is *blind* because it is founded solely on a motive of faith, since indeed by faith we know that the will of God reaches us through superiors. And, since faith is an "obscure" knowledge, one can say that obedience is as conditioned and as such is "deprived of natural light" and therefore blind; in other terms, it is an obedience that is not based on the reasonableness of human motives, but on this sole motive of faith: who listens to superiors, listens to God. "He who hears you, hears me" *(Lk.* 10, 16).
 
+In cases in which the opinion of the subject is better than that of the superior, blind obedience does not consist in denying one's own judgment until affirming the contrary — which would not be conformable to truth — but simply in renouncing to regulate oneself according to one's own opinion and in judging that one must *nevertheless obey*, because it is certain that God wills from us that which the superior has ordered and not that which to us seems, and perhaps even is, better.
 
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+Whoever, under pretext of the more perfect, leaves the way of obedience, leaves the secure way of the will of God for the dangerous way and full of snares of one's own will; and it is a thing that a consecrated soul can do nothing pleasing to God outside of holy obedience. "The actions of the religious — says St. John of the Cross — are not his, but of obedience, and if he subtracts them from this, account will be asked of him as of lost actions" *(Ct.* 11).
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"O Lord, how different are your ways from our gross imaginations! How true it is that from a soul already resolved to love you is all remitted into your hands, You will nothing else but that it obey, of nothing else desirous than to seek what may contribute to your greater glory! Since its will is yours, it has no need to seek nor to choose for itself another road, because this care, Lord, you take yourself and guide the soul by the path that is most advantageous to it. But if the superior should not have at heart our spiritual profit... You, O my God, would provide for it all the same, disposing in such manner the souls and our occupations as to find ourselves afterward, without knowing the manner, so advanced in the spirit and with so much profit as to remain marvelous" (T.G. *Fd.* 5, 6).
 
+"From how many inquietudes is one not always freed, good God, pronouncing the vow of obedience!... Having for compass only the will of superiors, shall I ever be secure of proceeding on the right path without fear of erring, nor even when to my eyes it seems certainly that superiors are mistaken. But as soon as I cease to consult the infallible compass, soon my soul loses itself in the most arid paths, where soon the water of grace comes to fail. O Jesus, obedience is the compass that You have given me to conduct me with security to the immortal shore; and how sweet it is to me to repose my gaze upon it and then to accomplish your will!" (T.B.G. *St.* 9).
 
-sins!
-
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+O Lord, I wish to give myself to obedience with an unshakeable confidence in your divine government that rules all, guides and turns in an infallible manner to the good of my soul. I wish to give myself to obedience without the least hesitation; binding myself to it I bind myself to you, I bind myself to your will.

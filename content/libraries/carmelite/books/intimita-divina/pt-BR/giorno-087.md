@@ -1,4 +1,4 @@
-## 87 — O ESPÍRITO DE POBREZA
+## XI — O ESPÍRITO DE POBREZA
 
 ### Presença de Deus
 

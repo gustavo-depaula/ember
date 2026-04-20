@@ -1,8 +1,6 @@
-## 203 — MISTÉRIO DE FÉ
+## III — MISTÉRIO DE FÉ
 
-### Presença de Deus
-
-Ó Jesus, creio em ti e te adoro presente no Sacramento do altar: aumenta a minha fé.
+**Presença de Deus.** — *Ó Jesus, creio em ti e te adoro presente no Sacramento do altar: aumenta a minha fé.*
 
 ### Meditação
 

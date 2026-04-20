@@ -1,13 +1,11 @@
 ## 29 — APARECEU O SALVADOR
 *25 dezembro*
 
-### Presença de Deus
-
-Meu Deus, que me criaste para ti, faze que eu possa voltar a ti e a ti unir-me por amor.
+**Presença de Deus.** — *Meu Deus, que me criaste para ti, faze que eu possa voltar a ti e a ti unir-me por amor.*
 
 ### Meditação
 
-i — Deus é caridade, Deus nos amou com amor eterno!
+**1** — Deus é caridade, Deus nos amou com amor eterno!
 "Parece que o Senhor dissesse: o homem não me ama porque não me vê; quero fazer-me ver por ele e assim fazer-me
 amar. O amor divino para com o homem era demasiado grande e
 assim sempre fora ab aeterno; mas este amor ainda não tinha
@@ -34,7 +32,7 @@ e adorai o Senhor" (BR.).
 Vamos, vinde, adorai, escutai, jubilai: Jesus, o Verbo
 do Pai, nos diz uma grande palavra: Deus vos ama!
 
-2 — As três Missas natalinas põem diante de nós um
+**2** — As três Missas natalinas põem diante de nós um
 quadro majestoso: a comovente descrição do nascimento
 de Jesus enquanto homem alterna-se com a sublime da
 geração eterna do Verbo no seio do Pai e não faltam

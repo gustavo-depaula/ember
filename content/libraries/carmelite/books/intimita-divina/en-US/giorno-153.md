@@ -1,7 +1,5 @@
 ## XIV — RESOLUTE DETERMINATION
 
-**Presenza di Dio.** — *O Signore, aiutami ad esserti fedele, affinché lo spirito di orazione non si spenga in me per colpa mia.*
-
 **Presence of God.** — *O Lord, make me persevering in prayer, despite the difficulties I may encounter.*
 
 ### Meditation

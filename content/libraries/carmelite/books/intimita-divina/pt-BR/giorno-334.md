@@ -1,8 +1,6 @@
-## 334 — AS OBRAS APOSTÓLICAS
+## 12 — AS OBRAS APOSTÓLICAS
 
-### Presença de Deus
-
-Ó meu Deus, torna-me digno de colaborar na difusão do teu reino de amor.
+**Presença de Deus.** — *Ó meu Deus, torna-me digno de colaborar na difusão do teu reino de amor.*
 
 ### Meditação
 

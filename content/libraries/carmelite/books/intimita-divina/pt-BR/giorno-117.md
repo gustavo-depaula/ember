@@ -1,12 +1,12 @@
-## 115 — A VERDADEIRA GLÓRIA
+## 41 — A VERDADEIRA GLÓRIA
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, que por amor de mim aceitaste a desonra da morte de cruz, ensina-me em que consiste a verdadeira glória e faze que, por amor de ti, eu saiba vencer meus pontos de honra.*
 
-— Ó Jesus, que por amor de mim aceitaste a desonra da morte de cruz, ensina-me em que consiste a verdadeira glória e faze que, por amor de ti, eu saiba vencer meus pontos de honra.
+
 
 ### Meditação
 
-1 — S. Teresa de Jesus ensina: "Por pouco que alguém
+**1** — S. Teresa de Jesus ensina: "Por pouco que alguém
 esteja apegado à honra, não pode avançar na virtude sem
 primeiro libertar-se disso", porque "onde reinam os pontos de honra
 nunca se chegará ao pleno desapego, nem se gozará do verdadeiro
@@ -45,7 +45,7 @@ pode quebrá-la, mas quer ser coadjuvado por nós com
 orações e esforços generosos" (Vi. 31, 20).
 
 
-2 — Para ver se estamos verdadeiramente desapegados dos
+**2** — Para ver se estamos verdadeiramente desapegados dos
 pontos de honra, não devemos basear-nos em certos desejos que
 às vezes se apresentam em massa durante a oração, pelos quais
 nos parece estarmos prontos a suportar qualquer humilhação

@@ -1,8 +1,6 @@
-## 338 — RETIDÃO DE INTENÇÃO
+## 16 — RETIDÃO DE INTENÇÃO
 
-### Presença de Deus
-
-Ó Deus, arranca do meu coração todas as intenções secundárias, todos os movimentos de amor-próprio, para que eu vise unicamente à tua glória.
+**Presença de Deus.** — *Ó Deus, arranca do meu coração todas as intenções secundárias, todos os movimentos de amor-próprio, para que eu vise unicamente à tua glória.*
 
 ### Meditação
 

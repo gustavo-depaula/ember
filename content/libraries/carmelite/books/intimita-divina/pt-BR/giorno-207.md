@@ -1,8 +1,6 @@
-## 207 — O SACRAMENTO DA UNIÃO
+## VII — O SACRAMENTO DA UNIÃO
 
-### Presença de Deus
-
-Ó Jesus, que me alimentas com teu Corpo e com teu Sangue, faze que eu viva de ti, da tua vida.
+**Presença de Deus.** — *Ó Jesus, que me alimentas com teu Corpo e com teu Sangue, faze que eu viva de ti, da tua vida.*
 
 ### Meditação
 

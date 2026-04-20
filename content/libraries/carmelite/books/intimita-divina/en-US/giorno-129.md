@@ -1,111 +1,21 @@
-## 99 — VENIAL SIN
+## 53 — THE DAILY CROSS
 
-### Presence of God
+**Presence of God.** — *O crucified Jesus, for the merits of your Cross, teach me to carry my cross each day.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — "He who does not take up his cross and follow me is not worthy of me" *(Mt.* 10, 38). With such words the divine Master expressly declares that carrying the cross is an indispensable condition to be his followers. The name of cross, however, must not make us think only of special sufferings — which, though not being excluded, are not, in general, things of every day — but it is fitting above all to think of those ordinary and daily discomforts that are never lacking in any form of life and that we must seek to embrace as so many instruments of progress and of spiritual fecundity.
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+Often it is perhaps easier to accept, in a spurt of generosity, great sacrifices, great sufferings that present themselves once in a while, than not certain small, minute daily sufferings, intimately connected with one's state of life and with the fulfillment of one's duty; sufferings that re-present themselves every day, always with the same countenance, with the same intensity and insistence, through situations that remain immutable for a long time. They are physical discomforts deriving from lack of health, from economic straitness, or again from fatigue, from overload of work or of preoccupations, they are moral sufferings resulting from divergences of views, from contrasts of temperament, from misunderstandings, etc. All this constitutes that concrete and real cross that every day Jesus presents to us, inviting us to carry it behind him; humble daily cross that does not demand great gestures of heroism, but before which we must every day repeat our *yes*, bending docilely our shoulders to carry its weight with generosity and love. The value, the fecundity of our daily sufferings lies precisely here, in this acceptance without reserves, by which we take them as God presents them to us, without seeking to withdraw ourselves from them nor even to diminish their weight. "Yes, O Father, because so it has pleased you" *(Mt.* 11, 26).
 
-
-satisfaction, toward creatures. And thus, little by little,
-
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+**2** — Jesus gives to our sufferings the name of cross, because cross means instrument of salvation, and He wishes that our suffering be not vain, but become *cross*, that is become for us a means of elevation, of sanctification. And in fact any suffering is transformed into cross as soon as we accept it from the hands of the Lord, adhering to his will that wishes to make use of it for our spiritual profit. If this is true for the great sufferings, it is very true also for the small ones; all enter into the divine plan, all — even the most minute — have been from eternity predisposed by God for our sanctification. Let us accept them therefore with serenity, without letting ourselves be immersed in the things that displease us; let us maintain them in the place that they must have and that in reality they have in the divine plan, that is place of instruments, through which we shall be able to realize our ideal of holiness, of union with God. If these contrarieties are an evil because they make us suffer, they are a good because they give us occasion to exercise virtue, because they purify us and draw us near to the Lord. But, to know how to carry the cross, it does not suffice to understand its value, there is need also of strength. If we let ourselves be guided by Jesus, He certainly will give it to us and, precisely through the struggles and daily sufferings, He will carry us, by the road chosen by him, to that degree of holiness that he has fixed for each one of us. But one must have an immense confidence, go forward with closed eyes, abandoning oneself totally; one must accept the cross that the Lord offers us and carry it with love. If, with the help of grace, we shall know how to sanctify thus all the great and small daily sufferings, without losing serenity and confidence, we shall become saints. Many souls are discouraged before suffering and strive to avoid it, because they have not enough confidence in the Lord, they do not believe enough that *all*, even to the smallest particulars, is disposed by him for our true good. Every suffering...
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"Well I see, O Jesus, my sweet Captain, that You raise the standard of your Cross and amorously say to me: 'Take the cross that I present to you and, though its weight seem grievous to you, come behind me and doubt not'. To correspond then to your invitation, I promise you, O my celestial Spouse, no longer to make resistance to your love. But already I see that you set out for Calvary, and behold that your spouse promptly follows you.
 
+"And since the spouse cannot please the Spouse, if she does not study with particular diligence to render herself in all things similar to him, so, O my Spouse Jesus, I propose now and for ever to procure with every care to imitate you and to crucify myself all with you... I must figure to myself that my calvary is the cloister, my cross the regular observance, my nails the three vows. Every consolation, O Lord, only from you do I desire, not on earth, but in heaven; little do I care to live happy, provided that I live as a religious. With good will I consign my heart a prey to afflictions, to sadnesses, to travails. I rejoice not to rejoice, because at that table of eternity that awaits me, must precede in this life the fast.
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+"All is little, O my God, to conquer you, in whom is every good; and no fatigue ought to seem hard to me, nor must I turn back for the difficulties that I may encounter, but I wish to embrace bitternesses and every sort of crosses with promptness" (cf. T.M. *Sp.* pp. 324, 304, 132, 128, 131).
 
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+"Is there perhaps any thing, O Lord, among all those that you do, which is not directed to the greater good of the soul that considers itself now as yours, having submitted itself to your will, to follow you wherever, even unto death on the cross, determined to help you to carry it and never to leave you alone?... I wish then to confide in your goodness... Lead me by where you best please; I am no longer mine, but yours. Make of me, O Lord, what you will; I ask you only that I may no more offend you. I wish to suffer, O Lord, since You too have suffered" (cf. T.G. *Vi.* 11, 12).

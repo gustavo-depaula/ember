@@ -1,9 +1,8 @@
-## 209 — FESTA DO SAGRADO CORAÇÃO DE JESUS
+## IX — FESTA DO SAGRADO CORAÇÃO DE JESUS
+
 *Sexta-feira depois da oitava de Corpus Domini*
 
-### Presença de Deus
-
-Ó Jesus, concede-me penetrar os segredos escondidos no teu Coração divino.
+**Presença de Deus.** — *Ó Jesus, concede-me penetrar os segredos escondidos no teu Coração divino.*
 
 ### Meditação
 

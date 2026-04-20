@@ -1,7 +1,5 @@
 ## V — A QUEM PROCURAS?
 
-*Terça-feira de Páscoa*
-
 **Presença de Deus.** — *Ó Senhor, que eu procure sempre somente a ti e, procurando-te, me seja dado encontrar-te.*
 
 ### Meditação

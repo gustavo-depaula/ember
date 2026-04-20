@@ -1,4 +1,4 @@
-## 182 — NA EXPECTATIVA
+## XIII — Na expectativa
 
 *Domingo na Oitava da Ascensão*
 

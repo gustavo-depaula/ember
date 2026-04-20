@@ -1,111 +1,27 @@
-## 99 — VENIAL SIN
+## 51 — THE VALUE OF SUFFERING
 
-### Presence of God
+**Presence of God.** — *O crucified Jesus, teach me the science of the cross, teach me the value of suffering.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — The Passion of Jesus teaches us in a concrete manner that in the Christian life one must be capable of embracing pain for love of God. This lesson is hard and repugnant to our nature so inclined to enjoyment, to joy; yet this lesson comes from Jesus, Master of truth and of life, most loving Master of our souls, who wills only our true good. If, then, Jesus teaches us to suffer, it means that in suffering is enclosed a great treasure.
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+In itself suffering is an evil and cannot be lovable; if Jesus has willed to embrace it with such fullness, and if he proposes it to us inviting us to esteem and love it, it is solely in view of a superior good reachable only through it, the sublime good of the redemption and sanctification of our souls.
 
+Although man, being a composite being, is by his nature subject to pain, God, through preternatural gifts, had willed that our first parents should not be exempt from them. But with sin such gifts were forever lost, and thus suffering has entered in an inevitable manner into our life. The immense sum of pains that travails humanity is the consequence of the disorder produced by sin, and not only by original sin, but also by actual sins. Yet, the Church sings: *"felix culpa"*! Why? Because the infinite love of God transforms all and knows how to draw from the twofold evil of sin and of suffering the great good of the redemption of the human race. Jesus, taking upon himself the sins of men, has also taken the consequences, that is pain and this pain, by him embraced during all his life and specially in his Passion, has become the means of our redemption. Pain, consequence of sin, becomes in Jesus and with Jesus, means to destroy sin itself. Behold why the Christian cannot consider suffering as an undesirable weight to which he must necessarily submit, but — and much more — as a means of redemption and of sanctification.
 
-satisfaction, toward creatures. And thus, little by little,
-
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+**2** — Suffering is an unpleasing sentiment that we experience faced with a thing — situation, circumstance, etc. — that does not correspond to our tendencies, exigencies, aspirations, that does not harmonize with them, that does not second them, but rather contraries them and places obstacles. All men are subject to suffering, but only the Christian possesses the secret of making it enter into his life, without it destroying the possible harmony and happiness on this earth. And such secret consists precisely in knowing how to harmonize every genre of suffering with one's own aspirations, which, for a Christian, can never limit themselves to an ideal of terrestrial happiness. This harmonization is possible, because that which is contraried and inconvenient from one point of view, often is very convenient from another: as, for example, physical suffering — hunger, cold, illness, etc. — though being inconvenient for the body, can be very useful for the reaching of a moral or supernatural good, such as is the acquisition of virtue, progress in holiness, etc. If from the purely human point of view, certain sufferings are altogether inopportune and unusable, they never are so from the supernatural point of view. "All things work together for good to those who love God" *(Rom.* 8, 28), and even the greatest private or social calamities can become a precious and most efficacious means of elevation. Any suffering can, therefore, be harmonized with the supreme ideals of the Christian: eternal salvation, holiness, the glory of God, the good of souls. But this is not possible without love, indeed it will be possible only in proportion to love. Only the love of Jesus has been able to transform the cross, horrible instrument of torture, into a most efficacious instrument for the glory of God and the salvation of humanity. So shall it be also for us: charity, love of God and of souls will render us capable of embracing any pain, harmonizing it with our highest aspirations. In such manner suffering...
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"O Lord, it costs you to give us bitterness to drink; but You know that this is the only means to dispose us to know you as You know yourself, to dispose us to become similar to you.
 
+"You know well, O Lord, that if You gave me only a shadow of joy, I would attach myself to it with all energy, with all the force of my heart; and this shadow you refuse me...because you will that my heart be all for you.
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+"Life passes so quickly that truly it is better to have a most beautiful crown in heaven and a little suffering down here, than to have an ordinary crown without suffering. When I think that for a suffering borne with joy I shall love you more for all eternity, I understand well that if You should give me the entire universe with all its treasures, this would not be comparable to the lightest suffering. Every new suffering, every anguish of the heart is like a light zephyr that brings to you, O Jesus, the perfume of the soul that loves you; then You smile with love and soon prepare a new bitterness, fill the chalice to the brim, thinking that the more the soul grows in love, so much the more must it grow in suffering.
 
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+"What privilege you grant me in giving me to suffer! Ah, eternity will not be too long to thank you. Why such predilection? It is a secret that You will reveal to us in the Fatherland, the day in which you shall wipe away all our tears.
 
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+"It is You, O Lord, who come to ask of me as alms this sadness, this trial...you have need of it for souls, for my soul. O Jesus, since when you have made me understand that you would give me souls through the cross, so much the greater are the crosses that I encounter, so much the more becomes lively in me the desire to suffer.
+
+"I am happy not to be freed from the sufferings of down here; pain united to love is the only thing that seems to me desirable in this valley of tears" (T.B.G. *Lt.* 32, 50, 23, 40, 58, 224; *St.* 7).

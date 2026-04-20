@@ -1,16 +1,14 @@
-## 158 — VIDA DE ORAÇÃO
+## XXIII — VIDA DE ORAÇÃO
 
-### Presença de Deus
-
-— Ó Senhor, que eu te busque não só em alguma hora ou momento do dia, mas em todos os momentos da minha vida.
+**Presença de Deus.** — *Ó Senhor, que eu te busque não só em alguma hora ou momento do dia, mas em todos os momentos da minha vida.*
 
 ### Meditação
 
-1. — A alma que anela a uma vida de intimidade com Deus não se contenta em limitar suas relações com Ele ao tempo da oração, mas procura prolongá-las durante todo o dia. É este um desejo mais que legítimo, porque quem ama tende a relações sempre mais estáveis e contínuas com a pessoa amada. Assim acontece com a alma que ama a Deus; e isto é tanto mais possível pelo fato de que o próprio Deus está sempre conosco, está sempre presente e operante em nós; trata-se, é verdade, de uma presença espiritual, invisível, mas real e não somente afetiva e moral, como pode ser a da pessoa amada na mente e no coração de quem ama.
+**1** — A alma que anela a uma vida de intimidade com Deus não se contenta em limitar suas relações com Ele ao tempo da oração, mas procura prolongá-las durante todo o dia. É este um desejo mais que legítimo, porque quem ama tende a relações sempre mais estáveis e contínuas com a pessoa amada. Assim acontece com a alma que ama a Deus; e isto é tanto mais possível pelo fato de que o próprio Deus está sempre conosco, está sempre presente e operante em nós; trata-se, é verdade, de uma presença espiritual, invisível, mas real e não somente afetiva e moral, como pode ser a da pessoa amada na mente e no coração de quem ama.
 
 Se Deus está sempre conosco, por que nós não poderemos manter-nos em contínuo contato com Ele? Este contato se realiza mediante o pensamento e o afeto, mas muito mais com este do que com aquele. De fato, não é possível pensar sempre em Deus, quer porque a mente se cansa, quer porque muitas ocupações exigem toda a aplicação da inteligência e esta não pode atender, ao mesmo tempo, a dois objetos diversos. Em vez disso, mesmo enquanto o pensamento está ocupado em outra parte, o coração pode sempre amar, nem jamais se cansa de tender ao objeto do seu amor. Como o amor sobrenatural não consiste no sentimento, mas numa íntima orientação da vontade para Deus, vemos que esta orientação é possível também durante o desempenho de deveres que absorvem toda a inteligência. Aliás, a vontade poderá reforçar esta sua orientação para Deus justamente com o desejo de cumprir todo dever por amor dele, para agradá-lo, para dar-lhe glória. S. Tomás ensina precisamente que o coração pode tender sempre para Deus mediante «o desejo da caridade», isto é, mediante o desejo de amá-lo, servi-lo e unir-se a Ele em toda ação. «A oração não é outra coisa senão um desejo do coração; se o vosso desejo é contínuo, a vossa oração é contínua. Quereis, pois, não cessar jamais de rezar? Não cesseis jamais de desejar» (S. Agostinho).
 
-2. — Como a oração não consiste no muito pensar, mas no muito amar, assim a vida de contínua oração consiste muito mais no amor do que no pensamento. Todavia uma certa atividade do pensamento é necessária, seja para orientar o coração para Deus, seja para mantê-lo nessa direção.
+**2** — Como a oração não consiste no muito pensar, mas no muito amar, assim a vida de contínua oração consiste muito mais no amor do que no pensamento. Todavia uma certa atividade do pensamento é necessária, seja para orientar o coração para Deus, seja para mantê-lo nessa direção.
 
 A alma que se aplica bem à sua oração mental facilmente recolherá nela bons pensamentos que poderão servir-lhe durante o dia para manter seu coração dirigido para Deus; será, portanto, útil que com frequência, entre suas ocupações, procure despertar tais pensamentos e enganchá-los à sua vida prática.
 

@@ -1,12 +1,12 @@
-## 118 — O VALOR DA OBEDIÊNCIA
+## 44 — O VALOR DA OBEDIÊNCIA
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus obedientíssimo, faze-me compreender o valor da obediência.*
 
-— Ó Jesus obedientíssimo, faze-me compreender o valor da obediência.
+
 
 ### Meditação
 
-1 — "O Senhor - ensina S. João da Cruz -
+**1** — "O Senhor - ensina S. João da Cruz -
 prefere de ti o menor grau de obediência e submissão
 mais do que todos os serviços que pensas prestar-lhe"
 (AM. I, 13). Por quê? Porque a obediência te faz renunciar
@@ -41,7 +41,7 @@ senhores... como a Cristo... fazendo de coração a vontade
 de Deus" (Ef. 6, 5 e 6).
 
 
-2 — Um dos maiores obstáculos à plena conformidade
+**2** — Um dos maiores obstáculos à plena conformidade
 da tua vontade com a de Deus é o apego ao teu querer,
 aos teus desejos, às tuas inclinações. Ora, a obediência,
 pedindo-te que te regules segundo o querer alheio, é o

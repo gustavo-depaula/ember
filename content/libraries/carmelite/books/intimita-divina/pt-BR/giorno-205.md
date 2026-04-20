@@ -1,8 +1,6 @@
-## 205 — MISTÉRIO DE ESPERANÇA
+## V — MISTÉRIO DE ESPERANÇA
 
-### Presença de Deus
-
-Faze que eu tenha fome de ti, Pão dos Anjos, penhor da glória futura.
+**Presença de Deus.** — *Faze que eu tenha fome de ti, Pão dos Anjos, penhor da glória futura.*
 
 ### Meditação
 

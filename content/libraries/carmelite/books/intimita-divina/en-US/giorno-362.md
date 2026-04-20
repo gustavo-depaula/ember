@@ -1,101 +1,23 @@
-## 40 — JESUS UNIVERSAL KING
-*January 5*
+## 40 — ESTIMATIVE LOVE
 
-### Presence of God
-
-— O Lord, Your greatnesses are inexhaustible; make me capable of adoring and loving You in a manner worthy of Your infinite majesty.
+**Presence of God.** — *My God, supreme and infinite Good, grant that I may esteem nothing more than You and prefer nothing to You.*
 
 ### Meditation
 
-1 — Jesus is our all and rightly, therefore, He is
-also our King. He Himself proclaimed it: "I am
-King" (Jn. 18, 37); "all power has been given to me in heaven
-and on earth" (Mt. 28, 18).
+**1** — "Do you know what it means to love me truly? — the Lord said to St. Teresa of Jesus — To be persuaded that everything that does not please me is a lie" *(W. 40, 1)*. Although without sound of words, the Holy Spirit imparts this lesson to every soul that lets itself be molded and purified by Him; the more He illumines it on the truth of its misery and of the misery of all creatures, the more the soul is awakened by them and withdraws from them every hope, truly arriving to esteem God above all, preferring Him to every other. The attitude of this soul thus becomes very similar to that of St. Paul who exclaimed: "I count all things as loss for the sake of... Christ Jesus my Lord, for whose sake I have suffered the loss of all things and count them as dung, that I may gain Christ" *(Phil. 3, 8)*.
 
-Pius XI in the encyclical Quas primas teaches that "Jesus
-is King by right of nature and of conquest." By right of
-nature: "He obtains... sovereignty over all creatures, not
-seized by violence nor received from another, but possessed by Him through His own nature and essence;
-that is, Christ's principate
-is founded upon that marvelous union called hypostatic union. From this it follows not only 'that Christ must be
-adored by angels and men as God, but also
-that to Him, as Man, angels and men must
-be subject and obedient.'" Christ as Man fully participates in Christ's kingship and sovereign majesty as
-God, since, as Man and as God, Christ is
-one Person, the second Person of the Most Holy Trinity;
-He is at the summit of creation: the principle, the end, the king
-of all things. He has "primacy in all things" (Col.
+The estimative love that the Holy Spirit infuses in the soul through purifying shadows is so strong that it is disposed to make any sacrifice, to face any obstacle, to undergo any humiliation and suffering in order to conquer its God. "Truly — says St. John of the Cross — so great is the estimative love that it bears Him, although in the dark and without feeling it, that it not only bears its sufferings joyfully, but would willingly give its life a thousand times to please Him" *(N. II, 13, 5)*. Let us note that the soul does not feel and does not enjoy its love; it is not accompanied by sweetness and suavity, nevertheless it is a love so real that it effectively leads it to accomplish even the most difficult things "in order to go toward its Beloved" *(ibid.)*. Let us note also that it is not a question of velleities, of inoperative desires that immediately collapse before concrete cases of sacrifice, but it is instead a decision of the will so strong that nothing avails to move it. When this soul has understood that to unite itself to God it is necessary to decide on a determined step, it pays heed to nothing, neither to the repugnances of nature, nor to the voices of self-love or of egoism, nor to what others may say or think of it, but plunges headlong, with great boldness.
 
-1, 18). Nor what could be sweeter and more beautiful than
-to think that Christ reigns over us not only by right of nature,
-but also by right of conquest, by virtue of Redemption?
-Would that men forgetful should remember how much we have cost our Savior. "Not at a price... of gold and silver have you been ransomed... but by the precious Blood of Christ.
-Therefore we are no longer our own, since at so dear a price Christ has bought us back" (Quas primas). Jesus,
-therefore, has every right to reign over us; therefore He
-must reign: oportet Illum regnare! (1 Cor. 15, 25).
+**2** — Another effect of the great estimative love for God is "that the most grievous among the sufferings [that the soul can suffer] consists in the tormenting doubt of having lost God and of having been abandoned by Him" *(G.C. N. II, 13, 5)*. As it does not concern itself with any acquisition that is not the acquisition of God, so the soul does not concern itself with any loss that is not the loss of Him. Everything can be taken from it; health, riches, honors, esteem, confidence, the affection of dearest creatures and these same creatures, but it would never endure that God be taken from it or that it be prevented from loving Him. Thus thought and acted the saints. Thus thought St. Teresa Margaret of the Heart of Jesus, who in her immense desire to love God protested that she was disposed to suffer even the pains of hell in order to obtain such a grace; and to whoever asked her how she could bear torments so unspeakable, responded without hesitating: "I believe that love would make them tolerable and perhaps even sweet, because love alone makes one overcome everything" *(Sp. p. 347)*. Thus thought St. Teresa of Jesus who has left to her daughters the most beautiful remembrance: "Your desire be to see God; your fear, to lose Him; your sorrow, not to possess Him; your joy, in that which can lead you to Him" *(A. 69)*. This is the characteristic of true love: to create in the soul a sole concern, a sole fear, a sole desire, a sole joy centered in God alone.
 
-2 — From all eternity God the Father saw in Christ
-— His Only-Begotten made man for the redemption of sinful humanity — the masterpiece of His hands, and
-therefore decreed that all creation be made for
-Him, given to Him as His royal appanage. St. Paul
-declares that God the Father placed Christ "at His right
-hand in heaven, above every Principality and Power, Virtue
-and Domination"—that is, above all angelic
-hierarchies—"and above every title that can be given,
-not only in the present age but also in the future" (Eph. 1,
-20 and 21). Behold Christ the King above the angels, also
-created for His glory.
+If you wish to see to what point your estimative love for God reaches examine your conduct and seek to discover the ultimate motive of your concerns, of your fears, of your desires, of your joys; if this motive is not God, but are instead creatures, your interests and your satisfaction, you must humbly admit that you have not yet arrived at esteeming God above all things, because you put "in the same scale God and that which is infinitely distant from Him" *(G.C. S. I, 5, 4)*. Scruting more deeply your heart you will see that not rarely do you put on the same plane your will and the will of God, your tastes and His good pleasure, your interests and His glory, your comfort and His service, not only, but while in theory you protest that you esteem God above all things, very often in practice you give preference not to His wills, to His tastes, to His interests, but to yours and precisely thus you fall into so many imperfections.
 
-With regard to men and women, then, we must repeat with the Apostle that "we were chosen and predestined in Christ, so that we might be for the praise of His glory" (ibid., 1, 12). As
-St. Paul says, so we too were created for the glory of
-Christ, universal King; and as in heaven angels sing
-His praises, so we must glorify Him on earth.
-
-To glorify Jesus as our King means to recognize
-His sovereign rights over us; it means to live docilely
-subject to His most sweet empire.
-
-His kingdom is a kingdom of love: for a motive of love,
-that is, to save us, He descended from heaven and became one
-of us, and for the same motive He died on the Cross,
-shed all His Blood. Jesus reigns from the manger, Jesus
-reigns from the cross: He who by His nature was already our
-absolute Master willed to win at so dear a price
-our poor hearts. Let us not resist the sweet violence
-of His infinite love: let us give ourselves entirely to Him, so that
-
-He may reign in our mind, in our will, in
-our hearts.
+Be persuaded: "where there is true love of God there enters not love of self, nor of one's own things" *(G.C. N. II, 21, 10)*.
 
 ### Colloquy
 
-"Who, O my Lord and my King, could depict the
-greatness that shines in You? It is impossible not to recognize
-that You are sovereign Majesty itself. In contemplating You,
-one remains full of wonder, especially in seeing You also so
-humble and so full of love for a creature like me.
+"I confess to you, most amiable Son of God, my fault; I know not with what judgment I let my heart be drawn by the affections of creatures and stained by the profane conversation of the earth. Not reality, but the appearance of love artificially painted deceived me and drew me away from You and from the sweetest law of true and sole love for You. But now that with Your light You have dispelled my darkness, I refuse every worldly beauty and elect You, Son of God and of the most blessed Virgin, to love You with a pact of eternal love.
 
-"After that first sense of dismay that arises at the
-sight of such greatness, I can remain with You and speak to You
-freely... Yes, because although You are God, I can
-deal with You as with a friend, because You are not
-like the lords of the earth who place all their greatness in an external display of authority... Your kingdom,
-O King of glory and Lord of all kings,... has no end and,
-to approach You, so many intermediaries are not needed. To
-know that You alone among all deserve the name of Sovereign,
-it is enough to contemplate You, because in You shines such majesty
-that to show Yourself King You have no need of retinue and escort" (T.G. Vi. 37, 6 and 5).
+"Without You, infinite Goodness and Beauty, no creature can have true goods, nor outside of You can my soul find any satisfaction, since You gave it so great a capacity and hunger for the infinite that by living force it must not will or seek any good outside of You. I turn my gaze to the earth, O Son of the Most High, and all things seem to me small and imperfect in comparison with You. If all the dignities of the world were given to me, all the beauties of creation, all the comforts of life; if all that is great, honorable, rich and admirable in the world were given in my power and I could enjoy all these goods together for all eternity, I would never change my choice, but with most ardent affection I would sing: I seek and will always seek Your face, O Lord.
 
-O Lord, grant that my soul may always recognize You
-as its King and sovereign Master; everything I have received from
-You, so how could I fail to understand that You have every
-right over me? But You are a King who seems to make no account of
-His sovereign rights. What need was there, in order to win my heart, that You lower Yourself to the hiddenness of
-Bethlehem, that You humble Yourself to death on the cross, that You shed for me all Your Blood? My heart, all my
-being, and all my life already belonged to You,
-because You are my Creator and because I was created for Your glory. But You wanted to forget Your rights and came
-to me as a beggar, in search of my poor heart.
-
-O Jesus, how can I still resist before Your
-infinite love? Take my heart, take all my
-being and make me a living praise of Your glory.
+"Close, O Lord, my heart that human affections may not enter it and grant that I may not see, hear, nor taste any created thing, nor may any creature attach itself to me with detriment to Your pure love. May You alone, infinite Good, suffice to fill all my desires and sate this hunger that crucifies me; no other good, not even all other goods united together suffice me; indeed, after having tasted them all, I shall remain starved and shall languish in an extreme abandonment, deprived of You" *(Ven. John of G. M., o.c.d.)*.

@@ -1,12 +1,10 @@
 ## 330 — AS VÁRIAS FORMAS DE APOSTOLADO
 
-### Presença de Deus
-
-Ó Jesus, ensina-me a rezar, a sofrer, a trabalhar contigo pela salvação das almas.
+**Presença de Deus.** — *Ó Jesus, ensina-me a rezar, a sofrer, a trabalhar contigo pela salvação das almas.*
 
 ### Meditação
 
-1. — Quando se fala de apostolado, pensa-se quase exclusivamente na atividade externa; certamente ela é necessária, porém não é a única forma de apostolado. É preciso ter sempre presente que Jesus nos salvou não só com a atividade desenvolvida nos últimos três anos de sua vida, dedicados à evangelização das multidões e à formação do primeiro núcleo da Igreja, mas também com a oração, com o sofrimento, enfim, com toda a sua vida.
+**1** — Quando se fala de apostolado, pensa-se quase exclusivamente na atividade externa; certamente ela é necessária, porém não é a única forma de apostolado. É preciso ter sempre presente que Jesus nos salvou não só com a atividade desenvolvida nos últimos três anos de sua vida, dedicados à evangelização das multidões e à formação do primeiro núcleo da Igreja, mas também com a oração, com o sofrimento, enfim, com toda a sua vida.
 
 Jesus foi sempre apóstolo, foi sempre o enviado do Pai para nossa salvação. Seu apostolado começa em Belém, na miséria de uma gruta, onde, pequeno menino envolto em faixas, já sofre por nós; continua nos trinta anos de vida transcorridos em Nazaré na oração, no retiro, no escondimento; toma forma externa no contato direto com as almas durante a vida pública e culmina na agonia do horto das oliveiras e na morte de cruz.
 
@@ -18,7 +16,7 @@ Ambos são participação na obra salvífica de Jesus; há, porém, entre eles u
 
 Ao contrário, há casos em que a atividade externa pode faltar sem que por isso diminua a interior da oração e do sacrifício, que pode igualmente ser muito intensa e fecunda. Todo cristão é apóstolo não só em força da atividade que desenvolve, mas principalmente em força da sua participação na oração e no sacrifício com que Jesus redimiu o mundo.
 
-2. — O apostolado interior pode subsistir por si, e de fato há formas de vida que legitimam a ausência do apostolado exterior. É o caso da vida contemplativa pura, sempre florescente na Igreja e por ela maternalmente sustentada contra quem a acusa de ausência do campo da atividade.
+**2** — O apostolado interior pode subsistir por si, e de fato há formas de vida que legitimam a ausência do apostolado exterior. É o caso da vida contemplativa pura, sempre florescente na Igreja e por ela maternalmente sustentada contra quem a acusa de ausência do campo da atividade.
 
 Aqueles que, seguindo o chamado de Deus, retiram-se das obras para se dar a este gênero de vida, não são desertores, fugitivos; e se deixam as fileiras do apostolado externo, fazem-no justamente para se dar a um apostolado mais profundo: o da oração e da imolação contínua.
 

@@ -1,14 +1,12 @@
 ## 323 — O ZELO PELAS ALMAS
 
-### Presença de Deus
-
-Ó Jesus, que te entregaste pela salvação do mundo, acende em meu coração um grande zelo pela salvação das almas.
+**Presença de Deus.** — *Ó Jesus, que te entregaste pela salvação do mundo, acende em meu coração um grande zelo pela salvação das almas.*
 
 ### Meditação
 
-1. — À medida que o amor de Deus toma posse de nossos corações, faz nascer e alimentar neles um amor cada vez maior pelo próximo, amor que, sendo sobrenatural, visa sobretudo ao bem sobrenatural dos nossos semelhantes e se torna, por isso, zelo pela salvação das almas.
+**1** — À medida que o amor de Deus toma posse de nossos corações, faz nascer e alimentar neles um amor cada vez maior pelo próximo, amor que, sendo sobrenatural, visa sobretudo ao bem sobrenatural dos nossos semelhantes e se torna, por isso, zelo pela salvação das almas.
 
-Se amamos pouco a Deus, amaremos pouco também as almas; e, vice-versa, se nosso zelo pelas almas é fraco, quer dizer que igualmente fraco é nosso amor por Deus. Com efeito, como seria possível amar muito a Deus sem amar muito aqueles que são filhos seus, que são objeto de seu amor, de seus cuidados, de seu zelo? As almas são, por assim dizer, o tesouro de Deus; Ele as criou à sua imagem e semelhança num ato de amor; Ele as redimiu no Sangue de seu Unigênito num ato de amor maior ainda. «Deus amou tanto o mundo que deu seu Filho unigênito, para que todo aquele que nele crer não pereça, mas tenha a vida eterna» (Jo. 3, 16).
+Se amamos pouco a Deus, amaremos pouco também as almas; e, vice-versa, se nosso zelo pelas almas é fraco, quer dizer que igualmente fraco é nosso amor por Deus. Com efeito, como seria possível amar muito a Deus sem amar muito aqueles que são filhos seus, que são objeto de seu amor, de seus cuidados, de seu zelo? As almas são, por assim dizer, o tesouro de Deus; Ele as criou à sua imagem e semelhança num ato de amor; Ele as redimiu no Sangue de seu Unigênito num ato de amor maior ainda. «Deus amou tanto o mundo que deu seu Filho unigênito, para que todo aquele que nele crer não pereça, mas tenha a vida eterna» (Jo 3, 16).
 
 Quem penetrou o mistério do amor de Deus pelos homens não pode ficar indiferente à sua sorte: à luz da fé compreendeu que toda a ação de Deus no mundo visa ao bem deles, à sua felicidade eterna, e quer de algum modo tomar parte nessa ação, certo de não poder fazer coisa mais grata a Deus do que prestar sua humilde colaboração à salvação daqueles que lhe são tão caros.
 
@@ -16,7 +14,7 @@ Tal foi sempre o desejo ardente dos santos; desejo que os levou a cumprir heroí
 
 É verdade, o fim primário da ação de Deus é sua glória; mas esta glória Ele, infinitamente bom, ama procurá-la particularmente mediante a salvação e a felicidade de suas criaturas e, de fato, nada mais do que a obra salvífica dos homens exalta sua bondade, seu amor e sua misericórdia. Por isso, amar Deus e sua glória significa amar as almas, significa trabalhar e sacrificar-se por sua salvação.
 
-2. — O zelo pelas almas nasce da caridade, nasce da contemplação de Cristo crucificado: suas chagas, seu sangue, as dores dilacerantes de sua agonia nos dizem quanto valem as almas aos olhos de Deus e quanto Deus as ama. Mas esse amor não é correspondido e parece que os homens ingratos querem cada vez mais fugir à sua ação.
+**2** — O zelo pelas almas nasce da caridade, nasce da contemplação de Cristo crucificado: suas chagas, seu sangue, as dores dilacerantes de sua agonia nos dizem quanto valem as almas aos olhos de Deus e quanto Deus as ama. Mas esse amor não é correspondido e parece que os homens ingratos querem cada vez mais fugir à sua ação.
 
 É o triste espetáculo de todos os tempos, que também hoje se renova, quase para insultar Jesus e renovar sua Paixão. «Todo o mundo está em chamas: os ímpios, por assim dizer, anseiam por condenar novamente Jesus Cristo, levantam contra Ele infinitas calúnias e empregam-se de mil modos para destruir sua Igreja». Se Teresa de Jesus podia dizer assim de seu século atormentado pela heresia protestante, muito mais podemos dizê-lo nós no nosso, em que a luta contra Deus e contra a Igreja aumentou desmedidamente e se espalha por todo o mundo.
 

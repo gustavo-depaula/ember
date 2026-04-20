@@ -1,100 +1,23 @@
-## 35 — NEGOCIEMOS O TEMPO
-*31 dezembro*
+## 35 — PURIFICAÇÃO PASSIVA
 
-### Presença de Deus
-
-— Neste último dia do ano recolho-me aos pés de Jesus Menino para considerar, à luz da eternidade, o valor do tempo.
+**Presença de Deus.** — *Deus meu, ilumina o meu caminho, para que não me perca no meio das trevas das tribulações.*
 
 ### Meditação
 
-1 — O tempo passa e não retorna mais. Deus assinalou
-a cada um de nós um tempo determinado para realizar o
-plano divino sobre a nossa alma: temos só este tempo
-e não temos outro. O tempo mal empregado está perdido
-para sempre. A condição da nossa vida é este contínuo fluir, este contínuo correr do tempo que não tem
-retorno; na eternidade, ao contrário, estaremos fixos,
-estaremos estabelecidos.
-E estaremos estabelecidos naquele grau de amor que tivermos alcançado agora,
-no tempo; se tal grau for grande, num
-grande grau de amor e de glória estaremos estabelecidos em eterno,
-mas se tivermos alcançado um pequeno grau, não teremos
-mais por toda a eternidade. Terminado o fluir do tempo,
-já não é possível progresso algum. "Portanto, enquanto temos oportunidade, façamos o bem a todos" (Gal. 6, 10).
-"Trata-se de dar a cada instante o máximo amor,
-de tornar eterno o instante que foge, dando-lhe o valor da eternidade" (Irmã Carmela d. Sp. S., o.c.d.): eis o modo
-melhor de empregar o tempo que Deus nos concede. A
-caridade nos permite aderir com docilidade e amor à
+**1** — Embora por ti mesmo, mediante a generosa prática do renúncia total e um intenso exercício das virtudes teologais, possas introduzir-te na noite do espírito, não poderás penetrar lá onde é mais espessa, se não te põe Deus mesmo. Só Ele pode adensar sobre a tua cabeça as trevas desta noite de modo tal a reduzir-te verdadeiramente ao nada, a aniquilar-te em tudo, de modo a fazer-te chegar à pureza e à pobreza de espírito requeridas para a união. Mais que tomar iniciativas, a tua tarefa se reduz, então, a aceitar com amor, a submeter-se com paciência e humildade tudo o que Deus dispõe para ti.
 
-vontade de Deus e assim, ao fim da vida, teremos realizado
-o plano divino sobre a nossa alma, teremos alcançado aquele
-grau de amor que Deus espera de cada um de nós e com
-que o amaremos e o glorificaremos em eterno.
+Para não te pôr no risco de resistir à ação divina, deves ter presente que, em geral, Deus purifica as almas através das circunstâncias ordinárias da vida. Na vida de cada cristão, de cada apóstolo, de cada religioso há sempre uma medida de sofrimento suficiente para atuar a purificação do espírito; são sofrimentos de Deus mesmo escolhidos e dispostos do modo mais adequado segundo os diversos necessidades das almas, mas o mal é que bem poucos sabem valer-se, porque poucos sabem reconhecer, nas dores da vida, a mão de Deus que quer purificá-los. Doenças, lutos, distanciamentos, separações de pessoas queridas, incompreensões, lutas, dificuldades provenientes às vezes justamente daqueles de quem se esperaria maior ajuda e sustentação, desmoronamentos de obras amadas e sustentadas a preço de grandes fadigas, abandono de amigos, solidão material e espiritual, eis algo dos sofrimentos que, mais ou menos, se encontram na vida de cada homem e que, portanto, também tu encontrarás na tua. Pois bem, sabe que tudo isso é positivamente querido, ou ao menos permitido, por Deus para purificar-te até nas mais íntimas fibras do teu ser. Diante destas coisas não culpes nunca a malícia dos homens, não te detenhas nunca a examinar se são justas ou injustas, mas olha só a mão bendita de Deus que te oferece estes remédios amargos para conduzir-te à perfeita saúde do espírito. "É muito necessário — diz S. João da Cruz — que a alma suporte com grande paciência e constância todas as tribulações e penas que Deus quisesse enviar-lhe. Sejam elas internas ou externas, espirituais ou corporais, grandes ou pequenas, deve recebê-las todas da mão do Senhor, como direcionadas a seu bem e medicina. *São a sua saúde*" *(F.* 2, 30).
 
-2 — O aumento da caridade depende dos atos meritórios,
-isto é, das obras boas realizadas sob o influxo da caridade. Toda obra boa merece aumento de caridade, e este
-pode ser concedido logo à alma, ou só no fim
-da vida, conforme a alma tiver operado com todo
-o amor de que é capaz ou, ao contrário, um pouco por força,
-com tepidez e negligência. No primeiro caso, o aumento de
-caridade é semelhante aos juros que são imediatamente
-incorporados ao capital e que portanto frutificam com ele;
-no segundo caso é semelhante àqueles juros
-que não são acrescentados ao capital e portanto não aumentam com ele,
-embora sejam propriedade de quem os adquiriu.
+**2** — Considera quanto espírito de fé te é necessário para aceitar da mão de Deus todas as circunstâncias que te afligem, te humilham, te contrariam, te mortificam. Às vezes te poderá ser mais fácil curvar-se diante de graves provas que vêm diretamente do Senhor — como doenças, lutos, etc. — enquanto talvez sentirás maior repugnância diante de outras mais leves em que entram em jogo as criaturas. A ação imediata das criaturas, sobretudo quando tem parte a sua malícia, te torna mais difícil enxergar a mão divina; te ocorre aqui maior espírito de fé para ultrapassar o lado humano das circunstâncias, para ultrapassar o modo de agir defeituoso desta ou daquela pessoa e ver, além de tudo isto, as disposições da divina Providência a qual quer servir-se justamente daquelas criaturas e também dos seus defeitos e erros para limar o teu amor próprio, para aniquilar o teu orgulho.
 
-Para que o mérito das nossas obras boas — isto é, o aumento de caridade por elas ganho — seja logo concedido
-à alma, é necessário que tais obras sejam realizadas com
-todo o amor, isto é, com toda a boa vontade e generosidade de que a alma é capaz: então é como se a alma se
-abrisse para receber o aumento de amor merecido,
-e este, de fato, junta-se logo ao capital de caridade que ela possui,
-aumentando-lhe imediatamente o grau e a intensidade.
-
-Para crescer no amor temos só a breve jornada
-desta vida terrena e, se queremos tirar dela o maior fruto possível, devemos aplicar-nos a cumprir as nossas obras boas "com todo o coração", vencendo a inércia e a
-tepidez natural.
-Então o amor crescerá sem medida e
-a alma poderá, com Santa Teresa do Menino Jesus, dizer ao Senhor:
-"o teu amor cresceu comigo e agora se tornou um
-abismo cujas profundezas não posso sondar" (St. 10). Convém apressar-nos enquanto temos tempo, porque depois "vem a noite, quando ninguém pode trabalhar"
-(Jo. 9, 4).
+Em semelhantes casos te será utilíssimo o conselho que S. João da Cruz dá a um religioso: "Pensa que quantos vivem ao redor de ti têm o ofício, como na verdade o têm, de pôr-te à prova, trabalhando-te uns com a palavra, outros com a obra, outros enfim com o pensamento; e que nisto deves estar sujeito a todos como a imagem o está a quem a trabalha ou pinta ou doura" *(Ct.* 15). A alma de fé, profundamente convencida de que Deus guia todas as coisas e tudo dispõe para o bem daqueles que o amam, vê em cada próximo um mensageiro do Senhor, tendo d'Ele o encargo preciso de exercitá-la nas virtudes e maximamente naquelas de que tem maior necessidade. Por conseguinte esta alma, antes de rebelar-se e indignar-se pelos tratamentos pouco delicados ou até injustos que recebe, curva a cabeça e os aceita humildemente como a cura mais adequada para libertar-se dos seus defeitos ou imperfeições. É propriamente esta a conduta que deves ter se queres tirar proveito de todas as provas que Deus põe no teu caminho. Guarda-te, pois, em tais casos, de atitudes de vítima, de tomar um tom de protesto, de lamentação ou de revolta; qualquer sofrimento te possa vir das criaturas, uma só ne é a verdadeira explicação: o Senhor quer purificar-te e fazê-lo justamente mediante estas tribulações externas. Persuade-te de que tudo aproveita grandemente ao teu avanço espiritual, porque não se chega à união com Deus se antes não se chega a reduzir-se ao nada, isto é, a estabelecer-se em suma humildade.
 
 ### Colóquio
 
-Ó Senhor, considerando o novo ano decorrido e
-que Tu me concedeste para crescer no teu amor, não posso
-deixar de lamentar-me de mim mesmo e de repetir-te:
-quanto pouco te amei, meu Deus! Como empreguei
-mal o meu tempo!
+«Ensina-me, Deus meu, a sofrer em paz as aflições que me envias para que a minha alma saia do crisol da prova mais refinada e clareada para melhor contemplar a ti que habitas no meu interior. Então os trabalhos que agora me parecem insuportáveis, me se tornarão coisa de nada e desejarei voltá-los a sofrer, se assim Tu quisesses, pois também as maiores provas e perseguições não são nunca sem proveito. Mas eu sou demasiado imperfeita e não as suporto como deveria» *(T.G.Vi.* 30, 14).
 
-"Como tardam os meus desejos a acender-se, enquanto
-Tu tão cedo começaste a atrair-me e a
-chamar-me, para que toda eu me ocupasse de ti! Mas acaso
-Tu expulsaste os miseráveis? Acaso
-afastaste o pobre mendigo quando queria aproximar-se? As tuas grandezas e a magnificência das tuas obras, Senhor, têm talvez limite? Como te é fácil mostrá-las agora na tua serva,
-meu Deus e minha Misericórdia! Tu és poderoso, ó grande Deus. E
-este é o momento de mostrar se a minha alma se engana quando, pensando no tempo perdido, afirma que num
-instante Tu podes fazê-lo recuperar.
-Parece-me delirar, porque, segundo dizem, o tempo perdido não se recupera.
+«Ó grandeza do meu Deus! Aquilo que permites em nós de tentação e de tribulação, tudo é ordenado a nosso bem; e se de outra coisa não nos recordássemos, quando estamos lá embaixo na terra, que da vossa bondade, isso nos seria suficiente para vencer toda tentação.
 
-"Bendito seja o meu Deus! Reconheço, Senhor, a tua
-soberana potência. És poderoso: sim, verdadeiramente o és. E então,
-que há de impossível para quem tudo pode?
+«Ó meu amoroso e doce Esposo Verbo, Vós que tendes toda potestade no céu e na terra, sois aquele que confunde cada um e manda em fuga todos os inimigos. Eu por mim sou fraca e debilíssima, nada vejo, sendo cheia de misérias e de pecados; mas Vós, Verbo, com um pequeno olhar fugis todos os inimigos como palhinhas ao vento; porém os deixais combater com os vossos servos para fazer estes mais gloriosos. E quanto maior graça e maior luz quereis dar a eles, para que maior vos amem e vos conheçam, tanto mais provais com o fogo e purgais os seus corações à guisa do ouro, para que apareçam as suas virtudes como pedras dignas e preciosas.
 
-"Sabes bem, meu Deus, que, apesar das minhas grandes misérias, eu nunca cessei de reconhecer a tua soberana
-potência e misericórdia.
-Ao menos nisso não te ofendi;
-e Tu, Senhor, leva isso em conta. Recupera-me, ó meu Deus,
-o tempo que perdi, derramando em mim a tua graça para o
-presente e para o futuro, para que eu compareça diante de ti
-com a veste nupcial. Se o queres, podes" (T.G. Es. 4).
-
-Da minha parte, ó Senhor, não vejo melhor modo
-de recuperar o tempo perdido do que aplicar-me com todas as
-forças ao exercício do amor. Sim, o meu amor aumentará se eu souber cumprir por ti "com todo o coração", isto é, "com toda a boa vontade", cada meu dever, cada
-obra boa. Mas sou tão fraco e débil, tão indolente, inclinado a fugir do esforço, a evitar ou ao menos diminuir
-o sacrifício; a minha natureza tende sempre ao mais
-fácil, ao menos cansativo, e cai com tanta facilidade na
-negligência,
-na moleza. Ajuda-me Tu, Senhor, e fortalece o meu amor com a força onipotente do teu.
-É tão pouco o que posso fazer por ti; que ao menos saiba
-fazê-lo com todo o amor de que Tu me tornaste capaz.
+«Na vossa fortaleza, ó Verbo, conferi a nós a força para combater; e quem quer combater virilmente pela vossa glória, é preciso que desça mais ao baixo no conhecimento de si, pur sempre elevando o coração a vós para não ser confundido» (S. M. Madalena de' Pazzi).

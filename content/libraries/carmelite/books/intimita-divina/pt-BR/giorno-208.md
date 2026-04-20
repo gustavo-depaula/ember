@@ -1,8 +1,6 @@
-## 208 — DISPONHAMO-NOS À UNIÃO
+## VIII — DISPONHAMO-NOS À UNIÃO
 
-### Presença de Deus
-
-Ó Jesus, faze que eu possa aproveitar plenamente a graça de união contigo que todos os dias me ofereces na S. Comunhão.
+**Presença de Deus.** — *Ó Jesus, faze que eu possa aproveitar plenamente a graça de união contigo que todos os dias me ofereces na S. Comunhão.*
 
 ### Meditação
 

@@ -1,9 +1,8 @@
-## 201 — FESTA DE «CORPUS DOMINI»
+## I — FESTA DE «CORPUS DOMINI»
+
 *Quinta-feira depois do I Dom. depois de Pentecostes*
 
-### Presença de Deus
-
-«Ó vivo Pão que escondes meu Tesouro, diante de ti, prostrando-me, te adoro!» (G.C. Poesias).
+**Presença de Deus.** — *«Ó vivo Pão que escondes meu Tesouro, diante de ti, prostrando-me, te adoro!» (G.C. Poesias).*
 
 ### Meditação
 

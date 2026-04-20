@@ -1,8 +1,6 @@
-## 20 — BUSCAR DEUS NAS CRIATURAS
+## XX — BUSCAR DEUS NAS CRIATURAS
 
-### Presença de Deus
-
-Ponho-me aos pés de Jesus para que me ensine como buscá-lo e encontrá-lo nos meus irmãos.
+**Presença de Deus.** — *Ponho-me aos pés de Jesus para que me ensine como buscá-lo e encontrá-lo nos meus irmãos.*
 
 ### Meditação
 

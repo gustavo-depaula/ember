@@ -1,8 +1,6 @@
-## 5 — SANTIDADE E VONTADE DE DEUS
+## V — SANTIDADE E VONTADE DE DEUS
 
-### Presença de Deus
-
-Ponho-me na presença de Jesus Sacramentado, pedindo-lhe a graça de fazer sempre a sua vontade.
+**Presença de Deus.** — *Ponho-me na presença de Jesus Sacramentado, pedindo-lhe a graça de fazer sempre a sua vontade.*
 
 ### Meditação
 

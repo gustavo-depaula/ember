@@ -1,19 +1,18 @@
-## 157 — PEREGRINOS DE DEUS
+## XXII — PEREGRINOS DE DEUS
+
 *III Domingo depois da Páscoa*
 
-### Presença de Deus
-
-— Faze, ó Senhor, que as coisas terrenas não retenham meu coração a ponto de impedir-me de aspirar ao céu.
+**Presença de Deus.** — *Faze, ó Senhor, que as coisas terrenas não retenham meu coração a ponto de impedir-me de aspirar ao céu.*
 
 ### Meditação
 
-1. — Hoje a liturgia começa a voltar o pensamento para a próxima Ascensão do Senhor: «Não vos deixarei órfãos, virei a vós... Ainda um pouco e já não me vereis... porque eu vou para o Pai».
+**1** — Hoje a liturgia começa a voltar o pensamento para a próxima Ascensão do Senhor: «Não vos deixarei órfãos, virei a vós... Ainda um pouco e já não me vereis... porque eu vou para o Pai».
 
 Esta expressão foi tirada do discurso que o Senhor fez aos Apóstolos durante a última ceia, para dispô-los à perspectiva da Paixão; mas a Igreja gosta de apresentá-lo como um discurso de despedida de Jesus a nós, antes de sua partida.
 
 Tendo já cumprido sua missão, Ele retorna ao Pai que o enviou; um dia será assim também para nós: a terra não é nossa morada estável, mas só o lugar do nosso peregrinar. E Jesus o disse: «Ainda um pouco e não me vereis mais... depois ainda um pouco e me vereis». Estas palavras, obscuras para os Apóstolos que não as compreenderam, são hoje muito claras para nós: «ainda um pouco», isto é, ainda o tempo da nossa vida - que diante da eternidade é realmente pouco - e depois também para nós virá o momento de deixar a terra para segui-lo ao céu, onde o veremos na glória. E então, como disse o Senhor: «vosso coração exultará e ninguém poderá tirar-vos a vossa alegria». Mas, antes de chegar a esse termo feliz, é preciso passar através das travessias, das lutas, dos sofrimentos da vida terrena; embora tudo isso seja «pouco» diante do «desmedido peso de glória que nos espera» (cfr. II Cor. 4, 17), o Senhor sabe que para nós, tomados como estamos pelas vicissitudes da vida terrena, é «muito», é penoso, portanto nos previne para que não nos escandalizemos: «vós chorareis e gemereis e o mundo se alegrará». O mundo se alegra e quer alegrar-se a todo custo, totalmente imerso nos prazeres da vida presente, sem qualquer pensamento no que o espera para além dela. E se não pode escapar dos inevitáveis sofrimentos da vida, procura sufocar a dor no prazer, industriando-se em extrair de cada instante fugitivo todo o gozo possível. Não assim o cristão: impõe-se uma vida de sacrifício e de renúncia em vista de uma felicidade ultraterrena: «vós, porém, estareis na tristeza - diz Jesus - mas a vossa tristeza será transformada em alegria».
 
-2. — Também a Epístola nos exorta a viver nesta terra com o olhar voltado para o céu: «Caríssimos - diz S. Pedro - eu vos exorto que, como estrangeiros e peregrinos, vos abstenhais dos desejos carnais, que fazem guerra à alma».
+**2** — Também a Epístola nos exorta a viver nesta terra com o olhar voltado para o céu: «Caríssimos - diz S. Pedro - eu vos exorto que, como estrangeiros e peregrinos, vos abstenhais dos desejos carnais, que fazem guerra à alma».
 
 O peregrino não pode deter-se a gozar os alívios e as alegrias que encontra no seu caminho, sem comprometer o bom êxito da viagem e correr também o risco de não atingir a meta. Assim o cristão, peregrino de Deus, não pode deixar-se deter pelos bens terrenos; pode, sim, servir-se deles e até gozá-los, se a Providência os põe no seu caminho, mas com coração desapegado que logo prossegue adiante; nada pode tornar-lhe pesado o passo, porque ele tem pressa de chegar ao fim. A vida do cristão é a vida do viajante em terra estrangeira, que não para jamais porque está ansioso por chegar à pátria.
 

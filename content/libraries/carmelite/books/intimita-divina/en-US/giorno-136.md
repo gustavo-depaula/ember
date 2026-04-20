@@ -1,122 +1,27 @@
-## 100 — IMPERFECTION
+## 60 — THE MAN OF SORROWS
 
-### Presence of God
+*Wednesday of Holy Week*
+
+**Presence of God.** — *O passionate Jesus, cause that in Your Passion I may read Your love for me.*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — Today's Mass brings two lessons of Isaiah (62, 11; 63, 1-7; 53, 1-12) that sketch in an impressive manner the figure of Jesus, the Man of Sorrows. It is the suffering Christ that presents itself to our gazes covered with the living purple of His Blood, wounded from head to foot. "Why then is your raiment red and your garment like that of those who tread in the winepress? — I alone have trodden the winepress and of the peoples not one is with me". Alone Jesus has trodden the winepress of His Passion. Let us think of the agony in the garden when the vehemence of sorrow made all His members sweat blood. Let us think of the moment when Pilate, after having had Him scourged, presented Him to the crowd saying: "Behold the man"; Jesus appears then with His head crowned with thorns, His flesh lacerated by the scourges, while the vivid red of His Blood mingled with the vermilion of the robe of purple, with which the soldiers had vested Him to make of Him a mock king. And while Christ gave Himself for men, shedding His Blood for their salvation, men abandoned Him: "I looked about and there was none to help, I sought and there was none to give aid". Where are the sick healed by Him, the blind who at the touch of His hands recovered their sight, the dead resuscitated, the thousands of persons by Him fed with the bread of miracle, all the innumerable ones who in so many ways experienced His goodness? Before Jesus there is only an infuriated crowd that yells: "*Crucify, crucify!*". Even the Apostles, even the most intimate have gone away and precisely one of them has betrayed Him: "If an enemy had insulted me, I would have borne it... but it was you, you who were one soul with me, my equal, my friend and familiar, you who were already bound with me in sweet intimacy" *(Ps.* 54, 13-15). To this text that today, as on all Wednesdays of the year, we read in the psalms of Terce and that expresses so well the bitterness of Jesus in face of betrayal and abandonment, we too can add our own experience.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+Contemplating Jesus in His Passion each one of us can say: "*dilexit me, et tradidit semetipsum pro me*", He loved me and gave Himself for me *(Gal.* 2, 20), and it is well that we then ask: how have I requited His love?
 
+**2** — No one more than Jesus would have had right to the gratitude and fidelity of men, because no one more than Him has benefited them, and yet no one more than Him has tasted the bitterness of ingratitude and betrayal.
 
-for the soul that seeks perfection, of eliminating from its
+Let us approach for an instant the prologue of the Gospel of St. John, in which Jesus is presented to us in His divine majesty, in His eternal splendor of Word, of "true light, come to illuminate the world", with the lesson of Isaiah (2nd lesson of the Mass) that depicts the state of obloquy and ignominy to which His Passion has reduced Him and we shall intuit more deeply two great truths: the excessive charity with which Jesus has loved us and the enormous gravity of sin.
 
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+Precisely of Him, Son of God, it is said: "He has no beauty nor comeliness; we have seen Him and He had no appearance that attracted our gazes. Abject, the lowest of men, the Man of Sorrows, who... almost seeks to hide His face". He has no splendor, He who is the splendor of the Father's face; He seeks to hide His countenance, He whose countenance forms the beatitude of angels and saints; and He is so disfigured as to seem a leper, so abject that no one "has made any account of Him". To such a state have our sins reduced Him: "Truly He has taken upon Himself our infirmities and has borne our sorrows [infirmities and sorrows consequences of sin] ...He was wounded for our iniquities, He was bruised for our crimes... The Lord made to fall upon Him the iniquities of us all". But to such a state has His love also reduced Him, a love that made Him freely embrace the Passion; and having embraced it "because He willed it", He did not withdraw from His enemies, but spontaneously gave Himself into their hands. Let us remember the moment when Jesus, after having overthrown with His divine power the soldiers come to capture Him and having declared that, if He willed it, He could have in His defense legions of angels, lets Himself be taken and bound without the least resistance; let us remember when, already prisoner and condemned He does not hesitate to say to the Roman governor: "You would have no power over Me, if it were not given you from above" *(Jn.* 19, 11). Jesus is the victim that goes spontaneously to sacrifice, is the victim that immolates Himself for love and with full liberty. Supreme love and supreme liberty, because they are the love and liberty of God.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"In what state do I intuit You, sweet Jesus! O sweetest and most loving good Jesus! They have martyred You with the multiple wounds of scourges and nails, they have crowned You with thorns! How many, good Jesus, are those who strike You! Your Father strikes You, since He did not spare You, but delivered You up as victim for us all. And You strike Yourself, offering Your soul to death, that soul which no one can take from You, without You. And the disciple strikes You too, who betrays You with a kiss. And the Jew strikes You with kicks and slaps; and the gentiles strike You with scourges and with nails. Behold, how many persons, how many humiliations, how many executioners!
 
+"And how many, Your traitors! The celestial Father betrayed You for us all; and You betrayed Yourself, as St. Paul joyously sang: He loved me and betrayed Himself, for me.
 
-sins!
+"That exchange is in reality marvelous! The Master betrayed Himself for the servant, God for man, the Creator for the creature, the Innocent for the sinner. And You delivered Yourself into the hands of that traitor, of the false disciple. The traitor delivered You to the Jews. The most wicked Jews delivered You to the gentiles for the mockeries, the spittings, the flagellation, the crucifixion. You had said these things, You had predicted them: they came to pass. And, all things consumed, behold, You are crucified and placed among the wicked. They moved also that You be wounded! They added other wickednesses upon the sorrow of Your wounds, and to You — burning with thirst — they gave the potion of myrrhed wine mixed with gall.
 
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+"I weep over You, my King, Lord and Master, Father and Brother of mine, most loving Jesus" (St. Bonaventure).

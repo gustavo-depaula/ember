@@ -1,7 +1,5 @@
 ## XII — ORAÇÃO DE RECOLHIMENTO
 
-**Presenza di Dio.** — *O Signore, benché io ne sia tanto in degno, non disdegnare di ammettermi alla tua intimità.*
-
 **Presença de Deus.** — *Ó meu Deus, que eu possa encontrar-te em mim, no pequeno céu da minha alma.*
 
 ### Meditação

@@ -1,122 +1,23 @@
-## 100 — IMPERFECTION
+## 46 — FREE IMMOLATION OF LIBERTY
 
-### Presence of God
+**Presence of God.** — O Jesus, divine Lamb voluntarily immolated for the glory of the Father, make me understand the great value of voluntary immolation.
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — The vow of obedience has been optimally defined as "the free immolation of liberty" (Pius XII, *Congr. Relig.* Dec. 1950). This definition brings into evidence the concept of *free* immolation, and this, far more than a supine passivity, makes one think of an intense and noble activity which consists in the *voluntary* renunciation of one's own will, in order to submit *voluntarily* to the will of God, expressed in the commands of superiors. We are, therefore, far from the concept of a mechanical, material obedience, or again forced, necessarily endured, by which man acts like a machine or like a servant who submits to the master only because he cannot do otherwise. Here there is only the name and the external appearance of obedience, but in reality it lacks the interior content, the formal act, which consists precisely in the free and therefore conscious renunciation of one's own will, in order to adhere to the will of God manifested by the commands of the superior. Only by force of this twofold element: *free renunciation of self* and *free adherence to the divine will*, is obedience a perfect holocaust, so pleasing and precious in the eyes of God, as to be worth "much more than victims" *(I Kings,* 15, 22). If this interior element is lacking, the external act of obedience may be sufficient not to fail in the vow or promise made, but it loses its profound value and will never be a means to detach man from his will and launch him into the will of God.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+When you content yourself with a material, forced obedience, as if externally you conform to the order received, interiorly however you reserve your will; you cannot therefore say that you have realized the immolation of liberty nor even that you have freely embraced the divine will. A similar obedience is a contradiction for a soul that aspires to union with God, it is a pretending to arrive at the end without using the means, it is changing the precious coin of true obedience with a vile tin coin. St. Teresa of Jesus teaches: "obedience is the shortest way and the most effective means to arrive at the most happy state of union with God" *(Fd.* 5, 11); it is solely, however, of that obedience which is "free immolation of liberty", in order to will no other liberty than that of doing the will of God.
 
+**2** — A "free immolation" always demands consciousness, awareness on the part of whoever makes it, so must it be with the act of obedience. If you have made the vow or promise of obedience you must seek to keep always awake in you the sense of responsibility for the engagement taken.
 
-for the soul that seeks perfection, of eliminating from its
+Pronouncing your profession you intended to offer your will as a holocaust to the Lord, to let yourself be guided by whoever represents him; therefore, faced with the various commands of obedience — and especially faced with those that most contrast with your views or that for any motive are more grievous to you — you must be vigilant lest it happen that you take back, in practice, what you have offered by vow, which would be to commit a robbery in the holocaust. Your will you have already consecrated, sacrificed on the altar of the Lord, it is no longer yours, therefore you are no longer free to take it back. You must instead use your liberty to live, to carry out day by day your offering, that is to renew continually, faced with every disposition of obedience, the immolation of your liberty. Blessed obedience that permits you to realize your holocaust! "If you did not thus consecrate your will to the Lord — Teresa of Jesus wrote to her daughters — you would be like one who shows another a precious pearl, offers it to him, begs him to accept it, and when this other stretches out his hand to take it, withdraws the offering and hides it away very well" *(Cam.* 32, 7). This unfortunately is always possible even to you; indeed, even though you have sacrificed your will by vow, this remains still in your hands and it depends on your very will to keep faith with the vow made. It is therefore necessary that you be well decided to overcome your repugnances to embrace the will of God expressed in the commands of superiors.
 
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+"Obedience is the weight of the strong" (Pius XII, *to Disc. Carm.* Sept. 1952), precisely because it requires the strength to renounce self; but this weight, that is this renunciation, is sweet to the soul enamored of the will of God, who precisely in his love will always find the strength to deny self.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+O Lord, what ideal more great and more beautiful than to arrive at conforming totally my will to yours, so that no longer mine, but only your will may regulate, guide, govern me in all my movements, in all my actions?
 
+Oh, how sublime is the state of perfect conformity to your divine will! And You once more repeat to me that "to acquire this treasure there is no better means than to dig in the mine of obedience and extract it by force. The more I dig the more I shall find; the more I subject myself to men for love of you, willing no other will than that of superiors, and the more I make myself master of mine to conform it to yours. This is the true union with you, my God, this is the union that I desire, not already those suspensions very delightful to which is given the name of union, and which union is not, if not when they are preceded by this. You make me understand well, that, if I have little obedience and much will of my own, the union will not be with your will, but with my self-love. May it please you, O Lord, that I put into practice what you give me grace to understand" (cf. T.G. *Fd.* 5, 13).
 
-sins!
-
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+O Lord, You know it well, to my will it does not please to submit, it does not please to renounce itself to subject itself to the will of others; there is in me a strong love of liberty, of independence, which inclines me to seek a thousand pretexts, a thousand ways to escape the necessity of depending. But you also know that no thing in the world do I love, seek, desire as the will of yours. And to live in your will, to have the certainty and the joy of acting in every thing according to your divine will I am ready, with your help, to make any sacrifice, to immolate to the very end my liberty. O Lord, increase my love for your holy will, enkindle in me the passion of your will and then will grow in me the love of obedience, golden channel through which reaches me the most precious treasure of your will.

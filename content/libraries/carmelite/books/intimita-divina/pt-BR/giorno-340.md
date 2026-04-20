@@ -1,8 +1,6 @@
-## 340 — HUMILDADE NO APOSTOLADO
+## 18 — HUMILDADE NO APOSTOLADO
 
-### Presença de Deus
-
-Ó Senhor, imprime em mim um sentido tão profundo da minha indigência, que todo o bem que eu fizer eu o espere de ti e a ti somente atribua todo bem.
+**Presença de Deus.** — *Ó Senhor, imprime em mim um sentido tão profundo da minha indigência, que todo o bem que eu fizer eu o espere de ti e a ti somente atribua todo bem.*
 
 ### Meditação
 

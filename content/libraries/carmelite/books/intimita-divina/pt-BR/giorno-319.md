@@ -1,12 +1,10 @@
-## 319 — BEM-AVENTURADOS OS PUROS DE CORAÇÃO
+## XXVII — BEM-AVENTURADOS OS PUROS DE CORAÇÃO
 
-### Presença de Deus
-
-Aumenta, ó Senhor, a pureza do meu coração e da minha mente, para que eu possa conhecer-te sempre melhor.
+**Presença de Deus.** — *Aumenta, ó Senhor, a pureza do meu coração e da minha mente, para que eu possa conhecer-te sempre melhor.*
 
 ### Meditação
 
-1. — Ao dom da inteligência corresponde a bem-aventurança: «Bem-aventurados os puros de coração, porque verão a Deus» (Mt. 5, 8). Há, antes de tudo, uma pureza de coração que é condição indispensável para ter abundante influxo do dom da inteligência; é a pureza que resulta não só da ausência do pecado, mas também dos mínimos afetos terrenos.
+**1** — Ao dom da inteligência corresponde a bem-aventurança: «Bem-aventurados os puros de coração, porque verão a Deus» (Mt. 5, 8). Há, antes de tudo, uma pureza de coração que é condição indispensável para ter abundante influxo do dom da inteligência; é a pureza que resulta não só da ausência do pecado, mas também dos mínimos afetos terrenos.
 
 É fato que Deus não se comunica totalmente a uma criatura se esta não tem total pureza de coração, isto é, se não reserva para Ele toda a sua capacidade afetiva. Enquanto em nós houver algum apego às criaturas, alguma busca de seu afeto, alguma complacência em sentir-nos amados por elas, nosso coração não é bastante puro para gozar as comunicações divinas.
 
@@ -18,7 +16,7 @@ Com efeito, quando o coração conserva algum apego, ainda mínimo, às criatura
 
 Ao contrário, quando o coração é puro, então o intelecto, semelhante a um vidro límpido, pode ser totalmente penetrado pela luz do Espírito Santo.
 
-2. — Há depois outra pureza de coração que já não é disposição para receber o dom da inteligência, mas é fruto desse dom. Aqui o vocábulo coração é entendido no sentido mais amplo de espírito, de mente, sentido habitual na Sagrada Escritura.
+**2** — Há depois outra pureza de coração que já não é disposição para receber o dom da inteligência, mas é fruto desse dom. Aqui o vocábulo coração é entendido no sentido mais amplo de espírito, de mente, sentido habitual na Sagrada Escritura.
 
 Nossa mente é tão grosseira que podemos sempre errar ao entender as coisas divinas, ora imaginando-as de modo material à maneira das coisas terrenas, ora interpretando-as segundo nossas perspectivas pessoais, ora colhendo só algum aspecto e negligenciando outros essenciais, e assim por diante. Justamente assim, infelizmente, surgiram na Igreja tantas heresias.
 

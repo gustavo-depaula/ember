@@ -1,8 +1,6 @@
-## 11 — EM BUSCA DE DEUS
+## XI — EM BUSCA DE DEUS
 
-### Presença de Deus
-
-Recolho-me no íntimo santuário da minha alma para ali buscar Deus, que vive em mim pela graça.
+**Presença de Deus.** — *Recolho-me no íntimo santuário da minha alma para ali buscar Deus, que vive em mim pela graça.*
 
 ### Meditação
 
@@ -21,8 +19,6 @@ A busca amorosa de Deus escondido em nós caminha de mãos dadas com esta morte 
 Vivemos demasiado por fora; demasiadas vezes há em nós todo um mundo de tendências, de impulsos, de paixões muito vivas, que nos empurram para as criaturas e nos induzem a dar-lhes o nosso coração, a pôr nelas a nossa esperança, a buscar o nosso consolo na lembrança delas. E vivemos neste mundo superficial, que nos ocupa a tal ponto de fazer-nos esquecer a vida mais profunda, vida verdadeiramente interior, onde a alma poderia permanecer em íntima união com o seu Deus. O Senhor espera-nos, por assim dizer, no fundo da nossa alma, mas nós não entramos neste fundo, tomados como estamos pelos "nossos negócios", aos quais damos todo o nosso interesse.
 
 É preciso, portanto, sair de si mesmo e de todas as coisas, esquecer-se de si mesmo e de todas as coisas, evadir-se do mundo exterior, da vida superficial, para "esconder-se" com Deus "escondido".
-
-\* Cf. Pe. Gabriel de S. M. Madalena: A União com Deus segundo S. João da Cruz, Ed. del Carmelo S. Giuseppe - Roma.
 
 ### Colóquio
 

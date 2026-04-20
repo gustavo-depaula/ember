@@ -1,111 +1,31 @@
-## 99 — VENIAL SIN
+## 63 — THE VICTORY OF THE CROSS
 
-### Presence of God
+*Holy Saturday*
+
+**Presence of God.** — *O Jesus, crucified for love of me, reveal to me the victory reported by Your death.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — Scarcely had Jesus given up His last breath, when "the veil of the temple was rent... and the earth quaked, and the rocks were rent, and the tombs were opened and many bodies arose", so that the bystanders "feared greatly and said: 'Indeed this was the Son of God'" *(Mt.* 27, 51-54). Jesus wished to die in the most complete ignominy, accepting until the last the mockeries and ironic challenges of the soldiers: "If You are the Christ save Yourself" *(Lk.* 23, 39); but, as soon as He had expired, His Divinity revealed itself in a manner so powerful as to impose itself even upon those who until that moment had mocked Him. The death of Christ thus begins to manifest itself as it really is, that is, not a defeat, but a victory, the greatest victory that the world knows: victory over sin, victory over death, consequence of sin, victory that restores to men the life of grace.
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+Yesterday, presenting the Cross to our adoration, the Church sang: "Behold the wood of the Cross on which hung the salvation of the world" and, after the sad alternating of the *reproaches*, raised a hymn in praise of the Cross: "Around the trophy of the Cross celebrate the noble triumph by which the Redeemer of the world, though immolated, has conquered!". Thus the consideration and compassion of the sufferings of the Lord alternates with the hymn of victory. Death and life, death and victory are contradictory terms between them, and yet we see that in Jesus they are closely joined, so that the first is the cause of the second. St. John of the Cross, after having described the agony of Jesus on the Cross, affirms: "precisely then He accomplished the greatest work of all that ever in life He had done with miracles and stupendous prodigies,... the work with which He reconciled and united the human race with God, by means of grace. This occurred precisely when the loving Lord was most abased and humiliated in everything, that is: as to the reputation of men, since seeing Him die upon a trunk, far from having a bit of esteem for Him, they made fun of Him; and as to nature, since in it in a certain way He annihilated Himself dying; and as to the protection and spiritual comfort of the Father who in those moments abandoned Him". And then he concludes: "Hence the spiritual man understands the mystery of the door and the way of Christ, to be united with God, and let him know that the more he annihilates himself for love of Him,... the more he is united to Him and the greater work he accomplishes" (S. II, 7, 11).
 
+**2** — "In peace I sleep and rest"; thus begins the Matins of Holy Saturday, alluding to the peace of the sepulcher in which, after so many lacerations, reposes the most holy Body of Jesus; in fact this day is the most indicated for gathering ourselves in silence and in prayer beside the sepulcher of the Lord.
 
-satisfaction, toward creatures. And thus, little by little,
+After the death of Jesus, terrified by the earthquake and the darkness, all had left Calvary, except the group of the most faithful: Mary Most Holy and John who had never moved away from the Cross, Mary Magdalen and other pious women who "had followed Jesus from Galilee to serve Him" *(Mt.* 27, 55). The Lord has now expired, but they do not know how to detach themselves from Him, adored Master, object of all their love and of all their hopes. What holds them irresistibly beside that lifeless Body is precisely their love. This is the character of true fidelity, to persevere even in the most obscure and painful moments in which everything seems lost, in which the friend, far from triumphing, is reduced to the most profound defeat and humiliation. To be faithful to God when all goes well, when His cause triumphs, is easy; but to be faithful in the hour of darkness, when He permits the momentary prevalence of evil, for which all that is good and holy seems irremediably overwhelmed and submerged, is arduous, and is the surest proof of a true love.
 
+Meanwhile two disciples, Joseph of Arimathea and Nicodemus, take charge of the burial: the sacred Body is taken down from the Cross, wrapped in a linen cloth with aromatics and then laid "in the new sepulcher" that Joseph "had had hewn for himself in the rock" *(Mt.* 27, 60). Together with the Madonna, who must certainly have been present at the scene and received between her arms the lacerated Body of her divine Son, let us too approach those sacred remains; once more let us fix our gaze in those wounds, in those lacerations, in that blood that with such eloquence speak to us of the infinite love of Jesus for us. It is true, now those wounds are no longer painful, but glorious and tomorrow, with Easter, we shall celebrate precisely the great victory reported by them; but, although glorified, those wounds remain and will remain in eternity as the indelible sign of the excessive charity with which Christ has loved us.
 
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+Holy Saturday, day of transition between the anguish of Friday and the glory of the Resurrection, let it be a day of recollection and of prayer beside the lifeless Body of Jesus: let us open wide our heart, let us purify ourselves in His Blood, that, all renewed in love and in purity, it may vie with the "new sepulcher" in offering to the most loving Master a place of peace and of rest.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"Hail, O Cross, our only hope! You increase grace to the just and remit faults to sinners. O glorious and resplendent tree, adorned with the purple of the King, upon your arms is hung the price of our Redemption, in you is our victory, our ransom!" (cf. *BR.)*.
 
+"O Christ, once more I fix my gaze on Your lifeless countenance and not without tears I raise my eyes to Your wounds and piercings, not without emotion I raise my contrite heart and consider how much tribulation You have encountered to seek me, to save me.
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+"O good Jesus, with what liberality, on the cross, You gave us all that You had! To Your crucifiers You gave Your affectionate prayer, to the thief paradise, to the Mother the son, to the son the Mother, to the dead life, to the hands of the Father Your soul; You offered to the whole world signs of Your power and, to redeem the slave, not a few drops, but all Your Blood You gave, the Blood that You poured from the many and wide wounds!... O most sweet Lord and Savior of the universe, how shall I worthily thank You?
 
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+"O good Jesus, You bow Your flourishing head, pierced by the many thorns, inviting me to the kiss of peace and it seems that You say to me: 'Behold how I am disfigured, lacerated, killed. Do you know why? O strayed sheep, to take you and carry you back upon my shoulders and lead you back to the celestial pasture of Paradise. Render me the return... Look at me in My Passion. Love me. I have given Myself to you, give yourself to Me...'. O Lord, tenderized by Your wounds, I wish to put upon myself, passionate as I see You; I wish to put myself as seal upon my heart, and as sign upon my arm, to conform myself to You and to Your martyrdom in all the thoughts of my heart, in all the enterprises of my arm.
 
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+"O sweetest good Jesus! You who gave Yourself for us as the price of ransom, grant us, although we are not worthy of so great a price, that we surrender to Your guidance, entirely, perfectly and in everything" (cf. St. Bonaventure).

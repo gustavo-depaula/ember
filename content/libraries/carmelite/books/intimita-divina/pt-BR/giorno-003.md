@@ -1,8 +1,6 @@
-## 3 — SANTIDADE PLENITUDE DA GRAÇA
+## III — SANTIDADE PLENITUDE DA GRAÇA
 
-### Presença de Deus
-
-Aproximo-me de Jesus, "fonte de vida e de santidade", com um desejo vivo de beber desta fonte inesgotável.
+**Presença de Deus.** — *Aproximo-me de Jesus, "fonte de vida e de santidade", com um desejo vivo de beber desta fonte inesgotável.*
 
 ### Meditação
 

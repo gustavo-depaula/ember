@@ -14,12 +14,12 @@ Despertam-se assim na alma imensos anelos de apostolado, em nada comparáveis ao
 
 ### Colóquio
 
-"Meu Deus, quanto fervor e quanta força na caridade de uma alma que está unida a ti por amor! Aqueles que são assim tomados por ti não podem limitar-se ao próprio proveito pessoal, nem contentar-se com isso; mas, porque lhes parece pouco irem sozinhos para o céu, com solicitude e afeto todo celeste e com esmerada diligência esforçam-se por levar consigo muitos outros. Faze, ó Senhor, que semelhante a este seja o efeito do meu amor por ti!" *(cf. S. João da Cruz)*.
+«Meu Deus, quanto fervor e quanta força na caridade de uma alma que está unida a ti por amor! Aqueles que são assim tomados por ti não podem limitar-se ao próprio proveito pessoal, nem contentar-se com isso; mas, porque lhes parece pouco irem sozinhos para o céu, com solicitude e afeto todo celeste e com esmerada diligência esforçam-se por levar consigo muitos outros. Faze, ó Senhor, que semelhante a este seja o efeito do meu amor por ti!» *(cf. S. João da Cruz)*.
 
-"Ó Senhor, de uma alma já resoluta e inteiramente entregue em tuas mãos, Tu não queres outra coisa senão que deseje e procure quanto puder aquilo que resulte para tua maior glória.
+«Ó Senhor, de uma alma já resoluta e inteiramente entregue em tuas mãos, Tu não queres outra coisa senão que deseje e procure quanto puder aquilo que resulte para tua maior glória.
 
-"Oh, a caridade daqueles que te amam verdadeiramente! Que descanso poderiam ter se vissem poder contribuir, ainda que por pouco, para que uma alma avançasse e te amasse mais, ou só para dar-lhe consolação e livrá-la de um perigo? Como se tornaria insuportável o seu repouso pessoal!
+«Oh, a caridade daqueles que te amam verdadeiramente! Que descanso poderiam ter se vissem poder contribuir, ainda que por pouco, para que uma alma avançasse e te amasse mais, ou só para dar-lhe consolação e livrá-la de um perigo? Como se tornaria insuportável o seu repouso pessoal!
 
-"Oh, Senhor, aflita pela ruína de tantas almas, se não posso ajudá-las com obras, quero importunar-te com a oração. Quero renunciar a todo meu contentamento e tê-lo por bem perdido; quero esquecer-me totalmente de mim para pensar somente no melhor modo de cumprir tua vontade.
+«Oh, Senhor, aflita pela ruína de tantas almas, se não posso ajudá-las com obras, quero importunar-te com a oração. Quero renunciar a todo meu contentamento e tê-lo por bem perdido; quero esquecer-me totalmente de mim para pensar somente no melhor modo de cumprir tua vontade.
 
-"Meu Deus, quanto mais o tempo passa, mais cresce em mim o desejo de contribuir para o bem de alguma alma, parecendo-me muitas vezes ser como uma pessoa na posse de um grande tesouro, desejosa de distribuí-lo a todos, mas impotente para o repartir por ter as mãos atadas. Não podendo mais conter-me, elevo a ti a minha voz, suplicando-te que me forneças algum meio para cooperar em ganhar ao menos alguma alma para teu serviço" *(T.G. Fd.* 5, 6 e 5; 1, 6 e 7).
+«Meu Deus, quanto mais o tempo passa, mais cresce em mim o desejo de contribuir para o bem de alguma alma, parecendo-me muitas vezes ser como uma pessoa na posse de um grande tesouro, desejosa de distribuí-lo a todos, mas impotente para o repartir por ter as mãos atadas. Não podendo mais conter-me, elevo a ti a minha voz, suplicando-te que me forneças algum meio para cooperar em ganhar ao menos alguma alma para teu serviço» *(T.G. Fd.* 5, 6 e 5; 1, 6 e 7).

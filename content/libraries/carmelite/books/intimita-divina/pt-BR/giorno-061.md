@@ -1,18 +1,16 @@
-## 61 — AS OBRAS DE JESUS
+## 61 — LXI — As obras de Jesus
 
-### Presença de Deus
-
-Concede-me, ó Jesus, penetrar a imensidade das tuas obras.
+**Presença de Deus.** — *Concede-me, ó Jesus, penetrar a imensidade das tuas obras.*
 
 ### Meditação
 
-1 — "As obras que o Pai me deu para cumprir, essas obras... eu as cumpro. É preciso que eu cumpra as obras daquele que me enviou" (Jo. 5, 36; 9, 4). Jesus não tem outro objetivo senão cumprir a missão que lhe foi confiada pelo Pai para a glória do próprio Pai, para a redenção da humanidade. Ele arde de desejo - "desejei ardentemente" (Lc. 22, 15) - de cumprir até o fim tal obra, e com este vivo desejo vai ao encontro da Paixão e abraça a cruz.
+**1** — "As obras que o Pai me deu para cumprir, essas obras... eu as cumpro. É preciso que eu cumpra as obras daquele que me enviou" (Jo. 5, 36; 9, 4). Jesus não tem outro objetivo senão cumprir a missão que lhe foi confiada pelo Pai para a glória do próprio Pai, para a redenção da humanidade. Ele arde de desejo - "desejei ardentemente" (Lc. 22, 15) - de cumprir até o fim tal obra, e com este vivo desejo vai ao encontro da Paixão e abraça a cruz.
 
 A cada um de nós Deus confiou uma parte na grande obra redentiva de Jesus: almas consagradas a Deus, somos expressamente chamadas a colaborar na obra de Cristo. Antes de tudo devemos colaborar com a graça para que os frutos da Redenção sejam aplicados em plenitude às nossas almas: esta é a obra da nossa santificação pessoal. Mas não basta; somos chamados a santificar-nos para santificar; cada um de nós tem uma missão a cumprir para o bem, para a santificação de outras almas: trata-se de colaborar com Cristo para estender ao maior número possível de almas os frutos da Redenção. Esta é a obra que o Pai celeste nos confia; devemos aplicar-nos a ela com os mesmos sentimentos de Jesus: dedicação total, generosa, exclusiva, capaz de abraçar até os maiores sacrifícios. Toda ação nossa vale na medida em que nos leva à realização desta obra; tudo aquilo que não serve à nossa santificação ou à santificação alheia é inútil, é perda de tempo e, por isso, deve ser corajosamente eliminado.
 
 Repitamos com Jesus: convém que eu cumpra a obra que o Pai me confiou.
 
-2 — "Não estou só, porque o Pai está comigo. Meu Pai opera... e eu trabalho como ele... Como eu ouço [do Pai], julgo... Não faço nada por mim mesmo, mas falo sempre em conformidade com o que meu Pai me ensinou" (Jo. 16, 32; 5, 17-30; 8, 28).
+**2** — "Não estou só, porque o Pai está comigo. Meu Pai opera... e eu trabalho como ele... Como eu ouço [do Pai], julgo... Não faço nada por mim mesmo, mas falo sempre em conformidade com o que meu Pai me ensinou" (Jo. 16, 32; 5, 17-30; 8, 28).
 
 Jesus não só se entrega completamente à missão que lhe foi confiada pelo Pai, mas no cumprimento dessa missão, e em cada particular, age sempre em união com o Pai, em perfeita harmonia com ele, sempre dependendo dele, unicamente segundo o que dele escuta e nele vê. As ações de Jesus não fazem senão traduzir de modo humano, tangível, a invisível e incessante obra do Pai: "aquilo que vê o Pai fazer, isso também o Filho faz igualmente" (ibid., 5, 19); "As coisas que eu digo" - afirma Jesus - "digo-as como o Pai mas disse" (ibid., 12, 50).
 

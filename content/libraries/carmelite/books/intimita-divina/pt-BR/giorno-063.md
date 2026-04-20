@@ -1,13 +1,12 @@
-## 63 — A TEMPESTADE ACALMADA
+## 63 — LXIII — A tempestade acalmada
+
 *IV domingo depois da Epifania*
 
-### Presença de Deus
-
-Ó Jesus, crucificado por amor de mim, revela-me a vitória alcançada pela tua morte.
+**Presença de Deus.** — *Ó Jesus, crucificado por amor de mim, revela-me a vitória alcançada pela tua morte.*
 
 ### Meditação
 
-1 — Na liturgia de hoje, e particularmente no Evangelho (Mt. 8, 23-27), Jesus nos aparece como o dominador dos elementos, o vencedor de toda tempestade.
+**1** — Na liturgia de hoje, e particularmente no Evangelho (Mt. 8, 23-27), Jesus nos aparece como o dominador dos elementos, o vencedor de toda tempestade.
 
 "E eis que se levantou uma tempestade tão grande, que o barco era coberto pelas ondas." Podemos pensar nas perseguições que há séculos se abatem sobre a barca de Pedro, a Igreja; ou nas provas que Deus permite para as almas individuais. De qualquer modo, o espírito de fé nos diz que todo gênero de luta, de tempestade, é sempre querido ou permitido, ou ao menos não impedido por Deus: "tudo é graça" (T.B.G.N.V.), tudo é fruto do seu amor infinito. Deus não é um tirano que nos esmaga, mas o Pai que nos prova justamente porque nos ama: se permite a dor, as tempestades internas ou externas, individuais ou sociais, é só para delas tirar um bem maior. Nas dificuldades, o bem e a virtude se consolidam: o esforço para reagir leva sempre a ultrapassar aquilo que se teria feito em tempo de plena calmaria.
 
@@ -15,7 +14,7 @@ Jesus dorme tranquilamente na popa e os Apóstolos assustados o despertam: "Salv
 
 Se nas provas nos apavoramos, nos perdemos, é fundamentalmente sempre por falta de fé. Mesmo quando Deus se esconde, tudo parece ruir e nós nos sentimos terrivelmente sós, é absolutamente certo que Ele nunca nos abandona, se não somos nós os primeiros a abandoná-lo. Em vez de nos exasperarmos ou desesperarmos, é o momento de intensificar a nossa fé, de fazer atos vigorosos dela: "Eu conto com Ele" - dizia S. Teresa do Menino Jesus - "A dor poderá chegar ao extremo, mas estou certa de que Ele não me abandonará" (St. 12).
 
-2 — Os Apóstolos foram salvos somente quando recorreram a Jesus: enquanto tinham lutado e trabalhado sozinhos, não tinham conseguido nada. Muitas vezes não conseguimos superar certas lutas interiores precisamente porque trabalhamos sozinhos, mas o Senhor quer fazer-nos experimentar que o nosso esforço não é suficiente se não intervém a sua obra, e por isso nos deixa na tempestade até que recorramos a ele com plena confiança. Certamente Deus quer os nossos esforços, mas não quer que fundemos neles todas as nossas esperanças. Este é o motivo de tantos progressos frustrados no caminho da santidade: contar demais com os próprios recursos pessoais e pouco com a ajuda de Deus. É preciso estar bem convencido de que "a nossa suficiência vem de Deus" (II Cor. 3, 5); é preciso ter menos confiança em nós mesmos e mais confiança em Deus. Jesus pode tudo e a confiança faz milagres. "Obtém-se de Deus quanto dele se espera" (J.C.N. II, 21, 8).
+**2** — Os Apóstolos foram salvos somente quando recorreram a Jesus: enquanto tinham lutado e trabalhado sozinhos, não tinham conseguido nada. Muitas vezes não conseguimos superar certas lutas interiores precisamente porque trabalhamos sozinhos, mas o Senhor quer fazer-nos experimentar que o nosso esforço não é suficiente se não intervém a sua obra, e por isso nos deixa na tempestade até que recorramos a ele com plena confiança. Certamente Deus quer os nossos esforços, mas não quer que fundemos neles todas as nossas esperanças. Este é o motivo de tantos progressos frustrados no caminho da santidade: contar demais com os próprios recursos pessoais e pouco com a ajuda de Deus. É preciso estar bem convencido de que "a nossa suficiência vem de Deus" (II Cor. 3, 5); é preciso ter menos confiança em nós mesmos e mais confiança em Deus. Jesus pode tudo e a confiança faz milagres. "Obtém-se de Deus quanto dele se espera" (J.C.N. II, 21, 8).
 
 Mas podemos considerar outro gênero de tempestades: as provocadas pelas dificuldades que às vezes se encontram nas relações com o próximo. O remédio nos é indicado por S. Paulo na Epístola (Rom. 13, 8-10): "a ninguém devais coisa alguma, senão o amor mútuo". O amor vence tudo: o amor de Deus vence as tempestades interiores; o amor do próximo, que ama os irmãos por amor de Deus, vence as tempestades que derivam de divisões, incompreensões, choques de temperamento. Se de certas pessoas recebemos apenas amarguras e injustiças, sigamos o precioso conselho de S. João da Cruz: "onde não há amor, põe amor e tirarás amor" (Lt. 22).
 

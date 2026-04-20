@@ -1,8 +1,6 @@
-## XXVIII — MÃE DE DEUS
+## XXVIII — PARTICIPAR NA S. MISSA
 
-**Presenza di Dio.** — *O Gesù, che in ogni giorno ed in ogni ora t'immoli sui nostri altari, degnati di associarmi al tuo Sacrificio.*
-
-**Presença de Deus.** — *Santa Mãe do meu Deus, faze-me sentir os palpitares do teu coração que bateu em uníssono com o coração de Deus!*
+**Presença de Deus.** — *Ó Jesus, que em cada dia e em cada hora te imolas em nossos altares, digna-te associar-me ao teu Sacrifício.*
 
 ### Meditação
 

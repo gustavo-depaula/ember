@@ -1,4 +1,4 @@
-## 99 — O PECADO VENIAL
+## XXIII — O PECADO VENIAL
 
 ### Presença de Deus
 

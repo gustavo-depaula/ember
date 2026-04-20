@@ -1,18 +1,16 @@
-## 215 — O CORAÇÃO DE JESUS NOSSO MODELO
+## XV — O CORAÇÃO DE JESUS NOSSO MODELO
 
-### Presença de Deus
-
-Sagrado Coração de Jesus, ensina-me a modelar os movimentos do meu coração sobre os do teu.
+**Presença de Deus.** — *Sagrado Coração de Jesus, ensina-me a modelar os movimentos do meu coração sobre os do teu.*
 
 ### Meditação
 
-1. — A alma consagrada ao Sagrado Coração, a alma reparadora, deve sentir a necessidade de modelar a sua vida sobre a de Jesus. Como podes dizer-te verdadeiramente consagrado ao Sagrado Coração e como podes dizer-te sua vítima reparadora, quando tu mesmo conservas no teu coração sentimentos, desejos, gostos em oposição aos seus?
+**1** — A alma consagrada ao Sagrado Coração, a alma reparadora, deve sentir a necessidade de modelar a sua vida sobre a de Jesus. Como podes dizer-te verdadeiramente consagrado ao Sagrado Coração e como podes dizer-te sua vítima reparadora, quando tu mesmo conservas no teu coração sentimentos, desejos, gostos em oposição aos seus?
 
 É claro que, para modelar o teu coração sobre o Coração de Cristo, não podes limitar-te a eliminar este ou aquele defeito, a adquirir esta ou aquela virtude, mas deves tender à reforma de toda a tua vida. Contudo, o divino Mestre, quando quis apresentar-nos o seu Coração como modelo, falou de duas virtudes particulares: a mansidão e a humildade, «aprendei de mim que sou manso e humilde de coração» (Mt. 11, 29). E não sem motivo; de fato, quando tiveres eliminado do teu coração todos os movimentos e ressentimentos do amor-próprio e do orgulho, terás com isso eliminado todos os outros defeitos; e quando tiveres adquirido uma humildade profunda, terás adquirido juntamente todas as outras virtudes. Detém-te, pois, a considerar esta grande lição do Coração de Jesus.
 
 Antes de tudo, Jesus te fala de mansidão. A mansidão é a virtude que torna o homem capaz de dominar aquilo que, de modo genérico, se pode chamar ira, cólera. Esta virtude te confere o poder de frear, de dominar todos aqueles movimentos um pouco passionais que às vezes te fazem sair dos justos limites, te fazem perder um pouco... a bússola. E, como a bússola de uma alma que quer dar-se ao serviço de Deus é o próprio Deus, é o Coração de Jesus, se mesmo só por um pouco tu perdes de vista o Senhor e te afastas d'Ele, acabarás por seguir o teu amor-próprio, as tuas paixõezinhas; a mansidão, ao contrário, te torna senhor de ti mesmo, capaz de dominar todo gênero de irritação. Se te examinares bem, reconhecerás que esta irritação provém quase sempre do amor-próprio um pouco ofendido, do apetite irascível posto em movimento por alguma coisa que feriu o teu eu. Vês, portanto, que a mansidão é virtude intimamente ligada à humildade.
 
-2. — Nosso Senhor une à lição sobre a mansidão a da humildade, precisamente porque o fundamento imediato da mansidão é justamente a humildade.
+**2** — Nosso Senhor une à lição sobre a mansidão a da humildade, precisamente porque o fundamento imediato da mansidão é justamente a humildade.
 
 Basta que em ti haja um pouco de orgulho, de amor-próprio, de apego ao teu modo de ver ou de fazer, para que não possas suportar ser contrariado e então, diante dos choques inevitáveis derivados da convivência, perderás, mais ou menos, a calma, a paz interna e externa. Se perdes a calma, perdes também a serenidade de juízo e por isso não podes mais ver com limpidez a luz divina que te mostra o caminho a seguir e o que o Senhor quer de ti. Então a tua alma vacila, perde o vigor e se deixa um pouco arrastar pela paixão. Enquanto em ti houver resíduos de orgulho, de amor-próprio, sempre te acontecerão ocasiões em que perderás um pouco o controle e o domínio de ti mesmo, com a consequência de faltar à mansidão. Para tirar proveito da lição do Coração de Jesus, para modelar o teu coração sobre o dele, deves, pois, trabalhar assiduamente para extirpar em ti todos os germes do orgulho, do amor-próprio. Este é um trabalho em que deves empenhar-te dia após dia, recomeçando sempre do início, sem te deixares desencorajar pelo contínuo reaparecer dos sentimentos e ressentimentos do teu eu. Esta é uma batalha que vencerás não cessando jamais de combatê-la.
 

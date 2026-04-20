@@ -1,123 +1,27 @@
-## 120 — LIVRE IMOLAÇÃO DA LIBERDADE
+## 60 — O HOMEM DAS DORES
 
-### Presença de Deus
+*quarta-feira santa*
+
+**Presença de Deus.** — *Ó Jesus apaixonado, faze que em tua Paixão eu possa ler teu amor por mim.*
 
 ### Meditação
 
-1 — O voto de obediência foi otimamente definido como
-"a livre imolação da liberdade" (Pio XII, Congr.
-Relig. dez. 1950). Esta definição põe em evidência o
-conceito de imolação livre, e isso, muito mais que uma
-passividade inerte, faz pensar numa intensa e nobre atividade
-que consiste na renúncia voluntária do próprio querer,
-para submeter-se voluntariamente à vontade de Deus,
-expressa nas ordens dos superiores. Estamos, portanto, bem
-longe do conceito de uma obediência mecânica, material,
-ou então forçada, sofrida necessariamente, pela qual
-o homem age como uma máquina ou como um servo que
-se submete ao patrão só porque não pode fazer de outro
-modo. Aqui há somente o nome e a aparência externa da obediência,
-mas na realidade falta-lhe o conteúdo interior:
-o ato formal, que consiste precisamente na renúncia livre e portanto consciente da própria vontade, para
-aderir à vontade de Deus manifestada pelas ordens do
-superior. Somente em virtude desse duplo elemento:
-livre renúncia de si e livre adesão à vontade divina,
-a obediência é um perfeito holocausto, tão agradável e precioso aos olhos de Deus, a ponto de valer "muito mais
-que as vítimas" (1 Sm. 15, 22). Se falta esse
-duplo elemento interior, o ato externo de obediência
-poderá bastar para não faltar ao voto ou à
-promessa feita, mas perde seu profundo valor e jamais será meio para desprender o homem de sua vontade e
-lançá-lo na vontade de Deus.
+**1** — A Missa de hoje traz duas leituras de Isaías (62, 11; 63, 1-7; 53, 1-12) que traçam de modo impressionante a figura de Jesus, o Homem das dores. É o Cristo sofredor que se apresenta a nossos olhares recoberto da viva púrpura de seu Sangue, chagado da cabeça aos pés. «Por que pois teu vestuário é vermelho e teu traje como dos que pisam no lagar? — De mim só pisei o lagar e das gentes ninguém está comigo». Sozinho Jesus pisou o lagar de sua Paixão. Pensemos na agonia no horto quando a veemência da dor impregnou todos os seus membros de um suor de sangue. Pensemos no momento em que Pilatos, depois de havê-lo flagelado, o apresentou à multidão dizendo: «Eis o homem»; Jesus aparece então com a cabeça coroada de espinhos, as carnes dilaceradas pelos flagelos, enquanto o vermelho vivo de seu Sangue se confundia com o vermelho da veste de púrpura, da qual os soldados o haviam vestido para fazer dele um rei de brincadeira. E enquanto Cristo se dava pelos homens, derramando o Sangue por sua salvação, os homens o abandonavam: «Voltei o olhar e ninguém me prestou socorro, procurei e não houve quem me desse ajuda». Onde estão os doentes por ele curados, os cegos que ao toque de suas mãos recuperaram a vista, os mortos ressuscitados, os milhares de pessoas por ele saciadas com o pão do milagre, todos os inúmeros que de tantos modos experimentaram sua bondade? Diante de Jesus não há senão uma multidão enfurecida que grita: «Crucifige, crucifige!». Também os Apóstolos, também os mais íntimos se foram e justamente um deles o traiu: «Se um inimigo me tivesse insultado, tê-lo-ia suportado... mas foste tu, tu que eras uma só alma comigo, meu igual, meu amigo e familiar, tu que já eras estreito comigo em doce intimidade» (Sl. 54, 13-15). A este texto que hoje, como em todas as quartas-feiras do ano, lemos nos salmos de Tércia e que expressa tão bem a amargura de Jesus diante da traição e do abandono.
 
-Quando te contentas com uma obediência material, forçada, não cumpres o ato interno de renúncia de ti mesmo; ainda
-que exteriormente te conformes à ordem recebida,
-interiormente, porém, reservas tua vontade; não podes
-portanto dizer que realizaste a imolação da liberdade
-nem tampouco que abraçaste livremente a vontade
-divina. Uma semelhante obediência é um contrassenso para
-uma alma que aspira à união com Deus; é pretender
-chegar ao fim sem usar os meios, é trocar a
-moeda preciosa da verdadeira obediência por uma vil moeda de estanho. S. Teresa de Jesus ensina: "a obediência
-é o caminho mais breve e o meio mais eficaz para chegar
-ao felicíssimo estado da união com Deus" (Fd. 5, 11); trata-
-se unicamente, porém, daquela obediência que é "livre imolação da liberdade", para não querer outra
-liberdade senão a de fazer a vontade de Deus.
+Contemplando Jesus em sua Paixão cada um de nós pode dizer: «dilexit me, et tradidit semetipsum pro me», amou-me e se entregou por mim (Gl. 2, 20), e é bom que depois se pergunte: como retribuí seu amor?
 
-2 — Uma "livre imolação" exige sempre consciência,
-consciência por parte de quem a cumpre; assim deve ser
-do ato de obediência. Se fizeste o voto ou a promessa de obediência, deves procurar manter sempre
-vivo em ti o senso de responsabilidade pelo compromisso assumido.
+**2** — Ninguém mais do que Jesus teria direito à gratidão e à fidelidade dos homens, porque ninguém mais do que ele os beneficiou, e contudo ninguém mais do que ele saboreou a amargura da ingratidão e da traição.
 
-Ao pronunciares tua profissão, quiseste oferecer tua
-vontade em holocausto ao Senhor, para deixares-te guiar
-por quem o representa; por isso, diante das várias ordens
-da obediência - e sobretudo diante daquelas que
-mais contrastam com tuas vistas ou que por qualquer
-motivo te são mais gravosas - deves vigiar para que não
-te aconteça retomares, na prática, aquilo que ofereceste
-com voto, o que seria cometer uma rapina no holocausto. Tua vontade já foi consagrada,
-sacrificada no altar do Senhor; não é mais tua,
-portanto já não és livre para retomá-la.
-Deves, ao contrário, usar tua
-liberdade para viver, para realizar dia por dia tua
-oferta, isto é, para renovar continuamente, diante de
-cada disposição da obediência, a imolação da tua
-liberdade. Bendita obediência que te permite realizar teu holocausto! "Se não consagrásseis assim vossa
-vontade ao Senhor - escrevia Teresa de Jesus às suas
-filhas - assemelhar-vos-íeis a alguém que mostra a outro
-uma pérola preciosa, lha oferece, pede que a aceite,
-e quando ele estende a mão para tomá-la, retira
-a oferta e a esconde bem" (Can. 32, 7). Isso infelizmente
-é sempre possível também a ti; de fato, embora tenhas
-sacrificado com voto tua vontade, ela permanece ainda
-em tuas mãos e depende da tua própria vontade manter fé ao voto feito. É, portanto, necessário que sejas
-bem decidido a vencer tuas repugnâncias para abraçar
-o querer de Deus expresso nas ordens dos superiores.
+Aproximemos por um instante o prólogo do Evangelho de S. João, no qual Jesus nos é apresentado em sua majestade divina, em seu esplendor eterno de Verbo, de «luz verdadeira, vinda para iluminar o mundo», com a lição de Isaías (2ª lição da Missa) que nos pinta o estado de opróbrio e de ignomínia a que o reduziu sua Paixão e intuiremos mais a fundo duas grandes verdades: a excessiva caridade com que Jesus nos amou e a enorme gravidade do pecado.
 
-"A obediência é o peso dos fortes" (Pio XII, aos Carm.
-Descalços, set. 1952), justamente porque requer a força de renunciar a si mesmo; mas esse peso, isto é, essa renún-
-cia, é suave para a alma enamorada da vontade de Deus,
-que justamente em seu amor encontrará sempre a força
-de renegar-se.
+Justamente dele, Filho de Deus, é dito: «não tem beleza alguma, nem esplendor; nós o vimos e não tinha aparência alguma que atraísse nossos olhares. Abjeto, o último dos homens, o homem das dores, que... quase procura esconder o rosto». Não tem esplendor, ele que é o esplendor da face do Pai; procura esconder o rosto, ele cujo rosto forma a beatitude dos anjos e dos santos; e é tão desfigurado que parece um leproso, tão abjeto que ninguém «fez caso algum dele». Em tal estado o reduziram nossos pecados: «Verdadeiramente de nossas enfermidades Ele se encarregou e se carregou de nossas dores [enfermidades e dores consequências do pecado] ...Ele foi traspassado por nossas iniquidades, foi maltratado por nossas culpas... O Senhor fez recair sobre ele as iniquidades de nós todos». Mas em tal estado o reduziu também seu amor, um amor que lhe fez livremente abraçar a Paixão; e havendo-a abraçado «porque a quis», não se esquivou de seus inimigos, mas espontaneamente se deu em suas mãos. Recordemos o momento em que Jesus, depois de haver aterrado com seu poder divino os soldados vindos para prendê-lo e haver declarado que, se o quisesse, poderia ter em sua defesa legiões de anjos, se deixa prender e amarrar sem a mínima resistência; recordemos quando, já prisioneiro e condenado não hesita em dizer ao governador romano: «Tu não terias poder algum sobre mim, se não te fosse dado do alto» (Jo. 19, 11). Jesus é a vítima que vai espontaneamente ao sacrifício, é a vítima que se imola por amor e com plena liberdade. Máximo amor e máxima liberdade, porque são o amor e a liberdade de Deus.
 
 ### Colóquio
 
-Ó Senhor, que ideal maior e mais belo do que
-chegar a conformar totalmente minha vontade à tua,
-de tal modo que não mais a minha, mas só a tua vontade me sustente,
-me guie, me governe em todos os meus movimentos, em todas
-as minhas ações?
+«Em que estado te intuo, Jesus doce! Ó dulcíssimo e amantíssimo Jesus bom! Te martirizaram com as feridas múltiplas de flagelos e de cravos, te coroaram de espinhos! Quantos são, bom Jesus, os que te percutem! Te percute teu Pai, pois a ti não perdoou, mas te entregou vítima por todos nós. E te percutem a ti mesmo, oferecendo à morte tua alma, aquela que ninguém pode tirar de ti, sem ti. E te percute, além disso, o discípulo que te trai com o beijo. E te percute o judeu com pontapés e bofetadas; e te percutem os gentios com flagelos e com cravos. Eis, quantas pessoas, quantas humilhações, quantos carrascos!
 
-Oh, quão sublime é o estado de perfeita conformidade à
-tua vontade divina! E Tu mais uma vez me repetes que
-para adquirir este tesouro não há meio melhor
-do que cavar na mina da obediência e extraí-lo
-à viva força. Quanto mais cavarei, mais encontrarei;
-quanto mais me sujeitarei aos homens por amor teu,
-não querendo outra vontade
-que a dos superiores, tanto mais me tornarei senhor da minha
-para conformá-la à tua. Esta é a verdadeira união com
-teu, meu Deus, esta é a união que desejo, não
-aquelas suspensões muito deleitosas às quais se dá o nome
-de união, e que união não são, senão quando são
-precedidas por esta. Tu me fazes compreender bem que,
-se eu tiver pouca obediência e muita vontade minha, a união
-não será com tua vontade, mas com meu amor-próprio.
-Praza-te, ó Senhor, que eu ponha em prática quanto
-me dás graça de compreender" (cf. T.G. Fd. 5, 13).
+«E quantos, os teus traidores! O Pai celeste te traiu por nós todos; e Tu traíste a ti mesmo, como S. Paulo gozosamente cantava: Amou-me e se traiu a si mesmo, por mim.
 
-Ó Senhor, Tu bem o sabes, à minha vontade não agrada
-submeter-se, não agrada renunciar a si mesma para sujeitar-
-se ao querer alheio; há em mim um forte amor à
-liberdade, à independência, que me inclina a buscar mil
-e mil caminhos para fugir à necessidade de depender.
+«Aquela troca é na realidade maravilhosa! Traiu-se a si mesmo o Patrão pelo servo, Deus pelo homem, o Criador pela criatura, o Inocente pelo pecador. E Tu te entregaste de ti nas mãos daquele traidor, do discípulo falso. O traidor te entregou aos judeus. Os judeus pessimos te entregaram aos gentios para as irrisões, os escarros, a flagelação, a crucifixão. O havias dito estas coisas, as havias predito: se avveraram. E, consumadas todas as coisas, eis, Tu estás crucificado e colocado entre os malvados. Moveram também que Tu fosses ferido! Adicionaram outras maldades sobre a dor de tuas chagas, e te deram — a ti rearsido de sede — a poção do vinho mirrado misto de fel.
 
-Mas Tu também sabes que nenhuma coisa no mundo amo, busco,
-desejo como tua vontade. E para viver na tua
-vontade, para ter a certeza e a alegria de agir em
-tudo segundo teu querer divino, estou pronto, com
-teu auxílio, a fazer qualquer sacrifício, a imolar até o
-fundo minha liberdade. Ó Senhor, aumenta meu amor
-por tua santa vontade, acende em mim a paixão da
-tua vontade, e então crescerá em mim o amor à obediência,
-canal de ouro através do qual me chega o tesouro preciosíssimo da tua vontade.
+«Eu choro sobre ti, meu Rei, Senhor e Mestre, Pai e Irmão meu, Jesus amantíssimo» (S. Boaventura).

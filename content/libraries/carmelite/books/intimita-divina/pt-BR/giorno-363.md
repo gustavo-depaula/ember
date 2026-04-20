@@ -1,107 +1,33 @@
-## 41 — EPIFANIA
-*6 janeiro*
+## 41 — O GRÃO DE MOSTARDA
 
-### Presença de Deus
+*XXIV Domingo depois de Pentecostes — VI depois da Epifania*
 
-— Ó pequeno Jesus, em ti reconheço o Rei do céu e da terra: faze que eu possa adorar-te com a fé e o amor dos Magos.
+**Presença de Deus.** — *Ó Senhor, venha o Vosso reino sobre toda a terra; venha o Vosso reino no meu coração.*
 
 ### Meditação
 
-1 — "Hoje o mundo reconheceu Aquele que a
-Virgem deu à luz... hoje resplandece a festa da
-sua manifestação" (BR.). Hoje Jesus se manifesta ao
-mundo como Deus.
+**1** — Dos textos da Missa de hoje emerge a parábola do grão de mostarda, tão breve, mas tão rica de significado: «O reino dos céus é semelhante a um grãozinho de mostarda que um homem toma e semeia no campo; ele é o menor de todas as sementes, mas quando cresce é o maior de todas as hortaliças e torna-se uma árvore; tanto que os pássaros do céu vêm repousar entre os seus ramos» *(Vg.: Mt.* 13, 31-35). Nada de mais pequeno e de mais humilde do «reino dos céus», ou seja, da Igreja nas suas origens: Jesus, que é Cabeça e fundador, nasce numa gruta de animais, vive por trinta anos na botteguccia de um ferreiro e por sóis três anos desenvolve a sua obra no meio de pobre gente predicando uma doutrina tão simples que todos, também os iletrados, podem entendê-la. Quando Jesus deixa a terra, a Igreja é constituída por um exíguo grupo de doze homens, recolhidos em torno de uma humilde mulher, Maria; mas este primeiro núcleo tem uma força tão vital, tão possante que em poucos anos se difunde em todas as terras do vasto império romano. Através dos séculos, a Igreja, de minúsculo grão de mostarda semeado no coração de uma Virgem-Mãe e de pobres pescadores, torna-se uma árvore gigantesca que estende os seus ramos em cada região do globo e à cuja sombra se refugiam gentes de cada língua e de cada povo.
 
-O Intróito da Missa introduz-nos diretamente neste espírito apresentando-nos Jesus na majestade real da
-sua Divindade: "Eis que veio o soberano Senhor: Ele
-tem nas mãos o cetro, o poder e o império".
-A Epístola (Is. 60, 1-6) irrompe num hino de alegria anunciando a vocação dos gentios à fé; também eles reconhecerão e adorarão em Jesus o seu Deus: "Levanta-te,
-resplandece, ó Jerusalém, porque veio a tua luz...
-E as nações caminharão à tua luz e os reis ao esplendor
-que nascerá de ti... Virão todos os de Sabá trazendo
-ouro e incenso e anunciando os louvores do Senhor". Em torno
-do presépio já não a humilde cena dos pastores, mas o faustoso
-cortejo dos Magos do Oriente, vindos como representantes
-dos povos pagãos e de todos os reis da terra para render
-homenagem ao Deus-Menino.
+A Igreja não é uma sociedade de sóis homens, mas de homens que têm por cabeça Jesus, o Filho de Deus; a Igreja é o Cristo total, ou seja, Jesus mais os seus fiéis incorporados a Ele e formantes com Ele um único corpo; a Igreja é o Corpo místico de Cristo de que cada batizado é um membro. Amar a Igreja é amar Jesus; trabalhar pela difusão da Igreja é trabalhar para o incremento do Corpo místico de Cristo, a fim de que seja completo o número dos seus membros e cada membro coopere para o seu esplendor. A breve invocação: «*adveniat regnum tuum*», indica tudo isto e tudo isto solicita do Padre celeste.
 
-Epifania (ou Teofania) significa "aparição de Deus";
-e esta aparição de Deus vemo-la realizada em Jesus,
-que hoje se manifesta ao mundo como seu Deus e Senhor.
-Já um primeiro prodígio revelara a sua divindade:
-a extraordinária estrela aparecida no Oriente; mas ao recordar este
-milagre, que na liturgia de hoje ocupa o primeiro lugar,
-a Igreja acrescenta em resumo outros dois: a água que se
-transforma em vinho nas bodas de Caná, e o batismo de Jesus no
-Jordão, enquanto do céu uma voz atesta: este é o meu
+É pouco aquilo que podemos fazer pela difusão da Igreja? Façamo-lo pelo menos com todo o coração, cooperemos também nós com a nossa pobre obra, verdadeiro grão de mostarda, ao desenvolvimento desta árvore maravilhosa, à sombra da qual todos os homens devem encontrar salvação e repouso.
 
-Filho amado. "Três milagres ilustraram o santo dia que hoje celebramos", canta a antífona do Magnificat;
-três milagres que devem dispor-nos a reconhecer e adorar, com viva fé, em Jesus Menino o nosso Deus,
+**2** — A parábola do grão de mostarda faz-nos pensar não só ao desenvolvimento do reino de Deus no mundo, mas também ao desenvolvimento deste reino no nosso coração. Não disse talvez Jesus: «O reino de Deus está dentro de vós»? *(Lc.* 17, 21). Pois bem, também em nós este reino maravilhoso teve os seus inícios de uma pequeníssima semente, a semente da graça: graça santificante que, de modo escondido e misterioso, Deus semeou em nós no santo batismo; graça atual das boas inspirações, da palavra divina — «*semen est verbum Dei*» *(Lc.* 8, 11) — que Jesus, Semeador celeste, espalhou a mãos cheias nas almas nossas. Um pouco à volta esta pequena semente germinou, lançou raízes sempre mais fundas, cresceu penetrando progressivamente todo o nosso espírito, até que nos conquistou inteiramente a Deus, até que sentimos a necessidade de dizer: Senhor, tudo aquilo que tenho e que sou seja Vosso; dou-me todo a Vós. Quero ser *reino Vosso.*
 
-o nosso Rei.
+Ser totalmente *reino de Deus* de modo que Ele seja o único Soberano e Dominador do nosso coração e nada exista em nós que não Lhe pertença ou não seja sujeito ao seu império, é o ideal da alma que ama a Deus com amor total. Mas, como chegar ao pleno desenvolvimento deste reino de Deus em nós? No-lo diz a segunda parábola que lemos hoje: «O reino dos céus é semelhante ao fermento que uma mulher toma e misturas em três medidas de farinha, até que toda a massa leveda». Eis outra belíssima imagem do trabalho que a graça deve cumprir na nossa alma: a graça foi posta em nós como fermento que pouco à volta deve crescer até permear toda a nossa personalidade e divinizar-la inteiramente. A graça, fermento divino, foi-nos dada para sanar, elevar, santificar o nosso ser com todas as suas potências e faculdades; só quando terá conduzido a termo esta obra nós seremos inteiramente *reino de Deus.*
 
-2 — "Vimos a sua estrela no Oriente e
-viemos com dons adorar o Senhor"; assim nos versículos
-da Missa de hoje se sintetiza a conduta dos Magos.
-Ver a estrela e pôr-se a caminho foi uma só coisa.
-Não duvidaram: a sua fé era firme, segura, toda
-de uma peça. Não hesitaram diante dos trabalhos
-da longa viagem: o seu coração era generoso. Não
-adiaram para outro tempo: o seu ânimo era pronto.
+Refletamos ainda uma vez ao grande problema da nossa correspondência à graça. Esta semente divina, este fermento sobrenatural está em nós; quem lhe poderá impedir de tornar-se árvore gigantesca capaz de dar refúgio a outras almas, quem lhe poderá impedir de fermentar toda a massa, se removermos todos os obstáculos que se interpõem ao seu desenvolvimento, se secundarmos os seus impulsos e as suas exigências?
 
-Também no céu da nossa alma muitas vezes aparece
-uma estrela: é a íntima e clara inspiração de Deus que nos convida
-a um ato generoso, a um desapego, a uma vida de mais íntima união com Ele. Deveríamos saber sempre seguir
-a nossa estrela com a fé, a confiança e a prontidão dos
-Magos; seguida assim, ela nos conduzirá sem dúvida
-ao encontro do Senhor, far-nos-á encontrar Aquele que procuramos.
-
-Os Magos perseveraram na sua busca mesmo
-quando a estrela desapareceu dos seus olhos; assim também nós devemos perseverar no bem também entre as obscuridades interiores:
-é a prova da fé, que se supera só com intenso
-exercício de fé pura, nua. Sei que Deus o quer, sei que
-Deus me chama, e isso me basta: Scio cui credidi et certus sum (2 Tim. 1, 12); sei quem é Aquele em quem acreditei,
-e aconteça o que acontecer não posso duvidar dele.
-
-Com estas disposições vamos com os Magos ao presépio.
-"E, como aqueles com os seus tesouros ofereceram ao Senhor dons místicos, assim também nós saibamos tirar dos nossos corações
-dons dignos de Deus" (BR.).
+*«Adveniat regnum tuum!»* Sim, invoquemos o advento total do reino de Deus também nos nossos corações.
 
 ### Colóquio
 
-"Ó Jesus, eu te adoro, pois Tu és o Senhor Deus meu...
-Tu és um Deus grande e o Rei de todos os reis. Nas tuas mãos
+«Senhor Deus meu, que me criastes à Vossa imagem e semelhança, concedei-me esta graça que me demonstrastes tão grande e necessária, onde eu possa vencer a péssima natureza, que arrasta às culpas e à perdição. Pois sinto na minha carne a tendência ao pecado, que contradiz às leis do Espírito e me conduz como um escravo a obedecer em muitas coisas aos sentidos; nem posso resistir às paixões se não me assiste, ó Senhor, a Vossa santíssima graça infundindo-se com os seus ardores no meu coração.
 
-estão todos os confins da terra e Tu contemplas os cumes
-dos montes. Teu é o mar e Tu és Aquele que o fez, e sobre as tuas mãos se funda a terra... E nós somos o teu povo
-e as ovelhinhas da tua mão" (cf. Sl. 94). Sim, ó Jesus,
-eu sou uma tua ovelhinha, uma tua criatura,
-e alegro-me em reconhecer o meu nada diante de ti.
-Mas alegro-me ainda mais em reconhecer e adorar em ti, amabilíssimo Menino,
-o meu Deus e o meu Criador. Como desejaria que todos os povos
-te reconhecessem como Tu és, que todos se prostrassem diante de ti, adorando-te como seu Deus e Senhor.
+«Ó Senhor, sem a graça, eu nada posso fazer, enquanto se ela me ajuda e conforta, consigo tudo.
 
-Ó Senhor, Tu o podes, mostra a todos a tua Divindade;
-e, como um dia conduziste a ti os Magos do Oriente,
-assim agora reúne em torno do teu presépio todos os povos, todas
-as gentes.
+«Ó graça verdadeiramente celeste, sem a qual não temos méritos, sem a qual todos os dons da natureza são de estimar-se nada! Ó graça santíssima, que tornais rico de virtude o pobre de espírito, que tornais humilde de coração quem é fornecido de muitos bens, vinde, descei em mim, enchei-me hoje de celeste consolação, onde a minha alma não caia pelo cansaço e a aridez de espírito.
 
-Mas Tu me fazes compreender que queres a minha pobre
-colaboração para o advento do teu reino: Tu queres que
-eu reze, sofra e trabalhe pela conversão dos próximos e dos
-distantes. Queres que também eu leve ao teu presépio os dons dos
-Magos: o incenso da oração, a mirra da mortificação e do sofrimento generosamente abraçado por
-amor de ti, o ouro da caridade; caridade que torne o meu coração
-todo e exclusivamente teu; caridade que me impulsione a trabalhar, a dar-me pela conversão dos pecadores, dos infiéis,
-pela maior santificação dos teus eleitos.
+«Rogo-Vos, Senhor, que eu encontre graça diante de Vós: se também não obtiver aquilo que a natureza deseja, "me bastará a Vossa graça". Tendo-a, não temerei mal algum, quando for tentado e angustiado por muitas tribulações. Ela é a minha fortaleza, dá-me ajuda e conselho, é mais potente que qualquer inimigo, mais sábia que qualquer sábio.
 
-Ó meu dulcíssimo Rei, cria em mim um coração de apóstolo.
-Como eu gostaria hoje de levar aos teus pés os louvores e adorações sinceras de todos os homens da terra!
-
-Mas, ó Jesus, enquanto te peço que te manifestes ao mundo,
-peço-te também que te manifestes cada vez mais à minha pobre alma. Faze que hoje também para mim brilhe a tua estrela e me
-indique o caminho que a ti conduz; faze que hoje também para mim
-seja uma verdadeira Epifania, isto é, uma nova manifestação de ti
-à minha mente e ao meu coração. Quem mais te conhece, mais te
-ama, ó Senhor; e eu desejo conhecer-te unicamente para
-amar-te, para dar-me a ti com generosidade sempre crescente.
+«"A Vossa graça, Deus meu, me previna e acompanhe sempre, faça que eu seja sempre intento às obras boas, por Jesus Cristo Filho Vosso". Assim seja» *(Imit. III,* 55).

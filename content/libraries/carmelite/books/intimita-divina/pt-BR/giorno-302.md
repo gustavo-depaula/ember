@@ -1,12 +1,10 @@
-## 302 — A TEMPERANÇA
+## X — A TEMPERANÇA
 
-### Presença de Deus
-
-Ensina-me, ó Senhor, a mortificar minha carne para viver plenamente a vida do espírito.
+**Presença de Deus.** — Ensina-me, ó Senhor, a mortificar minha carne para viver plenamente a vida do espírito.
 
 ### Meditação
 
-1. — O homem pode desviar-se do dever, ou pelo medo das dificuldades e do sacrifício que encontra, ou pelas atrações do prazer; no primeiro caso vem em seu socorro a virtude da fortaleza, no segundo a da temperança. A temperança é precisamente a virtude que modera em nós o desejo desordenado do gozo sensível, contendo-o dentro dos limites assinalados pela razão e pela fé.
+**1** — O homem pode desviar-se do dever, ou pelo medo das dificuldades e do sacrifício que encontra, ou pelas atrações do prazer; no primeiro caso vem em seu socorro a virtude da fortaleza, no segundo a da temperança. A temperança é precisamente a virtude que modera em nós o desejo desordenado do gozo sensível, contendo-o dentro dos limites assinalados pela razão e pela fé.
 
 Dada a profunda desarmonia produzida em nós pelo pecado, pela qual a parte inferior tende a rebelar-se contra a parte superior, apetecendo coisas contrárias ao espírito, não poderíamos defender-nos das atrações do prazer sem o socorro desta virtude, que Deus infundiu em nossa alma justamente para tornar-nos capazes de refrear a tendência desregrada ao gozo. Como a fortaleza, com as virtudes conexas da magnanimidade, da paciência, da perseverança, é um apoio para nossa fraqueza, assim a temperança, com as virtudes que dela derivam — sobriedade, castidade, continência, modéstia etc. — é um freio para nossas concupiscências.
 
@@ -14,7 +12,7 @@ Todavia, embora seja freio, não tem só uma função negativa, qual seja modera
 
 Isso, porém, não pode realizar-se sem nossa colaboração, que, no campo da temperança, consiste sobretudo na mortificação das paixões e dos sentidos. «Se viverdes segundo a carne, morrereis; mas se, pelo Espírito, mortificardes as obras da carne, vivereis» (Rm. 8, 13). A virtude da temperança foi infundida em nós precisamente para tornar-nos capazes de dar «morte às obras da carne», morte que não é fim em si mesma, mas condição indispensável para a vida do espírito.
 
-2. — A beleza da virtude da temperança está justamente em ajudar-nos a refazer ao contrário o caminho percorrido por nossos primeiros pais em consequência do pecado: da perfeita harmonia entre espírito e matéria, eles caíram na profunda desarmonia, e nós dessa devemos voltar àquela. Como o cavaleiro, antes de lançar-se à corrida, põe o freio no cavalo fogoso, assim nós, para empreender este caminho, devemos impor à nossa carne os fortes freios da mortificação, de modo a dominar todos os seus movimentos e apetites.
+**2** — A beleza da virtude da temperança está justamente em ajudar-nos a refazer ao contrário o caminho percorrido por nossos primeiros pais em consequência do pecado: da perfeita harmonia entre espírito e matéria, eles caíram na profunda desarmonia, e nós dessa devemos voltar àquela. Como o cavaleiro, antes de lançar-se à corrida, põe o freio no cavalo fogoso, assim nós, para empreender este caminho, devemos impor à nossa carne os fortes freios da mortificação, de modo a dominar todos os seus movimentos e apetites.
 
 Compreende-se facilmente como a mortificação seja necessária no campo da castidade: viver casto sem mortificar o próprio corpo é ilusão, porque nem a virtude nem o voto de castidade mudam nossa natureza e tampouco nos tornam insensíveis aos atrativos dos sentidos, do mundo e do demônio. Compreende-se menos a necessidade da mortificação quanto ao sentido do gosto. Neste campo, até as almas que tendem à perfeição são, em geral, bastante fáceis em condescender ao prazer sensível, considerando-o coisa totalmente inocente e sem consequências para a vida do espírito; mas não é assim, porque tudo o que é desordem, ainda leve, na vida dos sentidos, vem mais ou menos a pesar e enfraquecer a vida do espírito.
 

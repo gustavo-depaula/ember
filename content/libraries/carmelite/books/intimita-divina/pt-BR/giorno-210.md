@@ -1,8 +1,6 @@
-## 210 — A DEVOÇÃO AO CORAÇÃO DE JESUS
+## X — A DEVOÇÃO AO CORAÇÃO DE JESUS
 
-### Presença de Deus
-
-Ó Jesus, digna-te descobrir-me os tesouros do teu Coração.
+**Presença de Deus.** — *Ó Jesus, digna-te descobrir-me os tesouros do teu Coração.*
 
 ### Meditação
 

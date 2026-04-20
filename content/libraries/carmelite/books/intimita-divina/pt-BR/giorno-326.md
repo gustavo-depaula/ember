@@ -1,12 +1,10 @@
 ## 326 — SENTIR COM CRISTO
 
-### Presença de Deus
-
-Ó Jesus, faze que eu possa nutrir pelas almas sentimentos semelhantes aos do teu Coração divino.
+**Presença de Deus.** — *Ó Jesus, faze que eu possa nutrir pelas almas sentimentos semelhantes aos do teu Coração divino.*
 
 ### Meditação
 
-1. — Uma colaboração eficaz exige sempre certa afinidade de intenções e de métodos entre o promotor da obra e seus colaboradores; aliás essa afinidade deve ser tanto mais profunda quanto mais a obra a cumprir não é material, mas espiritual.
+**1** — Uma colaboração eficaz exige sempre certa afinidade de intenções e de métodos entre o promotor da obra e seus colaboradores; aliás essa afinidade deve ser tanto mais profunda quanto mais a obra a cumprir não é material, mas espiritual.
 
 Devendo colaborar com Deus para o bem das almas, o apóstolo deve viver em íntima afinidade espiritual com Ele, de modo a entrar o mais possível em suas perspectivas e em seus desígnios para a salvação do mundo.
 
@@ -18,7 +16,7 @@ O apóstolo deve compreender a fundo que a ação de Deus pelos homens é toda a
 
 O apóstolo deve procurar pôr o próprio coração em contato com o coração de Deus para encher-se de seu amor, para compartilhar sua caridade pelos homens. O apóstolo deve, por assim dizer, sentir com Deus, sentir com Cristo, isto é, nutrir profundos sentimentos de amor por seus irmãos, pálido reflexo do amor de Deus pelos homens.
 
-2. — Não só na oração, mas no próprio exercício do seu apostolado, o apóstolo deve procurar manter-se em contato com Deus e com o mistério de seu amor pelos homens, ao qual deve humildemente colaborar.
+**2** — Não só na oração, mas no próprio exercício do seu apostolado, o apóstolo deve procurar manter-se em contato com Deus e com o mistério de seu amor pelos homens, ao qual deve humildemente colaborar.
 
 Procurará esse contato através de intenso exercício da fé, que o fará compreender cada vez mais o mistério da Redenção, que o fará reconhecer a atuação deste mistério nas várias circunstâncias e no desenrolar dos acontecimentos, que o ajudará a inserir sua humilde ação na grande ação divina.
 
@@ -26,7 +24,7 @@ Deste modo, também quando usar meios humanos, também quando se ocupar de quest
 
 À fé o apóstolo deve unir uma ardente caridade, porque o contato com Deus e a afinidade com seu amor realizam-se justamente pela via do amor. A caridade, pela força de intuição que lhe é própria, permitirá ao apóstolo penetrar mais a fundo o mistério da Redenção, saborear a doce realidade do Amor infinito que nele se manifesta e o impelirá a viver em íntima comunhão com esse Amor de que deve ser colaborador e instrumento.
 
-Então seu exemplo e suas palavras darão testemunho de verdades não só cridas em teoria, mas vividas na prática, saboreadas e experimentadas no contato íntimo com Deus. Então o apóstolo poderá afirmar com São João: «Nós conhecemos e cremos na caridade que Deus tem por nós» (1Jo. 4, 16), e ainda: «Aquilo que vimos com nossos olhos, aquilo que contemplamos e que nossas mãos tocaram do Verbo da vida... disso damos testemunho... disso vos anunciamos» (1Jo. 1, 1-3).
+Então seu exemplo e suas palavras darão testemunho de verdades não só cridas em teoria, mas vividas na prática, saboreadas e experimentadas no contato íntimo com Deus. Então o apóstolo poderá afirmar com São João: «Nós conhecemos e cremos na caridade que Deus tem por nós» (1Jo 4, 16), e ainda: «Aquilo que vimos com nossos olhos, aquilo que contemplamos e que nossas mãos tocaram do Verbo da vida... disso damos testemunho... disso vos anunciamos» (1Jo 1, 1-3).
 
 Mediante a fé e o amor, o apóstolo chegará a uma afinidade espiritual cada vez maior com o mistério da Redenção e com Jesus, que é seu grande Ator; poderá fazer seus os sentimentos de Jesus segundo a palavra de São Paulo: «Tende em vós os mesmos sentimentos que havia também em Cristo Jesus» (Fl. 2, 5).
 

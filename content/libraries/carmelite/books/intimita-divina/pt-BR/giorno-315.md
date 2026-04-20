@@ -1,12 +1,10 @@
-## 315 — O DOM DA CIÊNCIA
+## XXIII — O DOM DA CIÊNCIA
 
-### Presença de Deus
-
-Ó Espírito Santo, instrui-me profundamente sobre o nada das coisas humanas.
+**Presença de Deus.** — *Ó Espírito Santo, instrui-me profundamente sobre o nada das coisas humanas.*
 
 ### Meditação
 
-1. — Com os dons do temor, da fortaleza, da piedade e do conselho, o Espírito Santo governa sobretudo nossa vida moral; com os outros dons, porém — ciência, inteligência e sabedoria — governa mais diretamente nossa vida teologal, isto é, nossa vida de relações com Deus. Enquanto os quatro primeiros dons aperfeiçoam especialmente as virtudes morais, estes últimos três aperfeiçoam as teologais; são os chamados dons da vida contemplativa, isto é, da vida de oração, de união com Deus.
+**1** — Com os dons do temor, da fortaleza, da piedade e do conselho, o Espírito Santo governa sobretudo nossa vida moral; com os outros dons, porém — ciência, inteligência e sabedoria — governa mais diretamente nossa vida teologal, isto é, nossa vida de relações com Deus. Enquanto os quatro primeiros dons aperfeiçoam especialmente as virtudes morais, estes últimos três aperfeiçoam as teologais; são os chamados dons da vida contemplativa, isto é, da vida de oração, de união com Deus.
 
 Na ascensão para Deus encontramos um grande obstáculo: as criaturas, que com seus atrativos nos impressionam, nos atraem e tentam prender-nos a elas — bens sensíveis e visíveis — desviando-nos de Deus — Bem infinito — que escapa à experiência da nossa humanidade.
 
@@ -16,7 +14,7 @@ Crer que Deus é tudo, crer que é o único bem, a única felicidade, e esperar 
 
 Sob o impulso deste dom, Francisco de Assis abandona de repente as companhias festivas para desposar a senhora Pobreza e, quando seu pai indignado o repudia, exclama em fervor de espírito: «Daqui em diante não direi mais pai Pietro Bernardone, mas Pai nosso que estais nos céus!». Sob o impulso deste dom, Teresa de Ávila escreve suas sentenças: «Tudo passa, só Deus permanece. Se tens Deus no coração, nada te falta; basta seu amor»; e a Beata Maria Bertilla morre dizendo: «É preciso trabalhar só por Jesus. Tudo é nada».
 
-2. — Guiado pelo dom da ciência, São João da Cruz traçou a famosa via do «nada», a via que, deixando de lado todos os bens criados, sobe reta e rápida o monte da perfeição, no qual se dá o encontro da alma com Deus. «Nada, nada — repete o Santo — nem isto nem aquilo; nem os bens da terra, nem os bens do céu», isto é, nem mesmo gostos e consolações espirituais, mas só Deus.
+**2** — Guiado pelo dom da ciência, São João da Cruz traçou a famosa via do «nada», a via que, deixando de lado todos os bens criados, sobe reta e rápida o monte da perfeição, no qual se dá o encontro da alma com Deus. «Nada, nada — repete o Santo — nem isto nem aquilo; nem os bens da terra, nem os bens do céu», isto é, nem mesmo gostos e consolações espirituais, mas só Deus.
 
 Tanta renúncia, tanto despojamento, tanta nudez assustam a pobre natureza humana. Mas a alma iluminada pelo Espírito Santo compreende: nada disso tudo, porque «todas as coisas são vaidade, exceto amar a Deus e servi-lo somente a ele» (Imitação I, 1, 4). À medida que o dom da ciência se desenvolve nela, a alma entende e saboreia o nada das coisas e pressente o tudo de Deus e sente necessidade de fugir delas para imergir nele. É o primeiro passo para a contemplação.
 

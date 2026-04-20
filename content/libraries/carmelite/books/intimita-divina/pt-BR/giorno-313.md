@@ -1,12 +1,10 @@
-## 313 — O DOM DO CONSELHO
+## XXI — O DOM DO CONSELHO
 
-### Presença de Deus
-
-Vem, Espírito de conselho, e faze que meu coração escute teus ensinamentos!
+**Presença de Deus.** — *Vem, Espírito de conselho, e faze que meu coração escute teus ensinamentos!*
 
 ### Meditação
 
-1. — «O Espírito Santo que o Pai enviará em meu nome, vos ensinará todas as coisas e vos sugerirá tudo o que vos tenho dito» (Jo. 14, 26). Esta promessa de Jesus vale para todo cristão, vale também para nós; o Espírito Santo habita em nossas almas para aconselhar-nos, para recordar-nos os ensinamentos do Senhor e aplicá-los aos casos concretos de nossa vida.
+**1** — «O Espírito Santo que o Pai enviará em meu nome, vos ensinará todas as coisas e vos sugerirá tudo o que vos tenho dito» (Jo 14, 26). Esta promessa de Jesus vale para todo cristão, vale também para nós; o Espírito Santo habita em nossas almas para aconselhar-nos, para recordar-nos os ensinamentos do Senhor e aplicá-los aos casos concretos de nossa vida.
 
 Mas como poderemos nós, pobres criaturas tão grosseiras e acostumadas à linguagem ruidosa dos homens, perceber o leve murmúrio das sugestões divinas? Deus providenciou isso com um dom especial, o dom do conselho, mediante o qual nossa alma se torna capaz de entender a voz íntima e silenciosa do Espírito Santo, distinguindo-a de todas as outras vozes.
 
@@ -16,7 +14,7 @@ Temos necessidade de que o próprio Deus nos ilumine por dentro, temos necessida
 
 Quanto mais este dom se desenvolve em nós, mais nossa alma se abre à voz do Espírito Santo e se torna sensível aos seus ensinamentos. Em força deste dom, nós, pequenas criaturas, podemos dirigir ao Altíssimo a humilde, mas ousada oração: «Fala, Senhor, que teu servo escuta» (1Sm. 3, 9).
 
-2. — Não há dúvida: mediante o dom do conselho, o Espírito Santo quer ser nosso conselheiro no caminho da santidade. Mas por que então gozamos tão pouco de seus divinos avisos? Antes de tudo, porque somos distraídos, porque nossa alma está ensurdecida pelas vozes das criaturas, cheia dos ruídos do mundo. A Sagrada Escritura compara a voz do Espírito Santo ao «sussurro de uma brisa leve» (1Rs. 19, 12); é preciso, portanto, calar, calar exteriormente e ainda mais interiormente para poder perceber esta voz tão tênue e suave. Só no silêncio se pode ouvir Aquele que se manifesta «no divino silêncio» (São João da Cruz).
+**2** — Não há dúvida: mediante o dom do conselho, o Espírito Santo quer ser nosso conselheiro no caminho da santidade. Mas por que então gozamos tão pouco de seus divinos avisos? Antes de tudo, porque somos distraídos, porque nossa alma está ensurdecida pelas vozes das criaturas, cheia dos ruídos do mundo. A Sagrada Escritura compara a voz do Espírito Santo ao «sussurro de uma brisa leve» (1Rs. 19, 12); é preciso, portanto, calar, calar exteriormente e ainda mais interiormente para poder perceber esta voz tão tênue e suave. Só no silêncio se pode ouvir Aquele que se manifesta «no divino silêncio» (São João da Cruz).
 
 Outra causa que nos impede de receber os conselhos do Espírito Santo é o apego ao nosso juízo, aos curtos conselhos da nossa mente. Basta um pouco desse apego, basta um pouco de obstinação nas próprias ideias para fechar a alma em si mesma e torná-la incapaz de captar as inspirações divinas. Não nos iludamos: isso acontece também quando se trata de obstinação em coisas boas, porque o apego às próprias opiniões nunca é bom, nunca é sinal da ação da graça, mas antes de amor-próprio não vencido.
 

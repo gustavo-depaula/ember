@@ -1,103 +1,25 @@
-## 95 — PROVA DE AMOR
+## XIX — A MORTE
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Senhor, que me criaste para ti, faze que eu viva e morra por amor de ti.*
 
-— Ó Jesus crucificado, digna-te fazer-me compreender como a Cruz é a maior prova de amor.
+**Meditação**
 
-### Meditação
+**1** — Ainda hoje, quinta-feira depois das Cinzas, encontramos na liturgia uma referência explícita à morte: «Põe em ordem tua casa, porque morrerás» (Ep.: Is. 38, 1-6). A Igreja quer tornar-nos familiar o pensamento da morte, para que «não sejamos colhidos de improviso e, procurando dilação para fazer penitência, não nos aconteça de não a obter» (MR). É verdade que no Evangelho Jesus nos falou da morte que sobrevém inesperada como um ladrão, na hora em que menos se espera; todavia, para o cristão vigilante que põe em prática o «estote parati» (Lc. 12, 40), a morte não será repentina, no sentido de que o encontrará sempre pronto «com os rins cingidos e a lâmpada acesa», semelhante àqueles servos fiéis que esperam seu senhor «para abrir-lhe assim que chegar e bater» (ibid., 35 e 36). Então não haverá arrependimentos, não haverá temores nem ansiedades, porque aquele que sempre viveu à espera do Senhor não teme abrir-lhe quando de fato Ele chega, mas vai ao seu encontro com alegria, acolhe-o com grande amor e com todo o impulso da alma lhe diz seu último «Ecce venio», eis que venho (Sl. 39, 8).
 
-1 — A Cruz de Jesus, depois da Encarnação, é a maior
-prova de amor que Ele deu aos homens; assim
-também para nós a mortificação, o sofrimento abraçado
-espontaneamente por amor dele é uma das mais belas provas
-de amor que lhe podemos dar. Trata-se, de fato, de renunciar livremente a uma nossa satisfação, a um nosso
-prazer para impor-nos por amor de Deus alguma coisa que nos
-desagrada e contraria; isso demonstra claramente
-que preferimos dar satisfação a Deus do que a nós mesmos. Todo ato de
-mortificação voluntária, seja física seja moral, diz a Deus
-não com palavras, mas com os fatos: Senhor, amo-te mais que
-a mim mesmo! E como a alma enamorada deseja vivamente dar prova do seu amor, é muito vigilante para não
-deixar escapar nenhuma ocasião de renúncia.
+Aliás, a morte é a última, mas não é a única vinda do Senhor na vida do cristão; ela é precedida por muitas outras que têm justamente o fim de preparar esta última, para que seja no sentido mais pleno uma vinda de graça. Desde o dia do batismo até o termo da vida, é um contínuo suceder-se de vindas, de visitas do Senhor; cada sacramento recebido, cada inspiração, cada aumento de graça é uma nova visita divina à alma, mediante a qual Deus toma cada vez mais posse dela, estabelecendo nela sua morada de modo cada vez mais íntimo e profundo. Quem nunca tardou em abrir o coração a todas essas vindas do Senhor, quem sempre acolheu com fidelidade e com amor suas visitas, seguindo docilmente os impulsos da graça, nada tem a temer diante de sua última vinda. Dulcíssimas, então, ressoarão a seus ouvidos as palavras de Jesus: «Muito bem, servo bom e fiel... entra na alegria do teu Senhor» (Mt. 25, 21).
 
-Nesse sentido S. Teresa Margarida do Coração de
-Jesus propusera-se "não deixar jamais ocasião que se
-lhe apresentasse de sofrer quanto pudesse, sempre em silêncio
-entre si e Deus" e, na realidade, empregava toda diligência para
-"estar em todo tempo e ocasião em algum ato de
-sofrer ou de pena corporal para nunca satisfazer, nem no
-modo nem na substância, qualquer mínimo e inocente
-apetite e desejo, e para encontrar maneira de tornar penosas e molestas ao corpo mesmo as puras e inevitáveis necessidades" (Sp. pp. 129 e 131). Seu ardente amor por
-Deus encontrava um desabafo neste generoso e assíduo exercício
-de mortificação.
+**2** — Falando das pessoas chegadas à transformação de amor em Deus, S. João da Cruz explica que a morte delas é causada mais pelo ímpeto do amor divino do que pelas causas naturais. «Ainda que morram durante uma enfermidade ou na plenitude dos anos, [elas] não são tiradas da vida terrena por um arranco violento da alma, mas por algum ímpeto ou encontro amoroso muito mais sublime que os anteriores e tão potente que rasga o véu [do corpo] e leva consigo a joia da alma» (F. 1, 30). É a chamada «morte de amor», morte preciosa e bem-aventurada, verdadeiro encontro nupcial da alma com Deus, que introduz diretamente na visão beatífica do céu. É a morte das almas santas, às quais só a prisão no invólucro do corpo impede de ver Deus face a face.
 
-Com outra expressão S. Teresa do Menino Jesus chamava
-esta prática: "espalhar flores", isto é, valer-se de cada mínima ocasião de sofrimento para dar a Deus uma prova de
-amor. E, sabendo que o valor da mortificação depende das boas e generosas disposições com que se cumpre,
-a Santa dizia: "cantarei sempre, mesmo que eu deva colher
-minhas flores entre os espinhos" (St. 11).
+Todavia, ao lado desta morte de amor, tão gloriosa e bem-aventurada, pode-se dizer que há outra muito mais modesta e humilde, à qual todos podemos aspirar, contanto que amemos sinceramente Deus e sua santa vontade. Como a essência da santidade consiste em cumprir com amor todo querer divino, mesmo quando impõe graves sacrifícios e penosas renúncias, assim a essência de uma morte santa consiste em submeter-se com amor a este supremo sacrifício, aceitando-o de boa vontade como última expressão da vontade de Deus. Quanto mais profunda e plena for a resignação e o amor com que uma alma aceitar a morte, tanto mais a sua poderá dizer-se uma morte de amor, justamente porque abraçada por amor de Deus.
 
+Deus é o senhor absoluto da nossa vida; assim como devemos viver por amor dele, procurando conformar-nos em tudo à sua santa vontade, de modo que esta seja em tudo e por tudo a norma suprema do nosso agir, assim devemos saber morrer por amor dele, aceitando de suas mãos a morte na hora e nas circunstâncias por ele estabelecidas. «Se vivemos, vivemos para o Senhor — exclama S. Paulo — e se morremos, morremos para ele; quer vivamos, quer morramos, somos do Senhor» (Rom. 14, 8). Quer em vida, quer em morte, somos de Deus e, sendo seus, nada mais devemos desejar senão viver e morrer segundo sua santa vontade. Quando uma alma durante toda a vida se empenhou em cumprir com o máximo amor a vontade de Deus, pode ter plena confiança de que o Senhor lhe fará a graça suprema de aceitar com grande amor também a morte.
 
-2 — O valor da mortificação voluntária consiste
-muito mais na boa vontade com que se exercita do que
-na intensidade do sofrimento que nos impomos,
-embora também este possa contribuir, no sentido de que uma mortificação maior requer maior boa vontade.
-A medida do sofrimento deve ser sabiamente proporcionada e
-limitada segundo as forças físicas de cada um; mas
-o que nunca deve ser limitado é o amor, o espírito de generosidade com que cumprir cada ato de renúncia.
-Sob este aspecto, vale muito mais uma leve mortificação
-cumprida com todo o amor de que uma alma é capaz do que
-uma penosa penitência cumprida materialmente, sem
-espírito interior. Portanto, antes de fazer um ato de mortificação - sobretudo quando se trata de certas práticas
-habituais, como as que estão em uso nos Institutos religiosos - é necessário despertar a boa vontade,
-o desejo sincero de sofrer e oferecer alguma coisa por amor
-de Deus, para que não aconteça de cumprir atos mais ou
-menos mecânicos e, portanto, de pouco ou nenhum valor.
-A amorosa contemplação do Crucificado era a alma
+**Colóquio**
 
+«Ó Jesus, agonizante na cruz, sê meu modelo na hora da morte. Embora Tu sejas o autor e restaurador da vida, no entanto quiseste submeter-te à morte e a aceitaste de todo o coração para expiar meus pecados. Tu, que nada deves à morte, Tu, fonte de vida e de imortalidade, no qual e pelo qual todas as criaturas vivem, quiseste sujeitar-te à morte para fazer-te semelhante a mim e santificar minha morte.
 
-de todas as austeridades de S. Teresa Margarida: "Este Deus
-humilhado e padecente, sempre derramado entre seus pensamentos,
-era aquele que lhe dava a força interna para superar qualquer fortíssima dificuldade, que a fazia assumir espontaneamente tantas fadigas e obras de caridade e de mortificação, que a tornava insaciável no sofrer" (Sp. p. 126).
-Contemplando o Crucificado, a alma sente que,
-por mais que se mortifique por amor dele, seus sacrifícios,
-suas renúncias, são um nada e, em vez de conceber sentimentos de vã complacência pelas mortificações realizadas, sente a
-necessidade de humilhar-se e de fazer sempre mais. "Ama muito
-os padecimentos - ensina S. João da Cruz - e estima-os bem pouca coisa para entrar na graça do Esposo,
-que não hesitou em morrer por ti" (C.E. II, 15).
+«Ó morte, quem agora poderá temer-te, já que o Autor da vida te traz no seio, e nele, sem dúvida, não podes ser mortal, mas vital? Eu te abraço, estreito-te no Coração do meu divino Salvador e aqui, como pintinho sob as asas da galinha, esperarei em paz teus assaltos, bem seguro de que meu clementíssimo Jesus adoçará para mim tuas amarguras e me defenderá de teus rigores.
 
-### Colóquio
+«Ó Jesus, quero empregar todas as minhas forças em submeter-me desde já a todas as circunstâncias e dores da minha morte; desde já de bom coração quero aceitar a morte no lugar, hora e maneira que te aprouver estabelecer.
 
-"Ó meu Dileto, como te darei prova do meu amor,
-se o amor se atesta com as obras? Eu não tenho outro meio
-de atestar-te o meu amor, senão espalhar flores, isto é,
-não deixar escapar nenhum sacrifício, por menor que seja: um olhar,
-uma palavra, mesmo nas mínimas ocasiões, e cumpri-los por amor.
-Quero sofrer por amor, e também por
-amor alegrar-me; e assim espalharei flores. Não encontrarei uma
-sem desfolhá-la para ti..., e depois cantarei, cantarei sempre,
-mesmo que eu deva colher minhas rosas entre os
-espinhos; meu canto será tanto mais melodioso quanto mais
-longos e pungentes forem os espinhos" (T.B.G. St. 11).
-
-"Ó Senhor, dispõe de mim como mais te agrade,
-que de tudo estou contente, contanto que te siga pelo caminho do Calvário, e quanto mais espinhoso eu o encontrar e mais pesada a cruz,
-tanto mais consolada ficarei, porque desejo amar-te com
-amor paciente, com amor morto,
-isto é, todo relaxado em ti, e com amor operativo... Senhor meu, Tu na
-cruz por mim e eu na cruz por ti. Oh, se uma vez pudesse compreender quão doce e quanto vale sofrer:
-sofrer e calar por ti, ó Jesus! Ó caro sofrer, ó bom
-
-
-Jesus!" (T.M. Sp. pp. 325 e 361). Sim, caro sofrer porque me
-permite dar ao meu Deus provas de amor; porque, na
-obscuridade da fé em que devo viver aqui embaixo, me dá a
-segurança de amar não com palavras, mas com amor sólido,
-efetivo. Ó Jesus, agora compreendo por que S. Teresa d'Avila
-não te pedia senão uma coisa: "ou morrer ou sofrer"
-e dizia não ter outro motivo de viver senão o
-de sofrer por amor de ti (Vi. 40, 20).
-
-Ó Senhor, pudesse eu também ter um amor tão forte,
-tão verdadeiro, tão ardente! Concede-mo Tu, que tudo podes
-dar-me e que podes num instante transformar em fornalha
-de caridade este meu coração tão árido e tão frio.
+Sei muito bem que me é necessário sofrer e ser moído sob os dentes das tribulações, das dores, das privações, das desolações e das penas para tornar-me pão digno de servir ao teu celeste banquete, ó Cristo, no dia da ressurreição universal. Sei muito bem que, se o grão de trigo não apodrece e morre sob a terra, não produz espiga, e por isso de todo coração aceito o aniquilamento da morte para ser feito homem novo, não mais mortal e corruptível, mas imortal e glorioso» (S. Francisco de Sales).

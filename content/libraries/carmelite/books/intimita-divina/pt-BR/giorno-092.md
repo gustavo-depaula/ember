@@ -1,12 +1,10 @@
-## 92 — A MORTIFICAÇÃO CORPORAL
+## XVI — A MORTIFICAÇÃO CORPORAL
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, faze que o meu amor por ti Crucificado chegue até querer crucificar contigo e por ti a minha carne.*
 
-— Ó Jesus, faze que meu amor por ti Crucificado chegue até querer crucificar contigo e por ti a minha carne.
+**Meditação**
 
-### Meditação
-
-1 — Em consequência do pecado original, o homem perdeu o domínio do espírito sobre os sentidos, sobre a carne; daí todas as más tendências que procuram empurrá-lo para baixo. S. Paulo o confessa humildemente: "sei que o bem
+**1** — Em consequência do pecado original, o homem perdeu o domínio do espírito sobre os sentidos, sobre a carne; daí todas as más tendências que procuram empurrá-lo para baixo. S. Paulo o confessa humildemente: "sei que o bem
 não habita em mim, isto é, na minha carne... porque não faço
 o bem que quero, mas o mal que não quero, esse eu faço"
 (Rom. 7, 18 e 19).
@@ -33,7 +31,7 @@ para que, depois de ter pregado aos outros,
 não aconteça que eu mesmo venha a ser reprovado" (I Cor. 9, 27).
 
 
-2 — S. Teresa de Jesus adverte que "a oração, para
+**2** — S. Teresa de Jesus adverte que «a oração, para
 ser verdadeira, deve cercar-se de práticas [de mortificação], porque oração e tratamento delicado não combinam"
 (Cam. 4, 2). Seria ilusão pensar poder
 chegar a um trato íntimo com Deus sem um exercício sério
@@ -63,41 +61,17 @@ pospõe a obediência - "que é a penitência da razão
 e do próprio juízo" (ibid.) e por isso o sacrifício mais
 aceito e agradável a Deus - a uma prática material.
 
-### Colóquio
+**Colóquio**
 
-"Tua serva, ó meu Deus, não pode mais suportar
+«Tua serva, ó meu Deus, não pode mais suportar
 o inenarrável tormento de ver-se longe de ti. Se devo
 viver ainda, suplico-te que não me dês descanso algum,
 
 
-porque aqui embaixo não o quero. Preferiria sentir-me
-livre, porque o comer me angustia e o dormir me atormenta.
-Sinto passar a vida nas minhas comodidades, enquanto
-nada me pode saciar fora de ti. Parece-me viver
-em contraste com a natureza, porque não quero viver em mim,
-mas toda em ti" (T.G. Vi. 16, 4).
+porque aqui embaixo não o quero. Preferiria sentir-me livre, porque o comer me angustia e o dormir me atormenta. Sinto passar a vida nas minhas comodidades, enquanto nada me pode saciar fora de ti. Parece-me viver em contraste com a natureza, porque não quero viver em mim, mas toda em ti» (T.G. Vi. 16, 4).
 
-Senhor, eu te suplico, ajuda-me a libertar-me da escravidão
-do corpo. Ensina-me a dominar suas exigências injustas,
-a mortificar suas pretensões. Não permitas que
-este invólucro de carne, que me deste para que eu
-te possa servir na terra, me se converta em obstáculo e me
-detenha no dom generoso e total de mim mesmo.
+Ó Senhor, eu te suplico, ajuda-me a libertar-me da escravidão do corpo! Ensina-me a dominar suas exigências injustas, a mortificar suas pretensões. Não permitas que este invólucro de carne, que me deste para que eu te possa servir na terra, se me converta em obstáculo e me detenha no dom generoso e total de mim mesmo.
 
-Quanto estou longe, meu Deus, da austeridade, da
-mortificação dos santos! "Crerei, talvez, que fossem de
-ferro e não antes sensíveis como eu? Ó Senhor, ajuda-me a
-compreender que, quando eu começar de verdade a
-vencer este meu corpo, ele me deixará em paz e não mais
-me atormentará" (T.G. Cam. 11, 4). E por que deverei deixar-me assustar pelo temor de perder a saúde?
+Quanto estou longe, meu Deus, da austeridade, da mortificação dos santos! «Crerei, talvez, que fossem de ferro e não antes sensíveis como eu? Ó Senhor, ajuda-me a compreender que, quando eu começar de verdade a vencer este meu corpo, ele me deixará em paz e não mais me atormentará» (T.G. Cam. 11, 4). E por que deverei deixar-me assustar pelo temor de perder a saúde?
 
-A saúde e a doença, a vida e a morte, tudo está em
-tuas mãos, meu Deus, tudo depende de ti. Proponho,
-portanto, deixar-te todo esse cuidado para não reservar para mim
-senão uma única preocupação, a de amar-te e servir-te com
-todas as minhas forças. Ajuda-me, ó Senhor, a dominar meu
-corpo, a tornar-me plenamente seu senhor, para alcançar
-
-
-aquela magnífica liberdade de espírito que permite à alma
-entregar-se sem perturbação ao exercício de uma profunda vida interior.
+A saúde e a doença, a vida e a morte, tudo está em tuas mãos, meu Deus, tudo depende de ti. Proponho, portanto, deixar-te todo esse cuidado para não reservar para mim senão uma única preocupação, a de amar-te e servir-te com todas as minhas forças. Ajuda-me, ó Senhor, a dominar meu corpo, a tornar-me plenamente seu senhor, para alcançar aquela magnífica liberdade de espírito que permite à alma entregar-se sem perturbação ao exercício de uma profunda vida interior.

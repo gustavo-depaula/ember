@@ -1,4 +1,4 @@
-## 153 — DECISÃO RESOLUTA
+## XVII — DECISÃO RESOLUTA
 
 ### Presença de Deus
 

@@ -1,8 +1,6 @@
-## 202 — A PRESENÇA REAL
+## II — A PRESENÇA REAL
 
-### Presença de Deus
-
-Ó Jesus, faze-me penetrar além dos véus eucarísticos, para que, contemplando-te, meu coração viva de ti.
+**Presença de Deus.** — *Ó Jesus, faze-me penetrar além dos véus eucarísticos, para que, contemplando-te, meu coração viva de ti.*
 
 ### Meditação
 

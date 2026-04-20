@@ -1,4 +1,4 @@
-## 101 — O EXAME DE CONSCIÊNCIA
+## XXVII — O EXAME DE CONSCIÊNCIA
 
 ### Presença de Deus
 

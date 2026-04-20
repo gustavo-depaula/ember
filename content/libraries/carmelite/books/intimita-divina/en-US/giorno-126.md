@@ -1,122 +1,23 @@
-## 100 — IMPERFECTION
+## 50 — JESUS PERSECUTED
 
-### Presence of God
+*Passion Sunday*
+
+**Presence of God.** — O Jesus, introduce me into the mystery of your Passion, associate me with it, that I may then participate in your Resurrection.
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — Today begins "Passion time", a time especially consecrated to the memory and loving contemplation of the sorrows of Jesus. The veiled crosses and pictures, the suspension of the *Gloria* in Mass and in the responsories of the Divine Office, the absence of the Psalm "*Judica me*" at the beginning of Mass, are all signs of mourning with which the Church commemorates the Passion of the Lord. In the lessons of the Divine Office, St. Leo Pope exhorts us to participate "in the Cross of Christ, that we too may do something that unites us to what He has done for us, as the Apostle says: 'if we suffer with him, we shall be glorified with him'". It is not therefore only a question of meditating on the sorrows of Jesus, but of taking part in them, of carrying his Passion in our heart and in our body (cf. *II Cor.* 4, 10), because only thus shall we be able to participate in its fruits. Behold why, in the office of the time, the Church repeats with greater insistence the invitation: "when you shall hear the voice of the Lord, close not your hearts". In these days the voice of the Lord makes itself heard not by means of words, but through the eloquent testimony of facts, through the great fact of the Passion, which is the most convincing mystery of his infinite love for us. Let us open then our heart to the sublime lessons of the Passion: let us learn how much he has loved us and how much we ought to love him again; let us learn that also to us, if we wish to follow him, it is necessary to suffer, it is necessary to carry the cross with him and behind him. And at the same time let us open our heart to the most lively hope because in the Passion of Jesus is our salvation. St. Paul in today's Epistle *(Heb.* 9, 11-15) presents to us the majestic figure of Christ, High Priest who, "through his own blood, has entered once for all into the sanctuary [that is into heaven] obtaining for us an eternal redemption". The Passion of Jesus has redeemed us, has reopened to us the house of the Father; the Passion of Jesus is the reason of our hope...
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+**2** — In today's Gospel *(Jn.* 8, 46-59) we have a passage of the bitter hostilities of the Jews, a clear prelude to the Passion of Jesus. Those hardened hearts in no way wish to admit the mission of the Savior and they strive in a thousand manners to counteract his teachings, to denigrate him before the people, presenting him as a liar, one possessed; finally, their livor reaches the point that they decide to stone him: "then they took up stones to cast at him". The death of Jesus is already decreed by the Jews, but, the hour fixed by the Father not having come, "Jesus hid himself and went out of the temple".
 
+This gospel passage permits us to consider the conduct of Jesus before his persecutors: meekness, zeal for their souls, disinterest of self and total abandonment in God. St. Gregory the Great writes: "Consider, dearest brethren, the meekness of the Lord. He, who had come to remit sins, said: 'Which of you shall convince me of sin?' He, who in virtue of his divinity could justify sinners, does not disdain to show by reasoning that he is not a sinner" *(BR.)*.
 
-for the soul that seeks perfection, of eliminating from its
-
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+Follow the calumnies: "you are a Samaritan and have a devil". The divine Master responds, but always meek and only so much as is necessary to testify to the truth: "I have not a devil, but I honor my Father and you have reviled me". And meanwhile, through the debate, he ceases not to instruct and to enlighten minds to seek to snatch them from error; always unmindful of self, he thinks only of the good of souls. Thus, precisely in this painful circumstance, Jesus gives us precious teachings: "He who is of God, hears the words of God. If any man shall keep my word, he shall not see death for ever". From the mouth of the persecuted Master let us gather these warnings and preserve them in our heart with jealous care. Even today the world is full of his enemies, of those who combat his doctrine, of those who despise his Passion. At least let us believe in him and let us be his faithful friends.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"Be praise to you, most merciful God who, we being miserable, exiled, prisoners and condemned, have willed to redeem and raise us through the Passion, the sorrow, the disdain and the poverty of your Son. I run then to your Cross, O Christ, to sorrow, to disdain and to poverty and with all my forces I desire to transform myself into you, O passioned God-Man, who have so loved me as to wish to suffer a shameful and horrible death, and this solely to save me and to give me example to suffer, for love of you, adversities. It is perfection and true sign of love to conform myself to you, Crucified, who for my faults have willed to die pitilessly, giving yourself entirely a prey to torments. O my passioned God, only by reading in the book of your life and death shall it be given me to know you and to penetrate your mystery. Grant me then a profound spirit of prayer, a prayer devout, humble, attentive, made not only with the mouth, but with the heart and with the mind to be able to understand the lessons of your Passion!
 
+"In this book I see your infinite goodness and pity for which you have preferred to take upon yourself our condemnation, our disdain and sorrow, rather than to leave us in so miserable a state. I see your infinite goodness, diligence and care that you have had in saving us and leading us back to the heavenly fatherland. I see the infinite wisdom with which, in an ineffable manner, you have redeemed, saved and exalted us through mercy, without doing any injustice to justice. And thus you have known how to make it so that, while you died painfully, you gave life to all things and destroyed common death.
 
-sins!
-
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+"Moreover, in the book of the Cross I see your infinite meekness for which, being You cursed, you cursed not, nor did you revenge yourself, but rather forgave and acquired heaven for your very crucifiers" (cf. Bl. Angela da Foligno).

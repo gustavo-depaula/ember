@@ -1,4 +1,4 @@
-## 105 — O NOSSO LUGAR
+## XXXI — O NOSSO LUGAR
 
 ### Presença de Deus
 

@@ -1,103 +1,23 @@
-## 40 — JESUS REI UNIVERSAL
-*5 janeiro*
+## 40 — AMOR ESTIMATIVO
 
-### Presença de Deus
-
-— Ó Senhor, as tuas grandezas são inesgotáveis; torna-me capaz de adorar-te e amar-te de modo digno da tua infinita majestade.
+**Presença de Deus.** — *Deus meu, Bem sumo e infinito, fazei que nada estime mais de Vós e nada prefira a Vós.*
 
 ### Meditação
 
-1 — Jesus é o nosso tudo e justamente, portanto, é
-também o nosso Rei. Ele mesmo o proclamou: "Eu sou
-Rei" (Jo. 18, 37); "todo o poder me foi dado no céu
-e na terra" (Mt. 28, 18).
+**1** — «Sabes tu o que quer dizer amar-Me de verdade? — dizia o Senhor a Santa Teresa de Jesus — Persuadir-se de que é mentira tudo aquilo que a Mim não agrada» *(Vi.* 40, 1). Embora sem som de palavras, o Espírito Santo imparte esta lição a toda alma que se deixa por Ele plasmar e purificar; quanto mais Ele a ilumina sobre a verdade da sua miséria e da miséria de todas as criaturas, tanto mais a alma fica despertada e retrai delas toda esperança, chegando verdadeiramente a estimar Deus acima de tudo, preferindo-O a qualquer outro. A atitude desta alma torna-se assim muito semelhante à de São Paulo que exclamava: «Creio que todas as coisas são uma perda diante de... Cristo Jesus Senhor meu, por amor do qual me privei de tudo e tudo tenho em conta de lixo, com o propósito de ganhar Cristo» *(Fil.* 3, 8).
 
-Pio XI, na Encíclica Quas primas, ensina que "Jesus
-é Rei por direito de natureza e de conquista". Por direito de
-natureza: "Ele obtém... a soberania sobre todas as criaturas, não
-arrebatada com violência, nem recebida de outrem, mas possuída
-por própria natureza e essência; isto é, o principado de Cristo
-se funda naquela admirável união chamada união
-hipostática. Daí segue-se não só 'que Cristo deve ser
-adorado pelos anjos e pelos homens como Deus, mas também
-que a ele, como Homem, os anjos e os homens devem
-ser sujeitos e obedientes'." Cristo enquanto Homem participa plenamente da realeza e soberana majestade de Cristo enquanto
-Deus, pois, como Homem e como Deus, Cristo é
-uma única Pessoa, a segunda Pessoa da SS.ma Trindade;
-Ele está no vértice da criação: o princípio, o fim, o rei
-de todas as coisas. Ele tem "o primado em tudo" (Col.
+O amor estimativo que o Espírito Santo infunde na alma através das trevas purificadoras é tão forte que ela está disposta a cumprir qualquer sacrifício, a enfrentar qualquer obstáculo, a submeter-se a qualquer humilhação e sofrimento para conquistar o seu Deus. «Na verdade — diz São João da Cruz — é tão grande o amor estimativo que Lhe leva, embora às escuras e sem senti-lo, que não só suporta alegre os seus sofrimentos, mas de boa vontade daria mil vezes a vida para agradá-Lo» *(N. II,* 13, 5). Notemos que a alma não sente e não goza o seu amor; ele não é acompanhado de doçura e suavidade, todavia é um amor tão real que a conduz efetivamente a cumprir também as coisas mais difíceis «para ir ao encontro do seu Amado» *(ivi).* Notemos também que não se trata de veleidades, de desejos inoperosos que logo desmoronam diante dos casos concretos de sacrifício, mas trata-se antes de uma decisão tão forte da vontade que nada vale para a mover. Quando esta alma entendeu que para unir-se a Deus é necessário decidir-se a um determinado passo, não atenta a nada, nem às repugnâncias da natureza, nem às vozes do amor-próprio ou do egoísmo, nem ao que os outros poderão dizer ou pensar dela, mas lança-se de cabeça, com grande ardor.
 
-1, 18). E que coisa mais suave e bela do que pensar que
-Cristo reina sobre nós não somente por direito de natureza,
-mas também por direito de conquista, em força da Redenção?
-Quisera Deus que os homens esquecidos se lembrassem de quanto custamos ao nosso Salvador. "Não por preço... de ouro e prata fostes resgatados... mas pelo Sangue precioso de Cristo.
-Já não somos, pois, nossos, porque por tão caro preço Cristo nos recomprou" (Quas primas). Jesus,
-portanto, tem todos os direitos de reinar sobre nós; por isso
-é preciso que Ele reine: oportet Illum regnare! (1 Cor. 15, 25).
+**2** — Outro efeito do grande amor estimativo por Deus é «que o mais grave entre os sofrimentos [que a alma possa sofrer] consiste na dúvida tormentosa de ter perdido a Deus e de ter sido por Ele abandonada» *(G.C. N. II,* 13, 5). Como não se preocupa de nenhuma aquisição que não seja a aquisição de Deus, assim a alma não se preocupa de nenhuma perda que não seja a perda d'Ele. Tudo se lhe pode tirar; a saúde, as riquezas, as honras, a estima, a confiança, o afeto das criaturas mais caras e estas mesmas criaturas, mas jamais suportaria que lhe fosse tirado Deus ou lhe fosse impedido de amá-Lo. Assim pensavam e agiam os santos. Assim pensava Santa Teresa Margarida do Coração de Jesus, a qual no seu imenso desejo de amar Deus protestava estar disposta a sofrer também as penas do inferno para obter tal graça; e a quem lhe perguntava como teria podido suportar tormentos tão indizíveis, respondia sem hesitar: «Creio que o amor no-los tornaria toleráveis e talvez até doces, porque o só amor faz superar tudo» *(Sp.* p. 347). Assim pensava Santa Teresa de Jesus que deixou às suas filhas a belíssima recordação: «O teu desejo seja de ver a Deus; o teu temor, de perdê-Lo; a tua dor, de não possuí-Lo; a tua alegria, naquele que te pode conduzir a Ele» *(A.* 69). Esta é a característica do verdadeiro amor: criar na alma uma única preocupação, um único temor, um único desejo, uma única alegria que se centre em Deus só.
 
-2 — Desde a eternidade Deus Pai viu em Cristo
-— o seu Unigênito feito homem para a redenção da humanidade pecadora — a obra-prima das suas mãos e,
-por isso, decretou que toda a criação fosse feita para
-Ele, dada a Ele como seu apanágio real. São Paulo
-declara que Deus Pai colocou Cristo "à sua direita
-nos céus, acima de todo Principado e Potestade, Virtude
-e Dominação" — isto é, acima de todas as hierarquias
-angélicas — "e acima de todo título que se possa dar,
-não só no tempo presente, mas também no futuro" (Ef. 1,
-20 e 21). Eis Cristo Rei acima dos anjos, também eles
-criados para a sua glória.
+Se queres ver até que ponto chega o teu amor estimativo por Deus examina a tua conduta e procura descobrir o motivo último das tuas preocupações, dos teus temores, dos teus desejos, das tuas alegrias; se este motivo não é Deus, mas o são antes as criaturas, os teus interesses e a tua satisfação, deves convir humildemente que ainda não chegaste a estimar Deus acima de todas as coisas, porque pões «numa mesma balança Deus e aquilo que dista infinitamente d'Ele» *(G.C. S. I,* 5, 4). Esquadrinhando mais a fundo o teu coração verás que não raramente pões no mesmo plano a tua vontade e a vontade de Deus, os teus gostos e o seu beneplácito, os teus interesses e a sua glória, o teu cômodo e o seu serviço, não só, mas enquanto em teoria protestas estimar Deus acima de todas as coisas, muito frequentemente na prática dás a preferência não aos seus quereres, aos seus gostos, aos seus interesses, mas aos teus e justamente assim cais em tantas imperfeições.
 
-Quanto aos homens, pois, é preciso repetir com o Apóstolo que "fomos escolhidos e predestinados em Cristo para
-sermos louvor da sua glória" (ibid., 1, 12). Como
-diz São Paulo, assim também nós fomos criados para a glória de
-Cristo, Rei universal; e como no céu os anjos cantam os
-seus louvores, assim nós devemos glorificá-lo na terra.
-
-Glorificar Jesus como nosso Rei quer dizer reconhecer
-sobre nós os seus soberanos direitos; quer dizer viver docilmente
-submetidos ao seu suavíssimo império.
-
-O seu reino é reino de amor: por um motivo de amor,
-isto é, para salvar-nos, Ele desceu dos céus e se fez um
-de nós, e pelo mesmo motivo morreu na Cruz,
-derramando todo o seu Sangue. Jesus reina do presépio, Jesus
-reina da cruz: Ele, que por sua natureza já era nosso
-Senhor absoluto, quis conquistar por tão caro preço
-os nossos pobres corações. Não resistamos à doce violência
-do seu amor infinito: demo-nos inteiramente a Ele, para que
-
-Ele reine na nossa mente, na nossa vontade, nos
-nossos corações.
+Persuade-te: «onde é verdadeiro amor de Deus não entra amor de si mesmo, nem das próprias coisas» *(G.C. N. II,* 21, 10).
 
 ### Colóquio
 
-"Quem, ó meu Senhor e meu Rei, poderia descrever a
-grandeza que em ti resplandece? É impossível não reconhecer
-que Tu és a própria soberana Majestade. Contemplando-te,
-fica-se cheio de espanto, sobretudo ao ver-te também tão
-humilde e tão cheio de amor por uma criatura como eu.
+«Confesso a Vós, amabilíssimo Filhinho de Deus, a culpa minha; não sei com que juízo deixei atrair o meu coração, pelos afetos das criaturas e o imbrutei com a conversação profana da terra. Não a realidade, mas a aparência do amor artificiosamente pintado enganou-me e afastou-me de Vós e da dulcíssima lei do verdadeiro e único amor Vosso. Mas agora que com a Vossa luz expulsastes as minhas trevas, recuso toda beleza mundana e eijo a Vós, Filhinho de Deus e da beatíssima Virgem, para amar-Vos com um pacto de amor eterno.
 
-"Passado aquele primeiro sentido de assombro que nasce à
-vista de tanta grandeza, posso deter-me contigo e falar-te
-livremente... Sim, porque ainda que Tu sejas Deus, posso
-tratar contigo como com um amigo, porque Tu não és
-como os senhores da terra que põem toda a sua grandeza num aparato exterior de autoridade... O teu reino,
-ó Rei da glória e Senhor de todos os reis,... não tem fim e,
-para aproximar-nos de ti, não são necessários tantos intermediários. Para
-conhecer que Tu só entre todos mereces o nome de Soberano,
-basta contemplar-te, porque em ti resplandece tal majestade,
-que para te mostrares Rei não tens necessidade de cortejo e guarda" (T.G. Vi. 37, 6 e 5).
+«Sem Vós, Bondade e Beleza infinita, nenhuma criatura pode ter verdadeiros bens, nem fora de Vós a minha alma pode encontrar satisfação alguma, pois Vós lhe destes tanta capacidade e fome de infinito que por viva força é preciso que não queira nem busque outro bem fora de Vós. Volto o olhar para a terra, ó Filhinho do Altíssimo, e todas as coisas me parecem pequenas e imperfeitas em comparação a Vós. Se me fossem dadas todas as dignidades do mundo, todas as belezas do criado, todas as comodidades da vida; se fosse dado em meu poder tudo aquilo que de grande, honorável, rico e admirável há no mundo e pudesse gozar todos estes bens juntos por toda a eternidade, não mudaria jamais a minha escolha, mas com afeto ardentíssimo cantaria; busco e buscarei sempre o Vosso rosto, ó Senhor.
 
-Ó Senhor, faze que a minha alma sempre te reconheça
-como seu Rei e soberano Senhor; tudo eu recebi de
-ti, como, pois, não compreender que tens sobre mim todo
-direito? Mas Tu és um Rei que parece não fazer conta dos
-seus direitos soberanos. Que necessidade havia de que, para conquistar o meu coração, te abaixasses até ao escondimento de
-Belém, te humilhasses até à morte de cruz, derramasses por mim todo o teu Sangue? O meu coração, todo o meu
-ser e toda a minha vida já te pertenciam,
-porque és o meu Criador e porque fui criado para a tua glória. Mas Tu quiseste esquecer os teus direitos e vieste
-a mim como um mendigo, em busca do meu pobre coração.
-
-Ó Jesus, como poderei ainda resistir diante do teu
-amor infinito? Toma o meu coração, toma todo o meu
-ser e faze de mim um louvor vivo da tua glória.
+«Fechai, ó Senhor, o meu coração para que não entrem nele afetos humanos e fazei que não os veja, não sinta, nem goste alguma coisa criada, nem alguma criatura se apego a mim com detrimento do puro amor Vosso. Bastai Vós, Bem infinito, para encher todos os meus desejos e saciar esta fome que me crucia; nenhum outro bem, nem mesmo todos os outros bens reunidos juntos me bastam; antes, depois de havê-los todos gustado, ficarei morto de fome e languirei num extremo abandono, privado de Vós» (Ven. João de G. M., o.c.d.).

@@ -1,4 +1,4 @@
-## 222 — DIANTE DA TRINDADE
+## XXII — DIANTE DA TRINDADE
 
 **Presença de Deus.** — *Ó SS.ma Trindade, que a consideração do teu mistério gere em mim profunda humildade, fé cega e amor ardente.*
 

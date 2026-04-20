@@ -1,101 +1,29 @@
-## 37 — THE NAME OF JESUS
-*January 2*
+## 37 — ANGISH AND DARKNESS
 
-### Presence of God
-
-— O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.
+**Presence of God.** — *Hasten, O Lord, to my aid that I may not be overwhelmed by the tempest.*
 
 ### Meditation
 
-1 — This feast is a complement to that of the
-Circumcision, the occasion on which the
-name Jesus was imposed on the Child. But while in the Circumcision we have
-considered above all the humiliation of the Son of God,
-today the Church invites us to consider and celebrate the
-glories of His name.
+**1** — Seeing clearly its misery, the soul intuits the infinite distance that passes between it and God: precisely now that it longs more than ever to unite itself to Him, it sees itself more than ever distant from Him, absolutely incapable of overcoming the immense distance that separates it from Him. Of this too it suffers, because whoever loves ardently desires to unite itself to the beloved. At times, then, this suffering becomes so intense that it seems to the soul that for it there no longer exists any hope either of holiness, or of union with God, or even of eternal salvation.
 
-Glories which, as St. Paul warns us,
-spring precisely from His prodigious humiliations: "Brethren: Christ
-humbled Himself, becoming obedient unto death, even unto
-death on a cross. Therefore God exalted Him and gave Him the name that
-is above every name, so that at the name of Jesus every knee may bow" (Phil. 2, 8-10). Thus sings the Church in the Office
-of the day, inviting all her children to render grateful and devout homage to Him who so greatly humbled Himself for us.
+In these anguish there is nothing exaggerated and still less false: the Holy Spirit, under whose action the soul finds itself, cannot inspire it with anything that is not perfectly conformable to truth. It is too true that between us, poor creatures, and God, supreme and infinite perfection, there passes an incalculable distance and difference; it is too true that, basing ourselves on our own strength, we are radically impotent to raise ourselves up to God; it is too true that, looking at our actions, even the best, there is nothing in us that can merit either union with God, or eternal life. If many are not convinced of this, but consider themselves capable of something in order to God and to holiness, it is because they have not yet been illumined on the depth of their nothingness.
 
-\* Move this meditation according to the calendar of the year.
+If however it is true that we are absolutely unworthy of God, of His love, of His union, of His eternal glory, it is also true that God Himself, with His merciful love, has willed to fill the infinite distance that divides us from Him, has willed to stoop down to us to the point of clothing us with His divine life and of calling us to His intimacy. That which to our misery is absolutely impossible, is very possible to the omnipotence of God and to His infinite mercy; and He, in fact, wishes to do it, but also wishes to render us aware that this is uniquely His work.
 
-Responding to this invitation, the heart of every Christian
-must exalt the most holy name of his Savior, and this
-is equivalent to exalting His very person,
-because the name Jesus expresses precisely His being:
-the being of Savior,
-of Redeemer. This blessed name was imposed on Him by
-God Himself, who by the mouth of the Angel revealed it to Mary
-and to Joseph: "you shall call Him Jesus, for He will save His people from their sins" (Mt. 1, 21). This name expresses and
-synthesizes the great mysteries of the Incarnation and Redemption and stands at the center of the universe as point of contact,
-as bridge of conjunction between God and all humanity. Only
-through Jesus and in the name of Jesus can man reach
-God: "for there is no other name under heaven given to men by which we may expect to be saved" (Ep.: Acts 4, 8-12).
+In its fears of not being able to arrive at God and to eternal salvation, the soul must maintain itself firm in an unshakeable hope. If it is just that it fear for itself and be convinced of being able to hope nothing from its works, it is however more than ever just that it expect all from God, whose love and whose goodness infinitely surpass both its misery and its expectations. Conducting itself thus, the anguish of the night of the spirit will do nothing but root the soul not only in a more profound humility, but also in a more pure, more perfect hope, because uniquely supported by the merciful love of God.
 
-2 — Today's Mass, taking up St. Paul's thought,
-offers us a majestic image of the glory due to the blessed name of Jesus: "At the name of Jesus every
-knee should bow, of heavenly beings, and of earthly, and of
-those under the earth; and every tongue confess that the Lord Jesus
-Christ is in the glory of God the Father" (Introit). The Church triumphant, the Church militant, the Church suffering are prostrate
-in adoration; it seems that all creation falls silent and pauses
-a moment in its course to hear that most holy name in
-which is all glory for God and all salvation for humanity.
-Truly "neither tongue can tell it, nor writing express"
-the precious treasures enclosed in the name of Jesus. "No song
-is sweeter, no sound more joyful, no thought more
-pleasant than Jesus, Son of God" (BR.). "An oil poured out is
-Your name" (Cant. 1, 2), says Sacred Scripture, and St. Bernard comments: "Oil indeed illumines,
-nourishes, and anoints...
-Now observe the same concerning the Bridegroom's name: it illumines when preached, nourishes when meditated, soothes and anoints when invoked...
-Dry is every food of the soul if it is not sprinkled with this oil;
-it is tasteless if not seasoned with this salt. If you write, it tastes of nothing to me, unless I read Jesus in it. If you dispute or speak, it does not please me unless I hear Jesus in it. Jesus is honey to the mouth,
-melody to the ear, jubilation to the heart. But He is also medicine" (BR.). Let us bless and invoke with love this
-sweetest name in which lies all our hope and salvation,
-in which lies our life and our glory. Only one who loves can
-penetrate the mysterious sweetnesses enclosed in it; only one who
-loves can praise it effectively,
-not only with words,
-but also with works and bear witness to it with his whole
-life. "May our voice sing You, O Jesus; may our conduct express You; may our hearts love You, now and forever"
-(BR.).
+**2** — "In this time of purgation — says St. John of the Cross — the soul is wrapped in thick darkness in its intellect... Almost always (it is) arid and cold, rarely fervent, in nothing does it find relief, not even a thought that comforts it, without being able even to lift its heart to God" *(F.* 1, 20).
+
+Behold another motive of spiritual pain: the dry aridity in which the soul finds itself, the incapacity of thinking of God. It seems almost that between it and God there has risen up as a very high wall which hinders its sighs from reaching up to Him. It is profound night in which the soul cannot proceed supported by pure and naked faith. Indeed, it must go forward thus, believing with all its strength that God is infinitely good, that God loves it and listens to its weeping, that God knows its torment and its trial uniquely to purify it. It is not difficult that in this state the soul be subject to strong temptations against faith; they can be, for example, temptations similar to those that afflicted St. Teresa of the Child Jesus in the last period of her life: "The Lord — wrote the Saint — permitted that my soul be immersed in the thickest darkness and that the thought of heaven, so dear to me from my most tender infancy, became for me cause of struggle and of torment" *(Sr.* 9). Yet she added: "However much the comfort of faith may be lacking to me, I strive however to execute its works; I have renewed more acts of faith in this past year than in all the course of my existence"; and, alluding to her poems on the happiness of heaven, she confessed: "When I sing the eternal possession of God, I experience no joy whatever, because I sing simply that which *I wish to believe*" *(ibid.)*. This is precisely the conduct that the soul must keep in such a state: *to believe because it wishes to believe,* without basing itself on what it feels or experiences, but basing itself uniquely on the word of God. These acts of pure faith, stripped of all comfort, independent of any sentiment, are acts of heroic faith which so much the more honor God as they lean uniquely on divine revelation and so much the more unite the soul to Him as they are deprived of every human support. The darkness of the night of the spirit have precisely this scope: to accustom the soul to walk in pure faith, in...
 
 ### Colloquy
 
-"O glorious name, gracious name, loving and
-powerful name! Through You faults are remitted, through You enemies are conquered, through You the sick are healed, through You those who suffer are comforted in adversity! You are the honor of believers,
-the teacher of preachers, the comfort of workers,
-the support of the weak, and by Your burning fire holy desires are nourished,
-necessary aids are obtained,
-contemplative souls are inebriated,
-and the triumphant are glorified in heavenly glory! By Your most holy name, O sweetest
-Jesus, grant that we too may reign with the blessed, You who are the glorifier of all the blessed, You who triumph glorious with the Father
-and with the Holy Spirit, in perfect unity and trinity for all
-ages of ages.
+"O Jesus, pacific King, whose presence is desired by heaven and by earth, how have You departed from me? How has all my wealth and my strength failed? O privation more painful than mortal wounds, O separation truly most bitter, so as to be worse than the anguish of death!
 
-"O name of Jesus, exalted above every other name! O
-name of triumph! O joy of angels, O terror of hell! In You is all hope of pardon, of grace, of glory!
-O sweetest name, You grant pardon to sinners,
-reform morals,
-fill the fearful with divine sweetness,
-drive away frightful phantoms! O most glorious name! Through You are
-revealed the mysteries of eternal life, souls are inflamed with divine love,
-strengthened in battles, and are set free
+"Why did You hide Yourself, O my sweetest Spouse, and cause this night full of palpable darkness and of most sad desolation to fall upon me? Who will help me in this extreme abandonment, in this solitude? Oh, how great are the sufferings of love, how great the solicitude of the heart that knows not, nor can do anything but love and cannot have whom it loves!
 
-from all dangers! O desirable name,
-delightful name, admirable,
-venerable name! You, by means
-of gifts and graces, raise little by little the minds of the
-faithful to the heights of heaven, so that all those who share and enter into the piety of Your ineffable greatness
-obtain by Your power salvation and glory!" (St. Bernardino of Siena).
+"O my most clement King, I have no other remedy than to sigh to You; from the depths of my heart I cry to You and invoke the tenderness of Your love. Remember me, O my hope, and consider the bitterness of the repulse and the hardness of the abandonment that consume me.
 
-O Lord, Your name is good, and grant that its goodness
-may render me, unworthy creature, capable of loving and praising it
-with all my heart.
+"Do not abandon me, O sweetest Offspring of the Virgin, since mercy was born together with You from the womb of Your most pure Mother. Behold, O Lord, how all my strength has failed and without You I am oppressed by the horror and the shadow of death.
 
-I want every work of mine to begin and end in Your
-name, that all my affections, desires, undertakings, joys and sorrows may bear its seal; but above all, I beg You,
-imprint Your name in my heart and in my mind so that I may always love You and think of You.
+"Have pity on me, O my Friend, since, all strength being consumed, only my lips and tongue remain to me to cry to You. O immortal life and fountain of living water, do not deprive me with so much rigor of Your presence which is dearer to me than life. I shall never rest, O sweetest Son of God, nor shall I ever cease to groan and to supplicate until You turn Your countenance toward me" (Ven. John of Jesus Mary, o.c.d.).

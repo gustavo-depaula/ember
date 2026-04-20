@@ -1,99 +1,23 @@
-## 32 — GLÓRIA A DEUS
-*28 dezembro*
+## 32 — O AMOR PURIFICANTE
 
-### Presença de Deus
-
-— Uno-me ao coro dos anjos que sobre a cabana de Belém cantam as glórias do Senhor.
+**Presença de Deus.** — *Ó Senhor, ajuda-me a escancarar minha alma à invasão de teu amor purificante.*
 
 ### Meditação
 
-1 — O Verbo se encarnou para a nossa salvação, para
-a nossa felicidade. E no entanto o fim primário da Encarnação, como de todas as obras de Deus, é a sua glória; Ele,
-Bem único e absoluto, não pode querer nada senão para
-a sua glória. Enviando o seu Unigênito para salvar os
-homens, quis glorificar a sua infinita bondade, glorificar-se na nossa salvação operada por meio do supremo
-ato do seu infinito amor misericordioso. A obra da
-criação glorifica Deus na sua sabedoria e onipotência,
-a obra da Encarnação o glorifica na sua caridade. E,
-como Deus não podia manifestar maior misericórdia
-e maior caridade do que dando o seu Filho para a salvação
-dos homens, assim nenhuma obra pode mais glorificá-lo
-do que a Encarnação do Verbo. E eis que ao nascimento do Redentor os anjos cantam: "Glória a Deus
-nas alturas". A Igreja recolhe este canto e
-o amplia naquele "Glória" que retorna em toda Missa
-festiva: "Nós vos louvamos, vos bendizemos, vos glorificamos,
-vos damos graças por vossa infinita glória". Nunca, como nas
-festas natalinas, se sente a necessidade de repetir este canto
-muito mais com o coração do que com os lábios. A alma se sente
-mais do que nunca impelida a louvar o seu Deus, tão imenso,
-tão grande, tão belo, mas também tão bom, tão misericordioso,
+**1** — Uma das maiores graças que Deus pode fazer a uma alma é justamente aquela de introduzi-la nas penas desolantes da noite do espírito, porque justamente deste modo Ele a prepara e dispõe à união. Embora, para a alma que experimenta as estreitas dolorosas, esta noite possa parecer um castigo de Deus, ela é ao contrário um dom de seu amor misericordioso que deste modo quer distraí-la dos últimos laços de suas imperfeições. São João da Cruz declara expressamente que esta noite é obra «da sapiência amorosa de Deus» a qual, purgando a alma, «a dispõe à união de amor» (N. II, 5, 1). Mas se é obra do amor, como é tão dolorosa? Acontece à alma algo de similar àquele que se verifica por um pedaço de madeira verde posto a arder; antes de tudo o fogo começa a expulsar dela a umidade, «depois a enegrece e faz exalar também mau odor; e enquanto pouco a pouco a seca, dela traz a luz e tira todos os desagradáveis e obscuros acidentes, contrários ao fogo. Finalmente, começa a aquecê-la de fora, a inflama, a transforma em si, tornando-a tão bela quanto o fogo mesmo». Paralelamente, o amor divino «antes de unir e transformar a alma em si, a purga de todas as qualidades contrárias. Tira dela suas sujeiras e a torna feia e negra, tanto que parece pior, mais abominável que antes» (ibi, 10, 1 e 2). Compreende-se facilmente como sob a prensa de similar purificação a alma deva sofrer, e contudo tudo isto é obra do amor. A Sapiência amorosa de Deus, investindo a alma ainda imperfeita, deve necessariamente começar a cumprir nela um trabalho de demolição, de purificação e, só quando a houver assim libertado de tudo o que é contrário ao amor divino, a unirá a si e em si a transformará. Então a obra do amor não será mais penosa para a alma, que antes lhe será muito suave e deliciosa, mas enquanto ela não é totalmente purificada, não pode não ser-lhe motivo de aflição.
 
-tão cheio de caridade. O canto não basta: a alma quereria
-transformar-se numa incessante "louvor da sua glória".
+**2** — Quanto mais estivermos intimamente convencidos de que a purificação é obra do amor, mais saberemos abraçá-la com coragem e fazer-lhe bom rosto mesmo quando nos custa muito. Aliás, a lei geral do amor perfeito — também do amor humano — é justamente esta: não tolerar divisão de afetos, não tolerar rivais, não suportar desarmonias entre aqueles que se amam. Se o amor humano, tão limitado e débil, tem tais exigências de totalidade, por que não reconheceremos os mesmos direitos, e antes, direitos infinitamente maiores, ao amor divino?
 
-2 — Nós fomos predestinados em Cristo "para sermos louvor da sua glória" (Ef. 1, 11 e 12). Cada cristão é por si mesmo um argumento da glória de Cristo:
-a sua elevação ao estado sobrenatural,
-a sua santificação, a sua felicidade eterna, todas tendo como fim supremo a
-glória dAquele que o redimiu. O cristão, e com maior
-razão a alma consagrada, deve comportar-se de modo que
-todas as suas obras e toda a sua vida sejam um louvor de glória à Trindade, a Cristo Senhor nosso. Nestes dias
-a Igreja nos apresenta as "primícias" destes "verdadeiros cristãos", que com as obras e até com a morte cantaram
-as glórias do Redentor: vemo-los, no seguimento do Deus-
-Menino, quais anjos da terra que unem o seu canto
-aos anjos do Céu. São Estêvão, protomártir, ensina-nos
-que a alma fiel e amante deve estar disposta a dar
-tudo, até a si mesma, até a vida, pela glória do seu
-Deus. São João Evangelista, "o bem-aventurado Apóstolo a quem foram revelados os segredos celestes" e que mais do que qualquer outro penetrou o mistério de Deus-Caridade, diz-nos que o amor do próximo "é o preceito do Senhor e, se é observado, isto só basta" (BR.) para dar glória a Ele, que é amor
-infinito.
+O amor tende por sua natureza à igualdade: ou encontra ou torna iguais os amantes; e Deus, vendo em uma alma de boa vontade, que se quer dar inteiramente, a ama ao ponto de querê-la tornar semelhante a si, por isso a despoja de tudo aquilo que contrasta com sua perfeição infinita e, à medida que a despoja, a reveste de si, a reveste de vida divina.
 
-Os Santos Inocentes, "primeiros tenros rebentos da Igreja",
-demonstram que a voz da inocência é um hino de glória
-a Deus, tão semelhante ao dos anjos: "Da boca dos
-meninos e dos lactentes tiraste o teu louvor, ó Deus!". Mas este hino torna-se muito mais forte e eloquente quando se
-une ao sacrifício do sangue: "Os mártires Inocentes celebraram a glória de Deus não com as palavras, mas com a
-morte" (BR.). Seja também a nossa vida um hino de louvor a
-Deus "não com as palavras, mas com as obras".
+O amor tende por sua natureza à unidade, quer a plena fusão dos corações; e Deus, o qual ama infinitamente as almas que o buscam com afeto sincero, nada mais deseja que uni-las a si e portanto as vai purificando de toda mancha que impediria a perfeita união com sua pureza infinita. Jesus mesmo, na última Ceia, expressou o supremo desejo de seu amor por nós pedindo justamente esta união perfeita: «Como Tu, Pai, és em mim e eu em ti, também eles sejam um em nós» (Jo 17, 21). Mas porque, viciados pelo pecado e cheios de toda miséria, éramos radicalmente incapazes, Ele tomou sobre si nossos pecados e os lavou em seu Sangue. A Paixão de Jesus nos diz quanto custou ao Filho de Deus nossa purificação. E se tanto custou a ele, inocentíssimo, não será justo que nos custe um pouco também a nós, culpados, que tantas vezes ofendemos a Deus, que tantas vezes, com nossa má vontade, pusemos obstáculo à invasão de seu amor em nossa alma? Agora que este amor divino, em vez de abandonar-nos como mereceríamos, nos vem ao encontro para purificar-nos, quereremos fugir à sua ação? Não, não deve ser assim! À mesma guisa que os sofrimentos purificadores são obra do amor de Deus por nós, assim queremos que a aceitação deles seja prova de nosso amor por ele. «O verdadeiro amor consiste no despojar-se de tudo o que não é Deus» (G.C.S. II, 5, 7).
 
 ### Colóquio
 
-"Soe alta a minha voz: com mente atenta eu contemple a ti, meu Deus, e com palavras celebre os teus louvores, pois
-é justo que a criatura louve o seu Criador, tendo-nos
-Tu criado e redimido para que te louvássemos,
-Tu que não precisas de louvores. Tu és virtude incompreensível que não tem
-necessidade de ninguém, mas que a ti mesmo te bastas. Grande és, ó
-Senhor meu Deus, grande é o teu poder e inumeráveis são
-as obras da tua sabedoria. Grande és Tu, Senhor Deus
-meu, e digno de todo louvor. A ti, pois, ama a minha mente,
-a ti canta a minha língua, de ti escreva a minha mão e nestes
-santos exercícios toda se empregue a minha alma. Deste suavíssimo
-alimento sacia-me assiduamente, para que eu cante com voz
-grande, cante do íntimo do coração e com todas as minhas forças,
-cante em doce harmonia e com ardentíssimo ânimo, cante
-e louve a ti, meu Deus!
+«Ó Senhor, lembra-te de mim que jazo nas trevas e na sombra da morte e ressuscita esta criatura tua com o amor teu que é meu espírito vital. Faze que o fogo divino de teu amor consuma em mim todos os maus humores dos afetos terrenos e que em meu coração permaneça um único afeto todo voltado a tua beleza e bondade infinita.
 
-"Bendize, ó minha alma, ao Senhor, e tudo o que há em
-mim bendiga o seu santo nome. Bendize ao Senhor, alma
-minha, e não te esqueças jamais dos seus infinitos benefícios!
-Louvemos aquele Deus, que os Anjos louvam, as Dominações
-adoram e se inclinam, e temem as Potestades, à cuja honra os
-Querubins e os Serafins de contínuo vão cantando: Santo,
-Santo, Santo! Unamos as nossas vozes às vozes dos Anjos,
-dos Santos e, na medida do que pudermos, louvemos o
-Senhor" (S. Agostinho).
+Ó Jesus, o imenso amor com que me atrai para unir-te a ti desperta em mim uma viva solicitude de reamar-te. Por esta razão do íntimo do coração eu grito a ti e te suplico, pelas chamas da imensa caridade com que me amaste e te encarnaste por mim, de mandar-me o Espírito Santo, Fogo divino que iluminou a Igreja mãe minha e esposa tua, para que me ilumine e me converta renovando a face da alma minha. Venha, ó dulcíssimo Filho de Deus, este Espírito divino, ao qual escancaro todo meu coração, para que reforme me, deformado pelo pecado, e me transforme na belíssima forma e graça tua.
 
-Sim, meu Deus, meu Redentor e Salvador, eu quero louvar-te em eterno e, enquanto espero vir cantar a tua glória
-com os anjos e com os santos do Céu, quero começar a
-cantá-la aqui embaixo não só com a língua, mas com as obras,
-com toda a vida. "Para ser um louvor da tua glória devo
-amar-te com amor puro e desinteressado, sem buscar a mim
-mesmo na doçura do teu amor; devo amar-te acima
-de todos os teus dons, e mesmo se não tivesse recebido nenhum. Ora,
-como desejar e querer efetivamente bem a ti, se não
-cumprindo a tua vontade, pois esta vontade ordena
-todas as coisas para a tua maior glória? Devo portanto aban-
+Esta é a pergunta minha, ó Senhor, e para ser exaudido me ofereço ao fogo e à água de todas as tribulações e a todos os tormentos desta vida. Por isto me acordo de bom grado e me apresto com a oração e a sacrificar-me a ti na vigília matutina. Por isto te suplicarei no silêncio da noite e baterei às portas de tua clemência. Meus olhos falarão a ti com lágrimas e não tomarei repouso algum até que não satisfaças meu desejo.
 
-donar-me plenamente, perdidamente a ela, até não
-poder mais querer senão o que Tu queres" (E.T. I, 10). E
-quando a tua vontade, a tua lei me pedirem sacrificar-me por amor de ti,
-pela tua glória, faze que eu nunca recue,
-mas esteja sempre pronto a dar-me totalmente, até o sacrifício supremo.
+Se te dignares de exaudir-me mandando teu fogo, te sacrificarei as primícias de meus afetos e não servirei mais a deuses estranhos. Te louvarei em público e em secreto e cantarei em eterno tuas misericórdias celebrando as vitórias de teu amor» (Ven. João de G. M., o.c.d.).

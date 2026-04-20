@@ -1,4 +1,4 @@
-## 107 — HUMILDADE NAS QUEDAS
+## XXXIII — HUMILDADE NAS QUEDAS
 
 ### Presença de Deus
 

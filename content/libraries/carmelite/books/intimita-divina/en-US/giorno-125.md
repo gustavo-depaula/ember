@@ -1,111 +1,21 @@
-## 99 — VENIAL SIN
+## 49 — DIFFICULTIES OF OBEDIENCE
 
-### Presence of God
+**Presence of God.** — Teach me, O Jesus, the secret of humble obedience that submits to any superior and to any command.
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — Although obedience is so precious as to put all life in the will of God, nevertheless it also presents its difficulties, which derive in great part from the fact that obedience itself does not come to us immediately from God, but rather through his representatives. It happens thus that too often we forget to see God in superiors and to recognize in theirs his authority. When, for example — which happens easily in religious life — one finds oneself to have as superior an ancient colleague or perhaps even an ancient disciple, younger and less experienced than ourselves, of whom one knows very well the lacunae and defects, one may be tempted not to have enough esteem for his authority, not to give enough value to his orders. Then the life of obedience becomes particularly difficult, one hesitates to submit, one does not have recourse to the superior with filial confidence and, what is worse, one believes oneself to have reason. There is instead a grave error of perspective; one has forgotten that the superior, whoever he may be, always clothes an authority that comes from God and that has placed itself on him solely because he has been called to such office. This authority is invariable and has the same value both in the senior superior and in the young one, as much in the one experienced and virtuous as in him who is less so. In fondo, if we find ourselves in these difficulties, we must accuse our lack of supernatural spirit, of spirit of faith. We judge spiritual things according to natural views, from the point of view of human values and in such manner it is impossible for us to enter well into the life of obedience, which is instead all based on supernatural values and motives. One must know how to escape from human considerations on the person of the superior, from the thought of his qualities or of his defects, of what he has been in the past, etc., to see in him solely the representative of God, the divine authority. It is true, this sometimes may require struggle and effort truly...
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+**2** — Many times, if not always, to the lack of supernatural spirit is joined the lack of humility. It costs self-love to depend and submit; it costs to submit one's own things to the judgment and to the government of another person and to remit oneself to his decisions. It costs above all when the superior may appear to us, at least under certain aspects, almost inferior to us, inferior in age, in culture, in experience, in capacity; and behold that the I, stung in its pride, kicks strongly, masking its own resistance with a thousand excuses. Yet even here there is a grave error, because, admitting even that in reality there may be in the superior some of these inferiorities, we must not stop on these, but only on the fact that the superior is always such in our regard because thus God has constituted him. Superior because God has preposed him to our government, superior because God has given him the mission to direct us in his place; his personal qualities or deficiencies do not affect the superiority that God has conferred on him. Certainly the superior, on his part, must study to acquire, if he does not possess them, the virtues and capacities necessary to the exercise of the office that he holds, but this is his affair; on our part — on the part of subjects that is — there is to do one thing only: to submit with filial humility, let oneself be guided, let oneself be governed. It is precisely a question of humility, because in fondo to humble oneself means to lower oneself, means to put oneself in one's own place and the place of the subject before superiors is always that of a humble dependence. Let us consider the obedience of Jesus and we shall see in it this attitude of humility carried to the maximum: though being God, "he annihilated himself, taking the nature of a slave and becoming like to man; ...he humbled himself, becoming obedient unto death, even death on a cross" *(Phil.* 2, 7 and 8). What is our lowering, what is our submitting and depending on superiors in comparison with the annihilation of the Son of God?
 
-
-satisfaction, toward creatures. And thus, little by little,
-
-
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+Let us persuade ourselves that, if our obedience is defective, almost always this depends on lack of humility.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"My sweet Savior, shall I be able to see you obedient, for love of me, to your creatures, and refuse to be so, for love of you, to those who represent you? Shall I be able to see you obedient for love of me unto death, to death on the cross, without embracing amorously this virtue and the cross in which You consumed it?
 
+"I wish to strive, as much as I can, to imitate your examples, obeying for love of you every creature or superior or equal or inferior that it may be, in all things, without reply, murmuring or delay, but gaily and amorously. Therefore I do not wish to investigate for what motive this or that thing is ordered me, much less do I wish to consider the manner in which it is commanded me or the person who commands it to me, but in the command I wish to consider only your will, leaving myself, to your imitation, to be moved in whatever direction, by whatever person, in things pleasant or painful, fitting or unfitting. No matter! Let obedience make of me what it wills.
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+"O Jesus, who at the price of your life have willed to repair the disobedience of Adam and mine; O Jesus, who through your death have acquired for me the grace of knowing how to obey, I no longer wish life except to sacrifice it to you through a continual and perfect obedience" (St. Francis de Sales).
 
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+"O Lord, You will, it is true, to infuse obedience in our hearts, but what impedes it is the not wishing to recognize that You speak and operate in superiors; and it is still the being attached to one's own will" (St. Mary Magdalene de' Pazzi).

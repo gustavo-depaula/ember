@@ -1,94 +1,23 @@
-## 35 — LET US TRADE WITH TIME
-*December 31*
+## 35 — PASSIVE PURIFICATION
 
-### Presence of God
-
-— On this last day of the year I recollect myself at the feet of the Child Jesus to consider, in the light of eternity, the value of time.
+**Presence of God.** — *My God, illumine my path, that I may not lose myself amid the darkness of tribulations.*
 
 ### Meditation
 
-1 — Time passes and never returns. God has assigned to each of us a determined time to realize
-the divine plan for our soul: we have only this time
-and no other. Time badly used is lost
-forever. The condition of our life is this continual flowing, this continual running of time that has
-no return; in eternity, instead, we shall be fixed,
-we shall be established.
-And we shall be established in that degree of love that we have reached now,
-in time; if such degree is great, in a
-great degree of love and glory we shall be established forever,
-but if we have reached a small degree, we shall not have
-more for all eternity. Once the flow of time is over,
-no progress is possible anymore. "Therefore, while we have opportunity, let us do good to all" (Gal. 6, 10).
-"It is a matter of giving each instant the maximum love,
-of making the fleeing instant eternal by giving it the value of eternity" (Sr. Carmela d. Sp. S., O.C.D.): this is the best way to use the time God grants us.
-Charity allows us to adhere with docility and love to
+**1** — Although by yourself, through the generous practice of total renunciation and an intense exercise of the theological virtues, you can enter into the night of the spirit, you will not be able to penetrate where it is most dense, unless God Himself places you there. He alone can thicken over your head the darkness of this night in such a way as to truly reduce you to nothing, to annihilate you in everything, so as to bring you to the purity and poverty of spirit required for union. More than taking initiatives, your task reduces, then, to accepting with love, to undergoing with patience and humility all that God disposes for you.
 
-the will of God, and thus at the end of life we shall have realized
-the divine plan for our soul, we shall have reached that
-degree of love that God expects from each of us and with
-which we shall love and glorify Him forever.
+So as not to run the risk of resisting divine action, you must keep in mind that, in general, God purifies souls through the ordinary circumstances of life. In the life of every Christian, of every apostle, of every religious there is always a measure of suffering sufficient to actualize the purification of the spirit; these are sufferings from God Himself, chosen and disposed in the manner most suited according to the diverse needs of souls, but the evil is that very few know how to make use of them, because few know how to recognize, in the pains of life, the hand of God who wishes to purify them. Illnesses, bereavements, separations, partings from dear persons, misunderstandings, struggles, difficulties coming sometimes precisely from those from whom one would expect greater help and support, collapses of works loved and sustained at the price of great labors, abandonment by friends, material and spiritual solitude — behold something of the sufferings which, more or less, are found in the life of every man and which, therefore, you too will encounter in yours. Well, know that all this is positively willed, or at least permitted, by God to purify you even to the most intimate fibers of your being. In the face of these things never blame the malice of men, never stop to examine whether they are just or unjust, but look only at the blessed hand of God who offers you these bitter remedies to lead you to perfect health of spirit. "It is very necessary — says St. John of the Cross — that the soul bear with great patience and constancy all the tribulations and pains that God may wish to send it. Whether they be internal or external, spiritual or corporal, great or small, it must receive them all from the hand of the Lord, as directed to its good and medicine. *They are its health*" *(F.* 2, 30).
 
-2 — Increase of charity depends on meritorious acts,
-that is, on good works performed under the influence of charity. Every good work merits an increase of charity, and this
-can be granted to the soul immediately, or only at the
-end of life, according to whether the soul has acted with all
-the love of which it is capable or, on the contrary, somewhat by force,
-with tepidity and negligence. In the first case, increase of
-charity is similar to interest immediately incorporated into capital and therefore bearing fruit with it,
-in the second case it is similar to that interest
-which is not added to the capital and therefore does not increase with it,
-although it remains property of the one who acquired it.
+**2** — Consider how much spirit of faith is necessary for you to accept from the hand of God all the circumstances that afflict you, humiliate you, contradict you, mortify you. At times it may be easier for you to bow before grave trials that come directly from the Lord — such as illnesses, bereavements, etc. — while perhaps you will feel greater repugnance before others more slight in which creatures enter into play. The immediate action of creatures, especially when their malice has part in it, makes it more difficult for you to discern the divine hand; here you need greater spirit of faith to go beyond the human side of circumstances, to go beyond the defective manner of acting of this or that person and to see, beyond all this, the dispositions of divine Providence which wishes to make use precisely of those creatures and also of their defects and errors to file down your self-love, to annihilate your pride.
 
-For the merit of our good works—that is, the increase of charity gained by them—to be granted immediately
-to the soul, it is necessary that such works be performed with
-all love, that is, with all the good will and generosity of which the soul is capable: then it is as if the soul opens itself to receive the increase of love merited,
-and this in fact joins at once the capital of charity it possesses,
-immediately increasing its degree and intensity.
-
-To grow in love we have only the short day
-of this earthly life, and if we want to draw from it the greatest possible fruit, we must apply ourselves to doing our good works "with all the heart," overcoming inertia and natural tepidity.
-Then love will grow beyond measure and
-the soul will be able, with St. Teresa of the Child Jesus, to say to the Lord:
-"Your love has grown with me and now has become an
-abyss whose depths I cannot sound" (St. 10). We ought to hurry while we still have time, because then "night comes, when no one can work"
-(Jn. 9, 4).
+In similar cases the counsel that St. John of the Cross gives to a religious will be very useful to you: "Think that all who live around you have the office, as in truth they have, of putting you to the test, working you some with word, others with deed, others finally with thought; and that in this you must be subject to all as the image is to him who works or paints or gilds it" *(Ct.* 15). The soul of faith, profoundly convinced that God guides all things and disposes everything for the good of those who love Him, sees in every neighbor a messenger of the Lord, having from Him the precise charge of exercising it in the virtues and especially in those of which it has greater need. Therefore this soul, instead of rebelling and becoming indignant at the undelicate or even unjust treatments it receives, bows its head and accepts them humbly as the cure most suited to free itself from its defects or imperfections. This is precisely the conduct you must keep if you wish to draw profit from all the trials God places on your path. Guard yourself, then, in such cases, from posing as a victim, from taking a tone of protest, of complaint or of revenge; whatever suffering may come to you from creatures, there is only one true explanation: the Lord wishes to purify you and to do so precisely by means of these external tribulations. Persuade yourself that everything greatly benefits your spiritual advancement, because one does not arrive at union with God if first one does not arrive at reducing oneself to nothing, that is, at establishing oneself in supreme humility.
 
 ### Colloquy
 
-O Lord, considering the new year that has passed and
-that You granted me to grow in Your love, I cannot
-help but lament over myself and repeat to You:
-how little I have loved You, my God! How badly I have used
-my time!
+"Teach me, O God, to suffer in peace the afflictions that You send me so that my soul may emerge from the crucible of trial more refined and clarified to better contemplate You who dwell within my interior. Then the travails that now seem to me insupportable will become as nothing to me and I shall desire to suffer them again, if thus You willed, since even the greatest trials and persecutions are never without profit. But I am too imperfect and do not bear them as I ought" *(T.G.Vi.* 30, 14).
 
-"How slowly my desires are kindled, while
-You so early began to draw me and call me,
-so that I might occupy myself wholly with You! But have
-You perhaps cast out the miserable? Have
-You perhaps sent away the poor beggar when he wanted to draw near? Have Your greatnesses and the magnificence of Your works, Lord, a limit? How easy for You it is now to show them in Your servant,
-my God and my Mercy! You are powerful, O great God. And
-this is the moment to show whether my soul deceives itself when, thinking of lost time, it affirms that in an
-instant You can make me recover it.
-I seem to rave, because, according to what they say, lost time cannot be recovered.
+"O greatness of my God! All that You permit in us of temptation and of tribulation, all is ordered to our good; and if we remembered nothing else, when we are down on earth, than Your goodness, this would be sufficient for us to conquer every temptation.
 
-"Blessed be my God! I recognize, Lord,
-Your sovereign power. You are powerful: yes, You truly are. And then,
-what is impossible to Him who can do all?
+"O my loving and sweet Spouse Word, You who have all power in heaven and on earth, You are the one who confounds everyone and puts to flight all enemies. I for my part am weak and most weak, I see nothing, being full of miseries and of sins; but You, O Word, with a small glance put to flight all enemies like straw before the wind; yet You allow them to fight with Your servants to make these more glorious. And the greater grace and greater light You wish to give them, that they may love and know You the more, so much the more do You test by fire and purge their hearts like gold, that their virtues may appear as worthy and precious stones.
 
-"You know well, my God, that, despite my great miseries, I have never ceased to acknowledge Your sovereign
-power and mercy.
-At least in this I have not offended You;
-and You, Lord, take account of it. Recover for me, O my God,
-the time I have lost, pouring into me Your grace for the
-present and for the future, so that I may appear before You
-with the wedding garment. If You will, You can" (T.G. Es. 4).
-
-For my part, O Lord, I see no better way
-to recover lost time than to apply myself with all
-my strength to the exercise of love. Yes, my love will increase if I know how to do for You "with all my heart," that is, "with all good will," every duty of mine, every
-good work. But I am so weak and feeble, so indolent, inclined to flee effort, to avoid or at least diminish sacrifice; my nature always tends to what is easier,
-less tiring and falls so easily into
-negligence,
-listlessness. Help me, Lord, and strengthen my love with Your omnipotent strength.
-It is so little what I can do for You; may I at least know
-how to do it with all the love of which You have made me capable.
+"In Your strength, O Word, confer on us the strength to fight; and whoever wishes to fight virginal for Your glory, must descend lower in the knowledge of self, yet always raising the heart to You so as not to be confounded" (St. M. Magdalene de' Pazzi).

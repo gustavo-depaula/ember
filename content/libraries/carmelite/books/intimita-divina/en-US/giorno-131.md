@@ -1,111 +1,33 @@
-## 99 — VENIAL SIN
+## 55 — THE SEVEN SORROWS OF MARY
 
-### Presence of God
+*Friday of Passion Week*
+
+**Presence of God.** — *Receive me, O Mary, near the cross and let me share with you in the Passion of Jesus.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
+**1** — The first explicit declaration of the part that Mary Most Holy would have in the Passion of Jesus is found in the prophecy of the old man Simeon: "a sword will pierce your soul" *(Lk.* 2, 35); a prophecy that finds its full realization on Calvary. "Yes, O blessed Mother — comments St. Bernard — a sword has truly pierced your soul. For only by passing through this could it penetrate the flesh of your Son. And certainly, after your Jesus had given up His spirit, the cruel lance, opening His side, did not reach His soul, but rather pierced your soul. For His soul was no longer there, but yours could not be detached from it" *(BR.)*. A beautiful interpretation that helps us understand how Mary, as Mother, was intimately associated with the Passion of her Son.
 
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
+The Gospel does not tell us that Mary was present at the glorious moments of Jesus' life, but it does tell us that she was present on Calvary: "Near the cross of Jesus stood His Mother and... Mary of Cleophas and Mary Magdalene" *(Jn.* 19, 25). No one had been able to prevent her from running to where her Son was to be executed; and her love gives her the courage to "*stand*" there, upright, on her feet, near the cross, to assist at the most painful agony and death of Him whom she loved above all things, since He was both her Son and her God. As one day she had accepted to become His Mother, now she accepts to see Him tortured from head to foot, accepts to see Him snatched away by a cruel death.
 
+And not only does she accept, but she offers. Jesus had gone spontaneously to the Passion, and Mary voluntarily offers her beloved Son for the glory of the Most Holy Trinity and for the salvation of men. The sacrifice of Jesus thus becomes the sacrifice of Mary, not only because Mary offers it together with Him and offers in Him the Son who belongs to her, but also because with this offering she makes the most profound holocaust of herself, since Jesus is the center of her affections, of her whole life. God, who had given her that divine Son, on Calvary demands Him back and Mary offers Him with all the affection of her heart, with the most complete adherence to the divine will.
 
-satisfaction, toward creatures. And thus, little by little,
+**2** — The liturgy of the day places these moving words on the lips of the sorrowful Madonna: "O you who pass by the way, stop and consider if there is any sorrow like my sorrow" *(MR.)*. Yes, her sorrow is immeasurable, but her love is even greater, so great that it can contain that sea of sorrow; of no creature as of Mary can it be said that her love is stronger than death and in fact it made her capable of enduring the most bitter death of Jesus.
 
+"Who could remain impassive contemplating Mary suffering with Christ her Son?" sings the *Stabat Mater* and immediately adds: "O Mother... let me feel the vehemence of your sorrow, that I may weep with you. Cause that I bear in my heart the wounds of Christ, make me a sharer in His Passion, cause that I be inebriated with the Cross and Blood of your Son." Following the invitation of the Church, let us contemplate, let us compassionate the sorrows of Mary, let us ask her for the great grace of sharing with her in the Passion of her Jesus. And let us remember that this participation must not remain in the realm of sentiment — even though it be good and holy sentiments — but must lead us to true *compassion*, that is, to *suffer together* with Jesus and with Mary. The sufferings we encounter in our life are given to us precisely for this.
 
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
-
-
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
-
-
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
-
-
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+The vision of the Madonna at the foot of the cross makes the lesson of the cross ever harder and ever more bitter to us; the maternal example of hers encourages us to suffer, makes the way of Calvary more sweet to us. Let us go, then, with Mary to reach Jesus on Calvary, let us go with her to meet the cross and, sustained by her, let us embrace it voluntarily to offer it together with that of her Son.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"O Mary, holy Mother of Jesus crucified, tell me something of His Passion, because, among so many who were present there, You more than all felt and saw it, having gazed upon it with the eyes of the body and of the mind, and having considered it with every attention, since You greatly loved Him" (Bl. Angela of Foligno).
 
+"O Mary, let me stand with you beside the cross, let me contemplate with you the Passion of your Jesus; let me share in your sorrow, in your weeping. O Holy Mother, imprint deeply in my heart the wounds of the Crucified, let me suffer with Him, associate me with His and your suffering" (cf. *Stabat Mater*).
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
+"O Queen of virgins, You are also Queen of martyrs. But the wound of the dagger opens in your heart, because in you everything happens within...
 
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
+"Oh! how beautiful you are if I contemplate you during your long martyrdom, so serene, mantled with a majesty that emanates strength and sweetness together! You had from the Word Himself how those must suffer whom the Father has chosen as victims, whom He has decided to associate with the great work of the Redemption, those 'He has known and predestined to be conformed to the image of His Son', crucified for love.
 
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+"You are there, O Mary, at the foot of the cross, erect, in strength and courage; and the Master says to me: 'Behold your Mother'. He gives me you for mother! Now that He has returned home, that He has put me in His place on the cross, that I may suffer in myself 'what is lacking to His Passion for His body which is the Church', You, O Mary, are still there, to teach me to suffer with Him, to repeat to me, to make me understand the last song of His soul, that song which You alone, the Mother, could understand" (E.T. II, 15).
+
+O sweetest Mother, that my desire to suffer may not be vain, help me to recognize in every daily suffering the cross of your Jesus and to embrace it with love.

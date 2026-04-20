@@ -1,4 +1,4 @@
-## 106 — HUMILDADE E CONFIANÇA
+## XXXII — HUMILDADE E CONFIANÇA
 
 ### Presença de Deus
 

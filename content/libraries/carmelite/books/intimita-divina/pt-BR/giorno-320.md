@@ -1,12 +1,10 @@
-## 320 — O DOM DA SABEDORIA
+## XXVIII — O DOM DA SABEDORIA
 
-### Presença de Deus
-
-Vem, Espírito de Sabedoria, atrai-me!
+**Presença de Deus.** — *Vem, Espírito de Sabedoria, atrai-me!*
 
 ### Meditação
 
-1. — O dom da inteligência faz-nos penetrar as coisas de Deus; o dom da sabedoria leva-nos mais adiante ainda: faz-nos saboreá-las, dá-nos um conhecimento saboroso. É a «saborosa cognição» de que fala São Bernardo, é o intraduzível *dulce sapere* invocado por São Tomás (*Adoro te devote*); é o precioso dom que o Espírito Santo nos oferece dizendo: *Gustate et videte quoniam suavis est Dominus*, saboreai e vede como o Senhor é bom (Sl. 33, 9).
+**1** — O dom da inteligência faz-nos penetrar as coisas de Deus; o dom da sabedoria leva-nos mais adiante ainda: faz-nos saboreá-las, dá-nos um conhecimento saboroso. É a «saborosa cognição» de que fala São Bernardo, é o intraduzível *dulce sapere* invocado por São Tomás (*Adoro te devote*); é o precioso dom que o Espírito Santo nos oferece dizendo: *Gustate et videte quoniam suavis est Dominus*, saboreai e vede como o Senhor é bom (Sl. 33, 9).
 
 Não por acaso se diz primeiro saboreai e depois vereis, porque o dom da sabedoria faz-nos conhecer Deus precisamente através da experiência do coração que «saboreia» o objeto amado.
 
@@ -16,7 +14,7 @@ Entre nós e Deus há certa «connaturalidade», certa semelhança produzida pel
 
 Tal experiência toma a alma em seu centro, isto é, na vontade, atraindo-a fortemente para Deus e, ao mesmo tempo, redunda como luz no intelecto. O dom da sabedoria age um pouco como o raio de sol que aquece e ilumina ao mesmo tempo. Aquece, reaviva a caridade da alma e, através dessa inflamação de amor, ilumina-a sobre as realidades divinas e a torna capaz de julgá-las, intuindo sua bondade infinita e superioridade absoluta sobre todas as coisas. «Ó profundidade da riqueza de Deus!» (Rm. 11, 33) é o grito da alma inflamada e iluminada pelo dom da sabedoria.
 
-2. — Todos os dons do Espírito Santo estão estreitamente ligados à caridade, pois só se encontram na alma que possui a caridade e se desenvolvem à medida que ela cresce; mas o dom da sabedoria tem com o amor de caridade relação muito particular.
+**2** — Todos os dons do Espírito Santo estão estreitamente ligados à caridade, pois só se encontram na alma que possui a caridade e se desenvolvem à medida que ela cresce; mas o dom da sabedoria tem com o amor de caridade relação muito particular.
 
 Antes de tudo, é precisamente através da caridade que ele se atua. «A causa do dom da sabedoria — diz São Tomás — encontra-se na vontade e é a caridade» (II-II, q. 45, a. 2); por isso, quanto mais uma alma ama a Deus, tanto mais é capaz de acolher a moção deste dom.
 

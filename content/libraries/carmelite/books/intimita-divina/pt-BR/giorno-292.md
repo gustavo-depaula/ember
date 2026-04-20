@@ -1,24 +1,22 @@
-## 292 — A MAGNANIMIDADE
+## XXX — A MAGNANIMIDADE
 
-### Presença de Deus
-
-Ó Senhor, dá-me um coração grande, capaz de empreender por ti coisas grandes.
+**Presença de Deus.** — Ó Senhor, dá-me um coração grande, capaz de empreender por ti coisas grandes.
 
 ### Meditação
 
-1. — Quem aspira à santidade deve ter um coração largo, magnânimo, que não se contente em fazer por Deus coisas pequenas e mínimos atos de virtude, mas que deseje fazer coisas grandes e dar-lhe grandes testemunhos de amor. Assim como não há santidade sem virtude heroica, assim não se pode chegar ao heroísmo sem realizar grandes atos de virtude.
+**1** — Quem aspira à santidade deve ter um coração largo, magnânimo, que não se contente em fazer por Deus coisas pequenas e mínimos atos de virtude, mas que deseje fazer coisas grandes e dar-lhe grandes testemunhos de amor. Assim como não há santidade sem virtude heroica, assim não se pode chegar ao heroísmo sem realizar grandes atos de virtude.
 
 Certas almas pensam que alimentar grandes desejos e querer fazer por Deus coisas grandes é orgulho e ilusão do demônio; certamente o seria se nisso se buscasse a própria honra e o aplauso das criaturas, ou se, para fazer coisas grandes, se negligenciassem as pequenas e cotidianas que se encontram cada dia na linha do dever. Mas não é assim: a virtude da magnanimidade inclina a alma a prestar a Deus grandes serviços, nunca porém em detrimento da obediência, da humildade e do cumprimento do dever. Antes, justamente nessa linha a alma generosa encontrará com frequência coisas árduas e difíceis que exigem muita virtude e que, no entanto, a maior parte das vezes permanecem completamente escondidas aos olhos das criaturas.
 
 Diante de semelhantes perspectivas somos muitas vezes tentados a recuar com o pretexto de que não é necessário levar a virtude a tais extremos, e nos desculpamos dizendo: não somos anjos, não somos santos. «Embora não o sejamos de verdade — adverte Santa Teresa de Jesus — é sempre útil pensar que, com a ajuda de Deus e mediante nossos esforços, podemos chegar a sê-lo» (Caminho 16, 11). A Santa insiste fortemente para que os que se dão à vida espiritual não tenham desejos acanhados, mas generosos, nem temam emular os santos, e atesta com autoridade: «Entre essas almas [corajosas] nunca vi alguma ficar para trás no caminho da perfeição, como nunca vi alguma entre as pusilânimes, que se escondem sob o véu da humildade, fazer em muitos anos o proveito que as primeiras fazem em pouquíssimos» (Vida 13, 2).
 
-2. — O contrário da magnanimidade é a pusilanimidade, ou pequenez de espírito, defeito que retém as almas de realizar obras grandes por excessivo temor de mau êxito. É verdade que não devemos ser temerários, expondo-nos por arbítrio próprio a empreendimentos superiores às nossas forças; também isso é defeito, imprudência e presunção que desagrada a Deus. Mas quando, através das circunstâncias e depois de exame suficiente, vemos com clareza que o Senhor quer de nós certos atos de virtude ou determinadas obras, não devemos recuar, por mais difíceis que nos pareçam. Não saberá Deus, então, dar-nos a força para cumprir o que nos pede? Por que duvidar dele?
+**2** — O contrário da magnanimidade é a pusilanimidade, ou pequenez de espírito, defeito que retém as almas de realizar obras grandes por excessivo temor de mau êxito. É verdade que não devemos ser temerários, expondo-nos por arbítrio próprio a empreendimentos superiores às nossas forças; também isso é defeito, imprudência e presunção que desagrada a Deus. Mas quando, através das circunstâncias e depois de exame suficiente, vemos com clareza que o Senhor quer de nós certos atos de virtude ou determinadas obras, não devemos recuar, por mais difíceis que nos pareçam. Não saberá Deus, então, dar-nos a força para cumprir o que nos pede? Por que duvidar dele?
 
 O pusilânime, que em semelhantes ocasiões recua com a desculpa de não se sentir capaz de tanto, pode julgar-se humilde, mas no fundo é covarde, é soberbo que duvida de Deus. É covarde porque, demasiado preocupado consigo, teme o risco, teme expor-se às críticas alheias, teme a fadiga e o sacrifício; é soberbo porque confia mais em seu juízo errado do que em Deus e em sua graça. O humilde, ao contrário, embora consciente de seu nada, dá crédito a Deus e, se está convencido de sua fraqueza, está ainda mais convencido de que Deus pode servir-se dela para realizar obras de valor. O verdadeiro humilde, portanto, nunca é pusilânime, mas sempre magnânimo: não teme animar-se a fazer coisas grandes por Deus, e essa mesma disposição o ajuda muitíssimo a progredir.
 
 «Ainda que não tenha muita força — diz Teresa de Jesus — toma logo voo e se eleva bastante, embora possa cansar-se depressa, como um passarinho novo, e deixar cair as asas» (Vida 13, 2). É próprio de nossa fraqueza cansar-nos, mas, se tivermos grande confiança e grande amor, logo saberemos levantar de novo as asas. Quanto mais plena for nossa confiança em Deus, tanto mais nos tornaremos fortes da fortaleza divina; quanto mais intenso for nosso amor, tanto mais nos tornaremos capazes de realizar pelo Senhor coisas árduas: «O amor perfeitíssimo — ensina São Tomás — mete a mão em qualquer coisa mais difícil» (III Sent. d. 29, q. 1, a. 8). Sustentados pela confiança e pelo amor, podemos elevar alto o voo sem temer perigos e quedas.
 
-### Colóquio
+### Colloquio
 
 «Ó poderoso amor de Deus! Como é verdade que o amante não encontra nada de impossível! Feliz a alma que obteve tua paz, ó meu Deus! Ela domina os perigos e os sofrimentos do mundo e nada a amedronta quando se trata de servir-te.
 

@@ -1,12 +1,10 @@
-## 308 — O DOM DA FORTALEZA
+## XVI — O DOM DA FORTALEZA
 
-### Presença de Deus
-
-Ó Espírito Santo, que conheces minha fraqueza, torna-me forte da tua fortaleza divina.
+**Presença de Deus.** — Ó Espírito Santo, que conheces minha fraqueza, torna-me forte da tua fortaleza divina.
 
 ### Meditação
 
-1. — Ao lado do dom do temor, sob cujo influxo a alma se põe inteiramente nas mãos de Deus com o único desejo de jamais separar-se dele, há o dom da fortaleza, que tem a tarefa de robustecê-la para torná-la sempre mais corajosa no serviço divino.
+**1** — Ao lado do dom do temor, sob cujo influxo a alma se põe inteiramente nas mãos de Deus com o único desejo de jamais separar-se dele, há o dom da fortaleza, que tem a tarefa de robustecê-la para torná-la sempre mais corajosa no serviço divino.
 
 À medida que avança na vida espiritual, a alma, mais do que proceder com suas iniciativas, deve seguir as de Deus, deve deixar-se guiar pelo Espírito Santo; e, no entanto, também aqui é necessária sua atividade, a qual deve consistir na adesão dócil e pronta às moções divinas. Pois bem, o dom da fortaleza lhe dará a força de dizer sempre o seu sim às inspirações e aos convites do divino Paráclito, de aceitar e querer tudo o que Ele faz por ela e nela.
 
@@ -14,7 +12,7 @@ Este dom vem, assim, ajudar e aperfeiçoar a virtude da fortaleza que, apesar da
 
 E é precisamente neste campo que, de modo particular, experimentamos nossa fraqueza: intuímos o que Deus quer de nós, talvez o vejamos também muito claramente e, no entanto, não somos capazes, não temos força para fazê-lo. É o grande tormento da alma de boa vontade, mas ainda não madura; é a condição da fraqueza humana que a graça atual e a virtude infusa da fortaleza podem melhorar muito, mas que, agindo elas através de nossas faculdades limitadas, não podem sanar até o fundo. É necessária a intervenção direta do próprio Deus, e Deus intervém pondo em ato o dom da fortaleza.
 
-2. — A virtude da fortaleza e o dom da fortaleza têm o mesmo objeto: tornar-nos fortes na vida espiritual, mas diferem no modo de agir. A virtude age em nós mediante nossos esforços, sustentados certamente pela graça, mas que, no entanto, são sempre esforços humanos; por isso, embora sobrenatural, deve necessariamente adaptar-se ao nosso modo humano de agir e, portanto, sente sempre nossa limitação.
+**2** — A virtude da fortaleza e o dom da fortaleza têm o mesmo objeto: tornar-nos fortes na vida espiritual, mas diferem no modo de agir. A virtude age em nós mediante nossos esforços, sustentados certamente pela graça, mas que, no entanto, são sempre esforços humanos; por isso, embora sobrenatural, deve necessariamente adaptar-se ao nosso modo humano de agir e, portanto, sente sempre nossa limitação.
 
 O dom, ao contrário — como todos os dons do Espírito Santo — é sobrenatural não só em si, mas também no seu modo de agir; de fato, em vez de ser posto em ato por nós — como acontece com a virtude — é posto em ato pelo próprio Deus. Mediante a virtude somos nós que, com nossa boa vontade sustentada pela graça, procuramos adquirir a fortaleza, tornar-nos fortes; mediante o dom, ao contrário, é o Espírito Santo que nos fortifica interiormente, comunicando-nos algo de sua onipotência, de sua fortaleza infinita.
 

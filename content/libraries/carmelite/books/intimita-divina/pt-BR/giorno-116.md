@@ -1,10 +1,10 @@
-## 114 — ESCONDER-SE COM CRISTO EM DEUS
+## 40 — ESCONDER-SE COM CRISTO EM DEUS
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, ajuda-me a esconder-me das criaturas para penetrar em tua intimidade divina.*
 
 ### Meditação
 
-1 — Quando se fala da vida escondida de Jesus, não se
+**1** — Quando se fala da vida escondida de Jesus, não se
 deve entender apenas o seu ocultar-se aos olhos dos homens,
 escondendo-lhes a sua divindade e fugindo da sua glória;
 é preciso, além dessas relações externas com as criaturas,
@@ -45,7 +45,7 @@ suas vaidades — e vossa vida está escondida com Cristo em
 Deus" (Cl. 3, 3).
 
 
-2 — "Meu Deus... agora para sempre entendo encerrar-me
+**2** — "Meu Deus... agora para sempre entendo encerrar-me
 no vosso amabilíssimo Coração como num deserto,
 para aí fazer em Vós, convosco, por Vós, esta vida
 escondida de amor e de sacrifício". Assim S. Teresa Margarida

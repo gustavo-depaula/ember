@@ -1,12 +1,10 @@
 ## 322 — AO ENCONTRO DO ESPÍRITO SANTO
 
-### Presença de Deus
-
-Vem, Espírito Santo, investe-me com tua ação e conduz-me a Deus.
+**Presença de Deus.** — *Vem, Espírito Santo, investe-me com tua ação e conduz-me a Deus.*
 
 ### Meditação
 
-1. — Considerando os dons do Espírito Santo e as bem-aventuranças que são seus frutos, compreendemos sempre melhor de que maravilhosas riquezas Deus nos dotou. Desde o dia do batismo, todo cristão possui esses dons preciosos; não é, portanto, temerário desejar que se desenvolvam em nós até a maturidade, de modo que nossa alma possa ser totalmente investida pela ação do Espírito Santo.
+**1** — Considerando os dons do Espírito Santo e as bem-aventuranças que são seus frutos, compreendemos sempre melhor de que maravilhosas riquezas Deus nos dotou. Desde o dia do batismo, todo cristão possui esses dons preciosos; não é, portanto, temerário desejar que se desenvolvam em nós até a maturidade, de modo que nossa alma possa ser totalmente investida pela ação do Espírito Santo.
 
 Aliás, com esse desejo vamos ao encontro do próprio desejo de Deus, que nos deu esses dons justamente para que possamos ser movidos e guiados por seu Espírito, «porque os que são guiados pelo Espírito de Deus, esses são filhos de Deus» (Rm. 8, 14). E se nós desejamos ser verdadeiros filhos de Deus, não o deseja talvez imensamente mais o Pai celeste, que justamente para isso nos criou e elevou ao estado de graça?
 
@@ -18,7 +16,7 @@ Disponhamo-nos, portanto, a sofrer com coragem esta purificação indispensável
 
 «Ó humildade, humildade!... — exclama Teresa de Jesus — a falta daqueles que não vão adiante [nos caminhos do espírito] está toda aqui», na falta de humildade, «porque a humildade é o fundamento do edifício e o Senhor nunca o elevará muito se esta virtude não estiver verdadeiramente bem firme» (Moradas).
 
-2. — À generosidade, ao desapego e à humildade unamos a fervorosa oração para invocar a obra do Espírito Santo. Elevemos a ele nossas súplicas com as próprias palavras do hino:
+**2** — À generosidade, ao desapego e à humildade unamos a fervorosa oração para invocar a obra do Espírito Santo. Elevemos a ele nossas súplicas com as próprias palavras do hino:
 
 *Veni, Creator Spiritus...*
 *Accende lumen sensibus, infunde amorem cordibus,*

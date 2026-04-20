@@ -1,12 +1,10 @@
-## 316 — BEM-AVENTURADOS OS QUE CHORAM
+## XXIV — BEM-AVENTURADOS OS QUE CHORAM
 
-### Presença de Deus
-
-Concede-me, ó Senhor, derramar somente lágrimas que te sejam agradáveis e me ajudem a crescer no teu amor.
+**Presença de Deus.** — *Concede-me, ó Senhor, derramar somente lágrimas que te sejam agradáveis e me ajudem a crescer no teu amor.*
 
 ### Meditação
 
-1. — Ao dom da ciência corresponde a bem-aventurança: «Bem-aventurados os que choram, porque serão consolados» (Mt. 5, 5). Bem-aventurados, antes de tudo, os que, profundamente iluminados pelo Espírito Santo sobre o nada das criaturas, choram o tempo transcorrido em buscá-las, as energias e os afetos desperdiçados nas vaidades do mundo.
+**1** — Ao dom da ciência corresponde a bem-aventurança: «Bem-aventurados os que choram, porque serão consolados» (Mt. 5, 5). Bem-aventurados, antes de tudo, os que, profundamente iluminados pelo Espírito Santo sobre o nada das criaturas, choram o tempo transcorrido em buscá-las, as energias e os afetos desperdiçados nas vaidades do mundo.
 
 São as lágrimas ardentes de Santo Agostinho, que nas Confissões não cessa de lamentar-se: «Tarde te amei, ó Beleza tão antiga e tão nova, tarde te amei... Tu estavas comigo e eu não estava contigo; retinham-me longe de ti as criaturas». São as lágrimas da Madalena penitente e de São Pedro que chora sua falta. Lágrimas benditas que lavam as almas do pecado e as dispõem para a amizade com Deus.
 
@@ -16,7 +14,7 @@ Uma alma que vive sob o influxo deste dom nunca será leviana nem superficial em
 
 O Espírito Santo não quer tornar-nos escrupulosos, mas muito delicados em nossa fidelidade a Deus; por isso não se contenta que desprezemos as vaidades do mundo assim em geral, mas quer que as desprezemos também em suas manifestações mais sutis, quais são as pequenas desforras do amor-próprio, as mínimas complacências de si, as pequenas buscas de afeto e estima alheios. Bem-aventurada a alma que sabe reconhecer e chorar todas as suas misérias, não com lágrimas de desânimo ou de perturbação, mas com lágrimas de profunda contrição que, em vez de estreitá-la no temor, a dilatam no amor penitente e a lançam nos braços de Deus com um coração renovado no amor e na dor.
 
-2. — O dom da ciência, fazendo-nos experimentar a fundo a vaidade das criaturas, convence-nos de sua inconsistência, caducidade e, portanto, impele-nos a pôr em Deus todas as nossas esperanças. Nesse sentido, tal dom aperfeiçoa e fortalece a virtude da esperança, para que, sem mais hesitar, nosso coração se ancore em Deus, reconhecendo nele nosso único apoio e fundamento, bem como nossa única felicidade.
+**2** — O dom da ciência, fazendo-nos experimentar a fundo a vaidade das criaturas, convence-nos de sua inconsistência, caducidade e, portanto, impele-nos a pôr em Deus todas as nossas esperanças. Nesse sentido, tal dom aperfeiçoa e fortalece a virtude da esperança, para que, sem mais hesitar, nosso coração se ancore em Deus, reconhecendo nele nosso único apoio e fundamento, bem como nossa única felicidade.
 
 Quanto mais a alma espera em Deus e na posse beatificante dele que a espera na vida eterna, tanto mais está disposta não só a renunciar à felicidade e às satisfações que as criaturas lhe podem oferecer, mas também a abraçar todos os sacrifícios necessários para alcançar a vida eterna. Os sacrifícios são muitos porque não é possível ir a Deus senão trilhando a mesma via que o Filho de Deus percorreu para conduzir-nos a ele: a via da cruz.
 

@@ -1,86 +1,23 @@
-## 36 — THE CIRCUMCISION OF THE LORD
-*January 1*
+## 36 — INTERIOR TRIALS
 
-### Presence of God
-
-— I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.
+**Presence of God.** — *O Lord, purify me like gold in the crucible; purify me and spare me not that I may arrive at You.*
 
 ### Meditation
 
-1 — The Magnificat antiphon of First Vespers wonderfully synthesizes the spirit of today's feast: "Because of the immense charity with which God loved us, He sent His Son under the likeness of sinful man." To the consideration
-of God's immense charity, which has illumined and dominated all the Christmas feasts, there is added the vision of the Son of
-God sent to us under the likeness of sinful man; this is the
-characteristic of this solemnity. To transform us sinners into children of God, the Father's Only-Begotten willed to transform Himself into one of us, even to taking our flesh of sin and undergoing all its most humiliating consequences. The law of circumcision could in no way touch Jesus, the Son of God,
-the Holy One par excellence; but Jesus
-willed to submit to it as the last son of Abraham, because,
+**1** — If the Lord finds you strong and faithful, humble and patient in accepting external trials, He will pass little by little to those more intimate, more spiritual to "purify you well within and do you greater goods more intimate" (cf. *G.C.F.* 2, 28). The passive night of the spirit culminates precisely with these interior pains by means of which God "crumbles and undoes the spiritual substance" *(N.* II, 6, 1) of the soul to make it be born again completely to divine life. We are, in fact, so compounded of miseries and defects and these are so adherent to our nature, that if God Himself does not lay His hands on us, almost undoing us and remaking us from head to foot, we shall never be freed from them. Even Jesus spoke of this total remaking, of this profound spiritual rebirth: "unless one be born again of water and the Holy Spirit, he cannot enter into the kingdom of God" *(Jn.* 3, 5); kingdom of God down here is the state of perfect union with Him, to which no one attains if first he is not totally purified.
 
-as St. Paul teaches, "He had to be made in all things like His brothers... so that the sins of the people might be expiated" (Heb. 2, 17). The rite, perhaps performed by Joseph in the intimacy of the family, made the first drops of His precious Blood flow from Jesus' immaculate flesh.
+St. John of the Cross has explained at length how such work of purification is accomplished precisely by the Holy Spirit who, investing the soul with the living flame of His love, destroys and consumes all its imperfections. "Until the divine flame — says the Saint — purges and disposes the soul, it is very troublesome to it: it is not a clear but dark flame, which, if it gives it a little light, does so that it may see and feel only its miseries and defects" *(F.* 1, 19). Although the soul finds itself under the direct action of the Holy Spirit, this action is not savorous to it, but painful because the first office that it accomplishes is precisely that of showing it all its weaknesses and miseries that, conceiving no horror, it may detest them, humble itself for them. The penetrating light of the "living flame of love" lifts the thick veil that hid from the soul the roots of its evil habits. In the face of such vision the soul suffers, not only because it feels humiliated by it, but also because it fears being repudiated by God; in fact, recognizing itself so miserable, it feels terribly unworthy of divine love and, indeed, at certain moments it seems to it even that the Lord, indignant, drives it away from Himself. This is the greatest torment that the soul can suffer, but it is a precious torment because it purifies it from every residue of self-love, of pride, because it digs in it that profound abyss of humility that invokes and attracts the abyss of divine mercies.
 
-Eight days after His birth, He thus begins His bloody mission as Redeemer: He does not speak yet, He is not known by the world, and already He sheds His Blood for the world's salvation.
-
-Looking at Him we learn that deeds are worth more
-than words, that the more deeds cost sacrifice, the more they are proof of true love, and that, to be fruitful, every work must have its baptism of blood.
-
-2 — The feast of the Circumcision coincides with the beginning
-of the civil year: the first drops of Jesus' Blood seal and consecrate each new year, truly making it annus Domini,
-the year of the Lord. Time is of
-God, our life is of God and of Christ, who repurchased and sanctified everything with His Blood.
-
-Let us begin the year by circumcising our hearts because,
-according to what St. Ambrose teaches, "he who is circumcised in vices is judged worthy of the Lord's gaze.
-Circumcision... See how the whole sequence of the ancient law was a figure of the future; because circumcision too means purification from sins" (BR.).
-
-New year, new life; new life because, by circumcising in us "the old man" with his vices and passions, "the Christian" will grow in us:
-a new creature purified by Christ's Blood, enlivened and nourished by His grace,
-so that no longer we live, but Christ lives in us.
-The year beginning today has value only in relation to
-this: only insofar as, day by day, grace will triumph
-ever more in us to make Christ's life grow in our souls.
-
-Another teaching of today's feast is Jesus' humble submission to His Father's will, manifested
-through the law: in this we see an invitation to adhere
-docilely to God's will, whatever it may be. None
-of us knows what awaits us in this new year; but God
-knows: His will has already prepared our path,
-every detail of our life is already decided in His
-
-mind. Let us dispose ourselves to accept, to embrace with courage and readiness every divine will, every divine permission,
-certain that only in God's holy and sanctifying will
-shall we find our peace and our sanctification.
+**2** — If the Holy Spirit did not make you know and experience your misery, you could not be freed since, ignoring it, you could not cooperate with the work of purification that He wishes to accomplish in you. Therefore, when, through the failures of your spiritual life, the struggles and rebellions of nature, the divine light shows you the depths of your evil tendencies, you must humbly bear the sight, you must recognize and confess your weaknesses without excusing them, without blaming adverse circumstances, without turning your gaze elsewhere. These are the moments in which you must more than ever bow "under the mighty hand of God" *(1 Pt.* 5, 6), who makes you see what in reality you are in His sight. On the other hand, the picture of your miseries, however ugly and abominable it may be, must not cast you into discouragement: this is not the end for which the Holy Spirit shows it to you, but rather that of despoiling you of every trace of secret esteem of yourself and of extinguishing in your heart — should there be any — any pretension of being worthy of divine favors and gifts. Nor must you believe that you have become worse than before; these miseries you have always borne in you, with the difference that before you ignored them, while now the divine light makes you see them clearly and shows them to you not to drown you in them, but to free you from them. Despite, then, all the suffering you may experience at the sight of your misery, you must remain trusting and sure that God will not abandon you. It is true, you have been unfaithful to Him, you have not corresponded as you ought to His love, the services you have rendered Him are very little, indeed they are nothing in comparison to what God deserves, yet He, infinitely good, does not despise your contrite and humbled heart. God loves you and, far from rejecting you, desires to unite you to Himself, but before doing so He wishes to render you perfectly aware that you are entirely unworthy of this great grace. God communicates Himself only to souls emptied of self, to souls reduced to nothing...
 
 ### Colloquy
 
-"O Word, no sooner are You eight days old than You give me Your
-Blood: and what do You prepare for me with this Blood?... obedience.
-Three things You show me in this Your Circumcision;
-obedience toward God, meekness with Mary, justice with us"
-(St. Mary Magdalene de' Pazzi).
+"O my soul, if you have remained wounded by sin, behold your Physician ready to heal you. His mercy is infinitely greater than all your iniquities. And I tell you this not that you may remain in your misery, but that, striving to overcome it, you may not despair of His clemency and His pardon.
 
-Allow, O Jesus, that the first drops of Your most innocent Blood descend to purify and intoxicate my poor soul.
-I understand: from Your very first days
-You hastened to shed Your Blood, because You wanted
-to show us immediately that You are our Savior and Redeemer.
-This shedding of Blood was not necessary for You,
-Son of God, holy with the holiness of Your Father, but it
-was necessary for me, poor creature born in sin. And
-You, for me, willed to humble Yourself even to submitting to
-the law made for sinful men. O my Lord, teach me to be humble and obedient, You, innocent Lamb who takes away the sins of the world, did not disdain
-the cut of circumcision; and I, who am a sinner,
-shall I perhaps assume the posture of a just man?
-Shall I resent it if I am judged imperfect,
-and seek to hide my defects
-under the cloak of false excuses? Oh, You teach me that in
-no way can I be Your follower, nor can I become like You,
-if I do not accept humbling myself with You, most humble!
+"Your God is sweetness itself, the very suavity; what other good can one desire down here apart from Him?
 
-Teach me also to obey, to submit myself to the will of the heavenly Father, whatever it may be and whatever sacrifice it imposes on me. "I consider this new
-year as a blank page that Your Father presents to me and on which He will write day by day what He has disposed in His
-divine good pleasure; but already now at the top of the page I
+"Do not abase yourself, O my soul, for your imperfections; your God does not despise you because you are imperfect and infirm; He, rather, loves you because you desire and seek to be healed of your miseries. He will come to your aid and will render you more perfect still than you would have dared to hope and, adorned by His very hand, your beauty will have no equal, like His goodness.
 
-write with total trust: Domine, fac de me sicut vis;
-Lord, do with me what You will. And at the bottom of the page I already place my Amen, so be it, to all dispositions of Your divine will. Yes, O Lord, yes to all
-joys, to all sorrows, to all graces, to all labors
-You have prepared for me and will reveal to me day
-by day. Grant that my amen may be the paschal amen, always followed by alleluia, that is, pronounced with all
-my heart, in the joy of a complete self-giving. Give me
-Your love and Your grace and I shall be rich enough" (Sr. Carmela d. Spirito S., O.C.D.).
+"Oh, Jesus my, tender Shepherd, sweet Master, succor me, raise up my little sheep cast down, stretch forth Your hand to sustain me, heal my wounds, strengthen my weakness, save me or I shall perish. I confess myself unworthy to live, unworthy of Your light, unworthy of Your succor, because my ingratitude has been immense; yet Your mercy is still much greater; have, then, pity on me, O God, who so loves men! Have pity on me, according to the greatness of Your mercies" (Bl. Louis de Blois).
+
+"The abyss calls to another abyss. And there, O my God, precisely at the bottom, the encounter with You will take place: the abyss of my nothingness, of my misery, will find itself before the abyss of Your mercy, of the immensity of Your all; there shall I find the strength to die to myself and I shall be changed into love" *(E.T.* I, 1).

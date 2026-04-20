@@ -1,4 +1,4 @@
-## 223 — A TRINDADE E NÓS
+## XXIII — A TRINDADE E NÓS
 
 **Presença de Deus.** — *Ó Santíssima Trindade, que te comprazes em habitar em minha alma, digna-te associar-me à tua vida divina.*
 

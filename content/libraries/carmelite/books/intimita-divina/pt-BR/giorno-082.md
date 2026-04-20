@@ -1,4 +1,4 @@
-## 82 — REGRAS DE DESPOJAMENTO
+## VI — REGRAS DE DESPOJAMENTO
 
 ### Presença de Deus
 

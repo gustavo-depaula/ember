@@ -1,4 +1,4 @@
-## 244 — A FÉ
+## XIV — A FÉ
 
 **Presença de Deus.** — *Ó Senhor, que eu compreenda o grande valor da fé.*
 

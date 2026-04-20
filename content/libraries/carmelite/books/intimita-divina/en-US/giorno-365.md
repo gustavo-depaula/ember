@@ -1,106 +1,27 @@
-## 43 — JESUS TRUE VINE
+## 43 — HUMBLE AND REVERENT LOVE
 
-### Presence of God
-
-— Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.
+**Presence of God.** — *O God, who are so great, deign to raise up to You my soul so small and miserable.*
 
 ### Meditation
 
-1 — Jesus is the one "Mediator between God and men"
-(1 Tim. 2, 5); yet He was not content to redeem us
-while remaining separated from us, His redeemed, but willed that
-all our redemption should be wrought in Him, through a
-most close union between Him and us. This is the great mystery
-of our incorporation into Christ, revealed by Him Himself
-to the Apostles on the evening before His Passion. "I am
-the true vine and my Father is the vinedresser... Abide in
-me and I will abide in you. As the branch cannot bear
-fruit by itself unless it remains in the vine, so neither can you unless you remain in me" (Jn. 15, 1-4).
+**1** — The love that boldly spurs the soul to the conquest of divine union is, at the same time, full of reverence and of respect, since far more than before the soul intuits how sublime and exalted is the Majesty of God. If, on one side, love renders it impatient to unite with Him, on the other the continuous and clear awareness of its misery renders it more than ever solicitous in watching itself attentively that in its conduct there be nothing that can displease so exalted a Majesty.
 
-Jesus strongly affirms that there is no redemption, there
-is no supernatural life, life of grace, except for one who lives
-in Him, grafted in Him; just as in the branch there is no
-life and no fruit except insofar as it is joined to the trunk. Behold the very close connection that Jesus willed to establish between Him and us, a connection indispensable for
-our salvation, for our sanctification. Not even the
-smallest degree of grace can come to us without Christ's mediation,
-just as the smallest drop of sap cannot
-reach the branch if this is detached from the tree.
+"The soul — says the Mystical Doctor — soon sees in itself a true and efficacious determination not to do what it understands to be an offense of God, nor to omit any thing that regards His service... It nourishes a thought most vigilant and solicitous of what it must do or leave to please the Lord, examining and scrutinizing itself a thousand times to see if ever in some way it has offended Him" *(N. II, 16, 14)*. Evidently it is a question here of something far superior to the simple flight from sin, it is a question of the firm resolution to flee any imperfection, omission or negligence adverted and since the soul knows by experience that, despite all its good will, many of such failings may still escape it through distraction or through frailty, it wishes to intensify its vigilance to avoid as much as possible even these.
 
-Moreover Jesus declares that, by remaining in Him, not only
-do we have supernatural life, but we become object
-of special care on the part of the heavenly Father, who is "the vinedresser" of the mystical vine. In fact the heavenly Father
-knows us as His adopted children and as such loves us and
-cares for us only insofar as He sees us in Christ, His only beloved Son. The grace of adoption embraces only those whom the Father
-finds strictly joined to His Only-Begotten, so as to
-be "living part" of Him, as the branch is living part
-of the vine.
+It is a solicitude that derives from love and not from scruple, true loving solicitude similar to that which made St. Teresa Margaret of the Heart of Jesus continually repeat: "Now what am I doing in this action? Am I loving my God?" *(Sp. p. 323)*, or to that which the Blessed Angela of Foligno expressed with the fiery expression: "See, O Lord, if in me there is any other thing that is not love!".
 
-2 — "Abide in me." One cannot abide unless one
-already is. Jesus tells us to "abide" in Him precisely
-because our grafting into Him is a fact already accomplished,
-merited for all men by His death on the cross, and
-actualized individually for each of us at the moment of
-Baptism. Christ, at the price of His Blood, united us
-to Himself; therefore we "are" in Him, but it is for us
-to "remain" in Him in the fullest and most vital way.
+If you wish a sure sign of your love for God, look how firm you are in the purpose of fleeing every least thing that displeases Him; it must be a purpose so rooted in your will that not only is it continually present to you — as are the things that truly concern you — but is also valid to restrain you from every imperfection as soon as you advert it. This is absolutely indispensable because, as St. John of the Cross teaches, "in order that the soul may come to be united perfectly with God by will and by love... it is required that it consent not with knowledge and advertence to any imperfection, and that it also have the power and liberty not to consent to it while it adverts it" *(S. I, 11, 3)*.
 
-If to be grafted into Christ Baptism is sufficient,
-and if one degree of grace is enough to remain in Him as living
-branches, we must not be content with this. We
-must be conscious of the immense gift received and seek
-that our grafting into Christ become ever deeper;
-we must "live" this union with Christ,
-the center, the sun of our interior life. Not by chance
-did Jesus say: "Abide in me"; thus He wished to indicate
-that our life in Him requires our personal collaboration:
-we must apply all our strength,
-our mind, our will, our heart to willing to
-live in Him and by Him. The more we apply ourselves
-to abiding in Christ, the more deeply we sink our
-little branch in Him, and He will communicate to us ever more abundantly
-the sap of grace.
-"Abide in me and I will abide in you"; to the degree that,
-through faith, charity, and good works, we hold ourselves
-tightly united to Christ, He will abide in us,
-continually communicating new life of grace to us. Then we shall
-be not only living branches, but rich in fruits, fruits of
-holiness destined to gladden God's heart, because Jesus
-said: "My Father will be glorified if you bear
-abundant fruit" (Jn. 15, 8).
+**2** — The knowledge of its own baseness keeps the soul humble in its love, chasing from it every presumption. Far from counting on its merits and on its good works it sees clearly that, whatever it does, all is nothing in comparison to the exalted majesty of God, "consequently it reputes itself useless in all that it does, and it seems to itself to live in vain" *(G.C. N. II, 19, 3)*. The words of the Gospel: "we are unprofitable servants" *(Lk. 17, 10)* are for it of a living actuality and express very well its habitual state of soul. Too great is the light that the Holy Spirit infuses in it to fall into any illusion concerning its value or to vaunt itself of its works. But, rather, "with great persuasion it judges itself worse than all: first, because love teaches it what God merits; second, because being many the works it does in His service and knowing them defective and imperfect, from all it draws supreme confusion and pain, and understands that its low manner of proceeding is too unworthy of so high a Lord" *(G.C. N. II, 19, 3)*. It is beautiful to consider how this profound humility is not only fruit of light, but also of love: love makes it so appreciate God that, although ardently desiring to possess Him, it is profoundly persuaded of being totally incapable of reaching Him. On the other hand, although humble and reverent, love maintains its characteristic boldness and does not cease to aspire to divine union. Precisely in this sense St. Teresa of the Child Jesus wrote: "Despite my weakness I dare to fix the divine Sun, the Sun of Love"; the Saint, who with all simplicity compared herself to a little bird of first feather incapable of taking flight, sees well that alone it will never be able to elevate itself so high and nevertheless does not lose its hopes. If it cannot count on its own forces, it knows it can count on the love of Jesus, divine Word, who became incarnate precisely to come in search of us, poor sinners, who "willed to suffer and die to attract souls to the center... of the eternal Hearth of the blessed Trinity."
+
+Yes, Jesus is ready to come to meet all souls of good will, is ready to come to meet even your soul to raise it to the longed-for union, but wishes that you know how to await Him with fidelity in generous and full dedication to His service.
 
 ### Colloquy
 
-"O high and eternal Trinity, Deity, Love, we are
-trees of death and You are tree of life.
-Infinite God, what a spectacle it is to see in Your light the pure tree of Your
-creature! Supreme Purity, You gave branches to this tree,
-that is, the soul's faculties:
-memory, intellect, and
-will... Memory should retain You, intellect know You, will love You... But this tree, because it departed
-from innocence, by disobedience fell, and from tree of
-Life became tree of death, whence it produced fruits
-only of death.
+"O divine Word, You are the adored Eagle that I love and that attracts me. You who, launching Yourself toward the earth of exile, willed to suffer and die to attract souls to the center of the eternal Hearth of the blessed Trinity. You who, remounting toward the inaccessible Light that will be henceforth Your dwelling, remain still in the appearance of a white host... Eternal Eagle, You wish to nourish with Your divine substance me, poor little being, who would return to nothingness if Your divine gaze did not give me life at every instant...
 
-"Wherefore You, high and eternal Trinity, as if
-drunk with love and mad for Your creature, seeing that
-this tree could bear no fruit but of death,
-because it was separated from You who are life, gave it
-the remedy with that same love with which You had created it, grafting Your Deity into the dead tree of our humanity.
-O sweet and gentle graft!... Who constrained You to this,
-to restore life to it, though that creature had done You such
-injury? Love alone; and because of this graft death
-is dissolved.
+"O Jesus, let me in the excess of my gratitude, tell You how Your love pushes even to folly! How before this folly could my heart not launch itself toward You? How could my confidence ever have limits?...
 
-"And was it enough for Your charity to have made this union with it? No, and therefore You, eternal Word, watered this tree with Your Blood.
-This Blood, by its warmth, makes it sprout,
-if man by free will grafts himself into You,
-unites and binds to You his heart and his affection, binding and bandaging this graft with the band of charity, and following Your doctrine.
-So that through You, Life, we produce fruits of
-life, if we wish to be grafted into You. When we are grafted in You, then the branches You gave to our tree bear their fruits" (St. Catherine of Siena).
+"Ah! for You, I know it, even the saints have committed follies, have operated great things, because they were eagles... Jesus, I am too little to do great things and my folly consists in hoping that Your love will accept me as victim.
 
-O Jesus, how much it comforts me to think that my desire for union with You is not a vain chimera, but is already
-a reality: yes, because You willed to graft me into You as the
-branch on the stock, to the point that I live only for this
-union with You. Oh, grant that my soul may keep itself ever more
-closely united to You and open itself ever more to receive the
-vital sap of grace that You produce in me, Your branch!
+"Thus as long as You will, O my Beloved, Your little bird will remain without strength and without wings; always will it dry its eyes fixed on You: it wishes to be fascinated by Your divine gaze, wishes to become prey of Your love. One day, I hope, adored Eagle, You will come to seek Your little bird and, remounting with it to the Hearth of Love, will immerse it for eternity in the eternal abyss of this Love to which it has offered itself victim" *(T.B.G. Lt. 175)*.

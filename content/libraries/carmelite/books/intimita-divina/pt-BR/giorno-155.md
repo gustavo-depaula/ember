@@ -1,7 +1,5 @@
 ## XVI — ARIDEZ E CONTEMPLAÇÃO
 
-**Presenza di Dio.** — *O Signore, aiutami a cercarti e ad unirmi a te, anche attraverso le aridità e le impotenze dello spirito.*
-
 **Presença de Deus.** — *Ó Senhor, atrai-me a ti pela via que Tu queres e como Tu queres; peço-te só a graça de seguir-te sempre.*
 
 ### Meditação

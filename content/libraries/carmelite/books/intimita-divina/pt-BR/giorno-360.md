@@ -1,114 +1,21 @@
-## 38 — JESUS MEDIADOR
-*3 janeiro*
+## 38 — CONFIANÇA E ABANDONO
 
-### Presença de Deus
-
-— Concede-me, ó Senhor Jesus, penetrar o grandioso mistério oculto na tua Encarnação.
+**Presença de Deus.** — *Nas tuas mãos, ó Senhor, me abandono com confiança plena.*
 
 ### Meditação
 
-1—As festas natalinas concentraram os nossos olhares em Jesus, desvelando-nos um pouco o grande "mistério oculto
-desde séculos em Deus" (Ef. 3, 9), mistério que agora queremos considerar em síntese para melhor admirar as suas "insondáveis
-riquezas".
+**1** — "Muitos desejam de ir adiante [no caminho espiritual] e com grande insistência pedem a Deus que os tire e faça passar a este estado de perfeição [o estado de união]; mas quando Ele começa a conduzi-los pelos primeiros trabalhos e mortificações, como é necessário, não se sentem de passar por eles, se retiram, refugindo da angusta senda da vida e buscando a via larga da própria consolação" *(G.C. F.* 2, 27). É este o motivo pelo qual muitas almas não chegam à união com Deus: não querem bater a via da cruz, a única que a ela conduz.
 
-Entre Deus e o homem, distância infinita,
-abismo intransponível, ruptura de toda relação de amizade: é a tremenda
-consequência do pecado. Mas entre Deus e o homem, eis o doce
-Menino de Belém; de repente e completamente a situação muda de aspecto: a distância é preenchida e sobre o abismo se
+Também tu desejas chegar à união divina, mas talvez também tu pensavas de chegar por uma via cômoda, luminosa, alegre, pela via dos sucessos, onde se procede de vitória em vitória, onde se gozam abundantes consolações espirituais, onde se encontra o aplauso, o apoio, a estima dos homens. Mas agora tens certamente entendido que é preciso tomar bem outra via: via estreita, escura, em que a alma descobre toda a sua miséria, em que experimenta toda a sua impotência, em que falta o conforto de Deus e dos homens. Pois bem, sabe que deves aceitar de proceder por esta estrada por todo aquele tempo que a Deus aprazerá. Quantos meses, quantos anos bastarão? Deus só o sabe. Muito frequentemente Ele retém por longo tempo as almas na tenebrosa noite do espírito; aliás, se pode bem dizer que em geral há sempre um pouco de noite enquanto se vive aqui embaixo. O partido mais sábio ao qual apoiar-se é, pois, aquele de remeter-te completamente às disposições de Deus, sem pôr algum limite nem acerca da duração, nem acerca do gênero das provas. Deus sabe o que mais te convém; Ele, que conhece perfeitamente as fraquezas e as necessidades do teu espírito, saberá dosar a cura adequada para sanar os teus males. Não tenhas pressa, mas tem antes muita paciência e assim não te exporás a desilusões. Seja paciência longânime e confiante porque se trata de sofrer, é verdade, mas não se trata de sofrimentos que te vêm de um inimigo, mas do teu maior Amigo, de Deus que te ama assaz mais de quanto possas amar a ti mesmo, que quer o teu bem, a tua felicidade, que deseja a tua santificação muito mais do que tu mesmo possas desejá-la. Confia n'Ele e não serás confundido; confia de olhos fechados e não terás nada a temer.
 
-ergue uma admirável ponte que une a terra ao céu,
-que restabelece as relações de intimidade entre Deus e os homens. Esta
-ponte é Jesus que, "único Mediador entre Deus e os homens,
-junta de modo verdadeiramente admirável a terra ao céu"
-(Myst. Corp.). Na sua função de Mediador Ele está
-verdadeiramente "no meio" entre a Divindade e a humanidade: a sua
-mediação tem todos os títulos para ser perfeitamente agradável
-a Deus, porque Ele mesmo é verdadeiro Deus, e tem todos os requisitos
-para satisfazer plenamente as dívidas da humanidade pecadora,
-porque é também verdadeiro homem e como tal representa
-todo o gênero humano.
-
-Em Jesus a Divindade, toda a Divindade que Ele possui
-enquanto Verbo, encontra-se com a humanidade que Ele possui
-enquanto homem; não só se encontra, mas abraça-se, aliás,
-mais ainda, une-se com ela numa única pessoa, a Pessoa do Verbo Encarnado: Jesus Cristo, Senhor nosso. E
-nele e por ele todos os homens são readmitidos à amizade
-com o Pai celeste; nele todos podem reencontrar a via para
-chegar à união com a Trindade.
-
-O Eterno Pai dignava-se revelar este admirável mistério a Santa Catarina de Siena: "Eu desejo que olhes
-a ponte que vos construí no unigênito meu Filho e
-que observes a sua grandeza que vai da terra ao céu,
-pois nele a grandeza da Divindade está unida à terra
-da vossa humanidade. Isto foi necessário para refazer a via que
-estava rompida e permitir chegar, através da amargura
-deste mundo, à vida eterna" (Diálogo).
-
-2 — "Nele [Jesus] aprouve (ao Pai) que habitasse
-toda a plenitude e por ele fossem reconciliadas consigo todas as
-coisas, tendo-as pacificado pelo Sangue da sua cruz,
-sejam as coisas da terra, sejam as dos céus" (Col. 1, 19 e 20).
-A obra de Jesus Mediador cumpre-se no Calvário, onde
-Ele derrama todo o seu Sangue, preço do nosso resgate;
-mas tal obra inicia-se em Belém, onde o Verbo realiza,
-por assim dizer, aquele inefável "passo de gigante", que o faz
-
-descer do céu à terra, que de verdadeiro Deus o faz também
-verdadeiro homem.
-
-O terrível abismo que o pecado produzira entre Deus
-e os homens já está preenchido pelo Menino que nos estende os
-braços do presépio. Tudo o que o pecado tinha arruinado e destruído vem assim, por vontade de Deus, salvo, "res-
-taurado em Cristo" (Ef. 1, 10). Oh, como à ternura se
-junta uma imensa admiração, como surge espontânea a
-necessidade de louvar e adorar quando se contempla Jesus
-Menino nesta luz!
-
-Aquela graça que Adão tinha recebido diretamente
-de Deus, nós agora a recebemos só por meio de Jesus Mediador;
-tudo o que de sobrenatural chega às nossas almas
-vem-nos sempre das suas mãos. E se queremos chegar a
-Deus, não temos outro meio senão apegar-nos a
-Jesus, senão passar através dele: nosso Mediador, nossa
-ponte, nosso caminho. Jesus o disse: "Eu sou o caminho"
-(Jo. 14, 6); "eu sou a porta. Quem entrar por mim será
-salvo" (Jo. 10, 9). Eis a única condição, a única via de
-salvação, de santidade.
+**2** — Os momentos mais adequados para demonstrar a Deus que te fias cegamente d'Ele, que queres abandonar-te a Ele sem reserva, são justamente aqueles da tenebrosa noite do espírito. Mesmo que te pareça que tudo desmorone sob os teus passos, mesmo que a tempestade te envolva ao ponto de sentir-te tentado contra a fé e a esperança, não deves temer porque nesta noite te encontras de modo todo particular sob a ação do Espírito Santo. É Ele que com a viva chama do seu amor põe a ferro e fogo a tua alma para purificá-la, mas no mesmo tempo Ele mesmo a recobre com a sua sombra infundindo-lhe secretamente a força de resistir e dosando o sofrimento de modo que não supere a capacidade. Não temas, estás em boas mãos, estás protegido pela sombra do Altíssimo e nada de mal te poderá acontecer, contanto que adiras voluntariamente e docilmente à sua ação purificante. Aceita e repete continuamente o teu "fiat"; isto o Senhor quer de ti em tal estado, e deves fazer também no meio das tempestades mais violentas. Esta adesão pura e simples da vontade te agarrará a Deus, te ancorará n'Ele, impedindo-te o naufrágio. Não importa se não sabes fazer e dizer de mais, não importa se és incapaz de longas orações; também Jesus no horto das oliveiras não fez senão repetir esta única protesta: "Pai... seja feita a tua vontade" *(Mt.* 26, 42). Esta seja também a tua oração, oração mais do coração que dos lábios, atitude profunda de pura adesão à vontade de Deus em que deves imergir-te com todas as forças do teu espírito. Tal adesão deve se tornar tão forte, tão plena, tão filial e confiante a transformar-se num prolongado ato de abandono: "Pai, nas tuas mãos recomendo o meu espírito" *(Lc.* 23, 46). Também Jesus formulou este ato no meio do desalento e da desolação, desalento e desolação infinitamente maiores daqueles que tu podes experimentar. Une-te a Jesus agonizante, apoia-te n'Ele e n'Ele encontrarás a força para perseverar até o fim.
 
 ### Colóquio
 
-"Ó Deidade eterna, ó alto Eterno Pai, em ti eu vejo
-amor inestimável... vejo o amor que te constrangeu a
-abrir o olho da tua piedade sobre nós miseráveis, por isso
-enviaste o Verbo, o unigênito teu Filho,
-Verbo, palavra encarnada, velado da nossa miserável carne, vestido da
-nossa mortalidade. E Tu, Jesus Cristo, reconciliador,
-reformador e Redentor nosso, fizeste-te mediador, Verbo,
-amor; e da grande guerra que o homem tinha com Deus fizeste
-a grande paz; puniste as nossas iniquidades e a desobediência de Adão sobre o teu corpo, sendo obe-
-diente até à vergonhosa morte da cruz!...
+«Onde está, ó meu Deus, o sol da tua graça? A me parece obscurecido; a bondade tua me parece del todo subtraída à alma minha. Agora sou abandonada como um corpo que, não tendo algum membro, não se pode ajudar, ou como um tronco estéril, porém, vindo a me subtraída a graça tua, não me posso ajudar. Ó meu Deus, estende sobre mim a tua destra e dá-me fortaleza.
 
-"Para qualquer lado que me volto, encontro inefável amor; e não me posso desculpar de não amar, porque Tu
-só, Deus e Homem, és aquele que me amaste sem seres
+«Ó Eterno Pai, se será comigo o teu Verbo, quem me poderá contradizer? Quem me poderá mover, não que abater e vencer? Baterão as tempestades a casca, mas não o íntimo do coração. Se quiserem dar pena a darão, e eu voluntariamente a aceito porque assim Tu queres, mas não poderão nunca inquietar o ânimo sempre abandonado ao teu beneplácito. Quietarei toda turbulência pensando que estes trabalhos vêm do teu querer e me imergirei na baixeza do meu ser. Se estas penas me aprofundarem no inferno, me elevarão ao céu com o teu auxílio, e no teu nome superarei toda luta.
 
-amado por mim; porque eu não era, e Tu me fizeste. Tudo
-aquilo que eu quero amar, eu encontro em ti, exceto o pecado...
-Se quero amar Deus, tenho a tua inefável Deidade;
-se quero amar o homem, Tu és homem...;
-se quero amar o Senhor, Tu pagaste o preço do teu Sangue, tirando-me da
-servidão do pecado. Tu és Senhor, Pai e Irmão nosso
+«Não obstante conheço a fragilidade minha e durante esta prova, breve ou longa, como a ti apraz, enquanto insurgem muitas batalhas, sei bem que deverei fazer; confiarei em ti e não desmoronarei em eterno» (S. M. Madalena de' Pazzi).
 
-por tua benignidade,
-e desmedida caridade... Tu, Deidade,
-suma sabedoria, eu ignorante miserável criatura;
-Tu, suma e eterna bondade. Eu morte, e Tu és vida; eu trevas, e Tu luz; eu
-estultícia, e Tu sabedoria; Tu infinito, e eu finita; eu enferma, e Tu médico; eu frágil pecadora que nunca te amei;
-Tu beleza puríssima, e eu vilíssima criatura. Tu, por
-amor inefável, me tiraste de ti, e a todos nós atrais a ti por
-graça e não por dívida, se quisermos deixar-nos atrair a ti,
-isto é, se a nossa vontade não se rebelar à tua" (Santa Catarina de Siena).
-
-"Ó Cristo Deus, doce amador dos homens, a ti invoco,
-rogo, suplico, para que por ti eu caminhe, a ti chegue,
-em ti repouse, que és caminho, verdade e vida; sem o qual ninguém
-chega ao Pai" (S. Agostinho).
+«Mestre santo, faze que à tua imitação, o beneplácito divino seja o meu nutrimento, o meu pão cotidiano; faze que à tua imagem, ó Cristo adorado, me deixe imolar de todas as vontades do Pai. Se às vezes os seus quereres são mais crucificantes, sem dúvida posso repetir contigo: "Pai, se é possível, passe de mim este cálice"; mas me acrescentarei logo: "não como quero eu, mas como queres Tu", e com força e com calma subirei também eu o meu calvário junto contigo, divino Crucificado! Subirei cantando interiormente ao Pai um hino de agradecimento, porque aqueles que vão por esta via dolorosa são aqueles "que Ele conheceu e predestinou a ser conformes à imagem do seu divino Filho", crucificado por amor» *(E.T. I,* 3 e 8).

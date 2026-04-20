@@ -1,24 +1,22 @@
-## 291 — A CORAGEM
+## XXX — A CORAGEM
 
-### Presença de Deus
-
-Ó Senhor, faze-me tornar um soldado forte e corajoso no teu serviço.
+**Presença de Deus.** — Ó Senhor, faze-me tornar um soldado forte e corajoso no teu serviço.
 
 ### Meditação
 
-1. — Quanto mais uma alma ama o Senhor, tanto mais será corajosa para empreender por amor dele qualquer obra, por mais árdua que possa ser. O medo da fadiga, do sofrimento e do risco é o grande inimigo da fortaleza: paralisa a alma e a faz recuar diante do dever. A coragem, ao contrário, impulsiona-a, levando-a a enfrentar qualquer coisa para ser fiel a Deus. Nesse sentido, a coragem leva a abraçar até a morte, até o martírio, quando for necessário para não faltar ao dever. O martírio é o ato máximo da fortaleza cristã, ato que não é exigido de todos, mas que, todavia, convém não excluir de nosso horizonte.
+**1** — Quanto mais uma alma ama o Senhor, tanto mais será corajosa para empreender por amor dele qualquer obra, por mais árdua que possa ser. O medo da fadiga, do sofrimento e do risco é o grande inimigo da fortaleza: paralisa a alma e a faz recuar diante do dever. A coragem, ao contrário, impulsiona-a, levando-a a enfrentar qualquer coisa para ser fiel a Deus. Nesse sentido, a coragem leva a abraçar até a morte, até o martírio, quando for necessário para não faltar ao dever. O martírio é o ato máximo da fortaleza cristã, ato que não é exigido de todos, mas que, todavia, convém não excluir de nosso horizonte.
 
 Todo cristão é, por assim dizer, um mártir em potência, no sentido de que a virtude da fortaleza, infundida no batismo e na crisma, o torna capaz, em caso de necessidade, de sacrificar até a própria vida por amor de Deus. E, se de fato nem todos os cristãos são chamados a dar ao Senhor esse supremo testemunho, todos, porém, devem viver como soldados corajosos, habituando-se a nunca desertar — nem no pouco nem no muito — o próprio dever por temor do sacrifício.
 
 É verdade: a virtude da fortaleza não nos isenta do medo e do pavor que invadem nossa natureza diante dos sacrifícios, dos perigos e, sobretudo, diante do perigo da morte; porém a fortaleza — como todas as demais virtudes — se exerce com a vontade, e por isso é possível cumprir atos de coragem apesar do medo que invade a parte sensível. Nesses casos a coragem cumpre uma dupla função: vence o medo e enfrenta o dever difícil. Tal foi o ato supremo de fortaleza realizado por Jesus no horto das oliveiras, quando, apesar da angústia de sua humanidade, aceitou beber o amarguíssimo cálice de sua Paixão. Justamente unindo-nos a esse ato do Salvador encontraremos força para abraçar qualquer dever sacrificante.
 
-2. — Também quem é tímido por natureza pode tornar-se corajoso pela graça; mas não se deve pretender que a graça atue sem nossa colaboração. A virtude da fortaleza foi dada a todos os cristãos e, nesse sentido, é virtude infusa; mas cabe a nós colocá-la em ato mediante o exercício e, nesse sentido, ela deve tornar-se virtude adquirida. Assim, aliás, se dá com todas as virtudes teologais e morais infusas na alma juntamente com a graça: são capitais que frutificam somente se soubermos empregá-los com boa vontade.
+**2** — Também quem é tímido por natureza pode tornar-se corajoso pela graça; mas não se deve pretender que a graça atue sem nossa colaboração. A virtude da fortaleza foi dada a todos os cristãos e, nesse sentido, é virtude infusa; mas cabe a nós colocá-la em ato mediante o exercício e, nesse sentido, ela deve tornar-se virtude adquirida. Assim, aliás, se dá com todas as virtudes teologais e morais infusas na alma juntamente com a graça: são capitais que frutificam somente se soubermos empregá-los com boa vontade.
 
 Como se torna humilde quem pratica atos de humildade, assim se torna forte e corajoso quem pratica atos de coragem. Não está em nós evitar o medo sensível que, derivando do temperamento, sofremos a nosso pesar; mas está em nós impedir que invada a vontade, paralisando nossos movimentos. É preciso, portanto, reagir energicamente, lançando-nos em nome de Deus a fazer o que devemos, sem parar para discutir com o medo. «Muitas almas dizem: não tenho forças para fazer tal sacrifício. Mas, adiante, façam esforços! Deus nunca recusa a primeira graça, que confere a coragem de agir; depois disso o coração se fortifica e se vai de vitória em vitória». É preciso decidir-se a agir apesar dos sobressaltos e temores da natureza.
 
 Isso é particularmente necessário naquelas circunstâncias em que, seja por fraqueza física, seja pela privação do apoio sensível da graça, até as menores dificuldades nos parecem montanhas e tudo nos assusta; pois, se esperássemos para agir somente quando sentíssemos ter coragem, nunca chegaríamos a termo em coisa alguma. «Que importa — dizia a Santa de Lisieux a uma noviça — se não tem coragem, contanto que aja como se a tivesse?» (CR). Os atos de coragem realizados sem sentir força são mais puros e mais sobrenaturais: mais puros porque não dão lugar a sentimentos de orgulho, mais sobrenaturais porque se apoiam não nos recursos da natureza, mas unicamente nos da graça. Ao contrário, os atos de coragem realizados por disposição natural permanecem muitas vezes simples atos humanos e são fácil isca para o amor-próprio. Por isso, quem é forte por natureza deve habituar-se a não confiar em sua fortaleza, mas a apoiar-se em Deus e em sua graça, sem os quais toda fortaleza humana é extrema fraqueza.
 
-### Colóquio
+### Colloquio
 
 «Ó Senhor, Deus dos exércitos, que em teu Evangelho disseste: “Não vim trazer a paz, mas a guerra”, dá-me força e armas para a luta. Eu ardo do desejo de combater por tua glória, mas, suplico-te, fortalece minha coragem. Então, com o santo rei Davi, poderei exclamar: “Só tu és meu escudo; és tu, Senhor, que adestraste minhas mãos para a guerra”.
 

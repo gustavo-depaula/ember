@@ -1,4 +1,4 @@
-## 226 — VIVER COM A TRINDADE
+## XXVI — VIVER COM A TRINDADE
 
 **Presença de Deus.** — *Ó Pai, ó Filho, ó Espírito Santo, recebei-me no vosso abraço, dignai-vos admitir-me à vossa intimidade.*
 

@@ -1,12 +1,10 @@
 ## 329 — IDEAL APOSTÓLICO
 
-### Presença de Deus
-
-Acende em mim, Senhor, a chama do apostolado e alimenta-a com teu amor.
+**Presença de Deus.** — *Acende em mim, Senhor, a chama do apostolado e alimenta-a com teu amor.*
 
 ### Meditação
 
-1. — Como a semente não pode germinar a haste que levará uma nova espiga se antes não afunda as raízes na terra, assim a alma não pode dar frutos para o apostolado se antes não põe as raízes de uma séria vida interior, mediante a qual tirará do próprio Deus a seiva que a tornará fecunda. A vida interior é o princípio vital, é a força, é a chama do apostolado.
+**1** — Como a semente não pode germinar a haste que levará uma nova espiga se antes não afunda as raízes na terra, assim a alma não pode dar frutos para o apostolado se antes não põe as raízes de uma séria vida interior, mediante a qual tirará do próprio Deus a seiva que a tornará fecunda. A vida interior é o princípio vital, é a força, é a chama do apostolado.
 
 Mas, por outro lado, também o apostolado pode trazer sua contribuição à vida interior, cooperando para torná-la mais generosa, mais intensa. Quando uma alma é tomada pelo ideal apostólico, seu próprio desejo de conquistar outras almas para Deus impele-a a empenhar-se com maior generosidade na oração, na mortificação, no exercício das virtudes, justamente com o intento de tornar-se mais capaz de um apostolado fecundo.
 
@@ -16,9 +14,9 @@ O sistema de vida do Carmelo teresiano — vida contemplativa de profunda intens
 
 Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII).
 
-Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo. 17, 19).
+Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo 17, 19).
 
-2. — Uma vida interior na qual não brilha o ideal apostólico nunca poderá ser plena e vigorosa. Isto depende da natureza da graça e da caridade, que são por si mesmas expansivas, apostólicas.
+**2** — Uma vida interior na qual não brilha o ideal apostólico nunca poderá ser plena e vigorosa. Isto depende da natureza da graça e da caridade, que são por si mesmas expansivas, apostólicas.
 
 Embora a graça adira de modo íntimo e incomunicável à alma que dela é dotada, no entanto aproveita ao bem de toda a comunidade cristã. O dogma da comunhão dos santos nos diz precisamente que a graça e a santidade de um membro de Cristo redunda em vantagem de todos os outros membros.
 

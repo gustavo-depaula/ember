@@ -1,13 +1,11 @@
 ## 22 — EIS QUE VEM O SALVADOR
 *IV domingo do Advento*
 
-### Presença de Deus
-
-Ó Jesus, no teu poder, no teu amor infinito, na tua Paixão deponho toda esperança pelas almas que me confiaste.
+**Presença de Deus.** — *Ó Jesus, no teu poder, no teu amor infinito, na tua Paixão deponho toda esperança pelas almas que me confiaste.*
 
 ### Meditação
 
-1 — "Reuni as nações; anunciai aos povos e dizei: Eis que vem Deus, nosso Salvador" (BR).
+**1** — "Reuni as nações; anunciai aos povos e dizei: Eis que vem Deus, nosso Salvador" (BR).
 A mensagem faz-se cada vez mais urgente: dentro de poucos dias
 
 o Verbo de Deus feito carne mostrar-se-á ao mundo. É preciso,
@@ -32,7 +30,7 @@ Com este amor prepara-te para o Natal e neste
 amor sê fiel porque, como diz São Paulo na Epístola
 (I Cor. 4, 1-5), "o que se requer é que cada um seja encontrado fiel".
 
-2 — "Preparai o caminho do Senhor, endireitai os seus
+**2** — "Preparai o caminho do Senhor, endireitai os seus
 sendas. Todo vale será preenchido, todo monte e toda colina serão rebaixados". No Evangelho de hoje (Lc. 3, 1-6)
 ergue-se ainda uma vez a voz do Batista, o grande
 pregador do Advento, que nos convida a preparar "o

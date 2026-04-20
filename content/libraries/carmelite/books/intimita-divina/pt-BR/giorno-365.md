@@ -1,110 +1,27 @@
-## 43 — JESUS VIDEIRA VERDADEIRA
+## 43 — AMOR HUMILDE E REVERENTE
 
-### Presença de Deus
-
-— Faze-me compreender, ó Senhor, as íntimas relações existentes entre ti, Redentor, e nós, teus redimidos.
+**Presença de Deus.** — *Ó Deus, que sois tão grande, dignai-Vos elevar até Vós a minha alma tão pequena e mísera.*
 
 ### Meditação
 
-1 — Jesus é o único "Mediador entre Deus e os homens"
-(1 Tim. 2, 5); Ele, porém, não se contentou em redimir-nos
-permanecendo separado de nós, seus redimidos, mas quis que
-toda a nossa redenção se operasse nele, mediante uma
-estreitíssima união entre Ele e nós. É este o grande mistério
-da nossa incorporação a Cristo, por Ele mesmo revelado
-aos Apóstolos na noite precedente à sua Paixão. "Eu sou
-a videira verdadeira e meu Pai é o vinhateiro... Permanecei em
-mim e eu permanecerei em vós. Como o ramo não pode dar
-fruto por si mesmo se não permanece na videira, assim tampouco vós, se não permanecerdes em mim" (Jo. 15, 1-4).
+**1** — O amor que impele audazmente a alma à conquista da união divina é, ao mesmo tempo, cheio de reverência e de respeito, já que muito mais do que antes a alma intui quanto seja sublime e excelsa a Majestade de Deus. Se, de um lado, o amor torna-a impaciente de unir-se com Ele, de outro a contínua e clara consciência da sua miséria torna-a mais do que nunca solícita no vigiar-se atentamente para que na sua conduta não haja nada que possa desagradar a tão excelsa Majestade.
 
-Jesus afirma fortemente que não existe redenção, não
-há vida sobrenatural, vida de graça, senão para quem vive
-nele, enxertado nele; exatamente como no ramo não há
-vida e não há frutos, senão enquanto está unido ao
-tronco. Eis a estreitíssima conexão que Jesus quis operar entre Ele e nós, conexão indispensável para a
-nossa salvação, para a nossa santificação. Nem mesmo o
-mínimo grau de graça pode vir-nos sem a mediação
-de Cristo; exatamente como a menor gota de seiva não
-pode chegar ao ramo se este está desligado da árvore.
+«A alma — diz o Doutor místico — logo vê em si uma verdadeira e eficaz determinação a não fazer aquilo que entende ser ofensa de Deus, nem de omitir alguma coisa que diga respeito ao seu serviço... Nutre um pensamento assaz vigilante e solícito daquilo que deve fazer ou deixar para agradar ao Senhor, examinando e esquadrinhando mil vezes a si mesma para ver se de algum modo O tenha ofendido» *(N. II,* 16, 14). Evidentemente trata-se aqui de coisa muito superior à simples fuga do pecado, trata-se da resolução firme de fugir qualquer imperfeição, omissão ou negligência advertida e pois a alma sabe por experiência que, não obstante toda a sua boa vontade, muitas de tais faltas poderão escapar-lhe ainda por desatenção ou por fragilidade, quer intensificar a sua vigilância para evitar o mais possível também estas.
 
-Além disso, Jesus declara que, permanecendo nele, não só
-nós temos a vida sobrenatural, mas nos tornamos objeto
-de particular cuidado por parte do Pai celeste, que é "o agricultor" da mística videira. De fato o Pai celeste
-nos conhece como seus filhos adotivos e como tais nos ama e
-cuida de nós, só enquanto nos vê em Cristo, seu único Filho
-amado. A graça de adoção abraça só aqueles que o Pai
-encontra estreitamente unidos ao seu Unigênito, de tal modo
-que sejam "parte viva" dele, como o ramo é parte
-viva da videira.
+É uma solicitude que deriva do amor e não do escrúpulo, verdadeira solicitude amorosa semelhante àquela que fazia continuamente repetir a Santa Teresa Margarida do Coração de Jesus: «Agora que faço nesta ação? Amo o meu Deus?» *(Sp.* p. 323), ou àquela que a Beata Ângela da Foligno exprimia com a infuocada expressão: «Vede, ó Senhor, se em mim há outra coisa que não seja amor!».
 
-2 — "Permanecei em mim". Não se pode permanecer se não
-se está. Jesus nos diz para "permanecer"
-nele, justamente porque o nosso enxerto nele é um fato já cumprido,
-merecido para todos os homens pela sua morte de cruz, e
-realizado individualmente para cada um de nós no momento do
-batismo. Cristo, ao preço do seu Sangue, uniu-nos
-a si; nós portanto "estamos" nele, mas cabe a nós
-"permanecer" nele do modo mais pleno e vital.
+Se queres um sinal seguro do teu amor por Deus, olha quanto és firme no propósito de fugir toda mínima coisa que Lhe despraza; deve ser um propósito tão radicado na tua vontade que não só te seja continuamente presente — como o são as coisas que te preocupam deveras — mas seja também válido a reter-te de toda imperfeição logo que a advertas. Isto é absolutamente indispensável porque, como ensina São João da Cruz, «a fim de que a alma venha a unir-se perfeitamente com Deus por vontade e por amor... requer-se que não consinta com conhecimento e advertência a nenhuma imperfeição, e que tenha também o poder e a liberdade de não consentir enquanto a adverta» *(S. I,* 11, 3).
 
-Se para ser enxertados em Cristo basta o batismo,
-e se basta um só grau de graça para permanecer nele como
-ramos vivos, não devemos contentar-nos com isso. Devemos ser conscientes do imenso dom recebido e procurar
-que o nosso enxerto em Cristo se torne sempre mais profundo;
-devemos "viver" desta união com Cristo,
-o centro, o sol da nossa vida interior. Não por acaso
-Jesus disse: "Permanecei em mim"; quis assim indicar
-que a nossa vida nele requer a nossa colaboração pessoal:
-devemos aplicar todas as nossas forças,
-a nossa mente, a nossa vontade, o nosso coração para querer
-viver nele e dele. Quanto mais nós nos aplicarmos a
-permanecer em Cristo, tanto mais afundaremos nele o nosso
-pequeno ramo, e Ele nos comunicará cada vez mais abundan-
-te seiva da graça.
-"Permanecei em mim e eu permanecerei em vós"; à medida que,
-por meio da fé, da caridade e das obras boas, nos
-mantivermos estreitamente unidos a Cristo, Ele se manterá em nós,
-comunicando-nos continuamente nova vida de graça. Seremos
-então não só ramos vivos, mas ricos de frutos, frutos de
-santidade destinados a alegrar o coração de Deus porque Jesus
-disse: "Meu Pai será glorificado se produzirdes
-frutos copiosos" (Jo. 15, 8).
+**2** — O conhecimento da própria baixeza mantém a alma humilde no seu amor, fugando dela toda presunção. Bem longe de contar sobre os seus méritos e sobre as suas obras boas vê claramente que, por quanto faça, tudo é nada em comparação à excelsa majestade de Deus, «por conseguinte reputa-se inútil em tudo aquilo que faz, e lhe parece de viver em vão» *(G.C. N. II,* 19, 3). As palavras do Evangelho: «somos servos inúteis» *(Lc.* 17, 10) são para ela de uma atualidade viva e exprimem muito bem o seu estado de alma habitual. É demasiada a luz que o Espírito Santo lhe infunde para cair em alguma ilusão acerca do seu valor ou para envaidecer-se das suas obras. Mas, antes, «com grande persuasão se julga por mais má de todos: primeiro, porque o amor lhe ensina aquilo que Deus merece; segundo, porque sendo muitas as obras que faz em serviço d'Ele e conhecendo-as defeituosas e imperfeitas, de todas retrai suma confusão e pena, e compreende que o seu baixo modo de proceder é demasiado indigno de um tão alto Senhor» *(G.C. N. II,* 19, 3). É belo considerar como esta profunda humildade não é só fruto de luz, mas também de amor: o amor lhe faz talmente apreciar Deus que, embora desejando-O com ardor de possuí-Lo, é profundamente persuadida de ser del todo incapaz de atingi-Lo. De outra parte, embora humilde e reverente, o amor mantém a sua característica audácia e não cessa de aspirar à união divina. Justamente neste sentido Santa Teresa do Menino Jesus escrevia: «Apesar da minha fraqueza ouso fixar o Sol divino, o Sol do Amor»; a Santa, que com toda simplicidade se comparava a um passarinho de primeiro pelo incapaz de alçar o voo, vê bem que sozinha não poderá jamais elevar-se tão alto e todavia não perde as suas esperanças. Se não pode contar sobre as suas forças, sabe de poder contar sobre o amor de Jesus, Verbo divino, que se encarnou justamente para vir em busca de nós, pobres pecadores, que «quis sofrer e morrer para atrair as almas até ao centro ... do eterno Fogo da Trindade beata».
+
+Sim, Jesus está pronto a vir ao encontro de todas as almas de boa vontade, está pronto a vir ao encontro também da tua alma para elevá-la à bramada união, mas quer que tu O saibas esperar com fidelidade na generosa e plena dedicação ao seu serviço.
 
 ### Colóquio
 
-"Ó alta e eterna Trindade, Deidade, Amor, nós somos
-árvores de morte e Tu és árvore de vida.
-Deus infinito, que espetáculo é ver na tua luz a árvore pura da tua
-criatura! Pureza suprema, Tu deste ramos a esta árvore,
-isto é, as potências da alma:
-a memória, o intelecto e a
-vontade... A memória devia reter-te, o intelecto conhecer-te, a vontade amar-te... Mas esta árvore, porque se apartou
-da inocência, pela desobediência caiu, e de árvore de
-Vida tornou-se árvore de morte, donde não produzia frutos
-senão de morte.
+«Ó Verbo divino, sois Vós a Águia adorada que eu amo e que me atrai. Sois Vós que, lançando-Vos para a terra de exílio, quisestes sofrer e morrer para atrair as almas ao centro do eterno Fogo da Trindade beata. Sois até ao centro do eterno Fogo da Trindade beata. Vós que, remontando para a inacessível Luz que será de ora em diante o Vosso soggiorno, permaneceis ainda na aparência de uma cândida hóstia... Águia eterna, Vós quereis nutrir da Vossa divina substância eu, pobre pequeno ser, que tornarei ao nada se o Vosso olhar divino não me desse a vida a cada instante...
 
-"Pelo que Tu, alta e eterna Trindade, como que
-embriagada de amor e louca da tua criatura, vendo que
-esta árvore não podia produzir outro fruto senão de morte,
-porque estava separada de ti, que és vida, deste-lhe
-o remédio com aquele mesmo amor com que a havias criado,
-enxertando a tua Deidade na árvore morta da nossa huma-
-nidade. Ó doce e suave enxerto!... Quem te constrangeu a isso,
-para devolver-lhe a vida, tendo ela criatura feito tanta
-injúria a ti? Somente o amor; de modo que por este enxerto se
-dissolve a morte.
+«Ó Jesus, deixai que no excesso da minha riconoscência, Vos diga como o Vosso amor se impele até à loucura! Como quereis diante desta loucura o meu coração não se lançasse para Vós? Como poderia jamais a minha confiança ter limites?...
 
-"E bastava à tua caridade ter feito com ela esta união?
-Não, e por isso Tu, Verbo eterno, regaste esta árvore
-com o teu Sangue. Este Sangue, pelo seu calor, a faz
-germinar, se o homem com o livre-arbítrio se enxerta em ti,
-contigo une e liga o coração e o afeto seu, ligando e enfaixando este enxerto com a faixa da caridade e seguindo a tua doutrina.
-Assim, por ti, Vida, produzimos frutos de
-vida, se quisermos enxertar-nos em ti. Quando nós somos enxertados em ti, então os ramos que Tu deste à nossa árvore
-produzem os seus frutos" (Santa Catarina de Siena).
+«Ah! por Vós, eu o sei, também os santos cometeram loucuras, operaram grandes coisas, porque eram águias... Jesus, eu sou demasiado pequena para fazer grandes coisas e a minha loucura consiste em esperar que o Vosso amor me aceite qual vítima.
 
-Ó Jesus, quanto me conforta pensar que o meu desejo de união contigo não é uma vã quimera, mas é já uma
-realidade: sim, porque Tu quiseste enxertar-me em ti como o
-ramo no tronco, a tal ponto que eu vivo só por esta
-união contigo. Oh, faze que a minha alma se mantenha sempre mais
-estreitamente unida a ti e se abra sempre mais para acolher a
-seiva vital da graça que Tu produzes em mim, teu ramo!
+«Assim como quiserdes, ó meu Dileto, o Vosso passarinho se remeterá sem força e sem asas; sempre tersá os olhos fixos em Vós: quer ser fascinado pelo Vosso olhar divino, quer tornar-se presa do Vosso amor. Um dia, espero, Águia adorada, Vós vireis buscar o Vosso passarinho e, remontando com ele ao Fogo do Amor, o imergireis pela eternidade no eterno abismo deste Amor ao qual se ofereceu vítima» *(T.B.G. Lt.* 175).

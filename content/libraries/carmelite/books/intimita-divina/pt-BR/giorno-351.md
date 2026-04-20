@@ -1,99 +1,29 @@
-## 29 — APARECEU O SALVADOR
-*25 dezembro*
+## 29 — A UNIÃO COM DEUS
 
-### Presença de Deus
-
-Meu Deus, que me criaste para ti, faze que eu possa voltar a ti e a ti unir-me por amor.
+**Presença de Deus.** — *Meu Deus, que me criaste para ti, faze que eu possa levar-me a ti e a ti unir-me por amor.*
 
 ### Meditação
 
-i — Deus é caridade, Deus nos amou com amor eterno!
-"Parece que o Senhor dissesse: o homem não me ama porque não me vê; quero fazer-me ver por ele e assim fazer-me
-amar. O amor divino para com o homem era demasiado grande e
-assim sempre fora ab aeterno; mas este amor ainda não tinha
-aparecido... Então verdadeiramente apareceu quando o Filho de Deus se fez ver menino numa estrebaria, sobre um pouco
-de palha" (S. Afonso). Eis o mistério natalino; eis o grito exultante de São Paulo: "A graça de Deus, nosso Salva-
-dor, manifestou-se a todos os homens... Apareceu a bondade e
-o amor pelos homens de Deus, nosso Salvador" (Ep. na
-II Missa: Tit. 2, 11-15; 3, 4-7). Eis o bem-aventurado anúncio
-"da grande alegria" que o Anjo traz aos pastores:
-"Hoje vos nasceu um Salvador, que é o Cristo Senhor"
-(Ev. I Missa: Lc. 2, 1-11). Na liturgia de hoje os textos
-se sucedem em tom de exultação crescente para enaltecer
-o dulcíssimo Menino Jesus, o Verbo humanado, vivo e pulsante no meio de nós: "Quem vistes, pastores? Dizei-o,
-anunciai-no-lo: quem apareceu na terra? O Menino
-vimos e hostes de anjos que louvavam em coro o
-Senhor" (BR.). "Alegrem-se os céus e exulte toda a terra
-na presença do Senhor!" (MR.). O nosso Deus está
-aqui, no meio de nós, feito um de nós: "Nasceu-nos um
-Menino, foi-nos dado um Filho... o seu nome é: Admirável, Deus, Príncipe da paz, Pai do século fu-
-turo... Exulta filha de Sião, canta filha de Jerusalém...
-Jubilai ao Senhor, habitantes da terra! Vinde, ó nações,
-e adorai o Senhor" (BR.).
+**1** — Toda a vida do homem é um caminho de retorno a Deus: de Deus veio e a Deus deve voltar; quanto mais total for seu retorno, até tornar-se união íntima com Deus, tanto mais terá atingido o fim para o qual foi criado, e portanto será perfeito e eternamente feliz. São Tomás ensina que uma coisa é perfeita quando atinge seu fim; assim a perfeição do homem consiste em alcançar Deus e unir-se a ele, nosso fim último. Na união com Deus o homem encontra tudo o que pode desejar; encontra sua paz, encontra a satisfação de sua ânsia de infinito, de sua sede de amor e felicidade imperecível: «Fizeste-nos para ti, ó Senhor, e nosso coração está inquieto, enquanto não repousa em ti» (Santo Agostinho); na união com Deus o homem encontra sua felicidade eterna. A vida do céu não é outra coisa senão esta união com Deus, levada à sua última perfeição; justamente porque perfeitamente unido a Deus, o homem lhe dará então a máxima glória, o máximo amor e isto redundará para o próprio homem em beatitude eterna.
 
-Vamos, vinde, adorai, escutai, jubilai: Jesus, o Verbo
-do Pai, nos diz uma grande palavra: Deus vos ama!
+A alma que verdadeiramente ama Deus não se resigna a esperar o céu para unir-se a ele, mas anseia antecipar aqui embaixo esta união. É possível? Sim, porque Jesus o disse: «Se alguém me ama, guardará a minha palavra, e o meu Pai o amará e viremos a ele e faremos morada nele» (Jo 14, 23); e com estas palavras o próprio Senhor nos indica a condição para viver unidos a ele: o amor. «Quem permanece na caridade, permanece em Deus e Deus nele» (1 Jo 4, 16). O amor é a grande força que nos une a Deus desde esta vida onde, aprisionados na matéria, não podemos ainda gozar o contato direto, a visão facial dele.
 
-2 — As três Missas natalinas põem diante de nós um
-quadro majestoso: a comovente descrição do nascimento
-de Jesus enquanto homem alterna-se com a sublime da
-geração eterna do Verbo no seio do Pai e não faltam
-alusões ao nascimento de Cristo nas almas por meio da
-graça. Mas este tríplice nascimento não é senão uma única manifestação de Deus-Caridade. Ninguém, nesta terra, podia
-conhecer o amor de Deus, mas o Verbo, que está no seio do
-Pai, conhece-o e pode revelá-lo. O Verbo se fez carne e nos mostrou o amor de Deus; por Ele, a sua incom-
-preensível e invisível caridade tornou-se evidente, palpável naquele doce Menino que do presépio nos estende os braços. O
-Prefácio de hoje o declara expressamente: "Eterno Deus,
-pelo mistério da Encarnação do Verbo um novo raio
-da tua luz vem resplandecer diante dos olhos da nossa mente para que, conhecendo sensivelmente Deus,
-sejamos arrebatados ao amor das coisas invisíveis". Sim, aquele
-"Menino envolto em faixas e deitado numa manjedoura" é o nosso Deus, feito para nós sensível, visível, o nosso Deus que nos
-mostra do modo mais concreto a sua caridade infinita. Não se
-pode contemplar o pequeno Jesus sem sentir-se tomado, arrebatado
-pelo amor infinito que no-lo deu; Jesus Menino nos
-revela o amor de Deus, manifesta-no-lo na forma mais clara e mais comovente.
+«O fim da vida espiritual — diz São Tomás — é que o homem se una a Deus, o que se faz mediante o amor» (IIª IIae, q. 44, a. 1, co.). Com os passos do amor — *gressibus amoris* — caminhamos para nosso fim último: a união com Deus. A união de amor com Deus, eis o grande ideal que deve iluminar e dirigir toda a nossa vida, eis a grande meta que, com o auxílio divino, queremos alcançar desde já aqui embaixo, na medida do possível à nossa condição de viadores.
 
-São Paulo na Epístola (Heb. 1, 1-11) da terceira Missa
-natalina diz: "Deus... nestes últimos tempos falou-nos por
-meio de seu Filho... reflexo da sua glória e impressão da sua substância". Jesus, Verbo Encarnado, no seu
-silêncio de menino impotente, fala-nos e revela-nos a
-substância de Deus: a caridade de Deus.
+**2** — São João da Cruz explica em que consiste a união de amor com Deus. Não se trata da *união substancial* que sempre existe entre Deus e todas as coisas criadas e mediante a qual «Ele conserva-lhes o ser que têm». Tal espécie de união é *natural* e não pode nunca faltar em nenhuma criatura, nem mesmo no pecador; ao contrário, a união de amor é *sobrenatural* e não se verifica sempre, mas apenas nas almas em graça. «Embora Deus — diz o Santo — esteja sempre presente na alma, e conserve com sua assistência o ser natural, nem sempre porém lhe comunica o sobrenatural. Com efeito, este não se comunica senão por meio do amor e da graça divina, que nem todas as almas possuem; e aquelas que estão em graça de Deus não o estão em igual grau, mas umas têm um grau de amor mais ou menos intenso que outras». Eis a conclusão: «Une-se mais a Deus aquela alma que mais progrediu no amor» (S. II, 5, 3 e 4).
+
+O ponto de partida para a união de amor com Deus é o estado de graça; o ponto de chegada é o pleno desenvolvimento da graça, de modo que a alma permaneça totalmente sobrenaturalizada e todas as suas forças, toda a sua vontade, todo o seu afeto se concentrem em Deus, não desejando e não amando mais senão aquilo que Deus quer e ama. A graça é a vida de Deus em nós, vida que se desenvolve mediante o progresso do amor. Quanto mais a alma ama, mais cresce nela a graça; consequentemente sua participação na vida divina torna-se mais profunda e a conduz a uma união com Deus cada vez mais intensa e perfeita. A graça e o amor são o germe preciosíssimo da união com Deus; eles põem a alma em comunhão íntima com ele: comunhão de vida, de pensamento, de vontade. Deus permanece sempre Deus, distinto da criatura; a criatura conserva sempre sua personalidade e contudo a alma vem assim permeada de vida divina, Deus lhe «comunica de tal modo seu ser sobrenatural que parece mais Deus que alma» (cf. *ibi*, 7).
+
+Eis o último termo da união com Deus na terra. Termo altíssimo, mas sobre o qual não é temerário fixar o olhar, já que na graça batismal cada um de nós recebeu o germe da união com Deus.
 
 ### Colóquio
 
-"Ó poderosa e eterna Trindade! Ó dulcíssima e inefável Caridade! quem não se inflamaria em tanto amor? Qual
-coração poderia defender-se de consumir-se por ti?
+«Ó Jesus, quem me dará a graça de formar um só espírito contigo? Eu certamente, ó Senhor, rejeitando a multiplicidade das criaturas, quero somente tua unidade! Ó Deus, Tu és o único um, a única unidade necessária à minha alma! Ah, caro Amigo do meu coração, une esta única pobre alma minha à unicíssima tua bondade! Tu és todo meu; quando serei eu todo teu? A imã atrai o ferro e o aperta a si; Senhor Jesus, meu Amante, sê a imã do meu coração: aperta, prende, une para sempre meu espírito a teu paterno peito! Oh, pois sou feito para ti, por qual motivo não estou em ti? Mergulha esta gota que é meu espírito, dado por ti, no mar de tua bondade, de onde procede. Senhor, já que teu coração me ama, por que não me rapta a si, desejando-o eu tanto? Atrai-me, e correrei atrás de tuas atrações para lançar-me em teus braços e não mais mover-me de lá pelos séculos dos séculos. Amém» (São Francisco de Sales).
 
-"Ó abismo de caridade! Tu és, pois, assim perdidamente
-apegado às tuas criaturas, que parece que não podes viver sem elas! E no entanto és nosso Deus! Tu não tens neces-
-sidade de nós. O nosso bem nada acrescenta à tua grandeza,
-pois és imutável. O nosso mal não poderia
-causar dano a ti, que és a soberana e eterna bondade!
-Quem, pois, te estimula a tanta misericórdia? O amor. Porque Tu não tens obrigação alguma para conosco e não tens de nós
-necessidade alguma. Quem leva a ti, Deus infinito, para mim, pequena criatura? Nenhum outro senão Tu mesmo. Ó Fogo de A-
-mor, sempre o Amor somente te impeliu e te impele!—
+«Ó Senhor, quem poderá fazer-me entender quanto é vantajoso lançar-me em teus braços e estabelecer contigo este pacto: eu cuidar-ei de ti e Tu cuidarás de mim; Tu velarás meus interesses e eu os teus?
 
-"Tu, suma doçura, dignaste-te unir-te com a
-nossa amargura; Tu, esplendor, com as trevas; Tu, sa-
+Que coisa sou sem ti, ó Senhor? Que valor tenho, se não estou unido a ti? E onde vou acabar, se mesmo pouco me afasto de ti?
 
-bedoria, com a loucura; Tu, vida, com a morte; Tu, infinito, com nós finitos!" (Santa Catarina de Sena).
+Senhor meu, Misericórdia minha e meu Tesouro, que outro bem se pode desejar aqui embaixo fora de estar-te tão perto que não seja mais possível nenhuma divisão?
 
-Ó dulcíssimo Verbo Encarnado, ó amabilíssimo Menino Jesus, eis-me finalmente aos teus pés: deixa-me contemplar, permite que eu me deleite na tua beleza, na tua
-bondade, na tua caridade imensa! O teu amor infinito se
-apresenta a mim vivo e pulsante neste terno Menino
-que me sorri e me estende os seus bracinhos e este
-Menino és Tu mesmo, ó meu Deus! Como poderei agradecer-te
-o teu amor excessivo? Como poderei retribuir-te?
-
-"Tu, sendo grande e rico, por nós te fizeste pequeno e pobre, escolheste nascer fora de casa numa
-estrebaria, ser envolto em paninhos, sugar leite virginal,
-ser deposto no presépio entre o boi e o jumentinho.
-'Hoje brilhou para nós o dia da redenção nova,
-da restauração antiga,
-da felicidade eterna; hoje por
-todo o mundo os céus destilaram mel!' Abraça
-agora, pois, alma minha, esse divino presépio, aperta os
-lábios aos pezinhos do Menino, beija-os a ambos. Medita,
-além disso, as vigílias dos pastores, vê o exército dos anjos acorrendo, une-te para fazer a tua parte na celeste melodia,
-cantando com a boca e com o coração: Glória a Deus no
-mais alto dos céus e paz na terra aos homens de boa vontade" (S. Boaventura).
+Ó Senhor da minha vida, atrai-me a ti, mas faze-o de tal modo que minha vontade te permaneça tão unida que não possa mais separar-se da tua» (T.G.P. 4, 8 e 9; 3, 15).

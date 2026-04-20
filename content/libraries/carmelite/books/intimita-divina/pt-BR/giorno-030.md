@@ -1,13 +1,11 @@
 ## 30 — CRER NO AMOR
 *26 dezembro*
 
-### Presença de Deus
-
-— Ó dulcíssimo Menino Jesus, faze-me penetrar no abismo do teu infinito amor, para que eu saiba crer nele com todas as minhas forças.
+**Presença de Deus.** — *Ó dulcíssimo Menino Jesus, faze-me penetrar no abismo do teu infinito amor, para que eu saiba crer nele com todas as minhas forças.*
 
 ### Meditação
 
-1 — Na criação Deus nos amou até fazer o homem à sua imagem e semelhança; na redenção nos
+**1** — Na criação Deus nos amou até fazer o homem à sua imagem e semelhança; na redenção nos
 amou até fazer a si mesmo à nossa imagem! O Natal
 é por excelência a festa do amor, e do amor que se revela não nos sofrimentos da Cruz, mas na amabilidade de
 um Menino, nosso Deus, que nos estende os braços para
@@ -32,7 +30,7 @@ do seu amor. Deus nos ama! Jesus nos ama! Sim, repitamo-lo e
 repitamo-lo sem fim: "Conhecemos e cremos na caridade que Deus tem por nós" (1 Jo. 4, 16). Senhor,
 eu creio no teu amor por mim! Senhor, aumenta a minha fé.
 
-2 — "Deus é caridade!" O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
+**2** — "Deus é caridade!" O tesouro encerrado nesta palavra é imenso, e é o tesouro que Deus abre e revela à
 alma que se concentra toda na contemplação do
 Verbo Encarnado. Enquanto não se compreende que Deus é
 amor infinito, infinita benevolência que se dá e se estende

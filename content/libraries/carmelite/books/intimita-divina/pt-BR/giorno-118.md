@@ -1,12 +1,12 @@
-## 116 — NÃO DESCULPAR-SE
+## 42 — NÃO DESCULPAR-SE
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, que quiseste calar diante de quem te condenava à morte, ensina-me a arte de não me desculpar.*
 
-— Ó Jesus, que quiseste calar diante de quem te condenava à morte, ensina-me a arte de não me desculpar.
+
 
 ### Meditação
 
-1 — Diante de qualquer defeito, culpa ou erro pessoal,
+**1** — Diante de qualquer defeito, culpa ou erro pessoal,
 nosso eu corre instintivamente em busca de desculpas:
 é a tática do orgulho, que não quer reconhecer os próprios
 erros e se empenha em cobri-los com um manto mais ou menos
@@ -38,7 +38,7 @@ dado. Aliás, valeria bem pouco aceitar em silêncio uma acusação,
 uma repreensão, quando a alma não renunciasse - ainda que à custa de lutas e esforços - a desculpar-se no interior.
 
 
-2 — Muitas vezes te ressentes diante das correções,
+**2** — Muitas vezes te ressentes diante das correções,
 porque não as achas totalmente proporcionadas aos teus defeitos,
 às tuas faltas. E não pensas que isso é consequência
 inevitável da limitação humana? Só Deus, que lê o

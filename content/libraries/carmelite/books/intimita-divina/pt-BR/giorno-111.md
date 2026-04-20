@@ -1,12 +1,10 @@
-## 109 — A HUMILDADE DO CORAÇÃO
+## 35 — A HUMILDADE DO CORAÇÃO
 
-### Presença de Deus
-
-— Ó Jesus, doce e humilde de coração, torna meu coração semelhante ao teu.
+**Presença de Deus.** — *Ó Jesus, doce e humilde de coração, torna meu coração semelhante ao teu.*
 
 ### Meditação
 
-1 — Uma só vez Jesus disse expressamente:
+**1** — Uma só vez Jesus disse expressamente:
 "aprendei de mim", e o disse precisamente a propósito da humildade: "Aprendei de mim, que sou manso e humilde de
 coração" (Mt. 11, 29). Sabendo bem quão difícil seria para nossa natureza orgulhosa a prática da verdadeira
 
@@ -38,7 +36,7 @@ miséria; saibas reconhecer o bem que há em ti como puro
 dom de Deus, sem jamais fazer-te dono dele.
 
 
-2 — A humildade do coração é virtude difícil e fácil ao mesmo tempo: difícil, porque tão contrária ao orgulho que sem-
+**2** — A humildade do coração é virtude difícil e fácil ao mesmo tempo: difícil, porque tão contrária ao orgulho que sem-
 pre nos impele a exaltar-nos; fácil, porque não temos necessidade de ir longe buscar-lhe os motivos, mas os temos
 - e em abundância - em nós mesmos, na nossa
 miséria. Contudo, não basta ser miserável para ser
