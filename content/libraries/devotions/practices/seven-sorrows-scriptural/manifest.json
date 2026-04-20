@@ -1,5 +1,15 @@
 {
 	"id": "seven-sorrows-scriptural",
+	"alternativeTo": {
+		"id": "seven-sorrows",
+		"label": {
+			"en-US": "Scriptural Meditations",
+			"pt-BR": "Meditações Bíblicas"
+		},
+		"description": {
+			"en-US": "Scripture-based meditations for each sorrow"
+		}
+	},
 	"icon": "mary",
 	"name": {
 		"en-US": "Chaplet of the Seven Sorrows",

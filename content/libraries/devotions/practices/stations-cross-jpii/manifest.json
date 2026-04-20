@@ -1,5 +1,15 @@
 {
 	"id": "stations-cross-jpii",
+	"alternativeTo": {
+		"id": "stations-cross",
+		"label": {
+			"en-US": "John Paul II",
+			"pt-BR": "João Paulo II"
+		},
+		"description": {
+			"en-US": "John Paul II's scriptural Way of the Cross"
+		}
+	},
 	"icon": "cross",
 	"name": {
 		"en-US": "Stations of the Cross",

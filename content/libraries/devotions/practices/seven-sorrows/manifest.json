@@ -1,5 +1,15 @@
 {
 	"id": "seven-sorrows",
+	"alternativeTo": {
+		"id": "seven-sorrows",
+		"label": {
+			"en-US": "Traditional",
+			"pt-BR": "Tradicional"
+		},
+		"description": {
+			"en-US": "The traditional Chaplet of the Seven Sorrows"
+		}
+	},
 	"icon": "mary",
 	"name": {
 		"en-US": "Chaplet of the Seven Sorrows",

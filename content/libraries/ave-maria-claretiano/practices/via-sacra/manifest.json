@@ -1,5 +1,14 @@
 {
 	"id": "via-sacra",
+	"alternativeTo": {
+		"id": "via-sacra",
+		"label": {
+			"pt-BR": "Ave Maria (1957)"
+		},
+		"description": {
+			"pt-BR": "A Via Sacra conforme o devocionário Ave Maria (1957)"
+		}
+	},
 	"icon": "cross",
 	"name": {
 		"pt-BR": "Via Sacra"

@@ -1,5 +1,14 @@
 {
 	"id": "via-sacra-claretiano",
+	"alternativeTo": {
+		"id": "via-sacra",
+		"label": {
+			"pt-BR": "Claretiana"
+		},
+		"description": {
+			"pt-BR": "A Via Sacra com meditações claretianas"
+		}
+	},
 	"icon": "cross",
 	"name": {
 		"pt-BR": "Via Sacra"

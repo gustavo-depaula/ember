@@ -1,5 +1,15 @@
 {
 	"id": "examination-of-conscience",
+	"alternativeTo": {
+		"id": "examination-of-conscience",
+		"label": {
+			"en-US": "Ignatian Examen",
+			"pt-BR": "Exame Inaciano"
+		},
+		"description": {
+			"en-US": "The five-movement Ignatian Examen of conscience"
+		}
+	},
 	"icon": "prayer",
 	"name": {
 		"en-US": "Examination of Conscience",
