@@ -1,10 +1,10 @@
 ## 100 — IMPERFECTION
 
-### Presence of God
+**Presence of God.** — *O my God, make me understand how necessary it is for the soul to be pure in order to be united with You, infinite perfection!*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
+**1** — Whereas venial sin always includes a
 transgression, more or less slight, of a law of God, imperfection
 is the omission of a better good to which one is not
 obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
@@ -39,7 +39,7 @@ that attachment to one habitual voluntary imperfection is enough to impede "not 
 but also progress in perfection" (A. I, 11, 3).
 
 
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
+**2** — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
 of a law that of itself does not oblige under sin,
 as are generally the constitutions or statutes of various
 religious Orders and Institutes. In this regard it should

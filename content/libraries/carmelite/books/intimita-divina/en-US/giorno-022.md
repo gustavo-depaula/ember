@@ -1,13 +1,11 @@
 ## 22 — BEHOLD, THE SAVIOR IS COMING
 *Fourth Sunday of Advent*
 
-### Presence of God
-
-O Jesus, in Your power, in Your infinite love, in Your Passion I place all hope for the souls You have entrusted to me.
+**Presence of God.** — *O Jesus, in Your power, in Your infinite love, in Your Passion I place all hope for the souls You have entrusted to me.*
 
 ### Meditation
 
-1 — "Gather the nations; announce to the peoples and say: Behold, God, our Savior, is coming" (BR).
+**1** — "Gather the nations; announce to the peoples and say: Behold, God, our Savior, is coming" (BR).
 The message grows ever more pressing: in a few days
 
 the Word of God made flesh will show Himself to the world. Therefore, preparations must be hastened, a heart worthy
@@ -18,7 +16,7 @@ The incarnation of the Word is the greatest proof of God's infinite love for hum
 With this love prepare for Christmas and in this love be faithful because, as St. Paul says in the Epistle
 (I Cor. 4, 1-5), "what is sought is that each one be found faithful."
 
-2 — "Prepare the way of the Lord, make His paths straight.
+**2** — "Prepare the way of the Lord, make His paths straight.
 Every valley shall be filled, every mountain and hill shall be brought low." In today's Gospel (Lk. 3, 1-6)
 the voice of the Baptist, the great preacher of Advent, rises once again, inviting us to prepare "the
 way of the Lord."

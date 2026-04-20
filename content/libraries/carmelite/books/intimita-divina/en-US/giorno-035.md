@@ -1,13 +1,11 @@
 ## 35 — LET US TRADE WITH TIME
 *December 31*
 
-### Presence of God
-
-— On this last day of the year I recollect myself at the feet of the Child Jesus to consider, in the light of eternity, the value of time.
+**Presence of God.** — *— On this last day of the year I recollect myself at the feet of the Child Jesus to consider, in the light of eternity, the value of time.*
 
 ### Meditation
 
-1 — Time passes and never returns. God has assigned to each of us a determined time to realize
+**1** — Time passes and never returns. God has assigned to each of us a determined time to realize
 the divine plan for our soul: we have only this time
 and no other. Time badly used is lost
 forever. The condition of our life is this continual flowing, this continual running of time that has
@@ -28,7 +26,7 @@ the divine plan for our soul, we shall have reached that
 degree of love that God expects from each of us and with
 which we shall love and glorify Him forever.
 
-2 — Increase of charity depends on meritorious acts,
+**2** — Increase of charity depends on meritorious acts,
 that is, on good works performed under the influence of charity. Every good work merits an increase of charity, and this
 can be granted to the soul immediately, or only at the
 end of life, according to whether the soul has acted with all

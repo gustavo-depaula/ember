@@ -1,13 +1,11 @@
 ## 36 — THE CIRCUMCISION OF THE LORD
 *January 1*
 
-### Presence of God
-
-— I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.
+**Presence of God.** — *— I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.*
 
 ### Meditation
 
-1 — The Magnificat antiphon of First Vespers wonderfully synthesizes the spirit of today's feast: "Because of the immense charity with which God loved us, He sent His Son under the likeness of sinful man." To the consideration
+**1** — The *Magnificat* antiphon of First Vespers wonderfully synthesizes the spirit of today's feast: "Because of the immense charity with which God loved us, He sent His Son under the likeness of sinful man." To the consideration
 of God's immense charity, which has illumined and dominated all the Christmas feasts, there is added the vision of the Son of
 God sent to us under the likeness of sinful man; this is the
 characteristic of this solemnity. To transform us sinners into children of God, the Father's Only-Begotten willed to transform Himself into one of us, even to taking our flesh of sin and undergoing all its most humiliating consequences. The law of circumcision could in no way touch Jesus, the Son of God,
@@ -21,7 +19,7 @@ Eight days after His birth, He thus begins His bloody mission as Redeemer: He do
 Looking at Him we learn that deeds are worth more
 than words, that the more deeds cost sacrifice, the more they are proof of true love, and that, to be fruitful, every work must have its baptism of blood.
 
-2 — The feast of the Circumcision coincides with the beginning
+**2** — The feast of the Circumcision coincides with the beginning
 of the civil year: the first drops of Jesus' Blood seal and consecrate each new year, truly making it annus Domini,
 the year of the Lord. Time is of
 God, our life is of God and of Christ, who repurchased and sanctified everything with His Blood.

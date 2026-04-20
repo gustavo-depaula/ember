@@ -1,17 +1,15 @@
 ## 49 — THE FIRST MIRACLE OF JESUS
 *Second Sunday after Epiphany*
 
-### Presence of God
-
-— O Jesus, today I ask You to renew in me the great miracle You once worked for the spouses of Cana.
+**Presence of God.** — *— O Jesus, today I ask You to renew in me the great miracle You once worked for the spouses of Cana.*
 
 ### Meditation
 
-1 — With the cycle of Jesus' childhood closed, the liturgy begins to speak of His public life. In the octave of Epiphany it recalled the Savior's baptism in the waters of the Jordan, an event that marked the beginning of His apostolate, and today it speaks to us of His first miracle, destined, like the preceding ones, to manifest to the world His glory as Son of God.
+**1** — With the cycle of Jesus' childhood closed, the liturgy begins to speak of His public life. In the octave of Epiphany it recalled the Savior's baptism in the waters of the Jordan, an event that marked the beginning of His apostolate, and today it speaks to us of His first miracle, destined, like the preceding ones, to manifest to the world His glory as Son of God.
 
 "At that time there was a wedding at Cana of Galilee. The Mother of Jesus was there, and Jesus also..." so says today's Gospel (Jn. 2, 1-11). Immediately, and in the foreground beside the Lord, we find Our Lady in her maternal function as Mediatrix of all graces; the miracle of Cana, Jesus' first miracle, is worked precisely through her intercession, so powerful that it causes Christ's hour to be anticipated. "My hour has not yet come," the Savior had in fact answered His Mother. But at Jesus' apparently negative reply, Mary is not disturbed, nor does she insist; sure of her Son and full of loving trust in Him she says to the servants: "Do whatever He tells you." Jesus is won over by the humility, delicacy, faith, and trusting abandonment of His Mother and, to show us how powerful she is over His divine Heart, He condescends. Beside Mary's, we must admire the faith and prompt obedience of the servants: following Mary's counsel, they at once carry out Jesus' orders: they fill the jars with water and then draw from them. Not a moment of doubt, not a protest, but a simple obedience, simple as that of children. Let us learn to believe, to pray, and to make use of Mary's powerful intercession.
 
-2 — "The water had been changed into wine." That miracle Jesus performed at Cana, He continues to perform on our altars in a far more marvelous way: a little bread and a little wine are changed into Christ's Body and Blood. This Body and this Blood are offered as nourishment to our souls. That is why the Communio of today's Mass gives the Gospel passage that speaks of water changed into wine. Yes, for us too Jesus has "kept the good wine until now": it is the wine of the Most Holy Eucharist that inebriates our souls.
+**2** — "The water had been changed into wine." That miracle Jesus performed at Cana, He continues to perform on our altars in a far more marvelous way: a little bread and a little wine are changed into Christ's Body and Blood. This Body and this Blood are offered as nourishment to our souls. That is why the Communio of today's Mass gives the Gospel passage that speaks of water changed into wine. Yes, for us too Jesus has "kept the good wine until now": it is the wine of the Most Holy Eucharist that inebriates our souls.
 
 But we can also think of another marvelous transformation Jesus works in our souls by means of grace: the water of our poor human nature is made participant in the divine nature, is changed into the most noble wine of Christ's own life. Man becomes a member of Christ, an adopted child of God, a temple of the Holy Spirit. And today Our Lady teaches us in what way we can and must favor in ourselves this most precious transformation: "Do whatever Jesus tells you," she repeats also to us as to the servants at Cana's banquet. Mary invites us to follow and to put into practice all Jesus' teachings and precepts, which show us the way to arrive at a total transformation in Him. With humble and docile heart, with living faith and full confidence, let us therefore entrust ourselves to Jesus through the hands of Mary.
 

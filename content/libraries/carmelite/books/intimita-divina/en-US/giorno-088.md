@@ -1,10 +1,10 @@
 ## 88 — CHASTITY
 
-### Presence of God
+**Presence of God.** — *O Jesus, most pure lily, lover of virgins, make me understand the beauty of perfect chastity.*
 
 ### Meditation
 
-1 — "Do you not know that you are the temple of God, and that the Spirit of God dwells in you? If anyone destroys the temple of God, God will destroy him; for the temple of God is holy, and this is what you are" (I Cor. 3, 16-17).
+**1** — "Do you not know that you are the temple of God, and that the Spirit of God dwells in you? If anyone destroys the temple of God, God will destroy him; for the temple of God is holy, and this is what you are" (I Cor. 3, 16-17).
 
 The grace of baptism has consecrated the Christian's body: it has made it temple of the living God, member of Christ. Hence the duty to respect this body, a duty that from every Christian requires the virtue of chastity, practiced in the measure fitting his state. Impure sin profanes the body, temple of God, and makes Christ's members "members of a harlot" (I Cor. 6, 15).
 
@@ -15,7 +15,7 @@ Thus the virtue of chastity is not reserved to souls consecrated to God, but is 
 To be chaste in body, then, it is necessary to be chaste in heart. Jesus insists strongly on this interior purity: "The lamp of your body is your eye: if your eye is sound, your whole body will be full of light; but if your eye is bad, your whole body will be in darkness" (Mt. 6, 22 and 23).
 
 
-2 — "He who is unmarried is concerned with the things of the Lord, how he may please Him... And the virgin is concerned with the things of the Lord, wanting to be holy in body and in spirit" (I Cor. 7, 32 and 34).
+**2** — "He who is unmarried is concerned with the things of the Lord, how he may please Him... And the virgin is concerned with the things of the Lord, wanting to be holy in body and in spirit" (I Cor. 7, 32 and 34).
 
 . Perfect chastity, chosen as a state of life and embraced with vow, frees from all cares and solicitudes necessarily required by married life and that divide the heart between God and human affections.
 

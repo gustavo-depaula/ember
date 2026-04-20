@@ -1,13 +1,11 @@
 ## 28 — THE GREAT MYSTERY IS FULFILLED
 *December 24*
 
-### Presence of God
-
-O Incarnate Word, my Savior, show me the wise lessons contained in the mystery of Your Incarnation.
+**Presence of God.** — *O Incarnate Word, my Savior, show me the wise lessons contained in the mystery of Your Incarnation.*
 
 ### Meditation
 
-1 — Among all the works God has accomplished, in time and outside Himself, the redemptive Incarnation of the Word is the greatest. Greater, because its term is not a simple creature, however sublime, but God Himself, the eternal Word who assumes a human nature in time.
+**1** — Among all the works God has accomplished, in time and outside Himself, the redemptive Incarnation of the Word is the greatest. Greater, because its term is not a simple creature, however sublime, but God Himself, the eternal Word who assumes a human nature in time.
 Greater because, being the supreme manifestation of God's merciful love, it is the work that more than any other glorifies Him, and glorifies Him precisely in relation to
 charity, which is God's essence. Greater, finally, for the immense good it brings to men and women; the salvation, sanctification, and eternal happiness of the entire human race depend completely on the Incarnation of the Word, on Jesus the Incarnate Word: God the Father "chose us in Him, before the foundation of the world, that we should be holy and blameless... having predestined us to be His adopted children through
 Jesus Christ... In Him we have redemption... the remission of sins according to the riches of His grace... God brought us to life in Christ; in Christ Jesus He raised us up and made us sit in heaven" (Eph. 1, 4-11; 2, 5-6).
@@ -15,7 +13,7 @@ Jesus, the Incarnate Word, is the sole source of our salvation and sanctity. Wit
 man would have remained within the limits of a purely human life, devoid of every supernatural horizon both
 for time and for eternity.
 
-2 — The Incarnation of the Word, God's greatest work,
+**2** — The Incarnation of the Word, God's greatest work,
 destined to enlighten and save the whole world,
 is accomplished in darkness, in silence, amid the most humble and most human circumstances. Caesar's edict obliges
 Mary and Joseph to leave the little house of Nazareth, and behold them

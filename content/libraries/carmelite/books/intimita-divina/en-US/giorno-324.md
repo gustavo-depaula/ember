@@ -1,12 +1,10 @@
 ## 324 — DUTY OF APOSTOLATE
 
-### Presence of God
-
-O Jesus, who welcomed me as your member, grant that I may not live as stranger in your Mystical Body, but may serve good of all brothers.
+**Presence of God.** — *O Jesus, who welcomed me as your member, grant that I may not live as stranger in your Mystical Body, but may serve good of all brothers.*
 
 ### Meditation
 
-1. — Apart from degree of charity a soul may have reached and apart from its particular vocation, there exists for every Christian a duty of apostolate founded in very fact of being Christian, that is, member of Christ's Mystical Body.
+**1** — Apart from degree of charity a soul may have reached and apart from its particular vocation, there exists for every Christian a duty of apostolate founded in very fact of being Christian, that is, member of Christ's Mystical Body.
 
 "Being many, we are one body in Christ, and every one members one of another" (Rom. 12:5). Therefore, as in our body each member is concerned for good of others — "if one member suffers anything, all members suffer with it; if one member glory, all members rejoice with it" (1 Cor. 12:26) — so every Christian is bound to concern himself with others' good.
 
@@ -16,7 +14,7 @@ And this precisely by force of Baptism, which by constituting him member of Myst
 
 "All evils arise from fact that we consider as foreign things concerning our very own body. No one can do his duty if he neglects salvation of neighbor. If you dare say you have nothing in common with your member and esteem to have nothing in common with your brother, you have not even Christ as Head." These strong words of Chrysostom tell us apostolate is not an extra, not something optional left to arbitrariness of individuals' generosity, but precise duty of every Christian, a duty deriving from very nature of Christianity, so binding that one cannot be true Christian without fulfilling it.
 
-2. — As St. Paul to first Christian communities, as St. John Chrysostom to Church of Antioch, so today Christ's Vicar raises voice to inculcate in faithful of whole world great duty of apostolate.
+**2** — As St. Paul to first Christian communities, as St. John Chrysostom to Church of Antioch, so today Christ's Vicar raises voice to inculcate in faithful of whole world great duty of apostolate.
 
 Jesus, who by dying on cross merited grace for us, "could have bestowed it directly on whole human race; but He willed to do so through visible Church, in which men should unite in order to cooperate with Him and through it in communicating to one another divine fruits of Redemption. As Word of God, to redeem men by his pains and torments, willed to make use of our nature, in almost same way, throughout centuries, He makes use of his Church to continue perpetually work begun" (Pius XII, *Mystici Corporis*).
 

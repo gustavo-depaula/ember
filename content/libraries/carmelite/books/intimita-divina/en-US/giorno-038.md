@@ -1,13 +1,11 @@
 ## 38 — JESUS MEDIATOR
 *January 3*
 
-### Presence of God
-
-— Grant me, O Lord Jesus, to penetrate the grand mystery hidden in Your Incarnation.
+**Presence of God.** — *— Grant me, O Lord Jesus, to penetrate the grand mystery hidden in Your Incarnation.*
 
 ### Meditation
 
-1—The Christmas feasts have concentrated our gaze on Jesus, revealing to us somewhat of the great "mystery hidden
+**1** — The Christmas feasts have concentrated our gaze on Jesus, revealing to us somewhat of the great "mystery hidden
 for ages in God" (Eph. 3, 9), a mystery that we now want to consider in synthesis so as better to admire its "unsearchable riches."
 
 Between God and man an infinite distance, an unsurmountable abyss, a rupture of every relation of friendship: such is the tremendous
@@ -40,7 +38,7 @@ of your humanity. This was necessary to remake the way that
 was broken and to permit arriving, through the bitterness
 of this world, at eternal life" (Dialogue).
 
-2 — "In Him [Jesus] it pleased (the Father) that all fullness should dwell and through Him all things should be reconciled to Himself,
+**2** — "In Him [Jesus] it pleased (the Father) that all fullness should dwell and through Him all things should be reconciled to Himself,
 having made peace through the Blood of His cross,
 whether things on earth or those in heaven" (Col. 1, 19 and 20).
 The work of Jesus Mediator is fulfilled on Calvary, where

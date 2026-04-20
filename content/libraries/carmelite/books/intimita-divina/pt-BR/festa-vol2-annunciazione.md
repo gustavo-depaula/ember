@@ -28,4 +28,4 @@ Muitas vezes em nossa vida recebemos convites do Senhor — e certamente receber
 
 «Ó Maria, dulcíssimo amor meu, tu abriste à Divindade eterna a porta da tua vontade e imediatamente o Verbo se encarnou em ti. E com isso me ensinas que Deus, o qual me criou sem mim, não me salvará sem mim... mas Ele bate à porta da minha vontade e espera que eu Lhe abra» (S. Catarina de Sena).
 
-Ó Maria, pelo inefável mistério que hoje se realiza em ti, peço-te que sempre me ensines e me ajudes a escancarar a porta da minha alma a todo chamado divino, a toda solicitação da graça. Faze que, diante de qualquer manifestação do querer divino, eu possa sempre repetir contigo o meu humilde e pronto: *«Ecce, fiat!»*
+Ó Maria, pelo inefável mistério que hoje se realiza em ti, peço-te que sempre me ensines e me ajudes a escancarar a porta da minha alma a todo chamado divino, a toda solicitação da graça. Faze que, diante de qualquer manifestação do querer divino, eu possa sempre repetir contigo o meu humilde e pronto: *«Ecce, *fiat*!»*

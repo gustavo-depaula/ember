@@ -1,12 +1,10 @@
 ## 2 — INVITATION TO HOLINESS
 
-### Presence of God
-
-I place myself in the presence of Jesus in the Blessed Sacrament, considering him the Redeemer and Sanctifier of my soul.
+**Presence of God.** — *I place myself in the presence of Jesus in the Blessed Sacrament, considering him the Redeemer and Sanctifier of my soul.*
 
 ### Meditation
 
-1 — «Where sin abounded, there grace abounded all the more» (Rom. 5, 20).
+**1** — «Where sin abounded, there grace abounded all the more» (Rom. 5, 20).
 
 With the fall of Adam, sin shattered the divine plan for the sanctification of man. Our ancestors, created in the image and likeness of God, in a state of grace and justice, elevated to the dignity of children of God, fell into an abyss of misery, dragging the entire human race with them. For centuries and centuries man groans in his sin: he can no longer call God with the sweet title of Father, he does not even dare to pronounce his name and looks to the Almighty with a sense of terror: He is the strong and terrible God, the just and avenging God. Sin has dug an insurmountable abyss between man and God, and man groans beyond the abyss, absolutely incapable of rising again.
 
@@ -14,7 +12,7 @@ To do what man cannot do, to destroy sin and restore grace to mankind, a Savior 
 
 God wants us "all safe"; to this end he gave us his Son and with him and through him all the means necessary for our salvation; therefore if a soul is not saved, it will be solely through his own fault.
 
-2 — Jesus was not content to destroy sin and merit a measure of grace uniquely sufficient to save us; he did much more and He himself wanted to declare it: «I came so that they may have Life and have it more abundantly» (Gv. 10, 10).
+**2** — Jesus was not content to destroy sin and merit a measure of grace uniquely sufficient to save us; he did much more and He himself wanted to declare it: «I came so that they may have Life and have it more abundantly» (Gv. 10, 10).
 
 This fullness of life is the fullness of grace, of the supernatural life from which holiness blossoms.
 
@@ -26,7 +24,7 @@ Therefore, Jesus comes not only to save me, but also to sanctify me. Therefore, 
 
 ### Colloquy
 
-«How confused I am, Lord, to see myself so miserable and of such little capacity in your service! Yes, it is solely my fault if You do not grant me the graces with which my ancient [saints] abounded. When I put myself before them I feel intense anguish, and I cannot say it without tears... Immense is the affliction of my soul, Lord, when I consider the glory that you reserve for those who persevere in the fulfillment of your will, when I meditate on the travails and sufferings with which your Son has deserved it despite so much of our unworthiness, when I think of the strict duty one has not to respond with ingratitude to the excess of a love that has so much made to teach us to love. How is it possible, Lord, that all this is forgotten and that men forget you to the point of offending you? Or rather, how is it possible, my Redeemer, that they thus forget themselves? Oh, how great is your goodness if, despite this, you always remember us! Forgetting that if we fell, it was only because we wanted to wound you with a mortal blow, You return to extend your hand to us and take us out of such an incurable frenzy in which we seek you and ask you for health. Blessed is such a Lord! Blessed is such immense mercy! Endless praise to such merciful mercy! My soul, bless so great a God incessantly! How is it possible to go back to being rebellious against him? » (T.G. __PH_0__; __PH_1__).
+«How confused I am, Lord, to see myself so miserable and of such little capacity in your service! Yes, it is solely my fault if You do not grant me the graces with which my ancient [saints] abounded. When I put myself before them I feel intense anguish, and I cannot say it without tears... Immense is the affliction of my soul, Lord, when I consider the glory that you reserve for those who persevere in the fulfillment of your will, when I meditate on the travails and sufferings with which your Son has deserved it despite so much of our unworthiness, when I think of the strict duty one has not to respond with ingratitude to the excess of a love that has so much made to teach us to love. How is it possible, Lord, that all this is forgotten and that men forget you to the point of offending you? Or rather, how is it possible, my Redeemer, that they thus forget themselves? Oh, how great is your goodness if, despite this, you always remember us! Forgetting that if we fell, it was only because we wanted to wound you with a mortal blow, You return to extend your hand to us and take us out of such an incurable frenzy in which we seek you and ask you for health. Blessed is such a Lord! Blessed is such immense mercy! Endless praise to such merciful mercy! My soul, bless so great a God incessantly! How is it possible to go back to being rebellious against him? » (T.G. *Fd.* 4, 7; *Es.* 3, 1).
 
 Yet, Lord, even knowing how much this poor soul of mine has cost you, how many times I have offended you, I have resisted your grace, I have been unfaithful to your love, I have been deaf to your invitation to a more perfect life, to holiness.
 

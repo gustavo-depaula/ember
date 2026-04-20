@@ -1,10 +1,10 @@
 ## 102 — CONFESSION
 
-### Presence of God
+**Presence of God.** — *At the foot of Your Cross, O Jesus, I confess my sins and invoke upon myself the outpouring of Your Blood, that it may purify my soul.*
 
 ### Meditation
 
-1 — Confession is the sacrament of Christ's Blood, of which God - according to the expressive saying of St. Catherine
+**1** — Confession is the sacrament of Christ's Blood, of which God - according to the expressive saying of St. Catherine
 of Siena - "has made us a bath to wash the face
 of our souls from the leprosy of sin." If necessary matter
 of this sacrament is only mortal sins, venial sins are sufficient matter and all Catholic
@@ -38,7 +38,7 @@ Hence the importance of frequent confession for
 a soul that, longing for union with God, must necessarily aspire to total purification.
 
 
-2 — When, at the tribunal of penance, a soul
+**2** — When, at the tribunal of penance, a soul
 has to submit only venial sins, there is no need
 to concern itself with the integrity of accusation - as instead
 is required for mortal sins - that is, it is not necessary

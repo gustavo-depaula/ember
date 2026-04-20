@@ -43,7 +43,7 @@ Deus, juntamente com o Pai e com o Espírito Santo.
 
 **2** — "O Verbo se fez carne". Sendo Deus, o Verbo
 é eterno e imutável, por isso permanece necessariamente
-sempre aquilo que era: manet quod erat! Mas nada impede que Ele, juntamente com o Pai e com o Espírito Santo,
+sempre aquilo que era: *manet quod erat*! Mas nada impede que Ele, juntamente com o Pai e com o Espírito Santo,
 crie no tempo uma natureza humana que, em vez de ter um
 eu limitado e fraco como o nosso, esteja totalmente sob
 o governo do seu eu divino. Assim Ele fez;

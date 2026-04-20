@@ -16,7 +16,7 @@ Por outro lado, a nossa natureza, ferida pelas consequências do pecado original
 
 Mas antes de todos os outros, Jesus, o Mestre divino, indicou-nos a necessidade absoluta de passar por este caminho: "Se alguém quer vir após mim, renegue-se a si mesmo" (Mt. 16, 24).
 
-**Colóquio**
+### Colóquio
 
 *Ó Jesus, suplico-te que infundas na minha alma um ódio profundo e sincero ao pecado, a toda forma de pecado, de modo que eu esteja realmente disposto a preferir todo gênero de sofrimento e até a morte a qualquer ofensa de Deus. Faze-me compreender, ó Divino Mestre, que o mal, o único verdadeiro mal que me pode acontecer e do qual devo incessantemente rezar para ser libertado, é o pecado, porque o pecado é teu inimigo, teu inimigo ao ponto de te haver flagelado, coroado de espinhos, pregado na cruz, feito derramar todo o teu sangue, feito morrer entre atrozes tormentos. Ó Jesus, Tu que nos ensinaste a pedir ao Pai celeste: "livra-nos do mal", interpõe a tua potentíssima intercessão, mostra ao teu Pai e Pai nosso os estigmas ainda sangrantes da tua Paixão e obtém, obtém para mim e para todos os teus fiéis a libertação do terrível mal do pecado. Ó Jesus, e farei talvez distinção entre pecado grave e pecado venial, entre pecado e imperfeição?
 

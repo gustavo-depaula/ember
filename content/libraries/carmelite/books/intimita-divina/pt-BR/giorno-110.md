@@ -1,12 +1,10 @@
 ## XXXIV — AS HUMILHAÇÕES
 
-### Presença de Deus
-
-— Ó Jesus, humilhado por mim até a abjeção, ensina-me a humilhar-me por amor de ti.
+**Presença de Deus.** — *— Ó Jesus, humilhado por mim até a abjeção, ensina-me a humilhar-me por amor de ti.*
 
 ### Meditação
 
-1 — A muitos agrada ser humildes, mas a poucos agrada ser
+**1** — A muitos agrada ser humildes, mas a poucos agrada ser
 humilhados; muitos com fervorosas orações pedem a Deus a humildade, mas bem poucos pedem a humilhação, e no entanto sem
 humilhação é impossível conseguir a humildade,
 porque, como o estudo é o meio para adquirir a ciência,
@@ -45,7 +43,7 @@ teu orgulho e desejas de verdade libertar-te dele, aceita
 todas as humilhações e por meio delas o Senhor quebrará teu orgulho.
 
 
-2 — Mais do que procurar humilhações por tua iniciativa,
+**2** — Mais do que procurar humilhações por tua iniciativa,
 dispõe-te a aceitar bem aquelas que te são infligidas
 contra teu gênio. Porque, enquanto nas humilhações que tu
 mesmo te impões pode misturar-se um orgulho sutil - como

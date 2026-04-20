@@ -1,13 +1,11 @@
 ## 32 — GLORY TO GOD
 *December 28*
 
-### Presence of God
-
-— I join the choir of angels who sing the glories of the Lord over the hut of Bethlehem.
+**Presence of God.** — *— I join the choir of angels who sing the glories of the Lord over the hut of Bethlehem.*
 
 ### Meditation
 
-1 — The Word became incarnate for our salvation, for
+**1** — The Word became incarnate for our salvation, for
 our happiness. And yet the primary end of the Incarnation, as of all God's works, is His glory; He,
 the one and absolute Good, cannot will anything except for
 His own glory. Sending His Only-Begotten to save
@@ -30,7 +28,7 @@ great, so beautiful, but also so good, so merciful,
 so full of charity. Song is not enough: the soul would like
 to transform itself into an unceasing "praise of His glory."
 
-2 — We were predestined in Christ "that we might be for the praise of His glory" (Eph. 1, 11 and 12). Every Christian is in himself an argument of Christ's glory:
+**2** — We were predestined in Christ "that we might be for the praise of His glory" (Eph. 1, 11 and 12). Every Christian is in himself an argument of Christ's glory:
 his elevation to the supernatural state,
 his sanctification, his eternal happiness, all having as supreme end the
 glory of Him who redeemed him. The Christian, and all the more

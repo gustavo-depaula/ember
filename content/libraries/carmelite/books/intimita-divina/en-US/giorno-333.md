@@ -1,12 +1,10 @@
 ## 333 — APOSTOLATE OF EXAMPLE
 
-### Presence of God
-
-O Lord, grant that my conduct may be such as to give You glory and draw many souls to your love.
+**Presence of God.** — *O Lord, grant that my conduct may be such as to give You glory and draw many souls to your love.*
 
 ### Meditation
 
-1. — Alongside prayer and sacrifice, another powerful weapon of apostolate accessible to all is that of a good life, a holy life. Not all can preach, not all have duty to admonish or exhort, not all can engage in organized apostolic works; but there is no one who cannot cooperate in neighbor's spiritual good by example of an integrally Christian life, coherent with professed principles and faithful to one's duties.
+**1** — Alongside prayer and sacrifice, another powerful weapon of apostolate accessible to all is that of a good life, a holy life. Not all can preach, not all have duty to admonish or exhort, not all can engage in organized apostolic works; but there is no one who cannot cooperate in neighbor's spiritual good by example of an integrally Christian life, coherent with professed principles and faithful to one's duties.
 
 "Each one can benefit his neighbor if he fulfills his duty," affirms Chrysostom, and adds: "No one would remain pagan if Christians were truly Christians, if they truly observed precepts. A good life is voice sharper and stronger than trumpet." Good life imposes itself by itself, has authority, and exercises fascination far superior to words.
 
@@ -20,7 +18,7 @@ Jesus, who possessed divine perfections, could say to us: "Be you therefore perf
 
 Apostle must tread way trodden by Jesus, embodying in his life that ideal of holiness he wants to propose to others. Only thus can one affirm of him, as of Lord: *coepit facere et docere* (Acts 1:1), He began first to do and then to teach. And only thus can apostle repeat, much more by conduct than by words, Paul's bold phrase: "Be ye followers of me, as I also am of Christ" (1 Cor. 4:16).
 
-2. — Jesus, who taught us to pray, fast, and give alms in secret so only heavenly Father may know and reward, also taught us to act so that our works may be for those who see them silent encouragement to good: "So let your light shine before men, that they may see your good works and glorify your Father who is in heaven" (Mt. 5:16).
+**2** — Jesus, who taught us to pray, fast, and give alms in secret so only heavenly Father may know and reward, also taught us to act so that our works may be for those who see them silent encouragement to good: "So let your light shine before men, that they may see your good works and glorify your Father who is in heaven" (Mt. 5:16).
 
 St. Gregory teaches us how to reconcile these two teachings: "Let work be public, but intention remain hidden, so that we give neighbor example of good work, and at same time by intention, with which we seek to please God alone, we always desire secrecy."
 

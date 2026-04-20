@@ -1,8 +1,6 @@
 ## 336 — THE FORMATION OF APOSTLES
 
-### Presence of God
-
-Accept, Lord, my poor prayer for the coming of your kingdom.
+**Presence of God.** — *Accept, Lord, my poor prayer for the coming of your kingdom.*
 
 ### Meditation
 

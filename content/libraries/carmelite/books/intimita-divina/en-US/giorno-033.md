@@ -1,13 +1,11 @@
 ## 33 — PEACE TO MEN
 *December 29*
 
-### Presence of God
-
-— I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).
+**Presence of God.** — *— I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).*
 
 ### Meditation
 
-1 — At Bethlehem the angels announce two things: glory to God and peace to men; one corresponds to the other.
+**1** — At Bethlehem the angels announce two things: glory to God and peace to men; one corresponds to the other.
 No one gives glory to God as that little Child does,
 
 who lies on the hay: He alone, being the eternal Word, can
@@ -31,7 +29,7 @@ only for this must we strive to conquer and possess it,
 we must want it above all because to it corresponds the
 glory of God.
 
-2 — The angels promise peace "to men of
+**2** — The angels promise peace "to men of
 good will." The will is "good" when it is upright, docile,
 resolute. Upright, that is, sincerely and totally oriented toward
 good. Docile, always ready to follow every indication of the divine will. Resolute, ready to adhere to God's

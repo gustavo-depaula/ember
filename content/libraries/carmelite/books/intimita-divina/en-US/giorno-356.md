@@ -2,9 +2,7 @@
 
 *XXIII Sunday after Pentecost*
 
-### Presence of God
-
-O Lord, fulfill in me Your designs of peace and love, making me rise to a life fully fervent.
+**Presence of God.** — *O Lord, fulfill in me Your designs of peace and love, making me rise to a life fully fervent.*
 
 ### Meditation
 

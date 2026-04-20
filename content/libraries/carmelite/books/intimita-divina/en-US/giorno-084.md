@@ -1,13 +1,11 @@
 ## 84 — THE DIVINE SEED
 *Sunday of Sexagesima*
 
-### Presence of God
-
-— O Lord, here I am before You: may my heart be the good soil ready to receive and make Your word bear fruit.
+**Presence of God.** — *— O Lord, here I am before You: may my heart be the good soil ready to receive and make Your word bear fruit.*
 
 ### Meditation
 
-1 — Jesus, the divine Sower, comes today to scatter the good seed in His vineyard, the Church; He wants to call our souls to a new flowering of grace and virtue.
+**1** — Jesus, the divine Sower, comes today to scatter the good seed in His vineyard, the Church; He wants to call our souls to a new flowering of grace and virtue.
 
 "The seed is the word of God." The Word, eternal Word of the Father, became man, became Christ, and comes to sow in the hearts of men the divine word, which is nothing other than a reflection of Himself. The divine word is not a sound that strikes the air and soon disperses like men's words, but supernatural light that enlightens us on the true value of things; it is grace
 
@@ -17,7 +15,7 @@ that gives the capacity and strength to live according to the light of God. It i
 Why then does the seed not always give the desired fruits? Because very often the soil that receives it does not have the necessary dispositions. God does not cease to scatter His seed in the hearts of men, does not cease to invite them, to urge them to good by His light and His calls, does not cease to dispense His grace through the sacraments; but all this remains vain and sterile if man does not present to God a suitable soil - that is, a heart - well disposed. God wants us saved, wants us holy, but forces no one: He respects our freedom.
 
 
-2 — Today's Gospel (Lk. 8, 4-15) presents four categories of persons who receive in different ways the seed of the divine word and compares them to: the beaten path, rocky soil, thorny ground, and finally good soil.
+**2** — Today's Gospel (Lk. 8, 4-15) presents four categories of persons who receive in different ways the seed of the divine word and compares them to: the beaten path, rocky soil, thorny ground, and finally good soil.
 
 Beaten path: light, dissipated souls, open like the road to any distraction, noise, curiosity; open to the passing of every creature and earthly affection. As soon as the word of God reaches their heart, at once the enemy, finding free access, snatches it away, preventing it from taking root.
 

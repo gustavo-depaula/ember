@@ -1,12 +1,10 @@
 ## 331 — APOSTOLIC PRAYER
 
-### Presence of God
-
-Accept, Lord, my poor prayer for coming of your kingdom.
+**Presence of God.** — *Accept, Lord, my poor prayer for coming of your kingdom.*
 
 ### Meditation
 
-1. — Since Jesus died for us on cross, redemption of humanity is objectively accomplished fact. Every man coming into world is already redeemed, in sense that most precious Blood of Jesus has already merited for him all graces necessary for salvation and even sanctification.
+**1** — Since Jesus died for us on cross, redemption of humanity is objectively accomplished fact. Every man coming into world is already redeemed, in sense that most precious Blood of Jesus has already merited for him all graces necessary for salvation and even sanctification.
 
 What remains to be done is only application of these graces to individual souls. Precisely here God wants our collaboration, and wants it so much He has established distribution of certain graces necessary for our own and others' salvation to depend precisely on our prayers.
 
@@ -22,7 +20,7 @@ We cannot be certain all our prayers will be heard, because we do not know wheth
 
 Indeed, when we pray for apostolic ends, we insert ourselves into plan God Himself has from eternity prepared for salvation of all men, a plan God desires to carry out infinitely more than we do. Therefore we cannot doubt result of our prayer. Precisely for this efficacy, apostolic prayer constitutes one of most powerful means of apostolate.
 
-2. — If God has willed to subordinate distribution of grace in world to men's prayer, and if today men pray so little — indeed many, perhaps most, do not pray at all — it is supremely necessary there be in Church souls totally consecrated to prayer.
+**2** — If God has willed to subordinate distribution of grace in world to men's prayer, and if today men pray so little — indeed many, perhaps most, do not pray at all — it is supremely necessary there be in Church souls totally consecrated to prayer.
 
 By life of continual prayer, adoration, and unceasing praise of Most High, such souls supply negligence and neglect of many and thus restore in world equilibrium between rights of God and duties of men, between action and contemplation.
 

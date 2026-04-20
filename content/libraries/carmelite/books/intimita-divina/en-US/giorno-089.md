@@ -1,12 +1,10 @@
 ## 89 — MODESTY
 
-### Presence of God
-
-— O Jesus, Spouse of virgins, show me how a soul consecrated to You must live.
+**Presence of God.** — *— O Jesus, Spouse of virgins, show me how a soul consecrated to You must live.*
 
 ### Meditation
 
-1 — Perfect chastity presupposes an absolute dominion
+**1** — Perfect chastity presupposes an absolute dominion
 of the spirit over matter. But this dominion is in us opposed by disordered tendencies toward sensible pleasures;
 even souls consecrated to God carry the treasure of
 chastity in "earthen vessels" (II Cor. 4, 7), that is, in the
@@ -48,7 +46,7 @@ from the low things of earth in order to be totally engaged
 in divine service.
 
 
-2 — The more a person aspires to such self-giving to
+**2** — The more a person aspires to such self-giving to
 God, the more he aims at union with Him, and the more his conduct must
 be informed by perfect modesty. Modesty of the
 countenance, of gait, of gesture, of manner: "In every action

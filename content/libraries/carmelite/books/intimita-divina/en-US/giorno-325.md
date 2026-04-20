@@ -1,12 +1,10 @@
 ## 325 — COLLABORATORS OF GOD
 
-### Presence of God
-
-Lord, take me, that I may be worthy to collaborate with You in spread of your kingdom.
+**Presence of God.** — *Lord, take me, that I may be worthy to collaborate with You in spread of your kingdom.*
 
 ### Meditation
 
-1. — Speaking of apostolic work, St. Paul says: *Dei sumus adjutores* (1 Cor. 3:9): we are cooperators, collaborators of God.
+**1** — Speaking of apostolic work, St. Paul says: *Dei sumus adjutores* (1 Cor. 3:9): we are cooperators, collaborators of God.
 
 Apostolate therefore is not personal activity, fruit more or less valuable of one's own resources and initiatives. It is not activity one can carry out according to one's own views, much less with one's own strength. Any form of apostolate is collaboration in one work of redemption and sanctification God carries on through centuries in world.
 
@@ -16,7 +14,7 @@ Work of farmer is certainly necessary for field to bear fruit; yet it is not suf
 
 St. Paul was so convinced of this truth that, addressing Corinthians, he exclaimed: *Dei agricultura estis, Dei aedificatio estis* (1 Cor. 3:9). Although he had first generated them to faith, he does not say: you are my children, my field; but "you are God's field, God's building." Apostolate is not human work, but divine work, to which man lends collaboration as humble instrument.
 
-2. — If apostle is instrument of God, he is not material instrument, as pen in writer's hand, but living and personal instrument endowed with intelligence and will. Therefore he must place himself voluntarily at disposal of divine Artist, seeking to harmonize — better, synchronize — his way of thinking, willing, and acting with divine way, that is, with divine methods and wills.
+**2** — If apostle is instrument of God, he is not material instrument, as pen in writer's hand, but living and personal instrument endowed with intelligence and will. Therefore he must place himself voluntarily at disposal of divine Artist, seeking to harmonize — better, synchronize — his way of thinking, willing, and acting with divine way, that is, with divine methods and wills.
 
 Each of us will be apostle in measure he is docile instrument in God's hands, so that God may use him as He wills.
 

@@ -1,115 +1,125 @@
-## 94 — DEATH
-
-### Presence of God
-
-— O Lord, who created me for Yourself, grant that I may live and die for love of You.
+## 94 — ASHES
+**Presence of God.** — *— I place myself in Your presence, O Lord, that Your light may enlighten me on eternal truths and awaken in me sincere desires of conversion.*
 
 ### Meditation
 
-1 — Even today, Thursday after Ash Wednesday, we find an explicit reference to death: "Set your house in order, for you shall die" (Ep.: Is.
-38, 1-6). The Church wants to make the thought
-of death familiar, so that "we may not be caught suddenly and,
-seeking a delay to do penance, it may happen
-that we do not obtain it" (MR).
-It is true that in the Gospel Jesus spoke to us
-of death that comes unexpectedly like a thief, at the hour in which one least expects it; yet, for
-the vigilant Christian who puts into practice the "estote parati"
-(Lk. 12, 40), death will not be sudden, in the sense that
-it will always find him ready "with loins girt and lamps lit," similar to those faithful servants who wait for
-their master "to open to him as soon as he comes and knocks"
-(ibid., 35 and 36). Then there will be no regrets, no
-fears and anxieties, because one who has always
-lived awaiting the Lord does not fear opening to Him when
-He in fact comes, but goes to meet Him with joy,
-welcomes Him with great love and with all the impulse of the soul
-gives Him his final "Ecce venio," behold I come (Ps.
-39, 8).
-
-Besides, death is the final, but not the only coming
-of the Lord in the Christian's life; it is preceded by
-many others that have precisely the purpose of preparing this last one, so that it may be in the fullest sense a coming of
-grace. From the day of baptism to life's end, there is a
-continuous succession of comings, of visits of the Lord; every
-sacrament received, every inspiration, every increase of
-grace is a new divine visit to the soul, by which
+**1** — "You are dust and to dust you shall return" (Gen. 3, 19).
+These words, pronounced for the first time by God and
+addressed to Adam as a consequence of the sin committed,
 
 
-God takes ever more possession of it, establishing in it His
-dwelling in a way ever more intimate and profound. One
-who has never delayed opening his heart to all these
-comings of the Lord, one who has always welcomed with fidelity and
-love His visits, docilely following the impulses of
-grace, has nothing to fear before His final
-coming. Then sweetest in his ears will sound the
-words of Jesus: "Well done, good and faithful servant... enter
-into the joy of your Lord" (Mt. 25, 21).
+today the Church repeats to every Christian to remind him
+of two fundamental truths: his nothingness and the
+reality of death.
+
+Dust - the ashes that the Priest places today upon
+your head - which have no consistency and are dispersed by a slight breath
+of wind, speak very well of man's nothingness. "O Lord, my life is as nothing in Your
+presence" (Ps. 38, 6), exclaims the Psalmist. How much your pride, your arrogance, need to understand this
+truth, to understand that all is "nothing" in you!
+Drawn from nothing by God's creating power, by the infinite
+love that wished to communicate to you His being and His
+life, you, because of sin, cannot be eternally rejoined
+to your God without passing through the dark reality
+of death. Consequence and punishment of sin, death
+is in itself bitter and painful; but Jesus, who willed
+in all things to make Himself like us by subjecting Himself to it, gives to
+every Christian the strength to accept it for love. In any case,
+death remains; and you must consider it not to be disturbed,
+but to be urged to good. "In all your works remember
+your end, and you will never sin" (Sir. 7, 40). The
+thought of death warns you of the vanity of earthly things,
+of the swiftness of life - "all passes, God alone remains" - and therefore urges you to attach yourself to nothing, to
+despise every earthly satisfaction, to seek God
+alone. The thought of death makes you understand that "all
+is vanity except loving God and serving Him alone" (Imit. I,
+1, 4).
+
+"Remember that you have only one soul, that you must die
+only once... and you will let go many things" (T.G. A.
+68), that is, you will let go all those things that are worth
 
 
-2 — Speaking of persons who have reached transforming
-union of love with God, St. John of the Cross explains that their
-death is caused more by the impetus of divine love than
-by natural causes. "Even though they die during an illness or
-in full age, [they] are not taken from earthly life by a violent wrench of the soul, but by some very sublime loving impetus or encounter, so powerful as to tear the veil [of the body] and carry away the jewel of the soul" (F. 1, 30). It is the so-called "death of love," precious and blessed death, true nuptial encounter of the soul with God, which introduces directly into the beatific vision of heaven. It is the death of holy
-souls, to whom only imprisonment in the envelope of the
-body prevents seeing God face to face.
-
-Yet beside this death of love, so glorious
-and blessed, one can say there is another much more modest
-and humble, to which all of us can aspire,
-provided we sincerely love God and His holy will. As the essence
-of holiness consists in carrying out with love every divine
-will, even when it imposes grave sacrifices and painful
-renunciations, so the essence of a holy death consists in submitting with love to this supreme sacrifice,
-accepting it willingly as the final expression of God's
-will. The deeper and fuller the resignation
+nothing for eternity. For eternity only love is worth,
+fidelity to God: "In the evening of life you will be examined on love" (J.C.
+S.C. I, 57).
 
 
-and love with which a soul accepts death, the more
-its own can be called a death of love, precisely because
-embraced for love of God.
+**2** — The whole liturgy of today is an invitation to penance. During the imposition of ashes one sings: "Let us
 
 
-God is the absolute Lord of our life; as we must live for
-love of Him, seeking to conform ourselves in everything to His holy will, so that this may be in all and through all the supreme norm of our acting, so must we know
-how to die for love of Him, accepting from His hands
-death at the hour and in the circumstances established by Him. "If
-we live, we live for the Lord - exclaims St. Paul - and if
-we die, we die for Him; whether we live or die,
-we are the Lord's" (Rom. 14, 8). Whether in life or in
-death we are God's and, being His, we ought to desire
-nothing else than to live and die according to His holy
-will. When a soul throughout life has studied to fulfill
-with the greatest love the will of God, it can
-have full confidence that the Lord will grant it the supreme grace of accepting death too with great love.
+change garments and cover ourselves with ashes and sackcloth; let us fast and weep before God." It is the invitation to bodily
+penance, particularly prescribed in this season; but it is
+immediately followed by the invitation to conversion: "Let us amend ourselves for the sins committed." The end of physical
+penance is spiritual penance, that is, humility,
+recognition of one's faults, compunction of heart, reform of life.
+
+This is the dominant thought of the day. In the Epistle (Joel 2, 12-19) we read: "Now therefore thus says the
+Lord: Return to Me with all your heart in fasting,
+in weeping and in mourning. Rend your hearts and not
+your garments." Compunction and conversion of heart
+are placed first, because if bodily penance
+does not come from a contrite heart, it has no value. But
+on the other hand bodily penance prepares the soul for
+conversion, insofar as it is a means to reach it. "O God -
+sings the Preface of this season - through bodily fasting,
+You repress sin, lift up the soul, and grant strength and
+reward." Whoever wishes to reach the end - which is renewal of spirit - must willingly embrace the
+means that leads there, namely bodily penance. These
+two elements must never be separated: compunction of the
+heart gives value to penance of the body, and penance of the
+body helps and expresses compunction of the heart.
+
+The Gospel (Mt. 6, 16-21) then tells us that every penance must be done with sincerity, without vain ostentation,
+and joyfully: "When you fast, do not imitate the
+hypocrites who put on a gloomy face and disfigure their
+countenance so as to show men that they fast." Vanity and pride render useless and even sinful
+even the most austere practices of penance: they destroy
+their substance and value, reducing them to wretched external
+shells devoid of all content. Therefore, when you mortify
+your body, be careful to mortify still more your self-
+love.
+
+
 
 ### Colloquy
 
-"O Jesus, agonizing on the cross, be my model
-at the hour of death. Although You are the author and
-restorer of life, yet You willed to submit Yourself to death
-and accepted it wholeheartedly to expiate my sins.
-You who owe nothing to death, You, source of life and immortality, in whom and through whom all creatures live,
-willed to subject Yourself to death to make Yourself like me and
-sanctify my death.
+"O Jesus, how long is man's life, although
+it is said to be short! Short, my God, for using it
+to gain the life that has no end, but very long for
+the soul that desires to see itself soon with You.
 
-"O death, who can now fear you,
-since the Author of life bears you in His bosom, and in Him, without doubt, you cannot be mortal, but life-giving?
-I embrace you, I hold you in the Heart of my divine Savior,
-and here, like a chick beneath the hen's wings,
-I shall await your assaults in peace,
-quite sure that my most clement Jesus will sweeten your
-bitterness for me and defend me from your rigors.
-
-"O Jesus, I want to spend all my strength in submitting from now to all the circumstances and pains of
-my death; from now on willingly I want to accept
-death in the place, time, and manner that You will please to establish.
+"My soul, when you shall plunge into the highest Good
+and know as He knows, when you will love what
 
 
-I know very well that I need to suffer and be ground beneath the teeth of tribulations, sorrows,
-privations, desolations, and pains in order to become bread
-worthy to serve at Your heavenly banquet, O Christ,
-on the day of the universal resurrection. I know very well that
-if the grain of wheat does not rot and die under the earth
-it does not produce the ear, and therefore with all my heart I accept
-the annihilation of death so as to be made a new man,
-no longer mortal and corruptible, but immortal and glorious" (St. Francis de Sales).
+He loves and enjoy what He enjoys, then you will enter into
+your rest: your will will lose its inconstancy and
+will no longer be subject to change... and you will always enjoy
+Him and His love... Blessed are those who are written in
+the book of this life! If you are, why then, my soul,
+are you saddened and disturb me? Hope in God,
+to whom I shall again confess my sins and proclaim His
+mercies. I will compose a canticle of praise to raise it,
+with incessant sighs, to You, my Savior and my God. And it may well be that one day my glory may sing to You,
+without my conscience experiencing in it the bitterness
+of compunction, in that dwelling where tears and fears
+will have ceased forever... O Lord, I prefer
+to live and die in hope and effort for the acquisition
+of eternal life, rather than possess all creatures with their
+passing goods. Do not abandon me, O Lord! I hope in
+You and my hope shall not be confounded. Grant me always to
+serve You, and do with me what You will!" (T.G. Es. 15, 1; 17,
+**5** — 6).
+
+If the thought of my infidelities dismays me, I will remember, O Lord, that "as soon as we repent of having
+offended You, You forget every sin and malice of ours. O
+truly infinite goodness! What more could one want? Who
+would not blush to ask so much of You? This is the moment to profit from it, accepting what You, merciful Lord
+
+
+my God, offer us. You want our friendship. Who
+will refuse it to You, when You did not refuse to pour out
+all Your Blood for us, sacrificing Your life? It is
+nothing what You ask! To listen to You is of supreme
+interest to us" (ibid., 14, 3).

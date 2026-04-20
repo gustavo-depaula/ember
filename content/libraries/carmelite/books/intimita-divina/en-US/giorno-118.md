@@ -1,12 +1,10 @@
 ## 116 — NOT EXCUSING ONESELF
 
-### Presence of God
-
-— O Jesus, who willed to keep silence before those who condemned You to death, teach me the art of not excusing myself.
+**Presence of God.** — *— O Jesus, who willed to keep silence before those who condemned You to death, teach me the art of not excusing myself.*
 
 ### Meditation
 
-1 — Before any personal defect, fault, or error, our ego instinctively runs in search of excuses:
+**1** — Before any personal defect, fault, or error, our ego instinctively runs in search of excuses:
 this is the tactic of pride, which does not want to recognize its own wrongs and industriously tries to cover them with a more or less false cloak, always finding a way to attribute them either to other
 persons or to circumstances. Such was the conduct of Adam
 and Eve after their sin; such is the instinctive behavior
@@ -29,7 +27,7 @@ men, in order humbly to accept correction and to repair the bad example one may 
 Besides, it would be worth very little to accept in silence an accusation or rebuke when the soul did not renounce - even at the cost of struggles and efforts - excusing itself within.
 
 
-2 — Often you feel resentment before corrections,
+**2** — Often you feel resentment before corrections,
 because you do not find them fully proportioned to your defects and
 faults. And do you not think this is an unavoidable
 consequence of human limitation? God alone, who reads the

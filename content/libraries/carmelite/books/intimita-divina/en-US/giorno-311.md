@@ -1,12 +1,10 @@
 ## 311 — THE GIFT OF PIETY
 
-### Presence of God
-
-O Holy Spirit, Spirit of piety, gladden and sweeten my heart.
+**Presence of God.** — *O Holy Spirit, Spirit of piety, gladden and sweeten my heart.*
 
 ### Meditation
 
-1. — Through the gift of piety the Holy Spirit gives a new touch to our spiritual life, a touch of sweetness and gentleness that perfects and simplifies our relations with God and neighbor. These relations are fundamentally ruled by justice, the virtue that inclines us always to fulfill duty by giving each his due. Yet if in life we were guided only by justice, our path would be very arid and fidelity difficult.
+**1** — Through the gift of piety the Holy Spirit gives a new touch to our spiritual life, a touch of sweetness and gentleness that perfects and simplifies our relations with God and neighbor. These relations are fundamentally ruled by justice, the virtue that inclines us always to fulfill duty by giving each his due. Yet if in life we were guided only by justice, our path would be very arid and fidelity difficult.
 
 When, however, through action of the Holy Spirit, filial piety toward the heavenly Father is developed in us — a sense that in practice is translated into lively desire to please Him in all things — then we go beyond somewhat rigid limits of justice and give ourselves with all our heart to service of the Lord. Urged by that deep interior cry, "Father!" which the Holy Spirit repeats within us (cf. Gal. 4:6), we rise toward heaven with desire to win God's heart, to behave in all things as true children of his; and thus even the hardest and heaviest duties become easy and sweet.
 
@@ -16,7 +14,7 @@ It is therefore very fitting that, aspiring to life of intimate union with God, 
 
 Let us invoke this gift especially in moments when we feel more dry and cold, so that — even through trial and interior labor — it may help us go to God with a child's heart. Moreover, our diligence and constant application to prayer despite lack of sensible devotion is one of best dispositions to draw down on us the life-giving breath of the gift of piety.
 
-2. — The gift of piety perfects justice regarding our duties toward neighbor, helping us above all smooth rough edges, conquer that sense of reserve and hardness which, despite striving to practice virtue, still remains in conduct, particularly toward those troublesome or hostile to us. The gift of piety inspires in us sense of God's fatherhood not only regarding ourselves but also all others. It makes us feel that same fatherhood extends over all men — near or far, friend or enemy — since "one is Father of all, who is above all, and through all" (Eph. 4:6).
+**2** — The gift of piety perfects justice regarding our duties toward neighbor, helping us above all smooth rough edges, conquer that sense of reserve and hardness which, despite striving to practice virtue, still remains in conduct, particularly toward those troublesome or hostile to us. The gift of piety inspires in us sense of God's fatherhood not only regarding ourselves but also all others. It makes us feel that same fatherhood extends over all men — near or far, friend or enemy — since "one is Father of all, who is above all, and through all" (Eph. 4:6).
 
 Awareness of common fatherhood must not remain confined to ideas, but penetrate practical life and mark our relations with neighbor so as to modify, facilitate, and sweeten them. This is precisely action the Holy Spirit wants to perform in us by putting into act the gift of piety, through which He gently inclines us to sweetness, indulgence, and compassion toward all, precisely because all are children of one same Father.
 

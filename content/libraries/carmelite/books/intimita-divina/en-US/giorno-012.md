@@ -1,12 +1,10 @@
 ## 12 — SEEKING GOD IN PRAYER
 
-### Presence of God
-
-I leave every occupation and earthly care and recollect myself in the little heaven of my soul to place myself in intimate contact with God.
+**Presence of God.** — *I leave every occupation and earthly care and recollect myself in the little heaven of my soul to place myself in intimate contact with God.*
 
 ### Meditation
 
-1 — "When you want to pray, enter into your room, shut the door, and pray to your Father in secret" (Mt. 6, 6).
+**1** — "When you want to pray, enter into your room, shut the door, and pray to your Father in secret" (Mt. 6, 6).
 
 Exterior solitude, materially withdrawing from noise, from occupations and preoccupations of this life, is a great means—indeed, at least up to a certain point, an indispensable means—for a serious interior life.
 
@@ -16,7 +14,7 @@ Without these "pauses of waiting," it is a true illusion to claim to live not on
 
 Every activity, however important and urgent, must therefore be suspended at the proper time in order to concentrate all strength in the supreme activity of prayer. These hours are sacred. And a soul consecrated to God cannot, on its own initiative, take from them even the smallest part, under penalty of seeing its spiritual life grow sad. Here the great word of Jesus applies: "Seek first the kingdom of God" (Mt. 6, 33), and this kingdom, by now we know, is within us; to find it we have absolute need of these moments of recollection, of solitude, of total withdrawal from creatures, affairs, occupations. In these moments we can and must effectively "go out" from all things, "withdraw" from all creatures to seek God hidden in us.
 
-2 — To the Samaritan woman who asks in what place one should adore God, Jesus answers: "God is spirit: and those who adore Him must adore Him in spirit and truth" (Jn. 4, 24). The divine Master makes us understand that, even more than the "place" in which to pray, the interior spirit is necessary, since only from it can true "adoration" of God, who is "spirit" and truth, spring forth. Although retreat and material solitude have great importance for prayer, they would not be sufficient if they were not accompanied by interior recollection.
+**2** — To the Samaritan woman who asks in what place one should adore God, Jesus answers: "God is spirit: and those who adore Him must adore Him in spirit and truth" (Jn. 4, 24). The divine Master makes us understand that, even more than the "place" in which to pray, the interior spirit is necessary, since only from it can true "adoration" of God, who is "spirit" and truth, spring forth. Although retreat and material solitude have great importance for prayer, they would not be sufficient if they were not accompanied by interior recollection.
 
 St. John of the Cross says: "...having shut the door behind you, that is, having closed the will to every thing, you will pray in hiddenness to your Father" (C. 1, 9).
 

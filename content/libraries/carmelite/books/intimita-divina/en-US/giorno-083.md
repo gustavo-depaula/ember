@@ -1,10 +1,10 @@
 ## 83 — THE NIGHT OF THE SENSES
 
-### Presence of God
+**Presence of God.** — *O Lord, strengthen my desire to come to You, that I may have the courage to face for love of You the total purification of my sensibility.*
 
 ### Meditation
 
-1 — "To arrive at divine union, it is necessary for the soul to pass through the dark night of mortification of appetites and deprivation of tastes in all things" (cf. A. I, 3, 1). St. John of the Cross calls total mortification of the senses "dark night," because when the soul renounces every disordered attachment to things and every pleasure it can find in them, it remains, with regard to the senses, "deprived of all... with nothing and in darkness" (ibid., 3, 1).
+**1** — "To arrive at divine union, it is necessary for the soul to pass through the dark night of mortification of appetites and deprivation of tastes in all things" (cf. A. I, 3, 1). St. John of the Cross calls total mortification of the senses "dark night," because when the soul renounces every disordered attachment to things and every pleasure it can find in them, it remains, with regard to the senses, "deprived of all... with nothing and in darkness" (ibid., 3, 1).
 
 Precisely to help you enter this night, through which one reaches union with God, the Saint has taught you to oppose your disordered tendency toward sensible satisfactions.
 
@@ -21,7 +21,7 @@ drink, ...do all for the glory of God" (Phil. 4, 4;
 1 Cor. 10, 31). But if instead you stop at the pleasure of sensible things, you will never be able to enter the night of the senses.
 
 
-2 — "Ordinarily one enters the night of sense in
+**2** — "Ordinarily one enters the night of sense in
 two ways: one active, the other passive. The active consists in
 what the soul can do and actually does on its own part... The passive way is that in which the soul does nothing
 by its own industry, but God acts in it, while it remains

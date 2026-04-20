@@ -1,18 +1,16 @@
 ## 62 — JESUS AND THE FATHER'S GLORY
 
-### Presence of God
-
-O Jesus, infuse into me Your spirit and Your zeal for the Father's glory, and teach me to flee all personal glory.
+**Presence of God.** — *O Jesus, infuse into me Your spirit and Your zeal for the Father's glory, and teach me to flee all personal glory.*
 
 ### Meditation
 
-1 — "I honor My Father... Yet I do not seek My own glory... I do not receive glory from men" (Jn. 8, 49 and 50; 5, 41).
+**1** — "I honor My Father... Yet I do not seek My own glory... I do not receive glory from men" (Jn. 8, 49 and 50; 5, 41).
 
 It is evident: Jesus seeks only the Father's glory and, to glorify the Father, He chose for Himself the deepest humiliation, even to becoming "the reproach of everyone and the contempt of the people" (Ps. 21, 7). Bethlehem, Nazareth, Calvary are the three great stages of Jesus' humble and hidden life, which conceals from men's eyes His glory as Son of God. But even in His public life, in which His divinity is more manifested, Jesus seeks as much as possible to flee human glory. More than once, after working a miracle, He imposes silence; to the three Apostles who witnessed His Transfiguration He commands "to tell no one what they had seen until... He had risen from the dead" (Mk. 9, 8); and after the first multiplication of loaves, "knowing they were about to come and seize Him to make Him king, He withdrew again to the mountain by Himself" (Jn. 6, 15).
 
 Jesus' glory is to be Son of God: He wants no other. To accept another would be, so to speak, to renounce this essential glory, and therefore He declares: "If I glorify Myself, My glory is nothing; it is My Father who glorifies Me" (Jn. 8, 54). Jesus knows that after His death He must be glorified, recognized as Son of God and Savior of the world, but He wants even this glory to serve the Father's glorification: "Father, the hour has come: glorify Your Son, that Your Son may glorify You" (Jn. 17, 1).
 
-2 — The Christian, in likeness to Jesus, must seek only God's glory and for himself must desire no other glory than that of being child of God, brother of Jesus Christ, and member of His Mystical Body.
+**2** — The Christian, in likeness to Jesus, must seek only God's glory and for himself must desire no other glory than that of being child of God, brother of Jesus Christ, and member of His Mystical Body.
 
 One must carefully watch over the instinct of pride, which in our actions, even the most spiritual and holy, leads us to seek a little satisfaction, praise, personal glory. If we aim, even in small things, at glorifying ourselves, our glory is nothing: it raises us before men, but lowers us before God, diminishes and can even endanger our glory as children of God.
 

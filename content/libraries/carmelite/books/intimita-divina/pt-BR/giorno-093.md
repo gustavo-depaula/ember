@@ -2,7 +2,7 @@
 
 **Presença de Deus.** — *Ó Jesus, ponho-me aos pés da tua Cruz, para que Tu me faças compreender quanto é necessário padecer para tornar-me semelhante a ti.*
 
-**Meditação**
+### Meditação
 
 **1** — Para a alma que aspira à união com Deus, a penitência não é só um meio para sujeitar a carne ao espírito, mas é também um meio para assimilar-se a Cristo crucificado, para reproduzir e prolongar no próprio corpo a sua Paixão. «O amor produz igualdade e semelhança» (G.C. S.I, 4, 4): quem ama verdadeiramente, deseja espontaneamente participar dos sofrimentos da pessoa amada; assim acontece aos verdadeiros amantes do Crucificado. S. Maria Madalena de' Pazzi exclamava: «Sob uma cabeça coroada de espinhos e crucificada não convém um membro delicado, e junto a um esposo padecente não convém uma esposa imortificada». Para uma esposa é uma honra poder dividir em tudo a vida do seu esposo; para uma alma consagrada a Deus é uma honra poder dividir, ao menos em pequena parte, a paixão de Cristo e disso se gloria: «Quanto a mim, longe esteja de mim gloriar-me em outra coisa senão na Cruz de nosso Senhor Jesus Cristo, pela qual o mundo foi para mim crucificado, e eu para o mundo» (Gal. 6, 14).
 
@@ -55,7 +55,7 @@ a fidelidade a Deus: "No entardecer da vida serás examinado no amor" (G.C.
 C.E. I, 57).
 
 
-2 — Toda a liturgia de hoje é um convite à penitência. Durante a imposição das cinzas canta-se: "Mudemos
+**2** — Toda a liturgia de hoje é um convite à penitência. Durante a imposição das cinzas canta-se: "Mudemos
 
 
 as vestes e cubramo-nos de cinzas e cilício; jejuemos e choremos diante de Deus". É o convite à penitência corporal,
@@ -94,7 +94,7 @@ próprio.
 
 
 
-**Colóquio**
+### Colóquio
 
 «Ó paixão desejada! E quem é aquele que te deseja e te ama e se gloria de ti? Ó Verdade eterna, Tu me dizes que não é desejada, nem amada de quem ama a si mesmo, mas de quem se despojou de si e se vestiu de ti, Cristo crucificado, e com a luz tua descobre na cruz a altura da tua caridade. Ó prazenteira e tranquila paixão, que com tranquilidade de paz fazes correr a alma sobre as ondas do mar tempestuoso. Ó deleitável e muito doce paixão! Ó riqueza da alma, ó verdadeira alegria, ó glória e bem-aventurança nossa, a alma que se gloria em ti adquire o fruto teu. Ó Verbo, a alma que se refugiou na tua Paixão, está morta quanto à sensualidade e por isso gosta o afeto da tua caridade.
 

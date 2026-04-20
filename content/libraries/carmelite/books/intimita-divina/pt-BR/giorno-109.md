@@ -1,10 +1,10 @@
 ## XXXIII — HUMILDADE NAS QUEDAS
 
-### Presença de Deus
+**Presença de Deus.** — *"Eu sou miserável e necessitado, ó Senhor, vem em meu socorro. À sombra das Tuas asas me refugio" (Sal. 39, 18; 56, 2).*
 
 ### Meditação
 
-1 — Se consideras tua miséria sem levantar os olhos
+**1** — Se consideras tua miséria sem levantar os olhos
 a Deus, Pai das misericórdias, ficarás facilmente sufocado e desanimado. E se bem te examinas, verás que o desânimo
 deriva sempre de duas causas intimamente ligadas entre si: uma é que, tendo contado com tuas
 forças, teu orgulho ficou ferido e desiludido pelo
@@ -36,7 +36,7 @@ Deus. Nisso descobrirá a própria miséria melhor do que ficando em si mesma, e
 imundos", isto é, pelas próprias misérias (M. I, 2, 8).
 
 
-2 — "A verdadeira humildade, por profunda que seja, nunca inquieta; não agita, não perturba a alma, mas a inunda
+**2** — "A verdadeira humildade, por profunda que seja, nunca inquieta; não agita, não perturba a alma, mas a inunda
 de paz, de suavidade e de repouso... a dilata e a torna mais
 capaz de servir a Deus." Ao contrário, "a humildade do demônio
 perturba, confunde, põe tudo de pernas para o ar e é muito penosa. Se o maligno quer fazer-nos crer que somos humildes,

@@ -1,12 +1,10 @@
 ## 105 — OUR PLACE
 
-### Presence of God
-
-— O my God, that I may know You, that I may know myself! Know that You are He who is, and I am he who is not.
+**Presence of God.** — *— O my God, that I may know You, that I may know myself! Know that You are He who is, and I am he who is not.*
 
 ### Meditation
 
-1 — Among all creatures in which we love to delight
+**1** — Among all creatures in which we love to delight
 and toward which our nature feels greatly drawn, our
 self undoubtedly holds first place. There is no person,
 however little endowed with gifts and qualities, who does not love
@@ -46,7 +44,7 @@ with divine help. "What have you that you have not received? and if you received
 received it?" (I Cor. 4, 7).
 
 
-2 — In the supernatural order, where everything depends
+**2** — In the supernatural order, where everything depends
 on grace, Jesus' word is verified in the strictest way:
 "Without Me you can do nothing" (Jn. 15, 5).
 Although baptismal sanctifying grace has raised us to the supernatural order, and infused virtues have

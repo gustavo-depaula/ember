@@ -1,12 +1,10 @@
 ## 7 — THE MOUNTAIN OF PERFECTION
 
-### Presence of God
-
-"Who shall ascend the mountain of the Lord?" (Ps. 23, 3). I ask my God to allow me to approach the holy mountain where He dwells, where only His honor and glory reign.
+**Presence of God.** — *"Who shall ascend the mountain of the Lord?" (Ps. 23, 3). I ask my God to allow me to approach the holy mountain where He dwells, where only His honor and glory reign.*
 
 ### Meditation
 
-1 — St. John of the Cross left us a diagram that summarizes and expresses the whole spiritual life in synthesis. It is the outline of a mountain whose summit, representing the state of perfection, is shown by a circle; the ascent is symbolized by three roads that move toward the center of the circle, but only one, the narrowest, reaches it: it is the way of "nothing," that is, of total self-denial; it leads straight to the center of the circle where it is written: "only the honor and glory of God dwell here."
+**1** — St. John of the Cross left us a diagram that summarizes and expresses the whole spiritual life in synthesis. It is the outline of a mountain whose summit, representing the state of perfection, is shown by a circle; the ascent is symbolized by three roads that move toward the center of the circle, but only one, the narrowest, reaches it: it is the way of "nothing," that is, of total self-denial; it leads straight to the center of the circle where it is written: "only the honor and glory of God dwell here."
 
 The soul reaches this supreme summit when, ruled by perfect charity, it adheres totally to the divine will, is moved only by it, and therefore tends solely to the glory of the Most Holy Trinity. "Here there is no longer any road, because for the just man there is no law..." is written around the circle. In fact, the soul totally ruled by the love of God no longer needs, in order to do its duty, the spur of an external law forcing it to remain on the right path; the divine will has become spiritually the one "principle of activity" that moves and directs it in all its actions. Therefore the Saint says that, in this state, of the two wills—the human and the divine—only one has been made, and this single will is the divine will become the soul's will which, by losing itself in it, has abandoned every other choice.
 
@@ -24,7 +22,7 @@ OF ST. JOHN OF THE CROSS
 
 Thus, through the harsh way of "nothing," the soul reaches the immense "all" of its God, the only treasure in which it loses itself.
 
-2 — The only way capable of leading to the summit of perfection is the harsh path of nothingness, which leaves aside the two comfortable roads "of the imperfect spirit," which close off halfway up the mountain and prevent the ascent. The imperfect spirit is the one "attached" to earthly goods, or even to spiritual goods, loved in a disordered way for the sake of one's own satisfaction.
+**2** — The only way capable of leading to the summit of perfection is the harsh path of nothingness, which leaves aside the two comfortable roads "of the imperfect spirit," which close off halfway up the mountain and prevent the ascent. The imperfect spirit is the one "attached" to earthly goods, or even to spiritual goods, loved in a disordered way for the sake of one's own satisfaction.
 
 To leave "the path of the imperfect spirit," therefore, one must no longer love anything except in full conformity with the will of God. In fact, every object loved for itself, and not according to the divine will, becomes in us a source of concern, desire, agitation, and seeking; it stirs our heart and drives us to act in search of our own satisfaction. How many "principles of action" different from the will of God in a soul attached to created things! Such a soul is precisely on those "paths of imperfection" that will never lead it to the goal. Therefore next to them it is written: "neither the goods of earth nor the goods of heaven" and therefore nothing. On this fundamental concept several verses insist, written at the base of the diagram: "To reach tasting, knowing, possessing, being all, will neither to taste, nor to know, nor to possess, nor to be anything. You must continue your path without taste, without knowing, without possession; you must go by where you are nothing." It is the dry and desolate path of purification of sense and spirit that annihilates the soul to prepare it for profound encounter with God, for the "all" of full conformity of its will with the divine will.
 

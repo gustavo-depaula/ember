@@ -1,12 +1,10 @@
 ## 115 — TRUE GLORY
 
-### Presence of God
-
-— O Jesus, who for love of me accepted the dishonor of death on the cross, teach me wherein true glory consists, and grant that for love of You I may know how to conquer my points of honor.
+**Presence of God.** — *— O Jesus, who for love of me accepted the dishonor of death on the cross, teach me wherein true glory consists, and grant that for love of You I may know how to conquer my points of honor.*
 
 ### Meditation
 
-1 — St. Teresa of Jesus teaches: "If one is attached even a little to honor, one cannot advance in virtue without first freeing oneself from it," because "where points of honor reign, one will never reach full detachment, nor enjoy the true fruit of prayer," which is intimacy with God. Indeed, the Saint notes that the reason why many persons, long trained in spiritual life and deserving for so many good works, "still crawl along the ground" and do not succeed in rising higher, lies precisely in being held back by the "point of honor; and, what is worse, they do not want to be persuaded of it, deceived as they are by the devil to the point of believing they are obliged to defend it" (Vi. 31, 20; Cam. 12, 5).
+**1** — St. Teresa of Jesus teaches: "If one is attached even a little to honor, one cannot advance in virtue without first freeing oneself from it," because "where points of honor reign, one will never reach full detachment, nor enjoy the true fruit of prayer," which is intimacy with God. Indeed, the Saint notes that the reason why many persons, long trained in spiritual life and deserving for so many good works, "still crawl along the ground" and do not succeed in rising higher, lies precisely in being held back by the "point of honor; and, what is worse, they do not want to be persuaded of it, deceived as they are by the devil to the point of believing they are obliged to defend it" (Vi. 31, 20; Cam. 12, 5).
 
 Attachment to points of honor is resolved in practice
 into many small or great touchy sensitivities for asserting
@@ -33,7 +31,7 @@ can shatter it, but He wills to be aided by us with
 prayers and generous efforts" (Vi. 31, 20).
 
 
-2 — To see whether we are truly detached from
+**2** — To see whether we are truly detached from
 points of honor, we must not rely on certain desires that
 sometimes come in abundance during prayer, by which
 we seem ready to bear any humiliation

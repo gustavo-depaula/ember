@@ -1,10 +1,10 @@
 ## X — A POBREZA VOLUNTÁRIA
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Senhor, dignai-Vos mostrar-me os tesouros escondidos na pobreza voluntária e os deveres que dela derivam.*
 
 ### Meditação
 
-1 — S. Tomás ensina que para chegar à perfeição da caridade requer-se desprender o mais possível
+**1** — S. Tomás ensina que para chegar à perfeição da caridade requer-se desprender o mais possível
 o coração das coisas do mundo, para concentrar em Deus
 todos os próprios afetos. "Ora, quem possui coisas temporais,
 
@@ -27,7 +27,7 @@ próprio". E assim alcança a liberdade necessária
 para seguir Jesus no caminho da perfeição.
 
 
-2 — Se fizeste profissão de pobreza voluntária, reflete que perdeste a liberdade de usar a teu bel-prazer
+**2** — Se fizeste profissão de pobreza voluntária, reflete que perdeste a liberdade de usar a teu bel-prazer
 
 
 as coisas temporais. Mesmo que as regras do teu Instituto

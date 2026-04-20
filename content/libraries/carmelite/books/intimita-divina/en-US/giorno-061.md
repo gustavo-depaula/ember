@@ -1,18 +1,16 @@
 ## 61 — THE WORKS OF JESUS
 
-### Presence of God
-
-Grant me, O Jesus, to penetrate the immensity of Your works.
+**Presence of God.** — *Grant me, O Jesus, to penetrate the immensity of Your works.*
 
 ### Meditation
 
-1 — "The works that the Father has given Me to accomplish, these works... I accomplish. I must accomplish the works of Him who sent Me" (Jn. 5, 36; 9, 4). Jesus has no other aim than to fulfill the mission entrusted to Him by the Father for the Father's own glory, for the redemption of humanity. He burns with the desire - "with desire I have desired" (Lk. 22, 15) - to accomplish this work to the very end, and with this living desire He goes forth to meet the Passion and embraces the cross.
+**1** — "The works that the Father has given Me to accomplish, these works... I accomplish. I must accomplish the works of Him who sent Me" (Jn. 5, 36; 9, 4). Jesus has no other aim than to fulfill the mission entrusted to Him by the Father for the Father's own glory, for the redemption of humanity. He burns with the desire - "with desire I have desired" (Lk. 22, 15) - to accomplish this work to the very end, and with this living desire He goes forth to meet the Passion and embraces the cross.
 
 To each of us God has entrusted a part in Jesus' great redemptive work: souls consecrated to God, we are expressly called to collaborate in Christ's work. First of all, we must collaborate with grace so that the fruits of Redemption may be fully applied to our souls: this is the work of our personal sanctification. But this is not enough; we are called to sanctify ourselves in order to sanctify; each of us has a mission to accomplish for the good, for the sanctification of other souls: it is a matter of collaborating with Christ to extend to as many souls as possible the fruits of Redemption. This is the work that the heavenly Father entrusts to us; we must apply ourselves to it with Jesus' very sentiments: total, generous, exclusive dedication, capable of embracing even the greatest sacrifices. Every action of ours has value insofar as it leads us to realization of this work; all that does not serve our sanctification or the sanctification of others is useless, is a waste of time, and therefore must be courageously eliminated.
 
 Let us repeat together with Jesus: it is fitting that I fulfill the work the Father has entrusted to me.
 
-2 — "I am not alone, because the Father is with Me. My Father works... and I work as He does... As I hear [from the Father], I judge... I do nothing of Myself, but I always speak in conformity with what My Father taught Me" (Jn. 16, 32; 5, 17-30; 8, 28).
+**2** — "I am not alone, because the Father is with Me. My Father works... and I work as He does... As I hear [from the Father], I judge... I do nothing of Myself, but I always speak in conformity with what My Father taught Me" (Jn. 16, 32; 5, 17-30; 8, 28).
 
 Jesus not only gives Himself completely to the mission entrusted Him by the Father, but in fulfilling this mission, and in every detail, He always acts in union with the Father, in perfect harmony with Him, always depending on Him, solely according to what He hears from Him and sees in Him. Jesus' actions only translate in human, tangible form the invisible and incessant work of the Father: "what He sees the Father doing, the Son does likewise" (ibid., 5, 19); "The things I say," Jesus affirms, "I say as the Father told Me" (ibid., 12, 50).
 

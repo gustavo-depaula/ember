@@ -1,13 +1,11 @@
 ## VIII — A SEMENTE DIVINA
 *domingo da Sexagésima*
 
-### Presença de Deus
-
-— Ó Senhor, eis-me diante de ti: que meu coração seja a boa terra pronta a acolher e a fazer frutificar tua palavra.
+**Presença de Deus.** — *— Ó Senhor, eis-me diante de ti: que meu coração seja a boa terra pronta a acolher e a fazer frutificar tua palavra.*
 
 ### Meditação
 
-1 — Jesus, o Semeador divino, vem hoje espalhar a boa semente em sua vinha, a Igreja; Ele quer chamar nossas almas a uma nova floração de graça e de virtude.
+**1** — Jesus, o Semeador divino, vem hoje espalhar a boa semente em sua vinha, a Igreja; Ele quer chamar nossas almas a uma nova floração de graça e de virtude.
 
 "A semente é a palavra de Deus." O Verbo, Palavra eterna do Pai, fez-se homem, fez-se Cristo e vem espalhar no coração dos homens a palavra divina, a qual não é outra coisa senão um reflexo dele mesmo. A palavra divina não é um som que bate no ar e logo se dispersa como a palavra dos homens, mas é luz sobrenatural que ilumina sobre o verdadeiro valor das coisas, é graça
 
@@ -17,7 +15,7 @@ que dá a capacidade e a força de viver segundo a luz de Deus. É, portanto, se
 Por que, então, a semente nem sempre dá os frutos desejados? Porque muitas vezes o terreno que a recebe não tem as disposições necessárias. Deus não cessa de espalhar sua semente no coração dos homens, não cessa de convidá-los, de solicitá-los ao bem com sua luz, com seus chamados, não cessa de dispensar por meio dos sacramentos sua graça; mas tudo isso permanece vão e estéril, se o homem não apresenta a Deus um terreno - isto é, um coração - apto, bem disposto. Deus nos quer salvos, nos quer santos, mas não força ninguém: respeita nossa liberdade.
 
 
-2 — O Evangelho de hoje (Lc. 8, 4-15) apresenta quatro categorias de pessoas que recebem de modo diverso a semente da palavra divina e as compara: à estrada batida, ao solo pedregoso, à terra espinhosa e, por fim, ao bom terreno.
+**2** — O Evangelho de hoje (Lc. 8, 4-15) apresenta quatro categorias de pessoas que recebem de modo diverso a semente da palavra divina e as compara: à estrada batida, ao solo pedregoso, à terra espinhosa e, por fim, ao bom terreno.
 
 Estrada batida: almas levianas, dissipadas, abertas como a estrada a qualquer distração, ruído, curiosidade; abertas à passagem de qualquer criatura e afeto terreno. Mal a palavra de Deus chega ao seu coração, logo o inimigo, encontrando livre acesso, a arrebata, impedindo-a de criar raízes.
 

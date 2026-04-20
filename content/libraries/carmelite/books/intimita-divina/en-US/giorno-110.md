@@ -1,12 +1,10 @@
 ## 108 — HUMILIATIONS
 
-### Presence of God
-
-— O Jesus, humbled for me even unto abjection, teach me to humble myself for love of You.
+**Presence of God.** — *— O Jesus, humbled for me even unto abjection, teach me to humble myself for love of You.*
 
 ### Meditation
 
-1 — Many like to be humble, but few like to be
+**1** — Many like to be humble, but few like to be
 humbled; many with fervent prayers ask God for humility, but very few ask for humiliation, and yet without
 humiliation it is impossible to attain humility,
 because, as study is the means to acquire knowledge,
@@ -45,7 +43,7 @@ your pride and truly desire to be freed from it, accept
 every humiliation and through them the Lord will break your pride.
 
 
-2 — Rather than seek humiliations on your own initiative,
+**2** — Rather than seek humiliations on your own initiative,
 dispose yourself to accept well those inflicted on you
 against your liking. Because, while in humiliations you
 impose on yourself there can be mingled a subtle pride - as

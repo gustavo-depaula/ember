@@ -1,12 +1,10 @@
 ## 307 — BLESSED ARE THE POOR IN SPIRIT
 
-### Presence of God
-
-O Holy Spirit, show me the way that leads to true poverty of spirit, and give me strength to follow it to the end.
+**Presence of God.** — *O Holy Spirit, show me the way that leads to true poverty of spirit, and give me strength to follow it to the end.*
 
 ### Meditation
 
-1. — When a soul follows the motions of the gifts, they produce in it such exquisite fruits of virtue that it begins to taste something of eternal beatitude, of which they are a pledge. For this reason they are called beatitudes. To each gift corresponds a beatitude; to the gift of fear corresponds poverty of spirit: "Blessed are the poor in spirit, for theirs is the kingdom of heaven" (Mt. 5:3).
+**1** — When a soul follows the motions of the gifts, they produce in it such exquisite fruits of virtue that it begins to taste something of eternal beatitude, of which they are a pledge. For this reason they are called beatitudes. To each gift corresponds a beatitude; to the gift of fear corresponds poverty of spirit: "Blessed are the poor in spirit, for theirs is the kingdom of heaven" (Mt. 5:3).
 
 The gift of fear, desiring to lead the soul to complete freedom from sin, aims to extinguish in it concupiscence for earthly things, the principal cause of sin. Therefore it urges the soul along a path of total detachment, stripping it of every claim of egoism and pride, every greed, every demand regarding earthly goods, and establishing it gradually in perfect poverty of spirit.
 
@@ -14,7 +12,7 @@ Before all that life can offer us — honors, satisfactions, creaturely affectio
 
 The Holy Spirit presses the soul toward material poverty, teaching it to be content with little, to make no demands even concerning necessities of life. Yet He presses it even more toward spiritual poverty, because without this the first is worth nothing. "The mere deprivation of things," says St. John of the Cross, "does not strip the soul at all if it still keeps appetite [attachment] for them. It is not the things of this world that occupy or harm the soul, because they do not enter it, but desire and appetite for them, which dwell in it" (Ascent I, 3, 4).
 
-2. — Poverty of spirit includes not only detachment from material goods, but also detachment from moral and even spiritual goods.
+**2** — Poverty of spirit includes not only detachment from material goods, but also detachment from moral and even spiritual goods.
 
 Whoever nourishes claims regarding affirmation of personality, the esteem and regard of creatures, whoever remains attached to his own will, ideas, or independence, is not poor in spirit but still rich in self, self-love, and pride. "If you wish to be perfect," St. John of the Cross exhorts, "sell your will; approach Christ in meekness and humility and follow Him to Calvary and the tomb" (Admonitions).
 

@@ -1,13 +1,11 @@
 ## 42 — THE HOLY FAMILY
 *First Sunday after Epiphany*
 
-### Presence of God
-
-— I ask the Most Holy Mary to admit me into the humble house of Nazareth so that I may consider the admirable life that Jesus leads there.
+**Presence of God.** — *— I ask the Most Holy Mary to admit me into the humble house of Nazareth so that I may consider the admirable life that Jesus leads there.*
 
 ### Meditation
 
-1 — Today—and it is the last time in the cycle of the liturgical year—the Church leads us back to consider the mystery
+**1** — Today—and it is the last time in the cycle of the liturgical year—the Church leads us back to consider the mystery
 of Jesus' humble and hidden life. A sense of profound
 intimacy and tenderness characterizes today's feast and shines through
 the liturgy: today "...it is sweet for us to recall the little
@@ -36,7 +34,7 @@ Man, learn to obey; earth, learn to submit; dust, learn to subject yourself. A G
 men, and you, seeking to dominate men, set yourself
 above your Author?"
 
-2 — "Did you not know that I must attend to what concerns my Father?" Jesus, so humble, so subject,
+**2** — "Did you not know that I must attend to what concerns my Father?" Jesus, so humble, so subject,
 does not hesitate to answer in this way to Mary,
 who gently reproaches Him for having remained in the temple without
 her and Joseph knowing, while they, anguished, had already for

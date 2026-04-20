@@ -1,13 +1,11 @@
 ## 40 — JESUS UNIVERSAL KING
 *January 5*
 
-### Presence of God
-
-— O Lord, Your greatnesses are inexhaustible; make me capable of adoring and loving You in a manner worthy of Your infinite majesty.
+**Presence of God.** — *— O Lord, Your greatnesses are inexhaustible; make me capable of adoring and loving You in a manner worthy of Your infinite majesty.*
 
 ### Meditation
 
-1 — Jesus is our all and rightly, therefore, He is
+**1** — Jesus is our all and rightly, therefore, He is
 also our King. He Himself proclaimed it: "I am
 King" (Jn. 18, 37); "all power has been given to me in heaven
 and on earth" (Mt. 28, 18).
@@ -34,7 +32,7 @@ Therefore we are no longer our own, since at so dear a price Christ has bought u
 therefore, has every right to reign over us; therefore He
 must reign: oportet Illum regnare! (1 Cor. 15, 25).
 
-2 — From all eternity God the Father saw in Christ
+**2** — From all eternity God the Father saw in Christ
 — His Only-Begotten made man for the redemption of sinful humanity — the masterpiece of His hands, and
 therefore decreed that all creation be made for
 Him, given to Him as His royal appanage. St. Paul

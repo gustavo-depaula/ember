@@ -1,12 +1,10 @@
 ## XIII — A MODÉSTIA
 
-### Presença de Deus
-
-— Ó Jesus, Esposo das virgens, mostra-me como deve viver uma alma consagrada a ti.
+**Presença de Deus.** — *— Ó Jesus, Esposo das virgens, mostra-me como deve viver uma alma consagrada a ti.*
 
 ### Meditação
 
-1 — A castidade perfeita supõe um absoluto domínio
+**1** — A castidade perfeita supõe um absoluto domínio
 do espírito sobre a matéria. Mas tal domínio é em nós contrastado por tendências desordenadas para os prazeres sensíveis;
 também as almas consagradas a Deus trazem o tesouro da
 castidade em "vasis fictilibus" (II Cor. 4, 7), isto é, no vaso
@@ -50,7 +48,7 @@ das coisas baixas da terra, para serem totalmente empenhados
 no serviço divino.
 
 
-2 — Quanto mais uma pessoa aspira a tal doação a
+**2** — Quanto mais uma pessoa aspira a tal doação a
 Deus, quanto mais visa à união com Ele e mais sua conduta deve
 ser informada por uma perfeita modéstia. Modéstia do
 rosto, do andar, do gesto, do trato: "Em toda ação

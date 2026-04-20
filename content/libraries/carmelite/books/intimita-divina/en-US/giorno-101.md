@@ -1,10 +1,10 @@
 ## 99 — VENIAL SIN
 
-### Presence of God
+**Presence of God.** — *Inflame me, O Lord, with Your holy zeal so that I may not tolerate in myself the smallest thing that displeases You.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
+**1** — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
 opposite to it, with the consequence of diminishing its
 impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
 God.
@@ -40,7 +40,7 @@ offending a Majesty so great?" (P. 2,
 5 and 20; Way 41, 3).
 
 
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
+**2** — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
 wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
 by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
 of the Lord, rises again, and sets out once more. Such

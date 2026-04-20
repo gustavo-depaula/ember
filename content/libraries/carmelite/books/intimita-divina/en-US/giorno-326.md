@@ -1,12 +1,10 @@
 ## 326 — TO FEEL WITH CHRIST
 
-### Presence of God
-
-O Jesus, grant that I may nourish for souls sentiments similar to those of your divine Heart.
+**Presence of God.** — *O Jesus, grant that I may nourish for souls sentiments similar to those of your divine Heart.*
 
 ### Meditation
 
-1. — Effective collaboration always requires certain affinity of intentions and methods between one promoting work and collaborators. Indeed this affinity must be all deeper the more work to be done is not material but spiritual.
+**1** — Effective collaboration always requires certain affinity of intentions and methods between one promoting work and collaborators. Indeed this affinity must be all deeper the more work to be done is not material but spiritual.
 
 Since he must collaborate with God for good of souls, apostle must live in intimate spiritual affinity with Him, entering as much as possible into his views and plans for salvation of world.
 
@@ -18,7 +16,7 @@ Apostle must understand deeply that God's action for men is all action of love: 
 
 Apostle must seek to place his heart in contact with God's heart, to be filled with his love, to share his charity for men. Apostle must, so to speak, feel with God, feel with Christ, that is, nourish deep sentiments of love for brethren, pale reflection of God's love for men.
 
-2. — Not only in prayer, but in very exercise of apostolate, apostle must seek to remain in contact with God and mystery of his love for men, to which he must humbly collaborate.
+**2** — Not only in prayer, but in very exercise of apostolate, apostle must seek to remain in contact with God and mystery of his love for men, to which he must humbly collaborate.
 
 He will seek this contact through intense exercise of faith, which will make him better understand mystery of Redemption, recognize actualization of this mystery in various circumstances and unfolding events, and help him insert his humble action into great divine action.
 

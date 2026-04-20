@@ -1,12 +1,10 @@
 ## 3 — HOLINESS FULLNESS OF GRACE
 
-### Presence of God
-
-I approach Jesus, "source of life and holiness", with a lively desire to drink from this inexhaustible source.
+**Presence of God.** — *I approach Jesus, "source of life and holiness", with a lively desire to drink from this inexhaustible source.*
 
 ### Meditation
 
-1 — If Jesus came to sanctify "all" of us, if God's will is for "all" to be saints, holiness cannot consist in extraordinary gifts of nature and grace, which depend solely on the liberality of God.
+**1** — If Jesus came to sanctify "all" of us, if God's will is for "all" to be saints, holiness cannot consist in extraordinary gifts of nature and grace, which depend solely on the liberality of God.
 
 Holiness must consist of something that all souls of good will, even the humblest and simplest, can achieve supported by divine help. Holiness is the perfection of the Christian life. It consists in the full development within us of supernatural life, the principles of which are sanctifying grace, the infused virtues and the gifts of the Holy Spirit.
 
@@ -14,7 +12,7 @@ Baptism has placed in us this seed of holiness which is precisely grace, a seed 
 
 Grace, by elevating us to the supernatural state, makes us capable of entering into a relationship with the Most Holy Trinity, that is, capable of knowing and loving God as He is in Himself, as He Himself knows and loves Himself. It is therefore a new life of knowledge and love that grace gives birth to and nourishes in us, a life that is participation in divine life. And what could be holier and more sanctifying than these intimate relationships with the Most Holy Trinity? Grace brings us to such heights, a gift granted to all the baptized.
 
-2 — It is necessary that the supernatural life that blossoms from grace invests our entire human life, so that it is supernaturalized in every activity, in every detail, in its entirety. As grace grows and matures in our soul, it exerts an ever wider and deeper influence; and when this influence effectively extends to all our activities, orienting them all towards the glory of God and uniting us totally with him through charity, we will have reached the fullness of Christian life, to holiness.
+**2** — It is necessary that the supernatural life that blossoms from grace invests our entire human life, so that it is supernaturalized in every activity, in every detail, in its entirety. As grace grows and matures in our soul, it exerts an ever wider and deeper influence; and when this influence effectively extends to all our activities, orienting them all towards the glory of God and uniting us totally with him through charity, we will have reached the fullness of Christian life, to holiness.
 
 Grace is a completely free gift that God has bestowed on us through the infinite merits of Jesus. Jesus, by dying on the Cross, deserved it for us and not in a small measure, but in a superabundant measure; He, says St. John, is "full of grace... and of the fullness of him we have all received, and grace upon grace" (Gv. 1, 14 and 16). Precisely for this reason we can all become saints.
 

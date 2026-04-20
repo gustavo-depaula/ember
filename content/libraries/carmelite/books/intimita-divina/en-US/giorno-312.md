@@ -1,18 +1,16 @@
 ## 312 — BLESSED ARE THE MEEK
 
-### Presence of God
-
-O Holy Spirit, pour ever more into my heart the oil of piety and gentleness.
+**Presence of God.** — *O Holy Spirit, pour ever more into my heart the oil of piety and gentleness.*
 
 ### Meditation
 
-1. — The Holy Spirit who, through the gift of fortitude, strengthens our heart, through the gift of piety wants to make it meek and gentle. By exercising virtue of gentleness, we ourselves do all possible — and must do so at any cost — to acquire that meekness of heart so recommended by Jesus and which, as He Himself said, bears fruit of interior peace: "Learn of Me, because I am meek and humble of heart: and you shall find rest to your souls" (Mt. 11:29).
+**1** — The Holy Spirit who, through the gift of fortitude, strengthens our heart, through the gift of piety wants to make it meek and gentle. By exercising virtue of gentleness, we ourselves do all possible — and must do so at any cost — to acquire that meekness of heart so recommended by Jesus and which, as He Himself said, bears fruit of interior peace: "Learn of Me, because I am meek and humble of heart: and you shall find rest to your souls" (Mt. 11:29).
 
 Yet we still do not succeed in establishing ourselves in habitual gentleness and continual peace. Indeed, before unforeseen situations, contradictions, wrongs, offenses, gentleness fails and peace of heart vanishes, at least for a moment. These daily experiences, though painful and humiliating, are salutary, because much better than any reasoning they make us understand insufficiency of our efforts and extreme necessity of divine help — help God Himself has already established to give by infusing in us the gift of piety.
 
 By putting this gift into act, the Holy Spirit will extinguish in us all residues of resentment toward neighbor, finish dissolving our hardness, and, so to speak, take our heart in his hands to establish it in habitual meekness and peace. As long as this poor heart remains in our own hands, we shall never be fully masters of it. But even if every day, despite often renewed resolutions, we must record failures in gentleness, we should not therefore abandon the enterprise; rather, we should resume our efforts with good will and at same time humbly and insistently invoke divine help: *Veni, Sancte Spiritus, flecte quod est rigidum, fove quod est frigidum, rege quod est devium* — Come, Holy Spirit, bend and conquer my hardness, warm my coldness, direct and straighten what makes me deviate from meekness.
 
-2. — The beatitude corresponding to the gift of piety is reward promised to souls who, through their efforts and help of the Holy Spirit, have reached perfect meekness: "Blessed are the meek, for they shall possess the land" (Mt. 5:4). Which land? First of all that of one's own heart, since, says St. Thomas, "meekness makes man master of himself" (II-II, q. 157, a. 4).
+**2** — The beatitude corresponding to the gift of piety is reward promised to souls who, through their efforts and help of the Holy Spirit, have reached perfect meekness: "Blessed are the meek, for they shall possess the land" (Mt. 5:4). Which land? First of all that of one's own heart, since, says St. Thomas, "meekness makes man master of himself" (II-II, q. 157, a. 4).
 
 Without this interior mastery over one's impulses — movements of animosity, antipathy, indignation, anger, etc. — one may cloak conduct with appearance of sweetness, as worldlings do for convenience, but cannot have that deep meekness which stands unshaken amid life's collisions.
 

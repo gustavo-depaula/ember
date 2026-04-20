@@ -1,128 +1,22 @@
-## 93 — ASHES
-
-### Presence of God
-
-— I place myself in Your presence, O Lord, that Your light may enlighten me on eternal truths and awaken in me sincere desires of conversion.
+## 93 — WITH JESUS CRUCIFIED
+**Presence of God.** — *O Jesus, I place myself at the foot of Thy Cross, that Thou mayest make me understand how necessary it is to suffer in order to become like Thee.*
 
 ### Meditation
 
-1 — "You are dust and to dust you shall return" (Gen. 3, 19).
-These words, pronounced for the first time by God and
-addressed to Adam as a consequence of the sin committed,
+**1** — For the soul that aspires to union with God, penance is not merely a means of subjecting the flesh to the spirit; it is also a means of assimilating oneself to Christ crucified, of reproducing and prolonging His Passion in one's own body. "Love produces equality and likeness" *(I.C.* I, 4, 4): he who truly loves spontaneously desires to share in the sufferings of the beloved; and so it is with those who truly love the Crucified. St. Mary Magdalen de' Pazzi would exclaim: "Beneath a Head crowned with thorns and crucified, a delicate member does not befit; and beside a suffering Spouse, a unmortified bride does not become." For a bride it is an honor to be able to share in every way the life of her spouse; for a soul consecrated to God it is an honor to be able to share, at least in small part, the Passion of Christ, and she glories in it: "But God forbid that I should glory, save in the cross of Our Lord Jesus Christ, by whom the world is crucified to me, and I to the world" *(Gal.* 6, 14).
 
+While the mortification of the spirit is certainly more important than that of the body, we must not forget that Jesus, in order to save the world, willed to embrace both, and in the most complete manner. His entire life was cross and martyrdom, and it ended with the sacrifice of Calvary, where the immolation, both spiritual and physical, reached its utmost. "As for the mortification of the sensory part," says St. John of the Cross, "it is certain that He died with respect to the sensitive part, spiritually throughout all His life, and naturally at the hour of His death; for during His life... He had nowhere to rest His head, and much less so in death... Therefore," the Saint concludes, "any spirit that would travel the way of sweetnesses and ease, and flee from the imitation of Christ, I would not regard as good" *(A.* II, 7, 10 and 18).
 
-today the Church repeats to every Christian to remind him
-of two fundamental truths: his nothingness and the
-reality of death.
+**2** — St. Teresa Margaret of the Heart of Jesus wrote: "Remember that in entering religion, you undertook to express in yourself the life of the Crucified" *(Sp.* p. 127). To express the life of the Crucified means to live His Passion, to associate oneself with His sufferings with His own intentions: the glory of the Father, the salvation of souls. "I fill up those things that are wanting of the sufferings of Christ, in my flesh, for his body, which is the church" *(Col.* 1, 24). Here is another motive that has moved the Saints toward generous bodily mortification. Nothing is lacking to the Passion of Christ: all "is finished" *(Jn.* 19, 30), He Himself said on the Cross; all is accomplished in Him, our Head, but must still be accomplished in us, His members. Jesus desires to continue His Passion in us, so as to associate us with His redemptive work, to make us collaborators in the most sublime of His works: the salvation of souls. Jesus, who could have done all things by Himself alone, willed to have need of us, in order to apply the infinite merits of His Passion to so many souls.
 
-Dust - the ashes that the Priest places today upon
-your head - which have no consistency and are dispersed by a slight breath
-of wind, speak very well of man's nothingness. "O Lord, my life is as nothing in Your
-presence" (Ps. 38, 6), exclaims the Psalmist. How much your pride, your arrogance, need to understand this
-truth, to understand that all is "nothing" in you!
-Drawn from nothing by God's creating power, by the infinite
-love that wished to communicate to you His being and His
-life, you, because of sin, cannot be eternally rejoined
-to your God without passing through the dark reality
-of death. Consequence and punishment of sin, death
-is in itself bitter and painful; but Jesus, who willed
-in all things to make Himself like us by subjecting Himself to it, gives to
-every Christian the strength to accept it for love. In any case,
-death remains; and you must consider it not to be disturbed,
-but to be urged to good. "In all your works remember
-your end, and you will never sin" (Sir. 7, 40). The
-thought of death warns you of the vanity of earthly things,
-of the swiftness of life - "all passes, God alone remains" - and therefore urges you to attach yourself to nothing, to
-despise every earthly satisfaction, to seek God
-alone. The thought of death makes you understand that "all
-is vanity except loving God and serving Him alone" (Imit. I,
-1, 4).
+Mortification, even physical suffering, is therefore a requirement of the life of union with Christ; and the more generous it is, the more the soul will participate intimately in the interior life and apostolic work of Jesus. One cannot be intimate with Christ without suffering with Him, without ascending with Him upon the Cross. "Let Christ crucified be enough for thee, and with Him suffer and repose" *(I.C.* AM. II, 13).
 
-"Remember that you have only one soul, that you must die
-only once... and you will let go many things" (T.G. A.
-68), that is, you will let go all those things that are worth
-
-
-nothing for eternity. For eternity only love is worth,
-fidelity to God: "In the evening of life you will be examined on love" (J.C.
-S.C. I, 57).
-
-
-2 — The whole liturgy of today is an invitation to penance. During the imposition of ashes one sings: "Let us
-
-
-change garments and cover ourselves with ashes and sackcloth; let us fast and weep before God." It is the invitation to bodily
-penance, particularly prescribed in this season; but it is
-immediately followed by the invitation to conversion: "Let us amend ourselves for the sins committed." The end of physical
-penance is spiritual penance, that is, humility,
-recognition of one's faults, compunction of heart, reform of life.
-
-This is the dominant thought of the day. In the Epistle (Joel 2, 12-19) we read: "Now therefore thus says the
-Lord: Return to Me with all your heart in fasting,
-in weeping and in mourning. Rend your hearts and not
-your garments." Compunction and conversion of heart
-are placed first, because if bodily penance
-does not come from a contrite heart, it has no value. But
-on the other hand bodily penance prepares the soul for
-conversion, insofar as it is a means to reach it. "O God -
-sings the Preface of this season - through bodily fasting,
-You repress sin, lift up the soul, and grant strength and
-reward." Whoever wishes to reach the end - which is renewal of spirit - must willingly embrace the
-means that leads there, namely bodily penance. These
-two elements must never be separated: compunction of the
-heart gives value to penance of the body, and penance of the
-body helps and expresses compunction of the heart.
-
-The Gospel (Mt. 6, 16-21) then tells us that every penance must be done with sincerity, without vain ostentation,
-and joyfully: "When you fast, do not imitate the
-hypocrites who put on a gloomy face and disfigure their
-countenance so as to show men that they fast." Vanity and pride render useless and even sinful
-even the most austere practices of penance: they destroy
-their substance and value, reducing them to wretched external
-shells devoid of all content. Therefore, when you mortify
-your body, be careful to mortify still more your self-
-love.
-
-
+Suffering has a supernatural value only when one suffers with Christ and for Christ: it is Jesus who sanctifies sorrow; apart from Him, sorrow is worth nothing, serves no purpose. But when embraced for love of Him, it becomes precious coin, capable of redeeming and sanctifying souls; it becomes the prolongation of His Passion.
 
 ### Colloquy
 
-"O Jesus, how long is man's life, although
-it is said to be short! Short, my God, for using it
-to gain the life that has no end, but very long for
-the soul that desires to see itself soon with You.
+"O desired Passion! And who is he that desires thee, and loves thee, and glories in thee? O Eternal Truth, Thou sayest to me that she is not desired, nor loved by one who loves himself, but by one who has stripped himself of self and has clothed himself with Thee, Christ crucified, and by Thy light perceives in the cross the height of Thy charity. O pleasant and tranquil Passion, that with tranquility of peace makest the soul to run over the waves of the tempestuous sea. O delightful and most sweet Passion! O riches of the soul, O true gladness, O our glory and blessedness — the soul that glories in thee acquires thy fruit. O Word, the soul that has taken refuge in Thy Passion is dead as to sensuality, and therefore savors the affection of Thy charity.
 
-"My soul, when you shall plunge into the highest Good
-and know as He knows, when you will love what
+"O my God, my love, one thing I ask of Thee: when the world lay as if sick, Thou didst send Thy only-begotten Son to it as physician... and now what means wilt Thou use to raise up another world that lies again in death?... Behold, I see that Thou callest Thy servants Christs, and through them Thou desirest to take away death and restore life to the world. And in what manner? It is needful that they walk manfully in the way of the Word, with diligence and burning desire, laboring for Thine honor and the salvation of souls; and for this they must patiently sustain pains, torments, reproaches, rebukes... O most excellent Physician, give us then some of these Christs, who shall live continually in vigils, in tears, in prayer for the salvation of the world" (St. Catherine of Siena).
 
-
-He loves and enjoy what He enjoys, then you will enter into
-your rest: your will will lose its inconstancy and
-will no longer be subject to change... and you will always enjoy
-Him and His love... Blessed are those who are written in
-the book of this life! If you are, why then, my soul,
-are you saddened and disturb me? Hope in God,
-to whom I shall again confess my sins and proclaim His
-mercies. I will compose a canticle of praise to raise it,
-with incessant sighs, to You, my Savior and my God. And it may well be that one day my glory may sing to You,
-without my conscience experiencing in it the bitterness
-of compunction, in that dwelling where tears and fears
-will have ceased forever... O Lord, I prefer
-to live and die in hope and effort for the acquisition
-of eternal life, rather than possess all creatures with their
-passing goods. Do not abandon me, O Lord! I hope in
-You and my hope shall not be confounded. Grant me always to
-serve You, and do with me what You will!" (T.G. Es. 15, 1; 17,
-5-6).
-
-If the thought of my infidelities dismays me, I will remember, O Lord, that "as soon as we repent of having
-offended You, You forget every sin and malice of ours. O
-truly infinite goodness! What more could one want? Who
-would not blush to ask so much of You? This is the moment to profit from it, accepting what You, merciful Lord
-
-
-my God, offer us. You want our friendship. Who
-will refuse it to You, when You did not refuse to pour out
-all Your Blood for us, sacrificing Your life? It is
-nothing what You ask! To listen to You is of supreme
-interest to us" (ibid., 14, 3).
+Thou knowest, O Lord, the deep desire of my heart: to assimilate myself to Thee, to be united with Thee, so as to live only Thy life. If the sublime states of prayer and the flights of the spirit are not for me, the cross is for me: Thou offerest it to me and I desire to embrace it with all my heart. I sense it — what I may most readily find within my reach, what I encounter every day, what is most fitting and possible to my misery — is precisely suffering, since there is no human life without pain. Well then, O Lord, grant that in every physical or moral suffering I may know how to recognize and embrace Thy cross, so that I may intimately associate myself with Thy Passion for the salvation of souls. Thou now, glorious at the right hand of the Father, canst no longer suffer in Thy glorified Humanity: deign then to make use of me, to make use of my poor flesh to continue Thy redemptive work.

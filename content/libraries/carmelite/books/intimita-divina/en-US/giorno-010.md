@@ -1,12 +1,10 @@
 ## 10 — INVITATION TO DIVINE INTIMACY
 
-### Presence of God
-
-I recollect myself in the presence of my God, living in me through grace, with a lively desire to come into contact with Him.
+**Presence of God.** — *I recollect myself in the presence of my God, living in me through grace, with a lively desire to come into contact with Him.*
 
 ### Meditation
 
-1 — "If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our dwelling with him" (Jn. 14, 23).
+**1** — "If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our dwelling with him" (Jn. 14, 23).
 
 This is the great mystery of divine indwelling which assures us, in the very words of Jesus, that God, one and triune, is not far from the soul that loves Him, but rather lives in it, places in it His dwelling.
 
@@ -14,7 +12,7 @@ Catholic doctrine teaches us that God is necessarily present in all His creature
 
 But for the soul clothed with sanctifying grace and charity there is an altogether particular presence of God, precisely the one promised by Jesus, which is called indwelling. "The divine Persons are said to dwell, because they are present, in an inscrutable way, in creatures endowed with intellect and can be reached by these through knowledge and love, but in a way that transcends every created nature and is wholly intimate and singular" (Enc. Mystici Corporis). That is, in the soul in grace the three divine Persons make themselves present to be known by it through faith, loved by it through charity, and also to manifest themselves to it through the intimate illumination of the gifts of the Holy Spirit.
 
-2 — In the soul in grace the Most Holy Trinity is present to invite it to live in fellowship, in intimate friendship with the three divine Persons. It is always Jesus who tells us this in the clearest and most authoritative way: "Abide in me, and I in you" (Jn. 15, 4); "I in them and You in me, that they may be made perfect in unity" (cf. ibid., 17, 23); "as You, Father, are in me and I in You, may they also be one in us" (ibid., 17, 21); but where the Father and the Son are, the Holy Spirit cannot be absent, and Jesus expressly said: "The Spirit of truth... will dwell with you and will be in you" (ibid., 14, 17).
+**2** — In the soul in grace the Most Holy Trinity is present to invite it to live in fellowship, in intimate friendship with the three divine Persons. It is always Jesus who tells us this in the clearest and most authoritative way: "Abide in me, and I in you" (Jn. 15, 4); "I in them and You in me, that they may be made perfect in unity" (cf. ibid., 17, 23); "as You, Father, are in me and I in You, may they also be one in us" (ibid., 17, 21); but where the Father and the Son are, the Holy Spirit cannot be absent, and Jesus expressly said: "The Spirit of truth... will dwell with you and will be in you" (ibid., 14, 17).
 
 To every soul in grace, then, that great word that so deeply struck Sister Elizabeth of the Trinity can be repeated with complete truth: "The Father is in you, the Son is in you, the Holy Spirit is in you"...
 

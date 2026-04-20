@@ -1,12 +1,10 @@
 ## 329 — APOSTOLIC IDEAL
 
-### Presence of God
-
-Kindle in me, Lord, flame of apostolate and nourish it with your love.
+**Presence of God.** — *Kindle in me, Lord, flame of apostolate and nourish it with your love.*
 
 ### Meditation
 
-1. — As seed cannot put forth stalk that will bear new ear unless it first sinks roots into soil, so soul cannot bear fruits for apostolate unless it first puts down roots of serious interior life, by which it will draw from God Himself sap making it fruitful. Interior life is vital principle, strength, flame of apostolate.
+**1** — As seed cannot put forth stalk that will bear new ear unless it first sinks roots into soil, so soul cannot bear fruits for apostolate unless it first puts down roots of serious interior life, by which it will draw from God Himself sap making it fruitful. Interior life is vital principle, strength, flame of apostolate.
 
 Yet apostolate in turn can contribute to interior life, helping render it more generous and intense. When soul is seized by apostolic ideal, its very desire to win other souls to God urges it to engage with greater generosity in prayer, mortification, and exercise of virtues, precisely with aim of making itself more capable of fruitful apostolate.
 
@@ -18,7 +16,7 @@ This same ideal has recently caused in Church a new state of life to arise, that
 
 When apostolic ideal is alive and rightly understood, instead of recklessly throwing souls into action, it leads them to deeper interior life, total self-gift, holiness, because one must be sanctified to sanctify. "For them do I sanctify Myself" (Jn. 17:19).
 
-2. — An interior life in which apostolic ideal does not shine can never be full and vigorous. This depends on nature of grace and charity, which are by themselves expansive and apostolic.
+**2** — An interior life in which apostolic ideal does not shine can never be full and vigorous. This depends on nature of grace and charity, which are by themselves expansive and apostolic.
 
 Although grace adheres intimately and incommunicably to soul endowed with it, it benefits whole Christian community. Dogma of communion of saints tells us precisely that grace and holiness of one member of Christ redound to advantage of all other members.
 

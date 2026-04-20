@@ -1,12 +1,10 @@
 ## 314 — BLESSED ARE THE MERCIFUL
 
-### Presence of God
-
-O Holy Spirit, make my heart merciful in imitation of Heart of Jesus.
+**Presence of God.** — *O Holy Spirit, make my heart merciful in imitation of Heart of Jesus.*
 
 ### Meditation
 
-1. — Through the gift of counsel the Holy Spirit wants to take practical direction of our life to lead us to holiness. Therefore all Christian perfection, which was object of Jesus' teaching, is likewise object of gift of counsel, of suggestions of the Holy Spirit: "He will suggest to you all that I have said to you" (Jn. 14:26), declared the Master.
+**1** — Through the gift of counsel the Holy Spirit wants to take practical direction of our life to lead us to holiness. Therefore all Christian perfection, which was object of Jesus' teaching, is likewise object of gift of counsel, of suggestions of the Holy Spirit: "He will suggest to you all that I have said to you" (Jn. 14:26), declared the Master.
 
 Yet as in Jesus' teaching there is one dominant note — love, which He calls his commandment — so among inspirations of the gift of counsel there is one generally recognized as proper effect of this gift: mercy.
 
@@ -16,7 +14,7 @@ Thus, when God loves us, his love is essentially and necessarily an act of mercy
 
 The Holy Spirit wants to lead us to perfect observance of Jesus' commandment, that is, to imitate merciful love of his divine Heart: "Love one another as I have loved you." He wants to bring us to imitate infinite mercy of heavenly Father: "Be merciful, as your Father also is merciful" (Lk. 6:36).
 
-2. — God is infinitely merciful because He knows our misery to the depths. We are little merciful because we know it too little. The Holy Spirit, through gift of counsel, enlightens us on this point, first regarding our natural misery. In failures and falls He repeats in depth of heart Jesus' admonitions: "Without Me you can do nothing ... you are unprofitable servants" (Jn. 15:5; cf. Lk. 17:10). Little by little this lesson, made more vivid and effective by experience, penetrates deeply into our soul. We no longer need long reasonings to be persuaded of insufficiency, of our nothingness: we see it, touch it by hand. Gift of counsel has opened our eyes.
+**2** — God is infinitely merciful because He knows our misery to the depths. We are little merciful because we know it too little. The Holy Spirit, through gift of counsel, enlightens us on this point, first regarding our natural misery. In failures and falls He repeats in depth of heart Jesus' admonitions: "Without Me you can do nothing ... you are unprofitable servants" (Jn. 15:5; cf. Lk. 17:10). Little by little this lesson, made more vivid and effective by experience, penetrates deeply into our soul. We no longer need long reasonings to be persuaded of insufficiency, of our nothingness: we see it, touch it by hand. Gift of counsel has opened our eyes.
 
 Understanding our natural misery makes us understanding also of others' misery. How can one who is truly convinced of his own fragility, weakness, and inconstancy dare condemn others? "He that is without sin among you, let him first cast a stone" (Jn. 8:7), the Holy Spirit suggests interiorly when, indignant over others' faults, we may be tempted to imitate hard gesture of Pharisees toward adulterous woman.
 

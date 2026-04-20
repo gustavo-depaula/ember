@@ -1,12 +1,10 @@
 ## XXX — A HUMILDADE
 
-### Presença de Deus
-
-— Ó Jesus, que tanto te humilhaste por nós, ensina-me a prática da verdadeira humildade.
+**Presença de Deus.** — *— Ó Jesus, que tanto te humilhaste por nós, ensina-me a prática da verdadeira humildade.*
 
 ### Meditação
 
-1 — A caridade é a essência da perfeição cristã,
+**1** — A caridade é a essência da perfeição cristã,
 porque só a caridade tem o poder de unir o homem a Deus, seu
 último fim. Mas da nossa parte - pobres, míseras criaturas
 que Deus quer elevar até a união com ele - a caridade
@@ -40,7 +38,7 @@ a estabelecer-se em suma humildade, então sim se poderá dizer que já acontece
 (G.C. S. II, 7, 11).
 
 
-2 — A alma que deseja chegar às sublimes alturas
+**2** — A alma que deseja chegar às sublimes alturas
 da união com Deus deve trilhar a via de uma profunda
 humildade, porque, como o Mestre divino ensina,
 só "quem se humilha será exaltado" (Lc. 18, 14).

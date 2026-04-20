@@ -1,10 +1,10 @@
 ## XXVI — A IMPERFEIÇÃO
 
-### Presença de Deus
+**Presença de Deus.** — *Ó meu Deus, faz-me compreender quanto é necessário que a alma seja pura para unir-se a Ti, perfeição infinita!*
 
 ### Meditação
 
-1 — Enquanto o pecado venial inclui sempre uma
+**1** — Enquanto o pecado venial inclui sempre uma
 transgressão mais ou menos leve a uma lei de Deus, a imperfeição
 é a omissão de um bem melhor ao qual não se
 é obrigado por nenhuma lei, mas que todavia seria conveniente cumprir. Quando, no caso concreto, se me apresenta
@@ -40,7 +40,7 @@ venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não 
 que basta o apego a uma imperfeição voluntária habitual para impedir "não só a união divina, mas também o progresso na perfeição" (S. I, 11, 3).
 
 
-2 — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
+**2** — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
 de uma lei que por si não obriga sob pecado,
 como são em geral as constituições ou os estatutos dos vários
 Ordens e Institutos religiosos. A esse propósito é preciso

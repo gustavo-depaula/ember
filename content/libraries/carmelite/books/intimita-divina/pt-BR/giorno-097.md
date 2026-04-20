@@ -2,7 +2,7 @@
 
 **Presença de Deus.** — *Volto aos teus pés, ó Jesus crucificado, com o desejo de compreender mais a fundo o espírito de mortificação.*
 
-**Meditação**
+### Meditação
 
 **1** — O espírito de mortificação não se limita à mortificação física, mas abrange também a renúncia do eu, da vontade, da inteligência. Como no nosso corpo e nos nossos sentidos há tendências desordenadas ao gozo material, assim no nosso eu há tendências desordenadas à autoafirmação. O amor-próprio e a complacência na própria excelência são muitas vezes tão grandes que, mesmo inconscientemente, o homem tende a pôr seu eu quase no centro do mundo.
 
@@ -16,7 +16,7 @@ O mesmo no campo moral. Não acontece às vezes também contigo fugir de uma pes
 
 Para chegar à santidade não se exige de todos uma determinada medida de penitência voluntária — a qual varia segundo a inspiração do Espírito Santo, o parecer dos superiores e as forças físicas de cada um — porém de todos se exige aquele reto e profundo espírito de mortificação que sabe abraçar com generosidade toda ocasião de renúncia preparada ou permitida por Deus.
 
-**Colóquio**
+### Colóquio
 
 Ó Senhor, que pediste adoradores em espírito e verdade, preserva-me, eu te peço, daquele espírito de farisaísmo que tanto combateste na terra e que é tão contrário a ti, Verdade e Simplicidade infinitas. Faze que, enquanto mortifico meu corpo, saiba ainda mais mortificar meu orgulho, ou melhor mortifica-o Tu mesmo.
 

@@ -1,12 +1,10 @@
 ## V — A VIA DO NADA
 
-### Presença de Deus
-
-— Mostra-me, ó Senhor, a via estreita que conduz à verdadeira vida, que conduz à união contigo.
+**Presença de Deus.** — *— Mostra-me, ó Senhor, a via estreita que conduz à verdadeira vida, que conduz à união contigo.*
 
 ### Meditação
 
-1 — Se queres entrar decididamente na via do desapego total, a única que conduz com segurança à união com Deus, deves "pôr o machado à raiz da árvore", isto é, deves golpear e arrancar a raiz dos teus apegos, e esta é a tendência desregrada de gozar, isto é, de buscar tua satisfação em ti mesmo, no teu amor-próprio, ou nas outras criaturas. Foste realmente criado para gozar, mas, em vez de ultrapassar-te a ti mesmo e às coisas para chegar a Deus, em vez de servir-te das criaturas para subir ao Criador, paras para buscar nelas a tua felicidade. Nelas te deténs com afeto desordenado e assim, por uma migalha de satisfação, atas o teu coração à terra e te tornas incapaz de chegar à união com Deus, que é a única fonte da verdadeira felicidade. A tendência desordenada ao gozo é justamente aquela que, em vez de fixar em Deus os teus desejos e afetos, os volta para as criaturas. Eis a raiz de todo apego teu, por pequeno que seja.
+**1** — Se queres entrar decididamente na via do desapego total, a única que conduz com segurança à união com Deus, deves "pôr o machado à raiz da árvore", isto é, deves golpear e arrancar a raiz dos teus apegos, e esta é a tendência desregrada de gozar, isto é, de buscar tua satisfação em ti mesmo, no teu amor-próprio, ou nas outras criaturas. Foste realmente criado para gozar, mas, em vez de ultrapassar-te a ti mesmo e às coisas para chegar a Deus, em vez de servir-te das criaturas para subir ao Criador, paras para buscar nelas a tua felicidade. Nelas te deténs com afeto desordenado e assim, por uma migalha de satisfação, atas o teu coração à terra e te tornas incapaz de chegar à união com Deus, que é a única fonte da verdadeira felicidade. A tendência desordenada ao gozo é justamente aquela que, em vez de fixar em Deus os teus desejos e afetos, os volta para as criaturas. Eis a raiz de todo apego teu, por pequeno que seja.
 
 Para mortificar até o fundo essa tendência desregrada, S. João da Cruz te ensina a "renunciar a qualquer gosto sensível que não seja puramente para glória e honra de Deus; e ficar vazio dele por amor de Jesus Cristo, o qual nesta vida não teve e não buscou outra satisfação senão cumprir a vontade do Pai" (S. I, 13, 4). O Santo não pretende que vivas sem o mínimo gosto ou a mínima satisfação - coisa impossível, já que o homem é criado para a felicidade - mas te ensina a renunciar a todos aqueles gostos que não agradam a Deus e, ao contrário, a pôr os teus gostos e a tua satisfação unicamente em cumprir a vontade de Deus, em agradar-lhe, em dar-lhe glória. Justamente como vivia Jesus, que podia dizer: "faço sempre o que agrada a meu Pai"
 
@@ -14,7 +12,7 @@ Para mortificar até o fundo essa tendência desregrada, S. João da Cruz te ens
 (Jo. 8, 29).
 
 
-2 — Se aquele teu modo de agir ou de falar satisfaz teu amor-próprio, mas compreendes que não pode agradar a Deus, deves renunciar a ele; se aquela conversa, aquela amizade, aquela comodidade te dá gosto, mas duvidas que dê gosto a Deus, deves deixá-la; se tua vontade te impele a fazer uma coisa que, ainda que levemente, é contrária à vontade de Deus, deves abster-te. Estes são os casos em que S. João da Cruz repete sem reticências: nada, nada, nada.
+**2** — Se aquele teu modo de agir ou de falar satisfaz teu amor-próprio, mas compreendes que não pode agradar a Deus, deves renunciar a ele; se aquela conversa, aquela amizade, aquela comodidade te dá gosto, mas duvidas que dê gosto a Deus, deves deixá-la; se tua vontade te impele a fazer uma coisa que, ainda que levemente, é contrária à vontade de Deus, deves abster-te. Estes são os casos em que S. João da Cruz repete sem reticências: nada, nada, nada.
 
 
 Nada às satisfações do orgulho ou do egoísmo, nada

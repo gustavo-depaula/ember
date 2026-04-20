@@ -1,12 +1,10 @@
 ## 92 — BODILY MORTIFICATION
 
-### Presence of God
-
-— O Jesus, grant that my love for You Crucified may go so far as to want to crucify with You and for You my flesh.
+**Presence of God.** — *— O Jesus, grant that my love for You Crucified may go so far as to want to crucify with You and for You my flesh.*
 
 ### Meditation
 
-1 — Following original sin, man has lost the dominion of spirit over senses, over flesh; hence all the evil tendencies that seek to push him downward. St. Paul confesses it humbly: "I know that good
+**1** — Following original sin, man has lost the dominion of spirit over senses, over flesh; hence all the evil tendencies that seek to push him downward. St. Paul confesses it humbly: "I know that good
 does not dwell in me, that is, in my flesh... for I do not
 do the good I will, but the evil I do not will, this I do"
 (Rom. 7, 18 and 19).
@@ -30,7 +28,7 @@ lest perhaps, after preaching to others,
 I myself should be disapproved" (I Cor. 9, 27).
 
 
-2 — St. Teresa of Jesus warns that "prayer, to
+**2** — St. Teresa of Jesus warns that "prayer, to
 be true, must surround itself with practices [of mortification], for prayer and self-indulgent treatment do not go
 together" (Way 4, 2). It would be an illusion to think one can
 arrive at intimate converse with God without a serious exercise

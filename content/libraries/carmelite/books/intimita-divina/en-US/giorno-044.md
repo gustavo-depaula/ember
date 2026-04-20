@@ -1,12 +1,10 @@
 ## 44 — THE MYSTICAL BODY OF CHRIST
 
-### Presence of God
-
-— Holy Spirit, grant me "the abundance of full understanding to know the mystery of Christ Jesus" (Col. 2, 3).
+**Presence of God.** — *— Holy Spirit, grant me "the abundance of full understanding to know the mystery of Christ Jesus" (Col. 2, 3).*
 
 ### Meditation
 
-1 — "I am the vine and you are the branches" (Jn. 15, 5).
+**1** — "I am the vine and you are the branches" (Jn. 15, 5).
 On these words of Jesus, which indicate our union
 with Him, is founded the doctrine of the Mystical Body of Christ.
 Only the comparison has changed: instead of one vine,
@@ -37,7 +35,7 @@ united to it" (Myst. Corp.).
 Here it is affirmed again how every Christian lives
 in Christ and by the life of Christ.
 
-2 — Our union with Christ, Head of the Mystical Body, is certainly not to be understood in the identical sense of the union existing among the various members of a physical body: in fact, although incorporated into Him, each of us maintains "entirely his own personality" (Myst. Corp.); but it must
+**2** — Our union with Christ, Head of the Mystical Body, is certainly not to be understood in the identical sense of the union existing among the various members of a physical body: in fact, although incorporated into Him, each of us maintains "entirely his own personality" (Myst. Corp.); but it must
 not be understood either as a simple moral union which
 exists, for example, among members of the same society. No,
 it is something much deeper; it is a mysterious union, and in this sense is called mystical, but real and vital. A union that comes from there being present in all parts of

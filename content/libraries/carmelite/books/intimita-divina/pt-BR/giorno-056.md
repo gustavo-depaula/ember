@@ -15,7 +15,7 @@ Segue o centurião: o soberbo e poderoso soldado romano não se envergonha de ir
 
 Jesus venceu o mal, mal físico e mal moral, com a misericórdia, com o amor, curando e beneficiando a todos. Esta deve ser a nossa tática; qualquer que seja o mal que nos cerca e nos faz sofrer, nunca o venceremos com discussões, contendas, posições tomadas e sustentadas pela força; mas somente com uma delicada caridade capaz de intuir a mentalidade, os gostos, as necessidades alheias, de intervir no momento oportuno, de condescender e de sacrificar-se sempre pelo bem de qualquer pessoa, ainda que hostil a nós.
 
-**Colóquio**
+### Colóquio
 
 *"Grande Deus, como é fraca a nossa fé!... Somos feitos de tal modo que, às vezes, o nosso livre arbítrio recusa aquilo que Tu, Senhor, nos dás, porque não está conforme ao nosso gosto, ainda que fossem coisas que seriam para nós as melhores... Não, meu Deus, não, não mais confiança nos meus desejos pessoais! Escolhe Tu para mim tudo aquilo que te aprouver querer: isso também eu quererei, porque todo o meu bem está em contentar-te, ao passo que certamente eu me perderia se Tu quisesses contentar-me, dando-me aquilo que eu desejo" (T.G. Cam. 30, 2; Es. 17, 2).
 

@@ -1,9 +1,7 @@
 ## 29 — THE SAVIOR HAS APPEARED
 *December 25*
 
-### Presence of God
-
-My God, who created me for Yourself, grant that I may return to You and be united to You in love.
+**Presence of God.** — *My God, who created me for Yourself, grant that I may return to You and be united to You in love.*
 
 ### Meditation
 
@@ -12,7 +10,7 @@ i — God is charity, God has loved us with an eternal love!
 
 Come, then, adore, listen, rejoice: Jesus, the Father's Word, tells us a great word: God loves you!
 
-2 — The three Christmas Masses place before us a majestic scene: the moving description of Jesus' birth as man alternates with the sublime description of the Word's eternal birth in the Father's bosom, and there are also allusions to Christ's birth in souls through grace. But this threefold birth is only one manifestation of God-Charity. No one on this earth could know God's love, but the Word, who is in the Father's bosom, knows it and can reveal it to us. The Word became flesh and showed us God's love; through Him, His incomprehensible and invisible charity became evident, palpable, in that sweet Child who stretches out His arms to us from the manger. Today's Preface declares it explicitly: "Eternal God, by the mystery of the Incarnation of the Word, a new ray of Your light has shone before the eyes of our mind, so that, knowing God sensibly, we may be carried away to the love of invisible things." Yes, that "Child wrapped in swaddling clothes and lying in a manger" is our God, made sensible and visible to us, our God who shows us in the most concrete way His infinite charity. One cannot contemplate the little Jesus without feeling seized, carried away by the infinite love that gave Him to us; the Child Jesus reveals God's love to us, manifests it to us in the clearest and most moving form.
+**2** — The three Christmas Masses place before us a majestic scene: the moving description of Jesus' birth as man alternates with the sublime description of the Word's eternal birth in the Father's bosom, and there are also allusions to Christ's birth in souls through grace. But this threefold birth is only one manifestation of God-Charity. No one on this earth could know God's love, but the Word, who is in the Father's bosom, knows it and can reveal it to us. The Word became flesh and showed us God's love; through Him, His incomprehensible and invisible charity became evident, palpable, in that sweet Child who stretches out His arms to us from the manger. Today's Preface declares it explicitly: "Eternal God, by the mystery of the Incarnation of the Word, a new ray of Your light has shone before the eyes of our mind, so that, knowing God sensibly, we may be carried away to the love of invisible things." Yes, that "Child wrapped in swaddling clothes and lying in a manger" is our God, made sensible and visible to us, our God who shows us in the most concrete way His infinite charity. One cannot contemplate the little Jesus without feeling seized, carried away by the infinite love that gave Him to us; the Child Jesus reveals God's love to us, manifests it to us in the clearest and most moving form.
 
 St. Paul, in the Epistle (Heb. 1, 1-11) of the third Christmas Mass, says: "God... in these last times spoke to us through His Son... reflection of His glory and imprint of His substance." Jesus, Incarnate Word, in His silence as a powerless child, speaks to us and reveals God's substance to us: God's charity.
 

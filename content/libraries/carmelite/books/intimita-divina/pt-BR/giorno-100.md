@@ -1,123 +1,23 @@
-## XXIV — A IMPERFEIÇÃO
+## 24 — O PECADO
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus crucificado, faz-me compreender a grande malícia do pecado.*
 
 ### Meditação
 
-1 — Enquanto o pecado venial inclui sempre uma
-transgressão mais ou menos leve a uma lei de Deus, a imperfeição
-é a omissão de um bem melhor ao qual não se
-é obrigado por nenhuma lei, mas que todavia seria conveniente cumprir. Quando, no caso concreto, se me apresenta
-com clareza a possibilidade de cumprir uma ação
-melhor, que é conveniente e proporcionada ao meu estado,
-às minhas possibilidades atuais, que está em harmonia com meus
-deveres, de modo que posso razoavelmente pensar ter-me sido
-inspirada pelo Espírito Santo, e todavia recuso deliberadamente
-cumpri-la, isso não pode ser sem verdadeira e própria
-imperfeição. Neste caso, minha recusa do melhor
-não pode ser considerada boa, nem pode ser justificada
-pelo pensamento de que, não existindo nenhuma lei ou comando que me imponha aquela ação melhor, eu possa omiti-
-la unicamente para usar minha liberdade; isso seria
-abuso da liberdade, a qual me foi dada por Deus não
-senão para tornar-me capaz de aderir ao bem, sem
-deixar-me influenciar pelas paixões. E de fato, em última
-análise, minha recusa do melhor inclui sempre uma falta de generosidade, motivada por um pouco de egoísmo, de
-preguiça, de estreiteza, de apego ao meu conforto, e
-tudo isso é evidentemente contrário à perfeição.
+**1** — A essência da perfeição cristã consiste na união com Deus mediante a caridade. Ora, enquanto a caridade, conformando a nossa vontade à vontade divina, nos une a Deus, o pecado — pecado grave — opondo-se diretamente à vontade de Deus, produz o efeito contrário. Em outras palavras, a caridade é a força que une o homem a Deus, o pecado é a força que o separa de Deus. O pecado grave é assim o maior inimigo da vida espiritual, pois não apenas a atenta, mas a destrói nos seus elementos constitutivos, caridade e graça. E esta destruição, esta morte espiritual é precisamente a inevitável consequência do pecado, ato pelo qual o homem se separa voluntariamente de Deus, única fonte de vida, de caridade, de graça. Como não pode viver o ramo cortado do tronco, assim não pode viver a alma separada de Deus.
 
-Considerada assim, é claro que a imperfeição voluntária
-nunca pode ser conforme à vontade de Deus,
-portanto também ela, como o pecado, vai na direção oposta da caridade, a qual tende à plena conformidade
-com a vontade divina. Eis portanto a importância,
+Se Deus, como causa de todo ser, está sempre presente na alma do pecador — da mesma forma como está presente em todas as coisas —, porém nela não está presente como Pai, como Hóspede, como Trindade que se oferece à alma como objeto de conhecimento e de amor. Assim a alma, criada para ser o templo da Trindade, tornou-se voluntariamente incapaz de viver em sociedade com as Pessoas divinas, barrou-se o caminho para a união com Deus, constrangeu, por assim dizer, a Deus a romper com ela toda relação de amizade. E tudo isso porque ao Bem supremo preferiu o bem limitado e caduco de uma mísera criatura, de uma satisfação egoísta, de um prazer terreno. Eis a malícia do pecado que repudia o dom divino, que trai o Criador, o Pai, o Amigo. «Oh! Por que não compreendemos que o pecado é uma guerra aberta de todos os nossos sentidos e de todas as nossas potências contra o Senhor, uma rivalidade universal em que cada um mais inventa traições contra o próprio Rei?» (T.G. *Es.* 14, 2).
 
+**2** — Se queremos compreender melhor a malícia do pecado mortal devemos considerar os seus efeitos desastrosos. Um único pecado transformou em um instante Lúcifer de anjo de luz em anjo das trevas, em eterno inimigo de Deus. Um único pecado destituiu Adão e Eva do estado de graça, de amizade com Deus, privando-os de todo dom sobrenatural e preternatural, condenando-os à morte, e com eles toda a humanidade. Um único pecado bastou para cavar um abismo entre Deus e a humanidade, para fechar ao gênero humano toda possibilidade de união com Deus.
 
-para uma alma que busca a perfeição, de eliminar da sua
+Mas, mais ainda do que tudo isso, a Paixão de Jesus nos diz quanto é grande a malícia e a força destrutora do pecado. Os membros lacerados de Cristo, a sua dolorosíssima morte de cruz, nos dizem que o pecado é uma espécie de deicídio. Jesus, o mais belo dos filhos dos homens, por causa do pecado tornou-se «o abjeto, o último dos homens, o homem das dores... Ele foi trespassado pelas nossas iniquidades» de tal modo que «da planta dos pés ao cimo da cabeça, nada tem de são» *(Is.* 53, 3-5; 1, 6). O pecado martirizou Cristo e o reduziu à morte, mas por outro lado Cristo foi à paixão e à morte «porque quis» (ivi, 53, 7), porque com a sua morte quis destruir o pecado e restabelecer o homem na amizade divina.
 
-
-conduta qualquer imperfeição voluntária. É precisamente
-neste sentido que S. João da Cruz adverte: "Para que a alma
-venha a unir-se perfeitamente com Deus por vontade e amor... requer-se que não consinta com conhecimento e advertência em nenhuma imperfeição"; e ensina
-que basta o apego a uma imperfeição voluntária habitual para impedir "não só a união divina, mas também o progresso na perfeição" (S. I, 11, 3).
-
-
-2 — Querendo descer mais ao concreto, podem considerar-se outros tipos de imperfeição e antes de tudo a transgressão
-de uma lei que por si não obriga sob pecado,
-como são em geral as constituições ou os estatutos dos vários
-Ordens e Institutos religiosos. A esse propósito é preciso
-notar que, se não há motivo razoável,
-proporcionado e suficiente para faltar a uma dessas leis,
-muito facilmente tais transgressões se tornarão pecado
-venial por falta de fim moralmente bom. De fato,
-como ensina S. Tomás, o homem está obrigado a agir sempre
-
-
-por um motivo razoável, por um fim bom. Se o
-
-
-fim é viciado - como seria, por exemplo, transgredir a
-lei do silêncio, do recolhimento ou da modéstia religiosa por
-curiosidade, por comodidade própria e semelhantes - a ação
-torna-se por isso mesmo pecaminosa; e em geral tratar-se-á de "pecados, ao menos leves, de preguiça espiritual, de
-inconstância, de ingratidão e de certa dureza de coração que não
-aprecia suficientemente o socorro que Deus nos dá para as
-obras melhores" (Salmanticenses). Outro gênero de imperfeição
-é certa falta de completude que se verifica num
-ato substancialmente bom, mas executado, por exemplo, com
-um pouco de estreiteza, ou sem empregar nele toda a
-boa vontade e o ímpeto de que se é capaz.
-
-No fundo, qualquer gênero de imperfeição voluntária
-deriva sempre de falta de esforço, de vigor, de ímpeto
-na vida espiritual. É sempre o egoísmo que, de um modo
-ou de outro, tira alguma coisa de Deus para contentar
-o eu. Somos demasiado calculistas, temos medo de dar
-
-
-demais e assim o egoísmo nos corta as asas e nos impede de chegar à plena união com Deus.
+E Jesus, nosso Cabeça, nos convida, a nós seus membros, a associarmo-nos à sua obra destruidora do pecado: destruí-lo em nós até nas suas últimas raízes, ou seja, nas más tendências, e destruí-lo também nos outros membros. Esta é uma lei de solidariedade, porque o mal de um é mal do outro, porque cada pecado pesa sobre o mundo inteiro e tenta deslocar-lhe o eixo de Deus. Por isso cada cristão — e tanto mais cada alma consagrada a Deus — deve sentir-se fortemente empenhado nesta luta contra o pecado e deve combatê-lo com os meios adequados: com a penitência e com a oração expiatória e ainda mais com o amor. O amor de caridade, quando é perfeito, destrói o pecado mais do que o fogo do purgatório, mesmo sem qualquer manifestação externa. Eis por que os santos puderam converter tantas almas; Deus serviu-se do fogo da sua caridade para destruir o pecado nos pecadores.
 
 ### Colóquio
 
-Eu te suplico, ó meu Deus, concede-me uma caridade
-forte, generosa, capaz de destruir até o fundo meu
-egoísmo. Oh, como o sinto, que é precisamente este
-egoísmo a causa de tantas pequenas infidelidades minhas, de tantas
-imperfeições em que caio habitualmente e das quais não
-me importa corrigir-me com o pretexto de que não são
+«Ó meu Deus e minha verdadeira Fortaleza, donde vem que, covardes em tudo, somos depois tão ousados em ofender-te? Eis a que servem as energias dos filhos de Adão! Se a razão não fosse tão cega compreenderiam que todas as forças dos homens seriam ainda insuficientes para dar ousadia de tomar as armas contra o seu Criador e continuar a guerra contra Aquele que num único instante pode precipitá-los todos nos abismos. Mas porque neles a razão é cega, vão como loucos ao encontro da morte, imaginando encontrar a vida... Ó inacessível Sabedoria! É preciso todo o afeto com que Tu amas as tuas criaturas para suportar tanta loucura, para esperar a nossa cura e trabalhar a procurá-la com toda sorte de meios e de remédios.
 
+«Eis o que me espanta. Não se tem coragem de superar sequer uma leve dificuldade; crêem-se incapazes, apesar de toda a boa vontade, de se libertar de uma ocasião e de se subtrair a um perigo em que a alma se arruína; e todavia tem-se a coragem e a ousadia de se levantar contra uma Majestade tão grande como a tua. Que é isso, meu Bem? Que é isso? Quem nos infunde tanto atrevimento?...
 
-pecados!
-
-Mas tais faltas não são sem importância para
-uma alma que, sendo a ti consagrada, tem o dever de
-tender à perfeição, para uma alma portanto que Tu chamas à santidade, que Tu convidas à plena união contigo.
-Como posso pretender unir-me a ti, Perfeição infinita,
-eu que admito voluntariamente na minha vida tantas e
-tantas imperfeições? Como pode minha vontade ser de
-todo conforme à tua, quando eu quero e amo aquilo que
-Tu não queres e não podes absolutamente amar?
-
-Ó Senhor, como sinto o peso do meu egoísmo,
-que me arrasta para baixo, que quer alcançar o
-máximo com o mínimo esforço, que foge por todos os meios da
-fadiga, da renúncia, da dedicação plena e generosa! Como
-sinto o peso da carne que procura sempre reduzir um pouco a medida da minha doação, que adia
-para amanhã o que me custa ou me repugna, que me apresenta
-mil pretextos para furtar-se a um ato de generosidade!
-
-Sim, ó Senhor, tudo isso eu sinto e Tu sabes melhor
-que eu até onde chegam os recuos e os compromissos do meu
-egoísmo. Mas sabes também que quero amar-te com todo o
-coração, que quero dar-me inteiramente a ti, sabes que meus
-pobres desejos são sinceros, embora ineficazes. Pois bem,
-dá-me Tu um amor real, operativo, capaz de vencer
-todas as resistências do egoísmo, de desmantelar todos os
-
-
-planos dele. Tu que és caridade infinita, fogo consumidor, infunde
-
-
-na minha alma uma centelha do teu amor, para que destrua e queime toda tendência egoísta minha. Se o egoísmo
-é o peso que tenta retardar meu ímpeto para ti,
-faze que teu amor seja um peso ainda mais forte que me
-arraste incessantemente a ti, por meio de uma dedicação
-total, sem reserva, sem medida.
+«Ah! Senhor, que dureza, que loucura! Que cegueira! Sofre-se se se perde um objeto, uma agulha... e depois fica-se insensível diante da perda daquela Águia real que és Tu, ó Deus da glória!... Que é isso, pois, que é? Não compreendo mais nada. Cura, meu Deus, tamanha demência e cegueira!... A perda de tantas almas me aflige de tal modo que não posso mais conter-me. Ó Senhor, erguendo a ti a minha voz, suplico-te que me forneças algum meio para contribuir a ganhar alguma ao teu serviço, e que me dês modo de fazer um pouco de bem com a oração, uma vez que não sou capaz de outra coisa... Parece-me que para salvar uma só alma das muitas que se perdem sacrificaria mil vezes a vida!... Parece-me, ó Senhor, que Tu aprecias mais uma alma só que com as nossas indústrias e orações nós, pela tua misericórdia, te ganhamos, do que todos os serviços que te podemos prestar» (T.G. *Es.* 12, 1 e 2; 14, 4; *Fd.* 1, 7; *Cam.* 1, 2).

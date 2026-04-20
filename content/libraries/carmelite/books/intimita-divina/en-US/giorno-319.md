@@ -1,12 +1,10 @@
 ## 319 — BLESSED ARE THE PURE OF HEART
 
-### Presence of God
-
-Increase, O Lord, purity of my heart and mind so that I may know You ever better.
+**Presence of God.** — *Increase, O Lord, purity of my heart and mind so that I may know You ever better.*
 
 ### Meditation
 
-1. — To gift of understanding corresponds beatitude: "Blessed are the clean of heart, for they shall see God" (Mt. 5:8). There is first purity of heart that is indispensable condition for abundant influence of gift of understanding. It is purity resulting not only from absence of sin, but also from even smallest earthly affections.
+**1** — To gift of understanding corresponds beatitude: "Blessed are the clean of heart, for they shall see God" (Mt. 5:8). There is first purity of heart that is indispensable condition for abundant influence of gift of understanding. It is purity resulting not only from absence of sin, but also from even smallest earthly affections.
 
 It is a fact God does not communicate Himself totally to creature unless it has total purity of heart, that is, unless it reserves for Him whole affective capacity. As long as some attachment to creatures remains in us, some search for their affection, some complacency in being loved by them, our heart is not pure enough to enjoy divine communications.
 
@@ -18,7 +16,7 @@ Indeed, when heart keeps some attachment, however slight, to creatures, intellec
 
 Instead, when heart is pure, then intellect, like clear glass, can be wholly penetrated by light of Holy Spirit.
 
-2. — There is also another purity of heart that is no longer disposition for receiving gift of understanding, but fruit of this gift. Here word heart is understood in broader sense of spirit and mind, usual in Sacred Scripture.
+**2** — There is also another purity of heart that is no longer disposition for receiving gift of understanding, but fruit of this gift. Here word heart is understood in broader sense of spirit and mind, usual in Sacred Scripture.
 
 Our mind is so coarse we can always err in understanding divine things: imagining them materially on level of earthly things, or interpreting them according to personal views, or grasping only one aspect and neglecting other essential ones, and so forth. Precisely thus, unfortunately, many heresies arose in Church.
 

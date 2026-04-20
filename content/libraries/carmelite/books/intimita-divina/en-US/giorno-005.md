@@ -1,12 +1,10 @@
 ## 5 — HOLINESS AND THE WILL OF GOD
 
-### Presence of God
-
-I place myself in the presence of Jesus in the Blessed Sacrament, asking Him for the grace always to do His will.
+**Presence of God.** — *I place myself in the presence of Jesus in the Blessed Sacrament, asking Him for the grace always to do His will.*
 
 ### Meditation
 
-1 — The way that leads to holiness, and therefore to perfection, can be traced only by God. Jesus proclaims it forcefully: "Not everyone who says to me, 'Lord! Lord!' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Mt. 7, 21). And to show that the souls most united to Him and most beloved by Him are precisely those who do the will of God, He added: "Whoever does the will of my Father, that one is my brother and sister and mother" (Mt. 12, 50).
+**1** — The way that leads to holiness, and therefore to perfection, can be traced only by God. Jesus proclaims it forcefully: "Not everyone who says to me, 'Lord! Lord!' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Mt. 7, 21). And to show that the souls most united to Him and most beloved by Him are precisely those who do the will of God, He added: "Whoever does the will of my Father, that one is my brother and sister and mother" (Mt. 12, 50).
 
 The saints drew inspiration at the school of Jesus; St. Teresa of Avila, after experiencing the most sublime mystical communications, does not hesitate to declare: "It is clear that the highest perfection does not consist in interior sweetness, in great raptures, in visions, and in the spirit of prophecy, but rather in the perfect conformity of our will to that of God, so that we too firmly will what we know He wills, accepting with the same joy both the sweet and the bitter" (Fd. 5, 10).
 
@@ -14,7 +12,7 @@ St. Teresa of the Child Jesus echoes this by saying that perfection consists in 
 
 Seen in this light, holiness is possible for every soul of good will; indeed, it is not excluded that the soul that leads a humble and hidden life may adhere to the divine will as much as and perhaps even more than the "great" saint who has received from God an external mission and has been enriched with mystical graces. The more souls do and rejoice in doing the will of God, the more perfect they are.
 
-2 — In order to become holy, it is necessary that our conformity to the will of God be truly complete; it is therefore necessary that in the soul there be nothing at all out of harmony with the divine will and that in its actions it be moved only by that will. "The state of divine union consists precisely in the soul's being, according to its will, wholly transformed into the will of God, so that there is in it nothing contrary to the divine will, but that in everything and through everything it is moved only by the will of God" (Ascent, I, 11, 2).
+**2** — In order to become holy, it is necessary that our conformity to the will of God be truly complete; it is therefore necessary that in the soul there be nothing at all out of harmony with the divine will and that in its actions it be moved only by that will. "The state of divine union consists precisely in the soul's being, according to its will, wholly transformed into the will of God, so that there is in it nothing contrary to the divine will, but that in everything and through everything it is moved only by the will of God" (Ascent, I, 11, 2).
 
 In all our actions we are always driven by love, which can be love of ourselves, love of creatures, or love of God. As long as the soul keeps something contrary to the will of God, that is, some disordered attachment to self or to creatures, very often it will act not under the impulse of the love of God, but out of desire for its own satisfaction or from disordered love for creatures. And thus it will go outside the will of God. Not only sin, but even the smallest imperfection or the least deliberate attachment is contrary to the will of God and prevents the soul from acting moved solely by the divine will.
 

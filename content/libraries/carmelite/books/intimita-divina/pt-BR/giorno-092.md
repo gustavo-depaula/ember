@@ -2,7 +2,7 @@
 
 **Presença de Deus.** — *Ó Jesus, faze que o meu amor por ti Crucificado chegue até querer crucificar contigo e por ti a minha carne.*
 
-**Meditação**
+### Meditação
 
 **1** — Em consequência do pecado original, o homem perdeu o domínio do espírito sobre os sentidos, sobre a carne; daí todas as más tendências que procuram empurrá-lo para baixo. S. Paulo o confessa humildemente: "sei que o bem
 não habita em mim, isto é, na minha carne... porque não faço
@@ -61,7 +61,7 @@ pospõe a obediência - "que é a penitência da razão
 e do próprio juízo" (ibid.) e por isso o sacrifício mais
 aceito e agradável a Deus - a uma prática material.
 
-**Colóquio**
+### Colóquio
 
 «Tua serva, ó meu Deus, não pode mais suportar
 o inenarrável tormento de ver-se longe de ti. Se devo

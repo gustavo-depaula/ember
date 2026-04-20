@@ -1,10 +1,10 @@
 ## 107 — HUMILITY IN FALLS
 
-### Presence of God
+**Presence of God.** — *"I am poor and needy, O Lord, hasten to me. Under the shadow of Your wings I take refuge" (Ps. 39, 18; 56, 2).*
 
 ### Meditation
 
-1 — If you consider your misery without raising your eyes
+**1** — If you consider your misery without raising your eyes
 to God, Father of mercies, you will easily remain suffocated and discouraged. And if you examine yourself well, you will see that discouragement always derives from two causes intimately connected with each other: one is that, having relied on your own strength, your pride has been wounded and disappointed by the setback suffered; and the other is that, not having counted on God,
 you did not think of having recourse to Him and, just as you did not know how to have recourse to Him to succeed in good, so you did not know how to have recourse to Him when you fell into evil. In short, you acted
 alone: by yourself you tried to succeed, by yourself you fell, by
@@ -29,7 +29,7 @@ from time to time, to consider God's greatness and majesty.
 In this it will discover its own misery better than by remaining in itself, and will be less troubled by unclean little animals," that is, by its own miseries (M. I, 2, 8).
 
 
-2 — "True humility, however deep it may be, never disquiets; it never agitates, never disturbs the soul, but floods
+**2** — "True humility, however deep it may be, never disquiets; it never agitates, never disturbs the soul, but floods
 it with peace, sweetness, and rest... it expands it and renders it more
 able to serve God." Whereas "the devil's humility
 disturbs, upsets, throws everything into confusion and is very burdensome. If the evil one wants to make us believe we are humble,

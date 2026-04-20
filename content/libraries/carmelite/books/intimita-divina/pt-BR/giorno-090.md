@@ -1,12 +1,10 @@
 ## XIV — A CASTIDADE DO CORAÇÃO
 
-### Presença de Deus
-
-— Ó Senhor, ensina-me quão puro deve ser meu coração para ser admitido à tua intimidade.
+**Presença de Deus.** — *— Ó Senhor, ensina-me quão puro deve ser meu coração para ser admitido à tua intimidade.*
 
 ### Meditação
 
-1 — O coração da pessoa consagrada a Deus deve ser
+**1** — O coração da pessoa consagrada a Deus deve ser
 "um jardim fechado, uma fonte selada" (Ct. 4, 12),
 isto é, não deve admitir outro afeto que não seja o
 
@@ -45,7 +43,7 @@ uma ninharia... descuidam de chegar a tão grande bem" (S. I,
 11, 4-5).
 
 
-2 — Deus é ciumento do coração a ele consagrado e não o
+**2** — Deus é ciumento do coração a ele consagrado e não o
 admite à sua intimidade enquanto o encontra ocupado por algum afeto que o impeça de concentrar nele todo
 o amor de que Ele o tornou capaz. "Deus
 - diz S. Teresa de Jesus - não força ninguém: aceita quanto lhe

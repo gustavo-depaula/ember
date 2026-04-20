@@ -1,12 +1,10 @@
 ## 309 — BLESSED ARE THOSE WHO HUNGER
 
-### Presence of God
-
-O Holy Spirit, extinguish in me hunger for earthly things and increase hunger for heavenly things.
+**Presence of God.** — *O Holy Spirit, extinguish in me hunger for earthly things and increase hunger for heavenly things.*
 
 ### Meditation
 
-1. — When the Holy Spirit takes possession of a soul and wholly takes it under his government, He communicates an invincible and impetuous strength, capable of facing any obstacle and enduring any suffering. And because it belongs to the strong not to be content with little but to aspire to great things, so, as the Holy Spirit strengthens the soul, He awakens in it ever greater desires for justice, virtue, holiness — desires so vivid and urgent that they can truly be called hunger and thirst.
+**1** — When the Holy Spirit takes possession of a soul and wholly takes it under his government, He communicates an invincible and impetuous strength, capable of facing any obstacle and enduring any suffering. And because it belongs to the strong not to be content with little but to aspire to great things, so, as the Holy Spirit strengthens the soul, He awakens in it ever greater desires for justice, virtue, holiness — desires so vivid and urgent that they can truly be called hunger and thirst.
 
 Under the impulse of the gift of fortitude, the soul becomes hungry and thirsty for righteousness. Therefore to this gift corresponds the beatitude: "Blessed are they who hunger and thirst for justice, for they shall be filled" (Mt. 5:6). The word justice here must be understood in its broadest sense: perfection, holiness, total self-giving to God and to souls.
 
@@ -14,7 +12,7 @@ And in this sense the Holy Spirit urges the soul, showing ever wider horizons an
 
 Whence comes such courage and daring? Not from its own strength or energies — it knows this well — but from strength of the Holy Spirit, from confidence in Him, from docility to his action. It can therefore say with full assurance: "I can do all things in Him who strengthens me" (Phil. 4:13).
 
-2. — As the hungry person rejoices when he can satisfy himself with bread, so the soul living under influence of the gift of fortitude rejoices when it can satisfy its hunger for justice and holiness. It rejoices when it can immerse itself in God's will, the only food able to satiate it; it rejoices when it can satisfy thirst for immolation by sacrificing itself for God and for souls; it rejoices when it can satisfy hunger for God by receiving Him in Communion or plunging itself into Him in prayer's intimacy.
+**2** — As the hungry person rejoices when he can satisfy himself with bread, so the soul living under influence of the gift of fortitude rejoices when it can satisfy its hunger for justice and holiness. It rejoices when it can immerse itself in God's will, the only food able to satiate it; it rejoices when it can satisfy thirst for immolation by sacrificing itself for God and for souls; it rejoices when it can satisfy hunger for God by receiving Him in Communion or plunging itself into Him in prayer's intimacy.
 
 This is a pure joy, not sought for itself, not detached from duty. It is joy of the soul gravitating toward its center, God, and sensing it gives itself ever more to Him and belongs wholly to Him. But to enjoy this joy one must be resolved not to seek or admit others. "Most happy life," says St. Teresa of Jesus, "is lived by souls that, despising every self-satisfaction, think only of pleasing the Lord" (Way 13, 7).
 

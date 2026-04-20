@@ -1,12 +1,10 @@
 ## 113 — HIDING FROM ONESELF
 
-### Presence of God
-
-— O Jesus who, wholly forgetful of Yourself, consecrated Yourself to the Father's glory, teach me to forget myself.
+**Presence of God.** — *— O Jesus who, wholly forgetful of Yourself, consecrated Yourself to the Father's glory, teach me to forget myself.*
 
 ### Meditation
 
-1 — To enter the fullness of hidden life, it is not
+**1** — To enter the fullness of hidden life, it is not
 enough to hide from others' eyes; one must hide also from oneself, that is, forget oneself, avoiding every self-
 centered concern and return to self. One can be concerned with oneself from a material, coarse point of view, but one can be so
 also from a spiritual point of view. To be too preoccupied
@@ -48,7 +46,7 @@ Margaret forgot herself to the end by burying her thought
 "in Christ," the only Beloved.
 
 
-2 — The soul totally forgetful of self is also
+**2** — The soul totally forgetful of self is also
 totally disinterested. It no longer serves God with
 mercenary spirit, that is, looking more to the reward
 it may receive than to His glory, but serves Him

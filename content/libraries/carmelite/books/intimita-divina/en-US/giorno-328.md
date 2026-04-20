@@ -1,13 +1,11 @@
 ## 328 — THE DIVINE INVITATION
 *Nineteenth Sunday after Pentecost*
 
-### Presence of God
-
-Grant me, O God, supreme grace of corresponding generously to all your invitations.
+**Presence of God.** — *Grant me, O God, supreme grace of corresponding generously to all your invitations.*
 
 ### Meditation
 
-1. — Today's Gospel (Mt. 22:1-14) outlines painful history — sadly always current — of human ingratitude that rejects divine mercy, heedless of its gifts and invitations.
+**1** — Today's Gospel (Mt. 22:1-14) outlines painful history — sadly always current — of human ingratitude that rejects divine mercy, heedless of its gifts and invitations.
 
 "The kingdom of heaven is likened to a king who made a marriage for his son; and he sent his servants to call those invited, and they would not come." The king is God the Father, the son is eternal Word who, by becoming incarnate, espoused human nature to redeem and sanctify it.
 
@@ -21,7 +19,7 @@ Banquet is prepared. Jesus, divine Lamb, has been immolated for redemption of hu
 
 We too have been invited. How have we responded? Have we not sometimes shown greater interest in earthly affairs than in things of God? Have we not resembled those men in parable who, "neglecting it, went their ways, one to his farm and another to his merchandise"?
 
-2. — Today's parable shadows first invitation to Christian life, an invitation refused by Jewish people and then addressed to all nations. But in it we can also see invitation to follow particular vocation: vocation to priesthood, consecration to God in cloister or in world, apostolate, particular mission.
+**2** — Today's parable shadows first invitation to Christian life, an invitation refused by Jewish people and then addressed to all nations. But in it we can also see invitation to follow particular vocation: vocation to priesthood, consecration to God in cloister or in world, apostolate, particular mission.
 
 To correspond to vocation, some generic adhesion is not enough. A sincere and deep adhesion is needed, engaging whole soul. Parable speaks of man who did not refuse invitation, but corresponded unworthily by presenting himself at banquet without wedding garment.
 

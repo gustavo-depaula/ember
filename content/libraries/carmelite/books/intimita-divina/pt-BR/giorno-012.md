@@ -4,7 +4,7 @@
 
 ### Meditação
 
-1 — "Quando quiseres rezar, entra no teu quarto, fecha a porta e reza a teu Pai em segredo" (Mt 6, 6).
+**1** — "Quando quiseres rezar, entra no teu quarto, fecha a porta e reza a teu Pai em segredo" (Mt 6, 6).
 
 A solidão exterior, o retirar-se materialmente do ruído, das ocupações e preocupações desta vida é um grande meio, aliás, ao menos até certo ponto, um meio indispensável para uma séria vida interior.
 
@@ -14,7 +14,7 @@ Sem estas "pausas de espera", é verdadeira ilusão pretender viver não só uma
 
 Toda atividade, por mais importante e urgente que seja, deve pois ser suspensa no tempo oportuno, para concentrar todas as forças na suprema atividade da oração. Estas horas são sagradas. E uma alma consagrada a Deus não pode, por iniciativa própria, subtrair-lhes nem sequer uma parte mínima, sob pena de ver entristecer-se a sua vida espiritual. Aqui vale a grande palavra de Jesus: "Buscai primeiro o reino de Deus" (Mt 6, 33), e esse reino, já o sabemos, está dentro de nós; para encontrá-lo temos necessidade absoluta destes momentos de retiro, de solidão, de total evasão das criaturas, dos negócios, das ocupações. Nestes momentos podemos e devemos efetivamente "sair" de todas as coisas, "afastar-nos" de todas as criaturas para buscar Deus escondido em nós.
 
-2 — À samaritana que pergunta em que lugar se deve adorar Deus, Jesus responde: "Deus é espírito: e os que o adoram devem adorá-lo em espírito e verdade" (Jo 4, 24). O divino Mestre faz-nos entender que, mais ainda do que o "lugar" em que rezar, é necessário o espírito interior, pois só dele pode brotar a "verdadeira adoração" de Deus, que é "espírito" e verdade. Embora o retiro e a solidão material tenham grande importância para a oração, não seriam, porém, suficientes se não fossem acompanhados do recolhimento interior.
+**2** — À samaritana que pergunta em que lugar se deve adorar Deus, Jesus responde: "Deus é espírito: e os que o adoram devem adorá-lo em espírito e verdade" (Jo 4, 24). O divino Mestre faz-nos entender que, mais ainda do que o "lugar" em que rezar, é necessário o espírito interior, pois só dele pode brotar a "verdadeira adoração" de Deus, que é "espírito" e verdade. Embora o retiro e a solidão material tenham grande importância para a oração, não seriam, porém, suficientes se não fossem acompanhados do recolhimento interior.
 
 São João da Cruz diz: "...fechada a porta atrás de ti, isto é, fechada a vontade a toda coisa, rezarás em escondimento ao teu Pai" (C. 1, 9).
 

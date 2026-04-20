@@ -1,12 +1,10 @@
 ## 23 — INVITATION TO THE APOSTOLATE
 
-### Presence of God
-
-— I place myself in the presence of Jesus, Head of the Mystical Body of the Church, so that He may teach me to collaborate with Him in the salvation of souls.
+**Presence of God.** — *— I place myself in the presence of Jesus, Head of the Mystical Body of the Church, so that He may teach me to collaborate with Him in the salvation of souls.*
 
 ### Meditation
 
-1 — In the Baptist's word: "Prepare the way of the
+**1** — In the Baptist's word: "Prepare the way of the
 Lord" (Lk. 3, 4), an invitation to apostolate is implied, to
 that apostolate which John himself exercised by disposing
 the hearts of his brothers for the coming and work of the Messiah.
@@ -28,7 +26,7 @@ would be united in order all to cooperate with Him... in mutually communicating 
 
 Jesus therefore, in His infinite goodness, wished to associate us with Himself, to give us the honor and joy of being His collaborators in the greatest work accomplished in the world: the salvation of souls.
 
-2 — Since Jesus, in His infinite love for us, wished to associate us with His redemptive work, reserving in it a place for our activity, it must be said that now, in the present economy
+**2** — Since Jesus, in His infinite love for us, wished to associate us with His redemptive work, reserving in it a place for our activity, it must be said that now, in the present economy
 of Redemption, our collaboration is necessary. Henceforth,
 to bring His work to completion, Jesus has need of us. We must be
 holy proud of this, but we must not forget that from this there follows

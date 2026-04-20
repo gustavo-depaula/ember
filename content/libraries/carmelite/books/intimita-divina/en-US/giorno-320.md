@@ -1,12 +1,10 @@
 ## 320 — THE GIFT OF WISDOM
 
-### Presence of God
-
-Come, Spirit of Wisdom, draw me!
+**Presence of God.** — *Come, Spirit of Wisdom, draw me!*
 
 ### Meditation
 
-1. — The gift of understanding makes us penetrate things of God; gift of wisdom leads us further still: it makes us taste them, giving us savory knowledge. It is the "sapid knowledge" of which St. Bernard speaks, the untranslatable *dulce sapere* invoked by St. Thomas (*Adoro te devote*), precious gift Holy Spirit offers saying: *Gustate et videte quoniam suavis est Dominus* — taste and see how good Lord is (Ps. 33:9).
+**1** — The gift of understanding makes us penetrate things of God; gift of wisdom leads us further still: it makes us taste them, giving us savory knowledge. It is the "sapid knowledge" of which St. Bernard speaks, the untranslatable *dulce sapere* invoked by St. Thomas (*Adoro te devote*), precious gift Holy Spirit offers saying: *Gustate et videte quoniam suavis est Dominus* — taste and see how good Lord is (Ps. 33:9).
 
 Not by chance is it said first taste and then see, because gift of wisdom makes us know God precisely through experience of heart that "tastes" beloved object.
 
@@ -16,7 +14,7 @@ Between us and God there is certain connaturality, certain likeness produced by 
 
 Such experience seizes soul in its center, that is, in will, drawing it strongly into God; and at same time overflows as light into intellect. Gift of wisdom acts somewhat like ray of sun that warms and illumines at once. It warms by reviving soul's charity and, through this inflaming of love, illumines it concerning divine realities and makes it capable of judging them, intuiting infinite goodness and absolute superiority over all things. "O the depth of riches of God!" (Rom. 11:33) is cry of soul inflamed and illumined by gift of wisdom.
 
-2. — All gifts of Holy Spirit are closely linked with charity, since they are found only in soul possessing charity and develop as it increases. But gift of wisdom has altogether particular relation with love of charity.
+**2** — All gifts of Holy Spirit are closely linked with charity, since they are found only in soul possessing charity and develop as it increases. But gift of wisdom has altogether particular relation with love of charity.
 
 First, it is precisely through charity this gift comes to act. "Cause of gift of wisdom," says St. Thomas, "is in will, and this cause is charity" (II-II, q. 45, a. 2). Therefore, more soul loves God, more capable it is of receiving motion of this gift.
 

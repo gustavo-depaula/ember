@@ -4,7 +4,7 @@
 
 **Presença de Deus.** — *Ó Jesus, retiro-me contigo no deserto; ensina-me como devo lutar contra a tríplice concupiscência da carne, do orgulho, da avareza.*
 
-**Meditação**
+### Meditação
 
 **1** — Hoje, iniciando-se o período estritamente quaresmal, a Igreja nos convida àquela grande luta, luta contra o pecado, que deve conduzir-nos à ressurreição pascal. O modelo é Jesus, ele que, embora isente do fomite da concupiscência, quis *por nós* ser tentado pelo demônio, para «com padecer nossas fraquezas» (Heb. 4, 15).
 
@@ -20,7 +20,7 @@ Aprendamos de Jesus como comportar-nos nas tentações; antes de tudo devemos te
 
 Mas em outro sentido devemos cultivar a confiança no momento da tentação. Se Deus permite que sejamos tentados, não permite porém que o sejamos além das nossas forças e, junto a cada tentação, está sempre pronta uma particular graça atual suficiente para vencê-la. Portanto, antes de deixar-nos turbar pela violência da luta, olhemos com confiança a graça que Deus nos oferece e procuremos fazê-la nossa mediante a oração humilde e confiante.
 
-**Colóquio**
+### Colóquio
 
 «Senhor, Pai e Deus, vida pela qual todos vivem e sem a qual todas as coisas são de reputar-se como mortas, não me abandones no pensamento maligno e na soberba dos olhos; tira de mim as concupiscências e não me dês em presa ao ânimo irreverente e estulto; mas possui o meu coração, para que sempre pense em ti... Ora, ó Redentor, te peço, ajuda-me, para que eu não caia diante de meus adversários, preso nos laços que teseram aos pés meus, para incurvar a alma minha; mas salva-me, virtude da minha saúde, para que não dê motivo de riso a teus inimigos que te odeiam. Surge, ó Senhor Deus meu, minha fortaleza; e serão dispersos teus inimigos, e fugirão da tua face aqueles que te odeiam.
 

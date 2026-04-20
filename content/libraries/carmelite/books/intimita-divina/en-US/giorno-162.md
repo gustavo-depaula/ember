@@ -1,16 +1,14 @@
 ## 158 — LIFE OF PRAYER
 
-### Presence of God
-
-— O Lord, may I seek you not only in some hour or moment of the day, but in every moment of my life.
+**Presence of God.** — *— O Lord, may I seek you not only in some hour or moment of the day, but in every moment of my life.*
 
 ### Meditation
 
-1. — The soul that longs for a life of intimacy with God is not content to limit its relations with Him to prayer time, but seeks to prolong them throughout the whole day. This is a more than legitimate desire, because whoever loves tends to ever more stable and continuous relations with the beloved person. So it happens with the soul that loves God; and this is all the more possible because God himself is always with us, always present and operative in us; it is true, this is a spiritual, invisible presence, but real and not merely affective and moral, as can be that of the beloved person in the lover's mind and heart.
+**1** — The soul that longs for a life of intimacy with God is not content to limit its relations with Him to prayer time, but seeks to prolong them throughout the whole day. This is a more than legitimate desire, because whoever loves tends to ever more stable and continuous relations with the beloved person. So it happens with the soul that loves God; and this is all the more possible because God himself is always with us, always present and operative in us; it is true, this is a spiritual, invisible presence, but real and not merely affective and moral, as can be that of the beloved person in the lover's mind and heart.
 
 If God is always with us, why should we not be able to remain in continual contact with Him? This contact is realized through thought and affection, but much more through affection than thought. In fact, it is not possible always to think of God, both because the mind grows tired and because many occupations require the whole application of the intellect, and this cannot attend at the same time to two different objects. Instead, even while thought is occupied elsewhere, the heart can always love, nor does it ever grow tired of tending toward the object of its love. Since supernatural love does not consist in feeling, but in an intimate orientation of the will toward God, we see that this orientation is possible even during the discharge of duties that absorb the whole intellect. Indeed, the will can strengthen this orientation toward God precisely by the desire to perform every duty for love of Him, to please Him, to give Him glory. St. Thomas teaches precisely that the heart can always tend to God through "the desire of charity," that is, through the desire to love Him, to serve Him, and to unite itself to Him in every action. "Prayer is nothing other than the heart's desire; if your desire is continual, your prayer is continual. Do you therefore want never to cease praying? Never cease desiring" (St. Augustine).
 
-2. — As prayer consists not in thinking much, but in loving much, so the life of continual prayer consists much more in love than in thought. Nevertheless, a certain activity of thought is necessary, both to orient the heart toward God and to maintain it in that direction.
+**2** — As prayer consists not in thinking much, but in loving much, so the life of continual prayer consists much more in love than in thought. Nevertheless, a certain activity of thought is necessary, both to orient the heart toward God and to maintain it in that direction.
 
 The soul that applies itself well to mental prayer will easily gather from it good thoughts that can serve it during the day to keep its heart directed to God; it will therefore be useful that often, amid its occupations, it seek to awaken such thoughts and link them to its practical life.
 

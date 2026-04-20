@@ -1,12 +1,10 @@
 ## XXXII — HUMILDADE E CONFIANÇA
 
-### Presença de Deus
-
-— Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.
+**Presença de Deus.** — *— Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.*
 
 ### Meditação
 
-1 — A humildade cristã não deprime, mas eleva,
+**1** — A humildade cristã não deprime, mas eleva,
 não abate, mas encoraja, porque quanto mais desvenda à alma
 
 
@@ -42,7 +40,7 @@ o maior, porque tem à sua disposição a grandeza do
 próprio Deus.
 
 
-2 — Deus não introduz as almas numa vida espiritual
+**2** — Deus não introduz as almas numa vida espiritual
 mais elevada, não as admite a maior intimidade com ele,
 enquanto não as encontra completamente despojadas de toda confiança
 em si mesmas. Quando uma alma, esquecendo praticamente

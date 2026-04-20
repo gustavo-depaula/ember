@@ -1,12 +1,10 @@
 ## 323 — ZEAL FOR SOULS
 
-### Presence of God
-
-O Jesus, who gave Yourself for salvation of world, kindle in my heart great zeal for salvation of souls.
+**Presence of God.** — *O Jesus, who gave Yourself for salvation of world, kindle in my heart great zeal for salvation of souls.*
 
 ### Meditation
 
-1. — As love of God takes possession of our hearts, it causes to be born and nourished in them ever greater love for neighbor; and this love, being supernatural, aims above all at supernatural good of our brethren and therefore becomes zeal for salvation of souls.
+**1** — As love of God takes possession of our hearts, it causes to be born and nourished in them ever greater love for neighbor; and this love, being supernatural, aims above all at supernatural good of our brethren and therefore becomes zeal for salvation of souls.
 
 If we love God little, we shall love souls little as well; and conversely, if our zeal for souls is weak, it means our love for God is equally weak. How would it be possible to love God greatly without greatly loving those who are his children, object of his love, his care, his zeal? Souls are, so to speak, treasure of God. He created them in his image and likeness in act of love. He redeemed them in Blood of his Only-Begotten in act of still greater love: "God so loved world as to give his only-begotten Son, that whoever believes in Him may not perish, but may have life everlasting" (Jn. 3:16).
 
@@ -16,7 +14,7 @@ Such has always been ardent desire of saints, a desire that led them to heroic g
 
 It is true, primary end of God's action is his glory; but this glory, because He is infinitely good, He loves to procure particularly through salvation and happiness of his creatures. In fact nothing more than salvific work for men exalts his goodness, love, and mercy. Therefore to love God and his glory means to love souls, to labor and sacrifice for their salvation.
 
-2. — Zeal for souls is born from charity, born from contemplation of Christ crucified. His wounds, his Blood, agonizing pains tell us how much souls are worth in God's sight and how much God loves them. Yet this love is not returned, and ungrateful men seem ever more to flee his action. This is sad spectacle of every age, renewed also today, as if to insult Jesus and renew his Passion.
+**2** — Zeal for souls is born from charity, born from contemplation of Christ crucified. His wounds, his Blood, agonizing pains tell us how much souls are worth in God's sight and how much God loves them. Yet this love is not returned, and ungrateful men seem ever more to flee his action. This is sad spectacle of every age, renewed also today, as if to insult Jesus and renew his Passion.
 
 "All world is in flames: the impious, so to speak, yearn to condemn Jesus Christ again; they raise against Him countless calumnies and strive in a thousand ways to destroy his Church." If Teresa of Jesus could say this of her century tormented by Protestant heresy, much more can we say it of ours, in which struggle against God and Church has increased beyond measure and spread throughout world.
 

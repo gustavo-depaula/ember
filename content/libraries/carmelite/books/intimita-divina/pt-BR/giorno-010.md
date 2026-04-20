@@ -4,7 +4,7 @@
 
 ### Meditação
 
-1 — "Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e faremos morada nele" (Jo 14, 23).
+**1** — "Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e faremos morada nele" (Jo 14, 23).
 
 Este é o grande mistério da inabitação divina, que nos assegura, com as próprias palavras de Jesus, que Deus, uno e trino, não está longe da alma que o ama, mas antes vive nela, põe nela a sua morada.
 
@@ -12,7 +12,7 @@ A doutrina católica ensina-nos que Deus está necessariamente presente em todas
 
 Mas para a alma revestida da graça santificante e da caridade há uma presença de Deus toda particular, precisamente aquela prometida por Jesus, que se chama inabitação. "As Pessoas divinas dizem-se inabitar, porque estão presentes, de modo imperscrutável, nas criaturas dotadas de intelecto e por estas podem ser alcançadas mediante o conhecimento e o amor, mas de um modo que transcende toda natureza criada e é totalmente íntimo e singular" (Enc. Mystici Corporis). Ou seja, na alma em graça as três Pessoas divinas fazem-se presentes para serem por ela conhecidas pela fé, amadas pela caridade, e também para se manifestarem a ela através da íntima iluminação dos dons do Espírito Santo.
 
-2 — Na alma em graça a SS.ma Trindade está presente para convidá-la a viver em sociedade, em íntima amizade com as três Pessoas divinas. É sempre Jesus quem no-lo diz do modo mais claro e autorizado: "Permanecei em mim, e eu em vós" (Jo 15, 4); "eu neles e Tu em mim, para que sejam perfeitos na unidade" (cf. ibid 17, 23); "como Tu, Pai, estás em mim e eu em Ti, também eles sejam um em nós" (ibid 17, 21); mas onde estão o Pai e o Filho não pode faltar o Espírito Santo, e Jesus disse expressamente: "O Espírito da verdade... habitará em vós e estará em vós" (ibid 14, 17).
+**2** — Na alma em graça a SS.ma Trindade está presente para convidá-la a viver em sociedade, em íntima amizade com as três Pessoas divinas. É sempre Jesus quem no-lo diz do modo mais claro e autorizado: "Permanecei em mim, e eu em vós" (Jo 15, 4); "eu neles e Tu em mim, para que sejam perfeitos na unidade" (cf. ibid 17, 23); "como Tu, Pai, estás em mim e eu em Ti, também eles sejam um em nós" (ibid 17, 21); mas onde estão o Pai e o Filho não pode faltar o Espírito Santo, e Jesus disse expressamente: "O Espírito da verdade... habitará em vós e estará em vós" (ibid 14, 17).
 
 A cada alma em graça pode, portanto, ser repetida, com toda verdade, a grande palavra que tanto impressionou a Irmã Isabel da Trindade: "O Pai está em ti, o Filho está em ti, o Espírito Santo está em ti"...
 

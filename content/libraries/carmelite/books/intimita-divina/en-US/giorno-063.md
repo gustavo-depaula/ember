@@ -1,13 +1,11 @@
 ## 63 — THE CALMED STORM
 *Fourth Sunday after Epiphany*
 
-### Presence of God
-
-O Jesus, crucified for love of me, reveal to me the victory won by Your death.
+**Presence of God.** — *O Jesus, crucified for love of me, reveal to me the victory won by Your death.*
 
 ### Meditation
 
-1 — In today's liturgy, and particularly in the Gospel (Mt. 8, 23-27), Jesus appears to us as master of the elements, conqueror of every tempest.
+**1** — In today's liturgy, and particularly in the Gospel (Mt. 8, 23-27), Jesus appears to us as master of the elements, conqueror of every tempest.
 
 "And behold, a great tempest arose, so that the boat was covered by the waves." We can think of the persecutions that for centuries have fallen upon Peter's ship, the Church; or of the trials God permits for individual souls. In any case, the spirit of faith tells us that every kind of struggle, of tempest, is always willed or permitted, or at least not prevented, by God: "all is grace" (T.B.G.N.V.), all is fruit of His infinite love. God is not a tyrant who crushes us, but the Father who tests us precisely because He loves us: if He permits pain, interior or exterior storms, individual or social, it is only to draw from them a greater good. In difficulties, good and virtue are strengthened: the effort to react always leads one to go beyond what one would have done in full calm.
 
@@ -15,7 +13,7 @@ Jesus sleeps tranquilly in the stern and the frightened Apostles wake Him: "Save
 
 If in trials we are dismayed, we lose ourselves, fundamentally it is always for lack of faith. Even when God hides Himself, everything seems to collapse and we feel terribly alone, it is absolutely certain that He never abandons us, unless we are the first to abandon Him. Instead of becoming bitter or despairing, this is the moment to intensify our faith, to make vigorous acts of it: "I count on Him," said St. Thérèse of the Child Jesus, "Pain may reach its peak, but I am sure He will not abandon me" (St. 12).
 
-2 — The Apostles were saved only when they had recourse to Jesus: as long as they had struggled and toiled alone, they had succeeded in nothing. Many times we fail to overcome certain interior struggles precisely because we work alone, but the Lord wants to make us experience that our effort is not enough if His work does not intervene, and therefore He leaves us in the storm until we have recourse to Him with full confidence. Certainly God wants our efforts, but He does not want us to base all our hopes on them. This is the reason for so many failed advances in the way of holiness: relying too much on one's own personal resources and little on God's help. One must be well convinced that "our sufficiency is from God" (II Cor. 3, 5); one must have less trust in ourselves and more trust in God. Jesus can do all and trust works miracles. "One obtains from God what one hopes from Him" (J.C.N. II, 21, 8).
+**2** — The Apostles were saved only when they had recourse to Jesus: as long as they had struggled and toiled alone, they had succeeded in nothing. Many times we fail to overcome certain interior struggles precisely because we work alone, but the Lord wants to make us experience that our effort is not enough if His work does not intervene, and therefore He leaves us in the storm until we have recourse to Him with full confidence. Certainly God wants our efforts, but He does not want us to base all our hopes on them. This is the reason for so many failed advances in the way of holiness: relying too much on one's own personal resources and little on God's help. One must be well convinced that "our sufficiency is from God" (II Cor. 3, 5); one must have less trust in ourselves and more trust in God. Jesus can do all and trust works miracles. "One obtains from God what one hopes from Him" (J.C.N. II, 21, 8).
 
 But we can consider another kind of storms: those provoked by difficulties sometimes encountered in relations with neighbor. The remedy is indicated to us by St. Paul in the Epistle (Rom. 13, 8-10): "Owe no one anything except to love one another." Love conquers all: love of God conquers interior storms; love of neighbor, which loves brothers and sisters for love of God, conquers storms that derive from divisions, misunderstandings, clashes of temperament. If from certain persons we receive only bitterness and wrongs, let us follow St. John of the Cross's precious counsel: "where there is no love, put love and you will draw out love" (Lt. 22).
 

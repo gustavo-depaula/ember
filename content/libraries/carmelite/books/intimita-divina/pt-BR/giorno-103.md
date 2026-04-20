@@ -1,12 +1,10 @@
 ## XXVII — O EXAME DE CONSCIÊNCIA
 
-### Presença de Deus
-
-— Ó Senhor, projeta sobre minha alma um raio da tua luz, para que eu possa ver-me como Tu mesmo me vês e me julgas.
+**Presença de Deus.** — *— Ó Senhor, projeta sobre minha alma um raio da tua luz, para que eu possa ver-me como Tu mesmo me vês e me julgas.*
 
 ### Meditação
 
-1 — Para assegurar à vida espiritual um desenvolvimento bem ordenado
+**1** — Para assegurar à vida espiritual um desenvolvimento bem ordenado
 e progressivo, é necessário tomar consciência
 das próprias posições, isto é, dos próprios pecados, dos pontos
 fracos, das tendências más, como também dos progressos
@@ -39,7 +37,7 @@ o que é falta voluntária deve ser progressiva, mas
 decisivamente, eliminado por uma alma que quer chegar à união com Deus.
 
 
-2 — Nos seus exames de consciência, uma alma de vida
+**2** — Nos seus exames de consciência, uma alma de vida
 interior - supondo que já esteja livre do pecado
 mortal - mais do que ir em busca de todas as faltas
 cometidas, deve fixar sua atenção no grau de voluntariedade que há nelas, ainda quando se trate de
@@ -104,7 +102,7 @@ que eu não soubesse cometer, eu que amei a culpa até gratuitamente? E confesso
 tanto os que espontaneamente cometi, como
 os que, com tua ajuda, não cometi" (S. Agostinho).
 Ó meu Deus, que com um só ato da tua vontade
-criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: "fiat lux", e se fará luz na
+criaste a luz e a luz foi, repete sobre mim tua onipotente palavra criadora: "*fiat* lux", e se fará luz na
 minha alma, e na tua luz poderei ver-me tal como realmente
 sou aos teus olhos. Mas a luz não basta para mim, tão
 fraco e débil; tenho necessidade de força, ó Senhor; tenho necessidade

@@ -1,10 +1,10 @@
 ## XXV — O PECADO VENIAL
 
-### Presença de Deus
+**Presença de Deus.** — *Inflama-me, ó Senhor, com o Teu santo zelo, para que eu não saiba tolerar em mim a menor coisa que Te desagrade.*
 
 ### Meditação
 
-1 — Embora em matéria mais leve, também o pecado venial, como o mortal, vai contra a vontade de Deus e
+**1** — Embora em matéria mais leve, também o pecado venial, como o mortal, vai contra a vontade de Deus e
 portanto, embora não destrua a caridade, vai em direção
 oposta a ela, com a consequência de diminuir-lhe o
 ímpeto, o vigor e impedir-lhe o desenvolvimento. Este é o
@@ -45,7 +45,7 @@ de pequeno na ofensa de uma Majestade tão grande?" (P. 2,
 5 e 20; Cam. 41, 3).
 
 
-2 — Bem diferentes são os pecados veniais que nos escapam por fragilidade, por inadvertência. Muitas vezes a alma não
+**2** — Bem diferentes são os pecados veniais que nos escapam por fragilidade, por inadvertência. Muitas vezes a alma não
 quereria ceder de modo algum, mas, porque ainda é fraca, no momento da tentação, sobretudo se é tomada
 de surpresa, cai; no entanto, assim que percebe, sente
 dor sincera, logo se arrepende, pede perdão

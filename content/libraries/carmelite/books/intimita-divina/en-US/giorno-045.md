@@ -1,12 +1,10 @@
 ## 45 — "I AM THE LIFE"
 
-### Presence of God
-
-— O Jesus, source of life, pour Your life ever more into my soul.
+**Presence of God.** — *— O Jesus, source of life, pour Your life ever more into my soul.*
 
 ### Meditation
 
-1 — Jesus announced His mission thus: "I came that they may have life, and have it more abundantly" (Jn. 10, 10). And what is the life He gives us? It is the life of grace, which is a participation in divine life.
+**1** — Jesus announced His mission thus: "I came that they may have life, and have it more abundantly" (Jn. 10, 10). And what is the life He gives us? It is the life of grace, which is a participation in divine life.
 
 Jesus is the Incarnate Word, and as Word He possesses by nature divine life in the same mode and measure as the
 Father: "As the Father has life in Himself, so He has granted also to the Son to have life in Himself" (Jn. 5, 26).
@@ -25,7 +23,7 @@ He is so "full of grace and truth" that "from His fullness we have all received"
 that He assumed in His Incarnation, from this Humanity,
 which is Christ's holy Humanity, to our souls.
 
-2 — Like everything that exists outside God, grace too is created by God. As God, that is, as Word,
+**2** — Like everything that exists outside God, grace too is created by God. As God, that is, as Word,
 Jesus is, with the Father and the Holy Spirit, the creator
 of grace. But now we consider Jesus as our Redeemer, therefore as Man, and as such He is
 the Mediator of grace, that is, the One who merited it for us and dispenses it to us. In fact Jesus, through the infinite treasury of grace He possesses, was able to merit it also for us. And

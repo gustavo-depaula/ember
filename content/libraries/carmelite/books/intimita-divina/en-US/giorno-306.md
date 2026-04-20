@@ -1,18 +1,16 @@
 ## 306 — THE GIFT OF FEAR
 
-### Presence of God
-
-O Lord, grant that I may fear only one thing: to displease You and separate myself from You.
+**Presence of God.** — *O Lord, grant that I may fear only one thing: to displease You and separate myself from You.*
 
 ### Meditation
 
-1. — The Holy Spirit invites us to his school: "Come, children, hearken to me: I will teach you the fear of the Lord" (Ps. 33:12). This is the first lesson the divine Paraclete imparts to the soul desirous of holiness, a most important and fundamental lesson because, by infusing hatred of sin — the greatest obstacle to union with God — it assures growth of spiritual life. In this sense Sacred Scripture says: "The beginning of wisdom is the fear of God" (Sir. 1:16).
+**1** — The Holy Spirit invites us to his school: "Come, children, hearken to me: I will teach you the fear of the Lord" (Ps. 33:12). This is the first lesson the divine Paraclete imparts to the soul desirous of holiness, a most important and fundamental lesson because, by infusing hatred of sin — the greatest obstacle to union with God — it assures growth of spiritual life. In this sense Sacred Scripture says: "The beginning of wisdom is the fear of God" (Sir. 1:16).
 
 To educate us in fear of God, the Holy Spirit, rather than setting before us the vision of punishments due to sin, rather than presenting God as severe judge, shows us God as most loving Father, infinitely desirous of our good, and presents the moving picture of his benefits and mercies. "God has loved you with an everlasting love and therefore has drawn you to Himself," He whispers in the depths of our soul. "You are not servant, but friend, but son" (cf. Jer. 31:3; Jn. 15:15).
 
 Thus, seized by love for so good a Father, the soul desires nothing more than to return his love, to please Him, and to live always united to Him. Consequently, it fears nothing more than sin, which saddens God and has the sad power to separate it from Him. What a difference between this filial fear, fruit of love, and servile fear, fruit of fear of punishment! True, fear of judgment and divine punishments is also salutary and in certain cases can greatly help restrain the soul from sin. Yet if it does not little by little change into filial fear, it will never suffice to impel the soul to holiness. Pure servile fear chills the soul and makes it narrow; filial fear enlarges it, launching it on the way of generosity and perfection.
 
-2. — The gift of fear perfects at once the virtue of hope and that of temperance. The object of hope is possession of God and eternal beatitude. The gift of fear, by making us flee with utmost care even the smallest offense against God, places us in the best conditions for hoping for heaven's beatifying union and obtaining means necessary to attain it.
+**2** — The gift of fear perfects at once the virtue of hope and that of temperance. The object of hope is possession of God and eternal beatitude. The gift of fear, by making us flee with utmost care even the smallest offense against God, places us in the best conditions for hoping for heaven's beatifying union and obtaining means necessary to attain it.
 
 The object of temperance is restraint of passions and attraction toward sensible pleasure. The gift of fear perfects this virtue by making us more generous in mortifying senses and passions. Urged by this holy fear, we will be more attentive than ever not to let ourselves be dragged in the least by desire for our own satisfaction, and ready to face any renunciation rather than give the smallest displeasure to our heavenly Father. "Far better to displease myself than to displease God," repeats the soul under this gift's influence.
 

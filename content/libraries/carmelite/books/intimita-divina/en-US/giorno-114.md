@@ -1,12 +1,10 @@
 ## 112 — THE HIDDEN LIFE
 
-### Presence of God
-
-— O Jesus, hidden God, teach me the secret of hiddenness.
+**Presence of God.** — *— O Jesus, hidden God, teach me the secret of hiddenness.*
 
 ### Meditation
 
-1 — In His earthly life, Jesus delighted
+**1** — In His earthly life, Jesus delighted
 in hiding His divinity under human appearances. Except for
 some rare exceptions, and especially during the thirty years
 preceding His apostolate, He never let anything appear
@@ -40,7 +38,7 @@ to be seen by them... have already received their reward
 and will not have reward from the heavenly Father" (cf. Mt. 6, 1-18).
 
 
-2 — "To act for the purest end of pleasing God
+**2** — "To act for the purest end of pleasing God
 alone, never wanting... the witness of any human
 eye," was the program of St. Teresa Margaret of the
 Heart of Jesus, the saint of hidden life (Sp. p. 369).

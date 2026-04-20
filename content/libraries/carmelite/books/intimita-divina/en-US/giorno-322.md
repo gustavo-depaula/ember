@@ -1,12 +1,10 @@
 ## 322 — GOING TOWARD THE HOLY SPIRIT
 
-### Presence of God
-
-Come, Holy Spirit, take hold of me by your action and lead me to God.
+**Presence of God.** — *Come, Holy Spirit, take hold of me by your action and lead me to God.*
 
 ### Meditation
 
-1. — Considering gifts of Holy Spirit and beatitudes that are their fruits, we understand ever better with what wonderful riches God has endowed us. From day of Baptism every Christian possesses these precious gifts. Therefore it is not rash to desire they develop in us to full maturity, so that our soul may be wholly taken over by action of Holy Spirit.
+**1** — Considering gifts of Holy Spirit and beatitudes that are their fruits, we understand ever better with what wonderful riches God has endowed us. From day of Baptism every Christian possesses these precious gifts. Therefore it is not rash to desire they develop in us to full maturity, so that our soul may be wholly taken over by action of Holy Spirit.
 
 Indeed, by this desire we go to meet God's own desire, who gave us these gifts precisely so we might be moved and guided by his Spirit, "for whosoever are led by Spirit of God, they are sons of God" (Rom. 8:14). And if we desire to be true children of God, does not heavenly Father desire it immeasurably more, He who for this very end created us and raised us to state of grace?
 
@@ -18,7 +16,7 @@ Let us therefore be disposed to undergo courageously this indispensable purifica
 
 "O humility, humility!..." exclaims Teresa of Jesus. "Fault of those who do not advance [in spiritual ways] lies all here," in lack of humility, "because humility is foundation of building, and Lord will never raise it very high unless this virtue is truly well established" (Interior Castle).
 
-2. — To generosity, detachment, and humility let us join fervent prayer to invoke work of Holy Spirit. Let us raise our supplications with very words of hymn:
+**2** — To generosity, detachment, and humility let us join fervent prayer to invoke work of Holy Spirit. Let us raise our supplications with very words of hymn:
 
 *Veni, Creator Spiritus ...*
 *Accende lumen sensibus, infunde amorem cordibus,*

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-1 — «Onde abundou o pecado, abundou ainda mais a graça» (Rom. 5, 20).
+**1** — «Onde abundou o pecado, abundou ainda mais a graça» (Rom. 5, 20).
 
 Com a queda de Adão, o pecado destruiu o plano divino para a santificação do homem. Os nossos antepassados, criados à imagem e semelhança de Deus, em estado de graça e de justiça, elevados à dignidade de filhos de Deus, caíram num abismo de miséria, arrastando consigo todo o género humano. Durante séculos e séculos o homem geme no seu pecado: já não pode chamar a Deus com o doce título de Pai, nem sequer se atreve a pronunciar o seu nome e olha para o Todo-Poderoso com um sentimento de terror: Ele é o Deus forte e terrível, o Deus justo e vingador. O pecado cavou um abismo intransponível entre o homem e Deus, e o homem geme além do abismo, absolutamente incapaz de ressurgir.
 
@@ -12,7 +12,7 @@ Para fazer o que o homem não pode fazer, para destruir o pecado e restaurar a g
 
 Deus nos quer "todos seguros"; para isso nos deu o seu Filho e com ele e por meio dele todos os meios necessários para a nossa salvação; portanto, se uma alma não for salva, será unicamente por sua própria culpa.
 
-2 — Jesus não se contentou em destruir o pecado e merecer uma medida de graça exclusivamente suficiente para nos salvar; fez muito mais e Ele mesmo quis declará-lo: «Eu vim para que tenham Vida e a tenham em abundância» (Gv. 10, 10).
+**2** — Jesus não se contentou em destruir o pecado e merecer uma medida de graça exclusivamente suficiente para nos salvar; fez muito mais e Ele mesmo quis declará-lo: «Eu vim para que tenham Vida e a tenham em abundância» (Gv. 10, 10).
 
 Esta plenitude de vida é a plenitude da graça, da vida sobrenatural da qual floresce a santidade.
 
@@ -24,7 +24,7 @@ Portanto, Jesus não vem apenas para me salvar, mas também para me santificar. 
 
 ### Colóquio
 
-«Quão confuso estou, Senhor, por me ver tão miserável e com tão pouca capacidade no teu serviço! Sim, a culpa é minha se não me concedes as graças com que abundaram os meus antigos [santos]. Quando me coloco diante deles sinto intensa angústia, e não posso dizê-lo sem lágrimas... Imensa é a aflição da minha alma, Senhor, quando considero a glória que reservas a quem persevera no cumprimento da tua vontade, quando medito nas fadigas e sofrimentos com que o teu Filho o mereceu apesar de tanta indignidade, quando penso no estrito dever que se tem de não responder com ingratidão ao excesso de um amor que tanto se fez para nos ensinar. amar. Como é possível, Senhor, que tudo isso seja esquecido e que os homens se esqueçam de ti a ponto de te ofenderem? Ou melhor, como é possível, meu Redentor, que eles se esqueçam assim? Oh, quão grande é a sua bondade se, apesar disso, você sempre se lembra de nós! Esquecendo que se caímos foi só porque queríamos ferir-te com um golpe mortal, Tu voltas para nos estender a mão e nos tirar desse frenesi tão incurável em que te procuramos e te pedimos saúde. Bendito seja tal Senhor! Bendita seja tão imensa misericórdia! Louvor sem fim a tão misericordiosa misericórdia! Minha alma, bendiga incessantemente a tão grande Deus! Como é possível voltar a ser rebelde contra ele? » (T.G. __PH_0__; __PH_1__).
+«Quão confuso estou, Senhor, por me ver tão miserável e com tão pouca capacidade no teu serviço! Sim, a culpa é minha se não me concedes as graças com que abundaram os meus antigos [santos]. Quando me coloco diante deles sinto intensa angústia, e não posso dizê-lo sem lágrimas... Imensa é a aflição da minha alma, Senhor, quando considero a glória que reservas a quem persevera no cumprimento da tua vontade, quando medito nas fadigas e sofrimentos com que o teu Filho o mereceu apesar de tanta indignidade, quando penso no estrito dever que se tem de não responder com ingratidão ao excesso de um amor que tanto se fez para nos ensinar. amar. Como é possível, Senhor, que tudo isso seja esquecido e que os homens se esqueçam de ti a ponto de te ofenderem? Ou melhor, como é possível, meu Redentor, que eles se esqueçam assim? Oh, quão grande é a sua bondade se, apesar disso, você sempre se lembra de nós! Esquecendo que se caímos foi só porque queríamos ferir-te com um golpe mortal, Tu voltas para nos estender a mão e nos tirar desse frenesi tão incurável em que te procuramos e te pedimos saúde. Bendito seja tal Senhor! Bendita seja tão imensa misericórdia! Louvor sem fim a tão misericordiosa misericórdia! Minha alma, bendiga incessantemente a tão grande Deus! Como é possível voltar a ser rebelde contra ele? » (T.G. *Fd.* 4, 7; *Es.* 3, 1).
 
 Contudo, Senhor, mesmo sabendo o quanto esta minha pobre alma te custou, quantas vezes te ofendi, resisti à tua graça, fui infiel ao teu amor, fui surdo ao teu convite a uma vida mais perfeita, à santidade.
 

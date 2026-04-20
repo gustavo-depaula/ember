@@ -1,19 +1,17 @@
 ## 15 — THE LORD IS NEAR
 *Third Sunday of Advent*
 
-### Presence of God
-
-The Lord comes ever closer to my soul with the invitation of His grace; I too want to draw near to Him by rekindling my desires and my faith.
+**Presence of God.** — *The Lord comes ever closer to my soul with the invitation of His grace; I too want to draw near to Him by rekindling my desires and my faith.*
 
 ### Meditation
 
-1 — "We have waited for You, O Lord: Your name and Your remembrance are the soul's desire. My soul has desired You in the night, and with my spirit and my heart I will turn to You from early morning" (BR.).
+**1** — "We have waited for You, O Lord: Your name and Your remembrance are the soul's desire. My soul has desired You in the night, and with my spirit and my heart I will turn to You from early morning" (BR.).
 
 If you too, consecrated soul, are preparing to commemorate the Incarnation of the Word in this loving and vigilant expectation, more joyfully than ever will today's glad announcement sound in your ear: "The Lord is already near, come let us adore Him!" All today's liturgy invites you to rejoice at the approach of the Redeemer: "Rejoice always in the Lord, again I say, rejoice... the Lord is near!" Thus today's Holy Mass begins, thus the Epistle repeats (Phil. 4, 4-7); and the reason for joy is one: "the Lord is near!" For the soul that with sincerity and commitment, with lively desire and love, awaits and seeks only Jesus, there can be only one reason for its gladness: to know that Jesus is near to it, ever nearer. St. Paul too warns us not to desire anything else: "The Lord is near. Be anxious about nothing... And the peace of God, which surpasses all understanding, will guard your hearts."
 
 The more the soul concentrates its desires and affections on God, the more it is freed from earthly anxieties; it no longer troubles itself over anything, since it knows that one thing alone is necessary: "to seek God," and that in God it will find all it needs; therefore the approach of the Lord is for it a source not only of lively joy but also of peace: in Him it has everything, God is enough for it.
 
-2 — "The Lord is in your midst" is the second glad message of today's liturgy. It is addressed to us, in today's Gospel (Jn. 1, 19-28), by the mouth of the Baptist: "In your midst stands One whom you do not know." John addressed these words to the Jews who did not know Jesus, who had not yet manifested Himself by miracles, and yet, for about thirty years already, He had been living in their midst; the Baptist—man of faith—points Him out to them with full certainty.
+**2** — "The Lord is in your midst" is the second glad message of today's liturgy. It is addressed to us, in today's Gospel (Jn. 1, 19-28), by the mouth of the Baptist: "In your midst stands One whom you do not know." John addressed these words to the Jews who did not know Jesus, who had not yet manifested Himself by miracles, and yet, for about thirty years already, He had been living in their midst; the Baptist—man of faith—points Him out to them with full certainty.
 
 His words also apply to us; Jesus is present in our midst as well: present in His tabernacles in the Eucharist, present in our souls in grace. But who knows Him? Only those who believe. Rekindle, then, your faith: you will find Jesus, you will know Jesus according to the measure of your faith in Him. Jesus sometimes hides from your interior gaze, it seems He no longer lets Himself be found, no longer lets Himself be felt: then it is the time to double your faith, to walk "in naked faith." "Blessed are those who have believed and have not seen" (Jn. 20, 29). Such was the faith of the Baptist who had not seen Jesus' miracles, yet believed. Such was the faith of the Most Holy Mary, to whom today's Vespers antiphon alludes: "Blessed are you, O Mary, who believed the Lord; the things spoken to you shall be fulfilled in you!"
 

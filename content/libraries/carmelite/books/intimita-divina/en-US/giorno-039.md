@@ -1,18 +1,16 @@
 ## 39 — JESUS FIRSTBORN OF ALL CREATURES
 *January 4*
 
-### Presence of God
-
-— Give me light, O Lord Jesus, to discover Your ineffable greatnesses as Son of God through Your most humble appearance as Child.
+**Presence of God.** — *— Give me light, O Lord Jesus, to discover Your ineffable greatnesses as Son of God through Your most humble appearance as Child.*
 
 ### Meditation
 
-1 — "He [Jesus] is the image of the invisible God,
+**1** — "He [Jesus] is the image of the invisible God,
 the firstborn of every creature, for in Him were created
 all things in heaven and on earth, visible and invisible things... All was created through Him and for Him;
 and He is before all and all subsists in Him" (Col. 1,
 
-15-17). In this text of St. Paul is synthesized the infinite
+**15** — 17). In this text of St. Paul is synthesized the infinite
 greatness of Jesus. As Word He is the substantial and most perfect image of the Father, having the same nature as
 Him and proceeding from Him by eternal generation. As
 Word He is the firstborn of all creatures because He was
@@ -35,7 +33,7 @@ dwells bodily all the fullness of Divinity" (Col.
 Jesus was pleased to hide these infinite splendors of His divinity in the hiddenness of the manger, but,
 guided by love and faith, we do not want to delay in recognizing and exalting them.
 
-2 — Jesus is the firstborn, He is the source of our being
+**2** — Jesus is the firstborn, He is the source of our being
 not only in the natural order, that is, with regard to our
 creation, but also and particularly in the supernatural order, that is, with regard to the life of grace; indeed...
 "with the same one image of His Son [God] left creatures clothed with beauty by communicating to them supernatural being: which happened when the Word, by becoming incarnate,

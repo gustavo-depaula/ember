@@ -1,10 +1,10 @@
 ## XII — A CASTIDADE
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, lírio puríssimo, amador dos virgens, faz-me compreender a beleza da castidade perfeita.*
 
 ### Meditação
 
-1 — "Não sabeis que sois templo de Deus e que o
+**1** — "Não sabeis que sois templo de Deus e que o
 Espírito de Deus habita em vós? Se alguém destruir o templo de
 Deus, Deus o destruirá; porque o templo de Deus é santo,
 e isto sois vós" (I Cor. 3, 16-17).
@@ -39,7 +39,7 @@ se teu olho é mau, todo teu corpo ficará em
 trevas" (Mt. 6, 22 e 23).
 
 
-2 — "Quem é celibatário preocupa-se com as coisas do Senhor,
+**2** — "Quem é celibatário preocupa-se com as coisas do Senhor,
 como possa agradar-lhe... E a virgem cuida das
 coisas do Senhor, querendo ser santa de corpo e de espírito" (I Cor. 7, 32 e 34).
 

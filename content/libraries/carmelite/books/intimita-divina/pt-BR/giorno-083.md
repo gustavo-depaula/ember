@@ -1,10 +1,10 @@
 ## VII — A NOITE DOS SENTIDOS
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Senhor, fortalece o meu desejo de chegar até Ti, para que eu tenha a coragem de enfrentar por amor de Ti a total purificação da minha sensibilidade.*
 
 ### Meditação
 
-1 — "Para chegar à união divina é necessário à alma passar pela noite escura de mortificação dos apetites e de privação dos gostos em todas as coisas" (cf. S. I, 3, 1). S. João da Cruz chama de "noite escura" a mortificação total dos sentidos, porque quando a alma renuncia a todo apego desordenado às coisas e a todo gosto que nelas pode encontrar, fica, quanto aos sentidos, "privada de tudo... sem nada e às escuras" (ibid., 3, 1).
+**1** — "Para chegar à união divina é necessário à alma passar pela noite escura de mortificação dos apetites e de privação dos gostos em todas as coisas" (cf. S. I, 3, 1). S. João da Cruz chama de "noite escura" a mortificação total dos sentidos, porque quando a alma renuncia a todo apego desordenado às coisas e a todo gosto que nelas pode encontrar, fica, quanto aos sentidos, "privada de tudo... sem nada e às escuras" (ibid., 3, 1).
 
 Precisamente para ajudar-te a entrar nesta noite, pela qual se chega à união com Deus, o Santo te ensinou a contrariar tua tendência desordenada às satisfações sensíveis.
 
@@ -21,7 +21,7 @@ bebais, ...fazei tudo para a glória de Deus" (Fil. 4, 4;
 1 Cor. 10, 31). Mas se, ao contrário, te deténs no gosto das coisas sensíveis, jamais poderás entrar na noite dos sentidos.
 
 
-2 — "Ordinariamente entra-se na noite do sentido por
+**2** — "Ordinariamente entra-se na noite do sentido por
 dois modos: um ativo, outro passivo. O ativo consiste em
 aquilo que a alma pode operar e realmente opera da sua
 parte... O modo passivo é aquele em que a alma nada faz

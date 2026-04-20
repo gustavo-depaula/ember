@@ -1,12 +1,10 @@
 ## 106 — HUMILITY AND TRUST
 
-### Presence of God
-
-— From the depth of my nothingness I cry to You, O Lord; Lord hear my voice... I trust in You.
+**Presence of God.** — *— From the depth of my nothingness I cry to You, O Lord; Lord hear my voice... I trust in You.*
 
 ### Meditation
 
-1 — Christian humility does not depress, but lifts up,
+**1** — Christian humility does not depress, but lifts up,
 does not cast down, but encourages, because the more it unveils to the soul
 
 
@@ -40,7 +38,7 @@ because he has at his disposal the greatness of
 God Himself.
 
 
-2 — God does not introduce souls into a higher
+**2** — God does not introduce souls into a higher
 spiritual life, does not admit them to greater intimacy with Him,
 until He finds them completely stripped of every trust
 in themselves. When a soul, practically forgetting

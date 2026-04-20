@@ -2,7 +2,7 @@
 
 **Presença de Deus.** — *Ponho-me na tua presença, ó Senhor, para que tua luz me ilumine sobre as verdades eternas e desperte em mim sinceros desejos de conversão.*
 
-**Meditação**
+### Meditação
 
 **1** — «És pó e ao pó tornarás» (Gen. 3, 19). Estas palavras, pronunciadas pela primeira vez por Deus e dirigidas a Adão em consequência do pecado cometido, hoje a Igreja as repete a cada cristão para recordar-lhe duas verdades fundamentais: seu nada e a realidade da morte.
 
@@ -30,7 +30,7 @@ não haverá temores nem ansiedades, porque aquele que sempre
 viveu à espera do Senhor não teme abrir-lhe quando
 de fato Ele chega, mas vai ao seu encontro com alegria,
 acolhe-o com grande amor e com todo o impulso da alma
-lhe dá seu último "Ecce venio", eis que venho (Sl.
+lhe dá seu último "*Ecce venio*", eis que venho (Sl.
 39, 8).
 
 Aliás, a morte é a última, mas não é a única vinda
@@ -52,7 +52,7 @@ palavras de Jesus: "Muito bem, servo bom e fiel... entra
 na alegria do teu Senhor" (Mt. 25, 21).
 
 
-2 — Falando das pessoas chegadas à transformação
+**2** — Falando das pessoas chegadas à transformação
 de amor em Deus, S. João da Cruz explica que a morte delas
 é causada mais pelo ímpeto do amor divino do que
 pelas causas naturais. "Ainda que morram durante uma enfermidade ou
@@ -94,7 +94,7 @@ vontade. Quando uma alma durante toda a vida se empenhou
 em cumprir com o máximo amor a vontade de Deus, pode
 ter plena confiança de que o Senhor lhe fará a graça suprema de aceitar com grande amor também a morte.
 
-**Colóquio**
+### Colóquio
 
 «Ó Jesus, com é longa a vida do homem, não obstante se diga que é breve! Breve, meu Deus, para com ela ganhar a vida que não tem fim, mas longuíssima para a alma que deseja ver-se logo contigo.
 

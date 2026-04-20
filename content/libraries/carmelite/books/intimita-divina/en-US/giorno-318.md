@@ -1,12 +1,10 @@
 ## 318 — THE GIFT OF UNDERSTANDING
 
-### Presence of God
-
-Come, Spirit of understanding, enlighten me!
+**Presence of God.** — *Come, Spirit of understanding, enlighten me!*
 
 ### Meditation
 
-1. — In our journey toward God we find difficulties not only from creatures trying to hinder our steps, but also because of impenetrability of divine mysteries. And as, to help us overcome the first, Holy Spirit comes to our aid with gift of knowledge, so to help us overcome the second He comes with gift of understanding.
+**1** — In our journey toward God we find difficulties not only from creatures trying to hinder our steps, but also because of impenetrability of divine mysteries. And as, to help us overcome the first, Holy Spirit comes to our aid with gift of knowledge, so to help us overcome the second He comes with gift of understanding.
 
 Our intelligence is incapable of grasping infinite. Though invested by faith, its mode of understanding remains human mode proceeding through ideas and limited concepts, absolutely insufficient to express divine realities. Revelation itself reaches us by means of human words and therefore cannot manifest what God is in Himself, cannot reveal intimate essence of revealed truths.
 
@@ -18,7 +16,7 @@ It is rapid and deep penetration adding nothing new to data of Revelation, but m
 
 Under influence of this gift, soul not only believes God is One and Triune, but intuits Trinitarian mystery is essential to divine nature and is that which more than all others reveals God's perfection, power, and infinite love.
 
-2. — Only Holy Spirit, who is God, can make us penetrate divine mysteries. St. Paul says it explicitly: "The things that eye hath not seen, nor ear heard ... to us God hath revealed by his Spirit. For the Spirit searches all things, yea, the deep things of God ... the things that are of God no man knows but the Spirit of God. Now we have received not spirit of this world, but Spirit that is of God, that we may know the things that are given us from God" (1 Cor. 2:9-12).
+**2** — Only Holy Spirit, who is God, can make us penetrate divine mysteries. St. Paul says it explicitly: "The things that eye hath not seen, nor ear heard ... to us God hath revealed by his Spirit. For the Spirit searches all things, yea, the deep things of God ... the things that are of God no man knows but the Spirit of God. Now we have received not spirit of this world, but Spirit that is of God, that we may know the things that are given us from God" (1 Cor. 2:9-12).
 
 This is marvelous action Holy Spirit performs in us through gift of understanding. To souls united with Him by love He communicates participation in his knowledge of divine mysteries. Therefore it is clear: the more united we are to Holy Spirit by perfect charity, the more apt we are to receive this precious communication.
 

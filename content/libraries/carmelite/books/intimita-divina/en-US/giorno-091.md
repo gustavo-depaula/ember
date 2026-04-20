@@ -1,11 +1,11 @@
 ## 91 — THE PREDICTION OF THE PASSION
 *Sunday of Quinquagesima*
 
-### Presence of God
+**Presence of God.** — *O Jesus, give me light to understand the mystery and the value of Christian suffering.*
 
 ### Meditation
 
-1 — As Lent draws near, the time in which the remembrance of Jesus' sorrows predominates, today's Gospel (Lk.
+**1** — As Lent draws near, the time in which the remembrance of Jesus' sorrows predominates, today's Gospel (Lk.
 18, 31-43) brings the announcement of His Passion.
 
 The prediction is clear: "the Son of Man shall be delivered
@@ -40,7 +40,7 @@ that the Christian pass through the crucible of
 sorrow to arrive at holiness, at eternal life.
 
 
-2 — Only after the descent of the Holy Spirit did the Apostles fully understand the meaning of Jesus'
+**2** — Only after the descent of the Holy Spirit did the Apostles fully understand the meaning of Jesus'
 Passion and, instead of being scandalized by it, they regarded it as the highest honor to follow and preach Christ crucified.
 
 The human eye has no light to understand the value
@@ -66,7 +66,7 @@ poor blind man, who, without worrying about the crowd that
 prevented him from approaching Jesus, without stopping at the rebukes of the disciples who wanted him to be silent, "cried
 all the louder" his prayer.
 
-From the depth of our heart let us raise our cry to the Lord: "De profundis clamo ad te, Domine, Domine audi
+From the depth of our heart let us raise our cry to the Lord: "*De profundis* clamo ad te, Domine, Domine audi
 vocem meam!" (Ps. 129). Let us not ask to be freed from suffering, but rather to be enlightened about
 its value: "Lord, that I may see!" As soon as the blind man
 recovered his sight, he immediately went after Jesus, "glorifying God!" The supernatural light we invoke from the

@@ -1,12 +1,10 @@
 ## VI — REGRAS DE DESPOJAMENTO
 
-### Presença de Deus
-
-— Ó Senhor, minha cegueira e minha fraqueza ainda precisam da tua luz e da tua força para empreender com generosidade a via do nada.
+**Presença de Deus.** — *— Ó Senhor, minha cegueira e minha fraqueza ainda precisam da tua luz e da tua força para empreender com generosidade a via do nada.*
 
 ### Meditação
 
-1 — Jesus disse: "o reino dos céus é semelhante
+**1** — Jesus disse: "o reino dos céus é semelhante
 a um mercador que anda em busca de belas pérolas; e, tendo encontrado
 
 
@@ -42,7 +40,7 @@ em tudo, a vender tudo, o próprio Deus lhe porá nas mãos
 a pérola preciosa da união divina.
 
 
-2 — "É necessário que [a alma] abrace de coração tal exercício de abnegação e de obras virtuosas, adestrando nele a vontade com ordem e discrição" (S. I,
+**2** — "É necessário que [a alma] abrace de coração tal exercício de abnegação e de obras virtuosas, adestrando nele a vontade com ordem e discrição" (S. I,
 13, 7). Da alma que quer entrar na via do nada, João da Cruz pede duas coisas: antes de tudo, decisão
 e generosidade, porque quem não tem coragem de negar-se
 em tudo nunca chegará ao desapego total e, portanto,

@@ -2,7 +2,7 @@
 
 **Presença de Deus.** — *Ó Jesus crucificado, digna-te fazer-me compreender como a Cruz é a maior prova de amor.*
 
-**Meditação**
+### Meditação
 
 **1** — A Cruz de Jesus, depois da Encarnação, é a maior prova de amor que Ele deu aos homens; assim também para nós a mortificação, o sofrimento abraçado espontaneamente por amor dele é uma das mais belas provas de amor que lhe podemos dar. Trata-se, de fato, de renunciar livremente a uma nossa satisfação, a um nosso prazer para impor-nos por amor de Deus alguma coisa que nos desagrada e contraria; isso demonstra claramente que preferimos dar satisfação a Deus do que a nós mesmos. Todo ato de mortificação voluntária, seja física seja moral, diz a Deus não com palavras, mas com os fatos: Senhor, amo-te mais que a mim mesmo! E como a alma enamorada deseja vivamente dar prova do seu amor, é muito vigilante para não deixar escapar nenhuma ocasião de renúncia.
 
@@ -18,7 +18,7 @@ A amorosa contemplação do Crucificado era a alma de todas as austeridades de S
 
 Contemplando o Crucificado a alma sente que, por quanto se mortifique por amor seu, seus sacrifícios, suas renúncias, são um nada e, antes de conceber sentimentos de vã complacência pelas mortificações compiute, sente o bisogno de umiliarsi e di fare sempre di più. «Ama molto i patimenti — insegna S. Giovanni della Croce — e stimali ben poca cosa per entrare nella grazia dello Sposo, il quale non ha dubitato di morire per te» (AM. II, 15).
 
-**Colóquio**
+### Colóquio
 
 «Ó meu Dileto, como te darei eu prova do meu amor se o amor se atesta com as obras? Eu não tenho outro meio para attestar-te o meu amor, senão espalhar flores, isto é, não deixar escapar nenhum sacrifício por quanto pequeno: um olhar, uma palavra, também nas mínimas ocasiões, e cumpri-los por amor. Quero sofrer por amor, e também por amor gozar; e assim espalharei flores. Não um só encontrarei, sem desfolhá-lo para ti..., e depois cantarei, cantarei sempre, também se deva colher minhas rosas entre os espinhos; meu canto será tanto mais melodioso, quanto mais longos e pungentes forem os espinhos» (T.B.G. St. 11).
 

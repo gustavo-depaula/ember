@@ -1,12 +1,10 @@
 ## 305 — SPIRITUAL PROGRESS
 
-### Presence of God
-
-O Lord, grant me to progress each day on the path of holiness, never growing weary and never turning back.
+**Presence of God.** — *O Lord, grant me to progress each day on the path of holiness, never growing weary and never turning back.*
 
 ### Meditation
 
-1. — "Be holy, for I am holy" (Lev. 19:2): this is God's will, this is our vocation, this is the object of our desires and efforts. Created in God's likeness, we do not want his image in us clouded by defects and passions; we want it to shine clear and pure, reflecting as much as possible his holiness.
+**1** — "Be holy, for I am holy" (Lev. 19:2): this is God's will, this is our vocation, this is the object of our desires and efforts. Created in God's likeness, we do not want his image in us clouded by defects and passions; we want it to shine clear and pure, reflecting as much as possible his holiness.
 
 To make us like Himself, God infused in our soul, together with grace, theological and moral virtues whose very purpose is to copy in us something of his infinite perfections. And He, who as Father loves to find in his children traits of his likeness, ardently desires to see us grow in virtues.
 
@@ -16,7 +14,7 @@ Therefore, if we want to cooperate with God's action that seeks to make us like 
 
 We must not think this exercise is reserved to beginners, because "the obligation to progress in the love of God — and therefore in all other virtues — lasts until death" (St. Francis de Sales). No one, however advanced in spiritual ways, can consider himself exempt from practicing virtue.
 
-2. — St. Teresa of Jesus, while describing heights of union with God, repeatedly digresses to strongly recommend the exercise of virtues. "It is necessary," she writes to her daughters, "that you do not place your foundation only in praying and contemplating; for if you do not strive to acquire virtues and practice them, you will always remain dwarfs" (Interior Castle VII, 4, 9). Elsewhere she says explicitly that by virtues one can "make great progress in serving God even without being great contemplatives, whereas without virtues no one can do so" (Way 4, 3).
+**2** — St. Teresa of Jesus, while describing heights of union with God, repeatedly digresses to strongly recommend the exercise of virtues. "It is necessary," she writes to her daughters, "that you do not place your foundation only in praying and contemplating; for if you do not strive to acquire virtues and practice them, you will always remain dwarfs" (Interior Castle VII, 4, 9). Elsewhere she says explicitly that by virtues one can "make great progress in serving God even without being great contemplatives, whereas without virtues no one can do so" (Way 4, 3).
 
 Whether God leads us or not by the path of high contemplation is not essential for becoming saints and, moreover, does not depend on our will. But what is essential — and this depends on us — is always the practice of virtue. Whether God wills us in family life or dedicated to a profession, whether He calls us to apostolate or contemplative life, in every case we become holy only in proportion as we are virtuous.
 

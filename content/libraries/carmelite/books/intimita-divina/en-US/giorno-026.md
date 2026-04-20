@@ -1,13 +1,11 @@
 ## 26 — THE MYSTERY OF THE INCARNATION
 *December 22*
 
-### Presence of God
-
-— I place myself in the presence of Jesus with the lively desire to penetrate that infinite mystery of divine love that led Him, God, to make Himself "one of us."
+**Presence of God.** — *— I place myself in the presence of Jesus with the lively desire to penetrate that infinite mystery of divine love that led Him, God, to make Himself "one of us."*
 
 ### Meditation
 
-1 — God is charity: all that He works in Himself and outside Himself is a work of love. Being the infinite Good, He cannot
+**1** — God is charity: all that He works in Himself and outside Himself is a work of love. Being the infinite Good, He cannot
 love anything outside Himself moved, as we are,
 by the desire to increase His happiness: in Himself He has everything.
 Therefore in God to love, and thus to will creatures, is purely to spread outside Himself His infinite good, His perfections, to share with others His being, His happiness: "Bonum diffusivum sui," says St. Thomas. It is
@@ -25,7 +23,7 @@ man natural life, after destining him to supernatural
 life, what more could He give him than to give him
 Himself, His Word made flesh for his salvation?
 
-2 — God is charity, and therefore it is no wonder if the
+**2** — God is charity, and therefore it is no wonder if the
 history of His action on behalf of man is a whole poem
 of love, and of merciful love. The first canto of this poem was our eternal destination to the vision and
 enjoyment of God's intimate life. The second canto

@@ -1,13 +1,11 @@
 ## 310 — FRATERNAL UNION
 *Seventeenth Sunday after Pentecost*
 
-### Presence of God
-
-My God, grant me grace to preserve union with neighbor in the bond of charity and peace.
+**Presence of God.** — *My God, grant me grace to preserve union with neighbor in the bond of charity and peace.*
 
 ### Meditation
 
-1. — As Jesus in his earthly life never ceased to recommend charity and fraternal union, so the Church, in Sunday Masses, continues to inculcate this virtue. Today she does so using a passage from St. Paul's letter to the Ephesians: "I beseech you to walk worthy of the vocation in which you are called, with all humility and meekness, with long-suffering, supporting one another in charity, careful to keep the unity of the Spirit in the bond of peace" (Epistle).
+**1** — As Jesus in his earthly life never ceased to recommend charity and fraternal union, so the Church, in Sunday Masses, continues to inculcate this virtue. Today she does so using a passage from St. Paul's letter to the Ephesians: "I beseech you to walk worthy of the vocation in which you are called, with all humility and meekness, with long-suffering, supporting one another in charity, careful to keep the unity of the Spirit in the bond of peace" (Epistle).
 
 The call we have received is vocation to Christianity, that is, vocation to love. God, infinite charity, adopts us as his children so that we may emulate his charity — and emulate it to the point that love is the bond uniting us all in one heart, as the Father and Son are united in one Divinity in the bond of the Holy Spirit. "That they all may be one, as Thou, Father, in Me and I in Thee ... that they also may be one in us," Jesus asked for us (Jn. 17:21).
 
@@ -15,7 +13,7 @@ The call we have received is vocation to Christianity, that is, vocation to love
 
 We must persuade ourselves that everything disturbing, weakening, or, worse, destroying union does not please God. Nor does it please Him even if done under pretext of zeal. Except for fulfillment of duty and respect for God's law, we should always prefer to renounce our own ideas, even good ones, rather than clash with neighbor. An act of humble renunciation for the sake of unity gives far more glory to God; peace among brothers gives far more glory to God than a grand work that becomes cause of discord and disharmony.
 
-2. — Very often the cause of divisions among good people is excessive personalism, too much insistence on doing things one's own way. Given our limitations, there can be nothing so absolute in our ideas as to leave no room for others'. If our views are good, upright, and clear, others can stand beside them that are equally good, even better. Therefore it is much wiser, humbler, and more charitable to accept others' views and harmonize ours with them, rather than reject them because we cannot renounce personal details and nuances.
+**2** — Very often the cause of divisions among good people is excessive personalism, too much insistence on doing things one's own way. Given our limitations, there can be nothing so absolute in our ideas as to leave no room for others'. If our views are good, upright, and clear, others can stand beside them that are equally good, even better. Therefore it is much wiser, humbler, and more charitable to accept others' views and harmonize ours with them, rather than reject them because we cannot renounce personal details and nuances.
 
 This personalism is enemy of union, obstacle to better success of works, and obstacle also to our spiritual progress.
 

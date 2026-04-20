@@ -6,13 +6,13 @@
 
 ### Meditação
 
-1 — Depois de considerar o sublime programa de santificação ao qual todos devemos tender, é tão consolador considerar os magníficos textos da liturgia de hoje: são um convite à plena confiança no auxílio divino. "Em breve virá a tua salvação, por que te consomes na aflição?... Eu te salvarei e libertarei, e tu não temas... Como uma mãe consola os seus filhos, assim Eu vos consolarei, diz o Senhor" (BR.). O Senhor não quer ansiedades nem desânimos. Se Ele nos propõe um sublime caminho de santidade, não nos deixa sozinhos, mas vem a nós para ser o nosso auxílio, o nosso sustento.
+**1** — Depois de considerar o sublime programa de santificação ao qual todos devemos tender, é tão consolador considerar os magníficos textos da liturgia de hoje: são um convite à plena confiança no auxílio divino. "Em breve virá a tua salvação, por que te consomes na aflição?... Eu te salvarei e libertarei, e tu não temas... Como uma mãe consola os seus filhos, assim Eu vos consolarei, diz o Senhor" (BR.). O Senhor não quer ansiedades nem desânimos. Se Ele nos propõe um sublime caminho de santidade, não nos deixa sozinhos, mas vem a nós para ser o nosso auxílio, o nosso sustento.
 
 Na Missa do dia põe-se em evidência que Jesus vem não somente para o povo de Israel, para poucos eleitos, mas também para os gentios, para todos. "Eis que o Senhor vem salvar as nações" (Intr.). Confiemos, pois, e alegremo-nos segundo o voto de São Paulo: "o Deus da esperança vos encha de toda alegria e paz na fé, para que abundeis na esperança" (Ep.: Rom. 11, 4-13). E para que as nossas esperanças em Cristo sejam encorajadas também por fatos concretos, o Evangelho (Mt. 11, 2-10) apresenta-nos a grandeza das suas obras: "...os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e a boa nova é anunciada aos pobres".
 
 Não há miséria material e moral que Jesus não possa curar; Ele pede-nos só que vamos ao seu encontro com um coração dilatado na fé, na plena confiança no seu amor misericordioso onipotente.
 
-2 — No Evangelho de hoje Jesus apresenta-nos a figura forte e austera do Batista: "Que fostes ver no deserto? Uma cana agitada pelo vento?... Um homem vestido de roupas delicadas?".
+**2** — No Evangelho de hoje Jesus apresenta-nos a figura forte e austera do Batista: "Que fostes ver no deserto? Uma cana agitada pelo vento?... Um homem vestido de roupas delicadas?".
 
 Se queremos preparar os nossos corações para a vinda do Senhor devemos, como o Batista, desapegar-nos dos bens terrenos; João deixara tudo e retirara-se para o deserto numa vida de penitência. O seu exemplo convida-nos a recolher-nos no deserto interior do nosso coração, longe das criaturas, para aguardar, num intenso recolhimento, em silêncio e solidão — na medida em que os deveres do nosso estado o permitem — a vinda de Jesus. E devemos perseverar nesta espera também na aridez, no desalento: "certamente aparecerá o Senhor — canta o ofício do dia — e não faltará; se demora, espera-o, virá e não tardará" (BR.).
 

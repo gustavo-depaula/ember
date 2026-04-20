@@ -16,7 +16,7 @@ Também a nossa oração deve ser permeada, substanciada de sacrifício, de ofer
 
 S. Teresa de Jesus ensina que o fim das graças contemplativas é precisamente "fortalecer a nossa fraqueza para que saibamos imitar Nosso Senhor no muito padecer" (M. VII, 4, 4).
 
-**Colóquio**
+### Colóquio
 
 *Ó Jesus, que diferença entre a minha oração e a tua! A tua tão profunda, tão intensa; a minha tão superficial, distraída, apressada.* Quantas vezes, infelizmente, deixo-me tomar pela pressa do trabalho, deixo-me absorver pela atividade a ponto de não ser capaz de interrompê-la.
 

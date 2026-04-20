@@ -1,12 +1,10 @@
 ## 118 — THE VALUE OF OBEDIENCE
 
-### Presence of God
-
-— O most obedient Jesus, make me understand the value of obedience.
+**Presence of God.** — *— O most obedient Jesus, make me understand the value of obedience.*
 
 ### Meditation
 
-1 — "The Lord - teaches St. John of the Cross -
+**1** — "The Lord - teaches St. John of the Cross -
 prefers from you the least degree of obedience and submission
 rather than all the services you think to render Him"
 (AM. I, 13). Why? Because obedience makes you renounce
@@ -40,7 +38,7 @@ masters... as to Christ... doing from the heart the will
 of God" (Eph. 6, 5 and 6).
 
 
-2 — One of the greatest obstacles to full conformity
+**2** — One of the greatest obstacles to full conformity
 of your will with God's is attachment to your own willing,
 to your own desires, to your own inclinations. Now obedience,
 asking you to regulate yourself according to another's will, is the

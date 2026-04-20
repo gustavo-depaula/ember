@@ -1,13 +1,11 @@
 ## 117 — THE MULTIPLICATION OF THE LOAVES
 *Fourth Sunday of Lent*
 
-### Presence of God
-
-— O Jesus, true bread of eternal life, satisfy my hunger.
+**Presence of God.** — *— O Jesus, true bread of eternal life, satisfy my hunger.*
 
 ### Meditation
 
-1 — Today's Sunday is a pause of holy gladness, of
+**1** — Today's Sunday is a pause of holy gladness, of
 spiritual refreshment that the Church, as a good mother,
 offers us halfway through the austere Lenten practices,
 almost to restore our strength. "Rejoice, O Jerusalem -
@@ -50,7 +48,7 @@ you can, never to send away a needy neighbor
 without giving him your help.
 
 
-2 — Before working the miracle Jesus asks
+**2** — Before working the miracle Jesus asks
 Philip: "Where shall we buy enough bread to feed these people?" and the Evangelist observes: "He said this to test him,
 for He Himself knew what He would do." There is no difficult circumstance in our life whose solution God does not know; for every case,
 even the most intricate, He has foreseen and keeps ready

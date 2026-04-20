@@ -1,12 +1,10 @@
 ## 25 — APOSTOLIC ACTION
 
-### Presence of God
-
-Inflame me, O Lord, with Your holy zeal so that I may not know how to tolerate in myself even the smallest thing that displeases You.
+**Presence of God.** — *Inflame me, O Lord, with Your holy zeal so that I may not know how to tolerate in myself even the smallest thing that displeases You.*
 
 ### Meditation
 
-1.— In the three years of His public life, Jesus exercised external apostolate on a broad scale, but His activity was never separated from His intimate union with the Father;
+**1** — In the three years of His public life, Jesus exercised external apostolate on a broad scale, but His activity was never separated from His intimate union with the Father;
 rather, it blossomed from it: a union not limited to hours
 of prayer alone, but a permanent, indissoluble union of every
 instant of His life. If such a substantial union with
@@ -25,7 +23,7 @@ union with God increases, the more the action that springs from it will bear fru
 external apostolic activity—that is, one that would claim, even because of the urgency of works, to neglect the exercises of interior
 life, prayer, and the search for union with God—would condemn itself to remain, of itself, fruitless.
 
-2 — Jesus' apostolic work, wholly permeated with sacrifice, culminated in the supreme Sacrifice of the Cross; so our
+**2** — Jesus' apostolic work, wholly permeated with sacrifice, culminated in the supreme Sacrifice of the Cross; so our
 apostolic activity, to be fruitful, must sink its roots into the fertile ground of immolation. By
 itself apostolic action requires sacrifice, both because of the
 toilsome life it imposes, and because of continual contact with persons of different mentalities, tastes,

@@ -1,13 +1,11 @@
 ## 34 — A SIGN OF CONTRADICTION
 *Sunday within the octave of the Nativity*
 
-### Presence of God
-
-O Lord, fulfill in me Your designs of peace and love, making me rise to a life fully fervent.
+**Presence of God.** — *O Lord, fulfill in me Your designs of peace and love, making me rise to a life fully fervent.*
 
 ### Meditation
 
-1 — Today's Mass is an echo of Holy Christmas, but while it commemorates its sweetness and joy, it also carries a note of deep sadness. The Gospel (Lk. 2, 33-40) transports us suddenly to forty days after Jesus' birth,
+**1** — Today's Mass is an echo of Holy Christmas, but while it commemorates its sweetness and joy, it also carries a note of deep sadness. The Gospel (Lk. 2, 33-40) transports us suddenly to forty days after Jesus' birth,
 when He was presented in the temple, and reports Simeon's prophecy: "Behold, this Child is destined to be the cause of the ruin and resurrection of many in Israel and to become a sign of contradiction."
 
 \* Move this meditation according to the calendar of the year.
@@ -16,7 +14,7 @@ The Son of God becomes man for all men and women, brings and offers salvation to
 
 Simeon's prophecy then addresses the Virgin Mother directly: "And a sword shall pierce your own soul." The bloody vision of the Cross suddenly interweaves with the sweet vision of Christmas and reminds us that the tender Child of Bethlehem is the divine Lamb who must be immolated for the salvation of the world.
 
-2 — Among all those who were in the temple when the Child Jesus was presented there, only two persons recognized the Savior: the old Simeon and the prophetess Anna. Of Simeon it is said: "a just and devout man, who awaited the consolation of Israel; the Holy Spirit was upon him" (Lk. 2, 25); and of Anna: "she never departed from the temple, serving God night and day in fastings and prayers." These are the characteristics of souls well disposed to receive Jesus' redemptive work: rectitude of mind and will, sincere desire for God,
+**2** — Among all those who were in the temple when the Child Jesus was presented there, only two persons recognized the Savior: the old Simeon and the prophetess Anna. Of Simeon it is said: "a just and devout man, who awaited the consolation of Israel; the Holy Spirit was upon him" (Lk. 2, 25); and of Anna: "she never departed from the temple, serving God night and day in fastings and prayers." These are the characteristics of souls well disposed to receive Jesus' redemptive work: rectitude of mind and will, sincere desire for God,
 recollection, prayer, mortification. The deeper these dispositions become, the more the soul opens itself to divine action: the light of the Holy Spirit makes it recognize in Jesus its Savior, its Sanctifier, and Jesus can fully accomplish His work in it. To these souls are applied in a wholly particular way the magnificent words of St. Paul in today's Epistle (Gal. 4, 1-7): "Because you are children, God sent the Spirit of His Son into your hearts, crying: Abba, Father."
 To every Christian,
 to everyone redeemed by Jesus' Blood, the Apostle says: "you are no longer a servant, but a son; and if a son, then also an heir through God"; but unfortunately not all Christians

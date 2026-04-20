@@ -1,12 +1,10 @@
 ## 330 — THE VARIOUS FORMS OF APOSTOLATE
 
-### Presence of God
-
-O Jesus, teach me to pray, to suffer, to work with You for salvation of souls.
+**Presence of God.** — *O Jesus, teach me to pray, to suffer, to work with You for salvation of souls.*
 
 ### Meditation
 
-1. — When one speaks of apostolate, one thinks almost exclusively of exterior activity. Certainly this is necessary, but it is not only form of apostolate. We must always keep before us that Jesus saved us not only by activity carried out during last three years of his life, dedicated to evangelization of crowds and formation of first nucleus of Church, but also by prayer, by suffering — in sum, by his whole life.
+**1** — When one speaks of apostolate, one thinks almost exclusively of exterior activity. Certainly this is necessary, but it is not only form of apostolate. We must always keep before us that Jesus saved us not only by activity carried out during last three years of his life, dedicated to evangelization of crowds and formation of first nucleus of Church, but also by prayer, by suffering — in sum, by his whole life.
 
 Jesus was always Apostle, always One sent by Father for our salvation. His apostolate begins at Bethlehem in squalor of grotto, where, little Child wrapped in swaddling clothes, He already suffers for us; it continues in thirty years of life spent at Nazareth in prayer, retreat, hiddenness; it takes exterior form in direct contact with souls during public life; and it culminates in agony of garden and death on cross.
 
@@ -18,7 +16,7 @@ Both are participation in saving work of Jesus. Yet there is great difference be
 
 On other hand there are cases in which exterior activity may be lacking without diminishing interior apostolate of prayer and sacrifice, which can still be very intense and fruitful. Every Christian is apostle not only by force of activity he carries out, but principally by force of participation in prayer and sacrifice with which Jesus redeemed world.
 
-2. — Interior apostolate can subsist of itself, and in fact there are forms of life that legitimately exclude exterior apostolate. Such is case of pure contemplative life, always flourishing in Church and maternally supported by her against those who accuse it of absenteeism from field of activity.
+**2** — Interior apostolate can subsist of itself, and in fact there are forms of life that legitimately exclude exterior apostolate. Such is case of pure contemplative life, always flourishing in Church and maternally supported by her against those who accuse it of absenteeism from field of activity.
 
 Those who, following God's call, withdraw from works to dedicate themselves to this life are not deserters or runaways. If they leave ranks of external apostolate, they do so precisely to give themselves to deeper apostolate: that of prayer and continual immolation.
 

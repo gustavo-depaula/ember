@@ -1,12 +1,10 @@
 ## 321 — BLESSED ARE THE PEACEMAKERS
 
-### Presence of God
-
-O Holy Spirit, help me establish my heart in peace.
+**Presence of God.** — *O Holy Spirit, help me establish my heart in peace.*
 
 ### Meditation
 
-1. — The soul that, under influence of gift of wisdom, has tasted God looks at world with eyes filled by Him and thus becomes capable of judging all things *secundum rationes divinas* (II-II, q. 45, a. 3), according to divine reasons, according to supernatural motives, and not according to short human reasons.
+**1** — The soul that, under influence of gift of wisdom, has tasted God looks at world with eyes filled by Him and thus becomes capable of judging all things *secundum rationes divinas* (II-II, q. 45, a. 3), according to divine reasons, according to supernatural motives, and not according to short human reasons.
 
 These are true "wise" judgments, which we could never reach without aid of Holy Spirit. In fact, "the sensual man [man of senses and pure reason] perceives not things that are of Spirit of God, for it is foolishness to him ... but the spiritual man [man of faith guided by Holy Spirit] judges all things" (1 Cor. 2:14-15).
 
@@ -18,7 +16,7 @@ Only one living under influence of this gift can truly judge and order all in re
 
 Thus gift of wisdom gives note of sweetness not only to prayer but also to practical life. "Under influence of this gift," says St. Thomas, "bitterness is changed into sweetness, labor into rest" (II-II, q. 45, a. 3).
 
-2. — Gift of wisdom leads us to peace: interior peace of soul that, having tasted God, gives itself to Him without reserve, totally surrendered to his divine will; serene peace of one who, seeing God in all, accepts without disturbance adversities of life, adoring in them divine dispositions; and also social peace of one who, considering men in relation to God as creatures and his children, loves all and wants to live in peace with all.
+**2** — Gift of wisdom leads us to peace: interior peace of soul that, having tasted God, gives itself to Him without reserve, totally surrendered to his divine will; serene peace of one who, seeing God in all, accepts without disturbance adversities of life, adoring in them divine dispositions; and also social peace of one who, considering men in relation to God as creatures and his children, loves all and wants to live in peace with all.
 
 The more perfect this peace is, the more it leads us to taste reward promised by Jesus: "Blessed are the peacemakers, for they shall be called children of God" (Mt. 5:9).
 

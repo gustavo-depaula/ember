@@ -1,12 +1,10 @@
 ## 82 — RULES OF STRIPPING
 
-### Presence of God
-
-— O Lord, my blindness and my weakness still need Your light and Your strength to undertake generously the way of nothingness.
+**Presence of God.** — *— O Lord, my blindness and my weakness still need Your light and Your strength to undertake generously the way of nothingness.*
 
 ### Meditation
 
-1 — Jesus said: "the kingdom of heaven is like
+**1** — Jesus said: "the kingdom of heaven is like
 to a merchant who goes in search of fine pearls; and, having found
 
 
@@ -42,7 +40,7 @@ in all, at selling all, God Himself will place in its hands
 the precious pearl of divine union.
 
 
-2 — "It is necessary that [the soul] embrace from the heart such an exercise of self-denial and virtuous works, training in it the will with order and discretion" (A. I,
+**2** — "It is necessary that [the soul] embrace from the heart such an exercise of self-denial and virtuous works, training in it the will with order and discretion" (A. I,
 13, 7). Of the soul that wishes to enter the way of nothingness, John of the Cross asks two things: first, decision
 and generosity, because one who does not have the courage to deny himself
 in all will never reach total detachment and therefore

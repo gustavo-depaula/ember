@@ -1,11 +1,11 @@
 ## 103 — THE TRANSFIGURATION
 *Second Sunday of Lent*
 
-### Presence of God
+**Presence of God.** — *O Jesus, may Your grace triumph in me until it makes me worthy to share in Your glorious Transfiguration.*
 
 ### Meditation
 
-1 — The Soul of Jesus, personally united to the Word,
+**1** — The Soul of Jesus, personally united to the Word,
 enjoyed the beatific vision, whose connatural effect is
 the glorification of the body. But this effect was held back by
 Jesus who, during the years of His earthly life, willed
@@ -44,7 +44,7 @@ has disfigured cannot return to its original
 supernatural beauty except through purifying suffering.
 
 
-2 — Peter, enraptured by the vision of Tabor, with his
+**2** — Peter, enraptured by the vision of Tabor, with his
 usual ardor exclaims: "It is good for us to be here," and
 offers to prepare three tents: for Jesus, for Moses, and for
 Elijah. But his proposal is interrupted by a voice from above: "This is my beloved Son, in whom I am well

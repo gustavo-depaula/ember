@@ -1,12 +1,10 @@
 ## 327 — THE SOUL OF APOSTOLATE
 
-### Presence of God
-
-Make me understand, O Lord, that only union with You, only love, can make every apostolate fruitful.
+**Presence of God.** — *Make me understand, O Lord, that only union with You, only love, can make every apostolate fruitful.*
 
 ### Meditation
 
-1. — One cannot be a collaborator of God, a docile instrument in his hands; one cannot feel with Christ and associate oneself with his love and his work for salvation of souls, without a life of loving intimacy with God and with blessed Jesus — that is, without an intense interior life.
+**1** — One cannot be a collaborator of God, a docile instrument in his hands; one cannot feel with Christ and associate oneself with his love and his work for salvation of souls, without a life of loving intimacy with God and with blessed Jesus — that is, without an intense interior life.
 
 By prayer and struggle against sin, by self-denial and practice of virtues, interior life progressively strips soul of all that is defective, thus favoring in it growth of grace and love. This means clothing it with divine life, since grace and love are participation in God's own life. It follows that the more a soul cultivates interior life, the more it approaches God; and becoming like Him through grace and love, it can live in his intimacy, enjoy his friendship, penetrate his mysteries, and associate itself with them.
 
@@ -18,7 +16,7 @@ It is significant that Jesus, before sending Apostles to conquest of world, want
 
 Apostle cannot be such unless he is friend of God. God Himself invites him to this friendship, but it is necessary he correspond by serious interior life that makes his relations with God ever more intimate and richer in love.
 
-2. — Only from friendship with God, only from charity that unites us to Him, does apostle draw those supernatural energies that make his works truly effective and capable of reaching their goal.
+**2** — Only from friendship with God, only from charity that unites us to Him, does apostle draw those supernatural energies that make his works truly effective and capable of reaching their goal.
 
 But where will apostle draw this love which, uniting him to God, renders him so powerful? Certainly from God Himself: "The charity of God is poured forth in our hearts by the Holy Ghost who is given to us" (Rom. 5:5).
 

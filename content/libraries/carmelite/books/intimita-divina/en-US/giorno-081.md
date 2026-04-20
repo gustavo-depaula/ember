@@ -1,12 +1,10 @@
 ## 81 — THE WAY OF NOTHINGNESS
 
-### Presence of God
-
-— Show me, O Lord, the narrow way that leads to true life, that leads to union with You.
+**Presence of God.** — *— Show me, O Lord, the narrow way that leads to true life, that leads to union with You.*
 
 ### Meditation
 
-1 — If you want to enter decisively upon the way of total detachment, the only one that leads securely to union with God, you must "lay the axe to the root of the tree," that is, you must strike and uproot the root of your attachments, and this is the unruly tendency to enjoy, that is, to seek your satisfaction in yourself, in your self-love, or in creatures. You were truly created to enjoy, but instead of going beyond yourself and things to reach God, instead of using creatures to ascend to the Creator, you stop to seek your happiness in them. You stop there with disordered affection and thus, for a crumb of satisfaction, you bind your heart to earth and make yourself incapable of reaching union with God, who is the only source of true happiness. The disordered tendency to enjoy is precisely what, instead of fixing your desires and affections in God, turns them toward creatures. Here is the root of every one of your attachments, however small.
+**1** — If you want to enter decisively upon the way of total detachment, the only one that leads securely to union with God, you must "lay the axe to the root of the tree," that is, you must strike and uproot the root of your attachments, and this is the unruly tendency to enjoy, that is, to seek your satisfaction in yourself, in your self-love, or in creatures. You were truly created to enjoy, but instead of going beyond yourself and things to reach God, instead of using creatures to ascend to the Creator, you stop to seek your happiness in them. You stop there with disordered affection and thus, for a crumb of satisfaction, you bind your heart to earth and make yourself incapable of reaching union with God, who is the only source of true happiness. The disordered tendency to enjoy is precisely what, instead of fixing your desires and affections in God, turns them toward creatures. Here is the root of every one of your attachments, however small.
 
 To mortify this unruly tendency to the very end, St. John of the Cross teaches you to "renounce any sensible pleasure that is not purely for the glory and honor of God; and remain empty of it for love of Jesus Christ, who in this life had no and sought no satisfaction other than fulfilling the will of the Father" (A. I, 13, 4). The Saint does not claim that you should live without the least taste or the least satisfaction - which is impossible, since man is created for happiness - but he teaches you to renounce all those satisfactions that do not please God and instead to place your tastes and your satisfaction only in fulfilling God's will, in pleasing Him, in giving Him glory. Exactly as Jesus lived, who could say: "I always do what pleases My Father"
 
@@ -14,7 +12,7 @@ To mortify this unruly tendency to the very end, St. John of the Cross teaches y
 (Jn. 8, 29).
 
 
-2 — If that way of acting or speaking satisfies your self-love, but you understand that it cannot please God, you must renounce it; if that conversation, that friendship, that comfort gives you pleasure, but you doubt that it gives pleasure to God, you must leave it; if your will urges you to do something that, even slightly, is contrary to the will of God, you must abstain. These are the cases in which St. John of the Cross repeats without reticence: nothing, nothing, nothing.
+**2** — If that way of acting or speaking satisfies your self-love, but you understand that it cannot please God, you must renounce it; if that conversation, that friendship, that comfort gives you pleasure, but you doubt that it gives pleasure to God, you must leave it; if your will urges you to do something that, even slightly, is contrary to the will of God, you must abstain. These are the cases in which St. John of the Cross repeats without reticence: nothing, nothing, nothing.
 
 
 Nothing to the satisfactions of pride or selfishness, nothing

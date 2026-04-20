@@ -1,12 +1,10 @@
 ## 11 — IN SEARCH OF GOD
 
-### Presence of God
-
-I recollect myself in the inner sanctuary of my soul to seek there God, living in me through grace.
+**Presence of God.** — *I recollect myself in the inner sanctuary of my soul to seek there God, living in me through grace.*
 
 ### Meditation
 
-1 — "The kingdom of God is within you" (Lk. 17, 21), Jesus taught us, and St. Teresa of Avila comments: "To speak with her heavenly Father and enjoy His company, the soul does not need to ascend to heaven... To seek Him it has no need of wings, because it is enough that it withdraw into solitude and contemplate Him within itself" (Way, 28, 2).
+**1** — "The kingdom of God is within you" (Lk. 17, 21), Jesus taught us, and St. Teresa of Avila comments: "To speak with her heavenly Father and enjoy His company, the soul does not need to ascend to heaven... To seek Him it has no need of wings, because it is enough that it withdraw into solitude and contemplate Him within itself" (Way, 28, 2).
 
 But if God is in us, why do we struggle so much to find Him, to recognize His presence? St. John of the Cross answers: "It is to be noted that the Word, Son of God, together with the Father and the Holy Spirit, is essentially and by presence hidden in the innermost being of the soul. Therefore, the soul that wishes to discover Him must go out from all things according to the affection of the will, recollecting itself to the highest degree within itself, as if all else did not exist... God, then, is hidden in the soul, and there the good contemplative must seek Him with love" (C. 1, 6).
 
@@ -16,7 +14,7 @@ St. Paul also said: "you have died, and your life is hidden with Christ in God" 
 
 The loving search for God hidden in us goes hand in hand with this dying to the world and to ourselves. The more one dies, the more one finds God.
 
-2 — St. John of the Cross continues: "Whoever seeks something hidden must enter secretly into the hiding place where it is, and when he finds it he too is hidden as it is. Since, therefore, your beloved Spouse is the hidden treasure in the vineyard of your soul, to acquire which the prudent merchant sold all his goods, you too must, forgetting all your own things and withdrawing from all creatures, hide yourself, in order to find Him, in the innermost retreat of your spirit" (C. 1, 9). It is a new invitation to detachment—to forget and withdraw from all things—in order to penetrate the depths of the soul, into the hiding place where God conceals Himself.
+**2** — St. John of the Cross continues: "Whoever seeks something hidden must enter secretly into the hiding place where it is, and when he finds it he too is hidden as it is. Since, therefore, your beloved Spouse is the hidden treasure in the vineyard of your soul, to acquire which the prudent merchant sold all his goods, you too must, forgetting all your own things and withdrawing from all creatures, hide yourself, in order to find Him, in the innermost retreat of your spirit" (C. 1, 9). It is a new invitation to detachment—to forget and withdraw from all things—in order to penetrate the depths of the soul, into the hiding place where God conceals Himself.
 
 We live too much outwardly; too often there is in us an entire world of very lively tendencies, impulses, and passions, which push us toward creatures and induce us to give them our heart, to place our hope in them, to seek our comfort in their remembrance. And we live in this superficial world, which occupies us to such a point that it makes us forget the deeper life, truly interior life, where the soul could remain in intimate union with its God. The Lord waits for us, so to speak, in the depths of our soul, but we do not enter this depth, so absorbed as we are by "our affairs" to which we give all our interest.
 

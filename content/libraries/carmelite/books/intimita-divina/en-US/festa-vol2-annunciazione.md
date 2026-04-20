@@ -28,4 +28,4 @@ Many times in our life we have received invitations from the Lord - and certainl
 
 "O Mary, my sweetest love, you opened to the eternal Divinity the door of your will and immediately the Word was incarnate in you. And by this you teach me that God, who created me without me, will not save me without me... but He knocks at the door of my will and waits for me to open to Him" (St. Catherine of Siena).
 
-O Mary, by the ineffable mystery accomplished in you today, I beg you always to teach and help me to throw wide open the door of my soul to every divine call, to every urging of grace. Grant that before every manifestation of the divine will I may always repeat with you my humble and prompt: *"Ecce, fiat".*
+O Mary, by the ineffable mystery accomplished in you today, I beg you always to teach and help me to throw wide open the door of my soul to every divine call, to every urging of grace. Grant that before every manifestation of the divine will I may always repeat with you my humble and prompt: *"Ecce, *fiat*".*

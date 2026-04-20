@@ -1,8 +1,6 @@
 ## XI — O ESPÍRITO DE POBREZA
 
-### Presença de Deus
-
-— Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.
+**Presença de Deus.** — *— Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.*
 
 ### Meditação
 
@@ -45,7 +43,7 @@ desapegando teu coração dos bens terrenos, deve tornar-te
 generoso para com os necessitados.
 
 
-2 — "Não andeis demasiadamente preocupados com a vossa vida, com
+**2** — "Não andeis demasiadamente preocupados com a vossa vida, com
 o que comereis ou bebereis, nem... com o que vestireis.
 Não vale a vida mais que o alimento e o corpo mais
 que o vestido? Observai as aves do céu, que não semeiam,

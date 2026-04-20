@@ -1,12 +1,10 @@
 ## 315 — THE GIFT OF KNOWLEDGE
 
-### Presence of God
-
-O Holy Spirit, teach me deeply the nothingness of human things.
+**Presence of God.** — *O Holy Spirit, teach me deeply the nothingness of human things.*
 
 ### Meditation
 
-1. — With gifts of fear, fortitude, piety, and counsel, the Holy Spirit governs chiefly our moral life. With other gifts — knowledge, understanding, and wisdom — He governs more directly our theological life, that is, our life of relation with God. While first four gifts especially perfect moral virtues, these last three perfect theological virtues. They are called gifts of contemplative life, that is, life of prayer and union with God.
+**1** — With gifts of fear, fortitude, piety, and counsel, the Holy Spirit governs chiefly our moral life. With other gifts — knowledge, understanding, and wisdom — He governs more directly our theological life, that is, our life of relation with God. While first four gifts especially perfect moral virtues, these last three perfect theological virtues. They are called gifts of contemplative life, that is, life of prayer and union with God.
 
 In ascent toward God we meet a great obstacle: creatures, which with their attractions impress and draw us and try to hold us to themselves — sensible and visible goods — turning us away from God, Infinite Good, who escapes experience of our humanity.
 
@@ -16,7 +14,7 @@ Therefore a more powerful help is needed, a divine light enlightening us from wi
 
 Under impulse of this gift, Francis of Assisi suddenly abandons joyful companions to espouse Lady Poverty, and when his indignant father repudiates him he exclaims in fervor of spirit: "From now on I shall no longer say father Pietro Bernardone, but Our Father who art in heaven!" Under this gift's impulse Teresa of Avila writes her maxims: "All things pass, God alone remains. If you have God in your heart, you lack nothing; his love suffices." And Blessed Maria Bertilla dies saying: "One must work for Jesus alone. Everything is nothing."
 
-2. — Guided by gift of knowledge, St. John of the Cross traced famous way of "nothing," way that, leaving aside all created goods, climbs straight and swiftly mountain of perfection where encounter between soul and God takes place. "Nothing, nothing," repeats the Saint, "not this, not that; neither goods of earth nor goods of heaven" — that is, not even spiritual consolations — but God alone.
+**2** — Guided by gift of knowledge, St. John of the Cross traced famous way of "nothing," way that, leaving aside all created goods, climbs straight and swiftly mountain of perfection where encounter between soul and God takes place. "Nothing, nothing," repeats the Saint, "not this, not that; neither goods of earth nor goods of heaven" — that is, not even spiritual consolations — but God alone.
 
 So much renunciation, stripping, and nakedness terrify poor human nature. But soul enlightened by Holy Spirit understands: nothing of all this, because "all things are vanity, except to love God and serve Him alone" (Imitation I, 1, 4). As gift of knowledge develops in it, soul understands and tastes the nothingness of things and lets itself perceive God's all. It feels need to escape from creatures in order to immerse itself in Him. This is first step toward contemplation.
 

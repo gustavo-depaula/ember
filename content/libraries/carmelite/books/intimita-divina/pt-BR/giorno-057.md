@@ -14,7 +14,7 @@ E disse-nos expressamente que devemos imitá-lo: "Eu vos dei o exemplo, para que
 
 Não se trata, porém, de uma imitação puramente externa, material, das ações de Jesus, mas é preciso chegar a estudar, a penetrar as íntimas disposições de sua Alma para torná-las nossas, segundo o conselho de S. Paulo: "Tende em vós os mesmos sentimentos que houve também em Jesus Cristo" (Fil. 2, 5). Deste modo, a imitação de Jesus apreende nele o que há de mais profundo e vital, isto é, as íntimas disposições que constituem o princípio interior de todas as suas ações; e, por outro lado, é acessível a todos em qualquer estado e condição de vida, ao passo que a imitação material das ações de Jesus nunca pode ser completa e varia sempre segundo as circunstâncias em que cada um se encontra.
 
-**Colóquio**
+### Colóquio
 
 *"Ó Cristo, verdade eterna, qual é a tua doutrina? E qual é o caminho pelo qual Tu nos convidas e convém que vamos ao Pai? Não sei ver outra estrada senão aquela que Tu pavimentaste com as verdadeiras e reais virtudes: com o fogo da tua caridade, Tu, Verbo eterno, a bateste com o teu Sangue: este é o caminho.
 

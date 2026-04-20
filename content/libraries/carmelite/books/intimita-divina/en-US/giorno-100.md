@@ -1,122 +1,22 @@
-## 100 — IMPERFECTION
-
-### Presence of God
+## 100 — SIN
+**Presence of God.** — *O Jesus crucified, make me understand the great malice of sin.*
 
 ### Meditation
 
-1 — Whereas venial sin always includes a
-transgression, more or less slight, of a law of God, imperfection
-is the omission of a better good to which one is not
-obliged by any law, but which nevertheless would be fitting to do. When, in a concrete case, there is clearly
-presented to me the possibility of doing a better action,
-which is fitting and proportionate to my state,
-to my present possibilities, which is in harmony with my
-duties, and for which I can reasonably think myself
-inspired by the Holy Spirit, and yet I deliberately refuse
-to do it, this cannot be without true and proper imperfection. In this case my refusal of the better
-cannot be considered good, nor can it be justified
-by the thought that, since no law or command exists
-imposing that better action on me, I may omit it merely to exercise my freedom; this would be
-an abuse of freedom, which was given to me by God
-only to render me capable of adhering to good, without
-letting myself be influenced by passions. And in fact, in the end, my refusal of the better always includes a lack of generosity, motivated by some selfishness,
-laziness, narrowness, attachment to my comfort; and
-all this is evidently contrary to perfection.
+**1** — The essence of Christian perfection consists in union with God through charity. Now, while charity, by conforming our will to the divine will, unites us to God, sin — mortal sin — by directly opposing the will of God, produces the contrary effect. In other words, charity is the force that unites man to God; sin is the force that separates him from God. Mortal sin is thus the greatest enemy of the spiritual life, for it not only assails it but destroys it in its constitutive elements — charity and grace. And this destruction, this spiritual death, is precisely the inevitable consequence of sin: the act by which man voluntarily detaches himself from God, the sole source of life, of charity, of grace. As the branch cut from the trunk cannot live, so the soul separated from God cannot live.
 
-Considered thus, it is clear that voluntary imperfection
-can never be conformed to the will of God,
-therefore it too, like sin, goes in the direction opposite to charity, which tends to full conformity
-with the divine will. Hence the importance,
+If God, as the cause of all being, is always present in the soul of the sinner — in the same way that He is present in all things — He is not present there as Father, as Guest, as a Trinity who offers Himself to the soul as the object of knowledge and of love. Thus the soul, created to be the temple of the Trinity, has voluntarily rendered itself incapable of living in communion with the divine Persons; it has barred for itself the way to union with God; it has, so to speak, compelled God to break with it every bond of friendship. And all this because it has preferred a limited and perishable good — the gratification of some miserable creature, some selfish satisfaction, some earthly pleasure — over the Sovereign Good. Such is the malice of sin, which repudiates the divine gift, which betrays the Creator, the Father, the Friend. "Oh! why do we not understand that sin is an open war of all our senses and all our powers against the Lord, a universal contest as to who can devise the greatest treacheries against one's own King?" *(T.G.* *Es.* 14, 2).
 
+**2** — If we wish to understand more fully the malice of mortal sin, we must consider its disastrous effects. A single sin instantly transformed Lucifer from an angel of light into an angel of darkness, into the eternal enemy of God. A single sin stripped Adam and Eve of the state of grace, of friendship with God, depriving them of every supernatural and preternatural gift, condemning them to death, and with them all humanity. A single sin sufficed to dig an abyss between God and humanity, to close off for the human race every possibility of union with God.
 
-for the soul that seeks perfection, of eliminating from its
+But more than all this, the Passion of Jesus tells us how great is the malice and the destructive force of sin. The torn limbs of Christ, His most sorrowful death upon the cross, tell us that sin is a kind of deicide. Jesus, the fairest of the sons of men, was made on account of sin "despised and the most abject of men, a man of sorrows... He was wounded for our iniquities" in such wise that "from the sole of the foot unto the top of the head, there is no soundness in him" *(Is.* 53, 3-5; 1, 6). Sin has martyred Christ and reduced Him to death; but on the other hand Christ went to His passion and death "because he willed it" *(ibid.,* 53, 7), because by His death He willed to destroy sin and to restore man to divine friendship.
 
-
-conduct any voluntary imperfection. It is precisely in
-this sense that St. John of the Cross warns: "For the soul
-to come to be perfectly united with God through will and love... it is required that it consent knowingly and advertently to no imperfection," and he teaches
-that attachment to one habitual voluntary imperfection is enough to impede "not only divine union,
-but also progress in perfection" (A. I, 11, 3).
-
-
-2 — Wanting to descend to something more concrete, one can consider other types of imperfection, and first of all the transgression
-of a law that of itself does not oblige under sin,
-as are generally the constitutions or statutes of various
-religious Orders and Institutes. In this regard it should
-be noted that if there is no reasonable,
-proportionate, and sufficient motive for failing in one of these laws,
-very easily such transgressions will become venial
-sin because of lack of a morally good end. In fact,
-as St. Thomas teaches, man is bound always to act
-
-
-for a reasonable motive, for a good end. If the
-
-
-end is vitiated - as it would be, for example, to transgress the
-law of silence, recollection, or religious modesty out of
-curiosity, for one's own convenience, and the like - the action
-thereby becomes sinful; and generally these will be "sins, at least light, of spiritual laziness, inconstancy,
-ingratitude, and a certain hardness of heart that does not
-sufficiently appreciate the help God gives us for
-better works" (Salmanticenses). Another kind of imperfection
-is a certain lack of completeness found in an
-act substantially good, but carried out, for example, with
-some narrowness, or without employing in it all the
-good will and impetus of which one is capable.
-
-In the end, every kind of voluntary imperfection
-always derives from lack of effort, of vigor, of momentum
-in spiritual life. It is always selfishness that, in one way
-or another, takes something from God to satisfy
-self. We are too calculating; we are afraid of giving
-
-
-too much, and thus selfishness clips our wings and prevents us from reaching full union with God.
+And Jesus, our Head, invites us His members to associate ourselves with His work of destroying sin: to destroy it in ourselves even to its last roots — that is, in the evil tendencies — and to destroy it also in the other members. This is a law of solidarity, for the evil of one is the evil of all; every sin weighs upon the whole world and tends to shift its axis away from God. Therefore every Christian — and still more every soul consecrated to God — must feel himself strongly committed in this struggle against sin, and must combat it with fitting means: with penance, with expiatory prayer, and above all with love. The love of charity, when it is perfect, destroys sin more than the fire of purgatory, even without any external manifestation. This is why the saints were able to convert so many souls: God made use of the fire of their charity to destroy sin in sinners.
 
 ### Colloquy
 
-I beg You, O my God, grant me a charity
-strong, generous, capable of destroying to the very root my
-selfishness. Oh, how I see that it is precisely this
-selfishness that is the cause of so many little infidelities of mine, of so many
-imperfections into which I habitually fall and which
-I do not care to correct under the pretext that they are not
+"O my God and my true Strength, whence comes it that, cowardly in all else, we are so bold in offending Thee? To this are the energies of the sons of Adam put! If reason were not so blind, they would understand that all the forces of men would still be insufficient to give them boldness to take up arms against their Creator and to continue the war against Him who in a single instant can cast them all into the abyss. But since in them reason is blind, they go like madmen to meet their death, imagining they will find life... O inaccessible Wisdom! It takes all the affection with which Thou lovest Thy creatures to bear with such madness, to await our healing, and to labor to procure it for us by every sort of means and remedies.
 
+"Behold what amazes me. One has not the courage to overcome even a slight difficulty; one believes oneself incapable, notwithstanding every good will, of freeing oneself from an occasion and withdrawing from a danger in which the soul is ruined — and yet one has the courage and daring to rise up against a Majesty as great as Thine. What is this, my Good? What is this? Who inspires us with such boldness?...
 
-sins!
-
-But such faults are not without importance for
-a soul that, being consecrated to You, has the duty to
-tend to perfection, for a soul therefore that You call to holiness, that You invite to full union with You.
-How can I claim to unite myself to You, Infinite Perfection,
-I who voluntarily admit into my life so many and
-so many imperfections? How can my will be
-wholly conformed to Yours, when I will and love what
-You do not will and absolutely cannot love?
-
-O Lord, how I feel the weight of my selfishness
-that drags me downward, that would like to achieve the
-maximum with minimum effort, that seeks by every means to avoid
-toil, renunciation, full and generous self-gift! How
-I feel the heaviness of the flesh that always seeks to reduce somewhat the measure of my donation, that postpones
-to tomorrow what costs me or repels me, that presents me
-a thousand pretexts to evade an act of generosity!
-
-Yes, O Lord, I feel all this, and You know better
-than I how far the retreats and compromises of my
-selfishness go. But You also know that I want to love You with all my
-heart, that I want to give myself entirely to You; You know that my
-poor desires are sincere, though ineffective. Well then,
-do You give me a real, operative love, capable of conquering
-all the resistances of selfishness, of dismantling all its
-
-
-plans. You who are infinite charity, consuming fire, infuse
-
-
-into my soul a spark of Your love, that it may destroy and burn every selfish tendency of mine. If selfishness
-is the weight that tries to slow my flight toward You,
-grant that Your love be a weight still stronger that
-draws me incessantly into You, by means of a total
-self-giving, without reserve, without measure.
+"Ah, Lord! what hardness, what folly! what blindness! One suffers at the loss of some object, a needle... and then remains unmoved before the loss of that royal Eagle who is Thou, O God of glory!... What is this, then, what is it? I can make nothing of it. Heal, my God, such great madness and blindness!... The loss of so many souls afflicts me so deeply that I can no longer contain myself. O Lord, raising my voice to Thee, I beseech Thee to furnish me with some means of contributing to win some of them to Thy service, and to give me the ability to do a little good through prayer, since I am capable of nothing else... It seems to me that to save a single soul of the many that are being lost, I would sacrifice my life a thousand times!... It seems to me, O Lord, that Thou prizest more a single soul that by our endeavors and prayers we, through Thy mercy, gain for Thee, than all the services we could ever render Thee" *(T.G.* *Es.* 12, 1 and 2; 14, 4; *Fd.* 1, 7; *Cam.* 1, 2).

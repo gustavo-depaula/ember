@@ -1,13 +1,11 @@
 ## 110 — THE STRENGTH OF JESUS
 *Third Sunday of Lent*
 
-### Presence of God
-
-— O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.
+**Presence of God.** — *— O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.*
 
 ### Meditation
 
-1 — Since the first Sunday of Lent the Church has
+**1** — Since the first Sunday of Lent the Church has
 presented to us Jesus in combat against the demon, but,
 while then it presented Him in humble posture of
 defense before the temptations of the evil one, today it
@@ -42,7 +40,7 @@ of evil: they are only apparent triumphs, because Jesus is
 the stronger One, the only and final victor.
 
 
-2 — To make Jesus' victory over evil our own,
+**2** — To make Jesus' victory over evil our own,
 our collaboration is evidently needed. In today's Gospel
 Jesus Himself indicates several aspects of it.
 

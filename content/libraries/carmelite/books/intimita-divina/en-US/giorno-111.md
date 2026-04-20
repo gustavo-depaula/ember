@@ -1,12 +1,10 @@
 ## 109 — HUMILITY OF HEART
 
-### Presence of God
-
-— O Jesus, meek and humble of heart, make my heart like Yours.
+**Presence of God.** — *— O Jesus, meek and humble of heart, make my heart like Yours.*
 
 ### Meditation
 
-1 — Only once did Jesus expressly say:
+**1** — Only once did Jesus expressly say:
 "learn from Me," and He said it precisely with regard to humility: "Learn from Me, for I am meek and humble of
 heart" (Mt. 11, 29). Knowing well how difficult the practice of true humility would be for our proud nature,
 
@@ -38,7 +36,7 @@ miserableness; know how to recognize the good in you as pure
 gift of God, never making yourself its master.
 
 
-2 — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which al-
+**2** — Humility of heart is a virtue at once difficult and easy: difficult, because so contrary to pride which al-
 ways pushes us to exalt ourselves; easy, because we do not need to go far to seek its motives, but have them
 - and in abundance - in ourselves, in our
 miserableness. Nevertheless, it is not enough to be miserable to be

@@ -1,10 +1,10 @@
 ## 114 — HIDING WITH CHRIST IN GOD
 
-### Presence of God
+**Presence of God.** — *O Jesus, help me to hide from creatures so as to enter into Your divine intimacy.*
 
 ### Meditation
 
-1 — When one speaks of Jesus' hidden life, one
+**1** — When one speaks of Jesus' hidden life, one
 must not understand only His hiding from men's eyes by concealing His divinity and fleeing their glory,
 but, going beyond these external relations with creatures,
 one must penetrate into the secret of His Heart, where - hidden
@@ -42,7 +42,7 @@ dead to the world and to its vanities - and your life is
 hidden with Christ in God" (Col. 3, 3).
 
 
-2 — "My God... now forever I mean to shut myself
+**2** — "My God... now forever I mean to shut myself
 within Your most lovable Heart as in a desert,
 there to make in You, with You, for You this hidden life of love and sacrifice." Thus St. Teresa Margaret made concrete her ideal of hidden life with Christ.
 

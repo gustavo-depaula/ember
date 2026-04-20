@@ -4,7 +4,7 @@
 
 ### Meditação
 
-1 — "O reino de Deus está dentro de vós" (Lc. 17, 21), ensinou-nos Jesus, e Santa Teresa de Avila comenta: "A alma, para falar com o seu Pai celeste e gozar da sua companhia, não precisa subir ao céu... Para procurá-lo não precisa de asas, porque basta que se retire em solidão e o contemple em si mesma" (Cam. 28, 2).
+**1** — "O reino de Deus está dentro de vós" (Lc. 17, 21), ensinou-nos Jesus, e Santa Teresa de Avila comenta: "A alma, para falar com o seu Pai celeste e gozar da sua companhia, não precisa subir ao céu... Para procurá-lo não precisa de asas, porque basta que se retire em solidão e o contemple em si mesma" (Cam. 28, 2).
 
 Mas se Deus está em nós, por que custamos tanto a encontrá-lo, a reconhecer a sua presença? Responde São João da Cruz: "É de notar que o Verbo Filho de Deus, juntamente com o Pai e o Espírito Santo, está essencialmente e presencialmente escondido no íntimo ser da alma. Portanto, convém que a alma que o quer encontrar saia de todas as coisas segundo o afeto da vontade, recolhendo-se ao máximo grau dentro de si mesma, como se tudo o mais não existisse... Deus, pois, está escondido na alma, e aqui o bom contemplativo o deve buscar com amor" (C. 1, 6).
 
@@ -14,7 +14,7 @@ Também São Paulo disse: "estais mortos, e a vossa vida está escondida com Cri
 
 A busca amorosa de Deus escondido em nós caminha de mãos dadas com esta morte para o mundo e para nós mesmos. Quanto mais se morre, mais se encontra Deus.
 
-2 — São João da Cruz continua: "Quem busca uma coisa escondida deve penetrar escondido até o esconderijo onde ela está, e quando a encontra também ele fica escondido como ela. Portanto, já que o teu amado Esposo é o tesouro escondido na vinha da tua alma, para adquirir o qual o prudente mercador vendeu todos os seus bens, será preciso que também tu, esquecendo todas as tuas coisas e afastando-te de todas as criaturas, te escondas, a fim de encontrá-lo, no íntimo retiro do teu espírito" (C. 1, 9). É um novo convite ao desapego — esquecer, afastar-se de todas as coisas — para penetrar nas profundezas da alma, no esconderijo onde Deus se oculta.
+**2** — São João da Cruz continua: "Quem busca uma coisa escondida deve penetrar escondido até o esconderijo onde ela está, e quando a encontra também ele fica escondido como ela. Portanto, já que o teu amado Esposo é o tesouro escondido na vinha da tua alma, para adquirir o qual o prudente mercador vendeu todos os seus bens, será preciso que também tu, esquecendo todas as tuas coisas e afastando-te de todas as criaturas, te escondas, a fim de encontrá-lo, no íntimo retiro do teu espírito" (C. 1, 9). É um novo convite ao desapego — esquecer, afastar-se de todas as coisas — para penetrar nas profundezas da alma, no esconderijo onde Deus se oculta.
 
 Vivemos demasiado por fora; demasiadas vezes há em nós todo um mundo de tendências, de impulsos, de paixões muito vivas, que nos empurram para as criaturas e nos induzem a dar-lhes o nosso coração, a pôr nelas a nossa esperança, a buscar o nosso consolo na lembrança delas. E vivemos neste mundo superficial, que nos ocupa a tal ponto de fazer-nos esquecer a vida mais profunda, vida verdadeiramente interior, onde a alma poderia permanecer em íntima união com o seu Deus. O Senhor espera-nos, por assim dizer, no fundo da nossa alma, mas nós não entramos neste fundo, tomados como estamos pelos "nossos negócios", aos quais damos todo o nosso interesse.
 

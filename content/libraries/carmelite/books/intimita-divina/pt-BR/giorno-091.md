@@ -4,7 +4,7 @@
 
 **Presença de Deus.** — *Ó Jesus, dá-me luz para compreender o mistério e o valor do sofrimento cristão.*
 
-**Meditação**
+### Meditação
 
 **1** — Aproximando-se a Quaresma, tempo em que domina a lembrança das dores de Jesus, o Evangelho de hoje (Lc.
 18, 31-43) traz o anúncio de sua Paixão.
@@ -68,7 +68,7 @@ pobre cego, o qual, sem preocupar-se com a multidão que
 lhe impedia aproximar-se de Jesus, sem deter-se com as repreensões dos discípulos que queriam fazê-lo calar, "gritava
 muito mais forte" sua oração.
 
-Do profundo do coração elevemos nosso clamor ao Senhor: "De profundis clamo ad te, Domine, Domine audi
+Do profundo do coração elevemos nosso clamor ao Senhor: "*De profundis* clamo ad te, Domine, Domine audi
 vocem meam!" (Sl. 129). Não peçamos ser libertados do sofrimento, mas antes ser iluminados quanto
 ao valor dele: "Senhor, que eu veja!" Logo que o cego
 recobrou a vista, imediatamente foi atrás de Jesus, "glorificando
@@ -76,7 +76,7 @@ Deus!" A luz sobrenatural que invocamos do
 Senhor nos dará força para segui-lo levando, atrás dele,
 a nossa cruz.
 
-**Colóquio**
+### Colóquio
 
 «Ó Filho do Eterno Pai, Jesus Cristo Senhor nosso,
 verdadeiro Rei do universo! Qual é a herança que deixaste

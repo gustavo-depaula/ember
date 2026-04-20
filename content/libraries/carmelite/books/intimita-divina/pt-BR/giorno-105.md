@@ -1,11 +1,11 @@
 ## XXIX — A TRANSFIGURAÇÃO
 *II domingo da Quaresma*
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, que a Tua graça triunfe em mim até tornar-me digno de participar da Tua gloriosa Transfiguração.*
 
 ### Meditação
 
-1 — A Alma de Jesus, unida pessoalmente ao Verbo,
+**1** — A Alma de Jesus, unida pessoalmente ao Verbo,
 gozava da visão beatífica, cujo efeito conatural é
 a glorificação do corpo. Mas tal efeito foi impedido por
 Jesus que, durante os anos de sua vida terrena, quis
@@ -46,7 +46,7 @@ beleza sobrenatural senão por meio do sofrimento
 purificador.
 
 
-2 — Pedro, extasiado pela visão do Tabor, com seu
+**2** — Pedro, extasiado pela visão do Tabor, com seu
 ardor habitual exclama: "É bom para nós estarmos aqui", e se
 oferece para preparar três tendas: para Jesus, para Moisés e para
 Elias. Mas sua proposta é interrompida por uma voz do alto: "Este é meu Filho amado, no qual pus meu agrado:

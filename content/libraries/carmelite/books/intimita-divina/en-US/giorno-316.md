@@ -1,12 +1,10 @@
 ## 316 — BLESSED ARE THOSE WHO MOURN
 
-### Presence of God
-
-Grant me, O Lord, to shed only tears acceptable to You and helping me grow in your love.
+**Presence of God.** — *Grant me, O Lord, to shed only tears acceptable to You and helping me grow in your love.*
 
 ### Meditation
 
-1. — To the gift of knowledge corresponds beatitude: "Blessed are they that mourn, for they shall be comforted" (Mt. 5:5). Blessed first are those who, deeply enlightened by Holy Spirit on nothingness of creatures, weep over time spent seeking them, energies and affections wasted in world's vanities.
+**1** — To the gift of knowledge corresponds beatitude: "Blessed are they that mourn, for they shall be comforted" (Mt. 5:5). Blessed first are those who, deeply enlightened by Holy Spirit on nothingness of creatures, weep over time spent seeking them, energies and affections wasted in world's vanities.
 
 These are burning tears of St. Augustine who in his Confessions never ceases to lament: "Late have I loved You, O Beauty ever ancient and ever new, late have I loved You ... You were with me and I was not with You; creatures kept me far from You." These are tears of penitent Magdalene and of St. Peter weeping over his fault. Blessed tears, washing souls from sin and disposing them for friendship with God.
 
@@ -16,7 +14,7 @@ A soul living under influence of this gift will never be easygoing or superficia
 
 The Holy Spirit does not want to make us scrupulous, but very delicate in fidelity to God. Therefore He is not content that we despise worldliness in a general way, but wants us to despise it also in subtler manifestations: little revenges of self-love, slightest complacency in self, little searches for others' affection and esteem. Blessed soul able to recognize and weep over all its miseries, not with tears of discouragement or disturbance, but with tears of deep contrition that, instead of narrowing it in fear, enlarge it in penitential love and throw it into God's arms with a heart renewed in love and sorrow.
 
-2. — Gift of knowledge, by making us experience deeply vanity of creatures, convinces us of their inconsistency and fragility and thus urges us to place all hopes in God. In this sense this gift perfects and strengthens virtue of hope so that, without hesitating any longer, our heart anchors itself in God, recognizing in Him our only support and foundation, and our only happiness.
+**2** — Gift of knowledge, by making us experience deeply vanity of creatures, convinces us of their inconsistency and fragility and thus urges us to place all hopes in God. In this sense this gift perfects and strengthens virtue of hope so that, without hesitating any longer, our heart anchors itself in God, recognizing in Him our only support and foundation, and our only happiness.
 
 The more soul hopes in God and in beatifying possession of Him awaiting it in eternal life, the more disposed it is not only to renounce happiness and satisfactions creatures can offer, but also to embrace all sacrifices necessary for reaching eternal life. Sacrifices are many because it is impossible to go to God except by following same path Son of God took to lead us there: way of Cross.
 

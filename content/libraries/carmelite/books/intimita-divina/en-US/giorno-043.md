@@ -1,12 +1,10 @@
 ## 43 — JESUS TRUE VINE
 
-### Presence of God
-
-— Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.
+**Presence of God.** — *— Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.*
 
 ### Meditation
 
-1 — Jesus is the one "Mediator between God and men"
+**1** — Jesus is the one "Mediator between God and men"
 (1 Tim. 2, 5); yet He was not content to redeem us
 while remaining separated from us, His redeemed, but willed that
 all our redemption should be wrought in Him, through a
@@ -35,7 +33,7 @@ finds strictly joined to His Only-Begotten, so as to
 be "living part" of Him, as the branch is living part
 of the vine.
 
-2 — "Abide in me." One cannot abide unless one
+**2** — "Abide in me." One cannot abide unless one
 already is. Jesus tells us to "abide" in Him precisely
 because our grafting into Him is a fact already accomplished,
 merited for all men by His death on the cross, and

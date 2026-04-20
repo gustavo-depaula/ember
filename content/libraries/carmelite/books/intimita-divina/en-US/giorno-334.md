@@ -1,8 +1,6 @@
 ## 334 — APOSTOLIC WORKS
 
-### Presence of God
-
-O my God, make me worthy to collaborate in spread of your kingdom of love.
+**Presence of God.** — *O my God, make me worthy to collaborate in spread of your kingdom of love.*
 
 ### Meditation
 

@@ -1,13 +1,11 @@
 ## 37 — THE NAME OF JESUS
 *January 2*
 
-### Presence of God
-
-— O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.
+**Presence of God.** — *— O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.*
 
 ### Meditation
 
-1 — This feast is a complement to that of the
+**1** — This feast is a complement to that of the
 Circumcision, the occasion on which the
 name Jesus was imposed on the Child. But while in the Circumcision we have
 considered above all the humiliation of the Son of God,
@@ -36,7 +34,7 @@ as bridge of conjunction between God and all humanity. Only
 through Jesus and in the name of Jesus can man reach
 God: "for there is no other name under heaven given to men by which we may expect to be saved" (Ep.: Acts 4, 8-12).
 
-2 — Today's Mass, taking up St. Paul's thought,
+**2** — Today's Mass, taking up St. Paul's thought,
 offers us a majestic image of the glory due to the blessed name of Jesus: "At the name of Jesus every
 knee should bow, of heavenly beings, and of earthly, and of
 those under the earth; and every tongue confess that the Lord Jesus

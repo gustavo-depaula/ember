@@ -1,12 +1,10 @@
 ## 308 — THE GIFT OF FORTITUDE
 
-### Presence of God
-
-O Holy Spirit, who know my weakness, make me strong with your divine strength.
+**Presence of God.** — *O Holy Spirit, who know my weakness, make me strong with your divine strength.*
 
 ### Meditation
 
-1. — Alongside the gift of fear, under whose influence the soul places itself entirely in God's hands with the sole desire never to be separated from Him, there is the gift of fortitude, whose task is to strengthen it and make it ever more courageous in divine service.
+**1** — Alongside the gift of fear, under whose influence the soul places itself entirely in God's hands with the sole desire never to be separated from Him, there is the gift of fortitude, whose task is to strengthen it and make it ever more courageous in divine service.
 
 As it advances in spiritual life, the soul must proceed less by its own initiatives and more by God's: it must let itself be led by the Holy Spirit. Yet here too its activity is needed; this activity consists in docile and prompt adherence to divine motions. The gift of fortitude gives it strength always to say yes to inspirations and invitations of the divine Paraclete, to accept and will all that He does for it and in it.
 
@@ -14,7 +12,7 @@ Thus this gift helps and perfects the virtue of fortitude, which, despite our go
 
 And precisely here we especially experience our weakness: we sense what God wants from us, perhaps see it very clearly, and yet cannot do it, we lack strength. This is the great torment of a soul of good will not yet mature; it is the condition of human weakness which actual grace and infused virtue of fortitude can greatly improve, but cannot heal to the depths because they act through our limited faculties. Direct intervention of God Himself is needed, and God intervenes by putting into act the gift of fortitude.
 
-2. — The virtue of fortitude and the gift of fortitude have the same object: to make us strong in spiritual life; but they differ in mode of operation. Virtue acts in us through our efforts, sustained indeed by grace, yet still human efforts. Therefore, though supernatural, it must adapt to our human way of acting and thus always bears our limitations.
+**2** — The virtue of fortitude and the gift of fortitude have the same object: to make us strong in spiritual life; but they differ in mode of operation. Virtue acts in us through our efforts, sustained indeed by grace, yet still human efforts. Therefore, though supernatural, it must adapt to our human way of acting and thus always bears our limitations.
 
 The gift, however — like all gifts of the Holy Spirit — is supernatural not only in itself but also in its mode of acting. Instead of being put into act by us, as with virtue, it is put into act by God Himself. Through virtue, we with good will supported by grace try to acquire fortitude and become strong. Through the gift, the Holy Spirit interiorly strengthens us, communicating something of his omnipotence, his infinite strength.
 

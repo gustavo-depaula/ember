@@ -1,10 +1,10 @@
 ## 86 — VOLUNTARY POVERTY
 
-### Presence of God
+**Presence of God.** — *O Lord, deign to show me the treasures hidden in voluntary poverty and the duties that flow from it.*
 
 ### Meditation
 
-1 — St. Thomas teaches that to reach perfection of charity it is required to detach the heart as much as possible
+**1** — St. Thomas teaches that to reach perfection of charity it is required to detach the heart as much as possible
 from the things of the world, so as to concentrate in God
 all one's affections. "Now, he who possesses temporal things,
 
@@ -15,7 +15,7 @@ you have, give to the poor, come and follow Me' " (II-II, q. 186, a. 3).
 This is lived in a particular way in religious life through the vow of poverty. But consecrated souls who live in the world, if they want to tend to perfection, must also embrace voluntary poverty. The Church makes it obligatory for all secular institutes; precisely because the state of perfection requires a serious commitment to poverty, the members of such institutes must make a "vow or promise of poverty, by which they do not have free use of temporal goods" (Apostolic Constitution Provida Mater Ecclesia). The essence of voluntary poverty consists precisely in this renunciation of the free and independent use of temporal goods. In fact, only one who renounces using earthly goods freely can, as St. Thomas says, live "without possessing anything as his own." And in this way he reaches the freedom necessary to follow Jesus on the way of perfection.
 
 
-2 — If you have made profession of voluntary poverty, reflect that you have lost the freedom to use temporal things as you please.
+**2** — If you have made profession of voluntary poverty, reflect that you have lost the freedom to use temporal things as you please.
 
 
 Even if the rules of your institute allow you to possess certain goods, you can no longer use them as a master: the vow of poverty has taken away this power. Of your own will, then, you cannot dispose of anything, not even things necessary for life, but in everything you must regulate yourself according to the norms of your constitutions and depend on your superiors.

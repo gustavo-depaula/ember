@@ -1,12 +1,10 @@
 ## 302 — TEMPERANCE
 
-### Presence of God
-
-Teach me, O Lord, to mortify my flesh so as to live fully the life of the spirit.
+**Presence of God.** — *Teach me, O Lord, to mortify my flesh so as to live fully the life of the spirit.*
 
 ### Meditation
 
-1. — Man can deviate from duty either through fear of the difficulties and sacrifice he encounters, or through the attractions of pleasure. In the first case fortitude comes to his aid; in the second, temperance. Temperance is precisely the virtue that moderates in us the disordered desire for sensible enjoyment, containing it within the limits set by reason and faith.
+**1** — Man can deviate from duty either through fear of the difficulties and sacrifice he encounters, or through the attractions of pleasure. In the first case fortitude comes to his aid; in the second, temperance. Temperance is precisely the virtue that moderates in us the disordered desire for sensible enjoyment, containing it within the limits set by reason and faith.
 
 Given the deep disharmony produced in us by sin, by which the lower part tends to rebel against the higher, craving things contrary to the spirit, we could not defend ourselves against pleasure's attractions without the help of this virtue, which God has infused into our soul precisely to make us capable of restraining the unruly tendency to enjoy. As fortitude, with its related virtues of magnanimity, patience, and perseverance, is a support for our weakness, so temperance, with the virtues that derive from it — sobriety, chastity, continence, modesty, etc. — is a bridle for our concupiscences.
 
@@ -14,7 +12,7 @@ Yet although it is a bridle, it has not only a negative task — to moderate, co
 
 This, however, cannot be realized without our cooperation, which in the field of temperance consists above all in mortification of passions and senses. "If you live according to the flesh, you shall die; but if by the Spirit you mortify the deeds of the flesh, you shall live" (Rom. 8:13). The virtue of temperance has been infused in us precisely to make us capable of "mortifying the deeds of the flesh" — a death that is not an end in itself, but an indispensable condition for the life of the spirit.
 
-2. — The beauty of temperance lies precisely in helping us retrace backward the path taken by our first parents because of sin: from perfect harmony between spirit and matter they fell into profound disharmony, and from this we must rise again to that. As a rider before galloping first bridles his spirited horse, so we, to undertake this path, must place on our flesh the strong reins of mortification, so as to master all its movements and appetites.
+**2** — The beauty of temperance lies precisely in helping us retrace backward the path taken by our first parents because of sin: from perfect harmony between spirit and matter they fell into profound disharmony, and from this we must rise again to that. As a rider before galloping first bridles his spirited horse, so we, to undertake this path, must place on our flesh the strong reins of mortification, so as to master all its movements and appetites.
 
 One easily understands how mortification is necessary in chastity. To live chastely without mortifying one's body is an illusion, because neither virtue nor vow of chastity changes our nature, nor does it render us insensible to the allurements of sense, world, and devil. Less understood is the necessity of mortification regarding the sense of taste. In this area even souls tending to perfection are generally rather ready to indulge sensible pleasure, considering it wholly innocent and without consequence for spiritual life. But it is not so, because every disorder, even slight, in the life of the senses weighs down and weakens spiritual life to some degree.
 

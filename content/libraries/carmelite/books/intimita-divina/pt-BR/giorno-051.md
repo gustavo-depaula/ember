@@ -16,7 +16,7 @@ Diante do seu ensinamento, eis dois grupos. Os corações soberbos e obstinados,
 
 Jesus alegrou-se com isso e disse: "Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos doutos e sábios e as revelaste aos pequeninos" (Mt. 11, 25).
 
-**Colóquio**
+### Colóquio
 
 *"Senhor meu Deus, como é verdade que Tu tens palavras de vida nas quais os homens, se quiserem, encontram tudo o que desejam! Mas que maravilha, Senhor, que as ponhamos no esquecimento, entorpecidos pela loucura e pela languidez que nos causam as nossas obras más!... Que é isto, Senhor? Que profunda cegueira! Procuramos a felicidade onde é impossível encontrá-la. Não vês, Senhor, que não nos entendemos a nós mesmos, que não sabemos o que desejamos e não conseguimos achar o que pedimos? Dá-nos luz, Senhor! Vê, ela nos é mais necessária do que ao cego de nascença, porque o cego, Senhor, desejava ver e não podia, enquanto nós nos recusamos a ver.
 

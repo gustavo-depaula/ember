@@ -1,12 +1,10 @@
 ## 90 — CHASTITY OF HEART
 
-### Presence of God
-
-— O Lord, teach me how pure my heart must be to be admitted to Your intimacy.
+**Presence of God.** — *— O Lord, teach me how pure my heart must be to be admitted to Your intimacy.*
 
 ### Meditation
 
-1 — The heart of the person consecrated to God must be
+**1** — The heart of the person consecrated to God must be
 "an enclosed garden, a sealed fountain" (Cant. 4, 12),
 that is, it must admit no affection that is not that
 
@@ -43,7 +41,7 @@ a trifle... neglect to reach so great a good" (A. I,
 11, 4-5).
 
 
-2 — God is jealous of the heart consecrated to Him and does not
+**2** — God is jealous of the heart consecrated to Him and does not
 admit it to His intimacy as long as He finds it occupied by some affection that hinders it from concentrating in Him all
 the love of which He has made it capable. "God
 - says St. Teresa of Jesus - forces no one: He accepts whatever is given Him, but He does not give Himself entirely except to those who give themselves entirely to Him" (Lt. 28, 12). "God does not want a divided heart: He wants all or nothing" (T.M. Sp. p. 187).

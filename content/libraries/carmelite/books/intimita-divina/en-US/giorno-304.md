@@ -1,12 +1,10 @@
 ## 304 — MEEKNESS
 
-### Presence of God
-
-O Jesus, meek and humble of heart, make my heart like yours.
+**Presence of God.** — *O Jesus, meek and humble of heart, make my heart like yours.*
 
 ### Meditation
 
-1. — As temperance makes man master of himself by restraining in him passions of concupiscence, so meekness makes him master of himself by restraining in him impulses of anger and wrath. The great value of this virtue lies in securing for the soul interior peace, so necessary for attending with equanimity to all duties toward God and neighbor.
+**1** — As temperance makes man master of himself by restraining in him passions of concupiscence, so meekness makes him master of himself by restraining in him impulses of anger and wrath. The great value of this virtue lies in securing for the soul interior peace, so necessary for attending with equanimity to all duties toward God and neighbor.
 
 A soul upset by resentments of anger is incapable of seeing things in their proper light, of forming impartial judgments, of making balanced decisions, of keeping words and deeds within the bounds of courtesy and gentleness. Its action becomes disordered and often unjust; it becomes occasion of sorrow for others, cooling charity and breaking harmony of good relations. Unchecked irritability clouds the spirit, preventing it from understanding God's will and thus making it deviate from the line of duty according to passion's impulses.
 
@@ -14,7 +12,7 @@ Meekness has precisely the task of moderating and pacifying all these passionate
 
 To defend our heart from movements of anger, we must be ready to restrain them at their very first awakening, because if we indulge them, even briefly, they quickly grow more imperious and later it becomes very difficult to conquer them. Constant fidelity in repressing every movement of wrath will lead us little by little to taste meekness's sweet fruit: "The meek shall delight in abundance of peace" (Ps. 36:11).
 
-2. — Meekness has a particular importance for development of prayer and union with God. How can a soul agitated by anger's wind attend recollection and intimate colloquy with the Lord? In vain it will try to apply itself to prayer: mind and heart will escape it, pursuing phantoms raised by passion. Besides, *non in commotione Dominus* (1 Kgs. 19:11): the Lord is not found nor manifested amid turmoil and excitement, but only in peace and interior calm.
+**2** — Meekness has a particular importance for development of prayer and union with God. How can a soul agitated by anger's wind attend recollection and intimate colloquy with the Lord? In vain it will try to apply itself to prayer: mind and heart will escape it, pursuing phantoms raised by passion. Besides, *non in commotione Dominus* (1 Kgs. 19:11): the Lord is not found nor manifested amid turmoil and excitement, but only in peace and interior calm.
 
 When the soul is shaken, even briefly, by resentment of anger, it cannot perceive gentle motions of grace nor the delicate whisper of divine inspirations. The noise of unbridled passion prevents it from listening to the interior Master, and thus, losing its guide, it no longer acts according to divine good pleasure, but lets itself be carried by whims of impulsiveness, which always lead to faults.
 

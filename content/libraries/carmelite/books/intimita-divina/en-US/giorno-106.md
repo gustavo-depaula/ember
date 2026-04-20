@@ -1,12 +1,10 @@
 ## 104 — HUMILITY
 
-### Presence of God
-
-— O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.
+**Presence of God.** — *— O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.*
 
 ### Meditation
 
-1 — Charity is the essence of Christian perfection,
+**1** — Charity is the essence of Christian perfection,
 because only charity has the power to unite man to God, his
 last end. But on our part - poor, miserable creatures
 whom God wants to raise up to union with Him - is charity
@@ -39,7 +37,7 @@ to establish himself in supreme humility, then indeed it may be said that spirit
 (J.C. A. II, 7, 11).
 
 
-2 — The soul that desires to attain the sublime heights
+**2** — The soul that desires to attain the sublime heights
 of union with God must tread the way of profound
 humility, because, as the divine Master teaches,
 only "he who humbles himself shall be exalted" (Lk. 18, 14).

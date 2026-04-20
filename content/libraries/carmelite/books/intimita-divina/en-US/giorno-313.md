@@ -1,12 +1,10 @@
 ## 313 — THE GIFT OF COUNSEL
 
-### Presence of God
-
-Come, Spirit of counsel, and make my heart listen to your suggestions.
+**Presence of God.** — *Come, Spirit of counsel, and make my heart listen to your suggestions.*
 
 ### Meditation
 
-1. — "But the Paraclete, the Holy Spirit, whom the Father will send in my name, He will teach you all things and bring all things to your mind, whatsoever I shall have said to you" (Jn. 14:26). This promise of Jesus holds for every Christian; it holds for us too. The Holy Spirit dwells in our souls to counsel us, to remind us of the Lord's teachings and apply them to concrete cases of our life.
+**1** — "But the Paraclete, the Holy Spirit, whom the Father will send in my name, He will teach you all things and bring all things to your mind, whatsoever I shall have said to you" (Jn. 14:26). This promise of Jesus holds for every Christian; it holds for us too. The Holy Spirit dwells in our souls to counsel us, to remind us of the Lord's teachings and apply them to concrete cases of our life.
 
 But how can we, poor creatures so coarse and accustomed to noisy language of men, perceive the slight murmur of divine suggestions? God has provided by a special gift, the gift of counsel, through which our soul becomes capable of understanding the intimate and silent voice of the Holy Spirit, distinguishing it from all other voices.
 
@@ -16,7 +14,7 @@ We need God Himself to enlighten us from within. We need the Holy Spirit, by put
 
 The more this gift develops in us, the more our soul opens to voice of the Holy Spirit and becomes sensitive to his suggestions. By force of this gift, we little creatures can address to the Most High the humble yet bold prayer: "Speak, Lord, for thy servant heareth" (1 Sam. 3:9).
 
-2. — Without doubt, by the gift of counsel, the Holy Spirit wants to be our counselor on way of holiness. But why then do we enjoy so little of his divine warnings? First, because we are distracted; our soul is deafened by voices of creatures, filled with noises of the world. Sacred Scripture compares voice of the Holy Spirit to "the whisper of a gentle breeze" (1 Kgs. 19:12). Therefore one must keep silence — exterior silence and still more interior — to perceive this voice so subtle and sweet. Only in silence can one hear Him who manifests Himself "in divine silence" (St. John of the Cross).
+**2** — Without doubt, by the gift of counsel, the Holy Spirit wants to be our counselor on way of holiness. But why then do we enjoy so little of his divine warnings? First, because we are distracted; our soul is deafened by voices of creatures, filled with noises of the world. Sacred Scripture compares voice of the Holy Spirit to "the whisper of a gentle breeze" (1 Kgs. 19:12). Therefore one must keep silence — exterior silence and still more interior — to perceive this voice so subtle and sweet. Only in silence can one hear Him who manifests Himself "in divine silence" (St. John of the Cross).
 
 Another cause preventing us from receiving counsels of the Holy Spirit is attachment to our own judgment, to short counsels of our mind. A little of this attachment, a little obstinacy in one's own ideas, is enough to close soul in itself and make it incapable of grasping divine inspirations. Let us not deceive ourselves: this happens even when obstinacy concerns good things, because attachment to one's own opinions is never good, never sign of grace's action, but rather of unconquered self-love.
 

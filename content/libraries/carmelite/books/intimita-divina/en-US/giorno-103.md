@@ -1,12 +1,10 @@
 ## 101 — EXAMINATION OF CONSCIENCE
 
-### Presence of God
-
-— O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.
+**Presence of God.** — *— O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.*
 
 ### Meditation
 
-1 — To ensure spiritual life an orderly
+**1** — To ensure spiritual life an orderly
 and progressive development, it is necessary to become aware
 of one's own position, that is, of one's sins, weak points,
 evil tendencies, as well as of progress
@@ -37,7 +35,7 @@ that is voluntary fault must be progressively, but
 decisively, eliminated by a soul that wants to reach union with God.
 
 
-2 — In its examinations of conscience, a soul of interior
+**2** — In its examinations of conscience, a soul of interior
 life - supposing it is now free from mortal
 sin - rather than go seeking all the faults
 committed, should fix its attention on the degree of voluntariness that is in them, even when they concern
@@ -99,7 +97,7 @@ I did not know how to commit, I who loved fault even gratuitously? And I confess
 both those I committed spontaneously and
 those I did not commit with Your help" (St. Augustine).
 O my God, who by one single act of Your will
-created light and light was, repeat over me Your omnipotent creative word: "fiat lux," and there will be light in
+created light and light was, repeat over me Your omnipotent creative word: "*fiat* lux," and there will be light in
 my soul; and in Your light I shall be able to see myself as I really
 am in Your sight. But light is not enough for me, so
 weak and feeble; I need strength, O Lord; I need

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-1 — Se Jesus veio para santificar "todos" nós, se a vontade de Deus é que "todos" sejam santos, a santidade não pode consistir em dons extraordinários da natureza e da graça, que dependem unicamente da liberalidade de Deus.
+**1** — Se Jesus veio para santificar "todos" nós, se a vontade de Deus é que "todos" sejam santos, a santidade não pode consistir em dons extraordinários da natureza e da graça, que dependem unicamente da liberalidade de Deus.
 
 A santidade deve consistir em algo que todas as almas de boa vontade, mesmo as mais humildes e simples, possam alcançar apoiadas pela ajuda divina. A santidade é a perfeição da vida cristã. Consiste no pleno desenvolvimento em nós da vida sobrenatural, cujos princípios são a graça santificante, as virtudes infundidas e os dons do Espírito Santo.
 
@@ -12,7 +12,7 @@ O Baptismo colocou em nós esta semente de santidade que é precisamente graça,
 
 A graça, ao elevar-nos ao estado sobrenatural, torna-nos capazes de entrar em relação com a Santíssima Trindade, isto é, capazes de conhecer e amar a Deus como Ele é em Si mesmo, como Ele mesmo se conhece e se ama. É portanto uma vida nova de conhecimento e de amor que a graça faz nascer e alimenta em nós, uma vida que é participação na vida divina. E o que poderia ser mais santo e santificador do que estas relações íntimas com a Santíssima Trindade? A graça leva-nos a tais alturas, um dom concedido a todos os baptizados.
 
-2 — É necessário que a vida sobrenatural que brota da graça invista toda a nossa vida humana, para que ela se sobrenaturalize em cada atividade, em cada detalhe, na sua totalidade. À medida que a graça cresce e amadurece na nossa alma, ela exerce uma influência cada vez mais ampla e profunda; e quando esta influência se estender eficazmente a todas as nossas actividades, orientando-as todas para a glória de Deus e unindo-nos totalmente a Ele através da caridade, teremos alcançado a plenitude da vida cristã, a santidade.
+**2** — É necessário que a vida sobrenatural que brota da graça invista toda a nossa vida humana, para que ela se sobrenaturalize em cada atividade, em cada detalhe, na sua totalidade. À medida que a graça cresce e amadurece na nossa alma, ela exerce uma influência cada vez mais ampla e profunda; e quando esta influência se estender eficazmente a todas as nossas actividades, orientando-as todas para a glória de Deus e unindo-nos totalmente a Ele através da caridade, teremos alcançado a plenitude da vida cristã, a santidade.
 
 A graça é um dom totalmente gratuito que Deus nos concedeu através dos méritos infinitos de Jesus. Jesus, ao morrer na Cruz, mereceu-o por nós e não em pequena medida, mas em medida superabundante; Ele, diz São João, é "cheio de graça... e da plenitude dele todos nós recebemos, e graça sobre graça" (Gv. 1, 14 e 16). Precisamente por esta razão todos podemos tornar-nos santos.
 

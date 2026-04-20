@@ -1,13 +1,11 @@
 ## 31 — REPAY LOVE
 *December 27*
 
-### Presence of God
-
-O my God, may I know You, may I know myself! May I know that You are He who is, and I the one who is not.
+**Presence of God.** — *O my God, may I know You, may I know myself! May I know that You are He who is, and I the one who is not.*
 
 ### Meditation
 
-1 — In order to assume human nature and thus unite Himself to
+**1** — In order to assume human nature and thus unite Himself to
 it, the eternal Word concealed His divinity,
 majesty, power, infinite wisdom: behold the divine Infant who does not know how
 to speak, who does not know how to move, who in everything depends and
@@ -33,7 +31,7 @@ What a harsh contrast between these vain demands of our
 self and the moving humility of the Incarnate Word!
 "Sic nos amantem, quis non redamaret?" Who would not love in return Him who so greatly loves us? (Adeste fideles).
 
-2 — Jesus, for love of us, not only, so to speak,
+**2** — Jesus, for love of us, not only, so to speak,
 "stripped Himself" of all His greatness and majesty, but
 embraced from the first moment of His earthly life the
 height of privation. Let us also "strip ourselves" gladly for love of Him: let us strip ourselves of love of riches,

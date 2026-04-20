@@ -1,19 +1,17 @@
 ## 52 — JESUS REVEALS THE FATHER TO US
 
-### Presence of God
-
-O Jesus, You are the Word who reveals the Father; therefore You alone can teach me who my God is. Speak, Lord, Your servant is listening!
+**Presence of God.** — *O Jesus, You are the Word who reveals the Father; therefore You alone can teach me who my God is. Speak, Lord, Your servant is listening!*
 
 ### Meditation
 
-1 — "This is eternal life: that they may know You, the only true God" (Jn. 17, 3), Jesus declared. And St. John the Evangelist observes: "No one has ever seen God; the only-begotten Son, who is in the bosom of the Father, has revealed Him to us" (Jn. 1, 18). Only the Son of God can make God known to us: only He, in His quality as the Word, can be the Revealer of God.
+**1** — "This is eternal life: that they may know You, the only true God" (Jn. 17, 3), Jesus declared. And St. John the Evangelist observes: "No one has ever seen God; the only-begotten Son, who is in the bosom of the Father, has revealed Him to us" (Jn. 1, 18). Only the Son of God can make God known to us: only He, in His quality as the Word, can be the Revealer of God.
 As our word expresses our thought, so the Word, the Father's Word, expresses the Father, reveals God's nature. When the Word becomes incarnate, He remains what He is, and thus He continues to be the Word, the splendor, the revealer of God; by becoming incarnate He only makes Himself sensible to us men, accessible to our human capacities, but in no way lessens His quality as Word.
 
 Even when Jesus does not speak, by His very Person and by each of His acts, He shows us, reveals to us, God. More than once, and with a certain regret because He was not understood, Jesus repeated: "If you knew Me, you would know My Father also" (Jn. 8, 19; 14, 7). And to Philip, who during the Last Supper was still asking Him to show him the Father, He answered in a tone of gentle reproach: "Have I been with you so long, and have you not known Me? Philip, he who sees Me sees the Father... Do you not believe that I am in the Father and the Father in Me?" (ibid., 14, 9-10).
 
 Jesus "is the image of the invisible God" (Col. 1, 15): it is enough to look at Him with faith and love in order to know God. From no other master, in no other way, can we learn such knowledge, indispensable for eternal life: "No one knows the Father perfectly except the Son and anyone to whom the Son chooses to reveal Him" (Mt. 11, 27).
 
-2 — Man can, by his reason and by rising from created things to their first cause, know God's existence as creator and master of the universe; however, this is always a mediated, indirect, very imperfect knowledge, attained with great effort and often also through many errors.
+**2** — Man can, by his reason and by rising from created things to their first cause, know God's existence as creator and master of the universe; however, this is always a mediated, indirect, very imperfect knowledge, attained with great effort and often also through many errors.
 
 But there are other divine truths absolutely beyond the reach of human intelligence, such as, for example, the Trinity of God, the Incarnation of the Word, divine Fatherhood in regard to us, our incorporation into Christ, and our elevation to the supernatural state. These truths, which are the deepest and most revealing of God and of His intimate life, and which at the same time concern our supreme destiny, we could never have known if Jesus had not come to reveal them to us. And He reveals them with the greatest authority: "I speak of what I know and bear witness to what I have seen... I say what I have seen with My Father... You do not know the Father, but I know Him because I am from Him" (cf. Jn. 3, 11; 8, 38; 7, 28 and 29). With the parable of the prodigal son and of the lost sheep, with His moving expressions about the goodness of the heavenly Father who "makes His sun rise on the good and on the bad" (Mt. 5, 45), who "feeds the birds of the air and clothes the lilies of the field" (cf. ibid., 6, 26-30), Jesus reveals to us God's infinite mercy, His fatherly providence, who receives us and nourishes us as His children. But He reveals it even more by His works: by His concern for every material and spiritual misery, by the love that continually drives Him to seek souls to save, even to giving His life for them. The good news brought by Jesus to the world consists above all in this revelation of God, infinite charity, of God our most loving Father; and on this revelation all the New Testament, all Christian life, is based.
 

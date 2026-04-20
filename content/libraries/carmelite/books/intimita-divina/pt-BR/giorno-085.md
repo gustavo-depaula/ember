@@ -1,10 +1,10 @@
 ## IX — A POBREZA EVANGÉLICA
 
-### Presença de Deus
+**Presença de Deus.** — *Ó Jesus, que por amor de mim quiseste abraçar uma vida pobríssima, faz que eu possa compreender o grande valor da pobreza.*
 
 ### Meditação
 
-1 — Um dia um escriba aproximou-se de Jesus e lhe
+**1** — Um dia um escriba aproximou-se de Jesus e lhe
 disse: "Mestre, eu te seguirei aonde quer que fores". E
 
 
@@ -35,7 +35,7 @@ que com essas palavras Jesus não quer falar somente de quem
 é "rico" porque está "apegado" ao que possui.
 
 
-2 — As riquezas não são por si mesmas um obstáculo
+**2** — As riquezas não são por si mesmas um obstáculo
 à salvação eterna e à santidade, mas tornam-se quando
 o homem se faz escravo delas. E para ser escravo dos
 bens terrenos não é preciso possuir muito; basta possuir

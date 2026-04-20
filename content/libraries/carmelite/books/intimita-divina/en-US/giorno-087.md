@@ -1,8 +1,6 @@
 ## 87 — THE SPIRIT OF POVERTY
 
-### Presence of God
-
-— O Jesus, I contemplate You on the mountain while You instruct the crowds on the spirit of poverty. I too draw near, desirous of understanding more deeply the spirit of poverty.
+**Presence of God.** — *— O Jesus, I contemplate You on the mountain while You instruct the crowds on the spirit of poverty. I too draw near, desirous of understanding more deeply the spirit of poverty.*
 
 ### Meditation
 
@@ -42,7 +40,7 @@ detaching your heart from earthly goods, must make you
 generous toward the needy.
 
 
-2 — "Do not be over-anxious for your life, about
+**2** — "Do not be over-anxious for your life, about
 what you shall eat or drink, nor... about what you shall wear.
 Is not life worth more than food and the body more
 than clothing? Observe the birds of the air: they neither sow,

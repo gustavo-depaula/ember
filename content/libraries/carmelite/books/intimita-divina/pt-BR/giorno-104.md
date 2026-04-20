@@ -1,10 +1,10 @@
 ## XXVIII — A CONFISSÃO
 
-### Presença de Deus
+**Presença de Deus.** — *Aos pés da Tua Cruz, ó Jesus, confesso os meus pecados e invoco sobre mim a efusão do Teu Sangue, para que purifique a minha alma.*
 
 ### Meditação
 
-1 — A confissão é o sacramento do Sangue de Cristo, do qual Deus - segundo o expressivo dito de S. Catarina
+**1** — A confissão é o sacramento do Sangue de Cristo, do qual Deus - segundo o expressivo dito de S. Catarina
 de Sena - "nos fez um banho para lavar a face
 de nossas almas da lepra do pecado". Se matéria
 necessária deste sacramento são só os pecados mortais, os pecados veniais são matéria suficiente e toda a
@@ -41,7 +41,7 @@ Daí a importância da confissão frequente para
 uma alma que, anelando à união com Deus, deve necessariamente aspirar a uma purificação total.
 
 
-2 — Quando, no tribunal da penitência, uma alma
+**2** — Quando, no tribunal da penitência, uma alma
 não tem a submeter senão pecados veniais, não é o caso
 de preocupar-se com a integridade da acusação - como ao contrário
 é requerido para os pecados mortais - isto é, não é necessário

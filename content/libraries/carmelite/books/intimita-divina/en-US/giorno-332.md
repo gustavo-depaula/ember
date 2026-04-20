@@ -1,12 +1,10 @@
 ## 332 — APOSTOLIC IMMOLATION
 
-### Presence of God
-
-O Jesus, immolated for my salvation, grant that I may be worthy to immolate myself with You for salvation of my brethren.
+**Presence of God.** — *O Jesus, immolated for my salvation, grant that I may be worthy to immolate myself with You for salvation of my brethren.*
 
 ### Meditation
 
-1. — Apostolic prayer must be accompanied by sacrifice, in imitation of prayer Jesus raised for us to Father in Garden and on Cross. Love must urge those who pray "to active sacrifice, a sacrifice that does not rest in prayer until pain and suffering have almost touched limits of strength. In those moments, consumed by ardor of charity and vehemence of desire, they will no longer be those who pray, but living prayers" (Pius XII).
+**1** — Apostolic prayer must be accompanied by sacrifice, in imitation of prayer Jesus raised for us to Father in Garden and on Cross. Love must urge those who pray "to active sacrifice, a sacrifice that does not rest in prayer until pain and suffering have almost touched limits of strength. In those moments, consumed by ardor of charity and vehemence of desire, they will no longer be those who pray, but living prayers" (Pius XII).
 
 Prayer and sacrifice are intimately connected because they spring from one flame: love that impels to unceasing prayer and immolation for glory of God and salvation of souls. Contemplative life is therefore synonymous with austere and penitential life, so as to become continual "sacrifice of praise." The more prayer is nourished and kneaded with sacrifice, the more effective it is; indeed it reaches maximum efficacy precisely when sacrifice is maximum.
 
@@ -18,7 +16,7 @@ Our participation in Jesus' apostolate finds fulfillment in sacrifice of ourselv
 
 When soul is disposed, for salvation of brethren, to live in continual sacrifice of its own will, in continual self-denial; when it is disposed to let itself be crucified in any way by holy will of God so as to win other souls to his love, then it reaches summit of apostolate and therefore of apostolic fecundity.
 
-2. — Many are not saved because there is no one who prays and sacrifices for them. Without tears and sufferings of Monica, Church would very probably not have had St. Augustine. Blessed then those souls who make apostolic immolation reason for being and goal of their life.
+**2** — Many are not saved because there is no one who prays and sacrifices for them. Without tears and sufferings of Monica, Church would very probably not have had St. Augustine. Blessed then those souls who make apostolic immolation reason for being and goal of their life.
 
 "My sisters in Christ," writes St. Teresa of Jesus to her daughters, "join me in asking God this grace [salvation of souls]. For this He has brought you here; this is your business and your desires, this matter of your tears and your prayers ... On day your prayers, disciplines, desires, and fasts were not employed for this, know you would not reach end for which Lord gathered you here" (Way of Perfection).
 

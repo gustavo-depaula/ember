@@ -1,12 +1,10 @@
 ## 111 — THE LAST PLACE
 
-### Presence of God
-
-— O Jesus, who said: "I have not come to be served but to serve" (cf. Mk. 10, 45), teach me to love the last place.
+**Presence of God.** — *— O Jesus, who said: "I have not come to be served but to serve" (cf. Mk. 10, 45), teach me to love the last place.*
 
 ### Meditation
 
-1 — Jesus not only with words, but also by example showed us that He came not to be served,
+**1** — Jesus not only with words, but also by example showed us that He came not to be served,
 but to serve; and He wished to reserve this example for the eve of His Passion, as if to leave it to us in testament,
 together with His final and most precious teachings. Before instituting the Eucharist,
 He, like any slave, "began to wash the disciples' feet" and, when He had finished, He said: "I have given you an example,
@@ -43,7 +41,7 @@ first. Such an invitation await only from God, and not in
 this life, but in the other.
 
 
-2 — During the Last Supper Jesus wanted to give the Apostles another lesson in humility; while they were discussing
+**2** — During the Last Supper Jesus wanted to give the Apostles another lesson in humility; while they were discussing
 which of them should be considered the greater, He
 admonished them: "Let the greatest among you be as the youngest,
 and the one who governs as one who serves," for I too

@@ -1,13 +1,11 @@
 ## 41 — EPIPHANY
 *January 6*
 
-### Presence of God
-
-— O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.
+**Presence of God.** — *— O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.*
 
 ### Meditation
 
-1 — "Today the world has recognized Him whom the
+**1** — "Today the world has recognized Him whom the
 Virgin brought forth... today shines the feast of
 His manifestation" (BR.). Today Jesus manifests Himself to the
 world as God.
@@ -33,12 +31,12 @@ the Church adds briefly two others: the water turned
 into wine at Cana's wedding, and Jesus' baptism in the
 Jordan, while from heaven a voice attests: this is my
 
-beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the Magnificat antiphon;
+beloved Son. "Three miracles have illumined the holy day we celebrate today," sings the *Magnificat* antiphon;
 three miracles that should dispose us to recognize and adore, with living faith, in the Child Jesus our God,
 
 our King.
 
-2 — "We have seen His star in the East and have
+**2** — "We have seen His star in the East and have
 come with gifts to adore the Lord"; thus in the verses
 of today's Mass the conduct of the Magi is summarized.
 Seeing the star and setting out were one and the same.

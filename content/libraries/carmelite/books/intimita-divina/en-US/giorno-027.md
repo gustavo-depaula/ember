@@ -1,13 +1,11 @@
 ## 27 — THE WORD WAS MADE FLESH
 *December 23*
 
-### Presence of God
-
-— O Jesus, eternal Word, allow me to penetrate more deeply into the sublime mystery of Your Incarnation, so that my heart may be ever more seized by Your infinite love.
+**Presence of God.** — *— O Jesus, eternal Word, allow me to penetrate more deeply into the sublime mystery of Your Incarnation, so that my heart may be ever more seized by Your infinite love.*
 
 ### Meditation
 
-1 — The Word is the second Person of the Most Holy Trinity.
+**1** — The Word is the second Person of the Most Holy Trinity.
 In the bosom of the one divine nature there are three Persons, three
 subsisting terms. We too are "subsisting"; "subsistence" is what allows us to say "I" and to attribute
 to this I the various actions we do. In God, in the
@@ -41,9 +39,9 @@ of men" (Jn. 1, 3-4). Natural life, life of grace,
 light, knowledge of God: everything comes to us from the Word who is
 God, together with the Father and with the Holy Spirit.
 
-2— "The Word was made flesh." Being God, the Word
+**2** — "The Word was made flesh." Being God, the Word
 is eternal and immutable, therefore He necessarily remains
-always what He was: manet quod erat! But nothing prevents Him, together with the Father and with the Holy Spirit,
+always what He was: *manet quod erat*! But nothing prevents Him, together with the Father and with the Holy Spirit,
 from creating in time a human nature that, instead of having a
 limited and weak I like ours, remains totally under
 the government of His divine I. Thus He did;

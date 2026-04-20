@@ -1,90 +1,103 @@
-## 97 — CONVERSION
-
-### Presence of God
+## 97 — THE SPIRIT OF MORTIFICATION
+**Presence of God.** — *— I return to Your feet, O Jesus crucified, with the desire to understand more deeply the spirit of mortification.*
 
 ### Meditation
 
-1 — Today, in the Epistle of the Mass of the season (Ez. 34,
-11-16), we read: "Thus says the Lord God: I will seek out
-my sheep and rescue them from all places where they
-were scattered in days of cloud and darkness... and I will bring them into their own land and feed them on the mountains
-of Israel... On rich pastures I will feed them." This is the program of what
-the Lord wants to do in favor of our souls in
-this holy Lenten time, to lead them to a life
+**1** — The spirit of mortification is not limited to
+physical mortification, but also embraces renunciation
+of self, of will, of understanding. As in our
+body and in our senses there are disordered tendencies to
+material enjoyment, so in our self there are disordered tendencies to self-assertion. Self-love
+and complacency in one's own excellence are
+often so great that, even unconsciously,
+man tends to place his self almost at the center of the world.
+
+The spirit of mortification is truly complete
+when, without neglecting to mortify the body, it aims first of all
+to mortify self-love in all its many
+manifestations. The Pharisee who habitually fasted,
+but had his heart swollen with pride, so much so as to reduce his prayer to self-praise and contempt
 
 
-of greater purification and deeper intimacy with Him.
-He stretches out His hand to us not only to draw us from dangers,
-but also to help us climb toward those higher places
-where He Himself will nourish us.
+of neighbor, did not possess the spirit of mortification
+and therefore was not justified before God. It is worth little to impose bodily mortifications on oneself if one does not know how to renounce one's own way of seeing in order to adapt to another's,
+if one does not know how to get along with one who is contrary to us, to bear calmly an injustice, a
+stinging word, or to keep silent instead of a biting answer.
 
-On your part, the starting point that will make possible the realization of this divine plan is a new conversion: you must gather your powers, your desires, your
-affections, which so easily are scattered and linger in
-the valley of what is human, in order to unite them in one bundle and make them all converge in God, your only and last end. In this sense your Lenten conversion must consist in a
-generous determination to set yourself more decisively on
-the way toward perfection. In other words, it is a matter of
-a renewed purpose of holiness. The desire for holiness
-is the spring of spiritual life; the more intense and real this desire is in you, the more it will impel you to total commitment. In this first week of Lent, seek to reawaken and strengthen your purpose of holiness.
-If other efforts made in the past have failed or have not
-fully reached their goal, do not for this reason be discouraged. "Nunc coepi" - I have begun
+"Why - asks St. Teresa of Jesus - shall we show ourselves so reluctant to mortify our interior [that is,
+self-love, will, judgment] when this mortification
+makes all the others more perfect and meritorious
+and helps us practice them with greater peace and gentleness?"
+(Way 12, 1). As long as mortification does not strike
+self-love, it remains halfway and does not reach its
+goal.
 
 
-now, indeed I begin now - repeat humbly, and let the experience of your failures make you place in God alone
-your trust.
+**2** — The true spirit of mortification embraces first
+all occasions of physical or moral suffering
+permitted by divine Providence. Sufferings arising
+from illness, fatigue and effort required by fulfillment
+of one's duty or by a life of intense work,
+privations imposed by a state of poverty are excellent
+physical penances. A soul that loves to let itself be guided in
+everything by divine Providence will not try to escape them
+nor even to lighten them, but will embrace them wholly,
+just as God places them on its path. It would be absurd not to accept one single one of these providential
+occasions of suffering in order to seek voluntary mortifications of one's own choosing. So too, for one
+who has embraced religious life, it would be unreasonable to neglect the least exercise imposed by the rule in order to do a penance of one's own will.
+
+The same in the moral field. Does it not happen at times
+also to you to avoid an unpleasant person whom the Lord has placed beside you, or to seek every means
+to avoid a humiliation, an obedience that costs you? In
+this way you avoid precisely the best occasions to deny
 
 
-2 — St. Thomas teaches that "in the end one must set no
-measure" (II-II, q. 184, a. 3, c.). Holiness is
-the end of spiritual life; therefore you must propose it to yourself not in
-a diminished, reduced form, but in all its breadth.
-Breadth that speaks to you of intimate union with God, of full
-conformity to the divine will, so that this may become
-the sole motive of all your actions; breadth that
-speaks to you of full invasion of grace, because when the soul
-has been totally purified of all that is contrary
-to the will of God, "then the Lord will communicate to it His supernatural being, so that it will seem God
-Himself, and it will possess what God possesses" (J.C.
-A. II, 5, 7). Holiness is fullness of love and grace; it is transformation in God through love; it is deification by grace.
+and mortify your self-love; even if you wish to replace
+them with others, these will never be as effective
+as those God Himself had prepared for you. Indeed,
+in mortifications permitted for you by Providence
+there is nothing of your own will, your own tastes, and they strike you precisely where you most need it and where you, with voluntary mortification, could never reach.
 
-To what measure of love and grace must you attain?
-This depends first on God's designs upon your soul
-and then on your collaboration. Now, on your part, the
-secret for reaching the goal is never to stop,
-first because, however much you grow in love, you will
-never be able to love God as much as He is lovable, and then because you do not know to what degree of holiness God calls you. And besides God does not allow Himself to be outdone in generosity, and
-the more you give yourself to Him in the exercise of intense
-love, the more He will give Himself to you by grace.
-
-The measure of loving God is to love Him "without measure";
-but if you must set no measure in love, neither must you
-set measure in conversion. "The Lord says: convert to Me with all your heart" (Joel 2, 12): this is the indispensable condition for loving God with all your heart.
-Rare are the cases in which this total conversion is realized in an instant by a particular stroke of grace; in general one arrives at it only through a prolonged and progressive
-conversion. And if in conversion, as in all the work
-
-
-of sanctification, the initiative is always God's who goes before you with His grace, your collaboration is however required;
-therefore each day you must apply yourself with renewed
-commitment to "convert to God with all your heart." Let this be your Lenten program.
+To attain holiness, everyone is not required to practice a determined measure of voluntary penance - which
+varies according to the inspiration of the Holy Spirit, the judgment of superiors, and each one's physical strength - however, what is required of all is that upright and profound spirit of mortification
+which knows how to embrace generously every occasion of renunciation prepared or permitted by God.
 
 ### Colloquy
 
-"O Lord of the soul and my only Good, why do
-You not will that as soon as the soul determines to love You and does what is possible to detach itself from all in order to serve You,
-it may at once have the consolation of seeing itself in possession of true perfect love? But I have spoken badly;
-I should have said lamenting: why do I not want it? Yes, the fault is mine if I do not arrive immediately at such honor!... If I could perfectly attain Your love, I would have together every other kind
-of good. But I, O Lord, am so miserly and so slow
-in giving myself to You that I never resolve to place myself in
-the dispositions for receiving it... If this treasure is not given to me all at once, it is because I too, O Lord, do not
-give myself to You wholly.
+O Lord, who asked for adorers in spirit and truth, preserve me, I pray You, from that spirit of Phariseeism
+that You fought so much on earth and that is so
+contrary to You, infinite Truth and Simplicity. Grant that, while
+I mortify my body, I may know still more to mortify my
+pride, or rather mortify it Yourself.
 
-"O my God, grant me the great grace of resolution
-and courage to procure this good with all my strength.
-If I persevere in it, You, who deny no one Your
-help, will go on strengthening my courage until You make me
-come out victorious. Yes, O Lord, I need courage
-because the devil tries to divert me from this way with an infinity of obstacles" (T.G. Life 11, 1-4).
+You, who know all the most hidden recesses of my
+heart, all the darkest impulses of my selfishness, prepare for me the most effective medicine to heal and transform all.
+You alone know where the most harmful microbe
+hides, and You alone can destroy it. But how many times,
+alas, in the varied circumstances of life, have I not known how to recognize Your hand, Your work, and have sought
+in so many ways to escape the physical and moral sufferings,
+the mortifications, humiliations, and contradictions that You
+Yourself had prepared for me.
 
-Grant me, O Lord Jesus, through the infinite merits of
-Your Passion, to convert to You with all my heart.
-Do not permit me to be discouraged by the continual reawakening of my disordered tendencies and by the unceasing struggle that I must sustain against them. Let me well understand that, if I want to convert myself totally to You, I must never make peace with my weaknesses, with my defects,
-with my selfishness, with my self-love. Make me understand that all must be sacrificed to Your love and when all I have sacrificed, I must still say: I am an unprofitable servant, O Lord, for everything is nothing in comparison with the love You deserve, O infinitely lovable One!
+How blind I am, O Lord, and how little I know how to recognize Your ways, so different and so far from my
+short human views. Give me, my God, a supernatural
+
+
+gaze that knows how to judge events in Your
+light, that knows how to discern the intimate meaning of the
+suffering You place on my path. And all the more, I beg You,
+intensify this light precisely when the contradictions
+You prepare for me strike my self, my pride,
+my points of view, my rights, because especially
+then I am terribly blind and, groping in the
+dark, I reject the medicine You offer me. Shall I then lack, O Lord, the means to carry through to the end
+the purification of my self, so foolish and proud?
+But nothing can be lacking to You, who are the All, who in
+Your infinite mercy immeasurably surpass my
+misery. Lord, I confess it, so many times I have erred like
+the lost sheep that, leaving its shepherd, has taken a false
+path. But once more I want to return and
+I return with full trust because I know that You never tire
+of waiting and forgiving. Here I am, O Lord, I place myself in Your hands: mortify me, purify me as
+You best please, because where You strike, every evil is
+healed; where You mortify, life springs up.

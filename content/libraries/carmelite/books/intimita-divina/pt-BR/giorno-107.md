@@ -1,12 +1,10 @@
 ## XXXI — O NOSSO LUGAR
 
-### Presença de Deus
-
-— Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.
+**Presença de Deus.** — *— Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.*
 
 ### Meditação
 
-1 — Entre todas as criaturas de que gostamos de comprazer-nos
+**1** — Entre todas as criaturas de que gostamos de comprazer-nos
 e para as quais nossa natureza se sente muito inclinada, o
 nosso eu ocupa sem dúvida o primeiro lugar. Não há pessoa,
 ainda pouco dotada de dons e qualidades, que não ame
@@ -48,7 +46,7 @@ com auxílio divino. "Que tens tu que não tenhas recebido? e se o recebeste, po
 o tivesses recebido?" (I Cor. 4, 7).
 
 
-2 — Na ordem sobrenatural, onde tudo depende
+**2** — Na ordem sobrenatural, onde tudo depende
 da graça, verifica-se do modo mais estrito a palavra de
 Jesus: "Sem mim nada podeis fazer" (Jo. 15, 5).
 Embora, com o batismo, a graça santificante nos tenha elevado à ordem sobrenatural, e as virtudes infusas tenham

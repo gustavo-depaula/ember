@@ -1,106 +1,88 @@
-## 96 — THE SPIRIT OF MORTIFICATION
-
-### Presence of God
-
-— I return to Your feet, O Jesus crucified, with the desire to understand more deeply the spirit of mortification.
+## 96 — PROOF OF LOVE
+**Presence of God.** — *— O Jesus crucified, deign to make me understand how the Cross is the greatest proof of love.*
 
 ### Meditation
 
-1 — The spirit of mortification is not limited to
-physical mortification, but also embraces renunciation
-of self, of will, of understanding. As in our
-body and in our senses there are disordered tendencies to
-material enjoyment, so in our self there are disordered tendencies to self-assertion. Self-love
-and complacency in one's own excellence are
-often so great that, even unconsciously,
-man tends to place his self almost at the center of the world.
+**1** — Jesus' Cross, after the Incarnation, is the greatest
+proof of love He has given men; so too for us,
+mortification and suffering embraced spontaneously for love of Him
+are among the most beautiful proofs of love
+we can give Him. It is, in fact, a matter of freely renouncing one of our satisfactions, one of our
+pleasures, to impose on ourselves for love of God something that displeases and opposes us; this clearly shows
+that we prefer to satisfy God rather than ourselves. Every act of
+voluntary mortification, whether physical or moral, says to God
+not with words but with deeds: Lord, I love You more than
+myself! And since the soul in love ardently desires to give proof of its love, it is very vigilant not to
+let any occasion of renunciation escape.
 
-The spirit of mortification is truly complete
-when, without neglecting to mortify the body, it aims first of all
-to mortify self-love in all its many
-manifestations. The Pharisee who habitually fasted,
-but had his heart swollen with pride, so much so as to reduce his prayer to self-praise and contempt
+In this sense St. Teresa Margaret of the Heart of
+Jesus had resolved to "never let pass an occasion that presented itself of suffering as much as she could, always in silence
+between herself and God" and, in reality, she used every means to
+"remain at all times and occasions in some act of
+suffering or bodily pain, so as never to satisfy, either in
+manner or in substance, any least and innocent appetite
+and desire, and to find ways of making burdensome and painful to the body even pure and inevitable necessities" (Sp. pp. 129 and 131). Her ardent love for
+God found an outlet in this generous and assiduous exercise
+of mortification.
 
-
-of neighbor, did not possess the spirit of mortification
-and therefore was not justified before God. It is worth little to impose bodily mortifications on oneself if one does not know how to renounce one's own way of seeing in order to adapt to another's,
-if one does not know how to get along with one who is contrary to us, to bear calmly an injustice, a
-stinging word, or to keep silent instead of a biting answer.
-
-"Why - asks St. Teresa of Jesus - shall we show ourselves so reluctant to mortify our interior [that is,
-self-love, will, judgment] when this mortification
-makes all the others more perfect and meritorious
-and helps us practice them with greater peace and gentleness?"
-(Way 12, 1). As long as mortification does not strike
-self-love, it remains halfway and does not reach its
-goal.
-
-
-2 — The true spirit of mortification embraces first
-all occasions of physical or moral suffering
-permitted by divine Providence. Sufferings arising
-from illness, fatigue and effort required by fulfillment
-of one's duty or by a life of intense work,
-privations imposed by a state of poverty are excellent
-physical penances. A soul that loves to let itself be guided in
-everything by divine Providence will not try to escape them
-nor even to lighten them, but will embrace them wholly,
-just as God places them on its path. It would be absurd not to accept one single one of these providential
-occasions of suffering in order to seek voluntary mortifications of one's own choosing. So too, for one
-who has embraced religious life, it would be unreasonable to neglect the least exercise imposed by the rule in order to do a penance of one's own will.
-
-The same in the moral field. Does it not happen at times
-also to you to avoid an unpleasant person whom the Lord has placed beside you, or to seek every means
-to avoid a humiliation, an obedience that costs you? In
-this way you avoid precisely the best occasions to deny
+With another expression St. Therese of the Child Jesus called
+this practice: "scattering flowers," that is, using every least occasion of suffering to give God a proof of
+love. And, knowing that the value of mortification depends on the good and generous dispositions with which it is carried out,
+the Saint said: "I will always sing, even if I must gather
+my flowers among thorns" (St. 11).
 
 
-and mortify your self-love; even if you wish to replace
-them with others, these will never be as effective
-as those God Himself had prepared for you. Indeed,
-in mortifications permitted for you by Providence
-there is nothing of your own will, your own tastes, and they strike you precisely where you most need it and where you, with voluntary mortification, could never reach.
+**2** — The value of voluntary mortification consists
+much more in the good will with which one practices it than
+in the intensity of the suffering one imposes on oneself,
+although this too can contribute, in the sense that a greater mortification requires greater good will.
+The measure of suffering must be wisely proportioned and
+limited according to each one's physical strength; but
+what must never be limited is love, the spirit of generosity with which to carry out every act of renunciation.
+From this point of view, a slight mortification carried out with all the love of which a soul is capable is worth far more
+than a heavy penance done merely materially, without
+interior spirit. Therefore, before performing an act of mortification - especially when it concerns certain habitual
+practices, such as those in use in religious institutes - it is necessary to awaken good will,
+the sincere desire to suffer and offer something for love
+of God, so that it may not happen that one performs more or
+less mechanical acts and therefore of little or no value.
+Loving contemplation of the Crucified was the soul
 
-To attain holiness, everyone is not required to practice a determined measure of voluntary penance - which
-varies according to the inspiration of the Holy Spirit, the judgment of superiors, and each one's physical strength - however, what is required of all is that upright and profound spirit of mortification
-which knows how to embrace generously every occasion of renunciation prepared or permitted by God.
+
+of all St. Teresa Margaret's austerities: "This
+humbled and suffering God, ever poured into her thoughts,
+was what gave her the interior strength to overcome every very strong difficulty, what made her undertake spontaneously so many labors and works of charity and mortification, what made her insatiable in suffering" (Sp. p. 126).
+Contemplating the Crucified, the soul feels that,
+however much it mortifies itself for love of Him, its sacrifices,
+its renunciations, are as nothing and, rather than conceiving feelings of vain complacency for mortifications accomplished, it feels the
+need to humble itself and to do ever more. "Love sufferings much
+- teaches St. John of the Cross - and esteem them very little in order to enter into the grace of the Spouse,
+who did not hesitate to die for you" (S.C. II, 15).
 
 ### Colloquy
 
-O Lord, who asked for adorers in spirit and truth, preserve me, I pray You, from that spirit of Phariseeism
-that You fought so much on earth and that is so
-contrary to You, infinite Truth and Simplicity. Grant that, while
-I mortify my body, I may know still more to mortify my
-pride, or rather mortify it Yourself.
+"O my Beloved, how shall I give You proof of my love
+if love is attested by works? I have no other means
+to attest my love to You than to scatter flowers, that is,
+to let no sacrifice escape me however small: a glance,
+a word, even in the least occasions, and do them for love.
+I want to suffer for love, and also for
+love to rejoice; and thus I shall scatter flowers. I shall not find one without stripping it for You..., and then I shall sing, I shall always sing, even if I must gather my roses among thorns; my song will be all the more melodious the longer and sharper the thorns are" (T.B.G. St. 11).
 
-You, who know all the most hidden recesses of my
-heart, all the darkest impulses of my selfishness, prepare for me the most effective medicine to heal and transform all.
-You alone know where the most harmful microbe
-hides, and You alone can destroy it. But how many times,
-alas, in the varied circumstances of life, have I not known how to recognize Your hand, Your work, and have sought
-in so many ways to escape the physical and moral sufferings,
-the mortifications, humiliations, and contradictions that You
-Yourself had prepared for me.
-
-How blind I am, O Lord, and how little I know how to recognize Your ways, so different and so far from my
-short human views. Give me, my God, a supernatural
+"O Lord, dispose of me as You please,
+for I am content with everything, provided I follow You on the way of Calvary, and the more thorny I find it and the heavier the cross,
+the more consoled I shall remain, for I desire to love You with patient love, with dead love,
+that is, wholly dissolved in You, and with operative love... My Lord, You on
+the cross for me and I on the cross for You. Oh, if only once I could understand how sweet and how precious suffering is:
+suffer and be silent for You, O Jesus! O dear suffering, O good
 
 
-gaze that knows how to judge events in Your
-light, that knows how to discern the intimate meaning of the
-suffering You place on my path. And all the more, I beg You,
-intensify this light precisely when the contradictions
-You prepare for me strike my self, my pride,
-my points of view, my rights, because especially
-then I am terribly blind and, groping in the
-dark, I reject the medicine You offer me. Shall I then lack, O Lord, the means to carry through to the end
-the purification of my self, so foolish and proud?
-But nothing can be lacking to You, who are the All, who in
-Your infinite mercy immeasurably surpass my
-misery. Lord, I confess it, so many times I have erred like
-the lost sheep that, leaving its shepherd, has taken a false
-path. But once more I want to return and
-I return with full trust because I know that You never tire
-of waiting and forgiving. Here I am, O Lord, I place myself in Your hands: mortify me, purify me as
-You best please, because where You strike, every evil is
-healed; where You mortify, life springs up.
+Jesus!" (T.M. Sp. pp. 325 and 361). Yes, dear suffering because it allows me to give my God proofs of love; because, in the darkness of faith in which I must live here below, it gives me the certainty of loving not in words but with solid,
+effective love. O Jesus, now I understand why St. Teresa of Avila asked of You only one thing: "Either to die or to suffer"
+and said she had no other reason to live than that
+of suffering for love of You (Life 40, 20).
+
+O Lord, if only I too could have such strong,
+true, burning love! Grant it Yourself, You who can
+give me all and who can in an instant transform into a furnace
+of charity this heart of mine so dry and so cold.

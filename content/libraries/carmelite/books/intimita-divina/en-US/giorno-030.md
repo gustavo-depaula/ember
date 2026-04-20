@@ -1,13 +1,11 @@
 ## 30 — BELIEVE IN LOVE
 *December 26*
 
-### Presence of God
-
-— O sweetest Child Jesus, let me penetrate the abyss of Your infinite love, so that I may know how to believe in it with all my strength.
+**Presence of God.** — *— O sweetest Child Jesus, let me penetrate the abyss of Your infinite love, so that I may know how to believe in it with all my strength.*
 
 ### Meditation
 
-1 — In creation God loved us to the point of making man in His image and likeness; in redemption He loved us to the point of making Himself in our image! Christmas
+**1** — In creation God loved us to the point of making man in His image and likeness; in redemption He loved us to the point of making Himself in our image! Christmas
 is par excellence the feast of love, and of love that reveals itself not in the sufferings of the Cross, but in the lovableness of
 a little Child, our God, who stretches out His arms to us so as to make us understand that He loves us.
 
@@ -22,7 +20,7 @@ a Child and, from the first instant of His earthly life, fully embrace our miser
 as bed a little hay, as covering poor swaddling cloths... oh, we can no longer doubt His love. God loves us! Jesus loves us! Yes, let us repeat it and repeat it without end: "We have known and believed in the charity God has for us" (1 Jn. 4, 16). Lord,
 I believe in Your love for me! Lord, increase my faith.
 
-2 — "God is charity!" The treasure enclosed in this word is immense, and it is the treasure that God opens and reveals to the soul that concentrates itself wholly in contemplation of the
+**2** — "God is charity!" The treasure enclosed in this word is immense, and it is the treasure that God opens and reveals to the soul that concentrates itself wholly in contemplation of the
 Incarnate Word. As long as one does not understand that God is
 infinite love, infinite benevolence that gives itself and extends
 to all men and women to communicate to them His good and His

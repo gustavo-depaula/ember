@@ -1,111 +1,89 @@
-## 99 — VENIAL SIN
-
-### Presence of God
+## 99 — CONVERSION
+**Presence of God.** — *I return to Your feet, O crucified Jesus, with the desire to understand more deeply the spirit of mortification.*
 
 ### Meditation
 
-1 — Although in lighter matter, venial sin too, like mortal sin, goes against the will of God and therefore, though it does not destroy charity, goes in the direction
-opposite to it, with the consequence of diminishing its
-impulse and vigor, and of hindering its development. This is the disastrous effect of deliberate venial sins, that is, committed with eyes open, while knowing one is doing what displeases
-God.
-
-This kind of venial sins, when committed habitually,
-diminish the soul's tendency toward God and instead increase the tendency toward selfish
-
-
-satisfaction, toward creatures. And thus, little by little,
+**1** — Today, in the Epistle of the Mass of the season (Ez. 34,
+**11** — 16), we read: "Thus says the Lord God: I will seek out
+my sheep and rescue them from all places where they
+were scattered in days of cloud and darkness... and I will bring them into their own land and feed them on the mountains
+of Israel... On rich pastures I will feed them." This is the program of what
+the Lord wants to do in favor of our souls in
+this holy Lenten time, to lead them to a life
 
 
-the soul loses fervor, loses sensitivity to offense against
-God and is reduced to the state of lukewarmness, characterized precisely by a certain indifference to venial sin;
-an indifference that puts it in danger of offending God
-even in grave matter. It is in this sense that venial sin
-can be compared to a subtle, insidious illness - a kind of spiritual tuberculosis - that slowly, but fatally,
-undermines the organism. It is not rare to find
-souls who, having at first given themselves to God with sincere
-fervor, over time, yielding to selfishness, laziness,
-their own comfort, and not knowing how to impose generous efforts
-upon themselves to proceed on the path undertaken, let themselves
-go to continual negligences, listlessness, voluntary omissions,
-acts of laziness. Their spiritual life is reduced
-to a kind of lethargy that is not yet death, but
-has no longer anything of the freshness and vigor of a
-healthy and robust life. The fervor of charity is lacking,
-extinguished by continual, deliberate compliances with venial sin.
-St. Teresa of Jesus, warning against such a state,
-teaches: "When you feel no pain for a fault that happens to you to commit, fear, because sin, even venial, must pierce you with sorrow to
-the depths of your soul... For the love of God, watch attentively never to commit even one known venial sin,
-however small... And what can ever be small in
-offending a Majesty so great?" (P. 2,
-5 and 20; Way 41, 3).
+of greater purification and deeper intimacy with Him.
+He stretches out His hand to us not only to draw us from dangers,
+but also to help us climb toward those higher places
+where He Himself will nourish us.
+
+On your part, the starting point that will make possible the realization of this divine plan is a new conversion: you must gather your powers, your desires, your
+affections, which so easily are scattered and linger in
+the valley of what is human, in order to unite them in one bundle and make them all converge in God, your only and last end. In this sense your Lenten conversion must consist in a
+generous determination to set yourself more decisively on
+the way toward perfection. In other words, it is a matter of
+a renewed purpose of holiness. The desire for holiness
+is the spring of spiritual life; the more intense and real this desire is in you, the more it will impel you to total commitment. In this first week of Lent, seek to reawaken and strengthen your purpose of holiness.
+If other efforts made in the past have failed or have not
+fully reached their goal, do not for this reason be discouraged. "Nunc coepi" - I have begun
 
 
-2 — Very different are venial sins that escape us through fragility, through inadvertence. Often the soul would not
-wish to yield at any cost, but because it is still weak, at the moment of temptation, especially if taken
-by surprise, it falls; nevertheless, as soon as it notices it, it feels sincere sorrow, immediately repents, asks pardon
-of the Lord, rises again, and sets out once more. Such
+now, indeed I begin now - repeat humbly, and let the experience of your failures make you place in God alone
+your trust.
 
 
-sins do not bring great harm to the soul, but are rather signs of its weakness, of its spiritual immaturity.
-Indeed, if in the face of such falls the soul knows how to humble itself sincerely, it derives a true advantage from them, namely a deeper consciousness of its misery,
-which will lead it to distrust its own strength totally,
+**2** — St. Thomas teaches that "in the end one must set no
+measure" (II-II, q. 184, a. 3, c.). Holiness is
+the end of spiritual life; therefore you must propose it to yourself not in
+a diminished, reduced form, but in all its breadth.
+Breadth that speaks to you of intimate union with God, of full
+conformity to the divine will, so that this may become
+the sole motive of all your actions; breadth that
+speaks to you of full invasion of grace, because when the soul
+has been totally purified of all that is contrary
+to the will of God, "then the Lord will communicate to it His supernatural being, so that it will seem God
+Himself, and it will possess what God possesses" (J.C.
+A. II, 5, 7). Holiness is fullness of love and grace; it is transformation in God through love; it is deification by grace.
+
+To what measure of love and grace must you attain?
+This depends first on God's designs upon your soul
+and then on your collaboration. Now, on your part, the
+secret for reaching the goal is never to stop,
+first because, however much you grow in love, you will
+never be able to love God as much as He is lovable, and then because you do not know to what degree of holiness God calls you. And besides God does not allow Himself to be outdone in generosity, and
+the more you give yourself to Him in the exercise of intense
+love, the more He will give Himself to you by grace.
+
+The measure of loving God is to love Him "without measure";
+but if you must set no measure in love, neither must you
+set measure in conversion. "The Lord says: convert to Me with all your heart" (Joel 2, 12): this is the indispensable condition for loving God with all your heart.
+Rare are the cases in which this total conversion is realized in an instant by a particular stroke of grace; in general one arrives at it only through a prolonged and progressive
+conversion. And if in conversion, as in all the work
 
 
-to place in God alone all its trust. It will experience
-in practice the great reality of Jesus' words: "Without
-Me you can do nothing" (Jn. 15, 5). Not infrequently the
-Lord permits such falls precisely to give the soul this practical knowledge of its nothingness, to ground it
-seriously in humility, which is the basis of all spiritual life.
-
-St. Therese of the Child Jesus, speaking of such faults,
-believed she could assert that they "do not displease
-the Lord," precisely because they do not depend on bad
-will, which with open eyes and a cool mind
-commits sin, but rather on the weakness of human
-nature.
-
-If because of our weakness it is impossible not to fall
-every day into some venial faults of surprise or fragility,
-what matters is to know how to detest and repair them generously at once. But as for known venial sins, the soul
-must be firmly resolved never to commit one for all
-the gold in the world.
+of sanctification, the initiative is always God's who goes before you with His grace, your collaboration is however required;
+therefore each day you must apply yourself with renewed
+commitment to "convert to God with all your heart." Let this be your Lenten program.
 
 ### Colloquy
 
-"Peccavi, Domine, miserere mei! Forgive, Father, forgive me, miserable ingrate. I confess that Your goodness
-has kept me Your spouse, although through my defects
-I have always been unfaithful to You. Peccavi, Domine, miserere mei.
-O my soul, and what are you doing? Do you not know that
-you are continually seen by God? Know that from His
-eye you can never hide, because nothing is hidden from Him... O eternal God,
-O compassionate and merciful Father, have pity and mercy
-on us, because we are blind and without any
+"O Lord of the soul and my only Good, why do
+You not will that as soon as the soul determines to love You and does what is possible to detach itself from all in order to serve You,
+it may at once have the consolation of seeing itself in possession of true perfect love? But I have spoken badly;
+I should have said lamenting: why do I not want it? Yes, the fault is mine if I do not arrive immediately at such honor!... If I could perfectly attain Your love, I would have together every other kind
+of good. But I, O Lord, am so miserly and so slow
+in giving myself to You that I never resolve to place myself in
+the dispositions for receiving it... If this treasure is not given to me all at once, it is because I too, O Lord, do not
+give myself to You wholly.
 
+"O my God, grant me the great grace of resolution
+and courage to procure this good with all my strength.
+If I persevere in it, You, who deny no one Your
+help, will go on strengthening my courage until You make me
+come out victorious. Yes, O Lord, I need courage
+because the devil tries to divert me from this way with an infinity of obstacles" (T.G. Life 11, 1-4).
 
-light, especially I, poor and miserable... O You,
-true sun, enter my soul and illumine it with Yourself.
-Drive out its darkness and give light; destroy the frost of self-
-love and infuse the fire of Your charity... Peccavi, Domine, miserere mei" (St. Catherine of Siena).
-
-"May it please You, O Lord, that I fear only
-offending You, convinced that greater harm can come to me
-from one deliberate venial sin than from all
-hell" (T.G. Life 25, 20). In fact, the true evil, the only
-one I must fear, is neither temptation nor trials,
-nor interior and exterior contradictions, nor loss of material
-goods or bodily health; but true evil is what
-can in any way hinder my union with You, my
-supreme Good! And this evil, I understand, can be
-caused by one single deliberately committed venial sin. O Jesus, I beg You, by the merits of Your Passion,
-free me from so great an evil, take from me the sad ability to
-offend You, and if by my native weakness it is impossible
-for me to be exempt from every fault, grant that these may
-never be the fruit of bad will. Make my faults serve only to humble me, without ever offending You.
-
-"Yes, because of my misery I fall very often, often I
-allow myself to be distracted from my one occupation, I move away
-from You, I wet my poor little wings, scarcely formed,
-in the miserable puddles of water I find on this earth! Then
-I groan like the swallow, and my cry tells You all,
-and You, infinite Mercy, remember that You did not come
-to call the just, but sinners" (T.B.G. St. 11).
+Grant me, O Lord Jesus, through the infinite merits of
+Your Passion, to convert to You with all my heart.
+Do not permit me to be discouraged by the continual reawakening of my disordered tendencies and by the unceasing struggle that I must sustain against them. Let me well understand that, if I want to convert myself totally to You, I must never make peace with my weaknesses, with my defects,
+with my selfishness, with my self-love. Make me understand that all must be sacrificed to Your love and when all I have sacrificed, I must still say: I am an unprofitable servant, O Lord, for everything is nothing in comparison with the love You deserve, O infinitely lovable One!

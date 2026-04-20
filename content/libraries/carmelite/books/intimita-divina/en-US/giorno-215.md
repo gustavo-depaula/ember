@@ -1,18 +1,16 @@
 ## 215 — THE HEART OF JESUS OUR MODEL
 
-### Presence of God
-
-Sacred Heart of Jesus, teach me to model the movements of my heart on those of yours.
+**Presence of God.** — *Sacred Heart of Jesus, teach me to model the movements of my heart on those of yours.*
 
 ### Meditation
 
-1. — The soul consecrated to the Sacred Heart, the reparative soul, must feel the need to model its life on that of Jesus. How can you call yourself truly consecrated to the Sacred Heart, and how can you call yourself his reparative victim, when you still keep in your heart sentiments, desires, tastes opposed to his?
+**1** — The soul consecrated to the Sacred Heart, the reparative soul, must feel the need to model its life on that of Jesus. How can you call yourself truly consecrated to the Sacred Heart, and how can you call yourself his reparative victim, when you still keep in your heart sentiments, desires, tastes opposed to his?
 
 It is clear that, to model your heart on Christ's Heart, you cannot limit yourself to eliminating this or that defect, acquiring this or that virtue; you must tend to the reform of your whole life. Yet the divine Master, when He wished to present his Heart to us as model, spoke of two particular virtues: meekness and humility, "learn from me, for I am meek and humble of heart" (Mt. 11:29). And not without reason; for when you have eliminated from your heart all movements and resentments of self-love and pride, by that very fact you will have eliminated all other defects; and when you have acquired deep humility, you will have acquired all the other virtues with it. Pause, then, to consider this great lesson of the Heart of Jesus.
 
 First of all, Jesus speaks to you of meekness. Meekness is the virtue that makes man capable of mastering what in a general way can be called anger, wrath. This virtue gives you the power to restrain and master all those somewhat passionate impulses that at times make you go beyond right limits and lose, a little, your bearings. And since the compass of a soul that wants to give itself to God's service is God Himself, is the Heart of Jesus, if even for a little while you lose sight of the Lord and move away from Him, you will end by following your self-love, your little passions. Meekness, instead, makes you master of yourself, capable of mastering every kind of irritation. If you examine yourself well, you will recognize that this irritation almost always comes from somewhat offended self-love, from the irascible appetite set in motion by something that has wounded your ego. You see then that meekness is a virtue intimately linked with humility.
 
-2. — Our Lord joins to the lesson on meekness that on humility, precisely because the immediate foundation of meekness is humility itself.
+**2** — Our Lord joins to the lesson on meekness that on humility, precisely because the immediate foundation of meekness is humility itself.
 
 It is enough that in you there be some pride, self-love, attachment to your way of seeing or doing things, and you will not be able to endure contradiction; then, before the inevitable frictions of living together, you will lose, more or less, calm, interior and exterior peace. If you lose calm, you also lose serenity of judgment and therefore can no longer see clearly the divine light that shows you the way to follow and what the Lord wants of you. Then your soul wavers, loses vigor, and lets itself be somewhat dragged by passion. As long as there remain in you residues of pride and self-love, occasions will always arise in which you lose a little self-control and self-mastery, with the consequence of failing in meekness. To profit from the lesson of the Heart of Jesus, to model your heart on his, you must therefore work assiduously to root out in yourself every germ of pride and self-love. This is a work to which you must commit yourself day by day, always beginning again, without letting yourself be discouraged by the continual resurgence of the sentiments and resentments of your ego. This is a battle that you will win by never ceasing to fight it.
 
