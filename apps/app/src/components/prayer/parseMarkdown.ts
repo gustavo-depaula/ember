@@ -130,7 +130,7 @@ export function parseMarkdown(markdown: string): ProseNode[] {
       continue
     }
 
-    const orderedMatch = trimmed.match(/^\d+\.[°ª]?\s+(.+)$/)
+    const orderedMatch = trimmed.match(/^\d+\.[°ª]?\s+(?![-—–])(.+)$/)
     if (orderedMatch) {
       flushParagraph()
       if (listItems.length > 0 && !listOrdered) flushList()

@@ -68,6 +68,29 @@ describe('parseMarkdown', () => {
     ])
   })
 
+  it('does not treat N. — text as an ordered list (numbered paragraph marker)', () => {
+    const result = parseMarkdown('1. — A liturgia de hoje resume.')
+    expect(result).toEqual([
+      {
+        type: 'paragraph',
+        children: [{ type: 'text', text: '1. — A liturgia de hoje resume.' }],
+      },
+    ])
+  })
+
+  it('does not treat **N** — text as an ordered list (bold numbered paragraph marker)', () => {
+    const result = parseMarkdown('**1** — A liturgia de hoje resume.')
+    expect(result).toEqual([
+      {
+        type: 'paragraph',
+        children: [
+          { type: 'bold', text: '1' },
+          { type: 'text', text: ' — A liturgia de hoje resume.' },
+        ],
+      },
+    ])
+  })
+
   it('parses inline formatting inside list items', () => {
     const result = parseMarkdown('- **bold** text\n- *italic* text')
     expect(result).toEqual([
