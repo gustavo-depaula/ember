@@ -14,15 +14,15 @@ Such has always been ardent desire of saints, a desire that led them to heroic g
 
 It is true, primary end of God's action is his glory; but this glory, because He is infinitely good, He loves to procure particularly through salvation and happiness of his creatures. In fact nothing more than salvific work for men exalts his goodness, love, and mercy. Therefore to love God and his glory means to love souls, to labor and sacrifice for their salvation.
 
+St. John Chrysostom says: "Nothing is colder than Christian who does not care for salvation of others." This coldness is consequence of very languid charity. Let us kindle and revive charity, and zeal for salvation of souls will be enkindled in us. Then our apostolate will no longer be only duty imposed from outside that we necessarily perform by obligation of our state, but requirement of love, flame spontaneously bursting forth from interior heat of charity.
+
+Giving oneself to interior life does not mean shutting oneself in ivory tower to enjoy God's consolations undisturbed while unconcerned for others' good. It means concentrating all one's powers in seeking God and laboring for one's sanctification so as to become pleasing to God and thus acquire power of action and intercession by which to obtain salvation of many souls.
+
 **2** — Zeal for souls is born from charity, born from contemplation of Christ crucified. His wounds, his Blood, agonizing pains tell us how much souls are worth in God's sight and how much God loves them. Yet this love is not returned, and ungrateful men seem ever more to flee his action. This is sad spectacle of every age, renewed also today, as if to insult Jesus and renew his Passion.
 
 "All world is in flames: the impious, so to speak, yearn to condemn Jesus Christ again; they raise against Him countless calumnies and strive in a thousand ways to destroy his Church." If Teresa of Jesus could say this of her century tormented by Protestant heresy, much more can we say it of ours, in which struggle against God and Church has increased beyond measure and spread throughout world.
 
 Blessed are we if we can repeat with Saint: "Loss of so many souls breaks my heart. I would not that number of reprobate increase ... It seems to me that to save one soul of many lost, I would sacrifice my life a thousand times" (ibid.). But it is not enough to formulate desires; one must do, act, and suffer for salvation of brothers.
-
-St. John Chrysostom says: "Nothing is colder than Christian who does not care for salvation of others." This coldness is consequence of very languid charity. Let us kindle and revive charity, and zeal for salvation of souls will be enkindled in us. Then our apostolate will no longer be only duty imposed from outside that we necessarily perform by obligation of our state, but requirement of love, flame spontaneously bursting forth from interior heat of charity.
-
-Giving oneself to interior life does not mean shutting oneself in ivory tower to enjoy God's consolations undisturbed while unconcerned for others' good. It means concentrating all one's powers in seeking God and laboring for one's sanctification so as to become pleasing to God and thus acquire power of action and intercession by which to obtain salvation of many souls.
 
 ### Colloquy
 

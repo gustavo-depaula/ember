@@ -1,4 +1,4 @@
-## XII — BUSCAR DEUS NA ORAÇÃO
+## 12 — BUSCAR DEUS NA ORAÇÃO
 
 **Presença de Deus.** — *Deixo toda ocupação e cuidado terreno e recolho-me no pequeno céu da minha alma para pôr-me em íntimo contato com Deus.*
 

@@ -1,4 +1,4 @@
-## 70 — LXX — O vínculo da perfeição
+## 70 — O vínculo da perfeição
 
 *V domingo depois da Epifania*
 

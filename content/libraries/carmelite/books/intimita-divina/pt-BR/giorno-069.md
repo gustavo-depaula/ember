@@ -1,4 +1,4 @@
-## 69 — LXIX — Os sacramentos
+## 69 — Os sacramentos
 
 **Presença de Deus.** — *Ó Jesus, que com tanta abundância me dás a tua graça, faze que ela em mim não seja vã.*
 

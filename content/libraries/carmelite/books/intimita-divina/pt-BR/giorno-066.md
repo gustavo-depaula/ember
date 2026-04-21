@@ -1,4 +1,4 @@
-## 66 — LXVI — Jesus nosso tudo
+## 66 — Jesus nosso tudo
 
 **Presença de Deus.** — *Ó Jesus, meu Deus e meu Redentor, faze-me compreender como Tu és o meu tudo e como em ti encontro tudo o de que minha alma precisa.*
 

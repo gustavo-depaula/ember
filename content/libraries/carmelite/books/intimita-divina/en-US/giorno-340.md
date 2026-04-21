@@ -4,7 +4,7 @@
 
 ### Meditation
 
-Humility, as it is the foundation of all spiritual life, is also the basic condition of every apostolate and the central part of the program of self-denial and self-forgetfulness it requires.
+**1** — Humility, as it is the foundation of all spiritual life, is also the basic condition of every apostolate and the central part of the program of self-denial and self-forgetfulness it requires.
 
 Precisely because the apostle is, more or less, set on the lampstand, he needs more than others to protect his spirit from pride and vainglory by profound humility.
 
@@ -20,7 +20,7 @@ If only we were truly convinced that, although God wills to use us, He alone has
 
 What merit can a brush claim because a skilled painter used it to create a masterpiece? What merit can marble claim because Michelangelo used it to sculpt his Moses? «You have not chosen Me, but I have chosen you and appointed you that you should go and bring forth fruit» (Jn 15:16).
 
-«Without Me you can do nothing.» Before these words, how many ambitions, points of honor, vain self-complacencies, claims to praise, desires for advancement and recognition shatter like waves against rocks.
+**2** — «Without Me you can do nothing.» Before these words, how many ambitions, points of honor, vain self-complacencies, claims to praise, desires for advancement and recognition shatter like waves against rocks.
 
 Jesus does not say that without Him we can do little, but nothing—absolutely nothing. Even if outwardly works prosper, admirers increase, churches and halls are full, in reality not a grain of grace descends into hearts unless God intervenes.
 

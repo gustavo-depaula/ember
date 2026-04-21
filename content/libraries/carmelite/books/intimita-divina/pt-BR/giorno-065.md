@@ -1,4 +1,4 @@
-## 65 — LXV — Viver Cristo
+## 65 — Viver Cristo
 
 **Presença de Deus.** — *Ó Jesus, digna-te imprimir na minha pobre alma os traços da tua semelhança, de modo que a minha vida seja um reflexo da tua.*
 

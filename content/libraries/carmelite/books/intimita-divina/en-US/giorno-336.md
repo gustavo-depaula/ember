@@ -4,7 +4,7 @@
 
 ### Meditation
 
-As for the apostolate of prayer and sacrifice, no caution is needed, since the more a soul devotes itself to these, the more it will benefit the good of neighbor and at the same time draw great profit for its own sanctification. In fact, the weapons of the interior apostolate coincide perfectly with the fundamental exercises of the spiritual life.
+**1** — As for the apostolate of prayer and sacrifice, no caution is needed, since the more a soul devotes itself to these, the more it will benefit the good of neighbor and at the same time draw great profit for its own sanctification. In fact, the weapons of the interior apostolate coincide perfectly with the fundamental exercises of the spiritual life.
 
 The same cannot be said of the external apostolate, which by its very nature necessarily requires concerns and occupations different from those regarding one’s own individual profit.
 
@@ -20,7 +20,7 @@ Then, before sending them definitively to conquer the world, He wanted them to t
 
 Thus genuine Catholic practice demands that, before going out into the field, apostles prepare themselves through the exercise of an intense interior life, so as to become fit and fruitful instruments for the good of souls.
 
-The urgency of apostolic needs, ever more pressing today, cannot justify hasty preparation for apostolate. What would it profit to throw into the fray a greater number of persons if these, for lack of formation, were incapable not only of gaining ground but even of withstanding the clash of hostile forces?
+**2** — The urgency of apostolic needs, ever more pressing today, cannot justify hasty preparation for apostolate. What would it profit to throw into the fray a greater number of persons if these, for lack of formation, were incapable not only of gaining ground but even of withstanding the clash of hostile forces?
 
 Enthusiasm and good will are not enough. There must be robustness of interior life, firmness of ideas and resolutions, a spirit of sacrifice and union with God; otherwise, far from helping the good of others, one will endanger the fate of the apostles themselves.
 

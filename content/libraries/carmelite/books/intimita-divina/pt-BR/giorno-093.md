@@ -1,4 +1,4 @@
-## XVII — COM JESUS CRUCIFICADO
+## 17 — COM JESUS CRUCIFICADO
 
 **Presença de Deus.** — *Ó Jesus, ponho-me aos pés da tua Cruz, para que Tu me faças compreender quanto é necessário padecer para tornar-me semelhante a ti.*
 

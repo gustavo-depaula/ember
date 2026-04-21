@@ -4,7 +4,7 @@
 
 ### Meditação
 
-«Generoso esquecimento e forte abnegação de si» (Pio XII): sem esquecimento de si, nem sequer seria possível a retidão de intenção.
+**1** — «Generoso esquecimento e forte abnegação de si» (Pio XII): sem esquecimento de si, nem sequer seria possível a retidão de intenção.
 
 Justamente porque estamos tão presentes a nós mesmos, tão ocupados e preocupados com nosso eu, com nosso interesse, com nossas comodidades, tão solícitos em ser amados e em receber aplauso e estima, uma quantidade de intenções secundárias tenta infiltrar-se em nosso agir.
 
@@ -20,7 +20,7 @@ O apóstolo não deve ir em busca de conversas agradáveis, amizades consoladora
 
 O apóstolo é enviado para «dar» e não para «receber», para semear e não para colher. Portanto deve saber dar seu tempo, seu trabalho, suas energias e até a si mesmo, mesmo em ambientes que não oferecem nada de reconfortante, mesmo a almas das quais nunca receberá satisfações ou retorno.
 
-Como se diz do sacerdote, ele é «constituído em favor dos homens» (Hb 5,1), e o mesmo pode dizer-se de todo apóstolo. O apóstolo não é para si mesmo, para sua carreira, para seu interesse, mas é para as almas, para vantagem dos outros em tudo o que se refere ao seu bem espiritual.
+**2** — Como se diz do sacerdote, ele é «constituído em favor dos homens» (Hb 5,1), e o mesmo pode dizer-se de todo apóstolo. O apóstolo não é para si mesmo, para sua carreira, para seu interesse, mas é para as almas, para vantagem dos outros em tudo o que se refere ao seu bem espiritual.
 
 Ainda que o apostolado lhe confira alguma autoridade, alguma dignidade, isso não é para sua honra nem utilidade, mas somente para o serviço dos irmãos.
 

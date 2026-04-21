@@ -1,4 +1,4 @@
-## Preface
+## Presentation
 
 [*Note: page 9 of the volume (beginning of the Preface) was not acquired in the PDF scan. The text resumes from page 10.*]
 
@@ -24,7 +24,7 @@ After the sudden death of the distinguished master, the Carmelites, in possessio
 
 The first edition of Divine Intimacy, quickly exhausted, was received with true enthusiasm by spiritual souls. Its translation into various languages was requested. And the very numerous letters from high Prelates, from Directors of Seminaries, from Superiors and Superioresses of religious houses, from Priests and from the laity attest to the good that souls receive from this publication.
 
-In subsequent editions the calendar of meditations has been simplified, abolishing the division into months and following solely the order of the liturgical weeks. Consequently, the meditations of the fixed feasts have been gathered at the end of each volume.[^1]
+In subsequent editions the calendar of meditations has been simplified, abolishing the division into months and following solely the order of the liturgical weeks. Consequently, the meditations of the fixed feasts have been gathered at the end of each volume.
 
 The cycle of meditations for the weeks after Epiphany has been completed.
 
@@ -36,8 +36,6 @@ Fr. Beniamino of the Most Holy Trinity, O.C.D.
 Director of the "Rivista di vita spirituale".
 
 Rome, feast of St. Anne, July 26, 1955.
-
-[^1]: Exceptions are the meditations for the feasts of Christmas, Circumcision, Epiphany, which, following general usage, are inserted in the course of the liturgical weeks. The same has been done for the feast of the Immaculate Conception.
 
 ## Notice
 

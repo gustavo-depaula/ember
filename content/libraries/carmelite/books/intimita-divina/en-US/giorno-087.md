@@ -4,7 +4,7 @@
 
 ### Meditation
 
-. I — "And Jesus, opening His mouth, taught
+**1** — "And Jesus, opening His mouth, taught
 them, saying: Blessed are the poor in spirit, for theirs is the
 kingdom of heaven" (Mt. 5, 3).
 

@@ -1,4 +1,4 @@
-## XVIII — BUSCAR DEUS NA FÉ
+## 18 — BUSCAR DEUS NA FÉ
 
 **Presença de Deus.** — *Recolho-me na presença de Deus, que vive na minha alma, para aprender a buscá-lo através da luz da fé.*
 

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-É preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
+**1** — É preciso ser santo antes de dedicar-se ao apostolado? Teoricamente seria o ideal, mas na prática é impossível. Não se pode pensar que bastem os anos de formação — do seminário ou do noviciado, por exemplo — para fazer santos; nem, quando o dever ou a caridade o impõem, pode alguém eximir-se das obras de apostolado com o motivo de ainda não ter chegado à santidade.
 
 É preciso, portanto, concluir que, suposto o período dedicado exclusivamente à preparação, é necessário unir a ascensão pessoal à santidade com o exercício da atividade apostólica. Em outras palavras, os apóstolos devem santificar-se no apostolado e por meio dele.
 
@@ -20,7 +20,7 @@ Deus não pode condenar à mediocridade uma alma que, para fazer sua vontade e, 
 
 Na medida em que o apóstolo for dócil e fiel à graça, Deus o purificará, o aperfeiçoará, o santificará justamente através de suas fadigas apostólicas.
 
-Isso não exclui aquele chamado silencioso ao recolhimento, aquele desejo de solidão e intimidade com Deus que muitas vezes acompanha o apóstolo no meio da atividade e, às vezes, se acentua até lançar sobre sua vida um véu de nostalgia. Quem provou, ainda que um pouco, a beleza e a bondade infinita de Deus, não pode deixar de sentir forte a ânsia e a necessidade dele.
+**2** — Isso não exclui aquele chamado silencioso ao recolhimento, aquele desejo de solidão e intimidade com Deus que muitas vezes acompanha o apóstolo no meio da atividade e, às vezes, se acentua até lançar sobre sua vida um véu de nostalgia. Quem provou, ainda que um pouco, a beleza e a bondade infinita de Deus, não pode deixar de sentir forte a ânsia e a necessidade dele.
 
 Isto é bom sinal: significa que a alma não se deixou invadir e dissipar pelas ocupações externas e que, embora viva no mundo, não é do mundo, mas tende verdadeiramente para Deus.
 

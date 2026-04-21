@@ -19,7 +19,7 @@ Precisando de algum auxílio para sustentar a prova, falemos disso somente com q
 
 Os santos foram todos ávidos daquelas ocasiões de sofrimento que nós evitamos com tanto zelo. Pensemos em Santa Francisca de Chantal, que por muitos anos se sujeitou a viver na casa do sogro em contato com uma serviçal que lhe faltava ao respeito, caluniava-a e prejudicava até os interesses de seus filhos. Pensemos em São João da Cruz que, tendo tido liberdade de escolher o convento onde passaria os últimos anos, preferiu aquele em que era superior um religioso contrário a ele. Heroísmos de santos, sim, mas heroísmos dos quais Deus não exclui nenhuma alma de boa vontade, antes a eles convida; heroísmos para os quais nós também, se quisermos ser realmente generosos, devemos preparar-nos mediante a aceitação amorosa de tudo o que nos faz sofrer.
 
-### Colloquio
+### Colóquio
 
 «Ó Senhor, nós gostaríamos de servir-te, sim, e de dar-te gosto, mas sem nada sofrer! E, no entanto, muito mais te somos gratos quando no teu serviço sofremos alguma coisa à tua imitação e por amor de ti.
 

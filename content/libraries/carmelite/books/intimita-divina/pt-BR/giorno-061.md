@@ -1,6 +1,6 @@
-## 61 — LXI — As obras de Jesus
+## 61 — As obras de Jesus
 
-**Presença de Deus.** — *Concede-me, ó Jesus, penetrar a imensidade das tuas obras.*
+**Presença de Deus.** — *Concede-me, ó dulcíssimo Jesus, aprender a agir como Tu agias: unicamente para cumprir a missão recebida de teu Pai, deixando-me em tudo dirigir por Ele.*
 
 ### Meditação
 

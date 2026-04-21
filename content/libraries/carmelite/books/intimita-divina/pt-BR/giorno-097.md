@@ -1,4 +1,4 @@
-## XXI — O ESPÍRITO DE MORTIFICAÇÃO
+## 21 — O ESPÍRITO DE MORTIFICAÇÃO
 
 **Presença de Deus.** — *Volto aos teus pés, ó Jesus crucificado, com o desejo de compreender mais a fundo o espírito de mortificação.*
 

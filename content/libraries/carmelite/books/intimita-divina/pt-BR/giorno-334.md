@@ -4,7 +4,7 @@
 
 ### Meditação
 
-O apostolado da oração e do sofrimento, por sua eficácia e fecundidade intrínsecas, tem primazia sobre toda outra forma de apostolado, a tal ponto que, mesmo sem ser acompanhado de alguma atividade exterior, basta para fazer daqueles que o vivem apóstolos eminentes.
+**1** — O apostolado da oração e do sofrimento, por sua eficácia e fecundidade intrínsecas, tem primazia sobre toda outra forma de apostolado, a tal ponto que, mesmo sem ser acompanhado de alguma atividade exterior, basta para fazer daqueles que o vivem apóstolos eminentes.
 
 Contudo, na sociedade e na Igreja, também são necessárias as obras. Deus as quer e, de ordinário, intervém no mundo justamente por meio da atividade de seus apóstolos. Para difundir nas almas a vida da graça, ao lado do apostolado interior dos contemplativos, é necessária a atividade externa dos Pastores e dos fiéis.
 
@@ -18,7 +18,7 @@ Nem os sustentadores das várias atividades apostólicas podem colocar-se uns ac
 
 Do amor com que cada um desempenha os próprios encargos e, ao mesmo tempo, permanece unido aos outros apóstolos, sempre pronto a apoiar e favorecer as obras alheias, resulta precisamente o bem universal da Igreja, bem para o qual o apóstolo deve tender acima de toda obra ou interesse pessoal.
 
-Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt 28,19-20).
+**2** — Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt 28,19-20).
 
 Ao lado deste apostolado hierárquico, reservado aos clérigos, há o dos leigos, que a Igreja convida a colaborar com a Hierarquia. Os Pastores guiam, governam, traçam as linhas; sob sua direção, os fiéis são chamados a oferecer sua obra.
 

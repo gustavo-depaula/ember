@@ -15,7 +15,7 @@ Como se torna humilde quem pratica atos de humildade, assim se torna forte e cor
 
 Isso é particularmente necessário naquelas circunstâncias em que, seja por fraqueza física, seja pela privação do apoio sensível da graça, até as menores dificuldades nos parecem montanhas e tudo nos assusta; pois, se esperássemos para agir somente quando sentíssemos ter coragem, nunca chegaríamos a termo em coisa alguma. «Que importa — dizia a Santa de Lisieux a uma noviça — se não tem coragem, contanto que aja como se a tivesse?» (CR). Os atos de coragem realizados sem sentir força são mais puros e mais sobrenaturais: mais puros porque não dão lugar a sentimentos de orgulho, mais sobrenaturais porque se apoiam não nos recursos da natureza, mas unicamente nos da graça. Ao contrário, os atos de coragem realizados por disposição natural permanecem muitas vezes simples atos humanos e são fácil isca para o amor-próprio. Por isso, quem é forte por natureza deve habituar-se a não confiar em sua fortaleza, mas a apoiar-se em Deus e em sua graça, sem os quais toda fortaleza humana é extrema fraqueza.
 
-### Colloquio
+### Colóquio
 
 «Ó Senhor, Deus dos exércitos, que em teu Evangelho disseste: “Não vim trazer a paz, mas a guerra”, dá-me força e armas para a luta. Eu ardo do desejo de combater por tua glória, mas, suplico-te, fortalece minha coragem. Então, com o santo rei Davi, poderei exclamar: “Só tu és meu escudo; és tu, Senhor, que adestraste minhas mãos para a guerra”.
 

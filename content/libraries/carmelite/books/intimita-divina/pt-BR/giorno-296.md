@@ -21,7 +21,7 @@ Santo Agostinho, e com ele tantos outros santos, são ressuscitados. Se os santo
 
 Nem sempre — graças a Deus — se trata de ter de ressurgir do pecado grave; mas sempre se trata de ressurgir das pequenas infidelidades diárias que, se não são reparadas, pouco a pouco enfraquecem o fervor da vida espiritual. Nesse sentido, todos os dias, aliás a cada hora, temos necessidade de ressurgir; e, no entanto, muitas vezes não temos força. Mas, se invocarmos Jesus, nossa vida, ele nos tocará com sua graça, como tocou com sua mão o esquife do jovem de Naim, infundir-nos-á novo vigor e nos recolocará, cheios de coragem, no caminho da perfeição. A ressurreição do jovem foi implorada pelas lágrimas de sua mãe; a nossa seja implorada cada dia pelas lágrimas do nosso coração, pela compunção, pela humildade, pela confiança.
 
-### Colloquio
+### Colóquio
 
 «Ó Senhor, meu Deus, aproximei-me das portas da morte e tu te interpuse entre elas e mim para que eu não passasse; muitas vezes me tiraste também da morte do corpo, ó meu Salvador, quando me afligiram graves enfermidades, ou quando me encontrei exposto a muitos perigos. Tu sabias, ó Senhor, que se então a morte me surpreendesse, minha alma teria precipitado no inferno e eu teria sido para sempre condenado; e tua misericórdia e tua graça me preveniram, salvando-me da morte do corpo e da alma; estas e muitas outras coisas fizeste por mim, ó meu Senhor e meu Deus!
 

@@ -1,4 +1,4 @@
-## VI — A SANTIDADE E OS PRÓPRIOS DEVERES
+## 6 — A SANTIDADE E OS PRÓPRIOS DEVERES
 
 **Presença de Deus.** — *Ponho-me na presença de Deus com o vivo desejo de que me ajude a conhecer e cumprir a sua santa vontade.*
 

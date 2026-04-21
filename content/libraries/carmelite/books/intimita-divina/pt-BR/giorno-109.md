@@ -1,4 +1,4 @@
-## XXXIII — HUMILDADE NAS QUEDAS
+## 33 — HUMILDADE NAS QUEDAS
 
 **Presença de Deus.** — *"Eu sou miserável e necessitado, ó Senhor, vem em meu socorro. À sombra das Tuas asas me refugio" (Sal. 39, 18; 56, 2).*
 

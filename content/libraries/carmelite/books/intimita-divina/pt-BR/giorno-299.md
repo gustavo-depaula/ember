@@ -19,7 +19,7 @@ Basta, às vezes, um momento de desatenção, um fato novo que nos surpreenda, u
 
 Esta é a perseverança à qual todos devemos certamente chegar, porque depende da nossa boa vontade, no sentido de que Deus infundiu em nós tal virtude e nos dá, momento a momento, a graça suficiente para colocá-la em ato. Não está em nosso poder livrar-nos da instabilidade da nossa natureza e, portanto, não nos é possível evitar qualquer relaxamento no bem, qualquer negligência, fraqueza ou falta; mas está em nosso poder retomar-nos logo que percebemos ter posto o pé em falso. Eis a perseverança que Deus exige de nós; e, quando formos fiéis em praticá-la, estando sempre prontos a levantar-nos depois de qualquer culpa, o próprio Deus coroará nossos esforços concedendo-nos a graça suprema da perseverança final.
 
-### Colloquio
+### Colóquio
 
 «Ó Senhor, certamente serei salvo se perseverar até o fim; mas essa perseverança deve ser virtuosa para merecer a salvação; se me vem a virtude que me salva, és tu que me fazes perseverar até alcançar a salvação.
 

@@ -1,4 +1,4 @@
-## XVIII — AS CINZAS
+## 18 — AS CINZAS
 
 **Presença de Deus.** — *Ponho-me na tua presença, ó Senhor, para que tua luz me ilumine sobre as verdades eternas e desperte em mim sinceros desejos de conversão.*
 

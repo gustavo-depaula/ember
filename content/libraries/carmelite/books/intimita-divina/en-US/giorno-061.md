@@ -1,6 +1,6 @@
 ## 61 — THE WORKS OF JESUS
 
-**Presence of God.** — *Grant me, O Jesus, to penetrate the immensity of Your works.*
+**Presence of God.** — *Grant me, most sweet Jesus, to learn to act as You acted: solely to fulfill the mission received from Your Father, and letting myself be directed in all things by Him.*
 
 ### Meditation
 

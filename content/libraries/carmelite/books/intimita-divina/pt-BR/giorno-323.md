@@ -14,15 +14,15 @@ Tal foi sempre o desejo ardente dos santos; desejo que os levou a cumprir heroí
 
 É verdade, o fim primário da ação de Deus é sua glória; mas esta glória Ele, infinitamente bom, ama procurá-la particularmente mediante a salvação e a felicidade de suas criaturas e, de fato, nada mais do que a obra salvífica dos homens exalta sua bondade, seu amor e sua misericórdia. Por isso, amar Deus e sua glória significa amar as almas, significa trabalhar e sacrificar-se por sua salvação.
 
+São João Crisóstomo afirma que «nada é mais frio do que um cristão que não cuida da salvação alheia». Essa frieza é consequência de uma caridade muito lânguida; acendamos, reavivemos a caridade, e acender-se-á em nós o zelo pela salvação das almas. Então nosso apostolado já não será somente um dever imposto de fora, ao qual devemos necessariamente atender por obrigação do nosso estado, mas será exigência do amor, chama que irrompe espontaneamente pelo calor interno da caridade.
+
+Dar-se à vida interior não significa fechar-se numa torre de marfim para gozar sem perturbação as consolações de Deus, desinteressando-se do bem alheio, mas significa concentrar todas as próprias forças na busca de Deus, no trabalhar pela própria santificação para tornar-se aceito a Deus e adquirir assim uma potência de ação e de intercessão mediante a qual obter a salvação de muitas almas.
+
 **2** — O zelo pelas almas nasce da caridade, nasce da contemplação de Cristo crucificado: suas chagas, seu sangue, as dores dilacerantes de sua agonia nos dizem quanto valem as almas aos olhos de Deus e quanto Deus as ama. Mas esse amor não é correspondido e parece que os homens ingratos querem cada vez mais fugir à sua ação.
 
 É o triste espetáculo de todos os tempos, que também hoje se renova, quase para insultar Jesus e renovar sua Paixão. «Todo o mundo está em chamas: os ímpios, por assim dizer, anseiam por condenar novamente Jesus Cristo, levantam contra Ele infinitas calúnias e empregam-se de mil modos para destruir sua Igreja». Se Teresa de Jesus podia dizer assim de seu século atormentado pela heresia protestante, muito mais podemos dizê-lo nós no nosso, em que a luta contra Deus e contra a Igreja aumentou desmedidamente e se espalha por todo o mundo.
 
 Bem-aventurados nós se podemos repetir com a Santa: «A perda de tantas almas me parte o coração. Gostaria que o número dos réprobos não aumentasse... Parece-me que, para salvar uma só alma das muitas que se perdem, sacrificaria mil vezes a vida» (ibid.). Mas não se trata só de formular desejos: é preciso fazer, agir e sofrer pela salvação dos irmãos.
-
-São João Crisóstomo afirma que «nada é mais frio do que um cristão que não cuida da salvação alheia». Essa frieza é consequência de uma caridade muito lânguida; acendamos, reavivemos a caridade, e acender-se-á em nós o zelo pela salvação das almas. Então nosso apostolado já não será somente um dever imposto de fora, ao qual devemos necessariamente atender por obrigação do nosso estado, mas será exigência do amor, chama que irrompe espontaneamente pelo calor interno da caridade.
-
-Dar-se à vida interior não significa fechar-se numa torre de marfim para gozar sem perturbação as consolações de Deus, desinteressando-se do bem alheio, mas significa concentrar todas as próprias forças na busca de Deus, no trabalhar pela própria santificação para tornar-se aceito a Deus e adquirir assim uma potência de ação e de intercessão mediante a qual obter a salvação de muitas almas.
 
 ### Colóquio
 

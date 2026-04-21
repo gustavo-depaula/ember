@@ -1,4 +1,4 @@
-## 68 — LXVIII — O sacerdócio
+## 68 — O sacerdócio
 
 **Presença de Deus.** — *Ó Senhor, concede santos sacerdotes à tua Igreja.*
 

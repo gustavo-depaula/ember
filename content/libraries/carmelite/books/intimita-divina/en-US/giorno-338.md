@@ -4,7 +4,7 @@
 
 ### Meditation
 
-Many failures in apostolate come from the fact that apostolic activity is not carried out with the very conditions it requires and that are indispensable if it is to become an intense exercise of spiritual life.
+**1** — Many failures in apostolate come from the fact that apostolic activity is not carried out with the very conditions it requires and that are indispensable if it is to become an intense exercise of spiritual life.
 
 There is often a certain disorder, motives more or less human, which creep into that activity, lowering it from the supernatural plane to the merely human one, and turning it into an occasion of deviation and cooling of interior life. Then the soul feels dissatisfied and restless.
 
@@ -16,7 +16,7 @@ Let us first consider purity of intention. If no one can «serve God and mammon�
 
 Strength, peace, and life come from unity; fragmentation, even spiritual fragmentation, can bring only weakness, division, conflict, and finally death. The apostle whose heart is divided by opposed intentions will seek peace in vain in his work; he will always remain troubled and unsatisfied.
 
-Secondary intentions can appear in a coarse way, easily seen, but also in such subtle ways that a distracted soul does not notice them at all. To detect even the smallest secondary intentions, which like little foxes stealthily ruin apostolic activity, one needs an atmosphere of recollection and prayer.
+**2** — Secondary intentions can appear in a coarse way, easily seen, but also in such subtle ways that a distracted soul does not notice them at all. To detect even the smallest secondary intentions, which like little foxes stealthily ruin apostolic activity, one needs an atmosphere of recollection and prayer.
 
 In pauses at the Lord’s feet, the apostle realizes that during daily occupations he often loses sight of the supernatural end that should animate his activity, and that secondary ends take its place and become the immediate motive of many decisions and actions.
 

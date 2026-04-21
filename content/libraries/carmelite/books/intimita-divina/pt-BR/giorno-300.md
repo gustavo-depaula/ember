@@ -21,7 +21,7 @@ Outras vezes, porém, o Senhor pode confiar-nos encargos, ofícios, obras de apo
 
 Que a vida humilde e escondida de Maria seja o modelo da nossa e, se para imitá-la devemos lutar contra as tendências sempre renascentes do orgulho, recorramos confiantes ao seu auxílio materno, e Maria nos fará triunfar de toda vanglória.
 
-### Colloquio
+### Colóquio
 
 «Enquanto no mar deste mundo me sinto sacudido entre procela e tempestades, mantenho os olhos fixos em ti, ó Maria, estrela fulgente, para não ser submerso pelas ondas.
 

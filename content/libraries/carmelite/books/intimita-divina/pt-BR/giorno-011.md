@@ -1,4 +1,4 @@
-## XI — EM BUSCA DE DEUS
+## 11 — EM BUSCA DE DEUS
 
 **Presença de Deus.** — *Recolho-me no íntimo santuário da minha alma para ali buscar Deus, que vive em mim pela graça.*
 

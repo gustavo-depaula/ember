@@ -1,4 +1,4 @@
-## XXXIV — AS HUMILHAÇÕES
+## 34 — AS HUMILHAÇÕES
 
 **Presença de Deus.** — *— Ó Jesus, humilhado por mim até a abjeção, ensina-me a humilhar-me por amor de ti.*
 

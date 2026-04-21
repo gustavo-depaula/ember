@@ -1,4 +1,4 @@
-## XVII — O Espírito Santo[^1]
+## XVII — O Espírito Santo
 
 *Tríduo de Pentecostes*
 
@@ -22,4 +22,3 @@ Este Espírito Santo, Espírito de amor, nós invocamos para que venha acender e
 
 "Ó Espírito Santo, vejo-te descer na alma, como faz o sol, que não encontrando obstáculo nem impedimento vai iluminando tudo; desces como seta inflamada que, caindo, vai ao lugar mais profundo que encontra e ali repousa, não se detendo pelo caminho, nem pousando em lugares montuosos e altos, mas sim no centro da terra. Assim Tu, Espírito Santo, descendo do céu com as setas inflamadas do teu divino amor, não repousas nos corações soberbos e nas mentes altivas, mas pões tua morada nas almas humildes e desprezíveis aos próprios olhos" (S. Maria Madalena de' Pazzi).
 
-[^1]: Veja nota na pág. 5.

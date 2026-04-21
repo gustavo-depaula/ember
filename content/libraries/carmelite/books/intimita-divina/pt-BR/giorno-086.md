@@ -1,4 +1,4 @@
-## X — A POBREZA VOLUNTÁRIA
+## 10 — A POBREZA VOLUNTÁRIA
 
 **Presença de Deus.** — *Ó Senhor, dignai-Vos mostrar-me os tesouros escondidos na pobreza voluntária e os deveres que dela derivam.*
 

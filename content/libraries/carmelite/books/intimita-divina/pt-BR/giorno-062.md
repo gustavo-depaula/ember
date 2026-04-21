@@ -1,4 +1,4 @@
-## 62 — LXII — Jesus e a glória do Pai
+## 62 — Jesus e a glória do Pai
 
 **Presença de Deus.** — *Ó Jesus, infunde em mim teu espírito e teu zelo pela glória do Pai, e ensina-me a fugir de toda glória pessoal.*
 

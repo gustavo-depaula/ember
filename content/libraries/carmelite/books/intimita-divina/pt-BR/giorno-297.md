@@ -15,7 +15,7 @@ A paciência cristã nos impele antes de tudo a aceitar a dor com serenidade e d
 
 A paciência cristã não inclui, portanto, apenas uma atitude passiva diante da dor, mas também uma atitude ativa, voluntária, que é a mais importante e justamente a que a torna meritória. O homem paciente é passivo porque quer sê-lo, porque usa de sua vontade livre para sujeitar-se a todos os sofrimentos que encontra no seu caminho, porque curva voluntariamente os ombros sob o jugo da dor, como Jesus curvou os seus sob o lenho da cruz porque o quis: *quia ipse voluit* (Is. 53, 7). O cristão não é um cireneu forçado, mas um cireneu voluntário; não no sentido de que vá espontaneamente em busca da dor — coisa que não está ao alcance de todos e, às vezes, poderia ser também imprudente — mas no sentido mais modesto de que aceita voluntariamente toda dor que encontra em seu caminho, reconhecendo nela a cruz oferecida por Deus para sua santificação.
 
-### Colloquio
+### Colóquio
 
 «Ó Jesus, o ofício das almas que admites à tua intimidade é sofrer contigo, levar alto a cruz, sem deixá-la escapar das mãos, apesar dos perigos em que se encontram, e sem jamais mostrar no sofrer a mínima fraqueza.
 

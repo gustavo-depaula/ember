@@ -1,4 +1,4 @@
-## XIX — BUSCAR DEUS NO AMOR
+## 19 — BUSCAR DEUS NO AMOR
 
 **Presença de Deus.** — *Ó Senhor, ajuda-me a concentrar em ti todos os meus afetos, para que o meu coração saiba sempre buscar só a ti.*
 

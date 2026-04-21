@@ -1,4 +1,4 @@
-## IX — A IMACULADA CONCEIÇÃO
+## 9 — A IMACULADA CONCEIÇÃO
 
 **Presença de Deus.** — *Ponho-me na presença de Maria Imaculada, minha doce Mãe, escutando o seu convite: "Vinde a mim, vós todos que me amais, e vos contarei quanto Deus fez à minha alma".*
 

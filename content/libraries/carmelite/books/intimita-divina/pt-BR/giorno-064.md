@@ -1,4 +1,4 @@
-## 64 — LXIV — Jesus e os homens
+## 64 — Jesus e os homens
 
 **Presença de Deus.** — *Ó Jesus, ensina-me a amar meus irmãos como Tu os amas.*
 

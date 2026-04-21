@@ -2,6 +2,8 @@
 
 **Presença de Deus.** — *Deus meu, que infundiste em mim o amor, faze que este cresça até conduzir-me à união contigo.*
 
+### Meditação
+
 **1** — Deus, por meio da purgação espiritual, «produz na alma maravilhosos efeitos, iluminando-a e acendendo-a em ardentes desejos de só amor divino, não de outra alguma coisa» *(G.C. N. II,* 13, 11). Justamente assim, à medida que se desapega da terra deixando de parte todo afeto e apetite das criaturas, a alma sobe a «secreta escada» do amor que de grau em grau a eleva até ao seu Criador, «pois só o amor é aquele que une a alma com Deus» *(ivi,* 18, 5).
 
 Esta accensão de amor não é advertida no princípio da purificação, porque então «o fogo divino desempenha toda a sua obra mais a secar e dispor a alma que a aquecê-la; mas, em progresso de tempo, quando já a tem aquecido bastante, a alma muito frequentemente sente o amoroso ardor» *(ivi,* 12, 5). O divampar do amor pode ser acompanhado de um grande deleite espiritual; são então instantes de imensa alegria em que a alma pregusta a união com Deus à qual se vai aproximando, alegria que a recompensa amplamente de todas as penas e ansiedades sofridas na escuridão da noite e que a encoraja a abraçar de boa vontade aquelas que ainda deverá sofrer para chegar à união perfeita. Todavia, convém lembrar que a inflamação de amor não consiste no gáudio que a alma pode experimentar, mas sim na forte decisão da vontade de se dar inteiramente a Deus. «De resto, tudo isto é obra do Senhor, que infunde o amor «deixando árida a vontade», ou seja, pode infundir o amor «deixando árida a vontade» *(ivi,* 12, 7), ou abrasando-a com suave ardor.

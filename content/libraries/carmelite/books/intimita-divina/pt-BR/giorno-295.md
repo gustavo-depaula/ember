@@ -15,7 +15,7 @@ Para tornar-se generoso, é preciso aprender a fazer de todo coração não só 
 
 É muito importante que a alma desejosa de intimidade divina cultive em si essa disposição; assim chegará pouco a pouco ao dom total de si, dom que Deus espera para dar-se totalmente a ela. «Deus não se dá totalmente senão àqueles que se dão totalmente a ele» (Santa Teresa, Caminho 28, 12). Já desde aqui Deus quer dar-se às nossas almas, mas a medida de seu dom será proporcionada à do nosso, será relativa à nossa generosidade em nos darmos a ele.
 
-### Colloquio
+### Colóquio
 
 «Ó Senhor, como fazemos pouco por ti! A menos que se queiram estimar por efeitos de grande virtude e mortificação certos pequenos atos, semelhantes a grãozinhos de sal, sem peso e volume, que um passarinho pode levar no bico. É miséria dar peso a certos sacrifícios que se fazem por ti, ainda que numerosos! E, no entanto, faço sempre assim, esquecendo a cada instante o muito que recebo de ti. É verdade: em tua grande misericórdia tu estimas muito até esses pequenos atos de virtude; eu, porém, não queria tê-los em conta alguma e nem sequer perceber que os faço, porque são coisas de nada.
 

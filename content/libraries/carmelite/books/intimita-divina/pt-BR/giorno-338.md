@@ -4,7 +4,7 @@
 
 ### Meditação
 
-Muitos fracassos no apostolado provêm do fato de que a atividade apostólica não é exercida com as condições que ela mesma requer e que são indispensáveis para transformá-la num intenso exercício de vida espiritual.
+**1** — Muitos fracassos no apostolado provêm do fato de que a atividade apostólica não é exercida com as condições que ela mesma requer e que são indispensáveis para transformá-la num intenso exercício de vida espiritual.
 
 Trata-se de certa desordem, de motivos mais ou menos humanos que, infiltrando-se nessa atividade, a fazem descer do plano sobrenatural ao plano humano e a transformam em ocasião de desvio e de arrefecimento da vida interior; por isso a alma se sente insatisfeita e inquieta.
 
@@ -16,7 +16,7 @@ Consideremos antes de tudo a pureza de intenção. Se ninguém pode «servir a D
 
 A força, a paz e a vida vêm da unidade; o fragmentarismo, mesmo o do espírito, só pode levar à fraqueza, à divisão, à luta e, por fim, à morte. O apóstolo que tem o coração dividido por intenções opostas procurará em vão a paz no trabalho; estará sempre inquieto e insatisfeito.
 
-As intenções secundárias podem aparecer de modo grosseiro, fácil de perceber, mas também de modo tão sutil que a alma distraída não as nota. Para descobrir até as menores intenções secundárias, que como pequenas raposas se insinuam às escondidas para arruinar a atividade apostólica, é preciso um clima de recolhimento e de oração.
+**2** — As intenções secundárias podem aparecer de modo grosseiro, fácil de perceber, mas também de modo tão sutil que a alma distraída não as nota. Para descobrir até as menores intenções secundárias, que como pequenas raposas se insinuam às escondidas para arruinar a atividade apostólica, é preciso um clima de recolhimento e de oração.
 
 Nos momentos de pausa aos pés do Senhor, o apóstolo perceberá que muitas vezes, durante as ocupações cotidianas, perde de vista o fim sobrenatural que deveria animar sua atividade e que, no lugar dele, entram fins secundários que se tornam o motivo imediato de muitas deliberações e ações.
 

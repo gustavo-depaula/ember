@@ -1,4 +1,4 @@
-## I — O SENHOR VEM DE LONGE
+## 1 — O SENHOR VEM DE LONGE
 
 *1º Domingo do Advento*
 

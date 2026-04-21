@@ -4,7 +4,7 @@
 
 ### Meditation
 
-Must one be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
+**1** — Must one be holy before giving oneself to the apostolate? Theoretically that would be ideal, but in practice it is impossible. One cannot think that the years of formation alone—of seminary or novitiate, for example—are enough to make saints; nor, when duty or charity requires it, can one exempt oneself from apostolic works on the pretext that one has not yet reached holiness.
 
 We must therefore conclude that, once the period dedicated exclusively to preparation is presupposed, it is necessary to unite one’s personal ascent toward holiness with the exercise of apostolic activity. In other words, apostles must sanctify themselves in the apostolate and by means of it.
 
@@ -20,7 +20,7 @@ God cannot condemn to mediocrity a soul that, in order to do His will, and there
 
 In the measure in which the apostle is docile and faithful to grace, God will purify him, refine him, sanctify him precisely through his apostolic labors.
 
-This does not exclude that silent call to recollection, that desire for solitude and intimacy with God that often accompanies the apostle amid his activity and sometimes grows acute enough to cast a veil of nostalgia over his life. Whoever has tasted, even a little, the beauty and infinite goodness of God cannot but feel a powerful longing and need for Him.
+**2** — This does not exclude that silent call to recollection, that desire for solitude and intimacy with God that often accompanies the apostle amid his activity and sometimes grows acute enough to cast a veil of nostalgia over his life. Whoever has tasted, even a little, the beauty and infinite goodness of God cannot but feel a powerful longing and need for Him.
 
 This is a good sign: it means that the soul has not let itself be invaded and dissipated by external occupations and that, even while living in the world, it is not of the world, but truly tends toward God.
 

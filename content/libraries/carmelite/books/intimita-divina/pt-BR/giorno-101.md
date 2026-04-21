@@ -1,4 +1,4 @@
-## XXV — O PECADO VENIAL
+## 25 — O PECADO VENIAL
 
 **Presença de Deus.** — *Inflama-me, ó Senhor, com o Teu santo zelo, para que eu não saiba tolerar em mim a menor coisa que Te desagrade.*
 

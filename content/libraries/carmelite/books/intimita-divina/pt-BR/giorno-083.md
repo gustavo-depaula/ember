@@ -1,4 +1,4 @@
-## VII — A NOITE DOS SENTIDOS
+## 7 — A NOITE DOS SENTIDOS
 
 **Presença de Deus.** — *Ó Senhor, fortalece o meu desejo de chegar até Ti, para que eu tenha a coragem de enfrentar por amor de Ti a total purificação da minha sensibilidade.*
 

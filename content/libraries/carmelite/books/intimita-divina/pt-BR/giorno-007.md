@@ -1,4 +1,4 @@
-## VII — O MONTE DA PERFEIÇÃO
+## 7 — O MONTE DA PERFEIÇÃO
 
 **Presença de Deus.** — *"Quem subirá ao monte do Senhor?" (Sl. 23, 3). Peço ao meu Deus que me permita aproximar-me do santo monte onde Ele habita, onde reina só a sua honra e a sua glória.*
 

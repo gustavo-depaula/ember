@@ -1,4 +1,4 @@
-## XXX — A HUMILDADE
+## 30 — A HUMILDADE
 
 **Presença de Deus.** — *— Ó Jesus, que tanto te humilhaste por nós, ensina-me a prática da verdadeira humildade.*
 

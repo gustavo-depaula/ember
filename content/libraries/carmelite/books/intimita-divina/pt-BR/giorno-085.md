@@ -1,4 +1,4 @@
-## IX — A POBREZA EVANGÉLICA
+## 9 — A POBREZA EVANGÉLICA
 
 **Presença de Deus.** — *Ó Jesus, que por amor de mim quiseste abraçar uma vida pobríssima, faz que eu possa compreender o grande valor da pobreza.*
 

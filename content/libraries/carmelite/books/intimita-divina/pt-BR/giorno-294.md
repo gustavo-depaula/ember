@@ -15,7 +15,7 @@ O pusilânime, que em semelhantes ocasiões recua com a desculpa de não se sent
 
 «Ainda que não tenha muita força — diz Teresa de Jesus — toma logo voo e se eleva bastante, embora possa cansar-se depressa, como um passarinho novo, e deixar cair as asas» (Vida 13, 2). É próprio de nossa fraqueza cansar-nos, mas, se tivermos grande confiança e grande amor, logo saberemos levantar de novo as asas. Quanto mais plena for nossa confiança em Deus, tanto mais nos tornaremos fortes da fortaleza divina; quanto mais intenso for nosso amor, tanto mais nos tornaremos capazes de realizar pelo Senhor coisas árduas: «O amor perfeitíssimo — ensina São Tomás — mete a mão em qualquer coisa mais difícil» (III Sent. d. 29, q. 1, a. 8). Sustentados pela confiança e pelo amor, podemos elevar alto o voo sem temer perigos e quedas.
 
-### Colloquio
+### Colóquio
 
 «Ó poderoso amor de Deus! Como é verdade que o amante não encontra nada de impossível! Feliz a alma que obteve tua paz, ó meu Deus! Ela domina os perigos e os sofrimentos do mundo e nada a amedronta quando se trata de servir-te.
 

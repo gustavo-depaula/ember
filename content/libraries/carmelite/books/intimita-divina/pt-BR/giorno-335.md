@@ -5,7 +5,7 @@
 
 ### Meditação
 
-Este domingo tem um tom particular, o tom das coisas que caminham para o fim. Dentro de pouco tempo o ano litúrgico terminará e, ao terminar, convida-nos a refletir sobre a caducidade da vida presente e a voltar o olhar para a vida eterna que nos espera.
+**1** — Este domingo tem um tom particular, o tom das coisas que caminham para o fim. Dentro de pouco tempo o ano litúrgico terminará e, ao terminar, convida-nos a refletir sobre a caducidade da vida presente e a voltar o olhar para a vida eterna que nos espera.
 
 Espontaneamente os ânimos se recolhem numa revisão da própria situação: como empregamos o tempo recebido de Deus? No Intróito encontramos a humilde confissão: «Ó Senhor, pecamos contra ti e não observamos teus preceitos»; e na Coleta, o pedido de perdão: «Concede, Senhor, a teus fiéis, aplacado, o perdão e a paz».
 
@@ -17,7 +17,7 @@ A maior loucura e imprudência que se pode cometer na viagem desta vida é segui
 
 Caminhar na vontade divina, guiados pelo Espírito Santo, é a via mais rápida e segura para chegar à pátria celeste.
 
-Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
+**2** — Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
 
 Um oficial do rei, tendo ouvido falar das curas maravilhosas operadas por Jesus, vai até ele e lhe pede que vá à sua casa para «curar-lhe o filho, que está para morrer». Esse homem tem fé na virtude taumaturga do Mestre, mas está bem longe de crer que Ele é o Filho de Deus.
 

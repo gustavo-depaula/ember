@@ -1,4 +1,4 @@
-## V — SANTIDADE E VONTADE DE DEUS
+## 5 — SANTIDADE E VONTADE DE DEUS
 
 **Presença de Deus.** — *Ponho-me na presença de Jesus Sacramentado, pedindo-lhe a graça de fazer sempre a sua vontade.*
 

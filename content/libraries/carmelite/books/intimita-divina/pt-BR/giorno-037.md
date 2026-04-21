@@ -1,6 +1,6 @@
 ## 37 — O NOME DE JESUS
 
-*2 janeiro*[^1]
+*2 janeiro*
 
 **Presença de Deus.** — *Ó Jesus, faze-me compreender os mistérios e os tesouros encerrados no teu dulcíssimo nome.*
 
@@ -23,5 +23,3 @@ Respondendo a tal convite, o coração de cada cristão deve exaltar o nome sant
 Ó Senhor, o teu nome é bom e faze que a sua bondade torne-me, criatura indigna, capaz de amá-lo e de louvá-lo com todo o coração.
 
 Quero que toda obra minha comece e termine no teu nome, que todos os meus afetos, desejos, empreendimentos, alegrias e dores tenham o teu nome no seu selo; mas sobretudo, suplico-te, imprime o teu nome no meu coração e na minha mente para que sempre te ame e pense em ti.
-
-[^1]: Mover esta meditação segundo o calendário do ano.

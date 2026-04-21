@@ -1,4 +1,4 @@
-## XXIX — A TRANSFIGURAÇÃO
+## 29 — A TRANSFIGURAÇÃO
 *II domingo da Quaresma*
 
 **Presença de Deus.** — *Ó Jesus, que a Tua graça triunfe em mim até tornar-me digno de participar da Tua gloriosa Transfiguração.*

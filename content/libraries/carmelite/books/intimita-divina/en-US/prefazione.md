@@ -62,7 +62,7 @@ Then the soul sets itself to *reflect,* freely helping itself with the text alre
 
 Spontaneously it will thus pass to the *colloquy* which, according to the Teresian concept, is the "heart," the center of mental prayer.
 
-Therefore especially here our meditations wish to come to the aid of souls. For this purpose we wished to give the "colloquies" a fairly ample form — nevertheless the soul will use them very freely, choosing what corresponds to its present need — and, to render them more effective, we have composed them using the ardent and inflamed expressions of holy and fervent souls. However, very often it has been necessary to report these texts with some slight modification precisely to adapt them better to the form of face-to-face colloquy; always, however, in parentheses, the source is indicated.[^1]
+Therefore especially here our meditations wish to come to the aid of souls. For this purpose we wished to give the "colloquies" a fairly ample form — nevertheless the soul will use them very freely, choosing what corresponds to its present need — and, to render them more effective, we have composed them using the ardent and inflamed expressions of holy and fervent souls. However, very often it has been necessary to report these texts with some slight modification precisely to adapt them better to the form of face-to-face colloquy; always, however, in parentheses, the source is indicated.
 
 In these colloquies there are not only expressions of love, but these alternate with petitions, thanksgivings, etc., and also with outbursts of the soul toward God, which take concrete form in resolutions.
 
@@ -70,7 +70,7 @@ We hope that, thus composed, these meditations will effectively help souls to ap
 
 * * *
 
-Teresian spirituality is the spirituality of divine intimacy,[^2] that is, it seeks to nourish in souls the ideal of intimacy with God and to guide them toward its realization. This end is attained in a particular way by means of mental prayer which, therefore, must be in harmony with this great and lofty aspiration.
+Teresian spirituality is the spirituality of divine intimacy, that is, it seeks to nourish in souls the ideal of intimacy with God and to guide them toward its realization. This end is attained in a particular way by means of mental prayer which, therefore, must be in harmony with this great and lofty aspiration.
 
 And this is precisely the "tone" that we have sought to give to our meditations, which are published under the title "Divine Intimacy" precisely to indicate that their purpose is to help souls as much as possible to attain this great goal.
 
@@ -94,7 +94,7 @@ Beginning the series of meditations with the beginning of the liturgical year, t
 
 *August* and *September* - The moral virtues. The gifts of the Holy Spirit. The beatitudes.
 
-*October* and *November* - The apostolate. Union with God.[^3]
+*October* and *November* - The apostolate. Union with God.
 
 * * *
 
@@ -107,9 +107,3 @@ The Holy Spirit, who is the Spirit of Love and deigns to dwell in our souls to t
 Fr. Gabriele of St. Mary Magdalene, O.C.D.
 
 Rome, feast of the Sacred Heart 1952.
-
-[^1]: Despite the modifications introduced, so as not to weigh down the citations, we do not put the usual cfr.; we use this abbreviation only in cases where the colloquies, rather than being drawn from the texts of the saints, are simply inspired by them.
-
-[^2]: See our booklet *Carmelite Spirituality,* Rome, St. Teresa College, 1943.
-
-[^3]: As stated in the "Preface," at the desire of many — to make the use of the Work easier — the division into months has been abolished, leaving only the order of the liturgical weeks.

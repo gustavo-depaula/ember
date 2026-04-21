@@ -62,7 +62,7 @@ Depois, a alma põe-se a *refletir,* ajudando-se livremente com o texto já lido
 
 De modo espontâneo passará assim ao *colóquio* que, segundo o conceito teresiano, é o "coração", o centro da oração mental.
 
-Por isso, especialmente aqui, as nossas meditações querem vir em auxílio das almas. Para esse fim quisemos dar aos "colóquios" uma forma bastante ampla - não obstante, a alma deles se servirá com muita liberdade, escolhendo o que corresponde à sua necessidade atual - e, para torná-los mais eficazes, compusemo-los servindo-nos de expressões vigorosas e inflamadas de almas santas e ardorosas. No entanto, muito frequentemente foi necessário reproduzir esses textos com alguma leve modificação justamente para adaptá-los melhor à forma de colóquio de tu a tu; sempre, depois, entre parênteses, indica-se a fonte.[^1]
+Por isso, especialmente aqui, as nossas meditações querem vir em auxílio das almas. Para esse fim quisemos dar aos "colóquios" uma forma bastante ampla - não obstante, a alma deles se servirá com muita liberdade, escolhendo o que corresponde à sua necessidade atual - e, para torná-los mais eficazes, compusemo-los servindo-nos de expressões vigorosas e inflamadas de almas santas e ardorosas. No entanto, muito frequentemente foi necessário reproduzir esses textos com alguma leve modificação justamente para adaptá-los melhor à forma de colóquio de tu a tu; sempre, depois, entre parênteses, indica-se a fonte.
 
 Nestes colóquios não há só expressões de amor, mas estas se alternam com pedidos, ações de graças etc., e também com ímpetos da alma para Deus, que se concretizam em propósitos.
 
@@ -70,7 +70,7 @@ Esperamos que, assim compostas, estas meditações sirvam eficazmente para ajuda
 
 * * *
 
-A espiritualidade teresiana é a espiritualidade da intimidade divina,[^2] isto é, procura nutrir nas almas o ideal da intimidade com Deus e encaminhá-las à sua realização. Tal fim se alcança de modo especial por meio da oração mental, que, por isso, deve estar afinada com essa grande e excelsa aspiração.
+A espiritualidade teresiana é a espiritualidade da intimidade divina, isto é, procura nutrir nas almas o ideal da intimidade com Deus e encaminhá-las à sua realização. Tal fim se alcança de modo especial por meio da oração mental, que, por isso, deve estar afinada com essa grande e excelsa aspiração.
 
 E é precisamente este o "tom" que procuramos dar às nossas meditações, as quais são publicadas sob o título *Intimidade divina* justamente para indicar que o seu objetivo é ajudar o máximo possível as almas a alcançarem essa grande meta.
 
@@ -94,7 +94,7 @@ Começando a série das meditações pelo princípio do ano litúrgico, eis como
 
 *Agosto* e *Setembro* - As virtudes morais. Os dons do Espírito Santo. As bem-aventuranças.
 
-*Outubro* e *Novembro* - O apostolado. A união com Deus.[^3]
+*Outubro* e *Novembro* - O apostolado. A união com Deus.
 
 * * *
 
@@ -107,9 +107,3 @@ O Espírito Santo, que é Espírito de Amor e se digna habitar em nossas almas p
 Pe. Gabriele de S. M. Madalena, O.C.D.
 
 Roma, festa do Sagrado Coração, 1952.
-
-[^1]: Apesar das modificações introduzidas, para não sobrecarregar as citações, não colocamos o habitual cfr.; usamos essa sigla só nos casos em que os colóquios, em vez de serem tirados dos textos dos santos, são simplesmente inspirados neles.
-
-[^2]: Veja-se o nosso opúsculo *A espiritualidade carmelitana,* Roma, Colégio S. Teresa, 1943.
-
-[^3]: Como se diz na "Apresentação", por desejo de muitos - para tornar mais fácil o uso da Obra - foi abolida a divisão em meses, deixando-se apenas a ordem das semanas litúrgicas.

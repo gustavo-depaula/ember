@@ -5,7 +5,7 @@
 
 ### Meditation
 
-This Sunday has a particular tone, the tone of things drawing to their end. Before long the liturgical year will close and, as it closes, it invites us to reflect on the transience of this present life and to turn our gaze to the eternal life that awaits us.
+**1** — This Sunday has a particular tone, the tone of things drawing to their end. Before long the liturgical year will close and, as it closes, it invites us to reflect on the transience of this present life and to turn our gaze to the eternal life that awaits us.
 
 Spontaneously hearts gather themselves in a review of their own state: how have we used the time received from God? In the Introit we find the humble confession: «O Lord, we have sinned against You and have not kept your precepts»; and in the Collect the request for pardon: «Grant, O Lord, to your faithful, being appeased, pardon and peace.»
 
@@ -17,7 +17,7 @@ The greatest folly and imprudence one can commit on the journey of this life is 
 
 To walk in the divine will, guided by the Holy Spirit, is the quickest and safest way to reach our heavenly homeland.
 
-But we cannot walk in the divine will without faith. Today’s Gospel (Jn 4:46-53) speaks precisely of faith and of the qualities it must have in order to please God.
+**2** — But we cannot walk in the divine will without faith. Today’s Gospel (Jn 4:46-53) speaks precisely of faith and of the qualities it must have in order to please God.
 
 A royal official, having heard of the marvelous healings worked by Jesus, goes to Him and begs Him to come to his house and «heal his son, who is at the point of death.» This man has faith in the Master’s wonder-working power, yet he is far from believing that He is the Son of God.
 

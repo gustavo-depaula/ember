@@ -1,4 +1,4 @@
-## VIII — A SEMENTE DIVINA
+## 8 — A SEMENTE DIVINA
 *domingo da Sexagésima*
 
 **Presença de Deus.** — *— Ó Senhor, eis-me diante de ti: que meu coração seja a boa terra pronta a acolher e a fazer frutificar tua palavra.*

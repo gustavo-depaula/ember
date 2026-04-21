@@ -1,4 +1,4 @@
-## XV — A PREDIÇÃO DA PAIXÃO
+## 15 — A PREDIÇÃO DA PAIXÃO
 
 *domingo da Quinquagésima*
 

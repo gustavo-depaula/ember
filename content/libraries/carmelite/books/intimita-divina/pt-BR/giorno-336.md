@@ -4,7 +4,7 @@
 
 ### Meditação
 
-Quanto ao apostolado da oração e do sacrifício, não é necessária nenhuma cautela, pois, quanto mais uma alma se dedica a isso, tanto mais beneficia o bem do próximo e, ao mesmo tempo, tira grande proveito para a própria santificação. De fato, as armas do apostolado interior coincidem perfeitamente com os exercícios fundamentais da vida espiritual.
+**1** — Quanto ao apostolado da oração e do sacrifício, não é necessária nenhuma cautela, pois, quanto mais uma alma se dedica a isso, tanto mais beneficia o bem do próximo e, ao mesmo tempo, tira grande proveito para a própria santificação. De fato, as armas do apostolado interior coincidem perfeitamente com os exercícios fundamentais da vida espiritual.
 
 Não se pode dizer o mesmo do apostolado externo, que, por sua natureza, exige necessariamente solicitações e ocupações diversas daquelas relativas ao proveito individual.
 
@@ -20,7 +20,7 @@ Depois, antes de enviá-los definitivamente à conquista do mundo, quis que temp
 
 Assim, a genuína práxis católica exige que, antes de descer ao campo, os apóstolos se preparem no exercício de uma intensa vida interior, para se tornarem instrumentos aptos e fecundos para o bem das almas.
 
-A urgência das necessidades apostólicas, sempre mais premente hoje, não pode justificar uma preparação apressada para o apostolado. De que adiantaria lançar no combate um número maior de pessoas, se estas, por falta de formação, seriam incapazes não só de conquistar terreno, mas até de sustentar o choque das forças inimigas?
+**2** — A urgência das necessidades apostólicas, sempre mais premente hoje, não pode justificar uma preparação apressada para o apostolado. De que adiantaria lançar no combate um número maior de pessoas, se estas, por falta de formação, seriam incapazes não só de conquistar terreno, mas até de sustentar o choque das forças inimigas?
 
 Não basta o entusiasmo e a boa vontade. É necessária robustez de vida interior, firmeza de ideias e de propósitos, espírito de sacrifício e união com Deus; de outro modo, longe de ajudar o bem alheio, colocar-se-á em perigo a sorte dos próprios apóstolos.
 

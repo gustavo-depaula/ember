@@ -1,4 +1,4 @@
-## X — CONVITE À INTIMIDADE DIVINA
+## 10 — CONVITE À INTIMIDADE DIVINA
 
 **Presença de Deus.** — *Recolho-me na presença do meu Deus, que vive em mim pela graça, com o vivo desejo de pôr-me em contato com Ele.*
 

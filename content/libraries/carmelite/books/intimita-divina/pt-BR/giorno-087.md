@@ -1,10 +1,10 @@
-## XI — O ESPÍRITO DE POBREZA
+## 11 — O ESPÍRITO DE POBREZA
 
 **Presença de Deus.** — *— Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.*
 
 ### Meditação
 
-. I — "E Jesus, abrindo sua boca, os instruía,
+**1** — "E Jesus, abrindo sua boca, os instruía,
 dizendo: Bem-aventurados os pobres em espírito, porque deles é o
 reino dos céus" (Mt. 5, 3).
 

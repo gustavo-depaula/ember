@@ -1,4 +1,4 @@
-## II — CONVITE À SANTIDADE
+## 2 — CONVITE À SANTIDADE
 
 **Presença de Deus.** — *Coloco-me na presença de Jesus Sacramentado, considerando-o o Redentor e Santificador da minha alma.*
 

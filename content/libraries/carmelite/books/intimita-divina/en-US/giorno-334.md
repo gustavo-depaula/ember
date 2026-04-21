@@ -4,7 +4,7 @@
 
 ### Meditation
 
-The apostolate of prayer and suffering, by intrinsic efficacy and fecundity, has preeminence over every other form of apostolate, to point that, even without accompaniment of any exterior activity, it is sufficient to make those who live it eminent apostles.
+**1** — The apostolate of prayer and suffering, by intrinsic efficacy and fecundity, has preeminence over every other form of apostolate, to point that, even without accompaniment of any exterior activity, it is sufficient to make those who live it eminent apostles.
 
 Yet in society and in Church works are also necessary. God wills them and indeed, in ordinary course, He intervenes in world precisely through activity of his apostles. To spread life of grace in souls, alongside interior apostolate of contemplatives, exterior activity of Pastors and faithful is necessary.
 
@@ -18,7 +18,7 @@ Nor can supporters of various apostolic activities place themselves above or pre
 
 From love with which each one carries out his own tasks and at same time keeps united with other apostles, always ready to support and favor others' works, comes universal good of Church, the good apostle must seek above every personal work or interest.
 
-This collaboration in apostolate belongs first of all to Pastors, direct successors of Apostles, to whom Jesus officially entrusted mandate to evangelize world: "Going therefore, teach ye all nations; baptizing them in name of Father and of Son and of Holy Ghost; teaching them to observe all things whatsoever I have commanded you" (Mt. 28:19-20).
+**2** — This collaboration in apostolate belongs first of all to Pastors, direct successors of Apostles, to whom Jesus officially entrusted mandate to evangelize world: "Going therefore, teach ye all nations; baptizing them in name of Father and of Son and of Holy Ghost; teaching them to observe all things whatsoever I have commanded you" (Mt. 28:19-20).
 
 Alongside this hierarchical apostolate, reserved to clergy, there is that of laity, whom Church invites to collaborate with hierarchy. Pastors guide, govern, and trace lines; under their direction faithful are called to offer their work.
 

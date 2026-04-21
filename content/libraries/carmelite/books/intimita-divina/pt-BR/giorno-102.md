@@ -1,4 +1,4 @@
-## XXVI — A IMPERFEIÇÃO
+## 26 — A IMPERFEIÇÃO
 
 **Presença de Deus.** — *Ó meu Deus, faz-me compreender quanto é necessário que a alma seja pura para unir-se a Ti, perfeição infinita!*
 

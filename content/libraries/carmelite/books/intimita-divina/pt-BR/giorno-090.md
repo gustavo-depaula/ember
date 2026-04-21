@@ -1,4 +1,4 @@
-## XIV — A CASTIDADE DO CORAÇÃO
+## 14 — A CASTIDADE DO CORAÇÃO
 
 **Presença de Deus.** — *— Ó Senhor, ensina-me quão puro deve ser meu coração para ser admitido à tua intimidade.*
 

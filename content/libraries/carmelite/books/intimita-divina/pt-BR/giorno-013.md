@@ -1,4 +1,4 @@
-## XIII — A BUSCA DE DEUS E OS DEVERES COTIDIANOS
+## 13 — A BUSCA DE DEUS E OS DEVERES COTIDIANOS
 
 **Presença de Deus.** — *Alma minha, retira-te para o teu interior e ali persevera no esquecimento de todas as coisas, buscando Deus com o afeto do coração.*
 

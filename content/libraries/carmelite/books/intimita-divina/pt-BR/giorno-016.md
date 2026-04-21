@@ -1,4 +1,4 @@
-## XVI — A CUSTÓDIA DOS SENTIDOS
+## 16 — A CUSTÓDIA DOS SENTIDOS
 
 **Presença de Deus.** — *Na tua presença, meu Deus, recolho os meus sentidos e as minhas potências, retirando-os de toda ocupação exterior para fixá-los em ti.*
 

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-A humildade, como é fundamento de toda a vida espiritual, assim também é condição básica de todo apostolado e constitui a parte central do programa de abnegação e de esquecimento de si por ele exigido.
+**1** — A humildade, como é fundamento de toda a vida espiritual, assim também é condição básica de todo apostolado e constitui a parte central do programa de abnegação e de esquecimento de si por ele exigido.
 
 Justamente porque o apóstolo está, mais ou menos, colocado no candelabro, precisa mais que os outros proteger o espírito dos fumos do orgulho e da vanglória por meio de profunda humildade.
 
@@ -20,7 +20,7 @@ Ah, se estivéssemos realmente convencidos de que, embora Deus queira servir-se 
 
 Que mérito pode reclamar um pincel porque um bom pintor se serviu dele para fazer uma obra-prima? Que mérito pode reclamar o mármore usado por Michelangelo para esculpir seu Moisés? «Não fostes vós que me escolhestes; fui eu que vos escolhi e vos destinei para irdes e dardes fruto» (Jo 15,16).
 
-«Sem mim nada podeis fazer»; diante dessas palavras, quantas ambições, quantos pontos de honra, quantas complacências vãs de si, quantas pretensões de aplauso, quantos desejos de promoção e reconhecimento do próprio valor se quebram como ondas contra os rochedos!
+**2** — «Sem mim nada podeis fazer»; diante dessas palavras, quantas ambições, quantos pontos de honra, quantas complacências vãs de si, quantas pretensões de aplauso, quantos desejos de promoção e reconhecimento do próprio valor se quebram como ondas contra os rochedos!
 
 Jesus não nos diz que sem Ele podemos fazer pouco, mas nada, absolutamente nada; e se na aparência as obras prosperam, os admiradores aumentam, as igrejas e salas se enchem, na realidade nem um grão de graça desce aos corações se Deus não intervém.
 

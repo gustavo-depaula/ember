@@ -1,4 +1,4 @@
-## 67 — LXVII — A Igreja
+## 67 — A Igreja
 
 **Presença de Deus.** — *Ó Jesus, que me deste a Igreja por mãe, faze que eu a ame com verdadeiro coração de filho.*
 

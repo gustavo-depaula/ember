@@ -1,4 +1,4 @@
-## XV — O SENHOR ESTÁ PERTO
+## 15 — O SENHOR ESTÁ PERTO
 *III domingo do Advento*
 
 **Presença de Deus.** — *O Senhor aproxima-se cada vez mais da minha alma com o convite da sua graça; também eu quero aproximar-me dele, reavivando os meus desejos e a minha fé.*

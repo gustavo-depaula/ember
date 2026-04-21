@@ -1,4 +1,4 @@
-## XX — PROVA DE AMOR
+## 20 — PROVA DE AMOR
 
 **Presença de Deus.** — *Ó Jesus crucificado, digna-te fazer-me compreender como a Cruz é a maior prova de amor.*
 

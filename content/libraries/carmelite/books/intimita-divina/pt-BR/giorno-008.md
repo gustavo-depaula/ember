@@ -1,4 +1,4 @@
-## VIII — EM BREVE O SENHOR VIRÁ
+## 8 — EM BREVE O SENHOR VIRÁ
 
 *II domingo do Advento*
 

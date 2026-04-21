@@ -4,7 +4,7 @@
 
 ### Meditation
 
-«Generous forgetfulness and strong self-denial» (Pius XII): without forgetfulness of self, even right intention would not be possible.
+**1** — «Generous forgetfulness and strong self-denial» (Pius XII): without forgetfulness of self, even right intention would not be possible.
 
 Precisely because we are so present to ourselves, so occupied and concerned with our ego, our interests, our comfort, so eager to be loved and to receive praise and esteem, a multitude of secondary intentions tries to creep into our actions.
 
@@ -20,7 +20,7 @@ The apostle must not seek pleasant conversations, consoling friendships, agreeab
 
 The apostle is sent «to give,» not «to receive»; to sow, not to reap. Therefore he must know how to give his time, his work, his energies, and even himself, even in environments that offer nothing comforting, even to souls from whom he will never receive satisfaction or return.
 
-As Scripture says of the priest, he is «appointed for men» (Heb 5:1), and the same can be said of every apostle. The apostle is not for himself, for his career, for his own interest, but for souls, for the benefit of others in all that concerns their spiritual good.
+**2** — As Scripture says of the priest, he is «appointed for men» (Heb 5:1), and the same can be said of every apostle. The apostle is not for himself, for his career, for his own interest, but for souls, for the benefit of others in all that concerns their spiritual good.
 
 Even if apostolate confers on him some authority or dignity, this is not for his honor or advantage, but only for the service of his brethren.
 

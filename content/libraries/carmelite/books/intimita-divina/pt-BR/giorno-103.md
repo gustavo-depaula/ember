@@ -1,4 +1,4 @@
-## XXVII — O EXAME DE CONSCIÊNCIA
+## 27 — O EXAME DE CONSCIÊNCIA
 
 **Presença de Deus.** — *— Ó Senhor, projeta sobre minha alma um raio da tua luz, para que eu possa ver-me como Tu mesmo me vês e me julgas.*
 

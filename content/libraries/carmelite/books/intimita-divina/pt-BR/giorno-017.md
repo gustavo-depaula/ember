@@ -1,4 +1,4 @@
-## XVII — O SILÊNCIO INTERIOR
+## 17 — O SILÊNCIO INTERIOR
 
 **Presença de Deus.** — *Ó Senhor, faz calar em mim toda voz do mundo, das criaturas, do meu eu, para que eu possa ouvir só a tua voz.*
 

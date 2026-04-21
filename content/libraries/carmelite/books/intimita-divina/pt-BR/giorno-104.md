@@ -1,4 +1,4 @@
-## XXVIII — A CONFISSÃO
+## 28 — A CONFISSÃO
 
 **Presença de Deus.** — *Aos pés da Tua Cruz, ó Jesus, confesso os meus pecados e invoco sobre mim a efusão do Teu Sangue, para que purifique a minha alma.*
 
