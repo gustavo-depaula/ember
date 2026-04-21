@@ -17,10 +17,6 @@
       "text": { "it": "{{liturgicalLabel}}" }
     },
     {
-      "type": "heading",
-      "text": { "it": "{{meditationTitle}}" }
-    },
-    {
       "type": "options",
       "label": { "it": "Meditazione" },
       "from": "meditations",
