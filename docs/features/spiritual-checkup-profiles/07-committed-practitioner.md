@@ -39,7 +39,7 @@ This profile must not be given *more* practices. It must be given **depth on the
 ## What to offer first
 
 - **Identify the predominant fault** (if not already named). `base/chapters/predominant-fault` is the week-1 chapter; the method is applied in week 2's examen.
-- **Mental prayer to 20–30 minutes daily** if not already there. `base/chapters/mental-prayer-carmelite-method` as the method.
+- **Mental prayer to 20–30 minutes daily** if not already there. `base/chapters/mental-prayer` as the method.
 - **One classic text, one paragraph at a time.** *Imitation of Christ*, *Introduction to the Devout Life*, *The Spiritual Combat*, or *Story of a Soul*. Slowness is the feature.
 - **Weekly Adoration hour** if possible. `base/practices/holy-hour`. This is a strong candidate for this profile; many have the desire for it without the structure.
 - **First Friday / First Saturday devotions** if aligned with temperament; let the user choose, don't prescribe.
@@ -62,7 +62,7 @@ This profile must not be given *more* practices. It must be given **depth on the
 
 **Week 2 — "the method deepens":**
 - Same rhythm.
-- Chapter: `mental-prayer-carmelite-method` (re-read if familiar).
+- Chapter: `mental-prayer` (re-read if familiar).
 - Extend mental prayer to 20 minutes if at 15; 25 if at 20; no faster than that.
 - Begin a classic: one paragraph daily of *Imitation of Christ* I.1.
 

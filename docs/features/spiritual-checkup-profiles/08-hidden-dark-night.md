@@ -33,7 +33,7 @@ The corrective posture is *steadiness without diagnosis*. Name what the user is 
 
 - **A direct, plain naming of the experience.** Week 1 opening content: "This is common enough to have a name in the tradition. Many faithful souls go through it. It does not mean something is wrong, and it does not mean you have arrived somewhere. It means: keep walking in the dark."
 - **Reduce, don't add.** If the user is praying five practices, trim to two or three — probably the Mass, the Rosary (or a decade of it), and a short evening practice. Doing less with fidelity is worth more here than doing more with dissipation.
-- **Consent-to-silence during mental prayer.** The soul cannot meditate discursively as before. Rather than force it, the posture is to be present — scripture open, not read; gaze on the crucifix; a single word repeated. `base/chapters/mental-prayer-carmelite-method` §§ on dryness apply; expand as needed.
+- **Consent-to-silence during mental prayer.** The soul cannot meditate discursively as before. Rather than force it, the posture is to be present — scripture open, not read; gaze on the crucifix; a single word repeated. `base/chapters/mental-prayer` §§ on dryness apply; expand as needed.
 - **The Divine Office in small portions** — Compline, or Lauds — for the consolation of liturgical prayer when personal prayer has gone dry. The Office carries the soul when the soul cannot carry itself.
 - **Spiritual direction — as the central recommendation.** The profile copy should not equivocate on this. The checkup has done its job when it sends this soul to a director.
 - **One scripture book read cover-to-cover slowly**, not for study but for being-with — the Psalms are the historical answer.
@@ -50,7 +50,7 @@ The corrective posture is *steadiness without diagnosis*. Name what the user is 
 
 **Week 1 — "standing still is itself a walk":**
 - Trim current practices to: Sunday Mass + Rosary (decade minimum) + evening examen (short).
-- Read: the mental-prayer-carmelite-method chapter, specifically the section on dryness. Do not increase mental prayer time.
+- Read: the mental-prayer chapter, specifically the section on dryness. Do not increase mental prayer time.
 - In silent prayer time: open a Psalm, read one verse, sit with it in silence. Do not move on if nothing comes.
 - Direction: find a director this week. Name this as **the** task.
 
@@ -74,4 +74,4 @@ The corrective posture is *steadiness without diagnosis*. Name what the user is 
 
 - A dedicated chapter **"When Prayer Goes Dark"** is a strong candidate. It should cover: dryness as commonplace, St. John's three signs laid out plainly with the caveat that only a director confirms them, what to do when all three are present and no director is available (*very little*), and the pastoral distinction between dryness-as-phase and dryness-that-signals-a-medical-issue.
 - A chapter **"The Psalter in the Dark"** — on the Psalms as the scripture for the dry phase — would also serve.
-- `base/chapters/mental-prayer-carmelite-method` should be reviewed: its dryness section should be expanded to serve this profile as a primary reference, not a side note.
+- `base/chapters/mental-prayer` should be reviewed: its dryness section should be expanded to serve this profile as a primary reference, not a side note.

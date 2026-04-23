@@ -42,7 +42,7 @@ This is the profile for whom the Content Platform pillar (`docs/README.md`, Wisd
 
 ## What NOT to offer first
 
-- **Not formation chapters.** She has read better or equal treatments. Chapters like `how-to-pray`, `ignatian-examen`, `mental-prayer-carmelite-method`, etc. are not for her (though she may browse them occasionally to compare framings).
+- **Not formation chapters.** She has read better or equal treatments. Chapters like `how-to-pray`, `ignatian-examen`, `mental-prayer`, etc. are not for her (though she may browse them occasionally to compare framings).
 - **Not starter tracks.** See above.
 - **Not "add one practice per week" pacing.** Her pacing is set.
 - **Not "let us assess whether you are in X phase."** She is not here for diagnosis.

@@ -1,0 +1,13 @@
+{
+  "id": "mental-prayer",
+  "title": {
+    "en-US": "Mental Prayer",
+    "pt-BR": "Oração Mental"
+  },
+  "subtitle": {
+    "en-US": "The prayer that is friendship — and the many roads into it",
+    "pt-BR": "A oração que é amizade — e os muitos caminhos para ela"
+  },
+  "estimatedMinutes": 15,
+  "tags": ["formation", "mental-prayer", "meditation", "lectio-divina", "carmelite", "ignatian", "salesian", "alphonsian"]
+}

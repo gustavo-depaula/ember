@@ -10,22 +10,62 @@
 		{
 			"type": "subheading",
 			"text": {
-				"en-US": "Introductory",
-				"pt-BR": "Partes Introdutórias"
+				"en-US": "Preparation",
+				"pt-BR": "Preparação"
 			}
 		},
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "1. Preparation — Presence of God",
-				"pt-BR": "1. Preparação — Presença de Deus"
+				"en-US": "Act of Faith in God's Presence",
+				"pt-BR": "Ato de Fé na Presença de Deus"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "Place yourself formally in the presence of God. A simple act of faith is enough: He is here, and He loves you. Orient yourself toward Him with a good thought — recall His nearness, His fatherhood, or the indwelling of the Holy Trinity in your soul. You are about to speak with a Friend who already waits for you.",
-				"pt-BR": "Coloque-se formalmente na presença de Deus. Basta um simples ato de fé: Ele está aqui e o ama. Oriente-se para Ele com um bom pensamento — recorde a Sua proximidade, a Sua paternidade ou a inabitação da Santíssima Trindade na sua alma. Você está para falar com um Amigo que já o espera."
+				"en-US": "Place yourself in His presence. He is here. He sees you. He loves you. Make a simple act of faith that He is truly present.",
+				"pt-BR": "Coloque-se na Sua presença. Ele está aqui. Ele o vê. Ele o ama. Faça um simples ato de fé de que Ele está verdadeiramente presente."
+			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Act of Faith (St. Alphonsus)",
+				"pt-BR": "Ato de Fé (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My God, I believe You are here present, and I adore You with all my heart.",
+						"pt-BR": "Meu Deus, eu creio que estais aqui presente e Vos adoro com todo o meu afeto."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Where I am today",
+				"pt-BR": "Onde estou hoje"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Before you open the book, tell Him honestly what is in your heart right now — a joy, a weight, a worry, a weariness. As a friend speaks to a friend. *\"Prayer is talking with God.\"* (St. Josemaría)",
+				"pt-BR": "Antes de abrir o livro, diga-Lhe com honestidade o que há em seu coração agora — uma alegria, um peso, uma preocupação, um cansaço. Como um amigo fala com um amigo. *\"Rezar é conversar com Deus.\"* (São Josemaria)"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions to open the heart:\n• What am I carrying today?\n• What stirred me — in joy, in weight?\n• What am I avoiding saying?",
+				"pt-BR": "Perguntas para abrir o coração:\n• O que estou carregando hoje?\n• O que me tocou — em alegria ou em peso?\n• O que estou evitando dizer?"
 			}
 		},
 		{
@@ -34,15 +74,76 @@
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "2. Reading",
-				"pt-BR": "2. Leitura"
+				"en-US": "Petition for Light",
+				"pt-BR": "Petição de Luzes"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "Read slowly the passage you have chosen for today — a point from Divine Intimacy, the Gospel of the day, or a short passage from Scripture or the saints. Read it with faith, not as information, but as a word addressed to you. One paragraph is enough. The reading awakens the mind so that the heart may follow.",
-				"pt-BR": "Leia devagar o trecho que escolheu para hoje — um ponto de Intimidade Divina, o Evangelho do dia, ou uma breve passagem da Escritura ou dos santos. Leia-o com fé, não como informação, mas como uma palavra dirigida a você. Um parágrafo basta. A leitura desperta a mente para que o coração a siga."
+				"en-US": "Ask the Holy Spirit to enlighten your mind and move your heart. If you wish, call on Our Lady, your guardian angel, and your patron saints.",
+				"pt-BR": "Peça ao Espírito Santo que ilumine sua mente e mova seu coração. Se quiser, invoque Nossa Senhora, seu anjo da guarda e seus santos patronos."
+			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Petition for Light (St. Alphonsus)",
+				"pt-BR": "Petição de Luzes (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My God, by the love of Jesus and Mary, enlighten me in this meditation, that I may profit from it.",
+						"pt-BR": "Meu Deus, pelo amor de Jesus e Maria, esclarecei-me nesta meditação, para que tire proveito dela."
+					}
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "Then a Hail Mary to Our Lady that she may obtain this light for us; and with the same intention a Glory Be to St. Joseph, the Guardian Angel, and our Patron Saint.",
+						"pt-BR": "Depois uma Ave Maria à Santíssima Virgem, afim de que nos obtenha esta luz; e na mesma intenção um Glória ao Pai a São José, ao Anjo da Guarda e ao nosso Santo Protetor."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Reading",
+				"pt-BR": "Leitura"
+			}
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Reading",
+				"pt-BR": "Leitura"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Open your text — today's Gospel, a psalm, a paragraph from *Divine Intimacy*, a line from a spiritual book. Read slowly, as if hearing a word addressed to you.",
+				"pt-BR": "Abra o seu texto — o Evangelho do dia, um salmo, um parágrafo de *Intimidade Divina*, uma linha de um livro espiritual. Leia devagar, como quem ouve uma palavra dirigida a si."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "**Chew the word.** When a word or phrase catches you, stop there. Place it on your lips. Repeat it. Turn it over like food in your mouth. The monks called this *ruminatio* — ruminating the word until you taste its flavor. This is how the word descends from the mind into the heart.",
+				"pt-BR": "**Rumine a palavra.** Quando uma palavra ou frase o tocar, pare ali. Coloque-a nos lábios. Repita-a. Revire-a como um alimento na boca. Os monges antigos chamavam a isto *ruminatio* — ruminar a palavra até sentir-lhe o sabor. É assim que a palavra desce da mente ao coração."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "*Imitate the bees, who linger on a flower while they find honey, and fly to another when it is gone.* (St. Francis de Sales)",
+				"pt-BR": "*Imitai as abelhas, que se demoram numa flor enquanto acham mel, e voam depois para outra.* (São Francisco de Sales)"
 			}
 		},
 		{
@@ -51,22 +152,29 @@
 		{
 			"type": "subheading",
 			"text": {
-				"en-US": "Substantial",
-				"pt-BR": "Partes Substanciais"
+				"en-US": "Meditation",
+				"pt-BR": "Meditação"
 			}
 		},
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "3. Meditation",
-				"pt-BR": "3. Meditação"
+				"en-US": "Considerations",
+				"pt-BR": "Considerações"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "Now reflect. Let the intellect go deeper into what you have read. Ask: what does this reveal of God's love for me? What truth is He showing me today? Let the beautiful thoughts of the point persuade you of His love here and now, so that words of affection begin to arise spontaneously in your heart — and perhaps on your lips. Do not hurry. Meditation is the door; it is not the destination.",
-				"pt-BR": "Agora reflita. Deixe o intelecto aprofundar-se no que leu. Pergunte: o que isto revela do amor de Deus por mim? Que verdade Ele quer mostrar-me hoje? Deixe os belos pensamentos do ponto persuadi-lo do Seu amor aqui e agora, para que palavras de afeto comecem a surgir espontaneamente no seu coração — e talvez nos seus lábios. Não tenha pressa. A meditação é a porta, não o destino."
+				"en-US": "Let the intellect dwell briefly on what you read. No hurry, no analysis — the mind here is only the door.",
+				"pt-BR": "Deixe o intelecto demorar-se brevemente no que leu. Sem pressa, sem análise — o intelecto aqui é apenas a porta."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions:\n• What is He showing me today?\n• What does this reveal of Him, of me?\n• What is He calling me to?",
+				"pt-BR": "Perguntas:\n• O que Ele me mostra hoje?\n• O que isto revela d'Ele, de mim?\n• Para que Ele me chama?"
 			}
 		},
 		{
@@ -75,15 +183,162 @@
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "4. Colloquy",
-				"pt-BR": "4. Colóquio"
+				"en-US": "Affections",
+				"pt-BR": "Afetos"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "This is the heart of prayer. Speak with the Lord freely, heart to Heart, as one friend speaks with another. Tell Him in every way — using whatever comes most spontaneously — that you love Him, that you want to love Him, that you want to progress in His holy love, that you want to prove your love by works, by doing His holy will. Remain here as long as grace sustains you. St. Teresa said: it is here that the soul converses with Him by whom she knows she is loved.",
-				"pt-BR": "Este é o coração da oração. Fale com o Senhor livremente, de coração a Coração, como um amigo fala com outro. Diga-Lhe de todos os modos — usando o que vier com mais espontaneidade — que O ama, que O quer amar, que deseja progredir em Seu santo amor, que deseja provar-Lhe esse amor com as obras, fazendo a Sua santa vontade. Permaneça aqui enquanto a graça o sustentar. Santa Teresa diz: é aqui que a alma fala com Aquele de quem sabe ser amada."
+				"en-US": "Let the heart respond. Love, adoration, gratitude, wonder, sorrow, contrition — whatever rises, welcome it and speak it, even in a whisper. Do not manufacture them; receive and return.",
+				"pt-BR": "Deixe o coração responder. Amor, adoração, gratidão, admiração, tristeza, contrição — o que surgir, acolha e fale, mesmo em sussurro. Não fabrique; receba e devolva."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions to open the heart:\n• What in me wants to say \"thank You\" today?\n• What wants to say \"forgive me\"?\n• What wants to say \"I love You\"?",
+				"pt-BR": "Perguntas para abrir o coração:\n• O que em mim quer dizer \"obrigado\" hoje?\n• O que quer dizer \"perdão\"?\n• O que quer dizer \"eu Te amo\"?"
+			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Acts of love and contrition (St. Alphonsus)",
+				"pt-BR": "Atos de amor e contrição (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "Acts of love",
+						"pt-BR": "Atos de amor"
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My God, I love You above all things.\nI love You with all my heart.\nMake me know what is pleasing to You; I want to do Your will in all things.\nI rejoice that You are infinitely happy.",
+						"pt-BR": "Meu Deus, eu Vos amo sobre todas as coisas.\nEu Vos amo de todo o meu coração.\nFazei-me saber o que é de vosso agrado; quero fazer em tudo a vossa vontade.\nRegozijo-me por serdes infinitamente feliz."
+					}
+				},
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "Brief act of contrition",
+						"pt-BR": "Ato de contrição (breve)"
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Infinite Goodness, it grieves me to have offended You.",
+						"pt-BR": "Bondade infinita, pesa-me de Vos ter ofendido."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Petitions",
+				"pt-BR": "Súplicas"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Ask Him for what you need — a virtue, a grace, the healing of a wound, a good death. Above all, as St. Francis de Sales says, the gift of His holy love — *\"for with love, all graces are obtained.\"* And ask for those He has entrusted to you.",
+				"pt-BR": "Peça-Lhe o que precisa — uma virtude, uma graça, a cura de uma ferida, uma boa morte. Sobretudo, como diz São Francisco de Sales, o dom do seu santo amor — *\"pois com o amor, alcançam-se todas as graças.\"* E peça pelos que Ele lhe confiou."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions:\n• What virtue do I need today?\n• What wound do I ask Him to heal?\n• Whom do I bring to Him — family, the Church, those who suffer, the souls in purgatory?",
+				"pt-BR": "Perguntas:\n• Que virtude preciso hoje?\n• Que ferida peço que Ele cure?\n• Quem preciso levar a Ele — família, Igreja, os que sofrem, as almas do purgatório?"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My God, help me. Lord, have pity on me. My Jesus, mercy!",
+				"pt-BR": "Meu Deus, socorrei-me. Senhor, tende compaixão de mim. Meu Jesus, misericórdia!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Colloquy",
+				"pt-BR": "Colóquio"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Now speak to Him freely, as a friend speaks to a friend — no formula, no prepared words, only the truth of your heart.",
+				"pt-BR": "Agora fala com Ele livremente, como um amigo fala com um amigo — sem fórmula, sem palavras preparadas, só a verdade do teu coração."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "*Mental prayer is nothing else than an intimate sharing between friends — taking time frequently to be alone with Him who we know loves us.* (St. Teresa of Ávila, Life 8,5)",
+				"pt-BR": "*A oração mental nada mais é do que um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.* (Santa Teresa de Ávila, Vida 8,5)"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions:\n• What do I still want to tell You today that I have not said?\n• What part of me has not yet come to the surface in this conversation?\n• What is close to my heart that I can tell only to You?",
+				"pt-BR": "Perguntas:\n• O que eu ainda quero Te dizer hoje que não disse?\n• Que parte de mim ainda não veio à luz desta conversa?\n• O que está perto do meu coração que só a Ti posso contar?"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Resolutions",
+				"pt-BR": "Resoluções"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Before you close, take one resolution. Not general — particular. Not a list — one small fidelity for today.",
+				"pt-BR": "Antes de encerrar, tome uma resolução. Não geral — particular. Não uma lista — uma pequena fidelidade para hoje."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Questions:\n• A word to hold back before I speak it?\n• A habit to soften?\n• A virtue to practice with someone who costs me?\n• A small fidelity to keep?",
+				"pt-BR": "Perguntas:\n• Uma palavra a conter antes de dizê-la?\n• Um hábito a suavizar?\n• Uma virtude a praticar em quem me custa?\n• Uma pequena fidelidade a guardar?"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Silence",
+				"pt-BR": "Silêncio"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "When words give out, rest. Do not produce anything. Let Him look at you, and look at Him in return. Stay as long as grace sustains you — this silent gaze is the summit of the hour.",
+				"pt-BR": "Quando as palavras acabarem, repouse. Não produza nada. Deixe-O olhar para você, e olhe para Ele em retorno. Permaneça enquanto a graça o sustentar — este olhar silencioso é o cume da hora."
 			}
 		},
 		{
@@ -92,30 +347,56 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The three that follow are optional — they help prolong the colloquy. Use them when they come naturally, or close here.",
-				"pt-BR": "As três partes que seguem são facultativas — ajudam a prolongar o colóquio. Use-as quando surgirem naturalmente, ou encerre aqui."
+				"en-US": "**A circle, not a line.** If the heart goes dry, return to your phrase and begin again — consider, respond, ask, converse, resolve, rest. Prayer is a walk around the Lord.",
+				"pt-BR": "**Um círculo, não uma linha.** Se o coração secar, volte à sua frase e comece de novo — considerar, responder, pedir, conversar, resolver, repousar. A oração é uma caminhada ao redor do Senhor."
 			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "**In dryness:** *If nothing comes today — no thought, no feeling — one cry suffices: My Jesus, mercy. My God, I love You. That is already excellent prayer.* (St. Alphonsus Liguori)",
+				"pt-BR": "**Na aridez:** *Se nada vier hoje — nem pensamento, nem sentimento — basta um brado: Meu Jesus, misericórdia. Meu Deus, eu Vos amo. Isto já é oração excelente.* (Santo Afonso de Ligório)"
+			}
+		},
+		{
+			"type": "divider"
 		},
 		{
 			"type": "subheading",
 			"text": {
-				"en-US": "Optional",
-				"pt-BR": "Partes Facultativas"
+				"en-US": "Conclusion",
+				"pt-BR": "Conclusão"
 			}
 		},
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "5. Thanksgiving",
-				"pt-BR": "5. Ação de Graças"
+				"en-US": "Thanksgiving",
+				"pt-BR": "Ação de Graças"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "After telling the Lord you love Him, tell Him your gratitude. Recall His benefits — creation, redemption, the sacraments, the particular graces of your life. Thank Him for this very hour of prayer, whether it has felt consoling or dry. Show yourself grateful.",
-				"pt-BR": "Depois de dizer ao Senhor que O ama, diga-Lhe o seu reconhecimento. Recorde os Seus benefícios — a criação, a redenção, os sacramentos, as graças particulares da sua vida. Agradeça-Lhe por esta mesma hora de oração, tenha sido consoladora ou árida. Mostre-se agradecido."
+				"en-US": "Thank Him for the lights and affections He gave you in this hour, and ask pardon for the distractions and tepidity.",
+				"pt-BR": "Agradeça-Lhe as luzes e afetos que Ele lhe concedeu nesta hora, e peça perdão pelas distrações e tepidezes."
 			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Thanksgiving (St. Alphonsus)",
+				"pt-BR": "Ação de Graças (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Lord, I thank You for the lights and affections You gave me in this meditation, and I ask pardon for the faults I committed in it.",
+						"pt-BR": "Senhor, eu Vos agradeço as luzes e os afetos que me destes nesta meditação e Vos peço perdão das faltas nela cometidas."
+					}
+				}
+			]
 		},
 		{
 			"type": "divider"
@@ -123,16 +404,32 @@
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "6. Offering",
-				"pt-BR": "6. Oferta"
+				"en-US": "Offering of Resolutions",
+				"pt-BR": "Oferecimento das Resoluções"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "Having received so much, seek to repay as you can. Present the Lord with some concrete resolution for today — one small step in fidelity, one virtue to practice, one fault to resist. A single, specific, small resolution is worth more than many good intentions. Offer it to Him.",
-				"pt-BR": "Tendo recebido tanto, procure retribuir no que puder. Apresente ao Senhor alguma resolução concreta para hoje — um pequeno passo de fidelidade, uma virtude a praticar, uma falta a resistir. Uma única resolução, específica e pequena, vale mais do que muitas boas intenções. Ofereça-a a Ele."
+				"en-US": "Offer your resolution to God with the firm will to keep it, cost what it may.",
+				"pt-BR": "Ofereça sua resolução a Deus com a vontade firme de cumpri-la, custe o que custar."
 			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Offering (St. Alphonsus)",
+				"pt-BR": "Oferecimento (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My God, I offer You the resolutions I have taken with Your grace, and I am determined to carry them out, cost what it may.",
+						"pt-BR": "Meu Deus, eu Vos ofereço as resoluções que com a vossa graça acabo de tomar, e resolvido estou a executá-las, custe o que custar."
+					}
+				}
+			]
 		},
 		{
 			"type": "divider"
@@ -140,15 +437,58 @@
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "7. Petition",
-				"pt-BR": "7. Súplica"
+				"en-US": "Final Petition",
+				"pt-BR": "Súplica Final"
 			}
 		},
 		{
-			"type": "meditation",
+			"type": "rubric",
 			"text": {
-				"en-US": "Convinced of your littleness and fragility, implore God's help. Ask for the grace to keep your resolution and to grow in His love. Pray also for those He has entrusted to you — the Church, the Holy Father, your family, those who suffer, the souls in purgatory. Close with an Our Father, entrusting all through Our Lady, who keeps you close to her Son.",
-				"pt-BR": "Convencido da sua pequenez e fragilidade, implore o auxílio de Deus. Peça a graça de manter a sua resolução e de crescer no Seu amor. Reze também por aqueles que Ele lhe confiou — a Igreja, o Santo Padre, a sua família, os que sofrem, as almas do purgatório. Encerre com um Pai Nosso, confiando tudo por Nossa Senhora, que o mantém junto ao seu Filho."
+				"en-US": "Ask the Eternal Father, through the merits of Jesus and the intercession of Mary, for the grace to keep what you have resolved. Commend to Him also the Church, her Pastors, the souls in purgatory, sinners, your family, friends, and benefactors.",
+				"pt-BR": "Peça ao Pai Eterno, pelos merecimentos de Jesus e a intercessão de Maria, a graça de cumprir o que resolveu. Recomende-Lhe também a Santa Igreja, seus Prelados, as almas do purgatório, os pecadores, sua família, amigos e benfeitores."
+			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Final petition (St. Alphonsus)",
+				"pt-BR": "Súplica Final (Santo Afonso)"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My God, through the merits of Jesus Christ and the intercession of Mary Most Holy, give me the strength to faithfully put into practice the resolutions I have made.",
+						"pt-BR": "Meu Deus, pelos merecimentos de Jesus Cristo e pela intercessão de Maria Santíssima, dai-me a força de pôr fielmente em prática as resoluções que tomei."
+					}
+				},
+				{
+					"type": "divider"
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Lord, I commend to You the Holy Church with her Pastors, the souls in purgatory, the conversion of sinners, and all my spiritual and temporal needs as well as those of my family, friends, and benefactors.",
+						"pt-BR": "Senhor, eu Vos recomendo a Santa Igreja, com os seus Prelados, as Almas do Purgatório, a conversão dos pecadores, e todas as minhas necessidades espirituais e temporais bem como as dos meus parentes, amigos e benfeitores."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Spiritual Bouquet",
+				"pt-BR": "Buquê Espiritual"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Following St. Francis de Sales, choose one word, image, or phrase from this meditation to carry with you into the day — a flower from the garden, to smell again in the margins of the afternoon.",
+				"pt-BR": "Seguindo São Francisco de Sales, escolha uma palavra, imagem ou frase desta meditação para levar consigo no dia — uma flor do jardim, para cheirar de novo nas margens da tarde."
 			}
 		},
 		{
@@ -157,6 +497,14 @@
 		{
 			"type": "prayer",
 			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "apostles-creed"
 		}
 	]
 }

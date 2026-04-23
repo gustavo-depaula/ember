@@ -1,15 +1,5 @@
 {
 	"id": "mental-prayer",
-	"alternativeTo": {
-		"id": "mental-prayer",
-		"label": {
-			"en-US": "Ignatian Method",
-			"pt-BR": "Método Inaciano"
-		},
-		"description": {
-			"en-US": "The structured Ignatian method of mental prayer"
-		}
-	},
 	"icon": "prayer",
 	"name": {
 		"en-US": "Mental Prayer",
@@ -21,16 +11,16 @@
 	],
 	"estimatedMinutes": 15,
 	"description": {
-		"en-US": "Mental prayer is a personal, interior conversation with God — distinct from vocal prayer in that it engages the whole soul: memory, intellect, and will. It is the heart of the spiritual life, the furnace from which all apostolic activity draws its fire.",
-		"pt-BR": "A oração mental é uma conversa pessoal e interior com Deus — distinta da oração vocal por envolver toda a alma: memória, intelecto e vontade. É o coração da vida espiritual, a fornalha de onde toda atividade apostólica extrai seu fogo."
+		"en-US": "A conversation with the Friend who already loves you. St. Teresa called prayer 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' Four simple movements — coming before Him, listening, heart to heart, going forth — draw on the great schools: Teresian friendship, Josemaría's conversational voice, Francis de Sales' gentle patience, Alphonsian simplicity.",
+		"pt-BR": "Uma conversa com o Amigo que já o ama. Santa Teresa dizia que a oração é 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Quatro movimentos simples — vir diante d'Ele, escutar, de coração a coração, partir — bebem das grandes escolas: a amizade teresiana, a voz conversacional de Josemaria, a paciência suave de Francisco de Sales, a simplicidade alfonsiana."
 	},
 	"history": {
-		"en-US": "The practice of mental prayer has been central to Catholic spirituality since the desert fathers of the 4th century. St. Teresa of Ávila defined it as 'an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us.' In the Carmelite school, this prayer is taught as recollection, loving attention to God, and a simple colloquy. Fr. Gabriel of St. Mary Magdalen's Divine Intimacy gave this method to generations of ordinary Catholics.",
-		"pt-BR": "A prática da oração mental é central na espiritualidade católica desde os Padres do Deserto no século IV. Santa Teresa de Ávila a definiu como 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Na escola carmelita, essa oração é ensinada como recolhimento, atenção amorosa a Deus e colóquio simples. O Pe. Gabriel de Santa Maria Madalena, em Intimidade Divina, transmitiu esse método a gerações de católicos comuns."
+		"en-US": "Mental prayer has been the heart of Catholic spirituality since the desert fathers. The Church has given us many methods — Ignatian, Sulpician, Carmelite, Salesian, Alphonsian — and all of them are forms of *lectio divina*, the ancient monastic way of praying over the Scriptures. This practice is a simple synthesis of those voices, shaped especially by St. Teresa of Ávila (prayer as friendship), St. Josemaría Escrivá (prayer as conversation), St. Alphonsus Liguori (three simple parts with three organic fruits), and St. Francis de Sales (the bee on the flower, the spiritual bouquet).",
+		"pt-BR": "A oração mental é o coração da espiritualidade católica desde os Padres do Deserto. A Igreja nos legou muitos métodos — inaciano, sulpiciano, carmelita, salesiano, alfonsiano — e todos eles são formas da *lectio divina*, o antigo modo monástico de rezar sobre as Escrituras. Esta prática é uma síntese simples dessas vozes, moldada especialmente por Santa Teresa de Ávila (oração como amizade), São Josemaria Escrivá (oração como conversa), Santo Afonso de Ligório (três partes simples com três frutos orgânicos) e São Francisco de Sales (a abelha na flor, o buquê espiritual)."
 	},
 	"howToPray": {
-		"en-US": "Choose a quiet time and one short subject: a Gospel scene, a line from Divine Intimacy, or a truth of faith. Begin in recollection, consider briefly, move to affection and colloquy, and finish with one concrete resolution. Start with 15 minutes; grow gradually to 30 or more. The goal is not to think many thoughts, but to love much.",
-		"pt-BR": "Escolha um momento tranquilo e um tema breve: uma cena do Evangelho, uma linha de Intimidade Divina ou uma verdade da fé. Comece no recolhimento, considere brevemente, passe ao afeto e ao colóquio, e termine com uma resolução concreta. Comece com 15 minutos; cresça gradualmente para 30 ou mais. O objetivo não é pensar muitas coisas, mas amar muito."
+		"en-US": "Choose a quiet time and a short reading — the Gospel of the day, a psalm, a paragraph from *Divine Intimacy*, or a line from a spiritual book. Come before Him honestly: tell Him where you are today. Listen for a word. Then speak from the heart — let affections, petitions, and resolutions arise as the Spirit moves. When words give out, rest. Carry one phrase into your day as a spiritual bouquet. Fifteen minutes is a solid floor; growth comes naturally. The movements are a circle, not a line — return to the reading whenever the heart runs dry.",
+		"pt-BR": "Escolha um momento tranquilo e uma leitura breve — o Evangelho do dia, um salmo, um parágrafo de *Intimidade Divina*, ou uma linha de um livro espiritual. Venha diante d'Ele com honestidade: diga-Lhe onde você está hoje. Escute uma palavra. Depois fale do coração — deixe afetos, súplicas e resoluções surgirem conforme o Espírito o mover. Quando as palavras acabarem, repouse. Leve uma frase ao longo do dia como buquê espiritual. Quinze minutos são um bom piso; o crescimento vem naturalmente. Os movimentos são um círculo, não uma linha — volte à leitura sempre que o coração secar."
 	},
 	"flowMode": "step",
 	"completion": "flow-end",
@@ -40,7 +30,15 @@
 		"meditation",
 		"contemplation",
 		"mental",
+		"lectio-divina",
+		"scripture",
+		"affective",
+		"conversation",
 		"carmelite",
+		"teresa",
+		"josemaria",
+		"francis-de-sales",
+		"alphonsus",
 		"divine-intimacy",
 		"daily",
 		"morning"

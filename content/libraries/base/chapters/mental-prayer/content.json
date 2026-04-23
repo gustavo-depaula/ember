@@ -2,11 +2,13 @@
   "sections": [
     {
       "type": "heading",
-      "text": { "en-US": "Mental Prayer: The Carmelite Method", "pt-BR": "Oração Mental: o Método Carmelita" }
+      "text": { "en-US": "Mental Prayer", "pt-BR": "Oração Mental" }
     },
     { "type": "prose", "file": "sections/intro" },
     { "type": "divider" },
-    { "type": "prose", "file": "sections/method" },
+    { "type": "prose", "file": "sections/methods" },
+    { "type": "divider" },
+    { "type": "prose", "file": "sections/mental-prayer-method" },
     { "type": "divider" },
     { "type": "prose", "file": "sections/colloquy" },
     { "type": "divider" },

@@ -64,7 +64,7 @@ This profile responds well to **one new practice per month**, not per week. The 
 
 **Weeks 3–4:**
 - Introduce 10 minutes of mental prayer (morning or evening, whichever is calmer).
-- Chapter: `mental-prayer-carmelite-method`.
+- Chapter: `mental-prayer`.
 - Read `plan-of-life` and adopt the app's Plan of Life feature — fill in daily/weekly/monthly norms.
 
 **Month 2+:**
@@ -79,6 +79,6 @@ This profile responds well to **one new practice per month**, not per week. The 
 
 ## Notes for the chapter author
 
-- **Existing chapters already serve this profile well**: `ignatian-examen`, `how-to-pray-the-rosary-well`, `how-to-make-a-good-confession`, `mental-prayer-carmelite-method`, `plan-of-life`.
+- **Existing chapters already serve this profile well**: `ignatian-examen`, `how-to-pray-the-rosary-well`, `how-to-make-a-good-confession`, `mental-prayer`, `plan-of-life`.
 - A new chapter **"Pacing: One Thing at a Time"** — pastoral warning against zeal outrunning strength — could be authored; it is a universal counter-temptation but sits most clearly with this profile.
 - The **`plan-of-life` chapter is the spine** of month-2 content; ensure its cross-links remain accurate as more practices are added to `base`.

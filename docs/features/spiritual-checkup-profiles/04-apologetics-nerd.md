@@ -33,7 +33,7 @@ The soul will feel the ten minutes are unproductive. The ten minutes will be the
 ## What to offer first
 
 - **Ten minutes of silent prayer daily, with a short opening invocation.** Not lectio (too textual). Not meditation in the Ignatian technical sense (too structured for this soul — he will turn it into an essay). Plain silence in God's presence, ideally before the Blessed Sacrament.
-- **`base/chapters/mental-prayer-carmelite-method` for week 2** — *but read it only once*, then set it aside. The Carmelite masters are the gentlest correction for a mind that argues with itself; their method is minimal.
+- **`base/chapters/mental-prayer` for week 2** — *but read it only once*, then set it aside. The Carmelite masters are the gentlest correction for a mind that argues with itself; their method is minimal.
 - **A restriction, not an addition, for reading during the silent time.** Written explicitly in the starter track: "During the 10 minutes, the book stays closed."
 - **Confession weekly or bi-weekly**, not monthly. The apologetics nerd often has a high tolerance for intellectualized sin (pride, disdain, polemical anger, impurity treated as a topic rather than a wound). Short confession cycles surface what argument cannot.
 - **The existing `how-to-make-a-good-confession` and `predominant-fault` chapters** are strong fits. The predominant fault chapter is especially pointed — it warns about the fault hiding under the virtue one is most proud of, which for this profile is a direct correction.
@@ -57,7 +57,7 @@ The soul will feel the ten minutes are unproductive. The ten minutes will be the
 
 **Week 2 — "the method that opposes method":**
 - Same 10 minutes silent.
-- Chapter: `mental-prayer-carmelite-method`.
+- Chapter: `mental-prayer`.
 - Introduce weekly confession as the new rhythm.
 - One very short reading for the week (Brother Lawrence's "First Letter", or one chapter of *Story of a Soul*).
 
