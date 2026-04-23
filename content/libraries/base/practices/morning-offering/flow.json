@@ -41,6 +41,14 @@
 		},
 		{
 			"type": "prayer",
+			"ref": "angele-dei"
+		},
+		{
+			"type": "prayer",
+			"ref": "prayer-st-michael"
+		},
+		{
+			"type": "prayer",
 			"ref": "apostles-creed"
 		},
 		{
@@ -60,17 +68,6 @@
 		{
 			"type": "prayer",
 			"ref": "hail-holy-queen"
-		},
-		{
-			"type": "heading",
-			"text": {
-				"en-US": "To the Guardian Angel",
-				"pt-BR": "Ao Anjo da Guarda"
-			}
-		},
-		{
-			"type": "prayer",
-			"ref": "angele-dei"
 		}
 	]
 }
