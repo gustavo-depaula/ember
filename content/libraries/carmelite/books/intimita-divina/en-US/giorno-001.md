@@ -1,7 +1,7 @@
 ## 1 — THE LORD COMES FROM AFAR
 *1st Sunday of Advent*
 
-**Presence of God.** — *I put myself in his presence to meet him with all the impetus of my will.*
+**Presence of God.** — *The Lord is about to come; I put myself in his presence to meet him with all the impetus of my will.*
 
 ### Meditation
 

@@ -1,6 +1,6 @@
 ## 58 — "I AM IN THE FATHER"
 
-**Presence of God.** — *O Lord, before Your body is disfigured by the Passion, I desire, with Mary of Bethany, to offer it my humble and devout homage.*
+**Presence of God.** — *Grant me, O Jesus, to penetrate the intimate dispositions of Your Soul, in continual personal union with the Father.*
 
 ### Meditation
 

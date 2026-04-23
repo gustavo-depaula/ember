@@ -1,7 +1,7 @@
-## 143 — STAY WITH US
+## II — STAY WITH US
 *Easter Monday*
 
-**Presence of God.** — *— O Jesus, sweet pilgrim, do not leave me; I need you.*
+**Presence of God.** — *O Jesus, sweet pilgrim, do not leave me; I need you.*
 
 ### Meditation
 

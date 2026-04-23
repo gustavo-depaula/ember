@@ -1,7 +1,7 @@
 ## 22 — BEHOLD, THE SAVIOR IS COMING
 *Fourth Sunday of Advent*
 
-**Presence of God.** — *O Jesus, in Your power, in Your infinite love, in Your Passion I place all hope for the souls You have entrusted to me.*
+**Presence of God.** — *I place myself at the feet of Jesus, my Savior, to beg Him to prepare my heart Himself for His imminent coming.*
 
 ### Meditation
 

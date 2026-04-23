@@ -1,4 +1,4 @@
-## 170 — MARIAN LIFE
+## VII — MARIAN LIFE
 
 **Presence of God.** — *O Mary, sweetest Mother, by your humility and your maternal love toward all creatures, make my heart humble.*
 

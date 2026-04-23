@@ -1,4 +1,4 @@
-## 88 — CHASTITY
+## 12 — CHASTITY
 
 **Presence of God.** — *O Jesus, most pure lily, lover of virgins, make me understand the beauty of perfect chastity.*
 
@@ -10,7 +10,7 @@ The grace of baptism has consecrated the Christian's body: it has made it temple
 
 Outside marriage absolute continence is required of all without distinction, that is, abstention from every sensual pleasure; and in marriage conjugal chastity is required, which limits such pleasures to the end of marriage itself. As poverty frees from slavery to earthly goods and regulates their use, so chastity frees from slavery to the senses and moderates their use.
 
-Thus the virtue of chastity is not reserved to souls consecrated to God, but is a serious commitment for every Christian; and bodily chastity is not enough, there is also needed chastity of thoughts, desires, and heart, because Jesus said: "what... comes from the heart, that is what defiles a man. For from the heart come evil thoughts... adulteries" (Mk. 15, 18 and 19).
+Thus the virtue of chastity is not reserved to souls consecrated to God, but is a serious commitment for every Christian; and bodily chastity is not enough, there is also needed chastity of thoughts, desires, and heart, because Jesus said: "what... comes from the heart, that is what defiles a man. For from the heart come evil thoughts... adulteries" (Mt. 15, 18-19).
 
 To be chaste in body, then, it is necessary to be chaste in heart. Jesus insists strongly on this interior purity: "The lamp of your body is your eye: if your eye is sound, your whole body will be full of light; but if your eye is bad, your whole body will be in darkness" (Mt. 6, 22 and 23).
 

@@ -1,7 +1,7 @@
 ## 56 — JESUS WELCOMES ALL
 *Third Sunday after Epiphany*
 
-**Presence of God.** — *I come to You, O Jesus, good Shepherd: lead me to the pastures of eternal life.*
+**Presence of God.** — *O divine Savior, I too am a poor leper; receive me: "if You will, You can cleanse me"!*
 
 ### Meditation
 

@@ -1,4 +1,4 @@
-## 200 — MARY MEDIATRIX
+## XXXI — MARY MEDIATRIX
 
 **Presence of God.** — *O Mary, as Jesus willed to come to us through you, grant that through you I may go to Him.*
 

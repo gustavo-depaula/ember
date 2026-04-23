@@ -2,7 +2,7 @@
 
 *IV domingo depois da Epifania*
 
-**Presença de Deus.** — *Ó Jesus, crucificado por amor de mim, revela-me a vitória alcançada pela tua morte.*
+**Presença de Deus.** — *Ó Senhor, adoro-te escondido na barca de minha alma: se Tu estás comigo, nada temo.*
 
 ### Meditação
 

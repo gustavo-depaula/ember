@@ -1,6 +1,6 @@
 ## 51 — A DOUTRINA DE JESUS
 
-**Presença de Deus.** — *Suplico-te, meu Deus, faze que nada perturbe a minha união contigo.*
+**Presença de Deus.** — *Ó Senhor, venho aos teus pés desejoso de escutar a tua doutrina, que é doutrina de vida eterna.*
 
 ### Meditação
 

@@ -1,4 +1,4 @@
-## 312 — BLESSED ARE THE MEEK
+## XX — BLESSED ARE THE MEEK
 
 **Presence of God.** — *O Holy Spirit, pour ever more into my heart the oil of piety and gentleness.*
 

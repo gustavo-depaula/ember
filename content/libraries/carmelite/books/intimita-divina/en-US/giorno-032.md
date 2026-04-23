@@ -1,7 +1,7 @@
 ## 32 — GLORY TO GOD
 *December 28*
 
-**Presence of God.** — *— I join the choir of angels who sing the glories of the Lord over the hut of Bethlehem.*
+**Presence of God.** — *I join the choir of angels who sing the glories of the Lord over the hut of Bethlehem.*
 
 ### Meditation
 

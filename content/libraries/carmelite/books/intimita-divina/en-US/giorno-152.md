@@ -1,4 +1,4 @@
-## 151 — PRAYER OF RECOLLECTION
+## XIII — PRAYER OF RECOLLECTION
 
 **Presence of God.** — *O my God, may I be able to find you in me, in the little heaven of my soul.*
 

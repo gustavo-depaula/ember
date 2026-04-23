@@ -1,4 +1,4 @@
-## 304 — MEEKNESS
+## XII — MEEKNESS
 
 **Presence of God.** — *O Jesus, meek and humble of heart, make my heart like yours.*
 

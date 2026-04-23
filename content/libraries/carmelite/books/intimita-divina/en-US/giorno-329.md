@@ -1,4 +1,4 @@
-## 329 — APOSTOLIC IDEAL
+## 7 — APOSTOLIC IDEAL
 
 **Presence of God.** — *Kindle in me, Lord, flame of apostolate and nourish it with your love.*
 

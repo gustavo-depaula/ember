@@ -29,7 +29,7 @@ almas consagradas a Deus, mas é um sério compromisso para todo
 cristão; e não basta a castidade do corpo, é necessária também
 a dos pensamentos, dos desejos, do coração, porque Jesus
 disse: "o que... sai do coração, isso é que contamina o homem.
-Do coração, de fato, vêm os maus pensamentos... os adultérios" (Mc. 15, 18 e 19).
+Do coração, de fato, vêm os maus pensamentos... os adultérios" (Mt. 15, 18-19).
 
 Para ser casto de corpo, é portanto necessário ser
 casto de coração. Jesus insiste fortemente nessa pureza

@@ -1,4 +1,4 @@
-## 265 — THE MEASURE OF FRATERNAL CHARITY
+## IV — THE MEASURE OF FRATERNAL CHARITY
 **Presence of God.** — *O Lord, make me understand all the value of Your words: "You shall love your neighbor as yourself" (Mt. 22, 39).*
 
 ### Meditation

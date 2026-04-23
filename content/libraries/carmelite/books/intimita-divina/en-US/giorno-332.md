@@ -1,4 +1,4 @@
-## 332 — APOSTOLIC IMMOLATION
+## 10 — APOSTOLIC IMMOLATION
 
 **Presence of God.** — *O Jesus, immolated for my salvation, grant that I may be worthy to immolate myself with You for salvation of my brethren.*
 

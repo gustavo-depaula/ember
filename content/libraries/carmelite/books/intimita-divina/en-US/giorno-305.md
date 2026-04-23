@@ -1,6 +1,6 @@
-## 305 — SPIRITUAL PROGRESS
+## XIII — SPIRITUAL PROGRESS
 
-**Presence of God.** — *O Lord, grant me to progress each day on the path of holiness, never growing weary and never turning back.*
+**Presence of God.** — *Help me, O Lord, to advance rapidly on the path of virtue.*
 
 ### Meditation
 

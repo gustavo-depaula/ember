@@ -1,4 +1,4 @@
-## 232 — MARY'S VISIT TO ELIZABETH
+## II — MARY'S VISIT TO ELIZABETH
 
 **Presence of God.** — *O my Mother, Most Holy Mary, be always my model, my support, my guide.*
 

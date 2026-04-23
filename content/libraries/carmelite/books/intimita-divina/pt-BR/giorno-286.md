@@ -1,5 +1,5 @@
 ## XXV — JUSTIÇA E RELIGIÃO
-**Presença de Deus.** — *Ó Senhor, tua santa graça me ajude a render-te todo o obséquio de que sou capaz.*
+**Presença de Deus.** — *Faze, ó Senhor, que toda a minha vida seja um contínuo ato de obséquio a ti.*
 
 ### Meditação
 

@@ -1,4 +1,4 @@
-## 153 — RESOLUTE DETERMINATION
+## XVII — RESOLUTE DETERMINATION
 
 **Presence of God.** — *O Lord, make me persevering in prayer, despite the difficulties I may encounter.*
 

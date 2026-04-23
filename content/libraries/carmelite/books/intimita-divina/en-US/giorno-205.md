@@ -1,4 +1,4 @@
-## 205 — MYSTERY OF HOPE
+## V — MYSTERY OF HOPE
 
 **Presence of God.** — *Grant that I may hunger for You, Bread of Angels, pledge of future glory.*
 

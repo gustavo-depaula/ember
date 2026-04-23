@@ -1,4 +1,4 @@
-## 296 — JESUS, OUR LIFE
+## IV — JESUS, OUR LIFE
 *Fifteenth Sunday after Pentecost*
 
 **Presence of God.** — *O Jesus, life of my soul, make me rise each day to a new life of charity and fervor.*

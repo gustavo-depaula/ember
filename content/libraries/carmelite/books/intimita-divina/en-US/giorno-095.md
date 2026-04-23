@@ -1,5 +1,5 @@
-## 95 — DEATH
-**Presence of God.** — *— O Lord, who created me for Yourself, grant that I may live and die for love of You.*
+## 19 — DEATH
+**Presence of God.** — *O Lord, who created me for Yourself, grant that I may live and die for love of You.*
 
 ### Meditation
 

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — «O Espírito Santo que o Pai enviará em meu nome, vos ensinará todas as coisas e vos sugerirá tudo o que vos tenho dito» (Jo 14, 26). Esta promessa de Jesus vale para todo cristão, vale também para nós; o Espírito Santo habita em nossas almas para aconselhar-nos, para recordar-nos os ensinamentos do Senhor e aplicá-los aos casos concretos de nossa vida.
+**1** — «O Espírito Santo que o Pai enviará em meu nome, vos ensinará todas as coisas e vos sugerirá tudo o que vos tenho dito» (Jo. 14, 26). Esta promessa de Jesus vale para todo cristão, vale também para nós; o Espírito Santo habita em nossas almas para aconselhar-nos, para recordar-nos os ensinamentos do Senhor e aplicá-los aos casos concretos de nossa vida.
 
 Mas como poderemos nós, pobres criaturas tão grosseiras e acostumadas à linguagem ruidosa dos homens, perceber o leve murmúrio das sugestões divinas? Deus providenciou isso com um dom especial, o dom do conselho, mediante o qual nossa alma se torna capaz de entender a voz íntima e silenciosa do Espírito Santo, distinguindo-a de todas as outras vozes.
 

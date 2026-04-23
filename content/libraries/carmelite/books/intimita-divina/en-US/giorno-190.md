@@ -1,4 +1,4 @@
-## 190 — THE ACTION OF THE HOLY SPIRIT
+## XXI — THE ACTION OF THE HOLY SPIRIT
 
 **Presence of God.** — *O Holy Spirit, reveal your action in my soul; teach me to recognize it and to follow it.*
 

@@ -1,6 +1,6 @@
-## 147 — PRAYER
+## VII — PRAYER
 
-**Presence of God.** — *— O Lord, I draw near to you to ask for the true spirit of prayer.*
+**Presence of God.** — *O Lord, I draw near to you to ask for the true spirit of prayer.*
 
 ### Meditation
 

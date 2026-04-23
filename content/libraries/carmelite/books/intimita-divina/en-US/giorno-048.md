@@ -1,6 +1,6 @@
 ## 48 — LIVING IN CHRIST
 
-**Presence of God.** — *— Make me understand, O Lord, the sweetness and the responsibility of the great duty You impose on me by communicating Your life to me: to die to myself in order to live in You alone.*
+**Presence of God.** — *Make me understand, O Lord, the sweetness and the responsibility of the great duty You impose on me by communicating Your life to me: to die to myself in order to live in You alone.*
 
 ### Meditation
 
@@ -10,7 +10,7 @@ Born in Christ, we must live in Christ, we must walk in Christ, according to the
 
 **2** — "O God... grant us to become partakers of the divinity of Him who deigned to become partaker of our humanity." We can say that this prayer - which the Church repeats at the Offertory of every Mass - was answered beforehand, because from the day of our baptism we were made partakers of Christ's divinity. But the gift that was given to us without any merit of ours requires our correspondence. "Recognize, O Christian, your dignity" - exclaims St. Leo - "and, having become a partaker of the divine nature, do not wish, by an unworthy manner of life, to return to your former baseness. Remember of what Head and of what Body you are a member."
 
-Everything that is sin, that is fault or voluntary negligence, dishonors Christ our Head, grieves the Holy Spirit who dwells in us. But the soul consecrated to God cannot be content with avoiding sin; it must be concerned with making Christ's life grow in it. In natural life we grow even without the cooperation of our will, but in the life of grace it is not so: without our cooperation, it can remain in us still at an initial stage after twenty, thirty, fifty years from our baptism, after hundreds of confessions and communions. And then, what monstrous disproportion! Adults and perhaps old according to nature, we continue to be children according to grace.
+Everything that is sin, that is fault or voluntary negligence, dishonors Christ our Head, grieves the Holy Spirit who dwells in us. But the soul consecrated to God cannot be content with avoiding sin; it must be concerned with making Christ's life grow in it. In natural life we grow even without the cooperation of our will, but in the life of grace it is not so: without our cooperation, it can remain in us still at an initial stage after twenty, thirty years from our baptism, after hundreds of confessions and communions. And then, what monstrous disproportion! Adults and perhaps old according to nature, we continue to be children according to grace.
 
 We must grow in Christ; Christ must grow in us. Let the Baptist's word become our program: "that He may increase and that I may decrease" (Jn. 3, 30); here are the demands of the development of grace in us: to put to death "the old man," with his bad habits, his faults, his imperfections, so that Christ's life may grow in us unto perfect age.
 

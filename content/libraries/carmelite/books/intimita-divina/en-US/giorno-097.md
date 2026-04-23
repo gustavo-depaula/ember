@@ -1,5 +1,5 @@
-## 97 — THE SPIRIT OF MORTIFICATION
-**Presence of God.** — *— I return to Your feet, O Jesus crucified, with the desire to understand more deeply the spirit of mortification.*
+## 21 — THE SPIRIT OF MORTIFICATION
+**Presence of God.** — *I return to Your feet, O Jesus crucified, with the desire to understand more deeply the spirit of mortification.*
 
 ### Meditation
 

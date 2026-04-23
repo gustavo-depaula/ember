@@ -1,4 +1,4 @@
-## 171 — MARY'S HUMILITY
+## VIII — MARY'S HUMILITY
 
 **Presence of God.** — *O Mary, most humble among all creatures, make my heart humble.*
 
@@ -16,4 +16,4 @@ The most beautiful qualities and gifts, as likewise penance, poverty, virginity,
 
 O most humble Mother, make me humble, so that the Lord may deign to turn his gaze upon me. There is nothing in my soul that can attract Him: nothing sublime, nothing worthy of his complacency, nothing truly good and virtuous; and if there is some good, it is so mixed with miseries, so weak and defective that it does not deserve even this name. What then, O Lord, can draw your grace upon my poor soul? "Upon whom do You cast your gaze, if not upon the humble and the one contrite of spirit?" (cf. Is. 66, 2). O Lord, grant then that I may be this humble one; make me humble through the merits of your most humble Mother.
 
-"O Mary, if You had not been humble, the Holy Spirit would not have descended upon you and You would not have become mother..." (cf. St. Bernard). So, if I am not humble, the Lord will not grant me his grace, the Holy Spirit will not work in me. O most humble Mother, make me humble!
+"O Mary, if You had not been humble, the Holy Spirit would not have descended upon you and You would not have become mother..." (cf. St. Bernard). So, if I am not humble, the Lord will not grant me his grace, the Holy Spirit will not descend upon me, and my life will remain sterile and unfruitful. Grant, then, O Holy Virgin, that your humility, so pleasing to God, may obtain for me the pardon of my pride and a truly humble heart.

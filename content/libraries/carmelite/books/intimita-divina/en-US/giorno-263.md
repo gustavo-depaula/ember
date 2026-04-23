@@ -1,6 +1,6 @@
-## 263 — THE MOTIVE OF FRATERNAL CHARITY
+## II — THE MOTIVE OF FRATERNAL CHARITY
 
-**Presence of God.** — *O Mother, who so greatly loved men, teach me to fulfill perfectly the precept of fraternal charity.*
+**Presence of God.** — *O Lord, teach me to love You in my neighbor and to love my neighbor in You and for You.*
 
 ### Meditation
 

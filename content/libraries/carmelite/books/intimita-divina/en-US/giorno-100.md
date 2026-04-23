@@ -1,4 +1,4 @@
-## 100 — SIN
+## 24 — SIN
 **Presence of God.** — *O Jesus crucified, make me understand the great malice of sin.*
 
 ### Meditation

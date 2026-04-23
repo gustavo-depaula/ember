@@ -1,4 +1,4 @@
-## 338 — RIGHT INTENTION
+## 16 — RIGHT INTENTION
 
 **Presence of God.** — *O God, tear from my heart every secondary intention, every movement of self-love, so that I may seek only your glory.*
 
@@ -44,4 +44,4 @@ Walking this path, the apostle will find in his work an excellent means of spiri
 
 «Therefore I do not want earthly advantages, and I do not care to please men; nor do I judge myself to know any person or anything other than You, Christ crucified.
 
-«O Lord, so intoxicate me with your love that whatever else is offered to my sight or taste, hearing or any other sense—anything but You—I may consider as nothing, so that I may find delight, glory, and rest only in your Blood. Let my eyes be filled not with earthly things but with your suffering; let my mouth be filled not with vain words but with your Passion ...»
+«O Lord, so intoxicate me with your love that whatever else is offered to my sight or taste, hearing or any other sense—anything but You—I may consider as nothing, so that I may find no delight, no glory, no rest save in your Blood, to which I wish to be totally turned. Grant that my eyes may be filled not with earthly things but with your suffering; grant that my mouth may be filled not with vain words but with your Passion, and likewise all my other senses» *(cf. St. Bonaventure)*.

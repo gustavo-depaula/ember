@@ -1,4 +1,4 @@
-## 217 — THE SACRED HEART AND THE EUCHARIST
+## XVII — THE SACRED HEART AND THE EUCHARIST
 
 **Presence of God.** — *Sacred Heart of Jesus, teach me to live with You through the Sacrament of your love.*
 

@@ -91,6 +91,10 @@ a Deus torna-se forte da fortaleza dele.
 
 ### Colóquio
 
+"Os meus olhos estão sempre voltados para ti, ó Deus, porque Tu podes desatar meus pés do laço do mal. Volta-te para mim e tem piedade de mim, porque sozinho e miserável estou. Guarda a minha alma e salva-me; faze que eu não tenha de corar de ter recorrido a ti" (Sl. 24, 15-20).
+
+"Ó Trindade eterna, ó alta e eterna Trindade, Tu nos deste o doce e amoroso Verbo. Ó doce e amoroso Verbo, Filho de Deus, assim como a nossa natureza é fraca e apta a todo mal, assim a tua natureza é forte e apta a todo bem, porque a recebeste do teu eterno e onipotente Pai. Portanto Tu, doce Verbo, fortaleceste a nossa débil natureza unindo-te a ela; por essa união a nossa natureza é fortalecida, porque em virtude do teu Sangue remove-se a nossa fraqueza. E somos também fortalecidos pela tua doutrina, porque o homem que a segue na verdade, revestindo-se dela perfeitamente, torna-se tão forte e apto ao bem, que quase perde a rebelião da carne contra o espírito e pode vencer todo mal. Portanto Tu, Verbo eterno, tiraste a fraqueza da nossa natureza com a fortaleza da natureza divina, que recebeste do Pai; e essa fortaleza nos deste mediante o Sangue e a doutrina.
+
 "Ó Sangue doce, Tu fortaleces a alma, Tu a iluminas,
 em ti ela se torna angélica, Tu a envolves de tal modo
 com o fogo da tua caridade que ela se esquece de todo de si e

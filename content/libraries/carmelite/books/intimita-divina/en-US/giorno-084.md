@@ -1,7 +1,7 @@
-## 84 — THE DIVINE SEED
+## 8 — THE DIVINE SEED
 *Sunday of Sexagesima*
 
-**Presence of God.** — *— O Lord, here I am before You: may my heart be the good soil ready to receive and make Your word bear fruit.*
+**Presence of God.** — *O Lord, here I am before You: may my heart be the good soil ready to receive and make Your word bear fruit.*
 
 ### Meditation
 

@@ -1,4 +1,4 @@
-## 322 — GOING TOWARD THE HOLY SPIRIT
+## XXX — GOING TOWARD THE HOLY SPIRIT
 
 **Presence of God.** — *Come, Holy Spirit, take hold of me by your action and lead me to God.*
 

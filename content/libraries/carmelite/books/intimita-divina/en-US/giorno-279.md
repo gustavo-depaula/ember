@@ -1,4 +1,4 @@
-## 279 — PRUDENT JUDGMENT
+## XVIII — PRUDENT JUDGMENT
 **Presence of God.** — *Help me, O Lord, to judge things rightly, so that I may then act rightly.*
 
 ### Meditation

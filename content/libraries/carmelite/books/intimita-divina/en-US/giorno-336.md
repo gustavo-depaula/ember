@@ -1,4 +1,4 @@
-## 336 — THE FORMATION OF APOSTLES
+## 14 — THE FORMATION OF APOSTLES
 
 **Presence of God.** — *Accept, Lord, my poor prayer for the coming of your kingdom.*
 
@@ -44,4 +44,4 @@ One must always maintain balance between prayer and work so that the apostle doe
 
 «And second, that once they have entered this struggle, You sustain them with your hand, so that they may guard themselves from all dangers of the world and cross this stormy sea with ears closed to the song of the sirens. If with You, my God, I can do anything in this, behold I too fight for your glory, although enclosed in solitude.
 
-«I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me ...»
+«I beseech You, Lord, hear me. As for me, I will never cease to implore You, despite my great misery: it is a question of your glory and the good of your Church, and toward this all my desires converge. On the day when my prayers, disciplines, desires, and fasts were not employed for what I have said, I would not attain the end for which You, O Lord, have called me to the contemplative life» *(cf. T.G. Way of Perfection 1, 2; 3, 2-10)*.

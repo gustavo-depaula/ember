@@ -1,4 +1,4 @@
-## 161 — LITURGICAL PRAYER
+## XXVI — LITURGICAL PRAYER
 
 **Presence of God.** — *O Jesus, Head of the Mystical Body, grant that by praying with the Church I may unite myself to your prayer.*
 
@@ -22,4 +22,4 @@ In this way the liturgy becomes the great track of our prayer life and offers it
 
 O Jesus, who seated at the right hand of the Father continually intercede for us, deign to absorb my very poor prayer into your great prayer.
 
-"O Jesus, grant me to adore the Father 'in spirit and truth'; grant me therefore to adore Him through You and in union with You, because You alone are the true Adorer in spirit and truth" (cf. E.T. I, 9).
+"O Jesus, grant me to adore the Father 'in spirit and truth'; grant me therefore to adore Him through You and in union with You, because You alone are the true Adorer in spirit and truth" (cf. E.T. I, 9). You alone are the true One who prays, whose prayer and adorations are perfectly worthy of the infinite Majesty. You alone are the perfect praise of the Most Holy Trinity; but to this praise You want to associate your Spouse the Church, my Mother, and You want to associate even me, your member and child of the Church. Grant therefore that, by participating in the prayer of the Church, I may also participate in your prayer. Do not look upon the smallness of my personal prayer, but see it associated with the sublime and unceasing prayer of your Spouse; see it united to the perennial choir of praises and supplications that, from all the shores of the earth, your priests, the souls consecrated to You, and all your elect continually raise to your throne. And grant that in this magnificent choir my voice may not be a discordant note; help me therefore to pray with a true spirit of piety, with an attentive and devout heart, so that the heart may always accompany the movement of the lips, and the interior sentiment vivify every gesture, every chant, every word.

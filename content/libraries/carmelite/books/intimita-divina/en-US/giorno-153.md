@@ -1,4 +1,4 @@
-## 153 — ARIDITY
+## XIV — ARIDITY
 **Presence of God.** — *O Lord, help me to be faithful to Thee, that the spirit of prayer may not be quenched in me through any fault of mine.*
 
 ### Meditation

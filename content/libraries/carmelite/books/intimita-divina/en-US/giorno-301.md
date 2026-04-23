@@ -1,4 +1,4 @@
-## 301 — PERSEVERANCE AND TRUST
+## IX — PERSEVERANCE AND TRUST
 
 **Presence of God.** — *O Lord, increase my trust in your help, and grant that in this trust I may always find courage to begin again.*
 

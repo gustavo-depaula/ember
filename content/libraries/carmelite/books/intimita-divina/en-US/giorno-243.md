@@ -1,4 +1,4 @@
-## 243 — OMNIPOTENCE
+## XIII — OMNIPOTENCE
 
 **Presence of God.** — *O omnipotent God, put into act your infinite omnipotence to convert me totally to your love.*
 

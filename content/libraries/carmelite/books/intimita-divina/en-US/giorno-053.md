@@ -1,6 +1,6 @@
 ## 53 — JESUS, MASTER OF HOLINESS
 
-**Presence of God.** — *O crucified Jesus, through the merits of Your Cross, teach me to carry my cross each day.*
+**Presence of God.** — *I always have need of You, divine Master, for You alone are holy and can teach me the true way of holiness.*
 
 ### Meditation
 

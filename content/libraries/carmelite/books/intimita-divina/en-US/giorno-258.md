@@ -1,4 +1,4 @@
-## 258 — THE EXCELLENCE OF CHARITY
+## XXVIII — THE EXCELLENCE OF CHARITY
 
 **Presence of God.** — *Make me understand, O Lord, the primacy of charity, so that I may commit myself to it with all my heart.*
 

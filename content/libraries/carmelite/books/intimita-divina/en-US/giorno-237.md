@@ -1,4 +1,4 @@
-## 237 — INFINITE WISDOM
+## VII — INFINITE WISDOM
 
 **Presence of God.** — *My God, infinite wisdom, enlighten my mind and teach me the secret of true wisdom.*
 
@@ -10,7 +10,7 @@ Divine wisdom is first of all perfect knowledge of God.
 
 No creature, not even angels and the blessed in heaven, can know God so as to exhaust the infinite greatness of his being. God alone knows Himself perfectly; only divine wisdom can penetrate the infinite depth of his essence and mysteries. For us, so incapable of knowing God as He is, it is immense joy to contemplate the infinite wisdom that penetrates all divine mysteries; it is immense comfort to invoke it and entrust ourselves to it that it may be our light and our guide in the knowledge of God.
 
-Divine wisdom is, then, perfect knowledge of all that exists. No error can be in it, which is eternal and immutable truth. No thing can be hidden or mysterious to it because it made all things and therefore knows them down to their innermost essence. And there is nothing new it must learn because from eternity it sees all in an eternal present, and nothing, however minimal, can escape its most splendid light: "even the hairs of your head are all counted," Jesus said (Mk. 10:30). God knows us far better than we know ourselves: all the most secret movements of our heart, even those that escape our control, are perfectly manifest to Him. Let us ask Him to make us know ourselves in his light, in his eternal truth.
+Divine wisdom is, then, perfect knowledge of all that exists. No error can be in it, which is eternal and immutable truth. No thing can be hidden or mysterious to it because it made all things and therefore knows them down to their innermost essence. And there is nothing new it must learn because from eternity it sees all in an eternal present, and nothing, however minimal, can escape its most splendid light: "even the hairs of your head are all counted," Jesus said (Mt. 10, 30). God knows us far better than we know ourselves: all the most secret movements of our heart, even those that escape our control, are perfectly manifest to Him. Let us ask Him to make us know ourselves in his light, in his eternal truth.
 
 **2** — Divine wisdom knows all things in God, in relation to Him who is their first cause. It sees all things dependent on God and ordered by Him to his glory. Therefore it does not judge things according to their outward appearances, but solely according to the value, place, and meaning they have before God. The judgments of divine wisdom are therefore immensely distant from our short human judgments which stop at the pure materiality of things: "O depth of the riches and wisdom and knowledge of God," exclaims St. Paul, "how incomprehensible are his judgments and unsearchable his ways!" (Rom. 11:33). And for us they are all the more incomprehensible the more we are accustomed to judge things from the point of view opposite to that of divine wisdom.
 

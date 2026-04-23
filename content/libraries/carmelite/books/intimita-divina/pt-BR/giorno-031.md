@@ -2,7 +2,7 @@
 
 *27 dezembro*
 
-**Presença de Deus.** — *Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.*
+**Presença de Deus.** — *Recolho-me aos pés da pobre manjedoura: contemplo o Menino Jesus desejando que Ele me ensine a retribuir o seu amor.*
 
 ### Meditação
 

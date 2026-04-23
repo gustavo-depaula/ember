@@ -1,4 +1,4 @@
-## 227 — THE GLORY OF THE MOST HOLY TRINITY
+## XXVII — THE GLORY OF THE MOST HOLY TRINITY
 
 **Presence of God.** — *O Most Holy Trinity, who created me for your glory, grant that I may give You all the glory of which I am capable.*
 

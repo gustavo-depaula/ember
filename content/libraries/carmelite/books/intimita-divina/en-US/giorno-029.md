@@ -1,11 +1,11 @@
 ## 29 — THE SAVIOR HAS APPEARED
 *December 25*
 
-**Presence of God.** — *My God, who created me for Yourself, grant that I may return to You and be united to You in love.*
+**Presence of God.** — *Here I am at the feet of my God made flesh, made a child for love of me! I adore, I give thanks, I love!*
 
 ### Meditation
 
-i — God is charity, God has loved us with an eternal love!
+**1** — God is charity, God has loved us with an eternal love!
 "It seems the Lord said: man does not love me because he does not see me; I want to let myself be seen by him, and so to make myself loved. Divine love toward man was too great and had always been so ab aeterno; but this love had not yet appeared... Then it truly appeared when the Son of God was seen as a little child in a stable, on a little straw" (St. Alphonsus). Here is the Christmas mystery; here is St. Paul's exultant cry: "The grace of God, our Savior, has appeared to all men... The goodness and love for men of God our Savior appeared" (Ep. in II Mass: Tit. 2, 11-15; 3, 4-7). Here is the blessed announcement "of great joy" that the Angel brings to the shepherds: "Today a Savior is born to you, who is Christ the Lord" (Gospel I Mass: Lk. 2, 1-11). In today's liturgy, the texts follow one another in a tone of growing exultation to praise the sweetest Child Jesus, the Word made man, living and throbbing among us: "Whom did you see, shepherds? Tell us, announce to us: who has appeared on earth? We have seen the Child, and choirs of angels praising the Lord" (BR.). "Let the heavens rejoice, and let all the earth exult in the presence of the Lord!" (MR.). Our God is here, among us, made one of us: "A Child is born for us, a Son is given to us... His name is: Admirable, God, Prince of peace, Father of the age to come... Exult, daughter of Zion, sing, daughter of Jerusalem... Shout to the Lord, inhabitants of the earth! Come, O nations, and adore the Lord" (BR.).
 
 Come, then, adore, listen, rejoice: Jesus, the Father's Word, tells us a great word: God loves you!

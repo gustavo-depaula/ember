@@ -1,4 +1,4 @@
-## 206 — MYSTERY OF LOVE
+## VI — MYSTERY OF LOVE
 
 **Presence of God.** — *O Jesus, grant me to recognize and respond to your infinite love that moved You to make Yourself our food and our drink.*
 

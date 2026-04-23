@@ -1,4 +1,4 @@
-## 103 — THE TRANSFIGURATION
+## 29 — THE TRANSFIGURATION
 *Second Sunday of Lent*
 
 **Presence of God.** — *O Jesus, may Your grace triumph in me until it makes me worthy to share in Your glorious Transfiguration.*

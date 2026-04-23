@@ -1,4 +1,4 @@
-## 219 — REMAINING IN CHRIST
+## XIX — REMAINING IN CHRIST
 
 **Presence of God.** — *O Jesus, teach me not only to live with You, but to live in You, to remain in You.*
 

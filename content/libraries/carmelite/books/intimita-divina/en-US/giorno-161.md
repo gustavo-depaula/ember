@@ -1,7 +1,7 @@
-## 157 — PILGRIMS OF GOD
+## XXII — PILGRIMS OF GOD
 *Third Sunday after Easter*
 
-**Presence of God.** — *— Grant, O Lord, that earthly things may not hold my heart so as to prevent me from aspiring to heaven.*
+**Presence of God.** — *Grant, O Lord, that earthly things may not hold my heart so as to prevent me from aspiring to heaven.*
 
 ### Meditation
 

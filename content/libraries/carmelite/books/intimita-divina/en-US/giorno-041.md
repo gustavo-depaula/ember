@@ -1,7 +1,7 @@
 ## 41 — EPIPHANY
 *January 6*
 
-**Presence of God.** — *— O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.*
+**Presence of God.** — *O little Jesus, in You I recognize the King of heaven and earth: grant that I may adore You with the faith and love of the Magi.*
 
 ### Meditation
 

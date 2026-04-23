@@ -37,7 +37,7 @@ de amor e gozo e deleite nupcial» (ibid., 28, 10).
 
 «Como a esposa não em outros repõe o seu amor, o seu pensamento, a sua obra, senão no
 seu esposo, assim fazei, ó Senhor, que a minha alma não tenha nem afetos de vontade, nem
-cognição de intelecto, nem solicitações, nem apetites que não sejam volos a Vós.
+cognição de intelecto, nem solicitações, nem apetites que não sejam voltados a Vós.
 
 «Fazei que não saiba fazer outra coisa senão amar-Vos, Esposo divino. E vendo que nada
 Vós apreciais, nem de nada Vos comprazeis fora do amor, ajudai-me a aplicar-me toda no
@@ -50,7 +50,7 @@ No operar, quero fazer cada coisa com amor, e no padecer, quero sofrer tudo com 
 amor.
 
 «Fazei que possa repetir-Vos juntamente com a esposa dos Cânticos: 'Todos os pomos
-velhos e novos os guardei para Vós'. Como se dissesse: ó meu Diletto, desejo para mim e
+velhos e novos os guardei para Vós'. Como se dissesse: ó meu Amado, desejo para mim e
 por amor Vosso tudo o que é áspero e fatigante, e tudo o que é suave e desejoso para
 Vós» (G.C.C. 27, 7 e 8; 28, 2-10).
 

@@ -1,5 +1,5 @@
-## 274 — GENTLENESS
-**Presence of God.** — *O Mary, sweetest Mother, I want to live with you as a child lives with his own mother.*
+## XIII — GENTLENESS
+**Presence of God.** — *O Lord, who are sweet and gentle, teach me gentleness of heart, the suavity of manner.*
 
 ### Meditation
 

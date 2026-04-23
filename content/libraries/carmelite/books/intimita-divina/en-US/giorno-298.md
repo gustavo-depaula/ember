@@ -1,4 +1,4 @@
-## 298 — THE EXERCISE OF PATIENCE
+## VI — THE EXERCISE OF PATIENCE
 **Presence of God.** — *Give me, O Lord, greater patience, so that I may suffer more for love of You.*
 
 ### Meditation

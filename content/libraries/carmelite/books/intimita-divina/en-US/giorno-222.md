@@ -1,4 +1,4 @@
-## 222 — BEFORE THE TRINITY
+## XXII — BEFORE THE TRINITY
 
 **Presence of God.** — *O Most Holy Trinity, may consideration of your mystery produce in me deep humility, blind faith, and ardent love.*
 

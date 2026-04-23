@@ -1,4 +1,4 @@
-## 182 — IN EXPECTATION
+## XIII — IN EXPECTATION
 
 *Sunday within the Octave of the Ascension*
 

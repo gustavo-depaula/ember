@@ -1,5 +1,5 @@
 ## XIII — A DOÇURA
-**Presença de Deus.** — *Ó Maria, Mãe dulcíssima, quero viver contigo como um filho vive com sua mãe.*
+**Presença de Deus.** — *Ó Senhor, que és doce e suave, ensina-me a doçura do coração, a suavidade no trato.*
 
 ### Meditação
 

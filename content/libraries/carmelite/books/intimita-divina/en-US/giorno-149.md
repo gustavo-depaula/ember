@@ -1,6 +1,6 @@
-## 149 — MEDITATIVE READING
+## X — MEDITATIVE READING
 
-**Presence of God.** — *— O Lord, teach me to seek you even when the heart is arid and the mind distracted.*
+**Presence of God.** — *O Lord, teach me to seek you even when the heart is arid and the mind distracted.*
 
 ### Meditation
 
@@ -16,6 +16,10 @@ It is important to choose a book suitable for meditation, as in general are the 
 
 ### Colloquy
 
-O Lord, teach me to seek you! Do not hide yourself from my gaze, for I need to find you, to converse with you, to draw near to you, Infinite Love, to be inflamed and drawn by you.
+O Lord, teach me to seek You! Do not hide Yourself from my gaze, for I need to find You, to converse with You, to draw near to You, Infinite Love, to be inflamed and drawn by You.
 
-"Then shall I, dust and ashes, speak to you, my Lord? Yes, from this valley of tears, from this exile, I shall raise my eyes and fix them on you. And as faithful servants and handmaids run at every slight sign from their masters, so I feel my heartbeats: may it please You to send me your Spirit, that from on high He may come to my aid" (cf. T.J. Excl. 7, 1 and 3; Way 6, 9).
+"Then shall I, dust and ashes, speak to You, my Lord? Yes, from this valley of tears, from this place of exile, I dare to raise my eyes and fix them on You, supreme Goodness! And, as faithful servants and handmaids attentively watch every slight gesture of their masters, so I keep my gaze fixed on Your hands, O Lord, and as a suppliant beg You to show me mercy.
+
+"Good God, have mercy on me, the work of Your hands. O Lord, of myself I am incapable of forming any good thought, but all my sufficiency comes from You; nor can I worthily invoke Your name without the help of the Holy Spirit; therefore I beg You to send me Your Spirit, so that from on high He may shed upon me the rays of His light. Come, O most sweet Spirit; come, O Father of the poor; come, dispenser of graces; come, light of hearts; come, best Consoler, sweet Guest and refreshment of our souls. You are rest in toil, dew in aridity, consolation in weeping. O most blessed Light! fill all the innermost parts of my heart" (cf. St. Peter of Alcantara).
+
+O Lord, enlighten my mind, for without Your light, without Your Spirit, even the most devout books will leave me cold and arid and will not be able to speak to me of You. When, on the other hand, You come to my aid and grant me Your interior grace, then everything is illumined with a new light and even the simplest words serve to nourish my soul. Grant me, therefore, O Lord, this grace, without which no reading, however sublime, can inspire me with devotion, no reasoning, however elevated, is capable of moving my heart to love You and my will to do good.

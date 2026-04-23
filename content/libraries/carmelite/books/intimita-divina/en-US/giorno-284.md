@@ -1,4 +1,4 @@
-## 284 — HUNGER AND THIRST FOR JUSTICE
+## XXIII — HUNGER AND THIRST FOR JUSTICE
 **Presence of God.** — *Give me, O Lord, a deep and effective desire for justice, so that I may draw near to You, infinite justice.*
 
 ### Meditation

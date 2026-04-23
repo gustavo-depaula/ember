@@ -1,4 +1,4 @@
-## 240 — FRUITS OF LIFE
+## X — FRUITS OF LIFE
 *Seventh Sunday after Pentecost*
 
 **Presence of God.** — *Help me, O Lord, not to be content with words, but to produce fruits of holiness.*

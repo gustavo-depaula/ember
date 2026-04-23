@@ -1,4 +1,4 @@
-## 306 — THE GIFT OF FEAR
+## XIV — THE GIFT OF FEAR
 
 **Presence of God.** — *O Lord, grant that I may fear only one thing: to displease You and separate myself from You.*
 

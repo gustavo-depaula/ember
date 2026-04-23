@@ -1,4 +1,4 @@
-## 250 — HOPE
+## XX — HOPE
 
 **Presence of God.** — *O Lord, make my hope steadfast, for whoever hopes in You will never be confounded.*
 

@@ -1,4 +1,4 @@
-## 326 — SENTIR COM CRISTO
+## 4 — SENTIR COM CRISTO
 
 **Presença de Deus.** — *Ó Jesus, faze que eu possa nutrir pelas almas sentimentos semelhantes aos do teu Coração divino.*
 
@@ -24,7 +24,7 @@ Deste modo, também quando usar meios humanos, também quando se ocupar de quest
 
 À fé o apóstolo deve unir uma ardente caridade, porque o contato com Deus e a afinidade com seu amor realizam-se justamente pela via do amor. A caridade, pela força de intuição que lhe é própria, permitirá ao apóstolo penetrar mais a fundo o mistério da Redenção, saborear a doce realidade do Amor infinito que nele se manifesta e o impelirá a viver em íntima comunhão com esse Amor de que deve ser colaborador e instrumento.
 
-Então seu exemplo e suas palavras darão testemunho de verdades não só cridas em teoria, mas vividas na prática, saboreadas e experimentadas no contato íntimo com Deus. Então o apóstolo poderá afirmar com São João: «Nós conhecemos e cremos na caridade que Deus tem por nós» (1Jo 4, 16), e ainda: «Aquilo que vimos com nossos olhos, aquilo que contemplamos e que nossas mãos tocaram do Verbo da vida... disso damos testemunho... disso vos anunciamos» (1Jo 1, 1-3).
+Então seu exemplo e suas palavras darão testemunho de verdades não só cridas em teoria, mas vividas na prática, saboreadas e experimentadas no contato íntimo com Deus. Então o apóstolo poderá afirmar com São João: «Nós conhecemos e cremos na caridade que Deus tem por nós» (1 Jo. 4, 16), e ainda: «Aquilo que vimos com nossos olhos, aquilo que contemplamos e que nossas mãos tocaram do Verbo da vida... disso damos testemunho... disso vos anunciamos» (1 Jo. 1, 1-3).
 
 Mediante a fé e o amor, o apóstolo chegará a uma afinidade espiritual cada vez maior com o mistério da Redenção e com Jesus, que é seu grande Ator; poderá fazer seus os sentimentos de Jesus segundo a palavra de São Paulo: «Tende em vós os mesmos sentimentos que havia também em Cristo Jesus» (Fl. 2, 5).
 

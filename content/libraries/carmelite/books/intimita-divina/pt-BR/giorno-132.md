@@ -14,7 +14,7 @@ Se se entende tudo isto como se amaria a cruz!
 
 ### Colóquio
 
-«Ó Senhor, o caminho da cruz é aquele que Tu reservas a teus dileitos: mais os amas e mais os carregas de trabalhos... pois Tu admites à tua intimidade apenas almas amantes dos padecimentos. Se me perguntasses qual prefiro destas duas coisas: permanecer na terra até o fim do mundo, em meio a toda sorte de trabalhos, e depois subir ao céu com um pouco mais de glória; ou ir logo ao céu sem o sofrimento, mas com um grau de glória a menos, aceitaria de bom grado todos os tormentos do mundo, para ter a mais aquele pouco de glória que me permite compreender-te melhor. Vejo, infatti, ó Senhor, que quem melhor te compreende, melhor te ama e melhor te louva.
+«Ó Senhor, o caminho da cruz é aquele que Tu reservas a teus dileitos: mais os amas e mais os carregas de trabalhos... pois Tu admites à tua intimidade apenas almas amantes dos padecimentos. Se me perguntasses qual prefiro destas duas coisas: permanecer na terra até o fim do mundo, em meio a toda sorte de trabalhos, e depois subir ao céu com um pouco mais de glória; ou ir logo ao céu sem o sofrimento, mas com um grau de glória a menos, aceitaria de bom grado todos os tormentos do mundo, para ter a mais aquele pouco de glória que me permite compreender-te melhor. Vejo, com efeito, ó Senhor, que quem melhor te compreende, melhor te ama e melhor te louva.
 
 «Não, não quero fazer pouco caso de penas que findam, quando intervém teu serviço, quando se trata de honrar-te, a ti, que tanto padeste por nós.
 

@@ -1,4 +1,4 @@
-## 209 — FEAST OF THE SACRED HEART OF JESUS
+## IX — FEAST OF THE SACRED HEART OF JESUS
 *Friday after the octave of Corpus Domini*
 
 **Presence of God.** — *O Jesus, grant me to penetrate the secrets hidden in your divine Heart.*

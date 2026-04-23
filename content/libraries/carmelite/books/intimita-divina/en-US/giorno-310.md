@@ -1,4 +1,4 @@
-## 310 — FRATERNAL UNION
+## XVIII — FRATERNAL UNION
 *Seventeenth Sunday after Pentecost*
 
 **Presence of God.** — *My God, grant me grace to preserve union with neighbor in the bond of charity and peace.*

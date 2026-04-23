@@ -1,4 +1,4 @@
-## 259 — THE ACT OF LOVE
+## XXIX — THE ACT OF LOVE
 
 **Presence of God.** — *O Lord, grant that I may love You for Yourself and not for my consolation; grant that, loving You, I may always seek your will and not mine.*
 

@@ -1,4 +1,4 @@
-## 327 — THE SOUL OF APOSTOLATE
+## 5 — THE SOUL OF APOSTOLATE
 
 **Presence of God.** — *Make me understand, O Lord, that only union with You, only love, can make every apostolate fruitful.*
 

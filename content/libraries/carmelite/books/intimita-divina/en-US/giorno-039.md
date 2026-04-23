@@ -1,7 +1,7 @@
 ## 39 — JESUS FIRSTBORN OF ALL CREATURES
 *January 4*
 
-**Presence of God.** — *— Give me light, O Lord Jesus, to discover Your ineffable greatnesses as Son of God through Your most humble appearance as Child.*
+**Presence of God.** — *Give me light, O Lord Jesus, to discover Your ineffable greatnesses as Son of God through Your most humble appearance as Child.*
 
 ### Meditation
 
@@ -84,7 +84,7 @@ Lord Jesus, who could fully understand Your
 majesty as absolute master of earth and heaven?
 
 "My hope, Christ God, sweet lover of men,
-light, way, life, salvation, honor and glory of all Your
+light, life, life, salvation, honor and glory of all Your
 servants, You live forever, reigning now and for all ages...
 You are my living and true God; my holy Father; my pious
 Lord, the great King, the good Shepherd, my only Teacher, most excellent helper; my guide to the homeland, my straight way...

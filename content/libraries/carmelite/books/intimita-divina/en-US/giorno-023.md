@@ -1,6 +1,6 @@
 ## 23 — INVITATION TO THE APOSTOLATE
 
-**Presence of God.** — *— I place myself in the presence of Jesus, Head of the Mystical Body of the Church, so that He may teach me to collaborate with Him in the salvation of souls.*
+**Presence of God.** — *I place myself in the presence of Jesus, Head of the Mystical Body of the Church, so that He may teach me to collaborate with Him in the salvation of souls.*
 
 ### Meditation
 

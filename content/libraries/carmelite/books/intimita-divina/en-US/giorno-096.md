@@ -1,5 +1,5 @@
-## 96 — PROOF OF LOVE
-**Presence of God.** — *— O Jesus crucified, deign to make me understand how the Cross is the greatest proof of love.*
+## 20 — PROOF OF LOVE
+**Presence of God.** — *O Jesus crucified, deign to make me understand how the Cross is the greatest proof of love.*
 
 ### Meditation
 

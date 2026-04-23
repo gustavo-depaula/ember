@@ -1,4 +1,4 @@
-## 235 — INFINITE GOODNESS
+## V — INFINITE GOODNESS
 
 **Presence of God.** — *O my God, You who alone are good, deign to clothe me in your goodness.*
 

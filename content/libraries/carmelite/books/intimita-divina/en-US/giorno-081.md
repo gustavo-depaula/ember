@@ -1,6 +1,6 @@
-## 81 — THE WAY OF NOTHINGNESS
+## 5 — THE WAY OF NOTHINGNESS
 
-**Presence of God.** — *— Show me, O Lord, the narrow way that leads to true life, that leads to union with You.*
+**Presence of God.** — *Show me, O Lord, the narrow way that leads to true life, that leads to union with You.*
 
 ### Meditation
 

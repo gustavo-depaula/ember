@@ -1,4 +1,4 @@
-## 181 — THE GROWTH OF CHARITY IN MARY
+## XII — THE GROWTH OF CHARITY IN MARY
 
 **Presence of God.** — *O Mary, teach me the secret of growing continually in charity.*
 

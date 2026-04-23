@@ -1,4 +1,4 @@
-## 297 — FORTITUDE AND PATIENCE
+## V — FORTITUDE AND PATIENCE
 **Presence of God.** — *Teach me, O Lord, to bear with firmness and patience whatever makes me suffer.*
 
 ### Meditation

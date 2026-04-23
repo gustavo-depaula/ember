@@ -1,4 +1,4 @@
-## 214 — REPARATION
+## XIV — REPARATION
 
 **Presence of God.** — *Heart of Jesus, wounded for our love, make me worthy to repair the wounds our sins have inflicted on You.*
 

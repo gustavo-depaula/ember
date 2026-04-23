@@ -1,4 +1,4 @@
-## 255 — CHARITY
+## XXV — CHARITY
 
 **Presence of God.** — *O Lord, grant that through charity I may truly share in your life of love.*
 

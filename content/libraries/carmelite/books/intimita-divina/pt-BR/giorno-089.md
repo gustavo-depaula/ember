@@ -73,7 +73,7 @@ que os entulham inutilmente, com o perigo de fazer chegar
 à alma impressões menos puras, menos santas.
 
 
-seria como deixar as portas da própria casa abertas a qualquer invasão. Os sentidos são as portas
+Quem, sem necessidade, quer tudo ver, tudo ouvir, tudo experimentar, é semelhante a quem deixa as portas da própria casa abertas a qualquer invasão. Os sentidos são as portas
 da alma; é preciso guardá-los para não pôr em risco o
 tesouro da castidade.
 

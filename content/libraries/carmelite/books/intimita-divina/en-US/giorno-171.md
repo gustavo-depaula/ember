@@ -1,4 +1,4 @@
-## 165 — HANDMAID OF THE LORD
+## II — HANDMAID OF THE LORD
 
 **Presence of God.** — *O Mary, you who declared yourself the handmaid of the Lord, teach me to place my whole life and my strength at his service.*
 

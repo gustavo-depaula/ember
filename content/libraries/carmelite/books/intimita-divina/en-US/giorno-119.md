@@ -1,7 +1,7 @@
-## 117 — THE MULTIPLICATION OF THE LOAVES
+## 43 — THE MULTIPLICATION OF THE LOAVES
 *Fourth Sunday of Lent*
 
-**Presence of God.** — *— O Jesus, true bread of eternal life, satisfy my hunger.*
+**Presence of God.** — *O Jesus, true bread of eternal life, satisfy my hunger.*
 
 ### Meditation
 

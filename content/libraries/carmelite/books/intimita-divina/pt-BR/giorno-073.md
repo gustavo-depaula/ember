@@ -1,5 +1,7 @@
 ## 73 — A PENITÊNCIA
 
+*(Nota: não tratamos aqui da Eucaristia, pois ela é amplamente tratada no volume IV. Quanto à penitência, o assunto é completado no volume II pela meditação "A confissão".)*
+
 **Presença de Deus.** — *Ó Jesus, que vais em busca do filho pródigo, não desprezes o meu coração arrependido e humilhado, mas purifica-o no banho salutar do teu preciosíssimo Sangue.*
 
 ### Meditação
@@ -18,4 +20,4 @@
 
 "Ó fonte do amor, ó amantíssimo Senhor Jesus Cristo, Tu superabundas de tanta e tão inefável bondade que, sempre amando-nos, nos prevines; se te buscamos, a nós te apresentas e nos vens ao encontro; Tu amas e tua imensa caridade se estende até os inimigos. A ninguém recusas dar-te; a ninguém desprezas, mas a todos chamas e recebes com rosto amigo. Tua caridade é tão imensa e exuberante que aqueles que miseravelmente jaziam no pecado Tu esperas em penitência e muitas vezes, embora se rebelem, os forças a voltar.
 
-"Digna-te, portanto, ajudar-me, ó misericordiosíssimo Senhor Jesus Cristo, fogo e luz de amor; acende e ilumina meu coração duro e rebelde ao teu amor, para que, com teu auxílio, eu me doa, por teu amor, dos meus pecados; faça penitência; entregue-me com coração puro, humilde e amante à prática das obras que te agradam, para que, prevenido, assistido e seguido por tua graça, viva na vida presente do teu amor e, terminada esta, obtenha, por tua misericórdia, a vida eterna para amar-te na glória" (Ven. Raimundo Jordão).
+"Digna-te, portanto, ajudar-me, ó misericordiosíssimo Senhor Jesus Cristo, fogo e luz de amor; acende e ilumina meu coração duro e rebelde ao teu amor, para que, com teu auxílio, eu me doa, por teu amor, dos meus pecados; faça penitência; entregue-me com coração puro, humilde e amante à prática das obras que te agradam, para que, prevenido, assistido e seguido por tua graça, viva na vida presente do teu amor e, terminada esta, obtenha, por tua misericórdia, a vida eterna para amar-te na glória" (Ven. Raimundo Jordão, antigo autor conhecido na literatura ascética sob o pseudônimo de "Idiota").

@@ -1,4 +1,4 @@
-## 80 — A ESSÊNCIA DO DESPRENDIMENTO
+## 4 — A ESSÊNCIA DO DESPRENDIMENTO
 
 **Presença de Deus.** — *Ó Senhor, faz-me compreender em que consiste esse desprendimento total que exiges da alma que quer chegar à união contigo.*
 

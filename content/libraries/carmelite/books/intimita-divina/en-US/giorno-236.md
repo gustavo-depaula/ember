@@ -1,4 +1,4 @@
-## 236 — INFINITE GOODNESS DIFFUSES ITSELF
+## VI — INFINITE GOODNESS DIFFUSES ITSELF
 
 **Presence of God.** — *O infinite Goodness, who unceasingly communicate Yourself to your creatures, teach me to imitate You.*
 

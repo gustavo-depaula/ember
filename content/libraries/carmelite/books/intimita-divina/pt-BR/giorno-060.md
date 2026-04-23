@@ -1,6 +1,6 @@
 ## 60 — JESUS E A VONTADE DO PAI
 
-**Presença de Deus.** — *Ó Jesus da Paixão, faze que na tua Paixão eu possa ler o teu amor por mim.*
+**Presença de Deus.** — *Ó Jesus, ensina-me a seguir-te na tua vida de total, perfectíssima adesão à vontade do Pai.*
 
 ### Meditação
 

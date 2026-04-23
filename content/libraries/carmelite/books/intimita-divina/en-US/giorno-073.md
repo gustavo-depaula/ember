@@ -1,5 +1,7 @@
 ## 73 — PENANCE
 
+*(Note: the Eucharist is not treated here, being handled at length in Volume IV. As for penance, this subject is completed in Volume II by the meditation "Confession.")*
+
 **Presence of God.** — *O Jesus, who go in search of the prodigal son, do not despise my repentant and humbled heart, but purify it in the saving bath of Your most precious Blood.*
 
 ### Meditation
@@ -18,4 +20,4 @@
 
 "O sweetest loving Jesus Christ! You overflow with such ineffable goodness that always, in loving us, You go before us; if we seek You, You present Yourself to us and come to meet us; You love, and Your immense charity extends even to enemies. To no one do You refuse to give Yourself; no one do You despise, but all You call and receive with friendly face. Your charity is so immense and overflowing that those who wretchedly lay in sin You await for penance and often, though they rebel, You force them to return.
 
-"Deign, therefore, to help me, most merciful Lord Jesus Christ, fire and light of love; kindle and illumine my hard and rebellious heart against Your love, so that, with Your help, I may grieve, for love of You, over my sins; may do penance for them; may give myself with pure, humble, loving heart to practicing works pleasing to You, so that, prevented, assisted, and followed by Your grace, I may live in this present life by Your love and, when it ends, obtain by Your mercy eternal life to love You in glory" (Ven. Raymond Jordan).
+"Deign, therefore, to help me, most merciful Lord Jesus Christ, fire and light of love; kindle and illumine my hard and rebellious heart against Your love, so that, with Your help, I may grieve, for love of You, over my sins; may do penance for them; may give myself with pure, humble, loving heart to practicing works pleasing to You, so that, prevented, assisted, and followed by Your grace, I may live in this present life by Your love and, when it ends, obtain by Your mercy eternal life to love You in glory" (Ven. Raymond Jordan, known in ascetical literature under the pseudonym "Idiota").

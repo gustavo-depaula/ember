@@ -1,4 +1,4 @@
-## 281 — DILIGENCE
+## XX — DILIGENCE
 **Presence of God.** — *O Lord, make me diligent in your service, prompt and ready for all my duties.*
 
 ### Meditation

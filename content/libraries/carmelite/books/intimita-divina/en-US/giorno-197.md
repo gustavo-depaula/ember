@@ -1,4 +1,4 @@
-## 197 — VIRTUES AND GIFTS
+## XXVIII — VIRTUES AND GIFTS
 
 **Presence of God.** — *Teach me, O Holy Spirit, to remain in an attitude of continual listening to your inspirations, of continual dependence on your impulses.*
 

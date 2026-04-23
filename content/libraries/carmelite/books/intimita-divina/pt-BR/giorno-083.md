@@ -88,4 +88,4 @@ e caducos e buscar, ao contrário, os bens estáveis e eternos.
 que se confessa diante de ti, o pensamento de que qualquer alegria
 possa fazê-lo feliz. Existe, com efeito, uma alegria que não
 é concedida aos ímpios, mas àqueles que desinteressadamente
-te honram, e Tu és a alegria deles. E vida bem-aventurada é precisamente esta: alegrar-se em ti, de ti, por ti; esta e não outra. Quem pensa que há outra alegria..."
+te honram, e Tu és a alegria deles. E vida bem-aventurada é precisamente esta: alegrar-se em ti, de ti, por ti; esta e não outra. Quem pensa que há outra alegria persegue uma alegria diferente e não verdadeira" (S. Agostinho).

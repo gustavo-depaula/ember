@@ -1,4 +1,4 @@
-## 323 — O ZELO PELAS ALMAS
+## 1 — O ZELO PELAS ALMAS
 
 **Presença de Deus.** — *Ó Jesus, que te entregaste pela salvação do mundo, acende em meu coração um grande zelo pela salvação das almas.*
 
@@ -6,7 +6,7 @@
 
 **1** — À medida que o amor de Deus toma posse de nossos corações, faz nascer e alimentar neles um amor cada vez maior pelo próximo, amor que, sendo sobrenatural, visa sobretudo ao bem sobrenatural dos nossos semelhantes e se torna, por isso, zelo pela salvação das almas.
 
-Se amamos pouco a Deus, amaremos pouco também as almas; e, vice-versa, se nosso zelo pelas almas é fraco, quer dizer que igualmente fraco é nosso amor por Deus. Com efeito, como seria possível amar muito a Deus sem amar muito aqueles que são filhos seus, que são objeto de seu amor, de seus cuidados, de seu zelo? As almas são, por assim dizer, o tesouro de Deus; Ele as criou à sua imagem e semelhança num ato de amor; Ele as redimiu no Sangue de seu Unigênito num ato de amor maior ainda. «Deus amou tanto o mundo que deu seu Filho unigênito, para que todo aquele que nele crer não pereça, mas tenha a vida eterna» (Jo 3, 16).
+Se amamos pouco a Deus, amaremos pouco também as almas; e, vice-versa, se nosso zelo pelas almas é fraco, quer dizer que igualmente fraco é nosso amor por Deus. Com efeito, como seria possível amar muito a Deus sem amar muito aqueles que são filhos seus, que são objeto de seu amor, de seus cuidados, de seu zelo? As almas são, por assim dizer, o tesouro de Deus; Ele as criou à sua imagem e semelhança num ato de amor; Ele as redimiu no Sangue de seu Unigênito num ato de amor maior ainda. «Deus amou tanto o mundo que deu seu Filho unigênito, para que todo aquele que nele crer não pereça, mas tenha a vida eterna» (Jo. 3, 16).
 
 Quem penetrou o mistério do amor de Deus pelos homens não pode ficar indiferente à sua sorte: à luz da fé compreendeu que toda a ação de Deus no mundo visa ao bem deles, à sua felicidade eterna, e quer de algum modo tomar parte nessa ação, certo de não poder fazer coisa mais grata a Deus do que prestar sua humilde colaboração à salvação daqueles que lhe são tão caros.
 

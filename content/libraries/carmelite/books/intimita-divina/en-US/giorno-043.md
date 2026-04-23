@@ -1,6 +1,6 @@
 ## 43 — JESUS TRUE VINE
 
-**Presence of God.** — *— Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.*
+**Presence of God.** — *Make me understand, O Lord, the intimate relationships existing between You, Redeemer, and us, Your redeemed.*
 
 ### Meditation
 

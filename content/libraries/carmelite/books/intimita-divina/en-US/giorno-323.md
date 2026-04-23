@@ -1,4 +1,4 @@
-## 323 — ZEAL FOR SOULS
+## 1 — ZEAL FOR SOULS
 
 **Presence of God.** — *O Jesus, who gave Yourself for salvation of world, kindle in my heart great zeal for salvation of souls.*
 

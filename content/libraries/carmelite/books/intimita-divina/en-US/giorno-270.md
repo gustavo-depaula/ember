@@ -1,4 +1,4 @@
-## 270 — THE MANTLE OF CHARITY
+## IX — THE MANTLE OF CHARITY
 **Presence of God.** — *O Lord, teach me to cover with the mantle of charity the defects and errors of others.*
 
 ### Meditation

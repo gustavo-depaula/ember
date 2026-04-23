@@ -1,4 +1,4 @@
-## 330 — AS VÁRIAS FORMAS DE APOSTOLADO
+## 8 — AS VÁRIAS FORMAS DE APOSTOLADO
 
 **Presença de Deus.** — *Ó Jesus, ensina-me a rezar, a sofrer, a trabalhar contigo pela salvação das almas.*
 

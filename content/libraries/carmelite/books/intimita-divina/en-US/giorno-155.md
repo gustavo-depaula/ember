@@ -1,4 +1,4 @@
-## 155 — ARIDITY AND PROGRESS
+## XVI — ARIDITY AND PROGRESS
 **Presence of God.** — *O Lord, help me to seek You and to unite myself with You, even through the aridity and powerlessness of the spirit.*
 
 ### Meditation

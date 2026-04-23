@@ -1,4 +1,4 @@
-## 215 — THE HEART OF JESUS OUR MODEL
+## XV — THE HEART OF JESUS OUR MODEL
 
 **Presence of God.** — *Sacred Heart of Jesus, teach me to model the movements of my heart on those of yours.*
 

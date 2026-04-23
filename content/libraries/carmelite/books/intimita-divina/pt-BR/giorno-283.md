@@ -1,6 +1,6 @@
 ## XXII — A JUSTIÇA
 
-**Presença de Deus.** — *Dá-me, ó Senhor, um desejo profundo e eficaz de justiça, para que eu possa aproximar-me de ti, justiça infinita.*
+**Presença de Deus.** — *Ensina-me, ó Senhor, a amar a justiça e a odiar tudo o que se lhe opõe.*
 
 ### Meditação
 

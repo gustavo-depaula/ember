@@ -1,12 +1,10 @@
 ## XVII — BEM-AVENTURADOS OS QUE TÊM FOME
 
-**Presença de Deus.** — Ó Espírito Santo, extingue em mim a fome das coisas terrenas e aumenta a fome das coisas celestes.
+**Presença de Deus.** — *Sob o impulso do dom da fortaleza, torna-te em mim uma alma faminta e sedenta de justiça.*
 
 ### Meditação
 
-**1** — Quando o Espírito Santo se apodera de uma alma e a toma totalmente sob seu governo, comunica-lhe uma fortaleza invencível, arrebatadora, capaz de enfrentar qualquer obstáculo e suportar qualquer sofrimento. E, como é próprio do forte não contentar-se com pouco, mas aspirar a grandes coisas, assim, à medida que o Espírito Santo fortifica a alma, faz nascer nela desejos cada vez maiores de justiça, de virtude, de santidade, desejos tão vivos e impelentes que bem podem chamar-se fome e sede.
-
-Sob o impulso do dom da fortaleza, a alma torna-se faminta e sedenta de justiça; eis por que ao dom da fortaleza corresponde a bem-aventurança: «Bem-aventurados os que têm fome e sede de justiça, porque serão saciados» (Mt. 5, 6). O vocábulo justiça deve ser entendido aqui no sentido mais amplo de perfeição, de santidade, de doação total a Deus e às almas.
+**1** — A alma: o dom da fortaleza faz nascer nela desejos cada vez maiores de justiça, de virtude, de santidade, desejos tão vivos e impelentes que bem podem chamar-se fome e sede. Sob o impulso do dom da fortaleza, a alma torna-se faminta e sedenta de justiça; eis por que ao dom da fortaleza corresponde a bem-aventurança: «Bem-aventurados os que têm fome e sede de justiça, porque serão saciados» (Mt. 5, 6). O vocábulo justiça deve ser entendido aqui no sentido mais amplo de perfeição, de santidade, de doação total a Deus e às almas.
 
 E é precisamente neste sentido que o Espírito Santo impele a alma, mostrando-lhe horizontes cada vez mais vastos, convidando-a a obras cada vez mais perfeitas, a doações cada vez mais generosas e profundas. Esta alma não pode reservar mais nada para si: o Espírito Santo não lhe permite; deve dar-se toda: «a caridade de Cristo me constrange» (2Cor. 5, 14), repete com São Paulo. Nela há uma sede ardente da vontade de Deus, que busca como o avarento busca o ouro; há uma sede ardente de santidade, de modo que não tolera em si mesma a mínima incorrespondência à graça; há uma sede ardente das almas, pelas quais não cessa de gastar-se sem poupar-se; há uma sede ardente da glória de Deus, pela qual, totalmente esquecida de seu repouso, está sempre pronta a empreender novos sacrifícios e fadigas.
 

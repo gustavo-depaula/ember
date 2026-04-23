@@ -8,17 +8,17 @@
 
 Justamente porque o apóstolo está, mais ou menos, colocado no candelabro, precisa mais que os outros proteger o espírito dos fumos do orgulho e da vanglória por meio de profunda humildade.
 
-Percorrendo o Evangelho, é significativo constatar quanto Jesus insistiu nesse ponto na formação de seus Apóstolos. Quando discutiam sobre quem seria o maior no reino messiânico, o Mestre respondeu: «Se não vos converterdes e não vos tornardes como crianças, não entrareis no reino dos céus» (Mt 18,3).
+Percorrendo o Evangelho, é significativo constatar quanto Jesus insistiu nesse ponto na formação de seus Apóstolos. Quando discutiam sobre quem seria o maior no reino messiânico, o Mestre respondeu: «Se não vos converterdes e não vos tornardes como crianças, não entrareis no reino dos céus» (Mt. 18,3).
 
-Noutra ocasião semelhante, quando a mãe de Tiago e João pedia os primeiros lugares para os filhos, replicou: «Quem entre vós quiser ser o primeiro seja vosso servo» (Mt 20,27). E na noite da Última Ceia, ao lavar-lhes os pés, mostrou até onde os apóstolos devem fazer-se servos: «Se eu, Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros» (Jo 13,14).
+Noutra ocasião semelhante, quando a mãe de Tiago e João pedia os primeiros lugares para os filhos, replicou: «Quem entre vós quiser ser o primeiro seja vosso servo» (Mt. 20,27). E na noite da Última Ceia, ao lavar-lhes os pés, mostrou até onde os apóstolos devem fazer-se servos: «Se eu, Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros» (Jo. 13,14).
 
-Enfim, antes de enviá-los à sua vinha para produzir «frutos abundantes», declarou repetidamente: «Sem mim nada podeis fazer» (Jo 15,5).
+Enfim, antes de enviá-los à sua vinha para produzir «frutos abundantes», declarou repetidamente: «Sem mim nada podeis fazer» (Jo. 15,5).
 
 Sim, os apóstolos são amigos de Jesus, por Ele escolhidos e destinados a evangelizar o mundo, por Ele prepostos ao governo da Igreja, revestidos da dignidade sacerdotal e do poder de ligar e desligar; ou, se não clérigos, elevados à dignidade de colaboradores da Hierarquia, também chamados a cooperar na salvação das almas. Mas na base de todos esses privilégios e honras estão as grandes palavras: é preciso fazer-se pequeno como criança; sem mim nada podeis fazer.
 
 Ah, se estivéssemos realmente convencidos de que, embora Deus queira servir-se de nós, só Ele tem poder de tornar fecunda nossa ação, só Ele pode produzir frutos de vida eterna, só Ele pode dar a graça às almas, e nós não somos senão instrumentos, tanto mais aptos para a salvação alheia quanto mais nos fazemos pequenos reconhecendo nossa indigência!
 
-Que mérito pode reclamar um pincel porque um bom pintor se serviu dele para fazer uma obra-prima? Que mérito pode reclamar o mármore usado por Michelangelo para esculpir seu Moisés? «Não fostes vós que me escolhestes; fui eu que vos escolhi e vos destinei para irdes e dardes fruto» (Jo 15,16).
+Que mérito pode reclamar um pincel porque um bom pintor se serviu dele para fazer uma obra-prima? Que mérito pode reclamar o mármore usado por Michelangelo para esculpir seu Moisés? «Não fostes vós que me escolhestes; fui eu que vos escolhi e vos destinei para irdes e dardes fruto» (Jo. 15,16).
 
 **2** — «Sem mim nada podeis fazer»; diante dessas palavras, quantas ambições, quantos pontos de honra, quantas complacências vãs de si, quantas pretensões de aplauso, quantos desejos de promoção e reconhecimento do próprio valor se quebram como ondas contra os rochedos!
 
@@ -34,7 +34,7 @@ Eis a atitude que todo apóstolo deve assumir. Aliás, quanto mais alta, importa
 
 Se Deus não se serve de nós para realizar obras grandes, não será talvez porque, não estando suficientemente convencidos do nosso nada, poderíamos roubar-lhe a glória, atribuindo o sucesso ao nosso mérito? Se nossa atividade apostólica dá poucos frutos, não será talvez porque, confiando demais em nós mesmos, não nos preocupamos bastante em manter-nos unidos a Deus por meio da humildade e da oração?
 
-«Permanecei em mim» — repete-nos Jesus. «Como o ramo não pode dar fruto por si mesmo... assim também vós, se não permanecerdes em mim» (Jo 15,4). Não basta que o apóstolo permaneça unido a Jesus pelo estado de graça; deve permanecer também por profunda humildade, que lhe faz sentir que não pode fazer nada, absolutamente nada, sem seu auxílio contínuo.
+«Permanecei em mim» — repete-nos Jesus. «Como o ramo não pode dar fruto por si mesmo... assim também vós, se não permanecerdes em mim» (Jo. 15,4). Não basta que o apóstolo permaneça unido a Jesus pelo estado de graça; deve permanecer também por profunda humildade, que lhe faz sentir que não pode fazer nada, absolutamente nada, sem seu auxílio contínuo.
 
 ### Colóquio
 

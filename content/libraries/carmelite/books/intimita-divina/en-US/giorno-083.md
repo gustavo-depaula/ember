@@ -1,4 +1,4 @@
-## 83 — THE NIGHT OF THE SENSES
+## 7 — THE NIGHT OF THE SENSES
 
 **Presence of God.** — *O Lord, strengthen my desire to come to You, that I may have the courage to face for love of You the total purification of my sensibility.*
 
@@ -81,4 +81,4 @@ and passing goods, and seek instead stable and eternal goods.
 who confesses before You, the thought that any joy
 could make him happy. For there is in fact a joy not
 granted to the wicked, but to those who disinterestedly
-honor You, and You are their joy. And blessed life is precisely this: to rejoice in You, of You, for You; this and no other. Whoever thinks there is another joy..."
+honor You, and You are their joy. And blessed life is precisely this: to rejoice in You, of You, for You; this and no other. Whoever thinks there is another joy pursues a different joy, and not the true one" (St. Augustine).

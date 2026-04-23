@@ -1,7 +1,7 @@
 ## 33 — PEACE TO MEN
 *December 29*
 
-**Presence of God.** — *— I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).*
+**Presence of God.** — *I place myself at the feet of the Child Jesus to consider in recollection the song of the angels: "Peace on earth to men of good will" (Lk. 2, 14).*
 
 ### Meditation
 
@@ -17,7 +17,7 @@ repairing the offense of sin, He reconciles man with his Creator and establishes
 Something similar takes place in our daily life: whoever observes the divine law enjoys peace; but we can also say: whoever observes the divine law gives glory to
 God. To the peace of men corresponds perfectly the
 glory of God. It is a matter, however, of that peace that comes only from
-God, from His grace, and which we would vainly seek elsewhere.
+Jesus, from His grace, and which we would vainly seek elsewhere.
 
 "Peace is the tranquility of order." Order is established by law, by the divine will: whoever fully respects
 

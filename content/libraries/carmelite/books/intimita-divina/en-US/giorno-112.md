@@ -1,7 +1,7 @@
-## 110 — THE STRENGTH OF JESUS
+## 36 — THE STRENGTH OF JESUS
 *Third Sunday of Lent*
 
-**Presence of God.** — *— O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.*
+**Presence of God.** — *O Jesus, divine Strong One, I come to You to seek support for my weakness, my infirmity.*
 
 ### Meditation
 
@@ -87,6 +87,10 @@ guarantee of victory over evil, because whoever is united
 to God becomes strong with His strength.
 
 ### Colloquy
+
+"My eyes are ever toward You, O God, because You can free my feet from the snare of evil. Turn to me and have mercy on me, for I am alone and poor. Guard my soul and save me; let me not be ashamed that I have had recourse to You" (Ps. 24, 15-20).
+
+"O eternal Trinity, O high and eternal Trinity, You gave us the sweet and loving Word. O sweet and loving Word, Son of God, just as our nature is weak and prone to all evil, so Your nature is strong and fit for all good, because You received it from Your eternal and omnipotent Father. Therefore You, sweet Word, strengthened our weak nature by uniting Yourself to it; through this union our nature is strengthened, because by virtue of Your Blood our weakness is taken away. And we are also strengthened by Your doctrine, because the man who truly follows it, clothing himself in it perfectly, becomes so strong and fit for good that he almost loses the rebellion of the flesh against the spirit and can overcome every evil. Therefore You, eternal Word, took away the weakness of our nature with the strength of the divine nature which You received from the Father; and this strength You gave to us through Your Blood and Your doctrine.
 
 "O sweet Blood, You strengthen the soul, You enlighten it,
 in You it becomes angelic. You overshadow it so

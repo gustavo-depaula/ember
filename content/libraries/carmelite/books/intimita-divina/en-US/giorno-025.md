@@ -1,6 +1,6 @@
 ## 25 — APOSTOLIC ACTION
 
-**Presence of God.** — *Inflame me, O Lord, with Your holy zeal so that I may not know how to tolerate in myself even the smallest thing that displeases You.*
+**Presence of God.** — *I place myself in the presence of Jesus to learn from Him, the first and only Apostle, what qualities my action must have so that it may truly benefit souls.*
 
 ### Meditation
 

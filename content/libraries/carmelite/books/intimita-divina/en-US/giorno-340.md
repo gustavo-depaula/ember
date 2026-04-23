@@ -1,4 +1,4 @@
-## 340 — HUMILITY IN APOSTOLATE
+## 18 — HUMILITY IN APOSTOLATE
 
 **Presence of God.** — *O Lord, imprint in me so deep a sense of my poverty that all the good I do I may expect from You and attribute every good to You alone.*
 

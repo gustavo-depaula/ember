@@ -1,4 +1,4 @@
-## 218 — UNSHAKABLE TRUST
+## XVIII — UNSHAKABLE TRUST
 *Fourth Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, make me understand well that by myself I am nothing and can do nothing, and what I can do I can do only in You.*

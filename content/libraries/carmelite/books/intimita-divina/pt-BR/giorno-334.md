@@ -18,7 +18,7 @@ Nem os sustentadores das várias atividades apostólicas podem colocar-se uns ac
 
 Do amor com que cada um desempenha os próprios encargos e, ao mesmo tempo, permanece unido aos outros apóstolos, sempre pronto a apoiar e favorecer as obras alheias, resulta precisamente o bem universal da Igreja, bem para o qual o apóstolo deve tender acima de toda obra ou interesse pessoal.
 
-**2** — Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt 28,19-20).
+**2** — Esta colaboração no apostolado compete antes de tudo aos Pastores, sucessores diretos dos Apóstolos, aos quais Jesus confiou oficialmente o mandato de evangelizar o mundo: «Ide, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo, ensinando-as a observar tudo quanto vos ordenei» (Mt. 28,19-20).
 
 Ao lado deste apostolado hierárquico, reservado aos clérigos, há o dos leigos, que a Igreja convida a colaborar com a Hierarquia. Os Pastores guiam, governam, traçam as linhas; sob sua direção, os fiéis são chamados a oferecer sua obra.
 

@@ -1,4 +1,4 @@
-## 321 — BEM-AVENTURADOS OS PACÍFICOS
+## XXIX — BEM-AVENTURADOS OS PACÍFICOS
 
 **Presença de Deus.** — *Ó Espírito Santo, ajuda-me a estabelecer meu coração na paz.*
 

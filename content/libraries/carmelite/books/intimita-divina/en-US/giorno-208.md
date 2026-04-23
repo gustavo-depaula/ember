@@ -1,4 +1,4 @@
-## 208 — LET US PREPARE FOR UNION
+## VIII — LET US PREPARE FOR UNION
 
 **Presence of God.** — *O Jesus, grant that I may make full profit from the grace of union with You, which each day You offer me in Holy Communion.*
 
@@ -18,4 +18,6 @@ I must go to Communion with a heart enlarged in love, so that it may be entirely
 
 "My soul, when you receive Holy Communion, try to revive your faith; do what you can to detach yourself from exterior things, and withdraw with the Lord into your interior where you know He has descended. Try to recollect your senses in order to make them understand the great good they possess or, rather, try to recollect them so that they may not prevent you from understanding it. Consider yourself at the Lord's feet and, as though you saw Him with the eyes of the body, weep like Magdalene in the house of the Pharisee. This time is very precious, because then the Master instructs you: try to listen to Him, kiss his feet, grateful for such condescension, and beg Him to remain always with you. Even when you are deprived of sensible devotion, faith will not fail to assure you that the Lord is truly within you.
 
-"Besides, unless I want to be foolish and close my eyes to the light, I cannot have any doubt on this point. O my Jesus, this is not a work of imagination as when I imagine You on the Cross or in any other mystery of your Passion, where it is I who represent to myself the event as it happened: here it is your real presence. O Lord, never deprive me of this benefit, and may it profit me in everything" (T.G. Cam. 34, 8-12).
+"Besides, unless I want to be foolish and close my eyes to the light, I cannot have any doubt on this point. O my Jesus, this is not a work of imagination as when I imagine You on the Cross or in any other mystery of your Passion, where it is I who represent to myself the event as it happened: here it is your real presence, and it is an indisputable truth. O Lord, when I receive Communion, I have no need to go far to seek You; for as long as the natural warmth has not consumed the accidents of the bread, You are in me! And if when You were in the world You healed the sick by the simple touch of your garments, how can I doubt that, dwelling in me personally, You will not work miracles, if I have faith? Yes, finding Yourself in my house, You will grant my every request, since it is not your custom to pay badly for the lodging given to You, when You are made welcome!
+
+"O Lord, if the soul draws near to Communion well disposed and desiring to shake off all coldness, and lingers a while with You, it will be kindled with great love and will remain warm for many hours" (T.G. *Ctm.* 34, 7 and 8; 35, 1).

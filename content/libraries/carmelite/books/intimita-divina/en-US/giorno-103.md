@@ -1,6 +1,6 @@
-## 101 — EXAMINATION OF CONSCIENCE
+## 27 — EXAMINATION OF CONSCIENCE
 
-**Presence of God.** — *— O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.*
+**Presence of God.** — *O Lord, cast upon my soul a ray of Your light, that I may see myself as You Yourself see and judge me.*
 
 ### Meditation
 

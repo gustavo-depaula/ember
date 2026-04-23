@@ -1,7 +1,7 @@
 ## 42 — THE HOLY FAMILY
 *First Sunday after Epiphany*
 
-**Presence of God.** — *— I ask the Most Holy Mary to admit me into the humble house of Nazareth so that I may consider the admirable life that Jesus leads there.*
+**Presence of God.** — *I ask the Most Holy Mary to admit me into the humble house of Nazareth so that I may consider the admirable life that Jesus leads there.*
 
 ### Meditation
 

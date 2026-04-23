@@ -1,5 +1,5 @@
-## 283 — JUSTICE
-**Presence of God.** — *Give me, O Lord, a deep and effective desire for justice, so that I may draw near to You, infinite justice.*
+## XXII — JUSTICE
+**Presence of God.** — *Teach me, O Lord, to love justice and to hate all that opposes it.*
 
 ### Meditation
 

@@ -1,12 +1,10 @@
-## 309 — BLESSED ARE THOSE WHO HUNGER
+## XVII — BLESSED ARE THOSE WHO HUNGER
 
-**Presence of God.** — *O Holy Spirit, extinguish in me hunger for earthly things and increase hunger for heavenly things.*
+**Presence of God.** — *Under the impulse of the gift of fortitude, become within me a soul hungry and thirsty for justice.*
 
 ### Meditation
 
-**1** — When the Holy Spirit takes possession of a soul and wholly takes it under his government, He communicates an invincible and impetuous strength, capable of facing any obstacle and enduring any suffering. And because it belongs to the strong not to be content with little but to aspire to great things, so, as the Holy Spirit strengthens the soul, He awakens in it ever greater desires for justice, virtue, holiness — desires so vivid and urgent that they can truly be called hunger and thirst.
-
-Under the impulse of the gift of fortitude, the soul becomes hungry and thirsty for righteousness. Therefore to this gift corresponds the beatitude: "Blessed are they who hunger and thirst for justice, for they shall be filled" (Mt. 5:6). The word justice here must be understood in its broadest sense: perfection, holiness, total self-giving to God and to souls.
+**1** — The soul: the gift of fortitude causes to arise in it ever greater desires for justice, virtue, holiness — desires so vivid and urgent that they can truly be called hunger and thirst. Under the impulse of the gift of fortitude, the soul becomes hungry and thirsty for justice. Therefore to this gift corresponds the beatitude: "Blessed are they who hunger and thirst for justice, for they shall be filled" (Mt. 5:6). The word justice here must be understood in its broadest sense: perfection, holiness, total self-giving to God and to souls.
 
 And in this sense the Holy Spirit urges the soul, showing ever wider horizons and inviting it to works ever more perfect, to self-giving ever more generous and profound. This soul can keep nothing back. The Holy Spirit does not permit it. It must give itself wholly: "The charity of Christ presses us" (2 Cor. 5:14), it repeats with St. Paul. In it there is ardent thirst for God's will, sought as the miser seeks gold; ardent thirst for holiness, so that it tolerates in itself not the least lack of correspondence to grace and thinks it always does too little for the Lord; ardent thirst for souls, for whom it ceaselessly spends itself without reserve; ardent thirst for God's glory, for which, forgetting its own rest, it is always ready to undertake new sacrifices and labors.
 

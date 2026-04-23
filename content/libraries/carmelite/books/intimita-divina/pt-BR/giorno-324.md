@@ -1,4 +1,4 @@
-## 324 — O DEVER DO APOSTOLADO
+## 2 — O DEVER DO APOSTOLADO
 
 **Presença de Deus.** — *Ó Jesus, que me acolheste como teu membro, faze que eu não viva como estranho no teu Corpo místico, mas possa aproveitar ao bem de todos os irmãos.*
 
@@ -26,10 +26,8 @@ De cada seu membro, isto é, de cada cristão, Jesus quer servir-se para continu
 
 ### Colóquio
 
-«Meu Deus, sei muito bem que tu não tens necessidade de ninguém para cumprir tua obra de santificação; e, no entanto, queres ser ajudado no divino cultivo das almas, do mesmo modo que permites a um hábil jardineiro cultivar plantas delicadas e raras, reservando para ti o cuidado de fecundá-las. Oh, quantas almas chegariam a uma santidade eminente, se fossem bem dirigidas desde seus primeiros passos!
+«Senhor meu, volta o olho da tua misericórdia sobre o teu povo e sobre o Corpo místico da santa Igreja, pois Tu serás mais glorificado em perdoar a tantas criaturas do que em perdoar somente a mim, miserável, que tanto te ofendi. Por isso te peço, divina e eterna Caridade, que faças justiça de mim e misericórdia ao teu povo; jamais me afastarei da tua presença enquanto não vir que Tu faças a ele misericórdia. Como poderia eu contentar-me se eu tivesse a vida eterna e o teu povo a morte?... Quero, pois, e como graça te peço, que uses misericórdia com o teu povo por aquela caridade que te moveu a criar o homem à tua imagem e semelhança, para que participasse de ti, da tua vida.
 
-«Meu Deus, a honra maior que podes fazer a uma alma não é dar-lhe muito, mas pedir-lhe muito. Por isso, quando me dás sofrer pela salvação das almas, tratas-me como teus privilegiados! Não foi acaso sofrendo e morrendo que tu também redimiste o mundo? Ó Jesus, eu aspiro à felicidade de sacrificar minha vida por ti, mas o martírio do coração não é menos fecundo que a efusão do sangue, e desde agora este martírio é meu. Como é bela, ó Senhor, a parte que me reservaste, parte digna de um apóstolo!
+«Ó Senhor, ofereço-te a minha vida, agora e para sempre, quando te aprouver; e coloco-a para a tua glória, pedindo ainda humildemente, pela virtude da tua Paixão, que purifiques e limpies de todo defeito a Igreja, tua esposa, e não tardes mais... Volto depois o olhar para outro lado e vejo as almas perdidas de inumeráveis pecadores e, ao vê-las, sente-se partir — ou antes, com a força de acerba aflição, dilatar-se — o meu coração, e assim, vencida pela compaixão, não posso deixar de chorar a miséria deles, quase como se me encontrasse semelhante a eles, manchada pela lama das suas culpas.
 
-«Ó Senhor, sim, desejo trabalhar contigo pela salvação das almas; não tenho senão o único dia desta vida para salvá-las e dar-te assim prova do meu amor. O dia seguinte deste dia será a eternidade; então tu me restituirás centuplicadas as alegrias que sacrifico por ti.
-
-«Quão doce é, ó Jesus, ajudar-te com nossos pequenos sacrifícios a salvar as almas por ti redimidas por meio do teu Sangue e que, para não cair no abismo, não esperam senão nosso socorro. Como eu seria feliz se no ponto da morte pudesse ter uma alma para oferecer-te! Haveria uma alma arrancada ao fogo do inferno e que te bendiria por toda a eternidade» (Santa Teresinha do Menino Jesus).
+«Senhor, Tu, no decurso da tua vida mortal, carregaste o peso de duas cruzes, carregando sobre tuas costas o fardo pesado dos nossos pecados; assim Tu, para que eu me tornasse conforme a ti, carregaste-me o peso de duas cruzes: uma abate com enfermidades e outras angústias o corpo, a outra trespassa a alma dolorida pela perdição e cegueira de tantos miseráveis e obstinados pecadores» (S. Catarina de Siena).

@@ -1,4 +1,4 @@
-## 204 — THE INVITATION TO THE BANQUET
+## IV — THE INVITATION TO THE BANQUET
 *Sunday within the octave of Corpus Domini*
 
 **Presence of God.** — *O Jesus, grant me always to answer your invitation and to participate worthily in your banquet.*

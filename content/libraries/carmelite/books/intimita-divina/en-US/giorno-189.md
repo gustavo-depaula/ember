@@ -1,4 +1,4 @@
-## 189 — THE DESCENT OF THE HOLY SPIRIT
+## XX — THE DESCENT OF THE HOLY SPIRIT
 *Pentecost Sunday*
 
 **Presence of God.** — *Come, Holy Spirit, fill my heart, kindling in it the fire of your charity.*

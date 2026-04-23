@@ -1,4 +1,4 @@
-## 260 — LIFE OF LOVE
+## XXX — LIFE OF LOVE
 
 **Presence of God.** — *Grant, O Lord, that already here below I may begin to love You as I shall one day love You in heaven.*
 
@@ -18,8 +18,12 @@ Love is strengthened and grows through exercise; but this must be a generous and
 
 ### Colloquy
 
-"O Lord, You make me understand that all the most perfect gifts are nothing without love, that charity is the royal road for reaching You surely. Therefore I desire nothing but the science of love; and even having given my riches for it, it seems to me that I have given nothing.
+"O Lord, You make me understand that all the most perfect gifts are nothing without love, that charity is the best way to reach You surely. Therefore I desire nothing but the science of love; and even having given my riches for it, it seems to me that I have given nothing. I understand so well that only love is capable of making me pleasing to You, that it is the only treasure I desire.
 
-"I understand so well that only love is capable of making us pleasing to You, that it is the only treasure I desire. My one occupation is to gather the flowers of love and sacrifice and offer them to You. I want only to work for your love, to please You, to console your Most Sacred Heart, and to save souls that will love You forever.
+"My occupation is to gather flowers, the flowers of love and sacrifice, and to offer them to You, my God, to please You. I want only to work for your love, with the sole end of pleasing You and consoling your Most Sacred Heart, and of saving souls that will love You for eternity" (cf. T.B.G. St. 11; *Offerta*).
 
-"O Lord, your love must be total, infinite in desire, because the soul does not give itself wholly to You if it still has some attachment. Admit no division, refuse Yourself nothing. Grant that I may live in a continual, uninterrupted self-giving, aiming in all things at your greater glory; desiring only to make You pleased, willing only what You will, doing every action with all my heart. Everything done for You must be gentle. Teach me to have those refinements, those attentions that You so value and that can be shown to You in love, in sacrifice, in renunciation, in smiling acceptance of suffering. In all this I want to train myself in the little daily occasions" (cf. Sr. Carmela d. Spirito S.).
+"O Lord, my love for You must be total, infinite in desire, because You do not give Yourself wholly to the soul if the soul does not give itself wholly to You. I must keep no attachment, admit not even one adverted imperfection, refuse You nothing. Grant that I may give myself to You in a continual, uninterrupted self-giving, moment by moment, seeking in all things your greater glory; always striving to please You, willing only and always your will, doing every thing with all my heart, with all my love.
+
+"My love for You must be gentle, delicate. Help me to attain those refinements, those nuances, those details that You so prize and that enrapture You.
+
+"My love for You must be strong, generous, and resolute; showing itself in sacrifice, in the seeking of sacrifice, in offering, in the smiling acceptance of suffering. O Lord, for love of You I want to train myself in the small occasions so as to be strong in the great ones" (cf. Sr. Carmela d. Spirito S. c. s.).

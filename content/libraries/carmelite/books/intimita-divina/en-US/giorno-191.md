@@ -1,4 +1,4 @@
-## 191 — THE HOLY SPIRIT'S INITIATIVES
+## XXII — THE HOLY SPIRIT'S INITIATIVES
 
 **Presence of God.** — *O Holy Spirit, come and direct my soul on the path of holiness.*
 

@@ -1,4 +1,4 @@
-## 317 — THE POWER AND LOVE OF JESUS
+## XXV — THE POWER AND LOVE OF JESUS
 *Eighteenth Sunday after Pentecost*
 
 **Presence of God.** — *O Jesus, grant that I may always correspond to gifts of your love.*

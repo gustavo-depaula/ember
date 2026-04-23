@@ -1,7 +1,7 @@
 ## 22 — EIS QUE VEM O SALVADOR
 *IV domingo do Advento*
 
-**Presença de Deus.** — *Ó Jesus, no teu poder, no teu amor infinito, na tua Paixão deponho toda esperança pelas almas que me confiaste.*
+**Presença de Deus.** — *Ponho-me aos pés de Jesus, meu Salvador, para pedir-lhe que ele mesmo prepare o meu coração para a sua iminente vinda.*
 
 ### Meditação
 

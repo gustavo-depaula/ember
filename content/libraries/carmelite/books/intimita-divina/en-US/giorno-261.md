@@ -1,4 +1,4 @@
-## 261 — CHARITY AND HUMILITY
+## XXXI — CHARITY AND HUMILITY
 *X Sunday after Pentecost*
 
 **Presence of God.** — *Give me, O Lord, humility with love: may humility guard charity in me, and may charity ever grow more alive.*

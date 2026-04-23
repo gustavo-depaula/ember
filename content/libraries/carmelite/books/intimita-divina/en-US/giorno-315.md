@@ -1,4 +1,4 @@
-## 315 — THE GIFT OF KNOWLEDGE
+## XXIII — THE GIFT OF KNOWLEDGE
 
 **Presence of God.** — *O Holy Spirit, teach me deeply the nothingness of human things.*
 

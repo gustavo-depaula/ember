@@ -1,6 +1,6 @@
 ## 51 — THE DOCTRINE OF JESUS
 
-**Presence of God.** — *I beg You, my God, let nothing disturb my union with You.*
+**Presence of God.** — *O Lord, I come to Your feet, eager to hear Your doctrine, which is the doctrine of eternal life.*
 
 ### Meditation
 
@@ -22,7 +22,7 @@ Jesus rejoiced over this and said: "I praise You, O Father, Lord of heaven and e
 
 "You alone, Lord, teach us the truth, show us the way of salvation. O unhappy us! They are truths we know and believe, but accustomed for so long not to consider them, they appear so strange to us that we almost no longer know them, nor do we want to know them.
 
-"Grant, Lord, that Your words may never be erased from my mind" (T.G. Es. 8, 16 and 2; 13, 2).
+"Grant, Lord, that Your words may never be erased from my mind" (T.G. Es. 8, 1 and 2; 13, 2).
 
 Do not permit, O Jesus, that I let myself be drawn by maxims, by doctrines that do not come from You.
 

@@ -1,4 +1,4 @@
-## 291 — SIMPLICITY
+## XXX — SIMPLICITY
 **Presence of God.** — *Give me, O Lord, a simple heart, without duplicity, without crookedness; a heart that tends to You with the simplicity of a child.*
 
 ### Meditation

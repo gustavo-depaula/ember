@@ -1,4 +1,4 @@
-## 77 — NOVO PROGRAMA
+## 1 — NOVO PROGRAMA
 
 *domingo de Septuagésima*
 

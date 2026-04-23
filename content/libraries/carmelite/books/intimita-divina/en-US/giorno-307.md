@@ -1,4 +1,4 @@
-## 307 — BLESSED ARE THE POOR IN SPIRIT
+## XV — BLESSED ARE THE POOR IN SPIRIT
 
 **Presence of God.** — *O Holy Spirit, show me the way that leads to true poverty of spirit, and give me strength to follow it to the end.*
 

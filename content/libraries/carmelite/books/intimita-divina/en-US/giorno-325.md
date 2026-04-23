@@ -1,4 +1,4 @@
-## 325 — COLLABORATORS OF GOD
+## 3 — COLLABORATORS OF GOD
 
 **Presence of God.** — *Lord, take me, that I may be worthy to collaborate with You in spread of your kingdom.*
 

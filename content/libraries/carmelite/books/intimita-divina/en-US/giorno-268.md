@@ -1,4 +1,4 @@
-## 268 — THE GRACE OF BAPTISM
+## VII — THE GRACE OF BAPTISM
 *XI Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, may the grace of holy Baptism come in me to full maturity.*

@@ -1,4 +1,4 @@
-## 102 — CONFESSION
+## 28 — CONFESSION
 
 **Presence of God.** — *At the foot of Your Cross, O Jesus, I confess my sins and invoke upon myself the outpouring of Your Blood, that it may purify my soul.*
 

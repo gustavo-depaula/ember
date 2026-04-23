@@ -1,6 +1,6 @@
-## 104 — HUMILITY
+## 30 — HUMILITY
 
-**Presence of God.** — *— O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.*
+**Presence of God.** — *O Jesus, who so greatly humbled Yourself for us, teach me the practice of true humility.*
 
 ### Meditation
 

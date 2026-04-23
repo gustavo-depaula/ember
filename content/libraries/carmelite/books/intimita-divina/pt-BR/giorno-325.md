@@ -1,4 +1,4 @@
-## 325 — COLABORADORES DE DEUS
+## 3 — COLABORADORES DE DEUS
 
 **Presença de Deus.** — *Senhor, toma-me para que eu seja digno de colaborar contigo na difusão do teu reino.*
 

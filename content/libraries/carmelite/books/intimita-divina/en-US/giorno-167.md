@@ -1,4 +1,4 @@
-## 167 — PARTICIPATING IN HOLY MASS
+## XXVIII — PARTICIPATING IN HOLY MASS
 **Presence of God.** — *O Jesus, who in every day and every hour immolate Yourself upon our altars, deign to associate me with Your Sacrifice.*
 
 ### Meditation

@@ -1,6 +1,6 @@
 ## 44 — O CORPO MÍSTICO DE CRISTO
 
-**Presença de Deus.** — *Espírito Santo, concede-me "a abundância da plena inteligência para conhecer o mistério de Cristo Jesus" (Col. 2, 3).*
+**Presença de Deus.** — *Espírito Santo, concede-me "a abundância da plena inteligência para conhecer o mistério de Cristo Jesus" (Col. 2, 2).*
 
 ### Meditação
 

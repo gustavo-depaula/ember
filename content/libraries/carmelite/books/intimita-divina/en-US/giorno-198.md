@@ -1,4 +1,4 @@
-## 198 — THE HOLY SPIRIT AND PRAYER
+## XXIX — THE HOLY SPIRIT AND PRAYER
 
 **Presence of God.** — *O Holy Spirit, come pray in me; come regulate my filial relations with the heavenly Father.*
 
@@ -12,4 +12,6 @@ This Master is the Holy Spirit: "The Spirit helps us in our weakness, for we do 
 
 ### Colloquy
 
-"Come, O Holy Spirit, and send from heaven a ray of your light. Come, father of the poor; come, giver of every grace; come, light of hearts. O best Consoler, sweet guest of the soul, sweet refreshment. You are rest in toil, relief in heat, comfort in weeping. O most blessed light, flood the innermost recesses of my heart. Without your mighty help there is no good in me, nothing that is not defective. Wash what is unclean, water what is arid, heal what is wounded. Bend what is rigid, warm what is cold, straighten what strays. Come, O Holy Spirit, fill my heart, kindle in it the fire of your love, and all in me will be renewed" (cf. Sequence of the Holy Spirit).
+"Come, O Holy Spirit, and send from heaven a ray of your light. Come, father of the poor; come, giver of every grace; come, light of hearts. O best Consoler, sweet guest of the soul, sweet refreshment. You are rest in toil, relief in heat, comfort in weeping. Without your mighty help there is no good in me, nothing that is not defective. Wash what is unclean, water what is arid, heal what is wounded. Bend what is rigid, warm what is cold, straighten what strays. Come, O Holy Spirit, fill my heart, kindle in it the fire of your love, and all in me will be renewed" (cf. Sequence of the Holy Spirit).
+
+"Come, O Holy Spirit, and deign to become my interior Master. Give me the true filial spirit toward the heavenly Father, great trust in his paternal goodness, a total active and passive adherence to his will, immense gratitude for his graces. Come and suggest to me all that Jesus has said; guide me, take direction of my whole being, help my weakness, supply my deficiency. Come and fulfill in me my mission of continual prayer, for what would my prayer be worth if it were not inspired and given value by You? 'No one can say: Lord Jesus, except by the Holy Spirit' (1 Cor. 12:3). O divine Spirit, pray therefore in me and for me. I must think that it is You who pray and praise God in me, even when weariness or aridity or distractions prevent me from fixing my spirit. I must then remain in a humble attitude of prayer and trust that You wish to draw from my being that praise, that glory which I cannot give but wish to give to my God" (Sr. Carmela of the Holy Spirit, C.S.).

@@ -1,4 +1,4 @@
-## 280 — PRUDENCE AND RECTITUDE
+## XIX — PRUDENCE AND RECTITUDE
 **Presence of God.** — *Teach me, my God, that prudence which leads to You by the straight way of duty and truth.*
 
 ### Meditation

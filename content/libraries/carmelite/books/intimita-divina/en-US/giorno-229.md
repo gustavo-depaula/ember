@@ -1,4 +1,4 @@
-## 229 — FEAST OF SAINTS PETER AND PAUL
+## XXIX — FEAST OF SAINTS PETER AND PAUL
 
 **Presence of God.** — *O Lord, may the feast of your Apostles strengthen me in faith and consolidate my fidelity to the Church.*
 

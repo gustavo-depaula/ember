@@ -1,4 +1,4 @@
-## 267 — DO NOT JUDGE
+## VI — DO NOT JUDGE
 **Presence of God.** — *O Lord, preserve my mind from judging and criticizing my neighbor, and give me for all thoughts of goodness and love.*
 
 ### Meditation

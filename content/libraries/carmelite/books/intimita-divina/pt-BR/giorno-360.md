@@ -12,7 +12,7 @@ Também tu desejas chegar à união divina, mas talvez também tu pensavas de ch
 
 ### Colóquio
 
-«Onde está, ó meu Deus, o sol da tua graça? A me parece obscurecido; a bondade tua me parece del todo subtraída à alma minha. Agora sou abandonada como um corpo que, não tendo algum membro, não se pode ajudar, ou como um tronco estéril, porém, vindo a me subtraída a graça tua, não me posso ajudar. Ó meu Deus, estende sobre mim a tua destra e dá-me fortaleza.
+«Onde está, ó meu Deus, o sol da tua graça? A me parece obscurecido; a bondade tua me parece totalmente subtraída à alma minha. Agora sou abandonada como um corpo que, não tendo algum membro, não se pode ajudar, ou como um tronco estéril, porém, vindo a me subtraída a graça tua, não me posso ajudar. Ó meu Deus, estende sobre mim a tua destra e dá-me fortaleza.
 
 «Ó Eterno Pai, se será comigo o teu Verbo, quem me poderá contradizer? Quem me poderá mover, não que abater e vencer? Baterão as tempestades a casca, mas não o íntimo do coração. Se quiserem dar pena a darão, e eu voluntariamente a aceito porque assim Tu queres, mas não poderão nunca inquietar o ânimo sempre abandonado ao teu beneplácito. Quietarei toda turbulência pensando que estes trabalhos vêm do teu querer e me imergirei na baixeza do meu ser. Se estas penas me aprofundarem no inferno, me elevarão ao céu com o teu auxílio, e no teu nome superarei toda luta.
 

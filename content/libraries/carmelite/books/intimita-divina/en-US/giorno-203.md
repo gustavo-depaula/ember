@@ -1,4 +1,4 @@
-## 203 — MYSTERY OF FAITH
+## III — MYSTERY OF FAITH
 
 **Presence of God.** — *O Jesus, I believe in You and adore You present in the Sacrament of the altar: increase my faith.*
 

@@ -22,11 +22,11 @@ Tantas almas exageram seus sofrimentos, os dramatizam porque não sabem ver nele
 
 ### Colóquio
 
-"Ó Senhor, faze que minha alma corra continuamente a ti sem pausa, mirando sempre a ti só. Consolada ou desolada, corra sem deter-se a nada, corra tão depressa de não ter tempo de olhar, nem de ver as coisas da terra, porque o passo é velocíssimo. Via, pois, por amor teu, gozo, repouso, affidamento no juízo dos homens, repousa sobre sua aprovação, apreensão pelo mal-estar físico, pelas tristezas morais, pelo sucesso próspero ou adverso. Via, enfim, tudo o que não é Deus.
+"Ó Senhor, faze que minha alma corra continuamente a ti sem pausa, mirando sempre a ti só. Consolada ou desolada, corra sem deter-se a nada, corra tão depressa de não ter tempo de olhar, nem de ver as coisas da terra, porque o passo é velocíssimo. Via, pois, por amor teu, gozo, repouso, confiança no juízo dos homens, repousa sobre sua aprovação, apreensão pelo mal-estar físico, pelas tristezas morais, pelo sucesso próspero ou adverso. Via, enfim, tudo o que não é Deus.
 
 Minhas penas, reconheço, foram permitidas e queridas de ti, meu Senhor, para ensinar-me a ter confiança apesar de tudo.
 
-Ó Senhor, sê o único meu sustento nas apreensões, nas fraquezas, nas angústias; sê meu confidente ou, melhor, minha confiança. Hóspede divino, que resides em mim, sobre o trono de meu coração, habitavas de dono; a ti spetta o domínio, o amor, o governo de todo meu ser!
+Ó Senhor, sê o único meu sustento nas apreensões, nas fraquezas, nas angústias; sê meu confidente ou, melhor, minha confiança. Hóspede divino, que resides em mim, sobre o trono de meu coração, habitavas de dono; a ti cabe o domínio, o amor, o governo de todo meu ser!
 
 Por que turbar-me ou temer ainda? Tudo é teu, ó Deus, e Tu mesmo te tomas cuidado e provês a minhas necessidades. Tu és amor infinito e amas a obra de tuas mãos mais do que ela mesma saiba e possa amar-se. Quem ousará duvidar de tua potência, dos cuidados previdentes e afetuosos que prodigalizas a tuas criaturas, da eternidade e da eficácia de teu amor?
 

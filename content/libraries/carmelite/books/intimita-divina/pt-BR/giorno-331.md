@@ -10,11 +10,11 @@ O que resta a fazer não é outra coisa senão a aplicação dessas graças às 
 
 Em outras palavras, pelos méritos de Jesus, a graça, a misericórdia infinita de Deus está pronta a derramar-se abundantemente sobre os homens, mas não se derrama se não houver quem levante as mãos suplicantes ao céu para invocá-la. Enquanto a oração não sobe ao trono do Altíssimo, a graça não é concedida.
 
-Isso explica a necessidade absoluta da oração apostólica e sua grande eficácia. «Certos demônios não se expulsam senão com oração e jejum» (Mt 17, 20), disse Jesus. A oração é insubstituível porque vai buscar a graça diretamente na sua fonte, que é Deus.
+Isso explica a necessidade absoluta da oração apostólica e sua grande eficácia. «Certos demônios não se expulsam senão com oração e jejum» (Mt. 17, 20), disse Jesus. A oração é insubstituível porque vai buscar a graça diretamente na sua fonte, que é Deus.
 
 Nossa atividade, nossas palavras, nossas obras podem dispor o terreno para a graça, mas se não se reza, ela não descerá para irrigar as almas.
 
-À luz dessas verdades podemos avaliar melhor o alcance das insistentes exortações de Jesus à oração: «É preciso rezar sempre sem nunca cansar... Pedi e vos será dado; buscai e encontrareis; batei e vos será aberto» (Lc 18, 1; 11, 9).
+À luz dessas verdades podemos avaliar melhor o alcance das insistentes exortações de Jesus à oração: «É preciso rezar sempre sem nunca cansar... Pedi e vos será dado; buscai e encontrareis; batei e vos será aberto» (Lc. 18, 1; 11, 9).
 
 Não podemos ter certeza de que todas as nossas orações serão atendidas, porque não sabemos se aquilo que pedimos é conforme ao querer divino; mas quando se trata da oração apostólica, que solicita a graça e a salvação das almas, a coisa é bem diversa.
 

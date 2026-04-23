@@ -14,12 +14,12 @@ quase para restaurar nossas forças. "Alegra-te, ó Jerusalém -
 canta o Intróito da Missa - e vós todos que a amais
 exultai de alegria e saciai-vos na abundância de suas
 delícias". Quais são essas delícias? Responde-nos o Evangelho
-do dia (Jo 6, 1-15) com a narração da multiplicação
+do dia (Jo. 6, 1-15) com a narração da multiplicação
 dos pães, o grande milagre mediante o qual Jesus
 quis dispor as multidões para o anúncio de um milagre
 bem mais estupendo: a instituição da Eucaristia, pela qual Ele,
 o Mestre, se tornaria nosso pão, "pão vivo
-descido do céu" (Jo 6, 41), para alimento de
+descido do céu" (Jo. 6, 41), para alimento de
 nossas almas. Eis o motivo da nossa alegria, eis a fonte
 de nossas delícias: Jesus é o pão da vida, sempre à
 nossa disposição para saciar nossa fome.
@@ -44,7 +44,7 @@ necessárias para o corpo, que proveito haverá?" (Tg 2, 15 e 16).
 
 Os Apóstolos haviam proposto ao Mestre despedir
 a multidão para que todos pudessem ir "comprar de
-comer" (Mt 14, 15). Jesus não aceitou
+comer" (Mt. 14, 15). Jesus não aceitou
 e quis prover pessoalmente. Procura também tu, na medida do
 possível, nunca mandar embora o próximo necessitado
 sem lhe prestar tua ajuda.

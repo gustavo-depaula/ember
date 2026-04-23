@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — «Deus não Se dá del todo senão àqueles que Se dão del todo a Ele» (T.G. *Cam.* 28, 12). Deus respeita tanto a liberdade do homem que, embora deseje torná-lo participante da sua vida divina, de fato Se comunica a ele apenas na medida do seu consentimento; mas quando este consentimento é pleno, Ele não hesita em Se dar del todo. Eis portanto que ao sim perfeito da alma, Deus responde com o «verdadeiro e inteiro sim da sua graça» (G.C.F. 3, 24).
+**1** — «Deus não Se dá totalmente senão àqueles que Se dão totalmente a Ele» (T.G. *Cam.* 28, 12). Deus respeita tanto a liberdade do homem que, embora deseje torná-lo participante da sua vida divina, de fato Se comunica a ele apenas na medida do seu consentimento; mas quando este consentimento é pleno, Ele não hesita em Se dar totalmente. Eis portanto que ao sim perfeito da alma, Deus responde com o «verdadeiro e inteiro sim da sua graça» (G.C.F. 3, 24).
 
 Ao dom perfeito da vontade da parte da alma corresponde a plena comunicação da graça da
 parte de Deus; a graça é concedida em toda a sua perfeição acompanhada pelo cortejo das
@@ -52,7 +52,7 @@ comunica com um verme! E já que podemos esperar tanto bem desde esta vida, que 
 em que paramos? Que coisa nos pode distrair de buscar este Senhor, como a esposa pelas
 ruas e pelas praças?» *(M.* VI, 4, 10).
 
-O Senhor quer comunicar-Se à tua alma, quer dar-Se del todo a ti, quer vir viver
+O Senhor quer comunicar-Se à tua alma, quer dar-Se totalmente a ti, quer vir viver
 contigo: «Se alguém ouvir a Minha voz e abrir a porta, entrarei ele e cearei com ele e
 ele Comigo» *(Ap.* 3, 20). Oh, que não percas este dom imenso por tua culpa, por tua
 negligência!
@@ -80,5 +80,5 @@ outra vida para recompensar-te do teu amor. O prêmio começa desde já...
 
 «Senhor meu, Misericórdia minha e meu Tesouro, que outro bem se pode jamais desejar aqui
 embaixo senão estar tão perto de Vós que não seja mais possível divisão alguma? Pois o
-amor mo consente, repetirei sem cansar: 'O Diletto é meu e eu sou do meu Diletto'» (T.G.
+amor mo consente, repetirei sem cansar: 'O Amado é meu e eu sou do meu Amado'» (T.G.
 cf. *P.* 3, 14 e 15; 4, 8-12).

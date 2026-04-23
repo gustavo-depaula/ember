@@ -1,6 +1,6 @@
-## 109 — HUMILITY OF HEART
+## 35 — HUMILITY OF HEART
 
-**Presence of God.** — *— O Jesus, meek and humble of heart, make my heart like Yours.*
+**Presence of God.** — *O Jesus, meek and humble of heart, make my heart like Yours.*
 
 ### Meditation
 

@@ -1,4 +1,4 @@
-## 266 — THE NEW COMMANDMENT
+## V — THE NEW COMMANDMENT
 **Presence of God.** — *Jesus, grant me the grace to understand deeply your new commandment, the commandment of fraternal charity.*
 
 ### Meditation

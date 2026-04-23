@@ -1,4 +1,4 @@
-## 335 — TOWARD THE HOMELAND
+## 13 — TOWARD THE HOMELAND
 *XX Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, teach me the way to reach You.*
@@ -47,4 +47,4 @@ In this life we walk toward God not by vision but by faith. The purer our faith 
 
 «O most loving Jesus, grant that I may always desire and will only what is more pleasing and dear to You; let your will be mine, and let mine always follow yours and be wholly in accord with it.
 
-«May my willing and not willing always be the same as yours, Lord, so that I may not desire or reject anything except what You ...»
+«May my willing and not willing always be the same as yours, Lord, so that I may not desire or reject anything except what You will or reject» *(Imitation III, 15, 2-3)*.

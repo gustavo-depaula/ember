@@ -1,4 +1,4 @@
-## 273 — CHARITY ADAPTS TO EVERYTHING
+## XII — CHARITY ADAPTS TO EVERYTHING
 **Presence of God.** — *O God, who adapt Yourself to my misery even to becoming man like me, teach me to adapt myself to my brethren.*
 
 ### Meditation

@@ -1,4 +1,4 @@
-## 277 — LOVE OF NEIGHBOR AND LOVE OF GOD
+## XVI — LOVE OF NEIGHBOR AND LOVE OF GOD
 **Presence of God.** — *Make me understand, O Lord, that the surest sign of my love for You is a sincere love of neighbor.*
 
 ### Meditation

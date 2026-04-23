@@ -1,4 +1,4 @@
-## 272 — CHARITY IS NOT SELFISH
+## XI — CHARITY IS NOT SELFISH
 **Presence of God.** — *O God, who from eternity have loved me and always love me without any self-interest, teach me to love without calculations and measures.*
 
 ### Meditation

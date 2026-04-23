@@ -1,6 +1,6 @@
 ## II — A PRESENÇA REAL
 
-**Presença de Deus.** — *Ó Jesus, faze-me penetrar além dos véus eucarísticos, para que, contemplando-te, meu coração viva de ti.*
+**Presença de Deus.** — *«Adoro-te devotamente, ó Deus escondido sob os véus eucarísticos. A ti o meu coração todo se abandona, porque contemplando-te vem a desfalecer» (cfr. Adoro te devote).*
 
 ### Meditação
 

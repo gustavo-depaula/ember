@@ -1,4 +1,4 @@
-## 99 — CONVERSION
+## 23 — CONVERSION
 **Presence of God.** — *O Lord, who created me for Yourself, grant that with all my strength I may tend toward You, my last end.*
 
 ### Meditation

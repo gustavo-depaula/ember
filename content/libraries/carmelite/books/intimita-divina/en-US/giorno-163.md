@@ -1,6 +1,6 @@
-## 159 — PRACTICE OF THE PRESENCE OF GOD
+## XXIV — PRACTICE OF THE PRESENCE OF GOD
 
-**Presence of God.** — *— O Lord, may I always live in your presence, with my interior gaze fixed on you.*
+**Presence of God.** — *O Lord, may I always live in your presence, with my interior gaze fixed on you.*
 
 ### Meditation
 
@@ -21,3 +21,5 @@ Any professional or worker can adopt this method in all his relations with neigh
 "Grant, my God, that my soul may be a little paradise where You can rest with delight; help me therefore to remove from it all that could wound your divine gaze. And then, may I live in this little heaven, always with You. Wherever I am, whatever I do, You never leave me; grant that I too, then, may always remain with You; that at every hour of day and night, in every joy and every trial, in every work and every action I may know how to find You in me.
 
 "My God, Holy Trinity, be You my dwelling, my nest, my father's house from which I must never depart. May I remain in You, not for some instant, or for some hours that pass, but permanently, habitually. May I pray in You, adore in You, love in You, suffer in You, work, act in You. May I remain in You in presenting myself to any person or thing, in applying myself to any duty, pressing farther into your divine depths. O Lord, each day may I go farther along this path that leads me to You; may I let myself glide down this slope with a trust wholly full of love" (cf. E.T. Letters I, 1).
+
+"Grant me, O Lord, to imitate the angelic spirits who, while they are with us, do not cease from divine contemplation. Grant that I may deal with and serve my brothers, considering and enjoying You in them, and directing my heart to You. And when it happens that I move away from this noble exercise, help me to return to it at once, making every effort to succeed, so that, with your divine help, I may always live with my heart fixed on You" (cf. St. Bonaventure).

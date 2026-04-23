@@ -1,4 +1,4 @@
-## 264 — THE EXTENT OF FRATERNAL CHARITY
+## III — THE EXTENT OF FRATERNAL CHARITY
 
 **Presence of God.** — *O Lord, make me understand that true charity admits no exceptions, but embraces every neighbor with sincere love.*
 

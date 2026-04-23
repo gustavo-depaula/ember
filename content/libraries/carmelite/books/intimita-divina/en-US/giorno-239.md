@@ -1,4 +1,4 @@
-## 239 — INFINITE MERCY
+## IX — INFINITE MERCY
 
 **Presence of God.** — *Make me understand, O Lord, the secrets of your mercy so that I may profit from it fully.*
 

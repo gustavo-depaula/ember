@@ -1,4 +1,4 @@
-## 329 — IDEAL APOSTÓLICO
+## 7 — IDEAL APOSTÓLICO
 
 **Presença de Deus.** — *Acende em mim, Senhor, a chama do apostolado e alimenta-a com teu amor.*
 
@@ -14,7 +14,7 @@ O sistema de vida do Carmelo teresiano — vida contemplativa de profunda intens
 
 Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII).
 
-Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo 17, 19).
+Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo. 17, 19).
 
 **2** — Uma vida interior na qual não brilha o ideal apostólico nunca poderá ser plena e vigorosa. Isto depende da natureza da graça e da caridade, que são por si mesmas expansivas, apostólicas.
 

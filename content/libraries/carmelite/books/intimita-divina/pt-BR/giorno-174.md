@@ -14,7 +14,7 @@ Como uma mulher - Eva - havia cooperado para a perda da graça, assim, por harmo
 
 ### Colóquio
 
-*«Ó bendita confiança, ó seguro refúgio: Tu, Mãe de Deus, és mãe minha! Como, pois, não esperarei, quando minha salvação e minha santidade estão nas mãos de Jesus, meu irmão, e de Maria, minha mãe?» (cfr. S. Anselmo).
+«Ó bendita confiança, ó seguro refúgio: Tu, Mãe de Deus, és mãe minha! Como, pois, não esperarei, quando minha salvação e minha santidade estão nas mãos de Jesus, meu irmão, e de Maria, minha mãe?» (cfr. S. Anselmo).
 
 «Ó Maria, Maria, portadora do fogo; Maria portadora de misericórdia! Maria recompradora da geração humana, porque sustentando tua carne no Verbo, foi recomprado o mundo. Cristo o recomprou com sua Paixão, e Tu com tua dor do corpo e da mente» (S. Catarina de Sena).
 

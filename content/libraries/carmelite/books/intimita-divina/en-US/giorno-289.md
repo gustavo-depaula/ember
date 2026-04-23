@@ -1,4 +1,4 @@
-## 289 — THE TWO KINGDOMS
+## XXVIII — THE TWO KINGDOMS
 *XIV Sunday after Pentecost*
 
 **Presence of God.** — *Sustain, O Lord, my weakness so that I may come to possession of your kingdom.*

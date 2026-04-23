@@ -1,6 +1,6 @@
 ## 46 — THE INFLUENCE OF JESUS
 
-**Presence of God.** — *— O Jesus, make me understand how my soul lies under the powerful, sanctifying touch of Your Most Holy Humanity.*
+**Presence of God.** — *O Jesus, make me understand how my soul lies under the powerful, sanctifying touch of Your Most Holy Humanity.*
 
 ### Meditation
 

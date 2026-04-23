@@ -1,4 +1,4 @@
-## 262 — FRATERNAL CHARITY
+## I — FRATERNAL CHARITY
 
 **Presence of God.** — *O Lord, grant me to penetrate the deep meaning of the precept of fraternal charity.*
 

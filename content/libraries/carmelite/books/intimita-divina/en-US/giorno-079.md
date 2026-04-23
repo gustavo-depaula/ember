@@ -1,4 +1,4 @@
-## 79 — VOLUNTARY ATTACHMENTS
+## 3 — VOLUNTARY ATTACHMENTS
 
 **Presence of God.** — *O Lord, I place myself in Your presence, asking You to enlighten my soul, that I may see what obstacles stand in the way of my union with You.*
 

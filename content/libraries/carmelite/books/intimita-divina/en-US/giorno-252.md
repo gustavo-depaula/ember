@@ -1,6 +1,6 @@
-## 252 — THE TRIAL OF HOPE
+## XXII — THE TRIAL OF HOPE
 
-**Presence of God.** — *Grant me, O Lord, an invincible hope; teach me to hope against all hope.*
+**Presence of God.** — *Grant me, O Lord, an invincible hope; teach me to hope against all hope, teach me to «super-hope».*
 
 ### Meditation
 

@@ -1,6 +1,6 @@
-## 145 — THE LIVING WATER
+## IV — THE LIVING WATER
 
-**Presence of God.** — *— O Jesus, my soul thirsts for you, fountain of living water; may I draw near to you and drink!*
+**Presence of God.** — *O Jesus, my soul thirsts for you, fountain of living water; may I draw near to you and drink!*
 
 ### Meditation
 

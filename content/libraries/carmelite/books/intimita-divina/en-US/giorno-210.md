@@ -1,4 +1,4 @@
-## 210 — DEVOTION TO THE HEART OF JESUS
+## X — DEVOTION TO THE HEART OF JESUS
 
 **Presence of God.** — *O Jesus, deign to unveil for me the treasures of your Heart.*
 

@@ -1,7 +1,7 @@
 ## 29 — APARECEU O SALVADOR
 *25 dezembro*
 
-**Presença de Deus.** — *Meu Deus, que me criaste para ti, faze que eu possa voltar a ti e a ti unir-me por amor.*
+**Presença de Deus.** — *Eis-me aos pés do meu Deus feito carne, feito criança por amor de mim! Adoro, agradeço, amo!*
 
 ### Meditação
 

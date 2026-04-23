@@ -1,4 +1,4 @@
-## 192 — OUR COLLABORATION
+## XXIII — OUR COLLABORATION
 
 **Presence of God.** — *O Holy Spirit, make me docile to your action, always ready to let myself be moved and directed by you.*
 

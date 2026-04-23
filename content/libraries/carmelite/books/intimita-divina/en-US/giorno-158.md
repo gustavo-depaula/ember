@@ -1,6 +1,6 @@
-## 155 — ARIDITY AND CONTEMPLATION
+## XIX — ARIDITY AND CONTEMPLATION
 
-**Presence of God.** — *— O Lord, draw me to yourself by the way You will and as You will; I ask only for the grace always to follow you.*
+**Presence of God.** — *O Lord, draw me to yourself by the way You will and as You will; I ask only for the grace always to follow you.*
 
 ### Meditation
 

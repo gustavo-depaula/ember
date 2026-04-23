@@ -1,4 +1,4 @@
-## 199 — THE HOLY SPIRIT AND ACTIVITY
+## XXX — THE HOLY SPIRIT AND ACTIVITY
 
 **Presence of God.** — *O Holy Spirit, be the inspirer of my actions, the regulator of my activity.*
 
@@ -15,3 +15,5 @@ The Holy Spirit, Jesus said, "will dwell in you and be in you" (Jn. 14:17); what
 "O Holy Spirit, You are the dispenser of the treasures that are in the Father's bosom; You are the treasurer of the counsels held between the Father and the Word. You manifest to us those things we must do to please the Trinity; and You manifest them in the depths of the heart by your inspirations and outwardly through preaching and the counsels of your ministers. The gates of heaven are always open to send grace down, but we do not keep open the mouth of desire to receive it. Let this grace come, let it come; come, eternal Father, come, most pure Word, since You deign to send us your most loving Spirit, Spirit of goodness. O Holy Spirit, how rich You come for us, and blessed is he who receives You! You bring us the Father's power, the Word's burning love!" (cf. St. Mary Magdalene de' Pazzi).
 
 "O Lord, make me know the way I must keep to reach You, teach me to do your will, and may your Spirit guide me on the straight path. Create in me, O Lord, a pure heart and infuse in me your Spirit, Spirit of rectitude and truth. My God, do not cast me away from your presence, and take not your Holy Spirit from me, because without Him I would remain deprived of life and grace. Sustain me, O Lord, by your magnanimous Spirit, without whom I could do nothing" (cf. Ps. 143 and 50[51]).
+
+O Holy Spirit, Spirit of truth, who speak and instruct souls interiorly, make me attentive to your teachings and docile to your inspirations.

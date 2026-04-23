@@ -1,4 +1,4 @@
-## 367 — UNITIVE LOVE
+## 45 — UNITIVE LOVE
 **Presence of God.** — *My God, who have infused love into me, grant that it may grow until it leads me to union with You.*
 
 ### Meditation

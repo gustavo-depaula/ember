@@ -1,4 +1,6 @@
-## 246 — OUR LADY OF CARMEL
+## XVI — OUR LADY OF CARMEL
+
+*July 16*
 
 **Presence of God.** — *O Mary, beauty of Carmel, make me worthy of your protection, clothe me with your garment, be the teacher of my interior life.*
 

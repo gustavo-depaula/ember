@@ -1,6 +1,6 @@
-## 195 — THE GIFTS OF THE HOLY SPIRIT
+## XXVI — THE GIFTS OF THE HOLY SPIRIT
 
-**Presence of God.** — *O Holy Spirit, open my soul to your gifts, so that I may receive your divine motions.*
+**Presence of God.** — *O Holy Spirit, develop in me Your gifts, so that I may receive Your divine motions.*
 
 ### Meditation
 

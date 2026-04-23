@@ -1,4 +1,4 @@
-## 226 — LIVING WITH THE TRINITY
+## XXVI — LIVING WITH THE TRINITY
 
 **Presence of God.** — *O Father, O Son, O Holy Spirit, receive me in your embrace, deign to admit me to your intimacy.*
 

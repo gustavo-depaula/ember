@@ -1,4 +1,4 @@
-## 245 — THE CHIAROSCURO OF FAITH
+## XV — THE CHIAROSCURO OF FAITH
 
 **Presence of God.** — *O Lord, teach me to believe even amid obscurity and darkness; teach me to believe by trusting solely in your word.*
 

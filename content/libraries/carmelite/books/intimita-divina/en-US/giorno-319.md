@@ -1,4 +1,4 @@
-## 319 — BLESSED ARE THE PURE OF HEART
+## XXVII — BLESSED ARE THE PURE OF HEART
 
 **Presence of God.** — *Increase, O Lord, purity of my heart and mind so that I may know You ever better.*
 

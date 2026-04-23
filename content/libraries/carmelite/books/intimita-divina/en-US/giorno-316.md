@@ -1,4 +1,4 @@
-## 316 — BLESSED ARE THOSE WHO MOURN
+## XXIV — BLESSED ARE THOSE WHO MOURN
 
 **Presence of God.** — *Grant me, O Lord, to shed only tears acceptable to You and helping me grow in your love.*
 

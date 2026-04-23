@@ -1,4 +1,4 @@
-## 80 — THE ESSENCE OF DETACHMENT
+## 4 — THE ESSENCE OF DETACHMENT
 
 **Presence of God.** — *O Lord, make me understand in what that total detachment consists which You require of the soul that wants to reach union with You.*
 

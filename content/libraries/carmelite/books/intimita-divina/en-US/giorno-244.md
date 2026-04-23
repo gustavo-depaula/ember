@@ -1,4 +1,4 @@
-## 244 — FAITH
+## XIV — FAITH
 
 **Presence of God.** — *O Lord, let me understand the great value of faith.*
 

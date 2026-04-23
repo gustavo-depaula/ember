@@ -11,8 +11,9 @@ Jesus wants to save and sanctify us, but He wants to do so through the Church. H
 
 ### Colloquy
 
-"O Christ, our Lord, You transmitted to Your Church the power You had received. By virtue of Your dignity, You constituted her queen and bride. To her sovereign power You subjected the whole universe. In heaven You ordained that men acknowledge the Church's judgment. She is the mother of all the living, still more worthy by the multitude of her children. She sanctifies You daily and generates new children for You in the Spirit.
-The whole universe is covered by the tendrils of her vine. The branches, supported by the wood of the cross, rise up to the kingdom of heaven.
+"O Christ, our Lord, You transmitted to Your Church the power You had received. By virtue of Your dignity, You constituted her queen and bride. To her sovereign power You subjected the whole universe. In heaven You ordained that men acknowledge the Church's judgment. She is the mother of all the living, still more worthy by the multitude of her children.
+
+Every day she generates for You in the Spirit new children. The whole universe is covered by the tendrils of her vine. The branches, supported by the wood of the cross, rise up to the kingdom of heaven.
 
 "Your Church, O Christ, is the strong city built on the mountain, visible to every gaze and illuminating everyone. Her founder and at the same time her first citizen are You, O Son of God and our Lord.
 

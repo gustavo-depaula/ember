@@ -1,4 +1,4 @@
-## 201 — FEAST OF "CORPUS DOMINI"
+## I — FEAST OF "CORPUS DOMINI"
 *Thursday after the First Sunday after Pentecost*
 
 **Presence of God.** — *"O living Bread that hides my Treasure, before You, prostrate, I adore You!" (St. John of the Cross, Poems).*

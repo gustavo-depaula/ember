@@ -1,4 +1,4 @@
-## 194 — THE WAY OF THE CROSS
+## XXV — THE WAY OF THE CROSS
 
 **Presence of God.** — *O Holy Spirit, instruct me on the value of suffering; teach me to esteem and love it as a means of sanctification.*
 

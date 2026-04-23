@@ -1,4 +1,4 @@
-## 324 — DUTY OF APOSTOLATE
+## 2 — DUTY OF APOSTOLATE
 
 **Presence of God.** — *O Jesus, who welcomed me as your member, grant that I may not live as stranger in your Mystical Body, but may serve good of all brothers.*
 
@@ -26,10 +26,8 @@ Of each member, that is, of each Christian, Jesus wants to make use in continuin
 
 ### Colloquy
 
-"My God, I know very well You need no one to accomplish your work of sanctification. Yet You wish to be helped in divine cultivation of souls, as You allow a skilled gardener to cultivate delicate and rare plants while reserving to Yourself care of making them fruitful. Oh, how many souls would arrive at eminent holiness if they were well directed from first steps!
+"My Lord, turn the eye of your mercy upon your people and upon the Mystical Body of the holy Church, for You will be more glorified in pardoning so many creatures than in pardoning only me, a wretch who has so greatly offended You. Therefore I beg You, divine and eternal Charity, to take vengeance on me and to have mercy on your people; I will not depart from your presence until I see that You show them mercy. How could I be content if I had eternal life and your people death?... I wish, then — and as a grace I ask it of You — that You use mercy toward your people for that charity which moved You to create man in your image and likeness, that he might share in You, in your life.
 
-"My God, greatest honor You can give a soul is not to give it much, but to ask much of it. Therefore, when You give me sufferings for salvation of souls, You treat me as one of your privileged! Was it not by suffering and dying that You too redeemed world? O Jesus, I aspire to happiness of sacrificing my life for You. But martyrdom of heart is no less fruitful than shedding of blood, and already now this martyrdom is mine. How beautiful, O Lord, is part You have reserved for me, part worthy of an apostle!
+"O Lord, I offer You my life, now and always, whenever it shall please You; and I place it for your glory, asking still humbly, by the virtue of your Passion, that You cleanse and purify from every defect the Church, your spouse, and delay no longer... I then turn my gaze elsewhere and see the lost souls of countless sinners, and seeing them my heart breaks — or rather, with the force of bitter sorrow, it swells — and so, overcome by compassion, I cannot help but weep their misery, almost as if I found myself like unto them, stained with the mud of their sins.
 
-"O Lord, yes, I desire to work with You for salvation of souls. I have only one day of this life to save them and thus give You proof of my love. Day after this day will be eternity; then You will return to me a hundredfold joys I sacrifice for You.
-
-"How sweet, O Jesus, to help You by our little sacrifices save souls redeemed by your Blood, souls that, not to fall into abyss, await only our help. How happy I would be if at death I could have one soul to offer You! There would be one soul snatched from fire of hell and blessing You for all eternity" (St. Therese of the Child Jesus).
+"Lord, You, in the course of your mortal life, bore the weight of two crosses, carrying upon your back the heavy burden of our sins; so You, that I might become conformed to You, loaded me with the weight of two crosses: one bears down with infirmities and other anguishes upon the body, the other pierces the sorrowful soul for the perdition and blindness of so many wretched and obstinate sinners" (St. Catherine of Siena).

@@ -1,4 +1,4 @@
-## 166 — SPOUSE OF THE HOLY SPIRIT
+## III — SPOUSE OF THE HOLY SPIRIT
 
 **Presence of God.** — *O Mary, spouse of the Holy Spirit, make me docile to his divine motions.*
 
@@ -14,6 +14,6 @@ If Mary's most exalted privileges are reserved to her alone, we can nevertheless
 
 ### Colloquy
 
-"O Mary, You are holy in body and in spirit. In a wholly special way You can say: 'My conversation is in heaven' (cf. Phil. 3, 20). You are the enclosed garden, the sealed fountain, the Lord's temple, the sanctuary of the Holy Spirit" (cf. St. Bernard).
+"O Mary, You are holy in body and in spirit. In a wholly special way You can say: 'My conversation is in heaven' (cf. Phil. 3, 20). You are the enclosed garden, the sealed fountain, the Lord's temple, the sanctuary of the Holy Spirit. You are the prudent Virgin who is not only furnished with oil, but who has hidden its fullness in her lamp. O Mary, how have You been able to reach the inaccessible Majesty of God, if not by knocking, asking, seeking? Yes, You have found what You sought, and the Angel said to You: 'You have found grace before God.' But in what way do You, already full of grace, still find grace? Oh, You are truly worthy of finding grace, You who are not satisfied with your own fullness but ask for a superabundance of grace for the salvation of the world! 'The Holy Spirit will come upon You,' the Angel said to You, and this precious balm pours upon You in such abundance that from the first the Holy Spirit overflows from You upon the whole earth... If before the Holy Spirit was in You with the richness of grace, now He comes upon You with grace superabundant, as if to signify the overflowing fullness of grace poured out upon You. If before grace filled only Your soul, now instead it pervades also Your womb... divine power makes You fruitful, and You shall conceive of the Holy Spirit" (cf. St. Bernard).
 
-O Mary, help me then, O faithful Virgin, to overcome every resistance of my pride, my egoism, my cowardice, so that my soul may open itself totally to the invasion of grace, abandon itself docilely to the Holy Spirit's action, and promptly follow his impulses, inspirations, and invitations.
+O Mary, most faithful spouse of the Holy Spirit, look upon my misery and weakness. God has placed in You the fullness of all His gifts so that I may understand that every hope, every grace, every salvation comes from You! You see the hardness of my heart. You see the blindness of my mind; help me then, O faithful Virgin, to overcome every resistance of my pride, my egoism, my cowardice, so that my soul may open itself totally to the invasion of grace, abandon itself docilely to the Holy Spirit's action, and promptly follow his impulses, inspirations, and invitations.

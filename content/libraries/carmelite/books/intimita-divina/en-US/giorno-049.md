@@ -1,7 +1,7 @@
 ## 49 — THE FIRST MIRACLE OF JESUS
 *Second Sunday after Epiphany*
 
-**Presence of God.** — *— O Jesus, today I ask You to renew in me the great miracle You once worked for the spouses of Cana.*
+**Presence of God.** — *O Jesus, today I ask You to renew in me the great miracle You once worked for the spouses of Cana.*
 
 ### Meditation
 

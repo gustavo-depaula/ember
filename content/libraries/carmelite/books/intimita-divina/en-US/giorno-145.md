@@ -1,6 +1,6 @@
-## 146 — OUR PREPARATION
+## VI — OUR PREPARATION
 
-**Presence of God.** — *— O Lord, make me generous and faithful in your service, so that I may never place an obstacle to your action in me.*
+**Presence of God.** — *O Lord, make me generous and faithful in your service, so that I may never place an obstacle to your action in me.*
 
 ### Meditation
 
@@ -10,7 +10,7 @@ If it is right that the soul that feels called to divine intimacy esteem and des
 
 **2** — Teresa of Jesus, speaking of the spiritual atmosphere in which contemplation ordinarily blossoms, proposes first of all an intense exercise of virtues, particularly total detachment and profound humility; and one must note that she is not satisfied with a somewhat superficial exercise, but requires that it be fully generous, indeed often requiring a truly heroic exercise. And the reason is this: contemplation is a generous gift of God, therefore it demands generosity on our part; ungenerous souls are precisely those that will not know it. It is always the great principle inculcated by the Saint: "God forces no one: He accepts what is given Him, but He does not give Himself entirely except to those who give themselves entirely to Him" (Way 28, 12).
 
-Alongside this atmosphere of generosity, there must then be a diligent and constant application to recollection and prayer. The more the soul knows how to recollect itself in God, making its prayer and its vital contact with Him ever more intimate and deep, the more apt it will be to receive divine motions. Here, in synthesis, is what our preparation must be: on the one hand an intense exercise of mortification, of self-denial, of detachment - and this is the practice of the virtues! - and on the other an intense application to the life of prayer.
+Alongside this atmosphere of generosity, there must then be a diligent and constant application to recollection and prayer. The more the soul knows how to recollect itself in God, making its prayer and its vital contact with Him ever more intimate and deep, the more apt it will be to receive divine motions. Here, in synthesis, is what our preparation must be: on the one hand an intense exercise of mortification, of self-denial, of detachment - and this is the practice of the virtues! - and on the other an intense application to the life of prayer. (Note: we have developed this subject at length in the meditations of February and March; in the meditations of this month we shall treat instead of prayer.)
 
 Certainly, in preparing ourselves for contemplation, we do not intend to make it the end of our spiritual life. The end is always love, since holiness consists essentially in the perfection of charity. Nevertheless, contemplation is a very powerful means for bringing us quickly to the fullness of love, and precisely for this reason we desire it. Our life is a journey toward God, a continual tending, a continual turning of our energies toward Him. Happy the soul that is powerfully drawn toward the Lord! its step becomes much more agile and rapid. This is precisely the great help that comes from contemplation. And so we understand that we must prepare ourselves for it not to enjoy its sweetnesses, but to enter fully into the way of divine intimacy, into the way of perfect love, since nothing is capable of orienting us totally to God and to his glory like that loving experience and that contemplative light which constitute the essence of contemplation.
 

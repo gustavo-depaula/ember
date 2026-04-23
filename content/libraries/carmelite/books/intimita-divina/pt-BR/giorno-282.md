@@ -1,6 +1,6 @@
 ## XXI — OS DEZ LEPROSOS
 
-*XII Domingo depois de Pentecostes*
+*XIII Domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Ó Jesus Salvador, preciso de ti, cura-me, tem piedade de mim!*
 

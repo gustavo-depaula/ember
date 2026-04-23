@@ -1,4 +1,4 @@
-## 293 — COURAGE
+## I — COURAGE
 **Presence of God.** — *O Lord, make me a strong and courageous soldier in your service.*
 
 ### Meditation

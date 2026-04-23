@@ -1,7 +1,7 @@
 ## 30 — BELIEVE IN LOVE
 *December 26*
 
-**Presence of God.** — *— O sweetest Child Jesus, let me penetrate the abyss of Your infinite love, so that I may know how to believe in it with all my strength.*
+**Presence of God.** — *O sweetest Child Jesus, let me penetrate the abyss of Your infinite love, so that I may know how to believe in it with all my strength.*
 
 ### Meditation
 

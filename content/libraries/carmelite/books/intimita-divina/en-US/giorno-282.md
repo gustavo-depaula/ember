@@ -1,5 +1,5 @@
-## 282 — THE TEN LEPERS
-*XII Sunday after Pentecost*
+## XXI — THE TEN LEPERS
+*XIII Sunday after Pentecost*
 
 **Presence of God.** — *O Jesus Savior, I need You: heal me, have mercy on me!*
 

@@ -1,6 +1,6 @@
 ## 53 — JESUS, MESTRE DE SANTIDADE
 
-**Presença de Deus.** — *Ó Jesus crucificado, pelos méritos da tua Cruz, ensina-me a levar cada dia a minha cruz.*
+**Presença de Deus.** — *Sempre tenho necessidade de ti, divino Mestre, porque só Tu és santo e podes ensinar-me o verdadeiro caminho da santidade.*
 
 ### Meditação
 

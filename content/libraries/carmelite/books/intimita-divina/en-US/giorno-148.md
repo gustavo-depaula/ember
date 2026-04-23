@@ -1,4 +1,4 @@
-## 148 — VOCAL PRAYER
+## IX — VOCAL PRAYER
 **Presence of God.** — *Lord, teach me to pray!*
 
 ### Meditation

@@ -1,4 +1,4 @@
-## 183 — MARY AND FRATERNAL CHARITY
+## XIV — MARY AND FRATERNAL CHARITY
 
 **Presence of God.** — *O Mother who so greatly loved men, teach me to fulfill perfectly the precept of fraternal charity.*
 
@@ -13,3 +13,7 @@ Mary teaches us that when love for God is truly full, it necessarily flows into 
 ### Colloquy
 
 "With what sweetness and humility of heart, O Mary, did you go to visit Elizabeth! You, the Sovereign, go to the servant; You, the Mother of God, to the mother of the precursor... And with what delicacy at Cana did You want to help the spouses! You had pity on their embarrassment because You are merciful and full of goodness. From a fountain of tenderness, what can flow forth if not tenderness? Is it perhaps strange that a heart full of goodness should produce goodness? If, for half a day, someone holds in his hand a fragrant fruit, will he not perhaps keep its perfume for all the rest of the day? With how much virtue, then, O Mary, must your heart have been filled by infinite Goodness, which rested in you for nine months! I know, this Goodness, even before invading your womb, had invaded your heart, and even when it left your bosom it did not depart from your soul" (cf. St. Bernard).
+
+O Holy Virgin, it is precisely this charity — fruit of your intimate union with God — that You cause to overflow upon all men, not disdaining to receive them in the wide embrace of your immense love. That same charity which wholly inflamed You with love for the Eternal inflamed You also with love for men, because You have regarded them not in themselves but in God, considering them as his creatures, as his children. That same charity which consecrated You to the service of the Most High consecrated You also to the service of humanity, and so You have loved every creature and have loved also me, though so wretched.
+
+O Mary, it is true! also in me, from the day of my baptism, the Holy Spirit has poured out his charity; but my selfishness has arrested its development, and I, who love my God so little, also love my neighbor very little. You see, O most loving Mother, how much I need to expand my heart in charity! Awaken, therefore, and nourish in me this virtue, and grant that, by giving myself to the service of God, I may also know how to give myself to the service of my neighbor, with sweetness and humility, with readiness and generosity.

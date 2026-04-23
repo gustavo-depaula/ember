@@ -1,4 +1,4 @@
-## 173 — THE LORD'S ASCENSION
+## X — THE LORD'S ASCENSION
 
 **Presence of God.** — *O Jesus, ascending into heaven, grant that I too may dwell with my heart in heaven.*
 

@@ -1,4 +1,4 @@
-## 257 — THE PRECEPT OF CHARITY
+## XXVII — THE PRECEPT OF CHARITY
 
 **Presence of God.** — *O Lord, teach me truly to love You with all my heart, with all my soul, with all my strength.*
 

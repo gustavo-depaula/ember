@@ -1,6 +1,6 @@
 ## XIII — O PROGRESSO ESPIRITUAL
 
-**Presença de Deus.** — Ó Senhor, concede-me progredir cada dia no caminho da santidade, sem jamais cansar-me e sem jamais voltar atrás.
+**Presença de Deus.** — *Ajuda-me, ó Senhor, a progredir rapidamente no caminho da virtude.*
 
 ### Meditação
 

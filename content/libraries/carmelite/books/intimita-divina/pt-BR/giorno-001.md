@@ -2,7 +2,7 @@
 
 *1º Domingo do Advento*
 
-**Presença de Deus.** — *Coloquei-me em sua presença para encontrá-lo com todo o impulso da minha vontade.*
+**Presença de Deus.** — *O Senhor está por vir; coloco-me em sua presença para ir ao seu encontro com todo o impulso da minha vontade.*
 
 ### Meditação
 

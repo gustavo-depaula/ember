@@ -1,7 +1,7 @@
 ## 26 — THE MYSTERY OF THE INCARNATION
 *December 22*
 
-**Presence of God.** — *— I place myself in the presence of Jesus with the lively desire to penetrate that infinite mystery of divine love that led Him, God, to make Himself "one of us."*
+**Presence of God.** — *I place myself in the presence of Jesus with the lively desire to penetrate that infinite mystery of divine love that led Him, God, to make Himself "one of us."*
 
 ### Meditation
 

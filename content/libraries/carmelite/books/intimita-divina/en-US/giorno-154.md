@@ -1,7 +1,7 @@
-## 152 — THE GOOD SHEPHERD
+## XV — THE GOOD SHEPHERD
 *Second Sunday after Easter*
 
-**Presence of God.** — *— O Jesus, my good Shepherd, come lead me to the pastures of eternal life.*
+**Presence of God.** — *O Jesus, my good Shepherd, come lead me to the pastures of eternal life.*
 
 ### Meditation
 

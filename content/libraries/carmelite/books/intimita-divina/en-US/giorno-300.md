@@ -1,4 +1,4 @@
-## 300 — THE NATIVITY OF THE BLESSED VIRGIN MARY
+## VIII — THE NATIVITY OF THE BLESSED VIRGIN MARY
 **Presence of God.** — *O Mary, my Mother, teach me to live hidden with you in God's shadow.*
 
 ### Meditation

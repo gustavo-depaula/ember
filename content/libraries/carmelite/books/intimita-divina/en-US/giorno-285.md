@@ -1,4 +1,4 @@
-## 285 — PERFECT JUSTICE
+## XXIV — PERFECT JUSTICE
 **Presence of God.** — *O Lord, who are just and love just actions, teach me the perfection of justice.*
 
 ### Meditation

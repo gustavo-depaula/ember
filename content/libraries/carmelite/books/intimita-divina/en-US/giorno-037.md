@@ -1,7 +1,7 @@
 ## 37 — THE NAME OF JESUS
 *January 2*
 
-**Presence of God.** — *— O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.*
+**Presence of God.** — *O Jesus, let me understand the mysteries and treasures enclosed in Your sweetest name.*
 
 ### Meditation
 
@@ -18,8 +18,6 @@ humbled Himself, becoming obedient unto death, even unto
 death on a cross. Therefore God exalted Him and gave Him the name that
 is above every name, so that at the name of Jesus every knee may bow" (Phil. 2, 8-10). Thus sings the Church in the Office
 of the day, inviting all her children to render grateful and devout homage to Him who so greatly humbled Himself for us.
-
-\* Move this meditation according to the calendar of the year.
 
 Responding to this invitation, the heart of every Christian
 must exalt the most holy name of his Savior, and this
@@ -80,7 +78,7 @@ O sweetest name, You grant pardon to sinners,
 reform morals,
 fill the fearful with divine sweetness,
 drive away frightful phantoms! O most glorious name! Through You are
-revealed the mysteries of eternal life, souls are inflamed with divine love,
+revealed the mysteries of divine love, souls are inflamed with divine love,
 strengthened in battles, and are set free
 
 from all dangers! O desirable name,

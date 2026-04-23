@@ -1,4 +1,4 @@
-## 79 — OS APEGOS VOLUNTÁRIOS
+## 3 — OS APEGOS VOLUNTÁRIOS
 
 **Presença de Deus.** — *Ó Senhor, coloco-me à Tua presença pedindo-Te que ilumines a minha alma, para que eu possa ver quais são os obstáculos à minha união contigo.*
 

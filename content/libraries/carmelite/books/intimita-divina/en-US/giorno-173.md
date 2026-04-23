@@ -1,4 +1,4 @@
-## 167 — MOTHER OF GOD
+## IV — MOTHER OF GOD
 
 **Presence of God.** — *Holy Mother of my God, make me feel the beatings of your heart that beat in unison with God's heart!*
 

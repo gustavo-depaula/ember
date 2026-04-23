@@ -10,7 +10,7 @@
 
 ### Colóquio
 
-*«Ó mãe minha dulcíssima, Tu me chamas e me dizes:
+«Ó mãe minha dulcíssima, Tu me chamas e me dizes:
 
 "‘Se alguém é pequeno, venha a mim’. As crianças têm sempre nos lábios o nome da mãe e em todo perigo, em todo susto, em toda dificuldade logo a chamam. Ó Mãe dulcíssima, ó Mãe amorosíssima, é justamente isto que Tu desejas: que, como pequena criança, eu sempre te chame, sempre recorra a ti... Deixa, pois, que continuamente te invoque e te diga: Mãe minha, Mãe minha amabilíssima. Este nome tudo me consola, me enternece, me recorda a obrigação que tenho de amar-te. Este nome me anima a confiar em ti. Mãe minha, assim te chamo, e assim quero sempre chamar-te. Depois de Deus Tu és minha esperança, meu refúgio,
 

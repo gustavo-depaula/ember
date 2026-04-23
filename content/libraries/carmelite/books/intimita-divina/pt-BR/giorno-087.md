@@ -29,7 +29,7 @@ de trabalho honesto, devem fazê-lo com ordem, isto
 é, evitando que os negócios e interesses materiais os desviem
 de atender aos interesses da alma e aos deveres para com
 Deus. "Que aproveita ao homem ganhar o mundo inteiro,
-se depois perde a alma?" (Mc. 16, 26). E a quem possui
+se depois perde a alma?" (Mt. 16, 26). E a quem possui
 pouco e vive em estreitezas materiais, o espírito de pobreza
 exige aceitar serena e pacientemente as próprias
 

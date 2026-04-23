@@ -1,4 +1,4 @@
-## 159 — LOVING ATTENTION TO GOD
+## XX — LOVING ATTENTION TO GOD
 **Presence of God.** — *O Lord, may Your presence be light and strength to my soul, be support and stay to my prayer.*
 
 ### Meditation

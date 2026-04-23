@@ -1,4 +1,4 @@
-## 254 — CORRESPONDENCE TO GRACE
+## XXIV — CORRESPONDENCE TO GRACE
 *IX Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, grant that in me your grace may not be in vain.*

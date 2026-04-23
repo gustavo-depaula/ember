@@ -1,7 +1,7 @@
 ## 36 — THE CIRCUMCISION OF THE LORD
 *January 1*
 
-**Presence of God.** — *— I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.*
+**Presence of God.** — *I draw near to You, divine Little Child, desirous of receiving into my soul the first drops of Your most precious Blood.*
 
 ### Meditation
 

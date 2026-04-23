@@ -1,4 +1,4 @@
-## 78 — NECESSIDADE DA PURIFICAÇÃO INTERIOR
+## 2 — NECESSIDADE DA PURIFICAÇÃO INTERIOR
 
 **Presença de Deus.** — *Purifica, ó Senhor, a minha alma para que possa ser totalmente invadida pela Tua luz e pelo Teu amor.*
 

@@ -1,4 +1,4 @@
-## 278 — PRUDENCE
+## XVII — PRUDENCE
 **Presence of God.** — *Teach me, O Lord, the way of true prudence.*
 
 ### Meditation
@@ -7,7 +7,7 @@
 
 The parable of the prudent virgins and the foolish virgins shows very well the necessity of this virtue. All fall asleep while awaiting the bridegroom, but whereas the first five are admitted to the wedding, the others are rejected only because they did not have the prudence to bring with them sufficient oil to feed their lamps. And the parable concludes: "Watch therefore, for you know neither the day nor the hour" (Mt. 25:13). Supernatural prudence counsels us first of all to make diligent use of the time the Lord gives us and of the occasions He offers for exercising virtue, because "night comes, when no one can work" (Jn. 9:4). When, through our laziness or negligence, we let slip the occasion to do a good work, that occasion is lost forever. It is true others may present themselves later, but that one will never return.
 
-**2** — The future is in God's hands; we have at our disposal only the present instant with its circumstances. Therefore true supernatural prudence consists in valuing to the utmost, in view of our eternal end, the fleeting instant. Human prudence values time in order to accumulate earthly goods; supernatural prudence to accumulate eternal goods: "Do not store up treasures on earth... but store up treasures in heaven, where neither rust nor moth consumes them.... Seek first the kingdom of God and his justice, and all the rest shall be given you besides" (Mt. 6:19-33). Here are the great rules of prudence dictated to us by Jesus.
+**2** — The future is in God's hands; we have at our disposal only the present instant with its circumstances. Therefore true supernatural prudence consists in valuing to the utmost, in view of our eternal end, the fleeting instant. Human prudence values time in order to accumulate earthly goods; supernatural prudence to accumulate eternal goods: "Do not store up treasures on earth... but store up treasures in heaven, where neither rust nor moth consumes them.... Seek first the kingdom of God and his justice, and all the rest shall be given you besides" (Mt. 6, 19-23). Here are the great rules of prudence dictated to us by Jesus.
 
 To a religious who confessed her repugnance for performing an act of charity that required particular spirit of sacrifice, St. Thérèse of the Child Jesus replied: "I instead would have been happy to perform it, for we are on earth to suffer, and the more one suffers, the happier one is. Oh, how badly you know how to arrange your affairs!" (Unpublished memories). Supernatural prudence teaches us precisely to arrange our affairs well, not in view of earthly happiness, but of eternal beatitude; not in view of our selfish interests, but of our progress on the way of perfection, and above all in view of God's glory and the good of souls.
 

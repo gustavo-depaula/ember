@@ -1,4 +1,4 @@
-## 223 — THE TRINITY AND US
+## XXIII — THE TRINITY AND US
 
 **Presence of God.** — *O Most Holy Trinity, who delight to dwell in my soul, deign to associate me with your divine life.*
 

@@ -1,6 +1,6 @@
 ## 25 — A AÇÃO APOSTÓLICA
 
-**Presença de Deus.** — *Inflama-me, ó Senhor, com o teu santo zelo, para que eu não saiba tolerar em mim a menor coisa que te desagrade.*
+**Presença de Deus.** — *Ponho-me na presença de Jesus para aprender dele, primeiro e único Apóstolo, quais requisitos deve ter a minha ação para que possa realmente aproveitar às almas.*
 
 ### Meditação
 

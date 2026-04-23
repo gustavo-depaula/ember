@@ -1,4 +1,4 @@
-## 275 — THE GOOD SAMARITAN
+## XIV — THE GOOD SAMARITAN
 *XII Sunday after Pentecost*
 
 **Presence of God.** — *Lord, imprint in my heart the example and commandment of your charity.*

@@ -1,4 +1,4 @@
-## 299 — PERSEVERANCE
+## VII — PERSEVERANCE
 **Presence of God.** — *May your grace, O God, make me persevering unto the end.*
 
 ### Meditation

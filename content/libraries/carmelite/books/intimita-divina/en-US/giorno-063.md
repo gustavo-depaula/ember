@@ -1,7 +1,7 @@
 ## 63 — THE CALMED STORM
 *Fourth Sunday after Epiphany*
 
-**Presence of God.** — *O Jesus, crucified for love of me, reveal to me the victory won by Your death.*
+**Presence of God.** — *O Lord, I adore You hidden in the little bark of my soul: if You are with me, I fear nothing.*
 
 ### Meditation
 

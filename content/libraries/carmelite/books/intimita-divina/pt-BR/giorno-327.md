@@ -1,4 +1,4 @@
-## 327 — A ALMA DO APOSTOLADO
+## 5 — A ALMA DO APOSTOLADO
 
 **Presença de Deus.** — *Faze-me compreender, ó Senhor, que só a união contigo, que só o amor pode fecundar todo apostolado.*
 
@@ -12,7 +12,7 @@ Quem, pois, será apto a compreender o grande mistério da Redenção e a levar-
 
 Para os fins do apostolado, não pode ser suficiente aquele primeiro grau de amizade divina que resulta da ausência do pecado grave, mas é necessária uma amizade mais profunda que crie uniformidade de perspectivas, de vontade, de desejos, de afetos, de modo que o apóstolo possa agir segundo o coração de Deus, movido não por impulsos pessoais, mas pelo impulso da graça, pelo querer divino, pelas inspirações do Espírito Santo.
 
-É significativo o fato de que Jesus, antes de lançar os Apóstolos à conquista do mundo, quis fazê-los viver por três anos na sua intimidade, tratando-os como verdadeiros amigos: «Já não vos chamo servos... vos chamei amigos» (Jo 15, 15). Amigos não só porque participou a eles os tesouros de sua vida divina, mas também porque os quis colaboradores e, em certo sentido, continuadores de sua missão de Redentor.
+É significativo o fato de que Jesus, antes de lançar os Apóstolos à conquista do mundo, quis fazê-los viver por três anos na sua intimidade, tratando-os como verdadeiros amigos: «Já não vos chamo servos... vos chamei amigos» (Jo. 15, 15). Amigos não só porque participou a eles os tesouros de sua vida divina, mas também porque os quis colaboradores e, em certo sentido, continuadores de sua missão de Redentor.
 
 O apóstolo não pode ser tal se não é amigo de Deus; o próprio Deus o convida a essa amizade, mas é necessário que ele corresponda com uma séria vida interior, que torne seus relacionamentos com Deus cada vez mais íntimos e mais ricos de amor.
 

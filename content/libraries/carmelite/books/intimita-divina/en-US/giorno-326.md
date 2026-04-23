@@ -1,4 +1,4 @@
-## 326 — TO FEEL WITH CHRIST
+## 4 — TO FEEL WITH CHRIST
 
 **Presence of God.** — *O Jesus, grant that I may nourish for souls sentiments similar to those of your divine Heart.*
 

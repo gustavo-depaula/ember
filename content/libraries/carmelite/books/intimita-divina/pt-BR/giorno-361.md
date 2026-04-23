@@ -20,7 +20,7 @@ Quanto mais o Senhor te purifica, tanto mais o teu coração se liberta de toda 
 
 «Não há nada sobre a terra que possa comprar um tal tesouro; mas nos tornaríamos logo possuidores dele só que fizéssemos o nosso melhor para não nos apegarmos às coisas do mundo, pondo toda nossa cura e conversação nas do céu. Em vez disso, ó Senhor, acontece que enquanto cremos dar-Te toda coisa, enquanto na realidade não Te damos senão a renda e os frutos, retendo-nos o capital e a propriedade... Bela maneira de buscar o Teu amor! E depois queremos-no logo e a mãos cheias.
 
-«Ó Senhor, se Tu não nos dás este tesouro tudo de uma vez é porque também nós não nos damos a Ti del todo. Apraza-Te pelo menos dar-no-lo gota a gota, ainda que para isso devêssemos submeter-nos a todos os trabalhos do mundo.
+«Ó Senhor, se Tu não nos dás este tesouro tudo de uma vez é porque também nós não nos damos a Ti de todo. Apraza-Te pelo menos dar-no-lo gota a gota, ainda que para isso devêssemos submeter-nos a todos os trabalhos do mundo.
 
 «Não, Deus meu, o amor não está nas lágrimas e nem naquelas consolações e ternuras que ordinariamente se desejam tanto e tanto nelas se recreiam. Ele consiste antes no servir-Te com justiça, com fortaleza de alma e humildade. Sem isto pareceria um receber sempre e um sofrer nunca nada.
 

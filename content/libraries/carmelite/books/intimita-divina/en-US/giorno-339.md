@@ -1,4 +1,4 @@
-## 339 — FORGETFULNESS AND SELF-DENIAL
+## 17 — FORGETFULNESS AND SELF-DENIAL
 
 **Presence of God.** — *O Lord, You who give Yourself to us even as our food, teach me to give myself to souls even to total forgetfulness of self.*
 

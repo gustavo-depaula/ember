@@ -1,6 +1,6 @@
-## 158 — LIFE OF PRAYER
+## XXIII — LIFE OF PRAYER
 
-**Presence of God.** — *— O Lord, may I seek you not only in some hour or moment of the day, but in every moment of my life.*
+**Presence of God.** — *O Lord, may I seek you not only in some hour or moment of the day, but in every moment of my life.*
 
 ### Meditation
 

@@ -1,7 +1,7 @@
 ## 38 — JESUS MEDIATOR
 *January 3*
 
-**Presence of God.** — *— Grant me, O Lord Jesus, to penetrate the grand mystery hidden in Your Incarnation.*
+**Presence of God.** — *Grant me, O Lord Jesus, to penetrate the grand mystery hidden in Your Incarnation.*
 
 ### Meditation
 

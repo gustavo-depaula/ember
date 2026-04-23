@@ -1,14 +1,12 @@
 ## 34 — A SIGN OF CONTRADICTION
 *Sunday within the octave of the Nativity*
 
-**Presence of God.** — *O Lord, fulfill in me Your designs of peace and love, making me rise to a life fully fervent.*
+**Presence of God.** — *Before Jesus the world is divided: friends and enemies. O Lord, may I be among the first and among the most loving!*
 
 ### Meditation
 
 **1** — Today's Mass is an echo of Holy Christmas, but while it commemorates its sweetness and joy, it also carries a note of deep sadness. The Gospel (Lk. 2, 33-40) transports us suddenly to forty days after Jesus' birth,
 when He was presented in the temple, and reports Simeon's prophecy: "Behold, this Child is destined to be the cause of the ruin and resurrection of many in Israel and to become a sign of contradiction."
-
-\* Move this meditation according to the calendar of the year.
 
 The Son of God becomes man for all men and women, brings and offers salvation to all, but many will not receive it. This is the great mystery of human freedom. God places before Himself His intelligent and free creature: He offers it all the treasures of salvation and holiness enclosed in the infinite merits of Jesus Christ; man is free to accept or refuse. This is our tremendous responsibility. Jesus came to save us, to sanctify us, to give Himself wholly to our souls: He is ready to do it, He wills to do it, and yet He will not do it if we do not freely accept His infinite gift, if we do not correspond to His loving solicitations with the small free gift of our will. "God forces no one: He accepts what is given to Him, but He does not give Himself wholly except to those who give themselves wholly to Him" (T.G. Way 28, 12).
 
@@ -32,7 +30,7 @@ My God, what great responsibility men and women have before Your immense benefit
 
 "My Lord, how dare I ask You for new graces after having served You so badly and having kept Your gifts with such negligence? How will You trust a soul that has betrayed You so many times? What shall I do then, O Consolation of the desolate and Remedy of those who call on You for help? Must I perhaps hide my needs, waiting in silence for You to bring me the remedy? No, truly, Lord, because You, my delight, knowing that our needs are many and that in making them known to You we find relief, encourage us to ask, promising us that You will not fail to answer us.
 
-"But what can so miserable a creature as I ask of You? I will say to You with St. Augustine: 'Give me, my God, what to give You, that I may satisfy, at least in part, all that I owe You.' Remember that I am Your creature and grant that I may know my Creator so that I may love Him" (T.G. Es. 3, 16 and 2; 5, 1 and 2).
+"But what can so miserable a creature as I ask of You? I will say to You with St. Augustine: 'Give me, my God, what to give You, that I may satisfy, at least in part, all that I owe You.' Remember that I am Your creature and grant that I may know my Creator so that I may love Him" (T.G. Es. 3, 1 and 2; 5, 1 and 2).
 
 But alas, Lord, it is I who do not remember,
 who do not correspond enough to Your infinite gifts!

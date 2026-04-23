@@ -1,4 +1,4 @@
-## 207 — THE SACRAMENT OF UNION
+## VII — THE SACRAMENT OF UNION
 
 **Presence of God.** — *O Jesus, who nourish me with your Body and your Blood, grant that I may live by You, by your life.*
 

@@ -1,6 +1,6 @@
-## 248 — THE POWER OF FAITH
+## XVIII — THE POWER OF FAITH
 
-**Presence of God.** — *"I believe, Lord; help my unbelief."*
+**Presence of God.** — *«I believe, Lord; help my unbelief, increase my faith» *(Mk.* 9, 23; cf. *Lk.* 17, 5).*
 
 ### Meditation
 

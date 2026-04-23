@@ -1,4 +1,4 @@
-## 172 — MARY'S FAITH
+## IX — MARY'S FAITH
 
 **Presence of God.** — *O my Mother, teach me to believe with full firmness, teach me to trust totally in God.*
 
@@ -15,3 +15,5 @@ The soul of faith does not linger examining God's conduct and, even without unde
 ### Colloquy
 
 "O Mary, cover me with your shadow and I shall remain calm and trusting under your wings. Accompany me on my way and lead me by secret shortcuts. Suffering will not spare me, but You will make me hunger for it like indispensable food. Oh, Mary, Mary! Your name is on my lips like honey and balm. Mary, Mary! Hail Mary! Who can resist you? Who then will be lost with the Hail Mary? Mary, Mary! You, Mother of the little ones, health of the weak, star of storms... O Mary! Mary! If I am without help, without courage, without consolations, I run to you and cry: Hail Mary! You are the comfort of slaves, the courage of the little ones, the power of the weak. Hail Mary! When I pronounce your name my whole heart is inflamed. Hail Mary! Joy of Angels, nourishment of souls. Hail Mary!" (cf. Fr. Edward Poppe).
+
+Yes, O Mary, lead me by the swift shortcut of full confidence in God. O You, who are blessed for having believed, increase my faith; give me a firm, unshakeable, invincible faith. To your faith we owe the fulfillment of the Lord's promises; grant me a share in this faith, so that I may believe in Him, in his words, in his promises, in his invitations, without doubt, without hesitation, without uncertainty. Doubt stops me, hesitation paralyzes me, uncertainty clips my wings... O Mary, grant that I may believe totally, that I may give myself totally to God, adhering to all his plans, accepting with eyes closed every arrangement of divine Providence; grant that I may believe so that I may boldly brave the storms; grant that I may believe so that I may abandon myself fully to the action of the Holy Spirit and walk with Him the way of holiness. If You are with me, O Mary, I shall fear nothing; the strength of your faith will be the support and refuge of mine, so weak and languishing.

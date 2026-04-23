@@ -1,4 +1,4 @@
-## 99 — VENIAL SIN
+## 25 — VENIAL SIN
 
 **Presence of God.** — *Inflame me, O Lord, with Your holy zeal so that I may not tolerate in myself the smallest thing that displeases You.*
 

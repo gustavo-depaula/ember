@@ -9,7 +9,7 @@
 
 Espontaneamente os ânimos se recolhem numa revisão da própria situação: como empregamos o tempo recebido de Deus? No Intróito encontramos a humilde confissão: «Ó Senhor, pecamos contra ti e não observamos teus preceitos»; e na Coleta, o pedido de perdão: «Concede, Senhor, a teus fiéis, aplacado, o perdão e a paz».
 
-Depois, São Paulo, na Epístola (Ef 5,15-21), ensina-nos a usar do melhor modo o tempo que nos resta para chegar à glória eterna: «Vede, pois, irmãos, como andais prudentemente: não como insensatos, mas como sábios, remindo o tempo, porque os dias são maus». O Apóstolo explica em que deve consistir nossa sabedoria: «Não sejais imprudentes, mas procurai compreender qual é a vontade de Deus».
+Depois, São Paulo, na Epístola (Ef. 5,15-21), ensina-nos a usar do melhor modo o tempo que nos resta para chegar à glória eterna: «Vede, pois, irmãos, como andais prudentemente: não como insensatos, mas como sábios, remindo o tempo, porque os dias são maus». O Apóstolo explica em que deve consistir nossa sabedoria: «Não sejais imprudentes, mas procurai compreender qual é a vontade de Deus».
 
 A maior loucura e imprudência que se pode cometer na viagem desta vida é seguir o próprio capricho, a própria vontade; assim se toma um caminho muito perigoso e que nunca conduzirá à meta, ao passo que o único caminho que ali chega é o da vontade de Deus. Quem procura com sinceridade a vontade divina e caminha nela, em vez de ser guiado pelo próprio espírito, é guiado pelo Espírito de Deus, o Espírito Santo, e pode, portanto, estar certo de não se enganar.
 
@@ -17,13 +17,13 @@ A maior loucura e imprudência que se pode cometer na viagem desta vida é segui
 
 Caminhar na vontade divina, guiados pelo Espírito Santo, é a via mais rápida e segura para chegar à pátria celeste.
 
-**2** — Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
+**2** — Mas não se pode caminhar na vontade divina sem a fé; o Evangelho de hoje (Jo. 4,46-53) fala justamente da fé e das qualidades que ela deve ter para agradar a Deus.
 
 Um oficial do rei, tendo ouvido falar das curas maravilhosas operadas por Jesus, vai até ele e lhe pede que vá à sua casa para «curar-lhe o filho, que está para morrer». Esse homem tem fé na virtude taumaturga do Mestre, mas está bem longe de crer que Ele é o Filho de Deus.
 
 Jesus compreende e responde: «Se não virdes sinais e prodígios, não credes». Essas palavras, dirigidas historicamente ao oficial e aos seus conterrâneos, valem moralmente para todos os que fazem depender sua fé daquilo que se vê ou se sente. Poucos são os que creem com simplicidade no Evangelho, na Revelação, no magistério da Igreja; a maioria permanece indiferente e só se comove diante de algum fato insólito que impressione os sentidos.
 
-É verdade que o Senhor pode servir-se também disso para ajudar nossa fraqueza, mas não é essa a fé que lhe agrada: «Bem-aventurados os que creram sem terem visto» (Jo 20,29), disse a Tomé, que não queria crer senão vendo o sinal dos cravos e pondo o dedo nas chagas.
+É verdade que o Senhor pode servir-se também disso para ajudar nossa fraqueza, mas não é essa a fé que lhe agrada: «Bem-aventurados os que creram sem terem visto» (Jo. 20,29), disse a Tomé, que não queria crer senão vendo o sinal dos cravos e pondo o dedo nas chagas.
 
 O motivo profundo da fé não é a nossa experiência, não é ter visto ou tocado com a mão, mas é a autoridade de Deus. Deus se revelou; Ele não se engana nem pode enganar, e nós cremos com segurança na sua palavra. Crer na palavra de Deus: eis a fé genuína, a fé pura que agrada ao Senhor.
 
@@ -47,4 +47,4 @@ Nesta vida caminhamos para Deus não na visão, mas na fé. Quanto mais pura for
 
 «Ó benigníssimo Jesus, concede-me que eu possa sempre desejar e querer somente o que te é mais agradável e mais caro; tua vontade seja a minha, e a minha siga sempre a tua e com ela concorde plenamente.
 
-«Meu querer e não querer seja sempre igual ao teu, Senhor, de modo que eu não possa desejar ou desprezar senão aquilo que Tu ...»
+«Meu querer e não querer seja sempre igual ao teu, Senhor, de modo que eu não possa desejar ou desprezar senão aquilo que Tu queres ou desprezas» *(Imitação III, 15, 2-3)*.

@@ -1,4 +1,4 @@
-## 188 — SWEET GUEST OF THE SOUL
+## XIX — SWEET GUEST OF THE SOUL
 
 **Presence of God.** — *O Holy Spirit, who deign to dwell in me, help me to open myself totally to your action.*
 
@@ -17,3 +17,5 @@ But if the Holy Spirit is an impulse of love who comes into us to sanctify us, t
 "O Holy Spirit, in the most pure womb of the Virgin Mary You formed our Redeemer; You animated Jesus, guiding Him in all that He thought, said, did, and suffered during His earthly life and in the sacrifice of Himself that He offered on the Cross to the Father for us. And when Jesus ascended into heaven, You came upon earth to establish there the mystical Body of Christ, which is the Church, and to apply to this Body the fruits of Christ's life, Blood, Passion, and death. Without this Jesus would have suffered and died in vain. Moreover, O Holy Spirit, in Holy Baptism You descend into us to form Jesus Christ in our souls, to incorporate us into Him, to make us be born and live in Him, to apply to us the effects and merits of His Blood and death, to animate us, inspire us, impel us, and lead us in all that we must think, say, do, and suffer for God. What then should our life be? Oh, it should be a life wholly holy, wholly divine, wholly spiritual, according to Jesus' word: 'what is born of the Spirit is spirit'!
 
 "O most divine Spirit, I give myself wholly to You. Take possession of my soul, guide me in all things, and make me live as a true child of God, as a non-degenerate member of Jesus Christ, and as something that, born of You, belongs totally to You and by You must be totally possessed, animated, and guided" (St. John Eudes).
+
+"O Spirit of my soul, I adore You. Enlighten me, guide me, console me; teach me what I must do, give me your orders; I promise to submit to all that You desire of me and to accept all that You permit to happen to me" (Cardinal Mercier).

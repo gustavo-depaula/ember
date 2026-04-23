@@ -16,7 +16,7 @@ A medida do sofrimento deve ser sabiamente proporcionada, limitada segundo as fo
 
 A amorosa contemplação do Crucificado era a alma de todas as austeridades de S. Teresa Margarida: «Este Deus humilhado e padecente, e sempre entre seus pensamentos vertido, era aquele que lhe dava a força interna para superar qualquer fortíssima dificuldade, que lhe fazia assumir espontaneamente tantas fadigas e obras de caridade e de mortificação, que a tornava insaciável no padecer» (Sp. p. 126).
 
-Contemplando o Crucificado a alma sente que, por quanto se mortifique por amor seu, seus sacrifícios, suas renúncias, são um nada e, antes de conceber sentimentos de vã complacência pelas mortificações compiute, sente o bisogno de umiliarsi e di fare sempre di più. «Ama molto i patimenti — insegna S. Giovanni della Croce — e stimali ben poca cosa per entrare nella grazia dello Sposo, il quale non ha dubitato di morire per te» (AM. II, 15).
+Contemplando o Crucificado a alma sente que, por quanto se mortifique por amor seu, seus sacrifícios, suas renúncias, são um nada e, antes de conceber sentimentos de vã complacência pelas mortificações cumpridas, sente a necessidade de humilhar-se e de fazer sempre mais. «Ama muito os padecimentos — ensina S. João da Cruz — e estima-os por bem pouca coisa para entrar na graça do Esposo, o qual não duvidou em morrer por ti» (AM. II, 15).
 
 ### Colóquio
 

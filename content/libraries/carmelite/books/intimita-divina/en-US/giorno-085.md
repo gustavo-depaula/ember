@@ -1,4 +1,4 @@
-## 85 — EVANGELICAL POVERTY
+## 9 — EVANGELICAL POVERTY
 
 **Presence of God.** — *O Jesus, who for love of me willed to embrace a most poor life, grant that I may understand the great value of poverty.*
 

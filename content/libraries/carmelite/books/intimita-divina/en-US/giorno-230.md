@@ -1,4 +1,4 @@
-## 230 — THE DIVINE ESSENCE
+## XXX — THE DIVINE ESSENCE
 
 **Presence of God.** — *My God, purify and enlighten my gaze so that I may contemplate You.*
 

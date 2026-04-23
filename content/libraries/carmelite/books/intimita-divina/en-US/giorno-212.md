@@ -1,4 +1,4 @@
-## 212 — LOVING LOVE IN RETURN
+## XII — LOVING LOVE IN RETURN
 
 **Presence of God.** — *O Jesus, who have loved me so much, make me capable of returning your love.*
 

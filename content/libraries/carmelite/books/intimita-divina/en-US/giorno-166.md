@@ -1,4 +1,4 @@
-## 162 — HOLY MASS
+## XXVII — HOLY MASS
 
 **Presence of God.** — *O Jesus, grant that your Sacrifice of the Altar may be the source and model of my sacrifice, so that my whole life may be a holocaust of praise to you.*
 

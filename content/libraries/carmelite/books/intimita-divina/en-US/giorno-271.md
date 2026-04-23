@@ -1,5 +1,5 @@
-## 271 — BEAR ONE ANOTHER'S BURDENS
-**Presence of God.** — *O Lord, make me understand all the value of fraternal charity that makes me bear others' burdens as if they were my own.*
+## X — BEAR ONE ANOTHER'S BURDENS
+**Presence of God.** — *Give me, O Lord, a charity attentive and prompt to others' needs, a charity that for love of You may know how to make itself all things to all.*
 
 ### Meditation
 

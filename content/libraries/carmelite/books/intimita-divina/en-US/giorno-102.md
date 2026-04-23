@@ -1,4 +1,4 @@
-## 100 — IMPERFECTION
+## 26 — IMPERFECTION
 
 **Presence of God.** — *O my God, make me understand how necessary it is for the soul to be pure in order to be united with You, infinite perfection!*
 

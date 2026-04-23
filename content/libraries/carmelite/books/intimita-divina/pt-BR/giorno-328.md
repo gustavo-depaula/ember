@@ -1,4 +1,4 @@
-## 328 — O CONVITE DIVINO
+## 6 — O CONVITE DIVINO
 *XIX domingo depois de Pentecostes*
 
 **Presença de Deus.** — *Concede-me, ó Deus, a graça suprema de corresponder com generosidade a todos os teus convites.*

@@ -1,4 +1,4 @@
-## 287 — PIETY AND DEVOTION
+## XXVI — PIETY AND DEVOTION
 **Presence of God.** — *O God, our Father, pour into me the true spirit of piety and devotion.*
 
 ### Meditation

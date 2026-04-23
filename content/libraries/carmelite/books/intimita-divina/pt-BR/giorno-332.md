@@ -10,7 +10,7 @@ Oração e sacrifício estão intimamente conexos, porque brotam de uma única c
 
 Toda alma contemplativa deve «ser digno altar onde possa residir a Divina Majestade» (São João da Cruz), altar do qual se eleva a oração e sobre o qual se imola o sacrifício. O apostolado de Jesus culminou e se cumpriu no aniquilamento da morte de cruz e por meio dela.
 
-Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
+Só depois de ser triturado pelos flagelos, traspassado pelos cravos, abandonado por Deus e pelos homens, o Salvador pôde dizer: «Consummatum est», tudo está consumado (Jo. 19, 30). Assim será de nós: somente quando nos tivermos verdadeiramente sacrificado pelas almas, somente quando tivermos aceitado com Jesus imolar-nos totalmente por sua salvação, poderemos com Ele repetir: tudo está cumprido.
 
 Nossa participação no apostolado de Jesus encontra seu cumprimento no sacrifício de nós mesmos: sacrifício não fantasioso e hipotético, mas real e concreto, de cujo modo e medida o próprio Deus nos indica através das circunstâncias da vida, das permissões de sua divina Providência, das disposições dos superiores, dos deveres de nosso estado.
 

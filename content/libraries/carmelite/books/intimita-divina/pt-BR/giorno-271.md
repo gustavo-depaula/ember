@@ -1,5 +1,5 @@
 ## X — LEVAR UNS OS FARDOS DOS OUTROS
-**Presença de Deus.** — *Ó Senhor, faze-me compreender todo o valor da caridade fraterna que me faz levar os fardos dos outros como se fossem meus.*
+**Presença de Deus.** — *Dai-me, ó Senhor, uma caridade atenta e pronta às necessidades alheias, uma caridade que por amor a ti saiba fazer-se tudo para todos.*
 
 ### Meditação
 

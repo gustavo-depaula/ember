@@ -1,4 +1,4 @@
-## 86 — VOLUNTARY POVERTY
+## 10 — VOLUNTARY POVERTY
 
 **Presence of God.** — *O Lord, deign to show me the treasures hidden in voluntary poverty and the duties that flow from it.*
 

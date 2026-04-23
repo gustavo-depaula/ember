@@ -1,4 +1,4 @@
-## 249 — LIVED FAITH
+## XIX — LIVED FAITH
 
 **Presence of God.** — *O Lord, grant that faith may be the light that guides me in every circumstance of life.*
 
@@ -13,3 +13,5 @@
 "My God, to please You and obtain much from You, I must simply believe in your love, your power, and the sweetness of your gifts. I must believe that You desire to communicate them to me and that your desire far surpasses mine to receive them. I must believe this, because the just man lives by faith. I want to be like a loving daughter who does not want to see or know what means You will choose to bestow your ineffable goods on me. I must only believe it, because the just man lives by faith.
 
 "O Lord, You penetrate everywhere with your goodness, with your individual and infinite love, and with your omnipotence. Give me a faith so simple that, without any reflection, I may move and remain in this truth as in my center and in a refuge of peace where nothing can strike me if I remain well hidden there. O Lord, You love me more than I love myself and You can do all things. You will, before every other thing, my good; I must believe that You desire it more than I do. Here I am before You constantly and at all times, because I know that acts of perfect adoration and abandonment are all the more true, humble, and simple when, deprived of every feeling, they are expressed with the sole support of faith... above all when the soul, in its lower part, sees and touches the profound void in time and in eternity. Well then, O Lord, grant that in these states I may remain, through faith, more than ever present before You. O wonder! When it pleases your divine goodness, the soul can, in its higher part, feel itself flooded with peace even while the storm continues. O ineffable peace that surpasses every feeling, you forever detach us from the sensible and make us run toward pure faith as toward the only source of a divine good of which you are the ineffable and thousand-times-blessed fruit" (cf. Bl. M. Teresa Soubiran).
+
+"O Lord, how sweet it is to serve You amid the darkness and the pain, having only this life in which to live by faith" (cf. T.B.G. CR.).

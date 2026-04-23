@@ -47,9 +47,9 @@ máxima intensidade, é para fazer amar o Amor pelo maior número possível de a
 
 ### Colóquio
 
-«Senhor Deus, meu Diletto! Se a lembrança dos meus pecados ainda Vos retém de
-conceder-me o que Vos peço, fazei pois riguardo a eles, ó Deus meu, a Vossa vontade, que
-é a coisa que eu mais desejo sobre toda outra; mas deh! usai a Vossa bondade e
+«Senhor Deus, meu Amado! Se a lembrança dos meus pecados ainda Vos retém de
+conceder-me o que Vos peço, fazei pois tendo em conta a eles, ó Deus meu, a Vossa vontade, que
+é a coisa que eu mais desejo sobre toda outra; mas ah! usai a Vossa bondade e
 misericórdia, e no perdão deles sereis conhecido. Se depois aguardais as minhas obras
 para exaudir com tal meio a minha prece, dai-me Vós estas obras, fazei-as Vós mesmo em
 mim; e se cumpra o Vosso querer nos padecimentos que de mim quiserdes aceitar. Mas se
@@ -58,7 +58,7 @@ tardais ainda? Pois, se afinal de contas há de ser uma graça e misericórdia a
 no Vosso divino Filho Vos peço, dignai-Vos aceitar a minha pequena moeda, já que a
 quereis, e dai-me este Bem, que Vós mesmo quereis dar-me.
 
-«Quem se poderá liberar dos baixos modos de agir, se Vós não o alardes a Vós em pureza
+«Quem se poderá liberar dos baixos modos de agir, se Vós não o elevardes a Vós em pureza
 de amor, ó meu Deus? Como se levantará a Vós o homem gerado na abjeção e no lodo, se
 Vós, Senhor, não o levantais com a Vossa mão com que o plasmastes? Não me tirareis, ó
 Deus meu, aquilo que uma vez me destes no Vosso unigênito Filho Jesus Cristo, no qual me

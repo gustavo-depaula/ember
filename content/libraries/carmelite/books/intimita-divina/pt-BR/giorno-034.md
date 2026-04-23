@@ -2,7 +2,7 @@
 
 *domingo entre a oitava da Natividade*
 
-**Presença de Deus.** — *Ó Senhor, cumpre em mim os teus desígnios de paz e de amor, fazendo-me ressurgir para uma vida plenamente fervorosa.*
+**Presença de Deus.** — *Diante de Jesus o mundo se divide: amigos e inimigos. Ó Senhor, que eu esteja entre os primeiros e entre os que mais amam!*
 
 ### Meditação
 

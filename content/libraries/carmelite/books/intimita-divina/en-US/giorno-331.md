@@ -1,4 +1,4 @@
-## 331 — APOSTOLIC PRAYER
+## 9 — APOSTOLIC PRAYER
 
 **Presence of God.** — *Accept, Lord, my poor prayer for coming of your kingdom.*
 

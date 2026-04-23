@@ -1,4 +1,4 @@
-## 337 — SANCTIFYING ONESELF IN THE APOSTOLATE
+## 15 — SANCTIFYING ONESELF IN THE APOSTOLATE
 
 **Presence of God.** — *Give me light, O God, so that I may recognize the graces You have prepared along my path to lead me to holiness; make me capable of corresponding to them.*
 

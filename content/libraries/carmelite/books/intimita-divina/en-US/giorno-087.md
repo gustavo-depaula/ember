@@ -1,6 +1,6 @@
-## 87 — THE SPIRIT OF POVERTY
+## 11 — THE SPIRIT OF POVERTY
 
-**Presence of God.** — *— O Jesus, I contemplate You on the mountain while You instruct the crowds on the spirit of poverty. I too draw near, desirous of understanding more deeply the spirit of poverty.*
+**Presence of God.** — *O Jesus, I contemplate You on the mountain while You instruct the crowds on the spirit of poverty. I too draw near, desirous of understanding more deeply the spirit of poverty.*
 
 ### Meditation
 
@@ -26,7 +26,7 @@ duty to administer goods and to increase them through
 honest work, must do so with order, that is, avoiding that business and material interests divert
 them from attending to the interests of the soul and duties toward
 God. "For what does it profit a man to gain the whole world,
-if he then loses his soul?" (Mk. 16, 26). And for one who possesses
+if he then loses his soul?" (Mt. 16, 26). And for one who possesses
 little and lives in material straits, the spirit of poverty
 requires accepting serenely and with patience one's own
 

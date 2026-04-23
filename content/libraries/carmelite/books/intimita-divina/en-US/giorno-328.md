@@ -1,4 +1,4 @@
-## 328 — THE DIVINE INVITATION
+## 6 — THE DIVINE INVITATION
 *Nineteenth Sunday after Pentecost*
 
 **Presence of God.** — *Grant me, O God, supreme grace of corresponding generously to all your invitations.*

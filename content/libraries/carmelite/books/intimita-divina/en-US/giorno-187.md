@@ -1,4 +1,4 @@
-## 187 — THE SPIRIT OF CHRIST
+## XVIII — THE SPIRIT OF CHRIST
 
 **Presence of God.** — *O Holy Spirit, who worked with such fullness in the Most Holy Soul of Jesus, deign to take the direction of my poor soul.*
 
@@ -19,3 +19,5 @@ If, then, Jesus possesses grace in an infinite manner, one can say that the Holy
 Everything that is not wholly yours uproot from me by your inestimable charity, so that, invited and refreshed by the living sweetness of your love, I may love none but You. May the sweet effusions of your Spirit make the burden of life brief and light for me; and do You Yourself deign not to withdraw your cooperation from my works,
 
 so that my soul may magnify You forever; may my life be consecrated to You, and my spirit exult in God my Savior; so that every thought and action may be praise and thanksgiving to You" (St. Gertrude).
+
+O Holy Spirit, who with such fullness worked in the Most Holy Soul of Jesus, deign to work also in my poor soul and to take it entirely under your direction, so that in every interior and exterior action I may move according to your inspirations, your desires, your good pleasure.

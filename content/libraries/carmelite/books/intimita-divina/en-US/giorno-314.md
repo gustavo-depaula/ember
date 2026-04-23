@@ -1,4 +1,4 @@
-## 314 — BLESSED ARE THE MERCIFUL
+## XXII — BLESSED ARE THE MERCIFUL
 
 **Presence of God.** — *O Holy Spirit, make my heart merciful in imitation of Heart of Jesus.*
 

@@ -1,4 +1,4 @@
-## 170 — MARY AS GUIDE AND MODEL
+## I — MARY AS GUIDE AND MODEL
 **Presence of God.** — *I take refuge under your patronage, O Mary; be You the guide and model of my interior life.*
 
 ### Meditation

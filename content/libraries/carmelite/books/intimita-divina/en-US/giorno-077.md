@@ -1,4 +1,4 @@
-## 77 — NEW PROGRAM
+## 1 — NEW PROGRAM
 *Sunday of Septuagesima*
 
 **Presence of God.** — *Lord, I come to You with a living desire to learn how to correspond to Your invitations.*

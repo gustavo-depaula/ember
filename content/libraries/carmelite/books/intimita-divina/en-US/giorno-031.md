@@ -1,7 +1,7 @@
 ## 31 — REPAY LOVE
 *December 27*
 
-**Presence of God.** — *O my God, may I know You, may I know myself! May I know that You are He who is, and I the one who is not.*
+**Presence of God.** — *I gather myself at the feet of the poor manger: I contemplate the Child Jesus, desiring that He teach me to repay His love.*
 
 ### Meditation
 

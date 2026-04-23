@@ -1,4 +1,4 @@
-## 164 — THE DIVINE OFFICE
+## XXX — THE DIVINE OFFICE
 
 **Presence of God.** — *O Jesus, unite me to your great prayer, to the great prayer of the Church.*
 

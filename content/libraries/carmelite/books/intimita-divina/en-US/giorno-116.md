@@ -1,4 +1,4 @@
-## 114 — HIDING WITH CHRIST IN GOD
+## 40 — HIDING WITH CHRIST IN GOD
 
 **Presence of God.** — *O Jesus, help me to hide from creatures so as to enter into Your divine intimacy.*
 

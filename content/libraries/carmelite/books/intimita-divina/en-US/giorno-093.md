@@ -1,4 +1,4 @@
-## 93 — WITH JESUS CRUCIFIED
+## 17 — WITH JESUS CRUCIFIED
 **Presence of God.** — *O Jesus, I place myself at the foot of Thy Cross, that Thou mayest make me understand how necessary it is to suffer in order to become like Thee.*
 
 ### Meditation

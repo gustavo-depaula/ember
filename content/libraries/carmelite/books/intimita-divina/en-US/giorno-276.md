@@ -1,4 +1,4 @@
-## 276 — THE ASSUMPTION OF MARY
+## XV — THE ASSUMPTION OF MARY
 **Presence of God.** — *O Most Holy Mary assumed into heaven, I beg you to purify my senses, so that I may learn to taste God even here below.*
 
 ### Meditation

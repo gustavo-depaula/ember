@@ -1,4 +1,4 @@
-## Última domingo de outubro — FESTA DE CRISTO REI
+## Último domingo de outubro — FESTA DE CRISTO REI
 
 **Presença de Deus.** — *Ó Jesus, Príncipe dos séculos, Rei das nações, sede o único Rei da minha mente e do meu coração.*
 
@@ -16,7 +16,7 @@ A este Rei divino que Se nos apresenta num aspecto tão humano, tão amante, tã
 
 "Tu és Rei, ó meu Deus, Rei eterno e imenso e de um reino certamente não havido por empréstimo. Quando recito no *Credo* que o vosso reino não terá fim, estremeço de alegria. Sim, o vosso reino será eterno e eu Vos louvo e bendigo" (T.G. *Cam.* 22, 1).
 
-«Ó Rei divino, amabilíssimo Jesus, meu Redentor, meu Salvador, meu Esposo, meu Mestre e modelo, renovo-Vos hoje a total consagração do meu ser, suplicando-Vos que tomeis absoluto domínio de mim mesma. Sede Vós o meu soberano, o meu dominador, a minha guia e dirigi-me e governai-me inteiramente, de modo que tudo seja rivolto à vossa maior glória. Sede Vós o soberano da minha memória, do meu intelecto, da minha vontade, da minha sensibilidade que quero sujeitar completamente a Vós, convidando-Vos a reinar em mim.
+«Ó Rei divino, amabilíssimo Jesus, meu Redentor, meu Salvador, meu Esposo, meu Mestre e modelo, renovo-Vos hoje a total consagração do meu ser, suplicando-Vos que tomeis absoluto domínio de mim mesma. Sede Vós o meu soberano, o meu dominador, a minha guia e dirigi-me e governai-me inteiramente, de modo que tudo seja voltado à vossa maior glória. Sede Vós o soberano da minha memória, do meu intelecto, da minha vontade, da minha sensibilidade que quero sujeitar completamente a Vós, convidando-Vos a reinar em mim.
 
 «O vosso reino é reino de verdade, de amor, de justiça e de paz.
 

@@ -1,4 +1,4 @@
-## 295 — GENEROSITY
+## III — GENEROSITY
 **Presence of God.** — *Enlarge my heart, O Lord, in generosity, so that I may know how to give myself totally to your service.*
 
 ### Meditation

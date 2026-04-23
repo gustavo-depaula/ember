@@ -1,4 +1,4 @@
-## 174 — MARY'S HOPE
+## XI — MARY'S HOPE
 
 **Presence of God.** — *O Mary, Mother of good hope, teach me the way of full confidence in God.*
 

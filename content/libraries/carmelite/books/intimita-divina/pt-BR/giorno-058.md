@@ -1,6 +1,6 @@
 ## 58 — "EU ESTOU NO PAI"
 
-**Presença de Deus.** — *Ó Senhor, antes que teu corpo seja desfigurado pela Paixão, desejo, com Maria de Betânia, prestar-lhe as minhas humildes e devotas homenagens.*
+**Presença de Deus.** — *Concedei-me, ó Jesus, penetrar nas íntimas disposições da tua Alma, em contínua união pessoal com o Pai.*
 
 ### Meditação
 

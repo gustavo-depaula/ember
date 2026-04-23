@@ -1,4 +1,4 @@
-## 330 — THE VARIOUS FORMS OF APOSTOLATE
+## 8 — THE VARIOUS FORMS OF APOSTOLATE
 
 **Presence of God.** — *O Jesus, teach me to pray, to suffer, to work with You for salvation of souls.*
 

@@ -1,4 +1,4 @@
-## 107 — HUMILITY IN FALLS
+## 33 — HUMILITY IN FALLS
 
 **Presence of God.** — *"I am poor and needy, O Lord, hasten to me. Under the shadow of Your wings I take refuge" (Ps. 39, 18; 56, 2).*
 

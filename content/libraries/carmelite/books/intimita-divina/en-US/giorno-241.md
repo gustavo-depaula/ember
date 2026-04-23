@@ -1,4 +1,4 @@
-## 241 — INFINITE JUSTICE
+## XI — INFINITE JUSTICE
 
 **Presence of God.** — *O Lord, let me know the beauties of your justice; teach me to love it with zeal and trust.*
 
@@ -18,4 +18,4 @@ So in our spiritual life there is a continual alternation and intertwining of me
 
 "It is just that we feel timid before You, God of all holiness: we must be pure. We know, however, that You are just, and this your justice, which inspires fear, forms the argument of my joy. O Lord, I hope in your justice and in your mercy, because I believe that You are also good; and I rejoice, because in punishing and chastising, You are more abundant in mercy" (T.B.G.).
 
-"What will become of me, who must reproach myself for failings and faults? But where sin abounds, mercy abounds. O Lord, your goodness endures in heaven forever. Your goodness is your justice, and I have no other than yours, because You are just. Must I fear that it will not suffice for all? But your justice is infinite and remains for all life. This immense justice will cover all errors; in me it will cover the multitude of my sins, and in yours, Lord, it must only hide the treasures of grace that await me in the wounds of your sores, and here I shall find your infinite sweetness" (cf. T.B.G. Lt.).
+"What will become of me, who must reproach myself for a multitude of errors? But where sin abounds, grace abounds. And if your mercy, O Lord, endures for eternity, I shall sing without end your goodness. Your goodness, your justice and not mine; I have no other than yours, since You are made my justice. Must I fear that one alone will not suffice for both of us? But your justice is infinite and remains for all eternity. This immense justice will cover us both; in me it will cover the multitude of my sins, while in You, O Lord, I shall need only to hide the treasures of your goodness that await me in the wounds of the wounds of Christ. Here I shall find your infinite sweetness, hidden, it is true, but hidden only for those who wish to be lost" (cf. St. Bernard).

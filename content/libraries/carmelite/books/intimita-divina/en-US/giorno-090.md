@@ -1,6 +1,6 @@
-## 90 — CHASTITY OF HEART
+## 14 — CHASTITY OF HEART
 
-**Presence of God.** — *— O Lord, teach me how pure my heart must be to be admitted to Your intimacy.*
+**Presence of God.** — *O Lord, teach me how pure my heart must be to be admitted to Your intimacy.*
 
 ### Meditation
 

@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — Jesus disse: "Se me amais, guardai os meus mandamentos... Se guardardes os meus mandamentos, permanecereis no meu amor, como eu mesmo guardei os mandamentos de meu Pai e permaneço no seu amor" (Jo 14, 15; 15, 10).
+**1** — Jesus disse: "Se me amais, guardai os meus mandamentos... Se guardardes os meus mandamentos, permanecereis no meu amor, como eu mesmo guardei os mandamentos de meu Pai e permaneço no seu amor" (Jo. 14, 15; 15, 10).
 
 A perfeição da caridade consiste na perfeita conformidade à vontade divina; tal vontade divina exprime-se antes de tudo nos mandamentos de Deus e nos preceitos da Igreja; além disso, de modo mais concreto e minucioso, nos deveres do meu estado, nas diversas circunstâncias da vida. Os meus deveres de estado, em particular, determinam como devo comportar-me na existência quotidiana para estar continuamente conforme ao querer divino: deveres indicados pela Regra e pelas leis do meu Instituto, pelas ordens dos superiores, pelo trabalho que a obediência me impõe, se sou religioso; pelo ministério das almas, se sou sacerdote; pelas exigências concretas da minha vida de família, da minha profissão, do meu ambiente social, dos meus deveres de bom cidadão, se sou simples leigo.
 

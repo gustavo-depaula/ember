@@ -1,4 +1,4 @@
-## 151 — INTIMATE INTERCOURSE WITH GOD
+## XII — INTIMATE INTERCOURSE WITH GOD
 **Presence of God.** — *O Lord, though I am so unworthy of it, deign to admit me to Thy intimacy.*
 
 ### Meditation

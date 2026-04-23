@@ -1,7 +1,7 @@
 ## 56 — JESUS ACOLHE A TODOS
 *III domingo depois da Epifania*
 
-**Presença de Deus.** — *Venho a ti, ó Jesus, bom Pastor: conduz-me aos pastos da vida eterna.*
+**Presença de Deus.** — *Ó divino Salvador, também eu sou um pobre leproso; acolhe-me: "se queres, podes purificar-me"!*
 
 ### Meditação
 

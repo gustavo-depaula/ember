@@ -1,5 +1,5 @@
-## 286 — JUSTICE AND RELIGION
-**Presence of God.** — *O Lord, may your holy grace help me render to You all the homage of which I am capable.*
+## XXV — JUSTICE AND RELIGION
+**Presence of God.** — *Grant, O Lord, that my whole life may be a continual act of homage to You.*
 
 ### Meditation
 

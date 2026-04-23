@@ -1,4 +1,4 @@
-## 242 — DIVINE PROVIDENCE
+## XII — DIVINE PROVIDENCE
 
 **Presence of God.** — *O my God, who order and dispose all things for most lofty ends, teach me to entrust myself fully to your divine Providence.*
 

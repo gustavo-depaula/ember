@@ -1,4 +1,4 @@
-## 302 — TEMPERANCE
+## X — TEMPERANCE
 
 **Presence of God.** — *Teach me, O Lord, to mortify my flesh so as to live fully the life of the spirit.*
 

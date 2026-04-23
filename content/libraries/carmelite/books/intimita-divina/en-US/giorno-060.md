@@ -1,6 +1,6 @@
 ## 60 — JESUS AND THE FATHER'S WILL
 
-**Presence of God.** — *O Jesus in Your Passion, grant that in Your Passion I may read Your love for me.*
+**Presence of God.** — *O Jesus, teach me to follow You in Your life of total, most perfect adhesion to the Father's will.*
 
 ### Meditation
 

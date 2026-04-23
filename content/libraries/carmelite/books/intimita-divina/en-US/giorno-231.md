@@ -1,4 +1,4 @@
-## 231 — THE MOST PRECIOUS BLOOD
+## I — THE MOST PRECIOUS BLOOD
 
 **Presence of God.** — *O Jesus, who redeemed me with your Blood, grant that your Blood may produce in me all its fruit.*
 

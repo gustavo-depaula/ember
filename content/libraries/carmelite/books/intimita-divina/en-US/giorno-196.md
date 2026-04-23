@@ -1,4 +1,4 @@
-## 196 — FEAST OF THE MOST HOLY TRINITY
+## XXVII — FEAST OF THE MOST HOLY TRINITY
 *First Sunday after Pentecost*
 
 **Presence of God.** — *I give thanks to you, O God, one and true Trinity, one and highest Divinity, holy and unique Unity (Roman Breviary).*

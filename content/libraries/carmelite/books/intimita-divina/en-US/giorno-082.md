@@ -1,6 +1,6 @@
-## 82 — RULES OF STRIPPING
+## 6 — RULES OF STRIPPING
 
-**Presence of God.** — *— O Lord, my blindness and my weakness still need Your light and Your strength to undertake generously the way of nothingness.*
+**Presence of God.** — *O Lord, my blindness and my weakness still need Your light and Your strength to undertake generously the way of nothingness.*
 
 ### Meditation
 

@@ -20,7 +20,7 @@ O pensamento deste lugar de expiação nos torne zelosos em sufragar as almas do
 
 «Ficai longe de mim o entristecer-me à maneira dos gentios, que são sem esperança. Posso bem sentir tristeza; mas quando estou aflito, conforte-me a esperança. Com uma esperança tão grande não convém que esteja em luto o vosso templo, ó Deus. Aí habitais Vós que sois o consolador; aí habitais Vós, que nas promessas não falhais» (S. Agostinho).
 
-«Ó Padrão e Criador do universo, Senhor da vida e da morte, Vós conservais e encheis de benefícios as nossas almas: Vós cumpris e transformais cada coisa com a obra do vosso Verbo, na hora estabelecida e segundo o plano da vossa sabedoria; acolhei hoje os nossos irmãos defuntos e dai-lhes o eterno repouso.
+«Ó Senhor e Criador do universo, Senhor da vida e da morte, Vós conservais e encheis de benefícios as nossas almas: Vós cumpris e transformais cada coisa com a obra do vosso Verbo, na hora estabelecida e segundo o plano da vossa sabedoria; acolhei hoje os nossos irmãos defuntos e dai-lhes o eterno repouso.
 
 «Possais Vós acolher-nos por nossa vez, no momento que Vos aprouver, depois que nos tiverdes guiado e deixado na carne pelo tempo que Vos parecer útil e salutar.
 

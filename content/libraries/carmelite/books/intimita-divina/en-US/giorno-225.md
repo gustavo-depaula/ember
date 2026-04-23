@@ -1,4 +1,4 @@
-## 225 — FRATERNAL CONCORD
+## XXV — FRATERNAL CONCORD
 *Fifth Sunday after Pentecost*
 
 **Presence of God.** — *O Lord, teach me to live in perfect concord with my neighbor, so that my prayers and offerings may be pleasing to You.*
@@ -15,4 +15,4 @@
 
 "Remembering that 'charity covers a multitude of sins,' I draw from that fertile mine You opened to us in the holy Gospel. I penetrate into the depths of your adorable words and exclaim with David: 'since You have enlarged my heart, I have run in the way of your commandments.' Charity alone can enlarge my heart. O my Jesus, from the moment this sweet flame consumes it, I run delightfully in the way of your new commandment and want to run in it until the blessed day when, joining the virginal procession, I shall follow You through infinite spaces, singing your new Canticle, which must be the canticle of love" (cf. T.B.G. St. 9).
 
-"Lord Jesus Christ, if I had no other motive to love my neighbor, and not only one who loves me but also one who is against me, I would resolve to do so solely in view of the commandment You gave us to love one another as You Yourself have loved us. As You, Beauty, Goodness, and infinite Perfection, love me, a man full of misery, and do not reject me for my defects, so I, for love of You, accept all all my brothers" (cf. Ven. John of Jesus Mary, O.C.D.).
+"Lord Jesus Christ, if I had no other motive to love my neighbor, and not only one who loves me but also one who is against me, I would resolve to do so solely in view of the commandment You gave us to love one another as You Yourself have loved us. As You, Beauty, Goodness, and infinite Perfection, love me, a man full of misery, and do not reject me for my defects, so I, for love of You, accept all my brothers" (cf. Ven. John of Jesus Mary, O.C.D.).

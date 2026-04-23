@@ -3,7 +3,7 @@
 
 ### Meditação
 
-**1** — Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, «aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular» (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
+Para nos fazer santos, não basta ser corajoso, justo, paciente e possuir todas as outras virtudes por alguns dias, nem mesmo por alguns anos; é preciso perseverar nesse exercício até o fim, sem ceder ao cansaço, ao desânimo ou à moleza. Justamente aqui está o ponto crucial, porque, como diz São Tomás, «aplicar-se por muito tempo a alguma coisa difícil — e a virtude o é quase sempre — constitui uma dificuldade particular» (II-II, q. 137, a. 1); só superando essa dificuldade poderemos chegar à perfeição.
 
 Não somos anjos, somos homens. O anjo, puro espírito, é por natureza estável: tomada uma resolução, permanece firme nela; mas não é assim conosco, que, sendo compostos de espírito e matéria, sofremos as consequências da mutabilidade e das flutuações desta. Como a estabilidade é característica do espírito, assim a volubilidade é característica da matéria; eis por que nos é tão difícil ser perfeitamente constantes no bem.
 

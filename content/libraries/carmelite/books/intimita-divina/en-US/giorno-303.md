@@ -1,4 +1,4 @@
-## 303 — CHARACTERISTICS OF THE CHRISTIAN SOUL
+## XI — CHARACTERISTICS OF THE CHRISTIAN SOUL
 *Sixteenth Sunday after Pentecost*
 
 **Presence of God.** — *Grant, O Lord, that my soul may be deeply rooted in charity and humility.*

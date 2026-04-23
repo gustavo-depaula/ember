@@ -1,4 +1,4 @@
-## 333 — APOSTOLATE OF EXAMPLE
+## 11 — APOSTOLATE OF EXAMPLE
 
 **Presence of God.** — *O Lord, grant that my conduct may be such as to give You glory and draw many souls to your love.*
 

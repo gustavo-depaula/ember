@@ -1,4 +1,4 @@
-## 216 — THE HEART OF JESUS OUR REFUGE
+## XVI — THE HEART OF JESUS OUR REFUGE
 
 **Presence of God.** — *O Jesus, deign to introduce me into your most sacred Heart, and let it be the place of my recollection, my refuge, my rest.*
 

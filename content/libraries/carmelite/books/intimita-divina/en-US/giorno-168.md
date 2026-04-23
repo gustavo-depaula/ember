@@ -1,4 +1,4 @@
-## 163 — THE GREAT PROMISE
+## XXIX — THE GREAT PROMISE
 *Fourth Sunday after Easter*
 
 **Presence of God.** — *O Jesus, dispose my heart to welcome the Holy Spirit whom you have promised and merited for us.*

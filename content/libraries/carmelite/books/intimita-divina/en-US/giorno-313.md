@@ -1,4 +1,4 @@
-## 313 — THE GIFT OF COUNSEL
+## XXI — THE GIFT OF COUNSEL
 
 **Presence of God.** — *Come, Spirit of counsel, and make my heart listen to your suggestions.*
 

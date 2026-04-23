@@ -1,4 +1,4 @@
-## 256 — LOVE OF FRIENDSHIP
+## XXVI — LOVE OF FRIENDSHIP
 
 **Presence of God.** — *O Lord, may I live fully in your divine friendship.*
 

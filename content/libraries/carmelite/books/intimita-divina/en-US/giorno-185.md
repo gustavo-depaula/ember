@@ -1,4 +1,4 @@
-## 185 — MARY'S APOSTOLATE
+## XVI — MARY'S APOSTOLATE
 
 **Presence of God.** — *O Mary, Queen of Apostles, create in me an apostle's heart.*
 
@@ -19,3 +19,5 @@ Mary shows us how far from truth we are when, taken by urgency of works, we make
 "And moreover, O Mary, beside the Cross You became for us a sea of bitterness because of compassion for the crucified Son and compassion for our souls... But why, O Mother, have You loved us so much? Why so much affection for us? Why do You fill us with our God? Why, I ask, do You inebriate us with love for your Son, while we are unable to return You anything? What advantage is it to You, lover of souls, that we love You and your Son with great love? Are heavenly things not enough for You? Why do You seek earthly hearts, which are indeed most foul and muddy? Take us, huntress of souls, take us and gather us into the bosom of your grace. Who can escape the rays of your pity? No one can avoid the fire of your love, because heaven and earth are full of your benefits... and always everywhere You spread the nets of your goodness. So that from You, sweetest Mother, we cannot reasonably flee, but may always rest in the bosom of your sweetness" (St. Bonaventure).
 
 O Mary, You are more mother than queen! Meditating your life, so humble and simple as the Gospel presents it, I have no fear of approaching you. I too wish to live in poverty and hiddenness, without raptures or ecstasies, without flashes of miracles, without clamorous actions. And thus You make me understand that I too can follow your footprints, that I too can climb the steep path of holiness by practicing hidden virtues. Near you, O Mary, I can remain small and discern better the vanity of human greatness" (cf. St. Therese of the Child Jesus, NV and Poems).
+
+O Mary, who in silence and hiddenness gave the world Jesus, who, while passing unnoticed, participated in all his life, his works, his Passion, teach me the secret of the interior apostolate made of prayer and hidden immolation, known to God alone.

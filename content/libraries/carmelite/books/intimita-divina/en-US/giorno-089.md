@@ -1,6 +1,6 @@
-## 89 — MODESTY
+## 13 — MODESTY
 
-**Presence of God.** — *— O Jesus, Spouse of virgins, show me how a soul consecrated to You must live.*
+**Presence of God.** — *O Jesus, Spouse of virgins, show me how a soul consecrated to You must live.*
 
 ### Meditation
 
@@ -70,7 +70,7 @@ senses from all those things
 that uselessly burden them, with the danger of letting less pure, less holy impressions reach the soul.
 
 
-to leave the doors of one's own house open to any invasion. The senses are the doors
+He who, without necessity, wants to see everything, to hear everything, to experience everything, is like one who leaves the doors of his own house open to any invasion. The senses are the doors
 of the soul; they must be guarded so as not to endanger the
 treasure of chastity.
 

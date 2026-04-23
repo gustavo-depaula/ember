@@ -1,6 +1,6 @@
-## 202 — THE REAL PRESENCE
+## II — THE REAL PRESENCE
 
-**Presence of God.** — *O Jesus, let me penetrate beyond the Eucharistic veils, so that, contemplating You, my heart may live by You.*
+**Presence of God.** — *«I devoutly adore You, O God hidden beneath the Eucharistic veils. To You my heart surrenders itself entirely, for in contemplating You it faints away» (cf. Adoro te devote).*
 
 ### Meditation
 
