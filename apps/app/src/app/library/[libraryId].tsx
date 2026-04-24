@@ -18,6 +18,7 @@ import {
   getAllChapterManifestsForLibrary,
   getManifest,
   qualifyId,
+  resolveCanticle,
   resolvePrayer,
 } from '@/content/registry'
 import type { Library } from '@/content/sources/filesystem'
@@ -73,7 +74,7 @@ export default function LibraryDetailScreen() {
   const prayerList: PrayerPreview[] = useMemo(() => {
     if (library) {
       return library.prayers.map((pid) => {
-        const asset = resolvePrayer(pid, library.id)
+        const asset = resolvePrayer(pid, library.id) ?? resolveCanticle(pid)
         return { id: pid, title: asset?.title ?? { 'en-US': pid } }
       })
     }
@@ -172,7 +173,7 @@ export default function LibraryDetailScreen() {
 
   const selectedPrayerData = useMemo(() => {
     if (!selectedPrayer || !isInstalled) return undefined
-    const asset = resolvePrayer(selectedPrayer, library?.id)
+    const asset = resolvePrayer(selectedPrayer, library?.id) ?? resolveCanticle(selectedPrayer)
     if (!asset) return undefined
     const bil = (text: Record<string, string>): BilingualText =>
       localizeBilingual(text, contentLanguage, secondaryLanguage)
