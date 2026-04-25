@@ -1,0 +1,163 @@
+{
+  "id": "catechism-pius-x-1912",
+  "name": {
+    "it": "Catechismo della Dottrina Cristiana",
+    "pt-BR": "Catecismo da Doutrina Cristã",
+    "en-US": "Catechism of Christian Doctrine"
+  },
+  "author": {
+    "it": "San Pio X",
+    "pt-BR": "São Pio X",
+    "en-US": "Pope Saint Pius X"
+  },
+  "description": {
+    "it": "Catechismo breve in 433 domande e risposte, prescritto da Papa San Pio X nel 1912 per le diocesi di Roma. Edizione abbreviata e pedagogica, distinta dal più ampio Catechismo Maggiore del 1905.",
+    "pt-BR": "Catecismo menor em 433 perguntas e respostas, prescrito pelo Papa São Pio X em 1912 para as dioceses de Roma. Edição abreviada e pedagógica, distinta do mais extenso Catecismo Maior de 1905.",
+    "en-US": "The shorter catechism in 433 questions and answers, prescribed by Pope Saint Pius X in 1912 for the dioceses of Rome. An abridged pedagogical edition, distinct from the longer 1905 Greater Catechism."
+  },
+  "composed": 1912,
+  "languages": ["it", "pt-BR"],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.corsiadeiservi.it/public/content/testi%20e%20documenti/Catechismo_PioX.pdf",
+      "description": "Catechismo della Dottrina Cristiana di Papa Pio X (1912), digitized clean text edition from Corsia dei Servi. All 433 questions and answers in canonical Italian."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://symposiumveritatis.blogspot.com/2022/10/catecismo-da-doutrina-crista-1912.html",
+      "description": "Brazilian Portuguese translation based on the canonical Escravas de Maria publication."
+    }
+  ],
+  "toc": [
+    { "id": "lezione-preliminare", "title": {
+      "it": "Prime nozioni della Fede cristiana",
+      "pt-BR": "Primeiras Noções da Fé Cristã",
+      "en-US": "First Notions of the Christian Faith"
+    }},
+    { "id": "parte-i-la-fede", "title": {
+      "it": "Parte I — La Fede",
+      "pt-BR": "Parte I — A Fé",
+      "en-US": "Part I — The Faith"
+    }, "children": [
+      { "id": "credo-misteri-principali", "title": {
+        "it": "Capo I — Misteri principali. Segno della santa Croce",
+        "pt-BR": "Capítulo I — Mistérios Principais. Sinal da Santa Cruz",
+        "en-US": "Chapter I — Principal Mysteries. Sign of the Holy Cross"
+      }},
+      { "id": "credo-unita-trinita", "title": {
+        "it": "Capo II — Unità e Trinità di Dio",
+        "pt-BR": "Capítulo II — Unidade e Trindade de Deus",
+        "en-US": "Chapter II — Unity and Trinity of God"
+      }},
+      { "id": "credo-creazione", "title": {
+        "it": "Capo III — Creazione del mondo. Origine e caduta dell'uomo",
+        "pt-BR": "Capítulo III — Criação do Mundo. Origem e Queda do Homem",
+        "en-US": "Chapter III — Creation of the World. Origin and Fall of Man"
+      }},
+      { "id": "credo-incarnazione", "title": {
+        "it": "Capo IV — Incarnazione, Passione e Morte del Figliuolo di Dio",
+        "pt-BR": "Capítulo IV — Encarnação, Paixão e Morte do Filho de Deus",
+        "en-US": "Chapter IV — Incarnation, Passion, and Death of the Son of God"
+      }},
+      { "id": "credo-venuta", "title": {
+        "it": "Capo V — Venuta di Gesù Cristo alla fine del mondo. I due giudizi",
+        "pt-BR": "Capítulo V — Vinda de Jesus Cristo no Fim do Mundo. Os Dois Juízos",
+        "en-US": "Chapter V — Coming of Jesus Christ at the End of the World. The Two Judgments"
+      }},
+      { "id": "credo-chiesa", "title": {
+        "it": "Capo VI — Chiesa cattolica. Comunione dei santi",
+        "pt-BR": "Capítulo VI — Igreja Católica. Comunhão dos Santos",
+        "en-US": "Chapter VI — Catholic Church. Communion of Saints"
+      }},
+      { "id": "credo-remissione-peccati", "title": {
+        "it": "Capo VII — Remissione dei peccati. Peccato",
+        "pt-BR": "Capítulo VII — Remissão dos Pecados. Pecado",
+        "en-US": "Chapter VII — Forgiveness of Sins. Sin"
+      }},
+      { "id": "credo-risurrezione", "title": {
+        "it": "Capo VIII — Risurrezione della carne. Vita eterna. Amen",
+        "pt-BR": "Capítulo VIII — Ressurreição da Carne. Vida Eterna. Amém",
+        "en-US": "Chapter VIII — Resurrection of the Body. Life Everlasting. Amen"
+      }}
+    ]},
+    { "id": "parte-ii-la-legge", "title": {
+      "it": "Parte II — La Legge",
+      "pt-BR": "Parte II — A Lei",
+      "en-US": "Part II — The Law"
+    }, "children": [
+      { "id": "legge-comandamenti", "title": {
+        "it": "Capo I — Comandamenti di Dio",
+        "pt-BR": "Capítulo I — Mandamentos de Deus",
+        "en-US": "Chapter I — Commandments of God"
+      }},
+      { "id": "legge-precetti", "title": {
+        "it": "Capo II — Precetti generali della Chiesa",
+        "pt-BR": "Capítulo II — Preceitos Gerais da Igreja",
+        "en-US": "Chapter II — General Precepts of the Church"
+      }},
+      { "id": "legge-virtu", "title": {
+        "it": "Capo III — Virtù",
+        "pt-BR": "Capítulo III — Virtudes",
+        "en-US": "Chapter III — Virtues"
+      }}
+    ]},
+    { "id": "parte-iii-la-grazia", "title": {
+      "it": "Parte III — La Grazia",
+      "pt-BR": "Parte III — A Graça",
+      "en-US": "Part III — Grace"
+    }, "children": [
+      { "id": "sezione-i-sacramenti", "title": {
+        "it": "Sezione I — Sacramenti",
+        "pt-BR": "Seção I — Sacramentos",
+        "en-US": "Section I — The Sacraments"
+      }, "children": [
+        { "id": "sacramenti-in-generale", "title": {
+          "it": "Capo I — Sacramenti in generale",
+          "pt-BR": "Capítulo I — Sacramentos em Geral",
+          "en-US": "Chapter I — Sacraments in General"
+        }},
+        { "id": "sacramento-battesimo", "title": {
+          "it": "Capo II — Battesimo",
+          "pt-BR": "Capítulo II — Batismo",
+          "en-US": "Chapter II — Baptism"
+        }},
+        { "id": "sacramento-cresima", "title": {
+          "it": "Capo III — Cresima o Confermazione",
+          "pt-BR": "Capítulo III — Crisma ou Confirmação",
+          "en-US": "Chapter III — Confirmation"
+        }},
+        { "id": "sacramento-eucaristia", "title": {
+          "it": "Capo IV — Eucaristia",
+          "pt-BR": "Capítulo IV — Eucaristia",
+          "en-US": "Chapter IV — Eucharist"
+        }},
+        { "id": "sacramento-penitenza", "title": {
+          "it": "Capo V — Penitenza",
+          "pt-BR": "Capítulo V — Penitência",
+          "en-US": "Chapter V — Penance"
+        }},
+        { "id": "sacramento-estrema-unzione", "title": {
+          "it": "Capo VI — Estrema Unzione",
+          "pt-BR": "Capítulo VI — Extrema-Unção",
+          "en-US": "Chapter VI — Extreme Unction"
+        }},
+        { "id": "sacramento-ordine", "title": {
+          "it": "Capo VII — Ordine",
+          "pt-BR": "Capítulo VII — Ordem",
+          "en-US": "Chapter VII — Holy Orders"
+        }},
+        { "id": "sacramento-matrimonio", "title": {
+          "it": "Capo VIII — Matrimonio",
+          "pt-BR": "Capítulo VIII — Matrimônio",
+          "en-US": "Chapter VIII — Matrimony"
+        }}
+      ]},
+      { "id": "orazione", "title": {
+        "it": "Sezione II — Orazione",
+        "pt-BR": "Seção II — Oração",
+        "en-US": "Section II — Prayer"
+      }}
+    ]}
+  ]
+}
