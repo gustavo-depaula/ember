@@ -1,0 +1,43 @@
+# The First Article (Continued): "The Father Almighty, Creator of Heaven and Earth."
+
+It has been shown that we must first of all believe there is but one God. Now, the second is that this God is the Creator and maker of heaven and earth, of all things visible and invisible. Let us leave more subtle reasons for the present and show by a simple example that all things are created and made by God. If a person, upon entering a certain house, should feel-a warmth at the door of the house, and going within should feel a greater warmth, and so on the more he went into its interior, he would believe that somewhere within was a fire, even if he did not see the fire itself which caused this heat which he felt. So also is it when we consider the things of this world. For one finds all things arranged in different degrees of beauty and worth, and the closer things approach to God, the more beautiful and better they are found to be. Thus, the heavenly bodies are more beautiful and nobler than those which are below them; and, likewise, the invisible things in relation to the visible. Therefore, it must be seen that all these things proceed from one God who gives His being and beauty to each and everything. "All men are vain, in whom there is not the knowledge of God: and who by these good things that are seen could not understand Him that is. Neither by attending to the works have acknowledged who was the workman. . . . For by the greatness of the beauty, and of the creature, the creator of them may be seen, so as to be known thereby."[^1] Thus, therefore, it is certain for us that all things in the world are from God.
+
+## Errors Relating to the First Article
+
+There are three errors concerning this truth which we must avoid. First, the error of the Manicheans, who say that all visible created things are from the devil, and only the invisible creation is to be attributed to God. The cause of this error is that they hold that God is the highest good, which is true; but they also assert that whatsoever comes from good is itself good. Thus, not distinguishing what is evil and what is good, they believed that whatever is partly evil is essentially evil--as, for instance, fire because it burns is essentially evil, and so is water because it causes suffocation, and so with other things. Because no sensible thing is essentially good, but mixed with evil and defective, they believed that all visible things are not made by God who is good, but by the evil one. Against them St. Augustine gives this illustration. A certain man entered the shop of a carpenter and found tools which, if he should fall against them, would seriously wound him. Now, if he would consider the carpenter a bad workman because he made and used such tools, it would be stupid of him indeed. In the same way it is absurd to say that created things are evil because they may be harmful; for what is harmful to one may be useful to another. This error is contrary to the faith of the Church, and against it we say: "Of all things visible and invisible."[^2] "In the beginning God created heaven and earth."[^3] ''All things were made by Him."[^4]
+
+The second error is of those who hold the world has existed from eternity: "Since the time that the fathers slept, all things continue as they were from the beginning of the creation."[^5] They are led to this view because they do not know how to imagine the beginning of the world. They are, says Rabbi Moses, in like case to a boy who immediately upon his birth was placed upon an island, and remained ignorant of the manner of child-bearing and of infants' birth. thus, when he grew up, if one should explain all these things to him, he would not believe how a man could once have been in his mother's womb. So also those who consider the world as it is now, do not believe that it had a beginning. This is also contrary to the faith of the Church, and hence we say: "the Maker of heaven and earth." For if they were made, they did not exist forever. "He spoke and they were made."[^7]
+
+The third is the error which holds that God made the world from prejacent matter (ex praejacenti materia). They are led to this view because they wish to measure divine power according to human power; and since man cannot make anything except from material which already lies at hand, so also it must be with God. But this is false. Man needs matter to make anything, because he is a builder of particular things and must bring form out of definite material. He merely determines the form of his work, and can be only the cause of the form that he builds. God, however, is the universal cause of all things, and He not only creates the form but also the matter. Hence, He makes out of nothing, and thus it is said in the Creed: "the Creator of heaven and earth." We must see in this the difference between making and creating. To create is to make something out of nothing; and if everything were destroyed, He could again make all things. He, thus, makes the blind to see, raises up the dead, and works other similar miracles. "Thy power is at hand when Thou wilt."[^8]
+
+## Good Effects of Our Faith
+
+From a consideration of all this, one is led to a fivefold benefit. (1) We are led to a knowledge of the divine majesty. Now, if a maker is greater than the things he makes, then God is greater than all things which He has made. "With whose beauty, if they being delighted, took them to be gods, let them know how much the Lord of them is more beautiful than they. . . . Or if they admired their power and their effects, let them understand by them that He that made them, is mightier than they."[^9] Hence, whatsoever can even be affirmed or thought of is less than God. "Behold: God is great, exceeding our knowledge."[^10]
+
+(2) We are led to give thanks to God. Because God is the Creator of all things, it is certain that what we are and what we have is from God: "What hast thou that thou hast not received."[^11] "The earth is the Lord's and the fullness thereof; the world and all they that dwell therein.[^12] "We, therefore, must render thanks to God: What shall I render to the Lord for all the things that He hath rendered to me?"[^13]
+
+(3) We are led to bear our troubles in patience. Although every created thing is from God and is good according to its nature, yet, if something harms us or brings us pain, we believe that such comes from God, not as a fault in Him, but because God permits no evil that is not for good. Affliction purifies from sin, brings low the guilty, and urges on the good to a love of God: "If we have received good things from the hand of God, why should we not receive evil?"[^14]
+
+(4) We are led to a right use of created things. Thus, we ought to use created things as having been made by God for two purposes: for His glory, "since all things are made for Himself"[^15] (that is, for the glory of God), and finally for our profit: "Which the Lord thy God created for the service of all the nations."[^16] Thus, we ought to use things for God's glory in order to please Him no less than for our own profit, that is, so as to avoid sin in using them: All things are Thine, and we have given Thee what we received of Thy hand."[^17] Whatever we have, be it learning or beauty, we must revere all and use all for the glory of God.
+
+(5) We are led also to acknowledge the great dignity of man. God made all things for man: "Thou hast subjected all things under is feet,"[^18] and man is more like to God than all other creatures save the Angels: "Let us make man to Our image and likeness."[^19] God does not say this of the heavens or of the stars, but of man; and this likeness of God in man does not refer to the body but to the human soul, which has free will and is incorruptible, and therein man resembles God more than other creatures do. We ought, therefore, to consider the nobleness of man as less than the Angels but greater than all other creatures. Let us not, therefore, diminish his dignity by sin and by an inordinate desire for earthly things which are beneath us and are made for our service. Accordingly, we must rule over things of the earth and use them, and be subject to God by obeying and serving Him. And thus we shall come to he enjoyment of God forever.
+
+[^1]: Wis., xiii. 1, 5.
+[^2]: In the Nicene Creed.
+[^3]: Gen., i. 1.
+[^4]: John, i. 3.
+[^5]: II Peter, iii. 4.
+[^6]: In the Nicene Creed.
+[^7]: Ps. cxlviii. 5.
+[^8]: wis., xii. 18.
+[^9]: "Ibid.," xiii. 3-4.
+[^10]: Job, xxxvi. 26.
+[^11]: I Cor., iv. 7.
+[^12]: Ps. xxiii. 1.
+[^13]: Ps, cxv. 12.
+[^14]: Job, ii. 10.
+[^15]: Prov., xvi. 4.
+[^16]: Deut., iv. 19.
+[^17]: I Paral., xxix. 14.
+[^18]: Ps. viii. 8.
+[^19]: Gen., i. 26.

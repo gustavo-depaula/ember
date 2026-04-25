@@ -1,0 +1,93 @@
+{
+  "id": "catechetical-instructions",
+  "name": {
+    "en-US": "The Catechetical Instructions",
+    "pt-BR": "As Instruções Catequéticas"
+  },
+  "author": {
+    "en-US": "St. Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
+  },
+  "description": {
+    "en-US": "Aquinas's catechetical sermons on the Apostles' Creed, the Ten Commandments, the Lord's Prayer, and the Hail Mary, preached at Naples in Lent 1273. Translated by Rev. Joseph B. Collins, S.S., D.D., Ph.D. (Baltimore, 1939).",
+    "pt-BR": "Os sermões catequéticos de São Tomás sobre o Credo dos Apóstolos, os Dez Mandamentos, o Pai-Nosso e a Ave-Maria, pregados em Nápoles na Quaresma de 1273. Tradução inglesa do Rev. Joseph B. Collins, S.S., D.D., Ph.D. (Baltimore, 1939)."
+  },
+  "composed": 1273,
+  "languages": ["en-US"],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.catholicprimer.org/",
+      "description": "1939 Baltimore edition translated by Rev. Joseph B. Collins, S.S., D.D., Ph.D., with introduction by Rev. Rudolph G. Bandas. Imprimatur Most Rev. Michael J. Curley, Archbishop of Baltimore. Electronic transcription via The Catholic Primer (2004). Underlying translation is in the public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-translators-preface",
+      "title": { "en-US": "Translator's Preface" }
+    },
+    {
+      "id": "apostles-creed",
+      "title": { "en-US": "The Apostles' Creed" },
+      "children": [
+        { "id": "creed-00-what-is-faith", "title": { "en-US": "What Is Faith?" } },
+        { "id": "creed-01a-i-believe-in-one-god", "title": { "en-US": "The First Article: \"I Believe in One God.\"" } },
+        { "id": "creed-01b-father-almighty-creator", "title": { "en-US": "The First Article (Continued): \"The Father Almighty, Creator of Heaven and Earth.\"" } },
+        { "id": "creed-02-jesus-christ", "title": { "en-US": "The Second Article: \"And in Jesus Christ, His Only Son, Our Lord.\"" } },
+        { "id": "creed-03-conceived-by-holy-ghost", "title": { "en-US": "The Third Article: \"Who Was Conceived by the Holy Ghost, Born of the Virgin Mary.\"" } },
+        { "id": "creed-04-suffered-under-pontius-pilate", "title": { "en-US": "The Fourth Article: \"Suffered Under Pontius Pilate, Was Crucified, Died and Was Buried.\"" } },
+        { "id": "creed-05a-descended-into-hell", "title": { "en-US": "The Fifth Article: \"He Descended into Hell.\"" } },
+        { "id": "creed-05b-resurrection", "title": { "en-US": "The Fifth Article (Continued): \"The Third Day He Arose Again from the Dead.\"" } },
+        { "id": "creed-06-ascended-into-heaven", "title": { "en-US": "The Sixth Article: \"He Ascended into Heaven.\"" } },
+        { "id": "creed-07-shall-come-to-judge", "title": { "en-US": "The Seventh Article: \"From Thence He Shall Come to Judge the Living and the Dead.\"" } },
+        { "id": "creed-08-holy-ghost", "title": { "en-US": "The Eighth Article: \"I Believe in the Holy Ghost.\"" } },
+        { "id": "creed-09-holy-catholic-church", "title": { "en-US": "The Ninth Article: \"I Believe in the Holy Catholic Church.\"" } },
+        { "id": "creed-10-communion-of-saints", "title": { "en-US": "The Tenth Article: \"The Communion of Saints, the Forgiveness of Sins.\"" } },
+        { "id": "creed-11-resurrection-of-body", "title": { "en-US": "The Eleventh Article: \"The Resurrection of the Body.\"" } },
+        { "id": "creed-12-life-everlasting", "title": { "en-US": "The Twelfth Article: \"Life Everlasting. Amen.\"" } }
+      ]
+    },
+    {
+      "id": "ten-commandments",
+      "title": { "en-US": "Explanation of the Ten Commandments" },
+      "children": [
+        { "id": "commandments-00-introduction", "title": { "en-US": "The Ten Commandments" } },
+        { "id": "commandments-01-strange-gods", "title": { "en-US": "The First Commandment: \"Thou Shalt Not Have Strange Gods Before Me.\"" } },
+        { "id": "commandments-02-name-of-the-lord", "title": { "en-US": "The Second Commandment: \"Thou Shalt Not Take the Name of the Lord Thy God in Vain.\"" } },
+        { "id": "commandments-03-sabbath", "title": { "en-US": "The Third Commandment: \"Remember That Thou Keep Holy the Sabbath Day.\"" } },
+        { "id": "commandments-04-honour-father-and-mother", "title": { "en-US": "The Fourth Commandment: \"Honour Thy Father and Thy Mother.\"" } },
+        { "id": "commandments-05-not-kill", "title": { "en-US": "The Fifth Commandment: \"Thou Shalt Not Kill.\"" } },
+        { "id": "commandments-06-not-commit-adultery", "title": { "en-US": "The Sixth Commandment: \"Thou Shalt Not Commit Adultery.\"" } },
+        { "id": "commandments-07-not-steal", "title": { "en-US": "The Seventh Commandment: \"Thou Shalt Not Steal.\"" } },
+        { "id": "commandments-08-not-bear-false-witness", "title": { "en-US": "The Eighth Commandment: \"Thou Shalt Not Bear False Witness Against Thy Neighbour.\"" } },
+        { "id": "commandments-09-not-covet-goods", "title": { "en-US": "The Ninth (Tenth) Commandment: \"Thou Shalt Not Covet Thy Neighbour's Goods.\"" } },
+        { "id": "commandments-10-not-covet-wife", "title": { "en-US": "The Tenth (Ninth) Commandment: \"Thou Shalt Not Covet Thy Neighbour's Wife.\"" } },
+        { "id": "commandments-summary", "title": { "en-US": "Summary of the Ten Commandments" } }
+      ]
+    },
+    {
+      "id": "lords-prayer",
+      "title": { "en-US": "Explanation of the Lord's Prayer" },
+      "children": [
+        { "id": "lords-prayer-00-five-qualities", "title": { "en-US": "Five Qualities of Prayer" } },
+        { "id": "lords-prayer-01-opening-words", "title": { "en-US": "The Opening Words of the Lord's Prayer" } },
+        { "id": "lords-prayer-02-hallowed-be-thy-name", "title": { "en-US": "The First Petition: \"Hallowed Be Thy Name.\"" } },
+        { "id": "lords-prayer-03-thy-kingdom-come", "title": { "en-US": "The Second Petition: \"Thy Kingdom Come.\"" } },
+        { "id": "lords-prayer-04-thy-will-be-done", "title": { "en-US": "The Third Petition: \"Thy Will Be Done on Earth as It Is in Heaven.\"" } },
+        { "id": "lords-prayer-05-daily-bread", "title": { "en-US": "The Fourth Petition: \"Give Us This Day Our Daily Bread.\"" } },
+        { "id": "lords-prayer-06-forgive-us", "title": { "en-US": "The Fifth Petition: \"And Forgive Us Our Trespasses.\"" } },
+        { "id": "lords-prayer-07-lead-us-not", "title": { "en-US": "The Sixth Petition: \"And Lead Us Not into Temptation.\"" } },
+        { "id": "lords-prayer-08-deliver-us-from-evil", "title": { "en-US": "The Seventh Petition: \"But Deliver Us from Evil. Amen.\"" } },
+        { "id": "lords-prayer-short-explanation", "title": { "en-US": "A Short Explanation of the Whole Prayer" } }
+      ]
+    },
+    {
+      "id": "hail-mary",
+      "title": { "en-US": "The Hail Mary" }
+    },
+    {
+      "id": "questions-for-discussion",
+      "title": { "en-US": "Questions for Discussion" }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# The First Article: "I Believe in One God."
+
+Among all the truths which the faithful must believe, this is the first-- that there is one God. We must see that God means the ruler and provider of all things. He, therefore, believes in God who believes that everything in this world is governed and provided for by Him. He who would believe that all things come into being by chance does not believe that there is a God. No one is so foolish as to deny that all nature, which operates with a certain definite time and order, is subject to the rule and foresight and an orderly arrangement of someone. We see how the sun, the moon, and the stars, and all natural things follow a determined course, which would be impossible if they were merely products of chance. Hence, as is spoken of in the Psalm, he is indeed foolish who does not believe in God: "The fool hath said in his heart: There is no God."[^1]
+
+There are those, however, who believe that God rules and sustains all things of nature, and nevertheless do not believe God is the overseer of the acts of man; hence they believe that human acts do not come under God's providence. They reason thus because they see in this world how the good are afflicted and how the evil enjoy good things, so that Divine Providence seems to disregard human affairs. Hence the words of Job are offered to apply to this view: "He doth not consider our things; and He walketh about the poles of heaven."[^2] But this is indeed absurd. It is just as though a person who is ignorant of medicine should see a doctor give water to one patient and wine to another. He would believe that this is mere chance, since he does not understand the science of medicine which for good reasons prescribes for one wine and for another water. So is it with God. For God in His just and wise Providence knows what is good and necessary for men; and hence He afflicts some who are good and allows certain wicked men to prosper. But he is foolish indeed who believes this is due to chance, because he does not know the causes and method of God's dealing with men. "I wish that God might speak with thee, and would open His lips to thee, that He might show thee the secrets of wisdom, and that His law is manifold: and thou mightest understand that He exacteth much less of thee than thy iniquity deserveth."[^3]
+
+We must, therefore, firmly believe that God governs and regulates not only all nature, but also the actions of men. "And they said: The Lord shall not see; neither shall the God of Jacob understand. Understand, ye senseless among the people, and, you fools, be wise at last. He that planted the ear, shall He not hear, He that formed the eye, doth He not consider? . . . The Lord knoweth the thoughts of men."[^4] God sees all things, both our thoughts and the hidden desires of our will. Thus, the necessity of doing good is especially imposed on man since all his thoughts, words and actions are known in the sight of God: "All things are naked and open to His eyes."[^5]
+
+We believe that God who rules and regulates all things is but one God. This is seen in that wherever the regulation of human affairs is well arranged, there the group is found to be ruled and provided for by one, not many. For a number of heads often brings dissension in their subjects. But since divine government exceeds in every way that which is merely human, it is evident that the government of the world is not by many gods, but by one only.[^6]
+
+## Some Motives for Belief in Many Gods
+
+There are four motives which have led men to believe in a number of gods. (1) The dullness of the human intellect. Dull men, not capable of going beyond sensible things, did not believe anything existed except physical bodies. Hence, they held that the world is disposed and ruled by those bodies which to them seemed most beautiful and most valuable in this world. And, accordingly, to things such as the sun, the moon and the stars, they attributed and gave a divine worship. Such men are like to one who, going to a royal court to see the king, believes that whoever is sumptuously dressed or of official position is the king! "They have imagined either the sun and moon or the circle of the stars . . . to be the gods that rule the world. With whose beauty, if they being delighted, took them to be gods."[^7]
+
+(2) The second motive was human adulation. Some men, wishing to fawn upon kings and rulers, obey and subject themselves to them and show them honour which is due to God alone. After the death of these rulers, sometimes men make them gods, and sometimes this is done even whilst they are living. "That every nation may know that Nabuchodonosor is god of the earth, and besides him there is no other."[^8]
+
+(3) The human affection for sons and relatives was a third motive. Some, because of the excessive love which they had for their family, caused statues of them to be erected after their death, and gradually a divine honour was attached to these statues.[^9] "For men serving either their affections or their kings, gave the incommunicable Name to stones and wood."[^10]
+
+(4) The last motive is the malice of the devil. The devil wished from the beginning to be equal to God, and thus he said: "I will ascend above the height of the clouds. I will be like the Most High."[^11] The devil still entertains this desire. His entire purpose is to bring about that man adore him and offer sacrifices to him; not that he takes delight in a dog or cat that is offered to him, he does relish the fact that thereby irreverence is shown to God. Thus, he spoke to Christ: "All these will I give Thee, if falling down Thou wilt adore me.[^12] For this reason those demons who entered into idols said that they would be venerated as gods. "All the gods of the Gentiles are demons."[^13] "The things which the heathens sacrifice, they sacrifice to devils, and not to God."[^14]
+
+Although all this is terrible to contemplate, yet at times there are any who fall into these above-mentioned four causes. Not by their words and hearts, but by their actions, they show that they believe in many gods. Thus, those who believe that the celestial bodies influence the will of man and regulate their affairs by astrology, really make the heavenly bodies gods, and subject themselves to them. Be not afraid of the signs of heaven which the heathens fear. For the laws of the people are vain."[^15] In the same category are all those who obey temporal rulers more than God, in that which they ought not; such actually set these up as gods. "We ought to obey God rather than men."[^16] So also those who love their sons and kinsfolk more than God show by their actions that they believe in many gods; as likewise do those who love food more than God: "Whose god is their belly."[^17] Moreover, all who take part in magic or in incantations believe that the demons are gods, because they seek from the devil that which God alone can give, such as revealing the future or discovering hidden things. We must, therefore, believe that there is but one God.
+
+[^1]: Ps. xiii. 1.
+[^2]: Job, xxii. 14.
+[^3]: Job, xi. 5-6.
+[^4]: Ps. xciii. 7-11.
+[^5]: Heb., iv. 13.
+[^6]: "There is but one God, not many gods. We attribute to God the highest goodess and perfection, and it is impossible that what is highest and absolutely perfect could be found in many. If a being lack that which constitutes supreme perfection, it is, therefore, imperfect and cannot have the nature of God" ("Roman Catechism," "The Creed," First Article, 7).
+[^7]: Wis., xiii. 2-3.
+[^8]: Judith, v. 29.
+[^9]: All this is fully explained in the fourteenth chapter of the Book of Wisdom, verses 15-21.
+[^10]: Wis., xiv. 21.
+[^11]: Isa., xiv. 14.
+[^12]: Matt., iv. 9.
+[^13]: Ps. cxv. 5.
+[^14]: I Cor., x. 20.
+[^15]: Jerem., x. 2-3.
+[^16]: Acts, v. 29.
+[^17]: Phil., iii. 19.
