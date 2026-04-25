@@ -66,7 +66,7 @@ poor blind man, who, without worrying about the crowd that
 prevented him from approaching Jesus, without stopping at the rebukes of the disciples who wanted him to be silent, "cried
 all the louder" his prayer.
 
-From the depth of our heart let us raise our cry to the Lord: "*De profundis* clamo ad te, Domine, Domine audi
+From the depth of our heart let us raise our cry to the Lord: "*De profundis* clamavi ad te, Domine, Domine audi
 vocem meam!" (Ps. 129). Let us not ask to be freed from suffering, but rather to be enlightened about
 its value: "Lord, that I may see!" As soon as the blind man
 recovered his sight, he immediately went after Jesus, "glorifying God!" The supernatural light we invoke from the

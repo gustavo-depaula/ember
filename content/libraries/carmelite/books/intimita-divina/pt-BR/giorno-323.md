@@ -20,9 +20,9 @@ Dar-se à vida interior não significa fechar-se numa torre de marfim para gozar
 
 **2** — O zelo pelas almas nasce da caridade, nasce da contemplação de Cristo crucificado: suas chagas, seu sangue, as dores dilacerantes de sua agonia nos dizem quanto valem as almas aos olhos de Deus e quanto Deus as ama. Mas esse amor não é correspondido e parece que os homens ingratos querem cada vez mais fugir à sua ação.
 
-É o triste espetáculo de todos os tempos, que também hoje se renova, quase para insultar Jesus e renovar sua Paixão. «Todo o mundo está em chamas: os ímpios, por assim dizer, anseiam por condenar novamente Jesus Cristo, levantam contra Ele infinitas calúnias e empregam-se de mil modos para destruir sua Igreja». Se Teresa de Jesus podia dizer assim de seu século atormentado pela heresia protestante, muito mais podemos dizê-lo nós no nosso, em que a luta contra Deus e contra a Igreja aumentou desmedidamente e se espalha por todo o mundo.
+É o triste espetáculo de todos os tempos, que também hoje se renova, quase para insultar Jesus e renovar sua Paixão. «Todo o mundo está em chamas: os ímpios, por assim dizer, anseiam por condenar novamente Jesus Cristo, levantam contra Ele infinitas calúnias e empregam-se de mil modos para destruir sua Igreja». Se Teresa de Jesus (Cam. 1, 5) podia dizer assim de seu século atormentado pela heresia protestante, muito mais podemos dizê-lo nós no nosso, em que a luta contra Deus e contra a Igreja aumentou desmedidamente e se espalha por todo o mundo.
 
-Bem-aventurados nós se podemos repetir com a Santa: «A perda de tantas almas me parte o coração. Gostaria que o número dos réprobos não aumentasse... Parece-me que, para salvar uma só alma das muitas que se perdem, sacrificaria mil vezes a vida» (ibid.). Mas não se trata só de formular desejos: é preciso fazer, agir e sofrer pela salvação dos irmãos.
+Bem-aventurados nós se podemos repetir com a Santa: «A perda de tantas almas me parte o coração. Gostaria que o número dos réprobos não aumentasse... Parece-me que, para salvar uma só alma das muitas que se perdem, sacrificaria mil vezes a vida» (ibid., 4 e 2). Mas não se trata só de formular desejos: é preciso fazer, agir e sofrer pela salvação dos irmãos.
 
 ### Colóquio
 
@@ -34,4 +34,4 @@ Bem-aventurados nós se podemos repetir com a Santa: «A perda de tantas almas m
 
 «Ó vergonha!... Como tenho eu a ousadia de fazer-te esta oração? Diante da minha temeridade tens toda razão para indignar-te ainda mais. Contudo, ó Senhor, não deves esquecer que és Deus de misericórdia: tem, pois, piedade desta indigna pecadora, deste miserável verme que se deixa levar a tanta audácia.
 
-«Olha para meus desejos, para as lágrimas que acompanham minha prece e, esquecendo-te dos meus pecados, suplico-te por aquilo que és, ó meu Deus, que tenhas piedade das muitas almas que se perdem e protejas tua Igreja» (Santa Teresa de Jesus, Caminho da Perfeição).
+«Olha para meus desejos, para as lágrimas que acompanham minha prece e, esquecendo-te dos meus pecados, suplico-te por aquilo que és, ó meu Deus, que tenhas piedade das muitas almas que se perdem e protejas tua Igreja» (T.G. Cam. 1, 2 e 3; 3, 8 e 9).

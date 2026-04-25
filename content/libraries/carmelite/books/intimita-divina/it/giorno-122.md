@@ -1,6 +1,6 @@
 ## 46 — LIBERA IMMOLAZIONE DELLA LIBERTÀ
 
-**Presenza di Dio.** — O Gesù, Agnello divino volontariamente immolato per la gloria del Padre, fammi intendere il grande valore dell'immolazione volontaria.
+**Presenza di Dio.** — *O Gesù, Agnello divino volontariamente immolato per la gloria del Padre, fammi intendere il grande valore dell'immolazione volontaria.*
 
 ### Meditazione
 

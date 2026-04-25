@@ -36,4 +36,4 @@ Moreover, contemplative monasteries, by simple example of life of retreat, praye
 
 "My vocation does not consist in going to reap in ripe fields. You do not say to me: 'Lower your eyes, look at fields, and go reap.' My mission is still more sublime. You tell me: 'Lift up your eyes and see. See how in heaven there are empty places. It is your task to fill them ... You must be my Moses praying on mountain. Ask me for laborers and I will send them; I await only a prayer, a sigh of your heart.'
 
-"Behold, O Lord, mission You entrust to me: to contribute by prayer and sacrifice to formation of evangelical workers who will save millions of souls, of whom I shall be mother" (St. Therese of the Child Jesus).
+"Behold, O Lord, mission You entrust to me: to contribute by prayer and sacrifice to formation of evangelical workers who will save millions of souls, of whom I shall be mother" (T.B.G. cf. Lt. 114).

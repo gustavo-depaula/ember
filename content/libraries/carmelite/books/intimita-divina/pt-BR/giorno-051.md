@@ -22,12 +22,6 @@ Jesus alegrou-se com isso e disse: "Eu te louvo, ó Pai, Senhor do céu e da ter
 
 "Tu só, Senhor, nos ensinas a verdade, nos mostras o caminho da salvação. Ó infelizes de nós! São verdades que sabemos e cremos, mas habituados há muito a não considerá-las, parecem-nos tão estranhas que quase já não as conhecemos, nem as queremos conhecer.
 
-"Faze, Senhor, que as tuas palavras nunca se apaguem da minha mente" (T.G. Es. 8, 16 e 2; 13, 2).*
-
-Não permitas, ó Jesus, que eu me deixe atrair por máximas, por doutrinas que não vêm de ti.
+"Faze, Senhor, que as tuas palavras nunca se apaguem da minha mente" (T.G. Es. 8, 1 e 2; 13, 2).*
 
 De que me valerá conhecer todas as ciências, se não conhecerei a ti e as verdades que Tu vieste ensinar-nos? Faze, ó Jesus, que eu não me contente com um conhecimento superficial, mas dá-me a luz e a inteligência necessárias para penetrar o sentido profundo dos teus ensinamentos. Mais do que pelo raciocínio e pelas pesquisas sutis, a tua palavra se compreende com humildade, amor e vivo desejo de ti. Cria em mim, ó Senhor, um coração reto, humilde, sincero, capaz de amar e penetrar as tuas divinas palavras.
-
-Eis, meu doce Mestre, eu ponho a minha alma diante de ti, como se expõe um pano aos raios do sol; de joelhos diante do Tabernáculo, na oração e no silêncio, Tu me instruirás muito mais do que através de tantos livros doutos. Mas o teu livro, ó Senhor, o teu Evangelho, não o quero jamais deixar; "dele tiro tudo o que é necessário à minha pobre alma; nele descubro sempre novas luzes, sentidos misteriosos e ocultos" (T.B.G. St. 8).
-
-Dá-me, ó Senhor, a inteligência do teu Evangelho, da tua palavra, e serei bastante sábio!

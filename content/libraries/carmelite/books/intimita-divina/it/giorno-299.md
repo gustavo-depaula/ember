@@ -1,6 +1,6 @@
 ## VII — LA PERSEVERANZA
 
-**Presenza di Dio.** — La tua grazia, o Dio, mi renda perseverante sino alla fine.
+**Presenza di Dio.** — *La tua grazia, o Dio, mi renda perseverante sino alla fine.*
 
 ### Meditazione
 

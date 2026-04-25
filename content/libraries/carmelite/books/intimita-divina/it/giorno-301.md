@@ -1,6 +1,6 @@
 ## IX — PERSEVERANZA E FIDUCIA
 
-**Presenza di Dio.** — O Signore, accresci la mia fiducia nel tuo soccorso e fa' che in questa fiducia trovi sempre il coraggio per ricominciare.
+**Presenza di Dio.** — *O Signore, accresci la mia fiducia nel tuo soccorso e fa' che in questa fiducia trovi sempre il coraggio per ricominciare.*
 
 ### Meditazione
 

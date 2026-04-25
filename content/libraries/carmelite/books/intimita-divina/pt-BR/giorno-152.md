@@ -20,4 +20,4 @@ A oração de recolhimento consiste em tomar consciência desta grande realidade
 
 «Sinto, ó Senhor, que Tu dizes à minha alma: 'o meu reino está dentro de ti'. Grande contentamento é para mim saber que não te apartas jamais de mim e que eu nunca posso afastar-me de ti. Que queres de mais, ó alma minha, e que buscas de mais, quando dentro de ti tens as tuas delícias, a tua satisfação, o teu apaziguamento e o teu reino, isto é, o Amado que desejas e buscas?» (cfr. T.G. Cam. 28, 2).
 
-«Ó meu Deus, Tu estás em mim e eu em ti; Tu és o meu céu e a minha terra, porque o céu Tu o trazes em ti e estás em minha alma. Aqui te encontro sempre presente; ainda que o meu sentimento não perceba mais a tua presença, Tu estás aqui do mesmo modo: e aqui tanto me agrada buscar-te. Oh, que eu nunca te deixe só!» (cfr. E.T. Lettere).
+«Ó meu Deus, Tu estás em mim e eu em ti; Tu és o meu céu e a minha terra, porque o céu Tu o trazes em ti e estás em minha alma. Aqui te encontro sempre presente; ainda que o meu sentimento não perceba mais a tua presença, Tu estás aqui do mesmo modo: e aqui tanto me agrada buscar-te. Oh, que eu nunca te deixe só!» (cfr. E.T. Cartas).

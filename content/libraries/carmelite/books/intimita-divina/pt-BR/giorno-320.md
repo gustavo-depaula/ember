@@ -26,7 +26,7 @@ Desta oração a alma sai verdadeiramente inflamada de amor, que ela demonstra s
 
 Para sermos aptos às moções do dom da sabedoria — o mais sublime dos dons — devemos docemente dispor nosso coração à plenitude do amor e, ao mesmo tempo, aplicar-nos a adquirir profunda humildade, pois, como disse Jesus, «estas coisas são escondidas aos doutos e sábios segundo o mundo e reveladas aos pequeninos» (cf. Mt. 11, 25).
 
-«Adquirem a sabedoria de Deus somente aqueles que, quase crianças ignorantes, depondo o próprio saber, avançam com amor em seu serviço» (São João da Cruz).
+«Adquirem a sabedoria de Deus somente aqueles que, quase crianças ignorantes, depondo o próprio saber, avançam com amor em seu serviço» (G.C. S. I, 4, 5).
 
 ### Colóquio
 

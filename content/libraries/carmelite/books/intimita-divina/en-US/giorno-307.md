@@ -18,7 +18,7 @@ Whoever nourishes claims regarding affirmation of personality, the esteem and re
 
 Likewise, one who still seeks creaturely affection, joy, and satisfactions creatures can give is not poor in spirit; nor is one who, in piety and in relations with God, seeks consolations and spiritual sweetness. Poverty of spirit consists in being wholly naked and empty of all these claims, so that the soul claims and desires one thing only: to possess God; and it remains content even when God lets Himself be found only in darkness, dryness, discouragement, and suffering.
 
-This is perfect poverty of spirit, making the soul free from all that is not God; and herein lies the reason for its happiness: "The soul that strips itself of its desires, of its willing and not willing, God will clothe with his purity and his delight and his will" (St. John of the Cross). The beatitude promised to the poor in spirit is precisely possession of God, a possession that will clothe them in God's infinite riches.
+This is perfect poverty of spirit, making the soul free from all that is not God; and herein lies the reason for its happiness: "The soul that strips itself of its desires, of its willing and not willing, God will clothe with his purity and his delight and his will" (G.C. PA. 19). The beatitude promised to the poor in spirit is precisely possession of God, a possession that will clothe them in God's infinite riches.
 
 This is the goal to which the Holy Spirit desires to lead us. Let us cooperate with his action, following docilely his invitations to detachment and total stripping. The more generous we are in depriving ourselves of all that is not God, the more we shall enjoy the beatitude promised to the poor in spirit.
 

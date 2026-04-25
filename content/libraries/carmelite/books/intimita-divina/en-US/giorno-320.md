@@ -26,7 +26,7 @@ From this prayer soul comes forth truly inflamed with love, shown above all by c
 
 To be apt for motions of gift of wisdom — most sublime of gifts — we must gently dispose our heart to fullness of love, and at same time apply ourselves to acquire deep humility, because, as Jesus said, "these things are hidden from wise and prudent according to world and revealed to little ones" (cf. Mt. 11:25).
 
-"Only those acquire wisdom of God who, like ignorant children, laying down their own knowledge, advance with love in his service" (St. John of the Cross).
+"Only those acquire wisdom of God who, like ignorant children, laying down their own knowledge, advance with love in his service" (G.C. S. I, 4, 5).
 
 ### Colloquy
 

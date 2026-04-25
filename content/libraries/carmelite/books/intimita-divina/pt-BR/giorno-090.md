@@ -1,6 +1,6 @@
 ## 14 — A CASTIDADE DO CORAÇÃO
 
-**Presença de Deus.** — *— Ó Senhor, ensina-me quão puro deve ser meu coração para ser admitido à tua intimidade.*
+**Presença de Deus.** — *Ó Senhor, ensina-me quão puro deve ser meu coração para ser admitido à tua intimidade.*
 
 ### Meditação
 
@@ -66,7 +66,7 @@ sabe compreender Deus, sabe penetrar nas profundezas dos seus
 mistérios infinitos. Precisamente por
 isso os teólogos ensinam que à bem-aventurança "bem-aventurados os puros de coração" corresponde o
 dom do entendimento, mediante o qual o Espírito
-Santo torna a alma capaz de um "intus legere", de ler
+Santo torna a alma capaz de um *intus legere*, de ler
 dentro, isto é, de penetrar as coisas divinas. Quanto mais se ama, mais se deseja
 conhecer a pessoa amada, e não só externamente, mas
 intimamente, sendo posto a par dos seus pensamentos, dos seus

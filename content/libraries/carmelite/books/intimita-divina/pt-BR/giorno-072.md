@@ -20,4 +20,4 @@ Supliquemos este divino Espírito que perdoe nossa negligência e nos ajude a su
 
 "Ó Espírito Santo, dá-me de beber da torrente da tua doçura, para que nada mais eu ame saborear da envenenada doçura do mundo" (S. Agostinho).
 
-"Ó Espírito Santo, amor infinito, que procedes do Pai e do Filho, dá-me o espírito de adoção, ensina-me a agir sempre como verdadeiro filho de Deus. Habita em mim, faze que eu habite em ti, para amar como amas Tu. Sem ti sou nada: sine tuo numine nihil est in homine... Eu nada valho, mas mantém-me unido a ti, enche-me do teu amor, para que eu permaneça unido com teu auxílio ao Pai e ao Filho" (Dom C. Marmion).
+"Ó Espírito Santo, amor infinito, que procedes do Pai e do Filho, dá-me o espírito de adoção, ensina-me a agir sempre como verdadeiro filho de Deus. Habita em mim, faze que eu habite em ti, para amar como amas Tu. Sem ti sou nada: *sine tuo numine nihil est in homine*... Eu nada valho, mas mantém-me unido a ti, enche-me do teu amor, para que eu permaneça unido com teu auxílio ao Pai e ao Filho" (Dom C. Marmion).

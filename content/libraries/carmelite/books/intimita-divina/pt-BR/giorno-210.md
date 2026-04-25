@@ -1,6 +1,6 @@
 ## X — A DEVOÇÃO AO CORAÇÃO DE JESUS
 
-**Presença de Deus.** — *Ó Jesus, digna-te descobrir-me os tesouros do teu Coração.*
+**Presença de Deus.** — *Ó Sagrado Coração de Jesus, ensina-me a conhecer-te, ensina-me a amar-te.*
 
 ### Meditação
 
@@ -14,6 +14,6 @@
 
 «Mas, além disso, foste trespassado para que, através da ferida visível, víssemos aquela invisível do amor, porque quem arde de amor é pelo amor ferido. E de que maneira podias mostrar-nos melhor este teu amor senão deixando-te rasgar por uma lança não somente o Corpo, mas até o Coração? A ferida corporal indica, portanto, a ferida espiritual.
 
-«E quem, pois, não amará este Coração tão trespassado? Quem não amará de volta quem tanto nos ama? Quem não abraçará um Esposo tão casto? Certamente, ó Senhor, ama-te de volta a alma que, sentindo-se ferida pelo teu amor, grita: 'Eu sou ferida pela caridade'. Também nós, peregrinos na carne, quanto nos é possível amemos, amemos de volta, abracemos o nosso Ferido, a quem foram trespassadas as mãos e os pés, o lado e o Coração. Amemos e rezemos: ó Jesus, digna-te ligar com vínculo e ferir com dardo do teu amor o nosso coração ainda duro e impenitente» (S. Boaventura, Vite mistica, 3, 5).
+«E quem, pois, não amará este Coração tão trespassado? Quem não amará de volta quem tanto nos ama? Quem não abraçará um Esposo tão casto? Certamente, ó Senhor, ama-te de volta a alma que, sentindo-se ferida pelo teu amor, grita: 'Eu sou ferida pela caridade'. Também nós, peregrinos na carne, quanto nos é possível amemos, amemos de volta, abracemos o nosso Ferido, a quem foram trespassadas as mãos e os pés, o lado e o Coração. Amemos e rezemos: ó Jesus, digna-te ligar com vínculo e ferir com dardo do teu amor o nosso coração ainda duro e impenitente» (S. Boaventura, Videira Mística, 3, 5).
 
 «Ó Jesus, um dos soldados abriu-te o lado com uma lança para que no teu lado aberto aprendamos o amor do teu Coração, amor que chegou até à morte, e entremos também nós naquele inefável amor pelo qual Tu vieste a nós. Aproxima-te, pois, ó minha alma, do Coração de Cristo, Coração grande, Coração secreto, Coração que tudo pensa, Coração que tudo conhece, Coração que ama, antes, que arde de amor. Faze-me compreender, ó Senhor, que a porta do teu Coração foi aberta pela veemência do amor, e admite-me a entrar no segredo do teu amor escondido desde toda a eternidade, mas agora revelado pela ferida do teu Coração» (cf. S. Bernardino de Sena).

@@ -23,6 +23,6 @@ Great purity of intention ensures that all its words and actions are simple, ref
 
 "In the midst of life's vicissitudes and unforeseen events, teach me to go straight where your will calls me, without curiosity or distractions. Teach me to tread the straight way of love that knows no delays, of simplicity that knows no deviations, of truth that knows no ruses, of obedience that knows no replies, of purity that knows no fascination with creatures, of recollection that knows no distractions.
 
-"This is the way that pleases You, O Jesus, who willed to call Yourself straightest way: ego sum via rectissima. This is the way that leads to the Father, since You said: 'no one goes to the Father except through me.' This is the way by which the Holy Spirit guides us, for Wisdom 'leads the just by straight ways.'
+"This is the way that pleases You, O Jesus, who willed to call Yourself straightest way: *ego sum via rectissima*. This is the way that leads to the Father, since You said: 'no one goes to the Father except through me.' This is the way by which the Holy Spirit guides us, for Wisdom 'leads the just by straight ways.'
 
 "Therefore, O God, I ask You with fervor and desire full of confidence: create in me a clean heart and renew in me your spirit. May your good Spirit lead me on the straight way!" (Sr. Carmela d. Spirito S.).

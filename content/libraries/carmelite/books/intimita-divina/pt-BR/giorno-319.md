@@ -12,7 +12,7 @@ Por isso, antes de introduzir uma alma na penetração de seus mistérios, Deus 
 
 Se Deus nos faz passar por essas provas, não recuemos, não fujamos de sua ação, mas secundemo-la, bem persuadidos de que Ele reserva a plenitude de seus dons e de sua luz somente às almas puras de toda sombra de criatura, somente aos corações que lhe pertencem completamente. Nesse sentido, pode-se dizer que a visão de Deus é o prêmio prometido aos puros de coração.
 
-Com efeito, quando o coração conserva algum apego, ainda mínimo, às criaturas, o intelecto permanece ofuscado e «não tem capacidade de receber a luz da sabedoria de Deus, à semelhança do ar tenebroso que não a tem para receber a do sol... Oh! — exclama São João da Cruz — se os homens soubessem de quanto bem de luz divina os priva a cegueira causada por seus afetos e desejos!» (Subida I, 8).
+Com efeito, quando o coração conserva algum apego, ainda mínimo, às criaturas, o intelecto permanece ofuscado e «não tem capacidade de receber a luz da sabedoria de Deus, à semelhança do ar tenebroso que não a tem para receber a do sol... Oh! — exclama São João da Cruz — se os homens soubessem de quanto bem de luz divina os priva a cegueira causada por seus afetos e desejos!» (Subida I, 8, 2 e 6).
 
 Ao contrário, quando o coração é puro, então o intelecto, semelhante a um vidro límpido, pode ser totalmente penetrado pela luz do Espírito Santo.
 

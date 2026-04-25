@@ -8,7 +8,7 @@
 
 Para tornar-nos semelhantes a si, Deus infundiu em nossa alma, juntamente com a graça, as virtudes teologais e morais, que têm justamente o fim de reproduzir em nós algo de suas perfeições infinitas; e ele, que como Pai ama reencontrar nos filhos os traços de sua semelhança, deseja sumamente ver-nos crescer nas virtudes.
 
-«A alma — diz São João da Cruz — não pode exercitar e adquirir as virtudes sozinha, sem a ajuda de Deus; e tampouco Deus as insere e as faz crescer na alma sem ela» (Cântico, adaptado). De fato, embora no batismo Deus tenha infundido em nós as virtudes sem qualquer mérito nosso, não as faz crescer sem nossa colaboração; cabe a nós — sempre socorridos pela graça — pôr em exercício os princípios virtuosos que ele nos deu. Só assim adquiriremos os bons hábitos e realizaremos com facilidade os atos de virtude.
+«A alma — diz São João da Cruz — não pode exercitar e adquirir as virtudes sozinha, sem a ajuda de Deus; e tampouco Deus as insere e as faz crescer na alma sem ela» (C. 30, 6). De fato, embora no batismo Deus tenha infundido em nós as virtudes sem qualquer mérito nosso, não as faz crescer sem nossa colaboração; cabe a nós — sempre socorridos pela graça — pôr em exercício os princípios virtuosos que ele nos deu. Só assim adquiriremos os bons hábitos e realizaremos com facilidade os atos de virtude.
 
 Portanto, se queremos secundar a ação de Deus que quer tornar-nos semelhantes a si, devemos aplicar-nos com grande empenho ao exercício das virtudes. Aplicar-nos-emos antes de tudo àquela virtude que reconhecemos como mais necessária para corrigir nossos defeitos e vencer nossa paixão dominante; faremos dela objeto particular de nossos propósitos, de nossos exames de consciência e de nossas prestações de contas ao diretor espiritual.
 
@@ -26,7 +26,7 @@ Enquanto a nós cabe colocar em ato as virtudes, só Deus pode colocar em ato os
 
 «Ó Senhor, tu disseste: “Sede santos, porque eu sou santo”; é justamente esta, parece-me, a mesma vontade que tens desde o dia da criação, quando declaraste: “Façamos o homem à nossa imagem e semelhança”; é sempre o mesmo teu desejo de associar, de identificar a ti tua criatura... Como satisfazer melhor esse teu desejo, senão permanecendo simples e amorosamente voltados para ti, para que tu possas refletir em nós tua imagem como o sol se reflete através de um cristal límpido?...
 
-«Mas, para espelhar tuas perfeições, é necessário despojar-nos do homem velho para revestir-nos do homem novo, criado por ti na justiça e na santidade. Eis o caminho traçado: trata-se apenas de despojar-se para percorrê-lo segundo teu desígnio divino. Ajuda-me, pois, a despojar-me, a morrer para mim mesma, a perder-me de vista» (Isabel da Trindade).
+«Mas, para espelhar tuas perfeições, é necessário despojar-nos do homem velho para revestir-nos do homem novo, criado por ti na justiça e na santidade. Eis o caminho traçado: trata-se apenas de despojar-se para percorrê-lo segundo teu desígnio divino. Ajuda-me, pois, a despojar-me, a morrer para mim mesma, a perder-me de vista» (E.T. II, 9; I, 7).
 
 Ajuda-me, ó Senhor, a combater meus defeitos para despojar-me do homem velho; ajuda-me a praticar as virtudes para revestir-me do homem novo. Pouco vale diante de ti o esplendor das obras e a fama de um grande nome, mas muito vale o exercício da virtude.
 
@@ -34,4 +34,4 @@ Ajuda-me, ó Senhor, a combater meus defeitos para despojar-me do homem velho; a
 
 «Preferes em mim o mínimo grau de obediência a todos aqueles serviços que penso render-te.
 
-«Estimas mais um meu desejo de sofrimento por amor de ti do que todas as consolações espirituais que eu poderia ter» (São João da Cruz).
+«Estimas mais um meu desejo de sofrimento por amor de ti do que todas as consolações espirituais que eu poderia ter» (G.C. AM. 12-14).

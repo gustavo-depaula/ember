@@ -6,6 +6,8 @@
 
 **1** — A festa da Imaculada harmoniza-se perfeitamente com o espírito do Advento; enquanto a alma se prepara para a vinda do Redentor, é tão justo pensar naquela que foi sua Mãe, "a toda pura".
 
+\* Mover esta meditação conforme o calendário do ano.
+
 A própria promessa do Salvador está unida, aliás está incluída, na promessa desta Virgem singular; depois de amaldiçoar a serpente insidiosa, Deus proclamou: "Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela; ela te esmagará a cabeça" (Gen. 3, 15). E eis a Virgem preanunciada avançar "branca como a neve, resplandecente como o sol, cheia de graça e bendita entre todas as mulheres" (BR.).
 
 Precisamente em vista do sublime privilégio que faria dela a Mãe do Verbo Encarnado, Maria — única entre todas as criaturas — foi preservada do pecado original. Na Imaculada, porém, vemos não só a preservação do pecado original, a absoluta ausência de toda mínima sombra de imperfeição, mas vemos também o lado positivo deste mistério que a tornou, desde o primeiro momento da sua existência, "cheia de graça".

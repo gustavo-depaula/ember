@@ -1,6 +1,6 @@
 ## XXI — CONDUTA PRÁTICA
 
-**Presença de Deus.** — *— Ó Senhor, tua luz me guie sempre para que eu não me engane no meu caminho.*
+**Presença de Deus.** — *Ó Senhor, tua luz me guie sempre para que eu não me engane no meu caminho.*
 
 ### Meditação
 

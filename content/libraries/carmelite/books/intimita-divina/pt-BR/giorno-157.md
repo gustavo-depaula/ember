@@ -1,7 +1,7 @@
 ## XVIII — PATROCÍNIO DE S. JOSÉ
 *Quarta-feira da II sem. depois da Páscoa*
 
-**Presença de Deus.** — *— Ó glorioso S. José, faze que sob o teu patrocínio cresça e se desenvolva a minha vida interior.*
+**Presença de Deus.** — *Ó glorioso S. José, faze que sob o teu patrocínio cresça e se desenvolva a minha vida interior.*
 
 ### Meditação
 
@@ -17,7 +17,7 @@ Na Igreja cada um de nós tem sua pequena missão a cumprir para o bem das almas
 
 «Sê bendito, ó José, feliz Santo, a quem foi dado não só ver aquele Deus que muitos reis desejaram ver e não viram, ouvir e não ouviram, mas também levá-lo nos braços, beijá-lo, vesti-lo e guardá-lo... Ó S. José, os outros santos viram Deus depois da morte, mas tu, ainda vivo, à semelhança dos bem-aventurados, gozaste sua presença junto de ti. Tu apertas ao teu coração Jesus menino, segues-no e serves-no no Egito, hospedas-no sob o teu teto» (cfr. BR.).
 
-«Com quanto amor, nas viagens, o vias repousar sobre teus joelhos enquanto Ele, ainda criança, estava exausto da fadiga! Um amor sem reservas te atraía para Ele, como para um dulcíssimo Filhinho que o Espírito Santo te havia confiado por meio da Virgem sua Esposa» (cfr. Bernardino de Sena).
+«Oh, quantos doces beijos recebeste dEle! Com que doçura te ouvias chamar pai pelo Pequenino que apenas balbuciava, e com que suavidade te sentias docemente abraçar. Com quanto amor, nas viagens, o fazias repousar sobre teus joelhos enquanto Ele, ainda criança, estava exausto da fadiga! Um amor sem reservas te atraía para Ele, como para um dulcíssimo Filhinho que o Espírito Santo te havia confiado por meio da Virgem sua Esposa» (S. Bernardino de Sena).
 
 «É coisa que realmente maravilha recordar os grandes favores que o Senhor me fez por intercessão de S. José, tanto da alma como do corpo, dos quais me livrou. Parece que aos outros Santos Deus concedeu fazer graças somente nesta ou naquela necessidade; Tu, porém, estendes teu patrocínio a qualquer necessidade... A ti devem ser afeiçoadas as almas de oração, e quem não tivesse ninguém de quem aprender a fazer oração tome-te por mestre e não se enganará» (T.G. Vi. 6, 6 e 8).
 

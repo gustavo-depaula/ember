@@ -20,4 +20,4 @@ Let us beg this divine Spirit to pardon our negligence and to help us make up fo
 
 "O Holy Spirit, give me to drink at the torrent of Your sweetness, so that I may no longer love to taste anything of the poisoned sweetness of the world" (St. Augustine).
 
-"O Holy Spirit, infinite love, who proceed from the Father and the Son, give me the spirit of adoption, teach me to act always as a true child of God. Dwell in me, grant that I may dwell in You, to love as You love. Without You I am nothing: sine tuo numine nihil est in homine... I am worth nothing, but keep me united to You, fill me with Your love, that with Your help I may remain united to the Father and to the Son" (Dom C. Marmion).
+"O Holy Spirit, infinite love, who proceed from the Father and the Son, give me the spirit of adoption, teach me to act always as a true child of God. Dwell in me, grant that I may dwell in You, to love as You love. Without You I am nothing: *sine tuo numine nihil est in homine*... I am worth nothing, but keep me united to You, fill me with Your love, that with Your help I may remain united to the Father and to the Son" (Dom C. Marmion).

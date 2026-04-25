@@ -4,7 +4,7 @@
 
 ### Meditation
 
-**1** — The way that leads to holiness, and therefore to perfection, can be traced only by God. Jesus proclaims it forcefully: "Not everyone who says to me, 'Lord! Lord!' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Mt. 7, 21). And to show that the souls most united to Him and most beloved by Him are precisely those who do the will of God, He added: "Whoever does the will of my Father, that one is my brother and sister and mother" (Mt. 12, 50).
+**1** — The way that leads to holiness, and therefore to God, can be traced only by God. Jesus proclaims it forcefully: "Not everyone who says to me, 'Lord! Lord!' shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven" (Mt. 7, 21). And to show that the souls most united to Him and most beloved by Him are precisely those who do the will of God, He added: "Whoever does the will of my Father, that one is my brother and sister and mother" (Mt. 12, 50).
 
 The saints drew inspiration at the school of Jesus; St. Teresa of Avila, after experiencing the most sublime mystical communications, does not hesitate to declare: "It is clear that the highest perfection does not consist in interior sweetness, in great raptures, in visions, and in the spirit of prophecy, but rather in the perfect conformity of our will to that of God, so that we too firmly will what we know He wills, accepting with the same joy both the sweet and the bitter" (Fd. 5, 10).
 

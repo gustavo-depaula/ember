@@ -17,7 +17,7 @@ To be chaste in body, then, it is necessary to be chaste in heart. Jesus insists
 
 **2** — "He who is unmarried is concerned with the things of the Lord, how he may please Him... And the virgin is concerned with the things of the Lord, wanting to be holy in body and in spirit" (I Cor. 7, 32 and 34).
 
-. Perfect chastity, chosen as a state of life and embraced with vow, frees from all cares and solicitudes necessarily required by married life and that divide the heart between God and human affections.
+Perfect chastity, chosen as a state of life and embraced with vow, frees from all cares and solicitudes necessarily required by married life and that divide the heart between God and human affections.
 
 Jesus said that there are some who renounce forming a family "for the sake of the kingdom of heaven" (Mt. 19, 12). The essential value of the vow of chastity consists precisely in this renunciation that the creature imposes on itself voluntarily in order to give itself totally to God, soul and body, heart and spirit: everything is reserved and consecrated to Him alone.
 

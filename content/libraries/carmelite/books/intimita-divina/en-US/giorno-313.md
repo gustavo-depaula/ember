@@ -14,7 +14,7 @@ We need God Himself to enlighten us from within. We need the Holy Spirit, by put
 
 The more this gift develops in us, the more our soul opens to voice of the Holy Spirit and becomes sensitive to his suggestions. By force of this gift, we little creatures can address to the Most High the humble yet bold prayer: "Speak, Lord, for thy servant heareth" (1 Sam. 3:9).
 
-**2** — Without doubt, by the gift of counsel, the Holy Spirit wants to be our counselor on way of holiness. But why then do we enjoy so little of his divine warnings? First, because we are distracted; our soul is deafened by voices of creatures, filled with noises of the world. Sacred Scripture compares voice of the Holy Spirit to "the whisper of a gentle breeze" (1 Kgs. 19:12). Therefore one must keep silence — exterior silence and still more interior — to perceive this voice so subtle and sweet. Only in silence can one hear Him who manifests Himself "in divine silence" (St. John of the Cross).
+**2** — Without doubt, by the gift of counsel, the Holy Spirit wants to be our counselor on way of holiness. But why then do we enjoy so little of his divine warnings? First, because we are distracted; our soul is deafened by voices of creatures, filled with noises of the world. Sacred Scripture compares voice of the Holy Spirit to "the whisper of a gentle breeze" (1 Kgs. 19:12). Therefore one must keep silence — exterior silence and still more interior — to perceive this voice so subtle and sweet. Only in silence can one hear Him who manifests Himself "in divine silence" (cf. G.C. AM. 26).
 
 Another cause preventing us from receiving counsels of the Holy Spirit is attachment to our own judgment, to short counsels of our mind. A little of this attachment, a little obstinacy in one's own ideas, is enough to close soul in itself and make it incapable of grasping divine inspirations. Let us not deceive ourselves: this happens even when obstinacy concerns good things, because attachment to one's own opinions is never good, never sign of grace's action, but rather of unconquered self-love.
 
@@ -30,4 +30,4 @@ By cultivating interior recollection and detachment from our own judgment, we wi
 
 "They make known your commandments, but You help us put them into practice. They show the way, but You give strength to walk. They provide externally, but You enlighten and teach hearts. They water from outside, but You grant fruitfulness. They speak words, but You give understanding to hearing.
 
-"Speak then, Lord: your servant hears, for You have words of eternal life. Speak to me, to give some consolation to my soul, to amend all my life, to your glory and your everlasting honor" (Imitation of Christ III, 2).
+"Speak then, Lord: your servant hears, for You have words of eternal life. Speak to me, to give some consolation to my soul, to amend all my life, to your glory and your everlasting honor" (Imitation of Christ III, 2, 1-3).

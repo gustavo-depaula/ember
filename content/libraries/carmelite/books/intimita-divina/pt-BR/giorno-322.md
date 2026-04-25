@@ -14,7 +14,7 @@ Persuadamo-nos de que, antes de fazer-nos saborear Deus e sua divina união, o d
 
 Disponhamo-nos, portanto, a sofrer com coragem esta purificação indispensável; antes, procuremos nós mesmos antecipá-la, cortando sem piedade todos os fios que ainda nos ligam à terra e, sobretudo, os que nos ligam ao nosso amor-próprio, ao nosso orgulho.
 
-«Ó humildade, humildade!... — exclama Teresa de Jesus — a falta daqueles que não vão adiante [nos caminhos do espírito] está toda aqui», na falta de humildade, «porque a humildade é o fundamento do edifício e o Senhor nunca o elevará muito se esta virtude não estiver verdadeiramente bem firme» (Moradas).
+«Ó humildade, humildade!... — exclama Teresa de Jesus — a falta daqueles que não vão adiante [nos caminhos do espírito] está toda aqui», na falta de humildade, «porque a humildade é o fundamento do edifício e o Senhor nunca o elevará muito se esta virtude não estiver verdadeiramente bem firme» (M. III, 1, 7; 2, 8; VII, 4, 8).
 
 **2** — À generosidade, ao desapego e à humildade unamos a fervorosa oração para invocar a obra do Espírito Santo. Elevemos a ele nossas súplicas com as próprias palavras do hino:
 
@@ -46,4 +46,4 @@ O equilíbrio pleno e a paz perfeita são características da vida de união com
 
 «Fonte de água viva que jorra até a vida eterna, irriga, dessedenta minha alma que tem sede de justiça. Fogo sagrado, purifica-me, faze que eu arda de tuas chamas e elas em mim jamais se extingam. Luz inefável, ilumina-me; Santidade perfeita, consagra-me; Espírito de verdade, sem ti estou no erro; Espírito de amor, sem ti sou gelo; Espírito de unção, sem ti estou na aridez; Espírito de vida e vivificante, sem ti estou na morte.
 
-«Ó Espírito divino, faze ao meu coração uma doce violência para empenhá-lo a desejar-te, a buscar-te, a obedecer-te, a amar-te e a possuir-te no tempo e na eternidade. Assim seja» (Pe. Aurillon).
+«Ó Espírito divino, faze ao meu coração uma doce violência para empenhá-lo a desejar-te, a buscar-te, a amar-te e a possuir-te no tempo e na eternidade. Assim seja» (Pe. Aurillon).

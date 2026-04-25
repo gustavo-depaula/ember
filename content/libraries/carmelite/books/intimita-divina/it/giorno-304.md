@@ -1,6 +1,6 @@
 ## XII — LA MANSUETUDINE
 
-**Presenza di Dio.** — O Gesù, mite ed umile di cuore, rendi il mio cuore simile al tuo.
+**Presenza di Dio.** — *O Gesù, mite ed umile di cuore, rendi il mio cuore simile al tuo.*
 
 ### Meditazione
 

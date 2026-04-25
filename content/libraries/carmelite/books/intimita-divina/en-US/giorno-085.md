@@ -19,7 +19,7 @@ them to leave even that little. What really frees the soul from slavery to earth
 
 ### Colloquy
 
-O most benign Lord Jesus Christ, richest in mercy, nothing is more dangerous in this world than to be inflamed with desires, since the love of riches is an insatiable hunger, which torments the soul far more by the ardor of desire than it gives refreshment when one attains what one has desired.
+O most benign Lord Jesus Christ, richest in love, nothing is more dangerous in this world than to be inflamed with desires, since the love of riches is an insatiable hunger, which torments the soul far more by the ardor of desire than it gives refreshment when one attains what one has desired.
 
 
 "The acquisition of riches is cause of great labors; possession of them brings great fears; their loss causes grave sorrow. He who loves them cannot love You, O Lord, but with them, being perishable, falls into perdition; and he who leans on them with love, with them fails in sadness. He who finds them loses peace; while awake he thinks of how to increase them; if he sleeps, he dreams of thieves; by day he is anxious and afflicted; by night he fears, and thus he is always miserable" (Venerable R. Jordan).

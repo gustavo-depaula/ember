@@ -1,6 +1,6 @@
 ## XXVI — PIETÀ E DEVOZIONE
 
-**Presenza di Dio.** — O Dio, Padre nostro, infondi in me il vero spirito di pietà e di devozione.
+**Presenza di Dio.** — *O Dio, Padre nostro, infondi in me il vero spirito di pietà e di devozione.*
 
 ### Meditazione
 

@@ -38,7 +38,7 @@ Aliás, o mesmo Papa afirma: «Este trabalho apostólico, realizado segundo o es
 
 «Para melhor agradar-te, meu Deus, quero esquecer-me de mim pelos outros, pronta até a morrer, se for preciso, como fizeram muitos mártires.
 
-«Creio que uma das maiores consolações desta vida é ver as almas aproveitarem por nosso intermédio. Felizes, Senhor, aqueles a quem concedes esta graça!» (cf. Santa Teresa de Jesus).
+«Creio que uma das maiores consolações desta vida é ver as almas aproveitarem por nosso intermédio. Felizes, Senhor, aqueles a quem concedes esta graça!» (T.G. P. 7, 5 e 6).
 
 «Meu Deus, feliz aquele que provou quão doce é trabalhar pela salvação das almas! Então ele não teme nem frio nem calor, nem fome nem sede, nem desgostos nem afrontas, nem sequer a morte.
 

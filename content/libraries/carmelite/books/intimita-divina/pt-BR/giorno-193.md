@@ -1,6 +1,6 @@
 ## XXIV — O ESPÍRITO SANTO NOS CONFORMA A CRISTO
 
-**Presença de Deus.** — *Ó Espírito Santo, torna-me conforme a Jesus, faze de mim um *alter Christus*.*
+**Presença de Deus.** — *Ó Espírito Santo, torna-me conforme a Jesus, faze de mim um «alter Christus».*
 
 ### Meditação
 

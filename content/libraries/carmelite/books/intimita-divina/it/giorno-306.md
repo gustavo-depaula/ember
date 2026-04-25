@@ -1,6 +1,6 @@
 ## XIV — IL DONO DEL TIMORE
 
-**Presenza di Dio.** — O Signore, fa' ch'io tema una cosa sola: dispiaccerti e separarmi da te.
+**Presenza di Dio.** — *O Signore, fa' ch'io tema una cosa sola: dispiaccerti e separarmi da te.*
 
 ### Meditazione
 

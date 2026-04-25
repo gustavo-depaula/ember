@@ -37,7 +37,7 @@ E disto não há dúvida» *(M. V.* 3, 12 e 8).
 
 ### Colóquio
 
-«Ó Bem infinito, quero oferecer-Vos e consagrar-Vos tudo a mim mesmo sem cessar sobre o
+«Ó Bem infinito, quero oferecer-Vos e consagrar-Vos a mim todo sem cessar sobre o
 altar do meu coração. E começando pela minha alma, esposa Vossa, remida com o
 preciosíssimo Sangue Vosso, ofereço-Vo-La para que seja lugar de repouso da Vossa
 Majestade e se transforme em Vós, não permanecendo mais além viva para si, mas viva só

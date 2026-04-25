@@ -29,4 +29,4 @@ Christian patience therefore includes not only a passive attitude before sufferi
 
 "O crucified Christ, You are enough for me; with You I want to suffer and to rest! Grant that, crucified inwardly and outwardly with You, I may live in the fullness and satisfaction of my soul, yet in patience.
 
-"Teach me to esteem sufferings greatly and to consider them very little in order to enter your favor, O Lord, You who did not hesitate to die for me. O my Beloved, everything harsh and burdensome I want for myself; everything sweet and delightful for You!" (St. John of the Cross, adapted).
+"Teach me to esteem sufferings greatly and to consider them very little in order to enter your favor, O Lord, You who did not hesitate to die for me. O my Beloved, everything harsh and burdensome I want for myself; everything sweet and delightful for You!" (G.C. PA. 13, 8, 15, 52).

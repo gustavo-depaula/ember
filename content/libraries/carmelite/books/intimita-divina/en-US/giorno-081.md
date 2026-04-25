@@ -35,4 +35,4 @@ In short, you must always replace the tendency to seek your own satisfaction wit
 
 O Lord, teach me to use things, to deal with creatures with purity of intention, without wanting to draw from them any selfish satisfaction.
 
-"It seems too rigid to require me not to seek satisfaction in anything. But why is it not likewise said to me that such a method procures joy, consolation, and security even in this life?" (T.G. Camz. 12, 3). Yes, O Lord, I understand Your word. I shall have to renounce my own will, so many little personal satisfactions; but in exchange I shall have the joy of doing Your will, of pleasing and giving satisfaction to You, my God, who are my All.
+"It seems too rigid to require me not to seek satisfaction in anything. But why is it not likewise said to me that such a method procures joy, consolation, and security even in this life?" (T.G. Cam. 12, 3). Yes, O Lord, I understand Your word. I shall have to renounce my own will, so many little personal satisfactions; but in exchange I shall have the joy of doing Your will, of pleasing and giving satisfaction to You, my God, who are my All.

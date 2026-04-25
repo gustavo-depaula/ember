@@ -1,5 +1,7 @@
 ## XVI — NOSSA SENHORA DO CARMO
 
+*16 de julho*
+
 **Presença de Deus.** — *Ó Maria, decoro do Carmelo, torna-me digno da tua proteção, reveste-me com tua veste, sê a mestra da minha vida interior.*
 
 ### Meditação

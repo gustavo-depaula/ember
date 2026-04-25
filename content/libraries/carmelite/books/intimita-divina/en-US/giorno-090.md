@@ -62,7 +62,7 @@ St. Matthew). The pure heart is like the eye limpid and clear,
 it knows how to comprehend God, it knows how to penetrate the depths of His infinite mysteries. Precisely for
 this reason theologians teach that to the beatitude "blessed are the pure of heart" corresponds the
 gift of understanding, by means of which the Holy
-Spirit makes the soul capable of an "intus legere," of reading
+Spirit makes the soul capable of an *intus legere*, of reading
 within, that is, of penetrating divine things. The more one loves, the more one desires to
 know the beloved person, and not only externally, but
 intimately, being made partaker of his thoughts, his

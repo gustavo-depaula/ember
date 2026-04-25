@@ -1,6 +1,6 @@
 ## X — DEVOTION TO THE HEART OF JESUS
 
-**Presence of God.** — *O Jesus, deign to unveil for me the treasures of your Heart.*
+**Presence of God.** — *O Sacred Heart of Jesus, teach me to know You, teach me to love You.*
 
 ### Meditation
 

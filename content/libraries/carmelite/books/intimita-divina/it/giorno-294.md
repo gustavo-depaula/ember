@@ -1,6 +1,6 @@
 ## II — LA MAGNANIMITÀ
 
-**Presenza di Dio.** — O Signore, dammi un cuore grande, capace d'intraprendere per te cose grandi.
+**Presenza di Dio.** — *O Signore, dammi un cuore grande, capace d'intraprendere per te cose grandi.*
 
 ### Meditazione
 

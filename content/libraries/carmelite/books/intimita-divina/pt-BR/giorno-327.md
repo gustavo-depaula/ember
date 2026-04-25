@@ -26,7 +26,7 @@ A vida interior é a forja secreta na qual a alma, em contato com Deus, inflama-
 
 É, portanto, muito oportuno recordar frequentemente o grande princípio: a vida interior é a alma do apostolado. Uma vida interior profunda será geradora de intenso amor, de íntima união com Deus, e então dela jorrará um apostolado fecundo, verdadeira colaboração à obra salvífica de Cristo; ao contrário, uma vida interior medíocre não poderá produzir senão um amor e uma união com Deus muito fracos e débeis, e, por consequência, o apostolado que dela derivar não poderá ter eficaz influência sobre as almas.
 
-Onde a vida interior estivesse quase ou totalmente apagada, também a caridade e a amizade com Deus ameaçariam extinguir-se e, extinguida a chama interior, o apostolado seria esvaziado de sua substância, reduzindo-se a puro movimento que pode fazer barulho, mas não pode dar fruto algum. «Tudo — diz São João da Cruz — se reduzirá a martelar em vão e a fazer pouco mais de nada, e às vezes propriamente nada, e por vezes até dano» (Cântico 29).
+Onde a vida interior estivesse quase ou totalmente apagada, também a caridade e a amizade com Deus ameaçariam extinguir-se e, extinguida a chama interior, o apostolado seria esvaziado de sua substância, reduzindo-se a puro movimento que pode fazer barulho, mas não pode dar fruto algum. «Tudo — diz São João da Cruz — se reduzirá a martelar em vão e a fazer pouco mais de nada, e às vezes propriamente nada, e por vezes até dano» (C. 29, 3).
 
 ### Colóquio
 
@@ -40,4 +40,4 @@ Onde a vida interior estivesse quase ou totalmente apagada, também a caridade e
 
 «Como uma torrente arrasta consigo às profundezas do mar tudo o que encontra no seu curso, assim, meu Jesus, a alma que se aprofunda no oceano sem margens do teu amor atrai atrás de si todos os seus tesouros! Senhor, estes tesouros são para mim as almas que te aprouve unir à minha; estes tesouros me confiastes Tu.
 
-«Mas, querendo alcançar uma meta, é preciso valer-se dos meios oportunos. Por isso, meu Jesus, tendo-me tu feito compreender que me darias almas mediante a cruz, quanto maiores são as cruzes que encontro, tanto mais se torna viva em mim a sede dos sofrimentos» (Santa Teresinha do Menino Jesus).
+«Mas, querendo alcançar uma meta, é preciso valer-se dos meios oportunos. Por isso, meu Jesus, tendo-me tu feito compreender que me darias almas mediante a cruz, quanto maiores são as cruzes que encontro, tanto mais se torna viva em mim a sede dos sofrimentos» (T.B.G. St. 10 e 7).

@@ -11,8 +11,9 @@ Jesus quer salvar-nos e santificar-nos, mas quer fazê-lo por meio da Igreja. El
 
 ### Colóquio
 
-"Ó Cristo, Senhor nosso, transmitiste à tua Igreja o poder que recebeste. Pela virtude da tua dignidade, constituíste-a rainha e esposa. Ao seu poder soberano submeteste o universo inteiro. No céu ordenaste que os homens reconheçam o juízo da Igreja. Ela é a mãe de todos os viventes, ainda mais digna pela multidão dos seus filhos. Ela te santifica cada dia e te gera no Espírito novos filhos.
-O universo inteiro é coberto pelos pâmpanos da sua videira. Os ramos, sustentados pelo lenho da cruz, sobem até o reino dos céus.
+"Ó Cristo, Senhor nosso, transmitiste à tua Igreja o poder que recebeste. Pela virtude da tua dignidade, constituíste-a rainha e esposa. Ao seu poder soberano submeteste o universo inteiro. No céu ordenaste que os homens reconheçam o juízo da Igreja. Ela é a mãe de todos os viventes, ainda mais digna pela multidão dos seus filhos.
+
+"Cada dia ela te gera no Espírito novos filhos. O universo inteiro é coberto pelos pâmpanos da sua videira. Os ramos, sustentados pelo lenho da cruz, sobem até o reino dos céus.
 
 "A tua Igreja, ó Cristo, é a cidade forte construída sobre o monte, visível a todos os olhares e que ilumina cada um. Seu fundador e ao mesmo tempo seu primeiro cidadão és Tu, ó Filho de Deus e Senhor nosso.
 

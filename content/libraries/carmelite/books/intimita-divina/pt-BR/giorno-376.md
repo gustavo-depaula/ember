@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo resolutamente sair de si mesma e de todas as coisas, se põe com ardor à busca de Deus vivo e presente nela. Desde este primeiro passo à intimidade profunda, que estreitará a Deus a alma chegada à união total, o caminho é longo e fatigante. Progressivamente, à medida que, sustentada pela graça, a alma se desapega de si mesma e das criaturas, à medida que se liberta das suas imperfeições, que se despoja da sua vontade revestindo-se só da vontade divina e que, deixando inflamar nela o amor, se encaminha «à doce e deleitosa união» (G.C.N. II, 16, 14), a sua intimidade com Deus se faz mais intensa e amorosa até que, pervinda às alturas do amor transformante, se torna contínua e perfeita, torna-se abraço divino que estreita a criatura ao Criador. Então a grande promessa de Jesus: «se alguém Me amar... o Meu Pai o amará e Viremos a ele e faremos nele morada» *(Jo.* 14, 23), se realiza do modo mais perfeito possível na terra.
+**1** — A alma começa a entrar no caminho da intimidade divina no dia em que, decidindo resolutamente sair de si mesma e de todas as coisas, se põe com ardor à busca de Deus vivo e presente nela. Desde este primeiro passo à intimidade profunda, que estreitará a Deus a alma chegada à união total, o caminho é longo e fatigante. Progressivamente, à medida que, sustentada pela graça, a alma se desapega de si mesma e das criaturas, à medida que se liberta das suas imperfeições, que se despoja da sua vontade revestindo-se só da vontade divina e que, deixando inflamar nela o amor, se encaminha «à doce e deleitosa união» (G.C.N. II, 16, 14), a sua intimidade com Deus se faz mais intensa e amorosa até que, chegada às alturas do amor transformante, se torna contínua e perfeita, torna-se abraço divino que estreita a criatura ao Criador. Então a grande promessa de Jesus: «se alguém Me amar... o Meu Pai o amará e Viremos a ele e faremos nele morada» *(Jo.* 14, 23), se realiza do modo mais perfeito possível na terra.
 
 «Não é para ter-se por coisa incrível — afirma São João da Cruz — que numa alma, já
 purgada, provada no fogo das tribulações, dos trabalhos e de várias tentações, e
@@ -15,7 +15,7 @@ deleitando-lhe a vontade no Espírito Santo, e absorvendo-a o Pai poderosamente 
 da sua doçura» *(F.* 1, 15). Nos momentos mais altos da união transformante, a alma
 sente Deus vivo, presente e operante nela, sente o seu dulcíssimo abraço paterno que a
 sustém, sente o esplendor da sua Sabedoria que a ilumina, sente o divino flamejar do seu
-Amor que toda a penetra. Mas também quando o senso da presença e da ação divina nela não
+Amor que toda a penetra. Mas também quando a percepção da presença e da ação divina nela não
 é tão forte e beatificante, a alma está consciente de estar profundamente unida a Deus,
 por Ele movida e governada: «Sei que [Jesus] está em mim, que é Ele que me guia e me
 inspira a cada instante», atesta Santa Teresinha do Menino Jesus *(St.* 8). A humilde

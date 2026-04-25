@@ -1,6 +1,6 @@
 ## III — LA GENEROSITÀ
 
-**Presenza di Dio.** — Dilata, o Signore, il mio cuore nella generosità, affinché sappia darmi totalmente al tuo servizio.
+**Presenza di Dio.** — *Dilata, o Signore, il mio cuore nella generosità, affinché sappia darmi totalmente al tuo servizio.*
 
 ### Meditazione
 

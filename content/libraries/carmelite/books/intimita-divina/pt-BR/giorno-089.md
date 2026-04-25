@@ -1,13 +1,13 @@
 ## 13 — A MODÉSTIA
 
-**Presença de Deus.** — *— Ó Jesus, Esposo das virgens, mostra-me como deve viver uma alma consagrada a ti.*
+**Presença de Deus.** — *Ó Jesus, Esposo das virgens, mostra-me como deve viver uma alma consagrada a ti.*
 
 ### Meditação
 
 **1** — A castidade perfeita supõe um absoluto domínio
 do espírito sobre a matéria. Mas tal domínio é em nós contrastado por tendências desordenadas para os prazeres sensíveis;
 também as almas consagradas a Deus trazem o tesouro da
-castidade em "vasis fictilibus" (II Cor. 4, 7), isto é, no vaso
+castidade em *vasis fictilibus* (II Cor. 4, 7), isto é, no vaso
 frágil de um corpo de carne, que sente o impulso para as
 
 
@@ -106,7 +106,7 @@ força que jamais se voltem às vaidades terrenas, mas
 
 procurem só a ti, ó Bem invisível. Cria em mim um novo
 olfato, Tu, suavíssimo perfume da minha vida, para que eu
-corra atrás da fragrância dos teus ungüentos. Sana meu
+corra atrás da fragrância dos teus unguentos. Sana meu
 gosto, para que eu conheça e saboreie tua grande doçura,
 ó Senhor, aquela doçura que reservaste aos que
 estão cheios do teu santo amor. Dissipa e destrói com tua

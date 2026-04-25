@@ -1,6 +1,6 @@
 ## XV — BEATI I POVERI IN SPIRITO
 
-**Presenza di Dio.** — O Spirito Santo, mostrami la via che conduce alla vera povertà di spirito e dammi la forza di percorrerla sino in fondo.
+**Presenza di Dio.** — *O Spirito Santo, mostrami la via che conduce alla vera povertà di spirito e dammi la forza di percorrerla sino in fondo.*
 
 ### Meditazione
 

@@ -68,7 +68,7 @@ senão de Deus." E depois acrescenta com muita
 fineza: "Tudo considerado, nunca somos culpados
 sem razão, sendo sempre cheios de defeitos... Se somos
 inocentes do que nos atribuem, nunca somos tão isentos
-de culpa como o bom Jesus" (Camz. 15, 1 e 4).
+de culpa como o bom Jesus" (Cam. 15, 1 e 4).
 
 "Jesus calava-se" (Mt. 26, 63), diz o Evangelista, apresentando-nos o Senhor acusado diante dos tribunais. A alma
 que aspira à união íntima com Jesus deve saber unir-se

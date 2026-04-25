@@ -1,6 +1,6 @@
 ## 32 — HUMILDADE E CONFIANÇA
 
-**Presença de Deus.** — *— Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.*
+**Presença de Deus.** — *Do profundo do meu nada eu clamo a ti, ó Senhor; Senhor, escuta minha voz... eu confio em ti.*
 
 ### Meditação
 

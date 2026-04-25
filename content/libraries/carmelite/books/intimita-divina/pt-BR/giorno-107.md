@@ -1,6 +1,6 @@
 ## 31 — O NOSSO LUGAR
 
-**Presença de Deus.** — *— Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.*
+**Presença de Deus.** — *Ó meu Deus, que eu te conheça, que eu me conheça! Conheça que Tu és Aquele que é, e eu aquele que não é.*
 
 ### Meditação
 

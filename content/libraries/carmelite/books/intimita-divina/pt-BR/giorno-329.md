@@ -12,7 +12,7 @@ Assim, enquanto a vida interior é a alma do apostolado, o apostolado é por sua
 
 O sistema de vida do Carmelo teresiano — vida contemplativa de profunda intensidade — nasceu assim de um grande ideal de apostolado.
 
-Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII).
+Este mesmo ideal fez surgir recentemente na Igreja um novo estado de vida, o dos Institutos seculares, em que almas desejosas de consagrar-se à salvação dos irmãos se empenham em viver no mundo segundo a perfeição evangélica. «O fim específico [de apostolado] parece ter necessariamente requerido e também criado o fim genérico [de perfeição]» (Pio XII, *Primo feliciter*).
 
 Quando o ideal apostólico está vivo e bem compreendido, em vez de lançar imprudentemente as almas na ação, conduz-as a uma vida interior mais profunda, ao dom total de si, à santidade, porque é necessário santificar-se para santificar. «Por eles eu me santifico» (Jo. 17, 19).
 
@@ -38,4 +38,4 @@ Assim o ideal apostólico torna-se uma alavanca poderosa para a santificação p
 
 «Pois tu, meu Deus, vês a dor que provo à vista do grande número dos que se perdem: salva ao menos um, Senhor, ao menos um que possa dar luz a muitos outros. Não por mim, Senhor, que não o mereço, mas pelos méritos de teu Filho! Olha, Senhor, suas chagas; e, já que Ele perdoou aos que lhas fizeram, perdoa Tu também a nós.
 
-«Meu Deus, eu não quero senão tua vontade; estou tão submetida a ela que não desejo mais viver do que morrer. Contudo, se assim te agrada, desejo viver para poder servir-te um pouco mais. Se eu pudesse contribuir em alguma coisa para fazer-te amar e louvar por uma alma ainda que só por pouco tempo, isso me pareceria muito mais importante do que já estar na glória» (Santa Teresa de Jesus).
+«Meu Deus, eu não quero senão tua vontade; estou tão submetida a ela que não desejo mais viver do que morrer. Contudo, se assim te agrada, desejo viver para poder servir-te um pouco mais. Se eu pudesse contribuir em alguma coisa para fazer-te amar e louvar por uma alma ainda que só por pouco tempo, isso me pareceria muito mais importante do que já estar na glória» (T.G. RS. 1, 3; Vt. 32, 6; Es. 11, 3; RS. 6, 7).

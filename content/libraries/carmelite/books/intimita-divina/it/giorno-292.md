@@ -1,6 +1,6 @@
 ## XXXI — LA FORTEZZA
 
-**Presenza di Dio.** — Insegnami, o Signore, ad agire virilmente confidando in te.
+**Presenza di Dio.** — *Insegnami, o Signore, ad agire virilmente confidando in te.*
 
 ### Meditazione
 

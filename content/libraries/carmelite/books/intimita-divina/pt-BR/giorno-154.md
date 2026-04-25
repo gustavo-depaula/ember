@@ -1,7 +1,7 @@
 ## XV — O BOM PASTOR
 *II Domingo depois da Páscoa*
 
-**Presença de Deus.** — *— Ó Jesus, meu bom Pastor, vem conduzir-me aos pastos da vida eterna.*
+**Presença de Deus.** — *Ó Jesus, meu bom Pastor, vem conduzir-me aos pastos da vida eterna.*
 
 ### Meditação
 

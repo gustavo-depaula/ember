@@ -68,7 +68,7 @@ pobre cego, o qual, sem preocupar-se com a multidão que
 lhe impedia aproximar-se de Jesus, sem deter-se com as repreensões dos discípulos que queriam fazê-lo calar, "gritava
 muito mais forte" sua oração.
 
-Do profundo do coração elevemos nosso clamor ao Senhor: "*De profundis* clamo ad te, Domine, Domine audi
+Do profundo do coração elevemos nosso clamor ao Senhor: "*De profundis* clamavi ad te, Domine, Domine audi
 vocem meam!" (Sl. 129). Não peçamos ser libertados do sofrimento, mas antes ser iluminados quanto
 ao valor dele: "Senhor, que eu veja!" Logo que o cego
 recobrou a vista, imediatamente foi atrás de Jesus, "glorificando

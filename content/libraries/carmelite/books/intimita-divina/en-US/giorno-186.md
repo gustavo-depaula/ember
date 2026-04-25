@@ -1,5 +1,7 @@
 ## XVII — THE HOLY SPIRIT
 
+*Triduo of Pentecost*
+
 **Presence of God.** — *O Holy Spirit, teach me to know you, to desire you, to love you, to dispose myself for your action.*
 
 ### Meditation

@@ -1,5 +1,7 @@
 ## XIX — SWEET GUEST OF THE SOUL
 
+*Triduo of Pentecost*
+
 **Presence of God.** — *O Holy Spirit, who deign to dwell in me, help me to open myself totally to your action.*
 
 ### Meditation

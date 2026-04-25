@@ -20,9 +20,9 @@ Giving oneself to interior life does not mean shutting oneself in ivory tower to
 
 **2** — Zeal for souls is born from charity, born from contemplation of Christ crucified. His wounds, his Blood, agonizing pains tell us how much souls are worth in God's sight and how much God loves them. Yet this love is not returned, and ungrateful men seem ever more to flee his action. This is sad spectacle of every age, renewed also today, as if to insult Jesus and renew his Passion.
 
-"All world is in flames: the impious, so to speak, yearn to condemn Jesus Christ again; they raise against Him countless calumnies and strive in a thousand ways to destroy his Church." If Teresa of Jesus could say this of her century tormented by Protestant heresy, much more can we say it of ours, in which struggle against God and Church has increased beyond measure and spread throughout world.
+"All world is in flames: the impious, so to speak, yearn to condemn Jesus Christ again; they raise against Him countless calumnies and strive in a thousand ways to destroy his Church." If Teresa of Jesus (Cam. 1, 5) could say this of her century tormented by Protestant heresy, much more can we say it of ours, in which struggle against God and Church has increased beyond measure and spread throughout world.
 
-Blessed are we if we can repeat with Saint: "Loss of so many souls breaks my heart. I would not that number of reprobate increase ... It seems to me that to save one soul of many lost, I would sacrifice my life a thousand times" (ibid.). But it is not enough to formulate desires; one must do, act, and suffer for salvation of brothers.
+Blessed are we if we can repeat with Saint: "Loss of so many souls breaks my heart. I would not that number of reprobate increase ... It seems to me that to save one soul of many lost, I would sacrifice my life a thousand times" (ibid., 4 and 2). But it is not enough to formulate desires; one must do, act, and suffer for salvation of brothers.
 
 ### Colloquy
 
@@ -34,4 +34,4 @@ Blessed are we if we can repeat with Saint: "Loss of so many souls breaks my hea
 
 "Oh, shame!... How do I dare make this prayer to You? Before my boldness You have every reason to be more indignant. Yet, O Lord, do not forget You are God of mercy: have pity then on this unworthy sinner, this miserable worm who lets herself be carried to such audacity.
 
-"Look at my desires and tears accompanying my prayer, and forgetting my sins, I beg You, for what You are, my God, have pity on many souls that are being lost, and protect your Church" (St. Teresa of Jesus, Way of Perfection).
+"Look at my desires and tears accompanying my prayer, and forgetting my sins, I beg You, for what You are, my God, have pity on many souls that are being lost, and protect your Church" (T.G. Cam. 1, 2 and 3; 3, 8 and 9).

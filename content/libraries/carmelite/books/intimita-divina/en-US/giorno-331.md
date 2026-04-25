@@ -32,7 +32,7 @@ Unceasing prayer contemplatives raise to God in name of whole Christianity does 
 
 But unfortunately we often trust more in our work, methods, and technique than in prayer. We believe too little in its efficacy, too little in help God certainly grants to one invoking Him from heart. Therefore we consider time spent in prayer almost lost.
 
-This is fundamental error deriving from lack of faith and humility, an error explaining sterility of so many works. "Those who are very active," warns St. John of the Cross, "and think to embrace whole world with their preachings and exterior works, should reflect well they would be much more useful to Church and far more pleasing to God, even apart from good example they would give, if they spent at least half that time in being with God in prayer" (Canticle 29).
+This is fundamental error deriving from lack of faith and humility, an error explaining sterility of so many works. "Those who are very active," warns St. John of the Cross, "and think to embrace whole world with their preachings and exterior works, should reflect well they would be much more useful to Church and far more pleasing to God, even apart from good example they would give, if they spent at least half that time in being with God in prayer" (C. 29, 3).
 
 ### Colloquy
 

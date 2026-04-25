@@ -43,7 +43,7 @@ trevas" (Mt. 6, 22 e 23).
 como possa agradar-lhe... E a virgem cuida das
 coisas do Senhor, querendo ser santa de corpo e de espírito" (I Cor. 7, 32 e 34).
 
-. A castidade perfeita, escolhida como estado de vida
+A castidade perfeita, escolhida como estado de vida
 e abraçada com voto, liberta de todos os cuidados e solicitações necessariamente exigidos pela vida conjugal e que dividem
 o coração entre Deus e os afetos humanos.
 

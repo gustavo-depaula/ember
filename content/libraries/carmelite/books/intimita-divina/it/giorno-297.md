@@ -1,6 +1,6 @@
 ## V — FORTEZZA E PAZIENZA
 
-**Presenza di Dio.** — Insegnami, o Signore, a sopportare con fermezza e pazienza ciò che mi fa soffrire.
+**Presenza di Dio.** — *Insegnami, o Signore, a sopportare con fermezza e pazienza ciò che mi fa soffrire.*
 
 ### Meditazione
 

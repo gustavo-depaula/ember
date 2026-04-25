@@ -42,4 +42,4 @@ This "to feel with Christ," meaning to love and will in unison with divine Heart
 
 "Your cry, 'I thirst,' resounds continually in my heart and kindles there most living fire. O my Beloved, I want to quench your thirst, and, feeling myself devoured by your very thirst for souls, I want at all costs to snatch sinners from flames of hell.
 
-"I want to employ in this all means within my reach; but knowing well by myself I can do nothing, I offer You as price of their ransom your own infinite merits and treasures of holy Church" (St. Therese of the Child Jesus).
+"I want to employ in this all means within my reach; but knowing well by myself I can do nothing, I offer You as price of their ransom your own infinite merits and treasures of holy Church" (T.B.G. Lt. 74; St. 5).

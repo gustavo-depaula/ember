@@ -18,7 +18,7 @@ Sob o impulso deste dom, Francisco de Assis abandona de repente as companhias fe
 
 Tanta renúncia, tanto despojamento, tanta nudez assustam a pobre natureza humana. Mas a alma iluminada pelo Espírito Santo compreende: nada disso tudo, porque «todas as coisas são vaidade, exceto amar a Deus e servi-lo somente a ele» (Imitação I, 1, 4). À medida que o dom da ciência se desenvolve nela, a alma entende e saboreia o nada das coisas e pressente o tudo de Deus e sente necessidade de fugir delas para imergir nele. É o primeiro passo para a contemplação.
 
-«Todos os seres criados, em comparação com o ser infinito de Deus, são nada» (São João da Cruz). Nada são as maravilhas do criado, nada as mais esplêndidas obras do engenho humano, nada a ciência dos homens mais doutos: só Deus vale e dá valor a todas as coisas, ou porque são obra de suas mãos, ou porque são obras realizadas pelo homem para sua glória.
+«Todos os seres criados, em comparação com o ser infinito de Deus, são nada» (G.C. S. I, 4, 4). Nada são as maravilhas do criado, nada as mais esplêndidas obras do engenho humano, nada a ciência dos homens mais doutos: só Deus vale e dá valor a todas as coisas, ou porque são obra de suas mãos, ou porque são obras realizadas pelo homem para sua glória.
 
 Diante de nossos mais belos empreendimentos, diante de todo nosso agitar pelas coisas da terra, o Espírito Santo nos recorda as palavras de Jesus: «Que aproveita ao homem ganhar o mundo inteiro, se vem a perder-se a si mesmo?» (Lc. 9, 25), e as outras: «Tu te inquietas e te perturbas com muitas coisas; no entanto uma só coisa é necessária» (Lc. 10, 41-42); e assim nos faz compreender que o essencial está em aderir a Deus, enquanto todo o resto é acessório e muitas vezes também vão.
 

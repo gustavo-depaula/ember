@@ -36,4 +36,4 @@ De resto, os mosteiros contemplativos, pelo simples exemplo de sua vida de retir
 
 «Minha vocação não consiste em ir ceifar nos campos maduros; tu não me dizes: “Abaixa os olhos, olha os campos e vai ceifar”; minha missão é ainda mais sublime. Tu me dizes: “Levanta os olhos e vê. Vê como no céu há lugares vazios: cabe a ti preenchê-los... tu deves ser meu Moisés que ora sobre a montanha; pede-me operários e eu os mandarei, não espero senão uma oração, um suspiro do teu coração”.
 
-«Eis, ó Senhor, a missão que me confias: contribuir com a oração e com o sacrifício para a formação dos Operários evangélicos, que salvarão milhões de almas, das quais serei mãe» (Santa Teresinha do Menino Jesus).
+«Eis, ó Senhor, a missão que me confias: contribuir com a oração e com o sacrifício para a formação dos Operários evangélicos, que salvarão milhões de almas, das quais serei mãe» (T.B.G. cf. Lt. 114).

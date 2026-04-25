@@ -1,6 +1,6 @@
 ## VIII — FRUTOS PASCAIS
 
-*domingo in Albis*
+*Domingo in Albis*
 
 **Presença de Deus.** — *Ó Jesus, como Tomé aproximo-me de ti; concede-me não ser incrédulo, mas fiel.*
 

@@ -1,6 +1,6 @@
 ## XXX — LA SEMPLICITÀ
 
-**Presenza di Dio.** — Dammi, o Signore, un cuore semplice, senza doppiezze, senza storture; un cuore che tenda a te con la semplicità di un fanciullo.
+**Presenza di Dio.** — *Dammi, o Signore, un cuore semplice, senza doppiezze, senza storture; un cuore che tenda a te con la semplicità di un fanciullo.*
 
 ### Meditazione
 

@@ -26,7 +26,7 @@ Interior life is hidden forge in which soul, in contact with God, is inflamed by
 
 It is therefore very fitting to recall often this great principle: interior life is soul of apostolate. A deep interior life will generate intense love and intimate union with God; and from it will spring fruitful apostolate, true collaboration in Christ's saving work. A mediocre interior life, instead, can produce only very weak and languid love and union with God, and consequently apostolate deriving from it cannot have effective influence on souls.
 
-Where interior life were almost or entirely extinguished, charity and friendship with God would also threaten to die out. And when interior flame is extinguished, apostolate is emptied of its substance, reduced to mere movement that can make noise but cannot bear fruit. "Everything," says St. John of the Cross, "will come to no more than hammering in vain and doing little more than nothing, and sometimes truly nothing, indeed at times even harm" (Canticle 29).
+Where interior life were almost or entirely extinguished, charity and friendship with God would also threaten to die out. And when interior flame is extinguished, apostolate is emptied of its substance, reduced to mere movement that can make noise but cannot bear fruit. "Everything," says St. John of the Cross, "will come to no more than hammering in vain and doing little more than nothing, and sometimes truly nothing, indeed at times even harm" (C. 29, 3).
 
 ### Colloquy
 
@@ -40,4 +40,4 @@ Where interior life were almost or entirely extinguished, charity and friendship
 
 "As a torrent drags with it into depths of sea all it encounters on its course, so, my Jesus, soul that plunges into shoreless ocean of your love draws behind it all its treasures. Lord, these treasures are for me souls You have been pleased to unite to mine; these treasures You entrusted to me.
 
-"But to reach a goal, one must use fitting means. Therefore, my Jesus, since You have made me understand You would give me souls through cross, the greater the crosses I meet, the more vivid in me becomes longing for sufferings" (St. Therese of the Child Jesus).
+"But to reach a goal, one must use fitting means. Therefore, my Jesus, since You have made me understand You would give me souls through cross, the greater the crosses I meet, the more vivid in me becomes longing for sufferings" (T.B.G. St. 10 and 7).

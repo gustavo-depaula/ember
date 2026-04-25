@@ -1,6 +1,6 @@
 ## 49 — DIFFICOLTÀ DELL'OBBEDIENZA
 
-**Presenza di Dio.** — Insegnami, o Gesù, il segreto dell'obbedienza umile che si sottomette a qualsiasi superiore ed a qualsiasi comando.
+**Presenza di Dio.** — *Insegnami, o Gesù, il segreto dell'obbedienza umile che si sottomette a qualsiasi superiore ed a qualsiasi comando.*
 
 ### Meditazione
 

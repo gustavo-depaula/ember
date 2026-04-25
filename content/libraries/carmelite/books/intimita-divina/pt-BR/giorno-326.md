@@ -42,4 +42,4 @@ Este «sentir com Cristo», que significa amar e querer em uníssono com o Cora�
 
 «Teu grito: “Tenho sede”, ressoa continuamente no meu coração e nele acende fogo vivíssimo. Ó meu Dileto, quero dessedentar-te e, sentindo-me devorada por tua própria sede das almas, quero arrancar a todo custo os pecadores das chamas do inferno.
 
-«Quero empregar nisso todos os meios que estão ao meu alcance; mas, sabendo bem que sozinho nada posso, ofereço-te como preço de seu resgate os teus próprios méritos infinitos e os tesouros da santa Igreja» (Santa Teresinha do Menino Jesus).
+«Quero empregar nisso todos os meios que estão ao meu alcance; mas, sabendo bem que sozinha nada posso, ofereço-te como preço de seu resgate os teus próprios méritos infinitos e os tesouros da santa Igreja» (T.B.G. Lt. 74; St. 5).

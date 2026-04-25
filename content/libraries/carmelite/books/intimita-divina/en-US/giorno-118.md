@@ -57,7 +57,7 @@ except from God." And then she adds with great
 fineness: "All things considered, we are never blamed
 without reason, being always full of defects... If we are
 innocent of what is attributed to us, we are never so free
-of fault as good Jesus was" (Camz. 15, 1 and 4).
+of fault as good Jesus was" (Cam. 15, 1 and 4).
 
 "Jesus remained silent" (Mt. 26, 63), says the Evangelist, presenting the Lord accused before tribunals. The soul
 that aspires to intimate union with Jesus must know how to unite itself

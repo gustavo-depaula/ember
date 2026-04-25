@@ -1,6 +1,6 @@
 ## 48 — OBBEDIENZA CIECA
 
-**Presenza di Dio.** — O Gesù, che per amor mio hai voluto sottometterti alle tue creature, insegnami ad obbedire senza voler saper altro.
+**Presenza di Dio.** — *O Gesù, che per amor mio hai voluto sottometterti alle tue creature, insegnami ad obbedire senza voler saper altro.*
 
 ### Meditazione
 

@@ -1,6 +1,6 @@
 ## 5 — A VIA DO NADA
 
-**Presença de Deus.** — *— Mostra-me, ó Senhor, a via estreita que conduz à verdadeira vida, que conduz à união contigo.*
+**Presença de Deus.** — *Mostra-me, ó Senhor, a via estreita que conduz à verdadeira vida, que conduz à união contigo.*
 
 ### Meditação
 
@@ -35,4 +35,4 @@ Em suma, deves sempre substituir a tendência a buscar tua satisfação pela ten
 
 Ó Senhor, ensina-me a usar das coisas, a tratar com as criaturas com pureza de intenção, sem querer tirar delas nenhuma satisfação egoísta.
 
-"Parece rígido demais exigir-me que eu não busque satisfação em coisa alguma. Mas por que também não me dizem que tal método proporciona já nesta vida alegria, consolação e segurança?" (T.G. Camz. 12, 3). Sim, ó Senhor, entendo tua palavra. Deverei renunciar à minha vontade, a tantas pequenas satisfações pessoais; mas, em troca, terei a alegria de fazer tua vontade, de agradar e dar satisfação a ti, meu Deus, que és o meu Tudo.
+"Parece rígido demais exigir-me que eu não busque satisfação em coisa alguma. Mas por que também não me dizem que tal método proporciona já nesta vida alegria, consolação e segurança?" (T.G. Cam. 12, 3). Sim, ó Senhor, entendo tua palavra. Deverei renunciar à minha vontade, a tantas pequenas satisfações pessoais; mas, em troca, terei a alegria de fazer tua vontade, de agradar e dar satisfação a ti, meu Deus, que és o meu Tudo.

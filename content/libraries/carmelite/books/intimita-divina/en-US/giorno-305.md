@@ -8,7 +8,7 @@
 
 To make us like Himself, God infused in our soul, together with grace, theological and moral virtues whose very purpose is to copy in us something of his infinite perfections. And He, who as Father loves to find in his children traits of his likeness, ardently desires to see us grow in virtues.
 
-"The soul," says St. John of the Cross, "cannot practice and acquire virtues by itself without God's help, nor does God infuse them and make them grow in the soul without it" (Canticle, adapted). Indeed, although in Baptism God infused virtues in us without any merit of ours, He does not make them grow without our cooperation. It belongs to us — always aided by grace — to put into practice the virtuous principles He has given us. Only thus shall we acquire good habits and perform virtuous acts with ease.
+"The soul," says St. John of the Cross, "cannot practice and acquire virtues by itself without God's help, nor does God infuse them and make them grow in the soul without it" (C. 30, 6). Indeed, although in Baptism God infused virtues in us without any merit of ours, He does not make them grow without our cooperation. It belongs to us — always aided by grace — to put into practice the virtuous principles He has given us. Only thus shall we acquire good habits and perform virtuous acts with ease.
 
 Therefore, if we want to cooperate with God's action that seeks to make us like Himself, we must apply ourselves with great commitment to the exercise of virtues. We will apply ourselves first to the virtue we recognize as most necessary to correct our defects and conquer our dominant passion. We will make it the particular object of our resolutions, examinations of conscience, and reports to our spiritual director.
 
@@ -26,7 +26,7 @@ While it belongs to us to put virtues into act, only God can put gifts into act;
 
 "O Lord, You said, 'Be holy, for I am holy.' This, it seems to me, is the same will You had from the day of creation when You declared: 'Let us make man in our image and likeness.' It is always your same desire to associate your creature with Yourself, to identify it with You. How can we better satisfy this desire than by remaining simply and lovingly turned toward You, so that You may reflect your image in us as the sun is reflected through a clear crystal?
 
-"But to mirror your perfections it is necessary to strip off the old man and clothe ourselves with the new man, created by You in justice and holiness. Here is the traced road: we need only strip ourselves in order to walk it according to your divine intention. Help me, then, to strip myself, to die to myself, to lose sight of myself" (Elizabeth of the Trinity).
+"But to mirror your perfections it is necessary to strip off the old man and clothe ourselves with the new man, created by You in justice and holiness. Here is the traced road: we need only strip ourselves in order to walk it according to your divine intention. Help me, then, to strip myself, to die to myself, to lose sight of myself" (E.T. II, 9; I, 7).
 
 Help me, O Lord, to fight my defects so as to strip off the old man; help me to practice virtues so as to put on the new man. Splendor of works and fame of a great name are worth little before You; practice of virtue is worth much.
 
@@ -34,4 +34,4 @@ Help me, O Lord, to fight my defects so as to strip off the old man; help me to 
 
 "You prefer in me the smallest degree of obedience to all the services I think I render You.
 
-"You value more one desire of suffering for love of You than all the spiritual consolations I might have" (St. John of the Cross).
+"You value more one desire of suffering for love of You than all the spiritual consolations I might have" (G.C. AM. 12-14).

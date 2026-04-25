@@ -28,6 +28,6 @@ If we want to cooperate with movement of the gift of piety, we must strive to di
 
 "My God, send your light and your truth, that they may shine upon face of earth. I am like empty and sterile ground unless You, Lord, illumine me. Pour into me from heaven your grace, recreate my heart with heavenly dew, give me water of devotion to irrigate surface of earth, that it may produce beautiful and good fruits. Lift up my soul oppressed by weight of its faults, and raise all my desires to divine things, so that, having once tasted sweetness of heavenly happiness, every earthly thing may become wearisome to me.
 
-"Draw my heart to Yourself, freeing me from human consolations that last little. No created thing can fully satisfy my desires or comfort me. Unite me to You with unbreakable bond of your love, for You alone suffice for one who loves You, and without You all things have no value" (Imitation III, 23).
+"Draw my heart to Yourself, freeing me from human consolations that last little. No created thing can fully satisfy my desires or comfort me. Unite me to You with unbreakable bond of your love, for You alone suffice for one who loves You, and without You all things have no value" (Imitation III, 23, 9-10).
 
 O Holy Spirit, create in me a son's heart toward the heavenly Father, a heart that always seeks, loves, and serves Him willingly. Create in me a brother's heart toward all neighbors, so that, overcoming every contrast, I may know how to be benevolent, gentle, and meek with all.

@@ -32,7 +32,7 @@ A incessante oração que os contemplativos elevam a Deus em nome de toda a cris
 
 Mas infelizmente muitas vezes confiamos mais no nosso trabalho, em nossas técnicas e métodos do que na oração; cremos pouco demais na sua eficácia, cremos pouco demais no auxílio que Deus certamente concede a quem o invoca de coração e por isso temos por quase perdido o tempo empregado na oração.
 
-Erro fundamental derivado de falta de fé e de humildade, erro que explica a esterilidade de tantas obras. «Aqueles que são muito ativos — admoesta São João da Cruz — e pensam abraçar todo o mundo com suas pregações e obras exteriores, reflitam bem que trariam muito mais proveito à Igreja e seriam muito mais agradáveis a Deus, mesmo abstraindo do bom exemplo que dariam, se gastassem ao menos metade desse tempo em estar com Deus em oração» (Cântico 29).
+Erro fundamental derivado de falta de fé e de humildade, erro que explica a esterilidade de tantas obras. «Aqueles que são muito ativos — admoesta São João da Cruz — e pensam abraçar todo o mundo com suas pregações e obras exteriores, reflitam bem que trariam muito mais proveito à Igreja e seriam muito mais agradáveis a Deus, mesmo abstraindo do bom exemplo que dariam, se gastassem ao menos metade desse tempo em estar com Deus em oração» (C. 29, 3).
 
 ### Colóquio
 

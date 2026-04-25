@@ -28,3 +28,5 @@ Mas foi só por um instante, e logo quiseste voltar ao escondimento da tua humil
 
 Ó meu dulcíssimo Senhor, faze que eu possa ao menos um pouco imitar a tua infinita humildade; Tu que, Criador, obedeceste às tuas criaturas, ensina-me a curvar a minha cabeça soberba e a obedecer de boa vontade aos meus superiores. Tu que te abaixaste do céu à terra, dá-me a graça de abaixar-me, de descer de uma vez do pedestal do meu orgulho. Como posso suportar ver-te, meu Deus e Criador, fazer-te tão pequeno e humilde, quando eu, nada e pecado, sirvo-me do que recebi de ti para elevar-me acima dos outros, para antepor-me e preferir-me até mesmo àquele que me é superior?
 
+\* Mover esta meditação conforme o calendário do ano.
+

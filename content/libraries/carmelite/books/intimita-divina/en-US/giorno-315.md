@@ -18,7 +18,7 @@ Under impulse of this gift, Francis of Assisi suddenly abandons joyful companion
 
 So much renunciation, stripping, and nakedness terrify poor human nature. But soul enlightened by Holy Spirit understands: nothing of all this, because "all things are vanity, except to love God and serve Him alone" (Imitation I, 1, 4). As gift of knowledge develops in it, soul understands and tastes the nothingness of things and lets itself perceive God's all. It feels need to escape from creatures in order to immerse itself in Him. This is first step toward contemplation.
 
-"All created beings, compared with infinite Being of God, are nothing" (St. John of the Cross). Nothing are marvels of creation, nothing most splendid works of human genius, nothing science of learned men. God alone is worth and gives worth to all things, either because they are work of his hands or works done by man for his glory.
+"All created beings, compared with infinite Being of God, are nothing" (G.C. S. I, 4, 4). Nothing are marvels of creation, nothing most splendid works of human genius, nothing science of learned men. God alone is worth and gives worth to all things, either because they are work of his hands or works done by man for his glory.
 
 Before our most beautiful enterprises, before all our agitation over earthly things, the Holy Spirit recalls Jesus' words: "What does it profit a man if he gain whole world and lose himself?" (Lk. 9:25), and the others: "You are troubled and busy about many things. But one thing is necessary" (Lk. 10:41-42). Thus He makes us understand essential is adhesion to God, while all rest is accessory and very often vain.
 

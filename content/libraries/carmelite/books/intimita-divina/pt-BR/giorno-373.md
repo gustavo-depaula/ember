@@ -40,7 +40,7 @@ que não poupam fadigas e sacrifícios para dar-se inteiramente a Deus.
 ### Colóquio
 
 «Ó Senhor, quão grande é a graça que Vós fazeis à alma quando a unis a Vós numa maior
-intimidade! Como é exquísito o Vosso banquete! Como é delicioso o vinho que me dais! Uma
+intimidade! Como é primoroso o Vosso banquete! Como é delicioso o vinho que me dais! Uma
 só gota me faz esquecer toda coisa, sair das criaturas e de mim mesma, rejeitar os
 prazeres e as satisfações que até agora a minha sensualidade reclamou. Esta graça é
 assaz grande e eu sou indigno dela.
@@ -60,6 +60,6 @@ desejam.
 
 «Oh, quão me será doce a Vossa presença, a presença de Vós que sois o Sumo Bem!
 Aproximar-me-ei de Vós em silêncio, para que Vos digneis de unir-me a Vós com vínculo
-nupcial: não serei contente enquanto não me for dado de gozar entre os Vossos braços. E
+nupcial: não serei contente enquanto não me for dado gozar entre os Vossos braços. E
 agora Vos rogo, ó Senhor, não me abandoneis jamais no meu recolhimento, porque eu
 dissiparia a minha alma» (G.C. *AM.* I, 2; II, 45).

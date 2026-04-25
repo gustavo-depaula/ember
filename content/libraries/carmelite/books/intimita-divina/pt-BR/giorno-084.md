@@ -1,7 +1,7 @@
 ## 8 — A SEMENTE DIVINA
 *domingo da Sexagésima*
 
-**Presença de Deus.** — *— Ó Senhor, eis-me diante de ti: que meu coração seja a boa terra pronta a acolher e a fazer frutificar tua palavra.*
+**Presença de Deus.** — *Ó Senhor, eis-me diante de ti: que meu coração seja a boa terra pronta a acolher e a fazer frutificar tua palavra.*
 
 ### Meditação
 
@@ -42,4 +42,4 @@ Agora compreendo: não me falta nem tua luz, nem tua força; o que me falta é p
 
 Ó Jesus, que sustentaste com paciência invencível tua acerbíssima Paixão e Morte, dá-me paciência para sustentar a luta contra minhas paixões, contra meu egoísmo. Paciência para abraçar com perseverança todas as renúncias requeridas pelo desapego total; paciência para saber viver sem gostos e sem satisfações pessoais; paciência para sofrer tudo aquilo que me desagrada, me fere, me contraria no amor-próprio.
 
-Tu o sabes, ó Senhor: temo a obra de purificação porque desejo a união contigo, mas não poderás purificar-me inteiramente se eu não souber aceitar com humildade tua obra: as provas, as humilhações, os desapegos que me preparas. Ó Jesus, divino Paciente, dá-me tua paciência, faze que contigo eu também seja humilde e paciente.
+Tu o sabes, ó Senhor: desejo a purificação total porque desejo a união contigo, mas não poderás purificar-me inteiramente se eu não souber aceitar com humildade tua obra: as provas, as humilhações, os desapegos que me preparas. Ó Jesus, divino Paciente, dá-me tua paciência, faze que contigo eu também seja humilde e paciente.

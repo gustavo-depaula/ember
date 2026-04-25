@@ -1,6 +1,6 @@
 ## XVIII — O PODER DA FÉ
 
-**Presença de Deus.** — *«Eu creio, Senhor; ajuda a minha incredulidade.»*
+**Presença de Deus.** — *«Eu creio, Senhor; ajuda a minha incredulidade, aumenta a minha fé»* *(Mc.* 9, 23; cfr. *Lc.* 17, 5).
 
 ### Meditação
 

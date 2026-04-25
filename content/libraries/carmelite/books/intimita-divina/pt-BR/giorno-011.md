@@ -20,6 +20,8 @@ Vivemos demasiado por fora; demasiadas vezes há em nós todo um mundo de tendê
 
 É preciso, portanto, sair de si mesmo e de todas as coisas, esquecer-se de si mesmo e de todas as coisas, evadir-se do mundo exterior, da vida superficial, para "esconder-se" com Deus "escondido".
 
+\* Cf. Pe. Gabriele de S. M. Madalena: A União com Deus segundo S. João da Cruz, ed. do Carmelo S. José - Roma.
+
 ### Colóquio
 
 "Ó meu Deus, bem me fazes compreender que eu mesmo sou a morada em que Tu habitas, o esconderijo onde te ocultas. Vamos, pois, alegra-te, alma minha, sabendo que todo o teu bem, objeto da tua esperança, te está tão perto que habita em ti e tu não podes estar sem ele. Que mais quero eu e que vou buscando fora de mim, ó meu Senhor e meu Deus, quando Tu te dignaste pôr o teu reino, a tua morada, na própria alma minha? Aqui, portanto, no íntimo santuário do meu coração, quero amar-te; aqui desejar-te, aqui adorar-te; não, não irei mais buscar-te fora de mim" (cf. J.C. C. 1, 7 e 8).

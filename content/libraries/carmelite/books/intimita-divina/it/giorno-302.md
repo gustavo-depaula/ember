@@ -1,6 +1,6 @@
 ## X — LA TEMPERANZA
 
-**Presenza di Dio.** — Insegnami, o Signore, a mortificare la mia carne per vivere in pieno la vita dello spirito.
+**Presenza di Dio.** — *Insegnami, o Signore, a mortificare la mia carne per vivere in pieno la vita dello spirito.*
 
 ### Meditazione
 

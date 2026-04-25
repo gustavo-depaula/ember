@@ -36,4 +36,4 @@ As work of personal sanctification, so also work of sanctification of others —
 
 "How sweet, O Jesus, to help You by our little sacrifices to save souls redeemed by your Blood, who, not to fall into abyss, await only our help.
 
-"How happy I would be if at point of death I could have one soul to offer You! There would be one soul snatched from fire of hell and blessing You for all eternity" (St. Therese of the Child Jesus).
+"How happy I would be if at point of death I could have one soul to offer You! There would be one soul snatched from fire of hell and blessing You for all eternity" (T.B.G. St. 5; Lt. 184, 171, 23).

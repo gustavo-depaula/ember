@@ -23,6 +23,6 @@ A grande pureza de intenção faz com que todas as suas palavras e ações sejam
 
 «No meio das vicissitudes da vida, dos imprevistos, ensina-me a ir reta para onde tua vontade me chama, sem curiosidade nem distrações. Ensina-me a trilhar a via reta do amor que não conhece demoras, da simplicidade que não conhece desvios, da verdade que não conhece artifícios, da obediência que não conhece réplicas, da pureza que não conhece fascínio das criaturas, do recolhimento que não conhece distrações.
 
-«Esta é a via que te agrada, ó Jesus, que quiseste chamar-te via retíssima: ego sum via rectissima. Esta é a via que conduz ao Pai, pois tu disseste: “ninguém vai ao Pai senão por mim”. Esta é a via pela qual nos guia o Espírito Santo, já que a Sabedoria “conduz o justo por vias retas”.
+«Esta é a via que te agrada, ó Jesus, que quiseste chamar-te via retíssima: *ego sum via rectissima*. Esta é a via que conduz ao Pai, pois tu disseste: “ninguém vai ao Pai senão por mim”. Esta é a via pela qual nos guia o Espírito Santo, já que a Sabedoria “conduz o justo por vias retas”.
 
 «Por isso, ó Deus, peço-te com fervor e desejo cheio de confiança: cria em mim um coração puro e renova em mim o teu espírito. Teu bom Espírito me conduza pelo caminho reto!» (Irmã Carmela do Espírito Santo).

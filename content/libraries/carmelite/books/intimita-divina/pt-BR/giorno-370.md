@@ -18,10 +18,10 @@ Mas se, com o auxílio divino, conseguimos fazer algum progresso, outros e maior
 
 ### Colóquio
 
-"Dignai-Vos, ó Senhor, de dar-me o verdadeiro amor, pelo menos antes de morrer. Será para mim um grande conforto pensar, no momento da morte, de dever ser julgada por AquEle que amei sobre toda coisa. Vir-Vos-ei, então, diante com confiança, também com o carregamento dos meus débitos, persuadida de ir não já a uma terra estrangeira, mas à minha pátria, ao reino vosso, ó Senhor, que tanto amo e que tanto me amais.
+"Dignai-Vos, ó Senhor, de dar-me o verdadeiro amor, pelo menos antes de morrer. Será para mim um grande conforto pensar, no momento da morte, de dever ser julgada por AquEle que amei sobre todas as coisas. Vir-Vos-ei, então, diante com confiança, também com o fardo dos meus débitos, persuadida de ir não já a uma terra estrangeira, mas à minha pátria, ao reino vosso, ó Senhor, que tanto amo e que tanto me amais.
 
 "Como será doce, ó meu Deus, a morte de quem tiver feito penitência dos seus pecados e não tiver de ir ao purgatório! Começará já daqui a gozar a glória do céu, sem temor na alma e em paz perfeita" (T.G. *Cam.* 40, 8 e 9).
 
-"A Vós, Senhor Deus nosso, nós devemos sempre aderir, a fim de pelo vosso contínuo auxílio, possamos viver santamente, piamente e retamente. Do peso da nossa fraqueza somos atraídos para baixo; mas pela vossa graça somos acesos e nos levantamos ao alto, nos inflamamos e do profundo ascendemos, dispondo ascensões no nosso coração; assim cantamos o cântico da elevação, e ardem os do vosso santo fogo, e caminhamos para Vós.
+"A Vós, Senhor Deus nosso, nós devemos sempre aderir, a fim de pelo vosso contínuo auxílio, possamos viver santamente, piamente e retamente. Do peso da nossa fraqueza somos atraídos para baixo; mas pela vossa graça somos acesos e nos levantamos ao alto, nos inflamamos e do profundo ascendemos, dispondo ascensões no nosso coração; assim cantamos o cântico da elevação, e ardamos do vosso santo fogo, e caminhamos para Vós.
 
 "Para onde vamos? Ao alto, à paz da celeste Jerusalém, como está escrito: 'Alegr ei-me com o que me foi dito: iremos à casa do Senhor'. Aí nos colocará a vontade boa, para que nada mais queiramos, senão ali permanecer para sempre. Enquanto vivemos no corpo mortal, peregrinando para Vós, ó Senhor; não temos aqui cidade permanente, mas buscamos a cidade futura, pois o nosso domicílio está no céu. Por isto, com o auxílio da vossa graça, entro no segredo do meu coração e a Vós elevo cantos de amor; a Vós, meu Rei e meu Deus!" (Santo Agostinho).

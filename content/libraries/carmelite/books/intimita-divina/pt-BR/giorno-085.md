@@ -68,7 +68,7 @@ o desejo delas, que nela permanece"
 
 ### Colóquio
 
-Ó benigníssimo Senhor Jesus Cristo, riquíssimo em misericórdia, nada há de mais perigoso neste mundo do que estar aceso de desejos, pois o amor das riquezas é fome insaciável,
+Ó benigníssimo Senhor Jesus Cristo, riquíssimo em amor, nada há de mais perigoso neste mundo do que estar aceso de desejos, pois o amor das riquezas é fome insaciável,
 a qual muito mais tortura a alma com o ardor do desejo
 do que lhe causa refrigério quando se alcança aquilo
 que se desejou.

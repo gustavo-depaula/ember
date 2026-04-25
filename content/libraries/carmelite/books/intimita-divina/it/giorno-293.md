@@ -1,6 +1,6 @@
 ## I — IL CORAGGIO
 
-**Presenza di Dio.** — O Signore, fammi diventare un soldato forte e coraggioso nel tuo servizio.
+**Presenza di Dio.** — *O Signore, fammi diventare un soldato forte e coraggioso nel tuo servizio.*
 
 ### Meditazione
 

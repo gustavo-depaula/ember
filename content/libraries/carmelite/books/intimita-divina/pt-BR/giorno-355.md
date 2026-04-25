@@ -24,6 +24,6 @@ Caminha em fé, em esperança, em amor e avançarás na noite do espírito sem t
 
 Jesus, Senhor meu, assiste-me em cada lugar e circunstância; minha consolação seja privar-me espontaneamente de todas as glórias terrenas; e caso me faltasse o conforto divino, seja minha consolação suprema tua vontade e a justa prova a que Tu me submetes, pois Tu não quererás ser assinalado com teu servo, nem ameaçar-me em perpétuo.
 
-Ó Senhor, contanto que minha vontade se conserve sempre reta e firmemente unida a ti, faze de me como melhor te apraz, pois aquilo que fazes por me, não pode ser senão ótimo. Se Tu queres que eu viva nas trevas, sê bendito; se me queres na luz, sê pur bendito; se ao contrário queres que eu sofra, sê igualmente bendito em eterno.
+Ó Senhor, contanto que minha vontade se conserve sempre reta e firmemente unida a ti, faze de mim como melhor te apraz, pois aquilo que fazes por mim, não pode ser senão ótimo. Se Tu queres que eu viva nas trevas, sê bendito; se me queres na luz, sê também bendito; se ao contrário queres que eu sofra, sê igualmente bendito em eterno.
 
 Senhor, eu estou disposto a tolerar de boa vontade por amor teu tudo aquilo que te agradará dispor; de tua mão quero receber com o mesmo ânimo o mal e o bem; não terei mais temor da morte, nem do inferno. Contanto que Tu não me afastes de ti para sempre, não me pode causar dano qualquer adversidade que seja para acontecer-me» (Imit. III, 19, 5; 16, 2; 17, 2 e 4).

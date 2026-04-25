@@ -14,7 +14,7 @@ Let us be convinced that before making us taste God and his divine union, divine
 
 Let us therefore be disposed to undergo courageously this indispensable purification. Better still, let us try to anticipate it ourselves by cutting without pity all threads still binding us to earth, and above all those binding us to self-love and pride.
 
-"O humility, humility!..." exclaims Teresa of Jesus. "Fault of those who do not advance [in spiritual ways] lies all here," in lack of humility, "because humility is foundation of building, and Lord will never raise it very high unless this virtue is truly well established" (Interior Castle).
+"O humility, humility!..." exclaims Teresa of Jesus. "Fault of those who do not advance [in spiritual ways] lies all here," in lack of humility, "because humility is foundation of building, and Lord will never raise it very high unless this virtue is truly well established" (M. III, 1, 7; 2, 8; VII, 4, 8).
 
 **2** — To generosity, detachment, and humility let us join fervent prayer to invoke work of Holy Spirit. Let us raise our supplications with very words of hymn:
 
@@ -46,4 +46,4 @@ Full balance and perfect peace are characteristics of life of union with God. Ho
 
 "Source of living water springing up unto eternal life, irrigate and water my soul thirsting for justice. Sacred fire, purify me; grant that I burn with your flames and that they never be extinguished in me. Ineffable light, enlighten me; perfect holiness, consecrate me; Spirit of truth, without You I am in error; Spirit of love, without You I am ice; Spirit of unction, without You I am dryness; Spirit of life and giver of life, without You I am in death.
 
-"O divine Spirit, make sweet violence to my heart to engage it to desire You, seek You, obey You, love You, and possess You in time and eternity. Amen" (Fr. Aurillon).
+"O divine Spirit, make sweet violence to my heart to engage it to desire You, seek You, love You, and possess You in time and eternity. Amen" (Fr. Aurillon).

@@ -53,7 +53,7 @@ em que paramos? Que coisa nos pode distrair de buscar este Senhor, como a esposa
 ruas e pelas praças?» *(M.* VI, 4, 10).
 
 O Senhor quer comunicar-Se à tua alma, quer dar-Se totalmente a ti, quer vir viver
-contigo: «Se alguém ouvir a Minha voz e abrir a porta, entrarei ele e cearei com ele e
+contigo: «Se alguém ouvir a Minha voz e abrir a porta, entrarei nele e cearei com ele e
 ele Comigo» *(Ap.* 3, 20). Oh, que não percas este dom imenso por tua culpa, por tua
 negligência!
 

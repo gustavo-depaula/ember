@@ -24,10 +24,4 @@ Jesus rejoiced over this and said: "I praise You, O Father, Lord of heaven and e
 
 "Grant, Lord, that Your words may never be erased from my mind" (T.G. Es. 8, 1 and 2; 13, 2).
 
-Do not permit, O Jesus, that I let myself be drawn by maxims, by doctrines that do not come from You.
-
 What will it profit me to know all sciences if I do not know You and the truths You came to teach us? Grant, O Jesus, that I may not be content with superficial knowledge, but give me the light and understanding needed to penetrate the profound meaning of Your teachings. More than by reasoning and subtle investigations, Your word is understood through humility, love, and a living desire for You. Create in me, O Lord, an upright, humble, sincere heart, capable of loving and penetrating Your divine words.
-
-Behold, my sweet Master, I place my soul before You, as one exposes a cloth to the rays of the sun; kneeling before the Tabernacle, in prayer and silence, You will instruct me far more than through so many learned books. But Your book, O Lord, Your Gospel, I never want to leave; "from it I draw all that is necessary for my poor soul; in it I always discover new lights, mysterious and hidden meanings" (T.B.G. St. 8).
-
-Give me, O Lord, understanding of Your Gospel, of Your word, and I shall be wise enough!

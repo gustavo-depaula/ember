@@ -23,4 +23,4 @@ O pusilânime, que em semelhantes ocasiões recua com a desculpa de não se sent
 
 «Ó meu Deus, que faz uma alma senão consumir-se por ti? E quanto estou longe, quanto — sim, posso repeti-lo mil vezes — quanto estou longe de fazer isso! Quantas imperfeições em mim! Quanta tibieza em teu serviço! Muitas vezes, para não sentir tantas misérias, eu gostaria de ficar sem sentimento. Remedia tu, que o podes! Infunde em meu coração grande confiança e aumenta meus desejos para que, se eu me aplicar com boa vontade e confiar muito em teu auxílio, possa também eu, pouco a pouco, senão logo, chegar onde chegaram muitos santos.
 
-«Como é verdade, ó Senhor, que em ti tudo se pode, e como compreendo bem que de mim nada posso! Por isso te suplico com Santo Agostinho: “Dá-me, Senhor, o que ordenas e ordena o que quiseres”» (Santa Teresa de Jesus: Poesia 3, 4; Caminho 21, 9; 20, 2; Vida 39, 6; 13, 23).
+«Como é verdade, ó Senhor, que em ti tudo se pode, e como compreendo bem que de mim nada posso! Por isso te suplico com Santo Agostinho: “Dá-me, Senhor, o que ordenas e ordena o que quiseres”» (Santa Teresa de Jesus: Poesia 3, 4; Caminho 21, 9; 20, 2; Vida 39, 6; 13, 2-3).

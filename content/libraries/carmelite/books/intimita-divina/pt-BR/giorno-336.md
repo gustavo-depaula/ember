@@ -1,6 +1,6 @@
 ## 14 — A FORMAÇÃO DOS APÓSTOLOS
 
-**Presença de Deus.** — *Aceita, Senhor, minha pobre oração pelo advento do teu reino.*
+**Presença de Deus.** — *Jesus, Mestre divino, digna-te receber-me em tua escola, para que sob tua guia eu possa preparar-me para o apostolado.*
 
 ### Meditação
 

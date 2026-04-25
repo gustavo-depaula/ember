@@ -12,7 +12,7 @@ Therefore, before introducing soul into penetration of his mysteries, God subjec
 
 If God makes us pass through these trials, let us not draw back, let us not flee his action, but cooperate with it, fully persuaded He reserves fullness of his gifts and light only for souls pure from every shadow of creature, only for hearts wholly belonging to Him. In this sense one may truly say vision of God is reward promised to pure of heart.
 
-Indeed, when heart keeps some attachment, however slight, to creatures, intellect remains clouded and "has no capacity to receive light of God's wisdom, just as darkened air has none to receive that of the sun ... Oh," exclaims St. John of the Cross, "if men knew how much divine light's good is taken from them by blindness caused by their affections and desires!" (Ascent I, 8).
+Indeed, when heart keeps some attachment, however slight, to creatures, intellect remains clouded and "has no capacity to receive light of God's wisdom, just as darkened air has none to receive that of the sun ... Oh," exclaims St. John of the Cross, "if men knew how much divine light's good is taken from them by blindness caused by their affections and desires!" (Ascent I, 8, 2 and 6).
 
 Instead, when heart is pure, then intellect, like clear glass, can be wholly penetrated by light of Holy Spirit.
 

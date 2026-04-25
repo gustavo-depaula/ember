@@ -1,6 +1,6 @@
 ## 11 — O ESPÍRITO DE POBREZA
 
-**Presença de Deus.** — *— Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.*
+**Presença de Deus.** — *Ó Jesus, contemplo-te no monte enquanto instruis as turbas sobre o espírito de pobreza. Aproximo-me também eu, desejoso de compreender mais a fundo o espírito de pobreza.*
 
 ### Meditação
 
@@ -77,7 +77,7 @@ Em todo estado de vida e no exercício de qualquer profissão, o principal cuida
 de servir a Deus, de tender a Ele; todo o resto é secundário.
 S. Teresa de Jesus dizia às suas filhas: "Tendo renunciado a ter rendas, renunciai também a qualquer preocupação
 com o necessário para a vida, do contrário tudo estaria perdido... Não faltemos a Deus e o necessário
-nunca nos faltará" (Cart. 2, 1 etc.).
+nunca nos faltará" (Cam. 2, 1 etc.).
 
 ### Colóquio
 
@@ -88,7 +88,7 @@ amar com todo o coração o tesouro da santa pobreza,
 o qual é tão nobre que tem por servo a ti, sumo Deus"
 (cf. S. Francisco).
 
-. Ó Senhor, cura-me, eu te peço, das minhas excessivas
+Ó Senhor, cura-me, eu te peço, das minhas excessivas
 inquietações pelas necessidades da vida. No silêncio do
 meu coração parece-me ouvir ressoar tua doce repreensão:
 "São os gentios que buscam tudo isso, enquanto o vosso

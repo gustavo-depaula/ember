@@ -29,4 +29,4 @@ A paciência cristã não inclui, portanto, apenas uma atitude passiva diante da
 
 «Ó Cristo crucificado, tu me bastas; contigo quero sofrer e descansar! Faze que, crucificado interior e exteriormente contigo, eu possa viver na plenitude e satisfação da minha alma, porém na paciência.
 
-«Ensina-me a estimar muito os sofrimentos e a considerá-los bem pouca coisa para entrar em tuas graças, ó Senhor, que não hesitaste em morrer por mim. Ó meu Amado, toda coisa áspera e pesada eu a quero para mim; tudo o que é suave e delicioso para ti!» (São João da Cruz, adaptado).
+«Ensina-me a estimar muito os sofrimentos e a considerá-los bem pouca coisa para entrar em tuas graças, ó Senhor, que não hesitaste em morrer por mim. Ó meu Amado, toda coisa áspera e pesada eu a quero para mim; tudo o que é suave e delicioso para ti!» (G.C. PA. 13, 8, 15, 52).

@@ -38,7 +38,7 @@ Precisely in this sense St. Peter, speaking to faithful, did not hesitate to say
 
 "To please You better, my God, I want to forget myself for others, ready even to die if needed, as many martyrs did.
 
-"I believe one of greatest consolations of this life is to see souls profit through our means. Happy, Lord, those to whom You grant this grace!" (St. Teresa of Jesus).
+"I believe one of greatest consolations of this life is to see souls profit through our means. Happy, Lord, those to whom You grant this grace!" (T.G. P. 7, 5 and 6).
 
 "My God, fortunate one who has tasted how sweet it is to labor for salvation of souls! He then fears neither cold nor heat, neither hunger nor thirst, neither displeasures nor affronts, nor even death.
 

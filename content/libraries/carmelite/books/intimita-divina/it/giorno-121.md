@@ -1,6 +1,6 @@
 ## 45 — VIENI E SEGUIMI
 
-**Presenza di Dio.** — O Gesù, che per noi ti sei fatto obbediente fino alla morte di croce, insegnami a seguire il tuo esempio.
+**Presenza di Dio.** — *O Gesù, che per noi ti sei fatto obbediente fino alla morte di croce, insegnami a seguire il tuo esempio.*
 
 ### Meditazione
 

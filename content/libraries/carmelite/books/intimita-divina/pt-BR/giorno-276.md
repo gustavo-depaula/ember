@@ -1,4 +1,7 @@
 ## XV — A ASSUNÇÃO DE MARIA
+
+*15 de agosto*
+
 **Presença de Deus.** — *Ó Maria Santíssima assunta ao céu, suplico-te que purifiques os meus sentidos, para que eu aprenda a saborear Deus já aqui embaixo.*
 
 ### Meditação

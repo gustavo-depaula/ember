@@ -1,6 +1,6 @@
 ## 14 — THE FORMATION OF APOSTLES
 
-**Presence of God.** — *Accept, Lord, my poor prayer for the coming of your kingdom.*
+**Presence of God.** — *Jesus, divine Master, deign to receive me in Your school, so that under Your guidance I may prepare myself for the apostolate.*
 
 ### Meditation
 

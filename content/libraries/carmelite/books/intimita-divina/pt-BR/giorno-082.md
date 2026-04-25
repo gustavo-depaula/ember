@@ -1,6 +1,6 @@
 ## 6 — REGRAS DE DESPOJAMENTO
 
-**Presença de Deus.** — *— Ó Senhor, minha cegueira e minha fraqueza ainda precisam da tua luz e da tua força para empreender com generosidade a via do nada.*
+**Presença de Deus.** — *Ó Senhor, minha cegueira e minha fraqueza ainda precisam da tua luz e da tua força para empreender com generosidade a via do nada.*
 
 ### Meditação
 

@@ -1,5 +1,7 @@
 ## XIX — Doce hóspede da alma
 
+*Tríduo de Pentecostes*
+
 **Presença de Deus.** — *Ó Espírito Santo, que te dignas habitar em mim, ajuda-me a abrir-me totalmente à tua ação.*
 
 ### Meditação

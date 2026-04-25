@@ -4,7 +4,7 @@
 
 ### Meditação
 
-**1** — A vida da alma chegada à união total pode definir-se como um único, contínuo, intensíssimo exercício de amor mediante o qual se doa sem pausa ao seu Deus. Todas as suas potências, não só purificadas, mas também perfeitamente harmonizadas, empregam-se emporfia no serviço divino: «o intelecto, aplicando-se a conhecer as coisas que são de maior glória de Deus, para cumpri-las; a vontade, amando tudo o que a Deus agrada e volvendo o afeto a Ele em cada coisa; a memória, tendo solícito pensamento do que pertence ao divino serviço e torna mais gradado ao Senhor». (G.C.C. 28, 3). Não só, mas também a parte sensível, a do corpo com todos os seus sentidos toma parte neste magnífico concerto de amor de modo que a alma pode deveras dizer que todo o seu «capital» — isto é, todas as suas potências espirituais e sensíveis — está completamente empregado no exercício do santo amor. «Com efeito — explica o Doutor místico — [ela] trata o corpo segundo Deus, dirigindo a Ele as operações dos sentidos internos e externos. Além disso as quatro paixões da alma [isto é, o gozo, a esperança, o temor e a dor] são reguladas segundo Deus; porque ela não goza senão de Deus, nem espera senão em Deus, nem teme senão a Deus, nem se dói senão segundo Deus; enfim todos os seus apetites e solicitações tendem a Ele só» (ibid., 4).
+**1** — A vida da alma chegada à união total pode definir-se como um único, contínuo, intensíssimo exercício de amor mediante o qual se doa sem pausa ao seu Deus. Todas as suas potências, não só purificadas, mas também perfeitamente harmonizadas, empregam-se emporfia no serviço divino: «o intelecto, aplicando-se a conhecer as coisas que são de maior glória de Deus, para cumpri-las; a vontade, amando tudo o que a Deus agrada e volvendo o afeto a Ele em cada coisa; a memória, tendo solícito pensamento do que pertence ao divino serviço e torna mais agradável ao Senhor». (G.C.C. 28, 3). Não só, mas também a parte sensível, a do corpo com todos os seus sentidos toma parte neste magnífico concerto de amor de modo que a alma pode deveras dizer que todo o seu «capital» — isto é, todas as suas potências espirituais e sensíveis — está completamente empregado no exercício do santo amor. «Com efeito — explica o Doutor místico — [ela] trata o corpo segundo Deus, dirigindo a Ele as operações dos sentidos internos e externos. Além disso as quatro paixões da alma [isto é, o gozo, a esperança, o temor e a dor] são reguladas segundo Deus; porque ela não goza senão de Deus, nem espera senão em Deus, nem teme senão a Deus, nem se dói senão segundo Deus; enfim todos os seus apetites e solicitações tendem a Ele só» (ibid., 4).
 
 A chama amorosa da sabedoria divina se apoderou tão completamente desta alma,
 purificou-a e apaixonou-a de Deus só, que todo o seu ser e todas as suas potências não
@@ -29,7 +29,7 @@ precioso à vista de Deus e traz maior utilidade à Igreja... que não todas as 
 obras unidas juntas» *(C.* 29, 2). Não pode haver, de fato, atividade mais intensa e
 mais sublime daquela que concentra e ocupa em Deus todas as energias e as capacidades da
 criatura. É a atividade eterna dos anjos e dos santos do céu, é a atividade que, quase
-emulando-os, podem começar desde já as almas pervindas à união total com Deus. «Feliz
+emulando-os, podem começar desde já as almas chegadas à união total com Deus. «Feliz
 vida, feliz estado e fortunada a alma que a ele chega! onde tudo é e para ela substância
 de amor e gozo e deleite nupcial» (ibid., 28, 10).
 
@@ -41,7 +41,7 @@ cognição de intelecto, nem solicitações, nem apetites que não sejam voltado
 
 «Fazei que não saiba fazer outra coisa senão amar-Vos, Esposo divino. E vendo que nada
 Vós apreciais, nem de nada Vos comprazeis fora do amor, ajudai-me a aplicar-me toda no
-puro amor Vosso, porque desejo de servir-Vos perfeitamente.
+puro amor Vosso, porque desejo servir-Vos perfeitamente.
 
 «Não permitais que busque mais o meu interesse, nem vá atrás dos meus gostos e nem mesmo
 me ocupe em outras coisas ou fazendas a Vós estranhas e de Vós alienas, mas fazei que

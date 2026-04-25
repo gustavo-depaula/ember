@@ -8,7 +8,7 @@
 
 O apostolado não é, portanto, atividade pessoal, fruto mais ou menos apreciável dos próprios recursos e iniciativas; não é atividade que se possa desenvolver segundo as próprias perspectivas e muito menos com as próprias forças. Qualquer forma de apostolado é colaboração à obra única de redenção e de santificação que Deus realiza através dos séculos no mundo.
 
-Só Deus pode redimir e santificar, Ele que possui a santidade em próprio, Ele que é o criador e a fonte da graça. «Um só é o Mediador entre Deus e os homens» (1Tm. 2, 5), um só é o Redentor e o Santificador: Jesus, Verbo Encarnado; todos os outros, também os maiores santos e até a Madonna, são apóstolos só enquanto colaboram na obra de Cristo. Nós, como diz São Paulo, não fazemos senão prestar a Deus nossa atividade: «Eu plantei, Apolo regou, mas é Deus quem fez crescer; de modo que nada é o que planta, nada o que rega, mas tudo é Deus que faz crescer» (1Cor. 3, 6-7).
+Só Deus pode redimir e santificar, Ele que possui a santidade em próprio, Ele que é o criador e a fonte da graça. «Um só é o Mediador entre Deus e os homens» (1Tm. 2, 5), um só é o Redentor e o Santificador: Jesus, Verbo Encarnado; todos os outros, também os maiores santos e até Nossa Senhora, são apóstolos só enquanto colaboram na obra de Cristo. Nós, como diz São Paulo, não fazemos senão prestar a Deus nossa atividade: «Eu plantei, Apolo regou, mas é Deus quem fez crescer; de modo que nada é o que planta, nada o que rega, mas tudo é Deus que faz crescer» (1Cor. 3, 6-7).
 
 A obra do agricultor é certamente necessária para fazer frutificar o campo; no entanto, não é suficiente: é preciso a chuva e o sol, é preciso a estação propícia. De modo semelhante, dado o plano estabelecido por Deus para a salvação dos homens, a atividade do apóstolo é necessária, porém não é suficiente: só Deus pode dar o incremento. Como só Deus pode fazer brilhar o sol ou mandar a chuva para fecundar o campo material, assim só Deus pode dar a graça para fecundar o campo do apostolado.
 
@@ -36,4 +36,4 @@ Como a obra da santificação pessoal, assim também a obra da santificação al
 
 «Quanto é doce, ó Jesus, ajudar-te com nossos pequenos sacrifícios a salvar as almas por ti redimidas por meio do teu Sangue e que, para não cair no abismo, não esperam senão nosso socorro.
 
-«Como eu seria feliz se no ponto da morte pudesse ter uma alma para oferecer-te! Haveria uma alma arrancada ao fogo do inferno e que te bendiria por toda a eternidade» (Santa Teresinha do Menino Jesus).
+«Como eu seria feliz se no ponto da morte pudesse ter uma alma para oferecer-te! Haveria uma alma arrancada ao fogo do inferno e que te bendiria por toda a eternidade» (T.B.G. St. 5; Lt. 184, 171, 23).

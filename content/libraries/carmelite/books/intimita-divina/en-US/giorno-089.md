@@ -7,7 +7,7 @@
 **1** — Perfect chastity presupposes an absolute dominion
 of the spirit over matter. But this dominion is in us opposed by disordered tendencies toward sensible pleasures;
 even souls consecrated to God carry the treasure of
-chastity in "earthen vessels" (II Cor. 4, 7), that is, in the
+chastity in *vasis fictilibus* (II Cor. 4, 7), that is, in the
 fragile vessel of a body of flesh, which feels the pull toward
 
 

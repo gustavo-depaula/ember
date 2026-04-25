@@ -72,7 +72,7 @@ In every state of life and in the exercise of any profession, the principal care
 of serving God, of tending toward Him; all the rest is secondary.
 St. Teresa of Jesus said to her daughters: "Having renounced fixed incomes, renounce also any excessive concern
 for what is necessary to life, otherwise everything would be lost... Let us not fail God, and what is necessary
-will never be lacking to us" (Carz. 2, 1 etc.).
+will never be lacking to us" (Cam. 2, 1 etc.).
 
 ### Colloquy
 
@@ -83,7 +83,7 @@ love with all my heart the treasure of holy poverty,
 which is so noble that it has You, most high God, for servant"
 (cf. St. Francis).
 
-. O Lord, heal me, I beg You, from my excessive
+O Lord, heal me, I beg You, from my excessive
 anxieties for life's necessities. In the silence of
 my heart I seem to hear resounding Your gentle rebuke: "It is the Gentiles who seek all these things, while your
 
