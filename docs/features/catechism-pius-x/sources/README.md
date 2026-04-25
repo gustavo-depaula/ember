@@ -54,18 +54,6 @@ Pastoral preaching cycle. Used for ~68 of the 90 sessions.
 
 **License:** Public domain. Imprimatur 1939, Archbishop Curley of Baltimore. US copyright not renewed; widely re-hosted.
 
-### Father H.A. Rawes translation (1880) — for Two Precepts of Charity
-
-The Collins translation may not include the *Two Commandments of Charity* prologue. The Rawes 1880 translation explicitly contains both parts of Aquinas's unified work *De duobus praeceptis caritatis et decem legis praeceptis*.
-
-| URL | Status |
-|---|---|
-| https://archive.org/details/AquinasOnTheCommandments | **Primary download.** Internet Archive scan |
-
-**License:** Public domain (1880).
-
-**Use for:** ~6 sessions on Charity / Virtues (Pius X Part V). Contains Aquinas's pastoral exposition of the love of God and love of neighbor as the foundation of the law.
-
 ### Latin originals (for verification / re-translation)
 
 | URL | Notes |
@@ -123,33 +111,6 @@ Used for ~22 sessions on the Sacraments where Aquinas's pastoral preaching has n
 
 ---
 
-## Aquinas Eucharistic hymns — closing material
-
-For the Eucharist sessions specifically, used as devotional closing fragments. Not commentary — they're poetry.
-
-### Pange Lingua (incl. Tantum Ergo as final stanzas)
-- https://en.wikipedia.org/wiki/Pange_lingua_gloriosi_corporis_mysterium
-- https://en.wikisource.org/wiki/Pange_Lingua_(Aquinas)
-
-### Adoro Te Devote
-- https://en.wikipedia.org/wiki/Adoro_te_devote
-- https://en.wikisource.org/wiki/Adoro_te_devote
-
-### Lauda Sion
-- https://en.wikipedia.org/wiki/Lauda_Sion
-
-### Verbum Supernum (incl. O Salutaris Hostia as final stanzas)
-- https://en.wikipedia.org/wiki/Verbum_supernum_prodiens
-
-### Sacris Solemniis (incl. Panis Angelicus as one stanza)
-- https://en.wikipedia.org/wiki/Sacris_solemniis
-
-**License:** All public domain. Aquinas died 1274; standard English translations from 19th century are PD (Edward Caswall 1849, John Mason Neale 1854, etc.).
-
-**Brazilian Portuguese:** Multiple PD translations available (Hinário Gregoriano, Liber Usualis Português editions). Verify per hymn.
-
----
-
 ## Image corpus — PD sacred art
 
 For the 90 daily images.
@@ -194,11 +155,9 @@ For the 90 daily images.
 |---|---|
 | Pius X 1912 PT-BR — canonical text | **Decided: Montfort** |
 | Aquinas Catechetical Instructions — Collins PDF | Verified URL |
-| Aquinas Two Precepts — Rawes 1880 | Verified URL |
 | Roman Catechism — McHugh-Callan PDF | Verified URL |
 | Roman Catechism PT-BR | **Candidate found** (baixelivros, 1950 lineage) — verify translator death date |
 | Hagan Compendium — Sacraments volume | **Gating item — Sacraments volume not located on Internet Archive yet** |
-| Aquinas hymns (5) | Verified URLs |
 | PD sacred art corpus | Available, no curation yet |
 
 **Next concrete actions:**
