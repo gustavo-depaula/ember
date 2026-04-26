@@ -43,6 +43,7 @@ import {
   type ScheduleContext,
   type TimeBlock,
   toCompletedSet,
+  useCompletionDatesBySlot,
   useCompletionRange,
   useCompletionsForDate,
   useRestartNeededPractices,
@@ -128,9 +129,10 @@ export default function HomeScreen() {
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
 
+  const completionsBySlot = useCompletionDatesBySlot()
   const todaySlots = useMemo(
-    () => filterSlotsForDate(slots, selectedDate, scheduleCtx),
-    [slots, selectedDate, scheduleCtx],
+    () => filterSlotsForDate(slots, selectedDate, scheduleCtx, completionsBySlot),
+    [slots, selectedDate, scheduleCtx, completionsBySlot],
   )
   const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
@@ -171,7 +173,6 @@ export default function HomeScreen() {
           <FadeInView>
             <DiesDevotion date={now} />
           </FadeInView>
-
 
           <DayCarousel
             today={anchorDate}

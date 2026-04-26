@@ -29,6 +29,7 @@ import type { Completion, UserPractice } from '@/db/schema'
 import { getToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
+import { composeSlotKey } from '@/lib/slotKey'
 
 import { computeProgramProgress, resolveCalendarDay } from './program'
 import { parseSchedule } from './schedule'
@@ -119,6 +120,21 @@ export function useCompletionRange(startDate: string, endDate: string): Completi
       return result
     }),
   )
+}
+
+export function useCompletionDatesBySlot(): Map<string, string[]> {
+  const completions = useEventStore((s) => s.completions)
+
+  return useMemo(() => {
+    const result = new Map<string, string[]>()
+    for (const c of completions.values()) {
+      const key = composeSlotKey(c.practice_id, c.sub_id ?? 'default')
+      const existing = result.get(key)
+      if (existing) existing.push(c.date)
+      else result.set(key, [c.date])
+    }
+    return result
+  }, [completions])
 }
 
 // --- Compound reads ---

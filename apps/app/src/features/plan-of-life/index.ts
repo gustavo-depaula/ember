@@ -6,6 +6,7 @@ export {
   useArchivedPractices,
   useArchivePractice,
   useBackfillMissedDays,
+  useCompletionDatesBySlot,
   useCompletionRange,
   useCompletionsForDate,
   useCompletionsForPractice,

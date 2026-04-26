@@ -4,7 +4,7 @@ import type { SlotState } from '@/db/events'
 import type { Completion, Tier } from '@/db/schema'
 import { composeSlotKey } from '@/lib/slotKey'
 
-import { isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
+import { getPeriodBounds, isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
 
 export function toCompletedSet(completions: Completion[]): Set<string> {
   return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id ?? 'default')))
@@ -168,17 +168,34 @@ export function isSlotApplicableOnDate(
   slot: SlotState,
   date: string,
   ctx?: ScheduleContext,
+  slotCompletionDates?: ReadonlyArray<string>,
 ): boolean {
   const schedule = parseSchedule(slot.schedule)
-  return isApplicableOn(schedule, new Date(`${date}T00:00:00`), ctx)
+  const day = new Date(`${date}T00:00:00`)
+  if (!isApplicableOn(schedule, day, ctx)) return false
+
+  if (schedule.type !== 'times-per') return true
+
+  const dates = slotCompletionDates ?? []
+  if (dates.includes(date)) return true
+
+  const { start, end } = getPeriodBounds(day, schedule.period)
+  const startStr = format(start, 'yyyy-MM-dd')
+  const endStr = format(end, 'yyyy-MM-dd')
+  let inPeriod = 0
+  for (const d of dates) {
+    if (d >= startStr && d <= endStr) inPeriod++
+  }
+  return inPeriod < schedule.count
 }
 
 export function filterSlotsForDate(
   slots: SlotState[],
   date: string,
   ctx?: ScheduleContext,
+  completionsBySlot?: ReadonlyMap<string, ReadonlyArray<string>>,
 ): SlotState[] {
-  return slots.filter((s) => isSlotApplicableOnDate(s, date, ctx))
+  return slots.filter((s) => isSlotApplicableOnDate(s, date, ctx, completionsBySlot?.get(s.id)))
 }
 
 export function countByTier(slots: SlotState[]): {
