@@ -403,7 +403,7 @@ async function loadBookContentNative(
   // Read images
   const images = new Map<string, string>()
   try {
-    const imagesDir = new Dir(`${langDir}images`)
+    const imagesDir = new Dir(`${bookDirUri}images`)
     const entries = imagesDir.list()
     await Promise.all(
       entries
@@ -541,6 +541,8 @@ export function getChapterBody(content: BookContent, chapterId: string, title?: 
   let body = extractBody(html)
   for (const [path, dataUri] of content.images) {
     if (body.includes(path)) body = body.replaceAll(path, dataUri)
+    const parentPath = `../${path}`
+    if (body.includes(parentPath)) body = body.replaceAll(parentPath, dataUri)
   }
   if (title) body = `<h2 class="chapter-title">${title}</h2>${body}`
   return body
