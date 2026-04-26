@@ -1,0 +1,361 @@
+{
+  "id": "catechism-of-trent",
+  "name": {
+    "en-US": "Catechism of the Council of Trent",
+    "pt-BR": "Catecismo Romano (do Concílio de Trento)"
+  },
+  "author": {
+    "en-US": "Council of Trent (promulgated by Pope St. Pius V, 1566)",
+    "pt-BR": "Concílio de Trento (promulgado pelo Papa São Pio V, 1566)"
+  },
+  "description": {
+    "en-US": "The Roman Catechism, composed by order of the Council of Trent (1566) and promulgated by Pope St. Pius V as a doctrinal manual for parish priests. Structured in four parts: the Apostles' Creed, the Sacraments, the Decalogue, and the Lord's Prayer. Translation by John A. McHugh, O.P. and Charles J. Callan, O.P. (1923).",
+    "pt-BR": "O Catecismo Romano, redigido por decreto do Concílio de Trento (1566) e publicado pelo Papa São Pio V como manual doutrinal para os párocos. Estruturado em quatro partes: o Símbolo dos Apóstolos, os Sacramentos, o Decálogo e a Oração Dominical. Tradução de Frei Leopoldo Pires Martins, OFM (Editora Vozes, Petrópolis, 1951)."
+  },
+  "composed": 1566,
+  "languages": ["en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.catholicapologetics.info/thechurch/catechism/trentc.htm",
+      "description": "McHugh & Callan translation, first published 1923 (Joseph F. Wagner, New York). Public domain in the United States. HTML edition retrieved from CatholicApologetics.info."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://archive.org/details/catecismos-da-igreja-catolica",
+      "description": "Tradução de Frei Leopoldo Pires Martins, OFM. Editora Vozes Limitada, Petrópolis, 1951. Edição com Pórtico, Notícia Histórica, Ensaio Crítico e Anexos da edição brasileira."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface — On the Necessity of Religious Instruction",
+        "pt-BR": "Proêmio do Catecismo Romano"
+      }
+    },
+    {
+      "id": "part-i-creed",
+      "title": {
+        "en-US": "Part I — The Apostles' Creed",
+        "pt-BR": "Primeira Parte — O Símbolo dos Apóstolos"
+      },
+      "children": [
+        {
+          "id": "creed-intro",
+          "title": {
+            "en-US": "On Faith and the Creed",
+            "pt-BR": "Capítulo I — Da Fé e do Símbolo da Fé"
+          }
+        },
+        {
+          "id": "creed-01",
+          "title": {
+            "en-US": "Article I — \"I believe in God, the Father Almighty, Creator of Heaven and Earth\"",
+            "pt-BR": "Capítulo II — Primeiro Artigo: \"Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra\""
+          }
+        },
+        {
+          "id": "creed-02",
+          "title": {
+            "en-US": "Article II — \"And in Jesus Christ, His only Son, our Lord\"",
+            "pt-BR": "Capítulo III — Segundo Artigo: \"E em Jesus Cristo, seu único Filho, Nosso Senhor\""
+          }
+        },
+        {
+          "id": "creed-03",
+          "title": {
+            "en-US": "Article III — \"Who was conceived of the Holy Ghost, born of the Virgin Mary\"",
+            "pt-BR": "Capítulo IV — Terceiro Artigo: \"Que foi concebido pelo poder do Espírito Santo, nasceu da Virgem Maria\""
+          }
+        },
+        {
+          "id": "creed-04",
+          "title": {
+            "en-US": "Article IV — \"Suffered under Pontius Pilate; was crucified, dead, and buried\"",
+            "pt-BR": "Capítulo V — Quarto Artigo: \"Padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado\""
+          }
+        },
+        {
+          "id": "creed-05",
+          "title": {
+            "en-US": "Article V — \"He descended into hell; the third day He rose again from the dead\"",
+            "pt-BR": "Capítulo VI — Quinto Artigo: \"Desceu à mansão dos mortos; ressuscitou ao terceiro dia\""
+          }
+        },
+        {
+          "id": "creed-06",
+          "title": {
+            "en-US": "Article VI — \"He ascended into heaven, sitteth at the right hand of God the Father Almighty\"",
+            "pt-BR": "Capítulo VII — Sexto Artigo: \"Subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso\""
+          }
+        },
+        {
+          "id": "creed-07",
+          "title": {
+            "en-US": "Article VII — \"From thence He shall come to judge the living and the dead\"",
+            "pt-BR": "Capítulo VIII — Sétimo Artigo: \"Donde há de vir a julgar os vivos e os mortos\""
+          }
+        },
+        {
+          "id": "creed-08",
+          "title": {
+            "en-US": "Article VIII — \"I believe in the Holy Ghost\"",
+            "pt-BR": "Capítulo IX — Oitavo Artigo: \"Creio no Espírito Santo\""
+          }
+        },
+        {
+          "id": "creed-09",
+          "title": {
+            "en-US": "Article IX — \"The Holy Catholic Church, the communion of saints\"",
+            "pt-BR": "Capítulo X — Nono Artigo: \"A Santa Igreja Católica, a Comunhão dos Santos\""
+          }
+        },
+        {
+          "id": "creed-10",
+          "title": {
+            "en-US": "Article X — \"The forgiveness of sins\"",
+            "pt-BR": "Capítulo XI — Décimo Artigo: \"A remissão dos pecados\""
+          }
+        },
+        {
+          "id": "creed-11",
+          "title": {
+            "en-US": "Article XI — \"The resurrection of the body\"",
+            "pt-BR": "Capítulo XII — Undécimo Artigo: \"A ressurreição da carne\""
+          }
+        },
+        {
+          "id": "creed-12",
+          "title": {
+            "en-US": "Article XII — \"And life everlasting. Amen\"",
+            "pt-BR": "Capítulo XIII — Duodécimo Artigo: \"E a vida eterna. Amém\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-ii-sacraments",
+      "title": {
+        "en-US": "Part II — The Sacraments",
+        "pt-BR": "Segunda Parte — Os Sacramentos"
+      },
+      "children": [
+        {
+          "id": "sacraments-intro",
+          "title": {
+            "en-US": "On the Sacraments in General",
+            "pt-BR": "Capítulo I — Dos Sacramentos em geral"
+          }
+        },
+        {
+          "id": "sacrament-baptism",
+          "title": {
+            "en-US": "The Sacrament of Baptism",
+            "pt-BR": "Capítulo II — Do Batismo"
+          }
+        },
+        {
+          "id": "sacrament-confirmation",
+          "title": {
+            "en-US": "The Sacrament of Confirmation",
+            "pt-BR": "Capítulo III — Da Confirmação"
+          }
+        },
+        {
+          "id": "sacrament-eucharist",
+          "title": {
+            "en-US": "The Sacrament of the Holy Eucharist",
+            "pt-BR": "Capítulo IV — Da Eucaristia"
+          }
+        },
+        {
+          "id": "sacrament-penance",
+          "title": {
+            "en-US": "The Sacrament of Penance",
+            "pt-BR": "Capítulo V — Da Penitência"
+          }
+        },
+        {
+          "id": "sacrament-extreme-unction",
+          "title": {
+            "en-US": "The Sacrament of Extreme Unction",
+            "pt-BR": "Capítulo VI — Da Extrema-Unção"
+          }
+        },
+        {
+          "id": "sacrament-holy-orders",
+          "title": {
+            "en-US": "The Sacrament of Holy Orders",
+            "pt-BR": "Capítulo VII — Da Ordem"
+          }
+        },
+        {
+          "id": "sacrament-matrimony",
+          "title": {
+            "en-US": "The Sacrament of Matrimony",
+            "pt-BR": "Capítulo VIII — Do Matrimônio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-iii-decalogue",
+      "title": {
+        "en-US": "Part III — The Decalogue",
+        "pt-BR": "Terceira Parte — O Decálogo"
+      },
+      "children": [
+        {
+          "id": "decalogue-intro",
+          "title": {
+            "en-US": "Introduction to the Decalogue",
+            "pt-BR": "Capítulo I — Do Decálogo em geral"
+          }
+        },
+        {
+          "id": "commandment-01",
+          "title": {
+            "en-US": "First Commandment — \"Thou shalt not have strange gods before Me\"",
+            "pt-BR": "Capítulo II — Primeiro Mandamento: \"Não terás outros deuses diante de mim\""
+          }
+        },
+        {
+          "id": "commandment-02",
+          "title": {
+            "en-US": "Second Commandment — \"Thou shalt not take the name of the Lord thy God in vain\"",
+            "pt-BR": "Capítulo III — Segundo Mandamento: \"Não tomarás o nome do Senhor teu Deus em vão\""
+          }
+        },
+        {
+          "id": "commandment-03",
+          "title": {
+            "en-US": "Third Commandment — \"Remember thou keep holy the Sabbath day\"",
+            "pt-BR": "Capítulo IV — Terceiro Mandamento: \"Lembra-te de santificar o dia de Sábado\""
+          }
+        },
+        {
+          "id": "commandment-04",
+          "title": {
+            "en-US": "Fourth Commandment — \"Honour thy father and thy mother\"",
+            "pt-BR": "Capítulo V — Quarto Mandamento: \"Honra teu pai e tua mãe\""
+          }
+        },
+        {
+          "id": "commandment-05",
+          "title": {
+            "en-US": "Fifth Commandment — \"Thou shalt not kill\"",
+            "pt-BR": "Capítulo VI — Quinto Mandamento: \"Não matarás\""
+          }
+        },
+        {
+          "id": "commandment-06",
+          "title": {
+            "en-US": "Sixth Commandment — \"Thou shalt not commit adultery\"",
+            "pt-BR": "Capítulo VII — Sexto Mandamento: \"Não cometerás adultério\""
+          }
+        },
+        {
+          "id": "commandment-07",
+          "title": {
+            "en-US": "Seventh Commandment — \"Thou shalt not steal\"",
+            "pt-BR": "Capítulo VIII — Sétimo Mandamento: \"Não furtarás\""
+          }
+        },
+        {
+          "id": "commandment-08",
+          "title": {
+            "en-US": "Eighth Commandment — \"Thou shalt not bear false witness against thy neighbour\"",
+            "pt-BR": "Capítulo IX — Oitavo Mandamento: \"Não levantarás falso testemunho contra teu próximo\""
+          }
+        },
+        {
+          "id": "commandment-09-10",
+          "title": {
+            "en-US": "Ninth and Tenth Commandments — \"Thou shalt not covet thy neighbour's wife… nor anything that is his\"",
+            "pt-BR": "Capítulo X — Nono e Décimo Mandamentos: \"Não cobiçarás a mulher do teu próximo… nem coisa alguma que lhe pertença\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-iv-prayer",
+      "title": {
+        "en-US": "Part IV — The Lord's Prayer",
+        "pt-BR": "Quarta Parte — A Oração Dominical"
+      },
+      "children": [
+        {
+          "id": "prayer-intro",
+          "title": {
+            "en-US": "On Prayer",
+            "pt-BR": "Capítulos I-VIII — Da Oração em geral"
+          }
+        },
+        {
+          "id": "prayer-our-father",
+          "title": {
+            "en-US": "\"Our Father, who art in heaven\"",
+            "pt-BR": "Capítulo IX — Preâmbulo: \"Padre Nosso, que estais nos céus\""
+          }
+        },
+        {
+          "id": "petition-01",
+          "title": {
+            "en-US": "First Petition — \"Hallowed be Thy name\"",
+            "pt-BR": "Capítulo X — Primeira Petição: \"Santificado seja o Vosso Nome\""
+          }
+        },
+        {
+          "id": "petition-02",
+          "title": {
+            "en-US": "Second Petition — \"Thy kingdom come\"",
+            "pt-BR": "Capítulo XI — Segunda Petição: \"Venha a nós o Vosso Reino\""
+          }
+        },
+        {
+          "id": "petition-03",
+          "title": {
+            "en-US": "Third Petition — \"Thy will be done on earth as it is in heaven\"",
+            "pt-BR": "Capítulo XII — Terceira Petição: \"Seja feita a Vossa vontade, assim na terra como no céu\""
+          }
+        },
+        {
+          "id": "petition-04",
+          "title": {
+            "en-US": "Fourth Petition — \"Give us this day our daily bread\"",
+            "pt-BR": "Capítulo XIII — Quarta Petição: \"O pão nosso de cada dia nos dai hoje\""
+          }
+        },
+        {
+          "id": "petition-05",
+          "title": {
+            "en-US": "Fifth Petition — \"Forgive us our trespasses, as we forgive those who trespass against us\"",
+            "pt-BR": "Capítulo XIV — Quinta Petição: \"Perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores\""
+          }
+        },
+        {
+          "id": "petition-06",
+          "title": {
+            "en-US": "Sixth Petition — \"And lead us not into temptation\"",
+            "pt-BR": "Capítulo XV — Sexta Petição: \"E não nos deixeis cair em tentação\""
+          }
+        },
+        {
+          "id": "petition-07",
+          "title": {
+            "en-US": "Seventh Petition — \"But deliver us from evil\"",
+            "pt-BR": "Capítulo XVI — Sétima Petição: \"Mas livrai-nos do mal\""
+          }
+        },
+        {
+          "id": "amen",
+          "title": {
+            "en-US": "\"Amen\"",
+            "pt-BR": "Capítulo XVII — \"Amém\""
+          }
+        }
+      ]
+    }
+  ]
+}

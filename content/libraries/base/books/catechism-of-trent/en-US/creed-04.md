@@ -1,0 +1,431 @@
+# Article IV — "Suffered under Pontius Pilate; was crucified, dead, and buried"
+
+## Importance Of This Article
+
+How necessary is a knowledge of this Article, and how
+assiduous the pastor should be in stirring up in the minds of the
+faithful the frequent recollection of our Lord's Passion" we
+learn from the Apostle when he says that he knows nothing but
+Jesus Christ and him crucified.' The pastor, therefore, should
+exercise the greatest care and pains in giving a thorough
+explanation of this subject" in order that the
+faithful" being moved by the remembrance of so great a
+benefit" may give themselves entirely to the contemplation
+of the goodness and love of God towards us.
+
+## First Part of this Article: "Suffered Under Pontius Pilate, was Crucified"
+
+The first part of this Article (of the second we shall treat
+hereafter) proposes for our belief that when Pontius Pilate
+governed the province of Judea" under Tiberius Caesar"
+Christ the Lord was nailed to a cross. Having been seized"
+mocked, outraged and tortured in various forms" He was
+finally crucified.
+
+### "Suffered"
+
+It cannot be a matter of doubt that His soul" as to its
+inferior part" was sensible of these torments; for as He
+really assumed human nature" it is a necessary consequence
+that He really, and in His soul, experienced a most acute sense
+of pain. Hence these words of the Saviour: My soul is sorrowful
+even unto death.
+
+Although human nature was united to the Divine Person, He
+felt the bitterness of His Passion as acutely as if no such union
+had existed" because in the one Person of Jesus Christ were
+preserved the properties of both natures" human and divine;
+and therefore what was passible and mortal remained passible and
+mortal; while what was impassible and immortal, that is, His
+Divine Nature, continued impassible and immortal.
+
+### "Under Pontius Pilate"
+
+Since we find it here so diligently recorded that Jesus Christ
+suffered when Pontius Pilate was procurator of Judea, the pastor
+should explain the reason. By fixing the time, which we find also
+done by the Apostle Paul, so important and so necessary an event
+is rendered more easily ascertainable by all. Furthermore those
+words show that the Saviour's prediction was really verified:
+They shall deliver him to the Gentiles, to be mocked and scourged
+and crucified.
+
+### "Was Crucified"
+
+The fact that He suffered death precisely on the wood of the
+cross must also be attributed to a particular counsel of God,
+which decreed that life should return by the way whence death had
+arisen The serpent who had triumphed over our first parents by
+the wood (of a tree) was vanquished by Christ on the wood of the
+cross.
+
+Many other reasons which the Fathers have discussed in detail
+might be adduced to show that it was fit that our Redeemer should
+suffer death on the cross rather than in any other way. But, as
+the pastor will show" it is enough for the faithful to
+believe that this kind of death was chosen by the Saviour because
+it appeared better adapted and more appropriate to the redemption
+of the human race; for there certainly could be none more
+ignominious and humiliating. Not only among the Gentiles was the
+punishment of the cross held accursed and full of shame and
+infamy, but even in the Law of Moses the man is called accursed
+that hangeth on a tree.
+
+### Importance Of The History Of The Passion
+
+Furthermore, the pastor should not omit the historical part of
+this Article, which has been so carefully set forth by the holy
+Evangelists; so that the faithful may be acquainted with at least
+the principal points of this mystery, that is to say, such as
+seem more necessary to confirm the truth of our faith. For it is
+on this Article, as on their foundation, that the Christian faith
+and religion rest; and if this truth be firmly established, all
+the rest is secure. Indeed, if one thing more than another
+presents difficulty to the mind and understanding of man,
+assuredly it is the mystery of the cross, which, beyond all
+doubt, must be considered the most difficult of all; so much so
+that only with great difficulty can we grasp the fact that our
+salvation depends on the cross, and on Him who for us was nailed
+thereon. In this, however, as the Apostle teaches, we may well
+admire the wonderful Providence of God; for, seeing that in the
+wisdom of God, the world by wisdom knew not God, it pleased God
+by the foolishness of preaching, to save them that believe. It is
+no wonder, then, that the Prophets, before the coming of Christ,
+and the Apostles, after His death and Resurrection, labored so
+strenuously to convince mankind that He was the Redeemer of the
+world, and to bring them under the power and obedience of the
+Crucified.
+
+### Figures And Prophecies Of The Passion And Death Of The Saviour
+
+Since, therefore, nothing is so far above the reach of human
+reason as the mystery of the cross, the Lord immediately after
+the fall ceased not, both by figures and prophecies, to signify
+the death by which His Son was to die.
+
+To mention a few of these types. First of all, Abel, who fell
+a victim of the envy of his brother, Isaac who was commanded to
+be offered in sacrifice, the lamb immolated by the Jews on their
+departure from Egypt, and also the brazen serpent lifted up by
+Moses in the desert, were all figures of the Passion and death of
+Christ the Lord.
+
+As to the Prophets, how many there were who foretold Christ's
+Passion and death is too well known to require development here.
+Not to speak of David, whose Psalms embrace all the principal
+mysteries of Redemption, the oracles of Isaias in particular are
+so clear and graphic that he might be said rather to have
+recorded a past than predicted a future event. a
+
+## Second Part Of This Article: "Dead, And Buried"
+
+### Christ Really Died
+
+The pastor should explain that these words present for our
+belief that Jesus Christ, after He was crucified, really died and
+was buried. It is not without just reason that this is proposed
+to the faithful as a separate object of belief, since there were
+some who denied His death upon the cross. The Apostles,
+therefore, were justly of opinion that to such an error should be
+opposed the doctrine of faith contained in this Article, the
+truth of which is placed beyond the possibility of doubt by the
+united testimony of all the Evangelists, who record that Jesus
+yielded up the ghost.
+
+Moreover as Christ was true and perfect man, He of course was
+capable of dying. Now man dies when the soul is separated from
+the body. When, therefore, we say that Jesus died, we mean that
+His soul was disunited from His body. We do not admit, however,
+that the Divinity was separated from His body. On the contrary,
+we firmly believe and profess that when His soul was dissociated
+from His body, His Divinity continued always united both to His
+body in the sepulchre and to His soul in limbo. It became the Son
+of God to die, that, through death, he might destroy him who had
+the empire of death that is the devil, and might deliver them,
+who through the fear of death were all their lifetime subject to
+servitude.
+
+### Christ Died Freely
+
+It was the peculiar privilege of Christ the Lord to have died
+when He Himself decreed to die, and to have died not so much by
+external violence as by internal assent. Not only His death, but
+also its time and place, were ordained by Him. For thus Isaias
+wrote: He was offered because it was his own will. The Lord
+before His Passion, declared the same of Himself: I lay down my
+life, that I may take it again. No man taketh it away from me:
+but I lay it down of myself, and I have power to lay it down: and
+I have power to take it again. As to the time and place of His
+death, He said, when Herod insidiously sought His life: Go and
+tell that fox: Behold I cast out devils, and do cures today and
+tomorrow, and the third day I am consummated. Nevertheless I
+must walk today and tomorrow, and the day following, because it
+cannot be that a prophet perish out of Jerusalem.'' He therefore
+offered Himself not involuntarily or by compulsion but of His own
+free will. Going to meet His enemies He said: I am he; and all
+the punishments which injustice and cruelty inflicted on Him He
+endured voluntarily.
+
+### The Thought Of Christ's Death Should Excite Our Love And Gratitude
+
+When we meditate on the sufferings and all the torments of the
+Redeemer, nothing is better calculated to stir our souls than the
+thought that He endured them thus voluntarily. Were anyone to
+endure all kinds of suffering for our sake, not because he chose
+them but simply because he could not escape them, we should not
+consider this a very great favour; but were he to endure death
+freely, and for our sake only, having had it in his power to
+avoid it, this indeed would be a benefit so overwhelming as to
+deprive even the most grateful heart, not only of the power of
+returning but even of feeling due thanks. We may hence form an
+idea of the transcendent and intense love of Jesus Christ towards
+us, and of His divine and boundless claims to our gratitude.
+
+### Christ Was Really Buried
+
+When we confess that He was buried, we do not make this, as it
+were, a distinct part of the Article, as if it presented any new
+difficulty which is not implied in what we have said of His
+death; for if we believe that Christ died, we can also easily
+believe that He was buried. The word buried was added in the
+Creed, first, that His death might be rendered more certain, for
+the strongest argument of a person's death is the proof that his
+body was buried; and, secondly, to render the miracle of His
+Resurrection more authentic and illustrious.
+
+It is not, however, our belief that the body of Christ alone
+was interred. The above words propose, as the principal object of
+our belief, that God was buried; as according to the rule of
+Catholic faith we also say with the strictest truth that God
+died, and that God was born of a virgin. For as the Divinity was
+never separated from His body which was laid in the sepulchre, we
+truly confess that God was buried.
+
+### Circumstances Of Christ's Burial
+
+As to the manner and place of His burial, what the holy
+Evangelists record on these subjects will be sufficient for the
+pastor. There are, however, two things which demand particular
+attention; the one, that the body of Christ was in no degree
+corrupted in the sepulchre, according to the prediction of the
+Prophet: Thou wilt not give thy holy one to see corruption; the
+other, and it regards the several parts of this Article, that
+burial, Passion, and also death, apply to Christ Jesus not as God
+but as man. To suffer and die are incidental to human nature
+only; yet they are also attributed to God, since, as is clear,
+they are predicated with propriety of that Person who is at once
+perfect God and perfect man.
+
+## Useful Considerations on the Passion
+
+When the faithful have once attained the knowledge of these
+things, the pastor should next proceed to explain those
+particulars of the Passion and death of Christ which may enable
+them if not to comprehend, at least to contemplate, the immensity
+of so stupendous a mystery.
+
+### The Dignity Of The Sufferer
+
+And first we must consider who it is that suffers all these
+things. His dignity we cannot express in words or even conceive
+in mind. Of Him St. John says, that He is the Word which was with
+God. And the Apostle describes Him in sublime terms, saying that
+this is He whom God hath appointed heir of all things, by whom
+also he made the world, who being the brightness of his glory,
+and the figure of his substance, and upholding all things by the
+word of his power, making purgation of sins. sitteth on the right
+hand of the majesty on high. In a word, Jesus Christ, the
+Godman, suffers ! The Creator suffers for His creatures, the
+Master for His servant. He suffers by whom the Angels, men, the
+heavens, and the elements were made; in whom, by whom, and of
+whom, are all things.
+
+It cannot, therefore, be a matter of surprise that while He
+agonised under such an accumulation of torments the whole frame
+of the universe was convulsed; for as the Scriptures inform us,
+the earth quaked, and the rocks were rent, there was darkness
+over all the earth; and the sun was obscured. If, then, even mute
+and inanimate nature sympathised with the sufferings of her
+Creator, let the faithful consider with what tears they, the
+living stones of this edifice, should manifest their sorrow.
+
+### Reasons Why Christ Suffered
+
+The reasons why the Saviour suffered are also to be explained,
+that thus the greatness and intensity of the divine love towards
+us may the more fully appear. Should anyone inquire why the Son
+of God underwent His most bitter Passion, he will find that
+besides the guilt inherited from our first parents the principal
+causes were the vice's and crimes which have been perpetrated
+from the beginning of the world to the present day and those
+which will be committed to the end of time. In His Passion and
+death the Son of God, our Saviour, intended to atone for and blot
+out the sins of all ages, to offer for them to his Father a full
+and abundant satisfaction.
+
+Besides, to increase the dignity of this mystery, Christ not
+only suffered for sinners, but even for those who were the very
+authors and ministers of all the torments He endured. Of this the
+Apostle reminds us in these words addressed to the Hebrews: Think
+diligently upon him that endured such opposition from sinners
+against himself; that you be not wearied, fainting in your minds.
+In this guilt are involved all those who fall frequently into
+sin; for, as our sins consigned Christ the Lord to the death of
+the cross, most certainly those who wallow in sin and iniquity
+crucify to themselves again the Son of God, as far as in them
+lies, and make a mockery of Him. This guilt seems more enormous
+in us than in the Jews, since according to the testimony of the
+same Apostle: If they had known it, they would never have
+crucified the Lord of glory; while we, on the contrary,
+professing to know Him, yet denying Him by our actions, seem in
+some sort to lay violent hands on him.
+
+### Christ Was Delivered Over To Death By The Father And By Himself
+
+But that Christ the Lord was also delivered over to death by
+the Father and by Himself, the Scriptures bear witness. For in
+Isaias (God the Father) says For the wickedness of my people have
+I struck him. And a little before the same Prophet filled with
+the Spirit of God, cried out, as he saw the Lord covered with
+stripes and wounds: All we like sheep have gone astray, every one
+hath turned aside into his own way: and the Lord hath laid on him
+the iniquity of us all. But of the Son it is written: If he shall
+lay down his life for sin, he shall see a longlived seed. This
+the Apostle expresses in language still stronger when, in order
+to show how confidently we, on our part, should trust in the
+boundless mercy and goodness of God, he says: He that spared not
+even his own Son, but delivered him up for us all, how hath he
+not also, with him, given us all things? a
+
+### The Bitterness Of Christ's Passion
+
+The next subject of the pastor's instruction is the bitterness
+of the Redeemer's Passion. If we bear m mind that his sweat
+became as drops of blood, trickling down upon the ground, and
+this, at the sole anticipation of the torments and agony which He
+was about to endure, we must at once perceive that His sorrows
+admitted of no increase. For if the very idea of impending evils
+was overwhelming, and the sweat of blood shows that it was, what
+are we to suppose their actual endurance to have been ?
+
+That Christ our Lord suffered the most excruciating torments
+of mind and body is certain. In the first place, there was no
+part of His body that did not experience the most agonising
+torture. His hands and feet were fastened with nails to the
+cross; His head was pierced with thorns and smitten with a reed;
+His face was befouled with spittle and buffeted with blows; His
+whole body was covered with stripes.
+
+Furthermore men of all ranks and conditions were gathered
+together against the Lord, and against his Christ. Gentiles and
+Jews were the advisers, the authors, the ministers of His
+Passion: Judas betrayed Him, Peter denied Him, all the rest
+deserted Him.
+
+And while He hangs from the cross are we not at a loss which
+to deplore, His agony, or His ignominy, or both? Surely no death
+more shameful, none more cruel, could have been devised than
+this. It was the punishment usually reserved for the most guilty
+and atrocious malefactors, a death whose slowness aggravated the
+exquisite pain and torture I
+
+His agony was increased by the very constitution and frame of
+His body. Formed by the power of the Holy Ghost, it was more
+perfect and better organised than the bodies of other men can be,
+and was therefore endowed with a superior susceptibility and a
+keener sense of all the torments which it endured.
+
+And as to His interior anguish of soul, that too was no doubt
+extreme; for those among the Saints who had to endure torments
+and tortures were not without consolation from above, which
+enabled them not only to bear their sufferings patiently, but in
+many instances, to feel, in the very midst of them, filled with
+interior joy. I rejoice, says the Apostle, in my sufferings for
+you, and fill up those things that are wanting of the sufferings
+of Christ, in my flesh, for his body, which is the church;' and
+in another place: I am filled with comfort, I exceedingly abound
+with joy in all our tribulations. Christ our Lord tempered with
+no admixture of sweetness the bitter chalice of His Passion but
+permitted His human nature to feel as acutely every species of
+torment as if He were only man, and not also God.
+
+### Fruits Of Christ's Passion
+
+It only remains now that the pastor carefully explain the
+blessings and advantages which flow from the Passion of Christ.
+In the first place, then, the Passion of our Lord was our
+deliverance from sin; for, as St. John says, He hath loved us,
+and washed us from our sins in his own blood. He hath quickened
+you together with him, says the Apostle, forgiving you all
+offences, blotting out the handwriting of the decree that was
+against us, which was contrary to us. And he hath taken the same
+out of the way, fastening it to the cross.
+
+In the next place He has rescued us from the tyranny of the
+devil, for our Lord Himself says: Now is the judgment of the
+world; now shall the prance of this world be cast out. And I if I
+be lifted up from the earth, will draw all things to myself.
+
+Again He discharged the punishment due to our sins. And as no
+sacrifice more pleasing and acceptable could have been offered to
+God, He reconciled us to the Father, appeased His wrath, and made
+Him favourable to us.
+
+Finally, by taking away our sins He opened to us heaven,
+which was closed by the common sin of mankind. And this the
+Apostle pointed out when he said: We have confidence in the
+entering into the holies by the blood of Christ. Nor are we
+without a type and figure of this mystery in the Old Law. For
+those who were prohibited to return into their native country
+before the death of the highpriest typified that no one,
+however just and holy may have been his life, could gain
+admission into the celestial country until the eternal
+Highpriest, Christ Jesus, had died, and by His death
+immediately opened heaven to those who, purified by the
+Sacraments and gifted with faith, hope, and charity, become
+partakers of His Passion.
+
+### Christ's Passion — A Satisfaction, A Sacrifice, A Redemption, An Example
+
+The pastor should teach that all these inestimable and divine
+blessings flow to us from the Passion of Christ. First, indeed,
+because the satisfaction which Jesus Christ has in an admirable
+manner made to God the Father for our sins is full and complete.
+The price which He paid for our ransom was not only adequate and
+equal to our debts, but far exceeded them.
+
+Again, it (the Passion of Christ) was a sacrifice most
+acceptable to God, for when offered by His Son on the altar of
+the cross, it entirely appeased the wrath and indignation of the
+Father. This word (sacrifice) the Apostle uses when he says:
+Christ hath loved us, and hath delivered himself for us, an
+oblation and a sacrifice to God for an odour of sweetness.
+
+Furthermore, it was a redemption, of which the Prince of the
+Apostles says: You were not redeemed with corruptible things as
+gold or silver, from your vain conversation of the tradition of
+your fathers: but with the precious blood of Christ, as of a lamb
+unspotted and undefiled. While the Apostle teaches: Christ hath
+redeemed us from the curse of the law, being made a curse for us.
+
+Besides these incomparable blessings, we have also received
+another of the highest importance; namely, that in the Passion
+alone we have the most illustrious example of the exercise of
+every virtue. For He so displayed patience, humility, exalted
+charity, meekness, obedience and unshaken firmness of soul, not
+only in suffering for justice, sake, but also in meeting death,
+that we may truly say on the day of His Passion alone, our
+Saviour offered, in His own Person, a living exemplification of
+all the moral precepts inculcated during the entire time of His
+public ministry.
+
+## Admonition
+
+This exposition of the saving Passion and death of Christ the
+Lord we have given briefly. Would to God that these mysteries
+were always present to our minds, and that we learned to suffer,
+die, and be buried together with our Lord; so that from
+henceforth, having cast aside all stain of sin, and rising with
+Him to newness of life, we may at length, through His grace and
+mercy, be found worthy to be made partakers of the celestial
+kingdom and glory !

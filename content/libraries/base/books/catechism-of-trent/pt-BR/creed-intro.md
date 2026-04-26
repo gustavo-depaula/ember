@@ -1,0 +1,47 @@
+# Capítulo I — Da Fé e do Símbolo da Fé
+
+## Quanto à fé
+
+[1] Nas Divinas Escrituras, o termo "fé" admite várias significações. Aqui vamos falar daquela virtude pela qual assentimos plenamente a tudo quanto nos foi revelado por Deus.
+
+Ninguém terá justo motivo de duvidar que essa fé seja necessária para a salvação, mormente por estar escrito que "sem fé não é possível agradar a Deus".[^59]
+
+Realmente, o fim que se propõe ao homem para sua bem-aventurança, é tão elevado que o não poderia descobrir a agudeza do espírito humano. Era, pois, necessário que o homem recebesse de Deus tal conhecimento.
+
+Ora, esse conhecimento não é outra coisa senão a própria fé, cuja virtude nos leva a ter por certo o que a autoridade da Santa Madre Igreja declara ser revelado por Deus. Nenhuma dúvida podem ter os fiéis das afirmações que vêm de Deus, porque Deus é a própria verdade.[^60] Esse critério nos faz compreender a diferença que vai entre a fé que temos em Deus, e a fé que se dá aos autores de história humana.
+
+A fé tem grande extensão, e admite vários graus de grandeza e dignidade, como se depreende da Sagrada Escritura: "Homem de pouca fé, por que duvidaste?"[^61] — "Grande é a tua fé".[^62] — "Aumentai a nossa fé"[^63] — E ainda: "Fé sem obras é morta". — "A fé que opera pela caridade".[^64]
+
+Entanto, a fé é uma só virtude, e os diversos graus que possa ter entram perfeitamente na mesma definição.
+
+Quantos frutos, e quantas vantagens dela se tiram, é o que vamos ver na explicação dos Artigos.
+
+## Quanto ao Símbolo
+
+[2] Os cristãos devem saber, em primeiro lugar, as verdades que os santos Apóstolos, guias e mestres da fé, inspirados pelo Espírito de Deus, distribuíram nos doze Artigos do Símbolo.
+
+Tendo recebido do Senhor a ordem de irem como Seus embaixadores[^65], pelo mundo inteiro, a pregar o Evangelho a toda criatura[^66], os Apóstolos acharam que se devia compor uma fórmula de fé cristã. Serviria esta para que todos tivessem a mesma crença e a mesma linguagem, e não houvesse separações entre os que foram chamados à unidade da mesma fé, mas fossem todos "perfeitamente conformes no mesmo modo de pensar e de sentir".[^67]
+
+[3] A esta profissão de fé e esperança cristã, que acabavam de redigir, os Apóstolos chamaram-lhe "Símbolo", ou porque se forma das várias proposições que cada um deles apresentou[^68], ou porque devia servir de senha para identificar os desertores, os irmãos falsos e intrusos[^69] que adulteravam o Evangelho[^70], e assim distingui-los daqueles que verdadeiramente tomavam um santo compromisso na milícia de Cristo.
+
+[4] Muitas são as verdades que a religião cristã propõe aos fiéis, com a obrigação de aceitá-las numa fé inabalável, quer cada uma delas em particular, quer todas em seu conjunto.
+
+Mas a primeira verdade e a mais essencial, que todos devem acreditar, por ser propriamente a base e o resumo da Revelação, consiste naquilo que o próprio Deus nos ensinou acerca da unidade da essência divina, da distinção das três Pessoas, das operações que lhes são atribuídas de maneira mais particular. O pároco mostrará, pois, que no Símbolo se contém resumida a doutrina desse mistério.
+
+O Símbolo divide-se em três partes, como já diziam os antigos cristãos, quando se punham a explicá-lo com amor e cuidado. A primeira parte trata da Primeira Pessoa da natureza divina, e da prodigiosa obra da Criação. A segunda trata da Segunda Pessoa e do mistério da Redenção dos homens. A terceira afinal descreve, em várias fórmulas adequadas, a Terceira Pessoa, autor e princípio de nossa santificação.
+
+As proposições do Símbolo chamam-se "Artigos", de acordo com uma analogia que nossos Santos Padres usavam com frequência. Na verdade, assim como os membros do corpo se distinguem pelas articulações[^71], assim também podemos chamar Artigos às verdades que nesta profissão de fé temos de crer, distintas e separadas umas das outras.
+
+[^59]: Hebr 11, 6; DU 801 1793.
+[^60]: Io 14, 6; DU 1789 ss. 1811 2025 2081.
+[^61]: Mt 14, 31.
+[^62]: Mt 15, 28.
+[^63]: Lc 17, 5.
+[^64]: Gal 5, 6.
+[^65]: 2 Cor 5, 20.
+[^66]: Mc 16, 15.
+[^67]: 1 Cor 1, 10.
+[^68]: Alusão à lenda que cada Apóstolo teria formulado individualmente um artigo do Símbolo, antes de se espalharem pelo mundo inteiro. Cfr. S. Ambrósio nas Explicatio symboli.
+[^69]: Gal 2.
+[^70]: 2 Cor 2.
+[^71]: Em latim: articulis.
