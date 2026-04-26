@@ -58,3 +58,39 @@ X. Não cobiçarás a casa do teu próximo, nem o seu campo, nem o seu servo, ne
 > **Escritura.** *Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu espírito. Este é o maior e o primeiro mandamento. O segundo lhe é semelhante: Amarás o teu próximo como a ti mesmo.* — Mateus 22, 37-39
 
 > *Senhor, a lei é amor. Hoje, não me deixeis reduzir o amor a um sentimento. Fazei-me obedecer.*
+
+---
+
+#### Aprofundamento — *Catecismo de Trento*
+
+## I. Importância do Decálogo
+
+[1] Conforme escreveu Santo Agostinho[^1], o Decálogo é um resumo ou apanhado de todas as leis. Ainda que o Senhor falasse de muitas coisas, a Moisés entregou só duas lápides, as chamadas tábuas do futuro testemunho[^2] na Arca da Aliança.
+
+Na verdade, quem faz por compreender, reconhecerá que todas as outras determinações de Deus dependem daqueles dez preceitos gravados nas duas lápides; e que os dez Mandamentos, por sua vez, se reduzem aos dois preceitos fundamentais do amor a Deus e ao próximo, "em que se funda toda a Lei e os Profetas".[^3]
+
+### 1. ... no púlpito
+
+[2] Sendo, portanto, o Decálogo a suma de toda a Lei, cabe aos pastores a obrigação de meditá-lo dia e noite[^4], não sòmente para ajustarem sua vida por essa norma, mas também para instruírem, na Lei do Senhor, o povo que lhes está confiado. Pois "os lábios do sacerdote guardam a ciência, e de sua boca procuram os homens conhecer a Lei, porque ele é um Anjo do Senhor dos exércitos".[^5]
+
+Esta passagem se refere, de modo particular, aos pastores da Nova Lei. Eles estão mais chegados a Deus, e devem transformar-se "de claridade em claridade, como que levados pelo Espírito do Senhor".[^6] Como Cristo Nosso Senhor disse que eles eram "luz"[^7], compete-lhes a obrigação natural de serem um luzeiro[^8] para os que se acham nas trevas[^9]; de ensinarem os ignorantes, de educarem as crianças; e, "se alguém tiver o descuido de cair em algum pecado", eles, "que são homens espirituais, devem corrigi-lo".[^10]
+
+### 2. no confessionário
+
+Ao ouvirem Confissões, exercem a função de juízes, e devem pronunciar a sentença segundo o gênero e a gravidade dos pecados. Portanto, se não quiserem, por sua ignorância, prejudicar-se a si mesmos e aos outros, devem aplicar nesse ministério a maior vigilância possível, e ser muito seguros na interpretação dos Preceitos da Lei de Deus, para poderem julgar, por essa norma divina, qualquer falta por comissão ou omissão; para transmitirem "a sã doutrina", como diz o Apóstolo[^11]: quer dizer, uma doutrina que não envolva em si nenhum erro, e cure as enfermidades das almas, quais são os pecados, a fim de que o povo seja agradável a Deus, e "zeloso na prática de boas obras".[^12]
+
+Nestas explanações, o pároco proporá, a si mesmo e aos outros, os argumentos que sejam mais próprios para induzir à observância da Lei.
+
+## III. A particularidade da promulgação aos Hebreus
+
+[11] Apesar de ter sido dada pelo Senhor aos Judeus, no cimo da Montanha[^40], a Lei já estava, desde o princípio, impressa e gravada pela natureza nos corações de todos os homens.[^41] Por isso, quis Deus que todos os homens lhe estivessem sujeitos por uma obediência perpétua.
+
+Será, pois, de muito proveito não só explicar cuidadosamente os termos em que a Lei foi promulgada aos Hebreus, por ofício e interpretação de Moisés[^42], mas também contar a história do povo de Israel, que é toda cheia de mistérios.
+
+O pároco começará por contar que, de todas as nações existentes debaixo do céu, Deus só escolheu uma[^43], cujo tronco é Abraão[^44], que por ordem de Deus viveu como forasteiro na terra de Canaã. Deus lhe havia prometido a posse dessa terra, mas ele e seus descendentes tiveram de vaguear por mais de quatrocentos anos, antes de poderem habitar na terra prometida.
+
+Todavia, Deus nunca deixou de velar por eles durante essa peregrinação. Verdade é que passavam "de nação em nação, de um reino a outro reino", mas Ele nunca permitiu lhes fosse feito o menor agravo, e chegou até a castigar reis por causa deles.[^45]
+
+Antes de descerem ao Egito, enviou, por diante, um homem que, graças à sua prudência, havia de salvá-los, tanto a eles como aos Egípcios.[^46] No Egito, porém, Sua bondade os amparou de tal forma, que se multiplicavam milagrosamente, por mais que Faraó se opusesse a eles, e procurasse exterminá-los.[^47]
+
+Quando a perseguição recrudesceu, e que eles eram tratados como escravos, com a maior crueldade, suscitou como chefe a Moisés, que os livrou com mão forte. A esta libertação alude o Senhor, no início da Lei, quando diz expressamente: "Eu sou o Senhor teu Deus que te tirei da terra do Egito, da casa da servidão".[^48]

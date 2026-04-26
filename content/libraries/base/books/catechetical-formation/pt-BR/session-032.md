@@ -41,6 +41,44 @@
 
 *155 a. Os Quatro Novíssimos: 1. Morte; 2. Juízo; 3. Inferno; 4. Paraíso.*
 
+## O Catecismo Romano ensina
+
+## V. Exortação para o uso deste poder
+
+[10] Uma vez que os fiéis conheçam o valor deste amplo poder divino, devem ser [também] exortados a valer-se dele piedosamente, para a sua própria santificação.
+
+Quem não faz uso de coisa tão útil e necessária, é inegável que dá mostras de não lhe ter a devida estima. Ora, quando confiou à Igreja o poder de remitir pecados, Nosso Senhor fê-lo com a intenção toda particular de que todos [de fato] recorressem a este remédio salutar.
+
+Como ninguém pode justificar-se sem o Batismo, assim quem tiver perdido a graça batismal, por culpas mortais, e quiser recuperá-la, deve recorrer a este [segundo] meio de expiação, que é o Sacramento da Penitência.
+
+### — mas sem presunção nem temeridade
+
+Mas nesta ocasião é preciso admoestar os fiéis que, havendo tanta facilidade de perdão, sem nenhuma restrição de tempo, como já foi explicado, não se tornem mais propensos ao pecado, nem menos pressurosos para o arrependimento.
+
+No primeiro caso, seriam arguídos de manifesta afronta e profanação deste poder divino, e tornar-se-iam indignos de que Deus com eles houvesse misericórdia.
+
+No segundo caso, seria muito para temer que, apanhados pela morte, de nada lhes valesse terem professado [em vida] a remissão dos pecados, porquanto merecidamente a perderam com suas tardanças e hesitações.
+
+[^629]: Lc 24, 46-47; Is 53, 1 ss.; Io 1, 29; Act 13, 26 ss.; Mt 1, 21; Dan 9, 24.
+[^630]: Is 33, 24.
+[^631]: Io 20, 23.
+[^632]: Conc. Trid. sess. V decr. de pecc. orig. 5; sess. VI decr. de iustif. 14 (DU 807 839); Aug. de peccator. meritis I 28.
+[^633]: Mt 16, 19.
+[^634]: Mt 18, 18.
+[^635]: Ps 147, 18.
+[^636]: Io 20, 22 s.; DU 807 694 913.
+[^637]: Ezech 18, 21.
+[^638]: Mt 18, 21-22.
+[^641]: Santos Padres.
+[^642]: Is 43, 15.
+[^643]: Mt 6, 12.
+[^644]: Mt 9, 6; Mc 2, 9.
+[^645]: Io 20, 25.
+[^646]: Rom 3, 25; Eph 1, 7; Apoc 1, 5; 7, 15.
+[^647]: 1 Petr 3, 18.
+[^648]: 1 Petr 1, 18 ss.
+[^649]: Hebr 10, 26.
+
 > **Escritura.** *Por isso vos digo: todo pecado e blasfêmia será perdoado aos homens, mas a blasfêmia contra o Espírito não será perdoada.* — Mateus 12, 31
 
 > *Espírito Santo, não me deixeis endurecer contra Vós. Mantende o meu coração macio o bastante para que a misericórdia ainda entre.*

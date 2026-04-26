@@ -66,3 +66,73 @@ Embora tudo isso seja terrível de contemplar, ainda hoje há quem incida nestas
 > **Escritura.** *Ouve, ó Israel: o Senhor nosso Deus é o único Senhor.* — Deuteronômio 6, 4
 
 > *Há um só Deus. Hoje, que nada O usurpe em mim — nem a ansiedade, nem o algoritmo, nem eu mesmo.*
+
+---
+
+#### Aprofundamento — *Catecismo de Trento*
+
+## Sinopse do Artigo
+
+[1] Estas palavras querem dizer: Creio com toda a certeza, e sem nenhuma hesitação confesso a Deus Padre, a primeira Pessoa da Santíssima Trindade, que pela virtude de Sua onipotência criou do nada o próprio céu, a terra, e tudo que se contém em suas dimensões; que sustenta e governa todas as coisas criadas. E não só de coração o creio, e de boca o confesso, mas com o maior afeto e filial piedade a Ele me entrego, por ser o bem sumo e perfeito.
+
+Nestes termos se pode, brevemente, formular o sentido deste primeiro artigo. Mas como quase cada uma destas palavras envolve grandes mistérios, é obrigação do pároco explicá-las mais amplamente, para que o povo cristão, quanto o permitir a graça de Deus, aprenda a contemplar, com temor e tremor, a glória de Sua majestade.[^72]
+
+## Crer
+
+[2] Neste lugar, a palavra "Creio" não tem a significação de "pensar", "julgar", "dar opinião". Conforme a doutrina da Sagrada Escritura, significa uma adesão absolutamente certa, pela qual a inteligência aceita, com firmeza e constância, os mistérios que Deus lhe manifesta. Para se compreender melhor este ponto, [basta dizer] que só crê propriamente quem está certo de alguma verdade, sem a menor hesitação.
+
+Ninguém deve todavia julgar menos seguro o conhecimento que nos vem da fé, pelo fato de não compreendermos as verdades que ela nos propõe a crer. É certo, a luz divina que no-las faz conhecer, não nos dando a evidência das coisas, nem por isso abre margem para se duvidar de sua realidade. "Pois Deus ordenou que das trevas rompesse a luz; Ele mesmo resplandece em nossos corações"[^74], para que "o Evangelho não seja encoberto, como acontece aos que se perdem".[^75]
+
+[3] A concluirmos pelo que ficou dito, quem recebeu o celestial conhecimento da fé, já não sente o prurido de investigar só por mera curiosidade. Quando nos deu o preceito de crer, Deus não nos incumbiu de sondar os juízos divinos, nem de lhes aferir as causas e razões. Prescreveu-nos, ao contrário, uma fé inalterável, cuja ação faz a alma repousar no conhecimento da verdade.
+
+De fato, como diz o Apóstolo, "Deus é verdadeiro, e todo homem é mentiroso".[^76] Ora, quando um homem grave e sensato nos assegura a verdade, seria orgulho e insolência não lhe dar crédito, e pedir-lhe ainda por cima provas e testemunhos de sua palavra. Qual não seria então a temeridade, ou antes, a loucura daquele que, ouvindo as palavras de Deus, quisesse ainda devassar as razões da celestial doutrina da salvação?
+
+Devemos, portanto, abraçar a fé não só com exclusão de toda dúvida, mas também sem o desejo de vê-la demonstrada.[^78]
+
+[4] O pároco ensinará também o seguinte: Quem diz "Creio" exprime a íntima aquiescência da alma, que é o ato interior da fé. Deve, porém, externar em pública profissão a fé que lhe vai na alma, e manifestá-la com a maior expansão de alegria.
+
+Devem os fiéis estar possuídos daquele espírito que levou o Profeta a dizer: "Eu tinha fé, por isso é que falei".[^79] Força lhes é imitar os Apóstolos que aos príncipes do povo responderam: "Não podemos silenciar o que vimos e ouvimos".[^80]
+
+Devem entusiasmar-se com a grandiosa declaração de São Paulo: "Não me envergonho do Evangelho, pois é uma virtude de Deus para salvar todo homem crente"[^81]; — ou também, com esta outra palavra: "Com o coração se crê para ser justificado; com a boca se faz confissão, para que haja salvação".[^82]
+
+## [Creio] em Deus
+
+[5] Estas palavras "em Deus" nos mostram a dignidade e excelência da sabedoria cristã, pela qual podemos reconhecer o quanto devemos à bondade divina por nos levar, sem demoras de raciocínio, a conhecer pelos degraus da fé o ser mais sublime e desejável.
+
+[6] Existe, realmente, uma enorme diferença entre a filosofia cristã e a sabedoria deste mundo. Guiada só pela luz da razão, pode esta desenvolver-se aos poucos, pelo conhecimento dos efeitos e pela experiência dos sentidos. Mas só depois de longos esforços é que chega afinal a contemplar, com dificuldade, "as coisas invisíveis de Deus"[^83]; a reconhecer e compreender a Deus como causa primeira e autor de todas as coisas.
+
+A fé, pelo contrário, aumenta de tal maneira a penetração natural do espírito, que este pode sem esforço elevar-se até ao céu, e, inundado de luz divina, contemplar primeiramente o próprio foco de toda a luz, e de lá todas as coisas colocadas debaixo [de seu clarão]. Num transporte de júbilo, sentimos então que "das trevas, como diz o Príncipe dos Apóstolos, fomos chamados para uma luz admirável"[^84]; e nessa "fé exultamos de inefável alegria".[^85]
+
+É, pois, com razão que os fiéis professam em primeiro lugar sua fé em Deus, cuja majestade, numa expressão de Jeremias, dizemos ser "incompreensível".[^86] Deus "habita numa luz inacessível, como diz o Apóstolo, e nunca foi nem pode ser visto por homem algum".[^87] Ele mesmo disse a Moisés: "Não pode o homem ver-Me, e continuar com vida".[^88]
+
+Com efeito, para chegarmos até Deus, o mais transcendente de todos os seres, é preciso que nossa alma se desfaça totalmente das faculdades sensitivas. Isto, porém, não nos é possível por lei da natureza, enquanto durar a vida presente.
+
+Ainda assim, como diz o Apóstolo, Deus "não deixou todavia de dar testemunho de Si mesmo, dispensando benefícios, mandando chuvas do céu e tempos férteis, dando alimento, e enchendo de alegria os corações dos homens".[^89]
+
+Eis por que os filósofos nada de imperfeito podiam admitir em Deus. Da noção de Deus, afastaram categòricamente tudo o que fosse matéria, crescimento, composição.
+
+Atribuindo-Lhe, pelo contrário, a suma plenitude de todos os bens, consideravam-n'O como fonte perpétua e inexaurível de bondade e clemência, donde se derrama em todas as criaturas tudo o que nelas há de bom e perfeito.
+
+Chamavam-Lhe sábio, autor e amigo da verdade, justo, supremo benfeitor. Deram-Lhe ainda outros atributos que exprimem uma perfeição suma e absoluta. Em Deus reconheciam um poder imenso e absoluto, que abrange todos os lugares, e chega a todas as criaturas.
+
+No entanto, estas verdades são expressas, com mais vigor e propriedade, nas páginas da Sagrada Escritura, como por exemplo nas passagens seguintes:
+
+"Deus é Espírito".[^90] — "Sede perfeitos como vosso Pai no céu é perfeito".[^91] — "Todas as coisas estão a nu e a descoberto diante de seus olhos".[^92] — "Ó profundidade das riquezas, da sabedoria e do conhecimento de Deus!"[^93] — "Deus é verdadeiro".[^94] — "Eu sou o caminho, a verdade e a vida".[^95] — "Vossa destra é cheia de justiça".[^96] — "Vós abris a mão, e encheis de bênçãos todos os viventes".[^97] — "Para onde irei, a fim de esquivar-me de Vosso espírito, e para onde fugirei da Vossa face? Ainda que tomasse asas, ao romper da aurora, e fosse morar nos confins do oceano, ainda lá me guiaria a Vossa mão, e Vossa destra me tomaria".[^98] — "Porventura, não encho Eu o céu e a terra? diz o Senhor".[^99]
+
+Por grandes e sublimes que sejam os conceitos que, de harmonia com a doutrina da Sagrada Escritura, os filósofos tiraram da investigação das coisas criadas, devemos todavia reconhecer a necessidade de uma revelação sobrenatural.
+
+Para esse fim, basta considerar que a excelência da fé, como acima foi dito, não consiste apenas em patentear, aos simples e ignorantes, com clareza e prontidão, o que eminentes sábios conseguiram averiguar só depois de longas lucubrações. O conhecimento que a fé nos transmite dessas verdades, é também muito mais certo e estreme de erros, do que as noções adquiridas com os recursos de uma ciência meramente humana.
+
+Além disso, quão superior não deve ser, aos nossos olhos, o conhecimento que a fé nos dá da essência divina, para o qual a contemplação da natureza não leva em geral todos os homens, enquanto a luz da fé propriamente o franqueia a todos os crentes?
+
+Esse conhecimento está depositado nos Artigos do Símbolo. Explanam-nos a unidade da essência divina, a distinção das três Pessoas. Ensinam-nos que o último fim do homem é o próprio Deus, do qual o homem deve esperar a posse da celestial e eterna felicidade, segundo a palavra de São Paulo: "Deus retribuirá aos que o procuram".[^100]
+
+Para mostrar a grandeza dessa recompensa, e como a inteligência é de si mesma incapaz de imaginá-la, o Profeta Isaías disse muito antes de São Paulo: "Nunca ninguém ouviu, nem ouvido algum percebeu, nem olhar algum enxergou, a não serdes Vós, ó meu Deus, o que tendes preparado para os que em Vós esperam".[^101]
+
+[7] Das explicações dadas, segue-se também a obrigação de confessarmos que há um só Deus, e não vários deuses. A razão é óbvia. A Deus atribuímos suma bondade e perfeição. Ora, em vários seres não pode haver perfeição em grau sumo e absoluto.[^102] Se a um deles falta alguma coisa para ser sumamente perfeito, por isso mesmo é imperfeito, e não lhe compete a natureza divina.
+
+Comprovam esta verdade, muitas passagens dos Livros Sagrados. Está escrito: "Ouve, Israel, o Senhor nosso Deus é um só Deus".[^103] Além disso, há um preceito do Senhor: "Não tereis deuses estranhos em Minha presença".[^104] E pela boca do Profeta diz [Deus] com insistência: "Eu sou o Primeiro, e Eu sou o Último. Fora de Mim, não há outro Deus".[^105] O Apóstolo também o atesta sem ambiguidade: "Um só Senhor, uma só fé, um só Batismo".[^106]
+
+[8] Não devemos estranhar que a Sagrada Escritura, por vezes, aplique o nome de "deuses" a seres criados. Quando chama de deuses aos juízes e profetas[^107], não o faz à moda dos gentios que, louca e impiamente, imaginavam a existência de muitas divindades. Com tal expressão, quer apenas designar algum poder ou encargo extraordinário, que lhes foi confiado pela munificência de Deus.
+
+A fé cristã crê, pois, e confessa que Deus é uno em natureza, substância e essência, conforme o definiu o Símbolo do Concílio de Nicéia, em confirmação da verdade. Mas, subindo mais alto, ela crê de tal maneira em Deus Uno que, ao mesmo tempo, adora a Unidade na Trindade, e a Trindade na Unidade.[^108] É desse mistério que vamos tratar agora.

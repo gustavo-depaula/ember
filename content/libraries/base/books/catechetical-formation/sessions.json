@@ -110,9 +110,18 @@
       "trent": {
         "chapter": "creed-01",
         "sections": [
-          "Meaning Of This Article",
-          "I Believe",
-          "In God"
+          {
+            "en": "Meaning Of This Article",
+            "pt": "Sinopse do Artigo"
+          },
+          {
+            "en": "I Believe",
+            "pt": "Crer"
+          },
+          {
+            "en": "In God",
+            "pt": "[Creio] em Deus"
+          }
         ]
       },
       "image_topic": "Moses and the Burning Bush (the 'I AM' moment, e.g. Chagall or a Greek icon)",
@@ -139,7 +148,10 @@
           "chapter": "creed-08-holy-ghost",
           "sections": [
             "@opening",
-            "Teaching of the Nicene Creed"
+            {
+              "en": "Teaching of the Nicene Creed",
+              "pt": "Doutrina do Símbolo Niceno"
+            }
           ]
         }
       ],
@@ -147,9 +159,18 @@
         "chapter": "creed-08",
         "sections": [
           "@opening",
-          "Importance Of This Article",
-          "Holy Ghost",
-          "I Believe in the Holy Ghost"
+          {
+            "en": "Importance Of This Article",
+            "pt": "I. Importância do Artigo"
+          },
+          {
+            "en": "Holy Ghost",
+            "pt": "II. A Pessoa do Espírito Santo"
+          },
+          {
+            "en": "I Believe in the Holy Ghost",
+            "pt": "III. Efeitos do Espírito Santo"
+          }
         ]
       },
       "image_topic": "The Holy Trinity — Andrei Rublev's Trinity icon (Three Angels at Mamre); or Masaccio's Trinity",
@@ -175,14 +196,20 @@
         {
           "chapter": "creed-08-holy-ghost",
           "sections": [
-            "Benefits from the Holy Ghost"
+            {
+              "en": "Benefits from the Holy Ghost",
+              "pt": "Benefícios provenientes do Espírito Santo"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-08",
         "sections": [
-          "Certain Divine Works are Appropriated to the Holy Ghost"
+          {
+            "en": "Certain Divine Works are Appropriated to the Holy Ghost",
+            "pt": "III. Efeitos do Espírito Santo"
+          }
         ]
       },
       "image_topic": "Coronation of the Virgin showing the Trinity (e.g. Velázquez's Coronation, or Fra Angelico)",
@@ -210,10 +237,22 @@
       "trent": {
         "chapter": "creed-01",
         "sections": [
-          "The Father",
-          "Almighty",
-          "Creator",
-          "Of Heaven and Earth"
+          {
+            "en": "The Father",
+            "pt": "Padre"
+          },
+          {
+            "en": "Almighty",
+            "pt": "Todo-Poderoso"
+          },
+          {
+            "en": "Creator",
+            "pt": "Criador do céu e da terra"
+          },
+          {
+            "en": "Of Heaven and Earth",
+            "pt": "Criador do céu e da terra"
+          }
         ]
       },
       "image_topic": "Creation of the world (Michelangelo's Sistine Creation panels, or William Blake)",
@@ -239,7 +278,10 @@
       "trent": {
         "chapter": "creed-01",
         "sections": [
-          "Of all Things Visible and Invisible"
+          {
+            "en": "Of all Things Visible and Invisible",
+            "pt": "Criador do céu e da terra"
+          }
         ]
       },
       "image_topic": "St. Michael casting down the devil (Reni, Raphael, or a medieval icon); or the Guardian Angel (Pietro da Cortona)",
@@ -329,7 +371,10 @@
           "chapter": "creed-02-jesus-christ",
           "sections": [
             "@opening",
-            "Errors Relating to the Second Article"
+            {
+              "en": "Errors Relating to the Second Article",
+              "pt": "Erros relativos ao Segundo Artigo"
+            }
           ]
         }
       ],
@@ -337,10 +382,22 @@
         "chapter": "creed-02",
         "sections": [
           "@opening",
-          "Advantages Of Faith In This Article",
-          "Necessity Of Faith In This Article",
-          "Jesus",
-          "Christ"
+          {
+            "en": "Advantages Of Faith In This Article",
+            "pt": "A importância deste Artigo"
+          },
+          {
+            "en": "Necessity Of Faith In This Article",
+            "pt": "A importância deste Artigo"
+          },
+          {
+            "en": "Jesus",
+            "pt": "O nome de Jesus"
+          },
+          {
+            "en": "Christ",
+            "pt": "Cristo"
+          }
         ]
       },
       "image_topic": "The Annunciation (Fra Angelico, Leonardo da Vinci, or a Russian icon of the Annunciation)",
@@ -366,16 +423,28 @@
         {
           "chapter": "creed-02-jesus-christ",
           "sections": [
-            "The Divine Generation"
+            {
+              "en": "The Divine Generation",
+              "pt": "A Geração Divina"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-02",
         "sections": [
-          "His Only Son",
-          "Our Lord",
-          "Duties Owed To Christ Our Lord"
+          {
+            "en": "His Only Son",
+            "pt": "Um só Seu Filho"
+          },
+          {
+            "en": "Our Lord",
+            "pt": "Nosso Senhor"
+          },
+          {
+            "en": "Duties Owed To Christ Our Lord",
+            "pt": "Nosso Senhor"
+          }
         ]
       },
       "image_topic": "The Baptism of Christ (Verrocchio, Piero della Francesca, or Andrei Rublev)",
@@ -472,9 +541,18 @@
         "chapter": "creed-05",
         "sections": [
           "@opening",
-          "Importance Of This Article",
-          "Second Part of this Article",
-          "Three Useful Considerations"
+          {
+            "en": "Importance Of This Article",
+            "pt": "Importância do Artigo"
+          },
+          {
+            "en": "Second Part of this Article",
+            "pt": "Ressuscitou ao terceiro dia"
+          },
+          {
+            "en": "Three Useful Considerations",
+            "pt": "Importância fundamental da Ressurreição"
+          }
         ]
       },
       "image_topic": "The Resurrection (Piero della Francesca's Resurrection at Sansepolcro, or Fra Angelico)",
@@ -524,8 +602,14 @@
           "chapter": "creed-07-shall-come-to-judge",
           "sections": [
             "@opening",
-            "The Form of the Judgement",
-            "Who Are to Be Judged?"
+            {
+              "en": "The Form of the Judgement",
+              "pt": "A forma do juízo"
+            },
+            {
+              "en": "Who Are to Be Judged?",
+              "pt": "Quem serão julgados?"
+            }
           ]
         }
       ],
@@ -533,9 +617,18 @@
         "chapter": "creed-07",
         "sections": [
           "@opening",
-          "Meaning Of This Article",
-          "From Thence He Shall Come",
-          "To Judge the Living and the Dead"
+          {
+            "en": "Meaning Of This Article",
+            "pt": "I. Importância do Artigo"
+          },
+          {
+            "en": "From Thence He Shall Come",
+            "pt": "II. Explicação"
+          },
+          {
+            "en": "To Judge the Living and the Dead",
+            "pt": "III. Motivos para o juízo universal"
+          }
         ]
       },
       "image_topic": "The Last Judgment (Fra Angelico, Memling, or Michelangelo's Sistine Last Judgment)",
@@ -561,16 +654,28 @@
         {
           "chapter": "creed-07-shall-come-to-judge",
           "sections": [
-            "The Fear of the Judgment",
-            "Our Preparation for the Judgment"
+            {
+              "en": "The Fear of the Judgment",
+              "pt": "O temor do juízo"
+            },
+            {
+              "en": "Our Preparation for the Judgment",
+              "pt": "Nossa preparação para o juízo"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-07",
         "sections": [
-          "Circumstances of the Judgment",
-          "Importance of Instruction on this Article"
+          {
+            "en": "Circumstances of the Judgment",
+            "pt": "IV. O Juiz"
+          },
+          {
+            "en": "Importance of Instruction on this Article",
+            "pt": "V. Sinais que precedem o Juízo"
+          }
         ]
       },
       "image_topic": "Death of the just and the wicked (e.g., Caravaggio's Death of the Virgin, or a Memento Mori panel)",
@@ -596,7 +701,10 @@
       "trent": {
         "chapter": "creed-05",
         "sections": [
-          "First Part of this Article"
+          {
+            "en": "First Part of this Article",
+            "pt": "Sentido da palavra \"infernos\""
+          }
         ]
       },
       "image_topic": "Souls in Purgatory (Daniel Crespi, or a Spanish Baroque painting of souls being lifted to heaven by angels)",
@@ -622,17 +730,32 @@
         {
           "chapter": "creed-12-life-everlasting",
           "sections": [
-            "What Is Everlasting Life?",
-            "What Is Everlasting Death?"
+            {
+              "en": "What Is Everlasting Life?",
+              "pt": "Que é a vida eterna?"
+            },
+            {
+              "en": "What Is Everlasting Death?",
+              "pt": "Que é a morte eterna?"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-12",
         "sections": [
-          "Negative and Positive Elements of Eternal Life",
-          "Essential Happiness",
-          "Accessory Happiness"
+          {
+            "en": "Negative and Positive Elements of Eternal Life",
+            "pt": "III. Explicação real"
+          },
+          {
+            "en": "Essential Happiness",
+            "pt": "IV. Necessidade de mais"
+          },
+          {
+            "en": "Accessory Happiness",
+            "pt": "IV. Necessidade de mais"
+          }
         ]
       },
       "image_topic": "Beatific vision (Dante's Paradise illustrated by Doré or Botticelli; or Fra Angelico's Christ Glorified in the Court of Heaven)",
@@ -659,7 +782,10 @@
           "chapter": "creed-09-holy-catholic-church",
           "sections": [
             "@opening",
-            "The Unity of the Church"
+            {
+              "en": "The Unity of the Church",
+              "pt": "A unidade da Igreja"
+            }
           ]
         }
       ],
@@ -667,7 +793,10 @@
         "chapter": "creed-09",
         "sections": [
           "@opening",
-          "The Importance Of This Article"
+          {
+            "en": "The Importance Of This Article",
+            "pt": "Importância do Artigo"
+          }
         ]
       },
       "image_topic": "Christ giving the keys to St. Peter (Perugino, or Raphael's tapestry cartoon)",
@@ -693,16 +822,28 @@
         {
           "chapter": "creed-09-holy-catholic-church",
           "sections": [
-            "The Holiness of the Church",
-            "The Catholicity or Universality of the Church",
-            "The Apostolicity of the Church"
+            {
+              "en": "The Holiness of the Church",
+              "pt": "A santidade da Igreja"
+            },
+            {
+              "en": "The Catholicity or Universality of the Church",
+              "pt": "A catolicidade ou universalidade da Igreja"
+            },
+            {
+              "en": "The Apostolicity of the Church",
+              "pt": "A apostolicidade da Igreja"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-09",
         "sections": [
-          "First Part Of This Article"
+          {
+            "en": "First Part Of This Article",
+            "pt": "Relação com o Artigo anterior"
+          }
         ]
       },
       "image_topic": "The Pentecost (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
@@ -750,14 +891,20 @@
           "chapter": "creed-10-communion-of-saints",
           "sections": [
             "@opening",
-            "The Seven Sacraments: a Review"
+            {
+              "en": "The Seven Sacraments: a Review",
+              "pt": "Os Sete Sacramentos: uma síntese"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "creed-09",
         "sections": [
-          "Second Part of this Article"
+          {
+            "en": "Second Part of this Article",
+            "pt": "A Comunhão dos Santos"
+          }
         ]
       },
       "image_topic": "All Saints (Fra Angelico's Forerunners of Christ, or a Mexican retablo of all saints; or Dürer's Adoration of the Trinity with all the saints)",
@@ -783,7 +930,10 @@
         {
           "chapter": "creed-10-communion-of-saints",
           "sections": [
-            "The Communion of Saints"
+            {
+              "en": "The Communion of Saints",
+              "pt": "A Comunhão dos Santos"
+            }
           ]
         }
       ],
@@ -832,7 +982,10 @@
         {
           "chapter": "creed-10-communion-of-saints",
           "sections": [
-            "The Forgiveness of Sins"
+            {
+              "en": "The Forgiveness of Sins",
+              "pt": "A Remissão dos Pecados"
+            }
           ]
         }
       ],
@@ -840,8 +993,14 @@
         "chapter": "creed-10",
         "sections": [
           "@opening",
-          "Importance Of This Article",
-          "The Church Has the Power of Forgiving Sins"
+          {
+            "en": "Importance Of This Article",
+            "pt": "Importância do Artigo"
+          },
+          {
+            "en": "The Church Has the Power of Forgiving Sins",
+            "pt": "I. A Igreja tem poder de perdoar os pecados"
+          }
         ]
       },
       "image_topic": "The Prodigal Son (Rembrandt's Return of the Prodigal Son, or Murillo)",
@@ -867,9 +1026,18 @@
       "trent": {
         "chapter": "creed-10",
         "sections": [
-          "Extent of this Power",
-          "Limitation of this Power",
-          "Greatness of this Power"
+          {
+            "en": "Extent of this Power",
+            "pt": "II. Na penitência, poder ilimitado"
+          },
+          {
+            "en": "Limitation of this Power",
+            "pt": "III. Sublimidade deste poder"
+          },
+          {
+            "en": "Greatness of this Power",
+            "pt": "IV. Os pecados expiados pelo Sangue de Cristo"
+          }
         ]
       },
       "image_topic": "The Penitent Magdalene (Caravaggio, La Tour, or Titian)",
@@ -895,7 +1063,10 @@
       "trent": {
         "chapter": "creed-10",
         "sections": [
-          "Exhortation"
+          {
+            "en": "Exhortation",
+            "pt": "V. Exortação"
+          }
         ]
       },
       "image_topic": "The Last Things — death, judgment, hell, heaven (a 17th-century Memento Mori, or Bosch's Four Last Things)",
@@ -945,7 +1116,10 @@
           "chapter": "creed-12-life-everlasting",
           "sections": [
             "@opening",
-            "The Fullness of Desires"
+            {
+              "en": "The Fullness of Desires",
+              "pt": "A plenitude dos desejos"
+            }
           ]
         }
       ],
@@ -953,9 +1127,18 @@
         "chapter": "creed-12",
         "sections": [
           "@opening",
-          "Importance Of This Article",
-          "Life Everlasting",
-          "How to Arrive at the Enjoyment"
+          {
+            "en": "Importance Of This Article",
+            "pt": "I. Importância do Artigo"
+          },
+          {
+            "en": "Life Everlasting",
+            "pt": "II. Explicação verbal"
+          },
+          {
+            "en": "How to Arrive at the Enjoyment",
+            "pt": "IV. Necessidade de mais"
+          }
         ]
       },
       "image_topic": "The Heavenly Jerusalem (Fra Angelico, or van Eyck's Adoration of the Lamb in the Ghent altarpiece)",
@@ -984,8 +1167,14 @@
         "chapter": "decalogue-intro",
         "sections": [
           "@opening",
-          "Importance Of Instruction On The Commandments",
-          "The Promulgation of the Law"
+          {
+            "en": "Importance Of Instruction On The Commandments",
+            "pt": "I. Importância do Decálogo"
+          },
+          {
+            "en": "The Promulgation of the Law",
+            "pt": "III. A particularidade da promulgação aos Hebreus"
+          }
         ]
       },
       "image_topic": "Moses receiving the Tables of the Law on Sinai (Rembrandt, or a Russian icon)",
@@ -1011,7 +1200,10 @@
       "trent": {
         "chapter": "decalogue-intro",
         "sections": [
-          "Motives for Observing the Commandments"
+          {
+            "en": "Motives for Observing the Commandments",
+            "pt": "II. Motivos para sua observância"
+          }
         ]
       },
       "image_topic": "Christ teaching the Beatitudes (Bloch's Sermon on the Mount, or Carl Bloch)",
@@ -1039,9 +1231,18 @@
       "trent": {
         "chapter": "commandment-01",
         "sections": [
-          "I am the Lord thy God",
-          "Who Brought Thee Out of the Land of Egypt",
-          "Thou Shalt Not Have Strange Gods Before Me"
+          {
+            "en": "I am the Lord thy God",
+            "pt": "III. Conteúdo do 1º Mandamento"
+          },
+          {
+            "en": "Who Brought Thee Out of the Land of Egypt",
+            "pt": "II. Divisão dos Mandamentos em duas Tábuas"
+          },
+          {
+            "en": "Thou Shalt Not Have Strange Gods Before Me",
+            "pt": "III. Conteúdo do 1º Mandamento"
+          }
         ]
       },
       "image_topic": "Abraham's sacrifice (Rembrandt, Caravaggio); or the Adoration of the Magi as model adorers",
@@ -1067,7 +1268,10 @@
       "trent": {
         "chapter": "commandment-01",
         "sections": [
-          "I Am the Lord Thy God, Mighty, Jealous"
+          {
+            "en": "I Am the Lord Thy God, Mighty, Jealous",
+            "pt": "V. Motivação deste Preceito e de todos os Mandamentos"
+          }
         ]
       },
       "image_topic": "Madonna and Child enthroned with saints (Fra Angelico's San Marco altarpiece, or a Marian icon with saints)",
@@ -1120,17 +1324,32 @@
           "chapter": "commandments-02-name-of-the-lord",
           "sections": [
             "@opening",
-            "The Meaning of in Vain",
-            "Conditions of a Lawful Oath"
+            {
+              "en": "The Meaning of in Vain",
+              "pt": "O significado de «em vão»"
+            },
+            {
+              "en": "Conditions of a Lawful Oath",
+              "pt": "Condições de um juramento lícito"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "commandment-02",
         "sections": [
-          "Importance Of Instruction On This Commandment",
-          "Various Ways Of Honouring God's Name",
-          "Various Ways In Which God's Name Is Dishonoured"
+          {
+            "en": "Importance Of Instruction On This Commandment",
+            "pt": "I. Importância deste Mandamento"
+          },
+          {
+            "en": "Various Ways Of Honouring God's Name",
+            "pt": "III. Cláusula proibitiva"
+          },
+          {
+            "en": "Various Ways In Which God's Name Is Dishonoured",
+            "pt": "IV. As sanções de Deus"
+          }
         ]
       },
       "image_topic": "The Name of Jesus (IHS monogram, e.g. by Sienese Bernardino, or in a Jesuit emblem book)",
@@ -1156,7 +1375,10 @@
         {
           "chapter": "commandments-02-name-of-the-lord",
           "sections": [
-            "Taking God's Name Justly"
+            {
+              "en": "Taking God's Name Justly",
+              "pt": "Tomar justamente o nome de Deus"
+            }
           ]
         }
       ],
@@ -1191,8 +1413,14 @@
           "chapter": "commandments-03-sabbath",
           "sections": [
             "@opening",
-            "Reasons for This Commandment",
-            "With What the Sabbath and Feasts Should Be Occupied"
+            {
+              "en": "Reasons for This Commandment",
+              "pt": "Razões deste Mandamento"
+            },
+            {
+              "en": "With What the Sabbath and Feasts Should Be Occupied",
+              "pt": "Em que se deve ocupar o sábado e as festas"
+            }
           ]
         }
       ],
@@ -1200,11 +1428,26 @@
         "chapter": "commandment-03",
         "sections": [
           "@opening",
-          "Reasons For This Commandment",
-          "Importance Of Instruction On This Commandment",
-          "How The Third Differs From The Other Commandments",
-          "How The Third Is Like The Other Commandments",
-          "The Jewish Sabbath Changed To Sunday By The Apostles"
+          {
+            "en": "Reasons For This Commandment",
+            "pt": "I. Importância deste Mandamento"
+          },
+          {
+            "en": "Importance Of Instruction On This Commandment",
+            "pt": "II. Nexo com os outros Mandamentos"
+          },
+          {
+            "en": "How The Third Differs From The Other Commandments",
+            "pt": "III. Primeira Cláusula"
+          },
+          {
+            "en": "How The Third Is Like The Other Commandments",
+            "pt": "IV. Segunda cláusula"
+          },
+          {
+            "en": "The Jewish Sabbath Changed To Sunday By The Apostles",
+            "pt": "V. Terceira cláusula"
+          }
         ]
       },
       "image_topic": "The Mass (Raphael's Mass at Bolsena, or a depiction of the Elevation of the Host)",
@@ -1230,10 +1473,22 @@
         {
           "chapter": "commandments-03-sabbath",
           "sections": [
-            "From What We Should Abstain on the Sabbath",
-            "With What the Sabbath and Feasts",
-            "The Spiritual Sabbath",
-            "The Heavenly Sabbath"
+            {
+              "en": "From What We Should Abstain on the Sabbath",
+              "pt": "Daquilo de que devemos abster-nos no sábado"
+            },
+            {
+              "en": "With What the Sabbath and Feasts",
+              "pt": "Em que se deve ocupar o sábado e as festas"
+            },
+            {
+              "en": "The Spiritual Sabbath",
+              "pt": "O Sábado espiritual"
+            },
+            {
+              "en": "The Heavenly Sabbath",
+              "pt": "O Sábado celeste[^62]"
+            }
           ]
         }
       ],
@@ -1292,7 +1547,10 @@
           "chapter": "commandments-05-not-kill",
           "sections": [
             "@opening",
-            "The Sin of Killing"
+            {
+              "en": "The Sin of Killing",
+              "pt": "O pecado de matar"
+            }
           ]
         }
       ],
@@ -1300,8 +1558,14 @@
         "chapter": "commandment-05",
         "sections": [
           "@opening",
-          "Importance Of Instruction On This Commandment",
-          "Two Parts Of This Commandment"
+          {
+            "en": "Importance Of Instruction On This Commandment",
+            "pt": "I. Importância do Preceito: Meio de pacificação"
+          },
+          {
+            "en": "Two Parts Of This Commandment",
+            "pt": "II. Cláusula proibitiva"
+          }
         ]
       },
       "image_topic": "The Good Samaritan (van Gogh after Delacroix, or Rembrandt)",
@@ -1348,16 +1612,28 @@
         {
           "chapter": "commandments-05-not-kill",
           "sections": [
-            "The Sin of Anger"
+            {
+              "en": "The Sin of Anger",
+              "pt": "O pecado da ira"
+            }
           ]
         }
       ],
       "trent": {
         "chapter": "commandment-05",
         "sections": [
-          "Love Of Neighbour Inculcated",
-          "How to Persuade Men to Forgive Injuries",
-          "Remedies Against Hatred"
+          {
+            "en": "Love Of Neighbour Inculcated",
+            "pt": "III. Cláusula Preceptiva"
+          },
+          {
+            "en": "How to Persuade Men to Forgive Injuries",
+            "pt": "V. Remédios contra estes pecados"
+          },
+          {
+            "en": "Remedies Against Hatred",
+            "pt": "V. Remédios contra estes pecados"
+          }
         ]
       },
       "image_topic": "Christ forgiving from the Cross — 'Father, forgive them' (Velázquez, Reni, or Bouguereau's Compassion)",
@@ -1455,10 +1731,22 @@
         "chapter": "commandment-09-10",
         "sections": [
           "@opening",
-          "Importance Of Instruction On These Two Commandments",
-          "Why These Two Commandments Are Explained Here Together",
-          "Necessity Of Promulgating These Two Commandments",
-          "These Two Commandments Teach God's Love For Us And Our Need Of Him"
+          {
+            "en": "Importance Of Instruction On These Two Commandments",
+            "pt": "Importância e oportunidade de ambos"
+          },
+          {
+            "en": "Why These Two Commandments Are Explained Here Together",
+            "pt": "Nexo entre os dois Mandamentos"
+          },
+          {
+            "en": "Necessity Of Promulgating These Two Commandments",
+            "pt": "Necessidade dos Preceitos"
+          },
+          {
+            "en": "These Two Commandments Teach God's Love For Us And Our Need Of Him",
+            "pt": "Utilidade dos Preceitos"
+          }
         ]
       },
       "image_topic": "Joseph fleeing from Potiphar's wife (Carlo Cignani, Orazio Gentileschi); or the Annunciation as model purity of heart",
@@ -1487,8 +1775,14 @@
       "trent": {
         "chapter": "commandment-09-10",
         "sections": [
-          "Two Parts Of These Commandments",
-          "Negative Part"
+          {
+            "en": "Two Parts Of These Commandments",
+            "pt": "Cláusula proibitiva"
+          },
+          {
+            "en": "Negative Part",
+            "pt": "Explicação verbal"
+          }
         ]
       },
       "image_topic": "St. Francis renouncing his goods before the bishop (Giotto's Bardi Chapel; or Sassetta)",
@@ -1641,10 +1935,22 @@
         "chapter": "sacraments-intro",
         "sections": [
           "@opening",
-          "Importance Of Instruction On The Sacraments",
-          "The Word",
-          "Definition of a Sacrament",
-          "Constituent Parts of the Sacraments"
+          {
+            "en": "Importance Of Instruction On The Sacraments",
+            "pt": "Importância dos Sacramentos"
+          },
+          {
+            "en": "The Word",
+            "pt": "A. Explicação verbal"
+          },
+          {
+            "en": "Definition of a Sacrament",
+            "pt": "B. Explicação real e didática dos Sacramentos"
+          },
+          {
+            "en": "Constituent Parts of the Sacraments",
+            "pt": "Os componentes essenciais dos Sacramentos"
+          }
         ]
       },
       "image_topic": "The seven sacraments (a 17th-century allegorical engraving; or Roger van der Weyden's Seven Sacraments altarpiece)",
@@ -1670,10 +1976,22 @@
       "trent": {
         "chapter": "sacraments-intro",
         "sections": [
-          "Why the Sacraments were Instituted",
-          "The Number Of The Sacraments",
-          "Comparisons among the Sacraments",
-          "Effects of the Sacraments"
+          {
+            "en": "Why the Sacraments were Instituted",
+            "pt": "Motivos para se instituírem os Sacramentos"
+          },
+          {
+            "en": "The Number Of The Sacraments",
+            "pt": "Número dos Sacramentos"
+          },
+          {
+            "en": "Comparisons among the Sacraments",
+            "pt": "Diferença dos Sacramentos"
+          },
+          {
+            "en": "Effects of the Sacraments",
+            "pt": "Efeitos dos Sacramentos"
+          }
         ]
       },
       "image_topic": "The Pierced Side of Christ — the source of the sacraments (a Counter-Reformation devotional image; or Fra Angelico)",
@@ -1699,11 +2017,26 @@
       "trent": {
         "chapter": "sacraments-intro",
         "sections": [
-          "Other Sacred Things Signified By The Sacraments",
-          "Ceremonies Used in the Administration of the Sacraments",
-          "The Author of the Sacraments",
-          "The Ministers of the Sacraments",
-          "How to Make Instruction on the Sacraments Profitable"
+          {
+            "en": "Other Sacred Things Signified By The Sacraments",
+            "pt": "Motivos para se instituírem os Sacramentos"
+          },
+          {
+            "en": "Ceremonies Used in the Administration of the Sacraments",
+            "pt": "Efeitos dos Sacramentos"
+          },
+          {
+            "en": "The Author of the Sacraments",
+            "pt": "2. O caráter indelével"
+          },
+          {
+            "en": "The Ministers of the Sacraments",
+            "pt": "Ministro dos Sacramentos"
+          },
+          {
+            "en": "How to Make Instruction on the Sacraments Profitable",
+            "pt": "Escopo da catequese sobre os Sacramentos"
+          }
         ]
       },
       "image_topic": "The Last Supper (Leonardo, or Tintoretto, or a Russian icon)",
@@ -1730,15 +2063,42 @@
         "chapter": "sacrament-baptism",
         "sections": [
           "@opening",
-          "Importance Of Instruction On Baptism",
-          "Names of this Sacrament",
-          "Definition Of Baptism",
-          "Constituent Elements Of Baptism",
-          "Matter of Baptism",
-          "Form of Baptism",
-          "Institution Of Baptism",
-          "Necessity of Baptism",
-          "Effects of Baptism"
+          {
+            "en": "Importance Of Instruction On Baptism",
+            "pt": "Importância do Sacramento"
+          },
+          {
+            "en": "Names of this Sacrament",
+            "pt": "Significação do termo \"Batismo\""
+          },
+          {
+            "en": "Definition Of Baptism",
+            "pt": "Definição do Batismo"
+          },
+          {
+            "en": "Constituent Elements Of Baptism",
+            "pt": "Matéria do Batismo: a água"
+          },
+          {
+            "en": "Matter of Baptism",
+            "pt": "Forma do Batismo"
+          },
+          {
+            "en": "Form of Baptism",
+            "pt": "Instituição do Batismo"
+          },
+          {
+            "en": "Institution Of Baptism",
+            "pt": "Padrinhos"
+          },
+          {
+            "en": "Necessity of Baptism",
+            "pt": "Efeitos do Batismo"
+          },
+          {
+            "en": "Effects of Baptism",
+            "pt": "Cerimônias do Batismo"
+          }
         ]
       },
       "image_topic": "The Baptism of Christ in the Jordan (Verrocchio with Leonardo, Piero della Francesca, or Andrei Rublev's icon)",
@@ -1764,12 +2124,30 @@
       "trent": {
         "chapter": "sacrament-baptism",
         "sections": [
-          "Administration of Baptism",
-          "The Ministers of Baptism",
-          "The Sponsors at Baptism",
-          "Dispositions for Baptism",
-          "Ceremonies of Baptism",
-          "Recapitulation"
+          {
+            "en": "Administration of Baptism",
+            "pt": "Ministros do Batismo"
+          },
+          {
+            "en": "The Ministers of Baptism",
+            "pt": "Necessidade do Batismo"
+          },
+          {
+            "en": "The Sponsors at Baptism",
+            "pt": "Disposições do batizando"
+          },
+          {
+            "en": "Dispositions for Baptism",
+            "pt": "Caráter batismal"
+          },
+          {
+            "en": "Ceremonies of Baptism",
+            "pt": "Escolha do nome"
+          },
+          {
+            "en": "Recapitulation",
+            "pt": "Conclusão"
+          }
         ]
       },
       "image_topic": "Christ blessing the children — 'Let the little children come to me' (Bloch, Plockhorst, or 19th-century French illustration)",
@@ -1796,13 +2174,34 @@
         "chapter": "sacrament-confirmation",
         "sections": [
           "@opening",
-          "Importance Of Instruction On Confirmation",
-          "Name of this Sacrament",
-          "Confirmation is a Sacrament",
-          "Confirmation is Distinct from Baptism",
-          "Institution of Confirmation",
-          "Component Parts of Confirmation",
-          "The Effects of Confirmation"
+          {
+            "en": "Importance Of Instruction On Confirmation",
+            "pt": "Necessidade desta instrução"
+          },
+          {
+            "en": "Name of this Sacrament",
+            "pt": "Explicação etimológica"
+          },
+          {
+            "en": "Confirmation is a Sacrament",
+            "pt": "A Crisma verdadeiro Sacramento"
+          },
+          {
+            "en": "Confirmation is Distinct from Baptism",
+            "pt": "Sacramento diverso do Batismo"
+          },
+          {
+            "en": "Institution of Confirmation",
+            "pt": "Instituição por Cristo"
+          },
+          {
+            "en": "Component Parts of Confirmation",
+            "pt": "A matéria"
+          },
+          {
+            "en": "The Effects of Confirmation",
+            "pt": "Sujeito da Crisma"
+          }
         ]
       },
       "image_topic": "Pentecost — tongues of fire (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
@@ -1828,11 +2227,26 @@
       "trent": {
         "chapter": "sacrament-confirmation",
         "sections": [
-          "Minister of Confirmation",
-          "Sponsors at Confirmation",
-          "The Subject of Confirmation",
-          "Ceremonies Of Confirmation",
-          "Admonition"
+          {
+            "en": "Minister of Confirmation",
+            "pt": "A forma"
+          },
+          {
+            "en": "Sponsors at Confirmation",
+            "pt": "O ministro"
+          },
+          {
+            "en": "The Subject of Confirmation",
+            "pt": "Padrinho de Crisma"
+          },
+          {
+            "en": "Ceremonies Of Confirmation",
+            "pt": "Efeitos"
+          },
+          {
+            "en": "Admonition",
+            "pt": "Ritos e cerimônias"
+          }
         ]
       },
       "image_topic": "A bishop confirming (a 16th- or 17th-century painting, or a stained-glass window from a French cathedral)",
@@ -1858,10 +2272,22 @@
       "trent": {
         "chapter": "sacrament-eucharist",
         "sections": [
-          "Institution of the Eucharist",
-          "Meaning of the Word",
-          "Other Names Of This Sacrament",
-          "Constituent Parts of the Eucharist"
+          {
+            "en": "Institution of the Eucharist",
+            "pt": "A Instituição da Eucaristia"
+          },
+          {
+            "en": "Meaning of the Word",
+            "pt": "Os Nomes do Sacramento"
+          },
+          {
+            "en": "Other Names Of This Sacrament",
+            "pt": "A Eucaristia é Verdadeiro Sacramento"
+          },
+          {
+            "en": "Constituent Parts of the Eucharist",
+            "pt": "A Matéria: Pão e Vinho"
+          }
         ]
       },
       "image_topic": "The Last Supper — Institution of the Eucharist (Leonardo, Tintoretto, or Stanley Spencer)",
@@ -1888,9 +2314,15 @@
         "chapter": "sacrament-eucharist",
         "sections": [
           "@opening",
-          "Importance Of Instruction On The Eucharist",
+          {
+            "en": "Importance Of Instruction On The Eucharist",
+            "pt": "A Instituição da Eucaristia"
+          },
           "The Eucharist Is a Sacrament Properly So Called",
-          "Three Mysteries Of The Eucharist"
+          {
+            "en": "Three Mysteries Of The Eucharist",
+            "pt": "Simbolismo da Matéria"
+          }
         ]
       },
       "image_topic": "The Disputation of the Sacrament (Raphael, Vatican Stanze) — heaven and earth gathered around the Host; or the Mass at Bolsena",
@@ -1916,8 +2348,14 @@
       "trent": {
         "chapter": "sacrament-eucharist",
         "sections": [
-          "Threefold Manner Of Communicating",
-          "Necessity Of Previous Preparation For Communion"
+          {
+            "en": "Threefold Manner Of Communicating",
+            "pt": "Disposições para a Comunhão"
+          },
+          {
+            "en": "Necessity Of Previous Preparation For Communion",
+            "pt": "Disposições para a Comunhão"
+          }
         ]
       },
       "image_topic": "First Communion (Picasso's First Communion, or a 19th-century French Romantic painting of a girl in white veil)",
@@ -1943,7 +2381,10 @@
       "trent": {
         "chapter": "sacrament-eucharist",
         "sections": [
-          "The Obligation of Communion"
+          {
+            "en": "The Obligation of Communion",
+            "pt": "Frequência da Comunhão"
+          }
         ]
       },
       "image_topic": "St. Thérèse of Lisieux (or any saint known for daily Communion); or a Eucharistic procession (Corpus Christi)",
@@ -1969,9 +2410,18 @@
       "trent": {
         "chapter": "sacrament-eucharist",
         "sections": [
-          "The Effects of the Eucharist",
-          "The Rite of Administering Communion",
-          "The Minister of the Eucharist"
+          {
+            "en": "The Effects of the Eucharist",
+            "pt": "Os Frutos da Eucaristia"
+          },
+          {
+            "en": "The Rite of Administering Communion",
+            "pt": "Comunhão Sob uma só Espécie"
+          },
+          {
+            "en": "The Minister of the Eucharist",
+            "pt": "Os Ministros"
+          }
         ]
       },
       "image_topic": "Adoration of the Blessed Sacrament (a Baroque monstrance scene; or St. Pascual Baylón, patron of Eucharistic congresses)",
@@ -1997,7 +2447,10 @@
       "trent": {
         "chapter": "sacrament-eucharist",
         "sections": [
-          "The Eucharist as a Sacrifice"
+          {
+            "en": "The Eucharist as a Sacrifice",
+            "pt": "A Eucaristia como Sacrifício"
+          }
         ]
       },
       "image_topic": "The Mass of St. Gregory (a medieval depiction of Christ appearing on the altar), or the Elevation of the Host",
@@ -2024,11 +2477,26 @@
         "chapter": "sacrament-penance",
         "sections": [
           "@opening",
-          "Importance Of Instruction On This Sacrament",
-          "The Virtue of Penance",
-          "Why Christ Instituted This Sacrament",
-          "Penance Is a Sacrament",
-          "This Sacrament May Be Repeated"
+          {
+            "en": "Importance Of Instruction On This Sacrament",
+            "pt": "Necessidade do Sacramento"
+          },
+          {
+            "en": "The Virtue of Penance",
+            "pt": "A Penitência como Virtude"
+          },
+          {
+            "en": "Why Christ Instituted This Sacrament",
+            "pt": "A Penitência como Sacramento"
+          },
+          {
+            "en": "Penance Is a Sacrament",
+            "pt": "A Penitência como Sacramento"
+          },
+          {
+            "en": "This Sacrament May Be Repeated",
+            "pt": "A Penitência como Sacramento"
+          }
         ]
       },
       "image_topic": "Christ giving the keys / power to forgive sins (Rubens, or El Greco's Christ giving keys to Peter)",
@@ -2054,9 +2522,15 @@
       "trent": {
         "chapter": "sacrament-penance",
         "sections": [
-          "The Constituent Parts of Penance",
+          {
+            "en": "The Constituent Parts of Penance",
+            "pt": "As Três Partes da Penitência"
+          },
           "The Rites Observed",
-          "The Second Part of Penance"
+          {
+            "en": "The Second Part of Penance",
+            "pt": "A Confissão"
+          }
         ]
       },
       "image_topic": "A confession scene (Goya's Confession; or the parable of the Pharisee and the Publican)",
@@ -2082,7 +2556,10 @@
       "trent": {
         "chapter": "sacrament-penance",
         "sections": [
-          "The First Part of Penance"
+          {
+            "en": "The First Part of Penance",
+            "pt": "A Contrição"
+          }
         ]
       },
       "image_topic": "The Penitent Peter weeping (Reni, El Greco, or Goya); or the Penitent Magdalene",
@@ -2108,7 +2585,10 @@
       "trent": {
         "chapter": "sacrament-penance",
         "sections": [
-          "The Three Integral Parts of Penance"
+          {
+            "en": "The Three Integral Parts of Penance",
+            "pt": "A Contrição"
+          }
         ]
       },
       "image_topic": "St. Mary of Egypt as model penitent in the desert; or any depiction of doing penance after confession",
@@ -2134,8 +2614,14 @@
       "trent": {
         "chapter": "sacrament-penance",
         "sections": [
-          "The Third Part of Penance",
-          "Admonition"
+          {
+            "en": "The Third Part of Penance",
+            "pt": "A Satisfação"
+          },
+          {
+            "en": "Admonition",
+            "pt": "Imposição da Penitência"
+          }
         ]
       },
       "image_topic": "Christ embracing the Prodigal Son (Rembrandt's Return); or the Lamb of God absolving (a Counter-Reformation devotional)",
@@ -2204,13 +2690,34 @@
         "chapter": "sacrament-matrimony",
         "sections": [
           "@opening",
-          "Importance Of Instruction On This Sacrament",
-          "Nature and Meaning of Marriage",
-          "Twofold Consideration of Marriage",
-          "Marriage before Christ",
-          "Christ Restored to Marriage its Primitive Qualities",
-          "The Three Blessings of Marriage",
-          "The Recipient of Matrimony"
+          {
+            "en": "Importance Of Instruction On This Sacrament",
+            "pt": "Importância da catequese"
+          },
+          {
+            "en": "Nature and Meaning of Marriage",
+            "pt": "Noção do Matrimônio"
+          },
+          {
+            "en": "Twofold Consideration of Marriage",
+            "pt": "O Matrimônio como instituição jurídica"
+          },
+          {
+            "en": "Marriage before Christ",
+            "pt": "O Matrimônio como instituição natural"
+          },
+          {
+            "en": "Christ Restored to Marriage its Primitive Qualities",
+            "pt": "O Matrimônio como Sacramento"
+          },
+          {
+            "en": "The Three Blessings of Marriage",
+            "pt": "Os bens do Matrimônio"
+          },
+          {
+            "en": "The Recipient of Matrimony",
+            "pt": "Uso do Matrimônio"
+          }
         ]
       },
       "image_topic": "The Marriage at Cana (Veronese, Giotto, or Murillo); OR the Holy Family in Joseph's workshop",
@@ -2236,10 +2743,22 @@
       "trent": {
         "chapter": "sacrament-matrimony",
         "sections": [
-          "The Duties of Married People",
-          "The Rite To Be Observed",
-          "The Impediments Of Marriage",
-          "The Use Of Marriage"
+          {
+            "en": "The Duties of Married People",
+            "pt": "Deveres dos cônjuges"
+          },
+          {
+            "en": "The Rite To Be Observed",
+            "pt": "Legislação Matrimonial"
+          },
+          {
+            "en": "The Impediments Of Marriage",
+            "pt": "Preparação para o Matrimônio"
+          },
+          {
+            "en": "The Use Of Marriage",
+            "pt": "Uso do Matrimônio"
+          }
         ]
       },
       "image_topic": "The Holy Family (Murillo's Holy Family with a Bird, or Reni's Holy Family) — model of married love",
@@ -2268,11 +2787,26 @@
         "chapter": "prayer-intro",
         "sections": [
           "@opening",
-          "Importance Of Instruction On Prayer",
-          "Necessity of Prayer",
-          "The Fruits of Prayer",
-          "The Parts Of Prayer",
-          "What We Should Pray For"
+          {
+            "en": "Importance Of Instruction On Prayer",
+            "pt": "Capítulo I — Da Oração e sua necessidade"
+          },
+          {
+            "en": "Necessity of Prayer",
+            "pt": "Capítulo I — Da Oração e sua necessidade"
+          },
+          {
+            "en": "The Fruits of Prayer",
+            "pt": "Capítulo II — Da utilidade da Oração"
+          },
+          {
+            "en": "The Parts Of Prayer",
+            "pt": "Capítulo III — Espécies e graus da Oração"
+          },
+          {
+            "en": "What We Should Pray For",
+            "pt": "Capítulo IV — Objeto da Oração"
+          }
         ]
       },
       "image_topic": "Christ in the Garden of Gethsemane praying (Bellini, Mantegna, or El Greco) — the model of prayer",
@@ -2298,10 +2832,22 @@
       "trent": {
         "chapter": "prayer-intro",
         "sections": [
-          "For Whom We Ought to Pray",
-          "To Whom We Should Pray",
-          "Preparation for Prayer",
-          "How to Pray Well"
+          {
+            "en": "For Whom We Ought to Pray",
+            "pt": "Capítulo V — Por quem devemos orar"
+          },
+          {
+            "en": "To Whom We Should Pray",
+            "pt": "Capítulo VI — A quem devemos orar"
+          },
+          {
+            "en": "Preparation for Prayer",
+            "pt": "Capítulo VII — Da preparação para rezar"
+          },
+          {
+            "en": "How to Pray Well",
+            "pt": "Capítulo VIII — Da maneira de rezar"
+          }
         ]
       },
       "image_topic": "Christ knocking at the door (Holman Hunt's Light of the World) or the persistent widow (Tissot)",

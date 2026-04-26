@@ -31,6 +31,16 @@ Há que saber que «igreja» é o mesmo que assembleia.[^2] Assim, a Santa Igrej
 
 A Igreja tem quatro condições essenciais, na medida em que é una, santa, católica e firme e estável.[^4]
 
+## A unidade da Igreja
+
+Quanto à primeira, é preciso saber que a Igreja é uma. Embora vários hereges tenham fundado várias seitas, eles não pertencem à Igreja, sendo apenas tantas divisões. D'Ela se diz: «Uma é a minha pomba, a minha perfeita é única».[^5] A unidade da Igreja procede de três fontes:
+
+(1) a unidade da fé. Todos os cristãos que pertencem ao corpo da Igreja crêem a mesma doutrina. «Rogo-vos […] que todos digais uma mesma coisa, e que não haja entre vós cismas».[^6] E: «Um só Senhor, uma só fé, um só batismo».[^7]
+
+(2) a unidade da esperança. Todos são fortalecidos numa só esperança de chegar à vida eterna. Por isso diz o Apóstolo: «Um só corpo e um só Espírito, como fostes chamados em uma só esperança da vossa vocação».[^8]
+
+(3) a unidade da caridade. Todos estão unidos no amor de Deus, e uns aos outros pelo amor mútuo: «E a glória que Tu me deste, Eu lha dei; para que sejam um, como nós também somos um».[^9] É claro que se trata de verdadeiro amor quando os membros são solícitos uns pelos outros e simpáticos uns para com os outros: «Que cresçamos em todas as coisas n'Aquele que é a Cabeça, Cristo. D'Ele todo o corpo, ajustado e bem ligado pela cooperação de todas as junturas, segundo a operação adequada a cada um dos membros, faz-se o crescimento do corpo, edificando-se na caridade».[^10] É que cada um deve usar da graça que Deus lhe concede e ser de proveito ao próximo. Ninguém deve ser indiferente à Igreja, nem permitir que dela se corte ou se expulse; pois há uma só Igreja na qual os homens se salvam, assim como fora da arca de Noé ninguém pôde salvar-se.
+
 > **Escritura.** *Também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela.* — Mateus 16, 18
 
 > *Senhor, edificastes uma só Igreja. Quando eu for tentado a partir, lembrai-me de que não há outro lugar onde dissestes que estaríeis.*
@@ -40,3 +50,15 @@ A Igreja tem quatro condições essenciais, na medida em que é una, santa, cat�
 #### Aprofundamento — *Catecismo de Trento*
 
 > Creio a Santa Igreja Católica
+
+## Importância do Artigo
+
+[1] Duas considerações nos mostram principalmente, com quanta atenção devem os pastores explicar aos fiéis as verdades deste nono Artigo.
+
+A primeira é a seguinte: Na opinião de Santo Agostinho[^468], os Profetas insistiam mais em falar da Igreja que do [próprio] Cristo. Previam que muito maior podia ser o número de pessoas a errarem e iludirem-se neste ponto, do que a respeito do mistério da Encarnação.
+
+Realmente, à guisa do mono que se figura homem, não deixaria de haver ímpios com a pretensão de que só eles são católicos, e com a maldosa e soberba afirmação de que só entre eles existe a [verdadeira] Igreja Católica.[^469]
+
+A segunda consideração é que facilmente escapa ao tremendo perigo de heresia, quem assimila esta verdade, com plena convicção. Com efeito, a pessoa não se torna herege só por pecar contra a fé, mas antes por menosprezar a autoridade da Igreja, e defender obstinadamente suas ímpias afirmações.
+
+Por conseguinte, não é possível que alguém contraia a peste da heresia, enquanto aceita o que este Artigo [lhe] propõe a crer. Os pastores devem, pois, empenhar-se por que os fiéis conheçam [a fundo] este Mistério, e possam assim perseverar na verdade da fé, e defender-se contra as astúcias do inimigo.

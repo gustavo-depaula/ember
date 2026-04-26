@@ -55,3 +55,103 @@ Mas, para amar a Deus dignamente, é preciso, antes de tudo, amar o próximo. E 
 *Sobre a numeração. Pio X enumera este como Décimo Mandamento ('não cobiçarás as coisas do teu próximo'); os sermões de Nápoles de São Tomás o tratam como Nono. A doutrina é idêntica; somente a ordem histórica difere.*
 
 > *Senhor, Vós me bastais. Hoje, fazei-me agir como tal ao menos uma vez.*
+
+---
+
+#### Aprofundamento — *Catecismo de Trento*
+
+## Cláusula proibitiva
+
+[6] Ambos os Preceitos têm isto de comum com os outros, que em parte proíbem, em parte ordenam alguma coisa. Quanto à cláusula proibitiva, o pároco explicará qual é a concupiscência que devemos evitar, em virtude deste Preceito. Pois ninguém deve cuidar que haja vício em desejos escoimados, como o apetecer do espírito contra a carne[^554], e o ansiar continuamente pelas justas Leis de Deus, conforme o grande desejo que sentia David.[^555]
+
+### Noção e origem da concupiscência
+
+Concupiscência, como devemos saber, é um certo impulso da alma, que leva os homens a cobiçarem coisas de seu agrado, que ainda não estão em seu poder. Ora, assim como nem todos os impulsos da alma são sempre maus, também não se deve afirmar, sem mais nem menos, que a concupiscência seja sempre desordenada. Não há, por exemplo, nada de mal em apetecer comida e bebida; em desejar calor, quando sentimos friagem; ou então, desejar frescura, quando o calor nos afronta.
+
+Por disposição divina, a concupiscência bem ordenada tem sua origem em nossa própria natureza; mas, por efeito do pecado de nossos primeiros Pais, ela transgride os limites de sua natureza, e degenera a tal ponto, que se desvia muitas vezes a desejos contrários à razão e ao bom-senso.
+
+### Bons efeitos da concupiscência
+
+[7] Porém, se for regulada e contida em justas proporções, a concupiscência também produz, muitas vezes, não poucos benefícios.
+
+Em primeiro lugar, leva-nos a recorrer a Deus, em orações assíduas e fervorosas, pedindo com confiança o que ardentemente desejamos. A oração é a intérprete de nossos desejos. Faltasse esta santa concupiscência, não se fariam tantas orações na Igreja de Deus.
+
+Em segundo lugar, faz com que tenhamos maior apreço aos dons de Deus. Quanto maior é o ardor com que apetecemos alguma coisa, tanto mais valor e estima merece de nossa parte quando a conseguimos.
+
+Em terceiro lugar, o prazer que sentimos com a satisfação de nossos desejos, nos move a agradecer a Deus com mais acendrada piedade.
+
+Por conseguinte, se há casos em que é lícito cobiçar alguma coisa, devemos logicamente admitir que nem toda concupiscência é proibida.
+
+### Doutrina de São Paulo
+
+[8] Verdade é que São Paulo declarou ser pecado a concupiscência[^556]; mas suas palavras se devem tomar no mesmo sentido de que falou Moisés, à cuja autoridade se reporta.[^557] Na epístola aos Gálatas, chama-lhe concupiscência da carne, quando diz: "Vivei segundo o espírito, e assim não satisfareis os apetites da carne".[^558]
+
+### Valor moral da concupiscência
+
+[9] Portanto, a proibição não se refere à concupiscência natural, devidamente regulada, que se mantém em justos limites; muito menos, ao anseio todo espiritual de um coração puro, que nos faz suspirar precisamente por aquilo que repugna aos apetites da carne. A tal desejo somos até exortados pelas Sagradas Escrituras: "Cobiçai as minhas palavras".[^559] E mais: "Vinde a mim vós todos que me desejais".[^560]
+
+### Proíbe-se a má concupiscência
+
+[10] A proibição deste Preceito não atinge, pois, a própria potência concupiscível, que pode reverter tanto para o bem como para o mal. Antes, são absolutamente proibidas as aplicações do mau apetite, que se chama concupiscência da carne e acendalha do pecado; pois, se nelas houver consentimento da vontade, devemos sempre considerá-las como verdadeiros pecados.
+
+Nestas condições, só é interdito o prazer de cobiçar, ao qual o Apóstolo chama concupiscência da carne[^561], a saber, aquelas manifestações da concupiscência, que excedem os termos da razão, e não se detêm nos limites marcados por Deus.
+
+### Desejar coisas pecaminosas
+
+[11] Tal concupiscência é reprovável, ou porque cobiça o mal, como sejam adultérios, bebedeiras, homicídios e outros crimes nefandos, dos quais falou o Apóstolo: "Não cobicemos o mal como eles [os judeus] cobiçaram"[^562]; — ou porque há outras razões, para não cobiçarmos coisas, que aliás não são más por sua natureza.
+
+Nessa categoria entram todas as coisas, cuja posse nos é defesa por Deus ou pela Igreja, pois não nos é lícito cobiçar o que nos for absolutamente proibido de possuir. Tal acontecia outrora, na Antiga Lei, com o ouro e a prata, de que eram fundidos os ídolos. No Deuteronômio, o Senhor havia proibido que alguém os cobiçasse.[^563]
+
+Há, além disso, outra razão de se proibir a cobiça. É por ser desordenada, quando, por exemplo, se desejam bens alheios: casa, servo, serva, campo, mulher, boi, jumento, e outras coisas mais. Pelo fato de serem bens alheios, a Lei Divina proíbe de cobiçá-los. O desejo de tais coisas é desordenado, e constitui uma culpa gravíssima, desde que a vontade lhe preste consentimento.
+
+### Cobiçar coisas alheias
+
+[12] Mas só se comete realmente pecado, quando a alma, sob a ação dos maus desejos, se compraz em coisas pecaminosas, dando-lhes pleno consentimento, ou pelo menos não lhes oferecendo resistência.[^564] É o que ensina Santiago, ao descrever a origem e o desenvolvimento do pecado: "Cada qual é tentado pela sua própria concupiscência, que o seduz e arrebata. Depois de conceber, a concupiscência dá vida ao pecado. E depois de cometido, o pecado produz a morte".[^565]
+
+### Recapitulação
+
+[13] A proibição do Preceito: "Não cobiçarás" significa, pois, que devemos refrear nossa avidez por coisas alheias. Com efeito, a ganância dos bens alheios é desmedida, é infinita, e nunca se dá por satisfeita, como diz a Escritura: "O avarento jamais se fartará de dinheiro".[^566] Em Isaías também se lê a seguinte passagem: "Ai de vós, que aglomerais casas e casas, e emendais campo a campo…"[^567]
+
+Entretanto, se explicarmos [o Preceito] palavra por palavra, compreender-se-á melhor a fealdade e graveza desse pecado.
+
+## Explicação verbal
+
+### Nem a casa
+
+[14] Sendo assim, o pároco ensinará que, por casa, não se entende apenas o lugar de nossa morada, mas em geral todo o nosso patrimônio. Nesse sentido costumam tomar a palavra as Sagradas Escrituras. No Êxodo, por exemplo, está escrito que o Senhor edificou casas para as parteiras[^568]; isto queria dizer que lhes aumentou os bens de fortuna.
+
+Desta interpretação se deduz que o Preceito nos proíbe aspirar gananciosamente às riquezas[^569], e invejar a opulência, o poder, e a nobreza dos outros; manda, pelo contrário, contentar-nos com a nossa condição, qual que ela seja, humilde ou elevada. Por conseguinte, devemos ficar cientes de que é proibido cobiçar a glória alheia, porque esta também se inclui na noção "casa".
+
+### Nem boi, nem jumento
+
+[15] Os termos seguintes "nem boi, nem jumento", provam que é proibido cobiçar não só os bens de grande valor, como casa, nobreza e fama, mas também os bens somenos, de qualquer natureza, sejam animados, ou inanimados.
+
+### Nem servo
+
+[16] Pela outra palavra "nem servo" entendem-se tanto os cativos de guerra, como as demais categorias de escravos. Não nos é lícito cobiçá-los, da mesma forma que não podemos cobiçar outros bens alheios.
+
+Quando, porém, pessoas livres servem voluntariamente a outrem, quer por ajuste de salário, quer por amizade e consideração, ninguém as deve subornar e seduzir, de modo algum a largarem seu serviço voluntário, nem por palavras de ameaça, nem por falsas pretensões, nem por ofertas e propinas. Ainda mais. Se elas abandonaram os patrões, antes de expirar o termo de contrato, devemos adverti-las que este Preceito as obriga a retornarem sem mais demora.
+
+### Do teu próximo
+
+[17] Neste Preceito, a palavra "do teu próximo" tem por fim apontar o mau vezo com que os homens cobiçam justamente os campos que ficam vizinhos, as casas mais próximas, ou qualquer benfeitoria contígua à sua propriedade. A vizinhança de per si favorece a amizade; mas o vício da cobiça a desvia, do amor, para a malquerença.
+
+### Desejo de adquirir legalmente
+
+[18] De modo algum transgridem este Mandamento os que desejam comprar ou de fato compram, pelo seu justo preço, as coisas que o próximo tenha para vender. Pois assim não lesam o próximo, antes lhe prestam grande serviço, porque o dinheiro é para ele mais útil e vantajoso, do que as coisas postas à venda.
+
+### A mulher do próximo
+
+[19] Ao Mandamento que proíbe de cobiçar as coisas alheias, segue-se outro que, por sua vez, proíbe desejar a mulher do próximo. Esta Lei interdiz não só a lascívia, com que o adúltero cobiça a mulher do próximo, mas também o desejo de casar com a mulher de outrem.
+
+Quando era ainda permitido o libelo de repúdio, podia facilmente acontecer que um homem esposasse uma mulher repudiada por outro. Mas Nosso Senhor o proibiu, para os maridos não serem tentados a largar suas esposas, e para as mulheres não se mostrarem tão duras e esquivas a seus maridos, que os põem quase na emergência de repudiá-las.
+
+Agora, esse pecado[^570] se reveste de maior gravidade, porque a ninguém é permitido casar com uma mulher, embora repudiada pelo marido, enquanto este não tiver morrido. Por isso mesmo, quem deseja a mulher do próximo, facilmente desliza de um mau desejo a outro. Ou deseja que o marido dela morra, ou deseja cometer adultério.
+
+O mesmo princípio é de aplicar às mulheres ligadas a outrem por legítimos esponsais. Não é lícito cobiçá-las, porque quem procura desfazer esponsais, quebra um sacrossanto contrato de fidelidade.
+
+Se o cobiçar uma mulher casada é uma grande iniquidade, assim também não é permitido, de maneira alguma, desejar matrimônio com uma mulher que se consagrou ao serviço de Deus, no estado religioso.
+
+### Quando não há pecado
+
+[20] Todavia, não quebra o Preceito quem deseja por esposa uma mulher casada, julgando tratar-se de pessoa solteira; por sinal que não a desejaria por esposa, se soubesse que já era casada. Assim aconteceu com Faraó e Abimelec. Lemos, nas Sagradas Escrituras, que ambos queriam Sara por esposa, supondo fosse uma irmã solteira, que não a mulher de Abraão.[^571]

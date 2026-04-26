@@ -74,3 +74,75 @@ Em quarto lugar, ressuscitemos para uma vida nova e gloriosa, evitando tudo o qu
 #### Aprofundamento — *Catecismo de Trento*
 
 > Desceu aos infernos, ao terceiro dia ressurgiu dos mortos.
+
+## Importância do Artigo
+
+[1] Se muito importa conhecer a glória da sepultura de Jesus Cristo Nosso Senhor, conforme acabamos de tratar, de maior alcance para o povo cristão é saber os brilhantes triunfos que Ele alcançou, com a derrota do demônio, e com a tomada dos infernos.
+
+É disso que vamos ocupar-nos agora, juntamente com o Mistério da Ressurreição. Poderíamos, sem dúvida, falar desta parte separadamente; mas, a exemplo dos Santos Padres, preferimos juntá-la com a descida aos infernos.
+
+A primeira cláusula deste Artigo propõe-nos a crer que, após a morte de Cristo, Sua Alma desceu aos infernos, e lá ficou todo o tempo que Seu Corpo esteve no sepulcro.
+
+Com estas palavras, confessamos igualmente que a mesma Pessoa de Cristo esteve nos infernos, ao mesmo tempo que jazia no túmulo. Este fato não deve estranhar a ninguém. Conforme já dissemos várias vezes, a Divindade nunca se apartou da alma nem do corpo, não obstante a separação que houve entre alma e corpo.
+
+## Ressuscitou ao terceiro dia
+
+[7] Vem agora a segunda cláusula do presente Artigo. O pároco deverá explicá-la com a máxima atenção, conforme insinua o Apóstolo: "Lembra-te de que Nosso Senhor Jesus Cristo ressuscitou dentre os mortos!"[^333] Não há dúvida, esta ordem dada a Timóteo se estende também a todos os mais que tenham encargo de almas.
+
+Vejamos, pois, o significado deste Artigo. Depois que Cristo Nosso Senhor rendeu o espírito na Cruz, na sexta-feira à hora nona, foi sepultado na tarde do mesmo dia, pelos Seus Discípulos.
+
+Com a permissão do procurador Pilatos, haviam descido da cruz o Corpo do Senhor, e depositado num sepulcro, que ficava num jardim das imediações.
+
+No terceiro dia depois da morte, que era um domingo[^335], pela madrugada, Sua Alma se uniu novamente ao Corpo. Deste modo, Aquele que por três dias estivera morto, tornou à vida que, com a morte, havia deixado, e ressuscitou.
+
+[8] Não devemos tomar o termo "ressurreição" só no sentido de que Cristo foi ressuscitado dos mortos, como o foram muitos outros; mas que ressurgiu por Sua própria virtude e poder.
+
+Esta maneira de ressurgir só a Ele podia competir, pois que não está nas leis da natureza, nem homem algum teve jamais o poder de passar da morte à vida, por própria virtude [e suficiência]. Isto cabe ùnicamente ao supremo poder de Deus, como se depreende das palavras do Apóstolo: "Embora fosse crucificado na fraqueza [da carne], vive todavia pelo poder de Deus".[^336]
+
+Tal virtude divina nunca se separou do Corpo de Cristo no sepulcro, nem de Sua Alma, quando descera aos infernos. De um lado, estava presente no corpo, pelo que este podia unir-se novamente à alma; de outro lado, [estava presente] também na alma, pelo que esta podia voltar outra vez ao corpo. Nestas condições, foi possível [a Cristo] tornar à vida por Sua própria virtude, e ressurgir dos mortos.
+
+Cheio do Espírito de Deus, David já o havia predito com as seguintes palavras: "Fizeram-n'O triunfar: a Sua destra e o Seu santo braço".[^337] Além disso, o próprio Nosso Senhor o reafirmou com o Seu divino testemunho: "Largo a Minha vida, para a tomar de novo. Eu tenho o poder de largá-la, e tenho o poder de tomá-la novamente".[^338] Corroborando a verdade de Sua doutrina, dissera também aos Judeus: "Arrasai este templo, e em três dias Eu o tornarei a construir".[^339]
+
+Na verdade, os judeus entenderam tal linguagem com relação ao Templo e sua magnífica construção de pedra, mas Ele falava do templo de Seu Corpo, como no mesmo lugar declaram as palavras da Escritura.
+
+Se lemos às vezes, nas Escrituras, que Cristo foi ressuscitado pelo Pai[^340], estas passagens devem aplicar-se a Cristo em Sua natureza humana. Anàlogamente, devem aplicar-se, por sua vez, a Cristo em Sua natureza divina as passagens que dizem ter ressuscitado por Sua própria virtude.
+
+[9] É também um apanágio de Cristo, ter sido o primeiro de todos os homens a receber o divino benefício da ressurreição. Por conseguinte, nas Escrituras é chamado não só o "Primogênito dentre os mortos"[^342], como também o "Primogênito dos mortos".[^343] O Apóstolo declara: "Cristo ressurgiu dos mortos, como primícias dos que dormem; porquanto por um homem veio a morte, assim também por um homem [vem] a ressurreição dos mortos. E como todos sofrem a morte em Adão, assim todos terão vida em Cristo. Cada qual, porém, conforme a sua ordem. Cristo como primeiro [de todos], logo mais aqueles que pertencem a Cristo".[^344]
+
+Estas palavras devem entender-se no sentido de uma ressurreição perfeita, pela qual despertamos para uma vida imortal, ficando cabalmente abolida toda necessidade de morrer. Ora, em tal gênero [de ressurreição], cabe a Cristo Nosso Senhor o primeiro lugar.
+
+Se falarmos, porém, de ressurreição no sentido de regresso à vida, mas ao qual se liga a necessidade de morrer segunda vez, muitos outros houve que, antes de Cristo, foram ressuscitados dos mortos. Todos, porém, tornaram a viver, sob a única condição de morrerem novamente.[^345]
+
+Cristo Nosso Senhor, ao contrário, ressurgiu de tal maneira que, vencendo e subjugando a morte, já não pode morrer. Confirma este fato a evidência daquela passagem: "Ressuscitado dos mortos, Cristo já não morre. A morte já não tem poder sobre Ele".[^346]
+
+[10] O Artigo acrescenta ainda as palavras "ao terceiro dia". O pároco deve, pois, explicá-las, para que os fiéis não julguem que Nosso Senhor esteve no sepulcro três dias inteiros.
+
+Como estivera encerrado no sepulcro, pelo espaço todo de um dia natural, parte da véspera e parte do terceiro dia, podemos dizer, com toda a expressão da verdade, que [Cristo] permaneceu três dias na sepultura, e que ressuscitou dos mortos ao terceiro dia.
+
+Para dar prova de Sua Divindade, não quis retardar a ressurreição até o fim do mundo. De outro lado, para crermos que era homem de verdade, e que realmente tinha morrido, não ressuscitou logo depois da morte, mas [esperou até] ao terceiro dia. Este intervalo [Lhe] pareceu suficiente para demonstrar a realidade de Sua Morte.
+
+## Importância fundamental da Ressurreição
+
+[11] Os Padres do Primeiro Concílio de Constantinopla puseram aqui o acréscimo "segundo as Escrituras". Se introduziram no Símbolo de Fé esta expressão tomada do Apóstolo[^347], é por que o mesmo Apóstolo ensina a necessidade fundamental do mistério da Ressurreição: "Se Cristo não ressuscitou, de nada vale pois a nossa pregação, e para nada adianta a vossa fé!" E ainda: "Se Cristo não ressuscitou, vã é a vossa fé, pois ainda estais com vossos pecados".[^348]
+
+Por isso é que, cheio de admiração pela verdade deste Artigo, Santo Agostinho escreveu: "Que muito crermos que Cristo morreu? Também os pagãos, os judeus, e todos os maus o acreditam. Todos crêem que morreu. A fé [característica] dos cristãos é a Ressurreição de Cristo. O que muito importa é crermos que ressuscitou".[^349]
+
+Esta é também a razão por que Cristo Nosso Senhor falava tão amiúde de Sua própria Ressurreição. Quase nunca Se entretinha de Sua Paixão com os Discípulos, sem discorrer [também] acerca da Ressurreição. Disse, por exemplo: "O Filho do Homem será entregue aos gentios, escarnecido, flagelado e cuspido. Depois de O flagelarem, hão de dar-Lhe a morte". E por fim acrescentou: "E ressuscitará ao terceiro dia".[^350]
+
+Quando os judeus Lhe pediram confirmasse Sua doutrina com algum sinal ou prodígio, respondeu: "Nenhum outro sinal lhes será dado senão o sinal de Jonas. Assim como Jonas esteve três dias e três noites no ventre do cetáceo, assim o Filho do Homem, afirmou Ele, estará três dias e três noites no seio da terra".[^351]
+
+No entanto, para melhor compreendermos o alcance e a significação deste Artigo, há três questões que devemos analisar mais de perto: Primeiro, por que motivo devia Cristo ressuscitar; segundo, qual era a finalidade da Ressurreição; por último, quais são os frutos que dela resultaram em nosso benefício.
+
+[12] Encarando a primeira questão, era necessário que [Cristo] ressuscitasse para manifestar a justiça de Deus. Convinha, sob todos os aspectos, que Deus exaltasse Aquele que, para Lhe obedecer, Se havia rebaixado e fora coberto das maiores ignomínias. O Apóstolo alega esta razão, quando escreve aos Filipenses: "Humilhou-Se a Si mesmo, fazendo-Se obediente até a morte, e morte de cruz. Por isso é que Deus também O exaltou".[^352]
+
+Além do mais, [a Ressurreição de Cristo] devia consolidar em nós a fé, sem a qual o homem não pode justificar-se. A maior prova de que Cristo era Filho de Deus, deve ser o fato de que ressuscitou dentre os mortos por Sua própria virtude.
+
+E ainda, [a Ressurreição] devia nutrir e apoiar a nossa esperança. Uma vez que Cristo ressuscitou, temos a firme esperança de que também nós havemos de ressurgir; porquanto os membros devem chegar à mesma condição [em que se acha] também a cabeça.
+
+Esta é a conclusão que o Apóstolo parece tirar de seus argumentos, quando escreve aos Coríntios e aos Tessalonicenses.[^353] É o que também diz São Pedro, o Príncipe dos Apóstolos: "Bendito seja Deus Pai de Nosso Senhor Jesus Cristo, que, segundo a Sua grande misericórdia, pela Ressurreição de Jesus Cristo dentre os mortos, nos regenerou para uma esperança viva, para uma herança incorruptível".[^354]
+
+Como última das razões deve ensinar-se que a Ressurreição de Nosso Senhor era necessária, para consumar o mistério de nossa Salvação e Redenção.
+
+Pela Sua Morte, Cristo nos remiu dos pecados. Pela Sua Ressurreição, restituiu-nos os preciosos bens que havíamos perdido, em consequência de nossa prevaricação. Eis por que o Apóstolo disse: "Cristo foi entregue por causa de nossos pecados, e ressuscitou por causa de nossa justificação".[^355]
+
+Por conseguinte, para que nada faltasse à salvação do gênero humano, [Cristo] precisava também ressurgir, da mesma forma que precisava morrer.

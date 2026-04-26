@@ -95,3 +95,231 @@ A grandeza da recompensa. — A quinta razão é tirada da grandeza da recompens
 > **Escritura.** *Não terás outros deuses diante de mim.* — Êxodo 20, 3
 
 > *Senhor, os deuses que fabrico são maus. Derribai-os hoje. Sede Aquele que adoro.*
+
+---
+
+#### Aprofundamento — *Catecismo de Trento*
+
+## III. Conteúdo do 1º Mandamento
+
+### 1. Manda a fé, esperança e caridade
+
+[4] A primeira cláusula abrange o preceito da fé, esperança e caridade. Ora, se de Deus afirmamos que é imóvel, imutável, e sempre igual a Si mesmo, assiste-nos toda a razão para dizermos que é fiel também, sem a menor sombra de injustiça. Daí decorre para nós a obrigação de aceitarmos as Suas palavras, e de crermos plenamente em Sua autoridade.
+
+E quem medita em Sua onipotência, Sua clemência, Sua ativa propensão para fazer benefícios, será ainda capaz de não pôr n'Ele todas as suas esperanças?
+
+E poderá alguém deixar de amá-l'O, se contemplar os tesouros de Sua bondade e amor, que Ele derramou sobre nós?[^77]
+
+Por isso, nas Sagradas Escrituras, quando Deus intima Suas ordens e prescrições, costuma dizer, à guisa de exórdio e de conclusão: "Eu sou o Senhor teu Deus".[^78]
+
+### 2. Proíbe: a) idolatria
+
+[5] A segunda cláusula do Preceito reza assim: "Não terás deuses estranhos diante de Mim". O Legislador exprimiu-Se desta forma, não porque uma redação positiva — "só a Mim adorarás como Deus" — não declarasse com bastante clareza o sentido do preceito, pois se Deus existe, só pode ser um único: mas foi antes por causa da cegueira de tantos homens, que naquele tempo faziam profissão de adorar o Deus verdadeiro, e não obstante veneravam uma multidão de deuses.
+
+Desses homens, havia muitos entre os próprios Hebreus, aos quais Elias acusava de manquejarem para dois lados.[^79] Assim também procediam os Samaritanos, que adoravam simultaneamente o Deus de Israel e os deuses dos gentios.[^80]
+
+### Corolário: Razão por que este Preceito é o primeiro e o maior de todos
+
+[6] A tais explicações deve acrescentar-se que este Preceito é o primeiro e o maior de todos, não só pela ordem cronológica, mas também por sua natureza, dignidade e excelência. De nossa parte, merece Deus amor e vassalagem num grau infinitamente maior, do que o mereceria qualquer senhor ou rei.
+
+Foi Ele quem nos criou, Ele é quem nos governa, quem nos nutre desde as entranhas de nossa mãe, e quem dali nos tirou à luz do mundo. Ele mesmo nos dá tudo quanto precisamos para a nossa vida e subsistência.
+
+### b) Os pecados contra a fé, esperança e caridade
+
+[7] Pecam contra este Preceito todos aqueles que não têm fé, nem esperança, nem caridade. E seu pecado abrange muitas variantes. A essa classe de homens pertencem os que caem em heresia, não crendo as verdades que a Santa Madre Igreja propõe a crer; os que acreditam em sonhos, agouros, e outras coisas sumamente supersticiosas[^81]; os que desesperam de sua própria salvação, e não confiam na bondade divina; os que se apóiam sòmente em riquezas, saúde, vigor corporal.
+
+Desta matéria, encontra-se uma explicação mais ampla nos autores moralistas, na parte que trata dos vícios e dos pecados.
+
+### 3. Permite o culto dos Anjos e Santos
+
+[8] Na exposição deste Mandamento, é preciso pôr em evidência que não são contrárias às suas prescrições a veneração e a invocação dos Santos, dos Anjos, das almas bem-aventuradas que já gozam da glória celestial[^82], nem tampouco o culto de seus corpos e relíquias mortais, na forma que sempre foi admitida pela Igreja Católica.[^83]
+
+#### a) Razões para venerar Anjos e Santos
+
+Quando um rei decreta que nenhuma pessoa apareça como rei, e consinta em receber régias homenagens, quem seria tão insensato de concluir, sem mais nem menos, que o rei com isso proíba as honras devidas a seus magistrados?
+
+Dizem, é verdade, que os cristãos se prostram diante dos Anjos, a exemplo dos santos varões do Antigo Testamento[^84]; todavia, não se trata da mesma veneração que eles tributam a Deus.[^85]
+
+Se por vezes lemos nas Escrituras[^86] que os Anjos se opuseram a que os homens os venerassem, deve entender-se no sentido de não quererem para si aquela veneração que só a Deus compete.
+
+#### b) Culto dos Anjos
+
+[9] O mesmo Espírito Santo que disse: "Só a Deus honra e glória"[^87], também ordenou honrássemos os pais e as pessoas mais velhas.[^88] Além disso, como narram as Escrituras, santos varões que veneravam um só Deus, "adoravam os reis", quer dizer, prostravam-se suplicantes diante de sua presença.[^89]
+
+##### ... pela sua dignidade
+
+Ora, se os reis, por quem Deus governa o mundo[^90], são objeto de tão grandes homenagens, muito maiores são as honras que devemos prestar aos espíritos angélicos, que Deus quis fossem os Seus servidores[^91], tanto mais que esses espíritos bem-aventurados excedem os próprios reis em dignidade.
+
+E Deus serve-Se de Seu ministério, para o governo, não só de Sua Igreja, mas também de todas as outras coisas criadas. Pela assistência dos Anjos, embora invisível aos nossos olhos, somos cotidianamente preservados dos maiores perigos, tanto da alma como do corpo.
+
+##### ... pelo seu amor para conosco
+
+Acresce ainda a caridade com que eles nos amam, e que os induz a rezar pelas províncias confiadas à sua direção, como fàcilmente verificamos nas Escrituras.[^92] Sem dúvida alguma, o mesmo fazem por aqueles que são os seus tutelados, pois a Deus oferecem as nossas orações e as nossas lágrimas.[^93]
+
+Por tal motivo, Nosso Senhor ensinou, no Evangelho, que se não devia dar escândalo aos pequeninos, "porque os seus Anjos no céu estão contemplando, continuamente, a face do Pai que está no céu".[^94]
+
+[10] Eles devem, portanto, ser invocados, já porque contemplam a Deus sem cessar, já porque com a maior boa vontade patrocinam a nossa salvação, conforme lhes foi encomendado.
+
+##### ... pelos exemplos da Bíblia
+
+Nas Sagradas Escrituras, apresentam-se testemunhos de tal invocação. Ao Anjo, com quem havia lutado, pediu Jacob que o abençoasse. Chegou até a obrigá-lo, pois dizia que o não largaria, se não depois de ter recebido a bênção.[^95] Esta lhe foi dada, não só quando o Anjo estava à sua vista, mas também quando não o via de maneira alguma, pois ele disse mais tarde: "O Anjo que me livrou de todos os males, abençoe estes rapazes".[^96]
+
+#### c) Culto dos Santos
+
+[11] Daqui também se pode tirar outra conclusão. O culto e a invocação dos Santos que adormeceram na paz do Senhor, a veneração de suas relíquias e cinzas, longe de diminuírem a glória de Deus, dão-lhe o maior vulto possível, na proporção que animam e reforçam a esperança dos homens, e os induzem a imitarem os Santos.
+
+##### ... doutrina definida
+
+Este efeito é encarecido pelo Segundo Concílio de Nicéia[^97], pelos Concílios de Gangres[^98] e de Trento, e pela autoridade dos Santos Padres.[^99]
+
+##### ... Tradição apostólica
+
+[12] A fim de se pôr em melhores condições de rebater os adversários desta verdade, leia o pároco antes de tudo o livro de São Jerônimo contra Vigilâncio, e as obras de São João Damasceno; a cujas provas se emparelha, como argumento principal, o costume de origem apostólica, sempre mantido e conservado pela Igreja de Deus.
+
+##### ... Testemunhos bíblicos
+
+E quem poderia exigir prova mais cabal e evidente, do que o testemunho das Sagradas Escrituras, quando celebram de maneira admirável os louvores dos Santos? Na verdade, de alguns Santos há encômios de inspiração verdadeiramente divina.[^100] Ora, se as Sagradas Escrituras apregoam os seus louvores, por que não deveriam os homens render-lhes, de sua parte, uma honra toda particular?
+
+##### ... vantagens do culto aos Santos
+
+Outro motivo, talvez mais poderoso, para a sua veneração e invocação é que os Santos rezam, assiduamente, pela salvação dos homens[^101], e que Deus nos outorga muitos benefícios, em consideração ao seu mérito e caridade.
+
+Se "no céu reina alegria, quando um só pecador faz penitência"[^102], será possível que os moradores do céu não socorram os penitentes na terra? Se os invocarmos, não nos alcançarão o perdão dos pecados, e não nos garantirão a graça de Deus?
+
+#### d) Objeções contra o culto dos Santos
+
+[13] Poderá alegar-se, como de fato alguns alegam, que o patrocínio dos Santos é supérfluo, porque Deus não precisa de medianeiro para atender as nossas orações.
+
+Estas ímpias asserções se rebatem facilmente com as palavras de Santo Agostinho de que Deus não concede muitas coisas, se não houver a intervenção de um mediador e advogado.[^103] Isto se prova pelos preclaros exemplos de Abimelec e dos amigos de Job. Deus perdoou-lhes os pecados, só depois que Abraão e Job intercederam por eles.[^104]
+
+Podem ainda objetar que, recorrendo aos Santos como nossos mediadores e advogados[^105], só o fazemos por ausência e debilidade de fé. Mas que resposta terão eles ao luminoso exemplo do Centurião?[^106] Deus Nosso Senhor enalteceu a sua fé com os maiores elogios, apesar de ter o homem enviado ao Salvador os anciãos dos judeus, para que lhe impetrassem a cura do servo doente.[^107]
+
+[14] Força nos é confessar que só nos foi dado um único mediador na pessoa de Cristo Nosso Senhor.[^108] Só Ele nos reconciliou com o Pai Celestial, por meio do Seu Sangue.[^109] Ele entrou uma só vez no Santo dos Santos, consumou uma Redenção eterna[^110], e não cessa de interceder por nós.[^111]
+
+Mas daqui não se pode em absoluto concluir que não seja lícito recorrer à benevolência dos Santos. Se não fora permitido valer-nos da proteção dos Santos, porque Jesus Cristo é o nosso único Patrono, o Apóstolo nunca cairia no erro de desejar, com tanta instância, que seus irmãos vivos o secundassem com orações diante de Deus.[^112] Pois, nesse caso, as orações dos vivos não fariam menos quebra à honra e glória de Cristo Medianeiro, do que a intercessão dos Santos no céu.[^113]
+
+#### e) Culto das Relíquias
+
+[15] Pelos milagres, que acontecem junto às sepulturas dos Santos, haverá quem descreia da veneração que lhes é devida, e da proteção que deles recebemos? Homens que estavam privados da vista, das mãos, de todos os seus membros, recuperam sua integridade primitiva; os mortos são restituídos à vida; os demônios são expulsos dos corpos humanos.
+
+E são fatos que Santo Ambrósio e Santo Agostinho abonam, em suas obras, como testemunhas de absoluta confiança; não por terem ouvido, à maneira de muitos; nem por terem lido, como fazem pessoas de reconhecida autoridade; mas, por terem presenciado pessoalmente.[^114]
+
+Para que tantas palavras? Se as vestes, os lenços, a sombra dos Santos, já antes de sua morte, removiam as doenças e refaziam as forças do corpo[^115]: quem se atreverá a negar que Deus não possa fazer os mesmos milagres, servindo-Se das sagradas cinzas, dos ossos, e de outras relíquias dos Santos?
+
+Bem o demonstrou aquele cadáver, lançado por acaso na sepultura de Eliseu. Apenas lhe tocou no corpo, reanimou-se no mesmo instante.[^116]
+
+## II. Divisão dos Mandamentos em duas Tábuas
+
+[3] O pároco ensinará[^76] que, no Decálogo, figuram primeiro os deveres para com Deus, e depois os deveres para com o próximo, porque em Deus está a razão de ser daquilo que devemos prestar ao próximo; pois só amamos o próximo segundo o preceito de Deus, quando o amamos por causa de Deus. Estas coisas estão gravadas na primeira Tábua da Lei.
+
+Em segundo lugar, deverá o pároco mostrar como as palavras supracitadas encerram em si dois dispositivos, um dos quais é um preceito, e o outro é uma proibição.
+
+Com efeito, quando se afirma: "Não terás deuses estranhos diante de Mim" — declara-se implicitamente: "A Mim adorarás, como o Deus verdadeiro, e não renderás culto a deuses estranhos".
+
+## III. Conteúdo do 1º Mandamento
+
+### 1. Manda a fé, esperança e caridade
+
+[4] A primeira cláusula abrange o preceito da fé, esperança e caridade. Ora, se de Deus afirmamos que é imóvel, imutável, e sempre igual a Si mesmo, assiste-nos toda a razão para dizermos que é fiel também, sem a menor sombra de injustiça. Daí decorre para nós a obrigação de aceitarmos as Suas palavras, e de crermos plenamente em Sua autoridade.
+
+E quem medita em Sua onipotência, Sua clemência, Sua ativa propensão para fazer benefícios, será ainda capaz de não pôr n'Ele todas as suas esperanças?
+
+E poderá alguém deixar de amá-l'O, se contemplar os tesouros de Sua bondade e amor, que Ele derramou sobre nós?[^77]
+
+Por isso, nas Sagradas Escrituras, quando Deus intima Suas ordens e prescrições, costuma dizer, à guisa de exórdio e de conclusão: "Eu sou o Senhor teu Deus".[^78]
+
+### 2. Proíbe: a) idolatria
+
+[5] A segunda cláusula do Preceito reza assim: "Não terás deuses estranhos diante de Mim". O Legislador exprimiu-Se desta forma, não porque uma redação positiva — "só a Mim adorarás como Deus" — não declarasse com bastante clareza o sentido do preceito, pois se Deus existe, só pode ser um único: mas foi antes por causa da cegueira de tantos homens, que naquele tempo faziam profissão de adorar o Deus verdadeiro, e não obstante veneravam uma multidão de deuses.
+
+Desses homens, havia muitos entre os próprios Hebreus, aos quais Elias acusava de manquejarem para dois lados.[^79] Assim também procediam os Samaritanos, que adoravam simultaneamente o Deus de Israel e os deuses dos gentios.[^80]
+
+### Corolário: Razão por que este Preceito é o primeiro e o maior de todos
+
+[6] A tais explicações deve acrescentar-se que este Preceito é o primeiro e o maior de todos, não só pela ordem cronológica, mas também por sua natureza, dignidade e excelência. De nossa parte, merece Deus amor e vassalagem num grau infinitamente maior, do que o mereceria qualquer senhor ou rei.
+
+Foi Ele quem nos criou, Ele é quem nos governa, quem nos nutre desde as entranhas de nossa mãe, e quem dali nos tirou à luz do mundo. Ele mesmo nos dá tudo quanto precisamos para a nossa vida e subsistência.
+
+### b) Os pecados contra a fé, esperança e caridade
+
+[7] Pecam contra este Preceito todos aqueles que não têm fé, nem esperança, nem caridade. E seu pecado abrange muitas variantes. A essa classe de homens pertencem os que caem em heresia, não crendo as verdades que a Santa Madre Igreja propõe a crer; os que acreditam em sonhos, agouros, e outras coisas sumamente supersticiosas[^81]; os que desesperam de sua própria salvação, e não confiam na bondade divina; os que se apóiam sòmente em riquezas, saúde, vigor corporal.
+
+Desta matéria, encontra-se uma explicação mais ampla nos autores moralistas, na parte que trata dos vícios e dos pecados.
+
+### 3. Permite o culto dos Anjos e Santos
+
+[8] Na exposição deste Mandamento, é preciso pôr em evidência que não são contrárias às suas prescrições a veneração e a invocação dos Santos, dos Anjos, das almas bem-aventuradas que já gozam da glória celestial[^82], nem tampouco o culto de seus corpos e relíquias mortais, na forma que sempre foi admitida pela Igreja Católica.[^83]
+
+#### a) Razões para venerar Anjos e Santos
+
+Quando um rei decreta que nenhuma pessoa apareça como rei, e consinta em receber régias homenagens, quem seria tão insensato de concluir, sem mais nem menos, que o rei com isso proíba as honras devidas a seus magistrados?
+
+Dizem, é verdade, que os cristãos se prostram diante dos Anjos, a exemplo dos santos varões do Antigo Testamento[^84]; todavia, não se trata da mesma veneração que eles tributam a Deus.[^85]
+
+Se por vezes lemos nas Escrituras[^86] que os Anjos se opuseram a que os homens os venerassem, deve entender-se no sentido de não quererem para si aquela veneração que só a Deus compete.
+
+#### b) Culto dos Anjos
+
+[9] O mesmo Espírito Santo que disse: "Só a Deus honra e glória"[^87], também ordenou honrássemos os pais e as pessoas mais velhas.[^88] Além disso, como narram as Escrituras, santos varões que veneravam um só Deus, "adoravam os reis", quer dizer, prostravam-se suplicantes diante de sua presença.[^89]
+
+##### ... pela sua dignidade
+
+Ora, se os reis, por quem Deus governa o mundo[^90], são objeto de tão grandes homenagens, muito maiores são as honras que devemos prestar aos espíritos angélicos, que Deus quis fossem os Seus servidores[^91], tanto mais que esses espíritos bem-aventurados excedem os próprios reis em dignidade.
+
+E Deus serve-Se de Seu ministério, para o governo, não só de Sua Igreja, mas também de todas as outras coisas criadas. Pela assistência dos Anjos, embora invisível aos nossos olhos, somos cotidianamente preservados dos maiores perigos, tanto da alma como do corpo.
+
+##### ... pelo seu amor para conosco
+
+Acresce ainda a caridade com que eles nos amam, e que os induz a rezar pelas províncias confiadas à sua direção, como fàcilmente verificamos nas Escrituras.[^92] Sem dúvida alguma, o mesmo fazem por aqueles que são os seus tutelados, pois a Deus oferecem as nossas orações e as nossas lágrimas.[^93]
+
+Por tal motivo, Nosso Senhor ensinou, no Evangelho, que se não devia dar escândalo aos pequeninos, "porque os seus Anjos no céu estão contemplando, continuamente, a face do Pai que está no céu".[^94]
+
+[10] Eles devem, portanto, ser invocados, já porque contemplam a Deus sem cessar, já porque com a maior boa vontade patrocinam a nossa salvação, conforme lhes foi encomendado.
+
+##### ... pelos exemplos da Bíblia
+
+Nas Sagradas Escrituras, apresentam-se testemunhos de tal invocação. Ao Anjo, com quem havia lutado, pediu Jacob que o abençoasse. Chegou até a obrigá-lo, pois dizia que o não largaria, se não depois de ter recebido a bênção.[^95] Esta lhe foi dada, não só quando o Anjo estava à sua vista, mas também quando não o via de maneira alguma, pois ele disse mais tarde: "O Anjo que me livrou de todos os males, abençoe estes rapazes".[^96]
+
+#### c) Culto dos Santos
+
+[11] Daqui também se pode tirar outra conclusão. O culto e a invocação dos Santos que adormeceram na paz do Senhor, a veneração de suas relíquias e cinzas, longe de diminuírem a glória de Deus, dão-lhe o maior vulto possível, na proporção que animam e reforçam a esperança dos homens, e os induzem a imitarem os Santos.
+
+##### ... doutrina definida
+
+Este efeito é encarecido pelo Segundo Concílio de Nicéia[^97], pelos Concílios de Gangres[^98] e de Trento, e pela autoridade dos Santos Padres.[^99]
+
+##### ... Tradição apostólica
+
+[12] A fim de se pôr em melhores condições de rebater os adversários desta verdade, leia o pároco antes de tudo o livro de São Jerônimo contra Vigilâncio, e as obras de São João Damasceno; a cujas provas se emparelha, como argumento principal, o costume de origem apostólica, sempre mantido e conservado pela Igreja de Deus.
+
+##### ... Testemunhos bíblicos
+
+E quem poderia exigir prova mais cabal e evidente, do que o testemunho das Sagradas Escrituras, quando celebram de maneira admirável os louvores dos Santos? Na verdade, de alguns Santos há encômios de inspiração verdadeiramente divina.[^100] Ora, se as Sagradas Escrituras apregoam os seus louvores, por que não deveriam os homens render-lhes, de sua parte, uma honra toda particular?
+
+##### ... vantagens do culto aos Santos
+
+Outro motivo, talvez mais poderoso, para a sua veneração e invocação é que os Santos rezam, assiduamente, pela salvação dos homens[^101], e que Deus nos outorga muitos benefícios, em consideração ao seu mérito e caridade.
+
+Se "no céu reina alegria, quando um só pecador faz penitência"[^102], será possível que os moradores do céu não socorram os penitentes na terra? Se os invocarmos, não nos alcançarão o perdão dos pecados, e não nos garantirão a graça de Deus?
+
+#### d) Objeções contra o culto dos Santos
+
+[13] Poderá alegar-se, como de fato alguns alegam, que o patrocínio dos Santos é supérfluo, porque Deus não precisa de medianeiro para atender as nossas orações.
+
+Estas ímpias asserções se rebatem facilmente com as palavras de Santo Agostinho de que Deus não concede muitas coisas, se não houver a intervenção de um mediador e advogado.[^103] Isto se prova pelos preclaros exemplos de Abimelec e dos amigos de Job. Deus perdoou-lhes os pecados, só depois que Abraão e Job intercederam por eles.[^104]
+
+Podem ainda objetar que, recorrendo aos Santos como nossos mediadores e advogados[^105], só o fazemos por ausência e debilidade de fé. Mas que resposta terão eles ao luminoso exemplo do Centurião?[^106] Deus Nosso Senhor enalteceu a sua fé com os maiores elogios, apesar de ter o homem enviado ao Salvador os anciãos dos judeus, para que lhe impetrassem a cura do servo doente.[^107]
+
+[14] Força nos é confessar que só nos foi dado um único mediador na pessoa de Cristo Nosso Senhor.[^108] Só Ele nos reconciliou com o Pai Celestial, por meio do Seu Sangue.[^109] Ele entrou uma só vez no Santo dos Santos, consumou uma Redenção eterna[^110], e não cessa de interceder por nós.[^111]
+
+Mas daqui não se pode em absoluto concluir que não seja lícito recorrer à benevolência dos Santos. Se não fora permitido valer-nos da proteção dos Santos, porque Jesus Cristo é o nosso único Patrono, o Apóstolo nunca cairia no erro de desejar, com tanta instância, que seus irmãos vivos o secundassem com orações diante de Deus.[^112] Pois, nesse caso, as orações dos vivos não fariam menos quebra à honra e glória de Cristo Medianeiro, do que a intercessão dos Santos no céu.[^113]
+
+#### e) Culto das Relíquias
+
+[15] Pelos milagres, que acontecem junto às sepulturas dos Santos, haverá quem descreia da veneração que lhes é devida, e da proteção que deles recebemos? Homens que estavam privados da vista, das mãos, de todos os seus membros, recuperam sua integridade primitiva; os mortos são restituídos à vida; os demônios são expulsos dos corpos humanos.
+
+E são fatos que Santo Ambrósio e Santo Agostinho abonam, em suas obras, como testemunhas de absoluta confiança; não por terem ouvido, à maneira de muitos; nem por terem lido, como fazem pessoas de reconhecida autoridade; mas, por terem presenciado pessoalmente.[^114]
+
+Para que tantas palavras? Se as vestes, os lenços, a sombra dos Santos, já antes de sua morte, removiam as doenças e refaziam as forças do corpo[^115]: quem se atreverá a negar que Deus não possa fazer os mesmos milagres, servindo-Se das sagradas cinzas, dos ossos, e de outras relíquias dos Santos?
+
+Bem o demonstrou aquele cadáver, lançado por acaso na sepultura de Eliseu. Apenas lhe tocou no corpo, reanimou-se no mesmo instante.[^116]

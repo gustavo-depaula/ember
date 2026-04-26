@@ -68,3 +68,55 @@ O quarto modo é manter-se ocupado em ocupações sadias: «A ociosidade ensinou
 #### Aprofundamento — *Catecismo de Trento*
 
 > "Não cobiçarás a casa do teu próximo, nem desejarás sua mulher, nem seu servo, nem sua serva, nem seu boi, nem seu animal de carga, nem coisa alguma que lhe pertença".[^546]
+
+## Importância e oportunidade de ambos
+
+[1] Antes de tudo, devemos saber que estes dois Preceitos, não obstante virem em último lugar, constituem por assim dizer a base para a observância de todos os mais.
+
+Pela sua formulação, inculcam que muito importa ao indivíduo coibir a concupiscência, se quiser observar fielmente os Preceitos anteriores. Pois quem não arde em desejos desordenados, e vive satisfeito com o que possui, não cobiçará o alheio; alegrar-se-á com a felicidade do próximo; glorificará a Deus imortal, e render-Lhe-á infinitas graças; respeitará o sábado[^547], isto é, gozará de uma paz inalterável; respeitará os Superiores; não lesará ninguém, por atos ou palavras, nem de qualquer outra maneira.
+
+Na verdade, germe e raiz de todos os males é a má concupiscência.[^548] Os que se deixam abrasar por ela, precipitam-se em toda a sorte de crimes e maldades.[^549]
+
+Esta reflexão levará o pároco a esmerar-se na explicação da doutrina seguinte, e tornará os fiéis mais dóceis para a receber.
+
+## Nexo entre os dois Mandamentos
+
+[2] Explicam-se, aqui, os dois Preceitos em conjunto, porque seu objeto tem semelhanças e requer quase o mesmo método de exposição. Porém, nas suas exortações e advertências, pode o pároco tratá-los juntos ou separados, conforme julgar mais conveniente.
+
+Em qualquer hipótese, quando se puser a explicar o Decálogo, deve ele fixar bem a diferença entre os dois Mandamentos, em que ponto uma cobiça se distingue da outra. Essa diferença, Santo Agostinho a salienta nas Questões sobre o Êxodo.[^550]
+
+A primeira espécie de cobiça vai só ao que é útil e proveitoso. A segunda propende à volúpia e à satisfação dos sentidos. Quem, pois, cobiça um campo ou uma casa, atende mais ao lucro do que a um prazer sensual. Aquele, todavia, que deseja a mulher do próximo, não sente a cobiça de lucro, mas arde no fogo da volúpia.
+
+## Necessidade dos Preceitos
+
+### Esclarecem o Sexto e o Sétimo Mandamentos
+
+[3] Estes Preceitos eram duplamente necessários. Primeiro, para melhor se alcançar o sentido do Sexto e Sétimo Mandamentos. Ora, pela simples luz da razão, devia ser evidente que a proibição do adultério inclui também a proibição de desejar a mulher do próximo; pois, se fora lícito cobiçar, lícito também seria o possuí-la.
+
+Entanto, a maioria dos judeus, cegos pelo pecado, eram irredutíveis em não acreditar que isso fosse proibido por Deus. Ainda mais. Depois de promulgada esta Lei de Deus, muitos que se diziam doutores da Lei persistiram na mesma aberração. É o que deduzimos das palavras de Nosso Senhor no Evangelho de São Mateus[^551]: "Ouvistes como foi dito aos antigos: Não cometerás adultério. Eu, porém, vos digo [que todo homem que lançar olhares cobiçosos a uma mulher, já cometeu adultério com ela em seu coração]".
+
+### Completam o 6º e o 7º Mandamentos
+
+[3b] Em segundo lugar, estes Preceitos são necessários, porque proíbem, clara e terminantemente, alguns pontos, que não são objeto de formal proibição no Sexto e Sétimo Mandamentos.
+
+Vejamos um exemplo. O Sétimo Mandamento proíbe que alguém cobice o alheio e se disponha a tirá-lo. Mas o presente Mandamento interdiz qualquer desejo, ainda que se possa satisfazer, justa e legalmente, se de sua consecução resultar algum dano para o próximo.
+
+## Utilidade dos Preceitos
+
+### Conhecimento do amor de Deus
+
+[4] Antes de encetarmos a explicação do Preceito, cumpre-nos mostrar aos fiéis como a instituição desta lei nos leva não só a enfrear nossas paixões, como também a reconhecer que o paternal amor de Deus para conosco não tem medida.
+
+Pelos Preceitos anteriores, Deus nos cercou com uma espécie de baluarte, para que ninguém nos lesasse tanto a nossa pessoa como a nossa propriedade. Ora, acrescentando este Preceito, quis antes de tudo evitar que nos lesássemos a nós mesmos com os nossos desejos desordenados: o que de certo aconteceria, se nos fora lícito, sem nenhuma restrição, nutrir todos os desejos e ambições.
+
+Pela interdição da cobiça, expressa neste Mandamento, Deus providenciou que o aguilhão dos desejos, causa para nós de perigosas tentações, fosse de certo modo abalado pela força deste Preceito, e não nos perturbasse com tanta insistência. Aliviados, assim, da importunação dos maus desejos, temos mais folga para nos entregar às obras de religião e piedade, que são muitas e numerosas, conforme as devemos a Deus.
+
+### Pureza interior
+
+[5] Este duplo Preceito não só nos revela o amor de Deus para conosco, mas aponta também um caráter particular da Lei Divina. Ela não se contenta com a execução externa de suas prescrições, mas quer que haja também plena adesão de nossos sentimentos.
+
+Entre as leis divinas e as humanas, existe a diferença de que estas se contentam com atos externos, enquanto aquelas exigem pureza, sinceridade e integridade de ânimo, porque Deus olha para o coração.
+
+A Lei Divina é, pois, como um espelho, no qual descobrimos os vícios de nossa natureza. Por isso, dizia o Apóstolo: "Não conheceria eu a concupiscência, se a Lei não dissesse: Não cobiçarás!"[^552]
+
+A concupiscência, que é uma acendalha do pecado, provém da culpa original. Por estar sempre integrada em nossa natureza, ela nos faz reconhecer que nascemos no pecado.[^553] Por esse motivo, devemos recorrer confiantes Àquele que unicamente pode purificar as manchas do pecado.

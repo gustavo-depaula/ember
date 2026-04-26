@@ -78,7 +78,26 @@ def read_chapter(book_dir: Path, lang: str, chapter_id: str) -> str:
     return "\n".join(lines).strip()
 
 
-def extract_section(book_dir: Path, lang: str, chapter_id: str, anchor: str) -> str:
+def resolve_anchor(anchor, lang: str) -> str:
+    """Resolve a section anchor to a string for the given language.
+
+    Anchors can be:
+      - A plain string (language-agnostic, e.g. "@opening" or "Creed")
+      - An object {"en": "...", "pt": "...", ...} with per-language anchors
+
+    The lang parameter uses codes like "en-US" and "pt-BR". Bilingual
+    anchor objects use short codes "en" and "pt". This function maps
+    between them.
+    """
+    if isinstance(anchor, str):
+        return anchor
+    if isinstance(anchor, dict):
+        lang_short = lang.split("-")[0]
+        return anchor.get(lang_short, anchor.get("en", ""))
+    return str(anchor)
+
+
+def extract_section(book_dir: Path, lang: str, chapter_id: str, anchor) -> str:
     """Extract a section from a chapter by its H2 anchor.
 
     The anchor is matched case-insensitively against the H2 heading text. The
@@ -90,15 +109,21 @@ def extract_section(book_dir: Path, lang: str, chapter_id: str, anchor: str) -> 
     (and its blank line) up to the first H2 — i.e., the introductory paragraphs
     that come before any subsection.
 
+    Anchors can be plain strings or bilingual objects {"en": "...", "pt": "..."}.
+
     Footnotes referenced inside the section but defined later in the chapter
     are preserved (we don't try to extract them); markdown renderers tolerate
     dangling footnote refs gracefully.
     """
+    resolved = resolve_anchor(anchor, lang)
+    if not resolved:
+        return ""
+
     path = book_dir / lang / f"{chapter_id}.md"
     lines = path.read_text(encoding="utf-8").splitlines(keepends=False)
 
     # Special: opening = pre-H2 content
-    if anchor.strip().lower() == "@opening":
+    if resolved.strip().lower() == "@opening":
         out = []
         skipping_h1 = True
         for line in lines:
@@ -115,7 +140,7 @@ def extract_section(book_dir: Path, lang: str, chapter_id: str, anchor: str) -> 
             out.pop()
         return "\n".join(out).strip()
 
-    anchor_lower = anchor.strip().lower()
+    anchor_lower = resolved.strip().lower()
     out = []
     in_range = False
     for line in lines:
@@ -143,8 +168,10 @@ def resolve_chapter_ref(book_dir: Path, lang: str, ref) -> str:
     """Resolve a chapter reference into text.
 
     Accepts either a string ("chapter-id" → whole chapter, minus H1) or an
-    object ({"chapter": "id", "sections": ["H2 anchor", ...]} → concatenated
-    sections). For backwards compat, sessions.json may use either form.
+    object ({"chapter": "id", "sections": [...]} → concatenated
+    sections). Sections can be plain strings or bilingual objects
+    {"en": "...", "pt": "..."}. For backwards compat, sessions.json may
+    use either form.
     """
     if isinstance(ref, str):
         return read_chapter(book_dir, lang, ref)
