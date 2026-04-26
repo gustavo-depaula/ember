@@ -1,0 +1,5 @@
+# Resumo dos Dez Mandamentos
+
+Estes são os dez preceitos a que Nosso Senhor se referiu ao dizer: «Se queres entrar na vida, guarda os mandamentos» (Mt 19, 17). Há dois princípios fundamentais de todos os Mandamentos, a saber: o amor de Deus e o amor do próximo. O homem que ama a Deus deve necessariamente fazer três coisas: (1) não pode ter outro Deus. E em apoio a isto está o Mandamento: «Não terás outros deuses»; (2) deve dar a Deus toda honra. E por isso se ordena: «Não tomarás o nome de Deus em vão»; (3) deve livremente repousar em Deus. Por isso: «Lembra-te de santificar o dia de sábado».
+
+Mas, para amar a Deus dignamente, é preciso, antes de tudo, amar o próximo. E por isso: «Honra teu pai e tua mãe». Em seguida, deve-se evitar fazer mal ao próximo por ações. «Não matarás» refere-se à pessoa do próximo; «Não cometerás adultério» refere-se à pessoa unida em matrimônio ao próximo; «Não furtarás» refere-se aos bens externos do próximo. Devemos também evitar a injúria ao próximo tanto pela palavra, «Não levantarás falso testemunho», como pelo pensamento, «Não cobiçarás os bens do teu próximo» e «Não cobiçarás a mulher do teu próximo».

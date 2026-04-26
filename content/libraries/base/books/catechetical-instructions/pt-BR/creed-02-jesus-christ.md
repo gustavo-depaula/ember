@@ -1,0 +1,52 @@
+# Segundo Artigo: «E em Jesus Cristo, seu único Filho, Nosso Senhor»
+
+Não basta aos cristãos crer num só Deus que é o Criador do Céu e da Terra e de todas as coisas; é necessário também crer que Deus é Pai e que Cristo é o verdadeiro Filho de Deus. Isto, como diz São Pedro, não é mera fábula, mas é certo e provado pela palavra de Deus no monte da Transfiguração: «Pois nós não vos demos a conhecer o poder e a presença de Nosso Senhor Jesus Cristo seguindo fábulas engenhosas, mas tendo sido testemunhas oculares da sua grandeza. Pois recebeu Ele de Deus Pai honra e glória, vindo até Ele esta voz da glória magnífica: ‹Este é o meu Filho amado, no qual pus toda a minha complacência. Ouvi-O›. E nós ouvimos esta voz vinda do Céu, quando estávamos com Ele no monte santo».[^1] O próprio Cristo Jesus, em muitos lugares, chamou Deus seu Pai, e a si mesmo Filho de Deus. Tanto os Apóstolos como os Padres puseram nos artigos da fé que Cristo é o Filho de Deus, dizendo: «E (creio) em Jesus Cristo, Seu (isto é, de Deus) único Filho».[^2]
+
+## Erros relativos ao Segundo Artigo
+
+Houve, todavia, certos hereges que erraram nesta crença. Fotino, por exemplo, sustentava que Cristo não é o Filho de Deus, mas um homem bom que, pela boa vida e por fazer a vontade de Deus, mereceu ser chamado filho de Deus por adoção; e, assim, Cristo, que viveu uma vida boa e fez a vontade de Deus, mereceu ser chamado filho de Deus. Além disso, esse erro fazia com que Cristo não tivesse vivido antes da Santíssima Virgem, mas tivesse começado a existir somente na sua concepção. Assim, há aqui dois erros: o primeiro, que Cristo não é o verdadeiro Filho de Deus segundo Sua natureza; e o segundo, que Cristo, em todo o seu ser, começou a existir no tempo. Nossa fé, porém, sustenta que Ele é Filho de Deus por natureza e que existe desde toda a eternidade. Ora, temos autoridade definida contra esses erros nas Sagradas Escrituras. Contra o primeiro, está dito que Cristo não é apenas o Filho, mas o Filho unigênito do Pai: «O Filho unigênito, que está no seio do Pai, esse mesmo o deu a conhecer».[^3] E contra o segundo erro está dito: «Antes que Abraão fosse feito, EU SOU».[^4] É evidente que Abraão viveu antes da Santíssima Virgem. E o que os Padres acrescentaram ao outro Símbolo [isto é, o Símbolo Niceno], a saber, «único Filho de Deus», vai contra o primeiro erro; e «nascido do Pai antes de todos os séculos» vai contra o segundo erro.
+
+Sabélio dizia que Cristo realmente existia antes da Santíssima Virgem, mas sustentava que o próprio Pai se encarnou e, portanto, que o Pai e o Filho são a mesma Pessoa. Isto é um erro porque suprime a Trindade de Pessoas em Deus, e contra ele está esta autoridade: «Não estou só, mas eu e o Pai que me enviou».[^5] É claro que ninguém pode ser enviado por si mesmo. Sabélio erra, portanto; e no «Símbolo»[^6] dos Padres está dito: «Deus de Deus, Luz da Luz», ou seja, devemos crer em Deus Filho a partir de Deus Pai, e no Filho, que é Luz, a partir do Pai, que é Luz.
+
+Ário, embora dissesse que Cristo existia antes da Santíssima Virgem e que a Pessoa do Pai é distinta da Pessoa do Filho, atribuía a Cristo, contudo, três coisas: (1) que o Filho de Deus era uma criatura; (2) que Ele não é eterno, mas foi formado no tempo por Deus, sendo a mais nobre de todas as criaturas; (3) que Deus Filho não é da mesma natureza que Deus Pai, e portanto não era verdadeiro Deus. Mas isso também é errôneo e contrário ao ensino das Sagradas Escrituras. Está escrito: «Eu e o Pai somos um»;[^7] isto é, na natureza; e, portanto, assim como o Pai sempre existiu, também o Filho; e, assim como o Pai é verdadeiro Deus, assim também é o Filho. Que Cristo seja uma criatura, como dizia Ário, é refutado no «Símbolo» pelos Padres: «Deus verdadeiro de Deus verdadeiro»; e a afirmação de que Cristo não é eterno, mas no tempo, é também contrária ao «Símbolo»: «gerado, não criado»; e, finalmente, que Cristo não é da mesma substância que o Pai é negado pelo «Símbolo»: «consubstancial ao Pai».
+
+É, portanto, manifesto que devemos crer que Cristo é o Unigênito de Deus, e o verdadeiro Filho de Deus, que sempre esteve com o Pai, e que outra é a Pessoa do Filho, outra a do Pai, possuindo ambas a mesma natureza divina.[^8] Tudo isto cremos agora pela fé, mas haveremos de conhecê-lo com perfeita visão na vida eterna. Falaremos, pois, agora um pouco disto, para nossa edificação.
+
+## A Geração Divina
+
+É preciso saber que cada coisa tem o seu modo próprio de geração. A geração de Deus é diferente daquela das outras coisas. Por isso, não podemos chegar a uma noção da geração divina senão por meio da geração daquilo que, entre as coisas criadas, mais se aproxima de uma semelhança com Deus. Já vimos que nada se aproxima da semelhança com Deus mais do que a alma humana. O modo de geração na alma efetua-se no processo do pensamento, na alma do homem, ao qual se chama conceber do entendimento. Esta concepção tem origem na alma como a partir de um pai, e seu efeito é chamado palavra do entendimento, ou palavra do homem. Em suma, a alma, pelo seu ato de pensar, gera a palavra. Assim também o Filho de Deus é o Verbo de Deus, não como uma palavra proferida exteriormente (porque essa é transitória), mas como uma palavra concebida interiormente; e este Verbo de Deus é da mesma natureza que Deus e igual a Deus.[^9]
+
+O testemunho de São João sobre o Verbo de Deus destrói essas três heresias, isto é, a de Fotino com as palavras «No princípio era o Verbo»;[^10] a de Sabélio com «E o Verbo estava com Deus»;[^11] e a de Ário com «E o Verbo era Deus».[^12]
+
+Mas a palavra em nós não é o mesmo que o Verbo em Deus. Em nós, a palavra é um acidente;[^13] em Deus, porém, o Verbo é o próprio Deus, pois nada há em Deus que não seja da essência de Deus. Ninguém diria que Deus não tem o seu Verbo, porque isso O faria totalmente desprovido de conhecimento; e, portanto, assim como Deus sempre existiu, também sempre existiu o seu Verbo. Assim como o escultor trabalha a partir de uma forma que previamente concebeu — e essa é a sua palavra interior —, assim também Deus faz todas as coisas pelo seu Verbo, como que pela sua arte: «Todas as coisas foram feitas por Ele».[^14]
+
+Ora, se o Verbo de Deus é o Filho de Deus, e todas as palavras de Deus trazem certa semelhança deste Verbo, devemos então ouvir a palavra de Deus com alegria, pois isto é sinal de que amamos a Deus. Devemos também crer na palavra de Deus, pela qual o Verbo de Deus, que é Cristo, habita em nós: «Para que Cristo habite pela fé nos vossos corações».[^15] «E não tendes a sua palavra permanecendo em vós».[^16] Mas não devemos somente crer que o Verbo de Deus habita em nós; devemos também meditá-lo frequentemente, porque do contrário não nos aproveitará tanto quanto deveria, sendo essa meditação grande auxílio contra o pecado: «Escondi as tuas palavras no meu coração, para não pecar contra ti».[^17] E ainda diz do justo: «Na sua lei meditará dia e noite».[^18] E está dito da Santíssima Virgem que «conservava todas estas palavras, ponderando-as no seu coração».[^19] Em seguida, devemos comunicar a palavra de Deus aos outros, aconselhando, pregando e inflamando-lhes o coração: «Não saia da vossa boca palavra alguma má, mas só a que for boa, para a edificação da fé».[^20] Igualmente: «Habite em vós abundantemente a palavra de Cristo, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros».[^21] E também: «Prega a palavra, insiste a tempo e fora de tempo; repreende, roga, increpa com toda paciência e doutrina».[^22] Por fim, devemos pôr a palavra de Deus em prática: «Sede praticantes da palavra, e não somente ouvintes, enganando-vos a vós mesmos».[^23]
+
+A Santíssima Virgem observou esses cinco pontos quando deu à luz o Verbo de Deus. Primeiramente, ouviu o que lhe foi dito: «O Espírito Santo virá sobre ti».[^24] Depois, deu o seu consentimento pela fé: «Eis aqui a serva do Senhor».[^25] E recebeu e levou em seu seio o Verbo. Depois, deu à luz o Verbo de Deus e, finalmente, alimentou-O e d'Ele cuidou. E assim canta a Igreja: «Só uma Virgem amamentou o Rei dos Anjos».[^26]
+
+[^1]: 2 Pd 1, 16.
+[^2]: «Jesus Cristo é o Filho de Deus e verdadeiro Deus, como o Pai que O gerou desde toda a eternidade. Cremos também que Ele é a Segunda Pessoa da Santíssima Trindade, em tudo igual ao Pai e ao Espírito Santo. Visto reconhecermos que a essência, a vontade e o poder de todas as Pessoas Divinas são um só, então nelas nada de desigual ou dessemelhante deve existir nem mesmo se imaginar» (*Catecismo Romano*, Segundo Artigo, 8).
+[^3]: Jo 1, 18.
+[^4]: Jo 8, 58.
+[^5]: Jo 8, 16.
+[^6]: «Símbolo» (do grego *symbolon* e do baixo-latim *symbolum*) é uma exposição formal e autorizada da fé religiosa da Igreja, referindo-se aqui ao Símbolo Niceno. Este tratado de São Tomás é por ele mesmo chamado «Explanação do Símbolo dos Apóstolos», ou Credo dos Apóstolos.
+[^7]: Jo 10, 30.
+[^8]: «[…] cremos que Ele [Cristo] é um único Filho, porque suas naturezas divina e humana se reúnem numa só Pessoa. Quanto à sua geração divina, não tem irmãos nem co-herdeiros, sendo o único Filho do Pai; e nós, os homens, somos imagem e obra de suas mãos» (*Catecismo Romano*, *loc. cit.*, 9-10).
+[^9]: «Entre as diversas comparações apresentadas para mostrar o modo desta geração eterna, a que se toma da produção do pensamento em nossa mente parece ser a que mais se aproxima de a ilustrar; daí São João chamar o Filho ‹o Verbo›. Pois nossa mente, compreendendo-se de algum modo, forma de si uma imagem que os teólogos chamaram palavra; assim Deus, na medida em que podemos comparar coisas humanas a divinas, compreendendo-Se a Si mesmo, gera o Verbo Eterno. Mas é mais proveitoso considerar o que a fé propõe e, com toda sinceridade de mente, crer e professar que Jesus Cristo é verdadeiro Deus e verdadeiro Homem — como Deus, gerado antes de todo tempo; como Homem, nascido no tempo de Maria, sua Mãe Virgem» (*Catecismo Romano*, *loc. cit.*, 9). São Tomás trata mais amplamente da geração eterna e da Filiação de Cristo na *Suma Teol.*, I, q. 27, a. 2; q. 34.
+[^10]: Jo 1, 1.
+[^11]: *Ibid.*
+[^12]: *Ibid.*
+[^13]: Acidente é um atributo que não é parte da essência.
+[^14]: Jo 1, 3.
+[^15]: Ef 3, 17.
+[^16]: Jo 5, 38.
+[^17]: Sl 118, 11.
+[^18]: Sl 1, 2.
+[^19]: Lc 2, 19.
+[^20]: Ef 4.
+[^21]: Cl 3, 16.
+[^22]: 2 Tm 4, 2.
+[^23]: Tg 1, 22.
+[^24]: Lc 1, 35.
+[^25]: Lc 1.
+[^26]: Quarto Responsório, Ofício da Circuncisão, Breviário Dominicano.
