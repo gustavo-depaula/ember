@@ -1,0 +1,727 @@
+{
+  "id": "catechetical-formation",
+  "name": {
+    "en-US": "Catechetical Formation",
+    "pt-BR": "Formação Catequética"
+  },
+  "author": {
+    "en-US": "St. Pius X · St. Thomas Aquinas · Council of Trent",
+    "pt-BR": "São Pio X · São Tomás de Aquino · Concílio de Trento"
+  },
+  "description": {
+    "en-US": "A 90-day catechetical formation track. Each daily session opens with a sacred image, presents one cluster of questions from the Catechism of St. Pius X (1912), receives pastoral teaching from St. Thomas Aquinas's Naples Lent sermons (1273) — or, where Aquinas is silent, from the Roman Catechism of the Council of Trent (1566) — caps the doctrine with one verse of Scripture, and closes with a brief reflection. The full text of the Catechism of Trent is appended to each session as 'Going Deeper' for those who want the longer form. Curated for young adults — beautiful, doctrinally complete, beginner-friendly but fruitful for everyone. All 433 questions of the Catechism of St. Pius X are covered.",
+    "pt-BR": "Uma trilha de formação catequética de 90 dias. Cada sessão diária abre com uma imagem sagrada, apresenta um conjunto de perguntas do Catecismo de São Pio X (1912), recebe ensinamento pastoral dos sermões da Quaresma de Nápoles de São Tomás de Aquino (1273) — ou, onde São Tomás é silencioso, do Catecismo Romano do Concílio de Trento (1566) — coroa a doutrina com um versículo da Escritura e encerra com uma breve reflexão. O texto integral do Catecismo de Trento é anexado a cada sessão como 'Aprofundamento' para quem deseja a forma mais longa. Curada para jovens adultos — bela, doutrinariamente completa, amigável ao iniciante e frutuosa a todos. Todas as 433 perguntas do Catecismo de São Pio X estão cobertas."
+  },
+  "composed": "1273–1912",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "internal:catechism-pius-x-1912+catechetical-instructions+catechism-of-trent",
+      "description": "Curated anthology drawing on three public-domain catechetical works in this library: Catechism of St. Pius X (1912), Aquinas's Catechetical Instructions (Collins translation, 1939), and the Roman Catechism (McHugh-Callan, 1923). All catechism passages are reproduced verbatim. Ekphrases, Scripture caps, and closing reflections are original; Scripture text follows the Douay-Rheims."
+    },
+    {
+      "language": "pt-BR",
+      "url": "internal:catechism-pius-x-1912+catechetical-instructions+catechism-of-trent",
+      "description": "Antologia curada extraída de três obras catequéticas em domínio público desta biblioteca: Catecismo de São Pio X (1912, tradução Escravas de Maria), Instruções Catequéticas de São Tomás (do inglês de Collins, 1939) e Catecismo Romano (tradução de Frei Leopoldo Pires Martins, OFM, 1951). As passagens dos catecismos são reproduzidas literalmente. Ekfrases, versículos e orações finais são originais; o texto bíblico segue Pereira de Figueiredo."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-preliminary",
+      "title": {
+        "en-US": "First Notions of the Christian Faith",
+        "pt-BR": "Primeiras Noções da Fé Cristã"
+      },
+      "children": [
+        {
+          "id": "session-001",
+          "title": {
+            "en-US": "Session 01 — Who Made Us, Who God Is",
+            "pt-BR": "Sessão 01 — Quem nos criou, quem é Deus"
+          }
+        },
+        {
+          "id": "session-002",
+          "title": {
+            "en-US": "Session 02 — Heaven, Hell, and Why We Are Here",
+            "pt-BR": "Sessão 02 — O Céu, o inferno, e por que estamos aqui"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-creed",
+      "title": {
+        "en-US": "Part I — The Apostles' Creed",
+        "pt-BR": "Parte I — O Símbolo dos Apóstolos"
+      },
+      "children": [
+        {
+          "id": "session-003",
+          "title": {
+            "en-US": "Session 03 — What God Has Revealed",
+            "pt-BR": "Sessão 03 — O que Deus revelou"
+          }
+        },
+        {
+          "id": "session-004",
+          "title": {
+            "en-US": "Session 04 — The Sign of the Cross",
+            "pt-BR": "Sessão 04 — O Sinal da Cruz"
+          }
+        },
+        {
+          "id": "session-005",
+          "title": {
+            "en-US": "Session 05 — There Is One God",
+            "pt-BR": "Sessão 05 — Há um só Deus"
+          }
+        },
+        {
+          "id": "session-006",
+          "title": {
+            "en-US": "Session 06 — Father, Son, and Holy Spirit",
+            "pt-BR": "Sessão 06 — Pai, Filho e Espírito Santo"
+          }
+        },
+        {
+          "id": "session-007",
+          "title": {
+            "en-US": "Session 07 — Three Persons, One God, Equal and Eternal",
+            "pt-BR": "Sessão 07 — Três Pessoas, um só Deus, iguais e eternos"
+          }
+        },
+        {
+          "id": "session-008",
+          "title": {
+            "en-US": "Session 08 — Creator of Heaven and Earth",
+            "pt-BR": "Sessão 08 — Criador do Céu e da Terra"
+          }
+        },
+        {
+          "id": "session-009",
+          "title": {
+            "en-US": "Session 09 — The Angels and the Demons",
+            "pt-BR": "Sessão 09 — Os anjos e os demônios"
+          }
+        },
+        {
+          "id": "session-010",
+          "title": {
+            "en-US": "Session 10 — What Man Is — Soul and Freedom",
+            "pt-BR": "Sessão 10 — O que é o homem — alma e liberdade"
+          }
+        },
+        {
+          "id": "session-011",
+          "title": {
+            "en-US": "Session 11 — The First Parents in Eden",
+            "pt-BR": "Sessão 11 — Os primeiros pais no Éden"
+          }
+        },
+        {
+          "id": "session-012",
+          "title": {
+            "en-US": "Session 12 — The Fall and Original Sin",
+            "pt-BR": "Sessão 12 — A queda e o pecado original"
+          }
+        },
+        {
+          "id": "session-013",
+          "title": {
+            "en-US": "Session 13 — The Redeemer Promised and Sent",
+            "pt-BR": "Sessão 13 — O Redentor prometido e enviado"
+          }
+        },
+        {
+          "id": "session-014",
+          "title": {
+            "en-US": "Session 14 — True God and True Man",
+            "pt-BR": "Sessão 14 — Verdadeiro Deus e verdadeiro homem"
+          }
+        },
+        {
+          "id": "session-015",
+          "title": {
+            "en-US": "Session 15 — Born of the Virgin Mary at Bethlehem",
+            "pt-BR": "Sessão 15 — Nascido da Virgem Maria em Belém"
+          }
+        },
+        {
+          "id": "session-016",
+          "title": {
+            "en-US": "Session 16 — The Public Life and Miracles of Christ",
+            "pt-BR": "Sessão 16 — A vida pública e os milagres de Cristo"
+          }
+        },
+        {
+          "id": "session-017",
+          "title": {
+            "en-US": "Session 17 — His Death and the Three Days in the Tomb",
+            "pt-BR": "Sessão 17 — Sua morte e os três dias no sepulcro"
+          }
+        },
+        {
+          "id": "session-018",
+          "title": {
+            "en-US": "Session 18 — He Rose Again from the Dead",
+            "pt-BR": "Sessão 18 — Ressuscitou dos mortos"
+          }
+        },
+        {
+          "id": "session-019",
+          "title": {
+            "en-US": "Session 19 — He Ascended into Heaven",
+            "pt-BR": "Sessão 19 — Subiu aos Céus"
+          }
+        },
+        {
+          "id": "session-020",
+          "title": {
+            "en-US": "Session 20 — He Will Come to Judge the Living and the Dead",
+            "pt-BR": "Sessão 20 — Voltará para julgar os vivos e os mortos"
+          }
+        },
+        {
+          "id": "session-021",
+          "title": {
+            "en-US": "Session 21 — The Particular and Universal Judgment",
+            "pt-BR": "Sessão 21 — O juízo particular e o universal"
+          }
+        },
+        {
+          "id": "session-022",
+          "title": {
+            "en-US": "Session 22 — Purgatory and the Souls We Help",
+            "pt-BR": "Sessão 22 — O purgatório e as almas que ajudamos"
+          }
+        },
+        {
+          "id": "session-023",
+          "title": {
+            "en-US": "Session 23 — Heaven and Hell, Both Eternal",
+            "pt-BR": "Sessão 23 — Céu e inferno, ambos eternos"
+          }
+        },
+        {
+          "id": "session-024",
+          "title": {
+            "en-US": "Session 24 — The Church, the Society of Christ",
+            "pt-BR": "Sessão 24 — A Igreja, sociedade de Cristo"
+          }
+        },
+        {
+          "id": "session-025",
+          "title": {
+            "en-US": "Session 25 — One, Holy, Catholic, Apostolic",
+            "pt-BR": "Sessão 25 — Una, Santa, Católica, Apostólica"
+          }
+        },
+        {
+          "id": "session-026",
+          "title": {
+            "en-US": "Session 26 — The Pope, the Bishops, and Infallibility",
+            "pt-BR": "Sessão 26 — O Papa, os Bispos e a infalibilidade"
+          }
+        },
+        {
+          "id": "session-027",
+          "title": {
+            "en-US": "Session 27 — The Means of Holiness and the Communion of Saints",
+            "pt-BR": "Sessão 27 — Os meios de santidade e a comunhão dos santos"
+          }
+        },
+        {
+          "id": "session-028",
+          "title": {
+            "en-US": "Session 28 — The Saints, Living and Departed",
+            "pt-BR": "Sessão 28 — Os santos, vivos e falecidos"
+          }
+        },
+        {
+          "id": "session-029",
+          "title": {
+            "en-US": "Session 29 — Outside the Church",
+            "pt-BR": "Sessão 29 — Fora da Igreja"
+          }
+        },
+        {
+          "id": "session-030",
+          "title": {
+            "en-US": "Session 30 — The Forgiveness of Sins",
+            "pt-BR": "Sessão 30 — A remissão dos pecados"
+          }
+        },
+        {
+          "id": "session-031",
+          "title": {
+            "en-US": "Session 31 — Mortal Sin and the Recovery of Grace",
+            "pt-BR": "Sessão 31 — Pecado mortal e a recuperação da graça"
+          }
+        },
+        {
+          "id": "session-032",
+          "title": {
+            "en-US": "Session 32 — Venial Sin and the Sins Against the Holy Spirit",
+            "pt-BR": "Sessão 32 — Pecado venial e os pecados contra o Espírito Santo"
+          }
+        },
+        {
+          "id": "session-033",
+          "title": {
+            "en-US": "Session 33 — The Resurrection of the Body",
+            "pt-BR": "Sessão 33 — A ressurreição da carne"
+          }
+        },
+        {
+          "id": "session-034",
+          "title": {
+            "en-US": "Session 34 — Life Everlasting. Amen.",
+            "pt-BR": "Sessão 34 — A vida eterna. Amém."
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-decalogue",
+      "title": {
+        "en-US": "Part II — The Decalogue",
+        "pt-BR": "Parte II — O Decálogo"
+      },
+      "children": [
+        {
+          "id": "session-035",
+          "title": {
+            "en-US": "Session 35 — The Decalogue and the Two Great Commandments",
+            "pt-BR": "Sessão 35 — O Decálogo e os dois grandes mandamentos"
+          }
+        },
+        {
+          "id": "session-036",
+          "title": {
+            "en-US": "Session 36 — Why We Are Bound to Keep the Commandments",
+            "pt-BR": "Sessão 36 — Por que somos obrigados a guardar os mandamentos"
+          }
+        },
+        {
+          "id": "session-037",
+          "title": {
+            "en-US": "Session 37 — First Commandment — Adoring God Alone",
+            "pt-BR": "Sessão 37 — Primeiro mandamento — adorar só a Deus"
+          }
+        },
+        {
+          "id": "session-038",
+          "title": {
+            "en-US": "Session 38 — First Commandment — Veneration of the Saints and the Mother of God",
+            "pt-BR": "Sessão 38 — Primeiro mandamento — veneração dos santos e da Mãe de Deus"
+          }
+        },
+        {
+          "id": "session-039",
+          "title": {
+            "en-US": "Session 39 — First Commandment — Sacred Images and Relics",
+            "pt-BR": "Sessão 39 — Primeiro mandamento — imagens sagradas e relíquias"
+          }
+        },
+        {
+          "id": "session-040",
+          "title": {
+            "en-US": "Session 40 — Second Commandment — The Holy Name and Oaths",
+            "pt-BR": "Sessão 40 — Segundo mandamento — o santo Nome e os juramentos"
+          }
+        },
+        {
+          "id": "session-041",
+          "title": {
+            "en-US": "Session 41 — Second Commandment — Vows and Promises to God",
+            "pt-BR": "Sessão 41 — Segundo mandamento — votos e promessas a Deus"
+          }
+        },
+        {
+          "id": "session-042",
+          "title": {
+            "en-US": "Session 42 — Third Commandment — Keeping the Lord's Day",
+            "pt-BR": "Sessão 42 — Terceiro mandamento — santificar o dia do Senhor"
+          }
+        },
+        {
+          "id": "session-043",
+          "title": {
+            "en-US": "Session 43 — Third Commandment — Sunday Rest",
+            "pt-BR": "Sessão 43 — Terceiro mandamento — o repouso do domingo"
+          }
+        },
+        {
+          "id": "session-044",
+          "title": {
+            "en-US": "Session 44 — Fourth Commandment — Father, Mother, and Authority",
+            "pt-BR": "Sessão 44 — Quarto mandamento — pai, mãe e autoridade"
+          }
+        },
+        {
+          "id": "session-045",
+          "title": {
+            "en-US": "Session 45 — Fifth Commandment — Reverence for Life",
+            "pt-BR": "Sessão 45 — Quinto mandamento — reverência pela vida"
+          }
+        },
+        {
+          "id": "session-046",
+          "title": {
+            "en-US": "Session 46 — Fifth Commandment — Suicide and Dueling",
+            "pt-BR": "Sessão 46 — Quinto mandamento — suicídio e duelo"
+          }
+        },
+        {
+          "id": "session-047",
+          "title": {
+            "en-US": "Session 47 — Fifth Commandment — Scandal and Love of Enemies",
+            "pt-BR": "Sessão 47 — Quinto mandamento — escândalo e amor aos inimigos"
+          }
+        },
+        {
+          "id": "session-048",
+          "title": {
+            "en-US": "Session 48 — Sixth Commandment — Holy in Body",
+            "pt-BR": "Sessão 48 — Sexto mandamento — santos no corpo"
+          }
+        },
+        {
+          "id": "session-049",
+          "title": {
+            "en-US": "Session 49 — Seventh Commandment — Justice and Restitution",
+            "pt-BR": "Sessão 49 — Sétimo mandamento — justiça e restituição"
+          }
+        },
+        {
+          "id": "session-050",
+          "title": {
+            "en-US": "Session 50 — Eighth Commandment — Truth and the Reputation of Others",
+            "pt-BR": "Sessão 50 — Oitavo mandamento — a verdade e a fama do próximo"
+          }
+        },
+        {
+          "id": "session-051",
+          "title": {
+            "en-US": "Session 51 — Ninth Commandment — Pure Thoughts and Desires",
+            "pt-BR": "Sessão 51 — Nono mandamento — pureza de pensamentos e desejos"
+          }
+        },
+        {
+          "id": "session-052",
+          "title": {
+            "en-US": "Session 52 — Tenth Commandment — Detachment from Goods",
+            "pt-BR": "Sessão 52 — Décimo mandamento — desapego dos bens"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-precepts",
+      "title": {
+        "en-US": "Part III — Precepts of the Church",
+        "pt-BR": "Parte III — Preceitos da Igreja"
+      },
+      "children": [
+        {
+          "id": "session-053",
+          "title": {
+            "en-US": "Session 53 — The Precepts of the Church — Mass and Friday",
+            "pt-BR": "Sessão 53 — Os preceitos da Igreja — Missa e sexta-feira"
+          }
+        },
+        {
+          "id": "session-054",
+          "title": {
+            "en-US": "Session 54 — Fast, Confession, Communion, Offerings",
+            "pt-BR": "Sessão 54 — Jejum, confissão, comunhão, ofertas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-virtues",
+      "title": {
+        "en-US": "Part IV — The Virtues",
+        "pt-BR": "Parte IV — As Virtudes"
+      },
+      "children": [
+        {
+          "id": "session-055",
+          "title": {
+            "en-US": "Session 55 — What Virtue Is — and the Virtues of God",
+            "pt-BR": "Sessão 55 — O que é a virtude — e as virtudes de Deus"
+          }
+        },
+        {
+          "id": "session-056",
+          "title": {
+            "en-US": "Session 56 — Hope and Charity — Loving God and Neighbor",
+            "pt-BR": "Sessão 56 — Esperança e caridade — amando a Deus e ao próximo"
+          }
+        },
+        {
+          "id": "session-057",
+          "title": {
+            "en-US": "Session 57 — The Counsels and the Cardinal Virtues",
+            "pt-BR": "Sessão 57 — Os conselhos e as virtudes cardeais"
+          }
+        },
+        {
+          "id": "session-058",
+          "title": {
+            "en-US": "Session 58 — The Capital Sins, the Passions, the Beatitudes",
+            "pt-BR": "Sessão 58 — Os pecados capitais, as paixões e as Bem-aventuranças"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-sacraments",
+      "title": {
+        "en-US": "Part V — The Sacraments",
+        "pt-BR": "Parte V — Os Sacramentos"
+      },
+      "children": [
+        {
+          "id": "session-059",
+          "title": {
+            "en-US": "Session 59 — What a Sacrament Is",
+            "pt-BR": "Sessão 59 — O que é um sacramento"
+          }
+        },
+        {
+          "id": "session-060",
+          "title": {
+            "en-US": "Session 60 — How the Sacraments Give Grace",
+            "pt-BR": "Sessão 60 — Como os sacramentos dão a graça"
+          }
+        },
+        {
+          "id": "session-061",
+          "title": {
+            "en-US": "Session 61 — Receiving the Sacraments Worthily",
+            "pt-BR": "Sessão 61 — Receber dignamente os sacramentos"
+          }
+        },
+        {
+          "id": "session-062",
+          "title": {
+            "en-US": "Session 62 — Baptism — The First Grace",
+            "pt-BR": "Sessão 62 — Batismo — a primeira graça"
+          }
+        },
+        {
+          "id": "session-063",
+          "title": {
+            "en-US": "Session 63 — Baptism — Minister, Names, and Children",
+            "pt-BR": "Sessão 63 — Batismo — ministro, nomes e crianças"
+          }
+        },
+        {
+          "id": "session-064",
+          "title": {
+            "en-US": "Session 64 — Confirmation — The Soldier of Christ",
+            "pt-BR": "Sessão 64 — Confirmação — o soldado de Cristo"
+          }
+        },
+        {
+          "id": "session-065",
+          "title": {
+            "en-US": "Session 65 — Confirmation — Preparing the Soul",
+            "pt-BR": "Sessão 65 — Confirmação — preparar a alma"
+          }
+        },
+        {
+          "id": "session-066",
+          "title": {
+            "en-US": "Session 66 — What the Eucharist Is — and Its Institution",
+            "pt-BR": "Sessão 66 — O que é a Eucaristia — e a sua instituição"
+          }
+        },
+        {
+          "id": "session-067",
+          "title": {
+            "en-US": "Session 67 — The Real Presence and Transubstantiation",
+            "pt-BR": "Sessão 67 — A Presença Real e a transubstanciação"
+          }
+        },
+        {
+          "id": "session-068",
+          "title": {
+            "en-US": "Session 68 — Receiving the Eucharist Worthily",
+            "pt-BR": "Sessão 68 — Receber dignamente a Eucaristia"
+          }
+        },
+        {
+          "id": "session-069",
+          "title": {
+            "en-US": "Session 69 — Frequent and Daily Communion",
+            "pt-BR": "Sessão 69 — Comunhão frequente e diária"
+          }
+        },
+        {
+          "id": "session-070",
+          "title": {
+            "en-US": "Session 70 — Eucharistic Adoration",
+            "pt-BR": "Sessão 70 — Adoração eucarística"
+          }
+        },
+        {
+          "id": "session-071",
+          "title": {
+            "en-US": "Session 71 — The Mass as Sacrifice",
+            "pt-BR": "Sessão 71 — A Missa como sacrifício"
+          }
+        },
+        {
+          "id": "session-072",
+          "title": {
+            "en-US": "Session 72 — Penance — The Tribunal of Mercy",
+            "pt-BR": "Sessão 72 — Penitência — o tribunal da misericórdia"
+          }
+        },
+        {
+          "id": "session-073",
+          "title": {
+            "en-US": "Session 73 — Penance — Confession and Examination",
+            "pt-BR": "Sessão 73 — Penitência — confissão e exame"
+          }
+        },
+        {
+          "id": "session-074",
+          "title": {
+            "en-US": "Session 74 — Penance — Contrition",
+            "pt-BR": "Sessão 74 — Penitência — contrição"
+          }
+        },
+        {
+          "id": "session-075",
+          "title": {
+            "en-US": "Session 75 — Penance — Purpose of Amendment and Satisfaction",
+            "pt-BR": "Sessão 75 — Penitência — propósito de emenda e satisfação"
+          }
+        },
+        {
+          "id": "session-076",
+          "title": {
+            "en-US": "Session 76 — Penance — Satisfaction and Indulgences",
+            "pt-BR": "Sessão 76 — Penitência — satisfação e indulgências"
+          }
+        },
+        {
+          "id": "session-077",
+          "title": {
+            "en-US": "Session 77 — Extreme Unction — The Anointing of the Sick",
+            "pt-BR": "Sessão 77 — Extrema-unção — a unção dos enfermos"
+          }
+        },
+        {
+          "id": "session-078",
+          "title": {
+            "en-US": "Session 78 — Holy Orders — The Priesthood of Christ",
+            "pt-BR": "Sessão 78 — Ordem — o sacerdócio de Cristo"
+          }
+        },
+        {
+          "id": "session-079",
+          "title": {
+            "en-US": "Session 79 — Matrimony — A Covenant in Christ",
+            "pt-BR": "Sessão 79 — Matrimônio — uma aliança em Cristo"
+          }
+        },
+        {
+          "id": "session-080",
+          "title": {
+            "en-US": "Session 80 — Matrimony — Duties of the Spouses",
+            "pt-BR": "Sessão 80 — Matrimônio — deveres dos esposos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-prayer",
+      "title": {
+        "en-US": "Part VI — The Lord's Prayer",
+        "pt-BR": "Parte VI — A Oração Dominical"
+      },
+      "children": [
+        {
+          "id": "session-081",
+          "title": {
+            "en-US": "Session 81 — What Prayer Is",
+            "pt-BR": "Sessão 81 — O que é a oração"
+          }
+        },
+        {
+          "id": "session-082",
+          "title": {
+            "en-US": "Session 82 — Why God Hears Us",
+            "pt-BR": "Sessão 82 — Por que Deus nos ouve"
+          }
+        },
+        {
+          "id": "session-083",
+          "title": {
+            "en-US": "Session 83 — \"Our Father, who art in Heaven\"",
+            "pt-BR": "Sessão 83 — \"Pai Nosso, que estais nos céus\""
+          }
+        },
+        {
+          "id": "session-084",
+          "title": {
+            "en-US": "Session 84 — First Petition — \"Hallowed be Thy Name\"",
+            "pt-BR": "Sessão 84 — Primeira petição — \"Santificado seja o Vosso Nome\""
+          }
+        },
+        {
+          "id": "session-085",
+          "title": {
+            "en-US": "Session 85 — Second Petition — \"Thy Kingdom Come\"",
+            "pt-BR": "Sessão 85 — Segunda petição — \"Venha a nós o Vosso Reino\""
+          }
+        },
+        {
+          "id": "session-086",
+          "title": {
+            "en-US": "Session 86 — Third Petition — \"Thy Will Be Done\"",
+            "pt-BR": "Sessão 86 — Terceira petição — \"Seja feita a Vossa vontade\""
+          }
+        },
+        {
+          "id": "session-087",
+          "title": {
+            "en-US": "Session 87 — Fourth Petition — \"Give Us This Day Our Daily Bread\"",
+            "pt-BR": "Sessão 87 — Quarta petição — \"O pão nosso de cada dia nos dai hoje\""
+          }
+        },
+        {
+          "id": "session-088",
+          "title": {
+            "en-US": "Session 88 — Fifth Petition — \"Forgive Us Our Trespasses\"",
+            "pt-BR": "Sessão 88 — Quinta petição — \"Perdoai-nos as nossas dívidas\""
+          }
+        },
+        {
+          "id": "session-089",
+          "title": {
+            "en-US": "Session 89 — Sixth and Seventh Petitions and the Amen — Temptation, Deliverance, Confirmation",
+            "pt-BR": "Sessão 89 — Sexta e Sétima Petições e o Amém — tentação, libertação, confirmação"
+          }
+        }
+      ]
+    },
+    {
+      "id": "session-090",
+      "title": {
+        "en-US": "Session 90 — The Hail Mary and the Communion of Saints",
+        "pt-BR": "Sessão 90 — A Ave-Maria e a comunhão dos santos"
+      }
+    }
+  ]
+}

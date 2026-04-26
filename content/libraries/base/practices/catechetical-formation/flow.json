@@ -1,0 +1,17 @@
+{
+	"sections": [
+		{
+			"type": "cycle",
+			"data": "session-progression",
+			"as": "template",
+			"sections": [
+				{
+					"type": "prose",
+					"book": "catechetical-formation",
+					"chapter": "{{chapterId}}",
+					"langPolicy": "active-language"
+				}
+			]
+		}
+	]
+}

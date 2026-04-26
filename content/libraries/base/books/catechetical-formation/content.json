@@ -1,0 +1,1544 @@
+{
+  "version": "0.5",
+  "description": "Per-session original content authored for the catechetical-formation book. Ekphrasis (~50 words pointing the reader's eye at the image), scripture verse (DRC for EN, Pereira de Figueiredo for PT — verify in editorial pass), closing reflection or short prayer (~30 words). Voice tuned for young adults 18–35: direct, beautiful, intellectually respectful, reverent without being stiff.",
+  "content": [
+    {
+      "session_id": "session-001",
+      "ekphrasis": {
+        "en-US": "Stop a moment. Before you begin scrolling away from this, look. The painter shows you the first morning of everything — water and earth still trembling apart, light arriving where there had been none, the Spirit hovering. You exist on the same word God spoke then. He has never stopped saying it.",
+        "pt-BR": "Pare um instante. Antes de rolar para longe disto, olhe. O pintor lhe mostra a primeira manhã de tudo — água e terra ainda separando-se, a luz chegando onde nenhuma havia, o Espírito pairando. Você existe sobre a mesma palavra que Deus falou ali. Ele nunca deixou de pronunciá-la."
+      },
+      "scripture": {
+        "ref_en": "Genesis 1:1",
+        "ref_pt": "Gênesis 1, 1",
+        "text_en": "In the beginning God created heaven, and earth.",
+        "text_pt": "No princípio criou Deus o céu e a terra."
+      },
+      "closing": {
+        "en-US": "Father, before I asked, You made me — out of love, without need, by You. Today, let me live as someone who knows it.",
+        "pt-BR": "Pai, antes que eu pedisse, Vós me fizestes — por amor, sem necessidade, por Vós. Hoje, fazei-me viver como alguém que o sabe."
+      }
+    },
+    {
+      "session_id": "session-002",
+      "ekphrasis": {
+        "en-US": "There are two horizons in the human life — and only two. The catechism does not let you pretend otherwise. Look at the picture: heaven on one side, hell on the other, and a soul standing at the crossroads. Today you also stand there. Today, again.",
+        "pt-BR": "Há dois horizontes na vida humana — e só dois. O catecismo não nos deixa fingir o contrário. Veja a imagem: o céu de um lado, o inferno do outro, e uma alma na encruzilhada. Hoje você também está ali. Hoje, mais uma vez."
+      },
+      "scripture": {
+        "ref_en": "John 17:3",
+        "ref_pt": "João 17, 3",
+        "text_en": "Now this is eternal life: That they may know thee, the only true God, and Jesus Christ, whom thou hast sent.",
+        "text_pt": "Esta é a vida eterna: que Vos conheçam a Vós, único Deus verdadeiro, e a Jesus Cristo, a quem enviastes."
+      },
+      "closing": {
+        "en-US": "Lord, I was not made for less than You. Today, refuse on my behalf the small horizons. Open me to the eternal one.",
+        "pt-BR": "Senhor, eu não fui feito para menos do que Vós. Hoje, recusai por mim os pequenos horizontes. Abri-me ao eterno."
+      }
+    },
+    {
+      "session_id": "session-003",
+      "ekphrasis": {
+        "en-US": "An apostle holds a scroll, or a Pentecost flame settles on a head. The Faith is not a feeling we generate — it is a thing handed over, a deposit, words remembered correctly across centuries. The Creed is not yours; it is what makes you.",
+        "pt-BR": "Um apóstolo segura um pergaminho, ou a chama do Pentecostes pousa sobre uma cabeça. A Fé não é um sentimento que produzimos — é uma coisa entregue, um depósito, palavras lembradas corretamente atravessando séculos. O Credo não é seu; é aquilo que faz de você o que você é."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 11:1",
+        "ref_pt": "Hebreus 11, 1",
+        "text_en": "Now faith is the substance of things to be hoped for, the evidence of things that appear not.",
+        "text_pt": "A fé é o fundamento das coisas que se esperam, a prova das que se não veem."
+      },
+      "closing": {
+        "en-US": "I believe, Lord — help my unbelief. Make my faith less mine and more Yours, this morning, this minute.",
+        "pt-BR": "Eu creio, Senhor — socorrei a minha descrença. Tornai a minha fé menos minha e mais Vossa, esta manhã, este minuto."
+      }
+    },
+    {
+      "session_id": "session-004",
+      "ekphrasis": {
+        "en-US": "A bare cross. Wood, nails, no decoration. The first gesture of a Christian life is to trace this on yourself — forehead, breast, shoulders, Amen. Before doctrine, before commandment, before sacrament: this. The whole of what you believe is folded inside it.",
+        "pt-BR": "Uma cruz nua. Madeira, pregos, sem ornamento. O primeiro gesto da vida cristã é traçá-la em si mesmo — fronte, peito, ombros, Amém. Antes da doutrina, antes do mandamento, antes do sacramento: isto. Tudo o que você crê está dobrado lá dentro."
+      },
+      "scripture": {
+        "ref_en": "Galatians 6:14",
+        "ref_pt": "Gálatas 6, 14",
+        "text_en": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ.",
+        "text_pt": "Quanto a mim, não queira Deus que eu me glorie, a não ser na cruz de Nosso Senhor Jesus Cristo."
+      },
+      "closing": {
+        "en-US": "Lord, when I sign myself today, let it not be an absent gesture. Let it be a small profession — true, awake, mine.",
+        "pt-BR": "Senhor, quando eu me persignar hoje, que não seja um gesto distraído. Que seja uma pequena profissão — verdadeira, desperta, minha."
+      }
+    },
+    {
+      "session_id": "session-005",
+      "ekphrasis": {
+        "en-US": "Moses bows before a bush that burns and is not consumed. There is no other God. Not your version, not your project, not the god you wish existed — Him. The fire does not negotiate.",
+        "pt-BR": "Moisés se inclina diante de uma sarça que arde sem se consumir. Não há outro Deus. Não a sua versão, não o seu projeto, não o deus que você gostaria que existisse — Ele. O fogo não negocia."
+      },
+      "scripture": {
+        "ref_en": "Deuteronomy 6:4",
+        "ref_pt": "Deuteronômio 6, 4",
+        "text_en": "Hear, O Israel, the Lord our God is one Lord.",
+        "text_pt": "Ouve, ó Israel: o Senhor nosso Deus é o único Senhor."
+      },
+      "closing": {
+        "en-US": "There is one God. Today, let nothing usurp Him in me — not anxiety, not the algorithm, not myself.",
+        "pt-BR": "Há um só Deus. Hoje, que nada O usurpe em mim — nem a ansiedade, nem o algoritmo, nem eu mesmo."
+      }
+    },
+    {
+      "session_id": "session-006",
+      "ekphrasis": {
+        "en-US": "Three figures at one table. Rublev painted them so still that they almost rest in each other. Father, Son, Spirit — distinct, looking at each other, one. We were made by a love that is already a conversation.",
+        "pt-BR": "Três figuras a uma só mesa. Rublev as pintou tão quietas que quase repousam umas nas outras. Pai, Filho, Espírito — distintos, olhando-se, um. Fomos feitos por um amor que já é uma conversa."
+      },
+      "scripture": {
+        "ref_en": "Matthew 28:19",
+        "ref_pt": "Mateus 28, 19",
+        "text_en": "Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.",
+        "text_pt": "Ide, pois, e ensinai a todas as gentes, batizando-as em nome do Pai, e do Filho, e do Espírito Santo."
+      },
+      "closing": {
+        "en-US": "Holy Trinity, draw me into the conversation You already are. Let my day be lived inside Your circle.",
+        "pt-BR": "Santíssima Trindade, atraí-me para dentro da conversa que Vós já sois. Que o meu dia seja vivido dentro do Vosso círculo."
+      }
+    },
+    {
+      "session_id": "session-007",
+      "ekphrasis": {
+        "en-US": "The painter cannot make three figures of equal size and rank look anything but extraordinary. They stand together — Father not greater, Son not lesser, Spirit not after. Eternity has always been three-in-love, never lonely, never beginning.",
+        "pt-BR": "O pintor não consegue tornar comum a imagem de três figuras iguais em grandeza e dignidade. Estão juntas — o Pai não maior, o Filho não menor, o Espírito não posterior. A eternidade sempre foi três-em-amor, nunca solitária, nunca começando."
+      },
+      "scripture": {
+        "ref_en": "John 1:1",
+        "ref_pt": "João 1, 1",
+        "text_en": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+        "text_pt": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+      },
+      "closing": {
+        "en-US": "Eternal God, You were never alone. Today, when I am alone, remind me that I am held inside Your communion.",
+        "pt-BR": "Deus eterno, Vós nunca estivestes só. Hoje, quando eu estiver só, lembrai-me de que sou guardado dentro da Vossa comunhão."
+      }
+    },
+    {
+      "session_id": "session-008",
+      "ekphrasis": {
+        "en-US": "Look at the painter's hand reaching across the panel and you understand: every shape, every star, every blade of grass came out of a hand that did not have to make them. Existence is not necessary. It is gift.",
+        "pt-BR": "Olhe para a mão do pintor que atravessa o painel e compreenda: cada forma, cada estrela, cada folha de capim saiu de uma mão que não precisava as fazer. A existência não é necessária. É dádiva."
+      },
+      "scripture": {
+        "ref_en": "Psalm 19:1",
+        "ref_pt": "Salmo 18, 2",
+        "text_en": "The heavens shew forth the glory of God, and the firmament declareth the work of his hands.",
+        "text_pt": "Os céus proclamam a glória de Deus, e o firmamento anuncia a obra das suas mãos."
+      },
+      "closing": {
+        "en-US": "Maker of all, today the world will keep speaking of You. Help me overhear it once or twice and answer back.",
+        "pt-BR": "Criador de tudo, hoje o mundo continuará falando de Vós. Ajudai-me a ouvi-lo uma ou duas vezes e a responder."
+      }
+    },
+    {
+      "session_id": "session-009",
+      "ekphrasis": {
+        "en-US": "Reni's archangel sets his foot on the dragon, almost calmly. Hell is real and so are the angels you cannot see. One of them was given to you on the day you were baptized — quiet, patient, still here.",
+        "pt-BR": "O arcanjo de Reni põe o pé sobre o dragão, quase tranquilo. O inferno é real e os anjos que você não vê também o são. Um deles lhe foi dado no dia do seu batismo — silencioso, paciente, ainda aqui."
+      },
+      "scripture": {
+        "ref_en": "Psalm 91:11",
+        "ref_pt": "Salmo 90, 11",
+        "text_en": "For he hath given his angels charge over thee; to keep thee in all thy ways.",
+        "text_pt": "Porque Ele deu ordens a seus anjos a teu respeito, para que te guardem em todos os teus caminhos."
+      },
+      "closing": {
+        "en-US": "Holy guardian, walk closer today. Make me grateful, attentive, less alone than I think.",
+        "pt-BR": "Santo anjo da guarda, caminhai mais perto hoje. Tornai-me grato, atento, menos só do que penso."
+      }
+    },
+    {
+      "session_id": "session-010",
+      "ekphrasis": {
+        "en-US": "The famous gap. Two fingers nearly touch — God's, full of intention; Adam's, slack with new being. You are this. A body, yes, but a body lit by a soul that will not die. Today choose accordingly.",
+        "pt-BR": "O famoso vão. Dois dedos quase se tocam — o de Deus, pleno de intenção; o de Adão, frouxo com o ser recém-recebido. Você é isto. Um corpo, sim, mas um corpo aceso por uma alma que não morrerá. Hoje, escolha à altura."
+      },
+      "scripture": {
+        "ref_en": "Genesis 1:27",
+        "ref_pt": "Gênesis 1, 27",
+        "text_en": "And God created man to his own image: to the image of God he created him: male and female he created them.",
+        "text_pt": "E Deus criou o homem à sua imagem; à imagem de Deus o criou; varão e mulher os criou."
+      },
+      "closing": {
+        "en-US": "You made me free, Lord. Today, free me from what only looks like freedom and bring me to the real one.",
+        "pt-BR": "Vós me fizestes livre, Senhor. Hoje, libertai-me daquilo que só parece liberdade e conduzi-me à verdadeira."
+      }
+    },
+    {
+      "session_id": "session-011",
+      "ekphrasis": {
+        "en-US": "Adam and Eve before the fall — naked, unashamed, the lion lying down with the lamb behind them. The painter remembers what we have forgotten: that this was first. We were happy once. We can be again.",
+        "pt-BR": "Adão e Eva antes da queda — nus, sem vergonha, o leão deitado com o cordeiro atrás. O pintor lembra o que esquecemos: isto veio primeiro. Fomos felizes uma vez. Poderemos sê-lo de novo."
+      },
+      "scripture": {
+        "ref_en": "Genesis 2:7",
+        "ref_pt": "Gênesis 2, 7",
+        "text_en": "And the Lord God formed man of the slime of the earth: and breathed into his face the breath of life, and man became a living soul.",
+        "text_pt": "Formou, pois, o Senhor Deus o homem do barro da terra, e inspirou no seu rosto um sopro de vida, e o homem ficou sendo alma vivente."
+      },
+      "closing": {
+        "en-US": "You breathed me into being, Lord. Today, let me breathe back — toward You, not against You.",
+        "pt-BR": "Vós me inspirastes ao ser, Senhor. Hoje, deixai-me respirar de volta — para Vós, não contra Vós."
+      }
+    },
+    {
+      "session_id": "session-012",
+      "ekphrasis": {
+        "en-US": "The angel's sword over Eden's gate. Masaccio's Eve cries out, mouth open, real. Sin is not abstract — it is the voluntary refusal of a love already given. We inherited it, and it inherits in us. But the gate, mercifully, is not the last word.",
+        "pt-BR": "A espada do anjo sobre o portão do Éden. A Eva de Masaccio grita, boca aberta, real. O pecado não é abstrato — é a recusa voluntária de um amor já dado. Nós o herdamos, e ele herda em nós. Mas o portão, misericordiosamente, não é a última palavra."
+      },
+      "scripture": {
+        "ref_en": "Romans 5:12",
+        "ref_pt": "Romanos 5, 12",
+        "text_en": "Wherefore as by one man sin entered into this world, and by sin death; and so death passed upon all men, in whom all have sinned.",
+        "text_pt": "Por isso, assim como por um só homem entrou o pecado neste mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, no qual todos pecaram."
+      },
+      "closing": {
+        "en-US": "I am inheritor and heir of a wound, Lord. Heal what I cannot heal. Reverse in me what I cannot reverse.",
+        "pt-BR": "Sou herdeiro de uma ferida, Senhor. Curai o que eu não posso curar. Revertei em mim o que eu não posso reverter."
+      }
+    },
+    {
+      "session_id": "session-013",
+      "ekphrasis": {
+        "en-US": "Fra Angelico's Annunciation: Gabriel kneels, Mary listens, the world stops. The Promise begins to keep itself. Heaven asks a girl, and she says yes, and a body forms in her like dawn forming in fog.",
+        "pt-BR": "A Anunciação de Fra Angelico: Gabriel ajoelha-se, Maria escuta, o mundo para. A Promessa começa a cumprir-se. O Céu pergunta a uma jovem, e ela responde sim, e um corpo se forma nela como o amanhecer se formando na neblina."
+      },
+      "scripture": {
+        "ref_en": "Luke 1:35",
+        "ref_pt": "Lucas 1, 35",
+        "text_en": "The Holy Ghost shall come upon thee, and the power of the Most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God.",
+        "text_pt": "O Espírito Santo descerá sobre ti, e a virtude do Altíssimo te cobrirá com a sua sombra. E por isso o Santo que de ti nascerá será chamado Filho de Deus."
+      },
+      "closing": {
+        "en-US": "Mary, you said yes for all of us. Today, when I am asked something difficult, give me your courage and your stillness.",
+        "pt-BR": "Maria, vós dissestes sim por todos nós. Hoje, quando me for pedido algo difícil, dai-me a vossa coragem e a vossa quietude."
+      }
+    },
+    {
+      "session_id": "session-014",
+      "ekphrasis": {
+        "en-US": "The Jordan opens. The dove descends. The Father speaks. A man is also God; God is also a man. Look at the figure standing in cold water. He is one of you and He is what made you.",
+        "pt-BR": "O Jordão se abre. A pomba desce. O Pai fala. Um homem é também Deus; Deus é também homem. Olhe a figura de pé na água fria. Ele é um de nós e é Aquele que nos fez."
+      },
+      "scripture": {
+        "ref_en": "Matthew 3:17",
+        "ref_pt": "Mateus 3, 17",
+        "text_en": "And behold a voice from heaven saying: This is my beloved Son, in whom I am well pleased.",
+        "text_pt": "E eis que uma voz dos céus dizia: Este é o meu Filho muito amado, em quem pus toda a minha complacência."
+      },
+      "closing": {
+        "en-US": "Christ, true God and true man — touch what in me only a man can touch, save what only God can save.",
+        "pt-BR": "Cristo, verdadeiro Deus e verdadeiro homem — tocai em mim aquilo que só um homem pode tocar, salvai o que só Deus pode salvar."
+      }
+    },
+    {
+      "session_id": "session-015",
+      "ekphrasis": {
+        "en-US": "Straw, breath of an ox, a young woman holding the Almighty as a sleeping infant. The Most High chose to enter time as one of the powerless, where any of us could find Him. Bend a little. He is small enough to be reached.",
+        "pt-BR": "Palha, hálito de boi, uma jovem segurando o Onipotente como uma criança adormecida. O Altíssimo escolheu entrar no tempo como um dos sem poder, onde qualquer um de nós poderia encontrá-Lo. Incline-se um pouco. Ele se fez pequeno o bastante para ser alcançado."
+      },
+      "scripture": {
+        "ref_en": "Luke 2:7",
+        "ref_pt": "Lucas 2, 7",
+        "text_en": "And she brought forth her firstborn son, and wrapped him up in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+        "text_pt": "E deu à luz o seu Filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na hospedaria."
+      },
+      "closing": {
+        "en-US": "Lord, You came small. Today, in what is small in my life, let me find You.",
+        "pt-BR": "Senhor, Vós viestes pequeno. Hoje, naquilo que é pequeno na minha vida, deixai-me encontrar-Vos."
+      }
+    },
+    {
+      "session_id": "session-016",
+      "ekphrasis": {
+        "en-US": "Christ on the hill, the crowd seated, His hands open. He is teaching, and the universe is rearranging itself around the words. Healing the blind, multiplying loaves, walking on water — these were not stunts. They were signatures.",
+        "pt-BR": "Cristo no monte, a multidão sentada, suas mãos abertas. Ele está ensinando, e o universo se reorganiza ao redor das palavras. Curar cegos, multiplicar pães, caminhar sobre as águas — não foram truques. Foram assinaturas."
+      },
+      "scripture": {
+        "ref_en": "John 14:11",
+        "ref_pt": "João 14, 11",
+        "text_en": "Otherwise believe for the very works' sake.",
+        "text_pt": "Crede ao menos por causa das mesmas obras."
+      },
+      "closing": {
+        "en-US": "Master, when I doubt, let Your works carry me where my reasons cannot. They are still happening.",
+        "pt-BR": "Mestre, quando eu duvidar, que as Vossas obras me levem onde as minhas razões não conseguem. Elas continuam acontecendo."
+      }
+    },
+    {
+      "session_id": "session-017",
+      "ekphrasis": {
+        "en-US": "Velázquez's crucified Christ — quiet, total, alone. He died as a man because as God He could not. Three days a body, in a tomb, in the dark. The center of all the world was right there, hidden under stone.",
+        "pt-BR": "O Cristo crucificado de Velázquez — silencioso, total, só. Morreu como homem porque, como Deus, não podia. Três dias um corpo, num sepulcro, no escuro. O centro de todo o mundo estava ali, escondido sob pedra."
+      },
+      "scripture": {
+        "ref_en": "1 Peter 3:18",
+        "ref_pt": "1 Pedro 3, 18",
+        "text_en": "Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit.",
+        "text_pt": "Cristo morreu uma só vez pelos pecados, o justo pelos injustos, para nos oferecer a Deus, sendo morto na carne, mas vivificado no espírito."
+      },
+      "closing": {
+        "en-US": "By Your wounds I am healed. Today, let me carry someone else's a little, in You.",
+        "pt-BR": "Pelas Vossas chagas sou curado. Hoje, fazei-me carregar um pouco das de outro, em Vós."
+      }
+    },
+    {
+      "session_id": "session-018",
+      "ekphrasis": {
+        "en-US": "Piero's Christ steps out of the tomb upright, banner in hand, the soldiers asleep at His feet. This was not metaphor. A body that had stopped breathing started again — the same body, glorified. Christianity rises or falls on this morning.",
+        "pt-BR": "O Cristo de Piero sai do sepulcro de pé, estandarte na mão, os soldados adormecidos a seus pés. Isto não foi metáfora. Um corpo que havia parado de respirar voltou a respirar — o mesmo corpo, glorificado. O cristianismo se levanta ou cai nesta manhã."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 15:20",
+        "ref_pt": "1 Coríntios 15, 20",
+        "text_en": "But now Christ is risen from the dead, the firstfruits of them that sleep.",
+        "text_pt": "Mas, agora, Cristo ressuscitou dos mortos, primícias dos que adormeceram."
+      },
+      "closing": {
+        "en-US": "Risen Lord, You went first. Where I am sleeping, wake me. What in me has died, raise.",
+        "pt-BR": "Senhor ressuscitado, Vós fostes primeiro. Onde eu durmo, despertai-me. O que em mim morreu, ressuscitai."
+      }
+    },
+    {
+      "session_id": "session-019",
+      "ekphrasis": {
+        "en-US": "Hands raised, feet leaving the ground, the apostles staring upward. He did not slip away — He returned, in His body, to the place He had come from. The man Jesus is now where God is, with His scars.",
+        "pt-BR": "Mãos erguidas, pés deixando o chão, os apóstolos olhando para cima. Ele não desapareceu — voltou, no Seu corpo, ao lugar de onde tinha vindo. O homem Jesus está agora onde Deus está, com Suas chagas."
+      },
+      "scripture": {
+        "ref_en": "Acts 1:11",
+        "ref_pt": "Atos 1, 11",
+        "text_en": "This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven.",
+        "text_pt": "Este Jesus, que dentre vós foi assunto ao céu, virá da mesma maneira como o vistes ir para o céu."
+      },
+      "closing": {
+        "en-US": "Christ now in glory, do not feel far away from me. You took my flesh upward; let my heart follow.",
+        "pt-BR": "Cristo agora na glória, não Vos sintais distante. Levastes a minha carne para o alto; que o meu coração siga."
+      }
+    },
+    {
+      "session_id": "session-020",
+      "ekphrasis": {
+        "en-US": "Fra Angelico's Christ in glory raises His hand and the dead rise. There is a day when this will not be a painting. He will return — visible, kingly, just. The world is not improvising forever.",
+        "pt-BR": "O Cristo glorioso de Fra Angelico levanta a mão e os mortos se erguem. Há um dia em que isto não será uma pintura. Ele voltará — visível, régio, justo. O mundo não está improvisando para sempre."
+      },
+      "scripture": {
+        "ref_en": "Matthew 25:31",
+        "ref_pt": "Mateus 25, 31",
+        "text_en": "And when the Son of man shall come in his majesty, and all the angels with him, then shall he sit upon the seat of his majesty.",
+        "text_pt": "Quando vier o Filho do homem na sua majestade, e todos os anjos com Ele, então se sentará sobre o trono da sua glória."
+      },
+      "closing": {
+        "en-US": "Just Judge, You will see everything. Today let me live so that I will not be ashamed when You do.",
+        "pt-BR": "Justo Juiz, Vós vereis tudo. Hoje, fazei-me viver de modo que eu não me envergonhe quando o virdes."
+      }
+    },
+    {
+      "session_id": "session-021",
+      "ekphrasis": {
+        "en-US": "A small panel: a body on a deathbed, a soul above it, light or dark depending. There are two judgments, one personal and immediate, one cosmic and final — and you will be in both. The first is closer than you think.",
+        "pt-BR": "Um pequeno painel: um corpo no leito da morte, uma alma sobre ele, luz ou escuridão, conforme. Há dois juízos, um pessoal e imediato, outro cósmico e final — e você estará em ambos. O primeiro está mais perto do que parece."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 9:27",
+        "ref_pt": "Hebreus 9, 27",
+        "text_en": "And as it is appointed unto men once to die, and after this the judgment.",
+        "text_pt": "E, assim como está estabelecido aos homens morrerem uma só vez, vindo depois disso o juízo."
+      },
+      "closing": {
+        "en-US": "Lord, I will meet You alone. Make me the kind of soul You can recognize when that meeting comes.",
+        "pt-BR": "Senhor, eu Vos encontrarei a sós. Tornai-me a alma que Vós possais reconhecer quando esse encontro chegar."
+      }
+    },
+    {
+      "session_id": "session-022",
+      "ekphrasis": {
+        "en-US": "A Spanish painter shows souls in flame, but the flame is gentle and they are reaching upward. Purgatory is not punishment for the lost; it is the last polishing of the saved. Pray for them. They will pray for you.",
+        "pt-BR": "Um pintor espanhol mostra almas em chamas, mas a chama é gentil e elas se erguem para o alto. O purgatório não é castigo dos perdidos; é o último polimento dos salvos. Reze por elas. Elas rezarão por você."
+      },
+      "scripture": {
+        "ref_en": "2 Maccabees 12:46",
+        "ref_pt": "2 Macabeus 12, 46",
+        "text_en": "It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.",
+        "text_pt": "É, portanto, um pensamento santo e salutar orar pelos defuntos, para que sejam libertados dos pecados."
+      },
+      "closing": {
+        "en-US": "Eternal Rest, grant them, Lord. And grant me, in time, the same mercy I beg for them.",
+        "pt-BR": "Dai-lhes o descanso eterno, Senhor. E concedei-me, a seu tempo, a mesma misericórdia que peço por elas."
+      }
+    },
+    {
+      "session_id": "session-023",
+      "ekphrasis": {
+        "en-US": "Fra Angelico's heaven: figures dancing, hands joined, faces lit. Heaven is not a passive reward — it is the maximum of being awake. And hell is the maximum of being alone. Both are forever. Choose accordingly, today, in what you choose.",
+        "pt-BR": "O céu de Fra Angelico: figuras dançando, mãos dadas, rostos iluminados. O céu não é uma recompensa passiva — é o máximo de estar desperto. E o inferno é o máximo de estar só. Ambos para sempre. Escolha à altura, hoje, no que você escolher."
+      },
+      "scripture": {
+        "ref_en": "Matthew 25:46",
+        "ref_pt": "Mateus 25, 46",
+        "text_en": "And these shall go into everlasting punishment: but the just, into life everlasting.",
+        "text_pt": "Estes irão para o suplício eterno; mas os justos, para a vida eterna."
+      },
+      "closing": {
+        "en-US": "Lord, my soul is not made for an afternoon. Make me ready to live forever — with You.",
+        "pt-BR": "Senhor, a minha alma não foi feita para uma tarde. Tornai-me pronto a viver para sempre — convosco."
+      }
+    },
+    {
+      "session_id": "session-024",
+      "ekphrasis": {
+        "en-US": "Christ holds out two keys to a kneeling fisherman. The Church is not the mood of a generation, not the personal preferences of clerics — it is a society Christ founded with His own hands and never abandoned. You belong to a body older than empires.",
+        "pt-BR": "Cristo estende duas chaves a um pescador de joelhos. A Igreja não é o humor de uma geração, nem a preferência pessoal de clérigos — é uma sociedade que Cristo fundou com as próprias mãos e nunca abandonou. Você pertence a um corpo mais antigo do que os impérios."
+      },
+      "scripture": {
+        "ref_en": "Matthew 16:18",
+        "ref_pt": "Mateus 16, 18",
+        "text_en": "And I say to thee: That thou art Peter; and upon this rock I will build my church, and the gates of hell shall not prevail against it.",
+        "text_pt": "Também eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela."
+      },
+      "closing": {
+        "en-US": "Lord, You built one Church. When I am tempted to leave, remind me there is nowhere else You said You would be.",
+        "pt-BR": "Senhor, edificastes uma só Igreja. Quando eu for tentado a partir, lembrai-me de que não há outro lugar onde dissestes que estaríeis."
+      }
+    },
+    {
+      "session_id": "session-025",
+      "ekphrasis": {
+        "en-US": "Pentecost in El Greco: tongues of flame, faces lifted, the Apostles unrecognizable as the men who had run away. The Church is one because she has one fire. Holy because that fire purifies. Catholic because it goes out to everyone. Apostolic because it was carried, hand to hand, to here.",
+        "pt-BR": "O Pentecostes em El Greco: línguas de fogo, rostos erguidos, os Apóstolos irreconhecíveis como aqueles que tinham fugido. A Igreja é una porque tem um só fogo. Santa porque esse fogo purifica. Católica porque vai a todos. Apostólica porque foi levada, mão a mão, até aqui."
+      },
+      "scripture": {
+        "ref_en": "Ephesians 4:5",
+        "ref_pt": "Efésios 4, 5",
+        "text_en": "One Lord, one faith, one baptism.",
+        "text_pt": "Um só Senhor, uma só fé, um só batismo."
+      },
+      "closing": {
+        "en-US": "Holy Spirit, the same fire that fell on them — fall on me today. I am poorer than they were, and I need it more.",
+        "pt-BR": "Espírito Santo, o mesmo fogo que caiu sobre eles — caía hoje sobre mim. Sou mais pobre do que eles, e preciso dele mais ainda."
+      }
+    },
+    {
+      "session_id": "session-026",
+      "ekphrasis": {
+        "en-US": "An old chair holds a man dressed in white. He is not the source of the gospel; he is its custodian. The Pope and the bishops in communion with him preserve, transmit, decide, against all the times that try to overrun them. Christ promised it would hold.",
+        "pt-BR": "Uma cadeira antiga sustenta um homem vestido de branco. Ele não é a fonte do evangelho; é o seu custódio. O Papa e os bispos em comunhão com ele preservam, transmitem, decidem, contra todos os tempos que tentam derrubá-los. Cristo prometeu que se manteria."
+      },
+      "scripture": {
+        "ref_en": "Luke 22:32",
+        "ref_pt": "Lucas 22, 32",
+        "text_en": "But I have prayed for thee, that thy faith fail not: and thou, being once converted, confirm thy brethren.",
+        "text_pt": "Mas eu roguei por ti, para que a tua fé não desfaleça; e tu, depois de convertido, confirma os teus irmãos."
+      },
+      "closing": {
+        "en-US": "Lord, You promised faith would not fail in Peter. Confirm me through him today, against my own private opinion.",
+        "pt-BR": "Senhor, prometestes que a fé não desfaleceria em Pedro. Confirmai-me hoje através dele, contra a minha opinião particular."
+      }
+    },
+    {
+      "session_id": "session-027",
+      "ekphrasis": {
+        "en-US": "All the saints together — known and forgotten, kings and beggars, the canonized and the lost-to-history Christians of small towns. The Church on earth, the Church suffering, the Church glorified. You are connected to every one of them by something thicker than blood.",
+        "pt-BR": "Todos os santos juntos — conhecidos e esquecidos, reis e mendigos, os canonizados e os cristãos esquecidos pela história das pequenas cidades. A Igreja na terra, a Igreja que sofre, a Igreja glorificada. Você está ligado a cada um deles por algo mais espesso do que o sangue."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 12:27",
+        "ref_pt": "1 Coríntios 12, 27",
+        "text_en": "Now you are the body of Christ, and members of member.",
+        "text_pt": "Vós sois o corpo de Cristo e seus membros, cada um por sua parte."
+      },
+      "closing": {
+        "en-US": "Communion of saints — pray for me. I am one of you, weakly, but really. Hold me up.",
+        "pt-BR": "Comunhão dos santos — orai por mim. Sou um de vós, fragilmente, mas realmente. Sustentai-me."
+      }
+    },
+    {
+      "session_id": "session-028",
+      "ekphrasis": {
+        "en-US": "Murillo's heaven leans down — saints and Mary interceding, hands open. The friendship of the saints is real and active. They pray for you when you do not pray for yourself. They have been waiting for you to notice.",
+        "pt-BR": "O céu de Murillo se inclina — santos e Maria intercedendo, mãos abertas. A amizade dos santos é real e atuante. Eles oram por você quando você não ora por si. Esperaram que você notasse."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 12:1",
+        "ref_pt": "Hebreus 12, 1",
+        "text_en": "And therefore we also having so great a cloud of witnesses over our head, laying aside every weight and sin which surrounds us, let us run by patience to the fight proposed to us.",
+        "text_pt": "Por isso, também nós, cercados de tão grande nuvem de testemunhas, depondo todo o peso e o pecado que nos cerca, corramos com perseverança na luta que nos é proposta."
+      },
+      "closing": {
+        "en-US": "Saints — known and unknown — run with me today. Don't let me forget that the race has been run before.",
+        "pt-BR": "Santos — conhecidos e desconhecidos — corram comigo hoje. Não me deixem esquecer que a corrida já foi corrida antes."
+      }
+    },
+    {
+      "session_id": "session-029",
+      "ekphrasis": {
+        "en-US": "The Good Shepherd carries one sheep across His shoulders. The Church is a fold; outside the fold is real cold, real loss. Pray for those outside — including the parts of yourself that wandered.",
+        "pt-BR": "O Bom Pastor carrega uma ovelha sobre os ombros. A Igreja é um redil; fora dele há frio real, perda real. Reze pelos que estão fora — inclusive pelas partes de si mesmo que se afastaram."
+      },
+      "scripture": {
+        "ref_en": "John 10:16",
+        "ref_pt": "João 10, 16",
+        "text_en": "And other sheep I have, that are not of this fold: them also I must bring, and they shall hear my voice.",
+        "text_pt": "Tenho ainda outras ovelhas que não são deste aprisco; também a essas devo trazer, e ouvirão a minha voz."
+      },
+      "closing": {
+        "en-US": "Good Shepherd, find what is wandering today — in the world, in me. Carry it back.",
+        "pt-BR": "Bom Pastor, encontrai hoje o que se desgarra — no mundo e em mim. Trazei-o de volta."
+      }
+    },
+    {
+      "session_id": "session-030",
+      "ekphrasis": {
+        "en-US": "Rembrandt's prodigal son — gaunt, ruined, kneeling — and the father's hands resting on him. One hand mother, one father, both pure tenderness. The Church holds the power to forgive sins because Christ holds it. Stand inside the painting today.",
+        "pt-BR": "O filho pródigo de Rembrandt — magro, arruinado, ajoelhado — e as mãos do pai pousadas sobre ele. Uma mão materna, uma paterna, ambas puro carinho. A Igreja tem o poder de perdoar pecados porque Cristo o tem. Coloque-se dentro da pintura hoje."
+      },
+      "scripture": {
+        "ref_en": "Luke 15:20",
+        "ref_pt": "Lucas 15, 20",
+        "text_en": "And rising up he came to his father. And when he was yet a great way off, his father saw him, and was moved with compassion, and running to him fell upon his neck, and kissed him.",
+        "text_pt": "E, levantando-se, foi ter com seu pai. Quando ainda estava longe, seu pai o viu e moveu-se de compaixão, e, correndo, lançou-se ao seu pescoço e o beijou."
+      },
+      "closing": {
+        "en-US": "Father, I am the prodigal. Stop me from being the elder brother. Let me come home, again, today.",
+        "pt-BR": "Pai, eu sou o pródigo. Impedi-me de ser o irmão mais velho. Deixai-me voltar para casa, mais uma vez, hoje."
+      }
+    },
+    {
+      "session_id": "session-031",
+      "ekphrasis": {
+        "en-US": "La Tour painted Magdalene by candlelight — a skull on the table, her hand on her cheek, the flame steady. Mortal sin is the door slammed on grace. But the door has a knob. It can be opened from inside, by sorrow, with the saint who has done it before.",
+        "pt-BR": "La Tour pintou Madalena à luz de uma vela — uma caveira sobre a mesa, a mão no rosto, a chama firme. O pecado mortal é a porta batida contra a graça. Mas a porta tem maçaneta. Pode ser aberta por dentro, pela dor, com a santa que já o fez antes."
+      },
+      "scripture": {
+        "ref_en": "Luke 7:47",
+        "ref_pt": "Lucas 7, 47",
+        "text_en": "Wherefore I say to thee: Many sins are forgiven her, because she hath loved much.",
+        "text_pt": "Por isso te digo: muitos pecados lhe são perdoados, porque muito amou."
+      },
+      "closing": {
+        "en-US": "Lord, I have shut doors on You. Today, give me the courage of the Magdalene to open one.",
+        "pt-BR": "Senhor, já fechei portas contra Vós. Hoje, dai-me a coragem da Madalena para abrir uma."
+      }
+    },
+    {
+      "session_id": "session-032",
+      "ekphrasis": {
+        "en-US": "A medieval panel of the Four Last Things — death, judgment, hell, heaven — set in the corners. The little sins matter; they are the path that ends at one of those corners. Today, the small choice. Tomorrow, the corner.",
+        "pt-BR": "Um painel medieval das Quatro Últimas Coisas — morte, juízo, inferno, céu — postas nos cantos. Os pequenos pecados importam; são o caminho que termina em um daqueles cantos. Hoje, a pequena escolha. Amanhã, o canto."
+      },
+      "scripture": {
+        "ref_en": "Matthew 12:31",
+        "ref_pt": "Mateus 12, 31",
+        "text_en": "Therefore I say to you: Every sin and blasphemy shall be forgiven men, but the blasphemy of the Spirit shall not be forgiven.",
+        "text_pt": "Por isso vos digo: todo pecado e blasfêmia será perdoado aos homens, mas a blasfêmia contra o Espírito não será perdoada."
+      },
+      "closing": {
+        "en-US": "Holy Spirit, do not let me harden against You. Keep my heart soft enough that mercy can still get in.",
+        "pt-BR": "Espírito Santo, não me deixeis endurecer contra Vós. Mantende o meu coração macio o bastante para que a misericórdia ainda entre."
+      }
+    },
+    {
+      "session_id": "session-033",
+      "ekphrasis": {
+        "en-US": "Signorelli's bodies climb out of the earth at Orvieto — gymnastic, surprised, shining. Your body too is going somewhere — not into the ground forever, but back, restored, recognizable. What you do with it now is not throwaway.",
+        "pt-BR": "Os corpos de Signorelli em Orvieto saem da terra — atléticos, surpresos, luminosos. O seu corpo também vai a algum lugar — não para a terra para sempre, mas de volta, restaurado, reconhecível. O que você faz com ele agora não é descartável."
+      },
+      "scripture": {
+        "ref_en": "John 11:25",
+        "ref_pt": "João 11, 25",
+        "text_en": "Jesus said to her: I am the resurrection and the life: he that believeth in me, although he be dead, shall live.",
+        "text_pt": "Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá."
+      },
+      "closing": {
+        "en-US": "Lord of life, make my body Your temple now, and Your seed for the resurrection then.",
+        "pt-BR": "Senhor da vida, fazei do meu corpo o Vosso templo agora, e a Vossa semente para a ressurreição depois."
+      }
+    },
+    {
+      "session_id": "session-034",
+      "ekphrasis": {
+        "en-US": "Van Eyck's Adoration of the Lamb: the saved at last gathered, the Lamb at the center, the New Jerusalem rising behind. \"Amen\" is not the end of a sentence; it is the answer of all created things to all of God.",
+        "pt-BR": "A Adoração do Cordeiro, de Van Eyck: os salvos enfim reunidos, o Cordeiro ao centro, a Nova Jerusalém erguendo-se atrás. \"Amém\" não é o fim de uma frase; é a resposta de todas as coisas criadas a tudo de Deus."
+      },
+      "scripture": {
+        "ref_en": "Revelation 21:4",
+        "ref_pt": "Apocalipse 21, 4",
+        "text_en": "And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are passed away.",
+        "text_pt": "E Deus enxugará dos seus olhos toda lágrima; e não haverá mais morte, nem luto, nem clamor, nem dor, porque as primeiras coisas passaram."
+      },
+      "closing": {
+        "en-US": "Amen, Lord, to all of it. To everything You will. Today and at the end. Amen.",
+        "pt-BR": "Amém, Senhor, a tudo. A tudo que Vós quereis. Hoje e no fim. Amém."
+      }
+    },
+    {
+      "session_id": "session-035",
+      "ekphrasis": {
+        "en-US": "Rembrandt's Moses lifts the tablets, his eyes hard with the light he has seen. The Ten Commandments are not arbitrary — they are the geometry of love. They tell you the shape of a heart that wants God and the heart of a neighbor it doesn't damage.",
+        "pt-BR": "O Moisés de Rembrandt levanta as tábuas, os olhos duros com a luz que viu. Os Dez Mandamentos não são arbitrários — são a geometria do amor. Eles dizem a forma de um coração que quer a Deus e a forma de um próximo que ele não fere."
+      },
+      "scripture": {
+        "ref_en": "Matthew 22:37-39",
+        "ref_pt": "Mateus 22, 37-39",
+        "text_en": "Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest and the first commandment. And the second is like to this: Thou shalt love thy neighbour as thyself.",
+        "text_pt": "Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu espírito. Este é o maior e o primeiro mandamento. O segundo lhe é semelhante: Amarás o teu próximo como a ti mesmo."
+      },
+      "closing": {
+        "en-US": "Lord, the law is love. Today, do not let me reduce love to a feeling. Make me obey it.",
+        "pt-BR": "Senhor, a lei é amor. Hoje, não me deixeis reduzir o amor a um sentimento. Fazei-me obedecer."
+      }
+    },
+    {
+      "session_id": "session-036",
+      "ekphrasis": {
+        "en-US": "Christ on a hillside, hands open: \"Blessed are…\" The commandments are observable — He says so. With grace they are not impossible. Without grace they are crushing. Either way, they are real.",
+        "pt-BR": "Cristo numa encosta, mãos abertas: \"Bem-aventurados…\" Os mandamentos são cumpríveis — Ele o diz. Com a graça não são impossíveis. Sem a graça são esmagadores. De um modo ou de outro, são reais."
+      },
+      "scripture": {
+        "ref_en": "John 14:15",
+        "ref_pt": "João 14, 15",
+        "text_en": "If you love me, keep my commandments.",
+        "text_pt": "Se me amais, guardareis os meus mandamentos."
+      },
+      "closing": {
+        "en-US": "Lord, today, in something small, let me obey because I love You — not because I will be punished otherwise.",
+        "pt-BR": "Senhor, hoje, em alguma coisa pequena, fazei-me obedecer porque Vos amo — e não porque seria castigado de outro modo."
+      }
+    },
+    {
+      "session_id": "session-037",
+      "ekphrasis": {
+        "en-US": "The Magi kneel before a child. Their gold is laid down. They have come a long way to surrender at this one place — because there is one place worth surrendering to. Today, locate it again.",
+        "pt-BR": "Os Magos ajoelham-se diante de uma criança. O ouro deles está posto no chão. Vieram de longe para render-se neste lugar — porque há um lugar digno de rendição. Hoje, localize-o de novo."
+      },
+      "scripture": {
+        "ref_en": "Exodus 20:3",
+        "ref_pt": "Êxodo 20, 3",
+        "text_en": "Thou shalt not have strange gods before me.",
+        "text_pt": "Não terás outros deuses diante de mim."
+      },
+      "closing": {
+        "en-US": "Lord, the gods I make are bad ones. Pull them down today. Be the one I worship.",
+        "pt-BR": "Senhor, os deuses que fabrico são maus. Derribai-os hoje. Sede Aquele que adoro."
+      }
+    },
+    {
+      "session_id": "session-038",
+      "ekphrasis": {
+        "en-US": "Mary holds her Child; saints stand around like a court that has known her always. The Catholic does not adore them — only God receives that. But to honor a friend of God is to honor God. Honor them today.",
+        "pt-BR": "Maria segura o seu Filho; santos a rodeiam como uma corte que sempre a conheceu. O católico não os adora — só a Deus se adora. Mas honrar um amigo de Deus é honrar a Deus. Honre-os hoje."
+      },
+      "scripture": {
+        "ref_en": "Luke 1:48",
+        "ref_pt": "Lucas 1, 48",
+        "text_en": "For behold from henceforth all generations shall call me blessed.",
+        "text_pt": "Porque desde agora todas as gerações me chamarão bem-aventurada."
+      },
+      "closing": {
+        "en-US": "Mother of God, pray for me. Saints whose names I do not know, pray for me also. Bring me to your Lord.",
+        "pt-BR": "Mãe de Deus, rogai por mim. Santos cujos nomes ignoro, rogai também por mim. Levai-me ao vosso Senhor."
+      }
+    },
+    {
+      "session_id": "session-039",
+      "ekphrasis": {
+        "en-US": "An icon of the True Cross carried in procession. The wood, the relic, the painted image — none of these are God. But God works through them. Reverence is not idolatry; it is the right response to a sign that is more than a sign.",
+        "pt-BR": "Um ícone da Vera Cruz levado em procissão. A madeira, a relíquia, a imagem — nada disso é Deus. Mas Deus opera por meio delas. A reverência não é idolatria; é a resposta justa a um sinal que é mais do que um sinal."
+      },
+      "scripture": {
+        "ref_en": "Acts 19:12",
+        "ref_pt": "Atos 19, 12",
+        "text_en": "So that even there were brought from his body to the sick, handkerchiefs and aprons, and the diseases departed from them, and the wicked spirits went out of them.",
+        "text_pt": "De sorte que até os lenços e aventais que tinham tocado o seu corpo eram levados aos enfermos, e as enfermidades os deixavam, e os espíritos maus saíam deles."
+      },
+      "closing": {
+        "en-US": "Lord, You sanctify matter. Today, let me see Your work in things — and not despise them, and not adore them.",
+        "pt-BR": "Senhor, Vós santificais a matéria. Hoje, deixai-me ver a Vossa obra nas coisas — sem desprezá-las e sem adorá-las."
+      }
+    },
+    {
+      "session_id": "session-040",
+      "ekphrasis": {
+        "en-US": "An IHS monogram blazes in gold inside a Bernini frame. The Name of Jesus is not a magic word — but it is not a casual one either. Most of the cursing of the world is also unconscious prayer. Today, mean every Name you speak.",
+        "pt-BR": "Um monograma IHS arde em ouro dentro de uma moldura de Bernini. O Nome de Jesus não é palavra mágica — mas tampouco é palavra trivial. A maior parte da blasfêmia do mundo também é, sem o saber, oração. Hoje, sinta cada Nome que pronuncia."
+      },
+      "scripture": {
+        "ref_en": "Philippians 2:10",
+        "ref_pt": "Filipenses 2, 10",
+        "text_en": "That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth.",
+        "text_pt": "Para que ao nome de Jesus se dobre todo joelho, dos que estão nos céus, na terra e nos infernos."
+      },
+      "closing": {
+        "en-US": "Jesus. Today, let Your Name be the one I say with most attention.",
+        "pt-BR": "Jesus. Que hoje o Vosso Nome seja o que eu pronuncie com mais atenção."
+      }
+    },
+    {
+      "session_id": "session-041",
+      "ekphrasis": {
+        "en-US": "Hannah whispers in the temple — they think she is drunk; she is making a vow that will give Israel its prophet. A vow is a debt of love freely contracted. Promise less, and keep what you promise.",
+        "pt-BR": "Ana sussurra no templo — pensam que está embriagada; está fazendo um voto que dará a Israel o seu profeta. O voto é uma dívida de amor livremente contraída. Prometa menos, e cumpra o que prometeu."
+      },
+      "scripture": {
+        "ref_en": "Ecclesiastes 5:4",
+        "ref_pt": "Eclesiastes 5, 3",
+        "text_en": "If thou hast vowed any thing to God, defer not to pay it: for an unfaithful and foolish promise displeaseth him.",
+        "text_pt": "Se fizeres voto a Deus, não tardes em cumpri-lo, porque a promessa infiel e tola não Lhe agrada."
+      },
+      "closing": {
+        "en-US": "Lord, what I have promised You, I will do. Hold me to it. Help me.",
+        "pt-BR": "Senhor, o que Vos prometi, eu farei. Sustentai-me na palavra. Ajudai-me."
+      }
+    },
+    {
+      "session_id": "session-042",
+      "ekphrasis": {
+        "en-US": "The priest lifts the host; the world stops. Sunday is not a leftover day — it is the day around which the others are arranged. The Mass is the gravity of the week. Without it, the rest drifts.",
+        "pt-BR": "O sacerdote eleva a hóstia; o mundo para. O domingo não é um dia que sobra — é o dia ao redor do qual os outros se ordenam. A Missa é a gravidade da semana. Sem ela, o resto se desloca."
+      },
+      "scripture": {
+        "ref_en": "Exodus 20:8",
+        "ref_pt": "Êxodo 20, 8",
+        "text_en": "Remember that thou keep holy the sabbath day.",
+        "text_pt": "Lembra-te de santificar o dia de sábado."
+      },
+      "closing": {
+        "en-US": "Lord, this Sunday, gather me. Pull me out of the week. Give me the Mass back as the center.",
+        "pt-BR": "Senhor, neste domingo, recolhei-me. Tirai-me da semana. Dai-me de volta a Missa como centro."
+      }
+    },
+    {
+      "session_id": "session-043",
+      "ekphrasis": {
+        "en-US": "Millet's peasants pause at the Angelus — heads bowed, the field forgotten for a moment. Sabbath is rest, but it is rest with a direction. Stop, today, the way they stopped — for someone, not for nothing.",
+        "pt-BR": "Os camponeses de Millet pausam para o Ângelus — cabeças inclinadas, o campo esquecido por um instante. O sábado é descanso, mas descanso com direção. Pare hoje como eles pararam — por alguém, não por nada."
+      },
+      "scripture": {
+        "ref_en": "Mark 2:27",
+        "ref_pt": "Marcos 2, 27",
+        "text_en": "The sabbath was made for man, and not man for the sabbath.",
+        "text_pt": "O sábado foi feito para o homem, e não o homem para o sábado."
+      },
+      "closing": {
+        "en-US": "Lord, when I rest today, let me rest in You. Otherwise it will not be rest.",
+        "pt-BR": "Senhor, quando eu descansar hoje, que descanse em Vós. Do contrário, não será descanso."
+      }
+    },
+    {
+      "session_id": "session-044",
+      "ekphrasis": {
+        "en-US": "Joseph's hand rests on the boy's shoulder; Mary watches from the doorway. The Holy Family is not a sentimental painting — it is the model of every authority and every obedience. Honor those given to you. Become someone worth honoring.",
+        "pt-BR": "A mão de José pousa no ombro do menino; Maria observa da porta. A Sagrada Família não é pintura sentimental — é o modelo de toda autoridade e de toda obediência. Honre os que lhe foram dados. Torne-se alguém digno de ser honrado."
+      },
+      "scripture": {
+        "ref_en": "Ephesians 6:2",
+        "ref_pt": "Efésios 6, 2",
+        "text_en": "Honour thy father and thy mother, which is the first commandment with a promise.",
+        "text_pt": "Honra teu pai e tua mãe — é o primeiro mandamento que tem uma promessa."
+      },
+      "closing": {
+        "en-US": "Lord, the people You gave me are not perfect. Help me honor them anyway. They are mine.",
+        "pt-BR": "Senhor, as pessoas que me destes não são perfeitas. Ajudai-me a honrá-las assim mesmo. São minhas."
+      }
+    },
+    {
+      "session_id": "session-045",
+      "ekphrasis": {
+        "en-US": "The Samaritan kneels at the side of a man left for dead. There is no calculation in his hands. Life — yours, theirs, the life still inside the womb, the life still in the dying — belongs to God. Defend it.",
+        "pt-BR": "O samaritano ajoelha-se ao lado de um homem dado por morto. Não há cálculo nas suas mãos. A vida — a sua, a dos outros, a que ainda está no ventre, a que ainda está no moribundo — pertence a Deus. Defenda-a."
+      },
+      "scripture": {
+        "ref_en": "Genesis 9:6",
+        "ref_pt": "Gênesis 9, 6",
+        "text_en": "Whosoever shall shed man's blood, his blood shall be shed: for man was made to the image of God.",
+        "text_pt": "Quem derramar o sangue do homem, o seu sangue será derramado, porque o homem foi feito à imagem de Deus."
+      },
+      "closing": {
+        "en-US": "Lord, the body You made is not disposable. Today, let me notice one life and protect it.",
+        "pt-BR": "Senhor, o corpo que fizestes não é descartável. Hoje, fazei-me notar uma vida e protegê-la."
+      }
+    },
+    {
+      "session_id": "session-046",
+      "ekphrasis": {
+        "en-US": "Christ in Gethsemane — alone, awake, surrounded by the worst hours of His life — and He does not turn the cup over. He drinks. Suicide and despair are not options for one who has watched Him drink it.",
+        "pt-BR": "Cristo no Getsêmani — só, desperto, cercado pelas piores horas da Sua vida — e não derrama o cálice. Bebe-o. O suicídio e o desespero não são opções para quem O viu bebê-lo."
+      },
+      "scripture": {
+        "ref_en": "Romans 12:19",
+        "ref_pt": "Romanos 12, 19",
+        "text_en": "Revenge not yourselves, my dearly beloved; but give place unto wrath, for it is written: Revenge is mine, I will repay, saith the Lord.",
+        "text_pt": "Não vos vingueis a vós mesmos, meus caríssimos, mas dai lugar à ira, pois está escrito: A mim me pertence a vingança; eu retribuirei, diz o Senhor."
+      },
+      "closing": {
+        "en-US": "Lord, when I am tempted to despair, sit with me as You sat in the garden. Do not let me be alone there.",
+        "pt-BR": "Senhor, quando eu for tentado ao desespero, sentai-Vos comigo como Vos sentastes no horto. Não me deixeis só ali."
+      }
+    },
+    {
+      "session_id": "session-047",
+      "ekphrasis": {
+        "en-US": "From the cross, He prays for those killing Him. Forgive — and refuse to be the cause of someone else's downfall. Two halves of the same commandment. Both feel impossible. Both are commanded.",
+        "pt-BR": "Da cruz, Ele ora pelos que O estão matando. Perdoe — e recuse-se a ser a causa da queda de outro. Duas metades do mesmo mandamento. Ambas parecem impossíveis. Ambas são mandadas."
+      },
+      "scripture": {
+        "ref_en": "Matthew 5:44",
+        "ref_pt": "Mateus 5, 44",
+        "text_en": "But I say to you, Love your enemies: do good to them that hate you: and pray for them that persecute and calumniate you.",
+        "text_pt": "Eu, porém, vos digo: amai os vossos inimigos, fazei o bem aos que vos odeiam, orai pelos que vos perseguem e caluniam."
+      },
+      "closing": {
+        "en-US": "Lord, name in me the enemy I will love today. Bring me to the place where I can.",
+        "pt-BR": "Senhor, nomeai em mim o inimigo que amarei hoje. Conduzi-me ao lugar onde poderei."
+      }
+    },
+    {
+      "session_id": "session-048",
+      "ekphrasis": {
+        "en-US": "Murillo's St. Joseph cradles the Child. The body is not the enemy of holiness — it is its instrument. Chastity is not anti-body; it is pro-body, in the highest possible sense. Treat your body, and other bodies, like temples.",
+        "pt-BR": "O São José de Murillo embala o Menino. O corpo não é inimigo da santidade — é o seu instrumento. A castidade não é anti-corpo; é pró-corpo, no mais alto sentido. Trate o seu corpo, e o corpo dos outros, como templos."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 6:19",
+        "ref_pt": "1 Coríntios 6, 19",
+        "text_en": "Or know you not, that your members are the temple of the Holy Ghost, who is in you, whom you have from God; and you are not your own?",
+        "text_pt": "Ou não sabeis que o vosso corpo é o templo do Espírito Santo que está em vós, que recebestes de Deus, e que já não vos pertenceis?"
+      },
+      "closing": {
+        "en-US": "Lord, this body is Yours. Today, let me handle it as Yours, and the bodies of others as Yours also.",
+        "pt-BR": "Senhor, este corpo é Vosso. Hoje, fazei-me tratá-lo como Vosso, e o corpo dos outros também como Vosso."
+      }
+    },
+    {
+      "session_id": "session-049",
+      "ekphrasis": {
+        "en-US": "Zacchaeus stands at the table and tells the room he will give back fourfold. The Seventh Commandment is not about thieves in a movie — it is about wages, debts, deals, the small thefts of attention and time. Restore today what you can.",
+        "pt-BR": "Zaqueu se levanta à mesa e diz à sala que devolverá em quádruplo. O sétimo mandamento não trata de ladrões de filme — trata de salários, dívidas, contratos, dos pequenos furtos de atenção e tempo. Restitua hoje o que puder."
+      },
+      "scripture": {
+        "ref_en": "Luke 19:8",
+        "ref_pt": "Lucas 19, 8",
+        "text_en": "Behold, Lord, the half of my goods I give to the poor; and if I have wronged any man of any thing, I restore him fourfold.",
+        "text_pt": "Senhor, eis que dou aos pobres metade dos meus bens; e, se em alguma coisa tenho defraudado a alguém, lho restituo quadruplicadamente."
+      },
+      "closing": {
+        "en-US": "Lord, what I owe — to anyone — let me start paying today. Even the small things.",
+        "pt-BR": "Senhor, o que devo — a quem quer que seja — que eu comece a pagar hoje. Mesmo as pequenas coisas."
+      }
+    },
+    {
+      "session_id": "session-050",
+      "ekphrasis": {
+        "en-US": "Susanna stands accused; she did nothing. The lie is exposed by Daniel — but only after she suffers it. Reputations are easy to tear and slow to mend. Speak the truth in due time. Do not slander, even silently.",
+        "pt-BR": "Susana está acusada; nada fez. A mentira é desmascarada por Daniel — mas só depois de ela sofrê-la. As famas são fáceis de rasgar e lentas de remendar. Diga a verdade no tempo devido. Não calunie, nem em silêncio."
+      },
+      "scripture": {
+        "ref_en": "Proverbs 22:1",
+        "ref_pt": "Provérbios 22, 1",
+        "text_en": "A good name is better than great riches: and good favour is above silver and gold.",
+        "text_pt": "Vale mais o bom nome do que muitas riquezas, e o ser estimado mais do que prata e ouro."
+      },
+      "closing": {
+        "en-US": "Lord, today, I will not speak ill of someone behind their back. Hold my tongue. Heal what others say of me.",
+        "pt-BR": "Senhor, hoje não falarei mal de alguém pelas costas. Sustentai a minha língua. Curai o que outros dizem de mim."
+      }
+    },
+    {
+      "session_id": "session-051",
+      "ekphrasis": {
+        "en-US": "Joseph runs from Potiphar's wife, leaving his cloak behind. The clean heart is not the absence of desire — it is desire ordered. Most modern lust hides because it never has to be named. Name it. Run.",
+        "pt-BR": "José foge da mulher de Putifar, deixando o manto para trás. O coração puro não é ausência de desejo — é desejo ordenado. A maior parte da concupiscência moderna se esconde porque nunca precisa ser nomeada. Nomeie-a. Fuja."
+      },
+      "scripture": {
+        "ref_en": "Matthew 5:28",
+        "ref_pt": "Mateus 5, 28",
+        "text_en": "But I say to you, that whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.",
+        "text_pt": "Eu, porém, vos digo: todo aquele que olha para uma mulher cobiçando-a já adulterou com ela no seu coração."
+      },
+      "closing": {
+        "en-US": "Lord, give me a clean heart. The clean heart sees more, not less. The clean heart sees You.",
+        "pt-BR": "Senhor, dai-me um coração limpo. O coração limpo vê mais, não menos. O coração limpo Vos vê."
+      },
+      "editor_note": {
+        "en-US": "*A note on numbering. Pius X numbers this the Ninth Commandment ('thou shalt not covet thy neighbor's wife'); Aquinas's Naples sermons treat it as the Tenth. The doctrine is the same — only the order of the two coveting commandments differs in the older catechetical tradition.*",
+        "pt-BR": "*Sobre a numeração. Pio X enumera este como Nono Mandamento ('não desejarás a mulher do teu próximo'); os sermões de Nápoles de São Tomás o tratam como Décimo. A doutrina é a mesma — só a ordem dos dois mandamentos sobre a cobiça difere na tradição catequética mais antiga.*"
+      }
+    },
+    {
+      "session_id": "session-052",
+      "ekphrasis": {
+        "en-US": "Giotto's Francis throws his clothes at his father's feet. Coveting is the disease that does not announce itself — you only know you have it when you finally let go of something. Today, let go of one thing.",
+        "pt-BR": "O Francisco de Giotto atira as próprias roupas aos pés do pai. A cobiça é a doença que não se anuncia — você só sabe que a tem quando finalmente solta alguma coisa. Hoje, solte uma coisa."
+      },
+      "scripture": {
+        "ref_en": "1 Timothy 6:7",
+        "ref_pt": "1 Timóteo 6, 7",
+        "text_en": "For we brought nothing into this world: and certainly we can carry nothing out.",
+        "text_pt": "Nada trouxemos para este mundo, e nada podemos levar dele."
+      },
+      "closing": {
+        "en-US": "Lord, You are enough. Today, let me act like it once.",
+        "pt-BR": "Senhor, Vós me bastais. Hoje, fazei-me agir como tal ao menos uma vez."
+      },
+      "editor_note": {
+        "en-US": "*A note on numbering. Pius X numbers this the Tenth Commandment ('thou shalt not covet thy neighbor's goods'); Aquinas's Naples sermons treat it as the Ninth. The doctrine is identical; only the historical order varies.*",
+        "pt-BR": "*Sobre a numeração. Pio X enumera este como Décimo Mandamento ('não cobiçarás as coisas do teu próximo'); os sermões de Nápoles de São Tomás o tratam como Nono. A doutrina é idêntica; somente a ordem histórica difere.*"
+      }
+    },
+    {
+      "session_id": "session-053",
+      "ekphrasis": {
+        "en-US": "A village walks toward the church together — small, ordinary, weekly. The precepts of the Church are scaffolding for a life of grace. They sound minimal because they are: this is the floor, not the ceiling.",
+        "pt-BR": "Uma vila caminha junta para a igreja — pequena, comum, semanal. Os preceitos da Igreja são o andaime de uma vida de graça. Soam mínimos porque o são: este é o piso, não o teto."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 10:25",
+        "ref_pt": "Hebreus 10, 25",
+        "text_en": "Not forsaking our assembly, as some are accustomed; but comforting one another, and so much the more as you see the day approaching.",
+        "text_pt": "Não abandoneis a nossa assembleia, como alguns têm por costume, mas exortai-vos uns aos outros, tanto mais quanto vedes que se aproxima o Dia."
+      },
+      "closing": {
+        "en-US": "Lord, let me at least stand on the floor. Get me to Mass. Then carry me higher.",
+        "pt-BR": "Senhor, ao menos colocai-me no piso. Levai-me à Missa. Depois, conduzi-me mais ao alto."
+      }
+    },
+    {
+      "session_id": "session-054",
+      "ekphrasis": {
+        "en-US": "The widow drops two coins into the temple treasury. Fasting, confession, Easter Communion, offering — these are not commercial transactions. They are little surrenders, repeated, until the heart learns the rhythm of yes.",
+        "pt-BR": "A viúva deixa cair duas moedas no tesouro do templo. Jejum, confissão, comunhão pascal, oferta — não são transações comerciais. São pequenas rendições, repetidas, até o coração aprender o ritmo do sim."
+      },
+      "scripture": {
+        "ref_en": "Joel 2:12",
+        "ref_pt": "Joel 2, 12",
+        "text_en": "Now therefore saith the Lord: Be converted to me with all your heart, in fasting, and in weeping, and in mourning.",
+        "text_pt": "Agora, pois, diz o Senhor, convertei-vos a mim de todo o vosso coração, em jejum, em pranto e em lamentação."
+      },
+      "closing": {
+        "en-US": "Lord, the rule is not the reward — but the rule keeps me near the reward. Help me keep it.",
+        "pt-BR": "Senhor, a regra não é a recompensa — mas a regra me mantém perto dela. Ajudai-me a guardá-la."
+      }
+    },
+    {
+      "session_id": "session-055",
+      "ekphrasis": {
+        "en-US": "Three figures with crosses and chalices and flames — Faith, Hope, Charity. They are not your achievements; they are infused. Grace plants them in you at baptism. The work is to let them grow without strangling them.",
+        "pt-BR": "Três figuras com cruzes, cálices e chamas — Fé, Esperança, Caridade. Não são as suas conquistas; são infusas. A graça as planta em você no batismo. A tarefa é deixá-las crescer sem sufocá-las."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 13:13",
+        "ref_pt": "1 Coríntios 13, 13",
+        "text_en": "And now there remain faith, hope, and charity, these three: but the greatest of these is charity.",
+        "text_pt": "Agora subsistem a fé, a esperança e a caridade, estas três; mas a maior delas é a caridade."
+      },
+      "closing": {
+        "en-US": "Lord, plant in me — or water in me — what You have already given. Today, let charity be the bigger part.",
+        "pt-BR": "Senhor, plantai em mim — ou regai em mim — o que já me destes. Hoje, que a caridade seja a parte maior."
+      }
+    },
+    {
+      "session_id": "session-056",
+      "ekphrasis": {
+        "en-US": "The Samaritan tends a wounded stranger by lamplight. Hope dares; charity stoops. To love God is to refuse to set Him aside; to love your neighbor is to refuse to step over him. Both are happening in the painting.",
+        "pt-BR": "O samaritano cuida de um estranho ferido à luz da lâmpada. A esperança ousa; a caridade se abaixa. Amar a Deus é recusar pô-Lo de lado; amar o próximo é recusar passar por cima dele. Ambas as coisas estão acontecendo na pintura."
+      },
+      "scripture": {
+        "ref_en": "1 John 4:20",
+        "ref_pt": "1 João 4, 20",
+        "text_en": "If any man say, I love God, and hateth his brother; he is a liar.",
+        "text_pt": "Se alguém disser: Amo a Deus, e odiar a seu irmão, é mentiroso."
+      },
+      "closing": {
+        "en-US": "Lord, send me one neighbor today I cannot step over. Make me stoop.",
+        "pt-BR": "Senhor, mandai-me hoje um próximo que eu não possa contornar. Fazei-me curvar-me."
+      }
+    },
+    {
+      "session_id": "session-057",
+      "ekphrasis": {
+        "en-US": "Raphael's allegory of the Cardinal Virtues — Prudence with her mirror, Justice with her sword, Fortitude with her column, Temperance with her bridle. They are habits, not feelings. You build them by acting them, before they feel like yours.",
+        "pt-BR": "A alegoria das Virtudes Cardeais de Rafael — Prudência com seu espelho, Justiça com sua espada, Fortaleza com sua coluna, Temperança com seu freio. São hábitos, não sentimentos. Constroem-se agindo, antes de se sentirem suas."
+      },
+      "scripture": {
+        "ref_en": "Wisdom 8:7",
+        "ref_pt": "Sabedoria 8, 7",
+        "text_en": "She teacheth temperance, and prudence, and justice, and fortitude, which are such things as men can have nothing more profitable in life.",
+        "text_pt": "Ela ensina a temperança, a prudência, a justiça e a fortaleza, virtudes mais úteis do que tudo na vida do homem."
+      },
+      "closing": {
+        "en-US": "Lord, I am not yet brave, not yet just, not yet temperate, not yet wise. Today, let me act once like I am.",
+        "pt-BR": "Senhor, ainda não sou corajoso, justo, temperante nem sábio. Hoje, fazei-me agir uma vez como se fosse."
+      }
+    },
+    {
+      "session_id": "session-058",
+      "ekphrasis": {
+        "en-US": "On the hillside again — the Beatitudes. Blessed are the poor in spirit, the meek, the pure, the persecuted. The whole moral life of Christianity is the inversion of what the world says wins. Live the inversion today, in something small.",
+        "pt-BR": "De novo na encosta — as Bem-aventuranças. Felizes os pobres em espírito, os mansos, os puros, os perseguidos. Toda a vida moral cristã é a inversão daquilo que o mundo diz que vence. Viva a inversão hoje, em algo pequeno."
+      },
+      "scripture": {
+        "ref_en": "Matthew 5:3",
+        "ref_pt": "Mateus 5, 3",
+        "text_en": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+        "text_pt": "Bem-aventurados os pobres em espírito, porque deles é o reino dos céus."
+      },
+      "closing": {
+        "en-US": "Lord, today, let me be a little more poor in spirit, a little more meek, a little less impressive. Bless what You bless.",
+        "pt-BR": "Senhor, hoje fazei-me um pouco mais pobre em espírito, mais manso, menos imponente. Abençoai o que Vós abençoais."
+      }
+    },
+    {
+      "session_id": "session-059",
+      "ekphrasis": {
+        "en-US": "Van der Weyden's altarpiece holds all seven sacraments under one roof — birth, growth, sin, healing, vocation, marriage, dying. The sacraments are not symbolic gestures. They are the doors through which God touches the body and changes the soul.",
+        "pt-BR": "O retábulo de Van der Weyden reúne os sete sacramentos sob um só teto — nascer, crescer, pecar, curar, vocação, casamento, morrer. Os sacramentos não são gestos simbólicos. São portas pelas quais Deus toca o corpo e muda a alma."
+      },
+      "scripture": {
+        "ref_en": "John 6:53",
+        "ref_pt": "João 6, 53",
+        "text_en": "Then Jesus said to them: Amen, amen, I say unto you: Except you eat the flesh of the Son of man, and drink his blood, you shall not have life in you.",
+        "text_pt": "Disse-lhes Jesus: Em verdade, em verdade vos digo: se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis a vida em vós."
+      },
+      "closing": {
+        "en-US": "Lord, You touch matter to save souls. Today, let me approach the matter You sanctified.",
+        "pt-BR": "Senhor, Vós tocais a matéria para salvar almas. Hoje, conduzi-me à matéria que santificastes."
+      }
+    },
+    {
+      "session_id": "session-060",
+      "ekphrasis": {
+        "en-US": "From the side of the crucified Christ, blood and water flow. The sacraments come from there — from the open side, from the cost. They are not free in the sense that nothing was paid. He paid.",
+        "pt-BR": "Do lado do Cristo crucificado, jorram sangue e água. Os sacramentos vêm dali — do lado aberto, do preço. Não são gratuitos no sentido de que nada foi pago. Ele pagou."
+      },
+      "scripture": {
+        "ref_en": "John 19:34",
+        "ref_pt": "João 19, 34",
+        "text_en": "But one of the soldiers with a spear opened his side, and immediately there came out blood and water.",
+        "text_pt": "Mas um dos soldados abriu-Lhe o lado com uma lança, e logo saiu sangue e água."
+      },
+      "closing": {
+        "en-US": "Lord, the sacraments are Your wounds running into me. Receive me at them again today, and again tomorrow.",
+        "pt-BR": "Senhor, os sacramentos são as Vossas chagas que correm para mim. Acolhei-me neles hoje, e amanhã ainda."
+      }
+    },
+    {
+      "session_id": "session-061",
+      "ekphrasis": {
+        "en-US": "Twelve men around a table, the Lord at the center. Communion is not a private moment with a private God — it is a meal you cannot eat unless you arrive ready and willing. Approach the sacraments awake, not casually.",
+        "pt-BR": "Doze homens em torno de uma mesa, o Senhor ao centro. A Comunhão não é um momento privado com um Deus privado — é uma refeição em que ninguém come sem chegar preparado e disposto. Aproxime-se dos sacramentos desperto, não distraído."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 11:28",
+        "ref_pt": "1 Coríntios 11, 28",
+        "text_en": "But let a man prove himself: and so let him eat of that bread, and drink of the chalice.",
+        "text_pt": "Examine-se, pois, o homem a si mesmo, e assim coma daquele pão e beba daquele cálice."
+      },
+      "closing": {
+        "en-US": "Lord, before I receive next, examine me. Tell me what to confess. I want to come ready.",
+        "pt-BR": "Senhor, antes que eu Vos receba de novo, examinai-me. Dizei-me o que confessar. Quero chegar preparado."
+      }
+    },
+    {
+      "session_id": "session-062",
+      "ekphrasis": {
+        "en-US": "Verrocchio painted the Jordan; the boy John pours, the dove descends. Baptism is the first morning. Original sin is washed; the soul is given a name in heaven; the Trinity moves in. Most of us slept through ours. Today, wake up to it.",
+        "pt-BR": "Verrocchio pintou o Jordão; o menino João derrama, a pomba desce. O batismo é a primeira manhã. O pecado original é lavado; a alma recebe um nome no céu; a Trindade vem morar. A maioria dormiu o seu. Hoje, desperte para o que recebeu."
+      },
+      "scripture": {
+        "ref_en": "Mark 16:16",
+        "ref_pt": "Marcos 16, 16",
+        "text_en": "He that believeth and is baptized, shall be saved.",
+        "text_pt": "Quem crer e for batizado será salvo."
+      },
+      "closing": {
+        "en-US": "Lord, the day I was baptized, You named me. Help me live the name today.",
+        "pt-BR": "Senhor, no dia em que fui batizado, Vós me nomeastes. Ajudai-me a viver hoje esse nome."
+      }
+    },
+    {
+      "session_id": "session-063",
+      "ekphrasis": {
+        "en-US": "Christ kneels at a child's level, hand on a head. \"Let the children come.\" Baptism's first job is the rescue of innocence; its second is the creation of citizens of heaven. There is no one too small for it, and no one too late.",
+        "pt-BR": "Cristo se ajoelha à altura da criança, mão sobre uma cabeça. \"Deixai vir a mim os pequeninos.\" A primeira tarefa do batismo é resgatar a inocência; a segunda, criar cidadãos do céu. Ninguém é pequeno demais para ele, e ninguém é tardio demais."
+      },
+      "scripture": {
+        "ref_en": "Matthew 19:14",
+        "ref_pt": "Mateus 19, 14",
+        "text_en": "Suffer the little children, and forbid them not to come to me: for the kingdom of heaven is for such.",
+        "text_pt": "Deixai vir a mim as criancinhas, e não as impeçais, porque dos tais é o reino dos céus."
+      },
+      "closing": {
+        "en-US": "Lord, for those still unbaptized — children, parents, friends — make a way. Send someone with the water.",
+        "pt-BR": "Senhor, pelos ainda não batizados — crianças, pais, amigos — abri caminho. Enviai alguém com a água."
+      }
+    },
+    {
+      "session_id": "session-064",
+      "ekphrasis": {
+        "en-US": "Titian's flames descend on heads. Confirmation is the soldier's day — not because Christianity is war, but because grown-up faith is a steady-state combat with cowardice. The sacrament arms you. Use it.",
+        "pt-BR": "As chamas de Ticiano descem sobre cabeças. A Crisma é o dia do soldado — não porque o cristianismo seja guerra, mas porque a fé adulta é um combate constante contra a covardia. O sacramento o arma. Use-o."
+      },
+      "scripture": {
+        "ref_en": "Acts 8:17",
+        "ref_pt": "Atos 8, 17",
+        "text_en": "Then they laid their hands upon them, and they received the Holy Ghost.",
+        "text_pt": "Então eles lhes impunham as mãos e recebiam o Espírito Santo."
+      },
+      "closing": {
+        "en-US": "Holy Spirit, the gifts You gave me, sharpen them. Today, let me speak when speaking is harder than silence.",
+        "pt-BR": "Espírito Santo, afiai os dons que me destes. Hoje, fazei-me falar quando falar for mais difícil do que calar."
+      }
+    },
+    {
+      "session_id": "session-065",
+      "ekphrasis": {
+        "en-US": "A bishop lays his hand on a young head. Confirmation is not a graduation. It is an enlistment. The first hand is gentle, but the work after is real. Pray for those who will be confirmed in your parish this year.",
+        "pt-BR": "Um bispo impõe a mão sobre uma cabeça jovem. A Crisma não é formatura. É alistamento. A primeira mão é suave, mas o trabalho que vem é real. Reze pelos que serão crismados na sua paróquia este ano."
+      },
+      "scripture": {
+        "ref_en": "2 Timothy 1:7",
+        "ref_pt": "2 Timóteo 1, 7",
+        "text_en": "For God hath not given us the spirit of fear: but of power, and of love, and of sobriety.",
+        "text_pt": "Porque Deus não nos deu um espírito de timidez, mas de fortaleza, de amor e de prudência."
+      },
+      "closing": {
+        "en-US": "Spirit of strength, today let me act on what I was sealed with. Confirm in deed what was confirmed in oil.",
+        "pt-BR": "Espírito de fortaleza, fazei-me hoje agir conforme aquilo com que fui selado. Confirmai em ato o que foi confirmado em óleo."
+      }
+    },
+    {
+      "session_id": "session-066",
+      "ekphrasis": {
+        "en-US": "Tintoretto's Last Supper: the table tilts, the lamps blaze, the apostles lean in. \"This is My Body.\" The Mass began here, before the Cross, in His own hands. Every Mass since reaches back into that room.",
+        "pt-BR": "A Última Ceia de Tintoretto: a mesa se inclina, as lâmpadas ardem, os apóstolos se aproximam. \"Isto é o meu Corpo.\" A Missa começou ali, antes da Cruz, nas Suas próprias mãos. Toda Missa desde então alcança aquela sala."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 11:24",
+        "ref_pt": "1 Coríntios 11, 24",
+        "text_en": "Take ye, and eat: this is my body, which shall be delivered for you: this do for the commemoration of me.",
+        "text_pt": "Tomai e comei; isto é o meu corpo, que será entregue por vós; fazei isto em memória de mim."
+      },
+      "closing": {
+        "en-US": "Lord, every Mass is that night. Today, even far from an altar, let me remember.",
+        "pt-BR": "Senhor, toda Missa é aquela noite. Hoje, mesmo longe de um altar, fazei-me recordar."
+      }
+    },
+    {
+      "session_id": "session-067",
+      "ekphrasis": {
+        "en-US": "Raphael's Disputation: heaven and earth gathered around a single white wafer. This is the Real Presence. Not symbol, not metaphor — Christ entirely, hidden under the smallest possible veil. Genuflect.",
+        "pt-BR": "A Disputa do Sacramento, de Rafael: o céu e a terra reunidos ao redor de uma única hóstia branca. Esta é a Presença Real. Não símbolo, não metáfora — Cristo inteiro, oculto sob o menor véu possível. Ajoelhe-se."
+      },
+      "scripture": {
+        "ref_en": "John 6:56",
+        "ref_pt": "João 6, 56",
+        "text_en": "He that eateth my flesh, and drinketh my blood, abideth in me, and I in him.",
+        "text_pt": "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele."
+      },
+      "closing": {
+        "en-US": "Lord, You are really there. Make me capable of really being there too.",
+        "pt-BR": "Senhor, Vós estais realmente ali. Tornai-me capaz de estar realmente ali também."
+      }
+    },
+    {
+      "session_id": "session-068",
+      "ekphrasis": {
+        "en-US": "A girl in white veil, hands folded, kneels at a rail. The first Communion is also the model of the next ten thousand. Approach the sacrament with the same recollection you would bring if it were the last one.",
+        "pt-BR": "Uma menina de véu branco, mãos juntas, ajoelha-se na grade. A Primeira Comunhão é também o modelo das próximas dez mil. Aproxime-se do sacramento com o recolhimento que teria se fosse a última."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 11:29",
+        "ref_pt": "1 Coríntios 11, 29",
+        "text_en": "For he that eateth and drinketh unworthily, eateth and drinketh judgment to himself, not discerning the body of the Lord.",
+        "text_pt": "Pois o que come e bebe indignamente come e bebe a sua própria condenação, não distinguindo o corpo do Senhor."
+      },
+      "closing": {
+        "en-US": "Lord, never let me eat of You out of habit. Make Communion shake me. Make Communion heal me.",
+        "pt-BR": "Senhor, jamais permitais que eu Vos coma por hábito. Fazei a Comunhão me sacudir. Fazei a Comunhão me curar."
+      }
+    },
+    {
+      "session_id": "session-069",
+      "ekphrasis": {
+        "en-US": "A small saint kneels in a sunlit chapel, the host on her tongue. Daily Communion is not for the perfect — it is for the dependent. The medicine of immortality, taken when most needed: every day.",
+        "pt-BR": "Uma pequena santa ajoelha-se numa capela banhada pelo sol, a hóstia na língua. A comunhão diária não é para os perfeitos — é para os dependentes. O remédio da imortalidade, tomado quando mais se precisa: todo dia."
+      },
+      "scripture": {
+        "ref_en": "John 6:54",
+        "ref_pt": "João 6, 54",
+        "text_en": "He that eateth my flesh, and drinketh my blood, hath everlasting life: and I will raise him up in the last day.",
+        "text_pt": "Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia."
+      },
+      "closing": {
+        "en-US": "Lord, when I can come, let me come. Free me from the embarrassment of needing You that often.",
+        "pt-BR": "Senhor, quando eu puder vir, fazei-me vir. Libertai-me da vergonha de precisar tanto de Vós."
+      }
+    },
+    {
+      "session_id": "session-070",
+      "ekphrasis": {
+        "en-US": "A monstrance held high, gold rays bursting from a small white center. The world keeps moving, but in the chapel, time bends — kneels. Adore. There is nowhere better for a soul to spend an hour.",
+        "pt-BR": "Uma custódia erguida ao alto, raios de ouro brotando de um pequeno centro branco. O mundo continua andando, mas na capela o tempo se curva — se ajoelha. Adore. Não há lugar melhor onde uma alma passe uma hora."
+      },
+      "scripture": {
+        "ref_en": "Psalm 27:4",
+        "ref_pt": "Salmo 26, 4",
+        "text_en": "One thing I have asked of the Lord, this will I seek after; that I may dwell in the house of the Lord all the days of my life.",
+        "text_pt": "Uma só coisa pedi ao Senhor, e essa procurarei: habitar na casa do Senhor todos os dias da minha vida."
+      },
+      "closing": {
+        "en-US": "Lord, today, even five minutes — let me find You in a tabernacle and stay.",
+        "pt-BR": "Senhor, hoje, ainda que cinco minutos — fazei-me encontrar-Vos num sacrário e permanecer."
+      }
+    },
+    {
+      "session_id": "session-071",
+      "ekphrasis": {
+        "en-US": "The priest lifts the host at the altar; behind him the people kneel. The Mass is not a community meeting with sacred decoration — it is the one Sacrifice of Calvary made present, here, this morning. The most important thing happening on earth.",
+        "pt-BR": "O sacerdote eleva a hóstia no altar; atrás dele o povo se ajoelha. A Missa não é uma reunião comunitária com decoração sagrada — é o único Sacrifício do Calvário tornado presente, aqui, esta manhã. A coisa mais importante que está acontecendo na terra."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 13:10",
+        "ref_pt": "Hebreus 13, 10",
+        "text_en": "We have an altar, whereof they have no power to eat who serve the tabernacle.",
+        "text_pt": "Temos um altar, do qual não podem comer os que servem ao tabernáculo."
+      },
+      "closing": {
+        "en-US": "Lord, the Mass is Calvary. Let me never assist as a spectator. Let me kneel inside it.",
+        "pt-BR": "Senhor, a Missa é o Calvário. Não me deixeis assistir como espectador. Fazei-me ajoelhar dentro dela."
+      }
+    },
+    {
+      "session_id": "session-072",
+      "ekphrasis": {
+        "en-US": "Christ stands by an open window, hand raised — \"Whose sins you forgive, they are forgiven.\" Confession is not therapy. It is a tribunal of mercy. The judge is also the one who paid the debt. Walk in.",
+        "pt-BR": "Cristo de pé junto a uma janela aberta, mão erguida — \"A quem perdoardes os pecados, ser-lhes-ão perdoados.\" A confissão não é terapia. É um tribunal de misericórdia. O juiz é também Aquele que pagou a dívida. Entre."
+      },
+      "scripture": {
+        "ref_en": "John 20:23",
+        "ref_pt": "João 20, 23",
+        "text_en": "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained.",
+        "text_pt": "Àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; e àqueles a quem os retiverdes, ser-lhes-ão retidos."
+      },
+      "closing": {
+        "en-US": "Lord, schedule the next confession for me. I will go. Make me go.",
+        "pt-BR": "Senhor, marcai por mim a próxima confissão. Eu irei. Fazei-me ir."
+      }
+    },
+    {
+      "session_id": "session-073",
+      "ekphrasis": {
+        "en-US": "Tissot paints the two who went up to pray — the Pharisee thanking God for not being like other men, the Publican beating his breast at a distance. The examination of conscience is not self-loathing — it is the courtesy of a soul about to ask for mercy. Make the list.",
+        "pt-BR": "Tissot pinta os dois que subiram a orar — o fariseu agradecendo a Deus por não ser como os outros, o publicano batendo no peito de longe. O exame de consciência não é autodepreciação — é a cortesia de uma alma prestes a pedir misericórdia. Faça a lista."
+      },
+      "scripture": {
+        "ref_en": "1 John 1:9",
+        "ref_pt": "1 João 1, 9",
+        "text_en": "If we confess our sins, he is faithful and just, to forgive us our sins, and to cleanse us from all iniquity.",
+        "text_pt": "Se confessarmos os nossos pecados, Ele é fiel e justo para nos perdoar os pecados e nos purificar de toda iniquidade."
+      },
+      "closing": {
+        "en-US": "Lord, light up tonight what I have hidden today. Show me what to bring.",
+        "pt-BR": "Senhor, esta noite iluminai o que escondi hoje. Mostrai-me o que devo trazer."
+      }
+    },
+    {
+      "session_id": "session-074",
+      "ekphrasis": {
+        "en-US": "El Greco's penitent Peter weeps — not for being caught, but for having denied Love. Contrition is not embarrassment. It is the heart's recoil at having wounded the One it should have shielded. Ask for it.",
+        "pt-BR": "O Pedro penitente de El Greco chora — não por ter sido descoberto, mas por ter negado o Amor. A contrição não é constrangimento. É o recuo do coração que feriu Aquele que deveria proteger. Peça-a."
+      },
+      "scripture": {
+        "ref_en": "Psalm 51:17",
+        "ref_pt": "Salmo 50, 19",
+        "text_en": "A sacrifice to God is an afflicted spirit: a contrite and humbled heart, O God, thou wilt not despise.",
+        "text_pt": "Sacrifício agradável a Deus é um espírito atribulado; um coração contrito e humilhado, ó Deus, não desprezareis."
+      },
+      "closing": {
+        "en-US": "Lord, give me the sorrow that is right — not the shame that drowns. The kind that gets up and walks back to You.",
+        "pt-BR": "Senhor, dai-me a dor justa — não a vergonha que afoga. A que se levanta e caminha de volta a Vós."
+      }
+    },
+    {
+      "session_id": "session-075",
+      "ekphrasis": {
+        "en-US": "Mary of Egypt lives forty years in the desert, alone, repenting, becoming a saint slowly. Confession is one minute; the purpose of amendment is the rest of the week. Plan the small change. Then start it.",
+        "pt-BR": "Maria do Egito vive quarenta anos no deserto, só, em penitência, tornando-se santa devagar. A confissão é um minuto; o propósito de emenda é o resto da semana. Planeje a pequena mudança. Depois comece-a."
+      },
+      "scripture": {
+        "ref_en": "Luke 3:8",
+        "ref_pt": "Lucas 3, 8",
+        "text_en": "Bring forth therefore fruits worthy of penance.",
+        "text_pt": "Produzi, pois, frutos dignos de arrependimento."
+      },
+      "closing": {
+        "en-US": "Lord, after the next absolution, what is the one thing I will change? Tell me. I will do it.",
+        "pt-BR": "Senhor, depois da próxima absolvição, qual é a única coisa que mudarei? Dizei-mo. Eu o farei."
+      }
+    },
+    {
+      "session_id": "session-076",
+      "ekphrasis": {
+        "en-US": "Murillo's Father runs, embraces, dresses the wretched son in the best robe. Satisfaction is not a fee. It is what a son does, freely, after he has been received. Indulgences open the same household stores wider. The mercy is already there; we walk in.",
+        "pt-BR": "O Pai de Murillo corre, abraça, veste o filho miserável com a melhor túnica. A satisfação não é um preço. É o que um filho faz, livremente, depois de ter sido acolhido. As indulgências abrem mais largamente os mesmos cofres da casa. A misericórdia já está ali; nós entramos nela."
+      },
+      "scripture": {
+        "ref_en": "Luke 15:24",
+        "ref_pt": "Lucas 15, 24",
+        "text_en": "For this my son was dead, and is come to life again: was lost, and is found.",
+        "text_pt": "Este meu filho estava morto e reviveu, estava perdido e foi achado."
+      },
+      "closing": {
+        "en-US": "Father, when I come back, take the long-running pretense off me. Receive me as I am.",
+        "pt-BR": "Pai, quando eu voltar, tirai-me a velha encenação. Recebei-me como sou."
+      }
+    },
+    {
+      "session_id": "session-077",
+      "ekphrasis": {
+        "en-US": "Van der Weyden's dying-room: the priest at the bedside, anointing oil shining on a forehead. The last sacrament prepares not just for death but for what is on the other side of it. Pray for the dying. Some have no one else.",
+        "pt-BR": "A sala da morte de Van der Weyden: o sacerdote junto ao leito, o óleo da unção brilhando sobre a fronte. O último sacramento prepara não só para a morte, mas para o que está do outro lado dela. Reze pelos que morrem. Alguns não têm mais ninguém."
+      },
+      "scripture": {
+        "ref_en": "James 5:14",
+        "ref_pt": "Tiago 5, 14",
+        "text_en": "Is any man sick among you? Let him bring in the priests of the church, and let them pray over him, anointing him with oil in the name of the Lord.",
+        "text_pt": "Está alguém entre vós doente? Chame os presbíteros da Igreja, e estes orem sobre ele, ungindo-o com óleo em nome do Senhor."
+      },
+      "closing": {
+        "en-US": "Lord, when my hour comes, send a priest. While I wait, send me to those whose hour is near.",
+        "pt-BR": "Senhor, quando chegar a minha hora, mandai um sacerdote. Enquanto espero, enviai-me aos que têm a sua hora próxima."
+      }
+    },
+    {
+      "session_id": "session-078",
+      "ekphrasis": {
+        "en-US": "An old painting of an ordination — hands on the head, the bishop bending over a young man. The priest is not your friend or your manager. He is, mysteriously, the very hands of Christ when he says the words. Pray for priests today.",
+        "pt-BR": "Uma pintura antiga de ordenação — mãos sobre uma cabeça, o bispo inclinando-se sobre um jovem. O sacerdote não é seu amigo nem seu gerente. Ele é, misteriosamente, as próprias mãos de Cristo quando pronuncia as palavras. Reze hoje pelos sacerdotes."
+      },
+      "scripture": {
+        "ref_en": "Hebrews 5:1",
+        "ref_pt": "Hebreus 5, 1",
+        "text_en": "For every high priest taken from among men, is ordained for men in the things that appertain to God.",
+        "text_pt": "Todo sumo sacerdote escolhido dentre os homens é constituído em favor dos homens, nas coisas que se referem a Deus."
+      },
+      "closing": {
+        "en-US": "Lord, send laborers. Bless the priests You have already sent. Make me grateful when I receive their absolution.",
+        "pt-BR": "Senhor, enviai trabalhadores. Abençoai os sacerdotes que já enviastes. Tornai-me grato quando receber a sua absolvição."
+      }
+    },
+    {
+      "session_id": "session-079",
+      "ekphrasis": {
+        "en-US": "The wedding at Cana — water turning to wine, and a marriage taking place in the foreground. Marriage is one of the seven channels through which grace becomes a body. Two souls bound, made one, given to children, spent in love.",
+        "pt-BR": "As bodas de Caná — água transformada em vinho, um casamento ocorrendo em primeiro plano. O matrimônio é um dos sete canais pelos quais a graça se faz corpo. Duas almas atadas, feitas uma, entregues aos filhos, gastas em amor."
+      },
+      "scripture": {
+        "ref_en": "Ephesians 5:32",
+        "ref_pt": "Efésios 5, 32",
+        "text_en": "This is a great sacrament; but I speak in Christ and in the church.",
+        "text_pt": "Este é um grande mistério, mas eu o digo a respeito de Cristo e da Igreja."
+      },
+      "closing": {
+        "en-US": "Lord, for spouses I know — bless them, hold them. For my own future or present marriage — sanctify it, make it Yours.",
+        "pt-BR": "Senhor, pelos casais que conheço — abençoai-os, sustentai-os. Pelo meu próprio matrimônio futuro ou presente — santificai-o, fazei-o Vosso."
+      }
+    },
+    {
+      "session_id": "session-080",
+      "ekphrasis": {
+        "en-US": "Murillo's Holy Family with bird — a small ordinary moment, a ten-thousand-time blessing. Married love is not romance preserved in amber; it is faith and patience worked into bread and bills and bedtime. Most of holiness happens here.",
+        "pt-BR": "A Sagrada Família com pássaro, de Murillo — um momento simples, uma bênção dez mil vezes. O amor conjugal não é romance conservado em âmbar; é fé e paciência trabalhadas em pão, contas e hora de dormir. Boa parte da santidade acontece aqui."
+      },
+      "scripture": {
+        "ref_en": "Genesis 2:24",
+        "ref_pt": "Gênesis 2, 24",
+        "text_en": "Wherefore a man shall leave father and mother, and shall cleave to his wife: and they shall be two in one flesh.",
+        "text_pt": "Por isso, deixará o homem ao seu pai e à sua mãe, e se unirá à sua mulher; e os dois serão uma só carne."
+      },
+      "closing": {
+        "en-US": "Lord, the daily yes of marriage — give it to those who are saying it, and to me when I am called to say it.",
+        "pt-BR": "Senhor, o sim diário do matrimônio — concedei-o aos que o estão dizendo, e a mim quando eu for chamado a dizê-lo."
+      }
+    },
+    {
+      "session_id": "session-081",
+      "ekphrasis": {
+        "en-US": "Bellini's Gethsemane — Christ kneels alone, the apostles asleep behind, the sky bruised at dawn. Prayer is not a hobby. It is the only thing that adjusts the soul to the size of God. He prayed. So must we.",
+        "pt-BR": "O Getsêmani de Bellini — Cristo ajoelhado a sós, os apóstolos adormecidos atrás, o céu ferido na alvorada. A oração não é hobby. É a única coisa que ajusta a alma à medida de Deus. Ele orou. Nós também devemos."
+      },
+      "scripture": {
+        "ref_en": "1 Thessalonians 5:17",
+        "ref_pt": "1 Tessalonicenses 5, 17",
+        "text_en": "Pray without ceasing.",
+        "text_pt": "Orai sem cessar."
+      },
+      "closing": {
+        "en-US": "Lord, teach me again what I forgot. Today, three minutes of silence with You. Then more.",
+        "pt-BR": "Senhor, ensinai-me de novo o que esqueci. Hoje, três minutos de silêncio convosco. Depois, mais."
+      }
+    },
+    {
+      "session_id": "session-082",
+      "ekphrasis": {
+        "en-US": "Holman Hunt's Christ knocks at a door overgrown with weeds — there is no handle on His side. God hears prayer because He is faithful, not because we are persuasive. Open the door first; the rest follows.",
+        "pt-BR": "O Cristo de Holman Hunt bate a uma porta tomada de ervas daninhas — não há maçaneta do lado d'Ele. Deus ouve a oração porque é fiel, não porque somos persuasivos. Abra primeiro a porta; o resto segue."
+      },
+      "scripture": {
+        "ref_en": "Matthew 7:7",
+        "ref_pt": "Mateus 7, 7",
+        "text_en": "Ask, and it shall be given you: seek, and you shall find: knock, and it shall be opened to you.",
+        "text_pt": "Pedi, e dar-se-vos-á; buscai, e achareis; batei, e abrir-se-vos-á."
+      },
+      "closing": {
+        "en-US": "Lord, ask in me what I should ask. Then ask it through me.",
+        "pt-BR": "Senhor, pedi em mim aquilo que devo pedir. E depois pedi-o através de mim."
+      }
+    },
+    {
+      "session_id": "session-083",
+      "ekphrasis": {
+        "en-US": "Christ on a hill, His disciples sitting close: \"When you pray, say: Our Father…\" The Lord's Prayer is not just a prayer; it is the structure of every prayer. Begin with whose child you are. The rest follows.",
+        "pt-BR": "Cristo numa colina, seus discípulos sentados perto: \"Quando orardes, dizei: Pai Nosso…\" O Pai-Nosso não é apenas uma oração; é a estrutura de toda oração. Comece com de quem você é filho. O resto segue."
+      },
+      "scripture": {
+        "ref_en": "Matthew 6:9",
+        "ref_pt": "Mateus 6, 9",
+        "text_en": "Thus therefore shall you pray: Our Father who art in heaven.",
+        "text_pt": "Assim, pois, orareis: Pai Nosso, que estais nos céus."
+      },
+      "closing": {
+        "en-US": "Father, before I ask anything else today, let me say this — that You are mine, and I am Yours.",
+        "pt-BR": "Pai, antes de qualquer outro pedido hoje, deixai-me dizer isto — que Vós sois meu, e eu sou Vosso."
+      }
+    },
+    {
+      "session_id": "session-084",
+      "ekphrasis": {
+        "en-US": "The Burning Bush — Moses takes off his shoes. The Name is hallowed before any creature touches it. To pray \"hallowed be Thy name\" is to ask: let me, today, refuse to be casual where I should be reverent.",
+        "pt-BR": "A Sarça Ardente — Moisés tira as sandálias. O Nome é santificado antes que qualquer criatura o toque. Rezar \"santificado seja o Vosso Nome\" é pedir: hoje, fazei-me recusar a leveza onde deveria haver reverência."
+      },
+      "scripture": {
+        "ref_en": "Psalm 113:3",
+        "ref_pt": "Salmo 112, 3",
+        "text_en": "From the rising of the sun unto the going down of the same, the name of the Lord is worthy of praise.",
+        "text_pt": "Desde o nascer do sol até o seu ocaso, seja louvado o nome do Senhor."
+      },
+      "closing": {
+        "en-US": "Lord, hallow Your Name in me — in the way I speak it, in the way I live it, today.",
+        "pt-BR": "Senhor, santificai o Vosso Nome em mim — no modo como o pronuncio e no modo como o vivo, hoje."
+      }
+    },
+    {
+      "session_id": "session-085",
+      "ekphrasis": {
+        "en-US": "Christ enthroned — Pantocrator in a Russian dome. \"Thy kingdom come\" is not pious vagueness; it is a request for a real kingdom, real laws, real reign — first in the soul, then everywhere else.",
+        "pt-BR": "Cristo entronizado — Pantocrator na cúpula russa. \"Venha a nós o Vosso Reino\" não é piedade vaga; é o pedido de um reino real, leis reais, governo real — primeiro na alma, depois em tudo o mais."
+      },
+      "scripture": {
+        "ref_en": "Luke 17:21",
+        "ref_pt": "Lucas 17, 21",
+        "text_en": "For lo, the kingdom of God is within you.",
+        "text_pt": "Eis que o reino de Deus está no meio de vós."
+      },
+      "closing": {
+        "en-US": "Lord, reign in me first. Take whatever territory in me has not yet surrendered.",
+        "pt-BR": "Senhor, reinai primeiro em mim. Tomai todo território em mim que ainda não se rendeu."
+      }
+    },
+    {
+      "session_id": "session-086",
+      "ekphrasis": {
+        "en-US": "Annunciation, again — and Mary's two simple words. \"Thy will be done\" is the prayer of every saint and the prayer that made the Incarnation possible. It is a small sentence; it is the whole life.",
+        "pt-BR": "Anunciação, mais uma vez — e as duas palavras simples de Maria. \"Seja feita a Vossa vontade\" é a oração de todo santo e a oração que tornou possível a Encarnação. É uma frase pequena; é a vida inteira."
+      },
+      "scripture": {
+        "ref_en": "Luke 22:42",
+        "ref_pt": "Lucas 22, 42",
+        "text_en": "Father, if thou wilt, remove this chalice from me: but yet not my will, but thine be done.",
+        "text_pt": "Pai, se quiseres, afasta de mim este cálice; todavia, não se faça a minha vontade, mas a tua."
+      },
+      "closing": {
+        "en-US": "Father, today, in something I cannot control: Your will, not mine. I will trust the result.",
+        "pt-BR": "Pai, hoje, em algo que não posso controlar: a Vossa vontade, não a minha. Confiarei no resultado."
+      }
+    },
+    {
+      "session_id": "session-087",
+      "ekphrasis": {
+        "en-US": "The multiplication of loaves — five small ones in His hands. \"Daily bread\" is bread, money for rent, work that pays — and also the Bread that is His Body. He gives both. Ask for both.",
+        "pt-BR": "A multiplicação dos pães — cinco pequenos em Suas mãos. \"O pão de cada dia\" é pão, é o dinheiro do aluguel, é o trabalho que sustenta — e também é o Pão que é o Seu Corpo. Ele dá ambos. Peça ambos."
+      },
+      "scripture": {
+        "ref_en": "Matthew 6:11",
+        "ref_pt": "Mateus 6, 11",
+        "text_en": "Give us this day our supersubstantial bread.",
+        "text_pt": "O pão nosso de cada dia nos dai hoje."
+      },
+      "closing": {
+        "en-US": "Father, today, my needs — I trust You with them. The bread of the table, the bread of the altar — give us both.",
+        "pt-BR": "Pai, hoje, minhas necessidades — confio-as a Vós. O pão da mesa, o pão do altar — dai-nos ambos."
+      }
+    },
+    {
+      "session_id": "session-088",
+      "ekphrasis": {
+        "en-US": "The Father runs to the Prodigal even before the speech is finished. To ask for forgiveness is to say: I am willing to forgive too. The two cannot be separated. Forgive someone today, even silently. Then ask.",
+        "pt-BR": "O Pai corre para o pródigo antes de o discurso terminar. Pedir perdão é dizer: também estou disposto a perdoar. Os dois não podem ser separados. Perdoe alguém hoje, ainda que em silêncio. Depois peça."
+      },
+      "scripture": {
+        "ref_en": "Matthew 6:14",
+        "ref_pt": "Mateus 6, 14",
+        "text_en": "For if you will forgive men their offences, your heavenly Father will forgive you also your offences.",
+        "text_pt": "Se perdoardes aos homens as suas ofensas, também o vosso Pai celestial vos perdoará as vossas."
+      },
+      "closing": {
+        "en-US": "Father, name the person I am holding something against. Make me let go before You let go.",
+        "pt-BR": "Pai, nomeai a pessoa contra quem ainda guardo algo. Fazei-me soltar, antes de Vós soltardes em mim."
+      }
+    },
+    {
+      "session_id": "session-089",
+      "ekphrasis": {
+        "en-US": "Kramskoi's Christ in the wilderness sits on a stone, alone, exhausted, pre-decision. The temptation is real; deliverance is asked. To pray \"lead us not into temptation; deliver us from evil\" is to know one's own hour.",
+        "pt-BR": "O Cristo no deserto de Kramskoi está sentado numa pedra, só, exausto, antes da decisão. A tentação é real; a libertação é pedida. Rezar \"e não nos deixeis cair em tentação, mas livrai-nos do mal\" é conhecer a própria hora."
+      },
+      "scripture": {
+        "ref_en": "1 Corinthians 10:13",
+        "ref_pt": "1 Coríntios 10, 13",
+        "text_en": "And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with temptation issue, that you may be able to bear it.",
+        "text_pt": "Deus é fiel: não permitirá que sejais tentados além das vossas forças, mas, juntamente com a tentação, dará o meio de sair dela."
+      },
+      "closing": {
+        "en-US": "Lord, today, in the temptation I will face, You go ahead of me. Deliver, even before I notice the danger.",
+        "pt-BR": "Senhor, hoje, na tentação que enfrentarei, ide à minha frente. Livrai-me, antes mesmo que eu perceba o perigo."
+      }
+    },
+    {
+      "session_id": "session-090",
+      "ekphrasis": {
+        "en-US": "Fra Angelico's Annunciation: \"Hail, full of grace.\" The Hail Mary is the angel's words, Elizabeth's words, and the Church's plea — held together. We do not pray to Mary; we pray with her, and to her Son through her.",
+        "pt-BR": "A Anunciação de Fra Angelico: \"Ave, cheia de graça.\" A Ave-Maria são as palavras do Anjo, as de Isabel e o pedido da Igreja — unidas. Não oramos a Maria; oramos com ela, e ao seu Filho por ela."
+      },
+      "scripture": {
+        "ref_en": "Luke 1:28",
+        "ref_pt": "Lucas 1, 28",
+        "text_en": "Hail, full of grace, the Lord is with thee: blessed art thou among women.",
+        "text_pt": "Ave, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres."
+      },
+      "closing": {
+        "en-US": "Mother, in this hour and in the hour of my death, hold me. Pray me through to your Son.",
+        "pt-BR": "Mãe, nesta hora e na hora da minha morte, sustentai-me. Conduzi-me em oração ao vosso Filho."
+      }
+    }
+  ]
+}

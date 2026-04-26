@@ -1,0 +1,2476 @@
+{
+  "version": "0.5",
+  "description": "Master data file for the 90-session catechetical formation track. Each session is one day's reading. Pius X Q ranges are inclusive on both ends. Aquinas and Trent chapter IDs reference catechetical-instructions and catechism-of-trent in the same library. teacher = 'aquinas' means the Aquinas chapter is the primary pastoral exposition; teacher = 'trent' means Trent fills that role (Aquinas has no parallel sermon).",
+  "sessions": [
+    {
+      "id": "session-001",
+      "order": 1,
+      "group": "preliminary",
+      "title": {
+        "en-US": "Who Made Us, Who God Is",
+        "pt-BR": "Quem nos criou, quem é Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "lezione-preliminare",
+          "from": 1,
+          "to": 13
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-00-what-is-faith"
+      ],
+      "trent": null,
+      "image_topic": "God the Creator separating light from darkness; or Genesis creation scene",
+      "scripture_ref": "Genesis 1:1"
+    },
+    {
+      "id": "session-002",
+      "order": 2,
+      "group": "preliminary",
+      "title": {
+        "en-US": "Heaven, Hell, and Why We Are Here",
+        "pt-BR": "O Céu, o inferno, e por que estamos aqui"
+      },
+      "pius_x": [
+        {
+          "chapter": "lezione-preliminare",
+          "from": 14,
+          "to": 27
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Christ the Teacher with disciples, or the Last Judgment showing heaven and hell",
+      "scripture_ref": "John 17:3"
+    },
+    {
+      "id": "session-003",
+      "order": 3,
+      "group": "creed",
+      "title": {
+        "en-US": "What God Has Revealed",
+        "pt-BR": "O que Deus revelou"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-misteri-principali",
+          "from": 28,
+          "to": 31
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": "creed-intro",
+      "image_topic": "Apostle (St. Peter or St. Paul) writing or preaching the Gospel; or Pentecost",
+      "scripture_ref": "Hebrews 11:1"
+    },
+    {
+      "id": "session-004",
+      "order": 4,
+      "group": "creed",
+      "title": {
+        "en-US": "The Sign of the Cross",
+        "pt-BR": "O Sinal da Cruz"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-misteri-principali",
+          "from": 32,
+          "to": 36
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Crucifixion (simple iconic form, e.g. Cimabue, El Greco, or a Russian icon of the Crucifixion)",
+      "scripture_ref": "Galatians 6:14"
+    },
+    {
+      "id": "session-005",
+      "order": 5,
+      "group": "creed",
+      "title": {
+        "en-US": "There Is One God",
+        "pt-BR": "Há um só Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-unita-trinita",
+          "from": 37,
+          "to": 40
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-01a-i-believe-in-one-god"
+      ],
+      "trent": {
+        "chapter": "creed-01",
+        "sections": [
+          "Meaning Of This Article",
+          "I Believe",
+          "In God"
+        ]
+      },
+      "image_topic": "Moses and the Burning Bush (the 'I AM' moment, e.g. Chagall or a Greek icon)",
+      "scripture_ref": "Deuteronomy 6:4"
+    },
+    {
+      "id": "session-006",
+      "order": 6,
+      "group": "creed",
+      "title": {
+        "en-US": "Father, Son, and Holy Spirit",
+        "pt-BR": "Pai, Filho e Espírito Santo"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-unita-trinita",
+          "from": 41,
+          "to": 46
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-08-holy-ghost",
+          "sections": [
+            "@opening",
+            "Teaching of the Nicene Creed"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-08",
+        "sections": [
+          "@opening",
+          "Importance Of This Article",
+          "Holy Ghost",
+          "I Believe in the Holy Ghost"
+        ]
+      },
+      "image_topic": "The Holy Trinity — Andrei Rublev's Trinity icon (Three Angels at Mamre); or Masaccio's Trinity",
+      "scripture_ref": "Matthew 28:19"
+    },
+    {
+      "id": "session-007",
+      "order": 7,
+      "group": "creed",
+      "title": {
+        "en-US": "Three Persons, One God, Equal and Eternal",
+        "pt-BR": "Três Pessoas, um só Deus, iguais e eternos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-unita-trinita",
+          "from": 47,
+          "to": 50
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-08-holy-ghost",
+          "sections": [
+            "Benefits from the Holy Ghost"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-08",
+        "sections": [
+          "Certain Divine Works are Appropriated to the Holy Ghost"
+        ]
+      },
+      "image_topic": "Coronation of the Virgin showing the Trinity (e.g. Velázquez's Coronation, or Fra Angelico)",
+      "scripture_ref": "John 1:1"
+    },
+    {
+      "id": "session-008",
+      "order": 8,
+      "group": "creed",
+      "title": {
+        "en-US": "Creator of Heaven and Earth",
+        "pt-BR": "Criador do Céu e da Terra"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 51,
+          "to": 52
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-01b-father-almighty-creator"
+      ],
+      "trent": {
+        "chapter": "creed-01",
+        "sections": [
+          "The Father",
+          "Almighty",
+          "Creator",
+          "Of Heaven and Earth"
+        ]
+      },
+      "image_topic": "Creation of the world (Michelangelo's Sistine Creation panels, or William Blake)",
+      "scripture_ref": "Psalm 19:1"
+    },
+    {
+      "id": "session-009",
+      "order": 9,
+      "group": "creed",
+      "title": {
+        "en-US": "The Angels and the Demons",
+        "pt-BR": "Os anjos e os demônios"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 53,
+          "to": 59
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": {
+        "chapter": "creed-01",
+        "sections": [
+          "Of all Things Visible and Invisible"
+        ]
+      },
+      "image_topic": "St. Michael casting down the devil (Reni, Raphael, or a medieval icon); or the Guardian Angel (Pietro da Cortona)",
+      "scripture_ref": "Psalm 91:11"
+    },
+    {
+      "id": "session-010",
+      "order": 10,
+      "group": "creed",
+      "title": {
+        "en-US": "What Man Is — Soul and Freedom",
+        "pt-BR": "O que é o homem — alma e liberdade"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 60,
+          "to": 65
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Michelangelo's Creation of Adam (Sistine Chapel)",
+      "scripture_ref": "Genesis 1:27"
+    },
+    {
+      "id": "session-011",
+      "order": 11,
+      "group": "creed",
+      "title": {
+        "en-US": "The First Parents in Eden",
+        "pt-BR": "Os primeiros pais no Éden"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 66,
+          "to": 69
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Adam and Eve in the Garden (Cranach the Elder, Jan Brueghel, or Dürer)",
+      "scripture_ref": "Genesis 2:7"
+    },
+    {
+      "id": "session-012",
+      "order": 12,
+      "group": "creed",
+      "title": {
+        "en-US": "The Fall and Original Sin",
+        "pt-BR": "A queda e o pecado original"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 70,
+          "to": 74
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Expulsion from Paradise (Masaccio, or Michelangelo's Sistine Expulsion)",
+      "scripture_ref": "Romans 5:12"
+    },
+    {
+      "id": "session-013",
+      "order": 13,
+      "group": "creed",
+      "title": {
+        "en-US": "The Redeemer Promised and Sent",
+        "pt-BR": "O Redentor prometido e enviado"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-creazione",
+          "from": 75,
+          "to": 77
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-02-jesus-christ",
+          "sections": [
+            "@opening",
+            "Errors Relating to the Second Article"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-02",
+        "sections": [
+          "@opening",
+          "Advantages Of Faith In This Article",
+          "Necessity Of Faith In This Article",
+          "Jesus",
+          "Christ"
+        ]
+      },
+      "image_topic": "The Annunciation (Fra Angelico, Leonardo da Vinci, or a Russian icon of the Annunciation)",
+      "scripture_ref": "Luke 1:35"
+    },
+    {
+      "id": "session-014",
+      "order": 14,
+      "group": "creed",
+      "title": {
+        "en-US": "True God and True Man",
+        "pt-BR": "Verdadeiro Deus e verdadeiro homem"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-incarnazione",
+          "from": 78,
+          "to": 81
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-02-jesus-christ",
+          "sections": [
+            "The Divine Generation"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-02",
+        "sections": [
+          "His Only Son",
+          "Our Lord",
+          "Duties Owed To Christ Our Lord"
+        ]
+      },
+      "image_topic": "The Baptism of Christ (Verrocchio, Piero della Francesca, or Andrei Rublev)",
+      "scripture_ref": "Matthew 3:17"
+    },
+    {
+      "id": "session-015",
+      "order": 15,
+      "group": "creed",
+      "title": {
+        "en-US": "Born of the Virgin Mary at Bethlehem",
+        "pt-BR": "Nascido da Virgem Maria em Belém"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-incarnazione",
+          "from": 82,
+          "to": 85
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-03-conceived-by-holy-ghost"
+      ],
+      "trent": "creed-03",
+      "image_topic": "The Nativity (Botticelli's Mystic Nativity, Caravaggio, or Giotto's Adoration of the Magi)",
+      "scripture_ref": "Luke 2:7"
+    },
+    {
+      "id": "session-016",
+      "order": 16,
+      "group": "creed",
+      "title": {
+        "en-US": "The Public Life and Miracles of Christ",
+        "pt-BR": "A vida pública e os milagres de Cristo"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-incarnazione",
+          "from": 86,
+          "to": 88
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "The Sermon on the Mount (Bloch, Tissot, or Fra Angelico); or Christ healing the blind",
+      "scripture_ref": "John 14:11"
+    },
+    {
+      "id": "session-017",
+      "order": 17,
+      "group": "creed",
+      "title": {
+        "en-US": "His Death and the Three Days in the Tomb",
+        "pt-BR": "Sua morte e os três dias no sepulcro"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-incarnazione",
+          "from": 89,
+          "to": 91
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-04-suffered-under-pontius-pilate",
+        "creed-05a-descended-into-hell"
+      ],
+      "trent": "creed-04",
+      "image_topic": "The Crucifixion (Velázquez's Christ Crucified, or Grünewald's Isenheim, or a Romanesque icon)",
+      "scripture_ref": "1 Peter 3:18"
+    },
+    {
+      "id": "session-018",
+      "order": 18,
+      "group": "creed",
+      "title": {
+        "en-US": "He Rose Again from the Dead",
+        "pt-BR": "Ressuscitou dos mortos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 92,
+          "to": 93
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-05b-resurrection"
+      ],
+      "trent": {
+        "chapter": "creed-05",
+        "sections": [
+          "@opening",
+          "Importance Of This Article",
+          "Second Part of this Article",
+          "Three Useful Considerations"
+        ]
+      },
+      "image_topic": "The Resurrection (Piero della Francesca's Resurrection at Sansepolcro, or Fra Angelico)",
+      "scripture_ref": "1 Corinthians 15:20"
+    },
+    {
+      "id": "session-019",
+      "order": 19,
+      "group": "creed",
+      "title": {
+        "en-US": "He Ascended into Heaven",
+        "pt-BR": "Subiu aos Céus"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 94,
+          "to": 94
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-06-ascended-into-heaven"
+      ],
+      "trent": "creed-06",
+      "image_topic": "The Ascension (Giotto in Padua, or Russian icon, or Mantegna)",
+      "scripture_ref": "Acts 1:11"
+    },
+    {
+      "id": "session-020",
+      "order": 20,
+      "group": "creed",
+      "title": {
+        "en-US": "He Will Come to Judge the Living and the Dead",
+        "pt-BR": "Voltará para julgar os vivos e os mortos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 95,
+          "to": 97
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-07-shall-come-to-judge",
+          "sections": [
+            "@opening",
+            "The Form of the Judgement",
+            "Who Are to Be Judged?"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-07",
+        "sections": [
+          "@opening",
+          "Meaning Of This Article",
+          "From Thence He Shall Come",
+          "To Judge the Living and the Dead"
+        ]
+      },
+      "image_topic": "The Last Judgment (Fra Angelico, Memling, or Michelangelo's Sistine Last Judgment)",
+      "scripture_ref": "Matthew 25:31"
+    },
+    {
+      "id": "session-021",
+      "order": 21,
+      "group": "creed",
+      "title": {
+        "en-US": "The Particular and Universal Judgment",
+        "pt-BR": "O juízo particular e o universal"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 98,
+          "to": 100
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-07-shall-come-to-judge",
+          "sections": [
+            "The Fear of the Judgment",
+            "Our Preparation for the Judgment"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-07",
+        "sections": [
+          "Circumstances of the Judgment",
+          "Importance of Instruction on this Article"
+        ]
+      },
+      "image_topic": "Death of the just and the wicked (e.g., Caravaggio's Death of the Virgin, or a Memento Mori panel)",
+      "scripture_ref": "Hebrews 9:27"
+    },
+    {
+      "id": "session-022",
+      "order": 22,
+      "group": "creed",
+      "title": {
+        "en-US": "Purgatory and the Souls We Help",
+        "pt-BR": "O purgatório e as almas que ajudamos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 101,
+          "to": 102
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "creed-05",
+        "sections": [
+          "First Part of this Article"
+        ]
+      },
+      "image_topic": "Souls in Purgatory (Daniel Crespi, or a Spanish Baroque painting of souls being lifted to heaven by angels)",
+      "scripture_ref": "2 Maccabees 12:46"
+    },
+    {
+      "id": "session-023",
+      "order": 23,
+      "group": "creed",
+      "title": {
+        "en-US": "Heaven and Hell, Both Eternal",
+        "pt-BR": "Céu e inferno, ambos eternos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-venuta",
+          "from": 103,
+          "to": 104
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-12-life-everlasting",
+          "sections": [
+            "What Is Everlasting Life?",
+            "What Is Everlasting Death?"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-12",
+        "sections": [
+          "Negative and Positive Elements of Eternal Life",
+          "Essential Happiness",
+          "Accessory Happiness"
+        ]
+      },
+      "image_topic": "Beatific vision (Dante's Paradise illustrated by Doré or Botticelli; or Fra Angelico's Christ Glorified in the Court of Heaven)",
+      "scripture_ref": "Matthew 25:46"
+    },
+    {
+      "id": "session-024",
+      "order": 24,
+      "group": "creed",
+      "title": {
+        "en-US": "The Church, the Society of Christ",
+        "pt-BR": "A Igreja, sociedade de Cristo"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-chiesa",
+          "from": 105,
+          "to": 108
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-09-holy-catholic-church",
+          "sections": [
+            "@opening",
+            "The Unity of the Church"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-09",
+        "sections": [
+          "@opening",
+          "The Importance Of This Article"
+        ]
+      },
+      "image_topic": "Christ giving the keys to St. Peter (Perugino, or Raphael's tapestry cartoon)",
+      "scripture_ref": "Matthew 16:18"
+    },
+    {
+      "id": "session-025",
+      "order": 25,
+      "group": "creed",
+      "title": {
+        "en-US": "One, Holy, Catholic, Apostolic",
+        "pt-BR": "Una, Santa, Católica, Apostólica"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-chiesa",
+          "from": 109,
+          "to": 111
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-09-holy-catholic-church",
+          "sections": [
+            "The Holiness of the Church",
+            "The Catholicity or Universality of the Church",
+            "The Apostolicity of the Church"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-09",
+        "sections": [
+          "First Part Of This Article"
+        ]
+      },
+      "image_topic": "The Pentecost (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
+      "scripture_ref": "Ephesians 4:5"
+    },
+    {
+      "id": "session-026",
+      "order": 26,
+      "group": "creed",
+      "title": {
+        "en-US": "The Pope, the Bishops, and Infallibility",
+        "pt-BR": "O Papa, os Bispos e a infalibilidade"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-chiesa",
+          "from": 112,
+          "to": 117
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "St. Peter enthroned (Arnolfo di Cambio's bronze in St. Peter's Basilica, or any Pope iconography)",
+      "scripture_ref": "Luke 22:32"
+    },
+    {
+      "id": "session-027",
+      "order": 27,
+      "group": "creed",
+      "title": {
+        "en-US": "The Means of Holiness and the Communion of Saints",
+        "pt-BR": "Os meios de santidade e a comunhão dos santos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-chiesa",
+          "from": 118,
+          "to": 122
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-10-communion-of-saints",
+          "sections": [
+            "@opening",
+            "The Seven Sacraments: a Review"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-09",
+        "sections": [
+          "Second Part of this Article"
+        ]
+      },
+      "image_topic": "All Saints (Fra Angelico's Forerunners of Christ, or a Mexican retablo of all saints; or Dürer's Adoration of the Trinity with all the saints)",
+      "scripture_ref": "1 Corinthians 12:27"
+    },
+    {
+      "id": "session-028",
+      "order": 28,
+      "group": "creed",
+      "title": {
+        "en-US": "The Saints, Living and Departed",
+        "pt-BR": "Os santos, vivos e falecidos"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-chiesa",
+          "from": 123,
+          "to": 127
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-10-communion-of-saints",
+          "sections": [
+            "The Communion of Saints"
+          ]
+        }
+      ],
+      "trent": null,
+      "image_topic": "Souls in heaven interceding (Bartolomé Esteban Murillo, Marian or Litany of saints panel)",
+      "scripture_ref": "Hebrews 12:1"
+    },
+    {
+      "id": "session-029",
+      "order": 29,
+      "group": "creed",
+      "title": {
+        "en-US": "Outside the Church",
+        "pt-BR": "Fora da Igreja"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-remissione-peccati",
+          "from": 128,
+          "to": 132
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "The Good Shepherd (early Christian fresco, or Bernhard Plockhorst, or a Russian icon)",
+      "scripture_ref": "John 10:16"
+    },
+    {
+      "id": "session-030",
+      "order": 30,
+      "group": "creed",
+      "title": {
+        "en-US": "The Forgiveness of Sins",
+        "pt-BR": "A remissão dos pecados"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-remissione-peccati",
+          "from": 133,
+          "to": 141
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-10-communion-of-saints",
+          "sections": [
+            "The Forgiveness of Sins"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-10",
+        "sections": [
+          "@opening",
+          "Importance Of This Article",
+          "The Church Has the Power of Forgiving Sins"
+        ]
+      },
+      "image_topic": "The Prodigal Son (Rembrandt's Return of the Prodigal Son, or Murillo)",
+      "scripture_ref": "Luke 15:20"
+    },
+    {
+      "id": "session-031",
+      "order": 31,
+      "group": "creed",
+      "title": {
+        "en-US": "Mortal Sin and the Recovery of Grace",
+        "pt-BR": "Pecado mortal e a recuperação da graça"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-remissione-peccati",
+          "from": 142,
+          "to": 148
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "creed-10",
+        "sections": [
+          "Extent of this Power",
+          "Limitation of this Power",
+          "Greatness of this Power"
+        ]
+      },
+      "image_topic": "The Penitent Magdalene (Caravaggio, La Tour, or Titian)",
+      "scripture_ref": "Luke 7:47"
+    },
+    {
+      "id": "session-032",
+      "order": 32,
+      "group": "creed",
+      "title": {
+        "en-US": "Venial Sin and the Sins Against the Holy Spirit",
+        "pt-BR": "Pecado venial e os pecados contra o Espírito Santo"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-remissione-peccati",
+          "from": 149,
+          "to": 155
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "creed-10",
+        "sections": [
+          "Exhortation"
+        ]
+      },
+      "image_topic": "The Last Things — death, judgment, hell, heaven (a 17th-century Memento Mori, or Bosch's Four Last Things)",
+      "scripture_ref": "Matthew 12:31"
+    },
+    {
+      "id": "session-033",
+      "order": 33,
+      "group": "creed",
+      "title": {
+        "en-US": "The Resurrection of the Body",
+        "pt-BR": "A ressurreição da carne"
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-risurrezione",
+          "from": 156,
+          "to": 158
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "creed-11-resurrection-of-body"
+      ],
+      "trent": "creed-11",
+      "image_topic": "The Resurrection of the Dead (Signorelli's frescoes at Orvieto; or Rogier van der Weyden's Last Judgment)",
+      "scripture_ref": "John 11:25"
+    },
+    {
+      "id": "session-034",
+      "order": 34,
+      "group": "creed",
+      "title": {
+        "en-US": "Life Everlasting. Amen.",
+        "pt-BR": "A vida eterna. Amém."
+      },
+      "pius_x": [
+        {
+          "chapter": "credo-risurrezione",
+          "from": 159,
+          "to": 160
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "creed-12-life-everlasting",
+          "sections": [
+            "@opening",
+            "The Fullness of Desires"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "creed-12",
+        "sections": [
+          "@opening",
+          "Importance Of This Article",
+          "Life Everlasting",
+          "How to Arrive at the Enjoyment"
+        ]
+      },
+      "image_topic": "The Heavenly Jerusalem (Fra Angelico, or van Eyck's Adoration of the Lamb in the Ghent altarpiece)",
+      "scripture_ref": "Revelation 21:4"
+    },
+    {
+      "id": "session-035",
+      "order": 35,
+      "group": "decalogue",
+      "title": {
+        "en-US": "The Decalogue and the Two Great Commandments",
+        "pt-BR": "O Decálogo e os dois grandes mandamentos"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 161,
+          "to": 165
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-00-introduction"
+      ],
+      "trent": {
+        "chapter": "decalogue-intro",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On The Commandments",
+          "The Promulgation of the Law"
+        ]
+      },
+      "image_topic": "Moses receiving the Tables of the Law on Sinai (Rembrandt, or a Russian icon)",
+      "scripture_ref": "Matthew 22:37-39"
+    },
+    {
+      "id": "session-036",
+      "order": 36,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Why We Are Bound to Keep the Commandments",
+        "pt-BR": "Por que somos obrigados a guardar os mandamentos"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 166,
+          "to": 168
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": {
+        "chapter": "decalogue-intro",
+        "sections": [
+          "Motives for Observing the Commandments"
+        ]
+      },
+      "image_topic": "Christ teaching the Beatitudes (Bloch's Sermon on the Mount, or Carl Bloch)",
+      "scripture_ref": "John 14:15"
+    },
+    {
+      "id": "session-037",
+      "order": 37,
+      "group": "decalogue",
+      "title": {
+        "en-US": "First Commandment — Adoring God Alone",
+        "pt-BR": "Primeiro mandamento — adorar só a Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 169,
+          "to": 172
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-01-strange-gods"
+      ],
+      "trent": {
+        "chapter": "commandment-01",
+        "sections": [
+          "I am the Lord thy God",
+          "Who Brought Thee Out of the Land of Egypt",
+          "Thou Shalt Not Have Strange Gods Before Me"
+        ]
+      },
+      "image_topic": "Abraham's sacrifice (Rembrandt, Caravaggio); or the Adoration of the Magi as model adorers",
+      "scripture_ref": "Exodus 20:3"
+    },
+    {
+      "id": "session-038",
+      "order": 38,
+      "group": "decalogue",
+      "title": {
+        "en-US": "First Commandment — Veneration of the Saints and the Mother of God",
+        "pt-BR": "Primeiro mandamento — veneração dos santos e da Mãe de Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 173,
+          "to": 176
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": {
+        "chapter": "commandment-01",
+        "sections": [
+          "I Am the Lord Thy God, Mighty, Jealous"
+        ]
+      },
+      "image_topic": "Madonna and Child enthroned with saints (Fra Angelico's San Marco altarpiece, or a Marian icon with saints)",
+      "scripture_ref": "Luke 1:48"
+    },
+    {
+      "id": "session-039",
+      "order": 39,
+      "group": "decalogue",
+      "title": {
+        "en-US": "First Commandment — Sacred Images and Relics",
+        "pt-BR": "Primeiro mandamento — imagens sagradas e relíquias"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 177,
+          "to": 178
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": {
+        "chapter": "commandment-01",
+        "sections": [
+          "Thou shalt not make to thyself a graven thing"
+        ]
+      },
+      "image_topic": "Veneration of the True Cross or sacred images (e.g. Russian icon of the Veneration of the Cross, or Fra Angelico's Procession of the True Cross)",
+      "scripture_ref": "Acts 19:12"
+    },
+    {
+      "id": "session-040",
+      "order": 40,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Second Commandment — The Holy Name and Oaths",
+        "pt-BR": "Segundo mandamento — o santo Nome e os juramentos"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 179,
+          "to": 181
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-02-name-of-the-lord",
+          "sections": [
+            "@opening",
+            "The Meaning of in Vain",
+            "Conditions of a Lawful Oath"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-02",
+        "sections": [
+          "Importance Of Instruction On This Commandment",
+          "Various Ways Of Honouring God's Name",
+          "Various Ways In Which God's Name Is Dishonoured"
+        ]
+      },
+      "image_topic": "The Name of Jesus (IHS monogram, e.g. by Sienese Bernardino, or in a Jesuit emblem book)",
+      "scripture_ref": "Philippians 2:10"
+    },
+    {
+      "id": "session-041",
+      "order": 41,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Second Commandment — Vows and Promises to God",
+        "pt-BR": "Segundo mandamento — votos e promessas a Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 182,
+          "to": 183
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-02-name-of-the-lord",
+          "sections": [
+            "Taking God's Name Justly"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-02",
+        "sections": [
+          "@opening",
+          "Why This Commandment Is Distinct From The First"
+        ]
+      },
+      "image_topic": "Hannah praying at Shiloh (her vow to give Samuel to God); or a religious profession (Fra Angelico's Profession of St. Dominic)",
+      "scripture_ref": "Ecclesiastes 5:4"
+    },
+    {
+      "id": "session-042",
+      "order": 42,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Third Commandment — Keeping the Lord's Day",
+        "pt-BR": "Terceiro mandamento — santificar o dia do Senhor"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 184,
+          "to": 186
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-03-sabbath",
+          "sections": [
+            "@opening",
+            "Reasons for This Commandment",
+            "With What the Sabbath and Feasts Should Be Occupied"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-03",
+        "sections": [
+          "@opening",
+          "Reasons For This Commandment",
+          "Importance Of Instruction On This Commandment",
+          "How The Third Differs From The Other Commandments",
+          "How The Third Is Like The Other Commandments",
+          "The Jewish Sabbath Changed To Sunday By The Apostles"
+        ]
+      },
+      "image_topic": "The Mass (Raphael's Mass at Bolsena, or a depiction of the Elevation of the Host)",
+      "scripture_ref": "Exodus 20:8"
+    },
+    {
+      "id": "session-043",
+      "order": 43,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Third Commandment — Sunday Rest",
+        "pt-BR": "Terceiro mandamento — o repouso do domingo"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 187,
+          "to": 189
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-03-sabbath",
+          "sections": [
+            "From What We Should Abstain on the Sabbath",
+            "With What the Sabbath and Feasts",
+            "The Spiritual Sabbath",
+            "The Heavenly Sabbath"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-03",
+        "sections": [
+          "Four Parts Of This Commandment",
+          "The Observance Of This Commandment Brings Many Blessings",
+          "Neglect Of This Commandment A Great Crime"
+        ]
+      },
+      "image_topic": "A Dutch Sabbath scene of family reading the Bible; or Millet's Angelus (peasants pausing in prayer)",
+      "scripture_ref": "Mark 2:27"
+    },
+    {
+      "id": "session-044",
+      "order": 44,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Fourth Commandment — Father, Mother, and Authority",
+        "pt-BR": "Quarto mandamento — pai, mãe e autoridade"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 190,
+          "to": 192
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-04-honour-father-and-mother"
+      ],
+      "trent": "commandment-04",
+      "image_topic": "The Holy Family (Murillo's Holy Family with Bird, or Raphael's Madonna del Cardellino, or El Greco's Holy Family)",
+      "scripture_ref": "Ephesians 6:2"
+    },
+    {
+      "id": "session-045",
+      "order": 45,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Fifth Commandment — Reverence for Life",
+        "pt-BR": "Quinto mandamento — reverência pela vida"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 193,
+          "to": 194
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-05-not-kill",
+          "sections": [
+            "@opening",
+            "The Sin of Killing"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-05",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On This Commandment",
+          "Two Parts Of This Commandment"
+        ]
+      },
+      "image_topic": "The Good Samaritan (van Gogh after Delacroix, or Rembrandt)",
+      "scripture_ref": "Genesis 9:6"
+    },
+    {
+      "id": "session-046",
+      "order": 46,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Fifth Commandment — Suicide and Dueling",
+        "pt-BR": "Quinto mandamento — suicídio e duelo"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 195,
+          "to": 197
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Christ in the Garden of Gethsemane in agony (Bellini, El Greco, or Caravaggio) — a counter-image to despair",
+      "scripture_ref": "Romans 12:19"
+    },
+    {
+      "id": "session-047",
+      "order": 47,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Fifth Commandment — Scandal and Love of Enemies",
+        "pt-BR": "Quinto mandamento — escândalo e amor aos inimigos"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 198,
+          "to": 200
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        {
+          "chapter": "commandments-05-not-kill",
+          "sections": [
+            "The Sin of Anger"
+          ]
+        }
+      ],
+      "trent": {
+        "chapter": "commandment-05",
+        "sections": [
+          "Love Of Neighbour Inculcated",
+          "How to Persuade Men to Forgive Injuries",
+          "Remedies Against Hatred"
+        ]
+      },
+      "image_topic": "Christ forgiving from the Cross — 'Father, forgive them' (Velázquez, Reni, or Bouguereau's Compassion)",
+      "scripture_ref": "Matthew 5:44"
+    },
+    {
+      "id": "session-048",
+      "order": 48,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Sixth Commandment — Holy in Body",
+        "pt-BR": "Sexto mandamento — santos no corpo"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 201,
+          "to": 202
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-06-not-commit-adultery"
+      ],
+      "trent": "commandment-06",
+      "image_topic": "St. Joseph the Chaste (Murillo's St. Joseph and Child, or El Greco's St. Joseph)",
+      "scripture_ref": "1 Corinthians 6:19"
+    },
+    {
+      "id": "session-049",
+      "order": 49,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Seventh Commandment — Justice and Restitution",
+        "pt-BR": "Sétimo mandamento — justiça e restituição"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 203,
+          "to": 205
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-07-not-steal"
+      ],
+      "trent": "commandment-07",
+      "image_topic": "Zacchaeus restoring fourfold (after Christ's visit) — a tax collector turned almsgiver, e.g., illustration from a 19th-century Bible; or Rembrandt's Hundred-Guilder Print",
+      "scripture_ref": "Luke 19:8"
+    },
+    {
+      "id": "session-050",
+      "order": 50,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Eighth Commandment — Truth and the Reputation of Others",
+        "pt-BR": "Oitavo mandamento — a verdade e a fama do próximo"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 206,
+          "to": 208
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-08-not-bear-false-witness"
+      ],
+      "trent": "commandment-08",
+      "image_topic": "Susanna and the Elders (Artemisia Gentileschi, or Rembrandt) — false witness exposed; OR Pilate hearing 'What is truth?' (Tissot, Bouguereau)",
+      "scripture_ref": "Proverbs 22:1"
+    },
+    {
+      "id": "session-051",
+      "order": 51,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Ninth Commandment — Pure Thoughts and Desires",
+        "pt-BR": "Nono mandamento — pureza de pensamentos e desejos"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 209,
+          "to": 210
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-10-not-covet-wife"
+      ],
+      "trent": {
+        "chapter": "commandment-09-10",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On These Two Commandments",
+          "Why These Two Commandments Are Explained Here Together",
+          "Necessity Of Promulgating These Two Commandments",
+          "These Two Commandments Teach God's Love For Us And Our Need Of Him"
+        ]
+      },
+      "image_topic": "Joseph fleeing from Potiphar's wife (Carlo Cignani, Orazio Gentileschi); or the Annunciation as model purity of heart",
+      "scripture_ref": "Matthew 5:28"
+    },
+    {
+      "id": "session-052",
+      "order": 52,
+      "group": "decalogue",
+      "title": {
+        "en-US": "Tenth Commandment — Detachment from Goods",
+        "pt-BR": "Décimo mandamento — desapego dos bens"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-comandamenti",
+          "from": 211,
+          "to": 212
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "commandments-09-not-covet-goods",
+        "commandments-summary"
+      ],
+      "trent": {
+        "chapter": "commandment-09-10",
+        "sections": [
+          "Two Parts Of These Commandments",
+          "Negative Part"
+        ]
+      },
+      "image_topic": "St. Francis renouncing his goods before the bishop (Giotto's Bardi Chapel; or Sassetta)",
+      "scripture_ref": "1 Timothy 6:7"
+    },
+    {
+      "id": "session-053",
+      "order": 53,
+      "group": "precepts",
+      "title": {
+        "en-US": "The Precepts of the Church — Mass and Friday",
+        "pt-BR": "Os preceitos da Igreja — Missa e sexta-feira"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-precetti",
+          "from": 213,
+          "to": 218
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "A village procession or congregation entering church for Sunday Mass (e.g., a Flemish or Spanish 17th-century painting)",
+      "scripture_ref": "Hebrews 10:25"
+    },
+    {
+      "id": "session-054",
+      "order": 54,
+      "group": "precepts",
+      "title": {
+        "en-US": "Fast, Confession, Communion, Offerings",
+        "pt-BR": "Jejum, confissão, comunhão, ofertas"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-precetti",
+          "from": 219,
+          "to": 226
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Ash Wednesday or Lenten penance (a Spanish or Italian Baroque image of penitents); or the widow's mite (Tissot)",
+      "scripture_ref": "Joel 2:12"
+    },
+    {
+      "id": "session-055",
+      "order": 55,
+      "group": "virtues",
+      "title": {
+        "en-US": "What Virtue Is — and the Virtues of God",
+        "pt-BR": "O que é a virtude — e as virtudes de Deus"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-virtu",
+          "from": 227,
+          "to": 237
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "Allegory of the three theological virtues (Bouguereau's Charity, or Raphael's Faith/Hope/Charity in the Vatican Stanze)",
+      "scripture_ref": "1 Corinthians 13:13"
+    },
+    {
+      "id": "session-056",
+      "order": 56,
+      "group": "virtues",
+      "title": {
+        "en-US": "Hope and Charity — Loving God and Neighbor",
+        "pt-BR": "Esperança e caridade — amando a Deus e ao próximo"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-virtu",
+          "from": 238,
+          "to": 249
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "The Good Samaritan tending the wounded man (Rembrandt, van Gogh, Hogarth) — charity in action",
+      "scripture_ref": "1 John 4:20"
+    },
+    {
+      "id": "session-057",
+      "order": 57,
+      "group": "virtues",
+      "title": {
+        "en-US": "The Counsels and the Cardinal Virtues",
+        "pt-BR": "Os conselhos e as virtudes cardeais"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-virtu",
+          "from": 250,
+          "to": 258
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "The Four Cardinal Virtues (Raphael's Stanze, or Allegory by Veronese); or St. Benedict (founder of monastic counsels)",
+      "scripture_ref": "Wisdom 8:7"
+    },
+    {
+      "id": "session-058",
+      "order": 58,
+      "group": "virtues",
+      "title": {
+        "en-US": "The Capital Sins, the Passions, the Beatitudes",
+        "pt-BR": "Os pecados capitais, as paixões e as Bem-aventuranças"
+      },
+      "pius_x": [
+        {
+          "chapter": "legge-virtu",
+          "from": 259,
+          "to": 266
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": null,
+      "image_topic": "The Sermon on the Mount / the Beatitudes (Bloch, James Tissot's series, or Fra Angelico's Sermon)",
+      "scripture_ref": "Matthew 5:3"
+    },
+    {
+      "id": "session-059",
+      "order": 59,
+      "group": "sacraments",
+      "title": {
+        "en-US": "What a Sacrament Is",
+        "pt-BR": "O que é um sacramento"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramenti-in-generale",
+          "from": 267,
+          "to": 275
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacraments-intro",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On The Sacraments",
+          "The Word",
+          "Definition of a Sacrament",
+          "Constituent Parts of the Sacraments"
+        ]
+      },
+      "image_topic": "The seven sacraments (a 17th-century allegorical engraving; or Roger van der Weyden's Seven Sacraments altarpiece)",
+      "scripture_ref": "John 6:53"
+    },
+    {
+      "id": "session-060",
+      "order": 60,
+      "group": "sacraments",
+      "title": {
+        "en-US": "How the Sacraments Give Grace",
+        "pt-BR": "Como os sacramentos dão a graça"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramenti-in-generale",
+          "from": 276,
+          "to": 282
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacraments-intro",
+        "sections": [
+          "Why the Sacraments were Instituted",
+          "The Number Of The Sacraments",
+          "Comparisons among the Sacraments",
+          "Effects of the Sacraments"
+        ]
+      },
+      "image_topic": "The Pierced Side of Christ — the source of the sacraments (a Counter-Reformation devotional image; or Fra Angelico)",
+      "scripture_ref": "John 19:34"
+    },
+    {
+      "id": "session-061",
+      "order": 61,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Receiving the Sacraments Worthily",
+        "pt-BR": "Receber dignamente os sacramentos"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramenti-in-generale",
+          "from": 283,
+          "to": 289
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacraments-intro",
+        "sections": [
+          "Other Sacred Things Signified By The Sacraments",
+          "Ceremonies Used in the Administration of the Sacraments",
+          "The Author of the Sacraments",
+          "The Ministers of the Sacraments",
+          "How to Make Instruction on the Sacraments Profitable"
+        ]
+      },
+      "image_topic": "The Last Supper (Leonardo, or Tintoretto, or a Russian icon)",
+      "scripture_ref": "1 Corinthians 11:28"
+    },
+    {
+      "id": "session-062",
+      "order": 62,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Baptism — The First Grace",
+        "pt-BR": "Batismo — a primeira graça"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-battesimo",
+          "from": 290,
+          "to": 296
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-baptism",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On Baptism",
+          "Names of this Sacrament",
+          "Definition Of Baptism",
+          "Constituent Elements Of Baptism",
+          "Matter of Baptism",
+          "Form of Baptism",
+          "Institution Of Baptism",
+          "Necessity of Baptism",
+          "Effects of Baptism"
+        ]
+      },
+      "image_topic": "The Baptism of Christ in the Jordan (Verrocchio with Leonardo, Piero della Francesca, or Andrei Rublev's icon)",
+      "scripture_ref": "Mark 16:16"
+    },
+    {
+      "id": "session-063",
+      "order": 63,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Baptism — Minister, Names, and Children",
+        "pt-BR": "Batismo — ministro, nomes e crianças"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-battesimo",
+          "from": 297,
+          "to": 303
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-baptism",
+        "sections": [
+          "Administration of Baptism",
+          "The Ministers of Baptism",
+          "The Sponsors at Baptism",
+          "Dispositions for Baptism",
+          "Ceremonies of Baptism",
+          "Recapitulation"
+        ]
+      },
+      "image_topic": "Christ blessing the children — 'Let the little children come to me' (Bloch, Plockhorst, or 19th-century French illustration)",
+      "scripture_ref": "Matthew 19:14"
+    },
+    {
+      "id": "session-064",
+      "order": 64,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Confirmation — The Soldier of Christ",
+        "pt-BR": "Confirmação — o soldado de Cristo"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-cresima",
+          "from": 304,
+          "to": 309
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-confirmation",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On Confirmation",
+          "Name of this Sacrament",
+          "Confirmation is a Sacrament",
+          "Confirmation is Distinct from Baptism",
+          "Institution of Confirmation",
+          "Component Parts of Confirmation",
+          "The Effects of Confirmation"
+        ]
+      },
+      "image_topic": "Pentecost — tongues of fire (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
+      "scripture_ref": "Acts 8:17"
+    },
+    {
+      "id": "session-065",
+      "order": 65,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Confirmation — Preparing the Soul",
+        "pt-BR": "Confirmação — preparar a alma"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-cresima",
+          "from": 310,
+          "to": 315
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-confirmation",
+        "sections": [
+          "Minister of Confirmation",
+          "Sponsors at Confirmation",
+          "The Subject of Confirmation",
+          "Ceremonies Of Confirmation",
+          "Admonition"
+        ]
+      },
+      "image_topic": "A bishop confirming (a 16th- or 17th-century painting, or a stained-glass window from a French cathedral)",
+      "scripture_ref": "2 Timothy 1:7"
+    },
+    {
+      "id": "session-066",
+      "order": 66,
+      "group": "sacraments",
+      "title": {
+        "en-US": "What the Eucharist Is — and Its Institution",
+        "pt-BR": "O que é a Eucaristia — e a sua instituição"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 316,
+          "to": 321
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "Institution of the Eucharist",
+          "Meaning of the Word",
+          "Other Names Of This Sacrament",
+          "Constituent Parts of the Eucharist"
+        ]
+      },
+      "image_topic": "The Last Supper — Institution of the Eucharist (Leonardo, Tintoretto, or Stanley Spencer)",
+      "scripture_ref": "1 Corinthians 11:24"
+    },
+    {
+      "id": "session-067",
+      "order": 67,
+      "group": "sacraments",
+      "title": {
+        "en-US": "The Real Presence and Transubstantiation",
+        "pt-BR": "A Presença Real e a transubstanciação"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 322,
+          "to": 327
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On The Eucharist",
+          "The Eucharist Is a Sacrament Properly So Called",
+          "Three Mysteries Of The Eucharist"
+        ]
+      },
+      "image_topic": "The Disputation of the Sacrament (Raphael, Vatican Stanze) — heaven and earth gathered around the Host; or the Mass at Bolsena",
+      "scripture_ref": "John 6:56"
+    },
+    {
+      "id": "session-068",
+      "order": 68,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Receiving the Eucharist Worthily",
+        "pt-BR": "Receber dignamente a Eucaristia"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 328,
+          "to": 333
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "Threefold Manner Of Communicating",
+          "Necessity Of Previous Preparation For Communion"
+        ]
+      },
+      "image_topic": "First Communion (Picasso's First Communion, or a 19th-century French Romantic painting of a girl in white veil)",
+      "scripture_ref": "1 Corinthians 11:29"
+    },
+    {
+      "id": "session-069",
+      "order": 69,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Frequent and Daily Communion",
+        "pt-BR": "Comunhão frequente e diária"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 334,
+          "to": 339
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "The Obligation of Communion"
+        ]
+      },
+      "image_topic": "St. Thérèse of Lisieux (or any saint known for daily Communion); or a Eucharistic procession (Corpus Christi)",
+      "scripture_ref": "John 6:54"
+    },
+    {
+      "id": "session-070",
+      "order": 70,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Eucharistic Adoration",
+        "pt-BR": "Adoração eucarística"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 340,
+          "to": 345
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "The Effects of the Eucharist",
+          "The Rite of Administering Communion",
+          "The Minister of the Eucharist"
+        ]
+      },
+      "image_topic": "Adoration of the Blessed Sacrament (a Baroque monstrance scene; or St. Pascual Baylón, patron of Eucharistic congresses)",
+      "scripture_ref": "Psalm 27:4"
+    },
+    {
+      "id": "session-071",
+      "order": 71,
+      "group": "sacraments",
+      "title": {
+        "en-US": "The Mass as Sacrifice",
+        "pt-BR": "A Missa como sacrifício"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-eucaristia",
+          "from": 346,
+          "to": 354
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-eucharist",
+        "sections": [
+          "The Eucharist as a Sacrifice"
+        ]
+      },
+      "image_topic": "The Mass of St. Gregory (a medieval depiction of Christ appearing on the altar), or the Elevation of the Host",
+      "scripture_ref": "Hebrews 13:10"
+    },
+    {
+      "id": "session-072",
+      "order": 72,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Penance — The Tribunal of Mercy",
+        "pt-BR": "Penitência — o tribunal da misericórdia"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-penitenza",
+          "from": 355,
+          "to": 360
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-penance",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On This Sacrament",
+          "The Virtue of Penance",
+          "Why Christ Instituted This Sacrament",
+          "Penance Is a Sacrament",
+          "This Sacrament May Be Repeated"
+        ]
+      },
+      "image_topic": "Christ giving the keys / power to forgive sins (Rubens, or El Greco's Christ giving keys to Peter)",
+      "scripture_ref": "John 20:23"
+    },
+    {
+      "id": "session-073",
+      "order": 73,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Penance — Confession and Examination",
+        "pt-BR": "Penitência — confissão e exame"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-penitenza",
+          "from": 361,
+          "to": 366
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-penance",
+        "sections": [
+          "The Constituent Parts of Penance",
+          "The Rites Observed",
+          "The Second Part of Penance"
+        ]
+      },
+      "image_topic": "A confession scene (Goya's Confession; or the parable of the Pharisee and the Publican)",
+      "scripture_ref": "1 John 1:9"
+    },
+    {
+      "id": "session-074",
+      "order": 74,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Penance — Contrition",
+        "pt-BR": "Penitência — contrição"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-penitenza",
+          "from": 367,
+          "to": 374
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-penance",
+        "sections": [
+          "The First Part of Penance"
+        ]
+      },
+      "image_topic": "The Penitent Peter weeping (Reni, El Greco, or Goya); or the Penitent Magdalene",
+      "scripture_ref": "Psalm 51:17"
+    },
+    {
+      "id": "session-075",
+      "order": 75,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Penance — Purpose of Amendment and Satisfaction",
+        "pt-BR": "Penitência — propósito de emenda e satisfação"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-penitenza",
+          "from": 375,
+          "to": 381
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-penance",
+        "sections": [
+          "The Three Integral Parts of Penance"
+        ]
+      },
+      "image_topic": "St. Mary of Egypt as model penitent in the desert; or any depiction of doing penance after confession",
+      "scripture_ref": "Luke 3:8"
+    },
+    {
+      "id": "session-076",
+      "order": 76,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Penance — Satisfaction and Indulgences",
+        "pt-BR": "Penitência — satisfação e indulgências"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-penitenza",
+          "from": 382,
+          "to": 391
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-penance",
+        "sections": [
+          "The Third Part of Penance",
+          "Admonition"
+        ]
+      },
+      "image_topic": "Christ embracing the Prodigal Son (Rembrandt's Return); or the Lamb of God absolving (a Counter-Reformation devotional)",
+      "scripture_ref": "Luke 15:24"
+    },
+    {
+      "id": "session-077",
+      "order": 77,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Extreme Unction — The Anointing of the Sick",
+        "pt-BR": "Extrema-unção — a unção dos enfermos"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-estrema-unzione",
+          "from": 392,
+          "to": 396
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": "sacrament-extreme-unction",
+      "image_topic": "The Anointing of the Sick (Rogier van der Weyden's Seven Sacraments altarpiece, the dying-room panel; or Goya's Last Communion of St. Joseph of Calasanz)",
+      "scripture_ref": "James 5:14"
+    },
+    {
+      "id": "session-078",
+      "order": 78,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Holy Orders — The Priesthood of Christ",
+        "pt-BR": "Ordem — o sacerdócio de Cristo"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-ordine",
+          "from": 397,
+          "to": 405
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": "sacrament-holy-orders",
+      "image_topic": "Ordination of a priest (a Spanish or Italian Baroque painting, or a depiction of St. John Vianney saying Mass)",
+      "scripture_ref": "Hebrews 5:1"
+    },
+    {
+      "id": "session-079",
+      "order": 79,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Matrimony — A Covenant in Christ",
+        "pt-BR": "Matrimônio — uma aliança em Cristo"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-matrimonio",
+          "from": 406,
+          "to": 410
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-matrimony",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On This Sacrament",
+          "Nature and Meaning of Marriage",
+          "Twofold Consideration of Marriage",
+          "Marriage before Christ",
+          "Christ Restored to Marriage its Primitive Qualities",
+          "The Three Blessings of Marriage",
+          "The Recipient of Matrimony"
+        ]
+      },
+      "image_topic": "The Marriage at Cana (Veronese, Giotto, or Murillo); OR the Holy Family in Joseph's workshop",
+      "scripture_ref": "Ephesians 5:32"
+    },
+    {
+      "id": "session-080",
+      "order": 80,
+      "group": "sacraments",
+      "title": {
+        "en-US": "Matrimony — Duties of the Spouses",
+        "pt-BR": "Matrimônio — deveres dos esposos"
+      },
+      "pius_x": [
+        {
+          "chapter": "sacramento-matrimonio",
+          "from": 411,
+          "to": 413
+        }
+      ],
+      "teacher": "trent",
+      "aquinas": [],
+      "trent": {
+        "chapter": "sacrament-matrimony",
+        "sections": [
+          "The Duties of Married People",
+          "The Rite To Be Observed",
+          "The Impediments Of Marriage",
+          "The Use Of Marriage"
+        ]
+      },
+      "image_topic": "The Holy Family (Murillo's Holy Family with a Bird, or Reni's Holy Family) — model of married love",
+      "scripture_ref": "Genesis 2:24"
+    },
+    {
+      "id": "session-081",
+      "order": 81,
+      "group": "prayer",
+      "title": {
+        "en-US": "What Prayer Is",
+        "pt-BR": "O que é a oração"
+      },
+      "pius_x": [
+        {
+          "chapter": "orazione",
+          "from": 414,
+          "to": 419
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-00-five-qualities"
+      ],
+      "trent": {
+        "chapter": "prayer-intro",
+        "sections": [
+          "@opening",
+          "Importance Of Instruction On Prayer",
+          "Necessity of Prayer",
+          "The Fruits of Prayer",
+          "The Parts Of Prayer",
+          "What We Should Pray For"
+        ]
+      },
+      "image_topic": "Christ in the Garden of Gethsemane praying (Bellini, Mantegna, or El Greco) — the model of prayer",
+      "scripture_ref": "1 Thessalonians 5:17"
+    },
+    {
+      "id": "session-082",
+      "order": 82,
+      "group": "prayer",
+      "title": {
+        "en-US": "Why God Hears Us",
+        "pt-BR": "Por que Deus nos ouve"
+      },
+      "pius_x": [
+        {
+          "chapter": "orazione",
+          "from": 420,
+          "to": 425
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [],
+      "trent": {
+        "chapter": "prayer-intro",
+        "sections": [
+          "For Whom We Ought to Pray",
+          "To Whom We Should Pray",
+          "Preparation for Prayer",
+          "How to Pray Well"
+        ]
+      },
+      "image_topic": "Christ knocking at the door (Holman Hunt's Light of the World) or the persistent widow (Tissot)",
+      "scripture_ref": "Matthew 7:7"
+    },
+    {
+      "id": "session-083",
+      "order": 83,
+      "group": "prayer",
+      "title": {
+        "en-US": "\"Our Father, who art in Heaven\"",
+        "pt-BR": "\"Pai Nosso, que estais nos céus\""
+      },
+      "pius_x": [
+        {
+          "chapter": "orazione",
+          "from": 426,
+          "to": 426
+        },
+        {
+          "chapter": "orazione",
+          "from": 428,
+          "to": 428
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-01-opening-words"
+      ],
+      "trent": "prayer-our-father",
+      "image_topic": "Christ teaching the Our Father to His disciples (a 19th-century illustration; or James Tissot's Christ teaching)",
+      "scripture_ref": "Matthew 6:9"
+    },
+    {
+      "id": "session-084",
+      "order": 84,
+      "group": "prayer",
+      "title": {
+        "en-US": "First Petition — \"Hallowed be Thy Name\"",
+        "pt-BR": "Primeira petição — \"Santificado seja o Vosso Nome\""
+      },
+      "pius_x": [],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-02-hallowed-be-thy-name"
+      ],
+      "trent": "petition-01",
+      "image_topic": "The Burning Bush (Moses) where God's Name was first revealed; OR the Holy Name of Jesus (IHS in glory, Caravaggio or Bernini's St. Peter's window)",
+      "scripture_ref": "Psalm 113:3"
+    },
+    {
+      "id": "session-085",
+      "order": 85,
+      "group": "prayer",
+      "title": {
+        "en-US": "Second Petition — \"Thy Kingdom Come\"",
+        "pt-BR": "Segunda petição — \"Venha a nós o Vosso Reino\""
+      },
+      "pius_x": [],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-03-thy-kingdom-come"
+      ],
+      "trent": "petition-02",
+      "image_topic": "Christ the King enthroned (Russian icon of the Pantocrator; or Velázquez's Coronation of the Virgin)",
+      "scripture_ref": "Luke 17:21"
+    },
+    {
+      "id": "session-086",
+      "order": 86,
+      "group": "prayer",
+      "title": {
+        "en-US": "Third Petition — \"Thy Will Be Done\"",
+        "pt-BR": "Terceira petição — \"Seja feita a Vossa vontade\""
+      },
+      "pius_x": [],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-04-thy-will-be-done"
+      ],
+      "trent": "petition-03",
+      "image_topic": "The Annunciation — Mary's 'Fiat' (Fra Angelico, Botticelli, or Henry Ossawa Tanner's modern Annunciation)",
+      "scripture_ref": "Luke 22:42"
+    },
+    {
+      "id": "session-087",
+      "order": 87,
+      "group": "prayer",
+      "title": {
+        "en-US": "Fourth Petition — \"Give Us This Day Our Daily Bread\"",
+        "pt-BR": "Quarta petição — \"O pão nosso de cada dia nos dai hoje\""
+      },
+      "pius_x": [
+        {
+          "chapter": "orazione",
+          "from": 427,
+          "to": 427
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-05-daily-bread"
+      ],
+      "trent": "petition-04",
+      "image_topic": "The Multiplication of the Loaves (Murillo, Tintoretto, or Marco Pino); OR a Eucharistic image with a wheat sheaf",
+      "scripture_ref": "Matthew 6:11"
+    },
+    {
+      "id": "session-088",
+      "order": 88,
+      "group": "prayer",
+      "title": {
+        "en-US": "Fifth Petition — \"Forgive Us Our Trespasses\"",
+        "pt-BR": "Quinta petição — \"Perdoai-nos as nossas dívidas\""
+      },
+      "pius_x": [],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-06-forgive-us"
+      ],
+      "trent": "petition-05",
+      "image_topic": "The Unmerciful Servant being reproached by the king (a 19th-century Bible illustration); OR the Prodigal Son receiving the embrace",
+      "scripture_ref": "Matthew 6:14"
+    },
+    {
+      "id": "session-089",
+      "order": 89,
+      "group": "prayer",
+      "title": {
+        "en-US": "Sixth and Seventh Petitions and the Amen — Temptation, Deliverance, Confirmation",
+        "pt-BR": "Sexta e Sétima Petições e o Amém — tentação, libertação, confirmação"
+      },
+      "pius_x": [],
+      "teacher": "aquinas",
+      "aquinas": [
+        "lords-prayer-07-lead-us-not",
+        "lords-prayer-08-deliver-us-from-evil",
+        "lords-prayer-short-explanation"
+      ],
+      "trent": [
+        "petition-06",
+        "petition-07",
+        "amen"
+      ],
+      "image_topic": "Christ's temptation in the desert (Tissot, Botticelli, or Ivan Kramskoi's Christ in the Wilderness); OR St. Michael casting out the devil",
+      "scripture_ref": "1 Corinthians 10:13"
+    },
+    {
+      "id": "session-090",
+      "order": 90,
+      "group": "marian",
+      "title": {
+        "en-US": "The Hail Mary and the Communion of Saints",
+        "pt-BR": "A Ave-Maria e a comunhão dos santos"
+      },
+      "pius_x": [
+        {
+          "chapter": "orazione",
+          "from": 429,
+          "to": 433
+        }
+      ],
+      "teacher": "aquinas",
+      "aquinas": [
+        "hail-mary"
+      ],
+      "trent": null,
+      "image_topic": "The Annunciation 'Ave gratia plena' (Fra Angelico's San Marco fresco; or Simone Martini); OR the Virgin of Tenderness icon",
+      "scripture_ref": "Luke 1:28"
+    }
+  ]
+}

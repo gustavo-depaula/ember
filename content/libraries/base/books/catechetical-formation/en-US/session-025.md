@@ -1,0 +1,559 @@
+# Session 25 — One, Holy, Catholic, Apostolic
+
+![Pentecost](../images/session-025.jpg)
+*El Greco, Pentecost (c. 1600). Public Domain via Wikimedia Commons.*
+
+> *Pentecost in El Greco: tongues of flame, faces lifted, the Apostles unrecognizable as the men who had run away. The Church is one because she has one fire. Holy because that fire purifies. Catholic because it goes out to everyone. Apostolic because it was carried, hand to hand, to here.*
+
+## Pius X asks
+
+**109.** Why is the Church holy?
+
+*The Church is holy because Jesus Christ, her invisible head, and the Spirit who gives her life are holy; because the doctrine, the sacrifice, and the sacraments in her are holy, and all her members are called to sanctify themselves; and because many have indeed been, are, and will be saints.*
+
+**110.** Why is the Church catholic?
+
+*The Church is catholic, that is, universal, because she is established and adapted for all human beings and is spread throughout the whole earth.*
+
+**111.** Why is the Church apostolic?
+
+*The Church is apostolic because she is founded upon the Apostles and their preaching, and is governed by their successors, the legitimate Pastors, who without interruption and without alteration continue to transmit both her doctrine and her authority.*
+
+## St. Thomas teaches
+
+## The Holiness of the Church
+
+Concerning the second mark, holiness, it must be known that there is indeed another assembly, but it consists of the wicked: "I hate the assembly of the malignant."[^11] But such a one is evil; the Church of Christ, however, is holy: "For the temple of God is holy, which you are."[^12] Hence, it is said: "the Holy Church."
+
+The faithful of this Church are made holy because of four things: (1) Just as a church is cleansed materially when it is consecrated, so also the faithful are washed in the blood of Christ: "Jesus Christ . . . who hath loved us and washed us from our sins in His own blood."[^13] And: "That He might sanctify the people by his blood, suffered without the gate."[^14] (2) Just as there is the anointing of the church, so also the faithful are anointed with a spiritual unction in order to be sanctified. Otherwise they would not be Christians, for Christ is the same as Anointed. This anointing is the grace of the Holy Spirit: "He that confirmeth us with you in Christ and that hath anointed us, is God."[^15] And: "You are sanctified . . . in the name of our Lord Jesus Christ."[^16] (3) The faithful are made holy because of the Trinity who dwells in the Church; for wheresoever God dwells, that place is holy. "The place whereon thou standest is holy."[^17] And: "Holiness becometh Thy house, O Lord."[^18] (4) Lastly, the faithful are sanctified because God is invoked in the Church: "But Thou, O Lord, art among us, and Thy name is called upon by us; forsake us not."[^19] Let us, therefore, beware, seeing that we are thus sanctified, lest by sin we defile our soul which is the temple of God: "Know you not that you are the temple of God and that the Spirit of God dwelleth in you? But if any man violate the temple of God, him shall God destroy."[^20]
+
+## The Catholicity or Universality of the Church
+
+The Church is Catholic, that is, universal. Firstly, it is universal in place, because it is worldwide. This is contrary to the error of the Donatists.[^21] For the Church is a congregation of the faithful; and since the faithful are in every part of the world, so also is the Church: "Your faith is spoken of in the whole world."[^22] And also: "Go ye into the whole world and preach the gospel to every creature.[^23] Long ago, indeed, God was known only in Judea; now, however, He is known throughout the entire world. The Church has three parts: one is on earth, one is in heaven, and one is in purgatory. Secondly, the Church is universal in regard to all the conditions of mankind; for no exceptions are made, neither master nor servant, neither man nor woman: "Neither bond nor free; there is neither male nor female."[^24]. Thirdly, it is universal in time. Some have said that the Church will exist only up to a certain time. But this is false, for the Church began to exist in the time of Abel and will endure up to the end of the world: "Behold, I am with you all days, even to the consummation of the world."[^25] Nay more, even after the end of the world, it will continue to exist in heaven.
+
+## The Apostolicity of the Church
+
+The Church is firm. A house is said to be firm if it has a solid foundation. The principal foundation of the Church is Christ: "For other foundation no men can lay but that which is laid, which is Christ Jesus."[^26] The secondary foundation, however, is the Apostles and their teaching. Therefore, the Church is firm. It is said in the Apocalypse that the city has "twelve foundations," and therein were "written the names of the twelve Apostles."[^27] From this the Church is called Apostolic. Likewise, to indicate this firmness of the Church St. Peter is called the crowning head.[^28]
+
+The firmness of a house is evident if, when it is violently struck, it does not fall. The Church similarly can never be destroyed, neither by persecution nor by error. Indeed, the Church grew during the persecutions, and both those who persecuted her and those against whom she threatened[^29] completely failed: "And whosoever shall fall upon this stone, shall be broken; but on whomsoever it shall fall, it shall grind him to powder."[^30] As regards errors, indeed, the more errors arise, the more surely truth is made to appear: "Men corrupt in mind, reprobate in faith; but they shall proceed no further."[^31]
+
+Nor shall the Church be destroyed by the temptations of the demons. For she is like a tower towards which all flee who war against the devil: "The name of the Lord is a strong tower."[^32] The devil, therefore, is chiefly intent on destroying the Church, but he will not succeed, for the Lord has said: "The gates of hell shall not prevail against it."[^33]
+
+This is as if He said: "They shall make war against thee, but they shall not overcome thee." And thus it is that only the Church of Peter (to whom it was given to evangelize Italy when the disciples were sent to preach) was always firm in faith. On the contrary, in other parts of the world there is either no faith at all or faith mixed with many errors. The Church of Peter flourishes in faith and is free from error. This, however, is not to be wondered at, for the Lord has said to Peter: "But I have prayed for thee, that thy faith fail not; and thou, being once converted, confirm thy brethren."[^34]
+
+[^1]: "For as the body is one and hath many members; and all the members of the body, whereas they are many, yet are one body, so also is Christ. For in one Spirit were we all baptized into one body. . . . For the body also is not one member, but many" (I Cor., xii. 12-14). For St. Paul's admirable description of the Church, Christ's mystical body, see all of this chapter.
+[^2]: "The word "ecclesia" (church) which is borrowed by the Latins from the Greek has been applied since the preaching of the Gospel to sacred things. The word "ecclesia" (church) means a calling forth, but writers afterwards used it to mean a council or assembly. . . . However, in the ordinary sense used in the Scriptures, the word was afterwards used to designate the Christian society only, and the assemblies of the faithful: that is, of those who were called by faith to the light of truth, and the knowledge of God" ("Roman Catechism," Ninth Article, 2).
+[^3]: Ecclus., li. 31.
+[^4]: "The distinctive marks of the Church are also to be made known to the faithful that they thus may be able to appreciate the extent of the blessing conferred by God on those who have the happiness to be born and educated in her fold" ("Roman Catechism," "loc. cit.," 2).
+[^5]: Cant., vi. 8.
+[^6]: I Cor., i. 10.
+[^7]: Eph., iv. 5.
+[^8]: "Ibid." 4.
+[^9]: John, xvii. 22.
+[^10]: Eph., iv. 15-16.
+[^11]: Ps. xxv. 5.
+[^12]: I Cor., iii. 17.
+[^13]: Apoc., i. 5.
+[^14]: Heb., xiii. 12.
+[^15]: II Cor., i. 21.
+[^16]: I Cor., vi. 11.
+[^17]: Josue, v. 16; cfr. also Gen., xxviii. 16.
+[^18]: Ps. xcii, 5.
+[^19]: Jerem., xiv. 9.
+[^20]: I Cor., iii. 16-17. "It should not be considered surprising that the Church, although among her children are many sinners, is called holy. For as those who profess any art, even though they may violate its rules, are still artists, so the faithful, although offending in many things and violating the promises which they have made, are still called holy, because they are made the people of God, and are consecrated to Christ by baptism and faith" ("Roman Catechism," "loc. cit.," 15).
+[^21]: A sect which existed chiefly in Africa for about a century (311-411).
+[^22]: Rom., i. 8.
+[^23]: Mark. xvi. 15.
+[^24]: Gal., iii. 28.
+[^25]: Matt., xxviii. 20.
+[^26]: I Cor., iii. 11.
+[^27]: Apoc., xxi. 14.
+[^28]: As it is spoken of by Our Lord: "And I say to thee that thou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it" (Matt., xvi. 18).
+[^29]: That is, enemies of the Church who in one or other ways resisted the authority or teachings of the Church.
+[^30]: Matt., xxi. 44.
+[^31]: Tim., iii. 8.
+[^32]: Prov., xviii. 10.
+[^33]: Matt., xvi. 18.
+[^34]: Luke, xxii. 32.
+
+> **Scripture.** *One Lord, one faith, one baptism.* — Ephesians 4:5
+
+> *Holy Spirit, the same fire that fell on them — fall on me today. I am poorer than they were, and I need it more.*
+
+---
+
+#### Going Deeper — *Catechism of Trent*
+
+## First Part Of This Article: "I Believe In The Holy Catholic Church"
+
+The Latins, having borrowed the word ecclesia (church) from
+the Greeks, have transferred it, since the preaching of the
+Gospel, to sacred things. It becomes necessary, therefore, to
+explain its meaning.
+
+### "Church"
+
+The word ecclesia (church) means a calling forth. But writers
+afterward used it to signify a meeting or assembly, whether the
+people gathered together were members of a true or of a false
+religion. Thus in the Acts it is written of the people of Ephesus
+that when the townclerk had appeased a tumultuous assemblage he
+said: And if you inquire after any other matter, it may be
+decided in a lawful church. The Ephesians, who were worshippers
+of Diana, are thus called a lawful church (ecclesia). Nor are the
+Gentiles only, who knew not God, called a church (ecclesia); by
+the same name at times are also designated the councils of wicked
+and impious men. I have hated the church (ecclesiam) of the
+malignant, says the Prophet, and with the wicked I will not sit.
+
+In common Scripture usage, however, the word was subsequently
+employed to signify the Christian society only, and the
+assemblies of the faithful; that is, of those who are called by
+faith to the light of truth and the knowledge of God, that,
+having forsaken the darkness of ignorance and error, they may
+worship the living and true God piously and holily, and serve Him
+from their whole heart. In a word, The Church, says St.
+Augustine, consists of the faithful dispersed throughout the
+world.'
+
+### Mysteries Which The Word Church Comprises
+
+In this word are contained important mysteries. For, in the
+calling forth, which it signifies, we recognise at once the
+benignity and splendour of divine grace, and we understand that
+the Church is very unlike all other societies. Other bodies rest
+on human reason and prudence, but the Church reposes on the
+wisdom and counsels of God who has called us inwardly by the
+inspiration of the Holy Ghost, who opens the hearts of men; and
+outwardly, through the labor and ministry of pastors and
+preachers.
+
+Moreover, the end of this vocation, that is, the knowledge
+and possession of things eternal will be at once understood if we
+but remember why the faithful of the Old Law were called a
+Synagogue, that is, a flock for, as St. Augustine teaches, they
+were so called, because, like cattle, which are wont to herd
+together. they looked only to terrestrial and transitory goods.
+Wherefore, the Christian people are justly called, not a
+Synagogue, but a Church, because, despising earthly and passing
+things, they pursue only things heavenly and eternal.
+
+### Other Names Given The Church In Scripture
+
+Many names, moreover, which are replete with mysteries, have
+been used to designate the Christian body. Thus, by the Apostle,
+it is called the house and edifice of God. If, says he to
+Timothy, I tarry long, that thou mayest know how thou oughtest to
+behave thyself in the house of God, which is the church of the
+living God, the pillar and ground of truth. The Church is called
+a house, because it is, as it were, one family governed by one
+father of the family, and enjoying a community of all spiritual
+goods.
+
+It is also called the flock of the sheep of Christ, of which
+He is the door and the shepherd. It is called the spouse of
+Christ. I have espoused you to one husband, says the Apostle to
+the Corinthians, that I may present you as a chaste virgin to
+Christ; and to the Ephesians: Husbands love your wives, as Christ
+also loved the church; and of marriage: This is a great
+sacrament, but I speak in Christ and in the church.
+
+Finally, the Church is called the body of Christ, as may be
+seen in the Epistles to the Ephesians and Colossians. Each of
+these appellations has very great influence in exciting the
+faithful to prove themselves worthy of the boundless clemency and
+goodness of God, who chose them to be the people of God.
+
+### The Parts of the Church
+
+These things having been explained, it will be necessary to
+enumerate the several component parts of the Church, and to point
+out their difference, in order that the faithful may the better
+comprehend the nature, properties, gifts, and graces of God's
+beloved Church, and by reason of them unceasingly praise the most
+holy name of God.
+
+The Church consists principally of two parts, the one called
+the Church triumphant; the other, the Church militant. The Church
+triumphant is that most glorious and happy assemblage of blessed
+spirits, and of those who have triumphed over the world, the
+flesh, and the iniquity of Satan, and are now exempt and safe
+from the troubles of this life and enjoy everlasting bliss. The
+Church militant is the society of all the faithful still dwelling
+on earth. It is called militant, because it wages eternal war
+with those implacable enemies, the world, the flesh and the
+devil.
+
+We are not, however, to infer that there are two Churches.
+The Church triumphant and the Church militant are two constituent
+parts of one Church; one part going before, and now in the
+possession of its heavenly country; the other, following every
+day, until at length, united with our Saviour, it shall repose in
+endless felicity.
+
+### The Members Of The Church Militant
+
+The Church militant is composed of two classes of persons,
+the good and the bad, both professing the same faith and
+partaking of the same Sacraments, yet differing in their manner
+of life and morality.
+
+The good are those who are linked together not only by the
+profession of the same faith, and the participation of the same
+Sacraments, but also by the spirit of grace and the bond of
+charity. Of these St. Paul says: The Lord knoweth who are his.
+Who they are that compose this class we also may remotely
+conjecture, but we can by no means pronounce with certainty.
+Hence Christ the Saviour does not speak of this portion of His
+Church when He refers us to the Church and commands us to hear
+and to obey her. As this part of the Church is unknown, how could
+we ascertain with certainty whose decision to recur to, whose
+authority to obey?
+
+The Church, therefore, as the Scriptures and the writings of
+the Saints testify, includes within her fold the good and the
+bad; and it was in this sense that St. Paul spoke of one body and
+one spirit. Thus understood, the Church is known and is compared
+to a city built on a mountain, and visible from every side. As
+all must yield obedience to her authority, it is necessary that
+she maybe known by all.
+
+That the Church is composed of the good and the bad we learn
+from many parables contained in the Gospel. Thus, the kingdom of
+heaven, that is, the Church militant, is compared to a net cast
+into the sea, to a field in which tares were sown with the good
+grain, to a threshing floor on which the grain is mixed up with
+the chaff, and also to ten virgins, some of whom were wise, and
+some foolish. And long before, we trace a figure and resemblance
+of this Church in the ark of Noah, which contained not only
+clean, but also unclean animals.
+
+But although the Catholic faith uniformly and truly teaches
+that the good and the bad belong to the Church, yet the same
+faith declares that the condition of both is very different. The
+wicked are contained in the Church, as the chaff is mingled with
+the grain on the threshing floor, or as dead members sometimes
+remain attached to a living body.
+
+### Those Who Are Not Members Of The Church
+
+Hence there are but three classes of persons excluded from
+the Church's pale: infidels, heretics and schismatics, and
+excommunicated persons. Infidels are outside the Church because
+they never belonged to, and never knew the Church, and were never
+made partakers of any of her Sacraments. Heretics and schismatics
+are excluded from the Church, because they have separated from
+her and belong to her only as deserters belong to the army from
+which they have deserted. It is not, however, to be denied that
+they are still subject to the jurisdiction of the Church,
+inasmuch as they may be called before her tribunals, punished and
+anathematised. Finally, excommunicated persons are not members of
+the Church, because they have been cut off by her sentence from
+the number of her children and belong not to her communion until
+they repent.
+
+But with regard to the rest, however wicked and evil they may
+be, it is certain that they still belong to the Church: Of this
+the faithful are frequently to be reminded, in order to be
+convinced that, were even the lives of her ministers debased by
+crime, they are still within the Church, and therefore lose
+nothing of their power.
+
+### Other Uses of the Word "Church"
+
+Portions of the Universal Church are usually called churches,
+as when the Apostle mentions the Church at Corinth, at Galatia,
+of the Laodiceans, of the Thessalonians.
+
+The private families of the faithful he also calls churches.
+The church in the family of Priscilla and Aquila he commands to
+be saluted; and in another place, he says: Aquila and Priscilla
+with the church that is in their house salute you much in the
+Lord. Writing to Philemon, he makes use of the same word.
+
+Sometimes, also, the word church is used to signify the
+prelates and pastors of the church. If he will not hear thee,
+says our Lord, tell the church. Here the word church means the
+authorities of theChurch.
+
+The place in which the faithful assemble to hear the Word of
+God, or for other religious purposes, is also called a church.
+But in this Article, the word church is specially used to signify
+both the good and the bad, the governed, as well as the
+governing.
+
+### The Marks Of The Church
+
+The distinctive marks of the Church are also to be made known
+to the faithful, that thus they may be enabled to estimate the
+extent of the blessing conferred by God on those who have had the
+happiness to be born and educated within her pale.
+
+#### "One"
+
+The first mark of the true Church is described in the Nicene
+Creed, and consists in unity: My dove is one, my beautiful one is
+one. So vast a multitude, scattered far and wide, is called one
+for the reasons mentioned by St. Paul in his Epistle to the
+Ephesians: One Lord, one faith, one baptism.
+
+##### Unity In Government
+
+The Church has but one ruler and one governor, the invisible
+one, Christ, whom the eternal Father hath made head over all the
+Church, which is his body; the visible one, the Pope, who, as
+legitimate successor of Peter, the Prince of the Apostles, fills
+the Apostolic chair.
+
+It is the unanimous teaching of the Fathers that this visible
+head is necessary to establish and preserve unity in the Church.
+This St. Jerome clearly perceived and as clearly expressed when,
+in his work against Jovinian, he wrote: One is elected that, by
+the appointment of a head, all occasion of schism may be removed.
+In his letter to Pope Damasus the same holy Doctor writes: Away
+with envy, let the ambition of Roman grandeur cease! I speak to
+the successor of the fisherman, and to the disciple of the cross.
+Following no chief but Christ, I am united in communion with your
+Holiness, that is, with the chair of Peter. I know that on that
+rock is built the Church. Whoever will eat the lamb outside this
+house is profane; whoever is not in the ark of Noah shall perish
+in the .flood.
+
+The same doctrine was long before established by Saints
+Irenaeus and Cyprian. The latter, speaking of the unity of the
+Church observes: The Lord said to Peter, I say to thee, Peter!
+thou art Peter: and upon this rock I will build my Church. He
+builds His Church on one. And although after His Resurrection He
+gave equal power to all His Apostles, saying: As the Father hath
+sent me, I also send you, receive ye the Holy Ghost; yet to make
+unity more manifest, He decided by His own authority that it
+should be derived from one alone, etc.
+
+Again, Optatus of Milevi says: You cannot be excused on the
+score of ignorance, knowing as you do that in the city of Rome
+the episcopal chair was first conferred on Peter, who occupied it
+as head of the Apostles; in order that in that one chair the
+unity of the Church might be preserved by all, and that the other
+Apostles might not claim each a chair for himself; so that now he
+who erects another in opposition to this single chair is a
+schismatic and a prevaricator.
+
+Later on St. Basil wrote: Peter is made the foundation,
+because he says: Thou art Christ, the Son of the Living God; and
+hears in reply that he is a rock. But although a rock, he is not
+such a rock as Christ; for Christ is truly an immovable rock, but
+Peter, only by virtue of that rock. For Jesus bestows His
+dignities on others; He is a priest, and He makes priests; a
+rock, and He makes a rock; what belongs to Himself, He bestows on
+His servants.
+
+Lastly, St. Ambrose says: Because he alone of all of them
+professed (Christ) he was placed above all.
+
+Should anyone object that the Church is content with one Head
+and one Spouse, Jesus Christ, and requires no other, the answer
+is obvious. For as we deem Christ not only the author of all the
+Sacraments, but also their invisible minister — He it is who
+baptises, He it is who absolves, although men are appointed by
+Him the external ministers of the Sacraments — so has He
+placed over His Church, which He governs by His invisible Spirit,
+a man to be His vicar and the minister of His power. A visible
+Church requires a visible head; therefore the Saviour appointed
+Peter head and pastor of all the faithful, when He committed to
+his care the feeding of all His sheep, in such ample terms that
+He willed the very same power of ruling and governing the entire
+Church to descend to Peter's successors.
+
+##### Unity In Spirit, Hope And Faith
+
+Moreover, the Apostle, writing to the Corinthians, tells them
+that there is but one and the same Spirit who imparts grace to
+the faithful, as the soul communicates life to the members of the
+body. Exhorting the Ephesians to preserve this unity, he says: Be
+careful to keep the unity of the Spirit in the bond of peace; one
+body and one Spirit. As the human body consists of many members,
+animated by one soul, which gives sight to the eves, hearing to
+the ears, and to the other senses the power of discharging their
+respective functions; so the mystical body of Christ, which is
+the Church, is composed of many faithful. The hope, to which we
+are called, is also one, as the Apostle tells us in the same
+place; for we all hope for the same consummation, eternal and
+happy life. Finally, the faith which all are bound to believe and
+to profess is one: Let there be no schisms amongst you, says the
+Apostle. And Baptism, which is the seal of our Christian faith,
+is also one.
+
+#### "Holy"
+
+The second mark of the Church is holiness, as we learn from
+these words of the Prince of the Apostles: You are a chosen
+generation, a holy nation.
+
+The Church is called holy because she is consecrated and
+dedicated to God; for so other things when set apart and
+dedicated to the worship of God were wont to be called holy, even
+though they were material. Examples of this in the Old Law were
+vessels, vestments and altars. In the same sense the firstborn
+who were dedicated to the Most High God were also called holy.
+
+It should not be deemed a matter of surprise that the Church,
+although numbering among her children many sinners, is called
+holy. For as those who profess any art, even though they depart
+from its rules, are still called artists, so in like manner the
+faithful, although offending in many things and violating the
+engagements to which they had pledged themselves, are still
+called holy, because they have been made the people of God and
+have consecrated themselves to Christ by faith and Baptism.
+Hence, St. Paul calls the Corinthians sanctified and holy,
+although it is certain that among them there were some whom he
+severely rebuked as carnal, and also charged with grosser crimes.
+
+The Church is also to be called holy because she is united to
+her holy Head, as His body; that is, to Christ the Lord,' the
+fountain of all holiness, from whom flow the graces of the Holy
+Spirit and the riches of the divine bounty. St. Augustine,
+interpreting these words of the Prophet: Preserve my soul, for I
+am holy," thus admirably expresses himself: Let the body of
+Christ boldly say, let also that one man, exclaiming from the
+ends of the earth, boldly say, with his Head, and under his Head,
+I am holy; for he received the grace of holiness, the grace of
+Baptism and of remission of sins. And a little further on: If all
+Christians and all the faithful, having been baptised in Christ,
+have put Him on, according to these words of the Apostle:
+"As many of you as have been baptised in Christ, have put on
+Christ"; if they are made members of his body, and yet say
+they are not holy, they do an injury to their Head, whose members
+are holy.
+
+Moreover, the Church alone has the legitimate worship of
+sacrifice, and the salutary use of the Sacraments, which are the
+efficacious instruments of divine grace, used by God to produce
+true holiness. Hence, to possess true holiness, we must belong to
+this Church. The Church therefore it is clear, is holy, and holy
+because she is the body of Christ, by whom she is sanctified, and
+in whose blood she is washed.
+
+#### "Catholic"
+
+The third mark of the Church is that she is Catholic; that
+is, universal. And justly is she called Catholic, because, as St.
+Augustine says, she is diffused by the splendour of one faith
+from the rising to the setting sun."
+
+Unlike states of human institution, or the sects of heretics,
+she is not confined to any one country or class of men, but
+embraces within the amplitude of her love all mankind, whether
+barbarians or Scythians, slaves or freemen, male or female.
+Therefore it is written: Thou . . . hast redeemed us to God, in
+thy blood, out of every tribe, and tongue, and people, and
+nation, and hast made us to our God a kingdom. Speaking of the
+Church, David says: Ask of me and I will give thee the Gentiles
+for thy inheritance, and the utmost parts of the earth for thy
+possession; and also, I will be mindful of Rahab and of Babylon
+knowing me; and man is born in her.
+
+Moreover to this Church, built upon the foundation of the
+apostles and prophets, belong all the faithful who have existed
+from Adam to the present day, or who shall exist, in the
+profession of the true faith, to the end of time; all of whom are
+founded and raised upon the one cornerstone, Christ, who made
+both one, and announced peace to them that are near and to them
+that are far.
+
+She is also called universal, because all who desire eternal
+salvation must cling to and embrace her, like those who entered
+the ark to escape perishing in the flood.. This (note of
+catholicity), therefore, is to be taught as a most reliable
+criterion, by which to distinguish the true from a false Church.
+
+#### Apostolic
+
+The true Church is also to be recognised from her origin,
+which can be traced back under the law of grace to the Apostles;
+for her doctrine is the truth not recently given, nor now first
+heard of, but delivered of old by the Apostles, and disseminated
+throughout the entire world. Hence no one can doubt that the
+impious opinions which heresy invents, opposed as they are to the
+doctrines taught by the Church from the days of the Apostles to
+the present time, are very different from the faith of the true
+Church.
+
+That all, therefore, might know which was the Catholic
+Church, the Fathers, guided by the Spirit of God, added to the
+Creed the word Apostolic. For the Holy Ghost, who presides over
+the Church, governs her by no other ministers than those of
+Apostolic succession. This Spirit, first imparted to the
+Apostles, has by the infinite goodness of God always continued in
+the Church. And just as this one Church cannot err in faith or
+morals, since it is guided by the Holy Ghost; so, on the
+contrary, all other societies arrogating to themselves the name
+of church, must necessarily, because guided by the spirit of the
+devil, be sunk in the most pernicious errors, both doctrinal and
+moral.
+
+### Figures of the Church
+
+The figures of the Old Testament have great power to stimulate
+the minds of the faithful and to remind them of these most
+beautiful truths. It was for this reason chiefly that the
+Apostles made use of these figures. The pastor, therefore, should
+not overlook so fruitful a source of instruction.
+
+Among these figures the ark of Noah holds a conspicuous
+place. It was built by the command of God, in order that there
+might be no doubt that it was a symbol of the Church, which God
+has so constituted that all who enter therein through Baptism,
+may be safe from danger of eternal death, while such as are
+outside the Church, like those who were not in the ark, are
+overwhelmed by their own crimes.
+
+Another figure presents itself in the great city of
+Jerusalem, which, in Scripture, often means the Church. In
+Jerusalem only was it lawful to offer sacrifice to God, and in
+the Church of God only are to be found the true worship and true
+sacrifice which can at all be acceptable to God.
+
+### "I Believe the Holy Catholic Church"
+
+Finally, with regard to the Church, the pastor should teach
+how to believe the Church can constitute an Article of faith.
+Although reason and the senses are able to ascertain the
+existence of the Church, that is, of a society of men on earth
+devoted and consecrated to Jesus Christ, and although faith does
+not seem necessary in order to understand a truth which even Jews
+and Turks do not doubt; nevertheless it is from the light of
+faith only, not from the deductions of reason, that the mind can
+grasp those mysteries contained in the Church of God which have
+been partly made known above and will again be treated under the
+Sacrament of Holy Orders.
+
+Since, therefore, this Article, no less than the others, is
+placed above the reach, and defies the strength of the human
+understanding, most justly do we confess that we know not from
+human reason, but contemplate with the eyes of faith the origin,
+offices and dignity of the Church.
+
+This Church was founded not by man, but by the immortal God
+Himself, who built her upon a most solid rock. The Highest
+himself, says the Prophet, hath founded her. Hence, she is called
+the inheritance of God, the people of God. The power which she
+possesses is not from man but from God.
+
+Since this power, therefore, cannot be of human origin,
+divine faith can alone enable us to understand that the keys of
+the. kingdom of heaven are deposited with the Church, that to her
+has been confided the power of remitting sins," of
+denouncing excommunication, and of consecrating the real body of
+Christ; and t}tat her children have not here a permanent
+dwelling, but look for one above.
+
+We are, therefore, bound to believe that there is one Holy
+Catholic Church. With regard to the Three Persons of the Holy
+Trinity, the Father, the Son, and the Holy Ghost, we not
+
+only believe them, but also believe in them. But here we make
+use of a different form of expression, professing to believe the
+holy, not in the holy Catholic Church. By this difference of
+expression we distinguish God, the author of all things, from His
+works, and acknowledge that all the exalted benefits bestowed on
+the Church are due to God's bounty.

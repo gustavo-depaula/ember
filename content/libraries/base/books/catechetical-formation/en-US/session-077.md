@@ -1,0 +1,396 @@
+# Session 77 — Extreme Unction — The Anointing of the Sick
+
+![The Last Communion of Saint Joseph of Calasanz](../images/session-077.jpg)
+*Francisco de Goya, The Last Communion of Saint Joseph of Calasanz (1819). Public Domain via Wikimedia Commons.*
+
+> *Van der Weyden's dying-room: the priest at the bedside, anointing oil shining on a forehead. The last sacrament prepares not just for death but for what is on the other side of it. Pray for the dying. Some have no one else.*
+
+## Pius X asks
+
+**392.** What is Extreme Unction?
+
+*Extreme Unction, also called Holy Oil, is the sacrament instituted for the spiritual — and also bodily — relief of Christians who are gravely ill.*
+
+**393.** Who is the minister of Extreme Unction?
+
+*The minister of Extreme Unction is the parish priest, or another priest who has permission for it.*
+
+**394.** How does the priest administer Extreme Unction?
+
+*The priest administers Extreme Unction by anointing in the form of a cross, with oil blessed by the Bishop, the organs of the senses of the sick person, saying: "By this holy anointing and by His most loving mercy, may the Lord forgive you every fault committed by sight, by hearing, etc. Amen."*
+
+**395.** What effects does Extreme Unction produce?
+
+*Extreme Unction increases sanctifying grace; it blots out venial sins, and even mortal sins that the sick person, being only attrite, cannot confess; it gives strength to bear illness patiently, to resist temptations, and to die a holy death; and it also helps to restore health, if it is good for the soul.*
+
+**396.** When can Holy Oil be given?
+
+*Holy Oil can be given when the illness is dangerous; and it is good to give it immediately after confession and Viaticum, while the sick person retains his awareness.*
+
+## The Roman Catechism teaches
+
+## Importance Of Instruction On Extreme Unction
+
+In all thy works, the Scriptures teach, remember thy last end,
+and thou shalt never sin, words which convey to the pastor a
+silent admonition to omit no opportunity of exhorting the
+faithful to constant meditation on death. The Sacrament of
+Extreme Unction, because inseparably associated with recollection
+of the day of death, should, it is obvious, form a subject of
+frequent instruction, not only because it is right to explain the
+mysteries of salvation, but also because death, the inevitable
+doom of all men, when recalled to the minds of the faithful,
+represses depraved passion. Thus shall they be less disturbed by
+the approach of death, and will pour forth their gratitude in
+endless praises to God, who has not only opened to us the way to
+true life in the Sacrament of Baptism, but has also instituted
+that of Extreme Unction, to afford us, when departing this mortal
+life, an easier way to heaven.
+
+## Names of this Sacrament
+
+In explaining what is more necessary on this subject we shall
+follow almost the same order observed in the exposition of the
+other Sacraments. Hence we shall first show that this Sacrament
+is called Extreme Unction, because among all the unctions
+prescribed by our Lord to His Church, this is the last to be
+administered.
+
+For this reason it was also called by our predecessors in the
+faith, the Sacrament of the anointing of the sick, and also the
+Sacrament of the dying, names which easily turn the minds of the
+faithful to the remembrance of that last hour.
+
+## Extreme Unction Is a True Sacrament
+
+That Extreme Unction is strictly speaking a Sacrament, is
+first to be explained; and this the words of St. James the
+Apostle, promulgating the law of this Sacrament, clearly
+establish. Is any man, he says, sick amongst you ? Let him bring
+in the priests of the church, and let them pray over him,
+anointing him with oil in the name of the Lord: and the prayer of
+faith shall save the sick man; and the Lord shall raise him up;
+and if he be in sins, they shall be forgiven him. When the
+Apostle says that sins are forgiven, he ascribes to Extreme
+Unction the nature and efficacy of a Sacrament.
+
+That such has been at all times the doctrine of the Catholic
+Church on Extreme Unction, many Councils testify, and the Council
+of Trent denounces anathema against all who presume to teach or
+think otherwise. Innocent I also recommends this Sacrament with
+great earnestness to the attention of the faithful.
+
+## Extreme Unction Is But One Sacrament
+
+Pastors, therefore, should teach that Extreme Unction is a
+true Sacrament, and that, although administered with many
+anointings, each given with a peculiar prayer, and under a
+peculiar form, it constitutes not many, but one Sacrament. It is
+one, however, not in the sense that it is composed of inseparable
+parts, but because each of the parts contributes to its
+perfection, as is the case with every object composed of many
+parts. As a house which consists of a great variety of parts
+derives its perfection from unity of plan, so is this Sacrament,
+although composed of many and different things and words, but one
+sign, and it effects only that one thing of which it is the sign.
+
+## Essential Parts of Extreme Unction
+
+Pastors should also teach what are the component parts of this
+Sacrament, its matter and form. These St. James does not omit,
+and each is replete with its own peculiar mysteries.
+
+### The Matter Of Extreme Unction
+
+Its element, then, or matter, as defined by Councils,
+particularly by the Council of Trent, consists of oil consecrated
+by the Bishop. Not any kind of oil extracted from fatty or greasy
+substances, but olive oil alone (can be the matter of this
+Sacrament).
+
+Thus its matter is most significant of what is inwardly
+effected in the soul by the Sacrament. Oil is very efficacious in
+soothing bodily pain, and the power of this Sacrament lessens the
+pain and anguish of the soul. Oil also restores health, brings
+joy, feeds light, and is very efficacious in refreshing bodily
+fatigue. All these effects signify what the divine power
+accomplishes in the sick man through the administration of this
+Sacrament. So much will suffice in explanation of the matter.
+
+### The Form Of Extreme Unction
+
+The form of the Sacrament is the word and solemn prayer which
+the priest uses at each anointing: By this Holy Unction may God
+pardon thee whatever sins thou hast committed by the evil use of
+sight, smell or touch.
+
+That this is the true form of this Sacrament we learn from
+these words of St. James: Let them pray over him . . . and the
+prayer of faith shall save the sick man. Hence we can see that
+the form is to be applied by way of prayer. The Apostle does not
+say of what particular words that prayer is to consist; but this
+form has been handed down to us by the faithful tradition of the
+Fathers, so that all the Churches retain the form observed by the
+Church of Rome, the mother and mistress of all Churches. Some, it
+is true, alter a few words, as when for God pardon thee, they say
+(God) remit, or (God) spare, and sometimes, May (God) remedy all
+the evil thou hast committed. But as there is no change of
+meaning, it is clear that all religiously observe the same form.
+
+It should not excite surprise that, while the form of each of
+the other Sacraments either absolutely signifies what it
+expresses, such as I baptise thee, or I Sign thee with the sign
+of the cross, or is pronounced, as it were, by way of command, as
+in administering Holy Orders, Receive power, the form of Extreme
+Unction alone is expressed by way of prayer. Wisely has it been
+so appointed. For since this Sacrament is administered not only
+for the spiritual grace which it bestows, but also for the
+recovery of health, which, however, is not always obtained,
+therefore use a deprecative form, in order to implore of God's
+mercy what the virtue of the Sacrament does not always and
+uniformly effect.
+
+## The Ceremonies Of Extreme Unction
+
+In the administration of this Sacrament special rites are also
+used, consisting principally of prayers offered by the priest for
+the recovery of the sick person. There is no Sacrament, the
+administration of which is accompanied with more numerous
+prayers; and with good reason, for at that moment more than ever
+the faithful require the assistance of pious prayers. All who may
+be present, and especially the pastor, should pour out their
+fervent aspirations to God, and earnestly commend to His mercy
+the life and salvation of the sufferer.
+
+## Institution of Extreme Unction
+
+Having thus proved that Extreme Unction is truly and properly
+to be numbered among the Sacraments, we rightly infer that it
+owes its institution to Christ our Lord. It was subsequently made
+known and promulgated to the faithful by the Apostle St. James.
+
+Our Saviour Himself, however, seems to have given some
+indication of it, when He sent His disciples two and two before
+Him; for the Evangelist informs us that going forth, they
+preached that all should do penance; and they cast out many
+devils, and anointed with oil many who were sick, and healed
+them.
+
+This anointing cannot be supposed to have been invented by
+the Apostles, but was commanded by our Lord. Nor did its power
+arise from any natural virtue. Its efficacy, we must believe, was
+mystical, having been instituted to heal the maladies of the
+soul, rather than to cure the diseases of the body. This is the
+doctrine taught by St. Denis, St. Ambrose, St. Chrysostom and St.
+Gregory the Great; so that it cannot be at all doubted that
+Extreme Unction is to be recognised and venerated as one of the
+seven Sacraments of the Catholic Church.
+
+## The Subject of Extreme Unction
+
+But although instituted for the use of all, Extreme Unction is
+not to be administered indiscriminately to all.
+
+### The Subject Must Be In Danger Of Death
+
+In the first place, it is not to be administered to persons in
+sound health, according to these words of St. James: Is anyone
+sick amongst you? This is also proved by the fact that Extreme
+Unction was instituted as a remedy not only for the diseases of
+the soul, but also for those of the body. Now only the sick need
+a remedy, and therefore this Sacrament is to be administered to
+those only whose malady is such as to excite apprehensions of
+approaching death.
+
+It is, however, a very grievous sin to defer the Holy Unction
+until, all hope of recovery being lost, life begins to ebb, and
+the sick person is fast verging into a state of insensibility. It
+is obvious that if the Sacrament is administered while
+consciousness and reason are yet unimpaired, and the mind is
+capable of eliciting acts of faith and of directing the will to
+sentiments of piety, a more abundant participation of its graces
+must be received. Though this heavenly medicine is in itself
+always salutary, pastors should be careful to apply it when its
+efficacy can be aided by the piety and devotion of the sick
+person.
+
+### The Danger Must Arise From Sickness
+
+Extreme Unction, then, can be administered to no one who is
+not dangerously sick; not even to those who are in danger of
+death, as when they undertake a perilous voyage, or enter into
+battle with the sure prospect of death, or have been condemned to
+death and are on the way to execution.
+
+### The Person Anointed Must Have Attained The Use Of Reason
+
+Furthermore, all those who have not the use of reason are not
+fit subjects for this Sacrament; and likewise children who,
+having committed no sins, do not need the Sacrament as a remedy
+against the remains of sin. The same is true of idiots and insane
+persons, unless they give indications in their lucid intervals of
+a disposition to piety, and express a desire to be anointed. To
+persons who from their birth never enjoyed the use of reason this
+Sacrament is not to be administered; but if a sick person, while
+in the possession of his faculties, expresses a wish to receive
+Extreme Unction and afterwards becomes delirious he is to be
+anointed.
+
+## Administration of Extreme Unction
+
+The Sacred Unction is to be applied not to the entire body,
+but to the organs of sense only,  to the eyes, on account of
+sight; to the ears, on account of hearing; to the nostrils, on
+account of smell; to the mouth, on account of taste and speech;
+to the hands, on account of touch. The sense of touch, it is
+true, is diffused throughout the entire body, yet it is more
+developed in the hands.
+
+This manner of administering Extreme Unction is observed
+throughout the universal Church, and is in keeping with the
+medicinal nature of the Sacrament. As in corporal disease,
+although the malady affects the entire body, yet the cure is
+applied to that part only which is the seat and origin of the
+disease; so likewise this Sacrament is applied not to the entire
+body, but to those members in which the power of sensation is
+most conspicuous, and also to the loins, which are, as it were,
+the seat of concupiscence, and to the feet, by which we move from
+one place to another.
+
+Here it is to be observed that, during the same illness, and
+while the danger of dying continues the same, the sick person is
+to be anointed but once. Should he, however, recover after he has
+been anointed, he may receive the aid of this Sacrament as often
+as he shall have relapsed into the same danger of death. This
+Sacrament, therefore, is evidently to be numbered among those
+which may be repeated.
+
+## Dispositions for the Reception of Extreme Unction
+
+As all care should be taken that nothing impede the. grace of
+the Sacrament, and as nothing is more opposed to it than the
+consciousness of mortal guilt, the constant practice of the
+Catholic Church must be observed of administering the Sacrament
+of Penance and the Eucharist before Extreme Unction.
+
+And next, let parish priests strive to persuade the sick
+person to receive this Sacrament from the priest with the same
+faith with which those of old who were to be healed by the
+Apostles used to present themselves. But the salvation of his
+soul is to be the first object of the sick man's wishes, and
+after that the health of the body, with this qualification, if it
+be for the good of his soul.
+
+Nor should the faithful doubt that those holy and solemn
+prayers which are used by the priest, not in his own person, but
+in that of the Church and of our Lord Jesus Christ, are heard by
+God; and they are most particularly to be exhorted on this one
+point, to take care that the Sacrament of this most salutary oil
+be administered to them holily and religiously, when the sharper
+conflict seems at hand, and the energies of the mind as well as
+of the body appear to be failing.
+
+## The Minister of Extreme Unction
+
+Who the minister of Extreme Unction is we learn from the same
+Apostle that promulgated the law of the Lord; for he says: Let
+him bring in the priests (presbyters). By which name, as the
+Council of Trent has well explained, he does not mean persons
+advanced in years, or of chief authority among the people, but
+priests who have been duly ordained by Bishops with the
+imposition of hands.
+
+To the priest, therefore, has been committed the
+administration of this Sacrament; not, however, to every priest,
+as holy Church has decreed, but to the proper pastor who has
+jurisdiction, or to another authorised by him to discharge this
+office.
+
+In this, however, as also in the administration of the other
+Sacraments, it is to be most distinctly remembered that the
+priest is the representative of Christ our Lord, and of His
+spouse, holy Church.
+
+## The Effects of Extreme Unction
+
+The advantages we receive from this Sacrament are also to be
+accurately explained, so that if nothing else can allure the
+faithful to its reception, they may be induced at least by its
+utility; for we are naturally disposed to measure almost all
+things by our interests.
+
+Pastors, therefore, should teach that by this Sacrament is
+imparted grace that remits sins, and especially lighter, or as
+they are commonly called, venial sins; for mortal sins are
+removed by the Sacrament of Penance. Extreme Unction was not
+instituted primarily for the remission of grave offences; only
+Baptism and Penance accomplish this directly.
+
+Another advantage of the Sacred Unction is that it liberates
+the soul from the languor and infirmity which it contracted from
+sins, and from all the other remains of sin. The time most
+opportune for this cure is when we are afflicted with severe
+illness and danger to life impends, for it has been implanted in
+man by nature to dread no human visitation so much as death. This
+dread is greatly augmented by the recollection of our past sins,
+especially if our conscience accuses us of grave offences; for it
+is written: They shall come with fear at the thought of their
+sins, and their iniquities shall stand against them to convict
+them. Another source of vehement anguish is the anxious thought
+that we must soon afterwards stand before the judgment seat of
+God, who will pass on us a sentence of strictest justice
+according to our deserts. It often happens that, struck with this
+terror, the faithful feel themselves deeply agitated; and nothing
+conduces more to a tranquil death than to banish sadness, await
+with a joyous mind the coming of our Lord, and be ready willingly
+to surrender the deposit entrusted whenever it shall be His will
+to demand it back. To free the minds of the faithful from this
+solicitude, and fill the soul with pious and holy joy is, then,
+an effect of the Sacrament of Extreme Unction.
+
+From it, moreover, we derive another advantage, which may
+justly be deemed the greatest of all. For although the enemy of
+the human race never ceases, while we live, to meditate our ruin
+and destruction, yet at no time does he more violently use every
+effort utterly to destroy us, and, if possible, deprive us of all
+hope of the divine mercy, than when he sees the last day of life
+approach. Therefore arms and strength are supplied to the
+faithful in this Sacrament to enable them to break the violence
+and impetuosity of the adversary, and to fight bravely against
+him; for the soul of the sick is relieved and encouraged by the
+hope of the divine goodness, strengthened by which it bears more
+lightly ail the burdens of sickness, and eludes with greater ease
+the artifice and cunning of the devil who lies in wait for it.
+
+Finally, the recovery of health, if indeed advantageous, is
+another effect of this Sacrament. And if in our days the sick
+obtain this effect less frequently, this is to be attributed, not
+to any defect of the Sacrament, but rather to the weaker faith of
+a great part of those who are anointed with the sacred oil, or by
+whom it is administered; for the Evangelist bears witness that
+the Lord wrought not many miracles among His own, because of
+their unbelief.
+
+It may also be truly said at the Christian religion, since it
+has struck its roots more deeply in the minds of men, stands now
+less in need of the aids of such miracles than it did formerly,
+at the commencement of the rising Church. Nevertheless, faith
+should be strongly excited in this respect, and whatever it may
+please God in His wisdom to do with regard to the health of the
+body, the faithful ought to rely on a sure hope of attaining, by
+virtue of this sacred oil, health of the soul, and of
+experiencing, should the hour of their departure from life be at
+hand, the fruit of that glorious assurance: Blessed are the dead
+who die in the Lord.
+
+## Admonition
+
+We have thus explained briefly the Sacrament of Extreme
+Unction. But if these points are developed by the pastor at
+greater length and with the care the subject demands, it is not
+to be doubted that the faithful will derive very great fruit of
+piety from his instruction.
+
+> **Scripture.** *Is any man sick among you? Let him bring in the priests of the church, and let them pray over him, anointing him with oil in the name of the Lord.* — James 5:14
+
+> *Lord, when my hour comes, send a priest. While I wait, send me to those whose hour is near.*

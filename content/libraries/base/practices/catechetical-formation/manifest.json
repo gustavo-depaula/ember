@@ -1,0 +1,58 @@
+{
+	"id": "catechetical-formation",
+	"icon": "book",
+	"name": {
+		"en-US": "Catechetical Formation",
+		"pt-BR": "Formação Catequética"
+	},
+	"categories": [
+		"formation",
+		"program"
+	],
+	"estimatedMinutes": 12,
+	"description": {
+		"en-US": "A 90-day catechetical formation track. Each day pairs the Catechism of St. Pius X with St. Thomas Aquinas's Naples sermons (or the Roman Catechism where Aquinas is silent), a Scripture verse, and a closing prayer — all anchored by a piece of sacred art. Every one of Pius X's 433 questions is covered.",
+		"pt-BR": "Uma trilha de formação catequética de 90 dias. Cada dia une o Catecismo de São Pio X aos sermões da Quaresma de Nápoles de São Tomás de Aquino (ou ao Catecismo Romano onde São Tomás é silencioso), um versículo da Escritura e uma oração final — tudo ancorado por uma obra de arte sagrada. Todas as 433 perguntas de São Pio X estão cobertas."
+	},
+	"history": {
+		"en-US": "Composed for young adults beginning a serious life of faith — beginner-friendly but fruitful for the seasoned soul. The track draws on three public-domain pillars: the Catechism of St. Pius X (1912), Aquinas's Naples Lent sermons on the Creed, Decalogue, Pater, and Hail Mary (1273, in Joseph B. Collins's 1939 translation), and the Roman Catechism of the Council of Trent (1566, McHugh-Callan 1923 / Pires Martins 1951). Pius X asks. Aquinas teaches. The Roman Catechism waits below the rule for those who want to go deeper. Sacred art opens each day, drawn from the great Western tradition (Fra Angelico, Caravaggio, Velázquez, Murillo, Rublev, Tissot, El Greco, Bellini) and verified public domain.",
+		"pt-BR": "Composta para jovens adultos que começam uma vida de fé séria — acessível aos iniciantes e frutuosa para a alma já firmada. A trilha repousa sobre três pilares de domínio público: o Catecismo de São Pio X (1912), os sermões da Quaresma de Nápoles de São Tomás sobre o Credo, o Decálogo, o Pai-Nosso e a Ave-Maria (1273, na tradução inglesa de Joseph B. Collins, 1939), e o Catecismo Romano do Concílio de Trento (1566, McHugh-Callan 1923 / Frei Leopoldo Pires Martins, OFM, 1951). São Pio X pergunta. São Tomás ensina. O Catecismo Romano aguarda, abaixo da linha, para quem quiser aprofundar. Uma obra de arte sagrada abre cada dia, escolhida da grande tradição ocidental (Fra Angelico, Caravaggio, Velázquez, Murillo, Rublev, Tissot, El Greco, Bellini), com licença de domínio público verificada."
+	},
+	"howToPray": {
+		"en-US": "Begin with the Sign of the Cross and a brief invocation of the Holy Spirit. Sit with the day's image for a moment before reading. Take Pius X's questions slowly — they are deceptively short. Read the saint's teaching as if you had walked into his sermon mid-sentence (because you have). Let the Scripture verse cap what you have read. Pray the closing prayer. If your time and appetite allow, continue past the rule into 'Going Deeper' for the Roman Catechism's fuller exposition. Tomorrow, the next session waits.",
+		"pt-BR": "Comece com o Sinal da Cruz e uma breve invocação ao Espírito Santo. Sente-se um instante diante da imagem do dia antes de ler. Acolha as perguntas de São Pio X devagar — são curtas só na aparência. Leia o ensinamento do santo como quem entra a meio de um sermão (porque é o que está fazendo). Deixe o versículo da Escritura coroar o que leu. Reze a oração final. Se o tempo e o desejo permitirem, atravesse a linha e siga ao 'Aprofundamento' para a exposição mais ampla do Catecismo Romano. Amanhã, a próxima sessão aguarda."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"program": {
+		"totalDays": 90,
+		"progressPolicy": "continue",
+		"completionBehavior": "offer-restart"
+	},
+	"data": {
+		"session-progression": "data/sessions.json"
+	},
+	"flow": "flow.json",
+	"tags": [
+		"formation",
+		"catechism",
+		"pius-x",
+		"aquinas",
+		"trent",
+		"program",
+		"daily"
+	],
+	"defaults": {
+		"sortOrder": 30,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "ideal",
+				"enabled": false
+			}
+		]
+	}
+}

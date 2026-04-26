@@ -1,0 +1,102 @@
+# Session 01 — Who Made Us, Who God Is
+
+![The Creation of the Sun, Moon, and Plants](../images/session-001.jpg)
+*Michelangelo Buonarroti, The Creation of the Sun, Moon, and Plants (1508-1512). Public Domain via Wikimedia Commons.*
+
+> *Stop a moment. Before you begin scrolling away from this, look. The painter shows you the first morning of everything — water and earth still trembling apart, light arriving where there had been none, the Spirit hovering. You exist on the same word God spoke then. He has never stopped saying it.*
+
+## Pius X asks
+
+**1.** Who created us?
+
+*God created us.*
+
+**2.** Who is God?
+
+*God is the most perfect Being, Creator and Lord of heaven and earth.*
+
+**3.** What does "most perfect" mean?
+
+*"Most perfect" means that in God there is every perfection, without defect and without limit; that is, He is infinite power, wisdom, and goodness.*
+
+**4.** What does "Creator" mean?
+
+*"Creator" means that God made all things from nothing.*
+
+**5.** What does "Lord" mean?
+
+*"Lord" means that God is the absolute master of all things.*
+
+**6.** Does God have a body as we do?
+
+*God has no body, but is most pure spirit.*
+
+**7.** Where is God?
+
+*God is in heaven, on earth, and in every place: He is the Immense.*
+
+**8.** Has God always existed?
+
+*God has always existed and will always exist: He is the Eternal.*
+
+**9.** Does God know all things?
+
+*God knows all things, even our thoughts: He is the All-Knowing.*
+
+**10.** Can God do all things?
+
+*God can do all that He wills: He is the Almighty.*
+
+**11.** Can God also do evil?
+
+*God cannot do evil, because He cannot will it, being infinite goodness; but He tolerates it in order to leave creatures free, knowing how to draw good even from evil.*
+
+**12.** Does God care for created things?
+
+*God cares for and provides for created things, and He preserves and directs them all to their proper end with infinite wisdom, goodness, and justice.*
+
+**13.** For what end did God create us?
+
+*God created us to know Him, love Him, and serve Him in this life, and afterward to enjoy Him in the next, in heaven.*
+
+## St. Thomas teaches
+
+The Nature and Effects of Faith.--The first thing that is necessary for every Christian is faith, without which no one is truly called a faithful Christian.[^1] Faith brings about four good effects. The first is that through faith the soul is united to God, and by it there is between the soul and God a union akin to marriage. "I will espouse thee in faith."[^2] When a man is baptised the first question that is asked him is: "Do you believe in God?"[^3] This is because Baptism is the first Sacrament of faith. Hence, the Lord said: "He that believeth and is baptised shall be saved."[^4] Baptism without faith is of no value. Indeed, it must be known that no one is acceptable before God unless he have faith. "Without faith it is impossible to please God."[^5] St. Augustine explains these words of St. Paul, "All that is not of faith is sin,"[^6] in this way: "Where there is no knowledge of the eternal and unchanging Truth, virtue even in the midst of the best moral life is false."
+
+The second effect of faith is that eternal life is already begun in us; for eternal life is nothing else than knowing God. This the Lord announced when He said: "This is eternal life, that they may know thee, the only true God, and Jesus Christ whom Thou hast sent."[^7] This knowledge of God begins here through faith, but it is perfected the future life when we shall know God as He is. Therefore, St. Paul says: "Faith is the substance of things to be hoped for."[^8] No one then can arrive at perfect happiness of heaven, which is the true knowledge of God, unless first he knows God through faith. "Blessed are they that have not seen and have believed."[^9]
+
+The third good that comes from faith is that right direction which it gives to our present life. Now, in order that one live a good life, it is necessary that he know what is necessary to live rightly; and if he depends for all this required knowledge on his own efforts alone, either he will never attain such knowledge, or if so, only after a long time. But faith teaches us all that is necessary to live a good life. It teaches us that there is one God who is the rewarder of good and the punisher of evil; that there is a life other than this one, and other like truths whereby we are attracted to live rightly and to avoid what evil. "The just man liveth by faith."[^10] This is evident in that no one of the philosophers before the coming of Christ could, through his own powers, know God and the means necessary for salvation as well as any old woman since Christ's coming knows Him through faith. And, therefore, it is said in Isaias that "the earth is filled with the knowledge of the Lord."[^11]
+
+The fourth effect of faith is that by it we overcome temptations: "The holy ones by faith conquered kingdoms."[^12] We know that every temptation is either from the world or the flesh or the devil. The devil would have us disobey God and not be subject to Him. This is removed by faith, since through it we know that He is the Lord of all things and must therefore be obeyed. "Your adversary the devil, as a roaring lion, goeth about seeking whom he may devour. Whom resist ye, strong in faith."[^13] The world tempts us either by attaching us to it in prosperity, or by filling us with fear of adversity. But faith overcomes this in that we believe in a life to come better than this one, and hence we despise the riches of this world and we are not terrified in the face of adversity. "This is the victory which overcometh the world: our faith."[^14] The flesh, however, tempts us by attracting us to the swiftly passing pleasures of this present life. But faith shows us that, if we cling to these things inordinately, we shall lose eternal joys. "In all things taking the shield of faith."[^15] We see from this that it is very necessary to have faith.
+
+"The Evidence of Things that Appear Not."--But someone will say that it is foolish to believe what is not seen, and that one should not believe in things that he cannot see. I answer by saying that the imperfect nature of our intellect takes away the basis of this difficulty. For if man of himself could in a perfect manner know all things visible and invisible, it would indeed be foolish to believe what he does not see. But our manner of knowing is so weak that no philosopher could perfectly investigate the nature of even one little fly. We even read that a certain philosopher spent thirty years in solitude in order to know the nature of the bee. If, therefore, our intellect is so weak, it is foolish to be willing to believe concerning God only that which man can know by himself alone. And against this is the word of Job: "Behold, God is great, exceeding our knowledge."[^16] One can also answer this question by supposing that a certain master had said something concerning his own special branch of knowledge, and some uneducated person would contradict him for no other reason than that he could not understand what the master said! Such a person would be considered very foolish. So, the intellect of the Angels as greatly exceeds the intellect of the greatest philosopher as much as that of the greatest philosopher exceeds the intellect of the uneducated man. Therefore, the philosopher is foolish if he refuses to believe what an Angel says, and far greater fool to refuse to believe what God says. Against such are these words: "For many things are shown to thee above the understanding of men."[^17]
+
+Then, again, if one were willing to believe only those things which one knows with certitude, one could not live in this world. How could one live unless one believed others? How could one know that this man is one's own father? Therefore, it is necessary that one believe others in matters which one cannot know perfectly for oneself. But no one is so worthy of belief as is God, and hence they who do not believe the words of faith are not wise, but foolish and proud. As the Apostle says: "He is proud, knowing nothing."[^18] And also: "I know whom I have believed; and I am certain."[^19] And it is written: "Ye who fear the Lord, believe Him and your reward shall not be made void."[^20] Finally, one can say also that God proves the truth of the things which faith teaches. Thus, if a king sends letters signed with his seal, no one would dare to say that those letters did not represent the will of the king. In like manner, everything that the Saints believed and handed down to us concerning the faith of Christ is signed with the seal of God. This seal consists of those works which no mere creature could accomplish; they are the miracles by which Christ confirmed the sayings of the apostles and of the Saints.
+
+If, however, you would say that no one has witnessed these miracles, I would reply in this manner. It is a fact that the entire world worshipped idols and that the faith of Christ was persecuted, as the histories of the pagans also testify. But now all are turned to Christ--wise men and noble and rich-- converted by the words of the poor and simple preachers of Christ. Now, this fact was either miracle or it was not. If it is miraculous, you have what you asked for, a visible fact; if it is not, then there could not be a greater miracle than that the whole world should have been converted without miracles. And we need go no further. We are more certain, therefore, in believing the things of faith than those things which can be seen, because God's knowledge never deceives us, but the visible sense of man is often in error.[^21]
+
+[^1]: "The Catechism of the Council of Trent," known as the "Roman Catechism" (and so called throughout this book), thus introduces the explanation of the twelve Articles of the Creed: "The Christian religion proposes to the faithful many truths which either singly or all together must be held with a certain and firm faith. That which must first and necessarily be believed by all is that which God Himself has taught us as the foundation of truth and its summary concerning the unity of the Divine Essence, the distinction of Three Persons, and the actions which are by particular reason attributed to each. The pastor should teach that the Apostles' Creed briefly sets forth the doctrine of these mysteries. . . . The Apostles' Creed is divided into three principal parts. The first part describes the First Person of the Divine Nature and the marvellous work of the creation. The second part treats of the Second Person and the mystery of man's redemption. The third part concludes with the Third Person, the head and source of our sanctification. The varied and appropriate propositions of the Creed are called Articles, after a comparison often made by the Fathers; for just as the members of the body are divided by joints (articuli), so in this profusion of faith whatever must be distinctly and separately believed from everything else is rightly and aptly called an Article" (Part I, Chapter I, 4).
+[^2]: Osee, ii.
+[^3]: In the ceremony of administering The Sacrament of Baptism, the priest asks the Sponsor: "N., do you believe in God the Father Almighty, Creator of heaven and earth?"
+[^4]: Mark, xvi. 16.
+[^5]: Heb., xi. 6.
+[^6]: Rom., xiv. 23.
+[^7]: John, xvii. 3.
+[^8]: Heb., xi. 1.
+[^9]: John, xx. 29.
+[^10]: Hab., ii. 4.
+[^11]: Isa., xi. 9.
+[^12]: Heb., xi. 33.
+[^13]: I Peter v. 8.
+[^14]: I John, v. 4.
+[^15]: Eph., vi. 16.
+[^16]: Job, xxxvi. 26.
+[^17]: Ecclus., iii. 25.
+[^18]: I Tim., vi. 4.
+[^19]: II Tim., i. 12.
+[^20]: Ecclus., ii. 8.
+[^21]: For the meaning of the word "faith" see the "Catholic Encyclopedia," vol. V. The necessity of faith is explained in St. Thomas, "Summa Theologica," II-II, Q. ii., 3, 4.
+
+> **Scripture.** *In the beginning God created heaven, and earth.* — Genesis 1:1
+
+> *Father, before I asked, You made me — out of love, without need, by You. Today, let me live as someone who knows it.*
