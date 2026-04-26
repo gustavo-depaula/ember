@@ -229,6 +229,12 @@ importers:
       immer:
         specifier: ^11.1.4
         version: 11.1.4
+      marked:
+        specifier: ^18.0.0
+        version: 18.0.0
+      marked-footnote:
+        specifier: ^1.4.0
+        version: 1.4.0(marked@18.0.0)
       react:
         specifier: ^19.0.0
         version: 19.2.0

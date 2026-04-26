@@ -1,6 +1,7 @@
 import { BookViewer } from '@/features/library-manager/BookViewer'
 import { PracticeEditor } from '@/features/practice-editor/PracticeEditor'
 import { PrayerEditor } from '@/features/practice-editor/PrayerEditor'
+import { TranslationReview } from '@/features/translation-review/TranslationReview'
 import { useWorkspace } from '@/stores/workspace'
 
 export function EditorPane() {
@@ -28,6 +29,17 @@ export function EditorPane() {
       )
     case 'book':
       return <BookViewer key={tab.id} libraryId={tab.libraryId} bookId={tab.entity.id} />
+    case 'translation-review':
+      return (
+        <TranslationReview
+          key={tab.id}
+          initial={
+            tab.libraryId !== '__system' && tab.entity.id !== 'main'
+              ? { libraryId: tab.libraryId, bookId: tab.entity.id }
+              : undefined
+          }
+        />
+      )
     default:
       return <div style={{ padding: 24 }}>Editor not implemented for {tab.entity.type}</div>
   }

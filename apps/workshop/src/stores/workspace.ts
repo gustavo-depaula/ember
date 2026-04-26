@@ -6,6 +6,7 @@ export type EntityRef =
   | { type: 'prayer'; id: string }
   | { type: 'book'; id: string }
   | { type: 'chapter'; id: string }
+  | { type: 'translation-review'; id: string }
 
 export type EditorTab = {
   id: string

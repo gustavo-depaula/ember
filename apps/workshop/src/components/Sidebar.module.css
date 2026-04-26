@@ -23,6 +23,25 @@
   letter-spacing: 0.02em;
 }
 
+.toolBtn {
+  display: block;
+  width: 100%;
+  margin-top: var(--sp-sm);
+  padding: var(--sp-xs) var(--sp-sm);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-size: var(--text-xs);
+  text-align: left;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.toolBtn:hover {
+  background: var(--bg-hover);
+}
+
 .libraryList {
   flex: 1;
   overflow-y: auto;

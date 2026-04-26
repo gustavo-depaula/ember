@@ -52,6 +52,8 @@
   display: flex;
   gap: 4px;
   margin-top: var(--sp-sm);
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .langBtn {
@@ -69,6 +71,25 @@
 }
 
 .langActive {
+  color: var(--accent);
+  border-color: var(--accent-subtle);
+  background: var(--accent-bg);
+}
+
+.reviewBtn {
+  margin-left: auto;
+  padding: 2px 8px;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  font-size: 11px;
+  cursor: pointer;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+
+.reviewBtn:hover {
   color: var(--accent);
   border-color: var(--accent-subtle);
   background: var(--accent-bg);
@@ -155,24 +176,54 @@
 
 .chapterContent {
   font-family: var(--font-body);
-  font-size: var(--text-xl);
-  line-height: 1.6;
+  font-size: var(--text-lg);
+  line-height: 1.7;
+  color: var(--text);
 }
 
-.chapterContent h1, .chapterContent h2, .chapterContent h3 {
+.chapterContent h1 {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 400;
+  margin: 0 0 var(--sp-md);
+  color: var(--text);
+}
+
+.chapterContent h2,
+.chapterContent h3,
+.chapterContent h4 {
   font-family: var(--font-display);
   font-weight: 400;
   margin: var(--sp-lg) 0 var(--sp-sm);
+  color: var(--text);
 }
 
 .chapterContent p {
+  margin: var(--sp-sm) 0 var(--sp-md);
+}
+
+.chapterContent blockquote {
+  border-left: 3px solid var(--accent-subtle);
+  padding-left: var(--sp-md);
+  color: var(--text-secondary);
+  font-style: italic;
+  margin: var(--sp-md) 0;
+}
+
+.chapterContent em {
+  font-style: italic;
+}
+
+.chapterContent strong {
+  font-weight: 600;
+}
+
+.chapterContent ul,
+.chapterContent ol {
+  padding-left: var(--sp-lg);
   margin: var(--sp-sm) 0;
 }
 
-.markdown {
-  font-family: var(--font-body);
-  font-size: var(--text-lg);
-  line-height: 1.6;
-  white-space: pre-wrap;
-  word-wrap: break-word;
+.chapterContent li {
+  margin: var(--sp-xs) 0;
 }

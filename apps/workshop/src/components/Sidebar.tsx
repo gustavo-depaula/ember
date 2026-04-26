@@ -54,6 +54,17 @@ export function Sidebar() {
     <aside className={styles.sidebar}>
       <div className={styles.header}>
         <h1 className={styles.title}>Workshop</h1>
+        <button
+          type="button"
+          className={styles.toolBtn}
+          onClick={() =>
+            useWorkspace
+              .getState()
+              .openTab('__system', { type: 'translation-review', id: 'main' }, 'Translation Review')
+          }
+        >
+          🔍 Review translations
+        </button>
       </div>
 
       <div className={styles.libraryList}>
