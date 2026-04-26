@@ -108,7 +108,7 @@ your joy may be full.
 #### Proof
 
 Nor can we, for a moment, doubt that God in His goodness
-awaits and is at all times ready to hear our petitions  a
+awaits and is at all times ready to hear our petitions — a
 truth to which the Sacred Scriptures bear ample testimony. Since,
 however, the texts are easy of access, we shall content ourselves
 with citing as an example the words of Isaias: Then shalt thou

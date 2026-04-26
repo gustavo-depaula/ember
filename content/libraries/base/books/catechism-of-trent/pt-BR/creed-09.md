@@ -276,11 +276,9 @@ Humano não é o poder que recebeu, mas foi-lhe outorgado por mercê divina. Tai
 
 Quanto à Igreja, porém, usamos outra maneira de exprimir nossa fé, pois que professamos crer a santa Igreja, e não na santa [Igreja].[^599] Pela diferença da fórmula, damos a entender a distinção entre Deus Criador e as coisas criadas, e nos admiráveis dons conferidos à Igreja não vemos senão benefícios da bondade divina.
 
-# A Comunhão dos Santos
-
 ## A Comunhão dos Santos
 
-### como o cha[man]
+### como o chamam
 
 [21] São João Evangelista, que costumava escrever aos fiéis acerca dos Mistérios Divinos, indicou [certa vez] o motivo por que lhes dava instrução: "Para que também vós tenhais comunhão conosco, e para que a nossa comunhão seja com o Pai e com Seu Filho Jesus Cristo".[^600] Esta comunhão consiste na Comunhão dos Santos, da qual vai tratar o presente Artigo.
 

@@ -271,7 +271,7 @@ the highest veneration !
 To enumerate all the delights with which the souls of the
 blessed shall be filled would be an endless task. We cannot even
 conceive them in thought. With this truth, however, the minds of
-the faithful should be deeply impressed  that the happiness
+the faithful should be deeply impressed — that the happiness
 of the Saints is full to overflowing of all those pleasures which
 can be enjoyed or even desired in this life, whether they regard
 the powers of the mind or of the perfection of the body; albeit

@@ -30,7 +30,7 @@
 
 **44.** Perchè il Padre è la prima Persona della santissima Trinità?
 
-*Il Padre è la prima Persona della santissima Trinità, perchè non procede da altra persona, e da Lui procedono le altre due, cioè il Figliolo e lo Spirito Santo.*
+*Il Padre è la prima Persona della santissima Trinità, perchè non procede da altra persona, e da Lui procedono le altre due, cioè il Figliuolo e lo Spirito Santo.*
 
 **45.** Perchè il Figliuolo è la seconda Persona della santissima Trinità?
 

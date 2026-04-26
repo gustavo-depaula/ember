@@ -22,11 +22,11 @@
 
 **419.** É necessário rezar?
 
-*É necessário rezar, e rezar muitas vezes, porque Deus o ordena e, ordinariamente, só se reza, Ele concede as Graças espirituais e temporais.*
+*É necessário rezar, e rezar muitas vezes, porque Deus o ordena e, ordinariamente, só se rezarmos, Ele concede as Graças espirituais e temporais.*
 
 **420.** Por que Deus concede as Graças que suplicamos?
 
-*Deus concede as Graças que suplicamos porque Ele, que é fidelíssimo, prometeu de atender-nos se rezamos com confiança e perseverança no Nome de Jesus Cristo.*
+*Deus concede as Graças que suplicamos porque Ele, que é fidelíssimo, prometeu atender-nos se rezamos com confiança e perseverança no Nome de Jesus Cristo.*
 
 **421.** Por que devemos rezar a Deus no Nome de Jesus Cristo?
 
@@ -74,8 +74,8 @@
 
 **432.** O que suplicamos a Nossa Senhora com a "Ave-Maria"?
 
-*Com Ave-Maria suplicamos a Nossa Senhora a sua materna intercessão por nós na vida e na morte.*
+*Com a Ave-Maria suplicamos a Nossa Senhora a sua materna intercessão por nós na vida e na morte.*
 
 **433.** O invocar Nossa Senhora e os Santos não demonstra talvez desconfiança em Jesus Cristo, o único Mediador, como se não bastassem os méritos dele para nos obter as Graças?
 
-*O invocar Nossa Senhora e os Santos não demonstra nenhuma desconfiança em Jesus Cristo, o único Mediador; ao contrário, uma Fé maior nos méritos dele, tanto grandes e eficazes, que por eles, e só por eles, Nossa Senhora e os Santos têm de Deus a Graça, os méritos e a poderosa intercessão.*
+*O invocar Nossa Senhora e os Santos não demonstra nenhuma desconfiança em Jesus Cristo, o único Mediador; ao contrário, uma Fé maior nos méritos dele, tão grandes e eficazes, que por eles, e só por eles, Nossa Senhora e os Santos têm de Deus a Graça, os méritos e o poder de intercessão.*

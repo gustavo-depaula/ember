@@ -90,7 +90,6 @@ Ora, o próprio Nosso Senhor nos impôs a obrigação de mover os homens, por at
 
 No Evangelho, dirige-nos estas palavras: "De tal modo deve brilhar vossa luz diante dos homens, que vejam as vossas boas obras, e glorifiquem o vosso Pai, que está nos céus".[^200] E, por seu turno, diz o Príncipe dos Apóstolos: "Comportai-vos bem entre os gentios, para que... vos julguem pelas vossas boas obras, e glorifiquem a Deus".[^201]
 
-[^190]: Col 3, 1 ss.
 [^191]: Ps 110, 10.
 [^192]: Eph 5, 26.
 [^193]: Isto é, pela graça.

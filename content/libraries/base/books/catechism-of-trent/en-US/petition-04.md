@@ -240,8 +240,8 @@ Lord will send forth a blessing upon thy storehouses, and upon
 all the works of thy hands, and will bless thee.
 
 Not only do we beg of God to grant us to use, with the aid of
-His goodness, the fruit of our virtuous toil  and that is
-truly called ours  but we also pray for a good mind, that we
+His goodness, the fruit of our virtuous toil — and that is
+truly called ours — but we also pray for a good mind, that we
 may be able well and prudently to use what we have honestly
 acquired.
 

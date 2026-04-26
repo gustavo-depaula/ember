@@ -125,7 +125,7 @@ and with all their strength.
 But those who desire to receive the Sacrament of Orders,
 should aim not only at seeking the glory of God in all thingsan
 obligation admittedly common to all men, and particularly to the
-faithful  but also to serve Him in holiness and justice in
+faithful — but also to serve Him in holiness and justice in
 whatever sphere of His ministry they may be placed. Just as in
 the army all the soldiers obey the general's orders, though they
 all have not the same functions to discharge, one being a
@@ -485,7 +485,7 @@ the dead in the name of the Lord.
 The third and highest degree of all Sacred Orders is the
 priesthood. The Fathers of the first centuries usually designated
 those who had received this order by two names. At one time they
-called them presbyters  a Greek word signifying elders, not
+called them presbyters — a Greek word signifying elders, not
 only because of the ripe years very necessary for this order, but
 much more on account of their gravity, knowledge and prudence;
 for it is written: Venerable old age is not that of long time nor

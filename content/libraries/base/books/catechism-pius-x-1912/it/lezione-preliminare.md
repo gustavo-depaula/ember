@@ -86,11 +86,11 @@
 
 **22.** Come si chiama il Figliuolo di Dio fatto uomo?
 
-*Il Figliolo di Dio fatto uomo si chiama Gesù Cristo.*
+*Il Figliuolo di Dio fatto uomo si chiama Gesù Cristo.*
 
 **23.** Chi è Gesù Cristo?
 
-*Gesù Cristo è la seconda Persona della santissima Trinità, cioè il Figliolo di Dio fatto uomo.*
+*Gesù Cristo è la seconda Persona della santissima Trinità, cioè il Figliuolo di Dio fatto uomo.*
 
 **24.** Gesù Cristo è Dio e uomo?
 

@@ -137,7 +137,7 @@ Prophet, I am he who blotteth out your iniquities.
 The remission of sins seems to bear an exact analogy to the
 cancelling of a pecuniary debt. None but the creditor can forgive
 a pecuniary debt. Hence, since by sin we contract a debt to God
-alone  wherefore we daily pray: forgive us our debts sin, it
+alone — wherefore we daily pray: forgive us our debts sin, it
 is clear, can be forgiven by Him alone, and by none else.
 
 ### This Power Communicated To None Before Christ

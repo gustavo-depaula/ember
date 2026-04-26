@@ -219,7 +219,6 @@ Os párocos devem, pois, instruir seus piedosos ouvintes acerca desta condição
 [^155]: 1 Petr 1, 23.
 [^156]: Rom 8, 15.
 [^157]: 1 Jo 3, 1.
-[^158]: Cfr. Job 19, 6 ss.
 [^159]: Job 19, 21.
 [^160]: Deut 32, 39.
 [^161]: Ps 88, 33 ss.
@@ -237,7 +236,6 @@ Os párocos devem, pois, instruir seus piedosos ouvintes acerca desta condição
 [^173]: Mt 25, 40.
 [^174]: Rom 8, 17.
 [^175]: Col 1, 18.
-[^176]: Hb 1, 2.
 [^177]: Hb 6, 10.
 [^178]: Cfr. Chrysost. Opus imperfectum in Matthaeum homil. 14.
 [^179]: Jo 3, 5.

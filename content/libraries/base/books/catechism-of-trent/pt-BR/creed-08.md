@@ -172,7 +172,6 @@ Esta é a graça que, num elo íntimo de amor, une nossa alma a Deus. Tem por ef
 [^428]: Mt 28, 19.
 [^429]: Lc 1, 35; Mt 1, 18-20.
 [^430]: Io 1, 29 ss.
-[^431]: Explicação mais ampla CRO I X 20, com a nota 604.
 [^432]: Act 5, 3-4; DU 39 58 ss. 277 296 345 462 684 1461.
 [^433]: 1 Cor 12, 6-11.
 [^434]: Citação contraída de Is 6, 8 a 6, 10.

@@ -48,6 +48,10 @@
 
 *It is not enough to believe in general the truths revealed by God; some — namely, the existence of God the Rewarder and the two principal mysteries — must also be believed by an explicit act of faith.*
 
+*237 a. The two principal mysteries of the Faith are: 1. The Unity and Trinity of God; 2. The Incarnation, Passion, Death, and Resurrection of Our Lord Jesus Christ.*
+
+## § 2. Hope - Charity
+
 **238.** What is hope?
 
 *Hope is that supernatural virtue by which we trust in God and expect from Him eternal life and the graces necessary to merit it here below by good works.*
@@ -62,7 +66,7 @@
 
 **241.** Why must we love God?
 
-*We must love God for Himself, as the supreme Good, the source of all our good; and therefore we must also love Him above all things "with all our heart, with all our soul, with all our mind, and with all our strength."*
+*We must love God for Himself, as the supreme Good, the source of all our good; and therefore we must also love Him above all things "with all our heart, with all our soul, with all our mind, and with all our strength" (Mark XII. 30).*
 
 **242.** Why must we love our neighbor?
 
@@ -86,7 +90,7 @@
 
 **247.** How does one give proof of faith?
 
-*One gives proof of faith by professing and defending it, when needed, without fear and without human respect, and by living according to its maxims: "faith without works is dead."*
+*One gives proof of faith by professing and defending it, when needed, without fear and without human respect, and by living according to its maxims: "faith without works is dead" (James II. 26).*
 
 **248.** How does one give proof of hope?
 
@@ -95,6 +99,10 @@
 **249.** How does one give proof of charity?
 
 *One gives proof of charity by observing the commandments and exercising the works of mercy, and, if God calls, by following the evangelical counsels.*
+
+*249 a. The seven corporal works of mercy: 1. To feed the hungry; 2. To give drink to the thirsty; 3. To clothe the naked; 4. To shelter the homeless; 5. To visit the sick; 6. To visit the imprisoned; 7. To bury the dead.*
+
+*249 b. The seven spiritual works of mercy: 1. To counsel the doubtful; 2. To instruct the ignorant; 3. To admonish sinners; 4. To comfort the afflicted; 5. To forgive offences; 6. To bear wrongs patiently; 7. To pray for the living and the dead.*
 
 **250.** What are the evangelical counsels?
 
@@ -146,6 +154,8 @@
 
 *The principal vices are the seven capital vices, so called because they are the head and the origin of the other vices and sins.*
 
+*261 a. The seven capital sins: 1. Pride; 2. Covetousness; 3. Lust; 4. Anger; 5. Gluttony; 6. Envy; 7. Sloth.*
+
 **262.** What are the virtues opposed to the capital vices?
 
 *The virtues opposed to the capital vices are: humility, liberality, chastity, patience, sobriety, fraternity, and diligence in the service of God.*
@@ -156,7 +166,7 @@
 
 **264.** Recite the Evangelical Beatitudes.
 
-*Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall inherit the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure of heart, for they shall see God. Blessed are the peacemakers, for they shall be called the children of God. Blessed are they who suffer persecution for the sake of justice, for theirs is the kingdom of heaven.*
+*Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall inherit the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure of heart, for they shall see God. Blessed are the peacemakers, for they shall be called the children of God. Blessed are they who suffer persecution for the sake of justice, for theirs is the kingdom of heaven (Matt. V. 3-10).*
 
 **265.** Why did Jesus Christ, in the Evangelical Beatitudes, call blessed — contrary to the opinion of the world — the humble and the afflicted?
 

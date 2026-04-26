@@ -399,6 +399,7 @@ A edição inglesa de Collins (Baltimore, 1939) contém algumas referências bí
 | `lords-prayer-04-thy-will-be-done.md` | [^12] | Isa., xlviii. 11 | Is 48, 17 | Is 48, 11 trata da glória de Deus; «Eu sou o Senhor teu Deus, que te ensino o que é proveitoso» é Is 48, 17. |
 | `lords-prayer-04-thy-will-be-done.md` | [^6] | Chapter xli, 8 | Capítulo XI, 8 | A seção do Pai-Nosso no Catecismo Romano é o Capítulo XI; XLI é evidente erro tipográfico. |
 | `questions-for-discussion.md` | §Os Sacramentos. Parte III, item 2 | Luke, xxi. 19 | Lc 22, 19 | Lc 21, 19 é «na vossa paciência possuireis as vossas almas»; «Fazei isto em memória de mim» é Lc 22, 19 (instituição da Eucaristia). |
+| `commandments-03-sabbath.md` | [^62] | Eph., v. 8 | Hb 4, 9 | Ef 5, 8 trata da luz/trevas em Cristo; «Resta, portanto, um dia de repouso para o povo de Deus» é Hb 4, 9 (mesma referência da nota 57 deste capítulo). |
 
 ### Correção tipográfica menor (sem nota inline)
 

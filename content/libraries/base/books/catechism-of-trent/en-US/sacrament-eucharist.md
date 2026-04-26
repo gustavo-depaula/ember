@@ -261,9 +261,9 @@ this Sacrament, should be made of fine flour.
 #### The Sacramental Bread Should Be Unleavened
 
 But as wheaten bread alone is to be considered the proper
-matter for this Sacrament  a doctrine which has been handed
+matter for this Sacrament — a doctrine which has been handed
 down by Apostolic tradition and confirmed by the authority of the
-Catholic Church  so it may be easily inferred from the doings
+Catholic Church — so it may be easily inferred from the doings
 of Christ the Lord that this bread should be unleavened. It was
 consecrated and instituted by Him on the first day of unleavened
 bread, on which it was not lawful for the Jews to have anything
@@ -457,7 +457,7 @@ administered.
 
 #### Form To Be Used In The Consecration Of The Wine
 
-With regard lo the consecration of the wine, which is the
+With regard to the consecration of the wine, which is the
 other element of this Sacrament, the priest, for the reason we
 have already assigned, ought of necessity to be well acquainted
 with, and well understand its form. We are then firmly to believe
@@ -1178,8 +1178,8 @@ It cannot be doubted that by the Eucharist are remitted and
 pardoned lighter sins, commonly called venial. Whatever the soul
 has lost through the fire of passion, by falling into some slight
 offence, all this the Eucharist, cancelling those lesser faults,
-repairs, in the same way  not to depart from the illustration
-already adduced  as natural food gradually restores and
+repairs, in the same way — not to depart from the illustration
+already adduced — as natural food gradually restores and
 repairs the daily waste caused by the force of the vital heat
 within us. Justly, therefore, has St. Ambrose said of this
 heavenly Sacrament: That daily bread is taken as a remedy for
@@ -1690,8 +1690,8 @@ afford a sufficient proof: You cannot drink the chalice of the
 Lord, and the chalice of devils: you cannot be partakers of the
 table of the Lord and of the? table of devils. As then by the
 table of devils must be understood the altar on which sacrifice
-was offered to them; so also  if the conclusion proposed to
-himself by the Apostle is to be legitimately drawn  by the
+was offered to them; so also — if the conclusion proposed to
+himself by the Apostle is to be legitimately drawn — by the
 table of the Lord can be understood nothing else than the altar
 on which Sacrifice was offered to the Lord.
 

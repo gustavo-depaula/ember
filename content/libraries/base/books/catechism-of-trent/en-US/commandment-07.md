@@ -85,7 +85,7 @@ objects taken without the consent and knowledge of the owners To
 take any private property from a private individual is called
 theft; from the public, peculation. To enslave a freeman, or
 appropriate the slave of another is called manstealing. To
-steal anything sacred is called sacrilege  a crime most
+steal anything sacred is called sacrilege — a crime most
 enormous and sinful, yet so common in our days that what piety
 and wisdom had set aside for the necessary expenses of divine
 worship, for the support of the ministers of religion, and the

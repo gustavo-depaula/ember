@@ -14,7 +14,7 @@
 
 **108.** Por que a Igreja é Una?
 
-*A Igreja é Una porque todos os seus membros tiveram, têm e sempre terão a mesma Fé, sacrifício, sacramentos e cabeça visível, o Romano Pontífice, sucessor de São Pedro, formando todos assim um só Corpo Místico de Jesus Cristo.*
+*A Igreja é Una porque todos os seus membros tiveram, têm e sempre terão a mesma Fé, sacrifício, sacramentos e cabeça visível, o Romano Pontífice, sucessor de São Pedro, formando todos assim um só corpo, o Corpo Místico de Jesus Cristo.*
 
 **109.** Por que a Igreja é Santa?
 
@@ -42,7 +42,7 @@
 
 **115.** A Igreja docente pode errar ao ensinar-nos as verdades reveladas por Deus?
 
-*A Igreja docente não pode errar ao ensinar-nos as verdades reveladas por Deus: Ela é infalível porque, como prometeu Jesus Cristo, "o Espírito de verdade" (São João XV. 26) a assiste continuamente.*
+*A Igreja docente não pode errar ao ensinar-nos as verdades reveladas por Deus: Ela é infalível porque, como prometeu Jesus Cristo, "o Espírito de verdade" (São João XV, 26) a assiste continuamente.*
 
 **116.** O Papa sozinho pode errar ao ensinar-nos as verdades reveladas por Deus?
 

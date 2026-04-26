@@ -50,7 +50,7 @@ because a lawful wife is united to her husband, as it were, by a
 common yoke.
 
 It is called nuptials, because, as St. Ambrose observes, the
-bride veiled her face through modesty  a custom which would
+bride veiled her face through modesty — a custom which would
 also seem to imply that she was to be subject and obedient to her
 husband.
 
@@ -117,7 +117,7 @@ necessary consequence, that were two persons, living in the most
 separate and distant countries, to consent to marry, they would
 contract a true and indissoluble marriage, even before they had
 mutually signified to each other their consent by letter or
-messenger  a consequence as repugnant to reason as it is
+messenger — a consequence as repugnant to reason as it is
 opposed to the decrees and established usage of holy Church.
 
 #### Present
@@ -249,7 +249,7 @@ lust, that in the seed of Abraham thou mayest obtain a blessing
 in children. It was also for this reason that God instituted
 marriage from the beginning; and therefore married persons who,
 to prevent conception or procure abortion, have recourse to
-medicine, are guilty of a most heinous crime  nothing less
+medicine, are guilty of a most heinous crime — nothing less
 than wicked conspiracy to commit murder.
 
 A third reason has been added, as a consequence of the fall
@@ -270,7 +270,7 @@ children of the Saints, should propose to themselves. If to these
 we add other causes which induce to contract marriage, and, in
 choosing a wife, to prefer one person to another, such as the
 desire of leaving an heir, wealth, beauty, illustrious descent,
-congeniality of disposition  such motives, because not
+congeniality of disposition — such motives, because not
 inconsistent with the holiness of marriage, are not to be
 condemned. We do not find that the Sacred Scriptures condemn the
 Patriarch Jacob for having chosen Rachel for her beauty, in
@@ -434,7 +434,7 @@ indissolubility should be pointed out.
 
 The first (beneficial consequence) is that men are given to
 understand that in entering Matrimony virtue and congeniality of
-disposition are to be preferred to wealth or beauty  a
+disposition are to be preferred to wealth or beauty — a
 circumstance that cannot but prove of the very highest advantage
 to the interests of society at large.
 

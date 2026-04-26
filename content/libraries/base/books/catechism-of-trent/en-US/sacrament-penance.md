@@ -223,7 +223,7 @@ which takes away all the sins of thought and deed committed after
 Baptism, must be regarded as a true Sacrament in the proper sense
 of the word.
 
-Moreover  and this is the principal reason  since what
+Moreover — and this is the principal reason — since what
 is exteriorly done, both by priest and penitent, signifies the
 inward effects that take place in the soul, who will venture to
 deny that Penance is invested with the nature of a proper and
@@ -1284,7 +1284,7 @@ who either thinks lightly of, or is unacquainted with the
 enormity of his sin, while they serve rather to aggravate than to
 extenuate his guilt. He who thus labours to justify his conduct
 seems to say that then only will he exercise patience, when no
-one injures him  a disposition than which nothing can be more
+one injures him — a disposition than which nothing can be more
 unworthy of a Christian. Instead of lamenting the state of him
 who inflicted the injury he disregards the grievousness of the
 sin, and is angry with his brother. Having had an opportunity of

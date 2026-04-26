@@ -6,7 +6,7 @@
 
 **356.** Il sacramento della Penitenza quando fu istituito da Gesù Cristo?
 
-*Il sacramento della Penitenza fu istituito da Gesù Cristo quando disse agli Apostoli, e in essi ai loro successori: «Ricevete lo Spirito Santo: a chi rimetterete i peccati saranno loro rimessi; e saranno ritenuti a chi li riterrete ».*
+*Il sacramento della Penitenza fu istituito da Gesù Cristo quando disse agli Apostoli, e in essi ai loro successori: «Ricevete lo Spirito Santo: a chi rimetterete i peccati saranno loro rimessi; e saranno ritenuti a chi li riterrete » (Gv. XX, 22-23).*
 
 **357.** Chi è ministro della Penitenza?
 
@@ -66,7 +66,7 @@
 
 **371.** Siamo obbligati a fuggire le occasioni dei peccati?
 
-*Siamo obbligati a fuggire le occasioni dei peccati, perchè siamo obbligati a fuggire il peccato: chi non le fugge, finisce per cadere, poichè «chi ama il pericolo perirà in esso».*
+*Siamo obbligati a fuggire le occasioni dei peccati, perchè siamo obbligati a fuggire il peccato: chi non le fugge, finisce per cadere, poichè «chi ama il pericolo perirà in esso» (Eccli. III, 27).*
 
 **372.** Che cos'è la confessione?
 
@@ -86,7 +86,7 @@
 
 **376.** Perchè non dobbiamo farci vincere dalla vergogna a tacere qualche peccato mortale?
 
-*Non dobbiamo farci vincere dalla vergogna a tacere qualche peccato mortale, perchè ci confessiamo a Gesú Cristo nella persona del confessore, e questi non può rivelar nessun peccato, a costo anche della vita; e perchè, altrimenti, non ottenendo il perdono, saremo svergognati dinanzi a tutti, nel giudizio universale.*
+*Non dobbiamo farci vincere dalla vergogna a tacere qualche peccato mortale, perchè ci confessiamo a Gesù Cristo nella persona del confessore, e questi non può rivelar nessun peccato, a costo anche della vita; e perchè, altrimenti, non ottenendo il perdono, saremo svergognati dinanzi a tutti, nel giudizio universale.*
 
 **377.** Chi per vergogna o per altro motivo, tacesse un peccato mortale, farebbe una buona confessione?
 
@@ -98,7 +98,9 @@
 
 **379.** Chi senza colpa tralasciò o dimenticò un peccato mortale, ha fatto una buona confessione?
 
-*Chi senza colpa tralasciò o dimenticò un peccato mortale, ha fatto una buona confessione; ma gli resta l'obbligo di accusarsene in seguito. § 4. Assoluzione - Soddisfazione - Indulgenze.*
+*Chi senza colpa tralasciò o dimenticò un peccato mortale, ha fatto una buona confessione; ma gli resta l'obbligo di accusarsene in seguito.*
+
+## § 4. Assoluzione - Soddisfazione - Indulgenze
 
 **380.** Che cos'è l'assoluzione?
 
@@ -122,7 +124,11 @@
 
 **385.** Quali sono le opere di penitenza e di pietà?
 
-*Le opere di penitenza e di pietà sono: i digiuni, le mortificazioni, gli atti di misericordia spirituale e corporale, le preghiere, e l'uso pio di quelle cose benedette e di quelle cerimonie sacre che si chiamano sacramentali, come l'acqua santa e le varie benedizioni. Formole 21,22.*
+*Le opere di penitenza e di pietà sono: i digiuni, le mortificazioni, gli atti di misericordia spirituale e corporale, le preghiere, e l'uso pio di quelle cose benedette e di quelle cerimonie sacre che si chiamano sacramentali, come l'acqua santa e le varie benedizioni.*
+
+*385 a. Le sette opere di misericordia corporale: 1. Dar da mangiare agli affamati; 2. Dar da bere agli assetati; 3. Vestire gli ignudi; 4. Alloggiare i pellegrini; 5. Visitare gli infermi; 6. Visitare i carcerati; 7. Seppellire i morti.*
+
+*385 b. Le sette opere di misericordia spirituale: 1. Consigliare i dubbiosi; 2. Insegnare agli ignoranti; 3. Ammonire i peccatori; 4. Consolare gli afflitti; 5. Perdonare le offese; 6. Sopportare pazientemente le persone moleste; 7. Pregare Dio per i vivi e per i morti.*
 
 **386.** Che cos'è l'indulgenza?
 

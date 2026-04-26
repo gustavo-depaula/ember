@@ -159,7 +159,6 @@ A par destes imensos benefícios, recebemos ainda outro que de todos é talvez o
 Eis, em poucas palavras, o que importa saber da salutar Paixão e Morte de Cristo Nosso Senhor. Oxalá possamos sempre meditar estes mistérios no fundo do coração, para aprendermos a sofrer, morrer e sepultar-nos com Nosso Senhor. Se nos purificarmos então de toda mancha de pecado, e ressurgirmos com Ele para uma vida nova, seremos um dia, por Sua graça e misericórdia, dignos de ter parte na glória do Reino celestial.
 
 [^258]: 1 Cor 2, 2.
-[^259]: Uma variante diz "suscipiendam" em vez de "suspiciendam".
 [^260]: Mt 26, 38; DU 1339.
 [^261]: 1 Tim 6, 13.
 [^262]: Mt 20, 19.

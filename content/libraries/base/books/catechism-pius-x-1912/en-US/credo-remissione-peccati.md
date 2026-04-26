@@ -42,7 +42,7 @@
 
 **138.** Was anyone among the children of Adam ever preserved from original sin?
 
-*Among the children of Adam, only Mary Most Holy was preserved from original sin; for, having been chosen as Mother of God, she was "full of grace," and therefore without sin from the very first instant; and for this reason the Church celebrates her Immaculate Conception.*
+*Among the children of Adam, only Mary Most Holy was preserved from original sin; for, having been chosen as Mother of God, she was "full of grace" (Luke I. 28), and therefore without sin from the very first instant; and for this reason the Church celebrates her Immaculate Conception.*
 
 **139.** How is original sin blotted out?
 
@@ -100,6 +100,10 @@
 
 *Among the mortal sins, the graver and more deadly are the sins against the Holy Spirit and those that cry to heaven for vengeance in the sight of God.*
 
+*152 a. The Six Sins Against the Holy Spirit: 1. Despair of salvation; 2. Presumption of being saved without merit; 3. Impugning the known truth; 4. Envy of another's spiritual good; 5. Obstinacy in sin; 6. Final impenitence.*
+
+*152 b. The Four Sins Crying to Heaven for Vengeance: 1. Wilful murder; 2. The sin of Sodom; 3. Oppression of the poor; 4. Defrauding labourers of their wages.*
+
 **153.** Why are the sins against the Holy Spirit among the graver and more deadly?
 
 *The sins against the Holy Spirit are among the graver and more deadly because by them man sets himself against the spiritual gifts of truth and of grace, and therefore, even when he is able to convert, he does so only with great difficulty.*
@@ -111,3 +115,5 @@
 **155.** What is particularly helpful in keeping us far from sin?
 
 *What is particularly helpful in keeping us far from sin is the thought that God is everywhere and sees the secret of hearts, and the consideration of the Last Things, that is, of what awaits us at the end of this life and at the end of the world.*
+
+*155 a. The Four Last Things: 1. Death; 2. Judgment; 3. Hell; 4. Heaven.*

@@ -206,7 +206,6 @@ Quando nos oprimem privações, doenças, vexames, e outros males e angústias, 
 [^277]: Jo 1, 13.
 [^278]: Phil 2, 8.
 [^279]: Cfr. a pós-comunhão da Missa votiva "Pro Pace". É interessante consignar que Frei Luís de Sousa atribui a S. Antonino de Florença O. P. a frase citada pelo CRO: Servire Deo regnare est (Hist. de S. Domingos, 2ª Parte, Livro VI, cap. XXII).
-[^280]: Mt 12, 50.
 [^281]: Ps 118, 5.
 [^282]: Ps 118, 35.
 [^283]: Ps 118, 133.

@@ -146,7 +146,6 @@ Daí tiramos a conclusão de que os fiéis estarão tanto mais dispostos a segui
 [^8]: Rom 2, 19 ss.
 [^9]: Lc 1, 79.
 [^10]: Gal 6, 1.
-[^11]: 2 Tim 4, 3.
 [^12]: Tit 2, 14.
 [^13]: Gal 3, 19.
 [^14]: Exod 20, 2.

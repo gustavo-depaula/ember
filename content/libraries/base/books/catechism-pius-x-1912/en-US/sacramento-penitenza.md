@@ -6,7 +6,7 @@
 
 **356.** When was the sacrament of Penance instituted by Jesus Christ?
 
-*The sacrament of Penance was instituted by Jesus Christ when He said to the Apostles, and in them to their successors: "Receive the Holy Spirit: whose sins you shall forgive, they are forgiven; and whose sins you shall retain, they are retained."*
+*The sacrament of Penance was instituted by Jesus Christ when He said to the Apostles, and in them to their successors: "Receive the Holy Spirit: whose sins you shall forgive, they are forgiven; and whose sins you shall retain, they are retained" (John XX. 22-23).*
 
 **357.** Who is the minister of Penance?
 
@@ -66,7 +66,7 @@
 
 **371.** Are we bound to flee the occasions of sins?
 
-*We are bound to flee the occasions of sins, because we are bound to flee sin: whoever does not flee them ends by falling, since "he who loves danger will perish in it."*
+*We are bound to flee the occasions of sins, because we are bound to flee sin: whoever does not flee them ends by falling, since "he who loves danger will perish in it" (Ecclus. III. 27).*
 
 **372.** What is confession?
 
@@ -125,6 +125,10 @@
 **385.** What are the works of penance and of piety?
 
 *The works of penance and of piety are: fasting, mortifications, the acts of spiritual and corporal mercy, prayers, and the devout use of those blessed things and those sacred ceremonies which are called sacramentals, such as holy water and the various blessings.*
+
+*385 a. The seven corporal works of mercy: 1. To feed the hungry; 2. To give drink to the thirsty; 3. To clothe the naked; 4. To shelter the homeless; 5. To visit the sick; 6. To visit the imprisoned; 7. To bury the dead.*
+
+*385 b. The seven spiritual works of mercy: 1. To counsel the doubtful; 2. To instruct the ignorant; 3. To admonish sinners; 4. To comfort the afflicted; 5. To forgive offences; 6. To bear wrongs patiently; 7. To pray for the living and the dead.*
 
 **386.** What is an indulgence?
 

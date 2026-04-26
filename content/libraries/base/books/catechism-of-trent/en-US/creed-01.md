@@ -19,7 +19,7 @@ with fear and trembling, to contemplate the glory of His majesty.
 
 ## "I Believe"
 
-The word believe does not here mean to think, to suppose, lo
+The word believe does not here mean to think, to suppose, to
 be of opinion; but, as the Sacred Scriptures teach, it expresses
 the deepest conviction, by which the mind gives a firm and
 unhesitating assent to God revealing His mysterious truths. As
@@ -315,7 +315,7 @@ Let him, however, who by the divine bounty believes these
 truths, constantly beseech and implore God and the Father, who
 made all things out of nothing, and ordereth an things sweetly,
 who gave us power to become the sons of God, and who made known
-to the human mind the mystery of the Trinity  let him, I say,
+to the human mind the mystery of the Trinity — let him, I say,
 pray unceasingly that, admitted one day into the eternal
 tabernacles, he may be worthy to see how great is the fecundity
 of the Father, who contemplating and understanding Himself, begot
@@ -460,7 +460,7 @@ all things whatsoever He would, so in the work of creation He
 followed no external form or model; but contemplating, and as it
 were imitating, the universal model contained in the divine
 intelligence, the supreme Architect, with infinite wisdom and
-powerattributes peculiar to the Divinity  created all
+powerattributes peculiar to the Divinity — created all
 things in the be ginning. He spoke and they were made: he
 commanded and they were created.
 

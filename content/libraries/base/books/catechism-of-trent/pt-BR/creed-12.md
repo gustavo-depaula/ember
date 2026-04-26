@@ -206,7 +206,6 @@ Pela misericórdia de Deus, que preparou aquela gloriosa mansão aos que O amam,
 [^755]: Mt 18, 10; 1 Cor 13, 12; DU 1647.
 [^756]: 2 Petr 1, 4.
 [^757]: Símbolo Niceno.
-[^758]: Anselm. lib. simul. 16.
 [^759]: Aug. de civ. Dei XXII 39.
 [^760]: Rom 2, 10.
 [^761]: Io 15, 14.

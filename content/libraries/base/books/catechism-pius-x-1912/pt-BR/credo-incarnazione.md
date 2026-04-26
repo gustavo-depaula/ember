@@ -10,7 +10,7 @@
 
 **80.** Como se soube que Jesus Cristo é o Filho de Deus?
 
-*Soube-se que Jesus Cristo é o Filho de Deus porque assim o proclamou Deus Pai no Batismo e na Transfiguração, dizendo: "Este é o Meu Filho amado, no qual pus as Minhas complacências" (São Mateus III. 17; São Lucas IX. 35); e porque assim o próprio Jesus o declarou em Sua Vida terrena.*
+*Soube-se que Jesus Cristo é o Filho de Deus porque assim o proclamou Deus Pai no Batismo e na Transfiguração, dizendo: "Este é o Meu Filho amado, no qual pus as Minhas complacências" (São Mateus III, 17; São Lucas IX, 35); e porque assim o próprio Jesus o declarou em Sua Vida terrena.*
 
 **81.** Jesus Cristo sempre existiu?
 

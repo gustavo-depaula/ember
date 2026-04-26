@@ -152,9 +152,6 @@ Acrescentando: "Tende gosto pelas coisas que estão no alto, e não pelas que es
 
 Como o paladar indica em geral o estado de saúde, em que se acha o corpo, assim pode ser a prova mais evidente de que o homem ressuscitou, com Jesus Cristo, para uma vida nova e espiritual, se gosta de "tudo quanto é verdadeiro, honesto, justo e santo"[^363], e sente no íntimo do coração a doçura das coisas celestiais.[^364]
 
-[^310]: Eph 4, 9.
-[^311]: Os 13, 14.
-[^312]: Limbo.
 [^313]: Ph 2, 10.
 [^314]: Act 2, 24 (versão da Vulgata).
 [^315]: Mc 9, 44 ss.
@@ -174,16 +171,13 @@ Como o paladar indica em geral o estado de saúde, em que se acha o corpo, assim
 [^329]: Zach 9, 11.
 [^330]: Col 2, 15.
 [^331]: Ph 2, 10.
-[^332]: A locução não exprime uma localização dos infernos.
 [^333]: 2 Tim 2, 8; DU 255 439 462 709 2036 2084.
-[^334]: pelas três horas da tarde.
 [^335]: Na linguagem bíblica, o primeiro dia da semana (Mt 28, 1; Mc 16, 2; Lc 23, 1; Io 20, 1).
 [^336]: 2 Cor 13, 4; DU 286.
 [^337]: Ps 97, 2.
 [^338]: Io 10, 17-18.
 [^339]: Io 2, 19-21.
 [^340]: Act 2, 24; 3, 15; Rom 8, 11.
-[^341]: Por exemplo: Rom 8, 34.
 [^342]: Col 1, 18.
 [^343]: Apoc 1, 5.
 [^344]: 1 Cor 15, 20-23.

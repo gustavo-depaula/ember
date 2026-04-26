@@ -10,7 +10,7 @@
 
 **215.** Nella Chiesa chi può far leggi e precetti?
 
-*Nella Chiesa possono far leggi e precetti il Papa e i Vescovi come successori degli Apostoli, ai quali Gesù Cristo disse: « Chi ascolta voi, ascolta me; e chi disprezza voi, disprezza me ».*
+*Nella Chiesa possono far leggi e precetti il Papa e i Vescovi come successori degli Apostoli, ai quali Gesù Cristo disse: « Chi ascolta voi, ascolta me; e chi disprezza voi, disprezza me » (Lc. X, 16).*
 
 **216.** Che ci ordina il primo precetto « udir la Messa la domenica e le altre feste comandate »?
 
@@ -23,6 +23,8 @@
 **218.** Che ci proibisce il secondo precetto con le parole « non mangiar carne nel venerdì e negli altri giorni proibiti »?
 
 *Il secondo precetto con le parole non mangiar carne nel venerdì e negli altri giorni proibiti ci proibisce di mangiar carne nel venerdì (giorno della Passione e Morte di Gesù Cristo) e in alcuni giorni di digiuno.*
+
+*218 a. I cinque precetti generali della Chiesa: 1. Udire la santa Messa la domenica e le altre feste comandate; 2. Santificare i giorni festivi; 3. Confessarsi almeno una volta all'anno e comunicarsi almeno a Pasqua di Risurrezione; 4. Digiunare e astenersi dalle carni nei giorni comandati; 5. Sovvenire alle necessità della Chiesa, contribuendo secondo le leggi e gli usi.*
 
 **219.** Che cosa ordina il secondo precetto con le parole « digiunare nei giorni prescritti »?
 
@@ -54,4 +56,4 @@
 
 **226.** Che proibisce il quinto precetto « non celebrar solennemente le nozze nei tempi proibiti »?
 
-*Il quinto precetto non celebrar solennemente le nozze nei tempi proibiti proibisce la Messa con la benedizione speciale degli sposi, dalla prima domenica di Avvento al S. Natale e dal mercoledì delle Ceneri alla Domenica di Pasqua. § 1. Virtù in generale - Virtù teologali.*
+*Il quinto precetto non celebrar solennemente le nozze nei tempi proibiti proibisce la Messa con la benedizione speciale degli sposi, dalla prima domenica di Avvento al S. Natale e dal mercoledì delle Ceneri alla Domenica di Pasqua.*

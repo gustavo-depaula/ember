@@ -115,7 +115,7 @@ E então, depois de todas estas coisas, a alma repousa pacificamente em Deus: «
 [^59]: Is 57, 20.
 [^60]: Gl 5, 17.
 [^61]: Lc 10, 41.
-[^62]: «O Sábado celeste, como observa São Cirilo a respeito das palavras de São Paulo: "Resta, portanto, um dia de repouso para o povo de Deus" (Ef 5, 8), é aquela vida na qual, vivendo com Cristo, experimentaremos toda a alegria, e todo pecado será apagado (*In Joan.*, lib. 4). E nesta visão de Deus, as almas dos santos obterão todo o bem» (*Catecismo Romano*, *loc. cit.*, 16).
+[^62]: «O Sábado celeste, como observa São Cirilo a respeito das palavras de São Paulo: "Resta, portanto, um dia de repouso para o povo de Deus" (Hb 4, 9), é aquela vida na qual, vivendo com Cristo, experimentaremos toda a alegria, e todo pecado será apagado (*In Joan.*, lib. 4). E nesta visão de Deus, as almas dos santos obterão todo o bem» (*Catecismo Romano*, *loc. cit.*, 16). *Nota do tradutor: Collins traz «Eph., v. 8»; o texto citado — «Resta, portanto, um dia de repouso para o povo de Deus» — é Hb 4, 9, o mesmo versículo já citado na nota 57 deste capítulo.*
 [^63]: Is 58, 13-14.
 [^64]: Mt 13, 44-46.
 [^65]: Sl 131, 14.

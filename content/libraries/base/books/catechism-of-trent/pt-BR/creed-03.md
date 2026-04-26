@@ -158,7 +158,5 @@ Desta arte, reproduziremos em nós uma certa imagem e semelhança da santa conce
 [^251]: Io 1, 13.
 [^252]: Rom 6, 4.
 [^253]: 2 Cor 5, 17.
-[^254]: cfr. 2 Cor 3, 18.
-[^255]: cfr. 1 Cor 13, 12.
 [^256]: 1 Cor 2, 7.
 [^257]: 1 Cor 2, 7.

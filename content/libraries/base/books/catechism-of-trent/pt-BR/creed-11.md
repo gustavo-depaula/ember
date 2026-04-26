@@ -246,7 +246,6 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^658]: 3 Reg 17, 17 ss.; 4 Reg 4, 32 ss.; 13, 21.
 [^659]: Mt 9, 25; Lc 5, 14; 7, 13-15; Io 11, 43-44.
 [^660]: Act 9, 40; 20, 10.
-[^661]: Iren. adv. haer. I 2 56; Euseb. I 5 7; cfr. o Martirológio Romano e os processos de canonização.
 [^662]: Observação hoje impertinente, graças à reforma dos estudos eclesiásticos desde o Concílio de Trento.
 [^663]: Iob 19, 26.
 [^664]: Dan 12, 2.
@@ -280,7 +279,6 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^692]: Aug. Enchir. 89.
 [^693]: Aug. de civ. Dei XII 19 (3).
 [^694]: Aug. sermo 362 20.
-[^695]: 1 Cor 15, 51.
 [^696]: Is 25, 8.
 [^697]: Os 13, 14.
 [^698]: 1 Cor 15, 26.
@@ -288,7 +286,6 @@ De outro lado, porém, nada é mais eficaz para reprimir as paixões, e converte
 [^700]: Hebr 2, 14.
 [^701]: Rom 5, 12-21.
 [^702]: Apoc 9, 6.
-[^703]: Is 49, 10-13; Apoc 7, 16-17.
 [^704]: 1 Cor 15, 42.
 [^705]: Mt 13, 43; Sap 3, 7.
 [^706]: Mt 17, 2 ss.

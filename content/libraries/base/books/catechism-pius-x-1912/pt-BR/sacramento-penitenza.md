@@ -6,7 +6,7 @@
 
 **356.** O Sacramento da Penitência foi instituído quando por Jesus Cristo?
 
-*O Sacramento da Penitência foi instituído por Jesus Cristo quando disse aos Apóstolos, e neles aos seus sucessores: "Recebei o Espírito Santo, àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; e àqueles a quem os retiverdes, ser-lhes-ão retidos" (São João XX. 22-23).*
+*O Sacramento da Penitência foi instituído por Jesus Cristo quando disse aos Apóstolos, e neles aos seus sucessores: "Recebei o Espírito Santo, àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; e àqueles a quem os retiverdes, ser-lhes-ão retidos" (São João XX, 22-23).*
 
 **357.** Quem é o ministro da Penitência?
 
@@ -50,7 +50,7 @@
 
 **367.** É necessário ter dor de todos os pecados cometidos?
 
-*É necessário ter dor de todos os pecados cometidos, sem exceção, e convém tê-la até dos veniais.*
+*É necessário ter dor de todos os pecados mortais cometidos, sem exceção, e convém tê-la até dos veniais.*
 
 **368.** Por que é necessário ter dor de todos os pecados mortais?
 
@@ -66,7 +66,7 @@
 
 **371.** Somos obrigados a fugir das ocasiões dos pecados?
 
-*Somos obrigados a fugir das ocasiões dos pecados porque somos obrigados a fugir dos pecados: quem não foge delas, acaba por cair, pois "aquele que ama o perigo perecerá nele" (Eclesiástico III. 27).*
+*Somos obrigados a fugir das ocasiões dos pecados porque somos obrigados a fugir dos pecados: quem não foge delas, acaba por cair, pois "aquele que ama o perigo perecerá nele" (Eclesiástico III, 27).*
 
 **372.** O que é a Confissão?
 

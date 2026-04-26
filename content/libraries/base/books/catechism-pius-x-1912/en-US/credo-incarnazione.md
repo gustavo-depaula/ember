@@ -10,7 +10,7 @@
 
 **80.** How was Jesus Christ known to be the Son of God?
 
-*Jesus Christ was known to be the Son of God because God the Father proclaimed Him such at the Baptism and at the Transfiguration, saying, "This is my beloved Son, in whom I am well pleased"; and because Jesus Himself declared the same in His earthly life.*
+*Jesus Christ was known to be the Son of God because God the Father proclaimed Him such at the Baptism and at the Transfiguration, saying, "This is my beloved Son, in whom I am well pleased" (Matt. III. 17; Luke IX. 35); and because Jesus Himself declared the same in His earthly life.*
 
 **81.** Did Jesus Christ always exist?
 

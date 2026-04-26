@@ -11,7 +11,7 @@ Rightly, then, and in its natural order, is the Commandment which
 protects human life against the hand of the murderer, followed by
 that which forbids adultery and which aims to prevent anyone from
 injuring or destroying by such a crime the holy and honourable
-union of marriage  a union which is generally the source of
+union of marriage — a union which is generally the source of
 ardent affection and love.
 
 ## Importance Of Careful Instruction On This Commandment

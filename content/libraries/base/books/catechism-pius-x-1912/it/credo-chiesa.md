@@ -42,7 +42,7 @@
 
 **115.** La Chiesa docente può errare nell'insegnarci le verità rivelate da Dio?
 
-*La Chiesa docente non può errare nell'insegnarci le verità rivelate da Dio: essa è infallibile, perchè, come promise Gesù Cristo, "lo Spirito di verità" l'assiste continuamente.*
+*La Chiesa docente non può errare nell'insegnarci le verità rivelate da Dio: essa è infallibile, perchè, come promise Gesù Cristo, "lo Spirito di verità" (Gv. XV, 26) l'assiste continuamente.*
 
 **116.** Il Papa, da solo, può errare nell'insegnarci le verità rivelate da Dio?
 

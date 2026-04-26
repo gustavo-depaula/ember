@@ -434,3 +434,47 @@ Final pass over all 21 chapters × 3 languages. Pattern scans for IT OCR artefac
 
 ### Convergence
 After Rounds 1–11 the corpus is clean: pattern scans return no defects, all Q counts match across the three languages, and the latest semantic pass surfaced only the two ellipses fixed above. No further defects identified.
+
+## Round 12 Audit (2026-04-26)
+
+Cross-language audit (5 parallel review agents over the 21 chapters × 3 languages) revealed that the pt-BR source ("Escravas de Maria" Brazilian tradition) contains systematic editorial expansions absent from the canonical Italian source: numbered didactic enumerations (`*N a.*`, `*N b.*` blocks listing the Six Sins Against the Holy Spirit, the Four Last Things, the Seven Capital Sins, the Works of Mercy, etc.) and explicit inline scripture citations following quoted passages. **Decision: propagate pt-BR additions to IT and en-US** rather than strip them, treating pt-BR additions as canonical for the editorial enumerations and citations. The Italian remains canonical for prose. Citation format standardised to comma between chapter and verse: IT uses Italian biblical abbreviations (`Mt. III, 17`); en-US uses Douay-Rheims abbreviations with period (`Matt. III. 17`); pt-BR uses Portuguese full names with comma (`São Mateus III, 17`).
+
+### IT canonical structure & typo fixes
+- `lezione-preliminare.md` Q22, Q23 — `Figliolo` → `Figliuolo` (canonical 1912 form).
+- `credo-unita-trinita.md` Q44 — `Figliolo` → `Figliuolo`.
+- `legge-comandamenti.md` Q168 — embedded section divider `§ 2. Comandamenti dl Dio in particolare.` (with OCR typo `dl`) extracted to standalone `## § 2. Comandamenti di Dio in particolare` H2 heading before Q169; en-US already correct, pt-BR equivalent heading inserted.
+- `legge-precetti.md` Q226 — removed trailing `§ 1. Virtù in generale - Virtù teologali.` (belongs to next chapter).
+- `legge-virtu.md` — embedded `FEDE.` and `§ 3. Virtù morale e vizio - Beatitudini evangeliche` extracted to `## Fede` (before Q232) and `## § 3. Virtù morale e vizio - Beatitudini evangeliche` (before Q252) headings; `## § 1. Virtù in generale - Virtù teologali` added before Q227; new `## § 2. Speranza - Carità` heading added before Q238 (previously missing in all languages).
+- `sacramento-eucaristia.md` Q334 — embedded `§ 3. Santa comunione, disposizioni, obbligo, effetti.` extracted to H2 heading before Q335.
+- `sacramento-penitenza.md` Q379 — embedded `§ 4. Assoluzione - Soddisfazione - Indulgenze.` extracted to H2 heading before Q380.
+- `sacramento-penitenza.md` Q376 — `Gesú` (acute) → `Gesù` (grave).
+- `sacramento-penitenza.md` Q385 — removed trailing `Formole 21,22.` editorial cross-reference (the formulas in question are now spelled out as the propagated 385a/385b Works of Mercy blocks).
+
+### Editorial enumerations propagated from pt-BR to IT and en-US
+- `credo-remissione-peccati.md` Q152a — Six Sins Against the Holy Spirit; Q152b — Four Sins Crying for Vengeance; Q155a — The Four Last Things.
+- `legge-comandamenti.md` Q163a — Two Commandments of Charity (pt-BR was missing the fourth faculty `forças`/strength; harmonised with IT/en-US to include all four per Mark 12:30).
+- `legge-precetti.md` Q218a — Five General Precepts of the Church (only the universal portion propagated; the Brazilian-specific "Terceiro Catecismo" aside about dízimos was retained in pt-BR alone).
+- `legge-virtu.md` Q237a — Two Principal Mysteries of the Faith (pt-BR was missing `Ressurreição`; harmonised with IT/en-US); Q249a/b — Seven Corporal & Spiritual Works of Mercy; Q261a — Seven Capital Sins.
+- `sacramento-penitenza.md` Q385a/b — Seven Corporal & Spiritual Works of Mercy (intentional duplication with Q249a/b — the catechism repeats them in two contexts).
+
+### Scripture citations propagated from pt-BR to IT and en-US
+- `credo-incarnazione.md` Q80 — Mt. III, 17 / Lc. IX, 35 (Father's voice at Baptism / Transfiguration).
+- `credo-chiesa.md` Q115 — Gv. XV, 26 (Spirit of truth).
+- `credo-remissione-peccati.md` Q138 — Lc. I, 28 ("full of grace").
+- `legge-comandamenti.md` Q163 — Mt. XXII, 40; Q192 — Rm. XIII, 1-2; Q199 — Mt. XVIII, 7; Q212 — At. XIV, 22.
+- `legge-precetti.md` Q215 — Lc. X, 16 ("He who hears you").
+- `legge-virtu.md` Q241 — Mc. XII, 30 (Greatest Commandment); Q247 — Gc. II, 26 (faith without works); Q264 — Mt. V, 3-10 (Beatitudes).
+- `sacramento-penitenza.md` Q356 — Gv. XX, 22-23 (Power of the keys); Q371 — Eccli. III, 27 (heart prone to evil).
+- All pt-BR citations standardised to comma-between-chapter-and-verse format (e.g. `XIV. 22` → `XIV, 22`; `Rom.` abbreviated form → `Romanos`).
+
+### pt-BR substantive defects fixed
+- `credo-chiesa.md` Q108 — restored the "one body, the Mystical Body" pairing (`um só corpo, o Corpo Místico`); pt-BR had collapsed it to a single phrase.
+- `credo-remissione-peccati.md` Q152 — restored the answer framing dropped by pt-BR: now reads `Entre os pecados mortais, os mais graves e funestos são os pecados contra o Espírito Santo e os que clamam vingança diante de Deus.` instead of the bare `Os pecados contra o Espírito Santo e os que clamam vingança diante de Deus.`
+- `legge-comandamenti.md` Q169 — question typo `não terá` → `não terás` (matches answer body, IT `non avrai`); Q192 — duplicated `a` removed from `a resiste` → `resiste`.
+- `legge-precetti.md` Q218 — internal answer/question phrasing aligned: answer now uses `nos outros dias proibidos` to match the question's quoted text.
+- `legge-virtu.md` Q241 — restored the actual Mark 12:30 quote text in pt-BR (was previously bare citation only): `"com todo o coração, com toda a alma, com toda a mente e com todas as forças" (São Marcos XII, 30)`.
+- `sacramento-penitenza.md` Q367 — restored missing word `mortais`: `dor de todos os pecados mortais cometidos` (IT `tutti i peccati mortali commessi`, en-US `all the mortal sins committed`).
+- `orazione.md` Q419 — `só se reza, Ele concede` → `só se rezarmos, Ele concede`; Q420 — `prometeu de atender-nos` → `prometeu atender-nos` (Italianism stripped); Q432 — missing article restored: `Com Ave-Maria suplicamos` → `Com a Ave-Maria suplicamos`; Q433 — `tanto grandes` → `tão grandes` (Italianism), `a poderosa intercessão` → `o poder de intercessão` (semantic correction matching IT/en-US).
+
+### Convergence
+The corpus is now cross-language consistent for content, structure, and citation format. The pt-BR didactic enumerations are preserved as the shared editorial layer across all three languages, and the IT prose remains canonical.

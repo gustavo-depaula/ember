@@ -42,7 +42,7 @@
 
 **138.** Tra i figli di Adamo fu preservato mai nessuno dal peccato originale?
 
-*Tra i figli di Adamo fu preservata dal peccato originale solo Maria Santissima, la quale, perchè eletta Madre di Dio, fu "piena di grazia", e quindi senza peccato fin dal primo istante; perciò la Chiesa ne celebra l'Immacolata Concezione.*
+*Tra i figli di Adamo fu preservata dal peccato originale solo Maria Santissima, la quale, perchè eletta Madre di Dio, fu "piena di grazia" (Lc. I, 28), e quindi senza peccato fin dal primo istante; perciò la Chiesa ne celebra l'Immacolata Concezione.*
 
 **139.** Come si cancella il peccato originale?
 
@@ -100,6 +100,10 @@
 
 *Tra i peccati mortali sono più gravi e funesti i peccati contro lo Spirito Santo e quelli che gridano vendetta al cospetto di Dio.*
 
+*152 a. I sei peccati contro lo Spirito Santo: 1. Disperazione della salvezza; 2. Presunzione di salvarsi senza merito; 3. Impugnare la verità conosciuta; 4. Invidia della grazia altrui; 5. Ostinazione nei peccati; 6. Impenitenza finale.*
+
+*152 b. I quattro peccati che gridano vendetta al cospetto di Dio: 1. Omicidio volontario; 2. Peccato impuro contro natura; 3. Oppressione dei poveri; 4. Frode della mercede agli operai.*
+
 **153.** Perchè i peccati contro lo Spirito Santo sono dei più gravi e funesti?
 
 *I peccati contro lo Spirito Santo sono dei più gravi e funesti, perchè con essi l'uomo si oppone ai doni spirituali della verità e della grazia, e perciò, anche potendolo, difficilmente si converte.*
@@ -111,3 +115,5 @@
 **155.** Che cosa particolarmente giova a tenerci lontani dal peccato?
 
 *A tenerci lontani dal peccato giova particolarmente il pensiero che Dio è da per tutto e vede il segreto dei cuori e la considerazione dei Novissimi, ossia di quanto ci attende alla fine di questa vita e alla fine del mondo.*
+
+*155 a. I Quattro Novissimi: 1. Morte; 2. Giudizio; 3. Inferno; 4. Paradiso.*

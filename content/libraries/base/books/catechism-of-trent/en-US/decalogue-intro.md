@@ -123,7 +123,7 @@ the heaviest chastisements of the divine justice.
 The pastor should also teach that the Commandments of God are
 not difficult, as these words of St Augustine are alone
 sufficient to show: How, I ask, is it said to be impossible for
-man to love  to love, I say, a beneficent Creator, a most
+man to love — to love, I say, a beneficent Creator, a most
 loving Father, and also, in the persons of his , brethren to love
 his own flesh? Yet, "he who loveth has fulfilled the
 law." Hence the Apostle St. John expressly says that the

@@ -42,7 +42,7 @@
 
 **115.** Can the teaching Church err in teaching us the truths revealed by God?
 
-*The teaching Church cannot err in teaching us the truths revealed by God: she is infallible, because, as Jesus Christ promised, "the Spirit of truth" assists her continually.*
+*The teaching Church cannot err in teaching us the truths revealed by God: she is infallible, because, as Jesus Christ promised, "the Spirit of truth" (John XV. 26) assists her continually.*
 
 **116.** Can the Pope, by himself, err in teaching us the truths revealed by God?
 

@@ -416,7 +416,6 @@ Embora cada um desses remédios seja indicado para todas as espécies de crimes,
 [^104]: Rom 8, 15.
 [^105]: Rom 8, 26.
 [^106]: Lc 17, 5.
-[^107]: Aqui vai um engano do CRO. Quem assim falava, era o pai do menino possesso. Cfr. Mc 9, 21.
 [^108]: Mc 9, 24.
 [^109]: Jo 15, 7.
 [^110]: Jac 4, 3.

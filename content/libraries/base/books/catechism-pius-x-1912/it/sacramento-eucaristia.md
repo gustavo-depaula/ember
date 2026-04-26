@@ -74,7 +74,9 @@
 
 **334.** Perchè si conserva nelle chiese la santissima Eucaristia?
 
-*La santissima Eucaristia si conserva nelle chiese, perchè i fedeli l'adorino, perchè la ricevano nella comunione, e perchè sentano in essa la perpetua assistenza e presenza di Gesù Cristo nella Chiesa. § 3. Santa comunione, disposizioni, obbligo, effetti.*
+*La santissima Eucaristia si conserva nelle chiese, perchè i fedeli l'adorino, perchè la ricevano nella comunione, e perchè sentano in essa la perpetua assistenza e presenza di Gesù Cristo nella Chiesa.*
+
+## § 3. Santa comunione, disposizioni, obbligo, effetti
 
 **335.** Quante cose sono necessarie per fare una buona comunione?
 

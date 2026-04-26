@@ -270,5 +270,5 @@ country to be crowned with divine honours that shall never fade.
 It only remains, then, for the pastor to exhort the faithful
 to lead holy lives and practice every virtue, that thus they may
 be enabled to look forward with confidence to the coming of that
-great day of the Lord  nay, as becomes children, even to
+great day of the Lord — nay, as becomes children, even to
 desire it most fervently.

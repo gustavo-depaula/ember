@@ -48,7 +48,9 @@
 
 *Não basta crer em geral nas verdades reveladas por Deus, mas algumas, isto é, a existência de Deus remunerador e os dois mistérios principais, devem-se crer também com expresso ato de Fé.*
 
-*237 a. Os dois principais mistérios da Fé: 1. Unidade e Trindade de Deus; 2. Encarnação, Paixão e Morte de Nosso Senhor Jesus Cristo.*
+*237 a. Os dois principais mistérios da Fé: 1. Unidade e Trindade de Deus; 2. Encarnação, Paixão, Morte e Ressurreição de Nosso Senhor Jesus Cristo.*
+
+## § 2. Esperança - Caridade
 
 **238.** O que é a Esperança?
 
@@ -64,7 +66,7 @@
 
 **241.** Por que devemos amar a Deus?
 
-*Devemos amar a Deus por Si mesmo, como o sumo Bem, fonte de todo nosso bem, e por isso devemos amá-lo sobre todas as coisas (São Marcos XII. 30).*
+*Devemos amar a Deus por Si mesmo, como o sumo Bem, fonte de todo nosso bem, e por isso devemos amá-lo sobre todas as coisas "com todo o coração, com toda a alma, com toda a mente e com todas as forças" (São Marcos XII, 30).*
 
 **242.** Por que devemos amar o próximo?
 
@@ -88,7 +90,7 @@
 
 **247.** Como se dá prova da Fé?
 
-*Dá-se prova da Fé confessando-a e defendendo-a, quando necessário, sem temor e sem respeito humano, e vivendo segundo as suas máximas: "a Fé sem obras é morta" (São Tiago II. 26).*
+*Dá-se prova da Fé confessando-a e defendendo-a, quando necessário, sem temor e sem respeito humano, e vivendo segundo as suas máximas: "a Fé sem obras é morta" (São Tiago II, 26).*
 
 **248.** Como se dá prova da Esperança?
 
@@ -164,7 +166,7 @@
 
 **264.** Diga as Bem-Aventuranças Evangélicas.
 
-*"Bem-Aventurados os pobres de espírito, porque deles é o reino dos céus. Bem-Aventurados os mansos, porque possuirão a Terra. Bem-Aventurados os que choram, porque serão consolados. Bem-Aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-Aventurados os misericordiosos, porque alcançarão misericórdia. Bem-Aventurados os puros de coração, porque verão a Deus. Bem-Aventurados os pacíficos, porque serão chamados filhos de Deus. Bem-Aventurados os que sofrem perseguição por amor da justiça, porque deles é o reino dos Céus" (São Mateus V. 3-10)*
+*"Bem-Aventurados os pobres de espírito, porque deles é o reino dos céus. Bem-Aventurados os mansos, porque possuirão a Terra. Bem-Aventurados os que choram, porque serão consolados. Bem-Aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-Aventurados os misericordiosos, porque alcançarão misericórdia. Bem-Aventurados os puros de coração, porque verão a Deus. Bem-Aventurados os pacíficos, porque serão chamados filhos de Deus. Bem-Aventurados os que sofrem perseguição por amor da justiça, porque deles é o reino dos Céus" (São Mateus V, 3-10)*
 
 **265.** Por que Jesus Cristo, nas Bem-Aventuranças Evangélicas, chamou bem-aventuradas, contrariamente à opinião do mundo, as pessoas humildes e atribuladas?
 

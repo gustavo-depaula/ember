@@ -301,9 +301,9 @@ professed (Christ) he was placed above all.
 Should anyone object that the Church is content with one Head
 and one Spouse, Jesus Christ, and requires no other, the answer
 is obvious. For as we deem Christ not only the author of all the
-Sacraments, but also their invisible minister  He it is who
+Sacraments, but also their invisible minister — He it is who
 baptises, He it is who absolves, although men are appointed by
-Him the external ministers of the Sacraments  so has He
+Him the external ministers of the Sacraments — so has He
 placed over His Church, which He governs by His invisible Spirit,
 a man to be His vicar and the minister of His power. A visible
 Church requires a visible head; therefore the Saviour appointed

@@ -10,7 +10,7 @@
 
 **80.** Gesù Cristo come fu conosciuto per Figliuolo di Dio?
 
-*Gesù Cristo fu conosciuto per Figliuolo di Dio, perchè tale lo proclamò Dio Padre nel Battesimo e nella Trasfigurazione, dicendo: « Questo è il mio Figliuolo diletto, nel quale mi sono compiaciuto »; e perché tale si dichiarò Gesù stesso nella sua vita terrena.*
+*Gesù Cristo fu conosciuto per Figliuolo di Dio, perchè tale lo proclamò Dio Padre nel Battesimo e nella Trasfigurazione, dicendo: « Questo è il mio Figliuolo diletto, nel quale mi sono compiaciuto » (Mt. III, 17; Lc. IX, 35); e perché tale si dichiarò Gesù stesso nella sua vita terrena.*
 
 **81.** Gesù Cristo è stato sempre?
 

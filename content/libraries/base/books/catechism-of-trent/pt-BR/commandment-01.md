@@ -344,7 +344,6 @@ Doravante, esta verdade será lembrada em cada um dos Mandamentos.
 [^112]: Rom 15, 30; 2 Cor 1, 11.
 [^113]: A Igreja condenou a proposição: "Nenhuma criatura, nem a Virgem Bem-aventurada, nem os Santos devem ocupar lugar em nosso coração; pois Deus quer ocupá-lo e possuí-lo sòzinho" (Papa Inocêncio XI em 1687; cfr. DU 1256).
 [^114]: Ambros. epist. 85; Aug. De Civit. Dei XXII 8; epist. 137 et 147.
-[^115]: Act 19, 12; 5, 15; cfr. 4 Reg 2, 14.
 [^116]: 4 Reg 13, 21.
 [^117]: Exod 20, 4-5.
 [^118]: Exod 20, 17.

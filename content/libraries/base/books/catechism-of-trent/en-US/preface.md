@@ -79,12 +79,12 @@ lest, beset on every side by such a host of enemies and assailed
 and attacked by so many machinations, it would, in these days,
 fall to the ground.
 
-For  to say nothing of those illustrious States which
+For — to say nothing of those illustrious States which
 heretofore professed, in piety and holiness, the true Catholic
 faith transmitted to them by their ancestors, but are now gone
 astray wandering from the paths of truth and openly declaring
 that their best claims to piety are founded on a total
-abandonment of the faith of their fathers  there is no region,
+abandonment of the faith of their fathers — there is no region,
 however remote, no place, however securely guarded, no corner of
 Christendom, into which this pestilence has not sought secretly
 to insinuate itself.
@@ -97,7 +97,7 @@ impiety more easily and extensively. Besides those voluminous
 works by which they sought the subversion of the Catholic faith
 to guard against which (volumes) required perhaps little
 labour or circumspection, since their contents were clearly
-heretical  they also composed innumerable smaller books, which,
+heretical — they also composed innumerable smaller books, which,
 veiling their errors under the semblance of piety, deceived with
 incredible facility the unsuspecting minds of simple folk.
 

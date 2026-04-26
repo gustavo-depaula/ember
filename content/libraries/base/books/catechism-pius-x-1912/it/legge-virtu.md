@@ -1,5 +1,7 @@
 # Parte II, Capo III — Virtù
 
+## § 1. Virtù in generale - Virtù teologali
+
 **227.** Che cos'è la virtù?
 
 *La virtù è una costante disposizione dell'anima a fare il bene.*
@@ -18,7 +20,9 @@
 
 **231.** Tra le virtù soprannaturali qual è la più eccellente?
 
-*Tra le virtù soprannaturali la più eccellente è la carità, perché è inseparabile dalla grazia santificante, ci unisce intimamente a Dio e al prossimo, ci muove alla perfetta osservanza della Legge e a ogni opera buona, e non cesserà mai: in essa sta la perfezione cristiana. FEDE.*
+*Tra le virtù soprannaturali la più eccellente è la carità, perché è inseparabile dalla grazia santificante, ci unisce intimamente a Dio e al prossimo, ci muove alla perfetta osservanza della Legge e a ogni opera buona, e non cesserà mai: in essa sta la perfezione cristiana.*
+
+## Fede
 
 **232.** Che cos'è la fede?
 
@@ -44,6 +48,10 @@
 
 *Non basta credere in generale le verità rivelate da Dio ma alcune, cioè l'esistenza di Dio rimuneratore e i due misteri principali, si debbono credere anche con espresso atto di fede.*
 
+*237 a. I due principali misteri della Fede sono: 1. Unità e Trinità di Dio; 2. Incarnazione, Passione, Morte e Risurrezione di Nostro Signore Gesù Cristo.*
+
+## § 2. Speranza - Carità
+
 **238.** Che cos'è la speranza?
 
 *La speranza è quella virtù soprannaturale per cui confidiamo in Dio e da Lui aspettiamo la vita eterna e le grazie necessarie per meritarla quaggiù con le buone opere.*
@@ -58,7 +66,7 @@
 
 **241.** Perchè dobbiamo amare Dio?
 
-*Dobbiamo amare Dio per se stesso, come il sommo Bene, fonte d'ogni nostro bene; e perciò dobbiamo anche amarlo sopra ogni cosa « con tutto il cuore, con tutta l'anima, con tutta la mente e con tutte le forze ».*
+*Dobbiamo amare Dio per se stesso, come il sommo Bene, fonte d'ogni nostro bene; e perciò dobbiamo anche amarlo sopra ogni cosa « con tutto il cuore, con tutta l'anima, con tutta la mente e con tutte le forze » (Mc. XII, 30).*
 
 **242.** Perchè dobbiamo amare il prossimo?
 
@@ -82,7 +90,7 @@
 
 **247.** Come si dà prova della fede?
 
-*Si dà prova della fede confessandola e difendendola, quando occorra, senza timore e senza rispetto umano, e vivendo secondo le sue massime: « la fede senza le opere è morta ».*
+*Si dà prova della fede confessandola e difendendola, quando occorra, senza timore e senza rispetto umano, e vivendo secondo le sue massime: « la fede senza le opere è morta » (Gc. II, 26).*
 
 **248.** Come si dà prova della speranza?
 
@@ -92,13 +100,19 @@
 
 *Si dà prova della carità osservando i comandamenti ed esercitando le opere di misericordia, e se Dio chiama, seguendo i consigli evangelici.*
 
+*249 a. Le sette opere di misericordia corporale: 1. Dar da mangiare agli affamati; 2. Dar da bere agli assetati; 3. Vestire gli ignudi; 4. Alloggiare i pellegrini; 5. Visitare gli infermi; 6. Visitare i carcerati; 7. Seppellire i morti.*
+
+*249 b. Le sette opere di misericordia spirituale: 1. Consigliare i dubbiosi; 2. Insegnare agli ignoranti; 3. Ammonire i peccatori; 4. Consolare gli afflitti; 5. Perdonare le offese; 6. Sopportare pazientemente le persone moleste; 7. Pregare Dio per i vivi e per i morti.*
+
 **250.** Che cosa sono i consigli evangelici?
 
 *I consigli evangelici sono esortazioni che Gesù Cristo fece nel Vangelo ad una vita più perfetta, mediante la pratica di virtù non comandate.*
 
 **251.** Quali sono i principali consigli evangelici?
 
-*I principali consigli evangelici sono: la povertà volontaria, la castità perpetua e l'ubbidienza perfetta. § 3. Virtù morale e vizio - Beatitudini evangeliche*
+*I principali consigli evangelici sono: la povertà volontaria, la castità perpetua e l'ubbidienza perfetta.*
+
+## § 3. Virtù morale e vizio - Beatitudini evangeliche
 
 **252.** Che cos'è la virtù morale?
 
@@ -140,6 +154,8 @@
 
 *I vizi principali sono i sette vizi capitali, chiamati così perché sono capo e origine degli altri vizi e peccati.*
 
+*261 a. I sette vizi capitali: 1. Superbia; 2. Avarizia; 3. Lussuria; 4. Ira; 5. Gola; 6. Invidia; 7. Accidia.*
+
 **262.** Quali sono le virtù opposte ai vizi capitali?
 
 *Le virtù opposte ai vizi capitali sono: l'umiltà, la liberalità, la castità, la pazienza, la sobrietà, la fraternità e la diligenza nel servizio di Dio.*
@@ -150,7 +166,7 @@
 
 **264.** Dite le Beatitudini evangeliche.
 
-*Beati i poveri in spirito, perchè di questi è il regno de' cieli. Beati i mansueti, perché questi erediteranno la terra. Beati quelli che piangono, perchè saranno consolati. Beati quelli che hanno fame e sete della giustizia, perchè saranno saziati. Beati i misericordiosi, perchè troveranno misericordia. Beati i mondi di cuore, perchè vedranno Dio. Beati i pacifici, perchè saranno chiamati figli di Dio. Beati i perseguitati per amor della giustizia, perché di questi è il regno de' cieli.*
+*Beati i poveri in spirito, perchè di questi è il regno de' cieli. Beati i mansueti, perché questi erediteranno la terra. Beati quelli che piangono, perchè saranno consolati. Beati quelli che hanno fame e sete della giustizia, perchè saranno saziati. Beati i misericordiosi, perchè troveranno misericordia. Beati i mondi di cuore, perchè vedranno Dio. Beati i pacifici, perchè saranno chiamati figli di Dio. Beati i perseguitati per amor della giustizia, perché di questi è il regno de' cieli (Mt. V, 3-10).*
 
 **265.** Perchè Gesù Cristo, nelle Beatitudini evangeliche, disse beate, contrariamente all'opinione del mondo, le persone umili e tribolate?
 

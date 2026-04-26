@@ -207,11 +207,9 @@ Por esse motivo, ao anunciar aos atenienses o Deus que eles adoravam, sem O conh
 Neste lugar, confessamos pela doutrina dos Apóstolos, que o Padre é o Criador do céu e da terra. Nas Escrituras, porém, lemos com relação ao Filho que "por Ele foram feitas todas as coisas".[^164] Acerca do Espírito Santo: "O Espírito de Deus movia-Se por sobre as águas".[^165] Noutro lugar: "Pela palavra do Senhor foram assentes os céus, e do hálito de Sua boca procede toda a pujança [de vida]".[^166]
 
 [^72]: Em latim: articulis. Articulus quer dizer junta ou articulação.
-[^73]: Exod 20, 18 ss.
 [^74]: 2 Cor 4, 6.
 [^75]: 2 Cor 4, 3.
 [^76]: Rom 3, 4.
-[^77]: cfr. Ps 115, 11.
 [^78]: Isto não é uma negação do axioma "fides quaerens intellectum". O CRO só não quer que o ato de fé, como tal, dependa de uma prévia demonstração. DU 1637 1812 1813 1706.
 [^79]: Ps 115, 10.
 [^80]: Act 4, 20.

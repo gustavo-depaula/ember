@@ -10,7 +10,7 @@
 
 **215.** Na Igreja, quem pode fazer Leis e Preceitos?
 
-*Na Igreja, podem fazer Leis e Preceitos o Papa e os Bispos, como sucessores dos Apóstolos, aos quais Jesus Cristo disse: "O que vos ouve, a Mim ouve, e o que vos despreza, a Mim despreza." (São Lucas X. 16)*
+*Na Igreja, podem fazer Leis e Preceitos o Papa e os Bispos, como sucessores dos Apóstolos, aos quais Jesus Cristo disse: "O que vos ouve, a Mim ouve, e o que vos despreza, a Mim despreza." (São Lucas X, 16)*
 
 **216.** O que nos ordena o Primeiro Preceito "ouvir Missa no domingo e nas outras festas de Preceito"?
 
@@ -22,7 +22,7 @@
 
 **218.** O que nos proíbe o Segundo Preceito com as palavras "não comer carne às sextas-feiras e nos outros dias proibidos"?
 
-*O Segundo Preceito com as palavras "não comer carne às sextas-feiras e nos dias proibidos" nos proíbe comer carne às sextas-feiras (dia da Paixão e Morte de Jesus Cristo) e em alguns dias de jejum.*
+*O Segundo Preceito com as palavras "não comer carne às sextas-feiras e nos outros dias proibidos" nos proíbe comer carne às sextas-feiras (dia da Paixão e Morte de Jesus Cristo) e em alguns dias de jejum.*
 
 *218 a. Os cinco preceitos gerais da Igreja: 1. Ouvir Missa inteira no domingo e nas outras festas de preceito; 2. Abster-se de carne às sextas-feiras e nos outros dias proibidos, e jejuar nos dias de prescritos; 3. Confessar ao menos uma vez por ano, e comungar pelo menos na Páscoa; 4. Sustentar as necessidades da Igreja contribuindo segundo as leis ou os costumes; 5. Não celebrar solenemente as núpcias nos tempos proibidos. Segundo o Terceiro Catecismo da Doutrina Cristã: 1. Ouvir Missa inteira nos domingos e festas de guarda; 2. Confessar-se uma vez cada ano; 3. Comungar ao menos pela Páscoa da Ressurreição; 4. Jejuar e abster-se de carne quando manda a Santa Madre Igreja; 5. Pagar dízimos segundo o costume.*
 

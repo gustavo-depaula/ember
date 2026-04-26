@@ -42,7 +42,7 @@
 
 **138.** Dentre os filhos de Adão nenhum jamais foi preservado do pecado original?
 
-*Dentre os filhos de Adão foi preservada do pecado original só Maria Santíssima, que, porque eleita Mãe de Deus, era "cheia de graça" (São Lucas I. 28) e, portanto, sem pecado desde o primeiro instante; por isso a Igreja a celebra como a Imaculada Conceição.*
+*Dentre os filhos de Adão foi preservada do pecado original só Maria Santíssima, que, porque eleita Mãe de Deus, era "cheia de graça" (São Lucas I, 28) e, portanto, sem pecado desde o primeiro instante; por isso a Igreja a celebra como a Imaculada Conceição.*
 
 **139.** Como se apaga o pecado original?
 
@@ -98,7 +98,7 @@
 
 **152.** Quais são os mais graves e funestos dentre os pecados mortais?
 
-*Os pecados contra o Espírito Santo e os que clamam vingança diante de Deus.*
+*Entre os pecados mortais, os mais graves e funestos são os pecados contra o Espírito Santo e os que clamam vingança diante de Deus.*
 
 *152 a. Os Seis Pecados Contra o Espírito Santo: 1. Desespero da salvação; 2. Presunção de salvar-se sem mérito; 3. Impugnar a verdade conhecida; 4. Inveja das graças alheias; 5. Obstinação nos pecados; 6. Impenitência final.*
 

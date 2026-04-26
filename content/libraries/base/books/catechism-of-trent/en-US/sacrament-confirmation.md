@@ -410,7 +410,7 @@ clothed with power from on high.
 
 If pastors wish to show the divine efficacy of this Sacrament
 and this, no doubt, will have great influence in affecting
-the minds of the faithful  it will be sufficient if they
+the minds of the faithful — it will be sufficient if they
 explain what occurred to the Apostles themselves. So weak and
 timid were they before, and even at the very time of the Passion,
 that no sooner was our Lord apprehended, than they instantly fled

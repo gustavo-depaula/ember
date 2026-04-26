@@ -396,7 +396,6 @@ Por fim, mostrarão os pastores que todo o edifício do cristianismo, apesar de 
 [^58]: Eph 5, 25 ss.
 [^59]: Aug. Tract. in Joh. 80, 3.
 [^60]: Lc 3, 22.
-[^61]: Act 5, 41.
 [^62]: Act 2, 2 ss.
 [^63]: Aug. contra Faustum 19, 13; in Psalm. 83; Ambros. de Sacram 4.
 [^64]: Gal 4, 9.

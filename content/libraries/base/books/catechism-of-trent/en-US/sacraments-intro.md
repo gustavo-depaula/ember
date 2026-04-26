@@ -167,7 +167,7 @@ a sensible sign as the raising of a flag, it is obvious that such
 intimation is conveyed only through the medium of the eyes; and
 it is equally obvious that the sound of the trumpet, of the lute
 and of the lyre,instruments which are not only sources of
-pleasure, but frequently signs of ideas  is addressed to the
+pleasure, but frequently signs of ideas — is addressed to the
 ear. Through the latter sense especially are also conveyed words,
 which are the best medium of communicating our inmost thoughts.
 
@@ -645,9 +645,9 @@ removed from the senses, are always inwardly produced. To say
 nothing of the fact that at the Baptism of the Redeemer in the
 Jordan the heavens were opened and the Holy Ghost appeared in the
 form of a dove, to teach us that when we are washed in the sacred
-font His grace is infused into our souls  to omit this, which
+font His grace is infused into our souls — to omit this, which
 has reference rather to the signification of Baptism than to the
-administration of the Sacrament  do we not read that on the
+administration of the Sacrament — do we not read that on the
 day of Pentecost, when the Apostles received the Holy Ghost, by
 whom they were thenceforward inspired with greater alacrity and
 resolution to preach the faith and brave dangers for the glory of
@@ -683,9 +683,9 @@ spiritual advantages, and more august in holiness.
 
 ### Second Effect: Sacramental Character
 
-The second effect of the Sacraments  which, however, is
+The second effect of the Sacraments — which, however, is
 not common to all, but peculiar to three, Baptism, Confirmation,
-and Holy Orders  is the character which they impress on the
+and Holy Orders — is the character which they impress on the
 soul. When the Apostle says: God hath anointed us, who also hath
 sealed us, and given the pledge of the Spirit in our hearts, he
 not obscurely describes by the word sealed a character, the

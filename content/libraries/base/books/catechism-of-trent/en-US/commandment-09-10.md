@@ -28,7 +28,7 @@ separately, according as he may deem it more effective for his
 exhortations and admonitions. If, however, he has undertaken the
 exposition of the Decalogue, he should point out in what these
 two Commandments are dissimilar; how one covetousness differs
-from another  a difference noticed by St. Augustine, in his
+from another — a difference noticed by St. Augustine, in his
 book of Questions on Exodus. The one covetousness looks only to
 utility and interest, the other to unlawful desire and criminal
 pleasure. He, for instance, who covets a field or house, pursues
@@ -271,7 +271,7 @@ convenient and useful than the goods he sells.
 
 The Commandment which forbids us to covet the goods of our
 neighbour, is followed by another, which forbids us to covet our
-neighbour's wife  a law that prohibits not only the
+neighbour's wife — a law that prohibits not only the
 adulterer's criminal desire of his neighbour's wife, but even the
 wish to marry her. For of old when a bill of divorce was
 permitted, it might easily happen, that she who was put away by

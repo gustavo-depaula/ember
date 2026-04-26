@@ -10,7 +10,9 @@
 
 **163.** To what may our duties toward God and toward our neighbor be reduced?
 
-*Our duties toward God and toward our neighbor are reduced to charity, that is, to the "greatest and first commandment" of the love of God and to the "like" commandment of the love of neighbor: "On these two commandments," said Jesus Christ, "depend the whole Law and the Prophets."*
+*Our duties toward God and toward our neighbor are reduced to charity, that is, to the "greatest and first commandment" of the love of God and to the "like" commandment of the love of neighbor: "On these two commandments," said Jesus Christ, "depend the whole Law and the Prophets" (Matt. XXII. 40).*
+
+*163 a. The two commandments of charity: 1. Thou shalt love the Lord thy God with all thy heart, with all thy soul, with all thy mind, and with all thy strength; 2. Thou shalt love thy neighbour as thyself.*
 
 **164.** Why is the commandment of the love of God the greatest commandment?
 
@@ -128,7 +130,7 @@
 
 **192.** Why must we obey our superiors in authority?
 
-*We must obey our superiors in authority because "there is no authority except from God; ... therefore he who resists authority resists the ordinance of God."*
+*We must obey our superiors in authority because "there is no authority except from God; ... therefore he who resists authority resists the ordinance of God" (Rom. XIII. 1-2).*
 
 **193.** What does the fifth commandment, "Thou shalt not kill," forbid us?
 
@@ -156,7 +158,7 @@
 
 **199.** Is scandal a grave sin?
 
-*Scandal is a most grave sin, and God will demand an account of the evil that one causes others to commit by perfidious incitements and by bad example: "Woe to that man through whom scandal comes."*
+*Scandal is a most grave sin, and God will demand an account of the evil that one causes others to commit by perfidious incitements and by bad example: "Woe to that man through whom scandal comes" (Matt. XVIII. 7).*
 
 **200.** What does the fifth commandment order us?
 
@@ -208,4 +210,4 @@
 
 **212.** What does the tenth commandment order us?
 
-*The tenth commandment orders us to be just and moderate in our desire to better our condition, and to bear with patience the hardships and other miseries permitted by the Lord for our merit, since "we must enter the kingdom of God through many tribulations."*
+*The tenth commandment orders us to be just and moderate in our desire to better our condition, and to bear with patience the hardships and other miseries permitted by the Lord for our merit, since "we must enter the kingdom of God through many tribulations" (Acts XIV. 22).*

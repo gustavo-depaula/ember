@@ -10,7 +10,7 @@
 
 **215.** In the Church, who can make laws and precepts?
 
-*In the Church, the Pope and the Bishops, as successors of the Apostles, can make laws and precepts; for to them Jesus Christ said: "He who hears you hears me, and he who despises you despises me."*
+*In the Church, the Pope and the Bishops, as successors of the Apostles, can make laws and precepts; for to them Jesus Christ said: "He who hears you hears me, and he who despises you despises me" (Luke X. 16).*
 
 **216.** What does the first precept, "to hear Mass on Sundays and on the other commanded feast days," order us?
 
@@ -23,6 +23,8 @@
 **218.** What does the second precept forbid us by the words "do not eat meat on Friday and on the other forbidden days"?
 
 *The second precept, by the words "do not eat meat on Friday and on the other forbidden days," forbids us to eat meat on Fridays (the day of the Passion and Death of Jesus Christ) and on certain days of fasting.*
+
+*218 a. The five general precepts of the Church: 1. To hear Mass on Sundays and on the other commanded feasts; 2. To sanctify the days of obligation; 3. To confess at least once a year and to receive Holy Communion at least at Easter; 4. To fast and abstain from meat on the appointed days; 5. To contribute to the needs of the Church according to her laws and customs.*
 
 **219.** What does the second precept order us by the words "to fast on the prescribed days"?
 

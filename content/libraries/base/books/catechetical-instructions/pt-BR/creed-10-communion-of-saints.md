@@ -20,7 +20,7 @@ Esta comunicação se faz pelos Sacramentos da Igreja, nos quais operam os méri
 
 «Matrimônio». — O sétimo Sacramento é o Matrimônio, e nele os homens, se viverem retamente, salvam-se; e por meio dele são capacitados a viver sem pecado mortal. Às vezes os cônjuges caem em pecado venial, quando a sua concupiscência não vai além dos direitos do matrimônio; mas, se ultrapassam tais direitos, pecam mortalmente.[^13]
 
-## A remissão dos pecados
+## A Remissão dos Pecados
 
 Por estes sete Sacramentos, recebemos a remissão dos pecados,[^14] e por isso, no Símbolo, segue-se imediatamente: «a remissão dos pecados». O poder de perdoar os pecados foi dado aos Apóstolos. Devemos crer que os ministros da Igreja recebem esse poder dos Apóstolos; e os Apóstolos o receberam de Cristo; e assim os sacerdotes têm o poder de ligar e desligar. Mais ainda: cremos que existe na Igreja a plenitude do poder de perdoar os pecados, embora se exerça do mais alto ao mais baixo, isto é, desde o Papa, descendo pelos prelados.[^15]
 

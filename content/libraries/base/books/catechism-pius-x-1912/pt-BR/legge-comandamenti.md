@@ -12,7 +12,7 @@
 
 *Os nossos deveres com relação a Deus e com relação ao próximo resumem-se à caridade, isto é, ao "máximo e primeiro mandamento" do amor de Deus e àquele "semelhante" do amor do próximo: "Destes dois mandamentos", disse Jesus Cristo, "dependem toda Lei e os Profetas" (São Mateus XXII, 40).*
 
-*163 a. Os dois mandamentos da caridade: 1. Amarás o Senhor Teu Deus com todo o teu coração, com toda a tua alma e com toda a tua mente; 2. Amarás o teu próximo como a ti mesmo.*
+*163 a. Os dois mandamentos da caridade: 1. Amarás o Senhor Teu Deus com todo o teu coração, com toda a tua alma, com toda a tua mente e com todas as tuas forças; 2. Amarás o teu próximo como a ti mesmo.*
 
 **164.** Por que o Mandamento do amor de Deus é o máximo mandamento?
 
@@ -34,7 +34,9 @@
 
 *Nos Mandamentos deve-se notar o que é ordenado e o que é proibido.*
 
-**169.** O que nos ordena o Primeiro Mandamento "Eu sou o Senhor Teu Deus: não terá outro Deus além de Mim"?
+## § 2. Mandamentos de Deus em particular
+
+**169.** O que nos ordena o Primeiro Mandamento "Eu sou o Senhor Teu Deus: não terás outro Deus além de Mim"?
 
 *O Primeiro Mandamento "Eu sou o Senhor Teu Deus: não terás outro Deus além de Mim" nos ordena ser religiosos, isto é, crer em Deus e amá-lo, adorá-lo, e servi-lo como o único verdadeiro Deus, Criador e Senhor de tudo.*
 
@@ -128,7 +130,7 @@
 
 **192.** Por que devemos obedecer aos superiores em autoridade?
 
-*Devemos obedecer aos superiores em autoridade porque "não há poder que não venha de Deus (...). Aquele, pois, que resiste à autoridade, a resiste à ordenação de Deus". (Rom. XIII, 1-2)*
+*Devemos obedecer aos superiores em autoridade porque "não há poder que não venha de Deus (...). Aquele, pois, que resiste à autoridade, resiste à ordenação de Deus". (Romanos XIII, 1-2)*
 
 **193.** O que nos proíbe o Quinto Mandamento "não matar"?
 
@@ -208,4 +210,4 @@
 
 **212.** O que nos ordena o Décimo Mandamento?
 
-*O Décimo Mandamento nos ordena ser justos e moderados no desejo de melhorar a própria condição, e sofrer com paciência as dificuldades econômicas e as outras misérias permitidas pelo Senhor para nosso merecimento, pois "é por muitas tribulações que devemos entrar no reino de Deus". (Atos dos Apóstolos XIV. 22)*
+*O Décimo Mandamento nos ordena ser justos e moderados no desejo de melhorar a própria condição, e sofrer com paciência as dificuldades econômicas e as outras misérias permitidas pelo Senhor para nosso merecimento, pois "é por muitas tribulações que devemos entrar no reino de Deus". (Atos dos Apóstolos XIV, 22)*

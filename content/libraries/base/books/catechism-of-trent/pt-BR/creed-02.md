@@ -143,7 +143,6 @@ Em vista de tanto amor e benignidade para conosco, que coração se não sentiri
 [^169]: Mt 16, 17.
 [^170]: Gen 2, 16-17.
 [^171]: Conc. Trid. sess. V can. 1-6; sess. VI can. 1-2 (DU 174 188). O CRO diz "constitutus fuerat", atendo-se à terminologia do Tridentino; este não diz "creatus fuerat", para evitar questões controversas da teologia especulativa.
-[^172]: Rom 5, 12; DU 175 316 711 734 1627 1670.
 [^173]: Gen 3, 15; DU 2123.
 [^174]: Gen 12, 3; 17, 15-16; 18, 18.
 [^175]: ... as cidades.

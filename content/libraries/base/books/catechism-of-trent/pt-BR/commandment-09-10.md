@@ -191,7 +191,6 @@ Afinal, pecam gravemente contra este Preceito os que desejam e cobiçam para si 
 [^548]: Cfr. 1 Tim 6, 10; Iac 1, 14; 4, 1 ss.
 [^549]: Vide August. Retract. 1 15; epist. 200; De Civit. Dei VII 45.
 [^550]: Aug. Quaest. in Exodum q. 71. Vide etiam Thom. 2 2 q. 122 art. 6 ad 3 et 4.
-[^551]: Mt 5, 27 ss.
 [^552]: Rom 7, 7.
 [^553]: A opinião de que o Batismo ou uma vida perfeita extinguem totalmente a má concupiscência no homem, foi condenada repetidas vezes. Cfr. DU 1275-1278 1393.
 [^554]: Gal 5, 17.

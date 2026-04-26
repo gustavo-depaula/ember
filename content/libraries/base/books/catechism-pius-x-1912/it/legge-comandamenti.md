@@ -10,7 +10,9 @@
 
 **163.** I nostri doveri verso Dio e verso il prossimo a che si riducono?
 
-*I nostri doveri verso Dio e verso il prossimo si riducono alla carità, cioè al "massimo e primo comandamento" dell'amor di Dio e a quello "simile" dell'amor del prossimo: "da questi due comandamenti, disse Gesù Cristo, dipende tutta la Legge e i Profeti".*
+*I nostri doveri verso Dio e verso il prossimo si riducono alla carità, cioè al "massimo e primo comandamento" dell'amor di Dio e a quello "simile" dell'amor del prossimo: "da questi due comandamenti, disse Gesù Cristo, dipende tutta la Legge e i Profeti" (Mt. XXII, 40).*
+
+*163 a. I due comandamenti della carità: 1. Amerai il Signore Dio tuo con tutto il cuore, con tutta l'anima, con tutta la mente e con tutte le forze; 2. Amerai il prossimo tuo come te stesso.*
 
 **164.** Perchè il comandamento dell'amor di Dio è il massimo comandamento?
 
@@ -30,7 +32,9 @@
 
 **168.** Nei comandamenti che cosa si deve notare?
 
-*Nei comandamenti si deve notare ciò che è ordinato e ciò che è proibito § 2. Comandamenti dl Dio in particolare.*
+*Nei comandamenti si deve notare ciò che è ordinato e ciò che è proibito.*
+
+## § 2. Comandamenti di Dio in particolare
 
 **169.** Che ci ordina il primo comandamento « Io sono il Signore Dio tuo: non avrai altro Dio fuori che me »?
 
@@ -126,7 +130,7 @@
 
 **192.** Perchè dobbiamo ubbidire ai superiori in autorità?
 
-*Dobbiamo ubbidire ai superiori in autorità perché «non c'è potestà se non da Dio;... pertanto chi resiste alla potestà resiste all'ordinamento di Dio ».*
+*Dobbiamo ubbidire ai superiori in autorità perché «non c'è potestà se non da Dio;... pertanto chi resiste alla potestà resiste all'ordinamento di Dio » (Rm. XIII, 1-2).*
 
 **193.** Che ci proibisce il quinto comandamento « non ammazzare »?
 
@@ -154,7 +158,7 @@
 
 **199.** Lo scandalo è peccato grave?
 
-*Lo scandalo è peccato gravissimo, e Dio domanderà conto del male che si fa commettere ad altri con perfidi eccitamenti e con cattivi esempi: « guai, all'uomo per colpa del quale viene lo scandalo ».*
+*Lo scandalo è peccato gravissimo, e Dio domanderà conto del male che si fa commettere ad altri con perfidi eccitamenti e con cattivi esempi: « guai, all'uomo per colpa del quale viene lo scandalo » (Mt. XVIII, 7).*
 
 **200.** Che ci ordina il quinto comandamento?
 
@@ -206,4 +210,4 @@
 
 **212.** Che ci ordina il decimo comandamento?
 
-*Il decimo comandamento ci ordina di essere giusti e moderati nel desiderio di migliorare la propria condizione, e di soffrire con pazienza le strettezze e le altre miserie permesse dal Signore a nostro merito, poichè "al regno di Dio dobbiamo arrivare per via di molte tribolazioni".*
+*Il decimo comandamento ci ordina di essere giusti e moderati nel desiderio di migliorare la propria condizione, e di soffrire con pazienza le strettezze e le altre miserie permesse dal Signore a nostro merito, poichè "al regno di Dio dobbiamo arrivare per via di molte tribolazioni" (At. XIV, 22).*

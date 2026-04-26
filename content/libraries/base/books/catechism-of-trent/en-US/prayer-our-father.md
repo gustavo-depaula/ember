@@ -32,8 +32,8 @@ providence, and redemption.
 
 ### God Is Called Father Because He Created Us
 
-Thus having created man to His own image  a favour He
-accorded to no other living creature  it is with good reason
+Thus having created man to His own image — a favour He
+accorded to no other living creature — it is with good reason
 that, in view of this unique privilege with which He has honoured
 man, Sacred Scripture calls God the Father of all men; not only
 of the faithful, but also of the unbelieving.

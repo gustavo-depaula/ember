@@ -136,7 +136,7 @@ necessarily be the most miserable of men. On this subject the
 Apostle is much more explicit in his Epistle to the
 Thessalonians: We glory in the churches of God, for your patience
 and faith, in all your persecutions and tribulations which you
-endure  for an example of the just judgment of God, that you
+endure — for an example of the just judgment of God, that you
 may be counted worthy of the kingdom of God, for which also you
 suffer; seeing it is a just thing with God to repay tribulation
 to them that trouble you; and to you who are troubled, rest with

@@ -316,7 +316,6 @@ Desta forma, eles verão os bens do Matrimônio avultarem, dia a dia, com o aume
 [^12]: Para serem válidos, os esponsais devem ser feitos em termo escrito, assinado pelas partes, pelo pároco ou pelo Ordinário do lugar, ou, na falta de ambos, por duas testemunhas (CIC cân. 1017 § 1).
 [^13]: Isto, suppositis supponendis, com muita reserva, quanto à liberdade do consentimento.
 [^14]: Ambros. De institut. virginum 6, 42.
-[^15]: 1 Cor 15, 46.
 [^16]: Gn 1, 27-28.
 [^17]: Gn 2, 18.
 [^18]: Gn 2, 20 ss. Cfr. Eph 5, 31.
@@ -360,7 +359,6 @@ Desta forma, eles verão os bens do Matrimônio avultarem, dia a dia, com o aume
 [^56]: Eph 6, 4.
 [^57]: Tob 4, 1 ss; Job 1, 5.
 [^58]: Esta explicação tem mais cabimento no texto original, por causa da noção de "fides". Em latim, pode ser "fé" e "fidelidade".
-[^59]: Mt 19, 5; Eph 5, 31.
 [^60]: Gn 2, 24.
 [^61]: 1 Cor 7, 4.
 [^62]: Lev 20, 10.
