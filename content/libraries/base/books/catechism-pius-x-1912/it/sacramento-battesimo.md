@@ -14,7 +14,7 @@
 
 **293.** Chi è ministro del Battesimo?
 
-*Ministro del Battesimo è, d'ordinario, il sacerdote, ma, in caso di necessità, può essere chiunque, anche un eretico o infedele, purchè abbia l'intenzione dì fare ciò che fa la Chiesa.*
+*Ministro del Battesimo è, d'ordinario, il sacerdote, ma, in caso di necessità, può essere chiunque, anche un eretico o infedele, purchè abbia l'intenzione di fare ciò che fa la Chiesa.*
 
 **294.** Come si dà il Battesimo?
 
@@ -22,7 +22,7 @@
 
 **295.** Quali effetti produce il Battesimo?
 
-*Il Battesimo conferisce la prima grazia santificante e le virtù soprannaturali, togliendo il peccato originale e gli attuali, se vi sono, con ogni debito di pena per essi dovuta; imprima il carattere di cristiano e rende capace di ricevere gli altri sacramenti.*
+*Il Battesimo conferisce la prima grazia santificante e le virtù soprannaturali, togliendo il peccato originale e gli attuali, se vi sono, con ogni debito di pena per essi dovuta; imprime il carattere di cristiano e rende capace di ricevere gli altri sacramenti.*
 
 **296.** Il Battesimo trasforma l'uomo?
 
@@ -54,4 +54,4 @@
 
 **303.** I genitori o chi ne tiene il luogo, quando debbono mandare il bambino al Battesimo?
 
-*I genitori o chi ne tiene il luogo, debbono mandare il bambino al Battesimo non più tardi di otto o dieci giorni; anzi conviene assicurargli subito la grazia e la felicità eterna, potendo egli molto facilmente morire*
+*I genitori o chi ne tiene il luogo, debbono mandare il bambino al Battesimo non più tardi di otto o dieci giorni; anzi conviene assicurargli subito la grazia e la felicità eterna, potendo egli molto facilmente morire.*

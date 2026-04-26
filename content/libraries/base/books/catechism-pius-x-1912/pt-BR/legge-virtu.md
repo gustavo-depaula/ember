@@ -1,5 +1,7 @@
 # Parte II, Capítulo III — Virtudes
 
+## § 1. Virtudes em Geral — Virtudes Teologais
+
 **227.** O que é a virtude?
 
 *A virtude é uma constante disposição da alma para fazer o bem.*
@@ -19,6 +21,8 @@
 **231.** Dentre as virtudes sobrenaturais qual é a mais excelente?
 
 *Dentre as virtudes sobrenaturais a mais excelente é a Caridade, pois é inseparável da graça santificante, nos une intimamente a Deus e ao próximo, nos move à perfeita observância da Lei e a toda boa obra, e não cessará nunca: nela está a perfeição cristã.*
+
+## Fé
 
 **232.** O que é a Fé?
 
@@ -44,11 +48,11 @@
 
 *Não basta crer em geral nas verdades reveladas por Deus, mas algumas, isto é, a existência de Deus remunerador e os dois mistérios principais, devem-se crer também com expresso ato de Fé.*
 
-*237 a. Os dois principais mistério da Fé: 1. Unidade e Trindade de Deus; 2. Encarnação, Paixão e Morte de Nosso Senhor Jesus Cristo.*
+*237 a. Os dois principais mistérios da Fé: 1. Unidade e Trindade de Deus; 2. Encarnação, Paixão e Morte de Nosso Senhor Jesus Cristo.*
 
 **238.** O que é a Esperança?
 
-*A Esperança é a virtude sobrenatural pela qual confiamos em Deus e dele esperamos a vida e as graças necessárias para merecê-la aqui embaixo com as boas obras.*
+*A Esperança é a virtude sobrenatural pela qual confiamos em Deus e dele esperamos a vida eterna e as graças necessárias para merecê-la aqui embaixo com as boas obras.*
 
 **239.** Por qual motivo esperamos de Deus a vida eterna e as graças necessárias para merecê-la?
 
@@ -64,7 +68,7 @@
 
 **242.** Por que devemos amar o próximo?
 
-*Devemos amar o próximo por amor a Deus que no-lo ordena, e porque todo homem é criado à imagem e semelhança de Deus, como nós, e é nosso irmão.*
+*Devemos amar o próximo por amor a Deus que no-lo ordena, e porque todo homem é criado à imagem de Deus, como nós, e é nosso irmão.*
 
 **243.** Somos obrigados a amar inclusive os nossos inimigos?
 
@@ -72,11 +76,11 @@
 
 **244.** Quando devemos fazer atos de Fé, Esperança e Caridade?
 
-*Devemos fazer atos de Fé Esperança e Caridade muitas vezes na vida e, em particular, quando tivermos tentações a vencer ou importantes deveres cristãos a cumprir, e nos perigos de morte.*
+*Devemos fazer atos de Fé, Esperança e Caridade muitas vezes na vida e, em particular, quando tivermos tentações a vencer ou importantes deveres cristãos a cumprir, e nos perigos de morte.*
 
 **245.** É bom fazer muitas vezes atos de Fé, Esperança e Caridade?
 
-*É bom fazer muitas vezes atos de Fé, Esperança e Caridade, para conservar, aumentar e refortalecer virtudes tão necessárias, que são como partes vitais do "homem espiritual".*
+*É bom fazer muitas vezes atos de Fé, Esperança e Caridade, para conservar, aumentar e fortalecer virtudes tão necessárias, que são como partes vitais do "homem espiritual".*
 
 **246.** Como devemos fazer atos de Fé, Esperança e Caridade?
 
@@ -84,7 +88,7 @@
 
 **247.** Como se dá prova da Fé?
 
-*Dá-se prova da Fé confessando-a e defendendo-a, quando necessário, sem temor e sem respeito humano, e vivendo segundo as suas máximas: "...a Fé sem obras é morta" (São Tiago II. 26).*
+*Dá-se prova da Fé confessando-a e defendendo-a, quando necessário, sem temor e sem respeito humano, e vivendo segundo as suas máximas: "a Fé sem obras é morta" (São Tiago II. 26).*
 
 **248.** Como se dá prova da Esperança?
 
@@ -100,11 +104,13 @@
 
 **250.** O que são os Conselhos Evangélicos?
 
-*Os Conselhos Evangélicos são exortações que Jesus Cristo fez no Evangelho a uma vida mais perfeita, mediante a prática de virtudes não ordenadas.*
+*Os Conselhos Evangélicos são exortações que Jesus Cristo fez no Evangelho a uma vida mais perfeita, mediante a prática de virtudes não comandadas.*
 
 **251.** Quais são os principais Conselhos Evangélicos?
 
 *Os principais Conselhos Evangélicos são: a pobreza voluntária, a castidade perpétua e a obediência perfeita.*
+
+## § 3. Virtudes Morais e Vícios — Bem-Aventuranças Evangélicas
 
 **252.** O que é a virtude moral?
 
@@ -112,7 +118,7 @@
 
 **253.** Quais são as principais virtudes morais?
 
-*As principais virtudes morais são: A religião que nos faz render a Deus o culto devido, e as quatro virtudes cardeais, prudência, justiça, fortaleza e temperança, que nos faz honestos no viver.*
+*As principais virtudes morais são: A religião que nos faz render a Deus o culto devido, e as quatro virtudes cardeais, prudência, justiça, fortaleza e temperança, que nos fazem honestos no viver.*
 
 **254.** Por que as virtudes cardeais são assim chamadas?
 
@@ -160,10 +166,10 @@
 
 *"Bem-Aventurados os pobres de espírito, porque deles é o reino dos céus. Bem-Aventurados os mansos, porque possuirão a Terra. Bem-Aventurados os que choram, porque serão consolados. Bem-Aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-Aventurados os misericordiosos, porque alcançarão misericórdia. Bem-Aventurados os puros de coração, porque verão a Deus. Bem-Aventurados os pacíficos, porque serão chamados filhos de Deus. Bem-Aventurados os que sofrem perseguição por amor da justiça, porque deles é o reino dos Céus" (São Mateus V. 3-10)*
 
-**265.** Por que Jesus Cristo, nas Bem-Aventuranças Evangélicas, chamou "Bem-Aventuranças", contrariamente à opinião do mundo, às pessoas humildes e atribuladas?
+**265.** Por que Jesus Cristo, nas Bem-Aventuranças Evangélicas, chamou bem-aventuradas, contrariamente à opinião do mundo, as pessoas humildes e atribuladas?
 
-*Jesus Cristo, nas Bem-Aventuranças Evangélicas, chamou "Bem-Aventuranças", contrariamente à opinião do mundo, as pessoas humildes e atribuladas porque terão um prêmio especial de Deus, e nos ensinou como imitá-lo, sem nos preocupar com as falácias máximas do mundo.*
+*Jesus Cristo, nas Bem-Aventuranças Evangélicas, chamou bem-aventuradas, contrariamente à opinião do mundo, as pessoas humildes e atribuladas porque terão um prêmio especial de Deus, e nos ensinou também a imitá-las, sem nos preocupar com as falsas máximas do mundo.*
 
 **266.** Podem ser verdadeiramente felizes os que seguem as máximas do mundo?
 
-*Os que seguem as máximas do mundo não podem ser verdadeiramente felizes, pois não procuram a Deus, seu Senhor e sua verdadeira felicidade, é assim não têm paz de consciência e caminham para a perdição.*
+*Os que seguem as máximas do mundo não podem ser verdadeiramente felizes, pois não procuram a Deus, seu Senhor e sua verdadeira felicidade, e assim não têm paz de consciência e caminham para a perdição.*

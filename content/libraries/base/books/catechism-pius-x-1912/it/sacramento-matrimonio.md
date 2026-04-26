@@ -2,7 +2,7 @@
 
 **406.** Che cos'è il « Matrimonio »?
 
-*Il Matrimonio è il sacramento che unisce l'uomo e la donna indissolubilmente, come sono uniti Gesù Cristo e la Chiesa sua sposa, e dà loro la grazia. di santamente convivere e di educare cristianamente i figliuoli.*
+*Il Matrimonio è il sacramento che unisce l'uomo e la donna indissolubilmente, come sono uniti Gesù Cristo e la Chiesa sua sposa, e dà loro la grazia di santamente convivere e di educare cristianamente i figliuoli.*
 
 **407.** Chi è ministro del Matrimonio?
 

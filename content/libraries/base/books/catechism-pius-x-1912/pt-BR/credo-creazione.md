@@ -4,7 +4,7 @@
 
 *Deus é chamado Criador do Céu e da Terra, ou seja, do Mundo, porque o fez do nada, e fazer do nada é criar.*
 
-**52.** O Mundo todo e obra de Deus?
+**52.** O Mundo todo é obra de Deus?
 
 *O Mundo todo é obra de Deus; e, na sua grandeza, beleza e ordem maravilhosas, mostra-nos o poder, a sabedoria e a bondade infinitos dele.*
 
@@ -20,7 +20,7 @@
 
 *É pela Fé que sabemos que existem puros espíritos criados.*
 
-**56.** Quais puros espíritos criados a Fé nos fazer conhecer?
+**56.** Quais puros espíritos criados a Fé nos faz conhecer?
 
 *A Fé nos faz conhecer os puros espíritos bons, ou seja, os Anjos, e os maus, ou seja, os demônios.*
 
@@ -42,7 +42,7 @@
 
 **61.** O que é a alma?
 
-*A alma é a parte espiritual do homem, pela qual ele vive, entende e é livre, e por isso capaz de conhecer, amar e cuidar servir a Deus.*
+*A alma é a parte espiritual do homem, pela qual ele vive, entende e é livre, e por isso capaz de conhecer, amar e servir a Deus.*
 
 **62.** A alma do homem morre com o corpo?
 
@@ -54,7 +54,7 @@
 
 **64.** Como o homem é livre?
 
-*O homem é livre, visto que pode fazer uma coisa e não fazê-la, ou fazer antes esta àquela outra, como bem sentimos em nós mesmos.*
+*O homem é livre, visto que pode fazer uma coisa e não fazê-la, ou fazer antes esta do que aquela outra, como bem sentimos em nós mesmos.*
 
 **65.** Se é livre, o homem pode também fazer o mal?
 
@@ -82,7 +82,7 @@
 
 **71.** Quais danos causou o pecado de Adão?
 
-*O pecado de Adão despojou-o a ele e a todos os homens da graça e de todo outro dom de sobrenatural, tornando-os sujeitos ao pecado, ao demônio, à morte, à ignorância, às más inclinações e a toda outra miséria, e excluindo-os do Paraíso.*
+*O pecado de Adão despojou-o a ele e a todos os homens da graça e de todo outro dom sobrenatural, tornando-os sujeitos ao pecado, ao demônio, à morte, à ignorância, às más inclinações e a toda outra miséria, e excluindo-os do Paraíso.*
 
 **72.** Como se chama o pecado ao qual sujeitou Adão os homens com sua culpa?
 

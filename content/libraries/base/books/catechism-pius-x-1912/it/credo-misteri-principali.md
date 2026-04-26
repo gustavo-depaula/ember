@@ -28,9 +28,9 @@
 
 *Nel segno della Croce, con le parole esprimiamo l'Unità e Trinità di Dio, e con la figura della croce la Passione e la Morte del Nostro Signor Gesù Cristo.*
 
-**35.** E' utile fare il segno della Croce?
+**35.** È utile fare il segno della Croce?
 
-*E' utilissimo fare il segno della Croce spesso e devotamente, perchè è atto esterno di fede, che ravviva in noi questa virtù, vince il rispetto umano e le tentazioni, e ci ottiene grazie da Dio.*
+*È utilissimo fare il segno della Croce spesso e devotamente, perchè è atto esterno di fede, che ravviva in noi questa virtù, vince il rispetto umano e le tentazioni, e ci ottiene grazie da Dio.*
 
 **36.** Quando è bene fare il segno della Croce?
 

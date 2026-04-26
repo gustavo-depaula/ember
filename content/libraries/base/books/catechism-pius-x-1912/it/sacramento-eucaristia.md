@@ -10,9 +10,9 @@
 
 **318.** Qual è la forma dell'Eucaristia?
 
-*Forma dell'Eucaristia sono le parole di Gesù Cristo Questo è il Corpo mio; questo è il Calice del Sangue mio... sparso per voi e per molti a remissione dei peccati*
+*Forma dell'Eucaristia sono le parole di Gesù Cristo Questo è il Corpo mio; questo è il Calice del Sangue mio... sparso per voi e per molti a remissione dei peccati.*
 
-**319.** Chi è ministrò dell'Eucaristia?
+**319.** Chi è ministro dell'Eucaristia?
 
 *Ministro dell'Eucaristia è il sacerdote il quale, pronunziando nella Messa le parole di Gesù Cristo, cambia il pane nel Corpo e il vino nel Sangue di Lui.*
 
@@ -30,7 +30,7 @@
 
 **323.** Perchè credete voi che Gesù Cristo è veramente nell'Eucaristia?
 
-*Credo che Gesù Cristo è veramente nell'Eucaristia, perchè Egli stesso disse Corpo e Sangue suo il pane e il vino consacrato, e perché così c'insegna la Chiesa; ma è un mistero, e grande mistero,*
+*Credo che Gesù Cristo è veramente nell'Eucaristia, perchè Egli stesso disse Corpo e Sangue suo il pane e il vino consacrato, e perché così c'insegna la Chiesa; ma è un mistero, e grande mistero.*
 
 **324.** Che cos'è l'ostia prima della consacrazione?
 
@@ -58,7 +58,7 @@
 
 **330.** Che cosa sono le specie o apparenze?
 
-*Le specie o apparenze sono tutto ciò che cade sotto i sensi, come la figura, i1 colore, l'odore, il sapore del pane e del vino.*
+*Le specie o apparenze sono tutto ciò che cade sotto i sensi, come la figura, il colore, l'odore, il sapore del pane e del vino.*
 
 **331.** Sotto le apparenze del pane c'è solo il Corpo di Gesù Cristo, o sotto quelle del vino c'è solo il suo Sangue?
 
@@ -96,7 +96,7 @@
 
 *Prima della comunione si richiede il digiuno naturale ossia totale, che si rompe con qualunque cosa presa a modo di cibo o di bevanda.*
 
-**340.** E' permessa mai la comunione a chi non è digiuno?
+**340.** È permessa mai la comunione a chi non è digiuno?
 
 *La comunione a chi non è digiuno, è permessa in pericolo di morte, e durante le lunghe malattie, nelle condizioni determinate dalla Chiesa.*
 
@@ -108,9 +108,9 @@
 
 *L'obbligo della comunione pasquale comincia all'età in cui si è capaci di farla con sufficienti disposizioni, cioè, d'ordinario, circa i sette anni.*
 
-**343.** E' cosa buona e utile comunicarsi spesso?
+**343.** È cosa buona e utile comunicarsi spesso?
 
-*E' cosa ottima e utilissima comunicarsi spesso, anche tutti i giorni, purchè si faccia sempre con le dovute disposizioni.*
+*È cosa ottima e utilissima comunicarsi spesso, anche tutti i giorni, purchè si faccia sempre con le dovute disposizioni.*
 
 **344.** Dopo la comunione, quanto tempo resta in noi Gesù Cristo?
 
@@ -140,9 +140,9 @@
 
 *Tra il sacrificio della Croce e quello della Messa c'è questa differenza, che Gesù Cristo, sulla Croce si sacrificò dando volontariamente il proprio Sangue, e meritò ogni grazia per noi; invece sull'altare Egli, senza spargere sangue, si sacrifica e si annienta misticamente pel ministero del sacerdote, e ci applica i meriti del sacrificio della Croce.*
 
-**351.** Per quali. fini si offre a Dio la Messa?
+**351.** Per quali fini si offre a Dio la Messa?
 
-*La Messa si offre a Dio per rendergli il culto supremo di latria o adorazione, per ringraziarlo de' suoi benefizi, per placarlo è dargli soddisfazione dei nostri peccati, e per ottener grazie, a vantaggio dei fedeli vivi e defunti.*
+*La Messa si offre a Dio per rendergli il culto supremo di latria o adorazione, per ringraziarlo de' suoi benefizi, per placarlo e dargli soddisfazione dei nostri peccati, e per ottener grazie, a vantaggio dei fedeli vivi e defunti.*
 
 **352.** La Messa non si offre anche ai Santi?
 

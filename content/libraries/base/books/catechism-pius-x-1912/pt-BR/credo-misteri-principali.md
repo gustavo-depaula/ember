@@ -10,9 +10,9 @@
 
 **30.** O que é mistério?
 
-*Mistério é uma verdade superior mas não contrário à razão que cremos porque Deus a revelou.*
+*Mistério é uma verdade superior mas não contrária à razão, que cremos porque Deus a revelou.*
 
-**31.** Quais sãos os principais mistérios da Fé professados no Credo?
+**31.** Quais são os principais mistérios da Fé professados no Credo?
 
 *Os principais mistérios da Fé professados no Credo são dois: Unidade e Trindade de Deus; Encarnação, Paixão e Morte de Nosso Senhor Jesus Cristo.*
 
@@ -30,7 +30,7 @@
 
 **35.** É útil fazer o Sinal da Cruz?
 
-*É utilíssimo fazer o Sinal da Cruz muitas vezes e devotamente, pois é ato externo de Fé que reaviva em nós essa virtude, vence o respeito humano e as tentações, e obtém-nos a graça de Deus.*
+*É utilíssimo fazer o Sinal da Cruz muitas vezes e devotamente, pois é ato externo de Fé que reaviva em nós essa virtude, vence o respeito humano e as tentações, e obtém-nos as graças de Deus.*
 
 **36.** Quando é bom fazer o Sinal da Cruz?
 

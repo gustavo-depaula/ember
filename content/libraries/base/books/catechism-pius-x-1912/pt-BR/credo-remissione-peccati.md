@@ -14,7 +14,7 @@
 
 **131.** Existe grave prejuízo em estar fora da Igreja?
 
-*Existe gravíssimo prejuízo em estar fora da Igreja porque fora dela não há nem os meios de salvação eterna nem a guia segura para esta, que é a única coisa verdadeiramente necessária para o homem.*
+*Existe gravíssimo prejuízo em estar fora da Igreja porque fora dela não há nem os meios estabelecidos nem a guia segura para a salvação eterna, que é a única coisa verdadeiramente necessária para o homem.*
 
 **132.** Quem está fora da Igreja se salva?
 
@@ -82,7 +82,7 @@
 
 **148.** O que é o pecado venial?
 
-*O pecado venial é desobediência à lei de Deus em coisa leve ou mesmo em coisa de si grave, mas em advertência ou consentimento plenos.*
+*O pecado venial é desobediência à lei de Deus em coisa leve ou mesmo em coisa de si grave, mas sem plena advertência e consentimento.*
 
 **149.** Por que o pecado não grave se chama venial?
 
@@ -100,7 +100,7 @@
 
 *Os pecados contra o Espírito Santo e os que clamam vingança diante de Deus.*
 
-*152 a. Os Seis Pecados Contra o Espírito Santo: 1. Desespero da salvação; 2. Presunção de salvar-se sem mérito; 3. Impugnara verdade conhecida; 4. Inveja das graças alheias; 5. Obstinação nos pecados; 6. Impenitência final.*
+*152 a. Os Seis Pecados Contra o Espírito Santo: 1. Desespero da salvação; 2. Presunção de salvar-se sem mérito; 3. Impugnar a verdade conhecida; 4. Inveja das graças alheias; 5. Obstinação nos pecados; 6. Impenitência final.*
 
 *152 b. Os Quatro Pecados que Clamam Vingança Diante de Deus: 1. Homicídio voluntário; 2. Pecado impuro contra a natureza; 3. Oprimir os pobres; 4. Defraudar o salário ao trabalhador.*
 

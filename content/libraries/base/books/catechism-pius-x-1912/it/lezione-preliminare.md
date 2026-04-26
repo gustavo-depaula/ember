@@ -34,7 +34,7 @@
 
 **9.** Dio sa tutto?
 
-*Dio sa tutto, anche i nostri pensieri: Egli è l'Onnisciente*
+*Dio sa tutto, anche i nostri pensieri: Egli è l'Onnisciente.*
 
 **10.** Dio può far tutto?
 
@@ -46,9 +46,11 @@
 
 **12.** Dio ha cura delle cose create?
 
-*Dio ha cura e provvidenza delle cose create, e le conserva e dirige tutte al proprio fine, con sapienza, bontà' e giustizia infinita.*
+*Dio ha cura e provvidenza delle cose create, e le conserva e dirige tutte al proprio fine, con sapienza, bontà e giustizia infinita.*
 
-**13.** Per qual fine Dio ci ha creati? _ Dio ci ha creati per conoscerlo, amarlo e servirlo in questa vita, e per goderlo poi nell'altra, in paradiso.
+**13.** Per qual fine Dio ci ha creati?
+
+*Dio ci ha creati per conoscerlo, amarlo e servirlo in questa vita, e per goderlo poi nell'altra, in paradiso.*
 
 **14.** Che cos'è il paradiso?
 
@@ -56,7 +58,7 @@
 
 **15.** Chi merita il paradiso?
 
-*Merita il paradiso chi è buono, ossia chi ama e serve fedelmente, Dio, e muore nella sua grazia.*
+*Merita il paradiso chi è buono, ossia chi ama e serve fedelmente Dio, e muore nella sua grazia.*
 
 **16.** I cattivi che non servono Dio e muoiono in peccato mortale, che cosa meritano?
 
@@ -96,12 +98,12 @@
 
 **25.** Perchè il Figliuolo di Dio si fece uomo?
 
-*Il Figliuolo di Dio si fece, uomo per salvarci, cioè per redimerci dal peccato e riacquistarci il paradiso.*
+*Il Figliuolo di Dio si fece uomo per salvarci, cioè per redimerci dal peccato e riacquistarci il paradiso.*
 
 **26.** Che fece Gesù Cristo per salvarci?
 
-*Gesù Cristo per salvarci soddisfece per i nostri peccati patendo sacrificando se stesso sulla Croce, e c'insegnò a vivere secondo Dio.*
+*Gesù Cristo per salvarci soddisfece per i nostri peccati patendo, sacrificando se stesso sulla Croce, e c'insegnò a vivere secondo Dio.*
 
 **27.** Per vivere secondo Dio, che cosa dobbiamo fare?
 
-*Per vivere secondo Dio, dobbiamo CREDERE LE VERITA RIVELATE da Lui e OSSERVARE I SUOI COMANDAMENTI, con l'aiuto della sua GRAZIA, che si ottiene mediante I SACRAMENTI e L'ORAZIONE.*
+*Per vivere secondo Dio, dobbiamo CREDERE LE VERITÀ RIVELATE da Lui e OSSERVARE I SUOI COMANDAMENTI, con l'aiuto della sua GRAZIA, che si ottiene mediante I SACRAMENTI e L'ORAZIONE.*

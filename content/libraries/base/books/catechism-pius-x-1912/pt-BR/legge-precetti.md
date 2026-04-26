@@ -16,7 +16,7 @@
 
 *O Primeiro Preceito "ouvir Missa no domingo e nas outras festas de Preceito" nos ordena assistir devotamente em tais dias à Santa Missa.*
 
-**217.** Quem não ouve a Missa nos dias comete pecado grave?
+**217.** Quem não ouve a Missa nos dias de Preceito, comete pecado grave?
 
 *Quem, sem verdadeiro impedimento, não ouve a Missa nos dias de Preceito, e quem não dá meios a seus dependentes de ouvi-la, comete pecado grave e não cumpre o Mandamento divino de santificar as festas.*
 
@@ -24,7 +24,7 @@
 
 *O Segundo Preceito com as palavras "não comer carne às sextas-feiras e nos dias proibidos" nos proíbe comer carne às sextas-feiras (dia da Paixão e Morte de Jesus Cristo) e em alguns dias de jejum.*
 
-*218 a. Os cinco preceitos gerais da Igreja: 1. Ouvir Missa inteira no domingo e nas outras festas de preceito; 2. Abster-se de carne às sextas-feiras e nos outros dias proibidos, e jejuar nos dias de prescritos; 3. Confessar ao menos uma vez por ano, e comungar pelo menos na Páscoa; 4. Sustentar as necessidades da Igreja contribuindo segundos as leis ou os costumes; 5. Não celebrar solenemente as núpcias nos tempos proibidos. Segundo o Terceiro Catecismo da Doutrina Cristã: 1. Ouvir Missa inteira nos domingos e festas de guarda; 2. Confessar-se uma vez cada ano; 3. Comungar ao menos pela Páscoa da Ressurreição; 4. Jejuar e abster-se de carne quando manda a Santa Madre Igreja; 5. Pagar dízimos segundo o costume.*
+*218 a. Os cinco preceitos gerais da Igreja: 1. Ouvir Missa inteira no domingo e nas outras festas de preceito; 2. Abster-se de carne às sextas-feiras e nos outros dias proibidos, e jejuar nos dias de prescritos; 3. Confessar ao menos uma vez por ano, e comungar pelo menos na Páscoa; 4. Sustentar as necessidades da Igreja contribuindo segundo as leis ou os costumes; 5. Não celebrar solenemente as núpcias nos tempos proibidos. Segundo o Terceiro Catecismo da Doutrina Cristã: 1. Ouvir Missa inteira nos domingos e festas de guarda; 2. Confessar-se uma vez cada ano; 3. Comungar ao menos pela Páscoa da Ressurreição; 4. Jejuar e abster-se de carne quando manda a Santa Madre Igreja; 5. Pagar dízimos segundo o costume.*
 
 **219.** O que ordena o Segundo Preceito com as palavras "jejuar nos dias prescritos"?
 
@@ -50,9 +50,9 @@
 
 *A Igreja, impondo confessar e comungar uma vez por ano acrescenta as palavras "ao menos" para recordar-nos a utilidade, aliás, a necessidade de receber frequentemente, como é de seu desejo esses sacramentos.*
 
-**225.** O que nos ordena o Quarto Preceito "sustentar as necessidades da Igreja contribuindo segundos as leis ou os costumes"?
+**225.** O que nos ordena o Quarto Preceito "sustentar as necessidades da Igreja contribuindo segundo as leis ou os costumes"?
 
-*O Quarto Preceito "sustentar as necessidades da Igreja contribuindo segundos as leis ou os costumes" nos ordena fazer as ofertas estabelecidas pela autoridade ou pelo uso, para o conveniente exercício do culto e para o honesto sustento dos ministros de Deus.*
+*O Quarto Preceito "sustentar as necessidades da Igreja contribuindo segundo as leis ou os costumes" nos ordena fazer as ofertas estabelecidas pela autoridade ou pelo uso, para o conveniente exercício do culto e para o honesto sustento dos ministros de Deus.*
 
 **226.** O que nos proíbe o Quinto Preceito "Não celebrar solenemente as núpcias nos tempos proibidos"?
 

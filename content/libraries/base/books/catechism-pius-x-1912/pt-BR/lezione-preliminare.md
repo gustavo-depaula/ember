@@ -22,7 +22,7 @@
 
 **6.** Deus tem corpo como nós?
 
-*Deus não tem corpo, mas é puríssimo espirito.*
+*Deus não tem corpo, mas é puríssimo espírito.*
 
 **7.** Onde Deus está?
 
@@ -78,7 +78,7 @@
 
 **20.** Como se chamam as três Pessoas da Santíssima Trindade?
 
-*As três Pessoas da Santíssima Trindade chama-se Pai, Filho e Espírito Santo.*
+*As três Pessoas da Santíssima Trindade chamam-se Pai, Filho e Espírito Santo.*
 
 **21.** Das três Pessoas da Santíssima Trindade, alguma se encarnou e se fez homem?
 
@@ -106,4 +106,4 @@
 
 **27.** Para vivermos em conformidade com Deus, o que devemos fazer?
 
-*Para vivermos em conformidade com Deus, devemos CRER NAS VERDADES REVELADAS por Ele e OBSERVAR SEUS MANDAMENTOS, com o auxílio de sua graça, que se obtém mediante OS SACRAMENTOS e A ORAÇÃO.*
+*Para vivermos em conformidade com Deus, devemos CRER NAS VERDADES REVELADAS por Ele e OBSERVAR SEUS MANDAMENTOS, com o auxílio de sua GRAÇA, que se obtém mediante OS SACRAMENTOS e A ORAÇÃO.*

@@ -6,7 +6,7 @@
 
 **38.** O que significa "Trindade de Deus"?
 
-*Trindade de Deus significa que em Deus existe três Pessoas iguais e realmente distintas: Pai, Filho e Espírito Santo.*
+*Trindade de Deus significa que em Deus existem três Pessoas iguais e realmente distintas: Pai, Filho e Espírito Santo.*
 
 **39.** O que significa "três Pessoas realmente distintas"?
 
@@ -30,7 +30,7 @@
 
 **44.** Por que o Pai é a Primeira Pessoa da Santíssima Trindade?
 
-*O Pai é a Primeira Pessoa da Santíssima Trindade porque não procede de outra Pessoa e dele procedem às outras duas, isto é, o Filho e o Espírito Santo.*
+*O Pai é a Primeira Pessoa da Santíssima Trindade porque não procede de outra Pessoa e dele procedem as outras duas, isto é, o Filho e o Espírito Santo.*
 
 **45.** Por que o Filho é a Segunda Pessoa da Santíssima Trindade?
 

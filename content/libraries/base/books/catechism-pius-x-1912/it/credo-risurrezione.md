@@ -16,6 +16,6 @@
 
 *Vita eterna significa che il premio, come la pena, durerà in eterno, e che la vista di Dio sarà la vera vita e felicità dell'anima, mentre la privazione di Lui sarà la massima infelicità e come una morte eterna.*
 
-**160.** Che signifîca la parola « Amen »?
+**160.** Che significa la parola « Amen »?
 
 *La parola Amen significa in verità, così è e così sia; e con essa confermiamo esser vero tutto quello che confessiamo nel Credo, e ci auguriamo la remissione dei peccati, la risurrezione alla gloria e la vita eterna in Dio.*

@@ -14,7 +14,7 @@
 
 **395.** Che effetti produce l'Estrema Unzione?
 
-*L'Estrema Unzione accresce la grazia santificante; cancella i peccati veniali, e anche i mortali che l'infermo, attrito, non potesse confessare; dà forza per sopportare pazientemente il male, resistere alle tentazioni e morire santamente, e aiuta anche a ricuperare, la sanità, se è bene per l'anima.*
+*L'Estrema Unzione accresce la grazia santificante; cancella i peccati veniali, e anche i mortali che l'infermo, attrito, non potesse confessare; dà forza per sopportare pazientemente il male, resistere alle tentazioni e morire santamente, e aiuta anche a ricuperare la sanità, se è bene per l'anima.*
 
 **396.** Quando si può dare l'Olio santo?
 

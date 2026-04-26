@@ -18,7 +18,7 @@
 
 **109.** Por que a Igreja é Santa?
 
-*A Igreja é Santa porque são Santos Jesus Cristo, sua cabeça invisível, e o Espírito que a vivifica; porque nela é santa a doutrina, o sacrifício e os sacramentos, e todos são chamados a santificarem-se; é porque muitos realmente foram, são e serão Santos.*
+*A Igreja é Santa porque são Santos Jesus Cristo, sua cabeça invisível, e o Espírito que a vivifica; porque nela são santos a doutrina, o sacrifício e os sacramentos, e todos são chamados a santificarem-se; e porque muitos realmente foram, são e serão Santos.*
 
 **110.** Por que a Igreja é Católica?
 
@@ -46,7 +46,7 @@
 
 **116.** O Papa sozinho pode errar ao ensinar-nos as verdades reveladas por Deus?
 
-*O Papa sozinho não pode errar ao ensinar-nos as verdades reveladas por Deus, ou seja, é infalível como a Igreja quando, como Pastor e Mestre de todos cristãos, define doutrinas sobre a Fé e os costumes.*
+*O Papa sozinho não pode errar ao ensinar-nos as verdades reveladas por Deus, ou seja, é infalível como a Igreja quando, como Pastor e Mestre de todos os cristãos, define doutrinas sobre a Fé e os costumes.*
 
 **117.** Fora da Católica Romana, pode outra Igreja ser a Igreja de Jesus Cristo ou ao menos parte dela?
 
@@ -70,11 +70,11 @@
 
 **122.** O que significa "comunhão dos Santos"?
 
-*Comunhão dos Santos significa que todos os fiéis, formando um só Corpo em Jesus Cristo, aproveitam-se de todo o bem que existe e se faz no próprio Corpo, ou seja, na Igreja universal, contanto que não estejam impedidos pelo o afeto ao pecado.*
+*Comunhão dos Santos significa que todos os fiéis, formando um só Corpo em Jesus Cristo, aproveitam-se de todo o bem que existe e se faz no próprio Corpo, ou seja, na Igreja universal, contanto que não estejam impedidos pelo afeto ao pecado.*
 
 **123.** Os Bem-Aventurados do Paraíso e as almas do Purgatório participam da comunhão dos Santos?
 
-*Os Bem-Aventurados do Paraíso e as almas do Purgatório também eles participam da comunhão dos Santos porque estão unidos entre si e conosco pela caridade, recebem uns as nossas orações e os outros os nossos sufrágios, e todos nós retribuem com a sua intercessão junto a Deus.*
+*Os Bem-Aventurados do Paraíso e as almas do Purgatório também eles participam da comunhão dos Santos porque estão unidos entre si e conosco pela caridade, recebem uns as nossas orações e as outras os nossos sufrágios, e todos nos retribuem com a sua intercessão junto a Deus.*
 
 **124.** Quem está fora da comunhão dos Santos?
 

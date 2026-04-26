@@ -2,7 +2,7 @@
 
 **161.** Che cosa sono i comandamenti di Dio?
 
-*I comandamenti di. Dio o Decalogo sono le leggi morali che Dio nel Vecchio Testamento diede a Mosè sul monte Sinai, e Gesù Cristo perfezionò nel Nuovo.*
+*I comandamenti di Dio o Decalogo sono le leggi morali che Dio nel Vecchio Testamento diede a Mosè sul monte Sinai, e Gesù Cristo perfezionò nel Nuovo.*
 
 **162.** Che cosa c'impone il Decalogo?
 
@@ -10,7 +10,7 @@
 
 **163.** I nostri doveri verso Dio e verso il prossimo a che si riducono?
 
-*I nostri doveri verso Dio e verso il prossimo si riducono alla carità, cioè al "massimo e primo comandamento" dell'amor di Dio e a quello "simile" dell'amor del prossimo: "da questi due comandamenti, disse Gesù Cristo, dipende tutta la Legge e i Profeti "*
+*I nostri doveri verso Dio e verso il prossimo si riducono alla carità, cioè al "massimo e primo comandamento" dell'amor di Dio e a quello "simile" dell'amor del prossimo: "da questi due comandamenti, disse Gesù Cristo, dipende tutta la Legge e i Profeti".*
 
 **164.** Perchè il comandamento dell'amor di Dio è il massimo comandamento?
 
@@ -80,17 +80,17 @@
 
 *Il giuramento è chiamar Dio in testimonio di ciò che si afferma o che si promette; perciò chi giura il male e chi spergiura, offende sommamente Dio che è la Santità e la Verità.*
 
-**181.** E' grande peccato la bestemmia?
+**181.** È grande peccato la bestemmia?
 
 *La bestemmia è grande peccato, perchè ingiuria e scherno di Dio o de' suoi Santi, e spesso anche orribile eresia.*
 
 **182.** Che ci ordina il secondo comandamento?
 
-*Il secondo comandamento ci ordina di avere sempre riverenza per il nome santo dì Dio, e di adempiere i voti e le promesse giurate.*
+*Il secondo comandamento ci ordina di avere sempre riverenza per il nome santo di Dio, e di adempiere i voti e le promesse giurate.*
 
 **183.** Che cos'è il voto?
 
-*Il voto è la promessa fatta a Dìo di qualche bene a Lui gradito, al quale ci obblighiamo per religione.*
+*Il voto è la promessa fatta a Dio di qualche bene a Lui gradito, al quale ci obblighiamo per religione.*
 
 **184.** Che ci ordina il terzo comandamento « ricordati di santificare le feste »?
 
@@ -112,7 +112,7 @@
 
 *Nei giorni di festa sono proibite tutte le opere servili non necessarie alla vita e al servizio di Dio, e non giustificate dalla pietà o da altro grave motivo.*
 
-**189.** Come conviene, occupare i giorni di festa?
+**189.** Come conviene occupare i giorni di festa?
 
 *Conviene occupare i giorni di festa a bene dell'anima, frequentando la predica e il catechismo, e compiendo qualche opera buona e anche a riposo del corpo, lontani da ogni vizio e dissipazione.*
 
@@ -126,7 +126,7 @@
 
 **192.** Perchè dobbiamo ubbidire ai superiori in autorità?
 
-*Dobbiamo ubbidire ai superiori in autorità perché «non c'è potestà se non da Dio;... pertanto chi resiste alla potestà resiste all'ordinamento di Dio »*
+*Dobbiamo ubbidire ai superiori in autorità perché «non c'è potestà se non da Dio;... pertanto chi resiste alla potestà resiste all'ordinamento di Dio ».*
 
 **193.** Che ci proibisce il quinto comandamento « non ammazzare »?
 
@@ -134,7 +134,7 @@
 
 **194.** Perché è peccato il suicidio?
 
-*Il suicidio è peccato, come l'omicidio, perchèb Dio solo è padrone della nostra vita, come di quella del prossimo: inoltre è peccato di disperazione che, di più, toglie con la vita la possibilità di pentirsi e di salvarsi*
+*Il suicidio è peccato, come l'omicidio, perchè Dio solo è padrone della nostra vita, come di quella del prossimo: inoltre è peccato di disperazione che, di più, toglie con la vita la possibilità di pentirsi e di salvarsi.*
 
 **195.** La Chiesa ha stabilito pene contro il suicida?
 
@@ -154,7 +154,7 @@
 
 **199.** Lo scandalo è peccato grave?
 
-*Lo scandalo è peccato gravissimo, e Dio domanderà conto del male che si fa commettere ad altri con perfidi eccitamenti e con cattivi esempi: « guai, all'uomo per colpa del quale viene lo scandalo".*
+*Lo scandalo è peccato gravissimo, e Dio domanderà conto del male che si fa commettere ad altri con perfidi eccitamenti e con cattivi esempi: « guai, all'uomo per colpa del quale viene lo scandalo ».*
 
 **200.** Che ci ordina il quinto comandamento?
 
@@ -166,7 +166,7 @@
 
 **202.** Che ci ordina il sesto comandamento?
 
-*I I sesto comandamento ci ordina di essere « santi nel corpo », portando il massimo rispetto alla propria e all'altrui persona, come opere di Dio e templi dove Egli abita con la presenza e con la grazia.*
+*Il sesto comandamento ci ordina di essere « santi nel corpo », portando il massimo rispetto alla propria e all'altrui persona, come opere di Dio e templi dove Egli abita con la presenza e con la grazia.*
 
 **203.** Che ci proibisce il settimo comandamento « non rubare »?
 
@@ -190,11 +190,11 @@
 
 **208.** Chi ha danneggiato il prossimo nel buon nome accusandolo falsamente o sparlandone, a che cosa è obbligato?
 
-*Chi ha danneggiato il prossimo nel buon nome accusandolo falsamente,o sparlandone, deve riparare, per quanto può, il danno arrecato.*
+*Chi ha danneggiato il prossimo nel buon nome accusandolo falsamente, o sparlandone, deve riparare, per quanto può, il danno arrecato.*
 
 **209.** Che ci proibisce il nono comandamento « non desiderare la donna d'altri »?
 
-*Il nono. comandamento non desiderare la donna d'altri ci proibisce i pensieri e i desideri cattivi.*
+*Il nono comandamento non desiderare la donna d'altri ci proibisce i pensieri e i desideri cattivi.*
 
 **210.** Che ci ordina il nono comandamento?
 
@@ -202,8 +202,8 @@
 
 **211.** Che ci proibisce il decimo comandamento " non desiderare la roba d'altri"?
 
-*Il decimo comandamento Non desiderare la roba d'altri ci proibisce l'avidità sfrenata delle ricchezze, senza riguardo ai diritti è al bene del prossimo.*
+*Il decimo comandamento Non desiderare la roba d'altri ci proibisce l'avidità sfrenata delle ricchezze, senza riguardo ai diritti e al bene del prossimo.*
 
 **212.** Che ci ordina il decimo comandamento?
 
-*Il decimo comandamento ci ordina di essere giusti e moderati nel desiderio di migliorare la propria condizione, e di soffrire con pazienza le strettezze e le altre miserie permesse dal Signore a nostro merito, poichè a al regno di Dio dobbiamo arrivare per via di molte tribolazioni"*
+*Il decimo comandamento ci ordina di essere giusti e moderati nel desiderio di migliorare la propria condizione, e di soffrire con pazienza le strettezze e le altre miserie permesse dal Signore a nostro merito, poichè "al regno di Dio dobbiamo arrivare per via di molte tribolazioni".*

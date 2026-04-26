@@ -12,7 +12,7 @@
 
 *Gli scomunicati sono i battezzati esclusi per colpe gravissime dalla comunione della Chiesa, affinchè non pervertano gli altri e siano puniti e corretti con questo estremo rimedio.*
 
-**131.** E' grave danno esser fuori della Chiesa?
+**131.** È grave danno esser fuori della Chiesa?
 
 *Esser fuori della Chiesa è danno gravissimo, perchè fuori non si hanno nè i mezzi stabiliti nè la guida sicura alla salute eterna, la quale per l'uomo è l'unica cosa veramente necessaria.*
 
@@ -50,7 +50,7 @@
 
 **140.** Qual è il peccato attuale?
 
-*Il peccato attuale è quello che si commette volontariamente da chi ha l'usa di ragione.*
+*Il peccato attuale è quello che si commette volontariamente da chi ha l'uso di ragione.*
 
 **141.** In quanti modi si commette il peccato attuale?
 
@@ -98,7 +98,7 @@
 
 **152.** Tra i peccati mortali, quali sono più gravi e funesti?
 
-*Tra i peccati mortali sono più gravi e funesti i peccati contro lo Spirito Santo e quelli che gridano vedetta al cospetto di Dio*
+*Tra i peccati mortali sono più gravi e funesti i peccati contro lo Spirito Santo e quelli che gridano vendetta al cospetto di Dio.*
 
 **153.** Perchè i peccati contro lo Spirito Santo sono dei più gravi e funesti?
 

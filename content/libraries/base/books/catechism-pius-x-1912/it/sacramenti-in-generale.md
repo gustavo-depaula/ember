@@ -10,11 +10,11 @@
 
 **269.** Quale grazia conferiscono i sacramenti?
 
-*I sacramenti conferiscono 1a grazia santificante e la grazia sacramentale.*
+*I sacramenti conferiscono la grazia santificante e la grazia sacramentale.*
 
 **270.** Che cos'è la grazia santificante?
 
-*La grazia santificante è quel dono soprannaturale, inerente all'anima nostra e perciò abituale, che ci rende santi, cioè giusti, amici e figli adottivi Dio, fratelli di Gesù Cristo ed eredi del paradiso.*
+*La grazia santificante è quel dono soprannaturale, inerente all'anima nostra e perciò abituale, che ci rende santi, cioè giusti, amici e figli adottivi di Dio, fratelli di Gesù Cristo ed eredi del paradiso.*
 
 **271.** Che cos'è la grazia sacramentale?
 
@@ -26,7 +26,7 @@
 
 **273.** Come ci santificano i sacramenti?
 
-*I sacramenti ci santificano, o col darci. la prima grazia santificante che cancella il peccato, o coll'accrescerci quella grazia che già possediamo.*
+*I sacramenti ci santificano, o col darci la prima grazia santificante che cancella il peccato, o coll'accrescerci quella grazia che già possediamo.*
 
 **274.** Quali sacramenti ci danno la prima grazia?
 
@@ -46,13 +46,13 @@
 
 **278.** Quali sono i sacramenti più necessari per salvarsi?
 
-*I sacramenti più necessari per salvanti sono i sacramenti dei morti, cioè il Battesimo e la Penitenza, perchè danno la prima grazia o la vita spirituale.*
+*I sacramenti più necessari per salvarsi sono i sacramenti dei morti, cioè il Battesimo e la Penitenza, perchè danno la prima grazia o la vita spirituale.*
 
 **279.** Il Battesimo e la Penitenza sono ugualmente necessari?
 
 *Il Battesimo e la Penitenza non sono egualmente necessari, perchè il Battesimo è necessario a tutti, nascendo tutti col peccato originale; la Penitenza, invece, è necessaria a quelli che, dopo il Battesimo, han perduto la grazia peccando mortalmente.*
 
-**280.** Se il Battesimo necessario a tutti, può salvarsi nessuno senza Battesimo?
+**280.** Se il Battesimo è necessario a tutti, può salvarsi nessuno senza Battesimo?
 
 *Senza Battesimo nessuno può salvarsi, quando però non si possa ricevere il Battesimo di acqua, basta il Battesimo di sangue, cioè il martirio sofferto per Gesù Cristo, oppure il Battesimo di desiderio che è l'amor di carità, desideroso dei mezzi di salute istituiti da Dio.*
 
@@ -78,7 +78,7 @@
 
 **286.** Quante cose si richiedono per fare un sacramento?
 
-*Per fare un sacramento si richiedono tre cose: la materia, la forma e il ministro, il quale abbia l'intenzione di fare ciò che fa la Chiesa*
+*Per fare un sacramento si richiedono tre cose: la materia, la forma e il ministro, il quale abbia l'intenzione di fare ciò che fa la Chiesa.*
 
 **287.** Che cos'è la materia del sacramento?
 
@@ -90,4 +90,4 @@
 
 **289.** Chi è il ministro del sacramento?
 
-*Ministro del sacramento è la persona capace che lo fa o conferisce, in nurse e per autorità di Gesù Cristo.*
+*Ministro del sacramento è la persona capace che lo fa o conferisce, in nome e per autorità di Gesù Cristo.*

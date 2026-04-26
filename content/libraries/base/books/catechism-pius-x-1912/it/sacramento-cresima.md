@@ -26,7 +26,7 @@
 
 **310.** A qual età è bene ricevere la Cresima?
 
-*E' bene ricevere la Cresima all'età di sette anni circa, perchè allora sogliono cominciare le tentazioni, e si può abbastanza conoscere la santità e la grazia di questo sacramento.*
+*È bene ricevere la Cresima all'età di sette anni circa, perchè allora sogliono cominciare le tentazioni, e si può abbastanza conoscere la santità e la grazia di questo sacramento.*
 
 **311.** Chi ricevè la Cresima, quali disposizioni deve avere?
 

@@ -6,7 +6,7 @@
 
 **356.** O Sacramento da Penitência foi instituído quando por Jesus Cristo?
 
-*O Sacramento da Penitência foi instituído por Jesus Cristo quando disse aos Apóstolos, e neles aos seus sucessores: "...Recebei o Espírito Santo, àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; e àqueles a quem os retiverdes, ser-lhes-ão retidos" (São João XX. 22-23).*
+*O Sacramento da Penitência foi instituído por Jesus Cristo quando disse aos Apóstolos, e neles aos seus sucessores: "Recebei o Espírito Santo, àqueles a quem perdoardes os pecados, ser-lhes-ão perdoados; e àqueles a quem os retiverdes, ser-lhes-ão retidos" (São João XX. 22-23).*
 
 **357.** Quem é o ministro da Penitência?
 
@@ -14,7 +14,7 @@
 
 **358.** Quantas e quais coisas requerem-se para fazer uma boa Confissão?
 
-*Para fazer uma boa Confissão requerem-se cinco coisas: 1° o exame de consciência; 2° a dor dos pecados; 3° o propósito de não cometê-los mais; 5° a satisfação ou penitência.*
+*Para fazer uma boa Confissão requerem-se cinco coisas: 1° o exame de consciência; 2° a dor dos pecados; 3° o propósito de não cometê-los mais; 4° a confissão; 5° a satisfação ou penitência.*
 
 **359.** Como se faz o exame de consciência?
 
@@ -66,7 +66,7 @@
 
 **371.** Somos obrigados a fugir das ocasiões dos pecados?
 
-*Somos obrigados a fugir das ocasiões dos pecados porque somos obrigados a fugir dos pecados: quem não foge dele, acaba por cair, pois... "aquele que ama o perigo perecerá nele" (Eclesiástico III. 27).*
+*Somos obrigados a fugir das ocasiões dos pecados porque somos obrigados a fugir dos pecados: quem não foge delas, acaba por cair, pois "aquele que ama o perigo perecerá nele" (Eclesiástico III. 27).*
 
 **372.** O que é a Confissão?
 
@@ -74,11 +74,11 @@
 
 **373.** Quais pecados somos obrigados a confessar?
 
-*Somos obrigados a confessar todos os pecados mortais ainda não confessados; é útil, no entanto, confessar também os veniais.*
+*Somos obrigados a confessar todos os pecados mortais ainda não confessados ou confessados mal; é útil, no entanto, confessar também os veniais.*
 
 **374.** Como devemos acusar os pecados mortais?
 
-*Devemos acusar os pecados mortais integralmente, sem fazer-nos vencer de uma falsa vergonha omitindo algum, declarando a espécie, o número e também as circunstâncias que acrescentassem uma nova malícia.*
+*Devemos acusar os pecados mortais integralmente, sem fazer-nos vencer de uma falsa vergonha omitindo algum, declarando a espécie, o número e também as circunstâncias que acrescentassem uma nova grave malícia.*
 
 **375.** Quem não recorda o número preciso dos pecados mortais, que deve fazer?
 
@@ -98,11 +98,13 @@
 
 **379.** Quem sem culpa descuidou um pecado mortal fez uma boa Confissão?
 
-*Quem sem culpa descuidou ou esqueceu um pecado mortal fez uma boa Confissão, mas lhe permanece a obrigação de avisá-los em seguida.*
+*Quem sem culpa descuidou ou esqueceu um pecado mortal fez uma boa Confissão, mas lhe permanece a obrigação de acusá-lo em seguida.*
+
+## § 4. Absolvição — Satisfação — Indulgências
 
 **380.** O que é a Absolvição?
 
-*A absolvição é a sentença com a qual o sacerdote, em Nome de Jesus Cristo, remite os pecados ao penitente dizendo: "Eu, pois, te absolvo dos teus pecados, em Nome do Pai, e do Filho, e do Espírito Santo. Amém."*
+*A absolvição é a sentença com a qual o sacerdote, em Nome de Jesus Cristo, remite os pecados ao penitente dizendo: "Eu te absolvo dos teus pecados, em Nome do Pai, e do Filho, e do Espírito Santo. Amém."*
 
 **381.** Remitidos com a absolvição os pecados, é também remitida toda pena merecida?
 
@@ -146,7 +148,7 @@
 
 **390.** O que se entende por Indulgência de "quarenta" ou "cem dias", de "sete anos" e semelhantes?
 
-*Por Indulgência de quarenta ou cem dias, de sete anos ou semelhantes, se entende a remissão de tanta pena temporal quanto seria expiada com quarenta, cem dias ou setes anos da penitência antigamente estabelecida pela Igreja.*
+*Por Indulgência de quarenta ou cem dias, de sete anos ou semelhantes, se entende a remissão de tanta pena temporal quanto seria expiada com quarenta, cem dias ou sete anos da penitência antigamente estabelecida pela Igreja.*
 
 **391.** O que se requer para adquirir as Indulgências?
 

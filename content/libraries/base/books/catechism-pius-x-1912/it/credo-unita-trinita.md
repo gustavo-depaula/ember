@@ -28,7 +28,7 @@
 
 *La terza Persona della santissima Trinità è lo Spirito Santo.*
 
-**44.** Perchè il Padre il la prima Persona della santissima Trinità?
+**44.** Perchè il Padre è la prima Persona della santissima Trinità?
 
 *Il Padre è la prima Persona della santissima Trinità, perchè non procede da altra persona, e da Lui procedono le altre due, cioè il Figliolo e lo Spirito Santo.*
 
@@ -48,7 +48,7 @@
 
 *Le tre Persone divine non sono tre Dei, ma un Dio solo; perchè hanno la stessa unica natura o sostanza divina.*
 
-**49.** Le tre Persone divine sono uguali, o ce n'è una maggiore, più potente è più sapiente?
+**49.** Le tre Persone divine sono uguali, o ce n'è una maggiore, più potente e più sapiente?
 
 *Le tre Persone divine essendo un solo Dio, sono uguali in tutto, e hanno egualmente comune ogni perfezione e ogni operazione; sebbene certe perfezioni e le opere corrispondenti si attribuiscano più all'una Persona che all'altra, come la potenza e la creazione al Padre.*
 

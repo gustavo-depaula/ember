@@ -2,7 +2,7 @@
 
 **397.** O que é a Ordem?
 
-*A Ordem é o Sacramento que dá o poder de realizar as ações sagradas relativas à Eucaristia e à salvação das almas, e imprime o caráter de ministro de Deus.*
+*A Ordem é o Sacramento que dá o poder de realizar as ações sagradas relativas à Eucaristia e à salvação das almas, e imprime o caráter de ministros de Deus.*
 
 **398.** Quem é o ministro da Ordem?
 
@@ -10,11 +10,11 @@
 
 **399.** Por que o Sacramento que faz os ministros de Deus se chama Ordem?
 
-*O Sacramento que faz os ministros de Deus se chama Ordem porque compreendem vários graus de ministros, uns subordinados aos outros, dos quais resulta a sagrada Hierarquia.*
+*O Sacramento que faz os ministros de Deus se chama Ordem porque compreende vários graus de ministros, uns subordinados aos outros, dos quais resulta a sagrada Hierarquia.*
 
 **400.** Quais são os graus da sagrada Hierarquia?
 
-*Os graus da sagrada Hierarquia são: as Ordens menores, o Subdiaconato e o Diaconato, que são preparatórias; o Presbiterado ou o Sacerdócio que dá o poder de consagrar a Eucaristia e de remitir os pecados; o Episcopado, plenitude do Sacerdócio, que dá o poder de conferir as Ordens e de administrar e governar os fiéis.*
+*Os graus da sagrada Hierarquia são: as Ordens menores, o Subdiaconato e o Diaconato, que são preparatórios; o Presbiterado ou o Sacerdócio que dá o poder de consagrar a Eucaristia e de remitir os pecados; e o Episcopado, plenitude do Sacerdócio, que dá o poder de conferir as Ordens e de ensinar e governar os fiéis.*
 
 **401.** É grande a dignidade do Sacerdócio?
 

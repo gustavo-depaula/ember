@@ -22,7 +22,7 @@
 
 **295.** Quais efeitos produz o Batismo?
 
-*O Batismo confere a primeira Graça santificante a as virtudes sobrenaturais, removendo o pecado original e os atuais, se houver, com todo débito de pena por eles devido; imprime o caráter de cristão e torna capaz de receber os outros Sacramentos.*
+*O Batismo confere a primeira Graça santificante e as virtudes sobrenaturais, removendo o pecado original e os atuais, se houver, com todo débito de pena por eles devido; imprime o caráter de cristão e torna capaz de receber os outros Sacramentos.*
 
 **296.** O Batismo transforma o homem?
 
@@ -30,7 +30,7 @@
 
 **297.** Quem recebe o Batismo a que se obriga?
 
-*Quem recebe o Batismo, transformando-se em cristão, se obriga a professar a Fé e a observar a Lei de Jesus Cristo, e por isso renuncia a quanto se lhes opõe.*
+*Quem recebe o Batismo, transformando-se em cristão, se obriga a professar a Fé e a observar a Lei de Jesus Cristo, e por isso renuncia a quanto se lhe opõe.*
 
 **298.** A que se renuncia ao receber o Batismo?
 
@@ -46,12 +46,12 @@
 
 **301.** Quem são os padrinhos no Batismo?
 
-*Os padrinhos no Batismo são os que apresentam à Igreja o batizado, respondendo em seu nome se é criança, assumindo, quais pais espirituais, o cuidado da sua educação cristã, se lhe faltarem os pais, e por isso devem ser bons cristãos.*
+*Os padrinhos no Batismo são os que apresentam à Igreja o batizando, respondendo em seu nome se é criança, assumindo, quais pais espirituais, o cuidado da sua educação cristã, se lhe faltarem os pais, e por isso devem ser bons cristãos.*
 
 **302.** Somos obrigados a manter as promessas e as renúncias feitas pelos padrinhos em nosso nome no Batismo?
 
-*Somos obrigados a manter as promessas e as renúncias feitas pelos padrinhos em nosso nome no Batismo porque elas nos impõem só que Deus impõe a todos, e que devemos nós mesmos prometer para salvar-nos.*
+*Somos obrigados a manter as promessas e as renúncias feitas pelos padrinhos em nosso nome no Batismo porque elas nos impõem só o que Deus impõe a todos, e que devemos nós mesmos prometer para salvar-nos.*
 
 **303.** Os pais ou quem lhes toma o lugar, quando devem mandar a criança ao Batismo?
 
-*Os pais ou quem lhes toma o lugar devem mandar a criança ao Batismo com não mais que oito ou dez dias de nascido; convém, antes, assegurar-lhes rapidamente a Graça e a felicidade eterna, podendo ela muito facilmente morrer.*
+*Os pais ou quem lhes toma o lugar devem mandar a criança ao Batismo com não mais que oito ou dez dias de nascido; convém, antes, assegurar-lhe rapidamente a Graça e a felicidade eterna, podendo ela muito facilmente morrer.*

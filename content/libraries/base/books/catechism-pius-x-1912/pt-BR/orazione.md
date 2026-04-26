@@ -2,7 +2,7 @@
 
 **414.** O que é a oração?
 
-*A oração é uma pia elevação da alma a Deus para bem conhecê-lo, agradecer-lhe e pedir-lhe o que necessitamos.*
+*A oração é uma pia elevação da alma a Deus para bem conhecê-lo, adorá-lo, agradecer-lhe e pedir-lhe o que necessitamos.*
 
 **415.** Existem quantas espécies de oração?
 
@@ -10,11 +10,11 @@
 
 **416.** Qual é a oração mental?
 
-*A oração mental é a que se faz só com a mente e o coração: tais são a meditação das verdades cristã e a contemplação.*
+*A oração mental é a que se faz só com a mente e o coração: tais são a meditação das verdades cristãs e a contemplação.*
 
 **417.** Qual é a oração vocal?
 
-*A oração vocal, chamada mais comumente reza, é a que se faz com as palavras acompanhadas pela a mente é o coração.*
+*A oração vocal, chamada mais comumente reza, é a que se faz com as palavras acompanhadas pela mente e pelo coração.*
 
 **418.** Como se deve rezar?
 
@@ -50,7 +50,7 @@
 
 **426.** O que devemos pedir como bons filhos de Deus?
 
-*Como bons filhos de Deus devemos pedir que em todo o mundo se conheço e se honre o seu Nome e se propague o seu Reino, a Igreja, e que por todos seja feita a sua santíssima vontade: e isso se pede nas três primeiras súplicas do Pai-Nosso.*
+*Como bons filhos de Deus devemos pedir que em todo o mundo se conheça e se honre o seu Nome e se propague o seu Reino, a Igreja, e que por todos seja feita a sua santíssima vontade: e isso se pede nas três primeiras súplicas do Pai-Nosso.*
 
 **427.** Como irmãos entre nós o que devemos pedir?
 
@@ -58,7 +58,7 @@
 
 **428.** Por que Jesus Cristo nos faz invocar a Deus como "Pai-Nosso"?
 
-*Jesus Cristo nos faz invocar a Deus como Pai-Nosso para nos recordar que Deus é verdadeiramente Pai de todos, especialmente de nós cristão que, no Batismo, fomos adotados por Ele como seus filhos, e para inspirar-nos em relação a Ele grande amor e confiança.*
+*Jesus Cristo nos faz invocar a Deus como Pai-Nosso para nos recordar que Deus é verdadeiramente Pai de todos, especialmente de nós cristãos que, no Batismo, fomos adotados por Ele como seus filhos, e para inspirar-nos em relação a Ele grande amor e confiança.*
 
 **429.** Se Deus escuta quem reza bem, por que invocamos também Nossa Senhora, os Anjos e os Santos?
 
@@ -78,32 +78,4 @@
 
 **433.** O invocar Nossa Senhora e os Santos não demonstra talvez desconfiança em Jesus Cristo, o único Mediador, como se não bastassem os méritos dele para nos obter as Graças?
 
-*O invocar Nossa Senhora e os Santos não demonstra nenhuma desconfiança em Jesus Cristo, o único Mediador, ao contrário, uma Fé maior nos méritos dele, tanto grandes e eficazes, que por eles, e só por eles, Nossa Senhora e os Santos têm de Deus a Graça, os méritos e a poderosa intercessão.*
-
-*Compartilhar*
-
-*Gerar link*
-
-*Facebook*
-
-*X*
-
-*Pinterest*
-
-*E-mail*
-
-*Outros aplicativos*
-
-*Compartilhar*
-
-*Gerar link*
-
-*Facebook*
-
-*X*
-
-*Pinterest*
-
-*E-mail*
-
-*Outros aplicativos*
+*O invocar Nossa Senhora e os Santos não demonstra nenhuma desconfiança em Jesus Cristo, o único Mediador; ao contrário, uma Fé maior nos méritos dele, tanto grandes e eficazes, que por eles, e só por eles, Nossa Senhora e os Santos têm de Deus a Graça, os méritos e a poderosa intercessão.*

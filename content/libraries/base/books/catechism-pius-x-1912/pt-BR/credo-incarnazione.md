@@ -10,7 +10,7 @@
 
 **80.** Como se soube que Jesus Cristo é o Filho de Deus?
 
-*Soube-se que Jesus Cristo é o Filho de Deus porque assim o proclamou Deus Pai no Batismo e na Transfiguração, dizendo: "Este é o Meu Filho amado, no qual pus as Minhas complacências" (São Mateus lII. 17; São Lucas IX. 35); e porque assim o próprio Jesus o declarou em Sua Vida terrena.*
+*Soube-se que Jesus Cristo é o Filho de Deus porque assim o proclamou Deus Pai no Batismo e na Transfiguração, dizendo: "Este é o Meu Filho amado, no qual pus as Minhas complacências" (São Mateus III. 17; São Lucas IX. 35); e porque assim o próprio Jesus o declarou em Sua Vida terrena.*
 
 **81.** Jesus Cristo sempre existiu?
 
@@ -42,15 +42,15 @@
 
 **88.** Especialmente com quais milagres Jesus Cristo confirmou sua doutrina e demonstrou ser verdadeiro Deus?
 
-*Jesus Cristo confirmou sua doutrina e demonstrou ser verdadeiro Deus especialmente restituindo num instante a vista aos cegos a audição aos surdos, a palavra aos mudos a saúde a toda sorte de enfermos, a vida aos mortos, imperando como Senhor aos demônios e às forças da natureza e, sobretudo com sua Ressurreição dos mortos.*
+*Jesus Cristo confirmou sua doutrina e demonstrou ser verdadeiro Deus especialmente restituindo num instante a vista aos cegos, a audição aos surdos, a palavra aos mudos, a saúde a toda sorte de enfermos, a vida aos mortos, imperando como Senhor sobre os demônios e sobre as forças da natureza e, sobretudo com sua Ressurreição da morte.*
 
 **89.** Jesus Cristo morreu como Deus ou como homem?
 
-*Jesus Cristo morreu como homem, pois como Deus não podia e nem padecer e nem morrer.*
+*Jesus Cristo morreu como homem, pois como Deus não podia nem padecer nem morrer.*
 
 **90.** O que fez Jesus Cristo depois da morte?
 
-*Jesus Cristo, depois da morte, desceu com a Alma ao Limbo das almas dos justos mortos até então para conduzi-las em segurança ao Paraíso; depois ressuscitou, retomando seu Corpo que estava sepultado.*
+*Jesus Cristo, depois da morte, desceu com a Alma ao Limbo das almas dos justos mortos até então para conduzi-las consigo ao Paraíso; depois ressuscitou, retomando seu Corpo que estava sepultado.*
 
 **91.** Quanto tempo o Corpo de Jesus Cristo ficou sepultado?
 

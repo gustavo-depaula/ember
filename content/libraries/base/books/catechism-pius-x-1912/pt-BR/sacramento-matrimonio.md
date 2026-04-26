@@ -2,7 +2,7 @@
 
 **406.** O que é o Matrimônio?
 
-*O Matrimônio é o Sacramento que une indissoluvelmente o homem e a mulher, como são unidos Jesus Cristo e a Igreja sua esposa, e dá-lhes a Graça de santamente conviver e educar cristamente os filhos.*
+*O Matrimônio é o Sacramento que une indissoluvelmente o homem e a mulher, como são unidos Jesus Cristo e a Igreja sua esposa, e dá-lhes a Graça de santamente conviver e educar cristãmente os filhos.*
 
 **407.** Quem é o ministro do Matrimônio?
 
@@ -18,7 +18,7 @@
 
 **410.** O Matrimônio assim celebrado como consegue na Itália também os efeitos civis?
 
-*O Matrimônio assim celebrado consegue na Itália também os efeitos civis, mediante a sua regular transcrição nos registros do Estado civil, feito a pedido do pároco.*
+*O Matrimônio assim celebrado consegue na Itália também os efeitos civis, mediante a sua regular transcrição nos registros do Estado civil, feita a pedido do pároco.*
 
 **411.** Os esposos católicos podem também realizar o Matrimônio civil?
 
@@ -26,7 +26,7 @@
 
 **412.** Os esposos, ao contrair o Matrimônio, devem estar na Graça de Deus?
 
-*Os esposos, ao contrair o Matrimônio, devem estar na Graça de Deus, de outro modo comentem um sacrilégio.*
+*Os esposos, ao contrair o Matrimônio, devem estar na Graça de Deus, de outro modo cometem um sacrilégio.*
 
 **413.** Que dever têm os esposos?
 

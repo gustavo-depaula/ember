@@ -6,7 +6,7 @@
 
 **356.** Il sacramento della Penitenza quando fu istituito da Gesù Cristo?
 
-*Il sacramento della Penitenza fu istituito da Gesù Cristo quando disse agli Apostoli, e in essi ai loro successori: «Ricevete lo Spirito Santo: a chi rimetterete i peccati saranno loro rimessi; e saranno ritenuti a chi li riterrete »*
+*Il sacramento della Penitenza fu istituito da Gesù Cristo quando disse agli Apostoli, e in essi ai loro successori: «Ricevete lo Spirito Santo: a chi rimetterete i peccati saranno loro rimessi; e saranno ritenuti a chi li riterrete ».*
 
 **357.** Chi è ministro della Penitenza?
 
@@ -66,7 +66,7 @@
 
 **371.** Siamo obbligati a fuggire le occasioni dei peccati?
 
-*Siamo obbligati, a fuggire le occasioni dei peccati, perchè siamo obbligati a fuggire il peccato: chi non le fugge; finisce per cadere, poichè «chi ama il pericolo perirà in esso»*
+*Siamo obbligati a fuggire le occasioni dei peccati, perchè siamo obbligati a fuggire il peccato: chi non le fugge, finisce per cadere, poichè «chi ama il pericolo perirà in esso».*
 
 **372.** Che cos'è la confessione?
 
@@ -102,7 +102,7 @@
 
 **380.** Che cos'è l'assoluzione?
 
-*L'assoluzione è la sentenza con cui il sacerdote, in nome di Gesù Cristo, rimette i peccati al penitente dicendo: Io ti assolvo dai tuoi peccati nel nome del Padre e del Figliuolo e dello Spirito Santo. Cosi sia.*
+*L'assoluzione è la sentenza con cui il sacerdote, in nome di Gesù Cristo, rimette i peccati al penitente dicendo: Io ti assolvo dai tuoi peccati nel nome del Padre e del Figliuolo e dello Spirito Santo. Così sia.*
 
 **381.** Rimessi con l'assoluzione i peccati, è anche rimessa ogni pena meritata?
 
@@ -122,7 +122,7 @@
 
 **385.** Quali sono le opere di penitenza e di pietà?
 
-*Le opere di penitenza e di pietà sono: i digiuni, le mortificazioni, gli atti di misericordia spirituale e corporale, le preghiere, e l'uso pio di quelle cose benedette e di quelle cerimonie sacre che si chiamano sacramentali, come l'acqua santa e le varie benedizioni..Formole 21,22.*
+*Le opere di penitenza e di pietà sono: i digiuni, le mortificazioni, gli atti di misericordia spirituale e corporale, le preghiere, e l'uso pio di quelle cose benedette e di quelle cerimonie sacre che si chiamano sacramentali, come l'acqua santa e le varie benedizioni. Formole 21,22.*
 
 **386.** Che cos'è l'indulgenza?
 
@@ -146,4 +146,4 @@
 
 **391.** Che si richiede per acquistare le indulgenze?
 
-*Per acquistare le indulgenze si richiede di essere in stato di grazia e di eseguire bene le. opere prescritte.*
+*Per acquistare le indulgenze si richiede di essere in stato di grazia e di eseguire bene le opere prescritte.*

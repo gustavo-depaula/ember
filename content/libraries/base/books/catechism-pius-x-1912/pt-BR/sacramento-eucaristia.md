@@ -18,7 +18,7 @@
 
 **320.** Quando Jesus Cristo instituiu a Eucaristia?
 
-*Jesus Cristo instituiu a Eucaristia na última Ceia, antes da sua Paixão, quando consagrou o pão e o vinho e lhes distribuiu aos Apóstolos como seu Corpo e Sangue, ordenando que depois fizessem a mesma coisa em sua memória.*
+*Jesus Cristo instituiu a Eucaristia na última Ceia, antes da sua Paixão, quando consagrou o pão e o vinho e os distribuiu aos Apóstolos como seu Corpo e Sangue, ordenando que depois fizessem a mesma coisa em sua memória.*
 
 **321.** Por que Jesus Cristo instituiu a Eucaristia?
 
@@ -66,7 +66,7 @@
 
 **332.** Quando se parte a hóstia em muitas partes, parte-se o Corpo de Jesus Cristo?
 
-*Quando se parte a hóstia em muitas partes, não se parte o Corpo de Jesus Cristo, mas só as espécies do pão, e o Corpo do Senhor permanecem inteiros em cada parte.*
+*Quando se parte a hóstia em muitas partes, não se parte o Corpo de Jesus Cristo, mas só as espécies do pão, e o Corpo do Senhor permanece inteiro em cada parte.*
 
 **333.** Jesus Cristo encontra-se em todas as hóstias consagradas do mundo?
 
@@ -75,6 +75,8 @@
 **334.** Por que se conserva nas Igrejas a Santíssima Eucaristia?
 
 *A Santíssima Eucaristia se conserva nas Igrejas para que os fiéis a adorem, para que a recebam nas Comunhões, e para que achem nela a perpétua assistência e presença de Jesus Cristo na Igreja.*
+
+## § 3. Santa Comunhão: Disposições, Obrigação, Efeitos
 
 **335.** Quantas coisas são necessárias para fazer uma boa Comunhão?
 
@@ -102,15 +104,15 @@
 
 **341.** Existe a obrigação de receber a Comunhão?
 
-*Existe a obrigação de receber a Comunhão todos o anos pela Páscoa e em perigo de morte, como Viático que sustenta a alma na viagem para a eternidade.*
+*Existe a obrigação de receber a Comunhão todos os anos pela Páscoa e em perigo de morte, como Viático que sustenta a alma na viagem para a eternidade.*
 
 **342.** Com que idade começa a obrigação da Comunhão Pascal?
 
 *A obrigação da Comunhão Pascal começa com a idade em que se é capaz de fazê-la com suficientes disposições, isto é, ordinariamente por volta dos sete anos.*
 
-**343.** E bom e útil comungar frequentemente?
+**343.** É bom e útil comungar frequentemente?
 
-*É ótimo e utilíssimo comungar frequentemente, inclusive todos os dias, contando que se faça sempre com as disposições.*
+*É ótimo e utilíssimo comungar frequentemente, inclusive todos os dias, contando que se faça sempre com as devidas disposições.*
 
 **344.** Após a Comunhão, quanto tempo permanece em nós Jesus Cristo?
 
@@ -140,7 +142,7 @@
 
 *Entre o Sacrifício da Cruz e o da Missa há esta diferença: que Jesus Cristo sobre a Cruz se sacrificou dando voluntariamente o próprio Sangue e mereceu todas as Graças por nós; pelo contrário, sobre o altar Ele, sem derramar Sangue, se sacrifica e se aniquila misticamente pelo ministério do sacerdote e aplica-nos os méritos do Sacrifício da Cruz.*
 
-**351.** Para quis fins de oferece a Deus a Missa?
+**351.** Para quais fins se oferece a Deus a Missa?
 
 *A Missa se oferece a Deus para render-lhe o culto supremo de latria ou adoração, para agradecer-lhe por seus benefícios, para aplacá-lo e prestar-lhe satisfação pelos nossos pecados, e para obter Graças, a favor dos fiéis vivos e defuntos.*
 

@@ -106,4 +106,4 @@
 
 **77.** Il Figliuolo di Dio, facendosi uomo, cessò di esser Dio?
 
-*Il Figliuolo di Dio, facendosi uomo, non cessò. di esser Dio, ma, restando vero Dio, cominciò ad essere anche vero uomo.*
+*Il Figliuolo di Dio, facendosi uomo, non cessò di esser Dio, ma, restando vero Dio, cominciò ad essere anche vero uomo.*

@@ -14,13 +14,13 @@
 
 **230.** Come riceviamo ed esercitiamo noi le virtù soprannaturali?
 
-*Noi riceviamo le virtù soprannaturali insieme con 1a grazia santificante, per mezzo dei sacramenti o per l'amore di carità, e le esercitiamo con le grazie attuali dei buoni pensieri e delle ispirazioni con cui Dio ci muove e ci aiuta in ogni atto buono.*
+*Noi riceviamo le virtù soprannaturali insieme con la grazia santificante, per mezzo dei sacramenti o per l'amore di carità, e le esercitiamo con le grazie attuali dei buoni pensieri e delle ispirazioni con cui Dio ci muove e ci aiuta in ogni atto buono.*
 
-**231.** Tra le virtù soprannaturali qual è la più, eccellente?
+**231.** Tra le virtù soprannaturali qual è la più eccellente?
 
 *Tra le virtù soprannaturali la più eccellente è la carità, perché è inseparabile dalla grazia santificante, ci unisce intimamente a Dio e al prossimo, ci muove alla perfetta osservanza della Legge e a ogni opera buona, e non cesserà mai: in essa sta la perfezione cristiana. FEDE.*
 
-**232.** Che cos'è 1a fede?
+**232.** Che cos'è la fede?
 
 *La fede è quella virtù soprannaturale per cui crediamo, sull'autorità di Dio, ciò che Egli ha rivelato e ci propone a credere per mezzo della Chiesa.*
 
@@ -46,7 +46,7 @@
 
 **238.** Che cos'è la speranza?
 
-*La speranza e quella virtù soprannaturale per cui confidiamo in Dio e da Lui aspettiamo la vita eterna e le grazie necessarie per meritarla quaggiù con le buone opere.*
+*La speranza è quella virtù soprannaturale per cui confidiamo in Dio e da Lui aspettiamo la vita eterna e le grazie necessarie per meritarla quaggiù con le buone opere.*
 
 **239.** Per qual motivo speriamo da Dio la vita eterna e le grazie necessarie per meritarla?
 
@@ -58,7 +58,7 @@
 
 **241.** Perchè dobbiamo amare Dio?
 
-*Dobbiamo amare Dio per se stesso, come il sommo Bene, fonte d'ogni nostro bene; e perciò dobbiamo anche amarlo sopra ogni cosa « con tutto il cuore, con tutta l'anima, con tutta la mente e con tutte le forze »*
+*Dobbiamo amare Dio per se stesso, come il sommo Bene, fonte d'ogni nostro bene; e perciò dobbiamo anche amarlo sopra ogni cosa « con tutto il cuore, con tutta l'anima, con tutta la mente e con tutte le forze ».*
 
 **242.** Perchè dobbiamo amare il prossimo?
 
@@ -72,9 +72,9 @@
 
 *Dobbiamo fare atti di fede, di speranza e di carità molte volte nella vita, e, in particolare, quando abbiamo tentazioni da vincere o importanti doveri cristiani da compiere, e nei pericoli di morte.*
 
-**245.** E' bene fare spesso atti di fede, di speranza e di carità?
+**245.** È bene fare spesso atti di fede, di speranza e di carità?
 
-*E' bene fare spesso atti di fede, di speranza e di carità, per conservare, accrescere e rafforzare virtù tanto necessarie, che sono come le parti vitali dell' «uomo spirituale».*
+*È bene fare spesso atti di fede, di speranza e di carità, per conservare, accrescere e rafforzare virtù tanto necessarie, che sono come le parti vitali dell' «uomo spirituale».*
 
 **246.** Come dobbiamo fare atti di fede, di speranza e di carità?
 
@@ -82,11 +82,11 @@
 
 **247.** Come si dà prova della fede?
 
-*Si dà prova della fede confessandola e difendendola, quando occorra, senza timore e senza rispetto umano, e vivendo secondo le sue massime: « la fede senza le opere è morta»*
+*Si dà prova della fede confessandola e difendendola, quando occorra, senza timore e senza rispetto umano, e vivendo secondo le sue massime: « la fede senza le opere è morta ».*
 
 **248.** Come si dà prova della speranza?
 
-*Si dà prova della speranza non turbandosi per le miserie e contrarietà della vita, e nemmeno per le persecuzioni; ma vivendo rassegnati, sicuri delle promesse di Dio*
+*Si dà prova della speranza non turbandosi per le miserie e contrarietà della vita, e nemmeno per le persecuzioni; ma vivendo rassegnati, sicuri delle promesse di Dio.*
 
 **249.** Come si dà prova della carità?
 
@@ -102,7 +102,7 @@
 
 **252.** Che cos'è la virtù morale?
 
-*La virtù morale è l'abito di fare il bene; acquistato ripetendo atti buoni*
+*La virtù morale è l'abito di fare il bene, acquistato ripetendo atti buoni.*
 
 **253.** Quali sono le principali virtù morali?
 
@@ -118,7 +118,7 @@
 
 **256.** Che cos'è la giustizia?
 
-*La giustizia e 1a virtù che fa dare a ciascuno ciò che gli è dovuto.*
+*La giustizia è la virtù che fa dare a ciascuno ciò che gli è dovuto.*
 
 **257.** Che cos'è la fortezza?
 
@@ -150,11 +150,11 @@
 
 **264.** Dite le Beatitudini evangeliche.
 
-*Beati i poveri in spirito, perchè di questi è il regno de' cieli Beati i mansueti, perché questi erediteranno la terra. Beati quelli che piangono, perchè saranno consolati. Beati quelli che hanno fame e sete della giustizia, perchè saranno saziati. Beati i misericordiosi, perchè troveranno misericordia. Beati i mondi di cuore, perchè vedranno Dio. Beati i pacifici, perchè saranno chiamati figli di Dio. Beati i perseguitati per amor della giustizia, perché di questi è il regno de' cieli*
+*Beati i poveri in spirito, perchè di questi è il regno de' cieli. Beati i mansueti, perché questi erediteranno la terra. Beati quelli che piangono, perchè saranno consolati. Beati quelli che hanno fame e sete della giustizia, perchè saranno saziati. Beati i misericordiosi, perchè troveranno misericordia. Beati i mondi di cuore, perchè vedranno Dio. Beati i pacifici, perchè saranno chiamati figli di Dio. Beati i perseguitati per amor della giustizia, perché di questi è il regno de' cieli.*
 
 **265.** Perchè Gesù Cristo, nelle Beatitudini evangeliche, disse beate, contrariamente all'opinione del mondo, le persone umili e tribolate?
 
-*Gesù Cristo, nelle Beatitudini evangeliche, disse beate,.contrariamente all'opinione del mondo, le persone umili e tribolate, perchè avranno premio speciale da Dio; e c'insegnò cosa ad imitarle, senza curare le fallaci massime del mondo.*
+*Gesù Cristo, nelle Beatitudini evangeliche, disse beate, contrariamente all'opinione del mondo, le persone umili e tribolate, perchè avranno premio speciale da Dio; e c'insegnò così ad imitarle, senza curare le fallaci massime del mondo.*
 
 **266.** Possono essere veramente felici quelli che seguono le massime del mondo?
 

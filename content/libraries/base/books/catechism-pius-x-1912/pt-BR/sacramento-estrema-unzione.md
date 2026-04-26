@@ -10,11 +10,11 @@
 
 **394.** Como o sacerdote administra a Extrema-Unção?
 
-*O sacerdote administra a Extrema-Unção ungindo em forma de cruz, com o óleo benzido pelo o Bispo, os órgãos dos sentidos dos enfermos dizendo: "Por esta santa Unção e por sua piíssima misericórdia, o Senhor te perdoe tudo o que de mal fizeste com os olhos, com os ouvidos, etc. Amém."*
+*O sacerdote administra a Extrema-Unção ungindo em forma de cruz, com o óleo benzido pelo Bispo, os órgãos dos sentidos do enfermo, dizendo: "Por esta santa Unção e por sua piíssima misericórdia, o Senhor te perdoe tudo o que de mal fizeste com os olhos, com os ouvidos, etc. Amém."*
 
 **395.** Que efeitos produz a Extrema-Unção?
 
-*A Extrema-Unção aumenta a Graça santificante, apaga os pecados veniais, e inclusive os mortais que o enfermo, atrito, não pudesse confessar, dá força para suportar pacientemente os males, resistir às tentações e morrer santamente, e ajuda inclusive a recuperar a saúde, se é bom para a alma.*
+*A Extrema-Unção aumenta a Graça santificante; apaga os pecados veniais, e inclusive os mortais que o enfermo, atrito, não pudesse confessar; dá força para suportar pacientemente os males, resistir às tentações e morrer santamente; e ajuda inclusive a recuperar a saúde, se é bom para a alma.*
 
 **396.** Quando se pode dar o Óleo santo?
 

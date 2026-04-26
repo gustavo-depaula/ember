@@ -16,7 +16,7 @@
     "en-US": "The shorter catechism in 433 questions and answers, prescribed by Pope Saint Pius X in 1912 for the dioceses of Rome. An abridged pedagogical edition, distinct from the longer 1905 Greater Catechism."
   },
   "composed": 1912,
-  "languages": ["it", "pt-BR"],
+  "languages": ["it", "pt-BR", "en-US"],
   "sources": [
     {
       "language": "it",

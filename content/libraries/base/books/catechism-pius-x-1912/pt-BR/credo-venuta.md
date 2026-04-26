@@ -26,11 +26,11 @@
 
 **98.** Pelo que Jesus Cristo nos julgará?
 
-*Jesus Cristo nos julgará pelo bem e pelo mal obrados em vida, inclusive pensamento e omissões.*
+*Jesus Cristo nos julgará pelo bem e pelo mal obrados em vida, inclusive pensamentos e omissões.*
 
 **99.** O que ocorre com a alma após o juízo particular?
 
-*A alma, após o juízo particular, se estiver sem pecado nem pena a pagar, vai para o Paraíso; se tiver qualquer pecado venial ou pena a pagar, vai para o Purgatório até que haja satisfeito; se está em pecado mortal, qual rebelde inconversível a Deus, vai para o Inferno.*
+*A alma, após o juízo particular, se estiver sem pecado nem pena a pagar, vai para o Paraíso; se tiver qualquer pecado venial ou pena a pagar, vai para o Purgatório até que haja satisfeito; se está em pecado mortal, qual rebelde inconvertível a Deus, vai para o Inferno.*
 
 **100.** Para onde vão as crianças mortas sem Batismo?
 
@@ -46,8 +46,8 @@
 
 **103.** É certo que existem o Paraíso e o Inferno?
 
-*É certo que existem o Paraíso e o Inferno: revelou-o Deus muitas vezes prometendo aos bons a vida eterna e sua própria alegria ou ameaçando os maus com a perdição e o fogo eterno.*
+*É certo que existem o Paraíso e o Inferno: revelou-o Deus muitas vezes prometendo aos bons a vida eterna e sua própria alegria, e ameaçando os maus com a perdição e o fogo eterno.*
 
-**104.** Quanto durará o Paraíso e o Inferno?
+**104.** Quanto durarão o Paraíso e o Inferno?
 
 *O Paraíso e o Inferno durarão eternamente.*

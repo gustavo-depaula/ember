@@ -8,7 +8,7 @@
 
 *O Decálogo nos impõe os mais estritos deveres naturais com relação a Deus, a nós mesmos e ao próximo, assim como os outros deveres que dele provém: os do próprio estado, por exemplo.*
 
-**163.** A que se resume os nossos deveres com relação a Deus e com relação ao próximo?
+**163.** A que se resumem os nossos deveres com relação a Deus e com relação ao próximo?
 
 *Os nossos deveres com relação a Deus e com relação ao próximo resumem-se à caridade, isto é, ao "máximo e primeiro mandamento" do amor de Deus e àquele "semelhante" do amor do próximo: "Destes dois mandamentos", disse Jesus Cristo, "dependem toda Lei e os Profetas" (São Mateus XXII, 40).*
 
@@ -80,7 +80,7 @@
 
 **180.** O que é o juramento?
 
-*O juramento é chamar a Deus em testemunho do que se afirma ou se promete; por isso que jura o mal e quem perjura ofende sumamente a Deus que é a Santidade e a Verdade.*
+*O juramento é chamar a Deus em testemunho do que se afirma ou se promete; por isso quem jura o mal e quem perjura ofende sumamente a Deus que é a Santidade e a Verdade.*
 
 **181.** A blasfêmia é grande pecado?
 
@@ -96,7 +96,7 @@
 
 **184.** O que nos ordena o Terceiro Mandamento "recorde-te de santificar as festas"?
 
-*Os Terceiro Mandamento "recorde-te de santificar as festas" nos ordena honrar a Deus nos dias de festa com atos externos de culto, dentre os quais para os cristãos o essencial é a Santa Missa.*
+*O Terceiro Mandamento "recorde-te de santificar as festas" nos ordena honrar a Deus nos dias de festa com atos externos de culto, dentre os quais para os cristãos o essencial é a Santa Missa.*
 
 **185.** Por que devemos fazer atos externos de culto? Não basta adorar a Deus, que é Espírito, internamente no coração?
 
@@ -156,7 +156,7 @@
 
 **199.** O escândalo é pecado grave?
 
-*O escândalo é pecado gravíssimo, e Deus exigirá que se preste conta do mal que se faz cometer os outros com incitações perversas e mais exemplos: "ai daquele homem por quem vem o escândalo" (São Mateus XVIII, 7).*
+*O escândalo é pecado gravíssimo, e Deus exigirá que se preste conta do mal que se faz cometer os outros com incitações perversas e maus exemplos: "ai daquele homem por quem vem o escândalo" (São Mateus XVIII, 7).*
 
 **200.** O que nos ordena o Quinto Mandamento?
 
@@ -194,7 +194,7 @@
 
 *Quem prejudicou o próximo no bom nome acusando-o falsamente ou difamando-o deve reparar o quanto possa o dano causado.*
 
-**209.** O que proíbe o Nono Mandamento "Não desejar a mulher dos outros"?
+**209.** O que nos proíbe o Nono Mandamento "Não desejar a mulher dos outros"?
 
 *O Nono Mandamento "não desejar a mulher dos outros" nos proíbe os pensamentos e os desejos maus.*
 
@@ -208,4 +208,4 @@
 
 **212.** O que nos ordena o Décimo Mandamento?
 
-*O Décimo Mandamento nos ordena ser justos e moderados no desejo de melhorar a própria condição, e sofrer com paciência as dificuldades econômicas e as outras misérias permitidas pelo Senhor para nosso merecimento, pois "...é por muitas tribulações que devemos entrar no reino de Deus". (Atos dos Apóstolos XIV. 22)*
+*O Décimo Mandamento nos ordena ser justos e moderados no desejo de melhorar a própria condição, e sofrer com paciência as dificuldades econômicas e as outras misérias permitidas pelo Senhor para nosso merecimento, pois "é por muitas tribulações que devemos entrar no reino de Deus". (Atos dos Apóstolos XIV. 22)*

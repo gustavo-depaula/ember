@@ -4,7 +4,7 @@
 
 *La Chiesa è la società dei veri cristiani, cioè dei battezzati che professano la fede e dottrina di Gesù Cristo, partecipano a' suoi sacramenti e ubbidiscono ai Pastori stabiliti da Lui.*
 
-**106.** Da chi fu fondata 1a Chiesa?
+**106.** Da chi fu fondata la Chiesa?
 
 *La Chiesa fu fondata da Gesù Cristo, il quale raccolse i suoi fedeli in una società, la sottopose agli Apostoli con san Pietro per capo, e le diede il sacrificio, i sacramenti e lo Spirito Santo che la vivifica.*
 
@@ -58,7 +58,7 @@
 
 **119.** Quali sono i mezzi di santità e di salute eterna che si trovano nella Chiesa?
 
-*I mezzi di santità e di salute eterna che si trovano nella Chiesa, sono la vera fede, il sacrificio e i sacramenti, e gli aiuti spirituali scambievoli, come la preghiera, il consiglio, l'esempio*
+*I mezzi di santità e di salute eterna che si trovano nella Chiesa, sono la vera fede, il sacrificio e i sacramenti, e gli aiuti spirituali scambievoli, come la preghiera, il consiglio, l'esempio.*
 
 **120.** I mezzi di santità e di salute eterna sono comuni a tutti gli uomini?
 
@@ -78,7 +78,7 @@
 
 **124.** Chi è fuori della comunione dei santi?
 
-*E' fuori della comunione dei santi chi è fuori della Chiesa, ossia i dannati, gl'infedeli, gli ebrei, gli eretici, gli apostati, gli scismatici e gli scomunicati.*
+*È fuori della comunione dei santi chi è fuori della Chiesa, ossia i dannati, gl'infedeli, gli ebrei, gli eretici, gli apostati, gli scismatici e gli scomunicati.*
 
 **125.** Chi sono gl'infedeli?
 
@@ -90,4 +90,4 @@
 
 **127.** Chi sono gli eretici?
 
-*Gli eretici sono i battezzati che si ostinano a non credere qualche verità rivelata dà Dio e insegnata dalla Chiesa, per esempio, i protestanti.*
+*Gli eretici sono i battezzati che si ostinano a non credere qualche verità rivelata da Dio e insegnata dalla Chiesa, per esempio, i protestanti.*

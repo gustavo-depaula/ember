@@ -34,7 +34,7 @@
 
 **275.** Quais Sacramentos aumentam em nós a Graça?
 
-*Aumenta em nós a Graça a Crisma, a Eucaristia, a Extrema-Unção, a Ordem e o Matrimônio, que se chamam Sacramentos dos vivos, pois quem os recebe deve já viver espiritualmente pela Graça de Deus.*
+*Aumentam em nós a Graça a Crisma, a Eucaristia, a Extrema-Unção, a Ordem e o Matrimônio, que se chamam Sacramentos dos vivos, pois quem os recebe deve já viver espiritualmente pela Graça de Deus.*
 
 **276.** Quem recebe um Sacramento dos vivos sabendo não estar na Graça de Deus comete pecado?
 
@@ -46,7 +46,7 @@
 
 **278.** Quais são os Sacramentos mais necessários para salvar-se?
 
-*Os Sacramentos mais necessários para salvar-se são os Sacramentos dos mortos, isto é, o Batismo e a Penitência, pois dá a Primeira Graça ou a vida espiritual.*
+*Os Sacramentos mais necessários para salvar-se são os Sacramentos dos mortos, isto é, o Batismo e a Penitência, pois dão a Primeira Graça ou a vida espiritual.*
 
 **279.** O Batismo e a Penitência são igualmente necessários?
 
@@ -54,7 +54,7 @@
 
 **280.** Se o Batismo é necessário a todos, ninguém pode salvar-se sem Batismo?
 
-*Sem Batismo ninguém pode salvar-se quando, porém não se pode receber o Batismo de Água, basta o Batismo de Sangue, isto é, o martírio sofrido por Jesus Cristo, ou o Batismo de Desejo, que é o amor de Caridade, desejoso dos meios de salvação instituídos por Deus.*
+*Sem Batismo ninguém pode salvar-se, quando, porém, não se pode receber o Batismo de Água, basta o Batismo de Sangue, isto é, o martírio sofrido por Jesus Cristo, ou o Batismo de Desejo, que é o amor de Caridade, desejoso dos meios de salvação instituídos por Deus.*
 
 **281.** Quantas vezes podem-se receber os Sacramentos?
 

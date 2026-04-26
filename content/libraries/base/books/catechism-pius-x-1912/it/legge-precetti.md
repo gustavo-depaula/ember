@@ -10,7 +10,7 @@
 
 **215.** Nella Chiesa chi può far leggi e precetti?
 
-*Nella Chiesa possono far leggi e precetti il Papa e i Vescovi come successori degli Apostoli, ai quali Gesù Cristo disse: « Chi ascolta voi, ascolta me; e chi disprezza voi, disprezza me"*
+*Nella Chiesa possono far leggi e precetti il Papa e i Vescovi come successori degli Apostoli, ai quali Gesù Cristo disse: « Chi ascolta voi, ascolta me; e chi disprezza voi, disprezza me ».*
 
 **216.** Che ci ordina il primo precetto « udir la Messa la domenica e le altre feste comandate »?
 
@@ -22,7 +22,7 @@
 
 **218.** Che ci proibisce il secondo precetto con le parole « non mangiar carne nel venerdì e negli altri giorni proibiti »?
 
-*Il secondo precetto con le parole non mangiar carne nel venerdì e negli altri giorni proibiti ci proibisce di mangiar carne nel venerdì (giorno della Passione e Morte di Gesù, Cristo) e in alcuni giorni digiuno*
+*Il secondo precetto con le parole non mangiar carne nel venerdì e negli altri giorni proibiti ci proibisce di mangiar carne nel venerdì (giorno della Passione e Morte di Gesù Cristo) e in alcuni giorni di digiuno.*
 
 **219.** Che cosa ordina il secondo precetto con le parole « digiunare nei giorni prescritti »?
 
@@ -40,7 +40,7 @@
 
 *La Chiesa c'impone in conformità dell'esempio e della dottrina di Gesù Cristo, astinenze e digiuni, per penitenza dei peccati, per mortificazione della gola e delle passioni, e per altre necessità particolari.*
 
-**223.** Che ci ordina. il terzo precetto « confessarsi almeno una volta l'anno e comunicarsi almeno a Pasqua»?
+**223.** Che ci ordina il terzo precetto « confessarsi almeno una volta l'anno e comunicarsi almeno a Pasqua»?
 
 *Il terzo precetto confessarsi almeno una volta l'anno e comunicarsi almeno a Pasqua ci ordina di accostarci alla Penitenza almeno una volta l'anno, e all'Eucaristia almeno nel tempo di Pasqua.*
 
