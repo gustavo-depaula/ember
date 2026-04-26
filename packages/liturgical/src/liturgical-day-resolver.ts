@@ -133,6 +133,16 @@ function is3rdSundayOfJuly(date: Date): boolean {
   return dayOfMonth >= 15 && dayOfMonth <= 21
 }
 
+/**
+ * Check if date is the last Sunday of October (EF feast of Christ the King).
+ */
+function isLastSundayOfOctober(date: Date): boolean {
+  if (date.getDay() !== 0) return false
+  if (date.getMonth() !== 9) return false
+  const dayOfMonth = date.getDate()
+  return dayOfMonth >= 25 && dayOfMonth <= 31
+}
+
 function expandEntry(
   entry: DayMapEntry | undefined,
   category: ResolvedDayEntry['category'],
@@ -199,6 +209,9 @@ export function resolveLiturgicalDay(date: Date, map: LiturgicalDayMap): Resolve
   }
   if (!feastEntry && is3rdSundayOfJuly(date)) {
     feastEntry = map.feasts['movable/3rd-sunday-july']
+  }
+  if (!feastEntry && isLastSundayOfOctober(date)) {
+    feastEntry = map.feasts['movable/last-sunday-october']
   }
   if (!feastEntry) {
     feastEntry = map.feasts[dateKey]

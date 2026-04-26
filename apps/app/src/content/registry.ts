@@ -30,12 +30,8 @@ const groupIndex = new Map<string, string[]>()
 // --- Registration ---
 
 export function registerSource(source: ContentSource) {
-  const existing = sources.findIndex((s) => s.libraryId === source.libraryId)
-  if (existing !== -1) {
-    for (const [qid, entry] of qualifiedEntries) {
-      if (entry.libraryId === source.libraryId) qualifiedEntries.delete(qid)
-    }
-    sources.splice(existing, 1)
+  if (libraryIdToSource.has(source.libraryId)) {
+    unregisterSource(source.libraryId)
   }
   sources.push(source)
   libraryIdToSource.set(source.libraryId, source)
