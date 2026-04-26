@@ -881,6 +881,76 @@ function resolveLanguageCandidates(
   return Array.from(new Set(candidates.filter((lang) => Boolean(lang))))
 }
 
+function collectBookChapterRefs(
+  flow: FlowDefinition,
+  context: FlowContext,
+): { book: string; chapterId: string }[] {
+  const refs: { book: string; chapterId: string }[] = []
+
+  function walkSection(section: FlowSection): void {
+    switch (section.type) {
+      case 'prose':
+        if ('book' in section && section.book && section.chapter) {
+          if (!section.chapter.includes('{{')) {
+            refs.push({ book: section.book, chapterId: section.chapter })
+          }
+        }
+        break
+      case 'cycle':
+        if (section.as === 'template' && section.sections) {
+          const cycleData = context.cycleData?.[section.data]
+          if (cycleData) {
+            const allEntries = Object.values(cycleData.entries).flat()
+            for (const entry of allEntries) {
+              const vars: Record<string, string | undefined> = {}
+              for (const [k, v] of Object.entries(entry as Record<string, unknown>)) {
+                if (typeof v === 'string') vars[k] = v
+              }
+              for (const s of section.sections) {
+                const substituted = substituteInFlowSection(s, vars)
+                walkSection(substituted)
+              }
+            }
+          } else {
+            for (const s of section.sections) walkSection(s)
+          }
+        }
+        break
+      case 'repeat':
+        for (const s of section.sections) walkSection(s)
+        break
+      case 'options':
+        if ('from' in section) {
+          for (const s of section.sections) walkSection(s)
+        } else {
+          for (const opt of section.options) {
+            for (const s of opt.sections) walkSection(s)
+          }
+        }
+        break
+      case 'prayer':
+        if ('sections' in section && section.sections) {
+          for (const s of section.sections) walkSection(s)
+        }
+        break
+      case 'select':
+        for (const opt of section.options) {
+          if (opt.sections) for (const s of opt.sections) walkSection(s)
+        }
+        break
+    }
+  }
+
+  for (const section of flow.sections) walkSection(section)
+  if (flow.fragments) {
+    for (const fragmentSections of Object.values(flow.fragments)) {
+      for (const section of fragmentSections) walkSection(section)
+    }
+  }
+
+  return refs
+}
+
 function resolveFlowWithContext(
   flow: FlowDefinition,
   ctx: FlowContext,
@@ -945,14 +1015,17 @@ export async function resolveFlowAsync(
   )
   ctx = resolvedContext
 
-  if (dynamicBookChapters.length === 0) {
+  const sectionBookChapterRefs = collectBookChapterRefs(flow, ctx)
+  const allBookChapterRefs = [...dynamicBookChapters, ...sectionBookChapterRefs]
+
+  if (allBookChapterRefs.length === 0) {
     return resolveFlowWithContext(flow, ctx, engineContext)
   }
 
   const chapterCache = new Map<string, LocalizedContent>()
   const uniqueRequests = Array.from(
     new Map(
-      dynamicBookChapters.map((item) => [chapterCacheKey(item.book, item.chapterId), item]),
+      allBookChapterRefs.map((item) => [chapterCacheKey(item.book, item.chapterId), item]),
     ).values(),
   )
 

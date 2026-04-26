@@ -400,14 +400,14 @@ async function loadBookContentNative(
     }),
   )
 
-  // Read images
+  // Read images (filter by extension to avoid non-image files like manifest.json)
   const images = new Map<string, string>()
   try {
     const imagesDir = new Dir(`${bookDirUri}images`)
     const entries = imagesDir.list()
     await Promise.all(
       entries
-        .filter((entry: any) => entry instanceof NativeFile)
+        .filter((entry: any) => /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(entry.name ?? ''))
         .map(async (file: any) => {
           const b64 = await file.base64()
           const dataUri = `data:${mimeForExt(file.name)};base64,${b64}`
