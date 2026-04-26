@@ -30,11 +30,53 @@
   ],
   "toc": [
     {
+      "id": "front-matter",
+      "title": {
+        "it": "Prefazione",
+        "en-US": "Front Matter",
+        "pt-BR": "Apresentação"
+      },
+      "children": [
+        {
+          "id": "presentazione",
+          "title": {
+            "it": "Presentazione",
+            "en-US": "Presentation",
+            "pt-BR": "Apresentação"
+          }
+        },
+        {
+          "id": "vatican-letter",
+          "title": {
+            "it": "Lettera della Segreteria di Stato",
+            "en-US": "Letter from the Secretariat of State",
+            "pt-BR": "Carta da Secretaria de Estado"
+          }
+        },
+        {
+          "id": "prefazione",
+          "title": {
+            "it": "Prefazione",
+            "en-US": "Preface",
+            "pt-BR": "Prefácio"
+          }
+        },
+        {
+          "id": "abbreviazioni",
+          "title": {
+            "it": "Abbreviazioni",
+            "en-US": "Abbreviations",
+            "pt-BR": "Abreviações"
+          }
+        }
+      ]
+    },
+    {
       "id": "volume-1",
       "title": {
         "it": "Volume I — Dall'Avvento alla V dopo l'Epifania",
         "en-US": "Volume I — From Advent to the 5th Sunday after Epiphany",
-        "pt-BR": "Volume I — do advento ao v domingo depois da epifania"
+        "pt-BR": "Volume I — Do Advento ao 5º Domingo depois da Epifania"
       },
       "children": [
         {
@@ -652,7 +694,7 @@
       "title": {
         "it": "Volume II — Dalla Settuagesima al Sabato Santo",
         "en-US": "Volume II — From Septuagesima to Holy Saturday",
-        "pt-BR": "Volume II — da setuagésima ao sábado santo"
+        "pt-BR": "Volume II — Da Septuagésima ao Sábado Santo"
       },
       "children": [
         {
@@ -1158,7 +1200,59 @@
             "en-US": "Venial Sin",
             "pt-BR": "Vem e Segue-me"
           }
+        }
+      ]
+    },
+    {
+      "id": "feste-vol-2",
+      "title": {
+        "it": "Feste Fisse — Volume II",
+        "en-US": "Fixed Feasts — Volume II",
+        "pt-BR": "Festas Fixas — Volume II"
+      },
+      "children": [
+        {
+          "id": "festa-vol2-purificazione",
+          "title": {
+            "it": "La Purificazione di Maria (2 febbraio)",
+            "en-US": "The Purification of Mary (February 2)",
+            "pt-BR": "A Purificação de Maria (2 de fevereiro)"
+          }
         },
+        {
+          "id": "festa-vol2-giuseppe-patrono",
+          "title": {
+            "it": "S. Giuseppe Patrono della Chiesa (19 marzo)",
+            "en-US": "St. Joseph Patron of the Church (March 19)",
+            "pt-BR": "São José Patrono da Igreja (19 de março)"
+          }
+        },
+        {
+          "id": "festa-vol2-giuseppe-fede",
+          "title": {
+            "it": "Vita di fede in S. Giuseppe (19 marzo)",
+            "en-US": "Life of Faith in St. Joseph (March 19)",
+            "pt-BR": "Vida de fé em São José (19 de março)"
+          }
+        },
+        {
+          "id": "festa-vol2-annunciazione",
+          "title": {
+            "it": "L'Annunciazione di Maria (25 marzo)",
+            "en-US": "The Annunciation of Mary (March 25)",
+            "pt-BR": "A Anunciação de Maria (25 de março)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-3",
+      "title": {
+        "it": "Volume III — Dalla Pasqua alla Pentecoste",
+        "en-US": "Volume III — From Easter to Pentecost",
+        "pt-BR": "Volume III — Da Páscoa a Pentecostes"
+      },
+      "children": [
         {
           "id": "giorno-140",
           "title": {
@@ -1174,17 +1268,7 @@
             "en-US": "Stay with Us (Easter Monday)",
             "pt-BR": "Fica Conosco (Segunda-feira de Páscoa)"
           }
-        }
-      ]
-    },
-    {
-      "id": "volume-3",
-      "title": {
-        "it": "Volume III — Dalla Pasqua alla Pentecoste",
-        "en-US": "Volume III — From the Resurrection to the Most Holy Trinity",
-        "pt-BR": "Volume III — da ressurreição à santíssima trindade"
-      },
-      "children": [
+        },
         {
           "id": "giorno-142",
           "title": {
@@ -1632,17 +1716,7 @@
             "en-US": "Virtues and Gifts",
             "pt-BR": "As Virtudes e os Dons"
           }
-        }
-      ]
-    },
-    {
-      "id": "volume-4",
-      "title": {
-        "it": "Volume IV — Giugno e Luglio",
-        "en-US": "Volume IV — From Corpus Christi to the Ix Sunday after Pentecost",
-        "pt-BR": "Volume IV — do corpus christi ao ix domingo depois de pentecostes"
-      },
-      "children": [
+        },
         {
           "id": "giorno-198",
           "title": {
@@ -1666,7 +1740,17 @@
             "en-US": "Mary Mediatrix",
             "pt-BR": "Maria Mediatriz"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "volume-4",
+      "title": {
+        "it": "Volume IV — Giugno e Luglio",
+        "en-US": "Volume IV — June and July",
+        "pt-BR": "Volume IV — Junho e Julho"
+      },
+      "children": [
         {
           "id": "giorno-201",
           "title": {
@@ -2122,17 +2206,7 @@
             "en-US": "The Precept of Charity",
             "pt-BR": "O Preceito da Caridade"
           }
-        }
-      ]
-    },
-    {
-      "id": "volume-5",
-      "title": {
-        "it": "Volume V — Agosto e Settembre",
-        "en-US": "Volume V — From the Xth to the Xviiith Sunday after Pentecost",
-        "pt-BR": "Volume V — do x ao xviii domingo depois de pentecostes"
-      },
-      "children": [
+        },
         {
           "id": "giorno-258",
           "title": {
@@ -2164,7 +2238,17 @@
             "en-US": "Charity and Humility (X Sunday after Pentecost)",
             "pt-BR": "Caridade e Humildade (x Domingo Depois de Pentecostes)"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "volume-5",
+      "title": {
+        "it": "Volume V — Agosto e Settembre",
+        "en-US": "Volume V — August and September",
+        "pt-BR": "Volume V — Agosto e Setembro"
+      },
+      "children": [
         {
           "id": "giorno-262",
           "title": {
@@ -2620,17 +2704,7 @@
             "en-US": "The Gift of Understanding",
             "pt-BR": "O Dom da Inteligência"
           }
-        }
-      ]
-    },
-    {
-      "id": "volume-6",
-      "title": {
-        "it": "Volume VI — Ottobre e Novembre",
-        "en-US": "Volume VI — From the Xixth to the Last Sunday after Pentecost",
-        "pt-BR": "Volume VI — da xix ao último domingo depois de pentecostes"
-      },
-      "children": [
+        },
         {
           "id": "giorno-319",
           "title": {
@@ -2662,7 +2736,17 @@
             "en-US": "Going Toward the Holy Spirit",
             "pt-BR": "Ao Encontro do Espírito Santo"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "volume-6",
+      "title": {
+        "it": "Volume VI — Ottobre e Novembre",
+        "en-US": "Volume VI — October and November",
+        "pt-BR": "Volume VI — Outubro e Novembro"
+      },
+      "children": [
         {
           "id": "giorno-323",
           "title": {
@@ -3021,6 +3105,136 @@
             "it": "Amore unitivo",
             "en-US": "\"i Am the Life\"",
             "pt-BR": "\"eu Sou a Vida\""
+          }
+        },
+        {
+          "id": "giorno-368",
+          "title": {
+            "it": "L'unione di volontà",
+            "en-US": "Union of Wills",
+            "pt-BR": "União das vontades"
+          }
+        },
+        {
+          "id": "giorno-369",
+          "title": {
+            "it": "L'aiuto divino",
+            "en-US": "Divine Help",
+            "pt-BR": "O auxílio divino"
+          }
+        },
+        {
+          "id": "giorno-370",
+          "title": {
+            "it": "La fine del tempo (ultima dom. dopo Pentecoste)",
+            "en-US": "The End of Time (Last Sun. after Pentecost)",
+            "pt-BR": "O fim dos tempos (último dom. depois de Pentecostes)"
+          }
+        },
+        {
+          "id": "giorno-371",
+          "title": {
+            "it": "Il sì perfetto",
+            "en-US": "The Perfect Yes",
+            "pt-BR": "O sim perfeito"
+          }
+        },
+        {
+          "id": "giorno-372",
+          "title": {
+            "it": "Il dono scambievole",
+            "en-US": "The Mutual Gift",
+            "pt-BR": "O dom recíproco"
+          }
+        },
+        {
+          "id": "giorno-373",
+          "title": {
+            "it": "L'unione totale",
+            "en-US": "Total Union",
+            "pt-BR": "A união total"
+          }
+        },
+        {
+          "id": "giorno-374",
+          "title": {
+            "it": "Il trionfo dell'amore",
+            "en-US": "The Triumph of Love",
+            "pt-BR": "O triunfo do amor"
+          }
+        },
+        {
+          "id": "giorno-375",
+          "title": {
+            "it": "L'amore trasformante",
+            "en-US": "Transforming Love",
+            "pt-BR": "O amor transformador"
+          }
+        },
+        {
+          "id": "giorno-376",
+          "title": {
+            "it": "Intimità divina",
+            "en-US": "Divine Intimacy",
+            "pt-BR": "Intimidade divina"
+          }
+        }
+      ]
+    },
+    {
+      "id": "feste-vol-6",
+      "title": {
+        "it": "Feste Fisse — Volume VI",
+        "en-US": "Fixed Feasts — Volume VI",
+        "pt-BR": "Festas Fixas — Volume VI"
+      },
+      "children": [
+        {
+          "id": "festa-vol6-rosario",
+          "title": {
+            "it": "La Madonna del Rosario (7 ottobre)",
+            "en-US": "Our Lady of the Rosary (October 7)",
+            "pt-BR": "Nossa Senhora do Rosário (7 de outubro)"
+          }
+        },
+        {
+          "id": "festa-vol6-maternita",
+          "title": {
+            "it": "La Maternità di Maria (11 ottobre)",
+            "en-US": "The Motherhood of Mary (October 11)",
+            "pt-BR": "A Maternidade de Maria (11 de outubro)"
+          }
+        },
+        {
+          "id": "festa-vol6-cristo-re",
+          "title": {
+            "it": "Festa di Cristo Re (ultima dom. di ottobre)",
+            "en-US": "Feast of Christ the King (last Sun. of October)",
+            "pt-BR": "Festa de Cristo Rei (último dom. de outubro)"
+          }
+        },
+        {
+          "id": "festa-vol6-santi",
+          "title": {
+            "it": "I Santi (1 novembre)",
+            "en-US": "All Saints (November 1)",
+            "pt-BR": "Todos os Santos (1 de novembro)"
+          }
+        },
+        {
+          "id": "festa-vol6-defunti",
+          "title": {
+            "it": "Commemorazione dei fedeli defunti (2 novembre)",
+            "en-US": "Commemoration of the Faithful Departed (November 2)",
+            "pt-BR": "Comemoração dos fiéis defuntos (2 de novembro)"
+          }
+        },
+        {
+          "id": "festa-vol6-presentazione",
+          "title": {
+            "it": "Presentazione di Maria al tempio (21 novembre)",
+            "en-US": "Presentation of Mary in the Temple (November 21)",
+            "pt-BR": "Apresentação de Maria no Templo (21 de novembro)"
           }
         }
       ]

@@ -16,7 +16,7 @@
     "en-US": "Fr. Gabriel of St. Mary Magdalen, O.C.D.",
     "pt-BR": "P. Gabriel de Santa Maria Madalena, O.C.D."
   },
-  "languages": ["it"],
+  "languages": ["it", "en-US", "pt-BR"],
   "tags": ["meditation", "carmelite", "daily", "liturgical", "prayer"],
   "practices": ["intimita-divina"],
   "prayers": [],
