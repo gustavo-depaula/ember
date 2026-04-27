@@ -1,0 +1,46 @@
+{
+  "id": "chrysostom-eutropius",
+  "name": {
+    "en-US": "Two Homilies on Eutropius",
+    "pt-BR": "Duas Homilias sobre Eutrópio"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Two short, dramatic homilies on the fall of the consul Eutropius, who once persecuted the Church's right of sanctuary and then took refuge at the altar himself. Vivid catechesis on the vanity of worldly power and the mercy of Christ.",
+    "pt-BR": "Duas homilias breves e dramáticas sobre a queda do cônsul Eutrópio, que outrora perseguiu o direito de asilo da Igreja e depois refugiou-se ele mesmo no altar. Catequese vívida sobre a vaidade do poder mundano e a misericórdia de Cristo."
+  },
+  "composed": "399",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "homily-01",
+      "title": {
+        "en-US": "Homily I — When he had taken refuge in the church"
+      }
+    },
+    {
+      "id": "homily-02",
+      "title": {
+        "en-US": "Homily II — When he had quitted the asylum of the church"
+      }
+    }
+  ]
+}

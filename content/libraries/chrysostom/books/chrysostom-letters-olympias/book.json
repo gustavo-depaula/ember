@@ -1,0 +1,64 @@
+{
+  "id": "chrysostom-letters-olympias",
+  "name": {
+    "en-US": "Letters to Olympias",
+    "pt-BR": "Cartas a Olímpia"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Seventeen letters from exile to the deaconess Olympias, the most prominent of Chrysostom's lay disciples. Direct, personal, and rich in encouragement under suffering — pastoral spiritual direction at its tenderest.",
+    "pt-BR": "Dezessete cartas escritas no exílio à diaconisa Olímpia, a mais proeminente das discípulas leigas de Crisóstomo. Direta, pessoal e rica em encorajamento sob o sofrimento."
+  },
+  "composed": "404–407",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "letter-01",
+      "title": {
+        "en-US": "Letter I — To my lady"
+      }
+    },
+    {
+      "id": "letter-02",
+      "title": {
+        "en-US": "Letter II — To Olympias"
+      }
+    },
+    {
+      "id": "letter-03",
+      "title": {
+        "en-US": "Letter III — To Olympias"
+      }
+    },
+    {
+      "id": "letter-04",
+      "title": {
+        "en-US": "Letter IV — To Olympias"
+      }
+    },
+    {
+      "id": "letter-05",
+      "title": {
+        "en-US": "Letter V — To Olympias"
+      }
+    }
+  ]
+}

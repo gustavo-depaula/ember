@@ -1,0 +1,46 @@
+{
+  "id": "chrysostom-ignatius-babylas",
+  "name": {
+    "en-US": "Homilies on Ss. Ignatius and Babylas",
+    "pt-BR": "Homilias sobre Santos Inácio e Bábila"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Two festal panegyrics on the Antiochene martyrs — St. Ignatius of Antioch and St. Babylas — preached at their shrines. Vivid pastoral catechesis on martyrdom, courage, the communion of saints, and the dignity of every Christian life.",
+    "pt-BR": "Dois panegíricos festivos sobre os mártires antioquenos — Santo Inácio de Antioquia e São Bábila — pregados em seus santuários. Catequese pastoral vívida sobre o martírio, a coragem, a comunhão dos santos e a dignidade de toda vida cristã."
+  },
+  "composed": "c. 386–397",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "homily-on-ignatius",
+      "title": {
+        "en-US": "Homily on St. Ignatius"
+      }
+    },
+    {
+      "id": "homily-on-babylas",
+      "title": {
+        "en-US": "Homily on St. Babylas"
+      }
+    }
+  ]
+}

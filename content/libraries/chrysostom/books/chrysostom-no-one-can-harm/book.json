@@ -1,0 +1,40 @@
+{
+  "id": "chrysostom-no-one-can-harm",
+  "name": {
+    "en-US": "No One Can Harm the Man Who Does Not Injure Himself",
+    "pt-BR": "Ninguém Pode Prejudicar Quem Não se Prejudica a Si Mesmo"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "A treatise written from exile in Cucusus near the end of Chrysostom's life and sent to the deaconess Olympias. With Stoic clarity and Christian depth he argues that no external evil — loss, slander, sickness, even death — can truly injure a soul that does not injure itself by sin.",
+    "pt-BR": "Tratado escrito do exílio em Cucuso perto do fim da vida de Crisóstomo, enviado à diaconisa Olímpia. Com clareza estoica e profundidade cristã, argumenta que nenhum mal externo pode prejudicar a alma que não se prejudica pelo pecado."
+  },
+  "composed": "c. 406",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "treatise",
+      "title": {
+        "en-US": "Treatise"
+      }
+    }
+  ]
+}

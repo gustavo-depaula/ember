@@ -1,0 +1,46 @@
+{
+  "id": "chrysostom-power-of-demons",
+  "name": {
+    "en-US": "Three Homilies on the Power of Demons",
+    "pt-BR": "Três Homilias sobre o Poder dos Demônios"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Three homilies preached at Antioch refuting the popular notion that demons or fate govern human affairs. Chrysostom defends free will, providence, and the responsibility of repentance against the despair that despair-of-self and superstition both produce.",
+    "pt-BR": "Três homilias pregadas em Antioquia refutando a noção popular de que os demônios ou o destino governam os assuntos humanos. Crisóstomo defende o livre-arbítrio, a providência e a responsabilidade do arrependimento."
+  },
+  "composed": "c. 388",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "homily-01",
+      "title": {
+        "en-US": "Homily I"
+      }
+    },
+    {
+      "id": "homily-02",
+      "title": {
+        "en-US": "Homily II"
+      }
+    },
+    {
+      "id": "homily-03",
+      "title": {
+        "en-US": "Homily III"
+      }
+    }
+  ]
+}

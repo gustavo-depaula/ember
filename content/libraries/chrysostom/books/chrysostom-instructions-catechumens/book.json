@@ -1,0 +1,40 @@
+{
+  "id": "chrysostom-instructions-catechumens",
+  "name": {
+    "en-US": "Instructions to Catechumens",
+    "pt-BR": "Instruções aos Catecúmenos"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Two pre-baptismal instructions delivered to those preparing for baptism: the laver of regeneration, the renunciation of Satan, the dignity of the baptismal washing, the commitments of Christian life. Pure catechesis, addressed directly to lay catechumens.",
+    "pt-BR": "Duas instruções pré-batismais dirigidas aos que se preparavam para o batismo: o banho da regeneração, a renúncia a Satanás, a dignidade do banho batismal, os compromissos da vida cristã. Catequese pura, dirigida diretamente aos catecúmenos leigos."
+  },
+  "composed": "c. 388",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "first-instruction",
+      "title": {
+        "en-US": "First Instruction"
+      }
+    },
+    {
+      "id": "second-instruction",
+      "title": {
+        "en-US": "Second Instruction"
+      }
+    }
+  ]
+}

@@ -173,6 +173,16 @@ The Cappadocians, Chrysostom, and the Eastern theological tradition.
 | Catechetical Orations | St. Gregory of Nyssa | 4th | Yes |
 | Homilies on the Gospels | St. John Chrysostom | 4th | Yes |
 | On the Priesthood | St. John Chrysostom | 4th | Yes |
+| Homilies on the Statues (21) — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Instructions to Catechumens — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Three Homilies on the Power of Demons — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Two Homilies on Eutropius — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Letter to a Young Widow — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| No One Can Harm the Man Who Does Not Injure Himself — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Homilies on Ss. Ignatius and Babylas — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Homily Concerning Lowliness of Mind — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Five Special Homilies (Father if it be possible / Paralytic / Assembly / Errors of the brethren) — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
+| Letters to Olympias — **shipped in `chrysostom`** | St. John Chrysostom | 4th | Yes |
 | The Ladder of Divine Ascent | St. John Climacus | 7th | Yes |
 | The Divine Names | Pseudo-Dionysius | 5th | Yes |
 | The Mystical Theology | Pseudo-Dionysius | 5th | Yes |

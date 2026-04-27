@@ -1,0 +1,44 @@
+{
+  "id": "chrysostom",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "Pastoral and catechetical works of St. John Chrysostom — homilies, letters, instructions, and treatises preached or written for the Christian people of Antioch and Constantinople. Repentance, almsgiving, providence, the dignity of human nature, the life of the baptised, and Christian endurance under trial.",
+    "pt-BR": "Obras pastorais e catequéticas de São João Crisóstomo — homilias, cartas, instruções e tratados pregados ou escritos para o povo cristão de Antioquia e Constantinopla. Arrependimento, esmolas, providência, a dignidade da natureza humana, a vida do batizado e a perseverança cristã sob a provação."
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "languages": ["en-US"],
+  "tags": ["chrysostom", "patristic", "homilies", "catechesis", "early-church"],
+  "practices": [],
+  "prayers": [],
+  "books": [
+    "chrysostom-instructions-catechumens",
+    "chrysostom-statues",
+    "chrysostom-power-of-demons",
+    "chrysostom-eutropius",
+    "chrysostom-young-widow",
+    "chrysostom-no-one-can-harm",
+    "chrysostom-ignatius-babylas",
+    "chrysostom-lowliness",
+    "chrysostom-special-homilies",
+    "chrysostom-letters-olympias"
+  ],
+  "contents": [
+    { "type": "book", "id": "chrysostom-instructions-catechumens" },
+    { "type": "book", "id": "chrysostom-statues" },
+    { "type": "book", "id": "chrysostom-lowliness" },
+    { "type": "book", "id": "chrysostom-power-of-demons" },
+    { "type": "book", "id": "chrysostom-no-one-can-harm" },
+    { "type": "book", "id": "chrysostom-young-widow" },
+    { "type": "book", "id": "chrysostom-ignatius-babylas" },
+    { "type": "book", "id": "chrysostom-special-homilies" },
+    { "type": "book", "id": "chrysostom-eutropius" },
+    { "type": "book", "id": "chrysostom-letters-olympias" }
+  ]
+}

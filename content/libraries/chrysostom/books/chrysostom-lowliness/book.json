@@ -1,0 +1,34 @@
+{
+  "id": "chrysostom-lowliness",
+  "name": {
+    "en-US": "Homily Concerning Lowliness of Mind",
+    "pt-BR": "Homilia sobre a Humildade"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "A single homily on Philippians 1:18 (\"Whether in pretence, or in sincerity, Christ is preached\"), expounding the master-virtue of humility — the disposition without which no other Christian virtue holds. A short, accessible piece of formation for ordinary believers.",
+    "pt-BR": "Uma única homilia sobre Filipenses 1,18 — exposição da virtude-mestra da humildade, sem a qual nenhuma outra virtude cristã se sustenta. Peça breve e acessível de formação para fiéis comuns."
+  },
+  "composed": "c. 388",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "homily",
+      "title": {
+        "en-US": "Homily"
+      }
+    }
+  ]
+}

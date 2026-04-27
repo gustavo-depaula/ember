@@ -1,0 +1,40 @@
+{
+  "id": "chrysostom-young-widow",
+  "name": {
+    "en-US": "Letter to a Young Widow",
+    "pt-BR": "Carta a uma Jovem Viúva"
+  },
+  "author": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "description": {
+    "en-US": "A pastoral letter of consolation to a young widow recently bereaved, drawing on the resurrection, providence, and the dignity of the widowed state. One of Chrysostom's most accessible works of lay spiritual direction.",
+    "pt-BR": "Carta pastoral de consolo a uma jovem viúva recém-enviuvada, recorrendo à ressurreição, à providência e à dignidade do estado de viuvez. Uma das obras mais acessíveis de Crisóstomo na direção espiritual de leigos."
+  },
+  "composed": "c. 380",
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/schaff/npnf109",
+      "description": "NPNF Series I Vol. IX (Schaff, 1889): Stephens / Brandram / Stevens translations."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "letter",
+      "title": {
+        "en-US": "Letter to a Young Widow"
+      }
+    }
+  ]
+}
