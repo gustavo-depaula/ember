@@ -195,7 +195,7 @@ export async function downloadAndInstallLibrary(
 
   if (onProgress) onProgress(0.1)
   const response = await fetch(url)
-  if (!response.ok) throw new Error(`Download failed: ${response.status}`)
+  if (!response.ok) throw new Error(`Download failed: ${response.status} ${entry.file}`)
   const zipData = await response.arrayBuffer()
   if (onProgress) onProgress(0.6)
 

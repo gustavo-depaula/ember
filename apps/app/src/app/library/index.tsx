@@ -1,8 +1,10 @@
 import * as DocumentPicker from 'expo-document-picker'
 import { useRouter } from 'expo-router'
 import { Book, FileDown } from 'lucide-react-native'
+import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
+import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
@@ -13,6 +15,7 @@ import {
   useLibraryUpdates,
   useUpdateLibrary,
 } from '@/features/libraries/hooks'
+import type { RegistryEntry } from '@/features/libraries/libraryManager'
 import { localizeContent } from '@/lib/i18n'
 
 function BookCard({
@@ -78,9 +81,41 @@ export default function LibraryScreen() {
   const updateLibrary = useUpdateLibrary()
   const importLibrary = useImportLibrary()
 
+  const [updateRun, setUpdateRun] = useState<
+    { index: number; total: number; entry: RegistryEntry } | undefined
+  >()
+  const isUpdatingAll = updateRun !== undefined
+  const currentEntryProgress = updateRun ? (updateLibrary.progress[updateRun.entry.id] ?? 0) : 0
+  const overallProgress = updateRun ? (updateRun.index + currentEntryProgress) / updateRun.total : 0
+
+  const progressValue = useSharedValue(0)
+  useEffect(() => {
+    progressValue.value = withTiming(overallProgress, { duration: 250 })
+  }, [overallProgress, progressValue])
+  const progressFillStyle = useAnimatedStyle(() => ({
+    width: `${progressValue.value * 100}%`,
+  }))
+
   async function handleUpdateAll() {
-    for (const entry of pendingUpdates) {
-      await updateLibrary.mutateAsync(entry)
+    const updates = pendingUpdates
+    if (updates.length === 0) return
+    try {
+      for (let i = 0; i < updates.length; i++) {
+        setUpdateRun({ index: i, total: updates.length, entry: updates[i] })
+        await updateLibrary.mutateAsync(updates[i])
+      }
+    } catch (err) {
+      console.error('[library] update failed:', err)
+      const detail = err instanceof Error ? err.message : undefined
+      confirm({
+        title: t('library.updateFailed'),
+        description: detail
+          ? `${t('library.updateFailedDesc')}\n\n${detail}`
+          : t('library.updateFailedDesc'),
+        singleAction: true,
+      })
+    } finally {
+      setUpdateRun(undefined)
     }
   }
 
@@ -115,33 +150,65 @@ export default function LibraryScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('library.title')} />
 
-        {pendingUpdates.length > 0 && (
-          <XStack
-            gap="$sm"
-            alignItems="center"
-            justifyContent="space-between"
+        {(pendingUpdates.length > 0 || isUpdatingAll) && (
+          <YStack
             paddingVertical="$sm"
             paddingHorizontal="$md"
             borderRadius="$md"
             borderWidth={1}
             borderColor="$accent"
-            backgroundColor="$accentSubtle"
+            backgroundColor="$backgroundSurface"
+            gap="$sm"
+            overflow="hidden"
           >
-            <Text fontFamily="$body" fontSize="$2" color="$color" flex={1}>
-              {t('library.updatesAvailable', { count: pendingUpdates.length })}
-            </Text>
-            <AnimatedPressable
-              onPress={handleUpdateAll}
-              disabled={updateLibrary.isPending}
-              hitSlop={8}
-              accessibilityRole="button"
-              accessibilityLabel={t('library.updateAll')}
-            >
-              <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                {updateLibrary.isPending ? t('library.updating') : t('library.updateAll')}
-              </Text>
-            </AnimatedPressable>
-          </XStack>
+            <XStack alignItems="center" justifyContent="space-between" gap="$sm">
+              {isUpdatingAll && updateRun ? (
+                <YStack flex={1} gap={2}>
+                  <Text fontFamily="$body" fontSize="$2" color="$color" numberOfLines={1}>
+                    {t('library.updatingNamed', {
+                      name: localizeContent(updateRun.entry.name),
+                    })}
+                  </Text>
+                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                    {t('library.updatingProgress', {
+                      current: updateRun.index + 1,
+                      total: updateRun.total,
+                    })}
+                  </Text>
+                </YStack>
+              ) : (
+                <>
+                  <Text fontFamily="$body" fontSize="$2" color="$color" flex={1}>
+                    {t('library.updatesAvailable', { count: pendingUpdates.length })}
+                  </Text>
+                  <AnimatedPressable
+                    onPress={handleUpdateAll}
+                    hitSlop={8}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('library.updateAll')}
+                  >
+                    <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                      {t('library.updateAll')}
+                    </Text>
+                  </AnimatedPressable>
+                </>
+              )}
+            </XStack>
+            {isUpdatingAll && (
+              <YStack height={4} backgroundColor="$borderColor" borderRadius={2} overflow="hidden">
+                <Animated.View
+                  style={[
+                    {
+                      height: 4,
+                      backgroundColor: theme.accent.val,
+                      borderRadius: 2,
+                    },
+                    progressFillStyle,
+                  ]}
+                />
+              </YStack>
+            )}
+          </YStack>
         )}
 
         {installed.length > 0 && (

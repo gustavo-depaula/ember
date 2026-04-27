@@ -846,6 +846,11 @@ export default {
     updatesAvailable_other: '{{count}} atualizações disponíveis',
     updateAll: 'Atualizar Tudo',
     updating: 'Atualizando...',
+    updatingNamed: 'Atualizando {{name}}',
+    updatingProgress: '{{current}} de {{total}}',
+    updateFailed: 'Falha na atualização',
+    updateFailedDesc:
+      'Não foi possível concluir a atualização. Verifique sua conexão e tente novamente.',
     books: 'Livros',
     tableOfContents: 'Sumário',
     previousChapter: 'Anterior',
