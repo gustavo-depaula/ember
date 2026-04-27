@@ -253,6 +253,18 @@ What has been said so far will, with the divine assistance,
 be found sufficient to explain the principal things which regard
 the Holy Eucharist both as a Sacrament and Sacrifice.
 
+## A pastoral reading
+
+The catechism above contains one of the most contested sentences in Christianity: *the sacrifice of the Mass is the same sacrifice as that of the Cross.* Not a re-enactment. Not a memorial of an absent event. The *same* sacrifice — Christ's one self-offering on Calvary — made present here, this morning, on this altar.
+
+How is one sacrifice the same as another? St. Thomas distinguishes the sacrifice itself from the *manner* of offering. Calvary was offered once in a bloody manner (Christ's actual death); the Mass offers it in an unbloody manner, through the ministry of the priest, in the species of bread and wine. The *what* is identical: Jesus, the Lamb who was slain. The *how* is different. Between Calvary and your parish, two thousand years collapse: every Mass is Calvary, lifted out of one Friday in Jerusalem and made available to ordinary Christians on ordinary Sundays.
+
+This is why the Mass is *the most important thing happening on earth*. Empires rise and fall. News cycles churn. But at every Mass, in every time zone, on every continent, the salvation of the world is being applied. There is no work greater. There is no reality more present.
+
+Pius X teaches that the Mass has four ends. First, **adoration** — the supreme worship a creature owes its Creator. Second, **thanksgiving** — *Eucharist* literally means *thanks*. Third, **propitiation** — the sacrifice atones for sin, making real what was won at Calvary. Fourth, **impetration** — through the Mass we obtain graces for the living and the dead.
+
+You can assist at Mass distractedly, half-thinking about lunch. Or you can assist *with* the priest — offering Christ to the Father, with Christ, *as your own offering*. Pius X gives you the most fitting way: *offer it to God in union with the priest, recalling the Passion, receiving Communion*. Three hinges. Use them, and the Mass becomes what it is.
+
 > **Scripture.** *We have an altar, whereof they have no power to eat who serve the tabernacle.* — Hebrews 13:10
 
 > *Lord, the Mass is Calvary. Let me never assist as a spectator. Let me kneel inside it.*

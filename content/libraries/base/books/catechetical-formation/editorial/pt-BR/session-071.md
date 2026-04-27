@@ -1,0 +1,9 @@
+O catecismo acima contém uma das frases mais contestadas da história cristã: *o sacrifício da Missa é o mesmo sacrifício da Cruz.* Não uma reencenação. Não um memorial de um evento ausente. O *mesmo* sacrifício — a única auto-oferta de Cristo no Calvário — tornado presente aqui, esta manhã, neste altar.
+
+Como pode um sacrifício ser o mesmo que outro? São Tomás distingue o sacrifício em si do *modo* de oferecimento. O Calvário foi oferecido uma vez de modo cruento (a morte real de Cristo); a Missa o oferece de modo incruento, pelo ministério do sacerdote, sob as espécies de pão e vinho. O *quê* é idêntico: Jesus, o Cordeiro imolado. O *como* é diferente. Entre o Calvário e a sua paróquia, dois mil anos se dobram: toda Missa é o Calvário, retirado de uma sexta-feira em Jerusalém e tornado disponível a cristãos comuns em domingos comuns.
+
+Por isso a Missa é *a coisa mais importante que está acontecendo na terra*. Impérios sobem e caem. Os ciclos das notícias rodam. Mas em toda Missa, em todo fuso horário, em todo continente, a salvação do mundo está sendo aplicada. Não há obra maior. Não há realidade mais presente.
+
+Pio X ensina que a Missa tem quatro fins. Primeiro, **adoração** — o culto supremo que uma criatura deve ao seu Criador. Segundo, **ação de graças** — *Eucaristia* significa literalmente *graças*. Terceiro, **propiciação** — o sacrifício expia o pecado, tornando real o que foi conquistado no Calvário. Quarto, **impetração** — pela Missa obtemos graças para os vivos e os mortos.
+
+Você pode assistir à Missa distraído, com a cabeça meio no almoço. Ou pode assistir *junto com* o sacerdote — oferecendo Cristo ao Pai, com Cristo, *como sua própria oferta*. Pio X lhe dá o modo mais conveniente: *oferecê-la a Deus em união com o sacerdote, lembrando-se da Paixão, recebendo a Comunhão*. Três dobradiças. Use-as, e a Missa se torna aquilo que é.
