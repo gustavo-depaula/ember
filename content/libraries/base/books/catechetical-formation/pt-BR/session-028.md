@@ -52,6 +52,16 @@ Devemos ainda saber que não somente nos é comunicada a eficácia da Paixão de
 [^17]: «Mas há também outra Comunhão na Igreja que reclama atenção: toda ação piedosa e santa praticada por um pertence a todos e se torna proveitosa a todos, pela caridade que ‹não busca o que é seu›» (*Catecismo Romano*, *loc. cit.*, 25).
 [^18]: «A vantagem destas tantas e tão exaltadas bênçãos concedidas pelo Deus Todo-Poderoso desfrutam-na especialmente os que levam vida cristã na caridade, e são justos e amados de Deus» (*Catecismo Romano*, *loc. cit.*, 26).
 
+## Uma leitura pastoral
+
+O vocabulário das perguntas de Pio X acima pertence a 1912. Leia-o sem fingir que não dói em 2026. O catecismo não está errado quanto ao *fato* da comunhão — existe de fato um Corpo visível ao qual os santos pertencem, e existem pessoas que ainda não entraram nele. Mas a linguagem mais antiga de *infiéis, judeus, hereges, muçulmanos* coloca no mesmo balaio relações muito diferentes com Cristo, e a mente pastoral moderna — formada sobretudo pelo Concílio Vaticano II — aprendeu a falar com mais cuidado.
+
+O Concílio ensina que aqueles que, sem culpa própria, não conhecem a Cristo, mas seguem os ditames da consciência e buscam a verdade, não estão perdidos para a misericórdia de Deus (*Lumen Gentium* 16). A Igreja fala hoje de *plena* comunhão (os que estão unidos a ela na fé, nos sacramentos e no governo) e *imperfeita* comunhão (os outros cristãos batizados, que já partilham muito conosco). O povo judeu em particular é tratado pelo Concílio como nosso irmão mais velho na fé (*Nostra Aetate* 4). A doutrina de que há um Corpo não mudou; o modo como descrevemos os que ainda estão fora dos seus limites visíveis foi refinado pela mesma caridade que a doutrina ensina.
+
+O que permanece inteiramente verdadeiro — e que o breve parágrafo de São Tomás acima está ensinando — é que **a caridade liga vivos e mortos em Cristo numa só sociedade**. Cada Missa que você assiste, cada terço que você reza, cada ato de amor que você pratica chega a lugares que você não vê. Os santos na glória rezam por você. As almas no purgatório se alegram quando você oferece por elas. As almas fora do corpo visível também não foram abandonadas por Deus; as orações da Igreja se estendem até elas, com esperança.
+
+Santo Afonso Maria de Ligório, em *As Glórias de Maria*, faz a própria Maria dizer a Santa Brígida: *Ninguém no mundo, por mais maldito que seja, enquanto vive, está privado de minha misericórdia; pois todos, pela minha intercessão, são ao menos menos tentados pelos demônios do que de outro modo seriam.* Esta é a Comunhão dos Santos em ação. Você não está correndo esta corrida sozinho. Nunca esteve. A nuvem de testemunhas sobre sua cabeça é real e ativa. O trabalho deles, agora, é a sua salvação.
+
 > **Escritura.** *Por isso, também nós, cercados de tão grande nuvem de testemunhas, depondo todo o peso e o pecado que nos cerca, corramos com perseverança na luta que nos é proposta.* — Hebreus 12, 1
 
 > *Santos — conhecidos e desconhecidos — corram comigo hoje. Não me deixem esquecer que a corrida já foi corrida antes.*

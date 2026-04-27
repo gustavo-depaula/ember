@@ -52,6 +52,16 @@ We must also know that not only the efficacy of the Passion of Christ is communi
 [^17]: "But there is also another Communion in the Church which demands attention; every pious and holy action done by one belongs to and becomes profitable to all, through charity which 'seeks not her own' " ("Roman Catechism," "loc. cit.," 25).
 [^18]: "The advantage of so many and such exalted blessings bestowed by Almighty God are especially enjoyed by those who lead a Christian life in charity and are just and beloved of God" ("Roman Catechism," "loc. cit.," 26).
 
+## A pastoral reading
+
+The vocabulary in the Pius X Q&A above belongs to 1912. Read it without pretending it doesn't sting in 2026. The catechism is not wrong about the *fact* of communion — there really is a visible Body that the saints belong to, and there really are persons who have not yet joined it. But the older language of *unbelievers, Jews, heretics, Muslims* lumps together very different relationships to Christ, and the modern pastoral mind — formed especially by the Second Vatican Council — has learned to speak more carefully.
+
+The Council teaches that those who through no fault of their own do not know Christ, yet who follow the dictates of conscience and seek truth, are not lost to God's mercy (*Lumen Gentium* 16). The Church speaks now of *full* communion (those joined to her in faith, sacrament, and governance) and *imperfect* communion (other baptized Christians who already share much with us). The Jewish people in particular are addressed by the Council as our elder brothers in faith (*Nostra Aetate* 4). The doctrine that there is a Body has not changed; the way we describe those still outside its visible limits has been refined by the very charity the doctrine teaches.
+
+What remains entirely true — and what St. Thomas's brief paragraph above is teaching — is that **charity binds the living and the dead in Christ into one society**. Every Mass you attend, every rosary you pray, every act of love you perform reaches places you cannot see. Saints in glory pray for you. Souls in purgatory rejoice when you offer for them. Souls outside the visible body are not abandoned by God either; the prayers of the Church reach toward them with hope.
+
+St. Alphonsus Liguori, in *The Glories of Mary*, has Mary herself say to St. Bridget: *No one in the world, however accursed, while he lives, is deprived of my mercy; for everyone, by my intercession, is at least less tempted by the demons than he otherwise would be.* This is the Communion of Saints in action. You are not running this race alone. You never have been. The cloud of witnesses over your head is real and active. Their work, now, is your salvation.
+
 > **Scripture.** *And therefore we also having so great a cloud of witnesses over our head, laying aside every weight and sin which surrounds us, let us run by patience to the fight proposed to us.* — Hebrews 12:1
 
 > *Saints — known and unknown — run with me today. Don't let me forget that the race has been run before.*
