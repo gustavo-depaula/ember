@@ -2,7 +2,7 @@ O catecismo acima retoma o **exame de consciência** — o ato pelo qual o crist
 
 O *Fariseu e o Publicano* (a imagem de hoje) é exatamente o enquadramento certo. Ambos subiram ao templo para rezar; só um rezou com verdade. O exame de consciência é **a oração do publicano tornada visível** — *Senhor, tem piedade de mim, pecador*, dito com especificidade. *Menti. Bebi demais. Recusei aquela conversa. Deixei o ressentimento crescer. Faltei à Missa por nada.* Os pecados são nomeados. O nomear é a porta.
 
-O método clássico de Aquino, refinado através dos séculos por Inácio e por Francisco de Sales, tem três movimentos:
+O método clássico do exame, na forma que recebeu para a formação dos leigos com Inácio (*Exercícios Espirituais* §43) e Francisco de Sales, tem três movimentos:
 
   1. **Coloque-se na presença de Deus.** *Senhor, na vossa luz deixai-me ver o que fiz.* A luz vem de fora; você não a gera. Peça-a.
 

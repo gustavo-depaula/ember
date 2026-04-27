@@ -307,7 +307,7 @@ What happens during a Holy Hour? **Almost nothing.** That is its glory.
   * Your mind will wander. Bring it back. Wander again. Bring it back. **The wandering is not a failure**; the *return* is what adoration is.
   * Sometimes you will feel His presence. Often you will feel nothing. *Sense fails*, as Aquinas warned. Faith reports what sense cannot.
 
-The Catholic saints who have written on this — Francis de Sales, John Vianney, Margaret Mary Alacoque, Faustina, Mother Teresa — agree on the central testimony: **a soul is changed slowly by sitting before Christ**. The Curé of Ars said of his peasant who would visit the church daily: *I look at Him, and He looks at me.* That is enough.
+The Catholic saints who have written on this — Francis de Sales, John Vianney, Margaret Mary Alacoque, Faustina, Mother Teresa — agree on the central testimony: **a soul is changed slowly by sitting before Christ**. The Curé of Ars asked an old peasant what he did during his long visits before the Tabernacle. The peasant answered: *I look at Him, and He looks at me.* That is enough.
 
 Three practical disciplines:
 

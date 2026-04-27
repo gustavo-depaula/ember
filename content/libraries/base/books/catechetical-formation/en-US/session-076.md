@@ -463,7 +463,7 @@ Murillo's *Return of the Prodigal Son* (today's image) is the Catholic doctrine 
 
 But notice what the Father does *next*. He does not say *forget what happened*; He restores the son to the household with all its responsibilities. The fatted calf is killed; the elder brother is invited; the family meal is held *in the open*, where the village will see. **The son's restoration is real, public, and bodily.** That is what *satisfaction* is.
 
-Aquinas: satisfaction is *what a son does, freely, after he has been received*. It is not a payment to a creditor; it is the *natural movement* of a healed soul toward repairing what it has damaged. Three layers of satisfaction the Christian tradition has always held:
+For Aquinas, satisfaction is what a son does, freely, after he has been received — not a payment to a creditor, but the *natural movement* of a healed soul toward repairing what it has damaged. Three layers of satisfaction the Christian tradition has always held:
 
   * **The penance the priest gives.** *Three Hail Marys*, or *one rosary*, or *go and reconcile with that person* — whatever the confessor assigns is **part of the sacrament itself**. Do it within twenty-four hours if humanly possible. The penance is not the price of forgiveness; the forgiveness has already happened. The penance is the *first act of the new life*.
 

@@ -2,7 +2,7 @@ The catechism above takes up the **examination of conscience** — the act by wh
 
 The *Pharisee and the Publican* (today's image) is exactly the right framing. Both went up to the temple to pray; only one prayed truthfully. The examination of conscience is **the publican's prayer made visible** — *Lord, be merciful to me, a sinner* spoken with specificity. *I lied. I drank too much. I refused that conversation. I let resentment grow. I missed Mass for nothing.* The sins are named. The naming is the door.
 
-Aquinas's classical method, refined through the centuries by Ignatius and de Sales, has three movements:
+The classical method of examination, given its lay-formation shape by Ignatius (*Spiritual Exercises* §43) and Francis de Sales, has three movements:
 
   1. **Place yourself in God's presence.** *Lord, in Your light let me see what I have done.* The light comes from outside; you do not generate it. Ask for it.
 
