@@ -45,6 +45,20 @@ This communication takes place through the Sacraments of the Church in which ope
 
 "Matrimony."--The seventh Sacrament is Matrimony, and in it men, if they live uprightly, are saved; and thereby they are enabled to live without mortal sin. Sometimes the partners in marriage fall into venial sin, when their concupiscence does not extend beyond the rights of matrimony; but if they do go beyond such rights, they sin mortally.[^13]
 
+## A pastoral reading
+
+The catechism above moves quickly across an enormous claim: *Christ founded the Church so that human beings might find in her a sure guide and the means of holiness*. **A sure guide. The means of holiness.** Either of those phrases would be controversial today; the catechism states them in the same breath as if obvious.
+
+A modern Catholic should sit with what is being said. The Church is not, on this teaching, *one* community of seekers among many, nor *a* helpful institution for those who like rituals. The Church is the *visible body* of Christ — the place where *the means of holiness* are kept and given, and the *guide* in whose teaching the Christian rests with confidence. Pius X names the means specifically: **the true faith, the sacrifice and the sacraments, and the mutual spiritual helps** of prayer, counsel, and example.
+
+Aquinas takes this doctrine even deeper. The Church, he says, is *a single body* in which *the good of one is communicated to all*. Every Mass offered, every prayer, every act of mercy, every drop of suffering joined to Christ — *all of it flows through the Body* and reaches members the doer never meets. This is the **Communion of Saints**, anchored in this article of the Creed before being personalized in the next session.
+
+The corollary is striking: **you do not progress toward holiness alone**. The graces won by the saints (some of whom you have never read about), the merits of Christ Himself, the prayers offered in convents at three in the morning by people you will never see — *all of it is for you.* And in turn: every act of charity you do, every fast, every Communion received well, contributes to the Body that is sustaining you.
+
+The seven sacraments Aquinas reviews here are not seven optional spiritual products on a shelf. They are the **seven concrete means** by which the divine life enters human time. Baptism (rebirth). Confirmation (strengthening). Eucharist (food). Penance (healing). Anointing (preparation for the threshold). Holy Orders (the priesthood that serves the others). Matrimony (the covenant that mirrors Christ and the Church). Aquinas: *the fullness of life is had from these five Sacraments* (the first five), with Orders and Matrimony serving the *common life* of the Body. We will walk through each in the sessions to come.
+
+Today, then, identify *one means of holiness* you have been neglecting — Mass, Confession, daily prayer, almsgiving, the company of believers — and **return to it** this week. The Church is not your religion-of-choice. She is the body in which Christ continues to give Himself away.
+
 > **Scripture.** *Now you are the body of Christ, and members of member.* — 1 Corinthians 12:27
 
 > *Communion of saints — pray for me. I am one of you, weakly, but really. Hold me up.*
