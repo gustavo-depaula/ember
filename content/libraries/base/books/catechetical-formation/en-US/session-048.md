@@ -67,6 +67,16 @@ St. Gregory says that sins of the flesh are more shameful and less blameful than
 [^22]: Proverbs 6:33.
 [^23]: Psalm 48:21. "If the occasions of sin which we have just enumerated [viz., idleness, intemperance in eating and drinking, indulgence of the eyes, immodest dress, immodest conversation and reading] be carefully avoided, almost every excitement to lust will be removed. But the most efficacious means to subdue its violence are frequent use of confession and reception of the Holy Eucharist. Unceasing and devout prayer to God, accompanied by fasting and giving of alms, has the same salutary effect. Chastity is a gilt of God. To those who ask it aright, He does not deny it; nor does He allow us to be tempted beyond our strength" ("Roman Catechism," "loc. cit.," 12).
 
+## A pastoral reading
+
+The Aquinas above is medieval in some of its details — when he speaks of "the weaker vessel" or assumes that the husband alone teaches the wife at home, he is repeating the cultural air of his century, not the Church's deeper teaching, which has consistently held both spouses to the *same* standard of fidelity. *Husbands*, Aquinas himself adds firmly, *do not sin any less than wives*. That sentence is the durable principle. The dated phrasings around it are not.
+
+The body, Pius X insists in his beautiful phrase, is *holy* and *a temple of God*. Chastity is not the negation of the body. It is the integration of the body with the truth of who you are — a person made for total self-gift, not for use. The opposite of chastity is not pleasure; the opposite of chastity is **use** — the use of another person (or of yourself) as something less than a soul-bearing image of God.
+
+The Church's teaching on chastity has not changed. It has *deepened*, especially in the **Theology of the Body** of Pope St. John Paul II (fifteen years of catecheses begun in Rome in 1979) which reads Genesis 2 — *it is not good for man to be alone* — as the foundation of a positive sexual ethic: man and woman are made for communion, and the body is the language. Premarital sex, adultery, pornography, hookup culture — each of these breaks the language of the body, makes it say with action what the will has not truly consented to. That is the source of the ache people feel afterward. Not Catholic guilt. The **lie the body has been forced to speak**.
+
+If you have fallen — many of us have — go to Confession. Today if possible. The grace of the sacrament really and truly restores; St. Thomas teaches that no number of sins exceeds the power of the keys. Then begin again, with the small habits St. Augustine names in his *Confessions*: turn the eyes, guard the imagination, fast occasionally, pray the Memorare. *Continence*, he wrote, *is the gathering of the scattered self into one* — not denial of the body, but the body recovered for what it is for.
+
 > **Scripture.** *Or know you not, that your members are the temple of the Holy Ghost, who is in you, whom you have from God; and you are not your own?* — 1 Corinthians 6:19
 
 > *Lord, this body is Yours. Today, let me handle it as Yours, and the bodies of others as Yours also.*

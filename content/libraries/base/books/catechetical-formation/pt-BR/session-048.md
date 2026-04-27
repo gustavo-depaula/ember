@@ -67,6 +67,16 @@ São Gregório diz que os pecados da carne são mais vergonhosos e menos culpáv
 [^22]: Pr 6, 33.
 [^23]: Sl 48, 21. «Se se evitam cuidadosamente as ocasiões de pecado que acabamos de enumerar [a saber, a ociosidade, a intemperança no comer e no beber, a indulgência dos olhos, a vestimenta imodesta, a conversação e a leitura imodestas], quase todo estímulo da luxúria será afastado. Mas os meios mais eficazes para subjugar a sua violência são o uso frequente da confissão e a recepção da Santa Eucaristia. A oração incessante e devota a Deus, acompanhada do jejum e da esmola, tem o mesmo salutar efeito. A castidade é dom de Deus. Aos que a pedem como devem, Ele não a recusa; nem permite que sejamos tentados além das nossas forças» (*Catecismo Romano*, *loc. cit.*, 12).
 
+## Uma leitura pastoral
+
+O Aquino acima é medieval em alguns detalhes — quando fala do "vaso mais frágil" ou supõe que só o marido ensina a mulher em casa, está repetindo o ar cultural de seu século, não o ensinamento mais profundo da Igreja, que sempre manteve ambos os cônjuges sob o *mesmo* padrão de fidelidade. *Os maridos*, acrescenta o próprio Aquino com firmeza, *não pecam menos que as mulheres*. Esta frase é o princípio duradouro. As fraseologias datadas em torno dela não são.
+
+O corpo, insiste Pio X em sua bela expressão, é *santo* e *templo de Deus*. A castidade não é a negação do corpo. É a integração do corpo com a verdade de quem você é — uma pessoa feita para o dom total de si, não para o uso. O oposto da castidade não é o prazer; o oposto da castidade é o **uso** — usar outra pessoa (ou a si mesmo) como algo menor do que uma imagem de Deus que carrega uma alma.
+
+O ensinamento da Igreja sobre a castidade não mudou. Ele se *aprofundou*, sobretudo na **Teologia do Corpo** de São João Paulo II (quinze anos de catequeses iniciadas em Roma em 1979), que lê o Gênesis 2 — *não é bom que o homem esteja só* — como fundamento de uma ética sexual positiva: o homem e a mulher foram feitos para a comunhão, e o corpo é a linguagem. Sexo antes do matrimônio, adultério, pornografia, cultura do "ficar" — cada um destes quebra a linguagem do corpo, faz o corpo dizer com ato o que a vontade não consentiu verdadeiramente. É essa a fonte da dor que as pessoas sentem depois. Não a culpa católica. A **mentira que o corpo foi forçado a dizer**.
+
+Se você caiu — muitos de nós caímos — vá à Confissão. Hoje se for possível. A graça do sacramento de fato e verdadeiramente restaura; São Tomás ensina que nenhum número de pecados ultrapassa o poder das chaves. Depois recomece, com os pequenos hábitos que Santo Agostinho nomeia em suas *Confissões*: desviar os olhos, guardar a imaginação, jejuar de vez em quando, rezar o *Lembrai-vos*. *A continência*, escreveu ele, *é o recolher de um eu disperso em um só* — não a negação do corpo, mas o corpo recuperado para aquilo que é.
+
 > **Escritura.** *Ou não sabeis que o vosso corpo é o templo do Espírito Santo que está em vós, que recebestes de Deus, e que já não vos pertenceis?* — 1 Coríntios 6, 19
 
 > *Senhor, este corpo é Vosso. Hoje, fazei-me tratá-lo como Vosso, e o corpo dos outros também como Vosso.*
