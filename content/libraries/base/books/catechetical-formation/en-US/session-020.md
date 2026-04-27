@@ -39,6 +39,18 @@ Of the good also, some will be saved and shall not be judged. they are the poor 
 
 Others shall both be saved and judged, that is, they who die in a state of righteousness. For although they departed this life in justice, nevertheless they fell somewhat amiss in the business of temporal matters, and hence shall be judged but saved. The judgment will be upon all their deeds good and bad: "Walk in the ways of thy heart, . . . and know that for all these God will bring thee into judgment."[^13] "And all things that are done, God will bring into judgment for every error, whether it be good or evil."[^14] Even idle words shall be judged: "But I say to you that every idle word hat men shall speak, they shall render an account for it in the day of judgment."[^15] And thoughts also: "For inquisition shall be made into the thought of the ungodly."[^16] Thus, the form of the judgment is clear.
 
+## A pastoral reading
+
+Modern Catholics tend to feel embarrassed by the Final Judgment. We are taught — usually by our own age, not by our faith — that to speak of judgment is to be small-hearted, fearful, even un-Christian. The catechism above is asking us to look the doctrine in the face and recognize that it is **good news**.
+
+If there is no Last Day, then the murderer goes unpunished. The lover of the poor gets nothing for what they spent on it. The martyr's blood was paid into a void. The grandmother who prayed her rosary every day for fifty years is no different, in the end, from the man who spent those years exploiting people he could exploit. *That* is the world without judgment. The doctrine of the Last Day is the truth that nothing love did is wasted, and nothing evil did is hidden. *History has an ending; therefore history has a meaning.*
+
+St. Thomas helps us notice that there are *two* judgments — Pius X is careful about this. The **particular** judgment happens immediately at death: the soul is judged, alone, by Christ, and goes at once to its place. The **general** judgment happens at the end of history, when all the dead rise and the whole arc of every life is shown publicly, in the full context of every consequence and connection. The general judgment will not change the verdict of the particular; it will *vindicate* it. The hidden good will be seen by the world for the first time. The hidden evil also.
+
+Aquinas notes — gently — that Christ judges as Man, not only as God: He has the form of a man visible to those whom He judges. Even the damned see Him. They cannot enjoy Him. But the One who suffered injustice from us is the One who renders justice over us, and that double truth contains a strange mercy: He has *been* what we are. He knows.
+
+The day's prayer says it precisely: *Just Judge, You will see everything. Today let me live so that I will not be ashamed when You do.* This is what the doctrine is for. Not to scare you. To **help you live now as someone who is being seen now**. He sees you anyway. Let what He sees be one small act of love today. Then another tomorrow. The day of judgment is also the day of harvest.
+
 > **Scripture.** *And when the Son of man shall come in his majesty, and all the angels with him, then shall he sit upon the seat of his majesty.* — Matthew 25:31
 
 > *Just Judge, You will see everything. Today let me live so that I will not be ashamed when You do.*
