@@ -63,6 +63,18 @@ Although all this is terrible to contemplate, yet at times there are any who fal
 [^16]: Acts 5:29.
 [^17]: Philippians 3:19.
 
+## A pastoral reading
+
+The first article of the Creed begins with the most consequential preposition in human language: ***one***.
+
+Aquinas takes for granted what almost no modern reader does: that *the existence of a Creator can be reached by reason itself*. The mind reflecting on the order of nature — sun, moon, stars, the body, the cell — runs into a wall it cannot push over: there is law here, and law implies a lawgiver. *He is foolish indeed who believes this is due to chance, because he does not know the causes and method of God's dealing with men.* The five proofs of the Summa Theologiae will later make this rigorous; here, in his preached form, Aquinas keeps it conversational. *No one is so foolish as to deny that all nature, which operates with a definite time and order, is subject to the rule and foresight of someone.*
+
+Pius X then asks the deeper question — and admits its strangeness. *We do not understand, nor can we understand, how the three divine Persons, though really distinct, are one God: it is a mystery.* This is not theological hand-waving. It is the doctrine being honest with itself. The God of the Christians is not the God of the philosophers alone. The philosophers can reach the existence of *a* God; the Trinity is reached only because *He spoke*. Christmas, Easter, Pentecost are the events in which the One unfolded into the Three for our sake.
+
+Aquinas then catalogues why, even now, humans drift back toward many gods: dullness of intellect (worshipping what we can see), flattery of power, love of family elevated to worship, and the malice of the devil who wishes our worship for himself. The list is uncannily current. We do not call them gods today. We call them *the algorithm, the brand, the ancestor, the cause, the king, my own desire*. The diagnosis is the same; the names changed.
+
+The doctrine of the One God is therefore the *first work of religion*: not assent to a proposition, but the **refusal of every other ruler of the heart**. The Burning Bush — the day's image — is what this looks like when it actually happens. *Take off thy shoes from off thy feet; for the place wherein thou standest is holy ground.* When you stop in front of Him today — at Mass, at the Tabernacle, in the morning silence before the phone — that is what is happening. There is one God. He is the fire. He does not negotiate.
+
 > **Scripture.** *Hear, O Israel, the Lord our God is one Lord.* — Deuteronomy 6:4
 
 > *There is one God. Today, let nothing usurp Him in me — not anxiety, not the algorithm, not myself.*
