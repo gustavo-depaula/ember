@@ -126,6 +126,22 @@ The fourth and final reason is that Christ might free the just who were in hell 
 [^19]: Job 19:21.
 [^20]: 2 Maccabees 12:46.
 
+## A pastoral reading
+
+**He died as a man because as God He could not.** Today's ekphrasis is theologically exact, and the catechism above unfolds why. The Christian doctrine of the Crucifixion is not the death of *only* Christ's humanity; it is the death of the *Person* of the Son, who is Himself God, in the human nature He had assumed. The Christian language is precise: *the Son of God died* — *not because divinity can die* (it cannot), but *because the Person who is God truly suffered and died in His humanity*. This is what the *communicatio idiomatum* names — the *exchange of properties* by which what is true of one nature in Christ is truthfully said of His Person.
+
+What this means: when you look at the Crucifix, you are not looking at *part* of Christ suffering while *part* watched from elsewhere. You are looking at **the One Person of the Son, suffering really, with all that the body felt and all that the human soul felt**. Velázquez's painting (today's image) — *quiet, total, alone* — is more theologically exact than centuries of devotional sentiment that softened the Cross into a stage piece.
+
+The catechism above also takes up the **three days in the tomb**. The Apostles' Creed says *He descended into hell*. This is not the place of the damned; it is *Sheol*, the *place of the just dead* — the patriarchs, prophets, and righteous of the Old Covenant, who could not enter heaven until the Redeemer had paid the price. **For three days, the souls of Adam and Eve, of Abraham and Moses, of David and Isaiah, were visited by the Christ for whom they had waited.** The famous Holy Saturday icon of the Eastern Church shows Christ stepping on the broken gates of Sheol and pulling Adam and Eve up by the wrist. The doctrine is not folklore. It is in the Creed.
+
+What does Christ's death actually do?
+
+  * **Satisfaction.** Aquinas, with the Latin tradition: Christ's free offering of Himself was of *infinite value* (because He is God) and *fittingly* repaid the debt of human sin. The Father did not require the death; He *accepted* it as the offering His Son chose to make.
+  * **Redemption.** The cost was paid. Humans now belong to Christ at a price He fixed — *you are bought with a price* (1 Corinthians 6:20).
+  * **Reconciliation.** The friendship between God and humanity, broken at the Fall, is *re-opened*. The doors of grace are not just unlocked but flung wide.
+
+The center of all the world was right there, hidden under stone. Today, take ten seconds before you go anywhere — *He died for me*. Not abstractly. *For me*. **Live the rest of the day inside that sentence.**
+
 > **Scripture.** *Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit.* — 1 Peter 3:18
 
 > *By Your wounds I am healed. Today, let me carry someone else's a little, in You.*

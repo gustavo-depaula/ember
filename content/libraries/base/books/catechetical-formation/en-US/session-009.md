@@ -88,6 +88,22 @@ The spirit of God moved over the waters, and again, By the word
 of the Lord the heavens were established; and all the power of
 them by the spirit of his mouth.
 
+## A pastoral reading
+
+Catholic doctrine on the angels and demons is **not optional folklore**. It is creed-level. The catechism above teaches what the Church has held since the apostles: God created the angels — pure spirits, intelligent and free, *more numerous than humans* — and at the dawn of their existence offered them the same choice that He offers us, to love Him above all. Some chose otherwise. **Those that chose otherwise we now call demons.** The fall of Lucifer, narrated obliquely in Isaiah 14 and Revelation 12, is a real event in the history of created freedom.
+
+Three doctrinal points the catechism is asking modern Catholics to recover:
+
+  * **The angels are real persons**, not allegories of psychological forces. They have names (Michael, Gabriel, Raphael are named in Scripture), missions, and a kind of communion with each other and with the saved. Aquinas walks the *nine choirs of angels* with his characteristic rigor — Seraphim, Cherubim, Thrones, Dominations, Virtues, Powers, Principalities, Archangels, Angels — each distinguished by the proximity to God or the kind of mission they bear. Not myth. Patristic and medieval theology, drawing on Scripture (Ephesians 1:21; Colossians 1:16; Pseudo-Dionysius's *Celestial Hierarchy*).
+
+  * **Each baptized soul has a guardian angel.** Pius X is unambiguous; Christ Himself attests to it: *their angels in heaven always behold the face of My Father* (Matthew 18:10). Your angel is a real person, given to you on the day of your baptism, **still here**, watching, interceding, prompting. The recovery of the simple childhood prayer — *Angel of God, my guardian dear...* — is a spiritual asset modern Catholics often forget. Pray it daily. Speak to your angel by name if you have given them one.
+
+  * **The demons are real, personal, and active.** Not a moral abstraction. Not metaphors for psychological pathology. Aquinas, drawing on the Gospels, treats the devil as a real adversary with limited but actual power — *like a roaring lion seeketh whom he may devour* (1 Peter 5:8). The Christian is not paranoid about this — Christ has *already won*; the devil's authority is broken — but the Christian does not pretend the war is fictional. The seven gifts of the Holy Spirit, the sacraments, the saints' intercession, prayer to the Holy Name — these are real defenses given for a real fight.
+
+A small practice: **once a day, for the next week, name your guardian angel and ask for one specific help.** *Quiet me in the meeting at three. Keep me from that conversation. Show me where I should go.* The angel was given to you for exactly this. The catechism is asking you to use what is already yours.
+
+Reni's archangel sets his foot on the dragon, *almost calmly*. The calm is theologically exact. The angel is not afraid of the demon. **You should not be either, while the angel is at your side.**
+
 > **Scripture.** *For he hath given his angels charge over thee; to keep thee in all thy ways.* — Psalm 91:11
 
 > *Holy guardian, walk closer today. Make me grateful, attentive, less alone than I think.*
