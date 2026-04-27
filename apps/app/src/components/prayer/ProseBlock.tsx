@@ -4,6 +4,7 @@ import { Fragment } from 'react'
 import { Text as RNText } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import { bodyFont } from '@/config/fonts'
+import { ImageBlock } from './ImageBlock'
 import type { InlineNode } from './parseMarkdown'
 import { parseMarkdown } from './parseMarkdown'
 
@@ -121,6 +122,8 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                 ))}
               </YStack>
             )
+          case 'image':
+            return <ImageBlock key={i} src={node.src} />
           default:
             return (
               <Text key={i} fontFamily="$body" fontSize="$3" color="$color">

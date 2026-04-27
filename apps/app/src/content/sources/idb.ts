@@ -109,6 +109,13 @@ function collectProseFiles(sections: FlowSection[]): string[] {
   return files
 }
 
+function rewriteMarkdownImagePaths(md: string, bookDirUri: string): string {
+  return md.replace(
+    /(!\[[^\]]*\]\()(\.\.\/images\/[^)\s]+)(\))/g,
+    (_m, open, rel, close) => `${open}${bookDirUri}${rel.slice(3)}${close}`,
+  )
+}
+
 function rewriteImagePaths(sections: FlowSection[], basePath: string): void {
   for (const section of sections) {
     if (section.type === 'image' && section.src && !section.src.startsWith('data:')) {
@@ -244,8 +251,11 @@ export async function createIdbSource(libraryId: string): Promise<ContentSource>
     getProseText: (filePath) => proseTexts.get(filePath),
     getBookEntry: (id) => bookEntries[id],
     getAllBookEntries: () => allBookEntries,
-    loadBookChapterText: (bookId, chapterId, lang) =>
-      idbReadText(`${bookDirPath}books/${bookId}/${lang}/${chapterId}.md`),
+    loadBookChapterText: async (bookId, chapterId, lang) => {
+      const bookDirUri = `idb://${bookDirPath}books/${bookId}/`
+      const md = await idbReadText(`${bookDirPath}books/${bookId}/${lang}/${chapterId}.md`)
+      return md ? rewriteMarkdownImagePaths(md, bookDirUri) : undefined
+    },
   }
 }
 

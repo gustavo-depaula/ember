@@ -3,6 +3,7 @@ export type ProseNode =
   | { type: 'heading'; level: number; text: string }
   | { type: 'blockquote'; children: InlineNode[] }
   | { type: 'list'; ordered: boolean; items: InlineNode[][] }
+  | { type: 'image'; src: string; alt: string }
 
 export type InlineNode =
   | { type: 'text'; text: string }
@@ -112,6 +113,14 @@ export function parseMarkdown(markdown: string): ProseNode[] {
 
     // Non-blockquote line ends any blockquote run
     flushBlockquote()
+
+    const imageMatch = trimmed.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
+    if (imageMatch) {
+      flushParagraph()
+      flushList()
+      nodes.push({ type: 'image', alt: imageMatch[1], src: imageMatch[2] })
+      continue
+    }
 
     const headingMatch = trimmed.match(/^(#{1,3})\s+(.+)$/)
     if (headingMatch) {
