@@ -209,18 +209,105 @@ editorial-vs-verbatim provenance. Commit: `45406a7`.
 
   ~5,000 words of new pastoral commentary per language.
 
-**What I want to do next (queued):**
-  * Try `/import-book` for *The Imitation of Christ* (Thomas à Kempis)
-    — flagged in PIPELINE.md as Tier-1 next book.
-  * Editorial readings for the rest of the Eucharist arc (067–071) and
-    for the Penance/Marriage adjacents.
-  * Editorial reading for Session 003 (Apostles' Creed intro) and
-    Session 015 (Incarnation), as bookends for the 32-session Creed
-    walk.
-  * Possibly reorder sessions where the catechetical sequence and the
-    formation arc differ (the user offered this freedom). Specifically:
-    the Beatitudes (058) might land better before the Decalogue (035+)
-    since they're Christ's fulfilment, not just an addendum to the
-    moral Q&A. To consider, not yet decided.
+### 2026-04-27 — Phase 3: more editorial readings on the sacraments
+
+Authored editorial readings for six more sessions, mostly across the
+Sacraments arc:
+
+  * **003 — Apostles' Creed intro.** Reframes the next thirty-two
+    sessions as walking *through* a deposit of faith handed to the
+    reader, not a quiz. Aquinas on knowing vs. believing; Pius X's
+    definition of mystery (above reason, not against it). Closes:
+    *the Christian life begins not when you decide what is true,
+    but when what is true decides you*. Commit: `b905f7b`.
+  * **062 — Baptism.** Most adults slept through their Baptism;
+    recovers the day with adult mind. The three things that
+    happened (original sin washed, sanctifying grace infused,
+    indelible character imprinted); defends infant Baptism as the
+    free gift of the entire dispensation; Pius X's clear teaching
+    that anyone may baptize in necessity (with the practical:
+    children are alive in heaven now because of this). Lands on
+    renewing baptismal promises today as adult assent. Commit:
+    `3259ce0`.
+  * **064 — Confirmation.** Names what most adult Catholics actually
+    remember of their Confirmation (a parish hall at fourteen;
+    grandma's tears) and reframes Pius X's *soldier of Christ* as
+    the sacrament of the transition where Christian life stops being
+    given to you and starts being defended by you. Aquinas on
+    indelible character; the seven gifts of the Holy Spirit; closes
+    with 2 Tim 1:6 (*stir up the gift of God which is in thee*) as
+    the Church's standing renewal-of-grace text. Commit: `eaf365c`.
+  * **066 — Eucharist intro.** Aquinas's *Adoro Te Devote* — the
+    word *latens* (hidden) at the heart of the Real Presence — and
+    Vatican II's *fons et culmen* alongside Aquinas's *consummatio*.
+    Closes: *receive Him as if for the first time. He gives Himself
+    as if for the first time, every time*. Commit: `78e2600`.
+  * **069 — Daily Communion.** The Pope who wrote the catechism
+    above (Pius X) was the modern era's greatest advocate of daily
+    Communion. *Sacra Tridentina Synodus* (1905) and *Quam Singulari*
+    (1910) are named; Jansenism's long shadow on the fear of
+    unworthiness; *Domine, non sum dignus* read as doctrine, not
+    rhetorical apology. Lands: daily Communion is for the dependent,
+    not the holy. Commit: `b905f7b`.
+  * **071 — Mass as Sacrifice.** The most contested Catholic sentence:
+    *the same sacrifice as Calvary*. Aquinas's distinction between
+    sacrifice itself and manner of offering (bloody on Calvary,
+    unbloody on the altar); the four ends of Mass (adoration,
+    thanksgiving, propitiation, impetration); Pius X's three hinges
+    of fitting assistance (offer with the priest, recall the Passion,
+    receive Communion). Commit: `b6a8a20`.
+  * **077 — Anointing of the Sick.** Corrects the widespread
+    "last rites" misunderstanding. Pius X's own phrase ("when the
+    illness is dangerous") — not just the dying hour — and the
+    post-Vatican-II rename. Grounds in James 5:14-15 (prayer,
+    anointing, forgiveness, plus Pius X's fourth element of bodily
+    healing if it serves the soul). Highlights the gentle teaching
+    that even mortal sins are forgiven through the sacrament when
+    the only-attrite sick person can no longer confess. Issues the
+    pastoral imperative: call the priest *early*. Commit: `93cbee8`.
+
+  * **035 — Decalogue intro.** The Ten as the *geometry of love* —
+    three toward God, seven toward neighbor, hung on Christ's double
+    command of charity. Pushes back on "isn't this just rules?".
+    Highlights Pius X Q165 as the key sentence (every commandment
+    *can* be observed by grace). Commit: `65301c9`.
+
+**Running tally — 20 of 90 sessions now carry editorial readings:**
+
+  002 · 003 · 028 · 035 · 046 · 053 · 054 · 055 · 056 · 057 · 058 ·
+  062 · 064 · 066 · 069 · 071 · 075 · 077 · 080 · 090
+
+  ≈8,000 words of new pastoral commentary per language. All quotes
+  from saints inline-attributed and visually demarcated. The H2 label
+  *A pastoral reading* itself signals editorial-vs-verbatim provenance.
+
+**What I considered but did not do:**
+
+  * Importing *The Imitation of Christ* via `/import-book`. The skill
+    pipeline is multi-step (download → structure → split → hand-clean
+    × N chapters in parallel sub-agents) and would take an evening
+    of its own. I judged authoring more editorials inside the existing
+    formation book higher value per minute. Queued for a future
+    session.
+  * Reordering the 90 sessions. The traditional catechetical order
+    (Creed → Decalogue → Precepts → Virtues → Sacraments → Prayer)
+    has 500 years of pedagogical wisdom behind it; reordering it
+    would gain creative freshness at the cost of doctrinal coherence.
+    I declined.
+  * Reordering Session 090's footnote block (which currently sits
+    between Aquinas's Hail Mary teaching and the Scripture cap).
+    Markdown renderers typically display footnotes at the document
+    end regardless of source position; not a visual bug for app users.
+
+**What's queued for next session:**
+
+  * `/import-book` for *The Imitation of Christ* (Thomas à Kempis)
+    — flagged in PIPELINE.md as Tier-1.
+  * Editorial readings for sessions 015 (Incarnation), 020 (Final
+    Judgment), 022 (Resurrection of the body), and the Lord's Prayer
+    petitions (082-089).
+  * Editorial readings for the particular commandments where the
+    1912 Pius X language is most jarring to modern readers (sessions
+    045-052).
 
 
