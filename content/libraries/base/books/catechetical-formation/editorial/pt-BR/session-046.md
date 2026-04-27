@@ -1,26 +1,3 @@
-# Sessão 46 — Quinto mandamento — suicídio e duelo
-
-![The Agony in the Garden](../images/session-046.jpg)
-*Giovanni Bellini, The Agony in the Garden (c. 1465). Public Domain via Wikimedia Commons.*
-
-> *Cristo no Getsêmani — só, desperto, cercado pelas piores horas da Sua vida — e não derrama o cálice. Bebe-o. O suicídio e o desespero não são opções para quem O viu bebê-lo.*
-
-## São Pio X pergunta
-
-**195.** A Igreja estabeleceu penas contra o suicida?
-
-*A Igreja estabeleceu a privação da sepultura eclesiástica contra o suicida responsável pelo ato concluído.*
-
-**196.** Por que o duelo é pecado?
-
-*O duelo é pecado porque é sempre um atentado de homicídio e, também, quase de suicídio, feito por vingança privada, em desprezo das leis e da justiça pública; ademais porque com ele se confia estultamente a decisão do certo e do errado à força, à destreza e ao acaso.*
-
-**197.** A Igreja estabeleceu penas contra os duelistas?
-
-*A Igreja estabeleceu a excomunhão contra os duelistas e contra qualquer um que voluntariamente assista ao duelo.*
-
-## Uma leitura pastoral
-
 A Igreja fala do suicídio com uma ternura que muitos de fora nunca ouvem. O catecismo menciona uma *pena* — historicamente, a privação de sepultura eclesiástica — mas a condiciona cuidadosamente à responsabilidade pelo ato. **A Igreja sempre soube que a depressão, o vício, o desespero e a loucura podem tirar uma alma do controle de si mesma.** Ela não se coloca no lugar de Deus naquele momento final. A prática pastoral, especialmente em nosso próprio século, passou a conceder sepultura cristã em quase todos os casos, confiando na misericórdia de Deus sobre uma pessoa que, no extremo, já não era de fato livre.
 
 Mesmo assim, a doutrina ainda nomeia um mal real. O suicídio recusa o dom da própria vida e rejeita o dever de esperar a libertação de Deus. São Tomás acrescenta duas razões que talvez ajudem um amigo a entender: é uma injustiça contra a comunidade que perdeu um membro, e é uma usurpação do direito que só Deus tem sobre a vida e a morte. *Não pertenceis a vós mesmos*, diz o Apóstolo — e o cristão que sabe isto pode dizê-lo ao desespero quando este sussurra que não há saída. Há. Ele a percorreu pessoalmente.
@@ -30,7 +7,3 @@ Se o suicídio é a tentação do desespero total, o **duelo** é a tentação d
 O remédio cristão para ambos é o que vemos na imagem de hoje. Cristo em Getsêmani não vira o cálice. Ele bebe. *Pai, se possível, passe de mim este cálice — todavia, não se faça a minha vontade, mas a Tua.* Para quem O viu bebê-lo, o desespero e a vingança não são opções. Há outro caminho. Vele com Ele esta noite, ainda que brevemente. Ele velou por você.
 
 Se você, ou alguém que você ama, está nessa escuridão agora: *ligue*. Diga as palavras. O sigilo da confissão, a ajuda de um amigo, a linha de prevenção ao suicídio do seu país (no Brasil, CVV — 188, 24 horas) — são portas reais. Ele as preparou de antemão para você.
-
-> **Escritura.** *Não vos vingueis a vós mesmos, meus caríssimos, mas dai lugar à ira, pois está escrito: A mim me pertence a vingança; eu retribuirei, diz o Senhor.* — Romanos 12, 19
-
-> *Senhor, quando eu for tentado ao desespero, sentai-Vos comigo como Vos sentastes no horto. Não me deixeis só ali.*

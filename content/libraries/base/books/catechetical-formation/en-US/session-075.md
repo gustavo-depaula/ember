@@ -98,6 +98,16 @@ punishment proportioned to the gravity of the sin committed.
 Hence the reason for and the necessity of confession and
 satisfaction are easily inferred.
 
+## A pastoral reading
+
+There is a kind of shame that helps us — sorrow at having loved badly, the wince at injury we caused, the conviction that we are made for more than what we just did. The catechism warns us against a different shame: the kind that keeps us silent in the confessional. *We must not let ourselves be overcome by shame to keep silent some mortal sin.* The reason given is striking — we confess not to a man, but to Christ in the person of the priest. The seal protects what we say there as much as anything in the universe is protected. And the shame we hide in confession is the only kind that follows us forever.
+
+St. Thomas teaches that **contrition** — sorrow for sin out of love for God — is the soul of penance. **Confession** is contrition speaking. **Satisfaction** is contrition acting. Together these are the three integral parts the Roman Catechism is unfolding. Without the third, the soul is forgiven but unhealed. The temporal punishment that remains after absolution is not God's small revenge; it is the soft tissue still recovering after the wound is closed. Satisfaction — prayer, fasting, almsgiving, accepting the cross of the day — is how the wound becomes a scar, and the scar becomes strength. The penance the priest gives you is real medicine; do it within twenty-four hours.
+
+**Purpose of amendment** is the part of the sacrament that lives outside the box. Confession is one minute; the rest of the week is purpose of amendment. Plan the small change before you leave the chapel. *I will not look at that screen after ten. I will call my brother before the resentment goes a third week. I will not drink past two.* Specific, possible, this week. Confession without purpose of amendment becomes a rinse cycle. Confession *with* purpose of amendment becomes a life.
+
+And **indulgences** — long misunderstood — are simply the Church's way of helping the wound heal faster. By her authority she draws on the inexhaustible merits of Christ and the saints to remit the temporal punishment that remains. They are not a tax break. They are a hand on your shoulder while the scar finishes forming.
+
 > **Scripture.** *Bring forth therefore fruits worthy of penance.* — Luke 3:8
 
 > *Lord, after the next absolution, what is the one thing I will change? Tell me. I will do it.*
