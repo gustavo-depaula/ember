@@ -1,5 +1,6 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Image } from 'expo-image'
+import { Image, type ImageLoadEventData } from 'expo-image'
+import { useState } from 'react'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import { useImageViewer } from '@/components/ImageViewerContext'
@@ -18,6 +19,13 @@ export function ImageBlock({
   const imageWidth = Math.min(width - 96, 500)
   const { openViewer } = useImageViewer()
   const resolvedSrc = useResolvedImageUri(src)
+  const [aspectRatio, setAspectRatio] = useState(1)
+
+  const onLoad = (event: ImageLoadEventData) => {
+    const w = event.source?.width
+    const h = event.source?.height
+    if (w && h) setAspectRatio(w / h)
+  }
 
   return (
     <YStack alignItems="center" gap="$xs" paddingVertical="$sm">
@@ -34,8 +42,9 @@ export function ImageBlock({
       >
         <Image
           source={{ uri: resolvedSrc }}
-          style={[styles.image, { width: imageWidth, height: imageWidth * 1.2 }]}
+          style={[styles.image, { width: imageWidth, aspectRatio }]}
           contentFit="contain"
+          onLoad={onLoad}
         />
       </Pressable>
       {caption && (
