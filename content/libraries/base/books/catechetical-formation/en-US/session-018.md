@@ -65,6 +65,23 @@ Fourthly, let us rise again to a new and glorious life by avoiding all that whic
 [^22]: Romans 6:9, 11-14.
 [^23]: "Ibid.," 4.
 
+## A pastoral reading
+
+*Christianity rises or falls on this morning.* The ekphrasis is theologically exact. St. Paul makes it as plain as it can be made: *if Christ be not risen again, your faith is vain, for you are yet in your sins* (1 Corinthians 15:17). Nothing else the Christian believes survives the loss of the Resurrection. Modern readers who treat the Resurrection as *spiritual metaphor* — *He rose in the disciples' hearts* — are not just adjusting an emphasis; they are dissolving the religion at the foundation.
+
+What the catechism above is professing is **a real, bodily event**. The same Body that had stopped breathing on Friday afternoon began breathing again on Sunday morning. The wounds remained, *recognizable*. He ate fish (Luke 24:42). Thomas put his fingers in the wounds (John 20:27). Mary Magdalene mistook Him for a gardener until He said her name (John 20:16). These are not the descriptions of a vision or a metaphor; they are the descriptions of a *risen man*.
+
+Aquinas, defending the Resurrection in the *Summa* and elsewhere, makes four classical observations the editorial worth recalling:
+
+  * **The disciples were not expecting it.** They were hiding behind locked doors, terrified for their lives. They believed it only after seeing — and even then with a stubborn skepticism (Thomas, the road to Emmaus). The Resurrection is not the projection of wishful thinking; it is the *interruption* of unwishful surrender.
+  * **The witnesses died for it.** The apostles had nothing to gain from inventing it: not power, not money, not safety. Eleven of the twelve died as martyrs, refusing to recant. *Liars do not die for what they know is a lie.*
+  * **The transformation of the Sabbath.** Devout Jews keeping the seventh day shifted within a generation to the *first* day of the week, *Sunday* — the day of Resurrection. Such a reordering of religious time is intelligible only as the response to an event so massive it relativized the prior calendar.
+  * **The empty tomb.** No body, no relic, no shrine of dead remains. The earliest Christian preaching invited inspection: *He is not here, behold the place where they laid Him* (Mark 16:6). If the body had been there, the religion would have been over.
+
+This is why the Christian week is built around Sunday. This is why every Mass — even on a Tuesday in Lent — is *Easter* in microcosm. Every Communion is a continuation of the post-Resurrection meals at Emmaus and on the shore. *Today is the day the Lord has made; let us rejoice and be glad in it.*
+
+The personal application is exact. *Christ being raised again from the dead, dieth now no more* (Romans 6:9). The same power that raised His body is *given to you* in Baptism. Whatever in you is dying — the habit you cannot shake, the despair that has lasted, the part of your life you have buried — is not beyond reach. *He rose. Therefore you can rise.*
+
 > **Scripture.** *But now Christ is risen from the dead, the firstfruits of them that sleep.* — 1 Corinthians 15:20
 
 > *Risen Lord, You went first. Where I am sleeping, wake me. What in me has died, raise.*
