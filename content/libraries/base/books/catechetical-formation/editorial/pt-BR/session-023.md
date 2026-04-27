@@ -10,6 +10,6 @@ Três corolários para viver esta semana.
 
   1. **Levar a sério sem pânico.** A doutrina é gravidade, não desespero. *Deus quer que todos se salvem* (1 Timóteo 2, 4). A Sua misericórdia alcança até onde pode sem ultrapassar a liberdade que Ele nos deu. Se você O busca, não está em perigo.
 
-  2. **Reze pelos que não O buscam.** Sobretudo aqueles que você ama, que pararam ou nunca começaram. A salvação deles não está fechada. Maria apareceu a Santa Faustina e disse: *as almas que rezam a mim na hora de sua morte não se perderão*. Reze *sobretudo* pela hora da morte deles.
+  2. **Reze pelos que não O buscam.** Sobretudo aqueles que você ama, que pararam ou nunca começaram. A salvação deles não está fechada. O próprio Cristo prometeu a Santa Faustina que quem reza o Terço da Divina Misericórdia *na hora da morte* recebe graças extraordinárias (*Diário* §687, §1541). O Escapulário do Carmo traz uma promessa mariana análoga. Reze *sobretudo* pela hora da morte deles — é a hora em que a graça encontra a alma uma última vez.
 
   3. **Viva agora como se cada ato contasse para sempre.** Porque conta. *Senhor, hoje, incline-me uma polegada a mais para o céu que ainda não consigo ver.* As figuras dançantes do céu de Fra Angelico (a imagem de hoje) não são metáfora. São aquilo para o que você foi feito.

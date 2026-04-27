@@ -2,7 +2,7 @@ A Ascensão é uma das doutrinas que **os católicos modernos mais frequentement
 
 Três coisas que a Ascensão ensina:
 
-  1. **Cristo voltou ao Pai no Seu corpo.** *Ele não se esgueirou* — a ekphrase de hoje é exata. A Ascensão não é metáfora de que a presença espiritual de Cristo se tornou *mais universal*; é um *evento corporal*. O mesmo corpo que Maria segurou em Belém, que comeu peixe na praia da Galileia após a Ressurreição, que Tomé tocou, *aquele corpo* subiu. Aquino, com o Concílio de Constantinopla, sustenta: **a natureza humana que Cristo assumiu está agora glorificada e sentada à direita do Pai**. *Um de nós está lá.*
+  1. **Cristo voltou ao Pai no Seu corpo.** *Ele não se esgueirou* — a ekphrase de hoje é exata. A Ascensão não é metáfora de que a presença espiritual de Cristo se tornou *mais universal*; é um *evento corporal*. O mesmo corpo que Maria segurou em Belém, que comeu peixe na praia da Galileia após a Ressurreição, que Tomé tocou, *aquele corpo* subiu. Aquino, com Calcedônia e Constantinopla III, sustenta: **a natureza humana que Cristo assumiu está agora glorificada e sentada à direita do Pai**. *Um de nós está lá.*
 
   2. **Ele vai à frente preparar um lugar.** *Na casa de meu Pai há muitas moradas* (João 14, 2). A Ascensão é a garantia de que o destino cristão é *real*. Não estamos rumando para uma condição espiritual vaga; rumamos para a pátria do corpo — o lugar para onde a humanidade de Cristo já foi, o lugar que Ele preparou pessoalmente. Por isso o cristão morre *na esperança*: há uma Pessoa do outro lado, num corpo, segurando uma porta aberta.
 

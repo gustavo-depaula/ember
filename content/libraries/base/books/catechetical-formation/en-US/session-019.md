@@ -58,7 +58,7 @@ The Ascension is one of the doctrines that **modern Catholics most often skip pa
 
 Three things the Ascension teaches:
 
-  1. **Christ returned to the Father in His body.** *He did not slip away* — today's ekphrasis is exact. The Ascension is not a metaphor for Christ's spiritual presence becoming "more universal"; it is a *bodily event*. The same body that Mary held in Bethlehem, that ate fish on the Galilean shore after the Resurrection, that Thomas touched, *that body* went up. Aquinas, with the Council of Constantinople, holds: **the human nature Christ assumed is now glorified and seated at the right hand of the Father**. *One of us is there*.
+  1. **Christ returned to the Father in His body.** *He did not slip away* — today's ekphrasis is exact. The Ascension is not a metaphor for Christ's spiritual presence becoming "more universal"; it is a *bodily event*. The same body that Mary held in Bethlehem, that ate fish on the Galilean shore after the Resurrection, that Thomas touched, *that body* went up. Aquinas, with Chalcedon and Constantinople III, holds: **the human nature Christ assumed is now glorified and seated at the right hand of the Father**. *One of us is there*.
 
   2. **He goes ahead to prepare a place.** *In My Father's house there are many mansions* (John 14:2). The Ascension is the assurance that the Christian destination is *real*. We are not headed to a vague spiritual condition; we are headed to the body's homeland — the place where Christ's humanity has already gone, the place He has personally prepared. This is why the Christian dies *in hope*: there is a Person on the other side, in a body, holding open a door.
 
