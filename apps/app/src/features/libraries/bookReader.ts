@@ -358,6 +358,38 @@ function mimeForExt(filename: string): string {
   return 'image/jpeg'
 }
 
+// Scan chapter HTML for <img src="..."> values, skipping data: URIs already inlined.
+function collectImgSrcs(htmls: Iterable<string>): string[] {
+  const srcs = new Set<string>()
+  const re = /<img\b[^>]*\bsrc=["']([^"']+)["']/gi
+  for (const html of htmls) {
+    let m = re.exec(html)
+    while (m !== null) {
+      const src = m[1]
+      if (!src.startsWith('data:')) srcs.add(src)
+      m = re.exec(html)
+    }
+  }
+  return [...srcs]
+}
+
+// Resolve a chapter-relative src ("../images/foo.jpg" or "images/foo.jpg") against
+// the book directory. Returns the path under bookDirUri (no scheme).
+function resolveImgSrc(src: string, bookDirUri: string): string {
+  const rel = src.startsWith('../') ? src.slice(3) : src
+  return `${bookDirUri}${rel}`
+}
+
+function bytesToBase64(bytes: Uint8Array): string {
+  let binary = ''
+  const chunkSize = 0x8000
+  for (let i = 0; i < bytes.length; i += chunkSize) {
+    const chunk = bytes.subarray(i, i + chunkSize)
+    binary += String.fromCharCode.apply(null, chunk as unknown as number[])
+  }
+  return btoa(binary)
+}
+
 export async function loadBookContent(
   bookDirUri: string,
   lang: string,
@@ -374,7 +406,7 @@ async function loadBookContentNative(
   lang: string,
   chapterIds: string[],
 ): Promise<BookContent> {
-  const { Directory: Dir, File: NativeFile } = nativeFs
+  const { File: NativeFile } = nativeFs
   const langDir = `${bookDirUri}${lang}/`
 
   // Read stylesheet
@@ -400,21 +432,18 @@ async function loadBookContentNative(
     }),
   )
 
-  // Read images (filter by extension to avoid non-image files like manifest.json)
+  // Inline only images actually referenced by chapter HTML; avoids relying on
+  // Directory.list(), which has been unreliable on iOS.
   const images = new Map<string, string>()
-  try {
-    const imagesDir = new Dir(`${bookDirUri}images`)
-    const entries = imagesDir.list()
-    await Promise.all(
-      entries
-        .filter((entry: any) => /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(entry.name ?? ''))
-        .map(async (file: any) => {
-          const b64 = await file.base64()
-          const dataUri = `data:${mimeForExt(file.name)};base64,${b64}`
-          images.set(`images/${file.name}`, dataUri)
-        }),
-    )
-  } catch {}
+  await Promise.all(
+    collectImgSrcs(chapters.values()).map(async (src) => {
+      try {
+        const absPath = resolveImgSrc(src, bookDirUri)
+        const b64 = await new NativeFile(absPath).base64()
+        images.set(src, `data:${mimeForExt(absPath)};base64,${b64}`)
+      } catch {}
+    }),
+  )
 
   return { css, chapters, images }
 }
@@ -424,7 +453,7 @@ async function loadBookContentWeb(
   lang: string,
   chapterIds: string[],
 ): Promise<BookContent> {
-  const { idbReadText } = await import('@/lib/idb-fs')
+  const { idbReadText, idbReadBinary } = await import('@/lib/idb-fs')
 
   // bookDirUri is like "idb://books/libraryId/" — strip the idb:// prefix
   const basePath = bookDirUri.replace(/^idb:\/\//, '')
@@ -451,10 +480,19 @@ async function loadBookContentWeb(
     }),
   )
 
-  // Images: read from IDB as binary, convert to data URIs
-  // We don't have a directory listing in IDB, so we skip image preloading on web
-  // Images referenced in HTML will need to be resolved differently
+  // IDB has no directory listing, so resolve only the images the chapters reference.
   const images = new Map<string, string>()
+  await Promise.all(
+    collectImgSrcs(chapters.values()).map(async (src) => {
+      try {
+        const absPath = resolveImgSrc(src, basePath)
+        const bytes = await idbReadBinary(absPath)
+        if (!bytes) return
+        const b64 = bytesToBase64(bytes)
+        images.set(src, `data:${mimeForExt(absPath)};base64,${b64}`)
+      } catch {}
+    }),
+  )
 
   return { css, chapters, images }
 }

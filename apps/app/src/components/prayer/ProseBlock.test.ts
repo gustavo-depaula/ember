@@ -284,6 +284,32 @@ describe('parseMarkdown', () => {
     ])
   })
 
+  it('parses standalone markdown image as image node', () => {
+    const result = parseMarkdown(
+      '![The Creation of the Sun, Moon, and Plants](../images/session-001.jpg)',
+    )
+    expect(result).toEqual([
+      {
+        type: 'image',
+        alt: 'The Creation of the Sun, Moon, and Plants',
+        src: '../images/session-001.jpg',
+      },
+    ])
+  })
+
+  it('parses image followed by italic attribution', () => {
+    const input =
+      '![alt](../images/session-001.jpg)\n*Michelangelo Buonarroti, The Creation (1508-1512). Public Domain.*'
+    const result = parseMarkdown(input)
+    expect(result).toHaveLength(2)
+    expect(result[0]).toEqual({
+      type: 'image',
+      alt: 'alt',
+      src: '../images/session-001.jpg',
+    })
+    expect(result[1].type).toBe('paragraph')
+  })
+
   it('strips footnotes from blockquotes', () => {
     const result = parseMarkdown('> A quote with ref [^2]')
     expect(result).toEqual([

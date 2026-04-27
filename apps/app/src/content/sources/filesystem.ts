@@ -189,6 +189,13 @@ async function readTextFile(path: string): Promise<string | undefined> {
   }
 }
 
+function rewriteMarkdownImagePaths(md: string, bookDirUri: string): string {
+  return md.replace(
+    /(!\[[^\]]*\]\()(\.\.\/images\/[^)\s]+)(\))/g,
+    (_m, open, rel, close) => `${open}${bookDirUri}${rel.slice(3)}${close}`,
+  )
+}
+
 function rewriteImagePaths(sections: FlowSection[], baseUri: string): void {
   for (const section of sections) {
     if (section.type === 'image' && section.src && !section.src.startsWith('file://')) {
@@ -319,7 +326,10 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
     getProseText: (filePath) => proseTexts.get(filePath),
     getBookEntry: (id) => bookEntries[id],
     getAllBookEntries: () => allBookEntries,
-    loadBookChapterText: (bookId, chapterId, lang) =>
-      readTextFile(`${libraryDirUri}books/${bookId}/${lang}/${chapterId}.md`),
+    loadBookChapterText: async (bookId, chapterId, lang) => {
+      const bookDirUri = `${libraryDirUri}books/${bookId}/`
+      const md = await readTextFile(`${bookDirUri}${lang}/${chapterId}.md`)
+      return md ? rewriteMarkdownImagePaths(md, bookDirUri) : undefined
+    },
   }
 }
