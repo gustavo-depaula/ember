@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ThML PUBLIC "-//CCEL//DTD ThML 1.04//EN" "thml.dtd">
+<ThML version="1.04">
+  <ThML.head>
+    <electronicEdInfo>
+      <meta name="DC.Title" content="A Sample Devotional Treatise"/>
+      <meta name="DC.Creator" content="Anonymous"/>
+      <meta name="DC.Date" content="1418"/>
+      <meta name="DC.Language" content="en"/>
+      <meta name="DC.Identifier" content="https://ccel.org/ccel/anon/sample/sample.xml"/>
+      <meta name="DC.Rights" content="public domain"/>
+    </electronicEdInfo>
+    <generalInfo>
+      <description>A synthetic ThML file used to exercise the Ember importer.</description>
+    </generalInfo>
+    <printSourceInfo>
+      <author>Anonymous</author>
+      <title>A Sample Devotional Treatise</title>
+      <publisher>Test Press</publisher>
+      <publicationDate>1418</publicationDate>
+    </printSourceInfo>
+  </ThML.head>
+  <ThML.body>
+    <div1 type="Book" title="Book One &#8212; Of the Inward Life" n="1">
+      <div2 type="Chapter" title="Of the Imitation of Christ, and Contempt for the Vanities of the World" n="1">
+        <p>"He that followeth me, walketh not in darkness," <scripRef passage="John 8:12">saith the Lord</scripRef>. These are the words of Christ; and they teach us how far we must imitate his life and manners, if we would be truly enlightened, and be delivered from all blindness of heart.<note place="foot">The opening sentence echoes the prologue of the gospel.</note></p>
+        <p>Let, therefore, our chief endeavour be to <i>meditate</i> upon the life of Jesus Christ.<scripRef passage="1Cor.11:1">Be ye followers of me, as I am of Christ.</scripRef></p>
+        <lg>
+          <l>O most sweet and loving Jesus,</l>
+          <l>whom I desire with all my heart,</l>
+          <l>be present unto me; abide with me,</l>
+          <l>and let no creature satisfy me without thee.</l>
+        </lg>
+        <list>
+          <item>To <b>fear God</b> and to <i>keep his commandments</i>.</item>
+          <item>To despise the world, and account it as nothing.</item>
+          <item>To rest only in our Lord and Maker.</item>
+        </list>
+        <p>Therefore <q>vanity of vanities, and all is vanity</q>, except to love God and serve him only.<note place="foot">Cf. Augustine, <i>Confessions</i>, X.27.</note></p>
+        <pb n="3"/>
+        <p>For <a href="ccel:augustine/confessions">Augustine writes thus</a>: that the soul which is not anchored in eternity is tossed about by every wind.</p>
+      </div2>
+      <div2 type="Chapter" title="Of Thinking Humbly of Oneself" n="2">
+        <p>Every man naturally desires <emph>knowledge</emph>; but what doth knowledge avail without the fear of God?</p>
+        <p>Surely a humble husbandman that serveth God is better than a proud philosopher who, neglecting himself, considereth the course of the heavens.</p>
+        <p>Many words satisfy not the soul; but a good life refresheth the mind, and a pure conscience yieldeth great confidence in God.</p>
+      </div2>
+    </div1>
+    <div1 type="Book" title="Book Two &#8212; Admonitions to the Inward Life" n="2">
+      <div2 type="Chapter" title="Of the Inward Conversation" n="1">
+        <p>The kingdom of God is within you, saith the Lord.<scripRef passage="Lk.17:21"/></p>
+        <p>Turn thee with thy whole heart unto the Lord, and forsake this miserable world; and thy soul shall find rest. Learn to despise outward things, and to give thyself to those that are inward; and thou shalt see the kingdom of God come within thee.</p>
+        <p>Christ will come unto thee, and shew thee his consolation, if thou prepare for him a worthy mansion within thee.</p>
+      </div2>
+      <div2 type="Chapter" title="Of Humble Submission" n="2">
+        <p>Make no great account who is for thee, or against thee; but mind only the present, and take care that God be with thee in everything thou doest.</p>
+        <p>Have a good conscience, and God will well defend thee; for he whom God will help, no malice of man shall be able to hurt.</p>
+      </div2>
+    </div1>
+  </ThML.body>
+</ThML>
