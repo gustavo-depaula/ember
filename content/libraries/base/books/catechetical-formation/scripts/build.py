@@ -189,7 +189,16 @@ def resolve_chapter_ref(book_dir: Path, lang: str, ref) -> str:
 Q_PATTERN = re.compile(r"^\*\*(\d+)\.\*\*")
 
 def extract_pius_x_range(chapter_id: str, lang: str, q_from: int, q_to: int) -> str:
-    """Extract Pius X Q range from a chapter file. q_from and q_to are inclusive."""
+    """Extract Pius X Q range from a chapter file. q_from and q_to are inclusive.
+
+    Trailing-H2 trim: source Pius X chapters carry section markers like
+    `## § 2. Hope - Charity` placed BEFORE the first Q of the next subsection.
+    When the previous Q is the last in the requested range, that header gets
+    captured at the tail of the slice — an orphan heading announcing content
+    that lives in the next session. We therefore strip a single trailing H2
+    (and its surrounding blanks) when it follows the last in-range Q's content
+    and is followed by no further in-range content.
+    """
     text = (PX / lang / f"{chapter_id}.md").read_text(encoding="utf-8")
     lines = text.splitlines(keepends=False)
     out = []
@@ -207,6 +216,12 @@ def extract_pius_x_range(chapter_id: str, lang: str, q_from: int, q_to: int) -> 
     # Trim trailing blank lines
     while out and out[-1].strip() == "":
         out.pop()
+    # Strip a single trailing orphan H2 (a section marker for content that
+    # belongs to the next session's slice) and any blanks above it
+    if out and out[-1].startswith("## "):
+        out.pop()
+        while out and out[-1].strip() == "":
+            out.pop()
     return "\n".join(out).strip()
 
 

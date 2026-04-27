@@ -19,8 +19,6 @@
 
 *In the commandments we must note what is ordered and what is forbidden.*
 
-## § 2. The Commandments of God in Particular
-
 ## The Roman Catechism teaches
 
 ## Motives for Observing the Commandments

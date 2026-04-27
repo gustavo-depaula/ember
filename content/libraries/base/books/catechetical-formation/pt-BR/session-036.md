@@ -19,8 +19,6 @@
 
 *Nos Mandamentos deve-se notar o que é ordenado e o que é proibido.*
 
-## § 2. Mandamentos de Deus em particular
-
 ## O Catecismo Romano ensina
 
 ## II. Motivos para sua observância

@@ -55,8 +55,6 @@
 
 *237 a. Os dois principais mistérios da Fé: 1. Unidade e Trindade de Deus; 2. Encarnação, Paixão, Morte e Ressurreição de Nosso Senhor Jesus Cristo.*
 
-## § 2. Esperança - Caridade
-
 > **Escritura.** *Agora subsistem a fé, a esperança e a caridade, estas três; mas a maior delas é a caridade.* — 1 Coríntios 13, 13
 
 > *Senhor, plantai em mim — ou regai em mim — o que já me destes. Hoje, que a caridade seja a parte maior.*

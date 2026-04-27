@@ -55,8 +55,6 @@
 
 *237 a. The two principal mysteries of the Faith are: 1. The Unity and Trinity of God; 2. The Incarnation, Passion, Death, and Resurrection of Our Lord Jesus Christ.*
 
-## § 2. Hope - Charity
-
 > **Scripture.** *And now there remain faith, hope, and charity, these three: but the greatest of these is charity.* — 1 Corinthians 13:13
 
 > *Lord, plant in me — or water in me — what You have already given. Today, let charity be the bigger part.*
