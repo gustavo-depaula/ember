@@ -92,6 +92,20 @@ Greatness of the Reward.--The fifth reason is taken from the greatness of the re
 [^33]: Matthew 22:30.
 [^34]: John 6:69. "The faithful should continually remember these words, 'I am the Lord thy God.' They will learn from these words that their Lawgiver is none other than their Creator, by whom they were made and are preserved. . . . 'Who brought thee out of the land of Egypt, out of the house of bondage' appear at first to relate solely to the Jews liberated from the bondage of Egypt. But if we ponder on the meaning of the salvation of the entire human race, these words will be seen to apply still more specifically to all Christians who are liberated by God, not from the bondage of Egypt, but from the bondage of sin and 'the powers of darkness, and are translated into the kingdom of His beloved Son' (Colossians 1:13). . . . And when it is said, 'Thou shalt not have strange gods before Me,' it is the same as to say: 'Thou shalt worship Me who am the true God, thou shalt not worship strange gods.' . . . It should be accurately taught that the veneration and invocation of the Angels, of the Saints, and of the blessed souls who enjoy the glory of heaven--and, moreover, the honour which the Catholic Church has always paid even to the bodies and ashes of the Saints- -are not forbidden by this Commandment" ("Roman Catechism," "First Commandment," 1, 2, 5, 8).
 
+## A pastoral reading
+
+There is a strain in modern Catholic thought that wants to dismiss the First Commandment as the *easy* one. *Idolatry, divination, ancestor worship — these are problems for the pagan world; we live in a secular age.* The catechism above and Aquinas's careful taxonomy is asking us to look again. **The First Commandment is the one we break most.**
+
+Aquinas catalogues the ancient idolatries — demons, heavenly bodies, lower elements, ancestors, the self — and his classification is uncannily transferable. Each one points, by ancient name, at a contemporary form:
+
+  * *They worshipped demons* — astrology, occult dabbling, the witch-aesthetic of social media, the casual Tarot card, the horoscope checked before a date. Aquinas, citing Augustine, says these *cannot be done without some kind of pact with the devil*. He is not exaggerating. They are participation in another spiritual economy than God's.
+  * *They worshipped the heavenly bodies* — the modern equivalent: the deterministic forces we now imagine rule us. *The algorithm.* *The market.* *Genetics.* *The cycle.* Real things, but not God; not entitled to the obedience of a soul.
+  * *They worshipped the lower elements* — money, drink, food, the body's pleasure as ultimate. Aquinas quotes Paul: *the covetous person, who is a server of idols.* When you cannot imagine a happy life without something other than God, that something is your god.
+  * *They worshipped their ancestors* — for us: the family system that cannot be questioned, the political tribe whose convictions we adopt without thought, the mentor or celebrity whose authority we accept *over* the Church. Aquinas: *He that loveth his father and mother more than Me is not worthy of Me.*
+  * *They worshipped themselves* — for us: the entire performance of self-curation, the self-image we tend more carefully than any garden, the autonomy we will not surrender. Aquinas's diagnosis is exact: *those who believe more in their own pleasures than in the precepts of God worship themselves as gods.*
+
+The First Commandment names the ground of all the others. If you got the first one right, the other nine would follow. Most of our daily moral failures are downstream of one violation of this one. *I am the Lord thy God; thou shalt not have other gods before me.* Today, identify the **one** other god most likely to be set in front of Him in your day. Refuse it once. That is what religion is for.
+
 > **Scripture.** *Thou shalt not have strange gods before me.* — Exodus 20:3
 
 > *Lord, the gods I make are bad ones. Pull them down today. Be the one I worship.*
