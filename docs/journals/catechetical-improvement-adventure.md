@@ -134,3 +134,93 @@ All quotes from saints are inline-attributed and visually demarcated
 (blockquotes). The H2 label "A pastoral reading" itself signals
 editorial-vs-verbatim provenance. Commit: `45406a7`.
 
+### 2026-04-27 — Phase 2: more editorial readings, Aquinas formatting, Liguori integration
+
+**More editorial readings for thin or context-needy sessions:**
+
+  * **053 — Church Precepts I (Mass + Friday).** The precepts as
+    *the floor* of practicing Catholicism, not extra weight; Aquinas's
+    defense of authority via "He who hears you hears me"; the *why*
+    of Sunday Mass and Friday abstinence. Commit: `fef85ac`.
+  * **054 — Church Precepts II.** Fasting as the body learning to
+    obey something greater than its hunger; Aquinas's threefold reason
+    (reparation, discipline, lifting the mind to prayer); "at least"
+    in the yearly precept; offering as participation in the Body.
+    Commit: `fef85ac`.
+  * **002 — Heaven/Hell/Trinity/Incarnation.** Reading the catechism's
+    pivot at Q19 from heaven/hell to the Trinity — we are not made
+    for moral observance but for the inner life of God Himself.
+    Aquinas's *opus admirabile*. Commit: `a6a337e`.
+  * **046 — Suicide and Dueling.** Surface the Church's pastoral
+    tenderness underneath an old penalty — pt-BR includes the
+    Brazilian CVV (188) suicide-prevention hotline. Commit: `cd6c00d`.
+  * **075 — Penance / Satisfaction / Indulgences.** The shame that
+    helps vs. the shame that hides; satisfaction as the soft tissue
+    healing after the wound is closed; indulgences re-framed as
+    healing aid drawing on Christ's and the saints' merits.
+    Commit: `cd6c00d`.
+  * **080 — Marriage Duties.** Reframes Trent's "subjection" with
+    Eph 5:21 (mutual submission); spouses as ministers of the
+    sacrament to each other. Commit: `cd6c00d`.
+  * **090 — Hail Mary.** Brings St. Alphonsus Liguori's *Glories of
+    Mary* (already in this repo) into the closing day with a quoted
+    St. Bernard passage on Mary's intercession. Closes with a
+    benediction to the reader who has walked the full ninety-day
+    arc. Commit: `292e883`.
+  * **028 — Communion of Saints.** Frames Pius X's 1912 list (which
+    includes "Jews", "Muslims", "heretics") with the Second Vatican
+    Council's pastoral language: full vs. imperfect communion
+    (LG 16); Jewish people as elder brothers (Nostra Aetate 4).
+    Closes with Liguori on Mary's mercy reaching every living
+    person. Commit: `6b6ec3c`.
+  * **066 — Eucharist intro.** Aquinas's *Adoro Te Devote* with the
+    word *latens* (hidden) as the heart of Real Presence: the
+    failure in the Eucharist is human seeing, not the Presence.
+    Vatican II's *fons et culmen* alongside Aquinas's *consummatio*.
+    Commit: `78e2600`.
+  * **035 — Decalogue intro.** The Ten as the *geometry of love* —
+    three toward God, seven toward neighbor, hung on Christ's double
+    command of charity. Pushes back on "isn't this just rules?".
+    Highlights Pius X Q165 (every commandment *can* be observed by
+    grace) as the key sentence. Orients the reader for the next
+    eighteen sessions. Commit: `65301c9`.
+
+**Aquinas Catechetical Instructions formatting:**
+
+  * Added a new lay-reader **introduction chapter** before the
+    Translator's Preface — orients new readers (Aquinas's last
+    sermons, preached to ordinary working people in 1273), reframes
+    Aquinas as defender of the *vetula*'s faith rather than a
+    forbidding scholastic, sets reading-pace expectations, names
+    what we changed (citations modernized; section headings added)
+    and what we preserved (footnote apparatus, Collins's prose).
+    Signed "The Ember editors". Commit: `0cf7e8a`.
+  * Added internal **H2/H3 sub-structure** to four dense chapters via
+    a parallel sub-agent: `creed-00-what-is-faith` (4 H2),
+    `creed-11-resurrection-of-body` (8 H3 from inline (a)/(b)/(c)/(d)
+    labels), `hail-mary` (5 H2 along the natural seams of the prayer),
+    `lords-prayer-00-five-qualities` (1 H2 + 5 H3). Both languages,
+    semantically matched. Commit: `13b8e33`.
+
+**Running tally — 14 sessions now carry editorial readings:**
+  001 (verbatim Aquinas already strong) · **002** · **028** · **035** ·
+  **046** · **053** · **054** · **055** · **056** · **057** · **058** ·
+  **066** · **075** · **080** · **090**.
+
+  ~5,000 words of new pastoral commentary per language.
+
+**What I want to do next (queued):**
+  * Try `/import-book` for *The Imitation of Christ* (Thomas à Kempis)
+    — flagged in PIPELINE.md as Tier-1 next book.
+  * Editorial readings for the rest of the Eucharist arc (067–071) and
+    for the Penance/Marriage adjacents.
+  * Editorial reading for Session 003 (Apostles' Creed intro) and
+    Session 015 (Incarnation), as bookends for the 32-session Creed
+    walk.
+  * Possibly reorder sessions where the catechetical sequence and the
+    formation arc differ (the user offered this freedom). Specifically:
+    the Beatitudes (058) might land better before the Decalogue (035+)
+    since they're Christ's fulfilment, not just an addendum to the
+    moral Q&A. To consider, not yet decided.
+
+
