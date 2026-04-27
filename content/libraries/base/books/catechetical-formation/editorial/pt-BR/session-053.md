@@ -1,0 +1,7 @@
+Os preceitos da Igreja não são peso a mais acrescentado ao Evangelho. São o chão — os menores compromissos concretos pelos quais alguém pode ser honestamente chamado de católico praticante. São Tomás defende essa autoridade a partir do encargo do próprio Cristo: *"Quem vos escuta, escuta a mim."* Onde Cristo colocou mestres, Ele os respalda; onde colocou pastores, as ovelhas são obrigadas a seguir.
+
+**Por que a Missa de domingo?** Porque a Ressurreição aconteceu no primeiro dia da semana, e a Eucaristia é a própria carne e o próprio sangue de Cristo dados pela vida do mundo. Faltar à Missa sem razão grave não é faltar a uma reunião; é recusar a refeição em que o próprio Deus se senta conosco. São Tomás trata isto como ato de *religião*, a mais alta virtude moral — por ela prestamos a Deus o culto que Lhe é devido e recebemos em troca o próprio alimento da vida eterna.
+
+**Por que a abstinência na sexta-feira?** Porque Cristo morreu numa sexta-feira. A carne de que nos privamos nesse dia é uma pequena oferta unida à d'Ele. A Igreja não inventa a gravidade do dia; apenas a marca. Mesmo o mundo secular, por longa memória, sabe que a sexta-feira é um dia de peso.
+
+Os pastores da Igreja não multiplicam regras para tornar a vida pesada. Eles nomeiam o mínimo para que a graça tenha onde pousar. O cristão fiel costuma se mover acima do chão — mas o chão é dado para os dias em que mais nada o sustentará.

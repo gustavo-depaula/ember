@@ -33,6 +33,16 @@
 
 *218 a. The five general precepts of the Church: 1. To hear Mass on Sundays and on the other commanded feasts; 2. To sanctify the days of obligation; 3. To confess at least once a year and to receive Holy Communion at least at Easter; 4. To fast and abstain from meat on the appointed days; 5. To contribute to the needs of the Church according to her laws and customs.*
 
+## A pastoral reading
+
+The precepts of the Church are not extra weight added to the Gospel. They are the floor — the smallest concrete commitments by which a person may be honestly called a practicing Catholic. St. Thomas defends this authority on the basis of Christ's own commission: *"He who hears you hears me."* Where Christ has placed teachers, He stands behind them; where He has placed shepherds, the sheep are bound to follow.
+
+**Why Sunday Mass?** Because the Resurrection happened on the first day of the week, and the Eucharist is Christ's own flesh and blood given for the world's life. To miss Mass without grave reason is not to skip a meeting; it is to refuse the meal at which God Himself sits down with us. St. Thomas treats this as an act of *religion*, the highest moral virtue — by it we render to God the worship that is His due, and we receive in return the very food of eternal life.
+
+**Why abstinence on Friday?** Because Christ died on a Friday. The flesh we deny ourselves on that day is a small offering joined to His. The Church does not invent the day's gravity; she only marks it. Even the secular world, by long memory, knows that Friday is a day of weight.
+
+The shepherds of the Church do not multiply rules to make life heavy. They name the minimum so that grace has somewhere to land. The faithful Christian usually moves above the floor — but the floor is given for those days when nothing else will hold.
+
 > **Scripture.** *Not forsaking our assembly, as some are accustomed; but comforting one another, and so much the more as you see the day approaching.* — Hebrews 10:25
 
 > *Lord, let me at least stand on the floor. Get me to Mass. Then carry me higher.*
