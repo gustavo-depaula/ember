@@ -22,6 +22,7 @@ import {
   ScreenLayout,
   Threshold,
 } from '@/components'
+import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
@@ -366,8 +367,7 @@ export function PracticeFlow({
             }
             if (manifest?.program) {
               const isFinalDay =
-                programProgress &&
-                programProgress.completionCount + 1 >= manifest.program.totalDays
+                programProgress && programProgress.completionCount + 1 >= manifest.program.totalDays
               if (isFinalDay) {
                 await handleProgramCompletion.mutateAsync({
                   practiceId,
@@ -392,96 +392,98 @@ export function PracticeFlow({
   }
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <YStack alignItems="center">
-          <Pressable
-            onPress={() => router.push('/')}
-            hitSlop={12}
-            accessibilityRole="link"
-            accessibilityLabel={t('a11y.home')}
-          >
-            <Home size={20} color={theme.colorSecondary.val} />
-          </Pressable>
+    <ImageViewerProvider>
+      <ScreenLayout>
+        <YStack gap="$lg" paddingVertical="$lg">
+          <YStack alignItems="center">
+            <Pressable
+              onPress={() => router.push('/')}
+              hitSlop={12}
+              accessibilityRole="link"
+              accessibilityLabel={t('a11y.home')}
+            >
+              <Home size={20} color={theme.colorSecondary.val} />
+            </Pressable>
+          </YStack>
+
+          <ManuscriptFrame>
+            <YStack
+              alignItems="center"
+              gap="$xs"
+              paddingVertical="$md"
+              paddingHorizontal={readingMargin}
+            >
+              {manifest.theme !== 'office' && (
+                <Text fontFamily="$display" fontSize="$5" color="$accent">
+                  ✠
+                </Text>
+              )}
+              <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
+                {practiceName}
+              </Text>
+              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
+                {formattedDate}
+              </Text>
+            </YStack>
+
+            <YStack gap="$md">
+              {sections.map((section, index) => (
+                <PracticeSectionBlock
+                  key={`${section.type}-${index}`}
+                  section={section}
+                  psalmSlots={psalmResult.slots}
+                  bibleMap={bibleMap}
+                  cccMap={cccMap}
+                  bibleErrors={bibleErrors}
+                  cccErrors={cccErrors}
+                  onSelectOverride={handleSelectOverride}
+                />
+              ))}
+            </YStack>
+
+            <YStack paddingBottom="$lg" />
+          </ManuscriptFrame>
+
+          {manifest.completion !== 'manual' && (
+            <YStack paddingHorizontal={readingMargin}>
+              <AnimatedPressable
+                onPress={handleComplete}
+                disabled={logCompletionMutation.isPending}
+                accessibilityRole="button"
+                accessibilityLabel={t('office.markComplete')}
+              >
+                <YStack
+                  backgroundColor="$accent"
+                  borderRadius="$md"
+                  borderWidth={1}
+                  borderColor="$accentSubtle"
+                  paddingVertical="$md"
+                  alignItems="center"
+                  opacity={logCompletionMutation.isPending ? 0.6 : 1}
+                >
+                  <Text fontFamily="$heading" fontSize="$3" color="$background">
+                    {logCompletionMutation.isPending
+                      ? t('office.completing')
+                      : t('office.markComplete')}
+                  </Text>
+                </YStack>
+              </AnimatedPressable>
+            </YStack>
+          )}
         </YStack>
 
-        <ManuscriptFrame>
-          <YStack
-            alignItems="center"
-            gap="$xs"
-            paddingVertical="$md"
-            paddingHorizontal={readingMargin}
-          >
-            {manifest.theme !== 'office' && (
-              <Text fontFamily="$display" fontSize="$5" color="$accent">
-                ✠
-              </Text>
-            )}
-            <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
-              {practiceName}
-            </Text>
-            <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
-              {formattedDate}
-            </Text>
-          </YStack>
-
-          <YStack gap="$md">
-            {sections.map((section, index) => (
-              <PracticeSectionBlock
-                key={`${section.type}-${index}`}
-                section={section}
-                psalmSlots={psalmResult.slots}
-                bibleMap={bibleMap}
-                cccMap={cccMap}
-                bibleErrors={bibleErrors}
-                cccErrors={cccErrors}
-                onSelectOverride={handleSelectOverride}
-              />
-            ))}
-          </YStack>
-
-          <YStack paddingBottom="$lg" />
-        </ManuscriptFrame>
-
-        {manifest.completion !== 'manual' && (
-          <YStack paddingHorizontal={readingMargin}>
-            <AnimatedPressable
-              onPress={handleComplete}
-              disabled={logCompletionMutation.isPending}
-              accessibilityRole="button"
-              accessibilityLabel={t('office.markComplete')}
-            >
-              <YStack
-                backgroundColor="$accent"
-                borderRadius="$md"
-                borderWidth={1}
-                borderColor="$accentSubtle"
-                paddingVertical="$md"
-                alignItems="center"
-                opacity={logCompletionMutation.isPending ? 0.6 : 1}
-              >
-                <Text fontFamily="$heading" fontSize="$3" color="$background">
-                  {logCompletionMutation.isPending
-                    ? t('office.completing')
-                    : t('office.markComplete')}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          </YStack>
+        {showCompleteModal && manifest?.program && (
+          <ProgramCompleteModal
+            practiceName={localizeContent(manifest.name)}
+            showRestart={manifest.program.completionBehavior === 'offer-restart'}
+            onRestart={() => {
+              restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
+            }}
+            onDone={() => router.back()}
+          />
         )}
-      </YStack>
-
-      {showCompleteModal && manifest?.program && (
-        <ProgramCompleteModal
-          practiceName={localizeContent(manifest.name)}
-          showRestart={manifest.program.completionBehavior === 'offer-restart'}
-          onRestart={() => {
-            restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
-          }}
-          onDone={() => router.back()}
-        />
-      )}
-    </ScreenLayout>
+      </ScreenLayout>
+    </ImageViewerProvider>
   )
 }
 
