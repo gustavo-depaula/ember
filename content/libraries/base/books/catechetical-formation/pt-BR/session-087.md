@@ -66,7 +66,7 @@ São três.
 
   * **O pão da mente.** Aquino: *o pão da doutrina*, a verdade que alimenta o intelecto, as palavras de Deus de que vive a alma (Mateus 4, 4). O leitor que chegou a este ponto da trilha de noventa dias já está pedindo este pão. Continue pedindo.
 
-  * **O Pão Eucarístico — *pão supersubstancial*.** Aquino, seguindo Jerônimo e Agostinho, ouve em *epiousion* uma alusão ao Pão que está *acima de todas as substâncias*: o Corpo de Cristo. A petição é, portanto, um pedido eucarístico. *Hoje* — todo dia — *dai-nos o Pão que é o Vosso Filho*. Os primeiros cristãos rezavam o Pai-Nosso pouco antes da Comunhão em toda Missa. Não estavam adicionando uma oração genérica à liturgia. Pediam o próprio Pão que o sacerdote estava prestes a consagrar.
+  * **O Pão Eucarístico — *pão supersubstancial*.** Aquino, seguindo Jerônimo e Agostinho, ouve em *epiousion* uma alusão ao Pão que está *acima de todas as substâncias*: o Corpo de Cristo. A petição é, portanto, um pedido eucarístico. *Hoje* — todo dia — *dai-nos o Pão que é o Vosso Filho*. Já no tempo de São Gregório Magno o Pai-Nosso fora colocado na Missa romana logo antes da Comunhão, onde permanece até hoje. A Igreja não estava adicionando uma oração genérica à liturgia. Pedia, com essas mesmas palavras, o próprio Pão que o sacerdote estava prestes a consagrar.
 
 Isto explica o urgente *nos*. *O pão nosso de cada dia nos dai hoje.* Não *me dai*. O pão é pão partilhado. Toda outra pessoa no comungatório ao seu lado — aquela cujo rosto você não conhece, aquela que você não suporta, aquela cujo casamento está se rompendo — pede o mesmo Pão, e Cristo Se dá igualmente a todas elas.
 
