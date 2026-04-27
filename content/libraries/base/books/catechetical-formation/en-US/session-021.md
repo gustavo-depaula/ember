@@ -35,38 +35,58 @@ The judgment ought indeed to be feared. (a) Because of the wisdom of the Judge. 
 
 Now, against this fear of the judgment we ought to have four remedies. The first is good works: "Wilt thou then not be afraid of the power? Do that which is good, and thou shalt have praise from the same."[^30] The second is confession and repentance for sins committed; and this ought to include sorrow in thinking of hem, feeling of shame in confessing them, and all severity in making satisfaction for them. And these will take away the eternal punishment. The third is giving of alms, which makes all things clean: "Make unto you friends of the mammon of iniquity; that when you shall fail, they may receive you into everlasting dwellings."[^31] The fourth is charity, viz., the love of God and our neighbour, for "charity covereth a multitude of sins."[^32]
 
-[^1]: Prov., xx. 8.
-[^2]: Acts, i. 11.
-[^3]: Acts, x. 42.
-[^4]: John, v. 27.
-[^5]: Job, xxxvi. 17.
-[^6]: Luke, xxi. 27.
-[^7]: II Cor., v. 10.
-[^8]: John, iii. 18.
-[^9]: Rom., vi. 23.
-[^10]: Matt., xix. 28.
-[^11]: I Cor., vi. 3.
-[^12]: Isa., iii. 14.
-[^13]: Eccles., xi. 9.
-[^14]: "Ibid.," xii. 14.
-[^15]: Matt., xii. 36.
-[^16]: Wis., i. 9.
-[^17]: Heb., iv. 13.
-[^18]: Prov., xvi. 2.
-[^19]: Wis., i. 10.
-[^20]: Jerem. xvii. 9-10.
-[^21]: Rom., ii. 15-16.
-[^22]: Isa., xl. 10.
-[^23]: Wis., v. 21.
-[^24]: Job, x. 7.
-[^25]: Ps., cxxxviii. 8.
-[^26]: Ps., lxxiv. 3.
-[^27]: Prov., vi. 34-35.
-[^28]: Isa., xxxiii. 17.
-[^29]: Apoc., vi. 16.
-[^30]: Rom., xiii. 3.
-[^31]: Luke, xvi. 9.
-[^32]: I Peter, iv. 8.
+[^1]: Proverbs 20:8.
+[^2]: Acts 1:11.
+[^3]: Acts 10:42.
+[^4]: John 5:27.
+[^5]: Job 36:17.
+[^6]: Luke 21:27.
+[^7]: 2 Corinthians 5:10.
+[^8]: John 3:18.
+[^9]: Romans 6:23.
+[^10]: Matthew 19:28.
+[^11]: 1 Corinthians 6:3.
+[^12]: Isaiah 3:14.
+[^13]: Ecclesiastes 11:9.
+[^14]: "Ibid.," 12:14.
+[^15]: Matthew 12:36.
+[^16]: Wisdom 1:9.
+[^17]: Hebrews 4:13.
+[^18]: Proverbs 16:2.
+[^19]: Wisdom 1:10.
+[^20]: Jeremiah 17:9-10.
+[^21]: Romans 2:15-16.
+[^22]: Isaiah 40:10.
+[^23]: Wisdom 5:21.
+[^24]: Job 10:7.
+[^25]: Psalm 138:8.
+[^26]: Psalm 74:3.
+[^27]: Proverbs 6:34-35.
+[^28]: Isaiah 33:17.
+[^29]: Revelation 6:16.
+[^30]: Romans 13:3.
+[^31]: Luke 16:9.
+[^32]: 1 Peter 4:8.
+
+## A pastoral reading
+
+Yesterday's session (Session 020) named the *doctrine* of judgment as good news. Today's session goes deeper into the **mechanics**: there are *two* judgments, particular and general, and **the first is closer than you think**.
+
+  * **The particular judgment** happens *immediately at the moment of death*. The soul, separated from the body, stands alone before Christ. The verdict is real and final: heaven (with possibly purgatory first), or hell. The catechism above is unambiguous: *Jesus Christ will not wait until the end of the world to judge us, but will judge each one immediately after death*. Aquinas: at the instant of death, the soul *cannot any longer choose otherwise*. The deathbed is the last hour of merit.
+
+  * **The general judgment** happens *at the end of history*. All the dead rise; all bodies are reunited with their souls; all of human history is laid open in public. The verdict already given at each particular judgment is *vindicated*, made visible to all. The hidden good — the saints whose holiness no one knew — is glorified. The hidden evil — the cruelty done in private, the corruption that escaped detection — is unveiled. Both, finally, are seen.
+
+The general judgment does not change the particular. It *publishes* it.
+
+What this asks of you:
+
+  1. **The first judgment is closer than you think.** Most Christians, including the saintly ones, expected to die *suddenly*. Aquinas planned for it: *I have written nothing in the Summa that I cannot defend before the judgment seat of Christ*. You may have decades; you may have hours. The catechism is not asking you to be morbid; it is asking you to be *prepared*. Confession at least monthly; the rosary daily; one good Communion this Sunday — these are the small preparations that make the moment, when it comes, peaceful.
+
+  2. **The general judgment will *vindicate* the love that nobody saw.** The mother who prayed all night for her child the child never knew about — *vindicated*. The single Catholic who refused the office affair at real cost to his career — *vindicated*. The grandfather whose only public legacy was his rosary in the corner of the living room — *vindicated*. *Nothing love did is wasted*. That is the sentence the Last Day will speak.
+
+  3. **The doctrine is also a *consolation* for those who have suffered injustice.** What was done to you in secret will not stay secret forever. The Day comes. *He shall wipe away all tears from their eyes* (Revelation 21:4). Until then, you can release the demand that justice happen *now*. **The Judge is on the bench, even when the verdict is delayed.**
+
+The small panel of today's image — *a body on a deathbed, a soul above it, light or dark depending* — is the Christian medieval mind held in pigment. They were right to keep that image close. So should we.
 
 > **Scripture.** *And as it is appointed unto men once to die, and after this the judgment.* — Hebrews 9:27
 

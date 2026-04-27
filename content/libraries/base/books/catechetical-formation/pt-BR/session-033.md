@@ -37,25 +37,41 @@ Por último, afasta-nos do mal. Assim como a esperança da recompensa nos impele
 
 Há uma quádrupla condição comum a todos os que ressuscitarão.
 
-(a) A identidade dos corpos dos ressuscitados. — Será o mesmo corpo que é agora, tanto na carne como nos ossos. Alguns disseram, na verdade, que não seria este mesmo corpo corrompido o que ressuscitaria; mas tal opinião é contrária ao Apóstolo: «Convém que este corpo corruptível se revista de incorruptibilidade».[^7] E também a Sagrada Escritura diz que, pelo poder de Deus, este mesmo corpo ressuscitará para a vida: «E me revestirei novamente da minha pele, e em minha carne verei o meu Deus».[^8]
+### Identidade
 
-(b) A incorruptibilidade dos corpos ressuscitados. — Os corpos dos ressuscitados serão de qualidade diferente da do corpo mortal, porque serão incorruptíveis, tanto os dos bem-aventurados, que estarão sempre na glória, como os dos condenados, que estarão sempre nos castigos: «Pois convém que este corpo corruptível se revista de incorruptibilidade, e este corpo mortal se revista de imortalidade».[^9] E, como o corpo será incorruptível e imortal, não haverá mais o uso do alimento nem das relações conjugais: «Pois na ressurreição não casarão nem se darão em casamento, mas serão como Anjos de Deus no Céu».[^10] Isto vai diretamente contra os judeus e os maometanos: «Nem voltará mais à sua casa».[^11]
+Será o mesmo corpo que é agora, tanto na carne como nos ossos. Alguns disseram, na verdade, que não seria este mesmo corpo corrompido o que ressuscitaria; mas tal opinião é contrária ao Apóstolo: «Convém que este corpo corruptível se revista de incorruptibilidade».[^7] E também a Sagrada Escritura diz que, pelo poder de Deus, este mesmo corpo ressuscitará para a vida: «E me revestirei novamente da minha pele, e em minha carne verei o meu Deus».[^8]
 
-(c) A integridade dos corpos ressuscitados. — Tanto os bons como os maus ressuscitarão com toda a integridade do corpo, que é natural ao homem. Não será cego, nem surdo, nem terá qualquer defeito físico: «Os mortos ressuscitarão incorruptíveis»;[^12] isto é, totalmente livres dos defeitos da vida presente.[^13]
+### Incorruptibilidade
 
-(d) A idade dos corpos ressuscitados. — Todos ressuscitarão na condição da idade perfeita, que é a de trinta e dois ou trinta e três anos. Isto, porque todos os que ainda não tinham chegado a essa idade não a possuíam, e os velhos já a tinham perdido. Assim, aos jovens e às crianças se dará o que lhes falta, e aos idosos se restituirá o que tinham antes: «Até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao homem perfeito, à medida da estatura da plenitude de Cristo».[^14]
+Os corpos dos ressuscitados serão de qualidade diferente da do corpo mortal, porque serão incorruptíveis, tanto os dos bem-aventurados, que estarão sempre na glória, como os dos condenados, que estarão sempre nos castigos: «Pois convém que este corpo corruptível se revista de incorruptibilidade, e este corpo mortal se revista de imortalidade».[^9] E, como o corpo será incorruptível e imortal, não haverá mais o uso do alimento nem das relações conjugais: «Pois na ressurreição não casarão nem se darão em casamento, mas serão como Anjos de Deus no Céu».[^10] Isto vai diretamente contra os judeus e os maometanos: «Nem voltará mais à sua casa».[^11]
+
+### Integridade
+
+Tanto os bons como os maus ressuscitarão com toda a integridade do corpo, que é natural ao homem. Não será cego, nem surdo, nem terá qualquer defeito físico: «Os mortos ressuscitarão incorruptíveis»;[^12] isto é, totalmente livres dos defeitos da vida presente.[^13]
+
+### Idade
+
+Todos ressuscitarão na condição da idade perfeita, que é a de trinta e dois ou trinta e três anos. Isto, porque todos os que ainda não tinham chegado a essa idade não a possuíam, e os velhos já a tinham perdido. Assim, aos jovens e às crianças se dará o que lhes falta, e aos idosos se restituirá o que tinham antes: «Até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao homem perfeito, à medida da estatura da plenitude de Cristo».[^14]
 
 ## Condição dos bem-aventurados
 
 É preciso saber que os bons gozarão de uma glória especial, pois os bem-aventurados terão corpos glorificados, dotados de quatro dotes.
 
-(a) Claridade. — «Então os justos resplandecerão como o sol no reino de seu Pai».[^15]
+### Claridade
 
-(b) Impassibilidade (isto é, incapacidade de receber ação). — «Semeia-se em desonra; ressuscitará em glória».[^16] «E Deus enxugará toda lágrima dos seus olhos; e a morte já não existirá mais. Nem haverá mais luto, nem clamor, nem dor, porque as primeiras coisas passaram».[^17]
+«Então os justos resplandecerão como o sol no reino de seu Pai».[^15]
 
-(c) Agilidade. — «Os justos resplandecerão e correrão de uma para outra parte como faíscas no canavial».[^18]
+### Impassibilidade
 
-(d) Subtileza. — «Semeia-se um corpo natural, ressuscitará um corpo espiritual».[^19] Isto, no sentido de que o corpo não será inteiramente espírito, mas estará totalmente sujeito ao espírito.
+«Semeia-se em desonra; ressuscitará em glória».[^16] «E Deus enxugará toda lágrima dos seus olhos; e a morte já não existirá mais. Nem haverá mais luto, nem clamor, nem dor, porque as primeiras coisas passaram».[^17]
+
+### Agilidade
+
+«Os justos resplandecerão e correrão de uma para outra parte como faíscas no canavial».[^18]
+
+### Subtileza
+
+«Semeia-se um corpo natural, ressuscitará um corpo espiritual».[^19] Isto, no sentido de que o corpo não será inteiramente espírito, mas estará totalmente sujeito ao espírito.
 
 ## Condição dos condenados
 
@@ -84,6 +100,25 @@ Há também que saber que a condição dos condenados será exatamente o contrá
 [^21]: *Ibid.*, 66, 24.
 [^22]: Sl 149, 8.
 [^23]: Jl 1, 17.
+
+## Uma leitura pastoral
+
+Se algum dia você disser *vou para o céu e finalmente vou me libertar deste corpo*, o catecismo acima lhe pede que retire as palavras. O cristianismo **não** ensina que o corpo é uma prisão da qual a alma um dia escapará. O cristianismo ensina a **ressurreição da carne** — o seu corpo, *reconhecível*, *transformado*, *eterno*. A imagem de Signorelli (a ekphrase de hoje) é teologicamente exata: corpos saem da terra no fim do tempo, surpresos, ágeis, brilhantes.
+
+Esta é a doutrina que mais claramente separa o cristianismo de qualquer outra religião da antiguidade. Os gregos sonhavam a alma libertada do corpo. Os hindus sonhavam a alma transmigrando até ser libertada do corpo. O cristão sonha o corpo *ressuscitado*. O próprio Cristo, depois da Ressurreição, comeu peixe à beira do lago (Lucas 24, 42) e deixou Tomé pôr os dedos em Suas chagas (João 20, 27). O corpo não é fantasia; faz parte de quem somos.
+
+Como será o corpo ressuscitado? Aquino, seguindo 1 Coríntios 15 e Romanos 8, percorre quatro qualidades que a tradição latina chamou de *dotes corporum gloriosorum* — os **dotes do corpo glorificado**:
+
+  * **Impassibilidade** — incapaz de sofrer, decair ou morrer. A dor acaba. O envelhecer acaba. As mil pequenas e lentas traições do corpo acabam.
+  * **Claridade** — a *clareza*, a radiância visível da alma brilhando através do corpo. *Então os justos resplandecerão como o sol no reino do Pai* (Mateus 13, 43). A santidade, enfim, visível.
+  * **Agilidade** — o corpo perfeitamente responsivo à vontade da alma, já não um instrumento lento ou rebelde. Mover-se à velocidade do pensamento. Ir aonde a alma vai.
+  * **Sutileza** — o corpo penetrando outras matérias como Cristo entrou na sala fechada. Real, mas já não submetido aos limites da matéria sólida.
+
+Para os condenados, o corpo também ressuscita — mas com o inverso destas qualidades. *Os ímpios ressuscitarão*, diz Aquino, *para a ressurreição do juízo, não da vida* (cf. João 5, 29). Esta é a gravidade que deve estar sob toda escolha que você faz com o corpo agora. Não porque Deus tenha um livro-caixa, mas porque o corpo que você está formando, por cada hábito, é o corpo que ressuscitará.
+
+Isto torna tudo o que você faz com o corpo **teologicamente sério**. O jejum que parece pequeno. A castidade que parece impossível. A reverência corporal na Missa — ajoelhar-se, inclinar a cabeça ao Santo Nome, receber a Comunhão deliberadamente — não são meras convenções. São o corpo **ensaiando a eternidade desde já**. Você verá Deus face a face um dia, com os olhos que já está treinando para olhar para outro lugar — ou não. Treine-os agora para olhar para Ele.
+
+*O seu corpo vai para algum lugar — não para a terra para sempre, mas de volta, restaurado, reconhecível. O que você faz com ele agora não é descartável.*
 
 > **Escritura.** *Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá.* — João 11, 25
 

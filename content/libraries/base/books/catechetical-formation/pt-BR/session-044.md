@@ -106,6 +106,22 @@ Também os nossos benfeitores são chamados pais: «Sê para com os órfãos com
 [^49]: Lc 10, 16.
 [^50]: *Nota do tradutor:* Collins traz «i. 24»; o versículo que corresponde ao contexto — «saí nu do ventre de minha mãe» — é Jó 1, 21.
 
+## Uma leitura pastoral
+
+O Quarto Mandamento é o **primeiro** da segunda tábua — o primeiro voltado ao próximo, e o primeiro próximo é aquele que *lhe deu a vida*. A palavra hebraica traduzida por *honrar* (*kavod*) significa literalmente *peso*. Honrar alguém é *dar peso* a ele — contá-lo como substancial, levá-lo a sério, recusar-se a tratá-lo levemente.
+
+Aquino percorre as três coisas que os pais dão: **o ser** (você existe por causa deles), **o sustento** (você está vivo agora porque eles o alimentaram), e **a instrução** (você sabe andar, comer, falar, ler porque eles o ensinaram). A dívida é estruturalmente **impagável**: você não pode devolver-lhes o ser ou a infância. *Um pai ofendido pode mandar o filho embora*, disse o Filósofo; *o filho não tem esse direito.* A assimetria não é injustiça. É a arquitetura da família.
+
+O Mandamento, porém, é mais amplo que os pais. Pio X é explícito: o dever se estende a *quem quer que tenha autoridade sobre nós — os nossos superiores em autoridade*. Aquino, citando Romanos 13, nomeia o alcance político: *não há autoridade senão da parte de Deus.* Mas nenhum dos dois santos imaginou isto como cheque em branco para toda autoridade. O próprio Aquino, em outro lugar, sustenta que uma lei injusta *não é lei alguma*, e que a obediência à autoridade é devida *nas matérias da sua competência*, nunca contra a lei de Deus. *Importa obedecer a Deus antes que aos homens* (Atos 5, 29) é a reserva cristã que tem permanecido desde os apóstolos e que produziu todo santo que recusou um tirano.
+
+O Mandamento, então, obriga em três círculos concêntricos:
+
+  * **Para com os pais.** Inclusive pais imperfeitos. Inclusive pais que feriram. *Honrar* não exige fingir que a ferida não foi real — isso seria mentira, que o Mandamento, em outro lugar, proíbe. *Honrar* exige *dar peso* a eles na verdade de quem foram e são: as pessoas que lhe deram o ser. Se a relação está danificada, o trabalho cristão é a reconciliação quando possível, o perdão quando não, e a intercessão sempre.
+  * **Para com os mais velhos, professores, empregadores, pastores da Igreja.** Cada um na sua esfera própria. A doutrina sobre os bispos em particular não mudou: mesmo um bispo cujas ações lhe pareçam decepcionantes ou escandalosas continua sendo *o bispo*, e o cristão dá peso ao seu ofício enquanto reza por ele como pecador.
+  * **Para com a autoridade civil.** Pague impostos. Obedeça às leis justas. Reze pelos governantes, inclusive aqueles em quem não votou. *Resista* — no sentido da recusa de consciência, com os santos — apenas quando a lei mandar o que Deus proíbe.
+
+E o Mandamento é também uma *vocação* para aqueles que vêm a ser pais. Aquino: *os pais devem dar instrução sem demora aos filhos.* Hoje, dê peso onde o deve. Se os seus pais estão vivos, ligue.
+
 > **Escritura.** *Honra teu pai e tua mãe — é o primeiro mandamento que tem uma promessa.* — Efésios 6, 2
 
 > *Senhor, as pessoas que me destes não são perfeitas. Ajudai-me a honrá-las assim mesmo. São minhas.*

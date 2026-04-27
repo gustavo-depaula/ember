@@ -1,0 +1,9 @@
+The passions are not enemies. St. Thomas insists on this, against the stoics. Anger, fear, desire, sorrow — these are *movements of the sensitive appetite*, and Christ Himself had them. He wept at Lazarus's tomb, drove out the moneychangers in anger, recoiled in fear at Gethsemane, *desired earnestly* to eat the Passover with His own. The Christian life does not amputate the passions; it orders them.
+
+A *vice* begins where a passion teaches the will what to want. The seven capital vices are called *capital* — the head — because they are the springs from which other sins flow. Pride seeks to be more than one is. Covetousness, to have more than one needs. Lust, to be loved without loving. Anger, to be feared. Gluttony, to be filled. Envy, to be the only one who exists. Sloth, to be left alone — even by God.
+
+Each is a counterfeit. Pride counterfeits *magnanimity*; covetousness, *prudence*; lust, *charity*; anger, *zeal*; gluttony, *gratitude*; envy, *justice*; sloth, *contemplation*. When the counterfeit costs less, the soul takes it. The remedy is not willpower against the vice but the deliberate practice of the true virtue it imitates: humility, generosity, chastity, meekness, sobriety, kindness, fervor.
+
+The Beatitudes are Christ's reply. They reverse the world's evaluations one by one, and St. Thomas reads them not as optional poetry but as the program of the kingdom. *The poor in spirit* refuse pride. *The meek* refuse anger. *Those who hunger and thirst for justice* refuse envy. *The pure of heart* refuse lust. *The merciful* refuse hardness. *The peacemakers* refuse the politics of the will to power. Each Beatitude maps to a vice it kills.
+
+This is why they are *blessings* and not commands. Christ does not say *try to be poor in spirit and we shall see*. He says *blessed are the poor in spirit, for theirs is the kingdom of heaven*. The kingdom is already there for those who let Him empty them. Today, let Him empty you of one thing.

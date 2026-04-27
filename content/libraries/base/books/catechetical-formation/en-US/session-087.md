@@ -35,26 +35,42 @@ One may also see in this bread another twofold meaning, viz., Sacramental Bread 
 
 In the second meaning this bread is the Word of God: "Not in bread alone doth man live, but in every word that proceedeth from the mouth of God."[^19] We pray, therefore, that He give us bread, that is, His Word.[^20] From this man derives that happiness which is a hunger for justice. For after spiritual things are considered, they are all the more desired; and this desire arouses a hunger, and from this hunger follows the fullness of life everlasting.
 
-[^1]: Isa., xl. 29.
-[^2]: Ezech., ii. 2.
+[^1]: Isaiah 40:29.
+[^2]: Ezekiel 2:2.
 [^3]: "The fourth and following petitions, in which we particularly and expressly pray for the necessary wants of soul and body, are subordinate to those which have preceded. According to the order of the Lord's Prayer, we ask for what regards the body and its preservation only after we have prayed for the things that pertain to God" ("Roman Catechism," "Lord's Prayer," Chapter xiii, 1).
-[^4]: Ecclus., xxix. 27.
-[^5]: I Tim., vi. 8. "We also ask 'our daily bread,' that is, necessary sustenance, and under the name of bread we understand whatever is necessary for food and raiment. . . . To comprehend fully the meaning of this petition, it is also to be noted that by this word 'bread' ought not to be understood an abundance of exquisite food and of rich clothing, but what is necessary and simple" ("Roman Catechism," "loc. cit.," 10).
+[^4]: Sirach 29:27.
+[^5]: 1 Timothy 6:8. "We also ask 'our daily bread,' that is, necessary sustenance, and under the name of bread we understand whatever is necessary for food and raiment. . . . To comprehend fully the meaning of this petition, it is also to be noted that by this word 'bread' ought not to be understood an abundance of exquisite food and of rich clothing, but what is necessary and simple" ("Roman Catechism," "loc. cit.," 10).
 [^6]: "Epistle" cliii, in Migne, P.L., XXXIII, 662.
-[^7]: Prov., iv. 17.
-[^8]: "Ibid.," xxx. 8.
+[^7]: Proverbs 4:17.
+[^8]: "Ibid.," 30:8.
 [^9]: "We also call it 'our daily bread,' because we use it to regain the vital energy that is daily consumed. . . . Finally, the word 'daily' implies the necessity of continually praying to God. in order to be kept in the habit of loving and serving Him, and that we may be thoroughly convinced of the fact that upon Him we depend for life and salvation" ("Roman Catechism," "loc. cit.," 12).
-[^10]: Prov., xxiii. 21.
-[^11]: Ecclus., xix. 1.
-[^12]: I Paral., xxix. 14.
-[^13]: Eccles., vi. 1-2.
-[^14]: "Ibid., v. 12.
-[^15]: Job. xx. 14-
-[^16]: Matt., vi. 31.
-[^17]: John, vi. 51.
-[^18]: I Cor., xi. 29. "But Christ our Lord, substantially present in the Sacrament of the Eucharist, is preeminently this bread. This ineffable pledge of His love He gave us when about to return to His Father, and of it He said: 'He that eateth My flesh and drinketh My blood, abideth in Me, and I in him' (John, vi. 57). 'Take ye and eat: this is My body' (Matt., xxvi. 26). . . . This Bread is called 'our bread.' because it is the spiritual food of the faithful only, that is, of those who, uniting charity to faith, wash away sin from their souls in the Sacrament of Penance, and mindful that they are the children of God, receive and adore this divine mystery with all the holiness and veneration to which they can arouse themselves" ("Roman Catechism," "loc. cit.," 20).
-[^19]: Matt., iv. 4.
+[^10]: Proverbs 23:21.
+[^11]: Sirach 19:1.
+[^12]: 1 Chronicles 29:14.
+[^13]: Ecclesiastes 6:1-2.
+[^14]: "Ibid., 5:12.
+[^15]: Job 20:14-
+[^16]: Matthew 6:31.
+[^17]: John 6:51.
+[^18]: 1 Corinthians 11:29. "But Christ our Lord, substantially present in the Sacrament of the Eucharist, is preeminently this bread. This ineffable pledge of His love He gave us when about to return to His Father, and of it He said: 'He that eateth My flesh and drinketh My blood, abideth in Me, and I in him' (John 6:57). 'Take ye and eat: this is My body' (Matthew 26:26). . . . This Bread is called 'our bread.' because it is the spiritual food of the faithful only, that is, of those who, uniting charity to faith, wash away sin from their souls in the Sacrament of Penance, and mindful that they are the children of God, receive and adore this divine mystery with all the holiness and veneration to which they can arouse themselves" ("Roman Catechism," "loc. cit.," 20).
+[^19]: Matthew 4:4.
 [^20]: "It remains to speak of that spiritual bread which also is the object of this petition of the Lord's Prayer, which takes in everything that is necessary for the health and safety of the spirit and soul. Just as the food by which the body is nourished is of various sorts, so is the food which preserves the life of the spirit and soul not of one kind. Thus, the word of God is the food of the soul" ("Roman Catechism," "loc. cit.," 18).
+
+## A pastoral reading
+
+The Greek word translated *daily* in *give us this day our daily bread* is one of the strangest in the New Testament: *epiousion*. It appears here in the Gospels and almost nowhere else. Translators have tried *daily*, *necessary*, *for tomorrow*, and — going back to the Fathers — *supersubstantial*. Aquinas accepts the puzzle as a feature, not a bug: the petition asks for **all the bread we need**, on every level on which a human being needs bread.
+
+There are three.
+
+  * **The bread of the body.** Food, shelter, the wage that pays for the food. Aquinas explicitly defends this layer: it is not unspiritual to ask God for what the body needs. *Give us this day* — Christ teaches us to ask each day for *that day*. Not for years of provision stockpiled. Trust grows in the daily asking.
+
+  * **The bread of the mind.** Aquinas: *the bread of doctrine*, the truth that nourishes the intellect, the words of God that the soul lives on (Matthew 4:4). The reader who has reached this point in the ninety-day track is asking for this bread already. Keep asking.
+
+  * **The Eucharistic Bread — *supersubstantial bread*.** Aquinas, following Jerome and Augustine, hears in *epiousion* a hint at the Bread that is *above all substances*: the Body of Christ. The petition is therefore a Eucharistic plea. *This day* — every day — *give us the Bread that is your Son*. The earliest Christians prayed the Lord's Prayer just before Communion at every Mass. They were not adding a generic prayer to the liturgy. They were asking for the very Bread the priest was about to consecrate.
+
+This explains the urgent *us*. *Give us this day our daily bread.* Not *give me*. The bread is a shared bread. Every other person at the Communion rail with you — the one whose face you do not know, the one you cannot stand, the one whose marriage is breaking — they are asking for the same Bread, and Christ is giving Himself equally to all of them.
+
+So a small examination today: do I trust God to give me the daily bread of the body, or am I anxious about provision in a way the Father has explicitly forbidden? (*Be not solicitous, saying, "What shall we eat?"* — Matthew 6:31). Do I make space, this week, to **eat the supersubstantial Bread** at Mass, even one extra time? The petition is asking for both. He gives both.
 
 > **Scripture.** *Give us this day our supersubstantial bread.* — Matthew 6:11
 

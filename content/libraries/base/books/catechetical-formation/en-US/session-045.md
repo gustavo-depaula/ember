@@ -33,6 +33,20 @@ Secondly, one kills another by word of mouth. This is done by giving counsel to 
 
 We have already considered the killing of the body, but some kill the soul also by drawing it away from the life of grace, namely, by inducing it to commit mortal sin: "He was a murderer from the beginning,"[^23] that is, in so far as he drew men into sin. Others, however, slay both body and soul. This is possible in two ways: first, by the murder of one with child, whereby the child is killed both in body and soul; and, secondly, by committing suicide.
 
+## A pastoral reading
+
+The Fifth Commandment is one of the few moral teachings nearly everyone professes to accept and very few carefully think through. The catechism above gives the principle in Pius X's plain form: *life — both natural and spiritual, of our neighbor and of ourselves — belongs to God.* Aquinas then walks the medieval contours: lawful eating of animals, the state's traditional authority in capital punishment, the prohibition of suicide, the many ways a person can kill (by hand, by word, by counsel, by silence). The principle is durable. The **applications shift with history**, and our age presses several questions Pius X did not pose explicitly here:
+
+  * **Abortion.** The unborn child is a *neighbor*, fully a human life, and in a uniquely defenseless way. The Church's teaching has been consistent since the *Didache* (c. 90 AD: *thou shalt not kill the child by abortion*). The Fifth Commandment, taken seriously, names abortion as it is — and *also* names the obligation of every Christian to support, protect, and walk alongside any woman or family for whom a pregnancy feels impossible.
+
+  * **Euthanasia.** The same principle holds: God is the master of life. To deliberately hasten a death is to claim authority that belongs to God. *Allowing* a death by withdrawing extraordinary measures, or refusing aggressive treatment that would only prolong dying, is something else entirely — the Church distinguishes carefully. *Comfort the dying* is the imperative. *Kill them, even gently* is not.
+
+  * **Capital punishment.** Aquinas defends it above on the principle that the state can act on God's behalf to defend the common good. Working the *same* principle, Pope St. John Paul II and Pope Francis have arrived at a different prudential judgment: in modern conditions, with effective non-lethal means available, executions are *inadmissible* (CCC 2267 as revised in 2018). This is a development, not a reversal — the principle is unchanged; the application is refined.
+
+  * **Self.** The Commandment also forbids damage to *your own* life. Suicide, addiction, the slow violence of resentment that eats the soul — these are real fifth-commandment sins. The cup our Lord drank, He drank without turning over. Drink yours.
+
+What Aquinas captures perhaps better than anyone else is that *killing happens by hand, by word, by counsel, by silence*. We can kill a person's reputation. We can kill a vocation by mockery. We can kill a marriage by withholding. The Fifth Commandment runs deeper than the criminal code. It runs as deep as the place in your heart where contempt is born.
+
 > **Scripture.** *Whosoever shall shed man's blood, his blood shall be shed: for man was made to the image of God.* — Genesis 9:6
 
 > *Lord, the body You made is not disposable. Today, let me notice one life and protect it.*

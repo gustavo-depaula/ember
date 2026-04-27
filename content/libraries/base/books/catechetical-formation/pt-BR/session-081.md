@@ -37,17 +37,29 @@
 
 «Pai-Nosso, que estais nos céus». Entre todas as orações, o Pai-Nosso ocupa o primeiro lugar. Possui cinco qualidades excelentes que se requerem em toda oração. A oração deve ser confiante, ordenada, conveniente, devota e humilde.
 
+### Confiante
+
 Há de ser confiante: «Vamos, pois, com confiança ao trono da graça».[^1] Não pode faltar-lhe a fé, como está dito: «Mas peça com fé, sem hesitar».[^2] Que esta seja uma oração digníssima de toda confiança é coisa razoável, pois foi formulada por Aquele que é nosso Advogado e o mais sábio dos intercessores junto ao Pai: «Nele estão escondidos todos os tesouros da sabedoria e da ciência»;[^3] e d'Ele se diz: «Temos um advogado junto ao Pai, Jesus Cristo, o justo».[^4] Daí dizer São Cipriano: «Tendo nós a Cristo como advogado junto ao Pai pelos nossos pecados, ao orar por causa de nossas faltas servimo-nos das próprias palavras de nosso Advogado».[^5]
 
 Mais ainda: esta oração merece tanto maior confiança porquanto Aquele que nos ensinou a orar benignamente ouve, juntamente com o Pai, a nossa oração, conforme se diz no Salmo: «Ele clamará a Mim, e Eu o ouvirei».[^6] Por isso escreve São Cipriano: «É oração amiga, familiar e devota suplicar ao Senhor com Suas próprias palavras».[^7] E assim ninguém se afasta desta oração sem fruto. Diz Santo Agostinho que por ela nos são remitidos os pecados veniais.[^8]
 
+### Conveniente
+
 Demais, nossa oração há de ser conveniente, isto é, que se peça a Deus, na oração, aquilo que é bom para nós. Diz São João Damasceno: «A oração é o pedido das coisas justas e convenientes a Deus».[^9] Muitas vezes nossa oração não é atendida porque pedimos o que não nos convém: «Pedis e não recebeis, porque pedis mal».[^10] Saber, com efeito, o que se há de pedir é coisa dificílima, pois não é fácil saber o que se há de desejar. Aquilo que retamente pedimos na oração é o que retamente desejamos; daí dizer o Apóstolo: «Não sabemos o que devemos pedir como convém».[^11] O próprio Cristo é nosso Mestre; é Ele quem nos ensina o que devemos pedir, e foi a Ele que disseram os discípulos: «Senhor, ensina-nos a orar».[^12] Aquelas coisas, portanto, que Ele nos ensinou a pedir, com toda propriedade as pedimos. «Quaisquer palavras que empreguemos na oração», diz Santo Agostinho, «não podemos deixar de exprimir o que está contido na Oração do Senhor, se oramos de modo conveniente e digno».[^13]
+
+### Ordenada
 
 Nossa oração deve também ser ordenada, como ordenados devem ser nossos desejos, pois a oração nada mais é que a expressão do desejo. Ora, é da reta ordem preferir as coisas espirituais às corporais e as celestes às meramente terrenas. Conforme está escrito: «Buscai primeiro o Reino de Deus e a Sua justiça, e todas estas coisas vos serão acrescentadas».[^14] Nestas palavras Nosso Senhor mostra que primeiro se hão de buscar as coisas celestes, e depois as materiais.
 
+### Devota
+
 Nossa oração há de ser devota, porque a abundância de piedade torna agradável a Deus o sacrifício da oração: «Em Teu nome levantarei minhas mãos. Que minha alma seja saciada como de tutano e gordura».[^15] Muitas vezes, pela longura de nossas orações, esfria-se a devoção; daí ter Nosso Senhor ensinado a evitar a verbosidade na oração: «Quando orardes, não faleis muito».[^16] E diz Santo Agostinho: «Esteja ausente da oração o muito falar; mas, enquanto perdurar o fervor, prossiga também a oração».[^17] Por isso fez o Senhor breve a Sua oração. A devoção na oração nasce da caridade, que é nosso amor a Deus e ao próximo, ambos manifestos nesta oração. Nosso amor a Deus aparece em chamarmos a Deus de «nosso Pai»; e nosso amor ao próximo, quando dizemos: «Pai-Nosso… perdoai-nos as nossas ofensas», o que nos leva ao amor do próximo.
 
+### Humilde
+
 A oração deve ser humilde: «Ele atendeu à oração dos humildes».[^18] Isto se vê na parábola do fariseu e do publicano (Lc 18, 9-15), e também nas palavras de Judite: «A oração dos humildes e dos mansos sempre Te foi agradável».[^19] Esta mesma humildade observa-se nesta oração, pois há verdadeira humildade quando alguém não se presume confiando em suas próprias forças, mas espera da força divina tudo o que pede.
+
+## Três efeitos da oração
 
 Cumpre notar que a oração produz três bons efeitos. Primeiro: a oração é remédio eficaz e útil contra os males. Assim, livra-nos dos pecados que cometemos: «Tu perdoaste a malícia do meu pecado. Por isso, todo santo Te orará no tempo oportuno».[^20] O ladrão na cruz orou e recebeu o perdão: «Hoje estarás comigo no Paraíso».[^21] Assim também orou o publicano, e «desceu justificado para sua casa».[^22] A oração também livra do temor do pecado futuro, das tribulações e da tristeza da alma: «Está triste algum de vós? Ore».[^23] Outrossim, livra dos perseguidores e inimigos: «Em vez de me retribuírem o amor, detraíam-me; mas eu me entregava à oração».[^24]
 
@@ -81,6 +93,27 @@ Em segundo lugar, a oração é eficaz e útil para conseguir tudo o que se dese
 [^26]: Lc 18, 1.
 [^27]: 2 Cor 12, 7.
 [^28]: Sl 111, 2. [N.T.: passagem que, na Vulgata, corresponde a Sl 140 (141), 2.]
+
+## Uma leitura pastoral
+
+Você caminhou pelo Credo (de quem somos), pelo Decálogo (como devemos viver), pelos Preceitos (o piso da prática), pelas Virtudes (o que tornar-se) e pelos Sacramentos (como a graça nos alcança). O que resta, nas próximas nove sessões, é a **oração** — a respiração diária da alma que mantém o resto unido.
+
+Aquino acima eleva as **cinco qualidades da verdadeira oração** que o próprio Pai-Nosso modela: confiante, conveniente, ordenada, devota, humilde. Cada uma vale uma demora breve:
+
+  * **Confiante.** *Cheguemo-nos com confiança ao trono da graça* (Hebreus 4, 16). A primeira falha da oração moderna é a meia-dúvida com que começamos. *Comece confiando.*
+  * **Conveniente.** Aquino adverte que às vezes pedimos o que não nos é bom (Mt 6, 8 — *vosso Pai sabe do que precisais antes que Lhe peçais*). Cristo nos ensinou o Pai-Nosso porque ele pede *o que devemos pedir*. Em caso de dúvida, reze-o.
+  * **Ordenada.** A ordem importa: *buscai primeiro o Reino de Deus* (Mateus 6, 33). A oração que começa pelo meu desejo urgente e termina, talvez, na Sua glória tem a ordem invertida. As três primeiras petições do Pai-Nosso são em direção a Ele; as próximas quatro, em direção a nós. A mesma ordem na sua oração pessoal, quando puder.
+  * **Devota.** Não a intensidade emocional, mas a *atenção da alma inteira* que a postura do corpo sustenta. Ajoelhe-se às vezes. Incline a cabeça. O corpo é um mestre da alma.
+  * **Humilde.** *Deus resiste aos soberbos e dá graça aos humildes* (Tiago 4, 6). O fariseu no templo reza o próprio currículo; o publicano reza *tem piedade de mim, pecador* e volta para casa justificado. As sete palavras do publicano são o modelo.
+
+O catecismo acima percorre também as **duas espécies de oração**: *mental* e *vocal*. Ambas são necessárias; ambas são ensinadas.
+
+  * **A oração vocal** — o terço, o Ofício diário, o Pai-Nosso falado, a Missa — *forma* a alma pela repetição e pela encarnação. O corpo aprende a oração que a alma um dia pretenderá.
+  * **A oração mental** — a meditação na Escritura ou num mistério da fé, a contemplação, o demorar-se silencioso em Deus — *aprofunda* o que a vocal começou. O Cristo de Bellini em Getsêmani (a imagem de hoje) é a oração mental no seu extremo: *Ele se ajoelha sozinho, sabendo o que vem, escolhendo a vontade do Pai*.
+
+A pintura de Bellini é o catecismo em pigmento. *A oração não é um hobby. É a única coisa que ajusta a alma ao tamanho de Deus. Ele rezou. Nós também devemos.*
+
+As próximas nove sessões o conduzirão pelo Pai-Nosso, petição por petição. Trate-as como uma aula magistral com o único Mestre. Reze devagar. Reze diariamente. Reze *com* a Igreja, que reza com você sempre que você reza.
 
 > **Escritura.** *Orai sem cessar.* — 1 Tessalonicenses 5, 17
 

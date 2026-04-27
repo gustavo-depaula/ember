@@ -38,37 +38,59 @@ Many benefits come to us from the Holy Ghost. (1) He cleanses us from our sins. 
 (5) He counsels us when we are in doubt, and teaches us what is the will of God: "He that hath an ear let him hear what the Spirit saith to the churches."[^31] Likewise: "I may hear him as a master."[^32]
 
 [^1]: See above, p. 17.
-[^2]: "So faith also, if it have not works, is dead in itself" (James, ii. 17).
-[^3]: Heb., iv. 12.
+[^2]: "So faith also, if it have not works, is dead in itself" (James 2:17).
+[^3]: Hebrews 4:12.
 [^4]: "De Trinitate," ix. 1O.
-[^5]: Rom., v. 5.
+[^5]: Romans 5:5.
 [^6]: "And I believe in the Holy Ghost, (1) the Lord and (2) Life-giver, (3) who proceeds from the Father and the son: (4) who together with the Father and the son is adored and glorified (5) who spoke by the Prophets" (The Nicene Creed).
-[^7]: Heb, i. 14.
+[^7]: Hebrews 1:14.
 [^8]: lohn, iv. 24.
-[^9]: II Cor., iii. 17.
+[^9]: 2 Corinthians 3:17.
 [^10]: "Ibid."
 [^11]: "Cum ipse Deus sit vita animae, sicut anima vita corporis."
-[^12]: John, vi. 64.
-[^13]: John, iv. 23.
-[^14]: Matt., xxviii. 19.
+[^12]: John 6:64.
+[^13]: John 4:23.
+[^14]: Matthew 28:19.
 [^15]: "The Holy Ghost is equally God with the Father and the Son, equaily omnipoent, eternal, perfect, the supreme good, infinitely wise and of the same nature with the Father and the Son. . . . If the Father is God, and the son, God, we must confess that the Holy Ghost, who is united with them in the same degree of honour, is also God. . . . The Holy Ghost is God, the third Person in the divine nature, distinct from the Father and the son, and produced by their will" ("Roman Catechism," Eighth Article, 4-5).
-[^16]: II Peter, i. 21.
-[^17]: Isa., xlviii. 16.
-[^18]: Wis., xi. 25.
+[^16]: 2 Peter 1:21.
+[^17]: Isaiah 48:16.
+[^18]: Wisdom 11:25.
 [^19]: Div. Nom., IV.
-[^20]: Ps. ciii. 30.
-[^21]: Luke, vii. 47.
-[^22]: Prov., x. 12.
-[^23]: I Peter, iv. 8.
-[^24]: John, xiv. 26.
-[^25]: I John, ii. 27.
-[^26]: John, xiv. 23.
-[^27]: Ezech., xxxvi. 26-27.
-[^28]: Eph., i. 13.
-[^29]: Rom., viii. 15-16.
-[^30]: Gal., iv. 6.
-[^31]: Apoc., ii.
-[^32]: Isa., l. 4.
+[^20]: Psalm 103:30.
+[^21]: Luke 7:47.
+[^22]: Proverbs 10:12.
+[^23]: 1 Peter 4:8.
+[^24]: John 14:26.
+[^25]: 1 John 2:27.
+[^26]: John 14:23.
+[^27]: Ezekiel 36:26-27.
+[^28]: Ephesians 1:13.
+[^29]: Romans 8:15-16.
+[^30]: Galatians 4:6.
+[^31]: Revelation 2.
+[^32]: Isaiah 50:4.
+
+## A pastoral reading
+
+If yesterday's session named *that* God is Three Persons, today's pushes the doctrine to its sharpest edge: **all three Persons are equally God, equally eternal, equally to be adored**. There is no senior Person, no junior Person, no one who came after another. *The Father is not greater. The Son is not lesser. The Spirit is not after.*
+
+This precision matters because every major heresy of the early Church got it wrong by softening the doctrine in some direction:
+
+  * **Arianism** (4th century) said the Son was *created*, the highest creature but not God. The Council of Nicaea (325) settled it: *consubstantial with the Father* — Greek *homoousios* — same essence, same divinity. The line in the Creed *true God from true God* is the explicit denial of Arius.
+
+  * **Macedonianism** (4th century) accepted the Son's divinity but denied the Spirit's. The Council of Constantinople (381) added the Holy Spirit's divine titles to the Creed: *the Lord, the Giver of Life, who proceeds from the Father (and the Son), who with the Father and the Son is *adored and glorified***.
+
+  * **Modalism** (especially Sabellianism) said the three are *modes* of the same Person — Father in the Old Testament, Son in the Gospels, Spirit in the Church. The Church rejected this: the three are *really distinct*, eternally so, conversing among themselves before any creature existed.
+
+The Catholic faith is therefore an exact tightrope: **really three, really one**, with each Person *fully* God and *not* the other Persons. Aquinas, distilling centuries of patristic refinement, gave the formula the Church still uses: **one nature, three Persons**, distinguished by their *relations of origin* — the Father is unbegotten, the Son is begotten, the Spirit proceeds.
+
+Why this matters for the Christian life:
+
+  * **You can pray to all three by name**. *Father*, when you ask for what only a Father can give. *Jesus*, when you need the One who walked the road. *Holy Spirit*, when you cannot move and need the One who is your strength. The same God, addressed differently — and addressed *as the Tradition has always addressed Him*.
+
+  * **The doctrine is the foundation of love itself**. *God is love* (1 John 4:8). Love requires a lover and a beloved. The Christian doctrine is that *love has been the inner life of God forever* — Father and Son loving each other in the Spirit. Creation is the *overflow* of that love. You exist because love overflowed.
+
+The painter, the catechism's image notes, *cannot make three figures of equal size and rank look anything but extraordinary*. Coronation of the Virgin (today's image) is one solution: each Person crowning Mary, equal in glory. The doctrine breaks every painter's frame. **It also breaks the human heart open to receive a love larger than every romance, every family, every friendship — because that love is what made all the others.**
 
 > **Scripture.** *In the beginning was the Word, and the Word was with God, and the Word was God.* — John 1:1
 

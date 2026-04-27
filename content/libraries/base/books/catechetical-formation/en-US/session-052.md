@@ -28,27 +28,43 @@ Thirdly, covetousness in a man of wealth renders his riches useless both to hims
 Finally, covetousness produces all kinds of wickedness. It is "the root of all evil," says St. Paul, and when this root is implanted in the heart it brings forth murder and theft and all kinds of evil. "They that will become rich, fall into temptation, and into the snare of the devil, and into many unprofitable and hurtful desires which drown men in destruction and perdition. For the desire of money is the root of all evil."[^15] And note, furthermore, that covetousness is a mortal sin when one covets one's neighbour’s goods without reason; and even if there be a reason, it is a venial sin.[^16]
 
 [^1]: St. Thomas places the Tenth Commandment (in the present traditional enumeration) before the Ninth. The Tenth Commandment is wider in extension than the Ninth, which is specific. The "Roman Catechism" ("Ninth and Tenth Commandments" 1) treats both the Ninth and Tenth Commandments together, and remarks that "what is commanded in these two precepts amounts to this, that to observe the preceding Commandments we must be particularly careful not to covet. For he who does not covet, being content with what he has, will not desire what belongs to others, but will rejoice in their prosperity, giving glory to God."
-[^2]: Ps. lxxii. 26.
-[^3]: I Kings, xvi. 7.
-[^4]: Eccles., v. 9.
+[^2]: Psalm 72:26.
+[^3]: 1 Samuel 16:7.
+[^4]: Ecclesiastes 5:9.
 [^5]: "Confessions," I.
-[^6]: Ps. cii. 5.
-[^7]: Eccles., v. 11.
-[^8]: Matt. vi. 21.
-[^9]: Luke viii. 14.
-[^10]: Ecclus., xiv. 3.
-[^11]: Exod., xxiii. 8.
-[^12]: Ecclus., xxxi. 5.
-[^13]: "Ibid.," vii. 20.
-[^14]: Matt., vi. 24.
-[^15]: I Tim., vi. 9, 10.
+[^6]: Psalm 102:5.
+[^7]: Ecclesiastes 5:11.
+[^8]: Matthew 6:21.
+[^9]: Luke 8:14.
+[^10]: Sirach 14:3.
+[^11]: Exodus 23:8.
+[^12]: Sirach 31:5.
+[^13]: "Ibid.," 7:20.
+[^14]: Matthew 6:24.
+[^15]: 1 Timothy 6:9, 10.
 [^16]: "Another reason for these two Commandments is that they clearly and in definite terms forbid some things not expressly prohibited in the Sixth and Seventh Commandments. The Seventh Commandment, for instance, forbids an unjust desire to take what belongs to another; but the Tenth Commandment further prohibits even to covet it in any way, even though it could be acquired justly and lawfully--if we foresee that by such acquisition our neighbour would suffer some loss. . . . Another reason why this sort of vicious desire is condemned is that it has for its object that which belongs to another, such as a house, maidservant, field, wife, ox, ass, and many other things, all of which the law of God forbids us to covet, simply because they belong to another. The desire for such things, when consented to, is criminal, and is numbered among the most grievous sins. When the mind, yielding to the impulse of evil desires, is pleased with evil or does not resist it, sin is necessarily committed" ("Roman Catechism," loc. cit.," 11).
 
 ---
 
-These are the ten precepts to which Our Lord referred when He said: "If thou wilt enter into life, keep the commandments" (Matt., xix. 17). There are two main principles of all the Commandments, namely, love of God and love of neighbour. The man that loves God must necessarily do three things: (1) he must have no other God. And in support of this is the Commandment: "Thou shalt not have strange gods"; (2) he must give God all honour. And so it is commanded: "Thou shalt not take the name of God in vain"; (3) he must freely take his rest in God. Hence: "Remember that thou keep holy the Sabbath day."
+These are the ten precepts to which Our Lord referred when He said: "If thou wilt enter into life, keep the commandments" (Matthew 19:17). There are two main principles of all the Commandments, namely, love of God and love of neighbour. The man that loves God must necessarily do three things: (1) he must have no other God. And in support of this is the Commandment: "Thou shalt not have strange gods"; (2) he must give God all honour. And so it is commanded: "Thou shalt not take the name of God in vain"; (3) he must freely take his rest in God. Hence: "Remember that thou keep holy the Sabbath day."
 
 But to love God worthily, one must first of all love one's neighbour. And so: "Honour thy father and mother." Then, one must avoid doing harm to one's neighbour in act. "Thou shalt not kill" refers to our neighbour’s person; "Thou shalt not commit adultery" refers to the person united in marriage to our neighbour; "Thou shalt not steal" refers to our neighbour’s external goods. We must also avoid injury to our neighbour both by word, "Thou shalt not bear false witness," and by thought, "Thou shalt not covet thy neighbour’s goods" and "Thou shalt not covet thy neighbour’s wife."
+
+## A pastoral reading
+
+The Tenth Commandment is the **interior** Commandment — the one that says God's law reaches *under* the action and *under* the word, into the soil of the will. Aquinas pauses here to make a striking point: human laws judge only what is exterior, but *the divine law is from God, who sees both external things and the very interior of men*. The Commandment is not redundant with *Thou shalt not steal*. It catches what stealing has not yet become.
+
+The disease the Commandment names is **covetousness** — the unbridled greed that consumes the soul long before any goods are taken. Pius X is precise: the Commandment forbids *unbridled greed for riches, without regard for the rights and the good of our neighbor.* Three modern symptoms:
+
+  * **The constant hum of comparison.** Social media has industrialized the Tenth Commandment. The vacation, the kitchen renovation, the salary, the body, the marriage — others' versions of these now arrive in our pocket all day. Each induces a tiny rehearsal of *I deserve that too*. Multiply by years. The cumulative damage is real, and the catechism above names it: *unbridled greed*. The remedy is not abstinence from the platforms (though for some it is); the remedy is *active gratitude for what is in front of you*. The eye trained to compare cannot also be trained to see.
+
+  * **The career as identity.** When *what I do* fully colonizes *who I am*, every promotion of a peer becomes an insult against me, and every setback of mine becomes existential. Aquinas's diagnosis still applies: *covetousness is the disease that does not announce itself*. You only know you have it when you finally let go of something — and feel the wrench.
+
+  * **The covet that hides as virtue.** Resentment of the rich, dressed up as social conscience. Envy of the holy, dressed up as critique. The Tenth Commandment binds these too. *Thou shalt not even desire* — Aquinas's emphasis — *thy neighbor's goods*, even when his goods are spiritual.
+
+The opposite virtue is **detachment**, and Christian tradition has always practiced it through small deliberate acts. *Today, give one thing away.* Not because the recipient needs it, though they may. Because *you* need to know that you can. The Giotto Francis throwing his clothes at his father's feet (today's image) is the dramatic version. Yours need not be dramatic. A book, a piece of clothing, a possession that has become identity — release one. *Coveting is the disease that does not announce itself; you only know you have it when you finally let go of something*. Today, let go of one thing.
+
+And then, on the other side of the let-go, you will find a freedom that is the beginning of joy. Pius X again: *we must enter the kingdom of God through many tribulations*. The kingdom we are praying for in the Lord's Prayer is also entered through *small tribulations of detachment*, beginning today.
 
 > **Scripture.** *For we brought nothing into this world: and certainly we can carry nothing out.* — 1 Timothy 6:7
 

@@ -41,7 +41,7 @@ Some men have erred in worshipping their ancestors. This arose from three causes
 
 (2) Because of Flattery.--Thus being unable to worship certain men in their presence, they, bowing down, honoured them in their absence by making statues of them and worshipping one for the other: "Whom they had a mind to honour . . . they made an image . . . that they might honour as present him that was absent."[^9] Of such also are those men who love and honour other men more than God: "He that loveth his father and mother more than Me, is not worthy of Me."[^10] "Put your trust not in princes; in the children of man, in whom there is no salvation."[^11]
 
-(3) From Presumption.--Some because of their presumption made themselves be called gods; such, for example, was Nabuchodonosor (Judith, iii. 13). "Thy heart is lifted up and thou hast said: I am God."[^12] Such are also those who believe more in their own pleasures than in the precepts of God. They worship themselves as gods, for by seeking the pleasures of the flesh, they worship their own bodies instead of God: "Their god is their belly."[^13] We must, therefore, avoid all these things.
+(3) From Presumption.--Some because of their presumption made themselves be called gods; such, for example, was Nabuchodonosor (Judith 3:13). "Thy heart is lifted up and thou hast said: I am God."[^12] Such are also those who believe more in their own pleasures than in the precepts of God. They worship themselves as gods, for by seeking the pleasures of the flesh, they worship their own bodies instead of God: "Their god is their belly."[^13] We must, therefore, avoid all these things.
 
 ## Why We Should Adore One God
 
@@ -58,39 +58,53 @@ Against Service of the Devil.--The fourth reason is because of the great burden 
 Greatness of the Reward.--The fifth reason is taken from the greatness of the reward or prize. In no law are such rewards promised as in the law of Christ. Rivers flowing with milk and honey are promised to the Mohammedans, to the Jews the land of promise, but to Christians the glory of the Angels: "They shall be as the Angels of God in heaven."[^33] It was with this in mind that St. Peter asked: "Lord, to whom shall we go? Thou hast the words of eternal life."[^34]
 
 [^1]: "The Decalogue is the summary and epitome of the entire law of God," is the opinion of St. Augustine (Quest. cxl super Exod., lib. ii). "Although the Lord had spoken many things, yet He gave only two tablets of stone to Moses. . . . If carefully examined and well understood, it will be found that on them depend whatever else is commanded by God. Again, these ten commandments are reducible to two, the love of God and our neighbour, on which 'depend the whole law and the prophets' " ("Roman Catechism," "The Decalogue," Chapter I, 1).
-[^2]: Ps. xcv.
-[^3]: I Cor., x. 20.
-[^4]: Wis., xiii. 2.
-[^5]: Deut., iv. 15, 19.
-[^6]: Wis., xiii. 2.
-[^7]: Eph., v. 5.
-[^8]: Wis., xiv. 15.
+[^2]: Psalm 95.
+[^3]: 1 Corinthians 10:20.
+[^4]: Wisdom 13:2.
+[^5]: Deuteronomy 4:15, 19.
+[^6]: Wisdom 13:2.
+[^7]: Ephesians 5:5.
+[^8]: Wisdom 14:15.
 [^9]: "Ibid.," 17.
-[^10]: Matt., x. 37.
-[^11]: Ps. cxlv. 3.
-[^12]: Ezech., xxviii. 2.
-[^13]: Phil., iii. 19.
-[^14]: Rom., i. 23.
-[^15]: Isa., xlii. 8.
-[^16]: "Ibid.," xli. 23.
-[^17]: Heb., iv. 13.
-[^18]: Isa., viii. 19.
-[^19]: Ps. ciii. 28.
-[^20]: Osee, ii. 5.
-[^21]: Ps. xxxix. 5.
-[^22]: Gal., iv. 9, 10.
-[^23]: Heb., x. 28-29.
-[^24]: Rom., vii. 3.
-[^25]: III Kings, xviii. 21.
-[^26]: Jerem., xvi. 13.
-[^27]: John, viii.
+[^10]: Matthew 10:37.
+[^11]: Psalm 145:3.
+[^12]: Ezekiel 28:2.
+[^13]: Philippians 3:19.
+[^14]: Romans 1:23.
+[^15]: Isaiah 42:8.
+[^16]: "Ibid.," 41:23.
+[^17]: Hebrews 4:13.
+[^18]: Isaiah 8:19.
+[^19]: Psalm 103:28.
+[^20]: Hosea 2:5.
+[^21]: Psalm 39:5.
+[^22]: Galatians 4:9, 10.
+[^23]: Hebrews 10:28-29.
+[^24]: Romans 7:3.
+[^25]: 1 Kings 18:21.
+[^26]: Jeremiah 16:13.
+[^27]: John 8.
 [^28]: "Super Ezech.," xi.
-[^29]: Matt., xi. 30.
-[^30]: Rom., vi. 19.
-[^31]: Wis., v. 7.
-[^32]: Jerem., ix. 5.
-[^33]: Matt., xxii, 30.
-[^34]: John, vi. 69. "The faithful should continually remember these words, 'I am the Lord thy God.' They will learn from these words that their Lawgiver is none other than their Creator, by whom they were made and are preserved. . . . 'Who brought thee out of the land of Egypt, out of the house of bondage' appear at first to relate solely to the Jews liberated from the bondage of Egypt. But if we ponder on the meaning of the salvation of the entire human race, these words will be seen to apply still more specifically to all Christians who are liberated by God, not from the bondage of Egypt, but from the bondage of sin and 'the powers of darkness, and are translated into the kingdom of His beloved Son' (Col., i. 13). . . . And when it is said, 'Thou shalt not have strange gods before Me,' it is the same as to say: 'Thou shalt worship Me who am the true God, thou shalt not worship strange gods.' . . . It should be accurately taught that the veneration and invocation of the Angels, of the Saints, and of the blessed souls who enjoy the glory of heaven--and, moreover, the honour which the Catholic Church has always paid even to the bodies and ashes of the Saints- -are not forbidden by this Commandment" ("Roman Catechism," "First Commandment," 1, 2, 5, 8).
+[^29]: Matthew 11:30.
+[^30]: Romans 6:19.
+[^31]: Wisdom 5:7.
+[^32]: Jeremiah 9:5.
+[^33]: Matthew 22:30.
+[^34]: John 6:69. "The faithful should continually remember these words, 'I am the Lord thy God.' They will learn from these words that their Lawgiver is none other than their Creator, by whom they were made and are preserved. . . . 'Who brought thee out of the land of Egypt, out of the house of bondage' appear at first to relate solely to the Jews liberated from the bondage of Egypt. But if we ponder on the meaning of the salvation of the entire human race, these words will be seen to apply still more specifically to all Christians who are liberated by God, not from the bondage of Egypt, but from the bondage of sin and 'the powers of darkness, and are translated into the kingdom of His beloved Son' (Colossians 1:13). . . . And when it is said, 'Thou shalt not have strange gods before Me,' it is the same as to say: 'Thou shalt worship Me who am the true God, thou shalt not worship strange gods.' . . . It should be accurately taught that the veneration and invocation of the Angels, of the Saints, and of the blessed souls who enjoy the glory of heaven--and, moreover, the honour which the Catholic Church has always paid even to the bodies and ashes of the Saints- -are not forbidden by this Commandment" ("Roman Catechism," "First Commandment," 1, 2, 5, 8).
+
+## A pastoral reading
+
+There is a strain in modern Catholic thought that wants to dismiss the First Commandment as the *easy* one. *Idolatry, divination, ancestor worship — these are problems for the pagan world; we live in a secular age.* The catechism above and Aquinas's careful taxonomy is asking us to look again. **The First Commandment is the one we break most.**
+
+Aquinas catalogues the ancient idolatries — demons, heavenly bodies, lower elements, ancestors, the self — and his classification is uncannily transferable. Each one points, by ancient name, at a contemporary form:
+
+  * *They worshipped demons* — astrology, occult dabbling, the witch-aesthetic of social media, the casual Tarot card, the horoscope checked before a date. Aquinas, citing Augustine, says these *cannot be done without some kind of pact with the devil*. He is not exaggerating. They are participation in another spiritual economy than God's.
+  * *They worshipped the heavenly bodies* — the modern equivalent: the deterministic forces we now imagine rule us. *The algorithm.* *The market.* *Genetics.* *The cycle.* Real things, but not God; not entitled to the obedience of a soul.
+  * *They worshipped the lower elements* — money, drink, food, the body's pleasure as ultimate. Aquinas quotes Paul: *the covetous person, who is a server of idols.* When you cannot imagine a happy life without something other than God, that something is your god.
+  * *They worshipped their ancestors* — for us: the family system that cannot be questioned, the political tribe whose convictions we adopt without thought, the mentor or celebrity whose authority we accept *over* the Church. Aquinas: *He that loveth his father and mother more than Me is not worthy of Me.*
+  * *They worshipped themselves* — for us: the entire performance of self-curation, the self-image we tend more carefully than any garden, the autonomy we will not surrender. Aquinas's diagnosis is exact: *those who believe more in their own pleasures than in the precepts of God worship themselves as gods.*
+
+The First Commandment names the ground of all the others. If you got the first one right, the other nine would follow. Most of our daily moral failures are downstream of one violation of this one. *I am the Lord thy God; thou shalt not have other gods before me.* Today, identify the **one** other god most likely to be set in front of Him in your day. Refuse it once. That is what religion is for.
 
 > **Scripture.** *Thou shalt not have strange gods before me.* — Exodus 20:3
 

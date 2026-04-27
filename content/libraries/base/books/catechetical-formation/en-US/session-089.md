@@ -37,34 +37,34 @@ How Is One Freed from Temptation?--Now we have seen what temptation is, and also
 
 But does God lead one to evil, that he should pray: "Lead us not into temptation"? I reply that God is said to lead a person into evil by permitting him to the extent that, because of his many sins, He withdraws His grace from man, and as a result of this withdrawal man does fall into sin. Therefore, we sing in the Psalm: "When my strength shall fail, do not Thou forsake me."[^23] God, however, directs man by the fervor of charity that he be not led into temptation. For charity even in its smallest degree is able to resist any kind of sin: "Many waters cannot quench charity."[^24] He also guides man by the light of his intellect in which he teaches him what he should do. For as the Philosopher says: "Every one who sins is ignorant."[^25] "I will give thee understanding and I will instruct thee."[^26] It was for this last that David prayed, saying: "Enlighten my eyes that I never sleep in death; lest at any time my enemy say: I have prevailed against him."[^27] We have this through the gift of understanding. Therefore, when we refuse to consent to temptation, we keep our hearts pure: "Blessed are the clean of heart, for they shall see God."[^28] And it follows from this petition that we are led up to the sight of God, and to it may God lead us all!
 
-[^1]: Isa., i. 16.
+[^1]: Isaiah 1:16.
 [^2]: "We should implore the divine assistance in general under all temptations, and especially when we are assailed by any particular temptation" ("Roman Catechism," "Lord's Prayer," Chapter XV, 15).
-[^3]: Ps. xxxiii. 15.
-[^4]: Gen., xxii: Job, i.
-[^5]: Deut., xiii. 3.
-[^6]: James, i. 13.
-[^7]: "Ibid.," i. 14.
-[^8]: Wis., ix. 15.
-[^9]: Rom., vii. 22-23.
-[^10]: Matt., xxvi. 41.
-[^11]: Eph., vi. 12.
-[^12]: I Thess., iii. 5.
-[^13]: I Peter, v. 8.
-[^14]: Cor., xi. 14.
-[^15]: Tim., vi. 10.
-[^16]: Job, xxxvii. 19.
-[^17]: II Tim., iii. 12.
-[^18]: Matt., x. 28.
-[^19]: James, i. 2.
-[^20]: Ecclus. ii. I .
+[^3]: Psalm 33:15.
+[^4]: Genesis 22: Job 1.
+[^5]: Deuteronomy 13:3.
+[^6]: James 1:13.
+[^7]: "Ibid.," 1:14.
+[^8]: Wisdom 9:15.
+[^9]: Romans 7:22-23.
+[^10]: Matthew 26:41.
+[^11]: Ephesians 6:12.
+[^12]: 1 Thessalonians 3:5.
+[^13]: 1 Peter 5:8.
+[^14]: Corinthians 11:14.
+[^15]: Timothy 6:10.
+[^16]: Job 37:19.
+[^17]: 2 Timothy 3:12.
+[^18]: Matthew 10:28.
+[^19]: James 1:2.
+[^20]: Sirach 2. I .
 [^21]: James., 12.
-[^22]: I Cor., x. 13.
-[^23]: Ps. lxx. 9.
-[^24]: Cant., viii. 7.
+[^22]: 1 Corinthians 10:13.
+[^23]: Psalm 70:9.
+[^24]: Song of Songs 8:7.
 [^25]: Aristotle, "Ethics." III, 1.
-[^26]: Ps. xxxi. 8.
-[^27]: Ps. xii. 4-5.
-[^28]: Matt., v. 8.
+[^26]: Psalm 31:8.
+[^27]: Psalm 12:4-5.
+[^28]: Matthew 5:8.
 
 ---
 
@@ -84,20 +84,20 @@ God, therefore, delivers man from evil and from affliction by converting them to
 
 The Holy Spirit through the gift of wisdom has us use this prayer, and by it we arrive at supreme happiness which is the reward of peace. For it is by patience we obtain peace, whether in time of prosperity or of adversity. For this reason the peace-makers are called the children of God, because they are like to God in this, that nothing can hurt God and nothing can hurt them, whether it be prosperity or adversity: "Blessed are the peace-makers, for they shall be called the children of God."[^14] "Amen." This is general ratification of all the petitions.[^15]
 
-[^1]: "Our Lord Himself made use of this petition when on the eve of His passion He prayed to God His Father for the salvation of all mankind. He said, 'I pray that Thou keep them from evil' (John, xvii. 15). In this form of prayer He, as it were, summarized the force and efficacy of the other petitions; and He delivered it by way of precept and confirmed it by example" ("Roman Catechism," "loc. cit.," Chapter XVI, 1).
-[^2]: II Tim., iii. 12.
-[^3]: Apoc., iii. 8.
-[^4]: Job, v. 19.
-[^5]: Apoc., vii. 16.
-[^6]: II Cor., i. 8.
-[^7]: "Ibid.," vii. 6.
-[^8]: Ps. xciii. 19.
-[^9]: Tob., iii. 22.
-[^10]: II Cor., iv. 17.
-[^11]: Rom., v. 3.
-[^12]: Tob., iii. 13.
-[^13]: Prov., xix. 11.
-[^14]: Matt., v.
+[^1]: "Our Lord Himself made use of this petition when on the eve of His passion He prayed to God His Father for the salvation of all mankind. He said, 'I pray that Thou keep them from evil' (John 17:15). In this form of prayer He, as it were, summarized the force and efficacy of the other petitions; and He delivered it by way of precept and confirmed it by example" ("Roman Catechism," "loc. cit.," Chapter XVI, 1).
+[^2]: 2 Timothy 3:12.
+[^3]: Revelation 3:8.
+[^4]: Job 5:19.
+[^5]: Revelation 7:16.
+[^6]: 2 Corinthians 1:8.
+[^7]: "Ibid.," 7:6.
+[^8]: Psalm 93:19.
+[^9]: Tobit 3:22.
+[^10]: 2 Corinthians 4:17.
+[^11]: Romans 5:3.
+[^12]: Tobit 3:13.
+[^13]: Proverbs 19:11.
+[^14]: Matthew 5.
 [^15]: 'The word 'Amen' which brings the Lord's Prayer to a close contains, as it were, the germs of many of those thoughts and considerations which we have just treated Indeed, so frequent was this Hebrew word in the mouth of Our Lord that it pleased the Holy. Spirit to have it retained in the Church of God. The meaning of it may be said to be: 'Know that thy prayers are heard.' It has the force of a response, as if God answers the prayer of the suppliant and graciously dismisses him after He has kindly heard his prayers" ("Roman Catechism," "loc. cit.," Chapter xvii. 4).
 
 ---
@@ -110,8 +110,24 @@ We must avoid and flee from all things which are opposed to the good. For, as we
 
 The second good is eternal life, to which sin is contrary: because eternal life is lost by sin. And so to remove this evil we pray: "Forgive us our trespasses as we forgive those who trespass against us." The third good is justice and good works, and temptation is contrary to this, because temptation hinders us from doing good. We pray, therefore, to have this evil taken away in the words: "Lead us not into temptation." The fourth good is all the necessaries of life, and opposed to this are troubles and adversities. And we seek to remove them when we pray: "But deliver us from evil. Amen."
 
-[^16]: Matt., vi. 33.
-[^17]: Job, xxxv. 6, 7.
+[^16]: Matthew 6:33.
+[^17]: Job 35:6, 7.
+
+## A pastoral reading
+
+In 2018 the Italian bishops, with Pope Francis's blessing, changed how the Lord's Prayer is rendered at Mass: from *non ci indurre in tentazione* (do not lead us into temptation) to *non abbandonarci alla tentazione* (do not abandon us to temptation). The English form remains *lead us not*. The two are not contradictions; they are different ways of translating the Greek *μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν*, and Aquinas above settles the apparent puzzle in advance.
+
+He distinguishes two kinds of *temptation*. The Greek word *peirasmos* means **test** or **trial** — and tests come from two very different sources. *God does not tempt anyone to evil* (James 1:13) and Aquinas is unambiguous: *God tempts no man in this way; He tempteth no man.* But God *does* sometimes test a soul to make its virtue visible — Abraham's hand on Isaac, Job in his ashes, Christ Himself in the wilderness today's image shows. *That* kind of trial is from God, and a Christian welcomes it. *Lead us not into temptation* asks that we be **spared the kind of testing that exposes our weakness**, since we may not survive it. It does not ask God to refrain from a sin He cannot commit. It asks Him to spare us from being abandoned to the testing of our enemy.
+
+Aquinas walks the three sources of that enemy testing:
+
+  * **The flesh.** *No plague more dangerous than an enemy in the family circle*, Aquinas says, quoting Boethius. The flesh is closer than the devil. The fast, the cold shower, the no-second-glass — these are the disciplines through which the flesh learns its place.
+  * **The devil.** A *real* personal enemy, not a metaphor for psychological forces. *Like a skillful general*, Aquinas says, *he looks for the weak places in the object of his assault.* He has a strategy. So must we.
+  * **The world.** Pius X above adds the third: prosperity that softens, adversity that frightens. The world tempts in both directions.
+
+The seventh petition is the answer to all three: *deliver us from evil*. Note: not from *the* evil generally, but, in Aquinas's reading and the Greek's grammatical ambiguity, often *from the evil one* — the personal devil whom Christ named. We ask deliverance from his power.
+
+Then comes ***Amen***. Not a verbal full-stop. The Hebrew word means *truly, faithfully, so be it*. Aquinas calls it *the seal of the prayer*: a confession that the prayer just made was made *in faith*, that we believe what we asked has been heard, that we entrust the outcome to the Father whose Son taught us the words. The *Amen* of the Lord's Prayer is the same *Amen* the assembly says at the end of the Eucharistic Prayer when the priest holds up the host: *Through Him, with Him, in Him, in the unity of the Holy Spirit, all glory and honor is yours, almighty Father, for ever and ever — Amen.* It is the Christian's strongest word.
 
 > **Scripture.** *And God is faithful, who will not suffer you to be tempted above that which you are able: but will make also with temptation issue, that you may be able to bear it.* — 1 Corinthians 10:13
 

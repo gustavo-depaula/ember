@@ -32,34 +32,34 @@ Finally, there are some who lie to benefit another, that is, when they wish to f
 
 [^1]: St. Thomas also treats of this Commandment in the "Summa Theol.," II-II, Q. cxxii, art. 6.
 [^2]: "The Commandment specially prohibits that species of false testimony which is given on oath in a court of justice. The witness swears by the Deity and thus pledges God's holy name for the truth of what he says, and this has very great weight and constitutes the strongest claim for credit. Such testimony, therefore, because it is dangerous, is particularly prohibited. When no legal exceptions can be taken against a sworn witness, and when he cannot be convicted of open dishonesty and malice, even the judge himself cannot reject his testimony. This is especially true since it is commanded by divine authority that 'in the mouth of two or three witnesses every word shall stand' " ("Roman Catechism," "Eighth Commandment," 3).
-[^3]: Lev., xix. 16.
-[^4]: Matt., xviii. 15.
-[^5]: Prov., xix. 5.
-[^6]: Deut., xix. 18-21.
-[^7]: Prov., xxv. 18.
-[^8]: Lev., xix. 15. "This Commandment prohibits deceit, lying, and perjury on the part of witnesses. The same prohibition also applies to plaintiffs, defendants, promoters, representatives, procurators, and advocates; in a word, all who take any part in lawsuits. . . . Finally, God forbids all testimony which may injure others or do them injustice, whether it be a matter of legal evidence or not" ("Roman Catechism," "loc. cit.," 6).
-[^9]: Rom., i. 30.
-[^10]: Prov., xxii. 1.
-[^11]: Eccles., x. 11.
-[^12]: Ecclus., xxviii. 28.
-[^13]: Prov., xxv. 23. "This Commandment not only forbids false testimony, but also the abominable sin of detraction. This is a moral pestilence which is the poisoned source of many and calamitous evils. . . . That we may see the nature of the sin of detraction more clearly, we must know that reputation is injured not only by calumniating the character. but also by exaggerating the faults of others. He who makes known the secret sin of any man at any time or place unnecessarily, or before persons who have no right to know, is also rightly regarded as a detractor and evil-speaker, if his revelation seriously injures the other's reputation" ("Roman Catechism," "loc. cit.," 9).
-[^14]: Prov., vi. 16, 19.
-[^15]: Ps. ix. 2487
-[^16]: Isa., iii. 12. "Flatterers and sycophants are among those who violate this Commandment, for by fawning and insincere praise they gain the hearing and good will of those whose favor. money, and honors they seek" ("Roman Catechism," "loc. cit.," 11).
-[^17]: Ecclus, vii. 14.
-[^18]: Matt., xxvi. 73.
-[^19]: John, viii. 44.
-[^20]: Gen. iii. 4.
-[^21]: Eph., iv. 25.
-[^22]: Ecclus., xxxiv. 4.
-[^23]: Wis., i. 11.
-[^24]: Ps. v. 7.
-[^25]: II Peter, ii. 1.
-[^26]: Col., iii. 9.
-[^27]: Job, xiii. 7.
-[^28]: Ecclus., xix.
-[^29]: "Ibid.," iv. 30.
-[^30]: Isa., xxviii. 15.
-[^31]: Prov., x. 4.
-[^32]: Eccles., iv. 26.
-[^33]: Wis., iv. 12.
+[^3]: Leviticus 19:16.
+[^4]: Matthew 18:15.
+[^5]: Proverbs 19:5.
+[^6]: Deuteronomy 19:18-21.
+[^7]: Proverbs 25:18.
+[^8]: Leviticus 19:15. "This Commandment prohibits deceit, lying, and perjury on the part of witnesses. The same prohibition also applies to plaintiffs, defendants, promoters, representatives, procurators, and advocates; in a word, all who take any part in lawsuits. . . . Finally, God forbids all testimony which may injure others or do them injustice, whether it be a matter of legal evidence or not" ("Roman Catechism," "loc. cit.," 6).
+[^9]: Romans 1:30.
+[^10]: Proverbs 22:1.
+[^11]: Ecclesiastes 10:11.
+[^12]: Sirach 28:28.
+[^13]: Proverbs 25:23. "This Commandment not only forbids false testimony, but also the abominable sin of detraction. This is a moral pestilence which is the poisoned source of many and calamitous evils. . . . That we may see the nature of the sin of detraction more clearly, we must know that reputation is injured not only by calumniating the character. but also by exaggerating the faults of others. He who makes known the secret sin of any man at any time or place unnecessarily, or before persons who have no right to know, is also rightly regarded as a detractor and evil-speaker, if his revelation seriously injures the other's reputation" ("Roman Catechism," "loc. cit.," 9).
+[^14]: Proverbs 6:16, 19.
+[^15]: Psalm 9:2487
+[^16]: Isaiah 3:12. "Flatterers and sycophants are among those who violate this Commandment, for by fawning and insincere praise they gain the hearing and good will of those whose favor. money, and honors they seek" ("Roman Catechism," "loc. cit.," 11).
+[^17]: Sirach 7:14.
+[^18]: Matthew 26:73.
+[^19]: John 8:44.
+[^20]: Genesis 3:4.
+[^21]: Ephesians 4:25.
+[^22]: Sirach 34:4.
+[^23]: Wisdom 1:11.
+[^24]: Psalm 5:7.
+[^25]: 2 Peter 2:1.
+[^26]: Colossians 3:9.
+[^27]: Job 13:7.
+[^28]: Sirach 19.
+[^29]: "Ibid.," 4:30.
+[^30]: Isaiah 28:15.
+[^31]: Proverbs 10:4.
+[^32]: Ecclesiastes 4:26.
+[^33]: Wisdom 4:12.

@@ -26,28 +26,28 @@ Secondly, the damned shall suffer from remorse of conscience: "I will reprove th
 
 We thus see the difference between doing good and doing evil. Good works lead to life, evil drags us to death. For this reason, men ought frequently to recall these things to mind, since they will incite one to do good and withdraw one from evil. Therefore, very significantly, at the end of the Creed is placed "life everlasting," so that it would be more and more deeply impressed on the memory. To this life everlasting may the Lord Jesus Christ, blessed God for ever, bring us! Amen.
 
-[^1]: Ps. xlviii. 21.
-[^2]: Wis., ii. 22-23. Note also: "And though in the sight of men they suffer torments their hope is full of immortality" ("ibid.," iii. 4).
-[^3]: Gen., xv. 1.
-[^4]: I Cor., xiii. 12. "The blessed always see God present, and by this greatest and most exalted of gifts, 'being made partakers of the divine nature' (II Peter, i. 4), they enjoy true and solid happiness" ("Roman Catechism," Twelfth Article, 9)
-[^5]: Isa., xxxi. 9. Note: This second consideration is found in the vives edition Chapter XV
+[^1]: Psalm 48:21.
+[^2]: Wisdom 2:22-23. Note also: "And though in the sight of men they suffer torments their hope is full of immortality" ("ibid.," 3:4).
+[^3]: Genesis 15:1.
+[^4]: 1 Corinthians 13:12. "The blessed always see God present, and by this greatest and most exalted of gifts, 'being made partakers of the divine nature' (2 Peter 1:4), they enjoy true and solid happiness" ("Roman Catechism," Twelfth Article, 9)
+[^5]: Isaiah 31:9. Note: This second consideration is found in the vives edition Chapter XV
 [^6]: "Ibi vacabimus, et videbimus: videbimus, et amabimus: amabimus, et laudabimus" ("There we shall rest and we shall see; we shall see and we shall love; we shall love and we shall praise," in "The city of God," Book XXII, Chapter xxx).
-[^7]: Isa., li. 3.
+[^7]: Isaiah 51:3.
 [^8]: "Confessions," Book I, 1.
-[^9]: Matt., xxv. 21.
-[^10]: Ps. xvi. 15.
-[^11]: Ps. cii. 5.
-[^12]: Job, xxii. 26.
-[^13]: Ps. xv. 11. "To enumerate all the delights with which the souls of the blessed will be filled, would be an endless task. We cannot even conceive them in thought. The happiness of the Saints is filled to overflowing of all those pleasures which can be enjoyed or even desired in this life, whether they pertain to the powers of the mind or the perfection of the body" ("Roman Catechism," "loc. cit.," 12).
-[^14]: Apoc., v.
-[^15]: Wis., v. 5. "How distinguished that honour must be which is conferred by God Himself, who no longer calls them servants, but friends, brethren, and sons of God. Hence, the Redeemer will address His elect in these infinitely loving and highly honorable words: 'Come, ye blessed of My Father, possess you the kingdom prepared for you' " ("Roman Catechism." "loc. cit.," 11).
-[^16]: Wis.. vii. 11.
-[^17]: Prov., x. 24.
-[^18]: Isa., xxxii. 10. This is in the Vives edition, Chapter XV.
-[^19]: Prov., i. 33.
-[^20]: Ps. lxxxvi. 7.
-[^21]: Matt., xxv. 30.
-[^22]: Ps. xlix. 21.
-[^23]: Wis., v. 3.
-[^24]: Ps. xlviii. 15.
-[^25]: Isa., lxvi. 24.
+[^9]: Matthew 25:21.
+[^10]: Psalm 16:15.
+[^11]: Psalm 102:5.
+[^12]: Job 22:26.
+[^13]: Psalm 15:11. "To enumerate all the delights with which the souls of the blessed will be filled, would be an endless task. We cannot even conceive them in thought. The happiness of the Saints is filled to overflowing of all those pleasures which can be enjoyed or even desired in this life, whether they pertain to the powers of the mind or the perfection of the body" ("Roman Catechism," "loc. cit.," 12).
+[^14]: Revelation 5.
+[^15]: Wisdom 5:5. "How distinguished that honour must be which is conferred by God Himself, who no longer calls them servants, but friends, brethren, and sons of God. Hence, the Redeemer will address His elect in these infinitely loving and highly honorable words: 'Come, ye blessed of My Father, possess you the kingdom prepared for you' " ("Roman Catechism." "loc. cit.," 11).
+[^16]: Wisdom 7:11.
+[^17]: Proverbs 10:24.
+[^18]: Isaiah 32:10. This is in the Vives edition, Chapter XV.
+[^19]: Proverbs 1:33.
+[^20]: Psalm 86:7.
+[^21]: Matthew 25:30.
+[^22]: Psalm 49:21.
+[^23]: Wisdom 5:3.
+[^24]: Psalm 48:15.
+[^25]: Isaiah 66:24.

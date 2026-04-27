@@ -31,31 +31,49 @@ Secondly, the damned shall suffer from remorse of conscience: "I will reprove th
 
 We thus see the difference between doing good and doing evil. Good works lead to life, evil drags us to death. For this reason, men ought frequently to recall these things to mind, since they will incite one to do good and withdraw one from evil. Therefore, very significantly, at the end of the Creed is placed "life everlasting," so that it would be more and more deeply impressed on the memory. To this life everlasting may the Lord Jesus Christ, blessed God for ever, bring us! Amen.
 
-[^1]: Ps. xlviii. 21.
-[^2]: Wis., ii. 22-23. Note also: "And though in the sight of men they suffer torments their hope is full of immortality" ("ibid.," iii. 4).
-[^3]: Gen., xv. 1.
-[^4]: I Cor., xiii. 12. "The blessed always see God present, and by this greatest and most exalted of gifts, 'being made partakers of the divine nature' (II Peter, i. 4), they enjoy true and solid happiness" ("Roman Catechism," Twelfth Article, 9)
-[^5]: Isa., xxxi. 9. Note: This second consideration is found in the vives edition Chapter XV
+[^1]: Psalm 48:21.
+[^2]: Wisdom 2:22-23. Note also: "And though in the sight of men they suffer torments their hope is full of immortality" ("ibid.," 3:4).
+[^3]: Genesis 15:1.
+[^4]: 1 Corinthians 13:12. "The blessed always see God present, and by this greatest and most exalted of gifts, 'being made partakers of the divine nature' (2 Peter 1:4), they enjoy true and solid happiness" ("Roman Catechism," Twelfth Article, 9)
+[^5]: Isaiah 31:9. Note: This second consideration is found in the vives edition Chapter XV
 [^6]: "Ibi vacabimus, et videbimus: videbimus, et amabimus: amabimus, et laudabimus" ("There we shall rest and we shall see; we shall see and we shall love; we shall love and we shall praise," in "The city of God," Book XXII, Chapter xxx).
-[^7]: Isa., li. 3.
+[^7]: Isaiah 51:3.
 [^8]: "Confessions," Book I, 1.
-[^9]: Matt., xxv. 21.
-[^10]: Ps. xvi. 15.
-[^11]: Ps. cii. 5.
-[^12]: Job, xxii. 26.
-[^13]: Ps. xv. 11. "To enumerate all the delights with which the souls of the blessed will be filled, would be an endless task. We cannot even conceive them in thought. The happiness of the Saints is filled to overflowing of all those pleasures which can be enjoyed or even desired in this life, whether they pertain to the powers of the mind or the perfection of the body" ("Roman Catechism," "loc. cit.," 12).
-[^14]: Apoc., v.
-[^15]: Wis., v. 5. "How distinguished that honour must be which is conferred by God Himself, who no longer calls them servants, but friends, brethren, and sons of God. Hence, the Redeemer will address His elect in these infinitely loving and highly honorable words: 'Come, ye blessed of My Father, possess you the kingdom prepared for you' " ("Roman Catechism." "loc. cit.," 11).
-[^16]: Wis.. vii. 11.
-[^17]: Prov., x. 24.
-[^18]: Isa., xxxii. 10. This is in the Vives edition, Chapter XV.
-[^19]: Prov., i. 33.
-[^20]: Ps. lxxxvi. 7.
-[^21]: Matt., xxv. 30.
-[^22]: Ps. xlix. 21.
-[^23]: Wis., v. 3.
-[^24]: Ps. xlviii. 15.
-[^25]: Isa., lxvi. 24.
+[^9]: Matthew 25:21.
+[^10]: Psalm 16:15.
+[^11]: Psalm 102:5.
+[^12]: Job 22:26.
+[^13]: Psalm 15:11. "To enumerate all the delights with which the souls of the blessed will be filled, would be an endless task. We cannot even conceive them in thought. The happiness of the Saints is filled to overflowing of all those pleasures which can be enjoyed or even desired in this life, whether they pertain to the powers of the mind or the perfection of the body" ("Roman Catechism," "loc. cit.," 12).
+[^14]: Revelation 5.
+[^15]: Wisdom 5:5. "How distinguished that honour must be which is conferred by God Himself, who no longer calls them servants, but friends, brethren, and sons of God. Hence, the Redeemer will address His elect in these infinitely loving and highly honorable words: 'Come, ye blessed of My Father, possess you the kingdom prepared for you' " ("Roman Catechism." "loc. cit.," 11).
+[^16]: Wisdom 7:11.
+[^17]: Proverbs 10:24.
+[^18]: Isaiah 32:10. This is in the Vives edition, Chapter XV.
+[^19]: Proverbs 1:33.
+[^20]: Psalm 86:7.
+[^21]: Matthew 25:30.
+[^22]: Psalm 49:21.
+[^23]: Wisdom 5:3.
+[^24]: Psalm 48:15.
+[^25]: Isaiah 66:24.
+
+## A pastoral reading
+
+The catechism above completes the eschatology of the Creed: heaven and hell, *both eternal*. The Pius X is unflinching, and the Aquinas above walks the doctrine carefully. The work of the editorial reading is to **prevent the doctrine from being softened in the modern Catholic ear**, where it is most often drained of its weight.
+
+**Heaven is not a passive reward.** Aquinas: it is the *vision of God*, the *beatific vision* — direct, unmediated knowing of God *as He is* (1 John 3:2). Modern minds reach for harps and clouds; Aquinas reaches for the highest possible mode of *being awake*, *being loved*, *being received*. The blessed in heaven are not at rest as the world rests. They are *fully alive*, all faculties realized at once, the soul at the maximum of what it was made to be. Time becomes irrelevant because every moment carries the weight of eternity. There is no boredom in eternity, because boredom is a function of the soul shrinking from a present too small for it; in heaven, the present is *infinite*.
+
+**Hell is not divine vindictiveness.** Aquinas (and the catechism following him) defines hell as the *eternal privation of God* and *the pain of sense*. The first is the worse. The hellish soul is not extinguished — that would be a mercy God owes Himself to refuse, since the soul He created is *good*. The hellish soul is *kept in being* and yet *separated from the source of every good*. Imagine the deepest loneliness you have known, raised to the maximum, with no clock, no exit, and no one to blame but oneself. *Hell is the maximum of being alone.*
+
+The Pius X catechism is right to insist on the **eternity of both**. To say *yes, but only for a while* of either is to soften the doctrine into something the saints would not recognize. *They shall go into everlasting punishment, but the just into life everlasting* — Christ's own words at the end of the Last Judgment passage (Matthew 25:46). The same Greek word *aiōnios* governs both. Whatever it means for one, it means for the other.
+
+Three corollaries for living this week.
+
+  1. **Take it seriously without panic.** The doctrine is gravity, not despair. *God wills all men to be saved* (1 Timothy 2:4). His mercy reaches as far as it can without overriding the freedom He gave us. If you are seeking Him, you are not in danger.
+
+  2. **Pray for those who do not seek Him.** Especially those you love who have stopped or never started. Their salvation is not closed. Mary appeared to St. Faustina and said *the souls of those who pray to me at the hour of their death will not be lost*. Pray *especially* for the hour of their death.
+
+  3. **Live now as if every act counted forever.** Because it does. *Lord, today, tip me one inch further toward the heaven I cannot yet see.* The dancing figures of Fra Angelico's heaven (today's image) are not a metaphor. They are what you are made for.
 
 > **Scripture.** *And these shall go into everlasting punishment: but the just, into life everlasting.* — Matthew 25:46
 

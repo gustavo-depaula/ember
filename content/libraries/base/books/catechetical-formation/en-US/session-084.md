@@ -27,20 +27,36 @@ We pray that this name may be manifested in us, that it be known and revered as 
 
 Secondly, "holy" may be understood as "unearthly." The holy ones who are in heaven have naught earthly about them: "I count (all things) . . . but as dung, that I may gain Christ."[^8] Earth may signify sinners. This would arise as reference to production. For if the earth is not cultivated, it will produce thorns and thistles. Similarly, if the soul of the sinner is not cultivated by grace, it will produce only thistles and thorns of sins: "Thorns and thistles shall it bring forth to thee."[^9] Again, earth may signify sinners as regards its darkness. The earth is dark and opaque; and so also is the sinner dark and obstructive to light: "Darkness was on the face of the deep."[^10] And, finally, earth is a dry element which will fall to pieces unless it is mixed with the moisture of water. So God placed earth just above water: "Who established the earth above the waters."[^11] So also the soul of the sinner is dry and without moisture as it is said: "My soul is as earth without water unto Thee."[^12] "Holy" may, finally, be understood as "laved in blood," since the Saints in heaven are called Saints because they have been washed in blood: "These are they who are come out of great tribulation, and have washed their robes, and have made them white in the blood of the Lamb."[^13] And again: "He hath washed us from our sins in His blood."[^14]
 
-[^1]: Mark, xiv. 17-18.
-[^2]: Acts. iv. 12.
-[^3]: Phil., ii. 10.
-[^4]: Matt., xvi. 18.
-[^5]: Deut., iv. 24.
-[^6]: Ps. xvii. 29.
+[^1]: Mark 14:17-18.
+[^2]: Acts 4:12.
+[^3]: Philippians 2:10.
+[^4]: Matthew 16:18.
+[^5]: Deuteronomy 4:24.
+[^6]: Psalm 17:29.
 [^7]: "Confessions," II, x.
-[^8]: Phil., iii. 8.
-[^9]: Gen., iii. 18.
-[^10]: Gen., i. 2.
-[^11]: Ps. cxxxv. 6.
-[^12]: Ps. cxlii. 6.
-[^13]: Apoc., vii. 14.
-[^14]: "Ibid.," i. 5.
+[^8]: Philippians 3:8.
+[^9]: Genesis 3:18.
+[^10]: Genesis 1:2.
+[^11]: Psalm 135:6.
+[^12]: Psalm 142:6.
+[^13]: Revelation 7:14.
+[^14]: "Ibid.," 1:5.
+
+## A pastoral reading
+
+The first petition is *not* about teaching God to value His own name. *Hallowed be Thy name* is something we ask **for our sake, not His**. God's name is already holy; it cannot become more so. What we are asking is that the holy name be **hallowed in us** — recognized, reverenced, and used rightly in our own speech and thought.
+
+Aquinas walks the petition through three concrete asks:
+
+  * **That God's name be known.** A holy name no one knows is a fire hidden under a basket. The first work of the Church — *every Christian*, not only missionaries — is that God's name reach those who do not yet say it. Your friend who calls themselves *spiritual but not religious* is, beneath the language, asking for a Name they have not been given. You may be the one who gives it.
+
+  * **That God's name be loved and confessed.** Aquinas: *that God be glorified by us, and that we may be glorified by Him.* Confession is public. The Christian who hides their faith for the sake of social peace is *not yet* praying this petition seriously. There is a way to confess that is gentle, winsome, and never arrogant — but there is no way to confess silently.
+
+  * **That we be holy ourselves.** The deepest sense of *hallowed* is *made holy*. We pray that *our names* become holy because *His* dwells in us. *You shall be holy, because I am holy* (Leviticus 19:2). The petition is a request for sanctification — your sanctification, today, in the quiet ordinary places where almost no one is watching.
+
+The most subtle violation of this petition is the casual use of God's name when angry, surprised, in disappointment, in jest. *Oh my God* and its variants. *Jesus Christ* as an exclamation. The Second Commandment is the negative form of this petition; *hallowed be Thy name* is the positive. Today, **catch yourself once**. Not to be scrupulous. Just to notice: that name belongs to a Person, the Person who is holding you in being right now.
+
+The Burning Bush is the true image: the One who reveals Himself first by saying *I AM* — the Name behind every name — orders Moses to **take off his shoes**. The minimum reverence due. Today, take off your shoes, even metaphorically, somewhere.
 
 > **Scripture.** *From the rising of the sun unto the going down of the same, the name of the Lord is worthy of praise.* — Psalm 113:3
 

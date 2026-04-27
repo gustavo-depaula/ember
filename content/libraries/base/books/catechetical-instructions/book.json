@@ -23,6 +23,10 @@
   ],
   "toc": [
     {
+      "id": "00-introduction-for-modern-readers",
+      "title": { "en-US": "An Introduction for Modern Readers", "pt-BR": "Uma introdução para o leitor moderno" }
+    },
+    {
       "id": "01-translators-preface",
       "title": { "en-US": "Translator's Preface", "pt-BR": "Prefácio do Tradutor" }
     },

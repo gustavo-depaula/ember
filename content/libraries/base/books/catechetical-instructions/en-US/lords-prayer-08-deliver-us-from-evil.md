@@ -16,18 +16,18 @@ God, therefore, delivers man from evil and from affliction by converting them to
 
 The Holy Spirit through the gift of wisdom has us use this prayer, and by it we arrive at supreme happiness which is the reward of peace. For it is by patience we obtain peace, whether in time of prosperity or of adversity. For this reason the peace-makers are called the children of God, because they are like to God in this, that nothing can hurt God and nothing can hurt them, whether it be prosperity or adversity: "Blessed are the peace-makers, for they shall be called the children of God."[^14] "Amen." This is general ratification of all the petitions.[^15]
 
-[^1]: "Our Lord Himself made use of this petition when on the eve of His passion He prayed to God His Father for the salvation of all mankind. He said, 'I pray that Thou keep them from evil' (John, xvii. 15). In this form of prayer He, as it were, summarized the force and efficacy of the other petitions; and He delivered it by way of precept and confirmed it by example" ("Roman Catechism," "loc. cit.," Chapter XVI, 1).
-[^2]: II Tim., iii. 12.
-[^3]: Apoc., iii. 8.
-[^4]: Job, v. 19.
-[^5]: Apoc., vii. 16.
-[^6]: II Cor., i. 8.
-[^7]: "Ibid.," vii. 6.
-[^8]: Ps. xciii. 19.
-[^9]: Tob., iii. 22.
-[^10]: II Cor., iv. 17.
-[^11]: Rom., v. 3.
-[^12]: Tob., iii. 13.
-[^13]: Prov., xix. 11.
-[^14]: Matt., v.
+[^1]: "Our Lord Himself made use of this petition when on the eve of His passion He prayed to God His Father for the salvation of all mankind. He said, 'I pray that Thou keep them from evil' (John 17:15). In this form of prayer He, as it were, summarized the force and efficacy of the other petitions; and He delivered it by way of precept and confirmed it by example" ("Roman Catechism," "loc. cit.," Chapter XVI, 1).
+[^2]: 2 Timothy 3:12.
+[^3]: Revelation 3:8.
+[^4]: Job 5:19.
+[^5]: Revelation 7:16.
+[^6]: 2 Corinthians 1:8.
+[^7]: "Ibid.," 7:6.
+[^8]: Psalm 93:19.
+[^9]: Tobit 3:22.
+[^10]: 2 Corinthians 4:17.
+[^11]: Romans 5:3.
+[^12]: Tobit 3:13.
+[^13]: Proverbs 19:11.
+[^14]: Matthew 5.
 [^15]: 'The word 'Amen' which brings the Lord's Prayer to a close contains, as it were, the germs of many of those thoughts and considerations which we have just treated Indeed, so frequent was this Hebrew word in the mouth of Our Lord that it pleased the Holy. Spirit to have it retained in the Church of God. The meaning of it may be said to be: 'Know that thy prayers are heard.' It has the force of a response, as if God answers the prayer of the suppliant and graciously dismisses him after He has kindly heard his prayers" ("Roman Catechism," "loc. cit.," Chapter xvii. 4).

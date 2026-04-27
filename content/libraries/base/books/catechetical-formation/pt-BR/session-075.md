@@ -125,6 +125,16 @@ Em seguida, os pastores farão por incutir, nos ânimos dos fiéis, um ódio ext
 
 Eis o que tínhamos de dizer acerca da contrição. Passaremos agora a tratar da confissão, que é a segunda parte da Penitência.
 
+## Uma leitura pastoral
+
+Há uma vergonha que nos ajuda — a dor por ter amado mal, o estremecer diante do dano que causamos, a convicção de que fomos feitos para mais do que aquilo que acabamos de fazer. O catecismo nos adverte contra uma vergonha diferente: a que nos faz calar um pecado mortal no confessionário. *Não devemos deixar-nos vencer pela vergonha a ponto de calar algum pecado mortal.* A razão dada é impressionante — confessamos não a um homem, mas a Cristo na pessoa do sacerdote. O sigilo protege o que dizemos ali tanto quanto qualquer coisa no universo é protegida. E a vergonha que escondemos na confissão é a única que nos acompanha para sempre.
+
+São Tomás ensina que a **contrição** — a dor pelo pecado por amor a Deus — é a alma da penitência. A **confissão** é a contrição falando. A **satisfação** é a contrição agindo. Juntas, são as três partes integrais que o Catecismo Romano está desdobrando. Sem a terceira, a alma é perdoada, mas não cicatrizada. A pena temporal que permanece após a absolvição não é uma pequena vingança de Deus; é o tecido ainda em recuperação depois que a ferida foi fechada. A satisfação — oração, jejum, esmola, aceitar a cruz do dia — é como a ferida vira cicatriz, e a cicatriz vira força. A penitência que o sacerdote lhe dá é remédio real; cumpra-a nas próximas vinte e quatro horas.
+
+O **propósito de emenda** é a parte do sacramento que vive fora da caixa. A confissão dura um minuto; o resto da semana é propósito de emenda. Planeje a pequena mudança antes de sair da capela. *Não olharei aquela tela depois das dez. Ligarei para meu irmão antes que o ressentimento entre na terceira semana. Não beberei depois das duas.* Específica, possível, esta semana. Confissão sem propósito de emenda vira ciclo de enxágue. Confissão *com* propósito de emenda vira vida.
+
+E as **indulgências** — por muito tempo mal compreendidas — são apenas o modo como a Igreja ajuda a ferida a cicatrizar mais depressa. Por sua autoridade, ela recorre aos méritos inesgotáveis de Cristo e dos santos para remitir a pena temporal que permanece. Não são um abatimento de imposto. São uma mão sobre o seu ombro enquanto a cicatriz termina de se formar.
+
 > **Escritura.** *Produzi, pois, frutos dignos de arrependimento.* — Lucas 3, 8
 
 > *Senhor, depois da próxima absolvição, qual é a única coisa que mudarei? Dizei-mo. Eu o farei.*

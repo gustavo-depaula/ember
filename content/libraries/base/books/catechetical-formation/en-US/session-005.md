@@ -45,23 +45,35 @@ There are four motives which have led men to believe in a number of gods. (1) Th
 
 Although all this is terrible to contemplate, yet at times there are any who fall into these above-mentioned four causes. Not by their words and hearts, but by their actions, they show that they believe in many gods. Thus, those who believe that the celestial bodies influence the will of man and regulate their affairs by astrology, really make the heavenly bodies gods, and subject themselves to them. Be not afraid of the signs of heaven which the heathens fear. For the laws of the people are vain."[^15] In the same category are all those who obey temporal rulers more than God, in that which they ought not; such actually set these up as gods. "We ought to obey God rather than men."[^16] So also those who love their sons and kinsfolk more than God show by their actions that they believe in many gods; as likewise do those who love food more than God: "Whose god is their belly."[^17] Moreover, all who take part in magic or in incantations believe that the demons are gods, because they seek from the devil that which God alone can give, such as revealing the future or discovering hidden things. We must, therefore, believe that there is but one God.
 
-[^1]: Ps. xiii. 1.
-[^2]: Job, xxii. 14.
-[^3]: Job, xi. 5-6.
-[^4]: Ps. xciii. 7-11.
-[^5]: Heb., iv. 13.
+[^1]: Psalm 13:1.
+[^2]: Job 22:14.
+[^3]: Job 11:5-6.
+[^4]: Psalm 93:7-11.
+[^5]: Hebrews 4:13.
 [^6]: "There is but one God, not many gods. We attribute to God the highest goodess and perfection, and it is impossible that what is highest and absolutely perfect could be found in many. If a being lack that which constitutes supreme perfection, it is, therefore, imperfect and cannot have the nature of God" ("Roman Catechism," "The Creed," First Article, 7).
-[^7]: Wis., xiii. 2-3.
-[^8]: Judith, v. 29.
+[^7]: Wisdom 13:2-3.
+[^8]: Judith 5:29.
 [^9]: All this is fully explained in the fourteenth chapter of the Book of Wisdom, verses 15-21.
-[^10]: Wis., xiv. 21.
-[^11]: Isa., xiv. 14.
-[^12]: Matt., iv. 9.
-[^13]: Ps. cxv. 5.
-[^14]: I Cor., x. 20.
-[^15]: Jerem., x. 2-3.
-[^16]: Acts, v. 29.
-[^17]: Phil., iii. 19.
+[^10]: Wisdom 14:21.
+[^11]: Isaiah 14:14.
+[^12]: Matthew 4:9.
+[^13]: Psalm 115:5.
+[^14]: 1 Corinthians 10:20.
+[^15]: Jeremiah 10:2-3.
+[^16]: Acts 5:29.
+[^17]: Philippians 3:19.
+
+## A pastoral reading
+
+The first article of the Creed begins with the most consequential preposition in human language: ***one***.
+
+Aquinas takes for granted what almost no modern reader does: that *the existence of a Creator can be reached by reason itself*. The mind reflecting on the order of nature — sun, moon, stars, the body, the cell — runs into a wall it cannot push over: there is law here, and law implies a lawgiver. *He is foolish indeed who believes this is due to chance, because he does not know the causes and method of God's dealing with men.* The five proofs of the Summa Theologiae will later make this rigorous; here, in his preached form, Aquinas keeps it conversational. *No one is so foolish as to deny that all nature, which operates with a definite time and order, is subject to the rule and foresight of someone.*
+
+Pius X then asks the deeper question — and admits its strangeness. *We do not understand, nor can we understand, how the three divine Persons, though really distinct, are one God: it is a mystery.* This is not theological hand-waving. It is the doctrine being honest with itself. The God of the Christians is not the God of the philosophers alone. The philosophers can reach the existence of *a* God; the Trinity is reached only because *He spoke*. Christmas, Easter, Pentecost are the events in which the One unfolded into the Three for our sake.
+
+Aquinas then catalogues why, even now, humans drift back toward many gods: dullness of intellect (worshipping what we can see), flattery of power, love of family elevated to worship, and the malice of the devil who wishes our worship for himself. The list is uncannily current. We do not call them gods today. We call them *the algorithm, the brand, the ancestor, the cause, the king, my own desire*. The diagnosis is the same; the names changed.
+
+The doctrine of the One God is therefore the *first work of religion*: not assent to a proposition, but the **refusal of every other ruler of the heart**. The Burning Bush — the day's image — is what this looks like when it actually happens. *Take off thy shoes from off thy feet; for the place wherein thou standest is holy ground.* When you stop in front of Him today — at Mass, at the Tabernacle, in the morning silence before the phone — that is what is happening. There is one God. He is the fire. He does not negotiate.
 
 > **Scripture.** *Hear, O Israel, the Lord our God is one Lord.* — Deuteronomy 6:4
 

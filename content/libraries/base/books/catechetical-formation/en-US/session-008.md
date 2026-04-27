@@ -39,25 +39,45 @@ From a consideration of all this, one is led to a fivefold benefit. (1) We are l
 
 (5) We are led also to acknowledge the great dignity of man. God made all things for man: "Thou hast subjected all things under is feet,"[^18] and man is more like to God than all other creatures save the Angels: "Let us make man to Our image and likeness."[^19] God does not say this of the heavens or of the stars, but of man; and this likeness of God in man does not refer to the body but to the human soul, which has free will and is incorruptible, and therein man resembles God more than other creatures do. We ought, therefore, to consider the nobleness of man as less than the Angels but greater than all other creatures. Let us not, therefore, diminish his dignity by sin and by an inordinate desire for earthly things which are beneath us and are made for our service. Accordingly, we must rule over things of the earth and use them, and be subject to God by obeying and serving Him. And thus we shall come to he enjoyment of God forever.
 
-[^1]: Wis., xiii. 1, 5.
+[^1]: Wisdom 13:1, 5.
 [^2]: In the Nicene Creed.
-[^3]: Gen., i. 1.
-[^4]: John, i. 3.
-[^5]: II Peter, iii. 4.
+[^3]: Genesis 1:1.
+[^4]: John 1:3.
+[^5]: 2 Peter 3:4.
 [^6]: In the Nicene Creed.
-[^7]: Ps. cxlviii. 5.
-[^8]: wis., xii. 18.
-[^9]: "Ibid.," xiii. 3-4.
-[^10]: Job, xxxvi. 26.
-[^11]: I Cor., iv. 7.
-[^12]: Ps. xxiii. 1.
-[^13]: Ps, cxv. 12.
-[^14]: Job, ii. 10.
-[^15]: Prov., xvi. 4.
-[^16]: Deut., iv. 19.
-[^17]: I Paral., xxix. 14.
-[^18]: Ps. viii. 8.
-[^19]: Gen., i. 26.
+[^7]: Psalm 148:5.
+[^8]: Wisdom 12:18.
+[^9]: "Ibid.," 13:3-4.
+[^10]: Job 36:26.
+[^11]: 1 Corinthians 4:7.
+[^12]: Psalm 23:1.
+[^13]: Psalm 115:12.
+[^14]: Job 2:10.
+[^15]: Proverbs 16:4.
+[^16]: Deuteronomy 4:19.
+[^17]: 1 Chronicles 29:14.
+[^18]: Psalm 8:8.
+[^19]: Genesis 1:26.
+
+## A pastoral reading
+
+**Existence is not necessary. It is gift.** This is the deepest move the catechism above is asking the reader to make. The chair you are sitting on, the lamp lighting this page, the breath you just drew — none of these *had to be*. The fact that they *are* is owed entirely to a Hand that did not have to make them.
+
+Catholic doctrine on creation is precise:
+
+  * **God created out of nothing** (*creatio ex nihilo*). Not from pre-existing matter; not by shaping a chaos that was already there. *In the beginning, God created the heaven and the earth* — the verb is the Hebrew *bara*, used only of God's creative act, irreducible to any human making. The Latin Church has held this against every philosophy that requires eternal matter.
+
+  * **God created freely.** He did not need to. The Trinity was already perfectly happy in its own communion of love (Sessions 006–007). Creation adds nothing to God's life. We exist *as overflow* — the joy of love multiplying itself.
+
+  * **God created good.** The recurring refrain of Genesis 1: *and God saw that it was good*. There is no evil in creation as such; evil is *deprivation* of a good that ought to be there, not a created thing. Manichaean dualism, gnosticism, every philosophy that imagines evil as a *positive force* equal to good — the Catholic Church has always rejected.
+
+  * **God *sustains* creation moment by moment.** Aquinas insists: God's act of creating is not a single past event after which the universe runs on its own. *He is upholding all things by the word of his power* (Hebrews 1:3). If God were to withdraw His attention for a single instant, the universe would *cease to be*. You exist *now* because He is willing it *now*.
+
+This last point is theologically electric. It means **every breath is a continuation of Genesis 1**. The same word that said *let there be light* is, this morning, saying *let this person be*. *You.* You are not merely a result of the Big Bang fourteen billion years ago; you are a result of God's *currently sustaining the universe in being*, and you specifically being held in it.
+
+The right response is **gratitude**. Not as a duty but as an *intellectual recognition*: *I did not need to be. I am.* The Christian recovers the practice of small thanksgivings — for the food before the meal, for the morning at waking, for the breath before sleep. Each one is an act of recognizing what most lives forget: that **existence is gift**.
+
+Today, choose one ordinary thing — your hand, the morning light, a sip of water — and thank God for it specifically. *Not because it deserves my notice, but because You did not have to make it.*
 
 > **Scripture.** *The heavens shew forth the glory of God, and the firmament declareth the work of his hands.* — Psalm 19:1
 

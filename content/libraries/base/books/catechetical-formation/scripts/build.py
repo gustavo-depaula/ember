@@ -14,14 +14,27 @@ Writes:
 
 Replaces the old build-catechetical-formation.sh.
 
-Selection-only assembly: every passage is reproduced verbatim from the source books. Original content (ekphrasis/scripture/closing) lives in content.json.
+Mostly-selection assembly: every catechism passage (Pius X, Aquinas,
+Trent) is reproduced verbatim from the source books. Original Ember
+content (ekphrasis, scripture cap, closing reflection, and the optional
+*editorial* pastoral reading) lives in content.json and is clearly
+labeled in the rendered output so a reader can tell at a glance what
+comes from a saint and what comes from the Ember editors.
 
-Voice for V0.5:
-- Pius X asks (Q&A)
-- Aquinas teaches (warm pastoral exposition) — or Trent teaches if Aquinas has nothing
+Voice for V0.5/V0.6:
+- Pius X asks (Q&A) — verbatim
+- St. Thomas teaches (warm pastoral exposition) — verbatim from Aquinas's
+  Catechetical Instructions; only present where a chapter is mapped
+- The Roman Catechism teaches — verbatim from Trent; used as primary
+  exposition where Aquinas is silent
+- A pastoral reading — *Ember editorial commentary* (optional). Authored
+  prose that reads the saints with a lay audience; quotes are explicitly
+  attributed. Rendered with its own H2 label so it is never confused
+  with the verbatim sections above.
 - Scripture verse caps the doctrine
 - Closing reflection ~30 words
-- Going Deeper section (Trent) appended at the end when Aquinas was the primary teacher
+- Going Deeper section (Trent) appended at the end when Aquinas was the
+  primary teacher
 """
 
 import json
@@ -39,6 +52,7 @@ TR = BOOKS_DIR / "catechism-of-trent"
 SESSIONS_FILE = OUT / "sessions.json"
 CONTENT_FILE = OUT / "content.json"
 IMAGES_MANIFEST = OUT / "images/manifest.json"
+EDITORIAL_DIR = OUT / "editorial"  # editorial/<lang>/<session_id>.md (optional)
 
 LANGS = ["en-US", "pt-BR"]
 
@@ -47,6 +61,7 @@ LABELS = {
         "pius_x": "Pius X asks",
         "aquinas": "St. Thomas teaches",
         "trent_teacher": "The Roman Catechism teaches",
+        "editorial": "A pastoral reading",
         "scripture": "Scripture",
         "closing": "Closing",
         "going_deeper": "Going Deeper — *Catechism of Trent*",
@@ -56,6 +71,7 @@ LABELS = {
         "pius_x": "São Pio X pergunta",
         "aquinas": "São Tomás ensina",
         "trent_teacher": "O Catecismo Romano ensina",
+        "editorial": "Uma leitura pastoral",
         "scripture": "Escritura",
         "closing": "Oração final",
         "going_deeper": "Aprofundamento — *Catecismo de Trento*",
@@ -189,7 +205,16 @@ def resolve_chapter_ref(book_dir: Path, lang: str, ref) -> str:
 Q_PATTERN = re.compile(r"^\*\*(\d+)\.\*\*")
 
 def extract_pius_x_range(chapter_id: str, lang: str, q_from: int, q_to: int) -> str:
-    """Extract Pius X Q range from a chapter file. q_from and q_to are inclusive."""
+    """Extract Pius X Q range from a chapter file. q_from and q_to are inclusive.
+
+    Trailing-H2 trim: source Pius X chapters carry section markers like
+    `## § 2. Hope - Charity` placed BEFORE the first Q of the next subsection.
+    When the previous Q is the last in the requested range, that header gets
+    captured at the tail of the slice — an orphan heading announcing content
+    that lives in the next session. We therefore strip a single trailing H2
+    (and its surrounding blanks) when it follows the last in-range Q's content
+    and is followed by no further in-range content.
+    """
     text = (PX / lang / f"{chapter_id}.md").read_text(encoding="utf-8")
     lines = text.splitlines(keepends=False)
     out = []
@@ -207,6 +232,12 @@ def extract_pius_x_range(chapter_id: str, lang: str, q_from: int, q_to: int) -> 
     # Trim trailing blank lines
     while out and out[-1].strip() == "":
         out.pop()
+    # Strip a single trailing orphan H2 (a section marker for content that
+    # belongs to the next session's slice) and any blanks above it
+    if out and out[-1].startswith("## "):
+        out.pop()
+        while out and out[-1].strip() == "":
+            out.pop()
     return "\n".join(out).strip()
 
 
@@ -265,6 +296,8 @@ def build_chapter(session: dict, content: dict, lang: str, image_meta: dict | No
 
     Layout:
       title → image + ekphrasis → Pius X (Q&A) → St. Thomas teaches (if Aquinas chapter present and not suppressed)
+                                              → The Roman Catechism teaches (when Aquinas is silent)
+                                              → A pastoral reading (Ember editorial, optional)
             → Scripture cap → Closing prayer
             → ---
             → Going Deeper — Catechism of Trent (if Trent chapter present and not suppressed)
@@ -285,6 +318,17 @@ def build_chapter(session: dict, content: dict, lang: str, image_meta: dict | No
     scripture = content.get("scripture", {})
     closing = content.get("closing", {}).get(lang, "").strip()
     editor_note = content.get("editor_note", {}).get(lang, "").strip() if content.get("editor_note") else ""
+    # Ember editorial commentary — original prose authored for this book.
+    # Lives as plain markdown at editorial/<lang>/<session_id>.md so authors
+    # can write/edit/review it as ordinary markdown rather than as
+    # JSON-escaped strings. Distinct from the verbatim Aquinas/Trent
+    # excerpts above; gets its own labeled H2 ("A pastoral reading" /
+    # "Uma leitura pastoral") so the reader can see at a glance what is
+    # editorial vs. verbatim source.
+    editorial = ""
+    editorial_path = EDITORIAL_DIR / lang / f"{sid}.md"
+    if editorial_path.exists():
+        editorial = editorial_path.read_text(encoding="utf-8").strip()
 
     if lang == "en-US":
         sref = scripture.get("ref_en", "")
@@ -340,6 +384,16 @@ def build_chapter(session: dict, content: dict, lang: str, image_meta: dict | No
         out_lines.append(tr_text)
         out_lines.append("")
         trent_used_inline = True
+
+    # A pastoral reading — Ember editorial. Optional. Sits AFTER the verbatim
+    # teacher (or stands alone when no Aquinas/Trent is mapped), and is
+    # always rendered with its own labeled H2 so it is never confused with
+    # the verbatim sections above.
+    if editorial:
+        out_lines.append(f"## {L['editorial']}")
+        out_lines.append("")
+        out_lines.append(editorial)
+        out_lines.append("")
 
     # Scripture cap
     if stext:
@@ -499,8 +553,11 @@ def build_book_json(sessions: list[dict]) -> dict:
                     "Curated anthology drawing on three public-domain catechetical works in this "
                     "library: Catechism of St. Pius X (1912), Aquinas's Catechetical Instructions "
                     "(Collins translation, 1939), and the Roman Catechism (McHugh-Callan, 1923). "
-                    "All catechism passages are reproduced verbatim. Ekphrases, Scripture caps, and "
-                    "closing reflections are original; Scripture text follows the Douay-Rheims."
+                    "All catechism passages are reproduced verbatim under the labels \"Pius X asks\", "
+                    "\"St. Thomas teaches\", and \"The Roman Catechism teaches\". Ekphrases, Scripture "
+                    "caps, closing reflections, and the optional pastoral readings (rendered under "
+                    "their own \"A pastoral reading\" label) are original Ember editorial; Scripture "
+                    "text follows the Douay-Rheims."
                 ),
             },
             {
@@ -511,8 +568,10 @@ def build_book_json(sessions: list[dict]) -> dict:
                     "biblioteca: Catecismo de São Pio X (1912, tradução Escravas de Maria), Instruções "
                     "Catequéticas de São Tomás (do inglês de Collins, 1939) e Catecismo Romano "
                     "(tradução de Frei Leopoldo Pires Martins, OFM, 1951). As passagens dos catecismos "
-                    "são reproduzidas literalmente. Ekfrases, versículos e orações finais são originais; "
-                    "o texto bíblico segue Pereira de Figueiredo."
+                    "são reproduzidas literalmente sob os rótulos \"São Pio X pergunta\", \"São Tomás "
+                    "ensina\" e \"O Catecismo Romano ensina\". Ekfrases, versículos, orações finais e "
+                    "as leituras pastorais opcionais (rotuladas como \"Uma leitura pastoral\") são "
+                    "redação editorial original da Ember; o texto bíblico segue Pereira de Figueiredo."
                 ),
             },
         ],

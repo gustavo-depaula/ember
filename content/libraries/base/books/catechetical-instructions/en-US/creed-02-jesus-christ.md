@@ -24,29 +24,29 @@ Now, if the Word of God is the Son of God and all the words of God bear a certai
 
 The Blessed Virgin observed these five points when she gave birth to the Word of God. First, she heard what was said to her: "The Holy Ghost shall come upon thee."[^24] Then she gave her consent through faith: "Behold the handmaid of the Lord."[^25] And she also received and carried the Word in her womb. Then she brought forth the Word of God and, finally, she nourished and cared for Him. And so the Church sings: "Only a Virgin didst nourish Him who is King of the Angels."[^26]
 
-[^1]: II Peter, I. 16.
+[^1]: 2 Peter 1:16.
 [^2]: "Jesus Christ is the Son of God, and true God, like the Father who begot Him from all eternity. We also believe that He is the Second Person of the Blessed Trinity, in all things equal to the Father and to the Holy Spirit. Since we acknowledge the essence, will and power of all the Divine Persons to be one, then in them nothing unequal or unlike should exist or even be imagined to exist: ("Roman Catechism," Second Article, 8).
-[^3]: John, i. 18.
-[^4]: John, viii. 58.
-[^5]: John, viii. 16.
+[^3]: John 1:18.
+[^4]: John 8:58.
+[^5]: John 8:16.
 [^6]: "Symbol" (from the Greek "Symbolon," and the late Latin "Symbolum") is a formal authoritative statement ot the religious belief of the Church, referring here to the Nicene Creed. This treatise of St. Thomas is indeed called by him an "Explanation of the Symbol of the Apostles," or the Apostles Creed.
-[^7]: John x. 30.
+[^7]: John 10:30.
 [^8]: ". . . we beiieve Him [Christ] to be one son, because His divine and human natures meet in one Person. As to His divine generation, He has no brethren or coheirs. being the Only-begotten Son of the Father, and we men are the image and work of His hands" ("Roman Catechism, "loc. cit.," 9-10).
 [^9]: "Among the dirferent comparisorls brought forth to show the mode and manner ot this eternal generation, that which is taken from the production of thought in our mind seems to come nearest to its illustration, and hence St. John calls the Son 'the Word.' For our mind, understanding itself in some way, forms an image of itself which theologians have called the word; so God, in so far as we may compare human things to divine, understanding Himself, begets the Eternal Word. But it is more advantageous to consider what faith proposes, and with all sincerity of mind to believe and profess that Jesus Christ is true God and true Man--as God, begotten before all time; as Man, born in time of Mary, His Virgin Mother" ("Roman Catechism," "loc. cit.," 9). St. Thomas treats more fully the eternal generation and Sonship of Christ in the "Summa Theol.," I, Q. xxvii, art. 2; Q. xxxiv.
-[^10]: John, i. 1.
+[^10]: John 1:1.
 [^11]: "Ibid."
 [^12]: "Ibid."
 [^13]: An accident is an attribute which is not part of the essence.
-[^14]: John, i. 3.
-[^15]: Eph., iii. 17.
-[^16]: John, v. 38.
-[^17]: Ps. cxviii. 11.
-[^18]: Ps. i. 2.
-[^19]: Luke, ii. 19.
-[^20]: Eph., iv.
-[^21]: Colos., iii. 16.
-[^22]: II Tim., iv. 2.
-[^23]: James, i. 22.
-[^24]: Luke, i. 35.
-[^25]: Luke. i.
+[^14]: John 1:3.
+[^15]: Ephesians 3:17.
+[^16]: John 5:38.
+[^17]: Psalm 118:11.
+[^18]: Psalm 1:2.
+[^19]: Luke 2:19.
+[^20]: Ephesians 4.
+[^21]: Colossians 3:16.
+[^22]: 2 Timothy 4:2.
+[^23]: James 1:22.
+[^24]: Luke 1:35.
+[^25]: Luke 1.
 [^26]: Fourth Responsory, Office of the Circumcision, Dominican Breviary.

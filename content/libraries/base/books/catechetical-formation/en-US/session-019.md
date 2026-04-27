@@ -31,26 +31,46 @@ The Ascension of Christ into heaven is in accord with reason: (1) because heaven
 
 The Ascension of Christ was very beneficial for us. This is seen three ways. Firstly, as our Leader, because He ascended in order to lead us; for we had lost the way, but He has shown it to us. "For He shall go up that shall open the way before them,[^17] and thus we may be made certain of possessing the heavenly kingdom: "I go to prepare a place for you."[^18] Secondly, that He might draw our hearts to Himself: "For where thy treasure is, there is thy heart so."[^19] Thirdly, to let us withdraw from worldly things: "Therefore, if you be risen with Christ, seek the things that are above, where Christ is sitting at the right hand of God. Mind the things that are above, not the things that are upon the earth."[^20]
 
-[^1]: Eph., iv. 10.
-[^2]: "Ibid.," i. 20-
-[^3]: Dan., vii. 13.
-[^4]: Mark, xvi. 19.
+[^1]: Ephesians 4:10.
+[^2]: "Ibid.," 1:20-
+[^3]: Daniel 7:13.
+[^4]: Mark 16:19.
 [^5]: "In these words we observe a figure of speech, that is, the changing of a word from its literal to a figurative meaning, something which is not infrequent in the Scriptures: for when accommodating its language to human ideas, it attributes human affections and human members to God, who is pure spirit and can admit of nothing corporeal. For, just as among men, he who sits at the right hand is considered to occupy the most honoured place: so, transferring the idea to heavenly things to express the glory which Christ as Man enjoys above all others, we say that He sits at the right hand of His Eternal Father. Now, this does not mean actual position and figure of body, but declares the fixed and permanent possession of royal and supreme power and glory which Christ received from the Father" ("Roman Catechism," Sixth Article, 3).
-[^6]: Isa., xiv. 13-14.
-[^7]: Ps. cix. 1.
-[^8]: John, xvi. 28.
+[^6]: Isaiah 14:13-14.
+[^7]: Psalm 109:1.
+[^8]: John 16:28.
 [^9]: "lbid.," iii. 13.
-[^10]: "He ascended by His own power, not by the power of another as did Elias, who was taken up into heaven in a fiery chariot (IV Kings, ii. 1); or as the prophet Habacuc (Dan., xiv. 35); or Philip, the deacon. who was borne through the air by the divine power and traversed the distant regions of the earth (Acts, viii. 39). Neither did He ascend into heaven solely by the exercise of His supreme power as God. but also, by virtue of the power which He possessed as Man; although human power alone was insufficient to raise Him from the dead, yet the virtue with which the blessed soul of Christ was endowed, was capable of moving the body as it pleased, and His body, now glorified, readily obeyed the soul that moved it" ("Roman Catechism," "loc. cit.," 2).
-[^11]: Cant., i. 3.
-[^12]: Matt., xxiv. 28.
-[^13]: Apoc., iii. 21.
-[^14]: Phil., ii. 8.
-[^15]: Luke, xiv. 11.
-[^16]: Eph., iv. 10.
-[^17]: Mich., ii. 13.
-[^18]: John, xiv. 2.
-[^19]: Matt., vi. 21.
-[^20]: Col., iii. 1.
+[^10]: "He ascended by His own power, not by the power of another as did Elias, who was taken up into heaven in a fiery chariot (2 Kings 2:1); or as the prophet Habacuc (Daniel 14:35); or Philip, the deacon. who was borne through the air by the divine power and traversed the distant regions of the earth (Acts 8:39). Neither did He ascend into heaven solely by the exercise of His supreme power as God. but also, by virtue of the power which He possessed as Man; although human power alone was insufficient to raise Him from the dead, yet the virtue with which the blessed soul of Christ was endowed, was capable of moving the body as it pleased, and His body, now glorified, readily obeyed the soul that moved it" ("Roman Catechism," "loc. cit.," 2).
+[^11]: Song of Songs 1:3.
+[^12]: Matthew 24:28.
+[^13]: Revelation 3:21.
+[^14]: Philippians 2:8.
+[^15]: Luke 14:11.
+[^16]: Ephesians 4:10.
+[^17]: Micah 2:13.
+[^18]: John 14:2.
+[^19]: Matthew 6:21.
+[^20]: Colossians 3:1.
+
+## A pastoral reading
+
+The Ascension is one of the doctrines that **modern Catholics most often skip past**. We pray it in the Creed (*He ascended into heaven, and is seated at the right hand of the Father*), but ask many believers what it actually *means* and a vague gesture toward "Jesus going back" is the typical answer. The catechism above is asking us to slow down on the doctrine.
+
+Three things the Ascension teaches:
+
+  1. **Christ returned to the Father in His body.** *He did not slip away* — today's ekphrasis is exact. The Ascension is not a metaphor for Christ's spiritual presence becoming "more universal"; it is a *bodily event*. The same body that Mary held in Bethlehem, that ate fish on the Galilean shore after the Resurrection, that Thomas touched, *that body* went up. Aquinas, with the Council of Constantinople, holds: **the human nature Christ assumed is now glorified and seated at the right hand of the Father**. *One of us is there*.
+
+  2. **He goes ahead to prepare a place.** *In My Father's house there are many mansions* (John 14:2). The Ascension is the assurance that the Christian destination is *real*. We are not headed to a vague spiritual condition; we are headed to the body's homeland — the place where Christ's humanity has already gone, the place He has personally prepared. This is why the Christian dies *in hope*: there is a Person on the other side, in a body, holding open a door.
+
+  3. **He is now exercising His priesthood from heaven.** Hebrews 7:25 is the locus classicus: *He is able to save them to the uttermost that come unto God by Him; seeing He ever liveth to make intercession for them*. The Ascended Christ is not retired; He is *priest forever*, eternally offering His one sacrifice on behalf of all who belong to Him. **Every Mass on earth participates in this single eternal liturgy** that the risen and ascended Christ celebrates at the Father's right hand. The earthly altar is the visible window into a heavenly altar that has not stopped being lit.
+
+What this asks of you:
+
+  * **Pray to the ascended Christ as alive and reigning, not as a memory.** The Christian who prays to a Christ-of-history alone is missing the doctrine. Christ is *now* king, *now* priest, *now* praying for you specifically.
+  * **Live with your eyes upward.** *Seek the things that are above* (Colossians 3:1). The Ascension is the Church's standing reminder that this life is *not* the whole story; another country is real and waiting.
+  * **Recover the *Ascension* feast itself.** It falls forty days after Easter; many Catholic countries mark it with public observance. Do something to mark it next year — even just an extra Mass.
+
+*The man Jesus is now where God is, with His scars.* The wounds remain in glory. They are the marks by which He is recognized. They are also, in a sense, **the mailing address of every prayer** offered in His name.
 
 > **Scripture.** *This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven.* — Acts 1:11
 

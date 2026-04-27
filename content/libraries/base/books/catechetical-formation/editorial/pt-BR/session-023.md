@@ -1,0 +1,15 @@
+O catecismo acima completa a escatologia do Credo: o céu e o inferno, *ambos eternos*. Pio X é inflexível, e o Aquino acima percorre a doutrina com cuidado. O trabalho da leitura editorial é **impedir que a doutrina seja amaciada no ouvido católico moderno**, onde mais frequentemente é drenada de seu peso.
+
+**O céu não é uma recompensa passiva.** Aquino: é a *visão de Deus*, a *visão beatífica* — conhecimento direto e não-mediado de Deus *como Ele é* (1 João 3, 2). Mentes modernas alcançam harpas e nuvens; Aquino alcança o mais alto modo possível de *estar acordado*, *ser amado*, *ser recebido*. Os bem-aventurados no céu não estão em repouso como o mundo repousa. Estão *plenamente vivos*, todas as faculdades realizadas ao mesmo tempo, a alma no máximo daquilo para que foi feita. O tempo se torna irrelevante porque cada momento carrega o peso da eternidade. Não há tédio na eternidade, porque o tédio é uma função da alma encolhida diante de um presente pequeno demais para ela; no céu, o presente é *infinito*.
+
+**O inferno não é vingança divina.** Aquino (e o catecismo que o segue) define o inferno como a *privação eterna de Deus* e a *pena de sentido*. A primeira é a pior. A alma do inferno não é extinta — isto seria uma misericórdia que Deus deve a Si recusar, já que a alma que Ele criou é *boa*. A alma do inferno é *mantida no ser* e ao mesmo tempo *separada da fonte de todo bem*. Imagine a solidão mais profunda que você já conheceu, elevada ao máximo, sem relógio, sem saída e sem ninguém a quem culpar a não ser a si mesma. *O inferno é o máximo do estar só.*
+
+O catecismo de Pio X está certo em insistir na **eternidade de ambos**. Dizer *sim, mas só por um tempo* de qualquer um é amaciar a doutrina até virar algo que os santos não reconheceriam. *E estes irão para o suplício eterno, e os justos para a vida eterna* — palavras do próprio Cristo no fim do discurso do Juízo Final (Mateus 25, 46). A mesma palavra grega *aiōnios* rege os dois. O que significa para um, significa para o outro.
+
+Três corolários para viver esta semana.
+
+  1. **Levar a sério sem pânico.** A doutrina é gravidade, não desespero. *Deus quer que todos se salvem* (1 Timóteo 2, 4). A Sua misericórdia alcança até onde pode sem ultrapassar a liberdade que Ele nos deu. Se você O busca, não está em perigo.
+
+  2. **Reze pelos que não O buscam.** Sobretudo aqueles que você ama, que pararam ou nunca começaram. A salvação deles não está fechada. Maria apareceu a Santa Faustina e disse: *as almas que rezam a mim na hora de sua morte não se perderão*. Reze *sobretudo* pela hora da morte deles.
+
+  3. **Viva agora como se cada ato contasse para sempre.** Porque conta. *Senhor, hoje, incline-me uma polegada a mais para o céu que ainda não consigo ver.* As figuras dançantes do céu de Fra Angelico (a imagem de hoje) não são metáfora. São aquilo para o que você foi feito.

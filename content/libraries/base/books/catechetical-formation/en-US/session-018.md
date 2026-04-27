@@ -41,29 +41,46 @@ Thirdly, let us rise up again to an incorruptible life in that we may not die ag
 
 Fourthly, let us rise again to a new and glorious life by avoiding all that which formerly were the occasions and the causes of our death and sin: "As Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life."[^23] This new life is the life of justice which renews the soul and leads it to the life of glory.
 
-[^1]: Wis., ix. 16.
-[^2]: John, iii. 31.
-[^3]: Wisd., ii. 1.
-[^4]: John, xi 1-
-[^5]: Luke, vii. 11-16.
-[^6]: Mark, v. 35-43.
-[^7]: John, x. 18.
-[^8]: Matt., xxvii. 50.
-[^9]: Matt., xxvii. 54.
-[^10]: Ps. iii. 6.
-[^11]: Acts, ii. 24.
-[^12]: Rom., vi. 4.
-[^13]: Matt., xxviii. 52.
-[^14]: I Cor., xv. 20.
-[^15]: Luke xxiv. 26.
-[^16]: Acts, xiv. 21.
+[^1]: Wisdom 9:16.
+[^2]: John 3:31.
+[^3]: Wisdom 2:1.
+[^4]: John 11:1-
+[^5]: Luke 7:11-16.
+[^6]: Mark 5:35-43.
+[^7]: John 10:18.
+[^8]: Matthew 27:50.
+[^9]: Matthew 27:54.
+[^10]: Psalm 3:6.
+[^11]: Acts 2:24.
+[^12]: Romans 6:4.
+[^13]: Matthew 28:52.
+[^14]: 1 Corinthians 15:20.
+[^15]: Luke 24:26.
+[^16]: Acts 14:21.
 [^17]: From the Nicene Creed.
 [^18]: "Chirst did not remain in the grave during all of these three days, but as He lay in the sepulchre during an entire natural day during part of the preceding day and part of the following day, he is said, in very truth, to have lain in the grave for three days, and on the third day to have risen again from the dead" ("Roman Catechism," "loc. cit., 10).
-[^19]: Eph., v. 14.
-[^20]: John, xx. 6.
-[^21]: Ecclus., v. 8.
-[^22]: Rom., vi. 9, 11-14.
+[^19]: Ephesians 5:14.
+[^20]: John 20:6.
+[^21]: Sirach 5:8.
+[^22]: Romans 6:9, 11-14.
 [^23]: "Ibid.," 4.
+
+## A pastoral reading
+
+*Christianity rises or falls on this morning.* The ekphrasis is theologically exact. St. Paul makes it as plain as it can be made: *if Christ be not risen again, your faith is vain, for you are yet in your sins* (1 Corinthians 15:17). Nothing else the Christian believes survives the loss of the Resurrection. Modern readers who treat the Resurrection as *spiritual metaphor* — *He rose in the disciples' hearts* — are not just adjusting an emphasis; they are dissolving the religion at the foundation.
+
+What the catechism above is professing is **a real, bodily event**. The same Body that had stopped breathing on Friday afternoon began breathing again on Sunday morning. The wounds remained, *recognizable*. He ate fish (Luke 24:42). Thomas put his fingers in the wounds (John 20:27). Mary Magdalene mistook Him for a gardener until He said her name (John 20:16). These are not the descriptions of a vision or a metaphor; they are the descriptions of a *risen man*.
+
+Aquinas, defending the Resurrection in the *Summa* and elsewhere, makes four classical observations the editorial worth recalling:
+
+  * **The disciples were not expecting it.** They were hiding behind locked doors, terrified for their lives. They believed it only after seeing — and even then with a stubborn skepticism (Thomas, the road to Emmaus). The Resurrection is not the projection of wishful thinking; it is the *interruption* of unwishful surrender.
+  * **The witnesses died for it.** The apostles had nothing to gain from inventing it: not power, not money, not safety. Eleven of the twelve died as martyrs, refusing to recant. *Liars do not die for what they know is a lie.*
+  * **The transformation of the Sabbath.** Devout Jews keeping the seventh day shifted within a generation to the *first* day of the week, *Sunday* — the day of Resurrection. Such a reordering of religious time is intelligible only as the response to an event so massive it relativized the prior calendar.
+  * **The empty tomb.** No body, no relic, no shrine of dead remains. The earliest Christian preaching invited inspection: *He is not here, behold the place where they laid Him* (Mark 16:6). If the body had been there, the religion would have been over.
+
+This is why the Christian week is built around Sunday. This is why every Mass — even on a Tuesday in Lent — is *Easter* in microcosm. Every Communion is a continuation of the post-Resurrection meals at Emmaus and on the shore. *Today is the day the Lord has made; let us rejoice and be glad in it.*
+
+The personal application is exact. *Christ being raised again from the dead, dieth now no more* (Romans 6:9). The same power that raised His body is *given to you* in Baptism. Whatever in you is dying — the habit you cannot shake, the despair that has lasted, the part of your life you have buried — is not beyond reach. *He rose. Therefore you can rise.*
 
 > **Scripture.** *But now Christ is risen from the dead, the firstfruits of them that sleep.* — 1 Corinthians 15:20
 

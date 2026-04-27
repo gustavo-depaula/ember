@@ -181,6 +181,16 @@ Convém admoestá-los a que renovem o louvável costume de receber a Confirmaç�
 
 E não será difícil conseguir estas disposições, desde que os fiéis compreendam os dons deste Sacramento e seus admiráveis efeitos.
 
+## Uma leitura pastoral
+
+Para muitos católicos, **a Crisma é o sacramento de que menos se lembram e que usaram mais superficialmente.** Veio aos catorze ou quinze anos, num salão paroquial, depois de aulas que ninguém levou muito a sério, e foi arquivada como o dia em que a vovó chorou e alguém entregou um cartão com dinheiro dentro. O catecismo acima pede que você olhe outra vez.
+
+O nome antigo era *Confirmação* porque o sacramento *confirma* — isto é, *fortalece* — o que foi começado no Batismo. Pio X usa a imagem mais militar: *o soldado de Cristo.* O leitor moderno pode ouvir isto como triunfalismo; não é. Está nomeando um fato real: em algum momento a vida cristã deixa de ser dada a você (o Batismo, a fé dos pais, o assombro de uma criança) e passa a ser defendida *por* você. A Crisma é o sacramento dessa transição. O Espírito Santo não chega na Crisma pela primeira vez — chegou no Batismo — mas chega num novo modo, um *selo*, um empoderamento para o testemunho público.
+
+São Tomás ensina que a Crisma imprime um **caráter indelével** na alma (uma marca permanente, como o Batismo e a Ordem) e que esse caráter o *configura* a Cristo como Sua testemunha pública. O que os Apóstolos receberam em Pentecostes, você recebeu — realmente, sacramentalmente, em nada menor — na sua Crisma. O mesmo Espírito. O mesmo fogo. Os mesmos dons: sabedoria, entendimento, conselho, fortaleza, ciência, piedade, temor de Deus (Isaías 11, 2-3, a lista padrão de Pio X).
+
+Se a sua Crisma passou em silêncio para a memória, não se assuste. A graça do sacramento não tem prazo. **Reanima o dom de Deus que está em ti** (2 Timóteo 1, 6) — o versículo que a Igreja sempre leu sobre a renovação da graça da Crisma. Reze pelos sete dons outra vez agora, um por um. Peça ao Espírito Santo, *concretamente*, aquele de que você mais carece. Ele está esperando para ser pedido.
+
 > **Escritura.** *Então eles lhes impunham as mãos e recebiam o Espírito Santo.* — Atos 8, 17
 
 > *Espírito Santo, afiai os dons que me destes. Hoje, fazei-me falar quando falar for mais difícil do que calar.*

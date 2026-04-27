@@ -28,7 +28,7 @@ We shall consider two things regarding this Commandment. First, what should be a
 
 Avoidance of Servile Work.--"Neither do ye any work; sanctify the Sabbath day."[^21] And so also it is said in the Law: "You shall do no servile work therein."[^22] Now, servile work is bodily work; whereas "free work" (i.e., non-servile work) is done by the mind, for instance, the exercise of the intellect and such like. And one cannot be servilely bound to do this kind of work.
 
-When Servile Work Is Lawful.--We ought to know, however, that servile work can be done on the Sabbath for four reasons. The first reason is necessity. Wherefore, the Lord excused the disciples plucking the ears of corn on the Sabbath, as we read in St. Matthew (xii. 3-5). The second reason is when the work is done for the service of the Church; as we see in the same Gospel how the priests did all things necessary in the Temple on the Sabbath day. The third reason is for the good of our neighbour; for on the Sabbath the Saviour cured one having a withered hand, and He refuted the Jews who reprimanded Him, by citing the example of the sheep in a pit ("ibid."). And the fourth reason is the authority of our superiors. Thus, God commanded the Jews to circumcise on the Sabbath.[^13]
+When Servile Work Is Lawful.--We ought to know, however, that servile work can be done on the Sabbath for four reasons. The first reason is necessity. Wherefore, the Lord excused the disciples plucking the ears of corn on the Sabbath, as we read in St. Matthew (12:3-5). The second reason is when the work is done for the service of the Church; as we see in the same Gospel how the priests did all things necessary in the Temple on the Sabbath day. The third reason is for the good of our neighbour; for on the Sabbath the Saviour cured one having a withered hand, and He refuted the Jews who reprimanded Him, by citing the example of the sheep in a pit ("ibid."). And the fourth reason is the authority of our superiors. Thus, God commanded the Jews to circumcise on the Sabbath.[^13]
 
 Avoidance of Sin and Negligence on the Sabbath.--Another thing to be avoided on the Sabbath is sin: "Take heed to your souls, and carry no burdens on the Sabbath day."[^24] This weight and burden on the soul is sin: "My iniquities as a heavy burden are become heavy upon me."[^25] Now, sin is a servile work because "whosoever committeth sin is the servant of sin."[^26] Therefore, when it is said, "You shall do no servile work therein,"[^27] it can be understood of sin. Thus, one violates this commandment as often as one commits sin on the Sabbath; and so both by working and by sin God is offended.[^28] "The Sabbaths and other festivals I will not abide." And why? "Because your assemblies are wicked. My soul hateth your new moon[^29] and your solemnities; they are become troublesome to me."[^30]
 
@@ -54,68 +54,68 @@ However, before the soul arrives at this rest, three other rests must precede. T
 
 And then after all these things the soul rests peacefully in God: "If thou call the Sabbath delightful . . . then shalt thou be delighted in the Lord,"[^63] The Saints gave up everything to possess this rest, "for it is a pearl of great price which a man having found, hid it, and for joy thereof goeth and selleth all that he hath, and buyeth that field."[^64] This rest in truth is eternal life and heavenly joy: "This is my rest for ever and ever; here will I dwell, for I have chosen it."[^65] And to this rest may the Lord bring us all!
 
-[^1]: St. Thomas also treats of this Commandment in the "Summa Theologica," I- ll Q. cii, art. 4, 10; "ibid.," II-II, Q. cxxii, art. 4.
-[^2]: II Peter, iii. 3-5.
-[^3]: Gal., vi. 15.
-[^4]: Rom., vi. 4-5.
-[^5]: "The Apostles, therefore, resolved to consecrate the first of the seven days of the week to the divine worship, and they called it 'the Lord's Day.' St. John makes mention of 'the Lord's Day' in the Apocalypse (i. 10), and St. Paul commands collections to be made 'on the first day of the week' (I Cor., xvi. 2). . . . From all this we learn that even then the Lord's Day was kept holy in the Church. . . . The Church of God has thought it well to transfer the celebration and observance of the Sabbath to Sunday. On that day light first shone on the world when the Lord arose on that day, and the gate of eternal life was thrown open to us and we were called out of darkness into light. . . . We also learn from the Holy Scriptures that the first day of the week was held sacred for other reasons, viz., on that day the creation began, and on that day the Holy Ghost descended upon the Apostles" ("Roman Catechism." Third Commandment, 7, 18).
-[^6]: Ps. xv. 9.
+[^1]: St. Thomas also treats of this Commandment in the "Summa Theologica," I- ll Q. cii, art. 4, 10; "ibid.," 2-II, Q. cxxii, art. 4.
+[^2]: 2 Peter 3:3-5.
+[^3]: Galatians 6:15.
+[^4]: Romans 6:4-5.
+[^5]: "The Apostles, therefore, resolved to consecrate the first of the seven days of the week to the divine worship, and they called it 'the Lord's Day.' St. John makes mention of 'the Lord's Day' in the Apocalypse (1:10), and St. Paul commands collections to be made 'on the first day of the week' (1 Corinthians 16:2). . . . From all this we learn that even then the Lord's Day was kept holy in the Church. . . . The Church of God has thought it well to transfer the celebration and observance of the Sabbath to Sunday. On that day light first shone on the world when the Lord arose on that day, and the gate of eternal life was thrown open to us and we were called out of darkness into light. . . . We also learn from the Holy Scriptures that the first day of the week was held sacred for other reasons, viz., on that day the creation began, and on that day the Holy Ghost descended upon the Apostles" ("Roman Catechism." Third Commandment, 7, 18).
+[^6]: Psalm 15:9.
 [^7]: "Ibid.," 10.
-[^8]: Isa., xiv. 3.
-[^9]: "Ibid.," xxxii. 18.
-[^10]: Matt., xi. 28-30.
-[^11]: Ecclus., li. 35.
-[^12]: Wis., ix. 15.
-[^13]: Ps. xxxiii. 2.
-[^14]: I Thess., v. 17.
-[^15]: Ps. cxviii. 164.
-[^16]: Isa., lviii. 13-14.
-[^17]: Job xxii. 26.
+[^8]: Isaiah 14:3.
+[^9]: "Ibid.," 32:18.
+[^10]: Matthew 11:28-30.
+[^11]: Sirach 51:35.
+[^12]: Wisdom 9:15.
+[^13]: Psalm 33:2.
+[^14]: 1 Thessalonians 5:17.
+[^15]: Psalm 118:164.
+[^16]: Isaiah 58:13-14.
+[^17]: Job 22:26.
 [^18]: This is a reference to the great public spectacles and games.
-[^19]: Deut., v. 12-14.
-[^20]: I Cor., vi. 11.
-[^21]: Jerem., xvii. 22.
-[^22]: Levit., xxiii. 25.
-[^23]: John, vii. 22-23.
-[^24]: Jerem., xviii. 21.
-[^25]: Ps. xxxvii. 5.
-[^26]: John, viii. 34.
-[^27]: Levit., iii. 25.
+[^19]: Deuteronomy 5:12-14.
+[^20]: 1 Corinthians 6:11.
+[^21]: Jeremiah 17:22.
+[^22]: Leviticus 23:25.
+[^23]: John 7:22-23.
+[^24]: Jeremiah 18:21.
+[^25]: Psalm 37:5.
+[^26]: John 8:34.
+[^27]: Leviticus 3:25.
 [^28]: St. Thomas' comparison of sin and servile work follows from the words: "Whosoever committeth sin is the servant of sin," quoted above. This does not mean that commission of sin on the Sabbath changes the species of the sin or gravely increases its malice.
 [^29]: This refers to the celebration and special sacrifices offered on the first day of the month. The Lord here is displeased not with the external ritual itself, but with the lack of proper internal dispositions on the part of the Jews.
-[^30]: Isa., i. 13.
-[^31]: Ecclus., xxxiii. 29.
+[^30]: Isaiah 1:13.
+[^31]: Sirach 33:29.
 [^32]: "Ep. ad Rusticum."
-[^33]: Ps. xcviii. 4.
-[^34]: I Mach, ii. 31-38.
-[^35]: Lam., i. 7.
-[^36]: I Mach., ii. 41.
+[^33]: Psalm 98:4.
+[^34]: 1 Maccabees 2:31-38.
+[^35]: Lamentations 1:7.
+[^36]: 1 Maccabees 2:41.
 [^37]: For the Catholic, of course, the great Sacrifice is that of the Mass. And we are bound to assist at Mass on Sundays and Holydays of obligation unless we are excused for serious reason. "The pastor should not omit to teach the faithful what words and actions they should perform on the festival days. These are: to go to church and there with true piety and devotion assist at the celebration of the Holy Sacrifice of the Mass; and to approach frequently the Sacraments of the Church which were instituted for our salvatlon" ("Roman Catechism," "Third Commandment," 25).
-[^38]: I Paral., xxix. 14.
-[^39]: Ps. l. 19.
-[^40]: Ps. cxl. 2.
+[^38]: 1 Chronicles 29:14.
+[^39]: Psalm 50:19.
+[^40]: Psalm 140:2.
 [^41]: St. Thomas here refers not to the "fast of affliction" ("jejunium afflictionis") but to the "fast of joy" ("iejunium exultationis"), which is a joyful lifting of the mind to higher things and proceeds from the Holy Ghost who is the spirit of liberty (cfr. "Summa Theol.," III, Q. cxlvii, art. 5).
-[^42]: Rom., xii. 1.
-[^43]: Ps. xlix. 23.
-[^44]: Heb., xiii. 16.
-[^45]: II Esdras, viii. 10.
-[^46]: Acts, xiii. 27.
-[^47]: John, viii. 47.
-[^48]: Eph., iv. 29.
-[^49]: Jerem., xxiii. 29.
-[^50]: I Cor., xv. 33.
-[^51]: Ps. cxviii. 11.
+[^42]: Romans 12:1.
+[^43]: Psalm 49:23.
+[^44]: Hebrews 13:16.
+[^45]: Nehemiah 8:10.
+[^46]: Acts 13:27.
+[^47]: John 8:47.
+[^48]: Ephesians 4:29.
+[^49]: Jeremiah 23:29.
+[^50]: 1 Corinthians 15:33.
+[^51]: Psalm 118:11.
 [^52]: "Ibid.," 105.
-[^53]: Ps. civ. 19.
-[^54]: "The spiritual Sabbath consists in a holy and mystical rest wherein, the carnal man (vetus homo, Rom., vi. 4) being buried with Christ, the new man is renewed to life and carefully applies himself to exercise the spirit of Christian piety" ("Roman Calechism," "Third Commandment," 15).
-[^55]: Ps. xxxiii. 9.
-[^56]: Ps. xxx. 3.
-[^57]: Heb., iv. 9-10.
-[^58]: Wis., viii. 16.
-[^59]: Isa., lvii. 20.
-[^60]: Gal., v. 17.
-[^61]: Luke, x. 41.
-[^62]: "The heavenly Sabbalh, as St. Cyril observes on the words of St. Paul, 'There remaineth therefore a day of rest for the people of God' (Eph., v. 8), is that life in which, living with Christ, we shall experience all joy and all sin will be wiped away ("In Joan.," lib. 4). And in this vision of God the souls of the saints shall obtain every good" ("Roman Catechism," "loc. cit.," 16).
-[^63]: Isa., lviii. 13-14.
-[^64]: Matt., xiii. 44-46.
-[^65]: Ps. cxxxi. 14.
+[^53]: Psalm 104:19.
+[^54]: "The spiritual Sabbath consists in a holy and mystical rest wherein, the carnal man (vetus homo, Romans 6:4) being buried with Christ, the new man is renewed to life and carefully applies himself to exercise the spirit of Christian piety" ("Roman Calechism," "Third Commandment," 15).
+[^55]: Psalm 33:9.
+[^56]: Psalm 30:3.
+[^57]: Hebrews 4:9-10.
+[^58]: Wisdom 8:16.
+[^59]: Isaiah 57:20.
+[^60]: Galatians 5:17.
+[^61]: Luke 10:41.
+[^62]: "The heavenly Sabbalh, as St. Cyril observes on the words of St. Paul, 'There remaineth therefore a day of rest for the people of God' (Ephesians 5:8), is that life in which, living with Christ, we shall experience all joy and all sin will be wiped away ("In Joan.," lib. 4). And in this vision of God the souls of the saints shall obtain every good" ("Roman Catechism," "loc. cit.," 16).
+[^63]: Isaiah 58:13-14.
+[^64]: Matthew 13:44-46.
+[^65]: Psalm 131:14.

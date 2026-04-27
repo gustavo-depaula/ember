@@ -19,8 +19,6 @@
 
 *Nos Mandamentos deve-se notar o que é ordenado e o que é proibido.*
 
-## § 2. Mandamentos de Deus em particular
-
 ## O Catecismo Romano ensina
 
 ## II. Motivos para sua observância
@@ -102,6 +100,20 @@ Não se deve também passar em silêncio que Deus mostrou Sua clemência para co
 Em se tratando, afinal, do maior e mais assinalado benefício, o pároco ensinará o que o Profeta diz por último: "Na guarda dos preceitos, há uma grande recompensa".[^35] Pois não nos foram prometidas só aquelas bênçãos, que mais se referem à prosperidade temporal, para sermos abençoados na cidade, abençoados no campo[^36]; mas temos também em vista "uma larga recompensa no céu"[^37], e "uma boa medida, bem cheia, bem calcada, bem cogulada"[^38], que merecemos por obras boas e justas, com os auxílios da divina misericórdia.
 
 > "Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa de servidão. Não terás deuses estranhos diante de Mim. Não farás para ti imagem esculpida, etc."[^39]
+
+## Uma leitura pastoral
+
+A sessão de ontem nomeou o Decálogo como a *geometria do amor*. O catecismo de hoje faz a pergunta mais concreta: **por que sou obrigado a guardar os mandamentos?**
+
+Aquino — e o material de Trento acima, que o segue — dão cinco razões, cada uma com um peso diferente sobre a alma. Vale a pena demorar-se nelas, porque a consciência católica moderna, por padrão, responde *por causa das regras*, e essa é a resposta que não sobrevive a um dia difícil.
+
+  * **Porque Deus é Deus.** Esta é a primeira e a mais profunda. Os mandamentos não são testes arbitrários; são *a expressão de quem Deus é* — a descrição que o próprio Criador faz da ordem do ser que Ele fez. Quebrá-los não é falhar num padrão externo; é mentir sobre *o que é real*.
+  * **Porque a graça os torna possíveis.** Pio X, ontem: *os mandamentos podem ser observados em todo o tempo, mesmo nas mais fortes tentações, pela graça que Deus jamais nega.* A sessão de hoje acrescenta o modo gramatical: *podem*, não *talvez*. A graça é suficiente. O cristão que alega *não consigo* ainda não pediu pela graça.
+  * **Porque Cristo os ensinou com a própria vida.** O *Sermão da Montanha* é a imagem do dia. O Filho encarnado não aboliu o Decálogo; intensificou-o (*ouvistes que foi dito... mas eu vos digo*). O próprio Cristo guardou os mandamentos perfeitamente *como homem*. A Sua humanidade é a prova de que a graça pode fazer isto numa vida humana.
+  * **Porque o amor quer.** Este é o passo mais profundo de Aquino. O Decálogo não é o que Deus exige de quem não O ama; é o que o *próprio amor* exige de quem O ama. *Se me amais, guardareis os meus mandamentos* (João 14, 15). Cristo enquadra a obediência como **linguagem do amor**, não como seu substituto.
+  * **Porque a eternidade está em jogo.** *Céu e inferno, ambos eternos* — a Sessão 023 já nomeou a gravidade. Os mandamentos não são o ingresso para o céu (a misericórdia de Cristo o é); mas a sua violação persistente e não-arrependida é o lento retirar-se do reino para o qual fomos feitos.
+
+O que isto lhe pede hoje: quando um mandamento parecer pesado, tome o peso como *um chamado para pedir a graça*, não como prova de que o mandamento é irrazoável. *Cristo numa colina, de mãos abertas* — a imagem de hoje — é exatamente a figura a quem dirigir-se. Ele tem a graça. Ele a dá a quem pede.
 
 > **Escritura.** *Se me amais, guardareis os meus mandamentos.* — João 14, 15
 

@@ -42,49 +42,49 @@ Finally, we must beware lest anger provoke us to deeds. In all our dealings we s
 
 It is for all this that Christ taught us not only to beware of murder but also of anger. The good physician removes the external symptoms of a malady; and, furthermore, he even removes the very root of the illness, so that there will be no relapse. So also the Lord wishes us to avoid the beginnings of sins; and anger is thus to be avoided because it is the beginning of murder.
 
-[^1]: St. Thomas also treats of this Commandment in "Summa Theol.," II-II, Q. lxix. art. 2, 3; Q. cxii, art. 6. "The Lord points out (Matt., v. 21) the twofold force of this Commandment. The one is prohihitory and forbids us to kill; the other is mandatory and commands us to cultivate charity, peace, and friendship towards our enemies, to have peace with all men, and finally to suffer all things with patience" ("Roman Catechism," "Fifth Commandment," 2).
-[^2]: Gen., ix.
+[^1]: St. Thomas also treats of this Commandment in "Summa Theol.," II-II, Q. lxix. art. 2, 3; Q. cxii, art. 6. "The Lord points out (Matthew 5:21) the twofold force of this Commandment. The one is prohihitory and forbids us to kill; the other is mandatory and commands us to cultivate charity, peace, and friendship towards our enemies, to have peace with all men, and finally to suffer all things with patience" ("Roman Catechism," "Fifth Commandment," 2).
+[^2]: Genesis 9.
 [^3]: Aristotle, "Politics," I.
-[^4]: I Cor., x. 25.
-[^5]: Deut., xxxii. 39.
-[^6]: Prov., viii. 15.
-[^7]: Rom., xiii. 4.
-[^8]: Exod., xxii. 18.
-[^9]: Rom. vi. 23.
+[^4]: 1 Corinthians 10:25.
+[^5]: Deuteronomy 32:39.
+[^6]: Proverbs 8:15.
+[^7]: Romans 13:4.
+[^8]: Exodus 22:18.
+[^9]: Romans 6:23.
 [^10]: Killing in a just war and killing by accident are among the other exceptions to this Commandment. The soldier is guiltless who in a just war takes the life of an enemy, provided that he is not actuated by motives of ambition or cruelty, but by a pure desire to serve the interests of his country. . . . Again, death caused, not by intent or design, but by accident, is not murder" ("Roman Catechism," "loc. cit.," 5-6).
 [^11]: Book I, xxvii.
 [^12]: "Ibid."
 [^13]: --"It is not lawful to take one-s own life. No man possesses such power over his own life as to be free to put himself to death. We find that the Commandment does not say, 'Thou shalt not kill another,' but simply, 'Thou shalt not kill' " ("Roman Catechism," "loc. cit.," 10).
-[^14]: Isa., i. 15.
-[^15]: John, iii. 15.
-[^16]: Ecclus., xiii. 19.
-[^17]: Exod., xxi. 12.
+[^14]: Isaiah 1:15.
+[^15]: John 3:15.
+[^16]: Sirach 13:19.
+[^17]: Exodus 21:12.
 [^18]: "De Animal.," IV.
-[^19]: Ps. lvi. 5.
-[^20]: Prov., i. 15-16.
-[^21]: Rom., i. 32.
-[^22]: Prov., xxiv. 11.
-[^23]: John, viii. 44.
-[^24]: II Cor., ix. 6.
-[^25]: Isa., i. 19.
-[^26]: Matt., v. 21-22.
-[^27]: Exod., xxi. 14. "The Gospel has taught us that it is unlawful even to be angry with anyone. . . . From these words [of Christ, cited above] it clearly follows that he who is angry with his brother is not free from sin, even though he does not display his wrath. So also he who gives indication of his anger sins grievously; and he who treats another with great harshness and hurls insults at him, sins even more grievously. This, however, is to be understood of cases in which no just cause of anger exists. God and His laws permit us to be angry when we correct the faults of those who are subject to us. But even in these cases the anger of a Christian should spring from stern duty and not from the impulse of passion, for we are temples of the Holy Ghost in which Jesus Christ may dwell" ("Roman Catechism," "loc cit.," 12).
-[^28]: James, i. 19.
-[^29]: Mic., vii. 9.
-[^30]: Prov., xxvii. 4.
+[^19]: Psalm 56:5.
+[^20]: Proverbs 1:15-16.
+[^21]: Romans 1:32.
+[^22]: Proverbs 24:11.
+[^23]: John 8:44.
+[^24]: 2 Corinthians 9:6.
+[^25]: Isaiah 1:19.
+[^26]: Matthew 5:21-22.
+[^27]: Exodus 21:14. "The Gospel has taught us that it is unlawful even to be angry with anyone. . . . From these words [of Christ, cited above] it clearly follows that he who is angry with his brother is not free from sin, even though he does not display his wrath. So also he who gives indication of his anger sins grievously; and he who treats another with great harshness and hurls insults at him, sins even more grievously. This, however, is to be understood of cases in which no just cause of anger exists. God and His laws permit us to be angry when we correct the faults of those who are subject to us. But even in these cases the anger of a Christian should spring from stern duty and not from the impulse of passion, for we are temples of the Holy Ghost in which Jesus Christ may dwell" ("Roman Catechism," "loc cit.," 12).
+[^28]: James 1:19.
+[^29]: Micah 7:9.
+[^30]: Proverbs 27:4.
 [^31]: "Ibid.," 3.
-[^32]: Ps. iv. 5.
-[^33]: Eph., iv. 26.
-[^34]: Matt., v. 25, 26.
-[^35]: I John, iii. 15.
+[^32]: Psalm 4:5.
+[^33]: Ephesians 4:26.
+[^34]: Matthew 5:25, 26.
+[^35]: 1 John 3:15.
 [^36]: "Epist.," cxi.
-[^37]: Prov., xv. 18.
-[^38]: Gen., xlix. 7.
-[^39]: Prov., xii. 16.
-[^40]: Matt., v. 22.
+[^37]: Proverbs 15:18.
+[^38]: Genesis 49:7.
+[^39]: Proverbs 12:16.
+[^40]: Matthew 5:22.
 [^41]: "Ibid."
-[^42]: Prov., xv. 1.
-[^43]: James, i. 20.
-[^44]: Prov., xxvii. 4.
-[^45]: Gen., xlix. 6.
-[^46]: Gen., xlix. 6.
+[^42]: Proverbs 15:1.
+[^43]: James 1:20.
+[^44]: Proverbs 27:4.
+[^45]: Genesis 49:6.
+[^46]: Genesis 49:6.

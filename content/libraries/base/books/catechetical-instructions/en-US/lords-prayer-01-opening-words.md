@@ -28,60 +28,60 @@ Familiar intercourse with God is shown through this "in heaven." Some indeed hav
 
 This part of the prayer--that is, "in heaven"--is appropriate and fitting also, if "in heaven" is taken to mean that spiritual and eternal good in which true happiness consists. Because of it our desires are lifted up towards heavenly things; since our desires ought to tend towards where we have our Father, because there is our true home: "Seek the things that are above."[^55] And again: "Unto an inheritance incorruptible, and undefiled, and that cannot fade, reserved in heaven for you."[^56] Moreover, from it we are told that, if our life is to be in heaven, then we ought to be conformed to our Heavenly Father: "Such as is the heavenly, such also are they that are heavenly."[^57] From all this the words "in heaven" are most appropriate in prayer in that they signify both a heavenly desire and heavenly life.
 
-[^1]: Deut., xxxii. 6. "The first word which, by the command and institution of Our Lord, we say in this prayer is 'Father.' The Saviour could, indeed, have begun this prayer with some other word more expressive of His majesty, such as 'Creator' or 'Lord.' Yet, He omitted all such expressions as they might be associated with fear, and instead of them He has chosen a word which inspires love and confidence. What name is more tender than that of Father? It is a name which expresses both indulgence and love" ("Roman Catechism," Lord's Prayer, Chapter IX, 1).
-[^2]: Wis. xiv. 3.
-[^3]: "Ibid.," xii. 18.
-[^4]: Rom., viii. 17.
+[^1]: Deuteronomy 32:6. "The first word which, by the command and institution of Our Lord, we say in this prayer is 'Father.' The Saviour could, indeed, have begun this prayer with some other word more expressive of His majesty, such as 'Creator' or 'Lord.' Yet, He omitted all such expressions as they might be associated with fear, and instead of them He has chosen a word which inspires love and confidence. What name is more tender than that of Father? It is a name which expresses both indulgence and love" ("Roman Catechism," Lord's Prayer, Chapter IX, 1).
+[^2]: Wisdom 14:3.
+[^3]: "Ibid.," 12:18.
+[^4]: Romans 8:17.
 [^5]: "Ibid.," 15.
-[^6]: Mal., i. 6.
-[^7]: Ps. xxix. 13.
-[^8]: Isa., xxix. 13.
-[^9]: I Cor., vi. 20.
-[^10]: Ps. xcviii. 3.
-[^11]: Jerem., iii. 19.
-[^12]: Eph., v. 1.
-[^13]: Luke, vi. 36.
-[^14]: Matt., v. 48.
-[^15]: Heb., xii. 9.
-[^16]: Exod., xxiv. 7.
-[^17]: Phil., ii. 8.
-[^18]: II Kings, vi. 21.
-[^19]: Prov., iii. 11-12.
-[^20]: I John, iv. 20. "When we call upon the Father, invoking Him as our Father, we are to understand it as a necessary consequence of the gift and right of divine adoption and that we are all brethren, and should love one another as brothers. 'You are all brethren,' says Our Lord, 'for one is your Father, He that is in heaven' (Matt., xxiii. 8). For this reason the Apostles in their Epistles call the faithful, 'brethren'" ("Roman Catechism," "loc. cit.," 14).
-[^21]: Mal., ii. 10.
-[^22]: Rom., xii. 10.
-[^23]: Heb., v. 9.
-[^24]: James, i. 6.
-[^25]: Luke, ii. 13.
-[^26]: Ps. cxxii. 1.
-[^27]: Ecclus., xviii. 23.
-[^28]: Matt., v. 12.
-[^29]: I Cor., xv. 49.
-[^30]: Matt., vi. 21.
-[^31]: Phil., iii. 20.
-[^32]: Colos., iii. 1.
-[^33]: Jerem., xiv. 9.
-[^34]: Ps. xvii. 2.
-[^35]: Eph., iii. 17.
-[^36]: I John, iv. 16.
-[^37]: John, xiv. 23. "And . . . with him" in Vives ed., omitted in Parma ed.
-[^38]: III Kings, viii. 27.
-[^39]: Ps. ci. 20.
-[^40]: Ps. cii. 19.
-[^41]: Ps. ci. 13.
+[^6]: Malachi 1:6.
+[^7]: Psalm 29:13.
+[^8]: Isaiah 29:13.
+[^9]: 1 Corinthians 6:20.
+[^10]: Psalm 98:3.
+[^11]: Jeremiah 3:19.
+[^12]: Ephesians 5:1.
+[^13]: Luke 6:36.
+[^14]: Matthew 5:48.
+[^15]: Hebrews 12:9.
+[^16]: Exodus 24:7.
+[^17]: Philippians 2:8.
+[^18]: 2 Samuel 6:21.
+[^19]: Proverbs 3:11-12.
+[^20]: 1 John 4:20. "When we call upon the Father, invoking Him as our Father, we are to understand it as a necessary consequence of the gift and right of divine adoption and that we are all brethren, and should love one another as brothers. 'You are all brethren,' says Our Lord, 'for one is your Father, He that is in heaven' (Matthew 23:8). For this reason the Apostles in their Epistles call the faithful, 'brethren'" ("Roman Catechism," "loc. cit.," 14).
+[^21]: Malachi 2:10.
+[^22]: Romans 12:10.
+[^23]: Hebrews 5:9.
+[^24]: James 1:6.
+[^25]: Luke 2:13.
+[^26]: Psalm 122:1.
+[^27]: Sirach 18:23.
+[^28]: Matthew 5:12.
+[^29]: 1 Corinthians 15:49.
+[^30]: Matthew 6:21.
+[^31]: Philippians 3:20.
+[^32]: Colossians 3:1.
+[^33]: Jeremiah 14:9.
+[^34]: Psalm 17:2.
+[^35]: Ephesians 3:17.
+[^36]: 1 John 4:16.
+[^37]: John 14:23. "And . . . with him" in Vives ed., omitted in Parma ed.
+[^38]: 1 Kings 8:27.
+[^39]: Psalm 101:20.
+[^40]: Psalm 102:19.
+[^41]: Psalm 101:13.
 [^42]: "Ibid.," 28.
-[^43]: Ps. lxxxviii. 30.
+[^43]: Psalm 88:30.
 [^44]: Aristotle, "De Coelo," 1.
-[^45]: Jerem., xxiii. 24.
-[^46]: Ps. cii. 19.
-[^47]: Job. xxxvi. 26.
-[^48]: Ps. cxii.
-[^49]: Isa., xl. 18.
-[^50]: Job, xxii. 14.
-[^51]: Ps. cxliv. 18.
-[^52]: Matt., vi. 6.
-[^53]: Job, v. 1.
-[^54]: James, v. 16.
-[^55]: Col., iii. 1.
-[^56]: I Pet., i. 4.
-[^57]: I Cor., xv. 48.
+[^45]: Jeremiah 23:24.
+[^46]: Psalm 102:19.
+[^47]: Job 36:26.
+[^48]: Psalm 112.
+[^49]: Isaiah 40:18.
+[^50]: Job 22:14.
+[^51]: Psalm 144:18.
+[^52]: Matthew 6:6.
+[^53]: Job 5:1.
+[^54]: James 5:16.
+[^55]: Colossians 3:1.
+[^56]: 1 Peter 1:4.
+[^57]: 1 Corinthians 15:48.

@@ -62,6 +62,20 @@ Por meio desta petição, chegamos à felicidade dos que choram, conforme está 
 [^27]: Sl 125, 6.
 [^28]: Sl 6, 7.
 
+## Uma leitura pastoral
+
+Não há petição mais difícil. *Seja feita a vossa vontade* — *não a minha* — é a renúncia que torna todas as outras possíveis. Aquino a trata quase com reverência. Observa que esta petição foi rezada duas vezes na história da salvação, com consequências cósmicas: por **Maria** na Anunciação (*Faça-se em mim segundo a vossa palavra*), tornando possível a Encarnação; e por **Cristo** em Getsêmani (*Pai... não a minha vontade, mas a vossa*), tornando possível a Cruz. A petição é a costura onde a vontade divina e a humana se encontram.
+
+O que significa de fato rezá-la? Três corolários.
+
+  1. **Não é resignação.** *Seja feita a vossa vontade* não são os ombros caídos de quem desistiu dos próprios desejos. É o oferecimento ativo dos desejos *à* guarda de Deus. Maria não parou de querer; entregou o seu querer a um Querer maior. Cristo não parou de temer o cálice; entregou o Seu temor a uma Vontade mais profunda. Pede-se de nós o mesmo — não achatar os nossos desejos, mas *fazê-los passar por* um Pai.
+
+  2. **Pressupõe que a vontade de Deus é boa.** É a premissa oculta que a petição nos treina a crer. *A Vossa vontade* é a vontade d'Aquele cujo amor é *a causa de tudo o que existe*; cuja providência nos sustenta no ser a cada instante; cuja Cruz é a prova de que Ele está disposto a sofrer *conosco*, não só *sobre* nós. Rezar *seja feita a vossa vontade* num dia difícil é o ato de confiança pelo qual a doutrina se torna vida.
+
+  3. **Compromete-nos com o discernimento.** Aquino insiste: não se reza esta petição a sério sem procurar, em decisões concretas, conhecer e escolher o que Deus de fato quer. *Vocação*, no sentido católico, é a forma vivida de *seja feita a vossa vontade*: matrimônio ou celibato, este trabalho ou aquele, este filho, esta mudança, esta entrega. Reze a petição quanto quiser; se você se recusou a discernir mesmo *uma* decisão significativa diante de si, as palavras estão inertes.
+
+A imagem do dia — a Anunciação de Tanner, Maria suspensa na luz — é a moldura teológica exata. *Aquela que respondeu "faça-se" nos deu o Cristo que mais tarde responderia "seja feita a vossa vontade" numa sala mais escura.* As duas orações vêm do mesmo lugar. Hoje, ache *o um* lugar onde você se recusou a dizê-la. Diga-a ali. Em voz alta, se puder.
+
 > **Escritura.** *Pai, se quiseres, afasta de mim este cálice; todavia, não se faça a minha vontade, mas a tua.* — Lucas 22, 42
 
 > *Pai, hoje, em algo que não posso controlar: a Vossa vontade, não a minha. Confiarei no resultado.*

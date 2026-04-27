@@ -22,4 +22,4 @@ IX. Thou shalt not covet thy neighbour’s wife.
 
 X. Thou shalt not covet thy neighbour’s house, nor his field, nor his servant, nor his handmaid, nor his ox, nor his ass, nor anything that is his.[^1]
 
-[^1]: Exod., xx. 2-17, and Deut., v. 6-21.
+[^1]: Exodus 20:2-17, and Deuteronomy 5:6-21.

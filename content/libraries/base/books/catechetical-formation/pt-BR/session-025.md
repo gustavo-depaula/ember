@@ -76,6 +76,22 @@ Tampouco será a Igreja destruída pelas tentações dos demônios. Pois é como
 [^33]: Mt 16, 18.
 [^34]: Lc 22, 32.
 
+## Uma leitura pastoral
+
+O Credo nomeia **quatro notas da Igreja**: *una, santa, católica, apostólica*. O catecismo acima as desdobra uma a uma. Não são adjetivos lisonjeiros que a Igreja se dá; são *sinais visíveis* pelos quais a verdadeira Igreja de Cristo pode ser identificada através dos séculos. Cada uma é precisamente definida, e cada uma é sustentada contra um erro oposto.
+
+  * **Una.** A Igreja tem *um só* Senhor, *uma só* fé, *um só* batismo (Efésios 4, 5). É *interiormente* una na fé, no sacramento e no governo; é *historicamente* una com a Igreja que Cristo fundou; é *visivelmente* um só corpo. O erro oposto: o pluralismo teológico que trata o cristianismo como uma pluralidade de tradições igualmente válidas. O catecismo não permite isto. *O cristianismo é um*; as feridas da divisão são reais e devem ser curadas, não celebradas.
+
+  * **Santa.** Não porque cada membro seja santo — *o trigo e o joio crescem juntos* (Mt 13). A Igreja é santa porque **o seu Fundador é santo, a sua doutrina é santa, os seus sacramentos conferem a santidade**. *A Igreja produz santos.* A presença de cristãos medíocres ou escandalosos não torna a Igreja menos santa, assim como a presença de um doente não torna o hospital menos saudável. O hospital é *para* os doentes. Também é a Igreja.
+
+  * **Católica** — *kath' holos*, *segundo o todo*. A Igreja é para *toda* nação, *toda* cultura, *todo* tempo. Não tem prazo temporal. Tentativas modernas de tornar o catolicismo *culturalmente estreito* — eurocêntrico, só-tradicional, só-progressista, só-da-minha-tribo — são fracassos da catolicidade. **A Igreja é maior do que a sua facção.** A África é mais católica do que a Europa neste momento; a América Latina produziu mais santos recentes que os Estados Unidos; os ritos orientais carregam tesouro litúrgico que a Igreja latina não duplica. *O todo é o dom.*
+
+  * **Apostólica.** A Igreja é edificada sobre o fundamento dos Apóstolos (Efésios 2, 20), e os seus bispos *sucedem* aos Apóstolos por uma cadeia ininterrupta de imposição das mãos atravessando vinte séculos. Não é símbolo; é **fato histórico**. Todo bispo de hoje foi ordenado por um bispo que foi ordenado por um bispo que, em última instância, foi ordenado por um Apóstolo a quem o próprio Cristo enviou. A linha é verificável. A doutrina de que *aquilo que eles transmitiram é aquilo que recebemos* é o alicerce da reivindicação católica contra qualquer grupo que começou depois.
+
+O *Pentecostes* de El Greco (a imagem de hoje) é o momento em que as quatro notas foram acesas. **O fogo desce sobre os Apóstolos** — *um só* fogo, *santo* fogo, *católico* porque se espalhou (as línguas do mundo todas o ouviram), *apostólico* porque foi dado precisamente *àqueles* doze, que o carregaram.
+
+O que isto lhe pede: *seja leal às quatro notas mesmo quando católicos individuais o desapontarem*. A identidade da Igreja não é o mesmo que a santidade de qualquer membro individual. Permaneça dentro das quatro notas; elas o sustentarão.
+
 > **Escritura.** *Um só Senhor, uma só fé, um só batismo.* — Efésios 4, 5
 
 > *Espírito Santo, o mesmo fogo que caiu sobre eles — caía hoje sobre mim. Sou mais pobre do que eles, e preciso dele mais ainda.*

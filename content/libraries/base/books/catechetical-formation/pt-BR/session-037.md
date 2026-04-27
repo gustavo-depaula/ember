@@ -92,6 +92,20 @@ A grandeza da recompensa. — A quinta razão é tirada da grandeza da recompens
 [^33]: Mt 22, 30.
 [^34]: Jo 6, 69. «Os fiéis devem lembrar-se continuamente destas palavras: "Eu sou o Senhor teu Deus". Aprenderão delas que seu Legislador não é outro senão seu Criador, por quem foram feitos e são conservados... "Que te tirei da terra do Egito, da casa da servidão" parece, à primeira vista, referir-se unicamente aos judeus libertados da servidão do Egito. Mas, se ponderamos no significado da salvação de todo o gênero humano, ver-se-á que estas palavras se aplicam ainda mais especificamente a todos os cristãos que são libertados por Deus, não da servidão do Egito, mas da servidão do pecado e "do poder das trevas, e transferidos para o reino do Filho de Sua dileção" (Cl 1, 13)... E quando se diz: "Não terás outros deuses diante de Mim", é o mesmo que dizer: "Adorar-Me-ás a Mim, que sou o verdadeiro Deus, não adorarás outros deuses"... Deve-se ensinar com exatidão que a veneração e a invocação dos Anjos, dos Santos e das almas bem-aventuradas que gozam da glória do céu — e, mais ainda, a honra que a Igreja Católica sempre prestou aos próprios corpos e cinzas dos Santos — não estão proibidas por este Mandamento» (*Catecismo Romano*, «Primeiro Mandamento», 1, 2, 5, 8).
 
+## Uma leitura pastoral
+
+Há uma tendência no pensamento católico moderno que quer descartar o Primeiro Mandamento como o *fácil*. *Idolatria, adivinhação, culto aos antepassados — são problemas do mundo pagão; nós vivemos numa era secular.* O catecismo acima e a taxonomia cuidadosa de Aquino estão pedindo que se olhe de novo. **O Primeiro Mandamento é aquele que mais quebramos.**
+
+Aquino cataloga as idolatrias antigas — demônios, corpos celestes, elementos inferiores, antepassados, o próprio eu — e a classificação é estranhamente transferível. Cada uma aponta, com nome antigo, para uma forma contemporânea:
+
+  * *Adoravam os demônios* — a astrologia, o flerte com o oculto, a estética bruxesca das redes sociais, a carta de tarô casual, o horóscopo conferido antes de um encontro. Aquino, citando Agostinho, diz que tais coisas *não se fazem sem algum tipo de pacto com o demônio*. Ele não exagera. São participação numa outra economia espiritual que não a de Deus.
+  * *Adoravam os corpos celestes* — o equivalente moderno: as forças deterministas que hoje imaginamos governar-nos. *O algoritmo.* *O mercado.* *A genética.* *O ciclo.* Coisas reais, mas não Deus; não com direito à obediência de uma alma.
+  * *Adoravam os elementos inferiores* — dinheiro, bebida, comida, o prazer do corpo como último. Aquino cita Paulo: *o avarento, que é servo dos ídolos*. Quando você não consegue imaginar uma vida feliz sem algo que não seja Deus, esse algo é seu deus.
+  * *Adoravam os antepassados* — para nós: o sistema familiar que não pode ser questionado, a tribo política cujas convicções adotamos sem pensar, o mentor ou celebridade cuja autoridade aceitamos *acima* da Igreja. Aquino: *Quem ama pai ou mãe mais que a mim, não é digno de mim.*
+  * *Adoravam a si mesmos* — para nós: toda a performance de autocuração, a auto-imagem que cultivamos com mais cuidado do que qualquer jardim, a autonomia que não cedemos. O diagnóstico de Aquino é exato: *quem crê mais nos próprios prazeres do que nos preceitos de Deus, adora a si mesmo como deus*.
+
+O Primeiro Mandamento nomeia o solo de todos os outros. Se você acertasse o primeiro, os outros nove se seguiriam. A maior parte das nossas faltas morais cotidianas é a corrente abaixo de uma violação deste. *Eu sou o Senhor teu Deus; não terás outros deuses diante de mim.* Hoje, identifique **o um** outro deus mais provável de ser posto diante d'Ele no seu dia. Recuse-o uma vez. É para isso que serve a religião.
+
 > **Escritura.** *Não terás outros deuses diante de mim.* — Êxodo 20, 3
 
 > *Senhor, os deuses que fabrico são maus. Derribai-os hoje. Sede Aquele que adoro.*

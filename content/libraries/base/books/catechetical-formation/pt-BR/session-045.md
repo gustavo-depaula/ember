@@ -33,6 +33,20 @@ Em segundo lugar, mata-se a outrem com a palavra. Isto se faz dando conselho con
 
 Já tratamos do homicídio do corpo, mas alguns matam também a alma, afastando-a da vida da graça, isto é, induzindo-a a cometer pecado mortal: «Foi homicida desde o princípio»,[^23] na medida em que arrastou os homens ao pecado. Outros, porém, matam corpo e alma. Isto pode dar-se de dois modos: primeiro, pelo homicídio de uma mulher grávida, pelo qual a criança é morta tanto no corpo quanto na alma; e, em segundo lugar, pelo suicídio.
 
+## Uma leitura pastoral
+
+O Quinto Mandamento é um dos poucos ensinamentos morais que quase todos dizem aceitar e que muito poucos pensam com cuidado. O catecismo acima dá o princípio na forma simples de Pio X: *a vida — natural e espiritual, do próximo e a nossa — pertence a Deus.* Em seguida, Aquino percorre os contornos medievais: o uso lícito dos animais, a autoridade tradicional do Estado na pena capital, a proibição do suicídio, os muitos modos pelos quais alguém pode matar (com a mão, com a palavra, com o conselho, com o silêncio). O princípio é duradouro. As **aplicações mudam com a história**, e a nossa época pressiona várias perguntas que Pio X não fez explicitamente aqui:
+
+  * **Aborto.** A criança no ventre é um *próximo*, vida humana plena, e numa forma de indefesa única. O ensinamento da Igreja é constante desde a *Didaqué* (c. 90 d.C.: *não matarás a criança pelo aborto*). O Quinto Mandamento, levado a sério, nomeia o aborto pelo que é — e *também* nomeia a obrigação de todo cristão de apoiar, proteger e caminhar ao lado de qualquer mulher ou família para quem uma gravidez parece impossível.
+
+  * **Eutanásia.** O mesmo princípio vale: Deus é senhor da vida. Antecipar deliberadamente uma morte é pretender uma autoridade que pertence a Deus. *Permitir* uma morte retirando meios extraordinários, ou recusar tratamento agressivo que apenas prolongaria a agonia, é outra coisa — a Igreja distingue com cuidado. *Confortai os moribundos* é o imperativo. *Matai-os, mesmo gentilmente* não é.
+
+  * **Pena de morte.** Aquino acima a defende com base no princípio de que o Estado pode agir em nome de Deus para defender o bem comum. Trabalhando o *mesmo* princípio, São João Paulo II e o Papa Francisco chegaram a um juízo prudencial diferente: nas condições modernas, havendo meios não-letais eficazes, as execuções são *inadmissíveis* (CIC 2267 revisado em 2018). É um desenvolvimento, não uma inversão — o princípio é o mesmo; a aplicação é refinada.
+
+  * **Você mesmo.** O Mandamento proíbe também o dano à *sua própria* vida. Suicídio, vício, a violência lenta do ressentimento que come a alma — são pecados reais contra o Quinto Mandamento. O cálice que Nosso Senhor bebeu, Ele O bebeu sem virá-lo. Beba o seu.
+
+O que Aquino captura talvez melhor que ninguém é que *matar acontece com a mão, com a palavra, com o conselho, com o silêncio*. Podemos matar a reputação de uma pessoa. Podemos matar uma vocação pelo escárnio. Podemos matar um matrimônio pelo retirar-se. O Quinto Mandamento desce mais fundo que o código penal. Desce até o lugar do coração onde nasce o desprezo.
+
 > **Escritura.** *Quem derramar o sangue do homem, o seu sangue será derramado, porque o homem foi feito à imagem de Deus.* — Gênesis 9, 6
 
 > *Senhor, o corpo que fizestes não é descartável. Hoje, fazei-me notar uma vida e protegê-la.*
