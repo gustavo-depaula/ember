@@ -513,4 +513,104 @@ Other coverage:
   * 33 editorial-reading commits (some grouping multiple sessions)
   * 5 journal commits (one per phase plus the original setup)
 
+### 2026-04-27 — Phase 6: Decalogue extension + Resurrection of the Body + Purgatory
+
+Seven more editorial readings, extending the Decalogue coverage and
+adding two doctrinal pieces modern readers most often misunderstand
+(the resurrection of the body and purgatory).
+
+  * **022 — Purgatory.** Recovers the doctrine without the cartoon.
+    Names what most modern Catholics quietly abandon (a vague
+    near-universalism). Grounds in 1 Cor 3:13-15. Walks Pius X's
+    four means of helping the dead (Mass *above all*, prayer,
+    indulgences, almsgiving). Closes with the practical: name one,
+    pray for them. Commit: `a3fd39d`.
+  * **033 — Resurrection of the Body.** The doctrine that most
+    clearly separates Christianity from every other religion of
+    antiquity. The body is not a costume; it rises. Walks Aquinas's
+    four *dotes corporum gloriosorum* (impassibility, brilliance,
+    agility, subtlety) and grounds the gravity of bodily choices
+    in this life — every fast, every chastity, every reverence at
+    Mass is *the body rehearsing eternity in advance*. Commit:
+    `e73f516`.
+  * **037 — First Commandment / Strange gods.** Walks Aquinas's
+    five categories of ancient idolatry mapped to modern
+    equivalents (algorithm, brand, ancestor/cause, my own desire).
+    Modern Catholics dismiss the First Commandment as easy; it is
+    the one we break most. Commit: `1cfa323`.
+  * **040 — Second Commandment / Holy Name.** The most-broken
+    commandment in modern life. Three forbidden levels (disrespectful
+    use, false oaths, blasphemy proper); positive devotion to the
+    Holy Name (Bernardine, Society of Jesus, IHS). Three practices:
+    catch one casual use; replace; honor with deliberate use.
+    Commit: `918f5f2`.
+  * **042 — Third Commandment / Sunday.** Aquinas's three layers
+    (literal/creation, ritual/Mass-essential, spiritual/eternal
+    rest). Modern dilution of *servile work* corrected with a
+    broader principle. Two practices: Mass first, the rest after;
+    one thing you would normally do, you do not. Commit: `da7155f`.
+  * **044 — Fourth Commandment / Honor parents.** Hebrew *kavod*
+    (weight). Aquinas's three things parents give (being,
+    nourishment, instruction) and the unrepayable debt. Three
+    concentric duties (parents, elders/pastors, civil authority)
+    with the Christian reservation since the apostles (Acts 5:29).
+    Lands on: if your parents are alive, call. Commit: `00242ac`.
+  * **051 — Ninth Commandment / Pure thoughts.** The interior
+    twin of the Sixth. Walks the classic three-moment analysis
+    (suggestion / delectation / consent) — discipline is not
+    "never have the thought" but "do not dwell." Three practices:
+    avert the gaze, pray the Holy Name, confess promptly. Commit:
+    `4aa6303`.
+  * **052 — Tenth Commandment / Detachment.** Aquinas's striking
+    point: divine law judges interior intent. Three modern
+    symptoms of unbridled greed (social-media comparison,
+    career-as-identity, covet-disguised-as-virtue). Detachment
+    practice: today, let go of one thing. Commit: `918f5f2`.
+
+**Final running tally — 40 of 90 sessions now carry editorial readings.**
+
+Three arcs are now 100% editorial-covered:
+  * **Virtues** (055–058)
+  * **Church Precepts** (053–054)
+  * **Lord's Prayer** (082–089)
+
+Detailed coverage by part:
+  * Preliminary (sessions 001–002): 002 ✓
+  * Creed Part I (sessions 003–034): 003, 005, 020, 022, 028, 033 (6 of 32)
+  * Decalogue Part II (sessions 035–052): 035, 037, 040, 042, 044, 045,
+    046, 047, 048, 049, 050, 051, 052 (13 of 18)
+  * Precepts Part III (sessions 053–054): 053, 054 ✓ (100%)
+  * Virtues Part IV (sessions 055–058): 055, 056, 057, 058 ✓ (100%)
+  * Sacraments Part V (sessions 059–080): 062, 064, 066, 069, 071, 075,
+    077, 080 (8 of 22)
+  * Prayer Part VI (sessions 081–089): 082, 083, 084, 085, 086, 087, 088,
+    089 ✓ (8 of 9 — missing only 081, which already has rich Aquinas)
+  * Marian Part VII (session 090): 090 ✓ (100%)
+
+  ≈14,000 words of new pastoral commentary per language. Three of seven
+  parts of the catechetical year now carry editorial readings on every
+  session of that part.
+
+**What remains as a clean next batch:**
+
+  * **Sacrament gaps** — Baptism part 2 (063), Eucharist 067/068/070,
+    Penance arc 072–074/076, Holy Orders 078, Matrimony intro 079.
+    Several of these are very long verbatim sessions where editorial
+    would be supplemental rather than gap-filling.
+  * **Creed gaps** — articles whose verbatim teaching is rich but
+    where modern framing would help (the Incarnation 015; the
+    Resurrection of Christ 018; the Ascension 019; the Final
+    Coming 020 already done; the Holy Spirit 023; the Holy Catholic
+    Church 024–026; the Communion of Saints 027 already partial via
+    028).
+  * **Decalogue remaining** — first commandment continuation
+    (038–039); second commandment continuation (041); third
+    commandment continuation (043); the Decalogue intro 036.
+  * **Lord's Prayer intro 081** — has rich Aquinas already; would be
+    supplemental.
+
+The branch is in a clean, push-able state at every commit. The editorial
+overlay convention is established and easy to extend: add
+`editorial/<lang>/<session_id>.md`, run build, commit.
+
 
