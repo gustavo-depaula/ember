@@ -31,37 +31,41 @@
 
 ## The Angelic Salutation
 
-This salutation has three parts. The Angel gave one part, namely: "Hail, full of grace, the Lord is with thee, blessed art thou among women."[^1] The other part was given by Elizabeth, the mother of John the Baptist, namely: "Blessed is the fruit of thy womb."[^2] The Church adds the third part, that is, "Mary," because the Angel did not say, "Hail, Mary," but "Hail, full of grace." But, as we shall see, this name, "Mary," according to its meaning agrees with the words of the Angels.[^3] "HAIL MARY"
+This salutation has three parts. The Angel gave one part, namely: "Hail, full of grace, the Lord is with thee, blessed art thou among women."[^1] The other part was given by Elizabeth, the mother of John the Baptist, namely: "Blessed is the fruit of thy womb."[^2] The Church adds the third part, that is, "Mary," because the Angel did not say, "Hail, Mary," but "Hail, full of grace." But, as we shall see, this name, "Mary," according to its meaning agrees with the words of the Angels.[^3]
+
+## "Hail"
 
 We must now consider concerning the first part of this prayer that in ancient times it was no small event when Angels appeared to men; and that man should show them reverence was especially praiseworthy. Thus, it is written to the praise of Abraham that he received the Angels with all courtesy and showed them reverence. But that an Angel should show reverence to a man was never heard of until the Angel reverently greeted the Blessed Virgin saying: "Hail."
 
-## The Angel's Dignity
+### The Angel's Dignity
 
 In olden time an Angel would not show reverence to a man, but a man would deeply revere an Angel. This is because Angels are greater than men, and indeed in three ways. First, they are greater than men in dignity. This is because the Angel is of a spiritual nature: "Who makest Thy angels spirits."[^4] But, on the other hand, man is of a corruptible nature, for Abraham said: "I will speak to my Lord, whereas I am dust and ashes."[^5] It was not fitting, therefore, that a spiritual and incorruptible creature should show reverence to one that is corruptible as is a man. Secondly, an Angel is closer to God. The Angel, indeed, is of the family of God, and as it were stands ever by Him: "Thousands of thousands ministered to Him, and ten thousand times a hundred thousand stood before Him."[^6] Man, on the other hand, is rather a stranger and afar off from God because of sin: "I have gone afar off."[^7] Therefore, it is fitting that man should reverence an Angel who is an intimate and one of the household of the King.
 
 Then, thirdly, the Angels far exceed men in the fullness of the splendor of divine grace. For Angels participate in the highest degree in the divine light: "Is there any numbering of His soldiers? And upon whom shall not His light arise?"[^8] Hence, the Angels always appear among men clothed in light, hut men on the contrary, although they partake somewhat of the light of grace, nevertheless do so in a much slighter degree and with a certain obscurity. It was, therefore, not fitting that an Angel should show reverence to a man until it should come to pass that one would be found in human nature who exceeded the Angels in these three points in which we have seen that they excel over men--and this was the Blessed Virgin. To show that she excelled the Angels in these, the Angel desired to show her reverence, and so he said: "Ave (Hail)."
 
-"FULL OF GRACE"
+## "Full of Grace"
 
 The Blessed Virgin was superior to any of the Angels in the fullness of grace, and as an indication of this the Angel showed reverence to her by saying: "Full of grace." This is as if he said: "I show thee reverence because thou dost excel me in the fullness of grace."
 
 The Blessed Virgin is said to be full of grace in three ways. First, as regards her soul she was full of grace. The grace of God is given for two chief purposes, namely, to do good and to avoid evil. The Blessed Virgin, then, received grace in the most perfect degree, because she had avoided every sin more than any other Saint after Christ. Thus it is said: "Thou art fair, My beloved, and there is not a spot in thee."[^9] St. Augustine says: "If we could bring together all the Saints and ask them if they were entirely without sin, all of them, with the exception of the Blessed Virgin, would say with one voice: 'If we say that we have no sin, we deceive ourselves and the truth is not in us.'[^10] I except, however, this holy Virgin of whom, because of the honour of God, I wish to omit all mention of sin."[^11] For we know that to her was granted grace to overcome every kind of sin by Him whom she merited to conceive and bring forth, and He certainly was wholly without sin.
 
-## Virtues of the Blessed Virgin
+### Virtues of the Blessed Virgin
 
 Christ excelled the Blessed Virgin in this, that He was conceived and born without original sin, while the Blessed Virgin was conceived in original sin, but was not born in it.[^12] She exercised the works of all the virtues, whereas the Saints are conspicuous for the exercise of certain special virtues. Thus, one excelled in humility, another in chastity, another in mercy, to the extent that they are the special exemplars of these virtues-- as, for example, St. Nicholas is an exemplar of the virtue of mercy. The Blessed Virgin is the exemplar of all the virtues.
 
 In her is the fullness of the virtue of humility: "Behold the handmaid of the Lord."[^13] And again: "He hath regarded the humility of his handmaid."[^14] So she is also exemplar of the virtue of chastity: "Because I know not man."[^15] And thus it is with all the virtues, as is evident. Mary was full of grace not only in the performance of all good, but also in the avoidance of all evil. Again, the Blessed Virgin was full of grace in the overflowing effect of this grace upon her flesh or body. For while it is a great thing in the Saints that the abundance of grace sanctified their souls, yet, moreover, the soul of the holy Virgin was so filled with grace that from her soul grace poured into her flesh from which was conceived the Son of God. Hugh of St. Victor says of this: "Because the love of the Holy Spirit so inflamed her soul, He worked a wonder in her flesh, in that from it was born God made Man." "And therefore also the Holy which shall be born of thee shall be called the Son of God."[^16]
 
-## Mary, Help of Christians
+### Mary, Help of Christians
 
-The plenitude of grace in Mary was such that its effects overflow upon all men. It is a great thing in a Saint when he has grace to bring about the salvation of many, but it is exceedingly wonderful when grace is of such abundance as to be sufficient for the salvation of all men in the world, and this is true of Christ and of the Blessed Virgin. Thus, "a thousand bucklers," that is, remedies against dangers, "hang therefrom."[^17] Likewise, in every work of virtue one can have her as one's helper. Of her it was spoken: "In me is all grace of the way and of the truth, in me is all hope of life and of virtue."[^18] Therefore, Mary is full of grace, exceeding the Angels in this fullness and very fittingly is she called "Mary" which means "in herself enlightened": "The Lord will fill thy soul with brightness."[^19] And she will illumine others throughout the world for which reason she is compared to the sun and to the moon.[^20] "THE LORD IS WITH THEE"
+The plenitude of grace in Mary was such that its effects overflow upon all men. It is a great thing in a Saint when he has grace to bring about the salvation of many, but it is exceedingly wonderful when grace is of such abundance as to be sufficient for the salvation of all men in the world, and this is true of Christ and of the Blessed Virgin. Thus, "a thousand bucklers," that is, remedies against dangers, "hang therefrom."[^17] Likewise, in every work of virtue one can have her as one's helper. Of her it was spoken: "In me is all grace of the way and of the truth, in me is all hope of life and of virtue."[^18] Therefore, Mary is full of grace, exceeding the Angels in this fullness and very fittingly is she called "Mary" which means "in herself enlightened": "The Lord will fill thy soul with brightness."[^19] And she will illumine others throughout the world for which reason she is compared to the sun and to the moon.[^20]
+
+## "The Lord Is with Thee"
 
 The Blessed Virgin excels the Angels in her closeness to God. The Angel Gabriel indicated this when he said: "The Lord is with thee"--as if to say: "I reverence thee because thou art nearer to God than I, because the Lord is with thee." By the Lord; he means the Father with the Son and the Holy Spirit, who in like manner are not with any Angel or any other spirit: "The Holy which shall be born of thee shall be called the Son of God."[^21] God the Son was in her womb: "Rejoice and praise, O thou habitation of Sion; for great is He that is in the midst of thee, the Holy One of Israel."[^22]
 
 The Lord is not with the Angel in the same manner as with the Blessed Virgin; for with her He is as a Son, and with the Angel He is the Lord. The Lord, the Holy Ghost, is in her as in a temple, so that it is said: "The temple of the Lord, the sanctuary of the Holy Spirit,"[^23] because she conceived by the Holy Ghost. "The Holy Ghost shall come upon thee."[^24] The Blessed Virgin is closer to God than is an Angel, because with her are the Lord the Father, the Lord the Son, and the Lord the Holy Ghost--in a word, the Holy Trinity. Indeed of her we sing: "Noble resting place of the Triune God."[^25] "The Lord is with thee" are the most praiseladen words that the Angel could have uttered; and, hence, he so profoundly reverenced the Blessed Virgin because she is the Mother of the Lord and Our Lady. Accordingly she is very well named "Mary," which in the Syrian tongue means "Lady."
 
-"BLESSED ART THOU AMONG WOMEN"
+## "Blessed Art Thou among Women"
 
 The Blessed Virgin exceeds the Angels in purity. She is not only pure, but she obtains purity for others. She is purity itself, wholly lacking in every guilt of sin, for she never incurred either mortal or venial sin. So, too, she was free from the penalties of sin. Sinful man, on the contrary, incurs a threefold curse on account of sin. The first fell upon woman who conceives in corruption, bears her child with difficulty, and brings it forth in pain. The Blessed Virgin was wholly free from this, since she conceived without corruption, bore her Child in comfort, and brought Him forth in joy: "It shall bud forth and blossom, and shall rejoice with joy and praise."[^26]
 
@@ -69,7 +73,7 @@ The second penalty was inflicted upon man in that he shall earn his bread by the
 
 The third curse is common both to man and woman in that both shall one day return to dust. The Blessed Virgin was spared this penalty, for her body was raised up into heaven, and so we believe that after her death she was revived and transported into heaven: "Arise, O Lord, into Thy resting place, Thou and the ark which Thou hast sanctified."[^28] Because the Blessed Virgin was immune from these punishments, she is "blessed among women." Moreover, she alone escaped the curse of sin, brought forth the Source of blessing, and opened the gate of heaven. It is surely fitting that her name is "Mary," which is akin to the Star of the Sea ("Maria--maris stella"), for just as sailors are directed to port by the star of the sea, so also Christians are by Mary guided to glory.
 
-"BLESSED IS THE FRUIT OF THY WOMB"
+## "Blessed Is the Fruit of Thy Womb"
 
 The sinner often seeks for something which he does not find; but to the just man it is given to find what he seeks: "The substance of the sinner is kept for the just."[^29] Thus, Eve sought the fruit of the tree (of good and evil), but she did not find in it that which she sought. Everything Eve desired, however, was given to the Blessed Virgin.[^30] Eve sought that which the devil falsely promised her, namely, that she and Adam would be as gods, knowing good and evil. "You shall be," says this liar, "as gods."[^31] But he lied, because "he is a liar and the father of lies."[^32] Eve was not made like God after having eaten of the fruit, but rather she was unlike God in that by her sin she withdrew from God and was driven out of paradise. The Blessed Virgin, however, and all Christians found in the Fruit of her womb Him whereby we are all united to God and are made like to Him: "When He shall appear, we shall be like to Him, because we shall see Him as He is."[^33]
 
@@ -116,6 +120,22 @@ The fruit which Eve desired was beautiful to look upon, but that Fruit of the Bl
 [^37]: Revelation 7:12.
 [^38]: Philippians 2:11.
 [^39]: Psalm 117:26.
+
+## A pastoral reading
+
+The Aquinas above moves slowly through the Hail Mary's three parts — angel, Elizabeth, Church — and shows us what each line is doing theologically. St. Thomas is unmatched at this patient unfolding. But he says relatively little about what happens *in the soul* when we invoke Mary in our worst hour. For that we turn to a son of his order born five centuries later: **St. Alphonsus Liguori**, who in *The Glories of Mary* (1750) gathered the witness of the Fathers and the saints into a single sustained meditation on Mary's intercessory power for sinners.
+
+Liguori writes, quoting St. Bernard with approval:
+
+> *Mary opens the abyss of divine mercy to whomever she wills, whenever she wills, and however she wills; so that there is no sinner, however enormous his sins, who is lost if Mary protects him.*
+
+This is not Marian sentimentality. The catechism above has just established that Mary's powerful intercession does not compete with Christ's — it *depends* on Him entirely. Liguori adds the right corollary: *because* she depends on Him so completely, she dares to ask of Him what only a mother dares ask of her son. Her *yes* at the Annunciation made the whole Christian dispensation possible; her *yes* now, on behalf of any sinner, finds its echo in His.
+
+This is also the heart of the *Communion of Saints*. The saints in glory are not at rest as the world rests; they are at rest *in love*. Their love bends back toward us, intercedes for us, sustains us through the gauntlet of the years. Mary above them all. Their intercession is not magic; it is the way a family loves its members across a single dinner table.
+
+Today, then, do not pray the Hail Mary as a recitation. Pray it as a request. Use the words the angel used. Use the words Elizabeth used. Add the words the Church added — *now and at the hour of our death.* That last clause names the only moment when nothing else will hold. And she will be there.
+
+— *And so, dear reader, you have walked the ninety-day arc. May this not be the end. May it have been the door.*
 
 > **Scripture.** *Hail, full of grace, the Lord is with thee: blessed art thou among women.* — Luke 1:28
 

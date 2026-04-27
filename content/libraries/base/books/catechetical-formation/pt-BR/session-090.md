@@ -31,29 +31,31 @@
 
 ## A Saudação Angélica
 
-Esta saudação tem três partes. Uma parte foi dada pelo Anjo, a saber: "Ave, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres".[^1] A outra parte foi dada por Isabel, mãe de João Batista, a saber: "Bendito é o fruto do vosso ventre".[^2] A Igreja acrescenta a terceira parte, isto é, "Maria", porque o Anjo não disse "Ave, Maria", mas "Ave, cheia de graça". Como veremos, porém, este nome, "Maria", segundo o seu significado, está em harmonia com as palavras do Anjo.[^3] "AVE MARIA"
+Esta saudação tem três partes. Uma parte foi dada pelo Anjo, a saber: "Ave, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres".[^1] A outra parte foi dada por Isabel, mãe de João Batista, a saber: "Bendito é o fruto do vosso ventre".[^2] A Igreja acrescenta a terceira parte, isto é, "Maria", porque o Anjo não disse "Ave, Maria", mas "Ave, cheia de graça". Como veremos, porém, este nome, "Maria", segundo o seu significado, está em harmonia com as palavras do Anjo.[^3]
+
+## «Ave»
 
 Devemos agora considerar, quanto à primeira parte desta oração, que nos tempos antigos não era pequeno acontecimento que os Anjos aparecessem aos homens; e que o homem lhes prestasse reverência era especialmente louvável. Assim, está escrito em louvor de Abraão que ele recebeu os Anjos com toda cortesia e lhes mostrou reverência. Mas que um Anjo prestasse reverência a um homem nunca se ouvira dizer, até que o Anjo saudou reverentemente a Santíssima Virgem dizendo: "Ave".
 
-## A Dignidade do Anjo
+### A Dignidade do Anjo
 
 Nos tempos antigos um Anjo não prestava reverência a um homem, mas o homem reverenciava profundamente o Anjo. Isto porque os Anjos são maiores do que os homens, e isto de três modos. Primeiro, são maiores que os homens em dignidade. Pois o Anjo é de natureza espiritual: "Tu, que fazes dos teus anjos espíritos".[^4] Mas, por outro lado, o homem é de natureza corruptível, pois Abraão disse: "Falarei ao meu Senhor, ainda que eu seja pó e cinza".[^5] Não convinha, portanto, que uma criatura espiritual e incorruptível prestasse reverência a uma que é corruptível como é o homem. Em segundo lugar, o Anjo está mais próximo de Deus. O Anjo, com efeito, é da família de Deus, e como que está sempre junto a Ele: "Milhares de milhares O serviam, e dez mil vezes cem mil estavam diante d'Ele".[^6] O homem, ao contrário, é antes um estrangeiro e está longe de Deus por causa do pecado: "Fugi para longe".[^7] Convém, pois, que o homem reverencie o Anjo, que é íntimo e um dos da casa do Rei.
 
 Em terceiro lugar, os Anjos excedem em muito os homens na plenitude do esplendor da graça divina. Pois os Anjos participam em sumo grau da luz divina: "Quem poderá contar os seus exércitos? E sobre quem não se levanta a sua luz?".[^8] Por isso os Anjos sempre aparecem entre os homens revestidos de luz; mas os homens, ao contrário, embora participem de algum modo da luz da graça, fazem-no, todavia, em grau muito menor e com certa obscuridade. Não convinha, portanto, que um Anjo prestasse reverência a um homem, até que se desse o caso de se encontrar na natureza humana alguém que excedesse os Anjos nesses três pontos em que vimos serem eles superiores aos homens — e essa foi a Santíssima Virgem. Para mostrar que ela os excedia nestes pontos, o Anjo quis prestar-lhe reverência, e por isso disse: "Ave (Salve)".
 
-"CHEIA DE GRAÇA"
+## «Cheia de graça»
 
 A Santíssima Virgem foi superior a qualquer dos Anjos na plenitude da graça, e como sinal disto o Anjo lhe prestou reverência dizendo: "Cheia de graça". Era como se dissesse: "Presto-vos reverência porque me excedeis na plenitude da graça".
 
 Diz-se que a Santíssima Virgem é cheia de graça de três modos. Primeiro, quanto à sua alma, ela era cheia de graça. A graça de Deus é dada para dois fins principais, a saber, fazer o bem e evitar o mal. A Santíssima Virgem, pois, recebeu a graça em grau perfeitíssimo, porque evitou todo pecado mais do que qualquer outro Santo depois de Cristo. Por isso se diz: "Toda formosa és, amiga minha, e em ti não há mancha".[^9] Diz Santo Agostinho: "Se pudéssemos reunir todos os Santos e perguntar-lhes se estavam inteiramente sem pecado, todos eles, excetuada a Santíssima Virgem, diriam a uma só voz: 'Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós'.[^10] Excetuo, todavia, esta santa Virgem, da qual, por honra de Deus, quero omitir toda menção ao pecado".[^11] Pois sabemos que a ela foi concedida a graça de vencer toda espécie de pecado por Aquele a quem ela mereceu conceber e dar à luz, e Ele certamente foi inteiramente sem pecado.
 
-## Virtudes da Santíssima Virgem
+### Virtudes da Santíssima Virgem
 
 Cristo excedeu a Santíssima Virgem nisto, que foi concebido e nasceu sem pecado original, ao passo que a Santíssima Virgem foi concebida no pecado original, mas não nasceu nele.[^12] Ela exerceu as obras de todas as virtudes, ao passo que os Santos se distinguem pelo exercício de certas virtudes especiais. Assim, um sobressaiu na humildade, outro na castidade, outro na misericórdia, a ponto de serem exemplares particulares destas virtudes — como, por exemplo, São Nicolau é exemplar da virtude da misericórdia. A Santíssima Virgem é o exemplar de todas as virtudes.
 
 Nela está a plenitude da virtude da humildade: "Eis a escrava do Senhor".[^13] E ainda: "Olhou para a humildade da sua escrava".[^14] Assim, ela é também exemplar da virtude da castidade: "Porque não conheço varão".[^15] E assim é em todas as virtudes, como é manifesto. Maria foi cheia de graça não somente na prática de todo bem, mas também na fuga de todo mal. Mais ainda, a Santíssima Virgem foi cheia de graça no efeito transbordante desta graça sobre a sua carne ou corpo. Pois, embora seja grande coisa nos Santos que a abundância da graça santifique suas almas, a alma da santa Virgem foi de tal modo cheia de graça que, da sua alma, a graça transbordou em sua carne, da qual foi concebido o Filho de Deus. Hugo de São Vítor diz a respeito: "Porque o amor do Espírito Santo de tal modo inflamou a sua alma, Ele operou um prodígio em sua carne, fazendo que dela nascesse Deus feito homem". "E por isso também o Santo que de vós há de nascer será chamado Filho de Deus".[^16]
 
-## Maria, Auxílio dos Cristãos
+### Maria, Auxílio dos Cristãos
 
 A plenitude da graça em Maria foi tal que os seus efeitos transbordam sobre todos os homens. É grande coisa num Santo que tenha graça para obter a salvação de muitos, mas é prodigiosamente admirável quando a graça é de tal abundância que basta para a salvação de todos os homens do mundo, e isto é verdade de Cristo e da Santíssima Virgem. Por isso, "mil escudos", isto é, remédios contra os perigos, "estão dela pendentes".[^17] Igualmente, em toda obra de virtude pode-se tê-la por auxiliadora. Dela se disse: "Em mim está toda a graça do caminho e da verdade, em mim toda a esperança da vida e da virtude".[^18] Por isso Maria é cheia de graça, excedendo nesta plenitude os Anjos, e mui convenientemente é chamada "Maria", que significa "iluminada em si mesma": "O Senhor encherá de claridade a tua alma".[^19] E ela iluminará outros pelo mundo afora, razão pela qual é comparada ao sol e à lua.[^20] "O SENHOR É CONVOSCO"
 
@@ -116,6 +118,22 @@ O fruto que Eva desejou era belo de se contemplar, mas o Fruto da Santíssima Vi
 [^37]: Ap 7, 12.
 [^38]: Fl 2, 11.
 [^39]: Sl 117, 26.
+
+## Uma leitura pastoral
+
+O Aquino acima percorre devagar as três partes da Ave-Maria — anjo, Isabel, Igreja — e nos mostra o que cada linha está fazendo teologicamente. São Tomás é insuperável neste desdobrar paciente. Mas diz relativamente pouco sobre o que acontece *na alma* quando invocamos Maria na nossa pior hora. Para isso recorremos a um filho de sua ordem nascido cinco séculos depois: **Santo Afonso Maria de Ligório**, que em *As Glórias de Maria* (1750) reuniu o testemunho dos Padres e dos santos numa meditação sustentada sobre o poder de intercessão de Maria pelos pecadores.
+
+Ligório escreve, citando São Bernardo com aprovação:
+
+> *Maria abre o abismo da divina misericórdia a quem quer, quando quer e como quer; de modo que não há pecador, por enormes que sejam os seus pecados, que esteja perdido se Maria o proteger.*
+
+Isto não é sentimentalismo mariano. O catecismo acima acaba de estabelecer que a poderosa intercessão de Maria não compete com a de Cristo — *depende* d'Ele inteiramente. Ligório acrescenta o corolário certo: *precisamente porque* ela depende d'Ele de modo tão total, ousa pedir-Lhe o que só uma mãe ousa pedir ao seu filho. O *sim* dela na Anunciação tornou possível toda a dispensação cristã; o *sim* dela agora, em favor de qualquer pecador, encontra seu eco n'Ele.
+
+Este é também o coração da *Comunhão dos Santos*. Os santos na glória não repousam como o mundo repousa; repousam *no amor*. Seu amor se dobra de novo para nós, intercede por nós, nos sustenta no atravessar dos anos. Maria acima de todos. A intercessão deles não é mágica; é a maneira como uma família ama os seus de um lado a outro de uma única mesa de jantar.
+
+Hoje, então, não reze a Ave-Maria como recitação. Reze-a como um pedido. Use as palavras do anjo. Use as palavras de Isabel. Acrescente as palavras que a Igreja acrescentou — *agora e na hora de nossa morte.* Esta última cláusula nomeia o único momento em que nada mais sustentará. E ela estará ali.
+
+— *E assim, caro leitor, você percorreu o arco dos noventa dias. Que isto não seja o fim. Que tenha sido a porta.*
 
 > **Escritura.** *Ave, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres.* — Lucas 1, 28
 
