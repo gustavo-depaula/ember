@@ -55,6 +55,16 @@ X. Não cobiçarás a casa do teu próximo, nem o seu campo, nem o seu servo, ne
 
 [^1]: Êx 20, 2-17, e Dt 5, 6-21.
 
+## Uma leitura pastoral
+
+O catecismo acima, como um porteiro, lhe entregou a planta do prédio: os Dez Mandamentos são a *geometria do amor*. Os três primeiros dizem respeito ao amor de Deus — Seu nome, Seu dia, Seu culto exclusivo. Os sete últimos dizem respeito ao amor do próximo — vida, matrimônio, propriedade, verdade, os movimentos interiores da inveja e da concupiscência. Juntos, como o próprio Cristo declarou, *toda a Lei e os Profetas* dependem do duplo mandamento: amar a Deus com tudo, amar o próximo como a si mesmo.
+
+Por isso não se pode reduzir a vida moral a "regras". Uma regra é algo imposto de fora; um mandamento é algo que articula como uma criatura feita para o amor pode de fato tornar-se *capaz* de amar. São Tomás, ao tratar do Decálogo em seus sermões de Nápoles, pergunta por que Deus nos deu *dez* mandamentos, e não mais nem menos. Sua resposta é marcante: a lei de Deus é, na raiz, uma lei única — **o amor** — mas o amor precisa tomar dez formas diferentes numa criatura como nós, que vive no tempo, num corpo, com pais e vizinhos e bens. Amar a Deus só com o coração, enquanto se rouba, mente e cobiça, é reivindicar amor sem corpo. Guardar os mandamentos sem amor é reivindicar o corpo sem a alma. Ambos estão mortos.
+
+Pio X nos lembra — e esta é a frase mais importante do catecismo de hoje — que *os mandamentos podem ser observados em todo o tempo, mesmo nas mais fortes tentações, pela graça que Deus jamais nega a quem O invoca de coração.* Isto não é otimismo. É doutrina. Não há mandamento demasiado pesado para a graça. Não há tentação demasiado forte. A graça é real. O pedir, também, precisa ser real.
+
+Pelas dezoito sessões seguintes você caminhará pelos Dez um a um — primeiro as leis em relação a Deus (Sessões 37–43), depois as leis em relação ao próximo (Sessões 44–52). Tome-os na ordem. Não são entediantes. Vividos por dentro, são a arquitetura de uma vida que não se desperdiça.
+
 > **Escritura.** *Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu espírito. Este é o maior e o primeiro mandamento. O segundo lhe é semelhante: Amarás o teu próximo como a ti mesmo.* — Mateus 22, 37-39
 
 > *Senhor, a lei é amor. Hoje, não me deixeis reduzir o amor a um sentimento. Fazei-me obedecer.*

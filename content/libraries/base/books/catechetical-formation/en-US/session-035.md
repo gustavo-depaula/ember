@@ -55,6 +55,16 @@ X. Thou shalt not covet thy neighbour’s house, nor his field, nor his servant,
 
 [^1]: Exodus 20:2-17, and Deuteronomy 5:6-21.
 
+## A pastoral reading
+
+The catechism above, like a doorman, has handed you the floor plan: the Ten Commandments are the *geometry of love*. The first three concern the love of God — His name, His day, His exclusive worship. The last seven concern the love of neighbor — life, marriage, property, truth, the inner movements of envy and lust. Together, as Christ Himself declared, the *whole Law and the Prophets* hang on the double command: love God with everything, love your neighbor as yourself.
+
+This is why we cannot reduce the moral life to "rules." A rule is something imposed from outside; a commandment is something that articulates how a creature made for love can actually become *capable* of loving. St. Thomas, treating the Decalogue in his Naples sermons, asks why God gave us *ten* commandments and not more or fewer. His answer is striking: God's law is at root a single law — **love** — but love must take ten different shapes in a creature like us, who lives in time, in a body, with parents and neighbors and possessions. To love God only with the heart, while one steals, lies, and lusts, is to claim love without its body. To keep the commandments without love is to claim the body without the soul. Both are dead.
+
+Pius X reminds us — and this is the most important sentence in the day's catechism — that *the commandments can all be observed, at all times, even in the strongest temptations, by the grace which God never denies to one who calls upon Him from the heart.* This is not optimism. It is doctrine. There is no commandment too hard for grace. There is no temptation too strong. The grace is real. The asking, also, must be real.
+
+For the next eighteen sessions you will walk through the Ten one by one — first the laws toward God (Sessions 37–43), then the laws toward neighbor (Sessions 44–52). Take them in order. They are not boring. Lived from the inside, they are the architecture of a life that does not waste itself.
+
 > **Scripture.** *Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest and the first commandment. And the second is like to this: Thou shalt love thy neighbour as thyself.* — Matthew 22:37-39
 
 > *Lord, the law is love. Today, do not let me reduce love to a feeling. Make me obey it.*
