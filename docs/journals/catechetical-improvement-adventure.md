@@ -299,15 +299,116 @@ Sacraments arc:
     Markdown renderers typically display footnotes at the document
     end regardless of source position; not a visual bug for app users.
 
-**What's queued for next session:**
+### 2026-04-27 — Phase 4: Final Judgment + four particular commandments
 
-  * `/import-book` for *The Imitation of Christ* (Thomas à Kempis)
-    — flagged in PIPELINE.md as Tier-1.
-  * Editorial readings for sessions 015 (Incarnation), 020 (Final
-    Judgment), 022 (Resurrection of the body), and the Lord's Prayer
-    petitions (082-089).
-  * Editorial readings for the particular commandments where the
-    1912 Pius X language is most jarring to modern readers (sessions
-    045-052).
+Authored editorial readings for five more sessions, finishing the
+hardest territory in the catechetical year: the doctrine of judgment
+and four of the most modern-relevance-pressed commandments.
+
+  * **020 — Final Judgment.** Confronts the modern Catholic
+    embarrassment about the doctrine ("we are taught by our age, not
+    by our faith, that to speak of judgment is small-hearted") and
+    argues it is *good news* — without a Last Day, every martyr's
+    blood is paid into a void, every act of love unrecorded. Walks
+    Aquinas's two judgments (particular at death, general at end of
+    history; the general *vindicates* the particular). The strange
+    mercy in Christ's judging *as Man* — the One who suffered
+    injustice from us is the One who renders justice over us.
+    Commit: `6541f82`.
+
+  * **045 — Fifth Commandment (life).** Honors the durability of
+    the principle ("life belongs to God") and applies it to four
+    contemporary fronts:
+      - abortion (cites Didache c. 90 AD for the consistency of
+        Church teaching since the apostolic era; pairs naming the
+        sin with the obligation to walk alongside families)
+      - euthanasia (distinguishes deliberately hastening death from
+        withdrawing extraordinary measures)
+      - capital punishment (preserves Aquinas's principle but names
+        the development of doctrine through JPII and Francis;
+        CCC 2267 revised 2018 — application refined, not principle
+        reversed)
+      - self (suicide, addiction, slow resentment as fifth-commandment
+        sins; Gethsemane echo)
+    Closes with Aquinas's own observation that killing also happens
+    by word, counsel, silence — the Commandment runs as deep as
+    the place where contempt is born. Commit: `3c86145`.
+
+  * **048 — Sixth Commandment (chastity).** Names Aquinas's dated
+    cultural framings honestly ("the weaker vessel") while preserving
+    the durable principle (Aquinas's *own* "husbands do not sin any
+    less than wives"). Frames chastity as integration of body with
+    truth-of-personhood, not denial of body. Brings in JPII's
+    Theology of the Body (the 1979–1984 Roman catecheses) and
+    Genesis 2 ("it is not good for man to be alone") as the positive
+    frame. Names modern fronts (premarital sex, adultery, pornography,
+    hookup culture) and grounds them as breaking *the language of the
+    body*. Lands on Confession (Aquinas: "no number of sins exceeds
+    the power of the keys") and Augustine on continence as gathering
+    of the scattered self. Commit: `bb2464e`.
+
+  * **049 — Seventh Commandment (theft / wages).** Uses Aquinas's
+    sneakily radical taxonomy of theft (including Augustine's "what
+    are thrones but forms of thievery?") and Pius X's unflinching
+    rule that restitution is part of repentance. Applies to:
+      - wages (one of four sins "crying out to heaven", Jas 5:4)
+      - debts (Rom 13:8)
+      - taxes owed for common good
+      - the modern theft of time and attention via addictive design
+      - pirated work consumed when payment is possible
+    Lands on Zacchaeus — he climbed the tree to begin restoring
+    fourfold, not to be cleared. Commit: `4690116`.
+
+  * **050 — Eighth Commandment (truth, gossip, social media).** Maps
+    Aquinas's medieval taxonomy (detraction, calumny, co-detraction,
+    rash judgment) onto a 2026 economy that has industrialized the
+    speech-sins. Three modern corollaries:
+      - posting is speech (a retweet is testimony, a like is
+        co-detraction)
+      - verify before you carry (most quiet evil is in the second
+        sentence of a rumor)
+      - repair what you tore (Pius X's binding obligation)
+    Lands on the practice of silence: when a conversation turns
+    to gossip, change the subject. Commit: `dbb3440`.
+
+**Final running tally — 25 of 90 sessions now carry editorial readings:**
+
+  002 · 003 · 020 · 028 · 035 · 045 · 046 · 048 · 049 · 050 · 053 ·
+  054 · 055 · 056 · 057 · 058 · 062 · 064 · 066 · 069 · 071 · 075 ·
+  077 · 080 · 090
+
+  ≈9,500 words of new pastoral commentary per language. All quotes
+  from saints inline-attributed and visually demarcated. The H2 label
+  *A pastoral reading* — distinct from *St. Thomas teaches* — signals
+  editorial-vs-verbatim provenance to the reader.
+
+**Total commits since baseline (85b4ac2):**
+  * 1 build mechanic fix (orphan-H2 trim at Pius X slice tail)
+  * 1 build infrastructure addition (editorial layer + label + render
+    branch + book.json description spelling out which H2 carries
+    verbatim and which carries editorial)
+  * 1 mass formatting commit (Aquinas en-US Scripture citations:
+    882 rewrites across 40 chapters, idempotent script preserved)
+  * 1 propagation rebuild commit
+  * 1 Aquinas chapter-headers commit (4 dense chapters, EN + PT,
+    via parallel sub-agent)
+  * 1 Aquinas lay-reader introduction chapter (EN + PT, signed
+    "The Ember editors", inserted as first TOC entry)
+  * 25 editorial-reading commits (one per session, each EN + PT,
+    each with substantial commit message naming the saints quoted
+    and the doctrinal moves made)
+  * 4 journal commits documenting the four phases
+
+**What was deliberately deferred:**
+  * `/import-book` for The Imitation of Christ (multi-evening project;
+    queued for next time)
+  * Session reordering (the traditional catechetical order has 500
+    years of pedagogical wisdom and shouldn't be disrupted casually)
+  * Lord's Prayer petition editorials (082-089) and remaining
+    Decalogue editorials (037-044, 047, 051-052) — natural next batch
+    when work resumes
+  * Resurrection-of-the-body session 022 / 033 editorial
+  * Session 015 (Incarnation) — already 397 lines of rich material;
+    editorial would be supplemental rather than filling a gap
 
 
