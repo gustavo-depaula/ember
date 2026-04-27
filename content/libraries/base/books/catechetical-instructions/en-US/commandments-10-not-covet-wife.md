@@ -18,24 +18,24 @@ The second way is by not giving an opening to thoughts which of themselves are t
 
 The fourth way is to keep oneself busy with wholesome occupations: "Idleness hath taught much evil."[^19] Again: "This was the iniquity of Sodom thy sister, pride, fullness of bread, and abundance, and the idleness of her."[^20] St. Jerome says: "Be always busy in doing something good, so that the devil may find you ever occupied." Now, study of the Scriptures is the best of all occupations, as St. Jerome tells us: "Love to study the Scriptures and you will not love the vices of the flesh."[^21]
 
-[^1]: John, ii. 16.
-[^2]: The text of Exodus xx. 17, which contains the Ninth and Tenth Commandments, reads as follows: "Thou shalt not covet thy neighbour’s house: neither shalt thou desire his wife, nor his servant, nor his hand-maid, nor his ox, nor his ass, nor anything that is his."
-[^3]: Ps. cxi. 3.
+[^1]: John 2:16.
+[^2]: The text of Exodus 20:17, which contains the Ninth and Tenth Commandments, reads as follows: "Thou shalt not covet thy neighbour’s house: neither shalt thou desire his wife, nor his servant, nor his hand-maid, nor his ox, nor his ass, nor anything that is his."
+[^3]: Psalm 111:3.
 [^4]: "He [the pastor] will show how these two Commandments are dissimilar; how one covetousness looks only to utility and interest (the tenth), the other to unlawful desire and criminal pleasure (the ninth). If one covets a field or house, he acts out of desire for gain or utility, while he who covets another man's wife yields to a desire for criminal pleasure rather than monetary gain" ("Roman Catechism," "loc. cit., 2).
 [^5]: "Concupiscence, the fuel of sin, which originated in sin, is always present in our fallen nature: from it we know that we are born in sin, and, therefore, we suppliantly fly to Him who alone can efface the sordid stains of sin" ("Roman Catechism," "loc. cit.," 5).
-[^6]: Rom., vii. 18.
+[^6]: Romans 7:18.
 [^7]: "lbid.," vi. 12.
-[^8]: Matt., v. 28.
-[^9]: Matt., xii. 34.
-[^10]: Eph., iv. 29.
-[^11]: Rom., vi. 19.
-[^12]: Ecclus., ix. 5-9.
-[^13]: Prov., vi. 27.
-[^14]: Gen., xix. 17.
-[^15]: Cor., ix. 27.
-[^16]: Ps. cxxvi. 1.
-[^17]: Wis., viii. 21.
-[^18]: Matt., xvii. 20.
-[^19]: Ecclus., xxxiii. 29.
-[^20]: Ezech., xvi. 49.
+[^8]: Matthew 5:28.
+[^9]: Matthew 12:34.
+[^10]: Ephesians 4:29.
+[^11]: Romans 6:19.
+[^12]: Sirach 9:5-9.
+[^13]: Proverbs 6:27.
+[^14]: Genesis 19:17.
+[^15]: Corinthians 9:27.
+[^16]: Psalm 126:1.
+[^17]: Wisdom 8:21.
+[^18]: Matthew 17:20.
+[^19]: Sirach 33:29.
+[^20]: Ezekiel 16:49.
 [^21]: "Ad Paulin."

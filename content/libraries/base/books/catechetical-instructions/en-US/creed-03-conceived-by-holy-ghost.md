@@ -34,29 +34,29 @@ Indeed, after the Incarnation the Angel would not permit St. John to adore him, 
 
 Finally, by consideration of all this, our desire to come to Christ is intensified. If a king had a brother who was away from him a long distance, that brother would desire to come to the king to see, to be with him and to abide with him. So also Christ is our brother, and we should desire to be with Him and to be united to Him. "Wheresoever the body shall be, there shall the eagles also gathered together."[^25] The Apostle desired "to be dissolved and be with Christ."[^26] And it is this desire which grows in us as we meditate upon the Incarnation of Christ.
 
-[^1]: John, i. 1-13.
-[^2]: "Ibid.," i. 14.
+[^1]: John 1:1-13.
+[^2]: "Ibid.," 1:14.
 [^3]: See above, p. 17.
-[^4]: Baruch, iii. 38.
+[^4]: Baruch 3:38.
 [^5]: Hypostasis is person distinct from nature, as in the one hypostasis of Christ as distinct from His two natures, human and divine; also distinct from substance, as in the three hypostases of the Godhead, which are the same in substance.
-[^6]: Isa., vii. 1.
-[^7]: Matt., xxv. 41.
-[^8]: John, vi. 38.
-[^9]: Luke, xxiv. 39.
+[^6]: Isaiah 7:1.
+[^7]: Matthew 25:41.
+[^8]: John 6:38.
+[^9]: Luke 24:39.
 [^10]: We believe and confess that the same Jesus Christ, our only Lord, the son of God when He assumed human flesh for us in the womb of the virgin. was not conceived iike other men, from the seed of man but in a manner above the order of nature, i. e., by the power of the Holy Ghost; so that the same Person, remaining God as He was from all eternity, became man, what He was not before" ("Roman Catechism," Third Article, 1).
-[^11]: Matt., i. 20.
-[^12]: Luke, i.
-[^13]: Gal., iv. 4.
-[^14]: John, xii, 27.
-[^15]: Matt., xxvi. 38.
-[^16]: Phil. ii. 7.
-[^17]: John viii. 40.
-[^18]: "Ibid.," i. 18.
+[^11]: Matthew 1:20.
+[^12]: Luke 1.
+[^13]: Galatians 4:4.
+[^14]: John 12:27.
+[^15]: Matthew 26:38.
+[^16]: Philippians 2:7.
+[^17]: John 8:40.
+[^18]: "Ibid.," 1:18.
 [^19]: Thus, in the Mass, when the Priest puts wine and water in the chalice, he says: ". . . Grant that by the mystery of this water and wine we may be made partakers of His Divinity who vouchsafed to become partakers of our humanity, Jesus Christ, Thy Son, Our Lord."
 [^20]: "Et sic factus est homo, ut hominem faceret Deum."
-[^21]: John. iii. 16.
+[^21]: John 3:16.
 [^22]: "The Word, who is a Person of the divine nature, assumed human nature in such a manner that there should be one and the same Person in both the divine and human natures" ("Roman Catechism," "loc. cit.," 2).
-[^23]: "And after I had heard and seen, I fell down to adore before the feet of the Angel who showed me these things. And he said to me: 'See thou do it not' " (Apoc., xxii. 8).
-[^24]: II Peter, i, 4. "God deigned to assume the lowliness and frailty of our flesh in order to lift man up to the highest degree of dignity . . . We may now glory that the Son of God is bone of our bone, and flesh of our flesh, a privilege which is not granted to the Angels" ("Roman Catechism," "loc. cit.," 11).
-[^25]: Matt., xxiv. 28.
-[^26]: Phil., i. 23.
+[^23]: "And after I had heard and seen, I fell down to adore before the feet of the Angel who showed me these things. And he said to me: 'See thou do it not' " (Revelation 22:8).
+[^24]: 2 Peter 1:4. "God deigned to assume the lowliness and frailty of our flesh in order to lift man up to the highest degree of dignity . . . We may now glory that the Son of God is bone of our bone, and flesh of our flesh, a privilege which is not granted to the Angels" ("Roman Catechism," "loc. cit.," 11).
+[^25]: Matthew 24:28.
+[^26]: Philippians 1:23.

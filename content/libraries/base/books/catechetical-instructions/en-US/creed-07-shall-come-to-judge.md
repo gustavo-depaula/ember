@@ -32,35 +32,35 @@ The judgment ought indeed to be feared. (a) Because of the wisdom of the Judge. 
 
 Now, against this fear of the judgment we ought to have four remedies. The first is good works: "Wilt thou then not be afraid of the power? Do that which is good, and thou shalt have praise from the same."[^30] The second is confession and repentance for sins committed; and this ought to include sorrow in thinking of hem, feeling of shame in confessing them, and all severity in making satisfaction for them. And these will take away the eternal punishment. The third is giving of alms, which makes all things clean: "Make unto you friends of the mammon of iniquity; that when you shall fail, they may receive you into everlasting dwellings."[^31] The fourth is charity, viz., the love of God and our neighbour, for "charity covereth a multitude of sins."[^32]
 
-[^1]: Prov., xx. 8.
-[^2]: Acts, i. 11.
-[^3]: Acts, x. 42.
-[^4]: John, v. 27.
-[^5]: Job, xxxvi. 17.
-[^6]: Luke, xxi. 27.
-[^7]: II Cor., v. 10.
-[^8]: John, iii. 18.
-[^9]: Rom., vi. 23.
-[^10]: Matt., xix. 28.
-[^11]: I Cor., vi. 3.
-[^12]: Isa., iii. 14.
-[^13]: Eccles., xi. 9.
-[^14]: "Ibid.," xii. 14.
-[^15]: Matt., xii. 36.
-[^16]: Wis., i. 9.
-[^17]: Heb., iv. 13.
-[^18]: Prov., xvi. 2.
-[^19]: Wis., i. 10.
-[^20]: Jerem. xvii. 9-10.
-[^21]: Rom., ii. 15-16.
-[^22]: Isa., xl. 10.
-[^23]: Wis., v. 21.
-[^24]: Job, x. 7.
-[^25]: Ps., cxxxviii. 8.
-[^26]: Ps., lxxiv. 3.
-[^27]: Prov., vi. 34-35.
-[^28]: Isa., xxxiii. 17.
-[^29]: Apoc., vi. 16.
-[^30]: Rom., xiii. 3.
-[^31]: Luke, xvi. 9.
-[^32]: I Peter, iv. 8.
+[^1]: Proverbs 20:8.
+[^2]: Acts 1:11.
+[^3]: Acts 10:42.
+[^4]: John 5:27.
+[^5]: Job 36:17.
+[^6]: Luke 21:27.
+[^7]: 2 Corinthians 5:10.
+[^8]: John 3:18.
+[^9]: Romans 6:23.
+[^10]: Matthew 19:28.
+[^11]: 1 Corinthians 6:3.
+[^12]: Isaiah 3:14.
+[^13]: Ecclesiastes 11:9.
+[^14]: "Ibid.," 12:14.
+[^15]: Matthew 12:36.
+[^16]: Wisdom 1:9.
+[^17]: Hebrews 4:13.
+[^18]: Proverbs 16:2.
+[^19]: Wisdom 1:10.
+[^20]: Jeremiah 17:9-10.
+[^21]: Romans 2:15-16.
+[^22]: Isaiah 40:10.
+[^23]: Wisdom 5:21.
+[^24]: Job 10:7.
+[^25]: Psalm 138:8.
+[^26]: Psalm 74:3.
+[^27]: Proverbs 6:34-35.
+[^28]: Isaiah 33:17.
+[^29]: Revelation 6:16.
+[^30]: Romans 13:3.
+[^31]: Luke 16:9.
+[^32]: 1 Peter 4:8.

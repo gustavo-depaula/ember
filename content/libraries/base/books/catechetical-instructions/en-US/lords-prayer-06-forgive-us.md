@@ -30,21 +30,21 @@ But you may think, "I shall say what goes first in the petition, namely, 'forgiv
 
 But one may ask whether he who does not intend to forgive his neighbour ought to say: "As we forgive those who trespass against us." It seems not, for such is a lie. But actually it must be said that he does not lie, because he prays not in his own person, but in that of the Church which is not deceived, and, therefore the petition itself is in the plural number.[^16] And it must also be known that forgiveness is twofold. One applies to the perfect, where the one offended seeks out the offender: "Seek after peace."[^17] The other is common to all, and to it all are equally bound, that one offended grant pardon to the one who seeks it: "Forgive thy neighbour if he hath hurt thee; and then shall thy sins be forgiven to thee when thou prayest."[^18] And from this follows that other beatitude: "Blessed are the merciful." For mercy causes us to have pity on our neighbour.
 
-[^1]: Prov., xx. 18.
-[^2]: Dan., iv. 24.
+[^1]: Proverbs 20:18.
+[^2]: Daniel 4:24.
 [^3]: "In this petition we find a new manner of prayer. In the other petitions we asked of God not only eternal and spiritual goods, but also transient and temporal advantages. But now we ask to be liberated from the evils of the soul and of the body. of this life and of the life to come" ("Roman Catechism," "Lord's Prayer," Chapter XIV, 1).
 [^4]: Literally, our debts; that is, the difference between what we ought to give God and actually do not give Him. "The type of offense requiring expiation, a sin" (Oxford English Dictionary). What we pray for is that God may deliver us from sin This is the interpretation of St. Luke, who, instead of 'debts,' uses the word 'sins, because through our sins we become guilty before God and incur a debt of punishment which we must pay either by satisfaction or by suffering. . . . With regard to serious sins, however, this petition cannot procure forgiveness unless it derive that efficacy from the Sacrament of Penance, received, as we have already said, either actually or at least in desire' ( Roman Catechism," "loc. cit.," 15).
 [^5]: "De Natura et gratia," XXXVI.
-[^6]: I John, i. 8.
-[^7]: Eph., iv. 19.
-[^8]: Matt., xviii. 32.
-[^9]: Ps. xxxi. 5.
+[^6]: 1 John 1:8.
+[^7]: Ephesians 4:19.
+[^8]: Matthew 18:32.
+[^9]: Psalm 31:5.
 [^10]: See Editor's Note in English Translation of "Summa Theologica Supplement," Q. xviii, art. 1, which says: "St. Thomas here follows the opinion of Peter Lombard. . . . Later in life he altered his opinion. Cfr. P. III, Q. lxvii, art. I; Q. lxiv, art. I; Q. lxxxvi. art. 6." See footnote below.
 [^11]: The effects of the Sacrament of Penance are: (1) sanctifying grace is imparted whereby the guilt of mortal sin is taken away and at the same time the guilt of eternal punishment; (2) the guilt of temporal punishment is more or less remitted according to the dispositions of the penitent "and the disposition can be such that in virtue of contrition the entire punishment is removed," says St. Thomas (IV Sent., Dist. xviii, art. 3, sol. 2, ad. 4). The Council of Trent (Session XIV, cap. 2) teaches that this entire remission of punishment, which is obtained through Baptism, is not obtained through the Sacrament of Penance "without much tears and labors" ("magnis nostris fletibus et laboribus"). For other effects of this Sacrament, such as the bestowal of sacramental grace and the revival of the merits of former good works, see the Manuals of Moral Theology (e.g., Aertnys- Damen, II, lib. VI, tract. v, n. 272).
 [^12]: See footnote above.
 [^13]: An indulgence is a remission of that temporal punishment which, even after the sin is forgiven, we have yet to undergo either here or in purgatory. Indulgences derive their value and efficacy from the spiritual treasury of the Church. which consists of the superabundant merits of Christ, His Blessed Mother. and the Saints. This treasury is to be considered as the common property of the faithful, committed to the administration of the Church. In virtue of the Communion of Saints, by which we are united as members of one body, the abundance of some supplies for the want of others. The Council of Trent (Session XXV) points out to all the faithful that the use of indulgences is very salutary.
-[^14]: Ecclus., xxviii. 3.
-[^15]: Luke, vi. 37.
+[^14]: Sirach 28:3.
+[^15]: Luke 6:37.
 [^16]: "Nor do we say 'forgive me,' but 'forgive us,' because the brotherly relationship and charity which subsist between all men demand of each of us that, being solicitous for the salvation of our neighbour, we pray also for them while offering prayers for ourselves" ("Roman Catechism," "loc. cit.," 16).
-[^17]: Ps. xxxiii. 15.
-[^18]: Ecclus., xxviii. 2.
+[^17]: Psalm 33:15.
+[^18]: Sirach 28:2.

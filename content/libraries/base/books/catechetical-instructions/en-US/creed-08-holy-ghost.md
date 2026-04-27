@@ -27,34 +27,34 @@ Many benefits come to us from the Holy Ghost. (1) He cleanses us from our sins. 
 (5) He counsels us when we are in doubt, and teaches us what is the will of God: "He that hath an ear let him hear what the Spirit saith to the churches."[^31] Likewise: "I may hear him as a master."[^32]
 
 [^1]: See above, p. 17.
-[^2]: "So faith also, if it have not works, is dead in itself" (James, ii. 17).
-[^3]: Heb., iv. 12.
+[^2]: "So faith also, if it have not works, is dead in itself" (James 2:17).
+[^3]: Hebrews 4:12.
 [^4]: "De Trinitate," ix. 1O.
-[^5]: Rom., v. 5.
+[^5]: Romans 5:5.
 [^6]: "And I believe in the Holy Ghost, (1) the Lord and (2) Life-giver, (3) who proceeds from the Father and the son: (4) who together with the Father and the son is adored and glorified (5) who spoke by the Prophets" (The Nicene Creed).
-[^7]: Heb, i. 14.
+[^7]: Hebrews 1:14.
 [^8]: lohn, iv. 24.
-[^9]: II Cor., iii. 17.
+[^9]: 2 Corinthians 3:17.
 [^10]: "Ibid."
 [^11]: "Cum ipse Deus sit vita animae, sicut anima vita corporis."
-[^12]: John, vi. 64.
-[^13]: John, iv. 23.
-[^14]: Matt., xxviii. 19.
+[^12]: John 6:64.
+[^13]: John 4:23.
+[^14]: Matthew 28:19.
 [^15]: "The Holy Ghost is equally God with the Father and the Son, equaily omnipoent, eternal, perfect, the supreme good, infinitely wise and of the same nature with the Father and the Son. . . . If the Father is God, and the son, God, we must confess that the Holy Ghost, who is united with them in the same degree of honour, is also God. . . . The Holy Ghost is God, the third Person in the divine nature, distinct from the Father and the son, and produced by their will" ("Roman Catechism," Eighth Article, 4-5).
-[^16]: II Peter, i. 21.
-[^17]: Isa., xlviii. 16.
-[^18]: Wis., xi. 25.
+[^16]: 2 Peter 1:21.
+[^17]: Isaiah 48:16.
+[^18]: Wisdom 11:25.
 [^19]: Div. Nom., IV.
-[^20]: Ps. ciii. 30.
-[^21]: Luke, vii. 47.
-[^22]: Prov., x. 12.
-[^23]: I Peter, iv. 8.
-[^24]: John, xiv. 26.
-[^25]: I John, ii. 27.
-[^26]: John, xiv. 23.
-[^27]: Ezech., xxxvi. 26-27.
-[^28]: Eph., i. 13.
-[^29]: Rom., viii. 15-16.
-[^30]: Gal., iv. 6.
-[^31]: Apoc., ii.
-[^32]: Isa., l. 4.
+[^20]: Psalm 103:30.
+[^21]: Luke 7:47.
+[^22]: Proverbs 10:12.
+[^23]: 1 Peter 4:8.
+[^24]: John 14:26.
+[^25]: 1 John 2:27.
+[^26]: John 14:23.
+[^27]: Ezekiel 36:26-27.
+[^28]: Ephesians 1:13.
+[^29]: Romans 8:15-16.
+[^30]: Galatians 4:6.
+[^31]: Revelation 2.
+[^32]: Isaiah 50:4.

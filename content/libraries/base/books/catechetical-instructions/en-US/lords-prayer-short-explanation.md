@@ -8,5 +8,5 @@ We must avoid and flee from all things which are opposed to the good. For, as we
 
 The second good is eternal life, to which sin is contrary: because eternal life is lost by sin. And so to remove this evil we pray: "Forgive us our trespasses as we forgive those who trespass against us." The third good is justice and good works, and temptation is contrary to this, because temptation hinders us from doing good. We pray, therefore, to have this evil taken away in the words: "Lead us not into temptation." The fourth good is all the necessaries of life, and opposed to this are troubles and adversities. And we seek to remove them when we pray: "But deliver us from evil. Amen."
 
-[^16]: Matt., vi. 33.
-[^17]: Job, xxxv. 6, 7.
+[^16]: Matthew 6:33.
+[^17]: Job 35:6, 7.

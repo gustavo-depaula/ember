@@ -32,28 +32,28 @@ If you seek an example of obedience, imitate Him who was obedient to the Father 
 
 If you seek an example of contempt for earthly things, imitate Him who is the King of kings, the Lord of rulers, in whom are all the treasures of wisdom; but on the Cross He was stripped naked, ridiculed, spat upon, bruised, crowned with thorns, given to drink of vinegar and gall, and finally put to death. How falsely, therefore, is one attached to riches and raiment, for: "They parted My garments amongst them; and upon My vesture they cast lots."[^24] How falsely to honors, since "I was covered with lashes and insults;" how falsely to positions of power, because "taking a crown of thorns, they placed it upon My brow;" how falsely to delicacies of the table, for "in My thirst they gave Me to drink of vinegar." Thus, St. Augustine, in commenting on these words, "Who, having joy set before Him, endured the Cross despising the shame,"[^25] says: "The man Christ despised all earthly things in order to teach us to despise them.
 
-[^1]: Acts, xiii. 41 (quoting Hab., i. 5).
+[^1]: Acts 13:41 (quoting Habakkuk 1:5).
 [^2]: "As Christ was true and perfect man, He was capable of truly dying. Now, man dies when the soul is separated from the body. When, therefore, we say that Jesus died, we mean this, that His soul was disunited from His body. We do not admit, however, that the Divinity was separated from His Body. On the contrary, we firmly believe and profess that when His soul was dissociated from His body, His Divinity continued always united both to His body in the sepulchre and to His soul in limbo" ("Roman Catechism," Fourth Article, 6).
 [^3]: See above, p. 6.
-[^4]: Bar., iii. 10-11.
-[^5]: Apoc., i. 5.
-[^6]: Heb., x. 28-29.
-[^7]: Wis., xiv. 9.
-[^8]: Rom., v. 10.
-[^9]: Rom., vi. 6.
-[^10]: I Pet., ii. 24.
-[^11]: Luke, xxiii. 43.
-[^12]: Heb., x.
-[^13]: John, xv. 13.
-[^14]: Ps. cxv. 12.
-[^15]: Lament., i. 12.
-[^16]: Pet., ii. 23.
-[^17]: Isa., liii. 7.
-[^18]: Matt., xxvi. 53.
-[^19]: Heb., xii. 1-2.
-[^20]: Job, xxxvi. 17.
-[^21]: Wis., ii. 20.
-[^22]: Phil., ii. 8.
-[^23]: Rom., v. 19.
-[^24]: Ps. xxi. 19.
-[^25]: Heb., xii. 2.
+[^4]: Baruch 3:10-11.
+[^5]: Revelation 1:5.
+[^6]: Hebrews 10:28-29.
+[^7]: Wisdom 14:9.
+[^8]: Romans 5:10.
+[^9]: Romans 6:6.
+[^10]: 1 Peter 2:24.
+[^11]: Luke 23:43.
+[^12]: Hebrews 10.
+[^13]: John 15:13.
+[^14]: Psalm 115:12.
+[^15]: Lamentations 1:12.
+[^16]: Peter 2:23.
+[^17]: Isaiah 53:7.
+[^18]: Matthew 26:53.
+[^19]: Hebrews 12:1-2.
+[^20]: Job 36:17.
+[^21]: Wisdom 2:20.
+[^22]: Philippians 2:8.
+[^23]: Romans 5:19.
+[^24]: Psalm 21:19.
+[^25]: Hebrews 12:2.

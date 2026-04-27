@@ -138,7 +138,7 @@
 
 5. Discuss the four classes of those to be judged.
 
-6. What sentence will be pronounced at the last judgment? (See Matt., xxv, 34-41-)
+6. What sentence will be pronounced at the last judgment? (See Matthew 25:34-41-)
 
 7. Why should we have a wholesome fear of the judgment?
 
@@ -170,7 +170,7 @@
 
 4. Show that the Catholic Church merits the title or mark of "catholic," despite the fact that there are non-Catholics.
 
-5. St. Thomas classifies the elements which make up the mark, "apostolicity." Discuss how these elements are contained in the text of St. Matthew, xvi, 18 (see footnote 29).
+5. St. Thomas classifies the elements which make up the mark, "apostolicity." Discuss how these elements are contained in the text of St. Matthew 16:18 (see footnote 29).
 
 6. Why is it necessary that the Church of Christ have marks?
 
@@ -218,7 +218,7 @@
 
 ## The First Commandment
 
-1. Recall in detail the circumstances when God gave the Ten Commandments to Moses; and also when Christ confirmed them (see Exodus, xx. 2-17; Matt., v. 17-18, xix. 17-20).
+1. Recall in detail the circumstances when God gave the Ten Commandments to Moses; and also when Christ confirmed them (see Exodus 20:2-17; Matthew 5:17-18, 19:17-20).
 
 2. Discuss how all the Commandments are founded on the two precepts of love of God and love of neighbour.
 
@@ -376,7 +376,7 @@
 
 2. What is the form of the Sacrament of Penance?
 
-3. Our Lord instituted this Sacrament when, after the Resurrection, He breathed upon the Apostles and said: "Receive you the Holy Ghost; whose sins you shall forgive they are forgiven, and whose sins you shall retain they are retained" (John, xx. 22-23; Matt., xvi. 19). Did Christ mean that this power would cease at the deaths of the Apostles?
+3. Our Lord instituted this Sacrament when, after the Resurrection, He breathed upon the Apostles and said: "Receive you the Holy Ghost; whose sins you shall forgive they are forgiven, and whose sins you shall retain they are retained" (John 20:22-23; Matthew 16:19). Did Christ mean that this power would cease at the deaths of the Apostles?
 
 4. Discuss the practical value of the Sacrament of Penance.
 
@@ -390,7 +390,7 @@
 
 1. Name and discuss the various orders according to their importance (see "Roman Catechism" for special treatment of each order).
 
-2. Our Lord instituted the Sacrament of Holy Orders when He gave the Apostles and their successors in the priesthood the power to offer the Sacrifice of the Mass (at the Last Supper: "Do this for a commemoration of Me," Luke, xxi. 19), and when He breathed on the Apostles and gave them the power to remit or to retain sins (on the day of the Resurrection, John, xx. 23). From this discuss the power and dignity of the priest.
+2. Our Lord instituted the Sacrament of Holy Orders when He gave the Apostles and their successors in the priesthood the power to offer the Sacrifice of the Mass (at the Last Supper: "Do this for a commemoration of Me," Luke 21:19), and when He breathed on the Apostles and gave them the power to remit or to retain sins (on the day of the Resurrection, John 20:23). From this discuss the power and dignity of the priest.
 
 3. What is the effect of the Sacrament of Holy Orders?
 
@@ -414,7 +414,7 @@
 
 3. Discuss the connection between "fervor" and "brevity" in our prayers.
 
-4. Discuss the qualities of the prayers made by the Publican and the Samaritan (Luke, xviii. 10-14).
+4. Discuss the qualities of the prayers made by the Publican and the Samaritan (Luke 18:10-14).
 
 5. Enlarge upon the three effects of prayer mentioned by St. Thomas. Why is the Our Father called the "Lord's Prayer"?
 
@@ -474,7 +474,7 @@ Explain how the gifts of knowledge and wisdom teach us to pray that God's will b
 
 3. "Give us this day our daily bread" includes our prayer to avoid five sins associated with the temporal needs of man. What are these sins, and what are the means of avoiding them?
 
-4. What does St. Thomas say about excessive solicitude for the things of this world? What well-known sermon of Our Lord does he recall? (See Matt., vi. 24-34.)
+4. What does St. Thomas say about excessive solicitude for the things of this world? What well-known sermon of Our Lord does he recall? (See Matthew 6:24-34.)
 
 5. "Bread" here means all our temporal wants and our spiritual needs as well. Explain how this refers particularly to the Holy Eucharist.
 
@@ -552,4 +552,4 @@ Explain how the gifts of knowledge and wisdom teach us to pray that God's will b
 
 13. The last part of the Hail Mary was added by the Church. Explain this prayer.
 
-14. How is the Mother of God also our Mother? Recall the words of Our Lord to Mary spoken while He was dying on the cross (John, xix. 25-27)
+14. How is the Mother of God also our Mother? Recall the words of Our Lord to Mary spoken while He was dying on the cross (John 19:25-27)

@@ -26,31 +26,31 @@ Thus, there is an endless strife between the flesh and the spirit, and man is co
 
 By means of this petition we arrive at the happiness of those who mourn, as it is written: "Blessed are they that mourn; for they shall be comforted."[^24] This can be applied to each of the threefold explanations we have given above. According to the first we desire eternal life. And in this very desire we are brought to a mourning of soul: "Woe is me, that my sojourning is prolonged."[^25] This desire in the Saints is so vehement that because of it they wish for death, which in itself is something naturally to be avoided: "But we are confident and have a good will to be absent rather from the body and to be present with the Lord."[^26] Likewise, according to our second explanation- -viz., that we will to keep the Commandments --they who do so are in sorrow. For although such be sweet for the soul, it is bitter indeed for the flesh which is continually kept in discipline. "Going, they went and wept," which refers to the flesh, "But coming, they shall come with joyfulness," which pertains to the soul.[^27] Again, from our third explanation (that is, concerning the struggle which is ever going on between the flesh and the spirit), we see that this too causes sorrow. For it cannot but happen that the soul be wounded by the venial faults of the flesh; and so in expiating for these the soul is in mourning. "Every night," that is, the darkness of sin, "I will wash my bed [that is, my conscience] with my tears."[^28] Those who thus sorrow will arrive at the Fatherland, where may God bring us also!
 
-[^1]: Ps. cxviii. 66.
-[^2]: Prov. iii. 5.
-[^3]: "Ibid.," xxvi. 12.
-[^4]: "Ibid.," xi. 2.
-[^5]: John, vi. 38.
+[^1]: Psalm 118:66.
+[^2]: Proverbs 3:5.
+[^3]: "Ibid.," 26:12.
+[^4]: "Ibid.," 11:2.
+[^5]: John 6:38.
 [^6]: "Now, this is what we implore when we address lhese words to God: 'Thy will be done.' We have fallen into this state of misery by disobeying and despising the divine will. Now, God deigns to propose to us, as the sole corrective of all our evils, a conformity to His will which by our sins we despised. He commands us to regulate all our thoughts and actions by this standard. And to be able to accomplish this is our aim when we humbly say this prayer to God: 'Thy will be done' " ("Roman Catechism," "Lord's Prayer,"Chapter xli, 8).
-[^7]: Ps. clxxiv. 6.
-[^8]: Ps. lxxxviii. 48.
-[^9]: John, vi. 10.
-[^10]: Matt., xix. 17.
-[^11]: Rom., xii. 1-2.
-[^12]: Isa., xlviii. 11.
-[^13]: Ps. xcvi. 11.
-[^14]: Matt., v. 48.
+[^7]: Psalm 174:6.
+[^8]: Psalm 88:48.
+[^9]: John 6:10.
+[^10]: Matthew 19:17.
+[^11]: Romans 12:1-2.
+[^12]: Isaiah 48:11.
+[^13]: Psalm 96:11.
+[^14]: Matthew 5:48.
 [^15]: "When, therefore, we pray, 'Thy will be done,' we first of all ask our Heavenly Father to enable us to obey His divine commands, and to serve Him all the days of our lives in holiness and justice. Likewise that we do all things in accord with His will and pleasure, that we perform all the duties prescribed for us in the sacred writings and thus, guided and assisted by Him, so conduct ourselves in all things as becomes those 'who are born, not of the will of flesh but of God' " ("Roman Catechism," "loc. cit.," 12).
 [^16]: "Super Verbum Apost.," XV.
-[^17]: Zach., i.
-[^18]: I Cor., xv. 10.
-[^19]: Rom., vii. 23.
-[^20]: Gal., v. 17.
-[^21]: Thess., iv. 3.
-[^22]: I Cor., xv. 44.
-[^23]: "When we say, 'Thy will be done,' we expressly detest the works of the flesh, of which the Apostle writes: 'The works of the flesh are manifest, which are fornication, uncleanness, immodesty, lust, etc.' (Gal., v. 19); 'if you live according to the flesh you shall die' (Rom. viii. 13). We also pray God not to permit us to yield to the suggestions of sensual appetite, of our lusts, of our infirmities, but to govern our will by His will" ("Roman Catechism," "loc. cit.," 14).
-[^24]: Matt., v. 5.
-[^25]: Ps. cxix. 5.
-[^26]: II Cor., v. 8.
-[^27]: Ps. cxxv. 6.
-[^28]: Ps. vi. 7.
+[^17]: Zechariah 1.
+[^18]: 1 Corinthians 15:10.
+[^19]: Romans 7:23.
+[^20]: Galatians 5:17.
+[^21]: Thessalonians 4:3.
+[^22]: 1 Corinthians 15:44.
+[^23]: "When we say, 'Thy will be done,' we expressly detest the works of the flesh, of which the Apostle writes: 'The works of the flesh are manifest, which are fornication, uncleanness, immodesty, lust, etc.' (Galatians 5:19); 'if you live according to the flesh you shall die' (Romans 8:13). We also pray God not to permit us to yield to the suggestions of sensual appetite, of our lusts, of our infirmities, but to govern our will by His will" ("Roman Catechism," "loc. cit.," 14).
+[^24]: Matthew 5:5.
+[^25]: Psalm 119:5.
+[^26]: 2 Corinthians 5:8.
+[^27]: Psalm 125:6.
+[^28]: Psalm 6:7.

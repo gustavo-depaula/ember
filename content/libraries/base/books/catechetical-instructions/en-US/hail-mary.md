@@ -48,42 +48,42 @@ Eve looked for pleasure in the fruit of the tree because it was good to eat. But
 
 The fruit which Eve desired was beautiful to look upon, but that Fruit of the Blessed Virgin is far more beautiful, for the Angels desire to look upon Him: "Thou art beautiful above the sons of men."[^35] He is the splendor of the glory of the Father. Eve, therefore, looked in vain for that which she sought in the fruit of the tree, just as the sinner is disappointed in his sins. We must seek in the Fruit of the womb of the Virgin Mary whatsoever we desire. This is He who is the Fruit blessed by God, who has filled Him with every grace, which in turn is poured out upon us who adore Him: "Blessed be God and the Father of our Lord Jesus Christ, who hath blessed us with spiritual blessings in Christ."[^36] He, too, is revered by the Angels: "Benediction and glory and wisdom and thanksgiving, honour and power and strength, to our God."[^37] And He is glorified by men: "Every tongue should confess that the Lord Jesus Christ is in the glory of God the Father."[^38] The Blessed Virgin is indeed blessed, but far more blessed is the Fruit of her womb: "Blessed is He who cometh in the name of the Lord."[^39]
 
-[^1]: Luke i. 28.
+[^1]: Luke 1:28.
 [^2]: "Ibid.," 42.
 [^3]: The Hail Mary or Angelical Salutation or Ave Maria in the time of St. Thomas consisted only of the present first part of the prayer. The words, "Mary" and "Jesus," were added by the Church to the first part, and the second part--"Holy Mary, Mother of God, etc."--was also added by the Church later. "Most fittingly has the Holy Church of God added to this thanksgiving [i.e., the Hail Mary] a petition also and an invocation to the most holy Mother of God. This is to impress upon us the need to have recourse to her in order that by her intercession she may reconcile God with us sinners, and obtain for us the blessings necessary for this life and for life eternal" ("Roman Catechism," "On Prayer," Chapter V, 8).
-[^4]: Ps. ciii. 4.
-[^5]: Gen., xviii. 27.
-[^6]: Dan. vii. 10.
-[^7]: Ps. liv. 8.
-[^8]: Job, xxv. 3.
-[^9]: Cant., iv. 7.
-[^10]: I John, i. 8.
+[^4]: Psalm 103:4.
+[^5]: Genesis 18:27.
+[^6]: Daniel 7:10.
+[^7]: Psalm 54:8.
+[^8]: Job 25:3.
+[^9]: Song of Songs 4:7.
+[^10]: 1 John 1:8.
 [^11]: "De natura et gratia," c. xxxvi. Elsewhere St. Thomas says: "In the Angelic Salutation is shown forth the worthiness of the Blessed virgin for this conception when it says, 'Full of grace;; it expresses the Conception itself in the words, 'The Lord is with thee'; and it foretells the honour which will follow with the words, 'Blessed art thou among women' " ("Summa Theol.," III, Q. xxx, art. 4).
 [^12]: St. Thomas wrote before the solemn definition of the Immaculate conception by the Church and at a time when the subject was still a matter of controversy among theologians. In an earlier work, however, he pronounced in favor of the doctrine (I Sent., c. 44 Q. i, ad. 3), although he seemingly concluded against it in the "Summa Theologica." "Yet much discussion has arisen as to whether St. Thomas did or did not deny that the Blessed virgin was immaculate at the instant of her animation ("Catholic Encyclopedia." art. "Immaculate Conception"). On December 8, 1854, Pope Pius IX settled the question in the following definition: "Mary. ever blessed Virgin in the first instant of her conception, by a singular privilege and grace granted by God, in view of the merits of Jesus Christ, the Saviour of the human race, was preserved exempt from all stain of original sin."
-[^13]: Luke, i. 38.
+[^13]: Luke 1:38.
 [^14]: "Ibid.," 48.
 [^15]: "Ibid.," 34.
 [^16]: "Ibid.," 35.
-[^17]: Cant., iv. 4.
-[^18]: Eccl., xxiv. 25.
-[^19]: Isa., lviii. 11.
+[^17]: Song of Songs 4:4.
+[^18]: Ecclesiastes 24:25.
+[^19]: Isaiah 58:11.
 [^20]: "The Blessed Virgin Mary obtained such a plenitude of grace that she was closest of all creatures to the Author of Grace; and thus she received in her womb Him who is full of grace. and by giving Him birth she is in a certain manner the source of grace for all men" ("Summa Theol.," III, Q. xxvii, art. 5). St. Bernard says: "It is God's will that we should receive all graces through Mary" ("Serm. de aquaeductu," n. vii). Mary is called the "Mediatrix of all Graces," and her mediation is immediate and universal, subordinate however to that of Jesus.
-[^21]: Luke. i.
-[^22]: Isa., xii. 6.
+[^21]: Luke 1.
+[^22]: Isaiah 12:6.
 [^23]: Antiphon from the Little Office of Blessed Virgin.
-[^24]: Luke. i.
+[^24]: Luke 1.
 [^25]: "Totius Trinitatis nobile Triclinium."
-[^26]: Isa., xxxv. 2.
-[^27]: I Cor., vii. 34.
-[^28]: Ps. cxxxi. 8.
-[^29]: Prov., xiii. 22.
+[^26]: Isaiah 35:2.
+[^27]: 1 Corinthians 7:34.
+[^28]: Psalm 131:8.
+[^29]: Proverbs 13:22.
 [^30]: Here St. Thomas compares the fruit of the forbidden tree for Eve with the Fruit of Mary's womb for all Christians.
-[^31]: Gen., iii
-[^32]: John, viii. 44.
-[^33]: I John, iii. 2.
-[^34]: John, vi. 55.
-[^35]: Ps. xliv. 3.
-[^36]: Eph., i. 3.
-[^37]: Apoc., vii. 12.
-[^38]: Phil., ii. 11.
-[^39]: Ps. cxvii. 26.
+[^31]: Genesis 3
+[^32]: John 8:44.
+[^33]: 1 John 3:2.
+[^34]: John 6:55.
+[^35]: Psalm 44:3.
+[^36]: Ephesians 1:3.
+[^37]: Revelation 7:12.
+[^38]: Philippians 2:11.
+[^39]: Psalm 117:26.

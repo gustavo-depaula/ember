@@ -24,23 +24,23 @@ The fourth and final reason is that Christ might free the just who were in hell 
 
 (For "Questions for Discussions" see pp. 181-194.)
 
-[^1]: "Hell here means those far-removed places in which are detained those souls that have not been awarded the happiness of heaven. . . These places are not of the same nature. There is that most abominable and most dark prison where the souls of the damned, together with the unclean spirits, are punished in eternal and unquenchable fire. This is gehenna or the 'abyss,' and is Hell, strictly so-called. There also is the fire of Purgatory, in which the suffering souls of the just are purified for a definite time in order that they be permitted to enter into the everlasting Fatherland, where nothing unclean is admitted. . . The third and last place is that in which the souls of the just before the coming of the Lord were received; there without any pain, sustained by the blessed hope of the redemption, they enjoyed a quiet repose. It was to these souls who waited in the bosom of Abraham that Christ the Lord descended, and whom He delivered" ("Roman Catechism," Fifth Article, Chapter VI, 2-3). Therefore, "He descended into hell" means that the soul of Jesus Christ, after His death, descended into Limbo, i.e., to the place where the souls of the just who died before Christ were detained, and were waiting for the time of their redemption. St. Peter writes: "He was put to death indeed in the flesh. but enlivened in the spirit, in which also coming, He preached to those spirits that were in prison" (I Peter, iii, 18-19). "We profess that immediately after the death of Christ, His soul descended into hell, and remained there as long as His body was in the sepulchre; and we believe also that the one Person of Christ was at the same time in hell and in the tomb" ("Roman Catechism," "loc. cit.," 1).
+[^1]: "Hell here means those far-removed places in which are detained those souls that have not been awarded the happiness of heaven. . . These places are not of the same nature. There is that most abominable and most dark prison where the souls of the damned, together with the unclean spirits, are punished in eternal and unquenchable fire. This is gehenna or the 'abyss,' and is Hell, strictly so-called. There also is the fire of Purgatory, in which the suffering souls of the just are purified for a definite time in order that they be permitted to enter into the everlasting Fatherland, where nothing unclean is admitted. . . The third and last place is that in which the souls of the just before the coming of the Lord were received; there without any pain, sustained by the blessed hope of the redemption, they enjoyed a quiet repose. It was to these souls who waited in the bosom of Abraham that Christ the Lord descended, and whom He delivered" ("Roman Catechism," Fifth Article, Chapter VI, 2-3). Therefore, "He descended into hell" means that the soul of Jesus Christ, after His death, descended into Limbo, i.e., to the place where the souls of the just who died before Christ were detained, and were waiting for the time of their redemption. St. Peter writes: "He was put to death indeed in the flesh. but enlivened in the spirit, in which also coming, He preached to those spirits that were in prison" (1 Peter 3:18-19). "We profess that immediately after the death of Christ, His soul descended into hell, and remained there as long as His body was in the sepulchre; and we believe also that the one Person of Christ was at the same time in hell and in the tomb" ("Roman Catechism," "loc. cit.," 1).
 [^2]: See last footnote. This place is also called Limbo.
-[^3]: Ps. lxxxvii. 5. "They descended as captives; He as free and victorious amongst the dead, to overcome those devils by whom, in consequence of their guilt, they were held in captivity" ("Roman Catechism," "loc. cit.," 5).
-[^4]: Ecclus., xxiv. 45.
+[^3]: Psalm 87:5. "They descended as captives; He as free and victorious amongst the dead, to overcome those devils by whom, in consequence of their guilt, they were held in captivity" ("Roman Catechism," "loc. cit.," 5).
+[^4]: Sirach 24:45.
 [^5]: This refers to the temptation of Our Lord in the desert.
-[^6]: John, xii. 31.
+[^6]: John 12:31.
 [^7]: St. Thomas says that the soul of Christ descended to the hell of the just or to Limbo "per suam essentiam," but to the hell of the damned only "per suum effectum" ("Summa Theol.," III, Q. lii, Art. 2).
-[^8]: Col., ii. 15.
-[^9]: Phil., ii. Io
-[^10]: Mark, xvi. 17.
-[^11]: Zach.. ix. 11.
-[^12]: Osee, xiii. 14.
+[^8]: Colossians 2:15.
+[^9]: Philippians 2. Io
+[^10]: Mark 16:17.
+[^11]: Zechariah 9:11.
+[^12]: Hosea 13:14.
 [^13]: Italics added.
 [^14]: Wis., 13-14.
-[^15]: Ecclus., xxxiv. 16.
-[^16]: Matt., xxv. 46.
-[^17]: Isa., xxxviii. 10.
-[^18]: Ecclus., vii. 40.
-[^19]: Job, xix. 21.
-[^20]: II Mach., xii. 46.
+[^15]: Sirach 34:16.
+[^16]: Matthew 25:46.
+[^17]: Isaiah 38:10.
+[^18]: Sirach 7:40.
+[^19]: Job 19:21.
+[^20]: 2 Maccabees 12:46.

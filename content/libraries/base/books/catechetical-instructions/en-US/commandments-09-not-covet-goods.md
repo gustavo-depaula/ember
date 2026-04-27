@@ -11,18 +11,18 @@ Thirdly, covetousness in a man of wealth renders his riches useless both to hims
 Finally, covetousness produces all kinds of wickedness. It is "the root of all evil," says St. Paul, and when this root is implanted in the heart it brings forth murder and theft and all kinds of evil. "They that will become rich, fall into temptation, and into the snare of the devil, and into many unprofitable and hurtful desires which drown men in destruction and perdition. For the desire of money is the root of all evil."[^15] And note, furthermore, that covetousness is a mortal sin when one covets one's neighbour’s goods without reason; and even if there be a reason, it is a venial sin.[^16]
 
 [^1]: St. Thomas places the Tenth Commandment (in the present traditional enumeration) before the Ninth. The Tenth Commandment is wider in extension than the Ninth, which is specific. The "Roman Catechism" ("Ninth and Tenth Commandments" 1) treats both the Ninth and Tenth Commandments together, and remarks that "what is commanded in these two precepts amounts to this, that to observe the preceding Commandments we must be particularly careful not to covet. For he who does not covet, being content with what he has, will not desire what belongs to others, but will rejoice in their prosperity, giving glory to God."
-[^2]: Ps. lxxii. 26.
-[^3]: I Kings, xvi. 7.
-[^4]: Eccles., v. 9.
+[^2]: Psalm 72:26.
+[^3]: 1 Samuel 16:7.
+[^4]: Ecclesiastes 5:9.
 [^5]: "Confessions," I.
-[^6]: Ps. cii. 5.
-[^7]: Eccles., v. 11.
-[^8]: Matt. vi. 21.
-[^9]: Luke viii. 14.
-[^10]: Ecclus., xiv. 3.
-[^11]: Exod., xxiii. 8.
-[^12]: Ecclus., xxxi. 5.
-[^13]: "Ibid.," vii. 20.
-[^14]: Matt., vi. 24.
-[^15]: I Tim., vi. 9, 10.
+[^6]: Psalm 102:5.
+[^7]: Ecclesiastes 5:11.
+[^8]: Matthew 6:21.
+[^9]: Luke 8:14.
+[^10]: Sirach 14:3.
+[^11]: Exodus 23:8.
+[^12]: Sirach 31:5.
+[^13]: "Ibid.," 7:20.
+[^14]: Matthew 6:24.
+[^15]: 1 Timothy 6:9, 10.
 [^16]: "Another reason for these two Commandments is that they clearly and in definite terms forbid some things not expressly prohibited in the Sixth and Seventh Commandments. The Seventh Commandment, for instance, forbids an unjust desire to take what belongs to another; but the Tenth Commandment further prohibits even to covet it in any way, even though it could be acquired justly and lawfully--if we foresee that by such acquisition our neighbour would suffer some loss. . . . Another reason why this sort of vicious desire is condemned is that it has for its object that which belongs to another, such as a house, maidservant, field, wife, ox, ass, and many other things, all of which the law of God forbids us to covet, simply because they belong to another. The desire for such things, when consented to, is criminal, and is numbered among the most grievous sins. When the mind, yielding to the impulse of evil desires, is pleased with evil or does not resist it, sin is necessarily committed" ("Roman Catechism," loc. cit.," 11).

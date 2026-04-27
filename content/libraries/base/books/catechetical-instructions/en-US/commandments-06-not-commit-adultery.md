@@ -22,30 +22,30 @@ But one might say that there is no reason why fornication should be a mortal sin
 
 Moreover, it must be known that the Commandment, "Thou shalt not commit adultery," not only forbids adultery but also every form of immodesty and impurity.[^14] There are some who say that intercourse between married persons is not devoid of sin. But this is heretical, for the Apostle says: "Let marriage be honorable in all and the bed undefiled."[^15] Not only is it devoid of sin, but for those in the state of grace it is meritorious for eternal life. Sometimes, however, it may be a venial sin, sometimes a mortal sin. When it is had with the intention of bringing forth offspring, it is an act of virtue. When it is had with the intent of rendering mutual comfort, it is an act of justice. When it is a cause of exciting lust, although within the limits of marriage, it is a venial sin; and when it goes beyond these limits, so as to intend intercourse with another if possible, it would be a mortal sin.
 
-Adultery and fornication are forbidden for a number of reasons. First of all, because they destroy the soul: "He that is an adulterer, for the folly of his heart shall destroy his own soul."[^16] It says: "for the folly of his heart," which is whenever the flesh dominates the spirit. Secondly, they deprive one of life; for one guilty of such should die according to the Law, as we read in Leviticus (xx. 10) and Deuteronomy (xxii. 22). Sometimes the guilty one is not punished now bodily, which is to his disadvantage since punishment of the body may be borne with patience and is conducive to the remission of sins; but nevertheless he shall be punished in the future life. Thirdly, these sins consume his substance, just as happened to the prodigal son in that "he wasted his substance living riotiously."[^17] "Give not thy soul to harlots in any point; lest thou destroy thyself and thy inheritance."[^18] Fourthly, they defile the offspring: "The children of adulterers shall not come to perfection, and the seed of the unlawful bed shall be rooted out. And if they live long they shall be nothing regarded, and their last old age shall be without honour."[^19] And again: "Otherwise your children should be unclean; but now they are holy."[^20] Thus, they are never honored in the Church, but if they be clerics their dishonor may go without shame. Fifthly, these sins take away one's honour, and this especially is applicable to women: "Every woman that is a harlot shall be trodden upon as dung in the way."[^21] And of the husband it is said: "He gathereth to himself shame and dishonor, and his reproach shall not be blotted out."[^22]
+Adultery and fornication are forbidden for a number of reasons. First of all, because they destroy the soul: "He that is an adulterer, for the folly of his heart shall destroy his own soul."[^16] It says: "for the folly of his heart," which is whenever the flesh dominates the spirit. Secondly, they deprive one of life; for one guilty of such should die according to the Law, as we read in Leviticus (20:10) and Deuteronomy (22:22). Sometimes the guilty one is not punished now bodily, which is to his disadvantage since punishment of the body may be borne with patience and is conducive to the remission of sins; but nevertheless he shall be punished in the future life. Thirdly, these sins consume his substance, just as happened to the prodigal son in that "he wasted his substance living riotiously."[^17] "Give not thy soul to harlots in any point; lest thou destroy thyself and thy inheritance."[^18] Fourthly, they defile the offspring: "The children of adulterers shall not come to perfection, and the seed of the unlawful bed shall be rooted out. And if they live long they shall be nothing regarded, and their last old age shall be without honour."[^19] And again: "Otherwise your children should be unclean; but now they are holy."[^20] Thus, they are never honored in the Church, but if they be clerics their dishonor may go without shame. Fifthly, these sins take away one's honour, and this especially is applicable to women: "Every woman that is a harlot shall be trodden upon as dung in the way."[^21] And of the husband it is said: "He gathereth to himself shame and dishonor, and his reproach shall not be blotted out."[^22]
 
 St. Gregory says that sins of the flesh are more shameful and less blameful than those of the spirit, and the reason is because they are common to the beasts: "Man when he was in honour did not understand; and he hath been compared to senseless beasts, and made like to them."[^23]
 
-[^1]: Gen., ii. 24.
+[^1]: Genesis 2:24.
 [^2]: "The bond between husband and wife is one of the strictest union, and nothing can be more gratifying to both than to realize that they are objects of mutual and undivided affection. On the other hand, nothing inflicts greater anguish than to feel that the legitimate love which they owe to each other has been transferred elsewhere. This Commandment which prohibits adultery follows properly and in order that which protects human life against the hand of the murderer" ("Roman Catechism," "Sixth Commandment," 1). St. Thomas treats of this Commandment also in the "Summa Theol.," II-II, Q. cxxii, art. 6; Q. cliv.
-[^3]: Ecclus., xxiii. 32, 33.
-[^4]: Matt., xix. 6.
-[^5]: Mal., ii. 14.
-[^6]: Cor., vii. 4.
-[^7]: Prov., ii. 17-18.
-[^8]: I Cor., vii. 4.
-[^9]: I Peter, iii. 7.
-[^10]: I Cor., xiv. 34-35.
-[^11]: Heb., xiii. 4.
-[^12]: I Cor., vi. 9.
-[^13]: I Cor., vi. 15.
+[^3]: Sirach 23:32, 33.
+[^4]: Matthew 19:6.
+[^5]: Malachi 2:14.
+[^6]: Corinthians 7:4.
+[^7]: Proverbs 2:17-18.
+[^8]: 1 Corinthians 7:4.
+[^9]: 1 Peter 3:7.
+[^10]: 1 Corinthians 14:34-35.
+[^11]: Hebrews 13:4.
+[^12]: 1 Corinthians 6:9.
+[^13]: 1 Corinthians 6:15.
 [^14]: "By the prohibition of adultery, every kind of impurity and immodesty by which the body is defiled is also forbidden. Nay more, even every inward thought against chastity is forbidden by this Commandment. . . . You have heard that it was said to them of old: Thou shalt not commit adultery. But I say to you, that whcsoever shall look on a woman to lust after her, hath already committed adultery with her in his heart." ("Roman Catechism," "loc. cit.," 5).
-[^15]: Heb., xiii. 4.
-[^16]: Prov., vi. 32.
-[^17]: Luke, xv. 13.
-[^18]: Ecclus., ix. 6.
-[^19]: Wis., iii. 16-17.
-[^20]: I Cor., vii. 14.
-[^21]: Ecclus., ix. 10.
-[^22]: Prov., vi. 33.
-[^23]: Ps.xlviii. 21. "If the occasions of sin which we have just enumerated [viz., idleness, intemperance in eating and drinking, indulgence of the eyes, immodest dress, immodest conversation and reading] be carefully avoided, almost every excitement to lust will be removed. But the most efficacious means to subdue its violence are frequent use of confession and reception of the Holy Eucharist. Unceasing and devout prayer to God, accompanied by fasting and giving of alms, has the same salutary effect. Chastity is a gilt of God. To those who ask it aright, He does not deny it; nor does He allow us to be tempted beyond our strength" ("Roman Catechism," "loc. cit.," 12).
+[^15]: Hebrews 13:4.
+[^16]: Proverbs 6:32.
+[^17]: Luke 15:13.
+[^18]: Sirach 9:6.
+[^19]: Wisdom 3:16-17.
+[^20]: 1 Corinthians 7:14.
+[^21]: Sirach 9:10.
+[^22]: Proverbs 6:33.
+[^23]: Psalm 48:21. "If the occasions of sin which we have just enumerated [viz., idleness, intemperance in eating and drinking, indulgence of the eyes, immodest dress, immodest conversation and reading] be carefully avoided, almost every excitement to lust will be removed. But the most efficacious means to subdue its violence are frequent use of confession and reception of the Holy Eucharist. Unceasing and devout prayer to God, accompanied by fasting and giving of alms, has the same salutary effect. Chastity is a gilt of God. To those who ask it aright, He does not deny it; nor does He allow us to be tempted beyond our strength" ("Roman Catechism," "loc. cit.," 12).

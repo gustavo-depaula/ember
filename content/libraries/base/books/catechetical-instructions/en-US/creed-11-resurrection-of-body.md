@@ -40,26 +40,26 @@ It must be known that the good will enjoy a special glory because the blessed wi
 
 It must also be known that the condition of the damned will be the exact contrary to that of the blessed. Theirs is the state of eternal punishment, which has a fourfold evil condition. The bodies of the damned will not be brilliant: "Their countenances shall be as faces burnt." 20 Likewise they shall be passible, because they shall never deteriorate and, although burning eternally in fire, they shall never be consumed: "Their worm shall not die and their fire shall not be quenched."[^21] They will be weighed down, and the soul of the damned will be as it were chained therein: "To bind their kings with fetters, and their nobles with manacles of iron."[^22] Finally, they will be in a certain manner fleshly both in soul and body: "The beasts have rotted in their dung."[^23]
 
-[^1]: Rom., iv. 24.
-[^2]: I Cor., xv. 21. "In this Article the resurrection of mankind is called 'the resurrection of the body.' The Apostles had for object thus to convey an important truth, the immortality of the soul. Lest, therefore, contrary to the Sacred Scripturess, which in many places clearly teach the soul to be immortal, any one may imagine that it dies with the body, and denies that both are to be raised up, the Creed speaks only of 'the resurrection of the body' " ("Roman Catechism," Eleventh Article, 2).
-[^3]: I Thess., iv. 12.
-[^4]: Heb., ii. 14.
-[^5]: I Cor., xv. 19.
-[^6]: John, v.
-[^7]: I Cor., xv. 53.
-[^8]: Job, xix. 26. "The identical body which belongs to each one of us during life shall, though corrupt, and dissolved into its original dust, be raised up again to life. . . . Man is, therefore, to rise again in the same body with which he served God, or was a slave to the devil that in the same body he may experience rewards and a crown of victory, or endure the severest punishments and everlasting torments" ("Roman Catechism," "loc. cit.," 7).
-[^9]: I Cor., xv.
-[^10]: Matt., xxii. 30.
-[^11]: Job. vii. 10. "To omit many other points, the chief difference between the state of all bodies when risen from the dead, and what they had previously been, is that before the resurrection they were subject to dissolution; but when reanimated they shall all, without distinction of good and bad, be invested with immortality. This marvellous restoration of nature is the result of the glorious victory of Christ over death" ("Roman Catechism," "loc. cit.," 12).
-[^12]: I Cor., xv. 52.
+[^1]: Romans 4:24.
+[^2]: 1 Corinthians 15:21. "In this Article the resurrection of mankind is called 'the resurrection of the body.' The Apostles had for object thus to convey an important truth, the immortality of the soul. Lest, therefore, contrary to the Sacred Scripturess, which in many places clearly teach the soul to be immortal, any one may imagine that it dies with the body, and denies that both are to be raised up, the Creed speaks only of 'the resurrection of the body' " ("Roman Catechism," Eleventh Article, 2).
+[^3]: 1 Thessalonians 4:12.
+[^4]: Hebrews 2:14.
+[^5]: 1 Corinthians 15:19.
+[^6]: John 5.
+[^7]: 1 Corinthians 15:53.
+[^8]: Job 19:26. "The identical body which belongs to each one of us during life shall, though corrupt, and dissolved into its original dust, be raised up again to life. . . . Man is, therefore, to rise again in the same body with which he served God, or was a slave to the devil that in the same body he may experience rewards and a crown of victory, or endure the severest punishments and everlasting torments" ("Roman Catechism," "loc. cit.," 7).
+[^9]: 1 Corinthians 15.
+[^10]: Matthew 22:30.
+[^11]: Job 7:10. "To omit many other points, the chief difference between the state of all bodies when risen from the dead, and what they had previously been, is that before the resurrection they were subject to dissolution; but when reanimated they shall all, without distinction of good and bad, be invested with immortality. This marvellous restoration of nature is the result of the glorious victory of Christ over death" ("Roman Catechism," "loc. cit.," 12).
+[^12]: 1 Corinthians 15:52.
 [^13]: "Not only will the body rise, but it will rise endowed with whatever constitutes the reality of its nature and adorns and ornaments man. . . . The members, because essential to the integrity of human nature, shall all be restored. . . . For the resurrection like the creation, is clearly to be accounted among the chief works of God. And as at the creation all things came perfect from the hand of God, so at the resurrection all things shall be perfectly restored by the same omnipotent hand" ("Roman Catechism," "loc. cit.," 9).
-[^14]: Eph., iv. 13.
-[^15]: Matt., xiii. 43. "This brightness is a sort of refulgence reflected from the supreme happiness of the soul; it is an emanation of the beatitude which it enjoys and which shines through the body. Its communication is like to the manner in which the soul itself is made happy, by a participation of the happiness of God" ("Roman Catechism," "loc. cit.," 13).
-[^16]: I Cor., xv.
-[^17]: Apoc., xxi. 4. "The first is 'impassibility,' which shall place them beyond the reach of pain or inconvenience of any sort. . . . This quality the Scholastics called 'impassibility,' not incorruption, in order to distinguish it as a property peculiar to a glorified body. The bodies of the damned shall not be impassible, though incorruptible; they shall be capable of experiencing heat and cold and of feeling pain." ("Roman Catechism," "ibid.").
-[^18]: Wis., iii. 7. "Agility, as it is called, is a quality by which the body shall be freed from the heaviness that now presses it down; and shall acquire a capability of moving with the utmost ease and quickness wheresoever the soul pleases" ("Roman Catechism," "ibid.").
-[^19]: I Cor., xv. 44. "Another quality is that of subtility, a quality which subjects the body to the absolute dominion of the soul, and to an entire obedience to her control" ("Roman Catechism," "ibid.").
-[^20]: Isa., xiii. 8.
-[^21]: "Ibid., lxvi. 24.
-[^22]: Ps. cxlix. 8.
-[^23]: Joel, i. 17.
+[^14]: Ephesians 4:13.
+[^15]: Matthew 13:43. "This brightness is a sort of refulgence reflected from the supreme happiness of the soul; it is an emanation of the beatitude which it enjoys and which shines through the body. Its communication is like to the manner in which the soul itself is made happy, by a participation of the happiness of God" ("Roman Catechism," "loc. cit.," 13).
+[^16]: 1 Corinthians 15.
+[^17]: Revelation 21:4. "The first is 'impassibility,' which shall place them beyond the reach of pain or inconvenience of any sort. . . . This quality the Scholastics called 'impassibility,' not incorruption, in order to distinguish it as a property peculiar to a glorified body. The bodies of the damned shall not be impassible, though incorruptible; they shall be capable of experiencing heat and cold and of feeling pain." ("Roman Catechism," "ibid.").
+[^18]: Wisdom 3:7. "Agility, as it is called, is a quality by which the body shall be freed from the heaviness that now presses it down; and shall acquire a capability of moving with the utmost ease and quickness wheresoever the soul pleases" ("Roman Catechism," "ibid.").
+[^19]: 1 Corinthians 15:44. "Another quality is that of subtility, a quality which subjects the body to the absolute dominion of the soul, and to an entire obedience to her control" ("Roman Catechism," "ibid.").
+[^20]: Isaiah 13:8.
+[^21]: "Ibid., 66:24.
+[^22]: Psalm 149:8.
+[^23]: Joel 1:17.

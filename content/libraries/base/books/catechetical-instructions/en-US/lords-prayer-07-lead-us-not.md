@@ -30,31 +30,31 @@ How Is One Freed from Temptation?--Now we have seen what temptation is, and also
 
 But does God lead one to evil, that he should pray: "Lead us not into temptation"? I reply that God is said to lead a person into evil by permitting him to the extent that, because of his many sins, He withdraws His grace from man, and as a result of this withdrawal man does fall into sin. Therefore, we sing in the Psalm: "When my strength shall fail, do not Thou forsake me."[^23] God, however, directs man by the fervor of charity that he be not led into temptation. For charity even in its smallest degree is able to resist any kind of sin: "Many waters cannot quench charity."[^24] He also guides man by the light of his intellect in which he teaches him what he should do. For as the Philosopher says: "Every one who sins is ignorant."[^25] "I will give thee understanding and I will instruct thee."[^26] It was for this last that David prayed, saying: "Enlighten my eyes that I never sleep in death; lest at any time my enemy say: I have prevailed against him."[^27] We have this through the gift of understanding. Therefore, when we refuse to consent to temptation, we keep our hearts pure: "Blessed are the clean of heart, for they shall see God."[^28] And it follows from this petition that we are led up to the sight of God, and to it may God lead us all!
 
-[^1]: Isa., i. 16.
+[^1]: Isaiah 1:16.
 [^2]: "We should implore the divine assistance in general under all temptations, and especially when we are assailed by any particular temptation" ("Roman Catechism," "Lord's Prayer," Chapter XV, 15).
-[^3]: Ps. xxxiii. 15.
-[^4]: Gen., xxii: Job, i.
-[^5]: Deut., xiii. 3.
-[^6]: James, i. 13.
-[^7]: "Ibid.," i. 14.
-[^8]: Wis., ix. 15.
-[^9]: Rom., vii. 22-23.
-[^10]: Matt., xxvi. 41.
-[^11]: Eph., vi. 12.
-[^12]: I Thess., iii. 5.
-[^13]: I Peter, v. 8.
-[^14]: Cor., xi. 14.
-[^15]: Tim., vi. 10.
-[^16]: Job, xxxvii. 19.
-[^17]: II Tim., iii. 12.
-[^18]: Matt., x. 28.
-[^19]: James, i. 2.
-[^20]: Ecclus. ii. I .
+[^3]: Psalm 33:15.
+[^4]: Genesis 22: Job 1.
+[^5]: Deuteronomy 13:3.
+[^6]: James 1:13.
+[^7]: "Ibid.," 1:14.
+[^8]: Wisdom 9:15.
+[^9]: Romans 7:22-23.
+[^10]: Matthew 26:41.
+[^11]: Ephesians 6:12.
+[^12]: 1 Thessalonians 3:5.
+[^13]: 1 Peter 5:8.
+[^14]: Corinthians 11:14.
+[^15]: Timothy 6:10.
+[^16]: Job 37:19.
+[^17]: 2 Timothy 3:12.
+[^18]: Matthew 10:28.
+[^19]: James 1:2.
+[^20]: Sirach 2. I .
 [^21]: James., 12.
-[^22]: I Cor., x. 13.
-[^23]: Ps. lxx. 9.
-[^24]: Cant., viii. 7.
+[^22]: 1 Corinthians 10:13.
+[^23]: Psalm 70:9.
+[^24]: Song of Songs 8:7.
 [^25]: Aristotle, "Ethics." III, 1.
-[^26]: Ps. xxxi. 8.
-[^27]: Ps. xii. 4-5.
-[^28]: Matt., v. 8.
+[^26]: Psalm 31:8.
+[^27]: Psalm 12:4-5.
+[^28]: Matthew 5:8.
