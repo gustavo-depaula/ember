@@ -8,12 +8,12 @@ O Mandamento proíbe três coisas, em gravidade crescente:
 
   * **Blasfêmia**. O uso grave: um insulto deliberado contra Deus, a Mãe de Deus, os santos ou coisas santas. Aquino trata isto com severidade. A blasfêmia falada é matéria mortal; a blasfêmia cometida publicamente, em escárnio ou como performance, é ainda mais grave.
 
-Mas o Mandamento não é apenas uma lista de negativas. O lado oposto é a **reverência positiva ao Santo Nome**. A Igreja primitiva, sobretudo depois dos bernardinos medievais e da Companhia de Jesus, fez do *Santíssimo Nome de Jesus* uma devoção própria — inclinar a cabeça ao Seu nome no Credo, terminar cartas com *J.M.J.* (Jesus, Maria, José), pausar no *Adveniat regnum tuum* do Pai-Nosso. O IHS de Bernini na imagem de hoje é a culminação visual: o Nome *arde* porque o Nome **é luz**.
+Mas o Mandamento não é apenas uma lista de negativas. O lado oposto é a **reverência positiva ao Santo Nome**. A Igreja, sobretudo depois da pregação do Santo Nome por São Bernardino de Sena no século XV e do surgimento da Companhia de Jesus, fez do *Santíssimo Nome de Jesus* uma devoção própria — inclinar a cabeça ao Seu nome no Credo, terminar cartas com *J.M.J.* (Jesus, Maria, José), pausar no *Adveniat regnum tuum* do Pai-Nosso. O IHS de Bernini na imagem de hoje é a culminação visual: o Nome *arde* porque o Nome **é luz**.
 
 O que isto significa para a vida cotidiana?
 
   1. **Flagre um uso casual hoje**. Não se castigue; apenas note. Arrependa-se em silêncio. Recomece.
   2. **Substitua, não suprima**. Quando você diria *meu Deus*, diga *Senhor, tende piedade*. A mente tem um hábito; redirija-o, não tente amputá-lo.
-  3. **Honre o Nome com uso deliberado**. *Jesus*, dito como oração real num momento de medo, pânico, gratidão ou desejo — *isso* é o Santo Nome bem usado. São Bernardino: *Jesus é mel na boca, música no ouvido, alegria no coração*. O Nome se torna o ar que a alma respira.
+  3. **Honre o Nome com uso deliberado**. *Jesus*, dito como oração real num momento de medo, pânico, gratidão ou desejo — *isso* é o Santo Nome bem usado. O hino medieval *Jesu Dulcis Memoria*, tradicionalmente atribuído a São Bernardo de Claraval: *Jesus é mel na boca, música no ouvido, alegria no coração*. O Nome se torna o ar que a alma respira.
 
 *A maior parte das pragas do mundo são também oração inconsciente.* A ekphrase é exata. Da próxima vez que ouvir alguém dizer *Jesus Cristo* em susto ou ira, reze *Jesus Cristo, tende piedade dele* no seu coração. Reparo silencioso. O Nome não será desfeito pelo mau uso, mas será honrado, por você, com antecedência.
