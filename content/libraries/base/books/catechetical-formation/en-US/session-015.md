@@ -86,6 +86,22 @@ Finally, by consideration of all this, our desire to come to Christ is intensifi
 [^25]: Matthew 24:28.
 [^26]: Philippians 1:23.
 
+## A pastoral reading
+
+The doctrine the Creed is professing in this article is, in its bare form, mathematically impossible: **the eternal God became a particular human child, in a particular town, at a particular hour**. Christianity does not soften the claim. The Almighty did not *appear* as a man; He *became* one. He took a body — small fingernails, a temperature, a hunger for milk. The Word *was made flesh* (John 1:14). The verb is *factus est*: He was *made*. He did not just visit human nature; He took it as His own.
+
+Aquinas, in his Catechetical Instructions and elsewhere, walks the precision of this carefully:
+
+  * **Two natures, one Person.** The Council of Chalcedon (451) gave us the formula the Creed assumes: Christ is one Person — the eternal Son — *in two natures*, divine and human, *unmixed and unseparated*. This is not philosophical ornament. It is the only formula that holds up under what the Gospels say happened.
+  * **Conceived by the Holy Spirit, born of the Virgin Mary.** Christ has no human father. Mary is *truly* His mother — she gave Him His humanity from her own body. She is therefore *Theotokos*, **Mother of God** (the Council of Ephesus, 431, defended this title against those who tried to call her merely the mother of Christ's humanity). To say *Mother of God* is not Marian exaggeration; it is **Christological orthodoxy**. Refusing the title would be refusing the Incarnation itself.
+  * **Bethlehem.** Aquinas notes that even the place is theological. *Bethlehem* in Hebrew means *house of bread*. The One who would say *I am the bread of life* (John 6:35) was born in the *house of bread*. The cosmos pre-prepared its own poetry.
+
+The Murillo image (today's ekphrasis) is theologically exact in a way no homily can match. *A young woman holding the Almighty as a sleeping infant.* If you want to know what God thinks of you, look at the infant. He came as the *most reachable possible form* of God. A baby cannot defend itself; cannot argue; cannot impress. He chose this. *He is small enough to be reached.*
+
+This is also why Christians keep Christmas with a particular tenderness. The Incarnation reverses the ancient pagan instinct that the divine is high, distant, and reached only by sacrifice or initiation. The Christian God is the divinity of the manger — *the lowest place in the inn* — and the cross. Both are public places, accessible to anyone, including to you, today.
+
+The medieval contemplative practice was simple: place yourself in the stable. Watch Mary. Watch Joseph. Smell the straw. *Pick the child up.* This is **not** sentimental piety; it is the explicit advice of Ignatius, of Bonaventure, of Francis (who built the first creche). The Incarnation invites the imagination because it happened to imaginable senses. *The Word was made flesh*. Lean in.
+
 > **Scripture.** *And she brought forth her firstborn son, and wrapped him up in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.* — Luke 2:7
 
 > *Lord, You came small. Today, in what is small in my life, let me find You.*
