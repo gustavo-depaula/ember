@@ -37,25 +37,41 @@ Por último, afasta-nos do mal. Assim como a esperança da recompensa nos impele
 
 Há uma quádrupla condição comum a todos os que ressuscitarão.
 
-(a) A identidade dos corpos dos ressuscitados. — Será o mesmo corpo que é agora, tanto na carne como nos ossos. Alguns disseram, na verdade, que não seria este mesmo corpo corrompido o que ressuscitaria; mas tal opinião é contrária ao Apóstolo: «Convém que este corpo corruptível se revista de incorruptibilidade».[^7] E também a Sagrada Escritura diz que, pelo poder de Deus, este mesmo corpo ressuscitará para a vida: «E me revestirei novamente da minha pele, e em minha carne verei o meu Deus».[^8]
+### Identidade
 
-(b) A incorruptibilidade dos corpos ressuscitados. — Os corpos dos ressuscitados serão de qualidade diferente da do corpo mortal, porque serão incorruptíveis, tanto os dos bem-aventurados, que estarão sempre na glória, como os dos condenados, que estarão sempre nos castigos: «Pois convém que este corpo corruptível se revista de incorruptibilidade, e este corpo mortal se revista de imortalidade».[^9] E, como o corpo será incorruptível e imortal, não haverá mais o uso do alimento nem das relações conjugais: «Pois na ressurreição não casarão nem se darão em casamento, mas serão como Anjos de Deus no Céu».[^10] Isto vai diretamente contra os judeus e os maometanos: «Nem voltará mais à sua casa».[^11]
+Será o mesmo corpo que é agora, tanto na carne como nos ossos. Alguns disseram, na verdade, que não seria este mesmo corpo corrompido o que ressuscitaria; mas tal opinião é contrária ao Apóstolo: «Convém que este corpo corruptível se revista de incorruptibilidade».[^7] E também a Sagrada Escritura diz que, pelo poder de Deus, este mesmo corpo ressuscitará para a vida: «E me revestirei novamente da minha pele, e em minha carne verei o meu Deus».[^8]
 
-(c) A integridade dos corpos ressuscitados. — Tanto os bons como os maus ressuscitarão com toda a integridade do corpo, que é natural ao homem. Não será cego, nem surdo, nem terá qualquer defeito físico: «Os mortos ressuscitarão incorruptíveis»;[^12] isto é, totalmente livres dos defeitos da vida presente.[^13]
+### Incorruptibilidade
 
-(d) A idade dos corpos ressuscitados. — Todos ressuscitarão na condição da idade perfeita, que é a de trinta e dois ou trinta e três anos. Isto, porque todos os que ainda não tinham chegado a essa idade não a possuíam, e os velhos já a tinham perdido. Assim, aos jovens e às crianças se dará o que lhes falta, e aos idosos se restituirá o que tinham antes: «Até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao homem perfeito, à medida da estatura da plenitude de Cristo».[^14]
+Os corpos dos ressuscitados serão de qualidade diferente da do corpo mortal, porque serão incorruptíveis, tanto os dos bem-aventurados, que estarão sempre na glória, como os dos condenados, que estarão sempre nos castigos: «Pois convém que este corpo corruptível se revista de incorruptibilidade, e este corpo mortal se revista de imortalidade».[^9] E, como o corpo será incorruptível e imortal, não haverá mais o uso do alimento nem das relações conjugais: «Pois na ressurreição não casarão nem se darão em casamento, mas serão como Anjos de Deus no Céu».[^10] Isto vai diretamente contra os judeus e os maometanos: «Nem voltará mais à sua casa».[^11]
+
+### Integridade
+
+Tanto os bons como os maus ressuscitarão com toda a integridade do corpo, que é natural ao homem. Não será cego, nem surdo, nem terá qualquer defeito físico: «Os mortos ressuscitarão incorruptíveis»;[^12] isto é, totalmente livres dos defeitos da vida presente.[^13]
+
+### Idade
+
+Todos ressuscitarão na condição da idade perfeita, que é a de trinta e dois ou trinta e três anos. Isto, porque todos os que ainda não tinham chegado a essa idade não a possuíam, e os velhos já a tinham perdido. Assim, aos jovens e às crianças se dará o que lhes falta, e aos idosos se restituirá o que tinham antes: «Até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao homem perfeito, à medida da estatura da plenitude de Cristo».[^14]
 
 ## Condição dos bem-aventurados
 
 É preciso saber que os bons gozarão de uma glória especial, pois os bem-aventurados terão corpos glorificados, dotados de quatro dotes.
 
-(a) Claridade. — «Então os justos resplandecerão como o sol no reino de seu Pai».[^15]
+### Claridade
 
-(b) Impassibilidade (isto é, incapacidade de receber ação). — «Semeia-se em desonra; ressuscitará em glória».[^16] «E Deus enxugará toda lágrima dos seus olhos; e a morte já não existirá mais. Nem haverá mais luto, nem clamor, nem dor, porque as primeiras coisas passaram».[^17]
+«Então os justos resplandecerão como o sol no reino de seu Pai».[^15]
 
-(c) Agilidade. — «Os justos resplandecerão e correrão de uma para outra parte como faíscas no canavial».[^18]
+### Impassibilidade
 
-(d) Subtileza. — «Semeia-se um corpo natural, ressuscitará um corpo espiritual».[^19] Isto, no sentido de que o corpo não será inteiramente espírito, mas estará totalmente sujeito ao espírito.
+«Semeia-se em desonra; ressuscitará em glória».[^16] «E Deus enxugará toda lágrima dos seus olhos; e a morte já não existirá mais. Nem haverá mais luto, nem clamor, nem dor, porque as primeiras coisas passaram».[^17]
+
+### Agilidade
+
+«Os justos resplandecerão e correrão de uma para outra parte como faíscas no canavial».[^18]
+
+### Subtileza
+
+«Semeia-se um corpo natural, ressuscitará um corpo espiritual».[^19] Isto, no sentido de que o corpo não será inteiramente espírito, mas estará totalmente sujeito ao espírito.
 
 ## Condição dos condenados
 

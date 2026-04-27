@@ -16,25 +16,41 @@ Finally, it withdraws us from evil. Just as the hope of reward urges us to do go
 
 There is a fourfold condition of all those who shall take part in the resurrection.
 
-(a) The Identity of the Bodies of the Risen.--It will be the same body as it is now, both as regards its flesh and its bones. Some, indeed, have said that it will not be this same body which is corrupted that shall be raised up; but such view is contrary to the Apostle: "For this corruptible must put on incorruption."[^7] And likewise the Sacred Scripture says that by the power of God this same body shall rise to life: "And I shall be clothed again with my skin; and in my flesh I shall see my God."[^8]
+### Identity
 
-(b) The Incorruptibility of the Risen Bodies.--The bodies of the risen shall be of a different quality from that of the mortal body, because they shall be incorruptible, both of the blessed, who shall be ever in glory, and of the damned, who shall be ever in punishments: "For this corruptible must put on incorruption; and this mortal must put on immortality."[^9] And since the body will be incorruptible and immortal, there will no longer be the use of food or of the marriage relations: "For in the resurrection they shall neither marry nor be married, but shall be as the Angels of God in heaven."[^10] This is directly against the Jews and Mohammedans: "Nor shall he return any more into his house."[^11]
+It will be the same body as it is now, both as regards its flesh and its bones. Some, indeed, have said that it will not be this same body which is corrupted that shall be raised up; but such view is contrary to the Apostle: "For this corruptible must put on incorruption."[^7] And likewise the Sacred Scripture says that by the power of God this same body shall rise to life: "And I shall be clothed again with my skin; and in my flesh I shall see my God."[^8]
 
-(c) The Integrity of the Risen Bodies.--Both the good and the wicked shall rise with all soundness of body which is natural to man. He will not be blind or deaf or bear any kind of physical defect: "The dead shall rise again incorruptible,"[^12] this is to mean, wholly free from the defects of the present life.[^13]
+### Incorruptibility
 
-(d) The Age of the Risen Bodies.--All will rise in the condition of perfect age, which is of thirty-two or thirty-three years. This is because all who were not yet arrived at this age, did not possess this perfect age, and the old had already lost it. Hence, youths and children will be given what they lack, and what the aged once had will be restored to them: "Until we all attain the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fullness of Christ."[^14]
+The bodies of the risen shall be of a different quality from that of the mortal body, because they shall be incorruptible, both of the blessed, who shall be ever in glory, and of the damned, who shall be ever in punishments: "For this corruptible must put on incorruption; and this mortal must put on immortality."[^9] And since the body will be incorruptible and immortal, there will no longer be the use of food or of the marriage relations: "For in the resurrection they shall neither marry nor be married, but shall be as the Angels of God in heaven."[^10] This is directly against the Jews and Mohammedans: "Nor shall he return any more into his house."[^11]
+
+### Integrity
+
+Both the good and the wicked shall rise with all soundness of body which is natural to man. He will not be blind or deaf or bear any kind of physical defect: "The dead shall rise again incorruptible,"[^12] this is to mean, wholly free from the defects of the present life.[^13]
+
+### Age
+
+All will rise in the condition of perfect age, which is of thirty-two or thirty-three years. This is because all who were not yet arrived at this age, did not possess this perfect age, and the old had already lost it. Hence, youths and children will be given what they lack, and what the aged once had will be restored to them: "Until we all attain the unity of faith and of the knowledge of the Son of God, unto a perfect man, unto the measure of the age of the fullness of Christ."[^14]
 
 ## Condition of the Blessed
 
 It must be known that the good will enjoy a special glory because the blessed will have glorified bodies which will be endowed with four gifts.
 
-(a) Brilliance.--"Then shall the just shine as the sun in the kingdom of their Father."[^15]
+### Brilliance
 
-(b) Impassibility (i.e., Incapability of Receiving Action).--"It is sown in dishonor; it shall rise in glory." 16 "And God shall wipe away all tears from their eyes; and death shall be no more. Nor mourning, nor crying, nor sorrow shall be anymore, for the former things are passed away."[^17]
+"Then shall the just shine as the sun in the kingdom of their Father."[^15]
 
-(c) Agility.--"The just shall shine and shall run to and fro like sparks among the reeds."[^18]
+### Impassibility
 
-(d) Subtility.--"It is sown a natural body; it shall rise a spiritual body."[^19] This is in the sense of not being altogether a spirit, but that the body will be wholly subject to the spirit.
+"It is sown in dishonor; it shall rise in glory." 16 "And God shall wipe away all tears from their eyes; and death shall be no more. Nor mourning, nor crying, nor sorrow shall be anymore, for the former things are passed away."[^17]
+
+### Agility
+
+"The just shall shine and shall run to and fro like sparks among the reeds."[^18]
+
+### Subtility
+
+"It is sown a natural body; it shall rise a spiritual body."[^19] This is in the sense of not being altogether a spirit, but that the body will be wholly subject to the spirit.
 
 ## Condition of the Damned
 
