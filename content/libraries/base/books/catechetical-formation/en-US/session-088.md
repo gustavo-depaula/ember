@@ -56,6 +56,18 @@ But one may ask whether he who does not intend to forgive his neighbour ought to
 [^17]: Psalm 33:15.
 [^18]: Sirach 28:2.
 
+## A pastoral reading
+
+The fifth petition is the only one of seven that places a *condition* on God. The other six are pure asking; this one is a deal. *Forgive us our trespasses, **as** we forgive those who trespass against us.* Aquinas notices the strangeness immediately: *only in this petition is there a condition.* The little word *as* is meant to disturb you. Christ wanted you to feel it.
+
+The mechanism is theologically precise. **To forgive is not to say what was done was acceptable.** It is not to suppress the memory. It is not to feel warmly toward the person who hurt you. To forgive is to *renounce the inner claim* that you are owed something — owed pain returned for pain given. The cup of mercy runs over from God; what stops it from filling our own is our own hand still gripping the cup of resentment. God has poured out the entire treasury of His mercy on the Cross. What blocks the flow is our occupied hands.
+
+If you cannot bring yourself to forgive someone today — if the wound is fresh, the person dangerous, the betrayal recent — Aquinas's pastoral counsel is gentle and exact: **forgiveness is twofold**. The one we are *all* obliged to is the simpler form: *to grant pardon when the offender asks for it.* The harder, more perfect form — actively seeking out the offender, repairing the relationship — Aquinas does not require of every Christian. Begin with what is asked of all of us: when the offender comes, do not refuse him. Pray for the grace to *want* to forgive even when you cannot yet feel it.
+
+A sharp question Aquinas does not flinch from: *can I say "as we forgive those who trespass against us" if I do not yet really intend to forgive?* He answers carefully: when you pray it, you pray not only in your own person but **in the person of the Church**, which is undeceived and which forgives perfectly through Christ her Head. Pray it. Mean it as much as you can today. Mean it more tomorrow.
+
+The condition stands. So does the promise. *Forgive, and you shall be forgiven* (Luke 6:37). The day's image is the Father running before the speech is finished. Now turn the figures around: imagine yourself running like that toward the person you have not yet forgiven. That is what Christ is asking you to do, today, in your own heart at least.
+
 > **Scripture.** *For if you will forgive men their offences, your heavenly Father will forgive you also your offences.* — Matthew 6:14
 
 > *Father, name the person I am holding something against. Make me let go before You let go.*

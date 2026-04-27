@@ -113,6 +113,22 @@ O segundo bem é a vida eterna, à qual o pecado é contrário, porque a vida et
 [^16]: Mt 6, 33.
 [^17]: Jó 35, 6-7.
 
+## Uma leitura pastoral
+
+Em 2018 os bispos italianos, com a bênção do Papa Francisco, mudaram a tradução do Pai-Nosso na Missa: de *non ci indurre in tentazione* (não nos induzas à tentação) para *non abbandonarci alla tentazione* (não nos abandones à tentação). Em português a forma tradicional permanece (*não nos deixeis cair em tentação*, fórmula que já carregava esta nuance pastoral). As várias traduções não se contradizem; são modos diferentes de verter o grego *μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν*, e Aquino, acima, já resolve o aparente enigma de antemão.
+
+Ele distingue dois tipos de *tentação*. A palavra grega *peirasmos* significa **teste** ou **prova** — e os testes vêm de duas fontes muito diferentes. *Deus não tenta ninguém ao mal* (Tiago 1, 13) e Aquino é claro: *Deus não tenta o homem desse modo; Ele a ninguém tenta.* Mas Deus *às vezes* prova uma alma para tornar a sua virtude visível — Abraão com a mão sobre Isaac, Jó nas cinzas, o próprio Cristo no deserto que a imagem de hoje mostra. *Esse* tipo de prova vem de Deus, e o cristão a recebe. *Não nos deixeis cair em tentação* pede que sejamos **poupados do tipo de prova que exporia a nossa fraqueza**, pois talvez não a sobreviveríamos. Não pede que Deus se abstenha de um pecado que Ele não pode cometer. Pede que Ele nos livre de ser abandonados ao teste do inimigo.
+
+Aquino percorre as três fontes desse teste do inimigo:
+
+  * **A carne.** *Nenhuma praga é mais perigosa que um inimigo dentro de casa*, diz Aquino, citando Boécio. A carne está mais perto que o demônio. O jejum, o banho frio, o "nada de segunda taça" — são as disciplinas pelas quais a carne aprende o seu lugar.
+  * **O demônio.** Um inimigo *real* e pessoal, não uma metáfora para forças psicológicas. *Como um general hábil*, diz Aquino, *ele busca os pontos fracos do que vai atacar.* Ele tem uma estratégia. Nós também temos que ter.
+  * **O mundo.** Pio X acima acrescenta a terceira: a prosperidade que amolece, a adversidade que apavora. O mundo tenta em ambas as direções.
+
+A sétima petição é a resposta às três: *mas livrai-nos do mal*. Note: não do mal em geral, mas, na leitura de Aquino e na ambiguidade gramatical do grego, frequentemente *do Maligno* — o demônio pessoal que Cristo nomeou. Pedimos a libertação do seu poder.
+
+Depois vem o ***Amém***. Não é um ponto final verbal. A palavra hebraica significa *verdadeiramente, fielmente, assim seja*. Aquino o chama de *o selo da oração*: uma confissão de que a oração feita foi feita *na fé*, que cremos que o pedido foi ouvido, que entregamos o resultado ao Pai cujo Filho nos ensinou as palavras. O *Amém* do Pai-Nosso é o mesmo *Amém* que a assembleia diz ao fim da Oração Eucarística, quando o sacerdote ergue a hóstia: *Por Cristo, com Cristo, em Cristo, a Vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda a honra e toda a glória, agora e para sempre — Amém.* É a palavra mais forte do cristão.
+
 > **Escritura.** *Deus é fiel: não permitirá que sejais tentados além das vossas forças, mas, juntamente com a tentação, dará o meio de sair dela.* — 1 Coríntios 10, 13
 
 > *Senhor, hoje, na tentação que enfrentarei, ide à minha frente. Livrai-me, antes mesmo que eu perceba o perigo.*
