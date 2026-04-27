@@ -76,25 +76,25 @@ Then, again, if one were willing to believe only those things which one knows wi
 If, however, you would say that no one has witnessed these miracles, I would reply in this manner. It is a fact that the entire world worshipped idols and that the faith of Christ was persecuted, as the histories of the pagans also testify. But now all are turned to Christ--wise men and noble and rich-- converted by the words of the poor and simple preachers of Christ. Now, this fact was either miracle or it was not. If it is miraculous, you have what you asked for, a visible fact; if it is not, then there could not be a greater miracle than that the whole world should have been converted without miracles. And we need go no further. We are more certain, therefore, in believing the things of faith than those things which can be seen, because God's knowledge never deceives us, but the visible sense of man is often in error.[^21]
 
 [^1]: "The Catechism of the Council of Trent," known as the "Roman Catechism" (and so called throughout this book), thus introduces the explanation of the twelve Articles of the Creed: "The Christian religion proposes to the faithful many truths which either singly or all together must be held with a certain and firm faith. That which must first and necessarily be believed by all is that which God Himself has taught us as the foundation of truth and its summary concerning the unity of the Divine Essence, the distinction of Three Persons, and the actions which are by particular reason attributed to each. The pastor should teach that the Apostles' Creed briefly sets forth the doctrine of these mysteries. . . . The Apostles' Creed is divided into three principal parts. The first part describes the First Person of the Divine Nature and the marvellous work of the creation. The second part treats of the Second Person and the mystery of man's redemption. The third part concludes with the Third Person, the head and source of our sanctification. The varied and appropriate propositions of the Creed are called Articles, after a comparison often made by the Fathers; for just as the members of the body are divided by joints (articuli), so in this profusion of faith whatever must be distinctly and separately believed from everything else is rightly and aptly called an Article" (Part I, Chapter I, 4).
-[^2]: Osee, ii.
+[^2]: Hosea 2.
 [^3]: In the ceremony of administering The Sacrament of Baptism, the priest asks the Sponsor: "N., do you believe in God the Father Almighty, Creator of heaven and earth?"
-[^4]: Mark, xvi. 16.
-[^5]: Heb., xi. 6.
-[^6]: Rom., xiv. 23.
-[^7]: John, xvii. 3.
-[^8]: Heb., xi. 1.
-[^9]: John, xx. 29.
-[^10]: Hab., ii. 4.
-[^11]: Isa., xi. 9.
-[^12]: Heb., xi. 33.
-[^13]: I Peter v. 8.
-[^14]: I John, v. 4.
-[^15]: Eph., vi. 16.
-[^16]: Job, xxxvi. 26.
-[^17]: Ecclus., iii. 25.
-[^18]: I Tim., vi. 4.
-[^19]: II Tim., i. 12.
-[^20]: Ecclus., ii. 8.
+[^4]: Mark 16:16.
+[^5]: Hebrews 11:6.
+[^6]: Romans 14:23.
+[^7]: John 17:3.
+[^8]: Hebrews 11:1.
+[^9]: John 20:29.
+[^10]: Habakkuk 2:4.
+[^11]: Isaiah 11:9.
+[^12]: Hebrews 11:33.
+[^13]: 1 Peter 5:8.
+[^14]: 1 John 5:4.
+[^15]: Ephesians 6:16.
+[^16]: Job 36:26.
+[^17]: Sirach 3:25.
+[^18]: 1 Timothy 6:4.
+[^19]: 2 Timothy 1:12.
+[^20]: Sirach 2:8.
 [^21]: For the meaning of the word "faith" see the "Catholic Encyclopedia," vol. V. The necessity of faith is explained in St. Thomas, "Summa Theologica," II-II, Q. ii., 3, 4.
 
 > **Scripture.** *In the beginning God created heaven, and earth.* — Genesis 1:1

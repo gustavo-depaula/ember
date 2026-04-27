@@ -41,28 +41,28 @@ Thirdly, let us rise up again to an incorruptible life in that we may not die ag
 
 Fourthly, let us rise again to a new and glorious life by avoiding all that which formerly were the occasions and the causes of our death and sin: "As Christ is risen from the dead by the glory of the Father, so we also may walk in newness of life."[^23] This new life is the life of justice which renews the soul and leads it to the life of glory.
 
-[^1]: Wis., ix. 16.
-[^2]: John, iii. 31.
-[^3]: Wisd., ii. 1.
-[^4]: John, xi 1-
-[^5]: Luke, vii. 11-16.
-[^6]: Mark, v. 35-43.
-[^7]: John, x. 18.
-[^8]: Matt., xxvii. 50.
-[^9]: Matt., xxvii. 54.
-[^10]: Ps. iii. 6.
-[^11]: Acts, ii. 24.
-[^12]: Rom., vi. 4.
-[^13]: Matt., xxviii. 52.
-[^14]: I Cor., xv. 20.
-[^15]: Luke xxiv. 26.
-[^16]: Acts, xiv. 21.
+[^1]: Wisdom 9:16.
+[^2]: John 3:31.
+[^3]: Wisdom 2:1.
+[^4]: John 11:1-
+[^5]: Luke 7:11-16.
+[^6]: Mark 5:35-43.
+[^7]: John 10:18.
+[^8]: Matthew 27:50.
+[^9]: Matthew 27:54.
+[^10]: Psalm 3:6.
+[^11]: Acts 2:24.
+[^12]: Romans 6:4.
+[^13]: Matthew 28:52.
+[^14]: 1 Corinthians 15:20.
+[^15]: Luke 24:26.
+[^16]: Acts 14:21.
 [^17]: From the Nicene Creed.
 [^18]: "Chirst did not remain in the grave during all of these three days, but as He lay in the sepulchre during an entire natural day during part of the preceding day and part of the following day, he is said, in very truth, to have lain in the grave for three days, and on the third day to have risen again from the dead" ("Roman Catechism," "loc. cit., 10).
-[^19]: Eph., v. 14.
-[^20]: John, xx. 6.
-[^21]: Ecclus., v. 8.
-[^22]: Rom., vi. 9, 11-14.
+[^19]: Ephesians 5:14.
+[^20]: John 20:6.
+[^21]: Sirach 5:8.
+[^22]: Romans 6:9, 11-14.
 [^23]: "Ibid.," 4.
 
 > **Scripture.** *But now Christ is risen from the dead, the firstfruits of them that sleep.* — 1 Corinthians 15:20

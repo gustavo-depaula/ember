@@ -41,40 +41,40 @@ Nor shall the Church be destroyed by the temptations of the demons. For she is l
 
 This is as if He said: "They shall make war against thee, but they shall not overcome thee." And thus it is that only the Church of Peter (to whom it was given to evangelize Italy when the disciples were sent to preach) was always firm in faith. On the contrary, in other parts of the world there is either no faith at all or faith mixed with many errors. The Church of Peter flourishes in faith and is free from error. This, however, is not to be wondered at, for the Lord has said to Peter: "But I have prayed for thee, that thy faith fail not; and thou, being once converted, confirm thy brethren."[^34]
 
-[^1]: "For as the body is one and hath many members; and all the members of the body, whereas they are many, yet are one body, so also is Christ. For in one Spirit were we all baptized into one body. . . . For the body also is not one member, but many" (I Cor., xii. 12-14). For St. Paul's admirable description of the Church, Christ's mystical body, see all of this chapter.
+[^1]: "For as the body is one and hath many members; and all the members of the body, whereas they are many, yet are one body, so also is Christ. For in one Spirit were we all baptized into one body. . . . For the body also is not one member, but many" (1 Corinthians 12:12-14). For St. Paul's admirable description of the Church, Christ's mystical body, see all of this chapter.
 [^2]: "The word "ecclesia" (church) which is borrowed by the Latins from the Greek has been applied since the preaching of the Gospel to sacred things. The word "ecclesia" (church) means a calling forth, but writers afterwards used it to mean a council or assembly. . . . However, in the ordinary sense used in the Scriptures, the word was afterwards used to designate the Christian society only, and the assemblies of the faithful: that is, of those who were called by faith to the light of truth, and the knowledge of God" ("Roman Catechism," Ninth Article, 2).
-[^3]: Ecclus., li. 31.
+[^3]: Sirach 51:31.
 [^4]: "The distinctive marks of the Church are also to be made known to the faithful that they thus may be able to appreciate the extent of the blessing conferred by God on those who have the happiness to be born and educated in her fold" ("Roman Catechism," "loc. cit.," 2).
-[^5]: Cant., vi. 8.
-[^6]: I Cor., i. 10.
-[^7]: Eph., iv. 5.
+[^5]: Song of Songs 6:8.
+[^6]: 1 Corinthians 1:10.
+[^7]: Ephesians 4:5.
 [^8]: "Ibid." 4.
-[^9]: John, xvii. 22.
-[^10]: Eph., iv. 15-16.
-[^11]: Ps. xxv. 5.
-[^12]: I Cor., iii. 17.
-[^13]: Apoc., i. 5.
-[^14]: Heb., xiii. 12.
-[^15]: II Cor., i. 21.
-[^16]: I Cor., vi. 11.
-[^17]: Josue, v. 16; cfr. also Gen., xxviii. 16.
-[^18]: Ps. xcii, 5.
-[^19]: Jerem., xiv. 9.
-[^20]: I Cor., iii. 16-17. "It should not be considered surprising that the Church, although among her children are many sinners, is called holy. For as those who profess any art, even though they may violate its rules, are still artists, so the faithful, although offending in many things and violating the promises which they have made, are still called holy, because they are made the people of God, and are consecrated to Christ by baptism and faith" ("Roman Catechism," "loc. cit.," 15).
+[^9]: John 17:22.
+[^10]: Ephesians 4:15-16.
+[^11]: Psalm 25:5.
+[^12]: 1 Corinthians 3:17.
+[^13]: Revelation 1:5.
+[^14]: Hebrews 13:12.
+[^15]: 2 Corinthians 1:21.
+[^16]: 1 Corinthians 6:11.
+[^17]: Joshua 5:16; cfr. also Genesis 28:16.
+[^18]: Psalm 92:5.
+[^19]: Jeremiah 14:9.
+[^20]: 1 Corinthians 3:16-17. "It should not be considered surprising that the Church, although among her children are many sinners, is called holy. For as those who profess any art, even though they may violate its rules, are still artists, so the faithful, although offending in many things and violating the promises which they have made, are still called holy, because they are made the people of God, and are consecrated to Christ by baptism and faith" ("Roman Catechism," "loc. cit.," 15).
 [^21]: A sect which existed chiefly in Africa for about a century (311-411).
-[^22]: Rom., i. 8.
-[^23]: Mark. xvi. 15.
-[^24]: Gal., iii. 28.
-[^25]: Matt., xxviii. 20.
-[^26]: I Cor., iii. 11.
-[^27]: Apoc., xxi. 14.
-[^28]: As it is spoken of by Our Lord: "And I say to thee that thou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it" (Matt., xvi. 18).
+[^22]: Romans 1:8.
+[^23]: Mark 16:15.
+[^24]: Galatians 3:28.
+[^25]: Matthew 28:20.
+[^26]: 1 Corinthians 3:11.
+[^27]: Revelation 21:14.
+[^28]: As it is spoken of by Our Lord: "And I say to thee that thou art Peter; and upon this rock I will build My Church, and the gates of hell shall not prevail against it" (Matthew 16:18).
 [^29]: That is, enemies of the Church who in one or other ways resisted the authority or teachings of the Church.
-[^30]: Matt., xxi. 44.
-[^31]: Tim., iii. 8.
-[^32]: Prov., xviii. 10.
-[^33]: Matt., xvi. 18.
-[^34]: Luke, xxii. 32.
+[^30]: Matthew 21:44.
+[^31]: Timothy 3:8.
+[^32]: Proverbs 18:10.
+[^33]: Matthew 16:18.
+[^34]: Luke 22:32.
 
 > **Scripture.** *One Lord, one faith, one baptism.* — Ephesians 4:5
 

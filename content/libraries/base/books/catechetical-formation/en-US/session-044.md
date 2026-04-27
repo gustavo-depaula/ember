@@ -23,9 +23,9 @@
 
 Perfection for man consists in the love of God and of neighbour. Now, the three Commandments which were written on the first tablet pertain to the love of God; for the love of neighbour there were the seven Commandments on the second tablet. But we must "love, not in word nor in tongue, but in deed and in truth."[^2] For a man to love thus, he must do two things, namely, avoid evil and do good. Certain of the Commandments prescribe good acts, while others forbid evil deeds. And we must also know that to avoid evil is in our power; but we are incapable of doing good to everyone. Thus, St. Augustine says that we should love all, but we are not bound to do good to all. But among those to whom we are bound to do good are those in some way united to us. Thus, "if any man have not care of his own and especially of those of his house, he hath denied the faith."[^3] Now, amongst all our relatives there are none closer than our father and mother. "We ought to love God first," says St. Ambrose, "then our father and mother." Hence, God has given us the Commandment: "Honour thy father and thy mother."[^4]
 
-The Philosopher also gives another reason for this honour to parents, in that we cannot make an equal return to our parents for the great benefits they have granted to us; and, therefore, an offended parent has the right to send his son away, but the son has no such right.[^5] Parents, indeed, give their children three things. The first is that they brought them into being: "Honour thy father, and forget not the groanings of thy mother; remember that thou hadst not been born but through them."[^6] Secondly, they furnished nourishment and the support necessary for life. For a child comes naked into the world, as Job relates (i. 24), but he is provided for by his parents. The third is instruction: "We have had fathers of our flesh for instructors."[^7] "Hast thou children? Instruct them."[^8]
+The Philosopher also gives another reason for this honour to parents, in that we cannot make an equal return to our parents for the great benefits they have granted to us; and, therefore, an offended parent has the right to send his son away, but the son has no such right.[^5] Parents, indeed, give their children three things. The first is that they brought them into being: "Honour thy father, and forget not the groanings of thy mother; remember that thou hadst not been born but through them."[^6] Secondly, they furnished nourishment and the support necessary for life. For a child comes naked into the world, as Job relates (1:24), but he is provided for by his parents. The third is instruction: "We have had fathers of our flesh for instructors."[^7] "Hast thou children? Instruct them."[^8]
 
-Parents, therefore, should give instruction without delay to their children, because "a young man according to his way, even when he is old will not depart from it."[^9] And again: "It is good for a man when he hath borne the yoke from his youth."[^10] Now, the instruction which Tobias gave his son (Tob., iv) was this: to fear the Lord and to abstain from sin. This is indeed contrary to those parents who approve of the misdeeds of their children. Children, therefore, receive from their parents birth, nourishment, and instruction.
+Parents, therefore, should give instruction without delay to their children, because "a young man according to his way, even when he is old will not depart from it."[^9] And again: "It is good for a man when he hath borne the yoke from his youth."[^10] Now, the instruction which Tobias gave his son (Tobit 4) was this: to fear the Lord and to abstain from sin. This is indeed contrary to those parents who approve of the misdeeds of their children. Children, therefore, receive from their parents birth, nourishment, and instruction.
 
 ## What Children Owe Parents
 
@@ -55,55 +55,55 @@ Rulers and kings are called fathers: "Father, if the prophet had bid thee do som
 
 Our benefactors also are called fathers: "Be merciful to the fatherless as a father."[^42] He, too, is like a father [who gives his bond] of whom it is said: "Forget not the kindness of thy surety."[^43] On the other hand, the thankless shall receive a punishment such as is written: "The hope of the unthankful shall melt away as the winter's ice."[^44] Old men also are called fathers: "Ask thy father, and he will declare to thee; thy elders and they will tell thee."[^45] And again: "Rise up before the hoary head, and honour the person of the aged man."[^46] "In the company of great men take not upon thee to speak; and when the ancients are present, speak not much."[^47] "Hear in silence, and for thy reverence good grace shall come to thee."[^48] Now, all these fathers must be honored, because they all resemble to some degree our Father who is in heaven; and of all of them it is said: "He that despiseth you, despiseth Me."[^49]
 
-[^1]: Exod., xx. 12; Deut., v. 16.
-[^2]: I John, iii. 18.
-[^3]: I Tim., v. 8.
+[^1]: Exodus 20:12; Deuteronomy 5:16.
+[^2]: 1 John 3:18.
+[^3]: 1 Timothy 5:8.
 [^4]: St. Thomas also treats of the Fourth Commandment in "Summa Theol.," II- II, QQ. cxxii, ci.
 [^5]: Aristotle, "Ethics."
-[^6]: Ecclus., vii. 29-30.
-[^7]: Heb., xii. 9.
-[^8]: Ecclus., vii. 25.
-[^9]: Prov. xxii. 6.
-[^10]: Lam., iii. 27.
-[^11]: Ecclus. iii. 10.
+[^6]: Sirach 7:29-30.
+[^7]: Hebrews 12:9.
+[^8]: Sirach 7:25.
+[^9]: Proverbs 22:6.
+[^10]: Lamentations 3:27.
+[^11]: Sirach 3:10.
 [^12]: "Ibid.," 13.
 [^13]: "Ibid.," 14, 15, 18.
 [^14]: Epist., lib. II.
-[^15]: Col., iii. 20.
+[^15]: Colossians 3:20.
 [^16]: "Ad Heliod."
-[^17]: Luke, xiv. 26.
-[^18]: Deut., xxxii. 6.
-[^19]: Ecclus., iii. 9-10.
-[^20]: Deut., xxvii. 16.
-[^21]: Luke, xvi. 10.
-[^22]: Ecclus., iii. 7.
-[^23]: Wis., iv. 13.
-[^24]: Prov., xxx. 17.
-[^25]: Ecclus., xxxiii. 20.
-[^26]: "Ibid.," iii. 6.
-[^27]: Matt., vii. 2.
-[^28]: Ecclus., iii. 13.
+[^17]: Luke 14:26.
+[^18]: Deuteronomy 32:6.
+[^19]: Sirach 3:9-10.
+[^20]: Deuteronomy 27:16.
+[^21]: Luke 16:10.
+[^22]: Sirach 3:7.
+[^23]: Wisdom 4:13.
+[^24]: Proverbs 30:17.
+[^25]: Sirach 33:20.
+[^26]: "Ibid.," 3:6.
+[^27]: Matthew 7:2.
+[^28]: Sirach 3:13.
 [^29]: "Ibid.," 18.
 [^30]: "Ibid.," 11.
-[^31]: I Cor., iv. 15.
-[^32]: Ecclus., xliv. 1.
-[^33]: Heb., xiii. 7.
-[^34]: Luke, x. 16.
-[^35]: Heb., xiii. 17.
-[^36]: Prov., iii. 9.
-[^37]: IV Kings, v. 13.
-[^38]: Rom., xiii. 1.
+[^31]: 1 Corinthians 4:15.
+[^32]: Sirach 44:1.
+[^33]: Hebrews 13:7.
+[^34]: Luke 10:16.
+[^35]: Hebrews 13:17.
+[^36]: Proverbs 3:9.
+[^37]: 2 Kings 5:13.
+[^38]: Romans 13:1.
 [^39]: "Ibid.,"
 [^40]: "Ibid."
-[^41]: Prov., xxiv. 21.
-[^42]: Ecclus., iv. 10.
-[^43]: "Ibid.," xxix. 19.
-[^44]: Wis., xvi. 29.
-[^45]: Deut., xxxii. 7.
-[^46]: Lev., xix. 32.
-[^47]: Ecclus., xxxii. 13.
+[^41]: Proverbs 24:21.
+[^42]: Sirach 4:10.
+[^43]: "Ibid.," 29:19.
+[^44]: Wisdom 16:29.
+[^45]: Deuteronomy 32:7.
+[^46]: Leviticus 19:32.
+[^47]: Sirach 32:13.
 [^48]: "Ibid.," 9.
-[^49]: Luke, x. 16.
+[^49]: Luke 10:16.
 
 > **Scripture.** *Honour thy father and thy mother, which is the first commandment with a promise.* — Ephesians 6:2
 

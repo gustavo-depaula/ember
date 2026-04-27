@@ -39,25 +39,25 @@ From a consideration of all this, one is led to a fivefold benefit. (1) We are l
 
 (5) We are led also to acknowledge the great dignity of man. God made all things for man: "Thou hast subjected all things under is feet,"[^18] and man is more like to God than all other creatures save the Angels: "Let us make man to Our image and likeness."[^19] God does not say this of the heavens or of the stars, but of man; and this likeness of God in man does not refer to the body but to the human soul, which has free will and is incorruptible, and therein man resembles God more than other creatures do. We ought, therefore, to consider the nobleness of man as less than the Angels but greater than all other creatures. Let us not, therefore, diminish his dignity by sin and by an inordinate desire for earthly things which are beneath us and are made for our service. Accordingly, we must rule over things of the earth and use them, and be subject to God by obeying and serving Him. And thus we shall come to he enjoyment of God forever.
 
-[^1]: Wis., xiii. 1, 5.
+[^1]: Wisdom 13:1, 5.
 [^2]: In the Nicene Creed.
-[^3]: Gen., i. 1.
-[^4]: John, i. 3.
-[^5]: II Peter, iii. 4.
+[^3]: Genesis 1:1.
+[^4]: John 1:3.
+[^5]: 2 Peter 3:4.
 [^6]: In the Nicene Creed.
-[^7]: Ps. cxlviii. 5.
-[^8]: wis., xii. 18.
-[^9]: "Ibid.," xiii. 3-4.
-[^10]: Job, xxxvi. 26.
-[^11]: I Cor., iv. 7.
-[^12]: Ps. xxiii. 1.
-[^13]: Ps, cxv. 12.
-[^14]: Job, ii. 10.
-[^15]: Prov., xvi. 4.
-[^16]: Deut., iv. 19.
-[^17]: I Paral., xxix. 14.
-[^18]: Ps. viii. 8.
-[^19]: Gen., i. 26.
+[^7]: Psalm 148:5.
+[^8]: Wisdom 12:18.
+[^9]: "Ibid.," 13:3-4.
+[^10]: Job 36:26.
+[^11]: 1 Corinthians 4:7.
+[^12]: Psalm 23:1.
+[^13]: Psalm 115:12.
+[^14]: Job 2:10.
+[^15]: Proverbs 16:4.
+[^16]: Deuteronomy 4:19.
+[^17]: 1 Chronicles 29:14.
+[^18]: Psalm 8:8.
+[^19]: Genesis 1:26.
 
 > **Scripture.** *The heavens shew forth the glory of God, and the firmament declareth the work of his hands.* — Psalm 19:1
 

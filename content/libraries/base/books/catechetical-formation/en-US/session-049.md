@@ -44,30 +44,30 @@ The third reason is the uselessness of stolen goods in that they are of no spiri
 The fourth reason is that the results of theft are peculiarly harmful to the thief in that they lead to his loss of other goods. It is not unlike the mixture of fire and straw: "Fire shall devour their tabernacles, who love to take bribes."[^26] And it ought to be known that a thief may lose not only his own soul, but also the souls of his children, since they are bound to make restitution.
 
 [^1]: St. Thomas also treats of this Commandment in the "Summa Theol.," II-II, Q. cxxii, Art. 6.
-[^2]: Matt., xxiv. 43.
-[^3]: Ecclus., v. 17.
-[^4]: Job, xxiv. 9.
-[^5]: Soph., iii. 3.
-[^6]: Prov., viii. 15.
-[^7]: Isa., i. 23.
-[^8]: "Ibid.," x. 1.
+[^2]: Matthew 24:43.
+[^3]: Sirach 5:17.
+[^4]: Job 24:9.
+[^5]: Zephaniah 3:3.
+[^6]: Proverbs 8:15.
+[^7]: Isaiah 1:23.
+[^8]: "Ibid.," 10:1.
 [^9]: "The City of God," IV, 4. "It must be seen that the word 'steal' is understood not only of the taking away of anything from its rightful owner privately and witbout his consent, but also the possession of that which belongs to another, contrary to his will, although not without his knowledge. Otherwise we would say that he who forbids theft does not also forbid robbery, which is accomplished by violence and injustice. . . . So robbery is a greater sin than theft, inasmuch as it not only deprives another of his property, but also offers violence and insult to him. Nor can it be a matter of surprise that the Commandment is expressed in the lighter word, 'steal,' instead of 'rob.' A good reason for this is that theft is more general and of wider extent than robbery" ("Roman Catechism," "Seventh Commandment," 3-4).
-[^10]: Lev., xix. 13.
-[^11]: Rom., xiii. 7.
-[^12]: Deut., xxv. 13.
-[^13]: Lev., xix. 35-36.
-[^14]: Ps. xiv. 1, 5.
-[^15]: Job, xx. 15.
-[^16]: John, x. 1.
-[^18]: Ecclus., xxxiv. 25.
+[^10]: Leviticus 19:13.
+[^11]: Romans 13:7.
+[^12]: Deuteronomy 25:13.
+[^13]: Leviticus 19:35-36.
+[^14]: Psalm 14:1, 5.
+[^15]: Job 20:15.
+[^16]: John 10:1.
+[^18]: Sirach 34:25.
 [^19]: "Ibid.," 27.
-[^20]: Hab., ii. 6.
+[^20]: Habakkuk 2:6.
 [^21]: "The possession of other men's property is called 'thick clay' by the prophet because it is difficult to emerge and disengage oneself from [ill- gotten goods]. . . . What shall we say of the obligation imposed by God on all of satisfying for the injury done? 'Without restitution,' says St. Augustine, 'the sin is not forgiven' " ("Roman Catechism," "loc. cit.," 8).
-[^22]: Prov., x. 2.
-[^23]: "Ibid.," xiii. 8.
-[^24]: Isa., lxi. 8.
-[^25]: Ecclus., xxxiv. 24.
-[^26]: Job, xv. 34.
+[^22]: Proverbs 10:2.
+[^23]: "Ibid.," 13:8.
+[^24]: Isaiah 61:8.
+[^25]: Sirach 34:24.
+[^26]: Job 15:34.
 
 > **Scripture.** *Behold, Lord, the half of my goods I give to the poor; and if I have wronged any man of any thing, I restore him fourfold.* — Luke 19:8
 

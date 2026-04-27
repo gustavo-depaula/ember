@@ -45,23 +45,23 @@ There are four motives which have led men to believe in a number of gods. (1) Th
 
 Although all this is terrible to contemplate, yet at times there are any who fall into these above-mentioned four causes. Not by their words and hearts, but by their actions, they show that they believe in many gods. Thus, those who believe that the celestial bodies influence the will of man and regulate their affairs by astrology, really make the heavenly bodies gods, and subject themselves to them. Be not afraid of the signs of heaven which the heathens fear. For the laws of the people are vain."[^15] In the same category are all those who obey temporal rulers more than God, in that which they ought not; such actually set these up as gods. "We ought to obey God rather than men."[^16] So also those who love their sons and kinsfolk more than God show by their actions that they believe in many gods; as likewise do those who love food more than God: "Whose god is their belly."[^17] Moreover, all who take part in magic or in incantations believe that the demons are gods, because they seek from the devil that which God alone can give, such as revealing the future or discovering hidden things. We must, therefore, believe that there is but one God.
 
-[^1]: Ps. xiii. 1.
-[^2]: Job, xxii. 14.
-[^3]: Job, xi. 5-6.
-[^4]: Ps. xciii. 7-11.
-[^5]: Heb., iv. 13.
+[^1]: Psalm 13:1.
+[^2]: Job 22:14.
+[^3]: Job 11:5-6.
+[^4]: Psalm 93:7-11.
+[^5]: Hebrews 4:13.
 [^6]: "There is but one God, not many gods. We attribute to God the highest goodess and perfection, and it is impossible that what is highest and absolutely perfect could be found in many. If a being lack that which constitutes supreme perfection, it is, therefore, imperfect and cannot have the nature of God" ("Roman Catechism," "The Creed," First Article, 7).
-[^7]: Wis., xiii. 2-3.
-[^8]: Judith, v. 29.
+[^7]: Wisdom 13:2-3.
+[^8]: Judith 5:29.
 [^9]: All this is fully explained in the fourteenth chapter of the Book of Wisdom, verses 15-21.
-[^10]: Wis., xiv. 21.
-[^11]: Isa., xiv. 14.
-[^12]: Matt., iv. 9.
-[^13]: Ps. cxv. 5.
-[^14]: I Cor., x. 20.
-[^15]: Jerem., x. 2-3.
-[^16]: Acts, v. 29.
-[^17]: Phil., iii. 19.
+[^10]: Wisdom 14:21.
+[^11]: Isaiah 14:14.
+[^12]: Matthew 4:9.
+[^13]: Psalm 115:5.
+[^14]: 1 Corinthians 10:20.
+[^15]: Jeremiah 10:2-3.
+[^16]: Acts 5:29.
+[^17]: Philippians 3:19.
 
 > **Scripture.** *Hear, O Israel, the Lord our God is one Lord.* — Deuteronomy 6:4
 
