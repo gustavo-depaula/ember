@@ -411,4 +411,106 @@ and four of the most modern-relevance-pressed commandments.
   * Session 015 (Incarnation) — already 397 lines of rich material;
     editorial would be supplemental rather than filling a gap
 
+### 2026-04-27 — Phase 5: complete the Lord's Prayer arc + Creed first article
+
+Eight more editorial readings authored, completing the **entire
+Lord's Prayer arc (sessions 082–089)** and adding two pivotal
+sessions earlier in the book.
+
+  * **005 — There Is One God.** First article of the Creed, the most
+    fundamental statement. Aquinas's order-from-nature argument
+    (the conversational form of what becomes the Five Ways) and his
+    four motives for ancient polytheism mapped to modern equivalents
+    (algorithm, brand, ancestor/cause, my own desire). Burning Bush
+    as image of the One God who *does not negotiate*. Commit:
+    `63f35b0`.
+
+  * **082 — Why God Hears Us.** Holman Hunt's door-with-no-handle as
+    the catechism of prayer in one image. Walks Pius X's four
+    conditions (confidence, perseverance, in Christ's name, for what
+    is good for us). Names the closing *through your Son Jesus
+    Christ our Lord* as channel, not boilerplate. Commit: `5982325`.
+
+  * **083 — Our Father, who art in Heaven.** Slows the first six
+    words of the prayer. *Our* as renunciation of the religion of
+    self. *Father* through Aquinas's four ways with explicit
+    pastoral care for readers wounded by their earthly fathers
+    (God is the *correction* of every human fatherhood, not a
+    projection of it). *Who art in heaven* not as distance but as
+    the source of intimacy. Commit: `63f35b0`.
+
+  * **084 — Hallowed be Thy name.** The petition is *for our sake,
+    not His*. Aquinas's three asks (be known / be loved & confessed
+    / make us holy). Names casual exclamatory use of God's name as
+    the most subtle modern violation. Commit: `38cccd1`.
+
+  * **085 — Thy kingdom come.** Refuses the modern dilution into
+    pious vagueness. Three concentric senses (kingdom of grace in
+    soul, kingdom of Church on earth, kingdom of glory in heaven).
+    Addresses the "kingdom-sounds-authoritarian" objection: His
+    rule is the alternative to being ruled by the algorithm, market,
+    strongman, self. Commit: `38cccd1`.
+
+  * **086 — Thy will be done.** The hardest petition. Two cosmic
+    moments: Mary at the Annunciation, Christ at Gethsemane. Three
+    corollaries (not resignation; assumes God's will is good;
+    commits us to discernment). Vocation as the lived form.
+    Commit: `38cccd1`.
+
+  * **087 — Daily bread.** Unpacks the strange Greek *epiousion*
+    and Aquinas's three layers (body, mind, Eucharistic /
+    *supersubstantial*). Names the early Christian practice of
+    praying the Our Father immediately before Communion as
+    liturgical preparation, not generic prayer. Commit: `38cccd1`.
+
+  * **088 — Forgive us / as we forgive.** Names the *as* as the only
+    conditional in the prayer (Aquinas) and the small word Christ
+    meant to disturb. Defines forgiveness theologically (renunciation
+    of the inner claim, not denial that the wound was real). Lifts
+    Aquinas's distinction between perfect forgiveness and ordinary
+    obligation, and his answer to the sharp question of praying
+    "as we forgive" before fully forgiving (in the person of the
+    Church). Commit: `68edc00`.
+
+  * **089 — Lead us not / deliver us / Amen.** Resolves the 2018
+    Italian translation question via Aquinas's distinction between
+    God testing (Abraham, Job, Christ in the wilderness) and the
+    enemy's testing we ask to be spared. Walks Aquinas's three
+    sources of enemy testing (flesh, devil, world). *Deliver us
+    from evil* as deliverance from *the evil one*. *Amen* as the
+    seal of the prayer — the same Amen at the doxology of the Mass.
+    Commit: `68edc00`.
+
+Plus three more editorial readings before this phase: **020 (Final
+Judgment)**, **037 (First Commandment / strange gods)**, **045 / 047
+/ 048 / 049 / 050 (the modern-pressure Decalogue)** — together with
+**062 (Baptism)**, **064 (Confirmation)**, **066 / 069 / 071 (the
+Eucharist arc)**, **075 (Penance)**, **077 (Anointing)**.
+
+**Final running tally — 33 of 90 sessions now carry editorial readings.**
+
+Three arcs are now 100% editorial-covered:
+  * **Virtues** (055–058)
+  * **Church Precepts** (053–054)
+  * **Lord's Prayer** (082–089)
+
+Other coverage:
+  * Preliminary: 002
+  * Creed: 003, 005, 020, 028
+  * Decalogue: 035, 037, 045, 046, 047, 048, 049, 050 (8 of 18)
+  * Sacraments: 062, 064, 066, 069, 071, 075, 077, 080 (8 of 22)
+  * Marian: 090
+
+  ≈12,000 words of new pastoral commentary per language.
+
+**Total commits since baseline:**
+  * 1 build mechanic fix (orphan-H2 trim at slice tail)
+  * 1 build infrastructure addition (editorial layer)
+  * 1 mass formatting commit (Aquinas en-US Scripture citations)
+  * 1 propagation rebuild commit
+  * 1 Aquinas chapter-headers commit
+  * 1 Aquinas lay-reader introduction chapter
+  * 33 editorial-reading commits (some grouping multiple sessions)
+  * 5 journal commits (one per phase plus the original setup)
+
 
