@@ -50,6 +50,22 @@ These are the ten precepts to which Our Lord referred when He said: "If thou wil
 
 But to love God worthily, one must first of all love one's neighbour. And so: "Honour thy father and mother." Then, one must avoid doing harm to one's neighbour in act. "Thou shalt not kill" refers to our neighbour’s person; "Thou shalt not commit adultery" refers to the person united in marriage to our neighbour; "Thou shalt not steal" refers to our neighbour’s external goods. We must also avoid injury to our neighbour both by word, "Thou shalt not bear false witness," and by thought, "Thou shalt not covet thy neighbour’s goods" and "Thou shalt not covet thy neighbour’s wife."
 
+## A pastoral reading
+
+The Tenth Commandment is the **interior** Commandment — the one that says God's law reaches *under* the action and *under* the word, into the soil of the will. Aquinas pauses here to make a striking point: human laws judge only what is exterior, but *the divine law is from God, who sees both external things and the very interior of men*. The Commandment is not redundant with *Thou shalt not steal*. It catches what stealing has not yet become.
+
+The disease the Commandment names is **covetousness** — the unbridled greed that consumes the soul long before any goods are taken. Pius X is precise: the Commandment forbids *unbridled greed for riches, without regard for the rights and the good of our neighbor.* Three modern symptoms:
+
+  * **The constant hum of comparison.** Social media has industrialized the Tenth Commandment. The vacation, the kitchen renovation, the salary, the body, the marriage — others' versions of these now arrive in our pocket all day. Each induces a tiny rehearsal of *I deserve that too*. Multiply by years. The cumulative damage is real, and the catechism above names it: *unbridled greed*. The remedy is not abstinence from the platforms (though for some it is); the remedy is *active gratitude for what is in front of you*. The eye trained to compare cannot also be trained to see.
+
+  * **The career as identity.** When *what I do* fully colonizes *who I am*, every promotion of a peer becomes an insult against me, and every setback of mine becomes existential. Aquinas's diagnosis still applies: *covetousness is the disease that does not announce itself*. You only know you have it when you finally let go of something — and feel the wrench.
+
+  * **The covet that hides as virtue.** Resentment of the rich, dressed up as social conscience. Envy of the holy, dressed up as critique. The Tenth Commandment binds these too. *Thou shalt not even desire* — Aquinas's emphasis — *thy neighbor's goods*, even when his goods are spiritual.
+
+The opposite virtue is **detachment**, and Christian tradition has always practiced it through small deliberate acts. *Today, give one thing away.* Not because the recipient needs it, though they may. Because *you* need to know that you can. The Giotto Francis throwing his clothes at his father's feet (today's image) is the dramatic version. Yours need not be dramatic. A book, a piece of clothing, a possession that has become identity — release one. *Coveting is the disease that does not announce itself; you only know you have it when you finally let go of something*. Today, let go of one thing.
+
+And then, on the other side of the let-go, you will find a freedom that is the beginning of joy. Pius X again: *we must enter the kingdom of God through many tribulations*. The kingdom we are praying for in the Lord's Prayer is also entered through *small tribulations of detachment*, beginning today.
+
 > **Scripture.** *For we brought nothing into this world: and certainly we can carry nothing out.* — 1 Timothy 6:7
 
 *A note on numbering. Pius X numbers this the Tenth Commandment ('thou shalt not covet thy neighbor's goods'); Aquinas's Naples sermons treat it as the Ninth. The doctrine is identical; only the historical order varies.*
