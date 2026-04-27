@@ -194,8 +194,16 @@ export async function downloadAndInstallLibrary(
   const url = hearthUrl(`${hearthLibrariesPath}/${entry.file}`)
 
   if (onProgress) onProgress(0.1)
-  const response = await fetch(url)
-  if (!response.ok) throw new Error(`Download failed: ${response.status}`)
+  // 60s cap so a stalled CDN/dev-server connection can't deadlock the update
+  const controller = new AbortController()
+  const timeout = setTimeout(() => controller.abort(), 60_000)
+  let response: Response
+  try {
+    response = await fetch(url, { signal: controller.signal })
+  } finally {
+    clearTimeout(timeout)
+  }
+  if (!response.ok) throw new Error(`Download failed: ${response.status} ${entry.file}`)
   const zipData = await response.arrayBuffer()
   if (onProgress) onProgress(0.6)
 
