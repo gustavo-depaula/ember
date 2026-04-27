@@ -57,6 +57,24 @@ We thus see the difference between doing good and doing evil. Good works lead to
 [^24]: Psalm 48:15.
 [^25]: Isaiah 66:24.
 
+## A pastoral reading
+
+The catechism above completes the eschatology of the Creed: heaven and hell, *both eternal*. The Pius X is unflinching, and the Aquinas above walks the doctrine carefully. The work of the editorial reading is to **prevent the doctrine from being softened in the modern Catholic ear**, where it is most often drained of its weight.
+
+**Heaven is not a passive reward.** Aquinas: it is the *vision of God*, the *beatific vision* — direct, unmediated knowing of God *as He is* (1 John 3:2). Modern minds reach for harps and clouds; Aquinas reaches for the highest possible mode of *being awake*, *being loved*, *being received*. The blessed in heaven are not at rest as the world rests. They are *fully alive*, all faculties realized at once, the soul at the maximum of what it was made to be. Time becomes irrelevant because every moment carries the weight of eternity. There is no boredom in eternity, because boredom is a function of the soul shrinking from a present too small for it; in heaven, the present is *infinite*.
+
+**Hell is not divine vindictiveness.** Aquinas (and the catechism following him) defines hell as the *eternal privation of God* and *the pain of sense*. The first is the worse. The hellish soul is not extinguished — that would be a mercy God owes Himself to refuse, since the soul He created is *good*. The hellish soul is *kept in being* and yet *separated from the source of every good*. Imagine the deepest loneliness you have known, raised to the maximum, with no clock, no exit, and no one to blame but oneself. *Hell is the maximum of being alone.*
+
+The Pius X catechism is right to insist on the **eternity of both**. To say *yes, but only for a while* of either is to soften the doctrine into something the saints would not recognize. *They shall go into everlasting punishment, but the just into life everlasting* — Christ's own words at the end of the Last Judgment passage (Matthew 25:46). The same Greek word *aiōnios* governs both. Whatever it means for one, it means for the other.
+
+Three corollaries for living this week.
+
+  1. **Take it seriously without panic.** The doctrine is gravity, not despair. *God wills all men to be saved* (1 Timothy 2:4). His mercy reaches as far as it can without overriding the freedom He gave us. If you are seeking Him, you are not in danger.
+
+  2. **Pray for those who do not seek Him.** Especially those you love who have stopped or never started. Their salvation is not closed. Mary appeared to St. Faustina and said *the souls of those who pray to me at the hour of their death will not be lost*. Pray *especially* for the hour of their death.
+
+  3. **Live now as if every act counted forever.** Because it does. *Lord, today, tip me one inch further toward the heaven I cannot yet see.* The dancing figures of Fra Angelico's heaven (today's image) are not a metaphor. They are what you are made for.
+
 > **Scripture.** *And these shall go into everlasting punishment: but the just, into life everlasting.* — Matthew 25:46
 
 > *Lord, my soul is not made for an afternoon. Make me ready to live forever — with You.*
