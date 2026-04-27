@@ -52,6 +52,7 @@ TR = BOOKS_DIR / "catechism-of-trent"
 SESSIONS_FILE = OUT / "sessions.json"
 CONTENT_FILE = OUT / "content.json"
 IMAGES_MANIFEST = OUT / "images/manifest.json"
+EDITORIAL_DIR = OUT / "editorial"  # editorial/<lang>/<session_id>.md (optional)
 
 LANGS = ["en-US", "pt-BR"]
 
@@ -318,10 +319,16 @@ def build_chapter(session: dict, content: dict, lang: str, image_meta: dict | No
     closing = content.get("closing", {}).get(lang, "").strip()
     editor_note = content.get("editor_note", {}).get(lang, "").strip() if content.get("editor_note") else ""
     # Ember editorial commentary — original prose authored for this book.
-    # Distinct from the verbatim Aquinas/Trent excerpts above; gets its own
-    # labeled H2 ("A pastoral reading" / "Uma leitura pastoral") so the
-    # reader can see at a glance what is editorial vs. verbatim source.
-    editorial = content.get("editorial", {}).get(lang, "").strip() if content.get("editorial") else ""
+    # Lives as plain markdown at editorial/<lang>/<session_id>.md so authors
+    # can write/edit/review it as ordinary markdown rather than as
+    # JSON-escaped strings. Distinct from the verbatim Aquinas/Trent
+    # excerpts above; gets its own labeled H2 ("A pastoral reading" /
+    # "Uma leitura pastoral") so the reader can see at a glance what is
+    # editorial vs. verbatim source.
+    editorial = ""
+    editorial_path = EDITORIAL_DIR / lang / f"{sid}.md"
+    if editorial_path.exists():
+        editorial = editorial_path.read_text(encoding="utf-8").strip()
 
     if lang == "en-US":
         sref = scripture.get("ref_en", "")
