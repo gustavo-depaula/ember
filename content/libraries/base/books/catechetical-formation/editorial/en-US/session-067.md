@@ -10,7 +10,7 @@ What does not change:
 
   * **The accidents.** The bread *still tastes* like bread, *still weighs* the same, *still photographs* as bread. This is not deception; it is the *condescension of the sacrament* — God *veiling* Himself so that we can approach without being undone.
 
-Aquinas, in *Adoro Te Devote*: *Visus, tactus, gustus in Te fallitur* — *sight, touch, taste fail in Thee*. **Faith reports what the senses cannot.**
+Aquinas, in *Adoro Te Devote*: *Visus, tactus, gustus in Te fallitur* — *sight, touch, taste in Thee are deceived*. **Faith reports what the senses cannot.**
 
 Two doctrinal corollaries that flow from transubstantiation:
 

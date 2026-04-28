@@ -64,7 +64,7 @@ Por meio desta petição, chegamos à felicidade dos que choram, conforme está 
 
 ## Uma leitura pastoral
 
-Não há petição mais difícil. *Seja feita a vossa vontade* — *não a minha* — é a renúncia que torna todas as outras possíveis. Aquino a trata quase com reverência. Observa que esta petição foi rezada duas vezes na história da salvação, com consequências cósmicas: por **Maria** na Anunciação (*Faça-se em mim segundo a vossa palavra*), tornando possível a Encarnação; e por **Cristo** em Getsêmani (*Pai... não a minha vontade, mas a vossa*), tornando possível a Cruz. A petição é a costura onde a vontade divina e a humana se encontram.
+Não há petição mais difícil. *Seja feita a vossa vontade* — *não a minha* — é a renúncia que torna todas as outras possíveis. Aquino a trata quase com reverência. A tradição católica há muito reconhece que esta petição foi rezada duas vezes na história da salvação, com consequências cósmicas: por **Maria** na Anunciação (*Faça-se em mim segundo a vossa palavra*, Lucas 1, 38), tornando possível a Encarnação; e por **Cristo** em Getsêmani (*Pai... não a minha vontade, mas a vossa*, Lucas 22, 42), tornando possível a Cruz. A petição é a costura onde a vontade divina e a humana se encontram.
 
 O que significa de fato rezá-la? Três corolários.
 

@@ -454,7 +454,7 @@ Aquino percorre a doutrina com cuidado. O sacerdote possui, pela ordenação, um
 
 Dois corolários doutrinais:
 
-  * **A indignidade de um sacerdote individual não anula os seus sacramentos.** Aquino, com base em Agostinho, resolveu isto contra os donatistas no século IV: a santidade do sacerdote *ajuda* o povo; a sua falta *entristece* a Deus; **mas os seus atos ordenados permanecem válidos**. A Missa rezada por um sacerdote pecador continua sendo a Missa; a absolvição dada por um sacerdote em luta continua absolvendo. A graça flui da ação de Cristo, não da dignidade do sacerdote.
+  * **A indignidade de um sacerdote individual não anula os seus sacramentos.** Agostinho resolveu isto contra os donatistas no início do século V, e Aquino sistematizou a doutrina: a santidade do sacerdote *ajuda* o povo; a sua falta *entristece* a Deus; **mas os seus atos ordenados permanecem válidos**. A Missa rezada por um sacerdote pecador continua sendo a Missa; a absolvição dada por um sacerdote em luta continua absolvendo. A graça flui da ação de Cristo, não da dignidade do sacerdote.
 
   * **Há um único sacerdócio de Cristo, com duas participações.** Todo cristão batizado participa do *sacerdócio comum dos fiéis* — oferece o sacrifício espiritual da própria vida. O sacerdote ordenado participa do *sacerdócio ministerial* — está *na Pessoa de Cristo* para consagrar a Eucaristia, perdoar pecados sacramentalmente e pastorear o povo. Ambos os sacerdócios são reais; não estão em competição; ambos se ordenam ao mesmo Cristo.
 

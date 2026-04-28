@@ -6,7 +6,7 @@ There are three.
 
   * **The bread of the mind.** Aquinas: *the bread of doctrine*, the truth that nourishes the intellect, the words of God that the soul lives on (Matthew 4:4). The reader who has reached this point in the ninety-day track is asking for this bread already. Keep asking.
 
-  * **The Eucharistic Bread — *supersubstantial bread*.** Aquinas, following Jerome and Augustine, hears in *epiousion* a hint at the Bread that is *above all substances*: the Body of Christ. The petition is therefore a Eucharistic plea. *This day* — every day — *give us the Bread that is your Son*. The earliest Christians prayed the Lord's Prayer just before Communion at every Mass. They were not adding a generic prayer to the liturgy. They were asking for the very Bread the priest was about to consecrate.
+  * **The Eucharistic Bread — *supersubstantial bread*.** Aquinas, following Jerome and Augustine, hears in *epiousion* a hint at the Bread that is *above all substances*: the Body of Christ. The petition is therefore a Eucharistic plea. *This day* — every day — *give us the Bread that is your Son*. By the time of Gregory the Great the Lord's Prayer had been placed in the Roman Mass just before Communion, where it stands today. The Church was not adding a generic prayer to the liturgy. She was asking, with these very words, for the very Bread the priest was about to consecrate.
 
 This explains the urgent *us*. *Give us this day our daily bread.* Not *give me*. The bread is a shared bread. Every other person at the Communion rail with you — the one whose face you do not know, the one you cannot stand, the one whose marriage is breaking — they are asking for the same Bread, and Christ is giving Himself equally to all of them.
 

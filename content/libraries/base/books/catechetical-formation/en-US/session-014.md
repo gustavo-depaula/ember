@@ -76,7 +76,7 @@ Three early heresies the doctrine pushes back against — each surfacing again i
 
   * **Nestorianism** (5th century): Christ is two persons in some loose union — a divine Logos joined to a human Jesus. The Church at Ephesus (431) rejected this and gave Mary the title *Theotokos* — *Mother of God* — precisely because *the One she bore is one Person, divine and human in inseparable unity*. To call Mary only *the mother of Christ's humanity* is the Nestorian compromise the Church does not allow.
 
-The catechism's Christology is therefore exact: **Christ is one Person — the eternal Son — possessing two natures, divine and human**. He has a divine intellect and a human intellect; a divine will and a human will (the doctrine of *dyothelitism* defended at the Sixth Council, Constantinople III, in 680); a divine love and a human love. Both are real. Neither is mixed with the other. Both are *His*.
+The catechism's Christology is therefore exact: **Christ is one Person — the eternal Son — possessing two natures, divine and human**. He has a divine intellect and a human intellect; a divine will and a human will (the doctrine of *dyothelitism* defended at the Sixth Council, Constantinople III, in 680–681); a divine love and a human love. Both are real. Neither is mixed with the other. Both are *His*.
 
 Why this matters for the Christian life:
 

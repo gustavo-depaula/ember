@@ -16,6 +16,6 @@ The Hannah of today's image (1 Samuel 1) made a private vow before knowing if it
 
 Two cautions and one practice for living this commandment well:
 
-  * **Do not multiply vows.** Aquinas warns: *promise less, and keep what you promise*. The casual *I swear I'll do this* by which we accent ordinary speech is the misuse the commandment forbids. Let your speech be *yes, yes; no, no* (Matthew 5:37).
+  * **Do not multiply vows.** Aquinas's counsel, distilled: promise less, and keep what you promise. The casual *I swear I'll do this* by which we accent ordinary speech is the misuse the commandment forbids. Let your speech be *yes, yes; no, no* (Matthew 5:37).
   * **Honor the vows you have already made.** Especially baptismal and marital. The temptation in our age is to treat vows as expressions of *current feeling*; the Christian treats them as expressions of *received truth*.
   * **One private vow is sometimes very right.** A *temporary vow* — to abstain from alcohol for Lent, to pray a daily rosary for thirty days, to give a fixed sum for a specific need — can be a powerful spiritual practice. Make it deliberately, write it down, fulfill it, end it cleanly.

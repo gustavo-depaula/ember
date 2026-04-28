@@ -10,7 +10,7 @@ O que não muda:
 
   * **Os acidentes.** O pão *ainda tem gosto* de pão, *ainda pesa* o mesmo, *ainda fotografa* como pão. Não é engano; é a *condescendência do sacramento* — Deus *Se velando* para que possamos aproximar-nos sem nos desfazermos.
 
-Aquino, no *Adoro Te Devote*: *Visus, tactus, gustus in Te fallitur* — *vista, tato, gosto falham em Ti*. **A fé relata o que os sentidos não conseguem.**
+Aquino, no *Adoro Te Devote*: *Visus, tactus, gustus in Te fallitur* — *a vista, o tato e o paladar em Ti se enganam*. **A fé relata o que os sentidos não conseguem.**
 
 Dois corolários doutrinais que decorrem da transubstanciação:
 

@@ -69,7 +69,7 @@ There is no third place. The catechism's gravity is not exaggeration: at the end
 
 But the catechism does something more here. It does not stop at heaven and hell. It pivots — at Question 19 — to the Trinity. *There is only one God, but in three Persons.* This is the deeper answer to the question *why are we here?* We were not made merely for moral observance, nor for pleasant immortality. We were made for the inner life of God Himself. The Father, the Son, and the Holy Spirit are not a cosmic committee. They are an eternal communion of love, and we are invited *into* it.
 
-How does that invitation reach us? Through the Incarnation. *The Son of God became man to save us.* Aquinas calls this *opus admirabile* — the most marvellous of God's works: that the Eternal entered time, and that He did so for love of you, even when our race had refused Him. He came to make satisfaction by His Cross, and to teach us, by His life, how to live as those who are loved.
+How does that invitation reach us? Through the Incarnation. *The Son of God became man to save us.* The Latin tradition calls this the *admirabile commercium* — *the wonderful exchange*: God takes our humanity that we might receive His divinity. The Eternal entered time, and He did so for love of you, even when our race had refused Him. He came to make satisfaction by His Cross, and to teach us, by His life, how to live as those who are loved.
 
 So today's catechism, beneath its plain language, is asking you only this: *of which horizon will I be? On whose love will I bet my whole life?* Choose like someone who already knows the answer.
 

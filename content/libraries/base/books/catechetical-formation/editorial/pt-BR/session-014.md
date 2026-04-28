@@ -8,7 +8,7 @@ Três heresias antigas contra as quais a doutrina se posiciona — cada uma reap
 
   * **Nestorianismo** (séc. V): Cristo é duas pessoas numa união solta — um Logos divino unido a um Jesus humano. A Igreja em Éfeso (431) rejeitou e deu a Maria o título de *Theotokos* — *Mãe de Deus* — precisamente porque *Aquele que ela gerou é uma só Pessoa, divina e humana em unidade inseparável*. Chamar Maria apenas *a mãe da humanidade de Cristo* é o compromisso nestoriano que a Igreja não permite.
 
-A cristologia do catecismo, portanto, é exata: **Cristo é uma só Pessoa — o Filho eterno — possuindo duas naturezas, divina e humana**. Tem intelecto divino e intelecto humano; vontade divina e vontade humana (a doutrina do *diotelismo* defendida no Sexto Concílio, Constantinopla III, em 680); amor divino e amor humano. Ambos são reais. Nenhum é misturado com o outro. Ambos são *d'Ele*.
+A cristologia do catecismo, portanto, é exata: **Cristo é uma só Pessoa — o Filho eterno — possuindo duas naturezas, divina e humana**. Tem intelecto divino e intelecto humano; vontade divina e vontade humana (a doutrina do *diotelismo* defendida no Sexto Concílio, Constantinopla III, em 680–681); amor divino e amor humano. Ambos são reais. Nenhum é misturado com o outro. Ambos são *d'Ele*.
 
 Por que isto importa para a vida cristã:
 

@@ -16,6 +16,6 @@ A Ana da imagem de hoje (1 Samuel 1) fez um voto particular antes de saber se se
 
 Duas precauções e uma prática para viver bem este mandamento:
 
-  * **Não multiplique votos.** Aquino adverte: *prometa menos, e cumpra o que prometeu*. O *juro que vou fazer isto* casual com que acentuamos a fala comum é o mau uso que o mandamento proíbe. Seja o vosso falar *sim, sim; não, não* (Mateus 5, 37).
+  * **Não multiplique votos.** O conselho de Aquino, em síntese: prometa menos, e cumpra o que prometeu. O *juro que vou fazer isto* casual com que acentuamos a fala comum é o mau uso que o mandamento proíbe. Seja o vosso falar *sim, sim; não, não* (Mateus 5, 37).
   * **Honre os votos que já fez.** Sobretudo os batismais e matrimoniais. A tentação da nossa época é tratar votos como expressões de *sentimento atual*; o cristão os trata como expressões de *verdade recebida*.
   * **Um voto particular às vezes é muito acertado.** Um *voto temporário* — abster-se de álcool na Quaresma, rezar um terço diário por trinta dias, dar uma quantia fixa por uma necessidade específica — pode ser uma prática espiritual poderosa. Faça-o deliberadamente, escreva-o, cumpra-o, encerre-o com clareza.

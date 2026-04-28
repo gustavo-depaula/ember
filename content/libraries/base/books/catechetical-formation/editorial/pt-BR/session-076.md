@@ -2,7 +2,7 @@
 
 Mas note o que o Pai faz *a seguir*. Ele não diz *esqueça o que aconteceu*; restitui o filho à casa com todas as suas responsabilidades. O vitelo gordo é abatido; o irmão mais velho é convidado; a refeição familiar acontece *em público*, onde a aldeia verá. **A restauração do filho é real, pública e corporal.** Isto é o que é *a satisfação*.
 
-Aquino: a satisfação é *o que o filho faz, livremente, depois de ter sido recebido*. Não é pagamento a um credor; é o *movimento natural* de uma alma curada em direção a reparar o que danificou. Três camadas de satisfação que a tradição cristã sempre sustentou:
+Para Aquino, a satisfação é o que o filho faz, livremente, depois de ter sido recebido — não pagamento a um credor, mas o *movimento natural* de uma alma curada em direção a reparar o que danificou. Três camadas de satisfação que a tradição cristã sempre sustentou:
 
   * **A penitência que o sacerdote dá.** *Três Ave-Marias*, ou *um terço*, ou *vá reconciliar-se com aquela pessoa* — o que o confessor designar é **parte do próprio sacramento**. Cumpra-a em até vinte e quatro horas, se humanamente possível. A penitência não é o preço do perdão; o perdão já aconteceu. A penitência é o *primeiro ato da vida nova*.
 

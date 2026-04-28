@@ -650,4 +650,149 @@ encountered.**
 End of the catechetical-improvement adventure (for this session).
 Imitation of Christ remains queued for a future session.
 
+### 2026-04-27 — Phase 9: theological-accuracy review and polish pass
+
+A separate review session against the 90-of-90 editorial draft.
+Goal: turn the substantial 30,000-word per-language draft into
+something shippable. Worked on a clean review branch
+(`claude/review-catechetical-polish-6n2ei`). All EN + PT mirrored.
+
+**Day-one priority fixes (one commit each, EN + PT):**
+
+  * **040 — Saint Bernardine vs. St. Bernard of Clairvaux.** The
+    line *Jesus is honey in the mouth, music in the ear, joy in the
+    heart* is from the medieval hymn *Jesu Dulcis Memoria*,
+    traditionally attributed to St. Bernard of Clairvaux (12th c.) —
+    not St. Bernardine of Siena (15th c.). The Holy Name preaching
+    tradition itself **is** properly tied to Bernardine of Siena and
+    the Society of Jesus, so the same session also disambiguated
+    *the medieval Bernardines* (which can refer to a separate
+    Reformed Cistercian order) to *St. Bernardine of Siena's
+    fifteenth-century preaching of the Holy Name*. Commit: `f8ada54`.
+  * **048 — Theology of the Body duration.** TOB ran from 5 Sept
+    1979 to 28 Nov 1984 — about five years and 129 Wednesday
+    audiences, not fifteen years. Corrected. Commit: `f22e81a`.
+  * **021 — Aquinas deathbed quote.** *I have written nothing in
+    the Summa that I cannot defend before the judgment seat of
+    Christ* is widely repeated in popular sources but not attested
+    in any reliable Aquinas biography. Replaced with the verified
+    *mihi videtur ut palea* recorded by his earliest biographers
+    (Bernardo Gui, William of Tocco) after his mystical experience
+    at Mass on 6 December 1273. The pastoral point about
+    preparedness is preserved (and arguably strengthened): the
+    greatest theologian of the Church was ready for the judgment
+    seat because he had already seen something that made the Summa
+    look like chaff. Commit: `426c91a`.
+  * **026 — Immaculate Conception / Vatican I chronology.** The IC
+    was defined in 1854, sixteen years before Vatican I (1870)
+    formally articulated infallibility. It is universally
+    recognized as an exercise of the same authority Vatican I later
+    defined; added a parenthetical clarification so a careful
+    reader is not stopped by the chronology. Commit: `33e5387`.
+
+**Then, the systematic theological-accuracy review pass.** Six
+parallel sub-agents reviewed all 90 EN editorials (PT-BR mirrors
+the EN, so issues propagate together) — one per major arc:
+
+  * **Preliminary + Creed Part 1 (001-018)** — flagged 7 fixes.
+  * **Creed Part 2 (019-034)** — flagged 2 fixes (plus
+    already-handled IC chronology).
+  * **Decalogue (035-052)** — flagged 6 fixes (plus already-
+    handled 040 and 048).
+  * **Precepts + Virtues + early Sacraments (053-066)** — mostly
+    clean; flagged 1 framing softening for Beatitudes-vices schema.
+  * **Mid-late Sacraments (067-080)** — flagged 9 fixes.
+  * **Prayer + Marian (081-090)** — flagged 5 fixes.
+
+**Twenty-seven sessions received corrections** (in addition to
+the four day-one fixes), grouped into four atomic per-arc commits
+that each spell out the specific findings and verified facts:
+
+  * `f75d004` — **Preliminary + Creed** (001, 002, 005, 011, 014,
+    015, 017, 019, 023): Naples-1273 sermon dating; *opus
+    admirabile* → *admirabile commercium*; restored Aquinas
+    verbatim; *Humani Generis* on monogenism (reaffirmed not
+    ratified, with HG 37 cite); Constantinople III date
+    680→680-681; Bethlehem-as-house-of-bread reattributed from
+    Aquinas to the Fathers; *Sheol* → *limbus patrum*; vague
+    Council of Constantinople specified as Chalcedon and
+    Constantinople III; Faustina/Mary 'hour of death' promise
+    re-grounded on Christ's verifiable promises in Diary 687/1541
+    and the Brown Scapular promise.
+  * `af50e10` — **Decalogue** (041, 045, 048, 049): de-quoted the
+    promise-less paraphrase; Didache 2.2 citation restored in
+    full; CCC 2267 framing strengthened to dignity-grounded
+    inadmissibility (with EV 56); Augustine *Confessions* X.29.40
+    standard rendering; *writing*→*preaching* in 1273; Zacchaeus
+    rephrased to match Luke 19.
+  * `2ec185f` — **Virtues + Sacraments** (058, 067, 069, 070,
+    071, 073, 076, 078, 080): Beatitudes-vices schema attribution
+    softened; *fallitur* gloss tightened to *are deceived*;
+    Augustine on daily Communion reframed as distillation, not
+    verbatim; Curé of Ars story restored to its proper direction
+    (peasant said it); bloody/unbloody distinction reattributed to
+    Trent Session XXII (1562); Ignatian Examen reattributed from
+    Aquinas to Ignatius and de Sales; Aquinas-on-satisfaction
+    de-italicized as paraphrase; Donatist controversy moved to
+    early-fifth-century with Augustine as primary mover; matter/
+    form of Matrimony corrected (consent itself is matter and
+    form), with Latin-Church qualifier on the spouses as ministers.
+  * `d4c4f45` — **Prayer arc** (083, 084, 086, 087, 089): four ways
+    of fatherhood→three (inheritance is fruit of adoption); 084's
+    'three asks' reframed as editorial synthesis from the wider
+    tradition rather than verbatim Aquinas; Mary/Gethsemane pairing
+    softened; *earliest-Christians-every-Mass* anchored to
+    Gregory-the-Great's Roman Mass; 2018 Italian Pater Noster
+    change dated 29 November 2020 (when the new Missal took
+    effect).
+
+**Cross-reference verification:** All 15 inline `Session NNN`
+pointers in the EN editorials, and the 15 mirroring `Sessão NNN`
+pointers in PT-BR, were already verified by the previous agent
+and remain correct after these corrections. No cross-reference
+needed updating.
+
+**book.json description:** Both EN and PT descriptions now state
+explicitly that every session carries a brief Ember-original
+pastoral reading alongside the verbatim catechism. Surfaces the
+full editorial structure for store-listing copy that quotes the
+description verbatim. Commit: `a2e7d4f`.
+
+**What remained uncertain — flagged for human review:**
+
+  * **028, line 7** — the Liguori/Bridget verbatim line *No one
+    in the world, however accursed, while he lives, is deprived
+    of my mercy*. Substance is consistent with Liguori's *Glories
+    of Mary* and the *Revelations* of St. Bridget; verbatim
+    accuracy against a critical edition is desirable before
+    print. Did not change pending verification (the substance is
+    pastorally sound).
+  * **PT-BR fluency** — a native Brazilian speaker pass on the
+    full 90-session editorial overlay would catch any remaining
+    English-calque phrasing that a non-native reviewer cannot
+    detect. The corrections in this phase preserved the existing
+    PT-BR cadence and only changed phrases that mirrored EN edits.
+
+**What was deliberately NOT done in this phase:**
+
+  * Wholesale rewriting of any editorial (per the user's brief —
+    edit, don't replace). The voice was preserved.
+  * Touching the verbatim catechism source files (Pius X 1912,
+    Aquinas Catechetical Instructions, Roman Catechism of Trent).
+    No transcription errors were found.
+  * Importing The Imitation of Christ (still queued).
+  * Reordering the 90 sessions (intentional traditional order).
+  * App-rendering smoke test — the editorial H2 label rendering
+    was verified by the build pipeline only; a UI smoke test
+    against four sample sessions (005, 045, 067, 088) is queued
+    for a session that has the dev server running.
+
+**Quality-bar check:** Theologically more accurate after this
+pass. Quotation attributions are now either verified, paraphrase-
+framed, or sourced. Conciliar dates are precise. The editorial
+voice is unchanged. The book is now meaningfully closer to
+shippable.
+
+End of Phase 9.
+
 

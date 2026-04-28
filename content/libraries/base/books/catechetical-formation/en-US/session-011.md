@@ -25,7 +25,7 @@
 
 ## A pastoral reading
 
-Modern Catholic life often pretends the doctrine of the *first parents* is folklore, a children's story to be politely set aside in adulthood. The Church has never permitted this. The catechism above teaches what *Humani Generis* (Pius XII, 1950) ratified for the modern era: **monogenism — the doctrine that the human race descends from one original couple, who possessed real bodies, real souls, and a real condition of grace before they fell.**
+Modern Catholic life often pretends the doctrine of the *first parents* is folklore, a children's story to be politely set aside in adulthood. The Church has never permitted this. The catechism above teaches what *Humani Generis* (Pius XII, 1950) reaffirmed for the modern era: **monogenism — the doctrine that the human race descends from one original couple, who possessed real bodies, real souls, and a real condition of grace before they fell.** *Humani Generis* §37 holds that the faithful "cannot embrace" polygenism, since it cannot be reconciled with the doctrine of original sin handed on by the Church.
 
 The Church distinguishes carefully between **the literary mode of Genesis 2–3 and the historical truth it conveys**. We are not bound to read the seven days literally, or the talking serpent literally, or to insist that the Garden was at a particular latitude. We *are* bound to hold:
 

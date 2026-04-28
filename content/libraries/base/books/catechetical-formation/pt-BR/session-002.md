@@ -69,7 +69,7 @@ Não há terceiro lugar. A gravidade do catecismo não é exagero: ao fim de tod
 
 Mas o catecismo faz aqui algo mais. Ele não se detém no céu e no inferno. Ele dobra — na pergunta 19 — para a Trindade. *Há um só Deus, mas em três Pessoas.* Esta é a resposta mais profunda à pergunta *por que estamos aqui?*. Não fomos feitos apenas para a observância moral, nem para uma imortalidade agradável. Fomos feitos para a vida íntima do próprio Deus. O Pai, o Filho e o Espírito Santo não são um comitê cósmico. São uma comunhão eterna de amor, e somos convidados *para dentro* dela.
 
-Como esse convite nos alcança? Pela Encarnação. *O Filho de Deus se fez homem para nos salvar.* São Tomás chama isto de *opus admirabile* — a mais admirável das obras de Deus: que o Eterno entrou no tempo, e fez isto por amor a você, mesmo quando nossa raça O havia recusado. Ele veio para fazer satisfação por sua Cruz, e para nos ensinar, com sua vida, a viver como aqueles que são amados.
+Como esse convite nos alcança? Pela Encarnação. *O Filho de Deus se fez homem para nos salvar.* A tradição latina chama isto de *admirabile commercium* — *o admirável intercâmbio*: Deus toma a nossa humanidade para que recebamos a Sua divindade. O Eterno entrou no tempo, e fez isto por amor a você, mesmo quando nossa raça O havia recusado. Ele veio para fazer satisfação por sua Cruz, e para nos ensinar, com sua vida, a viver como aqueles que são amados.
 
 Por isso, o catecismo de hoje, sob sua linguagem simples, pergunta a você apenas isto: *de qual horizonte serei? No amor de quem aposto a minha vida inteira?* Escolha como alguém que já sabe a resposta.
 

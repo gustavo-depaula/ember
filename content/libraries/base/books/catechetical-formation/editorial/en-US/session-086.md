@@ -1,4 +1,4 @@
-There is no harder petition. *Thy will be done* — *not mine* — is the renunciation that makes all the others possible. Aquinas treats it almost reverently. He notes that this petition was prayed twice in salvation history with cosmic consequences: by **Mary** at the Annunciation (*Be it done unto me according to thy word*), making the Incarnation possible; and by **Christ** at Gethsemane (*Father ... not my will, but Thine, be done*), making the Cross possible. The petition is the seam where divine and human will meet.
+There is no harder petition. *Thy will be done* — *not mine* — is the renunciation that makes all the others possible. Aquinas treats it almost reverently. The Catholic tradition has long heard this petition prayed twice in salvation history with cosmic consequences: by **Mary** at the Annunciation (*Be it done unto me according to thy word*, Luke 1:38), making the Incarnation possible; and by **Christ** at Gethsemane (*Father ... not my will, but Thine, be done*, Luke 22:42), making the Cross possible. The petition is the seam where divine and human will meet.
 
 What does it actually mean to pray it? Three corollaries.
 

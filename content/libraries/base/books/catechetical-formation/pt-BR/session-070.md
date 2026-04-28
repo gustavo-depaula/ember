@@ -130,7 +130,7 @@ O que acontece numa Hora Santa? **Quase nada.** É essa a sua glória.
   * A sua mente vai vaguear. Traga-a de volta. Vai vaguear de novo. Traga-a de volta. **O vaguear não é fracasso**; o *retornar* é a adoração.
   * Às vezes você sentirá a Sua presença. Muitas vezes não sentirá nada. *Os sentidos falham*, como Aquino advertiu. A fé relata o que o sentido não consegue.
 
-Os santos católicos que escreveram sobre isto — Francisco de Sales, João Vianney, Margarida Maria Alacoque, Faustina, Madre Teresa — concordam no testemunho central: **a alma muda lentamente por sentar-se diante de Cristo**. O Cura d'Ars disse do seu camponês que visitava a igreja todo dia: *Eu O olho, e Ele me olha.* Basta isto.
+Os santos católicos que escreveram sobre isto — Francisco de Sales, João Vianney, Margarida Maria Alacoque, Faustina, Madre Teresa — concordam no testemunho central: **a alma muda lentamente por sentar-se diante de Cristo**. O Cura d'Ars perguntou a um velho camponês o que ele fazia em suas longas visitas diante do Sacrário. O camponês respondeu: *Eu O olho, e Ele me olha.* Basta isto.
 
 Três disciplinas práticas:
 

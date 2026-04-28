@@ -860,7 +860,7 @@ Aquinas walks the doctrine carefully. The priest possesses, by ordination, an *i
 
 Two doctrinal corollaries:
 
-  * **The unworthiness of an individual priest does not nullify his sacraments.** Aquinas, drawing on Augustine, settled this against the Donatists in the fourth century: the priest's holiness *helps* the people; his lack of it *grieves* God; **but his ordained acts remain valid**. The Mass said by a sinful priest is still the Mass; the absolution given by a struggling priest still absolves. The grace flows from Christ's action, not the priest's worthiness.
+  * **The unworthiness of an individual priest does not nullify his sacraments.** Augustine settled this against the Donatists in the early fifth century, and Aquinas systematized the teaching: the priest's holiness *helps* the people; his lack of it *grieves* God; **but his ordained acts remain valid**. The Mass said by a sinful priest is still the Mass; the absolution given by a struggling priest still absolves. The grace flows from Christ's action, not the priest's worthiness.
 
   * **There is one priesthood of Christ, with two participations.** Every baptized Christian shares in the *common priesthood of the faithful* — they offer the spiritual sacrifice of their lives. The ordained priest shares in the *ministerial priesthood* — he stands *in the Person of Christ* to consecrate the Eucharist, forgive sins sacramentally, and shepherd the people. Both priesthoods are real; they are not in competition; they are both ordered to the same Christ.
 

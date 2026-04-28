@@ -10,6 +10,6 @@ Three corollaries for living this week.
 
   1. **Take it seriously without panic.** The doctrine is gravity, not despair. *God wills all men to be saved* (1 Timothy 2:4). His mercy reaches as far as it can without overriding the freedom He gave us. If you are seeking Him, you are not in danger.
 
-  2. **Pray for those who do not seek Him.** Especially those you love who have stopped or never started. Their salvation is not closed. Mary appeared to St. Faustina and said *the souls of those who pray to me at the hour of their death will not be lost*. Pray *especially* for the hour of their death.
+  2. **Pray for those who do not seek Him.** Especially those you love who have stopped or never started. Their salvation is not closed. Christ Himself promised St. Faustina that whoever prays the Chaplet of Divine Mercy *at the hour of death* receives extraordinary graces (*Diary* §687, §1541). The Brown Scapular carries an analogous Marian promise. Pray *especially* for the hour of their death — that is the hour when grace meets the soul one last time.
 
   3. **Live now as if every act counted forever.** Because it does. *Lord, today, tip me one inch further toward the heaven I cannot yet see.* The dancing figures of Fra Angelico's heaven (today's image) are not a metaphor. They are what you are made for.
