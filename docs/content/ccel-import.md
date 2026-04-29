@@ -11,7 +11,7 @@ Convert public-domain ThML files from the [Christian Classics Ethereal Library](
 curl -L -o /tmp/imitation.xml https://ccel.org/ccel/kempis/imitation/imitation.xml
 
 # 2. Run the importer
-python scripts/ccel-import.py \
+python content/libraries/ccel-classics/scripts/ccel-import.py \
   --input /tmp/imitation.xml \
   --library ccel-classics \
   --book-id kempis-imitation-of-christ \
@@ -73,7 +73,7 @@ After import, before committing:
   - Scripture quotes preserve their text but no `passage="…"` leaks through.
   - Footnotes appear at the bottom and resolve.
   - Verse / poetry blocks render as blockquotes.
-- [ ] If the importer reported unknown elements, check whether they need a mapping (open an issue or extend `scripts/ccel/markdown.py`).
+- [ ] If the importer reported unknown elements, check whether they need a mapping (open an issue or extend `content/libraries/ccel-classics/scripts/ccel/markdown.py`).
 - [ ] Verify dropped link count is small (< 1% of paragraphs); if higher, audit before committing.
 
 ## Granularity tips
@@ -113,7 +113,7 @@ CCEL inter-work links (`<a href="ccel:augustine/confessions">…`) are dropped; 
 ## Tests
 
 ```bash
-cd scripts && python3 -m unittest ccel.tests.test_importer -v
+cd content/libraries/ccel-classics/scripts && python3 -m unittest ccel.tests.test_importer -v
 ```
 
-The tests run end-to-end against `scripts/ccel/tests/fixtures/sample.xml`, a synthetic ThML document that exercises every element the importer handles (DC fields, nested `divN`, `scripRef`, `note`, `lg`/`l`, `q`, `list`/`item`, `pb`, cross-doc `<a>`, named entities).
+The tests run end-to-end against `content/libraries/ccel-classics/scripts/ccel/tests/fixtures/sample.xml`, a synthetic ThML document that exercises every element the importer handles (DC fields, nested `divN`, `scripRef`, `note`, `lg`/`l`, `q`, `list`/`item`, `pb`, cross-doc `<a>`, named entities).

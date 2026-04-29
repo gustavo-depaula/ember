@@ -364,7 +364,7 @@ HTML source (Gutenberg, CCEL, Internet Archive)
   → build-libraries.sh (copy CSS + zip into .pray)
 ```
 
-For CCEL ThML imports specifically, use `scripts/ccel-import.py` — see `docs/content/ccel-import.md`.
+For CCEL ThML imports specifically, use `content/libraries/ccel-classics/scripts/ccel-import.py` — see `docs/content/ccel-import.md`.
 
 ---
 

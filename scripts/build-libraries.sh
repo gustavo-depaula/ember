@@ -60,9 +60,9 @@ for lib_dir in "$LIBRARIES_SRC"/*/; do
 
   rm -f "$LIBRARIES_OUT/$filename"
 
-  # Include everything; exclude dot-files
+  # Include everything; exclude dot-files, library-local tooling, and Python caches
   (cd "$build_dir" && zip -r "$LIBRARIES_OUT/$filename" . \
-    -x '.*' \
+    -x '.*' 'scripts/*' '*/scripts/*' '__pycache__/*' '*/__pycache__/*' \
     > /dev/null)
   echo "  $filename ($(wc -c < "$LIBRARIES_OUT/$filename" | tr -d ' ') bytes)"
 done
