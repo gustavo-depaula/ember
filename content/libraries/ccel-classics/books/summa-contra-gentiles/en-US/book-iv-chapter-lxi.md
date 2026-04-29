@@ -1,0 +1,9 @@
+# Chapter LXI. Of the Eucharist
+
+**CHAPTER LXI**—*Of the Eucharist*
+
+BECAUSE spiritual effects are produced on the pattern of visible effects, it was fitting that our spiritual nourishment should be given us under the appearances of those things that men commonly use for their bodily nourishment, namely bread and wine. And for the further correspondence of spiritual signs with bodily effects, in the spiritual regeneration of Baptism the mystery of the Word Incarnate is united with us otherwise than as it is united in this Sacrament of the Eucharist, which is our spiritual nourishment. In Baptism the Word Incarnate is only virtually contained, but in the Sacrament of the Eucharist we confess Him to be contained substantially, as nourishment must be substantially united with the nourished.
+
+And because the completion of our salvation was wrought by Christ’s passion and death, whereby His Blood was separated from His Body, therefore the Sacrament of His Body is given us separately under the species of bread, and His Blood under the species of wine.[^1]
+
+[^1]: Thus the consecration of the Eucharist becomes a memorial of Christ’s death, and thereby assumes the character of a representative Sacrifice. See *Oxford and Cambridge Conferences*, First Series, pp. 292-306.

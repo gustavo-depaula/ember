@@ -28,20 +28,26 @@ pnpm build:libraries
 ## What the importer does
 
 1. Parses the ThML file (HTML named entities pre-substituted; DOCTYPE stripped so `lxml` doesn't try to fetch a remote DTD).
-2. Pulls `DC.Title`, `DC.Creator`, `DC.Date`, `DC.Language`, `DC.Identifier` from `<ThML.head>/<electronicEdInfo>`.
-3. Walks `<div1>/<div2>/<div3>` and picks one as the **chapter level** — by default the deepest level whose median word count lands in `[500, 5000]`. Override with `--chapter-level div1|div2|div3`.
-4. For each chapter, converts the body XML to Markdown:
-   - `<p>` → paragraph
+2. Pulls metadata from `<ThML.head>` — both element form (`<DC.Creator scheme="short-form">…</DC.Creator>`) and HTML form (`<meta name="DC.Creator" content="…">`):
+   - **Title**: prefers `DC.Title sub="Main"`.
+   - **Author**: prefers `DC.Creator scheme="short-form"`, then `file-as`. Skips the bare `scheme="ccel"` slug.
+   - **Composed date**: prefers `<firstPublished>`/`<published>` from `<generalInfo>` over `<DC.Date sub="Created">` (which is the digital-edition timestamp). Plain `DC.Date` only used when it's a pre-1900 4-digit year.
+   - **Source URL**: prefers an http(s) `DC.Identifier`; otherwise synthesizes `https://www.ccel.org/ccel/<authorID>/<bookID>/`.
+3. **Skips top-level "Indexes" / "Contents" / "Index of …" sections** — these are auto-generated navigation aids in CCEL files, not reading content.
+4. Walks `<div1>/<div2>/<div3>` and picks one as the **chapter level** — by default the deepest level whose median word count lands in `[500, 5000]`. Override with `--chapter-level div1|div2|div3`.
+5. For each chapter, converts the body XML to Markdown:
+   - `<p>` → paragraph (whitespace-only `<p> </p>` spacers are dropped)
    - `<scripRef passage="…">text</scripRef>` → just the text (the `passage` attribute is dropped in v1; live scripture linking is a future feature, see `docs/content/book-format.md`)
    - `<note>` → Markdown footnote (`[^N]` + definition appended), rendered by `marked-footnote` in `bookReader.ts`
-   - `<lg>`/`<l>` → blockquote with two-space hard breaks per line
+   - `<lg>`/`<verse>`/`<l>` → blockquote with two-space hard breaks per line
    - `<q>` → curly-quoted inline
-   - `<list>`/`<item>` → `- item`
+   - `<list>`/`<item>` and `<ul>`/`<ol>`/`<li>` → `- item`
    - `<i>`/`<emph>` → `*…*`, `<b>` → `**…**`
    - `<a href=…>` → text only (cross-document links dropped in v1; count logged)
-   - `<scripCom>`/`<scripContext>`/`<pb/>`/`<a name=…>` → stripped
-5. Emits `book.json` with ancestor-qualified TOC ids (`book-1-chapter-1`, etc.) and writes `<lang>/<id>.md` per leaf.
-6. Idempotently appends the new book to `content/libraries/ccel-classics/library.json`.
+   - `<scripCom>`/`<scripContext>`/`<pb/>`/`<a name=…>`/`<img>`/`<index>`/`<indexterm>` → stripped
+   - Leading sub-headings inside a chapter body (CCEL's `<h4>The First Chapter</h4>` / `<h3>{title}</h3>` print decorations) are dropped — we already inject our own `# {title}` H1.
+6. Emits `book.json` with ancestor-qualified TOC ids (`book-1-chapter-1`, etc.) and writes `<lang>/<id>.md` per leaf. Slugs prefer `(type, n)` pairs (`chapter-1`), then a "PART/BOOK/CHAPTER N" prefix detected in the title (`part-i`, `chapter-vii`), then the first six words of the title.
+7. Idempotently appends the new book to `content/libraries/ccel-classics/library.json`.
 
 ## Finding ThML URLs on CCEL
 
@@ -73,8 +79,20 @@ After import, before committing:
 ## Granularity tips
 
 - Short devotional works (Imitation, Devout Life): `--chapter-level auto` usually picks `div2`.
-- Massive multi-book works (Summa Contra Gentiles, Confessions): often want `--chapter-level div2` so each "Caput" / chapter is one file. `div1` would put a whole "Liber" in one chapter (too long).
+- Massive multi-book works (Summa Contra Gentiles): `auto` lands on `div2` (each chapter), giving ~387 short readable files.
+- Augustine's Confessions: CCEL's source uses **only `<div1>` per book** with paragraph-marked chapter headings inside (`<p class="chapter">CHAPTER I</p>`). `auto` picks `div1`, producing 13 large book-length files. Pass `--chapter-level div1` (or just leave it on auto) and accept the granularity, or hand-split later. Promoting the inline chapter-paragraphs to H2s is a future improvement.
 - Use `--dry-run` to preview the TOC without writing files.
+
+## Pilot books imported
+
+Battle-tested on the four pilot works in `ccel-classics`:
+
+| Book | Source | Chapters | Notes |
+|------|--------|---------:|-------|
+| Imitation of Christ (à Kempis) | `kempis/imitation.xml` | 116 | 4 books × ~30 chapters each |
+| Introduction to the Devout Life (de Sales) | `desales/devout_life.xml` | 120 | Pass `--composed 1609` (DC.Date is the digitization timestamp). |
+| Confessions (Augustine) | `augustine/confessions.xml` | 15 | Each "Book" = one file. Pass `--composed 397`. |
+| Summa Contra Gentiles (Aquinas) | `aquinas/gentiles.xml` | 387 | Title is "Of God and His Creatures" (Rickaby's English title). Pass `--composed 1259-1265`. |
 
 ## Licensing & attribution
 

@@ -1,0 +1,19 @@
+# Chapter LXXXVIII. Of Sex and Age in the Resurrection
+
+**CHAPTER LXXXVIII**—*Of Sex and Age in the Resurrection*
+
+STILL we must not suppose, what some have thought, that female sex has no place in the bodies of the risen Saints. For since resurrection means the reparation of the defects of nature, nothing of what makes for the perfection of nature will be withdrawn from the bodies of the risen. Now among other organs that belong to the integrity of the human body are those which minister to generation as well in male as in female. These organs therefore will rise again in both. Nor is this conclusion impaired by the fact that there will be no longer any use of these organs (Chap. LXXXIII). If that were any ground for their absence from the risen body, all the organs bearing on digestion and nutrition should be absent, for there will not be any use for them either: thus great part of the organs proper to man would be wanting in the risen body. We conclude that all such organs will be there, even organs of which the function has ceased: these will not be there without a purpose, since they will serve to make up the restored integrity of the natural body.[^1]
+
+Neither is the weakness of the female sex inconsistent with the perfection of the resurrection. Such weakness is no departure from nature, but is intended by nature.[^2] This natural differentiation will argue the thoroughgoing perfection of nature, and commend the divine wisdom that arranges creation in diversity of ranks and orders. Nor is there anything to the contrary in the expression of the Apostle: *Till we all meet and attain to the unity of faith and recognition of the Son of God, even to a perfect man, to the measure of the full stature of Christ* (Eph. iv, 13). This does not mean that in that meeting in which the risen shall go forth *to meet Christ in the air*[^3] every one shall be of the male sex, but it indicates the perfection and strength of the Church, for the whole Church shalt be like a perfect, full-grown man, going out to meet Christ.[^4]
+
+Again, all must rise at the age of Christ,[^5] which is the age of perfect manhood, for the sake of the perfection of nature, which is at its best in this age above others.
+
+[^1]: And surely it is becoming that the arms of righteousness (Rom. vi, 13: 2 Cor. vi, 7) should remain to the risen warrior.
+
+[^2]: The celebrated saying about the *mas accidentatus* occurs in Aristotle, *De gen. animal.* B. II, iii, 18, τὸ γὰρ θῆλυ ὣσπερ ἄρρεν ἐστὶ πεπηρωμένον. St Thomas seems to have had it in mind here to repudiate it. Whatever is ‘intended by nature’ is *per se* and not *per accidens*.
+
+[^3]: The reference is to 1 Thess. iv, 17, where however the subject is not ‘the risen,’ but * we who live, who are left behind*, who seem to be contrasted with ‘the risen ’ in the previous verse 16, as also in 1 Cor. xv, 51 (Greek): 2 Cor. v, 4. Really this 1 Thess. iv, 17, is not a parallel passage to Eph. iv, 13. From what the Apostle says in the latter passage we are led to hope that the divisions of Christendom may one day be healed, and the imperfect faith of so many good men may be made perfect in Catholic unity; but the text has no immediate bearing on the resurrection of the body. The schoolmen are not at their best in exegesis.
+
+[^4]: Rather the converse of the usual Scriptural figure, — Matt. xxv, 6: Apoc. xix, 7: xxi, 2: besides the long passage in the same Epistle, Eph. v, 23-32. The *perfect man* of Eph. iv, 13, is explained by the contrast of *babes* in the next verse: cf. Heb. v, 13, 14, where the same contrast recurs.
+
+[^5]: *In aetate Christi*, a conclusion suggested by *aetatis plenitudinis Christi* (Vulgate, l. c). The intrinsic appropriateness of this conclusion is more striking than its exegetical cogency. It is commonly held by Catholics, although not with the certitude of faith. Nor is it devoid of philosophical significance: cf B. II, Chap. LXXV, B. II, Chap. LXXXI, with notes.

@@ -1,0 +1,7 @@
+# Chapter XLVI. That God understands by nothing else than by His own Essence
+
+**CHAPTER XLVI**—*That God understands by nothing else than by His own Essence*
+
+UNDERSTANDING is brought actually to understand by an impression made on the understanding, just as sense comes actually to feel by an impression made on sense. The impression made on the understanding then is to the understanding as actuality to potentiality. If therefore the divine understanding came to understand by any impression made on the understanding other than the understanding itself, the understanding would be in potentiality towards that impression, which, it has been shown, cannot be (Chap. XVI, XVII).
+
+3. Any impression on the understanding that is in the understanding over and above its essence, has an accidental being: by reason of which fact our knowledge reckons as an accident. But there can be no accident in God. Therefore there is not in His understanding any impression besides the divine essence itself.

@@ -1,0 +1,23 @@
+# Chapter XCII. That the Souls  of the Saints after Death have their Will immutably fixed on Good
+
+**CHAPTER XCII**—*That the Souls of the Saints after Death have their Will immutably fixed on Good*
+
+SO long as a soul can change from good to evil, or from evil to good, it is in a state of combat and warfare: it has to be careful in resisting evil, not to be overcome by it, or in endeavouring to set itself free from it. But so soon as the soul is separated from the body, it will be no longer in the state of warfare or combat, but of receiving reward or punishment, according as it has lawfully fought or unlawfully.[^1]
+
+3. Naturally the rational creature desires to be happy: hence it cannot will not to be happy: still its will may turn aside from that in which true happiness consists, or, in other words, it may have a perverse will: this comes of the object of true happiness not being apprehended as such, but some other object in its stead,[^2] and to this the will inordinately turns, and makes a last end of it: thus he who makes bodily pleasures the end of his existence, counts them best of good things, which is the idea of happiness. But they who are already blessed in heaven apprehend the object of true happiness as making their happiness and last end: otherwise their desire would not be set at rest in that object, and they would not be blessed and happy. The will of the blessed therefore cannot swerve from the object of true happiness.
+
+4. Whoever has enough in what he has, seeks nothing else beyond. But whoever is finally blessed has enough in the object of true happiness, and therefore seeks nothing that is not in keeping with that object. Now the only way in which the will can be perverse is by willing something inconsistent with the object of true happiness.
+
+5. Sin never befalls the will without some ignorance in the understanding [cf. B. III, Chap. X]: hence it is said, *They are mistaken who do evil* (Prov. xiv, 22); and the Philosopher says that every evil man is ignorant.[^3] But the soul that is truly blessed can in no way be ignorant, since in God it sees all things that appertain to its perfect well-being. In no way then can it have an evil will, especially since that vision of God is always actual.
+
+6. Our soul can err about conclusions before it is brought back to first principles. When the knowledge of conclusions is carried back to first principles, we have scientific knowledge which cannot be false.[^4] Now as the principle of demonstration is in abstract sciences, so is the scope, end and aim, in matters of desire. So long then as our will does not attain its final end, it may be perverted, but not after it has arrived at the enjoyment of its final end, which is desirable for its own sake, as the principles of demonstration are self-evident.[^5].
+
+[^1]: “There might be probation after probation even in the world to come. But some human souls would continue obstinately and unrepentingly set in wickedness, age after age, and probation after probation: for the possible malice of the will is vastly great. What is to become of such obstinate charaders? It seems against the idea of probation, that periods of trial should succeed one another in an endless series. . . . . The series of probations must end somewhere. And then?” (*Ethics and Natural Law*, p. 166.) “All this speculation, be it understood, lies apart from revelation” (ib. p. 165). St Thomas however presently (Chap. XCV) argues the notion of any probation at all in the next world to be an *a priori* impossibility.
+
+[^2]: Plato, *Theaetetus*, 199b. “When the various articles of knowledge are flying about in the aviary of his mind, wishing to catch a certain article out of the general store, he takes the wrong one by mistake, as it were getting hold of the ring-dove, which he had in his mind, when he wanted the pigeon.”
+
+[^3]: *Eth. Nic.* III, ii, 14.
+
+[^4]: It cannot be false, in so far as the principles are correct, the sequence rigorous, and all facts relevant to the question are adequately gauged and put into the reckoning. A very difficult thing to do in the concrete sciences: not so difficult in arithmetic, geometry, and formal logic, upon which abstract sciences the *demonstratio* of the schoolmen, the Aristotelian ἀπόδειξις, is modelled.
+
+[^5]: *Per se nota*. As St Thomas observes (1a 2ae, q. 94, art. 2), there are propositions absolutely self-evident to any man who is not an idiot; and propositions relatively self-evident to the expert, who has kept up with the progress of a particular science, while to the layman, or the unprogressive student, they are not evident at all. At the same time, novelty is not always progress.

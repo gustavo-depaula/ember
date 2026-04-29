@@ -99,8 +99,14 @@ def _run(args: CliArgs) -> int:
         print("error: no <divN> elements found under <ThML.body>", file=sys.stderr)
         return 3
 
+    roots = [r for r in roots if not _is_index_section(r)]
+    if not roots:
+        print("error: no content sections after filtering out indexes", file=sys.stderr)
+        return 3
+
     chapter_level = thml.pick_chapter_level(roots, args.chapter_level)
     chapters = thml.flatten_chapters(roots, chapter_level)
+    chapters = [(a, c) for (a, c) in chapters if not _is_index_section(c)]
 
     print(
         f"  parsed: {len(roots)} top-level div(s); chapter level = div{chapter_level}; "
@@ -210,6 +216,7 @@ def _build_chapters(
 
         body_md, _ = md.convert(chapter.element, stats=stats)
         title = _title_text(chapter)
+        body_md = _strip_decorative_intro(body_md)
         body_with_heading = f"# {title}\n\n{body_md.lstrip()}"
         files.append((leaf_id, body_with_heading))
 
@@ -219,15 +226,82 @@ def _build_chapters(
     return toc, files, stats
 
 
+_SKIP_TITLES = {"index", "indexes", "contents", "table of contents", "toc"}
+_SKIP_TYPES = {"index", "indexes", "toc", "contents"}
+
+
+def _is_index_section(s: thml.Section) -> bool:
+    """CCEL puts navigation indexes (Subject Index, Index of Scripture References,
+    etc.) and front-matter tables of contents in regular div elements with a
+    recognizable title. These are auto-generated reference data, not reading
+    content — skip them."""
+    if (s.type or "").strip().lower() in _SKIP_TYPES:
+        return True
+    title = (s.title or "").strip().rstrip(".").strip().lower()
+    if title in _SKIP_TITLES:
+        return True
+    return title.startswith("index of ")
+
+
+def _strip_decorative_intro(body_md: str) -> str:
+    """Drop leading sub-headings at the top of a chapter body.
+
+    CCEL chapter source typically opens with print-edition decorations like
+    `<h4>The First Chapter</h4>` then `<h3>{title}</h3>`. Once we inject our
+    own `# {title}` H1, every leading sub-heading is redundant: keep the body
+    starting from the first non-empty, non-heading line.
+    """
+    lines = body_md.splitlines()
+    i = 0
+    while i < len(lines):
+        stripped = lines[i].strip()
+        if not stripped:
+            i += 1
+            continue
+        if stripped.startswith("#"):
+            i += 1
+            continue
+        break
+    if i == 0:
+        return body_md
+    return "\n".join(lines[i:])
+
+
+_SLUG_PREFIX_WORDS = {
+    "part",
+    "book",
+    "chapter",
+    "article",
+    "question",
+    "treatise",
+    "section",
+    "preface",
+}
+
+
 def _section_slug(s: thml.Section, fallback: str) -> str:
-    """Build a stable slug from (type, n), falling back to title."""
+    """Build a stable, short slug.
+
+    Priority:
+      1. type + n  → e.g. "chapter-1"
+      2. "PART I", "CHAPTER VII" prefix detected in title → "part-i", "chapter-vii"
+      3. first ~6 words of title (title-only fallback)
+      4. type alone (e.g. CCEL's `type="Book"` with no number) → "book"
+      5. raw CCEL id only as last resort (gives ugly "i-i-i" nesting)
+    """
     if s.type and s.n:
         return _slugify(f"{s.type} {s.n}", fallback=fallback)
+    title = (s.title or "").strip()
+    if title and title.lower() != "untitled":
+        words = title.split()
+        if len(words) >= 2 and words[0].lower().rstrip(".,") in _SLUG_PREFIX_WORDS:
+            return _slugify(f"{words[0]} {words[1]}", fallback=fallback)
+        return _slugify(" ".join(words[:6]), fallback=fallback)
     if s.type:
         return _slugify(s.type, fallback=fallback)
     if s.raw_id:
         return _slugify(s.raw_id, fallback=fallback)
-    return _slugify(s.title, fallback=fallback)
+    return _slugify("", fallback=fallback)
 
 
 def _title_text(s: thml.Section) -> str:

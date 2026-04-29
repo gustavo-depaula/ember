@@ -1,0 +1,2376 @@
+{
+  "id": "summa-contra-gentiles",
+  "name": {
+    "en-US": "Of God and His Creatures"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "author": {
+    "en-US": "St. Thomas Aquinas"
+  },
+  "composed": "1259–1265",
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.ccel.org/ccel/aquinas/gentiles/",
+      "description": "Christian Classics Ethereal Library (ccel.org)"
+    }
+  ],
+  "toc": [
+    {
+      "id": "title-page",
+      "title": {
+        "en-US": "Title Page"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "book-i",
+      "title": {
+        "en-US": "Book I. Of God as He Is in Himself"
+      },
+      "children": [
+        {
+          "id": "book-i-chapter-i",
+          "title": {
+            "en-US": "Chapter I. The Function of the Wise Man"
+          }
+        },
+        {
+          "id": "book-i-chapter-ii",
+          "title": {
+            "en-US": "Chapter II. Of the Author’s Purpose"
+          }
+        },
+        {
+          "id": "book-i-chapter-iii",
+          "title": {
+            "en-US": "Chapter III. That the Truths which we confess concerning God fall under two Modes or Categories"
+          }
+        },
+        {
+          "id": "book-i-chapter-iv",
+          "title": {
+            "en-US": "Chapter IV. That it is an advantage for the Truths of God, known by Natural Reason, to be proposed to men to be believed on faith"
+          }
+        },
+        {
+          "id": "book-i-chapter-v",
+          "title": {
+            "en-US": "Chapter V. That it is an advantage for things that cannot he searched out by Reason to be proposed as Tenets of Faith"
+          }
+        },
+        {
+          "id": "book-i-chapter-vi",
+          "title": {
+            "en-US": "Chapter VI. That there is no lightmindedness in assenting to Truths of Faith, although they are above Reason"
+          }
+        },
+        {
+          "id": "book-i-chapter-vii",
+          "title": {
+            "en-US": "Chapter VII. That the Truth of reason is not contrary to the Truth of Christian Faith"
+          }
+        },
+        {
+          "id": "book-i-chapter-viii",
+          "title": {
+            "en-US": "Chapter VIII. Of the Relation of Human Reason to the first Truth of Faith"
+          }
+        },
+        {
+          "id": "book-i-chapter-ix",
+          "title": {
+            "en-US": "Chapter IX. The Order and Mode of Procedure in this Work"
+          }
+        },
+        {
+          "id": "book-i-chapter-x",
+          "title": {
+            "en-US": "Chapter X. Of the Opinion of those who say that the Existence of God cannot he proved, being a Self-evident Truth"
+          }
+        },
+        {
+          "id": "book-i-chapter-xi",
+          "title": {
+            "en-US": "Chapter XI. Rejection of the aforesaid Opinion, and Solution of the aforesaid Reasons"
+          }
+        },
+        {
+          "id": "book-i-chapter-xii",
+          "title": {
+            "en-US": "Chapter XII. Of the Opinion of those who say that the Existence of God is a Tenet of Faith alone and cannot he demonstrated"
+          }
+        },
+        {
+          "id": "book-i-chapter-xiii",
+          "title": {
+            "en-US": "Chapter XIII. Reasons in Proof of the Existence of God"
+          }
+        },
+        {
+          "id": "book-i-chapter-xiv",
+          "title": {
+            "en-US": "Chapter XIV. That in order to a Knowledge of God we must use the Method of Negative Differentiation"
+          }
+        },
+        {
+          "id": "book-i-chapter-xv",
+          "title": {
+            "en-US": "Chapter XV. That God is Eternal"
+          }
+        },
+        {
+          "id": "book-i-chapter-xvi",
+          "title": {
+            "en-US": "Chapter XVI. That in God there is no Passive Potentiality"
+          }
+        },
+        {
+          "id": "book-i-chapter-xviii",
+          "title": {
+            "en-US": "Chapter XVIII. That in God there is no Composition"
+          }
+        },
+        {
+          "id": "book-i-chapter-xx",
+          "title": {
+            "en-US": "Chapter XX. That God is Incorporeal"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxi",
+          "title": {
+            "en-US": "Chapter XXI. That God is His own Essence"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxii",
+          "title": {
+            "en-US": "Chapter XXII. That in God Existence and Essence is the same"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxiii",
+          "title": {
+            "en-US": "Chapter XXIII. That in God there is no Accident"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxiv",
+          "title": {
+            "en-US": "Chapter XXIV. That the Existence of God cannot he characterised by the addition of any Substantial Differentia"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxv",
+          "title": {
+            "en-US": "Chapter XXV. That God is not in any Genus"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxvi",
+          "title": {
+            "en-US": "Chapter XXVI. That God is not the formal or abstract being of all things"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxviii",
+          "title": {
+            "en-US": "Chapter XXVIII. That God is Universal Perfection"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxix",
+          "title": {
+            "en-US": "Chapter XXIX. How Likeness to God may be found in Creatures"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxx",
+          "title": {
+            "en-US": "Chapter XXX. What Names can be predicated of God"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxi",
+          "title": {
+            "en-US": "Chapter XXXI. That the Plurality of divine Names is not inconsistent with the Simplicity of  the Divine Being predicated of God and of other Beings"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxii",
+          "title": {
+            "en-US": "Chapter XXXII. That nothing is predicated of God and other beings synonymously"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxiii",
+          "title": {
+            "en-US": "Chapter XXXIII. That it is not at all true that the application of common Predicates to God  and to Creatures involves nothing beyond a mere Identity of Name"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxiv",
+          "title": {
+            "en-US": "Chapter XXXIV. That the things that are said God and Creatures are said analogously"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxv",
+          "title": {
+            "en-US": "Chapter XXXV. That the several Names predicated of God are not synonymous"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxvi",
+          "title": {
+            "en-US": "Chapter XXXVI. That the Propositions which our Understanding forms of God are not void of meaning"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxviii",
+          "title": {
+            "en-US": "Chapter XXXVIII. That God is His own Goodness"
+          }
+        },
+        {
+          "id": "book-i-chapter-xxxix",
+          "title": {
+            "en-US": "Chapter XXXIX. That in God there can be no Evil"
+          }
+        },
+        {
+          "id": "book-i-chapter-xl",
+          "title": {
+            "en-US": "Chapter XL. That God is the Good of all Good"
+          }
+        },
+        {
+          "id": "book-i-chapter-xlii",
+          "title": {
+            "en-US": "Chapter XLII. That God is One"
+          }
+        },
+        {
+          "id": "book-i-chapter-xliii",
+          "title": {
+            "en-US": "Chapter XLIII. That God is Infinite"
+          }
+        },
+        {
+          "id": "book-i-chapter-xliv",
+          "title": {
+            "en-US": "Chapter XLIV. That God has Understanding"
+          }
+        },
+        {
+          "id": "book-i-chapter-xlv",
+          "title": {
+            "en-US": "Chapter XLV. That in God the Understanding is His very Essence"
+          }
+        },
+        {
+          "id": "book-i-chapter-xlvi",
+          "title": {
+            "en-US": "Chapter XLVI. That God understands by nothing else than by His own Essence"
+          }
+        },
+        {
+          "id": "book-i-chapter-xlvii",
+          "title": {
+            "en-US": "Chapter XLVII. That God perfectly understands Himself"
+          }
+        },
+        {
+          "id": "book-i-chapter-xlviii",
+          "title": {
+            "en-US": "Chapter XLVIII. That God primarily and essentially knows Himself alone"
+          }
+        },
+        {
+          "id": "book-i-chapter",
+          "title": {
+            "en-US": "Chapter"
+          }
+        },
+        {
+          "id": "book-i-chapter-l",
+          "title": {
+            "en-US": "Chapter L. That God has a particular Knowledge of all things"
+          }
+        },
+        {
+          "id": "book-i-chapter-li",
+          "title": {
+            "en-US": "Chapter LI. Some Discussion of the Question how there is in the Divine Understanding a Multitude of Objects"
+          }
+        },
+        {
+          "id": "book-i-chapter-lii",
+          "title": {
+            "en-US": "Chapter LII. Reasons to show how the Multitude of intelligible Ideal Forms has no Existence  except in the Divine Understanding"
+          }
+        },
+        {
+          "id": "book-i-chapter-liii",
+          "title": {
+            "en-US": "Chapter LIII. How there is in God a Multitude of Objects of Understanding"
+          }
+        },
+        {
+          "id": "book-i-chapter-liv",
+          "title": {
+            "en-US": "Chapter LIV. That the Divine Essence, being One, is the proper Likeness and Type of all things  Intelligible"
+          }
+        },
+        {
+          "id": "book-i-chapter-lv",
+          "title": {
+            "en-US": "Chapter LV. That God understands all things at once and together"
+          }
+        },
+        {
+          "id": "book-i-chapter-lvi",
+          "title": {
+            "en-US": "Chapter LVI. That there is no Habitual Knowledge in God"
+          }
+        },
+        {
+          "id": "book-i-chapter-lvii",
+          "title": {
+            "en-US": "Chapter LVII. That the Knowledge of God is not a Reasoned Knowledge"
+          }
+        },
+        {
+          "id": "book-i-chapter-lviii",
+          "title": {
+            "en-US": "Chapter LVIII. That God does not understand by Combination and Separation of Ideas"
+          }
+        },
+        {
+          "id": "book-i-chapter-lix",
+          "title": {
+            "en-US": "Chapter LIX. That the Truth to be found in Propositions is not excluded from God"
+          }
+        },
+        {
+          "id": "book-i-chapter-lx",
+          "title": {
+            "en-US": "Chapter LX. That God is Truth"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxi",
+          "title": {
+            "en-US": "Chapter LXI. That God is pure Truth"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxii",
+          "title": {
+            "en-US": "Chapter LXII. That the Truth of God is the First and Sovereign Truth"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxiii",
+          "title": {
+            "en-US": "Chapter LXIII. The Arguments of those who wish to withdraw from God the Knowledge of Individual Things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxiv",
+          "title": {
+            "en-US": "Chapter LXIV. A list of things to be said concerning the Divine Knowledge"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxv",
+          "title": {
+            "en-US": "Chapter LXV. That God Knows Individual Things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxvi",
+          "title": {
+            "en-US": "Chapter LXVI. That God knows things which are not"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxvii",
+          "title": {
+            "en-US": "Chapter LXVII. That God knows Individual Contingent Events"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxviii",
+          "title": {
+            "en-US": "Chapter LXVIII. That God knows the Motions of the Will"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxix",
+          "title": {
+            "en-US": "Chapter LXIX. That God knows infinite things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxx",
+          "title": {
+            "en-US": "Chapter LXX. That God knows Base and Mean Things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxi",
+          "title": {
+            "en-US": "Chapter LXXI. That God knows Evil Things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxii",
+          "title": {
+            "en-US": "Chapter LXXII. That God has a Will"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxiii",
+          "title": {
+            "en-US": "Chapter LXXIII. That the Will of God is His Essence"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxiv",
+          "title": {
+            "en-US": "Chapter LXXIV. That the Object of the Will of God in the First Place is God Himself"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxv",
+          "title": {
+            "en-US": "Chapter LXXV. That God in willing Himself wills also other things besides Himself"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxvi",
+          "title": {
+            "en-US": "Chapter LXXVI. That with one and the same Act of the Will God wills Himself and all other Beings"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxvii",
+          "title": {
+            "en-US": "Chapter LXXVII. That the Multitude of the Objects of God’s Will is not inconsistent with the Simplicity of His Substance"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxviii",
+          "title": {
+            "en-US": "Chapter LXXVIII. That the Divine Will reaches to the good of Individual Existences"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxix",
+          "title": {
+            "en-US": "Chapter LXXIX. That God wills things even that as yet are not"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxx",
+          "title": {
+            "en-US": "Chapter LXXX. That God of necessity wills His own Being and His own Goodness"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxi",
+          "title": {
+            "en-US": "Chapter LXXXI. That God does not of necessity love other things than Himself"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxii",
+          "title": {
+            "en-US": "Chapter LXXXII. Arguments against the aforesaid Doctrine and Solutions of the same"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxiii",
+          "title": {
+            "en-US": "Chapter LXXXIII. That God wills anything else than Himself with an Hypothetical Necessity"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxiv",
+          "title": {
+            "en-US": "Chapter LXXXIV. That the Will of God is not of things in themselves Impossible"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxv",
+          "title": {
+            "en-US": "Chapter LXXXV. That the Divine Will does not take away Contingency from things"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxvi",
+          "title": {
+            "en-US": "Chapter LXXXVI. That Reason can be assigned for the Divine Will"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxvii",
+          "title": {
+            "en-US": "Chapter LXXXVII. That nothing can be a Cause to the Divine Will"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxviii",
+          "title": {
+            "en-US": "Chapter LXXXVIII. That there is a Free Will in God"
+          }
+        },
+        {
+          "id": "book-i-chapter-lxxxix",
+          "title": {
+            "en-US": "Chapter LXXXIX. That there are no Passions in God"
+          }
+        },
+        {
+          "id": "book-i-chapter-xc",
+          "title": {
+            "en-US": "Chapter XC. That there is in God Delight and Joy"
+          }
+        },
+        {
+          "id": "book-i-chapter-xci",
+          "title": {
+            "en-US": "Chapter XCI. That there is Love in God."
+          }
+        },
+        {
+          "id": "book-i-chapter-xcii",
+          "title": {
+            "en-US": "Chapter XCII. In what sense Virtues can be posited in God"
+          }
+        },
+        {
+          "id": "book-i-chapter-xciii",
+          "title": {
+            "en-US": "Chapter XCIII. That in God there are the Virtues which regulate Action"
+          }
+        },
+        {
+          "id": "book-i-chapter-xciv",
+          "title": {
+            "en-US": "Chapter XCIV. That the Contemplative (Intellectual) Virtues are in God"
+          }
+        },
+        {
+          "id": "book-i-chapter-xcv",
+          "title": {
+            "en-US": "Chapter XCV. That God cannot will Evil"
+          }
+        },
+        {
+          "id": "book-i-chapter-xcvi",
+          "title": {
+            "en-US": "Chapter XCVI. That God hates nothing"
+          }
+        },
+        {
+          "id": "book-i-chapter-xcvii",
+          "title": {
+            "en-US": "Chapter XCVII. That God is Living"
+          }
+        },
+        {
+          "id": "book-i-chapter-xcviii",
+          "title": {
+            "en-US": "Chapter XCVIII. That God is His own Life"
+          }
+        },
+        {
+          "id": "book-i-chapter-xcix",
+          "title": {
+            "en-US": "Chapter XCIX. That the Life of God is everlasting"
+          }
+        },
+        {
+          "id": "book-i-chapter-c",
+          "title": {
+            "en-US": "Chapter C. That God is Happy"
+          }
+        },
+        {
+          "id": "book-i-chapter-ci",
+          "title": {
+            "en-US": "Chapter CI. That God Is His own Happiness"
+          }
+        },
+        {
+          "id": "book-i-chapter-cii",
+          "title": {
+            "en-US": "Chapter CII. That the Happiness of God is most perfect, and exceeds all other happiness"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-ii",
+      "title": {
+        "en-US": "Book II. God the Origin of Creatures"
+      },
+      "children": [
+        {
+          "id": "book-ii-chapter-i",
+          "title": {
+            "en-US": "Chapter I. Connexion of what follows with what has gone before."
+          }
+        },
+        {
+          "id": "book-ii-chapter-iv",
+          "title": {
+            "en-US": "Chapter IV. That the Philosopher and the Theologian view Creatures from Different Standpoints"
+          }
+        },
+        {
+          "id": "book-ii-chapter-v",
+          "title": {
+            "en-US": "Chapter V. Order of Matters to be Treated"
+          }
+        },
+        {
+          "id": "book-ii-chapter-vi",
+          "title": {
+            "en-US": "Chapter VI. That it belongs to God to be to other Beings the Principle of Existence"
+          }
+        },
+        {
+          "id": "book-ii-chapter-vii",
+          "title": {
+            "en-US": "Chapter VII. That there is in God Active Power"
+          }
+        },
+        {
+          "id": "book-ii-chapter-viii",
+          "title": {
+            "en-US": "Chapter VIII. That God’s Power is His Substance"
+          }
+        },
+        {
+          "id": "book-ii-chapter-ix",
+          "title": {
+            "en-US": "Chapter IX. That God’s Power is His Action"
+          }
+        },
+        {
+          "id": "book-ii-chapter-x",
+          "title": {
+            "en-US": "Chapter X. In what manner Power is said to be in God"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xi",
+          "title": {
+            "en-US": "Chapter XI. That something is predicated of God in relation to Creatures"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xii",
+          "title": {
+            "en-US": "Chapter XII. That the Relations, predicated of God in regard to Creatures, are not really in God"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xiii",
+          "title": {
+            "en-US": "Chapter XIII. How the aforesaid Relations are predicated of God"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xiv",
+          "title": {
+            "en-US": "Chapter XIV. That the Predication of many Relations of God is no prejudice to the Simplicity and Singleness of His Being"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xv",
+          "title": {
+            "en-US": "Chapter XV. That God is to all things the Cause of their being"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xvi",
+          "title": {
+            "en-US": "Chapter XVI. That God has brought things into being out of nothing"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xvii",
+          "title": {
+            "en-US": "Chapter XVII. That Creation is not a Movement nor a Change"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xviii",
+          "title": {
+            "en-US": "Chapter XVIII. Solution of Arguments against Creation"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xix",
+          "title": {
+            "en-US": "Chapter XIX. That Creation is not Successive"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxi",
+          "title": {
+            "en-US": "Chapter XXI. That it belongs to God alone to create"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxii",
+          "title": {
+            "en-US": "Chapter XXII. That God is Almighty"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxiii",
+          "title": {
+            "en-US": "Chapter XXIII. That God’s Action in Creation is not of Physical Necessity, but of Free Choice of Will"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxiv",
+          "title": {
+            "en-US": "Chapter XXIV. That God acts by His Wisdom"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxv",
+          "title": {
+            "en-US": "Chapter XXV. In what sense some things are said to be Impossible to the Almighty"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxvi",
+          "title": {
+            "en-US": "Chapter XXVI. That the Divine Understanding is not limited to certain fixed Effects"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxviii",
+          "title": {
+            "en-US": "Chapter XXVIII. That God has not brought things into being in discharge of any Debt of Justice"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxix",
+          "title": {
+            "en-US": "Chapter XXIX. How in the Production of a Creature there may be found a debt of Justice in  respect of the necessary Sequence of something posterior upon something prior"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxx",
+          "title": {
+            "en-US": "Chapter XXX. How Absolute Necessity may have place in Creation"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxxi",
+          "title": {
+            "en-US": "Chapter XXXI. That it is not necessary for Creatures to have existed from Eternity"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxxii",
+          "title": {
+            "en-US": "Chapter XXXII, XXXV. Reasons alleged for the Eternity of the World on the part of God, with Answers to the same"
+          }
+        },
+        {
+          "id": "book-ii-chapters-xxxiii-xxxvi-reasons-alleged-for",
+          "title": {
+            "en-US": "Chapters XXXIII, XXXVI. Reasons alleged for the Eternity of the World on the part Creatures, with answers to the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxxiv",
+          "title": {
+            "en-US": "Chapter XXXIV, XXXVII. Reasons alleged for the Eternity of the World on the part of the Creative Process itself, with Answers to the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xxxviii",
+          "title": {
+            "en-US": "Chapter XXXVIII. Arguments wherewith some try to show that the World is not Eternal, and Solutions of the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xli",
+          "title": {
+            "en-US": "Chapter XLI. That the Variety of Creatures does not arise from any Contrariety of Prime Agents"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xliv",
+          "title": {
+            "en-US": "Chapter XLIV. That the Variety of Creatures has not arisen from Variety of Merits and Demerits"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xlv",
+          "title": {
+            "en-US": "Chapter XLV. The Real Prime Cause of the Variety of Creatures."
+          }
+        },
+        {
+          "id": "book-ii-chapter-xlvi",
+          "title": {
+            "en-US": "Chapter XLVI. That it was necessary for the Perfection of the Universe that there should be some Intellectual Natures"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xlvii",
+          "title": {
+            "en-US": "Chapter XLVII. That Subsistent Intelligences are Voluntary Agents"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xlviii",
+          "title": {
+            "en-US": "Chapter XLVIII. That Subsistent Intelligences have Free Will"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xlix",
+          "title": {
+            "en-US": "Chapter XLIX. That Subsistent Intelligence is not Corporeal"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lii",
+          "title": {
+            "en-US": "Chapter LII. That in Created Subsistent Intelligences there is a Difference between Existence and Essence"
+          }
+        },
+        {
+          "id": "book-ii-chapter-liii",
+          "title": {
+            "en-US": "Chapter LIII. That in Created Subsistent Intelligences there is Actuality and Potentiality"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lv",
+          "title": {
+            "en-US": "Chapter LV. That Subsistent Intelligences are Imperishable"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lvi",
+          "title": {
+            "en-US": "Chapter LVI, LXIX. How a Subsistent Intelligence may be united with a Body, with a Solution of  the Arguments alleged to prove that a Subsistent Intelligence cannot be united with  a Body as its Form"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lvii",
+          "title": {
+            "en-US": "Chapter LVII. Plato’s Theory of the Union of the Intellectual Soul with the Body"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lviii",
+          "title": {
+            "en-US": "Chapter LVIII. That Vegetative, Sentient, and Intelligent are not in man Three Souls"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lix",
+          "title": {
+            "en-US": "Chapter LIX. That the Potential Intellect of Man is not a Spirit subsisting apart from Matter"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lx",
+          "title": {
+            "en-US": "Chapter LX. That Man is not a Member the Human Species by possession of Passive Intellect, but by possession of Potential Intellect"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxi",
+          "title": {
+            "en-US": "Chapter LXI. That the aforesaid Tenet is contrary to the Mind of Aristotle"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxii",
+          "title": {
+            "en-US": "Chapter LXII. Against the Opinion of Alexander concerning the Potential Intellect"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxiv",
+          "title": {
+            "en-US": "Chapter LXIV. That the Soul is not a Harmony"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxv",
+          "title": {
+            "en-US": "Chapter LXV. That the Soul is not a Body"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxvi",
+          "title": {
+            "en-US": "Chapter LXVI. Against those who suppose Intellect and Sense to be the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxvii",
+          "title": {
+            "en-US": "Chapter LXVII. Against those who maintain that the Potential Intellect is the Phantasy"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxviii",
+          "title": {
+            "en-US": "Chapter LXVIII. How a Subsistent Intelligence may be the Form of a Body"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxix",
+          "title": {
+            "en-US": "Chapter LXIX. Solution of the Arguments alleged to show that a Subsistent Intelligence cannot be united with a Body as the Form of that Body"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxiii",
+          "title": {
+            "en-US": "Chapter LXXIII. That the Potential Intellect is not One and the Same in all Men"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxiv",
+          "title": {
+            "en-US": "Chapter LXXIV. Of the Opinion of Avicenna, who supposed Intellectual Forms not to be preserved in the Potential Intellect"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxv",
+          "title": {
+            "en-US": "Chapter LXXV. Confutation of the Arguments which seem to prove the Unity of the Potential Intellect"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxvi",
+          "title": {
+            "en-US": "Chapter LXXVI. That the Active Intellect is not a separately Subsisting Intelligence, but a Faculty of the Soul"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxvii",
+          "title": {
+            "en-US": "Chapter LXXVII. That it is not impossible for the Potential and the Active Intellect to be united in the one Substance of the Soul"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxviii",
+          "title": {
+            "en-US": "Chapter LXXVIII. That it was not the opinion of Aristotle that the Active Intellect is a separately  Subsistent Intelligence, but rather that it is a part of the Soul"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxix",
+          "title": {
+            "en-US": "Chapter LXXIX. That the Human Soul does not Perish with the Body"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxx",
+          "title": {
+            "en-US": "Chapter LXXX, LXXXI. Arguments of those who wish to prove that the Human Soul perishes with the Body, with Replies to the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxii",
+          "title": {
+            "en-US": "Chapter LXXXII. That the Souls of Dumb Animals are not Immortal"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxiii",
+          "title": {
+            "en-US": "Chapter LXXXIII, LXXXIV. Apparent Arguments to show that the Human Soul does not begin with the Body, but has been from Eternity, with Replies to the same"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxv",
+          "title": {
+            "en-US": "Chapter LXXXV. That the Soul is not of the substance of God"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxvi",
+          "title": {
+            "en-US": "Chapter LXXXVI. That the Human Soul is not transmitted by Generation"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxvii",
+          "title": {
+            "en-US": "Chapter LXXXVII. That the Human Soul is brought into Being by a Creative Act of God"
+          }
+        },
+        {
+          "id": "book-ii-chapter-lxxxviii",
+          "title": {
+            "en-US": "Chapter LXXXVIII, LXXXIX. Arguments against the Truth of the Conclusion last drawn, with their Solution"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xci",
+          "title": {
+            "en-US": "Chapter XCI. That there are Subsistent Intelligences not united with Bodies"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xciii",
+          "title": {
+            "en-US": "Chapter XCIII. That Intelligences subsisting apart are not more than one in the same Species"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xciv",
+          "title": {
+            "en-US": "Chapter XCIV. That an Intelligence subsisting apart and a Soul are not of one Species"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xcvi",
+          "title": {
+            "en-US": "Chapter XCVI. That Intelligences subsisting apart do not gather their Knowledge from Objects of Sense"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xcvii",
+          "title": {
+            "en-US": "Chapter XCVII. That the Mind of an Intelligence subsisting apart is ever in the act of understanding"
+          }
+        },
+        {
+          "id": "book-ii-chapter-chapter",
+          "title": {
+            "en-US": "Chapter Chapter XCVIII. How one separately subsisting Intelligence knows another"
+          }
+        },
+        {
+          "id": "book-ii-chapter-xcix",
+          "title": {
+            "en-US": "Chapter XCIX. That Intelligences subsisting apart know Material Things, that is to say, the Species of Things Corporeal"
+          }
+        },
+        {
+          "id": "book-ii-chapter-c",
+          "title": {
+            "en-US": "Chapter C. That Intelligences subsisting apart know Individual Things"
+          }
+        },
+        {
+          "id": "book-ii-chapter-ci",
+          "title": {
+            "en-US": "Chapter CI. Whether to Separately Subsisting Intelligences all Points of their Natural Knowledge are Simultaneously Present"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-iii",
+      "title": {
+        "en-US": "Book III. God the End of Creatures"
+      },
+      "children": [
+        {
+          "id": "book-iii-chapter-i",
+          "title": {
+            "en-US": "Chapter I. Preface to the Book that Follows"
+          }
+        },
+        {
+          "id": "book-iii-chapter-ii",
+          "title": {
+            "en-US": "Chapter II. That every Agent acts to some End"
+          }
+        },
+        {
+          "id": "book-iii-chapter-iii",
+          "title": {
+            "en-US": "Chapter III. That every Agent acts to some Good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-iv",
+          "title": {
+            "en-US": "Chapter IV. That Evil in things is beside the Intention of the Agent"
+          }
+        },
+        {
+          "id": "book-iii-chapters-v-vi-arguments-against-the",
+          "title": {
+            "en-US": "Chapters V, VI. Arguments against the Truth of the Conclusion last drawn, with Solutions of the Same"
+          }
+        },
+        {
+          "id": "book-iii-chapter-vii",
+          "title": {
+            "en-US": "Chapter VII. That Evil is not a Nature or Essence"
+          }
+        },
+        {
+          "id": "book-iii-chapters-viii-ix-arguments-against-the",
+          "title": {
+            "en-US": "Chapters VIII, IX. Arguments against the aforsesaid Conclusion, with Answers to the same"
+          }
+        },
+        {
+          "id": "book-iii-chapter-x",
+          "title": {
+            "en-US": "Chapter X. That the Cause of Evil is good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xi",
+          "title": {
+            "en-US": "Chapter XI. That Evil is founded in some Good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xii",
+          "title": {
+            "en-US": "Chapter XII. That Evil does not entirely swallow up Good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xiv",
+          "title": {
+            "en-US": "Chapter XIV. That Evil is an Accidental Cause"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xv",
+          "title": {
+            "en-US": "Chapter XV. That there is not any Sovereign Evil, acting as the Principle of All Evils"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xvi",
+          "title": {
+            "en-US": "Chapter XVI. That the End in View of everything is some Good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xvii",
+          "title": {
+            "en-US": "Chapter XVII. That all Things are ordained to one End, which is God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xviii",
+          "title": {
+            "en-US": "Chapter XVIII. How God is the End of all Things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xix",
+          "title": {
+            "en-US": "Chapter XIX."
+          }
+        },
+        {
+          "id": "book-iii-chapter-xx",
+          "title": {
+            "en-US": "Chapter XX. How Things copy the Divine Goodness"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxi",
+          "title": {
+            "en-US": "Chapter XXI. That Things aim at Likeness to God in being Causes of other Things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxiv",
+          "title": {
+            "en-US": "Chapter XXIV. That all Things seek good, even Things devoid of Consciousness"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxv",
+          "title": {
+            "en-US": "Chapter XXV. That the End of every Subsistent Intelligence is to understand God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxvi",
+          "title": {
+            "en-US": "Chapter XXVI. That Happiness does not consist in any Act of the Will"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxvii",
+          "title": {
+            "en-US": "Chapter XXVII. That the Happiness of Man does not consist in Bodily Pleasures"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxviii",
+          "title": {
+            "en-US": "Chapter XXVIII, XXIX. That Happiness does not consist in Honours nor in Human Glory"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxx",
+          "title": {
+            "en-US": "Chapter XXX. That Man’s Happiness does not consist in Riches"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxi",
+          "title": {
+            "en-US": "Chapter XXXI. That Happiness does not consist in Worldly Power"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxii",
+          "title": {
+            "en-US": "Chapter XXXII. That Happiness does not consist in the Goods of the Body"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxiv",
+          "title": {
+            "en-US": "Chapter XXXIV. That the Final Happiness Man does not consist in Acts of the Moral Virtues"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxvii",
+          "title": {
+            "en-US": "Chapter XXXVII. That the Final Happiness of Man consists in the Contemplation of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxviii",
+          "title": {
+            "en-US": "Chapter XXXVIII. That Human Happiness does not consist in such Knowledge of God as is common to the majority of Mankind"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xxxix",
+          "title": {
+            "en-US": "Chapter XXXIX. That Happiness does not consist in the Knowledge of God which is to be had by Demonstration"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xl",
+          "title": {
+            "en-US": "Chapter XL. That Happiness does not consist in the Knowledge of God by Faith"
+          }
+        },
+        {
+          "id": "book-iii-chapters-xlixlv",
+          "title": {
+            "en-US": "Chapters XLI–XLV."
+          }
+        },
+        {
+          "id": "book-iii-chapter-xlvi",
+          "title": {
+            "en-US": "Chapter XLVI. That the Soul in this life does not understand itself by itself"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xlvii",
+          "title": {
+            "en-US": "Chapter XLVII. That we cannot in this life see God as He essentially is"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xlviii",
+          "title": {
+            "en-US": "Chapter XLVIII. That the Final Happiness of Man is not in this Life"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xlix",
+          "title": {
+            "en-US": "Chapter XLIX. That the Knowledge which Pure Spirits have of God through knowing their own  Essence does not carry with it a Vision of the Essence of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-l",
+          "title": {
+            "en-US": "Chapter L. That the desire of Pure Intelligences does not rest satisfied in the Natural Knowledge which they have of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-li",
+          "title": {
+            "en-US": "Chapter LI. How God is seen as He essentially is"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lii",
+          "title": {
+            "en-US": "Chapter LII. That no Created Substance can of its natural power arrive to see God as He essentially is"
+          }
+        },
+        {
+          "id": "book-iii-chapter-liii",
+          "title": {
+            "en-US": "Chapter LIII. That a Created Intelligence needs some influx of Divine Light to see God in His Essence"
+          }
+        },
+        {
+          "id": "book-iii-chapter-liv",
+          "title": {
+            "en-US": "Chapter LIV. Arguments against the aforesaid statements, and their Solutions"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lv",
+          "title": {
+            "en-US": "Chapter LV. That the Created Intelligence does not comprehend the Divine Substance"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lvi",
+          "title": {
+            "en-US": "Chapter LVI. That no Created Intelligence in seeing God sees all things that can be seen in Him"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lvii",
+          "title": {
+            "en-US": "Chapter LVII. That every Intelligence of every grade can be partaker of the vision of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lviii",
+          "title": {
+            "en-US": "Chapter LVIII. That one may see God more perfectly than another"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lix",
+          "title": {
+            "en-US": "Chapter LIX. How they who see the Divine Substance see all things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lx",
+          "title": {
+            "en-US": "Chapter LX. That they who see God see all things in Him at once"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxi",
+          "title": {
+            "en-US": "Chapter LXI. That by the Sight of God one is Partaker of Life Everlasting"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxii",
+          "title": {
+            "en-US": "Chapter LXII. That they who see God will see Him for ever"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxiii",
+          "title": {
+            "en-US": "Chapter LXIII. How in that Final Happiness every Desire of Man is fulfilled"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxiv",
+          "title": {
+            "en-US": "Chapter LXIV. That God governs things by His Providence"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxv",
+          "title": {
+            "en-US": "Chapter LXV. That God preserves things in being"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxvi",
+          "title": {
+            "en-US": "Chapter LXVI. That nothing gives Being except in as much as it acts in the Power of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxvii",
+          "title": {
+            "en-US": "Chapter LXVII. That God is the Cause of Activity in all Active Agents"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lviii-2",
+          "title": {
+            "en-US": "Chapter LVIII. That God is everywhere and in all things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lvix",
+          "title": {
+            "en-US": "Chapter LVIX. Of the Opinion of those who withdraw from Natural Things their Proper Actions"
+          }
+        },
+        {
+          "id": "book-iii-lxx-how-the-same-effect-is",
+          "title": {
+            "en-US": "LXX. How the Same Effect is from God and from a Natural Agent"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxi",
+          "title": {
+            "en-US": "Chapter LXXI. That the Divine Providence is not wholly inconsistent with the presence of Evil in Creation"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxii",
+          "title": {
+            "en-US": "Chapter LXXII. That Divine Providence is not inconsistent with an element of Contingency in Creation"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxiii",
+          "title": {
+            "en-US": "Chapter LXXIII. That Divine Providence is not inconsistent with Freedom of the Will"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxiv",
+          "title": {
+            "en-US": "Chapter LXXIV. That Divine Providence is not inconsistent with Fortune and Chance"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxv",
+          "title": {
+            "en-US": "Chapter LXXV. That the Providence of God is exercised over Individual and Contingent Things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxvi",
+          "title": {
+            "en-US": "Chapter LXXVI. That the Providence of God watches immediately over all Individual Things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxvii",
+          "title": {
+            "en-US": "Chapter LXXVII. That the arrangements of Divine Providence are carried into execution by means of Secondary Causes"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxviii",
+          "title": {
+            "en-US": "Chapter LXXVIII. That Intelligent Creatures are the Medium through which other Creatures are governed by God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxxi",
+          "title": {
+            "en-US": "Chapter LXXXI. Of the Subordination of Men one to another"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxxviii",
+          "title": {
+            "en-US": "Chapter LXXXVIII. That other Subsistent Intelligences cannot be direct Causes of our Elections  and Volitions"
+          }
+        },
+        {
+          "id": "book-iii-chapter-lxxxix",
+          "title": {
+            "en-US": "Chapter LXXXIX. That the Motion of the Will is caused by God, and not merely by the Power of the Will"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xc",
+          "title": {
+            "en-US": "Chapter XC. That Human Choices and Volitions are subject to Divine Providence"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xci",
+          "title": {
+            "en-US": "Chapter XCI. How Human Things are reduced to Higher Causes"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xcii",
+          "title": {
+            "en-US": "Chapter XCII. In what sense one is said to be Fortunate, and how Man is aided by Higher Causes"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xciii",
+          "title": {
+            "en-US": "Chapter XCIII. Of Fate, whether there be such a thing, and if so, what it is"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xciv",
+          "title": {
+            "en-US": "Chapter XCIV. Of the Certainty of Divine Providence"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xcv",
+          "title": {
+            "en-US": "Chapter XCV, XCVI. That the Immutability of Divine Providence does not bar the Utility of Prayer"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xcvi",
+          "title": {
+            "en-US": "Chapter XCVI. That God does not hear all Prayers"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xcvii",
+          "title": {
+            "en-US": "Chapter XCVII. How the Arrangements of Providence follow a Plan"
+          }
+        },
+        {
+          "id": "book-iii-chapter-xcix",
+          "title": {
+            "en-US": "Chapter XCIX. God can work beyond the Order laid down for Creatures, and produce Effects without Proximate Causes"
+          }
+        },
+        {
+          "id": "book-iii-chapter-c",
+          "title": {
+            "en-US": "Chapter C. That the things which God does beyond the Order of Nature are not contrary to Nature"
+          }
+        },
+        {
+          "id": "book-iii-chapter-ci",
+          "title": {
+            "en-US": "Chapter CI. Of Miracles"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cii",
+          "title": {
+            "en-US": "Chapter CII. That God alone works Miracles"
+          }
+        },
+        {
+          "id": "book-iii-chapter-ciii",
+          "title": {
+            "en-US": "Chapter CIII. How Separately Subsisting Spirits work certain Wonders, which yet are not true Miracles"
+          }
+        },
+        {
+          "id": "book-iii-chapter-civ",
+          "title": {
+            "en-US": "Chapter CIV. That the Works of Magicians are not due solely to the Influence of the Heavenly Spheres"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cv",
+          "title": {
+            "en-US": "Chapter CV. Whence the performances of Magicians derive their Efficacy"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cvi",
+          "title": {
+            "en-US": "Chapter CVI. That the Subsistent Intelligence, which lends Efficacy to Magical Performances,  is not Good in both Categories of Being"
+          }
+        },
+        {
+          "id": "book-iii-chapte-cvii-that-the-subsistent-intelligence",
+          "title": {
+            "en-US": "Chapte CVII. That the Subsistent Intelligence, whose aid is employed in Magic, is not Evil by Nature"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cix",
+          "title": {
+            "en-US": "Chapter CIX. That in Spirits there may be Sin, and how"
+          }
+        },
+        {
+          "id": "book-iii-chapters-cviii-cx-arguments-seeming-to",
+          "title": {
+            "en-US": "Chapters CVIII, CX. Arguments seeming to prove that Sin is impossible to Spirits, with Solutions of the same"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxii",
+          "title": {
+            "en-US": "Chapter CXII. That Rational Creatures are governed by Providence for their own sakes, and  other Creatures in reference to them"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxiii",
+          "title": {
+            "en-US": "Chapter CXIII. That the acts of the Rational Creature are guided by God, not merely to the  realisation of the Specific Type, but also to the realisation of the Individual"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxiv",
+          "title": {
+            "en-US": "Chapter CXIV. That it was necessary for a Law to be given to Man by God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxv",
+          "title": {
+            "en-US": "Chapter CXV. That the main purpose of the Divine Law is to subordinate Man to God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxvi",
+          "title": {
+            "en-US": "Chapter CXVI. That the End of the Divine Law is the Love of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxviii",
+          "title": {
+            "en-US": "Chapter CXVIII. That by Divine Law men are obliged to a Right Faith"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxix",
+          "title": {
+            "en-US": "Chapter CXIX. That by certain Sensible Rites our mind is directed to God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxx",
+          "title": {
+            "en-US": "Chapter CXX. That the Worship of Latria is to be paid to God alone"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxi",
+          "title": {
+            "en-US": "Chapter CXXI. That the Divine Law directs man to a Rational Use of Corporeal and Sensible Things"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxii",
+          "title": {
+            "en-US": "Chapter CXXII. Of the reason for which Simple Fornication is a Sin by Divine Law, and of the Natural Institution of Marriage"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxiii",
+          "title": {
+            "en-US": "Chapter CXXIII. That Marriage ought to be Indissoluble"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxiv",
+          "title": {
+            "en-US": "Chapter CXXIV. That Marriage ought to be between one Man and one Woman"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxv",
+          "title": {
+            "en-US": "Chapter CXXV. That Marriage ought not to take place between Kindred"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxvi",
+          "title": {
+            "en-US": "Chapter CXXVI. That not all Sexual Intercourse is Sin"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxvii",
+          "title": {
+            "en-US": "Chapter CXXVII. That of no Food is the Use Sinful in itself"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxviii",
+          "title": {
+            "en-US": "Chapter CXXVIII. How the Law of God relates a man to his Neighbour"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxix",
+          "title": {
+            "en-US": "Chapter CXXIX. That the things commanded by the Divine Law are Right, not only because the  Law enacts them, but also according to Nature"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxx",
+          "title": {
+            "en-US": "Chapter CXXX. That the Divine Government of Men is after the manner of Paternal Government"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxxi",
+          "title": {
+            "en-US": "Chapter CXXXI. Of the Counsels that are given in the Divine Law"
+          }
+        },
+        {
+          "id": "book-iii-chapters-cxxxii-cxxxv-arguments-against-voluntary",
+          "title": {
+            "en-US": "Chapters CXXXII, CXXXV. Arguments against Voluntary Poverty, with Replies"
+          }
+        },
+        {
+          "id": "book-iii-chapters-cxxxiii-cxxxvi-of-various-modes",
+          "title": {
+            "en-US": "Chapters CXXXIII, CXXXVI. Of various Modes of Living adopted by the Votaries of Voluntary Poverty"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxxiv",
+          "title": {
+            "en-US": "Chapter CXXXIV. In what the Good of Poverty consists"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxxvii",
+          "title": {
+            "en-US": "Chapter CXXXVII. Arguments against Perpetual Continence, with Replies"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxxxix",
+          "title": {
+            "en-US": "Chapter CXXXIX. Against those who find fault with Vows"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxl",
+          "title": {
+            "en-US": "Chapter CXL. That neither all Good Works nor all Sins are Equal"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxli",
+          "title": {
+            "en-US": "Chapter CXLI. That a Man’s Acts are punished or rewarded by God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlii",
+          "title": {
+            "en-US": "Chapter CXLII. Of the Difference and Order of Punishments"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxliii",
+          "title": {
+            "en-US": "Chapter CXLIII. That not all Punishments nor all Rewards are Equal"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxliv",
+          "title": {
+            "en-US": "Chapter CXLIV. Of the Punishment due to Mortal and Venial Sins respectively in regard to the Last End"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlv",
+          "title": {
+            "en-US": "Chapter CXLV. That the Punishment whereby one is deprived of his Last End is Interminable"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlvi",
+          "title": {
+            "en-US": "Chapter CXLVI. That Sins are punished also by the experience of something Painful"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlvii",
+          "title": {
+            "en-US": "Chapter CXLVII. That it is Lawful for judges to inflict Punishments"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlviii",
+          "title": {
+            "en-US": "Chapter CXLVIII. That Man stands in need of Divine Grace for the Gaining of Happiness"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cxlix",
+          "title": {
+            "en-US": "Chapter CXLIX. That the Divine Assistance does not compel a Man to Virtue"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cl",
+          "title": {
+            "en-US": "Chapter CL. That Man cannot Merit beforehand the said Assistance"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cli",
+          "title": {
+            "en-US": "Chapter CLI. That the aforesaid Assistance is called ‘Grace,’ and what is the  meaning of ‘Grace constituting a State of Grace’"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clii",
+          "title": {
+            "en-US": "Chapter CLII. That the Grace which constitutes the State of Grace causes in us the Love of God"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cliii",
+          "title": {
+            "en-US": "Chapter CLIII. That Divine Grace causes in us Faith"
+          }
+        },
+        {
+          "id": "book-iii-chapter-cliv",
+          "title": {
+            "en-US": "Chapter CLIV. That Divine Grace causes in us a Hope of future Blessedness"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clv",
+          "title": {
+            "en-US": "Chapter CLV. Of Graces given gratuitously"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clvi-that",
+          "title": {
+            "en-US": "Chapter CLVI.That Man needs the Assistance of Divine Grace to persevere in Good"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clvii",
+          "title": {
+            "en-US": "Chapter CLVII. That he who falls from Grace by Sin may be recovered again by Grace"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clviii",
+          "title": {
+            "en-US": "Chapter CLVIII. That Man cannot be delivered from Sin except by Grace"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clix",
+          "title": {
+            "en-US": "Chapter CLIX. How Man is delivered from Sin"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clx",
+          "title": {
+            "en-US": "Chapter CLX. That it is reasonably reckoned a Man’s own Fault if he be not converted to God,  although he cannot be converted without Grace"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clxi",
+          "title": {
+            "en-US": "Chapter CLXI. That a Man already in Mortal Sin cannot avoid more Mortal Sin without Grace"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clxii",
+          "title": {
+            "en-US": "Chapter CLXII. That some Men God delivers from Sin, and some He leaves in Sin"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clxiii",
+          "title": {
+            "en-US": "Chapter CLXIII. That God is Cause of Sin to no Man"
+          }
+        },
+        {
+          "id": "book-iii-chapter-clxiv",
+          "title": {
+            "en-US": "Chapter CLXIV. Of Predestination, Reprobation, and Divine Election"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-iv",
+      "title": {
+        "en-US": "Book IV. Of God in His Revelation"
+      },
+      "children": [
+        {
+          "id": "book-iv-book-title",
+          "title": {
+            "en-US": "Book Title"
+          }
+        },
+        {
+          "id": "book-iv-chapter-i",
+          "title": {
+            "en-US": "Chapter I. Preface"
+          }
+        },
+        {
+          "id": "book-iv-chapter-ii",
+          "title": {
+            "en-US": "Chapter II. Of Generation, Paternity, and Sonship in God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-iii",
+          "title": {
+            "en-US": "Chapter III. That the Son of God is God"
+          }
+        },
+        {
+          "id": "book-iv-chapters-iv-ix-the-opinion-of",
+          "title": {
+            "en-US": "Chapters IV, IX. The Opinion of Photinus touching the Son of God, and its rejection"
+          }
+        },
+        {
+          "id": "book-iv-chapter-v",
+          "title": {
+            "en-US": "Chapter V. Rejection of the Opinion of Sabellius concerning the Son of God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-vi",
+          "title": {
+            "en-US": "Chapter VI. Of the Opinion of Arius concerning the Son of God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-vii",
+          "title": {
+            "en-US": "Chapter VII. Rejection of Arius’s Position"
+          }
+        },
+        {
+          "id": "book-iv-chapter-viii",
+          "title": {
+            "en-US": "Chapter VIII. Explanation of the Texts which Arius used to allege for himself"
+          }
+        },
+        {
+          "id": "book-iv-chapter-12",
+          "title": {
+            "en-US": "Chapter 12. How the Son of God is called the Wisdom of God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xvii",
+          "title": {
+            "en-US": "Chapter XVII. That the Holy Ghost is true God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xviii",
+          "title": {
+            "en-US": "Chapter XVIII. That the Holy Ghost is a Subsistent Person"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xx",
+          "title": {
+            "en-US": "Chapter XX. Of the Effects which the Scriptures attribute to the Holy Ghost in respect of the whole Creation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxi",
+          "title": {
+            "en-US": "Chapter XXI. Of the Effects attributed to the Holy Ghost in Scripture in the way of Gifts bestowed on the Rational Creature"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxii",
+          "title": {
+            "en-US": "Chapter XXII. Of the Effects attributed to the Holy Ghost in the attraction of the Rational Creature to God"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxiii",
+          "title": {
+            "en-US": "Chapter XXIII. Replies to Arguments alleged against the Divinity of the Holy Ghost"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxiv",
+          "title": {
+            "en-US": "Chapter XXIV. That the Holy Ghost proceeds from the Son"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxvi",
+          "title": {
+            "en-US": "Chapter XXVI. That there are only Three Persons in the Godhead, Father and Son and Holy Ghost"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxvii",
+          "title": {
+            "en-US": "Chapter XXVII. Of the Incarnation of the Word according to the Tradition of Holy Scripture"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxviii",
+          "title": {
+            "en-US": "Chapter XXVIII. Of the Error of Photinus concerning the Incarnation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxix",
+          "title": {
+            "en-US": "Chapter XXIX. Of the Error of the Manicheans concerning the Incarnation"
+          }
+        },
+        {
+          "id": "book-iv-chapters-xxxii-xxxiii-of-the-error",
+          "title": {
+            "en-US": "Chapters XXXII, XXXIII. Of the Error of Arius and Apollinaris concerning the Soul of Christ"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxxiv",
+          "title": {
+            "en-US": "Chapter XXXIV. Of the Error of Theodore of Mopsuestia concerning the Union of the Word with Man"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxxv",
+          "title": {
+            "en-US": "Chapter XXXV. Against the Error of Eutyches"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxxvi",
+          "title": {
+            "en-US": "Chapter XXXVI. Of the Error of Macarius of Antioch, who posited one Operation only and one Will only in Christ"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xxxix",
+          "title": {
+            "en-US": "Chapter XXXIX. The Doctrine of Catholic Faith concerning the Incarnation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xli",
+          "title": {
+            "en-US": "Chapter XLI. Some further Elucidation of the Incarnation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xl",
+          "title": {
+            "en-US": "Chapter XL, XLIX. Objections against the Faith of the Incarnation, with Replies"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xliv",
+          "title": {
+            "en-US": "Chapter XLIV. That the Human Nature, assumed by the Word, was perfect in Soul and Body in the instant of Conception"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xlv",
+          "title": {
+            "en-US": "Chapter XLV. That Christ was born of a Virgin without prejudice to His true and natural Humanity"
+          }
+        },
+        {
+          "id": "book-iv-chapters-xlvi-xlvii-that-christ-was",
+          "title": {
+            "en-US": "Chapters XLVI, XLVII. That Christ was conceived by the Holy Ghost"
+          }
+        },
+        {
+          "id": "book-iv-chapter-liv",
+          "title": {
+            "en-US": "Chapter LIV. Of the Incarnation as part of the Fitness of Things"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lv",
+          "title": {
+            "en-US": "Chapter LV. Points of Reply to Difficulties touching the Economy of the Incarnation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-l",
+          "title": {
+            "en-US": "Chapter L. That Original Sin is transmitted from our First Parent to his Posterity"
+          }
+        },
+        {
+          "id": "book-iv-chapter-li",
+          "title": {
+            "en-US": "Chapter LI, LII. Arguments against Original Sin, with Replies"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lvi",
+          "title": {
+            "en-US": "Chapter LVI. Of the Need of Sacraments"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lvii",
+          "title": {
+            "en-US": "Chapter LVII. Of the Difference between the Sacraments of the Old and of the New Law"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lviii",
+          "title": {
+            "en-US": "Chapter LVIII. Of the Number of the Sacraments of the New Law"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lix",
+          "title": {
+            "en-US": "Chapter LIX. Of Baptism"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lx",
+          "title": {
+            "en-US": "Chapter LX. Of Confirmation"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxi",
+          "title": {
+            "en-US": "Chapter LXI. Of the Eucharist"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxiii",
+          "title": {
+            "en-US": "Chapter LXIII. Of the Conversion of Bread into the Body of Christ"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxiv",
+          "title": {
+            "en-US": "Chapter LXIV. An Answer to Difficulties raised in respect of Place"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxv",
+          "title": {
+            "en-US": "Chapter LXV. The Difficulty of the Accidents remaining"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxvi",
+          "title": {
+            "en-US": "Chapter LXVI. What happens when the Sacramental Species pass away"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxvii",
+          "title": {
+            "en-US": "Chapter LXVII. Answer to the Difficulty raised in respect of the Breaking of the Host"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxviii",
+          "title": {
+            "en-US": "Chapter LXVIII. The Explanation of a Text"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxix",
+          "title": {
+            "en-US": "Chapter LXIX. Of the kind  of Bread and Wine that ought to be used for the Consecration of this Sacrament"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxx",
+          "title": {
+            "en-US": "Chapter LXX. That it is possible for a man to sin after receiving Sacramental Grace"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxi",
+          "title": {
+            "en-US": "Chapter LXXI. That a man who sins after the Grace of the Sacraments may be converted to Grace"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxii",
+          "title": {
+            "en-US": "Chapter LXXII. Of the need of the Sacrament of Penance, and of the Parts thereof"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxiii",
+          "title": {
+            "en-US": "Chapter LXXIII. Of the Sacrament of Extreme Unction"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxiv",
+          "title": {
+            "en-US": "Chapter LXXIV. Of the Sacrament of Order"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxv",
+          "title": {
+            "en-US": "Chapter LXXV. Of the Distinction of Orders"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxvi",
+          "title": {
+            "en-US": "Chapter LXXVI. Of the Episcopal Dignity, and that therein one Bishop is Supreme"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxvii",
+          "title": {
+            "en-US": "Chapter LXXVII. That Sacraments can be administered even by Wicked Ministers"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxviii",
+          "title": {
+            "en-US": "Chapter LXXVIII. Of the Sacrament of Matrimony"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxix",
+          "title": {
+            "en-US": "Chapter LXXIX. That through Christ the Resurrection of our Bodies will take place"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxi",
+          "title": {
+            "en-US": "Chapter LXXXI. Some Points of Reply to Difficulties on the Resurrection"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxii",
+          "title": {
+            "en-US": "Chapter LXXXII. That Men shall rise again Immortal"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxiii",
+          "title": {
+            "en-US": "Chapter LXXXIII. hat in the Resurrection there will be no use of Food or Intercourse of the Sexes"
+          }
+        },
+        {
+          "id": "book-iv-chaptr-lxxxiv-that-risen-bodies-shall",
+          "title": {
+            "en-US": "Chaptr LXXXIV. That Risen Bodies shall be of the same Nature as before"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxv",
+          "title": {
+            "en-US": "Chapter LXXXV. That the Bodies  of the Risen shall be otherwise organised than before"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxvi",
+          "title": {
+            "en-US": "Chapter LXXXVI. Of the Qualities of Glorified Bodies"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxviii",
+          "title": {
+            "en-US": "Chapter LXXXVIII. Of Sex and Age in the Resurrection"
+          }
+        },
+        {
+          "id": "book-iv-chapter-lxxxix",
+          "title": {
+            "en-US": "Chapter LXXXIX. Of the quality of Risen Bodies in the Lost"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xc",
+          "title": {
+            "en-US": "Chapter XC. How Incorporeal  Subsistent Spirits suffer from Corporeal Fire, and are befittingly punished with  Corporeal Punishments"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xci",
+          "title": {
+            "en-US": "Chapter XCI. That Souls enter  upon Punishment or Reward immediately after their Separation from their Bodies"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xcii",
+          "title": {
+            "en-US": "Chapter XCII. That the Souls  of the Saints after Death have their Will immutably fixed on Good"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xciii",
+          "title": {
+            "en-US": "Chapter XCIII. That the Souls  of the Wicked after Death have their Will immutably fixed on Evil"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xciv",
+          "title": {
+            "en-US": "Chapter XCIV. Of the Immutability  of the Will of Souls detained in Purgatory"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xcv",
+          "title": {
+            "en-US": "Chapter XCV. Of the General  Cause of Immutability in all Souls after their Separation from the Body"
+          }
+        },
+        {
+          "id": "book-iv-chapter-cxvi",
+          "title": {
+            "en-US": "Chapter CXVI. Of the Last Judgement"
+          }
+        },
+        {
+          "id": "book-iv-chapter-xcvii",
+          "title": {
+            "en-US": "Chapter XCVII. Of the State of the World after the Judgement"
+          }
+        }
+      ]
+    },
+    {
+      "id": "afterword",
+      "title": {
+        "en-US": "Afterword"
+      }
+    }
+  ]
+}

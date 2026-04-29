@@ -48,6 +48,10 @@ class _Builder:
 
     def render(self) -> str:
         body = "".join(self.parts).strip()
+        # Collapse runs of 2+ spaces that aren't a Markdown hard-break (`  \n`).
+        # ThML <pb/> and other void elements often inject blank tail text that,
+        # once normalized, leaves visible double-spaces between words.
+        body = re.sub(r" {2,}(?!\n)", " ", body)
         body = re.sub(r"[ \t]+\n", "  \n", body)  # preserve hard breaks but collapse trailing spaces
         body = re.sub(r"\n{3,}", "\n\n", body)
         if self.footnotes:
@@ -65,7 +69,10 @@ _BLOCK_TAGS = {
     "div5",
     "div6",
     "lg",
+    "verse",
     "list",
+    "ul",
+    "ol",
     "blockquote",
     "head",
     "h1",
@@ -100,6 +107,12 @@ def _walk_block(el: etree._Element, b: _Builder, heading_level: int) -> None:
         return
 
     if tag == "p":
+        # Skip whitespace-only paragraphs entirely. CCEL files use <p> </p>
+        # as visual spacers; rendering them produces stray "  " blank lines.
+        if not (text and text.strip()) and len(el) == 0:
+            if el.tail and el.tail.strip():
+                b.push(_clean_inline(el.tail))
+            return
         b.push("\n\n")
         if text:
             b.push(_clean_inline(text))
@@ -138,7 +151,7 @@ def _walk_block(el: etree._Element, b: _Builder, heading_level: int) -> None:
             b.push(_clean_inline(el.tail))
         return
 
-    if tag == "lg":
+    if tag in ("lg", "verse"):
         b.push("\n\n")
         # render each <l> as a blockquote line with a trailing hard break
         for child in el:
@@ -154,10 +167,10 @@ def _walk_block(el: etree._Element, b: _Builder, heading_level: int) -> None:
         b.push("\n")
         return
 
-    if tag == "list":
+    if tag in ("list", "ul", "ol"):
         b.push("\n\n")
         for child in el:
-            if _local(child) == "item":
+            if _local(child) in ("item", "li"):
                 b.push("- ")
                 if child.text:
                     b.push(_clean_inline(child.text))
@@ -188,15 +201,23 @@ def _walk_block(el: etree._Element, b: _Builder, heading_level: int) -> None:
             _walk_block(child, b, heading_level=heading_level)
         return
 
-    # Unknown / void block — fall through to inline handling, but skip
-    # whitespace-only tails so we don't leak blank lines between paragraphs.
+    # Unknown block — log the tag and walk children inline so we recover
+    # readable text. Important: do NOT call _walk_inline(el, b) here; the
+    # element's tag may be in _BLOCK_TAGS (e.g. <table>) which would route
+    # back into _walk_block and recurse forever.
     text_in = el.text and el.text.strip()
     has_kids = len(el) > 0
     if not text_in and not has_kids:
         if el.tail and el.tail.strip():
             b.push(_clean_inline(el.tail))
         return
-    _walk_inline(el, b)
+    b.stats.unknown_elements[tag] = b.stats.unknown_elements.get(tag, 0) + 1
+    if el.text:
+        b.push(_clean_inline(el.text))
+    for child in el:
+        _walk_inline(child, b)
+    if el.tail:
+        b.push(_clean_inline(el.tail))
 
 
 def _walk_inline(el: etree._Element, b: _Builder) -> None:
@@ -292,9 +313,10 @@ def _walk_inline(el: etree._Element, b: _Builder) -> None:
             b.push(_clean_inline(el.tail))
         return
 
-    if tag in ("pb", "milestone"):
-        # Void marker — skip the tail if it's whitespace-only (the common case)
-        # so we don't leak blank "  " lines between paragraphs.
+    if tag in ("pb", "milestone", "img", "index", "indexterm"):
+        # Void/invisible markers (page breaks, images, navigation index entries).
+        # Skip the tail if it's whitespace-only so we don't leak blank "  " lines
+        # between paragraphs.
         if el.tail and el.tail.strip():
             b.push(_clean_inline(el.tail))
         return

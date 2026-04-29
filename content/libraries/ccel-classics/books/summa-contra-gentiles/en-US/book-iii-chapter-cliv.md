@@ -1,0 +1,11 @@
+# Chapter CLIV. That Divine Grace causes in us a Hope of future Blessedness
+
+**CHAPTER CLIV**—*That Divine Grace causes in us a Hope of future Blessedness*
+
+IN every lover there is caused a desire of union with his loved one, so far as may be: hence it is most delightful to live in the society of those whom one loves. As then by grace man is made a lover of God, there must be caused in him a desire of union with God, so far as may be. But faith, which is caused of grace, declares the possibility of a union of man with God in perfect fruition, wherein blessedness consists. Consequently the desire of this fruition follows upon the love of God. But desire is a troublesome thing, without hope of attainment. It was proper therefore that in men, in whom the love of God and faith in Him was caused by grace, there should be caused also the hope of attaining to future blessedness.
+
+3. Virtue, the way to blessedness, is paved with difficulties: hence the need of hope.
+
+4. No one stirs to reach an end, which he reckons it impossible to compass.
+
+Hence it is said: *He hath regenerated us unto a living hope* (1 Pet. i, 3): *In hope we are saved* (Rom. viii, 24).

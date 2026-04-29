@@ -1,0 +1,13 @@
+# CHAPTER VIII. The Affections to be excited after such Examination.
+
+WHEN you have quietly gone through each point of this examination, and have ascertained your own position, you will excite certain feelings and affections in your heart. Thank God for such amendment, however slight, as you may have found in yourself, confessing that it is the work of His Mercy Alone in you.
+
+Humble yourself deeply before God, confessing that if your progress has been but small, it is your own fault, for not having corresponded faithfully, bravely and continually to the inspirations and lights which He has given you in prayer or otherwise.
+
+Promise to praise Him for ever for the graces He has granted to you, and because He has led you against your will to make even this small progress.
+
+Ask forgiveness for the disloyalty and faithlessness with which you have answered Him.
+
+Offer your whole heart to Him that He Alone may rule therein. Entreat Him to keep you faithful to Himself.
+
+Ponder over the examples of the Saints, the Blessed Virgin, your guardian Angel and patron Saint, S. Joseph, etc.

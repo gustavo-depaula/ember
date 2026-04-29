@@ -1,0 +1,15 @@
+# Chapter XVII. That all Things are ordained to one End, which is God
+
+**CHAPTER XVII**—*That all Things are ordained to one End, which is God*
+
+THE sovereign good, which is God, is the cause of goodness in all good things. He is therefore also the cause of every end being an end, since whatever is an end is such inasmuch as it is good. But that whereby another thing has an attribute, has more of that attribute itself.[^1] Therefore God above all things is the end of all.
+
+4. In every series of ends the last end must be the end of all the ends preceding. But we find all things arranged in various grades of goodness under our sovereign good, which is the cause of all goodness; and thereby, since good bears the character of an end, all things are ordered under God as ends preceding under their last end.
+
+5. Private good is subordinated to the end of the common good: for the being of a part is for the sake of the being of the whole: hence the good of the race is more godlike than the good of the individual man. But the sovereign good, which is God, is the common good, since the good of the whole community depends on Him: while the goodness which marks any given thing is its own private good, and also the good of other things which depend upon it. All things therefore are subordinate to the end of one good, which is God.
+
+7. The last end of every producer, in so far as he is a producer, is himself: for the things produced by us we use for ourselves; and if ever a man makes anything for another man, that is referred to his own good, — his utility, his pleasure, or his honour. But God is the productive cause of all things, either immediately or mediately. And therefore He is the end of all.
+
+Hence it is said: *God hath wrought all things for himself* (Prov. xvi, 4): and, *I am alpha and omega, the first and the last* (Apoc. xxii, 13).
+
+[^1]: *Propter quod est unumquodque, et illud magis*, a favourite saying of the schoolmen, answering to some such Aristotelian Greek as δἰ οὗ ἕκαστον, κἀκεῖνο μᾶλλον. To defend the saying, we must have at hand distinctions between ‘cause’ (*causa per se*) and ‘occasion’ (*causa per accidens*); also between having an attribute ‘virtually and in a better way’ (*eminenter*) and having it ‘precisely in this form’ (*formaliter*).

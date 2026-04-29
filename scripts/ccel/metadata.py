@@ -18,17 +18,28 @@ from lxml import etree
 # is US because that's what the existing libraries use.
 _LANG_MAP = {
     "en": "en-US",
+    "eng": "en-US",
     "en-us": "en-US",
     "en-gb": "en-GB",
     "pt": "pt-BR",
+    "por": "pt-BR",
     "pt-br": "pt-BR",
     "fr": "fr-FR",
+    "fra": "fr-FR",
+    "fre": "fr-FR",
     "fr-fr": "fr-FR",
     "es": "es-ES",
+    "spa": "es-ES",
     "it": "it",
+    "ita": "it",
     "la": "la",
+    "lat": "la",
     "el": "el",
+    "ell": "el",
+    "grc": "grc",
     "de": "de",
+    "deu": "de",
+    "ger": "de",
 }
 
 
@@ -45,17 +56,49 @@ class BookMeta:
 
 
 def _meta_value(head: etree._Element, name: str) -> Optional[str]:
-    # <meta name="DC.Title" content="..."> — case-insensitive match on name
+    """Find the first match for a Dublin Core metadata field.
+
+    CCEL ThML 1.04 supports two forms in `<ThML.head>`:
+      1. Element form: `<DC.Creator sub="Author" scheme="short-form">Thomas à Kempis</DC.Creator>`
+      2. HTML form:    `<meta name="DC.Creator" content="..." />`
+    Newer files use the element form (the DTD made `<DC.X>` a real element).
+    """
+    target = name.lower()
+    # Element form — case-insensitive on local name
     for el in head.iter():
-        tag = etree.QName(el).localname.lower()
-        if tag != "meta":
+        local = etree.QName(el).localname.lower()
+        if local != target:
+            continue
+        text = " ".join(el.itertext()).strip()
+        if text:
+            return text
+    # HTML form
+    for el in head.iter():
+        if etree.QName(el).localname.lower() != "meta":
             continue
         n = el.get("name") or el.get("NAME")
-        if n and n.lower() == name.lower():
+        if n and n.lower() == target:
             content = el.get("content") or el.get("CONTENT")
-            if content:
+            if content and content.strip():
                 return content.strip()
     return None
+
+
+def _meta_values_with_attr(head: etree._Element, name: str, attr: str) -> dict[str, str]:
+    """Return {attr_value: text} for all matching `<DC.X>` element-form fields.
+    Used to prefer e.g. scheme="short-form" over scheme="file-as" when picking
+    the canonical author display string.
+    """
+    out: dict[str, str] = {}
+    target = name.lower()
+    for el in head.iter():
+        if etree.QName(el).localname.lower() != target:
+            continue
+        key = (el.get(attr) or el.get(attr.upper()) or "").strip()
+        text = " ".join(el.itertext()).strip()
+        if text and key not in out:
+            out[key] = text
+    return out
 
 
 def _text_of(parent: etree._Element, *path_options: str) -> Optional[str]:
@@ -115,22 +158,63 @@ def extract(tree: etree._ElementTree) -> BookMeta:
     if head is None:
         return BookMeta()
 
-    title = _meta_value(head, "DC.Title") or _text_of(head, ".//title")
-    creator = _meta_value(head, "DC.Creator") or _meta_value(head, "DC.Creator.Author")
-    date = _meta_value(head, "DC.Date") or _meta_value(head, "DC.Date.Created")
-    lang = _meta_value(head, "DC.Language")
-    identifier = _meta_value(head, "DC.Identifier") or _meta_value(head, "DC.Identifier.URL")
-    rights = _meta_value(head, "DC.Rights")
+    # Title: prefer DC.Title sub="Main", then any DC.Title, then <title>
+    titles_by_sub = _meta_values_with_attr(head, "DC.Title", "sub")
+    title = (
+        titles_by_sub.get("Main")
+        or titles_by_sub.get("main")
+        or _meta_value(head, "DC.Title")
+        or _text_of(head, ".//title")
+    )
 
-    # Fallback to <printSourceInfo> for date when DC.Date is absent
+    # Author: prefer the human-readable forms over the CCEL slug.
+    creators_by_scheme = _meta_values_with_attr(head, "DC.Creator", "scheme")
+    creator = (
+        creators_by_scheme.get("short-form")
+        or creators_by_scheme.get("file-as")
+        or _meta_value(head, "DC.Creator")
+    )
+    if creator and creator.lower() == (creators_by_scheme.get("ccel") or "").lower():
+        creator = creators_by_scheme.get("file-as") or creator
+
+    # Composed date: DC.Date is usually the digitization timestamp, NOT
+    # composition. Prefer <firstPublished>/<published> from <generalInfo>;
+    # otherwise scan printSourceInfo for a year. As a last resort use a
+    # DC.Date *only* if it's a plausible composition year (pre-1900 4-digit).
+    date = _text_of(head, ".//firstPublished") or _text_of(head, ".//pubDate")
     if not date:
-        for tag in ("publicationDate", "pubDate", "imprint"):
+        for tag in ("published", "publicationDate", "imprint"):
             t = _text_of(head, f".//{tag}")
             if t:
-                m = re.search(r"\b(\d{3,4})\b", t)
+                m = re.search(r"\b(1[0-8]\d{2}|[3-9]\d{2})\b", t)
                 if m:
                     date = m.group(1)
                     break
+    if not date:
+        raw_dc = _meta_value(head, "DC.Date") or _meta_value(head, "DC.Date.Created")
+        if raw_dc and re.fullmatch(r"\d{3,4}", raw_dc.strip()) and int(raw_dc.strip()) < 1900:
+            date = raw_dc.strip()
+
+    lang = _meta_value(head, "DC.Language")
+    rights = _meta_value(head, "DC.Rights")
+
+    # Source URL: prefer a real http(s) URL from any DC.Identifier, then
+    # synthesize from <authorID>/<bookID> if they exist.
+    ids_by_scheme = _meta_values_with_attr(head, "DC.Identifier", "scheme")
+    identifier = None
+    for v in ids_by_scheme.values():
+        if v.startswith("http://") or v.startswith("https://"):
+            identifier = v
+            break
+    if not identifier:
+        single = _meta_value(head, "DC.Identifier") or _meta_value(head, "DC.Identifier.URL")
+        if single and (single.startswith("http://") or single.startswith("https://")):
+            identifier = single
+    if not identifier:
+        author_id = _text_of(head, ".//authorID")
+        book_id = _text_of(head, ".//bookID") or _text_of(head, ".//workID")
+        if author_id and book_id:
+            identifier = f"https://www.ccel.org/ccel/{author_id}/{book_id}/"
 
     print_source: dict[str, str] = {}
     for el in head.iter():

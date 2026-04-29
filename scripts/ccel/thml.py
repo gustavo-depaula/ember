@@ -123,17 +123,25 @@ def flatten_chapters(roots: list[Section], chapter_level: int) -> list[tuple[lis
 # ---------------------------------------------------------------------------
 
 
-_DIV_RE = re.compile(r"div([1-6])$", re.IGNORECASE)
+def _div_level(el: etree._Element) -> Optional[int]:
+    """Return N for <divN> (where N is 1-6), or None for non-div elements."""
+    if not isinstance(el.tag, str):
+        return None  # comment / PI / entity — skip
+    name = etree.QName(el).localname.lower()
+    if not name.startswith("div") or len(name) != 4:
+        return None
+    suffix = name[3]
+    if suffix in "123456":
+        return int(suffix)
+    return None
 
 
 def _is_div(el: etree._Element) -> bool:
-    return bool(_DIV_RE.fullmatch(etree.QName(el).localname))
+    return _div_level(el) is not None
 
 
 def _section_from(el: etree._Element) -> Section:
-    local = etree.QName(el).localname.lower()
-    m = _DIV_RE.fullmatch(local)
-    level = int(m.group(1)) if m else 1
+    level = _div_level(el) or 1
     children = [_section_from(c) for c in el if _is_div(c)]
     title = _extract_title(el)
     raw_id = el.get("id") or el.get("ID") or el.get("n") or el.get("N")

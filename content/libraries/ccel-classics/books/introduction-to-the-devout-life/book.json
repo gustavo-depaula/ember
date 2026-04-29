@@ -1,0 +1,790 @@
+{
+  "id": "introduction-to-the-devout-life",
+  "name": {
+    "en-US": "Introduction to the Devout Life"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "author": {
+    "en-US": "St. Francis of Sales"
+  },
+  "composed": 1609,
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.ccel.org/ccel/desales/devout_life/",
+      "description": "Christian Classics Ethereal Library (ccel.org)"
+    }
+  ],
+  "toc": [
+    {
+      "id": "title-page",
+      "title": {
+        "en-US": "Title Page"
+      },
+      "children": [
+        {
+          "id": "title-page-preface-by",
+          "title": {
+            "en-US": "Preface by the Author"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-i",
+      "title": {
+        "en-US": "PART I. COUNSELS AND PRACTICES SUITABLE FOR THE SOUL'S GUIDANCE FROM THE FIRST ASPIRATION AFTER A DEVOUT LIFE TO THE POINT WHEN IT ATTAINS A CONFIRMED RESOLUTION TO FOLLOW THE SAME."
+      },
+      "children": [
+        {
+          "id": "part-i-chapter-i",
+          "title": {
+            "en-US": "CHAPTER I. What true Devotion is."
+          }
+        },
+        {
+          "id": "part-i-chapter-ii",
+          "title": {
+            "en-US": "CHAPTER II. The Nature and Excellence of Devotion."
+          }
+        },
+        {
+          "id": "part-i-chapter-iii",
+          "title": {
+            "en-US": "CHAPTER III. Devotion is suitable to every Vocation and Profession."
+          }
+        },
+        {
+          "id": "part-i-chapter-iv",
+          "title": {
+            "en-US": "CHAPTER IV. The Need of a Guide for those who would enter upon and advance in the Devout Life."
+          }
+        },
+        {
+          "id": "part-i-chapter-v",
+          "title": {
+            "en-US": "CHAPTER V. The First Step must be Purifying the Soul."
+          }
+        },
+        {
+          "id": "part-i-chapter-vi",
+          "title": {
+            "en-US": "CHAPTER VI. The First Purification, namely, from Mortal Sin."
+          }
+        },
+        {
+          "id": "part-i-chapter-vii",
+          "title": {
+            "en-US": "CHAPTER VII. The Second Purification, from all Sinful Affections."
+          }
+        },
+        {
+          "id": "part-i-chapter-viii",
+          "title": {
+            "en-US": "CHAPTER VIII. How to effect this Second Purification."
+          }
+        },
+        {
+          "id": "part-i-chapter-ix",
+          "title": {
+            "en-US": "CHAPTER IX. FIRST MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-x",
+          "title": {
+            "en-US": "CHAPTER X. SECOND MEDITATION"
+          }
+        },
+        {
+          "id": "part-i-chapter-xi",
+          "title": {
+            "en-US": "CHAPTER XI. THIRD MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xii",
+          "title": {
+            "en-US": "CHAPTER XII. FOURTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xiii",
+          "title": {
+            "en-US": "CHAPTER XIII. FIFTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xiv",
+          "title": {
+            "en-US": "CHAPTER XIV. SIXTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xv",
+          "title": {
+            "en-US": "CHAPTER XV. SEVENTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xvi",
+          "title": {
+            "en-US": "CHAPTER XVI. EIGHTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xvii",
+          "title": {
+            "en-US": "CHAPTER XVII. NINTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xviii",
+          "title": {
+            "en-US": "CHAPTER XVIII. TENTH MEDITATION."
+          }
+        },
+        {
+          "id": "part-i-chapter-xix",
+          "title": {
+            "en-US": "CHAPTER XIX. How to make a General Confession."
+          }
+        },
+        {
+          "id": "part-i-chapter-xx",
+          "title": {
+            "en-US": "CHAPTER XX. A hearty Protest made with the object of confirming the Soul's resolution to serve God, as a conclusion to its acts of Penitence."
+          }
+        },
+        {
+          "id": "part-i-chapter-xxi",
+          "title": {
+            "en-US": "CHAPTER XXI. Conclusion of this First Purification."
+          }
+        },
+        {
+          "id": "part-i-chapter-xxii",
+          "title": {
+            "en-US": "CHAPTER XXII. The Necessity of Purging away all tendency to Venial Sins."
+          }
+        },
+        {
+          "id": "part-i-chapter-xxiii",
+          "title": {
+            "en-US": "CHAPTER XXIII. It is needful to put away all Inclination for Useless and Dangerous Things."
+          }
+        },
+        {
+          "id": "part-i-chapter-xxiv",
+          "title": {
+            "en-US": "CHAPTER XXIV. All Evil Inclinations must be purged away."
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-ii",
+      "title": {
+        "en-US": "PART II. CONTAINING SUNDRY COUNSELS AS TO UPLIFTING THE SOUL TO GOD IN PRAYER AND THE USE OF THE SACRAMENTS."
+      },
+      "children": [
+        {
+          "id": "part-ii-chapter-i",
+          "title": {
+            "en-US": "CHAPTER I. The Necessity of Prayer."
+          }
+        },
+        {
+          "id": "part-ii-chapter-ii",
+          "title": {
+            "en-US": "CHAPTER II. A short Method of Meditation. And first, the Presence of God, the First Point of Preparation."
+          }
+        },
+        {
+          "id": "part-ii-chapter-iii",
+          "title": {
+            "en-US": "CHAPTER III. Invocation, the Second Point of Preparation."
+          }
+        },
+        {
+          "id": "part-ii-chapter-iv",
+          "title": {
+            "en-US": "CHAPTER IV. The Third Point of Preparation, representing the Mystery to be meditated to Your Imagination."
+          }
+        },
+        {
+          "id": "part-ii-chapter-v",
+          "title": {
+            "en-US": "CHAPTER V. Considerations, the Second Part of Meditation."
+          }
+        },
+        {
+          "id": "part-ii-chapter-vi",
+          "title": {
+            "en-US": "CHAPTER VI. The Third Part of Meditation, Affections and Resolutions."
+          }
+        },
+        {
+          "id": "part-ii-chapter-vii",
+          "title": {
+            "en-US": "CHAPTER VII. The Conclusion and Spiritual Bouquet."
+          }
+        },
+        {
+          "id": "part-ii-chapter-viii",
+          "title": {
+            "en-US": "CHAPTER VIII. Some Useful Hints as to Meditation."
+          }
+        },
+        {
+          "id": "part-ii-chapter-ix",
+          "title": {
+            "en-US": "CHAPTER IX. Concerning Dryness in Meditation."
+          }
+        },
+        {
+          "id": "part-ii-chapter-x",
+          "title": {
+            "en-US": "CHAPTER X. Morning Prayer."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xi",
+          "title": {
+            "en-US": "CHAPTER XI. Evening Prayer and Examination of Conscience."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xii",
+          "title": {
+            "en-US": "CHAPTER XII. On Spiritual Retirement."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xiii",
+          "title": {
+            "en-US": "CHAPTER XIII. Aspirations, Ejaculatory Prayer and Holy Thoughts."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xiv",
+          "title": {
+            "en-US": "CHAPTER XIV. Of Holy Communion, and how to join in it."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xv",
+          "title": {
+            "en-US": "CHAPTER XV. Of the other Public Offices of the Church."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xvi",
+          "title": {
+            "en-US": "CHAPTER XVI. How the Saints are united to us."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xvii",
+          "title": {
+            "en-US": "CHAPTER XVII. How to Hear and Read God's Word."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xviii",
+          "title": {
+            "en-US": "CHAPTER XVIII. How to receive Inspirations."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xix",
+          "title": {
+            "en-US": "CHAPTER XIX. On Confession."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xx",
+          "title": {
+            "en-US": "CHAPTER XX. Of Frequent Communion."
+          }
+        },
+        {
+          "id": "part-ii-chapter-xxi",
+          "title": {
+            "en-US": "CHAPTER XXI. How to Communicate."
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-iii",
+      "title": {
+        "en-US": "PART III. CONTAINING COUNSELS CONCERNING THE PRACTICE OF VIRTUE."
+      },
+      "children": [
+        {
+          "id": "part-iii-chapter-i",
+          "title": {
+            "en-US": "CHAPTER I. How to select that which we should chiefly Practise."
+          }
+        },
+        {
+          "id": "part-iii-chapter-ii",
+          "title": {
+            "en-US": "CHAPTER II. The same Subject continued."
+          }
+        },
+        {
+          "id": "part-iii-chapter-iii",
+          "title": {
+            "en-US": "CHAPTER III. On Patience."
+          }
+        },
+        {
+          "id": "part-iii-chapter-iv",
+          "title": {
+            "en-US": "CHAPTER IV. On Greater Humility."
+          }
+        },
+        {
+          "id": "part-iii-chapter-v",
+          "title": {
+            "en-US": "CHAPTER V. On Interior Humility."
+          }
+        },
+        {
+          "id": "part-iii-chapter-vi",
+          "title": {
+            "en-US": "CHAPTER VI. Humility makes us rejoice in our own Abjection."
+          }
+        },
+        {
+          "id": "part-iii-chapter-vii",
+          "title": {
+            "en-US": "CHAPTER VII. How to combine due care for a Good Reputation with Humility."
+          }
+        },
+        {
+          "id": "part-iii-chapter-viii",
+          "title": {
+            "en-US": "CHAPTER VIII. Gentleness towards others and Remedies against Anger."
+          }
+        },
+        {
+          "id": "part-iii-chapter-ix",
+          "title": {
+            "en-US": "CHAPTER IX. On Gentleness towards Ourselves."
+          }
+        },
+        {
+          "id": "part-iii-chapter-x",
+          "title": {
+            "en-US": "CHAPTER X. We must attend to the Business of Life carefully, but without Eagerness or Over-anxiety."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xi",
+          "title": {
+            "en-US": "CHAPTER XI. On Obedience."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xii",
+          "title": {
+            "en-US": "CHAPTER XII. On Purity."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xiii",
+          "title": {
+            "en-US": "CHAPTER XIII. How to maintain Purity."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xiv",
+          "title": {
+            "en-US": "CHAPTER XIV. On Poverty of Spirit amid Riches."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xv",
+          "title": {
+            "en-US": "CHAPTER XV. How to exercise real Poverty, although actually Rich."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xvi",
+          "title": {
+            "en-US": "CHAPTER XVI. How to possess a rich Spirit amid real Poverty."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xvii",
+          "title": {
+            "en-US": "CHAPTER XVII. On Friendship: Evil and Frivolous Friendship."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xviii",
+          "title": {
+            "en-US": "CHAPTER XVIII. On Frivolous Attachments."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xix",
+          "title": {
+            "en-US": "CHAPTER XIX. Of Real Friendship."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xx",
+          "title": {
+            "en-US": "CHAPTER XX. Of the Difference between True and False Friendship."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxi",
+          "title": {
+            "en-US": "CHAPTER XXI. Remedies against Evil Friendships."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxii",
+          "title": {
+            "en-US": "CHAPTER XXII. Further Advice concerning Intimacies."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxiii",
+          "title": {
+            "en-US": "CHAPTER XXIII. On The Practice of Bodily Mortification."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxiv",
+          "title": {
+            "en-US": "CHAPTER XXIV. Of Society and Solitude."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxv",
+          "title": {
+            "en-US": "CHAPTER XXV. On Modesty in Dress."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxvi",
+          "title": {
+            "en-US": "CHAPTER XXVI. Of Conversation; and, first, how to Speak of God."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxvii",
+          "title": {
+            "en-US": "CHAPTER XXVII. Of Unseemly Words, and the Respect due to Others."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxviii",
+          "title": {
+            "en-US": "CHAPTER XXVIII. Of Hasty Judgments."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxix",
+          "title": {
+            "en-US": "CHAPTER XXIX. On Slander."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxx",
+          "title": {
+            "en-US": "CHAPTER XXX. Further Counsels as to Conversation."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxi",
+          "title": {
+            "en-US": "CHAPTER XXXI. Of Amusements and Recreations: what are allowable."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxii",
+          "title": {
+            "en-US": "CHAPTER XXXII. Of Forbidden Amusements."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxiii",
+          "title": {
+            "en-US": "CHAPTER XXXIII. Of Balls, and other Lawful but Dangerous Amusements."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxiv",
+          "title": {
+            "en-US": "CHAPTER XXXIV. When to use such Amusements rightly."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxv",
+          "title": {
+            "en-US": "CHAPTER XXXV. We must be Faithful in Things Great and Small."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxvi",
+          "title": {
+            "en-US": "CHAPTER XXXVI. Of a Well-Balanced, Reasonable Mind."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxvii",
+          "title": {
+            "en-US": "CHAPTER XXXVII. Of Wishes."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxviii",
+          "title": {
+            "en-US": "CHAPTER XXXVIII. Counsels to Married People."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xxxix",
+          "title": {
+            "en-US": "CHAPTER XXXIX. The Sanctity of the Marriage Bed."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xl",
+          "title": {
+            "en-US": "CHAPTER XL. Counsels to Widows."
+          }
+        },
+        {
+          "id": "part-iii-chapter-xli",
+          "title": {
+            "en-US": "CHAPTER XLI. One Word to Maidens."
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-iv",
+      "title": {
+        "en-US": "PART IV. CONTAINING NEEDFUL COUNSELS CONCERNING SOME ORDINARY TEMPTATIONS."
+      },
+      "children": [
+        {
+          "id": "part-iv-chapter-i",
+          "title": {
+            "en-US": "CHAPTER I. We must not trifle with the Words of Worldly Wisdom."
+          }
+        },
+        {
+          "id": "part-iv-chapter-ii",
+          "title": {
+            "en-US": "CHAPTER II. The need of a Good Courage."
+          }
+        },
+        {
+          "id": "part-iv-chapter-iii",
+          "title": {
+            "en-US": "CHAPTER III. Of Temptations, and the difference between experiencing them and consenting to them."
+          }
+        },
+        {
+          "id": "part-iv-chapter-iv",
+          "title": {
+            "en-US": "CHAPTER IV. Two striking Illustrations of the same."
+          }
+        },
+        {
+          "id": "part-iv-chapter-v",
+          "title": {
+            "en-US": "CHAPTER V. Encouragement for the Tempted Soul."
+          }
+        },
+        {
+          "id": "part-iv-chapter-vi",
+          "title": {
+            "en-US": "CHAPTER VI. When Temptation and Delectation are Sin."
+          }
+        },
+        {
+          "id": "part-iv-chapter-vii",
+          "title": {
+            "en-US": "CHAPTER VII. Remedies for Great Occasions."
+          }
+        },
+        {
+          "id": "part-iv-chapter-viii",
+          "title": {
+            "en-US": "CHAPTER VIII. How to resist Minor Temptations."
+          }
+        },
+        {
+          "id": "part-iv-chapter-ix",
+          "title": {
+            "en-US": "CHAPTER IX. How remedy Minor Temptations."
+          }
+        },
+        {
+          "id": "part-iv-chapter-x",
+          "title": {
+            "en-US": "CHAPTER X. How to strengthen the Heart against Temptation."
+          }
+        },
+        {
+          "id": "part-iv-chapter-xi",
+          "title": {
+            "en-US": "CHAPTER XI. Anxiety of Mind."
+          }
+        },
+        {
+          "id": "part-iv-chapter-xii",
+          "title": {
+            "en-US": "CHAPTER XII. Of Sadness and Sorrow."
+          }
+        },
+        {
+          "id": "part-iv-chapter-xiii",
+          "title": {
+            "en-US": "CHAPTER XIII. Of Spiritual and Sensible Consolations, and how to receive them."
+          }
+        },
+        {
+          "id": "part-iv-chapter-xiv",
+          "title": {
+            "en-US": "CHAPTER XIV. Of Dryness and Spiritual Barrenness."
+          }
+        },
+        {
+          "id": "part-iv-chapter-xv",
+          "title": {
+            "en-US": "CHAPTER XV. An Illustration."
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-v",
+      "title": {
+        "en-US": "PART V. CONTAINING COUNSELS AND PRACTICES FOR RENEWING AND CONFIRMING THE SOUL IN DEVOTION."
+      },
+      "children": [
+        {
+          "id": "part-v-chapter-i",
+          "title": {
+            "en-US": "CHAPTER I. It is well yearly to renew Good Resolutions by means of the following Exercises."
+          }
+        },
+        {
+          "id": "part-v-chapter-ii",
+          "title": {
+            "en-US": "CHAPTER II. Meditation on the Benefit conferred on us by God in calling us to His Service."
+          }
+        },
+        {
+          "id": "part-v-chapter-iii",
+          "title": {
+            "en-US": "CHAPTER III. Examination of the Soul as to its Progress in the Devout Life."
+          }
+        },
+        {
+          "id": "part-v-chapter-iv",
+          "title": {
+            "en-US": "CHAPTER IV. Examination of the Soul's Condition as regards God."
+          }
+        },
+        {
+          "id": "part-v-chapter-v",
+          "title": {
+            "en-US": "CHAPTER V. Examination of your Condition as regards yourself."
+          }
+        },
+        {
+          "id": "part-v-chapter-vi",
+          "title": {
+            "en-US": "CHAPTER VI. Examination of the Soul's Condition as regards our Neighbour."
+          }
+        },
+        {
+          "id": "part-v-chapter-vii",
+          "title": {
+            "en-US": "CHAPTER VII. Examination as to the Affectations of the Soul."
+          }
+        },
+        {
+          "id": "part-v-chapter-viii",
+          "title": {
+            "en-US": "CHAPTER VIII. The Affections to be excited after such Examination."
+          }
+        },
+        {
+          "id": "part-v-chapter-ix",
+          "title": {
+            "en-US": "CHAPTER IX. Reflections suitable to the renewal of Good Resolutions."
+          }
+        },
+        {
+          "id": "part-v-chapter-x",
+          "title": {
+            "en-US": "CHAPTER X. First Consideration--of the Worth of Souls."
+          }
+        },
+        {
+          "id": "part-v-chapter-xi",
+          "title": {
+            "en-US": "CHAPTER XI. Second Consideration--on the Excellence of Virtue."
+          }
+        },
+        {
+          "id": "part-v-chapter-xii",
+          "title": {
+            "en-US": "CHAPTER XII. The Example of the Saints."
+          }
+        },
+        {
+          "id": "part-v-chapter-xiii",
+          "title": {
+            "en-US": "CHAPTER XIII. The Love which Jesus Christ bears to us."
+          }
+        },
+        {
+          "id": "part-v-chapter-xiv",
+          "title": {
+            "en-US": "CHAPTER XIV. The Eternal Love of God for us."
+          }
+        },
+        {
+          "id": "part-v-chapter-xv",
+          "title": {
+            "en-US": "CHAPTER XV. General Affections which should result from these Considerations, and Conclusion of the Exercise."
+          }
+        },
+        {
+          "id": "part-v-chapter-xvi",
+          "title": {
+            "en-US": "CHAPTER XVI. The Impressions which should remain after this Exercise."
+          }
+        },
+        {
+          "id": "part-v-chapter-xvii",
+          "title": {
+            "en-US": "CHAPTER XVII. An Answer to Two Objections which may be made to this Book."
+          }
+        },
+        {
+          "id": "part-v-chapter-xviii",
+          "title": {
+            "en-US": "CHAPTER XVIII. Three Important and Final Counsels."
+          }
+        }
+      ]
+    }
+  ]
+}

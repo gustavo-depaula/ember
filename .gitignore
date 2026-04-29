@@ -59,3 +59,4 @@ content/libraries/alphonsus-liguori/sources/
 # Python bytecode caches
 __pycache__/
 *.py[cod]
+tmp/

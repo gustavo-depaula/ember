@@ -1,0 +1,19 @@
+# CHAPTER XXX. Further Counsels as to Conversation.
+
+LET your words be kindly, frank, sincere, straightforward, simple and true; avoid all artifice, duplicity and pretence, remembering that, although it is not always well to publish abroad everything that may be true, yet it is never allowable to oppose the truth. Make it your rule never knowingly to say what is not strictly true, either accusing or excusing, always remembering that God is the God of Truth. If you have unintentionally said what is not true, and it is possible to correct yourself at once by means of explanation or reparation, do so. A straightforward excuse has far greater weight than any falsehood.
+
+It may be lawful occasionally to conceal or disguise the truth, but this should never be done save in such special cases as make this reserve obviously a necessity for the service and glory of God. Otherwise all such artifice is dangerous; and we are told in Holy Scripture that God’s Holy Spirit will not abide with the false or double-minded. Depend upon it there is no craft half so profitable and successful as simplicity. Worldly prudence and artifice belong to the children of this world; but the children of God go straight on with a single heart and in all confidence;—falsehood, deceit and duplicity are sure signs of a mean, weak mind.
+
+In the Fourth Book of his Confessions, S. Augustine spoke in very strong terms of his passionate devotion to a friend, saying that they had but as one soul, and that after his friend’s death his life was a horror to him, although he feared to die. But later on these expressions seemed unreal and affected to him, and he withdrew them in his Retractations. [^1] You see how sensitive that great mind was to unreality or affectation. Assuredly straightforward honesty and sincerity in speech is a great beauty in the Christian life. “I said I will take heed to my ways, that I offend not in my tongue.” [^2] “Set a watch, O Lord, before my mouth, and keep the door of my lips.” [^3]
+
+It was a saying of S. Louis, that one should contradict nobody, unless there was sin or harm in consenting; and that in order to avoid contention and dispute. At any rate, when it is necessary to contradict anybody, or to assert one’s own opinion, it should be done gently and considerately, without irritation or vehemence. Indeed, we gain nothing by sharpness or petulance.
+
+The silence, so much commended by wise men of old, does not refer so much to a literal use of few words, as to not using many useless words. On this score, we must look less to the quantity than the quality, and, as it seems to me, our aim should be to avoid both extremes. An excessive reserve and stiffness, which stands aloof from familiar friendly conversation, is untrusting, and implies a certain sort of contemptuous pride; while an incessant chatter and babble, leaving no opportunity for others to put in their word, is frivolous and troublesome.
+
+S. Louis objected to private confidences and whisperings in society, especially at table, lest suspicion should be aroused that scandal was being repeated. “Those who have anything amusing or pleasant to say,” he argued, “should let everybody share the entertainment, but if they want to speak of important matters, they should wait a more suitable time.”
+
+[^1]: “My dearest Nebridius . . . I wondered that others subject to death should live, since he whom I loved, as if he should never die, was dead; and I wondered yet more that myself, who was to him as a second self, could live, he being dead. . . . I felt that my soul and his soul were one soul in two bodies, and therefore my life was a horror to me, because I would not live halved, and therefore perchance I feared to die, lest he whom I had much loved should die wholly.”—Confessions, Oxf. Trans. Bk. iv. p. 52. ”. . . which seems to me rather an empty declamation than a grave confession.”—Retract., Bk. ii. c. 6.
+
+[^2]: Ps. xxxix. 1.
+
+[^3]: Ps. cxli. 3.
