@@ -70,12 +70,12 @@ export default {
       'post-pentecost': 'Pentecostes',
     },
     liturgicalDay: {
-      sundayOf: '{{ordinal}} Domingo {{season}}',
-      weekdayOf: '{{day}} da {{ordinalFem}} Semana {{season}}',
+      sundayOf: '{{ordinal}} Domingo {{season}}',
+      weekdayOf: '{{day}} da {{ordinalFem}} Semana {{season}}',
       afterAshWednesday: '{{day}} depois da Quarta-Feira de Cinzas',
       holyWeekDay: '{{day}} da Semana Santa',
       easterOctave: '{{day}} da Oitava da Páscoa',
-      christmasOrdinal: '{{ordinal}} Dia do Natal',
+      christmasOrdinal: '{{ordinal}} Dia do Natal',
       sundayOfChristmas: 'Domingo do Tempo do Natal',
       pentecostWeek: '{{day}} da Oitava de Pentecostes',
       seasons: {

@@ -70,12 +70,12 @@ export default {
       'post-pentecost': 'Pentecost',
     },
     liturgicalDay: {
-      sundayOf: '{{ordinal}} Sunday of {{season}}',
-      weekdayOf: '{{day}} of the {{ordinal}} Week of {{season}}',
+      sundayOf: '{{ordinal}} Sunday of {{season}}',
+      weekdayOf: '{{day}} of the {{ordinal}} Week of {{season}}',
       afterAshWednesday: '{{day}} after Ash Wednesday',
       holyWeekDay: '{{day}} of Holy Week',
       easterOctave: '{{day}} of the Octave of Easter',
-      christmasOrdinal: '{{ordinal}} Day of Christmas',
+      christmasOrdinal: '{{ordinal}} Day of Christmas',
       sundayOfChristmas: 'Sunday of Christmastide',
       pentecostWeek: '{{day}} of the Octave of Pentecost',
       seasons: {

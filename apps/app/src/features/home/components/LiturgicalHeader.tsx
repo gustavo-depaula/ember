@@ -15,16 +15,6 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { DateScrubber } from './DateScrubber'
 
-const seasonKeys = [
-  'advent',
-  'lent',
-  'easter',
-  'ordinaryTime',
-  'epiphany',
-  'septuagesima',
-  'postPentecost',
-] as const
-
 const vestmentHex: Record<LiturgicalColor, string> = {
   violet: '#6b4a9b',
   white: '#e8dfc6',
@@ -56,25 +46,16 @@ export function LiturgicalHeader({
 
   const seasonDisplay = t(`home.seasonName.${season}`)
 
-  // Strip just the season name from the end of the day name, keeping any
-  // trailing connector ("da", "of", etc.) so the prefix flows visually into
-  // the season title below (e.g. "Quinta-Feira da Oitava da" → "Páscoa").
+  // Strip just the bare season noun from the end of the day name, keeping
+  // any trailing connector ("da", "of", etc.) so the prefix flows visually
+  // into the season title below (e.g. "Segunda-Feira da 2ª Semana da" →
+  // "Páscoa", "4th Sunday of" → "Easter").
   const prefix = useMemo(() => {
-    let stripped = dayName
-    const grammatical = seasonKeys
-      .map((key) => t(`home.liturgicalDay.seasons.${key}`) as string)
-      .sort((a, b) => b.length - a.length)
-    for (const s of grammatical) {
-      if (stripped.endsWith(s)) {
-        stripped = stripped.slice(0, -s.length).trimEnd()
-        break
-      }
+    if (dayName.endsWith(seasonDisplay)) {
+      return dayName.slice(0, -seasonDisplay.length).trimEnd()
     }
-    if (stripped === dayName && dayName.endsWith(seasonDisplay)) {
-      stripped = dayName.slice(0, -seasonDisplay.length).trimEnd()
-    }
-    return stripped
-  }, [dayName, seasonDisplay, t])
+    return dayName
+  }, [dayName, seasonDisplay])
 
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
