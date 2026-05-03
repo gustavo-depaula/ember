@@ -4,6 +4,7 @@ import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Dimensions, Pressable } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import {
@@ -16,7 +17,7 @@ import {
 } from '@/components'
 import { getManifest } from '@/content/registry'
 import { useEventStore } from '@/db/events'
-import { useYearCalendar } from '@/features/calendar'
+import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
 import {
   AppShortcuts,
   Aspiratio,
@@ -33,7 +34,6 @@ import {
 import {
   type BlockState,
   buildTieredWallData,
-  DayCarousel,
   enrichSlot,
   filterSlotsForDate,
   getActiveBlocks,
@@ -121,6 +121,7 @@ export default function HomeScreen() {
   const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
+  const hasUpcomingFeast = !!useUpcomingCelebration(14)
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -156,9 +157,15 @@ export default function HomeScreen() {
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
 
+  // On notched platforms (iOS) the safe-area inset gives the corner ornament
+  // breathing room. On web/Android-no-notch the inset is 0, which lets the
+  // ornament's top edge get clipped above the viewport — add a virtual notch.
+  const insets = useSafeAreaInsets()
+  const noNotchTopPad = insets.top === 0 ? 32 : 0
+
   return (
     <ScreenLayout>
-      <View position="absolute" top={-63} left={-16} pointerEvents="none" zIndex={1}>
+      <View position="absolute" top={noNotchTopPad - 63} left={-16} pointerEvents="none" zIndex={1}>
         <Image
           source={isDark ? frameCornerDark : frameCornerLight}
           style={{ width: cornerWidth, height: isDark ? darkCornerHeight : lightCornerHeight }}
@@ -166,26 +173,31 @@ export default function HomeScreen() {
           accessibilityElementsHidden
         />
       </View>
-      <YStack gap="$lg" paddingTop={20} paddingBottom="$lg">
+      <YStack gap="$lg" paddingTop={20 + noNotchTopPad} paddingBottom="$lg">
         <YStack gap="$md">
-          <LiturgicalHeader date={now} season={season} rose={isRose} />
-
-          <FadeInView>
-            <DiesDevotion date={now} />
-          </FadeInView>
-
-          <DayCarousel
+          <LiturgicalHeader
+            date={now}
+            season={season}
+            rose={isRose}
             today={anchorDate}
             onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
           />
 
           <FadeInView>
-            <SeasonalContext date={now} season={season} />
+            <DiesDevotion date={now} />
           </FadeInView>
 
-          <FadeInView>
-            <CelebrationOfDay date={now} />
-          </FadeInView>
+          {hasUpcomingFeast && (
+            <FadeInView>
+              <SeasonalContext date={now} />
+            </FadeInView>
+          )}
+
+          {scheduleCtx?.dayCalendar?.principal && (
+            <FadeInView>
+              <CelebrationOfDay date={now} />
+            </FadeInView>
+          )}
 
           {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
             <FadeInView>

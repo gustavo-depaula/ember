@@ -26,7 +26,7 @@ export function DiesDevotion({ date }: { date: Date }) {
       accessibilityLabel={t('diesDomini.title')}
       hitSlop={6}
     >
-      <Text fontFamily="$body" fontSize="$2" color="$accent" textAlign="center" opacity={0.9}>
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
         {line}
       </Text>
     </Pressable>

@@ -1,8 +1,9 @@
+import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Pressable } from 'react-native'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
-import { formatLocalized } from '@/lib/i18n/dateLocale'
 import {
   getLiturgicalColor,
   getLiturgicalDayName,
@@ -11,6 +12,8 @@ import {
   type LiturgicalSeason,
 } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+import { DateScrubber } from './DateScrubber'
 
 const seasonKeys = [
   'advent',
@@ -34,10 +37,14 @@ export function LiturgicalHeader({
   date,
   season,
   rose,
+  today,
+  onSelectDate,
 }: {
   date: Date
   season: LiturgicalSeason
   rose?: boolean
+  today: string
+  onSelectDate: (date: string) => void
 }) {
   const { t } = useTranslation()
   const liturgicalCalendar = usePreferencesStore(
@@ -49,9 +56,9 @@ export function LiturgicalHeader({
 
   const seasonDisplay = t(`home.seasonName.${season}`)
 
-  // Strip the season name from the end of the day name, then trim any trailing
-  // connector words so the prefix doesn't end on a dangling preposition
-  // (e.g. "...Second Week of Easter" → "...Second Week", "...Semana da Páscoa" → "...Semana").
+  // Strip just the season name from the end of the day name, keeping any
+  // trailing connector ("da", "of", etc.) so the prefix flows visually into
+  // the season title below (e.g. "Quinta-Feira da Oitava da" → "Páscoa").
   const prefix = useMemo(() => {
     let stripped = dayName
     const grammatical = seasonKeys
@@ -66,7 +73,7 @@ export function LiturgicalHeader({
     if (stripped === dayName && dayName.endsWith(seasonDisplay)) {
       stripped = dayName.slice(0, -seasonDisplay.length).trimEnd()
     }
-    return stripped.replace(/\s+(of|the|da|de|do|dos|das|du|del|della|dello)$/i, '')
+    return stripped
   }, [dayName, seasonDisplay, t])
 
   const themeName = useThemeName()
@@ -74,11 +81,13 @@ export function LiturgicalHeader({
   const vestment: LiturgicalColor = rose ? 'rose' : getLiturgicalColor(season)
   const vestmentColor = vestmentHex[vestment]
 
+  const router = useRouter()
+
   return (
     <YStack gap="$xs" alignItems="center">
-      <Text fontFamily="$script" fontSize="$4" color="$colorSecondary" paddingTop="$sm">
-        {formatLocalized(date, 'MMMM d').replace(/^\w/, (c) => c.toUpperCase())}
-      </Text>
+      <View paddingTop="$sm" width="100%">
+        <DateScrubber today={today} onSelectDate={onSelectDate} />
+      </View>
 
       <Text
         fontFamily="$heading"
@@ -90,8 +99,26 @@ export function LiturgicalHeader({
         {prefix}
       </Text>
 
-      <Text fontFamily="$display" fontSize={'$6' as any} color="$accent" paddingVertical="$sm">
-        {seasonDisplay}
+      <Pressable
+        onPress={() => router.push('/calendar')}
+        accessibilityRole="link"
+        accessibilityLabel={t('a11y.viewCalendar')}
+        hitSlop={8}
+      >
+        <Text fontFamily="$display" fontSize={'$6' as any} color="$accent" paddingVertical="$sm">
+          {seasonDisplay}
+        </Text>
+      </Pressable>
+
+      <Text
+        fontFamily="$body"
+        fontSize="$2"
+        color="$accent"
+        textAlign="center"
+        fontStyle="italic"
+        paddingHorizontal="$lg"
+      >
+        {t(`home.seasonDescription.${season}`)}
       </Text>
 
       <View
@@ -100,7 +127,7 @@ export function LiturgicalHeader({
         borderRadius={2}
         backgroundColor={vestmentColor}
         opacity={isDark ? 0.85 : 0.75}
-        marginTop="$xs"
+        marginTop="$sm"
       />
     </YStack>
   )

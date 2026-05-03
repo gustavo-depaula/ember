@@ -3,6 +3,7 @@ export {
   Aspiratio,
   CelebrationOfDay,
   ConfessioLine,
+  DateScrubber,
   DiesDevotion,
   IntentionHeart,
   LiturgicalHeader,
