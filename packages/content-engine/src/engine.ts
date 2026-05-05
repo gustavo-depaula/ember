@@ -1227,13 +1227,42 @@ function pickRichTextLines(
   if (lines && lines.length > 0) return lines
   const plain = body.plain?.[lang]
   if (typeof plain === 'string' && plain.trim().length > 0) {
-    return plain
-      .split(/\n{2,}|\n/)
-      .map((p) => p.trim())
-      .filter((p) => p.length > 0)
-      .map((p) => [{ type: 'text', text: p }])
+    return splitPlainIntoLines(plain).map((p) => [{ type: 'text', text: p }])
   }
   return undefined
+}
+
+/**
+ * Split a plain-text body into renderable lines. Prefer real paragraph
+ * breaks (`\n\n` or `\n`); when the source is one long string with no
+ * line breaks (ember-extra scripture readings, ~1100+ chars in a single
+ * paragraph), fall back to sentence-level chunking. Heuristic: a period
+ * (or question-/exclamation-mark, or close-quote) followed by a space
+ * and an uppercase / open-quote character starts a new line — but only
+ * when the running paragraph is already long enough that sentence
+ * splitting won't shred a short prayer into bullet points.
+ */
+function splitPlainIntoLines(plain: string): string[] {
+  const byNewline = plain
+    .split(/\n{2,}|\n/)
+    .map((p) => p.trim())
+    .filter((p) => p.length > 0)
+  if (byNewline.length > 1) return byNewline
+
+  const single = byNewline[0] ?? plain.trim()
+  if (single.length < 240) return [single]
+
+  // Sentence-end punctuation (including ASCII "..." ellipsis) + space +
+  // uppercase / open quote. False positives on abbreviations like
+  // "S. Paulo", "Cf. Mt", "Pe. João" do split mid-name — the cost is a
+  // few spurious breaks per reading, accepted in exchange for not
+  // rendering scripture as one wall of text.
+  const pattern = /(?<=[.!?…”"'»]|\.\.\.)\s+(?=[A-ZÀ-ÚÇ"“«¡¿])/u
+  const parts = single
+    .split(pattern)
+    .map((p) => p.trim())
+    .filter((p) => p.length > 0)
+  return parts.length > 1 ? parts : [single]
 }
 
 function resolveChoiceRichText(

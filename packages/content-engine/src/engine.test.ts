@@ -48,6 +48,67 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // Existing tests (pre-unified-flow)
 // =============================================================================
 
+describe('splitPlainIntoLines via choice-rich-text', () => {
+  it('splits a long single-paragraph reading on sentence boundaries', () => {
+    // Mock a slot whose body.plain.pt-BR is a single paragraph of
+    // five sentences (>240 chars total); expect five RichTextLines.
+    const longText =
+      'Naqueles dias, de Antioquia chegaram judeus que convenceram as multidões. ' +
+      'Então apedrejaram Paulo e arrastaram-no para fora da cidade, pensando que ele estivesse morto. ' +
+      'Enquanto os discípulos o rodeavam, Paulo levantou-se e entrou na cidade. ' +
+      'No dia seguinte partiu para Derbe com Barnabé. ' +
+      'Voltaram depois para Listra, Icônio e Antioquia.'
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Reading' },
+        slot: 'firstReading',
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              firstReading: {
+                body: { plain: { 'pt-BR': longText } },
+              },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    const primary = choice.options[0].body.primary
+    expect(primary.length).toBe(5)
+  })
+
+  it('keeps short prayers as a single line (no over-splitting)', () => {
+    const shortPrayer =
+      'Pai nosso que estais no céu, santificado seja o vosso nome. Venha a nós o vosso Reino.'
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Prayer' },
+        slot: 'collect',
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              collect: { body: { plain: { 'pt-BR': shortPrayer } } },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    expect(choice.options[0].body.primary.length).toBe(1)
+  })
+})
+
 describe('resolveFlow — collapsible primitive', () => {
   it('wraps resolved sections in a collapsible (defaults closed)', () => {
     const result = resolveFlow(
