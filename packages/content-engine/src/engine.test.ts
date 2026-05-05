@@ -48,6 +48,66 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // Existing tests (pre-unified-flow)
 // =============================================================================
 
+describe('resolveFlow — collapsible primitive', () => {
+  it('wraps resolved sections in a collapsible (defaults closed)', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Quiet prayers' },
+        sections: [
+          { type: 'rubric', text: { 'pt-BR': 'Priest says quietly:' } },
+          { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'Bendito sejais...' } },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      {
+        type: 'collapsible',
+        title: { primary: 'Quiet prayers' },
+        defaultOpen: false,
+        sections: [
+          { type: 'rubric', label: { primary: 'Priest says quietly:' } },
+          {
+            type: 'prayer',
+            title: { primary: '' },
+            text: { primary: 'Bendito sejais...' },
+            speaker: 'priest',
+          },
+        ],
+      },
+    ])
+  })
+
+  it('honors defaultOpen: true', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Open by default' },
+        defaultOpen: true,
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'A note' } }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect((result[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
+  })
+
+  it('drops a collapsible whose body resolves to nothing', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Empty' },
+        sections: [],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+})
+
 describe('resolveFlow — pickerStyle: cards', () => {
   it('passes pickerStyle through and derives an excerpt per option', () => {
     const result = resolveFlow(

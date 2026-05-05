@@ -177,6 +177,16 @@ export type FlowSection = { lang?: string } & (
   | { type: 'fragment'; ref: string }
   | { type: 'call'; ref: string; args?: Record<string, unknown> }
   | {
+      // Collapsible group — title is always visible; sections reveal on tap.
+      // Use for dense explanatory rubric blocks and silent priest prayers
+      // (Preparação das Oferendas, etc.) that overwhelm the audible flow.
+      // Defaults to collapsed; set `defaultOpen: true` to start expanded.
+      type: 'collapsible'
+      title: LocalizedText
+      defaultOpen?: boolean
+      sections: FlowSection[]
+    }
+  | {
       // Renders a colored swatch + localized label for the liturgical color
       // at `from`. `from` is a dotted path resolved against FlowContext
       // (e.g. `celebration.primary.liturgicalColor`). Renderer draws a small
@@ -223,6 +233,12 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
+  | {
+      type: 'collapsible'
+      title: BilingualText
+      defaultOpen: boolean
+      sections: RenderedSection[]
+    }
   | {
       type: 'liturgical-color'
       color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'

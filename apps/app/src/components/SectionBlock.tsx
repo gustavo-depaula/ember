@@ -3,6 +3,7 @@ import type { RenderedSection } from '@/content/types'
 import {
   CanticleBlock,
   ChoiceRichTextBlock,
+  CollapsibleBlock,
   CollapsiblePrayer,
   GalleryBlock,
   HolyCardBlock,
@@ -33,6 +34,25 @@ export function SectionBlock({
 
     case 'liturgical-color':
       return <LiturgicalColorBlock color={section.color} label={section.label} />
+
+    case 'collapsible':
+      return (
+        <CollapsibleBlock
+          title={section.title}
+          defaultOpen={section.defaultOpen}
+          sections={section.sections}
+          renderSection={
+            renderSection ??
+            ((s, i) => (
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                onSelectOverride={onSelectOverride}
+              />
+            ))
+          }
+        />
+      )
 
     case 'prayer':
       if (section.speaker) {

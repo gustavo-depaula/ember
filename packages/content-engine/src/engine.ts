@@ -782,6 +782,19 @@ function resolveSection(
     case 'choice-rich-text':
       return resolveChoiceRichText(section, context, ec)
 
+    case 'collapsible': {
+      const sections = section.sections.flatMap((s) => resolveSection(s, context, ec))
+      if (sections.length === 0) return []
+      return [
+        {
+          type: 'collapsible',
+          title: ec.localize(section.title),
+          defaultOpen: section.defaultOpen ?? false,
+          sections,
+        },
+      ]
+    }
+
     case 'liturgical-color': {
       const raw = resolvePath(context, section.from)
       const color = typeof raw === 'string' ? raw.toLowerCase() : undefined

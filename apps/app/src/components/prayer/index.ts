@@ -1,6 +1,7 @@
 export { BilingualBlock } from './BilingualBlock'
 export { CanticleBlock } from './CanticleBlock'
 export { ChoiceRichTextBlock } from './ChoiceRichTextBlock'
+export { CollapsibleBlock } from './CollapsibleBlock'
 export { CollapsiblePrayer } from './CollapsiblePrayer'
 export { GalleryBlock } from './GalleryBlock'
 export { HolyCardBlock } from './HolyCardBlock'

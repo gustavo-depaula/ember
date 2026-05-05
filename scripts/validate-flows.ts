@@ -46,6 +46,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'call',
   'choice-rich-text',
   'liturgical-color',
+  'collapsible',
 ])
 
 function visit(node: unknown, path: string, ctx: WalkCtx): void {
