@@ -399,3 +399,11 @@ moved out of engine.ts (which is at 1700+ lines) into a sibling file.
 edits. Today now reads "Terça-feira da V Semana da Páscoa".
 
 ---
+
+## Iteration 10 — Cards for Saudação + Despedida
+
+Tiny data iteration. Greeting forms A/B/C didn't distinguish on chip
+labels (A and B both start "A graça…"). Cards show the opening of
+each. Dismissal forms similarly. Library 1.5.1.
+
+---
