@@ -506,3 +506,48 @@ followed immediately — dropped.
 Library bumped to 1.5.4.
 
 ---
+
+## Iteration 15 — EP IV / V preface duplication
+
+Picked Eucharistic Prayer IV during Mass on a Sunday in Tempo Comum
+and the user prays *two* prefaces back-to-back: first the day's
+preface (rendered above the EP picker), then the Sanctus, then the EP
+IV card expands and the missal-mandated rubric "EP IV has a fixed
+Preface, may not be used with another" is followed by the EP IV
+preface text and a "Holy, Holy, Holy (as above)" rubric back-
+referencing a Sanctus already prayed. EP V (Brazilian, 4 variants)
+has the same shape — each variant ships its own thematic preface.
+
+Root cause was order: the outer flow rendered `dialogue → day-preface
+→ Sanctus → EP options`, which works for EP I/II/III (which use the
+day's preface) but never for EP IV/V (whose preface is intrinsic to
+the EP itself).
+
+Fix is structural — hoist the preface block into each EP card. New
+fragments: `of-preface-dialogue` (the 4-line dialogue), `of-sanctus`
+(the chant), `of-day-preface` (the picker), `of-ep-day-preface-head`
+(bundles all three for the EPs that use the day's preface). Each EP
+card emits the right shape:
+
+- **EP I, II, III** → `call: of-ep-day-preface-head` then body
+- **EP IV** → `call: of-preface-dialogue` then its inline preface
+  text then `call: of-sanctus` then body (replaces the old "Holy,
+  Holy, Holy (as above)" rubric)
+- **EP V (a/b/c/d)** → outer card calls dialogue once, each variant
+  emits its preface text + `call: of-sanctus` + body
+
+The outer flow now ends with a single rubric pointing the user at the
+EP picker below — "All stand. The Priest begins the Preface dialogue,
+which belongs to the Eucharistic Prayer chosen below." — and the EP
+options widget itself.
+
+`/simplify` caught: (1) a dead `INLINE_PREFACE_EP_IDS` set that wasn't
+referenced; (2) two redundant `new_sections` reassignments in the
+rebuild loop; (3) an empty `elif of-ep5: pass` branch with narrating
+comments — dropped; (4) **EP I/II/III each duplicated the same
+3-call header** — extracted into the new `of-ep-day-preface-head`
+fragment so each card now uses one call instead of three.
+
+Library bumped to 1.5.5.
+
+---
