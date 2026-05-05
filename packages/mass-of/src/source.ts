@@ -1,6 +1,7 @@
 import type { DataSource, SourceContext } from '@ember/content-engine'
 import { format } from 'date-fns'
 import { enumerateCelebrations, formularyPath, pickCycle } from './calendar'
+import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
 import type {
   Celebration,
   DayLiturgies,
@@ -208,18 +209,26 @@ async function buildCelebration(
   const primary = await fetchFormulary(ctx, primaryId)
   if (!primary) return undefined
 
-  const hydratedPrimary = await hydratePreface(ctx, primary)
+  const prettyTitle = prettifyCelebrationTitle(
+    (primary.title as Record<string, string | undefined>) ?? {},
+    primaryId,
+  )
+  const hydratedPrimary = await hydratePreface(ctx, { ...primary, title: prettyTitle })
 
   const alternates: Formulary[] = []
   for (const altId of alternateIds) {
     const alt = await fetchFormulary(ctx, altId)
     if (!alt) continue
-    alternates.push(await hydratePreface(ctx, alt))
+    const altTitle = prettifyCelebrationTitle(
+      (alt.title as Record<string, string | undefined>) ?? {},
+      altId,
+    )
+    alternates.push(await hydratePreface(ctx, { ...alt, title: altTitle }))
   }
 
   return {
     id: primaryId,
-    title: (primary.title as Celebration['title']) ?? {},
+    title: prettyTitle,
     rite: (primary.rite as RiteType | undefined) ?? 'mass',
     rank: (primary.rank as RankType | null | undefined) ?? null,
     primary: hydratedPrimary,

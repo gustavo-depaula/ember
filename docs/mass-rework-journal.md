@@ -584,3 +584,62 @@ nothing). Zero hits — every options card has at least one section.
 Library bumped to 1.5.6.
 
 ---
+
+## Iteration 17 — Solemnity titles
+
+Auditing the celebration banner found that 14 of 35 solemnity-rank
+formularies in ember-extra ship pt-BR titles in ALL CAPS — `NATAL DO
+SENHOR`, `SAGRADO CORAÇÃO DE JESUS`, `SANTÍSSIMA TRINDADE`,
+`ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA` — which the banner then
+displayed verbatim, shouting at the user above their morning prayer.
+
+Worse: all four Christmas Masses (Vigil / Night / Dawn / Day) share
+the literal title `NATAL DO SENHOR` with no discriminator, so on
+Christmas the celebration picker chip-row reads as four identical
+"NATAL DO SENHOR" buttons. The German and French entries do
+disambiguate (`Am Heiligen Abend`, `Messe de la nuit`) but pt-BR
+and en don't.
+
+Compounding all this: ember-extra uses the locale key `en`, while
+the engine localizer expects `en-US` — so an English user fetching
+a celebration title falls back to the Latin `la` key.
+
+New `prettifyCelebrationTitle(title, primaryId)` in `packages/mass-of/`
+solves all three at the data-source layer (cleanest seam — both
+the celebration picker chips and the banner read the resulting
+`celebration.title`). Logic:
+
+1. Map ember-extra's `en` key → `en-US`.
+2. Strip "<Ordinal> semana " prefix from pt-BR (turns "Sexta semana
+   ASCENÇÃO DO SENHOR" into "ASCENÇÃO…" before step 3).
+3. Strip "<Season> Season " prefix from en (turns "Easter Season
+   SEVENTH SUNDAY OF EASTER" into "SEVENTH…").
+4. Title-case any all-caps word, preserving language-aware
+   connectors (pt-BR: `de/do/da/dos/das/e/em/na/no/nas/nos/a/o/as/os`;
+   en: `of/the/and/or/in/on/at/to/for/a/an/by`). Mixed-case titles
+   pass through untouched. Hyphens preserved (`BEM-AVENTURADA` →
+   `Bem-Aventurada`, each component capitalized).
+5. For the four Christmas Mass IDs, append the disambiguator —
+   "Natal do Senhor — Missa da Vigília / da Noite / da Aurora /
+   do Dia" (en parallel: "The Nativity of the Lord — Mass at the
+   Vigil / during the Night / at Dawn / during the Day").
+
+Latin titles pass through untouched because Latin Mass purists
+already recognize `IN NATIVITATE DOMINI` and disambiguators don't
+exist canonically across all four Christmas formularies.
+
+Wired into `buildCelebration` so both the primary celebration and
+each alternate's title are normalized once. Tested with 8 cases
+covering uppercase normalization, prefix stripping, hyphenated
+compounds, Christmas variant disambiguation, mixed-case
+preservation, en→en-US renaming, and Latin pass-through. Full
+mass-of suite (59 tests) green.
+
+`/simplify` confirmed reuse story is clean — `titleCase` in
+source.ts is still used by `abbreviatePrefaceTitle` (different
+problem: preface header stripping); `prettifyFerialTitle` solves
+ferial weekday phrasing (also different). No library bump — the
+change is in mass-of TS, not in vendored ember-extra data, so the
+.pray archive content is unchanged.
+
+---
