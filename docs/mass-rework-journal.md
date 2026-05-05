@@ -407,3 +407,22 @@ labels (A and B both start "A graça…"). Cards show the opening of
 each. Dismissal forms similarly. Library 1.5.1.
 
 ---
+
+## Iteration 11 — Dedupe heading-vs-chip-label, second pass
+
+**Audit observation.** Clicked into the "Próprios" view to see what's
+there. Found the heading-vs-chip-label duplication still present —
+"Oração do Dia" heading immediately above an "Oração do dia"
+choice-rich-text label, and "Segunda Leitura" heading above "Segunda
+Leitura (Domingos e Solenidades)".
+
+**Cause.** My earlier `dedupe-heading-chip.py` matched by exact pt-BR
+equality, so a casing diff or a parenthetical suffix on the label
+both kept the duplicate alive.
+
+**Fix.** Widened the match to case-insensitive equality OR case-
+insensitive prefix match. Re-ran. 6 more redundant headings removed.
+
+Library 1.5.2.
+
+---
