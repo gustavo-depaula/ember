@@ -5897,13 +5897,6 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Collect",
-                                    "pt-BR": "Oração do Dia"
-                                  }
-                                },
-                                {
                                   "type": "choice-rich-text",
                                   "label": {
                                     "en-US": "Collect of the day",
@@ -5935,13 +5928,6 @@
                                 },
                                 {
                                   "type": "divider"
-                                },
-                                {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Second Reading",
-                                    "pt-BR": "Segunda Leitura"
-                                  }
                                 },
                                 {
                                   "type": "choice-rich-text",
@@ -6050,13 +6036,6 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Gospel",
-                                    "pt-BR": "Evangelho"
-                                  }
-                                },
-                                {
                                   "type": "choice-rich-text",
                                   "label": {
                                     "en-US": "Gospel of the day",
@@ -6077,13 +6056,6 @@
                                 },
                                 {
                                   "type": "divider"
-                                },
-                                {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Preface",
-                                    "pt-BR": "Prefácio"
-                                  }
                                 },
                                 {
                                   "type": "choice-rich-text",
@@ -6148,13 +6120,6 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Second Reading",
-                                    "pt-BR": "Segunda Leitura"
-                                  }
-                                },
-                                {
                                   "type": "choice-rich-text",
                                   "label": {
                                     "en-US": "Second Reading (Sundays and Solemnities)",
@@ -6259,13 +6224,6 @@
                                 },
                                 {
                                   "type": "divider"
-                                },
-                                {
-                                  "type": "heading",
-                                  "text": {
-                                    "en-US": "Gospel",
-                                    "pt-BR": "Evangelho"
-                                  }
                                 },
                                 {
                                   "type": "choice-rich-text",

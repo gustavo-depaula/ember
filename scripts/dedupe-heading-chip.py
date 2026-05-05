@@ -20,11 +20,17 @@ FLOW = ROOT / "content/libraries/base/practices/mass/flow.json"
 
 def texts_match(a: dict, b: dict) -> bool:
     """A heading.text and a choice-rich-text.label both have the
-    LocalizedText shape ({en-US, pt-BR, ...}). Match if the pt-BR fields
-    are equal (the primary content language)."""
+    LocalizedText shape. Match if the pt-BR fields are case-insensitive
+    equal OR the heading is a case-insensitive prefix of the chip label
+    (catches "Segunda Leitura" heading + "Segunda Leitura (Domingos e
+    Solenidades)" chip-label pairs)."""
     if not isinstance(a, dict) or not isinstance(b, dict):
         return False
-    return a.get("pt-BR") == b.get("pt-BR") and bool(a.get("pt-BR"))
+    pa = (a.get("pt-BR") or "").strip().casefold()
+    pb = (b.get("pt-BR") or "").strip().casefold()
+    if not pa or not pb:
+        return False
+    return pa == pb or pb.startswith(pa)
 
 
 def walk(node: object, removed: list[int]) -> None:
