@@ -3,6 +3,13 @@
 # dependencies
 node_modules/
 
+# ember-extra Roman Missal corpus — synced from vendor/ember-extra/ submodule
+# at .pray build time via scripts/sync-ember-extra.sh.
+content/libraries/base/of/
+
+# Mass-content build artifacts
+content/libraries/base/practices/mass/_extracted-blessings.json
+
 # Expo
 .expo/
 dist/

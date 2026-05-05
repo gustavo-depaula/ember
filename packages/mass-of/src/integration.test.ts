@@ -13,7 +13,9 @@ import {
 import { afterAll, beforeAll, describe, expect, it } from 'vitest'
 import { massOfSource } from './source'
 
-const BASE_OF_ROOT = resolve(__dirname, '../../../content/libraries/base/of')
+// Read directly from the ember-extra submodule so tests don't depend on
+// a local sync to content/libraries/base/of/ (which is gitignored).
+const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
 
 async function readJsonFromBase(libraryId: string, path: string): Promise<unknown> {
   if (libraryId !== 'base') throw new Error(`Unexpected libraryId in test: ${libraryId}`)

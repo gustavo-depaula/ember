@@ -4,6 +4,10 @@ set -euo pipefail
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 LIBRARIES_SRC="$REPO_ROOT/content/libraries"
 LIBRARIES_OUT="${1:-$LIBRARIES_SRC}"
+
+# Sync the ember-extra submodule into base/of/ (gitignored). The .pray
+# archive includes it; the source-of-truth is the submodule pointer.
+"$REPO_ROOT/scripts/sync-ember-extra.sh"
 # Resolve to absolute path (the script cd's into library dirs for zip)
 case "$LIBRARIES_OUT" in
   /*) ;;
