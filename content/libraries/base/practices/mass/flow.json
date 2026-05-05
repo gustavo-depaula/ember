@@ -1317,7 +1317,8 @@
                                         }
                                       ]
                                     }
-                                  ]
+                                  ],
+                                  "pickerStyle": "cards"
                                 },
                                 {
                                   "type": "rubric",
@@ -5872,7 +5873,8 @@
                                         }
                                       ]
                                     }
-                                  ]
+                                  ],
+                                  "pickerStyle": "cards"
                                 }
                               ]
                             },
