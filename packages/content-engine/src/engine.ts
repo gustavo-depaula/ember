@@ -8,6 +8,7 @@ import {
 } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import { getDataSource, type SourceContext } from './data-sources'
+import { prettifyFerialTitle } from './prettifyFerialTitle'
 import type {
   BilingualRichText,
   BilingualText,
@@ -830,8 +831,10 @@ function resolveSection(
         title?: LocalizedText
         liturgicalColor?: string
         rank?: string
+        season?: string
       }
       if (!o.title) return []
+      const titleForRender = prettifyFerialTitle(o.title, o.season)
       const color =
         typeof o.liturgicalColor === 'string' ? o.liturgicalColor.toLowerCase() : undefined
       const validColor =
@@ -852,7 +855,7 @@ function resolveSection(
       return [
         {
           type: 'celebration-banner',
-          title: ec.localize(o.title),
+          title: ec.localize(titleForRender),
           ...(validColor ? { color: validColor } : {}),
           ...(rankLabel ? { rank: rankLabel } : {}),
           ...(cycleLabel ? { cycle: cycleLabel } : {}),

@@ -48,6 +48,84 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // Existing tests (pre-unified-flow)
 // =============================================================================
 
+describe('celebration-banner — ferial title prettification', () => {
+  it('rewrites "Quinta semana Terça-feira" + season=easter to natural pt-BR', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'Quinta semana Terça-feira' },
+              season: 'easter',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('Terça-feira da V Semana da Páscoa')
+  })
+
+  it('rewrites Lent weekday similarly', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'Terceira semana Sexta-feira' },
+              season: 'lent',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('Sexta-feira da III Semana da Quaresma')
+  })
+
+  it('passes through Sunday + solemnity titles unchanged', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'QUINTO DOMINGO DA PÁSCOA' },
+              season: 'easter',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('QUINTO DOMINGO DA PÁSCOA')
+  })
+
+  it('passes through OT weekday titles unchanged (already natural)', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'Terça-feira da 29ª Semana do Tempo Comum' },
+              season: 'ordinary-time',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('Terça-feira da 29ª Semana do Tempo Comum')
+  })
+})
+
 describe('splitPlainIntoLines via choice-rich-text', () => {
   it('splits a long single-paragraph reading on sentence boundaries', () => {
     // Mock a slot whose body.plain.pt-BR is a single paragraph of
