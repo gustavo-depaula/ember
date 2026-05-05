@@ -305,3 +305,18 @@ were correct as-is.
 **Bumped to library 1.4.8.**
 
 ---
+
+## Iteration 6 — More cards (Memorial Acclamation + Penitential Act)
+
+Tiny iteration. Both widgets had useless chip labels (just "A B C"
+or "Forma A/B/C") that gave the user nothing to choose between
+without expanding each. With pickerStyle: cards now applied:
+- Memorial Acclamation cards show "Mistério da fé!" / "Mistério da
+  fé e do amor!" / "Mistério da fé para a salvação do mundo!" as
+  the discriminator.
+- Penitential Act cards show the opening line of each form
+  (Confiteor / Senhor, tende piedade / Tropos).
+
+Library 1.4.9. Pure data change — no code touched.
+
+---
