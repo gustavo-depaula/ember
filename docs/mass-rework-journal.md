@@ -459,3 +459,14 @@ and section-marker rule.
 **Bumped to library 1.5.3.**
 
 ---
+
+## Iteration 13 — Document Mass primitives in CONTRIBUTING
+
+Caught up the contributor docs with the new primitives that landed
+in iterations 1-12: celebration-banner, liturgical-color,
+liturgical-color-scope, section-marker, collapsible, plus the
+pickerStyle: 'cards' extension on choice-rich-text and options.
+
+No code change.
+
+---
