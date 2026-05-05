@@ -551,3 +551,36 @@ fragment so each card now uses one call instead of three.
 Library bumped to 1.5.5.
 
 ---
+
+## Iteration 16 — Antiphon rubrics
+
+The Entrance Antiphon and Communion Antiphon pickers rendered as
+bare cards with no instruction explaining when the antiphon is
+recited vs sung. GIRM 48 + 87 are explicit: if there is no chant,
+the antiphon is recited by the faithful, by some of them, or by a
+reader; otherwise by the Priest himself (after the greeting / after
+he has communicated). Without that note, a user dropping into Mass
+mid-stream couldn't tell whether they should recite the antiphon
+shown or skip it because the parish already sang an entrance hymn.
+
+Inserted a one-sentence rubric directly above each entrance-antiphon
+and communion-antiphon `choice-rich-text` picker across all six OF
+rite branches (ordinary Mass + Easter Vigil + Good Friday's
+communion + Lord's Supper + Chrism + Palm Sunday). 4 entrance + 6
+communion = 10 rubrics total.
+
+`/simplify` caught: my first walker only looked under `sections`
+keys, missing the pickers that live directly under fragment-id keys
+(`of-easter-vigil-body`, `of-lords-supper-body`, etc., which are
+top-level dict children of `flow.fragments`, not wrapped in a
+`sections` array). Generalized to any list, with idempotency by
+checking whether an introductory rubric is already the immediate
+predecessor.
+
+While in there: probed for empty-body chip options across the whole
+flow (a label with no body would render as a tap target that does
+nothing). Zero hits — every options card has at least one section.
+
+Library bumped to 1.5.6.
+
+---

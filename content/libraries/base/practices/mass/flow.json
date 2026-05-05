@@ -339,6 +339,13 @@
         "pickerStyle": "cards"
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
         "type": "choice-rich-text",
         "label": {
           "en-US": "Communion Antiphon",
@@ -387,6 +394,13 @@
           "pt-BR": "Ritos Iniciais"
         },
         "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+          "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+        }
       },
       {
         "type": "choice-rich-text",
@@ -584,6 +598,13 @@
         "pickerStyle": "cards"
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
         "type": "choice-rich-text",
         "label": {
           "en-US": "Communion Antiphon",
@@ -642,6 +663,13 @@
           "pt-BR": "Ritos Iniciais"
         },
         "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+          "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+        }
       },
       {
         "type": "choice-rich-text",
@@ -847,6 +875,13 @@
         },
         "slot": "preface",
         "pickerStyle": "cards"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
       },
       {
         "type": "choice-rich-text",
@@ -1093,6 +1128,13 @@
         "pickerStyle": "cards"
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
         "type": "choice-rich-text",
         "label": {
           "en-US": "Communion Antiphon",
@@ -1281,6 +1323,13 @@
                                     "pt-BR": "Missa Completa"
                                   },
                                   "sections": [
+                                    {
+                                      "type": "rubric",
+                                      "text": {
+                                        "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+                                        "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+                                      }
+                                    },
                                     {
                                       "type": "choice-rich-text",
                                       "label": {
@@ -3830,6 +3879,13 @@
                                       }
                                     },
                                     {
+                                      "type": "rubric",
+                                      "text": {
+                                        "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+                                        "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+                                      }
+                                    },
+                                    {
                                       "type": "choice-rich-text",
                                       "label": {
                                         "en-US": "Communion Antiphon",
@@ -6046,6 +6102,13 @@
                                   },
                                   "sections": [
                                     {
+                                      "type": "rubric",
+                                      "text": {
+                                        "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+                                        "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+                                      }
+                                    },
+                                    {
                                       "type": "choice-rich-text",
                                       "label": {
                                         "en-US": "Entrance Antiphon",
@@ -6228,6 +6291,13 @@
                                     },
                                     {
                                       "type": "divider"
+                                    },
+                                    {
+                                      "type": "rubric",
+                                      "text": {
+                                        "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+                                        "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+                                      }
                                     },
                                     {
                                       "type": "choice-rich-text",
