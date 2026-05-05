@@ -693,3 +693,41 @@ archive's bytes are different — bumping triggers a re-download on
 launch.)
 
 ---
+
+## Iteration 19 — EP picker reachability + Threshold flash
+
+User flagged two real bugs and one placement complaint after
+testing iteration 18:
+
+**Bug 1 — Threshold flash on every selection click.** Picking a
+preface card caused the page to jump to the practice's Threshold
+splash for ~200ms before re-rendering. Reading the resolve effect:
+`isResolvingFlow` toggled true on every selectOverrides change,
+the early-return at top of PracticeFlow then sent the whole tree
+through `<Threshold>`, unmounting and re-mounting all sections.
+Fixed by gating the splash on `isInitialResolve = isResolvingFlow
+&& sections.length === 0` — once we have sections, re-resolves are
+background-only and the existing tree just receives new props.
+
+**Bug 2 — preface choice "doesn't change".** Same root cause as
+bug 1: when the tree re-mounts on every click, OptionsBlock's
+local `useState(0)` (the EP picker's selection) resets to position
+0 (= OE II in the current ordering). If the user was on a
+different EP, the click visually snapped back to OE II — making
+the preface change invisible because the EP body itself reset.
+Same fix dissolves this.
+
+**Placement — EP picker far from EP body.** The picker is
+correctly placed at the start of the EP block (missal-correct: EP
+contains its own dialogue/preface/Sanctus). But once the user
+scrolls into the EP body proper (post-Sanctus), the chips have
+left the viewport and there's no signal which EP is being prayed.
+Added a `section-marker` "Oração Eucarística II" (or I/III/IV/V)
+right where the body proper begins — after the dialogue+preface
+head for I/II/III, after the inline preface+Sanctus for IV, before
+the variant picker for V. The user reading along always sees the
+EP name as a typographic anchor.
+
+Library bumped to 1.5.8.
+
+---

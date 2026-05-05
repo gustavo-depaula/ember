@@ -2338,6 +2338,14 @@
                                               "ref": "of-ep-day-preface-head"
                                             },
                                             {
+                                              "type": "section-marker",
+                                              "title": {
+                                                "pt-BR": "Oração Eucarística II",
+                                                "en-US": "Eucharistic Prayer II"
+                                              },
+                                              "colorFrom": "celebration.primary.liturgicalColor"
+                                            },
+                                            {
                                               "type": "rubric",
                                               "text": {
                                                 "en-US": "Eucharistic Prayer II has its own Preface, but may also be used with other Prefaces.",
@@ -2588,6 +2596,14 @@
                                               "ref": "of-ep-day-preface-head"
                                             },
                                             {
+                                              "type": "section-marker",
+                                              "title": {
+                                                "pt-BR": "Oração Eucarística I (Cânon Romano)",
+                                                "en-US": "Eucharistic Prayer I (Roman Canon)"
+                                              },
+                                              "colorFrom": "celebration.primary.liturgicalColor"
+                                            },
+                                            {
                                               "type": "rubric",
                                               "text": {
                                                 "en-US": "The Roman Canon — the most ancient Eucharistic Prayer of the Roman Rite.",
@@ -2836,6 +2852,14 @@
                                               "ref": "of-ep-day-preface-head"
                                             },
                                             {
+                                              "type": "section-marker",
+                                              "title": {
+                                                "pt-BR": "Oração Eucarística III",
+                                                "en-US": "Eucharistic Prayer III"
+                                              },
+                                              "colorFrom": "celebration.primary.liturgicalColor"
+                                            },
+                                            {
                                               "type": "prayer",
                                               "speaker": "priest",
                                               "inline": {
@@ -3040,6 +3064,14 @@
                                               "ref": "of-sanctus"
                                             },
                                             {
+                                              "type": "section-marker",
+                                              "title": {
+                                                "pt-BR": "Oração Eucarística IV",
+                                                "en-US": "Eucharistic Prayer IV"
+                                              },
+                                              "colorFrom": "celebration.primary.liturgicalColor"
+                                            },
+                                            {
                                               "type": "prayer",
                                               "speaker": "priest",
                                               "inline": {
@@ -3230,6 +3262,14 @@
                                               "text": {
                                                 "pt-BR": "A Oração Eucarística V, para diversas circunstâncias, foi aprovada pela CNBB para uso no Brasil. Possui quatro variantes."
                                               }
+                                            },
+                                            {
+                                              "type": "section-marker",
+                                              "title": {
+                                                "pt-BR": "Oração Eucarística V",
+                                                "en-US": "Eucharistic Prayer V"
+                                              },
+                                              "colorFrom": "celebration.primary.liturgicalColor"
                                             },
                                             {
                                               "type": "options",
