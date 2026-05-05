@@ -643,3 +643,53 @@ change is in mass-of TS, not in vendored ember-extra data, so the
 .pray archive content is unchanged.
 
 ---
+
+## Iteration 18 — Cards: lift body out, drop overuse
+
+User screenshot of the Greeting (Saudação) cards picker on
+Christmas: Forma A is selected and *its full prayer body renders
+INSIDE the card's bordered frame* — "A graça de nosso Senhor Jesus
+Cristo, o amor do Pai e a comunhão do Espírito Santo estejam
+convosco. ℟. Ele está no meio de nós." sitting boxed up like a
+form input. Forma B and C below show their italic excerpts in
+their own card frames. The user's reaction: "Not everything should
+be a card. And it's very bad that the integral text stays inside
+the clickable card. The card should function for selection, no
+reading."
+
+Two real complaints, both right:
+
+1. **Cards are for picking, not for reading.** Bodies inside a
+   clickable bordered frame fight every other typographic signal
+   the rest of the Mass uses. The selected option's content should
+   render below the card stack as natural prayer flow.
+
+2. **Overuse.** Some pickers don't deserve cards in the first
+   place. Saudação A/B/C and Despedida — short greetings, picked
+   once — read fine as a chip row.
+
+Fix:
+
+- **OptionCard**: dropped the `children` prop entirely. Card now
+  renders label + (excerpt-when-not-selected). Selection state is
+  signalled by the tinted border + accent-fill background only.
+- **OptionsBlock + ChoiceRichTextBlock**: card branch now renders
+  just the card stack; the selected option's body renders below
+  the stack, in the same layout slot the chips branch already used.
+  Bodies live in normal prayer flow no matter which picker style
+  the slot uses.
+- **Saudação and Despedida** dropped `pickerStyle: 'cards'` —
+  bodies are 1–3 lines, chips are sufficient and quieter.
+
+Penitential Act, Memorial Acclamation, Credo, and the day's
+Preface picker keep cards for now — bodies are long enough that
+the excerpt-as-preview still earns the card's visual weight. If
+later those still feel heavy, dropping them is a one-character
+edit per slot.
+
+Library bumped to 1.5.7. (Library content actually changed this
+time: `flow.json` lost two `pickerStyle: cards` lines, so the .pray
+archive's bytes are different — bumping triggers a re-download on
+launch.)
+
+---

@@ -88,49 +88,45 @@ export function ChoiceRichTextBlock({
               excerpt={opt.excerpt?.primary}
               isSelected={opt.id === current.id}
               onPress={() => onSelect(opt.id)}
-            >
-              {opt.id === current.id ? renderBody(opt) : null}
-            </OptionCard>
+            />
           ))}
         </YStack>
       ) : (
-        <>
-          {options.length > 1 && (
-            <XStack gap="$xs" flexWrap="wrap">
-              {options.map((opt) => {
-                const isSelected = opt.id === current.id
-                return (
-                  <AnimatedPressable
-                    key={opt.id}
-                    onPress={() => onSelect(opt.id)}
-                    accessibilityRole="tab"
-                    accessibilityLabel={opt.label.primary}
-                    accessibilityState={{ selected: isSelected }}
+        options.length > 1 && (
+          <XStack gap="$xs" flexWrap="wrap">
+            {options.map((opt) => {
+              const isSelected = opt.id === current.id
+              return (
+                <AnimatedPressable
+                  key={opt.id}
+                  onPress={() => onSelect(opt.id)}
+                  accessibilityRole="tab"
+                  accessibilityLabel={opt.label.primary}
+                  accessibilityState={{ selected: isSelected }}
+                >
+                  <YStack
+                    paddingHorizontal="$sm"
+                    paddingVertical="$xxs"
+                    borderRadius="$sm"
+                    borderWidth={1}
+                    borderColor={isSelected ? '$accent' : '$borderColor'}
+                    backgroundColor={isSelected ? '$accent' : 'transparent'}
                   >
-                    <YStack
-                      paddingHorizontal="$sm"
-                      paddingVertical="$xxs"
-                      borderRadius="$sm"
-                      borderWidth={1}
-                      borderColor={isSelected ? '$accent' : '$borderColor'}
-                      backgroundColor={isSelected ? '$accent' : 'transparent'}
+                    <Text
+                      fontFamily="$heading"
+                      fontSize="$1"
+                      color={isSelected ? '$background' : '$colorSecondary'}
                     >
-                      <Text
-                        fontFamily="$heading"
-                        fontSize="$1"
-                        color={isSelected ? '$background' : '$colorSecondary'}
-                      >
-                        {opt.label.primary}
-                      </Text>
-                    </YStack>
-                  </AnimatedPressable>
-                )
-              })}
-            </XStack>
-          )}
-          {renderBody(current)}
-        </>
+                      {opt.label.primary}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              )
+            })}
+          </XStack>
+        )
       )}
+      {renderBody(current)}
     </YStack>
   )
 }
