@@ -102,3 +102,41 @@ entry — for the rest of the night.
   feel less like scrolling and more like turning a page.
 
 ---
+
+## Iteration 1 — Card-style preface + EP picker
+
+**Audit observation.** The preface chip toggle was just labels ("Páscoa
+I", "Páscoa II", …); during Mass the user can't quickly recognize which
+preface the priest is praying. The Eucharistic Prayer chips suffer the
+same: "OE I / II / III / IV" with no discriminator.
+
+**Plan.** Add a `pickerStyle: 'chips' | 'cards'` knob to `options` and
+`choice-rich-text` primitives. Cards = vertical list, each card =
+title + 2-line italic excerpt. Apply to preface and Eucharistic Prayer.
+
+**Trap I walked into and the user caught.** First version derived the
+excerpt from the body's first non-rubric line — useless because all
+five paschal prefaces open with "Na verdade, é digno e justo," which
+is the universal liturgical incipit. The Páscoa II–V cards all read
+identically.
+
+**Pivot.** The differentiator is the *subtitle* of each preface title
+("O mistério pascal", "A vida nova em Cristo", "O Cristo vivo, que
+sempre intercede por nós", etc.) — it's *exactly* what I was throwing
+away when I abbreviated the title from "PREFÁCIO DA PÁSCOA I O
+mistério pascal" → "Páscoa I". `hydratePreface` now extracts both: the
+abbreviated label AND the subtitle as `excerpt`. Plumbed through
+SlotDataShape → ExtractedSlot → RenderedChoiceRichText option →
+OptionCard. Cards now read "Páscoa I — O mistério pascal" etc.
+
+**Simplify pass findings (applied).** Three review agents flagged
+duplicated CardPicker JSX between OptionsBlock and ChoiceRichTextBlock
+(extracted shared `OptionCard` component) and a stringly-typed
+`'chips' | 'cards'` repeated 6+ times (added `PickerStyle` type alias
+exported from content-engine). One efficiency finding (excerpt
+recomputed every render in ChoiceRichTextBlock) became a non-issue
+once the excerpt comes from the engine via `data.excerpt` rather than
+being derived in the renderer — the helper is now gone entirely.
+
+**Bumped to library 1.4.3.**
+---
