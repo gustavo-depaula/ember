@@ -37,7 +37,8 @@
         "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -275,7 +276,8 @@
         "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "rubric",
@@ -316,7 +318,8 @@
         "title": {
           "en-US": "Liturgy of the Eucharist",
           "pt-BR": "Liturgia Eucarística"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -382,7 +385,8 @@
         "title": {
           "en-US": "Introductory Rites",
           "pt-BR": "Ritos Iniciais"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -415,7 +419,8 @@
         "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -635,7 +640,8 @@
         "title": {
           "en-US": "Introductory Rites",
           "pt-BR": "Ritos Iniciais"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -661,7 +667,8 @@
         "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -916,7 +923,8 @@
         "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
-        }
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
         "type": "choice-rich-text",
@@ -1200,7 +1208,8 @@
                                   "title": {
                                     "en-US": "Introductory Rites",
                                     "pt-BR": "Ritos Iniciais"
-                                  }
+                                  },
+                                  "colorFrom": "celebration.primary.liturgicalColor"
                                 },
                                 {
                                   "type": "rubric",
@@ -1614,7 +1623,8 @@
                                   "title": {
                                     "en-US": "Liturgy of the Word",
                                     "pt-BR": "Liturgia da Palavra"
-                                  }
+                                  },
+                                  "colorFrom": "celebration.primary.liturgicalColor"
                                 },
                                 {
                                   "type": "rubric",
@@ -1877,7 +1887,8 @@
                                   "title": {
                                     "en-US": "Liturgy of the Eucharist",
                                     "pt-BR": "Liturgia Eucarística"
-                                  }
+                                  },
+                                  "colorFrom": "celebration.primary.liturgicalColor"
                                 },
                                 {
                                   "type": "rubric",
@@ -3508,7 +3519,8 @@
                                   "title": {
                                     "en-US": "Communion Rite",
                                     "pt-BR": "Rito da Comunhão"
-                                  }
+                                  },
+                                  "colorFrom": "celebration.primary.liturgicalColor"
                                 },
                                 {
                                   "type": "subheading",
@@ -3687,7 +3699,8 @@
                                   "title": {
                                     "en-US": "Concluding Rites",
                                     "pt-BR": "Ritos Finais"
-                                  }
+                                  },
+                                  "colorFrom": "celebration.primary.liturgicalColor"
                                 },
                                 {
                                   "type": "call",
@@ -6926,7 +6939,8 @@
                       "title": {
                         "en-US": "Liturgy of the Word",
                         "pt-BR": "Liturgia da Palavra"
-                      }
+                      },
+                      "colorFrom": "celebration.primary.liturgicalColor"
                     },
                     {
                       "type": "proper",

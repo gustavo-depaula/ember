@@ -182,8 +182,13 @@ export type FlowSection = { lang?: string } & (
       // title between thin horizontal rules — the missal-page-break
       // feel. Distinct from `heading`, which is reserved for normal
       // sub-section labels (Antífona de Entrada, Glória, Credo, …).
+      // Optional `colorFrom` dotted path resolves a liturgical-color
+      // string and tints the rules in the day's vestment color
+      // (subtle, low-opacity); skip the tint if the path resolves to
+      // an unknown color.
       type: 'section-marker'
       title: LocalizedText
+      colorFrom?: string
     }
   | {
       // Collapsible group — title is always visible; sections reveal on tap.
@@ -253,7 +258,11 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
-  | { type: 'section-marker'; title: BilingualText }
+  | {
+      type: 'section-marker'
+      title: BilingualText
+      color?: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+    }
   | {
       type: 'collapsible'
       title: BilingualText

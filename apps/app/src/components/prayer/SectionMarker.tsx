@@ -1,5 +1,15 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Text, View, XStack, YStack } from 'tamagui'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+
+const COLOR_HEX: Record<string, string> = {
+  white: '#FFFFFF',
+  red: '#C0392B',
+  green: '#2D6A4F',
+  violet: '#5B2A86',
+  rose: '#E5A2C0',
+  black: '#1B1B1B',
+  gold: '#C8A442',
+}
 
 /**
  * Major-division header for the Mass: a centered uppercase title set
@@ -7,12 +17,31 @@ import { Text, View, XStack, YStack } from 'tamagui'
  * Rites, Liturgy of the Word, Liturgy of the Eucharist, Concluding
  * Rites) — distinct from `heading`, which is reserved for everyday
  * sub-section labels (Antífona, Glória, Credo, …).
+ *
+ * When `color` is provided, the rules are tinted in the day's
+ * liturgical-vestment color (low opacity) so the page carries the
+ * day's identity from top to bottom. White/rose/gold fall back to
+ * the default border color since they're nearly invisible against a
+ * pale background.
  */
-export function SectionMarker({ title }: { title: BilingualText }) {
+export function SectionMarker({
+  title,
+  color,
+}: {
+  title: BilingualText
+  color?: string
+}) {
+  const theme = useTheme()
+  const tint =
+    color && color !== 'white' && color !== 'rose' && color !== 'gold'
+      ? COLOR_HEX[color]
+      : undefined
+  const ruleColor = tint ?? (theme.borderColor?.val ?? '#444')
+  const ruleOpacity = tint ? 0.6 : 1
   return (
     <YStack alignItems="center" gap="$xs" marginVertical="$lg">
       <XStack alignItems="center" gap="$sm" width="100%">
-        <View flex={1} height={1} backgroundColor="$borderColor" />
+        <View flex={1} height={1} backgroundColor={ruleColor} opacity={ruleOpacity} />
         <Text
           fontFamily="$heading"
           fontSize="$3"
@@ -24,7 +53,7 @@ export function SectionMarker({ title }: { title: BilingualText }) {
         >
           {title.primary}
         </Text>
-        <View flex={1} height={1} backgroundColor="$borderColor" />
+        <View flex={1} height={1} backgroundColor={ruleColor} opacity={ruleOpacity} />
       </XStack>
     </YStack>
   )

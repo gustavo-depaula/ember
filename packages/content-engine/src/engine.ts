@@ -808,8 +808,20 @@ function resolveSection(
       ]
     }
 
-    case 'section-marker':
-      return [{ type: 'section-marker', title: ec.localize(section.title) }]
+    case 'section-marker': {
+      const raw = section.colorFrom
+        ? (resolvePath(context, section.colorFrom) as string | undefined)
+        : undefined
+      const lc = typeof raw === 'string' ? raw.toLowerCase() : undefined
+      const color = lc && LITURGICAL_COLOR_LABELS[lc] ? (lc as RenderedLiturgicalColor) : undefined
+      return [
+        {
+          type: 'section-marker',
+          title: ec.localize(section.title),
+          ...(color ? { color } : {}),
+        },
+      ]
+    }
 
     case 'celebration-banner': {
       const obj = resolvePath(context, section.from)

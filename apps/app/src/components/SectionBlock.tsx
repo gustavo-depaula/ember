@@ -38,7 +38,7 @@ export function SectionBlock({
       return <LiturgicalColorBlock color={section.color} label={section.label} />
 
     case 'section-marker':
-      return <SectionMarker title={section.title} />
+      return <SectionMarker title={section.title} color={section.color} />
 
     case 'celebration-banner':
       return (
