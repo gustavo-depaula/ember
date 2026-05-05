@@ -320,3 +320,28 @@ without expanding each. With pickerStyle: cards now applied:
 Library 1.4.9. Pure data change — no code touched.
 
 ---
+
+## Iteration 7 — Sentence-level paragraphs for readings
+
+**Audit observation.** Today's first reading is 1147 chars in a single
+ember-extra paragraph. The renderer faithfully showed it as one
+continuous wall of text. Hard to read prayerfully.
+
+**Plan.** When a plain-text body is over a threshold (240 chars) AND
+has no `\n` breaks, fall back to sentence-level chunking: split on
+sentence-end punctuation (`. ! ? … ” " ' »` + ASCII `...`) followed by
+whitespace and an uppercase letter / open quote. Each sentence
+becomes its own RichTextLine, rendered as its own paragraph.
+
+**Trade-offs.**
+- Threshold: 240 chars. Most prayers (Collects, antiphons) fit under
+  it; long readings exceed it. Tested via two unit tests.
+- False positives: abbreviations ("S. Paulo", "Cf. Mt", "Pe. João")
+  split mid-name. Documented in the helper. Cost accepted.
+- Doesn't run when ember-extra ships typed-segment `lines` (the
+  rich-text path) or when there are real `\n` breaks already.
+
+Verified in Chrome: today's first reading + gospel now read as a
+sequence of clean paragraphs.
+
+---
