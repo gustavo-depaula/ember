@@ -369,3 +369,33 @@ liturgical color through the page's section breaks.
 **Bumped to library 1.5.0.**
 
 ---
+
+## Iteration 9 — Prettify ferial titles
+
+**Audit observation.** "Quinta semana Terça-feira" reads like raw
+data. Sundays and OT weekdays in ember-extra are already well-formed
+("QUINTO DOMINGO DA PÁSCOA", "Terça-feira da 29ª Semana do Tempo
+Comum") — only Advent / Lent / Easter weekdays have the awkward form.
+
+**Plan.** Rewrite at celebration-banner resolution. Detect the pattern
+("<Ordinal> semana <Weekday>" pt-BR / "<Season> Season <Ordinal> Week
+<Weekday>" en). Convert ordinal to Roman numeral. Render natural
+phrasing per locale. Non-matching titles pass through.
+
+**Implementation.** `prettifyFerialTitle()` in its own file
+(`packages/content-engine/src/prettifyFerialTitle.ts`). Per-locale
+`FERIAL_RULES` array — regex + ordinal map + season phrase map +
+render fn. Engine.ts just imports and calls it. Self-contained
+pure-string logic. Adding a third language = one new array entry.
+
+**Simplify pass.** Reuse-review agent flagged the original two
+parallel locale tables and suggested consolidating into
+`FERIAL_RULES`. Same agent caught the `(out as Record<string,string>).en =`
+cast — fixed by widening the helper's signature with a generic
+`<T extends LocaleTitle>` and an internal `mutated` Record. Also
+moved out of engine.ts (which is at 1700+ lines) into a sibling file.
+
+**No library bump** — engine-only change, no flow.json or content
+edits. Today now reads "Terça-feira da V Semana da Páscoa".
+
+---
