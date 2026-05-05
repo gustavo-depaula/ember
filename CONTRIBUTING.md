@@ -129,6 +129,16 @@ The `content/libraries/examples/` library is a curated set of practices, each de
 
 **Today's Mass:** declare `{ "load": [{ "as": "day", "source": "mass-of", "calendar": "of" }] }`. Then `day.celebrations[]` is an array of today's celebrations (most days: 1; Holy Thursday: 2 — Chrism Mass + Lord's Supper; Christmas: 4). Branch on rite via `select on celebration.rite`, render variable slots via `choice-rich-text`. See example `05-mass-of-with-choice-rich-text`.
 
+**Mass-specific primitives** (in `content/libraries/base/practices/mass/flow.json`):
+
+- `celebration-banner` — hero block. `{ "from": "celebration.primary", "cycleFrom": "day.cycle" }` reads the celebration's title + liturgical color + rank, plus the day's lectionary cycle, and renders a missal-style title card.
+- `liturgical-color` — small color swatch + label. `{ "from": "celebration.primary.liturgicalColor" }`.
+- `liturgical-color-scope` — wraps a body and propagates the color to descendants via React Context. `{ "from": "celebration.primary.liturgicalColor", "sections": [...] }`. Section-marker rules and selected option-card borders pick up the color as a fallback when their own color isn't set.
+- `section-marker` — typographic break for major Mass divisions (Initial Rites, Liturgy of the Word, etc.). Centered uppercase title between thin horizontal rules. Optional `colorFrom` tints the rules in the day's vestment color.
+- `collapsible` — title visible, body hidden until tapped. Use for silent priest prayers (Preparação das Oferendas) and lengthy explanatory rubrics that overwhelm the audible flow. `{ "title": {...}, "sections": [...], "defaultOpen": false }`.
+- `choice-rich-text` — per-slot rich-text picker (Tmp / Snt / Com chips). Tag with `"pickerStyle": "cards"` for vertical cards with title + 2-line excerpt; selected card expands inline with the full body. Used for prefaces, readings, and any slot where the chip label alone doesn't tell the user what they're picking.
+- `options` — same `pickerStyle: 'cards'` extension applies. Engine derives the excerpt from the first prayer (or rubric, fallback) inside each option's resolved sections. Used for Eucharistic Prayer, Memorial Acclamation, Penitential Act, Greeting, Dismissal, Final Blessing.
+
 ### Validation
 
 `pnpm validate-flows` runs at pre-commit (via husky) and CI. It catches:
