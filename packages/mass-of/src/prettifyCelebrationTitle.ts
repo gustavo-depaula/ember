@@ -1,16 +1,12 @@
 /**
- * ember-extra ships solemnity titles in awkward shapes:
- *   - all-caps: "NATAL DO SENHOR", "ASCENÇÃO DO SENHOR" (≈40% of pt-BR
- *     solemnity entries shout in caps);
- *   - "<Ordinal> semana <SOLEMNITY>" prefix when a solemnity falls on a
- *     weekday: "Sexta semana ASCENÇÃO DO SENHOR";
- *   - English keys live under `en` (not `en-US`), so the engine's en-US
- *     localizer falls back to Latin;
- *   - all four Christmas Masses share an identical title — "NATAL DO
- *     SENHOR" with no Vigil/Night/Dawn/Day disambiguator.
- *
- * Normalize at the mass-of layer so both the celebration picker chips
- * and the banner read clean titles.
+ * Most title cleanup now happens upstream in ember-extra (title-casing
+ * pure ALL-CAPS strings, disambiguating the four Christmas Day Masses,
+ * synthesizing ferial titles from season/weekIndex/weekday metadata).
+ * What remains is the awkward "<Season> Season <SOLEMNITY>" / "<Ordinal>
+ * semana <SOLEMNITY>" prefix that ember-extra still emits when a
+ * solemnity falls on a weekday — those titles arrive mixed-case so the
+ * upstream all-caps gate doesn't fire. Strip the prefix and title-case
+ * what remains, then map the `en` key to `en-US` for the engine.
  */
 
 export type EmberExtraTitle = Record<string, string | undefined>
@@ -54,29 +50,7 @@ const PT_ORDINAL_WEEK_PREFIX =
 
 const EN_SEASON_PREFIX = /^(?:Advent|Lent|Easter)\s+Season\s+/
 
-const CHRISTMAS_VARIANTS: Record<string, { 'pt-BR': string; 'en-US': string }> = {
-  'tempore.christmas.nativity-vigil': {
-    'pt-BR': 'Missa da Vigília',
-    'en-US': 'Mass at the Vigil',
-  },
-  'tempore.christmas.nativity-night': {
-    'pt-BR': 'Missa da Noite',
-    'en-US': 'Mass during the Night',
-  },
-  'tempore.christmas.nativity-dawn': {
-    'pt-BR': 'Missa da Aurora',
-    'en-US': 'Mass at Dawn',
-  },
-  'tempore.christmas.nativity-day': {
-    'pt-BR': 'Missa do Dia',
-    'en-US': 'Mass during the Day',
-  },
-}
-
-export function prettifyCelebrationTitle(
-  title: EmberExtraTitle,
-  primaryId: string,
-): CelebrationTitle {
+export function prettifyCelebrationTitle(title: EmberExtraTitle): CelebrationTitle {
   const out: CelebrationTitle = {}
   const ptRaw = title['pt-BR']
   const enRaw = title['en'] ?? title['en-US']
@@ -85,12 +59,6 @@ export function prettifyCelebrationTitle(
   if (ptRaw) out['pt-BR'] = normalize(ptRaw, PT_CONNECTORS, PT_ORDINAL_WEEK_PREFIX)
   if (enRaw) out['en-US'] = normalize(enRaw, EN_CONNECTORS, EN_SEASON_PREFIX)
   if (laRaw) out.la = laRaw
-
-  const variant = CHRISTMAS_VARIANTS[primaryId]
-  if (variant) {
-    if (out['pt-BR']) out['pt-BR'] = `${out['pt-BR']} — ${variant['pt-BR']}`
-    if (out['en-US']) out['en-US'] = `${out['en-US']} — ${variant['en-US']}`
-  }
 
   return out
 }

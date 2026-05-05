@@ -8,7 +8,6 @@ import {
 } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import { getDataSource, type SourceContext } from './data-sources'
-import { prettifyFerialTitle } from './prettifyFerialTitle'
 import type {
   BilingualRichText,
   BilingualText,
@@ -651,9 +650,7 @@ function resolveSection(
             id: opt.id,
             label: ec.localize(opt.label),
             sections,
-            ...(section.pickerStyle === 'cards'
-              ? { excerpt: deriveOptionExcerpt(sections) }
-              : {}),
+            ...(section.pickerStyle === 'cards' ? { excerpt: deriveOptionExcerpt(sections) } : {}),
           }
         })
         .filter((opt) => opt.sections.length > 0)
@@ -845,13 +842,11 @@ function resolveSection(
         season?: string
       }
       if (!o.title) return []
-      const titleForRender = prettifyFerialTitle(o.title, o.season)
+      const titleForRender = o.title
       const color =
         typeof o.liturgicalColor === 'string' ? o.liturgicalColor.toLowerCase() : undefined
       const validColor =
-        color && LITURGICAL_COLOR_LABELS[color]
-          ? (color as RenderedLiturgicalColor)
-          : undefined
+        color && LITURGICAL_COLOR_LABELS[color] ? (color as RenderedLiturgicalColor) : undefined
       const rankLabel = o.rank && RANK_LABELS[o.rank] ? ec.localize(RANK_LABELS[o.rank]) : undefined
       const cycleId = section.cycleFrom
         ? (resolvePath(context, section.cycleFrom) as string | undefined)
@@ -1094,9 +1089,7 @@ const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X']
  * (explanatory text). Headings/subheadings are skipped since they
  * mirror the option label.
  */
-function deriveOptionExcerpt(
-  sections: RenderedSection[],
-): BilingualText | undefined {
+function deriveOptionExcerpt(sections: RenderedSection[]): BilingualText | undefined {
   for (const s of sections) {
     if (s.type === 'prayer' && s.text.primary) return s.text
   }
@@ -1187,9 +1180,7 @@ function extractOneSlotOption(
     : undefined
 
   const label = slotData.label ? ec.localize(slotData.label as LocalizedText) : undefined
-  const excerpt = slotData.excerpt
-    ? ec.localize(slotData.excerpt as LocalizedText)
-    : undefined
+  const excerpt = slotData.excerpt ? ec.localize(slotData.excerpt as LocalizedText) : undefined
 
   return {
     body: {

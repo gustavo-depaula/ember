@@ -48,44 +48,9 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // Existing tests (pre-unified-flow)
 // =============================================================================
 
-describe('celebration-banner — ferial title prettification', () => {
-  it('rewrites "Quinta semana Terça-feira" + season=easter to natural pt-BR', () => {
-    const result = resolveFlow(
-      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              title: { 'pt-BR': 'Quinta semana Terça-feira' },
-              season: 'easter',
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
-    expect(banner.title.primary).toBe('Terça-feira da V Semana da Páscoa')
-  })
-
-  it('rewrites Lent weekday similarly', () => {
-    const result = resolveFlow(
-      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              title: { 'pt-BR': 'Terceira semana Sexta-feira' },
-              season: 'lent',
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
-    expect(banner.title.primary).toBe('Sexta-feira da III Semana da Quaresma')
-  })
+describe('celebration-banner — title rendering', () => {
+  // Ferial titles arrive pre-synthesized from ember-extra's refine.py;
+  // the engine no longer transforms them. These tests assert pass-through.
 
   it('passes through Sunday + solemnity titles unchanged', () => {
     const result = resolveFlow(
@@ -260,14 +225,22 @@ describe('resolveFlow — pickerStyle: cards', () => {
             label: { 'pt-BR': 'EP II' },
             sections: [
               { type: 'rubric', text: { 'pt-BR': 'Note about EP II' } },
-              { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'You are indeed Holy, Lord' } },
+              {
+                type: 'prayer',
+                speaker: 'priest',
+                inline: { 'pt-BR': 'You are indeed Holy, Lord' },
+              },
             ],
           },
           {
             id: 'ep3',
             label: { 'pt-BR': 'EP III' },
             sections: [
-              { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'You are indeed Holy, O Lord' } },
+              {
+                type: 'prayer',
+                speaker: 'priest',
+                inline: { 'pt-BR': 'You are indeed Holy, O Lord' },
+              },
             ],
           },
         ],

@@ -211,7 +211,6 @@ async function buildCelebration(
 
   const prettyTitle = prettifyCelebrationTitle(
     (primary.title as Record<string, string | undefined>) ?? {},
-    primaryId,
   )
   const hydratedPrimary = await hydratePreface(ctx, { ...primary, title: prettyTitle })
 
@@ -221,7 +220,6 @@ async function buildCelebration(
     if (!alt) continue
     const altTitle = prettifyCelebrationTitle(
       (alt.title as Record<string, string | undefined>) ?? {},
-      altId,
     )
     alternates.push(await hydratePreface(ctx, { ...alt, title: altTitle }))
   }
