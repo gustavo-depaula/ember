@@ -111,15 +111,14 @@ export function temporeIdsForDate(date: Date): string[] {
     ]
   }
   // Dec 24: Vigil Mass of the Nativity is celebrated in the evening; the
-  // morning Mass is the late-Advent ferial filed under day-124.thursday
-  // (the storage path is fixed regardless of actual weekday). When Dec 24
-  // is a Sunday it's the 4th Sunday of Advent + vigil.
+  // morning Mass is the late-Advent ferial under `advent/dec-24.json`.
+  // When Dec 24 is a Sunday it's the 4th Sunday of Advent + vigil.
   if (month === 12 && day === 24) {
     const ids: string[] = []
     if (date.getDay() === 0) {
       ids.push('tempore.advent.week-4.sunday')
     } else {
-      ids.push('tempore.christmas.day-124.thursday')
+      ids.push('tempore.advent.dec-24')
     }
     ids.push('tempore.christmas.nativity-vigil')
     return ids
@@ -167,85 +166,62 @@ export function christmasSeasonIdFor(date: Date): string | null | undefined {
   const year = date.getFullYear()
 
   if (month === 12) {
-    // Late Advent: Dec 17–23. Dec 17/18/19 are flat date files; Dec 20–24
-    // live in weekday subfolders (folder name fixed by date, not by
-    // actual day-of-week).
-    if (day === 17 || day === 18 || day === 19) {
-      return `tempore.christmas.day-1${day}`
+    // Late Advent (Dec 17–23) — date-keyed ferial propers under
+    // `tempore.advent.dec-NN`. Dec 24 is handled upstream (returns the
+    // Dec 24 ferial + nativity vigil together); Dec 25 is upstream too.
+    if (day >= 17 && day <= 23) {
+      return `tempore.advent.dec-${day}`
     }
-    if (day === 20) return 'tempore.christmas.day-120.sunday'
-    if (day === 21) return 'tempore.christmas.day-121.monday'
-    if (day === 22) return 'tempore.christmas.day-122.tuesday'
-    if (day === 23) return 'tempore.christmas.day-123.wednesday'
-    // Dec 24 morning Mass (ferial) — the vigil is added by the Dec 24 caller.
-    // Dec 25 is fully handled upstream (4 nativity Masses).
 
     if (day >= 26 && day <= 31) {
-      // Christmas Octave. Holy Family takes precedence on whichever day
-      // it falls (typically the Sunday between Dec 26-31, or Dec 30 when
-      // Christmas itself is on a Sunday).
+      // Christmas Octave. Holy Family wins on whichever day it falls
+      // (typically the Sunday between Dec 26–31, or Dec 30 when Christmas
+      // itself is on a Sunday).
       const holyFamily = computeHolyFamily(year)
       if (isSameDay(date, holyFamily)) {
-        return 'tempore.christmas.day-140.sunday'
+        return 'tempore.christmas.holy-family'
       }
       // Dec 26/27/28 are St Stephen / St John / Holy Innocents — return
-      // null to suppress the position-derived tempore fallback so that
-      // sanctoral fold-in surfaces the saint as primary.
+      // null so the sanctoral fold-in surfaces the saint as primary.
       if (day === 26 || day === 27 || day === 28) return null
-      // Dec 29: 5th day in the Octave.
-      if (day === 29) return 'tempore.christmas.day-129'
-      // Dec 30: 6th day in the Octave (only when not already used by
-      // Holy Family transfer above).
-      if (day === 30) return 'tempore.christmas.day-130.sunday'
-      // Dec 31: 7th day in the Octave.
-      if (day === 31) return 'tempore.christmas.day-131.monday'
+      if (day === 29) return 'tempore.christmas.dec-29'
+      if (day === 30) return 'tempore.christmas.dec-30'
+      if (day === 31) return 'tempore.christmas.dec-31'
     }
     return undefined
   }
 
   if (month === 1) {
-    if (day === 1) return 'tempore.christmas.day-141.monday'
+    if (day === 1) return 'tempore.christmas.mary-mother-of-god'
 
-    // Days Jan 2–13 (the Epiphany season window). Compute the three
-    // movable boundaries: 2nd Sunday after Christmas, Epiphany, Baptism.
+    // Days Jan 2–13 (the Epiphany season window). Compute three movable
+    // boundaries: 2nd Sunday after Christmas, Epiphany, Baptism.
     if (day >= 2 && day <= 13) {
       const epiphany = firstSundayInJanuaryRange(year, 2, 8)
       const secondSundayAfterChristmas = firstSundayInJanuaryRange(year, 2, 5)
       const baptismDate = epiphany.getDate() >= 7 ? addDays(epiphany, 1) : addDays(epiphany, 7)
 
-      if (isSameDay(date, epiphany)) return 'tempore.christmas.day-170.sunday'
+      if (isSameDay(date, epiphany)) return 'tempore.christmas.epiphany'
       if (
         secondSundayAfterChristmas &&
         isSameDay(date, secondSundayAfterChristmas) &&
         !isSameDay(secondSundayAfterChristmas, epiphany)
       ) {
-        return 'tempore.christmas.day-160.sunday'
+        return 'tempore.christmas.second-sunday-after-christmas'
       }
-      if (isSameDay(date, baptismDate)) return 'tempore.christmas.day-810.sunday'
+      if (isSameDay(date, baptismDate)) return 'tempore.christmas.baptism-of-the-lord'
 
-      // Ferials in the week after Epiphany (Mon–Sat). day-171 = Mon … day-176 = Sat.
+      // Ferials of the week after Epiphany (Mon–Sat) — filed as
+      // `after-epiphany/<weekday>.json`.
       if (date > epiphany && date < baptismDate) {
         const wd = WEEKDAY_NAMES[dow]
-        const dayCode = WEEKDAY_TO_AFTER_EPIPHANY_CODE[wd]
-        if (dayCode) return `tempore.christmas.day-17${dayCode}.${wd}`
+        if (wd !== 'sunday') return `tempore.christmas.after-epiphany.${wd}`
       }
-      // Ferials between Jan 2 and Epiphany (Mon–Sat) — ember-extra has no
-      // dedicated proper for these days in the OF; sanctoral fold-in (or
-      // the universal Christmas-time weekday) handles them.
       return undefined
     }
   }
 
   return undefined
-}
-
-const WEEKDAY_TO_AFTER_EPIPHANY_CODE: Record<string, string> = {
-  monday: '1',
-  tuesday: '2',
-  wednesday: '3',
-  thursday: '4',
-  friday: '5',
-  saturday: '6',
 }
 
 /**

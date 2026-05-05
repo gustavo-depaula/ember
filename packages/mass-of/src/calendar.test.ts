@@ -127,7 +127,7 @@ describe('temporeIdsForDate — Christmas Octave + Epiphany season', () => {
   // Jan 1 2027 = Friday, Jan 3 2027 = Sunday (=Epiphany in Brazil),
   // Jan 10 2027 = Sunday (=Baptism of the Lord).
   it('returns Holy Family on the Sunday in the Octave (Dec 27 2026)', () => {
-    expect(temporeIdsForDate(new Date(2026, 11, 27))).toEqual(['tempore.christmas.day-140.sunday'])
+    expect(temporeIdsForDate(new Date(2026, 11, 27))).toEqual(['tempore.christmas.holy-family'])
   })
 
   it('omits tempore on Christmas Octave sanctoral days (Dec 26 2026 — St Stephen)', () => {
@@ -137,37 +137,45 @@ describe('temporeIdsForDate — Christmas Octave + Epiphany season', () => {
     expect(temporeIdsForDate(new Date(2026, 11, 26))).toEqual([])
   })
 
-  it('returns 6th day of Octave on Dec 30 2026 (a Wednesday)', () => {
-    expect(temporeIdsForDate(new Date(2026, 11, 30))).toEqual(['tempore.christmas.day-130.sunday'])
+  it('returns Dec 30 ferial in the Octave (a Wednesday)', () => {
+    expect(temporeIdsForDate(new Date(2026, 11, 30))).toEqual(['tempore.christmas.dec-30'])
   })
 
-  it('returns 7th day of Octave on Dec 31 2026 (a Thursday)', () => {
-    expect(temporeIdsForDate(new Date(2026, 11, 31))).toEqual(['tempore.christmas.day-131.monday'])
+  it('returns Dec 31 ferial in the Octave (a Thursday)', () => {
+    expect(temporeIdsForDate(new Date(2026, 11, 31))).toEqual(['tempore.christmas.dec-31'])
   })
 
   it('returns Mary, Mother of God on Jan 1', () => {
-    expect(temporeIdsForDate(new Date(2027, 0, 1))).toEqual(['tempore.christmas.day-141.monday'])
+    expect(temporeIdsForDate(new Date(2027, 0, 1))).toEqual([
+      'tempore.christmas.mary-mother-of-god',
+    ])
   })
 
   it('returns Epiphany on the Sunday between Jan 2-8 (Jan 3 2027)', () => {
-    expect(temporeIdsForDate(new Date(2027, 0, 3))).toEqual(['tempore.christmas.day-170.sunday'])
+    expect(temporeIdsForDate(new Date(2027, 0, 3))).toEqual(['tempore.christmas.epiphany'])
   })
 
   it('returns Baptism of the Lord on the Sunday after Epiphany (Jan 10 2027)', () => {
-    expect(temporeIdsForDate(new Date(2027, 0, 10))).toEqual(['tempore.christmas.day-810.sunday'])
+    expect(temporeIdsForDate(new Date(2027, 0, 10))).toEqual([
+      'tempore.christmas.baptism-of-the-lord',
+    ])
   })
 
   it('returns ferials of the week after Epiphany (Mon–Sat)', () => {
     // Jan 4 2027 = Monday after Epiphany (Sun Jan 3).
-    expect(temporeIdsForDate(new Date(2027, 0, 4))).toEqual(['tempore.christmas.day-171.monday'])
+    expect(temporeIdsForDate(new Date(2027, 0, 4))).toEqual([
+      'tempore.christmas.after-epiphany.monday',
+    ])
     // Jan 9 2027 = Saturday after Epiphany.
-    expect(temporeIdsForDate(new Date(2027, 0, 9))).toEqual(['tempore.christmas.day-176.saturday'])
+    expect(temporeIdsForDate(new Date(2027, 0, 9))).toEqual([
+      'tempore.christmas.after-epiphany.saturday',
+    ])
   })
 
   it('shifts Holy Family to Dec 30 when Christmas is on a Sunday', () => {
     // 2028: Dec 25 is a Monday → Sunday in Octave is Dec 31 → Holy Family Dec 31.
     // We want a year where Christmas Day itself is Sunday; Dec 25 2033 is a Sunday.
-    expect(temporeIdsForDate(new Date(2033, 11, 30))).toEqual(['tempore.christmas.day-140.sunday'])
+    expect(temporeIdsForDate(new Date(2033, 11, 30))).toEqual(['tempore.christmas.holy-family'])
   })
 
   it('returns 2nd Sunday after Christmas when Epiphany is later in the week', () => {
@@ -188,18 +196,11 @@ describe('temporeIdsForDate — Christmas Octave + Epiphany season', () => {
 })
 
 describe('temporeIdsForDate — late Advent (Dec 17–23)', () => {
-  it('returns date-based id for Dec 17–19', () => {
-    expect(temporeIdsForDate(new Date(2026, 11, 17))).toEqual(['tempore.christmas.day-117'])
-    expect(temporeIdsForDate(new Date(2026, 11, 19))).toEqual(['tempore.christmas.day-119'])
-  })
-
-  it('returns weekday-keyed id for Dec 20–23', () => {
-    // 2026-12-20 = Sunday, 2026-12-21 = Monday
-    expect(temporeIdsForDate(new Date(2026, 11, 20))).toEqual(['tempore.christmas.day-120.sunday'])
-    expect(temporeIdsForDate(new Date(2026, 11, 21))).toEqual(['tempore.christmas.day-121.monday'])
-    expect(temporeIdsForDate(new Date(2026, 11, 23))).toEqual([
-      'tempore.christmas.day-123.wednesday',
-    ])
+  it('returns date-keyed advent id for Dec 17–23', () => {
+    expect(temporeIdsForDate(new Date(2026, 11, 17))).toEqual(['tempore.advent.dec-17'])
+    expect(temporeIdsForDate(new Date(2026, 11, 19))).toEqual(['tempore.advent.dec-19'])
+    expect(temporeIdsForDate(new Date(2026, 11, 20))).toEqual(['tempore.advent.dec-20'])
+    expect(temporeIdsForDate(new Date(2026, 11, 23))).toEqual(['tempore.advent.dec-23'])
   })
 })
 
