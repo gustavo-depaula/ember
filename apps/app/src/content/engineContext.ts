@@ -3,6 +3,7 @@ import {
   getBookEntry,
   getProseText,
   loadBookChapterText,
+  readLibraryAsset,
   resolveCanticle,
   resolvePrayer,
 } from '@/content/registry'
@@ -101,5 +102,8 @@ export function createEngineContext(
       if (!text) return undefined
       return { [lang]: text }
     },
+    fetchAsset: (libId, path) => readLibraryAsset(libId, path),
+    fetchOwnAsset: (path) =>
+      libraryId ? readLibraryAsset(libraryId, path) : Promise.resolve(undefined),
   }
 }

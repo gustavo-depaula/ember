@@ -290,6 +290,17 @@ export async function loadInstalledLibraries(): Promise<void> {
         return await nativeSource!.createFileSystemSource(libraryDir(row.book_id).uri)
       } catch (err) {
         console.error(`[library] failed to load installed library "${row.book_id}":`, err)
+        // Stale install: SQL row points at content that's missing/corrupt.
+        // Drop the row so the boot path re-installs from the registry.
+        try {
+          await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [row.book_id])
+          console.warn(`[library] dropped stale install record for "${row.book_id}"`)
+        } catch (cleanupErr) {
+          console.error(
+            `[library] failed to clean up stale record for "${row.book_id}":`,
+            cleanupErr,
+          )
+        }
         return undefined
       }
     }),

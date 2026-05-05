@@ -256,6 +256,7 @@ export async function createIdbSource(libraryId: string): Promise<ContentSource>
       const md = await idbReadText(`${bookDirPath}books/${bookId}/${lang}/${chapterId}.md`)
       return md ? rewriteMarkdownImagePaths(md, bookDirUri) : undefined
     },
+    readJsonAsset: (path) => readJson<unknown>(`${bookDirPath}${path}`),
   }
 }
 

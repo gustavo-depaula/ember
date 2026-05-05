@@ -77,6 +77,13 @@ export type ContentSource = {
   getBookEntry(id: string): BookEntry | undefined
   getAllBookEntries(): BookEntry[]
   loadBookChapterText(bookId: string, chapterId: string, lang: string): Promise<string | undefined>
+  /**
+   * Read an arbitrary JSON file from the library's bundled assets by path
+   * (e.g. 'masses/tempore/holy-week/chrism-mass.json'). Used by DataSources
+   * (mass-of, etc.) to access library-level data that doesn't fit the
+   * practice/prayer/chapter/book conventions.
+   */
+  readJsonAsset(path: string): Promise<unknown>
 }
 
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
@@ -331,5 +338,6 @@ export async function createFileSystemSource(libraryDirUri: string): Promise<Con
       const md = await readTextFile(`${bookDirUri}${lang}/${chapterId}.md`)
       return md ? rewriteMarkdownImagePaths(md, bookDirUri) : undefined
     },
+    readJsonAsset: (path) => readJson<unknown>(`${libraryDirUri}${path}`),
   }
 }

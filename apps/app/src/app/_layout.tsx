@@ -42,6 +42,7 @@ import {
 } from '@/features/libraries/libraryManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
+import { registerDataSources } from '@/lib/data-sources/register'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
@@ -122,6 +123,7 @@ export default function RootLayout() {
 
     async function initLibraries() {
       try {
+        registerDataSources()
         await initHearth()
         await loadInstalledLibraries()
 

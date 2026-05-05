@@ -2,11 +2,13 @@ import { Text, View, YStack } from 'tamagui'
 import type { RenderedSection } from '@/content/types'
 import {
   CanticleBlock,
+  ChoiceRichTextBlock,
   CollapsiblePrayer,
   GalleryBlock,
   HolyCardBlock,
   HymnBlock,
   ImageBlock,
+  LiturgicalColorBlock,
   LiturgicalPrayerBlock,
   OptionsBlock,
   PrayerTextBlock,
@@ -28,6 +30,9 @@ export function SectionBlock({
   switch (section.type) {
     case 'rubric':
       return <RubricLabel>{section.label.primary}</RubricLabel>
+
+    case 'liturgical-color':
+      return <LiturgicalColorBlock color={section.color} label={section.label} />
 
     case 'prayer':
       if (section.speaker) {
@@ -145,6 +150,16 @@ export function SectionBlock({
               />
             ))
           }
+        />
+      )
+
+    case 'choice-rich-text':
+      return (
+        <ChoiceRichTextBlock
+          label={section.label}
+          selectedId={section.selectedId}
+          options={section.options}
+          onSelect={(nextId) => onSelectOverride?.(section.overrideKey, nextId)}
         />
       )
 
