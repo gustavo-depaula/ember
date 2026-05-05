@@ -426,3 +426,36 @@ insensitive prefix match. Re-ran. 6 more redundant headings removed.
 Library 1.5.2.
 
 ---
+
+## Iteration 12 — liturgical-color-scope (React Context)
+
+**Audit observation.** SectionMarker tinted with the liturgical
+color (from #53) but selected card borders still showed the default
+gold accent — disconnected from the day's identity, especially loud
+on red / violet days.
+
+**Plan.** A `liturgical-color-scope` flow primitive that wraps a
+body and propagates the resolved color via React Context to
+descendants. SectionMarker + OptionCard fall back to context when
+their own color is undefined, so the day's color threads through the
+page transparently.
+
+**Implementation.** New flow primitive (FlowSection + RenderedSection).
+Engine resolver validates the color string and either emits a
+wrapping section or passes children through unchanged (no scope
+when color is unknown). New `LiturgicalColorContext` + provider in
+`apps/app/src/components/prayer/`. SectionBlock dispatches the new
+section by wrapping children in the provider. OptionCard reads context
+for its selected border (saturated red/green/violet/black tint; pale
+white/rose/gold falls back to default gold). SectionMarker similar.
+
+`flow.json` wraps the OF rite body in a single scope reading from
+`celebration.primary.liturgicalColor`.
+
+Today is white — no visible change. Red / green / violet / black
+days will subtly carry the color through every selected card border
+and section-marker rule.
+
+**Bumped to library 1.5.3.**
+
+---
