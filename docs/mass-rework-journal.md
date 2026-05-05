@@ -270,3 +270,38 @@ spotted it. Deduped.
 **Bumped to library 1.4.7.**
 
 ---
+
+## Iteration 5 — Cards expand inline + Credo
+
+**Audit observation.** Tagged the Credo widget `pickerStyle: cards`,
+reloaded, and immediately saw the wart: the selected card showed the
+body's first line as a truncated excerpt AND the full body rendered
+beneath the picker. Same opening line ("Creio em um só Deus, Pai
+todo-poderoso…") appearing twice.
+
+**Plan.** Selected card *expands inline* with the full body replacing
+the excerpt. Other cards stay title + excerpt. Picker section below
+disappears (body lives inside the picked card).
+
+**Implementation.** `OptionCard` accepts `children?: ReactNode`; if
+the card is selected AND children are passed, children render inside
+the card (in a YStack with a small marginTop). Excerpt only shows
+when no expanded body is provided.
+
+`OptionsBlock`: cards branch passes `selected ? sections : null` per
+card. Chips branch wrapped in a fragment so the chip row + body
+sequence is unchanged.
+
+`ChoiceRichTextBlock`: extracted `renderBody(opt)` helper (citation
++ introduction + body + conclusion + response). Cards branch invokes
+it as the selected card's children; chips branch invokes it once
+below the chip row.
+
+**Simplify findings (applied).** Renamed `option` → `opt` in the
+chips branch of ChoiceRichTextBlock for consistency with the rest
+of the file. Other findings (`<>` necessity, `!!children` looseness)
+were correct as-is.
+
+**Bumped to library 1.4.8.**
+
+---
