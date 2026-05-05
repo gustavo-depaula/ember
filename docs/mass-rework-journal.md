@@ -140,3 +140,32 @@ being derived in the renderer — the helper is now gone entirely.
 
 **Bumped to library 1.4.3.**
 ---
+
+## Iteration 2 (interrupted) — ember-extra removed day-NNN IDs
+
+User pushed a new commit upstream (`0de123f`) that replaces the cryptic
+`day-NNN.weekday.json` filenames I'd been mapping to with canonical
+liturgical slugs:
+
+- `day-117` … `day-124.<wd>` → `tempore.advent.dec-17` … `dec-24`
+- `day-129/130/131` → `dec-29/30/31`
+- `day-140.sunday` → `holy-family`
+- `day-141.monday` → `mary-mother-of-god`
+- `day-160.sunday` → `second-sunday-after-christmas`
+- `day-170.sunday` → `epiphany`
+- `day-171.monday … day-176.saturday` → `after-epiphany.<weekday>`
+- `day-810.sunday` → `baptism-of-the-lord`
+
+Bumped the submodule pointer; rewrote `christmasSeasonIdFor()` and the
+Dec 24 special block in `temporeIdsForDate()`. Tests trimmed (no more
+"weekday folder is fixed by date" weirdness to assert). 51 tests pass.
+
+The earlier paragraph in this journal documenting the day-NNN scheme
+is now historical context; the live calendar code uses the new slugs.
+
+**Bumped to library 1.4.4.**
+
+Resuming planned iteration 2 (collapsible primitive for silent /
+explanatory sections) next.
+
+---
