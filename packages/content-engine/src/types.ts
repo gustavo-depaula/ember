@@ -46,10 +46,25 @@ export type ResolveStep = {
   book?: string
 }
 
+/**
+ * Load step — registry-based data resolution. The `source` field names a
+ * registered DataSource (see packages/content-engine/src/data-sources.ts).
+ * Any additional fields are passed as args to `source.load(args, ctx)`.
+ * The result is bound to FlowContext.flowData[as].
+ *
+ * Processed by resolveFlowAsync (async; sources may fetch from disk).
+ */
+export type LoadStep = {
+  as: string
+  source: string
+  [arg: string]: unknown
+}
+
 export type FlowDefinition = {
   flowVersion?: '1'
   data?: Record<string, RepeatEntry[]>
   resolve?: ResolveStep[]
+  load?: LoadStep[]
   sections: FlowSection[]
   fragments?: Record<string, FlowSection[]>
 }
@@ -57,7 +72,14 @@ export type FlowDefinition = {
 export type FlowSection = { lang?: string } & (
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }
-  | { type: 'heading'; text: LocalizedText }
+  | {
+      type: 'heading'
+      // Either a literal `text` or a `from` path resolved against the
+      // FlowContext (e.g. `celebration.primary.title`) — `from` reads a
+      // LocalizedText shape and localizes via ec.localize.
+      text?: LocalizedText
+      from?: string
+    }
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
   | { type: 'prayer'; ref: string }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
@@ -120,6 +142,17 @@ export type FlowSection = { lang?: string } & (
       }[]
     }
   | {
+      type: 'select'
+      from: string
+      as: string
+      idFrom?: string
+      labelFrom?: string
+      label?: LocalizedText
+      hideIfSingle?: boolean
+      default?: string
+      body: FlowSection[]
+    }
+  | {
       type: 'gallery'
       items: {
         src: string
@@ -136,6 +169,27 @@ export type FlowSection = { lang?: string } & (
       prayer?: LocalizedText
     }
   | { type: 'fragment'; ref: string }
+  | { type: 'call'; ref: string; args?: Record<string, unknown> }
+  | {
+      // Renders a colored swatch + localized label for the liturgical color
+      // at `from`. `from` is a dotted path resolved against FlowContext
+      // (e.g. `celebration.primary.liturgicalColor`). Renderer draws a small
+      // dot in the actual color (white/red/green/violet/rose/black).
+      type: 'liturgical-color'
+      from: string
+    }
+  | {
+      // Per-slot picker over a celebration's primary + alternates formularies.
+      // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
+      // filters out empty slots, renders a chip toggle + the selected source's
+      // typed segments. See packages/mass-of for the celebration shape.
+      type: 'choice-rich-text'
+      label: LocalizedText
+      slot: string
+      celebration?: string
+      default?: string
+      citation?: string
+    }
 )
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
@@ -162,6 +216,11 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
+  | {
+      type: 'liturgical-color'
+      color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      label: BilingualText
+    }
   | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
   | { type: 'subheading'; text: BilingualText }
   | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: BilingualText }
@@ -196,3 +255,43 @@ export type RenderedSection =
       attribution?: BilingualText
       prayer?: BilingualText
     }
+  | {
+      // Per-slot picker rendered as a chip toggle + the selected source's typed
+      // rich-text segments. The renderer (ProperSlot) draws the chips, the
+      // selected option's body, and any citation. Selection persists via
+      // overrideKey in selectOverrides.
+      type: 'choice-rich-text'
+      label: BilingualText
+      overrideKey: string
+      selectedId: string
+      options: {
+        id: string
+        label: BilingualText
+        body: BilingualRichText
+        citation?: BilingualText
+        introduction?: BilingualText
+        conclusion?: BilingualText
+        response?: BilingualRichText
+      }[]
+    }
+
+export type RichTextSegmentType =
+  | 'text'
+  | 'rubric'
+  | 'reference'
+  | 'italic'
+  | 'response'
+  | 'signOfCross'
+  | 'dropCap'
+
+export type RichTextSegment = {
+  type: RichTextSegmentType
+  text: string
+}
+
+export type RichTextLine = RichTextSegment[]
+
+export type BilingualRichText = {
+  primary: RichTextLine[]
+  secondary?: RichTextLine[]
+}
