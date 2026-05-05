@@ -424,6 +424,7 @@ export default function CatalogDetailScreen() {
             onPress={handleAddToPlan}
             accessibilityRole="button"
             accessibilityLabel={t('catalog.addToPlan')}
+            testID="add-to-plan-button"
           >
             <YStack
               backgroundColor="$backgroundSurface"

@@ -448,6 +448,7 @@ export function PracticeFlow({
               hitSlop={12}
               accessibilityRole="link"
               accessibilityLabel={t('a11y.home')}
+              testID="practice-home-button"
             >
               <Home size={20} color={theme.colorSecondary.val} />
             </Pressable>

@@ -1,0 +1,33 @@
+appId: me.dpgu.ember
+name: Practice With Choices (select DSL)
+---
+# Exercises the flow engine's `select` step. practice/grace-meals offers Before/After
+# variants — toggling between them must swap the rendered prayer block. Asserts
+# on the prayer titles (always rendered) rather than body text (collapsed).
+- runFlow:
+    file: ../subflows/reset.yaml
+    env:
+      DATE: "2026-01-14"
+      ENABLE_SLOTS: "practice/grace-meals::1"
+
+- tapOn:
+    id: "slot-row-practice/grace-meals"
+
+- assertVisible:
+    id: "select-option-before"
+- assertVisible:
+    id: "select-option-after"
+
+- tapOn:
+    id: "select-option-before"
+- assertVisible: "Grace Before Meals"
+
+- tapOn:
+    id: "select-option-after"
+- assertVisible: "Grace After Meals"
+- assertNotVisible: "Grace Before Meals"
+
+- tapOn:
+    id: "practice-home-button"
+- assertVisible:
+    id: "slot-row-practice/grace-meals"

@@ -114,6 +114,7 @@ export function TimeBlockSection({
             onPress={() => onPressItem?.(item.practice_id)}
             accessibilityRole="button"
             accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
+            testID={`slot-row-${item.practice_id}`}
           >
             <XStack
               backgroundColor="$backgroundSurface"
@@ -163,6 +164,7 @@ export function TimeBlockSection({
                       ? t('a11y.untogglePractice', { name: item.name })
                       : t('a11y.togglePractice', { name: item.name })
                   }
+                  testID={`slot-toggle-${item.practice_id}`}
                 />
               )}
             </XStack>

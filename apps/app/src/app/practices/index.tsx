@@ -133,6 +133,7 @@ function PracticeCard({
       onPress={onPress}
       accessibilityRole="link"
       accessibilityLabel={t('a11y.viewPractice', { name })}
+      testID={`practice-card-${manifest.id}`}
     >
       <XStack
         backgroundColor="$backgroundSurface"
