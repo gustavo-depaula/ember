@@ -24,6 +24,7 @@ export type {
   LoadStep,
   LocalizedContent,
   LocalizedText,
+  PickerStyle,
   RenderedSection,
   RepeatEntry,
   ResolveStep,

@@ -644,11 +644,17 @@ function resolveSection(
       }
       const resolved = section.options
         .filter((opt) => !opt.lang || opt.lang === ec.contentLanguage)
-        .map((opt) => ({
-          id: opt.id,
-          label: ec.localize(opt.label),
-          sections: opt.sections.flatMap((s) => resolveSection(s, context, ec)),
-        }))
+        .map((opt) => {
+          const sections = opt.sections.flatMap((s) => resolveSection(s, context, ec))
+          return {
+            id: opt.id,
+            label: ec.localize(opt.label),
+            sections,
+            ...(section.pickerStyle === 'cards'
+              ? { excerpt: deriveOptionExcerpt(sections) }
+              : {}),
+          }
+        })
         .filter((opt) => opt.sections.length > 0)
       if (resolved.length === 0) return []
       if (resolved.length === 1) return resolved[0].sections
@@ -656,6 +662,7 @@ function resolveSection(
         {
           type: 'options',
           label: ec.localize(section.label),
+          ...(section.pickerStyle ? { pickerStyle: section.pickerStyle } : {}),
           options: resolved,
         },
       ]
@@ -990,6 +997,24 @@ const SOURCE_LABELS: Record<string, LocalizedText> = {
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X']
 
+/**
+ * Card-style excerpt for an `options` widget option: prefer the first
+ * `prayer` (the actual liturgical text), fall back to the first `rubric`
+ * (explanatory text). Headings/subheadings are skipped since they
+ * mirror the option label.
+ */
+function deriveOptionExcerpt(
+  sections: RenderedSection[],
+): BilingualText | undefined {
+  for (const s of sections) {
+    if (s.type === 'prayer' && s.text.primary) return s.text
+  }
+  for (const s of sections) {
+    if (s.type === 'rubric' && s.label.primary) return s.label
+  }
+  return undefined
+}
+
 type SlotDataShape = {
   body?: {
     lines?: Record<string, RichTextLine[]>
@@ -1011,6 +1036,13 @@ type SlotDataShape = {
    * source-tag-based label ("Tmp", "Snt", …) in the chip toggle.
    */
   label?: Record<string, string>
+  /**
+   * Optional excerpt — short phrase distinguishing this option from
+   * sibling alternatives in a card-style picker (e.g. each preface's
+   * subtitle: "O mistério pascal", "A vida nova em Cristo", …). Body
+   * incipits aren't enough because most prefaces share the same opening.
+   */
+  excerpt?: Record<string, string>
 }
 
 type ExtractedSlot = {
@@ -1020,6 +1052,7 @@ type ExtractedSlot = {
   conclusion?: BilingualText
   response?: BilingualRichText
   label?: BilingualText
+  excerpt?: BilingualText
 }
 
 function extractOneSlotOption(
@@ -1063,6 +1096,9 @@ function extractOneSlotOption(
     : undefined
 
   const label = slotData.label ? ec.localize(slotData.label as LocalizedText) : undefined
+  const excerpt = slotData.excerpt
+    ? ec.localize(slotData.excerpt as LocalizedText)
+    : undefined
 
   return {
     body: {
@@ -1074,6 +1110,7 @@ function extractOneSlotOption(
     ...(conclusion ? { conclusion } : {}),
     ...(response ? { response } : {}),
     ...(label ? { label } : {}),
+    ...(excerpt ? { excerpt } : {}),
   }
 }
 
@@ -1205,6 +1242,7 @@ function resolveChoiceRichText(
         ...(data.introduction ? { introduction: data.introduction } : {}),
         ...(data.conclusion ? { conclusion: data.conclusion } : {}),
         ...(data.response ? { response: data.response } : {}),
+        ...(data.excerpt ? { excerpt: data.excerpt } : {}),
       }
     })
   })
@@ -1222,6 +1260,7 @@ function resolveChoiceRichText(
       label: ec.localize(section.label),
       overrideKey,
       selectedId,
+      ...(section.pickerStyle ? { pickerStyle: section.pickerStyle } : {}),
       options,
     },
   ]

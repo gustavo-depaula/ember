@@ -48,6 +48,73 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // Existing tests (pre-unified-flow)
 // =============================================================================
 
+describe('resolveFlow — pickerStyle: cards', () => {
+  it('passes pickerStyle through and derives an excerpt per option', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'options',
+        label: { 'pt-BR': 'Eucharistic Prayer' },
+        pickerStyle: 'cards',
+        options: [
+          {
+            id: 'ep2',
+            label: { 'pt-BR': 'EP II' },
+            sections: [
+              { type: 'rubric', text: { 'pt-BR': 'Note about EP II' } },
+              { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'You are indeed Holy, Lord' } },
+            ],
+          },
+          {
+            id: 'ep3',
+            label: { 'pt-BR': 'EP III' },
+            sections: [
+              { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'You are indeed Holy, O Lord' } },
+            ],
+          },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([
+      {
+        type: 'options',
+        pickerStyle: 'cards',
+        options: [
+          { id: 'ep2', excerpt: { primary: 'You are indeed Holy, Lord' } },
+          { id: 'ep3', excerpt: { primary: 'You are indeed Holy, O Lord' } },
+        ],
+      },
+    ])
+  })
+
+  it('omits pickerStyle and excerpt when not requested (default chips)', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'options',
+        label: { 'pt-BR': 'Pick' },
+        options: [
+          {
+            id: 'a',
+            label: { 'pt-BR': 'A' },
+            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'A text' } }],
+          },
+          {
+            id: 'b',
+            label: { 'pt-BR': 'B' },
+            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'B text' } }],
+          },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    const widget = result[0] as { pickerStyle?: string; options: Array<{ excerpt?: unknown }> }
+    expect(widget.pickerStyle).toBeUndefined()
+    expect(widget.options.every((o) => o.excerpt === undefined)).toBe(true)
+  })
+})
+
 describe('resolveFlow — options collapsing', () => {
   it('renders all options as pills when multiple have content', () => {
     expect(

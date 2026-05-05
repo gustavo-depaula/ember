@@ -332,7 +332,8 @@
           "en-US": "Preface",
           "pt-BR": "Prefácio"
         },
-        "slot": "preface"
+        "slot": "preface",
+        "pickerStyle": "cards"
       },
       {
         "type": "choice-rich-text",
@@ -574,7 +575,8 @@
           "en-US": "Preface",
           "pt-BR": "Prefácio"
         },
-        "slot": "preface"
+        "slot": "preface",
+        "pickerStyle": "cards"
       },
       {
         "type": "choice-rich-text",
@@ -836,7 +838,8 @@
           "en-US": "Preface",
           "pt-BR": "Prefácio"
         },
-        "slot": "preface"
+        "slot": "preface",
+        "pickerStyle": "cards"
       },
       {
         "type": "choice-rich-text",
@@ -1078,7 +1081,8 @@
           "en-US": "Preface",
           "pt-BR": "Prefácio"
         },
-        "slot": "preface"
+        "slot": "preface",
+        "pickerStyle": "cards"
       },
       {
         "type": "choice-rich-text",
@@ -2081,7 +2085,8 @@
                                     "en-US": "Preface of the day",
                                     "pt-BR": "Prefácio do dia"
                                   },
-                                  "slot": "preface"
+                                  "slot": "preface",
+                                  "pickerStyle": "cards"
                                 },
                                 {
                                   "type": "prayer",
@@ -3483,7 +3488,8 @@
                                         }
                                       ]
                                     }
-                                  ]
+                                  ],
+                                  "pickerStyle": "cards"
                                 },
                                 {
                                   "type": "divider"
@@ -6061,7 +6067,8 @@
                                     "en-US": "Preface of the day",
                                     "pt-BR": "Prefácio do dia"
                                   },
-                                  "slot": "preface"
+                                  "slot": "preface",
+                                  "pickerStyle": "cards"
                                 },
                                 {
                                   "type": "divider"

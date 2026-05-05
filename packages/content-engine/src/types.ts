@@ -98,6 +98,12 @@ export type FlowSection = { lang?: string } & (
   | {
       type: 'options'
       label: LocalizedText
+      // 'chips' (default) — tight horizontal toggle, body unfolds beneath.
+      // 'cards' — vertical card list with each option's excerpt visible
+      //          alongside the title; useful when option bodies are long
+      //          (Eucharistic Prayers, prefaces) and the user wants to
+      //          identify the right one at a glance during Mass.
+      pickerStyle?: PickerStyle
       options: { id: string; label: LocalizedText; lang?: string; sections: FlowSection[] }[]
     }
   | {
@@ -189,6 +195,7 @@ export type FlowSection = { lang?: string } & (
       celebration?: string
       default?: string
       citation?: string
+      pickerStyle?: PickerStyle
     }
 )
 
@@ -227,7 +234,13 @@ export type RenderedSection =
   | {
       type: 'options'
       label: BilingualText
-      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
+      pickerStyle?: PickerStyle
+      options: {
+        id: string
+        label: BilingualText
+        sections: RenderedSection[]
+        excerpt?: BilingualText
+      }[]
     }
   | {
       type: 'select'
@@ -264,6 +277,7 @@ export type RenderedSection =
       label: BilingualText
       overrideKey: string
       selectedId: string
+      pickerStyle?: PickerStyle
       options: {
         id: string
         label: BilingualText
@@ -272,6 +286,7 @@ export type RenderedSection =
         introduction?: BilingualText
         conclusion?: BilingualText
         response?: BilingualRichText
+        excerpt?: BilingualText
       }[]
     }
 
@@ -295,3 +310,5 @@ export type BilingualRichText = {
   primary: RichTextLine[]
   secondary?: RichTextLine[]
 }
+
+export type PickerStyle = 'chips' | 'cards'

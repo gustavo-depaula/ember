@@ -140,22 +140,31 @@ async function hydratePreface(ctx: SourceContext, formulary: Formulary): Promise
   for (const ref of refs) {
     const data = await fetchPreface(ctx, ref)
     if (!data) continue
-    const titlePtBR = (data.title as Record<string, string> | undefined)?.['pt-BR']
-    const titleEn = (data.title as Record<string, string> | undefined)?.en
-    const titleLa = (data.title as Record<string, string> | undefined)?.la
+    const title = data.title as Record<string, string> | undefined
     hydrated.push({
       ...data,
-      label: {
-        'pt-BR': abbreviatePrefaceTitle(titlePtBR),
-        'en-US': abbreviatePrefaceTitle(titleEn),
-        la: abbreviatePrefaceTitle(titleLa),
-      },
+      label: localizedAbbreviate(title, abbreviatePrefaceTitle),
+      excerpt: localizedAbbreviate(title, prefaceTitleSubtitle),
     })
   }
   if (hydrated.length === 0) return formulary
 
   return { ...formulary, preface: { alternatives: hydrated } }
 }
+
+function localizedAbbreviate(
+  title: Record<string, string> | undefined,
+  fn: (raw: string | undefined) => string | undefined,
+): { 'pt-BR'?: string; 'en-US'?: string; la?: string } {
+  return {
+    'pt-BR': fn(title?.['pt-BR']),
+    'en-US': fn(title?.en),
+    la: fn(title?.la),
+  }
+}
+
+const PREFACE_TITLE_HEADER_RE = /^(?:PREF[ÁA]CIO\s+D[AOE]\s+|PREFACE\s+OF\s+|PRAEFATIO\s+DE\s+)/i
+const PREFACE_TITLE_RE = /^(.+?)\s+(I{1,4}V?|IV|VI{0,4}|IX|X)\b\s*(.*)$/
 
 /**
  * Strip "PREFÁCIO D[AOE] " / "PREFACE OF " etc. and the trailing subject
@@ -167,18 +176,24 @@ async function hydratePreface(ctx: SourceContext, formulary: Formulary): Promise
  */
 function abbreviatePrefaceTitle(raw: string | undefined): string | undefined {
   if (!raw) return undefined
-  // Match "<header> <season> <roman> <subject>" where header is
-  // "PREFÁCIO D[AOE]" / "PREFACE OF" / "PRAEFATIO DE" or empty.
-  const cleaned = raw
-    .replace(/^PREF[ÁA]CIO\s+D[AOE]\s+/i, '')
-    .replace(/^PREFACE\s+OF\s+/i, '')
-    .replace(/^PRAEFATIO\s+DE\s+/i, '')
-  const match = cleaned.match(/^(.+?)\s+(I{1,4}V?|IV|VI{0,4}|IX|X)\b/)
-  if (!match) {
-    // No roman numeral — return the cleaned title in title case.
-    return titleCase(cleaned)
-  }
+  const cleaned = raw.replace(PREFACE_TITLE_HEADER_RE, '')
+  const match = cleaned.match(PREFACE_TITLE_RE)
+  if (!match) return titleCase(cleaned)
   return `${titleCase(match[1])} ${match[2]}`
+}
+
+/**
+ * Pull the subtitle phrase that follows the Roman numeral in a preface
+ * title — used as the card-style excerpt because the body's first line
+ * ("Na verdade, é digno e justo...") is identical across most prefaces.
+ *   "PREFÁCIO DA PÁSCOA I O mistério pascal" → "O mistério pascal"
+ */
+function prefaceTitleSubtitle(raw: string | undefined): string | undefined {
+  if (!raw) return undefined
+  const cleaned = raw.replace(PREFACE_TITLE_HEADER_RE, '')
+  const match = cleaned.match(PREFACE_TITLE_RE)
+  const subtitle = match?.[3]?.trim()
+  return subtitle && subtitle.length > 0 ? subtitle : undefined
 }
 
 function titleCase(s: string): string {

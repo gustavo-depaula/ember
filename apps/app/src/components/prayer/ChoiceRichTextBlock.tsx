@@ -1,12 +1,15 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: rich-text lines never reorder
 
-import type { BilingualRichText, BilingualText, RichTextLine } from '@ember/content-engine'
+import type {
+  BilingualRichText,
+  BilingualText,
+  PickerStyle,
+  RichTextLine,
+} from '@ember/content-engine'
 import { Text, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
-
-// `Text` is still used for the chip header label/citation (smaller / monospaced
-// metadata, not part of the prayed text).
+import { OptionCard } from './OptionCard'
 
 type Option = {
   id: string
@@ -16,6 +19,7 @@ type Option = {
   introduction?: BilingualText
   conclusion?: BilingualText
   response?: BilingualRichText
+  excerpt?: BilingualText
 }
 
 /**
@@ -31,28 +35,42 @@ export function ChoiceRichTextBlock({
   selectedId,
   options,
   onSelect,
+  pickerStyle = 'chips',
 }: {
   label: BilingualText
   selectedId: string
   options: Option[]
   onSelect: (optionId: string) => void
+  pickerStyle?: PickerStyle
 }) {
   const current = options.find((o) => o.id === selectedId) ?? options[0]
   if (!current) return null
 
   return (
     <YStack gap="$sm">
-      <XStack alignItems="center" gap="$sm" flexWrap="wrap">
-        <Text
-          fontFamily="$heading"
-          fontSize="$2"
-          color="$accent"
-          letterSpacing={1}
-          textTransform="uppercase"
-        >
-          {label.primary}
-        </Text>
-        {options.length > 1 && (
+      <Text
+        fontFamily="$heading"
+        fontSize="$2"
+        color="$accent"
+        letterSpacing={1}
+        textTransform="uppercase"
+      >
+        {label.primary}
+      </Text>
+      {options.length > 1 &&
+        (pickerStyle === 'cards' ? (
+          <YStack gap="$xs">
+            {options.map((opt) => (
+              <OptionCard
+                key={opt.id}
+                label={opt.label.primary}
+                excerpt={opt.excerpt?.primary}
+                isSelected={opt.id === current.id}
+                onPress={() => onSelect(opt.id)}
+              />
+            ))}
+          </YStack>
+        ) : (
           <XStack gap="$xs" flexWrap="wrap">
             {options.map((option) => {
               const isSelected = option.id === current.id
@@ -84,8 +102,7 @@ export function ChoiceRichTextBlock({
               )
             })}
           </XStack>
-        )}
-      </XStack>
+        ))}
 
       {current.citation && (
         <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={0.5}>

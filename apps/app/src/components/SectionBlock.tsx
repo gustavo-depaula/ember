@@ -119,7 +119,12 @@ export function SectionBlock({
       return (
         <OptionsBlock
           label={section.label.primary}
-          options={section.options.map((o) => ({ ...o, label: o.label.primary }))}
+          pickerStyle={section.pickerStyle}
+          options={section.options.map((o) => ({
+            ...o,
+            label: o.label.primary,
+            excerpt: o.excerpt?.primary,
+          }))}
           renderSection={
             renderSection ??
             ((s, i) => (
@@ -159,6 +164,7 @@ export function SectionBlock({
           label={section.label}
           selectedId={section.selectedId}
           options={section.options}
+          pickerStyle={section.pickerStyle}
           onSelect={(nextId) => onSelectOverride?.(section.overrideKey, nextId)}
         />
       )
