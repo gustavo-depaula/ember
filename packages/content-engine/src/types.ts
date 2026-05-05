@@ -177,6 +177,16 @@ export type FlowSection = { lang?: string } & (
   | { type: 'fragment'; ref: string }
   | { type: 'call'; ref: string; args?: Record<string, unknown> }
   | {
+      // Wraps a body and propagates a liturgical-vestment color through
+      // React context to descendants. SectionMarker rules + OptionCard
+      // selected borders pick it up as a fallback when they don't set
+      // their own color, so the day's identity threads through the page
+      // without every primitive needing to declare colorFrom.
+      type: 'liturgical-color-scope'
+      from: string
+      sections: FlowSection[]
+    }
+  | {
       // Typographic break for major Mass divisions (Initial Rites,
       // Liturgy of the Word, etc.). Renders as a centered uppercase
       // title between thin horizontal rules — the missal-page-break
@@ -273,6 +283,11 @@ export type RenderedSection =
       type: 'liturgical-color'
       color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
       label: BilingualText
+    }
+  | {
+      type: 'liturgical-color-scope'
+      color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      sections: RenderedSection[]
     }
   | {
       type: 'celebration-banner'

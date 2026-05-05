@@ -809,6 +809,17 @@ function resolveSection(
       ]
     }
 
+    case 'liturgical-color-scope': {
+      const raw = resolvePath(context, section.from)
+      const lc = typeof raw === 'string' ? raw.toLowerCase() : undefined
+      const color = lc && LITURGICAL_COLOR_LABELS[lc] ? (lc as RenderedLiturgicalColor) : undefined
+      const inner = section.sections.flatMap((s) => resolveSection(s, context, ec))
+      if (inner.length === 0) return []
+      // No color resolved — pass children through, no scope wrapping.
+      if (!color) return inner
+      return [{ type: 'liturgical-color-scope', color, sections: inner }]
+    }
+
     case 'section-marker': {
       const raw = section.colorFrom
         ? (resolvePath(context, section.colorFrom) as string | undefined)

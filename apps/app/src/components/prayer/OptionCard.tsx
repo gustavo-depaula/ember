@@ -1,6 +1,14 @@
 import type { ReactNode } from 'react'
 import { Text, YStack } from 'tamagui'
 import { AnimatedPressable } from '../AnimatedPressable'
+import { useLiturgicalColor } from './LiturgicalColorContext'
+
+const COLOR_HEX: Record<string, string> = {
+  red: '#C0392B',
+  green: '#2D6A4F',
+  violet: '#5B2A86',
+  black: '#1B1B1B',
+}
 
 /**
  * Card-shaped tappable option for the `cards` picker style. Used by both
@@ -26,6 +34,12 @@ export function OptionCard({
   children?: ReactNode
 }) {
   const showExpandedBody = isSelected && !!children
+  // Fall back to the surrounding day's liturgical color for the selected
+  // border tint — only saturated colors (red/green/violet/black) tint;
+  // pale colors (white/rose/gold) keep the default accent.
+  const liturgicalColor = useLiturgicalColor()
+  const tint = liturgicalColor && COLOR_HEX[liturgicalColor]
+  const selectedBorder = tint ?? '$accent'
   return (
     <AnimatedPressable
       onPress={onPress}
@@ -38,7 +52,7 @@ export function OptionCard({
         paddingVertical="$sm"
         borderRadius="$md"
         borderWidth={1}
-        borderColor={isSelected ? '$accent' : '$borderColor'}
+        borderColor={isSelected ? selectedBorder : '$borderColor'}
         backgroundColor={isSelected ? '$accentSubtle' : 'transparent'}
         gap="$xxs"
       >

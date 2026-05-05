@@ -46,6 +46,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'call',
   'choice-rich-text',
   'liturgical-color',
+  'liturgical-color-scope',
   'celebration-banner',
   'collapsible',
   'section-marker',

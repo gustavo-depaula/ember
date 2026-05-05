@@ -9,6 +9,10 @@ export { HolyCardBlock } from './HolyCardBlock'
 export { HymnBlock } from './HymnBlock'
 export { ImageBlock } from './ImageBlock'
 export { LiturgicalColorBlock } from './LiturgicalColorBlock'
+export {
+  LiturgicalColorProvider,
+  useLiturgicalColor,
+} from './LiturgicalColorContext'
 export { LiturgicalColorDot } from './LiturgicalColorDot'
 export { LiturgicalPrayerBlock } from './LiturgicalPrayerBlock'
 export { OptionCard } from './OptionCard'

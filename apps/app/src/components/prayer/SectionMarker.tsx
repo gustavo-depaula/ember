@@ -1,5 +1,6 @@
 import type { BilingualText } from '@ember/content-engine'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { useLiturgicalColor } from './LiturgicalColorContext'
 
 const COLOR_HEX: Record<string, string> = {
   white: '#FFFFFF',
@@ -32,9 +33,11 @@ export function SectionMarker({
   color?: string
 }) {
   const theme = useTheme()
+  const ctxColor = useLiturgicalColor()
+  const effective = color ?? ctxColor
   const tint =
-    color && color !== 'white' && color !== 'rose' && color !== 'gold'
-      ? COLOR_HEX[color]
+    effective && effective !== 'white' && effective !== 'rose' && effective !== 'gold'
+      ? COLOR_HEX[effective]
       : undefined
   const ruleColor = tint ?? (theme.borderColor?.val ?? '#444')
   const ruleOpacity = tint ? 0.6 : 1

@@ -11,6 +11,7 @@ import {
   HymnBlock,
   ImageBlock,
   LiturgicalColorBlock,
+  LiturgicalColorProvider,
   LiturgicalPrayerBlock,
   OptionsBlock,
   PrayerTextBlock,
@@ -36,6 +37,23 @@ export function SectionBlock({
 
     case 'liturgical-color':
       return <LiturgicalColorBlock color={section.color} label={section.label} />
+
+    case 'liturgical-color-scope':
+      return (
+        <LiturgicalColorProvider color={section.color}>
+          {section.sections.map((s, i) =>
+            renderSection ? (
+              renderSection(s, i)
+            ) : (
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                onSelectOverride={onSelectOverride}
+              />
+            ),
+          )}
+        </LiturgicalColorProvider>
+      )
 
     case 'section-marker':
       return <SectionMarker title={section.title} color={section.color} />
