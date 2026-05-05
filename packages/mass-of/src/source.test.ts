@@ -51,13 +51,13 @@ describe('massOfSource', () => {
     expect(result.ordinary).toEqual(orderOfMass)
   })
 
-  it('hydrates prefaceRef into the celebration primary', async () => {
+  it('hydrates prefaceRefs into the celebration primary', async () => {
     const formulary = {
       id: 'tempore.holy-week.chrism-mass',
       source: 'tempore',
       rite: 'chrism-mass',
       title: { 'en-US': 'Chrism Mass' },
-      preface: { prefaceRef: 'pf-chrism' },
+      preface: { prefaceRefs: ['preface.pf-chrism'] },
     }
     const fullPreface = {
       id: 'preface.pf-chrism',

@@ -119,24 +119,18 @@ async function fetchPreface(
 }
 
 /**
- * Hydrate a celebration's preface ref AND its alternativeRefs into a single
- * `alternatives[]` array on `formulary.preface`. The Roman Missal allows
- * the priest to pick from any of these on a given day (e.g. on Easter
- * weekdays, all 5 paschal prefaces are usable). Each entry carries a
- * `label` (Roman numeral extracted from the title) so the chip toggle in
- * the UI shows "Páscoa I", "Páscoa II", etc. rather than generic "Tmp I".
+ * Hydrate `preface.prefaceRefs` into a single `alternatives[]` array on
+ * `formulary.preface`. The Roman Missal allows the priest to pick from any
+ * of these on a given day (e.g. on Easter weekdays all 5 paschal prefaces
+ * are usable). Each entry carries a derived `label` (Roman numeral
+ * extracted from the title) so the chip toggle reads "Páscoa I",
+ * "Páscoa II", etc. rather than generic "Tmp I".
  */
 async function hydratePreface(ctx: SourceContext, formulary: Formulary): Promise<Formulary> {
-  const preface = formulary.preface as
-    | {
-        prefaceRef?: string
-        alternativeRefs?: string[]
-        label?: { 'pt-BR'?: string; 'en-US'?: string; en?: string }
-      }
-    | undefined
-  if (!preface?.prefaceRef) return formulary
+  const preface = formulary.preface as { prefaceRefs?: string[] } | undefined
+  const refs = preface?.prefaceRefs ?? []
+  if (refs.length === 0) return formulary
 
-  const refs = [preface.prefaceRef, ...(preface.alternativeRefs ?? [])]
   const hydrated: Record<string, unknown>[] = []
   for (const ref of refs) {
     const data = await fetchPreface(ctx, ref)

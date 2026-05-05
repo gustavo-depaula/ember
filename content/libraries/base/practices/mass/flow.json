@@ -65,81 +65,12 @@
         "slot": "readings.{{day.cycle}}.secondReading"
       },
       {
-        "type": "select",
-        "on": "celebration.id",
-        "default": "none",
-        "options": [
-          {
-            "id": "tempore.easter.week-1.sunday",
-            "label": {
-              "pt-BR": "Sequência (Vítima Pascal)",
-              "en-US": "Sequence (Victimae Paschali)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                  "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "tempore.easter.week-8.sunday",
-            "label": {
-              "pt-BR": "Sequência (Veni Sancte Spiritus)",
-              "en-US": "Sequence (Veni Sancte Spiritus)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                  "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "none",
-            "label": {
-              "pt-BR": "—",
-              "en-US": "—"
-            },
-            "sections": []
-          }
-        ]
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
       },
       {
         "type": "choice-rich-text",
@@ -461,81 +392,12 @@
         "slot": "readings.{{day.cycle}}.secondReading"
       },
       {
-        "type": "select",
-        "on": "celebration.id",
-        "default": "none",
-        "options": [
-          {
-            "id": "tempore.easter.week-1.sunday",
-            "label": {
-              "pt-BR": "Sequência (Vítima Pascal)",
-              "en-US": "Sequence (Victimae Paschali)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                  "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "tempore.easter.week-8.sunday",
-            "label": {
-              "pt-BR": "Sequência (Veni Sancte Spiritus)",
-              "en-US": "Sequence (Veni Sancte Spiritus)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                  "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "none",
-            "label": {
-              "pt-BR": "—",
-              "en-US": "—"
-            },
-            "sections": []
-          }
-        ]
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
       },
       {
         "type": "choice-rich-text",
@@ -723,81 +585,12 @@
         "slot": "readings.{{day.cycle}}.secondReading"
       },
       {
-        "type": "select",
-        "on": "celebration.id",
-        "default": "none",
-        "options": [
-          {
-            "id": "tempore.easter.week-1.sunday",
-            "label": {
-              "pt-BR": "Sequência (Vítima Pascal)",
-              "en-US": "Sequence (Victimae Paschali)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                  "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "tempore.easter.week-8.sunday",
-            "label": {
-              "pt-BR": "Sequência (Veni Sancte Spiritus)",
-              "en-US": "Sequence (Veni Sancte Spiritus)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                  "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "none",
-            "label": {
-              "pt-BR": "—",
-              "en-US": "—"
-            },
-            "sections": []
-          }
-        ]
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
       },
       {
         "type": "choice-rich-text",
@@ -1009,81 +802,12 @@
         "slot": "readings.{{day.cycle}}.secondReading"
       },
       {
-        "type": "select",
-        "on": "celebration.id",
-        "default": "none",
-        "options": [
-          {
-            "id": "tempore.easter.week-1.sunday",
-            "label": {
-              "pt-BR": "Sequência (Vítima Pascal)",
-              "en-US": "Sequence (Victimae Paschali)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                  "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "tempore.easter.week-8.sunday",
-            "label": {
-              "pt-BR": "Sequência (Veni Sancte Spiritus)",
-              "en-US": "Sequence (Veni Sancte Spiritus)"
-            },
-            "sections": [
-              {
-                "type": "subheading",
-                "text": {
-                  "pt-BR": "Sequência",
-                  "en-US": "Sequence"
-                }
-              },
-              {
-                "type": "rubric",
-                "text": {
-                  "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                  "en-US": "The Sequence is sung or recited before the Gospel."
-                }
-              },
-              {
-                "type": "prayer",
-                "speaker": "all",
-                "inline": {
-                  "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                  "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                }
-              }
-            ]
-          },
-          {
-            "id": "none",
-            "label": {
-              "pt-BR": "—",
-              "en-US": "—"
-            },
-            "sections": []
-          }
-        ]
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
       },
       {
         "type": "choice-rich-text",
@@ -1926,81 +1650,12 @@
                                       "slot": "readings.{{day.cycle}}.secondReading"
                                     },
                                     {
-                                      "type": "select",
-                                      "on": "celebration.id",
-                                      "default": "none",
-                                      "options": [
-                                        {
-                                          "id": "tempore.easter.week-1.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Vítima Pascal)",
-                                            "en-US": "Sequence (Victimae Paschali)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                                                "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "tempore.easter.week-8.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Veni Sancte Spiritus)",
-                                            "en-US": "Sequence (Veni Sancte Spiritus)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                                                "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "none",
-                                          "label": {
-                                            "pt-BR": "—",
-                                            "en-US": "—"
-                                          },
-                                          "sections": []
-                                        }
-                                      ]
+                                      "type": "choice-rich-text",
+                                      "label": {
+                                        "en-US": "Sequence",
+                                        "pt-BR": "Sequência"
+                                      },
+                                      "slot": "readings.{{day.cycle}}.sequentia"
                                     },
                                     {
                                       "type": "rubric",
@@ -6199,81 +5854,12 @@
                                       "slot": "readings.{{day.cycle}}.secondReading"
                                     },
                                     {
-                                      "type": "select",
-                                      "on": "celebration.id",
-                                      "default": "none",
-                                      "options": [
-                                        {
-                                          "id": "tempore.easter.week-1.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Vítima Pascal)",
-                                            "en-US": "Sequence (Victimae Paschali)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                                                "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "tempore.easter.week-8.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Veni Sancte Spiritus)",
-                                            "en-US": "Sequence (Veni Sancte Spiritus)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                                                "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "none",
-                                          "label": {
-                                            "pt-BR": "—",
-                                            "en-US": "—"
-                                          },
-                                          "sections": []
-                                        }
-                                      ]
+                                      "type": "choice-rich-text",
+                                      "label": {
+                                        "en-US": "Sequence",
+                                        "pt-BR": "Sequência"
+                                      },
+                                      "slot": "readings.{{day.cycle}}.sequentia"
                                     },
                                     {
                                       "type": "divider"
@@ -6396,81 +5982,12 @@
                                       "slot": "readings.{{day.cycle}}.secondReading"
                                     },
                                     {
-                                      "type": "select",
-                                      "on": "celebration.id",
-                                      "default": "none",
-                                      "options": [
-                                        {
-                                          "id": "tempore.easter.week-1.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Vítima Pascal)",
-                                            "en-US": "Sequence (Victimae Paschali)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "À Vítima pascal cantemos louvores, ó cristãos!\nO Cordeiro redimiu as ovelhas: Cristo, que é sem pecado, reconciliou os pecadores com o Pai.\nA vida e a morte se confrontaram em prodigioso duelo: morto, o Senhor da vida agora reina vivo.\nDize-nos, ó Maria: que viste no caminho?\nVi o sepulcro do Cristo vivente e a glória do ressuscitado, vi as testemunhas angélicas, o sudário e as vestes.\nRessuscitou Cristo, minha esperança! Precederá os seus na Galileia.\nSabemos que Cristo verdadeiramente ressuscitou dos mortos. Vós, ó Rei vencedor, tende piedade de nós. Amém. Aleluia.",
-                                                "la": "Víctimæ pascháli laudes ímmolent christiáni.\nAgnus redémit oves: Christus ínnocens Patri reconciliávit peccatóres.\nMors et vita duéllo conflixére mirándo: dux vitæ mórtuus, regnat vivus.\nDic nobis, María, quid vidísti in via?\nSepúlcrum Christi vivéntis et glóriam vidi resurgéntis, angélicos testes, sudárium et vestes.\nSurréxit Christus spes mea: præcédet vos in Galilǽam.\nScimus Christum surrexísse a mórtuis vere: tu nobis, victor Rex, miserére. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "tempore.easter.week-8.sunday",
-                                          "label": {
-                                            "pt-BR": "Sequência (Veni Sancte Spiritus)",
-                                            "en-US": "Sequence (Veni Sancte Spiritus)"
-                                          },
-                                          "sections": [
-                                            {
-                                              "type": "subheading",
-                                              "text": {
-                                                "pt-BR": "Sequência",
-                                                "en-US": "Sequence"
-                                              }
-                                            },
-                                            {
-                                              "type": "rubric",
-                                              "text": {
-                                                "pt-BR": "A Sequência é cantada ou recitada antes do Evangelho.",
-                                                "en-US": "The Sequence is sung or recited before the Gospel."
-                                              }
-                                            },
-                                            {
-                                              "type": "prayer",
-                                              "speaker": "all",
-                                              "inline": {
-                                                "pt-BR": "Vinde, ó Santo Espírito, e enviai do céu um raio de vossa luz!\nVinde, ó Pai dos pobres, vinde, dador dos dons, vinde, luz dos corações!\nConsolador supremo, doce hóspede da alma, doce alívio nosso!\nNo trabalho, sois descanso, no calor temperamento, no pranto sois consolo!\nÓ luz beatíssima, enchei os corações de vossos fiéis até o íntimo!\nSem o vosso poder, nada há no homem, nada há que seja inocente.\nLavai o que está manchado, regai o que está ressequido, curai o que está enfermo!\nDobrai o que está endurecido, aquecei o que está frio, dirigi o que está desviado!\nDai aos vossos fiéis, que só de vós se fiam, vossos sete dons sagrados!\nDai virtudes recompensa, dai o porto da salvação, dai a alegria sem fim. Amém. Aleluia.",
-                                                "la": "Veni, Sancte Spíritus, et emítte cǽlitus lucis tuæ rádium.\nVeni, pater páuperum, veni, dator múnerum, veni, lumen córdium.\nConsolátor óptime, dulcis hospes ánimæ, dulce refrigérium.\nIn labóre réquies, in æstu tempéries, in fletu solátium.\nO lux beatíssima, reple cordis íntima tuórum fidélium.\nSine tuo númine, nihil est in hómine, nihil est innóxium.\nLava quod est sórdidum, riga quod est áridum, sana quod est sáucium.\nFlecte quod est rígidum, fove quod est frígidum, rege quod est dévium.\nDa tuis fidélibus, in te confidéntibus, sacrum septenárium.\nDa virtútis méritum, da salútis éxitum, da perénne gáudium. Amen. Allelúia."
-                                              }
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "id": "none",
-                                          "label": {
-                                            "pt-BR": "—",
-                                            "en-US": "—"
-                                          },
-                                          "sections": []
-                                        }
-                                      ]
+                                      "type": "choice-rich-text",
+                                      "label": {
+                                        "en-US": "Sequence",
+                                        "pt-BR": "Sequência"
+                                      },
+                                      "slot": "readings.{{day.cycle}}.sequentia"
                                     },
                                     {
                                       "type": "divider"
