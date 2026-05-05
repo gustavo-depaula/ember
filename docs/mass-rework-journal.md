@@ -169,3 +169,40 @@ Resuming planned iteration 2 (collapsible primitive for silent /
 explanatory sections) next.
 
 ---
+
+## Iteration 2 — Collapsible primitive
+
+**Audit observation.** Preparação das Oferendas dumps six silent priest
+prayers + accompanying rubrics inline. The user only audibly hears
+"Orai, irmãos e irmãs… / Receba o Senhor por tuas mãos…"; everything
+else is the priest praying quietly while the offertory chant happens.
+Inline rendering of all that is a wall of text that interrupts the
+reading flow.
+
+**Plan.** Add a `collapsible` flow primitive: title visible, body
+hidden by default, expandable on tap. Wrap the six silent prayers in
+a single collapsible "Orações em silêncio". Audible Orate-fratres
+exchange stays visible.
+
+**Implementation.** New `collapsible` section type in types.ts +
+engine resolver case. New `CollapsibleBlock` renderer (chevron-right
+collapsed, chevron-down expanded, uppercase $1 label matching the
+existing LiturgicalColorBlock typography family). Splice script
+`scripts/wrap-silent-offerings.py` walks the flow and wraps everything
+between the `Preparação das Oferendas` subheading and the Orate-fratres
+prayer.
+
+**Simplify findings (applied).** Reuse agent flagged 3 collapsible-ish
+components elsewhere in the codebase (CollapsiblePrayer, the inner
+CollapsibleSection in PracticeTeachingContent, plus my new
+CollapsibleBlock) — different visual roles, not pure duplicates, but
+worth a `useCollapsible` hook in a follow-up. Quality agent flagged
+that the Python splice script mixes in-place mutation with a
+"found?" return — added a header comment marking it one-shot.
+Efficiency agent noted the chevron `Icon = open ? ChevronDown : ChevronRight`
+const swap forces a remount per toggle — inlined the JSX choice
+instead. Functional setter `setOpen((o) => !o)` for the toggle.
+
+**Bumped to library 1.4.5.**
+
+---
