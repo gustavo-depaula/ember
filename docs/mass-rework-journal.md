@@ -345,3 +345,27 @@ Verified in Chrome: today's first reading + gospel now read as a
 sequence of clean paragraphs.
 
 ---
+
+## Iteration 8 — Liturgical-color tint on section markers
+
+**Audit observation.** Day's color was visible only as a 14px dot in
+the banner. Section markers used a neutral border color, visually
+detached from the day's identity.
+
+**Plan.** Tint the section-marker flanking rules in the day's
+liturgical color, low opacity. White / rose / gold fall back to
+the default border color (too pale on light backgrounds).
+
+**Implementation.** `section-marker` gains `colorFrom?: string`
+(dotted path); resolver looks up the color and emits it on the
+rendered section. Renderer applies COLOR_HEX at 0.6 opacity. Inline
+Python pass tagged 14 section-markers in flow.json with
+`colorFrom: "celebration.primary.liturgicalColor"`.
+
+Today is white, so visually identical. Red days (martyrs), green
+(OT), violet (Lent/Advent), black (All Souls) will now thread the
+liturgical color through the page's section breaks.
+
+**Bumped to library 1.5.0.**
+
+---
