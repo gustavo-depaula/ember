@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Memorare",
+        "pt-BR": "Memorare"
+      }
+    },
+    {
+      "type": "prayer",
+      "title": {
+        "en-US": "Memorare",
+        "pt-BR": "Memorare"
+      },
+      "inline": {
+        "en-US": "Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thine intercession was left unaided.",
+        "pt-BR": "Lembrai-vos, ó piíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que recorreram à vossa proteção, implorou o vosso auxílio ou reclamou a vossa intercessão, fosse por vós abandonado."
+      }
+    }
+  ]
+}

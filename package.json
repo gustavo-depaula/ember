@@ -14,6 +14,7 @@
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
     "build:lectionary": "tsx scripts/build-of-lectionary.ts",
     "build:libraries": "scripts/build-libraries.sh",
+    "validate-flows": "tsx scripts/validate-flows.ts",
     "hearth:clean": "rm -f content/libraries/*.pray content/libraries/registry.json && find content/libraries -path '*/books/*/style.css' -delete",
     "build:webp": "scripts/convert-webp.sh",
     "build:hearth": "scripts/build-libraries.sh && scripts/convert-webp.sh",

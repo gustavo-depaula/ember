@@ -48,6 +48,9 @@ importers:
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../../packages/liturgical
+      '@ember/mass-of':
+        specifier: workspace:*
+        version: link:../../packages/mass-of
       '@ember/mass-propers':
         specifier: workspace:*
         version: link:../../packages/mass-propers
@@ -274,6 +277,18 @@ importers:
         version: link:../liturgical
 
   packages/liturgical: {}
+
+  packages/mass-of:
+    dependencies:
+      '@ember/content-engine':
+        specifier: workspace:*
+        version: link:../content-engine
+      '@ember/liturgical':
+        specifier: workspace:*
+        version: link:../liturgical
+      date-fns:
+        specifier: '*'
+        version: 4.1.0
 
   packages/mass-propers:
     dependencies:
