@@ -48,6 +48,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'liturgical-color',
   'celebration-banner',
   'collapsible',
+  'section-marker',
 ])
 
 function visit(node: unknown, path: string, ctx: WalkCtx): void {

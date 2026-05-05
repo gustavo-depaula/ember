@@ -16,6 +16,7 @@ import {
   PrayerTextBlock,
   ProseBlock,
   ResponseBlock,
+  SectionMarker,
   SelectBlock,
 } from './prayer'
 import { RubricLabel } from './RubricLabel'
@@ -35,6 +36,9 @@ export function SectionBlock({
 
     case 'liturgical-color':
       return <LiturgicalColorBlock color={section.color} label={section.label} />
+
+    case 'section-marker':
+      return <SectionMarker title={section.title} />
 
     case 'celebration-banner':
       return (

@@ -177,6 +177,15 @@ export type FlowSection = { lang?: string } & (
   | { type: 'fragment'; ref: string }
   | { type: 'call'; ref: string; args?: Record<string, unknown> }
   | {
+      // Typographic break for major Mass divisions (Initial Rites,
+      // Liturgy of the Word, etc.). Renders as a centered uppercase
+      // title between thin horizontal rules — the missal-page-break
+      // feel. Distinct from `heading`, which is reserved for normal
+      // sub-section labels (Antífona de Entrada, Glória, Credo, …).
+      type: 'section-marker'
+      title: LocalizedText
+    }
+  | {
       // Collapsible group — title is always visible; sections reveal on tap.
       // Use for dense explanatory rubric blocks and silent priest prayers
       // (Preparação das Oferendas, etc.) that overwhelm the audible flow.
@@ -244,6 +253,7 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
+  | { type: 'section-marker'; title: BilingualText }
   | {
       type: 'collapsible'
       title: BilingualText

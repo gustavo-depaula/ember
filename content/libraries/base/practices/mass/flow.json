@@ -33,8 +33,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
         }
@@ -271,8 +271,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
         }
@@ -312,8 +312,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Eucharist",
           "pt-BR": "Liturgia Eucarística"
         }
@@ -378,8 +378,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Introductory Rites",
           "pt-BR": "Ritos Iniciais"
         }
@@ -411,8 +411,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
         }
@@ -631,8 +631,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Introductory Rites",
           "pt-BR": "Ritos Iniciais"
         }
@@ -657,8 +657,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
         }
@@ -912,8 +912,8 @@
         "type": "divider"
       },
       {
-        "type": "heading",
-        "text": {
+        "type": "section-marker",
+        "title": {
           "en-US": "Liturgy of the Word",
           "pt-BR": "Liturgia da Palavra"
         }
@@ -1196,8 +1196,8 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
+                                  "type": "section-marker",
+                                  "title": {
                                     "en-US": "Introductory Rites",
                                     "pt-BR": "Ritos Iniciais"
                                   }
@@ -1609,8 +1609,8 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
+                                  "type": "section-marker",
+                                  "title": {
                                     "en-US": "Liturgy of the Word",
                                     "pt-BR": "Liturgia da Palavra"
                                   }
@@ -1871,8 +1871,8 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
+                                  "type": "section-marker",
+                                  "title": {
                                     "en-US": "Liturgy of the Eucharist",
                                     "pt-BR": "Liturgia Eucarística"
                                   }
@@ -3501,8 +3501,8 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
+                                  "type": "section-marker",
+                                  "title": {
                                     "en-US": "Communion Rite",
                                     "pt-BR": "Rito da Comunhão"
                                   }
@@ -3680,8 +3680,8 @@
                                   "type": "divider"
                                 },
                                 {
-                                  "type": "heading",
-                                  "text": {
+                                  "type": "section-marker",
+                                  "title": {
                                     "en-US": "Concluding Rites",
                                     "pt-BR": "Ritos Finais"
                                   }
@@ -6919,8 +6919,8 @@
                       "type": "divider"
                     },
                     {
-                      "type": "heading",
-                      "text": {
+                      "type": "section-marker",
+                      "title": {
                         "en-US": "Liturgy of the Word",
                         "pt-BR": "Liturgia da Palavra"
                       }

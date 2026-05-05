@@ -808,6 +808,9 @@ function resolveSection(
       ]
     }
 
+    case 'section-marker':
+      return [{ type: 'section-marker', title: ec.localize(section.title) }]
+
     case 'celebration-banner': {
       const obj = resolvePath(context, section.from)
       if (!obj || typeof obj !== 'object') return []
