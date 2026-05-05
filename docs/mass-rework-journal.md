@@ -470,3 +470,39 @@ pickerStyle: 'cards' extension on choice-rich-text and options.
 No code change.
 
 ---
+
+## Iteration 14 — Asperges (Sprinkling Rite) on Sundays
+
+The Penitential Act picker has three forms (A: Confiteor, B, C: Tropos)
+but the Roman Missal allows a fourth on Sundays — bênção e aspersão da
+água em memória do Batismo, especially during Easter — and we offered
+no way for the user to follow it. Added as a 4th option card on the
+existing pickerStyle: 'cards' picker.
+
+Authored inline (`scripts/add-asperges.py`) from the Brazilian Roman
+Missal (CNBB) rather than extracted from ember-extra's ordinario.json
+because the source mixes intro rubrics, multiple alternative blessing
+forms, an optional salt-blessing rite, and 10 alternative aspersion
+antiphons that don't all belong in one card. The card authors a single
+end-to-end path: priest's invitation → blessing prayer → aspersion
+antiphon → final blessing → "this replaces the Penitential Act"
+closing rubric.
+
+The two aspersion antiphons (Asperges me from Ps 50 and Vidi aquam
+from Ez 47) are wrapped in a `select on celebration.primary.season`
+with `easter` → Vidi aquam, `default` → Asperges me. So the user only
+sees the antiphon for the actual season, not both with rubric
+disclaimers — same pattern the Final Blessing already uses for the
+seasonal solemn blessings.
+
+`/simplify` pass caught: (1) the script's 21-line docstring narrating
+rationale belongs in the journal, not the file header — trimmed to
+one line; (2) the season-aware antiphon split was the cleaner pattern
+than rubric-tagged alternatives, applied; (3) one of the two opening
+rubrics (the "after the greeting, the priest stands at his chair…"
+prep rubric) was redundant once the priest's invitation prayer
+followed immediately — dropped.
+
+Library bumped to 1.5.4.
+
+---
