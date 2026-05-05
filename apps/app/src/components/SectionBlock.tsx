@@ -2,6 +2,7 @@ import { Text, View, YStack } from 'tamagui'
 import type { RenderedSection } from '@/content/types'
 import {
   CanticleBlock,
+  CelebrationBanner,
   ChoiceRichTextBlock,
   CollapsibleBlock,
   CollapsiblePrayer,
@@ -34,6 +35,16 @@ export function SectionBlock({
 
     case 'liturgical-color':
       return <LiturgicalColorBlock color={section.color} label={section.label} />
+
+    case 'celebration-banner':
+      return (
+        <CelebrationBanner
+          title={section.title}
+          color={section.color}
+          rank={section.rank}
+          cycle={section.cycle}
+        />
+      )
 
     case 'collapsible':
       return (

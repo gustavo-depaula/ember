@@ -808,12 +808,61 @@ function resolveSection(
       ]
     }
 
+    case 'celebration-banner': {
+      const obj = resolvePath(context, section.from)
+      if (!obj || typeof obj !== 'object') return []
+      const o = obj as {
+        title?: LocalizedText
+        liturgicalColor?: string
+        rank?: string
+      }
+      if (!o.title) return []
+      const color =
+        typeof o.liturgicalColor === 'string' ? o.liturgicalColor.toLowerCase() : undefined
+      const validColor =
+        color && LITURGICAL_COLOR_LABELS[color]
+          ? (color as RenderedLiturgicalColor)
+          : undefined
+      const rankLabel = o.rank && RANK_LABELS[o.rank] ? ec.localize(RANK_LABELS[o.rank]) : undefined
+      const cycleId = section.cycleFrom
+        ? (resolvePath(context, section.cycleFrom) as string | undefined)
+        : undefined
+      const cycleLabel =
+        cycleId && CYCLE_LABEL_RE.test(cycleId)
+          ? ec.localize({
+              'en-US': `Year ${cycleId}`,
+              'pt-BR': `Ano ${cycleId}`,
+            })
+          : undefined
+      return [
+        {
+          type: 'celebration-banner',
+          title: ec.localize(o.title),
+          ...(validColor ? { color: validColor } : {}),
+          ...(rankLabel ? { rank: rankLabel } : {}),
+          ...(cycleLabel ? { cycle: cycleLabel } : {}),
+        },
+      ]
+    }
+
     default:
       return []
   }
 }
 
 type RenderedLiturgicalColor = 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+
+const RANK_LABELS: Record<string, LocalizedText> = {
+  solemnity: { 'en-US': 'Solemnity', 'pt-BR': 'Solenidade' },
+  feast: { 'en-US': 'Feast', 'pt-BR': 'Festa' },
+  memorial: { 'en-US': 'Memorial', 'pt-BR': 'Memória' },
+  'optional-memorial': {
+    'en-US': 'Optional Memorial',
+    'pt-BR': 'Memória facultativa',
+  },
+}
+
+const CYCLE_LABEL_RE = /^(A|B|C|I|II)$/
 
 const LITURGICAL_COLOR_LABELS: Record<string, LocalizedText> = {
   white: { 'en-US': 'White', 'pt-BR': 'Branca' },

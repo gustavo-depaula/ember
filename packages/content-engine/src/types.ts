@@ -195,6 +195,17 @@ export type FlowSection = { lang?: string } & (
       from: string
     }
   | {
+      // Hero block at the top of the day's body: liturgical-color dot
+      // inline with a large title, plus subtle rank + cycle metadata
+      // beneath. `from` points at a celebration object (like
+      // `celebration` or `celebration.primary`) and the renderer pulls
+      // title / rank / liturgicalColor itself; cycle comes from `cycleFrom`
+      // (typically `day.cycle`).
+      type: 'celebration-banner'
+      from: string
+      cycleFrom?: string
+    }
+  | {
       // Per-slot picker over a celebration's primary + alternates formularies.
       // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
       // filters out empty slots, renders a chip toggle + the selected source's
@@ -243,6 +254,14 @@ export type RenderedSection =
       type: 'liturgical-color'
       color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
       label: BilingualText
+    }
+  | {
+      type: 'celebration-banner'
+      title: BilingualText
+      color?: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      // Localized labels — engine builds these from rank + cycle ids.
+      rank?: BilingualText
+      cycle?: BilingualText
     }
   | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
   | { type: 'subheading'; text: BilingualText }

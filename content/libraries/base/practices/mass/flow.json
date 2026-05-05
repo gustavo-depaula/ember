@@ -1153,12 +1153,9 @@
               "hideIfSingle": true,
               "body": [
                 {
-                  "type": "heading",
-                  "from": "celebration.primary.title"
-                },
-                {
-                  "type": "liturgical-color",
-                  "from": "celebration.primary.liturgicalColor"
+                  "type": "celebration-banner",
+                  "from": "celebration.primary",
+                  "cycleFrom": "day.cycle"
                 },
                 {
                   "type": "select",

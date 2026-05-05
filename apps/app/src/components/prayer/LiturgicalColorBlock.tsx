@@ -1,15 +1,6 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Text, useTheme, View, XStack } from 'tamagui'
-
-const COLOR_HEX: Record<string, string> = {
-  white: '#FFFFFF',
-  red: '#C0392B',
-  green: '#2D6A4F',
-  violet: '#5B2A86',
-  rose: '#E5A2C0',
-  black: '#1B1B1B',
-  gold: '#C8A442',
-}
+import { Text, XStack } from 'tamagui'
+import { LiturgicalColorDot } from './LiturgicalColorDot'
 
 /**
  * Small color swatch + localized label for a celebration's liturgical
@@ -23,23 +14,9 @@ export function LiturgicalColorBlock({
   color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
   label: BilingualText
 }) {
-  const theme = useTheme()
-  const fill = COLOR_HEX[color] ?? COLOR_HEX.white
-  // Ensure white/rose dots have a visible border on light themes.
-  const ringColor =
-    color === 'white' || color === 'rose' || color === 'gold'
-      ? (theme.colorSecondary?.val ?? '#666')
-      : 'transparent'
   return (
     <XStack alignItems="center" gap="$xs" marginVertical="$xs">
-      <View
-        width={12}
-        height={12}
-        borderRadius={6}
-        backgroundColor={fill}
-        borderWidth={1}
-        borderColor={ringColor}
-      />
+      <LiturgicalColorDot color={color} size={12} />
       <Text
         fontFamily="$heading"
         fontSize="$1"
