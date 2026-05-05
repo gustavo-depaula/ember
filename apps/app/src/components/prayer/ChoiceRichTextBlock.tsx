@@ -46,6 +46,28 @@ export function ChoiceRichTextBlock({
   const current = options.find((o) => o.id === selectedId) ?? options[0]
   if (!current) return null
 
+  const renderBody = (opt: Option) => (
+    <>
+      {opt.citation && (
+        <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={0.5}>
+          {opt.citation.primary}
+        </Text>
+      )}
+      {opt.introduction && (
+        <PrayerText color="$colorBurgundy" fontStyle="italic">
+          {opt.introduction.primary}
+        </PrayerText>
+      )}
+      <RichTextBody body={opt.body} />
+      {opt.conclusion && (
+        <PrayerText color="$colorBurgundy" fontStyle="italic">
+          {opt.conclusion.primary}
+        </PrayerText>
+      )}
+      {opt.response && <RichTextBody body={opt.response} />}
+    </>
+  )
+
   return (
     <YStack gap="$sm">
       <Text
@@ -57,74 +79,58 @@ export function ChoiceRichTextBlock({
       >
         {label.primary}
       </Text>
-      {options.length > 1 &&
-        (pickerStyle === 'cards' ? (
-          <YStack gap="$xs">
-            {options.map((opt) => (
-              <OptionCard
-                key={opt.id}
-                label={opt.label.primary}
-                excerpt={opt.excerpt?.primary}
-                isSelected={opt.id === current.id}
-                onPress={() => onSelect(opt.id)}
-              />
-            ))}
-          </YStack>
-        ) : (
-          <XStack gap="$xs" flexWrap="wrap">
-            {options.map((option) => {
-              const isSelected = option.id === current.id
-              return (
-                <AnimatedPressable
-                  key={option.id}
-                  onPress={() => onSelect(option.id)}
-                  accessibilityRole="tab"
-                  accessibilityLabel={option.label.primary}
-                  accessibilityState={{ selected: isSelected }}
-                >
-                  <YStack
-                    paddingHorizontal="$sm"
-                    paddingVertical="$xxs"
-                    borderRadius="$sm"
-                    borderWidth={1}
-                    borderColor={isSelected ? '$accent' : '$borderColor'}
-                    backgroundColor={isSelected ? '$accent' : 'transparent'}
+      {options.length > 1 && pickerStyle === 'cards' ? (
+        <YStack gap="$xs">
+          {options.map((opt) => (
+            <OptionCard
+              key={opt.id}
+              label={opt.label.primary}
+              excerpt={opt.excerpt?.primary}
+              isSelected={opt.id === current.id}
+              onPress={() => onSelect(opt.id)}
+            >
+              {opt.id === current.id ? renderBody(opt) : null}
+            </OptionCard>
+          ))}
+        </YStack>
+      ) : (
+        <>
+          {options.length > 1 && (
+            <XStack gap="$xs" flexWrap="wrap">
+              {options.map((opt) => {
+                const isSelected = opt.id === current.id
+                return (
+                  <AnimatedPressable
+                    key={opt.id}
+                    onPress={() => onSelect(opt.id)}
+                    accessibilityRole="tab"
+                    accessibilityLabel={opt.label.primary}
+                    accessibilityState={{ selected: isSelected }}
                   >
-                    <Text
-                      fontFamily="$heading"
-                      fontSize="$1"
-                      color={isSelected ? '$background' : '$colorSecondary'}
+                    <YStack
+                      paddingHorizontal="$sm"
+                      paddingVertical="$xxs"
+                      borderRadius="$sm"
+                      borderWidth={1}
+                      borderColor={isSelected ? '$accent' : '$borderColor'}
+                      backgroundColor={isSelected ? '$accent' : 'transparent'}
                     >
-                      {option.label.primary}
-                    </Text>
-                  </YStack>
-                </AnimatedPressable>
-              )
-            })}
-          </XStack>
-        ))}
-
-      {current.citation && (
-        <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={0.5}>
-          {current.citation.primary}
-        </Text>
+                      <Text
+                        fontFamily="$heading"
+                        fontSize="$1"
+                        color={isSelected ? '$background' : '$colorSecondary'}
+                      >
+                        {opt.label.primary}
+                      </Text>
+                    </YStack>
+                  </AnimatedPressable>
+                )
+              })}
+            </XStack>
+          )}
+          {renderBody(current)}
+        </>
       )}
-
-      {current.introduction && (
-        <PrayerText color="$colorBurgundy" fontStyle="italic">
-          {current.introduction.primary}
-        </PrayerText>
-      )}
-
-      <RichTextBody body={current.body} />
-
-      {current.conclusion && (
-        <PrayerText color="$colorBurgundy" fontStyle="italic">
-          {current.conclusion.primary}
-        </PrayerText>
-      )}
-
-      {current.response && <RichTextBody body={current.response} />}
     </YStack>
   )
 }
