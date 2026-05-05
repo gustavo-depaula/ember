@@ -1,20 +1,40 @@
 {
-	"sections": [
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Gospel of the Day",
-				"pt-BR": "Evangelho do Dia"
-			}
-		},
-		{
-			"type": "proper",
-			"slot": "gospel",
-			"form": "of",
-			"description": {
-				"en-US": "Today's Gospel",
-				"pt-BR": "Evangelho de Hoje"
-			}
-		}
-	]
+  "load": [
+    {
+      "as": "day",
+      "source": "mass-of",
+      "calendar": "of"
+    }
+  ],
+  "sections": [
+    {
+      "type": "select",
+      "from": "day.celebrations",
+      "as": "celebration",
+      "idFrom": "id",
+      "labelFrom": "title",
+      "label": {
+        "en-US": "Liturgy",
+        "pt-BR": "Liturgia"
+      },
+      "hideIfSingle": true,
+      "body": [
+        {
+          "type": "heading",
+          "text": {
+            "en-US": "Gospel of the Day",
+            "pt-BR": "Evangelho do Dia"
+          }
+        },
+        {
+          "type": "choice-rich-text",
+          "label": {
+            "en-US": "Gospel",
+            "pt-BR": "Evangelho"
+          },
+          "slot": "readings.default.gospel"
+        }
+      ]
+    }
+  ]
 }
