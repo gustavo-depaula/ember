@@ -2,6 +2,8 @@ import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
 import { Platform } from 'react-native'
 
+import { adaptNativeDb } from '@/lib/db-shared/native-adapter'
+
 import { createEventsTable, replayAll } from './events'
 import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
@@ -28,12 +30,20 @@ export function useDbInit() {
 
     async function init() {
       try {
-        const _db = await openDatabaseAsync('ember.db')
-        setDb(_db)
-        await _db.execAsync(initialMigration)
+        if (Platform.OS === 'web') {
+          // Web: leader-elect via Web Locks; only the leader opens the OPFS-backed
+          // SQLite file. Followers proxy SQL through BroadcastChannel.
+          const { initEmberDb } = await import('@/lib/db-shared/manager')
+          const proxy = await initEmberDb()
+          setDb(proxy)
+        } else {
+          const rawDb = await openDatabaseAsync('ember.db')
+          await rawDb.execAsync(initialMigration)
+          const adapted = adaptNativeDb(rawDb)
+          await createEventsTable(adapted)
+          setDb(adapted)
+        }
 
-        // Event sourcing: create events table + replay into memory
-        await createEventsTable(_db)
         await replayAll()
 
         if (!cancelled) dispatch({ type: 'done' })

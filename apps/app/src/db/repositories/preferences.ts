@@ -1,3 +1,5 @@
+import { broadcastChange } from '@/lib/db-shared/manager'
+
 import { getDb } from '../client'
 
 export async function getPreference(key: string): Promise<string | undefined> {
@@ -5,7 +7,7 @@ export async function getPreference(key: string): Promise<string | undefined> {
     'SELECT value FROM preferences WHERE key = ?',
     [key],
   )
-  return row?.value
+  return row?.value ?? undefined
 }
 
 export async function setPreference(key: string, value: string): Promise<void> {
@@ -13,10 +15,12 @@ export async function setPreference(key: string, value: string): Promise<void> {
     'INSERT INTO preferences (key, value) VALUES (?, ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value',
     [key, value],
   )
+  broadcastChange({ kind: 'invalidate', tags: ['preferences'] })
 }
 
 export async function removePreference(key: string): Promise<void> {
   await getDb().runAsync('DELETE FROM preferences WHERE key = ?', [key])
+  broadcastChange({ kind: 'invalidate', tags: ['preferences'] })
 }
 
 export async function getAllPreferences(): Promise<Record<string, string>> {
