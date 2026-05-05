@@ -241,3 +241,32 @@ BilingualText — no language logic.
 **Bumped to library 1.4.6.**
 
 ---
+
+## Iteration 4 — Section-marker primitive
+
+**Audit observation.** Reading the page top-to-bottom, the four major
+divisions of the Mass (Initial Rites, Liturgy of the Word, Liturgy of
+the Eucharist, Concluding Rites) had the same visual weight as
+sub-section headings like Glória, Credo, Antífona da Comunhão. No
+typographic anchor for the macro structure.
+
+**Plan.** A new `section-marker` primitive. Centered uppercase title
+flanked by horizontal rules. Generous vertical margin. Sibling to
+`heading`, not a `level` prop on it — the renders diverge enough that
+forcing every consumer through a switch in SectionBlock is uglier than
+two parallel cases.
+
+**Implementation.** Engine resolver is one line. Renderer is ~25 lines
+of Tamagui (XStack with two `flex={1}` View dividers + a centered
+`flexShrink={0}` text). One inline Python rewrite promoted 14 heading
+sections (the major headings appear in three views — Missa Completa,
+Próprios, Leituras — hence 14 not 4).
+
+**Simplify pass caught a real bug.** I'd accidentally added the
+`case 'section-marker'` resolver case twice in `engine.ts` (the first
+one was reached, the second was unreachable). The reuse-review agent
+spotted it. Deduped.
+
+**Bumped to library 1.4.7.**
+
+---
