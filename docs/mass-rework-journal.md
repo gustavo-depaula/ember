@@ -206,3 +206,38 @@ instead. Functional setter `setOpen((o) => !o)` for the toggle.
 **Bumped to library 1.4.5.**
 
 ---
+
+## Iteration 3 — Celebration banner
+
+**Audit observation.** The day's identity (title + liturgical color)
+rendered as two stacked elements: a small heading "Quinta semana
+Terça-feira", then a 12px swatch "BRANCA" line, then the Visualização
+chip. Doesn't read like a missal page; reads like a metadata stack.
+
+**Plan.** A `celebration-banner` primitive that fuses title + color
++ rank + cycle into one missal-style block: 14px color dot inline
+with a large burgundy title, plus a small uppercase subtitle line
+("SOLENIDADE · ANO B").
+
+**Implementation.** New flow primitive + RenderedSection variant.
+Engine resolver reads `celebration.primary` (title + liturgicalColor
++ rank) and `day.cycle`, builds a localized subtitle (Solemnity /
+Feast / Memorial / Optional Memorial in en-US + pt-BR; "Year A/B/C"
+or "I/II"). New `CelebrationBanner` renderer just paints the
+BilingualText — no language logic.
+
+**Simplify pass findings (applied).**
+
+- The 7-color hex map + white/rose/gold ring rule was duplicated
+  between `LiturgicalColorBlock` and the banner. Extracted shared
+  `LiturgicalColorDot` component (size prop, default 12). Both call
+  sites now render via the dot.
+- `RANK_LABEL` was hardcoded pt-BR in the renderer — moved to the
+  engine alongside `LITURGICAL_COLOR_LABELS`, returning BilingualText.
+  Renderer is now language-agnostic.
+- Cycle regex tightened from `/^(A|B|C|I{1,3})$/` (over-accepted
+  impossible "III") to `/^(A|B|C|I|II)$/`.
+
+**Bumped to library 1.4.6.**
+
+---
