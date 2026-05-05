@@ -53,7 +53,7 @@ export function OptionCard({
         >
           {label}
         </Text>
-        {excerpt && !isSelected && (
+        {excerpt && (
           <Text
             fontFamily="$body"
             fontSize="$1"
