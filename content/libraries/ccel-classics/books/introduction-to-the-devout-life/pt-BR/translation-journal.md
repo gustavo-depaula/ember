@@ -133,6 +133,51 @@ Quando o texto se dirige a Deus, à Virgem ou aos santos em oração: usar **vó
 | Palma Christi | *Palma Christi* | mantido em latim conforme original |
 | Mary Magdalene's Day | dia de Santa Madalena | |
 | protest (formal) | protestação | Termo técnico salesiano |
+| Heart of your heart | Coração do teu coração | Imagem agostiniana |
+| Heavenly Bridegroom | Esposo Celeste | (já listado, mantém) |
+| pelican of the wilderness | pelicano do ermo | Imagem do *Adoro Te devote* |
+| Bride / Bridegroom (Canticles) | Esposa / Esposo | Cânticos dos Cânticos |
+| ejaculation / ejaculatory prayer | jaculatória / oração jaculatória | |
+| sunflower / *tourne-soleil* | girassol | |
+| pansies / *pensées* | amores-perfeitos | Jogo de palavras EN/FR perdido em pt — nota explicativa CCEL descartada |
+| Wounds / Sacred Wounds | Chagas / Sagradas Chagas | |
+| Wounded Side | Lado Ferido | |
+| Mass / Holy Sacrifice | Santo Sacrifício / Santa Missa | |
+| Hours (canonical) | Horas | |
+| Vespers | Vésperas | |
+| confraternities | confrarias | |
+| Peter Faber | Pedro Fabro | Companheiro de Santo Inácio (forma pt-BR) |
+| Francis Borgia / Duke of Candia | Francisco de Bórgia / duque de Gandia | |
+| S. Anthony | Santo Antão | |
+| S. Catherine of Genoa | Santa Catarina de Gênova | |
+| S. Mary of Egypt | Santa Maria Egipcíaca | |
+| S. Simeon Stylites | São Simeão Estilita | |
+| S. Anselm of Canterbury | Santo Anselmo de Cantuária | |
+| S. Fulgentius of Ruspe | São Fulgêncio de Ruspe | |
+| Theodoric, King of the Goths | Teodorico, rei dos Godos | |
+| Constantine the Great | Constantino, o Grande | |
+| Mithridates, King of Pontus / mithridate | Mitrídates, rei do Ponto / *mitridato* | Veneno-antídoto da antiguidade |
+| local representation / interior picture | representação local / quadro interior | (preparação para a meditação) |
+| oblation | oblação | |
+| colloquies | colóquios | (na meditação) |
+| Denis the Carthusian | Dionísio, o Cartuxo | |
+| Blosius | Blósio | |
+| Stella | Estela | |
+| St. Bonaventura | São Boaventura | |
+| Gerson | Gerson | |
+| St. Francis Xavier / Borgia / Assisi | (cf. uso individual) | |
+| Elzear, Count of Arian-en-Provence / Delphine | Elzear, conde de Arian-en-Provence / Delfina | |
+| St. Frances | Santa Francisca | (Romana) |
+| Proba (devout) | Proba (devota) | Discípula de Santo Agostinho |
+| Greg. Nazianzen / Maximus (usurper) | Gregório Nazianzeno / Máximo (usurpador) | |
+| Just Judge | Justo Juiz | |
+| spiritual physician | médico espiritual | |
+| spiritual collation | colação espiritual | (refeição leve da noite) |
+| Sun of all spiritual exercises | Sol de todos os exercícios espirituais | (Eucaristia) |
+| Living Flesh | Carne Vivente | |
+| Tree of Life | Árvore da Vida | |
+| Bread of Life / Bread of Sweetness | Pão da Vida / Pão de Doçura | |
+| Beauty, Goodness, Purity | Beleza, Bondade, Pureza | (Eucaristia, fim de cap. xxi) |
 
 ## Decisões de tradução
 
@@ -245,3 +290,31 @@ A tradução irmã do *Tratado da Verdadeira Devoção* (Montfort) em pt-BR usa 
 
 - "S. Paula" → "Santa Paula" (a romana, discípula de São Jerônimo).
 - "bitter almond tree… by grafting the juice of the latter upon it" — imagem agrícola salesiana preservada.
+
+### part-ii-chapter-xii.md
+
+- "S. Catherine of Sienna" → "Santa Catarina de Sena" (consistente com Parte I).
+- "Elzear, Count of Arian-en-Provence" / "Delphine" → "Elzear, conde de Arian-en-Provence" / "Delfina" (preservando topônimo provençal e adaptando o nome próprio feminino).
+- "*Sic Christus dilexit nos*" e o trecho do *Adoro Te devote* preservados em latim conforme o original.
+
+### part-ii-chapter-xiii.md
+
+- Notas CCEL `[^3]` (citação de Thomas Moore sobre o girassol) e `[^4]` (jogo de palavras inglês *pensées/pansies*, citando Cawdray 1609 e o prefácio da KJV 1611) descartadas — claramente apparatus editorial inglês sem sentido em pt-BR. Notas autorais [^1] (rhetorical) e [^2] (Aosta) preservadas.
+- "Francis Borgia, Duke of Candia" → "Francisco de Bórgia, duque de Gandia" (forma pt-BR; "Candia" é grafia inglesa antiquada para Gandia, na Espanha).
+- "S. Frances" → "Santa Francisca" (Romana).
+- "Maximus" (usurpador da Sé de Constantinopla) preservado.
+- O hino devocional inserido em verso preservado em forma de parágrafo, conforme o original.
+
+### part-ii-chapter-xviii.md
+
+- Nota CCEL `[^3]` (comentário sobre divergência KJV vs Vulgata) descartada, mas a citação latina autoral *Anima mea liquefacta est, ut locutus est* foi incorporada inline ao texto, preservando a citação que São Francisco de fato fez. Notas remanescentes renumeradas ([^4] → [^3]).
+
+### part-ii-chapter-xx.md
+
+- "Mithridates / mithridate" → "Mitrídates / *mitridato*" (preserva referência clássica do antídoto-veneno do rei do Ponto).
+- Citação do salmo «mais doce do que o mel e o favo de mel» (Sl 19,10) preservada como aposto entre parênteses, conforme o original.
+
+### part-ii-chapter-xxi.md
+
+- "Lord, I am not worthy" → «Senhor, eu não sou digna» (forma feminina, dirigindo-se a Filoteia).
+- "our mountain hares turn white in winter" — imagem alpina salesiana preservada (o santo era saboiano, ver cap. xvi).
