@@ -25,14 +25,15 @@
     "@expo-google-fonts/merriweather": "^0.4.2",
     "@expo-google-fonts/pinyon-script": "^0.4.1",
     "@expo-google-fonts/source-serif-4": "^0.4.1",
+    "@expo/cli": "^55.0.28",
     "@expo/dom-webview": "~55.0.5",
     "@expo/metro-runtime": "~55.0.10",
-    "@react-native-community/datetimepicker": "^9.1.0",
+    "@react-native-community/datetimepicker": "^8.6.0",
     "@tamagui/babel-plugin": "2.0.0-rc.31",
     "@tamagui/config": "2.0.0-rc.31",
     "@tamagui/core": "2.0.0-rc.31",
     "@tanstack/react-query": "^5.95.2",
-    "expo": "~55.0.19",
+    "expo": "~55.0.20",
     "expo-constants": "~55.0.15",
     "expo-document-picker": "^55.0.13",
     "expo-file-system": "^55.0.17",
@@ -66,14 +67,14 @@
     "react-native-screens": "~4.23.0",
     "react-native-svg": "15.15.3",
     "react-native-web": "^0.21.0",
-    "react-native-webview": "^13.16.1",
+    "react-native-webview": "^13.16.0",
     "react-native-worklets": "0.7",
     "react-native-zoom-toolkit": "^5.0.1",
     "tamagui": "2.0.0-rc.31",
     "zustand": "^5.0.12"
   },
   "devDependencies": {
-    "expo-dev-client": "^55.0.30"
+    "expo-dev-client": "^55.0.32"
   },
   "expo-router": {
     "root": "src/app"

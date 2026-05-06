@@ -80,7 +80,8 @@
       "expo-router",
       "expo-sqlite",
       "expo-font",
-      "expo-notifications"
+      "expo-notifications",
+      "@react-native-community/datetimepicker"
     ],
     "extra": {
       "router": {},
