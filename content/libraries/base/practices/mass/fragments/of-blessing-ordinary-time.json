@@ -1,0 +1,198 @@
+{
+  "fragments": {
+    "of-blessing-ordinary-time": [
+      {
+        "type": "options",
+        "label": {
+          "pt-BR": "Bênção Final",
+          "en-US": "Final Blessing"
+        },
+        "options": [
+          {
+            "id": "of-blessing-simple",
+            "label": {
+              "pt-BR": "Bênção simples",
+              "en-US": "Simple Blessing"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God bless you, the Father, and the Son, ✠ and the Holy Spirit.",
+                  "la": "Benedícat vos omnípotens Deus, Pater, et Fílius, ✠ et Spíritus Sanctus.",
+                  "pt-BR": "Abençoe-vos Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-comum-i",
+            "label": {
+              "pt-BR": "Tempo Comum, I",
+              "en-US": "Ordinary Time, I"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus vos abençoe e vos guarde."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ele vos mostre a sua face e se compadeça de vós."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Volva para vós o seu olhar e vos dê a sua paz."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-virgem",
+            "label": {
+              "pt-BR": "Bem-aventurada Virgem Maria",
+              "en-US": "Blessed Virgin Mary"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "O Deus de bondade que, pelo Filho da Virgem Maria, quis salvar o gênero humano vos enriqueça com sua bênção."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Seja-vos dado sentir sempre e por toda parte a proteção da Virgem, por quem recebestes o autor da vida."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E vós, reunidos hoje para celebrar com fervor sua solenidade, possais colher a alegria espiritual e o prêmio eterno."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-popl-1",
+            "label": {
+              "pt-BR": "Forma simples (1)",
+              "en-US": "Simple form (1)"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ó Deus, acompanhai sempre o vosso povo e concedei nesta vida a consolação aos que chamais a tomar parte dos bens eternos. Por Cristo, nosso Senhor.",
+                  "en-US": "O God, accompany your people always and grant in this life consolation to those whom you call to share in the eternal goods. Through Christ our Lord."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "Amém.",
+                  "en-US": "Amen.",
+                  "la": "Amen."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

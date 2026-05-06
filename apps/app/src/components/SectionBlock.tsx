@@ -2,16 +2,22 @@ import { Text, View, YStack } from 'tamagui'
 import type { RenderedSection } from '@/content/types'
 import {
   CanticleBlock,
+  CelebrationBanner,
+  ChoiceRichTextBlock,
+  CollapsibleBlock,
   CollapsiblePrayer,
   GalleryBlock,
   HolyCardBlock,
   HymnBlock,
   ImageBlock,
+  LiturgicalColorBlock,
+  LiturgicalColorProvider,
   LiturgicalPrayerBlock,
   OptionsBlock,
   PrayerTextBlock,
   ProseBlock,
   ResponseBlock,
+  SectionMarker,
   SelectBlock,
 } from './prayer'
 import { RubricLabel } from './RubricLabel'
@@ -28,6 +34,58 @@ export function SectionBlock({
   switch (section.type) {
     case 'rubric':
       return <RubricLabel>{section.label.primary}</RubricLabel>
+
+    case 'liturgical-color':
+      return <LiturgicalColorBlock color={section.color} label={section.label} />
+
+    case 'liturgical-color-scope':
+      return (
+        <LiturgicalColorProvider color={section.color}>
+          {section.sections.map((s, i) =>
+            renderSection ? (
+              renderSection(s, i)
+            ) : (
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                onSelectOverride={onSelectOverride}
+              />
+            ),
+          )}
+        </LiturgicalColorProvider>
+      )
+
+    case 'section-marker':
+      return <SectionMarker title={section.title} color={section.color} />
+
+    case 'celebration-banner':
+      return (
+        <CelebrationBanner
+          title={section.title}
+          color={section.color}
+          rank={section.rank}
+          cycle={section.cycle}
+        />
+      )
+
+    case 'collapsible':
+      return (
+        <CollapsibleBlock
+          title={section.title}
+          defaultOpen={section.defaultOpen}
+          sections={section.sections}
+          renderSection={
+            renderSection ??
+            ((s, i) => (
+              <SectionBlock
+                key={`${s.type}-${i}`}
+                section={s}
+                onSelectOverride={onSelectOverride}
+              />
+            ))
+          }
+        />
+      )
 
     case 'prayer':
       if (section.speaker) {
@@ -114,7 +172,12 @@ export function SectionBlock({
       return (
         <OptionsBlock
           label={section.label.primary}
-          options={section.options.map((o) => ({ ...o, label: o.label.primary }))}
+          pickerStyle={section.pickerStyle}
+          options={section.options.map((o) => ({
+            ...o,
+            label: o.label.primary,
+            excerpt: o.excerpt?.primary,
+          }))}
           renderSection={
             renderSection ??
             ((s, i) => (
@@ -145,6 +208,17 @@ export function SectionBlock({
               />
             ))
           }
+        />
+      )
+
+    case 'choice-rich-text':
+      return (
+        <ChoiceRichTextBlock
+          label={section.label}
+          selectedId={section.selectedId}
+          options={section.options}
+          pickerStyle={section.pickerStyle}
+          onSelect={(nextId) => onSelectOverride?.(section.overrideKey, nextId)}
         />
       )
 

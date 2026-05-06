@@ -313,8 +313,9 @@ export function PracticeFlow({
   const cccLoading = cccQueries.some((r) => r.isLoading)
 
   const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
+  const isInitialResolve = isResolvingFlow && sections.length === 0
   const isDynamicLoading =
-    isResolvingFlow || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
+    isInitialResolve || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')

@@ -1,0 +1,805 @@
+{
+  "fragments": {
+    "of-blessing-default": [
+      {
+        "type": "options",
+        "label": {
+          "pt-BR": "Bênção Final",
+          "en-US": "Final Blessing"
+        },
+        "options": [
+          {
+            "id": "of-blessing-simple",
+            "label": {
+              "pt-BR": "Bênção simples",
+              "en-US": "Simple Blessing"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God bless you, the Father, and the Son, ✠ and the Holy Spirit.",
+                  "la": "Benedícat vos omnípotens Deus, Pater, et Fílius, ✠ et Spíritus Sanctus.",
+                  "pt-BR": "Abençoe-vos Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-advento",
+            "label": {
+              "pt-BR": "Advento",
+              "en-US": "Advent"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "O Deus onipotente e misericordioso vos santifique com o esplendor do advento do seu Filho, em cuja vinda credes e cuja volta esperais, e derrame sobre vós as suas bênçãos."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Durante esta vida, Deus vos torne firmes na fé, alegres na esperança e solícitos na caridade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E vós, que vos alegrais com fé e devoção pela vinda, segundo a carne, do nosso Redentor, sejais recompensados com o prêmio da vida eterna, quando ele vier de novo na majestade da sua glória."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-popl-1",
+            "label": {
+              "pt-BR": "Forma simples (1)",
+              "en-US": "Simple form (1)"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ó Deus, acompanhai sempre o vosso povo e concedei nesta vida a consolação aos que chamais a tomar parte dos bens eternos. Por Cristo, nosso Senhor.",
+                  "en-US": "O God, accompany your people always and grant in this life consolation to those whom you call to share in the eternal goods. Through Christ our Lord."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "Amém.",
+                  "en-US": "Amen.",
+                  "la": "Amen."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-natal",
+            "label": {
+              "pt-BR": "Natal",
+              "en-US": "Nativity"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "O Deus de infinita bondade, que, pela encarnação do seu Filho, dissipou as trevas do mundo e, com seu glorioso nascimento, inundou de luz esta noite santíssima ( este dia santíssimo ) expulse dos vossos corações as trevas dos vícios e vos ilumine com a luz das virtudes."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Aquele que anunciou aos pastores pelo anjo a grande alegria do nascimento do Salvador, faça transbordar de alegria vossos corações e vos torne mensageiros do seu Evangelho."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Aquele que, pela encarnação de seu Filho, uniu a terra ao céu, vos cumule com os dons da sua paz e da sua benevolência e vos torne participantes da Igreja celeste."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-epifania",
+            "label": {
+              "pt-BR": "Epifania",
+              "en-US": "Epiphany"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus, que vos chamou das trevas à sua luz admirável, derrame benigno sobre vós as suas bênçãos e confirme os vossos corações na fé, na esperança e na caridade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Porque seguis confiantes o Cristo, que hoje se manifestou ao mundo como luz que ilumina as trevas, Deus vos torne também uma luz para vossos irmãos e irmãs."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Terminada a vossa peregrinação, possais chegar ao Cristo Senhor, luz da luz,"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "que os magos procuravam guiados pela estrela e com grande alegria encontraram."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-virgem",
+            "label": {
+              "pt-BR": "Bem-aventurada Virgem Maria",
+              "en-US": "Blessed Virgin Mary"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "O Deus de bondade que, pelo Filho da Virgem Maria, quis salvar o gênero humano vos enriqueça com sua bênção."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Seja-vos dado sentir sempre e por toda parte a proteção da Virgem, por quem recebestes o autor da vida."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E vós, reunidos hoje para celebrar com fervor sua solenidade, possais colher a alegria espiritual e o prêmio eterno."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-paixao",
+            "label": {
+              "pt-BR": "Paixão / Quaresma",
+              "en-US": "Passion / Lent"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus, o Pai de misericórdia, que vos deu um exemplo de amor na paixão do seu Filho, vos conceda, pelo vosso serviço a Deus e ao próximo, o dom inefável da sua bênção."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus que, pela morte do Filho na cruz, nos livrou da morte eterna, vos conduza à vida que não tem fim."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus torne participantes da ressurreição de Cristo a vós que seguistes o seu testemunho de humildade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-popl-quaresma",
+            "label": {
+              "pt-BR": "Forma quaresmal (2)",
+              "en-US": "Lenten form (2)"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Concedei, Senhor, ao povo cristão conhecer a fé que professa e amar o dom celestial que celebra. Por Cristo, nosso Senhor.",
+                  "en-US": "Grant, O Lord, that your Christian people may know the faith they profess and love the heavenly gift they celebrate. Through Christ our Lord."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "Amém.",
+                  "en-US": "Amen.",
+                  "la": "Amen."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-tempo-pascal",
+            "label": {
+              "pt-BR": "Tempo Pascal",
+              "en-US": "Easter Time"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus que, pela ressurreição do seu Filho único, vos deu a graça da redenção e vos tornou seus filhos, vos conceda a alegria de sua bênção."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus que, pela redenção de Cristo, vos concedeu o dom da verdadeira liberdade,"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "por sua misericórdia vos torne participantes da herança eterna."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E, vivendo agora retamente, possais no céu unir-vos a Deus, para o qual, pela fé, já ressuscitastes no Batismo."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-ascensao",
+            "label": {
+              "pt-BR": "Ascensão",
+              "en-US": "Ascension"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Abençoe-vos o Deus todo-poderoso, cujo Filho Unigênito hoje subiu ao mais alto dos céus, e vos abriu o caminho para onde ele mesmo está."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus vos conceda que o Cristo, assim como se manifestou aos discípulos após a ressurreição, vos apareça em sua eterna benevolência, quando vier para o julgamento."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E vós, crendo que o Cristo está sentado com o Pai em sua glória, possais experimentar, conforme sua promessa, a alegria de permanecer com ele até o fim dos tempos."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-pentecostes",
+            "label": {
+              "pt-BR": "Pentecostes",
+              "en-US": "Pentecost"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus, o Pai das luzes, que iluminou os corações dos discípulos, derramando sobre eles o Espírito Santo, vos conceda a alegria de sua bênção e a plenitude dos dons do mesmo Espírito."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Aquele fogo, descido de modo admirável sobre os discípulos1 por seu poder purifique os vossos corações de todo mal e vos ilumine com o esplendor da sua luz."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Aquele que na proclamação de uma só fé reuniu a diversidade das línguas vos faça perseverar na mesma fé e por ela passar da esperança à plena visão."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "9-14 Tempo Comum 9. Tempo Comum, I"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus vos abençoe e vos guarde."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ele vos mostre a sua face e se compadeça de vós."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Volva para vós o seu olhar e vos dê a sua paz."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-comum-i",
+            "label": {
+              "pt-BR": "Tempo Comum, I",
+              "en-US": "Ordinary Time, I"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus vos abençoe e vos guarde."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ele vos mostre a sua face e se compadeça de vós."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Volva para vós o seu olhar e vos dê a sua paz."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

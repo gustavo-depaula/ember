@@ -129,7 +129,12 @@ export function ProperSlot({
   description: BilingualText
 }) {
   const { t } = useTranslation()
-  const { data: proper, isLoading, isError, refetch } = useProperForSlot(slot, form)
+  // OF Mass migrated to mass-of/choice-rich-text — only EF still consumes
+  // opaque `proper` markers. Render nothing if a stale 'of' marker survives.
+  const efForm = form === 'ef' ? 'ef' : undefined
+  const efQuery = useProperForSlot(slot, efForm ?? 'ef')
+  if (form !== 'ef') return null
+  const { data: proper, isLoading, isError, refetch } = efQuery
 
   if (isLoading) {
     return (

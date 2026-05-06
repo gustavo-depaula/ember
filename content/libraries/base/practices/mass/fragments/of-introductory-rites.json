@@ -1,0 +1,551 @@
+{
+  "fragments": {
+    "of-introductory-rites": [
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Introductory Rites",
+          "pt-BR": "Ritos Iniciais"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "All stand. The Priest and the faithful sign themselves with the Sign of the Cross.",
+          "pt-BR": "Todos de pé. O sacerdote e os fiéis fazem o Sinal da Cruz."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "In the name of the Father, and of the Son, and of the Holy Spirit.",
+          "la": "In nómine Patris, et Fílii, et Spíritus Sancti.",
+          "pt-BR": "Em nome do Pai e do Filho e do Espírito Santo."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Facing the people and extending his hands, the Priest greets the people.",
+          "pt-BR": "Voltado para o povo, abrindo os braços, o sacerdote saúda o povo."
+        }
+      },
+      {
+        "type": "options",
+        "label": {
+          "en-US": "Greeting",
+          "pt-BR": "Saudação"
+        },
+        "options": [
+          {
+            "id": "of-greeting-a",
+            "label": {
+              "en-US": "Form A",
+              "pt-BR": "Forma A"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all.",
+                  "la": "Grátia Dómini nostri Jesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis.",
+                  "pt-BR": "A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo estejam convosco."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "And with your spirit.",
+                  "la": "Et cum spíritu tuo.",
+                  "pt-BR": "Ele está no meio de nós."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-greeting-b",
+            "label": {
+              "en-US": "Form B",
+              "pt-BR": "Forma B"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+                  "la": "Grátia vobis et pax a Deo Patre nostro et Dómino Jesu Christo.",
+                  "pt-BR": "A graça e a paz de Deus nosso Pai e do Senhor Jesus Cristo estejam convosco."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "And with your spirit.",
+                  "la": "Et cum spíritu tuo.",
+                  "pt-BR": "Ele está no meio de nós."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-greeting-c",
+            "label": {
+              "en-US": "Form C",
+              "pt-BR": "Forma C"
+            },
+            "sections": [
+              {
+                "type": "call",
+                "ref": "of-lord-be-with-you"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Penitential Act follows.",
+          "pt-BR": "Segue-se o ato penitencial."
+        }
+      },
+      {
+        "type": "options",
+        "label": {
+          "en-US": "Penitential Act",
+          "pt-BR": "Ato Penitencial"
+        },
+        "options": [
+          {
+            "id": "of-penit-a",
+            "label": {
+              "en-US": "Form A: Confiteor",
+              "pt-BR": "Forma A: Confiteor"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "all",
+                "inline": {
+                  "en-US": "I confess to almighty God and to you, my brothers and sisters, that I have greatly sinned, in my thoughts and in my words, in what I have done and in what I have failed to do, through my fault, through my fault, through my most grievous fault; therefore I ask blessed Mary ever-Virgin, all the Angels and Saints, and you, my brothers and sisters, to pray for me to the Lord our God.",
+                  "la": "Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Ángelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.",
+                  "pt-BR": "Confesso a Deus todo-poderoso e a vós, irmãos e irmãs, que pequei muitas vezes por pensamentos e palavras, atos e omissões, por minha culpa, minha culpa, minha tão grande culpa. E peço à Virgem Maria, aos Anjos e Santos e a vós, irmãos e irmãs, que rogueis por mim a Deus, nosso Senhor."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life.",
+                  "la": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+                  "pt-BR": "Deus todo-poderoso tenha compaixão de nós, perdoe os nossos pecados e nos conduza à vida eterna."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-penit-b",
+            "label": {
+              "en-US": "Form B",
+              "pt-BR": "Forma B"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Have mercy on us, O Lord.",
+                  "la": "Miserére nostri, Dómine.",
+                  "pt-BR": "Senhor, tende piedade de nós."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "For we have sinned against you.",
+                  "la": "Quia peccávimus tibi.",
+                  "pt-BR": "Porque pecamos contra vós."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Show us, O Lord, your mercy.",
+                  "la": "Osténde nobis, Dómine, misericórdiam tuam.",
+                  "pt-BR": "Mostrai-nos, Senhor, a vossa misericórdia."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "And grant us your salvation.",
+                  "la": "Et salutáre tuum da nobis.",
+                  "pt-BR": "E dai-nos a vossa salvação."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life.",
+                  "la": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+                  "pt-BR": "Deus todo-poderoso tenha compaixão de nós, perdoe os nossos pecados e nos conduza à vida eterna."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-penit-c",
+            "label": {
+              "en-US": "Form C: Tropes",
+              "pt-BR": "Forma C: Tropos"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "You were sent to heal the contrite of heart: Lord, have mercy.",
+                  "la": "Qui missus es sanáre contrítos corde: Kýrie, eléison.",
+                  "pt-BR": "Senhor, que viestes para reconciliar-nos: Senhor, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Lord, have mercy.",
+                  "la": "Kýrie, eléison.",
+                  "pt-BR": "Senhor, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "You are seated at the right hand of the Father to intercede for us: Christ, have mercy.",
+                  "la": "Qui ad déxteram Patris sedes, ad interpellándum pro nobis: Christe, eléison.",
+                  "pt-BR": "Senhor, que estais sentado à direita do Pai para interceder por nós: Cristo, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Christ, have mercy.",
+                  "la": "Christe, eléison.",
+                  "pt-BR": "Cristo, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "You will come again to judge the living and the dead: Lord, have mercy.",
+                  "la": "Qui íterum ventúrus es judicáre vivos et mórtuos: Kýrie, eléison.",
+                  "pt-BR": "Senhor, que vireis de novo para julgar os vivos e os mortos: Senhor, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Lord, have mercy.",
+                  "la": "Kýrie, eléison.",
+                  "pt-BR": "Senhor, tende piedade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life.",
+                  "la": "Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.",
+                  "pt-BR": "Deus todo-poderoso tenha compaixão de nós, perdoe os nossos pecados e nos conduza à vida eterna."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-asperges",
+            "label": {
+              "en-US": "Sprinkling Rite (Sundays)",
+              "pt-BR": "Aspersão da Água (Domingos)"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "On Sundays, especially during Easter time, the blessing and sprinkling of water in memory of Baptism may replace the Penitential Act.",
+                  "pt-BR": "Aos domingos, sobretudo no Tempo Pascal, pode-se fazer a bênção e a aspersão da água em memória do Batismo, em vez do Ato Penitencial."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Meus irmãos e minhas irmãs, invoquemos o Senhor nosso Deus, para que abençoe esta água que vai ser aspergida sobre nós, recordando o nosso Batismo. Que ele se digne ajudar-nos, para permanecermos fiéis ao Espírito que recebemos."
+                }
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "pt-BR": "Após um momento de silêncio, prossegue de mãos unidas:"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus eterno e todo-poderoso, pela água, fonte de vida e princípio de purificação, quisestes lavar-nos do pecado e dar-nos o prêmio da vida eterna. Neste dia que vos é consagrado, nós vos pedimos que vos digneis abençoar ✠ esta água, para que ela seja sinal da vossa proteção. Renovai em nós a fonte viva da vossa graça, e libertai-nos por ela de todo mal do espírito e do corpo, para que possamos nos aproximar de vós com o coração puro e receber dignamente a vossa salvação. Por Cristo, nosso Senhor."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "pt-BR": "Tomando então o aspersório, o sacerdote asperge a si mesmo, os ministros, em seguida o clero e o povo, percorrendo a igreja, se for oportuno. Enquanto isso, entoa-se um dos cantos seguintes."
+                }
+              },
+              {
+                "type": "subheading",
+                "text": {
+                  "pt-BR": "Antífona da Aspersão"
+                }
+              },
+              {
+                "type": "select",
+                "on": "celebration.primary.season",
+                "default": "default",
+                "options": [
+                  {
+                    "id": "easter",
+                    "label": {
+                      "pt-BR": "Tempo Pascal"
+                    },
+                    "sections": [
+                      {
+                        "type": "rubric",
+                        "text": {
+                          "pt-BR": "Cf. Ez 47, 1-2.9 (Vidi aquam)"
+                        }
+                      },
+                      {
+                        "type": "prayer",
+                        "speaker": "all",
+                        "inline": {
+                          "pt-BR": "Vi a água saindo do lado direito do templo, aleluia! E todos a quem chega esta água recebem a salvação e proclamam: aleluia, aleluia!"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "default",
+                    "label": {
+                      "pt-BR": "Padrão"
+                    },
+                    "sections": [
+                      {
+                        "type": "rubric",
+                        "text": {
+                          "pt-BR": "Cf. Sl 50, 9 (Asperges me)"
+                        }
+                      },
+                      {
+                        "type": "prayer",
+                        "speaker": "all",
+                        "inline": {
+                          "pt-BR": "Aspergi-me e serei puro do pecado, e mais branco do que a neve ficarei."
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "pt-BR": "Retornando à cadeira e terminado o canto, o sacerdote, de pé, voltado para o povo, diz, de mãos unidas:"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus todo-poderoso nos purifique dos nossos pecados e, pela celebração desta Eucaristia, nos torne dignos da mesa do seu reino."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "pt-BR": "Quando se realiza a aspersão da água, omite-se o Ato Penitencial e o Senhor, tende piedade. Segue-se o Glória (quando deve ser dito) e a Oração do dia."
+                }
+              }
+            ]
+          }
+        ],
+        "pickerStyle": "cards"
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Kyrie",
+          "pt-BR": "Senhor, Tende Piedade"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Unless included in the Penitential Act:",
+          "pt-BR": "Se não foi incluído no ato penitencial:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Lord, have mercy.",
+          "la": "Kýrie, eléison.",
+          "pt-BR": "Senhor, tende piedade de nós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Lord, have mercy.",
+          "la": "Kýrie, eléison.",
+          "pt-BR": "Senhor, tende piedade de nós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Christ, have mercy.",
+          "la": "Christe, eléison.",
+          "pt-BR": "Cristo, tende piedade de nós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Christ, have mercy.",
+          "la": "Christe, eléison.",
+          "pt-BR": "Cristo, tende piedade de nós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Lord, have mercy.",
+          "la": "Kýrie, eléison.",
+          "pt-BR": "Senhor, tende piedade de nós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Lord, have mercy.",
+          "la": "Kýrie, eléison.",
+          "pt-BR": "Senhor, tende piedade de nós."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Gloria",
+          "pt-BR": "Glória"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "Glory to God in the highest, and on earth peace to people of good will.\nWe praise you, we bless you, we adore you, we glorify you, we give you thanks for your great glory, Lord God, heavenly King, O God, almighty Father.\nLord Jesus Christ, Only Begotten Son, Lord God, Lamb of God, Son of the Father, you take away the sins of the world, have mercy on us; you take away the sins of the world, receive our prayer; you are seated at the right hand of the Father, have mercy on us.\nFor you alone are the Holy One, you alone are the Lord, you alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen.",
+          "la": "Glória in excélsis Deo et in terra pax homínibus bonæ voluntátis.\nLaudámus te, benedícimus te, adorámus te, glorificámus te, grátias ágimus tibi propter magnam glóriam tuam, Dómine Deus, Rex cæléstis, Deus Pater omnípotens.\nDómine Fili Unigénite, Jesu Christe, Dómine Deus, Agnus Dei, Fílius Patris, qui tollis peccáta mundi, miserére nobis; qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis.\nQuóniam tu solus Sanctus, tu solus Dóminus, tu solus Altíssimus, Jesu Christe, cum Sancto Spíritu: in glória Dei Patris. Amen.",
+          "pt-BR": "Glória a Deus nas alturas e paz na terra aos homens por ele amados.\nSenhor Deus, Rei dos céus, Deus Pai todo-poderoso: nós vos louvamos, nós vos bendizemos, nós vos adoramos, nós vos glorificamos, nós vos damos graças por vossa imensa glória.\nSenhor Jesus Cristo, Filho Unigênito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai: vós que tirais o pecado do mundo, tende piedade de nós; vós que tirais o pecado do mundo, acolhei a nossa súplica; vós que estais à direita do Pai, tende piedade de nós.\nSó vós sois o Santo, só vós, o Senhor, só vós, o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Priest, with hands joined, says: Let us pray. All pray silently with the Priest for a brief time. Then the Priest, with hands extended, says the Collect.",
+          "pt-BR": "O sacerdote, de mãos juntas, diz: Oremos. Todos, juntamente com o sacerdote, oram em silêncio por alguns momentos. Depois o sacerdote, de braços abertos, diz a oração coleta."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Collect of the day",
+          "pt-BR": "Oração do dia"
+        },
+        "slot": "collect"
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+}

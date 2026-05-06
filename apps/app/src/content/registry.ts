@@ -299,3 +299,14 @@ export function loadBookChapterText(
   if (!source) return Promise.resolve(undefined)
   return source.loadBookChapterText(bookId, chapterId, lang)
 }
+
+/**
+ * Read a JSON file from a specific library's bundled assets by path.
+ * Used by DataSources (mass-of, etc.) for library-level data outside the
+ * practice/prayer/chapter/book conventions.
+ */
+export function readLibraryAsset(libraryId: string, path: string): Promise<unknown> {
+  const source = libraryIdToSource.get(libraryId)
+  if (!source) return Promise.resolve(undefined)
+  return source.readJsonAsset(path)
+}

@@ -1,0 +1,38 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Sub Tuum Praesidium",
+        "pt-BR": "Sob Vossa Proteção"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "The oldest known Marian prayer (3rd century).",
+        "pt-BR": "A mais antiga oração mariana conhecida (séc. III)."
+      }
+    },
+    {
+      "type": "prayer",
+      "title": {
+        "en-US": "Antiphon",
+        "pt-BR": "Antífona"
+      },
+      "inline": {
+        "en-US": "We fly to thy patronage, O holy Mother of God; despise not our petitions in our necessities, but deliver us always from all dangers, O glorious and blessed Virgin.",
+        "pt-BR": "Sob a vossa proteção nos refugiamos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita."
+      }
+    },
+    {
+      "type": "response",
+      "verses": [
+        {
+          "v": { "en-US": "Pray for us, O holy Mother of God.", "pt-BR": "Rogai por nós, Santa Mãe de Deus." },
+          "r": { "en-US": "That we may be made worthy of the promises of Christ.", "pt-BR": "Para que sejamos dignos das promessas de Cristo." }
+        }
+      ]
+    }
+  ]
+}

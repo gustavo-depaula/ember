@@ -1,0 +1,41 @@
+{
+  "load": [
+    {
+      "as": "day",
+      "source": "mass-of",
+      "calendar": "of"
+    }
+  ],
+  "fragments": {
+    "ordinary-mass-body": [
+      { "type": "heading", "text": { "en-US": "Introductory Rites", "pt-BR": "Ritos Iniciais" } },
+      { "type": "choice-rich-text", "label": { "en-US": "Entrance Antiphon", "pt-BR": "Antífona de Entrada" }, "slot": "entranceAntiphon" },
+      { "type": "choice-rich-text", "label": { "en-US": "Collect", "pt-BR": "Oração do Dia" }, "slot": "collect" },
+      { "type": "divider" },
+      { "type": "heading", "text": { "en-US": "Liturgy of the Word", "pt-BR": "Liturgia da Palavra" } },
+      { "type": "choice-rich-text", "label": { "en-US": "First Reading", "pt-BR": "Primeira Leitura" }, "slot": "readings.default.firstReading" },
+      { "type": "choice-rich-text", "label": { "en-US": "Gospel", "pt-BR": "Evangelho" }, "slot": "readings.default.gospel" }
+    ]
+  },
+  "sections": [
+    {
+      "type": "select",
+      "from": "day.celebrations",
+      "as": "celebration",
+      "idFrom": "id",
+      "labelFrom": "title",
+      "label": { "en-US": "Today's Liturgy", "pt-BR": "Liturgia de Hoje" },
+      "hideIfSingle": true,
+      "body": [
+        {
+          "type": "select",
+          "on": "celebration.rite",
+          "default": "mass",
+          "options": [
+            { "id": "mass", "label": { "en-US": "Mass", "pt-BR": "Missa" }, "sections": [{ "type": "fragment", "ref": "ordinary-mass-body" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

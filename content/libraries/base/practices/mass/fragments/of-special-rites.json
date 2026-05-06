@@ -1,0 +1,872 @@
+{
+  "fragments": {
+    "of-chrism-mass-body": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Chrism Mass",
+          "pt-BR": "Missa do Crisma"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Bishop concelebrates this Mass with priests of his diocese; the Sacred Chrism and the Oils of Catechumens and of the Sick are blessed and consecrated.",
+          "pt-BR": "O Bispo concelebra esta Missa com os presbíteros de sua diocese. Bendizem-se e consagram-se o Santo Crisma e os Óleos dos Catecúmenos e dos Enfermos."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Introductory Rites",
+          "pt-BR": "Ritos Iniciais"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+          "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Entrance Antiphon",
+          "pt-BR": "Antífona de Entrada"
+        },
+        "slot": "entranceAntiphon"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Collect",
+          "pt-BR": "Oração do Dia"
+        },
+        "slot": "collect"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Word",
+          "pt-BR": "Liturgia da Palavra"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading",
+          "pt-BR": "Primeira Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.firstReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Responsorial Psalm",
+          "pt-BR": "Salmo Responsorial"
+        },
+        "slot": "readings.{{day.cycle}}.responsorialPsalm"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Second Reading",
+          "pt-BR": "Segunda Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.secondReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.alleluiaVerse"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel",
+          "pt-BR": "Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.gospel"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Renewal of Priestly Promises",
+          "pt-BR": "Renovação das Promessas Sacerdotais"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "After the homily, the Bishop addresses the priests and they renew the promises made at their ordination.",
+          "pt-BR": "Depois da homilia, o Bispo dirige-se aos presbíteros e eles renovam as promessas da Ordenação."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Blessing of the Oils",
+          "pt-BR": "Bênção dos Óleos"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Oil of the Sick is blessed before the Eucharistic Prayer; the Oil of Catechumens and the Sacred Chrism are blessed/consecrated after Communion (or in the appropriate place).",
+          "pt-BR": "Bendiz-se o Óleo dos Enfermos antes da Oração Eucarística; o Óleo dos Catecúmenos e o Santo Crisma são bendizidos/consagrados depois da Comunhão (ou no lugar próprio)."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Liturgy of the Eucharist",
+          "pt-BR": "Liturgia da Eucaristia"
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer over the Offerings",
+          "pt-BR": "Oração sobre as Oferendas"
+        },
+        "slot": "prayerOverOfferings"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Preface",
+          "pt-BR": "Prefácio"
+        },
+        "slot": "preface",
+        "pickerStyle": "cards"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Communion Antiphon",
+          "pt-BR": "Antífona da Comunhão"
+        },
+        "slot": "communionAntiphon"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer after Communion",
+          "pt-BR": "Oração depois da Comunhão"
+        },
+        "slot": "postcommunion"
+      }
+    ],
+    "of-easter-vigil-body": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "The Easter Vigil",
+          "pt-BR": "Vigília Pascal na Noite Santa"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Vigil is the mother of all vigils — the night when the Lord rose. It is in four parts: Service of Light, Liturgy of the Word, Baptismal Liturgy, Liturgy of the Eucharist.",
+          "pt-BR": "Esta Vigília é a mãe de todas as vigílias — a noite em que o Senhor ressuscitou. Tem quatro partes: Lucernário, Liturgia da Palavra, Liturgia Batismal, Liturgia Eucarística."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Service of Light",
+          "pt-BR": "Lucernário"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The new fire is blessed, the Paschal Candle prepared and lit, and the Easter Proclamation (Exsultet) is sung.",
+          "pt-BR": "Bendiz-se o novo fogo, prepara-se e acende-se o Círio Pascal e canta-se o Precônio Pascal (Exsultet)."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Word",
+          "pt-BR": "Liturgia da Palavra"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Up to seven readings from the Old Testament, then the Epistle and the Gospel.",
+          "pt-BR": "Até sete leituras do Antigo Testamento, depois a Epístola e o Evangelho."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "(Old Testament readings — at least three are read; the third, from Exodus 14, must always be proclaimed.)",
+          "pt-BR": "(Leituras do Antigo Testamento — pelo menos três são lidas; a terceira, do Êxodo 14, sempre deve ser proclamada.)"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Baptismal Liturgy",
+          "pt-BR": "Liturgia Batismal"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Litany of the Saints, Blessing of Water, Renewal of Baptismal Promises, and (if any) Baptisms.",
+          "pt-BR": "Ladainha dos Santos, Bênção da Água, Renovação das Promessas Batismais e (se houver) Batismos."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Eucharist",
+          "pt-BR": "Liturgia Eucarística"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer over the Offerings",
+          "pt-BR": "Oração sobre as Oferendas"
+        },
+        "slot": "prayerOverOfferings"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Preface",
+          "pt-BR": "Prefácio"
+        },
+        "slot": "preface",
+        "pickerStyle": "cards"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Communion Antiphon",
+          "pt-BR": "Antífona da Comunhão"
+        },
+        "slot": "communionAntiphon"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer after Communion",
+          "pt-BR": "Oração depois da Comunhão"
+        },
+        "slot": "postcommunion"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Vigil concludes with the solemn Easter blessing and the dismissal with double Alleluia.",
+          "pt-BR": "A Vigília conclui-se com a bênção solene da Páscoa e a despedida com duplo Aleluia."
+        }
+      }
+    ],
+    "of-good-friday-body": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Celebration of the Passion of the Lord",
+          "pt-BR": "Celebração da Paixão do Senhor"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Celebration is in three parts: the Liturgy of the Word, the Adoration of the Holy Cross, and Holy Communion.",
+          "pt-BR": "A Celebração consta de três partes: Liturgia da Palavra, Adoração da Santa Cruz e Sagrada Comunhão."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest and ministers proceed to the altar in silence and prostrate themselves before it.",
+          "pt-BR": "O sacerdote e os ministros dirigem-se ao altar em silêncio e prostram-se diante dele."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Word",
+          "pt-BR": "Liturgia da Palavra"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading",
+          "pt-BR": "Primeira Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.firstReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Responsorial Psalm",
+          "pt-BR": "Salmo Responsorial"
+        },
+        "slot": "readings.{{day.cycle}}.responsorialPsalm"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Second Reading",
+          "pt-BR": "Segunda Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.secondReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.alleluiaVerse"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Passion of the Lord",
+          "pt-BR": "Paixão do Senhor"
+        },
+        "slot": "readings.{{day.cycle}}.gospel"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "After the homily, the Solemn Intercessions follow.",
+          "pt-BR": "Após a homilia, seguem as Orações Solenes."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Solemn Intercessions",
+          "pt-BR": "Orações Solenes"
+        }
+      },
+      {
+        "type": "repeat",
+        "from": "celebration.primary.parts.liturgyOfTheWord.solemnIntercessions",
+        "sections": [
+          {
+            "type": "subheading",
+            "text": {
+              "en-US": "{{ordinal}}. ",
+              "pt-BR": "{{ordinal}}. "
+            }
+          },
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "(intercession {{ordinal}})",
+              "pt-BR": "(intenção {{ordinal}})"
+            }
+          }
+        ]
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Each intercession has an invitation, silent prayer, and concluding collect with the response 'Amen'.",
+          "pt-BR": "Cada oração tem uma introdução, oração em silêncio e oração conclusiva com a resposta 'Amém'."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Adoration of the Holy Cross",
+          "pt-BR": "Adoração da Santa Cruz"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Cross is unveiled and adored.",
+          "pt-BR": "A Cruz é desvelada e adorada."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Holy Communion",
+          "pt-BR": "Sagrada Comunhão"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Communion is distributed from the Hosts consecrated at the Mass of the Lord's Supper. The celebration concludes with the Prayer over the People.",
+          "pt-BR": "A Comunhão é distribuída com as Hóstias consagradas na Missa da Ceia do Senhor. Conclui-se com a Oração sobre o Povo."
+        }
+      }
+    ],
+    "of-lords-supper-body": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Mass of the Lord's Supper",
+          "pt-BR": "Missa da Ceia do Senhor"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The evening Mass commemorates the institution of the Eucharist and the Priesthood, and the commandment of fraternal love.",
+          "pt-BR": "A Missa Vespertina comemora a instituição da Eucaristia e do Sacerdócio e o mandamento do amor fraterno."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Introductory Rites",
+          "pt-BR": "Ritos Iniciais"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Entrance Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after the greeting.",
+          "pt-BR": "Se não se canta o canto de entrada, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, após a saudação."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Entrance Antiphon",
+          "pt-BR": "Antífona de Entrada"
+        },
+        "slot": "entranceAntiphon"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Gloria is sung. During it, the bells are rung; from this moment they fall silent until the Easter Vigil.",
+          "pt-BR": "Canta-se o Glória. Durante o canto, tocam-se os sinos, que depois calam-se até a Vigília Pascal."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Collect",
+          "pt-BR": "Oração do Dia"
+        },
+        "slot": "collect"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Word",
+          "pt-BR": "Liturgia da Palavra"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading",
+          "pt-BR": "Primeira Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.firstReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Responsorial Psalm",
+          "pt-BR": "Salmo Responsorial"
+        },
+        "slot": "readings.{{day.cycle}}.responsorialPsalm"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Second Reading",
+          "pt-BR": "Segunda Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.secondReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.alleluiaVerse"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel",
+          "pt-BR": "Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.gospel"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Washing of Feet (Mandatum)",
+          "pt-BR": "Lava-pés (Mandatum)"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "After the homily, where pastoral reasons suggest, the Washing of Feet follows.",
+          "pt-BR": "Depois da homilia, onde razões pastorais o aconselharem, segue-se o Lava-pés."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Liturgy of the Eucharist",
+          "pt-BR": "Liturgia da Eucaristia"
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer over the Offerings",
+          "pt-BR": "Oração sobre as Oferendas"
+        },
+        "slot": "prayerOverOfferings"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Preface",
+          "pt-BR": "Prefácio"
+        },
+        "slot": "preface",
+        "pickerStyle": "cards"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Communion Antiphon",
+          "pt-BR": "Antífona da Comunhão"
+        },
+        "slot": "communionAntiphon"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer after Communion",
+          "pt-BR": "Oração depois da Comunhão"
+        },
+        "slot": "postcommunion"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Transfer of the Blessed Sacrament",
+          "pt-BR": "Translação do Santíssimo"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "After the Prayer after Communion, the Blessed Sacrament is carried in solemn procession to the place of repose. Adoration follows. The altar is stripped.",
+          "pt-BR": "Depois da oração após a Comunhão, o Santíssimo é levado em procissão solene ao local da reposição. Segue-se a adoração. O altar é desnudado."
+        }
+      }
+    ],
+    "of-palm-sunday-body": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Palm Sunday of the Passion of the Lord",
+          "pt-BR": "Domingo de Ramos da Paixão do Senhor"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Commemoration of the Lord's Entrance into Jerusalem",
+          "pt-BR": "Comemoração da Entrada do Senhor em Jerusalém"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "There are three forms: the Procession (preferred), the Solemn Entrance, and the Simple Entrance.",
+          "pt-BR": "Existem três formas: Procissão (preferida), Entrada Solene e Entrada Simples."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Whichever form is used, the entrance includes the blessing of palms, the proclamation of the Gospel of the Entrance, and the procession or solemn entrance into the church.",
+          "pt-BR": "Qualquer que seja a forma, a entrada inclui a bênção dos ramos, a proclamação do Evangelho da Entrada e a procissão ou entrada solene na igreja."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Mass",
+          "pt-BR": "Missa"
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Collect",
+          "pt-BR": "Oração do Dia"
+        },
+        "slot": "collect"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Liturgy of the Word",
+          "pt-BR": "Liturgia da Palavra"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading (Year A)",
+          "pt-BR": "Primeira Leitura (Ano A)"
+        },
+        "slot": "readings.A.firstReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading (Year B)",
+          "pt-BR": "Primeira Leitura (Ano B)"
+        },
+        "slot": "readings.B.firstReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "First Reading (Year C)",
+          "pt-BR": "Primeira Leitura (Ano C)"
+        },
+        "slot": "readings.C.firstReading"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "(Use the reading for the current Sunday cycle: A, B, or C.)",
+          "pt-BR": "(Use a leitura do ciclo dominical atual: A, B ou C.)"
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Responsorial Psalm",
+          "pt-BR": "Salmo Responsorial"
+        },
+        "slot": "readings.{{day.cycle}}.responsorialPsalm"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Second Reading",
+          "pt-BR": "Segunda Leitura"
+        },
+        "slot": "readings.{{day.cycle}}.secondReading"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Sequence",
+          "pt-BR": "Sequência"
+        },
+        "slot": "readings.{{day.cycle}}.sequentia"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
+        },
+        "slot": "readings.{{day.cycle}}.alleluiaVerse"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Passion of the Lord is proclaimed (cycle A: Matthew; B: Mark; C: Luke).",
+          "pt-BR": "Proclama-se a Paixão do Senhor (ano A: Mateus; B: Marcos; C: Lucas)."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Liturgy of the Eucharist",
+          "pt-BR": "Liturgia da Eucaristia"
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer over the Offerings",
+          "pt-BR": "Oração sobre as Oferendas"
+        },
+        "slot": "prayerOverOfferings"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Preface",
+          "pt-BR": "Prefácio"
+        },
+        "slot": "preface",
+        "pickerStyle": "cards"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "If there is no Communion Chant, the antiphon is recited by the faithful, by some of them, or by a reader; otherwise by the Priest himself after he has received Communion.",
+          "pt-BR": "Se não se canta o canto de comunhão, a antífona é recitada pelos fiéis, por alguns, ou por um leitor; ou então pelo próprio sacerdote, depois que comungou."
+        }
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Communion Antiphon",
+          "pt-BR": "Antífona da Comunhão"
+        },
+        "slot": "communionAntiphon"
+      },
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Prayer after Communion",
+          "pt-BR": "Oração depois da Comunhão"
+        },
+        "slot": "postcommunion"
+      }
+    ]
+  }
+}

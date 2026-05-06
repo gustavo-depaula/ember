@@ -1,0 +1,81 @@
+{
+  "fragments": {
+    "ef-last-gospel": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Last Gospel",
+          "pt-BR": "Último Evangelho"
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "John 1:1-14",
+          "pt-BR": "João 1,1-14"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then turning to the Gospel side of the altar, the priest says:",
+          "pt-BR": "Indo depois para o lado do Evangelho, o padre diz:"
+        }
+      },
+      {
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He then traces the Sign of the Cross, first upon the altar, and then upon his forehead, lips, and breast, and says:",
+          "pt-BR": "Depois faz o sinal da Cruz na Sacra e na sua testa, boca e peito, dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "✠ The beginning of the holy Gospel according to John.",
+          "la": "✠ Inítium sancti Evangélii secúndum Joánnem.",
+          "pt-BR": "✠ Início do santo Evangelho segundo São João."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Glory be to Thee, O Lord.",
+          "la": "Glória tibi, Dómine.",
+          "pt-BR": "Glória a Vós, Senhor."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by Him: and without Him was made nothing that was made: in Him was life, and the life was the light of men: and the light shineth in darkness, and the darkness did not comprehend it.\nThere was a man sent from God, whose name was John. This man came for a witness, to give testimony of the light, that all men might believe through him. He was not the light, but was to give testimony of the light.\nThat was the true light, which enlighteneth every man that cometh into this world. He was in the world, and the world was made by Him, and the world knew Him not. He came unto His own, and His own received Him not. But as many as received Him, He gave them power to be made the sons of God, to them that believe in His name: who are born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.\nAND THE WORD WAS MADE FLESH, and dwelt among us: and we saw His glory, the glory as it were of the only-begotten of the Father, full of grace and truth.",
+          "la": "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Hoc erat in princípio apud Deum. Ómnia per ipsum facta sunt: et sine ipso factum est nihil, quod factum est: in ipso vita erat, et vita erat lux hóminum: et lux in ténebris lucet, et ténebræ eam non comprehendérunt.\nFuit homo missus a Deo, cui nomen erat Joánnes. Hic venit in testimónium, ut testimónium perhibéret de lúmine, ut omnes créderent per illum. Non erat ille lux, sed ut testimónium perhibéret de lúmine.\nErat lux vera, quæ illúminat omnem hóminem veniéntem in hunc mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt. Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine ejus: qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.\nET VERBUM CARO FACTUM EST, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis.",
+          "pt-BR": "No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus. Ele estava no princípio junto de Deus. Todas as coisas foram feitas por Ele: e sem Ele nada foi feito do que foi feito: n'Ele estava a vida, e a vida era a luz dos homens: e a luz brilha nas trevas, e as trevas não a compreenderam.\nHouve um homem enviado por Deus, cujo nome era João. Este veio como testemunha, para dar testemunho da luz, a fim de que todos cressem por meio dele. Não era ele a luz, mas veio para dar testemunho da luz.\nEra a luz verdadeira, que ilumina todo homem que vem a este mundo. Estava no mundo, e o mundo foi feito por Ele, e o mundo não O conheceu. Veio para o que era Seu, e os Seus não O receberam. Mas a todos quantos O receberam, deu-lhes o poder de se tornarem filhos de Deus, aos que creem no Seu nome: os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do varão, mas de Deus.\nE O VERBO SE FEZ CARNE, e habitou entre nós: e vimos a Sua glória, glória como de Unigénito do Pai, cheio de graça e de verdade."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "All genuflect at \"Et Verbum caro factum est.\"",
+          "pt-BR": "Todos genuflectem ao \"Et Verbum caro factum est.\""
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Thanks be to God.",
+          "la": "Deo grátias.",
+          "pt-BR": "Graças a Deus."
+        }
+      }
+    ]
+  }
+}

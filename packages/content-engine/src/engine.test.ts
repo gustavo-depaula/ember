@@ -1,7 +1,8 @@
 import { getLiturgicalDayName } from '@ember/liturgical'
-import { describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it } from 'vitest'
 import liguoriLiturgicalMapFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json'
 import liguoriFlowFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/flow.json'
+import { clearDataSources, type DataSource, registerDataSource } from './data-sources'
 import {
   type EngineContext,
   type FlowContext,
@@ -9,6 +10,7 @@ import {
   lookupMap,
   resolveFlow,
   resolveFlowAsync,
+  resolvePath,
 } from './engine'
 import type { FlowDefinition, FlowSection, RepeatEntry } from './types'
 
@@ -45,6 +47,245 @@ function flowDef(def: Partial<FlowDefinition> & { sections: FlowSection[] }): Fl
 // =============================================================================
 // Existing tests (pre-unified-flow)
 // =============================================================================
+
+describe('celebration-banner — title rendering', () => {
+  // Ferial titles arrive pre-synthesized from ember-extra's refine.py;
+  // the engine no longer transforms them. These tests assert pass-through.
+
+  it('passes through Sunday + solemnity titles unchanged', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'QUINTO DOMINGO DA PÁSCOA' },
+              season: 'easter',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('QUINTO DOMINGO DA PÁSCOA')
+  })
+
+  it('passes through OT weekday titles unchanged (already natural)', () => {
+    const result = resolveFlow(
+      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              title: { 'pt-BR': 'Terça-feira da 29ª Semana do Tempo Comum' },
+              season: 'ordinary-time',
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
+    expect(banner.title.primary).toBe('Terça-feira da 29ª Semana do Tempo Comum')
+  })
+})
+
+describe('splitPlainIntoLines via choice-rich-text', () => {
+  it('splits a long single-paragraph reading on sentence boundaries', () => {
+    // Mock a slot whose body.plain.pt-BR is a single paragraph of
+    // five sentences (>240 chars total); expect five RichTextLines.
+    const longText =
+      'Naqueles dias, de Antioquia chegaram judeus que convenceram as multidões. ' +
+      'Então apedrejaram Paulo e arrastaram-no para fora da cidade, pensando que ele estivesse morto. ' +
+      'Enquanto os discípulos o rodeavam, Paulo levantou-se e entrou na cidade. ' +
+      'No dia seguinte partiu para Derbe com Barnabé. ' +
+      'Voltaram depois para Listra, Icônio e Antioquia.'
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Reading' },
+        slot: 'firstReading',
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              firstReading: {
+                body: { plain: { 'pt-BR': longText } },
+              },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    const primary = choice.options[0].body.primary
+    expect(primary.length).toBe(5)
+  })
+
+  it('keeps short prayers as a single line (no over-splitting)', () => {
+    const shortPrayer =
+      'Pai nosso que estais no céu, santificado seja o vosso nome. Venha a nós o vosso Reino.'
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Prayer' },
+        slot: 'collect',
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              collect: { body: { plain: { 'pt-BR': shortPrayer } } },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    expect(choice.options[0].body.primary.length).toBe(1)
+  })
+})
+
+describe('resolveFlow — collapsible primitive', () => {
+  it('wraps resolved sections in a collapsible (defaults closed)', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Quiet prayers' },
+        sections: [
+          { type: 'rubric', text: { 'pt-BR': 'Priest says quietly:' } },
+          { type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'Bendito sejais...' } },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      {
+        type: 'collapsible',
+        title: { primary: 'Quiet prayers' },
+        defaultOpen: false,
+        sections: [
+          { type: 'rubric', label: { primary: 'Priest says quietly:' } },
+          {
+            type: 'prayer',
+            title: { primary: '' },
+            text: { primary: 'Bendito sejais...' },
+            speaker: 'priest',
+          },
+        ],
+      },
+    ])
+  })
+
+  it('honors defaultOpen: true', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Open by default' },
+        defaultOpen: true,
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'A note' } }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect((result[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
+  })
+
+  it('drops a collapsible whose body resolves to nothing', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Empty' },
+        sections: [],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+})
+
+describe('resolveFlow — pickerStyle: cards', () => {
+  it('passes pickerStyle through and derives an excerpt per option', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'options',
+        label: { 'pt-BR': 'Eucharistic Prayer' },
+        pickerStyle: 'cards',
+        options: [
+          {
+            id: 'ep2',
+            label: { 'pt-BR': 'EP II' },
+            sections: [
+              { type: 'rubric', text: { 'pt-BR': 'Note about EP II' } },
+              {
+                type: 'prayer',
+                speaker: 'priest',
+                inline: { 'pt-BR': 'You are indeed Holy, Lord' },
+              },
+            ],
+          },
+          {
+            id: 'ep3',
+            label: { 'pt-BR': 'EP III' },
+            sections: [
+              {
+                type: 'prayer',
+                speaker: 'priest',
+                inline: { 'pt-BR': 'You are indeed Holy, O Lord' },
+              },
+            ],
+          },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([
+      {
+        type: 'options',
+        pickerStyle: 'cards',
+        options: [
+          { id: 'ep2', excerpt: { primary: 'You are indeed Holy, Lord' } },
+          { id: 'ep3', excerpt: { primary: 'You are indeed Holy, O Lord' } },
+        ],
+      },
+    ])
+  })
+
+  it('omits pickerStyle and excerpt when not requested (default chips)', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'options',
+        label: { 'pt-BR': 'Pick' },
+        options: [
+          {
+            id: 'a',
+            label: { 'pt-BR': 'A' },
+            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'A text' } }],
+          },
+          {
+            id: 'b',
+            label: { 'pt-BR': 'B' },
+            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'B text' } }],
+          },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    const widget = result[0] as { pickerStyle?: string; options: Array<{ excerpt?: unknown }> }
+    expect(widget.pickerStyle).toBeUndefined()
+    expect(widget.options.every((o) => o.excerpt === undefined)).toBe(true)
+  })
+})
 
 describe('resolveFlow — options collapsing', () => {
   it('renders all options as pills when multiple have content', () => {
@@ -2075,5 +2316,716 @@ describe('resolveFlow — fragments', () => {
       makeEngineContext(),
     )
     expect(result).toEqual([{ type: 'heading', text: { primary: 'Monday' } }])
+  })
+})
+
+describe('resolveFlow — select with from-data (celebration picker)', () => {
+  const celebrations = [
+    { id: 'tempore.lords-supper', title: 'Mass of the Lords Supper', rite: 'lords-supper' },
+    { id: 'tempore.chrism-mass', title: 'Chrism Mass', rite: 'chrism-mass' },
+  ]
+
+  it('renders a chip-header select when multiple items exist', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        label: { 'pt-BR': 'Liturgia de Hoje' },
+        hideIfSingle: true,
+        body: [{ type: 'heading', text: { 'pt-BR': '{{celebration.title}}' } }],
+      }),
+      makeContext({ flowData: { day: { celebrations } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      {
+        type: 'select',
+        label: { primary: 'Liturgia de Hoje' },
+        overrideKey: 'celebration',
+        selectedId: 'tempore.lords-supper',
+        options: [
+          {
+            id: 'tempore.lords-supper',
+            label: { primary: 'Mass of the Lords Supper' },
+            sections: [{ type: 'heading', text: { primary: 'Mass of the Lords Supper' } }],
+          },
+          {
+            id: 'tempore.chrism-mass',
+            label: { primary: 'Chrism Mass' },
+            sections: [],
+          },
+        ],
+      },
+    ])
+  })
+
+  it('hides the picker and renders body inline when hideIfSingle and one item', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        label: { 'pt-BR': 'Liturgia' },
+        hideIfSingle: true,
+        body: [{ type: 'heading', text: { 'pt-BR': '{{celebration.title}}' } }],
+      }),
+      makeContext({ flowData: { day: { celebrations: [celebrations[0]] } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Mass of the Lords Supper' } }])
+  })
+
+  it('honors selectOverrides[as] to pick a non-default item', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        label: { 'pt-BR': 'Liturgia' },
+        body: [{ type: 'heading', text: { 'pt-BR': '{{celebration.title}}' } }],
+      }),
+      makeContext({
+        flowData: { day: { celebrations } },
+        selectOverrides: { celebration: 'tempore.chrism-mass' },
+      }),
+      makeEngineContext(),
+    )
+    expect(result[0]).toMatchObject({
+      type: 'select',
+      selectedId: 'tempore.chrism-mass',
+      options: [
+        { id: 'tempore.lords-supper', sections: [] },
+        {
+          id: 'tempore.chrism-mass',
+          sections: [{ type: 'heading', text: { primary: 'Chrism Mass' } }],
+        },
+      ],
+    })
+  })
+
+  it('returns empty when the array is empty', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        body: [{ type: 'heading', text: { 'pt-BR': 'unused' } }],
+      }),
+      makeContext({ flowData: { day: { celebrations: [] } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+
+  it('binds chosen item under flowData[as] for inner select on celebration.rite', () => {
+    // The canonical Mass shape: top-level celebration picker → inner select on
+    // celebration.rite → per-rite fragment dispatch. The inner select is inside
+    // body, so it sees the bound celebration via path access.
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        hideIfSingle: true,
+        body: [
+          {
+            type: 'select',
+            on: 'celebration.rite',
+            options: [
+              {
+                id: 'lords-supper',
+                label: { 'pt-BR': 'LS' },
+                sections: [{ type: 'heading', text: { 'pt-BR': 'Holy Thursday' } }],
+              },
+              {
+                id: 'mass',
+                label: { 'pt-BR': 'M' },
+                sections: [{ type: 'heading', text: { 'pt-BR': 'Ordinary' } }],
+              },
+            ],
+          },
+        ],
+      }),
+      makeContext({ flowData: { day: { celebrations: [celebrations[0]] } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Holy Thursday' } }])
+  })
+
+  it('falls back to first item when no default and no override', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        from: 'day.celebrations',
+        as: 'celebration',
+        body: [{ type: 'heading', text: { 'pt-BR': '{{celebration.id}}' } }],
+      }),
+      makeContext({ flowData: { day: { celebrations } } }),
+      makeEngineContext(),
+    )
+    expect(result[0]).toMatchObject({ selectedId: 'tempore.lords-supper' })
+  })
+})
+
+describe('resolvePath — dotted path access', () => {
+  it('returns top-level flowData entries directly', () => {
+    const ctx = makeContext({ flowData: { day: { rite: 'mass' } } })
+    expect(resolvePath(ctx, 'day')).toEqual({ rite: 'mass' })
+  })
+
+  it('walks into nested objects', () => {
+    const ctx = makeContext({
+      flowData: {
+        day: {
+          celebration: { primary: { entranceAntiphon: { body: 'hello' } } },
+        },
+      },
+    })
+    expect(resolvePath(ctx, 'day.celebration.primary.entranceAntiphon.body')).toBe('hello')
+  })
+
+  it('returns undefined for missing path segments', () => {
+    const ctx = makeContext({ flowData: { day: {} } })
+    expect(resolvePath(ctx, 'day.celebration.title')).toBeUndefined()
+  })
+
+  it('returns arrays for paths that resolve to arrays', () => {
+    const ctx = makeContext({
+      flowData: { day: { celebrations: [{ id: 'a' }, { id: 'b' }] } },
+    })
+    expect(resolvePath(ctx, 'day.celebrations')).toEqual([{ id: 'a' }, { id: 'b' }])
+  })
+
+  it('falls back to templateVars for single-segment lookups', () => {
+    const ctx = makeContext({ templateVars: { greeting: 'hello' } })
+    expect(resolvePath(ctx, 'greeting')).toBe('hello')
+  })
+
+  it('falls back to getContextValue for known top-level keys', () => {
+    const ctx = makeContext({ liturgicalCalendar: 'of' })
+    expect(resolvePath(ctx, 'liturgicalCalendar')).toBe('of')
+  })
+
+  it('returns undefined for unknown single-segment paths', () => {
+    expect(resolvePath(makeContext(), 'whatever')).toBeUndefined()
+  })
+
+  it('returns undefined when walking into a non-object', () => {
+    const ctx = makeContext({ flowData: { day: 'string' } })
+    expect(resolvePath(ctx, 'day.field')).toBeUndefined()
+  })
+})
+
+describe('resolveFlow — repeat.from with dotted path', () => {
+  it('iterates an array reachable via path through flowData', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'repeat',
+        from: 'day.intercessions',
+        sections: [{ type: 'rubric', text: { 'pt-BR': '{{ordinal}} - {{title}}' } }],
+      }),
+      makeContext({
+        flowData: {
+          day: {
+            intercessions: [{ title: 'Pro Ecclesia' }, { title: 'Pro Pontifice' }],
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'rubric', label: { primary: 'Primeiro - Pro Ecclesia' } },
+      { type: 'rubric', label: { primary: 'Segundo - Pro Pontifice' } },
+    ])
+  })
+
+  it('returns empty when the path resolves to a non-array', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'repeat',
+        from: 'day.notAnArray',
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
+      }),
+      makeContext({ flowData: { day: { notAnArray: 'oops' } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+})
+
+describe('resolveFlow — choice-rich-text (per-slot picker)', () => {
+  // Synthetic celebration matching ember-extra's shape.
+  const tempore = {
+    source: 'tempore',
+    entranceAntiphon: {
+      body: {
+        lines: {
+          'pt-BR': [[{ type: 'text', text: 'No meio da Igreja...' }]],
+          la: [[{ type: 'text', text: 'In medio Ecclesiae...' }]],
+        },
+      },
+      citation: 'Sir 15, 5',
+    },
+    collect: { body: { lines: { 'pt-BR': [[{ type: 'text', text: 'Pai Santo...' }]] } } },
+  }
+  const sanctoral = {
+    source: 'sanctoral',
+    entranceAntiphon: {
+      body: {
+        lines: { 'pt-BR': [[{ type: 'text', text: 'Antífona do santo...' }]] },
+      },
+    },
+    // no collect — alternate has no entry for this slot
+  }
+  const celebration = { primary: tempore, alternates: [sanctoral] }
+
+  it('renders chips for primary + alternates that have the slot', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Antífona' },
+        slot: 'entranceAntiphon',
+      }),
+      makeContext({ flowData: { celebration } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      {
+        type: 'choice-rich-text',
+        label: { primary: 'Antífona' },
+        overrideKey: 'celebration.entranceAntiphon',
+        selectedId: 'tempore',
+        options: [
+          {
+            id: 'tempore',
+            label: { primary: 'Tmp' },
+            body: {
+              primary: [[{ type: 'text', text: 'No meio da Igreja...' }]],
+              secondary: [[{ type: 'text', text: 'In medio Ecclesiae...' }]],
+            },
+            citation: { primary: 'Sir 15, 5' },
+          },
+          {
+            id: 'sanctoral',
+            label: { primary: 'Snt' },
+            body: { primary: [[{ type: 'text', text: 'Antífona do santo...' }]] },
+          },
+        ],
+      },
+    ])
+  })
+
+  it('filters out alternates with no entry for the slot', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Coleta' },
+        slot: 'collect',
+      }),
+      makeContext({ flowData: { celebration } }),
+      makeEngineContext(),
+    )
+    // sanctoral has no collect → only primary (tempore) is offered
+    expect(result).toMatchObject([
+      {
+        type: 'choice-rich-text',
+        selectedId: 'tempore',
+        options: [{ id: 'tempore' }],
+      },
+    ])
+    expect((result[0] as { options: unknown[] }).options).toHaveLength(1)
+  })
+
+  it('honors selectOverrides to switch the active source per slot', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Antífona' },
+        slot: 'entranceAntiphon',
+      }),
+      makeContext({
+        flowData: { celebration },
+        selectOverrides: { 'celebration.entranceAntiphon': 'sanctoral' },
+      }),
+      makeEngineContext(),
+    )
+    expect((result[0] as { selectedId: string }).selectedId).toBe('sanctoral')
+  })
+
+  it('returns empty when no celebration is bound', () => {
+    const result = resolveFlow(
+      flow({ type: 'choice-rich-text', label: { 'pt-BR': 'X' }, slot: 'collect' }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+
+  it('returns empty when no formulary has the slot', () => {
+    const result = resolveFlow(
+      flow({ type: 'choice-rich-text', label: { 'pt-BR': 'X' }, slot: 'nonexistentSlot' }),
+      makeContext({ flowData: { celebration } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+
+  it('emits a liturgical-color section with localized label', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'liturgical-color',
+        from: 'celebration.primary.liturgicalColor',
+      }),
+      makeContext({
+        flowData: { celebration: { primary: { liturgicalColor: 'red' } } },
+      }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'liturgical-color', color: 'red', label: { primary: 'Vermelha' } },
+    ])
+  })
+
+  it('omits liturgical-color when the path is missing or unknown', () => {
+    const empty = resolveFlow(
+      flow({ type: 'liturgical-color', from: 'celebration.primary.liturgicalColor' }),
+      makeContext({ flowData: {} }),
+      makeEngineContext(),
+    )
+    expect(empty).toEqual([])
+    const unknown = resolveFlow(
+      flow({ type: 'liturgical-color', from: 'celebration.primary.liturgicalColor' }),
+      makeContext({
+        flowData: { celebration: { primary: { liturgicalColor: 'mauve' } } },
+      }),
+      makeEngineContext(),
+    )
+    expect(unknown).toEqual([])
+  })
+
+  it('explodes alternatives[] into multiple chips with roman-numeral suffixes', () => {
+    // ember-extra wraps multi-option readings as `slot.alternatives[]`.
+    // Each alternative is a separate option chip; suffix the source label
+    // (Tmp, Snt, ...) with I / II / III to disambiguate.
+    const multiAltCelebration = {
+      primary: {
+        source: 'sanctoral',
+        readings: {
+          default: {
+            firstReading: {
+              alternatives: [
+                {
+                  body: { lines: { 'pt-BR': [[{ type: 'text', text: 'Reading A' }]] } },
+                  citation: 'Is 1, 1',
+                },
+                {
+                  body: { lines: { 'pt-BR': [[{ type: 'text', text: 'Reading B' }]] } },
+                  citation: 'Jer 1, 1',
+                },
+              ],
+            },
+          },
+        },
+      },
+    }
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Primeira Leitura' },
+        slot: 'readings.default.firstReading',
+      }),
+      makeContext({ flowData: { celebration: multiAltCelebration } }),
+      makeEngineContext(),
+    )
+    expect(result).toMatchObject([
+      {
+        type: 'choice-rich-text',
+        options: [
+          { id: 'sanctoral-0', label: { primary: 'Snt I' } },
+          { id: 'sanctoral-1', label: { primary: 'Snt II' } },
+        ],
+      },
+    ])
+  })
+})
+
+describe('resolveFlowAsync — load steps via DataSource registry', () => {
+  afterEach(() => clearDataSources())
+
+  it('calls a registered source and binds its result to flowData[as]', async () => {
+    const fakeSource: DataSource = {
+      async load(args, ctx) {
+        return { value: `${args.greeting}-${ctx.now().getFullYear()}` }
+      },
+    }
+    registerDataSource('fake', fakeSource)
+
+    const result = await resolveFlowAsync(
+      {
+        load: [{ as: 'state', source: 'fake', greeting: 'hello' }],
+        sections: [{ type: 'rubric', text: { 'pt-BR': '{{state.value}}' } }],
+      },
+      makeContext({ date: new Date('2026-04-12') }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: 'hello-2026' } }])
+  })
+
+  it('skips load steps with unknown source name', async () => {
+    const result = await resolveFlowAsync(
+      {
+        load: [{ as: 'x', source: 'nonexistent' }],
+        sections: [{ type: 'heading', text: { 'pt-BR': 'still here' } }],
+      },
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'still here' } }])
+  })
+
+  it('SourceContext.fetchOwnAsset falls back to cycleData when no engine impl', async () => {
+    let captured: unknown
+    const recorder: DataSource = {
+      async load(_args, ctx) {
+        captured = await ctx.fetchOwnAsset('my-data')
+        return { ok: true }
+      },
+    }
+    registerDataSource('recorder', recorder)
+
+    await resolveFlowAsync(
+      {
+        load: [{ as: 'r', source: 'recorder' }],
+        sections: [],
+      },
+      makeContext({ cycleData: { 'my-data': { hello: 'world' } } as never }),
+      makeEngineContext(),
+    )
+    expect(captured).toEqual({ hello: 'world' })
+  })
+})
+
+describe('resolveFlow — call (parameterized fragment / macro)', () => {
+  it('expands a call by substituting args into the fragment body', () => {
+    const result = resolveFlow(
+      flowDef({
+        fragments: {
+          greet: [
+            {
+              type: 'rubric',
+              text: { 'pt-BR': 'Olá, {{name}}!' },
+            },
+          ],
+        },
+        sections: [
+          { type: 'call', ref: 'greet', args: { name: 'Maria' } },
+          { type: 'call', ref: 'greet', args: { name: 'José' } },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'rubric', label: { primary: 'Olá, Maria!' } },
+      { type: 'rubric', label: { primary: 'Olá, José!' } },
+    ])
+  })
+
+  it('args override outer flowData/templateVars within the call body', () => {
+    const result = resolveFlow(
+      flowDef({
+        fragments: {
+          show: [{ type: 'rubric', text: { 'pt-BR': '{{name}}' } }],
+        },
+        sections: [{ type: 'call', ref: 'show', args: { name: 'macro-arg' } }],
+      }),
+      makeContext({ flowData: { name: 'outer-data' }, templateVars: { name: 'outer-tv' } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: 'macro-arg' } }])
+  })
+
+  it('returns empty when the macro is not registered', () => {
+    const result = resolveFlow(
+      flowDef({
+        sections: [{ type: 'call', ref: 'missing', args: { x: 1 } }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
+  })
+
+  it('macros can call other macros (recursive expansion)', () => {
+    const result = resolveFlow(
+      flowDef({
+        fragments: {
+          inner: [{ type: 'rubric', text: { 'pt-BR': '{{value}}' } }],
+          outer: [{ type: 'call', ref: 'inner', args: { value: 'from-outer' } }],
+        },
+        sections: [{ type: 'call', ref: 'outer' }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: 'from-outer' } }])
+  })
+
+  it('passes args as nested objects accessible via dotted paths', () => {
+    const result = resolveFlow(
+      flowDef({
+        fragments: {
+          mystery: [
+            { type: 'heading', text: { 'pt-BR': '{{m.title}}' } },
+            { type: 'rubric', text: { 'pt-BR': '{{m.intention}}' } },
+          ],
+        },
+        sections: [
+          {
+            type: 'call',
+            ref: 'mystery',
+            args: { m: { title: 'A Anunciação', intention: 'Pela humildade' } },
+          },
+        ],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'heading', text: { primary: 'A Anunciação' } },
+      { type: 'rubric', label: { primary: 'Pela humildade' } },
+    ])
+  })
+})
+
+describe('resolveFlow — nested template substitution', () => {
+  it('substitutes dotted-path templates from flowData inside section text', () => {
+    const result = resolveFlow(
+      flow({ type: 'rubric', text: { 'pt-BR': '{{day.title}}' } }),
+      makeContext({ flowData: { day: { title: 'Good Friday' } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: 'Good Friday' } }])
+  })
+
+  it('substitutes deep paths through nested objects', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'heading',
+        text: { 'pt-BR': '{{celebration.primary.entranceAntiphon.body}}' },
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: { entranceAntiphon: { body: 'In medio Ecclesiae' } },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'In medio Ecclesiae' } }])
+  })
+
+  it('leaves unresolved templates intact', () => {
+    const result = resolveFlow(
+      flow({ type: 'rubric', text: { 'pt-BR': '{{day.unknown.field}}' } }),
+      makeContext({ flowData: { day: {} } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: '{{day.unknown.field}}' } }])
+  })
+
+  it('templateVars wins over flowData on key conflict', () => {
+    const result = resolveFlow(
+      flow({ type: 'rubric', text: { 'pt-BR': '{{title}}' } }),
+      makeContext({
+        flowData: { title: 'from-data' },
+        templateVars: { title: 'from-template' },
+      }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'rubric', label: { primary: 'from-template' } }])
+  })
+})
+
+describe('resolveFlow — select.on with dotted path', () => {
+  it('branches on a value reached via path through flowData', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        on: 'celebration.rite',
+        options: [
+          {
+            id: 'mass',
+            label: { 'pt-BR': 'Mass' },
+            sections: [{ type: 'heading', text: { 'pt-BR': 'Ordinary' } }],
+          },
+          {
+            id: 'lords-supper',
+            label: { 'pt-BR': 'Lords Supper' },
+            sections: [{ type: 'heading', text: { 'pt-BR': 'Holy Thursday' } }],
+          },
+        ],
+      }),
+      makeContext({ flowData: { celebration: { rite: 'lords-supper' } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Holy Thursday' } }])
+  })
+
+  it('falls through to default when the path is missing', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        on: 'celebration.rite',
+        default: 'mass',
+        options: [
+          {
+            id: 'mass',
+            label: { 'pt-BR': 'Mass' },
+            sections: [{ type: 'heading', text: { 'pt-BR': 'Default' } }],
+          },
+          {
+            id: 'lords-supper',
+            label: { 'pt-BR': 'Lords Supper' },
+            sections: [{ type: 'heading', text: { 'pt-BR': 'HT' } }],
+          },
+        ],
+      }),
+      makeContext({ flowData: {} }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([{ type: 'heading', text: { primary: 'Default' } }])
+  })
+
+  it('falls through to default when the resolved value matches no option id', () => {
+    // Regression: silent dispatch like `select on celebration.id` should NOT
+    // render `options[0]` for any unmatched id — it must fall through to
+    // `default`. (Earlier, the resolver picked options[0] as a fallback,
+    // which caused the Easter Sunday sequence to render on every Easter
+    // weekday.)
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        on: 'celebration.id',
+        default: 'none',
+        options: [
+          {
+            id: 'tempore.easter.week-1.sunday',
+            label: { 'pt-BR': 'Easter' },
+            sections: [{ type: 'heading', text: { 'pt-BR': 'Victimae Paschali' } }],
+          },
+          {
+            id: 'none',
+            label: { 'pt-BR': '—' },
+            sections: [],
+          },
+        ],
+      }),
+      makeContext({ flowData: { celebration: { id: 'tempore.easter.week-5.monday' } } }),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([])
   })
 })

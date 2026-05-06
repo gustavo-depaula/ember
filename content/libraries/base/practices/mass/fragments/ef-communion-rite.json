@@ -1,0 +1,365 @@
+{
+  "fragments": {
+    "ef-communion-rite": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Communion Rite",
+          "pt-BR": "Rito de Comunhão"
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Pater Noster",
+          "pt-BR": "Pater Noster"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Our Father, who art in heaven: hallowed be Thy name: Thy kingdom come: Thy will be done on earth as it is in heaven.\nGive us this day our daily bread: and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation.",
+          "la": "Pater noster, qui es in cælis: sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo, et in terra.\nPanem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem.",
+          "pt-BR": "Pai nosso, que estais nos céus: santificado seja o Vosso nome: venha a nós o Vosso reino: seja feita a Vossa vontade, assim na terra como no céu.\nO pão nosso de cada dia nos dai hoje: e perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. E não nos deixeis cair em tentação."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "But deliver us from evil.",
+          "la": "Sed líbera nos a malo.",
+          "pt-BR": "Mas livrai-nos do mal."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then the priest takes the paten between the first and second finger and says:",
+          "pt-BR": "O sacerdote descobre o Cálice, genuflecte e segura com os dedos polegar e indicador a Hóstia e diz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Deliver us, we beseech Thee, O Lord, from all evils, past, present, and to come: and by the intercession of the blessed and glorious ever Virgin Mary, Mother of God, together with Thy blessed Apostles Peter and Paul, and Andrew, and all the Saints, graciously give peace in our days: that by the help of Thy mercy we may be always free from sin, and secure from all disturbance.",
+          "la": "Líbera nos, quǽsumus, Dómine, ab ómnibus malis, prætéritis, præséntibus, et futúris: et intercedénte beáta et gloriósa semper Vírgine Dei Genitrícis María, cum beátis Apóstolis tuis Petro et Paulo, atque Andréa, et ómnibus Sanctis, da propítius pacem in diébus nostris: ut ope misericórdiæ tuæ adjúti, et a peccáto simus semper líberi, et ab omni perturbatióne secúri.",
+          "pt-BR": "Livrai-nos, Vos suplicamos, ó Senhor, de todos os males, passados, presentes e futuros: e pela intercessão da bem-aventurada e gloriosa sempre Virgem Maria, Mãe de Deus, juntamente com os Vossos bem-aventurados Apóstolos Pedro e Paulo, e André, e todos os Santos, concedei-nos benigno a paz em nossos dias: para que, ajudados pelo socorro da Vossa misericórdia, estejamos sempre livres do pecado e seguros de toda perturbação."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He places the paten under the Host, uncovers the Chalice, and makes a genuflection; rising, he takes the Host and breaks It in the middle over the Chalice, saying:",
+          "pt-BR": "O sacerdote descobre o Cálice, genuflecte, ergue a Hóstia e parte-a ao meio sobre o Cálice, dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Through the same our Lord Jesus Christ Thy Son. Who with Thee liveth and reigneth in the unity of the Holy Spirit, God, world without end.",
+          "la": "Per eúndem Dóminum nostrum Jesum Christum Fílium tuum. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.",
+          "pt-BR": "Pelo mesmo nosso Senhor Jesus Cristo Vosso Filho. Que convosco vive e reina na unidade do Espírito Santo, Deus, por todos os séculos dos séculos."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Pax Domini",
+          "pt-BR": "Pax Domini"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest makes the Sign of the Cross with the Particle over the Chalice, saying:",
+          "pt-BR": "O sacerdote faz três vezes o sinal da Cruz com a Divina Partícula sobre o Cálice:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May the peace ✠ of the Lord ✠ be always ✠ with you.",
+          "la": "Pax ✠ Dómini sit ✠ semper vobís ✠ cum.",
+          "pt-BR": "A paz ✠ do Senhor ✠ esteja sempre ✠ convosco."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And with thy spirit.",
+          "la": "Et cum spíritu tuo.",
+          "pt-BR": "E com o vosso espírito."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He puts the Particle into the Chalice, saying:",
+          "pt-BR": "Coloca a partícula no Cálice, dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May this mixture and consecration of the Body and Blood of our Lord Jesus Christ be to us who receive it effectual unto eternal life. Amen.",
+          "la": "Hæc commíxtio et consecrátio Córporis et Sánguinis Dómini nostri Jesu Christi fiat accipiéntibus nobis in vitam ætérnam. Amen.",
+          "pt-BR": "Que esta mistura e esta consagração do Corpo e do Sangue de Nosso Senhor Jesus Cristo sejam penhor de vida eterna para nós que a receberemos. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He covers the Chalice, genuflects and rises; then bowing down and striking his breast thrice, he says:",
+          "pt-BR": "Cobre o Cálice, genuflecte e levanta-se; depois inclinando-se e batendo três vezes no peito, diz:"
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Agnus Dei",
+          "pt-BR": "Agnus Dei"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "Lamb of God, who takest away the sins of the world: have mercy on us.\nLamb of God, who takest away the sins of the world: have mercy on us.\nLamb of God, who takest away the sins of the world: grant us peace.",
+          "la": "Agnus Dei, qui tollis peccáta mundi: miserére nobis.\nAgnus Dei, qui tollis peccáta mundi: miserére nobis.\nAgnus Dei, qui tollis peccáta mundi: dona nobis pacem.",
+          "pt-BR": "Cordeiro de Deus, que tirais os pecados do mundo: tende piedade de nós.\nCordeiro de Deus, que tirais os pecados do mundo: tende piedade de nós.\nCordeiro de Deus, que tirais os pecados do mundo: dai-nos a paz."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Communion Prayers",
+          "pt-BR": "Orações da Comunhão"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "With his hands joined and resting on the altar, standing inclined, he says:",
+          "pt-BR": "Inclinado, recita as três orações seguintes:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "O Lord Jesus Christ, who said to Thy Apostles: Peace I leave with you, My peace I give unto you: regard not my sins, but the faith of Thy Church: and deign to give her peace and unity according to Thy will: Who livest and reignest, God, world without end. Amen.",
+          "la": "Dómine Jesu Christe, qui dixísti Apóstolis tuis: Pacem relínquo vobis, pacem meam do vobis: ne respícias peccáta mea, sed fidem Ecclésiæ tuæ: eámque secúndum voluntátem tuam pacificáre et coadunáre dignéris: Qui vivis et regnas, Deus, per ómnia sǽcula sæculórum. Amen.",
+          "pt-BR": "Senhor Jesus Cristo, que dissestes aos Vossos Apóstolos: Deixo-vos a paz, a Minha paz vos dou: não olheis para os meus pecados, mas para a fé da Vossa Igreja: e dignai-Vos dar-lhe a paz e a unidade segundo a Vossa vontade: Vós que viveis e reinais, Deus, por todos os séculos dos séculos. Amém."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "O Lord Jesus Christ, Son of the living God, who by the will of the Father, with the cooperation of the Holy Spirit, hast by Thy death given life to the world: deliver me by this Thy most sacred Body and Blood from all my iniquities and from all evils: and make me always cleave to Thy commandments, and never permit me to be separated from Thee: Who with the same God the Father and the Holy Spirit livest and reignest, God, world without end. Amen.",
+          "la": "Dómine Jesu Christe, Fili Dei vivi, qui ex voluntáte Patris, cooperánte Spíritu Sancto, per mortem tuam mundum vivificásti: líbera me per hoc sacrosánctum Corpus et Sánguinem tuum ab ómnibus iniquitátibus meis et univérsis malis: et fac me tuis semper inhærére mandátis, et a te numquam separári permíttas: Qui cum eódem Deo Patre et Spíritu Sancto vivis et regnas, Deus, in sǽcula sæculórum. Amen.",
+          "pt-BR": "Senhor Jesus Cristo, Filho de Deus vivo, que pela vontade do Pai, com a cooperação do Espírito Santo, pela Vossa morte destes a vida ao mundo: livrai-me por este Vosso sacrossanto Corpo e Sangue de todas as minhas iniquidades e de todos os males: e fazei que eu sempre adira aos Vossos mandamentos, e não permitais que eu jamais me separe de Vós: Vós que com o mesmo Deus Pai e o Espírito Santo viveis e reinais, Deus, por todos os séculos dos séculos. Amém."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let not the partaking of Thy Body, O Lord Jesus Christ, which I, though unworthy, presume to receive, turn to my judgment and condemnation; but let it, through Thy mercy, become a safeguard and remedy, both for soul and body; Who with God the Father, in the unity of the Holy Spirit, livest and reignest God, world without end. Amen.",
+          "la": "Percéptio Córporis tui, Dómine Jesu Christe, quod ego indígnus súmere præsúmo, non mihi provéniat in judícium et condemnatiónem: sed pro tua pietáte prosit mihi ad tutaméntum mentis et córporis, et ad medélam percipiéndam: Qui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum. Amen.",
+          "pt-BR": "Senhor Jesus Cristo, que este vosso Corpo, que eu, ainda que indigno, vou receber, não seja para o meu juízo e condenação, mas que, pela vossa misericórdia, sirva à minha alma e ao meu corpo de defesa e de remédio salutar: Vós que, sendo Deus, viveis e reinais com Deus Pai na unidade do Espírito Santo por todos os séculos dos séculos. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest genuflects, rises and says:",
+          "pt-BR": "O sacerdote genuflecte e pegando na sagrada Hóstia:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "I will take the Bread of heaven, and will call upon the Name of the Lord.",
+          "la": "Panem cæléstem accípiam, et nomen Dómini invocábo.",
+          "pt-BR": "Tomarei o Pão do céu e invocarei o nome do Senhor."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Slightly inclining, striking his breast with his right hand, and raising his voice a little, he says three times devoutly and humbly:",
+          "pt-BR": "Inclinado, bate três vezes no peito, dizendo devotamente e humilhado:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.",
+          "la": "Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.",
+          "pt-BR": "Senhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then with his right hand, making the Sign of the Cross with the Host over the paten, he says:",
+          "pt-BR": "Faz sobre si o sinal da cruz com a sagrada Hóstia, antes de a comungar."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May the Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.",
+          "la": "Corpus Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérnam. Amen.",
+          "pt-BR": "O Corpo de nosso Senhor Jesus Cristo guarde a minha alma para a vida eterna. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He then reverently receives both halves of the Host, joins his hands, and meditates a short time.",
+          "pt-BR": "Recolhe-se por uns instantes."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then he uncovers the Chalice, genuflects, collects whatever fragments may remain on the corporal, and purifies the paten over the Chalice, saying:",
+          "pt-BR": "De seguida descobre o Cálice, genuflecte, recolhe quaisquer fragmentos que estiverem no corporal e purifica a patena sobre o Cálice, dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "What return shall I make to the Lord for all He has given to me? I will take the chalice of salvation, and call upon the Name of the Lord. Praising I will call upon the Lord, and I shall be saved from my enemies.",
+          "la": "Quid retríbuam Dómino pro ómnibus quæ retríbuit mihi? Cálicem salutáris accípiam, et nomen Dómini invocábo. Laudans invocábo Dóminum, et ab inimícis meis salvus ero.",
+          "pt-BR": "Como retribuirei ao Senhor os bens que Ele se dignou dispensar-me? Tomarei o Cálice da salvação e invocarei o nome do Senhor, louvando-O, e ficarei livre dos meus inimigos."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest takes the Chalice and making the Sign of the Cross with it, says:",
+          "pt-BR": "Toma o preciosíssimo Sangue, fazendo antes sobre si o sinal da cruz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May the Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.",
+          "la": "Sanguis Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérnam. Amen.",
+          "pt-BR": "O Sangue de nosso Senhor Jesus Cristo guarde a minha alma para a vida eterna. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then he receives all the Precious Blood, together with the Particle.",
+          "pt-BR": "Recebe depois todo o Precioso Sangue, junto com a Partícula."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest says silently:",
+          "pt-BR": "Entretanto, diz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.",
+          "la": "Quod ore súmpsimus, Dómine, pura mente capiámus: et de múnere temporáli fiat nobis remédium sempitérnum.",
+          "pt-BR": "Que conservemos com pureza de coração, Senhor, o que a boca acaba de receber; e que esta dádiva temporal se torne para nós remédio sempiterno."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then he holds out the Chalice to the server, who pours wine into it for the first ablution.",
+          "pt-BR": "O sacerdote purifica primeiro o cálice e depois os dedos, e toma as abluções."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May Thy Body, O Lord, which I have received, and Thy Blood which I have drunk, cleave to my bowels; and grant that no stain of sin may remain in me, who have been fed with this pure and holy Sacrament; Who livest and reignest for ever and ever. Amen.",
+          "la": "Corpus tuum, Dómine, quod sumpsi, et Sanguis quem potávi, adhǽreat viscéribus meis: et præsta; ut in me non remáneat scélerum mácula, quem pura et sancta refecérunt sacraménta: Qui vivis et regnas in sǽcula sæculórum. Amen.",
+          "pt-BR": "Senhor, que o vosso Corpo, que recebi, e o vosso sangue, que bebi, se unam intimamente às minhas entranhas; dignai-Vos permitir, Senhor, que não fique em mim mancha alguma de pecado, agora que estou confortado com sacramentos tão puros e santos: Vós, que viveis e reinais em todos os séculos. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest then washes his fingers and receives the second ablution. Then he covers the chalice and goes to the right side of the altar.",
+          "pt-BR": "Purifica o cálice e deixa-o, coberto, no meio do altar. O sacerdote passa para o lado direito do altar."
+        }
+      },
+      {
+        "type": "proper",
+        "slot": "communion",
+        "description": {
+          "en-US": "Communion antiphon of the day",
+          "pt-BR": "Antífona de Comunhão do dia"
+        },
+        "form": "ef"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest kisses the altar. Then he turns to the people, and says:",
+          "pt-BR": "O sacerdote volta ao meio do altar, beija-o, e, voltando-se para os fiéis, saúda-os:"
+        }
+      },
+      {
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "proper",
+        "slot": "postcommunion",
+        "description": {
+          "en-US": "Postcommunion prayer of the day",
+          "pt-BR": "Oração pós-Comunhão do dia"
+        },
+        "form": "ef"
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+}

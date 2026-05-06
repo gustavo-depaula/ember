@@ -1,0 +1,66 @@
+{
+  "fragments": {
+    "decade": [
+      { "type": "subheading", "text": { "en-US": "{{mystery.title}}", "pt-BR": "{{mystery.title}}" } },
+      { "type": "rubric", "text": { "en-US": "{{mystery.intention}}", "pt-BR": "{{mystery.intention}}" } },
+      { "type": "prayer", "ref": "our-father" },
+      { "type": "repeat", "count": 10, "sections": [{ "type": "prayer", "ref": "hail-mary" }] },
+      { "type": "prayer", "ref": "glory-be" },
+      { "type": "prayer", "ref": "fatima-prayer" },
+      { "type": "divider" }
+    ]
+  },
+  "sections": [
+    { "type": "heading", "text": { "en-US": "The Joyful Mysteries", "pt-BR": "Os Mistérios Gozosos" } },
+    {
+      "type": "call",
+      "ref": "decade",
+      "args": {
+        "mystery": {
+          "title": { "en-US": "1. The Annunciation", "pt-BR": "1. A Anunciação" },
+          "intention": { "en-US": "Pray for humility.", "pt-BR": "Pelo dom da humildade." }
+        }
+      }
+    },
+    {
+      "type": "call",
+      "ref": "decade",
+      "args": {
+        "mystery": {
+          "title": { "en-US": "2. The Visitation", "pt-BR": "2. A Visitação" },
+          "intention": { "en-US": "Pray for love of neighbor.", "pt-BR": "Pelo amor ao próximo." }
+        }
+      }
+    },
+    {
+      "type": "call",
+      "ref": "decade",
+      "args": {
+        "mystery": {
+          "title": { "en-US": "3. The Nativity", "pt-BR": "3. A Natividade" },
+          "intention": { "en-US": "Pray for poverty of spirit.", "pt-BR": "Pelo espírito de pobreza." }
+        }
+      }
+    },
+    {
+      "type": "call",
+      "ref": "decade",
+      "args": {
+        "mystery": {
+          "title": { "en-US": "4. The Presentation", "pt-BR": "4. A Apresentação" },
+          "intention": { "en-US": "Pray for purity and obedience.", "pt-BR": "Pela pureza e obediência." }
+        }
+      }
+    },
+    {
+      "type": "call",
+      "ref": "decade",
+      "args": {
+        "mystery": {
+          "title": { "en-US": "5. The Finding in the Temple", "pt-BR": "5. O Encontro no Templo" },
+          "intention": { "en-US": "Pray for the joy of finding Jesus.", "pt-BR": "Pela alegria de encontrar Jesus." }
+        }
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@ import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const remoteUrl = 'https://ember.dpgu.me/hearth/v1'
-const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://192.168.15.189:4100'
+const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://192.168.0.214:4100'
 
 let useLocal = __DEV__
 let initialized = false

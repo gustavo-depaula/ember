@@ -46,18 +46,45 @@ export type ResolveStep = {
   book?: string
 }
 
+/**
+ * Load step — registry-based data resolution. The `source` field names a
+ * registered DataSource (see packages/content-engine/src/data-sources.ts).
+ * Any additional fields are passed as args to `source.load(args, ctx)`.
+ * The result is bound to FlowContext.flowData[as].
+ *
+ * Processed by resolveFlowAsync (async; sources may fetch from disk).
+ */
+export type LoadStep = {
+  as: string
+  source: string
+  [arg: string]: unknown
+}
+
 export type FlowDefinition = {
   flowVersion?: '1'
   data?: Record<string, RepeatEntry[]>
   resolve?: ResolveStep[]
+  load?: LoadStep[]
   sections: FlowSection[]
   fragments?: Record<string, FlowSection[]>
+  // Paths to additional fragment files (relative to the flow file's
+  // directory). Each file is a partial FlowDefinition whose `fragments`
+  // map is merged into this flow's. Lets large practices split their
+  // fragment library across multiple files instead of one giant flow.json.
+  fragmentSources?: string[]
 }
 
 export type FlowSection = { lang?: string } & (
   | { type: 'rubric'; text: LocalizedText }
   | { type: 'divider' }
-  | { type: 'heading'; text: LocalizedText }
+  | {
+      type: 'heading'
+      // Either a literal `text` or a `from` path resolved against the
+      // FlowContext (e.g. `celebration.primary.title`) — `from` reads a
+      // LocalizedText shape and localizes via ec.localize.
+      text?: LocalizedText
+      from?: string
+    }
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
   | { type: 'prayer'; ref: string }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
@@ -76,6 +103,12 @@ export type FlowSection = { lang?: string } & (
   | {
       type: 'options'
       label: LocalizedText
+      // 'chips' (default) — tight horizontal toggle, body unfolds beneath.
+      // 'cards' — vertical card list with each option's excerpt visible
+      //          alongside the title; useful when option bodies are long
+      //          (Eucharistic Prayers, prefaces) and the user wants to
+      //          identify the right one at a glance during Mass.
+      pickerStyle?: PickerStyle
       options: { id: string; label: LocalizedText; lang?: string; sections: FlowSection[] }[]
     }
   | {
@@ -120,6 +153,17 @@ export type FlowSection = { lang?: string } & (
       }[]
     }
   | {
+      type: 'select'
+      from: string
+      as: string
+      idFrom?: string
+      labelFrom?: string
+      label?: LocalizedText
+      hideIfSingle?: boolean
+      default?: string
+      body: FlowSection[]
+    }
+  | {
       type: 'gallery'
       items: {
         src: string
@@ -136,6 +180,77 @@ export type FlowSection = { lang?: string } & (
       prayer?: LocalizedText
     }
   | { type: 'fragment'; ref: string }
+  | { type: 'call'; ref: string; args?: Record<string, unknown> }
+  | {
+      // Wraps a body and propagates a liturgical-vestment color through
+      // React context to descendants. SectionMarker rules + OptionCard
+      // selected borders pick it up as a fallback when they don't set
+      // their own color, so the day's identity threads through the page
+      // without every primitive needing to declare colorFrom.
+      type: 'liturgical-color-scope'
+      from: string
+      sections: FlowSection[]
+    }
+  | {
+      // Typographic break for major Mass divisions (Initial Rites,
+      // Liturgy of the Word, etc.). Renders as a centered uppercase
+      // title between thin horizontal rules — the missal-page-break
+      // feel. Distinct from `heading`, which is reserved for normal
+      // sub-section labels (Antífona de Entrada, Glória, Credo, …).
+      // Optional `colorFrom` dotted path resolves a liturgical-color
+      // string and tints the rules in the day's vestment color
+      // (subtle, low-opacity); skip the tint if the path resolves to
+      // an unknown color.
+      type: 'section-marker'
+      title: LocalizedText
+      colorFrom?: string
+    }
+  | {
+      // Collapsible group — title is always visible; sections reveal on tap.
+      // Use for dense explanatory rubric blocks and silent priest prayers
+      // (Preparação das Oferendas, etc.) that overwhelm the audible flow.
+      // Defaults to collapsed; set `defaultOpen: true` to start expanded.
+      type: 'collapsible'
+      title: LocalizedText
+      defaultOpen?: boolean
+      sections: FlowSection[]
+    }
+  | {
+      // Renders a colored swatch + localized label for the liturgical color
+      // at `from`. `from` is a dotted path resolved against FlowContext
+      // (e.g. `celebration.primary.liturgicalColor`). Renderer draws a small
+      // dot in the actual color (white/red/green/violet/rose/black).
+      type: 'liturgical-color'
+      from: string
+    }
+  | {
+      // Hero block at the top of the day's body: liturgical-color dot
+      // inline with a large title, plus subtle rank + cycle metadata
+      // beneath. `from` points at a celebration object (like
+      // `celebration` or `celebration.primary`) and the renderer pulls
+      // title / rank / liturgicalColor itself; cycle comes from `cycleFrom`
+      // (typically `day.cycle`).
+      type: 'celebration-banner'
+      from: string
+      cycleFrom?: string
+    }
+  | {
+      // Per-slot picker over a celebration's primary + alternates formularies.
+      // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
+      // filters out empty slots, renders a chip toggle + the selected source's
+      // typed segments. See packages/mass-of for the celebration shape.
+      type: 'choice-rich-text'
+      label: LocalizedText
+      slot: string
+      celebration?: string
+      default?: string
+      // Don't preselect any option on first load — render the picker with
+      // no card highlighted and no body. The user has to tap a card to
+      // pick one. Persists via selectOverrides once chosen.
+      defaultBlank?: boolean
+      citation?: string
+      pickerStyle?: PickerStyle
+    }
 )
 
 // --- Rendered Sections (engine output, consumed by renderer) ---
@@ -162,13 +277,48 @@ export type RenderedSection =
       text: BilingualText
     }
   | { type: 'meditation'; text: BilingualText }
+  | {
+      type: 'section-marker'
+      title: BilingualText
+      color?: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+    }
+  | {
+      type: 'collapsible'
+      title: BilingualText
+      defaultOpen: boolean
+      sections: RenderedSection[]
+    }
+  | {
+      type: 'liturgical-color'
+      color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      label: BilingualText
+    }
+  | {
+      type: 'liturgical-color-scope'
+      color: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      sections: RenderedSection[]
+    }
+  | {
+      type: 'celebration-banner'
+      title: BilingualText
+      color?: 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
+      // Localized labels — engine builds these from rank + cycle ids.
+      rank?: BilingualText
+      cycle?: BilingualText
+    }
   | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
   | { type: 'subheading'; text: BilingualText }
   | { type: 'proper'; slot: string; form: 'of' | 'ef'; description: BilingualText }
   | {
       type: 'options'
       label: BilingualText
-      options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
+      pickerStyle?: PickerStyle
+      options: {
+        id: string
+        label: BilingualText
+        sections: RenderedSection[]
+        excerpt?: BilingualText
+      }[]
     }
   | {
       type: 'select'
@@ -196,3 +346,47 @@ export type RenderedSection =
       attribution?: BilingualText
       prayer?: BilingualText
     }
+  | {
+      // Per-slot picker rendered as a chip toggle + the selected source's typed
+      // rich-text segments. The renderer (ProperSlot) draws the chips, the
+      // selected option's body, and any citation. Selection persists via
+      // overrideKey in selectOverrides.
+      type: 'choice-rich-text'
+      label: BilingualText
+      overrideKey: string
+      selectedId?: string
+      pickerStyle?: PickerStyle
+      options: {
+        id: string
+        label: BilingualText
+        body: BilingualRichText
+        citation?: BilingualText
+        introduction?: BilingualText
+        conclusion?: BilingualText
+        response?: BilingualRichText
+        excerpt?: BilingualText
+      }[]
+    }
+
+export type RichTextSegmentType =
+  | 'text'
+  | 'rubric'
+  | 'reference'
+  | 'italic'
+  | 'response'
+  | 'signOfCross'
+  | 'dropCap'
+
+export type RichTextSegment = {
+  type: RichTextSegmentType
+  text: string
+}
+
+export type RichTextLine = RichTextSegment[]
+
+export type BilingualRichText = {
+  primary: RichTextLine[]
+  secondary?: RichTextLine[]
+}
+
+export type PickerStyle = 'chips' | 'cards'

@@ -1,0 +1,423 @@
+{
+  "fragments": {
+    "ef-prayers-at-the-foot-of-the-altar": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Prayers at the Foot of the Altar",
+          "pt-BR": "Orações ao Pé do Altar"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest, bowing down at the foot of the altar, makes the Sign of the Cross.",
+          "pt-BR": "De pé, diante dos degraus do altar, o sacerdote faz o sinal da cruz."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "In the name of the Father, ✠ and of the Son, and of the Holy Spirit. Amen.",
+          "la": "In nómine Patris, ✠ et Fílii, et Spíritus Sancti. Amen.",
+          "pt-BR": "Em nome do Pai, ✠ e do Filho, e do Espírito Santo. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then joining his hands before his breast, he begins the Antiphon:",
+          "pt-BR": "Juntando as mãos no peito, começa a antífona:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "I will go unto the altar of God.",
+          "la": "Introíbo ad altáre Dei.",
+          "pt-BR": "Subirei ao altar de Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "To God, who gives joy to my youth.",
+          "la": "Ad Deum qui lætíficat juventútem meam.",
+          "pt-BR": "A Deus, que alegra a minha juventude."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Psalm 42",
+          "pt-BR": "Salmo 42"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Judge me, O God, and distinguish my cause from the nation that is not holy:\ndeliver me from the unjust and deceitful man.",
+          "la": "Júdica me, Deus, et discérne causam meam de gente non sancta:\nab hómine iníquo et dolóso érue me.",
+          "pt-BR": "Julgai-me, ó Deus, e distingui a minha causa da gente ímpia:\nlivrai-me do homem iníquo e enganador."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "For Thou, O God, art my strength:\nwhy hast Thou cast me off? And why do I go sorrowful whilst the enemy afflicts me?",
+          "la": "Quia tu es, Deus, fortitúdo mea:\nquare me repulísti, et quare tristis incédo, dum afflígit me inimícus?",
+          "pt-BR": "Pois Vós, ó Deus, sois a minha fortaleza:\npor que me repelistes? E por que ando triste, enquanto me aflige o inimigo?"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Send forth Thy light and Thy truth:\nthey have led me and brought me unto Thy holy mount, and into Thy tabernacles.",
+          "la": "Emítte lucem tuam et veritátem tuam:\nipsa me deduxérunt et adduxérunt in montem sanctum tuum et in tabernácula tua.",
+          "pt-BR": "Enviai a Vossa luz e a Vossa verdade:\nelas me guiaram e conduziram ao Vosso santo monte e aos Vossos tabernáculos."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And I will go unto the altar of God:\nunto God, who gives joy to my youth.",
+          "la": "Et introíbo ad altáre Dei:\nad Deum qui lætíficat juventútem meam.",
+          "pt-BR": "E subirei ao altar de Deus:\na Deus, que alegra a minha juventude."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "I will praise Thee upon the harp, O God, my God:\nwhy art thou sad, O my soul, and why dost thou disquiet me?",
+          "la": "Confitébor tibi in cíthara, Deus, Deus meus:\nquare tristis es, ánima mea, et quare contúrbas me?",
+          "pt-BR": "Louvar-Vos-ei na cítara, ó Deus, meu Deus:\npor que estás triste, ó minha alma, e por que me perturbas?"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Hope thou in God, for I will yet praise Him:\nthe salvation of my countenance, and my God.",
+          "la": "Spera in Deo, quóniam adhuc confitébor illi:\nsalutáre vultus mei, et Deus meus.",
+          "pt-BR": "Espera em Deus, pois ainda O louvarei:\nEle é a salvação do meu rosto, e meu Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit.",
+          "la": "Glória Patri, et Fílio, et Spirítui Sancto.",
+          "pt-BR": "Glória ao Pai, e ao Filho, e ao Espírito Santo."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "As it was in the beginning, is now, and ever shall be,\nworld without end. Amen.",
+          "la": "Sicut erat in princípio, et nunc, et semper,\net in sǽcula sæculórum. Amen.",
+          "pt-BR": "Assim como era no princípio, agora e sempre,\npor todos os séculos dos séculos. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest repeats the Antiphon:",
+          "pt-BR": "O sacerdote repete a antífona:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "I will go unto the altar of God.",
+          "la": "Introíbo ad altáre Dei.",
+          "pt-BR": "Subirei ao altar de Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "To God, who gives joy to my youth.",
+          "la": "Ad Deum qui lætíficat juventútem meam.",
+          "pt-BR": "A Deus, que alegra a minha juventude."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest, signing himself with the Sign of the Cross, says:",
+          "pt-BR": "O sacerdote, fazendo o sinal da cruz, diz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Our help ✠ is in the name of the Lord.",
+          "la": "Adjutórium nostrum ✠ in nómine Dómini.",
+          "pt-BR": "O nosso auxílio ✠ está no nome do Senhor."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Who made heaven and earth.",
+          "la": "Qui fecit cælum et terram.",
+          "pt-BR": "Que fez o céu e a terra."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then, joining his hands, and humbly bowing down, he says the Confiteor:",
+          "pt-BR": "Profundamente inclinado, o sacerdote diz o Confiteor:"
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Confiteor",
+          "pt-BR": "Confiteor"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, to all the Saints, and to you, brethren: that I have sinned exceedingly, in thought, word, and deed: through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, brethren, to pray for me to the Lord our God.",
+          "la": "Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et vobis, fratres: quia peccávi nimis cogitatióne, verbo, et ópere: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.",
+          "pt-BR": "Confesso a Deus todo-poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, a todos os Santos e a vós, irmãos: que pequei muitas vezes por pensamentos, palavras e obras: por minha culpa, minha culpa, minha máxima culpa. Portanto, rogo à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, a todos os Santos e a vós, irmãos, que rogueis por mim ao Senhor nosso Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "May almighty God have mercy on you, forgive you your sins, and bring you to everlasting life.",
+          "la": "Misereátur tui omnípotens Deus, et dimíssis peccátis tuis, perdúcat te ad vitam ætérnam.",
+          "pt-BR": "Deus todo-poderoso tenha misericórdia de vós, perdoe os vossos pecados e vos conduza à vida eterna."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest answers:",
+          "pt-BR": "O sacerdote responde:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The server says the Confiteor.",
+          "pt-BR": "O acólito diz o Confiteor."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, to all the Saints, and to you, Father: that I have sinned exceedingly, in thought, word, and deed: through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray for me to the Lord our God.",
+          "la": "Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et tibi, pater: quia peccávi nimis cogitatióne, verbo, et ópere: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et te, pater, oráre pro me ad Dóminum Deum nostrum.",
+          "pt-BR": "Confesso a Deus todo-poderoso, à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, a todos os Santos e a vós, Padre: que pequei muitas vezes por pensamentos, palavras e obras: por minha culpa, minha culpa, minha máxima culpa. Portanto, rogo à bem-aventurada sempre Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, a todos os Santos e a vós, Padre, que rogueis por mim ao Senhor nosso Deus."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then the priest, with his hands joined, says:",
+          "pt-BR": "O sacerdote, juntando as mãos, diz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May almighty God have mercy on you, forgive you your sins, and bring you to everlasting life.",
+          "la": "Misereátur vestri omnípotens Deus, et dimíssis peccátis vestris, perdúcat vos ad vitam ætérnam.",
+          "pt-BR": "Deus todo-poderoso tenha misericórdia de vós, perdoe os vossos pecados e vos conduza à vida eterna."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Signing himself with the Sign of the Cross, the priest says:",
+          "pt-BR": "Fazendo o sinal da cruz, diz:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May the almighty and merciful Lord grant us ✠ pardon, absolution, and remission of our sins.",
+          "la": "Indulgéntiam, ✠ absolutiónem, et remissiónem peccatórum nostrórum, tríbuat nobis omnípotens et miséricors Dóminus.",
+          "pt-BR": "A indulgência, ✠ a absolvição e a remissão dos nossos pecados nos conceda o Senhor todo-poderoso e misericordioso."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Bowing down, he proceeds:",
+          "pt-BR": "Inclinado, prossegue:"
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Versicles",
+          "pt-BR": "Versículos"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Thou wilt turn, O God, and bring us to life.",
+          "la": "Deus, tu convérsus vivificábis nos.",
+          "pt-BR": "Ó Deus, voltando-Vos para nós, nos dareis a vida."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And Thy people shall rejoice in Thee.",
+          "la": "Et plebs tua lætábitur in te.",
+          "pt-BR": "E o Vosso povo se alegrará em Vós."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Show us, O Lord, Thy mercy.",
+          "la": "Osténde nobis, Dómine, misericórdiam tuam.",
+          "pt-BR": "Mostrai-nos, Senhor, a Vossa misericórdia."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And grant us Thy salvation.",
+          "la": "Et salutáre tuum da nobis.",
+          "pt-BR": "E dai-nos a Vossa salvação."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "O Lord, hear my prayer.",
+          "la": "Dómine, exáudi oratiónem meam.",
+          "pt-BR": "Senhor, ouvi a minha oração."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And let my cry come unto Thee.",
+          "la": "Et clamor meus ad te véniat.",
+          "pt-BR": "E chegue a Vós o meu clamor."
+        }
+      },
+      {
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Extending and then joining his hands, the priest says aloud \"Let us pray.\" Then ascending to the altar, he says silently:",
+          "pt-BR": "O sacerdote sobe ao altar dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Take away from us our iniquities, we beseech Thee, O Lord: that we may be worthy to enter with pure minds into the Holy of Holies. Through Christ our Lord. Amen.",
+          "la": "Aufer a nobis, quǽsumus, Dómine, iniquitátes nostras: ut ad Sancta sanctórum puris mereámur méntibus introíre. Per Christum Dóminum nostrum. Amen.",
+          "pt-BR": "Tirai de nós as nossas iniquidades, Vos suplicamos, ó Senhor: para que mereçamos entrar com almas puras no Santo dos Santos. Por Cristo nosso Senhor. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "His hands joined, and bowing down over the altar, the priest says:",
+          "pt-BR": "Com as mãos juntas, inclinado sobre o altar, o sacerdote diz:"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He kisses the altar stone.",
+          "pt-BR": "Beija o altar."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "We beseech Thee, O Lord, by the merits of Thy Saints whose relics are here, and of all the Saints: that Thou wouldst vouchsafe to forgive me all my sins. Amen.",
+          "la": "Orámus te, Dómine, per mérita Sanctórum tuórum, quorum relíquiæ hic sunt, et ómnium Sanctórum: ut indulgére dignéris ómnia peccáta mea. Amen.",
+          "pt-BR": "Nós Vos rogamos, ó Senhor, pelos méritos dos Vossos Santos cujas relíquias aqui se encontram, e de todos os Santos: que Vos digneis perdoar-me todos os meus pecados. Amém."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "proper",
+        "slot": "introit",
+        "description": {
+          "en-US": "Introit of the day",
+          "pt-BR": "Intróito do dia"
+        },
+        "form": "ef"
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+}

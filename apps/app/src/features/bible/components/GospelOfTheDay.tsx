@@ -6,13 +6,13 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { useTodayCelebration } from '@/features/calendar/hooks'
 import { localizeContent } from '@/lib/i18n'
-import { useProperForSlot } from '@/lib/mass-propers/hook'
+import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/mass-of/use-gospel-of-the-day'
 
 export function GospelOfTheDay() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const { data: gospel, isLoading, isError, refetch } = useProperForSlot('gospel', 'of')
+  const { data: gospel, isLoading, isError, refetch } = useGospelOfTheDayQuery()
   const dayCalendar = useTodayCelebration()
 
   if (isError) {
@@ -60,10 +60,7 @@ export function GospelOfTheDay() {
     ? localizeContent(dayCalendar.principal.entry.name)
     : undefined
 
-  const preview =
-    gospel.text.primary.length > 180
-      ? `${gospel.text.primary.slice(0, 180)}...`
-      : gospel.text.primary
+  const preview = gospel.text.length > 180 ? `${gospel.text.slice(0, 180)}...` : gospel.text
 
   return (
     <AnimatedPressable
