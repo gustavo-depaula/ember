@@ -1,0 +1,60 @@
+{
+  "fragments": {
+    "ef-gloria": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Gloria",
+          "pt-BR": "Glória"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Standing at the middle of the altar, extending and then joining his hands, the priest says the Gloria:",
+          "pt-BR": "De pé, no meio do altar, estendendo e depois juntando as mãos, o sacerdote diz o Glória:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Glory to God in the highest.",
+          "la": "Glória in excélsis Deo.",
+          "pt-BR": "Glória a Deus nas alturas."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "And on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only-begotten Son. O Lord God, Lamb of God, Son of the Father. Thou who takest away the sins of the world, have mercy on us. Thou who takest away the sins of the world, receive our prayer. Thou who sittest at the right hand of the Father, have mercy on us. For Thou alone art holy. Thou alone art the Lord. Thou alone art the Most High, Jesus Christ. Together with the Holy Spirit, ✠ in the glory of God the Father. Amen.",
+          "la": "Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex cæléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu, ✠ in glória Dei Patris. Amen.",
+          "pt-BR": "E na terra paz aos homens de boa vontade. Nós Vos louvamos. Nós Vos bendizemos. Nós Vos adoramos. Nós Vos glorificamos. Nós Vos damos graças pela Vossa imensa glória. Senhor Deus, Rei dos céus, Deus Pai todo-poderoso. Senhor Jesus Cristo, Filho Unigénito. Senhor Deus, Cordeiro de Deus, Filho do Pai. Vós que tirais os pecados do mundo, tende piedade de nós. Vós que tirais os pecados do mundo, acolhei a nossa súplica. Vós que estais sentado à direita do Pai, tende piedade de nós. Pois só Vós sois o Santo. Só Vós sois o Senhor. Só Vós sois o Altíssimo, Jesus Cristo. Com o Espírito Santo, ✠ na glória de Deus Pai. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then the priest kisses the altar, and turning to the people says:",
+          "pt-BR": "O sacerdote benze-se, beija o altar, volta-se para os fiéis e diz:"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "proper",
+        "slot": "collect",
+        "description": {
+          "en-US": "Collect of the day",
+          "pt-BR": "Oração Coleta do dia"
+        },
+        "form": "ef"
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+}

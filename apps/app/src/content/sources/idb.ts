@@ -25,7 +25,33 @@ async function loadPracticeFlow(
   base: string,
   manifest: PracticeManifest,
 ): Promise<FlowDefinition | undefined> {
-  return readJson<FlowDefinition>(`${base}/${manifest.flow}`)
+  const flowPath = `${base}/${manifest.flow}`
+  const flow = await readJson<FlowDefinition>(flowPath)
+  if (!flow) return undefined
+
+  const sources = flow.fragmentSources
+  if (!sources || sources.length === 0) return flow
+
+  // Resolve fragmentSources relative to the flow file's directory.
+  const flowDir = flowPath.slice(0, flowPath.lastIndexOf('/'))
+  const merged: Record<string, FlowSection[]> = { ...(flow.fragments ?? {}) }
+  await Promise.all(
+    sources.map(async (relPath) => {
+      const partial = await readJson<{ fragments?: Record<string, FlowSection[]> }>(
+        `${flowDir}/${relPath}`,
+      )
+      if (!partial?.fragments) return
+      for (const [name, sections] of Object.entries(partial.fragments)) {
+        if (merged[name]) {
+          console.warn(
+            `[idb] fragment "${name}" in ${relPath} shadows an earlier definition for practice ${manifest.id}`,
+          )
+        }
+        merged[name] = sections
+      }
+    }),
+  )
+  return { ...flow, fragments: merged }
 }
 
 async function loadPractice(

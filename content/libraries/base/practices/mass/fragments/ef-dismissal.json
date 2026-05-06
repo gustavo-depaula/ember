@@ -1,0 +1,86 @@
+{
+  "fragments": {
+    "ef-dismissal": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Dismissal",
+          "pt-BR": "Despedida"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He turns to the people and says:",
+          "pt-BR": "Vira-se para as pessoas e diz:"
+        }
+      },
+      {
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Go, the Mass is ended.",
+          "la": "Ite, Missa est.",
+          "pt-BR": "Ide, a Missa acabou."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Thanks be to God.",
+          "la": "Deo grátias.",
+          "pt-BR": "Graças a Deus."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Blessing",
+          "pt-BR": "Bênção"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May the tribute of my homage be pleasing to Thee, O holy Trinity: and grant that the sacrifice which I, though unworthy, have offered in the sight of Thy majesty, may be acceptable to Thee, and through Thy mercy be a propitiation for me and for all those for whom I have offered it. Through Christ our Lord. Amen.",
+          "la": "Pláceat tibi, sancta Trínitas, obséquium servitútis meæ: et præsta; ut sacrifícium, quod óculis tuæ majestátis indígnus óbtuli, tibi sit acceptábile, mihíque, et ómnibus pro quibus illud óbtuli, sit, te miseránte, propitiábile. Per Christum Dóminum nostrum. Amen.",
+          "pt-BR": "Seja-Vos agradável, ó Santíssima Trindade, a homenagem da minha servidão: e concedei que o sacrifício que eu, embora indigno, ofereci diante da Vossa majestade, Vos seja aceito, e que, pela Vossa misericórdia, seja propiciatório para mim e para todos aqueles por quem o ofereci. Por Cristo nosso Senhor. Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "He kisses the altar, and raising his eyes, extending, raising and joining his hands, he bows down his head and says:",
+          "pt-BR": "Beija o altar, volta-se para a assistência, e dá a bênção, dizendo:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "May almighty God bless you, the Father, and the Son, ✠ and the Holy Spirit.",
+          "la": "Benedícat vos omnípotens Deus, Pater, et Fílius, ✠ et Spíritus Sanctus.",
+          "pt-BR": "Abençoe-vos Deus todo-poderoso, Pai, e Filho, ✠ e Espírito Santo."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "divider"
+      }
+    ]
+  }
+}

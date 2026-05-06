@@ -67,6 +67,11 @@ export type FlowDefinition = {
   load?: LoadStep[]
   sections: FlowSection[]
   fragments?: Record<string, FlowSection[]>
+  // Paths to additional fragment files (relative to the flow file's
+  // directory). Each file is a partial FlowDefinition whose `fragments`
+  // map is merged into this flow's. Lets large practices split their
+  // fragment library across multiple files instead of one giant flow.json.
+  fragmentSources?: string[]
 }
 
 export type FlowSection = { lang?: string } & (

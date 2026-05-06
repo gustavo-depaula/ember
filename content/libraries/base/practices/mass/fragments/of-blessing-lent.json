@@ -1,0 +1,166 @@
+{
+  "fragments": {
+    "of-blessing-lent": [
+      {
+        "type": "options",
+        "label": {
+          "pt-BR": "Bênção Final",
+          "en-US": "Final Blessing"
+        },
+        "options": [
+          {
+            "id": "of-blessing-simple",
+            "label": {
+              "pt-BR": "Bênção simples",
+              "en-US": "Simple Blessing"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "May almighty God bless you, the Father, and the Son, ✠ and the Holy Spirit.",
+                  "la": "Benedícat vos omnípotens Deus, Pater, et Fílius, ✠ et Spíritus Sanctus.",
+                  "pt-BR": "Abençoe-vos Deus todo-poderoso, Pai e Filho ✠ e Espírito Santo."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Amen.",
+                  "la": "Amen.",
+                  "pt-BR": "Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-blessing-paixao",
+            "label": {
+              "pt-BR": "Paixão / Quaresma",
+              "en-US": "Passion / Lent"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus, o Pai de misericórdia, que vos deu um exemplo de amor na paixão do seu Filho, vos conceda, pelo vosso serviço a Deus e ao próximo, o dom inefável da sua bênção."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus que, pela morte do Filho na cruz, nos livrou da morte eterna, vos conduza à vida que não tem fim."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Deus torne participantes da ressurreição de Cristo a vós que seguistes o seu testemunho de humildade."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "E a bênção de Deus todo-poderoso, Pai e Filho"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "✠ e Espírito Santo, desça sobre vós e permaneça para sempre."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "℟. Amém."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-popl-quaresma",
+            "label": {
+              "pt-BR": "Forma quaresmal (2)",
+              "en-US": "Lenten form (2)"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Concedei, Senhor, ao povo cristão conhecer a fé que professa e amar o dom celestial que celebra. Por Cristo, nosso Senhor.",
+                  "en-US": "Grant, O Lord, that your Christian people may know the faith they profess and love the heavenly gift they celebrate. Through Christ our Lord."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "Amém.",
+                  "en-US": "Amen.",
+                  "la": "Amen."
+                }
+              }
+            ]
+          },
+          {
+            "id": "of-popl-1",
+            "label": {
+              "pt-BR": "Forma simples (1)",
+              "en-US": "Simple form (1)"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "pt-BR": "Ó Deus, acompanhai sempre o vosso povo e concedei nesta vida a consolação aos que chamais a tomar parte dos bens eternos. Por Cristo, nosso Senhor.",
+                  "en-US": "O God, accompany your people always and grant in this life consolation to those whom you call to share in the eternal goods. Through Christ our Lord."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "pt-BR": "Amém.",
+                  "en-US": "Amen.",
+                  "la": "Amen."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

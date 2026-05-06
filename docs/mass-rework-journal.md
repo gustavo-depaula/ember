@@ -847,3 +847,100 @@ Library bumped to 1.5.9 — `flow.json` shipped a new field.
 
 ---
 
+## Iteration 22 — Split flow.json + EP picker at moment of identification
+
+User saw iteration 21 land and pushed back: *"you didnt move the EP
+part at all"*. Then, after I waffled with three convoluted options:
+*"LOOK, THE PERSON HEARING A MASS CANT PICK THE EP AT THE MOMENT
+YOURE PUTTING IT!!!! THEY CAN ONLY DO IT WHEN THE PRIEST SAYS
+SOMETHING THAT GIVES THEM DIRECTION!!!!"*
+
+That clarified the architecture. The faithful follows by ear. The
+pickers must sit where the priest's distinctive words begin — preface
+picker right after the dialogue, EP picker right after Sanctus. Each
+card's preview = the words the user actually hears.
+
+Two threads of work landed together:
+
+### Thread A — `fragmentSources`: split flow.json
+
+User flagged the file size (7,683 lines, 503 KB) as a real problem
+for AI-assisted edits *and* for human readability. Added
+`fragmentSources?: string[]` to `FlowDefinition`. The loaders (`idb`
++ `filesystem` sources) read each path relative to the flow file's
+directory, treat it as `{ fragments: { ... } }`, and merge into the
+main flow's `fragments` map before handing to the engine. Engine
+unchanged — it still receives one `FlowDefinition`.
+
+Applied to the Mass practice. Two new files in
+`content/libraries/base/practices/mass/fragments/`:
+
+- `of-special-rites.json` — 5 bodies (Chrism Mass, Easter Vigil,
+  Good Friday, Lord's Supper, Palm Sunday). Already top-level
+  fragments in flow.json; just moved out.
+- `of-eucharistic-prayers.json` — 4 new fragments (`of-ep1-body`,
+  `of-ep2-body`, `of-ep3-body`, `of-ep4-body`). Each EP card's
+  inline `sections` now contains a single
+  `{ type: 'call', ref: 'of-epN-body' }`.
+
+flow.json: 7,683 → 5,967 lines (-22%, ~120 KB lighter). Conflicting
+fragment names log a warning at load.
+
+### Thread B — EP block restructure
+
+Before: `rubric → EP-picker (cards) → [body unfolds: dialogue + preface
+picker + Sanctus + EP body]`. The picker is at the *top* of the EP
+block, before any priest word distinguishes one EP from another.
+After iteration 19's section-marker, the user could *see* which EP was
+prayed but not *change* it from the body — and they couldn't make the
+initial pick by ear because they hadn't heard the EP body yet.
+
+After:
+
+```
+rubric "All stand for the Preface dialogue."
+  → call: of-preface-dialogue
+  → call: of-day-preface              (preface picker, defaultBlank)
+  → call: of-sanctus
+  → options widget: EP picker         (cards, defaultBlank)
+  →   card body = anaphora only
+```
+
+Each picker sits where the priest's distinctive words begin. With
+`defaultBlank: true` (iteration 21), no body renders until the user
+identifies what they're hearing and taps the matching card. Card
+preview comes from `deriveOptionExcerpt`, which now returns the
+first `prayer` segment in each EP body — i.e. the EP's actual opening
+words ("Pai de misericórdia, a quem sobem nossos louvores..." for OE
+I, "Na verdade, ó Pai, vós sois santo e fonte de toda santidade..."
+for OE II, etc.) — exactly what the user hears.
+
+Bodies stripped of duplicate dialogue/preface/Sanctus:
+
+- **OE I, II, III**: dropped the leading `call: of-ep-day-preface-head`
+  (which was the dialogue + preface picker + Sanctus block). Kept the
+  iteration-19 section-marker and the anaphora.
+- **OE IV**: stripped the inline dialogue, "Preface" subheading, two
+  EP-IV-specific preface prayers, and Sanctus call. Kept the rubric
+  ("EP IV has a fixed Preface...") and the section-marker. The EP IV
+  preface text is gone from the in-app flow — note as parked.
+- **OE V**: dropped from the EP picker entirely. Its 4 variants (5a–
+  5d) each carry an integral preface+Sanctus that doesn't fit cleanly
+  into the new top-level structure. Note as parked.
+
+### What's still missing
+
+- **OE IV's fixed preface text** — the preface picker only carries
+  `prefaceRefs` from the day's formulary; OE IV's preface isn't a
+  standalone preface in ember-extra and was previously inlined into
+  the OE IV body. With the strip it's not rendered anywhere. User
+  picking OE IV follows the preface by ear; the rest renders fine.
+- **OE V** — picker drops it. Variants need their own rework.
+- **Common Prefaces (pf058–pf063), Defuntos (pf067–pf071)** — could
+  be appended to every preface picker as additional options. Not
+  done; revisit when user sees the new flow and decides.
+
+Library bumped to 1.5.10.
+
+---
+
