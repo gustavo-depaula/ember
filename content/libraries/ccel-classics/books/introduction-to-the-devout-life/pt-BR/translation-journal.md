@@ -105,6 +105,34 @@ Quando o texto se dirige a Deus, à Virgem ou aos santos em oração: usar **vó
 | public offices of the Church | ofícios públicos da Igreja | |
 | Communion of Saints | Comunhão dos Santos | |
 | good works | boas obras | |
+| Heavenly Bridegroom | Esposo Celeste | |
+| flower-girl Glycera / Pausias | a florista Glícera / Pausias | Pausias usado em pt; Glícera com acento |
+| spurious devotion | devoção espúria | |
+| lay figures / phantasms | manequins / fantasmas (de devoção) | Imagens salesianas conservadas |
+| Mount Calvary | Monte Calvário | |
+| valley of Jehoshaphat | vale de Josafat | |
+| New Jerusalem | Nova Jerusalém | |
+| Sovereign Judge | Soberano Juiz | |
+| pruning-hook | podadeira | |
+| Promised Land | Terra Prometida | |
+| Jacob's ladder | escada de Jacó | |
+| Heavenly Country | Pátria celeste | |
+| guardian Angel | anjo da guarda | |
+| good Angel | bom anjo / anjo da guarda | |
+| Tobias / Tobit | Tobias / Tobit | "Tobias" para o filho; "Tobit" para o pai (preserva o nome inglês) |
+| Avila (the devout) | Ávila (o devoto) | João de Ávila |
+| S. Catherine of Sienna | Santa Catarina de Sena | |
+| S. Teresa | Santa Teresa | |
+| Magdalen / Magdalene | Madalena | |
+| leeks and onions / fleshpots of Egypt | alhos e cebolas / panelas de carne do Egito | Alusão a Nm 11,5 |
+| general confession | confissão geral | |
+| Lamb (Song of the) | Cordeiro (Cântico do) | |
+| firemoth | borboleta-do-fogo | Πυραύστης no original; mantido grego em nota |
+| Chelidonian Isles | Ilhas Quelidônias | |
+| mother-of-pearl | madrepérola | |
+| Palma Christi | *Palma Christi* | mantido em latim conforme original |
+| Mary Magdalene's Day | dia de Santa Madalena | |
+| protest (formal) | protestação | Termo técnico salesiano |
 
 ## Decisões de tradução
 
@@ -135,4 +163,85 @@ A tradução irmã do *Tratado da Verdadeira Devoção* (Montfort) em pt-BR usa 
 
 ## Diário (entradas datadas conforme a tradução avança)
 
-(entradas adicionadas pelos sub-agentes à medida que cada arquivo é traduzido)
+### title-page-preface-by.md
+
+- Pré-existente (mantido). Nota CCEL `[^4]` sobre omissão de "Filoteia" foi descartada e notas seguintes renumeradas (`[^5]→[^4]`, `[^6]→[^5]`).
+
+### part-i-chapter-i.md
+
+- "wax greater" → "agigantar-se" (já no glossário). "Lay figures, phantasms of devotion" → "manequins, fantasmas de devoção".
+- "Arelius" mantido sem tradução.
+- "Michal" → "Mical" (esposa de Davi).
+- Abertura "YOU aim at..." → "Aspiras à vida devota, querida filha..." (forma "tu", conjugação clássica, sem CAIXA-ALTA).
+
+### part-i-chapter-ii.md
+
+- "Joshua and Caleb" → "Josué e Caleb" (forma tradicional pt-BR).
+- "Promised Land" → "Terra Prometida".
+- Imagem "bee on mountain thyme" → "abelha pairando sobre o tomilho da montanha" (preservada).
+
+### part-i-chapter-iii.md
+
+- "Carthusian / Capucin" → "cartuxo / capuchinho".
+- Lista de santos do AT/NT: "Tobias" (filho), "Sara, Rebeca, Judite", "Lídia, Crispo", "Áquila e Priscila".
+- "Blessed Amadaeus" → "bem-aventurado Amadeu" (com nota explicativa do autor preservada).
+
+### part-i-chapter-iv.md
+
+- "Tobias" (filho) e "Tobit" (pai) — distinção mantida conforme texto inglês (Tob. v. 3 cita o pai dizendo "seek thee a man").
+- Citação francesa de São Luís preservada literalmente em francês na nota de rodapé (decisão para preservar o caráter histórico-textual da nota).
+- "S. Elisabeth" → "Santa Isabel" (de Hungria/Turíngia, tradicional pt-BR).
+- Eclesiástico (Sirácida) referenciado como "Eclo." (forma usual brasileira).
+
+### part-i-chapter-v.md
+
+- "pruning-hook" → "podadeira". Imagem "como o cervo… seguindo a vontade de Deus" preservada.
+- "spiritual maladies… come on horseback and express, while they depart slowly and on foot" → "vêm a cavalo e em correio… vão-se lentamente e a pé" (idiom francês clássico de São Francisco, mantido vivo).
+
+### part-i-chapter-vi.md
+
+- Lista bibliográfica em nota (Granada, Bruno, Arias, Augez + autores ingleses) preservada literalmente; obras inglesas mantidas em inglês porque são referências culturais editoriais (CCEL editor preservou de São Francisco ao adaptar — mantivemos por serem ainda informativas a um leitor moderno).
+
+### part-i-chapter-vii.md
+
+- "leeks and onions / fleshpots of Egypt" → "alhos e cebolas / panelas de carne do Egito" (alusão Nm 11,5).
+- "Lot's wife" → "mulher de Lot" (forma tradicional).
+
+### part-i-chapter-viii.md
+
+- "renewing of the soul" / "eagle's strength" (Sl 103,5) → "renovação da alma… força da águia".
+
+### part-i-chapter-ix.md a xviii.md (Dez Meditações)
+
+- Cabeçalhos numerais ordinais: PRIMEIRA, SEGUNDA, TERCEIRA, QUARTA, QUINTA, SEXTA, SÉTIMA, OITAVA, NONA, DÉCIMA.
+- Subtítulos em itálico preservados: *Preparação.*, *Considerações.*, *Afetos e Resoluções.*, *Conclusão.* — e em ix/x/xviii: *A Escolha.* (apenas em xvii e xviii, mas xviii o tem como "The Choice").
+- Orações dirigidas a Deus em segunda pessoa **vós** (forma clássica reverente das orações católicas em pt-BR), enquanto a alma de Filoteia continua em **tu**.
+- "OUR FATHER" → "PAI NOSSO" (caixa-alta preservada).
+- "spiritual bouquet" → "ramalhete espiritual" (cap. ix); "bouquet of myrrh" (cap. xiii) → "ramalhete de mirra".
+- Cap. x apresenta enumeração `2.` duplicada no original (parece erro tipográfico do CCEL); preservei a duplicação para fidelidade.
+
+### part-i-chapter-xv.md (Inferno)
+
+- Citação de Is 33,14 traduzida com fórmula bíblica padrão pt-BR ("Quem dentre nós poderá morar com o fogo devorador?").
+
+### part-i-chapter-xix.md
+
+- "scorpion oil" — imagem científica da medicina antiga preservada (escorpião venenoso cujo óleo destilado é remédio).
+- "Speak, Lord, for Thy servant heareth" → "Fala, Senhor, que o teu servo ouve" (1Sm 3,9 forma tradicional).
+
+### part-i-chapter-xx.md (Protestação)
+
+- Marcadores genéricos "abaixo assinado(a)", "filho(a)", "servo(a)" — preservei marca de gênero entre parênteses, pois o texto é uma fórmula litúrgica destinada a homens e mulheres (Filoteia é feminina, mas a fórmula serve aos dois sexos como o autor diz na própria intenção).
+
+### part-i-chapter-xxii.md
+
+- "Dead flies cause the ointment to send forth a stinking savour" (Ecl 10,1) → "Moscas mortas fazem o unguento exalar mau cheiro".
+
+### part-i-chapter-xxiii.md
+
+- "Nazarites" → "nazireus" (forma bíblica brasileira, distinta de "nazarenos" que designa habitantes de Nazaré).
+
+### part-i-chapter-xxiv.md
+
+- "S. Paula" → "Santa Paula" (a romana, discípula de São Jerônimo).
+- "bitter almond tree… by grafting the juice of the latter upon it" — imagem agrícola salesiana preservada.
