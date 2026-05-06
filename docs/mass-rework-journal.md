@@ -731,3 +731,67 @@ EP name as a typographic anchor.
 Library bumped to 1.5.8.
 
 ---
+
+## Iteration 20 — Body-derived preface excerpt
+
+User on iteration 19's preface cards: *"the preview of the prefaces
+are still not useful at all"*. The italic line under each title
+("O mistério pascal", "A vida nova em Cristo", "O Cristo vivo, que
+sempre intercede por nós") is the canonical Roman Missal subtitle
+— the *theme*, not the *spoken text*. The user explicitly asked
+for "as palavras que são rezadas".
+
+New `prefaceBodyExcerpts(preface)` walks `body.lines[lang]`, keeps
+only `text` segments (rubrics filtered out), and skips past the
+boilerplate "É verdadeiramente justo, é nosso dever e salvação...,
+Senhor, Pai santo, Deus eterno e todo-poderoso, por Cristo, Senhor
+nosso." opening that's identical across most prefaces. Markers per
+language: pt-BR matches `\bsenhor nosso\b` / `\btodo-poderoso\b` /
+`\bem todo (o )?tempo\b` / `\bem todo (o )?lugar\b`; en uses
+`through christ our lord` / `almighty (and eternal) god` / `at all
+times`; la uses `per christum dominum nostrum` / `omnipotens
+æterne deus` / `semper et ubique`. The *latest* match in the first
+600 chars wins, then leading conjunctions (`mas,`, `porque,`,
+`but,`, `for,`, `sed,`, `quia,`, …) are stripped. Truncate at the
+first sentence boundary, soft-cap at 160 chars.
+
+Fallback path: `body.plain[lang]` if `body.lines[lang]` is missing
+or yields no marker hit. Skips the rubric prefix via the prayer-
+start marker (`Na verdade, é digno e justo` / `It is truly right
+and just` / `Vere dignum et iustum est`) before searching for the
+boilerplate end.
+
+`hydratePreface` now calls `prefaceBodyExcerpts(data)` per preface
+and falls back per-language to the old title-subtitle for cases
+where the body heuristic misses (e.g. a preface that lacks a
+recognized boilerplate marker). Lazy fallback — `prefaceTitleSubtitle`
+runs only for languages where the body excerpt was empty.
+
+Sample results on Easter prefaces (pt-BR):
+- Páscoa I: *"com maior júbilo, louvar-vos nesta noite, neste dia,
+  neste tempo, porque Cristo, nossa Páscoa, foi imolado."*
+- Páscoa II: distinctive line with "vida nova"-grade specifics
+- Common I: *"Nele quisestes renovar todas as coisas, e a nós
+  destes participar da sua plenitude."*
+- Advent I: *"Revestido da nossa fragilidade, ele veio a primeira
+  vez para realizar seu eterno plano de amor..."*
+
+8 unit tests over real ember-extra fixtures (pf016 Easter I, pf001
+Advent I, pf005 Christmas I, pf058 Common I, pf067 Defuntos I)
+verify each excerpt contains the preface's defining keyword and
+not the boilerplate prefix. Full mass-of suite (66 tests) green.
+
+`/simplify` flagged eager `localizedAbbreviate(title,
+prefaceTitleSubtitle)` (~3 wasted regex executions per preface)
+and helper sprawl (`bodyLines` + `bodyPlain` + `fallbackFromPlain`
+duplicated the boilerplate-end pipeline). Both fixed: per-lang
+lazy fallback, single `bodyTextForLang` that prefers `lines` and
+falls back to `plain` then runs the heuristic exactly once.
+
+No library bump — this is a TS-only change in `mass-of`. The
+`.pray` archive's content is identical; the in-app rendering of
+each preface card's italic line just transforms the same data
+differently.
+
+---
+

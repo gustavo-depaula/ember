@@ -1,6 +1,7 @@
 import type { DataSource, SourceContext } from '@ember/content-engine'
 import { format } from 'date-fns'
 import { enumerateCelebrations, formularyPath, pickCycle } from './calendar'
+import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
 import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
 import type {
   Celebration,
@@ -136,10 +137,18 @@ async function hydratePreface(ctx: SourceContext, formulary: Formulary): Promise
     const data = await fetchPreface(ctx, ref)
     if (!data) continue
     const title = data.title as Record<string, string> | undefined
+    const bodyExcerpt = prefaceBodyExcerpts(data)
+    // Prefer the prayed-words snippet; fall back to the title's subtitle
+    // for prefaces whose body doesn't match the boilerplate-end heuristic.
+    const excerpt = {
+      'pt-BR': bodyExcerpt['pt-BR'] ?? prefaceTitleSubtitle(title?.['pt-BR']),
+      'en-US': bodyExcerpt['en-US'] ?? prefaceTitleSubtitle(title?.en),
+      la: bodyExcerpt.la ?? prefaceTitleSubtitle(title?.la),
+    }
     hydrated.push({
       ...data,
       label: localizedAbbreviate(title, abbreviatePrefaceTitle),
-      excerpt: localizedAbbreviate(title, prefaceTitleSubtitle),
+      excerpt,
     })
   }
   if (hydrated.length === 0) return formulary
