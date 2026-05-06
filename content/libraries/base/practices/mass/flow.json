@@ -963,7 +963,8 @@
           "pt-BR": "Prefácio do dia"
         },
         "slot": "preface",
-        "pickerStyle": "cards"
+        "pickerStyle": "cards",
+        "defaultBlank": true
       }
     ],
     "of-ep-day-preface-head": [
@@ -5911,7 +5912,8 @@
                                         "pt-BR": "Prefácio do dia"
                                       },
                                       "slot": "preface",
-                                      "pickerStyle": "cards"
+                                      "pickerStyle": "cards",
+                                      "defaultBlank": true
                                     },
                                     {
                                       "type": "divider"

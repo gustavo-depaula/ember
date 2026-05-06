@@ -239,6 +239,10 @@ export type FlowSection = { lang?: string } & (
       slot: string
       celebration?: string
       default?: string
+      // Don't preselect any option on first load — render the picker with
+      // no card highlighted and no body. The user has to tap a card to
+      // pick one. Persists via selectOverrides once chosen.
+      defaultBlank?: boolean
       citation?: string
       pickerStyle?: PickerStyle
     }
@@ -345,7 +349,7 @@ export type RenderedSection =
       type: 'choice-rich-text'
       label: BilingualText
       overrideKey: string
-      selectedId: string
+      selectedId?: string
       pickerStyle?: PickerStyle
       options: {
         id: string

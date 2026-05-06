@@ -795,3 +795,55 @@ differently.
 
 ---
 
+## Iteration 21 — Preface body hidden until picked
+
+User on iteration 20's UX direction: *"I SAID THE PREFACE SHOULD
+BE HIDDEN. SHOW NO PREFACE, UNTIL IT IS PICKED."* The cards stay
+visible (so the user can pick), but nothing is preselected and no
+body renders below until a card is tapped. Most users won't change
+the preface; the parish prays the day's default — and the default
+preface body shouldn't intrude on the silence between Sanctus and
+the EP body.
+
+New `defaultBlank: true` flag on `choice-rich-text`:
+
+- **Engine** (`engine.ts:1364`): when `defaultBlank` is set and
+  there's no `selectOverrides` entry yet, emit `selectedId:
+  undefined` instead of falling through to `options[0].id`.
+  Otherwise the existing default-or-first logic stands.
+- **Output type** (`types.ts:348`): `selectedId` becomes optional
+  on the rendered `choice-rich-text` section. Empty string was
+  rejected during /simplify — `undefined` is the engine-level
+  concept; the renderer's "no card highlighted, no body" is its
+  own derivation.
+- **Renderer** (`ChoiceRichTextBlock.tsx`): `current` is
+  `selectedId ? options.find(...) : undefined`; the body block is
+  guarded by `current && renderBody(current)` so it disappears
+  until selection. The card stack always renders for `cards`
+  pickerStyle so the user has something to tap; `OptionCard`
+  already handles `isSelected={false}` correctly. Chip-style
+  pickers still hide for single-option slots — no change there.
+- **Flow** (`flow.json`): `defaultBlank: true` set on
+  `of-day-preface` (the standard fragment, line 967) AND on the
+  inline preface picker in the special-rite branch around line
+  5915. EF Mass `proper` slots untouched (different primitive).
+
+Once the user picks a card, the choice persists via
+`selectOverrides` and the body renders inline below the stack —
+identical to the existing post-pick behavior.
+
+Out of scope (parked from the planning thread):
+
+- **Common Prefaces / Defuntos / "Próprio OE IV-V"** in the
+  picker. User said *"idk... let's for now not show the default
+  prefaces, just the ones from the temporal."* Picker stays
+  scoped to `prefaceRefs` from the formulary. EP IV / V keep
+  their inline fixed prefaces inside their EP cards.
+- **EP picker placement.** Earlier directive ("move picker after
+  Sanctus, restructure") parked. Iteration 19's `section-marker`
+  remains the body-start anchor.
+
+Library bumped to 1.5.9 — `flow.json` shipped a new field.
+
+---
+

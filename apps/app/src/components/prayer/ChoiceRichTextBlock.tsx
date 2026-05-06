@@ -38,13 +38,13 @@ export function ChoiceRichTextBlock({
   pickerStyle = 'chips',
 }: {
   label: BilingualText
-  selectedId: string
+  selectedId?: string
   options: Option[]
   onSelect: (optionId: string) => void
   pickerStyle?: PickerStyle
 }) {
-  const current = options.find((o) => o.id === selectedId) ?? options[0]
-  if (!current) return null
+  const current = selectedId ? options.find((o) => o.id === selectedId) : undefined
+  if (options.length === 0) return null
 
   const renderBody = (opt: Option) => (
     <>
@@ -79,14 +79,14 @@ export function ChoiceRichTextBlock({
       >
         {label.primary}
       </Text>
-      {options.length > 1 && pickerStyle === 'cards' ? (
+      {pickerStyle === 'cards' ? (
         <YStack gap="$xs">
           {options.map((opt) => (
             <OptionCard
               key={opt.id}
               label={opt.label.primary}
               excerpt={opt.excerpt?.primary}
-              isSelected={opt.id === current.id}
+              isSelected={opt.id === current?.id}
               onPress={() => onSelect(opt.id)}
             />
           ))}
@@ -95,7 +95,7 @@ export function ChoiceRichTextBlock({
         options.length > 1 && (
           <XStack gap="$xs" flexWrap="wrap">
             {options.map((opt) => {
-              const isSelected = opt.id === current.id
+              const isSelected = opt.id === current?.id
               return (
                 <AnimatedPressable
                   key={opt.id}
@@ -126,7 +126,7 @@ export function ChoiceRichTextBlock({
           </XStack>
         )
       )}
-      {renderBody(current)}
+      {current && renderBody(current)}
     </YStack>
   )
 }

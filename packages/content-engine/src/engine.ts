@@ -1362,7 +1362,7 @@ function resolveChoiceRichText(
 
   const overrideKey = `${celebrationPath}.${section.slot}`
   const overrideId = context.selectOverrides?.[overrideKey]
-  const defaultId = section.default ?? options[0].id
+  const defaultId = section.defaultBlank ? undefined : (section.default ?? options[0].id)
   const selectedId = overrideId && options.some((o) => o.id === overrideId) ? overrideId : defaultId
 
   return [
