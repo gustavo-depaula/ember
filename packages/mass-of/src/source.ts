@@ -204,6 +204,35 @@ function titleCase(s: string): string {
   return s.toLowerCase().replace(/(^|\s)([\p{L}])/gu, (_, sep, ch) => sep + ch.toUpperCase())
 }
 
+/**
+ * Whether the Gloria is recited at this formulary's Mass. Gloria is sung on:
+ * - Solemnities and feasts (always; suppressed sanctoral feasts on Sundays
+ *   are handled upstream in applyPrecedence, so they never reach this path).
+ * - Sundays outside Advent and Lent.
+ * - Holy Thursday (both Chrism Mass and Mass of the Lord's Supper).
+ * - Easter Vigil (rank=solemnity, covered above).
+ * Otherwise omitted (weekday OT/Advent/Lent, memorials, optional memorials).
+ */
+function deriveIncludeGloria(formulary: Formulary): boolean {
+  const rank = formulary.rank
+  if (rank === 'solemnity' || rank === 'feast') return true
+
+  const id = formulary.id
+  if (id === 'tempore.holy-week.lords-supper' || id === 'tempore.holy-week.chrism-mass') {
+    return true
+  }
+
+  const season = formulary.season as string | undefined
+  if (
+    (season === 'ordinary-time' || season === 'easter' || season === 'christmas') &&
+    id.endsWith('.sunday')
+  ) {
+    return true
+  }
+
+  return false
+}
+
 async function buildCelebration(
   ctx: SourceContext,
   primaryId: string,
@@ -215,7 +244,11 @@ async function buildCelebration(
   const prettyTitle = prettifyCelebrationTitle(
     (primary.title as Record<string, string | undefined>) ?? {},
   )
-  const hydratedPrimary = await hydratePreface(ctx, { ...primary, title: prettyTitle })
+  const hydratedPrimary = await hydratePreface(ctx, {
+    ...primary,
+    title: prettyTitle,
+    includeGloria: deriveIncludeGloria(primary),
+  })
 
   const alternates: Formulary[] = []
   for (const altId of alternateIds) {
@@ -224,7 +257,13 @@ async function buildCelebration(
     const altTitle = prettifyCelebrationTitle(
       (alt.title as Record<string, string | undefined>) ?? {},
     )
-    alternates.push(await hydratePreface(ctx, { ...alt, title: altTitle }))
+    alternates.push(
+      await hydratePreface(ctx, {
+        ...alt,
+        title: altTitle,
+        includeGloria: deriveIncludeGloria(alt),
+      }),
+    )
   }
 
   return {

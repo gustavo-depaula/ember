@@ -2,9 +2,10 @@
 
 import type { BilingualText } from '@ember/content-engine'
 import { useTranslation } from 'react-i18next'
-import { Text, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 import { PrayerText } from '../PrayerText'
 import { BilingualBlock } from './BilingualBlock'
+import { ResponseMark } from './ResponseMark'
 
 export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: BilingualText }[] }) {
   const { t } = useTranslation()
@@ -17,9 +18,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
             alignItems="baseline"
             accessibilityLabel={t('a11y.versicle', { text: verse.v.primary })}
           >
-            <Text fontFamily="$body" fontSize="$1" color="$colorBurgundy" width={18} aria-hidden>
-              ℣.
-            </Text>
+            <ResponseMark value="℣." width={18} />
             <YStack flex={1}>
               <BilingualBlock
                 content={verse.v}
@@ -32,16 +31,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
             alignItems="baseline"
             accessibilityLabel={t('a11y.response', { text: verse.r.primary })}
           >
-            <Text
-              fontFamily="$body"
-              fontSize="$1"
-              color="$accent"
-              fontWeight="600"
-              width={18}
-              aria-hidden
-            >
-              ℟.
-            </Text>
+            <ResponseMark value="℟." width={18} />
             <YStack flex={1}>
               <BilingualBlock
                 content={verse.r}

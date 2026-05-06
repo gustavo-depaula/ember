@@ -4,6 +4,7 @@ import { Text, XStack, YStack } from 'tamagui'
 import type { PickerStyle, RenderedSection } from '@/content/types'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { OptionCard } from './OptionCard'
+import { SectionHeading } from './SectionHeading'
 
 type Option = {
   id: string
@@ -28,9 +29,7 @@ export function OptionsBlock({
 
   return (
     <YStack gap="$sm">
-      <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
-        {label}
-      </Text>
+      <SectionHeading>{label}</SectionHeading>
 
       {pickerStyle === 'cards' ? (
         <YStack gap="$xs">

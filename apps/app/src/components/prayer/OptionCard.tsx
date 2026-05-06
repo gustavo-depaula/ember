@@ -42,13 +42,13 @@ export function OptionCard({
         borderRadius="$md"
         borderWidth={1}
         borderColor={isSelected ? selectedBorder : '$borderColor'}
-        backgroundColor={isSelected ? '$accentSubtle' : 'transparent'}
+        backgroundColor={isSelected ? selectedBorder : 'transparent'}
         gap="$xxs"
       >
         <Text
           fontFamily="$heading"
           fontSize="$2"
-          color={isSelected ? '$accent' : '$color'}
+          color={isSelected ? '$background' : '$color'}
           letterSpacing={0.5}
         >
           {label}
@@ -57,7 +57,8 @@ export function OptionCard({
           <Text
             fontFamily="$body"
             fontSize="$1"
-            color="$colorSecondary"
+            color={isSelected ? '$background' : '$colorSecondary'}
+            opacity={isSelected ? 0.85 : 1}
             numberOfLines={2}
             fontStyle="italic"
           >

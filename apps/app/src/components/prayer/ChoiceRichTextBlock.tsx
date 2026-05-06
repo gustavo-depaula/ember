@@ -10,6 +10,8 @@ import { Text, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
 import { OptionCard } from './OptionCard'
+import { ResponseMark } from './ResponseMark'
+import { SectionHeading } from './SectionHeading'
 
 type Option = {
   id: string
@@ -70,15 +72,7 @@ export function ChoiceRichTextBlock({
 
   return (
     <YStack gap="$sm">
-      <Text
-        fontFamily="$heading"
-        fontSize="$2"
-        color="$accent"
-        letterSpacing={1}
-        textTransform="uppercase"
-      >
-        {label.primary}
-      </Text>
+      <SectionHeading>{label.primary}</SectionHeading>
       {pickerStyle === 'cards' ? (
         <YStack gap="$xs">
           {options.map((opt) => (
@@ -162,11 +156,7 @@ function FormattedRichTextLine({ line }: { line: RichTextLine }) {
               </PrayerText>
             )
           case 'response':
-            return (
-              <PrayerText key={i} fontWeight="bold">
-                {seg.text}
-              </PrayerText>
-            )
+            return <ResponseMark key={i} value={seg.text} />
           case 'signOfCross':
             return (
               <PrayerText key={i} color="$accent">

@@ -70,7 +70,7 @@
                 "inline": {
                   "en-US": "And with your spirit.",
                   "la": "Et cum spíritu tuo.",
-                  "pt-BR": "Ele está no meio de nós."
+                  "pt-BR": "Bendito seja Deus que nos reuniu no amor de Cristo."
                 }
               }
             ]
@@ -97,7 +97,7 @@
                 "inline": {
                   "en-US": "And with your spirit.",
                   "la": "Et cum spíritu tuo.",
-                  "pt-BR": "Ele está no meio de nós."
+                  "pt-BR": "Bendito seja Deus que nos reuniu no amor de Cristo."
                 }
               }
             ]
@@ -513,20 +513,24 @@
         }
       },
       {
-        "type": "subheading",
-        "text": {
+        "type": "collapsible",
+        "title": {
           "en-US": "Gloria",
           "pt-BR": "Glória"
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "all",
-        "inline": {
-          "en-US": "Glory to God in the highest, and on earth peace to people of good will.\nWe praise you, we bless you, we adore you, we glorify you, we give you thanks for your great glory, Lord God, heavenly King, O God, almighty Father.\nLord Jesus Christ, Only Begotten Son, Lord God, Lamb of God, Son of the Father, you take away the sins of the world, have mercy on us; you take away the sins of the world, receive our prayer; you are seated at the right hand of the Father, have mercy on us.\nFor you alone are the Holy One, you alone are the Lord, you alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen.",
-          "la": "Glória in excélsis Deo et in terra pax homínibus bonæ voluntátis.\nLaudámus te, benedícimus te, adorámus te, glorificámus te, grátias ágimus tibi propter magnam glóriam tuam, Dómine Deus, Rex cæléstis, Deus Pater omnípotens.\nDómine Fili Unigénite, Jesu Christe, Dómine Deus, Agnus Dei, Fílius Patris, qui tollis peccáta mundi, miserére nobis; qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis.\nQuóniam tu solus Sanctus, tu solus Dóminus, tu solus Altíssimus, Jesu Christe, cum Sancto Spíritu: in glória Dei Patris. Amen.",
-          "pt-BR": "Glória a Deus nas alturas e paz na terra aos homens por ele amados.\nSenhor Deus, Rei dos céus, Deus Pai todo-poderoso: nós vos louvamos, nós vos bendizemos, nós vos adoramos, nós vos glorificamos, nós vos damos graças por vossa imensa glória.\nSenhor Jesus Cristo, Filho Unigênito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai: vós que tirais o pecado do mundo, tende piedade de nós; vós que tirais o pecado do mundo, acolhei a nossa súplica; vós que estais à direita do Pai, tende piedade de nós.\nSó vós sois o Santo, só vós, o Senhor, só vós, o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém."
-        }
+        },
+        "defaultOpenFrom": "celebration.primary.includeGloria",
+        "defaultOpen": false,
+        "sections": [
+          {
+            "type": "prayer",
+            "speaker": "all",
+            "inline": {
+              "en-US": "Glory to God in the highest, and on earth peace to people of good will.\nWe praise you, we bless you, we adore you, we glorify you, we give you thanks for your great glory, Lord God, heavenly King, O God, almighty Father.\nLord Jesus Christ, Only Begotten Son, Lord God, Lamb of God, Son of the Father, you take away the sins of the world, have mercy on us; you take away the sins of the world, receive our prayer; you are seated at the right hand of the Father, have mercy on us.\nFor you alone are the Holy One, you alone are the Lord, you alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen.",
+              "la": "Glória in excélsis Deo et in terra pax homínibus bonæ voluntátis.\nLaudámus te, benedícimus te, adorámus te, glorificámus te, grátias ágimus tibi propter magnam glóriam tuam, Dómine Deus, Rex cæléstis, Deus Pater omnípotens.\nDómine Fili Unigénite, Jesu Christe, Dómine Deus, Agnus Dei, Fílius Patris, qui tollis peccáta mundi, miserére nobis; qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis.\nQuóniam tu solus Sanctus, tu solus Dóminus, tu solus Altíssimus, Jesu Christe, cum Sancto Spíritu: in glória Dei Patris. Amen.",
+              "pt-BR": "Glória a Deus nas alturas e paz na terra aos homens por ele amados.\nSenhor Deus, Rei dos céus, Deus Pai todo-poderoso: nós vos louvamos, nós vos bendizemos, nós vos adoramos, nós vos glorificamos, nós vos damos graças por vossa imensa glória.\nSenhor Jesus Cristo, Filho Unigênito, Senhor Deus, Cordeiro de Deus, Filho de Deus Pai: vós que tirais o pecado do mundo, tende piedade de nós; vós que tirais o pecado do mundo, acolhei a nossa súplica; vós que estais à direita do Pai, tende piedade de nós.\nSó vós sois o Santo, só vós, o Senhor, só vós, o Altíssimo, Jesus Cristo, com o Espírito Santo, na glória de Deus Pai. Amém."
+            }
+          }
+        ]
       },
       {
         "type": "rubric",

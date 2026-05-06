@@ -1,5 +1,5 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Text, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 import { PrayerLines } from '../PrayerText'
 import { BilingualBlock } from './BilingualBlock'
 
@@ -12,22 +12,15 @@ export function LiturgicalPrayerBlock({
 }) {
   const isPeople = speaker === 'people'
 
+  if (!isPeople) {
+    return <BilingualBlock content={text} renderText={(t) => <PrayerLines text={t} />} />
+  }
+
   return (
-    <YStack gap="$xs" paddingLeft={isPeople ? '$md' : 0}>
-      {isPeople && (
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color="$accent"
-          letterSpacing={1.5}
-          textTransform="uppercase"
-        >
-          R.
-        </Text>
-      )}
+    <YStack paddingLeft="$md">
       <BilingualBlock
         content={text}
-        renderText={(t) => <PrayerLines text={t} fontWeight={isPeople ? '600' : undefined} />}
+        renderText={(t) => <PrayerLines text={t} fontWeight="600" prefix="℟. " />}
       />
     </YStack>
   )

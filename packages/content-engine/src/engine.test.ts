@@ -210,6 +210,49 @@ describe('resolveFlow — collapsible primitive', () => {
     )
     expect(result).toEqual([])
   })
+
+  it('uses defaultOpenFrom when the path resolves to a boolean', () => {
+    const open = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Glória' },
+        defaultOpenFrom: 'celebration.primary.includeGloria',
+        defaultOpen: false,
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
+      }),
+      makeContext({ flowData: { celebration: { primary: { includeGloria: true } } } }),
+      makeEngineContext(),
+    )
+    expect((open[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
+
+    const closed = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Glória' },
+        defaultOpenFrom: 'celebration.primary.includeGloria',
+        defaultOpen: true,
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
+      }),
+      makeContext({ flowData: { celebration: { primary: { includeGloria: false } } } }),
+      makeEngineContext(),
+    )
+    expect((closed[0] as { defaultOpen: boolean }).defaultOpen).toBe(false)
+  })
+
+  it('falls back to defaultOpen when defaultOpenFrom path is missing', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'collapsible',
+        title: { 'pt-BR': 'Glória' },
+        defaultOpenFrom: 'celebration.primary.includeGloria',
+        defaultOpen: true,
+        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect((result[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
+  })
 })
 
 describe('resolveFlow — pickerStyle: cards', () => {

@@ -783,11 +783,15 @@ function resolveSection(
     case 'collapsible': {
       const sections = section.sections.flatMap((s) => resolveSection(s, context, ec))
       if (sections.length === 0) return []
+      const dynamic = section.defaultOpenFrom
+        ? resolvePath(context, section.defaultOpenFrom)
+        : undefined
+      const defaultOpen = typeof dynamic === 'boolean' ? dynamic : (section.defaultOpen ?? false)
       return [
         {
           type: 'collapsible',
           title: ec.localize(section.title),
-          defaultOpen: section.defaultOpen ?? false,
+          defaultOpen,
           sections,
         },
       ]

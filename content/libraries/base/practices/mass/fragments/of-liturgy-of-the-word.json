@@ -91,6 +91,15 @@
         }
       },
       {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Glory to you, O Lord.",
+          "la": "Glória tibi, Dómine.",
+          "pt-BR": "Glória a vós, Senhor."
+        }
+      },
+      {
         "type": "choice-rich-text",
         "label": {
           "en-US": "Gospel of the day",

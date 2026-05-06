@@ -14,6 +14,12 @@ export type Formulary = {
   scope?: string
   rite?: RiteType
   rank?: RankType
+  // Derived at load time from rank/season/id — true on days the Gloria
+  // is recited (solemnities, feasts, Sundays outside Advent/Lent, Holy
+  // Thursday, Easter Vigil). Bound by the flow as
+  // `celebration.primary.includeGloria` to gate the Gloria collapsible's
+  // default-open state.
+  includeGloria?: boolean
   // Plus all ember-extra Mass fields (entranceAntiphon, collect, readings, ...)
   [field: string]: unknown
 }

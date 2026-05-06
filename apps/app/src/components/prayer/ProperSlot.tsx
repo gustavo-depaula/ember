@@ -7,6 +7,7 @@ import { useProperForSlot } from '@/lib/mass-propers'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
 import { BilingualBlock } from './BilingualBlock'
+import { ResponseMark } from './ResponseMark'
 
 const markerPattern =
   /(\bv\.|(?<!\w)V\.|(?<!\w)R\.|(?<!\w)r\.|\+\+|\+|(?<!\w)C\.|(?<!\w)S\.|(?<!\w)J\.)/
@@ -92,6 +93,7 @@ function FormattedLine({ line }: { line: string }) {
         switch (seg.type) {
           case 'versicle':
           case 'response':
+            return <ResponseMark key={i} value={seg.value} />
           case 'cross':
           case 'christ':
             return (

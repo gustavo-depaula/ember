@@ -210,9 +210,13 @@ export type FlowSection = { lang?: string } & (
       // Use for dense explanatory rubric blocks and silent priest prayers
       // (Preparação das Oferendas, etc.) that overwhelm the audible flow.
       // Defaults to collapsed; set `defaultOpen: true` to start expanded.
+      // `defaultOpenFrom` (dotted path against FlowContext) overrides
+      // `defaultOpen` when the resolved value coerces to a boolean — used
+      // to gate the Gloria's open/closed state on `celebration.primary.includeGloria`.
       type: 'collapsible'
       title: LocalizedText
       defaultOpen?: boolean
+      defaultOpenFrom?: string
       sections: FlowSection[]
     }
   | {

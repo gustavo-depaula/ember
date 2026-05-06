@@ -1,3 +1,4 @@
+// biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 import { Text, View, YStack } from 'tamagui'
 import type { RenderedSection } from '@/content/types'
 import {
@@ -17,6 +18,7 @@ import {
   PrayerTextBlock,
   ProseBlock,
   ResponseBlock,
+  SectionHeading,
   SectionMarker,
   SelectBlock,
 } from './prayer'
@@ -130,11 +132,7 @@ export function SectionBlock({
       return <ResponseBlock verses={section.verses} />
 
     case 'heading':
-      return (
-        <Text fontFamily="$heading" fontSize="$4" color="$colorBurgundy" letterSpacing={0.5}>
-          {section.text.primary}
-        </Text>
-      )
+      return <SectionHeading>{section.text.primary}</SectionHeading>
 
     case 'meditation':
       return (
@@ -151,17 +149,7 @@ export function SectionBlock({
       )
 
     case 'subheading':
-      return (
-        <Text
-          fontFamily="$heading"
-          fontSize="$3"
-          color="$colorBurgundy"
-          letterSpacing={0.5}
-          paddingTop="$sm"
-        >
-          {section.text.primary}
-        </Text>
-      )
+      return <SectionHeading>{section.text.primary}</SectionHeading>
 
     case 'image':
       return (
