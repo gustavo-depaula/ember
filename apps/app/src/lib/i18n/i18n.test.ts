@@ -52,7 +52,13 @@ function getKeyPaths(obj: Record<string, unknown>, prefix = ''): string[] {
   return keys.sort()
 }
 
-const practiceUtilityKeys = ['pray', 'noContent', 'threshold']
+const practiceUtilityKeys = [
+  'pray',
+  'noContent',
+  'threshold',
+  'completionSyncFailed',
+  'completionSyncFailedDesc',
+]
 
 describe('practice translation keys', () => {
   const practiceIds = getPracticeIds()
