@@ -318,3 +318,235 @@ A tradução irmã do *Tratado da Verdadeira Devoção* (Montfort) em pt-BR usa 
 
 - "Lord, I am not worthy" → «Senhor, eu não sou digna» (forma feminina, dirigindo-se a Filoteia).
 - "our mountain hares turn white in winter" — imagem alpina salesiana preservada (o santo era saboiano, ver cap. xvi).
+
+### part-iii-chapter-i.md
+
+- "S. John, Bishop of Alexandria … Saint John the Almoner" → «São João Esmoler» (forma tradicional pt-BR).
+- "Eulogius Alexandrinus" → «Eulógio Alexandrino» / «Eulógio de Alexandria».
+- "Saint Anthony" (do Egito) → «Santo Antão» (consistente com o uso já assentado).
+- "Tobit" mantido como Tobit (pai), conforme distinção da Parte I.
+- "Rahab" → «Raab» (forma tradicional pt-BR).
+- Capítulo já existia de execução prévia; preservada a versão pré-existente que segue as mesmas convenções (forma «tu», nomes pt-BR).
+
+### part-iii-chapter-ii.md
+
+- "ecstasies, trances, rhapsodies" → «êxtases, raptos, arroubos».
+- "S. Paula" / "S. Epiphanius" → «Santa Paula» / «Santo Epifânio».
+- "scullions, porters, insignificant attendants" → «ajudantes de cozinha, porteiros, ínfimos servidores» (preservando a imagem doméstica salesiana).
+- "Ecclus." mantido como «Eclo» (Eclesiástico/Sirácida).
+
+### part-iii-chapter-iii.md
+
+- "S. Charles Borromeo" → «São Carlos Borromeu» (forma pt-BR).
+- "Bear in mind that the bee while making its honey lives upon a bitter food" — imagem da abelha preservada.
+- Nota CCEL `[^3]` preservada por ser citação direta do francês de São Francisco («Qui se plaint, peche»).
+- "thyme" → «tomilho» (cf. Parte I cap. ii).
+
+### part-iii-chapter-iv.md
+
+- Título "On Greater Humility" → «Da Humildade Maior» (capítulo dedicado à humildade exterior diante das vaidades sociais).
+- "saffron" → «açafrão»; "mandragora" → «mandrágora»; "peacock" → «pavão»; "Peru" mantido (hoje pt: Peru).
+- "ruff" (colarinho elisabetano) → «colarinho» (sem detalhe arcaico desnecessário).
+
+### part-iii-chapter-v.md
+
+- "Angelic Doctor" → «Doutor Angélico» (Santo Tomás).
+- "tree in the Isles of Tylos" → «árvore das Ilhas de Tilos» (golfo Pérsico, conforme nota autoral).
+- "Michal" → «Mical» (consistente com Parte I cap. i).
+- "King Ahaz" → «rei Acaz».
+
+### part-iii-chapter-vi.md
+
+- *Abjection* mantido em latim como termo técnico e traduzido «abjeção» no corpo do texto.
+- "Magnificat" mantido como hino reconhecido sem itálico.
+- Citação Sl 84,10 «Antes quero ser desprezado na casa do meu Deus...» — forma tradicional pt-BR.
+
+### part-iii-chapter-vii.md
+
+- "pruning-knife" → «podadeira» (consistente com Parte I cap. v).
+- "razor … sharp razor" (Sl 52) → «navalha afiada».
+- Forma feminina mantida quando o texto se dirige diretamente a Filoteia («se sou atormentada», «se sou assediada»).
+
+### part-iii-chapter-viii.md
+
+- Nota CCEL `[^2]` («La grace de Saint Paul» / «la graisse de Saint Paull») condensada: mantida apenas a explicação relevante (preparação medicinal antiga ligada a At 28). O comentário filológico CCEL sobre variantes de edição francesa foi descartado.
+- Nota CCEL `[^6]` (sobre divergência KJV/Vulgata em Sl 30,10/31,9) descartada; preservada apenas a citação latina autoral *Conturbatus est in ira oculus meus* na nota.
+- "S. Augustine writing to Profuturus" mantido com o nome latino do destinatário.
+
+### part-iii-chapter-ix.md
+
+- "vehemence" → «veemência»; tom autocompassivo salesiano «Pobre coração!» preservado tal qual.
+- Sl 42 «Por que estás abatida, ó minha alma?» — forma tradicional.
+
+### part-iii-chapter-x.md
+
+- *Festina lente* mantido em latim na nota.
+- "bumble bee" / "honey bee" → «zângão» / «abelha de mel» (mantida a oposição salesiana, embora *bumble bee* signifique tecnicamente abelhão; aqui usei «zângão» por força do contraste estabelecido).
+
+### part-iii-chapter-xi.md
+
+- "S. Theresa … Father Gratian" → «Santa Teresa … Padre Graciano».
+- "Pope, Bishop, Curate" → «Papa, Bispo, Pároco».
+- "voluntary obedience" → «obediência voluntária»; "necessary obedience" → «obediência necessária».
+
+### part-iii-chapter-xii.md
+
+- "lily among virtues" → «lírio entre as virtudes» (imagem mariana clássica).
+- "Alipius" → «Alípio» (do livro VIII das *Confissões* de Santo Agostinho).
+- "holy matrimony" → «santo matrimônio».
+
+### part-iii-chapter-xiii.md
+
+- *Agnus castus* (planta) mantido em latim.
+- Nota autoral `[^6]` sobre a memória de São Francisco no que respeita aos brincos preservada (é discreta nota autoral, não CCEL).
+- "basilisk" → «basilisco».
+
+### part-iii-chapter-xiv.md
+
+- "halcyon" → «alcião» (forma clássica pt).
+- "Ahab … Naboth's vineyard" → «Acab … vinha de Nabote» (forma pt-BR tradicional).
+
+### part-iii-chapter-xv.md
+
+- "Parrhasius" → «Parrásio» (pintor grego).
+- "S. Alexis, S. Paula, S. Paulinus, S. Angela" → «Santo Aleixo, Santa Paula, São Paulino, Santa Ângela».
+- "Esau and Jacob" → «Esaú e Jacó»; imagem das mãos peludas preservada.
+
+### part-iii-chapter-xvi.md
+
+- "alms" → «esmola»; "rich amid your poverty" → «rica em tua pobreza».
+
+### part-iii-chapter-xvii.md
+
+- "Pontus … aconite" → «Ponto … acônito» (referência clássica preservada).
+- *Amourettes* (cap. xviii) mantido em francês com gloss em pt-BR para preservar o termo técnico salesiano.
+
+### part-iii-chapter-xviii.md
+
+- "amourettes" mantido em itálico (termo técnico francês de São Francisco).
+- "walnut tree" → «nogueira».
+- Nota autoral `[^2]` (citação francesa «*C'est en un mot le jouet des cours, mais la peste des cœurs*») preservada em francês com tradução em pt-BR no corpo do texto.
+
+### part-iii-chapter-xix.md
+
+- "S. Mark, S. Petronilla" → «São Marcos, Santa Petronila».
+- "S. Thecla" → «Santa Tecla» (com nota autoral preservada, pois a nota CCEL aqui é discutível mas tem caráter informativo razoável e foi mantida).
+- "S. Basil" → «São Basílio».
+
+### part-iii-chapter-xx.md
+
+- "honey of Heraclyum" → «mel de Heracleia».
+- Imagem do mel venenoso vs. bom mel preservada com fidelidade.
+
+### part-iii-chapter-xxi.md
+
+- "Tagaste … Carthage" → «Tagaste … Cartago» (ref. agostiniana).
+- "Alcmeon … Aristotle" — referência à fisiologia antiga preservada.
+
+### part-iii-chapter-xxii.md
+
+- "river Tagus" → «rio Tejo».
+- "salamander" → «salamandra»; tradição clássica preservada.
+
+### part-iii-chapter-xxiii.md
+
+- "S. Bernard repented of his excessive austerity" — imagem salesiana de moderação preservada.
+- "Balaam … his ass" → «Balaão … sua jumenta» (Nm 22) — alegoria longa preservada inteira.
+- "scourge" / "discipline" → «disciplina» (instrumento penitencial).
+- "hair shirt" → «cilício».
+
+### part-iii-chapter-xxiv.md
+
+- "S. Mary of Egypt … Arsenius" → «Santa Maria Egipcíaca … Arsênio».
+- *Eutrapelia* (cap. xxvii) mantido em grego com gloss «boa conversação».
+
+### part-iii-chapter-xxv.md
+
+- "modest apparel, with shamefacedness and sobriety" → «traje decoroso, com pudor e sobriedade» (1Tm 2,9 forma tradicional).
+- "the ornament of a meek and quiet spirit" → «o ornamento dum espírito manso e tranquilo» (1Pd 3,3).
+- Conselhos a viúvas que tencionam casar de novo respeitados.
+
+### part-iii-chapter-xxvi.md
+
+- "S. Francis uttered the Name of the Lord" → São Francisco (de Assis); referência preservada.
+
+### part-iii-chapter-xxvii.md
+
+- *Eutrapelia* mantido em itálico em grego com gloss em pt («boa conversação»).
+- "St. Louis" → «São Luís».
+
+### part-iii-chapter-xxviii.md
+
+- "Ophiusa" → «Ofiusa» (erva mítica etíope) preservada.
+- "publican" → «publicano»; «Just Judge», «just man» → «homem justo».
+
+### part-iii-chapter-xxix.md
+
+- Imagem de Davi: «aguçaram as línguas como serpentes» (Sl 140,3).
+- "asp" → «áspide» (víbora venenosa antiga).
+- Distinção «pecador atual» vs. «pecador habitual» preservada com cuidado teológico.
+
+### part-iii-chapter-xxx.md
+
+- *Confissões* / *Retract.* (Retractações) mantidos com referência direta às obras de Santo Agostinho.
+- Citação extensa autoral nas notas preservada com tradução pt-BR fiel.
+
+### part-iii-chapter-xxxi.md
+
+- "S. John the Evangelist … partridge" — narrativa de Cassiano sobre o arco do caçador preservada.
+- "tennis, rackets, running at the ring, chess" → «tênis, pala, jogo do anel, xadrez».
+
+### part-iii-chapter-xxxii.md
+
+- "Comte d'Anjou … Messire Gautier de Nemours" — preservados como nomes próprios franceses (forma «conde de Anjou» / «Messire Gauthier de Nemours»).
+- "Sara" (Tobias) → «Sara» (Tb 3,17 Vulgata).
+- Nota CCEL [^1] reduzida: descartado o comentário filológico KJV/Vulgata; preservada a citação latina da Vulgata, que é o texto base de São Francisco.
+
+### part-iii-chapter-xxxiii.md
+
+- Nota CCEL [^1] (referência ao Holbein's Dance of Death e à ponte de Lucerna) — descartada como apparatus editorial vitoriano; «dança da morte» mantida no texto sem nota.
+
+### part-iii-chapter-xxxiv.md
+
+- "S. Carlo Borromeo … Swiss" → «São Carlos Borromeu … suíços».
+- "S. Ignatius Loyola" → «Santo Inácio de Loyola».
+
+### part-iii-chapter-xxxv.md
+
+- Nota CCEL [^2] (recomendação de leituras de Mgr. Landriot — *Femme Forte*, *Femme Pieuse*, séc. XIX) descartada como apparatus editorial moderno.
+- Nota CCEL [^1] reduzida: descartado o comentário filológico KJV/Vulgata; preservada a citação latina autoral («uno crine colli tui»).
+- "S. Catherine of Sienna" → «Santa Catarina de Sena» (consistente com Parte I cap. xxiv).
+
+### part-iii-chapter-xxxvi.md
+
+- "Paphlagonian partridge" → «perdiz da Paflagônia».
+- "Trajan" → «Trajano» (anedota imperial preservada).
+
+### part-iii-chapter-xxxvii.md
+
+- "African monsters" → «monstros africanos» (imagem retórica preservada).
+- "carthusian solitude" → «solidão de cartuxo» (referência ao silêncio rigoroso da Cartuxa).
+
+### part-iii-chapter-xxxviii.md
+
+- Nota CCEL [^4] (citação do poema *L'aimeras-tu?* de Marie Jenna, séc. XIX) descartada como apparatus editorial moderno.
+- "Comte d'Anjou", "Messire Gautier de Nemours" — formas francesas preservadas.
+- "S. Andrea di Fiesole" → «Santo André de Fiesole».
+- "Queen Blanche" → «rainha Branca» (mãe de São Luís, IX da França).
+- Notas remanescentes renumeradas após remoção da [^4].
+
+### part-iii-chapter-xxxix.md
+
+- "marriage bed" → «leito conjugal» (cf. Hb 13,4).
+- Distinção agostiniana entre *frui* e *uti* preservada como «fruir» vs. «usar».
+
+### part-iii-chapter-xl.md
+
+- Nota autoral [^7] (citação latina de Santo Agostinho sobre as flores na Igreja, *Sermão* 304) preservada com tradução pt-BR — é nota autoral.
+- Nota [^3] e [^8] preservadas com a forma latina da Vulgata, que São Francisco efetivamente cita.
+- "Origen" → «Orígenes»; "Naomi … Mara" → «Noemi … Mara».
+
+### part-iii-chapter-xli.md
+
+- Capítulo curto. "Heavenly Bridegroom" → «Esposo Celeste» (consistente).
+- "S. Jerome's Epistles" → «Epístolas de São Jerônimo».
