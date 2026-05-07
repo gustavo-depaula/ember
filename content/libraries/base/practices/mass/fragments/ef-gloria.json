@@ -11,6 +11,13 @@
       {
         "type": "rubric",
         "text": {
+          "en-US": "The Gloria is said on Sundays outside Advent, Septuagesima and Lent, on feasts and during privileged octaves; on weekdays of Eastertide; and at votive Masses of saints. It is omitted on Lenten and Advent ferias, on Septuagesima Sundays, on vigils, ember days, and at Requiem Masses — on these days the priest passes directly from the Kyrie to \"Dominus vobiscum\" and the Collect.",
+          "pt-BR": "O Glória se diz aos domingos fora do Advento, Septuagésima e Quaresma, nas festas e oitavas privilegiadas; nos dias de semana do Tempo Pascal; e nas missas votivas dos santos. Omite-se nas ferias do Advento e da Quaresma, nos domingos da Septuagésima, nas vigílias, têmporas e missas de réquiem — nesses dias o sacerdote passa diretamente do Kýrie para o \"Dóminus vobíscum\" e a Coleta."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
           "en-US": "Standing at the middle of the altar, extending and then joining his hands, the priest says the Gloria:",
           "pt-BR": "De pé, no meio do altar, estendendo e depois juntando as mãos, o sacerdote diz o Glória:"
         }

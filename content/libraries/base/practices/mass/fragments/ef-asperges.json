@@ -51,6 +51,22 @@
                   "la": "Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus.\nGlória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.",
                   "pt-BR": "Louvai o Senhor, porque Ele é bom: porque a Sua misericórdia é eterna.\nGlória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, por todos os séculos dos séculos. Amém."
                 }
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "The antiphon is then repeated:",
+                  "pt-BR": "Repete-se a antífona:"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "I saw water flowing from the right side of the temple, alleluia: and all to whom that water came were saved, and they shall say: alleluia, alleluia.",
+                  "la": "Vidi aquam egrediéntem de templo, a látere dextro, allelúja: et omnes, ad quos pervénit aqua ista, salvi facti sunt, et dicent: allelúja, allelúja.",
+                  "pt-BR": "Vi a água que brotava do lado direito do templo, aleluia: e todos aqueles a quem chegou esta água foram salvos, e dirão: aleluia, aleluia."
+                }
               }
             ]
           },
@@ -84,6 +100,22 @@
                   "en-US": "Have mercy on me, O God, according to Thy great mercy.\nGlory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.",
                   "la": "Miserére mei, Deus, secúndum magnam misericórdiam tuam.\nGlória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.",
                   "pt-BR": "Tende piedade de mim, ó Deus, segundo a Vossa grande misericórdia.\nGlória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, por todos os séculos dos séculos. Amém."
+                }
+              },
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "The antiphon is then repeated:",
+                  "pt-BR": "Repete-se a antífona:"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Thou shalt sprinkle me with hyssop, O Lord, and I shall be cleansed: Thou shalt wash me, and I shall be made whiter than snow.",
+                  "la": "Aspérges me, Dómine, hyssópo, et mundábor: lavábis me, et super nivem dealbábor.",
+                  "pt-BR": "Aspergir-me-eis, Senhor, com o hissopo, e ficarei puro: lavar-me-eis, e ficarei mais branco do que a neve."
                 }
               }
             ]

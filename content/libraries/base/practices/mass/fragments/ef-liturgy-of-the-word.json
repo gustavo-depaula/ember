@@ -33,6 +33,22 @@
         "form": "ef"
       },
       {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Thanks be to God.",
+          "la": "Deo grátias.",
+          "pt-BR": "Graças a Deus."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Gradual / Alleluia / Tract",
+          "pt-BR": "Gradual / Aleluia / Trato"
+        }
+      },
+      {
         "type": "proper",
         "slot": "gradual",
         "description": {
@@ -109,6 +125,22 @@
           "en-US": "Praise be to Thee, O Christ.",
           "la": "Laus tibi, Christe.",
           "pt-BR": "Louvor a Vós, ó Cristo."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest kisses the book and says quietly:",
+          "pt-BR": "O sacerdote beija o livro e diz em voz baixa:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "By the words of the Gospel may our sins be blotted out.",
+          "la": "Per evangélica dicta deleántur nostra delícta.",
+          "pt-BR": "Pelas palavras do Evangelho sejam apagados os nossos pecados."
         }
       },
       {

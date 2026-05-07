@@ -222,6 +222,20 @@
         }
       },
       {
+        "type": "subheading",
+        "text": {
+          "en-US": "Secret",
+          "pt-BR": "Secreta"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest reads the Secret silently, with hands extended; he concludes aloud only the final phrase \"Per omnia saecula saeculorum\" leading into the Preface dialogue.",
+          "pt-BR": "O sacerdote lê a Secreta em silêncio, com as mãos estendidas; profere em voz alta apenas a conclusão \"Per omnia saecula saeculorum\", que conduz ao diálogo do Prefácio."
+        }
+      },
+      {
         "type": "proper",
         "slot": "secret",
         "description": {
