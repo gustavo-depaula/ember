@@ -1,4 +1,4 @@
-# CAPÍTULO II. Continuação do mesmo assunto.
+# CAPÍTULO II. Continuação do Mesmo Assunto.
 
 DIZ Santo Agostinho admiravelmente que os iniciantes na devoção costumam cometer certas faltas que, sendo censuráveis pelas leis estritas da perfeição, são todavia louváveis pela promessa que dão de uma futura e excelente bondade, à qual de fato tendem. Por exemplo, aquele temor comum, encolhido, que dá origem a uma escrupulosidade excessiva nas almas de alguns que apenas começam a livrar-se dum curso de pecado, é louvável naquele estágio inicial e é o quase certo precursor da futura pureza de consciência. Mas esse mesmo temor seria censurável nos mais adiantados, porque o amor já há de reinar em seus corações, e o amor afasta sem falta, pouco a pouco, todo esse temor servil.
 

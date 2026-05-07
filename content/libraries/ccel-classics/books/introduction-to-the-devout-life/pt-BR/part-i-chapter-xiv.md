@@ -18,7 +18,7 @@ Sobre o Juízo.
 
 5. Feita esta separação, abrir-se-ão os livros da consciência, e todos os homens contemplarão a malícia dos ímpios, e como desprezaram a Deus; bem como a penitência dos bons, e os resultados da graça que receberam. Nada ficará oculto. Ó meu Deus, que confusão para uns, que regozijo para os outros! Considera a sentença final dos ímpios. "Apartai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e seus anjos." Demora-te sobre estas terríveis palavras. "Ide," diz Ele — descartando para sempre estes desgraçados pecadores, banindo-os para sempre da sua Presença. Chama-os "malditos:" ó minha alma, que maldição: uma maldição que envolve todas as outras maldições, todo mal possível, uma maldição irrevogável, abrangendo todo o tempo e toda a eternidade; condenando-os ao fogo eterno. Pensa no que implica essa eternidade de sofrimento.
 
-6. Em seguida, considera a sentença dos bons. "Vinde," diz o Juiz — ó bendita e amorosa palavra com que Deus nos atrai a Si e nos recebe em seu seio. "Benditos do meu Pai" — ó bênção acima de todas as bênçãos! "possuí o Reino preparado para vós desde o princípio do mundo." Ó meu Deus, e este Reino não terá fim!
+6. Em seguida, considera a sentença dos bons. "Vinde," diz o Juiz — ó bendita e amorosa palavra com que Deus nos atrai a Si e nos recebe em seu seio. "Benditos do meu Pai" — ó bênção acima de todas as bênçãos! "herdai o Reino preparado para vós desde o princípio do mundo." Ó meu Deus, e este Reino não terá fim!
 
 *Afetos e Resoluções.*
 

@@ -18,7 +18,7 @@ Da Criação.
 
 1. Humilha-te totalmente diante de Deus, dizendo com o Salmista: Ó Senhor, eu nada sou diante de Vós — que sou eu, para que de mim Vos lembreis? Ó minha alma, ainda estarias perdida naquele abismo de nada, se Deus não te houvesse chamado; e que seria de ti em tal caso?
 
-2. Dá graças a Deus. Ó grande e bom Criador, que não Vos devo eu, que me tirastes do nada, pela Vossa Misericórdia, para fazer-me o que sou? Como poderei jamais bastantemente louvar dignamente o Vosso santo Nome, e render as devidas graças à Vossa Bondade?
+2. Dá graças a Deus. Ó grande e bom Criador, que não Vos devo eu, que me tirastes do nada, pela Vossa Misericórdia, para fazer-me o que sou? Como poderei jamais louvar dignamente o Vosso santo Nome, e render as devidas graças à Vossa Bondade?
 
 3. Confessa a tua própria vergonha. Mas, ai! ó meu Criador, longe de me unir a Vós por um amoroso serviço, rebelei-me contra Vós pelas minhas afeições desordenadas, afastando-me de Vós, entregando-me ao pecado e ignorando a Vossa Bondade, como se não me houvésseis criado.
 

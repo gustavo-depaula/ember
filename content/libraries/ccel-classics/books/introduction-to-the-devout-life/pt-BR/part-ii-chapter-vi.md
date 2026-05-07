@@ -1,4 +1,4 @@
-# CAPÍTULO VI. Terceira parte da Meditação: Afetos e Resoluções.
+# CAPÍTULO VI. Terceira Parte da Meditação: Afetos e Resoluções.
 
 A MEDITAÇÃO desperta bons desejos na vontade, ou parte sensitiva da alma — tais como o amor de Deus e do próximo, o anelo da glória do Paraíso, o zelo pela salvação dos outros, a imitação do Exemplo de Nosso Senhor, a compaixão, a ação de graças, o temor da ira de Deus e do juízo, o ódio ao pecado, a confiança na Bondade e Misericórdia de Deus, a vergonha pela vida passada; e em todos esses afetos deves derramar tua alma o quanto te for possível. Se quiseres ajuda nisto, recorre a algum livro simples de devoção, à *Imitação de Cristo*, ao *Combate Espiritual*, ou àquilo que mais te servir às tuas necessidades particulares.
 

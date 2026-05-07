@@ -1,4 +1,4 @@
-# CAPÍTULO X. Devemos atender aos negócios da vida com cuidado, mas sem afã nem ansiedade excessiva.
+# CAPÍTULO X. Devemos Atender aos Negócios da Vida com Cuidado, mas sem Afã nem Ansiedade Excessiva.
 
 O CUIDADO e a diligência devidos aos nossos afazeres ordinários são bem diversos da solicitude, da ansiedade e da inquietação. Os Anjos cuidam da nossa salvação e a buscam diligentemente, mas estão de todo livres de ansiedade e solicitude; pois, ao passo que cuidado e diligência pertencem naturalmente ao seu amor, a ansiedade seria de todo incompatível com a sua felicidade — porque, embora cuidado e diligência possam andar de mãos dadas com a calma e a paz, aquelas propriedades angélicas não se podem unir à solicitude ou à ansiedade, muito menos ao afã excessivo.
 

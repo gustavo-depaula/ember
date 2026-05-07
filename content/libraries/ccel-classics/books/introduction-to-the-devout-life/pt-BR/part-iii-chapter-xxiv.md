@@ -1,4 +1,4 @@
-# CAPÍTULO XXIV. Da sociedade e da solidão.
+# CAPÍTULO XXIV. Da Sociedade e da Solidão.
 
 OU buscar ou fugir da sociedade é falta naquele que se esforça por levar uma vida devota no mundo, como aquela de que aqui falo. Fugir da sociedade implica indiferença e desprezo do próximo; e buscá-la cheira a ociosidade e inutilidade. Manda-se-nos amar o próximo como a nós mesmos. Em sinal de que o amamos, não devemos evitar estar com ele; e a prova de que nos amamos a nós mesmos é sermos felizes na solidão. «Pensa primeiro em ti», diz São Bernardo, «e depois nos outros homens». De sorte que, se nada te obriga a misturar-te em sociedade, em casa ou fora, retira-te a ti mesma e conversa com o teu próprio coração. Mas, se te visitam amigos, ou há motivo justo para saíres em sociedade, então, minha filha, vai sem hesitação, e acolhe o próximo com olhar e coração benignos.
 

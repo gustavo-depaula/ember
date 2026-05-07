@@ -6,4 +6,4 @@ São Gregório Nazianzeno fala muito sabiamente neste assunto, admoestando as mu
 
 [^1]: Eclo 12:13.
 
-[^2]: «*C'est en un mot le jouet des cours, mais la peste des cœurs.*»
+[^2]: *C'est en un mot le jouet des cours, mais la peste des cœurs.*

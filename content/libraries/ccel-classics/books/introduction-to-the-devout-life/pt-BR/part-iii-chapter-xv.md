@@ -1,4 +1,4 @@
-# CAPÍTULO XV. Como exercer a verdadeira pobreza, ainda que efetivamente rico.
+# CAPÍTULO XV. Como Exercer a Verdadeira Pobreza, ainda que Efetivamente Rico.
 
 O PINTOR Parrásio fez uma engenhosa e imaginosa representação dos atenienses, atribuindo-lhes diversas qualidades opostas, chamando-os ao mesmo tempo caprichosos, irascíveis, injustos, inconstantes, corteses, misericordiosos, compassivos, soberbos, vangloriosos, humildes, jactanciosos e covardes; — pela minha parte, querida filha, gostaria de ver unidas no teu coração a riqueza e a pobreza, um grande cuidado e um grande desprezo das coisas temporais.
 

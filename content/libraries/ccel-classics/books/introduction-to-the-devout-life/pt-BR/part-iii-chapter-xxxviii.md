@@ -26,11 +26,11 @@ O amor e a fidelidade levam à familiaridade e à confiança, e os santos abunda
 
 Antes de dar à luz Santo Agostinho, Santa Mônica ofereceu-o repetidamente à glória de Deus, como ele mesmo nos diz; e é boa lição para as mães cristãs como oferecer a Deus o fruto do seu ventre, o qual aceita as livres oblações dos corações amorosos, e atende aos desejos de tais mães fiéis: testemunhas Samuel, São Tomás de Aquino, Santo André de Fiesole e outros. A mãe de São Bernardo, digna de tal filho, costumava tomar nos braços os filhinhos recém-nascidos, para os oferecer a Jesus Cristo; e, dali em diante, amava-os com amor reverente, como sagrado depósito de Deus. E tão inteiramente foi acolhida a sua oferta, que todos os seus sete filhos se tornaram santos. E, quando os filhos começam a usar da razão, pais e mães devem tomar grande empenho em encher-lhes os corações com o temor de Deus. Isto fez com seriedade a boa rainha Branca em relação a São Luís, seu filho: testemunhas as suas palavras tantas vezes repetidas: «Meu filho, antes te quereria ver morto que culpado de pecado mortal»; palavras que tão profundamente penetraram no coração do santo monarca, que ele mesmo dizia que não havia dia em que lhe não voltassem ao espírito, fortalecendo-o em pisar os caminhos de Deus.
 
-Chamamos *Casas* às raças e às gerações; e os hebreus costumavam falar do nascimento dos filhos como o «edificar a casa», como está escrito das parteiras hebreias no Egito, que o Senhor «lhes fez casas»;[^4] pelo que aprendemos que uma boa casa não se ergue tanto pela acumulação dos bens deste mundo como pela educação dos filhos nos caminhos da santidade e de Deus; e para esse fim não se hão de poupar trabalho nem cuidado, pois os filhos são a coroa dos pais.[^5] Foi assim que Santa Mônica resistiu firmemente às más inclinações de Santo Agostinho, e, seguindo-o por mar e por terra, ele se tornou mais verdadeiramente o filho das suas lágrimas, na conversão da sua alma, do que o filho do seu corpo, no nascimento natural.
+Chamamos *Casas* às raças e às gerações; e os hebreus costumavam falar do nascimento dos filhos como o «edificar a casa», como está escrito das parteiras hebreias no Egito, que o Senhor «lhes fez casas»;[^3] pelo que aprendemos que uma boa casa não se ergue tanto pela acumulação dos bens deste mundo como pela educação dos filhos nos caminhos da santidade e de Deus; e para esse fim não se hão de poupar trabalho nem cuidado, pois os filhos são a coroa dos pais.[^3] Foi assim que Santa Mônica resistiu firmemente às más inclinações de Santo Agostinho, e, seguindo-o por mar e por terra, ele se tornou mais verdadeiramente o filho das suas lágrimas, na conversão da sua alma, do que o filho do seu corpo, no nascimento natural.
 
-São Paulo atribui à mulher o cuidado da casa; e em consequência alguns sustentam que a devoção da família depende mais da esposa do que do marido, que está mais frequentemente ausente e tem menos influência em casa. Por certo o rei Salomão, no Livro dos Provérbios, refere toda a prosperidade doméstica ao cuidado e à indústria daquela mulher virtuosa que descreve.[^6]
+São Paulo atribui à mulher o cuidado da casa; e em consequência alguns sustentam que a devoção da família depende mais da esposa do que do marido, que está mais frequentemente ausente e tem menos influência em casa. Por certo o rei Salomão, no Livro dos Provérbios, refere toda a prosperidade doméstica ao cuidado e à indústria daquela mulher virtuosa que descreve.[^3]
 
-Lemos no Gênesis que Isaque «orou ao Senhor por sua mulher, porque ela era estéril»;[^7] ou, como leem os hebreus, orou «em frente» dela — em lados opostos do lugar da oração — e a sua oração foi atendida. A união mais frutuosa entre marido e mulher é a que se funda na devoção, à qual mutuamente se devem estimular. Há certos frutos, como o marmelo, de qualidade tão amarga, que mal se podem comer, salvo em conserva; ao passo que outros, como as cerejas e os damascos, são tão delicados e moles, que só se podem conservar do mesmo modo. Assim, a esposa há de procurar que o marido seja adoçado pelo açúcar da devoção, pois o homem sem religião é um animal grosseiro e rude; e o marido há de desejar ver a sua esposa devota, pois sem isso a sua fragilidade e fraqueza estão sujeitas a mácula e dano. São Paulo diz que «o marido infiel é santificado pela mulher fiel, e a mulher infiel pelo marido fiel»;[^8] porque, em laço tão estreito, um pode facilmente arrastar o outro ao bem. E quão grande é a bênção sobre os maridos e mulheres fiéis que mutuamente se confirmam continuamente no temor do Senhor!
+Lemos no Gênesis que Isaque «orou ao Senhor por sua mulher, porque ela era estéril»;[^3] ou, como leem os hebreus, orou «em frente» dela — em lados opostos do lugar da oração — e a sua oração foi atendida. A união mais frutuosa entre marido e mulher é a que se funda na devoção, à qual mutuamente se devem estimular. Há certos frutos, como o marmelo, de qualidade tão amarga, que mal se podem comer, salvo em conserva; ao passo que outros, como as cerejas e os damascos, são tão delicados e moles, que só se podem conservar do mesmo modo. Assim, a esposa há de procurar que o marido seja adoçado pelo açúcar da devoção, pois o homem sem religião é um animal grosseiro e rude; e o marido há de desejar ver a sua esposa devota, pois sem isso a sua fragilidade e fraqueza estão sujeitas a mácula e dano. São Paulo diz que «o marido infiel é santificado pela mulher fiel, e a mulher infiel pelo marido fiel»;[^3] porque, em laço tão estreito, um pode facilmente arrastar o outro ao bem. E quão grande é a bênção sobre os maridos e mulheres fiéis que mutuamente se confirmam continuamente no temor do Senhor!
 
 Demais disso, cada um deve ter para com o outro tal tolerância que jamais se irem, ou caiam em discussão e contenda. A abelha não habita em sítio onde haja muito ruído, gritos ou eco; nem o Espírito Santo de Deus habita numa casa onde altercação e tumulto, discussão e briga, perturbam a paz.
 
@@ -40,12 +40,12 @@ Diz São Gregório Nazianzeno que em seu tempo os casados costumavam celebrar o 
 
 [^2]: 1Pd 3:7.
 
-[^4]: Ex 1:21.
+[^3]: Ex 1:21.
 
-[^5]: Pr 17:6.
+[^3]: Pr 17:6.
 
-[^6]: Pr 31.
+[^3]: Pr 31.
 
-[^7]: Gn 25:21.
+[^3]: Gn 25:21.
 
-[^8]: 1Cor 7:14.
+[^3]: 1Cor 7:14.
