@@ -24,7 +24,7 @@ Muito mais poderia dizer sobre este assunto, mas baste mandar a quem busca ser v
 
 [^2]: 1Tm 5:6.
 
-[^3]: Ct 2:12. Vulg.: «*Tempus putationis advenit; vox turturis audita est in terra nostra*».
+[^3]: Ct 2:12. Vulg.: *Tempus putationis advenit; vox turturis audita est in terra nostra*.
 
 [^4]: Rt 1:20-21.
 
@@ -34,4 +34,4 @@ Muito mais poderia dizer sobre este assunto, mas baste mandar a quem busca ser v
 
 [^7]: «Quão gloriosa é a Igreja, e quão grande a multidão das suas virtudes, como variedade de flores! Tem este horto do Senhor não somente as rosas dos mártires, mas os lírios das virgens, as heras dos casados, e as violetas das viúvas. Portanto, dileto, que ninguém despere da sua vocação: por todos sofreu Cristo». — Santo Agostinho, *Sermão CCCIV, No martírio de São Lourenço*.
 
-[^8]: 1Cor 7:40. Vulg.: «*Beatior autem erit si sic permanserit*».
+[^8]: 1Cor 7:40. Vulg.: *Beatior autem erit si sic permanserit*.

@@ -1,4 +1,4 @@
-# CAPÍTULO XVI. Como possuir um espírito rico em meio à pobreza real.
+# CAPÍTULO XVI. Como Possuir um Espírito Rico em Meio à Pobreza Real.
 
 MAS, se realmente és pobre, minha filha, sê-o por amor de Deus em espírito; faz da necessidade virtude e dá àquela preciosa pedra que é a pobreza o seu verdadeiro valor. O brilho dela não se percebe neste mundo, mas é todavia muito grande.
 

@@ -14,7 +14,7 @@ Como a Alma escolhe a Vida Devota.
 
 Eles se regozijam, mas é com uma alegria pacífica, amorosa e sóbria; eles amam, mas o seu amor é todo santo e puro. Os que entre estes devotos têm tristezas a suportar não se desanimam por isso, nem se entristecem em demasia, pois o olhar do seu Salvador está sobre eles para os consolar, e todos a Ele somente buscam.
 
-3. Sem dúvida renunciaste totalmente a Satanás, com o seu cansado e miserável bando, pelas boas resoluções que fizeste; — mas, contudo, ainda não te alcançaste plenamente o Rei Jesus, nem te uniste de todo à sua bem-aventurada companhia de devotos: — ficaste pairando entre os dois.
+3. Sem dúvida renunciaste totalmente a Satanás, com o seu cansado e miserável bando, pelas boas resoluções que fizeste; — mas, contudo, ainda não alcançaste plenamente o Rei Jesus, nem te uniste de todo à sua bem-aventurada companhia de devotos: — ficaste pairando entre os dois.
 
 4. A Santíssima Virgem, São José, São Luís, Santa Mônica, e centenas de milhares mais que outrora foram como tu, vivendo no mundo, te chamam e te animam.
 

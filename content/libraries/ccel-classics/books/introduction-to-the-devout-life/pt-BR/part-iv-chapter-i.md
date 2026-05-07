@@ -1,4 +1,4 @@
-# CAPÍTULO I. Não devemos brincar com as palavras da sabedoria mundana.
+# CAPÍTULO I. Não Devemos Brincar com as Palavras da Sabedoria Mundana.
 
 ASSIM que os teus amigos mundanos perceberem que aspiras a levar uma vida devota, lançarão sobre ti uma chuva infinita de zombarias e deturpações; os mais maliciosos atribuirão a tua mudança a hipocrisia, a interesse calculado ou a fanatismo; afirmarão que, tendo o mundo te olhado com frieza, recorres a Deus por lhe faltar o seu favor; ao passo que os teus amigos te farão uma série de advertências que, do ponto de vista deles, são prudentes e caridosas. Dir-te-ão que estás ficando mórbida; que perderás o teu crédito mundano e te tornarás insuportável ao mundo; predirão a tua velhice prematura, a ruína da tua prosperidade material; dir-te-ão que no mundo é preciso viver como o mundo vive; que podes salvar-te sem todo este alarde; e muito mais coisas dessa natureza.
 

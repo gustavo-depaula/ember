@@ -1,4 +1,4 @@
-# CAPÍTULO XVII. Da Amizade: amizades más e frívolas.
+# CAPÍTULO XVII. Da Amizade: Amizades Más e Frívolas.
 
 ENTRE os afetos da alma, o mais alto é o amor. O amor é o senhor de todo movimento do coração; atrai tudo para si, e nos torna semelhantes àquilo que amamos. Guarda-te, pois, minha filha, de albergares qualquer afeto mau, ou também tu te tornarás má. E a amizade é o mais perigoso de todos os afetos, porque qualquer outro amor pode existir sem grande comunicação de espírito; mas, sendo a amizade fundada nessa comunicação, dificilmente se está intimamente ligado por seus laços a alguém sem participar das suas qualidades.
 

@@ -1,4 +1,4 @@
-# CAPÍTULO II. Breve Método de Meditação. E primeiramente, a Presença de Deus, primeiro Ponto da Preparação.
+# CAPÍTULO II. Breve Método de Meditação. E primeiramente, a Presença de Deus, Primeiro Ponto da Preparação.
 
 PODE ser, minha filha, que não saibas como praticar a oração mental, pois infelizmente é coisa muito descurada nos dias de hoje. Dar-te-ei, pois, um método breve e fácil de usá-la, até que possas ler diversos livros escritos sobre o assunto e, sobretudo, até que a prática te ensine a usá-la mais perfeitamente. E, primeiro de tudo, a Preparação, que consta de dois pontos: o primeiro, colocar-te na Presença de Deus; e o segundo, pedir-Lhe auxílio. E, a fim de colocar-te na Presença de Deus, sugerir-te-ei quatro considerações principais que poderás usar no começo.
 

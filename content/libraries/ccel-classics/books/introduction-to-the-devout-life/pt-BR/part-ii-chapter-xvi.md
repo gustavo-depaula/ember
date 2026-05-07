@@ -1,4 +1,4 @@
-# CAPÍTULO XVI. Como os Santos se unem a nós.
+# CAPÍTULO XVI. Como os Santos Se Unem a Nós.
 
 VISTO que Deus continuamente nos envia inspirações por meio dos Seus Anjos, com razão lhes podemos enviar de volta as nossas aspirações pelo mesmo canal. As almas dos santos defuntos, que repousam no Paraíso, e que são, como o próprio Senhor nos disse, «como os Anjos no Céu», [^1] estão também unidas a nós em suas orações. Minha filha, unamos com alegria os nossos corações a estes bem-aventurados do Céu; pois assim como o rouxinol recém-emplumado aprende a cantar com as aves mais velhas, assim, pela nossa sagrada comunicação com os Santos, aprenderemos melhor a orar e a cantar os louvores do Senhor. Davi continuamente une as suas orações às de todos os Santos e Anjos.
 

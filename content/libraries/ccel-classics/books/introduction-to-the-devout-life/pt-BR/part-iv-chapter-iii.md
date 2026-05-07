@@ -1,4 +1,4 @@
-# CAPÍTULO III. Das Tentações e da diferença entre experimentá-las e consentir nelas.
+# CAPÍTULO III. Das Tentações e da Diferença entre Experimentá-las e Consentir Nelas.
 
 IMAGINA contigo mesma uma jovem princesa, amada do seu esposo, à qual algum miserável mandasse um mensageiro para tentá-la à infidelidade. Em primeiro lugar, o mensageiro lhe apresentaria as suas propostas. Em segundo lugar, a princesa aceitaria ou rejeitaria essas insinuações. Em terceiro lugar, consentiria nelas ou as recusaria. Do mesmo modo, quando Satanás, o mundo e a carne contemplam uma alma desposada com o Filho de Deus, põem diante dela tentações e sugestões pelas quais — 1. Lhe é proposto o pecado. 2. Tais propostas lhe são agradáveis ou desagradáveis. 3. A alma consente ou as rejeita. Em outras palavras, os três passos descendentes da tentação, da deleitação e do consentimento. E, ainda que os três passos nem sempre se mostrem tão claramente delineados como neste exemplo, podem-se distinguir nitidamente em todos os pecados grandes e graves.
 

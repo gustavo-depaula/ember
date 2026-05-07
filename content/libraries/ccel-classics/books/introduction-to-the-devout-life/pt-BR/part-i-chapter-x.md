@@ -1,6 +1,6 @@
 # CAPÍTULO X. SEGUNDA MEDITAÇÃO.
 
-Do Fim para o qual fomos Criados.
+Do Fim Para o Qual Fomos Criados.
 
 *Preparação.*
 

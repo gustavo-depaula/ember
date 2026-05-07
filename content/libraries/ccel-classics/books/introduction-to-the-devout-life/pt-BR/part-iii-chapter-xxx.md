@@ -1,4 +1,4 @@
-# CAPÍTULO XXX. Outros conselhos sobre a conversação.
+# CAPÍTULO XXX. Outros Conselhos sobre a Conversação.
 
 QUE as tuas palavras sejam benignas, francas, sinceras, retas, simples e verdadeiras; evita todo artifício, duplicidade e fingimento, lembrando-te de que, embora nem sempre seja bom publicar tudo o que pode ser verdade, jamais é lícito opor-se à verdade. Faz regra de nunca, conscientemente, dizer o que não é estritamente verdadeiro, nem para acusar nem para desculpar, recordando sempre que Deus é o Deus da Verdade. Se involuntariamente disseste o que não é verdade, e é possível corrigir-te logo por meio de explicação ou reparação, faz-o. Uma desculpa franca tem muito mais peso do que qualquer mentira.
 

@@ -1,4 +1,4 @@
-# CAPÍTULO IV. Dois Exemplos Marcantes da mesma matéria.
+# CAPÍTULO IV. Dois Exemplos Marcantes da Mesma Matéria.
 
 ESTA distinção, que é muito importante, vê-se bem ilustrada pela descrição que São Jerônimo dá de um jovem amarrado a um leito voluptuoso pelos mais macios cordões de seda e exposto aos ardis e atrativos de um traiçoeiro tentador, com o expresso intento de o fazer cair. Por mais que todos os seus sentidos e a sua imaginação tivessem inevitavelmente de se ver tomados por tão veemente assalto, ele provou que tinha o coração livre e a vontade invencível, pois, não tendo controle físico sobre nenhum membro senão a língua, mordeu-a fora e cuspiu-a no rosto do seu inimigo, inimigo mais terrível do que os carrascos do tirano.
 

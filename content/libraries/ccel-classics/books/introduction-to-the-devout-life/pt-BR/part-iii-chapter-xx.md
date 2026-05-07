@@ -1,4 +1,4 @@
-# CAPÍTULO XX. Da diferença entre a verdadeira e a falsa amizade.
+# CAPÍTULO XX. Da Diferença entre a Verdadeira e a Falsa Amizade.
 
 REPARA, minha filha, que o mel de Heracleia, tão venenoso, é em tudo semelhante ao bom; e há grande perigo de tomar um pelo outro, ou de misturá-los, pois a virtude do bom não anularia a malignidade do outro. Cuidemos de não nos deixarmos enganar nas amizades que contraímos, especialmente entre pessoas de sexos opostos, pois com frequência Satanás engana os que se amam. Podem começar com afeto virtuoso, mas, se faltar a discrição, deslizará a frivolidade, e logo a sensualidade, até que o amor se torne carnal. Mesmo no amor espiritual há perigo, se as pessoas não vigiarem; ainda que aí não seja tão fácil ser-se enganado, visto que a própria pureza e transparência do afeto espiritual revelam mais prontamente as manchas de Satanás. Por isso, quando ele procura intrometer-se, fá-lo furtivamente, e procura insinuar a impureza quase imperceptivelmente.
 

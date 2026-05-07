@@ -12,7 +12,7 @@
 
 6. Se uma esposa esteve por longo tempo separada do marido, mal o vê regressar e ouve-lhe a voz, por mais sobrecarregada que esteja com afazeres ou impedida pela força das circunstâncias, o seu coração não conhece freio, mas volta-se logo de tudo o mais para pensar naquele a quem ama. Assim sucede com as almas que verdadeiramente amam a Deus, por mais ocupadas que estejam; quando o pensamento d'Ele se lhes apresenta, esquecem todo o resto pelo gozo de sentir-Lhe perto a Cara Presença, e isto é sinal muito bom.
 
-7. Com respeito a Jesus Cristo, como Deus e Homem — como se atrai o teu coração para Ele? As abelhas de mel buscam a sua delícia no mel, mas as vespas pairam sobre carniça fétida. Assim também as almas piedosas hauriam todo o seu gozo de Jesus Cristo, e amam-No com Amor sumamente doce; mas as descuidadas encontram o seu prazer nas vaidades mundanas.
+7. Com respeito a Jesus Cristo, como Deus e Homem — como se atrai o teu coração para Ele? As abelhas de mel buscam a sua delícia no mel, mas as vespas pairam sobre carniça fétida. Assim também as almas piedosas haurem todo o seu gozo de Jesus Cristo, e amam-No com Amor sumamente doce; mas as descuidadas encontram o seu prazer nas vaidades mundanas.
 
 8. Com respeito a Nossa Senhora, aos Santos e ao teu Anjo da Guarda — amas-os bem? Alegras-te com o sentimento da sua guarda? Tens prazer nas suas vidas, nas suas imagens, na sua memória?
 
