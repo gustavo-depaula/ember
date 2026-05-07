@@ -632,3 +632,96 @@ A tradução irmã do *Tratado da Verdadeira Devoção* (Montfort) em pt-BR usa 
 - "Mount Calvary / Mount Tabor" — consistentes.
 - Citação Eclo 11,25 mantida com latim Vulgata «In die bonorum ne immemor sis malorum» — São Francisco cita a Vulgata.
 - Nota CCEL (na verdade aqui é uma anotação dupla) sobre divergência KJV/Vulgata: descartada a parte que cita a "English version", preservada apenas a forma latina autoral.
+
+### part-v-chapter-i.md / part-v-chapter-ii.md
+
+- Pré-existentes na pasta pt-BR antes de Agente 5; preservadas (já adotam «tu» com conjugação clássica e seguem o glossário).
+
+### part-v-chapter-iii.md
+
+- "as S. Augustine did, crying out, 'Lord, teach me to know Thee, and to know myself'" → forma feminina mantida no auto-conhecimento de Filoteia («conhecer-me a mim mesma»), embora a citação agostiniana original seja masculina; preservei o sentido salesiano dirigido à alma feminina.
+- "S. Francis, who asked, 'Who art Thou, Lord, and who am I?'" — referência a São Francisco de Assis preservada.
+
+### part-v-chapter-iv.md
+
+- "Honey bees seek their delight in their honey, but wasps hover over stinking carrion" → «As abelhas de mel buscam a sua delícia no mel, mas as vespas pairam sobre carniça fétida» — imagem salesiana preservada.
+- "Sweetness, Tenderness" → «Doçura, Ternura» (atributos divinos).
+
+### part-v-chapter-v.md
+
+- "cornflower" → «florzinha azul» (centáurea-menor; a comparação é quanto à pequenez relativa, não a botânica precisa).
+- "well-regulated love" → «amor bem regulado» (conceito tomista).
+
+### part-v-chapter-vi.md
+
+- Capítulo curto. "tender, abiding, restful love" → «amor terno, duradouro e sereno».
+
+### part-v-chapter-vii.md
+
+- Título "Affectations" no original é provável errata por "Affections" (cf. corpo do capítulo, que trata de paixões — amor, ódio, desejo, temor, esperança, tristeza, alegria); traduzido como «Afetos» seguindo o glossário e o sentido.
+- Imagem do alaúde com cordas afinadas preservada.
+
+### part-v-chapter-viii.md / part-v-chapter-ix.md
+
+- "guardian Angel and patron Saint" → «Anjo da Guarda e Santo padroeiro».
+- Cap. ix muito curto — apenas introdução às considerações seguintes.
+
+### part-v-chapter-x.md
+
+- "the bee can find honey on a dunghill" → «a abelha não pode encontrar mel em monturo» (imagem salesiana clássica preservada).
+- "the dove going forth from Noah's ark" → «pomba que saiu da arca de Noé» — Gn 8 (a pomba que não acha pouso até voltar à arca).
+- "the prodigal son … swine's husks" → «filho pródigo … vagens dos porcos» (Lc 15,16 forma pt-BR tradicional).
+
+### part-v-chapter-xi.md
+
+- "Lord, give me this water" → «Senhor, dá-me desta água» (Jo 4,15) — forma pt-BR tradicional.
+- "Saint Catherine of Genoa" → «Santa Catarina de Gênova» (consistente com Parte II cap. xii e xviii).
+
+### part-v-chapter-xii.md
+
+- "matrons and maidens" → «matronas e donzelas».
+- "S. Augustine … his mother Monica … S. Jerome and his beloved daughter S. Paula" → «Santo Agostinho … sua mãe Mônica … São Jerônimo e sua querida filha Santa Paula» (consistente com Parte I cap. xxiv onde Santa Paula já aparece).
+- "frail sex" → «sexo frágil» (linguagem do séc. XVII preservada — é texto salesiano).
+
+### part-v-chapter-xiii.md
+
+- "Garden of Olives" → «Horto das Oliveiras» (forma pt-BR tradicional do Getsêmani).
+- "Mount Calvary" → «Monte Calvário» (consistente).
+- "tree of the Cross" → «alto da Cruz» (lit. «árvore da Cruz»; aqui usei «alto da Cruz» pelo paralelo em pt com a expressão litúrgica clássica «do alto da Cruz»).
+- Citação de São Paulo Gl 2,20 traduzida como «Que me amou, e se entregou por mim» (forma pt-BR tradicional).
+
+### part-v-chapter-xiv.md
+
+- "Eternal Love" / "everlasting love" → «Eterno Amor» / «amor eterno» (Jr 31,3 — «Com amor eterno te amei», forma pt-BR tradicional).
+- Capítulo curto, climático — preservada a calidez e o crescendo afetivo.
+
+### part-v-chapter-xv.md
+
+- Parágrafo de abertura é apóstrofe lírica às próprias resoluções — voz feminina mantida («ó preciosas resoluções! sois…»).
+- "Right Hand of Majesty" → «Destra de Majestade» (Hb 1,3 forma pt-BR tradicional).
+- "make your protest and sign it" → «faze a tua protestação e assina-a» — termo técnico já no glossário.
+- Aparição do termo «protestação» referindo de volta à Parte I, cap. xx (a fórmula formal que Filoteia firmou).
+
+### part-v-chapter-xvi.md
+
+- "I am not mine own, whether I live or whether I die, I am the Lord's" → «Não pertenço a mim mesma; quer eu viva, quer morra, sou do Senhor» (Rm 14,8 — forma pt-BR adaptada à voz feminina de Filoteia).
+- "the world will still suppose us to be Esau, while really we are Jacob" → imagem de Gn 27 preservada (Jacó vestido de peles de cabra para parecer Esaú); imagem salesiana de devoção oculta.
+
+### part-v-chapter-xvii.md
+
+- "civil codes and digests" → «códigos civis e digestos» (referência ao *Digesto* de Justiniano e códigos civis modernos da época do santo).
+- "S. Louis … two masses daily, vespers and compline … took the discipline" → «São Luís … duas missas diariamente, Vésperas e Completas … tomava a disciplina» (consistente com glossário; «disciplina» como instrumento penitencial, cf. Parte III cap. xxiii).
+- "Joshua's time … sun stand still" → «no tempo de Josué … fazer parar o sol» (Js 10,12-13).
+- "mental prayer" → «oração mental» (termo técnico salesiano; oposto a oração vocal).
+
+### part-v-chapter-xviii.md
+
+- **Capítulo conclusivo de toda a obra.** Preservado o crescendo afetivo final: a invocação salesiana «pelo teu próprio Batismo, pelo seio que Jesus mamou, pelo terno Coração com que Ele te ama, e pelas entranhas de compaixão em que esperas» mantida com a calidez do original.
+- "S. Symphorian" → «São Sinforiano» (mártir de Autun, séc. II) — forma pt-BR.
+- "S. Gregory Nazianzen" → «São Gregório Nazianzeno» (consistente com cap. i).
+- Os dois versos italianos de São Francisco de Assis («*Tanto è il bene ch'io aspetto / Ch'ogni pena m'è diletto*») traduzidos para o pt-BR no corpo, e a forma autoral italiana + a versão francesa de São Francisco de Sales preservadas integralmente na nota de rodapé. Esta é nota autoral relevante, pois preserva a relação entre o santo de Assis (fonte) e o de Sales (versão francesa).
+- "Glory be to Jesus, to Whom, with the Father and the Holy Ghost, be honour and glory, now and ever, and to all Eternity. Amen." → forma doxológica pt-BR tradicional («Glória seja a Jesus, ao qual, com o Pai e o Espírito Santo, sejam dadas honra e glória, agora e sempre, e por toda a Eternidade. Amém»).
+
+## Conclusão da tradução pt-BR
+
+Com o capítulo xviii da Parte V conclui-se a tradução integral pt-BR da *Introdução à Vida Devota* de São Francisco de Sales. Total: 121 arquivos (correspondendo aos 121 do en-US). A obra fica entregue em pt-BR com forma de tratamento «tu»/«vós» segundo o destinatário, glossário consistente, notas autorais preservadas e notas editoriais CCEL descartadas conforme política do projeto.
