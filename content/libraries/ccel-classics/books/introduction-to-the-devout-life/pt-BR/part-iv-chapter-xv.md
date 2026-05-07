@@ -22,6 +22,6 @@ São Francisco prescrevia aos seus religiosos que usassem, em seus trabalhos, de
 
 Daí devemos aprender que os maiores servos de Deus estão sujeitos a tais provações, de sorte que pessoas menos dignas não devem admirar-se se experimentarem o mesmo.
 
-[^1]: Eclo 11:25, Vulgata: «In die bonorum ne immemor sis malorum.»
+[^1]: Eclo 11:25, Vulgata: *In die bonorum ne immemor sis malorum.*
 
 [^2]: Ct 5:2.

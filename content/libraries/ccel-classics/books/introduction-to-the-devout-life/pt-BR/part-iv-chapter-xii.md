@@ -18,7 +18,7 @@ Põe a descoberto todos os sentimentos, pensamentos e anseios que são fruto do 
 
 [^1]: 2Cor 7:10.
 
-[^2]: «Multos enim occidit tristitia, et non est utilitas in illa.» Eclo 30:25.
+[^2]: *Multos enim occidit tristitia, et non est utilitas in illa.* Eclo 30:25.
 
 [^3]: Tg 5:13.
 
