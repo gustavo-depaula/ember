@@ -12,7 +12,7 @@ Tu, minha filha, resolve aceitar de coração quaisquer inspirações que Deus s
 
 Dado o consentimento, deves cuidadosamente buscar produzir os resultados pretendidos e levar a cabo a inspiração, coroa da verdadeira virtude; pois dar consentimento sem produzir o seu fruto seria como plantar uma vinha sem a intenção de que dê fruto. Tudo isto será grandemente promovido pela atenção cuidadosa aos teus exercícios da manhã e ao retiro espiritual já mencionado, porque neles aprendes a aplicar princípios gerais a casos particulares.
 
-[^1]: Ct 5; 7; 2.
+[^1]: Ct 5; Ct 7; Ct 2.
 
 [^2]: Sl 95, 10-11.
 

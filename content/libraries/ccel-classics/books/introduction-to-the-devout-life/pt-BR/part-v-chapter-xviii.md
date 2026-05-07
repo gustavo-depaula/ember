@@ -12,6 +12,6 @@ que toda fadiga me é deleite».
 
 Glória seja a Jesus, ao qual, com o Pai e o Espírito Santo, sejam dadas honra e glória, agora e sempre, e por toda a Eternidade. Amém.
 
-[^1]: Sl 119,93.
+[^1]: Sl 119:93.
 
 [^2]: «*Tanto è il bene ch'io aspetto / Ch'ogni pena m'è diletto*». São palavras de São Francisco de Assis, que São Francisco de Sales verte assim: «*A cause des biens que j'attends, / Les travaux me sont passe-temps*».

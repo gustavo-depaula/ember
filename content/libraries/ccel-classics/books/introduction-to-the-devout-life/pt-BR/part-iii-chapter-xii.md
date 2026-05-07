@@ -10,8 +10,8 @@ Os solteiros precisam de uma pureza muito simples e sensível, que afaste todos 
 
 Diz o Apóstolo: «Segui a paz com todos, e a santidade, sem a qual ninguém verá o Senhor»;[^1] e por essa santidade entende a pureza. Em verdade, minha filha, sem a pureza ninguém pode ver Deus;[^2] nem pode esperar habitar no seu tabernáculo senão quem leva uma vida íntegra;[^3] e o nosso Bem-aventurado Senhor mesmo prometeu a especial bem-aventurança de O verem aos puros de coração.
 
-[^1]: Hb 12,14.
+[^1]: Hb 12:14.
 
-[^2]: Mt 5,8.
+[^2]: Mt 5:8.
 
-[^3]: Sl 15,2.
+[^3]: Sl 15:2.

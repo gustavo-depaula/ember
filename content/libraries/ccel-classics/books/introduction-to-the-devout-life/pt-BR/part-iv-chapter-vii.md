@@ -10,6 +10,6 @@ Se, apesar de tudo, a tentação ainda nos atormenta e persegue, nada há que fa
 
 Não discutas com o teu Inimigo, e dá-lhe uma só resposta — aquela com que Nosso Senhor o confundiu: «Retira-te, Satanás, porque está escrito: Adorarás o Senhor teu Deus, e só a Ele servirás.»[^2] Assim como a esposa pura não daria resposta nem lançaria olhar algum sobre o imundo sedutor que se esforçasse por desencaminhá-la, mas logo dele fugiria para o lado do esposo, sem argumentar, mas apegando-se ao seu legítimo senhor em renovada fidelidade — assim a alma devota, quando assediada pela tentação, jamais deveria brincar com ela respondendo ou argumentando, mas simplesmente fugir para o Lado de Jesus Cristo, seu Esposo, renovando-lhe os votos de imutável devoção e fidelidade.
 
-[^1]: Lc 22,40.
+[^1]: Lc 22:40.
 
-[^2]: Mt 4,10.
+[^2]: Mt 4:10.

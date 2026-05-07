@@ -16,14 +16,14 @@ A disciplina corporal moderada é útil para resistir ao abatimento, porque desp
 
 Põe a descoberto todos os sentimentos, pensamentos e anseios que são fruto do teu abatimento ao teu confessor ou diretor, com toda humildade e fidelidade; busca a sociedade de pessoas espirituais, e frequenta-as quanto possível enquanto estiveres a sofrer. E, finalmente, entrega-te nas mãos de Deus, esforçando-te por suportar este enfadonho abatimento com paciência, como justo castigo de passada alegria fútil. Sobretudo, nunca duvides de que, depois de te ter provado bastante, Deus te livrará da prova.
 
-[^1]: 2Cor 7,10.
+[^1]: 2Cor 7:10.
 
-[^2]: «Multos enim occidit tristitia, et non est utilitas in illa.» Eclo 30,25.
+[^2]: «Multos enim occidit tristitia, et non est utilitas in illa.» Eclo 30:25.
 
-[^3]: Tg 5,13.
+[^3]: Tg 5:13.
 
-[^4]: Ct 2,16.
+[^4]: Ct 2:16.
 
-[^5]: Sl 119,82.
+[^5]: Sl 119:82.
 
-[^6]: Rm 8,35.
+[^6]: Rm 8:35.

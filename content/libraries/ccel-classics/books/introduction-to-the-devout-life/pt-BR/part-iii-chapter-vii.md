@@ -12,8 +12,8 @@ A reputação, afinal, não passa de uma tabuleta que indica onde habita a virtu
 
 Faz-se exceção, naturalmente, a certos crimes tão graves que não devem permanecer calados aqueles que se podem justificar; e do mesmo modo, a certas pessoas cuja reputação afeta de perto a edificação dos demais. Em tal caso, todos os teólogos dizem que é justo procurar com calma a reparação.
 
-[^1]: Sl 52,2.
+[^1]: Sl 52:2.
 
-[^2]: 2Cor 6,8.
+[^2]: 2Cor 6:8.
 
-[^3]: Sl 69,7.
+[^3]: Sl 69:7.

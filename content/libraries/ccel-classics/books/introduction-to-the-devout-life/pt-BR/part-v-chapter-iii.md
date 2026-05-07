@@ -4,7 +4,7 @@ Este segundo ponto é um tanto longo, e começarei por dizer que não é necess�
 
 1. Coloca-te na Presença de Deus.
 
-2. Invoca o Espírito Santo, e pede-Lhe a luz, para que possas conhecer-te a ti mesma, como fez Santo Agostinho, exclamando: «Senhor, ensina-me a conhecer-te e a conhecer-me a mim mesma»; e como São Francisco, que perguntou: «Quem sois Vós, Senhor, e quem sou eu?». Resolve não notar progresso algum com qualquer satisfação ou glória própria, mas dá toda a glória a Deus somente, e agradece-Lhe devidamente por isso.
+2. Invoca o Espírito Santo, e pede-Lhe a luz, para que possas conhecer-te a ti mesma, como fez Santo Agostinho, exclamando: «Senhor, ensinai-me a conhecer-vos e a conhecer-me a mim mesma»; e como São Francisco, que perguntou: «Quem sois Vós, Senhor, e quem sou eu?». Resolve não notar progresso algum com qualquer satisfação ou glória própria, mas dá toda a glória a Deus somente, e agradece-Lhe devidamente por isso.
 
 Resolve, também, que se te parecer que fizeste pouco progresso, ou mesmo retrocedeste, não te desanimarás por isso, nem te tornarás indiferente ou indolente neste assunto; mas que, ao contrário, te esforçarás de novo para te humilhar e vencer os teus defeitos, com o Auxílio de Deus.
 

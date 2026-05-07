@@ -1,6 +1,6 @@
 # CAPÍTULO XV. Como exercer a verdadeira pobreza, ainda que efetivamente rico.
 
-O PINTOR Parrásio fez uma engenhosa e imaginosa representação dos atenienses, atribuindo-lhes diversas qualidades opostas, chamando-os ao mesmo tempo caprichosos, irascíveis, injustos, inconstantes, corteses, misericordiosos, compassivos, soberbos, vangloriosos, humildes, vanglórios e covardes; — pela minha parte, querida filha, gostaria de ver unidas no teu coração a riqueza e a pobreza, um grande cuidado e um grande desprezo das coisas temporais.
+O PINTOR Parrásio fez uma engenhosa e imaginosa representação dos atenienses, atribuindo-lhes diversas qualidades opostas, chamando-os ao mesmo tempo caprichosos, irascíveis, injustos, inconstantes, corteses, misericordiosos, compassivos, soberbos, vangloriosos, humildes, jactanciosos e covardes; — pela minha parte, querida filha, gostaria de ver unidas no teu coração a riqueza e a pobreza, um grande cuidado e um grande desprezo das coisas temporais.
 
 Tomas tu muito mais trabalho que os homens do mundo para fazer as tuas riquezas úteis e fecundas? Não são os jardineiros de um príncipe mais diligentes em cultivar e embelezar os jardins reais do que se fossem próprios? Por quê? Sem dúvida porque esses jardins são do rei, ao qual os jardineiros desejam prestar serviço aceitável. Filha, os nossos bens não são nossos — Deus no-los deu para que os cultivemos, a fim de os tornarmos fecundos e proveitosos no seu serviço; e assim fazendo Lhe agradaremos. E isto devemos fazer com mais empenho que os homens do mundo, porque eles cuidam zelosamente da sua propriedade por amor próprio, e nós devemos trabalhar pelo amor de Deus. Ora, o amor próprio é amor inquieto, ansioso, sôfrego em demasia, e por isso a obra feita por amor a si mesmo é perturbada, vexatória e descontentadora; — ao passo que o amor de Deus é calmo, pacífico e tranquilo, e por isso a obra feita por amor dele, mesmo nas coisas do mundo, é mansa, confiante e quieta. Tomemos um cuidado tão tranquilo de preservar, e mesmo, quando praticável, de aumentar os nossos bens temporais, segundo os deveres da nossa posição — isto é aceitável a Deus por amor dele.
 
@@ -18,10 +18,10 @@ Cada qual se acha às vezes carente do que precisa, e posto a incômodos. Chega 
 
 E também, se fores empobrecida muito ou pouco por acontecimentos imprevistos — tempestade, cheia, incêndio, seca, roubo ou processo —, então é o tempo de praticar a pobreza, aceitando a perda com calma e adaptando-te com paciência às tuas alteradas circunstâncias. Esaú e Jacó vieram ambos ao pai com mãos peludas,[^4] mas o pelo das mãos de Jacó não nascia da sua pele, e podia ser arrancado sem dor; ao passo que o de Esaú, sendo o crescimento natural da sua pele, faria com que ele gritasse e resistisse se alguém lho arrancasse. Assim, se os nossos bens estão muito perto do nosso coração, e a tempestade ou o ladrão os arrancam, prorromperemos em murmúrios e lamentações impacientes. Mas se a eles aderirmos só com aquela solicitude que Deus quer que tenhamos, e não com todo o coração, vê-los-emos arrancados sem perder a calma. Está aí justamente a diferença entre o vestuário do homem e o do animal: o vestuário do animal cresce na sua carne, e o do homem só está pousado, para que possa ser deixado à vontade.
 
-[^1]: «As suas abominações eram conforme aquilo que amavam». Os 9,10.
+[^1]: «As suas abominações eram conforme aquilo que amavam». Os 9:10.
 
-[^2]: 2Cor 11,29.
+[^2]: 2Cor 11:29.
 
-[^3]: Mt 25,34-36.
+[^3]: Mt 25:34-36.
 
 [^4]: Gn 27.

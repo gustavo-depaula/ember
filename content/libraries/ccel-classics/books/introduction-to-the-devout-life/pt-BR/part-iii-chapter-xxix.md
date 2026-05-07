@@ -20,14 +20,14 @@ Demais disso, em tais ocasiões convém estar segura de que tu és, entre os pre
 
 Pode-se falar livremente dos pecadores públicos e notórios, contanto sempre, mesmo então, que prevaleça um espírito de caridade e de compaixão, e que não se fale deles com arrogância ou presunção, ou como se nos comprazêssemos na queda alheia. Fazê-lo é sinal certo de espírito mesquinho e ingeneroso. E, por certo, podes falar livremente em condenação dos inimigos declarados de Deus e da sua Igreja, dos hereges e cismáticos — é verdadeira caridade apontar o lobo onde quer que se insinue no rebanho. Muitos se permitem absoluta liberdade em criticar e censurar os governantes, e em caluniar nações, segundo as suas próprias opiniões e simpatias. Mas evita tu esta falta; é desagradável a Deus, e está sujeita a levar-te a discussões e brigas. Quando ouvires mal de alguém, lança sobre a acusação toda a dúvida que justamente puderes; ou, se for impossível, busca alguma desculpa para o culpado; e, se nem isso for possível, mostra ainda piedade e compaixão, e lembra àqueles com quem falas que os que se mantêm em pé só o fazem pela graça de Deus. Faz o que puderes para deter, com benignidade, o que conta os escândalos; e se sabes alguma coisa favorável à pessoa criticada, esforça-te por mencioná-la.
 
-[^1]: Is 6,6-7.
+[^1]: Is 6:6-7.
 
-[^2]: Sl 140,3.
+[^2]: Sl 140:3.
 
-[^3]: Js 10,13.
+[^3]: Js 10:13.
 
-[^4]: Lc 23,44.
+[^4]: Lc 23:44.
 
-[^5]: Lc 7,37-39.
+[^5]: Lc 7:37-39.
 
-[^6]: Lc 18,11.
+[^6]: Lc 18:11.

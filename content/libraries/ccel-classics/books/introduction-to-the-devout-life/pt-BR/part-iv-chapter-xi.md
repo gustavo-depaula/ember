@@ -12,4 +12,4 @@ Não permitas que desejo nenhum perturbe a tua mente sob o pretexto de ser ele i
 
 Se podes expor a tua inquietação ao teu guia espiritual, ou ao menos a algum amigo de confiança e devoto, podes estar certa de que encontrarás grande alívio. O coração acha alívio em contar a outro as suas angústias, assim como o corpo, quando padece de febre persistente, encontra alívio na sangria. É o melhor dos remédios, e por isso São Luís aconselhou ao seu filho: «Se tiveres alguma inquietação a pesar-te no coração, conta-a logo ao teu confessor, ou a alguma outra pessoa piedosa, e o consolo que te der te a fará suportar com facilidade.»
 
-[^1]: Sl 119,109.
+[^1]: Sl 119:109.

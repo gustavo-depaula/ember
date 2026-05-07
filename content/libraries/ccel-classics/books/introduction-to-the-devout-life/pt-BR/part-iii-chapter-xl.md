@@ -12,7 +12,7 @@ A lâmpada que se alimenta de azeite aromático exala odor ainda mais doce quand
 
 A viúva que tem filhos a requererem o seu cuidado e a sua direção, especialmente no que toca às almas e à formação das suas vidas, não pode nem deve, de modo algum, abandoná-los. São Paulo o ensina enfaticamente, e diz que os que «não cuidam dos seus, especialmente dos da própria casa, são piores do que um infiel»;[^5] mas se os filhos não precisam do seu cuidado, então a viúva deve recolher todos os seus afetos e pensamentos, a fim de os consagrar mais inteiramente a progredir no amor de Deus. Se não há chamado que a obrigue em consciência a tratar de matérias seculares externas (jurídicas ou outras), eu lhe aconselharia que as deixasse todas, e que regulasse os seus negócios com a maior tranquilidade e paz possíveis, ainda que tal procedimento não pareça o mais proveitoso. O fruto das discussões e das demandas há de ser muitíssimo grande, antes que se possa comparar em valor ao bem da santa paz; sem falar que os enredos jurídicos e similares são essencialmente dissipadores, e abrem amiúde caminho a inimigos que mancham a pureza de um coração que deveria estar consagrado só a Deus.
 
-A oração há de ser a principal ocupação da viúva: ela não tem mais amor senão para Deus — pouco há de ter que dizer a quem quer que seja, salvo a Deus; e, como o ferro, refreado de ceder à atração do ímã quando há um diamante por perto, se lança para ele logo que se afasta o diamante, assim o coração da viúva, que não pôde elevar-se inteiramente a Deus, ou simplesmente seguir as moções do seu Amor Celestial em vida do marido, vê-se livre, depois da morte deste, para se entregar inteiramente a Ele, e clama com a Esposa dos Cânticos: «Atrai-me, e correrei após de ti».[^6] Serei toda tua, e nada buscarei senão «o cheiro dos teus bons ungüentos».
+A oração há de ser a principal ocupação da viúva: ela não tem mais amor senão para Deus — pouco há de ter que dizer a quem quer que seja, salvo a Deus; e, como o ferro, refreado de ceder à atração do ímã quando há um diamante por perto, se lança para ele logo que se afasta o diamante, assim o coração da viúva, que não pôde elevar-se inteiramente a Deus, ou simplesmente seguir as moções do seu Amor Celestial em vida do marido, vê-se livre, depois da morte deste, para se entregar inteiramente a Ele, e clama com a Esposa dos Cânticos: «Atrai-me, e correrei após de ti».[^6] Serei toda tua, e nada buscarei senão «o cheiro dos teus bons unguentos».
 
 A viúva devota deve antes de tudo cultivar as graças da modéstia perfeita, renunciando a todas as honras, categoria, título, sociedade e similares vaidades; deve ser diligente em socorrer os pobres e enfermos, em consolar os aflitos, em conduzir os jovens à vida devota, esforçando-se por ser modelo perfeito de virtude às mulheres mais novas. A necessidade e a simplicidade hão de ser o ornato do seu trajar; a humildade e a caridade, o das suas ações; a simplicidade e a benignidade, o das suas palavras; a modéstia e a pureza, o dos seus olhos; — Jesus Cristo Crucificado, o único Amor do seu coração.
 
@@ -20,18 +20,18 @@ Em suma, a verdadeira viúva permanece na Igreja como uma pequena violeta de mar
 
 Muito mais poderia dizer sobre este assunto, mas baste mandar a quem busca ser viúva em verdade que leia as marcantes Cartas de São Jerônimo a Sálvia e às outras nobres damas que se gloriavam em ser filhas espirituais de tal Padre. Nada mais resta dizer, salvo prevenir a viúva em verdade que não condene nem mesmo censure as que retomam a vida conjugal, pois há casos em que Deus assim o ordena para sua maior glória. Devemos ter sempre em mente o antigo ensinamento de que no Céu virgens, esposas e viúvas não conhecerão diferença, salvo a que a humildade do verdadeiro coração lhes atribuir.
 
-[^1]: 1Tm 5,3.
+[^1]: 1Tm 5:3.
 
-[^2]: 1Tm 5,6.
+[^2]: 1Tm 5:6.
 
-[^3]: Ct 2,12. Vulg.: «*Tempus putationis advenit; vox turturis audita est in terra nostra*».
+[^3]: Ct 2:12. Vulg.: «*Tempus putationis advenit; vox turturis audita est in terra nostra*».
 
-[^4]: Rt 1,20-21.
+[^4]: Rt 1:20-21.
 
-[^5]: 1Tm 5,8.
+[^5]: 1Tm 5:8.
 
-[^6]: Ct 1,3-4.
+[^6]: Ct 1:3-4.
 
 [^7]: «Quão gloriosa é a Igreja, e quão grande a multidão das suas virtudes, como variedade de flores! Tem este horto do Senhor não somente as rosas dos mártires, mas os lírios das virgens, as heras dos casados, e as violetas das viúvas. Portanto, dileto, que ninguém despere da sua vocação: por todos sofreu Cristo». — Santo Agostinho, *Sermão* CCCIV, *No martírio de São Lourenço*.
 
-[^8]: 1Cor 7,40. Vulg.: «*Beatior autem erit si sic permanserit*».
+[^8]: 1Cor 7:40. Vulg.: «*Beatior autem erit si sic permanserit*».

@@ -12,16 +12,16 @@ Cada qual deve tomar do tempo da noite o sono que a sua constituição e o prove
 
 Balaão selou a sua jumenta e foi ao encontro de Balac; mas o seu coração não estava reto com Deus, e por isso o Anjo do Senhor pôs-se no caminho, com uma espada na mão, para o matar, se a jumenta não tivesse três vezes saído do caminho como se estivesse manhosa. Ao que Balaão a feria com o seu cajado, até que enfim ela caiu debaixo dele; e, abrindo-se-lhe a boca por milagre, disse-lhe: «Que te fiz eu, que me bateste estas três vezes?». Então abriram-se os olhos de Balaão, e viu o Anjo, que lhe disse: «Por que feriste a tua jumenta? Se ela não se tivesse desviado de mim, certamente já te teria morto a ti, e a ela teria conservado viva». Então disse Balaão ao Anjo do Senhor: «Pequei, pois ignorava que estavas no caminho contra mim».[^6] Vês, minha filha: foi Balaão quem fez mal, mas espancou a pobre jumenta, que não tinha culpa. Assim sucede muitas vezes conosco. Adoece o marido ou o filho de uma mulher, e logo ela recorre ao jejum, à disciplina e ao cilício, como fez Davi em ocasião semelhante.[^7] Mas, querida amiga, estás a bater na jumenta! Afliges o teu corpo, que nada pode, quando Deus está diante de ti com a espada nua. Antes corrige o teu coração, que idolatra teu marido, e que mimou teu filho, deixando-o entregar-se ao orgulho, à vaidade e à ambição. Ou de novo: um homem cai com frequência em pecados da carne, e a voz da consciência se põe diante dele no caminho, despertando-o ao santo temor. Recolhendo-se então em si mesmo, começa a maltratar a carne por o ter atraiçoado, impondo-lhe jejuns severos, áspera disciplina e similares; e, entretanto, a pobre carne poderia clamar como a jumenta de Balaão: Por que me feres? És tu mesmo, ó minha alma, o culpado. Por que me forças ao mal, usando os meus olhos, as minhas mãos e os meus lábios para fins ímpios, e atormentando-me com más imaginações? Tem só bons pensamentos, e eu não sentirei impulsos profanos; frequenta apenas pessoas piedosas, e eu não me inflamarei com fogo culpado. Tu mesma me lanças nas chamas, e me mandas não arder! Enches-me os olhos de fumo, e estranhas que se inflamem! Mas Deus te manda tratar principalmente com o teu coração, pois ele é o principal infrator. Quem padece de sarna tem menos necessidade de ser lavado e ter a pele limpa do que de ter o sangue purificado; e do mesmo modo, para purgar os nossos vícios, sem dúvida convém mortificar a carne, mas, sobretudo, é necessário purificar os afetos e renovar o coração. Faz, pois, regra de nunca empreender austeridade corporal alguma sem o conselho do teu guia espiritual.
 
-[^1]: Jl 2,12.
+[^1]: Jl 2:12.
 
-[^2]: Pr 23,26.
+[^2]: Pr 23:26.
 
-[^3]: Ct 8,6.
+[^3]: Ct 8:6.
 
-[^4]: Gl 2,20.
+[^4]: Gl 2:20.
 
-[^5]: Lc 10,8.
+[^5]: Lc 10:8.
 
 [^6]: Nm 22.
 
-[^7]: 2Sm 12,16.
+[^7]: 2Sm 12:16.

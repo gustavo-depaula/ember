@@ -14,16 +14,15 @@ São Luís tinha por privilégio visitar os hospitais, onde tratava os enfermos 
 
 "À tua direita está a Rainha, em vestido de ouro, ornado de várias cores." [^5]
 
-Quando nos vemos assediados por algum vício particular, convém, na medida do possível, fazer da virtude oposta nosso alvo especial e tudo a ela referir; assim faremos vencer o nosso inimigo e, ao mesmo tempo, progrediremos em toda virtude. Assim, se sou assediada pelo orgulho ou pela ira, devo antes de tudo esforçar-me por cultivar a humildade e a mansidão, e devo voltar todos os meus exercícios religiosos — oração, sacramentos, prudência, constância, moderação — para o mesmo fim. O javali aguça as presas roçando-as nos outros dentes, os quais por esse mesmo processo se afiam e aguçam; e assim, quando o homem de bem se esforça por aperfeiçoar-se em alguma virtude de que se sabe particularmente carente, deve afiá-la e aguçá-la com o auxílio das demais virtudes, que por sua vez se confirmarão e fortalecerão à medida que delas se sirva para tal fim. Assim foi com Jó, que, exercitando especialmente a paciência em meio às inumeráveis tentações que o assaltavam, foi confirmado em toda sorte de santidade e virtudes piedosas. E São Gregório Nazianzeno diz que por vezes alguém atingiu o cume da bondade por um só ato de virtude, executado com a maior perfeição — citando como exemplo Raabe, que, tendo praticado excelentemente a virtude da hospitalidade, alcançou alto grau de glória. [^6] Bem entendido que tal ação há de realizar-se com altíssimo grau de fervor e caridade.
+Quando nos vemos assediados por algum vício particular, convém, na medida do possível, fazer da virtude oposta nosso alvo especial e tudo a ela referir; assim faremos vencer o nosso inimigo e, ao mesmo tempo, progrediremos em toda virtude. Assim, se sou assediada pelo orgulho ou pela ira, devo antes de tudo esforçar-me por cultivar a humildade e a mansidão, e devo voltar todos os meus exercícios religiosos — oração, sacramentos, prudência, constância, moderação — para o mesmo fim. O javali aguça as presas roçando-as nos outros dentes, os quais por esse mesmo processo se afiam e aguçam; e assim, quando o homem de bem se esforça por aperfeiçoar-se em alguma virtude de que se sabe particularmente carente, deve afiá-la e aguçá-la com o auxílio das demais virtudes, que por sua vez se confirmarão e fortalecerão à medida que delas se sirva para tal fim. Assim foi com Jó, que, exercitando especialmente a paciência em meio às inumeráveis tentações que o assaltavam, foi confirmado em toda sorte de santidade e virtudes piedosas. E São Gregório Nazianzeno diz que por vezes alguém atingiu o cume da bondade por um só ato de virtude, executado com a maior perfeição — citando como exemplo Raabe, que, tendo praticado excelentemente a virtude da hospitalidade, alcançou alto grau de glória. Bem entendido que tal ação há de realizar-se com altíssimo grau de fervor e caridade.
 
-[^1]: Sl 1,3.
+[^1]: Sl 1:3.
 
-[^2]: Rm 12,15.
+[^2]: Rm 12:15.
 
-[^3]: At 6,2.
+[^3]: At 6:2.
 
 [^4]: Os Frades Pregadores.
 
-[^5]: Sl 45,13-14. "Em seu belo vestido de pano de ouro recamado, e de bordados diversos à agulha semeado."
+[^5]: Sl 45:13-14. "Em seu belo vestido de pano de ouro recamado, e de bordados diversos à agulha semeado."
 
-[^6]: São Francisco alude aqui evidentemente à menção de Raabe feita por São Paulo. Hb 11,31.

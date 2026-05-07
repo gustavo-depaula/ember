@@ -8,8 +8,8 @@ Quando leio na *Vida de Santa Catarina de Sena* sobre os seus êxtases e visões
 
 As grandes ocasiões de servir a Deus são raras, mas as pequenas nos rodeiam diariamente; e o próprio Senhor nos disse que «quem é fiel no muito pouco também é fiel no muito».[^3] Se fizeres tudo em nome de Deus, tudo o que fizeres será bem feito, quer comas, quer bebas, quer durmas, quer te divirtas, quer voltes o espeto: contanto que faças tudo com sabedoria, lucrarás grandemente como aos olhos de Deus, fazendo tudo porque Ele assim o quer.
 
-[^1]: Ct 4,9. Vulg.: «*uno crine colli tui*» — «com um cabelo do teu pescoço».
+[^1]: Ct 4:9. Vulg.: «*uno crine colli tui*» — «com um cabelo do teu pescoço».
 
 [^2]: Pr 31.
 
-[^3]: Lc 16,10.
+[^3]: Lc 16:10.

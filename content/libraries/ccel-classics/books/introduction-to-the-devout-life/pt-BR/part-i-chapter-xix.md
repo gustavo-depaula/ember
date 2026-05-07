@@ -6,6 +6,6 @@ Quando te apresentares ao teu pai espiritual, imagina que estás no Monte Calvá
 
 Conta tudo simplesmente e com franqueza, e satisfaz inteiramente a tua consciência ao fazê-lo. Em seguida, ouve as admoestações e os conselhos do Ministro de Deus, dizendo no teu coração: "Fala, Senhor, que o teu servo ouve." É verdadeiramente Deus a quem ouves, porquanto Ele disse aos seus representantes: "Quem vos ouve a mim ouve." [^2] Em seguida, toma a protestação seguinte, como sumário da tua contrição, tendo-a antes estudado e meditado com cuidado: lê-a por inteiro com a intenção mais ardente que puderes formar.
 
-[^1]: São Marcos xiv. e São Lucas vii. 39.
+[^1]: Mc 14 e Lc 7:39.
 
-[^2]: São Lucas x. 16.
+[^2]: Lc 10:16.

@@ -18,6 +18,18 @@ Exemplos:
 
 Quando o texto se dirige a Deus, à Virgem ou aos santos em oração: usar **vós** (forma reverente clássica das orações católicas em português).
 
+## Formato de citações bíblicas
+
+**Convenção desta tradução: `Livro capítulo:versículo`** (separador `:` entre capítulo e versículo).
+
+Exemplos:
+- `Lc 7:39` (não `Lc 7,39`)
+- `Mt 5:3-12`
+- `Sl 119:67.71` (vírgula seria ambígua; usar ponto entre versículos do mesmo capítulo)
+- `Ct 5:6; 7:4` (ponto-e-vírgula separa referências distintas)
+
+Abreviações dos livros: forma curta CNBB (Mt, Mc, Lc, Jo, At, Rm, 1Cor, Sl, Pr, Eclo, Ct, Is, Jr, Ez, Ap, etc.). **Nunca usar nome completo** ("São Marcos") como rótulo de livro.
+
 ## Termos-chave e suas traduções consistentes
 
 | Inglês (CCEL) | Português (pt-BR) | Notas |

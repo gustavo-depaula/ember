@@ -6,4 +6,4 @@ Podes distinguir a amizade mundana da que é boa e santa, do mesmo modo que se d
 
 Quando os jovens se entregam a olhares, palavras ou ações que não desejariam fossem vistas pelos pais, maridos ou confessores, é sinal certo de que estão a danar a sua consciência e a sua honra. Nossa Senhora se perturbou[^1] quando o Anjo lhe apareceu em forma humana, porque estava só, e ele lhe falava com palavras lisonjeiras, ainda que celestiais. Ó Salvador do mundo, se a própria Pureza teme um Anjo em forma humana, quanto mais não deve a nossa impureza temer aos homens, ainda que tomem a aparência de um Anjo, se proferem palavras de terra e de sensualidade!
 
-[^1]: Lc 1,29.
+[^1]: Lc 1:29.

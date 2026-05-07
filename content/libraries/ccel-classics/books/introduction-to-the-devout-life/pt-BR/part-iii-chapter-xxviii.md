@@ -16,22 +16,22 @@ Os que vigiam atentamente sobre a sua consciência não estão muitas vezes prop
 
 Não há sinal mais seguro de uma vida sem proveito do que quando as pessoas se entregam a julgar e a esquadrinhar a vida alheia. Naturalmente, há de excetuar-se os que são responsáveis por outros, na família ou na vida pública; — para todos esses, é matéria de consciência velar pela conduta dos seus subordinados. Cumpram esse dever com amor, e cuidem também de manter-se dentro dos limites desse mesmo dever.
 
-[^1]: Lc 6,37.
+[^1]: Lc 6:37.
 
-[^2]: 1Cor 4,5.
+[^2]: 1Cor 4:5.
 
-[^3]: 1Cor 11,31.
+[^3]: 1Cor 11:31.
 
-[^4]: Am 5,7.
+[^4]: Am 5:7.
 
-[^5]: Lc 18,11.
+[^5]: Lc 18:11.
 
 [^6]: Gn 26.
 
 [^7]: Mt 1.
 
-[^8]: Lc 23,34.
+[^8]: Lc 23:34.
 
-[^9]: Gn 29,11.
+[^9]: Gn 29:11.
 
-[^10]: Gn 24,22.
+[^10]: Gn 24:22.

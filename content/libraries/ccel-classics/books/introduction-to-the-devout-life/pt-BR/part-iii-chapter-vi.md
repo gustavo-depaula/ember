@@ -6,6 +6,6 @@ Mas, embora nos alegremos com a abjeção, devemos contudo usar de todos os meio
 
 Talvez perguntes quais são as formas mais proveitosas de abjeção. Sem dúvida, as mais úteis às nossas almas, e mais aceitas a Deus, são aquelas que nos vêm acidentalmente, ou no curso natural dos acontecimentos, porque não as escolhemos, mas simplesmente aceitamos a escolha de Deus, que sempre é de preferir à nossa. Se, porém, formos obrigados a escolher, as maiores abjeções são as melhores; e a maior é tudo o que mais se contraria à nossa inclinação individual, contanto que esteja em conformidade com a nossa vocação; pois, em verdade, a nossa vontade própria e o nosso prazer próprio nos malograram muitas graças. Quem nos pode ensinar a dizer com verdade, com Davi: «Antes quero ser desprezado na casa do meu Deus, do que habitar nas tendas dos ímpios»?[^2] Ninguém, querida filha, senão Aquele que viveu e morreu como o opróbrio dos homens e o rejeitado do povo, para que nós fôssemos elevados. Disse aqui coisas que devem parecer muito duras de contemplar; mas, crê-me, tornar-se-ão doces como o mel, quando as procurares pôr em prática.
 
-[^1]: Lc 1,48.
+[^1]: Lc 1:48.
 
-[^2]: Sl 84,10.
+[^2]: Sl 84:10.

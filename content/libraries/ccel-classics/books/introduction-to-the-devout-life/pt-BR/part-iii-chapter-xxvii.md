@@ -8,10 +8,10 @@ Uma das piores disposições possíveis é a de quem satiriza tudo e tudo torna 
 
 Há uma conversação leve, cheia de modesta vivacidade e alegria, a que os gregos chamavam *Eutrapelia*, e que poderíamos chamar boa conversação, pela qual podemos achar inocente e benigno divertimento nos pequenos sucessos que as imperfeições humanas oferecem. Cuida apenas de não deixar essa decente alegria ir longe demais, até tornar-se zombaria. A zombaria provoca riso à custa do próximo; a alegria decente e a brincadeira jovial nunca perdem de vista uma confiante e benigna cortesia, que a ninguém pode ferir. Quando os religiosos que cercavam São Luís queriam discutir matérias graves às refeições, dizia ele: «Não é hora de discussão grave, mas de conversação geral e alegre recreio» — por consideração com os seus cortesãos. Mas, minha filha, gastemos sempre a nossa recreação de tal modo que pela devoção possamos ganhar toda a eternidade.
 
-[^1]: Tg 3,2.
+[^1]: Tg 3:2.
 
-[^2]: Mt 12,34.
+[^2]: Mt 12:34.
 
-[^3]: Ef 5,3.
+[^3]: Ef 5:3.
 
-[^4]: 1Cor 15,33.
+[^4]: 1Cor 15:33.

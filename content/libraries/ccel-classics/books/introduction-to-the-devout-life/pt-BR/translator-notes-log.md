@@ -42,4 +42,14 @@ Cada entrada registra:
 | `part-iv-chapter-xiv.md` | Atribuição "Elijah commended waters of Jordan to Naaman" no corpo do texto inglês CCEL. | Não é nota, mas erro de nome do profeta no texto inglês: foi Eliseu (2Rs 5), e não Elias, quem instruiu Naamã quanto às águas do Jordão. Corrigido silenciosamente para «Eliseu» na tradução pt-BR (erro do tradutor inglês CCEL, não autoral). |
 | `part-v-chapter-ii.md` | Parte do `[^2]` original do CCEL: a anotação «Conf., Oxf. Trans. bk. x. p. 203» (referência à *Oxford Translation* das *Confissões* de Santo Agostinho). | Apparatus editorial CCEL referindo-se a uma tradução inglesa específica (a *Library of the Fathers* de Pusey/Newman/Keble, ed. Oxford). Em pt-BR, irrelevante; mantida apenas a referência genérica «*Confissões*, livro X», suficiente ao leitor pt-BR. |
 | `part-v-chapter-vii.md` | Errata no título do capítulo en-US: «Affectations» (provável erro tipográfico do CCEL — o corpo do capítulo trata claramente de afetos/paixões: amor, ódio, desejo, temor, esperança, tristeza, alegria). | Não é nota, mas correção silenciosa de errata: traduzido como «Afetos» em pt-BR, conforme o sentido e o glossário (consistente com Parte II cap. ix sobre afetos da meditação). Vale registrar para revisão futura do en-US. |
+| `title-page-preface-by.md` | `[^4]` (originalmente en-US `[^5]`) — Flora identificada via *Library of the Fathers* apparatus anglicano | Referência editorial CCEL; nota remanescente (`[^5]` Plínio/Campaspe) renumerada para `[^4]`. |
+| `part-i-chapter-iii.md` | `[^2]` — identificação de Amadeu IX, Duque de Saboia | Referência CCEL em 3.ª pessoa sobre São Francisco; removida. |
+| `part-iii-chapter-xix.md` | `[^2]` Santa Tecla biographical note — "Foi nativa da Licaônia... publicado por Florentino... os primeiros imperadores cristãos construíram uma grande igreja em Selêucia" | CCEL editorial |
+| `part-iii-chapter-xxx.md` | `[^1]` Augustine *Confessions* CCEL editorial quotation with Oxford-translation page reference | CCEL editorial |
+| `part-iii-chapter-i.md` | `[^6]` 3rd-person ref to São Francisco about Raabe | CCEL editorial. |
+| `part-iii-chapter-viii.md` | `[^2]` French-edition variant of "grasse de Saint Paul" / KJV-Vulgate apparatus | CCEL editorial. |
+| `part-iii-chapter-xiii.md` | `[^6]` 3rd-person ref about earrings/Cânticos | CCEL editorial. |
+| `part-iii-chapter-xxxii.md` | `[^1]` (residual) condensed CCEL footnote with Vulgate Tb 3 commentary | CCEL editorial; Latin citation removed entirely (Latin does not appear inline in en-US body; footnote is purely CCEL apparatus explaining KJV-vs-Vulgate divergence). |
+| `part-iv-chapter-iii.md` | `[^1]` CCEL note about English-language wordplay (sentir/con-sentir) | CCEL editorial — irrelevant for pt-BR reader. |
+| `part-iv-chapter-xiii.md` | `[^2]` mason-bee zoological note | CCEL editorial. |
 

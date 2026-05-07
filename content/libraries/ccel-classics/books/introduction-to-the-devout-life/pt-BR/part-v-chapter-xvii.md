@@ -4,4 +4,4 @@ O mundo te dirá, minha filha, que todos estes conselhos e práticas são tão n
 
 Ademais, dirá o mundo que tomo por suposto que aquelas a quem me dirijo possuem o dom da oração mental, o que, contudo, nem todos possuem, e que, portanto, este livro não será útil a todos. Sem dúvida é verdade que assim supus, e também é verdade que nem todos têm o dom da oração mental; mas é um dom que quase todos podem obter, mesmo os mais ignorantes, contanto que estejam sob um bom diretor, e queiram tomar tanto trabalho quanto a coisa merece para o adquirir. E se houver algumas inteiramente destituídas deste dom (o que creio será muito raro), um sábio pai espiritual facilmente lhes ensinará a suprir a deficiência, lendo ou ouvindo as meditações e considerações fornecidas neste livro ou em outros.
 
-[^1]: Js 10,12-13.
+[^1]: Js 10:12-13.

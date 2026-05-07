@@ -10,12 +10,12 @@ Nada pode ser mais tolo do que imaginarmos saber aquilo que de fato ignoramos; a
 
 Eu não afetaria nem loucura nem sabedoria; pois assim como a humildade me dissuade de pretender ser sábio, assim a simplicidade e a sinceridade me dissuadem de pretender ser tolo; e, do mesmo modo que a vaidade se opõe à humildade, toda afetação e fingimento se opõem à honestidade e à simplicidade. Se certos eminentes servos de Deus fingiram loucura para serem desprezados pelo mundo, podemos admirá-los, mas não imitá-los; pois tinham razões especiais e extraordinárias para fazer coisas extraordinárias, e não podem servir de regra para os tais como nós. Quando Davi[^5] dançou mais do que era costume diante da Arca da Aliança, não foi com intenção de afetar loucura, mas simplesmente como expressão da imensa e extraordinária alegria do seu coração. Mical, sua mulher, censurou-lhe os atos como loucura, mas ele não se importou de ser «vil e baixo aos seus próprios olhos», e declarou-se disposto a ser desprezado por amor de Deus. E assim, se fores desprezada por atos de genuína devoção, a humildade te fará alegrar-te com tão bem-aventurado desprezo, cuja causa não está em ti.
 
-[^1]: 1Cor 4,7.
+[^1]: 1Cor 4:7.
 
-[^2]: Lc 1,46-49.
+[^2]: Lc 1:46-49.
 
-[^3]: Is 7,11-12.
+[^3]: Is 7:11-12.
 
 [^4]: Ilhas no golfo Pérsico.
 
-[^5]: 2Sm 6,14.
+[^5]: 2Sm 6:14.

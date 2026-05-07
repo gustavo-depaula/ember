@@ -6,6 +6,6 @@ Censuramos prontamente o próximo por uma pequena coisa, ao passo que passamos p
 
 Sê justa e equânime em tudo o que fazes. Põe-te sempre no lugar do próximo, e ele no teu, e então julgarás com equidade. Vende como gostarias de comprar, e compra como gostarias de vender, e o teu vender e comprar serão ambos honestos. Estas pequenas desonestidades parecem sem importância, porque não estamos obrigados a fazer restituição, e, afinal, só tomamos o que poderíamos exigir pela letra estrita da lei; mas, todavia, são pecados contra o direito e a caridade, e meras astúcias, que muito necessitam de correção; — nem alguém perde por ser generoso, nobre de coração e cortês. Examina, pois, muitas vezes os teus tratos com o próximo, se o teu coração está reto para com ele como gostarias que o seu o estivesse para contigo, se as situações se invertessem — esta é a verdadeira pedra de toque da razão. Quando Trajano foi censurado pelos seus amigos íntimos por tornar a presença imperial demasiado acessível, respondeu: «Não me cabe esforçar-me por ser tal imperador para com os meus súditos como eu mesmo desejaria encontrar, fosse eu súdito?».
 
-[^1]: Ct 2,15.
+[^1]: Ct 2:15.
 
-[^2]: Pr 12,22.
+[^2]: Pr 12:22.

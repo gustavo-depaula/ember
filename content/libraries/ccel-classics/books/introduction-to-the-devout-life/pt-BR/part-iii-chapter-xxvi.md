@@ -6,8 +6,8 @@ Se amas a Deus de coração, minha filha, falarás dele frequentemente entre teu
 
 Cuida, pois, de jamais falar de Deus, ou das coisas que a Ele dizem respeito, de modo meramente formal e convencional; mas com seriedade e devoção, evitando aquele modo afetado em que algumas pessoas declaradamente religiosas estão sempre entremeando a sua conversa com palavras e ditos pios, fora de propósito e sem reflexão. Demasiadas vezes elas imaginam que de fato são tão pias quanto as suas palavras, o que provavelmente não é o caso.
 
-[^1]: Mt 12,37.
+[^1]: Mt 12:37.
 
-[^2]: Sl 37,30.
+[^2]: Sl 37:30.
 
-[^3]: Ct 4,11.
+[^3]: Ct 4:11.

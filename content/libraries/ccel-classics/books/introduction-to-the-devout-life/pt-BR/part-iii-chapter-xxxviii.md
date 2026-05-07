@@ -30,13 +30,13 @@ Chamamos *Casas* às raças e às gerações; e os hebreus costumavam falar do n
 
 São Paulo atribui à mulher o cuidado da casa; e em consequência alguns sustentam que a devoção da família depende mais da esposa do que do marido, que está mais frequentemente ausente e tem menos influência em casa. Por certo o rei Salomão, no Livro dos Provérbios, refere toda a prosperidade doméstica ao cuidado e à indústria daquela mulher virtuosa que descreve.[^6]
 
-Lemos no Gênesis que Isaque «orou ao Senhor por sua mulher, porque ela era estéril»;[^7] ou, como leem os hebreus, orou «em frente» dela — em lados opostos do lugar da oração — e a sua oração foi atendida. A união mais frutuosa entre marido e mulher é a que se funda na devoção, à qual mutuamente se devem estimular. Há certos frutos, como o marmelo, de qualidade tão amarga, que mal se podem comer, salvo em conserva; ao passo que outros, como as cerejas e os damascos, são tão delicados e moles, que só se podem conservar do mesmo modo. Assim, a esposa há de procurar que o marido seja adoçado pelo açúcar da devoção, pois o homem sem religião é um animal grosseiro e rude; e o marido há de desejar ver a sua esposa devota, pois sem isso a sua fragilidade e fraqueza estão sujeitas a tarnir e dano. São Paulo diz que «o marido infiel é santificado pela mulher fiel, e a mulher infiel pelo marido fiel»;[^8] porque, em laço tão estreito, um pode facilmente arrastar o outro ao bem. E quão grande é a bênção sobre os maridos e mulheres fiéis que mutuamente se confirmam continuamente no temor do Senhor!
+Lemos no Gênesis que Isaque «orou ao Senhor por sua mulher, porque ela era estéril»;[^7] ou, como leem os hebreus, orou «em frente» dela — em lados opostos do lugar da oração — e a sua oração foi atendida. A união mais frutuosa entre marido e mulher é a que se funda na devoção, à qual mutuamente se devem estimular. Há certos frutos, como o marmelo, de qualidade tão amarga, que mal se podem comer, salvo em conserva; ao passo que outros, como as cerejas e os damascos, são tão delicados e moles, que só se podem conservar do mesmo modo. Assim, a esposa há de procurar que o marido seja adoçado pelo açúcar da devoção, pois o homem sem religião é um animal grosseiro e rude; e o marido há de desejar ver a sua esposa devota, pois sem isso a sua fragilidade e fraqueza estão sujeitas a mácula e dano. São Paulo diz que «o marido infiel é santificado pela mulher fiel, e a mulher infiel pelo marido fiel»;[^8] porque, em laço tão estreito, um pode facilmente arrastar o outro ao bem. E quão grande é a bênção sobre os maridos e mulheres fiéis que mutuamente se confirmam continuamente no temor do Senhor!
 
 Demais disso, cada um deve ter para com o outro tal tolerância que jamais se irem, ou caiam em discussão e contenda. A abelha não habita em sítio onde haja muito ruído, gritos ou eco; nem o Espírito Santo de Deus habita numa casa onde altercação e tumulto, discussão e briga, perturbam a paz.
 
 Diz São Gregório Nazianzeno que em seu tempo os casados costumavam celebrar o aniversário do casamento, costume que muito aprovaria, contanto que não fosse celebração meramente secular; mas se os esposos, nesse dia, fossem à Confissão e à Comunhão, e encomendassem a sua vida conjugal especialmente a Deus, renovando a resolução de promover o bem mútuo por amor e fidelidade acrescentados, e tomando assim, por assim dizer, fôlego, e ganhando do Senhor novo vigor para perseverarem firmemente na sua vocação.
 
-[^1]: Ef 5,25.22.
+[^1]: Ef 5:25.22.
 
 [^2]: 1Pd 3,7.
 
@@ -44,10 +44,10 @@ Diz São Gregório Nazianzeno que em seu tempo os casados costumavam celebrar o 
 
 [^4]: Êx 1,21.
 
-[^5]: Pr 17,6.
+[^5]: Pr 17:6.
 
 [^6]: Pr 31.
 
-[^7]: Gn 25,21.
+[^7]: Gn 25:21.
 
-[^8]: 1Cor 7,14.
+[^8]: 1Cor 7:14.

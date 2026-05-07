@@ -10,8 +10,8 @@ Em todos os teus negócios, apoia-te unicamente na Providência de Deus, pelo qu
 
 Imita uma criancinha, que se vê segurando-se firmemente com uma mão ao pai, enquanto com a outra colhe morangos ou amoras à sebe do caminho. Assim também, enquanto colhes e usas com uma das mãos os bens deste mundo, conserva sempre a outra firme na Mão do teu Pai Celestial, e olha de tempos em tempos para ver se Ele está satisfeito com o que estás fazendo, em casa ou fora dela. Guarda-te de soltá-la, com a ideia de fazer ou receber mais — se Ele te abandonar, cairás por terra ao primeiro passo. Quando o teu trabalho ou negócio ordinário não for de molde a absorver-te, fixa o teu coração mais em Deus do que nele; e, se a obra for tal que requeira a tua atenção indivisa, faz uma pausa de tempos em tempos e olha para Deus, como os navegadores que rumam ao porto a que querem chegar olhando antes para o céu do que para os abismos sobre os quais navegam. Assim fazendo, Deus trabalhará contigo, em ti e por ti, e a tua obra será abençoada.
 
-[^1]: Lc 10,41.
+[^1]: Lc 10:41.
 
-[^2]: *Festina lente.*
+[^2]: *Festina lente.* — "Il faut depescher tout bellement."
 
-[^3]: Eclo 11,11.
+[^3]: Eclo 11:11.

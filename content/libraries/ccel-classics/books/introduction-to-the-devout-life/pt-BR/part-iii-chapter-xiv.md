@@ -14,7 +14,7 @@ Não é possível tomar grande prazer em coisa alguma sem se afeiçoar a ela. Se
 
 Por isso, não fixes os teus desejos em nada do que não possuis; não deixes o teu coração descansar no que tens; não te entristeças demasiado com as perdas que te possam ocorrer; — e então poderás razoavelmente crer que, embora rica de fato, não o és de afeto, mas és pobre em espírito, e por isso bem-aventurada, pois teu é o Reino dos Céus.
 
-[^1]: Mt 5,3.
+[^1]: Mt 5:3.
 
 [^2]: Êx 3,2.
 

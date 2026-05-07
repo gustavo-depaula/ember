@@ -20,6 +20,6 @@ Do Inferno.
 
 Dá graças, oferece-te, ora.
 
-[^1]: 2 Sm. xiv. 32.
+[^1]: 2Sm 14:32.
 
-[^2]: Is. xxxiii. 14. "Quem dentre nós poderá morar com o fogo devorador? quem dentre nós poderá morar com as chamas eternas?"
+[^2]: Is 33:14. "Quem dentre nós poderá morar com o fogo devorador? quem dentre nós poderá morar com as chamas eternas?"

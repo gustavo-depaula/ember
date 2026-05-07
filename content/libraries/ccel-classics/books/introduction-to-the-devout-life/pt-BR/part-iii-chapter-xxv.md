@@ -4,6 +4,6 @@ SÃO PAULO exprime o desejo de que todas as cristãs vistam «traje decoroso, co
 
 Sê sempre asseada, jamais permitas em ti desordem ou desleixo. Há certo desrespeito para com aqueles com quem convivemos no vestir desleixado; mas, ao mesmo tempo, evita toda vaidade, singularidade e fantasia. Tanto quanto possível, atém-te ao simples e ao despretensioso — esse vestir é o melhor adorno da beleza e a melhor desculpa da fealdade. São Pedro adverte às mulheres que não sejam demasiado meticulosas no penteado. Toda gente despreza como efeminado o homem que se rebaixa por tais coisas; e tomamos por falta de modéstia a vaidade nas mulheres — ou ao menos o que nelas há de bom fica abafado entre os enfeites e os atavios. Dizem que é sem segunda intenção; mas eu responderia que o demônio saberá tirar daí algum mal. Pela minha parte, eu gostaria de ver o meu homem ou a minha mulher devotos os mais bem vestidos da companhia, mas os menos finos e suntuosos, ornados, como diz São Pedro, com «o ornamento dum espírito manso e tranquilo».[^2] Dizia São Luís que o reto é cada qual vestir-se conforme à sua posição, de modo que os bons e sensatos não possam dizer que se veste em demasia, nem os mais jovens e festivos que se veste insuficientemente. Mas, se estes últimos não estão satisfeitos com o que é modesto e decente, hão de contentar-se com a aprovação dos mais velhos.
 
-[^1]: 1Tm 2,9.
+[^1]: 1Tm 2:9.
 
 [^2]: 1Pd 3,3.

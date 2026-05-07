@@ -20,12 +20,12 @@ Olha muitas vezes para dentro, contemplando Jesus Cristo crucificado, despido, b
 
 Considera as dores que os mártires padeceram, e pensa em como ainda hoje muitas pessoas suportam aflições incomensuravelmente maiores que as tuas, e dize: «Em verdade, a minha tribulação é consolação, os meus tormentos são apenas rosas comparados aos daqueles cuja vida é uma morte contínua, sem alívio, nem auxílio, nem consolação, abatidos sob um peso de dor dez vezes maior que o meu».
 
-[^1]: Hb 10,36.
+[^1]: Hb 10:36.
 
-[^2]: Lc 21,19.
+[^2]: Lc 21:19.
 
 [^3]: «Qui se plaint, peche.» (Quem se queixa, peca.)
 
-[^4]: Rm 4,2.
+[^4]: Rm 4:2.
 
-[^5]: Jo 16,21.
+[^5]: Jo 16:21.

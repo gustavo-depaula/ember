@@ -6,6 +6,6 @@ Certamente devemos sempre lembrar-nos disto, e perguntar fervorosamente: Será p
 
 Que isto fique gravado na tua alma, minha filha, para melhor estimares e alimentares as tuas boas resoluções, que são tão preciosas ao Coração de Jesus.
 
-[^1]: Jr 1,5.
+[^1]: Jr 1:5.
 
-[^2]: Gl 2,20.
+[^2]: Gl 2:20.

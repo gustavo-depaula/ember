@@ -10,6 +10,6 @@ Mas que há de fazer aquele que não pode tentar este remédio? A esses eu diria
 
 Mas, perguntas tu, depois de haver assim quebrado as cadeias do meu profano cativeiro, não restarão vestígios? Não levarei ainda nos pés as cicatrizes — isto é, nos meus afetos feridos? Não, minha filha, se chegaste a um devido horror do mal; nesse caso, tudo o que sentirás será uma extrema repugnância da tua afeição indigna e de tudo o que a ela diz respeito; nenhum pensamento permanecerá no teu peito a respeito disso, senão um verdadeiro amor de Deus. E se, por imperfeição da tua penitência, ainda pairarem em torno de ti algumas más inclinações, busca aquela solidão mental que já te descrevi, retira-te a ela quanto puderes, e então, por repetidos esforços e jaculatórias, renuncia aos teus maus desejos; abjura-os de coração; lê livros piedosos mais que de costume; vai mais frequentemente à Confissão e à Comunhão; conta ao teu diretor, com simplicidade e humildade, tudo o que te tenta e perturba, se puderes; ou ao menos toma conselho com algum amigo fiel e prudente. E não duvides de que Deus te livrará de todas as paixões más, se da tua parte fores constante e devota. Talvez digas que é desumano, ingrato, romper assim sem piedade uma amizade. Por certo seria uma feliz desumanidade, agradável a Deus; mas, em verdade, minha filha, não estás cometendo desumanidade alguma, antes prestando grande benefício à pessoa que amas, pois lhe quebras as cadeias como as tuas; e, embora no momento ela possa não apreciar o seu ganho, há de o fazer mais tarde, e se unirá a ti em ação de graças: «Tu, Senhor, quebraste as minhas cadeias. Oferecer-te-ei sacrifício de louvor, e invocarei o Nome do Senhor».[^2]
 
-[^1]: Ct 2,15.
+[^1]: Ct 2:15.
 
-[^2]: Sl 116,14-15.
+[^2]: Sl 116:14-15.
