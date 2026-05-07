@@ -10,6 +10,6 @@ Aquele piedoso varão, Pedro Fabro, primeiro companheiro de Santo Inácio, e pri
 
 Farás bem em escolher para ti algum Santo particular, cuja vida especialmente estudes e imites, e cujas orações sejam mais particularmente oferecidas em teu favor. O Santo que tem o teu nome de batismo parece ser-te naturalmente designado.
 
-[^1]: Mc 12, 25.
+[^1]: Mc 12:25.
 
 [^2]: Fabro era saboiano.

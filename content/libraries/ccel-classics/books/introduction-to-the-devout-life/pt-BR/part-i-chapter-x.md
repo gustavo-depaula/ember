@@ -1,4 +1,4 @@
-# CAPÍTULO X. SEGUNDA MEDITAÇÃO
+# CAPÍTULO X. SEGUNDA MEDITAÇÃO.
 
 Do Fim para o qual fomos Criados.
 

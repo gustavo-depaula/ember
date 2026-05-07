@@ -6,4 +6,4 @@ Sê sempre asseada, jamais permitas em ti desordem ou desleixo. Há certo desres
 
 [^1]: 1Tm 2:9.
 
-[^2]: 1Pd 3,3.
+[^2]: 1Pd 3:3.

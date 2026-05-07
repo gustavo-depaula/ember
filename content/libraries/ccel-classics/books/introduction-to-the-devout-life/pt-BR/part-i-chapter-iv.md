@@ -6,12 +6,12 @@ Mas quem poderá achar tal amigo? O Sábio responde: — "O que teme ao Senhor;"
 
 Em verdade, o teu guia espiritual deve sempre ser para ti como um anjo enviado do Céu; — quero dizer com isso que, quando o tiveres encontrado, não deves olhá-lo, nem confiar nele e na sua sabedoria como num homem comum; mas deves olhar para Deus, que te ajudará e falará por meio deste homem, pondo no seu coração e na sua boca o que te for necessário; de modo que deves ouvi-lo como se fosse um anjo descido do Céu para conduzir-te a ele. Trata com ele com toda sinceridade e fidelidade, e de coração aberto; manifestando-lhe igualmente o teu bem e o teu mal, sem fingimento ou dissimulação. Assim, o teu bem será examinado e confirmado, e o teu mal corrigido e remediado; — serás aliviada e fortalecida na tribulação, moderada e regulada na prosperidade. Dá ao teu guia uma cordial confiança mesclada com sagrada reverência, de modo que a reverência em nada estorve a tua confiança, nem a confiança em nada diminua a tua reverência: confia nele com o respeito de uma filha por seu pai; respeita-o com a confiança de um filho em sua mãe. Em uma palavra, tal amizade deve ser forte e doce; toda santa, sagrada, divina e espiritual. E com este fim, escolhe um entre mil, diz Ávila; — e eu digo: entre dez mil, pois há menos do que se pensaria capazes deste ofício. É preciso que ele esteja cheio de amor, de sabedoria e de discrição; pois, faltando alguma destas três coisas, há perigo. Mas, mais uma vez te digo, pede tal auxílio a Deus, e quando o tiveres achado, bendize o seu santo Nome; sê constante, não busques mais, mas prossegue com simplicidade, humildade e confiança, pois com toda segurança farás uma jornada próspera.
 
-[^1]: Tob. v. 3.
+[^1]: Tb 5:3
 
 [^2]: "Confesse-toi souvent, eslis un confesseur idoine, qui soit prudhomme, et qui te puisse seurement enseigner a faire les choses qui te seront necessaires."
 
-[^3]: Eclo. vi. 14.
+[^3]: Eclo 6:14
 
-[^4]: Eclo. v. 16.
+[^4]: Eclo 5:16
 
-[^5]: Eclo. vi. 17.
+[^5]: Eclo 6:17

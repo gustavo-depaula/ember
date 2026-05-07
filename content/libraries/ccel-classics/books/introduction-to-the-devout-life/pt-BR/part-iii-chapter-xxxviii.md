@@ -38,11 +38,11 @@ Diz São Gregório Nazianzeno que em seu tempo os casados costumavam celebrar o 
 
 [^1]: Ef 5:25.22.
 
-[^2]: 1Pd 3,7.
+[^2]: 1Pd 3:7.
 
 [^3]: O próprio São Francisco de Sales é exemplo, tendo-o sua mãe oferecido a Deus quando ainda no ventre.
 
-[^4]: Êx 1,21.
+[^4]: Ex 1:21.
 
 [^5]: Pr 17:6.
 

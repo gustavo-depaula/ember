@@ -16,6 +16,6 @@ Por isso, não fixes os teus desejos em nada do que não possuis; não deixes o 
 
 [^1]: Mt 5:3.
 
-[^2]: Êx 3,2.
+[^2]: Ex 3:2.
 
 [^3]: 1Rs 21.

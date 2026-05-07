@@ -52,4 +52,7 @@ Cada entrada registra:
 | `part-iii-chapter-xxxii.md` | `[^1]` (residual) condensed CCEL footnote with Vulgate Tb 3 commentary | CCEL editorial; Latin citation removed entirely (Latin does not appear inline in en-US body; footnote is purely CCEL apparatus explaining KJV-vs-Vulgate divergence). |
 | `part-iv-chapter-iii.md` | `[^1]` CCEL note about English-language wordplay (sentir/con-sentir) | CCEL editorial — irrelevant for pt-BR reader. |
 | `part-iv-chapter-xiii.md` | `[^2]` mason-bee zoological note | CCEL editorial. |
+| `part-ii-chapter-xii.md` | `[^2]` nota sobre o pelicano egípcio, Catacumbas, e citação do hino *Adoro Te devote* de Santo Tomás | Apparatus editorial CCEL com referências antiquárias (catacumbas, placas funerárias, cálices) que vão muito além do que São Francisco cita no corpo. Texto autoral do parágrafo já é autossuficiente. |
+| `part-ii-chapter-xiii.md` | `[^1]` "Foi por imitação disto que o hino se compôs?" | Especulação editorial sobre a origem de um hino — CCEL editorial. |
+| `part-ii-chapter-xiii.md` | `[^2]` "Santo Anselmo nasceu em Aosta, no Piemonte, no ano de 1033" | Nota biográfica editorial (apparatus CCEL). |
 

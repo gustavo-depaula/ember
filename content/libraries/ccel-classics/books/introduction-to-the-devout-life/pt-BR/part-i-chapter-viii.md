@@ -4,4 +4,4 @@ O primeiro incentivo para alcançar esta segunda purificação é uma viva e pen
 
 Ora, a fim de alcançar este temor e esta contrição, deves usar com cuidado as meditações que seguem; pois, se as praticares com firmeza, elas (pela graça de Deus) extirparão do teu coração tanto o pecado quanto as suas afeições. Foi com este fim que as preparei: usa delas uma após outra, na ordem em que vêm, tomando apenas uma por dia, e usando-a o mais cedo possível, pois a manhã é o melhor tempo para todos os exercícios espirituais; — e depois ponderá-la-ás e ruminá-la-ás durante o dia. Se ainda não te ensinaram a meditar, encontrarás instruções para esse fim na Segunda Parte.
 
-[^1]: Sl. ciii. 5, versão da Bíblia.
+[^1]: Sl 103:5, versão da Bíblia.

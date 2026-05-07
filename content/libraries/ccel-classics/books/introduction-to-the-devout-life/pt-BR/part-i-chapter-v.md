@@ -6,6 +6,6 @@ Os anjos da escada de Jacó tinham asas, e contudo não voavam, mas subiam e des
 
 A obra da purificação da alma não pode nem deve cessar senão com a própria vida; — não nos deixemos, pois, desanimar pelas nossas imperfeições; — a nossa própria perfeição consiste em combatê-las diligentemente, e é impossível combatê-las assim sem as ver, ou vencê-las sem ir-lhes ao encontro. A nossa vitória não consiste em sermos insensíveis a elas, mas em não consentirmos com elas. Ora, ser afligida pelas nossas imperfeições não é, certamente, consentir com elas, e para o adiantamento da humildade convém que por vezes nos achemos vencidas nesta batalha espiritual, na qual, contudo, jamais seremos derrotadas enquanto não perdermos ou a vida ou a coragem. Ademais, as imperfeições e os pecados veniais não podem destruir a nossa vida espiritual, a qual só se perde pelo pecado mortal; por consequência, basta-nos vigiar bem para que não venham a abater a nossa coragem. Davi pede continuamente ao Senhor que lhe fortaleça o coração contra a covardia e o desânimo; e é nosso privilégio, nesta guerra, que estamos certas de vencer enquanto estivermos dispostas a lutar.
 
-[^1]: Cant. ii. 12.
+[^1]: Ct 2:12
 
-[^2]: Dt. xxi. 12.
+[^2]: Dt 21:12
