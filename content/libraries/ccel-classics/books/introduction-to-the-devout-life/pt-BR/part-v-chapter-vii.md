@@ -6,7 +6,7 @@ No ódio ao pecado que está em ti, ao pecado que encontras nos outros, pois dev
 
 No temor dos perigos do pecado, e da perda dos bens deste mundo; tememos um demais e o outro de menos.
 
-Na esperança, fixada talvez em demasia nas coisas deste mundo e na criatura; pouco em Deus e nas coisas eternas.
+Na esperança, fixada talvez em demasia nas coisas deste mundo e na criatura; demasiado pouco em Deus e nas coisas eternas.
 
 Na tristeza, se ela for excessiva por causa de assuntos sem importância.
 

@@ -1,4 +1,4 @@
-# CAPÍTULO XIII. Como conservar a Pureza.
+# CAPÍTULO XIII. Como Conservar a Pureza.
 
 SÊ rapidíssima em desviar-te da menor coisa que conduza à impureza, pois é um mal que se aproxima furtivamente, e cujos princípios mais ínfimos costumam crescer com rapidez. É sempre mais fácil fugir desses males do que curá-los.
 
