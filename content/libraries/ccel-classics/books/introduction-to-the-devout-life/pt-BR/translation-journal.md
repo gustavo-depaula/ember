@@ -550,3 +550,85 @@ A tradução irmã do *Tratado da Verdadeira Devoção* (Montfort) em pt-BR usa 
 
 - Capítulo curto. "Heavenly Bridegroom" → «Esposo Celeste» (consistente).
 - "S. Jerome's Epistles" → «Epístolas de São Jerônimo».
+
+### part-iv-chapter-i.md / part-iv-chapter-ii.md
+
+- Pré-existentes — preservadas as versões anteriores que já adotam «tu» com conjugação clássica.
+
+### part-iv-chapter-iii.md
+
+- "delectation" → «deleitação» (termo técnico salesiano, conforme glossário).
+- "consent" → «consentimento»; distinção «sentir» vs. «consentir» preservada.
+- Nota autoral [^1] sobre a etimologia francesa «sentir et con-sentir» preservada — São Francisco joga com o francês original; a explicação editorial CCEL é, neste caso, autoral por extensão (clarifica o francês do santo).
+- "Angela di Foligni" → «Ângela de Foligno» (forma pt-BR padrão).
+
+### part-iv-chapter-iv.md
+
+- "S. Catherine of Sienna" → «Santa Catarina de Sena» (consistente).
+- "embers covered over with ashes" → «brasas cobertas de cinzas» (imagem retomada do cap. iii).
+
+### part-iv-chapter-v.md
+
+- "swooned away" → «desmaiou»; «contraestímulos» para "counter-irritants".
+- Capítulo de tom francamente encorajador — preservada a calidez salesiana.
+
+### part-iv-chapter-vi.md
+
+- "delectation" → «deleitação» (consistente).
+- "venial sin" → «pecado venial» (já no glossário).
+
+### part-iv-chapter-vii.md
+
+- "Get thee hence, Satan" (Mt 4,10) → «Retira-te, Satanás...» — fórmula pt-BR tradicional.
+- "Bridegroom" → «Esposo» (já consolidado).
+
+### part-iv-chapter-viii.md / part-iv-chapter-ix.md
+
+- "minor temptations" → «tentações menores» (consistente com glossário).
+- "flit around like flies or gnats" → «esvoaçam como moscas ou mosquitos» — imagem salesiana clássica preservada.
+- "kiss His Sacred Feet" → «beija-Lhe os Sagrados Pés».
+
+### part-iv-chapter-x.md
+
+- "trifle with the affections" → «brincar com os afetos» (sentido salesiano de leviandade afetiva).
+- "almsgiving" → «esmolas».
+
+### part-iv-chapter-xi.md
+
+- "anxiety of mind" → «inquietação da alma» (conforme glossário); o título do capítulo segue essa escolha.
+- "fish in troubled waters" → «pescar em águas turvas» (provérbio universal).
+- Citação de São Luís ao filho preservada como no original (cf. Parte I, ressonância salesiana).
+
+### part-iv-chapter-xii.md
+
+- "godly sorrow" / "sorrow of the world" (2Cor 7,10) → «tristeza segundo Deus» / «tristeza do mundo» (forma pt-BR tradicional).
+- "Bread of Life" → «Pão da Vida» (já no glossário).
+- "spiritual songs" → «cânticos espirituais»; "ejaculations" → «jaculatórias».
+- Citação Eclo 30,25 preservada com latim e pt-BR.
+
+### part-iv-chapter-xiii.md
+
+- "spiritual / sensible consolations" → «consolações espirituais / sensíveis» (conforme glossário).
+- Nota autoral [^2] (sobre as abelhas e as pedrinhas) preservada — é nota autoral científica (zoologia antiga), do mesmo gênero das outras notas «científicas» de São Francisco (firemoth, Heraclyum, etc.).
+- "love-apple" → «maçã de amor» — imagem da criança e dos doces preservada com o trocadilho mantido.
+- "Mount Calvary / Mount Tabor" → «Monte Calvário / Monte Tabor».
+- "En-gedi" → «En-gadi» (forma bíblica pt-BR padrão).
+- "Arabia Felix" → «Arábia Feliz» (forma clássica).
+- Sl 119,103 «mais doces que o mel à minha boca» — forma pt-BR tradicional.
+
+### part-iv-chapter-xiv.md
+
+- "dryness and barrenness" → «aridez e esterilidade» (já no glossário).
+- "fleshpots of Egypt" → «panelas de carne do Egito» (cf. Parte I cap. vii).
+- "Bride of the Canticles" → «Esposa dos Cânticos».
+- "Naaman" → «Naamã»; "Elisha" preservado mas em pt usei «Eliseu» (forma pt-BR).
+- Nota: o original CCEL diz "Elijah commended waters of Jordan to Naaman" — historicamente foi *Eliseu* (2Rs 5), e não Elias. **O texto inglês contém erro de nome do profeta**; mantive a forma correta «Eliseu» na tradução pt-BR (correção silenciosa de erro tipográfico/atribuição). Vale registrar para revisão futura.
+- "liquid preserves / dried fruit" → «conservas líquidas / frutas secas» (analogia salesiana doméstica preservada).
+
+### part-iv-chapter-xv.md
+
+- "Geoffroy de Peronne" → «Godofredo de Peronne» (forma pt-BR de Geoffroy/Godefroi, monge cisterciense de São Bernardo).
+- "newly-weaned babes" → «meninos recém-desmamados».
+- "Mount Calvary / Mount Tabor" — consistentes.
+- Citação Eclo 11,25 mantida com latim Vulgata «In die bonorum ne immemor sis malorum» — São Francisco cita a Vulgata.
+- Nota CCEL (na verdade aqui é uma anotação dupla) sobre divergência KJV/Vulgata: descartada a parte que cita a "English version", preservada apenas a forma latina autoral.
