@@ -19,7 +19,7 @@ Cada entrada registra:
 
 | Capítulo | Trecho | Nota adicionada | Justificativa |
 |---|---|---|---|
-| (nenhuma nota adicionada — apenas remoções de notas editoriais CCEL listadas abaixo) | | | |
+| `part-iii-chapter-xxix.md` | «Simão, o leproso, chamou Madalena de pecadora… o próprio Senhor tomou a sua defesa.[^5]» (citação Lc 7:37-39) | Apêndice à `[^5]` esclarecendo que Lc 7 narra o jantar em casa de Simão *fariseu* (não leproso); o jantar em casa de Simão leproso está em Mt 26:6-13 / Mc 14:3-9. Identificação da pecadora de Lc 7 com Maria Madalena pertence à tradição devocional. | Erro autoral (conflação de dois episódios) preservado fielmente; nota explica a anomalia ao leitor moderno sem alterar o texto. |
 
 ## Notas editoriais removidas
 

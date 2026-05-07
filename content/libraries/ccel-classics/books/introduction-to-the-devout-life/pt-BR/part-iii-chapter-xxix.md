@@ -28,6 +28,6 @@ Pode-se falar livremente dos pecadores públicos e notórios, contanto sempre, m
 
 [^4]: Lc 23:44.
 
-[^5]: Lc 7:37-39.
+[^5]: Lc 7:37-39. *Nota do tradutor:* São Francisco identifica aqui o anfitrião como «Simão, o leproso», mas Lc 7 narra o episódio em casa de Simão, o fariseu (cf. Lc 7:36–50); o jantar em casa de Simão, o leproso, está em Mt 26:6–13 e Mc 14:3–9. Os dois episódios — diversos no tempo e no lugar — são frequentemente confundidos pela tradição devocional ocidental, que identifica a pecadora de Lc 7 com Maria Madalena. A confusão está na fonte autoral; preserva-se aqui sem correção.
 
 [^6]: Lc 18:11.
