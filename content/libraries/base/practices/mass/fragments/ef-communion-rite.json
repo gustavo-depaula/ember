@@ -16,6 +16,22 @@
         }
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "Then with hands joined the priest says aloud:",
+          "pt-BR": "Com as mãos juntas, o sacerdote diz em voz alta:"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let us pray. Taught by our Saviour's command and formed by the word of God, we make bold to say:",
+          "la": "Orémus. Præcéptis salutáribus móniti, et divína institutióne formáti, audémus dícere:",
+          "pt-BR": "Oremos. Instruídos pelos preceitos salutares, e formados pela divina instituição, ousamos dizer:"
+        }
+      },
+      {
         "type": "prayer",
         "speaker": "priest",
         "inline": {
@@ -43,10 +59,17 @@
         }
       },
       {
+        "type": "subheading",
+        "text": {
+          "en-US": "Libera Nos",
+          "pt-BR": "Libera Nos"
+        }
+      },
+      {
         "type": "rubric",
         "text": {
-          "en-US": "Then the priest takes the paten between the first and second finger and says:",
-          "pt-BR": "O sacerdote descobre o Cálice, genuflecte e segura com os dedos polegar e indicador a Hóstia e diz:"
+          "en-US": "Then the priest takes the paten between the index and middle finger and says:",
+          "pt-BR": "O sacerdote toma a patena entre o indicador e o médio e diz:"
         }
       },
       {
@@ -69,9 +92,18 @@
         "type": "prayer",
         "speaker": "priest",
         "inline": {
-          "en-US": "Through the same our Lord Jesus Christ Thy Son. Who with Thee liveth and reigneth in the unity of the Holy Spirit, God, world without end.",
-          "la": "Per eúndem Dóminum nostrum Jesum Christum Fílium tuum. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.",
-          "pt-BR": "Pelo mesmo nosso Senhor Jesus Cristo Vosso Filho. Que convosco vive e reina na unidade do Espírito Santo, Deus, por todos os séculos dos séculos."
+          "en-US": "Through the same our Lord Jesus Christ Thy Son. Who with Thee liveth and reigneth in the unity of the Holy Spirit, God,",
+          "la": "Per eúndem Dóminum nostrum Jesum Christum Fílium tuum. Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,",
+          "pt-BR": "Pelo mesmo nosso Senhor Jesus Cristo Vosso Filho. Que convosco vive e reina na unidade do Espírito Santo, Deus,"
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "World without end.",
+          "la": "Per ómnia sǽcula sæculórum.",
+          "pt-BR": "Por todos os séculos dos séculos."
         }
       },
       {
@@ -93,7 +125,7 @@
       {
         "type": "rubric",
         "text": {
-          "en-US": "The priest makes the Sign of the Cross with the Particle over the Chalice, saying:",
+          "en-US": "The priest makes the Sign of the Cross thrice with the Particle over the Chalice, saying:",
           "pt-BR": "O sacerdote faz três vezes o sinal da Cruz com a Divina Partícula sobre o Cálice:"
         }
       },
@@ -155,6 +187,13 @@
         }
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "(At a Requiem Mass: \"miserere nobis\" is replaced by \"dona eis requiem\" twice, and \"dona nobis pacem\" by \"dona eis requiem sempiternam\". The first communion prayer (Domine Jesu Christe, qui dixisti) and the Pax Domini exchange are also omitted.)",
+          "pt-BR": "(Na Missa de Réquiem: \"miserere nobis\" é substituído por \"dona eis requiem\" duas vezes, e \"dona nobis pacem\" por \"dona eis requiem sempiternam\". A primeira oração da comunhão (Domine Jesu Christe, qui dixisti) e o diálogo da Pax Domini também são omitidos.)"
+        }
+      },
+      {
         "type": "subheading",
         "text": {
           "en-US": "Communion Prayers",
@@ -193,6 +232,13 @@
           "en-US": "Let not the partaking of Thy Body, O Lord Jesus Christ, which I, though unworthy, presume to receive, turn to my judgment and condemnation; but let it, through Thy mercy, become a safeguard and remedy, both for soul and body; Who with God the Father, in the unity of the Holy Spirit, livest and reignest God, world without end. Amen.",
           "la": "Percéptio Córporis tui, Dómine Jesu Christe, quod ego indígnus súmere præsúmo, non mihi provéniat in judícium et condemnatiónem: sed pro tua pietáte prosit mihi ad tutaméntum mentis et córporis, et ad medélam percipiéndam: Qui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum. Amen.",
           "pt-BR": "Senhor Jesus Cristo, que este vosso Corpo, que eu, ainda que indigno, vou receber, não seja para o meu juízo e condenação, mas que, pela vossa misericórdia, sirva à minha alma e ao meu corpo de defesa e de remédio salutar: Vós que, sendo Deus, viveis e reinais com Deus Pai na unidade do Espírito Santo por todos os séculos dos séculos. Amém."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Communion of the Priest",
+          "pt-BR": "Comunhão do Sacerdote"
         }
       },
       {
@@ -290,10 +336,74 @@
         }
       },
       {
+        "type": "collapsible",
+        "title": {
+          "en-US": "Communion of the Faithful (when the faithful receive)",
+          "pt-BR": "Comunhão dos Fiéis (quando os fiéis comungam)"
+        },
+        "sections": [
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "If the faithful are to receive Communion, the priest, before distributing, holds up a Sacred Host and says:",
+              "pt-BR": "Se os fiéis vão comungar, o sacerdote, antes de distribuir, ergue uma Hóstia consagrada e diz:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "priest",
+            "inline": {
+              "en-US": "Behold the Lamb of God, behold Him who taketh away the sins of the world.",
+              "la": "Ecce Agnus Dei, ecce qui tollit peccáta mundi.",
+              "pt-BR": "Eis o Cordeiro de Deus, eis Aquele que tira os pecados do mundo."
+            }
+          },
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "Then he says three times, with the faithful repeating after him:",
+              "pt-BR": "Em seguida, diz três vezes, com os fiéis repetindo:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "all",
+            "inline": {
+              "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.",
+              "la": "Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.",
+              "pt-BR": "Senhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva."
+            }
+          },
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "To each communicant he says:",
+              "pt-BR": "A cada comungante o sacerdote diz:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "priest",
+            "inline": {
+              "en-US": "May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen.",
+              "la": "Corpus Dómini nostri Jesu Christi custódiat ánimam tuam in vitam ætérnam. Amen.",
+              "pt-BR": "O Corpo de nosso Senhor Jesus Cristo guarde a tua alma para a vida eterna. Amém."
+            }
+          }
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Ablutions",
+          "pt-BR": "Abluções"
+        }
+      },
+      {
         "type": "rubric",
         "text": {
-          "en-US": "The priest says silently:",
-          "pt-BR": "Entretanto, diz:"
+          "en-US": "Returning to the altar, the priest holds out the Chalice to the server, who pours wine into it for the first ablution.",
+          "pt-BR": "Voltando ao altar, o sacerdote estende o cálice ao acólito, que verte vinho para a primeira ablução."
         }
       },
       {
@@ -308,8 +418,8 @@
       {
         "type": "rubric",
         "text": {
-          "en-US": "Then he holds out the Chalice to the server, who pours wine into it for the first ablution.",
-          "pt-BR": "O sacerdote purifica primeiro o cálice e depois os dedos, e toma as abluções."
+          "en-US": "Then he holds the chalice while the server pours wine and water over his fingers for the second ablution.",
+          "pt-BR": "Em seguida estende o cálice enquanto o acólito verte vinho e água sobre os seus dedos, para a segunda ablução."
         }
       },
       {
@@ -324,8 +434,15 @@
       {
         "type": "rubric",
         "text": {
-          "en-US": "The priest then washes his fingers and receives the second ablution. Then he covers the chalice and goes to the right side of the altar.",
-          "pt-BR": "Purifica o cálice e deixa-o, coberto, no meio do altar. O sacerdote passa para o lado direito do altar."
+          "en-US": "Then he covers the chalice, returns to the right side of the altar, and reads the Communion antiphon.",
+          "pt-BR": "Cobre o cálice, deixa-o no meio do altar e dirige-se ao lado direito do altar, onde lê a antífona da Comunhão."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Communion Antiphon",
+          "pt-BR": "Antífona de Comunhão"
         }
       },
       {
@@ -338,6 +455,9 @@
         "form": "ef"
       },
       {
+        "type": "divider"
+      },
+      {
         "type": "rubric",
         "text": {
           "en-US": "The priest kisses the altar. Then he turns to the people, and says:",
@@ -346,7 +466,23 @@
       },
       {
         "type": "call",
-        "ref": "of-lord-be-with-you"
+        "ref": "ef-lord-be-with-you"
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let us pray.",
+          "la": "Orémus.",
+          "pt-BR": "Oremos."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Postcommunion",
+          "pt-BR": "Pós-Comunhão"
+        }
       },
       {
         "type": "proper",

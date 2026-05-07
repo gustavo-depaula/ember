@@ -10,6 +10,20 @@
         "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
+        "type": "subheading",
+        "text": {
+          "en-US": "Epistle",
+          "pt-BR": "Epístola"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest reads the Epistle at the Epistle side of the altar. At the end the server answers:",
+          "pt-BR": "O sacerdote lê a Epístola no lado da Epístola do altar. Ao final, o acólito responde:"
+        }
+      },
+      {
         "type": "proper",
         "slot": "epistle",
         "description": {
@@ -17,6 +31,22 @@
           "pt-BR": "Epístola do dia"
         },
         "form": "ef"
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "Thanks be to God.",
+          "la": "Deo grátias.",
+          "pt-BR": "Graças a Deus."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Gradual / Alleluia / Tract",
+          "pt-BR": "Gradual / Aleluia / Trato"
+        }
       },
       {
         "type": "proper",
@@ -52,7 +82,7 @@
       },
       {
         "type": "call",
-        "ref": "of-lord-be-with-you"
+        "ref": "ef-lord-be-with-you"
       },
       {
         "type": "rubric",
@@ -98,14 +128,23 @@
         }
       },
       {
-        "type": "divider"
-      },
-      {
         "type": "rubric",
         "text": {
-          "en-US": "On Sundays and certain Feasts the priest recites the Creed:",
-          "pt-BR": "Aos domingos e certos dias de festa, o celebrante vai ao meio do altar e diz o Credo:"
+          "en-US": "The priest kisses the book and says quietly:",
+          "pt-BR": "O sacerdote beija o livro e diz em voz baixa:"
         }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "By the words of the Gospel may our sins be blotted out.",
+          "la": "Per evangélica dicta deleántur nostra delícta.",
+          "pt-BR": "Pelas palavras do Evangelho sejam apagados os nossos pecados."
+        }
+      },
+      {
+        "type": "divider"
       }
     ]
   }

@@ -134,3 +134,15 @@ export function getDoSanctiId(date: Date): string {
   const d = normalizeDate(date)
   return `${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`
 }
+
+// Same week's Sunday id — used as the EF ferial fallback. In the 1962 Missal,
+// a free ferial weekday (no feast, no proper Mass) repeats the previous Sunday's
+// Mass. DO encodes this as sparse weekday files: each weekday tempora file ships
+// only what differs from the Sunday (often just the Preface), so callers must
+// gap-fill from the Sunday file. This helper builds the Sunday id by swapping
+// the trailing day-of-week digit to 0.
+export function getDoTemporaSundayId(weekdayId: string): string | undefined {
+  const m = weekdayId.match(/^(.+)-([0-6])$/)
+  if (!m || m[2] === '0') return undefined
+  return `${m[1]}-0`
+}

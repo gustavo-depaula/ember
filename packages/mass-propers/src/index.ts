@@ -1,4 +1,4 @@
-export { getDoSanctiId, getDoTemporaId } from './do-file-id'
+export { getDoSanctiId, getDoTemporaId, getDoTemporaSundayId } from './do-file-id'
 export {
   chooseProperSource,
   getProperDay,

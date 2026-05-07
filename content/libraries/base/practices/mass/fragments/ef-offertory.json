@@ -11,6 +11,45 @@
       {
         "type": "rubric",
         "text": {
+          "en-US": "The priest kisses the altar, turns to the people and says \"Dóminus vobíscum\"; turning back to the altar he says \"Orémus\" and reads the Offertory antiphon.",
+          "pt-BR": "O sacerdote beija o altar, volta-se aos fiéis e diz \"Dóminus vobíscum\"; voltando-se ao altar, diz \"Orémus\" e lê a antífona do Ofertório."
+        }
+      },
+      {
+        "type": "call",
+        "ref": "ef-lord-be-with-you"
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let us pray.",
+          "la": "Orémus.",
+          "pt-BR": "Oremos."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Offertory Antiphon",
+          "pt-BR": "Antífona do Ofertório"
+        }
+      },
+      {
+        "type": "proper",
+        "slot": "offertory",
+        "description": {
+          "en-US": "Offertory verse of the day",
+          "pt-BR": "Versículo do Ofertório do dia"
+        },
+        "form": "ef"
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "rubric",
+        "text": {
           "en-US": "The priest takes the paten with the host and offers it up, saying:",
           "pt-BR": "O sacerdote descobre o cálice e toma nas mãos a patena com o pão, oferecendo-o a Deus, dizendo:"
         }
@@ -180,6 +219,20 @@
           "en-US": "Amen.",
           "la": "Amen.",
           "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Secret",
+          "pt-BR": "Secreta"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest reads the Secret silently, with hands extended; he concludes aloud only the final phrase \"Per omnia saecula saeculorum\" leading into the Preface dialogue.",
+          "pt-BR": "O sacerdote lê a Secreta em silêncio, com as mãos estendidas; profere em voz alta apenas a conclusão \"Per omnia saecula saeculorum\", que conduz ao diálogo do Prefácio."
         }
       },
       {

@@ -17,31 +17,147 @@
       },
       {
         "type": "call",
-        "ref": "of-lord-be-with-you"
+        "ref": "ef-lord-be-with-you"
+      },
+      {
+        "type": "select",
+        "on": "celebration.primary.season",
+        "default": "default",
+        "options": [
+          {
+            "id": "lent",
+            "label": {
+              "en-US": "Lent",
+              "pt-BR": "Quaresma"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "On days when the Gloria is omitted (Lent, Septuagesima, Advent ferials, vigils, ember days):",
+                  "pt-BR": "Nos dias em que se omite o Glória (Quaresma, Septuagésima, ferias do Advento, vigílias, têmporas):"
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Let us bless the Lord.",
+                  "la": "Benedicámus Dómino.",
+                  "pt-BR": "Bendigamos ao Senhor."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Thanks be to God.",
+                  "la": "Deo grátias.",
+                  "pt-BR": "Graças a Deus."
+                }
+              }
+            ]
+          },
+          {
+            "id": "advent",
+            "label": {
+              "en-US": "Advent",
+              "pt-BR": "Advento"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "On Advent ferials when the Gloria is omitted, \"Benedicamus Domino\" replaces \"Ite Missa est\". Sundays of Advent (with Gloria) keep \"Ite Missa est\".",
+                  "pt-BR": "Nas ferias do Advento, quando se omite o Glória, \"Benedicámus Dómino\" substitui o \"Ite Missa est\". Aos domingos do Advento (com Glória) mantém-se o \"Ite Missa est\"."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Go, the Mass is ended.",
+                  "la": "Ite, Missa est.",
+                  "pt-BR": "Ide, a Missa acabou."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Thanks be to God.",
+                  "la": "Deo grátias.",
+                  "pt-BR": "Graças a Deus."
+                }
+              }
+            ]
+          },
+          {
+            "id": "default",
+            "label": {
+              "en-US": "Common",
+              "pt-BR": "Comum"
+            },
+            "sections": [
+              {
+                "type": "prayer",
+                "speaker": "priest",
+                "inline": {
+                  "en-US": "Go, the Mass is ended.",
+                  "la": "Ite, Missa est.",
+                  "pt-BR": "Ide, a Missa acabou."
+                }
+              },
+              {
+                "type": "prayer",
+                "speaker": "people",
+                "inline": {
+                  "en-US": "Thanks be to God.",
+                  "la": "Deo grátias.",
+                  "pt-BR": "Graças a Deus."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "At a Requiem Mass, in place of the above, the priest says:",
+          "pt-BR": "Na Missa de Réquiem, em lugar do acima, o sacerdote diz:"
+        }
       },
       {
         "type": "prayer",
         "speaker": "priest",
         "inline": {
-          "en-US": "Go, the Mass is ended.",
-          "la": "Ite, Missa est.",
-          "pt-BR": "Ide, a Missa acabou."
+          "en-US": "May they rest in peace.",
+          "la": "Requiéscant in pace.",
+          "pt-BR": "Descansem em paz."
         }
       },
       {
         "type": "prayer",
         "speaker": "people",
         "inline": {
-          "en-US": "Thanks be to God.",
-          "la": "Deo grátias.",
-          "pt-BR": "Graças a Deus."
+          "en-US": "Amen.",
+          "la": "Amen.",
+          "pt-BR": "Amém."
         }
       },
       {
         "type": "subheading",
         "text": {
-          "en-US": "Blessing",
-          "pt-BR": "Bênção"
+          "en-US": "Placeat tibi",
+          "pt-BR": "Placeat tibi"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "Bowing down before the altar, the priest says:",
+          "pt-BR": "Inclinando-se diante do altar, o sacerdote diz:"
         }
       },
       {
@@ -49,8 +165,14 @@
         "speaker": "priest",
         "inline": {
           "en-US": "May the tribute of my homage be pleasing to Thee, O holy Trinity: and grant that the sacrifice which I, though unworthy, have offered in the sight of Thy majesty, may be acceptable to Thee, and through Thy mercy be a propitiation for me and for all those for whom I have offered it. Through Christ our Lord. Amen.",
-          "la": "Pláceat tibi, sancta Trínitas, obséquium servitútis meæ: et præsta; ut sacrifícium, quod óculis tuæ majestátis indígnus óbtuli, tibi sit acceptábile, mihíque, et ómnibus pro quibus illud óbtuli, sit, te miseránte, propitiábile. Per Christum Dóminum nostrum. Amen.",
-          "pt-BR": "Seja-Vos agradável, ó Santíssima Trindade, a homenagem da minha servidão: e concedei que o sacrifício que eu, embora indigno, ofereci diante da Vossa majestade, Vos seja aceito, e que, pela Vossa misericórdia, seja propiciatório para mim e para todos aqueles por quem o ofereci. Por Cristo nosso Senhor. Amém."
+          "la": "Pláceat tibi, sancta Trínitas, obséquium servitútis meæ: et præsta; ut sacrifícium, quod óculis tuæ majestátis indígnus óbtuli, tibi sit acceptábile, mihíque, et ómnibus pro quibus illud óbtuli, sit, te miseránte, propitiábile. Per Christum Dóminum nostrum. Amen."
+        }
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Blessing",
+          "pt-BR": "Bênção"
         }
       },
       {
@@ -76,6 +198,13 @@
           "en-US": "Amen.",
           "la": "Amen.",
           "pt-BR": "Amém."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "(At a Requiem Mass the priest does not bless the people.)",
+          "pt-BR": "(Na Missa de Réquiem o sacerdote não dá a bênção.)"
         }
       },
       {
