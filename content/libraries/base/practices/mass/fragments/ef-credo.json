@@ -1,20 +1,6 @@
 {
   "fragments": {
-    "ef-credo": [
-      {
-        "type": "heading",
-        "text": {
-          "en-US": "Credo",
-          "pt-BR": "Credo"
-        }
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "On Sundays and certain Feasts the priest, standing at the middle of the altar, extending and joining his hands, says the Creed:",
-          "pt-BR": "Aos domingos e em certas festas, o sacerdote, no meio do altar, estende e junta as mãos e diz o Credo:"
-        }
-      },
+    "ef-credo-body": [
       {
         "type": "prayer",
         "speaker": "all",
@@ -55,6 +41,35 @@
           "la": "Crucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est.\nEt resurréxit tértia die, secúndum Scriptúras.\nEt ascéndit in cælum: sedet ad déxteram Patris.\nEt íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis.\nEt in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit.\nQui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas.\nEt unam, sanctam, cathólicam et apostólicam Ecclésiam.\nConfíteor unum baptísma in remissiónem peccatórum.\nEt exspécto resurrectiónem mortuórum.\nEt vitam ✠ ventúri sǽculi. Amen.",
           "pt-BR": "Também por nós foi crucificado: sob Pôncio Pilatos, padeceu e foi sepultado.\nE ao terceiro dia ressuscitou segundo as Escrituras.\nE subiu ao céu: está sentado à direita do Pai.\nE de novo há de vir com glória para julgar os vivos e os mortos: e o Seu reino não terá fim.\nE no Espírito Santo, Senhor e fonte de vida: que procede do Pai e do Filho.\nE com o Pai e o Filho é conjuntamente adorado e glorificado: o qual falou pelos Profetas.\nE na Igreja una, santa, católica e apostólica.\nConfesso um só Batismo para remissão dos pecados.\nE espero a ressurreição dos mortos.\nE a vida ✠ do mundo que há de vir. Amém."
         }
+      }
+    ],
+    "ef-credo": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Credo",
+          "pt-BR": "Credo"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Creed is said on Sundays, on feasts of I and II class, on the octave days of major feasts, and on feasts of the Apostles, Evangelists, and Doctors of the Church. It is omitted on most ferias and on memorials of saints below II class — on those days the priest passes directly from the Gospel to the Offertory.",
+          "pt-BR": "O Credo é recitado aos domingos, nas festas de I e II classe, nos dias de oitava das festas maiores, e nas festas dos Apóstolos, Evangelistas e Doutores da Igreja. Omite-se nas ferias e nas memórias de santos abaixo da II classe — nesses dias o sacerdote passa diretamente do Evangelho ao Ofertório."
+        }
+      },
+      {
+        "type": "collapsible",
+        "title": {
+          "en-US": "Credo — text",
+          "pt-BR": "Credo — texto"
+        },
+        "sections": [
+          {
+            "type": "call",
+            "ref": "ef-credo-body"
+          }
+        ]
       },
       {
         "type": "divider"

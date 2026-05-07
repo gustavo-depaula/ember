@@ -336,59 +336,61 @@
         }
       },
       {
-        "type": "subheading",
-        "text": {
-          "en-US": "Communion of the Faithful",
-          "pt-BR": "Comunhão dos Fiéis"
-        }
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "If the faithful are to receive Communion, the priest, before distributing, holds up a Sacred Host and says:",
-          "pt-BR": "Se os fiéis vão comungar, o sacerdote, antes de distribuir, ergue uma Hóstia consagrada e diz:"
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "Behold the Lamb of God, behold Him who taketh away the sins of the world.",
-          "la": "Ecce Agnus Dei, ecce qui tollit peccáta mundi.",
-          "pt-BR": "Eis o Cordeiro de Deus, eis Aquele que tira os pecados do mundo."
-        }
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "Then he says three times, with the faithful repeating after him:",
-          "pt-BR": "Em seguida, diz três vezes, com os fiéis repetindo:"
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "all",
-        "inline": {
-          "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.",
-          "la": "Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.",
-          "pt-BR": "Senhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva."
-        }
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "To each communicant he says:",
-          "pt-BR": "A cada comungante o sacerdote diz:"
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen.",
-          "la": "Corpus Dómini nostri Jesu Christi custódiat ánimam tuam in vitam ætérnam. Amen.",
-          "pt-BR": "O Corpo de nosso Senhor Jesus Cristo guarde a tua alma para a vida eterna. Amém."
-        }
+        "type": "collapsible",
+        "title": {
+          "en-US": "Communion of the Faithful (when the faithful receive)",
+          "pt-BR": "Comunhão dos Fiéis (quando os fiéis comungam)"
+        },
+        "sections": [
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "If the faithful are to receive Communion, the priest, before distributing, holds up a Sacred Host and says:",
+              "pt-BR": "Se os fiéis vão comungar, o sacerdote, antes de distribuir, ergue uma Hóstia consagrada e diz:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "priest",
+            "inline": {
+              "en-US": "Behold the Lamb of God, behold Him who taketh away the sins of the world.",
+              "la": "Ecce Agnus Dei, ecce qui tollit peccáta mundi.",
+              "pt-BR": "Eis o Cordeiro de Deus, eis Aquele que tira os pecados do mundo."
+            }
+          },
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "Then he says three times, with the faithful repeating after him:",
+              "pt-BR": "Em seguida, diz três vezes, com os fiéis repetindo:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "all",
+            "inline": {
+              "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.\nLord, I am not worthy that Thou shouldst enter under my roof: but only say the word, and my soul shall be healed.",
+              "la": "Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.\nDómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.",
+              "pt-BR": "Senhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva.\nSenhor, não sou digno de que entreis em minha morada: mas dizei uma só palavra, e a minha alma será salva."
+            }
+          },
+          {
+            "type": "rubric",
+            "text": {
+              "en-US": "To each communicant he says:",
+              "pt-BR": "A cada comungante o sacerdote diz:"
+            }
+          },
+          {
+            "type": "prayer",
+            "speaker": "priest",
+            "inline": {
+              "en-US": "May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen.",
+              "la": "Corpus Dómini nostri Jesu Christi custódiat ánimam tuam in vitam ætérnam. Amen.",
+              "pt-BR": "O Corpo de nosso Senhor Jesus Cristo guarde a tua alma para a vida eterna. Amém."
+            }
+          }
+        ]
       },
       {
         "type": "subheading",

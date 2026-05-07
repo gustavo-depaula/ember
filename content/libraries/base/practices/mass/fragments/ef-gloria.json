@@ -1,20 +1,6 @@
 {
   "fragments": {
-    "ef-gloria": [
-      {
-        "type": "heading",
-        "text": {
-          "en-US": "Gloria",
-          "pt-BR": "Glória"
-        }
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "The Gloria is said on Sundays outside Advent, Septuagesima and Lent, on feasts and during privileged octaves; on weekdays of Eastertide; and at votive Masses of saints. It is omitted on Lenten and Advent ferias, on Septuagesima Sundays, on vigils, ember days, and at Requiem Masses — on these days the priest passes directly from the Kyrie to \"Dominus vobiscum\" and the Collect.",
-          "pt-BR": "O Glória se diz aos domingos fora do Advento, Septuagésima e Quaresma, nas festas e oitavas privilegiadas; nos dias de semana do Tempo Pascal; e nas missas votivas dos santos. Omite-se nas ferias do Advento e da Quaresma, nos domingos da Septuagésima, nas vigílias, têmporas e missas de réquiem — nesses dias o sacerdote passa diretamente do Kýrie para o \"Dóminus vobíscum\" e a Coleta."
-        }
-      },
+    "ef-gloria-body": [
       {
         "type": "rubric",
         "text": {
@@ -39,6 +25,110 @@
           "la": "Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex cæléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu, ✠ in glória Dei Patris. Amen.",
           "pt-BR": "E na terra paz aos homens de boa vontade. Nós Vos louvamos. Nós Vos bendizemos. Nós Vos adoramos. Nós Vos glorificamos. Nós Vos damos graças pela Vossa imensa glória. Senhor Deus, Rei dos céus, Deus Pai todo-poderoso. Senhor Jesus Cristo, Filho Unigénito. Senhor Deus, Cordeiro de Deus, Filho do Pai. Vós que tirais os pecados do mundo, tende piedade de nós. Vós que tirais os pecados do mundo, acolhei a nossa súplica. Vós que estais sentado à direita do Pai, tende piedade de nós. Pois só Vós sois o Santo. Só Vós sois o Senhor. Só Vós sois o Altíssimo, Jesus Cristo. Com o Espírito Santo, ✠ na glória de Deus Pai. Amém."
         }
+      }
+    ],
+    "ef-gloria": [
+      {
+        "type": "heading",
+        "text": {
+          "en-US": "Gloria",
+          "pt-BR": "Glória"
+        }
+      },
+      {
+        "type": "select",
+        "on": "celebration.primary.season",
+        "default": "default",
+        "options": [
+          {
+            "id": "lent",
+            "label": {
+              "en-US": "Lent",
+              "pt-BR": "Quaresma"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "The Gloria is omitted in Lent. The priest passes from the Kyrie directly to \"Dominus vobiscum\" and the Collect.",
+                  "pt-BR": "Omite-se o Glória na Quaresma. O sacerdote passa do Kýrie diretamente ao \"Dóminus vobíscum\" e à Coleta."
+                }
+              },
+              {
+                "type": "collapsible",
+                "title": {
+                  "en-US": "Gloria — text (omitted today)",
+                  "pt-BR": "Glória — texto (omitido hoje)"
+                },
+                "sections": [
+                  {
+                    "type": "call",
+                    "ref": "ef-gloria-body"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "advent",
+            "label": {
+              "en-US": "Advent",
+              "pt-BR": "Advento"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "The Gloria is omitted on the Sundays and ferias of Advent. It is said only at Christmas Masses, on feasts of saints during Advent, and at votive Masses with their own Gloria.",
+                  "pt-BR": "Omite-se o Glória nos domingos e ferias do Advento. Diz-se apenas nas Missas do Natal, nas festas de santos durante o Advento, e nas missas votivas com Glória próprio."
+                }
+              },
+              {
+                "type": "collapsible",
+                "title": {
+                  "en-US": "Gloria — text (usually omitted in Advent)",
+                  "pt-BR": "Glória — texto (geralmente omitido no Advento)"
+                },
+                "sections": [
+                  {
+                    "type": "call",
+                    "ref": "ef-gloria-body"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "default",
+            "label": {
+              "en-US": "Common",
+              "pt-BR": "Comum"
+            },
+            "sections": [
+              {
+                "type": "rubric",
+                "text": {
+                  "en-US": "The Gloria is omitted at Requiem Masses, on vigils, ember days, and Septuagesima Sundays. On those days the priest passes directly from the Kyrie to \"Dominus vobiscum\" and the Collect.",
+                  "pt-BR": "Omite-se o Glória nas missas de Réquiem, nas vigílias, nas têmporas, e nos domingos da Septuagésima. Nesses dias o sacerdote passa diretamente do Kýrie ao \"Dóminus vobíscum\" e à Coleta."
+                }
+              },
+              {
+                "type": "collapsible",
+                "title": {
+                  "en-US": "Gloria",
+                  "pt-BR": "Glória"
+                },
+                "defaultOpen": true,
+                "sections": [
+                  {
+                    "type": "call",
+                    "ref": "ef-gloria-body"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "rubric",
