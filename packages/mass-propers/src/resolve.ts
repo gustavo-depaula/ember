@@ -1,5 +1,5 @@
 import type { DayCalendar, LiturgicalCategory } from '@ember/liturgical'
-import { getDoSanctiId, getDoTemporaId } from './do-file-id'
+import { getDoSanctiId, getDoTemporaId, getDoTemporaSundayId } from './do-file-id'
 import { getSectionIdsForSlot } from './slot-map'
 import type { ProperDay, ProperSection } from './types'
 
@@ -122,8 +122,20 @@ async function loadRawProperDay(
   const temporaId = getDoTemporaId(date)
   const sanctiId = getDoSanctiId(date)
 
-  const tempora = temporaId ? await dataSource.loadTempora(temporaId) : undefined
+  const dayTempora = temporaId ? await dataSource.loadTempora(temporaId) : undefined
   const sancti = await dataSource.loadSancti(sanctiId)
+
+  // EF free-ferial rule: weekday tempora files (-1..-6) ship only the slots that
+  // differ from the previous Sunday. Gap-fill from that Sunday so missing
+  // Introit/Collect/Epistle/Gradual/Gospel/Offertory/Secret/Communion/Postcommunion
+  // resolve to last Sunday's text. Days with own propers (Lent, Advent ferials,
+  // ember days, vigils) win slot-by-slot via the overlay.
+  const sundayId = temporaId ? getDoTemporaSundayId(temporaId) : undefined
+  const sundayTempora = sundayId ? await dataSource.loadTempora(sundayId) : undefined
+  const tempora =
+    sundayTempora && dayTempora
+      ? { ...sundayTempora, ...dayTempora }
+      : (dayTempora ?? sundayTempora)
 
   // Use the calendar-determined source, fall back to the other if unavailable.
   // This handles cases like Christmas (calendar says Tempora, DO stores in Sancti).

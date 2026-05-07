@@ -9,52 +9,55 @@
         }
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "On Sundays and certain Feasts the priest, standing at the middle of the altar, extending and joining his hands, says the Creed:",
+          "pt-BR": "Aos domingos e em certas festas, o sacerdote, no meio do altar, estende e junta as mãos e diz o Credo:"
+        }
+      },
+      {
         "type": "prayer",
         "speaker": "all",
         "inline": {
-          "en-US": "I believe in one God, the Father almighty, maker of heaven and earth, and of all things visible and invisible.\nAnd in one Lord Jesus Christ, the only-begotten Son of God.\nBorn of the Father before all ages.\nGod of God, Light of Light, true God of true God.\nBegotten, not made, consubstantial with the Father: by whom all things were made.\nWho for us men and for our salvation came down from heaven.\nAnd was incarnate by the Holy Spirit of the Virgin Mary: and was made man.\nHe was crucified also for us: suffered under Pontius Pilate, and was buried.\nAnd the third day He rose again according to the Scriptures.\nAnd ascended into heaven: He sits at the right hand of the Father.\nAnd He shall come again with glory to judge the living and the dead: of His kingdom there shall be no end.\nAnd in the Holy Spirit, the Lord and giver of life: who proceeds from the Father and the Son.\nWho together with the Father and the Son is adored and glorified: who spoke through the Prophets.\nAnd one, holy, catholic and apostolic Church.\nI confess one baptism for the remission of sins.\nAnd I await the resurrection of the dead.\nAnd the life ✠ of the world to come. Amen.",
-          "la": "Credo in unum Deum, Patrem omnipoténtem, factórem cæli et terræ, visibílium ómnium et invisibílium.\nEt in unum Dóminum Jesum Christum, Fílium Dei unigénitum.\nEt ex Patre natum ante ómnia sǽcula.\nDeum de Deo, Lumen de Lúmine, Deum verum de Deo vero.\nGénitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt.\nQui propter nos hómines et propter nostram salútem descéndit de cælis.\nEt incarnátus est de Spíritu Sancto ex María Vírgine: et homo factus est.\nCrucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est.\nEt resurréxit tértia die, secúndum Scriptúras.\nEt ascéndit in cælum: sedet ad déxteram Patris.\nEt íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis.\nEt in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit.\nQui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas.\nEt unam, sanctam, cathólicam et apostólicam Ecclésiam.\nConfíteor unum baptísma in remissiónem peccatórum.\nEt exspécto resurrectiónem mortuórum.\nEt vitam ✠ ventúri sǽculi. Amen.",
-          "pt-BR": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, de todas as coisas visíveis e invisíveis.\nE em um só Senhor Jesus Cristo, Filho Unigénito de Deus.\nNascido do Pai antes de todos os séculos.\nDeus de Deus, Luz da Luz, Deus verdadeiro de Deus verdadeiro.\nGerado, não criado, consubstancial ao Pai: por quem todas as coisas foram feitas.\nO qual por nós homens e para nossa salvação desceu dos céus.\nE encarnou pelo Espírito Santo no seio da Virgem Maria: e Se fez homem.\nTambém por nós foi crucificado: sob Pôncio Pilatos, padeceu e foi sepultado.\nE ao terceiro dia ressuscitou segundo as Escrituras.\nE subiu ao céu: está sentado à direita do Pai.\nE de novo há de vir com glória para julgar os vivos e os mortos: e o Seu reino não terá fim.\nE no Espírito Santo, Senhor e fonte de vida: que procede do Pai e do Filho.\nE com o Pai e o Filho é conjuntamente adorado e glorificado: o qual falou pelos Profetas.\nE na Igreja una, santa, católica e apostólica.\nConfesso um só Batismo para remissão dos pecados.\nE espero a ressurreição dos mortos.\nE a vida ✠ do mundo que há de vir. Amém."
+          "en-US": "I believe in one God, the Father almighty, maker of heaven and earth, and of all things visible and invisible.\nAnd in one Lord Jesus Christ, the only-begotten Son of God.\nBorn of the Father before all ages.\nGod of God, Light of Light, true God of true God.\nBegotten, not made, consubstantial with the Father: by whom all things were made.\nWho for us men and for our salvation came down from heaven.",
+          "la": "Credo in unum Deum, Patrem omnipoténtem, factórem cæli et terræ, visibílium ómnium et invisibílium.\nEt in unum Dóminum Jesum Christum, Fílium Dei unigénitum.\nEt ex Patre natum ante ómnia sǽcula.\nDeum de Deo, Lumen de Lúmine, Deum verum de Deo vero.\nGénitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt.\nQui propter nos hómines et propter nostram salútem descéndit de cælis.",
+          "pt-BR": "Creio em um só Deus, Pai todo-poderoso, Criador do céu e da terra, de todas as coisas visíveis e invisíveis.\nE em um só Senhor Jesus Cristo, Filho Unigénito de Deus.\nNascido do Pai antes de todos os séculos.\nDeus de Deus, Luz da Luz, Deus verdadeiro de Deus verdadeiro.\nGerado, não criado, consubstancial ao Pai: por quem todas as coisas foram feitas.\nO qual por nós homens e para nossa salvação desceu dos céus."
         }
       },
       {
         "type": "rubric",
         "text": {
-          "en-US": "Here kneel down.",
-          "pt-BR": "Todos se ajoelham."
+          "en-US": "All kneel at the words \"Et incarnatus est\" through \"et homo factus est.\" On the feasts of the Nativity and the Annunciation all genuflect.",
+          "pt-BR": "Todos se ajoelham nas palavras \"Et incarnatus est\" até \"et homo factus est.\" Nas festas do Natal e da Anunciação, todos genuflectem."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "And was incarnate by the Holy Spirit of the Virgin Mary: and was made man.",
+          "la": "Et incarnátus est de Spíritu Sancto ex María Vírgine: et homo factus est.",
+          "pt-BR": "E encarnou pelo Espírito Santo no seio da Virgem Maria: e Se fez homem."
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "All rise.",
+          "pt-BR": "Todos se levantam."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "He was crucified also for us: suffered under Pontius Pilate, and was buried.\nAnd the third day He rose again according to the Scriptures.\nAnd ascended into heaven: He sits at the right hand of the Father.\nAnd He shall come again with glory to judge the living and the dead: of His kingdom there shall be no end.\nAnd in the Holy Spirit, the Lord and giver of life: who proceeds from the Father and the Son.\nWho together with the Father and the Son is adored and glorified: who spoke through the Prophets.\nAnd one, holy, catholic and apostolic Church.\nI confess one baptism for the remission of sins.\nAnd I await the resurrection of the dead.\nAnd the life ✠ of the world to come. Amen.",
+          "la": "Crucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est.\nEt resurréxit tértia die, secúndum Scriptúras.\nEt ascéndit in cælum: sedet ad déxteram Patris.\nEt íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis.\nEt in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit.\nQui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas.\nEt unam, sanctam, cathólicam et apostólicam Ecclésiam.\nConfíteor unum baptísma in remissiónem peccatórum.\nEt exspécto resurrectiónem mortuórum.\nEt vitam ✠ ventúri sǽculi. Amen.",
+          "pt-BR": "Também por nós foi crucificado: sob Pôncio Pilatos, padeceu e foi sepultado.\nE ao terceiro dia ressuscitou segundo as Escrituras.\nE subiu ao céu: está sentado à direita do Pai.\nE de novo há de vir com glória para julgar os vivos e os mortos: e o Seu reino não terá fim.\nE no Espírito Santo, Senhor e fonte de vida: que procede do Pai e do Filho.\nE com o Pai e o Filho é conjuntamente adorado e glorificado: o qual falou pelos Profetas.\nE na Igreja una, santa, católica e apostólica.\nConfesso um só Batismo para remissão dos pecados.\nE espero a ressurreição dos mortos.\nE a vida ✠ do mundo que há de vir. Amém."
         }
       },
       {
         "type": "divider"
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "The priest kisses the altar, and turning to the people says:",
-          "pt-BR": "O padre beija o altar, e virando-se para o povo diz:"
-        }
-      },
-      {
-        "type": "call",
-        "ref": "of-lord-be-with-you"
-      },
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "Let us pray.",
-          "la": "Orémus.",
-          "pt-BR": "Oremos."
-        }
-      },
-      {
-        "type": "proper",
-        "slot": "offertory",
-        "description": {
-          "en-US": "Offertory verse of the day",
-          "pt-BR": "Versículo do Ofertório do dia"
-        },
-        "form": "ef"
       }
     ]
   }

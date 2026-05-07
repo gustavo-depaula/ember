@@ -10,6 +10,20 @@
         "colorFrom": "celebration.primary.liturgicalColor"
       },
       {
+        "type": "subheading",
+        "text": {
+          "en-US": "Epistle",
+          "pt-BR": "Epístola"
+        }
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The priest reads the Epistle at the Epistle side of the altar. At the end the server answers:",
+          "pt-BR": "O sacerdote lê a Epístola no lado da Epístola do altar. Ao final, o acólito responde:"
+        }
+      },
+      {
         "type": "proper",
         "slot": "epistle",
         "description": {
@@ -52,7 +66,7 @@
       },
       {
         "type": "call",
-        "ref": "of-lord-be-with-you"
+        "ref": "ef-lord-be-with-you"
       },
       {
         "type": "rubric",

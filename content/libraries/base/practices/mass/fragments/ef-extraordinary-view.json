@@ -3,6 +3,10 @@
     "ef-extraordinary-view": [
       {
         "type": "call",
+        "ref": "ef-asperges"
+      },
+      {
+        "type": "call",
         "ref": "ef-prayers-at-the-foot-of-the-altar"
       },
       {
@@ -44,6 +48,10 @@
       {
         "type": "call",
         "ref": "ef-last-gospel"
+      },
+      {
+        "type": "call",
+        "ref": "ef-leonine-prayers"
       }
     ]
   }

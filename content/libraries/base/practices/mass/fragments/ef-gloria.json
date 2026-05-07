@@ -36,12 +36,32 @@
       {
         "type": "rubric",
         "text": {
-          "en-US": "Then the priest kisses the altar, and turning to the people says:",
-          "pt-BR": "O sacerdote benze-se, beija o altar, volta-se para os fiéis e diz:"
+          "en-US": "Then the priest kisses the altar, and turning to the people, extending and joining his hands, says:",
+          "pt-BR": "O sacerdote beija o altar, volta-se para os fiéis, abre e junta as mãos, e diz:"
+        }
+      },
+      {
+        "type": "call",
+        "ref": "ef-lord-be-with-you"
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let us pray.",
+          "la": "Orémus.",
+          "pt-BR": "Oremos."
         }
       },
       {
         "type": "divider"
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Collect",
+          "pt-BR": "Oração Coleta"
+        }
       },
       {
         "type": "proper",
