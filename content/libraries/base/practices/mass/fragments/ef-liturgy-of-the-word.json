@@ -145,13 +145,6 @@
       },
       {
         "type": "divider"
-      },
-      {
-        "type": "rubric",
-        "text": {
-          "en-US": "On Sundays and certain Feasts the priest recites the Creed:",
-          "pt-BR": "Aos domingos e certos dias de festa, o celebrante vai ao meio do altar e diz o Credo:"
-        }
       }
     ]
   }

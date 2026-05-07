@@ -187,6 +187,13 @@
         }
       },
       {
+        "type": "rubric",
+        "text": {
+          "en-US": "(At a Requiem Mass: \"miserere nobis\" is replaced by \"dona eis requiem\" twice, and \"dona nobis pacem\" by \"dona eis requiem sempiternam\". The first communion prayer (Domine Jesu Christe, qui dixisti) and the Pax Domini exchange are also omitted.)",
+          "pt-BR": "(Na Missa de Réquiem: \"miserere nobis\" é substituído por \"dona eis requiem\" duas vezes, e \"dona nobis pacem\" por \"dona eis requiem sempiternam\". A primeira oração da comunhão (Domine Jesu Christe, qui dixisti) e o diálogo da Pax Domini também são omitidos.)"
+        }
+      },
+      {
         "type": "subheading",
         "text": {
           "en-US": "Communion Prayers",
