@@ -14,4 +14,4 @@ Não te poupes em dizer tudo o que for necessário para explicar a natureza da t
 
 Não mudes facilmente de Confessor; mas, tendo-o escolhido, sê constante em dar-lhe conta da tua consciência nos tempos marcados, dizendo-lhe as tuas faltas simples e francamente, e de tempos em tempos — digamos, cada mês ou cada dois meses — mostrando-lhe o estado geral das tuas inclinações, embora não haja nelas nada de errado; como, por exemplo, se estás abatida e ansiosa, ou alegre, desejosa de progresso, ou de dinheiro, e coisas semelhantes.
 
-[^1]: Mt 16:19; 18, 18; Jo 20:23.
+[^1]: Mt 16:19; 18:18; Jo 20:23.

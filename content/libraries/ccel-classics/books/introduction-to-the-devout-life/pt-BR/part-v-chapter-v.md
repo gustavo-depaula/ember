@@ -1,4 +1,4 @@
-# CAPÍTULO V. Exame da tua Condição quanto a ti mesma.
+# CAPÍTULO V. Exame da Condição da Alma quanto a si mesma.
 
 1. Como te amas a ti mesma? É um amor que diz respeito principalmente a esta vida? Se assim for, desejarás permanecer aqui para sempre, e diligentemente buscarás o teu estabelecimento mundano — mas, se o amor que tens por ti mesma tem tendência para o céu, hás de ansiar, ou, ao menos, estarás disposta a partir daqui sempre que aprouver a Nosso Senhor.
 

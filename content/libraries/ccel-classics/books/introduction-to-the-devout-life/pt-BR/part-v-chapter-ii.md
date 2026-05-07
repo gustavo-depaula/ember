@@ -22,7 +22,7 @@ Considera os resultados desta vocação; certamente encontrarás uma mudança pa
 
 Depois de te demorares sobre todas estas considerações, que farão brotar em ti abundância de afetos vivos, deves concluir simplesmente com um ato de ação de graças e uma fervorosa oração para que produzam fruto, terminando com grande humildade e confiança em Deus, e reservando os resultados finais da tua resolução para depois do segundo ponto deste exercício espiritual.
 
-[^1]: Sl 45:1; 44,18.
+[^1]: Sl 45:1; 44:18.
 
 [^2]: *Confissões*, livro X.
 

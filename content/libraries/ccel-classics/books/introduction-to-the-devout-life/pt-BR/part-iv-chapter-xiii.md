@@ -16,7 +16,7 @@ Mas vamos a algum pormenor especial, além desta doutrina geral.
 
 Por último, aconselho-te a tomar conselho do teu diretor sobre qualquer fluxo extraordinário de consolações ou de emoções, para que ele te oriente no seu uso prudente; pois está escrito: «Achaste mel? Come o que te basta».[^4]
 
-[^1]: Rm 14:8 e 8,35.
+[^1]: Rm 14:8 e 8:35.
 
 [^2]: 1Sm 24.
 
