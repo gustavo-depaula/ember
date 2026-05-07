@@ -18,6 +18,7 @@ type Option = {
   label: BilingualText
   body: BilingualRichText
   citation?: BilingualText
+  summary?: BilingualText
   introduction?: BilingualText
   conclusion?: BilingualText
   response?: BilingualRichText
@@ -38,12 +39,14 @@ export function ChoiceRichTextBlock({
   options,
   onSelect,
   pickerStyle = 'chips',
+  hideLabel = false,
 }: {
   label: BilingualText
   selectedId?: string
   options: Option[]
   onSelect: (optionId: string) => void
   pickerStyle?: PickerStyle
+  hideLabel?: boolean
 }) {
   const current = selectedId ? options.find((o) => o.id === selectedId) : undefined
   if (options.length === 0) return null
@@ -54,6 +57,11 @@ export function ChoiceRichTextBlock({
         <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={0.5}>
           {opt.citation.primary}
         </Text>
+      )}
+      {opt.summary && (
+        <PrayerText color="$colorBurgundy" fontStyle="italic">
+          {opt.summary.primary}
+        </PrayerText>
       )}
       {opt.introduction && (
         <PrayerText color="$colorBurgundy" fontStyle="italic">
@@ -72,7 +80,7 @@ export function ChoiceRichTextBlock({
 
   return (
     <YStack gap="$sm">
-      <SectionHeading>{label.primary}</SectionHeading>
+      {!hideLabel && <SectionHeading>{label.primary}</SectionHeading>}
       {pickerStyle === 'cards' ? (
         <YStack gap="$xs">
           {options.map((opt) => (

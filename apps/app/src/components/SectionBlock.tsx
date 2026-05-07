@@ -206,6 +206,7 @@ export function SectionBlock({
           selectedId={section.selectedId}
           options={section.options}
           pickerStyle={section.pickerStyle}
+          hideLabel={section.hideLabel}
           onSelect={(nextId) => onSelectOverride?.(section.overrideKey, nextId)}
         />
       )

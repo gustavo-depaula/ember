@@ -3,6 +3,7 @@ import { format } from 'date-fns'
 import { enumerateCelebrations, formularyPath, pickCycle } from './calendar'
 import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
 import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
+import { transformFormularyReadings } from './transformReadings'
 import type {
   Celebration,
   DayLiturgies,
@@ -103,7 +104,7 @@ async function fetchFormulary(ctx: SourceContext, id: string): Promise<Formulary
   const path = `${PATH_PREFIX}${formularyPath(id)}`
   const data = (await ctx.fetchAsset(HOST_LIBRARY, path)) as Formulary | undefined
   if (!data) return undefined
-  return data
+  return transformFormularyReadings(data)
 }
 
 async function fetchPreface(

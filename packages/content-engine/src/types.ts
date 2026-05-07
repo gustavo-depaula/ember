@@ -254,6 +254,8 @@ export type FlowSection = { lang?: string } & (
       defaultBlank?: boolean
       citation?: string
       pickerStyle?: PickerStyle
+      // Suppress the renderer-derived heading when an outer `subheading` already names the slot.
+      hideLabel?: boolean
     }
 )
 
@@ -360,11 +362,13 @@ export type RenderedSection =
       overrideKey: string
       selectedId?: string
       pickerStyle?: PickerStyle
+      hideLabel?: boolean
       options: {
         id: string
         label: BilingualText
         body: BilingualRichText
         citation?: BilingualText
+        summary?: BilingualText
         introduction?: BilingualText
         conclusion?: BilingualText
         response?: BilingualRichText

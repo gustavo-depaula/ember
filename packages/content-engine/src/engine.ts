@@ -1110,6 +1110,7 @@ type SlotDataShape = {
   }
   alternatives?: SlotDataShape[]
   citation?: string | Record<string, string>
+  summary?: Record<string, string>
   introduction?: Record<string, string>
   conclusion?: Record<string, string>
   response?: {
@@ -1136,6 +1137,7 @@ type SlotDataShape = {
 type ExtractedSlot = {
   body: BilingualRichText
   citation?: BilingualText
+  summary?: BilingualText
   introduction?: BilingualText
   conclusion?: BilingualText
   response?: BilingualRichText
@@ -1164,6 +1166,7 @@ function extractOneSlotOption(
         ? ec.localize(cit as LocalizedText)
         : undefined
 
+  const summary = slotData.summary ? ec.localize(slotData.summary as LocalizedText) : undefined
   const introduction = slotData.introduction
     ? ec.localize(slotData.introduction as LocalizedText)
     : undefined
@@ -1192,6 +1195,7 @@ function extractOneSlotOption(
       ...(secondary && secondary.length > 0 ? { secondary } : {}),
     },
     ...(citation ? { citation } : {}),
+    ...(summary ? { summary } : {}),
     ...(introduction ? { introduction } : {}),
     ...(conclusion ? { conclusion } : {}),
     ...(response ? { response } : {}),
@@ -1354,6 +1358,7 @@ function resolveChoiceRichText(
         label: optionLabel,
         body: data.body,
         ...(data.citation ? { citation: data.citation } : {}),
+        ...(data.summary ? { summary: data.summary } : {}),
         ...(data.introduction ? { introduction: data.introduction } : {}),
         ...(data.conclusion ? { conclusion: data.conclusion } : {}),
         ...(data.response ? { response: data.response } : {}),
@@ -1376,6 +1381,7 @@ function resolveChoiceRichText(
       overrideKey,
       selectedId,
       ...(section.pickerStyle ? { pickerStyle: section.pickerStyle } : {}),
+      ...(section.hideLabel ? { hideLabel: true } : {}),
       options,
     },
   ]

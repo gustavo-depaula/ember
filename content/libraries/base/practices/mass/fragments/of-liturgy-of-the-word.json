@@ -58,30 +58,29 @@
       {
         "type": "subheading",
         "text": {
-          "en-US": "Gospel",
-          "pt-BR": "Evangelho"
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "people",
-        "inline": {
-          "en-US": "Alleluia.",
-          "la": "Allelúia.",
-          "pt-BR": "Aleluia."
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
         }
       },
       {
         "type": "choice-rich-text",
         "label": {
-          "en-US": "Gospel Acclamation verse",
-          "pt-BR": "Versículo da Aclamação ao Evangelho"
+          "en-US": "Gospel Acclamation",
+          "pt-BR": "Aclamação ao Evangelho"
         },
-        "slot": "readings.{{day.cycle}}.alleluiaVerse"
+        "slot": "readings.{{day.cycle}}.gospelAcclamation",
+        "hideLabel": true
       },
       {
         "type": "call",
         "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Gospel",
+          "pt-BR": "Evangelho"
+        }
       },
       {
         "type": "rubric",
@@ -105,7 +104,8 @@
           "en-US": "Gospel of the day",
           "pt-BR": "Evangelho do dia"
         },
-        "slot": "readings.{{day.cycle}}.gospel"
+        "slot": "readings.{{day.cycle}}.gospel",
+        "hideLabel": true
       },
       {
         "type": "subheading",

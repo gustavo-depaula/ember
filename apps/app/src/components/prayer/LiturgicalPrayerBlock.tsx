@@ -10,17 +10,17 @@ export function LiturgicalPrayerBlock({
   speaker: 'priest' | 'people' | 'all'
   text: BilingualText
 }) {
-  const isPeople = speaker === 'people'
-
-  if (!isPeople) {
+  if (speaker === 'all') {
     return <BilingualBlock content={text} renderText={(t) => <PrayerLines text={t} />} />
   }
 
+  const prefix = speaker === 'people' ? '℟. ' : '℣. '
+  const fontWeight = speaker === 'people' ? '600' : undefined
   return (
     <YStack paddingLeft="$md">
       <BilingualBlock
         content={text}
-        renderText={(t) => <PrayerLines text={t} fontWeight="600" prefix="℟. " />}
+        renderText={(t) => <PrayerLines text={t} fontWeight={fontWeight} prefix={prefix} />}
       />
     </YStack>
   )
