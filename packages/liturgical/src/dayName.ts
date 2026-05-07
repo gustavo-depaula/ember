@@ -178,7 +178,13 @@ export function getLiturgicalDayName(
   const { week: rawWeek, dayOfWeek } = weekAndDay(otIIStart, d)
   const week = rawWeek + otIWeeks
   const ordinal = t(`ordinal.${week}`)
+  const ordinalFem = t(`ordinalFem.${week}`, { defaultValue: ordinal })
   const season = t('home.liturgicalDay.seasons.ordinaryTime')
   if (dayOfWeek === 0) return t('home.liturgicalDay.sundayOf', { ordinal, season })
-  return t('home.liturgicalDay.weekdayOf', { day: dayName(t, `${dayOfWeek}`), ordinal, season })
+  return t('home.liturgicalDay.weekdayOf', {
+    day: dayName(t, `${dayOfWeek}`),
+    ordinal,
+    ordinalFem,
+    season,
+  })
 }
