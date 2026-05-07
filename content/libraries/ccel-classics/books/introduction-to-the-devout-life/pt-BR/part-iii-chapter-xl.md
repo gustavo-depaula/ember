@@ -32,6 +32,6 @@ Muito mais poderia dizer sobre este assunto, mas baste mandar a quem busca ser v
 
 [^6]: Ct 1:3-4.
 
-[^7]: «Quão gloriosa é a Igreja, e quão grande a multidão das suas virtudes, como variedade de flores! Tem este horto do Senhor não somente as rosas dos mártires, mas os lírios das virgens, as heras dos casados, e as violetas das viúvas. Portanto, dileto, que ninguém despere da sua vocação: por todos sofreu Cristo». — Santo Agostinho, *Sermão* CCCIV, *No martírio de São Lourenço*.
+[^7]: «Quão gloriosa é a Igreja, e quão grande a multidão das suas virtudes, como variedade de flores! Tem este horto do Senhor não somente as rosas dos mártires, mas os lírios das virgens, as heras dos casados, e as violetas das viúvas. Portanto, dileto, que ninguém despere da sua vocação: por todos sofreu Cristo». — Santo Agostinho, *Sermão CCCIV, No martírio de São Lourenço*.
 
 [^8]: 1Cor 7:40. Vulg.: «*Beatior autem erit si sic permanserit*».
