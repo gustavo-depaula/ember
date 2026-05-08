@@ -7,6 +7,7 @@
  */
 
 import { ensureManifestBody, getEntry } from './contentIndex'
+import { normalizeLangKeys } from './langAliases'
 import type { DataItemManifest } from './manifestTypes'
 import { loadMassProper } from './resolver'
 import { getJson } from './store'
@@ -23,7 +24,8 @@ export async function fetchOfAsset(path: string, langs: string[]): Promise<unkno
     const entry = getEntry(id)
     if (!entry) return undefined
     const item = await ensureManifestBody<DataItemManifest>(entry.hash)
-    return item.data ? getJson(item.data.hash) : item
+    const data = item.data ? await getJson(item.data.hash) : item
+    return normalizeLangKeys(data)
   }
 
   if (trimmed.startsWith('library/')) {

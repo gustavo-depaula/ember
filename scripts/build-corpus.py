@@ -329,7 +329,7 @@ def build_chapters(b: Builder) -> None:
                 else:
                     base, lang = stem, ""
                 bh, bs = b.write_blob(ff.read_bytes())
-                prose.append({"file": base, "lang": lang, "hash": bh, "size": bs})
+                prose.append({"file": f"sections/{base}", "lang": lang, "hash": bh, "size": bs})
 
         item_manifest = {**meta, "id": f"chapter/{cid}"}
         if content_entry:

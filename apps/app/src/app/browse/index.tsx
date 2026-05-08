@@ -8,7 +8,6 @@ import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import { getCollectionItems, getEntriesByKind, isHiddenCollection } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { PinToggle } from '@/features/pinning/PinToggle'
 import { localizeContent } from '@/lib/i18n'
 
 type CollectionRow = {
@@ -24,48 +23,44 @@ function CollectionRowView({ entry, onPress }: { entry: CollectionRow; onPress: 
   const subtitle = `${entry.practiceCount} ${t('library.practices').toLowerCase()}`
 
   return (
-    <XStack
-      backgroundColor="$backgroundSurface"
-      borderRadius="$lg"
-      borderWidth={1}
-      borderColor="$borderColor"
-      gap="$md"
-      alignItems="center"
-      paddingHorizontal="$md"
-      paddingVertical="$sm"
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole="link"
+      accessibilityLabel={localizeContent(entry.name)}
     >
-      <AnimatedPressable
-        onPress={onPress}
-        accessibilityRole="link"
-        accessibilityLabel={localizeContent(entry.name)}
-        style={{ flex: 1 }}
+      <XStack
+        backgroundColor="$backgroundSurface"
+        borderRadius="$lg"
+        borderWidth={1}
+        borderColor="$borderColor"
+        gap="$md"
+        alignItems="center"
+        paddingHorizontal="$md"
+        paddingVertical="$sm"
       >
-        <XStack gap="$md" alignItems="center" paddingVertical="$xs">
-          <YStack
-            width={36}
-            height={36}
-            alignItems="center"
-            justifyContent="center"
-            backgroundColor="$accentSubtle"
-            borderRadius="$md"
-          >
-            <Book size={20} color={theme.accent?.val} />
-          </YStack>
-          <YStack flex={1} gap={2}>
-            <Text fontFamily="$heading" fontSize="$3" color="$color">
-              {localizeContent(entry.name)}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {subtitle}
-            </Text>
-          </YStack>
-          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-            ›
+        <YStack
+          width={36}
+          height={36}
+          alignItems="center"
+          justifyContent="center"
+          backgroundColor="$accentSubtle"
+          borderRadius="$md"
+        >
+          <Book size={20} color={theme.accent?.val} />
+        </YStack>
+        <YStack flex={1} gap={2}>
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {localizeContent(entry.name)}
           </Text>
-        </XStack>
-      </AnimatedPressable>
-      <PinToggle itemId={entry.id} />
-    </XStack>
+          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            {subtitle}
+          </Text>
+        </YStack>
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+          ›
+        </Text>
+      </XStack>
+    </AnimatedPressable>
   )
 }
 

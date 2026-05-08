@@ -19,6 +19,7 @@ import {
   rememberManifestBody,
   setCatalog,
 } from './contentIndex'
+import { pickAvailableLang } from './langAliases'
 import type {
   BlobRef,
   BookEntry,
@@ -355,13 +356,20 @@ export async function loadMassProper(
   const entry = getEntry(canonical)
   if (!entry) return undefined
   const resolved = await ensureManifestBody<LangSplitItemManifest>(entry.hash)
-  const requestedLangs = langs.filter((l) => resolved.langs[l])
+
+  const fetched: Array<{ requested: string; available: string }> = []
+  for (const l of langs) {
+    const avail = pickAvailableLang(l, resolved.langs)
+    if (avail) fetched.push({ requested: l, available: avail })
+  }
   const [shape, ...langPayloads] = await Promise.all([
     getJson<unknown>(resolved.shape.hash),
-    ...requestedLangs.map((l: string) => getJson<unknown>((resolved.langs[l] as BlobRef).hash)),
+    ...fetched.map(({ available }) =>
+      getJson<unknown>((resolved.langs[available] as BlobRef).hash),
+    ),
   ])
   const payloadsByLang = Object.fromEntries(
-    requestedLangs.map((l, i) => [l, langPayloads[i]] as const),
+    fetched.map(({ requested }, i) => [requested, langPayloads[i]] as const),
   )
   return mergeLangs(shape, payloadsByLang)
 }
