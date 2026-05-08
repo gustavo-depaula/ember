@@ -43,5 +43,25 @@
         "tier": "essential"
       }
     ]
+  },
+  "notifications": {
+    "defaultReminders": [
+      { "offset": 60 },
+      { "offset": 0 }
+    ],
+    "messages": {
+      "en-US": [
+        "Time for the Holy Mass.",
+        "The Lord's Day — meet Him at the altar.",
+        "Sursum corda — lift up your hearts.",
+        "Come and receive the Bread of Life."
+      ],
+      "pt-BR": [
+        "Hora da Santa Missa.",
+        "O Dia do Senhor — encontre-O no altar.",
+        "Sursum corda — corações ao alto.",
+        "Venha receber o Pão da Vida."
+      ]
+    }
   }
 }

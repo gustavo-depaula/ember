@@ -1,5 +1,5 @@
 import DateTimePicker from '@react-native-community/datetimepicker'
-import { Bell, ChevronRight, Clock, Plus, Trash2 } from 'lucide-react-native'
+import { Bell, ChevronRight, Clock, Plus, Trash2, X } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Switch } from 'react-native'
@@ -17,15 +17,142 @@ import { AnimatedPressable, confirm } from '@/components'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
 import type { SlotState } from '@/db/events'
-import type { Tier } from '@/db/schema'
+import type { NotifyConfig, NotifyReminder, Tier } from '@/db/schema'
 import { lightTap, mediumTap } from '@/lib/haptics'
 import { enrichSlot } from '../getPracticeName'
+import { describeLeadTime, parseNotifyConfig, REMINDER_PRESETS } from '../notify'
 import { parseSchedule } from '../schedule'
 import { deriveTimeBlock } from '../timeBlocks'
 import { SchedulePicker } from './SchedulePicker'
 import { TierBadge } from './TierBadge'
 
 const tierEntries = Object.entries(tierConfig) as [Tier, { color: string }][]
+
+function useReminderLabel() {
+  const { t } = useTranslation()
+  return (offset: number): string => {
+    const lead = describeLeadTime(offset)
+    if (lead.kind === 'at') return t('editor.reminderOnTime')
+    if (lead.kind === 'hours') return t('editor.reminderHoursBefore', { count: lead.count })
+    return t('editor.reminderMinutesBefore', { count: lead.count })
+  }
+}
+
+function NotificationsSection({
+  notify,
+  onChange,
+}: {
+  notify: NotifyConfig
+  onChange: (next: NotifyConfig) => void
+}) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const reminderLabel = useReminderLabel()
+  const reminders: NotifyReminder[] = notify.reminders ?? [{ offset: 0 }]
+  const usedOffsets = new Set(reminders.map((r) => r.offset))
+  const availablePresets = REMINDER_PRESETS.filter((p) => !usedOffsets.has(p))
+
+  function setEnabled(enabled: boolean) {
+    lightTap()
+    onChange({ enabled, reminders: enabled ? reminders : undefined })
+  }
+
+  function addReminder(offset: number) {
+    lightTap()
+    const next = [...reminders, { offset }].sort((a, b) => b.offset - a.offset)
+    onChange({ enabled: true, reminders: next })
+  }
+
+  function removeReminder(offset: number) {
+    lightTap()
+    const remaining = reminders.filter((r) => r.offset !== offset)
+    if (remaining.length === 0) {
+      onChange({ enabled: false, reminders: undefined })
+      return
+    }
+    onChange({ enabled: true, reminders: remaining })
+  }
+
+  return (
+    <YStack gap="$sm">
+      <XStack alignItems="center" minHeight={44}>
+        <Bell size={18} color={theme.colorSecondary.val} />
+        <Text fontFamily="$body" fontSize="$3" color="$color" flex={1} marginLeft="$sm">
+          {t('editor.notifications')}
+        </Text>
+        <Switch
+          value={notify.enabled}
+          trackColor={{ false: theme.borderColor.val, true: theme.accent.val }}
+          thumbColor="white"
+          onValueChange={setEnabled}
+        />
+      </XStack>
+
+      {notify.enabled && (
+        <Animated.View entering={FadeIn.duration(200)} exiting={FadeOut.duration(150)}>
+          <YStack gap="$xs">
+            {reminders.map((r) => (
+              <XStack
+                key={r.offset}
+                alignItems="center"
+                paddingVertical="$xs"
+                paddingHorizontal="$sm"
+                borderRadius="$md"
+                backgroundColor="$background"
+                borderWidth={0.5}
+                borderColor="$borderColor"
+                minHeight={40}
+              >
+                <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
+                  {reminderLabel(r.offset)}
+                </Text>
+                {reminders.length > 1 && (
+                  <AnimatedPressable
+                    onPress={() => removeReminder(r.offset)}
+                    hitSlop={12}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('common.remove')}
+                  >
+                    <X size={16} color={theme.colorSecondary.val} />
+                  </AnimatedPressable>
+                )}
+              </XStack>
+            ))}
+
+            {availablePresets.length > 0 && (
+              <XStack gap="$xs" flexWrap="wrap" paddingTop="$xs">
+                {availablePresets.map((offset) => (
+                  <AnimatedPressable
+                    key={offset}
+                    onPress={() => addReminder(offset)}
+                    accessibilityRole="button"
+                    accessibilityLabel={`${t('editor.addReminder')}: ${reminderLabel(offset)}`}
+                  >
+                    <XStack
+                      alignItems="center"
+                      gap="$xs"
+                      paddingVertical="$xs"
+                      paddingHorizontal="$sm"
+                      borderRadius="$md"
+                      borderWidth={1}
+                      borderColor="$accent"
+                      borderStyle="dashed"
+                    >
+                      <Plus size={14} color={theme.accent.val} />
+                      <Text fontFamily="$body" fontSize="$2" color="$accent">
+                        {reminderLabel(offset)}
+                      </Text>
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
+              </XStack>
+            )}
+          </YStack>
+        </Animated.View>
+      )}
+    </YStack>
+  )
+}
 
 function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier) => void }) {
   const { t } = useTranslation()
@@ -210,8 +337,8 @@ function SlotRow({
 
   const [localEnabled, setLocalEnabled] = useState(slot.enabled === 1)
   const [localTier, setLocalTier] = useState<Tier>(slot.tier)
-  const [localNotify, setLocalNotify] = useState(
-    slot.notify ? JSON.parse(slot.notify).enabled : false,
+  const [localNotify, setLocalNotify] = useState<NotifyConfig>(
+    () => parseNotifyConfig(slot.notify) ?? { enabled: false },
   )
 
   const chevronRotation = useSharedValue(0)
@@ -301,22 +428,13 @@ function SlotRow({
 
               <YStack borderBottomWidth={0.5} borderColor="$borderColor" />
 
-              <XStack alignItems="center" minHeight={44}>
-                <Bell size={18} color={theme.colorSecondary.val} />
-                <Text fontFamily="$body" fontSize="$3" color="$color" flex={1} marginLeft="$sm">
-                  {t('editor.notifications')}
-                </Text>
-                <Switch
-                  value={localNotify}
-                  trackColor={{ false: theme.borderColor.val, true: theme.accent.val }}
-                  thumbColor="white"
-                  onValueChange={(v) => {
-                    setLocalNotify(v)
-                    lightTap()
-                    onUpdate({ notify: JSON.stringify({ enabled: v }) })
-                  }}
-                />
-              </XStack>
+              <NotificationsSection
+                notify={localNotify}
+                onChange={(next) => {
+                  setLocalNotify(next)
+                  onUpdate({ notify: JSON.stringify(next) })
+                }}
+              />
 
               {onDelete && (
                 <AnimatedPressable

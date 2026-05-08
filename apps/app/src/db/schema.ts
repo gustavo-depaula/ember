@@ -10,9 +10,13 @@ export type UserPractice = {
   archived: number
 }
 
+export type NotifyReminder = {
+  offset: number // minutes before slot.time; 0 = on time
+}
+
 export type NotifyConfig = {
   enabled: boolean
-  before?: number // minutes before, future use
+  reminders?: NotifyReminder[] // when omitted on enabled config, fall back to manifest defaults
 }
 
 export type Completion = {

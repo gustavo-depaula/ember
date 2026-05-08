@@ -533,6 +533,13 @@ export default {
     description: 'Descri\u00e7\u00e3o',
     descriptionPlaceholder: 'Descri\u00e7\u00e3o opcional',
     notifications: 'Notifica\u00e7\u00f5es',
+    reminders: 'Lembretes',
+    addReminder: 'Adicionar lembrete',
+    reminderOnTime: 'No hor\u00e1rio',
+    reminderMinutesBefore_one: '{{count}} min antes',
+    reminderMinutesBefore_other: '{{count}} min antes',
+    reminderHoursBefore_one: '{{count}} h antes',
+    reminderHoursBefore_other: '{{count}} h antes',
     reminderTime: 'Hora do lembrete',
     enabled: 'Ativada',
     createPractice: 'Criar Pr\u00e1tica',
@@ -1053,6 +1060,20 @@ export default {
     scheduleFailed: 'Não foi possível agendar os lembretes',
     scheduleFailedDesc:
       'Sua alteração foi salva, mas as notificações de lembrete não puderam ser configuradas. Verifique as permissões de notificação e tente novamente.',
+  },
+
+  notifications: {
+    titleInMinutes: '{{name}} em {{count}} min',
+    titleInHours_one: '{{name}} em {{count}} h',
+    titleInHours_other: '{{name}} em {{count}} h',
+    bodyDefault: 'Hora de rezar.',
+    bodyPool: [
+      'Hora de rezar.',
+      'Alguns minutos com o Senhor.',
+      'Pause o mundo. Venha rezar.',
+      'Um momento para elevar o coração a Deus.',
+      'Aquietai-vos e sabei que Ele está aqui.',
+    ],
   },
 
   bookName: {

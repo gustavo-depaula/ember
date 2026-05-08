@@ -54,5 +54,22 @@
 				"tier": "essential"
 			}
 		]
+	},
+	"notifications": {
+		"defaultReminders": [
+			{ "offset": 0 }
+		],
+		"messages": {
+			"en-US": [
+				"Bring your day to the Lord.",
+				"A few minutes of quiet before sleep.",
+				"Look back with the Lord at the day He gave."
+			],
+			"pt-BR": [
+				"Apresente o seu dia ao Senhor.",
+				"Alguns minutos de silêncio antes de dormir.",
+				"Reveja com o Senhor o dia que Ele lhe deu."
+			]
+		}
 	}
 }

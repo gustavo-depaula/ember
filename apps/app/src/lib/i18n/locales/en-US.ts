@@ -529,6 +529,13 @@ export default {
     description: 'Description',
     descriptionPlaceholder: 'Optional description',
     notifications: 'Notifications',
+    reminders: 'Reminders',
+    addReminder: 'Add reminder',
+    reminderOnTime: 'On time',
+    reminderMinutesBefore_one: '{{count}} min before',
+    reminderMinutesBefore_other: '{{count}} min before',
+    reminderHoursBefore_one: '{{count}} hr before',
+    reminderHoursBefore_other: '{{count}} hrs before',
     reminderTime: 'Reminder time',
     enabled: 'Enabled',
     createPractice: 'Create Practice',
@@ -1050,6 +1057,20 @@ export default {
     scheduleFailed: 'Reminders couldn\u2019t be scheduled',
     scheduleFailedDesc:
       'Your change was saved, but reminder notifications couldn\u2019t be set up. Check your notification permissions and try again.',
+  },
+
+  notifications: {
+    titleInMinutes: '{{name}} in {{count}} min',
+    titleInHours_one: '{{name}} in {{count}} hr',
+    titleInHours_other: '{{name}} in {{count}} hrs',
+    bodyDefault: 'Time for prayer.',
+    bodyPool: [
+      'Time for prayer.',
+      'A few minutes with the Lord.',
+      'Pause the world. Come and pray.',
+      'A moment to lift your heart to God.',
+      'Be still, and know that He is here.',
+    ],
   },
 
   bookName: {

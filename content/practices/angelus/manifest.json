@@ -42,5 +42,22 @@
 				"tier": "ideal"
 			}
 		]
+	},
+	"notifications": {
+		"defaultReminders": [
+			{ "offset": 0 }
+		],
+		"messages": {
+			"en-US": [
+				"The Angel of the Lord declared unto Mary…",
+				"A short pause to greet Our Lady.",
+				"Three Hail Marys at the sound of the bell."
+			],
+			"pt-BR": [
+				"O Anjo do Senhor anunciou a Maria…",
+				"Uma breve pausa para saudar Nossa Senhora.",
+				"Três Ave Marias ao toque do sino."
+			]
+		}
 	}
 }
