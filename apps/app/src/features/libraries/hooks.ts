@@ -4,7 +4,6 @@ import {
   downloadAndInstallLibrary,
   fetchRegistry,
   getInstalledLibraries,
-  installFromLocalFile,
   isLibraryUpdateAvailable,
   type RegistryEntry,
   removeLibrary,
@@ -45,18 +44,6 @@ export function useDownloadLibrary() {
   })
 
   return { ...mutation, progress }
-}
-
-export function useImportLibrary() {
-  const queryClient = useQueryClient()
-
-  return useMutation({
-    mutationFn: (filePath: string) => installFromLocalFile(filePath),
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['installed-libraries'] })
-      queryClient.invalidateQueries({ queryKey: ['available-libraries'] })
-    },
-  })
 }
 
 export function useRemoveLibrary() {

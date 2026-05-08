@@ -1,16 +1,13 @@
-import * as DocumentPicker from 'expo-document-picker'
 import { useRouter } from 'expo-router'
-import { Book, FileDown } from 'lucide-react-native'
+import { Book } from 'lucide-react-native'
 import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PageHeader, ScreenLayout } from '@/components'
 import {
   useAvailableLibraries,
-  useImportLibrary,
   useInstalledLibraries,
   useLibraryUpdates,
   useUpdateLibrary,
@@ -79,7 +76,6 @@ export default function LibraryScreen() {
   } = useAvailableLibraries()
   const { data: pendingUpdates = [] } = useLibraryUpdates()
   const updateLibrary = useUpdateLibrary()
-  const importLibrary = useImportLibrary()
 
   const [updateRun, setUpdateRun] = useState<
     { index: number; total: number; entry: RegistryEntry } | undefined
@@ -117,32 +113,6 @@ export default function LibraryScreen() {
     } finally {
       setUpdateRun(undefined)
     }
-  }
-
-  async function handleImport() {
-    const result = await DocumentPicker.getDocumentAsync({
-      type: '*/*',
-      copyToCacheDirectory: true,
-    })
-    if (result.canceled || !result.assets?.length) return
-    const file = result.assets[0]
-    if (!file.name?.endsWith('.pray')) {
-      await confirm({
-        title: t('library.invalidFile'),
-        description: t('library.invalidFileDesc'),
-        singleAction: true,
-      })
-      return
-    }
-    importLibrary.mutate(file.uri, {
-      onError: () => {
-        confirm({
-          title: t('library.importFailed'),
-          description: t('library.importFailedDesc'),
-          singleAction: true,
-        })
-      },
-    })
   }
 
   return (
@@ -310,33 +280,9 @@ export default function LibraryScreen() {
           </YStack>
         )}
 
-        <Pressable
-          onPress={handleImport}
-          accessibilityRole="button"
-          accessibilityLabel={t('library.import')}
-        >
-          <XStack
-            borderRadius="$lg"
-            padding="$md"
-            gap="$md"
-            alignItems="center"
-            borderWidth={1}
-            borderColor="$accent"
-            borderStyle="dashed"
-          >
-            <YStack width={36} height={36} alignItems="center" justifyContent="center">
-              <FileDown size={24} color={theme.accent.val} />
-            </YStack>
-            <YStack flex={1} gap={2}>
-              <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                {t('library.import')}
-              </Text>
-              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {t('library.importDesc')}
-              </Text>
-            </YStack>
-          </XStack>
-        </Pressable>
+        {/* The .pray file-import flow was a v1 affordance; v2 has no
+            self-contained library zip to import from disk. Hidden until a
+            v2 sideload format exists. */}
       </YStack>
     </ScreenLayout>
   )

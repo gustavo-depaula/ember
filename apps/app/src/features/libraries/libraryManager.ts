@@ -227,10 +227,6 @@ export async function downloadAndInstallLibrary(
   })
 }
 
-export async function installFromLocalFile(_filePath: string) {
-  throw new Error('installFromLocalFile is no longer supported in Hearth v2 (use pinning)')
-}
-
 export async function removeLibrary(libraryId: string): Promise<void> {
   await unpinItem(`collection/${libraryId}`)
 }
