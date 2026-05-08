@@ -14,43 +14,46 @@ Every practice has two layers:
 1. **Manifest** — metadata and teaching content (what the practice is, its history, how to pray it)
 2. **Flow** — the prayer itself as a sequence of sections (rendered by `SectionBlock`)
 
-Practices live inside **libraries** — self-contained `.pray` packages. See `ARCHITECTURE.md` for the library system.
+Practices are first-class corpus items in Hearth v2. Each is an item with id `practice/<id>` and a hash-addressed manifest blob; see `ARCHITECTURE.md` and `docs/features/prayer-books.md` for the corpus model.
 
 A resolution engine transforms the declarative flow + runtime context (date, reading progress, user overrides) into a flat array of renderable sections.
 
 ### File Structure
 
-All practice content lives in `content/libraries/`:
+Source content lives at the corpus root, flat by kind:
 
 ```
-content/libraries/
-  base/
-    library.json
-    prayers/                    # Reusable prayer assets (Our Father, Hail Mary, etc.)
-      our-father.json
-      hail-mary.json
-    practices/
-      morning-offering/
-        manifest.json
-        flow.json
-      rosary/
-        manifest.json
-        flow.json               # Single flow with select for mysteries
-  novenas/
-    library.json
-    practices/
-      rosary-54-day-novena/
-        manifest.json
-        flow.json
-        data/days.json          # Day-indexed cycle data
-  montfort-spirituality/
-    library.json
-    books/                      # Long-form prose (WebView + CSS columns)
-    chapters/                   # Native in-app chapters
-    practices/
-      total-consecration/
-    prayers/
+content/
+  prayers/                          # Reusable prayer assets, multilingual JSON
+    our-father.json
+    hail-mary.json
+  practices/
+    morning-offering/
+      manifest.json
+      flow.json
+    rosary/
+      manifest.json
+      flow.json                     # Single flow with select for mysteries
+    rosary-54-day-novena/
+      manifest.json
+      flow.json
+      data/days.json                # Day-indexed cycle data
+    total-consecration/
+      manifest.json
+      flow.json
+  books/
+    montfort-true-devotion/         # Long-form prose (WebView + CSS columns)
+      book.json
+      en-US/                        # Markdown chapters per language
+      pt-BR/
+  chapters/                         # Native in-app chapters
+    about-montfort/
+  collections/                      # Curated reading lists (refs into the corpus above)
+    novenas.json
+    montfort-spirituality.json
 ```
+
+There is no library boundary on disk — practices, prayers, books, and chapters are co-equal. A collection is a JSON manifest that references items by id; multiple collections can include the same item without duplication.
 
 ### Manifest Schema
 
@@ -106,7 +109,7 @@ function resolveFlow(flow: FlowDefinition, context: FlowContext, ec: EngineConte
 
 Steps: walk sections → resolve refs from prayer assets → evaluate `select` branches → expand `repeat` with flow-local data → resolve dynamic sources (cycle, lectio, psalmody, proper) → flatten to `RenderedSection[]`.
 
-The engine is in `packages/content-engine/`. The app wires app services via `EngineContext` (`apps/app/src/content/engineContext.ts`). Each `.pray` package is self-contained — cross-library prayer refs are vendored at build time.
+The engine is in `packages/content-engine/`. The app wires app services via `EngineContext` (`apps/app/src/content/engineContext.ts`). Cross-collection prayer refs resolve through the global content index at runtime — no build-time vendoring step.
 
 ### Example: Rosary Flow
 
@@ -341,4 +344,4 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 
 **i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `apps/app/src/lib/i18n/`.
 
-**Book Reader** — WebView with CSS column pagination for long-form prose from `.pray` libraries. Markdown converted at runtime via `marked`. See `apps/app/src/features/books/`.
+**Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/libraries/bookReader.ts`.
