@@ -1,7 +1,7 @@
 import { getLiturgicalDayName } from '@ember/liturgical'
 import { afterEach, describe, expect, it } from 'vitest'
-import liguoriLiturgicalMapFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json'
-import liguoriFlowFixture from '../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/flow.json'
+import liguoriLiturgicalMapFixture from '../../../content/practices/meditacoes-ligorio/data/liturgical-map.json'
+import liguoriFlowFixture from '../../../content/practices/meditacoes-ligorio/flow.json'
 import { clearDataSources, type DataSource, registerDataSource } from './data-sources'
 import {
   type EngineContext,
