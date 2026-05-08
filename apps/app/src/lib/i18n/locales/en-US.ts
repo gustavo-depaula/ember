@@ -623,6 +623,17 @@ export default {
     resetDatabase: 'Reset Database',
     resetDatabaseConfirm: 'Drop all data and re-seed?',
     resetDatabaseAction: 'Reset',
+    storage: {
+      storage: 'Storage',
+      pinnedItems_one: '{{count}} item available offline',
+      pinnedItems_other: '{{count}} items available offline',
+      totalCache: 'Total cache',
+      pinnedContent: 'Pinned content',
+      clearUnpinned: 'Clear unfetched cache',
+      clearUnpinnedConfirm:
+        'Delete cached content that is not pinned. Pinned items stay available offline.',
+      clearUnpinnedAction: 'Clear',
+    },
     about: 'About',
     version: 'Version',
     revision: 'Revision',

@@ -12,6 +12,7 @@ import { confirm, PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
+import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { supportedLanguages } from '@/lib/i18n'
@@ -321,6 +322,10 @@ export default function SettingsScreen() {
           </YStack>
         )}
 
+        <StorageSection />
+
+        <SectionDivider />
+
         <Pressable
           onPress={async () => {
             const ok = await confirm({
@@ -447,6 +452,86 @@ function AppUpdateSection() {
         >
           <Text fontFamily="$body" fontSize="$2" color={statusColor}>
             {__DEV__ ? t('settings.checkForUpdates') : statusLabel}
+          </Text>
+        </YStack>
+      </Pressable>
+    </YStack>
+  )
+}
+
+function formatBytes(bytes: number): string {
+  if (bytes < 1024) return `${bytes} B`
+  const kb = bytes / 1024
+  if (kb < 1024) return `${kb.toFixed(1)} KB`
+  const mb = kb / 1024
+  if (mb < 1024) return `${mb.toFixed(1)} MB`
+  const gb = mb / 1024
+  return `${gb.toFixed(2)} GB`
+}
+
+function StorageSection() {
+  const { t } = useTranslation()
+  const { data: pinnedItems } = usePinnedItems()
+  const { data: stats } = useCacheStats()
+  const clearCache = useClearCache()
+
+  const pinnedCount = pinnedItems?.length ?? 0
+  const totalBytes = stats?.totalBytes ?? 0
+  const pinnedBytes = stats?.pinnedBytes ?? 0
+
+  async function handleClear() {
+    const ok = await confirm({
+      title: t('settings.storage.clearUnpinned'),
+      description: t('settings.storage.clearUnpinnedConfirm'),
+      confirmLabel: t('settings.storage.clearUnpinnedAction'),
+      destructive: true,
+    })
+    if (ok) clearCache.mutate()
+  }
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.storage.storage')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.pinnedItems', { count: pinnedCount })}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.totalCache')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {formatBytes(totalBytes)}
+          </Text>
+        </XStack>
+        <XStack justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('settings.storage.pinnedContent')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$color" fontVariant={['tabular-nums']}>
+            {formatBytes(pinnedBytes)}
+          </Text>
+        </XStack>
+      </YStack>
+      <Pressable
+        onPress={handleClear}
+        disabled={clearCache.isPending}
+        accessibilityRole="button"
+        accessibilityLabel={t('settings.storage.clearUnpinned')}
+      >
+        <YStack
+          backgroundColor="$backgroundSurface"
+          borderRadius="$lg"
+          padding="$md"
+          alignItems="center"
+          opacity={clearCache.isPending ? 0.5 : 1}
+        >
+          <Text fontFamily="$body" fontSize="$2" color="$colorBurgundy">
+            {t('settings.storage.clearUnpinned')}
           </Text>
         </YStack>
       </Pressable>

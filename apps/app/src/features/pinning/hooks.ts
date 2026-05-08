@@ -1,7 +1,8 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useCallback, useState } from 'react'
 
-import { getPinnedItems, pinItem, unpinItem } from './pinningManager'
+import { evictTo, getCacheStats } from '@/content/store'
+import { getPinnedItems, pinItem, pinnedHashes, unpinItem } from './pinningManager'
 
 export function usePinnedItems() {
   return useQuery({
@@ -45,6 +46,33 @@ export function useUnpinItem() {
     mutationFn: (itemId: string) => unpinItem(itemId),
     onSuccess: () => {
       qc.invalidateQueries({ queryKey: ['pinned-items'] })
+    },
+  })
+}
+
+export function useCacheStats() {
+  // Keyed under `['pinned-items', ...]` so that invalidating `['pinned-items']`
+  // (after pin/unpin/clear) also re-runs this query.
+  return useQuery({
+    queryKey: ['pinned-items', 'cache-stats'],
+    queryFn: async () => {
+      const protectedHashes = await pinnedHashes()
+      return getCacheStats(protectedHashes)
+    },
+    staleTime: Infinity,
+  })
+}
+
+export function useClearCache() {
+  const qc = useQueryClient()
+  return useMutation({
+    mutationFn: async () => {
+      const protectedHashes = await pinnedHashes()
+      return evictTo(0, protectedHashes)
+    },
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['pinned-items'] })
+      qc.invalidateQueries({ queryKey: ['cache-stats'] })
     },
   })
 }

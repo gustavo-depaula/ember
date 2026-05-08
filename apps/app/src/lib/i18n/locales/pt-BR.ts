@@ -638,6 +638,17 @@ export default {
     resetDatabase: 'Redefinir Banco de Dados',
     resetDatabaseConfirm: 'Apagar todos os dados e recarregar?',
     resetDatabaseAction: 'Redefinir',
+    storage: {
+      storage: 'Armazenamento',
+      pinnedItems_one: '{{count}} item disponível offline',
+      pinnedItems_other: '{{count}} itens disponíveis offline',
+      totalCache: 'Cache total',
+      pinnedContent: 'Conteúdo fixado',
+      clearUnpinned: 'Limpar conteúdo não fixado',
+      clearUnpinnedConfirm:
+        'Apagar o conteúdo em cache que não está fixado. Os itens fixados continuam disponíveis offline.',
+      clearUnpinnedAction: 'Limpar',
+    },
   },
 
   readingLabel: {
