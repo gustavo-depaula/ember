@@ -917,6 +917,12 @@ export default {
     bookCount_other: '{{count}} livros',
   },
 
+  boot: {
+    fetchingCatalog: 'Buscando o catálogo…',
+    preparingContent: 'Preparando suas orações…',
+    almostReady: 'Quase lá…',
+  },
+
   pray: {
     now: 'Orar agora',
     collections: 'Coleções',

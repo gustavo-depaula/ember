@@ -1,6 +1,6 @@
 import { useRouter } from 'expo-router'
 import { Plus, Search, X } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable, ScrollView, View } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
@@ -208,6 +208,13 @@ export default function PracticeCatalogScreen() {
   const createPractice = useCreatePractice()
 
   const isSearching = searchQuery.trim().length > 0
+  // Defer mounting the 99-card "All Practices" list so the hero/cards/prayers
+  // paint immediately and the heavy list slots in a frame later.
+  const [longListReady, setLongListReady] = useState(false)
+  useEffect(() => {
+    const handle = setTimeout(() => setLongListReady(true), 0)
+    return () => clearTimeout(handle)
+  }, [])
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({
@@ -402,19 +409,20 @@ export default function PracticeCatalogScreen() {
                   </XStack>
                 </Pressable>
 
-                {filteredManifests.map((manifest) => (
-                  <PracticeCard
-                    key={manifest.id}
-                    manifest={manifest}
-                    inPlan={enabledManifestIds.has(manifest.id)}
-                    onPress={() =>
-                      router.push({
-                        pathname: '/practices/[manifestId]',
-                        params: { manifestId: manifest.id },
-                      })
-                    }
-                  />
-                ))}
+                {longListReady &&
+                  filteredManifests.map((manifest) => (
+                    <PracticeCard
+                      key={manifest.id}
+                      manifest={manifest}
+                      inPlan={enabledManifestIds.has(manifest.id)}
+                      onPress={() =>
+                        router.push({
+                          pathname: '/practices/[manifestId]',
+                          params: { manifestId: manifest.id },
+                        })
+                      }
+                    />
+                  ))}
 
                 {filteredManifests.length === 0 && (
                   <YStack

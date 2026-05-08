@@ -28,6 +28,7 @@ import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
+import { BootLoadingScreen } from '@/components/BootLoadingScreen'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import {
@@ -117,6 +118,7 @@ export default function RootLayout() {
   }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
+  const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
 
   // 200MB cap. Pinned blobs are skipped during eviction; the cap is a soft
   // ceiling (pinned content can exceed it without dropping anything).
@@ -148,11 +150,13 @@ export default function RootLayout() {
         registerDataSources()
         await initHearth()
 
+        setBootStatus(i18n.t('boot.fetchingCatalog'))
         // 2. Fetch catalog (network-first; falls back to SQLite cache).
         await loadCatalogFromHearth().catch((err) => {
           console.warn('[startup] catalog fetch failed; proceeding with starter only:', err)
         })
 
+        setBootStatus(i18n.t('boot.preparingContent'))
         // 3. Rehydrate the user's pinned-items list and warm their manifests.
         await rehydratePinned().catch((err) => {
           console.warn('[startup] pinned rehydrate failed:', err)
@@ -167,6 +171,7 @@ export default function RootLayout() {
           console.warn('[startup] warm deferred manifests failed:', err)
         })
 
+        setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
@@ -189,18 +194,31 @@ export default function RootLayout() {
     initCorpus()
   }, [dbReady])
 
-  const ready =
-    fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
+  // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
+  // show a custom loading screen while the corpus warms.
+  const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady
+  const ready = coreReady && seeded
 
   useEffect(() => {
-    if (ready) SplashScreen.hideAsync()
-  }, [ready])
+    if (coreReady) SplashScreen.hideAsync()
+  }, [coreReady])
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const { themeName } = useLiturgicalTheme()
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
-  if (!ready) return undefined
+  if (!coreReady) return undefined
+
+  if (!ready) {
+    return (
+      <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+        {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
+        <Theme name={themeName as any}>
+          <BootLoadingScreen status={bootStatus} />
+        </Theme>
+      </TamaguiProvider>
+    )
+  }
 
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
