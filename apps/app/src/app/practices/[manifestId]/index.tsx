@@ -7,6 +7,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
+import { getCollectionsForItem, getEntry } from '@/content/contentIndex'
 import {
   findGroupMemberInSet,
   getAlternativeGroup,
@@ -15,6 +16,7 @@ import {
 } from '@/content/registry'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
+import { isPinned } from '@/features/pinning/pinningManager'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
@@ -67,6 +69,19 @@ export default function CatalogDetailScreen() {
     () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
     [manifestId],
   )
+  const collectionLabels = useMemo(() => {
+    if (!manifestId) return []
+    return getCollectionsForItem(`practice/${manifestId}`)
+      .map((cid) => {
+        const entry = getEntry(cid)
+        return entry?.name ? localizeContent(entry.name as Record<string, string>) : undefined
+      })
+      .filter((s): s is string => !!s)
+  }, [manifestId])
+  const collectionPinned = useMemo(() => {
+    if (!manifestId) return false
+    return getCollectionsForItem(`practice/${manifestId}`).some(isPinned)
+  }, [manifestId])
 
   if (!manifestId || !manifest) {
     return (
@@ -199,6 +214,26 @@ export default function CatalogDetailScreen() {
                 </Text>
               ))}
             </XStack>
+            {collectionLabels.length > 0 && (
+              <XStack gap="$xs" flexWrap="wrap" marginTop={2}>
+                {collectionLabels.map((label) => (
+                  <Text
+                    key={label}
+                    fontFamily="$body"
+                    fontSize="$1"
+                    color="$colorSecondary"
+                    fontStyle="italic"
+                  >
+                    {label}
+                  </Text>
+                ))}
+                {collectionPinned && (
+                  <Text fontFamily="$body" fontSize="$1" color="$accent">
+                    · ↓ offline
+                  </Text>
+                )}
+              </XStack>
+            )}
           </YStack>
         </XStack>
 
