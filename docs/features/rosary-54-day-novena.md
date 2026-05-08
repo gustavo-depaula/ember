@@ -2,7 +2,7 @@
 
 ## Goal
 
-Add a traditional **54-Day Rosary Novena** as a standalone program practice, packaged in its own novena library.
+Add a traditional **54-Day Rosary Novena** as a standalone program practice, grouped under the `novenas` collection.
 
 ## Devotional Rules
 
@@ -14,9 +14,9 @@ Add a traditional **54-Day Rosary Novena** as a standalone program practice, pac
 
 ## Packaging Decision
 
-- Create one new library: **`novenas`**
-- Include only one practice initially: **`rosary-54-day-novena`**
-- Depend on `base` for shared prayer refs (`sign-of-cross`, `our-father`, `hail-mary`, etc.)
+- Add the practice at `content/practices/rosary-54-day-novena/`
+- Add a `{ "ref": "practice/rosary-54-day-novena" }` entry to `content/collections/novenas.json`
+- Reuse shared prayer refs from the corpus (`prayer/sign-of-cross`, `prayer/our-father`, `prayer/hail-mary`, etc.) — no need to vendor copies
 
 ## Practice Shape
 

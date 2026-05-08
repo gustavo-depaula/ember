@@ -16,7 +16,7 @@ import re
 from pathlib import Path
 
 BOOK_DIR = Path(__file__).resolve().parent.parent      # the book folder
-BOOKS_DIR = BOOK_DIR.parent                            # content/libraries/base/books/
+BOOKS_DIR = BOOK_DIR.parent                            # content/books/
 SESSIONS = json.loads((BOOK_DIR / "sessions.json").read_text())["sessions"]
 
 PX_DIR = BOOKS_DIR / "catechism-pius-x-1912/en-US"

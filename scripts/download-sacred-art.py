@@ -20,8 +20,8 @@ The curation file is a JSON array of entries:
       ...
     ]
 
-Images go to content/libraries/base/practices/<practice>/images/<slug>.webp.
-Attribution is emitted to content/libraries/base/practices/<practice>/images/_attribution.json
+Images go to content/practices/<practice>/images/<slug>.webp.
+Attribution is emitted to content/practices/<practice>/images/_attribution.json
 and is keyed by slug.
 """
 from __future__ import annotations
@@ -36,7 +36,7 @@ from urllib.request import Request, urlopen
 from PIL import Image
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-LIBRARY_BASE = REPO_ROOT / "content" / "libraries" / "base" / "practices"
+PRACTICES_BASE = REPO_ROOT / "content" / "practices"
 USER_AGENT = "EmberPrayerApp/1.0 (+https://github.com/gustavo-depaula/prayer) sacred-art-downloader"
 TARGET_WIDTH = 1600
 WEBP_QUALITY = 85
@@ -80,7 +80,7 @@ def to_webp(raw: bytes, width: int = TARGET_WIDTH, quality: int = WEBP_QUALITY) 
 def process_entry(entry: dict) -> tuple[Path, dict]:
     practice = entry["practice"]
     slug = entry["slug"]
-    images_dir = LIBRARY_BASE / practice / "images"
+    images_dir = PRACTICES_BASE / practice / "images"
     images_dir.mkdir(parents=True, exist_ok=True)
 
     out_path = images_dir / f"{slug}.webp"
@@ -131,7 +131,7 @@ def main() -> int:
             print(f"  ERROR: {e}", file=sys.stderr, flush=True)
 
     for practice, items in by_practice.items():
-        manifest_path = LIBRARY_BASE / practice / "images" / "_attribution.json"
+        manifest_path = PRACTICES_BASE / practice / "images" / "_attribution.json"
         manifest_path.write_text(json.dumps({"images": items}, indent=2, ensure_ascii=False) + "\n")
         print(f"wrote {manifest_path.relative_to(REPO_ROOT)} ({len(items)} entries)", flush=True)
 

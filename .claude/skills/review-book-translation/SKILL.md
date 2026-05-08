@@ -128,7 +128,7 @@ The most important check. For each chapter file, compare the original against ea
 
 9. **Build and verify:**
    ```bash
-   bash scripts/build-libraries.sh
+   pnpm build:corpus
    ```
 
 ## Example: Apparecchio alla Morte Review
@@ -141,4 +141,4 @@ The most important check. For each chapter file, compare the original against ea
    - 3 wrong Bible abbreviations (Jo instead of Jó for Book of Job)
    - 2 typos, 1 missing Latin phrase in en-US
 4. Launched 9 parallel fix agents (8 for pt-BR diacritics + content, 1 for en-US)
-5. Updated translation journal, rebuilt .pray archive
+5. Updated translation journal, rebuilt corpus blobs (`pnpm build:corpus`)

@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center"><img src="docs/assets/practices.webp" width="200" alt="Practices catalog"><br><sub>Practices</sub></td>
-    <td align="center"><img src="docs/assets/prayer-books.webp" width="200" alt="Prayer Books library"><br><sub>Prayer Books</sub></td>
+    <td align="center"><img src="docs/assets/prayer-books.webp" width="200" alt="Browse — collections, books, and practices"><br><sub>Browse</sub></td>
     <td align="center"><img src="docs/assets/bible-dark.webp" width="200" alt="Bible reader — dark mode"><br><sub>Bible</sub></td>
     <td align="center"><img src="docs/assets/morning-offering-latin.webp" width="200" alt="Morning Offering — English and Latin side by side"><br><sub>English + Latin</sub></td>
   </tr>
@@ -29,7 +29,7 @@ Available on iOS, Android, and the web.
 
 ### Build and keep your rule of life
 
-The heart of Ember. Build a structured daily rhythm of prayer — a Plan of Life — and track your fidelity over time. Morning Offering, Rosary, Angelus, Divine Office, Mass, Lectio Divina, Examination of Conscience... downloadable content libraries cover the breadth of Catholic devotional life.
+The heart of Ember. Build a structured daily rhythm of prayer — a Plan of Life — and track your fidelity over time. Morning Offering, Rosary, Angelus, Divine Office, Mass, Lectio Divina, Examination of Conscience... an open content corpus covers the breadth of Catholic devotional life, with offline pinning for the practices and books you keep close.
 
 <table>
   <tr>
@@ -41,14 +41,14 @@ The heart of Ember. Build a structured daily rhythm of prayer — a Plan of Life
 
 ### Preserve and share 2,000 years of Catholic heritage
 
-This repo is also home to **Salty** — an ongoing preservation and translation effort for the Catholic literary tradition. Spiritual classics, Church Fathers, formation guides, liturgical texts, hagiographies — translated into multiple languages, structured in open formats, and freely available for anyone to use, extend, and build upon. Authors already in the library include St. Alphonsus Liguori and St. Louis de Montfort, with many more to come.
+Ember is also a platform for the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts, hagiographies — translated into multiple languages, structured in open formats, and freely available for anyone to use, extend, and build upon. Authors in the corpus already include St. Alphonsus Liguori and St. Louis de Montfort, with many more to come.
 
 The fruits of Catholic tradition should be freely available to all. No one should own what belongs to the Church and to humanity. This translation work is ongoing and needs support — if you believe in preserving Catholic heritage in the open, consider sponsoring the project.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/assets/liguori-books.webp" width="200" alt="St. Alphonsus Liguori — books in multiple languages"><br><sub>Liguori library</sub></td>
-    <td align="center"><img src="docs/assets/library-detail.webp" width="200" alt="Sacred Heart Devotion library — contents and practices"><br><sub>Devotion library</sub></td>
+    <td align="center"><img src="docs/assets/liguori-books.webp" width="200" alt="St. Alphonsus Liguori — books in multiple languages"><br><sub>Liguori works</sub></td>
+    <td align="center"><img src="docs/assets/library-detail.webp" width="200" alt="Sacred Heart Devotion collection — contents and practices"><br><sub>Devotion collection</sub></td>
     <td align="center"><img src="docs/assets/book-reader-toc.webp" width="200" alt="Book reader — table of contents"><br><sub>Book reader</sub></td>
     <td align="center"><img src="docs/assets/sacred-art-pieta.webp" width="200" alt="Sacred art — Bouguereau's Pieta"><br><sub>Sacred art</sub></td>
   </tr>
@@ -58,7 +58,7 @@ The fruits of Catholic tradition should be freely available to all. No one shoul
 
 Practices are defined in pure JSON — no app code needed. A flexible flow DSL with primitives like `select`, `repeat`, `cycle`, and `proper` can describe anything from a three-line Guardian Angel prayer to a 33-day consecration program to the complete Mass with daily EF/OF propers. Adding a new practice means writing content files, not code.
 
-Anyone can create their own libraries — compose practices, bundle prayers and books, and share them as a `.pray` file. Individual faithful, communities, religious orders, and parishes can package their own prayer traditions and distribute them directly.
+All content is open and lives in this repo as plain JSON and Markdown — practices, prayers, books, and collections. Anyone can contribute their own prayer traditions by opening a pull request; the next deploy hashes the new content into the Hearth corpus and ships it to every user.
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ An illuminated manuscript aesthetic — ornamental dividers, gold accents, curat
 ## Features
 
 - **Plan of Life** — tier-based daily checklist, multi-hue fidelity wall, streaks, time blocks, notifications
-- **Content Libraries** — downloadable `.pray` packages with practices, prayers, books, and chapters
+- **Content Corpus** — content-addressed Hearth corpus of practices, prayers, books, and chapters; opened directly in `/browse`, pinned for offline use
 - **Flow Engine** — a flexible DSL that describes any prayer from a simple devotion to the Mass
 - **Bible Reader** — bundled Douay-Rheims (73 books) + online translations via Bolls.life
 - **Catechism Reader** — full CCC (2,865 paragraphs) with 5-level collapsible TOC
@@ -129,7 +129,7 @@ If you believe this work matters, consider sponsoring the project.
 | `packages/content-engine/` | Practice-agnostic flow resolution engine |
 | `packages/liturgical/` | Liturgical calendar, seasons, psalter |
 | `packages/mass-propers/` | EF Mass propers resolution engine |
-| `content/libraries/` | Source content — 8 libraries of prayers, practices, books |
+| `content/` | Corpus source — flat by kind: `prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, `masses/`, `of-library/`, `of-data/` |
 | `docs/` | Architecture, specs, conventions, dev journal |
 
 ### Tech Stack
@@ -150,9 +150,9 @@ pnpm test           # Run all tests
 ### Documentation
 
 - [Project overview & roadmap](docs/README.md)
-- [Architecture](docs/ARCHITECTURE.md) — tech stack, content model, libraries, data model
+- [Architecture](docs/ARCHITECTURE.md) — tech stack, corpus model, data model
 - [Features](docs/features/features-overview.md) — flow DSL, schedules, programs, plan of life
-- [Library system](docs/features/prayer-books.md) — `.pray` format, distribution, content resolution
+- [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
 - [Book format](docs/content/book-format.md) — book manifest, chapter format, ID conventions
 - [Conventions](docs/CONVENTIONS.md) — code style guide
 - [Design system](docs/design/design-system.md) — colors, typography, layout

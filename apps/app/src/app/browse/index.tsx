@@ -20,7 +20,7 @@ type CollectionRow = {
 function CollectionRowView({ entry, onPress }: { entry: CollectionRow; onPress: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const subtitle = `${entry.practiceCount} ${t('library.practices').toLowerCase()}`
+  const subtitle = `${entry.practiceCount} ${t('browse.practices').toLowerCase()}`
 
   return (
     <AnimatedPressable
@@ -93,12 +93,12 @@ export default function CollectionsScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <PageHeader title={t('library.title')} />
+        <PageHeader title={t('browse.title')} />
 
         {collections.length === 0 ? (
           <YStack alignItems="center" gap="$sm" paddingVertical="$lg" paddingHorizontal="$lg">
             <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
-              {t('library.emptyState')}
+              {t('browse.emptyState')}
             </Text>
             <Text
               fontFamily="$body"
@@ -107,7 +107,7 @@ export default function CollectionsScreen() {
               textAlign="center"
               fontStyle="italic"
             >
-              {t('library.registryOffline')}
+              {t('browse.registryOffline')}
             </Text>
           </YStack>
         ) : (

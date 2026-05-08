@@ -15,11 +15,14 @@
   <h1>Hearth</h1>
   <p>Static content for the <a href="https://github.com/gustavo-depaula/ember">Ember</a> Catholic prayer app. The hearth sustains the ember.</p>
   <ul>
-    <li><a href="manifest.json">manifest.json</a> &mdash; file inventory with hashes</li>
-    <li><code>v1/bible/drb/</code> &mdash; Douay-Rheims Bible (73 books)</li>
-    <li><code>v1/propers/</code> &mdash; EF Mass propers (tempora + sancti)</li>
-    <li><code>v1/catechism/</code> &mdash; Catechism of the Catholic Church</li>
-    <li><code>v1/saints/</code> &mdash; Saint images (PNG + WebP)</li>
+    <li><a href="hearth/v2/catalog.json">hearth/v2/catalog.json</a> &mdash; corpus catalog (kind-prefixed ids &rarr; blob hashes)</li>
+    <li><code>hearth/v2/blobs/{ab}/{cd}/{hash}</code> &mdash; content-addressed blob store (prayers, practices, chapters, books, collections, propers)</li>
+    <li><code>hearth/v2/bible/drb/</code> &mdash; Douay-Rheims Bible (73 books)</li>
+    <li><code>hearth/v2/catechism/</code> &mdash; Catechism of the Catholic Church</li>
+    <li><code>hearth/v2/lectionary/</code> &mdash; OF lectionary data</li>
+    <li><code>hearth/v2/liturgical/</code> &mdash; liturgical calendar data</li>
+    <li><code>hearth/v2/propers/</code> &mdash; EF Mass propers (tempora + sancti)</li>
+    <li><code>hearth/v2/saints/</code> &mdash; Saint images (PNG + WebP)</li>
   </ul>
 </body>
 </html>

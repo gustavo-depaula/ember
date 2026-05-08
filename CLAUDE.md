@@ -16,12 +16,14 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 
 ## Content Architecture
 
-All content is packaged into **libraries** distributed as `.pray` files (zip archives). A library can hold prayers, practices, chapters, and books. The app ships with no bundled practices — content downloads from Hearth on first launch.
+All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, chapter, book, collection, and Mass proper is a first-class catalog item with a stable kind-prefixed id (`practice/rosary`, `prayer/our-father`, `book/catechetical-formation`, `collection/carmelite`). The catalog points at hash-addressed blobs, so a typo fix is a ~5KB diff instead of a 70MB re-download.
 
 - **Practices are pure JSON.** Adding a practice means writing a `manifest.json` + `flow.json` — no app code. The flow DSL (`select`, `repeat`, `cycle`, `proper`) describes anything from a simple prayer to the Mass.
-- **Content resolution:** `apps/app/src/content/registry.ts` aggregates installed libraries. Prayer refs resolve library-local → global. Each `.pray` package is self-contained; cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files and are vendored at build time by `scripts/vendor-prayers.py`.
+- **Content resolution:** `apps/app/src/content/resolver.ts` resolves refs through `contentIndex.ts` (catalog index) and `store.ts` (blob fetch + cache). Refs are global kind-prefixed ids — no library scoping.
+- **Offline-first boot:** an embedded starter pack (~50KB) registers ~11 essential prayers in-memory before any network call. After boot, the catalog + per-kind manifests warm in and content blobs are fetched on demand.
+- **Pinning, not installation:** any collection / book / practice can be pinned for offline use, with a 200MB soft LRU cap that protects pinned blobs (`apps/app/src/features/pinning/`).
 - **Flow engine:** `packages/content-engine/` — practice-agnostic, turns declarative flow JSON into renderable sections. Accepts deps via `EngineContext`.
-- **Source of truth:** `content/libraries/` — all library source dirs, deployed to Hearth as `.pray` files via `scripts/build-libraries.sh`.
+- **Source of truth:** flat dirs under `content/` (`content/practices/`, `content/prayers/`, `content/books/`, `content/collections/`, `content/of/` propers). Built into the corpus by `scripts/build-corpus.py` (run via `pnpm build:corpus`) and deployed to GitHub Pages by `.github/workflows/deploy.yml`.
 
 See `docs/ARCHITECTURE.md` for the full content model and `docs/features/features-overview.md` for the flow DSL.
 
@@ -42,10 +44,10 @@ See `docs/ARCHITECTURE.md` for the full content model and `docs/features/feature
 
 ### Docs index:
 - `docs/README.md` — mission, pillars, roadmap, current state
-- `docs/ARCHITECTURE.md` — tech stack, content model, libraries, data model, folder structure
+- `docs/ARCHITECTURE.md` — tech stack, corpus model, data model, folder structure
 - `docs/CONVENTIONS.md` — code style guide (READ THIS FIRST)
 - `docs/features/features-overview.md` — flow DSL, schedules, programs, plan of life, liturgical seasons
-- `docs/features/prayer-books.md` — `.pray` format, library distribution, content resolution
+- `docs/features/corpus.md` — corpus format, pinning, content distribution
 - `docs/content/book-format.md` — book manifest, chapter format, ID conventions
 - `docs/design/design-system.md` — colors, typography, layout, Tamagui config
 - `docs/content/content-sources.md` — Bible APIs, CCC, hymn sources, licensing

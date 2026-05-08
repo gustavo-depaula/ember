@@ -100,7 +100,7 @@ CCEL's underlying texts are largely public domain in the US; CCEL claims copyrig
 Every imported book should:
 
 1. Cite the CCEL URL in `book.json` `sources[]` (the importer does this automatically).
-2. Acknowledge CCEL in the library `description` (already done in `ccel-classics/library.json`).
+2. Acknowledge CCEL in the collection `description` (already done in `content/collections/ccel-classics.json`).
 3. **Manually verify** the rights statement on the work's CCEL page before publishing — a small number of CCEL works are translator-restricted.
 
 ## Cross-document references
@@ -112,7 +112,7 @@ CCEL inter-work links (`<a href="ccel:augustine/confessions">…`) are dropped; 
 ## Tests
 
 ```bash
-cd content/libraries/ccel-classics/scripts && python3 -m unittest ccel.tests.test_importer -v
+cd content/_archive/ccel-classics/scripts && python3 -m unittest ccel.tests.test_importer -v
 ```
 
-The tests run end-to-end against `content/libraries/ccel-classics/scripts/ccel/tests/fixtures/sample.xml`, a synthetic ThML document that exercises every element the importer handles (DC fields, nested `divN`, `scripRef`, `note`, `lg`/`l`, `q`, `list`/`item`, `pb`, cross-doc `<a>`, named entities).
+The tests run end-to-end against `content/_archive/ccel-classics/scripts/ccel/tests/fixtures/sample.xml`, a synthetic ThML document that exercises every element the importer handles (DC fields, nested `divN`, `scripRef`, `note`, `lg`/`l`, `q`, `list`/`item`, `pb`, cross-doc `<a>`, named entities).

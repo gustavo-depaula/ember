@@ -21,10 +21,10 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent.parent
 
 # Load the liguori liturgical map to get the canonical key structure
-liguori_path = BASE / "content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json"
+liguori_path = BASE / "content/practices/meditacoes-ligorio/data/liturgical-map.json"
 liguori = json.loads(liguori_path.read_text())
 
-IT_DIR = BASE / "content/libraries/carmelite/books/intimita-divina/it"
+IT_DIR = BASE / "content/books/intimita-divina/it"
 
 
 def meditation_id(n):
@@ -462,7 +462,7 @@ def build_map():
         print(f"  giorno-{med:03d} → PP/{week}/0  [{ref}]")
 
     # Write
-    out_path = BASE / "content/libraries/carmelite/practices/intimita-divina/data/liturgical-map.json"
+    out_path = BASE / "content/practices/intimita-divina/data/liturgical-map.json"
     out_path.write_text(json.dumps(liturgical_map, ensure_ascii=False, indent=2))
     print(f"\nWrote {out_path}")
 

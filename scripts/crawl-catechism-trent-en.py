@@ -2,7 +2,8 @@
 """Download the McHugh & Callan 1923 Catechism of Trent from catholicapologetics.info.
 
 Outputs a single .txt with --- page separators (one per source page), saved to
-content/libraries/base/sources/english-originals/catechism-of-trent.txt.
+content/_archive/base/sources/english-originals/catechism-of-trent.txt (originally
+written there pre-Hearth-v2; the archived path is now the source for re-imports).
 
 Source: http://www.catholicapologetics.info/thechurch/catechism/
 Translation: McHugh & Callan, 1923 — public domain in the US (pre-1929).

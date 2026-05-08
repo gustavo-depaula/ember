@@ -8,7 +8,7 @@ import {
 const mapPath = resolve(
   __dirname,
   '..',
-  'content/libraries/carmelite/practices/intimita-divina/data/liturgical-map.json',
+  'content/practices/intimita-divina/data/liturgical-map.json',
 )
 const map: LiturgicalDayMap = JSON.parse(readFileSync(mapPath, 'utf8'))
 

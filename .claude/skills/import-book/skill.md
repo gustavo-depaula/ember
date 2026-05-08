@@ -1,15 +1,15 @@
 ---
 name: import-book
-description: Import public domain Catholic works into the Ember library content pipeline.
+description: Import public domain Catholic works into the Ember corpus content pipeline.
 ---
 
-# Import Book — Public Domain Text to Library Pipeline
+# Import Book — Public Domain Text to Corpus Pipeline
 
-Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book inside a library.
+Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book in the Hearth v2 corpus.
 
 ## When to use
 
-When the user asks to import a new book, add a new work to the library, or download a text for the content platform. Typical triggers: "import [book name]", "add [author]'s [work] to the library", "download [title] for Salty".
+When the user asks to import a new book, add a new work to the content platform, or download a text. Typical triggers: "import [book name]", "add [author]'s [work] to the corpus".
 
 ## Philosophy
 
@@ -17,19 +17,18 @@ We are building a Catholic digital library of spiritual classics. The original-l
 
 ## Folder Structure
 
-All content lives under `content/libraries/{library-id}/`:
+Content is laid out flat per kind under `content/`:
 
 ```
-content/libraries/{library-id}/
-  library.json                      # Library-level metadata
+content/books/{book-id}/
+  book.json                     # Book metadata + TOC
   sources/
-    {language-originals}/           # e.g. french-originals/, latin-originals/
-      {work-slug}.txt               # Raw downloaded text (one per work)
-  books/
-    {book-id}/
-      book.json                     # Book metadata + TOC
-      {lang}/                       # e.g. fr-FR/, en-US/, la/
-        {chapter-id}.md             # One markdown file per chapter
+    {language-originals}/       # e.g. french-originals/, latin-originals/
+      {work-slug}.txt           # Raw downloaded text (one per work)
+  {lang}/                       # e.g. fr-FR/, en-US/, la/
+    {chapter-id}.md             # One markdown file per chapter
+
+content/collections/{collection-id}.json   # Curated grouping (refs corpus items)
 ```
 
 Key principles:
@@ -37,7 +36,7 @@ Key principles:
 - **Chapters are `.md`** — clean markdown, hand-edited. These are the authoring format.
 - **Markdown is converted at runtime** using `marked` + `marked-footnote` — no pandoc dependency at build time.
 - **One language directory per language** — the original language comes first, translations later.
-- **No EPUB packaging** — chapter files ship directly inside `.pray` archives. The app renders them in a WebView with CSS column pagination.
+- **No EPUB / archive packaging.** Each `(chapter, language)` pair is hashed individually and served as an immutable blob from the Hearth v2 corpus. The app renders chapters in a WebView with CSS column pagination.
 
 ## The Pipeline
 
@@ -112,20 +111,20 @@ Key principles:
 
 9. **The TOC follows the author's structure.** The per-language filtering in the build script means each language can have different chapters — a language only includes chapters that have a source file.
 
-10. **Update `library.json`** if needed — ensure the book ID is listed in the `books` array and, if the library uses a `contents` array, add a `{ "type": "book", "id": "{book-id}" }` entry.
+10. **Update collections** if needed — if the book belongs to a curated collection, add a `{ "kind": "book", "id": "{book-id}" }` (or shorthand id `book/{book-id}`) entry to the matching `content/collections/<name>.json`.
 
 ### Phase 5 — Build & Verify
 
 11. **Build:**
     ```bash
-    bash scripts/build-libraries.sh
+    pnpm build:corpus
     ```
-    The build script copies the shared CSS into each book's language directories, then zips each library into a `.pray` archive and regenerates `registry.json`.
+    `scripts/build-corpus.py` copies the shared CSS into each book's language directories, hashes every chapter / image / style file, and writes them as immutable blobs under `_site/hearth/v2/blobs/{ab}/{cd}/{full-sha256}`. The book's per-language item-manifest is hashed and recorded in `_site/hearth/v2/catalog.json`.
 
 12. **Verify:**
-    - Check that the `.pray` file was generated
-    - Inspect the zip contents (should have all chapters as `.md` under `books/{book-id}/{lang}/`)
-    - Compare word count of built content against source `.txt`
+    - Inspect `_site/hearth/v2/catalog.json` and confirm the new `book/{book-id}` entry with the expected language list
+    - Spot-check that a chapter's blob exists at the path matching its hash in the catalog
+    - Compare word count of source `.txt` against the rebuilt chapters
     - Open in the app to spot-check content, TOC navigation, footnotes
 
 ## Text Preservation Guidelines
@@ -142,7 +141,7 @@ Key principles:
 |------|----------|---------|
 | Crawl script template | `scripts/crawl-montfort-fr.py` | BS4-based downloader (adapt per source site) |
 | Line extractor | `scripts/extract-lines.sh` | Split `.txt` by line ranges into chapter files |
-| Library builder | `scripts/build-libraries.sh` | Copies CSS, zips libraries into `.pray` archives, generates `registry.json` |
+| Corpus builder | `scripts/build-corpus.py` (`pnpm build:corpus`) | Copies CSS, hashes chapters/images, writes blobs + `catalog.json` |
 
 ## Example: What We Did for Montfort
 
@@ -152,4 +151,4 @@ Key principles:
 4. Split into 12 `.md` files with `extract-lines.sh`
 5. Cleaned all 12 in parallel with subagents (headings, footnotes, paragraphs)
 6. Updated `book.json` with French canonical TOC
-7. Built — `.pray` archive with all chapters intact
+7. Built — `book/montfort-true-devotion` registered in `catalog.json` with all chapter blobs hashed

@@ -231,7 +231,7 @@ Plain arithmetic:
    3. If Q7 (openness to contemplative prayer) answer was the top option *and* the top archetype is *Endurer*, the system **may** surface *Contemplative* as a "possible deeper pull" — but does not reassign. We never call someone a contemplative by quiz result alone.
 4. The second-place archetype is shown as a secondary "you may also recognize yourself in…" — soft, not deterministic.
 
-The full weight matrix lives alongside the question content in a new library file (proposed: `content/checkup/questions.json`), versioned so edits are tracked and reproducible.
+The full weight matrix lives alongside the question content in `content/checkup/questions.json`, versioned so edits are tracked and reproducible.
 
 ---
 
@@ -318,7 +318,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - Week 1: A short chapter — *"How to go to confession again after a long time"* *(to be authored)* — paired with CCC 1422–1470.
   - Week 2: The parable of the Prodigal Son (*Luke 15*), read slowly across seven days with brief reflection prompts.
   - Week 3: Introduction to the Rosary (history + how to pray) — link to `rosary` manifest's "how to pray" content.
-  - Week 4: St. Alphonsus Liguori, *The Practice of the Love of Jesus Christ*, chapter 1 (from `alphonsus-liguori` library).
+  - Week 4: St. Alphonsus Liguori, *The Practice of the Love of Jesus Christ*, chapter 1 (from the `alphonsus-liguori` collection).
 - **Milestones.**
   - End of week 1: the user has **committed to a date** for confession (a gentle local reminder, not a public thing).
   - End of week 2: confession made (self-marked).
@@ -336,7 +336,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
   - `night-prayer`
 - **Ideal tier:** `spiritual-reading` (15 min), `angelus` at noon.
 - **Formation readings:**
-  - Weeks 1–2: St. Francis de Sales, *Introduction to the Devout Life*, Part I, chapters 1–10 *(import candidate — not yet in any library)*.
+  - Weeks 1–2: St. Francis de Sales, *Introduction to the Devout Life*, Part I, chapters 1–10 *(import candidate — not yet in the corpus)*.
   - Weeks 3–4: CCC 2697–2758 ("The Life of Prayer") across the two weeks.
 - **Milestones.**
   - Weekly confession rhythm established (or at minimum, monthly).
@@ -401,7 +401,7 @@ Practice IDs below are drawn from `base` and `devotions`; all exist today.
 
 - No new tables. Track state lives in the existing `cursors` table under key `track.v1.current`.
 - Recommended practices are added via the same `user_practices` / `user_practice_slots` flow as manual additions — the user can edit, tier-shift, or remove anything.
-- Formation readings are either CCC anchors (deep links into the Catechism reader) or chapters/books in existing libraries. Any reading that requires new content is flagged as an **import candidate** above and filed under the `Content Platform` track.
+- Formation readings are either CCC anchors (deep links into the Catechism reader) or chapters/books already in the corpus. Any reading that requires new content is flagged as an **import candidate** above and filed under the `Content Platform` track.
 - Track-gated schedules (e.g., Stations of the Cross appearing only in Lent) use the existing season-gated schedule feature — no engine change needed.
 
 ---

@@ -24,9 +24,9 @@ The attraction may be aesthetic, temperamental, theological, or a combination. T
 
 ## Modifications to the host profile
 
-1. **Offer older devotional content where it exists.** `base/practices/rosary` (traditional 15-decade form is available as a variant), Stations of the Cross, First Friday / First Saturday, the Angelus, Marian antiphons. The library `alphonsus-liguori` and `montfort-spirituality` already lean this direction.
+1. **Offer older devotional content where it exists.** `practice/rosary` (traditional 15-decade form is available as a variant), Stations of the Cross, First Friday / First Saturday, the Angelus, Marian antiphons. The `alphonsus-liguori` and `montfort-spirituality` collections already lean this direction.
 2. **Latin text where authentic.** Prayers that have a canonical Latin original (Pater Noster, Ave Maria, Regina Caeli, Salve Regina, Te Deum) should surface with Latin as an available language, not hidden. Already supported in the prayer JSON schema.
-3. **Classical-spirituality book catalog foregrounded.** *Imitation of Christ*, *Introduction to the Devout Life*, *True Devotion to Mary*, *The Spiritual Combat*, *Abandonment to Divine Providence*, *The Soul of the Apostolate*, *The Sinner's Guide* — several are already installed via `alphonsus-liguori` and `montfort-spirituality`.
+3. **Classical-spirituality book catalog foregrounded.** *Imitation of Christ*, *Introduction to the Devout Life*, *True Devotion to Mary*, *The Spiritual Combat*, *Abandonment to Divine Providence*, *The Soul of the Apostolate*, *The Sinner's Guide* — several are already in the corpus via the `alphonsus-liguori` and `montfort-spirituality` collections.
 4. **EF Mass propers.** The app already supports EF propers via `content/propers/`. For this overlay, surface them by default on the Mass practice. The user's preferred form remains their setting; the overlay is a hint, not a hard override.
 5. **Divine Office in pre-conciliar form.** If/when the Breviary track ships a 1962-style Office, it is the natural fit for this overlay. Until then, the current DWDO implementation remains.
 6. **Less "ecumenical" framing.** Not adversarial — never adversarial — but the softening language of "many Christians, each in their own way" is not the tone of classical Catholic tradition, and this overlay's user is not looking for it. Name Catholic things Catholicly.
@@ -35,7 +35,7 @@ The attraction may be aesthetic, temperamental, theological, or a combination. T
 
 - **Orthodoxy is not holiness.** The one warning that must be present in every version of every profile with this overlay. A soul drawn to the TLM who does not pray is not more holy than a soul at a vernacular parish who prays daily. The traditional forms exist to produce saints; they are means, not ends. State this plainly in at least one place in the starter track, without being preachy about it.
 - **The Church is not shrinking to the remnant.** Some in this overlay carry a narrative of the Church as corrupted-post-1965 and themselves as a remnant. This narrative has pastoral costs: isolation, bitterness, contempt for fellow Catholics, functional schism of heart if not of canon. The app cannot fix this, and must not feed it. Copy should gently name the whole Church as mother — including the parish the user may not attend.
-- **The aesthetic-preference-as-doctrine trap.** Liturgical music taste, Latin preference, ad-orientem posture, Communion on the tongue — these are legitimate preferences with real history. Treating them as markers of orthodoxy rather than preferences is the recurring pattern to gently un-do. `base/chapters/what-the-mass-is` addresses transubstantiation and the Real Presence in terms that do not depend on form; use it here deliberately.
+- **The aesthetic-preference-as-doctrine trap.** Liturgical music taste, Latin preference, ad-orientem posture, Communion on the tongue — these are legitimate preferences with real history. Treating them as markers of orthodoxy rather than preferences is the recurring pattern to gently un-do. `chapter/what-the-mass-is` addresses transubstantiation and the Real Presence in terms that do not depend on form; use it here deliberately.
 - **The "spiritual reading arms race."** Traditional-leaning users sometimes read aggressively — 19th-century manuals, Dominican moral theology, the older saints in Latin. The risk is that reading becomes performance. The same pacing advice as profile 04 applies: less, slower, deeper.
 - **The self-identification question.** "Traditional Catholic" is a label that means different things at different strengths (occasional TLM / exclusively TLM / sedevacantist-adjacent). The app is not the place to sort that out, but the copy should not flatter strong identifications.
 
@@ -50,10 +50,10 @@ The attraction may be aesthetic, temperamental, theological, or a combination. T
 
 ## Reading for the overlay
 
-- *The Imitation of Christ* — `base`-compatible; universally traditional.
-- *True Devotion to Mary* (Montfort) — `montfort-spirituality` library ships with this.
-- *Alphonsus Liguori* (installed as a library) — several works; `uniformity-with-gods-will`, *The Glories of Mary* (long; prune), *The Great Means of Salvation and Perfection*.
-- *The Spiritual Combat* (Scupoli) — short, dense, classical ascetical form. Not yet in the library as of 2026-04-19 — a candidate for addition.
+- *The Imitation of Christ* — already in the corpus; universally traditional.
+- *True Devotion to Mary* (Montfort) — available in the `montfort-spirituality` collection.
+- *Alphonsus Liguori* — several works in the `alphonsus-liguori` collection; `uniformity-with-gods-will`, *The Glories of Mary* (long; prune), *The Great Means of Salvation and Perfection*.
+- *The Spiritual Combat* (Scupoli) — short, dense, classical ascetical form. Not yet in the corpus as of 2026-04-19 — a candidate for addition.
 - *My Daily Bread* (Paone) — a pre-conciliar daily meditation text in a three-book format; still widely used.
 - Breviary / Divine Office in 1962 form when available.
 

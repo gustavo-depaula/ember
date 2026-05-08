@@ -259,7 +259,7 @@ export default function PlanScreen() {
             <AnimatedPressable
               onPress={() => router.push('/browse')}
               accessibilityRole="link"
-              accessibilityLabel={t('library.title')}
+              accessibilityLabel={t('browse.title')}
             >
               <YStack
                 alignItems="center"
@@ -273,7 +273,7 @@ export default function PlanScreen() {
               >
                 <Library size={22} color={theme.accent.val} />
                 <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
-                  {t('library.title')}
+                  {t('browse.title')}
                 </Text>
               </YStack>
             </AnimatedPressable>

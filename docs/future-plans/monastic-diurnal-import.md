@@ -108,7 +108,7 @@ Drop the data files into `content/practices/diurnale-monasticum/data/` and the n
 | Antiphon / capitulum / responsory curation + verify | 16–20 |
 | Collects | 4 |
 | flow.json authoring + seasonal branching | 8 |
-| manifest + slots + library manifest | 2 |
+| manifest + slots + collection update | 2 |
 | Testing | 8 |
 | Buffer for feast edge cases | 6 |
 | **Total** | **72–84 hours** |
@@ -123,7 +123,7 @@ Drop the data files into `content/practices/diurnale-monasticum/data/` and the n
 - `scripts/build-corpus.py` — content build pipeline
 - `packages/liturgical/src/liturgical-day-resolver.ts` — for feast-proper `resolve` calls
 - `docs/features/unified-flow-system.md` — DSL reference for `select`, `cycle`, `seasonal`, `resolve`
-- `docs/content/book-format.md`, `docs/features/prayer-books.md` — corpus / author workflow
+- `docs/content/book-format.md`, `docs/features/corpus.md` — corpus / author workflow
 
 ## Verification
 

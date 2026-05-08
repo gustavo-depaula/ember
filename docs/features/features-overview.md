@@ -14,7 +14,7 @@ Every practice has two layers:
 1. **Manifest** — metadata and teaching content (what the practice is, its history, how to pray it)
 2. **Flow** — the prayer itself as a sequence of sections (rendered by `SectionBlock`)
 
-Practices are first-class corpus items in Hearth v2. Each is an item with id `practice/<id>` and a hash-addressed manifest blob; see `ARCHITECTURE.md` and `docs/features/prayer-books.md` for the corpus model.
+Practices are first-class corpus items in Hearth v2. Each is an item with id `practice/<id>` and a hash-addressed manifest blob; see `ARCHITECTURE.md` and `docs/features/corpus.md` for the corpus model.
 
 A resolution engine transforms the declarative flow + runtime context (date, reading progress, user overrides) into a flat array of renderable sections.
 
@@ -97,7 +97,7 @@ Each practice has **one flow** — a self-contained JSON document with all condi
 - `select` — picks one option from a list, based on context or manual choice. Three modes: silent conditional (no UI), default+override (auto-picks but shows picker), manual (user must choose).
 - `repeat` with `data` — iterates over flow-local data arrays with template substitution.
 - `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE).
-- `alternativeTo` on manifests — groups practices across libraries as content alternatives (e.g., Traditional vs Montfort Rosary meditations are separate practices).
+- `alternativeTo` on manifests — groups practice alternatives so the user can switch between them (e.g., Traditional vs Montfort Rosary meditations are separate practices that share a slot).
 
 **Replaces:** the earlier variants, forms, multiple flows, and `setKeyOverride` mechanisms.
 
@@ -344,4 +344,4 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 
 **i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `apps/app/src/lib/i18n/`.
 
-**Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/libraries/bookReader.ts`.
+**Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/books/bookReader.ts`.

@@ -7,7 +7,7 @@ Strong fits:
 Bellarmine's catechism was the most widely used Catholic catechism for three centuries before Pius X. PT-BR translations exist; PD.
 - St. Peter Canisius — Catechismus Maior / Summa Doctrinae Christianae (1555). The Counter-Reformation's first great catechism. Q&A format. Slightly more polemical than ideal for young adults
 today, but his shorter catechisms are gentler. PD.
-- St. Alphonsus Liguori — already in your library (alphonsus-liguori-1.0.0.pray). His Way of Salvation, Practice of the Love of Jesus Christ, Visits to the Blessed Sacrament, and many shorter
+- St. Alphonsus Liguori — already in the corpus (`collection/alphonsus-liguori`). His Way of Salvation, Practice of the Love of Jesus Christ, Visits to the Blessed Sacrament, and many shorter
 pastoral works are exactly the warm-saint-for-laity register you want. Not a unified catechism, but plenty of doctrinal exposition that could be sliced topically. This may be your best option —
 you already have him imported.
 - St. Francis de Sales — Introduction to the Devout Life (1609) is the gold standard for warm, lay-pitched spiritual writing. Not catechetical per se, but doctrinally rich and addressed to a
@@ -21,7 +21,7 @@ Less ideal but worth knowing:
 - Spirago — The Catechism Explained (1899). Already discussed earlier in your project notes; flagged as too long (600K words) for compression. Still a fallback for specific topics where
 saint-commentary doesn't exist.
 
-My recommendation: St. Alphonsus Liguori is the strongest single candidate — he's already in the library, doctrinally precise, pastorally warm, lay-addressed, PD, and his corpus covers
+My recommendation: St. Alphonsus Liguori is the strongest single candidate — he's already in the corpus, doctrinally precise, pastorally warm, lay-addressed, PD, and his corpus covers
 Sacraments + Marian devotion + moral life which are precisely the gaps where Aquinas's Naples sermons go silent. Pairing Aquinas (Creed/Decalogue/Pater) + Alphonsus (Sacraments/Marian/Christian
 life) would give you a coherent two-saint commentary stack that covers what you currently fill with Trent.
 

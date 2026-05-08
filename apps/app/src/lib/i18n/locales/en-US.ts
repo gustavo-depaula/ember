@@ -839,17 +839,15 @@ export default {
     },
   },
 
-  library: {
-    title: 'Prayer Books',
-    registryOffline: 'Couldn\u2019t reach the library.',
-    contents: 'Contents',
+  browse: {
+    title: 'Browse',
+    registryOffline: 'Couldn\u2019t reach the content.',
     practices: 'Practices',
-    prayers: 'Prayers',
-    books: 'Books',
+    items: 'items',
     tableOfContents: 'Contents',
     chapterNotFound: 'Chapter not found.',
-    libraryNotFound: 'Library not found.',
-    emptyState: 'No prayer books yet.',
+    collectionNotFound: 'Collection not found.',
+    emptyState: 'Nothing here yet.',
   },
 
   explore: {

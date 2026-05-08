@@ -212,7 +212,7 @@ export function ReaderTocSheet({ toc, currentChapterId, onSelectChapter, onClose
             paddingBottom="$md"
           >
             <Text fontFamily="$heading" fontSize="$4" color="$color">
-              {t('library.tableOfContents')}
+              {t('browse.tableOfContents')}
             </Text>
             <Pressable
               onPress={onClose}

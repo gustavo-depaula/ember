@@ -2,32 +2,22 @@
 
 The content system for books in Ember — spiritual classics, hybrid devotional works. Markdown/HTML source files for prose, hashed and served as immutable blobs through the Hearth v2 corpus.
 
-> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the v2 author workflow. See `docs/ARCHITECTURE.md` for the corpus architecture.
-
-> **v2 update (2026-05-08):** Books are no longer packed into `.pray` zip archives — each `(chapter, language)` pair and each image are individually-hashed blobs in the corpus. The on-disk source layout (`content/books/<id>/`) hasn't changed; the *distribution* of those files has. Sections below that still reference `.pray` packaging describe the legacy v1 model.
+> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/corpus.md` for the v2 author workflow. See `docs/ARCHITECTURE.md` for the corpus architecture.
 
 ---
 
 ## Concept
 
-Ember's content falls into three categories: structured short content (prayers, Bible verses, CCC paragraphs), long-form prose (spiritual classics, Church documents), and devotional collections (libraries, devocionários). The book format is the **unified system** for the latter two — and any hybrid of them.
+A **book** is long-form readable content — spiritual classics, Church documents, formation guides — distributed as `.md` (or `.html`) chapter files, hashed per `(chapter, language)` and served as immutable blobs through the Hearth v2 corpus.
 
-A library in this system can have any combination of:
-
-- **Books** — long-form readable content (`.md` or `.html` chapter files, read directly from disk)
-- **Practices** — schedulable units for the plan of life (standard practice manifests)
-- **Prayers** — reusable prayer text assets referenced by flows
-- **Chapters** — read-only native content (saint bios, formation guides)
-
-A pure spiritual classic like *True Devotion* has only books. A library like *Catholic Daily Prayers* has only practices and prayers. A hybrid like *Montfort Spirituality* has books, practices, prayers, and chapters.
+Books are one corpus kind among several (`prayer`, `practice`, `chapter`, `book`, `mass`, `of-*`, `collection`, `checkup`); each kind has its own root folder under `content/`. To group a book with related practices and prayers under a single curated heading (e.g. *Montfort Spirituality* gathering *True Devotion* + a consecration practice + an act-of-consecration prayer), use a `content/collections/<id>.json` — see `docs/features/corpus.md`.
 
 ### Design goals
 
-- Work bundled now, CDN-downloadable later
 - Stay human-editable (Markdown for prose, JSON for everything else)
 - Render in a WebView with CSS column pagination
-- One folder per library — books, prayers, and practices colocated
-- One manifest type, one discovery system, one practice-export mechanism
+- Per-`(chapter, language)` blob granularity so a typo fix ships a few KB
+- One book id resolves to a single item-manifest in `catalog.json`
 
 ---
 
@@ -79,13 +69,13 @@ content/collections/
   montfort-spirituality.json
 ```
 
-Practices, chapters, and prayers used to live nested under each library folder; in v2 they're flat at the corpus root and any number of collections can reference the same item without duplication.
+Practices, chapters, and prayers live flat at the corpus root, each in their own kind-folder. Any number of collections can reference the same item without duplication.
 
 ---
 
-## Distribution (v2 corpus)
+## Distribution
 
-Books are no longer wrapped in `.pray` zip archives. The `scripts/build-corpus.py` pipeline emits each book as a set of immutable hash-addressed blobs:
+The `scripts/build-corpus.py` pipeline emits each book as a set of immutable hash-addressed blobs:
 
 - One blob per `(chapter, language)` markdown / HTML file.
 - One blob per book image (webp). Referenced from chapter markdown via `../images/<file>.webp`.
@@ -129,7 +119,7 @@ Books with unique needs can include additional per-book CSS overrides (TODO: not
 Two manifest levels:
 
 - **`book.json`** — one per book at `content/books/<id>/book.json`. Holds the book's TOC + metadata. The build pipeline merges this body with hashes for every chapter / image / style file into a single book item-manifest blob.
-- **`content/collections/<name>.json`** — curated grouping (formerly `library.json`). Lists refs to corpus items; doesn't itself contain content. See `docs/features/prayer-books.md` for the format.
+- **`content/collections/<name>.json`** — curated grouping that lists refs to corpus items; doesn't itself contain content. See `docs/features/corpus.md` for the format.
 
 ```typescript
 type BookManifest = {
@@ -150,16 +140,16 @@ type TocNode = {
 }
 ```
 
-### Library ID generation
+### Book ID generation
 
-The `id` field is the library's unique identifier. It must be kebab-case, ASCII-only, and match the folder name. Format: **`{author}-{title}`**.
+The `id` field is the book's unique identifier. It must be kebab-case, ASCII-only, and match the folder name (`content/books/<id>/`). Format: **`{author}-{title}`**.
 
 **Step 1 — Author prefix.** Use the author's most commonly known short name:
 
 - Use the surname or the name the saint is known by: *Thomas à Kempis* → `kempis`, *St. Augustine* → `augustine`, *St. Francis de Sales* → `francis-de-sales`.
 - Drop honorifics: *St.*, *Bl.*, *Ven.*, *Fr.*, *Pope*.
 - For popes known by their papal name: *Pope Leo XIII* → `leo-xiii`.
-- **Skip the author prefix** for: curated collections with no single author (e.g. `oracoes-basicas`), institutional documents (e.g. `catechism`), and Bibles/translations.
+- **Skip the author prefix** for institutional documents (e.g. `catechism-of-trent`), Bibles/translations, and anthologies/compiled works with no single author.
 
 **Step 2 — Title.** Use the language most commonly associated with the work:
 
@@ -184,7 +174,7 @@ The `id` field is the library's unique identifier. It must be kebab-case, ASCII-
 | The Imitation of Christ | Thomas à Kempis | `kempis-imitation-of-christ` |
 | True Devotion to Mary | St. Louis de Montfort | `montfort-true-devotion` |
 | Introduction to the Devout Life | St. Francis de Sales | `francis-de-sales-devout-life` |
-| Orações Básicas | (curated collection) | `oracoes-basicas` |
+| Catechism of the Council of Trent | (Council of Trent) | `catechism-of-trent` |
 
 ### Composed formats
 
@@ -234,46 +224,46 @@ Example (2-level):
 }
 ```
 
-### Manifest examples
+### Manifest example
 
-**Mixed library** (Montfort Spirituality — actual):
+**`content/books/montfort-true-devotion/book.json`** (abridged):
 
 ```json
 {
-  "id": "montfort-spirituality",
-  "version": "1.0.0",
-  "name": { "en-US": "Montfort Spirituality", "pt-BR": "Espiritualidade Montfortina" },
-  "author": { "en-US": "St. Louis de Montfort" },
+  "id": "montfort-true-devotion",
+  "name": {
+    "fr-FR": "Traité de la vraie dévotion à la Sainte Vierge",
+    "en-US": "True Devotion to the Blessed Virgin Mary",
+    "pt-BR": "Tratado da Verdadeira Devoção à Santíssima Virgem Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "composed": 1712,
   "languages": ["fr-FR", "en-US", "pt-BR"],
-  "tags": ["marian", "montfort", "consecration"],
-  "practices": ["total-consecration"],
-  "prayers": ["act-of-consecration"],
-  "chapters": ["about-montfort"],
-  "books": ["montfort-true-devotion", "montfort-love-wisdom", "montfort-secret-rosary"],
-  "contents": [
-    { "type": "chapter", "id": "about-montfort" },
-    { "type": "book", "id": "montfort-true-devotion" },
-    { "type": "book", "id": "montfort-love-wisdom" },
-    { "type": "practice", "id": "total-consecration" }
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://livres-mystiques.com/partieTEXTES/Montfort/Montfort.html",
+      "description": "French original from Livres Mystiques"
+    }
+  ],
+  "toc": [
+    { "id": "preface", "title": { "en-US": "Preface", "pt-BR": "Prefácio" } },
+    {
+      "id": "part-1",
+      "title": { "en-US": "Part I", "pt-BR": "Parte I" },
+      "children": [
+        { "id": "ch-01", "title": { "en-US": "Chapter I", "pt-BR": "Capítulo I" } }
+      ]
+    }
   ]
 }
 ```
 
-**Pure practice library** (Ember Default — actual):
-
-```json
-{
-  "id": "base",
-  "version": "1.0.0",
-  "name": { "en-US": "Catholic Daily Prayers", "pt-BR": "Orações Católicas Diárias" },
-  "description": { "en-US": "The essential Catholic prayer companion for your daily plan of life." },
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["default", "daily", "essential"],
-  "practices": ["morning-offering", "rosary", "divine-office", "..."],
-  "prayers": ["our-father", "hail-mary", "sign-of-cross", "..."],
-  "defaults": { "autoSeed": true }
-}
-```
+To bundle this book with related practices, prayers, or other books under a curated heading, author a `content/collections/montfort-spirituality.json` that lists `{ "ref": "book/montfort-true-devotion" }` alongside the other refs. See `docs/features/corpus.md` for the collection format.
 
 ---
 

@@ -4,8 +4,6 @@ Ember's content distribution model — how content is authored, built, and serve
 
 For the architectural overview (boot sequence, blob store, resolver, pinning) see `docs/ARCHITECTURE.md`. This doc focuses on the **author workflow**: how to add a prayer / practice / book / collection so it ships to users.
 
-> Predecessor: this file used to describe the v1 `.pray` zip-archive format. That model was retired on 2026-05-08 — see the journal entry for the migration story.
-
 ---
 
 ## The corpus
@@ -67,7 +65,7 @@ Content is sha256-hashed at build time and served as immutable blobs from `https
    images/<file>.webp           # Referenced from chapters as `../images/<file>.webp`
    ```
 2. Each `(chapter-id, language)` pair is hashed as a separate blob. A user reading only one language fetches only their language; a single-chapter typo fix is one ~25KB blob.
-3. The reader (`features/libraries/bookReader.ts`) inlines images by hash → base64 data URI when rendering, so `../images/foo.webp` references just work in the WebView.
+3. The reader (`features/books/bookReader.ts`) inlines images by hash → base64 data URI when rendering, so `../images/foo.webp` references just work in the WebView.
 
 ### Adding an OF Mass proper
 
@@ -93,13 +91,9 @@ A collection is a tiny JSON manifest listing references to other corpus items:
 }
 ```
 
-Save at `content/collections/<id>.json`. The collection appears as a filter chip on the practices list, and as a card in the library detail screen. Pinning the collection prefetches every referenced item for offline use.
+Save at `content/collections/<id>.json`. The collection appears as a filter chip on the practices list, and as a card on the collection detail screen. Pinning the collection prefetches every referenced item for offline use.
 
 The `defaults.autoSeed: true` flag (if present) makes the collection's practices auto-seed into a new user's plan-of-life on first launch.
-
-### One-off: legacy library JSON migration
-
-The original `content/libraries/<lib>/library.json` files were converted by `scripts/rename-to-corpus.py` into `content/collections/<lib>.json` files. ID collisions between former libraries (e.g. two libraries shipping the same `litany-of-loreto`) were resolved by hand. There were exactly two: `te-deum` (kept the multilingual `base` version, dropped breviary's en-only) and `ladainha-nossa-senhora` (kept novenas as canonical, renamed claretiano's older edition to `ladainha-nossa-senhora-claretiano`).
 
 ---
 
@@ -129,8 +123,7 @@ A typo fix in one prayer = ~5KB on the wire. Pinned content is opportunistically
 
 ## Anti-patterns to avoid
 
-- **Don't reference v1 paths.** `content/libraries/<lib>/practices/<id>/manifest.json` no longer exists. Use the corpus id (`practice/<id>`).
-- **Don't write a manifest with `flow: "flow.json"` (path-based).** v2 references resources by hash, not filename. The build pipeline computes hashes from the source files automatically.
+- **Don't write a manifest with `flow: "flow.json"` (path-based).** References are by hash, not filename. The build pipeline computes hashes from the source files automatically.
 - **Don't put binary assets in JSON.** Write `.webp` (or convert via `scripts/convert-webp.sh`) and reference from markdown / flow with the `../images/<file>.webp` convention. The build hashes binaries directly.
-- **Don't manually pre-flatten cross-collection prayer refs.** Cross-source prayer refs resolve through the global catalog at runtime — vendoring is gone. Just `{ "ref": "our-father" }` and the resolver finds it anywhere in the corpus.
+- **Don't manually pre-flatten cross-collection prayer refs.** Cross-source prayer refs resolve through the global catalog at runtime. Just `{ "ref": "our-father" }` and the resolver finds it anywhere in the corpus.
 - **Don't add new SQLite tables for content state.** Pinned-items list lives in `preferences['pinned-items']` (JSON array). Catalog + manifests live in the existing `cache` kv table. Blob bytes live on FS / IDB by hash.

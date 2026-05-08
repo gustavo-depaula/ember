@@ -43,7 +43,7 @@ export default function ChapterReaderScreen() {
       <ScreenLayout>
         <YStack padding="$lg">
           <Text fontFamily="$body" color="$colorSecondary">
-            {t('library.chapterNotFound')}
+            {t('browse.chapterNotFound')}
           </Text>
         </YStack>
       </ScreenLayout>

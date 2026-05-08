@@ -39,7 +39,7 @@ Each adds types, loading logic, DB fields, engine code, and UI components. Toget
 1. Any Catholic prayer practice can be described in static JSON
 2. A **practice builder** can author practices by composing sections + conditionals + data
 3. The app is a pure **practice reader** — it renders whatever the flow describes
-4. Libraries can contribute alternative content as separate practices, grouped by `alternativeTo`
+4. Anyone can contribute alternative content as separate practices, grouped by `alternativeTo`
 
 ---
 
@@ -281,7 +281,7 @@ type PracticeManifest = {
 The canonical practice (e.g., `rosary` with traditional meditations in base) has no `alternativeTo`. Alternatives declare themselves:
 
 ```json
-// montfort-spirituality library
+// content/practices/rosary-montfort/manifest.json
 {
   "id": "rosary-montfort",
   "name": { "en-US": "Holy Rosary (Montfort)" },
@@ -515,7 +515,7 @@ The existing `{ "type": "prose", "file": "key" }` form continues to work — it 
 
 **Scheduling:** One daily slot. The `select` handles mystery rotation.
 
-**Montfort meditations:** A separate practice `rosary-montfort` in the `montfort-spirituality` library with `alternativeTo: "rosary"`. Same flow structure, different data.
+**Montfort meditations:** A separate practice `practice/rosary-montfort` (grouped under `collection/montfort-spirituality`) with `alternativeTo: "rosary"`. Same flow structure, different data.
 
 ---
 
@@ -933,7 +933,7 @@ type PracticeManifest = {
   id: string
   name: LocalizedText
   flow: string                    // single flow file path
-  alternativeTo?: string          // groups practices across libraries
+  alternativeTo?: string          // id of the canonical practice this is an alternative to
   // flows, variants, forms removed
   // rest unchanged: categories, estimatedMinutes, description, history,
   // howToPray, flowMode, completion, program, theme, data, tracks, pack, tags, defaults

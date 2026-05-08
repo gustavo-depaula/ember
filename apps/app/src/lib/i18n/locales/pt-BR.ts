@@ -842,17 +842,15 @@ export default {
     },
   },
 
-  library: {
-    title: 'Devocionários',
-    registryOffline: 'Não foi possível alcançar a biblioteca.',
-    contents: 'Conteúdo',
+  browse: {
+    title: 'Acervo',
+    registryOffline: 'Não foi possível alcançar o conteúdo.',
     practices: 'Práticas',
-    prayers: 'Orações',
-    books: 'Livros',
+    items: 'itens',
     tableOfContents: 'Sumário',
     chapterNotFound: 'Capítulo não encontrado.',
-    libraryNotFound: 'Biblioteca não encontrada.',
-    emptyState: 'Nenhum livro de oração ainda.',
+    collectionNotFound: 'Coleção não encontrada.',
+    emptyState: 'Nada por aqui ainda.',
   },
 
   explore: {

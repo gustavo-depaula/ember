@@ -25,7 +25,7 @@
 
 ## Content & The Corpus
 
-Content in Ember is a **content-addressed corpus** — every prayer, practice, book chapter, Mass proper, and image is a separate sha256-hashed blob served from `https://ember.dpgu.me/hearth/v2/`. Libraries are not bundles; they're *collections* — small JSON manifests listing references to corpus items by stable id.
+Content in Ember is a **content-addressed corpus** — every prayer, practice, book chapter, Mass proper, and image is a separate sha256-hashed blob served from `https://ember.dpgu.me/hearth/v2/`. Curated groupings (e.g. *Carmelite tradition*, *Sacred Heart devotion*) are **collections** — small JSON manifests listing references to corpus items by stable id.
 
 The app ships with no bundled content. The boot sequence shows a loading screen while it fetches `catalog.json` (~500KB) and warms the critical prayer/practice manifests; everything else streams in on first use and is cached forever (immutable URLs). Pinning marks an item, book, or whole collection for full prefetch; pinned content survives offline.
 
@@ -88,8 +88,6 @@ A collection is a thin JSON manifest:
 }
 ```
 
-Each `library.json` from v1 became a `content/collections/<id>.json` during the migration.
-
 ### Build Pipeline
 
 `scripts/build-corpus.py` is the single build step. For each source item it:
@@ -139,8 +137,6 @@ Subsequent boots are reads-only against the local cache; the catalog refetch in 
 ### Updates
 
 A typo fix in `prayer/our-father` produces one new content blob (~2KB), one new prayer item-manifest blob (~2KB), and a new `catalog.json` (~500KB but mostly unchanged). On the next catalog fetch the client diffs hashes, fetches only the changed blobs, and the prayer's renderer instantly sees the new body via the resident-manifests map.
-
-Compare to v1, which forced a 70MB `.pray` re-download for any change.
 
 ---
 

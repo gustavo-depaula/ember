@@ -1,6 +1,6 @@
-# Contributing to Ember & Salty
+# Contributing to Ember
 
-Ember is a free Catholic prayer app. Salty is the broader effort to preserve and translate the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts — in open formats, freely available to all. This repo is home to both.
+Ember is a free Catholic prayer app and an open platform for the Catholic literary tradition — spiritual classics, Church Fathers, formation guides, liturgical texts — in open formats, freely available to all.
 
 Contributions are welcome — whether you're fixing a bug, adding a prayer, translating a spiritual classic, or improving documentation.
 
@@ -20,7 +20,7 @@ The fruits of Catholic tradition should be freely available to all. No one shoul
 
 - **Report bugs or suggest features** — [open an issue](https://github.com/gustavo-depaula/prayer/issues)
 - **Contribute code** — bug fixes, new features, engine improvements
-- **Contribute content** — prayers, translations, books, libraries
+- **Contribute content** — prayers, practices, books, translations, collections
 - **Improve documentation** — specs, guides, corrections
 
 ## Code Contributions
@@ -34,30 +34,31 @@ The fruits of Catholic tradition should be freely available to all. No one shoul
 
 ## Content Contributions
 
-Content in this project is packaged into **libraries** — self-contained `.pray` files (zip archives) that bundle prayers, practices, books, and chapters.
+All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, book chapter, Mass proper, and collection is a first-class corpus item with a stable kind-prefixed id (`practice/rosary`, `prayer/our-father`, `book/montfort-true-devotion`, `collection/carmelite`). Source files live flat-by-kind under `content/`; the build pipeline hashes them into immutable blobs.
 
 - **Practices** are pure JSON — a `manifest.json` + `flow.json` describe the prayer flow. No app code needed.
 - **Books** are HTML or Markdown chapters organized by language.
 - **Prayers** are reusable text assets with multilingual support.
+- **Collections** are tiny JSON manifests that reference other corpus items to group them under a curated heading.
 
 To understand the content model:
-- [Library system & .pray format](docs/features/prayer-books.md)
+- [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
 - [Book format](docs/content/book-format.md)
 - [Content sources & licensing](docs/content/content-sources.md)
 - [Content pipeline](docs/content/PIPELINE.md) — see what's published, in progress, and where help is needed
 
-Content lives in `content/libraries/`. Each library has its own directory with a `library.json` manifest.
+Content lives at the corpus root, one folder per kind: `content/prayers/`, `content/practices/`, `content/chapters/`, `content/books/`, `content/collections/`, etc. Just placing a file under the right folder is enough — the next `pnpm build:corpus` picks it up.
 
 ### Add your first practice in 10 minutes
 
 A walkthrough adding a single short prayer (the Memorare).
 
-1. **Pick a library** — `content/libraries/devotions/` is a good target. Open it and look at any existing practice (e.g. `practices/seven-sorrows/`) to see the pattern.
+1. **Find an existing practice to model on** — open any folder under `content/practices/` (e.g. `content/practices/angelus/`) to see the pattern. The numbered examples (`01-trivial-prayer/`, `02-bilingual-prayer/`, `04-rosary-with-macros/`, `05-mass-of-with-choice-rich-text/`) each demonstrate one DSL primitive end-to-end and are hidden from the user-facing list — copy one as a starting point.
 
 2. **Create a directory:**
 
    ```bash
-   mkdir -p content/libraries/devotions/practices/my-memorare
+   mkdir -p content/practices/my-memorare
    ```
 
 3. **Write `manifest.json`:**
@@ -98,15 +99,15 @@ A walkthrough adding a single short prayer (the Memorare).
    }
    ```
 
-5. **Register the practice** — open `content/libraries/devotions/library.json` and add `"my-memorare"` to the `practices` array.
+5. **(Optional) Group it in a collection** — if the practice belongs alongside others under a curated heading, add `{ "ref": "practice/my-memorare" }` to the matching `content/collections/<id>.json`. A practice doesn't need to be in any collection to ship; it'll show up in `/practices` either way.
 
 6. **Validate:** `pnpm validate-flows` should print `✓ all flows + manifests valid`.
 
-7. **Run:** `pnpm hearth` rebuilds .pray archives + serves them locally; `pnpm start:web` boots the dev server. Your practice appears on the home page.
+7. **Run:** `pnpm hearth` runs `build-corpus.py` and serves the result at `http://localhost:4100`; `pnpm start:web` boots the dev server. Your practice appears on the home page.
 
 ### Reference examples
 
-The `content/libraries/examples/` library is a curated set of practices, each demonstrating one DSL primitive end-to-end. Copy any of them as a starting point.
+The numbered practices under `content/practices/` (`01-trivial-prayer`, `02-bilingual-prayer`, `04-rosary-with-macros`, `05-mass-of-with-choice-rich-text`) are a curated set, each demonstrating one DSL primitive end-to-end. They're hidden from the user-facing list. Copy any of them as a starting point.
 
 | Example | Demonstrates |
 |---|---|
@@ -123,13 +124,13 @@ The `content/libraries/examples/` library is a curated set of practices, each de
 { "en-US": "Hello", "pt-BR": "Olá" }
 ```
 
-**Liturgical-day content** (today's content depends on the liturgical calendar): see Liguori's Meditações in `content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/`. The `resolve` step binds today's match from a `liturgical-map.json` data file.
+**Liturgical-day content** (today's content depends on the liturgical calendar): see Liguori's Meditações in `content/practices/meditacoes-ligorio/`. The `resolve` step binds today's match from a `liturgical-map.json` data file.
 
 **Macros (reusable fragments):** define under `flow.fragments`, invoke via `{ "type": "call", "ref": "name", "args": {...} }`. Args are accessible inside the fragment body as `{{paramName}}` (or nested: `{{paramName.field}}`). See example `04-rosary-with-macros`.
 
 **Today's Mass:** declare `{ "load": [{ "as": "day", "source": "mass-of", "calendar": "of" }] }`. Then `day.celebrations[]` is an array of today's celebrations (most days: 1; Holy Thursday: 2 — Chrism Mass + Lord's Supper; Christmas: 4). Branch on rite via `select on celebration.rite`, render variable slots via `choice-rich-text`. See example `05-mass-of-with-choice-rich-text`.
 
-**Mass-specific primitives** (in `content/libraries/base/practices/mass/flow.json`):
+**Mass-specific primitives** (in `content/practices/mass/flow.json`):
 
 - `celebration-banner` — hero block. `{ "from": "celebration.primary", "cycleFrom": "day.cycle" }` reads the celebration's title + liturgical color + rank, plus the day's lectionary cycle, and renders a missal-style title card.
 - `liturgical-color` — small color swatch + label. `{ "from": "celebration.primary.liturgicalColor" }`.
@@ -170,7 +171,7 @@ pnpm biome check --write .  # Format & lint
 | `packages/content-engine/` | Practice-agnostic flow resolution engine |
 | `packages/liturgical/` | Liturgical calendar, seasons, psalter |
 | `packages/mass-propers/` | EF Mass propers resolution engine |
-| `content/libraries/` | Source content for prayer libraries |
+| `content/` | Corpus source — flat by kind (`prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, ...) |
 | `docs/` | Architecture, specs, conventions, dev journal |
 
 For the full picture, see [Architecture](docs/ARCHITECTURE.md) and the [project overview](docs/README.md).

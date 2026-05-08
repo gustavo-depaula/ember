@@ -42,8 +42,8 @@ import re
 import sys
 from pathlib import Path
 
-BOOK_DIR = Path(__file__).resolve().parent.parent  # content/libraries/base/books/catechetical-formation/
-BOOKS_DIR = BOOK_DIR.parent                         # content/libraries/base/books/
+BOOK_DIR = Path(__file__).resolve().parent.parent  # content/books/catechetical-formation/
+BOOKS_DIR = BOOK_DIR.parent                         # content/books/
 OUT = BOOK_DIR
 PX = BOOKS_DIR / "catechism-pius-x-1912"
 AQ = BOOKS_DIR / "catechetical-instructions"
@@ -628,7 +628,7 @@ def main():
     # Aquinas is INTENTIONALLY NOT deduped: each session receives the full sermon, even
     # when consecutive sessions zoom into different Pius X questions inside the same
     # sermon. The daily reader meets the full teaching every morning. This costs ~1–2 MB
-    # in the .pray and is the right tradeoff for the formation experience.
+    # in the corpus and is the right tradeoff for the formation experience.
     last_trent = None
     for session in sessions:
         sid = session["id"]

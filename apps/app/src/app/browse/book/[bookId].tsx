@@ -376,7 +376,7 @@ export default function BookReaderScreen() {
         ) : (
           <YStack flex={1} justifyContent="center" alignItems="center">
             <Text fontFamily="$body" color="$colorSecondary">
-              {t('library.chapterNotFound')}
+              {t('browse.chapterNotFound')}
             </Text>
           </YStack>
         )}

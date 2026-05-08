@@ -38,13 +38,13 @@ catechetical-formation/
     └── session-001..090.jpg   ← bundled images (~34 MB)
 ```
 
-The book is **self-contained**: data, original content, build pipeline, and diagnostic scripts all live inside this folder. To work on it, you only need to know `content/libraries/base/books/catechetical-formation/`.
+The book is **self-contained**: data, original content, build pipeline, and diagnostic scripts all live inside this folder. To work on it, you only need to know `content/books/catechetical-formation/`.
 
 The chapter `.md` files and `book.json` are **build outputs** — never edit them directly. Always edit the JSON inputs and re-run the build script.
 
 ## Source corpus (read-only)
 
-Three books in the same library (`content/libraries/base/books/`):
+Three sibling books under `content/books/`:
 
 - **`catechism-pius-x-1912/`** — Pius X 1912, all 433 Qs across 24 chapters. The doctrinal spine; verbatim quoted in every session.
 - **`catechetical-instructions/`** — Aquinas's Naples Lent sermons (Collins translation, 1939). 14 Creed sermons, 12 Decalogue sermons, 9 Pater Noster + opening + short explanation, Hail Mary. Verbatim quoted (or sliced).
@@ -67,7 +67,7 @@ To rebuild:
 
 ```bash
 python3 scripts/build.py
-pnpm build:libraries     # repackages base-1.0.0.pray
+pnpm build:corpus        # re-hashes the rebuilt chapters into the corpus
 ```
 
 ## Data schemas
@@ -165,7 +165,7 @@ pnpm build:libraries     # repackages base-1.0.0.pray
 
 **Re-slicing Aquinas or Trent commentary:**
 
-1. Inspect the chapter's H2 structure: `grep "^## " content/libraries/base/books/catechetical-instructions/en-US/<chapter>.md`
+1. Inspect the chapter's H2 structure: `grep "^## " content/books/catechetical-instructions/en-US/<chapter>.md`
 2. Pick anchors (case-insensitive substring match). Use `@opening` for pre-H2 intro.
 3. Edit `sessions.json` `aquinas` or `trent` field with `{"chapter": "...", "sections": [...]}`.
 4. Re-run the build script.
@@ -229,7 +229,7 @@ PT-BR chapters use translated section headers (`São Pio X pergunta`, `São Tom�
 
 **Deferred to V0.7 (and the obvious next move):**
 
-7. ⏳ **Thin sessions where Aquinas and Trent are both silent** (s010 Man, s011 First Parents, s012 Fall, s016 Public Life, s029 Outside the Church, s046 Suicide/Dueling). Currently 2–3 min reads. **The plan** is to pull from **St. Alphonsus Liguori** (already in the library at `content/libraries/alphonsus-liguori/`) to fill these gaps. Alphonsus has 157 bilingual EN+PT chapters covering exactly the gaps in Aquinas: 38 *Visits to the Blessed Sacrament* (Eucharist), 39 *Preparation for Death* (last things, judgment, sin), 31 *Glories of Mary* (Marian + saints), 19 *Practice of the Love of Jesus Christ* (virtues + charity), 11 *Great Means of Prayer*, 17 *Stations of the Cross* (Passion). See `alternatives.md` for the architectural argument. Schema + build-script work needed.
+7. ⏳ **Thin sessions where Aquinas and Trent are both silent** (s010 Man, s011 First Parents, s012 Fall, s016 Public Life, s029 Outside the Church, s046 Suicide/Dueling). Currently 2–3 min reads. **The plan** is to pull from **St. Alphonsus Liguori** (already in the corpus via the `alphonsus-liguori` collection) to fill these gaps. Alphonsus has 157 bilingual EN+PT chapters covering exactly the gaps in Aquinas: 38 *Visits to the Blessed Sacrament* (Eucharist), 39 *Preparation for Death* (last things, judgment, sin), 31 *Glories of Mary* (Marian + saints), 19 *Practice of the Love of Jesus Christ* (virtues + charity), 11 *Great Means of Prayer*, 17 *Stations of the Cross* (Passion). See `alternatives.md` for the architectural argument. Schema + build-script work needed.
 
 8. ⏳ **Aquinas `commandments-01-strange-gods` paragraph slicing.** Single H2; cluster s037–s039 has 3 sessions but only the first carries Aquinas. Add paragraph-range slicing in the schema (`{"chapter": "...", "paragraphs": [3, 7]}`) for fine-grained extraction.
 

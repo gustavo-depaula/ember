@@ -17,10 +17,10 @@ The original-language text is the **canonical source** — all translations deri
 
 ## Folder Structure
 
-Books live under `content/libraries/{library-id}/books/{book-id}/`:
+Books live under `content/books/{book-id}/`:
 
 ```
-{book-id}/
+content/books/{book-id}/
   book.json                     # Metadata + TOC (already exists)
   {original-lang}/              # e.g. fr-FR/ — the canonical source
     preface.md
@@ -103,9 +103,9 @@ Key principles:
 
 9. **Build and verify:**
    ```bash
-   bash scripts/build-libraries.sh
+   pnpm build:corpus
    ```
-   Check that the `.pray` archive includes the new language's chapter files.
+   Check that new chapter blobs appear under `_site/hearth/v2/blobs/` (the build is idempotent and content-addressed — only changed files produce new blobs). Confirm the per-language entries in `_site/hearth/v2/catalog.json` for the affected book pick up the new language.
 
 ## Translation Guidelines
 
@@ -164,4 +164,4 @@ The journal is a reference document. It ships with the book files but is not ren
 5. Added translator notes only where needed (e.g., explaining a Latin prayer's attribution)
 6. Modernized "mahométans" → "Muslims" / "muçulmanos", noted in journals
 7. Updated `book.json` with new language entries and TOC titles
-8. Built with `build-libraries.sh`, verified `.pray` archive contents
+8. Built with `pnpm build:corpus`, verified new blobs + catalog entries

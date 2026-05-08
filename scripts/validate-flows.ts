@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Validate every flow.json + manifest.json under content/libraries/.
+ * Validate every flow.json + manifest.json under content/practices/ and content/chapters/.
  *
  * Catches the silent-typo class that bit Divinum Officium for years:
  *  - unknown section `type`
@@ -13,10 +13,13 @@
  * Exit code: 0 = clean, 1 = errors found.
  */
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs'
-import { join, relative, resolve } from 'node:path'
+import { dirname, join, relative, resolve } from 'node:path'
 
 const REPO_ROOT = resolve(__dirname, '..')
-const LIBRARIES = join(REPO_ROOT, 'content', 'libraries')
+const CONTENT_ROOTS = [
+  join(REPO_ROOT, 'content', 'practices'),
+  join(REPO_ROOT, 'content', 'chapters'),
+]
 
 type Issue = { file: string; path: string; message: string }
 const issues: Issue[] = []
@@ -151,6 +154,45 @@ function validateFlow(file: string): void {
 
   const fragments = (parsed.fragments ?? {}) as Record<string, unknown>
   const fragmentRefs = new Set(Object.keys(fragments))
+
+  // Pull in fragments from external sources listed in `fragmentSources` so that
+  // `call.ref` resolution can validate cross-file refs (e.g. mass/flow.json
+  // calls fragments defined in mass/fragments/of-rite-bodies.json).
+  const sources = parsed.fragmentSources
+  if (Array.isArray(sources)) {
+    for (let i = 0; i < sources.length; i++) {
+      const src = sources[i]
+      if (typeof src !== 'string') {
+        issues.push({
+          file,
+          path: `$.fragmentSources[${i}]`,
+          message: 'fragmentSources entry must be a string path',
+        })
+        continue
+      }
+      const sourcePath = join(dirname(file), src)
+      if (!existsSync(sourcePath)) {
+        issues.push({
+          file,
+          path: `$.fragmentSources[${i}]`,
+          message: `fragmentSources["${src}"] — file not found at ${sourcePath}`,
+        })
+        continue
+      }
+      try {
+        const sourceParsed = JSON.parse(readFileSync(sourcePath, 'utf-8'))
+        const sourceFragments = (sourceParsed?.fragments ?? {}) as Record<string, unknown>
+        for (const id of Object.keys(sourceFragments)) fragmentRefs.add(id)
+      } catch (err) {
+        issues.push({
+          file: sourcePath,
+          path: '$',
+          message: `invalid JSON: ${(err as Error).message}`,
+        })
+      }
+    }
+  }
+
   const ctx: WalkCtx = { file, fragmentRefs }
 
   if (Array.isArray(parsed.sections)) visit(parsed.sections, '$.sections', ctx)
@@ -220,7 +262,9 @@ function walk(dir: string): void {
   }
 }
 
-walk(LIBRARIES)
+for (const root of CONTENT_ROOTS) {
+  if (existsSync(root)) walk(root)
+}
 
 const filesByPath = new Map<string, Issue[]>()
 for (const i of issues) {

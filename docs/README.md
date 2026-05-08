@@ -42,7 +42,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 
 | Feature | Description | Spec |
 |---------|-------------|------|
-| **Content Corpus** | Hearth v2 content-addressed corpus — ~99 practices, ~99 prayers, ~25 books, 972 OF Mass propers, 14 curated collections; per-blob lazy fetch + offline pinning | [ARCHITECTURE.md](ARCHITECTURE.md#content--the-corpus), [prayer-books.md](features/prayer-books.md) |
+| **Content Corpus** | Hearth v2 content-addressed corpus — ~99 practices, ~99 prayers, ~25 books, 972 OF Mass propers, 14 curated collections; per-blob lazy fetch + offline pinning | [ARCHITECTURE.md](ARCHITECTURE.md#content--the-corpus), [corpus.md](features/corpus.md) |
 | **Flow Engine** | Practice-agnostic DSL — select, repeat, cycle, prose, proper — describes any prayer from a simple devotion to the Mass | [features-overview.md](features/features-overview.md#practice-content-architecture) |
 | **Plan of Life** | Tier-based daily practice checklist, multi-hue fidelity wall, streaks, time blocks, notifications | [features-overview.md](features/features-overview.md#plan-of-life) |
 | **Bible Reader** | Bundled Douay-Rheims (73 books) + online translations via Bolls.life API | [features-overview.md](features/features-overview.md#other-features) |
@@ -105,7 +105,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 - [Architecture](ARCHITECTURE.md) — tech stack, content & libraries, data model, storage, folder structure
 - [Conventions](CONVENTIONS.md) — code style guide
 - [Features Overview](features/features-overview.md) — flow DSL, schedules, programs, plan of life, liturgical seasons
-- [Content & Collections](features/prayer-books.md) — corpus author workflow, build pipeline, distribution
+- [Content & Collections](features/corpus.md) — corpus author workflow, build pipeline, distribution
 - [Book Format](content/book-format.md) — book manifest, chapter format, ID conventions
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic
 - [Content Sources](content/content-sources.md) — Bible, CCC, hymns, daily readings — APIs, licensing, bundling

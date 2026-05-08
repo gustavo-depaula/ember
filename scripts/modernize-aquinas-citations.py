@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Modernize 1939-style Catholic Scripture citations into modern English format.
 
-Targets:  content/libraries/base/books/catechetical-instructions/en-US/*.md
+Targets:  content/books/catechetical-instructions/en-US/*.md
 
 Examples:
     "Osee, ii. 20"      -> "Hosea 2:20"
@@ -37,8 +37,12 @@ import sys
 from pathlib import Path
 from typing import Iterable
 
-EN_US_DIR = Path(
-    "/home/user/ember/content/libraries/base/books/catechetical-instructions/en-US"
+EN_US_DIR = (
+    Path(__file__).resolve().parent.parent
+    / "content"
+    / "books"
+    / "catechetical-instructions"
+    / "en-US"
 )
 
 
