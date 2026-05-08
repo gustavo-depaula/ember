@@ -17,6 +17,7 @@ import {
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
+import { PinToggle } from '@/features/pinning/PinToggle'
 import { isPinned } from '@/features/pinning/pinningManager'
 import {
   useCreatePractice,
@@ -242,6 +243,10 @@ export default function CatalogDetailScreen() {
         </XStack>
 
         {!isProgram && <PrayButton practiceId={manifest.id} />}
+
+        <XStack alignItems="center" gap="$sm">
+          <PinToggle itemId={`practice/${manifest.id}`} />
+        </XStack>
 
         {group && (
           <YStack gap="$sm">

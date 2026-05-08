@@ -27,12 +27,20 @@ let pinned: PinnedItem[] = []
 
 export async function rehydratePinned(): Promise<void> {
   const raw = await getPreference(PINNED_KEY)
-  if (!raw) return
+  if (!raw) {
+    pinned = []
+    return
+  }
   try {
     pinned = JSON.parse(raw) as PinnedItem[]
   } catch {
     pinned = []
   }
+}
+
+/** Reset the in-memory pinned list — used by tests. */
+export function resetPinned(): void {
+  pinned = []
 }
 
 async function persist() {
@@ -112,11 +120,12 @@ async function collectBlobsFor(id: string): Promise<PrefetchEntry[]> {
     if (!body) {
       try {
         body = await getJson<unknown>(entry.hash)
-        rememberManifestBody(entry.hash, body)
+        if (body) rememberManifestBody(entry.hash, body)
       } catch {
         return
       }
     }
+    if (!body) return
 
     const collector = COLLECTORS[entry.kind]
     if (!collector) return
