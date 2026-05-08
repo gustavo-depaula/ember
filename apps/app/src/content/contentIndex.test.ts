@@ -86,6 +86,14 @@ describe('contentIndex', () => {
     expect(canonicalize('totally-fake')).toBeUndefined()
   })
 
+  it('canonicalize with hintKind is a HARD filter — no fallthrough to other kinds', () => {
+    // 'our-father' exists as a prayer, but the caller asked for a practice.
+    // Returning prayer/our-father here would let a wrongly-typed manifest leak
+    // through to the engine and crash on its missing fields.
+    expect(canonicalize('our-father', 'practice')).toBeUndefined()
+    expect(canonicalize('rosary', 'prayer')).toBeUndefined()
+  })
+
   it('getEntriesByKind only returns matching kind', () => {
     const prayers = getEntriesByKind('prayer').map(([id]) => id)
     expect(prayers).toContain('prayer/our-father')
