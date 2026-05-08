@@ -139,10 +139,13 @@ export default function RootLayout() {
           console.warn('[startup] pinned rehydrate failed:', err)
         })
 
-        // 4. Warm only the manifests synchronous resolvers (engine Proxies) need
-        //    before first paint. Books/chapters/collections warm in the background.
+        // 4. Warm sync-resolver manifests before first paint; let the rest
+        //    (books, chapters, collections) warm in parallel without blocking.
         await warmCriticalManifests().catch((err) => {
           console.warn('[startup] warm critical manifests failed:', err)
+        })
+        warmDeferredManifests().catch((err) => {
+          console.warn('[startup] warm deferred manifests failed:', err)
         })
 
         await Promise.all([seedPractices(), seedCursors()])
@@ -155,10 +158,8 @@ export default function RootLayout() {
           .catch((err) => console.error('[startup] notification setup failed', err))
 
         InteractionManager.runAfterInteractions(() => {
-          warmDeferredManifests()
-            .then(() => loadCatalogFromHearth())
-            .then(() => warmCriticalManifests())
-            .then(() => warmDeferredManifests())
+          loadCatalogFromHearth()
+            .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
             .then(() => seedPractices())
             .catch((err) => console.warn('Background catalog refresh failed:', err))
         })

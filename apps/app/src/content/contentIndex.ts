@@ -35,9 +35,32 @@ function invalidateEntryCaches(): void {
   memberOfCache = undefined
 }
 
+// Bumped after the catalog or any manifest body changes. React components can
+// subscribe via useSyncExternalStore + getCatalogVersion to re-render once
+// deferred manifests (collections, books, chapters) finish warming.
+let catalogVersion = 0
+const versionListeners = new Set<() => void>()
+
+export function getCatalogVersion(): number {
+  return catalogVersion
+}
+
+export function subscribeCatalog(listener: () => void): () => void {
+  versionListeners.add(listener)
+  return () => {
+    versionListeners.delete(listener)
+  }
+}
+
+function bumpCatalogVersion(): void {
+  catalogVersion++
+  for (const fn of versionListeners) fn()
+}
+
 export function setCatalog(next: Catalog): void {
   catalog = next
   invalidateEntryCaches()
+  bumpCatalogVersion()
 }
 
 export function getCatalog(): Catalog {
@@ -48,6 +71,11 @@ export function registerStaticEntry(id: string, entry: CatalogEntry, manifestBod
   staticOverrides.set(id, entry)
   if (manifestBody !== undefined) manifestBodies.set(entry.hash, manifestBody)
   invalidateEntryCaches()
+  bumpCatalogVersion()
+}
+
+export function notifyManifestsWarmed(): void {
+  bumpCatalogVersion()
 }
 
 export function rememberManifestBody(hash: string, body: unknown): void {

@@ -20,6 +20,7 @@ import {
   searchManifests,
 } from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
@@ -101,6 +102,7 @@ function PracticeCard({
   onPress: () => void
 }) {
   const { t } = useTranslation()
+  const catalogVersion = useCatalogVersion()
 
   const iconKey = getManifestIconKey(manifest.id)
   const name = localizeContent(manifest.name)
@@ -108,10 +110,10 @@ function PracticeCard({
   const description = manifest.description ? localizeContent(manifest.description) : ''
   const snippet = description.length > 100 ? `${description.slice(0, 100)}...` : description
 
-  // v2-unlocked: surface collection membership on the card.
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal — re-running when it bumps is the point.
   const collectionLabels = useMemo(() => {
-    const collectionIds = getCollectionsForItem(manifest.id)
-    return collectionIds
+    const corpusId = manifest.id.includes('/') ? manifest.id : `practice/${manifest.id}`
+    return getCollectionsForItem(corpusId)
       .map((cid) => {
         const entry = getEntry(cid)
         if (!entry?.name) return undefined
@@ -119,7 +121,7 @@ function PracticeCard({
       })
       .filter((s): s is string => !!s)
       .slice(0, 2)
-  }, [manifest.id])
+  }, [manifest.id, catalogVersion])
 
   return (
     <Pressable
@@ -195,19 +197,18 @@ export default function PracticeCatalogScreen() {
   const [activeCollectionId, setActiveCollectionId] = useState<string | undefined>()
   const [showEditor, setShowEditor] = useState(false)
   const createPractice = useCreatePractice()
+  const catalogVersion = useCatalogVersion()
 
-  // v2-unlocked: collections are first-class corpus items. Surface them as
-  // a filter axis above the legacy category chips.
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
   const collectionFilters = useMemo(() => {
     const out: { id: string; label: string }[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
-      // Skip the synthetic starter / system collections from filtering UX.
       if (id === 'collection/starter') continue
       const label = entry.name ? localizeContent(entry.name as Record<string, string>) : id
       out.push({ id, label })
     }
     return out.sort((a, b) => a.label.localeCompare(b.label))
-  }, [])
+  }, [catalogVersion])
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({

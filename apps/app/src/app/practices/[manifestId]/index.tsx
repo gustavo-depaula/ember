@@ -14,6 +14,7 @@ import {
   getManifest,
   getManifestIconKey,
 } from '@/content/registry'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
 import { isPinned } from '@/features/pinning/pinningManager'
@@ -69,6 +70,8 @@ export default function CatalogDetailScreen() {
     () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
     [manifestId],
   )
+  const catalogVersion = useCatalogVersion()
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal — re-running the memo when it bumps is the entire point.
   const collectionLabels = useMemo(() => {
     if (!manifestId) return []
     return getCollectionsForItem(`practice/${manifestId}`)
@@ -77,11 +80,12 @@ export default function CatalogDetailScreen() {
         return entry?.name ? localizeContent(entry.name as Record<string, string>) : undefined
       })
       .filter((s): s is string => !!s)
-  }, [manifestId])
+  }, [manifestId, catalogVersion])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
   const collectionPinned = useMemo(() => {
     if (!manifestId) return false
     return getCollectionsForItem(`practice/${manifestId}`).some(isPinned)
-  }, [manifestId])
+  }, [manifestId, catalogVersion])
 
   if (!manifestId || !manifest) {
     return (

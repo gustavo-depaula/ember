@@ -16,6 +16,7 @@ import {
   getRememberedManifest,
   search as indexSearch,
   invalidateMemberOfIndex,
+  notifyManifestsWarmed,
   rememberManifestBody,
   setCatalog,
 } from './contentIndex'
@@ -116,12 +117,14 @@ async function warmKinds(
 /** Block boot only on what synchronous resolvers (engine Proxies) need. */
 export async function warmCriticalManifests(): Promise<void> {
   await warmKinds(CRITICAL_KINDS)
+  notifyManifestsWarmed()
 }
 
-/** Run after first paint; populates collection / book / chapter manifests. */
+/** Runs in parallel with first paint; populates collection / book / chapter manifests. */
 export async function warmDeferredManifests(): Promise<void> {
   await warmKinds(DEFERRED_KINDS)
   invalidateMemberOfIndex()
+  notifyManifestsWarmed()
 }
 
 /** Back-compat: full warm in one call (no longer used on the boot path). */
