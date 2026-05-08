@@ -102,6 +102,9 @@ export function createEngineContext(
       return { [lang]: text }
     },
     fetchAsset: async (_libId, path) => fetchOfAsset(path, requestedLangs),
-    fetchOwnAsset: async (path) => fetchOfAsset(path, requestedLangs),
+    // No fetchOwnAsset — let the engine fall through to context.cycleData,
+    // which is populated by loadPracticeData() and indexed by data name (e.g.
+    // 'liturgical-map'). The OF asset router is for cross-practice paths
+    // only, not this practice's own declared data.
   }
 }
