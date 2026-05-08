@@ -92,6 +92,16 @@ export function getRememberedManifest<T>(hash: string): T | undefined {
   return manifestBodies.get(hash) as T | undefined
 }
 
+/** Read a manifest body, fetching + remembering it on miss. */
+export async function ensureManifestBody<T>(hash: string): Promise<T> {
+  const cached = manifestBodies.get(hash) as T | undefined
+  if (cached !== undefined) return cached
+  const { getJson } = await import('./store')
+  const fetched = await getJson<T>(hash)
+  manifestBodies.set(hash, fetched)
+  return fetched
+}
+
 export function resetContentIndex(): void {
   catalog = { version: 2, generated: '', items: {} }
   manifestBodies.clear()

@@ -12,7 +12,7 @@ import {
   isHiddenCollection,
   isHiddenPractice,
 } from '@/content/contentIndex'
-import type { BookItemManifest, PrayerItemManifest } from '@/content/manifestTypes'
+import type { BookEntry, PrayerItemManifest } from '@/content/manifestTypes'
 import { getManifestIconKey, searchManifests } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
@@ -104,7 +104,7 @@ export function SearchAutocomplete({
 
     const bookScored: Scored<SearchResult>[] = []
     for (const [id, entry] of getEntriesByKind('book')) {
-      const body = getRememberedManifest<BookItemManifest>(entry.hash)
+      const body = getRememberedManifest<BookEntry>(entry.hash)
       const nameSrc = body?.name ?? entry.name
       if (!nameSrc) continue
       const title = localizeContent(nameSrc as Record<string, string>)
@@ -171,7 +171,7 @@ export function SearchAutocomplete({
       router.push({ pathname: '/browse/book/[bookId]', params: { bookId: result.id } })
       return
     }
-    router.push({ pathname: '/browse/[libraryId]', params: { libraryId: result.id } })
+    router.push({ pathname: '/browse/[collectionId]', params: { collectionId: result.id } })
   }
 
   function renderRow(result: SearchResult) {

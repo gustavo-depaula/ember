@@ -9,12 +9,12 @@
 
 import { getEntry, getRememberedManifest, rememberManifestBody } from '@/content/contentIndex'
 import type {
-  BookItemManifest,
+  BookEntry,
   CatalogEntry,
-  ChapterItemManifest,
+  ChapterManifest,
   CollectionItemManifest,
   LangSplitItemManifest,
-  PracticeItemManifest,
+  PracticeManifest,
 } from '@/content/manifestTypes'
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
@@ -61,7 +61,7 @@ type CollectBody = (body: unknown, add: (ref: { hash: string; size: number }) =>
 const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
   collection: (body) => (body as CollectionItemManifest).items?.map((i) => i.ref) ?? [],
   practice: (body, add) => {
-    const p = body as PracticeItemManifest
+    const p = body as PracticeManifest
     if (p.flowHash) add(p.flowHash)
     p.fragments?.forEach(add)
     p.dataHashes?.forEach(add)
@@ -71,13 +71,13 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
     return []
   },
   chapter: (body, add) => {
-    const c = body as ChapterItemManifest
+    const c = body as ChapterManifest
     if (c.contentHash) add(c.contentHash)
     c.prose?.forEach(add)
     return []
   },
   book: (body, add) => {
-    const b = body as BookItemManifest
+    const b = body as BookEntry
     if (b.style) add(b.style)
     if (b.chapters) {
       for (const langs of Object.values(b.chapters)) Object.values(langs).forEach(add)

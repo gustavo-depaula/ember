@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import type { ProgramConfig } from '@/content/manifest-types'
+import type { ProgramConfig } from '@/content/manifestTypes'
 import {
   computeAllDayStates,
   computeMissedDays,

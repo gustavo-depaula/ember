@@ -6,12 +6,12 @@ import type { BilingualText, LocalizedText } from './types'
  * Registered by name; the engine looks it up when a flow declares
  * `{ source: 'name' }` in its load steps and calls `.load(args, ctx)`.
  *
- * Sources read only from the bundled assets of installed libraries via
- * the SourceContext — no network, no filesystem APIs, no global state.
+ * Sources read only from corpus content via the SourceContext — no
+ * network, no filesystem APIs, no global state.
  *
- * The interface is designed so a future sandboxed plugin runtime
- * (loaded from .pray scripts) can stand in for in-tree TypeScript
- * modules without changes to flows or to the engine.
+ * The interface is designed so a future sandboxed plugin runtime can
+ * stand in for in-tree TypeScript modules without changes to flows or
+ * to the engine.
  */
 export type DataSource = {
   load(args: Record<string, unknown>, ctx: SourceContext): Promise<unknown>

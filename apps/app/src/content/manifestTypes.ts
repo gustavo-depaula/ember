@@ -7,6 +7,8 @@
  * actual content blobs by hash. All blobs live at `/hearth/v2/blobs/{ab}/{cd}/{hash}`.
  */
 
+import type { Tier } from '@/db/schema'
+import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { LocalizedText } from './types'
 
 export type CatalogItemKind =
@@ -53,6 +55,28 @@ export type Catalog = {
 
 export type BlobRef = { hash: string; size: number }
 
+export type AlternativeToRef = {
+  id: string
+  label: LocalizedText
+  description: LocalizedText
+}
+
+export type SlotDefault = {
+  slotId?: string
+  schedule: Schedule
+  tier?: Tier
+  time?: string
+  enabled?: boolean
+}
+
+export type ProgramConfig = {
+  totalDays: number
+  perDayFlows?: string
+  progressPolicy: 'continue' | 'wait' | 'restart'
+  completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
+  restartThreshold?: number
+}
+
 export type PrayerItemManifest = {
   id: string
   title: LocalizedText
@@ -61,13 +85,7 @@ export type PrayerItemManifest = {
   source?: LocalizedText
 }
 
-/**
- * Practice item manifest — merged shape: original PracticeManifest body fields
- * (name, icon, description, etc.) plus resource hashes for flow/fragments/data/
- * tracks/perDay/images. Path-based fields (`flow`, `data`, `tracks`) from the
- * source manifest are dropped in favor of hash-based lookups.
- */
-export type PracticeItemManifest = {
+export type PracticeManifest = {
   id: string
   name: LocalizedText
   description?: LocalizedText
@@ -80,18 +98,12 @@ export type PracticeItemManifest = {
   thumbnail?: string
   flowMode?: 'scroll' | 'step'
   completion?: 'flow-end' | 'manual'
-  program?: {
-    totalDays: number
-    perDayFlows?: string
-    progressPolicy?: string
-    completionBehavior?: string
-    restartThreshold?: number
-  }
+  program?: ProgramConfig
   theme?: 'office'
-  alternativeTo?: { id: string; label: LocalizedText; description: LocalizedText }
+  alternativeTo?: AlternativeToRef
   pack?: string
   tags?: string[]
-  defaults?: { sortOrder?: number; slots?: unknown[] }
+  defaults?: { sortOrder?: number; slots?: SlotDefault[] }
   flowHash?: BlobRef
   fragments?: { id: string; hash: string; size: number }[]
   dataHashes?: { name: string; hash: string; size: number }[]
@@ -100,8 +112,7 @@ export type PracticeItemManifest = {
   images?: { rel: string; hash: string; size: number; mime: string }[]
 }
 
-/** Chapter item manifest: merged metadata + content/prose hashes. */
-export type ChapterItemManifest = {
+export type ChapterManifest = {
   id: string
   title: LocalizedText
   subtitle?: LocalizedText
@@ -112,15 +123,20 @@ export type ChapterItemManifest = {
   prose?: { file: string; lang: string; hash: string; size: number }[]
 }
 
-/** Book item manifest: merged book.json metadata + per-(chapter, lang) hashes. */
-export type BookItemManifest = {
+export type TocNode = {
+  id: string
+  title: LocalizedText
+  children?: TocNode[]
+}
+
+export type BookEntry = {
   id: string
   name: LocalizedText
   author?: LocalizedText
   description?: LocalizedText
   composed?: number | string
   languages?: string[]
-  toc?: unknown[]
+  toc?: TocNode[]
   image?: string
   style?: BlobRef
   chapters: Record<string, Record<string, BlobRef & { format?: 'html' }>>

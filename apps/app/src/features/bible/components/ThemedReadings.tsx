@@ -74,7 +74,7 @@ export function ThemedReadings() {
 
   const scripturePractices = getAllManifests().filter(
     (m) =>
-      m.categories.includes('scripture') &&
+      m.categories?.includes('scripture') &&
       m.id !== 'gospel-of-the-day' &&
       !m.id.endsWith(':gospel-of-the-day'),
   )

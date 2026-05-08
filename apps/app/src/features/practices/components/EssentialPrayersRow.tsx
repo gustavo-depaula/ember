@@ -20,7 +20,7 @@ const essentialPrayerIds = [
 export function EssentialPrayersRow({ onSelect }: { onSelect: (prayerId: string) => void }) {
   const catalogVersion = useCatalogVersion()
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps when starter / catalog finishes warming.
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps when the catalog finishes warming.
   const items = useMemo(() => {
     const out: { id: string; title: string }[] = []
     for (const id of essentialPrayerIds) {

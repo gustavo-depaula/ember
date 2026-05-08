@@ -159,7 +159,7 @@ function PracticeCard({
                 {t('program.durationDays', { count: manifest.program.totalDays })}
               </Text>
             ) : (
-              manifest.estimatedMinutes > 0 && (
+              (manifest.estimatedMinutes ?? 0) > 0 && (
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
                 </Text>
@@ -260,7 +260,7 @@ export default function PracticeCatalogScreen() {
   const filteredManifests = useMemo(() => {
     let results: PracticeManifest[] = getAllManifests()
     if (activeCategory) {
-      results = results.filter((m) => m.categories.includes(activeCategory))
+      results = results.filter((m) => m.categories?.includes(activeCategory))
     }
     if (pinnedOnly) {
       results = results.filter((m) => {

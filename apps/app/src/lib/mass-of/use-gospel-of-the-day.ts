@@ -65,9 +65,9 @@ export type GospelOfTheDay = {
 }
 
 /**
- * Fetch today's Gospel via the mass-of DataSource. Replaces the legacy
- * runtime fetch from evangelizo/liturgia-diaria. Reads from the locally
- * installed `base` library's vendored ember-extra fixtures.
+ * Fetch today's Gospel via the mass-of DataSource — reads OF Mass propers
+ * from the corpus through `fetchOfAsset` and pulls the gospel reading out
+ * of the resulting formulary.
  */
 export function useGospelOfTheDay(): {
   data: GospelOfTheDay | undefined

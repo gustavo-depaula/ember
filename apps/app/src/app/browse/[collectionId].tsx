@@ -9,10 +9,10 @@ import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getCollectionItems, getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type {
-  BookItemManifest,
+  BookEntry,
   CatalogEntry,
-  ChapterItemManifest,
-  PracticeItemManifest,
+  ChapterManifest,
+  PracticeManifest,
   PrayerItemManifest,
 } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -39,7 +39,7 @@ function groupItemsByKind(refs: { ref: string; entry?: CatalogEntry }[]): Groupe
     if (!entry) continue
     const id = bareId(ref)
     if (entry.kind === 'chapter') {
-      const body = getRememberedManifest<ChapterItemManifest>(entry.hash)
+      const body = getRememberedManifest<ChapterManifest>(entry.hash)
       out.chapters.push({
         id,
         title: (body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }) as Record<
@@ -48,14 +48,14 @@ function groupItemsByKind(refs: { ref: string; entry?: CatalogEntry }[]): Groupe
         >,
       })
     } else if (entry.kind === 'book') {
-      const body = getRememberedManifest<BookItemManifest>(entry.hash)
+      const body = getRememberedManifest<BookEntry>(entry.hash)
       out.books.push({
         id,
         name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
         author: (body?.author ?? entry.author) as Record<string, string> | undefined,
       })
     } else if (entry.kind === 'practice') {
-      const body = getRememberedManifest<PracticeItemManifest>(entry.hash)
+      const body = getRememberedManifest<PracticeManifest>(entry.hash)
       out.practices.push({
         id,
         name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
@@ -76,7 +76,7 @@ function groupItemsByKind(refs: { ref: string; entry?: CatalogEntry }[]): Groupe
 }
 
 export default function CollectionDetailScreen() {
-  const { libraryId } = useLocalSearchParams<{ libraryId: string }>()
+  const { collectionId: bareId } = useLocalSearchParams<{ collectionId: string }>()
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -84,7 +84,7 @@ export default function CollectionDetailScreen() {
   const catalogVersion = useCatalogVersion()
   const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
 
-  const collectionId = `collection/${libraryId}`
+  const collectionId = `collection/${bareId}`
   const collectionEntry = getEntry(collectionId)
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
@@ -110,7 +110,7 @@ export default function CollectionDetailScreen() {
     )
   }
 
-  const name = collectionEntry.name ? localizeContent(collectionEntry.name) : (libraryId ?? '')
+  const name = collectionEntry.name ? localizeContent(collectionEntry.name) : (bareId ?? '')
   const description = collectionEntry.description
     ? localizeContent(collectionEntry.description)
     : undefined

@@ -3,13 +3,6 @@
 # dependencies
 node_modules/
 
-# ember-extra Roman Missal corpus — synced from vendor/ember-extra/ submodule
-# at .pray build time via scripts/sync-ember-extra.sh.
-content/libraries/base/of/
-
-# Mass-content build artifacts
-content/libraries/base/practices/mass/_extracted-blessings.json
-
 # Claude Code session state (worktrees, scheduled tasks, etc.)
 .claude/
 
@@ -64,16 +57,9 @@ apps/app/android
 # Generated hearth assets (build:hearth output)
 content/catechism/
 content/saints/*.webp
-content/books/*/*.pray
-content/books/registry.json
-content/books/*/epubs/*/*.epub
 
 # Divinum Officium source (cloned for parser script)
 .divinum-officium/
-
-# Crawled source texts (not tracked)
-content/libraries/montfort-spirituality/sources/
-content/libraries/alphonsus-liguori/sources/
 
 # Python bytecode caches
 __pycache__/

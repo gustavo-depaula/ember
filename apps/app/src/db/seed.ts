@@ -195,7 +195,11 @@ function collectSeedEvents(): AppEvent[] {
 
     seedSlots(
       manifest.id,
-      d.slots.map((s) => ({ ...s, schedule: JSON.stringify(s.schedule), sortOrder: d.sortOrder })),
+      d.slots.map((s) => ({
+        ...s,
+        schedule: JSON.stringify(s.schedule),
+        sortOrder: d.sortOrder ?? 0,
+      })),
       store,
       events,
     )

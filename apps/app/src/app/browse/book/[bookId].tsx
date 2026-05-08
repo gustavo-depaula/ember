@@ -19,10 +19,10 @@ import {
   getChapterBody,
   loadBookContent,
   type ReaderConfig,
-} from '@/features/libraries/bookReader'
-import { ReaderTocSheet } from '@/features/libraries/ReaderTocSheet'
-import type { ReaderMessage, ReaderWebViewHandle } from '@/features/libraries/ReaderWebView'
-import { ReaderWebView } from '@/features/libraries/ReaderWebView'
+} from '@/features/books/bookReader'
+import { ReaderTocSheet } from '@/features/books/ReaderTocSheet'
+import type { ReaderMessage, ReaderWebViewHandle } from '@/features/books/ReaderWebView'
+import { ReaderWebView } from '@/features/books/ReaderWebView'
 import { readingScale } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -54,7 +54,8 @@ export default function BookReaderScreen() {
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
-    return bookEntry.languages.includes(contentLanguage) ? contentLanguage : bookEntry.languages[0]
+    const langs = bookEntry.languages ?? []
+    return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
   }, [bookEntry, contentLanguage])
 
   const leaves = useMemo(

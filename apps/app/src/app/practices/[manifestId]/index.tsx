@@ -207,13 +207,13 @@ export default function CatalogDetailScreen() {
                   {t('program.durationDays', { count: manifest.program?.totalDays })}
                 </Text>
               ) : (
-                manifest.estimatedMinutes > 0 && (
+                (manifest.estimatedMinutes ?? 0) > 0 && (
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                     {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
                   </Text>
                 )
               )}
-              {manifest.categories.map((cat) => (
+              {(manifest.categories ?? []).map((cat) => (
                 <Text key={cat} fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {t(`category.${cat}`, { defaultValue: cat })}
                 </Text>

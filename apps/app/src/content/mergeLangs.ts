@@ -1,6 +1,6 @@
 /**
  * Recombine a per-language-split structure (shape + per-language payloads)
- * into the multilingual shape that v1 callers (mass-of, etc.) expect.
+ * into the multilingual shape mass-of consumes.
  *
  * Build pipeline emits, for OF Mass propers:
  *   - shape:    the JSON tree with every localized leaf replaced by `null`

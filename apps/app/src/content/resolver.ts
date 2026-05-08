@@ -1,8 +1,7 @@
 /**
  * Catalog-driven resolver. Sync APIs serve the engine's prayer/canticle/prose
  * Proxies from manifests warmed at boot; async APIs fetch flow/chapter/mass
- * content on demand. Public surface mirrors the v1 `registry.ts` so callsites
- * mostly stay put — except the load* functions are now async.
+ * content on demand.
  */
 
 import { batchedLoad } from '@/lib/async'
@@ -10,25 +9,23 @@ import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
 import {
   canonicalize,
-  getCatalog,
+  ensureManifestBody,
   getEntriesByKind,
   getEntry,
   getRememberedManifest,
-  search as indexSearch,
   invalidateMemberOfIndex,
   isHiddenPractice,
   notifyManifestsWarmed,
   rememberManifestBody,
   setCatalog,
 } from './contentIndex'
-import type { ChapterManifest, PracticeManifest } from './manifest-types'
 import type {
-  BookItemManifest,
+  BlobRef,
+  BookEntry,
   Catalog,
-  CatalogItemKind,
-  ChapterItemManifest,
+  ChapterManifest,
   LangSplitItemManifest,
-  PracticeItemManifest,
+  PracticeManifest,
   PrayerItemManifest,
 } from './manifestTypes'
 import { mergeLangs } from './mergeLangs'
@@ -39,32 +36,16 @@ import type {
   FlowSection,
   LectioTrackDef,
   LocalizedContent,
+  LocalizedText,
 } from './types'
 
-// --- Types ---
+export type { TocNode } from './manifestTypes'
 
 export type PrayerAsset = {
-  title: import('./types').LocalizedText
+  title: LocalizedText
   body: FlowSection[]
-  subtitle?: import('./types').LocalizedText
-  source?: import('./types').LocalizedText
-}
-
-export type BookEntry = {
-  id: string
-  name: import('./types').LocalizedText
-  author?: import('./types').LocalizedText
-  description?: import('./types').LocalizedText
-  composed?: number | string
-  languages: string[]
-  image?: string
-  toc?: TocNode[]
-}
-
-export type TocNode = {
-  id: string
-  title: import('./types').LocalizedText
-  children?: TocNode[]
+  subtitle?: LocalizedText
+  source?: LocalizedText
 }
 
 export async function loadCatalogFromHearth(): Promise<Catalog> {
@@ -74,6 +55,8 @@ export async function loadCatalogFromHearth(): Promise<Catalog> {
 }
 
 const PRACTICE_FRAGMENTS_CACHE = new Map<string, FlowDefinition>()
+const proseCache = new Map<string, LocalizedContent>()
+const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
 const CRITICAL_KINDS = ['prayer', 'practice'] as const
 const DEFERRED_KINDS = ['chapter', 'book', 'collection'] as const
@@ -113,80 +96,33 @@ export async function warmDeferredManifests(): Promise<void> {
   notifyManifestsWarmed()
 }
 
-// --- Sync lookups (manifests + prayers + book metadata) ---
-
-function residentFor<T>(id: string): T | undefined {
-  const entry = getEntry(id)
-  if (!entry) return undefined
-  return getRememberedManifest<T>(entry.hash)
-}
-
-// v1 PracticeManifest still has required `flow`/`data`/`tracks` path fields;
-// v2 references those by hash. Stub the path fields until callers migrate.
-function asPracticeManifest(item: PracticeItemManifest): PracticeManifest {
-  return {
-    id: item.id,
-    name: item.name,
-    categories: item.categories ?? [],
-    estimatedMinutes: item.estimatedMinutes ?? 0,
-    icon: item.icon,
-    image: item.image,
-    thumbnail: item.thumbnail,
-    description: item.description ?? ({} as never),
-    history: item.history ?? ({} as never),
-    howToPray: item.howToPray ?? ({} as never),
-    flowMode: item.flowMode ?? 'scroll',
-    completion: item.completion ?? 'flow-end',
-    program: item.program as never,
-    theme: item.theme,
-    flow: '',
-    alternativeTo: item.alternativeTo,
-    pack: item.pack,
-    tags: item.tags ?? [],
-    defaults: item.defaults as never,
-  }
-}
-
-function asChapterManifest(item: ChapterItemManifest): ChapterManifest {
-  return {
-    id: item.id,
-    title: item.title,
-    subtitle: item.subtitle,
-    image: item.image,
-    estimatedMinutes: item.estimatedMinutes,
-    tags: item.tags,
-  }
-}
-
-function asBookEntry(item: BookItemManifest): BookEntry {
-  return {
-    id: item.id,
-    name: item.name,
-    author: item.author,
-    description: item.description,
-    composed: item.composed,
-    languages: item.languages ?? [],
-    image: item.image,
-    toc: item.toc as TocNode[] | undefined,
-  }
+/**
+ * Resolve `id` to a canonical `kind/id` and read the warmed manifest body.
+ * Returns both so callers can dispatch async loads off `canonical` without
+ * re-canonicalizing. Returns `undefined` for both when the id is unknown.
+ */
+function residentItem<T>(
+  id: string,
+  kind: 'prayer' | 'practice' | 'chapter' | 'book' | 'mass',
+): { canonical: string; item: T | undefined } {
+  const canonical = canonicalize(id, kind)
+  if (!canonical) return { canonical: '', item: undefined }
+  const entry = getEntry(canonical)
+  if (entry?.kind !== kind) return { canonical, item: undefined }
+  return { canonical, item: getRememberedManifest<T>(entry.hash) }
 }
 
 export function getManifest(id: string): PracticeManifest | undefined {
-  const canonical = canonicalize(id, 'practice') ?? id
-  const entry = getEntry(canonical)
-  if (entry?.kind !== 'practice') return undefined
-  const item = getRememberedManifest<PracticeItemManifest>(entry.hash)
-  if (!item) return undefined
-  return asPracticeManifest(item)
+  return residentItem<PracticeManifest>(id, 'practice').item
 }
 
 export function getAllManifests(): PracticeManifest[] {
   const out: PracticeManifest[] = []
   for (const [, entry] of getEntriesByKind('practice')) {
-    const item = getRememberedManifest<PracticeItemManifest>(entry.hash)
+    const item = getRememberedManifest<PracticeManifest>(entry.hash)
     if (!item) continue
     if (isHiddenPractice(item.id)) continue
-    out.push(asPracticeManifest(item))
+    out.push(item)
   }
   return out
 }
@@ -197,7 +133,7 @@ export function getManifestIconKey(id: string): string {
 
 export function getManifestCategories(): string[] {
   const cats = new Set<string>()
-  for (const m of getAllManifests()) for (const c of m.categories) cats.add(c)
+  for (const m of getAllManifests()) for (const c of m.categories ?? []) cats.add(c)
   return Array.from(cats).sort()
 }
 
@@ -211,12 +147,8 @@ export function searchManifests(query: string): PracticeManifest[] {
   })
 }
 
-// --- Prayer / canticle resolution ---
-
-const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
-
 function fetchPrayerSync(id: string): PrayerAsset | undefined {
-  const item = residentFor<PrayerItemManifest>(id)
+  const { item } = residentItem<PrayerItemManifest>(id, 'prayer')
   if (!item) return undefined
   return {
     title: item.title,
@@ -228,18 +160,14 @@ function fetchPrayerSync(id: string): PrayerAsset | undefined {
 
 export function resolvePrayer(ref: string): PrayerAsset | undefined {
   if (canticleRefs.has(ref)) return undefined
-  const canonical = canonicalize(ref, 'prayer') ?? `prayer/${ref}`
-  return fetchPrayerSync(canonical)
+  return fetchPrayerSync(ref)
 }
 
 export function resolveCanticle(ref: string): PrayerAsset | undefined {
-  const canonical = canonicalize(ref, 'prayer') ?? `prayer/${ref}`
-  if (!canticleRefs.has(ref) && !canticleRefs.has(canonical.replace('prayer/', '')))
-    return undefined
-  return fetchPrayerSync(canonical)
+  const bare = ref.replace(/^prayer\//, '')
+  if (!canticleRefs.has(bare)) return undefined
+  return fetchPrayerSync(ref)
 }
-
-// --- Alternative groups ---
 
 export type AlternativeGroup = {
   groupId: string
@@ -275,11 +203,8 @@ export function findGroupMemberInSet(
   return undefined
 }
 
-// --- Async leaf loaders ---
-
 export async function loadFlow(id: string): Promise<FlowDefinition | undefined> {
-  const canonical = canonicalize(id, 'practice') ?? id
-  const item = residentFor<PracticeItemManifest>(canonical)
+  const { canonical, item } = residentItem<PracticeManifest>(id, 'practice')
   if (!item?.flowHash) return undefined
   const cached = PRACTICE_FRAGMENTS_CACHE.get(canonical)
   if (cached) return cached
@@ -290,7 +215,7 @@ export async function loadFlow(id: string): Promise<FlowDefinition | undefined> 
     return flow
   }
   const fragmentsList = await Promise.all(
-    item.fragments.map(async (f) => {
+    item.fragments.map(async (f: { hash: string }) => {
       const partial = await getJson<{ fragments?: Record<string, FlowSection[]> }>(f.hash)
       return partial?.fragments
     }),
@@ -306,10 +231,8 @@ export async function loadFlow(id: string): Promise<FlowDefinition | undefined> 
 }
 
 export async function loadPerDayFlow(id: string, day: number): Promise<FlowDefinition | undefined> {
-  const canonical = canonicalize(id, 'practice') ?? id
-  const item = residentFor<PracticeItemManifest>(canonical)
+  const { item } = residentItem<PracticeManifest>(id, 'practice')
   if (!item?.perDay) return undefined
-  // perDay keys may be 'day-01', '01', or just day numbers — try a few.
   const padded = String(day + 1).padStart(2, '0')
   const candidates = [`day-${padded}`, padded, String(day + 1), String(day)]
   for (const key of candidates) {
@@ -319,57 +242,48 @@ export async function loadPerDayFlow(id: string, day: number): Promise<FlowDefin
   return undefined
 }
 
-export async function loadPracticeData(id: string): Promise<Record<string, CycleData> | undefined> {
-  const canonical = canonicalize(id, 'practice') ?? id
-  const item = residentFor<PracticeItemManifest>(canonical)
-  if (!item?.dataHashes?.length) return undefined
-  const out: Record<string, CycleData> = {}
+async function loadHashedRecord<T>(
+  refs: ReadonlyArray<{ name: string; hash: string }> | undefined,
+): Promise<Record<string, T> | undefined> {
+  if (!refs?.length) return undefined
+  const out: Record<string, T> = {}
   await Promise.all(
-    item.dataHashes.map(async (d) => {
-      const stem = d.name.replace(/\.json$/, '')
-      out[stem] = await getJson<CycleData>(d.hash)
+    refs.map(async (r) => {
+      out[r.name.replace(/\.json$/, '')] = await getJson<T>(r.hash)
     }),
   )
   return out
 }
 
-export async function loadPracticeTracks(
+export function loadPracticeData(id: string): Promise<Record<string, CycleData> | undefined> {
+  return loadHashedRecord<CycleData>(
+    residentItem<PracticeManifest>(id, 'practice').item?.dataHashes,
+  )
+}
+
+export function loadPracticeTracks(
   id: string,
 ): Promise<Record<string, LectioTrackDef> | undefined> {
-  const canonical = canonicalize(id, 'practice') ?? id
-  const item = residentFor<PracticeItemManifest>(canonical)
-  if (!item?.trackHashes?.length) return undefined
-  const out: Record<string, LectioTrackDef> = {}
-  await Promise.all(
-    item.trackHashes.map(async (t) => {
-      const stem = t.name.replace(/\.json$/, '')
-      out[stem] = await getJson<LectioTrackDef>(t.hash)
-    }),
+  return loadHashedRecord<LectioTrackDef>(
+    residentItem<PracticeManifest>(id, 'practice').item?.trackHashes,
   )
-  return out
 }
 
-// --- Chapters & books ---
-
 export function getChapterManifest(chapterId: string): ChapterManifest | undefined {
-  const canonical = canonicalize(chapterId, 'chapter') ?? `chapter/${chapterId}`
-  const item = residentFor<ChapterItemManifest>(canonical)
-  if (!item) return undefined
-  return asChapterManifest(item)
+  return residentItem<ChapterManifest>(chapterId, 'chapter').item
 }
 
 export function getAllChapterManifests(): ChapterManifest[] {
   const out: ChapterManifest[] = []
   for (const [, entry] of getEntriesByKind('chapter')) {
-    const item = getRememberedManifest<ChapterItemManifest>(entry.hash)
-    if (item) out.push(asChapterManifest(item))
+    const item = getRememberedManifest<ChapterManifest>(entry.hash)
+    if (item) out.push(item)
   }
   return out
 }
 
 export async function loadChapterContent(chapterId: string): Promise<FlowDefinition | undefined> {
-  const canonical = canonicalize(chapterId, 'chapter') ?? `chapter/${chapterId}`
-  const item = residentFor<ChapterItemManifest>(canonical)
+  const { item } = residentItem<ChapterManifest>(chapterId, 'chapter')
   if (!item?.contentHash) return undefined
   return getJson<FlowDefinition>(item.contentHash.hash)
 }
@@ -382,14 +296,13 @@ export async function prefetchChapterProse(
   chapterId: string,
   langs: string[],
 ): Promise<Map<string, LocalizedContent>> {
-  const canonical = canonicalize(chapterId, 'chapter') ?? `chapter/${chapterId}`
-  const item = residentFor<ChapterItemManifest>(canonical)
+  const { item } = residentItem<ChapterManifest>(chapterId, 'chapter')
   if (!item?.prose) return new Map()
   const out = new Map<string, LocalizedContent>()
   await Promise.all(
     item.prose
-      .filter((p) => !langs.length || langs.includes(p.lang))
-      .map(async (p) => {
+      .filter((p: { lang: string }) => !langs.length || langs.includes(p.lang))
+      .map(async (p: { file: string; lang: string; hash: string }) => {
         const raw = await getText(p.hash)
         const key = `${chapterId}/${p.file}`
         const existing = out.get(key) ?? {}
@@ -397,15 +310,8 @@ export async function prefetchChapterProse(
         out.set(key, existing)
       }),
   )
-  // Stash for synchronous reads from the engine's prose Proxy.
   for (const [k, v] of out) proseCache.set(k, v)
   return out
-}
-
-const proseCache = new Map<string, LocalizedContent>()
-
-export function rememberProse(key: string, content: LocalizedContent): void {
-  proseCache.set(key, content)
 }
 
 export function getProseText(filePath: string): LocalizedContent | undefined {
@@ -413,17 +319,14 @@ export function getProseText(filePath: string): LocalizedContent | undefined {
 }
 
 export function getBookEntry(bookId: string): BookEntry | undefined {
-  const canonical = canonicalize(bookId, 'book') ?? `book/${bookId}`
-  const item = residentFor<BookItemManifest>(canonical)
-  if (!item) return undefined
-  return asBookEntry(item)
+  return residentItem<BookEntry>(bookId, 'book').item
 }
 
 export function getAllBookEntries(): BookEntry[] {
   const out: BookEntry[] = []
   for (const [, entry] of getEntriesByKind('book')) {
-    const item = getRememberedManifest<BookItemManifest>(entry.hash)
-    if (item) out.push(asBookEntry(item))
+    const item = getRememberedManifest<BookEntry>(entry.hash)
+    if (item) out.push(item)
   }
   return out
 }
@@ -433,12 +336,9 @@ export async function loadBookChapterText(
   chapterId: string,
   lang: string,
 ): Promise<string | undefined> {
-  const canonical = canonicalize(bookId, 'book') ?? `book/${bookId}`
-  const item = residentFor<BookItemManifest>(canonical)
+  const { item } = residentItem<BookEntry>(bookId, 'book')
   if (!item) return undefined
-  const langMap = item.chapters[chapterId]
-  if (!langMap) return undefined
-  const ref = langMap[lang]
+  const ref = item.chapters[chapterId]?.[lang]
   if (!ref) return undefined
   return getText(ref.hash)
 }
@@ -454,37 +354,14 @@ export async function loadMassProper(
   const canonical = canonicalize(massId, 'mass') ?? massId
   const entry = getEntry(canonical)
   if (!entry) return undefined
-  const resolved =
-    getRememberedManifest<LangSplitItemManifest>(entry.hash) ??
-    (await (async () => {
-      const item = await getJson<LangSplitItemManifest>(entry.hash)
-      rememberManifestBody(entry.hash, item)
-      return item
-    })())
+  const resolved = await ensureManifestBody<LangSplitItemManifest>(entry.hash)
   const requestedLangs = langs.filter((l) => resolved.langs[l])
   const [shape, ...langPayloads] = await Promise.all([
     getJson<unknown>(resolved.shape.hash),
-    ...requestedLangs.map((l) => getJson<unknown>(resolved.langs[l].hash)),
+    ...requestedLangs.map((l: string) => getJson<unknown>((resolved.langs[l] as BlobRef).hash)),
   ])
   const payloadsByLang = Object.fromEntries(
     requestedLangs.map((l, i) => [l, langPayloads[i]] as const),
   )
   return mergeLangs(shape, payloadsByLang)
-}
-
-// --- Misc ---
-
-export function clearSources(): void {
-  PRACTICE_FRAGMENTS_CACHE.clear()
-  proseCache.clear()
-}
-
-export function search(query: string, kindFilter?: CatalogItemKind) {
-  return indexSearch(query, kindFilter)
-}
-
-export { setCatalog }
-
-export function getCatalogVersion(): number {
-  return getCatalog().version
 }

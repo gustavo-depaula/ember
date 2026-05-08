@@ -81,28 +81,28 @@ async function fetchBlob(hash: string): Promise<Uint8Array> {
 }
 
 export async function getBlob(hash: string): Promise<Uint8Array> {
-  const cached = await readFromCache(hash)
-  if (cached) return cached
+  // Check inflight first so concurrent callers for the same hash share one
+  // pipeline (cache check + fetch + write) instead of racing each other.
+  const pending = inflight.get(hash)
+  if (pending) return pending
 
-  let pending = inflight.get(hash)
-  if (!pending) {
-    pending = (async () => {
-      const data = await fetchBlob(hash)
-      try {
-        await writeToCache(hash, data)
-      } catch (err) {
-        console.warn(`[store] write failed for ${hash.slice(0, 8)}:`, err)
-      }
-      return data
-    })()
-    inflight.set(hash, pending)
+  const work = (async () => {
+    const cached = await readFromCache(hash)
+    if (cached) return cached
+    const data = await fetchBlob(hash)
     try {
-      return await pending
-    } finally {
-      inflight.delete(hash)
+      await writeToCache(hash, data)
+    } catch (err) {
+      console.warn(`[store] write failed for ${hash.slice(0, 8)}:`, err)
     }
+    return data
+  })()
+  inflight.set(hash, work)
+  try {
+    return await work
+  } finally {
+    inflight.delete(hash)
   }
-  return pending
 }
 
 export async function getJson<T>(hash: string): Promise<T> {

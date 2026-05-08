@@ -122,7 +122,10 @@ export default function CollectionsScreen() {
                 key={c.id}
                 entry={c}
                 onPress={() =>
-                  router.push({ pathname: '/browse/[libraryId]', params: { libraryId: c.bareId } })
+                  router.push({
+                    pathname: '/browse/[collectionId]',
+                    params: { collectionId: c.bareId },
+                  })
                 }
               />
             ))}

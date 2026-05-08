@@ -7,11 +7,11 @@ import { beforeEach, describe, expect, it, vi } from 'vitest'
 
 import { rememberManifestBody, resetContentIndex, setCatalog } from '@/content/contentIndex'
 import type {
-  BookItemManifest,
-  ChapterItemManifest,
+  BookEntry,
+  ChapterManifest,
   CollectionItemManifest,
   LangSplitItemManifest,
-  PracticeItemManifest,
+  PracticeManifest,
 } from '@/content/manifestTypes'
 
 vi.mock('@/content/store', () => ({
@@ -58,7 +58,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
       trackHashes: [{ name: 't', hash: 'track-t', size: 1 }],
       perDay: { '1': { hash: 'day-1', size: 1 } },
       images: [{ rel: 'i', hash: 'img-1', size: 1, mime: 'image/webp' }],
-    } as unknown as PracticeItemManifest)
+    } as unknown as PracticeManifest)
 
     await pinItem('practice/rosary')
 
@@ -79,7 +79,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
         { file: 'a', lang: 'en-US', hash: 'prose-en', size: 1 },
         { file: 'a', lang: 'pt-BR', hash: 'prose-pt', size: 1 },
       ],
-    } as unknown as ChapterItemManifest)
+    } as unknown as ChapterManifest)
 
     await pinItem('chapter/intro')
     const passed = vi.mocked(prefetchMock).mock.calls[0][0].map((e: any) => e.hash)
@@ -97,7 +97,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
         'ch-2': { 'en-US': { hash: 'ch2-en', size: 1 }, 'pt-BR': { hash: 'ch2-pt', size: 1 } },
       },
       images: [{ rel: 'i', hash: 'img', size: 1, mime: 'image/webp' }],
-    } as unknown as BookItemManifest)
+    } as unknown as BookEntry)
 
     await pinItem('book/foo')
     const passed = vi.mocked(prefetchMock).mock.calls[0][0].map((e: any) => e.hash)
@@ -130,7 +130,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
     rememberManifestBody('p-rosary', {
       id: 'practice/rosary',
       flowHash: { hash: 'flow', size: 1 },
-    } as unknown as PracticeItemManifest)
+    } as unknown as PracticeManifest)
 
     await pinItem('collection/marian')
     const passed = vi.mocked(prefetchMock).mock.calls[0][0].map((e: any) => e.hash)
@@ -147,7 +147,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
     rememberManifestBody('p-rosary', {
       id: 'practice/rosary',
       flowHash: { hash: 'shared-flow', size: 1 },
-    } as unknown as PracticeItemManifest)
+    } as unknown as PracticeManifest)
 
     await pinItem('practice/rosary')
     await pinItem('prayer/our-father')

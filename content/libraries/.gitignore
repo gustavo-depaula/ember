@@ -1,6 +1,0 @@
-*.pray
-*.epub
-registry.json
-# Build artifact: style.css copied from book.css by build script
-**/books/*/style.css
-**/books/*/*/style.css

@@ -54,8 +54,8 @@ export function CollectionCard({
     <Pressable
       onPress={() =>
         router.push({
-          pathname: '/browse/[libraryId]',
-          params: { libraryId: bareId(collectionId) },
+          pathname: '/browse/[collectionId]',
+          params: { collectionId: bareId(collectionId) },
         })
       }
       accessibilityRole="link"

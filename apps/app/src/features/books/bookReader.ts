@@ -1,7 +1,7 @@
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
 import { getEntry, getRememberedManifest } from '@/content/contentIndex'
-import type { BookItemManifest } from '@/content/manifestTypes'
+import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getJson, getText } from '@/content/store'
 
@@ -398,8 +398,8 @@ export async function loadBookContent(
   const entry = getEntry(corpusId)
   if (!entry) return { css: '', chapters: new Map(), images: new Map() }
 
-  let manifest = getRememberedManifest<BookItemManifest>(entry.hash)
-  if (!manifest) manifest = await getJson<BookItemManifest>(entry.hash)
+  let manifest = getRememberedManifest<BookEntry>(entry.hash)
+  if (!manifest) manifest = await getJson<BookEntry>(entry.hash)
 
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
 

@@ -59,7 +59,7 @@ There is no library boundary on disk — practices, prayers, books, and chapters
 
 Each practice has a `PracticeManifest` with metadata (name, description, history, how to pray), display config (flowMode, completion, theme), scheduling defaults (tier, time block, schedule), and a list of flows. Content fields come from the manifest at runtime — the DB stores only user personalization.
 
-See `apps/app/src/content/manifest-types.ts` for the full type definitions (`PracticeManifest`, `FlowEntry`, `SlotDefault`).
+See `apps/app/src/content/manifestTypes.ts` for the full type definitions (`PracticeManifest`, `FlowEntry`, `SlotDefault`).
 
 ### Flow Section Types
 

@@ -119,11 +119,12 @@ GitHub Pages doesn't allow custom `Cache-Control`, but every fetched URL is cont
 
 | Module | Role |
 |---|---|
-| `apps/app/src/content/store.ts` | Content-addressed blob cache. Native: filesystem `documentDirectory/blobs/{ab}/{cd}/{hash}`. Web: IndexedDB key `blob:{hash}`. In-flight dedup so concurrent `getBlob(h)` calls share one fetch. |
-| `apps/app/src/content/contentIndex.ts` | In-memory id→hash map, built from `catalog.json`. `getCollectionsForItem(id)` reverse-indexes membership. A `catalogVersion` counter bumps on changes; React subscribes via `useCatalogVersion()` to re-render when deferred manifests warm. |
+| `apps/app/src/content/store.ts` | Content-addressed blob cache. Native: filesystem `documentDirectory/blobs/{ab}/{cd}/{hash}`. Web: IndexedDB key `blob:{hash}`. In-flight dedup so concurrent `getBlob(h)` calls share one fetch+write pipeline. |
+| `apps/app/src/content/contentIndex.ts` | In-memory id→hash map, built from `catalog.json`. Holds remembered manifest bodies + `ensureManifestBody(hash)` (read-or-fetch). `getCollectionsForItem(id)` reverse-indexes membership. A `catalogVersion` counter bumps on changes; React subscribes via `useCatalogVersion()` to re-render when deferred manifests warm. |
 | `apps/app/src/content/resolver.ts` | Public surface for the rest of the app. Sync APIs (`resolvePrayer`, `getManifest`, `getBookEntry`) read from the always-resident manifest set. Async APIs (`loadFlow`, `loadChapterContent`, `loadMassProper`) fetch on demand and merge per-language Mass-proper blobs back into the multilingual shape callers expect. `canonicalize(id, hintKind)` is a hard filter when `hintKind` is set — no fallthrough across kinds. |
+| `apps/app/src/content/manifestTypes.ts` | Single source of truth for catalog + manifest shapes (`PracticeManifest`, `ChapterManifest`, `BookEntry`, `CollectionItemManifest`, `LangSplitItemManifest`, etc.) plus plan-of-life types (`ProgramConfig`, `SlotDefault`, `AlternativeToRef`, `TocNode`). |
+| `apps/app/src/content/fetchOfAsset.ts` | v1-asset-path → v2-corpus-id router. Translates legacy paths the `mass-of` package still passes through `EngineContext.fetchAsset` (e.g. `of/masses/tempore/...json`) into corpus ids and dispatches to the resolver. |
 | `apps/app/src/features/pinning/` | Pinning manager + `usePinToggle` hook + `PinToggle` pill. Walks an item recursively (per-kind `COLLECTORS` table) and prefetches every blob it references. Pinned-items list lives in `preferences['pinned-items']` (a JSON array; no new SQLite tables). Practices added to plan-of-life auto-pin. |
-| `apps/app/src/features/libraries/libraryManager.ts` | v1→v2 compat shim. The legacy `library/` UI keeps rendering by mapping the old install/remove API onto pin/unpin and reconstructing a v1 `Library` shape from the v2 collection manifest. |
 
 **Boot sequence** (`apps/app/src/app/_layout.tsx`):
 
@@ -249,12 +250,15 @@ ember/
         components/                   (shared UI components)
         stores/                       (Zustand stores)
         db/                           (SQLite schema, migrations, repositories)
-        content/                      (content resolution layer)
-          registry.ts                 (ContentRegistry — aggregates installed libraries)
+        content/                      (content resolution layer — Hearth v2 corpus)
+          store.ts                    (content-addressed blob cache, prefetch, LRU)
+          contentIndex.ts             (catalog + remembered manifest bodies)
+          resolver.ts                 (sync + async lookups for the rest of the app)
+          manifestTypes.ts            (catalog + manifest type definitions)
+          fetchOfAsset.ts             (legacy OF-path → corpus-id router for mass-of)
+          mergeLangs.ts               (recombine per-language Mass-proper blobs)
           engineContext.ts            (wires app deps into EngineContext)
-          manifest-types.ts           (PracticeManifest, SlotDefault — app-specific)
-          sources/
-            filesystem.ts             (loads libraries from disk)
+          useCatalogVersion.ts        (useSyncExternalStore subscriber)
         lib/                          (app-specific utilities)
           liturgical/                 (re-exports @ember/liturgical + useObligations hook)
           mass-propers/               (re-exports @ember/mass-propers + hook + propers-data)

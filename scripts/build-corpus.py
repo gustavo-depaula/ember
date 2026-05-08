@@ -350,7 +350,7 @@ def build_books(b: Builder) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
         return
-    book_css = ROOT / "content" / "libraries" / "book.css"
+    book_css = CONTENT / "book.css"
     style_entry = None
     if book_css.is_file():
         sh, ss = b.write_blob(book_css.read_bytes())

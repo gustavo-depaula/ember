@@ -148,7 +148,7 @@ export default function RootLayout() {
         setBootStatus(i18n.t('boot.fetchingCatalog'))
         // 2. Fetch catalog (network-first; falls back to SQLite cache).
         await loadCatalogFromHearth().catch((err) => {
-          console.warn('[startup] catalog fetch failed; proceeding with starter only:', err)
+          console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
         })
 
         setBootStatus(i18n.t('boot.preparingContent'))
