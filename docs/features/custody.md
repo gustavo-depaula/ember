@@ -105,10 +105,10 @@ App Group `group.me.dpgu.ember.custody` shares state between the main app and ex
 
 Android has no first-party Family Controls equivalent. Three approaches; one was just killed.
 
-| Path | Viable | Effort | Shields |
+| Path | Viable | Complexity | Shields |
 |---|---|---|---|
-| VPN service + DNS filter | ✓ | ~2–3 weeks | Web domains |
-| UsageStatsManager + foreground service + Activity overlay | ✓ | ~3–4 weeks | Apps |
+| VPN service + DNS filter | ✓ | Moderate (Kotlin VPN service, DNS resolver, single-VPN-slot UX) | Web domains |
+| UsageStatsManager + foreground service + Activity overlay | ✓ | High (long-running foreground service; OEM-variable battery behavior; full-screen Activity overlay UX) | Apps |
 | AccessibilityService | ✗ killed | — | — |
 
 The **October 30, 2025 Google Play policy update** restricted the AccessibilityService API to genuine disability features; non-accessibility automation is prohibited and apps in the focus-blocker category have been removed. Ember's Android approach avoids `AccessibilityService` entirely.
@@ -251,9 +251,13 @@ Web hidden in v1.
 
 Track-as-milestone convention. Two milestones: **Custody** (v1) and **Custody — v2** (Android bound mode).
 
-### Custody — v1 (~6–9 weeks)
+### Custody — v1
 
-#### Phase A — Foundation (cross-platform, no native) — ~1.5 weeks
+Phases A and B are JS-only and reversible. Phase C is the platform-locked native step and the dominant complexity gate. Phases D and E close the loop.
+
+#### Phase A — Foundation (cross-platform, no native)
+
+Complexity: **Moderate.** Pure JS work; the only non-trivial bit is extending the migration runner to support multi-file migrations.
 
 1. Spec promotion (this document).
 2. Migration mechanic: extend `apps/app/src/db/client.ts` for multi-file migrations.
@@ -263,7 +267,9 @@ Track-as-milestone convention. Two milestones: **Custody** (v1) and **Custody �
 6. i18n keys: en-US + pt-BR.
 7. Expo Router scaffold under `apps/app/src/app/custody/`.
 
-#### Phase B — Spiritual surface (cross-platform, JS-only) — ~1.5 weeks
+#### Phase B — Spiritual surface (cross-platform, JS-only)
+
+Complexity: **Moderate.** UI breadth is the cost (Custody screens, Examen integration, Confessio falls-log, home-today block). All reversible.
 
 8. `CommitmentList` + `CommitmentEditor` + `SeverityPicker` + `FrictionPicker` (light/firm only at this stage).
 9. Custody session runner + bells + anchor picker.
@@ -274,7 +280,11 @@ Track-as-milestone convention. Two milestones: **Custody** (v1) and **Custody �
 
 Phase B is independently shippable: Ember v(N+1) without bound mode but with the spiritual frame. Validates the data model before the native dive.
 
-#### Phase C — iOS bound mode — ~3–4 weeks
+#### Phase C — iOS bound mode
+
+Complexity: **High — and gated.** This is the project's first custom Expo native module, the first config plugin, the first time we leave managed Expo for a custom dev client, and it ships *three* iOS extension targets (`DeviceActivityMonitor`, `ShieldConfiguration`, `ShieldAction`) wired through an App Group. Apple's Family Controls entitlement is an external dependency that gates App Store distribution (lead time: days–weeks; dev builds work without it). Family Controls does not run in the simulator — every meaningful test requires a physical iPhone.
+
+Risks: entitlement denial or delay; `react-native-device-activity` proving insufficient for the prayer-shield UI (fallback: fork or wrap); App Review pushback on the Custody framing (fallback: refine justification, resubmit).
 
 14. **File the Family Controls Individual entitlement request for `me.dpgu.ember`** — before any code. Lead time: days–weeks.
 15. Add `react-native-device-activity` to `apps/app/package.json`; switch to a custom dev client.
@@ -289,22 +299,30 @@ Phase B is independently shippable: Ember v(N+1) without bound mode but with the
 24. Manual QA on a physical iPhone (simulator does not support Family Controls).
 25. TestFlight build + Apple App Review prep with Family Controls justification.
 
-#### Phase D — Android handoff + DNS walkthrough — ~3–5 days
+#### Phase D — Android handoff + DNS walkthrough
+
+Complexity: **Low.** Mostly copy, screenshots, and a deep-link helper.
 
 26. Digital Wellbeing deep-link helper.
 27. NextDNS / AdGuard DNS setup walkthrough.
 28. Render bound severity as "coming to Android in v2" with the DNS walkthrough as today's recommendation.
 
-#### Phase E — Polish, locales, docs — ~3–5 days
+#### Phase E — Polish, locales, docs
+
+Complexity: **Low**, but the pt-BR catechetical-vocabulary review needs a careful pass — *propósito*, *firme propósito de emenda*, *custódia dos sentidos* are theological terms that must land precisely.
 
 29. pt-BR catechetical-vocabulary review (*propósito*, *firme propósito de emenda*, *custódia dos sentidos*).
 30. Saint-quote pool for shield-empty defaults.
 31. `docs/journal.md` entries for Family Controls quirks.
 32. Screenshots and store-listing copy.
 
-### Custody — v2 (Android bound mode, ~4–6 weeks)
+### Custody — v2 (Android bound mode)
 
-#### Phase F — Android VPN + DNS (web targets) — ~2 weeks
+The platform's first Kotlin native module. Two enforcement halves (web via VPN/DNS, apps via UsageStats), then OEM polish. No off-the-shelf Expo Android equivalent of `react-native-device-activity` — this is hand-written.
+
+#### Phase F — Android VPN + DNS (web targets)
+
+Complexity: **Moderate–High.** First Kotlin Expo module; VPN service must be implemented carefully (single-VPN-slot conflict, DNS-over-HTTPS bypass on some browsers, graceful denial path). Reference implementation: [DNSNet](https://github.com/t895/DNSNet).
 
 33. `apps/app/modules/ember-custody-android/` — Kotlin Expo module skeleton.
 34. `EmberVpnService extends VpnService` — DNS interception, per-commitment domain blocklist.
@@ -312,7 +330,9 @@ Phase B is independently shippable: Ember v(N+1) without bound mode but with the
 36. First-run consent: explain VPN slot conflict; system VPN dialog; handle denial.
 37. Web-target commitments now show "Active on Android".
 
-#### Phase G — Android UsageStats + shield Activity (app targets) — ~3 weeks
+#### Phase G — Android UsageStats + shield Activity (app targets)
+
+Complexity: **High.** A long-running foreground service that polls and launches Activities is exactly the surface OEMs aggressively kill. The 1–3s detection delay is a UX limit we cannot engineer around. The `PACKAGE_USAGE_STATS` deep-link flow is unfamiliar to most users; onboarding copy carries the load.
 
 38. `EmberMonitorService` foreground service.
 39. UsageStats poll loop + foreground-app detection.
@@ -321,7 +341,9 @@ Phase B is independently shippable: Ember v(N+1) without bound mode but with the
 42. Permission flows: `PACKAGE_USAGE_STATS` deep-link, battery-optimization opt-out.
 43. Friction modes implemented in `PrayerShieldActivity`.
 
-#### Phase H — Android polish — ~3–5 days
+#### Phase H — Android polish
+
+Complexity: **Low per task, but the OEM matrix is irreducible.** Samsung One UI, Xiaomi MIUI, OnePlus OxygenOS each kill background services differently. Real devices required for verification — emulators do not reproduce these behaviors.
 
 44. Battery / wake-lock tuning; verify foreground service survives Doze and App Standby.
 45. OEM-specific testing (Samsung One UI, Xiaomi MIUI, OnePlus OxygenOS).
