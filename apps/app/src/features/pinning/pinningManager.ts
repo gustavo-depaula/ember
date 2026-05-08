@@ -47,17 +47,66 @@ export function isPinned(id: string): boolean {
   return pinned.some((p) => p.id === id)
 }
 
+type CollectBody = (body: unknown, add: (ref: { hash: string; size: number }) => void) => string[]
+
+/** Per-kind body walker. Returns child item-ids to visit; pushes leaf BlobRefs to `add`. */
+const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
+  collection: (body) => (body as CollectionItemManifest).items?.map((i) => i.ref) ?? [],
+  practice: (body, add) => {
+    const p = body as PracticeItemManifest
+    if (p.flowHash) add(p.flowHash)
+    p.fragments?.forEach(add)
+    p.dataHashes?.forEach(add)
+    p.trackHashes?.forEach(add)
+    if (p.perDay) Object.values(p.perDay).forEach(add)
+    p.images?.forEach(add)
+    return []
+  },
+  chapter: (body, add) => {
+    const c = body as ChapterItemManifest
+    if (c.contentHash) add(c.contentHash)
+    c.prose?.forEach(add)
+    return []
+  },
+  book: (body, add) => {
+    const b = body as BookItemManifest
+    if (b.style) add(b.style)
+    if (b.chapters) {
+      for (const langs of Object.values(b.chapters)) Object.values(langs).forEach(add)
+    }
+    b.images?.forEach(add)
+    return []
+  },
+  mass: (body, add) => addLangSplit(body as LangSplitItemManifest, add),
+  'of-ordinary': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
+  'of-preface': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
+  'of-eucharistic-prayer': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
+}
+
+function addLangSplit(
+  m: LangSplitItemManifest,
+  add: (ref: { hash: string; size: number }) => void,
+): string[] {
+  if (m.shape) add(m.shape)
+  if (m.langs) Object.values(m.langs).forEach(add)
+  return []
+}
+
 /** Walk an item recursively, collecting every blob hash it references. */
 async function collectBlobsFor(id: string): Promise<PrefetchEntry[]> {
   const out: PrefetchEntry[] = []
   const seen = new Set<string>()
 
+  function add(ref: { hash: string; size: number }): void {
+    if (seen.has(ref.hash)) return
+    seen.add(ref.hash)
+    out.push({ hash: ref.hash, size: ref.size })
+  }
+
   async function visitItem(itemId: string): Promise<void> {
     const entry = getEntry(itemId)
-    if (!entry) return
-    if (seen.has(entry.hash)) return
-    seen.add(entry.hash)
-    out.push({ hash: entry.hash, size: entry.size })
+    if (!entry || seen.has(entry.hash)) return
+    add({ hash: entry.hash, size: entry.size })
 
     let body = getRememberedManifest<unknown>(entry.hash)
     if (!body) {
@@ -69,62 +118,10 @@ async function collectBlobsFor(id: string): Promise<PrefetchEntry[]> {
       }
     }
 
-    await visitBody(entry, body)
-  }
-
-  async function visitBody(entry: CatalogEntry, body: unknown): Promise<void> {
-    switch (entry.kind) {
-      case 'collection': {
-        const c = body as CollectionItemManifest
-        for (const item of c.items ?? []) {
-          await visitItem(item.ref)
-        }
-        return
-      }
-      case 'practice': {
-        const p = body as PracticeItemManifest
-        if (p.flowHash) addBlob(p.flowHash.hash, p.flowHash.size)
-        for (const f of p.fragments ?? []) addBlob(f.hash, f.size)
-        for (const d of p.dataHashes ?? []) addBlob(d.hash, d.size)
-        for (const t of p.trackHashes ?? []) addBlob(t.hash, t.size)
-        for (const day of Object.values(p.perDay ?? {})) addBlob(day.hash, day.size)
-        for (const im of p.images ?? []) addBlob(im.hash, im.size)
-        return
-      }
-      case 'chapter': {
-        const c = body as ChapterItemManifest
-        if (c.contentHash) addBlob(c.contentHash.hash, c.contentHash.size)
-        for (const p of c.prose ?? []) addBlob(p.hash, p.size)
-        return
-      }
-      case 'book': {
-        const b = body as BookItemManifest
-        if (b.style) addBlob(b.style.hash, b.style.size)
-        for (const langs of Object.values(b.chapters ?? {})) {
-          for (const ref of Object.values(langs)) addBlob(ref.hash, ref.size)
-        }
-        for (const im of b.images ?? []) addBlob(im.hash, im.size)
-        return
-      }
-      case 'mass':
-      case 'of-ordinary':
-      case 'of-preface':
-      case 'of-eucharistic-prayer': {
-        const m = body as LangSplitItemManifest
-        if (m.shape) addBlob(m.shape.hash, m.shape.size)
-        for (const ref of Object.values(m.langs ?? {})) addBlob(ref.hash, ref.size)
-        return
-      }
-      // prayer / of-data / checkup: only the manifest blob (already added).
-      default:
-        return
-    }
-  }
-
-  function addBlob(hash: string, size: number): void {
-    if (seen.has(hash)) return
-    seen.add(hash)
-    out.push({ hash, size })
+    const collector = COLLECTORS[entry.kind]
+    if (!collector) return
+    const children = collector(body, add)
+    await Promise.all(children.map(visitItem))
   }
 
   await visitItem(id)

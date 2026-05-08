@@ -30,7 +30,11 @@ import { ConfirmHost, confirm } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
-import { loadCatalogFromHearth, warmResidentManifests } from '@/content/resolver'
+import {
+  loadCatalogFromHearth,
+  warmCriticalManifests,
+  warmDeferredManifests,
+} from '@/content/resolver'
 import { registerStarter } from '@/content/starter'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
@@ -135,10 +139,10 @@ export default function RootLayout() {
           console.warn('[startup] pinned rehydrate failed:', err)
         })
 
-        // 4. Warm always-resident manifests (prayers, practice/chapter/book/collection
-        //    item-manifests). Synchronous resolver lookups depend on these.
-        await warmResidentManifests().catch((err) => {
-          console.warn('[startup] warm manifests failed:', err)
+        // 4. Warm only the manifests synchronous resolvers (engine Proxies) need
+        //    before first paint. Books/chapters/collections warm in the background.
+        await warmCriticalManifests().catch((err) => {
+          console.warn('[startup] warm critical manifests failed:', err)
         })
 
         await Promise.all([seedPractices(), seedCursors()])
@@ -150,12 +154,13 @@ export default function RootLayout() {
           .then(() => rescheduleAllReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
 
-        // Background: refresh catalog + reseed periodically.
         InteractionManager.runAfterInteractions(() => {
-          loadCatalogFromHearth()
-            .then(() => warmResidentManifests())
+          warmDeferredManifests()
+            .then(() => loadCatalogFromHearth())
+            .then(() => warmCriticalManifests())
+            .then(() => warmDeferredManifests())
             .then(() => seedPractices())
-            .catch((err) => console.warn('Catalog refresh failed:', err))
+            .catch((err) => console.warn('Background catalog refresh failed:', err))
         })
       }
     }

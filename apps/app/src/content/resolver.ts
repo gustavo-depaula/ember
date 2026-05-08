@@ -1,18 +1,11 @@
 /**
- * Hearth v2 content resolver — replacement for `registry.ts`.
- *
- * Public API mirrors the registry where possible to keep callsite churn down,
- * but flow / chapter content / mass propers are now async (they fetch on demand
- * and the engine's TanStack Query layer handles loading states).
- *
- * Boot warms a small set of "always-resident" manifests (every prayer item,
- * every practice item-manifest, every chapter item-manifest, every book
- * item-manifest, every collection) so synchronous resolvers (used by
- * `engineContext` Proxies) can return without an async fetch. The catalog
- * itself fits in ~500KB — first-launch cost on a slow connection is acceptable
- * because the embedded starter pack is functional offline.
+ * Catalog-driven resolver. Sync APIs serve the engine's prayer/canticle/prose
+ * Proxies from manifests warmed at boot; async APIs fetch flow/chapter/mass
+ * content on demand. Public surface mirrors the v1 `registry.ts` so callsites
+ * mostly stay put — except the load* functions are now async.
  */
 
+import { batchedLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
 import {
@@ -37,7 +30,7 @@ import type {
   PrayerItemManifest,
 } from './manifestTypes'
 import { mergeLangs } from './mergeLangs'
-import { getJson } from './store'
+import { getJson, getText } from './store'
 import type {
   CycleData,
   FlowDefinition,
@@ -72,21 +65,14 @@ export type TocNode = {
   children?: TocNode[]
 }
 
-// --- Qualified ID helpers (back-compat) ---
-
-/**
- * In v1 this combined a libraryId + practiceId into a `lib:practice` key.
- * In v2 ids are already qualified by kind (e.g. `practice/rosary`) so the
- * libraryId argument is ignored. Kept for callsite back-compat.
- */
+// `qualifyId` and `parseQualifiedId` are kept for callsite back-compat — the
+// libraryId arg is now ignored since v2 ids are kind-prefixed (e.g. `practice/rosary`).
 export function qualifyId(_libraryId: string, id: string): string {
   if (id.includes('/')) return id
   return `practice/${id}`
 }
 
 export function parseQualifiedId(id: string): { libraryId: string; practiceId: string } {
-  // In v2 there is no library; expose the kind as the libraryId for consumers
-  // that only use it as a stable bucket-key (e.g. analytics).
   if (id.includes('/')) {
     const idx = id.indexOf('/')
     return { libraryId: id.slice(0, idx), practiceId: id.slice(idx + 1) }
@@ -94,52 +80,54 @@ export function parseQualifiedId(id: string): { libraryId: string; practiceId: s
   return { libraryId: '', practiceId: id }
 }
 
-// --- Catalog management ---
-
 export async function loadCatalogFromHearth(): Promise<Catalog> {
   const catalog = await fetchHearth<Catalog>('catalog.json', { networkFirst: true })
   setCatalog(catalog)
   return catalog
 }
 
-// --- Boot warming: always-resident manifests ---
-
 const PRACTICE_FRAGMENTS_CACHE = new Map<string, FlowDefinition>()
 
-/**
- * Fetch all "always-resident" item manifests so synchronous resolvers work.
- * Each manifest blob is small (<2KB typical), and once cached in `cache` table
- * + the on-disk blob store, subsequent boots are reads only.
- */
-export async function warmResidentManifests(opts?: {
-  onProgress?: (done: number, total: number) => void
-}): Promise<void> {
-  const tasks: Array<{ id: string; hash: string }> = []
-  for (const kind of ['prayer', 'practice', 'chapter', 'book', 'collection'] as const) {
-    for (const [id, entry] of getEntriesByKind(kind)) {
-      if (getRememberedManifest(entry.hash) === undefined) {
-        tasks.push({ id, hash: entry.hash })
-      }
+const CRITICAL_KINDS = ['prayer', 'practice'] as const
+const DEFERRED_KINDS = ['chapter', 'book', 'collection'] as const
+
+async function warmKinds(
+  kinds: ReadonlyArray<'prayer' | 'practice' | 'chapter' | 'book' | 'collection'>,
+): Promise<void> {
+  const hashes: string[] = []
+  for (const kind of kinds) {
+    for (const [, entry] of getEntriesByKind(kind)) {
+      if (getRememberedManifest(entry.hash) === undefined) hashes.push(entry.hash)
     }
   }
-  let done = 0
-  const concurrency = 16
-  let cursor = 0
-  async function worker() {
-    while (cursor < tasks.length) {
-      const i = cursor++
+  await batchedLoad(
+    hashes,
+    async (hash) => {
       try {
-        const body = await getJson<unknown>(tasks[i].hash)
-        rememberManifestBody(tasks[i].hash, body)
+        rememberManifestBody(hash, await getJson<unknown>(hash))
       } catch (err) {
-        console.warn(`[resolver] warm ${tasks[i].id}:`, err)
+        console.warn(`[resolver] warm ${hash.slice(0, 8)}:`, err)
       }
-      done++
-      opts?.onProgress?.(done, tasks.length)
-    }
-  }
+    },
+    16,
+  )
+}
+
+/** Block boot only on what synchronous resolvers (engine Proxies) need. */
+export async function warmCriticalManifests(): Promise<void> {
+  await warmKinds(CRITICAL_KINDS)
+}
+
+/** Run after first paint; populates collection / book / chapter manifests. */
+export async function warmDeferredManifests(): Promise<void> {
+  await warmKinds(DEFERRED_KINDS)
   invalidateMemberOfIndex()
-  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, worker))
+}
+
+/** Back-compat: full warm in one call (no longer used on the boot path). */
+export async function warmResidentManifests(): Promise<void> {
+  await warmCriticalManifests()
+  await warmDeferredManifests()
 }
 
 // --- Sync lookups (manifests + prayers + book metadata) ---
@@ -150,10 +138,9 @@ function residentFor<T>(id: string): T | undefined {
   return getRememberedManifest<T>(entry.hash)
 }
 
-/** Convert a v2 PracticeItemManifest into the v1 PracticeManifest shape that callers expect. */
+// v1 PracticeManifest still has required `flow`/`data`/`tracks` path fields;
+// v2 references those by hash. Stub the path fields until callers migrate.
 function asPracticeManifest(item: PracticeItemManifest): PracticeManifest {
-  // Path-based fields (`flow`, `data`, `tracks`) are no longer used at runtime;
-  // we keep them in the type for compatibility but stub them.
   return {
     id: item.id,
     name: item.name,
@@ -418,7 +405,6 @@ export async function prefetchChapterProse(
   const item = residentFor<ChapterItemManifest>(canonical)
   if (!item?.prose) return new Map()
   const out = new Map<string, LocalizedContent>()
-  const { getText } = await import('./store')
   await Promise.all(
     item.prose
       .filter((p) => !langs.length || langs.includes(p.lang))
@@ -474,11 +460,8 @@ export async function loadBookChapterText(
   if (!langMap) return undefined
   const ref = langMap[lang]
   if (!ref) return undefined
-  const { getText } = await import('./store')
   return getText(ref.hash)
 }
-
-// --- Mass propers (used by mass-of) ---
 
 /**
  * Load an OF mass proper, recombining shape + per-language blobs into a
@@ -491,22 +474,25 @@ export async function loadMassProper(
   const canonical = canonicalize(massId, 'mass') ?? massId
   const entry = getEntry(canonical)
   if (!entry) return undefined
-  let item = getRememberedManifest<LangSplitItemManifest>(entry.hash)
-  if (!item) {
-    item = await getJson<LangSplitItemManifest>(entry.hash)
-    rememberManifestBody(entry.hash, item)
-  }
-  const shape = await getJson<unknown>(item.shape.hash)
-  const langPayloads = await Promise.all(
-    langs
-      .filter((l) => item!.langs[l])
-      .map(async (l) => [l, await getJson<unknown>(item!.langs[l].hash)] as const),
+  const resolved =
+    getRememberedManifest<LangSplitItemManifest>(entry.hash) ??
+    (await (async () => {
+      const item = await getJson<LangSplitItemManifest>(entry.hash)
+      rememberManifestBody(entry.hash, item)
+      return item
+    })())
+  const requestedLangs = langs.filter((l) => resolved.langs[l])
+  const [shape, ...langPayloads] = await Promise.all([
+    getJson<unknown>(resolved.shape.hash),
+    ...requestedLangs.map((l) => getJson<unknown>(resolved.langs[l].hash)),
+  ])
+  const payloadsByLang = Object.fromEntries(
+    requestedLangs.map((l, i) => [l, langPayloads[i]] as const),
   )
-  return mergeLangs(shape, Object.fromEntries(langPayloads))
+  return mergeLangs(shape, payloadsByLang)
 }
 
-// --- Library-scoped lookups (kept for back-compat; ignore libraryId) ---
-
+// Back-compat stubs for v1 callers — kept until those callsites are migrated.
 export function getLibraryIdForPractice(_id: string): string | undefined {
   return 'corpus'
 }
@@ -519,14 +505,14 @@ export function getPracticeIdsForLibrary(_libraryId: string): string[] {
   return getEntriesByKind('practice').map(([id]) => id)
 }
 
-export function getBookDirUri(_bookId: string, _libraryId?: string): string | undefined {
-  // No longer applicable in v2 (no per-book extracted directory).
+export async function readLibraryAsset(_libraryId: string, _path: string): Promise<unknown> {
   return undefined
 }
 
-// In v2 there's no library-asset path concept; mass-of should use loadMassProper
-// directly. This stub remains for any straggler callers.
-export async function readLibraryAsset(_libraryId: string, _path: string): Promise<unknown> {
+// The book reader still calls this; in v2 there is no extracted-on-disk book
+// directory, so callers receive undefined and the existing fallback path runs.
+// TODO: rewrite features/libraries/bookReader.ts on top of the blob store.
+export function getBookDirUri(_bookId: string, _libraryId?: string): string | undefined {
   return undefined
 }
 

@@ -49,16 +49,13 @@ export {
   resolvePrayer,
   search,
   searchManifests,
+  warmCriticalManifests,
+  warmDeferredManifests,
   warmResidentManifests,
 } from './resolver'
 
-// `registerSource` and `unregisterSource` no longer exist — v2 has no per-library
-// sources. The compatibility layer makes both no-ops so existing call sites
-// don't crash; they should be deleted as we migrate.
 export function registerSource(_source: unknown): void {
-  // no-op: v2 doesn't have per-library sources
+  // v2 has no per-library sources; legacy callsites are now no-ops.
 }
 
-export function unregisterSource(_libraryId: string): void {
-  // no-op
-}
+export function unregisterSource(_libraryId: string): void {}
