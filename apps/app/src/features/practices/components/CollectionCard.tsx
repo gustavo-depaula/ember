@@ -18,29 +18,6 @@ function bareId(corpusId: string): string {
   return slash === -1 ? corpusId : corpusId.slice(slash + 1)
 }
 
-// Best-effort mapping from collection id → PracticeIcon key. Falls through to
-// the manifest's `icon` field if any, then to 'book'.
-const collectionIconMap: Record<string, string> = {
-  novenas: 'candle',
-  litanies: 'scroll',
-  breviary: 'clock',
-  carmelite: 'mary',
-  'sacred-heart': 'sacred-heart',
-  'divine-mercy': 'mercy',
-  'alphonsus-liguori': 'reading',
-  'montfort-spirituality': 'mary',
-  'ave-maria-claretiano': 'mary',
-  'ccel-classics': 'reading',
-  base: 'prayer',
-  devotions: 'bell',
-  'gustavo-personal': 'sunrise',
-}
-
-function pickIcon(collectionId: string, manifestIcon?: string): string {
-  if (manifestIcon) return manifestIcon
-  return collectionIconMap[bareId(collectionId)] ?? 'book'
-}
-
 export function CollectionCard({
   collectionId,
   entry,
@@ -53,7 +30,7 @@ export function CollectionCard({
   const catalogVersion = useCatalogVersion()
 
   const name = entry.name ? localizeContent(entry.name) : bareId(collectionId)
-  const iconKey = pickIcon(collectionId, entry.icon as string | undefined)
+  const iconKey = (entry.icon as string | undefined) ?? 'book'
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps when deferred collection bodies warm in.
   const subtitle = useMemo(() => {
