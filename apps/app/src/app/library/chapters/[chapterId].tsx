@@ -23,15 +23,14 @@ export default function ChapterReaderScreen() {
   const contentQuery = useQuery({
     queryKey: ['chapter-content', chapterId, libraryId],
     queryFn: async () => {
-      if (!chapterId) return undefined
-      // Prefetch all prose blobs so the engine's prose Proxy has them resident.
+      if (!chapterId) return null
       await prefetchChapterProse(chapterId, [])
-      return loadChapterContent(chapterId, libraryId)
+      return (await loadChapterContent(chapterId, libraryId)) ?? null
     },
     enabled: !!chapterId,
     staleTime: Infinity,
   })
-  const content = contentQuery.data
+  const content = contentQuery.data ?? undefined
 
   const sections = useMemo(() => {
     if (!content || !libraryId) return []

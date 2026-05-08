@@ -161,17 +161,17 @@ export function PracticeFlow({
   const flowQuery = useQuery({
     queryKey: ['flow', practiceId, programDay ?? null],
     queryFn: async () => {
-      if (!manifest) return undefined
+      if (!manifest) return null
       if (manifest.program?.perDayFlows && programDay !== undefined) {
         const dayFlow = await loadPerDayFlow(practiceId, programDay)
         if (dayFlow) return dayFlow
       }
-      return loadFlow(practiceId)
+      return (await loadFlow(practiceId)) ?? null
     },
     enabled: !!manifest,
     staleTime: Infinity,
   })
-  const flow = flowQuery.data
+  const flow = flowQuery.data ?? undefined
 
   const selectOverrideResetKey = `${practiceId}:${programDay ?? 'default'}:${flow ? 'loaded' : 'missing'}`
 
@@ -192,16 +192,16 @@ export function PracticeFlow({
   const numbering = getPsalmNumbering(translation)
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', practiceId],
-    queryFn: () => loadPracticeData(practiceId),
+    queryFn: async () => (await loadPracticeData(practiceId)) ?? null,
     staleTime: Infinity,
   })
   const trackDefsQuery = useQuery({
     queryKey: ['practice-tracks', practiceId],
-    queryFn: () => loadPracticeTracks(practiceId),
+    queryFn: async () => (await loadPracticeTracks(practiceId)) ?? null,
     staleTime: Infinity,
   })
-  const cycleData = cycleDataQuery.data
-  const trackDefs = trackDefsQuery.data
+  const cycleData = cycleDataQuery.data ?? undefined
+  const trackDefs = trackDefsQuery.data ?? undefined
   const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   useEffect(() => {

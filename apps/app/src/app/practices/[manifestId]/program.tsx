@@ -49,11 +49,11 @@ export default function ProgramDetailScreen() {
 
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', manifestId],
-    queryFn: () => (manifestId ? loadPracticeData(manifestId) : undefined),
+    queryFn: async () => (manifestId ? ((await loadPracticeData(manifestId)) ?? null) : null),
     enabled: !!manifestId,
     staleTime: Infinity,
   })
-  const cycleData = cycleDataQuery.data
+  const cycleData = cycleDataQuery.data ?? undefined
   const dayTitles = useMemo(() => getDayTitles(cycleData), [cycleData])
 
   if (!manifest?.program || !progress) {
