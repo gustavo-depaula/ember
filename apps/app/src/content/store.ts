@@ -162,24 +162,102 @@ export async function prefetch(
   await Promise.all(Array.from({ length: Math.min(PREFETCH_CONCURRENCY, total) }, worker))
 }
 
-type FsNode = { list?: () => FsNode[]; name?: string; size?: number }
+type FsNode = {
+  list?: () => FsNode[]
+  name?: string
+  size?: number
+  modificationTime?: number | null
+}
 
-/** Lists every cached blob with its size. Native only — web returns []. */
-export async function listCachedBlobs(): Promise<{ hash: string; size: number }[]> {
+export type CachedBlob = { hash: string; size: number; mtime: number }
+
+/** Lists every cached blob with its size + last-modified time. Native only. */
+export async function listCachedBlobs(): Promise<CachedBlob[]> {
   if (Platform.OS === 'web') return []
   const root = blobsDir()
   if (!root.exists) return []
-  const out: { hash: string; size: number }[] = []
+  const out: CachedBlob[] = []
   for (const lvl1 of root.list() as FsNode[]) {
     if (!lvl1.list) continue
     for (const lvl2 of lvl1.list()) {
       if (!lvl2.list) continue
       for (const f of lvl2.list()) {
-        if (!f.list) out.push({ hash: f.name ?? '', size: f.size ?? 0 })
+        if (!f.list) {
+          out.push({
+            hash: f.name ?? '',
+            size: f.size ?? 0,
+            mtime: f.modificationTime ?? 0,
+          })
+        }
       }
     }
   }
   return out
+}
+
+export type CacheStats = {
+  totalBytes: number
+  blobCount: number
+  pinnedBytes: number
+}
+
+/**
+ * LRU eviction. Iterates oldest blobs first, deletes until total cache size
+ * is under `budgetBytes`. Pinned blobs (hashes from `protectedHashes`) are
+ * never deleted.
+ *
+ * Returns the new total size after eviction. Native only — on web the
+ * browser's IndexedDB quota handles eviction natively and we no-op.
+ */
+export async function evictTo(
+  budgetBytes: number,
+  protectedHashes: ReadonlySet<string>,
+): Promise<{ totalBytes: number; deleted: number }> {
+  if (Platform.OS === 'web') {
+    return { totalBytes: 0, deleted: 0 }
+  }
+
+  const blobs = await listCachedBlobs()
+  let total = blobs.reduce((s, b) => s + b.size, 0)
+  if (total <= budgetBytes) return { totalBytes: total, deleted: 0 }
+
+  blobs.sort((a, b) => a.mtime - b.mtime)
+
+  let deleted = 0
+  for (const b of blobs) {
+    if (total <= budgetBytes) break
+    if (protectedHashes.has(b.hash)) continue
+    try {
+      await deleteBlob(b.hash)
+      total -= b.size
+      deleted++
+    } catch (err) {
+      console.warn(`[store] evict ${b.hash.slice(0, 8)}:`, err)
+    }
+  }
+  return { totalBytes: total, deleted }
+}
+
+export async function getCacheStats(protectedHashes: ReadonlySet<string>): Promise<CacheStats> {
+  if (Platform.OS === 'web') {
+    // Best-effort: use the Storage API if available
+    try {
+      const est = await (
+        navigator as unknown as { storage?: { estimate?: () => Promise<{ usage?: number }> } }
+      ).storage?.estimate?.()
+      return { totalBytes: est?.usage ?? 0, blobCount: 0, pinnedBytes: 0 }
+    } catch {
+      return { totalBytes: 0, blobCount: 0, pinnedBytes: 0 }
+    }
+  }
+  const blobs = await listCachedBlobs()
+  let totalBytes = 0
+  let pinnedBytes = 0
+  for (const b of blobs) {
+    totalBytes += b.size
+    if (protectedHashes.has(b.hash)) pinnedBytes += b.size
+  }
+  return { totalBytes, blobCount: blobs.length, pinnedBytes }
 }
 
 export async function deleteBlob(hash: string): Promise<void> {

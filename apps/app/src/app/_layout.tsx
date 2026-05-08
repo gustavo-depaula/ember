@@ -36,9 +36,10 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { registerStarter } from '@/content/starter'
+import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { rehydratePinned } from '@/features/pinning/pinningManager'
+import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -117,8 +118,26 @@ export default function RootLayout() {
 
   const [seeded, setSeeded] = useState(false)
 
+  // 200MB cap. Pinned blobs are skipped during eviction; the cap is a soft
+  // ceiling (pinned content can exceed it without dropping anything).
+  const CACHE_BUDGET_BYTES = 200 * 1024 * 1024
+
   useEffect(() => {
     if (!dbReady) return
+
+    async function runCacheEviction() {
+      try {
+        const protectedHashes = await pinnedHashes()
+        const result = await evictTo(CACHE_BUDGET_BYTES, protectedHashes)
+        if (result.deleted > 0) {
+          console.log(
+            `[startup] cache eviction: dropped ${result.deleted} blob(s); now ${(result.totalBytes / 1024 / 1024).toFixed(1)}MB`,
+          )
+        }
+      } catch (err) {
+        console.warn('[startup] cache eviction failed:', err)
+      }
+    }
 
     async function initCorpus() {
       try {
@@ -161,6 +180,7 @@ export default function RootLayout() {
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
             .then(() => seedPractices())
+            .then(() => runCacheEviction())
             .catch((err) => console.warn('Background catalog refresh failed:', err))
         })
       }
