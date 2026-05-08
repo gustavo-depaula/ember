@@ -850,6 +850,7 @@ export default {
     emptyState: 'Nothing here yet.',
     expandAll: 'Expand all',
     collapseAll: 'Collapse all',
+    toSource: 'To source',
   },
 
   collections: {
@@ -917,6 +918,40 @@ export default {
     suggestionAfternoon: 'A meeting in the afternoon',
     suggestionEvening: 'An examination of the day',
     suggestionNight: 'Before sleep',
+    todayInChurch: 'Today in the Church',
+    allCollections: 'All collections (A → Z)',
+    allCollectionsHint: 'Every collection in alphabetical order.',
+    section: {
+      daily: 'Your Daily Prayers',
+      formation: 'How to Pray',
+      themes: 'Devotions',
+      genres: 'Forms of Prayer',
+      schools: 'From the Saints',
+      patrimony: 'Patrimony',
+      liturgicalYear: 'The Liturgical Year',
+    },
+    season: {
+      advent: 'Advent',
+      christmas: 'Christmastide',
+      lent: 'Lent',
+      triduum: 'Holy Week & Triduum',
+      easter: 'Eastertide',
+      pentecost: 'Pentecost',
+      ordinary: 'Ordinary Time',
+      'christ-the-king': 'Christ the King',
+      active: 'Now',
+    },
+    spotlight: {
+      advent: 'Wait with Mary — pray the Angelus and the Marian antiphons of Advent.',
+      christmas: 'Sing with the Church — the Magnificat and the Te Deum of Christmastide.',
+      lent: 'Walk with Christ — pray the Stations and the Seven Sorrows.',
+      easter: 'Trust in His mercy — pray the Chaplet and the Hour of Mercy.',
+      pentecost: 'Come, Holy Spirit — pray the Novena and the Veni Creator.',
+      marianMonth: 'Pray the Rosary daily, and lean on the Litany of Loreto.',
+      june: 'June is the month of the Sacred Heart.',
+      november: 'Pray for the faithful departed.',
+      ordinary: 'The staples that hold a Catholic day together.',
+    },
   },
 
   category: {

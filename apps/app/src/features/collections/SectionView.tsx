@@ -25,6 +25,7 @@ import { localizeContent } from '@/lib/i18n'
 
 import { collapseKey, useCollapseStore } from './collapseStore'
 import { ItemCard } from './ItemCard'
+import { TodoCard } from './TodoCard'
 
 export function CollectionProse({ prose }: { prose: CollectionProseBody }) {
   const text = localizeContent(prose.body)
@@ -185,6 +186,9 @@ function BlockView({
         <CollectionProse prose={block.body} />
       </YStack>
     )
+  }
+  if (block.kind === 'todo') {
+    return <TodoCard todo={block} />
   }
   return null
 }

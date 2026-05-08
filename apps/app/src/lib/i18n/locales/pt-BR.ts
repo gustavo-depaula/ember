@@ -853,6 +853,7 @@ export default {
     emptyState: 'Nada por aqui ainda.',
     expandAll: 'Expandir tudo',
     collapseAll: 'Recolher tudo',
+    toSource: 'A incluir',
   },
 
   collections: {
@@ -920,6 +921,40 @@ export default {
     suggestionAfternoon: 'Um encontro à tarde',
     suggestionEvening: 'Exame do dia',
     suggestionNight: 'Antes de dormir',
+    todayInChurch: 'Hoje na Igreja',
+    allCollections: 'Todas as coleções (A → Z)',
+    allCollectionsHint: 'Todas as coleções em ordem alfabética.',
+    section: {
+      daily: 'Suas Orações Diárias',
+      formation: 'Como Rezar',
+      themes: 'Devoções',
+      genres: 'Formas de Oração',
+      schools: 'Dos Santos',
+      patrimony: 'Patrimônio',
+      liturgicalYear: 'O Ano Litúrgico',
+    },
+    season: {
+      advent: 'Advento',
+      christmas: 'Tempo do Natal',
+      lent: 'Quaresma',
+      triduum: 'Semana Santa e Tríduo',
+      easter: 'Tempo Pascal',
+      pentecost: 'Pentecostes',
+      ordinary: 'Tempo Comum',
+      'christ-the-king': 'Cristo Rei',
+      active: 'Agora',
+    },
+    spotlight: {
+      advent: 'Espere com Maria — reze o Angelus e as antífonas marianas do Advento.',
+      christmas: 'Cante com a Igreja — o Magnificat e o Te Deum do Tempo do Natal.',
+      lent: 'Caminhe com Cristo — reze a Via-Sacra e as Sete Dores.',
+      easter: 'Confie em Sua misericórdia — reze o Terço e a Hora da Misericórdia.',
+      pentecost: 'Vinde, Espírito Santo — reze a Novena e o Veni Creator.',
+      marianMonth: 'Reze o Rosário diariamente, e apoie-se na Ladainha de Loreto.',
+      june: 'Junho é o mês do Sagrado Coração.',
+      november: 'Reze pelos fiéis defuntos.',
+      ordinary: 'Os pilares que sustentam o dia católico.',
+    },
   },
 
   category: {

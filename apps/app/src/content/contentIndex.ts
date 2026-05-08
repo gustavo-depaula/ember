@@ -31,7 +31,7 @@ export function flattenCollectionItems(
     for (const b of blocks) {
       if (b.kind === 'item') out.push(b)
       else if (b.kind === 'section') walk(b.blocks)
-      // 'prose' has no ref — skipped
+      // 'prose' and 'todo' have no ref — skipped
     }
   }
   for (const s of sections) walk(s.blocks)

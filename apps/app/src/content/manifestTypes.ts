@@ -181,10 +181,19 @@ export type CollectionItem = {
   seeAlso?: string[]
 }
 
+export type CollectionTodo = {
+  title: LocalizedText
+  notes?: LocalizedText
+  proposedKind?: 'prayer' | 'practice' | 'chapter' | 'book'
+  proposedRef?: string
+  priority?: 'high' | 'medium' | 'low'
+}
+
 export type CollectionBlock =
   | ({ kind: 'item' } & CollectionItem)
   | ({ kind: 'section' } & CollectionSection)
   | { kind: 'prose'; body: CollectionProseBody }
+  | ({ kind: 'todo' } & CollectionTodo)
 
 export type CollectionSection = {
   id: string
