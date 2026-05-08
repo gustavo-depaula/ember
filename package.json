@@ -23,6 +23,7 @@
     "build:preview": "pnpm --filter @ember/app exec eas build --profile preview --platform ios",
     "build:production": "pnpm --filter @ember/app exec eas build --profile production --platform ios --auto-submit",
     "build:production:local": "GIT_CLONE_PROTECTION_ACTIVE=false pnpm --filter @ember/app exec eas build --profile production --platform ios --local",
+    "build:apk:cloud": "GIT_CLONE_PROTECTION_ACTIVE=false pnpm --filter @ember/app exec eas build --platform android --profile preview",
     "submit:ios": "pnpm --filter @ember/app exec pnpm eas submit --platform ios",
     "update": "pnpm --filter @ember/app exec eas update --channel production",
     "prepare": "husky"
