@@ -1,0 +1,3149 @@
+{
+  "id": "sanctorale.02-08",
+  "group": "sanctorale",
+  "date": {
+    "month": 2,
+    "day": 8
+  },
+  "title": {
+    "la": "S. Hieronymi Emiliani",
+    "es": "San Jerónimo Emiliani",
+    "en": "Saint Jerome Emiliani",
+    "pt-BR": "São Jerônimo Emiliani",
+    "it": "SAN GIROLAMO EMILIANI",
+    "fr": "Saint Jérôme Émilien",
+    "de": "Hl. Hieronymus Ämiliani, Ordensgründer"
+  },
+  "description": {
+    "la": "Natus est Venetiis anno 1486; vitam militarem amplexus, eam postea dimisit, et adiuvandis pauperibus se consecravit, bona etiam propria illis distribuens. Ordinem Clericorum Regularium a Somasca instituit ad pueros orphanos et pauperes sublevandos. Mortuus est Somascæ, in territorio Bergomensi, anno 1537.",
+    "es": "Nació en Venecia el año 1486. Abrazó la carrera de las armas, que más tarde dejó, consagrándose al servicio de los pobres, después de distribuir entre ellos sus bienes. Fundó la Orden de los Clérigos Regulares de Somasca, con la misión de socorrer a los niños huérfanos y pobres. Murió en Somasca (Bérgamo) el año 1537.",
+    "pt-BR": "Jerônimo (Veneza, 1486 - Somasca, Bérgamo, Itália, 8 de fevereiro de 1537), convertido depois de uma juventude dissipada, dedicou-se com ardor ao serviço dos pobres, dos enfermos e das crianças abandonadas. Interessou-se também pela reabilitação moral das prostitutas. Fundou a Sociedade dos Servos dos Pobres (Somascos). Morreu do mal contraído no serviço aos empesteados.",
+    "it": "Girolamo Miani, o Emiliani (Venezia, 1486 - Somasca, Lecco, 8 febbraio 1537), castellano della Serenissima, fatto prigioniero e prodigiosamente liberato, si pose al servizio dei poveri e degli infermi; ebbe cura degli orfani e delle prostitute. Dopo aver operato in diverse città, fondò a Somasca la «Compagnia dei servi dei poveri», detti poi Chierici Regolari di Somasca.",
+    "fr": "Converti à vingt-cinq ans, le patricien de Venise Jérôme Émilien (1486-1537) consacra dès lors sa vie aux déshérités, spécialement aux malades et aux orphelins. Des compagnons se joignirent à lui. C’est ainsi que naquit à Somasque, près de Bergame, la Société des Serviteurs des pauvres. Jérôme devait mourir de la peste au service des malades.",
+    "de": "Er wurde 1486 in Venedig geboren und schlug zunächst die militärische Laufbahn ein, welche er wenig später verließ, um sich dem Dienst an den Armen zu widmen, nachdem er zuvor seinen ganzen Besitz unter ihnen verteilt hatte. Er wurde zum Priester geweiht und gründete die Gesellschaft der Knechte der Armen (Somasker), welche sich den Waisenkindern widmete. Hieronymus starb im Jahr 1537 in Somasca bei Bergamo."
+  },
+  "collect": {
+    "body": {
+      "plain": {
+        "la": "Deus, Pater misericordiárum, qui beátum Hierónymum adiutórem et patrem órphanis providísti, eius nobis intercessióne concéde, ut spíritum adoptiónis, quo fílii tui nominámur et sumus, fidéliter custodiámus. Per Dóminum.",
+        "es": "Oh, Dios, Padre de las misericordias, que hiciste a san Jerónimo Emiliani protector y padre de los huérfanos, concédenos, por su intercesión, guardar con fidelidad el espíritu de adopción por el que nos llamamos y somos hijos tuyos. Por nuestro Señor Jesucristo.",
+        "en": "O God, Father of mercies, who sent Saint Jerome Emiliani as a helper and father to orphans, grant, through his intercession, that we may preserve faithfully the spirit of adoption, by which we are called, and truly are, your children. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.",
+        "pt-BR": "Ó Deus, Pai das misericórdias, que, em São Jerônimo Emiliani destes aos órfãos um protetor e pai, concedei, por sua intercessão, conservarmos fielmente o espírito de adoção, pelo qual somos chamados e de fato somos vossos filhos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+        "it": "O Dio, Padre di misericordia, che hai dato agli orfani san Girolamo [Emiliani] come sostegno e padre, concedi a noi per sua intercessione di custodire fedelmente lo spirito di adozione, per il quale ci chiamiamo e siamo realmente tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.",
+        "fr": "Dieu, Père des miséricordes, tu as donné aux orphelins saint Jérôme Émilien comme père et protecteur ; par son intercession, accorde-nous de garder fidèlement l’esprit d’adoption par lequel nous sommes appelés tes fils, et nous le sommes vraiment. Par Jésus Christ, ton Fils, notre Seigneur, qui vit et règne avec toi dans l’unité du Saint-Esprit, Dieu, pour les siècles des siècles.",
+        "de": "Gott, du Quelle der Barmherzigkeit, im heiligen Hieronymus Ämiliani hast du den Waisenkindern einen Helfer und Vater gegeben. Schenke allen, die in Not sind, deine sorgende Liebe und gib uns die Bereitschaft, ihnen zu helfen. Darum bitten wir durch Jesus Christus."
+      },
+      "lines": {
+        "la": [
+          [
+            {
+              "type": "text",
+              "text": "Deus, Pater misericordiárum,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "qui beátum Hierónymum adiutórem et patrem órphanis providísti,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "eius nobis intercessióne concéde,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "ut spíritum adoptiónis, quo fílii tui nominámur et sumus,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "fidéliter custodiámus."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Per Dóminum."
+            }
+          ]
+        ],
+        "es": [
+          [
+            {
+              "type": "text",
+              "text": "Oh, Dios,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Padre de las misericordias,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "que hiciste a san Jerónimo Emiliani protector y padre de los huérfanos,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "concédenos, por su intercesión,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "guardar con fidelidad el espíritu de adopción por el que nos llamamos y somos hijos tuyos."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Por nuestro Señor Jesucristo."
+            }
+          ]
+        ],
+        "en": [
+          [
+            {
+              "type": "text",
+              "text": "O God, Father of mercies,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "who sent Saint Jerome Emiliani as a helper and father to orphans, grant, through his intercession,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "that we may preserve faithfully the spirit of adoption,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "by which we are called, and truly are, your children."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Through our Lord Jesus Christ, your Son,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "one God, for ever and ever."
+            }
+          ]
+        ],
+        "pt-BR": [
+          [
+            {
+              "type": "text",
+              "text": "Ó Deus, Pai das misericórdias,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "que, em São Jerônimo Emiliani destes aos órfãos um protetor e pai,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "concedei, por sua intercessão,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "conservarmos fielmente o espírito de adoção,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "pelo qual somos chamados e de fato somos vossos filhos."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "por todos os séculos dos séculos."
+            }
+          ]
+        ],
+        "it": [
+          [
+            {
+              "type": "text",
+              "text": "O Dio, Padre di misericordia, che hai dato agli orfani san Girolamo [Emiliani]"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "come sostegno e padre, concedi a noi per sua intercessione di custodire fedelmente lo spirito di adozione, per il quale ci chiamiamo e siamo realmente tuoi figli. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+            }
+          ]
+        ],
+        "fr": [
+          [
+            {
+              "type": "text",
+              "text": "Dieu, Père des miséricordes,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "tu as donné aux orphelins saint Jérôme Émilien comme père et protecteur ;"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "par son intercession, accorde-nous de garder fidèlement l’esprit d’adoption par lequel nous sommes appelés tes fils,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "et nous le sommes vraiment."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Dieu, pour les siècles des siècles."
+            }
+          ]
+        ],
+        "de": [
+          [
+            {
+              "type": "text",
+              "text": "Gott, du Quelle der Barmherzigkeit, im heiligen Hieronymus Ämiliani hast du den Waisenkindern einen Helfer und Vater gegeben. Schenke allen, die in Not sind, deine sorgende Liebe und gib uns die Bereitschaft, ihnen zu helfen."
+            }
+          ],
+          [
+            {
+              "type": "text",
+              "text": "Darum bitten wir durch Jesus Christus."
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "preface": {
+    "prefaceRefs": [
+      "preface.pf052",
+      "preface.pf053"
+    ],
+    "excerpt": {
+      "la": "Tu enim Sanctórum tuórum confessióne",
+      "es": "Porque mediante el testimonio admirable de tus santos",
+      "en": "For in the marvellous confession of",
+      "pt-BR": "Pois, pelo testemunho admirável",
+      "it": "Nella testimonianza di fede dei tuoi santi",
+      "fr": "Tu ne cesses de fortifier ton Église",
+      "de": "Denn in den Heiligen schenkst du der Kirche"
+    }
+  },
+  "readings": {
+    "default": {
+      "firstReading": {
+        "label": {
+          "la": "Lectio prior",
+          "es": "Primera Lectura",
+          "en": "First Reading",
+          "pt-BR": "Primeira Leitura",
+          "it": "Prima lettura",
+          "fr": "Première lecture",
+          "de": "Erste Lesung"
+        },
+        "summary": {
+          "la": "Bona est oratio cum ieiunio, et eleemosyna cum iustitia.",
+          "es": "Más vale la oración sincera y la limosna hecha con rectitud",
+          "pt-BR": "É valiosa a oração com o jejum, e a esmola com a justiça.",
+          "it": "È meglio la preghiera con il digiuno e l’elemosina con la giustizia."
+        },
+        "introduction": {
+          "la": "Léctio libri Thobis",
+          "es": "Lectura del libro de Tobit",
+          "en": "A reading from the Book of Tobit",
+          "pt-BR": "Leitura do Livro de Tobias",
+          "it": "Dal libro di Tobia",
+          "fr": "Livre de Tobie",
+          "de": "Lesung aus dem Buch Tobit"
+        },
+        "body": {
+          "plain": {
+            "la": "In diébus illis: Dixit ángelus Thobi et fílio eius: «Deum benedícite et illi confitémini coram ómnibus vivéntibus, quæ fecit nobíscum bona, ut benedicátis et decantétis nómini eius; sermónes Dei honorífice osténdite et ne cunctémini confitéri illi. Sacraméntum regis bonum est abscóndere, ópera autem Dei reveláre et confitéri honoríficum est. Bonum fácite, et malum non invéniet vos. Bona est orátio cum ieiúnio, et eleemósyna cum iustítia. Mélius est módicum cum iustítia quam plúrimum cum iniquitáte. Bonum est fácere eleemósynam magis quam thesáuros auri cóndere. Eleemósyna a morte líberat et ipsa purgat omne peccátum. Qui fáciunt eleemósynam, saturabúntur vita; qui fáciunt peccátum et iniquitátem, hostes sunt ánimæ suæ. Omnem veritátem vobis manifestábo et non abscóndam a vobis ullum sermónem. Iam demonstrávi vobis et dixi: Sacraméntum regis bonum est abscóndere, ópera autem Dei reveláre honoríficum est. Et nunc, quando orábas tu et Sara, ego óbtuli memóriam oratiónis vestræ in conspéctu claritátis Dómini; et, cum sepeliébas mórtuos, simíliter. Et quia non es cunctátus exsúrgere et relínquere prándium tuum et abísti et sepelísti mórtuum, tunc missus sum ad te tentáre te.",
+            "es": "En aquellos días, dijo el ángel a Tobit y a su hijo: «Alabad a Dios y dadie gracias ante todos los vivientes por los beneficios que os ha concedido; así todos cantarán y alabarán su nombre. Proclamad a todo el mundo las gloriosas acciones de Dios y no descuidéis darle gracias. Es bueno guardar el secreto del rey, pero las gloriosas acciones de Dios hay que manifestarlas en público. Practicad el bien, y no os atrapará el mal. Más vale la oración sincera y la limosna hecha con rectitud que la riqueza lograda con injusticia. Más vale dar limosna que amontonar oro. La limosna libra de la muerte y purifica del pecado. Los que dan limosna vivirán largos años, mientras que los pecadores y malhechores atentan contra su propia vida. Os voy a decir toda la verdad, sin ocultaros nada. Os he dicho que es bueno guardar el secreto del rey y manifestar en público las gloriosas acciones de Dios. Pues bien, cuando tú y Sara orabais, era yo quien presentaba el memorial de vuestras oraciones ante la gloria del Señor, y lo mismo cuando enterrabas a los muertos. El día en que te levantaste enseguida de la mesa, sin comer, para dar sepultura a un cadáver, Dios me había enviado para someterte a prueba».",
+            "en": "The angel said to Tobit and his son: 'Bless God, utter his praise before all the living for all the favours he has given you. Bless and extol his name. Proclaim before all men the deeds of God as they deserve, and never tire of giving him thanks. It is right to keep the secret of a king, yet right to reveal and publish the works of God. Thank him worthily. Do what is good, and no evil can befall you. 'Prayer with fasting and alms with right conduct are better than riches with iniquity. Better to practice almsgiving than to hoard up gold. Almsgiving saves from death and purges every kind of sin. Those who give alms have their fill of days; those who commit sin and do evil, bring harm on themselves. I am going to tell you the whole truth, hiding nothing from you. I have already told you that it is right to keep the secret of a king, yet right too to reveal in worthy fashion the works of God. So you must know that when you and Sarah were at prayer, it was I who offered your supplications before the glory of the Lord and who read them; so too when you were burying the dead. When you did not hesitate to get up and leave the table to go and bury a dead man, I was sent to test your faith.",
+            "pt-BR": "Naqueles dias, o anjo falou a Tobit e seu filho: \"Bendizei a Deus e dai-lhe graças, diante de todos os viventes pelos bneficios que vós concedeu. Bendizei e cantai o seu nome. Manifestai a todos os homens as obras de Deus, como é justo, e não hesisteis em expressar-lhe o vosso reconhecimento. Se é bom guardar o segredo do rei, é justo revelar e publicar as obras de Deus. Fazei o bem, e o mal não vos atingirá. É valiosa a oração com o jejum, e a esmola com a justiça. Melhor é pouco com justiça do que muito com iniquidade. Melhor é dar esmolas do que acumular tesouros. A esmola livra da morte e purifica de todo pecado. Os que dão esmola serão saciados de vida. Aqueles, porém, que cometem o pecado e a injustiça são inimigos de si mesmos. E agora vos manifestarei toda a verdade, sem vos ocultar coisa alguma. Já vos declarei e disse: 'É bom guardar o segredo do rei, mas as obras de Deus devem ser reveladas, com a glória devida'. Pois bem, quando tu e Sara fazíeis oração, eu apresntava o memorial da vossa prece diante da glória do Senhor. E fazia o mesmo quando tu, Tobit, enterravas os mortos. Quando não hesitaste em levantar-te da mesa, deixando a refeição e saindo para sepultar um morto, fui enviado a ti para ter pôr à prova\".",
+            "it": "In quei giorni, L’angelo Raffaele chiamò Tobi e il figlio Tobia in disparte e disse loro: «Benedite Dio e proclamate davanti a tutti i viventi il bene che vi ha fatto, perché sia benedetto e celebrato il suo nome. Fate conoscere a tutti gli uomini le opere di Dio, come è giusto, e non esitate a ringraziarlo. È bene tenere nascosto il segreto del re, ma è motivo di onore manifestare e lodare Le opere di Dio. Fate ciò che è bene e non vi colpirà alcun male. È meglio la preghiera con il digiuno e l’elemosina con la giustizia, che la ricchezza con l’ingiustizia. Meglio praticare l’elemosina che accumulare oro. L’elemosina salva dalla morte e purifica da ogni peccato. Coloro che fanno l’elemosina godranno lunga vita. Coloro che commettono il peccato e L’ingiustizia sono nemici di se stessi. Voglio dirvi tutta la verità, senza nulla nascondervi: vi ho già insegnato che è bene nascondere il segreto del re, mentre è motivo d’onore manifestare le opere di Dio. Ebbene, quando tu e Sara eravate in preghiera, io presentavo l’attestato della vostra preghiera davanti alla gloria del Signore. Così anche quando tu seppellivi i morti. Quando poi tu non hai esitato ad alzarti e ad abbandonare il tuo pranzo e sei andato a seppellire quel morto, allora io sono stato inviato per metterti alla prova».",
+            "fr": "L’ange Raphaël prit à part Tobith et son fils Tobie et leur dit : « Bénissez Dieu et célébrez-le devant tous les vivants pour le bien qu’il vous a fait. Bénissez-le et chantez son nom. Annoncez à tous les hommes les actions de Dieu comme elles le méritent, et n’hésitez pas à le célébrer. S’il est bon de tenir cachés les secrets d’un roi, il faut révéler les œuvres de Dieu et les célébrer comme elles le méritent. Faites le bien, et le mal ne vous atteindra pas. Mieux vaut prier avec vérité et faire l’aumône avec justice, qu’être riche avec injustice. Mieux vaut faire l’aumône qu’amasser de l’or. L’aumône délivre de la mort et purifie de tout péché. Ceux qui font l’aumône seront rassasiés de vie, tandis que le pécheur et l’homme injuste sont leurs propres ennemis. Je veux vous révéler toute la vérité, sans rien vous cacher. Je viens de vous dire que, s’il est bon de tenir cachés les secrets d’un roi, il faut révéler les œuvres de Dieu comme elles le méritent. Eh bien ! Quand tu priais en même temps que Sarra, c’était moi qui présentais votre prière devant la gloire de Dieu, pour qu’il la garde en mémoire, et je faisais de même lorsque tu enterrais les morts. Quand tu n’as pas hésité à te lever, à laisser ton repas et à partir enterrer un mort, c’est alors que j’ai été envoyé vers toi pour te mettre à l’épreuve. »",
+            "de": "In jenen Tagen sagte der Engel zu Tobit und dessen Sohn: Preist Gott, und lobt ihn! Gebt ihm die Ehre, und bezeugt vor allen Menschen, was er für euch getan hat. Es ist gut, Gott zu preisen und seinen Namen zu verherrlichen und voll Ehrfurcht seine Taten zu verkünden. Hört nie auf, ihn zu preisen. Es ist gut, das Geheimnis eines Königs zu wahren; die Taten Gottes aber soll man offen rühmen. Tut Gutes, dann wird euch kein Unglück treffen. Es ist gut, zu beten und zu fasten, barmherzig und gerecht zu sein. Lieber wenig, aber gerecht, als viel und ungerecht. Besser, barmherzig sein, als Gold aufhäufen. Denn Barmherzigkeit rettet vor dem Tod und reinigt von jeder Sünde. Wer barmherzig und gerecht ist, wird lange leben. Wer aber sündigt, ist der Feind seines eigenen Lebens. Ich will euch nichts verheimlichen; ich habe gesagt: Es ist gut, das Geheimnis eines Königs zu wahren; die Taten Gottes aber soll man offen rühmen. Darum sollt ihr wissen: Als ihr zu Gott flehtet, du und deine Schwiegertochter Sara, da habe ich euer Gebet vor den heiligen Gott gebracht. Und ebenso bin ich in deiner Nähe gewesen, als du die Toten begraben hast. Auch als du ohne zu zögern vom Tisch aufgestanden bist und dein Essen stehen gelassen hast, um einem Toten den letzten Dienst zu erweisen, blieb mir deine gute Tat nicht verborgen, sondern ich war bei dir."
+          }
+        },
+        "conclusion": {
+          "la": "Verbum Dómini.",
+          "es": "Palabra de Dios.",
+          "en": "The Word of the Lord.",
+          "pt-BR": "Palavra do Senhor.",
+          "it": "Parola di Dio.",
+          "fr": "Parole du Seigneur.",
+          "de": "Wort des lebendigen Gottes."
+        },
+        "citation": {
+          "la": "Tb 12, 6-13",
+          "es": "Tob 12, 6-13",
+          "en": "Tb 12:6-13",
+          "pt-BR": "Tb 12, 6-13",
+          "it": "Tb 12, 6-13",
+          "fr": "Tb 12, 6-13",
+          "de": "Tob 12, 6-13"
+        },
+        "response": {
+          "body": {
+            "plain": {
+              "la": "℟. Deo gratias.",
+              "es": "℟. Te alabamos, Señor.",
+              "en": "℟. Thanks be to God.",
+              "pt-BR": "℟. Graças a Deus.",
+              "it": "℟. Rendiamo grazie a Dio.",
+              "fr": "℟. Nous rendons grâce à Dieu.",
+              "de": "A: Dank sei Gott."
+            },
+            "lines": {
+              "la": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Deo gratias."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Te alabamos, Señor."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Thanks be to God."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Graças a Deus."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rendiamo grazie a Dio."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Nous rendons grâce à Dieu."
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "A:"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Dank sei Gott."
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "responsorialPsalm": {
+        "citation": {
+          "la": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11",
+          "es": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11",
+          "pt-BR": "Sl 33, 2-3. 4-5. 6-7. 8-9. 10-11",
+          "de": "Ps 34",
+          "en": "Ps 33:2-3, 4-5, 6-7, 8-9, 10-11",
+          "it": "Sal 33, 2-3. 4-5. 6-7. 8-9. 10-11",
+          "fr": "Ps 33, 2-3. 4-5. 6-7. 8-9. 10-11"
+        },
+        "responsory": {
+          "primary": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Benedícam Dóminum in omni témpore."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Bendigo al Señor en todo momento."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "I will bless the Lord at all times."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Provai e vede quão suave é o Senhor!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Benedirò il Signore in ogni tempo."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Je bénirai le Seigneur en tout temps."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Den Herrn will ich preisen alle Zeit."
+                }
+              ]
+            ]
+          },
+          "alternatives": [
+            {
+              "la": [
+                [
+                  {
+                    "type": "text",
+                    "text": "Gustáte et vidéte quóniam suávis est Dóminus."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "text",
+                    "text": "Gustad y ved qué bueno es el Señor."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "text",
+                    "text": "Taste and see the goodness of the Lord."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "text",
+                    "text": "Goûtez et voyez comme est bon le Seigneur !"
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "text",
+                    "text": "Kostet und seht, wie gütig der Herr ist!"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        "verses": {
+          "la": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Benedícam Dóminum in omni témpore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "semper laus eius in ore meo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "In Dómino gloriábitur ánima mea,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "áudiant mansuéti et læténtur."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Magnificáte Dóminum mecum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et exaltémus nomen eius in idípsum."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Exquisívi Dóminum, et exaudívit me,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et ex ómnibus terróribus meis erípuit me."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Respícite ad eum, et illuminámini,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et fácies vestræ non confundéntur."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Iste pauper clamávit, et Dóminus exaudívit eum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et de ómnibus tribulatiónibus eius salvávit eum."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Vallábit ángelus Dómini in circúitu timéntes eum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et erípiet eos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Gustáte et vidéte quóniam suávis est Dóminus;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "beátus vir qui sperat in eo."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Timéte Dóminum sancti eius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "quóniam non est inópia timéntibus eum."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dívites eguérunt et esuriérunt,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "inquiréntes autem Dóminum non defícient omni bono."
+                }
+              ]
+            ]
+          ],
+          "es": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Bendigo al Señor en todo momento,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "su alabanza está siempre en mi boca;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "mi alma se gloría en el Señor:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que los humildes lo escuchen y se alegren."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Proclamad conmigo la grandeza del Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ensalcemos juntos su nombre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Yo consulté al Señor, y me respondió,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "me libró de todas mis ansias."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Contempladlo, y quedaréis radiantes,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "vuestro rostro no se avergonzará."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "El afligido invocó al Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "él lo escuchó y lo salvó de sus angustias."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "El ángel del Señor acampa en torno a quienes lo temen y los protege."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Gustad y ved qué bueno es el Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dichoso el que se acoge a él."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Todos sus santos, temed al Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "porque nada les falta a los que lo temen;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "los ricos empobrecen y pasan hambre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "los que buscan al Señor no carecen de nada."
+                }
+              ]
+            ]
+          ],
+          "en": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "I will bless the Lord at all times, his praise always on my lips; in the Lord my soul shall make its boast. The humble shall hear and be glad."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Glorify the Lord with me. Together let us praise his name. I sought the Lord and he answered me; from all my terrors he set me free."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Look towards him and be radiant; let your faces not be abashed. This poor man called; the Lord heard him and rescued him from all his distress."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "The angel of the Lord is encamped around those who revere him, to rescue them."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Taste and see that the Lord is good. He is happy who seeks refuge in him."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Revere the Lord, you his saints. They lack nothing, those who revere him."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Strong lions suffer want and go hungry but those who seek the Lord lack no blessing."
+                }
+              ]
+            ]
+          ],
+          "pt-BR": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem!"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "O anjo do Senhor vem acampar ao redor dos que o temem, e os salva. Provai e vede quão suave é o Senhor! Feliz o homem que tem nele o seu refúgio!"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Respeitai o Senhor Deus, seus santos todos, porque nada faltará aos que o temem. Os ricos empobrecem, passam fome, mas aos que buscam o Senhor não falta nada."
+                }
+              ]
+            ]
+          ],
+          "it": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Benedirò il Signore in ogni tempo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sulla mia bocca sempre la sua lode."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Io mi glorio nel Signore:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "i poveri ascoltino e si rallegrino."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Magnificate con me il Signore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "esaltiamo insieme il suo nome."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ho cercato il Signore: mi ha risposto e da ogni mia paura mi ha liberato."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Guardate a lui e sarete raggianti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "i vostri volti non dovranno arrossire."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Questo povero grida e il Signore lo ascolta,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lo salva da tutte le sue angosce."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "L’angelo del Signore si accampa attorno a quelli che lo temono, e li libera."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Gustate e vedete com’è buono il Signore;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "beato l’uomo che in lui si rifugia."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Temete il Signore, suoi santi: nulla manca a coloro che lo temono."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "I leoni sono miseri e affamati,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ma a chi cerca il Signore non manca alcun bene."
+                }
+              ]
+            ]
+          ],
+          "fr": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Je bénirai le Seigneur en tout temps,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sa louange sans cesse à mes lèvres."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Je me glorifierai dans le Seigneur :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que les pauvres m’entendent et soient en fête !"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Magnifiez avec moi le Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "exaltons tous ensemble son nom."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Je cherche le Seigneur, il me répond :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de toutes mes frayeurs, il me délivre."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Qui regarde vers lui resplendira,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sans ombre ni trouble au visage."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Un pauvre crie ; le Seigneur entend :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il le sauve de toutes ses angoisses."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "L’ange du Seigneur campe alentour pour libérer ceux qui le craignent."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Goûtez et voyez : le Seigneur est bon !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Heureux qui trouve en lui son refuge !"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Saints du Seigneur, adorez-le :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "rien ne manque à ceux qui le craignent."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Des riches ont tout perdu, ils ont faim ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui cherche le Seigneur ne manquera d’aucun bien."
+                }
+              ]
+            ]
+          ],
+          "de": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Ich will den Herrn allezeit preisen;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "immer sei sein Lob in meinem Mund."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Meine Seele rühme sich des Herrn;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "die Armen sollen es hören und sich freuen."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Verherrlicht mit mir den Herrn,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "lasst uns gemeinsam seinen Namen rühmen."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Ich suchte den Herrn, und er hat mich erhört,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "er hat mich all meinen Ängsten entrissen."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Blickt auf zu ihm, so wird euer Gesicht leuchten,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "und ihr braucht nicht zu erröten."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Da ist ein Armer; er rief, und der Herr erhörte ihn."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Er half ihm aus all seinen Nöten."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Engel des Herrn umschirmt alle, die ihn fürchten und ehren,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "und er befreit sie."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Kostet und seht, wie gütig der Herr ist;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "wohl dem, der zu ihm sich flüchtet!"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Fürchtet den Herrn, ihr seine Heiligen;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "denn wer ihn fürchtet, leidet keinen Mangel."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Reiche müssen darben und hungern;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "wer aber den Herrn sucht, braucht kein Gut zu entbehren."
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      "gospelAcclamation": {
+        "citation": {
+          "la": "Mt 5, 3",
+          "es": "Mt 5, 3",
+          "pt-BR": "Mt 5, 3",
+          "it": "Mt 5, 3",
+          "fr": "Mt 5, 3",
+          "de": "Mt 5, 3"
+        },
+        "mode": "alleluia",
+        "acclamation": {
+          "la": [
+            [
+              {
+                "type": "response",
+                "text": "(Alleluia.)"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "response",
+                "text": "(Alléluia)"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              }
+            ]
+          ]
+        },
+        "verse": {
+          "la": [
+            [
+              {
+                "type": "rubric",
+                "text": "(Alleluia.)"
+              },
+              {
+                "type": "text",
+                "text": "Allelúia. Beáti páuperes spíritu, quóniam ipsórum est regnum cælórum."
+              },
+              {
+                "type": "response",
+                "text": "(Alleluia.)"
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              },
+              {
+                "type": "text",
+                "text": "Bienaventurados los pobres en el espíritu, porque de ellos es el reino de los cielos."
+              },
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "Happy the poor in spirit; the kingdom of heaven is theirs!"
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              },
+              {
+                "type": "text",
+                "text": "Felizes os humildes de espírito, porque deles é o Reino dos Céus!"
+              },
+              {
+                "type": "response",
+                "text": "Aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "Beati i poveri in spirito, perché di essi è il regno dei cieli."
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "rubric",
+                "text": "(Alléluia)"
+              },
+              {
+                "type": "text",
+                "text": "Alléluia Heureux les pauvres de cœur, car le royaume des Cieux est à eux !"
+              },
+              {
+                "type": "response",
+                "text": "(Alléluia)"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              },
+              {
+                "type": "text",
+                "text": "Selig, die arm sind vor Gott; denn ihnen gehört das Himmelreich."
+              },
+              {
+                "type": "response",
+                "text": "Halleluja."
+              }
+            ]
+          ]
+        }
+      },
+      "gospel": {
+        "alternatives": [
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "summary": {
+              "la": "Quæcumque habes vende, et da pauperibus, et veni, sequere me.",
+              "es": "Vende lo que tienes, dale el dinero a los pobres, y luego sígueme",
+              "pt-BR": "Vai vende tudo o que tens e dá aos pobres; depois vem e segue-me.",
+              "it": "Vendi quello che hai, dallo ai poveri e vieni! Seguimi."
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Marcum",
+              "es": "✠ Lectura del santo Evangelio según san Marcos",
+              "en": "✠ A reading from the holy Gospel according to Mark",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+              "it": "✠ Dal vangelo secondo Marco",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Marc",
+              "de": "✠ Aus dem heiligen Evangelium nach Markus"
+            },
+            "body": {
+              "plain": {
+                "la": "In illo témpore: Cum egrederétur Iesus in viam, accúrrens quidam et, genu flexo ante eum, rogábat eum: «Magíster bone, quid fáciam ut vitam ætérnam percípiam?». Iesus autem dixit ei: «Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: ne occídas, ne adúlteres, ne furéris, ne falsum testimónium díxeris, ne fraudem féceris, honóra patrem tuum et matrem». Ille autem dixit ei: «Magíster, hæc ómnia conservávi a iuventúte mea». Iesus autem intúitus eum diléxit eum et dixit illi: «Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus et habébis thesáurum in cælo; et veni, séquere me». Qui contristátus in hoc verbo, ábiit mærens: erat enim habens possessiónes multas. Et circumspíciens Iesus ait discípulis suis: «Quam diffícile, qui pecúnias habent, in regnum Dei introíbunt». Discípuli autem obstupescébant in verbis eius. At Iesus rursus respóndens ait illis: «Fílii, quam diffícile est in regnum Dei introíre. Facílius est camélum per forámen acus transíre quam dívitem intráre in regnum Dei». Qui magis admirabántur dicéntes ad semetípsos: «Et quis potest salvus fíeri?». Intuens illos Iesus ait: «Apud hómines impossíbile est sed non apud Deum: ómnia enim possibília sunt apud Deum». Cœpit Petrus ei dícere: «Ecce nos dimísimus ómnia et secúti sumus te». Ait Iesus: «Amen dico vobis: Nemo est, qui relíquerit domum aut fratres aut soróres aut matrem aut patrem aut fílios aut agros propter me et propter Evangélium, qui non accípiat cénties tantum nunc in témpore hoc, domos et fratres et soróres et matres et fílios et agros cum persecutiónibus, et in sæculo futúro vitam ætérnam».",
+                "es": "En aquel tiempo, cuando salía Jesús al camino, se le acercó uno corriendo, se arrodilló ante él y le preguntó: «Maestro bueno, ¿qué haré para heredar la vida eterna?». Jesús le contestó: «¿Por qué me llamas bueno? No hay nadie bueno más que Dios. Ya sabes los mandamientos: no matarás, no cometerás adulterio, no robarás, no darás falso testimonio, no estafarás, honra a tu padre y a tu madre». Él replicó: «Maestro, todo eso lo he cumplido desde mi juventud». Jesús se quedó mirándolo, lo amó y le dijo: «Una cosa te falta: anda, vende lo que tienes, dáselo a los pobres, así tendrás un tesoro en el cielo, y luego ven y sígueme». A estas palabras, él frunció el ceño y se marchó triste porque era muy rico. Jesús, mirando alrededor, dijo a sus discípulos: «¡Qué difícil les será entrar en el reino de Dios a los que tienen riquezas!». Los discípulos quedaron sorprendidos de estas palabras. Pero Jesús añadió: «Hijos, ¡qué difícil es entrar en el reino de Dios! Más fácil le es a un camello pasar por el ojo de una aguja, que a un rico entrar en el reino de Dios». Ellos se espantaron y comentaban: «Entonces, ¿quién puede salvarse?». Jesús se les quedó mirando y les dijo: «Es imposible para los hombres, no para Dios. Dios lo puede todo». Pedro se puso a decirle: «Ya ves que nosotros lo hemos dejado todo y te hemos seguido». Jesús dijo: «En verdad os digo que no hay nadie que haya dejado casa, o hermanos o hermanas, o madre o padre, o hijos o tierras, por mí y por el Evangelio, que no reciba ahora, en este tiempo, cien veces más —casas y hermanos y hermanas y madres e hijos y tierras, con persecuciones— y en la edad futura, vida eterna».",
+                "en": "Jesus was setting out on a journey when a man ran up, knelt before him and put this question to him, 'Good master, what must I do to inherit eternal life?' Jesus said to him, 'Why do you call me good? No one is good but God alone. You know the commandments: You must not kill; You must not commit adultery; You must not steal; You must not bring false witness; You must not defraud; Honour your father and mother.' And he said to him, 'Master, I have kept all these from my earliest days'. Jesus looked steadily at him and loved him, and he said, 'There is one thing you lack. Go and sell everything you own and give the money to the poor, and you will have treasure in heaven; then come, follow me.' But his face fell at these words and he went away sad, for he was a man of great wealth. Jesus looked round and said to his disciples, 'How hard it is for those who have riches to enter the kingdom of God!' The disciples were astounded by these words, but Jesus insisted, 'My children,' he said to them 'how hard it is to enter the kingdom of God! It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.' They were more astonished than ever. 'In that case' they said to one another 'who can be saved?' Jesus gazed at them. 'For men' he said 'it is impossible, but not for God: because everything is possible for God.' Peter took this up. 'What about us?' he asked him. 'We have left everything and followed you.' Jesus said, 'I tell you solemnly, there is no one who has left house, brothers, sisters, father, children or land for my sake and for the sake of the gospel who will not be repaid a hundred times over, houses, brothers, sisters, mothers, children and land - not without persecutions - now in this present time and, in the world to come, eternal life.",
+                "pt-BR": "Naquele tempo, quando Jesus saiu a caminhar, veio alguém correndo, ajoelhou-se diante dele e perguntou: “Bom Mestre, que devo fazer para ganhar a vida eterna?” Jesus disse: \"Por que me chamas de bom? Só Deus é bom, e mais ninguém. Tu conheces os mandamentos: não matarás; não cometerás adultério; não roubarás; não levantarás falso testemunho; não prejudicarás ninguém; honra teu pai e tua mãe!\". Ele respondeu: \"Mestre, tudo isso tenho observado desde a minha juventude\". Jesus olhou para ele com amor, e disse: \"Só uma coisa te falta: vai, vende tudo o que tens e dá aos pobres, e terás um tesouro no céu. Depois vem e segue-me!\" Mas, quando ele ouviu isso, ficou abatido e foi embora cheio de tristeza, porque era muito rico. Jesus então olhou ao redor e disse aos discípulos: \"Como é difícil para os ricos entrar no Reino de Deus!\" Os discípulos se admiravam com estas palavras, mas ele disse de novo: \"Meus filhos, como é difícil entrar no Reino de Deus! É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!\" Eles ficaram muito espantados ao ouvirem isso, e perguntavam uns aos outros: \"Então, quem pode ser salvo?\" Jesus olhou para eles e disse: \"Para os homens isso é impossível, mas não para Deus. Para Deus tudo é possível\". Pedro então começou a dizer-lhe: \"Eis que nós deixamos tudo e te seguimos\". Respondeu Jesus: \"Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do Evangelho, receberá cem vezes mais agora, durante esta vida — casa, irmãos, irmãs, mães, filhos e campos, com perseguições — e, no mundo futuro, a vida eterna\".",
+                "it": "In quel tempo, mentre Gesù andava per la strada, un tale gli corse incontro e, gettandosi in ginocchio davanti a lui, gli domandò: «Maestro buono, che cosa devo fare per avere in eredità la vita eterna?». Gesù gli disse: «Perché mi chiami buono? Nessuno è buono, se non Dio solo. Tu conosci i comandamenti: \"Non uccidere, non commettere adulterio, non rubare, non testimoniare il falso, non frodare, onora tuo padre e tua madre\"». Egli allora gli disse: «Maestro, tutte queste cose le ho osservate fin dalla mia giovinezza». Allora Gesù fissò lo sguardo su di lui, lo amò e gli disse: «Una cosa sola ti manca: va', vendi quello che hai e dallo ai poveri, e avrai un tesoro in cielo; e vieni! Seguimi!». Ma a queste parole egli si fece scuro in volto e se ne andò rattristato; possedeva infatti molti beni. Gesù, volgendo lo sguardo attorno, disse ai suoi discepoli: «Quanto è difficile, per quelli che possiedono ricchezze, entrare nel regno di Dio!». I discepoli erano sconcertati dalle sue parole; ma Gesù riprese e disse loro: «Figli, quanto è difficile entrare nel regno di Dio! È più facile che un cammello passi per la cruna di un ago, che un ricco entri nel regno di Dio». Essi, ancora più stupiti, dicevano tra loro: «E chi può essere salvato?». Ma Gesù, guardandoli in faccia, disse: «Impossibile agli uomini, ma non a Dio! Perché tutto è possibile a Dio». Pietro allora prese a dirgli: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito». Gesù gli rispose: «In verità io vi dico: non c’è nessuno che abbia lasciato casa o fratelli o sorelle o madre o padre o figli o campi per causa mia e per causa del Vangelo, che non riceva già ora, in questo tempo, cento volte tanto in case e fratelli e sorelle e madri e figli e campi, insieme a persecuzioni, e la vita eterna nel tempo che verrà».",
+                "fr": "En ce temps-là, Jésus se mettait en route quand un homme accourut et, tombant à ses genoux, lui demanda : \" Bon Maître, que dois-je faire pour avoir la vie éternelle en héritage ? \" Jésus lui dit : \" Pourquoi dire que je suis bon ? Personne n’est bon, sinon Dieu seul. Tu connais les commandements : Ne commets pas de meurtre, ne commets pas d’adultère, ne commets pas de vol, ne porte pas de faux témoignage, ne fais de tort à personne, honore ton père et ta mère. \" L’homme répondit : \" Maître, tout cela, je l’ai observé depuis ma jeunesse. \" Jésus posa son regard sur lui, et il l’aima. Il lui dit : \" Une seule chose te manque : va, vends ce que tu as et donne-le aux pauvres ; alors tu auras un trésor au ciel. Puis viens, suis-moi. \" Mais lui, à ces mots, devint sombre et s’en alla tout triste, car il avait de grands biens. Alors Jésus regarda autour de lui et dit à ses disciples : \" Comme il sera difficile à ceux qui possèdent des richesses d’entrer dans le royaume de Dieu ! \" Les disciples étaient stupéfaits de ces paroles. Jésus reprenant la parole leur dit : \" Mes enfants, comme il est difficile d’entrer dans le royaume de Dieu ! Il est plus facile à un chameau de passer par le trou d’une aiguille qu’à un riche d’entrer dans le royaume de Dieu. \" De plus en plus déconcertés, les disciples se demandaient entre eux : \" Mais alors, qui peut être sauvé ? \" Jésus les regarde et dit : \" Pour les hommes, c’est impossible, mais pas pour Dieu ; car tout est possible à Dieu. \" Ille autem dixit ei : «Magíster, hæc ómnia conservávi a iuventúte mea». Pierre se mit à dire à Jésus : \" Voici que nous avons tout quitté pour te suivre. \" Jésus déclara : \" Amen, je vous le dis : nul n’aura quitté, à cause de moi et de l’Évangile, une maison, des frères, des sœurs, une mère, un père, des enfants ou une terre sans qu’il reçoive, en ce temps déjà, le centuple : maisons, frères, sœurs, mères, enfants et terres, avec des persécutions, et, dans le monde à venir, la vie éternelle. \"",
+                "de": "In jener Zeit lief ein Mann auf Jesus zu, fiel vor ihm auf die Knie und fragte ihn: Guter Meister, was muss ich tun, um das ewige Leben zu gewinnen? Jesus antwortete: Warum nennst du mich gut? Niemand ist gut außer Gott, dem Einen. Du kennst doch die Gebote: Du sollst nicht töten, du sollst nicht die Ehe brechen, du sollst nicht stehlen, du sollst nicht falsch aussagen, du sollst keinen Raub begehen; ehre deinen Vater und deine Mutter! Er erwiderte ihm: Meister, alle diese Gebote habe ich von Jugend an befolgt. Da sah ihn Jesus an, und weil er ihn liebte, sagte er: Eines fehlt dir noch: Geh, verkaufe, was du hast, gib das Geld den Armen, und du wirst einen bleibenden Schatz im Himmel haben; dann komm und folge mir nach! Der Mann aber war betrübt, als er das hörte, und ging traurig weg; denn er hatte ein großes Vermögen. Da sah Jesus seine Jünger an und sagte zu ihnen: Wie schwer ist es für Menschen, die viel besitzen, in das Reich Gottes zu kommen! Die Jünger waren über seine Worte bestürzt. Jesus aber sagte noch einmal zu ihnen: Meine Kinder, wie schwer ist es, in das Reich Gottes zu kommen! Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in das Reich Gottes gelangt. Sie aber erschraken noch mehr und sagten zueinander: Wer kann dann noch gerettet werden? Jesus sah sie an und sagte: Für Menschen ist das unmöglich, aber nicht für Gott; denn für Gott ist alles möglich. Da sagte Petrus zu ihm: Du weißt, wir haben alles verlassen und sind dir nachgefolgt. Jesus antwortete: Amen, ich sage euch: Jeder, der um meinetwillen und um des Evangeliums willen Haus oder Brüder, Schwestern, Mutter, Vater, Kinder oder Äcker verlassen hat, wird das Hundertfache dafür empfangen: Jetzt in dieser Zeit wird er Häuser, Brüder, Schwestern, Mütter, Kinder und Äcker erhalten, wenn auch unter Verfolgungen, und in der kommenden Welt das ewige Leben."
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            },
+            "citation": {
+              "la": "10, 17-30",
+              "es": "10, 17-30",
+              "en": "10:17-30",
+              "pt-BR": "10, 17-30",
+              "it": "10, 17-30",
+              "fr": "10, 17-30",
+              "de": "10, 17-30"
+            },
+            "response": {
+              "body": {
+                "plain": {
+                  "la": "℟. Laus tibi, Christe.",
+                  "es": "℟. Gloria a ti, Señor Jesús.",
+                  "en": "℟. Praise to you, Lord Jesus Christ.",
+                  "pt-BR": "℟. Glória a vós, Senhor.",
+                  "it": "℟. Lode a te, o Cristo.",
+                  "fr": "℟. Louange à toi, Seigneur Jésus !",
+                  "de": "A: Lob sei dir, Christus."
+                },
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Laus tibi, Christe."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Gloria a ti, Señor Jesús."
+                      }
+                    ]
+                  ],
+                  "en": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Praise to you, Lord Jesus Christ."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Glória a vós, Senhor."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lode a te, o Cristo."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Louange à toi, Seigneur Jésus !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "A:"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lob sei dir, Christus."
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "summary": {
+              "la": "Quæcumque habes vende, et da pauperibus, et veni, sequere me.",
+              "es": "Vende lo que tienes, dale el dinero a los pobres, y luego sígueme",
+              "pt-BR": "Vai, vende tudo o que tens e dá aos pobres; depois vem e segue-me.",
+              "it": "Vendi quello che hai, dallo ai poveri e vieni! Seguimi."
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Marcum",
+              "es": "✠ Lectura del santo Evangelio según san Marcos",
+              "en": "✠ A reading from the holy Gospel according to Mark",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+              "it": "✠ Dal vangelo secondo Marco",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Marc",
+              "de": "✠ Aus dem heiligen Evangelium nach Markus"
+            },
+            "body": {
+              "plain": {
+                "la": "In illo témpore: Cum egrederétur Iesus in viam, accúrrens quidam et, genu flexo ante eum, rogábat eum: «Magíster bone, quid fáciam ut vitam ætérnam percípiam?». Iesus autem dixit ei: «Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: ne occídas, ne adúlteres, ne furéris, ne falsum testimónium díxeris, ne fraudem féceris, honóra patrem tuum et matrem». Ille autem dixit ei: «Magíster, hæc ómnia conservávi a iuventúte mea». Iesus autem intúitus eum diléxit eum et dixit illi: «Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus et habébis thesáurum in cælo; et veni, séquere me». Qui contristátus in hoc verbo, ábiit mærens: erat enim habens possessiónes multas. Et circumspíciens Iesus ait discípulis suis: «Quam diffícile, qui pecúnias habent, in regnum Dei introíbunt». Discípuli autem obstupescébant in verbis eius. At Iesus rursus respóndens ait illis: «Fílii, quam diffícile est in regnum Dei introíre. Facílius est camélum per forámen acus transíre quam dívitem intráre in regnum Dei». Qui magis admirabántur dicéntes ad semetípsos: «Et quis potest salvus fíeri?». Intuens illos Iesus ait: «Apud hómines impossíbile est sed non apud Deum: ómnia enim possibília sunt apud Deum».",
+                "es": "En aquel tiempo, cuando salía Jesús al camino, se le acercó uno corriendo, se arrodilló ante él y le preguntó: «Maestro bueno, ¿qué haré para heredar la vida eterna?». Jesús le contestó: «Por qué me llamas bueno? No hay nadie bueno más que Dios. Ya sabes los mandamientos: no matarás, no cometerás adulterio, no robarás, no darás falso testimonio, no estafarás, honra a tu padre y a tu madre». El replicó: «Maestro, todo eso lo he cumplido desde mi juventud». Jesús se quedó mirándolo, lo amó y le dijo: «Una cosa te falta: anda, vende lo que tienes, dáselo a los pobres, así tendrás un tesoro en el cielo, y luego ven y sígueme». A estas palabras, él frunció el ceño y se marchó triste porque era muy rico. Jesús, mirando alrededor, dijo a sus discípulos: «¡Qué difícil les será entrar en el reino de Dios a los que tienen riquezas!». Los discípulos quedaron sorprendidos de estas palabras. Pero Jesús añadió: «Hijos, ¡qué difícil es entrar en el reino de Dios! Más fácil le es a un camello pasar por el ojo de una aguja, que a un rico entrar en el reino de Dios». Ellos se espantaron y comentaban: «Entonces, ¿quién puede salvarse?». Jesús se les quedó mirando y les dijo: «Es imposible para los hombres, no para Dios. Dios lo puede todo».",
+                "en": "Jesus was setting out on a journey when a man ran up, knelt before him and put this question to him, 'Good master, what must I do to inherit eternal life?' Jesus said to him, 'Why do you call me good? No one is good but God alone. You know the commandments: You must not kill; You must not commit adultery; You must not steal; You must not bring false witness; You must not defraud; Honour your father and mother.' And he said to him, 'Master, I have kept all these from my earliest days'. Jesus looked steadily at him and loved him, and he said, 'There is one thing you lack. Go and sell everything you own and give the money to the poor, and you will have treasure in heaven; then come, follow me.' But his face fell at these words and he went away sad, for he was a man of great wealth. Jesus looked round and said to his disciples, 'How hard it is for those who have riches to enter the kingdom of God!' The disciples were astounded by these words, but Jesus insisted, 'My children,' he said to them 'how hard it is to enter the kingdom of God! It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.' They were more astonished than ever. 'In that case' they said to one another 'who can be saved?' Jesus gazed at them. 'For men' he said 'it is impossible, but not for God: because everything is possible for God.'",
+                "pt-BR": "Naquele tempo, quando Jesus saiu a caminhar, veio alguém correndo, ajoelhou-se diante dele e perguntou: \"Bom Mestre, que devo fazer para ganhar a vida eterna?\" Jesus disse: \"Por que me chamas de bom? Só Deus é bom, e mais ninguém. Tu conheces os mandamentos: não matarás; não cometerás adultério; não roubarás; não levantarás falso testemunho; não prejudicarás ninguém; honra teu pai e tua mãe!\" Ele respondeu: \"Mestre, tudo isso tenho observado desde a minha juventude\". Jesus olhou para ele com amor, e disse: \"Só uma coisa te falta: vai, vende tudo o que tens e dá aos pobres, e terás um tesouro no céu. Depois vem e segue-me!\" Mas, quando ele ouviu isso, ficou abatido e foi embora cheio de tristeza, porque era muito rico. Jesus então olhou ao redor e disse aos discípulos: \"Como é difícil para os ricos entrar no Reino de Deus!\" Os discípulos se admiravam com estas palavras, mas ele disse de novo: \"Meus filhos, como é difícil entrar no Reino de Deus! É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!\" Eles ficaram muito espantados ao ouvirem isso, e perguntavam uns aos outros: \"Então, quem pode ser salvo?\" Jesus olhou para eles e disse: \"Para os homens isso é impossível, mas não para Deus. Para Deus tudo é possível\".",
+                "it": "In quel tempo, mentre Gesù andava per la strada, un tale gli corse incontro e, gettandosi in ginocchio davanti a lui, gli domandò: «Maestro buono, che cosa devo fare per avere in eredità la vita eterna?». Gesù gli disse: «Perché mi chiami buono? Nessuno è buono, se non Dio solo. Tu conosci i comandamenti: \"Non uccidere, non commettere adulterio, non rubare, non testimoniare il falso, non frodare, onora tuo padre e tua madre\"». Egli allora gli disse: «Maestro, tutte queste cose le ho osservate fin dalla mia giovinezza». Allora Gesù fissò lo sguardo su di lui, lo amò e gli disse: «Una cosa sola ti manca: va', vendi quello che hai e dallo ai poveri, e avrai un tesoro in cielo; e vieni! Seguimi!». Ma a queste parole egli si fece scuro in volto e se ne andò rattristato; possedeva infatti molti beni. Gesù, volgendo lo sguardo attorno, disse ai suoi discepoli: «Quanto è difficile, per quelli che possiedono ricchezze, entrare nel regno di Dio!». I discepoli erano sconcertati dalle sue parole; ma Gesù riprese e disse loro: «Figli, quanto è difficile entrare nel regno di Dio! È più facile che un cammello passi per la cruna di un ago, che un ricco entri nel regno di Dio». Essi, ancora più stupiti, dicevano tra loro: «E chi può essere salvato?». Ma Gesù, guardandoli in faccia, disse: «Impossibile agli uomini, ma non a Dio! Perché tutto è possibile a Dio».",
+                "fr": "En ce temps-là, Jésus se mettait en route quand un homme accourut et, tombant à ses genoux, lui demanda : « Bon Maître, que dois-je faire pour avoir la vie éternelle en héritage ? » Jésus lui dit : « Pourquoi dire que je suis bon ? Personne n’est bon, sinon Dieu seul. Tu connais les commandements : Ne commets pas de meurtre, ne commets pas d’adultère, ne commets pas de vol, ne porte pas de faux témoignage, ne fais de tort à personne, honore ton père et ta mère. » L’homme répondit : « Maître, tout cela, je l’ai observé depuis ma jeunesse. » Jésus posa son regard sur lui, et il l’aima. Il lui dit : « Une seule chose te manque : va, vends ce que tu as et donne-le aux pauvres ; alors tu auras un trésor au ciel. Puis viens, suis-moi. » Mais lui, à ces mots, devint sombre et s’en alla tout triste, car il avait de grands biens. Alors Jésus regarda autour de lui et dit à ses disciples : « Comme il sera difficile à ceux qui possèdent des richesses d’entrer dans le royaume de Dieu ! » Les disciples étaient stupéfaits de ces paroles. Jésus reprenant la parole leur dit : « Mes enfants, comme il est difficile d’entrer dans le royaume de Dieu ! Il est plus facile à un chameau de passer par le trou d’une aiguille qu’à un riche d’entrer dans le royaume de Dieu. » De plus en plus déconcertés, les disciples se demandaient entre eux : « Mais alors, qui peut être sauvé ? » Jésus les regarde et dit : « Pour les hommes, c’est impossible, mais pas pour Dieu ; car tout est possible à Dieu. »",
+                "de": "In jener Zeit lief ein Mann auf Jesus zu, fiel vor ihm auf die Knie und fragte ihn: Guter Meister, was muss ich tun, um das ewige Leben zu gewinnen? Jesus antwortete: Warum nennst du mich gut? Niemand ist gut außer Gott, dem Einen. Du kennst doch die Gebote: Du sollst nicht töten, du sollst nicht die Ehe brechen, du sollst nicht stehlen, du sollst nicht falsch aussagen, du sollst keinen Raub begehen; ehre deinen Vater und deine Mutter! Er erwiderte ihm: Meister, alle diese Gebote habe ich von Jugend an befolgt. Da sah ihn Jesus an, und weil er ihn liebte, sagte er: Eines fehlt dir noch: Geh, verkaufe, was du hast, gib das Geld den Armen, und du wirst einen bleibenden Schatz im Himmel haben; dann komm und folge mir nach! Der Mann aber war betrübt, als er das hörte, und ging traurig weg; denn er hatte ein großes Vermögen. Da sah Jesus seine Jünger an und sagte zu ihnen: Wie schwer ist es für Menschen, die viel besitzen, in das Reich Gottes zu kommen! Die Jünger waren über seine Worte bestürzt. Jesus aber sagte noch einmal zu ihnen: Meine Kinder, wie schwer ist es, in das Reich Gottes zu kommen! Eher geht ein Kamel durch ein Nadelöhr, als dass ein Reicher in das Reich Gottes gelangt. Sie aber erschraken noch mehr und sagten zueinander: Wer kann dann noch gerettet werden? Jesus sah sie an und sagte: Für Menschen ist das unmöglich, aber nicht für Gott; denn für Gott ist alles möglich."
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            },
+            "citation": {
+              "la": "10, 17-27",
+              "es": "10, 17-27",
+              "en": "10:17-27",
+              "pt-BR": "10, 17-27",
+              "it": "10, 17-27",
+              "fr": "10, 17-27",
+              "de": "10, 17-27"
+            },
+            "response": {
+              "body": {
+                "plain": {
+                  "la": "℟. Laus tibi, Christe.",
+                  "es": "℟. Gloria a ti, Señor Jesús.",
+                  "en": "℟. Praise to you, Lord Jesus Christ.",
+                  "pt-BR": "℟. Glória a vós, Senhor.",
+                  "it": "℟. Lode a te, o Cristo.",
+                  "fr": "℟. Louange à toi, Seigneur Jésus !",
+                  "de": "A: Lob sei dir, Christus."
+                },
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Laus tibi, Christe."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Gloria a ti, Señor Jesús."
+                      }
+                    ]
+                  ],
+                  "en": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Praise to you, Lord Jesus Christ."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Glória a vós, Senhor."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lode a te, o Cristo."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Louange à toi, Seigneur Jésus !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "A:"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lob sei dir, Christus."
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rank": "optional-memorial",
+  "rankLocalized": {
+    "la": "Memoria ad libitum",
+    "es": "Memoria libre",
+    "en": "Optional Memorial",
+    "pt-BR": "Memória facultativa",
+    "it": "Memoria facoltativa",
+    "fr": "Mémoire facultative",
+    "de": "Nicht gebotener Gedenktag"
+  },
+  "liturgicalColor": "white",
+  "alternatives": [
+    {
+      "key": "josephine-bakhita",
+      "title": {
+        "la": "S. Iosephinæ Bakhita, virginis",
+        "es": "Santa Josefina Bahkita, virgen",
+        "en": "Saint Josephine Bakhita",
+        "pt-BR": "Santa Josefina Bakhita, virgem",
+        "it": "SANTA GIUSEPPINA BAKHITA, vergine",
+        "fr": "Sainte Joséphine Bakhita, vierge",
+        "de": "Hl. Josefine Bakhita, Jungfrau"
+      },
+      "description": {
+        "la": "Nata est in regione Darfur Sudaniæ prope vicum Jebel Agilere circa annum 1868. Adhuc puellula rapta et pluries in mercatibus servorum vendita, crudelem servitutem passa est. Demum liberata, Venetiis (Venezia) christiana et religiosa apud Filias Caritatis Canossianas facta est ac reliquam vitam in urbe Schio in agro Vicentino Italiæ ómnibus suppeditans degit, ubi mortem obiit anno 1947.",
+        "es": "Nació en la región de Darfur, en Sudán, en el año 1869, año de la apertura del canal de Suez. Fue raptada y esclavizada a los siete años por traficantes árabes. El nombre de Bakhita, que significa \"afortunada\" se lo dieron sus raptores. Fue comprada y vendida cinco veces hasta que, en 1882, fue comprada por un agente consular italiano llamado Calisto Legnani, quien la llevó a Italia. Allí trabajó como niñera, conoció la religión cristiana y se bautizó en 1890. En 1893 entró en la Congregación de las Religiosas Canosianas, viviendo en el convento de Schio (Vicenza), realizando trabajos humildes. Falleció en 1947.",
+        "pt-BR": "Bakhita, ainda criança, foi capturada e vendida por mercadores de escravos negros no mercado de El Obeid e de Cartum (Sudão). Depois de passar por vários senhores, foi adquirida pelo Cônsul italiano no Sudão que logo lhe deu carta de liberdade e a levou para a Itália. Acolhida pelas Irmãs da Congregação das Filhas da Caridade (Canossianas), foi iniciada na fé. Em 1896 ingressou nessa Congregação com o nome de Irmã Josefina, destacando-se pela piedade e pelo amor a Cristo, à Eucaristia e aos pobres. Morreu em 1947 e foi canonizada pelo Papa São João Paulo II, no ano 2000.",
+        "it": "Bakhita, ovvero «Fortunata» (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), fu il nome assegnato a una bambina africana, rapita e venduta come schiava da mercanti. Dopo esser stata di proprietà di vari padroni, fu acquistata dal console italiano a Karthoum il quale la condusse con sé a Venezia. Conobbe la fede cattolica e ricevette il Battesimo, assumendo il nome di Giuseppina. Entrata fra le Canossiane, visse a Schio, dove si distinse per la grande carità verso i bisognosi.",
+        "fr": "Bakhita (vers 1868-1947), dont le nom signifie « heureuse », avait neuf ans lorsqu’elle fut enlevée. Vendue cinq fois, elle a connu une vie d’esclave au Soudan avant d’être libérée par son dernier maître qui l’emmena en Italie. Là, elle découvre Dieu et entre chez les Sœurs canossiennes après son baptême. Celle qui connut l’esclavage des hommes se met au service du seul Maître, devenant un exemple de confiance, de bonté et de pardon.",
+        "de": "Josefine wurde im Jahr 1869 in Darfur, im Sudan, geboren. Als sie 7 Jahre alt war wurde sie von arabischen Sklavenhändlern entführt und verkauft. Ihre Entführer gaben ihr den Beinamen Bakhita, welcher mit “glücklich” übersetzt werden kann. In den folgenden Jahre wurde sie fünf mal weiterverkauft, bis sie 1882, vom italienischen Konsul Callisto Legnani gekauft und nach Italien gebracht wurde. Dort arbeitete sie als Kindermädchen, lernte den christlichen Glauben kennen und ließ sich 1890 taufen. Im Jahr 1893 trat sie in den Orden der Canossianerinnen ein und lebte im Konvent von Schio in der Provinz von Vicenza. Sie starb im Jahr 1947."
+      },
+      "rank": "optional-memorial",
+      "rankLocalized": {
+        "la": "Memoria ad libitum",
+        "es": "Memoria libre",
+        "en": "Optional Memorial",
+        "pt-BR": "Memória facultativa",
+        "it": "Memoria facoltativa",
+        "fr": "Mémoire facultative",
+        "de": "Nicht gebotener Gedenktag"
+      },
+      "liturgicalColor": "white",
+      "collect": {
+        "body": {
+          "plain": {
+            "la": "Deus, qui beátam Iosephínam a servitúte abiécta ad dignitátem fíliæ tuæ et Christi sponsæ adduxísti, da nobis, quǽsumus, eius exémplo, Dóminum Iesum crucifíxum constánti dilectióne proséqui et in caritáte ad misericórdiam propénsos perseveráre. Per Dóminum.",
+            "es": "Oh, Dios, que condujiste a santa Josefina Bakhita de la humillante esclavitud a la dignidad de hija tuya y esposa de Cristo, concédenos, por su ejemplo, seguir con amor constante al Señor Jesús crucificado y, movidos a misericordia, perseverar en la caridad. Por nuestro Señor Jesucristo.",
+            "en": "O God, who led Saint Josephine Bakhita from abject slavery to the dignity of being your daughter and a bride of Christ, grant, we pray, that by her example we may show constant love for the Lord Jesus crucified, remaining steadfast in charity and prompt to show compassion. Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.",
+            "pt-BR": "Ó Deus, conduzistes Santa Josefina da mais vil escravidão à dignidade de ser vossa filha e esposa de Cristo; concedei-nos que, a seu exemplo, possamos seguir, com inabalável amor, o Senhor Jesus crucificado e perseverar na caridade, praticando a misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+            "it": "O Dio, che hai elevato santa Giuseppina [Bakhita] dalla misera condizione di schiava alla dignità di figlia tua e sposa di Cristo, concedi che, sul suo esempio, seguiamo con amore fedele il Signore Gesù crocifisso e, dediti alle opere di misericordia, perseveriamo nella carità. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli.",
+            "fr": "Dieu notre Père, tu as conduit sainte Joséphine de l’abaissement de l’esclavage à l’honneur d’être ta fille et de devenir l’épouse du Christ ; accorde-nous, à son exemple, de suivre d’un amour fidèle le Seigneur Jésus crucifié et de répandre la miséricorde avec une inlassable charité. Par Jésus Christ, ton Fils, notre Seigneur, qui vit et règne avec toi dans l’unité du Saint-Esprit, Dieu, pour les siècles des siècles.",
+            "de": "Gott, du hast die heilige Jungfrau Josefine aus der Sklaverei befreit und ihr die Würde verliehen, deine Tochter und eine Braut Christi zu sein; gib uns, so bitten wir, dass wir nach ihrem Beispiel dem gekreuzigten Herrn Jesus in unablässiger Liebe nachfolgen und in tätiger Liebe beharrlich Barmherzigkeit üben. Darum bitten wir durch Jesus Christus."
+          },
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Deus, qui beátam Iosephínam a servitúte abiécta ad dignitátem fíliæ tuæ et Christi sponsæ adduxísti,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "da nobis, quǽsumus, eius exémplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminum Iesum crucifíxum constánti dilectióne proséqui et in caritáte ad misericórdiam propénsos perseveráre."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Per Dóminum."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Oh, Dios,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que condujiste a santa Josefina Bakhita de la humillante esclavitud a la dignidad de hija tuya y esposa de Cristo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concédenos, por su ejemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "seguir con amor constante al Señor Jesús crucificado y, movidos a misericordia, perseverar en la caridad."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nuestro Señor Jesucristo."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "O God, who led Saint Josephine Bakhita from abject slavery to the dignity of being your daughter and a bride of Christ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "grant, we pray,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "that by her example we may show constant love for the Lord Jesus crucified, remaining steadfast in charity and prompt to show compassion."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Through our Lord Jesus Christ, your Son,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "who lives and reigns with you in the unity of the Holy Spirit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "one God, for ever and ever."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Ó Deus, conduzistes Santa Josefina da mais vil escravidão à dignidade de ser vossa filha e esposa de Cristo;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "concedei-nos que, a seu exemplo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "possamos seguir, com inabalável amor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "o Senhor Jesus crucificado e perseverar na caridade,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "praticando a misericórdia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e convosco vive e reina, na unidade do Espírito Santo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "por todos os séculos dos séculos."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Dio, che hai elevato santa Giuseppina [Bakhita] dalla misera condizione di schiava alla dignità di figlia tua e sposa di Cristo, concedi che, sul suo esempio, seguiamo con amore fedele il Signore Gesù crocifisso e, dediti alle opere di misericordia, perseveriamo nella carità. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell’unità dello Spirito Santo, per tutti i secoli dei secoli."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu notre Père,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "tu as conduit sainte Joséphine de l’abaissement de l’esclavage à l’honneur d’être ta fille et de devenir l’épouse du Christ ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "accorde-nous, à son exemple,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de suivre d’un amour fidèle le Seigneur Jésus crucifié et de répandre la miséricorde avec une inlassable charité."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Par Jésus Christ, ton Fils, notre Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui vit et règne avec toi dans l’unité du Saint-Esprit,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dieu, pour les siècles des siècles."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Gott, du hast die heilige Jungfrau Josefine aus der Sklaverei befreit und ihr die Würde verliehen, deine Tochter und eine Braut Christi zu sein; gib uns, so bitten wir, dass wir nach ihrem Beispiel dem gekreuzigten Herrn Jesus in unablässiger Liebe nachfolgen und in tätiger Liebe beharrlich Barmherzigkeit üben. Darum bitten wir durch Jesus Christus."
+                }
+              ]
+            ]
+          }
+        }
+      },
+      "readings": {
+        "default": {
+          "firstReading": {
+            "label": {
+              "la": "Lectio prior",
+              "es": "Primera Lectura",
+              "en": "First Reading",
+              "pt-BR": "Primeira Leitura",
+              "it": "Prima lettura",
+              "fr": "Première lecture",
+              "de": "Erste Lesung"
+            },
+            "summary": {
+              "la": "Virgo cogitat quæ Dómini sunt.",
+              "es": "La soltera se preocupa de los asuntos del Señor",
+              "pt-BR": "A jovem solteira tem zelo pelas coisas do Senhor",
+              "it": "La vergine si preoccupa delle cose del Signore."
+            },
+            "introduction": {
+              "la": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+              "es": "Lectura de la primera carta del apóstol san Pablo a los Corintios",
+              "en": "A reading from the first letter of St. Paul to the Corinthians",
+              "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "it": "Dalla prima lettera di san Paolo apostolo ai Corinzi",
+              "fr": "Première lettre de saint Paul Apôtre aux Corinthiens",
+              "de": "Lesung aus dem ersten Brief des Apostels Paulus an die Korinther"
+            },
+            "body": {
+              "plain": {
+                "la": "Fratres: De virgínibus præcéptum Dómini non hábeo; consílium autem do, tamquam misericórdiam consecútus a Dómino, ut sim fidélis. Exístimo ergo hoc bonum esse propter instántem necessitátem, quóniam bonum est hómini sic esse. Alligátus es uxóri? Noli quærere solutiónem. Solútus es ab uxóre? Noli quærere uxórem. Si autem accéperis uxórem, non peccásti; et si núpserit virgo, non peccávit. Tribulatiónem tamen carnis habébunt huiúsmodi, ego autem vobis parco. Hoc ítaque dico, fratres, témpus breviátum est; réliquum est, ut et qui habent uxóres, tamquam non habéntes sint, et qui flent, tamquam non flentes, et qui gaudent, tamquam non gaudéntes, et qui emunt, tamquam non possidéntes, et qui utúntur hoc mundo, tamquam non abuténtes; prǽterit enim figúra huius mundi.",
+                "es": "Hermanos: Acerca de los célibes no tengo precepto del Señor, pero doy mi parecer como alguien que, por la misericordia del Señor, es fiel. Considero que, por la angustia que apremia, es bueno para un hombre quedarse así. ¿Estás unido a una mujer? No busques la separación. ¿Estás libre de mujer? No busques mujer; pero, site casas, no pecas; y, si una soltera se casa, tampoco peca. Aunque estos tales sufrirán la tribulación de la carne; y yo quiero ahorrársela. Digo esto, hermanos, que el momento es apremiante. Queda como solución que los que tienen mujer vivan como si no la tuvieran; los que lloran, como si no lloraran; los que están alegres, como si no se alegraran; los que compran, como si no poseyeran; los que negocian en el mundo, como si no disfrutaran de él: porque la representación de este mundo se termina. Quiero que os ahorréis preocupaciones: el no casado se preocupa de los asuntos del Señor, buscando contentar al Señor; en cambio, el casado se preocupa de los asuntos del mundo buscando contentar a su mujer, y anda dividido. El que me ama guardará mi palabra —dice el Señor—, También la mujer sin marido y la soltera se preocupan de los asuntos del Señor, de ser santa en cuerpo y alma; en cambio, la casada se preocupa de los asuntos del mundo, buscando contentar a su marido. Os digo todo esto para vuestro bien; no para poneros una trampa, sino para induciros a una cosa noble y al trato con el Señor sin preocupaciones.",
+                "en": "About remaining celibate, I have no directions from the Lord but give my own opinion as one who, by the Lord's mercy, has stayed faithful. Well then, I believe that in these present times of stress this is right: that it is good for a man to stay as he is. If you are tied to a wife, do not look for freedom; if you are free of a wife, then do not look for one. But if you marry, it is no sin, and it is not a sin for a young girl to get married. They will have their troubles, though, in their married life, and I should like to spare you that. Brothers, this is what I mean: our time is growing short. Those who have wives should live as though they had none, and those who mourn should live as though they had nothing to mourn for; those who are enjoying life should live as though there were nothing to laugh about; those whose life is buying things should live as though they had nothing of their own; and those who have to deal with the world should not become engrossed in it. I say this because the world as we know it is passing away. I would like to see you free from all worry. An unmarried man can devote himself to the Lord's affairs, all he need worry about is pleasing the Lord; but a married man has to bother about the world's affairs and devote himself to pleasing his wife: he is torn two ways. In the same way an unmarried woman, like a young girl, can devote herself to the Lord's affairs; all she need worry about is being holy in body and spirit. The married woman, on the other hand, has to worry about the world's affairs and devote herself to pleasing her husband. I say this only to help you, not to put a halter round your necks, but simply to make sure that everything is as it should be, and that you give your undivided attention to the Lord.",
+                "pt-BR": "Irmãos: A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: Penso que, em razão das angústias presente, é vantajoso não se casar, é bom cada qual estar assim. Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Não procures ligar-te. Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial: e eu gostaria de poupar-vos isso. Eu digo, irmãos: o tempo está abreviado. Então que, doravante, os que têm mulher vivam como se não tivessem mulher; e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres; e os que fazem compras, como se não possuíssem coisa alguma; e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher e, assim, está dividido. Do mesmo modo, a mulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações.",
+                "it": "Fratelli, riguardo alle vergini, non ho alcun comando dal Signore, ma do un consiglio, come uno che ha ottenuto misericordia dal Signore e merita fiducia. Penso dunque che sia bene per l’uomo, a causa delle presenti difficoltà, rimanere così com’è. Ti trovi legato a una donna? Non cercare di scioglierti. Sei libero da donna? Non andare a cercarla. Però se ti sposi non fai peccato; e se la giovane prende marito, non fa peccato. Tuttavia costoro avranno tribolazioni nella loro vita, e io vorrei risparmiarvele. Questo vi dico, fratelli: il tempo si è fatto breve; d’ora innanzi, quelli che hanno moglie, vivano come se non l’avessero; quelli che piangono, come se non piangessero; quelli che gioiscono, come se non gioissero; quelli che comprano, come se non possedessero; quelli che usano i beni del mondo, come se non li usassero pienamente: passa infatti la figura di questo mondo! Io vorrei che foste senza preoccupazioni: chi non è sposato si preoccupa delle cose del Signore, come possa piacere al Signore; chi è sposato invece si preoccupa delle cose del mondo, come possa piacere alla moglie, e si trova diviso! Così la donna non sposata, come la vergine, si preoccupa delle cose del Signore, per essere santa nel corpo e nello spirito; la donna sposata invece si preoccupa delle cose del mondo, come possa piacere al marito. Questo lo dico per il vostro bene: non per gettarvi un laccio, ma perché vi comportiate degnamente e restiate fedeli al Signore, senza deviazioni.",
+                "fr": "Frères, au sujet du célibat, je n’ai pas un ordre du Seigneur, mais je donne mon avis, moi qui suis devenu digne de confiance grâce à la miséricorde du Seigneur. Je pense que le célibat est une chose bonne, étant donné les nécessités présentes ; oui, c’est une chose bonne de vivre ainsi. Tu es marié ? ne cherche pas à te séparer de ta femme. Tu n’as pas de femme ? ne cherche pas à te marier. Si cependant tu te maries, ce n’est pas un péché ; et si une jeune fille se marie, ce n’est pas un péché. Mais ceux qui font ce choix y trouveront les épreuves correspondantes, et c’est cela que moi, je voudrais vous éviter. Frères, je dois vous le dire : le temps est limité. Dès lors, que ceux qui ont une femme soient comme s’ils n’avaient pas de femme, ceux qui pleurent, comme s’ils ne pleuraient pas, ceux qui ont de la joie, comme s’ils n’en avaient pas, ceux qui font des achats, comme s’ils ne possédaient rien, ceux qui profitent de ce monde, comme s’ils n’en profitaient pas vraiment. Car il passe, ce monde tel que nous le voyons. J’aimerais vous voir libres de tout souci. Celui qui n’est pas marié a le souci des affaires du Seigneur, il cherche comment plaire au Seigneur. Celui qui est marié a le souci des affaires de ce monde, il cherche comment plaire à sa femme, et il se trouve divisé. La femme sans mari, ou celle qui reste vierge, a le souci des affaires du Seigneur, afin d’être sanctifiée dans son corps et son esprit. Celle qui est mariée a le souci des affaires de ce monde, elle cherche comment plaire à son mari. C’est dans votre intérêt que je dis cela ; ce n’est pas pour vous tendre un piège, mais pour vous proposer ce qui est bien, afin que vous soyez attachés au Seigneur sans partage.",
+                "de": "Brüder! Was die Frage der Ehelosigkeit angeht, so habe ich kein Gebot vom Herrn. Ich gebe euch nur einen Rat als einer, den der Herr durch sein Erbarmen vertrauenswürdig gemacht hat. Ich meine, es ist gut wegen der bevorstehenden Not, ja, es ist gut für den Menschen, so zu sein. Bist du an eine Frau gebunden, suche dich nicht zu lösen; bist du ohne Frau, dann suche keine. Heiratest du aber, so sündigst du nicht; und heiratet eine Jungfrau, sündigt auch sie nicht. Freilich werden solche Leute irdischen Nöten nicht entgehen; ich aber möchte sie euch ersparen. Denn ich sage euch, Brüder: Die Zeit ist kurz. Daher soll, wer eine Frau hat, sich in Zukunft so verhalten, als habe er keine, wer weint, als weine er nicht, wer sich freut, als freue er sich nicht, wer kauft, als würde er nicht Eigentümer, wer sich die Welt zunutze macht, als nutze er sie nicht; denn die Gestalt dieser Welt vergeht. Ich wünschte aber, ihr wäret ohne Sorgen. Der Unverheiratete sorgt sich um die Sache des Herrn; er will dem Herrn gefallen. Der Verheiratete sorgt sich um die Dinge der Welt; er will seiner Frau gefallen. So ist er geteilt. Die unverheiratete Frau aber und die Jungfrau sorgen sich um die Sache des Herrn, um heilig zu sein an Leib und Geist. Die Verheiratete sorgt sich um die Dinge der Welt; sie will ihrem Mann gefallen. Das sage ich zu eurem Nutzen: nicht um euch eine Fessel anzulegen, vielmehr, damit ihr in rechter Weise und ungestört immer dem Herrn dienen könnt."
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra de Dios.",
+              "en": "The Word of the Lord.",
+              "pt-BR": "Palavra do Senhor.",
+              "it": "Parola di Dio.",
+              "fr": "Parole du Seigneur.",
+              "de": "Wort des lebendigen Gottes."
+            },
+            "citation": {
+              "la": "1 Cor 7, 25-35",
+              "es": "1 Cor 7, 25-35",
+              "en": "1 Cor 7:25-35",
+              "pt-BR": "1 Cor 7, 25-35",
+              "it": "1 Cor 7, 25-35",
+              "fr": "1 Co 7, 25-35",
+              "de": "1 Kor 7, 25-35"
+            },
+            "response": {
+              "body": {
+                "plain": {
+                  "la": "℟. Deo gratias.",
+                  "es": "℟. Te alabamos, Señor.",
+                  "en": "℟. Thanks be to God.",
+                  "pt-BR": "℟. Graças a Deus.",
+                  "it": "℟. Rendiamo grazie a Dio.",
+                  "fr": "℟. Nous rendons grâce à Dieu.",
+                  "de": "A: Dank sei Gott."
+                },
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Deo gratias."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Te alabamos, Señor."
+                      }
+                    ]
+                  ],
+                  "en": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Thanks be to God."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Graças a Deus."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Rendiamo grazie a Dio."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Nous rendons grâce à Dieu."
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "A:"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Dank sei Gott."
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          },
+          "responsorialPsalm": {
+            "citation": {
+              "la": "Ps 44, 11-12. 14-15. 16-17",
+              "es": "Sal 44, 11-12. 14-15. 16-17",
+              "en": "Ps 44:11-12, 14-15, 16-17",
+              "pt-BR": "Sl 44, 11-12. 14-15. 16-17",
+              "de": "Ps 45",
+              "it": "Sal 44, 11-12. 14-15. 16-17",
+              "fr": "Ps 44, 11-12. 14-15. 16-17"
+            },
+            "responsory": {
+              "primary": {
+                "la": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Audi, fília, et vide, et inclína aurem tuam."
+                    }
+                  ]
+                ],
+                "es": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Escucha, hija, mira: inclina el oído."
+                    }
+                  ]
+                ],
+                "en": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Listen to me, daughter; see and bend your ear."
+                    }
+                  ]
+                ],
+                "pt-BR": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Escutai, minha filha, olhai, ouvi isto."
+                    }
+                  ]
+                ],
+                "it": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ascolta, figlia, guarda, porgi l’orecchio."
+                    }
+                  ]
+                ],
+                "fr": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Écoute, ma fille, regarde et tends l’oreille."
+                    }
+                  ]
+                ],
+                "de": [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Höre, Tochter, sieh her und neige dein Ohr!"
+                    }
+                  ]
+                ]
+              },
+              "alternatives": [
+                {
+                  "la": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "Ecce sponsus: éxite óbviam Christo Dómino."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "text",
+                        "text": "La figlia del re è tutta splendore."
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            "verses": {
+              "la": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Audi, fília, et vide, et inclína aurem tuam,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et oblivíscere pópulum tuum et domum patris tui;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "et concupíscet rex spéciem tuam."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Quóniam ipse est dóminus tuus et adóra eum."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Gloriósa nimis fília regis intrínsecus,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "textúris áureis circumamícta."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "In véstibus variegátis adducétur regi;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vírgines post eam, próximæ eius,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "afferúntur tibi."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Afferúntur in lætítia et exsultatióne,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "adducúntur in domum regis."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Pro pátribus tuis erunt tibi fílii;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "constítues eos príncipes super omnem terram."
+                    }
+                  ]
+                ]
+              ],
+              "es": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Escucha, hija, mira: inclina el oído,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "olvida tu pueblo y la casa paterna;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "prendado está el rey de tu belleza:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "póstrate ante él, que él es tu señor."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ya entra la princesa, bellísima,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vestida de perlas y brocado;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "la llevan ante el rey, con séquito de vírgenes, la siguen sus compañeras."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Las traen entre alegría y algazara,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "van entrando en el palacio real."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "«A cambio de tus padres tendrás hijos,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "que nombrarás príncipes por toda la tierra»."
+                    }
+                  ]
+                ]
+              ],
+              "en": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Listen, O daughter, give ear to my words: forget your own people and your father's house. So will the king desire your beauty: He is your Lord, pay homage to him."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "The daughter of the king is clothed with splendour, her robes embroidered with pearls set in gold. She is led to the king with her maiden companions."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "They are escorted amid gladness and joy; they pass within the palace of the king. Sons shall be yours in place of your fathers; you will make them princes over all the earth."
+                    }
+                  ]
+                ]
+              ],
+              "pt-BR": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Escutai, minha filha, olhai, ouvi isto: “Esquecei vosso povo e a casa paterna!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Entre cantos de festa e com grande alegria, ingressam, então, no palácio real”. Deixareis vossos pais, mas tereis muito filhos: farei deles os reis soberanos da terra."
+                    }
+                  ]
+                ]
+              ],
+              "it": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ascolta, figlia, guarda, porgi l’orecchio:"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dimentica il tuo popolo e la casa di tuo padre;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "il re è invaghito della tua bellezza."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "È lui il tuo signore: rendigli omaggio."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Entra la figlia del re: è tutta splendore,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "tessuto d’oro è il suo vestito."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "È condotta al re in broccati preziosi;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "dietro a lei le vergini, sue compagne,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "a te sono presentate."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Condotte in gioia ed esultanza,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sono presentate nel palazzo del re."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Ai tuoi padri succederanno i tuoi figli;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "li farai principi di tutta la terra."
+                    }
+                  ]
+                ]
+              ],
+              "fr": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Écoute, ma fille,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "regarde et tends l’oreille :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "oublie ton peuple et la maison de ton père :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "le roi sera séduit par ta beauté."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Il est ton Seigneur : prosterne-toi devant lui."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Fille de roi,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "elle est là, dans sa gloire,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vêtue d’étoffes d’or ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "on la conduit, toute parée, vers le roi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Des jeunes filles, ses compagnes, lui font cortège."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "On les conduit parmi les chants de fête :"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "elles entrent au palais du roi."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "À la place de tes pères se lèveront tes fils ;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sur toute la terre tu feras d’eux des princes."
+                    }
+                  ]
+                ]
+              ],
+              "de": [
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Höre, Tochter, sieh her und neige dein Ohr,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "vergiss dein Volk und dein Vaterhaus!"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Der König verlangt nach deiner Schönheit;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "er ist ja dein Herr, verneig dich vor ihm!"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Die Königstochter ist herrlich geschmückt,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihr Gewand ist durchwirkt mit Gold und Perlen."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Man geleitet sie in buntgestickten Kleidern zum König,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "Jungfrauen sind ihr Gefolge,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "ihre Freundinnen führt man zu dir."
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "type": "text",
+                      "text": "Man geleitet sie mit Freude und Jubel,"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "sie ziehen ein in den Palast des Königs."
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "An die Stelle deiner Väter treten einst deine Söhne;"
+                    }
+                  ],
+                  [
+                    {
+                      "type": "text",
+                      "text": "du bestellst sie zu Fürsten im ganzen Land."
+                    }
+                  ]
+                ]
+              ]
+            }
+          },
+          "gospelAcclamation": {
+            "mode": "alleluia-or-versus",
+            "acclamation": {
+              "la": [
+                [
+                  {
+                    "type": "response",
+                    "text": "(Alleluia.)"
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Aleluya."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Alleluia, alleluia."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Aleluia, aleluia."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Alleluia, alleluia."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "response",
+                    "text": "(Alléluia)"
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Halleluja. Halleluja."
+                  }
+                ]
+              ]
+            },
+            "verse": {
+              "la": [
+                [
+                  {
+                    "type": "response",
+                    "text": "(Alleluia.)"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Hæc est virgo sápiens, quam Dóminus vigilántem invénit; veniénte Dómino, introívit cum eo ad núptias."
+                  },
+                  {
+                    "type": "response",
+                    "text": "(Alleluia.)"
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Aleluya."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Esta es la virgen sabia, a quien el Señor encontró velando; al llegar el Señor, entró con él al banquete de bodas."
+                  },
+                  {
+                    "type": "response",
+                    "text": "Aleluya."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Alleluia, alleluia."
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is a wise bridesmaid, whom the Lord found waiting; at his coming, she went in with him to the wedding feast."
+                  },
+                  {
+                    "type": "response",
+                    "text": "Alleluia."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Aleluia, aleluia."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Esta é a virgem prudente, que o Senhor encontrou vigilante; chegando o noivo, ela entrou para a festa do seu casamento."
+                  },
+                  {
+                    "type": "response",
+                    "text": "Aleluia."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Alleluia, alleluia."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Questa è La vergine saggia che il Signore ha trovato vigilante; all’arrivo dello Sposo è entrata con lui alle nozze."
+                  },
+                  {
+                    "type": "response",
+                    "text": "Alleluia."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "response",
+                    "text": "(Alléluia)"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Voici la jeune fille prévoyante, que le Seigneur a trouvée en train de veiller. Quand le Seigneur arriva, elle entra avec lui pour les noces."
+                  },
+                  {
+                    "type": "response",
+                    "text": "(Alléluia)"
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "response",
+                    "text": "Halleluja. Halleluja."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Sie ist die kluge Jungfrau, die der Herr wachend antraf, als er kam; sie trat mit ihm ein in den Hochzeitssaal."
+                  },
+                  {
+                    "type": "response",
+                    "text": "Halleluja."
+                  }
+                ]
+              ]
+            }
+          },
+          "gospel": {
+            "label": {
+              "la": "Evangelium",
+              "es": "Evangelio",
+              "en": "Gospel",
+              "pt-BR": "Evangelho",
+              "it": "Vangelo",
+              "fr": "Proclamation de l’Évangile",
+              "de": "Evangelium"
+            },
+            "summary": {
+              "la": "Ecce sponsus! Exite obviam ei.",
+              "es": "¡Que llega el esposo, salid a su encuentro!",
+              "pt-BR": "O noivo está chegando: ide ao seu encontro!",
+              "it": "Ecco lo sposo! Andategli incontro!"
+            },
+            "introduction": {
+              "la": "✠ Léctio sancti Evangélii secúndum Matthǽum",
+              "es": "✠ Lectura del santo Evangelio según san Mateo",
+              "en": "✠ A reading from the holy Gospel according to Matthew",
+              "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+              "it": "✠ Dal Vangelo secondo Matteo",
+              "fr": "✠ Évangile de Jésus-Christ selon saint Matthieu",
+              "de": "✠ Aus dem heiligen Evangelium nach Matthäus"
+            },
+            "body": {
+              "plain": {
+                "la": "In illo témpore: Dixit Iesus discípulis suis parábolam hanc: «Símile erit regnum cælórum decem virgínibus, quæ accipiéntes lámpades suas exiérunt óbviam sponso. Quinque autem ex eis erant fátuæ, et quinque prudéntes. Fátuæ enim, accéptis lampádibus suis, non sumpsérunt óleum secum; prudéntes vero accepérunt óleum in vasis cum lampádibus suis. Moram autem faciénte sponso, dormitavérunt omnes et dormiérunt. Média autem nocte clamor factus est: “Ecce sponsus! Exíte óbviam ei”. Tunc surrexérunt omnes vírgines illæ et ornavérunt lámpades suas. Fátuæ autem sapiéntibus dixérunt: “Date nobis de óleo vestro, quia lámpades nostræ exstinguúntur”. Respondérunt prudéntes dicéntes: “Ne forte non suffíciat nobis et vobis, ite pótius ad vendéntes et émite vobis”. Dum autem irent émere, venit sponsus, et quæ parátæ erant, intravérunt cum eo ad núptias; et clausa est iánua. Novíssime autem véniunt et réliquæ vírgines dicéntes: “Dómine, dómine, áperi nobis”. At ille respóndens ait: “Amen dico vobis: Néscio vos”. Vigiláte ítaque, quia nescítis diem neque horam».",
+                "es": "En aquel tiempo, dijo Jesús a sus discípulos esta parábola: «El reino de los cielos se parece a diez vírgenes que tomaron sus lámparas y salieron al encuentro del esposo. Cinco de ellas eran necias y cinco eran prudentes. Las necias, al tomar las lámparas, no se proveyeron de aceite; en cambio, las prudentes se llevaron alcuzas de aceite con las lámparas. El esposo tardaba, les entró sueño a todas y se durmieron. A medianoche se oyó una voz: “¡Que llega el esposo, salid a su encuentro!”. Entonces se despertaron todas aquellas vírgenes y se pusieron a preparar sus lámparas. Y las necias dijeron a las prudentes: “Dadnos de vuestro aceite, que se nos apagan las lámparas”. Pero las prudentes contestaron: “Por si acaso no hay bastante para vosotras y nosotras, mejor es que vayáis a la tienda y os lo compréis”. Mientras iban a comprarlo, llegó el esposo, y las que estaban preparadas entraron con él al banquete de bodas, y se cerró la puerta. Más tarde llegaron también las otras vírgenes, diciendo: “Señor, señor, ábrenos”. Pero él respondió: “En verdad os digo que no os conozco”. Por tanto, velad, porque no sabéis el día ni la hora».",
+                "en": "Jesus told this parable to his disciples: 'The kingdom of heaven will be like this: Ten bridesmaids took their lamps and went to meet the bridegroom. Five of them were foolish and five were sensible: the foolish ones did take their lamps, but they brought no oil, whereas the sensible ones took flasks of oil as well as their lamps. The bridegroom was late, and they all grew drowsy and fell asleep. But at midnight there was a cry, \"The bridegroom is here! Go out and meet him.\" At this, all those bridesmaids woke up and trimmed their lamps, and the foolish ones said to the sensible ones, \"Give us some of your oil: our lamps are going out\". But they replied, \"There may not be enough for us and for you; you had better go to those who sell it and buy some for yourselves\". They had gone off to buy it when the bridegroom arrived. Those who were ready went in with him to the wedding hall and the door was closed. The other bridesmaids arrived later. \"Lord, Lord,\" they said \"open the door for us.\" But he replied, \"I tell you solemnly, I do not know you\". So stay awake, because you do not know either the day or the hour.",
+                "pt-BR": "Naquele tempo, disse Jesus, a seus discípulos, esta parábola: \"O Reino dos Céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo. Cinco delas eram imprevidentes, e as outras cinco eram previdentes. As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo. As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas. O noivo estava demorando e todas elas acabaram cochilando e dormindo. No meio da noite, ouviu-se um grito: 'O noivo está chegando. Ide ao seu encontro!' Então as dez jovens se levantaram e prepararam as lâmpadas. As imprevidentes disseram às previdentes: 'Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando'. As previdentes responderam: 'De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar aos vendedores'. Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou. Por fim, chegaram também as outras jovens e disseram: 'Senhor! Senhor! Abre-nos a porta!' Ele, porém, respondeu: 'Em verdade eu vos digo: Não vos conheço!' Portanto, ficai vigiando, pois não sabeis qual será o dia, nem a hora\".",
+                "it": "In quel tempo, Gesù disse ai suoi discepoli questa parabola: «Il regno dei cieli sarà simile a dieci vergini che presero le loro lampade e uscirono incontro allo sposo. Cinque di esse erano stolte e cinque sagge; le stolte presero le loro lampade, ma non presero con sé l’olio; le sagge invece, insieme alle loro lampade, presero anche l’olio in piccoli vasi. Poiché lo sposo tardava, si assopirono tutte e si addormentarono. A mezzanotte si alzò un grido: \"Ecco lo sposo! Andategli incontro!\". Allora tutte quelle vergini si destarono e prepararono le loro lampade. Le stolte dissero alle sagge: \"Dateci un po' del vostro olio, perché le nostre lampade si spengono\". Le sagge risposero: \"No, perché non venga a mancare a noi e a voi; andate piuttosto dai venditori e compratevene\". Ora, mentre quelle andavano a comprare l’olio, arrivò lo sposo e le vergini che erano pronte entrarono con lui alle nozze, e la porta fu chiusa. Più tardi arrivarono anche le altre vergini e incominciarono a dire: \"Signore, signore, aprici!\". Ma egli rispose: \"In verità io vi dico: non vi conosco\". Vegliate dunque, perché non sapete né il giorno né l’ora».",
+                "fr": "En ce temps-là, Jésus disait à ses disciples cette parabole : « Le royaume des Cieux sera comparable à dix jeunes filles invitées à des noces, qui prirent leur lampe pour sortir à la rencontre de l’époux. Cinq d’entre elles étaient insouciantes, et cinq étaient prévoyantes : les insouciantes avaient pris leur lampe sans emporter d’huile, tandis que les prévoyantes avaient pris, avec leurs lampes, des flacons d’huile. Comme l’époux tardait, elles s’assoupirent toutes et s’endormirent. Au milieu de la nuit, il y eut un cri : »Voici l’époux ! Sortez à sa rencontre.« Alors toutes ces jeunes filles se réveillèrent et se mirent à préparer leur lampe. Les insouciantes demandèrent aux prévoyantes : »Donnez-nous de votre huile, car nos lampes s’éteignent.« Les prévoyantes leur répondirent : »Jamais cela ne suffira pour nous et pour vous, allez plutôt chez les marchands vous en acheter.« Pendant qu’elles allaient en acheter, l’époux arriva. Celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et la porte fut fermée. Plus tard, les autres jeunes filles arrivèrent à leur tour et dirent : »Seigneur, Seigneur, ouvre-nous !« Il leur répondit : »Amen, je vous le dis : je ne vous connais pas.« Veillez donc, car vous ne savez ni le jour ni l’heure. »",
+                "de": "In jener Zeit erzählte Jesus seinen Jüngern das folgende Gleichnis: Mit dem Himmelreich wird es sein wie mit zehn Jungfrauen, die ihre Lampen nahmen und dem Bräutigam entgegengingen. Fünf von ihnen waren töricht, und fünf waren klug. Die törichten nahmen ihre Lampen mit, aber kein Öl, die klugen aber nahmen außer den Lampen noch Öl in Krügen mit. Als nun der Bräutigam lange nicht kam, wurden sie alle müde und schliefen ein. Mitten in der Nacht aber hörte man plötzlich laute Rufe: Der Bräutigam kommt! Geht ihm entgegen! Da standen die Jungfrauen alle auf und machten ihre Lampen zurecht. Die törichten aber sagten zu den klugen: Gebt uns von eurem Öl, sonst gehen unsere Lampen aus. Die klugen erwiderten ihnen: Dann reicht es weder für uns noch für euch; geht doch zu den Händlern und kauft, was ihr braucht. Während sie noch unterwegs waren, um das Öl zu kaufen, kam der Bräutigam; die Jungfrauen, die bereit waren, gingen mit ihm in den Hochzeitssaal, und die Tür wurde zugeschlossen. Später kamen auch die anderen Jungfrauen und riefen: Herr, Herr, mach uns auf! Er aber antwortete ihnen: Amen, ich sage euch: Ich kenne euch nicht. Seid also wachsam! Denn ihr wisst weder den Tag noch die Stunde."
+              }
+            },
+            "conclusion": {
+              "la": "Verbum Dómini.",
+              "es": "Palabra del Señor.",
+              "en": "The Gospel of the Lord.",
+              "pt-BR": "Palavra da Salvação.",
+              "it": "Parola del Signore.",
+              "fr": "Acclamons la Parole de Dieu !",
+              "de": "Evangelium unseres Herrn Jesus Christus."
+            },
+            "citation": {
+              "la": "Mt 25, 1-13",
+              "es": "Mt 25, 1-13",
+              "en": "Mt 25:1-13",
+              "pt-BR": "Mt 25, 1-13",
+              "it": "Mt 25, 1-13",
+              "fr": "Mt 25, 1-13",
+              "de": "Mt 25, 1-13"
+            },
+            "response": {
+              "body": {
+                "plain": {
+                  "la": "℟. Laus tibi, Christe.",
+                  "es": "℟. Gloria a ti, Señor Jesús.",
+                  "en": "℟. Praise to you, Lord Jesus Christ.",
+                  "pt-BR": "℟. Glória a vós, Senhor.",
+                  "it": "℟. Lode a te, o Cristo.",
+                  "fr": "℟. Louange à toi, Seigneur Jésus !",
+                  "de": "A: Lob sei dir, Christus."
+                },
+                "lines": {
+                  "la": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Laus tibi, Christe."
+                      }
+                    ]
+                  ],
+                  "es": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Gloria a ti, Señor Jesús."
+                      }
+                    ]
+                  ],
+                  "en": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Praise to you, Lord Jesus Christ."
+                      }
+                    ]
+                  ],
+                  "pt-BR": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Glória a vós, Senhor."
+                      }
+                    ]
+                  ],
+                  "it": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lode a te, o Cristo."
+                      }
+                    ]
+                  ],
+                  "fr": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "℟."
+                      },
+                      {
+                        "type": "text",
+                        "text": "Louange à toi, Seigneur Jésus !"
+                      }
+                    ]
+                  ],
+                  "de": [
+                    [
+                      {
+                        "type": "rubric",
+                        "text": "A:"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Lob sei dir, Christus."
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "preface": {
+        "prefaceRefs": [
+          "preface.pf057"
+        ],
+        "label": {
+          "la": "De sanctis virginibus et religiosis",
+          "es": "Santas Vírgenes y Religiosos",
+          "en": "HOLY VIRGINS AND RELIGIOUS",
+          "pt-BR": "Das Santas Virgens e Religiosos",
+          "it": "DELLE SANTE VERGINI E DEI SANTI RELIGIOSI",
+          "fr": "Des religieux",
+          "de": "HEILIGEN JUNGFRAUEN UND ORDENSLEUTEN"
+        },
+        "excerpt": {
+          "la": "In Sanctis enim, qui Christo se dedicavérunt",
+          "es": "Porque celebramos tu providencia admirable",
+          "en": "For in the Saints who consecrated themselves",
+          "pt-BR": "Recordando os santos e santas",
+          "it": "Nei tuoi santi, che per il regno",
+          "fr": "Nous célébrons les prévenances de ton amour",
+          "de": "Inmitten der Kirche berufst du Menschen"
+        }
+      }
+    }
+  ]
+}

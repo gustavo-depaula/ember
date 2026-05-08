@@ -1,0 +1,78 @@
+{
+  "id": "collection/devotions",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Catholic Devotions & Formation",
+    "pt-BR": "Devoções e Formação Católica"
+  },
+  "description": {
+    "en-US": "Devotions, novenas, the Divine Office, and formation programs.",
+    "pt-BR": "Devoções, novenas, o Ofício Divino e programas de formação."
+  },
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "devotion",
+    "formation",
+    "liturgy",
+    "novena"
+  ],
+  "items": [
+    {
+      "ref": "practice/divine-office"
+    },
+    {
+      "ref": "practice/bible-catechism-in-year"
+    },
+    {
+      "ref": "practice/seven-sorrows"
+    },
+    {
+      "ref": "practice/stations-cross"
+    },
+    {
+      "ref": "practice/way-of-light"
+    },
+    {
+      "ref": "practice/visit-blessed-sacrament"
+    },
+    {
+      "ref": "practice/act-consecration-sacred-heart"
+    },
+    {
+      "ref": "practice/little-office-bvm"
+    },
+    {
+      "ref": "practice/veni-creator"
+    },
+    {
+      "ref": "practice/preces-opus-dei"
+    },
+    {
+      "ref": "practice/triduum-holy-spirit"
+    },
+    {
+      "ref": "practice/stations-cross-scriptural"
+    },
+    {
+      "ref": "practice/stations-cross-jpii"
+    },
+    {
+      "ref": "practice/stations-cross-franciscan"
+    },
+    {
+      "ref": "practice/seven-sorrows-scriptural"
+    },
+    {
+      "ref": "practice/way-of-light-scriptural"
+    },
+    {
+      "ref": "practice/prayers-st-thomas-aquinas"
+    }
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

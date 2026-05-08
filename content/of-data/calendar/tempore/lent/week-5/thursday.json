@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-5.thursday",
+  "title": {
+    "la": "Hebdomada V Feria quinta",
+    "es": "Cuaresma Jueves de la V Semana",
+    "en": "Thursday of the V Week of Lent",
+    "pt-BR": "Quinta-feira da V Semana da Quaresma",
+    "it": "V SETTIMANA DI QUARESIMA Lunedì",
+    "fr": "Hebdomada V Jeudi",
+    "de": "Donnerstag der 5. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 5,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

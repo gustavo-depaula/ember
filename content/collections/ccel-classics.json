@@ -1,0 +1,35 @@
+{
+  "id": "collection/ccel-classics",
+  "version": "0.1.0",
+  "name": {
+    "en-US": "Christian Classics",
+    "pt-BR": "Clássicos Cristãos"
+  },
+  "description": {
+    "en-US": "Public-domain spiritual classics — the Imitation of Christ, the Confessions of Augustine, the Introduction to the Devout Life, and other foundational works of Catholic interior life. Imported from the Christian Classics Ethereal Library (ccel.org).",
+    "pt-BR": "Clássicos espirituais de domínio público — a Imitação de Cristo, as Confissões de Agostinho, a Filotéia de São Francisco de Sales e outras obras fundamentais da vida interior católica. Importados da Christian Classics Ethereal Library (ccel.org)."
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "classics",
+    "ccel",
+    "church-fathers",
+    "spiritual-life"
+  ],
+  "items": [
+    {
+      "ref": "book/imitation-of-christ"
+    },
+    {
+      "ref": "book/introduction-to-the-devout-life"
+    },
+    {
+      "ref": "book/confessions"
+    },
+    {
+      "ref": "book/summa-contra-gentiles"
+    }
+  ]
+}

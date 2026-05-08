@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-7.thursday",
+  "title": {
+    "la": "Feria V hebd. VII",
+    "es": "Jueves 7ª semana",
+    "en": "Thursday of the VII Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da VII Semana do Tempo Comum",
+    "it": "GIOVEDI della VII settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 7e semaine",
+    "de": "7. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 7,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

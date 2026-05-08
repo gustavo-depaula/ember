@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-0.thursday",
+  "title": {
+    "la": "Feria quinta post Cineres",
+    "es": "Cuaresma Jueves después de Ceniza",
+    "en": "Thursday of the  Week of Lent",
+    "pt-BR": "Quinta-feira da  Semana da Quaresma",
+    "it": "Quaresima Giovedì dopo le Ceneri",
+    "fr": "Jeudi après les Cendres",
+    "de": "Donnerstag nach Aschermittwoch"
+  },
+  "season": "lent",
+  "weekIndex": 0,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

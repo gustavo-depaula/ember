@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-2.friday",
+  "title": {
+    "la": "Hebdomada II Feria sexta",
+    "es": "II Semana Viernes",
+    "en": "Friday of the II Week of Easter",
+    "pt-BR": "Sexta-feira da II Semana da Páscoa",
+    "it": "II Settimana Venerdì",
+    "fr": "VENDREDI DE LA 2e SEMAINE",
+    "de": "FREITAG der zweiten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 2,
+  "weekday": "friday",
+  "liturgicalColor": "white"
+}

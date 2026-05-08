@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-28.saturday",
+  "title": {
+    "la": "Sabbato hebd. XXVIII",
+    "es": "Sábado 28ª semana",
+    "en": "Saturday of the XXVIII Week in Ordinary Time",
+    "pt-BR": "Sábado da XXVIII Semana do Tempo Comum",
+    "it": "Sabato della XXVIII settimana del Tempo Ordinario",
+    "fr": "Samedi de la 28e semaine",
+    "de": "28. Woche im Jahreskreis SAMSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 28,
+  "weekday": "saturday",
+  "liturgicalColor": "green"
+}

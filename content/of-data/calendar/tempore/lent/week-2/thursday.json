@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-2.thursday",
+  "title": {
+    "la": "Hebdomada II Feria quinta",
+    "es": "Cuaresma Jueves de la II Semana",
+    "en": "Thursday of the II Week of Lent",
+    "pt-BR": "Quinta-feira da II Semana da Quaresma",
+    "it": "II SETTIMANA DI QUARESIMA Giovedì",
+    "fr": "2e semaine Jeudi",
+    "de": "Donnerstag der 2. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 2,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

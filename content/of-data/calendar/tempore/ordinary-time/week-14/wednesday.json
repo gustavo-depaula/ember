@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-14.wednesday",
+  "title": {
+    "la": "Feria IV hebd. XIV",
+    "es": "Miércoles 14ª semana",
+    "en": "Wednesday of the XIV Week in Ordinary Time",
+    "pt-BR": "Quarta-feira da XIV Semana do Tempo Comum",
+    "it": "MERCOLEDI della XIV settimana del Tempo Ordinario",
+    "fr": "Mercredi de la 14e semaine",
+    "de": "14. Woche im Jahreskreis MITTWOCH"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 14,
+  "weekday": "wednesday",
+  "liturgicalColor": "green"
+}

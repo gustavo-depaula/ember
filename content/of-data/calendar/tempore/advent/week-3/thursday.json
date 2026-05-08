@@ -1,0 +1,16 @@
+{
+  "id": "tempore.advent.week-3.thursday",
+  "title": {
+    "la": "Hebdomada III Feria quinta",
+    "es": "Adviento Jueves de la III Semana",
+    "en": "Thursday of the III Week of Advent",
+    "pt-BR": "Quinta-feira da III Semana do Advento",
+    "it": "Avvento III SETTIMANA Giovedì",
+    "fr": "3e semaine Jeudi",
+    "de": "DONNERSTAG der dritten Adventswoche"
+  },
+  "season": "advent",
+  "weekIndex": 3,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

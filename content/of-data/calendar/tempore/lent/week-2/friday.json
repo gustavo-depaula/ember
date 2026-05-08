@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-2.friday",
+  "title": {
+    "la": "Hebdomada II Feria sexta",
+    "es": "Cuaresma Viernes de la II Semana",
+    "en": "Friday of the II Week of Lent",
+    "pt-BR": "Sexta-feira da II Semana da Quaresma",
+    "it": "II SETTIMANA DI QUARESIMA Venerdì",
+    "fr": "2e semaine Vendredi",
+    "de": "Freitag der 2. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 2,
+  "weekday": "friday",
+  "liturgicalColor": "violet"
+}

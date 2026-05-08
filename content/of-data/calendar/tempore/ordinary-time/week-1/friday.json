@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-1.friday",
+  "title": {
+    "la": "Feria VI hebd. I",
+    "es": "Viernes 1ª semana",
+    "en": "Friday of the I Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da I Semana do Tempo Comum",
+    "it": "VENERDI della I settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 1e semaine",
+    "de": "1. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 1,
+  "weekday": "friday",
+  "liturgicalColor": "green"
+}

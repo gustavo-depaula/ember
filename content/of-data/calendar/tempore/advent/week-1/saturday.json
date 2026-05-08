@@ -1,0 +1,16 @@
+{
+  "id": "tempore.advent.week-1.saturday",
+  "title": {
+    "la": "Hebdomada I Sabbato",
+    "es": "Adviento Sábado de la I Semana",
+    "en": "Saturday of the I Week of Advent",
+    "pt-BR": "Sábado da I Semana do Advento",
+    "it": "Avvento I SETTIMANA Sabato",
+    "fr": "1e semaine Samedi",
+    "de": "SAMSTAG der ersten Adventswoche"
+  },
+  "season": "advent",
+  "weekIndex": 1,
+  "weekday": "saturday",
+  "liturgicalColor": "violet"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-19.tuesday",
+  "title": {
+    "la": "Feria III hebd. XIX",
+    "es": "Martes 19ª semana",
+    "en": "Tuesday of the XIX Week in Ordinary Time",
+    "pt-BR": "Terça-feira da XIX Semana do Tempo Comum",
+    "it": "MARTEDI della XIX settimana del Tempo Ordinario",
+    "fr": "Mardi de la 19e semaine",
+    "de": "19. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 19,
+  "weekday": "tuesday",
+  "liturgicalColor": "green"
+}

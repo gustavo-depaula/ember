@@ -1,5 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static section list never reorders
 import { resolveFlow } from '@ember/content-engine'
+import { useQuery } from '@tanstack/react-query'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
@@ -9,7 +10,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { ManuscriptFrame, ScreenLayout, SectionBlock } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { createEngineContext } from '@/content/engineContext'
-import { getChapterManifest, loadChapterContent } from '@/content/registry'
+import { getChapterManifest, loadChapterContent, prefetchChapterProse } from '@/content/registry'
 import { localizeContent } from '@/lib/i18n'
 
 export default function ChapterReaderScreen() {
@@ -19,7 +20,18 @@ export default function ChapterReaderScreen() {
   const theme = useTheme()
 
   const chapter = chapterId && libraryId ? getChapterManifest(chapterId, libraryId) : undefined
-  const content = chapterId && libraryId ? loadChapterContent(chapterId, libraryId) : undefined
+  const contentQuery = useQuery({
+    queryKey: ['chapter-content', chapterId, libraryId],
+    queryFn: async () => {
+      if (!chapterId) return undefined
+      // Prefetch all prose blobs so the engine's prose Proxy has them resident.
+      await prefetchChapterProse(chapterId, [])
+      return loadChapterContent(chapterId, libraryId)
+    },
+    enabled: !!chapterId,
+    staleTime: Infinity,
+  })
+  const content = contentQuery.data
 
   const sections = useMemo(() => {
     if (!content || !libraryId) return []

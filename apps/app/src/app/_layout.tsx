@@ -30,16 +30,11 @@ import { ConfirmHost, confirm } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
+import { loadCatalogFromHearth, warmResidentManifests } from '@/content/resolver'
+import { registerStarter } from '@/content/starter'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { baseLibraryId } from '@/features/libraries/constants'
-import {
-  checkAndUpdateLibraries,
-  downloadAndInstallLibrary,
-  fetchRegistry,
-  getInstalledLibraries,
-  loadInstalledLibraries,
-} from '@/features/libraries/libraryManager'
+import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -121,41 +116,51 @@ export default function RootLayout() {
   useEffect(() => {
     if (!dbReady) return
 
-    async function initLibraries() {
+    async function initCorpus() {
       try {
+        // 1. Embedded starter pack — synchronous, in-memory. App is functional
+        //    offline immediately with essential prayers + minimal Rosary.
+        registerStarter()
+
         registerDataSources()
         await initHearth()
-        await loadInstalledLibraries()
 
-        const installed = await getInstalledLibraries()
-        if (installed.length === 0) {
-          const registry = await fetchRegistry()
-          const baseLibrary = registry.libraries.find((l) => l.id === baseLibraryId)
-          if (baseLibrary) await downloadAndInstallLibrary(baseLibrary)
-        }
+        // 2. Fetch catalog (network-first; falls back to SQLite cache).
+        await loadCatalogFromHearth().catch((err) => {
+          console.warn('[startup] catalog fetch failed; proceeding with starter only:', err)
+        })
+
+        // 3. Rehydrate the user's pinned-items list and warm their manifests.
+        await rehydratePinned().catch((err) => {
+          console.warn('[startup] pinned rehydrate failed:', err)
+        })
+
+        // 4. Warm always-resident manifests (prayers, practice/chapter/book/collection
+        //    item-manifests). Synchronous resolver lookups depend on these.
+        await warmResidentManifests().catch((err) => {
+          console.warn('[startup] warm manifests failed:', err)
+        })
 
         await Promise.all([seedPractices(), seedCursors()])
-
-        if (installed.length > 0) {
-          InteractionManager.runAfterInteractions(() => {
-            checkAndUpdateLibraries()
-              .then(async (updated) => {
-                if (updated) await seedPractices()
-              })
-              .catch((err) => console.warn('Library update check failed:', err))
-          })
-        }
       } catch (err) {
-        console.error('[startup] initLibraries failed:', err)
+        console.error('[startup] initCorpus failed:', err)
       } finally {
         setSeeded(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
+
+        // Background: refresh catalog + reseed periodically.
+        InteractionManager.runAfterInteractions(() => {
+          loadCatalogFromHearth()
+            .then(() => warmResidentManifests())
+            .then(() => seedPractices())
+            .catch((err) => console.warn('Catalog refresh failed:', err))
+        })
       }
     }
 
-    initLibraries()
+    initCorpus()
   }, [dbReady])
 
   const ready =

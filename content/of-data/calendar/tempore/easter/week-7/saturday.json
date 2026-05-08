@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-7.saturday",
+  "title": {
+    "la": "Hebdomada VII Sabbato Ad Missam matutinam",
+    "es": "VII Semana Sábado",
+    "en": "Saturday of the VII Week of Easter",
+    "pt-BR": "Sábado da VII Semana da Páscoa",
+    "it": "VII Settimana Sabato Messa del mattino",
+    "fr": "SAMEDI DE LA 7e SEMAINE",
+    "de": "SAMSTAG der siebten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 7,
+  "weekday": "saturday",
+  "liturgicalColor": "white"
+}

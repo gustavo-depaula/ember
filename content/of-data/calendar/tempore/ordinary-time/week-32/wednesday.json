@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-32.wednesday",
+  "title": {
+    "la": "Feria IV hebd. XXXII",
+    "es": "Miércoles 32ª semana",
+    "en": "Wednesday of the XXXII Week in Ordinary Time",
+    "pt-BR": "Quarta-feira da XXXII Semana do Tempo Comum",
+    "it": "MERCOLEDI della XXXII settimana del Tempo Ordinario",
+    "fr": "Mercredi de la 32e semaine",
+    "de": "32. Woche im Jahreskreis MITTWOCH"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 32,
+  "weekday": "wednesday",
+  "liturgicalColor": "green"
+}

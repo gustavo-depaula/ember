@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-16.thursday",
+  "title": {
+    "la": "Feria V hebd. XVI",
+    "es": "Jueves 16ª semana",
+    "en": "Thursday of the XVI Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da XVI Semana do Tempo Comum",
+    "it": "GIOVEDI della XVI settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 16e semaine",
+    "de": "16. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 16,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

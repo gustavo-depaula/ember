@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-28.friday",
+  "title": {
+    "la": "Feria VI hebd. XXVIII",
+    "es": "Viernes 28ª semana",
+    "en": "Friday of the XXVIII Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da XXVIII Semana do Tempo Comum",
+    "it": "VENERDI della XXVIII settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 28e semaine",
+    "de": "28. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 28,
+  "weekday": "friday",
+  "liturgicalColor": "green"
+}

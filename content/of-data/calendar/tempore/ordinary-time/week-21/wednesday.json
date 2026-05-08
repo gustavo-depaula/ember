@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-21.wednesday",
+  "title": {
+    "la": "Feria IV hebd. XXI",
+    "es": "Miércoles 21ª semana",
+    "en": "Wednesday of the XXI Week in Ordinary Time",
+    "pt-BR": "Quarta-feira da XXI Semana do Tempo Comum",
+    "it": "MERCOLEDI della XXI settimana del Tempo Ordinario",
+    "fr": "Mercredi de la 21e semaine",
+    "de": "21. Woche im Jahreskreis MITTWOCH"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 21,
+  "weekday": "wednesday",
+  "liturgicalColor": "green"
+}

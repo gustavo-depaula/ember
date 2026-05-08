@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-5.wednesday",
+  "title": {
+    "la": "Hebdomada V Feria quarta",
+    "es": "V Semana Miércoles",
+    "en": "Wednesday of the V Week of Easter",
+    "pt-BR": "Quarta-feira da V Semana da Páscoa",
+    "it": "V Settimana Mercoledì",
+    "fr": "MERCREDI DE LA 5e SEMAINE",
+    "de": "MITTWOCH der fünften Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 5,
+  "weekday": "wednesday",
+  "liturgicalColor": "white"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-10.tuesday",
+  "title": {
+    "la": "Feria III hebd. X",
+    "es": "Martes 10ª semana",
+    "en": "Tuesday of the X Week in Ordinary Time",
+    "pt-BR": "Terça-feira da X Semana do Tempo Comum",
+    "it": "MARTEDI della X settimana del Tempo Ordinario",
+    "fr": "Mardi de la 10e semaine",
+    "de": "10. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 10,
+  "weekday": "tuesday",
+  "liturgicalColor": "green"
+}

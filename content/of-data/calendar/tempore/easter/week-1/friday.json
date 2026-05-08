@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-1.friday",
+  "title": {
+    "la": "FERIA VI INFRA OCTAVAM PASCHÆ",
+    "es": "VIERNES DE LA OCTAVA DE PASCUA",
+    "en": "Friday of the I Week of Easter",
+    "pt-BR": "Sexta-feira da I Semana da Páscoa",
+    "it": "OTTAVA DI PASQUA Venerdì fra l’ottava di Pasqua",
+    "fr": "VENDREDI DE LA 1e SEMAINE",
+    "de": "FREITAG der Osteroktav"
+  },
+  "season": "easter",
+  "weekIndex": 1,
+  "weekday": "friday",
+  "liturgicalColor": "white"
+}

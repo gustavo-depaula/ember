@@ -1,0 +1,16 @@
+{
+  "id": "tempore.christmas.nativity-day",
+  "title": {
+    "la": "IN NATIVITATE DOMINI",
+    "es": "NATIVIDAD DEL SEÑOR",
+    "en": "The Nativity of the Lord (Christmas) — Mass during the Day",
+    "pt-BR": "Natal do Senhor — Missa do Dia",
+    "it": "NATALE DEL SIGNORE",
+    "fr": "SOLENNITÉ DE LA NATIVITÉ Messe du jour",
+    "de": "HOCHFEST DER GEBURT DES HERRN Weihnachten Am Tage"
+  },
+  "season": "christmas",
+  "weekday": "friday",
+  "rank": "solemnity",
+  "liturgicalColor": "white"
+}

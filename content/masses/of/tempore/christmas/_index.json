@@ -1,0 +1,25 @@
+{
+  "count": 19,
+  "season": "christmas",
+  "ids": [
+    "tempore.christmas.after-epiphany.friday",
+    "tempore.christmas.after-epiphany.monday",
+    "tempore.christmas.after-epiphany.saturday",
+    "tempore.christmas.after-epiphany.thursday",
+    "tempore.christmas.after-epiphany.tuesday",
+    "tempore.christmas.after-epiphany.wednesday",
+    "tempore.christmas.baptism-of-the-lord",
+    "tempore.christmas.dec-29",
+    "tempore.christmas.dec-30",
+    "tempore.christmas.dec-31",
+    "tempore.christmas.epiphany",
+    "tempore.christmas.epiphany-alt",
+    "tempore.christmas.holy-family",
+    "tempore.christmas.mary-mother-of-god",
+    "tempore.christmas.nativity-dawn",
+    "tempore.christmas.nativity-day",
+    "tempore.christmas.nativity-night",
+    "tempore.christmas.nativity-vigil",
+    "tempore.christmas.second-sunday-after-christmas"
+  ]
+}

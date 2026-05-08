@@ -182,6 +182,7 @@ function collectSeedEvents(): AppEvent[] {
     }
 
     const d = manifest.defaults
+    if (!d?.slots?.length) continue
 
     if (!store.practices.has(manifest.id)) {
       events.push({

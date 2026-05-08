@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-2.monday",
+  "title": {
+    "la": "Hebdomada II Feria secunda",
+    "es": "Cuaresma Lunes de la II Semana",
+    "en": "Monday of the II Week of Lent",
+    "pt-BR": "Segunda-feira da II Semana da Quaresma",
+    "it": "II SETTIMANA DI QUARESIMA Lunedì",
+    "fr": "2e semaine Lundi",
+    "de": "Montag der 2. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 2,
+  "weekday": "monday",
+  "liturgicalColor": "violet"
+}

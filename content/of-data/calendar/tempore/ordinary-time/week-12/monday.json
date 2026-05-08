@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-12.monday",
+  "title": {
+    "la": "Feria II hebd. XII",
+    "es": "Lunes 12ª semana",
+    "en": "Monday of the XII Week in Ordinary Time",
+    "pt-BR": "Segunda-feira da XII Semana do Tempo Comum",
+    "it": "LUNEDI della XII settimana del Tempo Ordinario",
+    "fr": "Lundi de la 12e semaine",
+    "de": "12. Woche im Jahreskreis MONTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 12,
+  "weekday": "monday",
+  "liturgicalColor": "green"
+}

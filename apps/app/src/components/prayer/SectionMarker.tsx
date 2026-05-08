@@ -25,13 +25,7 @@ const COLOR_HEX: Record<string, string> = {
  * the default border color since they're nearly invisible against a
  * pale background.
  */
-export function SectionMarker({
-  title,
-  color,
-}: {
-  title: BilingualText
-  color?: string
-}) {
+export function SectionMarker({ title, color }: { title: BilingualText; color?: string }) {
   const theme = useTheme()
   const ctxColor = useLiturgicalColor()
   const effective = color ?? ctxColor
@@ -39,7 +33,7 @@ export function SectionMarker({
     effective && effective !== 'white' && effective !== 'rose' && effective !== 'gold'
       ? COLOR_HEX[effective]
       : undefined
-  const ruleColor = tint ?? (theme.borderColor?.val ?? '#444')
+  const ruleColor = tint ?? theme.borderColor?.val ?? '#444'
   const ruleOpacity = tint ? 0.6 : 1
   return (
     <YStack alignItems="center" gap="$xs" marginVertical="$lg">

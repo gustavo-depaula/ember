@@ -1,12 +1,14 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
+import { getEntry, getRememberedManifest, rememberManifestBody } from '@/content/contentIndex'
 import {
   getBookEntry,
   getProseText,
   loadBookChapterText,
-  readLibraryAsset,
+  loadMassProper,
   resolveCanticle,
   resolvePrayer,
 } from '@/content/registry'
+import { getJson } from '@/content/store'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -29,6 +31,60 @@ function findTocTitle(
   return undefined
 }
 
+/**
+ * Translate a v1-style asset path (e.g. `of/masses/tempore/...json`,
+ * `of/library/preface/preface.pf001.json`) into a v2 corpus id, fetch the
+ * shape + per-language blobs, and recombine them so callers see the same
+ * multilingual JSON shape they used to receive.
+ */
+async function fetchOfAsset(path: string, langs: string[]): Promise<unknown | undefined> {
+  // Drop trailing .json and any leading of/
+  let trimmed = path.replace(/\.json$/, '').replace(/^\/+/, '')
+  if (trimmed.startsWith('of/')) trimmed = trimmed.slice(3)
+
+  // calendar/saints/igmr/sacerdotale → of-data/...
+  for (const sub of ['calendar', 'saints', 'igmr', 'sacerdotale']) {
+    if (trimmed.startsWith(`${sub}/`) || trimmed === sub) {
+      const id = `of-data/${trimmed}`
+      const entry = getEntry(id)
+      if (!entry) return undefined
+      const item = await ensureManifest(entry.hash)
+      const inner = (item as { data?: { hash: string } }).data
+      if (!inner) return item
+      return getJson(inner.hash)
+    }
+  }
+
+  // library/{ordinary,preface,eucharistic-prayer}/<id> → of/{kind}/<id>
+  if (trimmed.startsWith('library/')) {
+    const rest = trimmed.slice('library/'.length)
+    const id = `of/${rest}`
+    return loadMassProperLike(id, langs)
+  }
+
+  // masses/<...> → mass/of/<...>
+  if (trimmed.startsWith('masses/')) {
+    const id = `mass/of/${trimmed.slice('masses/'.length)}`
+    return loadMassProperLike(id, langs)
+  }
+
+  return undefined
+}
+
+async function loadMassProperLike(id: string, langs: string[]): Promise<unknown | undefined> {
+  const entry = getEntry(id)
+  if (!entry) return undefined
+  return loadMassProper(id, langs)
+}
+
+async function ensureManifest(hash: string): Promise<unknown> {
+  const cached = getRememberedManifest<unknown>(hash)
+  if (cached) return cached
+  const fetched = await getJson<unknown>(hash)
+  rememberManifestBody(hash, fetched)
+  return fetched
+}
+
 export function createEngineContext(
   libraryId?: string,
   chapterId?: string,
@@ -38,7 +94,13 @@ export function createEngineContext(
   const contentLanguage = languagePrefs?.contentLanguage ?? state.contentLanguage
   const secondaryLanguage = languagePrefs?.secondaryLanguage ?? state.secondaryLanguage
 
-  // Build prayers map with scoped resolution via Proxy
+  // The languages we'll request when merging per-language split blobs (OF
+  // Mass propers, ordinaries, prefaces). Always include Latin since the
+  // rubrics fall back to it.
+  const requestedLangs = Array.from(
+    new Set([contentLanguage, secondaryLanguage, 'la'].filter(Boolean) as string[]),
+  )
+
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {
       return resolvePrayer(ref, libraryId)
@@ -59,14 +121,12 @@ export function createEngineContext(
 
   const prose = new Proxy({} as Record<string, { 'en-US'?: string; 'pt-BR'?: string }>, {
     get(_, filePath: string) {
-      if (!libraryId) return undefined
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, libraryId)
+      return getProseText(key)
     },
     has(_, filePath: string) {
-      if (!libraryId) return false
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, libraryId) !== undefined
+      return getProseText(key) !== undefined
     },
   })
 
@@ -82,8 +142,7 @@ export function createEngineContext(
     canticles,
     prose,
     getBookChapterTitle: (book, chapter, lang) => {
-      if (!libraryId) return undefined
-      const entry = getBookEntry(book, libraryId)
+      const entry = getBookEntry(book)
       if (!entry?.toc) return undefined
       const title = findTocTitle(
         entry.toc as Array<{ id: string; title: Record<string, string>; children?: unknown[] }>,
@@ -92,18 +151,13 @@ export function createEngineContext(
       if (!title) return undefined
       return title[lang] ?? title['pt-BR'] ?? title['en-US'] ?? Object.values(title)[0]
     },
-    getBookLanguages: (book) => {
-      if (!libraryId) return []
-      return getBookEntry(book, libraryId)?.languages ?? []
-    },
+    getBookLanguages: (book) => getBookEntry(book)?.languages ?? [],
     loadBookChapterTextAsync: async (book, chapter, lang) => {
-      if (!libraryId) return undefined
-      const text = await loadBookChapterText(libraryId, book, chapter, lang)
+      const text = await loadBookChapterText(undefined, book, chapter, lang)
       if (!text) return undefined
       return { [lang]: text }
     },
-    fetchAsset: (libId, path) => readLibraryAsset(libId, path),
-    fetchOwnAsset: (path) =>
-      libraryId ? readLibraryAsset(libraryId, path) : Promise.resolve(undefined),
+    fetchAsset: async (_libId, path) => fetchOfAsset(path, requestedLangs),
+    fetchOwnAsset: async (path) => fetchOfAsset(path, requestedLangs),
   }
 }

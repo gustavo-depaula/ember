@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-11.tuesday",
+  "title": {
+    "la": "Feria III hebd. XI",
+    "es": "Martes 11ª semana",
+    "en": "Tuesday of the XI Week in Ordinary Time",
+    "pt-BR": "Terça-feira da XI Semana do Tempo Comum",
+    "it": "MARTEDI della XI settimana del Tempo Ordinario",
+    "fr": "Mardi de la 11e semaine",
+    "de": "11. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 11,
+  "weekday": "tuesday",
+  "liturgicalColor": "green"
+}

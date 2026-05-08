@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-2.wednesday",
+  "title": {
+    "la": "Hebdomada II Feria quarta",
+    "es": "Cuaresma Miércoles de la II Semana",
+    "en": "Wednesday of the II Week of Lent",
+    "pt-BR": "Quarta-feira da II Semana da Quaresma",
+    "it": "II SETTIMANA DI QUARESIMA Mercoledì",
+    "fr": "2e semaine Mercredi",
+    "de": "Mittwoch der 2. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 2,
+  "weekday": "wednesday",
+  "liturgicalColor": "violet"
+}

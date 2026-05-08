@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-2.tuesday",
+  "title": {
+    "la": "Hebdomada II Feria tertia",
+    "es": "II Semana Martes",
+    "en": "Tuesday of the II Week of Easter",
+    "pt-BR": "Terça-feira da II Semana da Páscoa",
+    "it": "II Settimana Martedì",
+    "fr": "MARDI DE LA 2e SEMAINE",
+    "de": "DIENSTAG der zweiten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 2,
+  "weekday": "tuesday",
+  "liturgicalColor": "white"
+}

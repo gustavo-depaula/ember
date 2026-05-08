@@ -1,0 +1,15 @@
+{
+  "id": "tempore.christmas.holy-family",
+  "title": {
+    "la": "S. FAMILIÆ IESU, MARIÆ ET IOSEPH",
+    "es": "LA SAGRADA FAMILIA: JESÚS, MARÍA Y JOSÉ",
+    "en": "The Holy Family of Jesus, Mary and Joseph",
+    "pt-BR": "Sagrada Família de Jesus, Maria e José",
+    "it": "SANTA FAMIGLIA DI GESÙ MARIA E GIUSEPPE",
+    "fr": "LA SAINTE FAMILLE DE JÉSUS, MARIE ET JOSEPH",
+    "de": "FEST DER HEILIGEN FAMILIE"
+  },
+  "season": "christmas",
+  "rank": "feast",
+  "liturgicalColor": "white"
+}

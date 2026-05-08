@@ -1,0 +1,55 @@
+{
+  "id": "collection/alphonsus-liguori",
+  "version": "1.0.0",
+  "name": {
+    "pt-BR": "Santo Afonso de Ligório",
+    "en-US": "St. Alphonsus Liguori",
+    "it": "Sant'Alfonso Maria de Liguori"
+  },
+  "description": {
+    "pt-BR": "As obras espirituais de Santo Afonso Maria de Ligório — Doutor da Oração, fundador dos Redentoristas e um dos maiores escritores ascéticos da Igreja.",
+    "en-US": "The spiritual works of St. Alphonsus Maria de Liguori — Doctor of Prayer, founder of the Redemptorists, and one of the greatest ascetical writers of the Church.",
+    "it": "Le opere spirituali di Sant'Alfonso Maria de Liguori — Dottore della Preghiera, fondatore dei Redentoristi e uno dei più grandi scrittori ascetici della Chiesa."
+  },
+  "languages": [
+    "pt-BR",
+    "it",
+    "fr-FR"
+  ],
+  "tags": [
+    "meditation",
+    "liguori",
+    "daily",
+    "ascetical",
+    "prayer"
+  ],
+  "items": [
+    {
+      "ref": "practice/meditacoes-ligorio"
+    },
+    {
+      "ref": "book/meditacoes-ligorio"
+    },
+    {
+      "ref": "book/visite-al-ss-sacramento"
+    },
+    {
+      "ref": "book/pratica-di-amar-gesu-cristo"
+    },
+    {
+      "ref": "book/apparecchio-alla-morte"
+    },
+    {
+      "ref": "book/gran-mezzo-della-preghiera"
+    },
+    {
+      "ref": "book/esercizio-via-crucis"
+    },
+    {
+      "ref": "book/glorie-di-maria"
+    },
+    {
+      "ref": "book/plus-belles-prieres"
+    }
+  ]
+}

@@ -1,0 +1,2287 @@
+{
+  "id": "tempore.ordinary-time.week-31.wednesday",
+  "group": "tempore",
+  "season": "ordinary-time",
+  "weekIndex": 31,
+  "weekday": "wednesday",
+  "title": {
+    "la": "Feria IV hebd. XXXI",
+    "es": "Miércoles 31ª semana",
+    "en": "Wednesday of the XXXI Week in Ordinary Time",
+    "pt-BR": "Quarta-feira da XXXI Semana do Tempo Comum",
+    "it": "MERCOLEDI della XXXI settimana del Tempo Ordinario",
+    "fr": "Mercredi de la 31e semaine",
+    "de": "31. Woche im Jahreskreis MITTWOCH"
+  },
+  "readings": {
+    "I": {
+      "firstReading": {
+        "label": {
+          "la": "Lectio prior",
+          "es": "Primera Lectura",
+          "en": "First Reading",
+          "pt-BR": "Primeira Leitura",
+          "it": "Prima lettura",
+          "fr": "Première lecture",
+          "de": "Erste Lesung"
+        },
+        "summary": {
+          "la": "Plenitudo legis est dilectio",
+          "es": "La plenitud de la ley del amor",
+          "pt-BR": "O amor é a plenitude da lei.",
+          "it": "Pienezza della Legge è la carità."
+        },
+        "introduction": {
+          "la": "Léctio Epístolæ béati Pauli apóstoli ad Romános",
+          "es": "Lectura de la carta del apóstol san Pablo a los Romanos",
+          "en": "A reading from the Letter of Saint Paul to the Romans",
+          "pt-BR": "Leitura da Carta de São Paulo aos Romanos",
+          "it": "Dalla lettera di san Paolo apostolo ai Romani",
+          "fr": "Lettre de saint Paul Apôtre aux Romains",
+          "de": "Lesung aus dem Brief des Apostels Paulus an die Römer"
+        },
+        "body": {
+          "plain": {
+            "la": "Fratres: Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. Nam: Non adulterábis, Non occídes, Non furáberis, Non concupísces, et si quod est áliud mandátum, in hoc verbo recapitulátur: Díliges próximum tuum tamquam teípsum. Diléctio próximo malum non operátur; plenitúdo ergo legis est diléctio.",
+            "es": "Hermanos: A nadie le debáis nada, más que el amor mutuo; porque el que ama ha cumplido el resto de la ley. De hecho, el «no cometerás adulterio, no matarás, no robarás, no codiciarás», y cualquiera de los otros mandamientos, se resume en esto: «Amarás a tu prójimo como a ti mismo». El amor no hace mal a su prójimo; por eso la plenitud de la ley es el amor.",
+            "en": "Avoid getting into debt, except the debt of mutual love. If you love your fellow men you have carried out your obligations. All the commandments: You shall not commit adultery, you shall not kill, you shall not steal, you shall not covet, and so on, are summed up in this single command: You must love your neighbour as yourself. Love is the one thing that cannot hurt your neighbour; that is why it is the answer to every one of the commandments.",
+            "pt-BR": "Irmãos, não fiqueis devendo nada a ninguém, a não ser o amor mútuo – pois quem ama o próximo está cumprindo a Lei. De fato, os mandamentos: “Não cometerás adultério”, “Não matarás”, “Não roubarás”, “Não cobiçarás”, e qualquer outro mandamento se resumem neste: “Amarás a teu próximo como a ti mesmo”. O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei.",
+            "it": "Fratelli, non siate debitori di nulla a nessuno, se non dell’amore vicendevole; perché chi ama l’altro ha adempiuto la Legge. Infatti: «Non commetterai adulterio, non ucciderai, non ruberai, non desidererai», e qualsiasi altro comandamento, si ricapitola in questa parola: «Amerai il tuo prossimo come te stesso». La carità non fa alcun male al prossimo: pienezza della Legge infatti è la carità.",
+            "fr": "Frères, n’ayez de dette envers personne, sauf celle de l’amour mutuel, car celui qui aime les autres a pleinement accompli la Loi. La Loi dit : Tu ne commettras pas d’adultère, tu ne commettras pas de meurtre, tu ne commettras pas de vol, tu ne convoiteras pas. Ces commandements et tous les autres se résument dans cette parole : Tu aimeras ton prochain comme toi-même. L’amour ne fait rien de mal au prochain. Donc, le plein accomplissement de la Loi, c’est l’amour.",
+            "de": "Brüder! Bleibt niemand etwas schuldig; nur die Liebe schuldet ihr einander immer. Wer den andern liebt, hat das Gesetz erfüllt. Denn die Gebote: Du sollst nicht die Ehe brechen, du sollst nicht töten, du sollst nicht stehlen, du sollst nicht begehren!, und alle anderen Gebote sind in dem einen Satz zusammengefasst: Du sollst deinen Nächsten lieben wie dich selbst. Die Liebe tut dem Nächsten nichts Böses. Also ist die Liebe die Erfüllung des Gesetzes."
+          },
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fratres: Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. Nam: Non adulterábis, Non occídes, Non furáberis, Non concupísces, et si quod est áliud mandátum, in hoc verbo recapitulátur: Díliges próximum tuum tamquam teípsum. Diléctio próximo malum non operátur; plenitúdo ergo legis est diléctio."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Hermanos: A nadie le debáis nada, más que el amor mutuo; porque el que ama ha cumplido el resto de la ley. De hecho, el «no cometerás adulterio, no matarás, no robarás, no codiciarás», y cualquiera de los otros mandamientos, se resume en esto: «Amarás a tu prójimo como a ti mismo». El amor no hace mal a su prójimo; por eso la plenitud de la ley es el amor."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "Avoid getting into debt, except the debt of mutual love. If you love your fellow men you have carried out your obligations. All the commandments: You shall not commit adultery, you shall not kill, you shall not steal, you shall not covet, and so on, are summed up in this single command: You must love your neighbour as yourself. Love is the one thing that cannot hurt your neighbour; that is why it is the answer to every one of the commandments."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Irmãos, não fiqueis devendo nada a ninguém, a não ser o amor mútuo – pois quem ama o próximo está cumprindo a Lei. De fato, os mandamentos: “Não cometerás adultério”, “Não matarás”, “Não roubarás”, “Não cobiçarás”, e qualquer outro mandamento se resumem neste: “Amarás a teu próximo como a ti mesmo”. O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Fratelli, non siate debitori di nulla a nessuno, se non dell’amore vicendevole; perché chi ama l’altro ha adempiuto la Legge. Infatti: «Non commetterai adulterio, non ucciderai, non ruberai, non desidererai», e qualsiasi altro comandamento, si ricapitola in questa parola: «Amerai il tuo prossimo come te stesso». La carità non fa alcun male al prossimo: pienezza della Legge infatti è la carità."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Frères, n’ayez de dette envers personne, sauf celle de l’amour mutuel, car celui qui aime les autres a pleinement accompli la Loi. La Loi dit : Tu ne commettras pas d’adultère, tu ne commettras pas de meurtre, tu ne commettras pas de vol, tu ne convoiteras pas. Ces commandements et tous les autres se résument dans cette parole : Tu aimeras ton prochain comme toi-même. L’amour ne fait rien de mal au prochain. Donc, le plein accomplissement de la Loi, c’est l’amour."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Brüder! Bleibt niemand etwas schuldig; nur die Liebe schuldet ihr einander immer. Wer den andern liebt, hat das Gesetz erfüllt. Denn die Gebote: Du sollst nicht die Ehe brechen, du sollst nicht töten, du sollst nicht stehlen, du sollst nicht begehren!, und alle anderen Gebote sind in dem einen Satz zusammengefasst: Du sollst deinen Nächsten lieben wie dich selbst. Die Liebe tut dem Nächsten nichts Böses. Also ist die Liebe die Erfüllung des Gesetzes."
+                }
+              ]
+            ]
+          }
+        },
+        "conclusion": {
+          "la": "Verbum Dómini.",
+          "es": "Palabra de Dios.",
+          "en": "The Word of the Lord.",
+          "pt-BR": "Palavra do Senhor.",
+          "it": "Parola di Dio.",
+          "fr": "Parole du Seigneur.",
+          "de": "Wort des lebendigen Gottes."
+        },
+        "citation": {
+          "la": "Rom 13, 8-10",
+          "es": "Rom 13, 8-10",
+          "en": "Rom 13:8-10",
+          "pt-BR": "Rom 13, 8-10",
+          "it": "Rm 13,8-10",
+          "fr": "Rm 13, 8-10",
+          "de": "Röm 13, 8-10"
+        },
+        "response": {
+          "body": {
+            "plain": {
+              "la": "℟. Deo gratias.",
+              "es": "℟. Te alabamos, Señor.",
+              "en": "℟. Thanks be to God.",
+              "pt-BR": "℟. Graças a Deus.",
+              "it": "℟. Rendiamo grazie a Dio.",
+              "fr": "℟. Nous rendons grâce à Dieu.",
+              "de": "A: Dank sei Gott."
+            },
+            "lines": {
+              "la": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Deo gratias."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Te alabamos, Señor."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Thanks be to God."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Graças a Deus."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rendiamo grazie a Dio."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Nous rendons grâce à Dieu."
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "A:"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Dank sei Gott."
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "responsorialPsalm": {
+        "citation": {
+          "la": "Ps 111, 1-2. 4-5. 9",
+          "es": "Sal 111, 1-2. 4-5. 9",
+          "en": "Ps 111:1-2, 4-5, 9",
+          "pt-BR": "Sl 111, 1-2. 4-5. 9",
+          "de": "Ps 112",
+          "it": "Sal 111, 1-2. 4-5. 9",
+          "fr": "Ps 111, 1-2. 4-5. 9"
+        },
+        "responsory": {
+          "primary": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Iucúndus homo qui miserétur et cómmodat."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dichoso el que se apiada y presta."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "Happy the man who is merciful and lends to those in need."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Feliz quem tem piedade e empresta!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Felice l’uomo pietoso, che dona ai poveri."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "L’homme de bien a pitié, il partage."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Wohl dem, der gütig ist und zum Helfen bereit."
+                }
+              ]
+            ]
+          }
+        },
+        "verses": {
+          "la": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Beátus vir qui timet Dóminum,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "in mandátis eius cupit nimis."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Potens in terra erit semen eius,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "generátio rectórum benedicétur."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Exórtum est in ténebris lumen rectis,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "miséricors et miserátor et iustus."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Iucúndus homo, qui miserétur et cómmodat,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "dispónet res suas in iudício."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Distríbuit, dedit paupéribus;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "iustítia eius manet in sǽculum sǽculi,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "cornu eius exaltábitur in glória."
+                }
+              ]
+            ]
+          ],
+          "es": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Dichoso quien teme al Señor y ama de corazón sus mandatos."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Su linaje será poderoso en la tierra,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la descendencia del justo será bendita."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "En las tinieblas brilla como una luz el que es justo, clemente y compasivo."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dichoso el que se apiada y presta,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "y administra rectamente sus asuntos."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Reparte limosna a los pobres;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "su caridad dura por siempre y alzará la frente con dignidad."
+                }
+              ]
+            ]
+          ],
+          "en": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Blessed the man who fears the Lord, who takes delight in all his commands sons will be powerful on earth; the children of the upright are blessed."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "He is a light in the darkness for the upright: he is generous, merciful and just. The good man takes pity and lends, he conducts his affairs with honor."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Open-handed, he gives to the poor; his justice stands firm for ever. His head will be raised in glory."
+                }
+              ]
+            ]
+          ],
+          "pt-BR": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Sua descendência será forte sobre a terra,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "abençoada a geração dos homens retos!"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Ele é correto, generoso e compassivo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "como luz brilha nas trevas para os justos. Feliz o homem caridoso e prestativo,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "que resolve seus negócios com justiça."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Ele reparte com os pobres os seus bens,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "permanece para sempre o bem que fez e crescerão a sua glória e seu poder."
+                }
+              ]
+            ]
+          ],
+          "it": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Beato l’uomo che teme il Signore e nei suoi precetti trova grande gioia."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Potente sulla terra sarà la sua stirpe,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la discendenza degli uomini retti sarà benedetta."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Spunta nelle tenebre, luce per gli uomini retti:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "misericordioso, pietoso e giusto."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Felice l’uomo pietoso che dà in prestito,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "amministra i suoi beni con giustizia."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Egli dona largamente ai poveri,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la sua giustizia rimane per sempre,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la sua fronte s’innalza nella gloria."
+                }
+              ]
+            ]
+          ],
+          "fr": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Heureux qui craint le Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "qui aime entièrement sa volonté !"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Sa lignée sera puissante sur la terre ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la race des justes est bénie."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Lumière des cœurs droits, il s’est levé dans les ténèbres,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "homme de justice, de tendresse et de pitié."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "L’homme de bien a pitié, il partage ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "il mène ses affaires avec droiture."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Son cœur est confiant, il ne craint pas :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à pleines mains, il donne au pauvre ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "à jamais se maintiendra sa justice,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sa puissance grandira, et sa gloire !"
+                }
+              ]
+            ]
+          ],
+          "de": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Wohl dem Mann, der den Herrn fürchtet und ehrt und sich herzlich freut an seinen Geboten."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Seine Nachkommen werden mächtig im Land,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "das Geschlecht der Redlichen wird gesegnet."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Den Redlichen erstrahlt im Finstern ein Licht:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "der Gnädige, Barmherzige und Gerechte."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Wohl dem Mann, der gütig und zum Helfen bereit ist,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "der das Seine ordnet, wie es recht ist."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Sein Herz ist getrost, er fürchtet sich nie;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "denn bald wird er herabschauen auf seine Bedränger."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Reichlich gibt er den Armen,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "sein Heil hat Bestand für immer;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "er ist mächtig und hoch geehrt."
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      "gospelAcclamation": {
+        "citation": {
+          "la": "1 Petr 4, 14",
+          "es": "1 Petr 4, 14",
+          "pt-BR": "1 Petr 4, 14",
+          "it": "1Pt 4,14",
+          "fr": "1 Petr 4, 14",
+          "de": "1 Petr 4, 14"
+        },
+        "mode": "alleluia",
+        "acclamation": {
+          "la": [
+            [
+              {
+                "type": "response",
+                "text": "Allelúia."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "response",
+                "text": "Alléluia"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              }
+            ]
+          ]
+        },
+        "verse": {
+          "la": [
+            [
+              {
+                "type": "response",
+                "text": "Allelúia."
+              },
+              {
+                "type": "text",
+                "text": "Si exprobrámini in nómine Christi, beáti, quóniam Spíritus Dei super vos requiéscit."
+              },
+              {
+                "type": "response",
+                "text": "Allelúia."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              },
+              {
+                "type": "text",
+                "text": "Si os ultrajan por el nombre de Cristo, bienaventurados vosotros, porque el Espíritu de Dios reposa sobre vosotros."
+              },
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "If you are insulted for the name of Christ, blessed are you, for the Spirit of God rests upon you."
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              },
+              {
+                "type": "text",
+                "text": "Felizes sereis vós, se fordes ultrados, por causa de Jesus pois, repousa sobre vós, o Espírito de Deus."
+              },
+              {
+                "type": "response",
+                "text": "Aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "Beati voi, se venite insultati per il nome di Cristo, perché lo Spirito di Dio riposa su di voi."
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "response",
+                "text": "Alléluia"
+              },
+              {
+                "type": "text",
+                "text": "Si l’on vous insulte pour le nom du Christ, heureux êtes-vous : l’Esprit de Dieu repose sur vous."
+              },
+              {
+                "type": "response",
+                "text": "Alléluia."
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              },
+              {
+                "type": "text",
+                "text": "Wenn man euch um des Namens Christi willen beschimpft, seid ihr selig zu preisen; denn der Geist Gottes ruht auf euch."
+              },
+              {
+                "type": "response",
+                "text": "Halleluja."
+              }
+            ]
+          ]
+        }
+      },
+      "gospel": {
+        "label": {
+          "la": "Evangelium",
+          "es": "Evangelio",
+          "en": "Gospel",
+          "pt-BR": "Evangelho",
+          "it": "Vangelo",
+          "fr": "Proclamation de l’Évangile",
+          "de": "Evangelium"
+        },
+        "summary": {
+          "la": "Qui non renuntiat ómnibus quæ possidet, non potest meus esse discipulus",
+          "es": "Aquel que no renuncia a todos sus bienes no puede ser discípulo mío",
+          "pt-BR": "Qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!",
+          "it": "Chi non rinunzia a tutti i suoi averi, non può essere mio discepolo."
+        },
+        "introduction": {
+          "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+          "es": "✠ Lectura del santo Evangelio según san Lucas",
+          "en": "✠ A reading from the holy Gospel according to Luke",
+          "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+          "it": "✠ Dal vangelo secondo Luca",
+          "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+          "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+        },
+        "body": {
+          "plain": {
+            "la": "In illo témpore: Ibant turbæ multæ cum Iesu; et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus. Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: «Hic homo cœpit ædificáre et non pótuit consummáre». Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus».",
+            "es": "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo: «Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío. Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío. Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo: “Este hombre empezó a construir y no pudo acabar”. ¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil? Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz. Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío».",
+            "en": "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions.",
+            "pt-BR": "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\"",
+            "it": "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro: «Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo. Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: “Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro”. Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace. Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo».",
+            "fr": "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple. Quel est celui d’entre vous qui, voulant bâtir une tour, ne commence par s’asseoir pour calculer la dépense et voir s’il a de quoi aller jusqu’au bout ? Car, si jamais il pose les fondations et n’est pas capable d’achever, tous ceux qui le verront vont se moquer de lui : »Voilà un homme qui a commencé à bâtir et n’a pas été capable d’achever !« Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s’asseoir pour voir s’il peut, avec dix mille hommes, affronter l’autre qui marche contre lui avec vingt mille ? S’il ne le peut pas, il envoie, pendant que l’autre est encore loin, une délégation pour demander les conditions de paix. Ainsi donc, celui d’entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. »",
+            "de": "In jener Zeit, als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein. Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertig stellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen. Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden. Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+          },
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "In illo témpore: Ibant turbæ multæ cum Iesu; et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus. Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: «Hic homo cœpit ædificáre et non pótuit consummáre». Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus»."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo: «Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío. Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío. Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo: “Este hombre empezó a construir y no pudo acabar”. ¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil? Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz. Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío»."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro: «Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo. Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: “Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro”. Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace. Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple. Quel est celui d’entre vous qui, voulant bâtir une tour, ne commence par s’asseoir pour calculer la dépense et voir s’il a de quoi aller jusqu’au bout ? Car, si jamais il pose les fondations et n’est pas capable d’achever, tous ceux qui le verront vont se moquer de lui : »Voilà un homme qui a commencé à bâtir et n’a pas été capable d’achever !« Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s’asseoir pour voir s’il peut, avec dix mille hommes, affronter l’autre qui marche contre lui avec vingt mille ? S’il ne le peut pas, il envoie, pendant que l’autre est encore loin, une délégation pour demander les conditions de paix. Ainsi donc, celui d’entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. »"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "In jener Zeit, als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein. Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertig stellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen. Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden. Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+                }
+              ]
+            ]
+          }
+        },
+        "conclusion": {
+          "la": "Verbum Dómini.",
+          "es": "Palabra del Señor.",
+          "en": "The Gospel of the Lord.",
+          "pt-BR": "Palavra da Salvação.",
+          "it": "Parola del Signore.",
+          "fr": "Acclamons la Parole de Dieu !",
+          "de": "Evangelium unseres Herrn Jesus Christus."
+        },
+        "citation": {
+          "la": "Lc 14, 25-33",
+          "es": "Lc 14, 25-33",
+          "en": "Lk 14:25-33",
+          "pt-BR": "Lc 14, 25-33",
+          "it": "Lc 14, 25-33",
+          "fr": "Lc 14, 25-33",
+          "de": "Lk 14, 25-33"
+        },
+        "response": {
+          "body": {
+            "plain": {
+              "la": "℟. Laus tibi, Christe.",
+              "es": "℟. Gloria a ti, Señor Jesús.",
+              "en": "℟. Praise to you, Lord Jesus Christ.",
+              "pt-BR": "℟. Glória a vós, Senhor.",
+              "it": "℟. Lode a te, o Cristo.",
+              "fr": "℟. Louange à toi, Seigneur Jésus !",
+              "de": "A: Lob sei dir, Christus."
+            },
+            "lines": {
+              "la": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Laus tibi, Christe."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gloria a ti, Señor Jesús."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Praise to you, Lord Jesus Christ."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Glória a vós, Senhor."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Lode a te, o Cristo."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Louange à toi, Seigneur Jésus !"
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "A:"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Lob sei dir, Christus."
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "II": {
+      "firstReading": {
+        "label": {
+          "la": "Lectio prior",
+          "es": "Primera Lectura",
+          "en": "First Reading",
+          "pt-BR": "Primeira Leitura",
+          "it": "Prima lettura",
+          "fr": "Première lecture",
+          "de": "Erste Lesung"
+        },
+        "summary": {
+          "la": "Vestram salutem operamini; Deus est enim qui operatur et vel le et perficere",
+          "es": "Trabajad por vuestra salvación, porque es Dios quien activa el querer y el obrar",
+          "pt-BR": "Trabalhai para a vossa salvação; Deus é que realiza em vós tanto o querer como o fazer.",
+          "it": "Dedicatevi alla vostra salvezza. È Dio infatti che suscita in voi il volere e l’operare."
+        },
+        "introduction": {
+          "la": "Léctio Epístolæ béati Pauli apóstoli ad Philippénses",
+          "es": "Lectura de la carta del apóstol san Pablo a los Filipenses",
+          "en": "A reading from the Letter of Saint Paul to the Philippians",
+          "pt-BR": "Leitura da Carta de São Paulo aos Filipenses",
+          "it": "Dalla lettera di san Paolo apostolo ai Filippesi",
+          "fr": "Lettre de saint Paul Apôtre aux Philippiens",
+          "de": "Lesung aus dem Brief des Apostels Paulus an die Philipper"
+        },
+        "body": {
+          "plain": {
+            "la": "Caríssimi mei, sicut semper obœdístis, non ut in præséntia mei tantum sed multo magis nunc in abséntia mea, cum metu et tremóre vestram salútem operámini; Deus est enim, qui operátur in vobis et velle et perfícere pro suo beneplácito. Omnia fácite sine murmuratiónibus et hæsitatiónibus, ut efficiámini sine queréla et símplices, fílii Dei sine reprehensióne in médio generatiónis pravæ et pervérsæ, inter quos lucétis sicut luminária in mundo, verbum vitæ fírmiter tenéntes ad glóriam meam in die Christi, quia non in vácuum cucúrri neque in vácuum laborávi. Sed et si delíbor supra sacrifícium et obséquium fídei vestræ, gáudeo et congáudeo ómnibus vobis; idípsum autem et vos gaudéte et congaudéte mihi.",
+            "es": "Queridos hermanos, ya que siempre habéis obedecido, no solo cuando yo estaba presente, sino mucho más ahora en mi ausencia, trabajad por vuestra salvación con temor y temblor, porque es Dios quien activa en vosotros el querer y el obrar para realizar su designio de amor. Cualquier cosa que hagáis sea sin protestas ni discusiones, así seréis irreprochables y sencillos, hijos de Dios sin tacha, en medio de una generación perversa y depravada, entre la cual brilláis como lumbreras del mundo, manteniendo firme la palabra de la vida. Así, en el Día de Cristo, esa será mi gloria, porque mis trabajos no fueron inútiles ni mis fatigas tampoco. Y si mi sangre se ha de derramar, rociando el sacrificio litúrgico que es vuestra fe, yo estoy alegre y me asocio a vuestra alegría; por vuestra parte estad alegres y alegraos conmigo.",
+            "en": "My dear friends, continue to do as I tell you, as you always have; not only as you did when I was there with you, but even more now that I am no longer there; and work for your salvation 'in fear and trembling'. It is God, for his own loving purpose, who puts both the will and the action into you. Do all that has to be done without complaining or arguing and then you will be innocent and genuine, perfect children of God among a deceitful and underhand brood, and you will shine in the world like bright stars because you are offering it the word of life. This would give me something to be proud of for the Day of Christ, and would mean that I had not run in the race and exhausted myself for nothing. And then, if my blood has to be shed as part of your own sacrifice and offering-which is your faith I shall still be happy and rejoice with all of you, and you must be just as happy and rejoice with me.",
+            "pt-BR": "Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor. Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. Fazei tudo sem reclamar ou murmurar, para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo. Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão, nem trabalhado inutilmente. E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós. Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo.",
+            "it": "Miei cari, voi che siete stati sempre obbedienti, non solo quando ero presente ma molto più ora che sono lontano, dedicatevi alla vostra salvezza con rispetto e timore. È Dio infatti che suscita in voi il volere e l’operare secondo il suo disegno d’amore. Fate tutto senza mormorare e senza esitare, per essere irreprensibili e puri, figli di Dio innocenti in mezzo a una generazione malvagia e perversa. In mezzo a loro voi risplendete come astri nel mondo, tenendo salda la parola di vita. Così nel giorno di Cristo io potrò vantarmi di non aver corso invano, né invano aver faticato. Ma, anche se io devo essere versato sul sacrificio e sull’offerta della vostra fede, sono contento e ne godo con tutti voi. Allo stesso modo anche voi godetene e rallegratevi con me.",
+            "fr": "Mes bien-aimés, vous qui avez toujours obéi, travaillez à votre salut avec crainte et profond respect ; ne le faites pas seulement quand je suis là, mais encore bien plus maintenant que je n’y suis pas. Car c’est Dieu qui agit pour produire en vous la volonté et l’action, selon son projet bienveillant. Faites tout sans récriminer et sans discuter ; ainsi vous serez irréprochables et purs, vous qui êtes des enfants de Dieu sans tache au milieu d’une génération tortueuse et pervertie où vous brillez comme les astres dans l’univers, en tenant ferme la parole de vie. Alors je serai fier de vous quand viendra le jour du Christ : je n’aurai pas couru pour rien ni peiné pour rien. Et si je dois verser mon sang pour l’ajouter au sacrifice que vous offrez à Dieu par votre foi, je m’en réjouis et je partage votre joie à tous. Et vous, de même, réjouissez-vous et partagez ma joie.",
+            "de": "Liebe Brüder - ihr wart ja immer gehorsam, nicht nur in meiner Gegenwart, sondern noch viel mehr jetzt in meiner Abwesenheit -: müht euch mit Furcht und Zittern um euer Heil! Denn Gott ist es, der in euch das Wollen und das Vollbringen bewirkt, noch über euren guten Willen hinaus. Tut alles ohne Murren und Bedenken, damit ihr rein und ohne Tadel seid, Kinder Gottes ohne Makel mitten in einer verdorbenen und verwirrten Generation, unter der ihr als Lichter in der Welt leuchtet. Haltet fest am Wort des Lebens, mir zum Ruhm für den Tag Christi, damit ich nicht vergeblich gelaufen bin oder mich umsonst abgemüht habe. Wenn auch mein Leben dargebracht wird zusammen mit dem Opfer und Gottesdienst eures Glaubens, freue ich mich dennoch, und ich freue mich mit euch allen. Ebenso sollt auch ihr euch freuen; freut euch mit mir!"
+          },
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Caríssimi mei, sicut semper obœdístis, non ut in præséntia mei tantum sed multo magis nunc in abséntia mea, cum metu et tremóre vestram salútem operámini; Deus est enim, qui operátur in vobis et velle et perfícere pro suo beneplácito. Omnia fácite sine murmuratiónibus et hæsitatiónibus, ut efficiámini sine queréla et símplices, fílii Dei sine reprehensióne in médio generatiónis pravæ et pervérsæ, inter quos lucétis sicut luminária in mundo, verbum vitæ fírmiter tenéntes ad glóriam meam in die Christi, quia non in vácuum cucúrri neque in vácuum laborávi. Sed et si delíbor supra sacrifícium et obséquium fídei vestræ, gáudeo et congáudeo ómnibus vobis; idípsum autem et vos gaudéte et congaudéte mihi."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "Queridos hermanos, ya que siempre habéis obedecido, no solo cuando yo estaba presente, sino mucho más ahora en mi ausencia, trabajad por vuestra salvación con temor y temblor, porque es Dios quien activa en vosotros el querer y el obrar para realizar su designio de amor. Cualquier cosa que hagáis sea sin protestas ni discusiones, así seréis irreprochables y sencillos, hijos de Dios sin tacha, en medio de una generación perversa y depravada, entre la cual brilláis como lumbreras del mundo, manteniendo firme la palabra de la vida. Así, en el Día de Cristo, esa será mi gloria, porque mis trabajos no fueron inútiles ni mis fatigas tampoco. Y si mi sangre se ha de derramar, rociando el sacrificio litúrgico que es vuestra fe, yo estoy alegre y me asocio a vuestra alegría; por vuestra parte estad alegres y alegraos conmigo."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "My dear friends, continue to do as I tell you, as you always have; not only as you did when I was there with you, but even more now that I am no longer there; and work for your salvation 'in fear and trembling'. It is God, for his own loving purpose, who puts both the will and the action into you. Do all that has to be done without complaining or arguing and then you will be innocent and genuine, perfect children of God among a deceitful and underhand brood, and you will shine in the world like bright stars because you are offering it the word of life. This would give me something to be proud of for the Day of Christ, and would mean that I had not run in the race and exhausted myself for nothing. And then, if my blood has to be shed as part of your own sacrifice and offering-which is your faith I shall still be happy and rejoice with all of you, and you must be just as happy and rejoice with me."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor. Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. Fazei tudo sem reclamar ou murmurar, para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo. Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão, nem trabalhado inutilmente. E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós. Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo."
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Miei cari, voi che siete stati sempre obbedienti, non solo quando ero presente ma molto più ora che sono lontano, dedicatevi alla vostra salvezza con rispetto e timore. È Dio infatti che suscita in voi il volere e l’operare secondo il suo disegno d’amore. Fate tutto senza mormorare e senza esitare, per essere irreprensibili e puri, figli di Dio innocenti in mezzo a una generazione malvagia e perversa. In mezzo a loro voi risplendete come astri nel mondo, tenendo salda la parola di vita. Così nel giorno di Cristo io potrò vantarmi di non aver corso invano, né invano aver faticato. Ma, anche se io devo essere versato sul sacrificio e sull’offerta della vostra fede, sono contento e ne godo con tutti voi. Allo stesso modo anche voi godetene e rallegratevi con me."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Mes bien-aimés, vous qui avez toujours obéi, travaillez à votre salut avec crainte et profond respect ; ne le faites pas seulement quand je suis là, mais encore bien plus maintenant que je n’y suis pas. Car c’est Dieu qui agit pour produire en vous la volonté et l’action, selon son projet bienveillant. Faites tout sans récriminer et sans discuter ; ainsi vous serez irréprochables et purs, vous qui êtes des enfants de Dieu sans tache au milieu d’une génération tortueuse et pervertie où vous brillez comme les astres dans l’univers, en tenant ferme la parole de vie. Alors je serai fier de vous quand viendra le jour du Christ : je n’aurai pas couru pour rien ni peiné pour rien. Et si je dois verser mon sang pour l’ajouter au sacrifice que vous offrez à Dieu par votre foi, je m’en réjouis et je partage votre joie à tous. Et vous, de même, réjouissez-vous et partagez ma joie."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Liebe Brüder - ihr wart ja immer gehorsam, nicht nur in meiner Gegenwart, sondern noch viel mehr jetzt in meiner Abwesenheit -: müht euch mit Furcht und Zittern um euer Heil! Denn Gott ist es, der in euch das Wollen und das Vollbringen bewirkt, noch über euren guten Willen hinaus. Tut alles ohne Murren und Bedenken, damit ihr rein und ohne Tadel seid, Kinder Gottes ohne Makel mitten in einer verdorbenen und verwirrten Generation, unter der ihr als Lichter in der Welt leuchtet. Haltet fest am Wort des Lebens, mir zum Ruhm für den Tag Christi, damit ich nicht vergeblich gelaufen bin oder mich umsonst abgemüht habe. Wenn auch mein Leben dargebracht wird zusammen mit dem Opfer und Gottesdienst eures Glaubens, freue ich mich dennoch, und ich freue mich mit euch allen. Ebenso sollt auch ihr euch freuen; freut euch mit mir!"
+                }
+              ]
+            ]
+          }
+        },
+        "conclusion": {
+          "la": "Verbum Dómini.",
+          "es": "Palabra de Dios.",
+          "en": "The Word of the Lord.",
+          "pt-BR": "Palavra do Senhor.",
+          "it": "Parola di Dio.",
+          "fr": "Parole du Seigneur.",
+          "de": "Wort des lebendigen Gottes."
+        },
+        "citation": {
+          "la": "Phil 2, 12-18",
+          "es": "Flp 2, 12-18",
+          "en": "Phil 2:12-18",
+          "pt-BR": "Fl 2, 12-18",
+          "it": "Fil 2,12-18",
+          "fr": "Ph 2, 12-18",
+          "de": "Phil 2, 12-18"
+        },
+        "response": {
+          "body": {
+            "plain": {
+              "la": "℟. Deo gratias.",
+              "es": "℟. Te alabamos, Señor.",
+              "en": "℟. Thanks be to God.",
+              "pt-BR": "℟. Graças a Deus.",
+              "it": "℟. Rendiamo grazie a Dio.",
+              "fr": "℟. Nous rendons grâce à Dieu.",
+              "de": "A: Dank sei Gott."
+            },
+            "lines": {
+              "la": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Deo gratias."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Te alabamos, Señor."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Thanks be to God."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Graças a Deus."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rendiamo grazie a Dio."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Nous rendons grâce à Dieu."
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "A:"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Dank sei Gott."
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "responsorialPsalm": {
+        "citation": {
+          "la": "Ps 26, 1. 4. 13-14",
+          "es": "Sal 26, 1. 4. 13-14",
+          "en": "Ps 26:1, 4, 13-14",
+          "pt-BR": "Sl 26, 1. 4. 13-14",
+          "de": "Ps 27",
+          "it": "Sal 26, 1. 4. 13-14",
+          "fr": "Ps 26, 1. 4. 13-14"
+        },
+        "responsory": {
+          "primary": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminus illuminátio mea et salus mea."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor es mi luz y mi salvación."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "The Lord is my light and my salvation."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "O Senhor é a minha luz e salvação!"
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "Il Signore è mia luce e mia salvezza."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur est ma lumière et mon salut."
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Herr ist mein Licht und mein Heil."
+                }
+              ]
+            ]
+          }
+        },
+        "verses": {
+          "la": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminus illuminátio mea et salus mea, quem timébo?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Dóminus protéctor vitæ meæ, a quo trepidábo?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Unum pétii a Dómino, hoc requíram:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut inhábitem in domo Dómini ómnibus diébus vitæ meæ,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ut vídeam voluptátem Dómini,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et vísitem templum eius."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Credo vidére bona Dómini in terra vivéntium."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Exspécta Dóminum, viríliter age,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "et confortétur cor tuum, et sústine Dóminum."
+                }
+              ]
+            ]
+          ],
+          "es": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor es mi luz y mi salvación,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "¿a quién temeré?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "El Señor es la defensa de mi vida,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "¿quién me hará temblar?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Una cosa pido al Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "eso buscaré:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "habitar en la casa del Señor por los días de mi vida;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "gozar de la dulzura del Señor,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "contemplando su templo."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Espero gozar de la dicha del Señor en el país de la vida."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Espera en el Señor, sé valiente,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "ten ánimo, espera en el Señor."
+                }
+              ]
+            ]
+          ],
+          "en": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "The Lord is my light and my help; whom shall I fear? The Lord is the stronghold of my life; before whom shall I shrink?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "There is one thing I ask of the Lord, for this I long, to live in the house of the Lord, all the days of my life, to savour the sweetness of the Lord, to behold his temple."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "I am sure I shall see the Lord's goodness in the land of the living. Hope in him, hold firm and take heart. Hope in the Lord!"
+                }
+              ]
+            ]
+          ],
+          "pt-BR": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "O Senhor é minha luz e salvação;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de quem eu terei medo?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "O Senhor é a proteção da minha vida;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "perante quem eu tremerei?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Ao Senhor eu peço apenas uma coisa,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "e é só isto que eu desejo:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "habitar no santuário do Senhor por toda a minha vida;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "saborear a suavidade do Senhor e contemplá-lo no seu templo."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Espera no Senhor e tem coragem,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "espera no Senhor!"
+                }
+              ]
+            ]
+          ],
+          "it": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Il Signore è mia luce e mia salvezza:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "di chi avrò timore?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Il Signore è difesa della mia vita:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "di chi avrò paura?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Una cosa ho chiesto al Signore,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "questa sola io cerco:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "abitare nella casa del Signore tutti i giorni della mia vita,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "per contemplare la bellezza del Signore e ammirare il suo santuario."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Sono certo di contemplare la bontà del Signore nella terra dei viventi."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Spera nel Signore, sii forte,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "si rinsaldi il tuo cuore e spera nel Signore."
+                }
+              ]
+            ]
+          ],
+          "fr": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur est ma lumière et mon salut ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "de qui aurais-je crainte ?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Le Seigneur est le rempart de ma vie ;"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "devant qui tremblerais-je ?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "J’ai demandé une chose au Seigneur,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "la seule que je cherche :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "habiter la maison du Seigneur tous les jours de ma vie,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "pour admirer le Seigneur dans sa beauté et m’attacher à son temple."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "J’en suis sûr,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "je verrai les bontés du Seigneur sur la terre des vivants."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "« Espère le Seigneur, sois fort et prends courage :"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "espère le Seigneur. »"
+                }
+              ]
+            ]
+          ],
+          "de": [
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Der Herr ist mein Licht und mein Heil:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Vor wem sollte ich mich fürchten?"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Der Herr ist die Kraft meines Lebens:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Vor wem sollte mir bangen?"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Nur eines erbitte ich vom Herrn, danach verlangt mich:"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Im Haus des Herrn zu wohnen alle Tage meines Lebens,"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "die Freundlichkeit des Herrn zu schauen und nachzusinnen in seinem Tempel."
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "type": "text",
+                  "text": "Ich bin gewiss, zu schauen die Güte des Herrn im Land der Lebenden."
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Hoffe auf den Herrn, und sei stark!"
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": "Hab festen Mut, und hoffe auf den Herrn!"
+                }
+              ]
+            ]
+          ]
+        }
+      },
+      "gospelAcclamation": {
+        "citation": {
+          "la": "1 Petr 4, 14",
+          "es": "1 Petr 4, 14",
+          "pt-BR": "1 Petr 4, 14",
+          "it": "1Pt 4,14",
+          "fr": "1 Petr 4, 14",
+          "de": "1 Petr 4, 14"
+        },
+        "mode": "alleluia",
+        "acclamation": {
+          "la": [
+            [
+              {
+                "type": "response",
+                "text": "Allelúia."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "response",
+                "text": "Alléluia"
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              }
+            ]
+          ]
+        },
+        "verse": {
+          "la": [
+            [
+              {
+                "type": "response",
+                "text": "Allelúia."
+              },
+              {
+                "type": "text",
+                "text": "Si exprobrámini in nómine Christi, beáti, quóniam Spíritus Dei super vos requiéscit."
+              },
+              {
+                "type": "response",
+                "text": "Allelúia."
+              }
+            ]
+          ],
+          "es": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluya."
+              },
+              {
+                "type": "text",
+                "text": "Si os ultrajan por el nombre de Cristo, bienaventurados vosotros, porque el Espíritu de Dios reposa sobre vosotros."
+              },
+              {
+                "type": "response",
+                "text": "Aleluya."
+              }
+            ]
+          ],
+          "en": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "If you are insulted for the name of Christ, blessed are you, for the Spirit of God rests upon you."
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "pt-BR": [
+            [
+              {
+                "type": "response",
+                "text": "Aleluia, aleluia."
+              },
+              {
+                "type": "text",
+                "text": "Felizes sereis vós, se fordes ultrados, por causa de Jesus pois, repousa sobre vós, o Espírito de Deus."
+              },
+              {
+                "type": "response",
+                "text": "Aleluia."
+              }
+            ]
+          ],
+          "it": [
+            [
+              {
+                "type": "response",
+                "text": "Alleluia, alleluia."
+              },
+              {
+                "type": "text",
+                "text": "Beati voi, se venite insultati per il nome di Cristo, perché lo Spirito di Dio riposa su di voi."
+              },
+              {
+                "type": "response",
+                "text": "Alleluia."
+              }
+            ]
+          ],
+          "fr": [
+            [
+              {
+                "type": "response",
+                "text": "Alléluia"
+              },
+              {
+                "type": "text",
+                "text": "Si l’on vous insulte pour le nom du Christ, heureux êtes-vous : l’Esprit de Dieu repose sur vous."
+              },
+              {
+                "type": "response",
+                "text": "Alléluia."
+              }
+            ]
+          ],
+          "de": [
+            [
+              {
+                "type": "response",
+                "text": "Halleluja. Halleluja."
+              },
+              {
+                "type": "text",
+                "text": "Wenn man euch um des Namens Christi willen beschimpft, seid ihr selig zu preisen; denn der Geist Gottes ruht auf euch."
+              },
+              {
+                "type": "response",
+                "text": "Halleluja."
+              }
+            ]
+          ]
+        }
+      },
+      "gospel": {
+        "label": {
+          "la": "Evangelium",
+          "es": "Evangelio",
+          "en": "Gospel",
+          "pt-BR": "Evangelho",
+          "it": "Vangelo",
+          "fr": "Proclamation de l’Évangile",
+          "de": "Evangelium"
+        },
+        "summary": {
+          "la": "Qui non renuntiat ómnibus quæ possidet, non potest meus esse discipulus",
+          "es": "Aquel que no renuncia a todos sus bienes no puede ser discípulo mío",
+          "pt-BR": "Qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!",
+          "it": "Chi non rinunzia a tutti i suoi averi, non può essere mio discepolo."
+        },
+        "introduction": {
+          "la": "✠ Léctio sancti Evangélii secúndum Lucam",
+          "es": "✠ Lectura del santo Evangelio según san Lucas",
+          "en": "✠ A reading from the holy Gospel according to Luke",
+          "pt-BR": "✠ Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+          "it": "✠ Dal vangelo secondo Luca",
+          "fr": "✠ Évangile de Jésus-Christ selon saint Luc",
+          "de": "✠ Aus dem heiligen Evangelium nach Lukas"
+        },
+        "body": {
+          "plain": {
+            "la": "In illo témpore: Ibant turbæ multæ cum Iesu; et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus. Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: «Hic homo cœpit ædificáre et non pótuit consummáre». Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus».",
+            "es": "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo: «Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío. Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío. Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo: “Este hombre empezó a construir y no pudo acabar”. ¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil? Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz. Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío».",
+            "en": "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions.",
+            "pt-BR": "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\"",
+            "it": "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro: «Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo. Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: “Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro”. Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace. Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo».",
+            "fr": "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple. Quel est celui d’entre vous qui, voulant bâtir une tour, ne commence par s’asseoir pour calculer la dépense et voir s’il a de quoi aller jusqu’au bout ? Car, si jamais il pose les fondations et n’est pas capable d’achever, tous ceux qui le verront vont se moquer de lui : »Voilà un homme qui a commencé à bâtir et n’a pas été capable d’achever !« Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s’asseoir pour voir s’il peut, avec dix mille hommes, affronter l’autre qui marche contre lui avec vingt mille ? S’il ne le peut pas, il envoie, pendant que l’autre est encore loin, une délégation pour demander les conditions de paix. Ainsi donc, celui d’entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. »",
+            "de": "In jener Zeit, als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein. Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertig stellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen. Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden. Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+          },
+          "lines": {
+            "la": [
+              [
+                {
+                  "type": "text",
+                  "text": "In illo témpore: Ibant turbæ multæ cum Iesu; et convérsus dixit ad illos: «Si quis venit ad me et non odit patrem suum et matrem et uxórem et fílios et fratres et soróres, adhuc et ánimam suam, non potest esse meus discípulus. Et, qui non báiulat crucem suam et venit post me, non potest esse meus discípulus. Quis enim ex vobis volens turrem ædificáre, non prius sedens cómputat sumptus, si habet ad perficiéndum? Ne, posteáquam posúerit fundaméntum et non potúerit perfícere, omnes, qui vident, incípiant illúdere ei dicéntes: «Hic homo cœpit ædificáre et non pótuit consummáre». Aut quis rex, itúrus commíttere bellum advérsus álium regem, non sedens prius cógitat, si possit cum decem mílibus occúrrere ei, qui cum vigínti mílibus venit ad se? Alióquin, adhuc illo longe agénte, legatiónem mittens rogat ea, quæ pacis sunt. Sic ergo omnis ex vobis, qui non renúntiat ómnibus, quæ póssidet, non potest meus esse discípulus»."
+                }
+              ]
+            ],
+            "es": [
+              [
+                {
+                  "type": "text",
+                  "text": "En aquel tiempo, mucha gente acompañaba a Jesús; él se volvió y les dijo: «Si alguno viene a mí y no pospone a su padre y a su madre, a su mujer y a sus hijos, a sus hermanos y a sus hermanas, e incluso a sí mismo, no puede ser discípulo mío. Quien no carga con su cruz y viene en pos de mí, no puede ser discípulo mío. Así, ¿quién de vosotros, si quiere construir una torre, no se sienta primero a calcular los gastos, a ver si tiene para terminarla? No sea que, si echa los cimientos y no puede acabarla, se pongan a burlarse de él los que miran, diciendo: “Este hombre empezó a construir y no pudo acabar”. ¿O qué rey, si va a dar la batalla a otro rey, no se sienta primero a deliberar si con diez mil hombres podrá salir al paso del que lo ataca con veinte mil? Y si no, cuando el otro está todavía lejos, envía legados para pedir condiciones de paz. Así pues, todo aquel de entre vosotros que no renuncia a todos sus bienes no puede ser discípulo mío»."
+                }
+              ]
+            ],
+            "en": [
+              [
+                {
+                  "type": "text",
+                  "text": "Great crowds accompanied Jesus on his way and he turned and spoke to them. If any man comes to me without hating his father, mother, wife, children, brothers, sisters, yes and his own life too, he cannot be my disciple. Anyone who does not carry his cross and come after me cannot be my disciple. 'And indeed, which of you here, intending to build a tower, would not first sit down and work out the cost to see if he had enough to complete it? Otherwise, if he laid the foundation and then found himself unable to finish the work, the onlookers would all start making fun of him and saying, \"' Here is a man who started to build and was unable to finish\". Or again, what king marching to war against another king would not first sit down and consider whether with ten thousand men he could stand up to the other who advanced against him with twenty thousand? If not, then while the other king was still a long way off, he would send envoys to sue for peace. So in the same way, none of you can be my disciple unless he gives up all his possessions."
+                }
+              ]
+            ],
+            "pt-BR": [
+              [
+                {
+                  "type": "text",
+                  "text": "Naquele tempo, grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 'Este homem começou a construir e não foi capaz de acabar!' Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+                }
+              ]
+            ],
+            "it": [
+              [
+                {
+                  "type": "text",
+                  "text": "In quel tempo, una folla numerosa andava con Gesù. Egli si voltò e disse loro: «Se uno viene a me e non mi ama più di quanto ami suo padre, la madre, la moglie, i figli, i fratelli, le sorelle e perfino la propria vita, non può essere mio discepolo. Colui che non porta la propria croce e non viene dietro a me, non può essere mio discepolo. Chi di voi, volendo costruire una torre, non siede prima a calcolare la spesa e a vedere se ha i mezzi per portarla a termine? Per evitare che, se getta le fondamenta e non è in grado di finire il lavoro, tutti coloro che vedono comincino a deriderlo, dicendo: “Costui ha iniziato a costruire, ma non è stato capace di finire il lavoro”. Oppure quale re, partendo in guerra contro un altro re, non siede prima a esaminare se può affrontare con diecimila uomini chi gli viene incontro con ventimila? Se no, mentre l’altro è ancora lontano, gli manda dei messaggeri per chiedere pace. Così chiunque di voi non rinuncia a tutti i suoi averi, non può essere mio discepolo»."
+                }
+              ]
+            ],
+            "fr": [
+              [
+                {
+                  "type": "text",
+                  "text": "En ce temps-là, de grandes foules faisaient route avec Jésus ; il se retourna et leur dit : « Si quelqu’un vient à moi sans me préférer à son père, sa mère, sa femme, ses enfants, ses frères et sœurs, et même à sa propre vie, il ne peut pas être mon disciple. Celui qui ne porte pas sa croix pour marcher à ma suite ne peut pas être mon disciple. Quel est celui d’entre vous qui, voulant bâtir une tour, ne commence par s’asseoir pour calculer la dépense et voir s’il a de quoi aller jusqu’au bout ? Car, si jamais il pose les fondations et n’est pas capable d’achever, tous ceux qui le verront vont se moquer de lui : »Voilà un homme qui a commencé à bâtir et n’a pas été capable d’achever !« Et quel est le roi qui, partant en guerre contre un autre roi, ne commence par s’asseoir pour voir s’il peut, avec dix mille hommes, affronter l’autre qui marche contre lui avec vingt mille ? S’il ne le peut pas, il envoie, pendant que l’autre est encore loin, une délégation pour demander les conditions de paix. Ainsi donc, celui d’entre vous qui ne renonce pas à tout ce qui lui appartient ne peut pas être mon disciple. »"
+                }
+              ]
+            ],
+            "de": [
+              [
+                {
+                  "type": "text",
+                  "text": "In jener Zeit, als viele Menschen Jesus begleiteten, wandte er sich an sie und sagte: Wenn jemand zu mir kommt und nicht Vater und Mutter, Frau und Kinder, Brüder und Schwestern, ja sogar sein Leben gering achtet, dann kann er nicht mein Jünger sein. Wer nicht sein Kreuz trägt und mir nachfolgt, der kann nicht mein Jünger sein. Wenn einer von euch einen Turm bauen will, setzt er sich dann nicht zuerst hin und rechnet, ob seine Mittel für das ganze Vorhaben ausreichen? Sonst könnte es geschehen, dass er das Fundament gelegt hat, dann aber den Bau nicht fertig stellen kann. Und alle, die es sehen, würden ihn verspotten und sagen: Der da hat einen Bau begonnen und konnte ihn nicht zu Ende führen. Oder wenn ein König gegen einen anderen in den Krieg zieht, setzt er sich dann nicht zuerst hin und überlegt, ob er sich mit seinen zehntausend Mann dem entgegenstellen kann, der mit zwanzigtausend gegen ihn anrückt? Kann er es nicht, dann schickt er eine Gesandtschaft, solange der andere noch weit weg ist, und bittet um Frieden. Darum kann keiner von euch mein Jünger sein, wenn er nicht auf seinen ganzen Besitz verzichtet."
+                }
+              ]
+            ]
+          }
+        },
+        "conclusion": {
+          "la": "Verbum Dómini.",
+          "es": "Palabra del Señor.",
+          "en": "The Gospel of the Lord.",
+          "pt-BR": "Palavra da Salvação.",
+          "it": "Parola del Signore.",
+          "fr": "Acclamons la Parole de Dieu !",
+          "de": "Evangelium unseres Herrn Jesus Christus."
+        },
+        "citation": {
+          "la": "Lc 14, 25-33",
+          "es": "Lc 14, 25-33",
+          "en": "Lk 14:25-33",
+          "pt-BR": "Lc 14, 25-33",
+          "it": "Lc 14, 25-33",
+          "fr": "Lc 14, 25-33",
+          "de": "Lk 14, 25-33"
+        },
+        "response": {
+          "body": {
+            "plain": {
+              "la": "℟. Laus tibi, Christe.",
+              "es": "℟. Gloria a ti, Señor Jesús.",
+              "en": "℟. Praise to you, Lord Jesus Christ.",
+              "pt-BR": "℟. Glória a vós, Senhor.",
+              "it": "℟. Lode a te, o Cristo.",
+              "fr": "℟. Louange à toi, Seigneur Jésus !",
+              "de": "A: Lob sei dir, Christus."
+            },
+            "lines": {
+              "la": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Laus tibi, Christe."
+                  }
+                ]
+              ],
+              "es": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gloria a ti, Señor Jesús."
+                  }
+                ]
+              ],
+              "en": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Praise to you, Lord Jesus Christ."
+                  }
+                ]
+              ],
+              "pt-BR": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Glória a vós, Senhor."
+                  }
+                ]
+              ],
+              "it": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Lode a te, o Cristo."
+                  }
+                ]
+              ],
+              "fr": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "℟."
+                  },
+                  {
+                    "type": "text",
+                    "text": "Louange à toi, Seigneur Jésus !"
+                  }
+                ]
+              ],
+              "de": [
+                [
+                  {
+                    "type": "rubric",
+                    "text": "A:"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Lob sei dir, Christus."
+                  }
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "liturgicalColor": "green"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-19.thursday",
+  "title": {
+    "la": "Feria V hebd. XIX",
+    "es": "Jueves 19ª semana",
+    "en": "Thursday of the XIX Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da XIX Semana do Tempo Comum",
+    "it": "GIOVEDI della XIX settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 19e semaine",
+    "de": "19. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 19,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

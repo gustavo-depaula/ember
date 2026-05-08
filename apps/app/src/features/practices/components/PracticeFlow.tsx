@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQueries } from '@tanstack/react-query'
+import { useQueries, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Home } from 'lucide-react-native'
@@ -158,14 +158,20 @@ export function PracticeFlow({
   const slots = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
 
-  const flow = useMemo(() => {
-    if (!manifest) return undefined
-    if (manifest.program?.perDayFlows && programDay !== undefined) {
-      const dayFlow = loadPerDayFlow(practiceId, programDay)
-      if (dayFlow) return dayFlow
-    }
-    return loadFlow(practiceId)
-  }, [manifest, practiceId, programDay])
+  const flowQuery = useQuery({
+    queryKey: ['flow', practiceId, programDay ?? null],
+    queryFn: async () => {
+      if (!manifest) return undefined
+      if (manifest.program?.perDayFlows && programDay !== undefined) {
+        const dayFlow = await loadPerDayFlow(practiceId, programDay)
+        if (dayFlow) return dayFlow
+      }
+      return loadFlow(practiceId)
+    },
+    enabled: !!manifest,
+    staleTime: Infinity,
+  })
+  const flow = flowQuery.data
 
   const selectOverrideResetKey = `${practiceId}:${programDay ?? 'default'}:${flow ? 'loaded' : 'missing'}`
 
@@ -184,8 +190,18 @@ export function PracticeFlow({
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const numbering = getPsalmNumbering(translation)
-  const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
-  const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
+  const cycleDataQuery = useQuery({
+    queryKey: ['practice-data', practiceId],
+    queryFn: () => loadPracticeData(practiceId),
+    staleTime: Infinity,
+  })
+  const trackDefsQuery = useQuery({
+    queryKey: ['practice-tracks', practiceId],
+    queryFn: () => loadPracticeTracks(practiceId),
+    staleTime: Infinity,
+  })
+  const cycleData = cycleDataQuery.data
+  const trackDefs = trackDefsQuery.data
   const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   useEffect(() => {

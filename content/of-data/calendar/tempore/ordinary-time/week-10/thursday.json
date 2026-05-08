@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-10.thursday",
+  "title": {
+    "la": "Feria V hebd. X",
+    "es": "Jueves 10ª semana",
+    "en": "Thursday of the X Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da X Semana do Tempo Comum",
+    "it": "GIOVEDI della X settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 10e semaine",
+    "de": "10. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 10,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

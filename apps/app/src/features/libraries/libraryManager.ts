@@ -1,22 +1,17 @@
-import JSZip from 'jszip'
-import { Platform } from 'react-native'
-import { getPracticeIdsForLibrary, registerSource, unregisterSource } from '@/content/registry'
-import { createIdbSource } from '@/content/sources/idb'
-import { getDb } from '@/db/client'
-import { deleteBookPractices } from '@/db/repositories/practices'
-import { yieldToUI } from '@/lib/async'
-import { fetchHearth, hearthUrl } from '@/lib/hearth'
-import { idbDeletePrefix, idbWriteBatch } from '@/lib/idb-fs'
+/**
+ * V1 → V2 compatibility shim.
+ *
+ * The old `libraryManager` API (fetchRegistry / downloadAndInstallLibrary /
+ * removeLibrary / etc.) is reimplemented over the v2 corpus + pinning model,
+ * so existing library-UI screens keep working without a rewrite. New code
+ * should import directly from `@/features/pinning/pinningManager`.
+ */
 
-// expo-file-system is native-only — conditionally import on iOS/Android
-const nativeFs =
-  Platform.OS !== 'web'
-    ? (require('expo-file-system') as typeof import('expo-file-system'))
-    : undefined
-const nativeSource =
-  Platform.OS !== 'web'
-    ? (require('@/content/sources/filesystem') as typeof import('@/content/sources/filesystem'))
-    : undefined
+import { getAllEntries, getEntry, getRememberedManifest } from '@/content/contentIndex'
+import type { CollectionItemManifest, PracticeItemManifest } from '@/content/manifestTypes'
+import { getJson } from '@/content/store'
+import { getPinnedItems, isPinned, pinItem, unpinItem } from '@/features/pinning/pinningManager'
+import { localizeContent } from '@/lib/i18n'
 
 export type PracticePreview = {
   id: string
@@ -73,241 +68,152 @@ export type InstalledLibrary = {
   content_hash: string | undefined
 }
 
-// --- Native-only filesystem helpers ---
-
-function librariesDir() {
-  const { Directory, Paths } = nativeFs!
-  return new Directory(Paths.document, 'books/')
-}
-
-function libraryDir(libraryId: string) {
-  const { Directory, Paths } = nativeFs!
-  return new Directory(Paths.document, 'books/', `${libraryId}/`)
-}
-
-function ensureLibrariesDir() {
-  const dir = librariesDir()
-  if (!dir.exists) dir.create()
-}
-
-function ensureDir(dir: { exists: boolean; create: () => void }) {
-  if (!dir.exists) dir.create()
-}
-
-// biome-ignore lint: native-only, typed via expo-file-system Directory
-async function extractZipToFs(zipData: ArrayBuffer, destDir: any) {
-  const { Directory: Dir, File: NativeFile } = nativeFs!
-  const zip = await JSZip.loadAsync(zipData)
-  const created = new Set<string>()
-  let fileCount = 0
-
-  for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
-    if (zipEntry.dir) {
-      if (!created.has(relativePath)) {
-        ensureDir(new Dir(destDir, relativePath))
-        created.add(relativePath)
-      }
-    } else {
-      const parts = relativePath.split('/')
-      if (parts.length > 1) {
-        const parentPath = parts.slice(0, -1).join('/')
-        if (!created.has(parentPath)) {
-          ensureDir(new Dir(destDir, parentPath))
-          created.add(parentPath)
-        }
-      }
-      const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
-      if (isBinary) {
-        const bytes = await zipEntry.async('uint8array')
-        new NativeFile(destDir, relativePath).write(bytes)
-      } else {
-        const content = await zipEntry.async('string')
-        new NativeFile(destDir, relativePath).write(content)
-      }
-
-      fileCount++
-      if (fileCount % 5 === 0) await yieldToUI()
+function previewsForCollection(collection: CollectionItemManifest): {
+  practices: PracticePreview[]
+  prayers: PrayerPreview[]
+  chapters: ChapterPreview[]
+  books: BookPreview[]
+} {
+  const out = {
+    practices: [] as PracticePreview[],
+    prayers: [] as PrayerPreview[],
+    chapters: [] as ChapterPreview[],
+    books: [] as BookPreview[],
+  }
+  for (const item of collection.items) {
+    const ref = item.ref
+    const entry = getEntry(ref)
+    if (!entry) continue
+    const localId = ref.split('/').slice(1).join('/')
+    if (entry.kind === 'practice') {
+      out.practices.push({
+        id: localId,
+        name: (entry.name as Record<string, string>) ?? { 'en-US': localId },
+        icon: entry.icon ?? 'prayer',
+      })
+    } else if (entry.kind === 'prayer') {
+      out.prayers.push({
+        id: localId,
+        title: (entry.title as Record<string, string>) ??
+          (entry.name as Record<string, string>) ?? { 'en-US': localId },
+      })
+    } else if (entry.kind === 'chapter') {
+      out.chapters.push({
+        id: localId,
+        title: (entry.title as Record<string, string>) ?? { 'en-US': localId },
+      })
+    } else if (entry.kind === 'book') {
+      out.books.push({
+        id: localId,
+        name: (entry.name as Record<string, string>) ?? { 'en-US': localId },
+        author: entry.author as Record<string, string> | undefined,
+      })
     }
   }
+  return out
 }
 
-// --- Web: extract zip into IndexedDB ---
-
-async function extractZipToIdb(zipData: ArrayBuffer, prefix: string) {
-  const zip = await JSZip.loadAsync(zipData)
-  const entries: [string, string | Uint8Array][] = []
-
-  for (const [relativePath, zipEntry] of Object.entries(zip.files)) {
-    if (zipEntry.dir) continue
-    const isBinary = /\.(jpg|jpeg|png|webp|gif|mp3|ogg|wav|pdf)$/i.test(relativePath)
-    if (isBinary) {
-      const bytes = await zipEntry.async('uint8array')
-      entries.push([`${prefix}${relativePath}`, bytes])
-    } else {
-      const content = await zipEntry.async('string')
-      entries.push([`${prefix}${relativePath}`, content])
-    }
+function entryToRegistryEntry(collectionId: string, body: CollectionItemManifest): RegistryEntry {
+  const entry = getEntry(collectionId)
+  const previews = previewsForCollection(body)
+  return {
+    id: collectionId.replace(/^collection\//, ''),
+    version: body.version ?? '1.0.0',
+    name: body.name ?? { 'en-US': collectionId },
+    description: body.description ?? {},
+    languages: body.languages ?? [],
+    tags: body.tags ?? [],
+    practiceCount: previews.practices.length,
+    practices: previews.practices,
+    prayers: previews.prayers,
+    chapters: previews.chapters,
+    books: previews.books,
+    contents: body.items.map((it) => {
+      const e = getEntry(it.ref)
+      const kind = e?.kind ?? 'practice'
+      return {
+        type: (kind === 'book' || kind === 'chapter' ? kind : 'practice') as
+          | 'chapter'
+          | 'practice'
+          | 'book',
+        id: it.ref.split('/').slice(1).join('/'),
+      }
+    }),
+    size: entry?.size ?? 0,
+    file: collectionId,
+    contentHash: entry?.hash ?? '',
   }
-
-  await idbWriteBatch(entries)
 }
-
-async function upsertInstalledLibrary(
-  libraryId: string,
-  version: string,
-  manifestJson: string,
-  contentHash: string,
-) {
-  const now = Date.now()
-  await getDb().runAsync(
-    `INSERT INTO installed_books (book_id, version, installed_at, updated_at, manifest, content_hash)
-     VALUES (?, ?, ?, ?, ?, ?)
-     ON CONFLICT (book_id) DO UPDATE SET version = excluded.version, updated_at = excluded.updated_at, manifest = excluded.manifest, content_hash = excluded.content_hash`,
-    [libraryId, version, now, now, manifestJson, contentHash],
-  )
-}
-
-const hearthLibrariesPath = 'libraries'
 
 export async function fetchRegistry(): Promise<Registry> {
-  return fetchHearth<Registry>(`${hearthLibrariesPath}/registry.json`, { networkFirst: true })
+  const libraries: RegistryEntry[] = []
+  for (const [id, entry] of getAllEntries()) {
+    if (entry.kind !== 'collection') continue
+    let body = getRememberedManifest<CollectionItemManifest>(entry.hash)
+    if (!body) {
+      try {
+        body = await getJson<CollectionItemManifest>(entry.hash)
+      } catch {
+        continue
+      }
+    }
+    libraries.push(entryToRegistryEntry(id, body))
+  }
+  // sort by name for stable display
+  libraries.sort((a, b) => localizeContent(a.name).localeCompare(localizeContent(b.name)))
+  return { version: 2, libraries }
 }
 
 export async function getInstalledLibraries(): Promise<InstalledLibrary[]> {
-  return getDb().getAllAsync<InstalledLibrary>('SELECT * FROM installed_books')
+  const items = getPinnedItems().filter((p) => p.id.startsWith('collection/'))
+  return items.map((p) => ({
+    book_id: p.id.replace(/^collection\//, ''),
+    version: '1.0.0',
+    installed_at: p.pinnedAt,
+    updated_at: p.pinnedAt,
+    manifest: '{}',
+    content_hash: getEntry(p.id)?.hash ?? '',
+  }))
 }
 
 export async function getInstalledLibrary(
   libraryId: string,
 ): Promise<InstalledLibrary | undefined> {
-  const row = await getDb().getFirstAsync<InstalledLibrary>(
-    'SELECT * FROM installed_books WHERE book_id = ?',
-    [libraryId],
-  )
-  return row ?? undefined
+  const collectionId = `collection/${libraryId}`
+  if (!isPinned(collectionId)) return undefined
+  const item = getPinnedItems().find((p) => p.id === collectionId)
+  if (!item) return undefined
+  return {
+    book_id: libraryId,
+    version: '1.0.0',
+    installed_at: item.pinnedAt,
+    updated_at: item.pinnedAt,
+    manifest: '{}',
+    content_hash: getEntry(collectionId)?.hash ?? '',
+  }
 }
 
 export async function downloadAndInstallLibrary(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  const url = hearthUrl(`${hearthLibrariesPath}/${entry.file}`)
-
-  if (onProgress) onProgress(0.1)
-  const response = await fetch(url)
-  if (!response.ok) throw new Error(`Download failed: ${response.status} ${entry.file}`)
-  const zipData = await response.arrayBuffer()
-  if (onProgress) onProgress(0.6)
-
-  if (Platform.OS === 'web') {
-    const prefix = `books/${entry.id}/`
-    await idbDeletePrefix(prefix)
-    await extractZipToIdb(zipData, prefix)
-    if (onProgress) onProgress(0.9)
-
-    const zip = await JSZip.loadAsync(zipData)
-    const libraryJson = await zip.file('library.json')!.async('string')
-    await upsertInstalledLibrary(entry.id, entry.version, libraryJson, entry.contentHash)
-
-    const source = await createIdbSource(entry.id)
-    registerSource(source)
-  } else {
-    ensureLibrariesDir()
-    const dest = libraryDir(entry.id)
-    if (dest.exists) dest.delete()
-    dest.create()
-
-    await extractZipToFs(zipData, dest)
-    if (onProgress) onProgress(0.9)
-
-    const { File: NativeFile } = nativeFs!
-    const libraryJson = await new NativeFile(dest, 'library.json').text()
-    await upsertInstalledLibrary(entry.id, entry.version, libraryJson, entry.contentHash)
-
-    const source = await nativeSource!.createFileSystemSource(dest.uri)
-    registerSource(source)
-  }
-
-  if (onProgress) onProgress(1)
+  const collectionId = entry.file.startsWith('collection/') ? entry.file : `collection/${entry.id}`
+  await pinItem(collectionId, (done, total) => {
+    onProgress?.(total > 0 ? done / total : 0)
+  })
 }
 
-export async function installFromLocalFile(filePath: string) {
-  if (Platform.OS === 'web') {
-    throw new Error('installFromLocalFile is not supported on web')
-  }
-
-  const { Directory: Dir, File: NativeFile, Paths } = nativeFs!
-  ensureLibrariesDir()
-
-  const file = new NativeFile(filePath)
-  const zipData = await file.arrayBuffer()
-
-  const tempDir = new Dir(Paths.cache, 'pray-import/')
-  if (tempDir.exists) tempDir.delete()
-  tempDir.create()
-  await extractZipToFs(zipData, tempDir)
-
-  const libraryJson = await new NativeFile(tempDir, 'library.json').text()
-  const library = JSON.parse(libraryJson) as import('@/content/sources/filesystem').Library
-
-  const dest = libraryDir(library.id)
-  if (dest.exists) dest.delete()
-  tempDir.move(dest)
-
-  await upsertInstalledLibrary(library.id, library.version, libraryJson, '')
-
-  const source = await nativeSource!.createFileSystemSource(dest.uri)
-  registerSource(source)
-
-  return library
+export async function installFromLocalFile(_filePath: string) {
+  throw new Error('installFromLocalFile is no longer supported in Hearth v2 (use pinning)')
 }
 
 export async function removeLibrary(libraryId: string): Promise<void> {
-  const practiceIds = getPracticeIdsForLibrary(libraryId)
-  await deleteBookPractices(practiceIds)
-  unregisterSource(libraryId)
-
-  if (Platform.OS === 'web') {
-    await idbDeletePrefix(`books/${libraryId}/`)
-  } else {
-    const dest = libraryDir(libraryId)
-    if (dest.exists) dest.delete()
-  }
-
-  await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [libraryId])
+  await unpinItem(`collection/${libraryId}`)
 }
 
 export async function loadInstalledLibraries(): Promise<void> {
-  if (Platform.OS !== 'web') ensureLibrariesDir()
-
-  const installed = await getInstalledLibraries()
-  const results = await Promise.all(
-    installed.map(async (row) => {
-      try {
-        if (Platform.OS === 'web') {
-          return await createIdbSource(row.book_id)
-        }
-        return await nativeSource!.createFileSystemSource(libraryDir(row.book_id).uri)
-      } catch (err) {
-        console.error(`[library] failed to load installed library "${row.book_id}":`, err)
-        // Stale install: SQL row points at content that's missing/corrupt.
-        // Drop the row so the boot path re-installs from the registry.
-        try {
-          await getDb().runAsync('DELETE FROM installed_books WHERE book_id = ?', [row.book_id])
-          console.warn(`[library] dropped stale install record for "${row.book_id}"`)
-        } catch (cleanupErr) {
-          console.error(
-            `[library] failed to clean up stale record for "${row.book_id}":`,
-            cleanupErr,
-          )
-        }
-        return undefined
-      }
-    }),
-  )
-  for (const source of results) {
-    if (source) registerSource(source)
-  }
+  // No-op: in v2 the corpus is universal and the pinned items list is the
+  // only state we maintain. boot's `rehydratePinned()` already handled it.
 }
 
 export function isLibraryUpdateAvailable(
@@ -317,7 +223,6 @@ export function isLibraryUpdateAvailable(
   const entry = registry.find((r) => r.id === installed.book_id)
   if (!entry) return undefined
   if (entry.contentHash && entry.contentHash !== installed.content_hash) return entry
-  if (!entry.contentHash && entry.version !== installed.version) return entry
   return undefined
 }
 
@@ -325,20 +230,42 @@ export async function updateLibrary(
   entry: RegistryEntry,
   onProgress?: (progress: number) => void,
 ): Promise<void> {
-  await downloadAndInstallLibrary(entry, onProgress)
+  return downloadAndInstallLibrary(entry, onProgress)
 }
 
 export async function checkAndUpdateLibraries(): Promise<boolean> {
   const [installed, registry] = await Promise.all([getInstalledLibraries(), fetchRegistry()])
   let updated = false
-
-  for (const library of installed) {
-    const entry = isLibraryUpdateAvailable(library, registry.libraries)
+  for (const lib of installed) {
+    const entry = isLibraryUpdateAvailable(lib, registry.libraries)
     if (entry) {
       await updateLibrary(entry)
       updated = true
     }
   }
-
   return updated
+}
+
+export function manifestPreviewFromInstall(_installed: InstalledLibrary):
+  | {
+      practices: PracticePreview[]
+      prayers: PrayerPreview[]
+      chapters: ChapterPreview[]
+      books: BookPreview[]
+    }
+  | undefined {
+  // The legacy library detail screen used this to render a summary. In v2 we
+  // already have the collection manifest in memory; let the caller pull it.
+  return undefined
+}
+
+// Re-exports for code that touches the practice list directly.
+export function listAllPractices(): PracticeItemManifest[] {
+  const out: PracticeItemManifest[] = []
+  for (const [, entry] of getAllEntries()) {
+    if (entry.kind !== 'practice') continue
+    const body = getRememberedManifest<PracticeItemManifest>(entry.hash)
+    if (body) out.push(body)
+  }
+  return out
 }

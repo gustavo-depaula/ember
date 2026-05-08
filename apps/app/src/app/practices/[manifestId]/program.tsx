@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { addDays, format } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronLeft } from 'lucide-react-native'
@@ -46,7 +47,13 @@ export default function ProgramDetailScreen() {
   const restartProgramMutation = useRestartProgram()
   const backfillMutation = useBackfillMissedDays()
 
-  const cycleData = manifestId ? loadPracticeData(manifestId) : undefined
+  const cycleDataQuery = useQuery({
+    queryKey: ['practice-data', manifestId],
+    queryFn: () => (manifestId ? loadPracticeData(manifestId) : undefined),
+    enabled: !!manifestId,
+    staleTime: Infinity,
+  })
+  const cycleData = cycleDataQuery.data
   const dayTitles = useMemo(() => getDayTitles(cycleData), [cycleData])
 
   if (!manifest?.program || !progress) {

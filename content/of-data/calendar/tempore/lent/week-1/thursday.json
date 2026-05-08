@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-1.thursday",
+  "title": {
+    "la": "Hebdomada I Feria quinta",
+    "es": "Cuaresma Jueves de la I Semana",
+    "en": "Thursday of the I Week of Lent",
+    "pt-BR": "Quinta-feira da I Semana da Quaresma",
+    "it": "I SETTIMANA DI QUARESIMA Giovedì",
+    "fr": "1e semaine Jeudi",
+    "de": "Donnerstag der 1. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 1,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

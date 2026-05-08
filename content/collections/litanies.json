@@ -1,0 +1,59 @@
+{
+  "id": "collection/litanies",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Catholic Litanies",
+    "pt-BR": "Ladainhas Católicas"
+  },
+  "description": {
+    "en-US": "The approved and beloved litanies of the Catholic Church — ancient intercessory prayers invoking God's mercy through the saints, Our Lady, and the Sacred Name.",
+    "pt-BR": "As ladainhas aprovadas e amadas da Igreja Católica — antigas orações intercessórias que invocam a misericórdia de Deus pelos santos, Nossa Senhora e o Sagrado Nome."
+  },
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "litany",
+    "devotion",
+    "intercession"
+  ],
+  "items": [
+    {
+      "ref": "chapter/what-is-a-litany"
+    },
+    {
+      "ref": "practice/litany-saints"
+    },
+    {
+      "ref": "practice/litany-loreto"
+    },
+    {
+      "ref": "practice/litany-holy-name"
+    },
+    {
+      "ref": "practice/litany-sacred-heart"
+    },
+    {
+      "ref": "practice/litany-st-joseph"
+    },
+    {
+      "ref": "practice/litany-precious-blood"
+    },
+    {
+      "ref": "chapter/praying-the-litanies"
+    },
+    {
+      "ref": "practice/litany-humility"
+    },
+    {
+      "ref": "practice/litany-holy-spirit"
+    },
+    {
+      "ref": "practice/litany-blessed-sacrament"
+    }
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

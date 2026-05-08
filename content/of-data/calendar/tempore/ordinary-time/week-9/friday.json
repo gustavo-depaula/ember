@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-9.friday",
+  "title": {
+    "la": "Feria VI hebd. IX",
+    "es": "Viernes 9ª semana",
+    "en": "Friday of the IX Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da IX Semana do Tempo Comum",
+    "it": "VENERDI della IX settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 9e semaine",
+    "de": "9. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 9,
+  "weekday": "friday",
+  "liturgicalColor": "green"
+}

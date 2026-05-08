@@ -24,7 +24,7 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
-import { getManifest, parseQualifiedId } from '@/content/registry'
+import { getManifest } from '@/content/registry'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
 import type { Tier, UserPractice } from '@/db/schema'
@@ -52,19 +52,9 @@ type PracticeGroup = {
   enabled: boolean
 }
 
-function getPracticeDisplayName(
-  practiceId: string,
-  practice: UserPractice | undefined,
-  t: ReturnType<typeof useTranslation>['t'],
-): string {
+function getPracticeDisplayName(practiceId: string, practice: UserPractice | undefined): string {
   const manifest = getManifest(practiceId)
-  if (manifest) {
-    const { practiceId: unqualified } = parseQualifiedId(practiceId)
-    const key = `practice.${unqualified}`
-    const translated = t(key)
-    if (translated !== key) return translated
-    return localizeContent(manifest.name)
-  }
+  if (manifest) return localizeContent(manifest.name)
   return practice?.custom_name ?? practiceId
 }
 
@@ -117,7 +107,7 @@ export default function PlanScreen() {
       const first = practiceSlots[0]
       groups.push({
         practiceId,
-        name: getPracticeDisplayName(practiceId, practices.get(practiceId), t),
+        name: getPracticeDisplayName(practiceId, practices.get(practiceId)),
         icon: getPracticeIconKey(first),
         tier: first.tier,
         slotCount: practiceSlots.length,
@@ -126,7 +116,7 @@ export default function PlanScreen() {
     }
 
     return groups
-  }, [slots, practices, t])
+  }, [slots, practices])
 
   const grouped = useMemo(() => {
     const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
@@ -381,7 +371,7 @@ export default function PlanScreen() {
 
                 {archivedExpanded &&
                   archivedPractices.map((p, index) => {
-                    const name = getPracticeDisplayName(p.practice_id, p, t)
+                    const name = getPracticeDisplayName(p.practice_id, p)
                     const iconKey = p.custom_icon ?? 'prayer'
 
                     return (
