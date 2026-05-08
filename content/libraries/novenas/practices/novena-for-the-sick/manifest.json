@@ -1,0 +1,46 @@
+{
+  "id": "novena-for-the-sick",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Novena for the Sick",
+    "pt-BR": "Novena dos Enfermos"
+  },
+  "categories": ["program", "devotion", "saints", "healing"],
+  "estimatedMinutes": 10,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "program": {
+    "totalDays": 9,
+    "progressPolicy": "wait",
+    "completionBehavior": "auto-disable"
+  },
+  "data": {
+    "sick-novena-days": "data/days.json"
+  },
+  "flow": "flow.json",
+  "description": {
+    "en-US": "A nine-day novena to St. Josemaría Escrivá for the sick and those who care for them, drawn from his own writings on illness, suffering, and trust in God's Will.",
+    "pt-BR": "Uma novena de nove dias a São Josemaria Escrivá pelos doentes e por aqueles que cuidam deles, recolhida de seus próprios escritos sobre a doença, o sofrimento e a confiança na Vontade de Deus."
+  },
+  "history": {
+    "en-US": "Composed by Fr. Francisco Faus and first published in Brazil in 2006 with the imprimatur of the Bishop of Santo Amaro (São Paulo). Each day weaves together passages from St. Josemaría's writings — The Way, The Forge, Furrow, Friends of God, The Way of the Cross, Holy Rosary — with two intentions: one to be prayed by the sick person, the other on their behalf. The novena is freely distributed by Opus Dei.",
+    "pt-BR": "Composta pelo Pe. Francisco Faus e publicada pela primeira vez no Brasil em 2006 com o imprimatur do Bispo de Santo Amaro (São Paulo). Cada dia reúne passagens dos escritos de São Josemaria — Caminho, Forja, Sulco, Amigos de Deus, Via Sacra, Santo Rosário — com duas intenções: uma a ser rezada pelo próprio doente, e outra por ele. A novena é livremente distribuída pela Opus Dei."
+  },
+  "howToPray": {
+    "en-US": "Pray once daily for nine consecutive days. Begin with the Sign of the Cross, read the day's reflection from St. Josemaría's writings, and choose one of the two intentions — Prayer of the sick person, or Prayer for the sick person. Conclude with the Prayer to Saint Josemaría and one Our Father, Hail Mary, and Glory Be, finishing with the Sign of the Cross.",
+    "pt-BR": "Reze uma vez por dia durante nove dias consecutivos. Comece com o Sinal da Cruz, leia a reflexão do dia tirada dos escritos de São Josemaria e escolha uma das duas intenções — Oração do doente ou Oração pelo doente. Conclua com a oração a São Josemaria e um Pai-Nosso, Ave-Maria e Glória ao Pai, terminando com o Sinal da Cruz."
+  },
+  "tags": ["novena", "st-josemaria", "9-days", "sick", "healing", "opus-dei", "suffering"],
+  "defaults": {
+    "sortOrder": 50,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

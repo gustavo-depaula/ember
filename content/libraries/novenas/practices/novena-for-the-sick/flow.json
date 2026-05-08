@@ -1,0 +1,115 @@
+{
+  "sections": [
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    },
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Novena for the Sick",
+        "pt-BR": "Novena dos Enfermos"
+      }
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "to St. Josemaría Escrivá",
+        "pt-BR": "a São Josemaria Escrivá"
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "sick-novena-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{dayTitle}}"
+        },
+        {
+          "type": "rubric",
+          "text": {
+            "en-US": "St. Josemaría says:",
+            "pt-BR": "São Josemaria diz:"
+          }
+        },
+        {
+          "type": "meditation",
+          "text": "{{meditation}}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "options",
+          "label": {
+            "en-US": "Choose intention:",
+            "pt-BR": "Escolha a intenção:"
+          },
+          "options": [
+            {
+              "id": "a",
+              "label": {
+                "en-US": "Prayer of the sick person",
+                "pt-BR": "Oração do doente"
+              },
+              "sections": [
+                {
+                  "type": "meditation",
+                  "text": "{{intentionA}}"
+                }
+              ]
+            },
+            {
+              "id": "b",
+              "label": {
+                "en-US": "Prayer for the sick person",
+                "pt-BR": "Oração pelo doente"
+              },
+              "sections": [
+                {
+                  "type": "meditation",
+                  "text": "{{intentionB}}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "Pray the prayer to Saint Josemaría:",
+        "pt-BR": "Reze a oração a São Josemaria:"
+      }
+    },
+    {
+      "type": "prayer",
+      "inline": {
+        "en-US": "O God, through the mediation of Mary our Mother, you granted your priest Saint Josemaría countless graces, choosing him as a most faithful instrument to found Opus Dei, a way of sanctification in daily work and in the fulfillment of the Christian's ordinary duties. Grant that I too may learn to turn all the circumstances and events of my life into occasions of loving you and serving the Church, the Pope and all souls with joy and simplicity, lighting up the pathways of this earth with faith and love. Deign to grant me, through the intercession of Saint Josemaría, the favour of… (make your request). Amen.",
+        "pt-BR": "Ó Deus, que por mediação da Santíssima Virgem Maria, concedestes inumeráveis graças a São Josemaria, sacerdote, escolhendo-o como instrumento fidelíssimo para fundar a Opus Dei, caminho de santificação no trabalho profissional e no cumprimento dos deveres cotidianos do cristão, fazei que eu saiba também converter todos os momentos e circunstâncias da minha vida em ocasião de Vos amar, e de servir com alegria e com simplicidade a Igreja, o Romano Pontífice e as almas, iluminando os caminhos da terra com o resplendor da fé e do amor. Concedei-me por intercessão de São Josemaria o favor que vos peço… (faça seu pedido). Assim seja."
+      }
+    },
+    {
+      "type": "prayer",
+      "ref": "base:our-father"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:hail-mary"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:glory-be"
+    },
+    {
+      "type": "prayer",
+      "ref": "base:sign-of-cross"
+    }
+  ]
+}
