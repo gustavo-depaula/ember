@@ -1,14 +1,12 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
-import { getEntry, getRememberedManifest, rememberManifestBody } from '@/content/contentIndex'
+import { fetchOfAsset } from '@/content/fetchOfAsset'
 import {
   getBookEntry,
   getProseText,
   loadBookChapterText,
-  loadMassProper,
   resolveCanticle,
   resolvePrayer,
 } from '@/content/registry'
-import { getJson } from '@/content/store'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -29,60 +27,6 @@ function findTocTitle(
     }
   }
   return undefined
-}
-
-/**
- * Translate a v1-style asset path (e.g. `of/masses/tempore/...json`,
- * `of/library/preface/preface.pf001.json`) into a v2 corpus id, fetch the
- * shape + per-language blobs, and recombine them so callers see the same
- * multilingual JSON shape they used to receive.
- */
-async function fetchOfAsset(path: string, langs: string[]): Promise<unknown | undefined> {
-  // Drop trailing .json and any leading of/
-  let trimmed = path.replace(/\.json$/, '').replace(/^\/+/, '')
-  if (trimmed.startsWith('of/')) trimmed = trimmed.slice(3)
-
-  // calendar/saints/igmr/sacerdotale → of-data/...
-  for (const sub of ['calendar', 'saints', 'igmr', 'sacerdotale']) {
-    if (trimmed.startsWith(`${sub}/`) || trimmed === sub) {
-      const id = `of-data/${trimmed}`
-      const entry = getEntry(id)
-      if (!entry) return undefined
-      const item = await ensureManifest(entry.hash)
-      const inner = (item as { data?: { hash: string } }).data
-      if (!inner) return item
-      return getJson(inner.hash)
-    }
-  }
-
-  // library/{ordinary,preface,eucharistic-prayer}/<id> → of/{kind}/<id>
-  if (trimmed.startsWith('library/')) {
-    const rest = trimmed.slice('library/'.length)
-    const id = `of/${rest}`
-    return loadMassProperLike(id, langs)
-  }
-
-  // masses/<...> → mass/of/<...>
-  if (trimmed.startsWith('masses/')) {
-    const id = `mass/of/${trimmed.slice('masses/'.length)}`
-    return loadMassProperLike(id, langs)
-  }
-
-  return undefined
-}
-
-async function loadMassProperLike(id: string, langs: string[]): Promise<unknown | undefined> {
-  const entry = getEntry(id)
-  if (!entry) return undefined
-  return loadMassProper(id, langs)
-}
-
-async function ensureManifest(hash: string): Promise<unknown> {
-  const cached = getRememberedManifest<unknown>(hash)
-  if (cached) return cached
-  const fetched = await getJson<unknown>(hash)
-  rememberManifestBody(hash, fetched)
-  return fetched
 }
 
 export function createEngineContext(
