@@ -514,6 +514,9 @@ export default {
     emptyStateDescription:
       'Adicione práticas para começar a moldar seus dias — oração, leitura, silêncio, caridade.',
     emptyStateAction: 'Ver práticas →',
+    pinAll: 'Tornar plano disponível offline',
+    pinAllInProgress: 'Salvando para offline… {{done}} de {{total}}',
+    planOffline: 'Plano disponível offline',
   },
 
   editor: {

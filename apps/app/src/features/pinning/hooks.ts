@@ -1,8 +1,9 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
-import { useCallback, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 
+import { getEntry } from '@/content/contentIndex'
 import { evictTo, getCacheStats } from '@/content/store'
-import { getPinnedItems, pinItem, pinnedHashes, unpinItem } from './pinningManager'
+import { getPinnedItems, isPinned, pinItem, pinnedHashes, unpinItem } from './pinningManager'
 
 export function usePinnedItems() {
   return useQuery({
@@ -94,6 +95,81 @@ export function usePinToggle(itemId: string | undefined) {
     isWorking: pin.isPending || unpin.isPending,
     progress: pin.progress,
     toggle,
+  }
+}
+
+/**
+ * Bulk-pin every corpus practice in a list (e.g. the user's plan-of-life).
+ *
+ * Resolves each `practiceId` to its catalog item (`practice/<id>`); silently
+ * skips ids without a corpus entry (custom user practices) and ids that are
+ * already pinned. Best-effort — failures on individual practices log a warning
+ * and do not abort the rest. Progress is reported per practice (done/total),
+ * not per blob.
+ */
+export function usePinPractices(practiceIds: string[]) {
+  const qc = useQueryClient()
+  const { data: pinnedList } = usePinnedItems()
+  const [progress, setProgress] = useState<{ done: number; total: number } | undefined>()
+
+  const eligibleIds = useMemo(() => {
+    const out: string[] = []
+    for (const pid of practiceIds) {
+      const itemId = `practice/${pid}`
+      if (getEntry(itemId)) out.push(itemId)
+    }
+    return out
+  }, [practiceIds])
+
+  const pendingIds = useMemo(() => {
+    const pinnedSet = new Set((pinnedList ?? []).map((p) => p.id))
+    return eligibleIds.filter((id) => !pinnedSet.has(id))
+  }, [eligibleIds, pinnedList])
+
+  const allPinned = eligibleIds.length > 0 && pendingIds.length === 0
+
+  const mutation = useMutation({
+    mutationFn: async () => {
+      // Snapshot the work-list at click time so the progress counter doesn't
+      // drift as `pinned-items` invalidates between practices.
+      const todo = eligibleIds.filter((id) => !isPinned(id))
+      if (todo.length === 0) return
+      setProgress({ done: 0, total: todo.length })
+      let done = 0
+      try {
+        await Promise.all(
+          todo.map(async (id) => {
+            try {
+              await pinItem(id)
+            } catch (err) {
+              console.warn('[pinning] failed to pin', id, err)
+            } finally {
+              done += 1
+              setProgress({ done, total: todo.length })
+            }
+          }),
+        )
+      } finally {
+        setProgress(undefined)
+      }
+    },
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['pinned-items'] })
+    },
+  })
+
+  const pinAll = useCallback(() => {
+    if (mutation.isPending || pendingIds.length === 0) return
+    mutation.mutate()
+  }, [mutation, pendingIds.length])
+
+  return {
+    allPinned,
+    eligibleCount: eligibleIds.length,
+    pendingCount: pendingIds.length,
+    isWorking: mutation.isPending,
+    progress,
+    pinAll,
   }
 }
 

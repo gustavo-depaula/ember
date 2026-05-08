@@ -510,6 +510,9 @@ export default {
     emptyStateDescription:
       'Add practices to begin shaping the shape of your days — prayer, reading, silence, almsgiving.',
     emptyStateAction: 'Browse practices →',
+    pinAll: 'Make plan available offline',
+    pinAllInProgress: 'Saving for offline… {{done}} of {{total}}',
+    planOffline: 'Plan is available offline',
   },
 
   editor: {
