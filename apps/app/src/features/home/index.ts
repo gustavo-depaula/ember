@@ -9,6 +9,7 @@ export {
   LiturgicalHeader,
   MementoLine,
   NavigationMedallion,
+  OfflineCoverageLine,
   QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,

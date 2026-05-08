@@ -116,6 +116,8 @@ export default {
       },
     },
     todayProgress: '{{completed}} de {{total}} hoje',
+    offlineCoverage: '{{covered}} de {{total}} práticas disponíveis offline',
+    offlineReady: 'Plano disponível offline',
     emptyPlan:
       'Seu plano de vida está vazio. Adicione práticas para começar a construir seu plano de vida.',
     emptyPlanAction: 'Adicionar práticas →',

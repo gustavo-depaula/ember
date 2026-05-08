@@ -116,6 +116,8 @@ export default {
       },
     },
     todayProgress: '{{completed}} of {{total}} today',
+    offlineCoverage: '{{covered}} of {{total}} practices available offline',
+    offlineReady: 'Plan ready offline',
     emptyPlan: 'Your plan of life is empty. Add practices to begin building your rule of life.',
     emptyPlanAction: 'Add practices →',
     begin: 'Begin',

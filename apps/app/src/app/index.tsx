@@ -26,6 +26,7 @@ import {
   DiesDevotion,
   LiturgicalHeader,
   MementoLine,
+  OfflineCoverageLine,
   QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,
@@ -297,6 +298,8 @@ export default function HomeScreen() {
           )}
 
           <RestartNeededList ids={restartNeededIds} />
+
+          <OfflineCoverageLine />
         </YStack>
 
         {wallData.length > 0 && (
