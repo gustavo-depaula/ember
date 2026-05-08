@@ -3,7 +3,8 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { getEntriesByKind } from '@/content/contentIndex'
+import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'
+import type { PrayerItemManifest } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
 
@@ -23,7 +24,8 @@ export function AllPrayersList({ onSelect }: { onSelect: (prayerId: string) => v
   const prayers = useMemo(() => {
     const out: { id: string; title: string }[] = []
     for (const [id, entry] of getEntriesByKind('prayer')) {
-      const titleSrc = entry.title ?? entry.name
+      const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
+      const titleSrc = body?.title ?? entry.title ?? entry.name
       if (!titleSrc) continue
       const title = localizeContent(titleSrc as Record<string, string>).trim()
       if (!title) continue

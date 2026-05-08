@@ -6,7 +6,13 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getEntriesByKind, isHiddenCollection, isHiddenPractice } from '@/content/contentIndex'
+import {
+  getEntriesByKind,
+  getRememberedManifest,
+  isHiddenCollection,
+  isHiddenPractice,
+} from '@/content/contentIndex'
+import type { BookItemManifest, PrayerItemManifest } from '@/content/manifestTypes'
 import { getManifestIconKey, searchManifests } from '@/content/registry'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
@@ -17,11 +23,32 @@ type SearchResult =
   | { kind: 'book'; id: string; title: string; subtitle?: string }
   | { kind: 'collection'; id: string; title: string; iconKey: string }
 
+type Scored<T> = { score: number; item: T }
+
 const groupOrder: SearchResult['kind'][] = ['practice', 'prayer', 'book', 'collection']
 
 function bareId(corpusId: string): string {
   const slash = corpusId.indexOf('/')
   return slash === -1 ? corpusId : corpusId.slice(slash + 1)
+}
+
+// Higher score = more relevant. Title hits dominate over tag/description hits
+// so a query like "rosário" surfaces "Santo Rosário" before practices that
+// merely mention "rosary beads" in their description.
+function scoreText(text: string | undefined, q: string): number {
+  if (!text) return 0
+  const t = text.toLowerCase()
+  if (t === q) return 100
+  if (t.startsWith(q)) return 80
+  if (t.includes(q)) return 60
+  return 0
+}
+
+function takeTopByScore<T>(scored: Scored<T>[]): T[] {
+  return scored
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .map((s) => s.item)
 }
 
 export function SearchAutocomplete({
@@ -38,65 +65,85 @@ export function SearchAutocomplete({
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred manifests warm.
   const grouped = useMemo<Record<SearchResult['kind'], SearchResult[]>>(() => {
-    const buckets: Record<SearchResult['kind'], SearchResult[]> = {
-      practice: [],
-      prayer: [],
-      book: [],
-      collection: [],
-    }
     const trimmed = query.trim()
-    if (!trimmed) return buckets
+    if (!trimmed) return { practice: [], prayer: [], book: [], collection: [] }
 
     const q = trimmed.toLowerCase()
 
+    const practiceScored: Scored<SearchResult>[] = []
     for (const m of searchManifests(trimmed)) {
       if (isHiddenPractice(m.id)) continue
-      buckets.practice.push({
-        kind: 'practice',
-        id: m.id,
-        title: localizeContent(m.name),
-        iconKey: getManifestIconKey(m.id),
+      const title = localizeContent(m.name)
+      const titleScore = scoreText(title, q)
+      const tagScore = m.tags?.some((tag) => tag.toLowerCase().includes(q)) ? 30 : 0
+      const descScore =
+        m.description && localizeContent(m.description).toLowerCase().includes(q) ? 10 : 0
+      const score = Math.max(titleScore, tagScore, descScore)
+      if (score === 0) continue
+      practiceScored.push({
+        score,
+        item: {
+          kind: 'practice',
+          id: m.id,
+          title,
+          iconKey: getManifestIconKey(m.id),
+        },
       })
     }
 
+    const prayerScored: Scored<SearchResult>[] = []
     for (const [id, entry] of getEntriesByKind('prayer')) {
-      const title = entry.title
-        ? localizeContent(entry.title)
-        : entry.name
-          ? localizeContent(entry.name)
-          : bareId(id)
-      if (title.toLowerCase().includes(q)) {
-        buckets.prayer.push({ kind: 'prayer', id: bareId(id), title })
-      }
+      const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
+      const titleSrc = body?.title ?? entry.title ?? entry.name
+      if (!titleSrc) continue
+      const title = localizeContent(titleSrc as Record<string, string>)
+      const score = scoreText(title, q)
+      if (score === 0) continue
+      prayerScored.push({ score, item: { kind: 'prayer', id: bareId(id), title } })
     }
 
+    const bookScored: Scored<SearchResult>[] = []
     for (const [id, entry] of getEntriesByKind('book')) {
-      const title = entry.name ? localizeContent(entry.name) : bareId(id)
-      const author = entry.author ? localizeContent(entry.author) : ''
-      if (title.toLowerCase().includes(q) || author.toLowerCase().includes(q)) {
-        buckets.book.push({
-          kind: 'book',
-          id: bareId(id),
-          title,
-          subtitle: author || undefined,
-        })
-      }
+      const body = getRememberedManifest<BookItemManifest>(entry.hash)
+      const nameSrc = body?.name ?? entry.name
+      if (!nameSrc) continue
+      const title = localizeContent(nameSrc as Record<string, string>)
+      const authorSrc = body?.author ?? entry.author
+      const author = authorSrc ? localizeContent(authorSrc as Record<string, string>) : ''
+      const score = Math.max(scoreText(title, q), scoreText(author, q) > 0 ? 50 : 0)
+      if (score === 0) continue
+      bookScored.push({
+        score,
+        item: { kind: 'book', id: bareId(id), title, subtitle: author || undefined },
+      })
     }
 
+    const collectionScored: Scored<SearchResult>[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
       if (isHiddenCollection(id)) continue
       const title = entry.name ? localizeContent(entry.name) : bareId(id)
-      if (title.toLowerCase().includes(q)) {
-        buckets.collection.push({
+      const score = scoreText(title, q)
+      if (score === 0) continue
+      collectionScored.push({
+        score,
+        item: {
           kind: 'collection',
           id: bareId(id),
           title,
           iconKey: (entry.icon as string | undefined) ?? 'book',
-        })
-      }
+        },
+      })
     }
 
-    return buckets
+    return {
+      practice: takeTopByScore(practiceScored) as Extract<SearchResult, { kind: 'practice' }>[],
+      prayer: takeTopByScore(prayerScored) as Extract<SearchResult, { kind: 'prayer' }>[],
+      book: takeTopByScore(bookScored) as Extract<SearchResult, { kind: 'book' }>[],
+      collection: takeTopByScore(collectionScored) as Extract<
+        SearchResult,
+        { kind: 'collection' }
+      >[],
+    }
   }, [query, catalogVersion])
 
   const totalCount = groupOrder.reduce((sum, kind) => sum + grouped[kind].length, 0)
