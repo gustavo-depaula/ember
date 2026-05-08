@@ -1,10 +1,9 @@
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
-import { Platform } from 'react-native'
-import type { TocNode } from '@/content/sources/filesystem'
-
-// biome-ignore lint: conditional require for platform compat
-const nativeFs = Platform.OS !== 'web' ? (require('expo-file-system') as any) : undefined
+import { getEntry, getRememberedManifest } from '@/content/contentIndex'
+import type { BookItemManifest } from '@/content/manifestTypes'
+import type { TocNode } from '@/content/resolver'
+import { getBlob, getJson, getText } from '@/content/store'
 
 const md = new Marked().use(markedFootnote())
 
@@ -374,12 +373,6 @@ function collectImgSrcs(htmls: Iterable<string>): string[] {
 }
 
 // Resolve a chapter-relative src ("../images/foo.jpg" or "images/foo.jpg") against
-// the book directory. Returns the path under bookDirUri (no scheme).
-function resolveImgSrc(src: string, bookDirUri: string): string {
-  const rel = src.startsWith('../') ? src.slice(3) : src
-  return `${bookDirUri}${rel}`
-}
-
 function bytesToBase64(bytes: Uint8Array): string {
   let binary = ''
   const chunkSize = 0x8000
@@ -390,106 +383,55 @@ function bytesToBase64(bytes: Uint8Array): string {
   return btoa(binary)
 }
 
+/**
+ * Load a book's chapters + stylesheet + referenced images out of the v2
+ * content corpus. Each chapter is a separate hash-addressed blob; images
+ * are inlined as base64 data URIs so they survive the WebView shell
+ * regardless of FS path conventions.
+ */
 export async function loadBookContent(
-  bookDirUri: string,
+  bookId: string,
   lang: string,
   chapterIds: string[],
 ): Promise<BookContent> {
-  if (Platform.OS === 'web') {
-    return loadBookContentWeb(bookDirUri, lang, chapterIds)
-  }
-  return loadBookContentNative(bookDirUri, lang, chapterIds)
-}
+  const corpusId = bookId.startsWith('book/') ? bookId : `book/${bookId}`
+  const entry = getEntry(corpusId)
+  if (!entry) return { css: '', chapters: new Map(), images: new Map() }
 
-async function loadBookContentNative(
-  bookDirUri: string,
-  lang: string,
-  chapterIds: string[],
-): Promise<BookContent> {
-  const { File: NativeFile } = nativeFs
-  const langDir = `${bookDirUri}${lang}/`
+  let manifest = getRememberedManifest<BookItemManifest>(entry.hash)
+  if (!manifest) manifest = await getJson<BookItemManifest>(entry.hash)
 
-  // Read stylesheet
-  let css = ''
-  try {
-    css = await new NativeFile(`${langDir}style.css`).text()
-  } catch {}
+  const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
 
-  // Read chapters (.html preferred, .md fallback with runtime conversion)
   const chapters = new Map<string, string>()
   await Promise.all(
     chapterIds.map(async (id) => {
+      const ref = manifest.chapters?.[id]?.[lang]
+      if (!ref) return
       try {
-        const text = await new NativeFile(`${langDir}${id}.html`).text()
-        chapters.set(id, text)
-      } catch {
-        try {
-          const raw = await new NativeFile(`${langDir}${id}.md`).text()
-          const html = await md.parse(raw)
-          chapters.set(id, html)
-        } catch {}
-      }
-    }),
-  )
-
-  // Inline only images actually referenced by chapter HTML; avoids relying on
-  // Directory.list(), which has been unreliable on iOS.
-  const images = new Map<string, string>()
-  await Promise.all(
-    collectImgSrcs(chapters.values()).map(async (src) => {
-      try {
-        const absPath = resolveImgSrc(src, bookDirUri)
-        const b64 = await new NativeFile(absPath).base64()
-        images.set(src, `data:${mimeForExt(absPath)};base64,${b64}`)
+        const raw = await getText(ref.hash)
+        chapters.set(id, ref.format === 'html' ? raw : await md.parse(raw))
       } catch {}
     }),
   )
 
-  return { css, chapters, images }
-}
+  // Build a lookup from ../images/{rel} → blob ref, matching the prefix
+  // markdown chapters use to reference book images.
+  const imageRefs = new Map<string, { hash: string; mime?: string }>()
+  for (const im of manifest.images ?? []) {
+    imageRefs.set(`../images/${im.rel}`, { hash: im.hash, mime: im.mime })
+    imageRefs.set(`images/${im.rel}`, { hash: im.hash, mime: im.mime })
+  }
 
-async function loadBookContentWeb(
-  bookDirUri: string,
-  lang: string,
-  chapterIds: string[],
-): Promise<BookContent> {
-  const { idbReadText, idbReadBinary } = await import('@/lib/idb-fs')
-
-  // bookDirUri is like "idb://books/libraryId/" — strip the idb:// prefix
-  const basePath = bookDirUri.replace(/^idb:\/\//, '')
-  const langDir = `${basePath}${lang}/`
-
-  let css = ''
-  try {
-    css = (await idbReadText(`${langDir}style.css`)) ?? ''
-  } catch {}
-
-  const chapters = new Map<string, string>()
-  await Promise.all(
-    chapterIds.map(async (id) => {
-      const html = await idbReadText(`${langDir}${id}.html`)
-      if (html) {
-        chapters.set(id, html)
-      } else {
-        const raw = await idbReadText(`${langDir}${id}.md`)
-        if (raw) {
-          const parsed = await md.parse(raw)
-          chapters.set(id, parsed)
-        }
-      }
-    }),
-  )
-
-  // IDB has no directory listing, so resolve only the images the chapters reference.
   const images = new Map<string, string>()
   await Promise.all(
     collectImgSrcs(chapters.values()).map(async (src) => {
+      const ref = imageRefs.get(src)
+      if (!ref) return
       try {
-        const absPath = resolveImgSrc(src, basePath)
-        const bytes = await idbReadBinary(absPath)
-        if (!bytes) return
-        const b64 = bytesToBase64(bytes)
-        images.set(src, `data:${mimeForExt(absPath)};base64,${b64}`)
+        const bytes = await getBlob(ref.hash)
+        const mime = ref.mime ?? mimeForExt(src)
+        images.set(src, `data:${mime};base64,${bytesToBase64(bytes)}`)
       } catch {}
     }),
   )

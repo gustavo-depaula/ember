@@ -8,7 +8,7 @@ import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 import { PrayerSpinner, ReaderErrorState, ReadingConfigModal, ScreenLayout } from '@/components'
-import { getBookDirUri, getBookEntry } from '@/content/registry'
+import { getBookEntry } from '@/content/registry'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
   buildConfigCss,
@@ -56,8 +56,6 @@ export default function BookReaderScreen() {
     if (!bookEntry) return 'en-US'
     return bookEntry.languages.includes(contentLanguage) ? contentLanguage : bookEntry.languages[0]
   }, [bookEntry, contentLanguage])
-
-  const bookDirUri = bookId && libraryId ? getBookDirUri(bookId, libraryId) : undefined
 
   const leaves = useMemo(
     () => (bookEntry?.toc ? flattenTocLeaves(bookEntry.toc) : []),
@@ -141,11 +139,11 @@ export default function BookReaderScreen() {
     queryFn: () =>
       loadBookContent(
         // biome-ignore lint/style/noNonNullAssertion: guarded by enabled
-        bookDirUri!,
+        bookId!,
         lang,
         leaves.map((l) => l.id),
       ),
-    enabled: !!bookDirUri && leaves.length > 0,
+    enabled: !!bookId && !!bookEntry && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
 

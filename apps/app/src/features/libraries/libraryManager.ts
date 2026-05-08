@@ -164,16 +164,47 @@ export async function fetchRegistry(): Promise<Registry> {
   return { version: 2, libraries }
 }
 
-export async function getInstalledLibraries(): Promise<InstalledLibrary[]> {
-  const items = getPinnedItems().filter((p) => p.id.startsWith('collection/'))
-  return items.map((p) => ({
+function pinnedToInstalled(p: { id: string; pinnedAt: number }): InstalledLibrary {
+  const entry = getEntry(p.id)
+  const body = entry ? getRememberedManifest<CollectionItemManifest>(entry.hash) : undefined
+  // Reconstruct the v1 Library shape from the v2 collection so the legacy
+  // library detail screen has populated practices/prayers/chapters/books
+  // arrays for its "Installed" rendering branch.
+  const v1Library: Record<string, unknown> = {
+    id: p.id.replace(/^collection\//, ''),
+    version: body?.version ?? '1.0.0',
+    name: body?.name ?? {},
+    description: body?.description ?? {},
+    languages: body?.languages ?? [],
+    tags: body?.tags ?? [],
+    practices: [] as string[],
+    prayers: [] as string[],
+    chapters: [] as string[],
+    books: [] as string[],
+  }
+  for (const item of body?.items ?? []) {
+    const ref = item.ref
+    const e = getEntry(ref)
+    const localId = ref.split('/').slice(1).join('/')
+    if (e?.kind === 'practice') (v1Library.practices as string[]).push(localId)
+    else if (e?.kind === 'prayer') (v1Library.prayers as string[]).push(localId)
+    else if (e?.kind === 'chapter') (v1Library.chapters as string[]).push(localId)
+    else if (e?.kind === 'book') (v1Library.books as string[]).push(localId)
+  }
+  return {
     book_id: p.id.replace(/^collection\//, ''),
-    version: '1.0.0',
+    version: body?.version ?? '1.0.0',
     installed_at: p.pinnedAt,
     updated_at: p.pinnedAt,
-    manifest: '{}',
-    content_hash: getEntry(p.id)?.hash ?? '',
-  }))
+    manifest: JSON.stringify(v1Library),
+    content_hash: entry?.hash ?? '',
+  }
+}
+
+export async function getInstalledLibraries(): Promise<InstalledLibrary[]> {
+  return getPinnedItems()
+    .filter((p) => p.id.startsWith('collection/'))
+    .map(pinnedToInstalled)
 }
 
 export async function getInstalledLibrary(
@@ -183,14 +214,7 @@ export async function getInstalledLibrary(
   if (!isPinned(collectionId)) return undefined
   const item = getPinnedItems().find((p) => p.id === collectionId)
   if (!item) return undefined
-  return {
-    book_id: libraryId,
-    version: '1.0.0',
-    installed_at: item.pinnedAt,
-    updated_at: item.pinnedAt,
-    manifest: '{}',
-    content_hash: getEntry(collectionId)?.hash ?? '',
-  }
+  return pinnedToInstalled(item)
 }
 
 export async function downloadAndInstallLibrary(
