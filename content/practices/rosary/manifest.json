@@ -52,5 +52,26 @@
 				"tier": "essential"
 			}
 		]
+	},
+	"notifications": {
+		"defaultReminders": [
+			{ "offset": 0 }
+		],
+		"messages": {
+			"en-US": [
+				"A few minutes with Our Lady.",
+				"Pause the world for the Rosary.",
+				"Hail Mary, full of grace…",
+				"Take up your beads. Mary is waiting.",
+				"Walk the mysteries with the Mother of God."
+			],
+			"pt-BR": [
+				"Alguns minutos com Nossa Senhora.",
+				"Pause o mundo pelo Rosário.",
+				"Ave Maria, cheia de graça…",
+				"Pegue o terço. Maria espera por você.",
+				"Caminhe pelos mistérios com a Mãe de Deus."
+			]
+		}
 	}
 }

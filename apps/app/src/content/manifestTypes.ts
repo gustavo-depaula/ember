@@ -69,6 +69,16 @@ export type SlotDefault = {
   enabled?: boolean
 }
 
+export type LocalizedMessagePool = {
+  'en-US'?: string | string[]
+  'pt-BR'?: string | string[]
+}
+
+export type NotificationsManifest = {
+  defaultReminders?: { offset: number }[]
+  messages?: LocalizedMessagePool
+}
+
 export type ProgramConfig = {
   totalDays: number
   perDayFlows?: string
@@ -104,6 +114,7 @@ export type PracticeManifest = {
   pack?: string
   tags?: string[]
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }
+  notifications?: NotificationsManifest
   flowHash?: BlobRef
   fragments?: { id: string; hash: string; size: number }[]
   dataHashes?: { name: string; hash: string; size: number }[]
