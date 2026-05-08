@@ -13,6 +13,9 @@ content/libraries/base/practices/mass/_extracted-blessings.json
 # Hearth v2 build output (corpus blobs + catalog)
 _site/
 
+# Transient scraper output kept locally for re-runs only
+**/html-cache/
+
 # Expo
 .expo/
 dist/
