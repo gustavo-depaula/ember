@@ -193,7 +193,9 @@ function asBookEntry(item: BookItemManifest): BookEntry {
 
 export function getManifest(id: string): PracticeManifest | undefined {
   const canonical = canonicalize(id, 'practice') ?? id
-  const item = residentFor<PracticeItemManifest>(canonical)
+  const entry = getEntry(canonical)
+  if (entry?.kind !== 'practice') return undefined
+  const item = getRememberedManifest<PracticeItemManifest>(entry.hash)
   if (!item) return undefined
   return asPracticeManifest(item)
 }

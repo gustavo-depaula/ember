@@ -127,14 +127,21 @@ export function getCollections(): CatalogEntry[] {
   return getEntriesByKind('collection').map(([, e]) => e)
 }
 
+/**
+ * Coerce a possibly-bare id into its canonical `kind/id` form. When `hintKind`
+ * is provided it acts as a hard filter — the caller wants only that kind, so
+ * we don't fall through to other kinds and silently return e.g. a prayer when
+ * the caller asked for a practice.
+ */
 export function canonicalize(id: string, hintKind?: CatalogItemKind): string | undefined {
-  if (hasEntry(id)) return id
-  if (hintKind && hintKind !== undefined) {
-    const candidate = `${hintKind}/${id}`
+  if (hintKind) {
+    if (id.startsWith(`${hintKind}/`) && hasEntry(id)) return id
+    const candidate = `${hintKind}/${id.replace(/^[^/]+\//, '')}`
     if (hasEntry(candidate)) return candidate
+    return undefined
   }
+  if (hasEntry(id)) return id
   for (const kind of RESIDENT_KINDS) {
-    if (kind === hintKind) continue
     const candidate = `${kind}/${id}`
     if (hasEntry(candidate)) return candidate
   }
