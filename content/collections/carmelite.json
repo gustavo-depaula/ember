@@ -2,44 +2,155 @@
   "id": "collection/carmelite",
   "version": "1.0.0",
   "name": {
-    "it": "Biblioteca Carmelitana",
-    "en-US": "Carmelite Library",
-    "pt-BR": "Biblioteca Carmelita"
+    "en-US": "Carmelite Tradition",
+    "pt-BR": "Tradição Carmelita",
+    "it": "Tradizione Carmelitana"
   },
   "description": {
-    "it": "Meditazioni sulle vie dell'orazione secondo la spiritualità carmelitana, di P. Gabriele di S. Maria Maddalena, O.C.D.",
-    "en-US": "Meditations on the ways of prayer according to Carmelite spirituality, by Fr. Gabriel of St. Mary Magdalen, O.C.D.",
-    "pt-BR": "Meditações sobre os caminhos da oração segundo a espiritualidade carmelita, de P. Gabriel de Santa Maria Madalena, O.C.D."
+    "en-US": "The interior life as taught by Carmel — friendship with God in the desert of prayer, the climb of Mount Carmel, the dark night that purifies.",
+    "pt-BR": "A vida interior como Carmelo a ensina — amizade com Deus no deserto da oração, a subida do Monte Carmelo, a noite escura que purifica.",
+    "it": "La vita interiore come la insegna il Carmelo — amicizia con Dio nel deserto dell'orazione, la salita del Monte Carmelo, la notte oscura che purifica."
   },
   "icon": "mary",
-  "languages": [
-    "it",
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "meditation",
-    "carmelite",
-    "daily",
-    "liturgical",
-    "prayer"
-  ],
+  "languages": ["en-US", "pt-BR", "it"],
+  "tags": ["carmelite", "contemplative", "mental-prayer", "mystical"],
+  "prologue": {
+    "body": {
+      "en-US": "Carmel is the school of Christian friendship with God. Its great teachers — Teresa of Ávila, John of the Cross, Thérèse of Lisieux, Elizabeth of the Trinity — all return to the same center: the soul kept faithful to mental prayer, until the prayer becomes the soul's home and the Trinity's dwelling. Most of this collection is still being assembled; the items below are the start.",
+      "pt-BR": "O Carmelo é a escola da amizade cristã com Deus. Seus grandes mestres — Teresa de Ávila, João da Cruz, Teresinha de Lisieux, Elisabete da Trindade — retornam todos ao mesmo centro: a alma fiel à oração mental, até que a oração se torne a casa da alma e a habitação da Trindade. Boa parte desta coleção ainda está em formação; os itens abaixo são o começo."
+    }
+  },
   "sections": [
     {
-      "id": "all",
-      "title": {
-        "en-US": "All entries",
-        "pt-BR": "Todos os itens"
+      "id": "daily-meditation",
+      "title": { "en-US": "Daily Meditation", "pt-BR": "Meditação Diária" },
+      "description": {
+        "body": {
+          "en-US": "*Divine Intimacy* — Fr. Gabriel of St. Mary Magdalen's classic year-long course of mental prayer, structured by the liturgical year.",
+          "pt-BR": "*Intimidade Divina* — o clássico curso anual de oração mental do Pe. Gabriel de Santa Maria Madalena, estruturado pelo ano litúrgico."
+        }
       },
       "blocks": [
         {
           "kind": "item",
-          "ref": "practice/intimita-divina"
+          "ref": "practice/intimita-divina",
+          "seeAlso": ["collection/mental-prayer"]
         },
+        { "kind": "item", "ref": "book/intimita-divina" }
+      ]
+    },
+    {
+      "id": "teresa-of-avila",
+      "title": { "en-US": "St. Teresa of Ávila", "pt-BR": "Santa Teresa de Ávila" },
+      "description": {
+        "body": {
+          "en-US": "The reformer of Carmel and Doctor of Prayer.",
+          "pt-BR": "A reformadora do Carmelo e Doutora da Oração."
+        }
+      },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "The Way of Perfection", "pt-BR": "Caminho de Perfeição" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "The Interior Castle", "pt-BR": "Castelo Interior" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "The Autobiography (Book of Her Life)", "pt-BR": "Autobiografia (Livro da Vida)" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Foundations", "pt-BR": "Fundações" }, "proposedKind": "book" }
+      ]
+    },
+    {
+      "id": "john-of-the-cross",
+      "title": { "en-US": "St. John of the Cross", "pt-BR": "São João da Cruz" },
+      "description": {
+        "body": {
+          "en-US": "Doctor of the Mystical Night.",
+          "pt-BR": "Doutor da Noite Mística."
+        }
+      },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "The Ascent of Mount Carmel", "pt-BR": "Subida do Monte Carmelo" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "The Dark Night of the Soul", "pt-BR": "Noite Escura" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "The Spiritual Canticle", "pt-BR": "Cântico Espiritual" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "The Living Flame of Love", "pt-BR": "Chama de Amor Viva" }, "proposedKind": "book" }
+      ]
+    },
+    {
+      "id": "therese-of-lisieux",
+      "title": { "en-US": "St. Thérèse of Lisieux", "pt-BR": "Santa Teresinha de Lisieux" },
+      "description": {
+        "body": {
+          "en-US": "The Little Flower and Doctor of the Little Way.",
+          "pt-BR": "A Florzinha e Doutora do Caminho Pequenino."
+        }
+      },
+      "blocks": [
         {
           "kind": "item",
-          "ref": "book/intimita-divina"
+          "ref": "practice/st-therese-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        { "kind": "todo", "title": { "en-US": "Story of a Soul", "pt-BR": "História de uma Alma" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Letters of St. Thérèse (selection)", "pt-BR": "Cartas de Santa Teresinha (seleção)" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Poems of St. Thérèse", "pt-BR": "Poesias de Santa Teresinha" }, "proposedKind": "book" }
+      ]
+    },
+    {
+      "id": "elizabeth-of-the-trinity",
+      "title": { "en-US": "Bl. Elizabeth of the Trinity", "pt-BR": "Bem-aventurada Isabel da Trindade" },
+      "description": {
+        "body": {
+          "en-US": "The Carmelite of Dijon whose vocation was to be the dwelling-place of the Trinity.",
+          "pt-BR": "A Carmelita de Dijon cuja vocação era ser morada da Trindade."
         }
+      },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "O My God, Trinity Whom I Adore", "pt-BR": "Ó meu Deus, Trindade que adoro" }, "notes": { "en-US": "Her great consecration to the Indwelling Trinity.", "pt-BR": "Sua grande consagração à Trindade Inhabitante." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Heaven in Faith (retreat notes)", "pt-BR": "Céu na Fé (notas de retiro)" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Last Retreat", "pt-BR": "Último Retiro" }, "proposedKind": "book" }
+      ]
+    },
+    {
+      "id": "brown-scapular",
+      "title": { "en-US": "The Brown Scapular", "pt-BR": "O Escapulário do Carmo" },
+      "description": {
+        "body": {
+          "en-US": "The habit of Carmel given to the laity — its enrollment, the Promise, and the Mount Carmel novena.",
+          "pt-BR": "O hábito do Carmelo dado aos leigos — sua imposição, a Promessa, e a novena de Nossa Senhora do Carmo."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/mount-carmel-novena",
+          "seeAlso": ["collection/novenas", "collection/marian"]
+        }
+      ]
+    },
+    {
+      "id": "edith-stein",
+      "title": { "en-US": "St. Teresa Benedicta of the Cross (Edith Stein)", "pt-BR": "Santa Teresa Benedita da Cruz (Edith Stein)" },
+      "description": {
+        "body": {
+          "en-US": "The philosopher who became a Discalced Carmelite and was martyred at Auschwitz.",
+          "pt-BR": "A filósofa que se tornou carmelita descalça e foi martirizada em Auschwitz."
+        }
+      },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "The Science of the Cross", "pt-BR": "A Ciência da Cruz" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Selected essays", "pt-BR": "Ensaios selecionados" }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Novena and feast prayers (Aug 9)", "pt-BR": "Novena e orações da festa (9 ago)" }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "carmelite-foundations",
+      "title": { "en-US": "Carmelite Foundations", "pt-BR": "Fundamentos Carmelitas" },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "The Rule of St. Albert", "pt-BR": "Regra de Santo Alberto" }, "notes": { "en-US": "The original 1209 Carmelite rule, Latin and English.", "pt-BR": "A regra carmelita original de 1209, latim e português." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Institution of the First Monks", "pt-BR": "Instituição dos Primeiros Monges" }, "notes": { "en-US": "Medieval Carmelite formation text.", "pt-BR": "Texto formativo medieval carmelita." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Liturgy of Mount Carmel — proper texts", "pt-BR": "Liturgia do Carmelo — textos próprios" }, "notes": { "en-US": "Carmelite calendar — Our Lady of Mount Carmel (Jul 16) and the Carmelite Saints.", "pt-BR": "Calendário carmelita — Nossa Senhora do Carmo (16 jul) e os santos carmelitas." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Brother Lawrence — The Practice of the Presence of God", "pt-BR": "Irmão Lourenço — A Prática da Presença de Deus" }, "notes": { "en-US": "Discalced Carmelite lay brother; cross-list with Spiritual Classics.", "pt-BR": "Irmão leigo carmelita descalço; cruzar com Clássicos." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Teresa Margaret Redi", "pt-BR": "Teresa Margarida Redi" }, "notes": { "en-US": "Florentine Carmelite of the 18th century — Sacred Heart devotion within Carmel.", "pt-BR": "Carmelita florentina do séc. XVIII — devoção ao Sagrado Coração no Carmelo." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Discalced Carmelite Secular formation", "pt-BR": "Formação do Carmelita Secular" }, "notes": { "en-US": "Outline for the OCDS Third Order.", "pt-BR": "Esboço para a Ordem Terceira OCDS." }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Pater Noster meditations of Teresa of Ávila", "pt-BR": "Meditações sobre o Pai-Nosso de Teresa de Ávila" }, "notes": { "en-US": "From *The Way of Perfection*.", "pt-BR": "Do *Caminho de Perfeição*." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Sayings of Light and Love (John of the Cross)", "pt-BR": "Avisos de Luz e Amor (João da Cruz)" }, "notes": { "en-US": "60 short sayings.", "pt-BR": "60 dizeres breves." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Liturgy of the Hours — Carmelite Proper", "pt-BR": "Liturgia das Horas — Próprio Carmelita" }, "notes": { "en-US": "For those formed in the OCD calendar.", "pt-BR": "Para os formados no calendário OCD." }, "proposedKind": "book" }
       ]
     }
   ]

@@ -12,61 +12,173 @@
     "it": "Le opere spirituali di Sant'Alfonso Maria de Liguori — Dottore della Preghiera, fondatore dei Redentoristi e uno dei più grandi scrittori ascetici della Chiesa."
   },
   "icon": "reading",
-  "languages": [
-    "pt-BR",
-    "it",
-    "fr-FR"
-  ],
-  "tags": [
-    "meditation",
-    "liguori",
-    "daily",
-    "ascetical",
-    "prayer"
-  ],
+  "languages": ["pt-BR", "it", "fr-FR"],
+  "tags": ["meditation", "liguori", "daily", "ascetical", "prayer"],
+  "prologue": {
+    "body": {
+      "en-US": "Bishop, founder of the Redemptorists, Doctor of the Church and Doctor of Prayer — St. Alphonsus Maria de Liguori (1696–1787) wrote for the simple soul who wants to be a saint and does not know where to start. His works return again and again to the same convictions: that prayer is necessary for salvation, that union with the will of God is the whole of holiness, and that Mary is the great means by which mercy reaches us.",
+      "pt-BR": "Bispo, fundador dos Redentoristas, Doutor da Igreja e Doutor da Oração — Santo Afonso Maria de Ligório (1696–1787) escreveu para a alma simples que quer ser santa e não sabe por onde começar. Suas obras retornam sempre às mesmas convicções: que a oração é necessária à salvação, que a união com a vontade de Deus é toda a santidade, e que Maria é o grande meio pelo qual a misericórdia nos alcança."
+    }
+  },
   "sections": [
     {
-      "id": "all",
-      "title": {
-        "en-US": "All entries",
-        "pt-BR": "Todos os itens"
+      "id": "daily-meditation",
+      "title": { "en-US": "Daily Meditation", "pt-BR": "Meditação Diária" },
+      "description": {
+        "body": {
+          "en-US": "A short meditation a day, drawn from Liguori's preaching — the simplest entry into his school.",
+          "pt-BR": "Uma breve meditação por dia, tirada da pregação de Ligório — a entrada mais simples em sua escola."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/meditacoes-ligorio" },
+        { "kind": "item", "ref": "book/meditacoes-ligorio" }
+      ]
+    },
+    {
+      "id": "on-prayer-and-holiness",
+      "title": { "en-US": "On Prayer and Holiness", "pt-BR": "Sobre a Oração e a Santidade" },
+      "description": {
+        "body": {
+          "en-US": "Liguori's three great convictions — prayer is necessary, the love of Christ is everything, conformity to God's will is sanctity itself.",
+          "pt-BR": "As três grandes convicções de Ligório — a oração é necessária, o amor de Cristo é tudo, a conformidade com a vontade de Deus é a própria santidade."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "book/gran-mezzo-della-preghiera" },
+        { "kind": "item", "ref": "book/pratica-di-amar-gesu-cristo" },
+        { "kind": "item", "ref": "book/uniformita-alla-volonta-di-dio" }
+      ]
+    },
+    {
+      "id": "eucharistic",
+      "title": { "en-US": "Eucharistic", "pt-BR": "Eucarístico" },
+      "description": {
+        "body": {
+          "en-US": "Visits to the Most Blessed Sacrament — short daily reflections meant to be prayed before the tabernacle.",
+          "pt-BR": "Visitas ao Santíssimo Sacramento — breves reflexões diárias para serem rezadas diante do sacrário."
+        }
       },
       "blocks": [
         {
           "kind": "item",
-          "ref": "practice/meditacoes-ligorio"
-        },
+          "ref": "book/visite-al-ss-sacramento",
+          "seeAlso": ["collection/eucharistic"]
+        }
+      ]
+    },
+    {
+      "id": "marian",
+      "title": { "en-US": "Marian", "pt-BR": "Mariano" },
+      "description": {
+        "body": {
+          "en-US": "The Glories of Mary — Liguori's great defense of Marian devotion, mining Scripture, the Fathers, and the medievals.",
+          "pt-BR": "As Glórias de Maria — a grande defesa de Ligório à devoção mariana, recolhendo da Escritura, dos Padres e dos medievais."
+        }
+      },
+      "blocks": [
         {
           "kind": "item",
-          "ref": "book/meditacoes-ligorio"
-        },
+          "ref": "book/glorie-di-maria",
+          "seeAlso": ["collection/marian"]
+        }
+      ]
+    },
+    {
+      "id": "way-of-the-cross",
+      "title": { "en-US": "Way of the Cross", "pt-BR": "Via Sacra" },
+      "blocks": [
         {
           "kind": "item",
-          "ref": "book/visite-al-ss-sacramento"
+          "ref": "book/esercizio-via-crucis",
+          "seeAlso": ["collection/way-of-the-cross"]
+        }
+      ]
+    },
+    {
+      "id": "last-things",
+      "title": { "en-US": "On the Last Things", "pt-BR": "Sobre as Últimas Coisas" },
+      "description": {
+        "body": {
+          "en-US": "Preparation for Death — meditations on judgment, eternity, and the goodness of dying in friendship with God.",
+          "pt-BR": "Preparação para a Morte — meditações sobre o juízo, a eternidade e a bondade de morrer em amizade com Deus."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "book/apparecchio-alla-morte" }
+      ]
+    },
+    {
+      "id": "pastoral",
+      "title": { "en-US": "Pastoral", "pt-BR": "Pastoral" },
+      "blocks": [
+        { "kind": "item", "ref": "book/plus-belles-prieres" }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter biography of St. Alphonsus", "pt-BR": "Capítulo biográfico sobre Santo Afonso" },
+          "notes": { "en-US": "Formation, episcopate at Sant'Agata dei Goti, founding of the Redemptorists, condemnation and exile, doctorate.", "pt-BR": "Formação, episcopado em Sant'Agata dei Goti, fundação dos Redentoristas, condenação e exílio, doutorado." },
+          "proposedKind": "chapter",
+          "priority": "high"
         },
         {
-          "kind": "item",
-          "ref": "book/pratica-di-amar-gesu-cristo"
+          "kind": "todo",
+          "title": { "en-US": "The Way of Salvation and of Perfection", "pt-BR": "Caminho da Salvação e da Perfeição" },
+          "notes": { "en-US": "Liguori's short ascetical compendium for laypeople.", "pt-BR": "Compêndio ascético breve de Ligório para leigos." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/apparecchio-alla-morte"
+          "kind": "todo",
+          "title": { "en-US": "Selva di Materie Predicabili (selections)", "pt-BR": "Selva di Materie Predicabili (seleções)" },
+          "notes": { "en-US": "Outlines for meditation, drawn from his sermon material.", "pt-BR": "Esboços para meditação, do material de seus sermões." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/gran-mezzo-della-preghiera"
+          "kind": "todo",
+          "title": { "en-US": "True Spouse of Jesus Christ (selections)", "pt-BR": "A Verdadeira Esposa de Jesus Cristo (seleções)" },
+          "notes": { "en-US": "The great work for religious; selections worth ascetical reading even for laity.", "pt-BR": "A grande obra para religiosos; seleções para uso ascético leigo." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/esercizio-via-crucis"
+          "kind": "todo",
+          "title": { "en-US": "Considerations on Religious Vocation", "pt-BR": "Considerações sobre a Vocação Religiosa" },
+          "notes": { "en-US": "For those in discernment.", "pt-BR": "Para os que discernem." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/glorie-di-maria"
+          "kind": "todo",
+          "title": { "en-US": "Liguori's collected prayers (anthology)", "pt-BR": "Antologia das Orações de Ligório" },
+          "notes": { "en-US": "He wrote many short prayers and aspirations.", "pt-BR": "Ele escreveu muitas orações curtas e jaculatórias." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/plus-belles-prieres"
+          "kind": "todo",
+          "title": { "en-US": "Sermons for All Sundays (selected)", "pt-BR": "Sermões para Todos os Domingos (selecionados)" },
+          "notes": { "en-US": "Brief Sunday meditations.", "pt-BR": "Meditações dominicais breves." },
+          "proposedKind": "book"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Reflections on the Passion", "pt-BR": "Reflexões sobre a Paixão" },
+          "notes": { "en-US": "Distinct from the *Esercizio della Via Crucis*.", "pt-BR": "Distintas do *Esercizio della Via Crucis*." },
+          "proposedKind": "book"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Daily Prayers and Aspirations to Jesus and Mary", "pt-BR": "Orações e Jaculatórias Diárias a Jesus e a Maria" },
+          "notes": { "en-US": "Liguori's compilation.", "pt-BR": "Compilação de Ligório." },
+          "proposedKind": "book"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Liguorian devotional hymns", "pt-BR": "Hinos devocionais ligorianos" },
+          "notes": { "en-US": "Many of his Italian hymns are still sung in Naples.", "pt-BR": "Muitos dos seus hinos italianos ainda são cantados em Nápoles." },
+          "proposedKind": "book"
         }
       ]
     }

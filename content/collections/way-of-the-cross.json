@@ -1,0 +1,205 @@
+{
+  "id": "collection/way-of-the-cross",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "The Way of the Cross",
+    "pt-BR": "A Via Sacra"
+  },
+  "description": {
+    "en-US": "The Stations and their companions — five forms of the Way of the Cross, the Via Lucis of the Resurrection, and the Seven Sorrows of Mary at the foot of the Cross.",
+    "pt-BR": "As Estações e suas companheiras — cinco formas da Via Sacra, a Via Lucis da Ressurreição, e as Sete Dores de Maria ao pé da Cruz."
+  },
+  "icon": "cross",
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["cross", "stations", "lent", "passion", "via-sacra"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "The Way of the Cross is the oldest pilgrimage of Christendom, brought home from Jerusalem by the Franciscans and prayed every Friday in Lent. It is fourteen pauses along the road of the Passion — and a fifteenth, in newer forms, at the empty tomb. Different traditions tell the same story differently: the classic St. Alphonsus form, the scriptural form preferred by John Paul II, the Franciscan version still prayed in Brazil. Choose the one that fits your week.",
+      "pt-BR": "A Via Sacra é a peregrinação mais antiga da cristandade, trazida de Jerusalém pelos franciscanos e rezada toda sexta-feira na Quaresma. São catorze pausas ao longo do caminho da Paixão — e uma décima quinta, em formas mais recentes, no sepulcro vazio. Tradições diferentes contam a mesma história de modos diferentes: a forma clássica de Santo Afonso, a forma bíblica preferida por João Paulo II, a versão franciscana ainda rezada no Brasil. Escolha a que se encaixa em sua semana."
+    }
+  },
+  "sections": [
+    {
+      "id": "stations",
+      "title": { "en-US": "Stations of the Cross", "pt-BR": "Via Sacra" },
+      "description": {
+        "body": {
+          "en-US": "The classic devotion in five complementary forms.",
+          "pt-BR": "A devoção clássica em cinco formas complementares."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/stations-of-the-cross" },
+        { "kind": "item", "ref": "practice/stations-cross" },
+        { "kind": "item", "ref": "practice/stations-cross-jpii" },
+        { "kind": "item", "ref": "practice/stations-cross-franciscan" },
+        { "kind": "item", "ref": "practice/stations-cross-scriptural" }
+      ]
+    },
+    {
+      "id": "via-sacra-claretiana",
+      "title": { "en-US": "Via Sacra (Portuguese)", "pt-BR": "Via Sacra (em Português)" },
+      "description": {
+        "body": {
+          "en-US": "Brazilian forms of the Via Sacra, including the Claretian devotional version.",
+          "pt-BR": "Formas brasileiras da Via Sacra, incluindo a versão dos Padres Claretianos."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/via-sacra" },
+        {
+          "kind": "item",
+          "ref": "practice/via-sacra-claretiano",
+          "seeAlso": ["collection/devocionario-claretiano"]
+        }
+      ]
+    },
+    {
+      "id": "way-of-light",
+      "title": { "en-US": "Way of Light / Via Lucis", "pt-BR": "Via Lucis" },
+      "description": {
+        "body": {
+          "en-US": "Fourteen stations of the Resurrection — a newer Eastertide companion to the Way of the Cross, walking from the empty tomb to Pentecost.",
+          "pt-BR": "Catorze estações da Ressurreição — uma companheira mais recente, do Tempo Pascal, à Via Sacra, caminhando do sepulcro vazio a Pentecostes."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/way-of-light" },
+        { "kind": "item", "ref": "practice/way-of-light-scriptural" }
+      ]
+    },
+    {
+      "id": "seven-sorrows",
+      "title": { "en-US": "The Seven Sorrows of Mary", "pt-BR": "As Sete Dores de Maria" },
+      "description": {
+        "body": {
+          "en-US": "The seven swords that pierced Mary's heart — prayed alongside the Stations or as a Marian devotion in its own right.",
+          "pt-BR": "As sete espadas que atravessaram o coração de Maria — rezadas junto com as Estações ou como devoção mariana por si mesma."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows",
+          "seeAlso": ["collection/marian"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows-scriptural",
+          "seeAlso": ["collection/marian"]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": { "en-US": "Reading", "pt-BR": "Leitura" },
+      "description": {
+        "body": {
+          "en-US": "The Way of the Cross as preached by St. Alphonsus Liguori. **TODO source:** *Stabat Mater* prayer; Improperia (Good Friday Reproaches); chapter on the history and variants of the Stations.",
+          "pt-BR": "A Via Sacra pregada por Santo Afonso de Ligório. **A incluir:** *Stabat Mater*; Improperia (Reprovações da Sexta-feira Santa); capítulo sobre a história e variantes das Estações."
+        }
+      },
+      "defaultCollapsed": true,
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/esercizio-via-crucis",
+          "seeAlso": ["collection/alphonsus-liguori"]
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-friends-cross",
+          "seeAlso": ["collection/montfort-spirituality"]
+        }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Stabat Mater Dolorosa", "pt-BR": "Stabat Mater Dolorosa" },
+          "notes": { "en-US": "Jacopone da Todi — the great Marian hymn at the foot of the Cross.", "pt-BR": "Jacopone da Todi — o grande hino mariano ao pé da Cruz." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Improperia (the Reproaches)", "pt-BR": "Improperia (as Reprovações)" },
+          "notes": { "en-US": "Good Friday Adoration of the Cross.", "pt-BR": "Adoração da Cruz na Sexta-feira Santa." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Vexilla Regis Prodeunt", "pt-BR": "Vexilla Regis Prodeunt" },
+          "notes": { "en-US": "Venantius Fortunatus — Passiontide hymn.", "pt-BR": "Venâncio Fortunato — hino do Tempo da Paixão." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Pange Lingua Gloriosi Proelium Certaminis", "pt-BR": "Pange Lingua Gloriosi Proelium Certaminis" },
+          "notes": { "en-US": "Fortunatus — distinct from the Eucharistic Pange Lingua.", "pt-BR": "Fortunato — distinto do Pange Lingua eucarístico." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Crux Fidelis / Faithful Cross", "pt-BR": "Crux Fidelis / Cruz Fiel" },
+          "notes": { "en-US": "Good Friday hymn.", "pt-BR": "Hino da Sexta-feira Santa." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Seven Last Words of Christ", "pt-BR": "Sete Últimas Palavras de Cristo na Cruz" },
+          "notes": { "en-US": "Full meditation with each Word as a station.", "pt-BR": "Meditação completa com cada palavra como uma estação." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chaplet of the Holy Wounds", "pt-BR": "Coroinha das Santas Chagas" },
+          "notes": { "en-US": "Sister Mary Martha Chambon.", "pt-BR": "Irmã Maria Marta Chambon." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Crown of Thorns chaplet", "pt-BR": "Coroinha da Coroa de Espinhos" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Passion", "pt-BR": "Ladainha da Paixão" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Sacred Wounds", "pt-BR": "Ladainha das Sagradas Chagas" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Prayer to the Holy Face of Jesus", "pt-BR": "Oração à Santa Face de Jesus" },
+          "notes": { "en-US": "Sr. Marie of St. Peter, Carmelite of Tours.", "pt-BR": "Ir. Maria de São Pedro, Carmelita de Tours." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the history and variants of the Stations", "pt-BR": "Capítulo sobre a história e variantes das Estações" },
+          "notes": { "en-US": "St. Leonard of Port Maurice, Franciscan custody, JPII reform, scriptural form.", "pt-BR": "São Leonardo de Porto Maurício, custódia franciscana, reforma de JPII, forma bíblica." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Adoration of the Cross liturgy (Good Friday)", "pt-BR": "Liturgia da Adoração da Cruz (Sexta-feira Santa)" },
+          "notes": { "en-US": "Full text with rubrics.", "pt-BR": "Texto completo com rubricas." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Office of Tenebrae", "pt-BR": "Ofício das Trevas" },
+          "notes": { "en-US": "Holy Wednesday / Thursday / Friday.", "pt-BR": "Quarta / Quinta / Sexta-feira Santas." },
+          "proposedKind": "practice"
+        }
+      ]
+    }
+  ]
+}

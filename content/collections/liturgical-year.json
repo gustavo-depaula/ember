@@ -1,0 +1,216 @@
+{
+  "id": "collection/liturgical-year",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "The Liturgical Year",
+    "pt-BR": "O Ano Litúrgico"
+  },
+  "description": {
+    "en-US": "The year as a school of prayer — Advent's longing, Lent's penance, Easter's joy, the Spirit's fire, the long green growth of Ordinary Time.",
+    "pt-BR": "O ano como escola de oração — a saudade do Advento, a penitência da Quaresma, a alegria da Páscoa, o fogo do Espírito, o longo crescimento verde do Tempo Comum."
+  },
+  "icon": "calendar",
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["liturgical-year", "seasons", "advent", "lent", "easter", "pentecost"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "The liturgical year is the great catechesis of the Church. Each season teaches a different posture: Advent teaches us to wait; Lent teaches us to fast and to weep; Easter teaches us to sing; Pentecost teaches us to be sent. Pray with the year — let the rhythm of the Church's prayer set the rhythm of yours. Many of these sections are still being assembled.",
+      "pt-BR": "O ano litúrgico é a grande catequese da Igreja. Cada estação ensina uma postura diferente: o Advento ensina a esperar; a Quaresma ensina a jejuar e a chorar; a Páscoa ensina a cantar; Pentecostes ensina a ser enviado. Reze com o ano — deixe o ritmo da oração da Igreja tornar-se o ritmo da sua. Boa parte destas seções ainda está em formação."
+    }
+  },
+  "sections": [
+    {
+      "id": "advent",
+      "title": { "en-US": "Advent", "pt-BR": "Advento" },
+      "description": {
+        "body": {
+          "en-US": "Four weeks of waiting. Pray the Angelus and the Sub Tuum Praesidium, and lean into the Marian devotion of the season.",
+          "pt-BR": "Quatro semanas de espera. Reze o Angelus e o Sub Tuum Praesidium, e abrace a devoção mariana da estação."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/angelus" },
+        { "kind": "item", "ref": "prayer/sub-tuum-praesidium" },
+        { "kind": "todo", "title": { "en-US": "O Antiphons (Dec 17–23)", "pt-BR": "Antífonas Ó (17–23 dez)" }, "notes": { "en-US": "*O Sapientia*, *O Adonai*, *O Radix Iesse*, *O Clavis David*, *O Oriens*, *O Rex Gentium*, *O Emmanuel*.", "pt-BR": "*Ó Sapiência*, *Ó Adonai*, *Ó Raiz de Jessé*, *Ó Chave de Davi*, *Ó Oriente*, *Ó Rei das Nações*, *Ó Emanuel*." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Christmas Novena (Dec 16–24)", "pt-BR": "Novena de Natal (16–24 dez)" }, "notes": { "en-US": "Including *Vem, ó Salvador* in pt-BR.", "pt-BR": "Incluindo *Vem, ó Salvador*." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Stations of the Crib", "pt-BR": "Estações do Presépio" }, "notes": { "en-US": "Franciscan Advent walk through the journey to Bethlehem.", "pt-BR": "Caminho franciscano até Belém." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Rorate Coeli", "pt-BR": "Rorate Coeli" }, "notes": { "en-US": "Advent prose hymn.", "pt-BR": "Hino do Advento." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Alma Redemptoris Mater", "pt-BR": "Alma Redemptoris Mater" }, "notes": { "en-US": "Marian antiphon for Advent and Christmastide.", "pt-BR": "Antífona mariana do Advento e Tempo do Natal." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Daily Advent calendar reflections", "pt-BR": "Reflexões diárias do calendário do Advento" }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "christmastide",
+      "title": { "en-US": "Christmastide", "pt-BR": "Tempo do Natal" },
+      "description": {
+        "body": {
+          "en-US": "Christmas Day through the Baptism of the Lord. Pray the Magnificat, sing the Te Deum.",
+          "pt-BR": "Do Natal ao Batismo do Senhor. Reze o Magnificat, cante o Te Deum."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/magnificat" },
+        { "kind": "item", "ref": "prayer/te-deum" },
+        { "kind": "todo", "title": { "en-US": "Christmas Octave devotions", "pt-BR": "Devoções da Oitava do Natal" }, "notes": { "en-US": "Stephen, John, Holy Innocents, Becket, Sylvester, Mary Mother of God, Holy Name.", "pt-BR": "Estêvão, João, Santos Inocentes, Becket, Silvestre, Maria Mãe de Deus, Santíssimo Nome." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Holy Family prayers", "pt-BR": "Orações à Sagrada Família" }, "notes": { "en-US": "For the Sunday after Christmas.", "pt-BR": "Para o Domingo após o Natal." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Epiphany blessing of the home", "pt-BR": "Bênção da casa na Epifania" }, "notes": { "en-US": "With chalk: CMB + the year.", "pt-BR": "Com giz: CMB + o ano." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Te Deum on the last day of the year", "pt-BR": "Te Deum no último dia do ano" }, "notes": { "en-US": "Indulgenced.", "pt-BR": "Indulgenciado." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Veni Creator on the first day of the year", "pt-BR": "Veni Creator no primeiro dia do ano" }, "notes": { "en-US": "Indulgenced.", "pt-BR": "Indulgenciado." }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "lent",
+      "title": { "en-US": "Lent", "pt-BR": "Quaresma" },
+      "description": {
+        "body": {
+          "en-US": "Forty days of penance. Walk the Stations every Friday; meditate on the Seven Sorrows; examine more frequently and confess.",
+          "pt-BR": "Quarenta dias de penitência. Faça a Via Sacra toda sexta-feira; medite sobre as Sete Dores; examine-se com mais frequência e confesse-se."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/stations-of-the-cross", "seeAlso": ["collection/way-of-the-cross"] },
+        { "kind": "item", "ref": "practice/seven-sorrows", "seeAlso": ["collection/way-of-the-cross"] },
+        { "kind": "item", "ref": "practice/examination-of-conscience", "seeAlso": ["collection/confession-and-conversion"] },
+        { "kind": "todo", "title": { "en-US": "Ashes prayer", "pt-BR": "Oração das Cinzas" }, "notes": { "en-US": "*Memento, homo, quia pulvis es…*", "pt-BR": "*Lembra-te, homem, que és pó…*" }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Seven Penitential Psalms", "pt-BR": "Sete Salmos Penitenciais" }, "notes": { "en-US": "Pss 6, 31, 37, 50, 101, 129, 142. Cross-list with Confession.", "pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142. Cruzar com Confissão." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Miserere (Psalm 50/51) as practice", "pt-BR": "Miserere (Salmo 50/51) como prática" }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Lenten Litany", "pt-BR": "Ladainha da Quaresma" }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Stations of the Cross with seasonal antiphons", "pt-BR": "Via Sacra com antífonas próprias" }, "notes": { "en-US": "For Friday Stations during Lent.", "pt-BR": "Para a Via Sacra de sexta-feira na Quaresma." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Sorrowful Mother devotions", "pt-BR": "Devoções à Mãe Dolorosa" }, "notes": { "en-US": "For Friday of the Fifth Week of Lent.", "pt-BR": "Para a sexta-feira da Quinta Semana da Quaresma." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Lenten preface meditation", "pt-BR": "Meditação do prefácio quaresmal" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter on the Lenten disciplines", "pt-BR": "Capítulo sobre as disciplinas quaresmais" }, "notes": { "en-US": "Fasting, abstinence, almsgiving — CCC plus practical framework.", "pt-BR": "Jejum, abstinência, esmola — CIC e quadro prático." }, "proposedKind": "chapter", "priority": "high" }
+      ]
+    },
+    {
+      "id": "holy-week-and-triduum",
+      "title": { "en-US": "Holy Week & the Triduum", "pt-BR": "Semana Santa e Tríduo" },
+      "description": {
+        "body": {
+          "en-US": "From Palm Sunday through Easter Vigil — the holiest days of the year.",
+          "pt-BR": "Do Domingo de Ramos à Vigília Pascal — os dias mais santos do ano."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/o-salutaris-hostia" },
+        { "kind": "item", "ref": "prayer/tantum-ergo" },
+        { "kind": "todo", "title": { "en-US": "Office of Tenebrae", "pt-BR": "Ofício das Trevas" }, "notes": { "en-US": "Holy Wednesday / Thursday / Friday.", "pt-BR": "Quarta / Quinta / Sexta-feira Santas." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Mandatum (Washing of Feet)", "pt-BR": "Lava-pés" }, "notes": { "en-US": "Holy Thursday.", "pt-BR": "Quinta-feira Santa." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Stripping of the Altar", "pt-BR": "Despojamento do Altar" }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Gethsemane Watch", "pt-BR": "Vigília no Getsêmani" }, "notes": { "en-US": "Adoration after the Mass of the Lord's Supper.", "pt-BR": "Adoração depois da Missa da Ceia do Senhor." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Pange Lingua Gloriosi Corporis (full hymn)", "pt-BR": "Pange Lingua Gloriosi Corporis (hino completo)" }, "notes": { "en-US": "Holy Thursday processional.", "pt-BR": "Procissão da Quinta-feira Santa." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Adoration of the Cross liturgy", "pt-BR": "Liturgia da Adoração da Cruz" }, "notes": { "en-US": "Good Friday — full text with rubrics.", "pt-BR": "Sexta-feira Santa — texto completo com rubricas." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Improperia (Reproaches)", "pt-BR": "Improperia (Reprovações)" }, "notes": { "en-US": "Good Friday.", "pt-BR": "Sexta-feira Santa." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Stabat Mater", "pt-BR": "Stabat Mater" }, "notes": { "en-US": "Good Friday.", "pt-BR": "Sexta-feira Santa." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Vexilla Regis", "pt-BR": "Vexilla Regis" }, "notes": { "en-US": "Passiontide hymn.", "pt-BR": "Hino do Tempo da Paixão." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Exultet", "pt-BR": "Exultet" }, "notes": { "en-US": "Easter Vigil — the great Paschal proclamation.", "pt-BR": "Vigília Pascal — a grande proclamação pascal." }, "proposedKind": "prayer", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Lumen Christi responsory", "pt-BR": "Responso Lumen Christi" }, "proposedKind": "prayer" }
+      ]
+    },
+    {
+      "id": "eastertide",
+      "title": { "en-US": "Eastertide", "pt-BR": "Tempo Pascal" },
+      "description": {
+        "body": {
+          "en-US": "Fifty days of Easter joy. The Regina Caeli replaces the Angelus. The Divine Mercy Novena begins on Good Friday and finishes on the Sunday after Easter.",
+          "pt-BR": "Cinquenta dias de alegria pascal. A Regina Caeli substitui o Angelus. A Novena da Divina Misericórdia começa na Sexta-feira Santa e termina no Domingo após a Páscoa."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/regina-caeli" },
+        { "kind": "item", "ref": "prayer/regina-caeli" },
+        { "kind": "item", "ref": "practice/divine-mercy-novena", "seeAlso": ["collection/divine-mercy", "collection/novenas"] },
+        { "kind": "item", "ref": "practice/way-of-light", "seeAlso": ["collection/way-of-the-cross"] },
+        { "kind": "todo", "title": { "en-US": "Victimae Paschali Laudes (Easter Sequence)", "pt-BR": "Victimae Paschali Laudes (Sequência da Páscoa)" }, "proposedKind": "prayer", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Christus Vincit acclamation", "pt-BR": "Aclamação Christus Vincit" }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Paschal blessing of the home", "pt-BR": "Bênção pascal da casa" }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Paschal candle prayers for the home", "pt-BR": "Orações domésticas do círio pascal" }, "proposedKind": "prayer" }
+      ]
+    },
+    {
+      "id": "pentecost-and-after",
+      "title": { "en-US": "Pentecost & Time After", "pt-BR": "Pentecostes e Tempo Depois" },
+      "description": {
+        "body": {
+          "en-US": "The Holy Spirit Novena from Ascension Thursday to Pentecost — the original novena. After Pentecost: Trinity Sunday, Corpus Christi, the Sacred Heart.",
+          "pt-BR": "A Novena ao Espírito Santo da Quinta-feira da Ascensão a Pentecostes — a novena original. Após Pentecostes: Santíssima Trindade, Corpus Christi, Sagrado Coração."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/novena-holy-spirit", "seeAlso": ["collection/holy-spirit", "collection/novenas"] },
+        { "kind": "item", "ref": "prayer/veni-creator-spiritus", "seeAlso": ["collection/holy-spirit"] },
+        { "kind": "todo", "title": { "en-US": "Veni Sancte Spiritus (Pentecost Sequence)", "pt-BR": "Veni Sancte Spiritus (Sequência de Pentecostes)" }, "proposedKind": "prayer", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Athanasian Creed (Trinity Sunday)", "pt-BR": "Símbolo Atanasiano (Domingo da Trindade)" }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Litany of the Most Holy Trinity", "pt-BR": "Ladainha da Santíssima Trindade" }, "notes": { "en-US": "Cross-list with Litanies (private form).", "pt-BR": "Cruzar com Ladainhas (forma privada)." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Lauda Sion (Corpus Christi)", "pt-BR": "Lauda Sion (Corpus Christi)" }, "notes": { "en-US": "Cross-list with Eucharistic.", "pt-BR": "Cruzar com Eucarístico." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Eucharistic procession order (Corpus Christi)", "pt-BR": "Ordem da procissão eucarística (Corpus Christi)" }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Transfiguration meditation (Aug 6)", "pt-BR": "Meditação da Transfiguração (6 ago)" }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "month-of-the-sacred-heart",
+      "title": { "en-US": "June — Sacred Heart", "pt-BR": "Junho — Sagrado Coração" },
+      "description": {
+        "body": {
+          "en-US": "June is traditionally the month of the Sacred Heart, with the Solemnity falling on the Friday after the second Sunday after Pentecost.",
+          "pt-BR": "Junho é tradicionalmente o mês do Sagrado Coração, com a Solenidade caindo na Sexta-feira após o segundo Domingo depois de Pentecostes."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/first-friday-devotion", "seeAlso": ["collection/sacred-heart"] },
+        { "kind": "item", "ref": "practice/litany-sacred-heart", "seeAlso": ["collection/sacred-heart", "collection/litanies"] },
+        { "kind": "item", "ref": "practice/novena-sacred-heart", "seeAlso": ["collection/sacred-heart", "collection/novenas"] },
+        { "kind": "todo", "title": { "en-US": "June daily Sacred Heart devotion guide", "pt-BR": "Guia diário do mês do Sagrado Coração (junho)" }, "notes": { "en-US": "Cross-list with Sacred Heart.", "pt-BR": "Cruzar com Sagrado Coração." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Immaculate Heart of Mary (Saturday after the Sacred Heart)", "pt-BR": "Imaculado Coração de Maria (sábado seguinte)" }, "notes": { "en-US": "Cross-list with Marian.", "pt-BR": "Cruzar com Mariana." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Precious Blood (July devotion)", "pt-BR": "Preciosíssimo Sangue (devoção de julho)" }, "notes": { "en-US": "Cross-list with Litanies.", "pt-BR": "Cruzar com Ladainhas." }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "marian-months",
+      "title": { "en-US": "May & October — Marian Months", "pt-BR": "Maio e Outubro — Meses Marianos" },
+      "description": {
+        "body": {
+          "en-US": "May, the month of Mary; October, the month of the Rosary. Pray the Rosary daily, and lean on the Litany of Loreto.",
+          "pt-BR": "Maio, mês de Maria; outubro, mês do Rosário. Reze o Rosário diariamente, e apoie-se na Ladainha de Loreto."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/rosary", "seeAlso": ["collection/marian"] },
+        { "kind": "item", "ref": "practice/litany-loreto", "seeAlso": ["collection/marian", "collection/litanies"] },
+        { "kind": "todo", "title": { "en-US": "May daily Marian devotion guide", "pt-BR": "Guia diário do mês de maio" }, "notes": { "en-US": "*Flores de maio* / Month of Mary daily reflection.", "pt-BR": "Flores de maio / reflexão diária mensal." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "October daily Rosary reflection", "pt-BR": "Reflexão diária do Rosário em outubro" }, "notes": { "en-US": "One mystery per day across the month.", "pt-BR": "Um mistério por dia ao longo do mês." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Coronations of Marian images", "pt-BR": "Coroações de imagens marianas" }, "notes": { "en-US": "Esp. Aparecida, Guadalupe, Fatima.", "pt-BR": "Esp. Aparecida, Guadalupe, Fátima." }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "all-souls-and-november",
+      "title": { "en-US": "November — All Souls", "pt-BR": "Novembro — Finados" },
+      "description": {
+        "body": {
+          "en-US": "All Saints (Nov 1), All Souls (Nov 2), and the duty of remembrance for the whole month.",
+          "pt-BR": "Todos os Santos (1 nov), Finados (2 nov), e o dever de lembrança ao longo do mês."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/odod", "seeAlso": ["collection/for-the-dead", "collection/anglican-patrimony"] },
+        { "kind": "item", "ref": "prayer/de-profundis", "seeAlso": ["collection/for-the-dead"] },
+        { "kind": "item", "ref": "prayer/eternal-rest", "seeAlso": ["collection/for-the-dead"] },
+        { "kind": "todo", "title": { "en-US": "November daily Office of the Dead", "pt-BR": "Ofício dos Defuntos no mês de novembro" }, "notes": { "en-US": "Cross-list with For the Faithful Departed.", "pt-BR": "Cruzar com Pelos Fiéis Defuntos." }, "proposedKind": "practice" }
+      ]
+    },
+    {
+      "id": "christ-the-king",
+      "title": { "en-US": "Christ the King", "pt-BR": "Cristo Rei" },
+      "description": {
+        "body": {
+          "en-US": "The last Sunday of the liturgical year — the close of Ordinary Time, before Advent begins again.",
+          "pt-BR": "O último Domingo do ano litúrgico — encerramento do Tempo Comum, antes que o Advento recomece."
+        }
+      },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "Litany of Christ the King", "pt-BR": "Ladainha de Cristo Rei" }, "notes": { "en-US": "Cross-list with Litanies. From the spirit of *Quas Primas*.", "pt-BR": "Cruzar com Ladainhas. Inspirada na *Quas Primas*." }, "proposedKind": "practice", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "Act of Consecration to Christ the King", "pt-BR": "Ato de Consagração a Cristo Rei" }, "proposedKind": "prayer", "priority": "high" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "collection/mental-prayer",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Mental Prayer",
+    "pt-BR": "Oração Mental"
+  },
+  "description": {
+    "en-US": "How to spend fifteen minutes alone with God — methods, daily practice, and what to do when the prayer goes dark.",
+    "pt-BR": "Como passar quinze minutos a sós com Deus — métodos, prática diária, e o que fazer quando a oração fica escura."
+  },
+  "icon": "candle",
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["mental-prayer", "lectio-divina", "examen", "contemplation"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "Mental prayer is the master practice of the spiritual life. *He who does not meditate*, says St. Alphonsus, *will hardly save his soul* — not because meditation earns salvation, but because the soul that does not pause to look at God will not see Him when He calls. Fifteen minutes a day, in a quiet place, with a chosen subject. The methods below are different doors into the same room.",
+      "pt-BR": "A oração mental é a prática-mestra da vida espiritual. *Quem não medita*, diz Santo Afonso, *dificilmente salvará sua alma* — não porque a meditação mereça a salvação, mas porque a alma que não se detém para olhar para Deus não O verá quando Ele chamar. Quinze minutos por dia, num lugar tranquilo, com um tema escolhido. Os métodos abaixo são portas diferentes para a mesma sala."
+    }
+  },
+  "sections": [
+    {
+      "id": "methods",
+      "title": { "en-US": "Methods", "pt-BR": "Métodos" },
+      "description": {
+        "body": {
+          "en-US": "How to begin. Pick one and stay with it long enough to learn it.",
+          "pt-BR": "Por onde começar. Escolha um e fique com ele tempo suficiente para aprendê-lo."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "chapter/how-to-pray" },
+        { "kind": "item", "ref": "chapter/mental-prayer" },
+        { "kind": "item", "ref": "chapter/lectio-divina" },
+        { "kind": "item", "ref": "chapter/ignatian-examen" }
+      ]
+    },
+    {
+      "id": "daily-practice",
+      "title": { "en-US": "Daily Practice", "pt-BR": "Prática Diária" },
+      "description": {
+        "body": {
+          "en-US": "The two anchors of an interior life: a daily meditation and a daily reading.",
+          "pt-BR": "As duas âncoras da vida interior: uma meditação diária e uma leitura diária."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/mental-prayer" },
+        { "kind": "item", "ref": "practice/spiritual-reading" }
+      ]
+    },
+    {
+      "id": "in-the-tradition",
+      "title": { "en-US": "In the Tradition", "pt-BR": "Na Tradição" },
+      "description": {
+        "body": {
+          "en-US": "Two great year-long courses: Carmelite *Divine Intimacy* and Liguori's *Daily Meditations*.",
+          "pt-BR": "Dois grandes cursos anuais: a *Intimidade Divina* carmelita e as *Meditações Diárias* de Ligório."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/intimita-divina",
+          "seeAlso": ["collection/carmelite"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/meditacoes-ligorio",
+          "seeAlso": ["collection/alphonsus-liguori"]
+        }
+      ]
+    },
+    {
+      "id": "scripture-meditations",
+      "title": { "en-US": "Scripture for Times of the Heart", "pt-BR": "Escrituras para os Tempos do Coração" },
+      "description": {
+        "body": {
+          "en-US": "When you do not know what to bring to prayer, bring what the day has brought you.",
+          "pt-BR": "Quando não sabe o que levar à oração, leve aquilo que o dia te trouxe."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/scripture-anxiety" },
+        { "kind": "item", "ref": "practice/scripture-gratitude" },
+        { "kind": "item", "ref": "practice/scripture-suffering" },
+        { "kind": "item", "ref": "practice/scripture-joy" },
+        { "kind": "item", "ref": "practice/scripture-forgiveness" },
+        { "kind": "item", "ref": "practice/scripture-courage" },
+        { "kind": "item", "ref": "practice/scripture-trust" },
+        { "kind": "item", "ref": "practice/scripture-love" }
+      ]
+    },
+    {
+      "id": "when-prayer-is-hard",
+      "title": { "en-US": "When Prayer Is Hard", "pt-BR": "Quando a Oração é Difícil" },
+      "description": {
+        "body": {
+          "en-US": "Dryness, distraction, the dark night, the long stretch when nothing seems to happen. Read these on the days you are tempted to stop.",
+          "pt-BR": "Aridez, distração, a noite escura, o longo trecho em que nada parece acontecer. Leia estes nos dias em que está tentado a parar."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "chapter/when-prayer-goes-dark" },
+        { "kind": "item", "ref": "chapter/feeling-and-faith" },
+        { "kind": "item", "ref": "chapter/the-book-and-the-silence" },
+        { "kind": "item", "ref": "chapter/measuring-what-cannot-be-measured" },
+        { "kind": "item", "ref": "chapter/the-psalter-in-the-dark" },
+        { "kind": "item", "ref": "chapter/pacing-one-thing-at-a-time" }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": { "en-US": "Reading", "pt-BR": "Leitura" },
+      "description": {
+        "body": {
+          "en-US": "Treatises on prayer from the great schools.",
+          "pt-BR": "Tratados sobre a oração das grandes escolas."
+        }
+      },
+      "defaultCollapsed": true,
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/gran-mezzo-della-preghiera",
+          "seeAlso": ["collection/alphonsus-liguori"]
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-ardent-prayer",
+          "seeAlso": ["collection/montfort-spirituality"]
+        },
+        {
+          "kind": "item",
+          "ref": "book/intimita-divina",
+          "seeAlso": ["collection/carmelite"]
+        }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Guided Lectio Divina practice", "pt-BR": "Prática guiada de Lectio Divina" },
+          "notes": { "en-US": "Step-by-step practice with the passage of the day.", "pt-BR": "Prática passo-a-passo com a passagem do dia." },
+          "proposedKind": "practice",
+          "priority": "high"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Guided Examen practice", "pt-BR": "Prática guiada do Exame de Consciência" },
+          "notes": { "en-US": "Ignatian five-movement form (gratitude, petition, review, contrition, resolve).", "pt-BR": "Forma inaciana em cinco movimentos (gratidão, petição, revisão, contrição, propósito)." },
+          "proposedKind": "practice",
+          "priority": "high"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Method of St. Sulpice (Olier)", "pt-BR": "Método de São Sulpício (Olier)" },
+          "notes": { "en-US": "Adoration, communion, cooperation.", "pt-BR": "Adoração, comunhão, cooperação." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Method of St. Francis de Sales", "pt-BR": "Método de São Francisco de Sales" },
+          "notes": { "en-US": "Preparation, considerations, affections, resolutions, conclusion — the simplest beginner method.", "pt-BR": "Preparação, considerações, afetos, resoluções, conclusão — o método mais simples para iniciantes." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Method of St. Peter of Alcántara", "pt-BR": "Método de São Pedro de Alcântara" },
+          "notes": { "en-US": "Much loved by Teresa of Ávila.", "pt-BR": "Predileto de Teresa de Ávila." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Methodus Orationis Mentalis (St. Alphonsus Liguori)", "pt-BR": "Methodus Orationis Mentalis (Santo Afonso de Ligório)" },
+          "notes": { "en-US": "As a practice, not the book.", "pt-BR": "Como prática, não o livro." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Discursive prayer tutorial", "pt-BR": "Tutorial de oração discursiva" },
+          "notes": { "en-US": "When meditation works through memory, intellect, will.", "pt-BR": "Quando a meditação passa pelas faculdades (memória, entendimento, vontade)." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Prayer of Simplicity tutorial", "pt-BR": "Tutorial da oração de simplicidade" },
+          "notes": { "en-US": "The transition from discursive to affective.", "pt-BR": "A transição do discursivo ao afetivo." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Prayer of Quiet / passive prayer", "pt-BR": "Oração de Quietude / oração passiva" },
+          "notes": { "en-US": "Carmelite framing — Teresa of Ávila, John of the Cross.", "pt-BR": "Enquadramento carmelita — Teresa de Ávila, João da Cruz." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on acquired vs. infused contemplation", "pt-BR": "Capítulo sobre contemplação adquirida vs. infusa" },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on spiritual direction", "pt-BR": "Capítulo sobre direção espiritual" },
+          "notes": { "en-US": "What it is, how to find one, what to expect.", "pt-BR": "O que é, como encontrar, o que esperar." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on consolation and desolation", "pt-BR": "Capítulo sobre consolação e desolação" },
+          "notes": { "en-US": "Ignatian rules of discernment of spirits.", "pt-BR": "Regras inacianas de discernimento dos espíritos." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the practice of the presence of God", "pt-BR": "Capítulo sobre a prática da presença de Deus" },
+          "notes": { "en-US": "Brother Lawrence — cross-list with Spiritual Classics.", "pt-BR": "Irmão Lourenço — cruzar com Clássicos." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Aspirations practice", "pt-BR": "Prática de jaculatórias" },
+          "notes": { "en-US": "Short prayers throughout the day (Sacred Heart, Jesus mercy, Mary my hope…).", "pt-BR": "Orações breves ao longo do dia (Sagrado Coração, Jesus misericórdia, Maria mãe minha…)." },
+          "proposedKind": "practice"
+        }
+      ]
+    }
+  ]
+}

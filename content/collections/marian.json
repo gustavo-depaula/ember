@@ -1,0 +1,325 @@
+{
+  "id": "collection/marian",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Marian Devotion",
+    "pt-BR": "Devoção Mariana"
+  },
+  "description": {
+    "en-US": "Hail Mary at the heart of every prayer — the foundational Marian prayers, the Rosary, the antiphons of the Mother of God, and the great acts of consecration.",
+    "pt-BR": "Ave-Maria no coração de toda oração — as orações marianas fundamentais, o Rosário, as antífonas da Mãe de Deus e os grandes atos de consagração."
+  },
+  "icon": "mary",
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["marian", "rosary", "consecration", "antiphon"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "*Per Mariam ad Iesum* — to Jesus through Mary. Marian devotion is not a parallel piety but the shape Christian piety takes when it remembers that the Word came to us through her. Here are the foundational prayers, the Rosary that holds the mysteries of Christ, the four ancient antiphons that close the day across the seasons of the Church year, and the acts by which souls have given themselves entirely to her.",
+      "pt-BR": "*Per Mariam ad Iesum* — a Jesus por Maria. A devoção mariana não é uma piedade paralela mas a forma que a piedade cristã toma quando se lembra de que o Verbo veio a nós por ela. Aqui estão as orações fundamentais, o Rosário que sustenta os mistérios de Cristo, as quatro antigas antífonas que encerram o dia ao longo das estações do ano litúrgico, e os atos pelos quais as almas se deram inteiramente a ela."
+    }
+  },
+  "sections": [
+    {
+      "id": "foundational-prayers",
+      "title": { "en-US": "Foundational Prayers", "pt-BR": "Orações Fundamentais" },
+      "description": {
+        "body": {
+          "en-US": "The prayers every Catholic learns by heart.",
+          "pt-BR": "As orações que toda alma católica aprende de cor."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/hail-mary" },
+        { "kind": "item", "ref": "prayer/memorare" },
+        { "kind": "item", "ref": "prayer/sub-tuum-praesidium" },
+        { "kind": "item", "ref": "prayer/fatima-prayer" }
+      ]
+    },
+    {
+      "id": "from-scratch",
+      "title": { "en-US": "Marian Devotion from Scratch", "pt-BR": "Devoção Mariana do Zero" },
+      "description": {
+        "body": {
+          "en-US": "If Mary is unfamiliar territory — start here.",
+          "pt-BR": "Se Maria é território desconhecido — comece aqui."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "chapter/marian-devotion-from-scratch" }
+      ]
+    },
+    {
+      "id": "the-rosary",
+      "title": { "en-US": "The Rosary", "pt-BR": "O Rosário" },
+      "description": {
+        "body": {
+          "en-US": "The Marian Psalter — fifteen mysteries of Christ contemplated through the eyes of His Mother.",
+          "pt-BR": "O Saltério Mariano — quinze mistérios de Cristo contemplados pelos olhos de Sua Mãe."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/rosary" },
+        { "kind": "item", "ref": "practice/modo-rezar-rosario" },
+        { "kind": "item", "ref": "chapter/how-to-pray-the-rosary-well" },
+        {
+          "kind": "item",
+          "ref": "book/montfort-secret-rosary",
+          "seeAlso": ["collection/montfort-spirituality"]
+        }
+      ]
+    },
+    {
+      "id": "marian-antiphons",
+      "title": { "en-US": "Marian Antiphons", "pt-BR": "Antífonas Marianas" },
+      "description": {
+        "body": {
+          "en-US": "Four antiphons close the day across the year — *Alma Redemptoris Mater* (Advent–Christmas, **TODO source**), *Ave Regina Caelorum* (Lent, **TODO source**), *Regina Caeli* (Easter), and *Salve Regina* / *Hail Holy Queen* (the rest of the year).",
+          "pt-BR": "Quatro antífonas encerram o dia ao longo do ano — *Alma Redemptoris Mater* (Advento–Natal, **a incluir**), *Ave Regina Caelorum* (Quaresma, **a incluir**), *Regina Caeli* (Páscoa) e *Salve Regina* (o restante do ano)."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/regina-caeli" },
+        { "kind": "item", "ref": "prayer/hail-holy-queen" },
+        { "kind": "item", "ref": "prayer/sub-tuum-praesidium" }
+      ]
+    },
+    {
+      "id": "the-angelus",
+      "title": { "en-US": "The Angelus & Regina Caeli", "pt-BR": "O Angelus e a Regina Caeli" },
+      "description": {
+        "body": {
+          "en-US": "The threefold prayer at sunrise, noon, and sunset — and its Eastertide form, prayed standing in joy.",
+          "pt-BR": "A oração três vezes ao dia, ao nascer do sol, ao meio-dia e ao pôr do sol — e sua forma pascal, rezada de pé, em alegria."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/angelus" },
+        { "kind": "item", "ref": "practice/regina-caeli" }
+      ]
+    },
+    {
+      "id": "consecration-and-acts",
+      "title": { "en-US": "Acts of Consecration", "pt-BR": "Atos de Consagração" },
+      "description": {
+        "body": {
+          "en-US": "The 33-day total consecration of St. Louis-Marie de Montfort, and shorter Brazilian acts of self-offering to Our Lady.",
+          "pt-BR": "A consagração total de 33 dias de São Luís-Maria de Montfort, e atos brasileiros mais breves de oferecimento a Nossa Senhora."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/total-consecration",
+          "seeAlso": ["collection/montfort-spirituality"]
+        },
+        { "kind": "item", "ref": "prayer/consagracao-maria" },
+        { "kind": "item", "ref": "prayer/ao-coracao-de-maria" },
+        { "kind": "item", "ref": "prayer/com-minha-mae-estarei" }
+      ]
+    },
+    {
+      "id": "litany",
+      "title": { "en-US": "Litany of Loreto", "pt-BR": "Ladainha de Loreto" },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/litany-loreto",
+          "seeAlso": ["collection/litanies"]
+        },
+        { "kind": "item", "ref": "prayer/ladainha-nossa-senhora" }
+      ]
+    },
+    {
+      "id": "the-seven-sorrows",
+      "title": { "en-US": "The Seven Sorrows", "pt-BR": "As Sete Dores" },
+      "description": {
+        "body": {
+          "en-US": "Seven moments in which the sword that Simeon foretold pierced Mary's soul.",
+          "pt-BR": "Sete momentos em que a espada profetizada por Simeão atravessou a alma de Maria."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows",
+          "seeAlso": ["collection/way-of-the-cross"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows-scriptural",
+          "seeAlso": ["collection/way-of-the-cross"]
+        }
+      ]
+    },
+    {
+      "id": "marian-novenas",
+      "title": { "en-US": "Marian Novenas", "pt-BR": "Novenas Marianas" },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/rosary-54-day-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/miraculous-medal-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/perpetual-help-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/our-lady-aparecida-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/guadalupe-novena",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/mount-carmel-novena",
+          "seeAlso": ["collection/novenas", "collection/carmelite"]
+        }
+      ]
+    },
+    {
+      "id": "marian-works",
+      "title": { "en-US": "Marian Works", "pt-BR": "Obras Marianas" },
+      "description": {
+        "body": {
+          "en-US": "The great Marian books of the tradition.",
+          "pt-BR": "Os grandes livros marianos da tradição."
+        }
+      },
+      "defaultCollapsed": true,
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/montfort-true-devotion",
+          "seeAlso": ["collection/montfort-spirituality"]
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-secret-mary",
+          "seeAlso": ["collection/montfort-spirituality"]
+        },
+        {
+          "kind": "item",
+          "ref": "book/glorie-di-maria",
+          "seeAlso": ["collection/alphonsus-liguori"]
+        }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Alma Redemptoris Mater", "pt-BR": "Alma Redemptoris Mater" },
+          "notes": { "en-US": "Marian antiphon for Advent–Christmas.", "pt-BR": "Antífona mariana do Advento–Natal." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Ave Regina Caelorum", "pt-BR": "Ave Regina Caelorum" },
+          "notes": { "en-US": "Marian antiphon for Lent.", "pt-BR": "Antífona mariana da Quaresma." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Akathist Hymn to the Theotokos", "pt-BR": "Hino Acatisto à Theotokos" },
+          "notes": { "en-US": "Great Byzantine Marian hymn — also prayed in the Latin tradition.", "pt-BR": "Grande hino mariano bizantino — também rezado na tradição latina." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Brown Scapular: enrollment, Promise, Sabbatine Privilege", "pt-BR": "Escapulário do Carmo: imposição, Promessa, Privilégio Sabatino" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Three Hail Marys daily devotion", "pt-BR": "Devoção das Três Ave-Marias diárias" },
+          "notes": { "en-US": "St. Mechtilde, St. Anthony Mary Claret.", "pt-BR": "Santa Mectildes, Santo Antônio Maria Claret." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Franciscan Crown / Seraphic Rosary", "pt-BR": "Coroa Franciscana / Rosário Seráfico" },
+          "notes": { "en-US": "Seven Joys of Mary in seven decades.", "pt-BR": "Sete Alegrias de Maria em sete dezenas." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Fifteen Prayers of St. Bridget of Sweden", "pt-BR": "Quinze Orações de Santa Brígida da Suécia" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to Our Lady, Undoer of Knots", "pt-BR": "Novena a Nossa Senhora Desatadora dos Nós" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to Our Lady of Sorrows (Sept 7–15)", "pt-BR": "Novena a Nossa Senhora das Dores (7–15 set)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Stabat Mater Dolorosa", "pt-BR": "Stabat Mater Dolorosa" },
+          "notes": { "en-US": "Cross-list with Way of the Cross.", "pt-BR": "Cruzar com Via Sacra." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Holy Slavery of Love (Olier / Bossuet form)", "pt-BR": "Santa Escravidão do Amor (forma de Olier / Bossuet)" },
+          "notes": { "en-US": "Alternative to Montfort's Total Consecration.", "pt-BR": "Alternativa à Consagração Total de Montfort." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "May daily Marian devotion guide", "pt-BR": "Guia diário do mês de maio" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "October Rosary daily reflection guide", "pt-BR": "Guia diário de outubro (Rosário)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to Our Lady of Lourdes (Feb 2–11)", "pt-BR": "Novena a Nossa Senhora de Lourdes (2–11 fev)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to Our Lady of Fatima", "pt-BR": "Novena a Nossa Senhora de Fátima" },
+          "notes": { "en-US": "Three traditional dates: May 5–13, Aug 13–22, Oct 5–13.", "pt-BR": "Três datas tradicionais: 5–13 mai, 13–22 ago, 5–13 out." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to Our Lady of La Salette", "pt-BR": "Novena a Nossa Senhora de La Salette" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Memorare in St. Bernard's longer form", "pt-BR": "Memorare na forma original mais longa de São Bernardo" },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Sub Tuum Praesidium in Greek and Latin", "pt-BR": "Sub Tuum Praesidium em grego e latim" },
+          "notes": { "en-US": "The oldest known Marian prayer (3rd-century Greek papyrus).", "pt-BR": "A oração mariana mais antiga conhecida (papiro grego do séc. III)." },
+          "proposedKind": "prayer"
+        }
+      ]
+    }
+  ]
+}

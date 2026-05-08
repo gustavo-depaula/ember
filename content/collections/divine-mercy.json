@@ -6,49 +6,123 @@
     "pt-BR": "Divina Misericórdia"
   },
   "description": {
-    "en-US": "The Chaplet, the Hour of Mercy, and the devotional prayers entrusted to St. Faustina Kowalska — a school of trust in Jesus, rich in mercy.",
-    "pt-BR": "O Terço, a Hora da Misericórdia e as orações devocionais confiadas a Santa Faustina Kowalska — uma escola de confiança em Jesus, rico em misericórdia."
+    "en-US": "The Chaplet, the Hour of Mercy, and the prayers entrusted to St. Faustina Kowalska — a school of trust in Jesus, rich in mercy.",
+    "pt-BR": "O Terço, a Hora da Misericórdia e as orações confiadas a Santa Faustina Kowalska — uma escola de confiança em Jesus, rico em misericórdia."
   },
   "icon": "mercy",
-  "languages": [
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "devotion",
-    "mercy",
-    "faustina"
-  ],
-  "defaults": {
-    "autoSeed": false
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["devotion", "mercy", "faustina"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "St. Faustina Kowalska, a Polish religious of the early twentieth century, recorded in her Diary the words and requests of Jesus for a renewed devotion to His Divine Mercy. The fruit of those revelations is gathered here: the Chaplet, prayed on rosary beads each afternoon at the Hour of Mercy; the Image inscribed *Jesus, I trust in You*; the Feast of Divine Mercy on the Sunday after Easter; and the Novena Jesus Himself dictated, prayed from Good Friday through the eve of the feast.",
+      "pt-BR": "Santa Faustina Kowalska, religiosa polaca do início do século XX, registou em seu Diário as palavras e os pedidos de Jesus por uma renovada devoção à Sua Divina Misericórdia. O fruto dessas revelações está aqui reunido: o Terço, rezado nas contas do Rosário a cada tarde na Hora da Misericórdia; a Imagem com a inscrição *Jesus, eu confio em Vós*; a Festa da Divina Misericórdia no domingo após a Páscoa; e a Novena que o próprio Jesus ditou, rezada desde a Sexta-feira Santa até a véspera da festa."
+    }
   },
   "sections": [
     {
-      "id": "all",
+      "id": "the-chaplet-and-the-hour",
       "title": {
-        "en-US": "All entries",
-        "pt-BR": "Todos os itens"
+        "en-US": "The Chaplet & the Hour of Mercy",
+        "pt-BR": "O Terço e a Hora da Misericórdia"
+      },
+      "description": {
+        "body": {
+          "en-US": "Two daily anchors of the devotion: the Chaplet on rosary beads, and the brief prayer at three in the afternoon — the hour of His death.",
+          "pt-BR": "Duas âncoras diárias da devoção: o Terço nas contas do Rosário, e a breve oração às três da tarde — a hora de Sua morte."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/chaplet-of-divine-mercy" },
+        { "kind": "item", "ref": "practice/three-oclock-prayer" }
+      ]
+    },
+    {
+      "id": "the-novena",
+      "title": {
+        "en-US": "The Novena",
+        "pt-BR": "A Novena"
+      },
+      "description": {
+        "body": {
+          "en-US": "Nine days from Good Friday to the eve of Divine Mercy Sunday — a different soul brought to the Heart of Jesus each day.",
+          "pt-BR": "Nove dias da Sexta-feira Santa à véspera do Domingo da Divina Misericórdia — uma alma diferente trazida ao Coração de Jesus a cada dia."
+        }
       },
       "blocks": [
         {
           "kind": "item",
-          "ref": "practice/chaplet-of-divine-mercy"
+          "ref": "practice/divine-mercy-novena",
+          "seeAlso": ["collection/novenas"]
+        }
+      ]
+    },
+    {
+      "id": "companion-prayers",
+      "title": {
+        "en-US": "Companion Prayers",
+        "pt-BR": "Orações Companheiras"
+      },
+      "description": {
+        "body": {
+          "en-US": "The short prayers Faustina records as Jesus's own — and the ancient Trisagion that the chaplet places on the lips.",
+          "pt-BR": "As breves orações que Faustina regista como sendo do próprio Jesus — e o antigo Trisagion que o terço põe nos lábios."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/eternal-father" },
+        { "kind": "item", "ref": "prayer/divine-mercy-response" },
+        { "kind": "item", "ref": "prayer/holy-god" }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Divine Mercy image", "pt-BR": "Capítulo sobre a Imagem da Divina Misericórdia" },
+          "notes": { "en-US": "The rays, the inscription, the apparitions to St. Faustina.", "pt-BR": "Os raios, a inscrição, as aparições a Santa Faustina." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "practice/three-oclock-prayer"
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Novena context", "pt-BR": "Capítulo sobre o contexto da Novena" },
+          "notes": { "en-US": "What Jesus asked Faustina; the Feast and its plenary indulgence.", "pt-BR": "O que Jesus pediu a Faustina; a Festa e sua indulgência plenária." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "prayer/eternal-father"
+          "kind": "todo",
+          "title": { "en-US": "Litany of Divine Mercy", "pt-BR": "Ladainha da Divina Misericórdia" },
+          "notes": { "en-US": "The 33-invocation form approved as a private devotion.", "pt-BR": "Forma de 33 invocações, aprovada como devoção privada." },
+          "proposedKind": "practice"
         },
         {
-          "kind": "item",
-          "ref": "prayer/divine-mercy-response"
+          "kind": "todo",
+          "title": { "en-US": "Chaplet for the Dying", "pt-BR": "Terço para os Moribundos" },
+          "notes": { "en-US": "Faustina's specific form for those at the hour of death.", "pt-BR": "Forma específica de Faustina para os que estão na hora da morte." },
+          "proposedKind": "practice"
         },
         {
-          "kind": "item",
-          "ref": "prayer/holy-god"
+          "kind": "todo",
+          "title": { "en-US": "Prayer to Divine Mercy for the Souls in Purgatory", "pt-BR": "Oração da Divina Misericórdia pelas Almas do Purgatório" },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Selected entries from the *Diary of St. Faustina*", "pt-BR": "Entradas selecionadas do *Diário de Santa Faustina*" },
+          "notes": { "en-US": "Notebook 6 contains the most-prayed Faustina prayers.", "pt-BR": "O Caderno 6 contém as orações de Faustina mais rezadas." },
+          "proposedKind": "book"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to St. Faustina (Sept 25 – Oct 4)", "pt-BR": "Novena a Santa Faustina (25 set – 4 out)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Sister Faustina's Act of Oblation", "pt-BR": "Ato de Oblação de Irmã Faustina" },
+          "proposedKind": "prayer"
         }
       ]
     }

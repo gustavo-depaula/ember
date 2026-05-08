@@ -3,67 +3,131 @@
   "version": "1.0.0",
   "name": {
     "en-US": "Montfort Spirituality",
-    "pt-BR": "Espiritualidade Montfortina"
+    "pt-BR": "Espiritualidade Montfortina",
+    "fr-FR": "Spiritualité Montfortaine"
   },
   "description": {
-    "en-US": "The complete spiritual works of St. Louis de Montfort — True Devotion, the Rosary, Eternal Wisdom, and total consecration to Mary.",
-    "pt-BR": "As obras espirituais completas de São Luís de Montfort — Verdadeira Devoção, o Rosário, Sabedoria Eterna e consagração total a Maria.",
-    "fr-FR": "Les œuvres spirituelles complètes de Saint Louis-Marie de Montfort — la Vraie Dévotion, le Rosaire, la Sagesse Éternelle et la consécration totale à Marie."
+    "en-US": "The complete spiritual works of St. Louis-Marie de Montfort — True Devotion, the Rosary, Eternal Wisdom, and total consecration to Jesus through Mary.",
+    "pt-BR": "As obras espirituais completas de São Luís-Maria de Montfort — Verdadeira Devoção, o Rosário, Sabedoria Eterna e consagração total a Jesus por Maria.",
+    "fr-FR": "Les œuvres spirituelles complètes de Saint Louis-Marie de Montfort — la Vraie Dévotion, le Rosaire, la Sagesse Éternelle et la consécration totale à Jésus par Marie."
   },
   "icon": "mary",
-  "languages": [
-    "fr-FR",
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "marian",
-    "montfort",
-    "consecration"
-  ],
+  "languages": ["fr-FR", "en-US", "pt-BR"],
+  "tags": ["marian", "montfort", "consecration"],
   "sections": [
     {
-      "id": "all",
-      "title": {
-        "en-US": "All entries",
-        "pt-BR": "Todos os itens"
+      "id": "about",
+      "title": { "en-US": "About St. Louis-Marie", "pt-BR": "Sobre São Luís-Maria" },
+      "blocks": [
+        { "kind": "item", "ref": "chapter/about-montfort" }
+      ]
+    },
+    {
+      "id": "total-consecration",
+      "title": { "en-US": "Total Consecration", "pt-BR": "Consagração Total" },
+      "description": {
+        "body": {
+          "en-US": "The 33-day preparation and the act itself — Montfort's *Way* of going to Jesus through Mary.",
+          "pt-BR": "A preparação de 33 dias e o ato em si — o *Caminho* de Montfort para ir a Jesus por Maria."
+        }
       },
       "blocks": [
         {
           "kind": "item",
-          "ref": "chapter/about-montfort"
+          "ref": "practice/total-consecration",
+          "seeAlso": ["collection/marian"]
         },
+        { "kind": "item", "ref": "book/montfort-true-devotion" },
+        { "kind": "item", "ref": "book/montfort-secret-mary" }
+      ]
+    },
+    {
+      "id": "the-rosary",
+      "title": { "en-US": "The Rosary", "pt-BR": "O Rosário" },
+      "blocks": [
         {
           "kind": "item",
-          "ref": "book/montfort-true-devotion"
-        },
+          "ref": "book/montfort-secret-rosary",
+          "seeAlso": ["collection/marian"]
+        }
+      ]
+    },
+    {
+      "id": "wisdom-and-the-cross",
+      "title": { "en-US": "Wisdom & the Cross", "pt-BR": "Sabedoria e Cruz" },
+      "description": {
+        "body": {
+          "en-US": "The deeper structure beneath True Devotion — the Wisdom who became flesh, and the Cross by which Wisdom rules.",
+          "pt-BR": "A estrutura mais profunda sob a Verdadeira Devoção — a Sabedoria que se fez carne, e a Cruz pela qual a Sabedoria reina."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "book/montfort-love-wisdom" },
         {
           "kind": "item",
-          "ref": "book/montfort-love-wisdom"
+          "ref": "book/montfort-friends-cross",
+          "seeAlso": ["collection/way-of-the-cross"]
+        }
+      ]
+    },
+    {
+      "id": "apostolic",
+      "title": { "en-US": "Apostolic & Contemplative", "pt-BR": "Apostólico e Contemplativo" },
+      "blocks": [
+        { "kind": "item", "ref": "book/montfort-ardent-prayer" },
+        { "kind": "item", "ref": "book/montfort-missionary-rules" }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve", "fr-FR": "Bientôt" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the 33-day Total Consecration preparation", "pt-BR": "Capítulo sobre a preparação de 33 dias", "fr-FR": "Chapitre sur la préparation de 33 jours" },
+          "notes": { "en-US": "What each phase is for: renunciation of the spirit of the world, knowledge of self, of Mary, of Jesus Christ.", "pt-BR": "O que cada fase faz: renúncia ao espírito do mundo, conhecimento de si, de Maria, de Jesus Cristo.", "fr-FR": "Ce que fait chaque phase : renoncement à l'esprit du monde, connaissance de soi, de Marie, de Jésus-Christ." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "book/montfort-secret-rosary"
+          "kind": "todo",
+          "title": { "en-US": "The four start-dates tradition", "pt-BR": "A tradição das quatro datas de início", "fr-FR": "La tradition des quatre dates de début" },
+          "notes": { "en-US": "So the Consecration falls on Annunciation, Assumption, Immaculate Conception, or Our Lady of the Rosary.", "pt-BR": "Para que a Consagração caia na Anunciação, Assunção, Imaculada Conceição ou Nossa Senhora do Rosário.", "fr-FR": "Pour que la Consécration tombe sur l'Annonciation, l'Assomption, l'Immaculée Conception, ou Notre-Dame du Rosaire." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "book/montfort-secret-mary"
+          "kind": "todo",
+          "title": { "en-US": "Cantiques of Montfort (selection)", "pt-BR": "Cânticos de Montfort (seleção)", "fr-FR": "Cantiques de Montfort (sélection)" },
+          "notes": { "en-US": "Montfort wrote 164 devotional hymns.", "pt-BR": "Montfort escreveu 164 hinos devocionais.", "fr-FR": "Montfort a écrit 164 cantiques." },
+          "proposedKind": "book"
         },
         {
-          "kind": "item",
-          "ref": "book/montfort-friends-cross"
+          "kind": "todo",
+          "title": { "en-US": "The Wisdom Cross of Poitiers", "pt-BR": "A Cruz da Sabedoria de Poitiers", "fr-FR": "La Croix de la Sagesse de Poitiers" },
+          "notes": { "en-US": "Montfort's missionary device.", "pt-BR": "Divisa missionária de Montfort.", "fr-FR": "Devise missionnaire de Montfort." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "book/montfort-ardent-prayer"
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Marian apostolate", "pt-BR": "Capítulo sobre o apostolado mariano", "fr-FR": "Chapitre sur l'apostolat marial" },
+          "notes": { "en-US": "What True Devotion looks like in lay missionary life.", "pt-BR": "O que é a Verdadeira Devoção na vida missionária leiga.", "fr-FR": "Ce que la Vraie Dévotion devient dans la vie missionnaire laïque." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "book/montfort-missionary-rules"
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Reign of Mary in the Last Days", "pt-BR": "Capítulo sobre o Reinado de Maria nos Últimos Tempos", "fr-FR": "Chapitre sur le Règne de Marie dans les derniers temps" },
+          "notes": { "en-US": "Montfort's prophetic theme.", "pt-BR": "Tema profético de Montfort.", "fr-FR": "Thème prophétique de Montfort." },
+          "proposedKind": "chapter"
         },
         {
-          "kind": "item",
-          "ref": "practice/total-consecration"
+          "kind": "todo",
+          "title": { "en-US": "Prayer for Missionaries", "pt-BR": "Oração pelos Missionários", "fr-FR": "Prière pour les Missionnaires" },
+          "notes": { "en-US": "Montfort's prayer for the company he hoped to found.", "pt-BR": "Oração de Montfort pela companhia que esperava fundar.", "fr-FR": "Prière de Montfort pour la compagnie qu'il espérait fonder." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Selected pastoral letters of Montfort", "pt-BR": "Cartas pastorais selecionadas de Montfort", "fr-FR": "Lettres pastorales sélectionnées de Montfort" },
+          "proposedKind": "book"
         }
       ]
     }

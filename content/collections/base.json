@@ -1,6 +1,6 @@
 {
   "id": "collection/base",
-  "version": "1.6.0",
+  "version": "1.0.0",
   "name": {
     "en-US": "Catholic Daily Prayers",
     "pt-BR": "Orações Católicas Diárias"
@@ -372,6 +372,57 @@
         { "kind": "item", "ref": "book/catechetical-instructions" },
         { "kind": "item", "ref": "book/catechism-pius-x-1912" },
         { "kind": "item", "ref": "book/catechism-of-trent" }
+      ]
+    },
+    {
+      "id": "to-source-foundational",
+      "title": { "en-US": "Coming Soon — Foundational Prayers", "pt-BR": "Em Breve — Orações Fundamentais" },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "Athanasian Creed (Quicumque vult)", "pt-BR": "Símbolo Atanasiano (Quicumque vult)" }, "notes": { "en-US": "The third great creed of the Western Church.", "pt-BR": "O terceiro grande símbolo da Igreja do Ocidente." }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Veni Sancte Spiritus (Pentecost sequence)", "pt-BR": "Veni Sancte Spiritus (sequência de Pentecostes)" }, "proposedKind": "prayer" },
+        { "kind": "todo", "title": { "en-US": "Seven Penitential Psalms", "pt-BR": "Sete Salmos Penitenciais" }, "notes": { "en-US": "Cross-list with Confession & Conversion.", "pt-BR": "Cruzar com Confissão e Conversão." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "The Divine Praises", "pt-BR": "Os Louvores Divinos" }, "notes": { "en-US": "*Blessed be God, blessed be His Holy Name…*", "pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…*" }, "proposedKind": "prayer" }
+      ]
+    },
+    {
+      "id": "to-source-aspirations",
+      "title": { "en-US": "Coming Soon — Aspirations", "pt-BR": "Em Breve — Jaculatórias" },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Daily aspirations practice", "pt-BR": "Prática diária de jaculatórias" },
+          "notes": { "en-US": "Short prayers throughout the day — *My Jesus, mercy*; *Sacred Heart, I trust in You*; *Mary, my mother and my hope*; *All for Thee, most Sacred Heart*; *Eternal Father, I offer Thee…*", "pt-BR": "Orações curtas ao longo do dia — *Meu Jesus, misericórdia*; *Sagrado Coração, em Vós confio*; *Maria, mãe minha e esperança minha*; *Tudo por Vós, Sacratíssimo Coração*; *Eterno Pai, eu Vos ofereço…*" },
+          "proposedKind": "practice",
+          "priority": "high"
+        }
+      ]
+    },
+    {
+      "id": "to-source-catechetical",
+      "title": { "en-US": "Coming Soon — Catechetical Chapters", "pt-BR": "Em Breve — Capítulos Catequéticos" },
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "The Lord's Prayer — petition-by-petition", "pt-BR": "O Pai-Nosso — petição por petição" }, "proposedKind": "chapter", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "The Hail Mary — phrase-by-phrase", "pt-BR": "A Ave-Maria — frase por frase" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "The Apostles' Creed — article-by-article", "pt-BR": "O Símbolo dos Apóstolos — artigo por artigo" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Examination of life by the Beatitudes", "pt-BR": "Exame de vida pelas Bem-aventuranças" }, "notes": { "en-US": "Companion practice to the existing Beatitudes chapter.", "pt-BR": "Prática companheira do capítulo existente sobre as Bem-aventuranças." }, "proposedKind": "practice" },
+        { "kind": "todo", "title": { "en-US": "Chapter on indulgences", "pt-BR": "Capítulo sobre indulgências" }, "notes": { "en-US": "What they are, how to gain them, the standard conditions.", "pt-BR": "O que são, como ganhá-las, as condições padrão." }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter: Devotional life vs. liturgical life", "pt-BR": "Capítulo: Vida devocional vs. vida litúrgica" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter: Sunday obligation and Sunday rest", "pt-BR": "Capítulo: Obrigação dominical e descanso" }, "notes": { "en-US": "What the Third Commandment asks.", "pt-BR": "O que o Terceiro Mandamento pede." }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter: The Eucharistic fast and proper preparation", "pt-BR": "Capítulo: O jejum eucarístico e a preparação" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter on modesty in dress and speech", "pt-BR": "Capítulo sobre modéstia no vestir e no falar" }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter on almsgiving", "pt-BR": "Capítulo sobre a esmola" }, "notes": { "en-US": "Beyond the Gospel command — a practical framework.", "pt-BR": "Para além do mandamento evangélico — um quadro prático." }, "proposedKind": "chapter" },
+        { "kind": "todo", "title": { "en-US": "Chapter on Christian friendship and community", "pt-BR": "Capítulo sobre a amizade e a comunidade cristã" }, "proposedKind": "chapter" }
+      ]
+    },
+    {
+      "id": "to-source-books",
+      "title": { "en-US": "Coming Soon — Books", "pt-BR": "Em Breve — Livros" },
+      "defaultCollapsed": true,
+      "blocks": [
+        { "kind": "todo", "title": { "en-US": "Compendium of the Catechism of the Catholic Church", "pt-BR": "Compêndio do Catecismo da Igreja Católica" }, "proposedKind": "book", "priority": "high" },
+        { "kind": "todo", "title": { "en-US": "YOUCAT", "pt-BR": "YOUCAT" }, "notes": { "en-US": "License-permitting.", "pt-BR": "Se a licença permitir." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Catechism of the Catholic Church (full text)", "pt-BR": "Catecismo da Igreja Católica (texto integral)" }, "notes": { "en-US": "License-permitting.", "pt-BR": "Se a licença permitir." }, "proposedKind": "book" },
+        { "kind": "todo", "title": { "en-US": "Imitation of Christ as a daily reader", "pt-BR": "Imitação de Cristo como leitor diário" }, "notes": { "en-US": "Already in Spiritual Classics; cross-list here as the everyday devotional book.", "pt-BR": "Já em Clássicos Espirituais; cruzar aqui como leitor devocional diário." }, "proposedKind": "book" }
       ]
     }
   ]

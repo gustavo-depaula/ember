@@ -1,0 +1,155 @@
+{
+  "id": "collection/holy-spirit",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "To the Holy Spirit",
+    "pt-BR": "Ao Espírito Santo"
+  },
+  "description": {
+    "en-US": "*Veni, Sancte Spiritus* — the great hymns, the novena, the triduum, and the Litany of the Spirit Who is the soul of the Church.",
+    "pt-BR": "*Veni, Sancte Spiritus* — os grandes hinos, a novena, o tríduo, e a Ladainha do Espírito que é alma da Igreja."
+  },
+  "icon": "flame",
+  "languages": ["en-US", "pt-BR"],
+  "tags": ["holy-spirit", "pentecost", "novena", "veni-creator"],
+  "defaults": { "autoSeed": false },
+  "prologue": {
+    "body": {
+      "en-US": "Between the Ascension and Pentecost, the Apostles and Mary spent nine days in the upper room — the first novena. Every prayer to the Holy Spirit since stands in that same waiting. The Church begins councils, opens schools, ordains priests, and starts retreats with the same hymn: *Veni, Creator Spiritus.* Pentecost is not last year's feast; it is the air she breathes.",
+      "pt-BR": "Entre a Ascensão e Pentecostes, os Apóstolos e Maria passaram nove dias no cenáculo — a primeira novena. Toda oração ao Espírito Santo desde então permanece nessa mesma espera. A Igreja começa concílios, inaugura escolas, ordena sacerdotes e abre retiros com o mesmo hino: *Veni, Creator Spiritus.* Pentecostes não é a festa do ano passado; é o ar que ela respira."
+    }
+  },
+  "sections": [
+    {
+      "id": "hymns",
+      "title": { "en-US": "Hymns & Sequences", "pt-BR": "Hinos e Sequências" },
+      "description": {
+        "body": {
+          "en-US": "*Veni Creator Spiritus* — the ninth-century hymn — and *Come Holy Spirit*, the simpler invocation. **TODO source:** *Veni Sancte Spiritus*, the Pentecost sequence (\"Golden Sequence\").",
+          "pt-BR": "*Veni Creator Spiritus* — o hino do século nono — e *Vinde, Espírito Santo*, a invocação mais simples. **A incluir:** *Veni Sancte Spiritus*, a sequência de Pentecostes (\"Sequência Áurea\")."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "prayer/veni-creator-spiritus" },
+        { "kind": "item", "ref": "prayer/come-holy-spirit" }
+      ]
+    },
+    {
+      "id": "practices",
+      "title": { "en-US": "Practices", "pt-BR": "Práticas" },
+      "description": {
+        "body": {
+          "en-US": "Brief acts of invocation — for the start of a day, a study, or a discernment.",
+          "pt-BR": "Breves atos de invocação — para o início de um dia, de um estudo, de um discernimento."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/veni-creator" }
+      ]
+    },
+    {
+      "id": "novena-and-triduum",
+      "title": { "en-US": "Novena & Triduum", "pt-BR": "Novena e Tríduo" },
+      "description": {
+        "body": {
+          "en-US": "The original novena — Ascension to Pentecost — and a shorter triduum form.",
+          "pt-BR": "A novena original — da Ascensão a Pentecostes — e uma forma mais curta de tríduo."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/novena-holy-spirit",
+          "seeAlso": ["collection/novenas"]
+        },
+        {
+          "kind": "item",
+          "ref": "practice/triduum-holy-spirit",
+          "seeAlso": ["collection/novenas"]
+        }
+      ]
+    },
+    {
+      "id": "litany",
+      "title": { "en-US": "Litany of the Holy Spirit", "pt-BR": "Ladainha do Espírito Santo" },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/litany-holy-spirit",
+          "seeAlso": ["collection/litanies"]
+        }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "defaultCollapsed": true,
+      "blocks": [
+        { "kind": "item", "ref": "chapter/gifts-and-fruits-of-the-holy-spirit" },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Veni Sancte Spiritus (Golden Sequence)", "pt-BR": "Veni Sancte Spiritus (Sequência Áurea)" },
+          "notes": { "en-US": "Stephen Langton, the Pentecost sequence. Full text with chant.", "pt-BR": "Estêvão Langton, a sequência de Pentecostes. Texto completo com canto." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chaplet of the Holy Spirit", "pt-BR": "Coroinha do Espírito Santo" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Seven Gifts meditation cycle", "pt-BR": "Ciclo de meditação dos Sete Dons" },
+          "notes": { "en-US": "One Gift per day for a week — *Septem Verba*.", "pt-BR": "Um Dom por dia durante uma semana — *Septem Verba*." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Renewal of Confirmation promises", "pt-BR": "Renovação das promessas da Crisma" },
+          "notes": { "en-US": "Clean indulgenced form for Pentecost.", "pt-BR": "Forma indulgenciada para Pentecostes." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Act of Consecration to the Holy Spirit", "pt-BR": "Ato de Consagração ao Espírito Santo" },
+          "notes": { "en-US": "Cardinal Mercier; Bl. Elena Guerra.", "pt-BR": "Cardeal Mercier; Bem-aventurada Elena Guerra." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Seven Gifts", "pt-BR": "Capítulo sobre os Sete Dons" },
+          "notes": { "en-US": "Wisdom, understanding, counsel, fortitude, knowledge, piety, fear of the Lord — with Aquinas-grounded explanations.", "pt-BR": "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade, temor de Deus — com fundamentos tomistas." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Chapter on the Twelve Fruits", "pt-BR": "Capítulo sobre os Doze Frutos" },
+          "notes": { "en-US": "Charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity.", "pt-BR": "Caridade, alegria, paz, paciência, benignidade, bondade, longanimidade, mansidão, fidelidade, modéstia, continência, castidade." },
+          "proposedKind": "chapter"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Daily discernment prayer", "pt-BR": "Oração diária de discernimento" },
+          "notes": { "en-US": "Ignatian-flavored, brief.", "pt-BR": "Estilo inaciano, breve." },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Prayer for one's vocation", "pt-BR": "Oração pela própria vocação" },
+          "proposedKind": "prayer"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Novena to the Holy Spirit for a specific decision", "pt-BR": "Novena ao Espírito Santo para uma decisão específica" },
+          "notes": { "en-US": "Focused 9-day discernment form.", "pt-BR": "Forma focada de 9 dias de discernimento." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Pentecost Vigil antiphons", "pt-BR": "Antífonas da Vigília de Pentecostes" },
+          "proposedKind": "prayer"
+        }
+      ]
+    }
+  ]
+}

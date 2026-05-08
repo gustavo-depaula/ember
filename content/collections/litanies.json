@@ -1,6 +1,6 @@
 {
   "id": "collection/litanies",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "name": {
     "en-US": "Catholic Litanies",
     "pt-BR": "Ladainhas Católicas"
@@ -62,6 +62,109 @@
         { "kind": "item", "ref": "practice/litany-blessed-sacrament" },
         { "kind": "item", "ref": "practice/litany-humility" },
         { "kind": "item", "ref": "practice/litany-holy-spirit" }
+      ]
+    },
+    {
+      "id": "to-source",
+      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
+      "description": {
+        "body": {
+          "en-US": "Beloved private litanies the Church has not added to the seven approved-for-public-recitation set, but which are widely prayed.",
+          "pt-BR": "Ladainhas privadas amadas que a Igreja não adicionou ao conjunto das sete aprovadas para recitação pública, mas que são largamente rezadas."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Christ the King", "pt-BR": "Ladainha de Cristo Rei" },
+          "notes": { "en-US": "From the spirit of Pius XI's *Quas Primas*.", "pt-BR": "Inspirada na *Quas Primas* de Pio XI." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Our Lady of Sorrows", "pt-BR": "Ladainha de Nossa Senhora das Dores" },
+          "notes": { "en-US": "Servite tradition.", "pt-BR": "Tradição servita." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Holy Face of Jesus", "pt-BR": "Ladainha da Santa Face de Jesus" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Holy Wounds", "pt-BR": "Ladainha das Sagradas Chagas" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Most Sweet Name of Jesus and Mary", "pt-BR": "Ladainha do Doce Nome de Jesus e Maria" },
+          "notes": { "en-US": "Bridgettine.", "pt-BR": "Brigidina." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Most Holy Trinity (private)", "pt-BR": "Ladainha da Santíssima Trindade (forma privada)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany for the Dying / Recommendation of a Soul", "pt-BR": "Ladainha dos Moribundos / Recomendação da Alma" },
+          "notes": { "en-US": "Cross-list with For the Faithful Departed.", "pt-BR": "Cruzar com Pelos Fiéis Defuntos." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Trust", "pt-BR": "Ladainha da Confiança" },
+          "notes": { "en-US": "Sister Faustina Maria Pia, SV.", "pt-BR": "Irmã Faustina Maria Pia, SV." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Word of God", "pt-BR": "Ladainha da Palavra de Deus" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Divine Mercy (33 invocations)", "pt-BR": "Ladainha da Divina Misericórdia (33 invocações)" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Eucharistic Heart of Jesus", "pt-BR": "Ladainha do Coração Eucarístico de Jesus" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of St. Michael the Archangel", "pt-BR": "Ladainha de São Miguel Arcanjo" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Guardian Angels", "pt-BR": "Ladainha dos Anjos da Guarda" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Saints — Solemn form", "pt-BR": "Ladainha de Todos os Santos — forma Solene" },
+          "notes": { "en-US": "Easter Vigil and Ordination form, distinct from the shorter daily form.", "pt-BR": "Forma da Vigília Pascal e da Ordenação, distinta da diária mais curta." },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Our Lady of Guadalupe", "pt-BR": "Ladainha de Nossa Senhora de Guadalupe" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of the Most Pure Heart of Joseph", "pt-BR": "Ladainha do Puríssimo Coração de São José" },
+          "proposedKind": "practice"
+        },
+        {
+          "kind": "todo",
+          "title": { "en-US": "Litany of Our Lady of Aparecida (Brazilian)", "pt-BR": "Ladainha de Nossa Senhora Aparecida (forma brasileira)" },
+          "proposedKind": "practice"
+        }
       ]
     }
   ]
