@@ -7,7 +7,12 @@
  * should import directly from `@/features/pinning/pinningManager`.
  */
 
-import { getAllEntries, getEntry, getRememberedManifest } from '@/content/contentIndex'
+import {
+  getAllEntries,
+  getEntry,
+  getRememberedManifest,
+  isHiddenCollection,
+} from '@/content/contentIndex'
 import type { CollectionItemManifest, PracticeItemManifest } from '@/content/manifestTypes'
 import { getJson } from '@/content/store'
 import { getPinnedItems, isPinned, pinItem, unpinItem } from '@/features/pinning/pinningManager'
@@ -149,6 +154,7 @@ export async function fetchRegistry(): Promise<Registry> {
   const libraries: RegistryEntry[] = []
   for (const [id, entry] of getAllEntries()) {
     if (entry.kind !== 'collection') continue
+    if (isHiddenCollection(id)) continue
     let body = getRememberedManifest<CollectionItemManifest>(entry.hash)
     if (!body) {
       try {

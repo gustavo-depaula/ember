@@ -1,30 +1,35 @@
 import { useRouter } from 'expo-router'
-import { Plus, Search } from 'lucide-react-native'
+import { Plus, Search, X } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Modal, Pressable, ScrollView } from 'react-native'
+import { Modal, Pressable, ScrollView, View } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { PageHeader, ScreenLayout } from '@/components'
+import { PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import {
   getCollectionItems,
   getCollectionsForItem,
   getEntriesByKind,
   getEntry,
+  isHiddenCollection,
 } from '@/content/contentIndex'
-import {
-  getAllManifests,
-  getManifestCategories,
-  getManifestIconKey,
-  searchManifests,
-} from '@/content/registry'
+import { getAllManifests, getManifestCategories, getManifestIconKey } from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { usePinnedItems } from '@/features/pinning/hooks'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
+import {
+  AllPrayersList,
+  CollectionCard,
+  EssentialPrayersRow,
+  PrayerModal,
+  PrayNowCard,
+  SearchAutocomplete,
+} from '@/features/practices/components'
+import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { localizeContent } from '@/lib/i18n'
 
 function CategoryChip({
@@ -107,11 +112,10 @@ function PracticeCard({
 
   const iconKey = getManifestIconKey(manifest.id)
   const name = localizeContent(manifest.name)
-
   const description = manifest.description ? localizeContent(manifest.description) : ''
   const snippet = description.length > 100 ? `${description.slice(0, 100)}...` : description
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal — re-running when it bumps is the point.
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
   const collectionLabels = useMemo(() => {
     const corpusId = manifest.id.includes('/') ? manifest.id : `practice/${manifest.id}`
     return getCollectionsForItem(corpusId)
@@ -192,26 +196,18 @@ export default function PracticeCatalogScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-
-  const [searchQuery, setSearchQuery] = useState('')
-  const [activeCategory, setActiveCategory] = useState<string | undefined>()
-  const [activeCollectionId, setActiveCollectionId] = useState<string | undefined>()
-  const [pinnedOnly, setPinnedOnly] = useState(false)
-  const [showEditor, setShowEditor] = useState(false)
-  const createPractice = useCreatePractice()
+  const hour = useCurrentHour()
   const catalogVersion = useCatalogVersion()
   const { data: pinned = [] } = usePinnedItems()
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
-  const collectionFilters = useMemo(() => {
-    const out: { id: string; label: string }[] = []
-    for (const [id, entry] of getEntriesByKind('collection')) {
-      if (id === 'collection/starter') continue
-      const label = entry.name ? localizeContent(entry.name as Record<string, string>) : id
-      out.push({ id, label })
-    }
-    return out.sort((a, b) => a.label.localeCompare(b.label))
-  }, [catalogVersion])
+  const [searchQuery, setSearchQuery] = useState('')
+  const [activeCategory, setActiveCategory] = useState<string | undefined>()
+  const [pinnedOnly, setPinnedOnly] = useState(false)
+  const [showEditor, setShowEditor] = useState(false)
+  const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
+  const createPractice = useCreatePractice()
+
+  const isSearching = searchQuery.trim().length > 0
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({
@@ -228,6 +224,20 @@ export default function PracticeCatalogScreen() {
     setShowEditor(false)
   }
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal for derived collection data.
+  const collections = useMemo(() => {
+    const out: { id: string; entry: ReturnType<typeof getEntry> }[] = []
+    for (const [id, entry] of getEntriesByKind('collection')) {
+      if (isHiddenCollection(id)) continue
+      out.push({ id, entry })
+    }
+    return out.sort((a, b) => {
+      const aItems = getCollectionItems(a.id).length
+      const bItems = getCollectionItems(b.id).length
+      return bItems - aItems
+    })
+  }, [catalogVersion])
+
   const categories = useMemo(() => getManifestCategories(), [])
   const allSlots = useAllSlots()
   const enabledManifestIds = useMemo(
@@ -237,7 +247,6 @@ export default function PracticeCatalogScreen() {
 
   const pinnedPracticeIds = useMemo(() => {
     const direct = new Set(pinned.filter((p) => p.id.startsWith('practice/')).map((p) => p.id))
-    // Inherit pinned status from any pinned collection that contains the practice.
     for (const p of pinned) {
       if (!p.id.startsWith('collection/')) continue
       for (const it of getCollectionItems(p.id)) {
@@ -247,21 +256,9 @@ export default function PracticeCatalogScreen() {
     return direct
   }, [pinned])
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion tracks deferred manifest warm-up.
   const filteredManifests = useMemo(() => {
-    let results: PracticeManifest[]
-    if (searchQuery.trim()) {
-      results = searchManifests(searchQuery)
-    } else {
-      results = getAllManifests()
-    }
-    if (activeCollectionId) {
-      const inCollection = new Set(
-        getCollectionItems(activeCollectionId)
-          .filter((it) => it.entry?.kind === 'practice')
-          .map((it) => it.ref),
-      )
-      results = results.filter((m) => inCollection.has(m.id))
-    }
+    let results: PracticeManifest[] = getAllManifests()
     if (activeCategory) {
       results = results.filter((m) => m.categories.includes(activeCategory))
     }
@@ -272,181 +269,226 @@ export default function PracticeCatalogScreen() {
       })
     }
     return results
-  }, [searchQuery, activeCategory, activeCollectionId, pinnedOnly, pinnedPracticeIds])
+  }, [activeCategory, pinnedOnly, pinnedPracticeIds, catalogVersion])
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <PageHeader title={t('catalog.title')} />
+    <View style={{ flex: 1 }}>
+      <ScreenLayout>
+        <YStack gap="$lg" paddingVertical="$lg">
+          <PageHeader title={t('catalog.title')} />
 
-        <XStack
-          backgroundColor="$backgroundSurface"
-          borderRadius="$md"
-          borderWidth={1}
-          borderColor="$borderColor"
-          paddingHorizontal="$md"
-          alignItems="center"
-          gap="$sm"
-        >
-          <Search size={16} color={theme.colorSecondary.val} />
-          <Input
-            flex={1}
-            value={searchQuery}
-            onChangeText={setSearchQuery}
-            placeholder={t('catalog.search')}
-            fontFamily="$body"
-            fontSize="$3"
-            borderWidth={0}
-            backgroundColor="transparent"
-            height={44}
-            paddingHorizontal={0}
-          />
-        </XStack>
+          {!isSearching && <PrayNowCard hour={hour} />}
 
-        {collectionFilters.length > 0 && (
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            contentContainerStyle={{ gap: 8 }}
+          <XStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$borderColor"
+            paddingHorizontal="$md"
+            alignItems="center"
+            gap="$sm"
           >
-            <CategoryChip
-              label={t('catalog.all')}
-              isActive={!activeCollectionId}
-              onPress={() => setActiveCollectionId(undefined)}
+            <Search size={16} color={theme.colorSecondary?.val} />
+            <Input
+              flex={1}
+              value={searchQuery}
+              onChangeText={setSearchQuery}
+              placeholder={t('pray.searchPlaceholder')}
+              fontFamily="$body"
+              fontSize="$3"
+              borderWidth={0}
+              backgroundColor="transparent"
+              height={44}
+              paddingHorizontal={0}
             />
-            {collectionFilters.map((c) => (
-              <CategoryChip
-                key={c.id}
-                label={c.label}
-                isActive={activeCollectionId === c.id}
-                onPress={() => setActiveCollectionId((prev) => (prev === c.id ? undefined : c.id))}
-              />
-            ))}
-          </ScrollView>
-        )}
-
-        <XStack gap="$sm" alignItems="center">
-          <CategoryChip
-            label={t('pinning.pinnedFilter', { defaultValue: 'Offline' })}
-            isActive={pinnedOnly}
-            onPress={() => setPinnedOnly((p) => !p)}
-          />
-          <YStack flex={1}>
-            <CategoryChips
-              categories={categories}
-              active={activeCategory}
-              onSelect={setActiveCategory}
-            />
-          </YStack>
-        </XStack>
-
-        <YStack gap="$sm">
-          <Pressable
-            onPress={() => setShowEditor(true)}
-            accessibilityRole="button"
-            accessibilityLabel={t('plan.addCustom')}
-          >
-            <XStack
-              borderRadius="$lg"
-              padding="$md"
-              gap="$md"
-              alignItems="center"
-              borderWidth={1}
-              borderColor="$accent"
-              borderStyle="dashed"
-            >
-              <YStack width={36} height={36} alignItems="center" justifyContent="center">
-                <Plus size={24} color={theme.accent.val} />
-              </YStack>
-              <YStack flex={1} gap={2}>
-                <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                  {t('plan.addCustom')}
-                </Text>
-                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                  {t('catalog.customDescription')}
-                </Text>
-              </YStack>
-            </XStack>
-          </Pressable>
-
-          {filteredManifests.map((manifest) => (
-            <PracticeCard
-              key={manifest.id}
-              manifest={manifest}
-              inPlan={enabledManifestIds.has(manifest.id)}
-              onPress={() =>
-                router.push({
-                  pathname: '/practices/[manifestId]',
-                  params: { manifestId: manifest.id },
-                })
-              }
-            />
-          ))}
-
-          {filteredManifests.length === 0 && (
-            <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
-              <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
-                {t('catalog.noResults')}
-              </Text>
-              <Text
-                fontFamily="$body"
-                fontSize="$2"
-                color="$colorSecondary"
-                textAlign="center"
-                fontStyle="italic"
+            {isSearching && (
+              <Pressable
+                onPress={() => setSearchQuery('')}
+                hitSlop={8}
+                accessibilityRole="button"
+                accessibilityLabel={t('catalog.clearFilters')}
               >
-                {t('catalog.noResultsDescription')}
-              </Text>
-              {(searchQuery.trim() || activeCategory || activeCollectionId) && (
-                <Pressable
-                  onPress={() => {
-                    setSearchQuery('')
-                    setActiveCategory(undefined)
-                    setActiveCollectionId(undefined)
-                  }}
-                  hitSlop={8}
-                  accessibilityRole="button"
-                  accessibilityLabel={t('catalog.clearFilters')}
-                >
-                  <Text
-                    fontFamily="$heading"
-                    fontSize="$2"
-                    color="$accent"
-                    paddingVertical="$sm"
-                    paddingHorizontal="$md"
-                  >
-                    {t('catalog.clearFilters')}
+                <X size={16} color={theme.colorSecondary?.val} />
+              </Pressable>
+            )}
+          </XStack>
+
+          {isSearching && (
+            <SearchAutocomplete query={searchQuery} onSelectPrayer={setSelectedPrayerId} />
+          )}
+
+          {!isSearching && (
+            <>
+              {collections.length > 0 && (
+                <YStack gap="$sm">
+                  <Text fontFamily="$heading" fontSize="$3" color="$color">
+                    {t('pray.collections')}
                   </Text>
-                </Pressable>
+                  <ScrollView
+                    horizontal
+                    showsHorizontalScrollIndicator={false}
+                    contentContainerStyle={{ gap: 12, paddingRight: 12 }}
+                  >
+                    {collections.map(({ id, entry }) =>
+                      entry ? (
+                        <CollectionCard key={id} collectionId={id} entry={entry} />
+                      ) : undefined,
+                    )}
+                  </ScrollView>
+                </YStack>
               )}
-            </YStack>
+
+              <YStack gap="$sm">
+                <Text fontFamily="$heading" fontSize="$3" color="$color">
+                  {t('pray.essentialPrayers')}
+                </Text>
+                <EssentialPrayersRow onSelect={setSelectedPrayerId} />
+              </YStack>
+
+              <YStack gap="$sm">
+                <Text fontFamily="$heading" fontSize="$3" color="$color">
+                  {t('pray.allPrayers')}
+                </Text>
+                <AllPrayersList onSelect={setSelectedPrayerId} />
+              </YStack>
+
+              <SectionDivider />
+
+              <YStack gap="$sm">
+                <Text fontFamily="$heading" fontSize="$3" color="$color">
+                  {t('pray.allPractices')}
+                </Text>
+
+                <XStack gap="$sm" alignItems="center">
+                  <CategoryChip
+                    label={t('pinning.pinnedFilter')}
+                    isActive={pinnedOnly}
+                    onPress={() => setPinnedOnly((p) => !p)}
+                  />
+                  <YStack flex={1}>
+                    <CategoryChips
+                      categories={categories}
+                      active={activeCategory}
+                      onSelect={setActiveCategory}
+                    />
+                  </YStack>
+                </XStack>
+
+                <Pressable
+                  onPress={() => setShowEditor(true)}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('plan.addCustom')}
+                >
+                  <XStack
+                    borderRadius="$lg"
+                    padding="$md"
+                    gap="$md"
+                    alignItems="center"
+                    borderWidth={1}
+                    borderColor="$accent"
+                    borderStyle="dashed"
+                  >
+                    <YStack width={36} height={36} alignItems="center" justifyContent="center">
+                      <Plus size={24} color={theme.accent?.val} />
+                    </YStack>
+                    <YStack flex={1} gap={2}>
+                      <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                        {t('plan.addCustom')}
+                      </Text>
+                      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                        {t('catalog.customDescription')}
+                      </Text>
+                    </YStack>
+                  </XStack>
+                </Pressable>
+
+                {filteredManifests.map((manifest) => (
+                  <PracticeCard
+                    key={manifest.id}
+                    manifest={manifest}
+                    inPlan={enabledManifestIds.has(manifest.id)}
+                    onPress={() =>
+                      router.push({
+                        pathname: '/practices/[manifestId]',
+                        params: { manifestId: manifest.id },
+                      })
+                    }
+                  />
+                ))}
+
+                {filteredManifests.length === 0 && (
+                  <YStack
+                    alignItems="center"
+                    gap="$sm"
+                    paddingVertical="$xl"
+                    paddingHorizontal="$lg"
+                  >
+                    <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+                      {t('catalog.noResults')}
+                    </Text>
+                    <Text
+                      fontFamily="$body"
+                      fontSize="$2"
+                      color="$colorSecondary"
+                      textAlign="center"
+                      fontStyle="italic"
+                    >
+                      {t('catalog.noResultsDescription')}
+                    </Text>
+                    {(activeCategory || pinnedOnly) && (
+                      <Pressable
+                        onPress={() => {
+                          setActiveCategory(undefined)
+                          setPinnedOnly(false)
+                        }}
+                        hitSlop={8}
+                        accessibilityRole="button"
+                        accessibilityLabel={t('catalog.clearFilters')}
+                      >
+                        <Text
+                          fontFamily="$heading"
+                          fontSize="$2"
+                          color="$accent"
+                          paddingVertical="$sm"
+                          paddingHorizontal="$md"
+                        >
+                          {t('catalog.clearFilters')}
+                        </Text>
+                      </Pressable>
+                    )}
+                  </YStack>
+                )}
+              </YStack>
+            </>
           )}
         </YStack>
-      </YStack>
 
-      <Modal
-        visible={showEditor}
-        animationType="slide"
-        transparent
-        onRequestClose={() => setShowEditor(false)}
-      >
-        <YStack flex={1} justifyContent="flex-end">
-          <Pressable
-            style={{
-              position: 'absolute',
-              top: 0,
-              left: 0,
-              right: 0,
-              bottom: 0,
-              backgroundColor: 'rgba(0,0,0,0.4)',
-            }}
-            onPress={() => setShowEditor(false)}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.closeModal')}
-          />
-          <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
-        </YStack>
-      </Modal>
-    </ScreenLayout>
+        <Modal
+          visible={showEditor}
+          animationType="slide"
+          transparent
+          onRequestClose={() => setShowEditor(false)}
+        >
+          <YStack flex={1} justifyContent="flex-end">
+            <Pressable
+              style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                right: 0,
+                bottom: 0,
+                backgroundColor: 'rgba(0,0,0,0.4)',
+              }}
+              onPress={() => setShowEditor(false)}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.closeModal')}
+            />
+            <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
+          </YStack>
+        </Modal>
+      </ScreenLayout>
+
+      <PrayerModal prayerId={selectedPrayerId} onClose={() => setSelectedPrayerId(undefined)} />
+    </View>
   )
 }

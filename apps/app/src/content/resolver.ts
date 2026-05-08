@@ -16,6 +16,7 @@ import {
   getRememberedManifest,
   search as indexSearch,
   invalidateMemberOfIndex,
+  isHiddenPractice,
   notifyManifestsWarmed,
   rememberManifestBody,
   setCatalog,
@@ -204,7 +205,9 @@ export function getAllManifests(): PracticeManifest[] {
   const out: PracticeManifest[] = []
   for (const [, entry] of getEntriesByKind('practice')) {
     const item = getRememberedManifest<PracticeItemManifest>(entry.hash)
-    if (item) out.push(asPracticeManifest(item))
+    if (!item) continue
+    if (isHiddenPractice(item.id)) continue
+    out.push(asPracticeManifest(item))
   }
   return out
 }

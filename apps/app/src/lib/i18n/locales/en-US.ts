@@ -890,7 +890,7 @@ export default {
   },
 
   catalog: {
-    title: 'Practices',
+    title: 'Pray',
     search: 'Search practices...',
     all: 'All',
     addToPlan: 'Add to Plan',
@@ -905,6 +905,32 @@ export default {
     clearFilters: 'Clear filters',
     customDescription: 'Create your own practice with a custom schedule',
     hours: 'Hours',
+    practiceCount_one: '{{count}} practice',
+    practiceCount_other: '{{count}} practices',
+    prayerCount_one: '{{count}} prayer',
+    prayerCount_other: '{{count}} prayers',
+    bookCount_one: '{{count}} book',
+    bookCount_other: '{{count}} books',
+  },
+
+  pray: {
+    now: 'Pray now',
+    collections: 'Collections',
+    essentialPrayers: 'Essential Prayers',
+    allPrayers: 'All Prayers',
+    showAllPrayers: 'Show all {{count}} prayers',
+    allPractices: 'All Practices',
+    searchPlaceholder: 'Search prayers, books, collections…',
+    searchResultPractices: 'Practices',
+    searchResultPrayers: 'Prayers',
+    searchResultBooks: 'Books',
+    searchResultCollections: 'Collections',
+    suggestionMass: "Today's Mass",
+    suggestionMorning: 'A way to begin the day',
+    suggestionMidday: 'A pause at noon',
+    suggestionAfternoon: 'A meeting in the afternoon',
+    suggestionEvening: 'An examination of the day',
+    suggestionNight: 'Before sleep',
   },
 
   category: {

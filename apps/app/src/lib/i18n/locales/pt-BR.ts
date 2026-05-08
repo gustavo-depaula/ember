@@ -894,7 +894,7 @@ export default {
   },
 
   catalog: {
-    title: 'Práticas',
+    title: 'Orar',
     search: 'Buscar práticas...',
     all: 'Todas',
     addToPlan: 'Adicionar ao Plano',
@@ -909,6 +909,32 @@ export default {
     clearFilters: 'Limpar filtros',
     customDescription: 'Crie sua própria prática com um horário personalizado',
     hours: 'Horas',
+    practiceCount_one: '{{count}} prática',
+    practiceCount_other: '{{count}} práticas',
+    prayerCount_one: '{{count}} oração',
+    prayerCount_other: '{{count}} orações',
+    bookCount_one: '{{count}} livro',
+    bookCount_other: '{{count}} livros',
+  },
+
+  pray: {
+    now: 'Orar agora',
+    collections: 'Coleções',
+    essentialPrayers: 'Orações Essenciais',
+    allPrayers: 'Todas as Orações',
+    showAllPrayers: 'Mostrar todas as {{count}} orações',
+    allPractices: 'Todas as Práticas',
+    searchPlaceholder: 'Buscar orações, livros, coleções…',
+    searchResultPractices: 'Práticas',
+    searchResultPrayers: 'Orações',
+    searchResultBooks: 'Livros',
+    searchResultCollections: 'Coleções',
+    suggestionMass: 'Missa de hoje',
+    suggestionMorning: 'Para começar o dia',
+    suggestionMidday: 'Uma pausa ao meio-dia',
+    suggestionAfternoon: 'Um encontro à tarde',
+    suggestionEvening: 'Exame do dia',
+    suggestionNight: 'Antes de dormir',
   },
 
   category: {
