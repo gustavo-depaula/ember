@@ -480,6 +480,13 @@ export default {
     marianAntiphon: 'Ant\u00edfona Mariana',
   },
 
+  pinning: {
+    makeAvailableOffline: 'Disponibilizar offline',
+    availableOffline: 'Dispon\u00edvel offline',
+    working: 'Salvando para offline\u2026',
+    pinnedFilter: 'Offline',
+  },
+
   plan: {
     title: 'Plano de Vida',
     emptyWall: 'Complete suas pr\u00e1ticas di\u00e1rias para preencher o mural',

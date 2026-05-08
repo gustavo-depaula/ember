@@ -21,6 +21,7 @@ import {
 } from '@/content/registry'
 import type { PracticeManifest } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { usePinnedItems } from '@/features/pinning/hooks'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
@@ -195,9 +196,11 @@ export default function PracticeCatalogScreen() {
   const [searchQuery, setSearchQuery] = useState('')
   const [activeCategory, setActiveCategory] = useState<string | undefined>()
   const [activeCollectionId, setActiveCollectionId] = useState<string | undefined>()
+  const [pinnedOnly, setPinnedOnly] = useState(false)
   const [showEditor, setShowEditor] = useState(false)
   const createPractice = useCreatePractice()
   const catalogVersion = useCatalogVersion()
+  const { data: pinned = [] } = usePinnedItems()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
   const collectionFilters = useMemo(() => {
@@ -232,6 +235,18 @@ export default function PracticeCatalogScreen() {
     [allSlots],
   )
 
+  const pinnedPracticeIds = useMemo(() => {
+    const direct = new Set(pinned.filter((p) => p.id.startsWith('practice/')).map((p) => p.id))
+    // Inherit pinned status from any pinned collection that contains the practice.
+    for (const p of pinned) {
+      if (!p.id.startsWith('collection/')) continue
+      for (const it of getCollectionItems(p.id)) {
+        if (it.entry?.kind === 'practice') direct.add(it.ref)
+      }
+    }
+    return direct
+  }, [pinned])
+
   const filteredManifests = useMemo(() => {
     let results: PracticeManifest[]
     if (searchQuery.trim()) {
@@ -250,8 +265,14 @@ export default function PracticeCatalogScreen() {
     if (activeCategory) {
       results = results.filter((m) => m.categories.includes(activeCategory))
     }
+    if (pinnedOnly) {
+      results = results.filter((m) => {
+        const corpusId = m.id.includes('/') ? m.id : `practice/${m.id}`
+        return pinnedPracticeIds.has(corpusId)
+      })
+    }
     return results
-  }, [searchQuery, activeCategory, activeCollectionId])
+  }, [searchQuery, activeCategory, activeCollectionId, pinnedOnly, pinnedPracticeIds])
 
   return (
     <ScreenLayout>
@@ -304,11 +325,20 @@ export default function PracticeCatalogScreen() {
           </ScrollView>
         )}
 
-        <CategoryChips
-          categories={categories}
-          active={activeCategory}
-          onSelect={setActiveCategory}
-        />
+        <XStack gap="$sm" alignItems="center">
+          <CategoryChip
+            label={t('pinning.pinnedFilter', { defaultValue: 'Offline' })}
+            isActive={pinnedOnly}
+            onPress={() => setPinnedOnly((p) => !p)}
+          />
+          <YStack flex={1}>
+            <CategoryChips
+              categories={categories}
+              active={activeCategory}
+              onSelect={setActiveCategory}
+            />
+          </YStack>
+        </XStack>
 
         <YStack gap="$sm">
           <Pressable

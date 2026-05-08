@@ -476,6 +476,13 @@ export default {
     marianAntiphon: 'Marian Antiphon',
   },
 
+  pinning: {
+    makeAvailableOffline: 'Make available offline',
+    availableOffline: 'Available offline',
+    working: 'Saving for offline…',
+    pinnedFilter: 'Offline',
+  },
+
   plan: {
     title: 'Plan of Life',
     emptyWall: 'Complete your daily practices to fill the wall',
