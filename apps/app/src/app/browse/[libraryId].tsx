@@ -158,7 +158,7 @@ export default function LibraryDetailScreen() {
     (bookId: string) => {
       router.push({
         // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-        pathname: '/library/book/[bookId]' as any,
+        pathname: '/browse/book/[bookId]' as any,
         // biome-ignore lint/style/noNonNullAssertion: guarded by early return
         params: { bookId, libraryId: libraryId! },
       })
@@ -345,7 +345,7 @@ export default function LibraryDetailScreen() {
                           ? () =>
                               router.push({
                                 // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                                pathname: '/library/chapters/[chapterId]' as any,
+                                pathname: '/browse/chapters/[chapterId]' as any,
                                 // biome-ignore lint/style/noNonNullAssertion: guarded by early return
                                 params: { chapterId: chapter.id, libraryId: libraryId! },
                               })

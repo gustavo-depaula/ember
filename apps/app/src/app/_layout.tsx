@@ -226,7 +226,7 @@ export default function RootLayout() {
               <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
               <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
               <Stack.Screen
-                name="library"
+                name="browse"
                 options={{ title: i18n.t('library.title'), gestureEnabled: false }}
               />
             </Stack>

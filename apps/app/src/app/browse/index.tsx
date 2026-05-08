@@ -201,7 +201,7 @@ export default function LibraryScreen() {
                   subtitle={`${manifest.practices?.length ?? 0} ${t('library.practices').toLowerCase()} · v${book.version}`}
                   onPress={() =>
                     router.push({
-                      pathname: '/library/[libraryId]',
+                      pathname: '/browse/[libraryId]',
                       params: { libraryId: book.book_id },
                     })
                   }
@@ -273,7 +273,7 @@ export default function LibraryScreen() {
                 name={localizeContent(entry.name)}
                 subtitle={`${entry.practiceCount} ${t('library.practices').toLowerCase()} · ${entry.size >= 1024 * 1024 ? `${(entry.size / (1024 * 1024)).toFixed(1)} MB` : `${Math.round(entry.size / 1024)} KB`}`}
                 onPress={() =>
-                  router.push({ pathname: '/library/[libraryId]', params: { libraryId: entry.id } })
+                  router.push({ pathname: '/browse/[libraryId]', params: { libraryId: entry.id } })
                 }
               />
             ))}

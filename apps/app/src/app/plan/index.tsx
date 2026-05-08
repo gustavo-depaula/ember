@@ -257,7 +257,7 @@ export default function PlanScreen() {
         <XStack gap="$md" justifyContent="center">
           <View style={{ flex: 1 }}>
             <AnimatedPressable
-              onPress={() => router.push('/library')}
+              onPress={() => router.push('/browse')}
               accessibilityRole="link"
               accessibilityLabel={t('library.title')}
             >
