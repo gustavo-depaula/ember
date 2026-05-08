@@ -101,8 +101,8 @@ export function ThemedReadings() {
               manifest={manifest}
               onPress={() =>
                 router.push({
-                  pathname: '/practices/[manifestId]',
-                  params: { manifestId: manifest.id },
+                  pathname: '/pray/[practiceId]',
+                  params: { practiceId: manifest.id },
                 })
               }
             />

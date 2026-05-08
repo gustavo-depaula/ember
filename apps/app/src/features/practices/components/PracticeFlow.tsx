@@ -60,8 +60,31 @@ import type { PsalmRef } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
+// Descends through container sections so dynamic content (readings, psalmody)
+// nested inside a select/options/collapsible/liturgical-color-scope/prayer is
+// still collected for prefetch — otherwise its query never fires and the block
+// renders blank.
+function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedSection> {
   for (const s of sections) {
+    yield s
+    switch (s.type) {
+      case 'select':
+      case 'options':
+        for (const opt of s.options) yield* walkRenderedSections(opt.sections)
+        break
+      case 'collapsible':
+      case 'liturgical-color-scope':
+        yield* walkRenderedSections(s.sections)
+        break
+      case 'prayer':
+        if (s.sections) yield* walkRenderedSections(s.sections)
+        break
+    }
+  }
+}
+
+function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
+  for (const s of walkRenderedSections(sections)) {
     if (s.type === 'psalmody') return s.psalms
   }
   return []
@@ -79,7 +102,7 @@ function collectReadingKeys(sections: RenderedSection[]): {
 } {
   const bibleSet = new Map<string, BibleKey>()
   const cccSet = new Map<string, CccKey>()
-  for (const s of sections) {
+  for (const s of walkRenderedSections(sections)) {
     if (s.type !== 'reading') continue
     if (s.reference.type === 'bible') {
       const key = { book: s.reference.book, chapter: s.reference.chapter }
@@ -96,7 +119,7 @@ function collectReadingKeys(sections: RenderedSection[]): {
 
 function findTrackIds(sections: RenderedSection[]): string[] {
   const ids = new Set<string>()
-  for (const s of sections) {
+  for (const s of walkRenderedSections(sections)) {
     if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
   }
   return Array.from(ids)
