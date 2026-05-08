@@ -1,8 +1,8 @@
 import { useRouter } from 'expo-router'
 import { Plus, Search, X } from 'lucide-react-native'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Modal, Pressable, ScrollView, View } from 'react-native'
+import { FlatList, Modal, Pressable, ScrollView, View } from 'react-native'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { PageHeader, ScreenLayout, SectionDivider } from '@/components'
@@ -208,13 +208,6 @@ export default function PracticeCatalogScreen() {
   const createPractice = useCreatePractice()
 
   const isSearching = searchQuery.trim().length > 0
-  // Defer mounting the 99-card "All Practices" list so the hero/cards/prayers
-  // paint immediately and the heavy list slots in a frame later.
-  const [longListReady, setLongListReady] = useState(false)
-  useEffect(() => {
-    const handle = setTimeout(() => setLongListReady(true), 0)
-    return () => clearTimeout(handle)
-  }, [])
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({
@@ -278,198 +271,222 @@ export default function PracticeCatalogScreen() {
     return results
   }, [activeCategory, pinnedOnly, pinnedPracticeIds, catalogVersion])
 
+  const handleCardPress = useCallback(
+    (manifestId: string) => {
+      router.push({
+        pathname: '/practices/[manifestId]',
+        params: { manifestId },
+      })
+    },
+    [router],
+  )
+
+  const renderItem = useCallback(
+    ({ item }: { item: PracticeManifest }) => (
+      <View style={{ marginBottom: 8 }}>
+        <PracticeCard
+          manifest={item}
+          inPlan={enabledManifestIds.has(item.id)}
+          onPress={() => handleCardPress(item.id)}
+        />
+      </View>
+    ),
+    [enabledManifestIds, handleCardPress],
+  )
+
+  const keyExtractor = useCallback((m: PracticeManifest) => m.id, [])
+
+  const SearchBar = (
+    <XStack
+      backgroundColor="$backgroundSurface"
+      borderRadius="$md"
+      borderWidth={1}
+      borderColor="$borderColor"
+      paddingHorizontal="$md"
+      alignItems="center"
+      gap="$sm"
+    >
+      <Search size={16} color={theme.colorSecondary?.val} />
+      <Input
+        flex={1}
+        value={searchQuery}
+        onChangeText={setSearchQuery}
+        placeholder={t('pray.searchPlaceholder')}
+        fontFamily="$body"
+        fontSize="$3"
+        borderWidth={0}
+        backgroundColor="transparent"
+        height={44}
+        paddingHorizontal={0}
+      />
+      {isSearching && (
+        <Pressable
+          onPress={() => setSearchQuery('')}
+          hitSlop={8}
+          accessibilityRole="button"
+          accessibilityLabel={t('catalog.clearFilters')}
+        >
+          <X size={16} color={theme.colorSecondary?.val} />
+        </Pressable>
+      )}
+    </XStack>
+  )
+
+  const Header = (
+    <YStack gap="$lg" paddingVertical="$lg">
+      <PageHeader title={t('catalog.title')} />
+
+      {!isSearching && <PrayNowCard hour={hour} />}
+
+      {SearchBar}
+
+      {isSearching && (
+        <SearchAutocomplete query={searchQuery} onSelectPrayer={setSelectedPrayerId} />
+      )}
+
+      {!isSearching && (
+        <>
+          {collections.length > 0 && (
+            <YStack gap="$sm">
+              <Text fontFamily="$heading" fontSize="$3" color="$color">
+                {t('pray.collections')}
+              </Text>
+              <ScrollView
+                horizontal
+                showsHorizontalScrollIndicator={false}
+                contentContainerStyle={{ gap: 12, paddingRight: 12 }}
+              >
+                {collections.map(({ id, entry }) =>
+                  entry ? <CollectionCard key={id} collectionId={id} entry={entry} /> : undefined,
+                )}
+              </ScrollView>
+            </YStack>
+          )}
+
+          <YStack gap="$sm">
+            <Text fontFamily="$heading" fontSize="$3" color="$color">
+              {t('pray.essentialPrayers')}
+            </Text>
+            <EssentialPrayersRow onSelect={setSelectedPrayerId} />
+          </YStack>
+
+          <YStack gap="$sm">
+            <Text fontFamily="$heading" fontSize="$3" color="$color">
+              {t('pray.allPrayers')}
+            </Text>
+            <AllPrayersList onSelect={setSelectedPrayerId} />
+          </YStack>
+
+          <SectionDivider />
+
+          <YStack gap="$sm">
+            <Text fontFamily="$heading" fontSize="$3" color="$color">
+              {t('pray.allPractices')}
+            </Text>
+
+            <XStack gap="$sm" alignItems="center">
+              <CategoryChip
+                label={t('pinning.pinnedFilter')}
+                isActive={pinnedOnly}
+                onPress={() => setPinnedOnly((p) => !p)}
+              />
+              <YStack flex={1}>
+                <CategoryChips
+                  categories={categories}
+                  active={activeCategory}
+                  onSelect={setActiveCategory}
+                />
+              </YStack>
+            </XStack>
+
+            <Pressable
+              onPress={() => setShowEditor(true)}
+              accessibilityRole="button"
+              accessibilityLabel={t('plan.addCustom')}
+            >
+              <XStack
+                borderRadius="$lg"
+                padding="$md"
+                gap="$md"
+                alignItems="center"
+                borderWidth={1}
+                borderColor="$accent"
+                borderStyle="dashed"
+              >
+                <YStack width={36} height={36} alignItems="center" justifyContent="center">
+                  <Plus size={24} color={theme.accent?.val} />
+                </YStack>
+                <YStack flex={1} gap={2}>
+                  <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                    {t('plan.addCustom')}
+                  </Text>
+                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                    {t('catalog.customDescription')}
+                  </Text>
+                </YStack>
+              </XStack>
+            </Pressable>
+          </YStack>
+        </>
+      )}
+    </YStack>
+  )
+
+  const Empty =
+    !isSearching && filteredManifests.length === 0 ? (
+      <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
+        <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+          {t('catalog.noResults')}
+        </Text>
+        <Text
+          fontFamily="$body"
+          fontSize="$2"
+          color="$colorSecondary"
+          textAlign="center"
+          fontStyle="italic"
+        >
+          {t('catalog.noResultsDescription')}
+        </Text>
+        {(activeCategory || pinnedOnly) && (
+          <Pressable
+            onPress={() => {
+              setActiveCategory(undefined)
+              setPinnedOnly(false)
+            }}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('catalog.clearFilters')}
+          >
+            <Text
+              fontFamily="$heading"
+              fontSize="$2"
+              color="$accent"
+              paddingVertical="$sm"
+              paddingHorizontal="$md"
+            >
+              {t('catalog.clearFilters')}
+            </Text>
+          </Pressable>
+        )}
+      </YStack>
+    ) : null
+
+  // FlatList virtualizes the long practices list; ScreenLayout(scroll=false)
+  // keeps it as the page's scroll container so virtualization works.
   return (
     <View style={{ flex: 1 }}>
-      <ScreenLayout>
-        <YStack gap="$lg" paddingVertical="$lg">
-          <PageHeader title={t('catalog.title')} />
-
-          {!isSearching && <PrayNowCard hour={hour} />}
-
-          <XStack
-            backgroundColor="$backgroundSurface"
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor="$borderColor"
-            paddingHorizontal="$md"
-            alignItems="center"
-            gap="$sm"
-          >
-            <Search size={16} color={theme.colorSecondary?.val} />
-            <Input
-              flex={1}
-              value={searchQuery}
-              onChangeText={setSearchQuery}
-              placeholder={t('pray.searchPlaceholder')}
-              fontFamily="$body"
-              fontSize="$3"
-              borderWidth={0}
-              backgroundColor="transparent"
-              height={44}
-              paddingHorizontal={0}
-            />
-            {isSearching && (
-              <Pressable
-                onPress={() => setSearchQuery('')}
-                hitSlop={8}
-                accessibilityRole="button"
-                accessibilityLabel={t('catalog.clearFilters')}
-              >
-                <X size={16} color={theme.colorSecondary?.val} />
-              </Pressable>
-            )}
-          </XStack>
-
-          {isSearching && (
-            <SearchAutocomplete query={searchQuery} onSelectPrayer={setSelectedPrayerId} />
-          )}
-
-          {!isSearching && (
-            <>
-              {collections.length > 0 && (
-                <YStack gap="$sm">
-                  <Text fontFamily="$heading" fontSize="$3" color="$color">
-                    {t('pray.collections')}
-                  </Text>
-                  <ScrollView
-                    horizontal
-                    showsHorizontalScrollIndicator={false}
-                    contentContainerStyle={{ gap: 12, paddingRight: 12 }}
-                  >
-                    {collections.map(({ id, entry }) =>
-                      entry ? (
-                        <CollectionCard key={id} collectionId={id} entry={entry} />
-                      ) : undefined,
-                    )}
-                  </ScrollView>
-                </YStack>
-              )}
-
-              <YStack gap="$sm">
-                <Text fontFamily="$heading" fontSize="$3" color="$color">
-                  {t('pray.essentialPrayers')}
-                </Text>
-                <EssentialPrayersRow onSelect={setSelectedPrayerId} />
-              </YStack>
-
-              <YStack gap="$sm">
-                <Text fontFamily="$heading" fontSize="$3" color="$color">
-                  {t('pray.allPrayers')}
-                </Text>
-                <AllPrayersList onSelect={setSelectedPrayerId} />
-              </YStack>
-
-              <SectionDivider />
-
-              <YStack gap="$sm">
-                <Text fontFamily="$heading" fontSize="$3" color="$color">
-                  {t('pray.allPractices')}
-                </Text>
-
-                <XStack gap="$sm" alignItems="center">
-                  <CategoryChip
-                    label={t('pinning.pinnedFilter')}
-                    isActive={pinnedOnly}
-                    onPress={() => setPinnedOnly((p) => !p)}
-                  />
-                  <YStack flex={1}>
-                    <CategoryChips
-                      categories={categories}
-                      active={activeCategory}
-                      onSelect={setActiveCategory}
-                    />
-                  </YStack>
-                </XStack>
-
-                <Pressable
-                  onPress={() => setShowEditor(true)}
-                  accessibilityRole="button"
-                  accessibilityLabel={t('plan.addCustom')}
-                >
-                  <XStack
-                    borderRadius="$lg"
-                    padding="$md"
-                    gap="$md"
-                    alignItems="center"
-                    borderWidth={1}
-                    borderColor="$accent"
-                    borderStyle="dashed"
-                  >
-                    <YStack width={36} height={36} alignItems="center" justifyContent="center">
-                      <Plus size={24} color={theme.accent?.val} />
-                    </YStack>
-                    <YStack flex={1} gap={2}>
-                      <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                        {t('plan.addCustom')}
-                      </Text>
-                      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                        {t('catalog.customDescription')}
-                      </Text>
-                    </YStack>
-                  </XStack>
-                </Pressable>
-
-                {longListReady &&
-                  filteredManifests.map((manifest) => (
-                    <PracticeCard
-                      key={manifest.id}
-                      manifest={manifest}
-                      inPlan={enabledManifestIds.has(manifest.id)}
-                      onPress={() =>
-                        router.push({
-                          pathname: '/practices/[manifestId]',
-                          params: { manifestId: manifest.id },
-                        })
-                      }
-                    />
-                  ))}
-
-                {filteredManifests.length === 0 && (
-                  <YStack
-                    alignItems="center"
-                    gap="$sm"
-                    paddingVertical="$xl"
-                    paddingHorizontal="$lg"
-                  >
-                    <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
-                      {t('catalog.noResults')}
-                    </Text>
-                    <Text
-                      fontFamily="$body"
-                      fontSize="$2"
-                      color="$colorSecondary"
-                      textAlign="center"
-                      fontStyle="italic"
-                    >
-                      {t('catalog.noResultsDescription')}
-                    </Text>
-                    {(activeCategory || pinnedOnly) && (
-                      <Pressable
-                        onPress={() => {
-                          setActiveCategory(undefined)
-                          setPinnedOnly(false)
-                        }}
-                        hitSlop={8}
-                        accessibilityRole="button"
-                        accessibilityLabel={t('catalog.clearFilters')}
-                      >
-                        <Text
-                          fontFamily="$heading"
-                          fontSize="$2"
-                          color="$accent"
-                          paddingVertical="$sm"
-                          paddingHorizontal="$md"
-                        >
-                          {t('catalog.clearFilters')}
-                        </Text>
-                      </Pressable>
-                    )}
-                  </YStack>
-                )}
-              </YStack>
-            </>
-          )}
-        </YStack>
+      <ScreenLayout scroll={false}>
+        <FlatList
+          data={isSearching ? [] : filteredManifests}
+          renderItem={renderItem}
+          keyExtractor={keyExtractor}
+          ListHeaderComponent={Header}
+          ListEmptyComponent={Empty}
+          initialNumToRender={10}
+          windowSize={5}
+          removeClippedSubviews
+          keyboardShouldPersistTaps="handled"
+        />
 
         <Modal
           visible={showEditor}
