@@ -5,7 +5,9 @@
     "en-US": "Example: Bilingual Prayer with Rubric",
     "pt-BR": "Exemplo: Oração Bilíngue com Rubrica"
   },
-  "categories": ["devotional"],
+  "categories": [
+    "devotion"
+  ],
   "estimatedMinutes": 1,
   "description": {
     "en-US": "Demonstrates rubrics, multilingual text, and a versicle/response pattern.",
@@ -14,5 +16,7 @@
   "flowMode": "scroll",
   "completion": "manual",
   "flow": "flow.json",
-  "defaults": { "sortOrder": 999 }
+  "defaults": {
+    "sortOrder": 999
+  }
 }

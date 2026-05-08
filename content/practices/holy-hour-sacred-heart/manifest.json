@@ -5,7 +5,11 @@
     "en-US": "Holy Hour of the Sacred Heart",
     "pt-BR": "Hora Santa do Sagrado Coração"
   },
-  "categories": ["devotion", "sacred-heart", "adoration"],
+  "categories": [
+    "devotion",
+    "sacred-heart",
+    "adoration"
+  ],
   "estimatedMinutes": 60,
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -22,7 +26,13 @@
     "en-US": "Spend one hour before the Blessed Sacrament, either exposed or in the tabernacle. Follow the guided prayers, pausing at the meditation sections for personal reflection. The hour is divided into five movements: Adoration, Thanksgiving, Reparation, Intercession, and Communion of Heart. You may adapt the pace to your needs — lingering longer in silent prayer where the Spirit leads.",
     "pt-BR": "Passe uma hora diante do Santíssimo Sacramento, exposto ou no tabernáculo. Siga as orações guiadas, fazendo pausas nas seções de meditação para reflexão pessoal. A hora é dividida em cinco movimentos: Adoração, Ação de Graças, Reparação, Intercessão e Comunhão de Coração. Você pode adaptar o ritmo às suas necessidades — demorando-se mais na oração silenciosa onde o Espírito guiar."
   },
-  "tags": ["sacred-heart", "holy-hour", "adoration", "reparation", "eucharist"],
+  "tags": [
+    "sacred-heart",
+    "holy-hour",
+    "adoration",
+    "reparation",
+    "eucharistic"
+  ],
   "defaults": {
     "sortOrder": 11,
     "slots": [

@@ -4,7 +4,10 @@
   "name": {
     "en-US": "Office of the Dead"
   },
-  "categories": ["liturgy", "intercession"],
+  "categories": [
+    "liturgical",
+    "intercession"
+  ],
   "estimatedMinutes": 15,
   "description": {
     "en-US": "The Office of the Dead — Mattins and Evensong — prayed for the faithful departed. A traditional devotion with fixed psalms, antiphons, and lessons, offered in suffrage for the souls in Purgatory."
@@ -19,7 +22,14 @@
   "completion": "flow-end",
   "theme": "office",
   "flow": "flow.json",
-  "tags": ["office", "breviary", "ordinariate", "dead", "all-souls", "purgatory"],
+  "tags": [
+    "office",
+    "breviary",
+    "ordinariate",
+    "dead",
+    "all-souls",
+    "purgatory"
+  ],
   "defaults": {
     "sortOrder": 19,
     "slots": []

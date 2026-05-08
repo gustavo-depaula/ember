@@ -4,7 +4,9 @@
   "name": {
     "en-US": "Daily Office (DWDO)"
   },
-  "categories": ["liturgy"],
+  "categories": [
+    "liturgical"
+  ],
   "estimatedMinutes": 20,
   "description": {
     "en-US": "The Divine Worship: Daily Office — the Anglican Ordinariate's breviary, drawing on the Coverdale Psalter, Cranmer's collects, and the 1961 Table of Lessons. Three hours: Mattins, Evensong, and Compline."
@@ -26,12 +28,20 @@
   "completion": "flow-end",
   "theme": "office",
   "flow": "flow.json",
-  "tags": ["office", "breviary", "ordinariate", "bcp", "anglican-patrimony"],
+  "tags": [
+    "office",
+    "breviary",
+    "ordinariate",
+    "bcp",
+    "anglican-patrimony"
+  ],
   "defaults": {
     "sortOrder": 18,
     "slots": [
       {
-        "schedule": { "type": "daily" },
+        "schedule": {
+          "type": "daily"
+        },
         "tier": "essential",
         "enabled": false
       }

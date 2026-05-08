@@ -5,7 +5,9 @@
     "en-US": "Example: Rosary with Macros",
     "pt-BR": "Exemplo: Rosário com Macros"
   },
-  "categories": ["devotional"],
+  "categories": [
+    "devotion"
+  ],
   "estimatedMinutes": 20,
   "description": {
     "en-US": "Demonstrates macros: the Rosary's decade structure is defined ONCE as a fragment, then called five times with different mystery args. This collapses what would otherwise be 20+ inlined copies.",
@@ -14,5 +16,7 @@
   "flowMode": "scroll",
   "completion": "manual",
   "flow": "flow.json",
-  "defaults": { "sortOrder": 999 }
+  "defaults": {
+    "sortOrder": 999
+  }
 }

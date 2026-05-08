@@ -50,6 +50,14 @@ export function getRememberedManifest<T>(hash: string): T | undefined {
   return manifestBodies.get(hash) as T | undefined
 }
 
+/** Reset everything — used by tests. */
+export function resetContentIndex(): void {
+  catalog = { version: 2, generated: '', items: {} }
+  staticOverrides.clear()
+  manifestBodies.clear()
+  memberOfCache = undefined
+}
+
 // --- Lookups ---
 
 export function getEntry(id: string): CatalogEntry | undefined {
@@ -130,4 +138,35 @@ export function getCollectionItems(collectionId: string): { ref: string; entry?:
   const body = getRememberedManifest<CollectionItemManifest>(collEntry.hash)
   if (!body) return []
   return body.items.map((it) => ({ ref: it.ref, entry: getEntry(it.ref) }))
+}
+
+/**
+ * Reverse index: for any item id, list the collections that reference it.
+ * Lazily computed on first call from resident collection manifests.
+ */
+let memberOfCache: Map<string, string[]> | undefined
+
+export function invalidateMemberOfIndex(): void {
+  memberOfCache = undefined
+}
+
+function ensureMemberOfIndex(): Map<string, string[]> {
+  if (memberOfCache) return memberOfCache
+  const out = new Map<string, string[]>()
+  for (const [collectionId, entry] of getEntriesByKind('collection')) {
+    const body = getRememberedManifest<CollectionItemManifest>(entry.hash)
+    if (!body) continue
+    for (const item of body.items ?? []) {
+      const list = out.get(item.ref)
+      if (list) list.push(collectionId)
+      else out.set(item.ref, [collectionId])
+    }
+  }
+  memberOfCache = out
+  return out
+}
+
+/** Returns the collection ids that reference `itemId`, or [] if none. */
+export function getCollectionsForItem(itemId: string): string[] {
+  return ensureMemberOfIndex().get(itemId) ?? []
 }

@@ -8,6 +8,12 @@ import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 import { PageHeader, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import {
+  getCollectionItems,
+  getCollectionsForItem,
+  getEntriesByKind,
+  getEntry,
+} from '@/content/contentIndex'
+import {
   getAllManifests,
   getManifestCategories,
   getManifestIconKey,
@@ -102,6 +108,19 @@ function PracticeCard({
   const description = manifest.description ? localizeContent(manifest.description) : ''
   const snippet = description.length > 100 ? `${description.slice(0, 100)}...` : description
 
+  // v2-unlocked: surface collection membership on the card.
+  const collectionLabels = useMemo(() => {
+    const collectionIds = getCollectionsForItem(manifest.id)
+    return collectionIds
+      .map((cid) => {
+        const entry = getEntry(cid)
+        if (!entry?.name) return undefined
+        return localizeContent(entry.name as Record<string, string>)
+      })
+      .filter((s): s is string => !!s)
+      .slice(0, 2)
+  }, [manifest.id])
+
   return (
     <Pressable
       onPress={onPress}
@@ -127,7 +146,7 @@ function PracticeCard({
               {snippet}
             </Text>
           )}
-          <XStack gap="$sm" alignItems="center" marginTop={2}>
+          <XStack gap="$sm" alignItems="center" marginTop={2} flexWrap="wrap">
             {manifest.program ? (
               <Text fontFamily="$body" fontSize="$1" color="$accent">
                 {t('program.durationDays', { count: manifest.program.totalDays })}
@@ -144,6 +163,11 @@ function PracticeCard({
                 {t('catalog.alreadyInPlan')}
               </Text>
             )}
+            {collectionLabels.map((label) => (
+              <Text key={label} fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                · {label}
+              </Text>
+            ))}
           </XStack>
         </YStack>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
@@ -168,8 +192,22 @@ export default function PracticeCatalogScreen() {
 
   const [searchQuery, setSearchQuery] = useState('')
   const [activeCategory, setActiveCategory] = useState<string | undefined>()
+  const [activeCollectionId, setActiveCollectionId] = useState<string | undefined>()
   const [showEditor, setShowEditor] = useState(false)
   const createPractice = useCreatePractice()
+
+  // v2-unlocked: collections are first-class corpus items. Surface them as
+  // a filter axis above the legacy category chips.
+  const collectionFilters = useMemo(() => {
+    const out: { id: string; label: string }[] = []
+    for (const [id, entry] of getEntriesByKind('collection')) {
+      // Skip the synthetic starter / system collections from filtering UX.
+      if (id === 'collection/starter') continue
+      const label = entry.name ? localizeContent(entry.name as Record<string, string>) : id
+      out.push({ id, label })
+    }
+    return out.sort((a, b) => a.label.localeCompare(b.label))
+  }, [])
 
   function handleSave(data: PracticeFormData) {
     createPractice.mutate({
@@ -200,11 +238,19 @@ export default function PracticeCatalogScreen() {
     } else {
       results = getAllManifests()
     }
+    if (activeCollectionId) {
+      const inCollection = new Set(
+        getCollectionItems(activeCollectionId)
+          .filter((it) => it.entry?.kind === 'practice')
+          .map((it) => it.ref),
+      )
+      results = results.filter((m) => inCollection.has(m.id))
+    }
     if (activeCategory) {
       results = results.filter((m) => m.categories.includes(activeCategory))
     }
     return results
-  }, [searchQuery, activeCategory])
+  }, [searchQuery, activeCategory, activeCollectionId])
 
   return (
     <ScreenLayout>
@@ -234,6 +280,28 @@ export default function PracticeCatalogScreen() {
             paddingHorizontal={0}
           />
         </XStack>
+
+        {collectionFilters.length > 0 && (
+          <ScrollView
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={{ gap: 8 }}
+          >
+            <CategoryChip
+              label={t('catalog.all')}
+              isActive={!activeCollectionId}
+              onPress={() => setActiveCollectionId(undefined)}
+            />
+            {collectionFilters.map((c) => (
+              <CategoryChip
+                key={c.id}
+                label={c.label}
+                isActive={activeCollectionId === c.id}
+                onPress={() => setActiveCollectionId((prev) => (prev === c.id ? undefined : c.id))}
+              />
+            ))}
+          </ScrollView>
+        )}
 
         <CategoryChips
           categories={categories}
@@ -298,11 +366,12 @@ export default function PracticeCatalogScreen() {
               >
                 {t('catalog.noResultsDescription')}
               </Text>
-              {(searchQuery.trim() || activeCategory) && (
+              {(searchQuery.trim() || activeCategory || activeCollectionId) && (
                 <Pressable
                   onPress={() => {
                     setSearchQuery('')
                     setActiveCategory(undefined)
+                    setActiveCollectionId(undefined)
                   }}
                   hitSlop={8}
                   accessibilityRole="button"

@@ -22,6 +22,7 @@ import {
   getEntry,
   getRememberedManifest,
   search as indexSearch,
+  invalidateMemberOfIndex,
   rememberManifestBody,
   setCatalog,
 } from './contentIndex'
@@ -35,6 +36,7 @@ import type {
   PracticeItemManifest,
   PrayerItemManifest,
 } from './manifestTypes'
+import { mergeLangs } from './mergeLangs'
 import { getJson } from './store'
 import type {
   CycleData,
@@ -136,6 +138,7 @@ export async function warmResidentManifests(opts?: {
       opts?.onProgress?.(done, tasks.length)
     }
   }
+  invalidateMemberOfIndex()
   await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, worker))
 }
 
@@ -500,42 +503,6 @@ export async function loadMassProper(
       .map(async (l) => [l, await getJson<unknown>(item!.langs[l].hash)] as const),
   )
   return mergeLangs(shape, Object.fromEntries(langPayloads))
-}
-
-function mergeLangs(shape: unknown, payloads: Record<string, unknown>): unknown {
-  // For each non-shape value (i.e. shape was `null`), use the lang payload's value.
-  // Reconstruct a multilingual map by walking shape and payloads in parallel.
-  if (shape === null) {
-    const merged: Record<string, unknown> = {}
-    for (const [lang, payload] of Object.entries(payloads)) {
-      if (payload !== null && payload !== undefined) merged[lang] = payload
-    }
-    return merged
-  }
-  if (Array.isArray(shape)) {
-    return shape.map((v, i) =>
-      mergeLangs(
-        v,
-        Object.fromEntries(Object.entries(payloads).map(([l, p]) => [l, (p as unknown[])?.[i]])),
-      ),
-    )
-  }
-  if (shape && typeof shape === 'object') {
-    const out: Record<string, unknown> = {}
-    for (const k of Object.keys(shape)) {
-      out[k] = mergeLangs(
-        (shape as Record<string, unknown>)[k],
-        Object.fromEntries(
-          Object.entries(payloads).map(([l, p]) => [
-            l,
-            (p as Record<string, unknown> | null | undefined)?.[k],
-          ]),
-        ),
-      )
-    }
-    return out
-  }
-  return shape
 }
 
 // --- Library-scoped lookups (kept for back-compat; ignore libraryId) ---

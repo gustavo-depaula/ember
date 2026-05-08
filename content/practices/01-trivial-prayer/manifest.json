@@ -5,7 +5,9 @@
     "en-US": "Example: Trivial Prayer",
     "pt-BR": "Exemplo: Oração Simples"
   },
-  "categories": ["devotional"],
+  "categories": [
+    "devotion"
+  ],
   "estimatedMinutes": 1,
   "description": {
     "en-US": "The simplest possible practice — one heading and one prayer body. Copy this when adding a single short prayer.",
@@ -14,5 +16,7 @@
   "flowMode": "scroll",
   "completion": "manual",
   "flow": "flow.json",
-  "defaults": { "sortOrder": 999 }
+  "defaults": {
+    "sortOrder": 999
+  }
 }
