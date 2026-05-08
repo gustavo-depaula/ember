@@ -30,7 +30,6 @@ export type FlagMode = 'paragraph' | 'selection'
 
 export type Issue = {
   id: string
-  libraryId: string
   bookId: string
   chapterId: string
   type: IssueType

@@ -17,7 +17,6 @@ export type SelectionTarget = {
 const noopRef = () => {}
 
 export function LanguageColumns({
-  libraryId,
   bookId,
   chapterId,
   languages,
@@ -26,7 +25,6 @@ export function LanguageColumns({
   onFlagParagraph,
   onFlagSelection,
 }: {
-  libraryId: string
   bookId: string
   chapterId: string | undefined
   languages: string[]
@@ -123,7 +121,6 @@ export function LanguageColumns({
       {languages.map((lang) => (
         <ChapterColumn
           key={lang}
-          libraryId={libraryId}
           bookId={bookId}
           chapterId={chapterId}
           lang={lang}

@@ -9,34 +9,25 @@ import styles from './PracticeEditor.module.css'
 
 type EditorView = 'manifest' | 'flow' | 'preview'
 
-export function PracticeEditor({
-  libraryId,
-  practiceId,
-  tabId,
-}: {
-  libraryId: string
-  practiceId: string
-  tabId: string
-}) {
+export function PracticeEditor({ practiceId, tabId }: { practiceId: string; tabId: string }) {
   const [view, setView] = useState<EditorView>('manifest')
   const markDirty = useWorkspace((s) => s.markDirty)
   const queryClient = useQueryClient()
 
   const { data: manifest, isLoading: manifestLoading } = useQuery({
-    queryKey: ['manifest', libraryId, practiceId],
-    queryFn: () => api.getManifest(libraryId, practiceId),
+    queryKey: ['manifest', practiceId],
+    queryFn: () => api.getManifest(practiceId),
   })
 
   const { data: flow, isLoading: flowLoading } = useQuery({
-    queryKey: ['flow', libraryId, practiceId],
-    queryFn: () => api.getFlow(libraryId, practiceId),
+    queryKey: ['flow', practiceId],
+    queryFn: () => api.getFlow(practiceId),
   })
 
   const [localManifest, setLocalManifest] = useState<PracticeManifest | undefined>()
   const [localFlow, setLocalFlow] = useState<FlowDefinition | undefined>()
   const dirty = useRef(false)
 
-  // Sync from server data — reset local state when query data changes (initial load + post-save refetch)
   useEffect(() => {
     if (manifest) {
       setLocalManifest(manifest)
@@ -72,17 +63,17 @@ export function PracticeEditor({
   )
 
   const saveManifestMut = useMutation({
-    mutationFn: (m: PracticeManifest) => api.saveManifest(libraryId, practiceId, m),
+    mutationFn: (m: PracticeManifest) => api.saveManifest(practiceId, m),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['manifest', libraryId, practiceId] })
-      queryClient.invalidateQueries({ queryKey: ['library', libraryId] })
+      queryClient.invalidateQueries({ queryKey: ['manifest', practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['practices'] })
     },
   })
 
   const saveFlowMut = useMutation({
-    mutationFn: (f: FlowDefinition) => api.saveFlow(libraryId, practiceId, f),
+    mutationFn: (f: FlowDefinition) => api.saveFlow(practiceId, f),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['flow', libraryId, practiceId] })
+      queryClient.invalidateQueries({ queryKey: ['flow', practiceId] })
     },
   })
 
@@ -152,7 +143,6 @@ export function PracticeEditor({
         )}
         {(view === 'flow' || view === 'preview') && localFlow && (
           <FlowEditor
-            libraryId={libraryId}
             flow={localFlow}
             onChange={handleFlowChange}
             showPreview={view === 'preview'}

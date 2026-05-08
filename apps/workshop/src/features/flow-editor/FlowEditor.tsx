@@ -7,12 +7,10 @@ import { FlowPreview } from './FlowPreview'
 import { FlowTree } from './FlowTree'
 
 export function FlowEditor({
-  libraryId,
   flow,
   onChange,
   showPreview,
 }: {
-  libraryId: string
   flow: FlowDefinition
   onChange: (f: FlowDefinition) => void
   showPreview: boolean
@@ -155,7 +153,7 @@ export function FlowEditor({
 
       {showPreview && (
         <div className={styles.previewPane}>
-          <FlowPreview libraryId={libraryId} flow={flow} />
+          <FlowPreview flow={flow} />
         </div>
       )}
     </div>

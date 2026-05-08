@@ -6,51 +6,48 @@ export type EntityRef =
   | { type: 'prayer'; id: string }
   | { type: 'book'; id: string }
   | { type: 'chapter'; id: string }
+  | { type: 'collection'; id: string }
   | { type: 'translation-review'; id: string }
 
 export type EditorTab = {
   id: string
-  libraryId: string
   entity: EntityRef
   label: string
   dirty: boolean
 }
 
+export type SidebarView = 'kind' | 'collection'
+
 type WorkspaceState = {
-  selectedLibrary: string | undefined
   activeTabId: string | undefined
   tabs: EditorTab[]
+  sidebarView: SidebarView
 }
 
 type WorkspaceActions = {
-  selectLibrary: (id: string | undefined) => void
-  openTab: (libraryId: string, entity: EntityRef, label: string) => void
+  openTab: (entity: EntityRef, label: string) => void
   closeTab: (tabId: string) => void
   setActiveTab: (tabId: string) => void
   markDirty: (tabId: string, dirty: boolean) => void
+  setSidebarView: (view: SidebarView) => void
 }
 
-function makeTabId(libraryId: string, entity: EntityRef): string {
-  return `${libraryId}:${entity.type}:${entity.id}`
+function makeTabId(entity: EntityRef): string {
+  return `${entity.type}:${entity.id}`
 }
 
 export const useWorkspace = create<WorkspaceState & WorkspaceActions>()(
   immer((set) => ({
-    selectedLibrary: undefined,
     activeTabId: undefined,
     tabs: [],
+    sidebarView: 'kind',
 
-    selectLibrary: (id) =>
+    openTab: (entity, label) =>
       set((s) => {
-        s.selectedLibrary = id
-      }),
-
-    openTab: (libraryId, entity, label) =>
-      set((s) => {
-        const tabId = makeTabId(libraryId, entity)
+        const tabId = makeTabId(entity)
         const existing = s.tabs.find((t) => t.id === tabId)
         if (!existing) {
-          s.tabs.push({ id: tabId, libraryId, entity, label, dirty: false })
+          s.tabs.push({ id: tabId, entity, label, dirty: false })
         }
         s.activeTabId = tabId
       }),
@@ -74,6 +71,11 @@ export const useWorkspace = create<WorkspaceState & WorkspaceActions>()(
       set((s) => {
         const tab = s.tabs.find((t) => t.id === tabId)
         if (tab && tab.dirty !== dirty) tab.dirty = dirty
+      }),
+
+    setSidebarView: (view) =>
+      set((s) => {
+        s.sidebarView = view
       }),
   })),
 )

@@ -1,8 +1,8 @@
 import type {
   BookManifest,
+  ChapterManifest,
+  CollectionManifest,
   FlowDefinition,
-  LibraryDetail,
-  LibraryManifest,
   PracticeManifest,
   PrayerAsset,
 } from '@/types/content'
@@ -16,127 +16,137 @@ async function apiFetch<T>(url: string, options?: RequestInit): Promise<T> {
   return res.json() as Promise<T>
 }
 
-// --- Read operations ---
+// ── Practices ──
 
-export function listLibraries(): Promise<LibraryManifest[]> {
-  return apiFetch('/api/libraries')
+export function listPractices(): Promise<PracticeManifest[]> {
+  return apiFetch('/api/practices')
 }
 
-export function getLibrary(id: string): Promise<LibraryDetail> {
-  return apiFetch(`/api/libraries/${id}`)
+export function getManifest(practiceId: string): Promise<PracticeManifest> {
+  return apiFetch(`/api/practices/${practiceId}/manifest`)
 }
 
-export function getManifest(libraryId: string, practiceId: string): Promise<PracticeManifest> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/manifest`)
-}
-
-export function getFlow(libraryId: string, practiceId: string): Promise<FlowDefinition> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/flow`)
-}
-
-export function getPrayer(libraryId: string, prayerId: string): Promise<PrayerAsset> {
-  return apiFetch(`/api/libraries/${libraryId}/prayers/${prayerId}`)
-}
-
-export function getBook(libraryId: string, bookId: string): Promise<BookManifest> {
-  return apiFetch(`/api/libraries/${libraryId}/books/${bookId}`)
-}
-
-export function getBookChapter(
-  libraryId: string,
-  bookId: string,
-  chapterId: string,
-  lang: string,
-): Promise<{ text: string; format: string }> {
-  return apiFetch(`/api/libraries/${libraryId}/books/${bookId}/chapters/${chapterId}/${lang}`)
-}
-
-export function getPracticeData(
-  libraryId: string,
-  practiceId: string,
-  dataFile: string,
-): Promise<unknown> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/data/${dataFile}`)
-}
-
-export function getTracks(libraryId: string, practiceId: string): Promise<Record<string, unknown>> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/tracks`)
-}
-
-// --- Write operations ---
-
-export function saveManifest(
-  libraryId: string,
-  practiceId: string,
-  manifest: PracticeManifest,
-): Promise<void> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/manifest`, {
+export function saveManifest(practiceId: string, manifest: PracticeManifest): Promise<void> {
+  return apiFetch(`/api/practices/${practiceId}/manifest`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(manifest),
   })
 }
 
-export function saveFlow(
-  libraryId: string,
-  practiceId: string,
-  flow: FlowDefinition,
-): Promise<void> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/flow`, {
+export function getFlow(practiceId: string): Promise<FlowDefinition> {
+  return apiFetch(`/api/practices/${practiceId}/flow`)
+}
+
+export function saveFlow(practiceId: string, flow: FlowDefinition): Promise<void> {
+  return apiFetch(`/api/practices/${practiceId}/flow`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(flow),
   })
 }
 
-export function savePrayer(
-  libraryId: string,
-  prayerId: string,
-  prayer: PrayerAsset,
-): Promise<void> {
-  return apiFetch(`/api/libraries/${libraryId}/prayers/${prayerId}`, {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(prayer),
-  })
+export function getPracticeData(practiceId: string, dataFile: string): Promise<unknown> {
+  return apiFetch(`/api/practices/${practiceId}/data/${dataFile}`)
 }
 
-export function saveLibrary(libraryId: string, manifest: LibraryManifest): Promise<void> {
-  return apiFetch(`/api/libraries/${libraryId}`, {
-    method: 'PUT',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(manifest),
-  })
+export function getTracks(practiceId: string): Promise<Record<string, unknown>> {
+  return apiFetch(`/api/practices/${practiceId}/tracks`)
 }
 
-export function saveTracks(
-  libraryId: string,
-  practiceId: string,
-  tracks: Record<string, unknown>,
-): Promise<void> {
-  return apiFetch(`/api/libraries/${libraryId}/practices/${practiceId}/tracks`, {
+export function saveTracks(practiceId: string, tracks: Record<string, unknown>): Promise<void> {
+  return apiFetch(`/api/practices/${practiceId}/tracks`, {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(tracks),
   })
 }
 
-// --- Create operations ---
-
 export function createPractice(
-  libraryId: string,
   id: string,
-  options?: { fromLibrary?: string; fromPractice?: string },
+  options?: { fromPractice?: string },
 ): Promise<{ ok: boolean; id: string }> {
-  return apiFetch(`/api/libraries/${libraryId}/practices`, {
+  return apiFetch('/api/practices', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ id, ...options }),
   })
 }
 
-export function createPrayer(libraryId: string, id: string): Promise<{ ok: boolean; id: string }> {
-  return apiFetch(`/api/libraries/${libraryId}/prayers`, {
+// ── Prayers ──
+
+export function listPrayers(): Promise<PrayerAsset[]> {
+  return apiFetch('/api/prayers')
+}
+
+export function getPrayer(prayerId: string): Promise<PrayerAsset> {
+  return apiFetch(`/api/prayers/${prayerId}`)
+}
+
+export function savePrayer(prayerId: string, prayer: PrayerAsset): Promise<void> {
+  return apiFetch(`/api/prayers/${prayerId}`, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(prayer),
+  })
+}
+
+export function createPrayer(id: string): Promise<{ ok: boolean; id: string }> {
+  return apiFetch('/api/prayers', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ id }),
+  })
+}
+
+// ── Books ──
+
+export function listBooks(): Promise<BookManifest[]> {
+  return apiFetch('/api/books')
+}
+
+export function getBook(bookId: string): Promise<BookManifest> {
+  return apiFetch(`/api/books/${bookId}`)
+}
+
+export function getBookChapter(
+  bookId: string,
+  chapterId: string,
+  lang: string,
+): Promise<{ text: string; format: string }> {
+  return apiFetch(`/api/books/${bookId}/chapters/${chapterId}/${lang}`)
+}
+
+// ── Chapters (standalone) ──
+
+export function listChapters(): Promise<ChapterManifest[]> {
+  return apiFetch('/api/chapters')
+}
+
+export function getChapter(chapterId: string): Promise<ChapterManifest> {
+  return apiFetch(`/api/chapters/${chapterId}`)
+}
+
+// ── Collections ──
+
+export function listCollections(): Promise<CollectionManifest[]> {
+  return apiFetch('/api/collections')
+}
+
+export function getCollection(collectionId: string): Promise<CollectionManifest> {
+  return apiFetch(`/api/collections/${collectionId}`)
+}
+
+export function saveCollection(collectionId: string, manifest: CollectionManifest): Promise<void> {
+  return apiFetch(`/api/collections/${collectionId}`, {
+    method: 'PUT',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(manifest),
+  })
+}
+
+export function createCollection(id: string): Promise<{ ok: boolean; id: string }> {
+  return apiFetch('/api/collections', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ id }),

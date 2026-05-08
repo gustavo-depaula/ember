@@ -11,7 +11,7 @@ type ReviewActions = {
   add: (draft: IssueDraft) => Issue
   update: (id: string, patch: Partial<IssueDraft>) => void
   remove: (id: string) => void
-  clearForBook: (libraryId: string, bookId: string) => void
+  clearForBook: (bookId: string) => void
 }
 
 export const useReviewStore = create<ReviewState & ReviewActions>()(
@@ -42,25 +42,26 @@ export const useReviewStore = create<ReviewState & ReviewActions>()(
         set({ issues: get().issues.filter((i) => i.id !== id) })
       },
 
-      clearForBook: (libraryId, bookId) => {
+      clearForBook: (bookId) => {
         set({
-          issues: get().issues.filter((i) => !(i.libraryId === libraryId && i.bookId === bookId)),
+          issues: get().issues.filter((i) => i.bookId !== bookId),
         })
       },
     }),
     {
       name: 'ember-translation-review',
-      version: 1,
+      version: 2,
+      migrate: () => ({ issues: [] }),
     },
   ),
 )
 
 const emptyIssues: Issue[] = []
 
-export function useIssuesForBook(libraryId: string | undefined, bookId: string | undefined) {
+export function useIssuesForBook(bookId: string | undefined) {
   const issues = useReviewStore((s) => s.issues)
   return useMemo(() => {
-    if (!libraryId || !bookId) return emptyIssues
-    return issues.filter((i) => i.libraryId === libraryId && i.bookId === bookId)
-  }, [issues, libraryId, bookId])
+    if (!bookId) return emptyIssues
+    return issues.filter((i) => i.bookId === bookId)
+  }, [issues, bookId])
 }

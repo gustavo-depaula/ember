@@ -20,7 +20,6 @@ function annotateBlocks(html: string, lang: string): string {
 }
 
 export function ChapterColumn({
-  libraryId,
   bookId,
   chapterId,
   lang,
@@ -28,7 +27,6 @@ export function ChapterColumn({
   scrollRef,
   onScroll,
 }: {
-  libraryId: string
   bookId: string
   chapterId: string | undefined
   lang: string
@@ -37,8 +35,8 @@ export function ChapterColumn({
   onScroll: (lang: string, scrollTop: number) => void
 }) {
   const { data, isLoading, error, refetch, isFetching } = useQuery({
-    queryKey: ['translation-review-chapter', libraryId, bookId, chapterId, lang],
-    queryFn: () => api.getBookChapter(libraryId, bookId, chapterId as string, lang),
+    queryKey: ['translation-review-chapter', bookId, chapterId, lang],
+    queryFn: () => api.getBookChapter(bookId, chapterId as string, lang),
     enabled: Boolean(chapterId),
     retry: 2,
     staleTime: 0,

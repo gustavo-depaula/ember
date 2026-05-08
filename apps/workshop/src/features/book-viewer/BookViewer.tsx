@@ -7,10 +7,10 @@ import { useWorkspace } from '@/stores/workspace'
 import type { TocNode } from '@/types/content'
 import styles from './BookViewer.module.css'
 
-export function BookViewer({ libraryId, bookId }: { libraryId: string; bookId: string }) {
+export function BookViewer({ bookId }: { bookId: string }) {
   const { data: book, isLoading } = useQuery({
-    queryKey: ['book', libraryId, bookId],
-    queryFn: () => api.getBook(libraryId, bookId),
+    queryKey: ['book', bookId],
+    queryFn: () => api.getBook(bookId),
   })
 
   const [selectedChapter, setSelectedChapter] = useState<string | undefined>()
@@ -47,7 +47,6 @@ export function BookViewer({ libraryId, bookId }: { libraryId: string; bookId: s
                   useWorkspace
                     .getState()
                     .openTab(
-                      libraryId,
                       { type: 'translation-review', id: bookId },
                       `Review: ${loc(book.name) || bookId}`,
                     )
@@ -75,12 +74,7 @@ export function BookViewer({ libraryId, bookId }: { libraryId: string; bookId: s
 
       <div className={styles.chapterPane}>
         {selectedChapter ? (
-          <ChapterView
-            libraryId={libraryId}
-            bookId={bookId}
-            chapterId={selectedChapter}
-            lang={viewLang}
-          />
+          <ChapterView bookId={bookId} chapterId={selectedChapter} lang={viewLang} />
         ) : (
           <div className={styles.placeholder}>
             <p>Select a chapter from the table of contents.</p>
@@ -133,19 +127,17 @@ function TocItem({
 }
 
 function ChapterView({
-  libraryId,
   bookId,
   chapterId,
   lang,
 }: {
-  libraryId: string
   bookId: string
   chapterId: string
   lang: string
 }) {
   const { data, isLoading, error } = useQuery({
-    queryKey: ['bookChapter', libraryId, bookId, chapterId, lang],
-    queryFn: () => api.getBookChapter(libraryId, bookId, chapterId, lang),
+    queryKey: ['bookChapter', bookId, chapterId, lang],
+    queryFn: () => api.getBookChapter(bookId, chapterId, lang),
     retry: 2,
     staleTime: 0,
   })

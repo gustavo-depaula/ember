@@ -1,4 +1,5 @@
-import { BookViewer } from '@/features/library-manager/BookViewer'
+import { BookViewer } from '@/features/book-viewer/BookViewer'
+import { CollectionEditor } from '@/features/collection-editor/CollectionEditor'
 import { PracticeEditor } from '@/features/practice-editor/PracticeEditor'
 import { PrayerEditor } from '@/features/practice-editor/PrayerEditor'
 import { TranslationReview } from '@/features/translation-review/TranslationReview'
@@ -10,34 +11,18 @@ export function EditorPane() {
 
   switch (tab.entity.type) {
     case 'practice':
-      return (
-        <PracticeEditor
-          key={tab.id}
-          libraryId={tab.libraryId}
-          practiceId={tab.entity.id}
-          tabId={tab.id}
-        />
-      )
+      return <PracticeEditor key={tab.id} practiceId={tab.entity.id} tabId={tab.id} />
     case 'prayer':
-      return (
-        <PrayerEditor
-          key={tab.id}
-          libraryId={tab.libraryId}
-          prayerId={tab.entity.id}
-          tabId={tab.id}
-        />
-      )
+      return <PrayerEditor key={tab.id} prayerId={tab.entity.id} tabId={tab.id} />
     case 'book':
-      return <BookViewer key={tab.id} libraryId={tab.libraryId} bookId={tab.entity.id} />
+      return <BookViewer key={tab.id} bookId={tab.entity.id} />
+    case 'collection':
+      return <CollectionEditor key={tab.id} collectionId={tab.entity.id} tabId={tab.id} />
     case 'translation-review':
       return (
         <TranslationReview
           key={tab.id}
-          initial={
-            tab.libraryId !== '__system' && tab.entity.id !== 'main'
-              ? { libraryId: tab.libraryId, bookId: tab.entity.id }
-              : undefined
-          }
+          initial={tab.entity.id !== 'main' ? { bookId: tab.entity.id } : undefined}
         />
       )
     default:

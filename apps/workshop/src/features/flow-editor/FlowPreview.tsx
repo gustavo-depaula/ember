@@ -12,21 +12,21 @@ import * as api from '@/fs/contentFs'
 import type { FlowDefinition } from '@/types/content'
 import styles from './FlowPreview.module.css'
 
-export function FlowPreview({ libraryId, flow }: { libraryId: string; flow: FlowDefinition }) {
+export function FlowPreview({ flow }: { flow: FlowDefinition }) {
   const [previewDate, setPreviewDate] = useState(() => new Date().toISOString().slice(0, 10))
   const [primaryLang, setPrimaryLang] = useState<'en-US' | 'pt-BR' | 'la'>('en-US')
   const [secondaryLang, setSecondaryLang] = useState<'en-US' | 'pt-BR' | 'la' | 'none'>('pt-BR')
 
-  const { data: lib } = useQuery({
-    queryKey: ['library', libraryId],
-    queryFn: () => api.getLibrary(libraryId),
+  const { data: allPrayers } = useQuery({
+    queryKey: ['prayers'],
+    queryFn: api.listPrayers,
   })
 
   const engineContext = useMemo((): EngineContext | undefined => {
-    if (!lib) return undefined
+    if (!allPrayers) return undefined
 
     const prayerMap = new Map<string, PrayerAsset>()
-    for (const p of lib._prayers) {
+    for (const p of allPrayers) {
       if (!p.id) continue
       prayerMap.set(p.id, {
         title: (p.title ?? {}) as Record<string, string>,
@@ -81,7 +81,7 @@ export function FlowPreview({ libraryId, flow }: { libraryId: string; flow: Flow
       loadBookChapterText: () => undefined,
       getBookChapterTitle: () => undefined,
     } as EngineContext
-  }, [lib, primaryLang, secondaryLang])
+  }, [allPrayers, primaryLang, secondaryLang])
 
   const resolved = useMemo(() => {
     if (!engineContext) return []

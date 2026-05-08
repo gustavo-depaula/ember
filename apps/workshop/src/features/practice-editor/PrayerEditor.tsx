@@ -6,21 +6,13 @@ import { useWorkspace } from '@/stores/workspace'
 import type { LocalizedText, PrayerAsset } from '@/types/content'
 import styles from './PrayerEditor.module.css'
 
-export function PrayerEditor({
-  libraryId,
-  prayerId,
-  tabId,
-}: {
-  libraryId: string
-  prayerId: string
-  tabId: string
-}) {
+export function PrayerEditor({ prayerId, tabId }: { prayerId: string; tabId: string }) {
   const markDirty = useWorkspace((s) => s.markDirty)
   const queryClient = useQueryClient()
 
   const { data: prayer, isLoading } = useQuery({
-    queryKey: ['prayer', libraryId, prayerId],
-    queryFn: () => api.getPrayer(libraryId, prayerId),
+    queryKey: ['prayer', prayerId],
+    queryFn: () => api.getPrayer(prayerId),
   })
 
   const [local, setLocal] = useState<PrayerAsset | undefined>()
@@ -47,10 +39,10 @@ export function PrayerEditor({
   )
 
   const saveMut = useMutation({
-    mutationFn: (p: PrayerAsset) => api.savePrayer(libraryId, prayerId, p),
+    mutationFn: (p: PrayerAsset) => api.savePrayer(prayerId, p),
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ['prayer', libraryId, prayerId] })
-      queryClient.invalidateQueries({ queryKey: ['library', libraryId] })
+      queryClient.invalidateQueries({ queryKey: ['prayer', prayerId] })
+      queryClient.invalidateQueries({ queryKey: ['prayers'] })
     },
   })
 

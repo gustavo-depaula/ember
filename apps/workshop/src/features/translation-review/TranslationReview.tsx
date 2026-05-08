@@ -12,11 +12,7 @@ import { useIssuesForBook, useReviewStore } from './store'
 import styles from './TranslationReview.module.css'
 import type { FlagMode, Issue } from './types'
 
-export function TranslationReview({
-  initial,
-}: {
-  initial?: { libraryId: string; bookId: string }
-}) {
+export function TranslationReview({ initial }: { initial?: { bookId: string } }) {
   const [bookOpt, setBookOpt] = useState<BookOption | undefined>()
   const [chapterId, setChapterId] = useState<string | undefined>()
   const [flagMode, setFlagMode] = useState<FlagMode>('paragraph')
@@ -30,15 +26,14 @@ export function TranslationReview({
 
   const activeIds = bookOpt ?? initial
   const { data: book } = useQuery({
-    queryKey: ['translation-review-book', activeIds?.libraryId, activeIds?.bookId],
-    queryFn: () => api.getBook(activeIds?.libraryId as string, activeIds?.bookId as string),
+    queryKey: ['translation-review-book', activeIds?.bookId],
+    queryFn: () => api.getBook(activeIds?.bookId as string),
     enabled: Boolean(activeIds),
   })
 
   useEffect(() => {
     if (initial && book && !bookOpt) {
       setBookOpt({
-        libraryId: initial.libraryId,
         bookId: initial.bookId,
         label: loc(book.name) || initial.bookId,
         languages: book.languages,
@@ -46,7 +41,7 @@ export function TranslationReview({
     }
   }, [initial, book, bookOpt])
 
-  const issues = useIssuesForBook(bookOpt?.libraryId, bookOpt?.bookId)
+  const issues = useIssuesForBook(bookOpt?.bookId)
   const add = useReviewStore((s) => s.add)
   const update = useReviewStore((s) => s.update)
   const remove = useReviewStore((s) => s.remove)
@@ -82,7 +77,6 @@ export function TranslationReview({
       if (!bookOpt || !chapterId || !book) return
       setEditing(undefined)
       setFormSeed({
-        libraryId: bookOpt.libraryId,
         bookId: bookOpt.bookId,
         chapterId,
         type: 'completeness',
@@ -101,7 +95,6 @@ export function TranslationReview({
       if (!bookOpt || !chapterId || !book) return
       setEditing(undefined)
       setFormSeed({
-        libraryId: bookOpt.libraryId,
         bookId: bookOpt.bookId,
         chapterId,
         type: 'note',
@@ -119,7 +112,6 @@ export function TranslationReview({
     if (!book) return
     setEditing(issue)
     setFormSeed({
-      libraryId: issue.libraryId,
       bookId: issue.bookId,
       chapterId: issue.chapterId,
       type: issue.type,
@@ -135,7 +127,7 @@ export function TranslationReview({
 
   async function handleExport() {
     if (!bookOpt || !book) return
-    const report = buildReport(bookOpt.libraryId, book, issues)
+    const report = buildReport(book, issues)
     try {
       await navigator.clipboard.writeText(report)
       flashCopyState('copied', `Report copied (${report.length.toLocaleString()} chars)`)
@@ -153,7 +145,7 @@ export function TranslationReview({
 
   function handleDownload() {
     if (!bookOpt || !book) return
-    const report = buildReport(bookOpt.libraryId, book, issues)
+    const report = buildReport(book, issues)
     downloadReport(report, `${bookOpt.bookId}-translation-review.md`)
     flashToast('Report downloaded')
   }
@@ -173,14 +165,14 @@ export function TranslationReview({
     if (!bookOpt) return
     if (issues.length === 0) return
     if (!window.confirm(`Delete all ${issues.length} flagged issues for this book?`)) return
-    clearForBook(bookOpt.libraryId, bookOpt.bookId)
+    clearForBook(bookOpt.bookId)
   }
 
   return (
     <div className={styles.root}>
       <div className={styles.toolbar}>
         <BookPicker
-          selected={bookOpt ? { libraryId: bookOpt.libraryId, bookId: bookOpt.bookId } : undefined}
+          selected={bookOpt ? { bookId: bookOpt.bookId } : undefined}
           onSelect={handleSelectBook}
         />
 
@@ -292,7 +284,6 @@ export function TranslationReview({
 
             <div className={styles.main}>
               <LanguageColumns
-                libraryId={activeIds.libraryId}
                 bookId={activeIds.bookId}
                 chapterId={chapterId}
                 languages={visibleLanguages}

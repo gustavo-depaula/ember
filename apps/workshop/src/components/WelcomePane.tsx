@@ -5,10 +5,12 @@ export function WelcomePane() {
     <div className={styles.welcome}>
       <div className={styles.inner}>
         <h2 className={styles.title}>Ember Workshop</h2>
-        <p className={styles.subtitle}>Library Manager & Practice Editor</p>
+        <p className={styles.subtitle}>Corpus Editor</p>
         <div className={styles.hint}>
-          <p>Select a library from the sidebar to browse its contents.</p>
-          <p>Click on a practice, prayer, or book to open it in an editor tab.</p>
+          <p>Browse the sidebar by kind or by collection.</p>
+          <p>
+            Click on a practice, prayer, book, chapter, or collection to open it in an editor tab.
+          </p>
         </div>
         <div className={styles.shortcuts}>
           <div className={styles.shortcut}>

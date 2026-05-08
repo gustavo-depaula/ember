@@ -100,32 +100,22 @@ export type TocNode = {
   children?: TocNode[]
 }
 
-export type ContentEntry = {
-  type: 'chapter' | 'practice' | 'book'
-  id: string
-}
+// Hearth v2: collections are curated reading lists referencing corpus items by id.
+// Source shape on disk: content/collections/<id>.json
+export type CollectionItemRef = { ref: string } // e.g. "practice/rosary", "book/foo"
 
-export type LibraryManifest = {
+export type CollectionManifest = {
   id: string
-  version: string
+  version?: string
   name: LocalizedText
   description?: LocalizedText
-  author?: LocalizedText
+  languages?: string[]
+  tags?: string[]
   icon?: string
   image?: string
-  tags?: string[]
-  languages: string[]
-  practices: string[]
-  prayers: string[]
-  chapters?: string[]
-  books?: string[]
-  contents?: ContentEntry[]
-  defaults?: { autoSeed: boolean }
+  defaults?: { autoSeed?: boolean }
+  items: CollectionItemRef[]
 }
 
-export type LibraryDetail = LibraryManifest & {
-  _practices: PracticeManifest[]
-  _prayers: PrayerAsset[]
-  _books: BookManifest[]
-  _chapters: ChapterManifest[]
-}
+// Sidebar item kinds — five top-level corpus kinds workshop browses.
+export type CorpusKind = 'practice' | 'prayer' | 'book' | 'chapter' | 'collection'

@@ -9,7 +9,6 @@ import {
 } from './types'
 
 export type IssueFormSeed = {
-  libraryId: string
   bookId: string
   chapterId: string
   type: IssueType
@@ -51,7 +50,6 @@ export function IssueForm({
     e.preventDefault()
     if (!note.trim()) return
     onSave({
-      libraryId: seed.libraryId,
       bookId: seed.bookId,
       chapterId: seed.chapterId,
       type,

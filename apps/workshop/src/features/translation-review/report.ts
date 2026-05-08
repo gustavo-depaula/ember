@@ -17,11 +17,11 @@ function escapeCell(text: string): string {
   return text.replace(/\|/g, '\\|').replace(/\n+/g, ' ').trim()
 }
 
-function filePathFor(libraryId: string, bookId: string, lang: string, chapterId: string): string {
-  return `content/libraries/${libraryId}/books/${bookId}/${lang}/${chapterId}.md`
+function filePathFor(bookId: string, lang: string, chapterId: string): string {
+  return `content/books/${bookId}/${lang}/${chapterId}.md`
 }
 
-export function buildReport(libraryId: string, book: BookManifest, issues: Issue[]): string {
+export function buildReport(book: BookManifest, issues: Issue[]): string {
   const order = leafChapterIds(book.toc)
   const titles = chapterTitleMap(book.toc)
   const orderIdx = new Map(order.map((id, idx) => [id, idx]))
@@ -47,7 +47,6 @@ export function buildReport(libraryId: string, book: BookManifest, issues: Issue
   const lines: string[] = []
   lines.push(`# Translation Review — ${bookName}`)
   lines.push('')
-  lines.push(`- Library: \`${libraryId}\``)
   lines.push(`- Book: \`${book.id}\``)
   lines.push(`- Languages: ${langs}`)
   lines.push(`- Issues: ${sorted.length} across ${chaptersTouched} chapter(s)`)
@@ -71,7 +70,7 @@ export function buildReport(libraryId: string, book: BookManifest, issues: Issue
       const chapter = titles.get(issue.chapterId) ?? issue.chapterId
       const langsForFiles = issue.languages.length > 0 ? issue.languages : book.languages
       const files = langsForFiles
-        .map((lang) => `\`${filePathFor(libraryId, book.id, lang, issue.chapterId)}\``)
+        .map((lang) => `\`${filePathFor(book.id, lang, issue.chapterId)}\``)
         .join('<br>')
       const quote = issue.quote
         ? `"${escapeCell(issue.quote.slice(0, 200))}${issue.quote.length > 200 ? '…' : ''}"`
