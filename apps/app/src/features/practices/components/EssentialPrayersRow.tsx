@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { Pressable, ScrollView } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
-import { resolvePrayer } from '@/content/registry'
+import { resolvePrayer } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
 

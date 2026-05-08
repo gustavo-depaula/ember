@@ -15,7 +15,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/registry'
+import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/resolver'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
   enrichSlot,

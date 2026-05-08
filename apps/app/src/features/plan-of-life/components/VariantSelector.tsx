@@ -2,7 +2,7 @@ import { ScrollView } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import type { AlternativeGroup } from '@/content/registry'
+import type { AlternativeGroup } from '@/content/resolver'
 import { lightTap } from '@/lib/haptics'
 
 export function VariantSelector({

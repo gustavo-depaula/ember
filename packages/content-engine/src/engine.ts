@@ -64,7 +64,7 @@ export type EngineContext = {
    * falls back to FlowContext.cycleData[path] for backward compatibility with
    * the existing data declaration mechanism.
    */
-  fetchAsset?: (libraryId: string, path: string) => Promise<unknown>
+  fetchAsset?: (path: string) => Promise<unknown>
   fetchOwnAsset?: (path: string) => Promise<unknown>
 }
 

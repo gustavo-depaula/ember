@@ -24,9 +24,9 @@ export type DataSource = {
  * here implies global state, network access, or arbitrary module imports.
  */
 export type SourceContext = {
-  /** Read a JSON file from a specific installed library's bundled assets. */
-  fetchAsset(libraryId: string, path: string): Promise<unknown>
-  /** Read a JSON file from the library that owns the calling practice. */
+  /** Fetch a JSON asset from the corpus by its asset path. */
+  fetchAsset(path: string): Promise<unknown>
+  /** Read a JSON file from the data declared on the calling practice. */
   fetchOwnAsset(path: string): Promise<unknown>
   /** Engine-provided localization helper. */
   localize(text: LocalizedText): BilingualText

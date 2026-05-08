@@ -13,7 +13,7 @@ import {
   getAlternativeGroup,
   getManifest,
   getManifestIconKey,
-} from '@/content/registry'
+} from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'

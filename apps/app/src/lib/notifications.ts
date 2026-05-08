@@ -1,5 +1,5 @@
 import { Platform } from 'react-native'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { getEnabledSlots, getPractice } from '@/db/repositories'
 import type { NotifyConfig, UserPractice } from '@/db/schema'

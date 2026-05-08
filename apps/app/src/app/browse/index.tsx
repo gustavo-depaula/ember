@@ -5,17 +5,20 @@ import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
-import { useAvailableLibraries, useInstalledLibraries } from '@/features/libraries/hooks'
+import { getCollectionItems, getEntriesByKind, isHiddenCollection } from '@/content/contentIndex'
+import type { CatalogEntry } from '@/content/manifestTypes'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { PinToggle } from '@/features/pinning/PinToggle'
 import { localizeContent } from '@/lib/i18n'
 
-type CollectionSummary = {
+type CollectionRow = {
   id: string
+  bareId: string
   name: Record<string, string>
   practiceCount: number
 }
 
-function CollectionRow({ entry, onPress }: { entry: CollectionSummary; onPress: () => void }) {
+function CollectionRowView({ entry, onPress }: { entry: CollectionRow; onPress: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()
   const subtitle = `${entry.practiceCount} ${t('library.practices').toLowerCase()}`
@@ -46,7 +49,7 @@ function CollectionRow({ entry, onPress }: { entry: CollectionSummary; onPress: 
             backgroundColor="$accentSubtle"
             borderRadius="$md"
           >
-            <Book size={20} color={theme.accent.val} />
+            <Book size={20} color={theme.accent?.val} />
           </YStack>
           <YStack flex={1} gap={2}>
             <Text fontFamily="$heading" fontSize="$3" color="$color">
@@ -61,43 +64,36 @@ function CollectionRow({ entry, onPress }: { entry: CollectionSummary; onPress: 
           </Text>
         </XStack>
       </AnimatedPressable>
-      <PinToggle itemId={`collection/${entry.id}`} />
+      <PinToggle itemId={entry.id} />
     </XStack>
   )
 }
 
-export default function LibraryScreen() {
+function bareId(corpusId: string): string {
+  const slash = corpusId.indexOf('/')
+  return slash === -1 ? corpusId : corpusId.slice(slash + 1)
+}
+
+export default function CollectionsScreen() {
   const { t } = useTranslation()
   const router = useRouter()
+  const catalogVersion = useCatalogVersion()
 
-  // The two hooks together produce the full catalog: installed (pinned)
-  // collections + available (un-pinned) collections. In v2 every collection
-  // is openable regardless of pin state, so we render them as a single list.
-  const { data: installed = [] } = useInstalledLibraries()
-  const { data: available = [] } = useAvailableLibraries()
-
-  const collections = useMemo<CollectionSummary[]>(() => {
-    const merged: CollectionSummary[] = [
-      ...installed.map((row) => {
-        const manifest = JSON.parse(row.manifest) as {
-          name: Record<string, string>
-          practices?: string[]
-        }
-        return {
-          id: row.book_id,
-          name: manifest.name,
-          practiceCount: manifest.practices?.length ?? 0,
-        }
-      }),
-      ...available.map((entry) => ({
-        id: entry.id,
-        name: entry.name,
-        practiceCount: entry.practiceCount,
-      })),
-    ]
-    merged.sort((a, b) => localizeContent(a.name).localeCompare(localizeContent(b.name)))
-    return merged
-  }, [installed, available])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
+  const collections = useMemo<CollectionRow[]>(() => {
+    const out: CollectionRow[] = []
+    for (const [id, entry] of getEntriesByKind('collection')) {
+      if (isHiddenCollection(id)) continue
+      out.push({
+        id,
+        bareId: bareId(id),
+        name: ((entry as CatalogEntry).name ?? { 'en-US': bareId(id) }) as Record<string, string>,
+        practiceCount: getCollectionItems(id).filter((i) => i.entry?.kind === 'practice').length,
+      })
+    }
+    out.sort((a, b) => localizeContent(a.name).localeCompare(localizeContent(b.name)))
+    return out
+  }, [catalogVersion])
 
   return (
     <ScreenLayout>
@@ -122,11 +118,11 @@ export default function LibraryScreen() {
         ) : (
           <YStack gap="$sm">
             {collections.map((c) => (
-              <CollectionRow
+              <CollectionRowView
                 key={c.id}
                 entry={c}
                 onPress={() =>
-                  router.push({ pathname: '/browse/[libraryId]', params: { libraryId: c.id } })
+                  router.push({ pathname: '/browse/[libraryId]', params: { libraryId: c.bareId } })
                 }
               />
             ))}

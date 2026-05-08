@@ -1,4 +1,4 @@
-import { getAllManifests, parseQualifiedId } from '@/content/registry'
+import { getAllManifests } from '@/content/resolver'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
 
@@ -177,7 +177,8 @@ function collectSeedEvents(): AppEvent[] {
 
     // Only seed the primary member of each alternative group
     if (manifest.alternativeTo) {
-      const { practiceId: unqualified } = parseQualifiedId(manifest.id)
+      const slash = manifest.id.indexOf('/')
+      const unqualified = slash === -1 ? manifest.id : manifest.id.slice(slash + 1)
       if (unqualified !== manifest.alternativeTo.id) continue
     }
 

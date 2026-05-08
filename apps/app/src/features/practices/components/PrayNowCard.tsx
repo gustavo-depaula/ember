@@ -6,7 +6,7 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey } from '@/content/registry'
+import { getManifest, getManifestIconKey } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'

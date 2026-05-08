@@ -9,7 +9,7 @@ import { Text, YStack } from 'tamagui'
 import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
-import { resolveCanticle, resolvePrayer } from '@/content/registry'
+import { resolveCanticle, resolvePrayer } from '@/content/resolver'
 import { localizeBilingual } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 

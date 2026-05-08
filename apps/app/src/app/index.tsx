@@ -15,7 +15,7 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
 import {

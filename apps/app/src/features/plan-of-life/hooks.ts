@@ -3,7 +3,7 @@ import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { confirm } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import type { SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'

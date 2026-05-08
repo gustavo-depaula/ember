@@ -86,12 +86,12 @@ export function useGospelOfTheDay(): {
     queryFn: async (): Promise<GospelOfTheDay | null> => {
       const source = getDataSource('mass-of')
       if (!source) return null
-      const fetchAsset = (_libId: string, path: string) => fetchOfAsset(path, requestedLangs)
+      const fetchAsset = (path: string) => fetchOfAsset(path, requestedLangs)
       const day = (await source.load(
         { calendar: 'of' },
         {
           fetchAsset,
-          fetchOwnAsset: (path) => fetchAsset('base', path),
+          fetchOwnAsset: (path) => fetchAsset(path),
           localize: (text) => ({
             primary:
               typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),

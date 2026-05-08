@@ -67,21 +67,6 @@ export type TocNode = {
   children?: TocNode[]
 }
 
-// `qualifyId` and `parseQualifiedId` are kept for callsite back-compat — the
-// libraryId arg is now ignored since v2 ids are kind-prefixed (e.g. `practice/rosary`).
-export function qualifyId(_libraryId: string, id: string): string {
-  if (id.includes('/')) return id
-  return `practice/${id}`
-}
-
-export function parseQualifiedId(id: string): { libraryId: string; practiceId: string } {
-  if (id.includes('/')) {
-    const idx = id.indexOf('/')
-    return { libraryId: id.slice(0, idx), practiceId: id.slice(idx + 1) }
-  }
-  return { libraryId: '', practiceId: id }
-}
-
 export async function loadCatalogFromHearth(): Promise<Catalog> {
   const catalog = await fetchHearth<Catalog>('catalog.json', { networkFirst: true })
   setCatalog(catalog)
@@ -126,12 +111,6 @@ export async function warmDeferredManifests(): Promise<void> {
   await warmKinds(DEFERRED_KINDS)
   invalidateMemberOfIndex()
   notifyManifestsWarmed()
-}
-
-/** Back-compat: full warm in one call (no longer used on the boot path). */
-export async function warmResidentManifests(): Promise<void> {
-  await warmCriticalManifests()
-  await warmDeferredManifests()
 }
 
 // --- Sync lookups (manifests + prayers + book metadata) ---
@@ -247,7 +226,7 @@ function fetchPrayerSync(id: string): PrayerAsset | undefined {
   }
 }
 
-export function resolvePrayer(ref: string, _libraryId?: string): PrayerAsset | undefined {
+export function resolvePrayer(ref: string): PrayerAsset | undefined {
   if (canticleRefs.has(ref)) return undefined
   const canonical = canonicalize(ref, 'prayer') ?? `prayer/${ref}`
   return fetchPrayerSync(canonical)
@@ -372,17 +351,14 @@ export async function loadPracticeTracks(
 
 // --- Chapters & books ---
 
-export function getChapterManifest(
-  chapterId: string,
-  _libraryId?: string,
-): ChapterManifest | undefined {
+export function getChapterManifest(chapterId: string): ChapterManifest | undefined {
   const canonical = canonicalize(chapterId, 'chapter') ?? `chapter/${chapterId}`
   const item = residentFor<ChapterItemManifest>(canonical)
   if (!item) return undefined
   return asChapterManifest(item)
 }
 
-export function getAllChapterManifestsForLibrary(_libraryId?: string): ChapterManifest[] {
+export function getAllChapterManifests(): ChapterManifest[] {
   const out: ChapterManifest[] = []
   for (const [, entry] of getEntriesByKind('chapter')) {
     const item = getRememberedManifest<ChapterItemManifest>(entry.hash)
@@ -391,10 +367,7 @@ export function getAllChapterManifestsForLibrary(_libraryId?: string): ChapterMa
   return out
 }
 
-export async function loadChapterContent(
-  chapterId: string,
-  _libraryId?: string,
-): Promise<FlowDefinition | undefined> {
+export async function loadChapterContent(chapterId: string): Promise<FlowDefinition | undefined> {
   const canonical = canonicalize(chapterId, 'chapter') ?? `chapter/${chapterId}`
   const item = residentFor<ChapterItemManifest>(canonical)
   if (!item?.contentHash) return undefined
@@ -435,18 +408,18 @@ export function rememberProse(key: string, content: LocalizedContent): void {
   proseCache.set(key, content)
 }
 
-export function getProseText(filePath: string, _libraryId?: string): LocalizedContent | undefined {
+export function getProseText(filePath: string): LocalizedContent | undefined {
   return proseCache.get(filePath)
 }
 
-export function getBookEntry(bookId: string, _libraryId?: string): BookEntry | undefined {
+export function getBookEntry(bookId: string): BookEntry | undefined {
   const canonical = canonicalize(bookId, 'book') ?? `book/${bookId}`
   const item = residentFor<BookItemManifest>(canonical)
   if (!item) return undefined
   return asBookEntry(item)
 }
 
-export function getAllBookEntries(_libraryId?: string): BookEntry[] {
+export function getAllBookEntries(): BookEntry[] {
   const out: BookEntry[] = []
   for (const [, entry] of getEntriesByKind('book')) {
     const item = getRememberedManifest<BookItemManifest>(entry.hash)
@@ -456,7 +429,6 @@ export function getAllBookEntries(_libraryId?: string): BookEntry[] {
 }
 
 export async function loadBookChapterText(
-  _libraryId: string | undefined,
   bookId: string,
   chapterId: string,
   lang: string,
@@ -498,30 +470,6 @@ export async function loadMassProper(
     requestedLangs.map((l, i) => [l, langPayloads[i]] as const),
   )
   return mergeLangs(shape, payloadsByLang)
-}
-
-// Back-compat stubs for v1 callers — kept until those callsites are migrated.
-export function getLibraryIdForPractice(_id: string): string | undefined {
-  return 'corpus'
-}
-
-export function getInstalledLibraryIds(): string[] {
-  return ['corpus']
-}
-
-export function getPracticeIdsForLibrary(_libraryId: string): string[] {
-  return getEntriesByKind('practice').map(([id]) => id)
-}
-
-export async function readLibraryAsset(_libraryId: string, _path: string): Promise<unknown> {
-  return undefined
-}
-
-// The book reader still calls this; in v2 there is no extracted-on-disk book
-// directory, so callers receive undefined and the existing fallback path runs.
-// TODO: rewrite features/libraries/bookReader.ts on top of the blob store.
-export function getBookDirUri(_bookId: string, _libraryId?: string): string | undefined {
-  return undefined
 }
 
 // --- Misc ---

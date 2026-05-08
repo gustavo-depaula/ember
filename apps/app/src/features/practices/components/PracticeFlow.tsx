@@ -26,13 +26,12 @@ import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
-  getLibraryIdForPractice,
   getManifest,
   loadFlow,
   loadPerDayFlow,
   loadPracticeData,
   loadPracticeTracks,
-} from '@/content/registry'
+} from '@/content/resolver'
 import type { RenderedSection } from '@/content/types'
 import {
   ensurePracticeCursors,
@@ -258,7 +257,7 @@ export function PracticeFlow({
         const resolved = await resolveFlowAsync(
           flow,
           context,
-          createEngineContext(getLibraryIdForPractice(practiceId), undefined, {
+          createEngineContext(undefined, {
             contentLanguage,
             secondaryLanguage,
           }),
@@ -289,7 +288,6 @@ export function PracticeFlow({
     contentLanguage,
     secondaryLanguage,
     selectOverrides,
-    practiceId,
   ])
 
   // Load dynamic content (psalms, Bible readings, CCC)

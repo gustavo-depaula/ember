@@ -13,10 +13,8 @@ import type {
   RiteType,
 } from './types'
 
-// ember-extra's data tree is vendored into the base library under `of/`.
-// Reading via fetchAsset('base', 'of/...') keeps the mass-of source fully
-// offline and avoids requiring users to install a separate library.
-const HOST_LIBRARY = 'base'
+// All OF mass propers + ordinaries + calendar data are routed through
+// `ctx.fetchAsset(path)` which the host translates into v2 corpus reads.
 const PATH_PREFIX = 'of/'
 
 type SanctoralIndex = { count: number; ids: string[] }
@@ -25,7 +23,7 @@ let sanctoralIndexCache: Promise<SanctoralIndex | undefined> | undefined
 async function loadSanctoralIndex(ctx: SourceContext): Promise<SanctoralIndex | undefined> {
   if (!sanctoralIndexCache) {
     sanctoralIndexCache = ctx
-      .fetchAsset(HOST_LIBRARY, `${PATH_PREFIX}calendar/sanctorale/_index.json`)
+      .fetchAsset(`${PATH_PREFIX}calendar/sanctorale/_index.json`)
       .then((data) => data as SanctoralIndex | undefined)
       .catch(() => undefined)
   }
@@ -102,7 +100,7 @@ const REGION_SCOPES = new Set([
 
 async function fetchFormulary(ctx: SourceContext, id: string): Promise<Formulary | undefined> {
   const path = `${PATH_PREFIX}${formularyPath(id)}`
-  const data = (await ctx.fetchAsset(HOST_LIBRARY, path)) as Formulary | undefined
+  const data = (await ctx.fetchAsset(path)) as Formulary | undefined
   if (!data) return undefined
   return transformFormularyReadings(data)
 }
@@ -117,7 +115,7 @@ async function fetchPreface(
   // `preface.preface.pf016`, which silently misses the file).
   const fullId = ref.startsWith('preface.') ? ref : `preface.${ref}`
   const refPath = `${PATH_PREFIX}${formularyPath(fullId)}`
-  return (await ctx.fetchAsset(HOST_LIBRARY, refPath)) as Record<string, unknown> | undefined
+  return (await ctx.fetchAsset(refPath)) as Record<string, unknown> | undefined
 }
 
 /**
@@ -350,7 +348,7 @@ export const massOfSource: DataSource = {
     const filtered = applyPrecedence(celebrations, temporeIdList)
 
     const ordinary =
-      ((await ctx.fetchAsset(HOST_LIBRARY, `${PATH_PREFIX}library/ordinary/ordinario.json`)) as
+      ((await ctx.fetchAsset(`${PATH_PREFIX}library/ordinary/ordinario.json`)) as
         | OrdinaryParts
         | undefined) ?? {}
 

@@ -17,8 +17,7 @@ import { massOfSource } from './source'
 // a local sync to content/libraries/base/of/ (which is gitignored).
 const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
 
-async function readJsonFromBase(libraryId: string, path: string): Promise<unknown> {
-  if (libraryId !== 'base') throw new Error(`Unexpected libraryId in test: ${libraryId}`)
+async function readJsonFromBase(path: string): Promise<unknown> {
   if (!path.startsWith('of/')) throw new Error(`Unexpected path prefix: ${path}`)
   const fullPath = resolve(BASE_OF_ROOT, path.slice('of/'.length))
   try {
@@ -44,7 +43,7 @@ function makeEngineContext(): EngineContext {
     prayers: {},
     canticles: {},
     prose: {},
-    fetchAsset: (libraryId, path) => readJsonFromBase(libraryId, path),
+    fetchAsset: (path) => readJsonFromBase(path),
     fetchOwnAsset: () => Promise.resolve(undefined),
   }
 }

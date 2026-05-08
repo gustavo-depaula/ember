@@ -9,7 +9,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayerSpinner, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
+import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/resolver'
 import type { CycleData } from '@/content/types'
 import {
   useBackfillMissedDays,

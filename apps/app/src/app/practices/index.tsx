@@ -14,7 +14,7 @@ import {
   getEntry,
   isHiddenCollection,
 } from '@/content/contentIndex'
-import { getAllManifests, getManifestCategories, getManifestIconKey } from '@/content/registry'
+import { getAllManifests, getManifestCategories, getManifestIconKey } from '@/content/resolver'
 import type { PracticeManifest } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { usePinnedItems } from '@/features/pinning/hooks'

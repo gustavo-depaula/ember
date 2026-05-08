@@ -17,7 +17,7 @@ import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import { type MemoriaEntry, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'

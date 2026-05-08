@@ -13,7 +13,7 @@ import {
   isHiddenPractice,
 } from '@/content/contentIndex'
 import type { BookItemManifest, PrayerItemManifest } from '@/content/manifestTypes'
-import { getManifestIconKey, searchManifests } from '@/content/registry'
+import { getManifestIconKey, searchManifests } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
 

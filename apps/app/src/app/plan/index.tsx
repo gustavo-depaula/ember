@@ -32,7 +32,7 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
 import type { Tier, UserPractice } from '@/db/schema'

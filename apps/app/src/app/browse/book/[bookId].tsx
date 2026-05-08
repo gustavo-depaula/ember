@@ -8,7 +8,7 @@ import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 import { PrayerSpinner, ReaderErrorState, ReadingConfigModal, ScreenLayout } from '@/components'
-import { getBookEntry } from '@/content/registry'
+import { getBookEntry } from '@/content/resolver'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
   buildConfigCss,
@@ -29,12 +29,12 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 type ReadingPosition = { chapterId: string; page: number }
 
-function cursorId(libraryId: string, bookId: string) {
-  return `book/${libraryId}/${bookId}`
+function cursorId(bookId: string) {
+  return `book/${bookId}`
 }
 
 export default function BookReaderScreen() {
-  const { bookId, libraryId } = useLocalSearchParams<{ bookId: string; libraryId: string }>()
+  const { bookId } = useLocalSearchParams<{ bookId: string }>()
   const router = useRouter()
   const theme = useTheme()
   const { t } = useTranslation()
@@ -50,7 +50,7 @@ export default function BookReaderScreen() {
   const margin = usePreferencesStore((s) => s.margin)
   const webViewRef = useRef<ReaderWebViewHandle>(null)
 
-  const bookEntry = bookId && libraryId ? getBookEntry(bookId, libraryId) : undefined
+  const bookEntry = bookId ? getBookEntry(bookId) : undefined
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
@@ -87,8 +87,8 @@ export default function BookReaderScreen() {
 
   // Load saved reading position
   useEffect(() => {
-    if (!libraryId || !bookId || leaves.length === 0) return
-    const cursor = getCursor(cursorId(libraryId, bookId))
+    if (!bookId || leaves.length === 0) return
+    const cursor = getCursor(cursorId(bookId))
     if (cursor) {
       try {
         const pos = JSON.parse(cursor.position) as ReadingPosition
@@ -111,17 +111,17 @@ export default function BookReaderScreen() {
       setInitialChapterId((prev) => prev ?? leaves[0].id)
     }
     setPositionLoaded(true)
-  }, [libraryId, bookId, leaves])
+  }, [bookId, leaves])
 
   // Save reading position
   const savePosition = useCallback(() => {
-    if (!libraryId || !bookId || !currentChapterId) return
+    if (!bookId || !currentChapterId) return
     const pos: ReadingPosition = {
       chapterId: currentChapterId,
       page: currentPageRef.current,
     }
-    setCursor(cursorId(libraryId, bookId), JSON.stringify(pos))
-  }, [libraryId, bookId, currentChapterId])
+    setCursor(cursorId(bookId), JSON.stringify(pos))
+  }, [bookId, currentChapterId])
 
   useEffect(() => {
     return () => {

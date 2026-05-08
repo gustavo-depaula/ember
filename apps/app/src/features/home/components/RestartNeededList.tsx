@@ -5,7 +5,7 @@ import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanim
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 
 export function RestartNeededList({ ids }: { ids: Set<string> }) {

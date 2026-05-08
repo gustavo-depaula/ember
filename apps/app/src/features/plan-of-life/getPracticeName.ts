@@ -1,6 +1,6 @@
 import type { TFunction } from 'i18next'
 
-import { getManifest, getManifestIconKey } from '@/content/registry'
+import { getManifest, getManifestIconKey } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { getPractice } from '@/db/repositories'
 import { localizeContent } from '@/lib/i18n'

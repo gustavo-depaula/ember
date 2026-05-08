@@ -10,22 +10,22 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { ManuscriptFrame, ScreenLayout, SectionBlock } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { createEngineContext } from '@/content/engineContext'
-import { getChapterManifest, loadChapterContent, prefetchChapterProse } from '@/content/registry'
+import { getChapterManifest, loadChapterContent, prefetchChapterProse } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 
 export default function ChapterReaderScreen() {
   const { t } = useTranslation()
-  const { chapterId, libraryId } = useLocalSearchParams<{ chapterId: string; libraryId: string }>()
+  const { chapterId } = useLocalSearchParams<{ chapterId: string }>()
   const router = useRouter()
   const theme = useTheme()
 
-  const chapter = chapterId && libraryId ? getChapterManifest(chapterId, libraryId) : undefined
+  const chapter = chapterId ? getChapterManifest(chapterId) : undefined
   const contentQuery = useQuery({
-    queryKey: ['chapter-content', chapterId, libraryId],
+    queryKey: ['chapter-content', chapterId],
     queryFn: async () => {
       if (!chapterId) return null
       await prefetchChapterProse(chapterId, [])
-      return (await loadChapterContent(chapterId, libraryId)) ?? null
+      return (await loadChapterContent(chapterId)) ?? null
     },
     enabled: !!chapterId,
     staleTime: Infinity,
@@ -33,10 +33,10 @@ export default function ChapterReaderScreen() {
   const content = contentQuery.data ?? undefined
 
   const sections = useMemo(() => {
-    if (!content || !libraryId) return []
-    const engineContext = createEngineContext(libraryId, chapterId)
+    if (!content) return []
+    const engineContext = createEngineContext(chapterId)
     return resolveFlow(content, { date: new Date() }, engineContext)
-  }, [content, libraryId, chapterId])
+  }, [content, chapterId])
 
   if (!chapter || !content) {
     return (

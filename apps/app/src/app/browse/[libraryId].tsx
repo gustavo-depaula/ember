@@ -1,202 +1,104 @@
-// biome-ignore-all lint/suspicious/noArrayIndexKey: static render lists
-import type { BilingualText, LocalizedText } from '@ember/content-engine'
-import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { Book, BookOpen, ChevronLeft } from 'lucide-react-native'
-import { useCallback, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, View } from 'react-native'
-import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
+import { Pressable, View } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
+
 import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
-import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { SectionBlock } from '@/components/SectionBlock'
-import { createEngineContext } from '@/content/engineContext'
-import {
-  getAllBookEntries,
-  getAllChapterManifestsForLibrary,
-  getManifest,
-  qualifyId,
-  resolveCanticle,
-  resolvePrayer,
-} from '@/content/registry'
-
-type Library = {
-  id: string
-  version: string
-  practices: string[]
-  prayers: string[]
-  chapters?: string[]
-  books?: string[]
-  languages: string[]
-  name: Record<string, string>
-  description?: Record<string, string>
-}
-
-import { useAvailableLibraries, useInstalledLibraries } from '@/features/libraries/hooks'
+import { getCollectionItems, getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type {
-  BookPreview,
-  PracticePreview,
-  PrayerPreview,
-} from '@/features/libraries/libraryManager'
+  BookItemManifest,
+  CatalogEntry,
+  ChapterItemManifest,
+  PracticeItemManifest,
+  PrayerItemManifest,
+} from '@/content/manifestTypes'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { PinToggle } from '@/features/pinning/PinToggle'
 import { useAllSlots } from '@/features/plan-of-life'
-import { localizeBilingual, localizeContent } from '@/lib/i18n'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { PrayerModal } from '@/features/practices/components'
+import { localizeContent } from '@/lib/i18n'
 
-export default function LibraryDetailScreen() {
+function bareId(corpusId: string): string {
+  const slash = corpusId.indexOf('/')
+  return slash === -1 ? corpusId : corpusId.slice(slash + 1)
+}
+
+type GroupedItems = {
+  chapters: { id: string; title: Record<string, string> }[]
+  books: { id: string; name: Record<string, string>; author?: Record<string, string> }[]
+  practices: { id: string; name: Record<string, string>; icon: string }[]
+  prayers: { id: string; title: Record<string, string> }[]
+}
+
+function groupItemsByKind(refs: { ref: string; entry?: CatalogEntry }[]): GroupedItems {
+  const out: GroupedItems = { chapters: [], books: [], practices: [], prayers: [] }
+  for (const { ref, entry } of refs) {
+    if (!entry) continue
+    const id = bareId(ref)
+    if (entry.kind === 'chapter') {
+      const body = getRememberedManifest<ChapterItemManifest>(entry.hash)
+      out.chapters.push({
+        id,
+        title: (body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }) as Record<
+          string,
+          string
+        >,
+      })
+    } else if (entry.kind === 'book') {
+      const body = getRememberedManifest<BookItemManifest>(entry.hash)
+      out.books.push({
+        id,
+        name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
+        author: (body?.author ?? entry.author) as Record<string, string> | undefined,
+      })
+    } else if (entry.kind === 'practice') {
+      const body = getRememberedManifest<PracticeItemManifest>(entry.hash)
+      out.practices.push({
+        id,
+        name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
+        icon: body?.icon ?? entry.icon ?? 'prayer',
+      })
+    } else if (entry.kind === 'prayer') {
+      const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
+      out.prayers.push({
+        id,
+        title: (body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }) as Record<
+          string,
+          string
+        >,
+      })
+    }
+  }
+  return out
+}
+
+export default function CollectionDetailScreen() {
   const { libraryId } = useLocalSearchParams<{ libraryId: string }>()
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const { data: installed = [] } = useInstalledLibraries()
-  const { data: available = [] } = useAvailableLibraries()
   const allSlots = useAllSlots()
+  const catalogVersion = useCatalogVersion()
+  const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
 
-  const installedRow = installed.find((b) => b.book_id === libraryId)
-  const registryEntry = available.find((b) => b.id === libraryId)
+  const collectionId = `collection/${libraryId}`
+  const collectionEntry = getEntry(collectionId)
 
-  // The pinned-collection's reconstructed manifest gives us full per-id lists
-  // when warmed; otherwise we render the catalog preview from the registry
-  // entry. Either way the screen is open-able, no install gate.
-  const library = useMemo(() => {
-    if (installedRow) return JSON.parse(installedRow.manifest) as Library
-    return undefined
-  }, [installedRow])
-
-  const practiceList: PracticePreview[] = useMemo(() => {
-    if (library) {
-      return library.practices.map((pid) => {
-        const qid = qualifyId(library.id, pid)
-        const m = getManifest(qid)
-        // Use the bare id for navigation/comparison; `/practices/[manifestId]`
-        // is a single dynamic segment and the slot store keys on the bare id.
-        const bareId = pid.includes('/') ? pid.split('/').slice(1).join('/') : pid
-        return { id: bareId, name: m?.name ?? { 'en-US': bareId }, icon: m?.icon ?? 'prayer' }
-      })
-    }
-    if (registryEntry) return registryEntry.practices
-    return []
-  }, [library, registryEntry])
-
-  const prayerList: PrayerPreview[] = useMemo(() => {
-    if (library) {
-      return library.prayers.map((pid) => {
-        const asset = resolvePrayer(pid, library.id) ?? resolveCanticle(pid)
-        return { id: pid, title: asset?.title ?? { 'en-US': pid } }
-      })
-    }
-    if (registryEntry) return registryEntry.prayers
-    return []
-  }, [library, registryEntry])
-
-  const chapterList: { id: string; title: LocalizedText }[] = useMemo(() => {
-    if (library) {
-      return getAllChapterManifestsForLibrary(library.id).map((ch) => ({
-        id: ch.id,
-        title: ch.title,
-      }))
-    }
-    return registryEntry?.chapters ?? []
-  }, [library, registryEntry])
-
-  const bookList: BookPreview[] = useMemo(() => {
-    if (library) {
-      return getAllBookEntries(library.id).map((e) => ({
-        id: e.id,
-        name: e.name,
-        author: e.author,
-        image: e.image,
-      }))
-    }
-    return registryEntry?.books ?? []
-  }, [library, registryEntry])
-
-  const name = library
-    ? localizeContent(library.name)
-    : registryEntry
-      ? localizeContent(registryEntry.name)
-      : libraryId
-  const description = library?.description
-    ? localizeContent(library.description)
-    : registryEntry?.description
-      ? localizeContent(registryEntry.description)
-      : undefined
-  const version = library?.version ?? registryEntry?.version
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
+  const grouped = useMemo<GroupedItems>(
+    () => groupItemsByKind(getCollectionItems(collectionId)),
+    [collectionId, catalogVersion],
+  )
 
   const enabledIds = useMemo(
     () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
     [allSlots],
   )
 
-  const [selectedPrayer, setSelectedPrayer] = useState<string | undefined>()
-  const [prayerModalMounted, setPrayerModalMounted] = useState(false)
-  const { contentLanguage, secondaryLanguage } = usePreferencesStore()
-  const overlayOpacity = useSharedValue(0)
-
-  const overlayStyle = useAnimatedStyle(() => ({
-    opacity: overlayOpacity.value,
-    pointerEvents: overlayOpacity.value > 0 ? ('auto' as const) : ('none' as const),
-  }))
-
-  const handleBookTap = useCallback(
-    (bookId: string) => {
-      router.push({
-        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-        pathname: '/browse/book/[bookId]' as any,
-        // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-        params: { bookId, libraryId: libraryId! },
-      })
-    },
-    [router, libraryId],
-  )
-
-  const openPrayer = useCallback(
-    (id: string) => {
-      setSelectedPrayer(id)
-      setPrayerModalMounted(true)
-      overlayOpacity.value = withTiming(1, { duration: 150 })
-    },
-    [overlayOpacity],
-  )
-
-  const closePrayer = useCallback(() => {
-    overlayOpacity.value = withTiming(0, { duration: 120 })
-    setTimeout(() => {
-      setPrayerModalMounted(false)
-      setSelectedPrayer(undefined)
-    }, 130)
-  }, [overlayOpacity])
-
-  const selectedPrayerData = useMemo(() => {
-    if (!selectedPrayer) return undefined
-    const asset = resolvePrayer(selectedPrayer, library?.id) ?? resolveCanticle(selectedPrayer)
-    if (!asset) return undefined
-    const bil = (text: Record<string, string>): BilingualText =>
-      localizeBilingual(text, contentLanguage, secondaryLanguage)
-    // Legacy format: body was LocalizedText before migration to FlowSection[]
-    if (!Array.isArray(asset.body)) {
-      return {
-        title: bil(asset.title),
-        sections: [
-          {
-            type: 'prayer' as const,
-            title: bil(asset.title),
-            text: bil(asset.body as unknown as Record<string, string>),
-          },
-        ],
-      }
-    }
-    const ec = createEngineContext(library?.id)
-    const sections = resolveFlow({ sections: asset.body }, { date: new Date() }, ec)
-    return {
-      title: bil(asset.title),
-      sections,
-    }
-  }, [selectedPrayer, library, contentLanguage, secondaryLanguage])
-
-  if (!library && !registryEntry) {
+  if (!collectionEntry) {
     return (
       <ScreenLayout>
         <YStack padding="$lg">
@@ -207,6 +109,16 @@ export default function LibraryDetailScreen() {
       </ScreenLayout>
     )
   }
+
+  const name = collectionEntry.name ? localizeContent(collectionEntry.name) : (libraryId ?? '')
+  const description = collectionEntry.description
+    ? localizeContent(collectionEntry.description)
+    : undefined
+  const totalCount =
+    grouped.chapters.length +
+    grouped.books.length +
+    grouped.practices.length +
+    grouped.prayers.length
 
   return (
     <View style={{ flex: 1 }}>
@@ -219,14 +131,14 @@ export default function LibraryDetailScreen() {
               accessibilityRole="button"
               accessibilityLabel={t('a11y.goBack')}
             >
-              <ChevronLeft size={24} color={theme.color.val} />
+              <ChevronLeft size={24} color={theme.color?.val} />
             </Pressable>
             <YStack flex={1}>
               <Text fontFamily="$heading" fontSize="$5" color="$color">
                 {name}
               </Text>
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {practiceList.length} {t('library.practices').toLowerCase()} · v{version}
+                {totalCount} {t('library.items', { defaultValue: 'items' })}
               </Text>
             </YStack>
           </XStack>
@@ -238,131 +150,122 @@ export default function LibraryDetailScreen() {
           )}
 
           <XStack>
-            <PinToggle itemId={`collection/${libraryId}`} />
+            <PinToggle itemId={collectionId} />
           </XStack>
 
-          <SectionDivider />
-
-          {chapterList.length > 0 && (
+          {grouped.chapters.length > 0 && (
             <>
+              <SectionDivider />
               <Text fontFamily="$heading" fontSize="$3" color="$color">
                 {t('library.contents')}
               </Text>
-
               <YStack gap="$xs">
-                {chapterList.map((chapter) => {
-                  const chapterTitle = localizeContent(chapter.title)
-                  return (
-                    <AnimatedPressable
-                      key={chapter.id}
-                      onPress={() =>
-                        router.push({
-                          // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                          pathname: '/browse/chapters/[chapterId]' as any,
-                          // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-                          params: { chapterId: chapter.id, libraryId: libraryId! },
-                        })
-                      }
-                      accessibilityRole="link"
-                      accessibilityLabel={chapterTitle}
+                {grouped.chapters.map((chapter) => (
+                  <AnimatedPressable
+                    key={chapter.id}
+                    onPress={() =>
+                      router.push({
+                        pathname: '/browse/chapters/[chapterId]',
+                        params: { chapterId: chapter.id },
+                      })
+                    }
+                    accessibilityRole="link"
+                    accessibilityLabel={localizeContent(chapter.title)}
+                  >
+                    <XStack
+                      backgroundColor="$backgroundSurface"
+                      borderRadius="$md"
+                      padding="$sm"
+                      paddingHorizontal="$md"
+                      gap="$md"
+                      alignItems="center"
+                      borderWidth={1}
+                      borderColor="$borderColor"
                     >
-                      <XStack
-                        backgroundColor="$backgroundSurface"
-                        borderRadius="$md"
-                        padding="$sm"
-                        paddingHorizontal="$md"
-                        gap="$md"
-                        alignItems="center"
-                        borderWidth={1}
-                        borderColor="$borderColor"
-                      >
-                        <BookOpen size={22} color={theme.colorSecondary.val} />
-                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                          {chapterTitle}
-                        </Text>
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
-                        </Text>
-                      </XStack>
-                    </AnimatedPressable>
-                  )
-                })}
+                      <BookOpen size={22} color={theme.colorSecondary?.val} />
+                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                        {localizeContent(chapter.title)}
+                      </Text>
+                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                        ›
+                      </Text>
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
               </YStack>
-
-              <SectionDivider />
             </>
           )}
 
-          {bookList.length > 0 && (
+          {grouped.books.length > 0 && (
             <>
+              <SectionDivider />
               <Text fontFamily="$heading" fontSize="$3" color="$color">
                 {t('library.books')}
               </Text>
-
               <YStack gap="$xs">
-                {bookList.map((book) => {
-                  const bookName = localizeContent(book.name)
-                  return (
-                    <AnimatedPressable
-                      key={book.id}
-                      onPress={() => handleBookTap(book.id)}
-                      accessibilityRole="link"
-                      accessibilityLabel={bookName}
+                {grouped.books.map((book) => (
+                  <AnimatedPressable
+                    key={book.id}
+                    onPress={() =>
+                      router.push({
+                        pathname: '/browse/book/[bookId]',
+                        params: { bookId: book.id },
+                      })
+                    }
+                    accessibilityRole="link"
+                    accessibilityLabel={localizeContent(book.name)}
+                  >
+                    <XStack
+                      backgroundColor="$backgroundSurface"
+                      borderRadius="$md"
+                      padding="$sm"
+                      paddingHorizontal="$md"
+                      gap="$md"
+                      alignItems="center"
+                      borderWidth={1}
+                      borderColor="$borderColor"
                     >
-                      <XStack
-                        backgroundColor="$backgroundSurface"
-                        borderRadius="$md"
-                        padding="$sm"
-                        paddingHorizontal="$md"
-                        gap="$md"
-                        alignItems="center"
-                        borderWidth={1}
-                        borderColor="$borderColor"
-                      >
-                        <Book size={22} color={theme.accent.val} />
-                        <YStack flex={1}>
-                          <Text fontFamily="$body" fontSize="$2" color="$color">
-                            {bookName}
-                          </Text>
-                          {book.author && (
-                            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                              {localizeContent(book.author)}
-                            </Text>
-                          )}
-                        </YStack>
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
+                      <Book size={22} color={theme.accent?.val} />
+                      <YStack flex={1}>
+                        <Text fontFamily="$body" fontSize="$2" color="$color">
+                          {localizeContent(book.name)}
                         </Text>
-                      </XStack>
-                    </AnimatedPressable>
-                  )
-                })}
+                        {book.author && (
+                          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                            {localizeContent(book.author)}
+                          </Text>
+                        )}
+                      </YStack>
+                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                        ›
+                      </Text>
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
               </YStack>
-
-              <SectionDivider />
             </>
           )}
 
-          {practiceList.length > 0 && (
+          {grouped.practices.length > 0 && (
             <>
+              <SectionDivider />
               <Text fontFamily="$heading" fontSize="$3" color="$color">
                 {t('library.practices')}
               </Text>
-
               <YStack gap="$xs">
-                {practiceList.map((practice) => {
+                {grouped.practices.map((practice) => {
                   const inPlan = enabledIds.has(practice.id)
-                  const practiceName = localizeContent(practice.name)
-
                   return (
                     <AnimatedPressable
                       key={practice.id}
                       onPress={() =>
-                        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                        router.push(`/practices/${practice.id}` as any)
+                        router.push({
+                          pathname: '/practices/[manifestId]',
+                          params: { manifestId: practice.id },
+                        })
                       }
                       accessibilityRole="link"
-                      accessibilityLabel={practiceName}
+                      accessibilityLabel={localizeContent(practice.name)}
                     >
                       <XStack
                         backgroundColor="$backgroundSurface"
@@ -376,7 +279,7 @@ export default function LibraryDetailScreen() {
                       >
                         <PracticeIcon name={practice.icon} size={22} />
                         <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                          {practiceName}
+                          {localizeContent(practice.name)}
                         </Text>
                         {inPlan && (
                           <Text fontFamily="$body" fontSize="$1" color="$accent">
@@ -394,96 +297,46 @@ export default function LibraryDetailScreen() {
             </>
           )}
 
-          {prayerList.length > 0 && (
+          {grouped.prayers.length > 0 && (
             <>
               <SectionDivider />
-
               <Text fontFamily="$heading" fontSize="$3" color="$color">
                 {t('library.prayers')}
               </Text>
-
               <YStack gap="$xs">
-                {prayerList.map((prayer) => {
-                  const prayerTitle = localizeContent(prayer.title)
-                  return (
-                    <AnimatedPressable
-                      key={prayer.id}
-                      onPress={() => openPrayer(prayer.id)}
-                      accessibilityRole="button"
-                      accessibilityLabel={prayerTitle}
+                {grouped.prayers.map((prayer) => (
+                  <AnimatedPressable
+                    key={prayer.id}
+                    onPress={() => setSelectedPrayerId(prayer.id)}
+                    accessibilityRole="button"
+                    accessibilityLabel={localizeContent(prayer.title)}
+                  >
+                    <XStack
+                      backgroundColor="$backgroundSurface"
+                      borderRadius="$md"
+                      padding="$sm"
+                      paddingHorizontal="$md"
+                      gap="$md"
+                      alignItems="center"
+                      borderWidth={1}
+                      borderColor="$borderColor"
                     >
-                      <XStack
-                        backgroundColor="$backgroundSurface"
-                        borderRadius="$md"
-                        padding="$sm"
-                        paddingHorizontal="$md"
-                        gap="$md"
-                        alignItems="center"
-                        borderWidth={1}
-                        borderColor="$borderColor"
-                      >
-                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                          {prayerTitle}
-                        </Text>
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
-                        </Text>
-                      </XStack>
-                    </AnimatedPressable>
-                  )
-                })}
+                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
+                        {localizeContent(prayer.title)}
+                      </Text>
+                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                        ›
+                      </Text>
+                    </XStack>
+                  </AnimatedPressable>
+                ))}
               </YStack>
             </>
           )}
         </YStack>
       </ScreenLayout>
 
-      {prayerModalMounted && (
-        <Animated.View
-          style={[
-            {
-              position: 'absolute',
-              top: 0,
-              left: 0,
-              right: 0,
-              bottom: 0,
-              justifyContent: 'center',
-              alignItems: 'center',
-              backgroundColor: 'rgba(0,0,0,0.6)',
-              padding: 32,
-            },
-            overlayStyle,
-          ]}
-        >
-          <Pressable
-            style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 }}
-            onPress={closePrayer}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.closeModal')}
-          />
-          <YStack
-            backgroundColor="$background"
-            maxWidth={360}
-            width="100%"
-            style={{ maxHeight: '85%' }}
-          >
-            <ManuscriptFrame>
-              <ScrollView contentContainerStyle={{ padding: 16 }}>
-                {selectedPrayerData ? (
-                  <YStack gap="$sm">
-                    <Text fontFamily="$heading" fontSize="$3" color="$accent" textAlign="center">
-                      {selectedPrayerData.title.primary}
-                    </Text>
-                    {selectedPrayerData.sections.map((s, i) => (
-                      <SectionBlock key={`${s.type}-${i}`} section={s} />
-                    ))}
-                  </YStack>
-                ) : null}
-              </ScrollView>
-            </ManuscriptFrame>
-          </YStack>
-        </Animated.View>
-      )}
+      <PrayerModal prayerId={selectedPrayerId} onClose={() => setSelectedPrayerId(undefined)} />
     </View>
   )
 }

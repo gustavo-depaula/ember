@@ -6,7 +6,7 @@ import {
   loadBookChapterText,
   resolveCanticle,
   resolvePrayer,
-} from '@/content/registry'
+} from '@/content/resolver'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -30,7 +30,6 @@ function findTocTitle(
 }
 
 export function createEngineContext(
-  libraryId?: string,
   chapterId?: string,
   languagePrefs?: { contentLanguage: ContentLanguage; secondaryLanguage?: ContentLanguage },
 ): EngineContext {
@@ -47,10 +46,10 @@ export function createEngineContext(
 
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {
-      return resolvePrayer(ref, libraryId)
+      return resolvePrayer(ref)
     },
     has(_, ref: string) {
-      return resolvePrayer(ref, libraryId) !== undefined
+      return resolvePrayer(ref) !== undefined
     },
   })
 
@@ -97,11 +96,11 @@ export function createEngineContext(
     },
     getBookLanguages: (book) => getBookEntry(book)?.languages ?? [],
     loadBookChapterTextAsync: async (book, chapter, lang) => {
-      const text = await loadBookChapterText(undefined, book, chapter, lang)
+      const text = await loadBookChapterText(book, chapter, lang)
       if (!text) return undefined
       return { [lang]: text }
     },
-    fetchAsset: async (_libId, path) => fetchOfAsset(path, requestedLangs),
+    fetchAsset: async (path: string) => fetchOfAsset(path, requestedLangs),
     // No fetchOwnAsset — let the engine fall through to context.cycleData,
     // which is populated by loadPracticeData() and indexed by data name (e.g.
     // 'liturgical-map'). The OF asset router is for cross-practice paths
