@@ -359,6 +359,13 @@ export function PracticeFlow({
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
+  // Network-fetch phase: flow blobs are still being downloaded for the first time.
+  // Show the threshold word with a small "Loading…" subtitle so the user knows
+  // content is on the way (vs. a silent "Oremus" that looks like nothing's happening).
+  if (manifest && flowQuery.isLoading) {
+    return <Threshold word={t('practice.threshold')} subtitle={t('practice.loadingContent')} />
+  }
+
   if (!manifest || !flow) {
     return (
       <ScreenLayout>
@@ -380,6 +387,8 @@ export function PracticeFlow({
     )
   }
 
+  // Resolution phase: flow loaded, engine is processing dynamic sections (Bible/CCC
+  // readings, mass-of-day, liturgical-day). This is local + fast — no subtitle needed.
   if (isDynamicLoading || !thresholdElapsed) {
     return <Threshold word={t('practice.threshold')} />
   }

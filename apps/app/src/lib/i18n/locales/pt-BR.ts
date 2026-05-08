@@ -1087,6 +1087,7 @@ export default {
     pray: 'Rezar',
     noContent: 'Esta prática ainda não tem conteúdo de oração disponível.',
     threshold: 'Oremus',
+    loadingContent: 'Carregando…',
     completionSyncFailed: 'Não foi possível atualizar seu progresso',
     completionSyncFailedDesc:
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
