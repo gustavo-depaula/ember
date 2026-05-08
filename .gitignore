@@ -10,6 +10,9 @@ content/libraries/base/of/
 # Mass-content build artifacts
 content/libraries/base/practices/mass/_extracted-blessings.json
 
+# Hearth v2 build output (corpus blobs + catalog)
+_site/
+
 # Expo
 .expo/
 dist/
