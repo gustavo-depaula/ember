@@ -299,7 +299,7 @@ export default function SettingsScreen() {
               value={timeTravelDate ? parseISO(timeTravelDate) : new Date()}
               mode="date"
               display={Platform.OS === 'ios' ? 'inline' : 'default'}
-              onValueChange={(_, date) => {
+              onChange={(_, date) => {
                 setShowDatePicker(Platform.OS === 'ios')
                 if (date) setTimeTravelDate(format(date, 'yyyy-MM-dd'))
               }}

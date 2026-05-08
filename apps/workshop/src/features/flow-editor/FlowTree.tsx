@@ -16,7 +16,10 @@ function sectionSummary(sec: FlowSection): string {
     case 'meditation':
       return t((sec as { text: LocalizedText }).text)
     case 'select':
-      return `on: ${sec.on ?? 'manual'} (${sec.options.length} options)`
+      if ('options' in sec) {
+        return `on: ${sec.on ?? 'manual'} (${sec.options.length} options)`
+      }
+      return `from: ${sec.from} → ${sec.as}`
     case 'repeat':
       if ('from' in sec) return `from: ${sec.from} ×${sec.count ?? '∞'}`
       return `×${sec.count}`
@@ -86,10 +89,13 @@ const typeBadgeColor: Record<string, string> = {
 function getChildren(sec: FlowSection): { label?: string; sections: FlowSection[] }[] {
   switch (sec.type) {
     case 'select':
-      return sec.options.map((opt) => ({
-        label: `${opt.id}: ${loc(opt.label)}`,
-        sections: opt.sections ?? [],
-      }))
+      if ('options' in sec) {
+        return sec.options.map((opt) => ({
+          label: `${opt.id}: ${loc(opt.label)}`,
+          sections: opt.sections ?? [],
+        }))
+      }
+      return [{ sections: sec.body }]
     case 'options':
       if ('options' in sec && Array.isArray(sec.options)) {
         return sec.options.map((opt) => ({

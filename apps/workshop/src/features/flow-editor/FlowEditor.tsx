@@ -165,7 +165,10 @@ export function FlowEditor({
 function getChildGroups(sec: FlowSection): FlowSection[][] {
   switch (sec.type) {
     case 'select':
-      return sec.options.map((opt) => (opt.sections ?? []) as FlowSection[])
+      if ('options' in sec) {
+        return sec.options.map((opt) => (opt.sections ?? []) as FlowSection[])
+      }
+      return [sec.body]
     case 'options':
       if ('options' in sec && Array.isArray((sec as Record<string, unknown>).options)) {
         return (sec as { options: { sections: FlowSection[] }[] }).options.map((o) => o.sections)

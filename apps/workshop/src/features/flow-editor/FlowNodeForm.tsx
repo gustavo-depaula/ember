@@ -152,7 +152,14 @@ function NodeFields({
       return <ImageFields section={section} onChange={onChange} />
 
     case 'select':
-      return <SelectFields section={section} onChange={onChange} />
+      if ('options' in section) {
+        return <SelectFields section={section} onChange={onChange} />
+      }
+      return (
+        <p className={styles.hint}>
+          Iteration select (from: {section.from} → {section.as}) — edit JSON directly.
+        </p>
+      )
 
     case 'repeat':
       return <RepeatFields section={section} onChange={onChange} />
@@ -384,7 +391,7 @@ function SelectFields({
   section,
   onChange,
 }: {
-  section: Extract<FlowSection, { type: 'select' }>
+  section: Extract<FlowSection, { type: 'select'; options: unknown[] }>
   onChange: (s: FlowSection) => void
 }) {
   function updateOption(idx: number, patch: Partial<(typeof section.options)[0]>) {
