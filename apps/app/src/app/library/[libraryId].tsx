@@ -21,7 +21,19 @@ import {
   resolveCanticle,
   resolvePrayer,
 } from '@/content/registry'
-import type { Library } from '@/content/sources/filesystem'
+
+type Library = {
+  id: string
+  version: string
+  practices: string[]
+  prayers: string[]
+  chapters?: string[]
+  books?: string[]
+  languages: string[]
+  name: Record<string, string>
+  description?: Record<string, string>
+}
+
 import { baseLibraryId } from '@/features/libraries/constants'
 import {
   useAvailableLibraries,

@@ -5,7 +5,7 @@ import { FlatList, Pressable } from 'react-native'
 import Animated, { FadeIn, FadeOut, SlideInRight, SlideOutRight } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
-import type { TocNode } from '@/content/sources/filesystem'
+import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 
 type Props = {
