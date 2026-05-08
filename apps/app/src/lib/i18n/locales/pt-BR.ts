@@ -1066,7 +1066,6 @@ export default {
     titleInMinutes: '{{name}} em {{count}} min',
     titleInHours_one: '{{name}} em {{count}} h',
     titleInHours_other: '{{name}} em {{count}} h',
-    bodyDefault: 'Hora de rezar.',
     bodyPool: [
       'Hora de rezar.',
       'Alguns minutos com o Senhor.',

@@ -2,7 +2,7 @@ import { Platform } from 'react-native'
 import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { getEnabledSlots, getPractice } from '@/db/repositories'
-import type { NotifyReminder, UserPractice } from '@/db/schema'
+import type { UserPractice } from '@/db/schema'
 import {
   computeTriggerTime,
   describeLeadTime,
@@ -57,38 +57,11 @@ function getScheduledDays(schedule: Schedule): number[] | undefined {
   return undefined
 }
 
-function buildContent(
-  practiceName: string,
-  reminder: NotifyReminder,
-  slot: SlotState,
-  bodyPool: string[],
-): { title: string; body: string; data: Record<string, unknown> } {
-  const lead = describeLeadTime(reminder.offset)
-  const t = i18n.t.bind(i18n)
-  const title =
-    lead.kind === 'at'
-      ? practiceName
-      : lead.kind === 'hours'
-        ? t('notifications.titleInHours', { name: practiceName, count: lead.count })
-        : t('notifications.titleInMinutes', { name: practiceName, count: lead.count })
-
-  const seed = hashSeed([slot.id, reminder.offset])
-  const fallbackPool = t('notifications.bodyPool', { returnObjects: true }) as unknown as
-    | string[]
-    | string
-  const fallback = Array.isArray(fallbackPool) ? fallbackPool : [String(fallbackPool)]
-  const pool = bodyPool.length > 0 ? bodyPool : fallback
-  const body = pickMessage(pool, seed) ?? t('notifications.bodyDefault')
-
-  return {
-    title,
-    body,
-    data: {
-      practiceId: slot.practice_id,
-      slotId: parseSlotKey(slot.id).slotId,
-      offset: reminder.offset,
-    },
-  }
+function formatTitle(practiceName: string, offset: number): string {
+  const lead = describeLeadTime(offset)
+  if (lead.kind === 'at') return practiceName
+  const key = lead.kind === 'hours' ? 'notifications.titleInHours' : 'notifications.titleInMinutes'
+  return i18n.t(key, { name: practiceName, count: lead.count })
 }
 
 function scheduleRemindersForSlot(
@@ -108,14 +81,22 @@ function scheduleRemindersForSlot(
   const scheduledDays = getScheduledDays(schedule)
   const practiceName =
     practice?.custom_name ?? (manifest ? localizeContent(manifest.name) : slot.practice_id)
-  const bodyPool = localizeMessages(manifest?.notifications?.messages, i18n.language)
+  const manifestPool = localizeMessages(manifest?.notifications?.messages, i18n.language)
+  const fallbackPool = i18n.t('notifications.bodyPool', { returnObjects: true }) as string[]
+  const bodyPool = manifestPool.length > 0 ? manifestPool : fallbackPool
   const androidChannel = Platform.OS === 'android' ? { channelId: 'practice-reminders' } : {}
+  const dataBase = { practiceId: slot.practice_id, slotId: parseSlotKey(slot.id).slotId }
 
   const tasks: Promise<string>[] = []
   for (const reminder of reminders) {
     const trigger = computeTriggerTime(slot.time, reminder.offset)
     if (!trigger) continue
-    const content = buildContent(practiceName, reminder, slot, bodyPool)
+    const body = pickMessage(bodyPool, hashSeed([slot.id, reminder.offset])) ?? bodyPool[0]
+    const content = {
+      title: formatTitle(practiceName, reminder.offset),
+      body,
+      data: { ...dataBase, offset: reminder.offset },
+    }
 
     if (scheduledDays) {
       for (const day of scheduledDays) {

@@ -41,7 +41,7 @@ function dedupeReminders(reminders: NotifyReminder[]): NotifyReminder[] {
     seen.add(offset)
     out.push({ offset })
   }
-  return out.sort((a, b) => b.offset - a.offset) // earliest reminder first
+  return out.sort((a, b) => b.offset - a.offset)
 }
 
 export type TriggerTime = {
