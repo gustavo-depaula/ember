@@ -16,6 +16,9 @@ _site/
 # Transient scraper output kept locally for re-runs only
 **/html-cache/
 
+# Archived source originals (kept locally, not in repo — see ~/Documents/ember-archive/)
+content/_archive/*/sources/
+
 # Expo
 .expo/
 dist/
