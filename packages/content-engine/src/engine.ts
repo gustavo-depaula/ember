@@ -102,6 +102,7 @@ export function resolvePath(context: FlowContext, path: string): unknown {
   }
 
   const [head, ...rest] = path.split('.')
+  if (head === undefined) return undefined
   let value: unknown = context.flowData?.[head] ?? context.templateVars?.[head]
 
   for (const seg of rest) {
@@ -166,11 +167,15 @@ function getOrdinal(index: number, language: string): string {
 
 function walkVarPath(vars: Record<string, unknown>, path: string): unknown {
   const segments = path.split('.')
-  let value: unknown = vars[segments[0]]
+  const first = segments[0]
+  if (first === undefined) return undefined
+  let value: unknown = vars[first]
   for (let i = 1; i < segments.length; i++) {
     if (value === null || value === undefined) return undefined
     if (typeof value !== 'object') return undefined
-    value = (value as Record<string, unknown>)[segments[i]]
+    const seg = segments[i]
+    if (seg === undefined) return undefined
+    value = (value as Record<string, unknown>)[seg]
   }
   return value
 }
@@ -257,8 +262,9 @@ function resolvePrayerRef(ref: string, context: FlowContext, ec: EngineContext):
   }
   const resolved = asset.body.flatMap((s) => resolveSection(s, context, ec))
   // Single inline prayer: attach the asset title for collapsible rendering
-  if (resolved.length === 1 && resolved[0].type === 'prayer') {
-    return [{ ...resolved[0], title: ec.localize(asset.title) }]
+  const first = resolved[0]
+  if (resolved.length === 1 && first?.type === 'prayer') {
+    return [{ ...first, title: ec.localize(asset.title) }]
   }
   // Multi-section prayer: wrap in a prayer section with nested sections
   return [
@@ -371,14 +377,12 @@ function resolveRepeat(
   const { count, sections: templateSections } = section
 
   // Collapse repeated single-prayer refs into one section with a count
-  if (
-    templateSections.length === 1 &&
-    templateSections[0].type === 'prayer' &&
-    'ref' in templateSections[0]
-  ) {
-    const resolved = resolvePrayerRef(templateSections[0].ref, context, ec)
-    if (resolved.length === 1 && resolved[0].type === 'prayer') {
-      return [{ ...resolved[0], count }]
+  const onlyTemplate = templateSections[0]
+  if (templateSections.length === 1 && onlyTemplate?.type === 'prayer' && 'ref' in onlyTemplate) {
+    const resolved = resolvePrayerRef(onlyTemplate.ref, context, ec)
+    const firstResolved = resolved[0]
+    if (resolved.length === 1 && firstResolved?.type === 'prayer') {
+      return [{ ...firstResolved, count }]
     }
     return resolved
   }
@@ -588,6 +592,8 @@ function resolveSection(
       if (!def || !state)
         return [{ type: 'rubric', label: bilingualOf('[Reading track not loaded]') }]
       const entry = def.entries[state.current_index % def.entries.length]
+      if (entry === undefined)
+        return [{ type: 'rubric', label: bilingualOf('[Reading track not loaded]') }]
       const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
       const refs = ec.parseTrackEntry(def.source, entry, resolveBookName)
       return refs.map((ref) => ({
@@ -639,7 +645,7 @@ function resolveSection(
           )
 
         if (resolved.length === 0) return []
-        if (resolved.length === 1) return resolved[0].sections
+        if (resolved.length === 1 && resolved[0]) return resolved[0].sections
         return [{ type: 'options' as const, label: ec.localize(section.label), options: resolved }]
       }
       const resolved = section.options
@@ -655,7 +661,7 @@ function resolveSection(
         })
         .filter((opt) => opt.sections.length > 0)
       if (resolved.length === 0) return []
-      if (resolved.length === 1) return resolved[0].sections
+      if (resolved.length === 1 && resolved[0]) return resolved[0].sections
       return [
         {
           type: 'options',
@@ -851,7 +857,8 @@ function resolveSection(
         typeof o.liturgicalColor === 'string' ? o.liturgicalColor.toLowerCase() : undefined
       const validColor =
         color && LITURGICAL_COLOR_LABELS[color] ? (color as RenderedLiturgicalColor) : undefined
-      const rankLabel = o.rank && RANK_LABELS[o.rank] ? ec.localize(RANK_LABELS[o.rank]) : undefined
+      const rankEntry = o.rank ? RANK_LABELS[o.rank] : undefined
+      const rankLabel = rankEntry ? ec.localize(rankEntry) : undefined
       const cycleId = section.cycleFrom
         ? (resolvePath(context, section.cycleFrom) as string | undefined)
         : undefined
@@ -1371,7 +1378,7 @@ function resolveChoiceRichText(
 
   const overrideKey = `${celebrationPath}.${section.slot}`
   const overrideId = context.selectOverrides?.[overrideKey]
-  const defaultId = section.defaultBlank ? undefined : (section.default ?? options[0].id)
+  const defaultId = section.defaultBlank ? undefined : (section.default ?? options[0]?.id)
   const selectedId = overrideId && options.some((o) => o.id === overrideId) ? overrideId : defaultId
 
   return [

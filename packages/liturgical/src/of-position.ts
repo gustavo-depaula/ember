@@ -42,7 +42,8 @@ export function getLiturgicalYear(date: Date): number {
  * Year C = 2025, 2028, 2031 … (litYear % 3 === 1)
  */
 export function getSundayCycle(litYear: number): 'A' | 'B' | 'C' {
-  return (['C', 'A', 'B'] as const)[litYear % 3]
+  const cycles = ['C', 'A', 'B'] as const
+  return cycles[litYear % 3] ?? 'A'
 }
 
 /**

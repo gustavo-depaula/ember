@@ -7,8 +7,11 @@ export function parsePsalmRef(raw: number | string): PsalmRef {
 
   // Format: "119:33-72"
   const [psalmStr, rangeStr] = raw.split(':')
-  const psalm = Number.parseInt(psalmStr, 10)
-  const [start, end] = rangeStr.split('-').map((s) => Number.parseInt(s, 10))
+  const psalm = Number.parseInt(psalmStr ?? '', 10)
+  if (rangeStr === undefined) return { psalm }
+  const [startStr, endStr] = rangeStr.split('-')
+  const start = Number.parseInt(startStr ?? '', 10)
+  const end = Number.parseInt(endStr ?? '', 10)
   return { psalm, verseRange: [start, end] }
 }
 
