@@ -23,160 +23,124 @@
 
 ---
 
-## Content & Libraries
+## Content & The Corpus
 
-> **Note (2026-05-08):** The `.pray` library bundling model below is **v1**. As of branch `hearth-v2-corpus`, content is distributed as a content-addressed corpus (`https://ember.dpgu.me/hearth/v2/`) with per-blob immutable storage. Libraries became `collection/<id>` items — same UX surface, no bundling. See `docs/journal.md` (Hearth v2 entry) and the plan file (`~/.claude-personal/plans/we-have-a-huge-dynamic-sloth.md`) for the v2 spec until this section is rewritten.
+Content in Ember is a **content-addressed corpus** — every prayer, practice, book chapter, Mass proper, and image is a separate sha256-hashed blob served from `https://ember.dpgu.me/hearth/v2/`. Libraries are not bundles; they're *collections* — small JSON manifests listing references to corpus items by stable id.
 
-All content in Ember — prayers, practices, books, chapters — is packaged into **libraries** distributed as `.pray` files. The app ships with no bundled practices; content is downloaded from Hearth on first launch. This is the core content architecture.
+The app ships with no bundled practices beyond a tiny embedded **starter pack** (~50KB: 11 essential prayers + a minimal Rosary, in en/pt/la). Everything else streams in on first use and is cached forever (immutable URLs). Pinning marks an item, book, or whole collection for full prefetch; pinned content survives offline.
 
-### The `.pray` Format
+### Item Kinds
 
-A `.pray` file is a zip archive containing a self-contained library. A library can hold any combination of:
+| Kind | Stable id form | What it is |
+|---|---|---|
+| `prayer` | `prayer/our-father` | Reusable prayer asset, multilingual JSON |
+| `practice` | `practice/rosary` | Schedulable prayer flow (manifest + flow + fragments + data + tracks + per-day flows + images) |
+| `chapter` | `chapter/lectio-divina` | Native-rendered formation content |
+| `book` | `book/catechism-of-trent` | WebView-rendered long-form, per-language markdown chapters |
+| `mass` | `mass/of/tempore/holy-week/easter-vigil` | OF Mass proper, split per-language |
+| `of-ordinary` / `of-preface` / `of-eucharistic-prayer` | `of/ordinary/roman-canon` | Mass-of building blocks, per-language |
+| `of-data` | `of-data/calendar/sanctorale/_index` | Calendar / saints catalog / IGMR / sacerdotale |
+| `collection` | `collection/carmelite` | Curated reading list — refs to other corpus items |
+| `checkup` | `checkup/archetypes` | Spiritual-checkup decision-tree data |
 
-- **Prayers** — reusable prayer text assets (Our Father, Hail Mary, etc.)
-- **Practices** — schedulable prayer flows for the plan of life (Rosary, Morning Offering, Divine Office, etc.)
-- **Chapters** — read-only content rendered natively (saint bios, devotion history, formation guides)
-- **Books** — long-form prose rendered in a WebView with CSS column pagination (spiritual classics, Church documents)
+### Source Layout
 
 ```
-montfort-spirituality-1.0.0.pray (zip)
-├── library.json                    # Library manifest
-├── prayers/
-│   └── act-of-consecration.json    # Prayer asset (title + body, multilingual)
-├── practices/
-│   └── total-consecration/
-│       ├── manifest.json           # PracticeManifest (metadata, schedule defaults)
-│       └── flow.json               # FlowDefinition (the prayer DSL)
-├── chapters/
-│   └── about-montfort/
-│       ├── chapter.json            # Chapter metadata
-│       ├── content.json            # FlowDefinition (same format as practices)
-│       ├── intro.en-US.md          # Prose sections per language
-│       └── intro.pt-BR.md
-└── books/
-    └── montfort-true-devotion/
-        ├── book.json               # Book metadata + TOC
-        ├── en-US/
-        │   ├── preface.md          # Chapter files (match TOC node IDs)
-        │   ├── part-1-ch-1.md
-        │   └── style.css           # Injected by build from book.css
-        ├── pt-BR/
-        └── fr-FR/
+content/
+├── prayers/                              # JSON, multilingual
+│   └── our-father.json
+├── practices/                            # Per-practice dir
+│   └── rosary/
+│       ├── manifest.json                 # PracticeManifest (metadata, schedule defaults)
+│       ├── flow.json                     # FlowDefinition (the prayer DSL)
+│       ├── fragments/                    # Reusable flow snippets
+│       ├── data/                         # Cycle data (mysteries, days, etc.)
+│       ├── tracks/                       # Lectio tracks
+│       ├── programs/days/                # Per-day flows for programs
+│       └── images/
+├── chapters/                             # Per-chapter dir; prose in sections/<file>.<lang>.md
+├── books/                                # Per-book dir; per-language chapter dirs
+│   └── catechism-of-trent/
+│       ├── book.json                     # BookManifest with TOC
+│       ├── en-US/                        # Markdown / HTML chapters
+│       ├── pt-BR/
+│       └── images/
+├── masses/of/                            # OF Mass propers (multilingual JSON, split at build)
+├── of-library/                           # Mass-of building blocks
+│   └── {ordinary,preface,eucharistic-prayer}/
+├── of-data/                              # Calendar, saints, IGMR, sacerdotale
+├── collections/                          # Per-collection JSON
+├── checkup/                              # Spiritual-checkup data
+└── _archive/                             # Auxiliary / preservation files (NOT shipped)
 ```
 
-### Library Manifest (`library.json`)
+A collection is a thin JSON manifest:
 
-```typescript
-type Library = {
-  id: string                        // Unique ID, kebab-case, matches folder name
-  version: string                   // Semver
-  name: LocalizedText
-  languages: string[]               // e.g. ["en-US", "pt-BR"]
-  practices: string[]               // Practice IDs (match dirs in practices/)
-  prayers: string[]                 // Prayer asset IDs (match files in prayers/)
-
-  description?: LocalizedText
-  author?: LocalizedText
-  tags?: string[]
-  icon?: string
-  image?: string
-  chapters?: string[]               // Chapter IDs (match dirs in chapters/)
-  books?: string[]                  // Book IDs (match dirs in books/)
-  contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
-  defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
-}
-
-type ContentEntry = { type: 'chapter' | 'practice' | 'book'; id: string }
-```
-
-When `contents` is present, the library detail screen renders a unified table of contents in the specified order. When absent, it falls back to separate sections.
-
-### Book Manifest (`book.json`)
-
-```typescript
-type BookManifest = {
-  id: string
-  name: LocalizedText
-  author?: LocalizedText
-  description?: LocalizedText
-  composed?: number | string        // Year or "c. 1418", "15th century"
-  languages: string[]
-  sources?: { language: string; url: string; description: string }[]
-  toc: TocNode[]                    // Table of contents
-}
-
-type TocNode = {
-  id: string                        // Matches chapter filename (without extension)
-  title: LocalizedText
-  children?: TocNode[]              // Present = group node, absent = leaf (chapter file)
+```json
+{
+  "id": "collection/carmelite",
+  "name": { "en-US": "Carmelite tradition" },
+  "items": [
+    { "ref": "book/intimita-divina" },
+    { "ref": "practice/carmelite-night-prayer" },
+    { "ref": "prayer/teresa-of-avila-bookmark" }
+  ]
 }
 ```
 
-Book chapters are raw `.md` or `.html` files in per-language directories. Markdown is converted at runtime via `marked` + `marked-footnote`. `book.css` is copied to each language dir by the build script.
+Each `library.json` from v1 became a `content/collections/<id>.json` during the migration.
 
-### Three Library Archetypes
+### Build Pipeline
 
-| Archetype | Example | Contains |
-|-----------|---------|----------|
-| Pure practice | base | prayers + practices (no books) |
-| Pure book | alphonsus-liguori | books + 1 practice |
-| Mixed | montfort-spirituality | books + chapters + practices + prayers |
+`scripts/build-corpus.py` is the single build step. For each source item it:
 
-### Current Libraries
+1. Splits per-language where it pays — every OF Mass proper becomes one *shape* blob (language-independent metadata) plus one blob per language. A pt-BR-only user fetches ~9KB instead of ~73KB per Mass.
+2. Canonicalizes the JSON (`sort_keys=True, separators=(",", ":")`, ensure_ascii=False, UTF-8) so blob hashes are deterministic across machines.
+3. Hashes with sha256 and writes immutable blobs to `_site/hearth/v2/blobs/{hash[:2]}/{hash[2:4]}/{full-hash}` (skipping if the file already exists — idempotent re-runs).
+4. Builds per-item manifests and a single `catalog.json` at the root, listing every item with its current manifest hash.
 
-| Library | Practices | Books | Chapters | Prayers | Languages |
-|---------|-----------|-------|----------|---------|-----------|
-| base | 33 | — | — | 22 | EN, PT |
-| devotions | 21 | — | — | — | EN, PT |
-| novenas | 14 | — | — | 1 | EN, PT |
-| alphonsus-liguori | 1 | 9 | — | — | PT, IT, FR |
-| montfort-spirituality | 1 | 7 | 1 | 1 | FR, EN, PT |
-| sacred-heart | 4 | — | 5 | 3 | EN, PT |
-| ave-maria-claretiano | 8 | — | 3 | 22 | PT |
-| litanies | 9 | — | 2 | — | EN, PT |
-| **Total** | **91** | **16** | **11** | **49** | |
+The pipeline is idempotent: a typo fix in one prayer rewrites one blob and bumps the catalog. Updates to the app are diff-of-hashes — clients fetch only what changed.
 
-### Content Resolution
+### Hearth Layout
 
-`ContentRegistry` (`apps/app/src/content/registry.ts`) replaces direct imports. It aggregates all installed libraries into a unified view:
-
-```typescript
-import { getManifest, loadFlowForSlot } from '@/content/registry'
+```
+https://ember.dpgu.me/hearth/v2/
+├── catalog.json                          # ~500KB, every item with its manifest hash
+├── blobs/{ab}/{cd}/{full-sha256}         # Immutable content-addressed blobs
+├── bible/drb/                            # Douay-Rheims (74 JSON files, served as-is)
+├── catechism/ccc.json                    # CCC (fetched at build time)
+├── propers/                              # EF Mass propers (DivOff source data)
+└── saints/                               # Saint images (PNG + WebP)
 ```
 
-Each `.pray` package is self-contained. Cross-library prayer refs use qualified IDs (`libraryId:prayerId`) in source flow.json files — e.g., `"ref": "base:sign-of-cross"`. At build time, `scripts/vendor-prayers.py` resolves these: copies the prayer into the package and strips the prefix. Runtime resolution is **library-local** → **global pool** (no dependency chain).
+GitHub Pages doesn't allow custom `Cache-Control`, but every fetched URL is content-addressed, so its bytes never change. A 10-minute default `max-age` only floors update propagation through `catalog.json`. (A future Cloudflare front-end can set `immutable` on `/blobs/*`.)
 
-`EngineContext` (`apps/app/src/content/engineContext.ts`) wires app services (prayer loader, localizer, content source) into the content engine for flow resolution.
+### Client Architecture
 
-### Content Distribution (Hearth)
+| Module | Role |
+|---|---|
+| `apps/app/src/content/store.ts` | Content-addressed blob cache. Native: filesystem `documentDirectory/blobs/{ab}/{cd}/{hash}`. Web: IndexedDB key `blob:{hash}`. In-flight dedup so concurrent `getBlob(h)` calls share one fetch. |
+| `apps/app/src/content/contentIndex.ts` | In-memory id→hash map, built from `catalog.json` + the embedded starter. `getCollectionsForItem(id)` reverse-indexes membership. A `catalogVersion` counter bumps on changes; React subscribes via `useCatalogVersion()` to re-render when deferred manifests warm. |
+| `apps/app/src/content/resolver.ts` | Public surface for the rest of the app. Sync APIs (`resolvePrayer`, `getManifest`, `getBookEntry`) read from the always-resident manifest set. Async APIs (`loadFlow`, `loadChapterContent`, `loadMassProper`) fetch on demand and merge per-language Mass-proper blobs back into the multilingual shape callers expect. `canonicalize(id, hintKind)` is a hard filter when `hintKind` is set — no fallthrough across kinds. |
+| `apps/app/src/content/starter/` | Auto-generated by `scripts/build-starter.py`. Embedded essentials so the app is functional offline on first launch with zero network. |
+| `apps/app/src/features/pinning/` | Pinning manager + `usePinToggle` hook + `PinToggle` pill. Walks an item recursively (per-kind `COLLECTORS` table) and prefetches every blob it references. Pinned-items list lives in `preferences['pinned-items']` (a JSON array; no new SQLite tables). Practices added to plan-of-life auto-pin. |
+| `apps/app/src/features/libraries/libraryManager.ts` | v1→v2 compat shim. The legacy `library/` UI keeps rendering by mapping the old install/remove API onto pin/unpin and reconstructing a v1 `Library` shape from the v2 collection manifest. |
 
-Hearth is a GitHub Pages-hosted static file server that serves all downloadable content.
+**Boot sequence** (`apps/app/src/app/_layout.tsx`):
 
-**Base URL:** `https://ember.dpgu.me/hearth/`
+1. Register the embedded starter (synchronous, in-memory). App is functional offline immediately.
+2. Fetch `catalog.json` (cached in `cache` table; network-first).
+3. Rehydrate pinned-items list from `preferences`.
+4. `warmCriticalManifests()` — eagerly load prayer + practice manifests so the engine's prayer/canticle/prose Proxies have their bodies before first paint. Fires `warmDeferredManifests()` (chapters, books, collections) in parallel without blocking.
+5. Seed practices, render home.
 
-| Asset | Path | Format |
-|-------|------|--------|
-| Libraries (.pray) | `hearth/v1/libraries/` | .pray (zip) + `registry.json` |
-| Bible (DRB) | `hearth/v1/bible/drb/` | 74 JSON files |
-| EF Mass propers | `hearth/v1/propers/` | 634 JSON files |
-| Catechism (CCC) | `hearth/v1/catechism/ccc.json` | 1 JSON file (fetched at build time) |
-| Saints images | `hearth/v1/saints/` | PNG + WebP |
+Subsequent boots are reads-only against the local cache; the catalog refetch in `runAfterInteractions` only touches the network if the catalog hash differs.
 
-**Build pipeline:** `scripts/build-libraries.sh` zips each `content/libraries/{id}/` into `{id}-{version}.pray`, generates `registry.json` with metadata and content hashes. `scripts/fetch-ccc.ts` fetches and processes the CCC from upstream at build time. `.github/workflows/deploy.yml` copies all assets and deploys to GitHub Pages.
+### Updates
 
-**First launch flow:** Fetch `registry.json` → download `base` → install → seed practices into plan of life → navigate to home. Requires connectivity on first launch.
+A typo fix in `prayer/our-father` produces one new content blob (~2KB), one new prayer item-manifest blob (~2KB), and a new `catalog.json` (~500KB but mostly unchanged). On the next catalog fetch the client diffs hashes, fetches only the changed blobs, and the prayer's renderer instantly sees the new body via the resident-manifests map.
 
-**Source directories** (committed, copied to Hearth at deploy):
-
-| Source | Hearth destination |
-|--------|--------------------|
-| `content/libraries/` | `hearth/v1/libraries/` (zipped into .pray) |
-| `content/bible/drb/` | `hearth/v1/bible/drb/` |
-| `content/propers/` | `hearth/v1/propers/` |
-| _(fetched at build time)_ | `hearth/v1/catechism/` |
-| `content/saints/` | `hearth/v1/saints/` (+ WebP conversion) |
-
-The `v1/` prefix allows future breaking schema changes without breaking old app versions.
+Compare to v1, which forced a 70MB `.pray` re-download for any change.
 
 ---
 
@@ -192,8 +156,7 @@ All user data in SQLite. No AsyncStorage. Manifests define content; the DB store
 | `cursors` | Schemaless JSON reading positions (Divine Office tracks, Bible, programs) |
 | `preferences` | KV store for all user settings |
 | `cached_translations` | Offline cache for online Bible translations |
-| `cache` | Generic cache for API responses and Hearth content |
-| `installed_books` | Installed library packages — version, manifest, content hash |
+| `cache` | Generic key-value cache for API responses + Hearth blobs (catalog, manifests) |
 
 Schedule is a discriminated union JSON field on `user_practice_slots` supporting 6 types: `daily`, `days-of-week`, `day-of-month`, `nth-weekday`, `times-per`, `fixed-program`. Any schedule can be season-gated.
 
@@ -207,15 +170,14 @@ See `apps/app/src/db/migrations/0001_initial.sql` for the full schema.
 - `user_practices` + `user_practice_slots` — plan-of-life configuration
 - `completions` — practice completion event log
 - `cursors` — reading positions (Divine Office tracks, Bible, Catechism, programs)
-- `preferences` — all user settings (theme, translation, font config, etc.)
+- `preferences` — all user settings (theme, translation, font config, etc.); `pinned-items` here is a JSON array of pinned corpus item ids
 - `cached_translations` — offline cache for online Bible translations
-- `cache` — Hearth content + API responses (propers, images, etc.)
-- `installed_books` — installed library tracking
+- `cache` — generic kv cache: catalog, manifest blobs, API responses
 
-### Library files (expo-file-system)
-- `.pray` archives extracted to `documentDirectory/books/{libraryId}/`
-- Book chapters (`.md`/`.html`) read from disk at runtime
-- Prayer/practice/chapter JSON loaded from extracted library dirs
+### Content blobs (expo-file-system / IndexedDB)
+- Native: `documentDirectory/blobs/{ab}/{cd}/{full-sha256}` (mirrors the server layout)
+- Web: IndexedDB key `blob:{full-sha256}`
+- Hash-addressed → immutable; once fetched, cached forever (subject to LRU eviction with pinned items skipped)
 
 ### Bundled Assets (read-only, app-only)
 - `apps/app/assets/textures/` — Image-based ornament PNGs
@@ -238,47 +200,35 @@ This is a pnpm workspaces + turborepo monorepo.
 ```
 ember/
   content/                            (source files — deployed to Hearth)
-    libraries/                        (THE content source of truth)
-      base/                  (core daily prayers — 44 practices, 37 prayers, 18 catechetical + formation chapters, spiritual-checkup seed)
-        library.json
-        practices/
-          morning-offering/
-            manifest.json
-            flow.json
-          rosary/
-            manifest.json
-            flow.json
-          ...
-        prayers/
-          our-father.json
-          hail-mary.json
-          ...
-        checkup/               (spiritual-checkup #156 seed content — private pastoral onboarding)
-          archetypes.json      (6 archetypes, loosely mapped to the Three Ways)
-          questions.json       (9-question intake — Q9 non-scoring — with weight vectors)
-          tracks.json          (per-archetype starter tracks: essentials/ideals/extras + weekly formation)
-      montfort-spirituality/          (mixed library — books + practice + chapter)
-        library.json
-        books/
-          montfort-true-devotion/
-            book.json
-            en-US/
-            pt-BR/
-            fr-FR/
-        practices/
-          total-consecration/
-        chapters/
-          about-montfort/
-        prayers/
-      novenas/                  (14 novena programs)
-      alphonsus-liguori/              (9 books + 1 practice)
-      devotions/                    (21 additional practices)
-      sacred-heart/                   (4 practices + 5 chapters)
-      ave-maria-claretiano/           (Portuguese devocionário)
-      litanies/                       (9 litany practices + 2 chapters)
-      registry.json                   (generated — library catalog metadata)
-      book.css                  (base stylesheet for all book rendering)
-      *.pray                          (generated — built .pray archives)
+    prayers/                          (~99 multilingual prayer assets)
+      our-father.json
+      hail-mary.json
+      ...
+    practices/                        (~99 practices — manifest + flow + fragments + data + tracks + images)
+      morning-offering/
+        manifest.json
+        flow.json
+      rosary/
+        manifest.json
+        flow.json
+        fragments/
+        data/
+        tracks/
+        images/
+      ...
+    chapters/                         (~40 native-rendered formation chapters)
+    books/                            (~25 long-form spiritual works — per-language markdown chapters)
+      catechism-of-trent/
+        book.json
+        en-US/
+        pt-BR/
+        images/
+    masses/of/                        (972 OF Mass propers — split per-language at build)
+    of-library/                       (Mass-of building blocks: ordinary, preface, eucharistic-prayer)
+    of-data/                          (calendar, saints, IGMR, sacerdotale)
+    collections/                      (curated reading lists — 14 collection JSONs)
+    checkup/                          (spiritual-checkup decision-tree data)
+    book.css                          (base stylesheet for all book rendering)
     bible/drb/                        (Douay-Rheims JSON, 73 books + index)
     propers/                          (EF Mass propers — tempora + sancti)
     catechism/                        (CCC JSON — generated at deploy, not committed)
