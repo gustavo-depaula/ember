@@ -199,7 +199,7 @@
             },
             {
               "type": "prayer",
-              "ref": "base:anima-christi"
+              "ref": "anima-christi"
             },
             {
               "type": "divider"

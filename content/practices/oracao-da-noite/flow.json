@@ -23,19 +23,19 @@
     },
     {
       "type": "prayer",
-      "ref": "base:our-father"
+      "ref": "our-father"
     },
     {
       "type": "prayer",
-      "ref": "base:hail-mary"
+      "ref": "hail-mary"
     },
     {
       "type": "prayer",
-      "ref": "base:glory-be"
+      "ref": "glory-be"
     },
     {
       "type": "prayer",
-      "ref": "base:act-of-contrition"
+      "ref": "act-of-contrition"
     },
     {
       "type": "divider"

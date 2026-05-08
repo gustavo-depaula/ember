@@ -76,7 +76,7 @@
   "sections": [
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     },
     {
       "type": "rubric",
@@ -91,7 +91,7 @@
       "sections": [
         {
           "type": "prayer",
-          "ref": "base:hail-mary"
+          "ref": "hail-mary"
         }
       ]
     },
@@ -135,7 +135,7 @@
           "sections": [
             {
               "type": "prayer",
-              "ref": "base:hail-mary"
+              "ref": "hail-mary"
             }
           ]
         },

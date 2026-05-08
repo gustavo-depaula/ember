@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     },
     {
       "type": "heading",
@@ -37,7 +37,7 @@
     },
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     }
   ]
 }

@@ -220,7 +220,7 @@
   "sections": [
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     },
     {
       "type": "heading",
@@ -453,11 +453,11 @@
         },
         {
           "type": "prayer",
-          "ref": "base:apostles-creed"
+          "ref": "apostles-creed"
         },
         {
           "type": "prayer",
-          "ref": "base:our-father"
+          "ref": "our-father"
         },
         {
           "type": "repeat",
@@ -465,13 +465,13 @@
           "sections": [
             {
               "type": "prayer",
-              "ref": "base:hail-mary"
+              "ref": "hail-mary"
             }
           ]
         },
         {
           "type": "prayer",
-          "ref": "base:glory-be"
+          "ref": "glory-be"
         },
         {
           "type": "divider"
@@ -494,7 +494,7 @@
             },
             {
               "type": "prayer",
-              "ref": "base:our-father"
+              "ref": "our-father"
             },
             {
               "type": "repeat",
@@ -502,17 +502,17 @@
               "sections": [
                 {
                   "type": "prayer",
-                  "ref": "base:hail-mary"
+                  "ref": "hail-mary"
                 }
               ]
             },
             {
               "type": "prayer",
-              "ref": "base:glory-be"
+              "ref": "glory-be"
             },
             {
               "type": "prayer",
-              "ref": "base:fatima-prayer"
+              "ref": "fatima-prayer"
             },
             {
               "type": "rubric",
@@ -525,7 +525,7 @@
         },
         {
           "type": "prayer",
-          "ref": "base:hail-holy-queen"
+          "ref": "hail-holy-queen"
         },
         {
           "type": "prayer",
@@ -590,7 +590,7 @@
     },
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     }
   ]
 }

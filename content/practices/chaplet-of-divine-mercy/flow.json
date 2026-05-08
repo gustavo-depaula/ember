@@ -7,10 +7,10 @@
 				"pt-BR": "Orações Iniciais"
 			}
 		},
-		{ "type": "prayer", "ref": "base:sign-of-cross" },
-		{ "type": "prayer", "ref": "base:our-father" },
-		{ "type": "prayer", "ref": "base:hail-mary" },
-		{ "type": "prayer", "ref": "base:apostles-creed" },
+		{ "type": "prayer", "ref": "sign-of-cross" },
+		{ "type": "prayer", "ref": "our-father" },
+		{ "type": "prayer", "ref": "hail-mary" },
+		{ "type": "prayer", "ref": "apostles-creed" },
 		{ "type": "divider" },
 		{
 			"type": "repeat",
@@ -84,6 +84,6 @@
 				"pt-BR": "Jesus, Rei da Misericórdia, eu confio em Vós."
 			}
 		},
-		{ "type": "prayer", "ref": "base:sign-of-cross" }
+		{ "type": "prayer", "ref": "sign-of-cross" }
 	]
 }

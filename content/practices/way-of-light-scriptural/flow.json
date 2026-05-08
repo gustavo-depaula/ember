@@ -153,7 +153,7 @@
     },
     {
       "type": "prayer",
-      "ref": "base:sign-of-cross"
+      "ref": "sign-of-cross"
     },
     {
       "type": "prayer",
@@ -198,15 +198,15 @@
         },
         {
           "type": "prayer",
-          "ref": "base:our-father"
+          "ref": "our-father"
         },
         {
           "type": "prayer",
-          "ref": "base:hail-mary"
+          "ref": "hail-mary"
         },
         {
           "type": "prayer",
-          "ref": "base:glory-be"
+          "ref": "glory-be"
         },
         {
           "type": "divider"

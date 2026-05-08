@@ -110,7 +110,7 @@
             },
             {
               "type": "prayer",
-              "ref": "base:act-of-contrition"
+              "ref": "act-of-contrition"
             }
           ]
         },
