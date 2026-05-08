@@ -2,13 +2,13 @@
 import type { BilingualText, LocalizedText } from '@ember/content-engine'
 import { resolveFlow } from '@ember/content-engine'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { Book, BookOpen, ChevronLeft, Download, Trash2 } from 'lucide-react-native'
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { Book, BookOpen, ChevronLeft } from 'lucide-react-native'
+import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, View } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, confirm, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
 import { ManuscriptFrame } from '@/components/ManuscriptFrame'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { SectionBlock } from '@/components/SectionBlock'
@@ -34,18 +34,13 @@ type Library = {
   description?: Record<string, string>
 }
 
-import { baseLibraryId } from '@/features/libraries/constants'
-import {
-  useAvailableLibraries,
-  useDownloadLibrary,
-  useInstalledLibraries,
-  useRemoveLibrary,
-} from '@/features/libraries/hooks'
+import { useAvailableLibraries, useInstalledLibraries } from '@/features/libraries/hooks'
 import type {
   BookPreview,
   PracticePreview,
   PrayerPreview,
 } from '@/features/libraries/libraryManager'
+import { PinToggle } from '@/features/pinning/PinToggle'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -55,28 +50,30 @@ export default function LibraryDetailScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const removeLibrary = useRemoveLibrary()
-  const downloadLibrary = useDownloadLibrary()
   const { data: installed = [] } = useInstalledLibraries()
   const { data: available = [] } = useAvailableLibraries()
   const allSlots = useAllSlots()
 
   const installedRow = installed.find((b) => b.book_id === libraryId)
   const registryEntry = available.find((b) => b.id === libraryId)
-  const isInstalled = !!installedRow
 
+  // The pinned-collection's reconstructed manifest gives us full per-id lists
+  // when warmed; otherwise we render the catalog preview from the registry
+  // entry. Either way the screen is open-able, no install gate.
   const library = useMemo(() => {
     if (installedRow) return JSON.parse(installedRow.manifest) as Library
     return undefined
   }, [installedRow])
 
-  // For installed libraries: read from registry. For available: use registry preview.
   const practiceList: PracticePreview[] = useMemo(() => {
     if (library) {
       return library.practices.map((pid) => {
         const qid = qualifyId(library.id, pid)
         const m = getManifest(qid)
-        return { id: qid, name: m?.name ?? { 'en-US': pid }, icon: m?.icon ?? 'prayer' }
+        // Use the bare id for navigation/comparison; `/practices/[manifestId]`
+        // is a single dynamic segment and the slot store keys on the bare id.
+        const bareId = pid.includes('/') ? pid.split('/').slice(1).join('/') : pid
+        return { id: bareId, name: m?.name ?? { 'en-US': bareId }, icon: m?.icon ?? 'prayer' }
       })
     }
     if (registryEntry) return registryEntry.practices
@@ -127,7 +124,6 @@ export default function LibraryDetailScreen() {
       ? localizeContent(registryEntry.description)
       : undefined
   const version = library?.version ?? registryEntry?.version
-  const isProtectedLibrary = libraryId === baseLibraryId
 
   const enabledIds = useMemo(
     () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
@@ -138,16 +134,6 @@ export default function LibraryDetailScreen() {
   const [prayerModalMounted, setPrayerModalMounted] = useState(false)
   const { contentLanguage, secondaryLanguage } = usePreferencesStore()
   const overlayOpacity = useSharedValue(0)
-  const downloadProgress = useSharedValue(0)
-
-  const currentProgress = registryEntry ? (downloadLibrary.progress[registryEntry.id] ?? 0) : 0
-  useEffect(() => {
-    downloadProgress.value = withTiming(currentProgress, { duration: 300 })
-  }, [currentProgress, downloadProgress])
-
-  const progressFillStyle = useAnimatedStyle(() => ({
-    width: `${downloadProgress.value * 100}%`,
-  }))
 
   const overlayStyle = useAnimatedStyle(() => ({
     opacity: overlayOpacity.value,
@@ -184,7 +170,7 @@ export default function LibraryDetailScreen() {
   }, [overlayOpacity])
 
   const selectedPrayerData = useMemo(() => {
-    if (!selectedPrayer || !isInstalled) return undefined
+    if (!selectedPrayer) return undefined
     const asset = resolvePrayer(selectedPrayer, library?.id) ?? resolveCanticle(selectedPrayer)
     if (!asset) return undefined
     const bil = (text: Record<string, string>): BilingualText =>
@@ -208,7 +194,7 @@ export default function LibraryDetailScreen() {
       title: bil(asset.title),
       sections,
     }
-  }, [selectedPrayer, isInstalled, library, contentLanguage, secondaryLanguage])
+  }, [selectedPrayer, library, contentLanguage, secondaryLanguage])
 
   if (!library && !registryEntry) {
     return (
@@ -220,27 +206,6 @@ export default function LibraryDetailScreen() {
         </YStack>
       </ScreenLayout>
     )
-  }
-
-  async function handleRemove() {
-    if (isProtectedLibrary) {
-      await confirm({
-        title: t('library.cannotRemove'),
-        description: t('library.cannotRemoveDesc'),
-        singleAction: true,
-      })
-      return
-    }
-    const ok = await confirm({
-      title: t('library.removeConfirm'),
-      description: t('library.removeConfirmDesc'),
-      confirmLabel: t('library.remove'),
-      destructive: true,
-    })
-    if (ok) {
-      // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-      removeLibrary.mutate(libraryId!, { onSuccess: () => router.back() })
-    }
   }
 
   return (
@@ -272,59 +237,9 @@ export default function LibraryDetailScreen() {
             </Text>
           )}
 
-          {!isInstalled && registryEntry && (
-            <YStack gap="$sm">
-              <AnimatedPressable
-                onPress={() => downloadLibrary.mutate(registryEntry)}
-                disabled={downloadLibrary.isPending}
-                accessibilityRole="button"
-                accessibilityLabel={
-                  downloadLibrary.isPending ? t('library.downloading') : t('library.download')
-                }
-              >
-                <XStack
-                  backgroundColor={downloadLibrary.isPending ? '$borderColor' : '$accent'}
-                  borderRadius="$lg"
-                  padding="$md"
-                  justifyContent="center"
-                  alignItems="center"
-                  gap="$sm"
-                  overflow="hidden"
-                >
-                  {downloadLibrary.isPending && (
-                    <Animated.View
-                      style={[
-                        {
-                          position: 'absolute',
-                          top: 0,
-                          left: 0,
-                          bottom: 0,
-                          backgroundColor: theme.accent.val,
-                          borderRadius: 12,
-                        },
-                        progressFillStyle,
-                      ]}
-                    />
-                  )}
-                  <Download size={18} color="white" />
-                  <Text fontFamily="$heading" fontSize="$3" color="white">
-                    {downloadLibrary.isPending ? t('library.downloading') : t('library.download')}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-              {downloadLibrary.isError && (
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorBurgundy"
-                  textAlign="center"
-                  fontStyle="italic"
-                >
-                  {t('library.downloadFailed')}
-                </Text>
-              )}
-            </YStack>
-          )}
+          <XStack>
+            <PinToggle itemId={`collection/${libraryId}`} />
+          </XStack>
 
           <SectionDivider />
 
@@ -340,18 +255,14 @@ export default function LibraryDetailScreen() {
                   return (
                     <AnimatedPressable
                       key={chapter.id}
-                      onPress={
-                        isInstalled
-                          ? () =>
-                              router.push({
-                                // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                                pathname: '/browse/chapters/[chapterId]' as any,
-                                // biome-ignore lint/style/noNonNullAssertion: guarded by early return
-                                params: { chapterId: chapter.id, libraryId: libraryId! },
-                              })
-                          : undefined
+                      onPress={() =>
+                        router.push({
+                          // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                          pathname: '/browse/chapters/[chapterId]' as any,
+                          // biome-ignore lint/style/noNonNullAssertion: guarded by early return
+                          params: { chapterId: chapter.id, libraryId: libraryId! },
+                        })
                       }
-                      disabled={!isInstalled}
                       accessibilityRole="link"
                       accessibilityLabel={chapterTitle}
                     >
@@ -364,17 +275,14 @@ export default function LibraryDetailScreen() {
                         alignItems="center"
                         borderWidth={1}
                         borderColor="$borderColor"
-                        opacity={isInstalled ? 1 : 0.7}
                       >
                         <BookOpen size={22} color={theme.colorSecondary.val} />
                         <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
                           {chapterTitle}
                         </Text>
-                        {isInstalled && (
-                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                            ›
-                          </Text>
-                        )}
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
                       </XStack>
                     </AnimatedPressable>
                   )
@@ -397,8 +305,7 @@ export default function LibraryDetailScreen() {
                   return (
                     <AnimatedPressable
                       key={book.id}
-                      onPress={isInstalled ? () => handleBookTap(book.id) : undefined}
-                      disabled={!isInstalled}
+                      onPress={() => handleBookTap(book.id)}
                       accessibilityRole="link"
                       accessibilityLabel={bookName}
                     >
@@ -411,7 +318,6 @@ export default function LibraryDetailScreen() {
                         alignItems="center"
                         borderWidth={1}
                         borderColor="$borderColor"
-                        opacity={isInstalled ? 1 : 0.7}
                       >
                         <Book size={22} color={theme.accent.val} />
                         <YStack flex={1}>
@@ -424,11 +330,9 @@ export default function LibraryDetailScreen() {
                             </Text>
                           )}
                         </YStack>
-                        {isInstalled && (
-                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                            ›
-                          </Text>
-                        )}
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
                       </XStack>
                     </AnimatedPressable>
                   )
@@ -453,14 +357,10 @@ export default function LibraryDetailScreen() {
                   return (
                     <AnimatedPressable
                       key={practice.id}
-                      onPress={
-                        isInstalled
-                          ? () =>
-                              // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
-                              router.push(`/practices/${practice.id}` as any)
-                          : undefined
+                      onPress={() =>
+                        // biome-ignore lint/suspicious/noExplicitAny: expo-router untyped route
+                        router.push(`/practices/${practice.id}` as any)
                       }
-                      disabled={!isInstalled}
                       accessibilityRole="link"
                       accessibilityLabel={practiceName}
                     >
@@ -473,7 +373,6 @@ export default function LibraryDetailScreen() {
                         alignItems="center"
                         borderWidth={1}
                         borderColor="$borderColor"
-                        opacity={isInstalled ? 1 : 0.7}
                       >
                         <PracticeIcon name={practice.icon} size={22} />
                         <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
@@ -484,11 +383,9 @@ export default function LibraryDetailScreen() {
                             {t('catalog.alreadyInPlan')}
                           </Text>
                         )}
-                        {isInstalled && (
-                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                            ›
-                          </Text>
-                        )}
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
                       </XStack>
                     </AnimatedPressable>
                   )
@@ -511,8 +408,7 @@ export default function LibraryDetailScreen() {
                   return (
                     <AnimatedPressable
                       key={prayer.id}
-                      onPress={isInstalled ? () => openPrayer(prayer.id) : undefined}
-                      disabled={!isInstalled}
+                      onPress={() => openPrayer(prayer.id)}
                       accessibilityRole="button"
                       accessibilityLabel={prayerTitle}
                     >
@@ -525,39 +421,18 @@ export default function LibraryDetailScreen() {
                         alignItems="center"
                         borderWidth={1}
                         borderColor="$borderColor"
-                        opacity={isInstalled ? 1 : 0.7}
                       >
                         <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
                           {prayerTitle}
                         </Text>
-                        {isInstalled && (
-                          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                            ›
-                          </Text>
-                        )}
+                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                          ›
+                        </Text>
                       </XStack>
                     </AnimatedPressable>
                   )
                 })}
               </YStack>
-            </>
-          )}
-
-          {isInstalled && !isProtectedLibrary && (
-            <>
-              <SectionDivider />
-              <AnimatedPressable
-                onPress={handleRemove}
-                accessibilityRole="button"
-                accessibilityLabel={t('library.remove')}
-              >
-                <XStack justifyContent="center" alignItems="center" gap="$sm" paddingVertical="$sm">
-                  <Trash2 size={16} color={theme.colorSecondary.val} />
-                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                    {t('library.remove')}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
             </>
           )}
         </YStack>
