@@ -36,7 +36,6 @@ import {
   warmCriticalManifests,
   warmDeferredManifests,
 } from '@/content/resolver'
-import { registerStarter } from '@/content/starter'
 import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
@@ -143,10 +142,6 @@ export default function RootLayout() {
 
     async function initCorpus() {
       try {
-        // 1. Embedded starter pack — synchronous, in-memory. App is functional
-        //    offline immediately with essential prayers + minimal Rosary.
-        registerStarter()
-
         registerDataSources()
         await initHearth()
 

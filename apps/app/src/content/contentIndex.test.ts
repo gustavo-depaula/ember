@@ -9,7 +9,6 @@ import {
   getEntry,
   hasEntry,
   invalidateMemberOfIndex,
-  registerStaticEntry,
   rememberManifestBody,
   resetContentIndex,
   search,
@@ -64,18 +63,9 @@ describe('contentIndex', () => {
     expect(getEntry('does/not/exist')).toBeUndefined()
   })
 
-  it('hasEntry honors both catalog and static overrides', () => {
+  it('hasEntry reports membership in the catalog', () => {
     expect(hasEntry('practice/rosary')).toBe(true)
     expect(hasEntry('prayer/synthetic')).toBe(false)
-    registerStaticEntry('prayer/synthetic', { kind: 'prayer', hash: 'syn', size: 5 })
-    expect(hasEntry('prayer/synthetic')).toBe(true)
-  })
-
-  it('static overrides take priority over catalog entries', () => {
-    const original = getEntry('prayer/our-father')!
-    expect(original.hash).toBe('p-our-father')
-    registerStaticEntry('prayer/our-father', { kind: 'prayer', hash: 'override', size: 1 })
-    expect(getEntry('prayer/our-father')?.hash).toBe('override')
   })
 
   it('canonicalize prepends a kind prefix when missing', () => {
@@ -101,11 +91,11 @@ describe('contentIndex', () => {
     expect(prayers).not.toContain('practice/rosary')
   })
 
-  it('getAllEntries merges catalog with static overrides', () => {
-    registerStaticEntry('prayer/synthetic', { kind: 'prayer', hash: 'syn', size: 1 })
+  it('getAllEntries returns every catalog entry', () => {
     const all = getAllEntries()
     expect(all.has('prayer/our-father')).toBe(true)
-    expect(all.has('prayer/synthetic')).toBe(true)
+    expect(all.has('practice/rosary')).toBe(true)
+    expect(all.has('collection/marian')).toBe(true)
   })
 
   it('search matches localized names + tags', () => {

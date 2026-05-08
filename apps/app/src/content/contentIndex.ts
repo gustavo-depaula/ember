@@ -2,8 +2,8 @@
  * In-memory catalog index for Hearth v2.
  *
  * `getAllEntries` and `getEntriesByKind` are called from React render paths;
- * results are cached and invalidated on `setCatalog` / `registerStaticEntry`
- * so we don't rebuild the merged map for every read.
+ * results are cached and invalidated on `setCatalog` so we don't rebuild the
+ * merged map for every read.
  */
 
 import type {
@@ -22,10 +22,8 @@ export const RESIDENT_KINDS = [
 ] as const satisfies ReadonlyArray<CatalogItemKind>
 
 // Items kept in the corpus for engine-feature documentation but never shown to
-// end users. The starter collection is internal bootstrap; examples are
-// reference practices for authors. Filter at every read site that powers
-// browse, search, or list UIs.
-const HIDDEN_COLLECTION_IDS = new Set(['collection/starter', 'collection/examples'])
+// end users. Filter at every read site that powers browse, search, or list UIs.
+const HIDDEN_COLLECTION_IDS = new Set(['collection/examples'])
 const exampleIdPattern = /^\d+-/
 
 export function isHiddenCollection(id: string): boolean {
@@ -38,7 +36,6 @@ export function isHiddenPractice(id: string): boolean {
 }
 
 let catalog: Catalog = { version: 2, generated: '', items: {} }
-const staticOverrides = new Map<string, CatalogEntry>()
 const manifestBodies = new Map<string, unknown>()
 
 let mergedEntries: Map<string, CatalogEntry> | undefined
@@ -83,13 +80,6 @@ export function getCatalog(): Catalog {
   return catalog
 }
 
-export function registerStaticEntry(id: string, entry: CatalogEntry, manifestBody?: unknown): void {
-  staticOverrides.set(id, entry)
-  if (manifestBody !== undefined) manifestBodies.set(entry.hash, manifestBody)
-  invalidateEntryCaches()
-  bumpCatalogVersion()
-}
-
 export function notifyManifestsWarmed(): void {
   bumpCatalogVersion()
 }
@@ -104,24 +94,22 @@ export function getRememberedManifest<T>(hash: string): T | undefined {
 
 export function resetContentIndex(): void {
   catalog = { version: 2, generated: '', items: {} }
-  staticOverrides.clear()
   manifestBodies.clear()
   invalidateEntryCaches()
 }
 
 export function getEntry(id: string): CatalogEntry | undefined {
-  return staticOverrides.get(id) ?? catalog.items[id]
+  return catalog.items[id]
 }
 
 export function hasEntry(id: string): boolean {
-  return staticOverrides.has(id) || id in catalog.items
+  return id in catalog.items
 }
 
 export function getAllEntries(): Map<string, CatalogEntry> {
   if (mergedEntries) return mergedEntries
   const out = new Map<string, CatalogEntry>()
   for (const [id, entry] of Object.entries(catalog.items)) out.set(id, entry)
-  for (const [id, entry] of staticOverrides) out.set(id, entry)
   mergedEntries = out
   return out
 }

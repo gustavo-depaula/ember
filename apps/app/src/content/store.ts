@@ -13,8 +13,6 @@ const nativeFs =
     ? (require('expo-file-system') as typeof import('expo-file-system'))
     : undefined
 
-const inlineBlobs = new Map<string, Uint8Array>()
-
 // Concurrent getBlob(h) calls share one fetch.
 const inflight = new Map<string, Promise<Uint8Array>>()
 
@@ -36,12 +34,7 @@ function blobFile(hash: string) {
   return new NativeFile(Paths.document, blobPath(hash))
 }
 
-export function registerStaticBlob(hash: string, data: Uint8Array): void {
-  inlineBlobs.set(hash, data)
-}
-
 export async function hasBlob(hash: string): Promise<boolean> {
-  if (inlineBlobs.has(hash)) return true
   if (Platform.OS === 'web') {
     const bytes = await idbReadBinary(`blob:${hash}`)
     return bytes !== undefined
@@ -50,7 +43,6 @@ export async function hasBlob(hash: string): Promise<boolean> {
 }
 
 async function readFromCache(hash: string): Promise<Uint8Array | undefined> {
-  if (inlineBlobs.has(hash)) return inlineBlobs.get(hash)!
   if (Platform.OS === 'web') {
     return idbReadBinary(`blob:${hash}`)
   }
