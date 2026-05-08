@@ -1,0 +1,17 @@
+# CAPÍTULO XXX. Outros Conselhos sobre a Conversação.
+
+QUE as tuas palavras sejam benignas, francas, sinceras, retas, simples e verdadeiras; evita todo artifício, duplicidade e fingimento, lembrando-te de que, embora nem sempre seja bom publicar tudo o que pode ser verdade, jamais é lícito opor-se à verdade. Faz regra de nunca, conscientemente, dizer o que não é estritamente verdadeiro, nem para acusar nem para desculpar, recordando sempre que Deus é o Deus da Verdade. Se involuntariamente disseste o que não é verdade, e é possível corrigir-te logo por meio de explicação ou reparação, faz-o. Uma desculpa franca tem muito mais peso do que qualquer mentira.
+
+Pode às vezes ser lícito ocultar ou disfarçar a verdade, mas nunca se há de fazê-lo senão em casos especiais que tornem essa reserva claramente necessária para o serviço e a glória de Deus. Doutro modo, todo tal artifício é perigoso; e diz-nos a Sagrada Escritura que o Espírito Santo de Deus não habita com os falsos ou de coração dúplice. Crê-me, não há astúcia tão proveitosa e bem-sucedida como a simplicidade. A prudência mundana e o artifício pertencem aos filhos deste mundo; mas os filhos de Deus seguem em frente com coração simples e em toda confiança; — falsidade, engano e duplicidade são sinais certos de espírito mesquinho e fraco.
+
+No quarto livro das suas Confissões, Santo Agostinho falou em termos muito fortes da sua paixão devota a um amigo, dizendo que tinham os dois apenas uma alma, e que, depois da morte do amigo, sua vida se lhe tornou um horror, embora temesse a morte. Mas mais tarde estas expressões lhe pareceram irreais e afetadas, e retirou-as nas suas *Retractações*. Vês como aquele grande espírito era sensível à irrealidade e à afetação. Por certo, a franca honestidade e sinceridade no falar é grande beleza na vida cristã. «Eu disse: hei de cuidar dos meus caminhos, para não ofender com a minha língua».[^1] «Põe, Senhor, uma guarda à minha boca, sentinela à porta dos meus lábios».[^2]
+
+Era ditado de São Luís que não se deve contradizer a ninguém, salvo se há pecado ou dano em consentir; e isso para evitar contendas e discussões. De qualquer modo, quando for necessário contradizer alguém, ou afirmar a própria opinião, deve fazer-se com mansidão e consideração, sem irritação nem veemência. Em verdade, nada ganhamos com a aspereza ou a petulância.
+
+O silêncio, tão louvado pelos antigos sábios, não se refere tanto ao uso literal de poucas palavras, quanto a não usar muitas palavras inúteis. Sob este aspecto, devemos olhar menos à quantidade do que à qualidade; e, parece-me, o nosso intento há de ser evitar ambos os extremos. Uma reserva e rigidez excessivas, que se afastam de toda conversa familiar e amistosa, são desconfiadas e implicam certa espécie de orgulho desdenhoso; ao passo que um falatório incessante, sem deixar oportunidade aos outros para meterem palavra, é frívolo e fastidioso.
+
+São Luís repugnava às confidências e cochichos privados em sociedade, especialmente à mesa, para que não se levantasse a suspeita de que se repetia algum escândalo. «Os que têm algo divertido ou agradável a dizer», argumentava, «façam que todos partilhem do divertimento; mas, se querem falar de matérias importantes, esperem ocasião mais própria».
+
+[^1]: Sl 39:1.
+
+[^2]: Sl 141:3.

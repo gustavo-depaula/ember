@@ -1,0 +1,11 @@
+# CAPÍTULO XIX. Como fazer uma Confissão Geral.
+
+Tais meditações como estas, minha filha, te ajudarão; e tendo-as feito, prossegue com bravura, em espírito de humildade, a fazer a tua confissão geral; — mas suplico-te, não te perturbes com qualquer espécie de temor. O escorpião que nos pica é venenoso, mas, quando o seu óleo foi destilado, é o melhor remédio para a sua mordida; — do mesmo modo, o pecado é vergonhoso quando o cometemos, mas, reduzido ao arrependimento e à confissão, torna-se salutar e honroso. A contrição e a confissão são em si mesmas tão belas e tão suaves de odor, que apagam a fealdade e dispersam o mau cheiro do pecado. Simão, o leproso, chamou Madalena de pecadora, [^1] mas Nosso Senhor voltou o discurso para o perfume do seu unguento e para a grandeza do seu amor. Se formos verdadeiramente humildes, minha filha, os nossos pecados nos serão infinitamente desagradáveis, porque ofendem a Deus; — mas será bem-vindo e doce acusarmo-nos deles, porque, ao fazê-lo, honramos a Deus; e há sempre algo de aliviador em contar plenamente ao médico todos os detalhes da nossa dor.
+
+Quando te apresentares ao teu pai espiritual, imagina que estás no Monte Calvário, aos pés do Salvador Crucificado, cujo Sangue precioso está caindo livremente para te lavar de todo o teu pecado. Embora não seja o seu Sangue real, é contudo o mérito daquele Sangue derramado que é aspergido sobre os seus penitentes ao se ajoelharem na Confissão. Sê certa, então, de que abrirás plenamente o teu coração, e afastarás os teus pecados confessando-os, pois, na medida em que estes são lançados fora, na mesma medida os preciosos Méritos da Paixão de Cristo entrarão e te encherão de bênçãos.
+
+Conta tudo simplesmente e com franqueza, e satisfaz inteiramente a tua consciência ao fazê-lo. Em seguida, ouve as admoestações e os conselhos do Ministro de Deus, dizendo no teu coração: "Fala, Senhor, que o teu servo ouve." É verdadeiramente Deus a quem ouves, porquanto Ele disse aos seus representantes: "Quem vos ouve a mim ouve." [^2] Em seguida, toma a protestação seguinte, como sumário da tua contrição, tendo-a antes estudado e meditado com cuidado: lê-a por inteiro com a intenção mais ardente que puderes formar.
+
+[^1]: Mc 14:3 e Lc 7:39.
+
+[^2]: Lc 10:16.
