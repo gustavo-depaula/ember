@@ -1,9 +1,9 @@
 {
-  "id": "novena-for-the-sick",
+  "id": "novena-for-the-sick-escriva",
   "icon": "prayer",
   "name": {
-    "en-US": "Novena for the Sick",
-    "pt-BR": "Novena dos Enfermos"
+    "en-US": "Novena for the Sick, to St Josemaria Escrivá",
+    "pt-BR": "Novena dos Enfermos, a São Josemaria Escrivá"
   },
   "categories": ["program", "devotion", "saints", "healing"],
   "estimatedMinutes": 10,

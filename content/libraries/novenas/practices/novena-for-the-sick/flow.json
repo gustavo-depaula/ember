@@ -5,26 +5,12 @@
       "ref": "base:sign-of-cross"
     },
     {
-      "type": "heading",
-      "text": {
-        "en-US": "Novena for the Sick",
-        "pt-BR": "Novena dos Enfermos"
-      }
-    },
-    {
-      "type": "rubric",
-      "text": {
-        "en-US": "to St. Josemaría Escrivá",
-        "pt-BR": "a São Josemaria Escrivá"
-      }
-    },
-    {
       "type": "cycle",
       "data": "sick-novena-days",
       "as": "template",
       "sections": [
         {
-          "type": "subheading",
+          "type": "heading",
           "text": "{{dayTitle}}"
         },
         {
@@ -56,7 +42,7 @@
               },
               "sections": [
                 {
-                  "type": "meditation",
+                  "type": "prayer",
                   "text": "{{intentionA}}"
                 }
               ]
@@ -69,7 +55,7 @@
               },
               "sections": [
                 {
-                  "type": "meditation",
+                  "type": "prayer",
                   "text": "{{intentionB}}"
                 }
               ]
