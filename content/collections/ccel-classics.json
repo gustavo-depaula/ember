@@ -19,18 +19,31 @@
     "church-fathers",
     "spiritual-life"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "book/imitation-of-christ"
-    },
-    {
-      "ref": "book/introduction-to-the-devout-life"
-    },
-    {
-      "ref": "book/confessions"
-    },
-    {
-      "ref": "book/summa-contra-gentiles"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/imitation-of-christ"
+        },
+        {
+          "kind": "item",
+          "ref": "book/introduction-to-the-devout-life"
+        },
+        {
+          "kind": "item",
+          "ref": "book/confessions"
+        },
+        {
+          "kind": "item",
+          "ref": "book/summa-contra-gentiles"
+        }
+      ]
     }
   ]
 }

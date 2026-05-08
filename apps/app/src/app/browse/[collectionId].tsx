@@ -1,78 +1,79 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { Book, BookOpen, ChevronLeft } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { ChevronLeft, ChevronsDownUp, ChevronsUpDown } from 'lucide-react-native'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, View } from 'react-native'
+import { Pressable, type View } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
-import { PracticeIcon } from '@/components/PracticeIcon'
-import { getCollectionItems, getEntry, getRememberedManifest } from '@/content/contentIndex'
+import { ScreenLayout } from '@/components'
+import { getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type {
-  BookEntry,
-  CatalogEntry,
-  ChapterManifest,
-  PracticeManifest,
-  PrayerItemManifest,
+  CollectionBlock,
+  CollectionItemManifest,
+  CollectionSection,
 } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { CollectionProse, collapseKey, SectionList, useCollapseStore } from '@/features/collections'
 import { PinToggle } from '@/features/pinning/PinToggle'
-import { useAllSlots } from '@/features/plan-of-life'
 import { PrayerModal } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 
-function bareId(corpusId: string): string {
-  const slash = corpusId.indexOf('/')
-  return slash === -1 ? corpusId : corpusId.slice(slash + 1)
-}
-
-type GroupedItems = {
-  chapters: { id: string; title: Record<string, string> }[]
-  books: { id: string; name: Record<string, string>; author?: Record<string, string> }[]
-  practices: { id: string; name: Record<string, string>; icon: string }[]
-  prayers: { id: string; title: Record<string, string> }[]
-}
-
-function groupItemsByKind(refs: { ref: string; entry?: CatalogEntry }[]): GroupedItems {
-  const out: GroupedItems = { chapters: [], books: [], practices: [], prayers: [] }
-  for (const { ref, entry } of refs) {
-    if (!entry) continue
-    const id = bareId(ref)
-    if (entry.kind === 'chapter') {
-      const body = getRememberedManifest<ChapterManifest>(entry.hash)
-      out.chapters.push({
-        id,
-        title: (body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }) as Record<
-          string,
-          string
-        >,
+function collectSectionKeys(
+  collectionId: string,
+  sections: CollectionSection[] | undefined,
+): { key: string; defaultCollapsed: boolean }[] {
+  const out: { key: string; defaultCollapsed: boolean }[] = []
+  function walk(secs: CollectionSection[] | undefined): void {
+    if (!secs) return
+    for (const s of secs) {
+      out.push({
+        key: collapseKey(collectionId, s.id),
+        defaultCollapsed: s.defaultCollapsed ?? false,
       })
-    } else if (entry.kind === 'book') {
-      const body = getRememberedManifest<BookEntry>(entry.hash)
-      out.books.push({
-        id,
-        name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
-        author: (body?.author ?? entry.author) as Record<string, string> | undefined,
-      })
-    } else if (entry.kind === 'practice') {
-      const body = getRememberedManifest<PracticeManifest>(entry.hash)
-      out.practices.push({
-        id,
-        name: (body?.name ?? entry.name ?? { 'en-US': id }) as Record<string, string>,
-        icon: body?.icon ?? entry.icon ?? 'prayer',
-      })
-    } else if (entry.kind === 'prayer') {
-      const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
-      out.prayers.push({
-        id,
-        title: (body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }) as Record<
-          string,
-          string
-        >,
-      })
+      const nested: CollectionSection[] = []
+      for (const b of s.blocks) {
+        if (b.kind === 'section') nested.push(b)
+      }
+      walk(nested)
     }
   }
+  walk(sections)
   return out
+}
+
+function countLeafItems(blocks: CollectionBlock[] | undefined): number {
+  if (!blocks) return 0
+  let n = 0
+  for (const b of blocks) {
+    if (b.kind === 'item') n++
+    else if (b.kind === 'section') n += countLeafItems(b.blocks)
+  }
+  return n
+}
+
+/**
+ * Find the chain of section ids that lead to a target item ref.
+ * Returns undefined if the ref is not in this collection.
+ */
+function findRefAncestors(
+  sections: CollectionSection[] | undefined,
+  targetRef: string,
+): string[] | undefined {
+  if (!sections) return undefined
+  function walk(secs: CollectionSection[], path: string[]): string[] | undefined {
+    for (const s of secs) {
+      const here = [...path, s.id]
+      for (const b of s.blocks) {
+        if (b.kind === 'item' && b.ref === targetRef) return here
+        if (b.kind === 'section') {
+          const found = walk([b], here)
+          if (found) return found
+        }
+      }
+    }
+    return undefined
+  }
+  return walk(sections, [])
 }
 
 export default function CollectionDetailScreen() {
@@ -80,22 +81,81 @@ export default function CollectionDetailScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const allSlots = useAllSlots()
   const catalogVersion = useCatalogVersion()
   const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
 
   const collectionId = `collection/${bareId}`
   const collectionEntry = getEntry(collectionId)
 
+  const hydrate = useCollapseStore((s) => s.hydrate)
+  const collapseHydrated = useCollapseStore((s) => s.hydrated)
+  useEffect(() => {
+    hydrate()
+  }, [hydrate])
+
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
-  const grouped = useMemo<GroupedItems>(
-    () => groupItemsByKind(getCollectionItems(collectionId)),
-    [collectionId, catalogVersion],
+  const manifest = useMemo<CollectionItemManifest | undefined>(() => {
+    if (!collectionEntry) return undefined
+    return getRememberedManifest<CollectionItemManifest>(collectionEntry.hash)
+  }, [collectionEntry, catalogVersion])
+
+  const sections = manifest?.sections
+  const sectionKeys = useMemo(
+    () => collectSectionKeys(collectionId, sections),
+    [collectionId, sections],
   )
 
-  const enabledIds = useMemo(
-    () => new Set(allSlots.filter((s) => s.enabled).map((s) => s.practice_id)),
-    [allSlots],
+  const allExpanded = useCollapseStore((s) => {
+    if (!collapseHydrated) return true
+    if (sectionKeys.length === 0) return true
+    return sectionKeys.every(({ key, defaultCollapsed }) => !s.isCollapsed(key, defaultCollapsed))
+  })
+  const setMany = useCollapseStore((s) => s.setMany)
+
+  // For see-also same-collection scroll: keep a map from ref → DOM node so we
+  // can scrollIntoView once any ancestor sections have been expanded.
+  const itemNodes = useRef<Map<string, View>>(new Map())
+  const registerItemRef = useCallback((ref: string, node: View | null) => {
+    if (node) itemNodes.current.set(ref, node)
+    else itemNodes.current.delete(ref)
+  }, [])
+
+  const handleSeeAlsoTap = useCallback(
+    (ref: string) => {
+      // Same-collection: expand ancestors then scroll into view
+      const ancestors = findRefAncestors(sections, ref)
+      if (ancestors) {
+        setMany(ancestors.map((sid) => ({ key: collapseKey(collectionId, sid), collapsed: false })))
+        // Wait a frame for the collapsed sections to render before scrolling.
+        requestAnimationFrame(() => {
+          requestAnimationFrame(() => {
+            const node = itemNodes.current.get(ref)
+            // RN-Web exposes the underlying HTMLElement on the View ref.
+            const dom = node as unknown as {
+              scrollIntoView?: (opts?: ScrollIntoViewOptions) => void
+            }
+            dom?.scrollIntoView?.({ behavior: 'smooth', block: 'center' })
+          })
+        })
+        return
+      }
+
+      // Cross-collection / outside this collection: route to standard destination.
+      const slash = ref.indexOf('/')
+      if (slash < 0) return
+      const kind = ref.slice(0, slash)
+      const id = ref.slice(slash + 1)
+      if (kind === 'prayer') setSelectedPrayerId(id)
+      else if (kind === 'practice')
+        router.push({ pathname: '/practices/[manifestId]', params: { manifestId: id } })
+      else if (kind === 'chapter')
+        router.push({ pathname: '/browse/chapters/[chapterId]', params: { chapterId: id } })
+      else if (kind === 'book')
+        router.push({ pathname: '/browse/book/[bookId]', params: { bookId: id } })
+      else if (kind === 'collection')
+        router.push({ pathname: '/browse/[collectionId]', params: { collectionId: id } })
+    },
+    [collectionId, sections, setMany, router],
   )
 
   if (!collectionEntry) {
@@ -103,7 +163,7 @@ export default function CollectionDetailScreen() {
       <ScreenLayout>
         <YStack padding="$lg">
           <Text fontFamily="$body" color="$colorSecondary">
-            {t('library.libraryNotFound')}
+            {t('browse.collectionNotFound')}
           </Text>
         </YStack>
       </ScreenLayout>
@@ -114,14 +174,14 @@ export default function CollectionDetailScreen() {
   const description = collectionEntry.description
     ? localizeContent(collectionEntry.description)
     : undefined
-  const totalCount =
-    grouped.chapters.length +
-    grouped.books.length +
-    grouped.practices.length +
-    grouped.prayers.length
+  const totalCount = sections ? countLeafItems(sections.flatMap((s) => s.blocks)) : 0
+
+  function handleToggleAll() {
+    setMany(sectionKeys.map(({ key }) => ({ key, collapsed: allExpanded })))
+  }
 
   return (
-    <View style={{ flex: 1 }}>
+    <YStack flex={1}>
       <ScreenLayout>
         <YStack gap="$lg" paddingVertical="$lg">
           <XStack alignItems="center" gap="$md">
@@ -138,9 +198,23 @@ export default function CollectionDetailScreen() {
                 {name}
               </Text>
               <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {totalCount} {t('library.items', { defaultValue: 'items' })}
+                {totalCount} {t('browse.items')}
               </Text>
             </YStack>
+            {sectionKeys.length > 0 && (
+              <Pressable
+                onPress={handleToggleAll}
+                hitSlop={8}
+                accessibilityRole="button"
+                accessibilityLabel={allExpanded ? t('browse.collapseAll') : t('browse.expandAll')}
+              >
+                {allExpanded ? (
+                  <ChevronsDownUp size={20} color={theme.colorSecondary?.val} />
+                ) : (
+                  <ChevronsUpDown size={20} color={theme.colorSecondary?.val} />
+                )}
+              </Pressable>
+            )}
           </XStack>
 
           {description && (
@@ -153,190 +227,21 @@ export default function CollectionDetailScreen() {
             <PinToggle itemId={collectionId} />
           </XStack>
 
-          {grouped.chapters.length > 0 && (
-            <>
-              <SectionDivider />
-              <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t('library.contents')}
-              </Text>
-              <YStack gap="$xs">
-                {grouped.chapters.map((chapter) => (
-                  <AnimatedPressable
-                    key={chapter.id}
-                    onPress={() =>
-                      router.push({
-                        pathname: '/browse/chapters/[chapterId]',
-                        params: { chapterId: chapter.id },
-                      })
-                    }
-                    accessibilityRole="link"
-                    accessibilityLabel={localizeContent(chapter.title)}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                    >
-                      <BookOpen size={22} color={theme.colorSecondary?.val} />
-                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                        {localizeContent(chapter.title)}
-                      </Text>
-                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                        ›
-                      </Text>
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
-              </YStack>
-            </>
-          )}
+          {manifest?.prologue && <CollectionProse prose={manifest.prologue} />}
 
-          {grouped.books.length > 0 && (
-            <>
-              <SectionDivider />
-              <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t('library.books')}
-              </Text>
-              <YStack gap="$xs">
-                {grouped.books.map((book) => (
-                  <AnimatedPressable
-                    key={book.id}
-                    onPress={() =>
-                      router.push({
-                        pathname: '/browse/book/[bookId]',
-                        params: { bookId: book.id },
-                      })
-                    }
-                    accessibilityRole="link"
-                    accessibilityLabel={localizeContent(book.name)}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                    >
-                      <Book size={22} color={theme.accent?.val} />
-                      <YStack flex={1}>
-                        <Text fontFamily="$body" fontSize="$2" color="$color">
-                          {localizeContent(book.name)}
-                        </Text>
-                        {book.author && (
-                          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                            {localizeContent(book.author)}
-                          </Text>
-                        )}
-                      </YStack>
-                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                        ›
-                      </Text>
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
-              </YStack>
-            </>
-          )}
-
-          {grouped.practices.length > 0 && (
-            <>
-              <SectionDivider />
-              <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t('library.practices')}
-              </Text>
-              <YStack gap="$xs">
-                {grouped.practices.map((practice) => {
-                  const inPlan = enabledIds.has(practice.id)
-                  return (
-                    <AnimatedPressable
-                      key={practice.id}
-                      onPress={() =>
-                        router.push({
-                          pathname: '/practices/[manifestId]',
-                          params: { manifestId: practice.id },
-                        })
-                      }
-                      accessibilityRole="link"
-                      accessibilityLabel={localizeContent(practice.name)}
-                    >
-                      <XStack
-                        backgroundColor="$backgroundSurface"
-                        borderRadius="$md"
-                        padding="$sm"
-                        paddingHorizontal="$md"
-                        gap="$md"
-                        alignItems="center"
-                        borderWidth={1}
-                        borderColor="$borderColor"
-                      >
-                        <PracticeIcon name={practice.icon} size={22} />
-                        <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                          {localizeContent(practice.name)}
-                        </Text>
-                        {inPlan && (
-                          <Text fontFamily="$body" fontSize="$1" color="$accent">
-                            {t('catalog.alreadyInPlan')}
-                          </Text>
-                        )}
-                        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                          ›
-                        </Text>
-                      </XStack>
-                    </AnimatedPressable>
-                  )
-                })}
-              </YStack>
-            </>
-          )}
-
-          {grouped.prayers.length > 0 && (
-            <>
-              <SectionDivider />
-              <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t('library.prayers')}
-              </Text>
-              <YStack gap="$xs">
-                {grouped.prayers.map((prayer) => (
-                  <AnimatedPressable
-                    key={prayer.id}
-                    onPress={() => setSelectedPrayerId(prayer.id)}
-                    accessibilityRole="button"
-                    accessibilityLabel={localizeContent(prayer.title)}
-                  >
-                    <XStack
-                      backgroundColor="$backgroundSurface"
-                      borderRadius="$md"
-                      padding="$sm"
-                      paddingHorizontal="$md"
-                      gap="$md"
-                      alignItems="center"
-                      borderWidth={1}
-                      borderColor="$borderColor"
-                    >
-                      <Text flex={1} fontFamily="$body" fontSize="$2" color="$color">
-                        {localizeContent(prayer.title)}
-                      </Text>
-                      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                        ›
-                      </Text>
-                    </XStack>
-                  </AnimatedPressable>
-                ))}
-              </YStack>
-            </>
+          {sections && sections.length > 0 && (
+            <SectionList
+              collectionId={collectionId}
+              sections={sections}
+              onOpenPrayer={setSelectedPrayerId}
+              onSeeAlsoTap={handleSeeAlsoTap}
+              registerItemRef={registerItemRef}
+            />
           )}
         </YStack>
       </ScreenLayout>
 
       <PrayerModal prayerId={selectedPrayerId} onClose={() => setSelectedPrayerId(undefined)} />
-    </View>
+    </YStack>
   )
 }

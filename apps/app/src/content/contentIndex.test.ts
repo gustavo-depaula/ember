@@ -112,7 +112,16 @@ describe('contentIndex', () => {
   it('getCollectionItems returns refs from a resident collection manifest', () => {
     rememberManifestBody('c-marian', {
       id: 'collection/marian',
-      items: [{ ref: 'practice/rosary' }, { ref: 'prayer/hail-mary' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [
+            { kind: 'item', ref: 'practice/rosary' },
+            { kind: 'item', ref: 'prayer/hail-mary' },
+          ],
+        },
+      ],
     } satisfies CollectionItemManifest)
 
     const items = getCollectionItems('collection/marian')
@@ -123,11 +132,29 @@ describe('contentIndex', () => {
   it('getCollectionsForItem reverse-indexes membership', () => {
     rememberManifestBody('c-marian', {
       id: 'collection/marian',
-      items: [{ ref: 'practice/rosary' }, { ref: 'prayer/hail-mary' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [
+            { kind: 'item', ref: 'practice/rosary' },
+            { kind: 'item', ref: 'prayer/hail-mary' },
+          ],
+        },
+      ],
     } satisfies CollectionItemManifest)
     rememberManifestBody('c-essentials', {
       id: 'collection/essentials',
-      items: [{ ref: 'practice/rosary' }, { ref: 'practice/morning-offering' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [
+            { kind: 'item', ref: 'practice/rosary' },
+            { kind: 'item', ref: 'practice/morning-offering' },
+          ],
+        },
+      ],
     } satisfies CollectionItemManifest)
 
     invalidateMemberOfIndex()
@@ -144,7 +171,13 @@ describe('contentIndex', () => {
   it('reverse index is invalidated when collections change', () => {
     rememberManifestBody('c-marian', {
       id: 'collection/marian',
-      items: [{ ref: 'practice/rosary' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [{ kind: 'item', ref: 'practice/rosary' }],
+        },
+      ],
     } satisfies CollectionItemManifest)
     invalidateMemberOfIndex()
 
@@ -152,7 +185,13 @@ describe('contentIndex', () => {
 
     rememberManifestBody('c-essentials', {
       id: 'collection/essentials',
-      items: [{ ref: 'practice/rosary' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [{ kind: 'item', ref: 'practice/rosary' }],
+        },
+      ],
     } satisfies CollectionItemManifest)
     invalidateMemberOfIndex()
 

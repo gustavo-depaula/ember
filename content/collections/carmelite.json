@@ -24,12 +24,23 @@
     "liturgical",
     "prayer"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "practice/intimita-divina"
-    },
-    {
-      "ref": "book/intimita-divina"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/intimita-divina"
+        },
+        {
+          "kind": "item",
+          "ref": "book/intimita-divina"
+        }
+      ]
     }
   ]
 }

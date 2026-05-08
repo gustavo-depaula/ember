@@ -100,9 +100,39 @@ export type TocNode = {
   children?: TocNode[]
 }
 
-// Hearth v2: collections are curated reading lists referencing corpus items by id.
+// Hearth v2: collections are structured, hierarchical indexes.
+// Sections group items by purpose; sub-sections nest one level deep.
 // Source shape on disk: content/collections/<id>.json
-export type CollectionItemRef = { ref: string } // e.g. "practice/rosary", "book/foo"
+
+export type CollectionProseBody = { body: LocalizedText }
+
+export type CollectionItemAnnotation = {
+  rubric?: LocalizedText
+  indulgence?: LocalizedText
+  attribution?: LocalizedText
+  context?: LocalizedText
+  recommendedTime?: 'morning' | 'noon' | 'evening' | 'night'
+}
+
+export type CollectionItem = {
+  ref: string // e.g. "practice/rosary", "book/foo"
+  label?: LocalizedText
+  annotation?: CollectionItemAnnotation
+  seeAlso?: string[]
+}
+
+export type CollectionBlock =
+  | ({ kind: 'item' } & CollectionItem)
+  | ({ kind: 'section' } & CollectionSection)
+  | { kind: 'prose'; body: CollectionProseBody }
+
+export type CollectionSection = {
+  id: string
+  title: LocalizedText
+  description?: CollectionProseBody
+  defaultCollapsed?: boolean
+  blocks: CollectionBlock[]
+}
 
 export type CollectionManifest = {
   id: string
@@ -114,7 +144,8 @@ export type CollectionManifest = {
   icon?: string
   image?: string
   defaults?: { autoSeed?: boolean }
-  items: CollectionItemRef[]
+  prologue?: CollectionProseBody
+  sections: CollectionSection[]
 }
 
 // Sidebar item kinds — five top-level corpus kinds workshop browses.

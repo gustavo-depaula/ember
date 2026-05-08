@@ -1,6 +1,6 @@
 {
   "id": "collection/litanies",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": {
     "en-US": "Catholic Litanies",
     "pt-BR": "Ladainhas Católicas"
@@ -19,42 +19,50 @@
     "devotion",
     "intercession"
   ],
-  "items": [
-    {
-      "ref": "chapter/what-is-a-litany"
-    },
-    {
-      "ref": "practice/litany-saints"
-    },
-    {
-      "ref": "practice/litany-loreto"
-    },
-    {
-      "ref": "practice/litany-holy-name"
-    },
-    {
-      "ref": "practice/litany-sacred-heart"
-    },
-    {
-      "ref": "practice/litany-st-joseph"
-    },
-    {
-      "ref": "practice/litany-precious-blood"
-    },
-    {
-      "ref": "chapter/praying-the-litanies"
-    },
-    {
-      "ref": "practice/litany-humility"
-    },
-    {
-      "ref": "practice/litany-holy-spirit"
-    },
-    {
-      "ref": "practice/litany-blessed-sacrament"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "sections": [
+    {
+      "id": "about-litanies",
+      "title": {
+        "en-US": "About Litanies",
+        "pt-BR": "Sobre as Ladainhas"
+      },
+      "description": {
+        "body": {
+          "en-US": "What a litany is, and how it is prayed.",
+          "pt-BR": "O que é uma ladainha, e como ela é rezada."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "chapter/what-is-a-litany" },
+        { "kind": "item", "ref": "chapter/praying-the-litanies" }
+      ]
+    },
+    {
+      "id": "the-litanies",
+      "title": {
+        "en-US": "The Litanies",
+        "pt-BR": "As Ladainhas"
+      },
+      "description": {
+        "body": {
+          "en-US": "The seven litanies approved by the Church for public recitation, plus a few beloved private ones.",
+          "pt-BR": "As sete ladainhas aprovadas pela Igreja para recitação pública, mais algumas amadas em devoção privada."
+        }
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/litany-saints" },
+        { "kind": "item", "ref": "practice/litany-holy-name" },
+        { "kind": "item", "ref": "practice/litany-sacred-heart" },
+        { "kind": "item", "ref": "practice/litany-precious-blood" },
+        { "kind": "item", "ref": "practice/litany-loreto" },
+        { "kind": "item", "ref": "practice/litany-st-joseph" },
+        { "kind": "item", "ref": "practice/litany-blessed-sacrament" },
+        { "kind": "item", "ref": "practice/litany-humility" },
+        { "kind": "item", "ref": "practice/litany-holy-spirit" }
+      ]
+    }
+  ]
 }

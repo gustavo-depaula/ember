@@ -33,7 +33,16 @@ describe('computePlanCoverage', () => {
     })
     rememberManifestBody('col-marian', {
       id: 'collection/marian',
-      items: [{ ref: 'practice/rosary' }, { ref: 'practice/angelus' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [
+            { kind: 'item', ref: 'practice/rosary' },
+            { kind: 'item', ref: 'practice/angelus' },
+          ],
+        },
+      ],
     } satisfies CollectionItemManifest)
 
     const result = computePlanCoverage(

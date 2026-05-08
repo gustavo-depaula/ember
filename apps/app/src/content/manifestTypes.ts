@@ -154,6 +154,46 @@ export type DataItemManifest = {
   data: BlobRef
 }
 
+// --- Collections ---
+//
+// A Collection is a structured, hierarchical index. Sections group items by
+// purpose (Section → optional Sub-section → Items). The renderer caps visible
+// nesting at depth 2; deeper trees are rejected at validation time.
+//
+// Authors may attach editorial apparatus to each item — rubric, indulgence,
+// attribution, context — and weave selective prose blocks (collection prologue,
+// section description, in-section prose) where it earns its keep.
+
+export type CollectionProseBody = { body: LocalizedText }
+
+export type CollectionItemAnnotation = {
+  rubric?: LocalizedText
+  indulgence?: LocalizedText
+  attribution?: LocalizedText
+  context?: LocalizedText
+  recommendedTime?: 'morning' | 'noon' | 'evening' | 'night'
+}
+
+export type CollectionItem = {
+  ref: string
+  label?: LocalizedText
+  annotation?: CollectionItemAnnotation
+  seeAlso?: string[]
+}
+
+export type CollectionBlock =
+  | ({ kind: 'item' } & CollectionItem)
+  | ({ kind: 'section' } & CollectionSection)
+  | { kind: 'prose'; body: CollectionProseBody }
+
+export type CollectionSection = {
+  id: string
+  title: LocalizedText
+  description?: CollectionProseBody
+  defaultCollapsed?: boolean
+  blocks: CollectionBlock[]
+}
+
 export type CollectionItemManifest = {
   id: string
   version?: string
@@ -164,5 +204,6 @@ export type CollectionItemManifest = {
   icon?: string
   image?: string
   defaults?: { autoSeed?: boolean }
-  items: { ref: string; label?: LocalizedText }[]
+  prologue?: CollectionProseBody
+  sections: CollectionSection[]
 }

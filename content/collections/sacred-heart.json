@@ -20,36 +20,54 @@
     "first-friday",
     "reparation"
   ],
-  "items": [
-    {
-      "ref": "chapter/history-of-devotion"
-    },
-    {
-      "ref": "practice/morning-offering-sacred-heart"
-    },
-    {
-      "ref": "chapter/twelve-promises"
-    },
-    {
-      "ref": "practice/first-friday-devotion"
-    },
-    {
-      "ref": "chapter/saints-sacred-heart"
-    },
-    {
-      "ref": "practice/holy-hour-sacred-heart"
-    },
-    {
-      "ref": "chapter/sacred-heart-in-art"
-    },
-    {
-      "ref": "practice/act-of-reparation"
-    },
-    {
-      "ref": "chapter/theological-foundations"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "sections": [
+    {
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "chapter/history-of-devotion"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/morning-offering-sacred-heart"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/twelve-promises"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/first-friday-devotion"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/saints-sacred-heart"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/holy-hour-sacred-heart"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/sacred-heart-in-art"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/act-of-reparation"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/theological-foundations"
+        }
+      ]
+    }
+  ]
 }

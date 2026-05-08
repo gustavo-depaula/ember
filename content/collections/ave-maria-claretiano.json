@@ -16,39 +16,58 @@
     "traditional",
     "portuguese"
   ],
-  "items": [
-    {
-      "ref": "chapter/doutrina-crista"
-    },
-    {
-      "ref": "practice/oracao-da-manha"
-    },
-    {
-      "ref": "practice/oracao-da-noite"
-    },
-    {
-      "ref": "practice/oracao-santa-missa"
-    },
-    {
-      "ref": "practice/para-confissao"
-    },
-    {
-      "ref": "practice/preparacao-comunhao"
-    },
-    {
-      "ref": "chapter/primeira-comunhao"
-    },
-    {
-      "ref": "practice/modo-rezar-rosario"
-    },
-    {
-      "ref": "practice/via-sacra"
-    },
-    {
-      "ref": "chapter/salva-tua-alma"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "sections": [
+    {
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "chapter/doutrina-crista"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/oracao-da-manha"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/oracao-da-noite"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/oracao-santa-missa"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/para-confissao"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/preparacao-comunhao"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/primeira-comunhao"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/modo-rezar-rosario"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/via-sacra"
+        },
+        {
+          "kind": "item",
+          "ref": "chapter/salva-tua-alma"
+        }
+      ]
+    }
+  ]
 }

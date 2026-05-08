@@ -7,7 +7,12 @@
  * `preferences['pinned-items']` (a JSON array, kept tiny).
  */
 
-import { getEntry, getRememberedManifest, rememberManifestBody } from '@/content/contentIndex'
+import {
+  flattenCollectionItems,
+  getEntry,
+  getRememberedManifest,
+  rememberManifestBody,
+} from '@/content/contentIndex'
 import type {
   BookEntry,
   CatalogEntry,
@@ -59,7 +64,8 @@ type CollectBody = (body: unknown, add: (ref: { hash: string; size: number }) =>
 
 /** Per-kind body walker. Returns child item-ids to visit; pushes leaf BlobRefs to `add`. */
 const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
-  collection: (body) => (body as CollectionItemManifest).items?.map((i) => i.ref) ?? [],
+  collection: (body) =>
+    flattenCollectionItems((body as CollectionItemManifest).sections).map((i) => i.ref),
   practice: (body, add) => {
     const p = body as PracticeManifest
     if (p.flowHash) add(p.flowHash)

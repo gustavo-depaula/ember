@@ -20,60 +20,86 @@
     "liturgy",
     "novena"
   ],
-  "items": [
-    {
-      "ref": "practice/divine-office"
-    },
-    {
-      "ref": "practice/bible-catechism-in-year"
-    },
-    {
-      "ref": "practice/seven-sorrows"
-    },
-    {
-      "ref": "practice/stations-cross"
-    },
-    {
-      "ref": "practice/way-of-light"
-    },
-    {
-      "ref": "practice/visit-blessed-sacrament"
-    },
-    {
-      "ref": "practice/act-consecration-sacred-heart"
-    },
-    {
-      "ref": "practice/little-office-bvm"
-    },
-    {
-      "ref": "practice/veni-creator"
-    },
-    {
-      "ref": "practice/preces-opus-dei"
-    },
-    {
-      "ref": "practice/triduum-holy-spirit"
-    },
-    {
-      "ref": "practice/stations-cross-scriptural"
-    },
-    {
-      "ref": "practice/stations-cross-jpii"
-    },
-    {
-      "ref": "practice/stations-cross-franciscan"
-    },
-    {
-      "ref": "practice/seven-sorrows-scriptural"
-    },
-    {
-      "ref": "practice/way-of-light-scriptural"
-    },
-    {
-      "ref": "practice/prayers-st-thomas-aquinas"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "sections": [
+    {
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/divine-office"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/bible-catechism-in-year"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/stations-cross"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/way-of-light"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/visit-blessed-sacrament"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/act-consecration-sacred-heart"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/little-office-bvm"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/veni-creator"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/preces-opus-dei"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/triduum-holy-spirit"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/stations-cross-scriptural"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/stations-cross-jpii"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/stations-cross-franciscan"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/seven-sorrows-scriptural"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/way-of-light-scriptural"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/prayers-st-thomas-aquinas"
+        }
+      ]
+    }
+  ]
 }

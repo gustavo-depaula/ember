@@ -21,33 +21,51 @@
     "montfort",
     "consecration"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "chapter/about-montfort"
-    },
-    {
-      "ref": "book/montfort-true-devotion"
-    },
-    {
-      "ref": "book/montfort-love-wisdom"
-    },
-    {
-      "ref": "book/montfort-secret-rosary"
-    },
-    {
-      "ref": "book/montfort-secret-mary"
-    },
-    {
-      "ref": "book/montfort-friends-cross"
-    },
-    {
-      "ref": "book/montfort-ardent-prayer"
-    },
-    {
-      "ref": "book/montfort-missionary-rules"
-    },
-    {
-      "ref": "practice/total-consecration"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "chapter/about-montfort"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-true-devotion"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-love-wisdom"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-secret-rosary"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-secret-mary"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-friends-cross"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-ardent-prayer"
+        },
+        {
+          "kind": "item",
+          "ref": "book/montfort-missionary-rules"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/total-consecration"
+        }
+      ]
     }
   ]
 }

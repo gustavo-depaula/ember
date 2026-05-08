@@ -61,6 +61,39 @@ function listJsonFiles(dir: string): string[] {
   return fs.readdirSync(dir).filter((f) => f.endsWith('.json'))
 }
 
+/**
+ * Reject manifests that still carry the legacy flat `items[]` shape or are
+ * missing the required `sections[]`. Also enforce the depth-2 nesting cap so
+ * the renderer never has to handle Section → Sub-section → Sub-sub-section.
+ */
+function validateCollectionShape(parsed: Record<string, unknown>): string | undefined {
+  if ('items' in parsed) {
+    return 'Legacy `items[]` is no longer accepted — use `sections[]`.'
+  }
+  if (!Array.isArray(parsed.sections)) {
+    return '`sections[]` is required.'
+  }
+  type AnyBlock = { kind?: unknown; blocks?: unknown[] }
+  function checkSection(s: unknown, depth: number): string | undefined {
+    if (!s || typeof s !== 'object') return 'Each section must be an object.'
+    const blocks = (s as { blocks?: unknown[] }).blocks
+    if (!Array.isArray(blocks)) return 'Each section must have a `blocks[]` array.'
+    for (const b of blocks as AnyBlock[]) {
+      if (b?.kind === 'section') {
+        if (depth >= 1) return 'Sections may nest at most one level deep.'
+        const err = checkSection(b, depth + 1)
+        if (err) return err
+      }
+    }
+    return undefined
+  }
+  for (const s of parsed.sections) {
+    const err = checkSection(s, 0)
+    if (err) return err
+  }
+  return undefined
+}
+
 export function contentApiPlugin(): Plugin {
   return {
     name: 'workshop-content-api',
@@ -347,7 +380,13 @@ async function handleRoute(
       description: { 'en-US': '', 'pt-BR': '' },
       languages: ['en-US', 'pt-BR'],
       tags: [],
-      items: [],
+      sections: [
+        {
+          id: 'main',
+          title: { 'en-US': 'Items', 'pt-BR': 'Itens' },
+          blocks: [],
+        },
+      ],
       ...overrides,
     }
     writeJsonFile(filePath, manifest)
@@ -367,7 +406,9 @@ async function handleRoute(
   if (collectionMatch && method === 'PUT') {
     const [, collectionId = ''] = collectionMatch
     const body = await readBody(req)
-    const parsed = JSON.parse(body)
+    const parsed = JSON.parse(body) as Record<string, unknown>
+    const validationError = validateCollectionShape(parsed)
+    if (validationError) return errorResponse(res, validationError, 400)
     writeJsonFile(path.join(contentRoot, 'collections', `${collectionId}.json`), parsed)
     return jsonResponse(res, { ok: true })
   }

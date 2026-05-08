@@ -19,24 +19,38 @@
     "mercy",
     "faustina"
   ],
-  "items": [
-    {
-      "ref": "practice/chaplet-of-divine-mercy"
-    },
-    {
-      "ref": "practice/three-oclock-prayer"
-    },
-    {
-      "ref": "prayer/eternal-father"
-    },
-    {
-      "ref": "prayer/divine-mercy-response"
-    },
-    {
-      "ref": "prayer/holy-god"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "sections": [
+    {
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/chaplet-of-divine-mercy"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/three-oclock-prayer"
+        },
+        {
+          "kind": "item",
+          "ref": "prayer/eternal-father"
+        },
+        {
+          "kind": "item",
+          "ref": "prayer/divine-mercy-response"
+        },
+        {
+          "kind": "item",
+          "ref": "prayer/holy-god"
+        }
+      ]
+    }
+  ]
 }

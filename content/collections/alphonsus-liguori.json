@@ -24,33 +24,51 @@
     "ascetical",
     "prayer"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "practice/meditacoes-ligorio"
-    },
-    {
-      "ref": "book/meditacoes-ligorio"
-    },
-    {
-      "ref": "book/visite-al-ss-sacramento"
-    },
-    {
-      "ref": "book/pratica-di-amar-gesu-cristo"
-    },
-    {
-      "ref": "book/apparecchio-alla-morte"
-    },
-    {
-      "ref": "book/gran-mezzo-della-preghiera"
-    },
-    {
-      "ref": "book/esercizio-via-crucis"
-    },
-    {
-      "ref": "book/glorie-di-maria"
-    },
-    {
-      "ref": "book/plus-belles-prieres"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/meditacoes-ligorio"
+        },
+        {
+          "kind": "item",
+          "ref": "book/meditacoes-ligorio"
+        },
+        {
+          "kind": "item",
+          "ref": "book/visite-al-ss-sacramento"
+        },
+        {
+          "kind": "item",
+          "ref": "book/pratica-di-amar-gesu-cristo"
+        },
+        {
+          "kind": "item",
+          "ref": "book/apparecchio-alla-morte"
+        },
+        {
+          "kind": "item",
+          "ref": "book/gran-mezzo-della-preghiera"
+        },
+        {
+          "kind": "item",
+          "ref": "book/esercizio-via-crucis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/glorie-di-maria"
+        },
+        {
+          "kind": "item",
+          "ref": "book/plus-belles-prieres"
+        }
+      ]
     }
   ]
 }

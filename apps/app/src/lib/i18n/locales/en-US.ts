@@ -848,6 +848,17 @@ export default {
     chapterNotFound: 'Chapter not found.',
     collectionNotFound: 'Collection not found.',
     emptyState: 'Nothing here yet.',
+    expandAll: 'Expand all',
+    collapseAll: 'Collapse all',
+  },
+
+  collections: {
+    time: {
+      morning: 'Morning',
+      noon: 'Noon',
+      evening: 'Evening',
+      night: 'Night',
+    },
   },
 
   explore: {

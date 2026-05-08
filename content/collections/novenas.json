@@ -1,6 +1,6 @@
 {
   "id": "collection/novenas",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "name": {
     "en-US": "Traditional Novenas",
     "pt-BR": "Novenas Tradicionais"
@@ -19,57 +19,76 @@
     "devotion",
     "marian"
   ],
-  "items": [
-    {
-      "ref": "practice/rosary-54-day-novena"
-    },
-    {
-      "ref": "practice/divine-mercy-novena"
-    },
-    {
-      "ref": "practice/st-joseph-novena"
-    },
-    {
-      "ref": "practice/st-jude-novena"
-    },
-    {
-      "ref": "practice/st-therese-novena"
-    },
-    {
-      "ref": "practice/st-michael-novena"
-    },
-    {
-      "ref": "practice/st-anthony-novena"
-    },
-    {
-      "ref": "practice/novena-holy-spirit"
-    },
-    {
-      "ref": "practice/novena-sacred-heart"
-    },
-    {
-      "ref": "practice/miraculous-medal-novena"
-    },
-    {
-      "ref": "practice/perpetual-help-novena"
-    },
-    {
-      "ref": "practice/our-lady-aparecida-novena"
-    },
-    {
-      "ref": "practice/guadalupe-novena"
-    },
-    {
-      "ref": "practice/mount-carmel-novena"
-    },
-    {
-      "ref": "practice/novena-for-the-sick-escriva"
-    },
-    {
-      "ref": "prayer/ladainha-nossa-senhora"
-    }
-  ],
   "defaults": {
     "autoSeed": false
-  }
+  },
+  "prologue": {
+    "body": {
+      "en-US": "A novena is nine days of prayer — a small spiritual journey held in a single intention. The Church remembers that the Apostles and Mary spent nine days in prayer between the Ascension and Pentecost, awaiting the Holy Spirit. Every novena since stands in that same waiting.",
+      "pt-BR": "Uma novena são nove dias de oração — uma pequena jornada espiritual mantida em uma única intenção. A Igreja recorda que os Apóstolos e Maria passaram nove dias em oração entre a Ascensão e Pentecostes, esperando o Espírito Santo. Toda novena desde então permanece nessa mesma espera."
+    }
+  },
+  "sections": [
+    {
+      "id": "to-our-lord",
+      "title": {
+        "en-US": "To Our Lord",
+        "pt-BR": "Ao Senhor"
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/novena-sacred-heart" },
+        { "kind": "item", "ref": "practice/divine-mercy-novena" }
+      ]
+    },
+    {
+      "id": "to-the-holy-spirit",
+      "title": {
+        "en-US": "To the Holy Spirit",
+        "pt-BR": "Ao Espírito Santo"
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/novena-holy-spirit" }
+      ]
+    },
+    {
+      "id": "to-our-lady",
+      "title": {
+        "en-US": "To Our Lady",
+        "pt-BR": "À Nossa Senhora"
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/rosary-54-day-novena" },
+        { "kind": "item", "ref": "practice/miraculous-medal-novena" },
+        { "kind": "item", "ref": "practice/perpetual-help-novena" },
+        { "kind": "item", "ref": "practice/our-lady-aparecida-novena" },
+        { "kind": "item", "ref": "practice/guadalupe-novena" },
+        { "kind": "item", "ref": "practice/mount-carmel-novena" },
+        { "kind": "item", "ref": "prayer/ladainha-nossa-senhora" }
+      ]
+    },
+    {
+      "id": "to-the-saints",
+      "title": {
+        "en-US": "To the Saints",
+        "pt-BR": "Aos Santos"
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/st-joseph-novena" },
+        { "kind": "item", "ref": "practice/st-michael-novena" },
+        { "kind": "item", "ref": "practice/st-jude-novena" },
+        { "kind": "item", "ref": "practice/st-therese-novena" },
+        { "kind": "item", "ref": "practice/st-anthony-novena" }
+      ]
+    },
+    {
+      "id": "for-special-intentions",
+      "title": {
+        "en-US": "For Special Intentions",
+        "pt-BR": "Para Intenções Especiais"
+      },
+      "blocks": [
+        { "kind": "item", "ref": "practice/novena-for-the-sick-escriva" }
+      ]
+    }
+  ]
 }

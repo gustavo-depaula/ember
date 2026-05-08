@@ -498,6 +498,29 @@ def build_of_data(b: Builder) -> None:
         b.add_catalog(item_id, {"kind": "of-data", "hash": ih, "size": isize})
 
 
+def _count_collection_items(blocks: list[dict] | None, depth: int = 0, cid: str = "") -> int:
+    """Recursively count item-blocks in a section's blocks tree.
+
+    Enforces the depth-2 nesting cap so the corpus can never publish a tree
+    the renderer doesn't know how to display.
+    """
+    if blocks is None:
+        return 0
+    n = 0
+    for b in blocks:
+        kind = b.get("kind")
+        if kind == "item":
+            n += 1
+        elif kind == "section":
+            if depth >= 1:
+                raise ValueError(
+                    f"collection {cid}: sections may nest at most one level deep"
+                )
+            n += _count_collection_items(b.get("blocks"), depth + 1, cid)
+        # 'prose' has no ref — not counted
+    return n
+
+
 def build_collections(b: Builder) -> None:
     src = CONTENT / "collections"
     if not src.is_dir():
@@ -506,8 +529,24 @@ def build_collections(b: Builder) -> None:
         cid = f.stem
         with f.open(encoding="utf-8") as fh:
             data = json.load(fh)
+
+        # Validate the manifest shape — Hearth v2 accepts only the sectioned form.
+        if "items" in data:
+            raise ValueError(
+                f"collection {cid}: legacy `items[]` is no longer accepted; migrate to `sections[]`"
+            )
+        if not isinstance(data.get("sections"), list):
+            raise ValueError(f"collection {cid}: `sections[]` is required")
+
         # Ensure id is set
         data["id"] = f"collection/{cid}"
+
+        # Count items by walking sections (validates depth as a side effect).
+        item_count = 0
+        for section in data["sections"]:
+            blocks = section.get("blocks") if isinstance(section, dict) else None
+            item_count += _count_collection_items(blocks, 0, f"collection/{cid}")
+
         h, size = b.write_json_blob(data)
         catalog_entry = {"kind": "collection", "hash": h, "size": size}
         if isinstance(data.get("name"), dict):
@@ -518,7 +557,7 @@ def build_collections(b: Builder) -> None:
             catalog_entry["tags"] = data["tags"]
         if "icon" in data:
             catalog_entry["icon"] = data["icon"]
-        catalog_entry["itemCount"] = len(data.get("items", []))
+        catalog_entry["itemCount"] = item_count
         b.add_catalog(f"collection/{cid}", catalog_entry)
 
 

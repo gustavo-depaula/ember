@@ -10,8 +10,33 @@ import type {
   Catalog,
   CatalogEntry,
   CatalogItemKind,
+  CollectionBlock,
+  CollectionItem,
   CollectionItemManifest,
+  CollectionSection,
 } from './manifestTypes'
+
+/**
+ * Flatten a collection's section tree into the leaf items in document order.
+ * Used by browse, pinning traversal, and the member-of reverse index.
+ * Recurses into sub-sections; skips prose blocks (they have no ref).
+ */
+export function flattenCollectionItems(
+  sections: CollectionSection[] | undefined,
+): CollectionItem[] {
+  if (!sections) return []
+  const out: CollectionItem[] = []
+  function walk(blocks: CollectionBlock[] | undefined): void {
+    if (!blocks) return
+    for (const b of blocks) {
+      if (b.kind === 'item') out.push(b)
+      else if (b.kind === 'section') walk(b.blocks)
+      // 'prose' has no ref — skipped
+    }
+  }
+  for (const s of sections) walk(s.blocks)
+  return out
+}
 
 export const RESIDENT_KINDS = [
   'prayer',
@@ -191,7 +216,10 @@ export function getCollectionItems(collectionId: string): { ref: string; entry?:
   if (!collEntry) return []
   const body = getRememberedManifest<CollectionItemManifest>(collEntry.hash)
   if (!body) return []
-  return body.items.map((it) => ({ ref: it.ref, entry: getEntry(it.ref) }))
+  return flattenCollectionItems(body.sections).map((it) => ({
+    ref: it.ref,
+    entry: getEntry(it.ref),
+  }))
 }
 
 export function invalidateMemberOfIndex(): void {
@@ -204,7 +232,7 @@ export function getCollectionsForItem(itemId: string): string[] {
     for (const [collectionId, entry] of getEntriesByKind('collection')) {
       const body = getRememberedManifest<CollectionItemManifest>(entry.hash)
       if (!body) continue
-      for (const item of body.items ?? []) {
+      for (const item of flattenCollectionItems(body.sections)) {
         const list = out.get(item.ref)
         if (list) list.push(collectionId)
         else out.set(item.ref, [collectionId])

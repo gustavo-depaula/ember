@@ -17,12 +17,23 @@
   "tags": [
     "personal"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "practice/mental-prayer-coloquio"
-    },
-    {
-      "ref": "practice/rosary-perpetual-novena"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/mental-prayer-coloquio"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/rosary-perpetual-novena"
+        }
+      ]
     }
   ]
 }

@@ -18,12 +18,23 @@
     "bcp",
     "anglican-patrimony"
   ],
-  "items": [
+  "sections": [
     {
-      "ref": "practice/dwdo"
-    },
-    {
-      "ref": "practice/odod"
+      "id": "all",
+      "title": {
+        "en-US": "All entries",
+        "pt-BR": "Todos os itens"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "practice/dwdo"
+        },
+        {
+          "kind": "item",
+          "ref": "practice/odod"
+        }
+      ]
     }
   ]
 }

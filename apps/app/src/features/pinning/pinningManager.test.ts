@@ -125,7 +125,16 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
     setup()
     rememberManifestBody('col-marian', {
       id: 'collection/marian',
-      items: [{ ref: 'practice/rosary' }, { ref: 'prayer/our-father' }],
+      sections: [
+        {
+          id: 'all',
+          title: { 'en-US': 'All' },
+          blocks: [
+            { kind: 'item', ref: 'practice/rosary' },
+            { kind: 'item', ref: 'prayer/our-father' },
+          ],
+        },
+      ],
     } as unknown as CollectionItemManifest)
     rememberManifestBody('p-rosary', {
       id: 'practice/rosary',

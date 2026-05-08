@@ -204,3 +204,134 @@
   cursor: not-allowed;
 }
 
+.sectionCard {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg-panel);
+  padding: var(--sp-md);
+  margin-top: var(--sp-md);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.sectionHeader {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sectionHeaderActions {
+  display: flex;
+  gap: 2px;
+}
+
+.blocksHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: var(--sp-sm);
+}
+
+.blocksLabel {
+  font-size: var(--text-sm);
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.blocksActions {
+  display: flex;
+  gap: var(--sp-xs);
+}
+
+.annotationPanel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-xs);
+  padding: var(--sp-sm);
+  margin-left: var(--sp-lg);
+  background: var(--bg-input);
+  border-radius: var(--radius-sm);
+  border: 1px dashed var(--border);
+}
+
+.markdownInput {
+  width: 100%;
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  padding: var(--sp-sm);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-input);
+  color: var(--text);
+  resize: vertical;
+  min-height: 60px;
+}
+
+.markdownInput:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.proseBlock {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-xs);
+  padding: var(--sp-sm);
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--accent-subtle, var(--accent));
+}
+
+.proseBlockHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.proseBlockLabel {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.seeAlsoChips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-xs);
+  align-items: center;
+}
+
+.seeAlsoChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px var(--sp-sm);
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: var(--text-xs);
+}
+
+.seeAlsoChipIcon {
+  font-size: var(--text-sm);
+}
+
+.seeAlsoChipLabel {
+  color: var(--text);
+}
+
+.seeAlsoChipRemove {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0 2px;
+  font-size: var(--text-xs);
+}
+
+.seeAlsoChipRemove:hover {
+  color: var(--red, #c33);
+}
+

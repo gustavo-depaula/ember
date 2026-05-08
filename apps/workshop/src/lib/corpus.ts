@@ -6,7 +6,9 @@ import { loc } from '@/lib/localize'
 import type {
   BookManifest,
   ChapterManifest,
+  CollectionBlock,
   CollectionManifest,
+  CollectionSection,
   CorpusKind,
   PracticeManifest,
   PrayerAsset,
@@ -30,6 +32,35 @@ export const kindLabel: Record<CorpusKind, string> = {
 
 // Item kinds that can be referenced from a collection.
 export const collectableKinds: CorpusKind[] = ['practice', 'prayer', 'book', 'chapter']
+
+/** Walk a collection's section tree and return every leaf item ref in document order. */
+export function collectionRefs(collection: CollectionManifest): string[] {
+  const out: string[] = []
+  function walk(blocks: CollectionBlock[] | undefined): void {
+    if (!blocks) return
+    for (const b of blocks) {
+      if (b.kind === 'item') out.push(b.ref)
+      else if (b.kind === 'section') walk(b.blocks)
+    }
+  }
+  for (const s of collection.sections ?? []) walk(s.blocks)
+  return out
+}
+
+/** Walk a collection and yield all sections (top-level + nested), depth-first. */
+export function walkSections(
+  sections: CollectionSection[] | undefined,
+  depth = 0,
+): { section: CollectionSection; depth: number }[] {
+  const out: { section: CollectionSection; depth: number }[] = []
+  for (const s of sections ?? []) {
+    out.push({ section: s, depth })
+    for (const b of s.blocks) {
+      if (b.kind === 'section') out.push(...walkSections([b], depth + 1))
+    }
+  }
+  return out
+}
 
 export type CorpusItem = {
   ref: string

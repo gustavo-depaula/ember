@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import {
   buildCorpusRefMap,
   type CorpusItem,
+  collectionRefs,
   kindIcon,
   kindLabel,
   type LoadedCorpus,
@@ -256,7 +257,7 @@ function CollectionView({
   const collectedRefs = useMemo(() => {
     const s = new Set<string>()
     for (const c of corpus.collections) {
-      for (const it of c.items) s.add(it.ref)
+      for (const ref of collectionRefs(c)) s.add(ref)
     }
     return s
   }, [corpus.collections])
@@ -300,8 +301,9 @@ function CollectionGroup({
   const [expanded, setExpanded] = useState(false)
   const openTab = useWorkspace((s) => s.openTab)
   const collId = stripCollectionPrefix(collection.id)
-  const resolved = collection.items
-    .map((it) => refMap.get(it.ref) ?? unresolvedItem(it.ref))
+  const refs = collectionRefs(collection)
+  const resolved = refs
+    .map((ref) => refMap.get(ref) ?? unresolvedItem(ref))
     .filter((r) => matches(search, r.id, r.label))
 
   return (
@@ -314,7 +316,7 @@ function CollectionGroup({
         <span className={styles.groupChevron}>{expanded ? '▾' : '▸'}</span>
         <div className={styles.groupInfo}>
           <span className={styles.groupName}>{loc(collection.name) || collId}</span>
-          <span className={styles.groupMeta}>{collection.items.length} items</span>
+          <span className={styles.groupMeta}>{refs.length} items</span>
         </div>
         <button
           type="button"
