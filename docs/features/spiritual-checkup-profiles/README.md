@@ -2,7 +2,7 @@
 
 > **Status:** Design doc. Supersedes the v1 linear-scoring approach in `docs/features/spiritual-checkup.md` §2.
 > **Related issue:** #156
-> **Replaces (partially):** the 9-question flat-score intake in `content/libraries/base/checkup/questions.json`. Archetypes and tracks from the v1 spec are retained.
+> **Replaces (partially):** the 9-question flat-score intake in `content/checkup/questions.json`. Archetypes and tracks from the v1 spec are retained.
 
 ---
 
