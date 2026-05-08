@@ -231,7 +231,7 @@ Plain arithmetic:
    3. If Q7 (openness to contemplative prayer) answer was the top option *and* the top archetype is *Endurer*, the system **may** surface *Contemplative* as a "possible deeper pull" — but does not reassign. We never call someone a contemplative by quiz result alone.
 4. The second-place archetype is shown as a secondary "you may also recognize yourself in…" — soft, not deterministic.
 
-The full weight matrix lives alongside the question content in a new library file (proposed: `content/libraries/base/checkup/questions.json`), versioned so edits are tracked and reproducible.
+The full weight matrix lives alongside the question content in a new library file (proposed: `content/checkup/questions.json`), versioned so edits are tracked and reproducible.
 
 ---
 

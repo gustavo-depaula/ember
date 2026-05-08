@@ -1,8 +1,10 @@
 # Book Format
 
-The content system for books and libraries in Ember — spiritual classics, prayer collections, and hybrid works. Markdown/HTML source files read directly from disk for prose rendering; manifest-based prayer collections for devotional content. One folder tree, one manifest type, one discovery system.
+The content system for books in Ember — spiritual classics, hybrid devotional works. Markdown/HTML source files for prose, hashed and served as immutable blobs through the Hearth v2 corpus.
 
-> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the library feature. See `docs/ARCHITECTURE.md` for the library system overview.
+> See `docs/content/spiritual-books.md` for the full wishlist of titles. See `docs/features/prayer-books.md` for the v2 author workflow. See `docs/ARCHITECTURE.md` for the corpus architecture.
+
+> **v2 update (2026-05-08):** Books are no longer packed into `.pray` zip archives — each `(chapter, language)` pair and each image are individually-hashed blobs in the corpus. The on-disk source layout (`content/books/<id>/`) hasn't changed; the *distribution* of those files has. Sections below that still reference `.pray` packaging describe the legacy v1 model.
 
 ---
 
@@ -31,93 +33,66 @@ A pure spiritual classic like *True Devotion* has only books. A library like *Ca
 
 ## Directory Structure
 
-All libraries live in `content/libraries/`. A library is a self-contained folder — the same `.pray` package format used for all content. Books (prose) are nested under `books/` within the library directory.
+Books live at `content/books/<id>/` in the v2 source tree (flat by kind — prayers, practices, chapters, books, masses, of-library, of-data, collections each at the corpus root). The directory shape inside each book is unchanged from v1:
 
-### Pure prose (Montfort Spirituality — books only)
-
-```
-content/libraries/montfort-spirituality/
-  library.json
-  books/
-    montfort-true-devotion/
-      book.json
-      fr-FR/
-        preface.md
-        introduction.md
-        part-1.md
-      en-US/
-        preface.md
-        introduction.md
-        part-1.md
-      pt-BR/
-        preface.md
-        introduction.md
-        part-1.md
-    montfort-secret-rosary/
-      book.json
-      en-US/
-        rose-01.md
-  chapters/
-    about-montfort/
-      chapter.json
-      content.json
-  practices/
-    total-consecration/
-      manifest.json
-      flows/default.json
-  prayers/
-    act-of-consecration.json
-```
-
-### Pure practice library (Ember Default)
+### Pure prose (montfort spirituality — books only)
 
 ```
-content/libraries/base/
-  library.json
-  prayers/
-    sign-of-cross.json
-    morning-offering.json
-    our-father.json
-  practices/
-    morning-offering/
-      manifest.json
-      flows/default.json
-    rosary/
-      manifest.json
-      flows/default.json
+content/books/
+  montfort-true-devotion/
+    book.json
+    fr-FR/
+      preface.md
+      introduction.md
+      part-1.md
+    en-US/
+      preface.md
+      introduction.md
+      part-1.md
+    pt-BR/
+      preface.md
+      introduction.md
+      part-1.md
+    images/                  # webp; referenced from chapters as ../images/...
+  montfort-secret-rosary/
+    book.json
+    en-US/
+      rose-01.md
+
+content/collections/montfort-spirituality.json
+  # Lists the refs that group these into the "Montfort Spirituality" curated set:
+  # { "items": [{"ref": "book/montfort-true-devotion"}, ...] }
 ```
 
-### Colocated practices
+### Per-kind flat tree (v2)
 
-Practices live in `practices/` inside the library folder. They use the exact same `PracticeManifest` / `FlowDefinition` / track format as any practice in `content/practices/`. No new format.
+```
+content/practices/total-consecration/
+  manifest.json
+  flow.json
+content/chapters/about-montfort/
+  chapter.json
+  content.json
+content/prayers/
+  act-of-consecration.json
+content/collections/
+  montfort-spirituality.json
+```
 
-ID convention: `book::{libraryId}::{practiceId}` (e.g., `book::montfort-spirituality::total-consecration`).
+Practices, chapters, and prayers used to live nested under each library folder; in v2 they're flat at the corpus root and any number of collections can reference the same item without duplication.
 
 ---
 
-## `.pray` Package Format
+## Distribution (v2 corpus)
 
-A `.pray` file is a zip containing the library's content. The `build-libraries.sh` script copies the CSS and zips everything.
+Books are no longer wrapped in `.pray` zip archives. The `scripts/build-corpus.py` pipeline emits each book as a set of immutable hash-addressed blobs:
 
-### Structure
+- One blob per `(chapter, language)` markdown / HTML file.
+- One blob per book image (webp). Referenced from chapter markdown via `../images/<file>.webp`.
+- One blob per book item-manifest (the `book.json` body merged with all the chapter + image hashes).
+- One shared blob for `book.css` (deduplicated across every book that uses it).
 
-```
-library.pray (zip)
-├── library.json
-├── book.css              # Base stylesheet for book rendering
-├── books/
-│   └── montfort-true-devotion/
-│       ├── book.json
-│       ├── fr-FR/
-│       │   ├── style.css       # Copy of book.css
-│       │   └── preface.md
-│       └── en-US/
-│           ├── style.css
-│           └── preface.md
-├── prayers/
-├── practices/
-└── chapters/
-```
+A user reading just the en-US edition of *Catechism of Trent* fetches only its en-US chapter blobs; pt-BR readers fetch only their language. Image blobs fetch lazily as the WebView renders, then are inlined as base64 data URIs by `loadBookContent` so the WebView shell sees a regular `<img src="data:...">`.
 
 ### Chapter files
 
@@ -126,7 +101,7 @@ Chapters are `.md` (primary) or `.html` (supported fallback):
 - **`.md`** — converted at runtime using `marked` + `marked-footnote`, then rendered in WebView
 - **`.html`** — rendered directly in WebView with `book.css` applied
 
-The reader tries `.html` first, falls back to `.md`.
+The reader prefers `.md`; `.html` overrides on a per-chapter basis when present.
 
 ### File naming conventions
 
@@ -136,14 +111,14 @@ The reader tries `.html` first, falls back to `.md`.
 
 ### Stylesheet
 
-`book.css` is the base stylesheet included in every `.pray` package. It provides:
+`content/books/book.css` is the shared base stylesheet, hashed once and referenced by every book item-manifest's `style` field. It provides:
 
 - Light/dark theme via CSS variables (`--bg`, `--text`, `--heading`, etc.)
 - Typography using EB Garamond and Cinzel fonts
 - Reader-configurable variables: `--reader-font-size`, `--reader-line-height`, `--reader-text-align`, `--reader-margin`
 - CSS column pagination
 
-Books with unique needs can include additional per-book CSS overrides.
+Books with unique needs can include additional per-book CSS overrides (TODO: not yet wired in v2; today the shared `book.css` is the only stylesheet served).
 
 ---
 
@@ -153,31 +128,10 @@ Books with unique needs can include additional per-book CSS overrides.
 
 Two manifest levels:
 
-- **`library.json`** — the outer container (the `.pray` package). Lists what the library contains.
-- **`book.json`** — one per book inside the library. Holds the book's TOC and metadata.
+- **`book.json`** — one per book at `content/books/<id>/book.json`. Holds the book's TOC + metadata. The build pipeline merges this body with hashes for every chapter / image / style file into a single book item-manifest blob.
+- **`content/collections/<name>.json`** — curated grouping (formerly `library.json`). Lists refs to corpus items; doesn't itself contain content. See `docs/features/prayer-books.md` for the format.
 
 ```typescript
-type Library = {
-  id: string                        // Unique ID, kebab-case, matches folder name
-  version: string                   // Semver
-  name: LocalizedText
-  languages: string[]               // e.g. ["en-US", "pt-BR"]
-  practices: string[]               // Practice IDs (match dirs in practices/)
-  prayers: string[]                 // Prayer asset IDs (match files in prayers/)
-
-  description?: LocalizedText
-  author?: LocalizedText
-  tags?: string[]
-  icon?: string
-  image?: string
-  chapters?: string[]               // Chapter IDs (match dirs in chapters/)
-  books?: string[]                  // Book IDs (match dirs in books/)
-  contents?: ContentEntry[]         // Unified display ordering (interleaves all types)
-  defaults?: { autoSeed: boolean }  // If true, seed practices into plan on install
-}
-
-type ContentEntry = { type: 'chapter' | 'practice' | 'book'; id: string }
-
 type BookManifest = {
   id: string
   name: LocalizedText
@@ -337,19 +291,15 @@ If an edition has a genuinely different chapter structure, it's a **different bo
 
 ## Build Pipeline
 
-### `build-libraries.sh`
+### `build-corpus.py`
 
-`scripts/build-libraries.sh` packages each library into a `.pray` zip file:
+`scripts/build-corpus.py` walks `content/{prayers,practices,chapters,books,masses,of-library,of-data,collections,checkup}/` and emits hash-addressed blobs + per-item manifests + a top-level `catalog.json` to `_site/hearth/v2/`.
 
-1. **Phase 0** — Vendor cross-library prayer dependencies (`vendor-prayers.py`)
-2. **Phase 1** — Copy `book.css` to each book's language directories as `style.css`
-3. **Phase 2** — Zip each `content/libraries/{id}/` into `{id}-{version}.pray`
-4. **Phase 3** — Generate `registry.json` with metadata, content hashes, and previews
-
-No content transformation — source files ship as-is inside the `.pray`.
+For books specifically: each `(chapter, language)` markdown file is canonicalized, sha256-hashed, and written to `blobs/{ab}/{cd}/{full-sha256}` only if missing (idempotent re-runs). The resulting book item-manifest is itself a blob whose hash is referenced from `catalog.json`.
 
 ```bash
-pnpm build:libraries    # Build all libraries
+pnpm build:corpus       # build only
+pnpm hearth             # build + serve at http://localhost:4100 for dev
 ```
 
 ### Ingestion pipeline
@@ -359,12 +309,12 @@ For importing existing public domain texts:
 ```
 HTML source (Gutenberg, CCEL, Internet Archive)
   → import-book script (clean up, convert to Markdown)
-  → chapter files in content/libraries/{libraryId}/books/{bookId}/{lang}/
+  → chapter files in content/books/<bookId>/<lang>/
   → human review, corrections, bilingual alignment
-  → build-libraries.sh (copy CSS + zip into .pray)
+  → build-corpus.py (hash + emit per-(chapter, lang) blobs + book item-manifest)
 ```
 
-For CCEL ThML imports specifically, use `content/libraries/ccel-classics/scripts/ccel-import.py` — see `docs/content/ccel-import.md`.
+For CCEL ThML imports specifically, use `content/_archive/ccel-classics/scripts/ccel-import.py` — see `docs/content/ccel-import.md`. (Source path migrated during the v2 rename pass; the importer's output already lands at `content/books/<bookId>/`.)
 
 ---
 
@@ -385,7 +335,7 @@ The reader loads `.html` first, falls back to `.md` (converted at runtime via `m
 | Decision | Choice | Rationale |
 |----------|--------|-----------|
 | Source format | Markdown files in git | Human-editable, diffable, no build step |
-| Distribution format | `.pray` (zip) | Simple, self-contained, no EPUB complexity |
+| Distribution format | Content-addressed blobs (Hearth v2) | Per-(chapter, lang) granularity; updates ship the changed bytes only |
 | Rendering | WebView + CSS column pagination | Full JS/CSS control, pagination, themes |
 | Multilingual | Per-language directories | One language at a time, chapter-level alignment |
 | Heading hierarchy | `<h1>` per chapter (after Markdown conversion) | Standard convention |

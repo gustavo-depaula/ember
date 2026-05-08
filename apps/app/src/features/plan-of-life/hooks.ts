@@ -3,7 +3,7 @@ import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { confirm } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import type { SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
@@ -345,6 +345,24 @@ export function useToggleSlot() {
 
 // --- Practice mutations ---
 
+// Auto-pin practices added or re-enabled in the plan-of-life so the user's
+// daily prayers are always available offline. Best-effort: never blocks the
+// mutation, never raises if the practice id isn't a corpus item (custom user
+// practices have no manifest).
+function autoPinForPlan(practiceId: string): void {
+  void (async () => {
+    try {
+      const { getEntry } = await import('@/content/contentIndex')
+      const corpusId = `practice/${practiceId}`
+      if (!getEntry(corpusId)) return
+      const { pinItem, isPinned } = await import('@/features/pinning/pinningManager')
+      if (!isPinned(corpusId)) await pinItem(corpusId)
+    } catch (err) {
+      console.warn('[plan-of-life] auto-pin failed:', err)
+    }
+  })()
+}
+
 export function useCreatePractice() {
   return useMutation({
     mutationFn: (data: {
@@ -355,14 +373,20 @@ export function useCreatePractice() {
       activeVariant?: string
       slot?: Parameters<typeof addSlot>[1]
     }) => createPracticeWithSlot(data, data.slot ?? {}),
-    onSuccess: resyncReminders,
+    onSuccess: (_data, variables) => {
+      resyncReminders()
+      autoPinForPlan(variables.id)
+    },
   })
 }
 
 export function useEnableSlotsForPractice() {
   return useMutation({
     mutationFn: enableSlotsForPractice,
-    onSuccess: resyncReminders,
+    onSuccess: (_data, practiceId) => {
+      resyncReminders()
+      autoPinForPlan(practiceId)
+    },
   })
 }
 

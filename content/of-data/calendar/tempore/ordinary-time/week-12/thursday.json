@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-12.thursday",
+  "title": {
+    "la": "Feria V hebd. XII",
+    "es": "Jueves 12ª semana",
+    "en": "Thursday of the XII Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da XII Semana do Tempo Comum",
+    "it": "GIOVEDI della XII settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 12e semaine",
+    "de": "12. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 12,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

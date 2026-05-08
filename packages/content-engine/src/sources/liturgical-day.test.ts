@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import liguoriLiturgicalMapFixture from '../../../../content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json'
+import liguoriLiturgicalMapFixture from '../../../../content/practices/meditacoes-ligorio/data/liturgical-map.json'
 import type { SourceContext } from '../data-sources'
 import { liturgicalDaySource } from './liturgical-day'
 

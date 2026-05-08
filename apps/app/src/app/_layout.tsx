@@ -28,18 +28,18 @@ import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
 import { AppFrame } from '@/components/AppFrame'
+import { BootLoadingScreen } from '@/components/BootLoadingScreen'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
+import {
+  loadCatalogFromHearth,
+  warmCriticalManifests,
+  warmDeferredManifests,
+} from '@/content/resolver'
+import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { baseLibraryId } from '@/features/libraries/constants'
-import {
-  checkAndUpdateLibraries,
-  downloadAndInstallLibrary,
-  fetchRegistry,
-  getInstalledLibraries,
-  loadInstalledLibraries,
-} from '@/features/libraries/libraryManager'
+import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -117,59 +117,103 @@ export default function RootLayout() {
   }, [dbReady, hydratePrefs, hydrateBible, hydrateCatechism])
 
   const [seeded, setSeeded] = useState(false)
+  const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
+
+  // 200MB cap. Pinned blobs are skipped during eviction; the cap is a soft
+  // ceiling (pinned content can exceed it without dropping anything).
+  const CACHE_BUDGET_BYTES = 200 * 1024 * 1024
 
   useEffect(() => {
     if (!dbReady) return
 
-    async function initLibraries() {
+    async function runCacheEviction() {
+      try {
+        const protectedHashes = await pinnedHashes()
+        const result = await evictTo(CACHE_BUDGET_BYTES, protectedHashes)
+        if (result.deleted > 0) {
+          console.log(
+            `[startup] cache eviction: dropped ${result.deleted} blob(s); now ${(result.totalBytes / 1024 / 1024).toFixed(1)}MB`,
+          )
+        }
+      } catch (err) {
+        console.warn('[startup] cache eviction failed:', err)
+      }
+    }
+
+    async function initCorpus() {
       try {
         registerDataSources()
         await initHearth()
-        await loadInstalledLibraries()
 
-        const installed = await getInstalledLibraries()
-        if (installed.length === 0) {
-          const registry = await fetchRegistry()
-          const baseLibrary = registry.libraries.find((l) => l.id === baseLibraryId)
-          if (baseLibrary) await downloadAndInstallLibrary(baseLibrary)
-        }
+        setBootStatus(i18n.t('boot.fetchingCatalog'))
+        // 2. Fetch catalog (network-first; falls back to SQLite cache).
+        await loadCatalogFromHearth().catch((err) => {
+          console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
+        })
 
+        setBootStatus(i18n.t('boot.preparingContent'))
+        // 3. Rehydrate the user's pinned-items list and warm their manifests.
+        await rehydratePinned().catch((err) => {
+          console.warn('[startup] pinned rehydrate failed:', err)
+        })
+
+        // 4. Warm sync-resolver manifests before first paint; let the rest
+        //    (books, chapters, collections) warm in parallel without blocking.
+        await warmCriticalManifests().catch((err) => {
+          console.warn('[startup] warm critical manifests failed:', err)
+        })
+        warmDeferredManifests().catch((err) => {
+          console.warn('[startup] warm deferred manifests failed:', err)
+        })
+
+        setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
-
-        if (installed.length > 0) {
-          InteractionManager.runAfterInteractions(() => {
-            checkAndUpdateLibraries()
-              .then(async (updated) => {
-                if (updated) await seedPractices()
-              })
-              .catch((err) => console.warn('Library update check failed:', err))
-          })
-        }
       } catch (err) {
-        console.error('[startup] initLibraries failed:', err)
+        console.error('[startup] initCorpus failed:', err)
       } finally {
         setSeeded(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
+
+        InteractionManager.runAfterInteractions(() => {
+          loadCatalogFromHearth()
+            .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
+            .then(() => seedPractices())
+            .then(() => runCacheEviction())
+            .catch((err) => console.warn('Background catalog refresh failed:', err))
+        })
       }
     }
 
-    initLibraries()
+    initCorpus()
   }, [dbReady])
 
-  const ready =
-    fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
+  // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
+  // show a custom loading screen while the corpus warms.
+  const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady
+  const ready = coreReady && seeded
 
   useEffect(() => {
-    if (ready) SplashScreen.hideAsync()
-  }, [ready])
+    if (coreReady) SplashScreen.hideAsync()
+  }, [coreReady])
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const { themeName } = useLiturgicalTheme()
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
-  if (!ready) return undefined
+  if (!coreReady) return undefined
+
+  if (!ready) {
+    return (
+      <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+        {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
+        <Theme name={themeName as any}>
+          <BootLoadingScreen status={bootStatus} />
+        </Theme>
+      </TamaguiProvider>
+    )
+  }
 
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
@@ -195,7 +239,7 @@ export default function RootLayout() {
               <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
               <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
               <Stack.Screen
-                name="library"
+                name="browse"
                 options={{ title: i18n.t('library.title'), gestureEnabled: false }}
               />
             </Stack>

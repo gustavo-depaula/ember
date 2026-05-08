@@ -1,0 +1,15 @@
+{
+  "id": "tempore.christmas.mary-mother-of-god",
+  "title": {
+    "la": "SOLLEMNITAS SANCTÆ DEI GENETRICIS MARIÆ",
+    "es": "Octava de Navidad SOLEMNIDAD DE SANTA MARÍA, MADRE DE DIOS",
+    "en": "Solemnity of Mary, Mother of God",
+    "pt-BR": "Solenidade de Santa Maria, Mãe de Deus",
+    "it": "SOLENNITÁ Maria santissima Madre di Dio",
+    "fr": "Octave de Noël SOLENNITÉ DE SAINTE MARIE MÈRE DE DIEU",
+    "de": "Oktavtag von Weihnachten HOCHFEST DER GOTTESMUTTER MARIA"
+  },
+  "season": "christmas",
+  "rank": "solemnity",
+  "liturgicalColor": "white"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-1.saturday",
+  "title": {
+    "la": "Hebdomada I Sabbato",
+    "es": "Cuaresma Sábado de la I Semana",
+    "en": "Saturday of the I Week of Lent",
+    "pt-BR": "Sábado da I Semana da Quaresma",
+    "it": "I SETTIMANA DI QUARESIMA Sabato",
+    "fr": "1e semaine Samedi",
+    "de": "Samstag der 1. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 1,
+  "weekday": "saturday",
+  "liturgicalColor": "violet"
+}

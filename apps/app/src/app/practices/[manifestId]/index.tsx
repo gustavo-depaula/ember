@@ -7,14 +7,18 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
+import { getCollectionsForItem, getEntry } from '@/content/contentIndex'
 import {
   findGroupMemberInSet,
   getAlternativeGroup,
   getManifest,
   getManifestIconKey,
-} from '@/content/registry'
+} from '@/content/resolver'
+import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
+import { PinToggle } from '@/features/pinning/PinToggle'
+import { isPinned } from '@/features/pinning/pinningManager'
 import {
   useCreatePractice,
   useEnableSlotsForPractice,
@@ -67,6 +71,22 @@ export default function CatalogDetailScreen() {
     () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
     [manifestId],
   )
+  const catalogVersion = useCatalogVersion()
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal — re-running the memo when it bumps is the entire point.
+  const collectionLabels = useMemo(() => {
+    if (!manifestId) return []
+    return getCollectionsForItem(`practice/${manifestId}`)
+      .map((cid) => {
+        const entry = getEntry(cid)
+        return entry?.name ? localizeContent(entry.name as Record<string, string>) : undefined
+      })
+      .filter((s): s is string => !!s)
+  }, [manifestId, catalogVersion])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
+  const collectionPinned = useMemo(() => {
+    if (!manifestId) return false
+    return getCollectionsForItem(`practice/${manifestId}`).some(isPinned)
+  }, [manifestId, catalogVersion])
 
   if (!manifestId || !manifest) {
     return (
@@ -187,22 +207,46 @@ export default function CatalogDetailScreen() {
                   {t('program.durationDays', { count: manifest.program?.totalDays })}
                 </Text>
               ) : (
-                manifest.estimatedMinutes > 0 && (
+                (manifest.estimatedMinutes ?? 0) > 0 && (
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                     {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
                   </Text>
                 )
               )}
-              {manifest.categories.map((cat) => (
+              {(manifest.categories ?? []).map((cat) => (
                 <Text key={cat} fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {t(`category.${cat}`, { defaultValue: cat })}
                 </Text>
               ))}
             </XStack>
+            {collectionLabels.length > 0 && (
+              <XStack gap="$xs" flexWrap="wrap" marginTop={2}>
+                {collectionLabels.map((label) => (
+                  <Text
+                    key={label}
+                    fontFamily="$body"
+                    fontSize="$1"
+                    color="$colorSecondary"
+                    fontStyle="italic"
+                  >
+                    {label}
+                  </Text>
+                ))}
+                {collectionPinned && (
+                  <Text fontFamily="$body" fontSize="$1" color="$accent">
+                    · ↓ offline
+                  </Text>
+                )}
+              </XStack>
+            )}
           </YStack>
         </XStack>
 
         {!isProgram && <PrayButton practiceId={manifest.id} />}
+
+        <XStack alignItems="center" gap="$sm">
+          <PinToggle itemId={`practice/${manifest.id}`} />
+        </XStack>
 
         {group && (
           <YStack gap="$sm">

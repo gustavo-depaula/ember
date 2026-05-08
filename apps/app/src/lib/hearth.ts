@@ -2,8 +2,8 @@ import { Platform } from 'react-native'
 import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
-const remoteUrl = 'https://ember.dpgu.me/hearth/v1'
-const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://192.168.0.214:4100'
+const remoteUrl = 'https://ember.dpgu.me/hearth/v2'
+const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://192.168.15.92:4100'
 
 let useLocal = __DEV__
 let initialized = false
@@ -47,24 +47,36 @@ export async function fetchHearth<T>(
     if (cached) return cached
   }
 
-  try {
+  async function fetchFrom(baseUrl: string, timeoutMs: number): Promise<T> {
     const controller = new AbortController()
-    const timeout = setTimeout(() => controller.abort(), 15_000)
+    const timeout = setTimeout(() => controller.abort(), timeoutMs)
     let res: Response
     try {
-      res = await fetch(`${getBaseUrl()}/${path}`, { signal: controller.signal })
+      res = await fetch(`${baseUrl}/${path}`, { signal: controller.signal })
     } finally {
       clearTimeout(timeout)
     }
     if (!res.ok) throw new Error(`Hearth ${path}: ${res.status}`)
-    const data: T = await res.json()
+    return (await res.json()) as T
+  }
 
-    if (!isLocal) {
-      await setCache(key, data)
-    }
-
+  try {
+    // Fail fast on local dev so the boot splash doesn't block 15s when the
+    // dev hearth (e.g. on a LAN IP that may not be reachable) is offline.
+    const data = await fetchFrom(getBaseUrl(), isLocal ? 3_000 : 15_000)
+    if (!isLocal) await setCache(key, data)
     return data
   } catch (err) {
+    // Local-dev fallback: when the dev hearth is offline, transparently fall
+    // back to the remote so the app stays functional. Only on network/timeout
+    // errors — re-throw if the user's offline.
+    if (isLocal) {
+      try {
+        return await fetchFrom(remoteUrl, 15_000)
+      } catch (remoteErr) {
+        console.warn('[hearth] local + remote fetch failed for', path, remoteErr)
+      }
+    }
     if (networkFirst && !isLocal) {
       const cached = await getCached<T>(key)
       if (cached) return cached

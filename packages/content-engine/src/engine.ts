@@ -60,11 +60,11 @@ export type EngineContext = {
   ) => Promise<LocalizedContent | undefined>
   getBookLanguages?: (book: string) => string[]
   /**
-   * Optional asset readers used by data sources. When not supplied, fetchOwnAsset
-   * falls back to FlowContext.cycleData[path] for backward compatibility with
-   * the existing data declaration mechanism.
+   * Optional asset readers used by data sources. When `fetchOwnAsset` is not
+   * supplied, the engine falls back to `FlowContext.cycleData[path]` so a
+   * practice's declared `data` files resolve without a host-supplied reader.
    */
-  fetchAsset?: (libraryId: string, path: string) => Promise<unknown>
+  fetchAsset?: (path: string) => Promise<unknown>
   fetchOwnAsset?: (path: string) => Promise<unknown>
 }
 
@@ -78,7 +78,7 @@ export type FlowContext = {
   programDay?: number
   templateVars?: Record<string, string>
   resolvedProse?: ResolvedProse
-  // Holds both legacy iteration arrays (RepeatEntry[]) and DataSource load results (arbitrary objects).
+  // Holds both repeat-iteration arrays (RepeatEntry[]) and DataSource load results (arbitrary objects).
   flowData?: Record<string, unknown>
   selectOverrides?: Record<string, string>
   fragments?: Record<string, FlowSection[]>
@@ -1545,8 +1545,8 @@ function buildSourceContext(context: FlowContext, ec: EngineContext): SourceCont
     fetchAsset: ec.fetchAsset ?? (async () => undefined),
     fetchOwnAsset:
       ec.fetchOwnAsset ??
-      // Backward compat: if the engine doesn't provide a real file reader, fall
-      // back to the practice's pre-loaded data declarations (cycleData).
+      // Default: when no host-supplied reader, fall back to the practice's
+      // pre-loaded data declarations (cycleData).
       (async (path: string) => context.cycleData?.[path] as unknown),
     localize: ec.localize,
     t: ec.t,
@@ -1764,9 +1764,8 @@ export async function resolveFlowAsync(
   )
   ctx = resolvedContext
 
-  // Registry-based load steps run after legacy resolve steps. They can read
-  // values bound by resolve steps and write into flowData under their own
-  // `as` keys.
+  // Registry-based load steps run after resolve steps. They can read values
+  // bound by resolve steps and write into flowData under their own `as` keys.
   ctx = await executeLoadSteps(flow, ctx, engineContext)
 
   const sectionBookChapterRefs = collectBookChapterRefs(flow, ctx)

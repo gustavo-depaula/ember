@@ -1,7 +1,7 @@
 // End-to-end integration: register mass-of with the engine's DataSource registry,
-// run resolveFlowAsync against the actual ember-extra fixtures (vendored under
-// content/libraries/base/of/), and verify celebration enumeration + slot
-// extraction produce the expected RenderedSection shape.
+// run resolveFlowAsync against the actual ember-extra fixtures (read from the
+// vendored submodule), and verify celebration enumeration + slot extraction
+// produce the expected RenderedSection shape.
 import { readFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
 import {
@@ -13,12 +13,10 @@ import {
 import { afterAll, beforeAll, describe, expect, it } from 'vitest'
 import { massOfSource } from './source'
 
-// Read directly from the ember-extra submodule so tests don't depend on
-// a local sync to content/libraries/base/of/ (which is gitignored).
+// Read directly from the vendored ember-extra submodule.
 const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
 
-async function readJsonFromBase(libraryId: string, path: string): Promise<unknown> {
-  if (libraryId !== 'base') throw new Error(`Unexpected libraryId in test: ${libraryId}`)
+async function readJsonFromBase(path: string): Promise<unknown> {
   if (!path.startsWith('of/')) throw new Error(`Unexpected path prefix: ${path}`)
   const fullPath = resolve(BASE_OF_ROOT, path.slice('of/'.length))
   try {
@@ -44,7 +42,7 @@ function makeEngineContext(): EngineContext {
     prayers: {},
     canticles: {},
     prose: {},
-    fetchAsset: (libraryId, path) => readJsonFromBase(libraryId, path),
+    fetchAsset: (path) => readJsonFromBase(path),
     fetchOwnAsset: () => Promise.resolve(undefined),
   }
 }

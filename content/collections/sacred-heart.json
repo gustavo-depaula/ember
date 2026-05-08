@@ -1,0 +1,55 @@
+{
+  "id": "collection/sacred-heart",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Sacred Heart Devotion",
+    "pt-BR": "Devoção ao Sagrado Coração"
+  },
+  "description": {
+    "en-US": "Prayers, devotions, and teachings on the Sacred Heart of Jesus, including the Nine First Fridays program.",
+    "pt-BR": "Orações, devoções e ensinamentos sobre o Sagrado Coração de Jesus, incluindo o programa das Nove Primeiras Sextas-feiras."
+  },
+  "icon": "sacred-heart",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "sacred-heart",
+    "devotion",
+    "first-friday",
+    "reparation"
+  ],
+  "items": [
+    {
+      "ref": "chapter/history-of-devotion"
+    },
+    {
+      "ref": "practice/morning-offering-sacred-heart"
+    },
+    {
+      "ref": "chapter/twelve-promises"
+    },
+    {
+      "ref": "practice/first-friday-devotion"
+    },
+    {
+      "ref": "chapter/saints-sacred-heart"
+    },
+    {
+      "ref": "practice/holy-hour-sacred-heart"
+    },
+    {
+      "ref": "chapter/sacred-heart-in-art"
+    },
+    {
+      "ref": "practice/act-of-reparation"
+    },
+    {
+      "ref": "chapter/theological-foundations"
+    }
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-1.friday",
+  "title": {
+    "la": "Hebdomada I Feria sexta",
+    "es": "Cuaresma Viernes de la I Semana",
+    "en": "Friday of the I Week of Lent",
+    "pt-BR": "Sexta-feira da I Semana da Quaresma",
+    "it": "I SETTIMANA DI QUARESIMA Venerdì",
+    "fr": "1e semaine Vendredi",
+    "de": "Freitag der 1. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 1,
+  "weekday": "friday",
+  "liturgicalColor": "violet"
+}

@@ -13,7 +13,7 @@ import { getFirstSundayOfAdvent } from './season'
 const mapPath = resolve(
   __dirname,
   '../../..',
-  'content/libraries/alphonsus-liguori/practices/meditacoes-ligorio/data/liturgical-map.json',
+  'content/practices/meditacoes-ligorio/data/liturgical-map.json',
 )
 const map: LiturgicalDayMap = JSON.parse(readFileSync(mapPath, 'utf8'))
 

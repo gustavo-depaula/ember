@@ -1,0 +1,15 @@
+{
+  "id": "tempore.holy-week.tuesday",
+  "title": {
+    "la": "FERIA III HEBDOMADÆ SANCTÆ",
+    "es": "MARTES SANTO",
+    "en": "Tuesday of Holy Week",
+    "pt-BR": "Terça-Feira da Semana Santa",
+    "it": "Martedì della Settimana santa",
+    "fr": "MARDI SAINT SEMAINE SAINTE",
+    "de": "DIENSTAG DER KARWOCHE"
+  },
+  "season": "holy-week",
+  "weekday": "tuesday",
+  "liturgicalColor": "violet"
+}

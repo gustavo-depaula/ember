@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-5.wednesday",
+  "title": {
+    "la": "Hebdomada V Feria quarta",
+    "es": "Cuaresma Miércoles de la V Semana",
+    "en": "Wednesday of the V Week of Lent",
+    "pt-BR": "Quarta-feira da V Semana da Quaresma",
+    "it": "V SETTIMANA DI QUARESIMA Mercoledì",
+    "fr": "Hebdomada V Mercredi",
+    "de": "Mittwoch der 5. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 5,
+  "weekday": "wednesday",
+  "liturgicalColor": "violet"
+}

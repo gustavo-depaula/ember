@@ -15,7 +15,7 @@ import {
   SectionDivider,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/registry'
+import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/resolver'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
   enrichSlot,
@@ -49,7 +49,7 @@ export default function PracticeDetailScreen() {
   const baseManifest = practiceId ? getManifest(practiceId) : undefined
   const displayManifest = manifest ?? baseManifest
   const isProgram = !!displayManifest?.program
-  const hasFlow = !!displayManifest?.flow
+  const hasFlow = !!displayManifest?.flowHash
   const updateSlot = useUpdateSlot()
   const updatePractice = useUpdatePractice()
   const addSlot = useAddSlot()

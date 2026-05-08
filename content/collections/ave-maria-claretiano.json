@@ -1,0 +1,54 @@
+{
+  "id": "collection/ave-maria-claretiano",
+  "version": "1.0.0",
+  "name": {
+    "pt-BR": "Ave Maria — Padres Claretianos"
+  },
+  "description": {
+    "pt-BR": "Devocionário que contém as principais orações e exercícios de piedade que deve praticar o cristão. Padres Claretianos, 1957."
+  },
+  "icon": "mary",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "devotional",
+    "traditional",
+    "portuguese"
+  ],
+  "items": [
+    {
+      "ref": "chapter/doutrina-crista"
+    },
+    {
+      "ref": "practice/oracao-da-manha"
+    },
+    {
+      "ref": "practice/oracao-da-noite"
+    },
+    {
+      "ref": "practice/oracao-santa-missa"
+    },
+    {
+      "ref": "practice/para-confissao"
+    },
+    {
+      "ref": "practice/preparacao-comunhao"
+    },
+    {
+      "ref": "chapter/primeira-comunhao"
+    },
+    {
+      "ref": "practice/modo-rezar-rosario"
+    },
+    {
+      "ref": "practice/via-sacra"
+    },
+    {
+      "ref": "chapter/salva-tua-alma"
+    }
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

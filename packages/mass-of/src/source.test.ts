@@ -8,10 +8,7 @@ function makeCtx(
   date = new Date(2026, 3, 2), // Holy Thursday 2026
 ): SourceContext {
   return {
-    fetchAsset: async (libraryId, path) => {
-      if (libraryId !== 'base') return undefined
-      return files[path]
-    },
+    fetchAsset: async (path) => files[path],
     fetchOwnAsset: async () => undefined,
     localize: (text) => ({ primary: text['pt-BR'] ?? text['en-US'] ?? '' }),
     t: (key) => key,

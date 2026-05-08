@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-30.thursday",
+  "title": {
+    "la": "Feria V hebd. XXX",
+    "es": "Jueves 30ª semana",
+    "en": "Thursday of the XXX Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da XXX Semana do Tempo Comum",
+    "it": "GIOVEDI della XXX settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 30e semaine",
+    "de": "30. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 30,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

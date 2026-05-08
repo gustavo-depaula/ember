@@ -1,0 +1,75 @@
+{
+  "id": "collection/novenas",
+  "version": "1.1.0",
+  "name": {
+    "en-US": "Traditional Novenas",
+    "pt-BR": "Novenas Tradicionais"
+  },
+  "description": {
+    "en-US": "Classic Catholic novenas for sustained devotional prayer.",
+    "pt-BR": "Novenas católicas clássicas para uma vida de oração perseverante."
+  },
+  "icon": "candle",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "novena",
+    "devotion",
+    "marian"
+  ],
+  "items": [
+    {
+      "ref": "practice/rosary-54-day-novena"
+    },
+    {
+      "ref": "practice/divine-mercy-novena"
+    },
+    {
+      "ref": "practice/st-joseph-novena"
+    },
+    {
+      "ref": "practice/st-jude-novena"
+    },
+    {
+      "ref": "practice/st-therese-novena"
+    },
+    {
+      "ref": "practice/st-michael-novena"
+    },
+    {
+      "ref": "practice/st-anthony-novena"
+    },
+    {
+      "ref": "practice/novena-holy-spirit"
+    },
+    {
+      "ref": "practice/novena-sacred-heart"
+    },
+    {
+      "ref": "practice/miraculous-medal-novena"
+    },
+    {
+      "ref": "practice/perpetual-help-novena"
+    },
+    {
+      "ref": "practice/our-lady-aparecida-novena"
+    },
+    {
+      "ref": "practice/guadalupe-novena"
+    },
+    {
+      "ref": "practice/mount-carmel-novena"
+    },
+    {
+      "ref": "practice/novena-for-the-sick-escriva"
+    },
+    {
+      "ref": "prayer/ladainha-nossa-senhora"
+    }
+  ],
+  "defaults": {
+    "autoSeed": false
+  }
+}

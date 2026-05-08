@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-31.wednesday",
+  "title": {
+    "la": "Feria IV hebd. XXXI",
+    "es": "Miércoles 31ª semana",
+    "en": "Wednesday of the XXXI Week in Ordinary Time",
+    "pt-BR": "Quarta-feira da XXXI Semana do Tempo Comum",
+    "it": "MERCOLEDI della XXXI settimana del Tempo Ordinario",
+    "fr": "Mercredi de la 31e semaine",
+    "de": "31. Woche im Jahreskreis MITTWOCH"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 31,
+  "weekday": "wednesday",
+  "liturgicalColor": "green"
+}

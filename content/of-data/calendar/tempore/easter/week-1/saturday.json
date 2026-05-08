@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-1.saturday",
+  "title": {
+    "la": "SABBATO INFRA OCTAVAM PASCHÆ",
+    "es": "SÁBADO DE LA OCTAVA DE PASCUA",
+    "en": "Saturday of the I Week of Easter",
+    "pt-BR": "Sábado da I Semana da Páscoa",
+    "it": "OTTAVA DI PASQUA Sabato fra l’ottava di Pasqua",
+    "fr": "SAMEDI DE LA 1e SEMAINE",
+    "de": "SAMSTAG der Osteroktav"
+  },
+  "season": "easter",
+  "weekIndex": 1,
+  "weekday": "saturday",
+  "liturgicalColor": "white"
+}

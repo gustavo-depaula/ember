@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-4.tuesday",
+  "title": {
+    "la": "Hebdomada IV Feria tertia",
+    "es": "IV Semana Martes",
+    "en": "Tuesday of the IV Week of Easter",
+    "pt-BR": "Terça-feira da IV Semana da Páscoa",
+    "it": "IV Settimana Martedì",
+    "fr": "MARDI DE LA 4e SEMAINE",
+    "de": "DIENSTAG der vierten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 4,
+  "weekday": "tuesday",
+  "liturgicalColor": "white"
+}

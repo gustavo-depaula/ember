@@ -51,7 +51,7 @@ const SEASON_MAP: Record<OfSeason, string> = {
  * follow-up that depends on ember-extra's Christmas-day ID layout being mapped.
  *
  * Returns canonical ember-extra IDs; consumers should fetch these via
- * `ctx.fetchAsset('ember-extra', formularyPath(id))`.
+ * `ctx.fetchAsset(formularyPath(id))`.
  */
 export function temporeIdsForDate(date: Date): string[] {
   const month = getMonth(date) + 1

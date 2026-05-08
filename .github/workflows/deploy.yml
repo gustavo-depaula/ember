@@ -40,30 +40,19 @@ jobs:
           cp apps/hearth/index.html _site_hearth/index.html
           scripts/convert-webp.sh _site_hearth
 
-          # Wrap under hearth/v1/
-          mkdir -p _site/hearth
+          mkdir -p _site/hearth/v2
           mv _site_hearth/index.html _site/index.html
-          mv _site_hearth _site/hearth/v1
 
-      - name: Build .pray archives
-        run: scripts/build-libraries.sh _site/hearth/v1/libraries
+          # Auxiliary content served alongside the corpus (Bible, CCC, EF propers, etc.)
+          for d in bible catechism lectionary liturgical propers saints; do
+            if [ -d "_site_hearth/$d" ]; then
+              mv "_site_hearth/$d" "_site/hearth/v2/$d"
+            fi
+          done
+          rm -rf _site_hearth
 
-      - name: Generate manifest
-        run: |
-          cd _site/hearth
-          echo '{' > manifest.json
-          echo '  "version": "1",' >> manifest.json
-          echo '  "generated": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'",' >> manifest.json
-          echo '  "files": {' >> manifest.json
-
-          find v1 -type f | sort | while IFS= read -r f; do
-            hash=$(sha256sum "$f" | cut -c1-12)
-            size=$(stat -c%s "$f")
-            echo "    \"$f\": {\"sha256\": \"$hash\", \"size\": $size},"
-          done | sed '$ s/,$//' >> manifest.json
-
-          echo '  }' >> manifest.json
-          echo '}' >> manifest.json
+      - name: Build content corpus (Hearth v2)
+        run: python3 scripts/build-corpus.py _site/hearth/v2
 
       - uses: actions/upload-pages-artifact@v3
         with:

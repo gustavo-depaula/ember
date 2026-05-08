@@ -1,0 +1,22 @@
+{
+  "id": "04-rosary-with-macros",
+  "icon": "rosary",
+  "name": {
+    "en-US": "Example: Rosary with Macros",
+    "pt-BR": "Exemplo: Rosário com Macros"
+  },
+  "categories": [
+    "devotion"
+  ],
+  "estimatedMinutes": 20,
+  "description": {
+    "en-US": "Demonstrates macros: the Rosary's decade structure is defined ONCE as a fragment, then called five times with different mystery args. This collapses what would otherwise be 20+ inlined copies.",
+    "pt-BR": "Demonstra macros: a estrutura do dezena do Rosário é definida UMA VEZ como fragmento, depois chamada cinco vezes com diferentes mistérios."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "flow": "flow.json",
+  "defaults": {
+    "sortOrder": 999
+  }
+}

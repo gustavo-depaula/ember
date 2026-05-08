@@ -143,15 +143,6 @@ export async function deletePractice(practiceId: string): Promise<void> {
   await emit({ type: 'PracticeDeleted', practiceId })
 }
 
-export async function deleteBookPractices(practiceIds: string[]): Promise<void> {
-  if (practiceIds.length === 0) return
-  const events = practiceIds.map((id) => ({
-    type: 'PracticeDeleted' as const,
-    practiceId: id,
-  }))
-  await emitBatch(events)
-}
-
 // --- Archive ---
 
 export async function archivePractice(practiceId: string): Promise<void> {

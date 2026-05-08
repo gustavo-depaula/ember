@@ -2,7 +2,7 @@
 
 Convert public-domain ThML files from the [Christian Classics Ethereal Library](https://ccel.org) into ready-to-edit Ember books.
 
-> See `docs/content/book-format.md` for the target format. The importer emits `book.json` + per-language Markdown chapters into `content/libraries/ccel-classics/books/<bookId>/`, then `pnpm build:libraries` packages everything into a `.pray`.
+> See `docs/content/book-format.md` for the target format. The importer emits `book.json` + per-language Markdown chapters straight into `content/books/<bookId>/`, then `pnpm build:corpus` hashes each (chapter, lang) file into the v2 corpus.
 
 ## Quick start
 
@@ -10,19 +10,18 @@ Convert public-domain ThML files from the [Christian Classics Ethereal Library](
 # 1. Download the ThML XML from CCEL (find it on https://ccel.org/index/format/ThML)
 curl -L -o /tmp/imitation.xml https://ccel.org/ccel/kempis/imitation/imitation.xml
 
-# 2. Run the importer
-python content/libraries/ccel-classics/scripts/ccel-import.py \
+# 2. Run the importer (lives at content/_archive/ccel-classics/scripts/ post-rename)
+python content/_archive/ccel-classics/scripts/ccel-import.py \
   --input /tmp/imitation.xml \
-  --library ccel-classics \
   --book-id kempis-imitation-of-christ \
   --chapter-level auto \
   --composed 1418
 
 # 3. Hand-review the output
-ls content/libraries/ccel-classics/books/kempis-imitation-of-christ/
+ls content/books/kempis-imitation-of-christ/
 
 # 4. Build & verify
-pnpm build:libraries
+pnpm build:corpus
 ```
 
 ## What the importer does
@@ -47,7 +46,7 @@ pnpm build:libraries
    - `<scripCom>`/`<scripContext>`/`<pb/>`/`<a name=…>`/`<img>`/`<index>`/`<indexterm>` → stripped
    - Leading sub-headings inside a chapter body (CCEL's `<h4>The First Chapter</h4>` / `<h3>{title}</h3>` print decorations) are dropped — we already inject our own `# {title}` H1.
 6. Emits `book.json` with ancestor-qualified TOC ids (`book-1-chapter-1`, etc.) and writes `<lang>/<id>.md` per leaf. Slugs prefer `(type, n)` pairs (`chapter-1`), then a "PART/BOOK/CHAPTER N" prefix detected in the title (`part-i`, `chapter-vii`), then the first six words of the title.
-7. Idempotently appends the new book to `content/libraries/ccel-classics/library.json`.
+7. Adds an entry for the new book id to `content/collections/ccel-classics.json` so the curated CCEL set picks it up.
 
 ## Finding ThML URLs on CCEL
 
@@ -73,7 +72,7 @@ After import, before committing:
   - Scripture quotes preserve their text but no `passage="…"` leaks through.
   - Footnotes appear at the bottom and resolve.
   - Verse / poetry blocks render as blockquotes.
-- [ ] If the importer reported unknown elements, check whether they need a mapping (open an issue or extend `content/libraries/ccel-classics/scripts/ccel/markdown.py`).
+- [ ] If the importer reported unknown elements, check whether they need a mapping (open an issue or extend `content/_archive/ccel-classics/scripts/ccel/markdown.py`).
 - [ ] Verify dropped link count is small (< 1% of paragraphs); if higher, audit before committing.
 
 ## Granularity tips

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-2.wednesday",
+  "title": {
+    "la": "Hebdomada II Feria quarta",
+    "es": "II Semana Miércoles",
+    "en": "Wednesday of the II Week of Easter",
+    "pt-BR": "Quarta-feira da II Semana da Páscoa",
+    "it": "II Settimana Mercoledì",
+    "fr": "MERCREDI DE LA 2e SEMAINE",
+    "de": "MITTWOCH der zweiten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 2,
+  "weekday": "wednesday",
+  "liturgicalColor": "white"
+}

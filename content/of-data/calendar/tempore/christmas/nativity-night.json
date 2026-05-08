@@ -1,0 +1,15 @@
+{
+  "id": "tempore.christmas.nativity-night",
+  "title": {
+    "la": "IN NATIVITATE DOMINI",
+    "es": "NATIVIDAD DEL SEÑOR",
+    "en": "The Nativity of the Lord (Christmas) — Mass during the Night",
+    "pt-BR": "Natal do Senhor — Missa da Noite",
+    "it": "NATALE DEL SIGNORE",
+    "fr": "SOLENNITÉ DE LA NATIVITÉ Messe de la nuit",
+    "de": "HOCHFEST DER GEBURT DES HERRN Weihnachten In der Heiligen Nacht"
+  },
+  "season": "christmas",
+  "rank": "solemnity",
+  "liturgicalColor": "white"
+}

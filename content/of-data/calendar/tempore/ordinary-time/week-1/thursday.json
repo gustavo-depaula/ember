@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-1.thursday",
+  "title": {
+    "la": "Feria V hebd. I",
+    "es": "Jueves 1ª semana",
+    "en": "Thursday of the I Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da I Semana do Tempo Comum",
+    "it": "GIOVEDI della I settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 1e semaine",
+    "de": "1. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 1,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

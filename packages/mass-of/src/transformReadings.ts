@@ -11,10 +11,10 @@ type ResponsorialPsalm = {
 }
 
 /**
- * Adapt ember-extra's split reading shapes (post commits 15d02af / 40261a6)
- * into the `body`-shaped envelope the engine's choice-rich-text resolver
- * consumes. Slots that already carry `body` (legacy formularies, other
- * readings) are passed through untouched.
+ * Normalize formulary readings: some sources emit the reading as
+ * `{ text, lines, references }` (DivOff-shaped); the engine's
+ * choice-rich-text resolver consumes a `body`-shaped envelope. Slots that
+ * already carry `body` are passed through untouched.
  */
 export function transformFormularyReadings(formulary: Formulary): Formulary {
   const readings = formulary.readings as Record<string, Record<string, unknown>> | undefined

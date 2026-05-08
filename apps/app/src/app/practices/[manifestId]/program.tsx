@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { addDays, format } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronLeft } from 'lucide-react-native'
@@ -8,7 +9,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayerSpinner, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
-import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/registry'
+import { getManifest, getManifestIconKey, loadPracticeData } from '@/content/resolver'
 import type { CycleData } from '@/content/types'
 import {
   useBackfillMissedDays,
@@ -46,7 +47,13 @@ export default function ProgramDetailScreen() {
   const restartProgramMutation = useRestartProgram()
   const backfillMutation = useBackfillMissedDays()
 
-  const cycleData = manifestId ? loadPracticeData(manifestId) : undefined
+  const cycleDataQuery = useQuery({
+    queryKey: ['practice-data', manifestId],
+    queryFn: async () => (manifestId ? ((await loadPracticeData(manifestId)) ?? null) : null),
+    enabled: !!manifestId,
+    staleTime: Infinity,
+  })
+  const cycleData = cycleDataQuery.data ?? undefined
   const dayTitles = useMemo(() => getDayTitles(cycleData), [cycleData])
 
   if (!manifest?.program || !progress) {

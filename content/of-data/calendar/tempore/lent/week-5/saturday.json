@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-5.saturday",
+  "title": {
+    "la": "Hebdomada V Sabbato",
+    "es": "Cuaresma Sábado de la V Semana",
+    "en": "Saturday of the V Week of Lent",
+    "pt-BR": "Sábado da V Semana da Quaresma",
+    "it": "V SETTIMANA DI QUARESIMA Sabato",
+    "fr": "Hebdomada V Samedi",
+    "de": "Samstag der 5. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 5,
+  "weekday": "saturday",
+  "liturgicalColor": "violet"
+}

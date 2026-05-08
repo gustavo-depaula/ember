@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-6.wednesday",
+  "title": {
+    "la": "Hebdomada VI Feria quarta Ad Missam matutinam",
+    "es": "VI Semana Miércoles",
+    "en": "Wednesday of the VI Week of Easter",
+    "pt-BR": "Quarta-feira da VI Semana da Páscoa",
+    "it": "VI Settimana Mercoledì",
+    "fr": "MERCREDI DE LA 6E SEMAINE Ad Missam matutinam",
+    "de": "MITTWOCH der sechsten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 6,
+  "weekday": "wednesday",
+  "liturgicalColor": "white"
+}

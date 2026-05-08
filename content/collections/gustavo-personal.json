@@ -1,0 +1,28 @@
+{
+  "id": "collection/gustavo-personal",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Personal Library",
+    "pt-BR": "Biblioteca Pessoal"
+  },
+  "description": {
+    "en-US": "A personal library of practices.",
+    "pt-BR": "Uma biblioteca pessoal de práticas."
+  },
+  "icon": "sunrise",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "personal"
+  ],
+  "items": [
+    {
+      "ref": "practice/mental-prayer-coloquio"
+    },
+    {
+      "ref": "practice/rosary-perpetual-novena"
+    }
+  ]
+}

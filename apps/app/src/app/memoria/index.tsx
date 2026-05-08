@@ -17,7 +17,7 @@ import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { getManifest, parseQualifiedId } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import { type MemoriaEntry, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -30,9 +30,7 @@ function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
   if (filter === 'all') return true
   if (filter === 'prayers')
     return (
-      entry.kind === 'completion' ||
-      entry.kind === 'day-offered' ||
-      entry.kind === 'confession'
+      entry.kind === 'completion' || entry.kind === 'day-offered' || entry.kind === 'confession'
     )
   if (filter === 'intentions')
     return entry.kind === 'intention-added' || entry.kind === 'intention-answered'
@@ -303,7 +301,7 @@ function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNod
 function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>['t']): string {
   if (entry.kind === 'completion') {
     return t('memoria.completion', {
-      name: getPracticeDisplayName(entry.completion.practice_id, t),
+      name: getPracticeDisplayName(entry.completion.practice_id),
     })
   }
   if (entry.kind === 'intention-added') {
@@ -321,15 +319,7 @@ function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>[
   return t('memoria.intentionAnswered', { text: entry.intention.text })
 }
 
-function getPracticeDisplayName(
-  practiceId: string,
-  t: ReturnType<typeof useTranslation>['t'],
-): string {
+function getPracticeDisplayName(practiceId: string): string {
   const manifest = getManifest(practiceId)
-  if (!manifest) return practiceId
-  const { practiceId: unqualified } = parseQualifiedId(practiceId)
-  const key = `practice.${unqualified}`
-  const translated = t(key)
-  if (translated !== key) return translated
-  return localizeContent(manifest.name)
+  return manifest ? localizeContent(manifest.name) : practiceId
 }

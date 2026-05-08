@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-33.friday",
+  "title": {
+    "la": "Feria VI hebd. XXXIII",
+    "es": "Viernes 33ª semana",
+    "en": "Friday of the XXXIII Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da XXXIII Semana do Tempo Comum",
+    "it": "VENERDI della XXXIII settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 33e semaine",
+    "de": "33. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 33,
+  "weekday": "friday",
+  "liturgicalColor": "green"
+}

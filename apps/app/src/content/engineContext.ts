@@ -1,12 +1,12 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
+import { fetchOfAsset } from '@/content/fetchOfAsset'
 import {
   getBookEntry,
   getProseText,
   loadBookChapterText,
-  readLibraryAsset,
   resolveCanticle,
   resolvePrayer,
-} from '@/content/registry'
+} from '@/content/resolver'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -30,7 +30,6 @@ function findTocTitle(
 }
 
 export function createEngineContext(
-  libraryId?: string,
   chapterId?: string,
   languagePrefs?: { contentLanguage: ContentLanguage; secondaryLanguage?: ContentLanguage },
 ): EngineContext {
@@ -38,13 +37,19 @@ export function createEngineContext(
   const contentLanguage = languagePrefs?.contentLanguage ?? state.contentLanguage
   const secondaryLanguage = languagePrefs?.secondaryLanguage ?? state.secondaryLanguage
 
-  // Build prayers map with scoped resolution via Proxy
+  // The languages we'll request when merging per-language split blobs (OF
+  // Mass propers, ordinaries, prefaces). Always include Latin since the
+  // rubrics fall back to it.
+  const requestedLangs = Array.from(
+    new Set([contentLanguage, secondaryLanguage, 'la'].filter(Boolean) as string[]),
+  )
+
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {
-      return resolvePrayer(ref, libraryId)
+      return resolvePrayer(ref)
     },
     has(_, ref: string) {
-      return resolvePrayer(ref, libraryId) !== undefined
+      return resolvePrayer(ref) !== undefined
     },
   })
 
@@ -59,14 +64,12 @@ export function createEngineContext(
 
   const prose = new Proxy({} as Record<string, { 'en-US'?: string; 'pt-BR'?: string }>, {
     get(_, filePath: string) {
-      if (!libraryId) return undefined
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, libraryId)
+      return getProseText(key)
     },
     has(_, filePath: string) {
-      if (!libraryId) return false
       const key = chapterId ? `${chapterId}/${filePath}` : filePath
-      return getProseText(key, libraryId) !== undefined
+      return getProseText(key) !== undefined
     },
   })
 
@@ -82,8 +85,7 @@ export function createEngineContext(
     canticles,
     prose,
     getBookChapterTitle: (book, chapter, lang) => {
-      if (!libraryId) return undefined
-      const entry = getBookEntry(book, libraryId)
+      const entry = getBookEntry(book)
       if (!entry?.toc) return undefined
       const title = findTocTitle(
         entry.toc as Array<{ id: string; title: Record<string, string>; children?: unknown[] }>,
@@ -92,18 +94,16 @@ export function createEngineContext(
       if (!title) return undefined
       return title[lang] ?? title['pt-BR'] ?? title['en-US'] ?? Object.values(title)[0]
     },
-    getBookLanguages: (book) => {
-      if (!libraryId) return []
-      return getBookEntry(book, libraryId)?.languages ?? []
-    },
+    getBookLanguages: (book) => getBookEntry(book)?.languages ?? [],
     loadBookChapterTextAsync: async (book, chapter, lang) => {
-      if (!libraryId) return undefined
-      const text = await loadBookChapterText(libraryId, book, chapter, lang)
+      const text = await loadBookChapterText(book, chapter, lang)
       if (!text) return undefined
       return { [lang]: text }
     },
-    fetchAsset: (libId, path) => readLibraryAsset(libId, path),
-    fetchOwnAsset: (path) =>
-      libraryId ? readLibraryAsset(libraryId, path) : Promise.resolve(undefined),
+    fetchAsset: async (path: string) => fetchOfAsset(path, requestedLangs),
+    // No fetchOwnAsset — let the engine fall through to context.cycleData,
+    // which is populated by loadPracticeData() and indexed by data name (e.g.
+    // 'liturgical-map'). The OF asset router is for cross-practice paths
+    // only, not this practice's own declared data.
   }
 }

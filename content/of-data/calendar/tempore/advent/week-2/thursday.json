@@ -1,0 +1,16 @@
+{
+  "id": "tempore.advent.week-2.thursday",
+  "title": {
+    "la": "Hebdomada II Feria quinta",
+    "es": "Adviento Jueves de la II Semana",
+    "en": "Thursday of the II Week of Advent",
+    "pt-BR": "Quinta-feira da II Semana do Advento",
+    "it": "Avvento II SETTIMANA Giovedì",
+    "fr": "2e semaine Jeudi",
+    "de": "DONNERSTAG der zweiten Adventswoche"
+  },
+  "season": "advent",
+  "weekIndex": 2,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

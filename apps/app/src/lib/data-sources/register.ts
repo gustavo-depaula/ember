@@ -10,8 +10,8 @@ let registered = false
  *
  * - `liturgical-day` resolves today's content from a per-practice
  *   liturgical-map (used by Liguori's Meditações).
- * - `mass-of` resolves today's OF Mass formularies from the bundled
- *   `ember-extra` library.
+ * - `mass-of` resolves today's OF Mass formularies from the corpus
+ *   (data originally sourced from the `ember-extra` upstream submodule).
  */
 export function registerDataSources(): void {
   if (registered) return

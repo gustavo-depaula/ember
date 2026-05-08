@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-1.tuesday",
+  "title": {
+    "la": "Feria III hebd. I",
+    "es": "Martes 1ª semana",
+    "en": "Tuesday of the I Week in Ordinary Time",
+    "pt-BR": "Terça-feira da I Semana do Tempo Comum",
+    "it": "MARTEDI della I settimana del Tempo Ordinario",
+    "fr": "Mardi de la 1e semaine",
+    "de": "1. Woche im Jahreskreis DIENSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 1,
+  "weekday": "tuesday",
+  "liturgicalColor": "green"
+}

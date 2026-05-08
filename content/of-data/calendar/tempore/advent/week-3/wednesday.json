@@ -1,0 +1,16 @@
+{
+  "id": "tempore.advent.week-3.wednesday",
+  "title": {
+    "la": "Hebdomada III Feria quarta",
+    "es": "Adviento Miércoles de la III Semana",
+    "en": "Wednesday of the III Week of Advent",
+    "pt-BR": "Quarta-feira da III Semana do Advento",
+    "it": "Avvento III SETTIMANA Mercoledì",
+    "fr": "3e semaine Mercredi",
+    "de": "MITTWOCH der dritten Adventswoche"
+  },
+  "season": "advent",
+  "weekIndex": 3,
+  "weekday": "wednesday",
+  "liturgicalColor": "violet"
+}

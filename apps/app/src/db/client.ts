@@ -8,8 +8,6 @@ import initialMigration from './migrations/0001_initial.sql'
 
 // Native-only imports
 // biome-ignore lint: conditional require for platform compat
-const nativeFs = Platform.OS !== 'web' ? (require('expo-file-system') as any) : undefined
-// biome-ignore lint: conditional require for platform compat
 const expo = Platform.OS !== 'web' ? (require('expo') as any) : undefined
 
 export { getDb }
@@ -68,9 +66,9 @@ export async function resetDatabase() {
     await idbClearAll()
     window.location.reload()
   } else {
-    const { Directory, Paths } = nativeFs
-    const booksDir = new Directory(Paths.document, 'books/')
-    if (booksDir.exists) booksDir.delete()
+    const fs = require('expo-file-system') as typeof import('expo-file-system')
+    const blobsDir = new fs.Directory(fs.Paths.document, 'blobs/')
+    if (blobsDir.exists) blobsDir.delete()
     await expo.reloadAppAsync('Database reset')
   }
 }

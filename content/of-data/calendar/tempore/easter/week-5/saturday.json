@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-5.saturday",
+  "title": {
+    "la": "Hebdomada V Sabbato",
+    "es": "V Semana Sábado",
+    "en": "Saturday of the V Week of Easter",
+    "pt-BR": "Sábado da V Semana da Páscoa",
+    "it": "V Settimana Sabato",
+    "fr": "SAMEDI DE LA 5e SEMAINE",
+    "de": "SAMSTAG der fünften Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 5,
+  "weekday": "saturday",
+  "liturgicalColor": "white"
+}

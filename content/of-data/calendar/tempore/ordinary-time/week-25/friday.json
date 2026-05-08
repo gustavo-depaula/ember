@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-25.friday",
+  "title": {
+    "la": "Feria VI hebd. XXV",
+    "es": "Viernes 25ª semana",
+    "en": "Friday of the XXV Week in Ordinary Time",
+    "pt-BR": "Sexta-feira da XXV Semana do Tempo Comum",
+    "it": "VENERDI della XXV settimana del Tempo Ordinario",
+    "fr": "Vendredi de la 25e semaine",
+    "de": "25. Woche im Jahreskreis FREITAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 25,
+  "weekday": "friday",
+  "liturgicalColor": "green"
+}

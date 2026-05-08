@@ -1,0 +1,22 @@
+{
+  "id": "05-mass-of-with-choice-rich-text",
+  "icon": "cross",
+  "name": {
+    "en-US": "Example: Mass via mass-of + choice-rich-text",
+    "pt-BR": "Exemplo: Missa via mass-of + choice-rich-text"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 30,
+  "description": {
+    "en-US": "Demonstrates how to consume the mass-of DataSource: load today's celebrations, branch on rite, and render variable slots via choice-rich-text. This is the same shape used by the actual Mass practice.",
+    "pt-BR": "Demonstra como consumir a fonte de dados mass-of: carrega as celebrações de hoje, dispatcha por rito e renderiza slots variáveis via choice-rich-text."
+  },
+  "flowMode": "scroll",
+  "completion": "manual",
+  "flow": "flow.json",
+  "defaults": {
+    "sortOrder": 999
+  }
+}

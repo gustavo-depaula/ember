@@ -4,7 +4,7 @@ import { describe, expect, it } from 'vitest'
 import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
 
 const REPO = resolve(__dirname, '../../..')
-const PREFACE_DIR = `${REPO}/content/libraries/base/of/library/preface`
+const PREFACE_DIR = `${REPO}/content/of-library/preface`
 
 function loadPreface(id: string): unknown {
   return JSON.parse(readFileSync(`${PREFACE_DIR}/${id}.json`, 'utf8'))

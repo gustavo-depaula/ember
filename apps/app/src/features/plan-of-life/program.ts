@@ -1,4 +1,4 @@
-import type { ProgramConfig } from '@/content/manifest-types'
+import type { ProgramConfig } from '@/content/manifestTypes'
 
 import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './schedule'
 

@@ -14,7 +14,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, SectionDivider } from '@/components'
-import { getAllManifests } from '@/content/registry'
+import { getAllManifests } from '@/content/resolver'
 import type { PracticeManifest } from '@/content/types'
 import { localizeContent } from '@/lib/i18n'
 
@@ -74,7 +74,7 @@ export function ThemedReadings() {
 
   const scripturePractices = getAllManifests().filter(
     (m) =>
-      m.categories.includes('scripture') &&
+      m.categories?.includes('scripture') &&
       m.id !== 'gospel-of-the-day' &&
       !m.id.endsWith(':gospel-of-the-day'),
   )

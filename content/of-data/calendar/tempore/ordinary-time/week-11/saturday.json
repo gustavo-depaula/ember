@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-11.saturday",
+  "title": {
+    "la": "Sabbato hebd. XI",
+    "es": "Sábado 11ª semana",
+    "en": "Saturday of the XI Week in Ordinary Time",
+    "pt-BR": "Sábado da XI Semana do Tempo Comum",
+    "it": "Sabato della XI settimana del Tempo Ordinario",
+    "fr": "Samedi de la 11e semaine",
+    "de": "11. Woche im Jahreskreis SAMSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 11,
+  "weekday": "saturday",
+  "liturgicalColor": "green"
+}

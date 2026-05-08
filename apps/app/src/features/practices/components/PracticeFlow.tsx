@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQueries } from '@tanstack/react-query'
+import { useQueries, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { Home } from 'lucide-react-native'
@@ -26,13 +26,12 @@ import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext } from '@/content/engineContext'
 import {
-  getLibraryIdForPractice,
   getManifest,
   loadFlow,
   loadPerDayFlow,
   loadPracticeData,
   loadPracticeTracks,
-} from '@/content/registry'
+} from '@/content/resolver'
 import type { RenderedSection } from '@/content/types'
 import {
   ensurePracticeCursors,
@@ -158,14 +157,20 @@ export function PracticeFlow({
   const slots = useSlots()
   const currentSlot = slots.find((s) => s.practice_id === practiceId)
 
-  const flow = useMemo(() => {
-    if (!manifest) return undefined
-    if (manifest.program?.perDayFlows && programDay !== undefined) {
-      const dayFlow = loadPerDayFlow(practiceId, programDay)
-      if (dayFlow) return dayFlow
-    }
-    return loadFlow(practiceId)
-  }, [manifest, practiceId, programDay])
+  const flowQuery = useQuery({
+    queryKey: ['flow', practiceId, programDay ?? null],
+    queryFn: async () => {
+      if (!manifest) return null
+      if (manifest.program?.perDayFlows && programDay !== undefined) {
+        const dayFlow = await loadPerDayFlow(practiceId, programDay)
+        if (dayFlow) return dayFlow
+      }
+      return (await loadFlow(practiceId)) ?? null
+    },
+    enabled: !!manifest,
+    staleTime: Infinity,
+  })
+  const flow = flowQuery.data ?? undefined
 
   const selectOverrideResetKey = `${practiceId}:${programDay ?? 'default'}:${flow ? 'loaded' : 'missing'}`
 
@@ -184,8 +189,18 @@ export function PracticeFlow({
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const numbering = getPsalmNumbering(translation)
-  const cycleData = useMemo(() => loadPracticeData(practiceId), [practiceId])
-  const trackDefs = useMemo(() => loadPracticeTracks(practiceId), [practiceId])
+  const cycleDataQuery = useQuery({
+    queryKey: ['practice-data', practiceId],
+    queryFn: async () => (await loadPracticeData(practiceId)) ?? null,
+    staleTime: Infinity,
+  })
+  const trackDefsQuery = useQuery({
+    queryKey: ['practice-tracks', practiceId],
+    queryFn: async () => (await loadPracticeTracks(practiceId)) ?? null,
+    staleTime: Infinity,
+  })
+  const cycleData = cycleDataQuery.data ?? undefined
+  const trackDefs = trackDefsQuery.data ?? undefined
   const cursorRows = useCursorsForPractice(trackDefs ? practiceId : undefined)
 
   useEffect(() => {
@@ -242,7 +257,7 @@ export function PracticeFlow({
         const resolved = await resolveFlowAsync(
           flow,
           context,
-          createEngineContext(getLibraryIdForPractice(practiceId), undefined, {
+          createEngineContext(undefined, {
             contentLanguage,
             secondaryLanguage,
           }),
@@ -273,7 +288,6 @@ export function PracticeFlow({
     contentLanguage,
     secondaryLanguage,
     selectOverrides,
-    practiceId,
   ])
 
   // Load dynamic content (psalms, Bible readings, CCC)
@@ -343,6 +357,13 @@ export function PracticeFlow({
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
 
+  // Network-fetch phase: flow blobs are still being downloaded for the first time.
+  // Show the threshold word with a small "Loading…" subtitle so the user knows
+  // content is on the way (vs. a silent "Oremus" that looks like nothing's happening).
+  if (manifest && flowQuery.isLoading) {
+    return <Threshold word={t('practice.threshold')} subtitle={t('practice.loadingContent')} />
+  }
+
   if (!manifest || !flow) {
     return (
       <ScreenLayout>
@@ -364,6 +385,8 @@ export function PracticeFlow({
     )
   }
 
+  // Resolution phase: flow loaded, engine is processing dynamic sections (Bible/CCC
+  // readings, mass-of-day, liturgical-day). This is local + fast — no subtitle needed.
   if (isDynamicLoading || !thresholdElapsed) {
     return <Threshold word={t('practice.threshold')} />
   }

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-6.thursday.a",
+  "title": {
+    "la": "Hebdomada VI IN ASCENSIONE DOMINI",
+    "es": "LA ASCENSIÓN DEL SEÑOR",
+    "en": "Thursday of the VI Week of Easter",
+    "pt-BR": "Quinta-feira da VI Semana da Páscoa",
+    "it": "LA ASCENSIÓN DEL SEÑOR",
+    "fr": "SOLENNITÉ DE L’ASCENSION"
+  },
+  "season": "easter",
+  "weekIndex": 6,
+  "weekday": "thursday",
+  "rank": "solemnity",
+  "liturgicalColor": "white"
+}

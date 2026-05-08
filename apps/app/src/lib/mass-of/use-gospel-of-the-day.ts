@@ -3,7 +3,7 @@ import { getDataSource } from '@ember/content-engine'
 import type { Celebration, DayLiturgies, Formulary } from '@ember/mass-of'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
-import { readLibraryAsset } from '@/content/registry'
+import { fetchOfAsset } from '@/content/fetchOfAsset'
 import { useToday } from '@/hooks/useToday'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -65,9 +65,9 @@ export type GospelOfTheDay = {
 }
 
 /**
- * Fetch today's Gospel via the mass-of DataSource. Replaces the legacy
- * runtime fetch from evangelizo/liturgia-diaria. Reads from the locally
- * installed `base` library's vendored ember-extra fixtures.
+ * Fetch today's Gospel via the mass-of DataSource — reads OF Mass propers
+ * from the corpus through `fetchOfAsset` and pulls the gospel reading out
+ * of the resulting formulary.
  */
 export function useGospelOfTheDay(): {
   data: GospelOfTheDay | undefined
@@ -80,16 +80,18 @@ export function useGospelOfTheDay(): {
   const lang = emberLang(contentLanguage)
   const dateKey = format(today, 'yyyy-MM-dd')
 
+  const requestedLangs = Array.from(new Set([lang, 'la']))
   const query = useQuery({
     queryKey: ['gospel-of-the-day', dateKey, lang],
-    queryFn: async (): Promise<GospelOfTheDay | undefined> => {
+    queryFn: async (): Promise<GospelOfTheDay | null> => {
       const source = getDataSource('mass-of')
-      if (!source) return undefined
+      if (!source) return null
+      const fetchAsset = (path: string) => fetchOfAsset(path, requestedLangs)
       const day = (await source.load(
         { calendar: 'of' },
         {
-          fetchAsset: readLibraryAsset,
-          fetchOwnAsset: (path) => readLibraryAsset('base', path),
+          fetchAsset,
+          fetchOwnAsset: (path) => fetchAsset(path),
           localize: (text) => ({
             primary:
               typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),
@@ -99,9 +101,9 @@ export function useGospelOfTheDay(): {
         },
       )) as DayLiturgies | undefined
       const celebration = day?.celebrations?.[0]
-      if (!celebration) return undefined
+      if (!celebration) return null
       const text = pickGospelText(celebration.primary, lang)
-      if (!text) return undefined
+      if (!text) return null
       return {
         text,
         citation: pickGospelCitation(celebration.primary, lang),
@@ -113,7 +115,7 @@ export function useGospelOfTheDay(): {
   })
 
   return {
-    data: query.data,
+    data: query.data ?? undefined,
     isLoading: query.isLoading,
     isError: query.isError,
     refetch: () => query.refetch(),

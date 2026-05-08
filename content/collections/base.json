@@ -1,0 +1,327 @@
+{
+  "id": "collection/base",
+  "version": "1.5.10",
+  "name": {
+    "en-US": "Catholic Daily Prayers",
+    "pt-BR": "Orações Católicas Diárias"
+  },
+  "description": {
+    "en-US": "The essential Catholic prayer companion for your daily plan of life.",
+    "pt-BR": "O companheiro essencial de oração católica para seu plano de vida diário."
+  },
+  "icon": "prayer",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "default",
+    "daily",
+    "essential"
+  ],
+  "items": [
+    {
+      "ref": "practice/morning-offering"
+    },
+    {
+      "ref": "practice/mass"
+    },
+    {
+      "ref": "practice/rosary"
+    },
+    {
+      "ref": "practice/mental-prayer"
+    },
+    {
+      "ref": "practice/examination-of-conscience"
+    },
+    {
+      "ref": "practice/night-prayer"
+    },
+    {
+      "ref": "practice/angelus"
+    },
+    {
+      "ref": "practice/regina-caeli"
+    },
+    {
+      "ref": "practice/confession"
+    },
+    {
+      "ref": "practice/spiritual-reading"
+    },
+    {
+      "ref": "practice/gospel-of-the-day"
+    },
+    {
+      "ref": "practice/grace-meals"
+    },
+    {
+      "ref": "practice/act-contrition"
+    },
+    {
+      "ref": "practice/acts-faith-hope-charity"
+    },
+    {
+      "ref": "practice/guardian-angel"
+    },
+    {
+      "ref": "practice/prayer-st-michael"
+    },
+    {
+      "ref": "practice/prayer-st-joseph"
+    },
+    {
+      "ref": "practice/memorare"
+    },
+    {
+      "ref": "practice/spiritual-communion"
+    },
+    {
+      "ref": "practice/suscipe"
+    },
+    {
+      "ref": "practice/anima-christi"
+    },
+    {
+      "ref": "practice/thanksgiving-mass"
+    },
+    {
+      "ref": "practice/scripture-anxiety"
+    },
+    {
+      "ref": "practice/scripture-gratitude"
+    },
+    {
+      "ref": "practice/scripture-suffering"
+    },
+    {
+      "ref": "practice/scripture-joy"
+    },
+    {
+      "ref": "practice/scripture-forgiveness"
+    },
+    {
+      "ref": "practice/scripture-courage"
+    },
+    {
+      "ref": "practice/scripture-trust"
+    },
+    {
+      "ref": "practice/scripture-love"
+    },
+    {
+      "ref": "practice/stations-of-the-cross"
+    },
+    {
+      "ref": "practice/holy-hour"
+    },
+    {
+      "ref": "practice/catechetical-formation"
+    },
+    {
+      "ref": "prayer/sign-of-cross"
+    },
+    {
+      "ref": "prayer/our-father"
+    },
+    {
+      "ref": "prayer/hail-mary"
+    },
+    {
+      "ref": "prayer/glory-be"
+    },
+    {
+      "ref": "prayer/apostles-creed"
+    },
+    {
+      "ref": "prayer/nicene-creed"
+    },
+    {
+      "ref": "prayer/act-of-contrition"
+    },
+    {
+      "ref": "prayer/act-of-faith"
+    },
+    {
+      "ref": "prayer/act-of-hope"
+    },
+    {
+      "ref": "prayer/act-of-charity"
+    },
+    {
+      "ref": "prayer/anima-christi"
+    },
+    {
+      "ref": "prayer/come-holy-spirit"
+    },
+    {
+      "ref": "prayer/fatima-prayer"
+    },
+    {
+      "ref": "prayer/grace-before-meals"
+    },
+    {
+      "ref": "prayer/grace-after-meals"
+    },
+    {
+      "ref": "prayer/hail-holy-queen"
+    },
+    {
+      "ref": "prayer/opening-verse"
+    },
+    {
+      "ref": "prayer/benedictus"
+    },
+    {
+      "ref": "prayer/magnificat"
+    },
+    {
+      "ref": "prayer/nunc-dimittis"
+    },
+    {
+      "ref": "prayer/sub-tuum-praesidium"
+    },
+    {
+      "ref": "prayer/st-michael"
+    },
+    {
+      "ref": "prayer/memorare"
+    },
+    {
+      "ref": "prayer/angele-dei"
+    },
+    {
+      "ref": "prayer/adoro-te-devote"
+    },
+    {
+      "ref": "prayer/tantum-ergo"
+    },
+    {
+      "ref": "prayer/te-deum"
+    },
+    {
+      "ref": "prayer/veni-creator-spiritus"
+    },
+    {
+      "ref": "prayer/de-profundis"
+    },
+    {
+      "ref": "prayer/eternal-rest"
+    },
+    {
+      "ref": "prayer/prayer-of-st-francis"
+    },
+    {
+      "ref": "prayer/prayer-before-crucifix"
+    },
+    {
+      "ref": "prayer/o-salutaris-hostia"
+    },
+    {
+      "ref": "prayer/regina-caeli"
+    },
+    {
+      "ref": "chapter/ten-commandments"
+    },
+    {
+      "ref": "chapter/beatitudes"
+    },
+    {
+      "ref": "chapter/precepts-of-the-church"
+    },
+    {
+      "ref": "chapter/seven-sacraments"
+    },
+    {
+      "ref": "chapter/works-of-mercy"
+    },
+    {
+      "ref": "chapter/virtues"
+    },
+    {
+      "ref": "chapter/capital-sins-and-virtues"
+    },
+    {
+      "ref": "chapter/gifts-and-fruits-of-the-holy-spirit"
+    },
+    {
+      "ref": "chapter/how-to-pray"
+    },
+    {
+      "ref": "chapter/what-the-mass-is"
+    },
+    {
+      "ref": "chapter/predominant-fault"
+    },
+    {
+      "ref": "chapter/lectio-divina"
+    },
+    {
+      "ref": "chapter/ignatian-examen"
+    },
+    {
+      "ref": "chapter/mental-prayer"
+    },
+    {
+      "ref": "chapter/how-to-pray-the-rosary-well"
+    },
+    {
+      "ref": "chapter/how-to-make-a-good-confession"
+    },
+    {
+      "ref": "chapter/returning-to-confession"
+    },
+    {
+      "ref": "chapter/plan-of-life"
+    },
+    {
+      "ref": "chapter/when-prayer-goes-dark"
+    },
+    {
+      "ref": "chapter/feeling-and-faith"
+    },
+    {
+      "ref": "chapter/the-book-and-the-silence"
+    },
+    {
+      "ref": "chapter/the-first-mass-back"
+    },
+    {
+      "ref": "chapter/the-baptism-you-already-have"
+    },
+    {
+      "ref": "chapter/pacing-one-thing-at-a-time"
+    },
+    {
+      "ref": "chapter/measuring-what-cannot-be-measured"
+    },
+    {
+      "ref": "chapter/the-psalter-in-the-dark"
+    },
+    {
+      "ref": "chapter/marian-devotion-from-scratch"
+    },
+    {
+      "ref": "chapter/the-form-and-the-fire"
+    },
+    {
+      "ref": "chapter/the-first-year-after-reception"
+    },
+    {
+      "ref": "book/catechetical-instructions"
+    },
+    {
+      "ref": "book/catechism-pius-x-1912"
+    },
+    {
+      "ref": "book/catechism-of-trent"
+    },
+    {
+      "ref": "book/catechetical-formation"
+    }
+  ],
+  "defaults": {
+    "autoSeed": true
+  }
+}

@@ -1,9 +1,17 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { AlertTriangle, BookOpen, ChevronRight, Library } from 'lucide-react-native'
+import {
+  AlertTriangle,
+  BookOpen,
+  Check,
+  ChevronRight,
+  CloudDownload,
+  Library,
+  Loader,
+} from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { View } from 'react-native'
+import { Pressable, View } from 'react-native'
 import Animated, {
   FadeIn,
   FadeOut,
@@ -24,10 +32,11 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
-import { getManifest, parseQualifiedId } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
 import type { Tier, UserPractice } from '@/db/schema'
+import { usePinPractices } from '@/features/pinning/hooks'
 import {
   buildTieredWallData,
   type DayCompletion,
@@ -52,20 +61,63 @@ type PracticeGroup = {
   enabled: boolean
 }
 
-function getPracticeDisplayName(
-  practiceId: string,
-  practice: UserPractice | undefined,
-  t: ReturnType<typeof useTranslation>['t'],
-): string {
+function getPracticeDisplayName(practiceId: string, practice: UserPractice | undefined): string {
   const manifest = getManifest(practiceId)
-  if (manifest) {
-    const { practiceId: unqualified } = parseQualifiedId(practiceId)
-    const key = `practice.${unqualified}`
-    const translated = t(key)
-    if (translated !== key) return translated
-    return localizeContent(manifest.name)
-  }
+  if (manifest) return localizeContent(manifest.name)
   return practice?.custom_name ?? practiceId
+}
+
+function PinPlanButton({ practiceIds }: { practiceIds: string[] }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const { allPinned, eligibleCount, isWorking, progress, pinAll } = usePinPractices(practiceIds)
+
+  // Nothing to pin (no corpus practices in plan): hide.
+  if (eligibleCount === 0) return null
+
+  const Icon = isWorking ? Loader : allPinned ? Check : CloudDownload
+  const label = isWorking
+    ? t('plan.pinAllInProgress', {
+        done: progress?.done ?? 0,
+        total: progress?.total ?? eligibleCount,
+      })
+    : allPinned
+      ? t('plan.planOffline')
+      : t('plan.pinAll')
+
+  const tinted = allPinned || isWorking
+
+  return (
+    <Pressable
+      onPress={() => {
+        if (allPinned || isWorking) return
+        lightTap()
+        pinAll()
+      }}
+      disabled={allPinned || isWorking}
+      accessibilityRole="button"
+      accessibilityState={{ disabled: allPinned, busy: isWorking }}
+      accessibilityLabel={label}
+    >
+      <XStack
+        alignSelf="center"
+        gap="$xs"
+        alignItems="center"
+        paddingHorizontal="$md"
+        paddingVertical="$xs"
+        borderRadius="$md"
+        borderWidth={0.5}
+        borderColor={tinted ? '$accent' : '$accentSubtle'}
+        backgroundColor={tinted ? '$accentSubtle' : 'transparent'}
+        opacity={isWorking ? 0.85 : 1}
+      >
+        <Icon size={14} color={tinted ? theme.accent.val : theme.colorSecondary.val} />
+        <Text fontFamily="$body" fontSize="$1" color={tinted ? '$accent' : '$colorSecondary'}>
+          {label}
+        </Text>
+      </XStack>
+    </Pressable>
+  )
 }
 
 export default function PlanScreen() {
@@ -117,7 +169,7 @@ export default function PlanScreen() {
       const first = practiceSlots[0]
       groups.push({
         practiceId,
-        name: getPracticeDisplayName(practiceId, practices.get(practiceId), t),
+        name: getPracticeDisplayName(practiceId, practices.get(practiceId)),
         icon: getPracticeIconKey(first),
         tier: first.tier,
         slotCount: practiceSlots.length,
@@ -126,7 +178,7 @@ export default function PlanScreen() {
     }
 
     return groups
-  }, [slots, practices, t])
+  }, [slots, practices])
 
   const grouped = useMemo(() => {
     const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
@@ -205,7 +257,7 @@ export default function PlanScreen() {
         <XStack gap="$md" justifyContent="center">
           <View style={{ flex: 1 }}>
             <AnimatedPressable
-              onPress={() => router.push('/library')}
+              onPress={() => router.push('/browse')}
               accessibilityRole="link"
               accessibilityLabel={t('library.title')}
             >
@@ -250,6 +302,10 @@ export default function PlanScreen() {
             </AnimatedPressable>
           </View>
         </XStack>
+
+        {practiceGroups.length > 0 && (
+          <PinPlanButton practiceIds={practiceGroups.map((g) => g.practiceId)} />
+        )}
 
         <SectionDivider />
 
@@ -381,7 +437,7 @@ export default function PlanScreen() {
 
                 {archivedExpanded &&
                   archivedPractices.map((p, index) => {
-                    const name = getPracticeDisplayName(p.practice_id, p, t)
+                    const name = getPracticeDisplayName(p.practice_id, p)
                     const iconKey = p.custom_icon ?? 'prayer'
 
                     return (

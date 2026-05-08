@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-7.tuesday",
+  "title": {
+    "la": "Hebdomada VII Feria tertia",
+    "es": "VII Semana Martes",
+    "en": "Tuesday of the VII Week of Easter",
+    "pt-BR": "Terça-feira da VII Semana da Páscoa",
+    "it": "VII Settimana Martedì",
+    "fr": "MARDI DE LA 7e SEMAIN",
+    "de": "DIENSTAG der siebten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 7,
+  "weekday": "tuesday",
+  "liturgicalColor": "white"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.ordinary-time.week-23.thursday",
+  "title": {
+    "la": "Feria V hebd. XXIII",
+    "es": "Jueves 23ª semana",
+    "en": "Thursday of the XXIII Week in Ordinary Time",
+    "pt-BR": "Quinta-feira da XXIII Semana do Tempo Comum",
+    "it": "GIOVEDI della XXIII settimana del Tempo Ordinario",
+    "fr": "Jeudi de la 23e semaine",
+    "de": "23. Woche im Jahreskreis DONNERSTAG"
+  },
+  "season": "ordinary-time",
+  "weekIndex": 23,
+  "weekday": "thursday",
+  "liturgicalColor": "green"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.advent.week-1.tuesday",
+  "title": {
+    "la": "Hebdomada I Feria tertia",
+    "es": "Adviento Martes de la I Semana",
+    "en": "Tuesday of the I Week of Advent",
+    "pt-BR": "Terça-feira da I Semana do Advento",
+    "it": "Avvento I SETTIMANA Martedì",
+    "fr": "1e semaine Mardi",
+    "de": "DIENSTAG der ersten Adventswoche"
+  },
+  "season": "advent",
+  "weekIndex": 1,
+  "weekday": "tuesday",
+  "liturgicalColor": "violet"
+}

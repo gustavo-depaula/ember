@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-4.friday",
+  "title": {
+    "la": "Hebdomada IV Feria sexta",
+    "es": "Cuaresma Viernes de la IV Semana",
+    "en": "Friday of the IV Week of Lent",
+    "pt-BR": "Sexta-feira da IV Semana da Quaresma",
+    "it": "IV SETTIMANA DI QUARESIMA Venerdì",
+    "fr": "4e semaine Vendredi",
+    "de": "Freitag der 4. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 4,
+  "weekday": "friday",
+  "liturgicalColor": "violet"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tempore.lent.week-3.thursday",
+  "title": {
+    "la": "Hebdomada III Feria quinta",
+    "es": "Cuaresma Jueves de la III Semana",
+    "en": "Thursday of the III Week of Lent",
+    "pt-BR": "Quinta-feira da III Semana da Quaresma",
+    "it": "III SETTIMANA DI QUARESIMA Giovedì",
+    "fr": "3e semaine Jeudi",
+    "de": "Donnerstag der 3. Woche"
+  },
+  "season": "lent",
+  "weekIndex": 3,
+  "weekday": "thursday",
+  "liturgicalColor": "violet"
+}

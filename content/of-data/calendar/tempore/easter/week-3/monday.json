@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-3.monday",
+  "title": {
+    "la": "Hebdomada III Feria secunda",
+    "es": "III Semana Lunes",
+    "en": "Monday of the III Week of Easter",
+    "pt-BR": "Segunda-feira da III Semana da Páscoa",
+    "it": "III Settimana Lunedì",
+    "fr": "LUNDI DE LA 3e SEMAINE",
+    "de": "MONTAG der dritten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 3,
+  "weekday": "monday",
+  "liturgicalColor": "white"
+}

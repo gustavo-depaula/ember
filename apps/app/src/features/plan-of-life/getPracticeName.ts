@@ -1,6 +1,6 @@
 import type { TFunction } from 'i18next'
 
-import { getManifest, getManifestIconKey, parseQualifiedId } from '@/content/registry'
+import { getManifest, getManifestIconKey } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { getPractice } from '@/db/repositories'
 import { localizeContent } from '@/lib/i18n'
@@ -14,28 +14,11 @@ export function getPracticeIconKey(slot: SlotState): string {
   return 'prayer'
 }
 
-export function getSlotName(slot: SlotState, t: TFunction): string {
+export function getSlotName(slot: SlotState, _t: TFunction): string {
   const manifest = getManifest(slot.practice_id)
-
-  if (manifest) {
-    return localizeManifestName(manifest, slot.practice_id, t)
-  }
-
+  if (manifest) return localizeContent(manifest.name)
   const practice = getPractice(slot.practice_id)
   return practice?.custom_name ?? slot.practice_id
-}
-
-function localizeManifestName(
-  manifest: NonNullable<ReturnType<typeof getManifest>>,
-  practiceId: string,
-  t: TFunction,
-): string {
-  // Translation keys use unqualified IDs (e.g. "practice.morning-offering")
-  const { practiceId: unqualified } = parseQualifiedId(practiceId)
-  const key = `practice.${unqualified}`
-  const translated = t(key)
-  if (translated !== key) return translated
-  return localizeContent(manifest.name)
 }
 
 export function enrichSlot(

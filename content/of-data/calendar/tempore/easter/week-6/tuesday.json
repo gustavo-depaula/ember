@@ -1,0 +1,16 @@
+{
+  "id": "tempore.easter.week-6.tuesday",
+  "title": {
+    "la": "Hebdomada VI Feria tertia",
+    "es": "VI Semana Martes",
+    "en": "Tuesday of the VI Week of Easter",
+    "pt-BR": "Terça-feira da VI Semana da Páscoa",
+    "it": "VI Settimana Martedì",
+    "fr": "MARDI DE LA 6e SEMAINE",
+    "de": "DIENSTAG der sechsten Osterwoche"
+  },
+  "season": "easter",
+  "weekIndex": 6,
+  "weekday": "tuesday",
+  "liturgicalColor": "white"
+}

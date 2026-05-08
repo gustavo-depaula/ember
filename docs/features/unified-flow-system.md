@@ -425,7 +425,7 @@ This requires the app layer to populate `resolvedProse` before rendering — whi
 ### Resolution
 
 1. Template-substitute the `chapter` field: `"{{chapterId}}"` → `"temeridade-pecador-dia-juizo"`
-2. Load the chapter text from `content/libraries/{libraryId}/books/{bookId}/{lang}/{chapterId}.html|md`
+2. Resolve via `loadBookChapterText(undefined, bookId, chapterId, lang)` — the resolver looks up the book item-manifest in the corpus and fetches the per-(chapter, lang) blob.
 3. Render as a prose section
 
 If the resolved chapter ID is empty/undefined (e.g., no feast today), the prose section is omitted.

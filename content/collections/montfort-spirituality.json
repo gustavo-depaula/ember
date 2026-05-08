@@ -1,0 +1,53 @@
+{
+  "id": "collection/montfort-spirituality",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Montfort Spirituality",
+    "pt-BR": "Espiritualidade Montfortina"
+  },
+  "description": {
+    "en-US": "The complete spiritual works of St. Louis de Montfort — True Devotion, the Rosary, Eternal Wisdom, and total consecration to Mary.",
+    "pt-BR": "As obras espirituais completas de São Luís de Montfort — Verdadeira Devoção, o Rosário, Sabedoria Eterna e consagração total a Maria.",
+    "fr-FR": "Les œuvres spirituelles complètes de Saint Louis-Marie de Montfort — la Vraie Dévotion, le Rosaire, la Sagesse Éternelle et la consécration totale à Marie."
+  },
+  "icon": "mary",
+  "languages": [
+    "fr-FR",
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "marian",
+    "montfort",
+    "consecration"
+  ],
+  "items": [
+    {
+      "ref": "chapter/about-montfort"
+    },
+    {
+      "ref": "book/montfort-true-devotion"
+    },
+    {
+      "ref": "book/montfort-love-wisdom"
+    },
+    {
+      "ref": "book/montfort-secret-rosary"
+    },
+    {
+      "ref": "book/montfort-secret-mary"
+    },
+    {
+      "ref": "book/montfort-friends-cross"
+    },
+    {
+      "ref": "book/montfort-ardent-prayer"
+    },
+    {
+      "ref": "book/montfort-missionary-rules"
+    },
+    {
+      "ref": "practice/total-consecration"
+    }
+  ]
+}

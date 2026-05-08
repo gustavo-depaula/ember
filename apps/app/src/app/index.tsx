@@ -15,7 +15,7 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
-import { getManifest } from '@/content/registry'
+import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
 import {
@@ -26,6 +26,7 @@ import {
   DiesDevotion,
   LiturgicalHeader,
   MementoLine,
+  OfflineCoverageLine,
   QuickCaptureChips,
   RestartNeededList,
   SeasonalContext,
@@ -297,6 +298,8 @@ export default function HomeScreen() {
           )}
 
           <RestartNeededList ids={restartNeededIds} />
+
+          <OfflineCoverageLine />
         </YStack>
 
         {wallData.length > 0 && (

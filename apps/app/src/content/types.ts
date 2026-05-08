@@ -22,4 +22,4 @@ export type {
   PracticeManifest,
   ProgramConfig,
   SlotDefault,
-} from './manifest-types'
+} from './manifestTypes'
