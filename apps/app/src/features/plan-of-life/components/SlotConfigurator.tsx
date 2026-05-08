@@ -119,7 +119,7 @@ function TimeInput({
           value={date}
           mode="time"
           display="compact"
-          onValueChange={(_, selected) => {
+          onChange={(_, selected) => {
             if (selected) {
               const hh = String(selected.getHours()).padStart(2, '0')
               const mm = String(selected.getMinutes()).padStart(2, '0')
@@ -158,7 +158,7 @@ function TimeInput({
               value={date}
               mode="time"
               display="default"
-              onValueChange={(_, selected) => {
+              onChange={(_, selected) => {
                 setShowPicker(false)
                 if (selected) {
                   const hh = String(selected.getHours()).padStart(2, '0')
