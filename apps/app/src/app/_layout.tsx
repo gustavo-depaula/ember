@@ -40,7 +40,6 @@ import {
   getInstalledLibraries,
   loadInstalledLibraries,
 } from '@/features/libraries/libraryManager'
-import { SplashOverlay } from '@/features/splash'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -162,56 +161,49 @@ export default function RootLayout() {
   const ready =
     fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady && seeded
 
-  // Hand off the native splash to the React overlay as soon as fonts are loaded —
-  // the typographic splash is what users perceive while the rest of startup runs.
   useEffect(() => {
-    if (fontsLoaded) {
-      SplashScreen.hideAsync()
-    }
-  }, [fontsLoaded])
+    if (ready) SplashScreen.hideAsync()
+  }, [ready])
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const { themeName } = useLiturgicalTheme()
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
-  if (!fontsLoaded) return undefined
+  if (!ready) return undefined
 
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
-      {ready && (
-        <QueryClientProvider client={queryClient}>
-          <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-            {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
-            <Theme name={themeName as any}>
-              <StatusBar hidden />
-              <Stack
-                screenOptions={{
-                  headerShown: false,
-                  animation: 'fade',
-                  animationDuration: 200,
-                  contentStyle: { backgroundColor: rootBg },
-                }}
-              >
-                <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
-                <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
-                <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
-                <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
-                <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
-                <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
-                <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
-                <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
-                <Stack.Screen
-                  name="library"
-                  options={{ title: i18n.t('library.title'), gestureEnabled: false }}
-                />
-              </Stack>
-              <AppFrame />
-              <ConfirmHost />
-            </Theme>
-          </TamaguiProvider>
-        </QueryClientProvider>
-      )}
-      <SplashOverlay theme={resolvedTheme} ready={ready} />
+      <QueryClientProvider client={queryClient}>
+        <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+          {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
+          <Theme name={themeName as any}>
+            <StatusBar hidden />
+            <Stack
+              screenOptions={{
+                headerShown: false,
+                animation: 'fade',
+                animationDuration: 200,
+                contentStyle: { backgroundColor: rootBg },
+              }}
+            >
+              <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
+              <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
+              <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
+              <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
+              <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
+              <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
+              <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
+              <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
+              <Stack.Screen
+                name="library"
+                options={{ title: i18n.t('library.title'), gestureEnabled: false }}
+              />
+            </Stack>
+            <AppFrame />
+            <ConfirmHost />
+          </Theme>
+        </TamaguiProvider>
+      </QueryClientProvider>
     </GestureHandlerRootView>
   )
 }
