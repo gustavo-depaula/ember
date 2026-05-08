@@ -63,7 +63,7 @@ export function ConfirmHost() {
         accessibilityLabel={t('a11y.closeModal')}
       >
         <View flex={1} justifyContent="flex-end">
-          <Pressable onPress={(e) => e.stopPropagation()} accessible={false}>
+          <Pressable onPress={(e) => e.stopPropagation()} aria-hidden>
             <YStack
               backgroundColor="$background"
               borderTopLeftRadius="$lg"

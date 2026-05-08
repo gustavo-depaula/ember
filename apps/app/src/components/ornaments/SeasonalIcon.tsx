@@ -161,7 +161,7 @@ export const SeasonalIcon = memo(function SeasonalIcon({
   }
 
   return (
-    <Svg width={size} height={size} viewBox="0 0 40 40" accessible={false}>
+    <Svg width={size} height={size} viewBox="0 0 40 40" aria-hidden>
       <G transform={scale !== 1 ? `scale(${scale})` : undefined}>{renderIcon()}</G>
     </Svg>
   )

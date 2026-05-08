@@ -85,7 +85,7 @@ export function HolographicOverlay({
       right={0}
       bottom={0}
       overflow="hidden"
-      pointerEvents="none"
+      style={{ pointerEvents: 'none' }}
     >
       {/* Main white light streak */}
       <Animated.View

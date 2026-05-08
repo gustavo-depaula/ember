@@ -42,16 +42,16 @@ export function ManuscriptFrame({
     >
       {showCorners && (
         <>
-          <View position="absolute" top={-8} left={-24} accessible={false}>
+          <View position="absolute" top={-8} left={-24} aria-hidden>
             <Image source={corners.topLeft} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" top={-8} right={-16} accessible={false}>
+          <View position="absolute" top={-8} right={-16} aria-hidden>
             <Image source={corners.topRight} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" bottom={-12} left={-12} accessible={false}>
+          <View position="absolute" bottom={-12} left={-12} aria-hidden>
             <Image source={corners.bottomLeft} style={styles.corner} contentFit="contain" />
           </View>
-          <View position="absolute" bottom={-12} right={-10} accessible={false}>
+          <View position="absolute" bottom={-12} right={-10} aria-hidden>
             <Image source={corners.bottomRight} style={styles.corner} contentFit="contain" />
           </View>
         </>

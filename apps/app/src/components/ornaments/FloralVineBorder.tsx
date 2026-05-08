@@ -37,7 +37,7 @@ export const FloralVineBorder = memo(function FloralVineBorder({
       width={isVertical ? 20 : length}
       height={isVertical ? length : 20}
       viewBox={viewBox}
-      accessible={false}
+      aria-hidden
     >
       {isVertical ? (
         <>

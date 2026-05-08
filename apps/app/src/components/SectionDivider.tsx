@@ -25,7 +25,7 @@ export function SectionDivider({ symbol = '\u2726' }: { symbol?: string }) {
       alignItems="center"
       gap="$md"
       paddingVertical="$lg"
-      accessible={false}
+      aria-hidden
       importantForAccessibility="no-hide-descendants"
     >
       <View flex={1} borderBottomWidth={1} borderColor="$borderColor" />

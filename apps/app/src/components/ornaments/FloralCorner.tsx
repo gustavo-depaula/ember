@@ -36,7 +36,7 @@ export const FloralCorner = memo(function FloralCorner({
   const isSimple = complexity === 'simple'
 
   return (
-    <Svg width={size} height={size} viewBox="0 0 80 80" accessible={false}>
+    <Svg width={size} height={size} viewBox="0 0 80 80" aria-hidden>
       <G transform={`rotate(${deg}, 40, 40)`}>
         {/* Main vine stem — L-shaped curve from bottom-left to top-right area */}
         <Path

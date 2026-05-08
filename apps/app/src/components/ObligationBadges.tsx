@@ -162,7 +162,7 @@ function ObligationModal({
         accessibilityRole="button"
         accessibilityLabel={t('a11y.closeModal')}
       >
-        <Pressable onPress={(e) => e.stopPropagation()} accessible={false}>
+        <Pressable onPress={(e) => e.stopPropagation()} aria-hidden>
           <YStack paddingHorizontal="$lg">
             <Animated.View style={frameStyle}>
               <ManuscriptFrame backgroundColor="$background">

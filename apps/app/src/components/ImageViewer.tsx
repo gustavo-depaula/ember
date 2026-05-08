@@ -145,7 +145,7 @@ export function ImageViewer({
                 right={0}
                 alignItems="center"
                 paddingHorizontal="$lg"
-                pointerEvents="none"
+                style={{ pointerEvents: 'none' }}
               >
                 {activeImage.caption && (
                   <Text
