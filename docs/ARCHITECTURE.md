@@ -25,6 +25,8 @@
 
 ## Content & Libraries
 
+> **Note (2026-05-08):** The `.pray` library bundling model below is **v1**. As of branch `hearth-v2-corpus`, content is distributed as a content-addressed corpus (`https://ember.dpgu.me/hearth/v2/`) with per-blob immutable storage. Libraries became `collection/<id>` items — same UX surface, no bundling. See `docs/journal.md` (Hearth v2 entry) and the plan file (`~/.claude-personal/plans/we-have-a-huge-dynamic-sloth.md`) for the v2 spec until this section is rewritten.
+
 All content in Ember — prayers, practices, books, chapters — is packaged into **libraries** distributed as `.pray` files. The app ships with no bundled practices; content is downloaded from Hearth on first launch. This is the core content architecture.
 
 ### The `.pray` Format
