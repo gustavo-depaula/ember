@@ -1,8 +1,21 @@
 # Spiritual Threads — Intentions, Gratitude, Resolutions, Plan of Life
 
-> Status: Approved design. Phasing TBD.
+> Status: Approved design. Phasing in progress.
 >
 > **Greenfield.** No one uses the current intentions/gratias features. The existing `apps/app/src/features/intentions/`, `apps/app/src/features/gratias/`, the hardcoded Examen screen, and their repositories/event types are to be **deleted and replaced** by the design below. No data migration, no compatibility shims, no schema migration files (per `CLAUDE.md`: solo project, lightweight changes preferred). Old events left in any local DB can be wiped or ignored — the new projection only consumes new event kinds.
+
+## Implementation docs
+
+This file is the product spec — the *what* and *why*. Each phase has a dedicated technical design doc with the *how*: major decisions (alternatives considered, rationale, implications), data model details, and a task list ready for execution.
+
+| Phase | Doc | Goal |
+|-------|-----|------|
+| 1 | [01-movement-model.md](01-movement-model.md) | Movement projection (replacing intentions/gratitudes stores); cadence (perpetual / goal / bounded) and subject tags; rebuilt `/intentions` and `/gratias` screens. No DSL changes; no prayer integration. |
+| 2 | [02-prayer-integration.md](02-prayer-integration.md) | `offering` and `capture-movement` DSL blocks; per-practice pinning; Morning Offering reads active intentions. Movements now flow through prayer. |
+| 3 | [03-resolutions-and-examen.md](03-resolutions-and-examen.md) | Resolution model, `capture-resolution` + `review-resolution` DSL blocks, delete the hardcoded Examen, daily resolution loop end-to-end. |
+| 4 | [04-plan-of-life.md](04-plan-of-life.md) | Full hierarchy (weekly/monthly/seasonal/annual), Plan of Life Resolutions panel, weekly review practice. |
+| 5 | [05-periodic-reviews.md](05-periodic-reviews.md) | Monthly / seasonal / annual review practices; Particular Examen with its own schedule. |
+| 6 | [06-companion-features.md](06-companion-features.md) | Saint companion, confession bridge, virtue heatmap, petition→thanksgiving bridge. |
 
 ## Context
 
@@ -379,15 +392,16 @@ No new notification infrastructure. The review practices are scheduled like any 
 - `docs/features/unified-flow-system.md` — document the four new primitives in the DSL reference.
 - `packages/liturgical/` — expose helpers for "is today first Sunday of month / Advent / season transition", and `windowFor(level, date)` returning `{ starts_at, ends_at }` used by `capture-resolution`.
 
-## Phasing (sketch — to be refined later)
+## Phasing
 
-A plausible slicing for discussion, not committed:
+Each phase ships independently — the user can stop after any of them and have a coherent, useful slice. See per-phase docs (linked at the top of this file) for technical detail and task lists.
 
-- **Phase 1 — Foundations.** Movement projection + repository + screens; intention cadence/subject; `offering` and `capture-movement` DSL blocks; per-practice pins; Morning Offering integration.
-- **Phase 2 — Resolutions + new Examen.** Resolution model + repository; `capture-resolution` and `review-resolution` blocks; delete the hardcoded Examen and ship the flow-based one; daily resolution writes/reads end-to-end.
-- **Phase 3 — Plan of Life as rule.** Full hierarchy (weekly/monthly/seasonal/annual), Plan of Life Resolutions panel, weekly review practice.
-- **Phase 4 — Periodic reviews + Particular Examen.** Monthly / seasonal / annual review practices. Particular Examen with its own schedule.
-- **Phase 5 — Companion features.** Saint companion tied to active resolution, confession bridge from Examen patterns, virtue heatmap, petition→thanksgiving bridge (see Future considerations).
+- **Phase 1 — Movement model.** Replace intentions/gratias stores with the unified Movement projection; capture cadence (perpetual / goal / bounded) + subject tags; rebuild `/intentions` and `/gratias` screens. No DSL changes yet.
+- **Phase 2 — Prayer integration.** `offering` and `capture-movement` DSL blocks; per-practice pinning; Morning Offering reads active intentions. Movements now flow through prayer.
+- **Phase 3 — Resolutions + new Examen.** Resolution event model; `capture-resolution` and `review-resolution` blocks; delete the hardcoded Examen and ship the flow-based one; daily resolution writes/reads end-to-end.
+- **Phase 4 — Plan of Life as rule.** Full hierarchy (weekly/monthly/seasonal/annual), Plan of Life Resolutions panel, weekly review practice.
+- **Phase 5 — Periodic reviews + Particular Examen.** Monthly / seasonal / annual review practices. Particular Examen with its own schedule.
+- **Phase 6 — Companion features.** Saint companion tied to active resolution, confession bridge from Examen patterns, virtue heatmap, petition→thanksgiving bridge (see Future considerations).
 
 ## Future considerations (note for later, out of scope here)
 
