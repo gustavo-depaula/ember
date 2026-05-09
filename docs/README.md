@@ -81,6 +81,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 
 ### Wisdom (Content & Tradition)
 
+- **Catholic Creators** — curated directory of orthodox priests/teachers (podcasts, YouTube, RSS), in-app player, doctrinal global search, and *Pray with [Creator]* guided prayers (see [creators/README.md](features/creators/README.md))
 - **Formation guides** — how to pray the Rosary, mental prayer, examination of conscience, lectio divina
 - **More spiritual classics** — expanding the library beyond Montfort and Liguori (see [PIPELINE.md](content/PIPELINE.md))
 - **Prayer history** — origin and tradition of each prayer and devotion
@@ -105,6 +106,7 @@ Broad spectrum — from curious seekers to devout daily communicants. The app me
 - [Architecture](ARCHITECTURE.md) — tech stack, content & libraries, data model, storage, folder structure
 - [Conventions](CONVENTIONS.md) — code style guide
 - [Features Overview](features/features-overview.md) — flow DSL, schedules, programs, plan of life, liturgical seasons
+- [Catholic Creators](features/creators/README.md) — directory + audio/video/article + global doctrinal search + Pray-with guided prayers (PRD + per-phase technical design docs)
 - [Content & Collections](features/corpus.md) — corpus author workflow, build pipeline, distribution
 - [Book Format](content/book-format.md) — book manifest, chapter format, ID conventions
 - [Design System](design/design-system.md) — colors, typography, illuminated manuscript aesthetic

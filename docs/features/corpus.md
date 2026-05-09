@@ -21,6 +21,8 @@ Every piece of content is a **first-class corpus item** with a stable, kind-pref
 | `of-data` | `of-data/calendar/sanctorale/_index` | `content/of-data/calendar/sanctorale/_index.json` |
 | `collection` | `collection/carmelite` | `content/collections/carmelite.json` |
 | `checkup` | `checkup/archetypes` | `content/checkup/archetypes.json` |
+| `creator` *(v1)* | `creator/padre-paulo-ricardo` | `content/creators/padre-paulo-ricardo/manifest.json` |
+| `playlist` *(v1.1)* | `playlist/lent-with-bishop-barron` | `content/playlists/lent-with-bishop-barron/manifest.json` |
 
 Content is sha256-hashed at build time and served as immutable blobs from `https://ember.dpgu.me/hearth/v2/blobs/{ab}/{cd}/{full-sha256}`. Catalog (`catalog.json`) is the master index — every item with its current manifest hash.
 
@@ -72,6 +74,36 @@ Content is sha256-hashed at build time and served as immutable blobs from `https
 1. Drop a JSON file at `content/masses/of/<group>/<...>.json` containing the multilingual proper (7 languages inline: la / es / en / pt-BR / it / fr / de).
 2. The build splitter walks the JSON, emits one *shape* blob (language-independent metadata: rite, season, prefaceRefs, etc.) plus one blob per language with that language's expanded text. Localized leaves like `{ en: "...", pt-BR: "..." }` are detected automatically by key.
 3. A pt-BR-only user fetches `shape` + `pt-BR` blob = ~9KB instead of the original ~73KB.
+
+### Adding a creator (v1)
+
+A `creator` is editorial metadata about a Catholic priest / teacher / producer. It points at the creator's external feeds (podcast RSS, YouTube channel, blog) — episode/video/article lists are NOT in the corpus, only the creator's identity and channel pointers.
+
+1. Create `content/creators/<id>/`:
+   ```
+   manifest.json    # CreatorManifest — name, byline, bio, languages, channels[], links
+   avatar.webp      # 512×512 square
+   banner.webp      # optional 16:9 hero
+   ```
+2. The build hashes avatar/banner via the existing image pipeline. The manifest itself becomes a single hashed blob.
+3. Each `channels[]` entry is one of: `podcast` (with `feedUrl`), `youtube` (with `channelId`), or `rss` (with `feedUrl`). Mark Q&A-format podcasts with `format: 'qa'` to enable the search ranking boost.
+4. Articles default to summary-only display; opt a known-good blog into in-app full-text rendering with `channels[].fullText: true`.
+5. The new editor-curated creator becomes `creator/<id>` in the corpus. For permission-sensitive metadata (avatar usage, donate links) follow the editorial process — see `docs/features/creators/README.md` §2.
+
+### Adding a playlist (and guided prayer) (v1.1)
+
+A `playlist` is an editor-curated ordered set of media items. With `practiceBinding`, it becomes a *guided prayer* — audio that plays alongside an existing practice flow.
+
+1. Create `content/playlists/<id>/`:
+   ```
+   manifest.json    # PlaylistManifest — title, items[], optional practiceBinding
+   cover.webp       # 1:1 square cover art
+   audio.mp3        # optional self-hosted audio (one or more), referenced from items[] as kind: 'audio-blob'
+   ```
+2. `items[]` is a discriminated union: `feed-item` (refs an existing podcast/RSS episode), `youtube` (a video by id), `audio-blob` (self-hosted), `article`, or `corpus` (a ref into any other catalog item). A topical playlist might mix all five; a guided Rosary uses one `audio-blob` item plus a `practiceBinding`.
+3. `practiceBinding` (optional) makes this a guided prayer: it maps the parent practice's flow sections to playlist items (and optional `tStart/tEnd` time ranges within them). The build script validates that every `segments[*].sectionPath` resolves against the referenced practice's flow.
+4. **No AI voice cloning** — guided playlists must use real recorded audio, with explicit creator permission (recorded in `manifest.json` → `rights`). Editorial process treats this with the same care as book translation rights.
+5. See `docs/features/creators/phase-06-series.md` (editorial bundles) and `docs/features/creators/phase-07-pray-with.md` (guided prayers) for the full author workflow and the `sectionPath` semantics.
 
 ### Adding a collection
 
