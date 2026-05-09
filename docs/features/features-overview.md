@@ -345,3 +345,5 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 **i18n** — react-i18next with English + Brazilian Portuguese, ~150 keys, synchronous init. See `apps/app/src/lib/i18n/`.
 
 **Book Reader** — WebView with CSS column pagination for long-form prose. Each chapter is fetched as its own hash-addressed blob; markdown converted at runtime via `marked`. See `apps/app/src/features/books/bookReader.ts`.
+
+**Catholic Creators** *(planned, in design)* — Editor-curated directory of orthodox priests/teachers (podcast, YouTube, RSS). In-app audio (background playback, lock-screen), YouTube iframe player, article reader, on-device global doctrinal search (FlexSearch over feed-items + corpus + chapter markers), and (v1.1) Pray-with playlists for guided Rosary etc. New corpus kinds `creator` and `playlist`. See [creators/README.md](creators/README.md) for the PRD and per-phase technical designs.
