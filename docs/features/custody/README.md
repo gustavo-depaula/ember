@@ -6,6 +6,22 @@ A discipline / focus surface for Ember that limits or blocks selected apps and w
 
 The differentiator: Opal's blocked screen shows a score. **Ember's blocked screen shows a prayer.** A verse, an aspiration, a Sacred Heart image — and one button: *Pray and continue blocking*.
 
+## Documents
+
+This README is the overview. Each phase has its own technical design doc with the major decisions, architecture, and tasks for that phase.
+
+**v1 — Custody**
+- [Phase A — Foundation](./phase-a-foundation.md) — schema, migration runner, types, repositories, hooks, routing scaffold
+- [Phase B — Spiritual surface](./phase-b-spiritual-surface.md) — UI, custody session runner, examen + confessio integration, notifications
+- [Phase C — iOS bound mode](./phase-c-ios-bound.md) — config plugin, Swift module, three extension targets, prayer-shield, App Group, Apple submission
+- [Phase D — Android handoff + DNS walkthrough](./phase-d-android-handoff.md) — Digital Wellbeing deep-link, NextDNS / AdGuard setup
+- [Phase E — Polish, locales, docs](./phase-e-polish.md) — pt-BR catechetical vocabulary, anchor pool, store assets
+
+**v2 — Custody (Android bound mode)**
+- [Phase F — Android VPN + DNS](./phase-f-android-vpn.md) — VpnService, DNS interception, single-VPN-slot UX
+- [Phase G — Android UsageStats + shield Activity](./phase-g-android-usagestats.md) — foreground service, polling, full-screen overlay
+- [Phase H — Android OEM polish](./phase-h-android-oem.md) — Doze, manufacturer-specific kill behaviors, Play Console
+
 ---
 
 ## Concepts
@@ -251,104 +267,31 @@ Web hidden in v1.
 
 Track-as-milestone convention. Two milestones: **Custody** (v1) and **Custody — v2** (Android bound mode).
 
+Each phase has a dedicated technical design doc with major decisions, architecture, and concrete tasks. The list below is a one-line summary; click through for the detail.
+
 ### Custody — v1
 
 Phases A and B are JS-only and reversible. Phase C is the platform-locked native step and the dominant complexity gate. Phases D and E close the loop.
 
-#### Phase A — Foundation (cross-platform, no native)
+| Phase | Complexity | Doc |
+|---|---|---|
+| A — Foundation | Moderate | [phase-a-foundation.md](./phase-a-foundation.md) |
+| B — Spiritual surface | Moderate | [phase-b-spiritual-surface.md](./phase-b-spiritual-surface.md) |
+| C — iOS bound mode | High and gated | [phase-c-ios-bound.md](./phase-c-ios-bound.md) |
+| D — Android handoff + DNS walkthrough | Low | [phase-d-android-handoff.md](./phase-d-android-handoff.md) |
+| E — Polish, locales, docs | Low | [phase-e-polish.md](./phase-e-polish.md) |
 
-Complexity: **Moderate.** Pure JS work; the only non-trivial bit is extending the migration runner to support multi-file migrations.
-
-1. Spec promotion (this document).
-2. Migration mechanic: extend `apps/app/src/db/client.ts` for multi-file migrations.
-3. `0002_custody.sql` — `commitments`, `commitment_events`, `custody_sessions`.
-4. `apps/app/src/db/repositories/custody.ts`.
-5. `apps/app/src/features/custody/` — types, hooks, schedule wrappers.
-6. i18n keys: en-US + pt-BR.
-7. Expo Router scaffold under `apps/app/src/app/custody/`.
-
-#### Phase B — Spiritual surface (cross-platform, JS-only)
-
-Complexity: **Moderate.** UI breadth is the cost (Custody screens, Examen integration, Confessio falls-log, home-today block). All reversible.
-
-8. `CommitmentList` + `CommitmentEditor` + `SeverityPicker` + `FrictionPicker` (light/firm only at this stage).
-9. Custody session runner + bells + anchor picker.
-10. Home today: active-commitment block.
-11. Examen `peccatum` and `propositum` extensions: pull broken commitments since last examen.
-12. Confessio: "falls since last confession" surface.
-13. Notifications: nudges for upcoming `firm` commitments.
-
-Phase B is independently shippable: Ember v(N+1) without bound mode but with the spiritual frame. Validates the data model before the native dive.
-
-#### Phase C — iOS bound mode
-
-Complexity: **High — and gated.** This is the project's first custom Expo native module, the first config plugin, the first time we leave managed Expo for a custom dev client, and it ships *three* iOS extension targets (`DeviceActivityMonitor`, `ShieldConfiguration`, `ShieldAction`) wired through an App Group. Apple's Family Controls entitlement is an external dependency that gates App Store distribution (lead time: days–weeks; dev builds work without it). Family Controls does not run in the simulator — every meaningful test requires a physical iPhone.
-
-Risks: entitlement denial or delay; `react-native-device-activity` proving insufficient for the prayer-shield UI (fallback: fork or wrap); App Review pushback on the Custody framing (fallback: refine justification, resubmit).
-
-14. **File the Family Controls Individual entitlement request for `me.dpgu.ember`** — before any code. Lead time: days–weeks.
-15. Add `react-native-device-activity` to `apps/app/package.json`; switch to a custom dev client.
-16. App Group `group.me.dpgu.ember.custody`.
-17. `apps/app/plugins/withCustodyIOS.ts` — entitlement, extension targets, App Group, Info.plist.
-18. `apps/app/modules/ember-custody-ios/` — Swift module exposing `authorize`, `presentPicker`, `applyShield`, `removeShield`, `getStatus`.
-19. `ShieldConfiguration` extension — render the prayer-shield (anchor text/image, "Pray and continue blocking" CTA, friction-aware "Disable" path).
-20. `ShieldAction` extension — friction modes (`none`, `wait`, `prayer`, `confession-only`).
-21. `DeviceActivityMonitor` extension — schedule activation/deactivation per commitment.
-22. `AppPicker` JS wrapper around `FamilyActivityPicker`.
-23. Onboarding flow: explain, request authorization, present picker, choose anchor.
-24. Manual QA on a physical iPhone (simulator does not support Family Controls).
-25. TestFlight build + Apple App Review prep with Family Controls justification.
-
-#### Phase D — Android handoff + DNS walkthrough
-
-Complexity: **Low.** Mostly copy, screenshots, and a deep-link helper.
-
-26. Digital Wellbeing deep-link helper.
-27. NextDNS / AdGuard DNS setup walkthrough.
-28. Render bound severity as "coming to Android in v2" with the DNS walkthrough as today's recommendation.
-
-#### Phase E — Polish, locales, docs
-
-Complexity: **Low**, but the pt-BR catechetical-vocabulary review needs a careful pass — *propósito*, *firme propósito de emenda*, *custódia dos sentidos* are theological terms that must land precisely.
-
-29. pt-BR catechetical-vocabulary review (*propósito*, *firme propósito de emenda*, *custódia dos sentidos*).
-30. Saint-quote pool for shield-empty defaults.
-31. `docs/journal.md` entries for Family Controls quirks.
-32. Screenshots and store-listing copy.
+Phase B is independently shippable: it delivers the spiritual frame without bound mode, and validates the data model before Phase C's native dive.
 
 ### Custody — v2 (Android bound mode)
 
-The platform's first Kotlin native module. Two enforcement halves (web via VPN/DNS, apps via UsageStats), then OEM polish. No off-the-shelf Expo Android equivalent of `react-native-device-activity` — this is hand-written.
+The project's first Kotlin native module. Two enforcement halves (web via VPN/DNS, apps via UsageStats) then OEM polish. No off-the-shelf Expo Android equivalent of `react-native-device-activity` — this is hand-written.
 
-#### Phase F — Android VPN + DNS (web targets)
-
-Complexity: **Moderate–High.** First Kotlin Expo module; VPN service must be implemented carefully (single-VPN-slot conflict, DNS-over-HTTPS bypass on some browsers, graceful denial path). Reference implementation: [DNSNet](https://github.com/t895/DNSNet).
-
-33. `apps/app/modules/ember-custody-android/` — Kotlin Expo module skeleton.
-34. `EmberVpnService extends VpnService` — DNS interception, per-commitment domain blocklist.
-35. JS bridge: `startVpn`, `stopVpn`, `getVpnStatus`.
-36. First-run consent: explain VPN slot conflict; system VPN dialog; handle denial.
-37. Web-target commitments now show "Active on Android".
-
-#### Phase G — Android UsageStats + shield Activity (app targets)
-
-Complexity: **High.** A long-running foreground service that polls and launches Activities is exactly the surface OEMs aggressively kill. The 1–3s detection delay is a UX limit we cannot engineer around. The `PACKAGE_USAGE_STATS` deep-link flow is unfamiliar to most users; onboarding copy carries the load.
-
-38. `EmberMonitorService` foreground service.
-39. UsageStats poll loop + foreground-app detection.
-40. `PrayerShieldActivity` (Compose) — same `shieldAnchorRef` and friction modes as iOS.
-41. App-picker UX: list installed packages with launcher intents.
-42. Permission flows: `PACKAGE_USAGE_STATS` deep-link, battery-optimization opt-out.
-43. Friction modes implemented in `PrayerShieldActivity`.
-
-#### Phase H — Android polish
-
-Complexity: **Low per task, but the OEM matrix is irreducible.** Samsung One UI, Xiaomi MIUI, OnePlus OxygenOS each kill background services differently. Real devices required for verification — emulators do not reproduce these behaviors.
-
-44. Battery / wake-lock tuning; verify foreground service survives Doze and App Standby.
-45. OEM-specific testing (Samsung One UI, Xiaomi MIUI, OnePlus OxygenOS).
-46. Play Console submission with VPN justification and explicit "no AccessibilityService" disclosure.
-47. Update copy: bound severity is now active on Android.
+| Phase | Complexity | Doc |
+|---|---|---|
+| F — Android VPN + DNS | Moderate–High | [phase-f-android-vpn.md](./phase-f-android-vpn.md) |
+| G — Android UsageStats + shield Activity | High | [phase-g-android-usagestats.md](./phase-g-android-usagestats.md) |
+| H — Android OEM polish | Low per task; irreducible OEM matrix | [phase-h-android-oem.md](./phase-h-android-oem.md) |
 
 ### Beyond v2 — backlog
 
