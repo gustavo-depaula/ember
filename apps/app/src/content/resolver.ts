@@ -78,6 +78,9 @@ async function warmKinds(
       try {
         rememberManifestBody(hash, await getJson<unknown>(hash))
       } catch (err) {
+        // Aborts are expected on unmount/hot-reload — only the original
+        // network failures are interesting noise.
+        if (err instanceof Error && err.name === 'AbortError') return
         console.warn(`[resolver] warm ${hash.slice(0, 8)}:`, err)
       }
     },
