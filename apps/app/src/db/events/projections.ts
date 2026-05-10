@@ -1,4 +1,9 @@
+import type { ContentLanguage } from '@ember/content-engine'
+import { format } from 'date-fns'
 import type { WritableDraft } from 'immer'
+
+import { composeCardKey, composePrayerLangKey } from '@/features/memorize/cardKey'
+import { applyOutcome, initialCard } from '@/features/memorize/state'
 
 import type { EventStoreState, SlotState } from './state'
 import type { AppEvent } from './types'
@@ -282,7 +287,62 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       draft.confessions.delete(event.confessionId)
       break
     }
+
+    // --- Memorization events ---
+
+    case 'MemorizationOptedIn': {
+      const key = composeCardKey(event.prayerId, event.language, event.portionIndex)
+      // Idempotent: if a card already exists, don't reset its progress.
+      if (draft.memorizationCards.has(key)) break
+      const card = initialCard({
+        prayerId: event.prayerId,
+        language: event.language,
+        portionIndex: event.portionIndex,
+        totalLines: event.totalLines,
+        createdAt: event.createdAt,
+        today: format(event.createdAt, 'yyyy-MM-dd'),
+      })
+      draft.memorizationCards.set(key, card)
+      addCardToPrayerLangIndex(draft, event.prayerId, event.language, key)
+      break
+    }
+
+    case 'MemorizationOptedOut': {
+      const indexKey = composePrayerLangKey(event.prayerId, event.language)
+      const keys = draft.cardsByPrayerLanguage.get(indexKey)
+      if (!keys) break
+      for (const key of keys) draft.memorizationCards.delete(key)
+      draft.cardsByPrayerLanguage.delete(indexKey)
+      break
+    }
+
+    case 'MemorizationReviewed': {
+      const key = composeCardKey(event.prayerId, event.language, event.portionIndex)
+      const card = draft.memorizationCards.get(key)
+      if (!card) break
+      const next = applyOutcome(card, event.outcome, {
+        now: event.reviewedAt,
+        today: event.today,
+      })
+      draft.memorizationCards.set(key, next)
+      break
+    }
   }
+}
+
+function addCardToPrayerLangIndex(
+  draft: WritableDraft<EventStoreState>,
+  prayerId: string,
+  language: ContentLanguage,
+  cardKey: string,
+): void {
+  const indexKey = composePrayerLangKey(prayerId, language)
+  let set = draft.cardsByPrayerLanguage.get(indexKey)
+  if (!set) {
+    set = new Set()
+    draft.cardsByPrayerLanguage.set(indexKey, set)
+  }
+  set.add(cardKey)
 }
 
 // --- Index helpers ---
