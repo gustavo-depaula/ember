@@ -22,9 +22,8 @@ import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
-import { InteractionManager, LogBox, useColorScheme, View } from 'react-native'
+import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
@@ -42,7 +41,7 @@ import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
 import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
-import { OfflineChip } from '@/features/creators/components/OfflineChip'
+import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
 import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
 import { installCreatorPinning } from '@/features/creators/pinning/install'
 import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
@@ -278,21 +277,5 @@ export default function RootLayout() {
         </TamaguiProvider>
       </QueryClientProvider>
     </GestureHandlerRootView>
-  )
-}
-
-function FloatingOfflineChip() {
-  const insets = useSafeAreaInsets()
-  return (
-    <View
-      pointerEvents="none"
-      style={{
-        position: 'absolute',
-        top: insets.top + 8,
-        right: insets.right + 12,
-      }}
-    >
-      <OfflineChip />
-    </View>
   )
 }

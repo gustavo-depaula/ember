@@ -23,6 +23,7 @@ import type {
   PracticeManifest,
 } from '@/content/manifestTypes'
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
+import { pinnedFeedItemHashes } from '@/db/repositories/feedItems'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const PINNED_KEY = 'pinned-items'
@@ -174,20 +175,9 @@ export async function unpinItem(id: string): Promise<void> {
   // anything no longer referenced by a pinned item.
 }
 
-type ExtraHashesProvider = () => Promise<Iterable<string>>
-const extraProviders = new Set<ExtraHashesProvider>()
-
 /**
- * Register an additional source of protected hashes (e.g. creators feature
- * pinned feed-item media). Called from the install path; idempotent.
- */
-export function registerExtraProtectedHashes(fn: ExtraHashesProvider): void {
-  extraProviders.add(fn)
-}
-
-/**
- * Compute the union of blob hashes referenced by every pinned item plus any
- * hashes registered via `registerExtraProtectedHashes`. Used by GC.
+ * Compute the union of blob hashes referenced by every pinned item plus
+ * pinned creator feed-item media + image. Used by GC to know what to keep.
  */
 export async function pinnedHashes(): Promise<Set<string>> {
   const out = new Set<string>()
@@ -195,12 +185,6 @@ export async function pinnedHashes(): Promise<Set<string>> {
     const blobs = await collectBlobsFor(item.id)
     for (const b of blobs) out.add(b.hash)
   }
-  for (const provider of extraProviders) {
-    try {
-      for (const h of await provider()) out.add(h)
-    } catch {
-      // A bad provider must not break GC.
-    }
-  }
+  for (const h of await pinnedFeedItemHashes()) out.add(h)
   return out
 }

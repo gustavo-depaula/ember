@@ -4,10 +4,8 @@
  */
 
 import { getFollow } from '@/db/repositories/creators'
-import { pinnedFeedItemHashes } from '@/db/repositories/feedItems'
 import { getPreference } from '@/db/repositories/preferences'
 import { onPostRefresh } from '@/features/creators/feeds/fetcher'
-import { registerExtraProtectedHashes } from '@/features/pinning/pinningManager'
 import { getNetworkStateNow } from '@/lib/network'
 
 import { installFeedItemPinDeps, reconcileAutoPins } from './feedItemPin'
@@ -19,7 +17,6 @@ export function installCreatorPinning(): void {
     preferenceGet: getPreference,
     download: downloadMediaUrl,
   })
-  registerExtraProtectedHashes(pinnedFeedItemHashes)
   onPostRefresh(async (creatorId) => {
     const follow = await getFollow(creatorId)
     if (!follow || follow.autoPinCount === 0) return
