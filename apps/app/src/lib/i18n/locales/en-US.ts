@@ -1265,6 +1265,8 @@ export default {
   creators: {
     title: 'Creators',
     empty: 'No creators yet — Ember is curated by hand. Have someone in mind?',
+    noFeedItems: 'No episodes yet — pull to refresh.',
+    refreshFailed: "Couldn't load the latest episodes.",
     notFound: 'Creator not found.',
     noSummary: 'No summary available.',
     nothingPlaying: 'Nothing is playing right now.',

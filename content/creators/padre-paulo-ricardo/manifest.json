@@ -17,15 +17,15 @@
   "channels": [
     {
       "kind": "podcast",
-      "feedUrl": "https://feeds.transistor.fm/padrepauloricardo",
-      "format": "qa",
+      "feedUrl": "https://anchor.fm/s/e81d4a00/podcast/rss",
+      "format": "homily",
       "title": {
-        "pt-BR": "Resposta Católica"
+        "pt-BR": "Christo Nihil Praeponere"
       }
     },
     {
       "kind": "youtube",
-      "channelId": "UCcXLYjDPGqdfYczH4tIRoCw",
+      "channelId": "UCP6L9TPS3pHccVRiDB_cvqQ",
       "format": "lecture",
       "title": {
         "pt-BR": "Padre Paulo Ricardo (YouTube)"

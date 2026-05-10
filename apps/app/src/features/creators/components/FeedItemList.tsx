@@ -65,8 +65,8 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
   if (items.length === 0) {
     return (
       <YStack padding="$lg" alignItems="center">
-        <Text fontFamily="$body" color="$colorSecondary">
-          {t('creators.empty')}
+        <Text fontFamily="$body" color="$colorSecondary" textAlign="center">
+          {t('creators.noFeedItems')}
         </Text>
       </YStack>
     )

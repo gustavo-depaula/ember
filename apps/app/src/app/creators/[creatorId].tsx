@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useLocalSearchParams } from 'expo-router'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -41,6 +41,7 @@ export default function CreatorProfile() {
   const [activeKind, setActiveKind] = useState<CreatorChannelKind | undefined>(undefined)
   const effectiveKind = activeKind ?? channelTabs[0]?.kind
 
+  const qc = useQueryClient()
   const { data: items = [], isLoading } = useQuery({
     queryKey: ['feed-items', creatorId],
     queryFn: () => getFeedItemsByCreator(creatorId, 50),
@@ -51,10 +52,16 @@ export default function CreatorProfile() {
   const followMut = useFollow(creatorId)
   const unfollowMut = useUnfollow(creatorId)
 
+  const refreshMut = useMutation({
+    mutationFn: () => refreshCreator(creatorId),
+    onSuccess: () => qc.invalidateQueries({ queryKey: ['feed-items', creatorId] }),
+  })
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: refresh once when the manifest resolves; creatorId change unmounts this screen via the router.
   useEffect(() => {
     if (!manifest) return
-    void refreshCreator(creatorId).catch(() => {})
-  }, [creatorId, manifest])
+    refreshMut.mutate()
+  }, [manifest])
 
   if (!manifest) {
     return (
@@ -151,8 +158,26 @@ export default function CreatorProfile() {
           </XStack>
         )}
 
-        <YStack paddingHorizontal="$md">
-          {isLoading ? (
+        <YStack paddingHorizontal="$md" gap="$sm">
+          {refreshMut.isError && (
+            <YStack
+              backgroundColor="$backgroundSurface"
+              borderRadius="$md"
+              borderWidth={1}
+              borderColor="$colorBurgundy"
+              padding="$md"
+            >
+              <Text fontFamily="$heading" fontSize="$1" color="$colorBurgundy">
+                {t('creators.refreshFailed')}
+              </Text>
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" marginTop={4}>
+                {refreshMut.error instanceof Error
+                  ? refreshMut.error.message
+                  : String(refreshMut.error)}
+              </Text>
+            </YStack>
+          )}
+          {isLoading || refreshMut.isPending ? (
             <YStack alignItems="center" padding="$lg">
               <PrayerSpinner size={20} />
             </YStack>

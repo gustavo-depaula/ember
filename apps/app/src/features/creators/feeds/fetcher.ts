@@ -93,7 +93,7 @@ export async function refreshCreator(creatorId: string, opts: RefreshOptions = {
     await upsertFeedItems(all)
     await pruneOlderThan(creatorId, KEEP_PER_CREATOR)
   }
-  if (postRefresh) await postRefresh(creatorId).catch(() => {})
+  if (postRefresh) await postRefresh(creatorId)
 }
 
 export async function refreshAllFollowed(

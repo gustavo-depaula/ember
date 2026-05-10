@@ -36,7 +36,9 @@ export default function EpisodeDetail() {
       durationS: item.durationS,
       imageUri: item.imageUrl,
       mediaUrl: localUri ?? item.mediaUrl,
-    }).catch(() => {})
+    }).catch((err) => {
+      console.warn('[creators] play failed:', item.itemId, err)
+    })
   }, [
     item?.itemId,
     item?.mediaUrl,

@@ -15,7 +15,7 @@
   "channels": [
     {
       "kind": "podcast",
-      "feedUrl": "https://feeds.megaphone.fm/pintswithaquinas",
+      "feedUrl": "https://feeds.megaphone.fm/BVDWV3128780668",
       "format": "mixed",
       "title": {
         "en-US": "Pints With Aquinas"
@@ -23,10 +23,10 @@
     },
     {
       "kind": "youtube",
-      "channelId": "UCbluDQ0t7zKDBFEkCq_yofw",
+      "channelId": "UClh4JeqYB1QN6f1h_bzmEng",
       "format": "qa",
       "title": {
-        "en-US": "Pints With Aquinas (YouTube)"
+        "en-US": "Matt Fradd (YouTube)"
       }
     }
   ],

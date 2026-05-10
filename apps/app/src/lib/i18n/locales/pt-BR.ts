@@ -1268,6 +1268,8 @@ export default {
   creators: {
     title: 'Criadores',
     empty: 'Ainda sem criadores — Ember é curado à mão. Tem alguém em mente?',
+    noFeedItems: 'Ainda sem episódios — puxe para atualizar.',
+    refreshFailed: 'Não foi possível carregar os últimos episódios.',
     notFound: 'Criador não encontrado.',
     noSummary: 'Sem resumo disponível.',
     nothingPlaying: 'Nada tocando no momento.',

@@ -34,7 +34,10 @@ export function useFollow(creatorId: string) {
     mutationFn: async () => {
       await followCreator(creatorId)
       // Force a refresh on first follow so the user sees content immediately.
-      void refreshCreator(creatorId, { force: true }).catch(() => {})
+      // Fire-and-forget but log errors so silent network failures don't hide.
+      void refreshCreator(creatorId, { force: true }).catch((err) => {
+        console.warn('[creators] first-follow refresh failed:', creatorId, err)
+      })
     },
     onSuccess: () => qc.invalidateQueries({ queryKey: ['creators'] }),
   })
