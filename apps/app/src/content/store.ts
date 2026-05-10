@@ -18,7 +18,7 @@ const inflight = new Map<string, Promise<Uint8Array>>()
 
 const TEXT_DECODER = new TextDecoder()
 
-function blobPath(hash: string): string {
+export function blobPath(hash: string): string {
   return `blobs/${hash.slice(0, 2)}/${hash.slice(2, 4)}/${hash}`
 }
 

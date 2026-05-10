@@ -576,6 +576,60 @@ def build_checkup(b: Builder) -> None:
         b.add_catalog(f"checkup/{name}", {"kind": "checkup", "hash": ih, "size": isize})
 
 
+def build_creators(b: Builder) -> None:
+    """Catholic creators — directory + per-creator manifest.
+
+    Each creator lives in `content/creators/<id>/`:
+      - manifest.json   → CreatorManifest shape (without avatar/banner hashes)
+      - avatar.webp     → optional 512x512 avatar (hashed via the image pipeline)
+      - banner.webp     → optional 1600x900 hero (same pipeline)
+
+    Live items (episodes, videos, articles) are NOT in the corpus — they live
+    in SQLite, fetched at runtime from external feeds.
+    """
+    src = CONTENT / "creators"
+    if not src.is_dir():
+        return
+    for cdir in sorted(src.iterdir()):
+        if not cdir.is_dir():
+            continue
+        cid = cdir.name
+        manifest_path = cdir / "manifest.json"
+        if not manifest_path.exists():
+            continue
+        with manifest_path.open(encoding="utf-8") as fh:
+            data = json.load(fh)
+
+        avatar = cdir / "avatar.webp"
+        if avatar.exists():
+            ah, asize = b.write_blob(avatar.read_bytes())
+            data["avatarHash"] = {"hash": ah, "size": asize}
+        banner = cdir / "banner.webp"
+        if banner.exists():
+            bh, bsize = b.write_blob(banner.read_bytes())
+            data["bannerHash"] = {"hash": bh, "size": bsize}
+
+        data["id"] = f"creator/{cid}"
+
+        h, size = b.write_json_blob(data)
+        catalog_entry: dict[str, Any] = {"kind": "creator", "hash": h, "size": size}
+        if isinstance(data.get("name"), dict):
+            catalog_entry["name"] = data["name"]
+        if "tags" in data:
+            catalog_entry["tags"] = data["tags"]
+        if isinstance(data.get("role"), str):
+            catalog_entry["creatorRole"] = data["role"]
+        if isinstance(data.get("languages"), list):
+            catalog_entry["creatorLanguages"] = data["languages"]
+        channels = data.get("channels") or []
+        has_qa = any(
+            isinstance(c, dict) and c.get("format") == "qa" for c in channels
+        )
+        if has_qa:
+            catalog_entry["hasQa"] = True
+        b.add_catalog(f"creator/{cid}", catalog_entry)
+
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -645,6 +699,8 @@ def main(argv: list[str]) -> int:
     build_collections(b)
     print("[corpus] checkup...")
     build_checkup(b)
+    print("[corpus] creators...")
+    build_creators(b)
     b.finalize()
     elapsed = time.time() - t0
 

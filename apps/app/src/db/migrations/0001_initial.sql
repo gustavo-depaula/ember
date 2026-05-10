@@ -15,3 +15,67 @@ CREATE TABLE IF NOT EXISTS cache (
   data      TEXT NOT NULL,
   cached_at INTEGER NOT NULL
 );
+
+-- creator_follows: which creators the user follows + per-creator auto-pin policy
+CREATE TABLE IF NOT EXISTS creator_follows (
+  creator_id     TEXT PRIMARY KEY,
+  followed_at    INTEGER NOT NULL,
+  auto_pin_count INTEGER NOT NULL DEFAULT 0
+);
+
+-- feed_items: cached episodes/videos/articles fetched from external feeds.
+-- item_id = sha256(creator_id + ':' + guid); deterministic across reinstalls.
+-- raw_json preserves the source row so we can reparse without refetching.
+CREATE TABLE IF NOT EXISTS feed_items (
+  item_id       TEXT PRIMARY KEY,
+  creator_id    TEXT NOT NULL,
+  channel_kind  TEXT NOT NULL,
+  guid          TEXT NOT NULL,
+  title         TEXT NOT NULL,
+  summary       TEXT,
+  published_at  INTEGER NOT NULL,
+  duration_s    INTEGER,
+  media_url     TEXT,
+  web_url       TEXT,
+  image_url     TEXT,
+  chapters_json TEXT,
+  raw_json      TEXT NOT NULL,
+  fetched_at    INTEGER NOT NULL,
+  pinned        INTEGER NOT NULL DEFAULT 0,
+  pin_source    TEXT,
+  pinned_at     INTEGER,
+  media_hash    TEXT,
+  image_hash    TEXT
+);
+CREATE INDEX IF NOT EXISTS feed_items_by_creator ON feed_items (creator_id, published_at DESC);
+CREATE INDEX IF NOT EXISTS feed_items_recent     ON feed_items (published_at DESC);
+CREATE INDEX IF NOT EXISTS feed_items_pinned     ON feed_items (pinned) WHERE pinned = 1;
+
+-- media_progress: playback position per feed-item; lightweight, freely overwritten.
+CREATE TABLE IF NOT EXISTS media_progress (
+  item_id      TEXT PRIMARY KEY,
+  position_s   REAL NOT NULL,
+  duration_s   REAL,
+  completed_at INTEGER,
+  updated_at   INTEGER NOT NULL
+);
+
+-- search_history: most-recent search queries; clearable from Settings → Privacy.
+CREATE TABLE IF NOT EXISTS search_history (
+  query        TEXT NOT NULL,
+  searched_at  INTEGER NOT NULL,
+  PRIMARY KEY (query, searched_at)
+);
+
+-- practice_voice: which guided playlist voices the user prefers per practice (v1.1).
+CREATE TABLE IF NOT EXISTS practice_voice (
+  practice_id  TEXT PRIMARY KEY,
+  guided_id    TEXT,
+  updated_at   INTEGER NOT NULL
+);
+
+-- pending_pins: queue of feed-item pins deferred until Wi-Fi reconnects.
+CREATE TABLE IF NOT EXISTS pending_pins (
+  item_id   TEXT PRIMARY KEY,
+  queued_at INTEGER NOT NULL
+);

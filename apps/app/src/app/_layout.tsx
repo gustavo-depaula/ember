@@ -22,8 +22,9 @@ import { Stack } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
-import { InteractionManager, LogBox, useColorScheme } from 'react-native'
+import { InteractionManager, LogBox, useColorScheme, View } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
@@ -39,6 +40,11 @@ import {
 import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
+import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
+import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
+import { OfflineChip } from '@/features/creators/components/OfflineChip'
+import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
+import { installCreatorPinning } from '@/features/creators/pinning/install'
 import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
@@ -143,6 +149,8 @@ export default function RootLayout() {
     async function initCorpus() {
       try {
         registerDataSources()
+        installAudioBackend()
+        installCreatorPinning()
         await initHearth()
 
         setBootStatus(i18n.t('boot.fetchingCatalog'))
@@ -187,6 +195,24 @@ export default function RootLayout() {
     }
 
     initCorpus()
+  }, [dbReady])
+
+  useEffect(() => {
+    if (!dbReady) return
+    let sub: { remove: () => void } | undefined
+    let cancelled = false
+    void import('expo-network').then((Network) => {
+      if (cancelled) return
+      sub = Network.addNetworkStateListener((state) => {
+        if (state.type === Network.NetworkStateType.WIFI && state.isConnected) {
+          void drainPendingPins().catch(() => {})
+        }
+      })
+    })
+    return () => {
+      cancelled = true
+      sub?.remove()
+    }
   }, [dbReady])
 
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
@@ -242,12 +268,31 @@ export default function RootLayout() {
                 name="browse"
                 options={{ title: i18n.t('browse.title'), gestureEnabled: false }}
               />
+              <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
             </Stack>
+            <FloatingOfflineChip />
+            <NowPlayingBar />
             <AppFrame />
             <ConfirmHost />
           </Theme>
         </TamaguiProvider>
       </QueryClientProvider>
     </GestureHandlerRootView>
+  )
+}
+
+function FloatingOfflineChip() {
+  const insets = useSafeAreaInsets()
+  return (
+    <View
+      pointerEvents="none"
+      style={{
+        position: 'absolute',
+        top: insets.top + 8,
+        right: insets.right + 12,
+      }}
+    >
+      <OfflineChip />
+    </View>
   )
 }

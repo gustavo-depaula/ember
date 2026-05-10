@@ -12,6 +12,7 @@ import { confirm, PageHeader, ScreenLayout, SectionDivider } from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
+import { CreatorsStorageSection } from '@/features/creators/settings/CreatorsStorageSection'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
@@ -323,6 +324,7 @@ export default function SettingsScreen() {
         )}
 
         <StorageSection />
+        <CreatorsStorageSection />
 
         <SectionDivider />
 

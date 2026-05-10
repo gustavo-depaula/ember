@@ -18,6 +18,7 @@ import type {
   CatalogEntry,
   ChapterManifest,
   CollectionItemManifest,
+  CreatorManifest,
   LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
@@ -89,6 +90,12 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
       for (const langs of Object.values(b.chapters)) Object.values(langs).forEach(add)
     }
     b.images?.forEach(add)
+    return []
+  },
+  creator: (body, add) => {
+    const c = body as CreatorManifest
+    if (c.avatarHash) add(c.avatarHash)
+    if (c.bannerHash) add(c.bannerHash)
     return []
   },
   mass: (body, add) => addLangSplit(body as LangSplitItemManifest, add),
@@ -167,15 +174,33 @@ export async function unpinItem(id: string): Promise<void> {
   // anything no longer referenced by a pinned item.
 }
 
+type ExtraHashesProvider = () => Promise<Iterable<string>>
+const extraProviders = new Set<ExtraHashesProvider>()
+
 /**
- * Compute the union of blob hashes referenced by every pinned item. Used by
- * GC to know what to keep when evicting.
+ * Register an additional source of protected hashes (e.g. creators feature
+ * pinned feed-item media). Called from the install path; idempotent.
+ */
+export function registerExtraProtectedHashes(fn: ExtraHashesProvider): void {
+  extraProviders.add(fn)
+}
+
+/**
+ * Compute the union of blob hashes referenced by every pinned item plus any
+ * hashes registered via `registerExtraProtectedHashes`. Used by GC.
  */
 export async function pinnedHashes(): Promise<Set<string>> {
   const out = new Set<string>()
   for (const item of pinned) {
     const blobs = await collectBlobsFor(item.id)
     for (const b of blobs) out.add(b.hash)
+  }
+  for (const provider of extraProviders) {
+    try {
+      for (const h of await provider()) out.add(h)
+    } catch {
+      // A bad provider must not break GC.
+    }
   }
   return out
 }

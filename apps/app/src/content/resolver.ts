@@ -25,6 +25,7 @@ import type {
   BookEntry,
   Catalog,
   ChapterManifest,
+  CreatorManifest,
   LangSplitItemManifest,
   PracticeManifest,
   PrayerItemManifest,
@@ -60,10 +61,10 @@ const proseCache = new Map<string, LocalizedContent>()
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
 const CRITICAL_KINDS = ['prayer', 'practice'] as const
-const DEFERRED_KINDS = ['chapter', 'book', 'collection'] as const
+const DEFERRED_KINDS = ['chapter', 'book', 'collection', 'creator'] as const
 
 async function warmKinds(
-  kinds: ReadonlyArray<'prayer' | 'practice' | 'chapter' | 'book' | 'collection'>,
+  kinds: ReadonlyArray<'prayer' | 'practice' | 'chapter' | 'book' | 'collection' | 'creator'>,
 ): Promise<void> {
   const hashes: string[] = []
   for (const kind of kinds) {
@@ -104,13 +105,17 @@ export async function warmDeferredManifests(): Promise<void> {
  */
 function residentItem<T>(
   id: string,
-  kind: 'prayer' | 'practice' | 'chapter' | 'book' | 'mass',
+  kind: 'prayer' | 'practice' | 'chapter' | 'book' | 'mass' | 'creator',
 ): { canonical: string; item: T | undefined } {
   const canonical = canonicalize(id, kind)
   if (!canonical) return { canonical: '', item: undefined }
   const entry = getEntry(canonical)
   if (entry?.kind !== kind) return { canonical, item: undefined }
   return { canonical, item: getRememberedManifest<T>(entry.hash) }
+}
+
+export function loadCreator(id: string): CreatorManifest | undefined {
+  return residentItem<CreatorManifest>(id, 'creator').item
 }
 
 export function getManifest(id: string): PracticeManifest | undefined {

@@ -5,7 +5,7 @@ import { ScrollView } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
-import { getEntry } from '@/content/contentIndex'
+import { getEntriesByKind, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CollectionCard } from '@/features/collections/CollectionCard'
@@ -23,6 +23,7 @@ import {
   seasonOrder,
   themeIds,
 } from '@/features/collections/sectionLayout'
+import { CreatorCard } from '@/features/creators/components/CreatorCard'
 import { useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import type { LiturgicalCalendarForm } from '@/lib/liturgical'
@@ -57,6 +58,35 @@ function CardRow({ ids, cardWidth = 200 }: { ids: CollectionId[]; cardWidth?: nu
         <CollectionCard key={id} collectionId={id} width={cardWidth} />
       ))}
     </ScrollView>
+  )
+}
+
+function CreatorsRow() {
+  const { t } = useTranslation()
+  const router = useRouter()
+  const catalogVersion = useCatalogVersion()
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
+  const ids = useMemo(() => getEntriesByKind('creator').map(([id]) => id), [catalogVersion])
+  if (ids.length === 0) return null
+  return (
+    <YStack gap="$sm">
+      <AnimatedPressable
+        onPress={() => router.push('/creators')}
+        accessibilityRole="link"
+        accessibilityLabel={t('creators.title')}
+      >
+        <SectionHeading text={t('creators.title')} />
+      </AnimatedPressable>
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={{ paddingHorizontal: 12, gap: 12 }}
+      >
+        {ids.map((id) => (
+          <CreatorCard key={id} creatorId={id} width={160} />
+        ))}
+      </ScrollView>
+    </YStack>
   )
 }
 
@@ -115,6 +145,8 @@ export default function PrayDiscoveryScreen() {
           <SectionHeading text={t('pray.section.formation')} />
           <CardRow ids={formationIds} />
         </YStack>
+
+        <CreatorsRow />
 
         <YStack gap="$sm">
           <SectionHeading text={t('pray.section.themes')} />

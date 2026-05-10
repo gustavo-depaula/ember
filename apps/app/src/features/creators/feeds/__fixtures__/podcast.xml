@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+  <channel>
+    <title>Resposta Católica (test fixture)</title>
+    <itunes:image href="https://example.org/img/show.jpg"/>
+    <item>
+      <guid isPermaLink="false">episode-001</guid>
+      <title>Posso comungar em pecado mortal?</title>
+      <pubDate>Mon, 04 May 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:18:42</itunes:duration>
+      <enclosure url="https://example.org/audio/ep-001.mp3" length="9876543" type="audio/mpeg"/>
+      <link>https://example.org/episodes/ep-001</link>
+      <description><![CDATA[Pergunta sobre o sacramento da Eucaristia.
+
+00:00 Introdução
+02:30 Pergunta 1: Posso comungar em pecado mortal?
+15:42 Pergunta 2: Como confessar pecados esquecidos?
+18:00 Encerramento]]></description>
+    </item>
+    <item>
+      <guid isPermaLink="false">episode-002</guid>
+      <title>O que é a graça santificante?</title>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>1842</itunes:duration>
+      <enclosure url="https://example.org/audio/ep-002.mp3" length="11111111" type="audio/mpeg"/>
+      <description>Reflexão sobre a graça santificante.</description>
+    </item>
+  </channel>
+</rss>
