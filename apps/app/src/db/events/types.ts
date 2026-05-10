@@ -1,3 +1,5 @@
+import type { ContentLanguage } from '@ember/content-engine'
+
 import type { Tier, TimeBlock } from '../schema'
 
 // --- Practice events ---
@@ -222,6 +224,42 @@ type ConfessionRemoved = {
 
 export type ConfessioEvent = ConfessionRecorded | ConfessionRemoved
 
+// --- Memorization events ---
+
+type MemorizationOptedIn = {
+  type: 'MemorizationOptedIn'
+  prayerId: string
+  language: ContentLanguage
+  portionIndex: number
+  totalLines: number
+  createdAt: number
+}
+
+type MemorizationOptedOut = {
+  // Removes every portion of (prayerId, language). Use a per-portion shape only
+  // if a future surface needs it; v1 opts in/out the whole prayer at once.
+  type: 'MemorizationOptedOut'
+  prayerId: string
+  language: ContentLanguage
+}
+
+type MemorizationReviewed = {
+  type: 'MemorizationReviewed'
+  prayerId: string
+  language: ContentLanguage
+  portionIndex: number
+  reviewedAt: number
+  // Outcome inputs (mode + result). The projection runs SM-2 deterministically
+  // on the prior state to derive the new card state, so we don't store the
+  // computed mastery/ease/interval here — replay recomputes them.
+  outcome:
+    | { mode: 'cued'; kind: 'cued'; result: 'got-it' | 'missed-it' }
+    | { mode: 'letters' | 'cold'; kind: 'tap'; tappedLine: number }
+  today: string // YYYY-MM-DD calendar date when the review was logged
+}
+
+export type MemorizationEvent = MemorizationOptedIn | MemorizationOptedOut | MemorizationReviewed
+
 // --- Union ---
 
 export type AppEvent =
@@ -232,6 +270,7 @@ export type AppEvent =
   | GratitudeEvent
   | OblatioEvent
   | ConfessioEvent
+  | MemorizationEvent
 
 // --- Stored row shape ---
 

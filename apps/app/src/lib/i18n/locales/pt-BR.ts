@@ -267,6 +267,33 @@ export default {
     confession: 'Recebeu o Sacramento da Penit\u00eancia',
   },
 
+  memorize: {
+    title: 'Trabalho de mem\u00f3ria',
+    subtitle: 'Poucos minutos por dia. A ora\u00e7\u00e3o cria ra\u00edzes.',
+    portionLabel: 'Trecho {{n}}',
+    progress: '{{n}} de {{total}}',
+    cuedHint: 'Recite a pr\u00f3xima linha \u2014 depois revele.',
+    lettersHint: 'Cada letra \u00e9 o in\u00edcio de uma palavra.',
+    coldHint: 'Recite a ora\u00e7\u00e3o de cor.',
+    reveal: 'Revelar',
+    revealLine: 'Revelar a pr\u00f3xima linha',
+    revealText: 'Revelar o texto completo',
+    gotIt: 'Acertei',
+    missedIt: 'N\u00e3o consegui',
+    couldntStart: 'N\u00e3o consegui passar do in\u00edcio',
+    tapLastLine: 'Toque na \u00faltima linha que recordou',
+    sessionDone: 'Bem aprendido. At\u00e9 amanh\u00e3.',
+    sessionDoneAlt: 'A ora\u00e7\u00e3o cria ra\u00edzes.',
+    empty: 'Nada para memorizar ainda.',
+    emptyHint:
+      'Na p\u00e1gina de uma ora\u00e7\u00e3o, toque em "Aprender de cor" para come\u00e7ar.',
+    nothingToday: 'Tudo em dia.',
+    nothingTodayHint: 'Nada para revisar hoje. At\u00e9 amanh\u00e3.',
+    contentMissing: 'Esta ora\u00e7\u00e3o est\u00e1 indispon\u00edvel no momento.',
+    skipCard: 'Pular',
+    close: 'Fechar',
+  },
+
   oblatio: {
     offerThisDay: 'Oferecer este dia ao Senhor \u271f',
     a11yOfferThisDay: 'Oferecer este dia ao Senhor',

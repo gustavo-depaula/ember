@@ -1,5 +1,5 @@
 import { normalizeDate } from '@ember/liturgical'
-import { parseISO } from 'date-fns'
+import { format, parseISO } from 'date-fns'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 /**
@@ -23,4 +23,9 @@ export function getToday(): Date {
   const timeTravelDate = usePreferencesStore.getState().timeTravelDate
   if (timeTravelDate) return normalizeDate(parseISO(timeTravelDate))
   return normalizeDate(new Date())
+}
+
+/** ISO calendar-date string for today (e.g. `2026-05-09`). Honors time-travel. */
+export function getTodayString(): string {
+  return format(getToday(), 'yyyy-MM-dd')
 }

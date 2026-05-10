@@ -87,12 +87,27 @@ export type ProgramConfig = {
   restartThreshold?: number
 }
 
+export type PrayerMemorizePortion = {
+  // 1-indexed inclusive [startLine, endLine] over body after split-on-newline.
+  lines: [number, number]
+  label?: LocalizedText
+}
+
+export type PrayerMemorizeConfig = {
+  // Default true. Set false to opt the prayer out of memorization entirely.
+  eligible?: boolean
+  // When omitted, the whole prayer is one portion. When provided, must cover
+  // the body with no gaps or overlaps.
+  portions?: PrayerMemorizePortion[]
+}
+
 export type PrayerItemManifest = {
   id: string
   title: LocalizedText
   body: unknown
   subtitle?: LocalizedText
   source?: LocalizedText
+  memorize?: PrayerMemorizeConfig
 }
 
 export type PracticeManifest = {

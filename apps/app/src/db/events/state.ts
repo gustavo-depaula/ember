@@ -4,6 +4,8 @@ import { immer } from 'zustand/middleware/immer'
 
 enableMapSet()
 
+import type { MemorizationCardState } from '@/features/memorize/types'
+
 import type { Completion, Cursor, Tier, TimeBlock, UserPractice } from '../schema'
 import { applyEvent } from './projections'
 import type { AppEvent } from './types'
@@ -66,6 +68,12 @@ export type EventStoreState = {
   // Confessio (sacrament of penance records)
   confessions: Map<number, ConfessionState>
 
+  // Memorization (cardKey → SM-2 card state)
+  memorizationCards: Map<string, MemorizationCardState>
+  // Derived index: `${prayerId}|${language}` → set of cardKeys for that pair.
+  // Enables O(1) opt-in lookup and O(k) opt-out where k = portion count.
+  cardsByPrayerLanguage: Map<string, Set<string>>
+
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
   nextIntentionId: number
@@ -90,6 +98,8 @@ function emptyState() {
     gratitudes: new Map<number, GratitudeState>(),
     offeredDays: new Map<string, number>(),
     confessions: new Map<number, ConfessionState>(),
+    memorizationCards: new Map<string, MemorizationCardState>(),
+    cardsByPrayerLanguage: new Map<string, Set<string>>(),
     nextCompletionId: 1,
     nextIntentionId: 1,
     nextGratitudeId: 1,
