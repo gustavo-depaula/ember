@@ -1,0 +1,25 @@
+appId: me.dpgu.ember
+---
+# Wipes the SQLite DB, reseeds practices/cursors, applies fixtures, and lands
+# on home. Caller passes DATE (YYYY-MM-DD) and optional ENABLE_SLOTS (CSV of
+# slot keys, e.g. "practice/grace-meals::1").
+#
+# Waits for the app to finish its initial boot (corpus catalog warm-up) before
+# issuing the deep link, otherwise iOS shows an "Open in Ember?" prompt
+# because the scheme isn't yet bound to a foreground app.
+- launchApp:
+    clearState: false
+- extendedWaitUntil:
+    visible:
+      id: "shortcut-home.pray"
+    timeout: 60000
+- openLink: ember://dev/reset?date=${DATE}&enableSlots=${ENABLE_SLOTS}
+- runFlow:
+    when:
+      visible: "Open"
+    commands:
+      - tapOn: "Open"
+- extendedWaitUntil:
+    visible:
+      id: "shortcut-home.pray"
+    timeout: 20000

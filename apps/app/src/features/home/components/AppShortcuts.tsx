@@ -86,6 +86,7 @@ export function AppShortcuts() {
               delayLongPress={300}
               accessibilityRole="link"
               accessibilityLabel={label}
+              testID={`shortcut-${s.labelKey}`}
             >
               <YStack alignItems="center" gap="$xs" width={tileSize}>
                 <Image

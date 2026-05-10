@@ -9,7 +9,8 @@
     "web": "expo start --web",
     "parse-propers": "tsx scripts/parse-do-propers.ts",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "test:e2e": "maestro test .maestro/config.yaml"
   },
   "dependencies": {
     "@ember/content-engine": "workspace:*",

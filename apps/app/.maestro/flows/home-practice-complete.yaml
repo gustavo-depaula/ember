@@ -1,0 +1,39 @@
+appId: me.dpgu.ember
+name: Home → Practice → Complete
+---
+# Daily-loop smoke test. Reset puts practice/grace-meals on the home screen, we open it,
+# choose "Before Meals", return home, and check the slot off.
+#
+# Slot keys are `<practiceId>::<index>` and seed.ts uses `String(i + 1)`.
+- runFlow:
+    file: ../subflows/reset.yaml
+    env:
+      DATE: "2026-01-14"
+      ENABLE_SLOTS: "practice/grace-meals::1"
+
+- assertVisible:
+    id: "slot-row-practice/grace-meals"
+- tapOn:
+    id: "slot-row-practice/grace-meals"
+
+- assertVisible:
+    id: "select-option-before"
+- tapOn:
+    id: "select-option-before"
+# Prayer bodies render collapsed; the section header is what's visible without
+# expanding, so the test asserts on the prayer title instead of the body text.
+- assertVisible: "Grace Before Meals"
+
+- tapOn:
+    id: "practice-home-button"
+
+- assertVisible:
+    id: "slot-toggle-practice/grace-meals"
+- tapOn:
+    id: "slot-toggle-practice/grace-meals"
+# Completing the slot flips the block to its collapsed state, which removes the
+# individual toggle. The block's parent Pressable carries an accessibilityLabel
+# of `{blockLabel}, {completed} of {total} completed`, so Maestro reads that
+# instead of the inner "1/1" text. Asserting on the a11y suffix confirms the
+# completion landed regardless of which block the practice falls into.
+- assertVisible: "Flexible, 1 of 1 completed"

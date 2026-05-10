@@ -192,3 +192,14 @@ const { data: completions, isLoading } = useQuery({
 - Config: `vitest.config.ts` at project root with `@/*` path alias
 - Run once: `pnpm test` — watch mode: `pnpm test:watch`
 - Focus on deterministic business logic (liturgical calculations, content engines, streak logic), not UI components
+- E2E (Maestro): flows live in `apps/app/.maestro/`. Run with `pnpm --filter @ember/app test:e2e` against a running iOS sim. See `docs/journal.md` (Maestro entry) for setup and the `/dev/reset` deep-link contract.
+
+### `testID` guidance
+
+Default to `accessibilityLabel` for selectors — Maestro reads them, and we already require labels everywhere. Add `testID` only when:
+
+- The label is interpolated with content that may shift (e.g. `t('a11y.viewPractice', { name })` — name varies by language and content updates)
+- The label is dynamic by state and the test needs to target the element regardless (toggle vs untoggle)
+- The hit target has no label and adding one would clutter screen-reader output
+
+Format: `testID="<surface>-<id>"`, kebab-case (e.g. `slot-row-grace-meals`, `select-option-before`). Do not gate on i18n keys.

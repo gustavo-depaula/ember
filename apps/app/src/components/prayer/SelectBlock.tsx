@@ -34,6 +34,7 @@ export function SelectBlock({
               accessibilityRole="tab"
               accessibilityLabel={option.label}
               accessibilityState={{ selected: isSelected }}
+              testID={`select-option-${option.id}`}
             >
               <YStack
                 paddingHorizontal="$sm"

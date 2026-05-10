@@ -1,0 +1,36 @@
+appId: me.dpgu.ember
+name: Add Practice to Plan
+---
+# Catalog → detail → Add to Plan. We seed without enabling any slot, so the
+# home screen is empty. After adding, the practice should appear on home.
+- runFlow:
+    file: ../subflows/reset.yaml
+    env:
+      DATE: "2026-01-14"
+      ENABLE_SLOTS: ""
+
+- tapOn:
+    id: "shortcut-home.pray"
+
+# /practices renders the catalog as a long scroll (Pray Now hero → Collections
+# → Essential Prayers → All Prayers → All Practices). Grace meals lives in the
+# All Practices FlatList near the bottom — scroll until it comes into view.
+- scrollUntilVisible:
+    element:
+      id: "practice-card-practice/grace-meals"
+    direction: DOWN
+    timeout: 30000
+- tapOn:
+    id: "practice-card-practice/grace-meals"
+
+- assertVisible:
+    id: "add-to-plan-button"
+- tapOn:
+    id: "add-to-plan-button"
+- assertVisible: "In your Plan"
+
+- openLink: ember:///
+- extendedWaitUntil:
+    visible:
+      id: "slot-row-practice/grace-meals"
+    timeout: 10000

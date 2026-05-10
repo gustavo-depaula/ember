@@ -1,0 +1,8 @@
+appId: me.dpgu.ember
+---
+- runFlow:
+    file: flows/home-practice-complete.yaml
+- runFlow:
+    file: flows/add-practice-to-plan.yaml
+- runFlow:
+    file: flows/practice-with-choices.yaml

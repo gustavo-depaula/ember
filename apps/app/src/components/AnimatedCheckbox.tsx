@@ -19,10 +19,12 @@ export function AnimatedCheckbox({
   checked,
   onToggle,
   accessibilityLabel,
+  testID,
 }: {
   checked: boolean
   onToggle: () => void
   accessibilityLabel: string
+  testID?: string
 }) {
   const theme = useTheme()
   const progress = useSharedValue(checked ? 1 : 0)
@@ -66,6 +68,7 @@ export function AnimatedCheckbox({
       accessibilityRole="checkbox"
       accessibilityState={{ checked }}
       accessibilityLabel={accessibilityLabel}
+      testID={testID}
     >
       <Animated.View style={containerStyle}>
         <Animated.View style={checkStyle}>
