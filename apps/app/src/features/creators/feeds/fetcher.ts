@@ -35,14 +35,28 @@ export function onPostRefresh(fn: (creatorId: string) => Promise<void>): void {
 
 type Fetcher = (url: string) => Promise<string>
 
+/**
+ * Native bypasses CORS, so we hit feed URLs directly. On web in dev we route
+ * through a public CORS proxy so the dev experience works without backend
+ * infra; production web should use an Ember-owned edge proxy (TODO: deploy a
+ * Cloudflare Worker at feeds.ember.dpgu.me and point this at it).
+ */
+function feedUrl(url: string): string {
+  // biome-ignore lint/correctness/noNodejsModules: Platform check is runtime.
+  const Platform = require('react-native').Platform as { OS: string }
+  if (Platform.OS !== 'web') return url
+  if (!__DEV__) return url
+  return `https://corsproxy.io/?${encodeURIComponent(url)}`
+}
+
 const defaultFetcher: Fetcher = async (url) => {
-  const res = await fetch(url)
+  const res = await fetch(feedUrl(url))
   if (!res.ok) throw new Error(`feed ${url}: ${res.status}`)
   return res.text()
 }
 
 const defaultJsonFetcher = async (url: string): Promise<unknown> => {
-  const res = await fetch(url)
+  const res = await fetch(feedUrl(url))
   if (!res.ok) throw new Error(`chapters ${url}: ${res.status}`)
   return res.json()
 }

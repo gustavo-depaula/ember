@@ -8,7 +8,7 @@ import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { bareId } from '@/content/contentIndex'
@@ -26,17 +26,24 @@ export function NowPlayingBar() {
 
   if (!nowPlaying) return null
 
+  // Sibling pressables instead of nested ones — nesting a <button> inside a
+  // <button> is invalid HTML and breaks react-dom on web.
   return (
-    <YStack
+    <XStack
       position="absolute"
       bottom={insets.bottom}
       left={0}
       right={0}
+      alignItems="center"
+      gap="$md"
+      padding="$md"
+      minHeight={56}
       backgroundColor="$backgroundSurface"
       borderTopWidth={1}
       borderTopColor="$borderColor"
     >
       <AnimatedPressable
+        style={{ flex: 1 }}
         onPress={() =>
           router.push({
             pathname: '/creators/[creatorId]/episode/[itemId]',
@@ -49,38 +56,30 @@ export function NowPlayingBar() {
         accessibilityRole="link"
         accessibilityLabel={t('creators.openPlayer', { title: nowPlaying.title })}
       >
-        <XStack alignItems="center" gap="$md" padding="$md" minHeight={56}>
-          <Text flex={1} fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={1}>
-            {nowPlaying.title}
-          </Text>
-          <Pressable
-            hitSlop={12}
-            onPress={(e) => {
-              e.stopPropagation()
-              void togglePlay()
-            }}
-            accessibilityRole="button"
-            accessibilityLabel={isPlaying ? t('creators.pause') : t('creators.play')}
-          >
-            {isPlaying ? (
-              <Pause size={26} color={theme.accent.val} />
-            ) : (
-              <Play size={26} color={theme.accent.val} />
-            )}
-          </Pressable>
-          <Pressable
-            hitSlop={12}
-            onPress={(e) => {
-              e.stopPropagation()
-              void stop()
-            }}
-            accessibilityRole="button"
-            accessibilityLabel={t('creators.close')}
-          >
-            <X size={22} color={theme.colorSecondary.val} />
-          </Pressable>
-        </XStack>
+        <Text fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={1}>
+          {nowPlaying.title}
+        </Text>
       </AnimatedPressable>
-    </YStack>
+      <Pressable
+        hitSlop={12}
+        onPress={() => void togglePlay()}
+        accessibilityRole="button"
+        accessibilityLabel={isPlaying ? t('creators.pause') : t('creators.play')}
+      >
+        {isPlaying ? (
+          <Pause size={26} color={theme.accent.val} />
+        ) : (
+          <Play size={26} color={theme.accent.val} />
+        )}
+      </Pressable>
+      <Pressable
+        hitSlop={12}
+        onPress={() => void stop()}
+        accessibilityRole="button"
+        accessibilityLabel={t('creators.close')}
+      >
+        <X size={22} color={theme.colorSecondary.val} />
+      </Pressable>
+    </XStack>
   )
 }

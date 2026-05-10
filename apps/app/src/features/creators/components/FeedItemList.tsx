@@ -79,24 +79,28 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
         const dur = formatDuration(item.durationS)
         const date = dateFmt.format(new Date(item.publishedAt))
         const isPlaying = playingId === item.itemId
+        // Sibling pressables — the route pressable is the title area; the
+        // PinButton sits beside it. Nesting <button> in <button> is invalid
+        // HTML and breaks react-dom on web.
         return (
-          <AnimatedPressable
+          <XStack
             key={item.itemId}
-            onPress={() => router.push(route)}
-            accessibilityRole="link"
-            accessibilityLabel={item.title}
+            padding="$md"
+            gap="$md"
+            backgroundColor={isPlaying ? '$accentSubtle' : '$backgroundSurface'}
+            borderRadius="$md"
+            borderWidth={1}
+            borderColor="$borderColor"
+            alignItems="center"
           >
-            <XStack
-              padding="$md"
-              gap="$md"
-              backgroundColor={isPlaying ? '$accentSubtle' : '$backgroundSurface'}
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$borderColor"
-              alignItems="center"
+            <KindIcon kind={item.channelKind} size={20} />
+            <AnimatedPressable
+              style={{ flex: 1 }}
+              onPress={() => router.push(route)}
+              accessibilityRole="link"
+              accessibilityLabel={item.title}
             >
-              <KindIcon kind={item.channelKind} size={20} />
-              <YStack flex={1} gap={2}>
+              <YStack gap={2}>
                 <Text fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={2}>
                   {item.title}
                 </Text>
@@ -111,9 +115,9 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                   )}
                 </XStack>
               </YStack>
-              <PinButton item={item} />
-            </XStack>
-          </AnimatedPressable>
+            </AnimatedPressable>
+            <PinButton item={item} />
+          </XStack>
         )
       })}
     </YStack>
