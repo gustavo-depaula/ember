@@ -146,35 +146,39 @@ export default function RootLayout() {
     }
 
     async function initCorpus() {
+      const t0 = Date.now()
+      const mark = (label: string) => console.log(`[boot] ${label} (+${Date.now() - t0}ms)`)
       try {
         registerDataSources()
         installAudioBackend()
         installCreatorPinning()
+        mark('installed backends')
         await initHearth()
+        mark('initHearth done')
 
         setBootStatus(i18n.t('boot.fetchingCatalog'))
-        // 2. Fetch catalog (network-first; falls back to SQLite cache).
         await loadCatalogFromHearth().catch((err) => {
           console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
         })
+        mark('catalog loaded')
 
         setBootStatus(i18n.t('boot.preparingContent'))
-        // 3. Rehydrate the user's pinned-items list and warm their manifests.
         await rehydratePinned().catch((err) => {
           console.warn('[startup] pinned rehydrate failed:', err)
         })
+        mark('pinned rehydrated')
 
-        // 4. Warm sync-resolver manifests before first paint; let the rest
-        //    (books, chapters, collections) warm in parallel without blocking.
         await warmCriticalManifests().catch((err) => {
           console.warn('[startup] warm critical manifests failed:', err)
         })
+        mark('critical manifests warmed')
         warmDeferredManifests().catch((err) => {
           console.warn('[startup] warm deferred manifests failed:', err)
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
+        mark('seeded')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
       } finally {
