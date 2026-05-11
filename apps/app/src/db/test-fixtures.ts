@@ -11,16 +11,9 @@ import { seedCursors, seedPractices } from './seed'
 
 const wipeSql = `
 DELETE FROM events;
-DELETE FROM user_practices;
-DELETE FROM user_practice_slots;
-DELETE FROM completions;
-DELETE FROM cursors;
 DELETE FROM preferences;
 DELETE FROM cache;
-DELETE FROM cached_translations;
-DELETE FROM sqlite_sequence WHERE name IN (
-  'events', 'completions'
-);
+DELETE FROM sqlite_sequence WHERE name = 'events';
 `
 
 export type TestFixtures = {

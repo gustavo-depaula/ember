@@ -37,11 +37,3 @@ export type Preference = {
   key: string
   value: string
 }
-
-export type CachedTranslation = {
-  translation: string
-  book: string
-  chapter: number
-  content: string
-  cached_at: number
-}
