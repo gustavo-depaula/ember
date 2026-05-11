@@ -9,7 +9,7 @@
 | Catechism (CCC) | `nossbigg/catechism-ccc-json` (GitHub) | Scraped from Vatican | JSON | Fetched at deploy time |
 | Psalter & Hymns | `divinumofficium/divinum-officium` (GitHub) | MIT | Custom text -> JSON | Yes (bundled) |
 | EF Mass Propers | Divinum Officium (bundled) | MIT | Bundled JSON | Yes (bundled) |
-| OF Daily Readings | Evangelizo (`feed.evangelizo.org`) | Free | HTTP | Cached after fetch |
+| OF Mass Propers | `ember-extra` (vendored) | See repo | Bundled JSON | Yes (bundled) |
 | Liturgical Calendar | Catholic Readings API (GitHub Pages) | MIT | REST JSON | Cached after fetch |
 
 ---
@@ -180,60 +180,18 @@ These are well-known prayers that don't need an external source — just bundle 
 
 **Quirks:** `psalm` field sometimes references non-psalm books (e.g., Jeremiah). Cross-chapter ranges use em-dash (—). `secondReading` absent on weekdays.
 
-### Evangelizo.org (OF Full Reading Text)
+### `ember-extra` (OF Mass Propers — Vendored)
 
-- **URL:** `https://feed.evangelizo.org/v2/reader.php?date={YYYYMMDD}&lang={LANG}&type=all`
-- **Auth:** None
-- **Cost:** Free
-- **Content:** Full text of daily Mass readings (First Reading, Psalm, Second Reading, Gospel) + saint commentary
-- **Languages:** AM (English), PT, FR, ES, and more
-- **Limitations:** Response may include HTML (needs stripping), date range ~30 days from current, no CORS (may need proxy for web)
-
-### Liturgia Diária API (OF Complete Propers — Portuguese)
-
-- **URL:** `https://liturgia.up.railway.app/v2/?dia={DD}&mes={MM}&ano={YYYY}`
-- **Repository:** `github.com/Dancrf/liturgia-diaria`
-- **Auth:** None
-- **Cost:** Free
-- **Content:** Complete daily Mass propers — readings (full text), Collect, Prayer over the Offerings, Prayer after Communion, Entrance and Communion Antiphons
-- **Language:** PT-BR only
-- **Source data:** Likely scraped from liturgia.cnbb.org.br (CNBB)
-- **Status:** Integrated — `apps/app/src/lib/mass-propers/of/liturgia-diaria.ts`
-
-### Universalis (OF — Readings Only)
-
-Investigated thoroughly (April 2026). Despite vague docs claiming full propers, the JSONP endpoint only returns scripture readings, not collects or antiphons. Dead end for propers.
-
-### OF Propers — English Gap
-
-No free API provides English Ordinary Form collects, antiphons, or variable prayers. These are copyrighted by ICEL. For English, only readings are available (via Evangelizo). See `docs/content/of-propers-research.md` for full research.
+- **Source:** Vendored from a pinned `ember-extra` commit into `content/libraries/base/of/` (see `docs/mass-rework-journal.md`).
+- **Content:** Complete OF Mass propers — temporal + sanctoral formularies, ordinaries, prefaces, calendar — in Latin, English, and Portuguese.
+- **Status:** Integrated via `packages/mass-of/`.
 
 ### Current Implementation
 
 | Form | Data | Source | Status |
 |------|------|--------|--------|
 | EF | All propers | Divinum Officium (bundled) | Implemented |
-| OF | Complete propers (PT-BR) | Liturgia Diária API | Implemented |
-| OF | Readings only (EN) | Evangelizo.org | Implemented |
-| OF | Collects, antiphons (EN) | **No free source** | Blocked by ICEL |
-
-### Slot Mapping
-
-| Mass JSON slot | EF API section ID | OF source |
-|---------------|-------------------|-----------|
-| `introit` | `Introitus` | Gap |
-| `collect` | `Oratio` | Gap |
-| `first-reading` | `Lectio` | Evangelizo |
-| `responsorial-psalm` | `Graduale` | Evangelizo |
-| `second-reading` | (varies) | Evangelizo (Sundays) |
-| `gospel-acclamation` | `Tractus` (Lent) | Gap |
-| `gospel` | `Evangelium` | Evangelizo |
-| `offertory` | `Offertorium` | Gap |
-| `prayer-over-offerings` | `Secreta` | Gap |
-| `communion-antiphon` | `Communio` | Gap |
-| `prayer-after-communion` | `Postcommunio` | Gap |
-
-Cache API responses per date in SQLite (Mass propers never change). Consider pre-fetching upcoming week for offline reliability.
+| OF | All propers (LA, EN, PT) | `ember-extra` (vendored) | Implemented |
 
 ---
 
@@ -247,5 +205,4 @@ The app should include an attribution/credits screen listing:
 4. "Liturgical texts from Divinum Officium (MIT License)."
 5. "Traditional Mass propers parsed from Divinum Officium (MIT License)."
 6. "Liturgical calendar data from Catholic Readings API (MIT License)."
-7. "Daily readings provided by Evangelizo.org."
-8. Links to the GitHub repositories used.
+7. Links to the GitHub repositories used.

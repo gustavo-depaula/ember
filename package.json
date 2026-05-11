@@ -12,7 +12,6 @@
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
-    "build:lectionary": "tsx scripts/build-of-lectionary.ts",
     "build:corpus": "python3 scripts/build-corpus.py _site/hearth/v2",
     "validate-flows": "tsx scripts/validate-flows.ts",
     "hearth:clean": "rm -rf _site/hearth",

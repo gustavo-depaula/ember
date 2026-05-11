@@ -338,7 +338,7 @@ Stores: `preferencesStore` (all user preferences) and `navigationStore` (ephemer
 
 **Catechism Reader** — Three-panel sliding drawer for the CCC's 5-level hierarchy (~2,865 paragraphs). See `apps/app/src/features/catechism/`.
 
-**Mass (Ordo Missae)** — Complete ordinary with OF/EF toggle. EF propers filled daily from bundled Divinum Officium data (Latin, English, Portuguese). OF propers: PT-BR complete via Liturgia Diária API, English readings via Evangelizo, English collects/antiphons blocked by ICEL copyright. Three view modes: Full, Propers, Readings. See `packages/mass-propers/`.
+**Mass (Ordo Missae)** — Complete ordinary with OF/EF toggle. EF propers filled daily from bundled Divinum Officium data (Latin, English, Portuguese). OF propers sourced from the vendored `ember-extra` corpus (Latin, English, Portuguese). Three view modes: Full, Propers, Readings. See `packages/mass-of/` and `packages/mass-propers/`.
 
 **Reading Config** — Shared reading styles across all reading surfaces. 7 curated serif fonts, 5-step sizing scales, margins, alignment. See `apps/app/src/features/reading-config/`.
 
