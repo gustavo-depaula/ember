@@ -1,43 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import {
-  enumerateCelebrations,
-  formularyPath,
-  pickCycle,
-  sanctoralIdForDate,
-  temporeIdsForDate,
-} from './calendar'
-
-describe('formularyPath', () => {
-  it('maps tempore IDs to masses/tempore/...', () => {
-    expect(formularyPath('tempore.holy-week.chrism-mass')).toBe(
-      'masses/tempore/holy-week/chrism-mass.json',
-    )
-    expect(formularyPath('tempore.ordinary-time.week-23.tuesday')).toBe(
-      'masses/tempore/ordinary-time/week-23/tuesday.json',
-    )
-  })
-
-  it('maps sanctoral IDs to masses/sanctorale/...', () => {
-    expect(formularyPath('sanctorale.07-24')).toBe('masses/sanctorale/07-24.json')
-    expect(formularyPath('sanctorale.05-13.brazil')).toBe('masses/sanctorale/05-13/brazil.json')
-  })
-
-  it('maps preface IDs to library/preface/...', () => {
-    expect(formularyPath('preface.pf056')).toBe('library/preface/pf056.json')
-  })
-
-  it('maps eucharistic-prayer IDs to library/eucharistic-prayer/...', () => {
-    expect(formularyPath('eucharistic-prayer.ep2')).toBe('library/eucharistic-prayer/ep2.json')
-  })
-
-  it('maps ordinary IDs to library/ordinary/...', () => {
-    expect(formularyPath('ordinary.order-of-mass')).toBe('library/ordinary/order-of-mass.json')
-  })
-
-  it('maps common IDs to masses/common/...', () => {
-    expect(formularyPath('common.doctors')).toBe('masses/common/doctors.json')
-  })
-})
+import { enumerateCelebrations, pickCycle, sanctoralIdForDate, temporeIdsForDate } from './calendar'
 
 describe('temporeIdsForDate — Holy Week multi-celebration days', () => {
   // Easter 2026 falls on April 5

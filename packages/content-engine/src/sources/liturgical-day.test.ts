@@ -5,7 +5,6 @@ import { liturgicalDaySource } from './liturgical-day'
 
 function makeCtx(overrides: Partial<SourceContext> = {}): SourceContext {
   return {
-    fetchAsset: async () => undefined,
     fetchOwnAsset: async () => liguoriLiturgicalMapFixture,
     localize: (text) => ({ primary: text['pt-BR'] ?? '' }),
     t: (key) => key,

@@ -1,14 +1,28 @@
 import type { SourceContext } from '@ember/content-engine'
 import { describe, expect, it } from 'vitest'
-import { massOfSource } from './source'
+import type { MassOfDataSource } from './dataSource'
+import { createMassOfSource } from './source'
 import type { DayLiturgies } from './types'
 
-function makeCtx(
-  files: Record<string, unknown>,
-  date = new Date(2026, 3, 2), // Holy Thursday 2026
-): SourceContext {
+type DataMap = {
+  masses?: Record<string, unknown>
+  ordinaries?: Record<string, unknown>
+  prefaces?: Record<string, unknown>
+  ofData?: Record<string, unknown>
+}
+
+function makeData(map: DataMap): MassOfDataSource {
   return {
-    fetchAsset: async (path) => files[path],
+    fetchMassProper: async (id) => map.masses?.[id],
+    fetchOrdinary: async (id) => map.ordinaries?.[id],
+    fetchPreface: async (id) => map.prefaces?.[id],
+    fetchOfData: async (id) => map.ofData?.[id],
+  }
+}
+
+function makeCtx(date = new Date(2026, 3, 2)): SourceContext {
+  // Holy Thursday 2026 default
+  return {
     fetchOwnAsset: async () => undefined,
     localize: (text) => ({ primary: text['pt-BR'] ?? text['en-US'] ?? '' }),
     t: (key) => key,
@@ -33,13 +47,19 @@ describe('massOfSource', () => {
     }
     const orderOfMass = { id: 'order-of-mass' }
 
-    const ctx = makeCtx({
-      'of/masses/tempore/holy-week/chrism-mass.json': chrismMass,
-      'of/masses/tempore/holy-week/lords-supper.json': lordsSupperMass,
-      'of/library/ordinary/ordinario.json': orderOfMass,
-    })
+    const source = createMassOfSource(
+      makeData({
+        masses: {
+          'mass/of/tempore/holy-week/chrism-mass': chrismMass,
+          'mass/of/tempore/holy-week/lords-supper': lordsSupperMass,
+        },
+        ordinaries: {
+          'of/ordinary/ordinario': orderOfMass,
+        },
+      }),
+    )
 
-    const result = (await massOfSource.load({}, ctx)) as DayLiturgies
+    const result = (await source.load({}, makeCtx())) as DayLiturgies
     expect(result.celebrations).toHaveLength(2)
     expect(result.celebrations[0].id).toBe('tempore.holy-week.chrism-mass')
     expect(result.celebrations[0].rite).toBe('chrism-mass')
@@ -62,14 +82,22 @@ describe('massOfSource', () => {
       body: { plain: { en: 'It is truly right...' } },
     }
 
-    const ctx = makeCtx({
-      'of/masses/tempore/holy-week/chrism-mass.json': formulary,
-      'of/masses/tempore/holy-week/lords-supper.json': formulary, // dummy
-      'of/library/preface/pf-chrism.json': fullPreface,
-      'of/library/ordinary/ordinario.json': {},
-    })
+    const source = createMassOfSource(
+      makeData({
+        masses: {
+          'mass/of/tempore/holy-week/chrism-mass': formulary,
+          'mass/of/tempore/holy-week/lords-supper': formulary, // dummy
+        },
+        prefaces: {
+          'of/preface/pf-chrism': fullPreface,
+        },
+        ordinaries: {
+          'of/ordinary/ordinario': {},
+        },
+      }),
+    )
 
-    const result = (await massOfSource.load({}, ctx)) as DayLiturgies
+    const result = (await source.load({}, makeCtx())) as DayLiturgies
     // Preface hydrated under `alternatives[]`, with a `label` derived from the
     // title. The body is the original full preface payload.
     const hydratedPreface = result.celebrations[0].primary.preface as {
@@ -83,33 +111,38 @@ describe('massOfSource', () => {
 
   it('skips celebrations whose primary fetch returns undefined', async () => {
     // Holy Thursday enumerates 2 celebrations; supply only one
-    const ctx = makeCtx({
-      'of/masses/tempore/holy-week/chrism-mass.json': {
-        id: 'tempore.holy-week.chrism-mass',
-        source: 'tempore',
-        rite: 'chrism-mass',
-        title: { 'en-US': 'Chrism Mass' },
-      },
-      'library/ordinary/ordinario.json': {},
-    })
-    const result = (await massOfSource.load({}, ctx)) as DayLiturgies
+    const source = createMassOfSource(
+      makeData({
+        masses: {
+          'mass/of/tempore/holy-week/chrism-mass': {
+            id: 'tempore.holy-week.chrism-mass',
+            source: 'tempore',
+            rite: 'chrism-mass',
+            title: { 'en-US': 'Chrism Mass' },
+          },
+        },
+        ordinaries: {},
+      }),
+    )
+    const result = (await source.load({}, makeCtx())) as DayLiturgies
     expect(result.celebrations).toHaveLength(1)
     expect(result.celebrations[0].id).toBe('tempore.holy-week.chrism-mass')
   })
 
   it('returns the picked cycle for the date', async () => {
-    const ctx = makeCtx(
-      {
-        'of/masses/tempore/ordinary-time/week-23/tuesday.json': {
-          id: 'tempore.ordinary-time.week-23.tuesday',
-          source: 'tempore',
-          title: {},
+    const source = createMassOfSource(
+      makeData({
+        masses: {
+          'mass/of/tempore/ordinary-time/week-23/tuesday': {
+            id: 'tempore.ordinary-time.week-23.tuesday',
+            source: 'tempore',
+            title: {},
+          },
         },
-        'of/library/ordinary/ordinario.json': {},
-      },
-      new Date(2026, 5, 9), // Tuesday in OT
+        ordinaries: { 'of/ordinary/ordinario': {} },
+      }),
     )
-    const result = (await massOfSource.load({}, ctx)) as DayLiturgies
+    const result = (await source.load({}, makeCtx(new Date(2026, 5, 9)))) as DayLiturgies
     expect(['I', 'II']).toContain(result.cycle)
   })
 })

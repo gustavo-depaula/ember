@@ -50,8 +50,8 @@ const SEASON_MAP: Record<OfSeason, string> = {
  * — currently approximated as the principal one; full multi-Mass support is a
  * follow-up that depends on ember-extra's Christmas-day ID layout being mapped.
  *
- * Returns canonical ember-extra IDs; consumers should fetch these via
- * `ctx.fetchAsset(formularyPath(id))`.
+ * Returns canonical ember-extra IDs; consumers fetch the corresponding
+ * Mass-proper blobs through the typed `MassOfDataSource` accessors.
  */
 export function temporeIdsForDate(date: Date): string[] {
   const month = getMonth(date) + 1
@@ -269,30 +269,4 @@ export function enumerateCelebrations(date: Date): EnumeratedCelebration[] {
   // an ember-extra calendar lookup that's part of the same task and lands
   // alongside the renderer/Mass-flow work.
   return tempore.map((id) => ({ primaryId: id, alternateIds: [] }))
-}
-
-/**
- * Given a canonical formulary ID like 'tempore.holy-week.chrism-mass',
- * return its file path within the ember-extra library.
- *
- *   tempore.holy-week.chrism-mass    → masses/tempore/holy-week/chrism-mass.json
- *   sanctorale.07-24                 → masses/sanctorale/07-24.json
- *   sanctorale.05-13.brazil          → masses/sanctorale/05-13.brazil.json
- *   common.doctors                   → masses/common/doctors.json
- *   preface.pf056                    → library/preface/pf056.json
- */
-export function formularyPath(id: string): string {
-  if (id.startsWith('preface.')) {
-    return `library/preface/${id.slice('preface.'.length)}.json`
-  }
-  if (id.startsWith('eucharistic-prayer.')) {
-    return `library/eucharistic-prayer/${id.slice('eucharistic-prayer.'.length)}.json`
-  }
-  if (id.startsWith('ordinary.')) {
-    return `library/ordinary/${id.slice('ordinary.'.length)}.json`
-  }
-  // tempore / sanctorale / common / ritual / votive — first segment becomes
-  // the masses/ subdir, remaining segments become path components.
-  const [bucket, ...rest] = id.split('.')
-  return `masses/${bucket}/${rest.join('/')}.json`
 }

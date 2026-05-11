@@ -22,10 +22,12 @@ export type DataSource = {
  *
  * Every method maps cleanly to a sandboxed runtime later — no surface
  * here implies global state, network access, or arbitrary module imports.
+ *
+ * Sources that need cross-practice data (e.g. `mass-of` reading OF Mass
+ * propers from the corpus) receive their typed accessors at construction
+ * time via a factory, not through this context.
  */
 export type SourceContext = {
-  /** Fetch a JSON asset from the corpus by its asset path. */
-  fetchAsset(path: string): Promise<unknown>
   /** Read a JSON file from the data declared on the calling practice. */
   fetchOwnAsset(path: string): Promise<unknown>
   /** Engine-provided localization helper. */

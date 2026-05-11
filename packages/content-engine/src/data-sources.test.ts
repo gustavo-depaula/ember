@@ -55,7 +55,6 @@ describe('data-source registry', () => {
     registerDataSource('echo', source)
 
     const ctx: SourceContext = {
-      fetchAsset: async () => ({}),
       fetchOwnAsset: async () => ({}),
       localize: () => ({ primary: '' }),
       t: (key) => key,

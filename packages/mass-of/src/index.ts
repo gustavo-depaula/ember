@@ -1,11 +1,11 @@
 export {
   enumerateCelebrations,
-  formularyPath,
   pickCycle,
   sanctoralIdForDate,
   temporeIdsForDate,
 } from './calendar'
-export { massOfSource } from './source'
+export type { MassOfDataSource } from './dataSource'
+export { createMassOfSource } from './source'
 export type {
   Celebration,
   CycleId,

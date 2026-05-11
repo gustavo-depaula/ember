@@ -11,20 +11,58 @@ import {
   resolveFlowAsync,
 } from '@ember/content-engine'
 import { afterAll, beforeAll, describe, expect, it } from 'vitest'
-import { massOfSource } from './source'
+import type { MassOfDataSource } from './dataSource'
+import { createMassOfSource } from './source'
 
 // Read directly from the vendored ember-extra submodule.
 const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
 
-async function readJsonFromBase(path: string): Promise<unknown> {
-  if (!path.startsWith('of/')) throw new Error(`Unexpected path prefix: ${path}`)
-  const fullPath = resolve(BASE_OF_ROOT, path.slice('of/'.length))
+async function readJsonAt(relPath: string): Promise<unknown> {
+  const fullPath = resolve(BASE_OF_ROOT, relPath)
   try {
     const raw = await readFile(fullPath, 'utf-8')
     return JSON.parse(raw)
   } catch {
     return undefined
   }
+}
+
+// Translate corpus ids back into ember-extra filesystem paths so the
+// integration test can serve the typed accessor from the vendored fixtures.
+function massProperPath(id: string): string | undefined {
+  // mass/of/<bucket>/<rest...>
+  if (!id.startsWith('mass/of/')) return undefined
+  return `masses/${id.slice('mass/of/'.length)}.json`
+}
+
+function ofLibraryPath(id: string, kind: 'ordinary' | 'preface'): string | undefined {
+  const prefix = `of/${kind}/`
+  if (!id.startsWith(prefix)) return undefined
+  return `library/${kind}/${id.slice(prefix.length)}.json`
+}
+
+function ofDataPath(id: string): string | undefined {
+  if (!id.startsWith('of-data/')) return undefined
+  return `${id.slice('of-data/'.length)}.json`
+}
+
+const fixtureDataSource: MassOfDataSource = {
+  fetchMassProper: async (id) => {
+    const p = massProperPath(id)
+    return p ? readJsonAt(p) : undefined
+  },
+  fetchOrdinary: async (id) => {
+    const p = ofLibraryPath(id, 'ordinary')
+    return p ? readJsonAt(p) : undefined
+  },
+  fetchPreface: async (id) => {
+    const p = ofLibraryPath(id, 'preface')
+    return p ? readJsonAt(p) : undefined
+  },
+  fetchOfData: async (id) => {
+    const p = ofDataPath(id)
+    return p ? readJsonAt(p) : undefined
+  },
 }
 
 function makeEngineContext(): EngineContext {
@@ -42,7 +80,6 @@ function makeEngineContext(): EngineContext {
     prayers: {},
     canticles: {},
     prose: {},
-    fetchAsset: (path) => readJsonFromBase(path),
     fetchOwnAsset: () => Promise.resolve(undefined),
   }
 }
@@ -53,7 +90,7 @@ function makeContext(date: Date): FlowContext {
 
 describe('integration: mass-of + engine + ember-extra fixtures', () => {
   beforeAll(() => {
-    registerDataSource('mass-of', massOfSource)
+    registerDataSource('mass-of', createMassOfSource(fixtureDataSource))
   })
   afterAll(() => {
     // Don't clear — other tests may depend on this; idempotent registration is fine.

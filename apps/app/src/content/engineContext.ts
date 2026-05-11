@@ -1,5 +1,4 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
-import { fetchOfAsset } from '@/content/fetchOfAsset'
 import {
   getBookEntry,
   getProseText,
@@ -36,13 +35,6 @@ export function createEngineContext(
   const state = usePreferencesStore.getState()
   const contentLanguage = languagePrefs?.contentLanguage ?? state.contentLanguage
   const secondaryLanguage = languagePrefs?.secondaryLanguage ?? state.secondaryLanguage
-
-  // The languages we'll request when merging per-language split blobs (OF
-  // Mass propers, ordinaries, prefaces). Always include Latin since the
-  // rubrics fall back to it.
-  const requestedLangs = Array.from(
-    new Set([contentLanguage, secondaryLanguage, 'la'].filter(Boolean) as string[]),
-  )
 
   const prayers = new Proxy({} as Record<string, import('@ember/content-engine').PrayerAsset>, {
     get(_, ref: string) {
@@ -100,10 +92,9 @@ export function createEngineContext(
       if (!text) return undefined
       return { [lang]: text }
     },
-    fetchAsset: async (path: string) => fetchOfAsset(path, requestedLangs),
     // No fetchOwnAsset — let the engine fall through to context.cycleData,
     // which is populated by loadPracticeData() and indexed by data name (e.g.
-    // 'liturgical-map'). The OF asset router is for cross-practice paths
-    // only, not this practice's own declared data.
+    // 'liturgical-map'). Cross-practice data (OF Mass propers, prefaces) is
+    // wired into the `mass-of` DataSource at construction time, not here.
   }
 }

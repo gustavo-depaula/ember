@@ -1,7 +1,20 @@
 import { liturgicalDaySource, registerDataSource } from '@ember/content-engine'
-import { massOfSource } from '@ember/mass-of'
+import { createMassOfSource } from '@ember/mass-of'
+import { createCorpusMassOfDataSource } from '@/lib/mass-of/dataSource'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 let registered = false
+
+/**
+ * Pick the languages a `mass-of` accessor should request. Always include
+ * Latin since the rubrics fall back to it.
+ */
+function currentMassOfLangs(): string[] {
+  const state = usePreferencesStore.getState()
+  return Array.from(
+    new Set([state.contentLanguage, state.secondaryLanguage, 'la'].filter(Boolean) as string[]),
+  )
+}
 
 /**
  * Register every DataSource the app supports.
@@ -16,6 +29,9 @@ let registered = false
 export function registerDataSources(): void {
   if (registered) return
   registerDataSource('liturgical-day', liturgicalDaySource)
-  registerDataSource('mass-of', massOfSource)
+  registerDataSource(
+    'mass-of',
+    createMassOfSource(createCorpusMassOfDataSource(currentMassOfLangs)),
+  )
   registered = true
 }

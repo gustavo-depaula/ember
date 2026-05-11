@@ -121,7 +121,7 @@ GitHub Pages doesn't allow custom `Cache-Control`, but every fetched URL is cont
 | `apps/app/src/content/contentIndex.ts` | In-memory id→hash map, built from `catalog.json`. Holds remembered manifest bodies + `ensureManifestBody(hash)` (read-or-fetch). `getCollectionsForItem(id)` reverse-indexes membership. A `catalogVersion` counter bumps on changes; React subscribes via `useCatalogVersion()` to re-render when deferred manifests warm. |
 | `apps/app/src/content/resolver.ts` | Public surface for the rest of the app. Sync APIs (`resolvePrayer`, `getManifest`, `getBookEntry`) read from the always-resident manifest set. Async APIs (`loadFlow`, `loadChapterContent`, `loadMassProper`) fetch on demand and merge per-language Mass-proper blobs back into the multilingual shape callers expect. `canonicalize(id, hintKind)` is a hard filter when `hintKind` is set — no fallthrough across kinds. |
 | `apps/app/src/content/manifestTypes.ts` | Single source of truth for catalog + manifest shapes (`PracticeManifest`, `ChapterManifest`, `BookEntry`, `CollectionItemManifest`, `LangSplitItemManifest`, etc.) plus plan-of-life types (`ProgramConfig`, `SlotDefault`, `AlternativeToRef`, `TocNode`). |
-| `apps/app/src/content/fetchOfAsset.ts` | v1-asset-path → v2-corpus-id router. Translates legacy paths the `mass-of` package still passes through `EngineContext.fetchAsset` (e.g. `of/masses/tempore/...json`) into corpus ids and dispatches to the resolver. |
+| `apps/app/src/lib/mass-of/dataSource.ts` | Host implementation of `MassOfDataSource` — typed corpus accessors (`fetchMassProper`, `fetchOrdinary`, `fetchPreface`, `fetchOfData`) wired into the `mass-of` package at registration time so the source reads OF Mass propers, the Order of Mass, prefaces, and the sanctoral index by stable corpus id. |
 | `apps/app/src/features/pinning/` | Pinning manager + `usePinToggle` hook + `PinToggle` pill. Walks an item recursively (per-kind `COLLECTORS` table) and prefetches every blob it references. Pinned-items list lives in `preferences['pinned-items']` (a JSON array; no new SQLite tables). Practices added to plan-of-life auto-pin. |
 
 **Boot sequence** (`apps/app/src/app/_layout.tsx`):
@@ -251,7 +251,6 @@ ember/
           contentIndex.ts             (catalog + remembered manifest bodies)
           resolver.ts                 (sync + async lookups for the rest of the app)
           manifestTypes.ts            (catalog + manifest type definitions)
-          fetchOfAsset.ts             (legacy OF-path → corpus-id router for mass-of)
           mergeLangs.ts               (recombine per-language Mass-proper blobs)
           engineContext.ts            (wires app deps into EngineContext)
           useCatalogVersion.ts        (useSyncExternalStore subscriber)

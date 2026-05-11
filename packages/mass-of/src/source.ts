@@ -1,6 +1,7 @@
 import type { DataSource, SourceContext } from '@ember/content-engine'
 import { format } from 'date-fns'
-import { enumerateCelebrations, formularyPath, pickCycle } from './calendar'
+import { enumerateCelebrations, pickCycle } from './calendar'
+import type { MassOfDataSource } from './dataSource'
 import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
 import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
 import { transformFormularyReadings } from './transformReadings'
@@ -13,51 +14,50 @@ import type {
   RiteType,
 } from './types'
 
-// All OF mass propers + ordinaries + calendar data are routed through
-// `ctx.fetchAsset(path)` which the host translates into v2 corpus reads.
-const PATH_PREFIX = 'of/'
+const ORDINARY_ID = 'of/ordinary/ordinario'
+const SANCTORALE_INDEX_ID = 'of-data/calendar/sanctorale/_index'
 
 type SanctoralIndex = { count: number; ids: string[] }
-let sanctoralIndexCache: Promise<SanctoralIndex | undefined> | undefined
 
-async function loadSanctoralIndex(ctx: SourceContext): Promise<SanctoralIndex | undefined> {
-  if (!sanctoralIndexCache) {
-    sanctoralIndexCache = ctx
-      .fetchAsset(`${PATH_PREFIX}calendar/sanctorale/_index.json`)
-      .then((data) => data as SanctoralIndex | undefined)
-      .catch(() => undefined)
-  }
-  return sanctoralIndexCache
+function massProperIdFor(formularyId: string): string | undefined {
+  if (formularyId.startsWith('preface.')) return undefined
+  if (formularyId.startsWith('eucharistic-prayer.')) return undefined
+  if (formularyId.startsWith('ordinary.')) return undefined
+  const [bucket, ...rest] = formularyId.split('.')
+  if (!bucket || rest.length === 0) return undefined
+  return `mass/of/${bucket}/${rest.join('/')}`
+}
+
+function prefaceIdFor(formularyId: string): string {
+  // ember-extra prefaceRefs are usually fully qualified (e.g. `preface.pf016`);
+  // some test fixtures use the bare form (`pf016`). Tolerate both — DON'T
+  // blindly prepend `preface.` (would produce `preface.preface.pf016`, which
+  // silently misses the file).
+  const bare = formularyId.startsWith('preface.')
+    ? formularyId.slice('preface.'.length)
+    : formularyId
+  return `of/preface/${bare}`
 }
 
 /**
- * Find sanctoral formulary IDs assigned to the given calendar date. Most
- * days have 0–1 entries; some have multiple due to optional memorials or
- * regional variants (e.g. May 13 → universal Our Lady of Fatima + Brazil).
- *
- * For now we surface universal (non-scoped) IDs. Region-scoped IDs (those
- * containing a "." after the date) are filtered out — region selection
- * requires a user preference that is not yet wired.
+ * Liturgical precedence: tempore IDs that suppress sanctoral celebrations
+ * entirely (Holy Week, Easter Octave, Christmas Day, etc.). On these days
+ * the saint's feast is omitted regardless of rank.
  */
-async function sanctoralIdsForDate(ctx: SourceContext, date: Date): Promise<string[]> {
-  const index = await loadSanctoralIndex(ctx)
-  if (!index) return []
-  const mmdd = format(date, 'MM-dd')
-  const prefix = `sanctorale.${mmdd}`
-  const exactPrefix = `${prefix}.`
-  const out: string[] = []
-  for (const id of index.ids) {
-    if (id === prefix) {
-      out.push(id)
-    } else if (id.startsWith(exactPrefix)) {
-      // Skip region-scoped variants (e.g. "sanctorale.05-13.brazil") for now.
-      const tail = id.slice(exactPrefix.length)
-      // Some IDs use a non-region disambiguator like "sebastian" — keep
-      // those, drop the region-named ones (united-states, france, brazil...).
-      if (!REGION_SCOPES.has(tail)) out.push(id)
-    }
-  }
-  return out
+function tempoireSuppressesSanctoral(temporeIds: string[]): boolean {
+  return temporeIds.some(
+    (id) =>
+      id.startsWith('tempore.holy-week.') ||
+      // Easter Octave (Mon–Sat after Easter Sunday) — all solemnity-rank in
+      // the universal calendar; ember-extra tags them rank=null, so we
+      // suppress sanctoral here explicitly.
+      id.startsWith('tempore.easter.week-1.') ||
+      id.startsWith('tempore.christmas.nativity-') ||
+      id.startsWith('tempore.christmas.day-117') ||
+      id.startsWith('tempore.christmas.day-118') ||
+      id.startsWith('tempore.christmas.day-119') ||
+      id === 'tempore.christmas.epiphany',
+  )
 }
 
 const REGION_SCOPES = new Set([
@@ -98,74 +98,6 @@ const REGION_SCOPES = new Set([
   'venezuela',
 ])
 
-async function fetchFormulary(ctx: SourceContext, id: string): Promise<Formulary | undefined> {
-  const path = `${PATH_PREFIX}${formularyPath(id)}`
-  const data = (await ctx.fetchAsset(path)) as Formulary | undefined
-  if (!data) return undefined
-  return transformFormularyReadings(data)
-}
-
-async function fetchPreface(
-  ctx: SourceContext,
-  ref: string,
-): Promise<Record<string, unknown> | undefined> {
-  // ember-extra prefaceRefs are usually fully qualified (e.g.
-  // `"preface.pf016"`); some test fixtures use the bare form (`"pf016"`).
-  // Tolerate both — DON'T blindly prepend `preface.` (would produce
-  // `preface.preface.pf016`, which silently misses the file).
-  const fullId = ref.startsWith('preface.') ? ref : `preface.${ref}`
-  const refPath = `${PATH_PREFIX}${formularyPath(fullId)}`
-  return (await ctx.fetchAsset(refPath)) as Record<string, unknown> | undefined
-}
-
-/**
- * Hydrate `preface.prefaceRefs` into a single `alternatives[]` array on
- * `formulary.preface`. The Roman Missal allows the priest to pick from any
- * of these on a given day (e.g. on Easter weekdays all 5 paschal prefaces
- * are usable). Each entry carries a derived `label` (Roman numeral
- * extracted from the title) so the chip toggle reads "Páscoa I",
- * "Páscoa II", etc. rather than generic "Tmp I".
- */
-async function hydratePreface(ctx: SourceContext, formulary: Formulary): Promise<Formulary> {
-  const preface = formulary.preface as { prefaceRefs?: string[] } | undefined
-  const refs = preface?.prefaceRefs ?? []
-  if (refs.length === 0) return formulary
-
-  const hydrated: Record<string, unknown>[] = []
-  for (const ref of refs) {
-    const data = await fetchPreface(ctx, ref)
-    if (!data) continue
-    const title = data.title as Record<string, string> | undefined
-    const bodyExcerpt = prefaceBodyExcerpts(data)
-    // Prefer the prayed-words snippet; fall back to the title's subtitle
-    // for prefaces whose body doesn't match the boilerplate-end heuristic.
-    const excerpt = {
-      'pt-BR': bodyExcerpt['pt-BR'] ?? prefaceTitleSubtitle(title?.['pt-BR']),
-      'en-US': bodyExcerpt['en-US'] ?? prefaceTitleSubtitle(title?.en),
-      la: bodyExcerpt.la ?? prefaceTitleSubtitle(title?.la),
-    }
-    hydrated.push({
-      ...data,
-      label: localizedAbbreviate(title, abbreviatePrefaceTitle),
-      excerpt,
-    })
-  }
-  if (hydrated.length === 0) return formulary
-
-  return { ...formulary, preface: { alternatives: hydrated } }
-}
-
-function localizedAbbreviate(
-  title: Record<string, string> | undefined,
-  fn: (raw: string | undefined) => string | undefined,
-): { 'pt-BR'?: string; 'en-US'?: string; la?: string } {
-  return {
-    'pt-BR': fn(title?.['pt-BR']),
-    'en-US': fn(title?.en),
-    la: fn(title?.la),
-  }
-}
-
 const PREFACE_TITLE_HEADER_RE = /^(?:PREF[ÁA]CIO\s+D[AOE]\s+|PREFACE\s+OF\s+|PRAEFATIO\s+DE\s+)/i
 const PREFACE_TITLE_RE = /^(.+?)\s+(I{1,4}V?|IV|VI{0,4}|IX|X)\b\s*(.*)$/
 
@@ -203,6 +135,17 @@ function titleCase(s: string): string {
   return s.toLowerCase().replace(/(^|\s)([\p{L}])/gu, (_, sep, ch) => sep + ch.toUpperCase())
 }
 
+function localizedAbbreviate(
+  title: Record<string, string> | undefined,
+  fn: (raw: string | undefined) => string | undefined,
+): { 'pt-BR'?: string; 'en-US'?: string; la?: string } {
+  return {
+    'pt-BR': fn(title?.['pt-BR']),
+    'en-US': fn(title?.en),
+    la: fn(title?.la),
+  }
+}
+
 /**
  * Whether the Gloria is recited at this formulary's Mass. Gloria is sung on:
  * - Solemnities and feasts (always; suppressed sanctoral feasts on Sundays
@@ -230,134 +173,6 @@ function deriveIncludeGloria(formulary: Formulary): boolean {
   }
 
   return false
-}
-
-async function buildCelebration(
-  ctx: SourceContext,
-  primaryId: string,
-  alternateIds: string[],
-): Promise<Celebration | undefined> {
-  const primary = await fetchFormulary(ctx, primaryId)
-  if (!primary) return undefined
-
-  const prettyTitle = prettifyCelebrationTitle(
-    (primary.title as Record<string, string | undefined>) ?? {},
-  )
-  const hydratedPrimary = await hydratePreface(ctx, {
-    ...primary,
-    title: prettyTitle,
-    includeGloria: deriveIncludeGloria(primary),
-  })
-
-  const alternates: Formulary[] = []
-  for (const altId of alternateIds) {
-    const alt = await fetchFormulary(ctx, altId)
-    if (!alt) continue
-    const altTitle = prettifyCelebrationTitle(
-      (alt.title as Record<string, string | undefined>) ?? {},
-    )
-    alternates.push(
-      await hydratePreface(ctx, {
-        ...alt,
-        title: altTitle,
-        includeGloria: deriveIncludeGloria(alt),
-      }),
-    )
-  }
-
-  return {
-    id: primaryId,
-    title: prettyTitle,
-    rite: (primary.rite as RiteType | undefined) ?? 'mass',
-    rank: (primary.rank as RankType | null | undefined) ?? null,
-    primary: hydratedPrimary,
-    alternates,
-  }
-}
-
-/**
- * `mass-of` DataSource — resolves today's Mass content from the bundled
- * `ember-extra` library.
- *
- * Returns DayLiturgies (one or more celebrations + the Order of Mass parts +
- * lectionary cycle). The flow's top-level select renders the celebration
- * picker over `day.celebrations`; per-slot pickers (choice-rich-text) draw
- * options from each celebration's primary + alternates.
- */
-/**
- * Liturgical precedence: tempore IDs that suppress sanctoral celebrations
- * entirely (Holy Week, Easter Octave, Christmas Day, etc.). On these days
- * the saint's feast is omitted regardless of rank.
- */
-function tempoireSuppressesSanctoral(temporeIds: string[]): boolean {
-  return temporeIds.some(
-    (id) =>
-      id.startsWith('tempore.holy-week.') ||
-      // Easter Octave (Mon–Sat after Easter Sunday) — all solemnity-rank in
-      // the universal calendar; ember-extra tags them rank=null, so we
-      // suppress sanctoral here explicitly.
-      id.startsWith('tempore.easter.week-1.') ||
-      id.startsWith('tempore.christmas.nativity-') ||
-      id.startsWith('tempore.christmas.day-117') ||
-      id.startsWith('tempore.christmas.day-118') ||
-      id.startsWith('tempore.christmas.day-119') ||
-      id === 'tempore.christmas.epiphany',
-  )
-}
-
-export const massOfSource: DataSource = {
-  async load(_args, ctx): Promise<DayLiturgies> {
-    const date = ctx.now()
-    const enumerated = enumerateCelebrations(date)
-    const temporeIdList = enumerated.map((e) => e.primaryId)
-    const sanctoralIds = tempoireSuppressesSanctoral(temporeIdList)
-      ? []
-      : await sanctoralIdsForDate(ctx, date)
-
-    // Memorial-day fold-in: when a sanctoral entry exists for today, expose
-    // both the tempore Mass (with the saint as alternate) and the saint's
-    // Mass (with the tempore as alternate). Users pick the celebration in
-    // the top-level chip, then mix slots inside via Tmp/Snt chips.
-    const expanded: { primaryId: string; alternateIds: string[] }[] = []
-    if (sanctoralIds.length === 0) {
-      expanded.push(...enumerated)
-    } else {
-      // 1) Tempore celebrations carry sanctoral ids as alternates.
-      for (const e of enumerated) {
-        expanded.push({
-          primaryId: e.primaryId,
-          alternateIds: [...e.alternateIds, ...sanctoralIds],
-        })
-      }
-      // 2) Each sanctoral celebration gets the tempore ids as alternates.
-      const temporeIds = enumerated.map((e) => e.primaryId)
-      for (const sanctoralId of sanctoralIds) {
-        expanded.push({
-          primaryId: sanctoralId,
-          alternateIds: temporeIds,
-        })
-      }
-    }
-
-    const celebrations: Celebration[] = []
-    for (const e of expanded) {
-      const c = await buildCelebration(ctx, e.primaryId, e.alternateIds)
-      if (c) celebrations.push(c)
-    }
-
-    const filtered = applyPrecedence(celebrations, temporeIdList)
-
-    const ordinary =
-      ((await ctx.fetchAsset(`${PATH_PREFIX}library/ordinary/ordinario.json`)) as
-        | OrdinaryParts
-        | undefined) ?? {}
-
-    return {
-      celebrations: filtered,
-      ordinary,
-      cycle: pickCycle(date),
-    }
-  },
 }
 
 /**
@@ -414,4 +229,205 @@ function applyPrecedence(celebrations: Celebration[], temporeIds: string[]): Cel
   }
 
   return celebrations
+}
+
+/**
+ * Build a `mass-of` DataSource against the supplied typed data accessor.
+ *
+ * The returned DataSource resolves today's Mass content from the corpus —
+ * the host implements `MassOfDataSource` to translate stable kind-prefixed
+ * ids into corpus reads (data originally sourced from the `ember-extra`
+ * upstream submodule).
+ *
+ * Returns DayLiturgies (one or more celebrations + the Order of Mass parts +
+ * lectionary cycle). The flow's top-level select renders the celebration
+ * picker over `day.celebrations`; per-slot pickers (choice-rich-text) draw
+ * options from each celebration's primary + alternates.
+ */
+export function createMassOfSource(data: MassOfDataSource): DataSource {
+  let sanctoralIndexCache: Promise<SanctoralIndex | undefined> | undefined
+
+  async function loadSanctoralIndex(): Promise<SanctoralIndex | undefined> {
+    if (!sanctoralIndexCache) {
+      sanctoralIndexCache = data
+        .fetchOfData(SANCTORALE_INDEX_ID)
+        .then((d) => d as SanctoralIndex | undefined)
+        .catch(() => undefined)
+    }
+    return sanctoralIndexCache
+  }
+
+  /**
+   * Find sanctoral formulary IDs assigned to the given calendar date. Most
+   * days have 0–1 entries; some have multiple due to optional memorials or
+   * regional variants (e.g. May 13 → universal Our Lady of Fatima + Brazil).
+   *
+   * For now we surface universal (non-scoped) IDs. Region-scoped IDs (those
+   * containing a "." after the date) are filtered out — region selection
+   * requires a user preference that is not yet wired.
+   */
+  async function sanctoralIdsForDate(date: Date): Promise<string[]> {
+    const index = await loadSanctoralIndex()
+    if (!index) return []
+    const mmdd = format(date, 'MM-dd')
+    const prefix = `sanctorale.${mmdd}`
+    const exactPrefix = `${prefix}.`
+    const out: string[] = []
+    for (const id of index.ids) {
+      if (id === prefix) {
+        out.push(id)
+      } else if (id.startsWith(exactPrefix)) {
+        // Skip region-scoped variants (e.g. "sanctorale.05-13.brazil") for now.
+        const tail = id.slice(exactPrefix.length)
+        // Some IDs use a non-region disambiguator like "sebastian" — keep
+        // those, drop the region-named ones (united-states, france, brazil...).
+        if (!REGION_SCOPES.has(tail)) out.push(id)
+      }
+    }
+    return out
+  }
+
+  async function fetchFormulary(id: string): Promise<Formulary | undefined> {
+    const massId = massProperIdFor(id)
+    if (!massId) return undefined
+    const body = (await data.fetchMassProper(massId)) as Formulary | undefined
+    if (!body) return undefined
+    return transformFormularyReadings(body)
+  }
+
+  async function fetchPrefaceBody(ref: string): Promise<Record<string, unknown> | undefined> {
+    const id = prefaceIdFor(ref)
+    return (await data.fetchPreface(id)) as Record<string, unknown> | undefined
+  }
+
+  /**
+   * Hydrate `preface.prefaceRefs` into a single `alternatives[]` array on
+   * `formulary.preface`. The Roman Missal allows the priest to pick from any
+   * of these on a given day (e.g. on Easter weekdays all 5 paschal prefaces
+   * are usable). Each entry carries a derived `label` (Roman numeral
+   * extracted from the title) so the chip toggle reads "Páscoa I",
+   * "Páscoa II", etc. rather than generic "Tmp I".
+   */
+  async function hydratePreface(formulary: Formulary): Promise<Formulary> {
+    const preface = formulary.preface as { prefaceRefs?: string[] } | undefined
+    const refs = preface?.prefaceRefs ?? []
+    if (refs.length === 0) return formulary
+
+    const hydrated: Record<string, unknown>[] = []
+    for (const ref of refs) {
+      const body = await fetchPrefaceBody(ref)
+      if (!body) continue
+      const title = body.title as Record<string, string> | undefined
+      const bodyExcerpt = prefaceBodyExcerpts(body)
+      // Prefer the prayed-words snippet; fall back to the title's subtitle
+      // for prefaces whose body doesn't match the boilerplate-end heuristic.
+      const excerpt = {
+        'pt-BR': bodyExcerpt['pt-BR'] ?? prefaceTitleSubtitle(title?.['pt-BR']),
+        'en-US': bodyExcerpt['en-US'] ?? prefaceTitleSubtitle(title?.en),
+        la: bodyExcerpt.la ?? prefaceTitleSubtitle(title?.la),
+      }
+      hydrated.push({
+        ...body,
+        label: localizedAbbreviate(title, abbreviatePrefaceTitle),
+        excerpt,
+      })
+    }
+    if (hydrated.length === 0) return formulary
+
+    return { ...formulary, preface: { alternatives: hydrated } }
+  }
+
+  async function buildCelebration(
+    primaryId: string,
+    alternateIds: string[],
+  ): Promise<Celebration | undefined> {
+    const primary = await fetchFormulary(primaryId)
+    if (!primary) return undefined
+
+    const prettyTitle = prettifyCelebrationTitle(
+      (primary.title as Record<string, string | undefined>) ?? {},
+    )
+    const hydratedPrimary = await hydratePreface({
+      ...primary,
+      title: prettyTitle,
+      includeGloria: deriveIncludeGloria(primary),
+    })
+
+    const alternates: Formulary[] = []
+    for (const altId of alternateIds) {
+      const alt = await fetchFormulary(altId)
+      if (!alt) continue
+      const altTitle = prettifyCelebrationTitle(
+        (alt.title as Record<string, string | undefined>) ?? {},
+      )
+      alternates.push(
+        await hydratePreface({
+          ...alt,
+          title: altTitle,
+          includeGloria: deriveIncludeGloria(alt),
+        }),
+      )
+    }
+
+    return {
+      id: primaryId,
+      title: prettyTitle,
+      rite: (primary.rite as RiteType | undefined) ?? 'mass',
+      rank: (primary.rank as RankType | null | undefined) ?? null,
+      primary: hydratedPrimary,
+      alternates,
+    }
+  }
+
+  return {
+    async load(_args, ctx: SourceContext): Promise<DayLiturgies> {
+      const date = ctx.now()
+      const enumerated = enumerateCelebrations(date)
+      const temporeIdList = enumerated.map((e) => e.primaryId)
+      const sanctoralIds = tempoireSuppressesSanctoral(temporeIdList)
+        ? []
+        : await sanctoralIdsForDate(date)
+
+      // Memorial-day fold-in: when a sanctoral entry exists for today, expose
+      // both the tempore Mass (with the saint as alternate) and the saint's
+      // Mass (with the tempore as alternate). Users pick the celebration in
+      // the top-level chip, then mix slots inside via Tmp/Snt chips.
+      const expanded: { primaryId: string; alternateIds: string[] }[] = []
+      if (sanctoralIds.length === 0) {
+        expanded.push(...enumerated)
+      } else {
+        // 1) Tempore celebrations carry sanctoral ids as alternates.
+        for (const e of enumerated) {
+          expanded.push({
+            primaryId: e.primaryId,
+            alternateIds: [...e.alternateIds, ...sanctoralIds],
+          })
+        }
+        // 2) Each sanctoral celebration gets the tempore ids as alternates.
+        const temporeIds = enumerated.map((e) => e.primaryId)
+        for (const sanctoralId of sanctoralIds) {
+          expanded.push({
+            primaryId: sanctoralId,
+            alternateIds: temporeIds,
+          })
+        }
+      }
+
+      const celebrations: Celebration[] = []
+      for (const e of expanded) {
+        const c = await buildCelebration(e.primaryId, e.alternateIds)
+        if (c) celebrations.push(c)
+      }
+
+      const filtered = applyPrecedence(celebrations, temporeIdList)
+
+      const ordinary = ((await data.fetchOrdinary(ORDINARY_ID)) as OrdinaryParts | undefined) ?? {}
+
+      return {
+        celebrations: filtered,
+        ordinary,
+        cycle: pickCycle(date),
+      }
+    },
+  }
 }
