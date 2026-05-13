@@ -169,6 +169,42 @@ const { data: completions, isLoading } = useQuery({
 - Expo Router's built-in `ErrorBoundary` export per route file
 - Let TanStack Query handle async errors (no manual try/catch for queries)
 
+### Never swallow errors
+
+Do not write silent rescues. `try { ... } catch { return }` (or any catch that throws away the error without telling the user or the maintainer) hides bugs that should be reported.
+
+Preference order:
+
+1. **Surface to the user** — toast, alert, inline message, or error boundary. The user can screenshot and report it. This is the goal.
+2. **Let it crash** — acceptable; loud failures are debuggable.
+3. **Silently swallow** — never.
+
+`console.error` alone does not count — the user cannot see the console in a production build.
+
+```typescript
+// ✗ Bad — user-initiated action, error vanishes
+try {
+  await raiseIntention.mutateAsync({ text, cadence })
+} catch {
+  return
+}
+
+// ✓ Good — surface to the user
+try {
+  await raiseIntention.mutateAsync({ text, cadence })
+} catch (err) {
+  showErrorToast(err)
+  return
+}
+
+// ✓ Also good — let it propagate / crash
+await raiseIntention.mutateAsync({ text, cadence })
+```
+
+Returning a fallback value (e.g. cache miss → `undefined`) is fine **only when the fallback is a valid semantic result** — "not found" is not an error. The test: would the user notice if this silently failed? If yes, surface it.
+
+Do not add defensive try/catch around code with no expected failure mode. Let unexpected exceptions propagate to the error boundary.
+
 ## Comments
 
 - **Strategic** — section headers in longer files, brief 'why' on non-obvious logic
