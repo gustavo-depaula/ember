@@ -3,7 +3,7 @@ import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Dimensions, Pressable } from 'react-native'
+import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
@@ -67,10 +67,11 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const frameCornerDark = require('../../assets/textures/frame_corner_dark.png')
 const frameCornerLight = require('../../assets/textures/frame_corner_light.png')
-const screenWidth = Dimensions.get('window').width
-const cornerWidth = screenWidth
-const darkCornerHeight = cornerWidth / (1023 / 456)
-const lightCornerHeight = cornerWidth / (1584 / 672)
+// Matches ScreenLayout's content column maxWidth; clamping avoids the flourish
+// blowing up to full browser width on the web while the column stays centered.
+const cornerMaxWidth = 640
+const darkCornerAspect = 1023 / 456
+const lightCornerAspect = 1584 / 672
 
 export default function HomeScreen() {
   const { t } = useTranslation()
@@ -164,6 +165,10 @@ export default function HomeScreen() {
   const insets = useSafeAreaInsets()
   const noNotchTopPad = insets.top === 0 ? 32 : 0
 
+  const { width: windowWidth } = useWindowDimensions()
+  const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
+  const cornerHeight = cornerWidth / (isDark ? darkCornerAspect : lightCornerAspect)
+
   return (
     <ScreenLayout>
       <View
@@ -175,7 +180,7 @@ export default function HomeScreen() {
       >
         <Image
           source={isDark ? frameCornerDark : frameCornerLight}
-          style={{ width: cornerWidth, height: isDark ? darkCornerHeight : lightCornerHeight }}
+          style={{ width: cornerWidth, height: cornerHeight }}
           contentFit="contain"
           accessibilityElementsHidden
         />
