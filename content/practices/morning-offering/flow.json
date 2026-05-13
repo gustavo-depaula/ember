@@ -1,6 +1,12 @@
 {
 	"sections": [
 		{
+			"type": "review-resolution",
+			"mode": "show",
+			"target": "active-daily",
+			"skip_if_none": true
+		},
+		{
 			"type": "prayer",
 			"ref": "sign-of-cross"
 		},
@@ -20,6 +26,30 @@
 				"en-US": "O my God, I adore You and I love You with all my heart. I give You thanks for having created me, made me a Christian, and preserved me this night. I offer You all my thoughts, all my words, and all my works. May everything be for Your love.\n\nHumbly I beseech You, in the name of Jesus and through the intercession of Mary: preserve me from all evil. Amen.",
 				"pt-BR": "Ó! meu Deus, eu vos adoro e vos amo de todo o meu coração. Eu vos dou graças por me haverdes criado, feito cristão e conservado nesta noite. Eu vos ofereço todos os meus pensamentos, todas as minhas palavras e obras. Seja tudo por vosso amor.\n\nHumildemente vos peço, em nome de Jesus e pela intercessão de Maria: preservai-me de todo o mal. Amém."
 			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "capture-movement",
+			"kind": "intention",
+			"prompt": {
+				"en-US": "Anything new this morning?",
+				"pt-BR": "Algo novo nesta manhã?"
+			},
+			"multi": true,
+			"optional": true,
+			"defaults": { "cadence": "perpetual" }
 		},
 		{
 			"type": "divider"

@@ -1,6 +1,7 @@
 export { AnimatedCheckbox } from './AnimatedCheckbox'
 export { AnimatedPressable } from './AnimatedPressable'
 export { BibleReadingBlock } from './BibleReadingBlock'
+export { BottomSheet } from './BottomSheet'
 export { CandleFlame } from './CandleFlame'
 export { Card } from './Card'
 export { CccReadingBlock } from './CccReadingBlock'

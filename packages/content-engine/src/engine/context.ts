@@ -56,6 +56,34 @@ export type EngineContext = {
    * through `EngineContext`.
    */
   fetchOwnAsset?: (path: string) => Promise<unknown>
+  /**
+   * When true, host supports `offering` and `capture-movement` blocks. Set
+   * by the app practice player; absent in pure engine tests / cloud
+   * prerenders, in which case the blocks resolve to no-ops.
+   */
+  supportsMovements?: boolean
+  /**
+   * Read-side resolution access. When absent, `capture-resolution` and
+   * `review-resolution` resolve to no-ops.
+   */
+  resolutions?: {
+    active(level: ResolutionLevel): ResolutionLite | undefined
+    pending(level: ResolutionLevel): ResolutionLite | undefined
+  }
+  logicalDay?(): Date
+  windowFor?(
+    level: ResolutionLevel,
+    anchor: Date,
+    forward: 'current' | 'next',
+  ): { starts_at: number; ends_at: number }
+}
+
+export type ResolutionLevel = 'daily'
+
+export type ResolutionLite = {
+  id: string
+  text: string
+  level: ResolutionLevel
 }
 
 export type FlowContext = {

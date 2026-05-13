@@ -1,7 +1,28 @@
-export type { EventStoreState, GratitudeState, IntentionState, SlotState } from './state'
+export type {
+  ConfessionState,
+  EventStoreState,
+  Movement,
+  MovementClosureKind,
+  MovementKind,
+  Resolution,
+  ResolutionReview,
+  SlotState,
+} from './state'
 export { useEventStore } from './state'
 export { createEventsTable, emit, emitBatch, replayAll } from './store'
-export type { AppEvent, CompletionEvent, CursorEvent, PracticeEvent, StoredEvent } from './types'
+export type {
+  AppEvent,
+  Cadence,
+  CompletionEvent,
+  CursorEvent,
+  MovementEvent,
+  PracticeEvent,
+  ResolutionEvent,
+  ResolutionLevel,
+  ResolutionOutcome,
+  ResolutionSource,
+  StoredEvent,
+} from './types'
 
 import type { Completion } from '../schema'
 

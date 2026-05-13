@@ -1,6 +1,6 @@
 # Phase 4 — Plan of Life as Rule
 
-> Status: Design ready. Depends on Phase 3.
+> **Status:** *Partially deferred.* The Resolutions panel ships with the **daily-only** TODAY card; the STANDING section (weekly / monthly / seasonal / annual), per-level capture, standing-review sheet, weekly-review practice, and `useActiveHigher` scaffolding are **future work**. The Phase 3 daily loop bedded in first; non-daily windows had real defects (post-Pentecost OT collapse, missing logical-day cutoff) that we chose to defer rather than partially fix. The design below remains the design-of-record for when this phase resumes.
 >
 > Predecessors: Phase 3 (Resolutions). Successors: Phase 5 builds remaining periodic review practices on top of this hierarchy.
 

@@ -1,4 +1,5 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
+import { logicalDay, windowFor } from '@ember/liturgical'
 import {
   getBookEntry,
   getProseText,
@@ -6,6 +7,9 @@ import {
   resolveCanticle,
   resolvePrayer,
 } from '@/content/resolver'
+import { useEventStore } from '@/db/events'
+import { pickActive, pickPending } from '@/features/resolutions/selectors'
+import { getToday } from '@/hooks/useToday'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -96,5 +100,44 @@ export function createEngineContext(
     // which is populated by loadPracticeData() and indexed by data name (e.g.
     // 'liturgical-map'). Cross-practice data (OF Mass propers, prefaces) is
     // wired into the `mass-of` DataSource at construction time, not here.
+  }
+}
+
+/**
+ * Augment an EngineContext with movement / resolution / window deps,
+ * snapshotting store state and the current time at call. The returned
+ * context is a fresh object — the input is not mutated. Resolution
+ * lookups close over the snapshot, so a single `resolveFlow` pass sees
+ * a consistent view even if the store mutates while it runs. Re-call
+ * this helper to refresh.
+ */
+export function withSpiritualThreads(ec: EngineContext): EngineContext {
+  const snapshot = useEventStore.getState()
+  // Honor the user's selected day (time-travel / day carousel). The engine
+  // resolves blocks against this anchor so review-resolution / capture-
+  // resolution see the same "today" the rest of the app does.
+  const today = getToday()
+  const now = today.getTime()
+
+  return {
+    ...ec,
+    supportsMovements: true,
+    logicalDay: () => logicalDay(today),
+    windowFor,
+    resolutions: {
+      active(level) {
+        const r = pickActive(snapshot.resolutions, snapshot.resolutionsByLevel.get(level), now)
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
+      pending(level) {
+        const r = pickPending(
+          snapshot.resolutions,
+          snapshot.resolutionReviews,
+          snapshot.resolutionsByLevel.get(level),
+          now,
+        )
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
+    },
   }
 }

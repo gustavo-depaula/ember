@@ -57,3 +57,9 @@ export {
   normalizeDate,
 } from './season'
 export type { ReadingReference } from './types'
+export {
+  logicalDay,
+  type ResolutionLevel,
+  type ResolutionWindow,
+  windowFor,
+} from './windows'

@@ -1,6 +1,6 @@
 # Phase 5 — Periodic Reviews and the Particular Examen
 
-> Status: Design ready. Depends on Phases 3 and 4.
+> **Status:** *Deferred — future work.* None of the four review practices (weekly / monthly / seasonal / annual) or the Particular Examen ship in PR #181. The `'liturgical-event'` schedule rule was also removed. The daily loop (Phase 3) shipped on its own; periodic reviews come back once non-daily resolution windows are designed correctly (post-Pentecost OT requires forward-walk season detection rather than the broken `addDays(start, 100)` shortcut). The design below remains the design-of-record.
 >
 > Predecessors: Phase 4 (Plan of Life). Successors: Phase 6 (Companion Features) is the final speculative phase.
 

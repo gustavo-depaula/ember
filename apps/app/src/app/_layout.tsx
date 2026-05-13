@@ -44,6 +44,7 @@ import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
 import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
 import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
 import { installCreatorPinning } from '@/features/creators/pinning/install'
+import { useExpirySweep } from '@/features/movements'
 import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
@@ -89,6 +90,7 @@ function CrossTabSync() {
 
 export default function RootLayout() {
   useKeepAwake()
+  useExpirySweep()
 
   const [fontsLoaded] = useFonts({
     Cinzel_400Regular,

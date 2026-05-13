@@ -7,6 +7,7 @@ import {
   Flame,
   Heart,
   Key,
+  type LucideIcon,
   Sparkles,
   Sunrise,
 } from 'lucide-react-native'
@@ -28,13 +29,12 @@ const filters: Filter[] = ['all', 'prayers', 'intentions', 'gratitudes']
 
 function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
   if (filter === 'all') return true
-  if (filter === 'prayers')
-    return (
-      entry.kind === 'completion' || entry.kind === 'day-offered' || entry.kind === 'confession'
-    )
-  if (filter === 'intentions')
-    return entry.kind === 'intention-added' || entry.kind === 'intention-answered'
-  return entry.kind === 'gratitude'
+  const kinds: Record<Exclude<Filter, 'all'>, ReadonlySet<MemoriaEntry['kind']>> = {
+    prayers: new Set(['completion', 'day-offered', 'confession']),
+    intentions: new Set(['intention-raised', 'intention-closed']),
+    gratitudes: new Set(['thanksgiving']),
+  }
+  return kinds[filter].has(entry.kind)
 }
 
 export default function MemoriaScreen() {
@@ -290,33 +290,36 @@ function OnThisDayRow({
 }
 
 function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNode {
-  if (kind === 'completion') return <Check size={14} color={color} />
-  if (kind === 'intention-added') return <Heart size={14} color={color} />
-  if (kind === 'gratitude') return <Flame size={14} color={color} />
-  if (kind === 'day-offered') return <Sunrise size={14} color={color} />
-  if (kind === 'confession') return <Key size={14} color={color} />
-  return <Sparkles size={14} color={color} fill={color} />
+  const icons: Record<MemoriaEntry['kind'], LucideIcon> = {
+    completion: Check,
+    'intention-raised': Heart,
+    'intention-closed': Sparkles,
+    thanksgiving: Flame,
+    'day-offered': Sunrise,
+    confession: Key,
+  }
+  const Icon = icons[kind]
+  const fill = kind === 'intention-closed' ? color : undefined
+  return <Icon size={14} color={color} fill={fill} />
 }
 
 function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>['t']): string {
-  if (entry.kind === 'completion') {
-    return t('memoria.completion', {
-      name: getPracticeDisplayName(entry.completion.practice_id),
-    })
+  switch (entry.kind) {
+    case 'completion':
+      return t('memoria.completion', {
+        name: getPracticeDisplayName(entry.completion.practice_id),
+      })
+    case 'intention-raised':
+      return t('memoria.intentionOffered', { text: entry.movement.text })
+    case 'intention-closed':
+      return t('memoria.intentionAnswered', { text: entry.movement.text })
+    case 'thanksgiving':
+      return t('memoria.gratitude', { text: entry.movement.text })
+    case 'day-offered':
+      return t('memoria.dayOffered')
+    case 'confession':
+      return t('memoria.confession')
   }
-  if (entry.kind === 'intention-added') {
-    return t('memoria.intentionOffered', { text: entry.intention.text })
-  }
-  if (entry.kind === 'gratitude') {
-    return t('memoria.gratitude', { text: entry.gratitude.text })
-  }
-  if (entry.kind === 'day-offered') {
-    return t('memoria.dayOffered')
-  }
-  if (entry.kind === 'confession') {
-    return t('memoria.confession')
-  }
-  return t('memoria.intentionAnswered', { text: entry.intention.text })
 }
 
 function getPracticeDisplayName(practiceId: string): string {

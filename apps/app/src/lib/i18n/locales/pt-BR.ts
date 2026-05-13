@@ -221,24 +221,108 @@ export default {
 
   intentions: {
     title: 'Inten\u00e7\u00f5es',
-    subtitle: 'Apresente-as na ora\u00e7\u00e3o. Registre como Deus respondeu.',
-    placeholder: 'Escreva uma inten\u00e7\u00e3o\u2026',
-    add: 'Adicionar',
+    subtitle: 'Apresente-as na ora\u00e7\u00e3o. Carregue-as ao longo do dia.',
     homeTagline: 'Leve suas inten\u00e7\u00f5es \u00e0 ora\u00e7\u00e3o',
-    homeOpenCount_one: '{{count}} inten\u00e7\u00e3o em aberto',
-    homeOpenCount_other: '{{count}} inten\u00e7\u00f5es em aberto',
-    openHeading_one: '{{count}} em aberto',
-    openHeading_other: '{{count}} em aberto',
-    answeredHeading_one: '{{count}} atendida',
-    answeredHeading_other: '{{count}} atendidas',
-    noOpen: 'Todas as inten\u00e7\u00f5es foram atendidas. Gl\u00f3ria a Deus.',
-    emptyState:
-      'Ainda sem inten\u00e7\u00f5es. Eleve uma \u2014 uma pessoa, uma necessidade, uma a\u00e7\u00e3o de gra\u00e7as \u2014 e registre como Deus age.',
-    markAnswered: 'Atendida',
-    markUnanswered: 'Marcar como n\u00e3o atendida',
-    show: 'Mostrar',
-    hide: 'Esconder',
-    confirmDeleteTitle: 'Remover esta inten\u00e7\u00e3o?',
+    homeOpenCount_one: '{{count}} inten\u00e7\u00e3o ativa',
+    homeOpenCount_other: '{{count}} inten\u00e7\u00f5es ativas',
+  },
+
+  movements: {
+    cadence: {
+      label: 'Cad\u00eancia',
+      perpetual: 'Perp\u00e9tua',
+      goal: 'Pedido',
+      bounded: 'Por per\u00edodo',
+      hint: {
+        perpetual:
+          'Carregada continuamente. Sem fim, sem resolu\u00e7\u00e3o \u2014 apenas ora\u00e7\u00e3o.',
+        goal: 'Um pedido espec\u00edfico. Marque como atendida quando Deus responder.',
+        bounded:
+          'Ativa durante um per\u00edodo \u2014 uma novena, um tempo lit\u00fargico \u2014 e depois encerra.',
+      },
+    },
+    subject: {
+      label: 'Sujeito',
+      placeholder: 'Por quem ou para quem (opcional)',
+      addLabel: 'Adicionar sujeito',
+      editLabel: 'Sujeito',
+      useRecent: 'Usar {{subject}}',
+    },
+    capture: {
+      intentionPrompt: 'Eleve uma inten\u00e7\u00e3o',
+      thanksgivingPrompt: 'Registre uma gra\u00e7a recebida',
+      intentionPlaceholder: 'Por quem ou pelo qu\u00ea\u2026',
+      thanksgivingPlaceholder: 'Uma gra\u00e7a, uma pessoa, uma provid\u00eancia\u2026',
+      raise: 'Elevar',
+      offer: 'Registrar',
+      boundedUntil: 'Ativa at\u00e9',
+    },
+    actions: {
+      markAnswered: 'Marcar atendida',
+      answered: 'Atendida',
+      retire: 'Encerrar',
+      removeThanksgiving: 'Remover',
+      pinToPractice: 'Fixar em prática…',
+    },
+    pinPractice: {
+      title: 'Fixar em práticas',
+      subtitle: 'Esta intenção será pré-selecionada ao rezar estas práticas.',
+      empty: 'Nenhuma prática ainda.',
+    },
+    picker: {
+      title: 'Leve à oração',
+      subtitle: 'Escolha o que oferecer nesta oração.',
+      intentions: 'Intenções',
+      thanksgivings: 'Graças',
+      intentionsEmpty: 'Nenhuma intenção ativa.',
+      thanksgivingsEmpty: 'Nenhuma graça registrada ainda.',
+      confirm: 'Continuar',
+      pin: 'Fixar nesta prática',
+      unpin: 'Desafixar desta prática',
+    },
+    offering: {
+      empty: 'Nada para levar à oração ainda — registre abaixo.',
+      summary_one: 'Oferecendo {{count}} intenção',
+      summary_other: 'Oferecendo {{count}} intenções',
+      summaryEmpty: 'Oferecendo esta oração.',
+      add: {
+        intention: 'Registrar intenção',
+        thanksgiving: 'Registrar graça',
+      },
+    },
+    closure: {
+      answered: 'Atendida',
+      expired: 'Per\u00edodo encerrado',
+      retired: 'Encerrada',
+    },
+    confirm: {
+      retireTitle: 'Encerrar esta inten\u00e7\u00e3o?',
+    },
+    bridge: {
+      title: 'Registrar como a\u00e7\u00e3o de gra\u00e7as?',
+      description:
+        'Sua ora\u00e7\u00e3o por "{{text}}" foi atendida. Deseja registrar como uma gra\u00e7a recebida?',
+      confirm: 'Registrar gra\u00e7a',
+      thanksgivingPrefill: 'Por "{{text}}" \u2014 atendida',
+    },
+    heading: {
+      intention: {
+        active_one: '{{count}} ativa',
+        active_other: '{{count}} ativas',
+        closed_one: '{{count}} encerrada',
+        closed_other: '{{count}} encerradas',
+      },
+      thanksgiving: {
+        active_one: '{{count}} gra\u00e7a',
+        active_other: '{{count}} gra\u00e7as',
+      },
+    },
+    empty: {
+      intention:
+        'Ainda sem inten\u00e7\u00f5es. Eleve uma \u2014 uma pessoa, uma necessidade, uma esperan\u00e7a \u2014 e deixe a ora\u00e7\u00e3o carreg\u00e1-la.',
+      thanksgiving:
+        'Cada dia est\u00e1 cheio de pequenas miseric\u00f3rdias. Registre uma agora \u2014 uma pessoa, uma provid\u00eancia, uma beleza \u2014 e aprenda a v\u00ea-las.',
+    },
   },
 
   memoria: {
@@ -272,6 +356,47 @@ export default {
     a11yOfferThisDay: 'Oferecer este dia ao Senhor',
     offeredAt: 'Oferecido \u00e0s {{time}}',
     memoria: 'Ofereceu este dia ao Senhor',
+  },
+
+  resolutions: {
+    scope: {
+      daily: 'Hoje',
+    },
+    capture: {
+      placeholder: 'Uma resolu\u00e7\u00e3o concreta\u2026',
+      save: 'Definir',
+      recorded: 'Resolu\u00e7\u00e3o definida.',
+    },
+    review: {
+      outcome: {
+        kept: 'Cumprida',
+        partial: 'Parcial',
+        broken: 'Quebrada',
+      },
+      recorded: {
+        kept: 'Cumprida. Gl\u00f3ria a Deus.',
+        partial: 'Parcial \u2014 e isso \u00e9 honesto.',
+        broken: 'Anotado. Amanh\u00e3 h\u00e1 miseric\u00f3rdia.',
+      },
+      notesPlaceholder: 'Notas (opcional)',
+      title: {
+        review: 'Revisar resolu\u00e7\u00e3o',
+        checkin: 'Check-in',
+        show: 'Resolu\u00e7\u00e3o de hoje',
+      },
+      prompt: {
+        review: 'Como foi?',
+        checkin: 'Como est\u00e1 indo at\u00e9 agora?',
+        show: '',
+      },
+    },
+    panel: {
+      title: 'Resolu\u00e7\u00f5es',
+      todayHeading: 'Hoje',
+      todayEmpty:
+        'Nenhuma resolu\u00e7\u00e3o di\u00e1ria \u2014 escreva uma no Exame desta noite.',
+      nextReview: 'Pr\u00f3xima revis\u00e3o: {{practice}} em {{date}}',
+    },
   },
 
   confessio: {
@@ -346,15 +471,10 @@ export default {
 
   gratias: {
     title: 'Deo Gratias',
-    subtitle: 'Um exame inaciano, uma gra\u00e7a de cada vez.',
-    placeholder: 'Nomeie uma gra\u00e7a recebida hoje\u2026',
-    add: 'Registrar',
+    subtitle: 'Conte as gra\u00e7as deste dia, uma de cada vez.',
     homeTagline: 'Conte as gra\u00e7as deste dia',
     homeCount_one: '{{count}} gra\u00e7a registrada',
     homeCount_other: '{{count}} gra\u00e7as registradas',
-    emptyState:
-      'Cada dia \u00e9 cheio de pequenas misericórdias. Registre uma agora \u2014 uma pessoa, uma provid\u00eancia, uma beleza \u2014 e aprenda a enxerg\u00e1-las.',
-    confirmDeleteTitle: 'Remover este agradecimento?',
   },
 
   diesDomini: {
@@ -1045,6 +1165,12 @@ export default {
     cancel: 'Cancelar',
     confirm: 'Confirmar',
     remove: 'Remover',
+    add: 'Adicionar',
+    show: 'Mostrar',
+    hide: 'Esconder',
+    skip: 'Pular',
+    done: 'Concluir',
+    notNow: 'Agora não',
     justNow: 'agora mesmo',
     aMomentAgo: 'há um instante',
     couldntLoad: 'Não foi possível carregar este texto.',

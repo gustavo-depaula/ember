@@ -219,24 +219,106 @@ export default {
 
   intentions: {
     title: 'Intentions',
-    subtitle: 'Present them in prayer. Record how God answered.',
-    placeholder: 'Write an intention…',
-    add: 'Add',
+    subtitle: 'Present them in prayer. Carry them through the day.',
     homeTagline: 'Bring your intentions to prayer',
-    homeOpenCount_one: '{{count}} open intention',
-    homeOpenCount_other: '{{count}} open intentions',
-    openHeading_one: '{{count}} open',
-    openHeading_other: '{{count}} open',
-    answeredHeading_one: '{{count}} answered',
-    answeredHeading_other: '{{count}} answered',
-    noOpen: 'All present intentions answered. Glory to God.',
-    emptyState:
-      'No intentions yet. Lift one up — a person, a need, a thanksgiving — and record how God moves.',
-    markAnswered: 'Answered',
-    markUnanswered: 'Mark unanswered',
-    show: 'Show',
-    hide: 'Hide',
-    confirmDeleteTitle: 'Remove this intention?',
+    homeOpenCount_one: '{{count}} active intention',
+    homeOpenCount_other: '{{count}} active intentions',
+  },
+
+  movements: {
+    cadence: {
+      label: 'Cadence',
+      perpetual: 'Perpetual',
+      goal: 'Goal',
+      bounded: 'Bounded',
+      hint: {
+        perpetual: 'Carried indefinitely. No end, no resolution — only prayer.',
+        goal: 'A specific ask. Mark it answered when God responds.',
+        bounded: 'Active during a window — a novena, a season — then closes.',
+      },
+    },
+    subject: {
+      label: 'Subject',
+      placeholder: 'A person or a group (optional)',
+      addLabel: 'Add subject',
+      editLabel: 'Subject',
+      useRecent: 'Use {{subject}}',
+    },
+    capture: {
+      intentionPrompt: 'Lift up an intention',
+      thanksgivingPrompt: 'Record a grace received',
+      intentionPlaceholder: 'For whom, or for what…',
+      thanksgivingPlaceholder: 'A grace, a person, a providence…',
+      raise: 'Raise',
+      offer: 'Record',
+      boundedUntil: 'Active until',
+    },
+    actions: {
+      markAnswered: 'Mark answered',
+      answered: 'Answered',
+      retire: 'Retire',
+      removeThanksgiving: 'Remove',
+      pinToPractice: 'Pin to practice…',
+    },
+    pinPractice: {
+      title: 'Pin to practices',
+      subtitle: 'This intention will be pre-selected when you pray these practices.',
+      empty: 'No practices yet.',
+    },
+    picker: {
+      title: 'Carry these in prayer',
+      subtitle: 'Choose what to offer in this prayer.',
+      intentions: 'Intentions',
+      thanksgivings: 'Graces',
+      intentionsEmpty: 'No active intentions.',
+      thanksgivingsEmpty: 'No graces recorded yet.',
+      confirm: 'Continue',
+      pin: 'Pin to this practice',
+      unpin: 'Unpin from this practice',
+    },
+    offering: {
+      empty: 'Nothing to carry yet — capture one below.',
+      summary_one: 'Offering {{count}} intention',
+      summary_other: 'Offering {{count}} intentions',
+      summaryEmpty: 'Offering this prayer.',
+      add: {
+        intention: 'Add intention',
+        thanksgiving: 'Add grace',
+      },
+    },
+    closure: {
+      answered: 'Answered',
+      expired: 'Window ended',
+      retired: 'Retired',
+    },
+    confirm: {
+      retireTitle: 'Retire this intention?',
+    },
+    bridge: {
+      title: 'Record this as thanksgiving?',
+      description:
+        'Your prayer for "{{text}}" was answered. Would you like to record it as a grace?',
+      confirm: 'Record gratitude',
+      thanksgivingPrefill: 'For "{{text}}" — answered',
+    },
+    heading: {
+      intention: {
+        active_one: '{{count}} active',
+        active_other: '{{count}} active',
+        closed_one: '{{count}} closed',
+        closed_other: '{{count}} closed',
+      },
+      thanksgiving: {
+        active_one: '{{count}} grace',
+        active_other: '{{count}} graces',
+      },
+    },
+    empty: {
+      intention:
+        'No intentions yet. Lift one up — a person, a need, a hope — and let prayer carry it.',
+      thanksgiving:
+        'Every day is full of small mercies. Record one now — a person, a providence, a beauty — and learn to see.',
+    },
   },
 
   memoria: {
@@ -270,6 +352,46 @@ export default {
     a11yOfferThisDay: 'Offer this day to the Lord',
     offeredAt: 'Offered at {{time}}',
     memoria: 'Offered this day to the Lord',
+  },
+
+  resolutions: {
+    scope: {
+      daily: 'Today',
+    },
+    capture: {
+      placeholder: 'A concrete resolution…',
+      save: 'Set',
+      recorded: 'Resolution set.',
+    },
+    review: {
+      outcome: {
+        kept: 'Kept',
+        partial: 'Partial',
+        broken: 'Broken',
+      },
+      recorded: {
+        kept: 'Kept it. Glory to God.',
+        partial: 'Partial — and that is honest.',
+        broken: 'Noted. Tomorrow is mercy.',
+      },
+      notesPlaceholder: 'Notes (optional)',
+      title: {
+        review: 'Review resolution',
+        checkin: 'Check in',
+        show: 'Today’s resolution',
+      },
+      prompt: {
+        review: 'How did it go?',
+        checkin: 'How is it going so far?',
+        show: '',
+      },
+    },
+    panel: {
+      title: 'Resolutions',
+      todayHeading: 'Today',
+      todayEmpty: 'No daily resolution yet — write one in tonight’s Examen.',
+      nextReview: 'Next review: {{practice}} on {{date}}',
+    },
   },
 
   confessio: {
@@ -344,15 +466,10 @@ export default {
 
   gratias: {
     title: 'Deo Gratias',
-    subtitle: 'A Jesuit examen, one graced moment at a time.',
-    placeholder: 'Name a grace received today…',
-    add: 'Record',
+    subtitle: 'Count the graces of this day, one at a time.',
     homeTagline: 'Count the graces of this day',
     homeCount_one: '{{count}} grace recorded',
     homeCount_other: '{{count}} graces recorded',
-    emptyState:
-      'Every day is full of small mercies. Record one now — a person, a providence, a beauty — and learn to see.',
-    confirmDeleteTitle: 'Remove this gratitude?',
   },
 
   diesDomini: {
@@ -1042,6 +1159,12 @@ export default {
     cancel: 'Cancel',
     confirm: 'Confirm',
     remove: 'Remove',
+    add: 'Add',
+    show: 'Show',
+    hide: 'Hide',
+    skip: 'Skip',
+    done: 'Done',
+    notNow: 'Not now',
     justNow: 'just now',
     aMomentAgo: 'a moment ago',
     couldntLoad: 'Couldn\u2019t load this text.',

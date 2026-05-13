@@ -239,6 +239,38 @@ export type FlowSection = { lang?: string } & (
       cycleFrom?: string
     }
   | {
+      type: 'offering'
+      mode: 'intercessory' | 'thanksgiving' | 'both'
+      default?: 'pinned' | 'all-active' | 'user-pick'
+      show?: 'list' | 'count' | 'silent'
+      label?: LocalizedText
+      scope?: 'practice' | 'section'
+    }
+  | {
+      type: 'capture-movement'
+      kind: 'intention' | 'thanksgiving'
+      prompt: LocalizedText
+      multi?: boolean
+      optional?: boolean
+      defaults?: { cadence?: 'perpetual' | 'goal' | 'bounded' }
+    }
+  | {
+      type: 'capture-resolution'
+      level: 'daily'
+      for?: 'current' | 'next'
+      prompt: LocalizedText
+      optional?: boolean
+    }
+  | {
+      type: 'review-resolution'
+      mode?: 'review' | 'checkin' | 'show'
+      target: 'active-daily' | 'pending-daily'
+      prompt?: LocalizedText
+      outcomes?: Array<'kept' | 'partial' | 'broken'>
+      allow_notes?: boolean
+      skip_if_none?: boolean
+    }
+  | {
       // Per-slot picker over a celebration's primary + alternates formularies.
       // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
       // filters out empty slots, renders a chip toggle + the selected source's
@@ -351,6 +383,43 @@ export type RenderedSection =
       title?: BilingualText
       attribution?: BilingualText
       prayer?: BilingualText
+    }
+  | {
+      type: 'rendered-offering'
+      mode: 'intercessory' | 'thanksgiving' | 'both'
+      default: 'pinned' | 'all-active' | 'user-pick'
+      show: 'list' | 'count' | 'silent'
+      label?: BilingualText
+    }
+  | {
+      type: 'rendered-capture-movement'
+      kind: 'intention' | 'thanksgiving'
+      prompt: BilingualText
+      multi: boolean
+      optional: boolean
+      defaultCadence?: 'perpetual' | 'goal' | 'bounded'
+    }
+  | {
+      type: 'rendered-capture-resolution'
+      level: 'daily'
+      forward: 'current' | 'next'
+      prompt: BilingualText
+      window: { starts_at: number; ends_at: number }
+      prefill?: { resolution_id: string; text: string }
+      optional: boolean
+    }
+  | {
+      type: 'rendered-review-resolution'
+      mode: 'review' | 'checkin' | 'show'
+      target: 'active-daily' | 'pending-daily'
+      resolution?: {
+        id: string
+        text: string
+        level: 'daily'
+      }
+      prompt?: BilingualText
+      outcomes: Array<'kept' | 'partial' | 'broken'>
+      allow_notes: boolean
     }
   | {
       // Per-slot picker rendered as a chip toggle + the selected source's typed

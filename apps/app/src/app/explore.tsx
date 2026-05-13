@@ -49,7 +49,12 @@ export default function ExploreScreen() {
             leading={<Compass size={22} color={theme.accent?.val} />}
             title={t('examen.title')}
             tagline={t('examen.homeTagline')}
-            onPress={() => router.push('/examen')}
+            onPress={() =>
+              router.push({
+                pathname: '/pray/[practiceId]',
+                params: { practiceId: 'examination-of-conscience' },
+              })
+            }
           />
         </YStack>
 

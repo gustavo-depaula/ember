@@ -1,6 +1,6 @@
 import type { WritableDraft } from 'immer'
 
-import type { EventStoreState, SlotState } from './state'
+import type { EventStoreState, Movement, Resolution, ResolutionReview, SlotState } from './state'
 import type { AppEvent } from './types'
 
 export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEvent): void {
@@ -196,59 +196,172 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
-    // --- Intention events ---
+    // --- Movement events: intentions ---
 
-    case 'IntentionAdded': {
-      draft.intentions.set(event.intentionId, {
-        id: event.intentionId,
+    case 'IntentionRaised': {
+      if (draft.movements.has(event.id)) break
+      const m: Movement = {
+        id: event.id,
+        kind: 'intention',
         text: event.text,
-        created_at: event.createdAt,
-        answered_at: null,
-        notes: null,
-      })
-      if (event.intentionId >= draft.nextIntentionId) {
-        draft.nextIntentionId = event.intentionId + 1
+        subject: event.subject,
+        cadence: event.cadence,
+        bounded_until: event.bounded_until,
+        state: 'active',
+        recorded_at: event.raised_at,
       }
+      draft.movements.set(event.id, m)
+      addToIndex(draft.movementsByKind, 'intention', event.id)
+      addToIndex(draft.movementsByState, 'active', event.id)
       break
     }
 
     case 'IntentionUpdated': {
-      const intention = draft.intentions.get(event.intentionId)
-      if (!intention) break
-      if (event.text !== undefined) intention.text = event.text
-      if (event.notes !== undefined) intention.notes = event.notes
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'intention') break
+      if (event.text !== undefined) m.text = event.text
+      if (event.subject !== undefined) m.subject = event.subject ?? undefined
+      if (event.cadence !== undefined) m.cadence = event.cadence
+      if (event.bounded_until !== undefined) m.bounded_until = event.bounded_until ?? undefined
       break
     }
 
     case 'IntentionAnswered': {
-      const intention = draft.intentions.get(event.intentionId)
-      if (!intention) break
-      intention.answered_at = event.answeredAt
-      if (event.notes !== undefined) intention.notes = event.notes
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'intention' || m.state === 'closed') break
+      m.state = 'closed'
+      m.closure_kind = 'answered'
+      m.closed_at = event.answered_at
+      if (event.notes !== undefined) m.notes = event.notes
+      moveBetweenIndex(draft.movementsByState, event.id, 'active', 'closed')
       break
     }
 
-    case 'IntentionRemoved': {
-      draft.intentions.delete(event.intentionId)
+    case 'IntentionExpired': {
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'intention' || m.state === 'closed') break
+      m.state = 'closed'
+      m.closure_kind = 'expired'
+      m.closed_at = event.expired_at
+      moveBetweenIndex(draft.movementsByState, event.id, 'active', 'closed')
       break
     }
 
-    // --- Gratitude events ---
+    case 'IntentionRetired': {
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'intention' || m.state === 'closed') break
+      m.state = 'closed'
+      m.closure_kind = 'retired'
+      m.closed_at = event.retired_at
+      moveBetweenIndex(draft.movementsByState, event.id, 'active', 'closed')
+      break
+    }
 
-    case 'GratitudeRecorded': {
-      draft.gratitudes.set(event.gratitudeId, {
-        id: event.gratitudeId,
+    // --- Movement events: thanksgivings ---
+
+    case 'ThanksgivingOffered': {
+      if (draft.movements.has(event.id)) break
+      const m: Movement = {
+        id: event.id,
+        kind: 'thanksgiving',
         text: event.text,
-        recorded_at: event.recordedAt,
-      })
-      if (event.gratitudeId >= draft.nextGratitudeId) {
-        draft.nextGratitudeId = event.gratitudeId + 1
+        subject: event.subject,
+        state: 'active',
+        recorded_at: event.offered_at,
+        from_intention: event.from_intention,
       }
+      draft.movements.set(event.id, m)
+      addToIndex(draft.movementsByKind, 'thanksgiving', event.id)
+      addToIndex(draft.movementsByState, 'active', event.id)
       break
     }
 
-    case 'GratitudeRemoved': {
-      draft.gratitudes.delete(event.gratitudeId)
+    case 'ThanksgivingUpdated': {
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'thanksgiving') break
+      if (event.text !== undefined) m.text = event.text
+      if (event.subject !== undefined) m.subject = event.subject ?? undefined
+      break
+    }
+
+    case 'ThanksgivingRetired': {
+      const m = draft.movements.get(event.id)
+      if (!m || m.kind !== 'thanksgiving' || m.state === 'closed') break
+      m.state = 'closed'
+      m.closure_kind = 'retired'
+      m.closed_at = event.retired_at
+      moveBetweenIndex(draft.movementsByState, event.id, 'active', 'closed')
+      break
+    }
+
+    case 'MovementPinned': {
+      let set = draft.pins.get(event.practice_id)
+      if (!set) {
+        set = new Set()
+        draft.pins.set(event.practice_id, set)
+      }
+      set.add(event.movement_id)
+      break
+    }
+
+    case 'MovementUnpinned': {
+      const set = draft.pins.get(event.practice_id)
+      if (!set) break
+      set.delete(event.movement_id)
+      if (set.size === 0) draft.pins.delete(event.practice_id)
+      break
+    }
+
+    // --- Resolution events ---
+
+    case 'ResolutionSet': {
+      if (draft.resolutions.has(event.id)) break
+      const r: Resolution = {
+        id: event.id,
+        text: event.text,
+        level: event.level,
+        virtue: event.virtue,
+        parent_id: event.parent_id,
+        starts_at: event.starts_at,
+        ends_at: event.ends_at,
+        recorded_at: event.recorded_at,
+        source: event.source,
+      }
+      draft.resolutions.set(event.id, r)
+      addToIndex(draft.resolutionsByLevel, event.level, event.id)
+      break
+    }
+
+    case 'ResolutionRevised': {
+      const r = draft.resolutions.get(event.id)
+      if (!r) break
+      if (event.text !== undefined) r.text = event.text
+      if (event.virtue !== undefined) r.virtue = event.virtue ?? undefined
+      if (event.parent_id !== undefined) r.parent_id = event.parent_id ?? undefined
+      break
+    }
+
+    case 'ResolutionCheckin':
+    case 'ResolutionReviewed': {
+      const r = draft.resolutions.get(event.resolution_id)
+      if (!r) break
+      const review: ResolutionReview = {
+        resolution_id: event.resolution_id,
+        kind: event.type === 'ResolutionReviewed' ? 'review' : 'checkin',
+        outcome: event.outcome,
+        notes: event.notes,
+        reviewed_at: event.reviewed_at,
+      }
+      const list = draft.resolutionReviews.get(event.resolution_id) ?? []
+      list.push(review)
+      draft.resolutionReviews.set(event.resolution_id, list)
+      break
+    }
+
+    case 'ResolutionArchived': {
+      const r = draft.resolutions.get(event.id)
+      if (!r) break
+      r.archived_at = event.archived_at
       break
     }
 
@@ -325,4 +438,22 @@ function removeCompletionFromIndexes(
     byPractice.delete(completionId)
     if (byPractice.size === 0) draft.completionsByPractice.delete(practiceId)
   }
+}
+
+function addToIndex<K>(index: Map<K, Set<string>>, key: K, id: string): void {
+  let set = index.get(key)
+  if (!set) {
+    set = new Set()
+    index.set(key, set)
+  }
+  set.add(id)
+}
+
+function moveBetweenIndex<K>(index: Map<K, Set<string>>, id: string, from: K, to: K): void {
+  const fromSet = index.get(from)
+  if (fromSet) {
+    fromSet.delete(id)
+    if (fromSet.size === 0) index.delete(from)
+  }
+  addToIndex(index, to, id)
 }

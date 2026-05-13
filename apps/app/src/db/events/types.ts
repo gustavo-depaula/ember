@@ -141,55 +141,157 @@ type ProgramRestarted = {
 
 export type CursorEvent = CursorSet | CursorAdvanced | CursorIndexSet | ProgramRestarted
 
-// --- Intention events ---
+// --- Movement events (intentions + thanksgivings) ---
 
-type IntentionAdded = {
-  type: 'IntentionAdded'
-  intentionId: number
+export type Cadence = 'perpetual' | 'goal' | 'bounded'
+
+type IntentionRaised = {
+  type: 'IntentionRaised'
+  id: string
   text: string
-  createdAt: number
+  subject?: string
+  cadence: Cadence
+  bounded_until?: number
+  raised_at: number
 }
 
 type IntentionUpdated = {
   type: 'IntentionUpdated'
-  intentionId: number
+  id: string
   text?: string
-  notes?: string | null
+  subject?: string | null
+  cadence?: Cadence
+  bounded_until?: number | null
 }
 
 type IntentionAnswered = {
   type: 'IntentionAnswered'
-  intentionId: number
-  answeredAt: number | null
-  notes?: string | null
+  id: string
+  notes?: string
+  answered_at: number
 }
 
-type IntentionRemoved = {
-  type: 'IntentionRemoved'
-  intentionId: number
+type IntentionExpired = {
+  type: 'IntentionExpired'
+  id: string
+  expired_at: number
 }
 
-export type IntentionEvent =
-  | IntentionAdded
+type IntentionRetired = {
+  type: 'IntentionRetired'
+  id: string
+  retired_at: number
+}
+
+type ThanksgivingOffered = {
+  type: 'ThanksgivingOffered'
+  id: string
+  text: string
+  subject?: string
+  offered_at: number
+  /**
+   * Optional lineage: the intention this thanksgiving was bridged from.
+   * Unvalidated foreign key — a deleted source intention leaves the lineage
+   * dangling. Acceptable for a personal-app event log.
+   */
+  from_intention?: string
+}
+
+type ThanksgivingUpdated = {
+  type: 'ThanksgivingUpdated'
+  id: string
+  text?: string
+  subject?: string | null
+}
+
+type ThanksgivingRetired = {
+  type: 'ThanksgivingRetired'
+  id: string
+  retired_at: number
+}
+
+type MovementPinned = {
+  type: 'MovementPinned'
+  practice_id: string
+  movement_id: string
+  pinned_at: number
+}
+
+type MovementUnpinned = {
+  type: 'MovementUnpinned'
+  practice_id: string
+  movement_id: string
+  unpinned_at: number
+}
+
+export type MovementEvent =
+  | IntentionRaised
   | IntentionUpdated
   | IntentionAnswered
-  | IntentionRemoved
+  | IntentionExpired
+  | IntentionRetired
+  | ThanksgivingOffered
+  | ThanksgivingUpdated
+  | ThanksgivingRetired
+  | MovementPinned
+  | MovementUnpinned
 
-// --- Gratitude events ---
+// --- Resolution events ---
 
-type GratitudeRecorded = {
-  type: 'GratitudeRecorded'
-  gratitudeId: number
+export type ResolutionLevel = 'daily'
+export type ResolutionOutcome = 'kept' | 'partial' | 'broken'
+export type ResolutionSource = 'examen' | 'manual' | 'review'
+
+type ResolutionSet = {
+  type: 'ResolutionSet'
+  id: string
+  level: ResolutionLevel
   text: string
-  recordedAt: number
+  virtue?: string
+  parent_id?: string
+  starts_at: number
+  ends_at: number
+  source: ResolutionSource
+  recorded_at: number
 }
 
-type GratitudeRemoved = {
-  type: 'GratitudeRemoved'
-  gratitudeId: number
+type ResolutionRevised = {
+  type: 'ResolutionRevised'
+  id: string
+  text?: string
+  virtue?: string | null
+  parent_id?: string | null
+  revised_at: number
 }
 
-export type GratitudeEvent = GratitudeRecorded | GratitudeRemoved
+type ResolutionCheckin = {
+  type: 'ResolutionCheckin'
+  resolution_id: string
+  outcome: ResolutionOutcome
+  notes?: string
+  reviewed_at: number
+}
+
+type ResolutionReviewed = {
+  type: 'ResolutionReviewed'
+  resolution_id: string
+  outcome: ResolutionOutcome
+  notes?: string
+  reviewed_at: number
+}
+
+type ResolutionArchived = {
+  type: 'ResolutionArchived'
+  id: string
+  archived_at: number
+}
+
+export type ResolutionEvent =
+  | ResolutionSet
+  | ResolutionRevised
+  | ResolutionCheckin
+  | ResolutionReviewed
+  | ResolutionArchived
 
 // --- Oblatio (daily offering) events ---
 
@@ -228,8 +330,8 @@ export type AppEvent =
   | PracticeEvent
   | CompletionEvent
   | CursorEvent
-  | IntentionEvent
-  | GratitudeEvent
+  | MovementEvent
+  | ResolutionEvent
   | OblatioEvent
   | ConfessioEvent
 
