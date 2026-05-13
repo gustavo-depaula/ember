@@ -15,7 +15,7 @@ import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { CreatorsStorageSection } from '@/features/creators/settings/CreatorsStorageSection'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
-import { isLocalHearth, setLocalHearth } from '@/lib/hearth'
+import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -312,13 +312,14 @@ export default function SettingsScreen() {
 
         {__DEV__ && (
           <YStack gap="$sm">
-            <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md">
+            <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
               <XStack justifyContent="space-between" alignItems="center">
                 <Text fontFamily="$body" fontSize="$2" color="$color">
                   Local Hearth
                 </Text>
                 <LocalHearthToggle />
               </XStack>
+              <HearthCheckRow />
             </YStack>
           </YStack>
         )}
@@ -552,5 +553,78 @@ function LocalHearthToggle() {
         setLocalHearth(value)
       }}
     />
+  )
+}
+
+type HearthCheckResult =
+  | { kind: 'idle' }
+  | { kind: 'pending' }
+  | { kind: 'ok'; url: string; generatedAt?: string; creatorCount: number }
+  | { kind: 'fail'; url: string; message: string }
+
+function HearthCheckRow() {
+  const [result, setResult] = useState<HearthCheckResult>({ kind: 'idle' })
+
+  async function check() {
+    const url = hearthUrl('catalog.json')
+    setResult({ kind: 'pending' })
+    const controller = new AbortController()
+    const timeout = setTimeout(() => controller.abort(), 3000)
+    try {
+      const res = await fetch(url, { signal: controller.signal })
+      if (!res.ok) throw new Error(`HTTP ${res.status}`)
+      const data = (await res.json()) as {
+        generated?: string
+        items?: Record<string, { kind?: string }>
+      }
+      const creatorCount = Object.values(data.items ?? {}).filter(
+        (e) => e.kind === 'creator',
+      ).length
+      setResult({ kind: 'ok', url, generatedAt: data.generated, creatorCount })
+    } catch (err) {
+      setResult({
+        kind: 'fail',
+        url,
+        message: err instanceof Error ? err.message : String(err),
+      })
+    } finally {
+      clearTimeout(timeout)
+    }
+  }
+
+  return (
+    <YStack gap="$xs">
+      <Pressable
+        onPress={check}
+        accessibilityRole="button"
+        accessibilityLabel="Check hearth reachability"
+      >
+        <XStack
+          paddingHorizontal="$md"
+          paddingVertical="$sm"
+          borderRadius="$md"
+          borderWidth={1}
+          borderColor="$borderColor"
+          alignItems="center"
+          justifyContent="center"
+        >
+          <Text fontFamily="$heading" fontSize="$1" color="$accent">
+            {result.kind === 'pending' ? 'Checking…' : 'Check hearth'}
+          </Text>
+        </XStack>
+      </Pressable>
+      {result.kind === 'ok' && (
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          ✅ {result.url} — {result.creatorCount} creator
+          {result.creatorCount === 1 ? '' : 's'}
+          {result.generatedAt ? `, generated ${result.generatedAt}` : ''}
+        </Text>
+      )}
+      {result.kind === 'fail' && (
+        <Text fontFamily="$body" fontSize="$1" color="$colorBurgundy">
+          ❌ {result.url} — {result.message}
+        </Text>
+      )}
+    </YStack>
   )
 }
