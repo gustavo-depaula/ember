@@ -4,13 +4,14 @@ import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PageHeader, PrayerSpinner, ScreenLayout } from '@/components'
+import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import { openExternalUrl } from '@/config/links'
 import { bareId } from '@/content/contentIndex'
 import type { CreatorChannel, CreatorChannelKind } from '@/content/manifestTypes'
 import { loadCreator } from '@/content/resolver'
 import { getFeedItemsByCreator } from '@/db/repositories/feedItems'
 import { FeedItemList } from '@/features/creators/components/FeedItemList'
+import { FeedItemListSkeleton } from '@/features/creators/components/FeedItemListSkeleton'
 import { refreshCreator } from '@/features/creators/feeds/fetcher'
 import { useFollow, useIsFollowed, useUnfollow } from '@/features/creators/hooks'
 import { localizeContent } from '@/lib/i18n'
@@ -177,10 +178,8 @@ export default function CreatorProfile() {
               </Text>
             </YStack>
           )}
-          {isLoading || refreshMut.isPending ? (
-            <YStack alignItems="center" padding="$lg">
-              <PrayerSpinner size={20} />
-            </YStack>
+          {isLoading || (refreshMut.isPending && items.length === 0) ? (
+            <FeedItemListSkeleton count={5} />
           ) : (
             <FeedItemList items={visibleItems} />
           )}
