@@ -122,14 +122,10 @@ export default function CreatorProfile() {
   const name = localizeContent(manifest.name)
 
   return (
-    <ScreenLayout
-      padded={false}
-      refreshing={refreshMut.isPending}
-      onRefresh={handlePullToRefresh}
-    >
+    <ScreenLayout refreshing={refreshMut.isPending} onRefresh={handlePullToRefresh}>
       <YStack paddingTop="$lg" gap="$xl">
         {/* Hero — large square artwork, title, byline, follow */}
-        <YStack alignItems="center" gap="$md" paddingHorizontal="$lg">
+        <YStack alignItems="center" gap="$md">
           <YStack
             width={ARTWORK_SIZE}
             height={ARTWORK_SIZE}
@@ -214,19 +210,13 @@ export default function CreatorProfile() {
         </YStack>
 
         {/* Bio */}
-        <Text
-          fontFamily="$body"
-          fontSize="$2"
-          color="$color"
-          paddingHorizontal="$lg"
-          lineHeight={24}
-        >
+        <Text fontFamily="$body" fontSize="$2" color="$color" lineHeight={24}>
           {localizeContent(manifest.bio)}
         </Text>
 
         {/* Channel tabs */}
         {channelTabs.length > 1 && (
-          <XStack gap="$sm" paddingHorizontal="$lg">
+          <XStack gap="$sm">
             {channelTabs.map((c: CreatorChannel) => {
               const label = t(TAB_LABEL_KEY[c.kind])
               const active = effectiveKind === c.kind
@@ -262,7 +252,7 @@ export default function CreatorProfile() {
 
         {/* YouTube sub-filter */}
         {effectiveKind === 'youtube' && hasShorts && (
-          <XStack gap="$xs" paddingHorizontal="$lg">
+          <XStack gap="$xs">
             {YOUTUBE_SUB_FILTERS.map((f) => {
               const label = t(YOUTUBE_SUB_LABEL_KEY[f])
               const active = ytSubFilter === f
@@ -299,7 +289,6 @@ export default function CreatorProfile() {
         {/* Refresh error */}
         {refreshMut.isError && (
           <YStack
-            marginHorizontal="$lg"
             backgroundColor="$backgroundSurface"
             borderRadius="$md"
             borderWidth={1}
@@ -319,16 +308,14 @@ export default function CreatorProfile() {
 
         {/* Episode list */}
         {isLoading || (refreshMut.isPending && items.length === 0) ? (
-          <YStack paddingHorizontal="$lg">
-            <FeedItemListSkeleton count={5} />
-          </YStack>
+          <FeedItemListSkeleton count={5} />
         ) : (
           <FeedItemList items={visibleItems} />
         )}
 
         {/* Website link footer */}
         {manifest.links?.website && (
-          <YStack alignItems="center" paddingHorizontal="$lg" paddingBottom="$lg">
+          <YStack alignItems="center" paddingBottom="$lg">
             <AnimatedPressable
               onPress={() => openExternalUrl(manifest.links?.website)}
               accessibilityRole="link"

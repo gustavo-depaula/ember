@@ -24,8 +24,20 @@ import { parseYoutubeFeed, type YoutubeDraft } from './youtube'
 const REFRESH_DEBOUNCE_MS = 30 * 60 * 1000
 const KEEP_PER_CREATOR = 200
 
+/** Last *successful* refresh per creator. Failures do not record here, so a
+ *  transient network error doesn't lock the creator out of retries. */
 const lastRefreshedAt = new Map<string, number>()
+/** Currently-running refreshes — prevents the directory's mass-refresh on
+ *  mount from firing the same creator twice if a re-render happens. */
+const inFlight = new Set<string>()
+/** Per-creator channel-level concurrency (used for podcast:chapters fan-out
+ *  inside a single creator). */
 const limiter = createLimiter(4)
+/** Cross-creator concurrency. 20 simultaneous refreshes from the directory
+ *  mount overwhelmed some podcast hosts (Anchor/Podbean/Fireside) which then
+ *  threw, leaving the creator debounce-locked. Capping refreshCreator()
+ *  itself keeps the system polite. */
+const creatorLimiter = createLimiter(4)
 
 let postRefresh: ((creatorId: string) => Promise<void>) | undefined
 
@@ -103,23 +115,35 @@ export async function fetchCreatorDrafts(
 }
 
 export async function refreshCreator(creatorId: string, opts: RefreshOptions = {}): Promise<void> {
-  const now = Date.now()
+  // Dedupe overlapping calls — the directory's mass-refresh + a profile
+  // mount can fire the same creator twice in quick succession.
+  if (inFlight.has(creatorId)) return
   if (!opts.force) {
     const last = lastRefreshedAt.get(creatorId)
-    if (last !== undefined && now - last < REFRESH_DEBOUNCE_MS) return
+    if (last !== undefined && Date.now() - last < REFRESH_DEBOUNCE_MS) return
   }
-  lastRefreshedAt.set(creatorId, now)
   const manifest = loadCreator(creatorId)
   if (!manifest) return
-  const { items, channelImage } = await fetchCreatorDrafts(manifest, opts)
-  if (items.length > 0) {
-    await upsertFeedItems(items)
-    await pruneOlderThan(creatorId, KEEP_PER_CREATOR)
+  inFlight.add(creatorId)
+  try {
+    await creatorLimiter(async () => {
+      const { items, channelImage } = await fetchCreatorDrafts(manifest, opts)
+      if (items.length > 0) {
+        await upsertFeedItems(items)
+        await pruneOlderThan(creatorId, KEEP_PER_CREATOR)
+      }
+      if (channelImage) {
+        await setCreatorImage(creatorId, channelImage)
+      }
+      // Only mark a successful refresh — a thrown fetch leaves the debounce
+      // open so the next attempt can retry, instead of permanently locking
+      // the creator out for 30 minutes after a transient blip.
+      lastRefreshedAt.set(creatorId, Date.now())
+    })
+    if (postRefresh) await postRefresh(creatorId)
+  } finally {
+    inFlight.delete(creatorId)
   }
-  if (channelImage) {
-    await setCreatorImage(creatorId, channelImage)
-  }
-  if (postRefresh) await postRefresh(creatorId)
 }
 
 export async function refreshAllFollowed(

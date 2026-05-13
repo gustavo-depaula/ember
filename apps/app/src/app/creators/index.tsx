@@ -26,11 +26,13 @@ const SECTION_LABEL_KEY: Record<CreatorLanguage, string> = {
   la: 'creators.section.latin',
 }
 
+// Pixel values. ScreenLayout's `padded={true}` (default) applies `$lg` (24pt)
+// horizontal padding to the page; carousels use `marginHorizontal={-PAGE_PAD}`
+// to extend back to the screen edge so the last card "peeks" past the right
+// edge, matching the Apple/Spotify horizontal-scroller affordance.
+const PAGE_PAD = 24
 const CARD_SIZE = 150
-const GRID_PAGE_PAD = 24
 const GRID_GAP = 16
-// Max width matches the ScreenLayout container so the grid lays out the same
-// on phones, foldables, and the centered content column on web/tablets.
 const GRID_MAX_WIDTH = 640
 
 function FilterPill({
@@ -84,7 +86,7 @@ export default function CreatorsDirectory() {
   const { width: screenWidth } = useWindowDimensions()
   const gridCardSize = useMemo(() => {
     const effectiveWidth = Math.min(screenWidth, GRID_MAX_WIDTH)
-    return Math.floor((effectiveWidth - 2 * GRID_PAGE_PAD - GRID_GAP) / 2)
+    return Math.floor((effectiveWidth - 2 * PAGE_PAD - GRID_GAP) / 2)
   }, [screenWidth])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as the catalog warms.
@@ -93,8 +95,6 @@ export default function CreatorsDirectory() {
     [catalogVersion],
   )
 
-  // Warm channel metadata + feed items on first visit so all avatars + Latest
-  // populate without requiring the user to open each profile.
   useEffect(() => {
     for (const { id } of allRows) {
       void refreshCreator(id).catch(() => {})
@@ -114,11 +114,17 @@ export default function CreatorsDirectory() {
 
   const totalVisible = sections.reduce((n, s) => n + s.rows.length, 0)
 
+  // Style objects for the ScrollViews that need to bleed past the page's
+  // horizontal padding: negative margin = the page padding, content
+  // container then pads back in so the first item is properly inset.
+  const bleedScroll = { marginHorizontal: -PAGE_PAD }
+  const bleedContent = (gap: number) => ({ paddingHorizontal: PAGE_PAD, gap })
+
   return (
-    <ScreenLayout padded={false}>
-      <YStack paddingTop="$lg" gap="$xl" paddingBottom="$xl">
+    <ScreenLayout>
+      <YStack paddingVertical="$lg" gap="$xl">
         {/* Header */}
-        <YStack paddingHorizontal="$lg" gap="$xs">
+        <YStack gap="$xs">
           <Text fontFamily="$display" fontSize="$5" color="$color">
             {t('creators.title')}
           </Text>
@@ -127,11 +133,12 @@ export default function CreatorsDirectory() {
           </Text>
         </YStack>
 
-        {/* Language filter pills */}
+        {/* Language filter pills — also bleeds so chips align with carousels */}
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
-          contentContainerStyle={{ paddingHorizontal: 24, gap: 8 }}
+          style={bleedScroll}
+          contentContainerStyle={bleedContent(8)}
         >
           {LANG_FILTERS.map((code) => (
             <FilterPill
@@ -143,11 +150,7 @@ export default function CreatorsDirectory() {
           ))}
         </ScrollView>
 
-        {/* Sections: when 'all' is selected we show horizontal carousels per
-            language (good for at-a-glance browsing across languages); when a
-            specific language is selected we flatten into a 2-column vertical
-            grid (lets the user actually browse every creator in that
-            language without horizontal scrubbing). */}
+        {/* Sections */}
         {totalVisible === 0 ? (
           <YStack alignItems="center" padding="$xl">
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
@@ -157,7 +160,7 @@ export default function CreatorsDirectory() {
         ) : filter === 'all' ? (
           sections.map((section) => (
             <YStack key={section.lang} gap="$md">
-              <XStack paddingHorizontal="$lg" alignItems="baseline" justifyContent="space-between">
+              <XStack alignItems="baseline" justifyContent="space-between">
                 <Text fontFamily="$display" fontSize="$3" color="$color">
                   {t(SECTION_LABEL_KEY[section.lang])}
                 </Text>
@@ -168,7 +171,8 @@ export default function CreatorsDirectory() {
               <ScrollView
                 horizontal
                 showsHorizontalScrollIndicator={false}
-                contentContainerStyle={{ paddingHorizontal: 24, gap: 14 }}
+                style={bleedScroll}
+                contentContainerStyle={bleedContent(14)}
               >
                 {section.rows.map((row) => (
                   <CreatorGridCard key={row.id} creatorId={row.id} size={CARD_SIZE} />
@@ -177,19 +181,17 @@ export default function CreatorsDirectory() {
             </YStack>
           ))
         ) : (
-          <YStack paddingHorizontal="$lg">
-            <XStack flexWrap="wrap" gap={GRID_GAP} rowGap="$lg">
-              {sections
-                .flatMap((s) => s.rows)
-                .map((row) => (
-                  <CreatorGridCard key={row.id} creatorId={row.id} size={gridCardSize} />
-                ))}
-            </XStack>
-          </YStack>
+          <XStack flexWrap="wrap" gap={GRID_GAP} rowGap="$lg">
+            {sections
+              .flatMap((s) => s.rows)
+              .map((row) => (
+                <CreatorGridCard key={row.id} creatorId={row.id} size={gridCardSize} />
+              ))}
+          </XStack>
         )}
 
         {/* Suggest a creator */}
-        <YStack paddingHorizontal="$lg" paddingTop="$md">
+        <YStack paddingTop="$md">
           <AnimatedPressable
             onPress={() => openExternalUrl(SUGGEST_CREATOR_URL)}
             accessibilityRole="link"

@@ -97,12 +97,7 @@ function PlayPill({ item, onPress }: { item: FeedItemRow; onPress: () => void })
       >
         <Play size={13} color="white" fill="white" />
         {dur && (
-          <Text
-            fontFamily="$heading"
-            fontSize={12}
-            color="white"
-            letterSpacing={0.5}
-          >
+          <Text fontFamily="$heading" fontSize={12} color="white" letterSpacing={0.5}>
             {dur}
           </Text>
         )}
@@ -131,7 +126,7 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
   }
 
   return (
-    <YStack>
+    <YStack marginHorizontal={-24}>
       {items.map((item, idx) => {
         const route = routeFor(item)
         const date = dateFmt.format(new Date(item.publishedAt))
@@ -188,7 +183,11 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                 </YStack>
               </AnimatedPressable>
 
-              <AnimatedPressable onPress={open} accessibilityRole="link" accessibilityLabel={item.title}>
+              <AnimatedPressable
+                onPress={open}
+                accessibilityRole="link"
+                accessibilityLabel={item.title}
+              >
                 <YStack
                   width={THUMB_SIZE}
                   height={THUMB_SIZE}

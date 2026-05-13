@@ -4,7 +4,7 @@ import { Skeleton } from '@/components'
 
 export function FeedItemListSkeleton({ count = 4 }: { count?: number }) {
   return (
-    <YStack>
+    <YStack marginHorizontal={-24}>
       {Array.from({ length: count }).map((_, i) => (
         <YStack
           // biome-ignore lint/suspicious/noArrayIndexKey: skeleton rows have no stable identity
