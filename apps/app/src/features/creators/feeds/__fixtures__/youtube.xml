@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns="http://www.w3.org/2005/Atom">
+  <link rel="self" href="https://www.youtube.com/feeds/videos.xml?channel_id=UCabc"/>
+  <id>yt:channel:UCabc</id>
+  <yt:channelId>UCabc</yt:channelId>
+  <title>Test Channel</title>
+  <entry>
+    <id>yt:video:dQw4w9WgXcQ</id>
+    <yt:videoId>dQw4w9WgXcQ</yt:videoId>
+    <yt:channelId>UCabc</yt:channelId>
+    <title>How to read Scripture: 8 talks on Lectio Divina</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
+    <published>2026-05-01T15:00:00+00:00</published>
+    <media:group>
+      <media:title>How to read Scripture</media:title>
+      <media:description>Talk on Lectio Divina.
+
+00:00 Intro
+05:30 What is Lectio
+12:10 Lectio in practice
+20:00 Q&amp;A
+</media:description>
+      <media:thumbnail url="https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg" width="480" height="360"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>yt:video:abcDEFghi12</id>
+    <yt:videoId>abcDEFghi12</yt:videoId>
+    <title>How do I prepare for Confession?</title>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=abcDEFghi12"/>
+    <published>2026-04-28T10:00:00+00:00</published>
+    <media:group>
+      <media:title>How do I prepare for Confession?</media:title>
+      <media:description>A short reflection.</media:description>
+      <media:thumbnail url="https://i.ytimg.com/vi/abcDEFghi12/hqdefault.jpg" width="480" height="360"/>
+    </media:group>
+  </entry>
+</feed>

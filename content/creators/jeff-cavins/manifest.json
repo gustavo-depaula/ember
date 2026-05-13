@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Jeff Cavins Show",
+    "pt-BR": "The Jeff Cavins Show"
+  },
+  "byline": {
+    "en-US": "Jeff Cavins · Catholic Bible study & discipleship"
+  },
+  "bio": {
+    "en-US": "Jeff Cavins, creator of the Great Adventure Bible timeline, brings the Bible to life through weekly teachings on Scripture, prayer, and practical discipleship. Produced by Ascension."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.fireside.fm/thejeffcavinsshow/rss",
+      "format": "lecture",
+      "title": { "en-US": "The Jeff Cavins Show" }
+    }
+  ],
+  "links": {
+    "website": "https://ascensionpress.com/collections/jeff-cavins-bible-studies"
+  },
+  "tags": ["bible", "discipleship"]
+}

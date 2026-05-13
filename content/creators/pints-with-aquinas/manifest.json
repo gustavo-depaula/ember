@@ -1,0 +1,37 @@
+{
+  "name": {
+    "en-US": "Pints With Aquinas",
+    "pt-BR": "Pints With Aquinas"
+  },
+  "byline": {
+    "en-US": "Matt Fradd · Catholic philosophy & apologetics · en-US"
+  },
+  "bio": {
+    "en-US": "Long-form Catholic conversations with priests, philosophers, and apologists. Hosted by Matt Fradd. Includes regular listener Q&A episodes and interviews on Aquinas, Scripture, and Catholic life."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.megaphone.fm/BVDWV3128780668",
+      "format": "mixed",
+      "title": {
+        "en-US": "Pints With Aquinas"
+      }
+    },
+    {
+      "kind": "youtube",
+      "channelId": "UClh4JeqYB1QN6f1h_bzmEng",
+      "format": "qa",
+      "title": {
+        "en-US": "Matt Fradd (YouTube)"
+      }
+    }
+  ],
+  "links": {
+    "website": "https://pintswithaquinas.com/"
+  },
+  "tags": ["qa", "apologetics", "philosophy"]
+}

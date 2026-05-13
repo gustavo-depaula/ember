@@ -39,6 +39,11 @@ import {
 import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
+import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
+import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
+import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
+import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
+import { installCreatorPinning } from '@/features/creators/pinning/install'
 import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
@@ -147,33 +152,41 @@ export default function RootLayout() {
     }
 
     async function initCorpus() {
+      const t0 = Date.now()
+      const mark = (label: string) => {
+        if (__DEV__) console.log(`[boot] ${label} (+${Date.now() - t0}ms)`)
+      }
       try {
         registerDataSources()
+        installAudioBackend()
+        installCreatorPinning()
+        mark('installed backends')
         await initHearth()
+        mark('initHearth done')
 
         setBootStatus(i18n.t('boot.fetchingCatalog'))
-        // 2. Fetch catalog (network-first; falls back to SQLite cache).
         await loadCatalogFromHearth().catch((err) => {
           console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
         })
+        mark('catalog loaded')
 
         setBootStatus(i18n.t('boot.preparingContent'))
-        // 3. Rehydrate the user's pinned-items list and warm their manifests.
         await rehydratePinned().catch((err) => {
           console.warn('[startup] pinned rehydrate failed:', err)
         })
+        mark('pinned rehydrated')
 
-        // 4. Warm sync-resolver manifests before first paint; let the rest
-        //    (books, chapters, collections) warm in parallel without blocking.
         await warmCriticalManifests().catch((err) => {
           console.warn('[startup] warm critical manifests failed:', err)
         })
+        mark('critical manifests warmed')
         warmDeferredManifests().catch((err) => {
           console.warn('[startup] warm deferred manifests failed:', err)
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
+        mark('seeded')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
       } finally {
@@ -193,6 +206,24 @@ export default function RootLayout() {
     }
 
     initCorpus()
+  }, [dbReady])
+
+  useEffect(() => {
+    if (!dbReady) return
+    let sub: { remove: () => void } | undefined
+    let cancelled = false
+    void import('expo-network').then((Network) => {
+      if (cancelled) return
+      sub = Network.addNetworkStateListener((state) => {
+        if (state.type === Network.NetworkStateType.WIFI && state.isConnected) {
+          void drainPendingPins().catch(() => {})
+        }
+      })
+    })
+    return () => {
+      cancelled = true
+      sub?.remove()
+    }
   }, [dbReady])
 
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
@@ -249,7 +280,10 @@ export default function RootLayout() {
                 name="browse"
                 options={{ title: i18n.t('browse.title'), gestureEnabled: false }}
               />
+              <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
             </Stack>
+            <FloatingOfflineChip />
+            <NowPlayingBar />
             <AppFrame />
             <ConfirmHost />
           </Theme>

@@ -23,6 +23,19 @@ export type CatalogItemKind =
   | 'of-data'
   | 'collection'
   | 'checkup'
+  | 'creator'
+
+export type CreatorRole = 'priest' | 'religious' | 'lay-theologian' | 'bishop' | 'deacon'
+export type CreatorLanguage = 'en-US' | 'pt-BR' | 'la'
+export type CreatorCharism =
+  | 'diocesan'
+  | 'dominican'
+  | 'franciscan'
+  | 'jesuit'
+  | 'carmelite'
+  | 'opus-dei'
+  | 'monastic'
+  | 'lay'
 
 export type CatalogEntry = {
   kind: CatalogItemKind
@@ -43,6 +56,10 @@ export type CatalogEntry = {
   rank?: string
   liturgicalColor?: string
   itemCount?: number
+  // Creator-kind hints (populated by build_creators in scripts/build-corpus.py).
+  creatorRole?: CreatorRole
+  creatorLanguages?: CreatorLanguage[]
+  hasQa?: boolean
 }
 
 export type Catalog = {
@@ -226,4 +243,34 @@ export type CollectionItemManifest = {
   defaults?: { autoSeed?: boolean }
   prologue?: CollectionProseBody
   sections: CollectionSection[]
+}
+
+// --- Creators ---
+
+export type CreatorChannelKind = 'podcast' | 'youtube' | 'rss'
+export type CreatorChannelFormat = 'qa' | 'homily' | 'lecture' | 'reflection' | 'news' | 'mixed'
+
+export type CreatorChannel = {
+  kind: CreatorChannelKind
+  feedUrl?: string
+  channelId?: string
+  title?: LocalizedText
+  format?: CreatorChannelFormat
+  /** When true, the article reader renders feed HTML in-app (allowlist). */
+  fullText?: boolean
+}
+
+export type CreatorManifest = {
+  id: string
+  name: LocalizedText
+  byline?: LocalizedText
+  bio: LocalizedText
+  avatarHash?: BlobRef
+  bannerHash?: BlobRef
+  languages: CreatorLanguage[]
+  charism?: CreatorCharism
+  role?: CreatorRole
+  channels: CreatorChannel[]
+  links?: { website?: string; donate?: string }
+  tags?: string[]
 }

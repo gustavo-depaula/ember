@@ -1,0 +1,39 @@
+{
+  "name": {
+    "en-US": "Padre Paulo Ricardo",
+    "pt-BR": "Padre Paulo Ricardo"
+  },
+  "byline": {
+    "en-US": "Priest · Resposta Católica · Catholic Q&A",
+    "pt-BR": "Sacerdote · Resposta Católica · pt-BR"
+  },
+  "bio": {
+    "en-US": "Brazilian Catholic priest, founder of Christo Nihil Praeponere institute. Hosts the long-running Q&A program 'Resposta Católica' answering listener questions on doctrine, morals, and the spiritual life.",
+    "pt-BR": "Sacerdote brasileiro, fundador do Instituto Christo Nihil Praeponere. Apresenta o programa 'Resposta Católica', respondendo perguntas dos ouvintes sobre doutrina, moral e vida espiritual."
+  },
+  "languages": ["pt-BR"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://anchor.fm/s/e81d4a00/podcast/rss",
+      "format": "homily",
+      "title": {
+        "pt-BR": "Christo Nihil Praeponere"
+      }
+    },
+    {
+      "kind": "youtube",
+      "channelId": "UCP6L9TPS3pHccVRiDB_cvqQ",
+      "format": "lecture",
+      "title": {
+        "pt-BR": "Padre Paulo Ricardo (YouTube)"
+      }
+    }
+  ],
+  "links": {
+    "website": "https://padrepauloricardo.org/"
+  },
+  "tags": ["qa", "doctrine", "lusophone"]
+}

@@ -1,0 +1,32 @@
+{
+  "name": {
+    "en-US": "SantoFlow Podcast",
+    "pt-BR": "SantoFlow Podcast"
+  },
+  "byline": {
+    "en-US": "Guto Azevedo · Catholic testimonies & conversations",
+    "pt-BR": "Guto Azevedo · Testemunhos e conversas católicas"
+  },
+  "bio": {
+    "en-US": "Hosted by Guto Azevedo with 400+ episodes of conversion stories, conversations with priests, religious, missionaries, and Catholic singers — building hope and faith through real testimonies.",
+    "pt-BR": "Apresentado por Guto Azevedo, com mais de 400 episódios de histórias de conversão, conversas com padres, religiosos, missionários e cantores católicos — construindo esperança e fé por meio de testemunhos reais."
+  },
+  "languages": ["pt-BR"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://anchor.fm/s/63c2f638/podcast/rss",
+      "format": "mixed",
+      "title": { "pt-BR": "SantoFlow Podcast" }
+    },
+    {
+      "kind": "youtube",
+      "channelId": "UC7_YdQMBjtcorD6ALKCoyPQ",
+      "format": "mixed",
+      "title": { "pt-BR": "SantoFlow Podcast (YouTube)" }
+    }
+  ],
+  "tags": ["interviews", "testimonies", "lusophone"]
+}

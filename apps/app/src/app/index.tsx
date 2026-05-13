@@ -18,6 +18,7 @@ import {
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
+import { LatestRow } from '@/features/creators/home/LatestRow'
 import {
   AppShortcuts,
   Aspiratio,
@@ -229,6 +230,10 @@ export default function HomeScreen() {
 
           <FadeInView>
             <QuickCaptureChips />
+          </FadeInView>
+
+          <FadeInView>
+            <LatestRow />
           </FadeInView>
         </YStack>
 

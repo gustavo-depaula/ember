@@ -44,6 +44,7 @@ export const RESIDENT_KINDS = [
   'chapter',
   'book',
   'collection',
+  'creator',
 ] as const satisfies ReadonlyArray<CatalogItemKind>
 
 // Items kept in the corpus for engine-feature documentation but never shown to
@@ -164,6 +165,12 @@ export function getEntriesByKind(kind: CatalogItemKind): Array<[string, CatalogE
 
 export function getCollections(): CatalogEntry[] {
   return getEntriesByKind('collection').map(([, e]) => e)
+}
+
+/** Strip any `kind/` prefix from a corpus ref, returning the bare slug. */
+export function bareId(ref: string): string {
+  const slash = ref.indexOf('/')
+  return slash === -1 ? ref : ref.slice(slash + 1)
 }
 
 /**

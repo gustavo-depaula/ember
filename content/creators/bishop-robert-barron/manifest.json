@@ -1,0 +1,33 @@
+{
+  "name": {
+    "en-US": "Bishop Robert Barron",
+    "pt-BR": "Bispo Robert Barron"
+  },
+  "byline": {
+    "en-US": "Bishop · Word on Fire · Sunday Sermons & faith-and-culture"
+  },
+  "bio": {
+    "en-US": "Bishop Robert Barron of the Diocese of Winona–Rochester, founder of Word on Fire Catholic Ministries. Weekly Sunday homilies and broader commentary engaging Catholic faith with culture, philosophy, and the arts."
+  },
+  "languages": ["en-US"],
+  "charism": "diocesan",
+  "role": "bishop",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feed.podbean.com/wordonfire/feed.xml",
+      "format": "homily",
+      "title": { "en-US": "Bishop Barron's Sunday Sermons" }
+    },
+    {
+      "kind": "youtube",
+      "channelId": "UCcMjLgeWNwqL2LBGS-iPb1A",
+      "format": "lecture",
+      "title": { "en-US": "Bishop Robert Barron (YouTube)" }
+    }
+  ],
+  "links": {
+    "website": "https://www.wordonfire.org/"
+  },
+  "tags": ["preaching", "homilies", "faith-and-culture"]
+}

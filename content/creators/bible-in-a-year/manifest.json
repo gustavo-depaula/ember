@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Bible in a Year",
+    "pt-BR": "The Bible in a Year"
+  },
+  "byline": {
+    "en-US": "Fr. Mike Schmitz · Daily Bible reading · 365-day plan"
+  },
+  "bio": {
+    "en-US": "Fr. Mike Schmitz walks listeners through every page of Scripture in 365 daily episodes, organized along the Great Adventure Bible timeline. Produced by Ascension."
+  },
+  "languages": ["en-US"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.fireside.fm/bibleinayear/rss",
+      "format": "reflection",
+      "title": { "en-US": "The Bible in a Year" }
+    }
+  ],
+  "links": {
+    "website": "https://ascensionpress.com/pages/bibleinayearpodcast"
+  },
+  "tags": ["bible", "daily", "scripture"]
+}

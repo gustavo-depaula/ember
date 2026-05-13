@@ -18,10 +18,12 @@ import type {
   CatalogEntry,
   ChapterManifest,
   CollectionItemManifest,
+  CreatorManifest,
   LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
+import { pinnedFeedItemHashes } from '@/db/repositories/feedItems'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const PINNED_KEY = 'pinned-items'
@@ -89,6 +91,12 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
       for (const langs of Object.values(b.chapters)) Object.values(langs).forEach(add)
     }
     b.images?.forEach(add)
+    return []
+  },
+  creator: (body, add) => {
+    const c = body as CreatorManifest
+    if (c.avatarHash) add(c.avatarHash)
+    if (c.bannerHash) add(c.bannerHash)
     return []
   },
   mass: (body, add) => addLangSplit(body as LangSplitItemManifest, add),
@@ -168,8 +176,8 @@ export async function unpinItem(id: string): Promise<void> {
 }
 
 /**
- * Compute the union of blob hashes referenced by every pinned item. Used by
- * GC to know what to keep when evicting.
+ * Compute the union of blob hashes referenced by every pinned item plus
+ * pinned creator feed-item media + image. Used by GC to know what to keep.
  */
 export async function pinnedHashes(): Promise<Set<string>> {
   const out = new Set<string>()
@@ -177,5 +185,6 @@ export async function pinnedHashes(): Promise<Set<string>> {
     const blobs = await collectBlobsFor(item.id)
     for (const b of blobs) out.add(b.hash)
   }
+  for (const h of await pinnedFeedItemHashes()) out.add(h)
   return out
 }

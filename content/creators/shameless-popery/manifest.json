@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "Shameless Popery",
+    "pt-BR": "Shameless Popery"
+  },
+  "byline": {
+    "en-US": "Joe Heschmeyer · Catholic Answers · Apologetics & Scripture"
+  },
+  "bio": {
+    "en-US": "Joe Heschmeyer (JD Georgetown, STL Angelicum) of Catholic Answers answers Protestant and skeptical objections to the Catholic faith with biblical, historical, and theological precision."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCDjjcYcw4wsrpmXc0vRRChw",
+      "format": "qa",
+      "title": { "en-US": "Shameless Popery (YouTube)" }
+    }
+  ],
+  "links": {
+    "website": "https://www.catholic.com/profile/joe-heschmeyer"
+  },
+  "tags": ["apologetics", "scripture"]
+}

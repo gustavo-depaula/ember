@@ -1,0 +1,33 @@
+{
+  "name": {
+    "en-US": "The Counsel of Trent",
+    "pt-BR": "The Counsel of Trent"
+  },
+  "byline": {
+    "en-US": "Trent Horn · Catholic Answers · Apologetics Q&A"
+  },
+  "bio": {
+    "en-US": "Trent Horn of Catholic Answers tackles the hardest objections to the Catholic faith with humor and rigor. Covers Scripture, history, philosophy, ethics, and current culture from a Catholic perspective."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+      "format": "qa",
+      "title": { "en-US": "The Counsel of Trent" }
+    },
+    {
+      "kind": "youtube",
+      "channelId": "UCvySGkfy1W8fda287KMj2CA",
+      "format": "qa",
+      "title": { "en-US": "Trent Horn (YouTube)" }
+    }
+  ],
+  "links": {
+    "website": "https://www.catholic.com/profile/trent-horn"
+  },
+  "tags": ["qa", "apologetics"]
+}

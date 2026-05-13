@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Rosary in a Year",
+    "pt-BR": "The Rosary in a Year"
+  },
+  "byline": {
+    "en-US": "Fr. Mark-Mary Ames, CFR · Daily Rosary formation · 365-day plan"
+  },
+  "bio": {
+    "en-US": "Fr. Mark-Mary Ames, of the Franciscan Friars of the Renewal, teaches the Rosary in 365 daily episodes — meditation, history, and practical formation for deeper Marian devotion."
+  },
+  "languages": ["en-US"],
+  "charism": "franciscan",
+  "role": "religious",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.fireside.fm/rosaryinayear/rss",
+      "format": "reflection",
+      "title": { "en-US": "The Rosary in a Year" }
+    }
+  ],
+  "links": {
+    "website": "https://ascensionpress.com/pages/rosary-in-a-year-registration"
+  },
+  "tags": ["rosary", "marian", "daily"]
+}

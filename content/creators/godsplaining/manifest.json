@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "Godsplaining",
+    "pt-BR": "Godsplaining"
+  },
+  "byline": {
+    "en-US": "Dominican friars · Theology, philosophy, and the spiritual life"
+  },
+  "bio": {
+    "en-US": "Four Dominican friars from the Province of St. Joseph — including Fr. Gregory Pine, OP — discuss faith, doubt, philosophy, and the spiritual life with gentleness and serious Thomistic grounding."
+  },
+  "languages": ["en-US"],
+  "charism": "dominican",
+  "role": "religious",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feed.podbean.com/godsplaining/feed.xml",
+      "format": "mixed",
+      "title": { "en-US": "Godsplaining" }
+    }
+  ],
+  "links": {
+    "website": "https://godsplaining.org/"
+  },
+  "tags": ["thomistic", "spiritual-life", "dominican"]
+}
