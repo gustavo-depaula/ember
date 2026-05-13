@@ -11,7 +11,8 @@
       "supportsTablet": true,
       "bundleIdentifier": "me.dpgu.ember",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIBackgroundModes": ["audio"]
       }
     },
     "android": {
