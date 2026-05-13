@@ -146,19 +146,32 @@ export async function getFeedItemsByCreator(creatorId: string, limit = 50): Prom
 }
 
 /**
- * First non-empty image_url from any of the creator's items. Used as a
- * fallback creator avatar when the manifest doesn't ship one. Podcast feeds
- * generally fall back to the channel image, so this resolves to a sensible
- * logo / cover for most creators.
+ * First non-empty image_url from any of the creator's items, preferring
+ * podcast and RSS items over YouTube. Podcast `<itunes:image>` is the
+ * channel logo; YouTube Atom feeds publish per-video thumbnails, so the
+ * "latest YouTube item" is whatever they uploaded last — not a stable
+ * face for the creator. Used as a fallback avatar when the manifest
+ * doesn't ship one.
+ *
+ * Returns `null` (not undefined) so TanStack Query v5 queryFns can
+ * forward it without tripping the "queryFn returned undefined" guard.
  */
-export async function getCreatorAvatarUrl(creatorId: string): Promise<string | undefined> {
+export async function getCreatorAvatarUrl(creatorId: string): Promise<string | null> {
   const row = await getDb().getFirstAsync<{ image_url: string | null }>(
     `SELECT image_url FROM feed_items
      WHERE creator_id = ? AND image_url IS NOT NULL AND image_url != ''
-     ORDER BY published_at DESC LIMIT 1`,
+     ORDER BY
+       CASE channel_kind
+         WHEN 'podcast' THEN 1
+         WHEN 'rss'     THEN 2
+         WHEN 'youtube' THEN 3
+         ELSE 4
+       END,
+       published_at DESC
+     LIMIT 1`,
     [creatorId],
   )
-  return row?.image_url ?? undefined
+  return row?.image_url ?? null
 }
 
 export async function getRecentFeedItems(limit = 8): Promise<FeedItemRow[]> {

@@ -10,10 +10,6 @@
 import { useCallback, useMemo } from 'react'
 import { Platform, View } from 'react-native'
 
-// Pretending we're embedded on youtube.com itself sidesteps embed restrictions
-// that key on origin (the most common cause of error 153 in inline-HTML WebViews).
-const NATIVE_BASE_URL = 'https://www.youtube.com'
-
 const NATIVE_HTML = (videoId: string) => `
 <!doctype html>
 <html><head><meta name="viewport" content="width=device-width,initial-scale=1"/><style>
@@ -32,7 +28,6 @@ html,body{margin:0;padding:0;background:#000;height:100%;}
         modestbranding: 1,
         playsinline: 1,
         enablejsapi: 1,
-        origin: ${JSON.stringify(NATIVE_BASE_URL)},
       },
       events: {
         onStateChange: function(e) { window.ReactNativeWebView.postMessage(JSON.stringify({type:'state', state:e.data})); },
@@ -51,10 +46,7 @@ type Props = {
 }
 
 export function YouTubePlayer({ videoId, onError }: Props) {
-  const source = useMemo(
-    () => ({ html: NATIVE_HTML(videoId), baseUrl: NATIVE_BASE_URL }),
-    [videoId],
-  )
+  const source = useMemo(() => ({ html: NATIVE_HTML(videoId) }), [videoId])
 
   const handleMessage = useCallback(
     (event: { nativeEvent: { data: string } }) => {

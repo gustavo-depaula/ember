@@ -73,6 +73,11 @@ export default function VideoDetail() {
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
               {t('creators.videoEmbedFailed')}
             </Text>
+            {__DEV__ && (
+              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                (YouTube error {embedError})
+              </Text>
+            )}
             <AnimatedPressable
               onPress={() => openExternalUrl(webUrl)}
               accessibilityRole="link"
