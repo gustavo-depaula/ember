@@ -201,6 +201,44 @@ Common conventions:
 - Integration tests share a global mock layer (`apps/app/src/test/setup.ts`). When you import a new native module, check whether it needs a stub there before writing a test against it.
 - Reuse `resetForTests()` from `apps/app/src/db/test-fixtures.ts` — same contract Maestro uses via `/dev/reset`.
 
+### Default to integration tests for feature work
+
+When you add or change UI-visible behavior, write a `*.test.tsx` next to the feature. Integration tests run headlessly, against real SQLite and real Hearth content, in ~3s — fast enough for inner-loop feedback, no simulator needed.
+
+Reach for unit (`*.test.ts`) only when the logic is genuinely UI-free. Reach for Maestro only when you need animations, gestures, or native bridges that the jsdom layer can't exercise.
+
+### Writing an integration test
+
+There's a working reference at `apps/app/src/features/practices/components/PracticeFlow.test.tsx` — skim it for the harness shape, then write what your feature needs.
+
+Rules:
+
+- **Register only the routes you exercise** via `routes: [...]`. Pulling in `/` drags in the whole home screen tree — slow, and you usually don't need it.
+- **Selectors:** `accessibilityLabel` first via `findByLabelText`. Add `testID` only per the rules below.
+- **Fixtures:** `resetForTests({ now, enableSlotKeys })` is the only seeding API. Don't write your own DB inserts in tests.
+- **Assert on what the user sees,** not on internal state. Use `findBy*` for async appearance; don't write polling loops.
+- **When you add a new screen** that integration tests will navigate to, the test registers it via `routes: [...]`. No global registry to maintain.
+- **When you add a new native dependency,** check `apps/app/src/test/setup.ts` first. If the package isn't mocked, the test will hang at import. Add a stub there in the same PR.
+
+### What integration tests can't catch
+
+These belong to Maestro (or are simply untestable headlessly):
+
+- Real animations, swipes, scrub gestures, drag-dismiss
+- Haptic timing, real notification scheduling, native splash
+- True responsive breakpoints — jsdom is fixed at 1024×768
+- Font-dependent layout / line-wrap (custom fonts don't load in jsdom)
+- WebView contents (book reader)
+- Real router back-stack semantics (`useFocusEffect` re-runs, swipe-to-pop)
+
+Don't assert on measured pixels. Assert on accessibility labels and DOM presence.
+
+### Before reporting a task complete
+
+1. `pnpm --filter @ember/app test` is green.
+2. If the change is UI-visible, your `.test.tsx` covers the golden path and at least one edge case.
+3. If you touched something Maestro covers (`apps/app/.maestro/flows/*.yaml`), flag it — Maestro needs a simulator, the user runs it.
+
 ### `testID` guidance
 
 Default to `accessibilityLabel` for selectors — Maestro reads them, and we already require labels everywhere. Add `testID` only when:
