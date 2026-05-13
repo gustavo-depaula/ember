@@ -9,6 +9,7 @@
     "workshop": "pnpm --filter @ember/workshop run dev",
     "start": "pnpm --filter @ember/app run start",
     "start:web": "pnpm --filter @ember/app run web",
+    "start:https": "caddy run --config Caddyfile.dev",
     "ios": "pnpm --filter @ember/app run ios",
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
