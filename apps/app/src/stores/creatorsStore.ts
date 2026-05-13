@@ -54,6 +54,17 @@ type CreatorsState = {
   reset: () => void
 }
 
+export const NOW_PLAYING_BAR_HEIGHT = 56
+const NOW_PLAYING_BAR_GAP = 8
+
+/**
+ * Vertical space ScrollViews must reserve so the mini-bar doesn't occlude
+ * their last items. Zero when nothing is playing.
+ */
+export function useNowPlayingClearance(): number {
+  return useCreatorsStore((s) => (s.nowPlaying ? NOW_PLAYING_BAR_HEIGHT + NOW_PLAYING_BAR_GAP : 0))
+}
+
 export const useCreatorsStore = create<CreatorsState>()(
   immer((set, get) => ({
     nowPlaying: undefined,

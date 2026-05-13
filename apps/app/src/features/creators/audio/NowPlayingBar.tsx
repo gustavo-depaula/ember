@@ -12,7 +12,7 @@ import { Text, useTheme, XStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { bareId } from '@/content/contentIndex'
-import { useCreatorsStore } from '@/stores/creatorsStore'
+import { NOW_PLAYING_BAR_HEIGHT, useCreatorsStore } from '@/stores/creatorsStore'
 
 export function NowPlayingBar() {
   const { t } = useTranslation()
@@ -34,10 +34,11 @@ export function NowPlayingBar() {
       bottom={insets.bottom}
       left={0}
       right={0}
+      zIndex={100}
       alignItems="center"
       gap="$md"
       padding="$md"
-      minHeight={56}
+      minHeight={NOW_PLAYING_BAR_HEIGHT}
       backgroundColor="$backgroundSurface"
       borderTopWidth={1}
       borderTopColor="$borderColor"

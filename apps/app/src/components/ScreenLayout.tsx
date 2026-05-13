@@ -4,6 +4,8 @@ import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-na
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
+import { useNowPlayingClearance } from '@/stores/creatorsStore'
+
 const scrollContentStyle = { flexGrow: 1 }
 
 export function ScreenLayout({
@@ -16,6 +18,7 @@ export function ScreenLayout({
   padded?: boolean
 }) {
   const insets = useSafeAreaInsets()
+  const nowPlayingClearance = useNowPlayingClearance()
   const opacity = useSharedValue(0)
 
   useEffect(() => {
@@ -29,7 +32,7 @@ export function ScreenLayout({
       flex={1}
       backgroundColor="$background"
       paddingTop={insets.top}
-      paddingBottom={insets.bottom}
+      paddingBottom={insets.bottom + nowPlayingClearance}
     >
       <Animated.View style={[{ flex: 1 }, fadeStyle]}>
         <YStack
