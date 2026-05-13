@@ -1,6 +1,15 @@
+/**
+ * Apple-Podcasts-shaped episode list. Each row:
+ *   - date (small caps, secondary)
+ *   - title (display, 2 lines)
+ *   - summary preview (body, 2 lines, secondary; HTML stripped)
+ *   - bottom row: filled play pill with duration | pin icon | thumbnail (right)
+ * Rows are full-bleed with a hairline separator — no per-row card border.
+ */
+
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { Pin, PinOff } from 'lucide-react-native'
+import { Pin, PinOff, Play } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -13,14 +22,7 @@ import { useCreatorsStore } from '@/stores/creatorsStore'
 import { routeFor } from './feedItemRoute'
 import { KindIcon } from './KindIcon'
 
-const THUMB_WIDTH = 80
-const THUMB_HEIGHT_BY_KIND: Record<FeedItemRow['channelKind'], number> = {
-  youtube: 45, // 16:9
-  'youtube-short': 80, // tall — atom thumb is still 480×360, but we render a square chip
-  podcast: 80, // 1:1
-  rss: 60, // 4:3
-}
-
+const THUMB_SIZE = 72
 const SECONDS_PER_MIN = 60
 
 function formatDuration(s: number | undefined): string | undefined {
@@ -30,9 +32,23 @@ function formatDuration(s: number | undefined): string | undefined {
   if (mins >= SECONDS_PER_MIN) {
     const hours = Math.floor(mins / SECONDS_PER_MIN)
     const m = mins % SECONDS_PER_MIN
-    return `${hours}h${m.toString().padStart(2, '0')}`
+    return `${hours}h ${m.toString().padStart(2, '0')}m`
   }
   return `${mins} min`
+}
+
+function stripHtml(s: string | undefined): string {
+  if (!s) return ''
+  return s
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim()
 }
 
 function PinButton({ item }: { item: FeedItemRow }) {
@@ -49,7 +65,7 @@ function PinButton({ item }: { item: FeedItemRow }) {
         if (item.pinned) unpin.mutate(item.itemId)
         else pin.mutate(item.itemId)
       }}
-      hitSlop={12}
+      hitSlop={14}
       accessibilityRole="button"
       accessibilityLabel={t(item.pinned ? 'creators.unpin' : 'creators.pin')}
     >
@@ -59,6 +75,39 @@ function PinButton({ item }: { item: FeedItemRow }) {
         <PinOff size={18} color={theme.colorSecondary.val} />
       )}
     </Pressable>
+  )
+}
+
+function PlayPill({ item, onPress }: { item: FeedItemRow; onPress: () => void }) {
+  const { t } = useTranslation()
+  const dur = formatDuration(item.durationS)
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole="button"
+      accessibilityLabel={t('creators.play')}
+    >
+      <XStack
+        gap="$xs"
+        alignItems="center"
+        paddingHorizontal="$md"
+        paddingVertical={7}
+        borderRadius={999}
+        backgroundColor="$accent"
+      >
+        <Play size={13} color="white" fill="white" />
+        {dur && (
+          <Text
+            fontFamily="$heading"
+            fontSize={12}
+            color="white"
+            letterSpacing={0.5}
+          >
+            {dur}
+          </Text>
+        )}
+      </XStack>
+    </AnimatedPressable>
   )
 }
 
@@ -73,7 +122,7 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
 
   if (items.length === 0) {
     return (
-      <YStack padding="$lg" alignItems="center">
+      <YStack padding="$xl" alignItems="center">
         <Text fontFamily="$body" color="$colorSecondary" textAlign="center">
           {t('creators.noFeedItems')}
         </Text>
@@ -82,80 +131,97 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
   }
 
   return (
-    <YStack gap="$xs">
-      {items.map((item) => {
+    <YStack>
+      {items.map((item, idx) => {
         const route = routeFor(item)
-        const dur = formatDuration(item.durationS)
         const date = dateFmt.format(new Date(item.publishedAt))
         const isPlaying = playingId === item.itemId
-        // Sibling pressables — the route pressable is the title area; the
-        // PinButton sits beside it. Nesting <button> in <button> is invalid
-        // HTML and breaks react-dom on web.
-        const thumbHeight = THUMB_HEIGHT_BY_KIND[item.channelKind]
+        const summaryText = stripHtml(item.summary)
+        const open = () => router.push(route)
         return (
-          <XStack
+          <YStack
             key={item.itemId}
-            padding="$md"
-            gap="$md"
-            backgroundColor={isPlaying ? '$accentSubtle' : '$backgroundSurface'}
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor="$borderColor"
-            alignItems="center"
+            paddingHorizontal="$lg"
+            paddingVertical="$md"
+            gap="$sm"
+            backgroundColor={isPlaying ? '$accentSubtle' : '$background'}
+            borderTopWidth={idx === 0 ? 0 : 1}
+            borderTopColor="$borderColor"
           >
-            {item.imageUrl ? (
-              <YStack
-                width={THUMB_WIDTH}
-                height={thumbHeight}
-                borderRadius={6}
-                overflow="hidden"
-                backgroundColor="$borderColor"
+            <XStack gap="$md" alignItems="flex-start">
+              <AnimatedPressable
+                style={{ flex: 1 }}
+                onPress={open}
+                accessibilityRole="link"
+                accessibilityLabel={item.title}
               >
-                <Image
-                  source={item.imageUrl}
-                  style={{ width: THUMB_WIDTH, height: thumbHeight }}
-                  contentFit="cover"
-                  transition={150}
-                  accessibilityLabel={item.title}
-                />
-              </YStack>
-            ) : (
-              <YStack
-                width={THUMB_WIDTH}
-                height={thumbHeight}
-                borderRadius={6}
-                backgroundColor="$accentSubtle"
-                alignItems="center"
-                justifyContent="center"
-              >
-                <KindIcon kind={item.channelKind} size={22} />
-              </YStack>
-            )}
-            <AnimatedPressable
-              style={{ flex: 1 }}
-              onPress={() => router.push(route)}
-              accessibilityRole="link"
-              accessibilityLabel={item.title}
-            >
-              <YStack gap={2}>
-                <Text fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={2}>
-                  {item.title}
-                </Text>
-                <XStack gap="$sm" alignItems="center">
-                  <KindIcon kind={item.channelKind} size={12} />
-                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                <YStack gap={6}>
+                  <Text
+                    fontFamily="$heading"
+                    fontSize="$1"
+                    color="$colorSecondary"
+                    letterSpacing={1.2}
+                    textTransform="uppercase"
+                  >
                     {date}
                   </Text>
-                  {dur && (
-                    <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                      · {dur}
+                  <Text
+                    fontFamily="$display"
+                    fontSize="$3"
+                    color="$color"
+                    numberOfLines={2}
+                    lineHeight={22}
+                  >
+                    {item.title}
+                  </Text>
+                  {summaryText.length > 0 && (
+                    <Text
+                      fontFamily="$body"
+                      fontSize="$1"
+                      color="$colorSecondary"
+                      numberOfLines={2}
+                      lineHeight={18}
+                    >
+                      {summaryText}
                     </Text>
                   )}
-                </XStack>
-              </YStack>
-            </AnimatedPressable>
-            <PinButton item={item} />
-          </XStack>
+                </YStack>
+              </AnimatedPressable>
+
+              <AnimatedPressable onPress={open} accessibilityRole="link" accessibilityLabel={item.title}>
+                <YStack
+                  width={THUMB_SIZE}
+                  height={THUMB_SIZE}
+                  borderRadius={10}
+                  overflow="hidden"
+                  backgroundColor="$accentSubtle"
+                  alignItems="center"
+                  justifyContent="center"
+                >
+                  {item.imageUrl ? (
+                    <Image
+                      source={item.imageUrl}
+                      style={{ width: THUMB_SIZE, height: THUMB_SIZE }}
+                      contentFit="cover"
+                      transition={150}
+                      accessibilityLabel={item.title}
+                    />
+                  ) : (
+                    <KindIcon kind={item.channelKind} size={24} />
+                  )}
+                </YStack>
+              </AnimatedPressable>
+            </XStack>
+
+            <XStack gap="$md" alignItems="center" paddingTop="$xs">
+              <PlayPill item={item} onPress={open} />
+              <XStack alignItems="center" gap="$xs">
+                <KindIcon kind={item.channelKind} size={12} />
+              </XStack>
+              <YStack flex={1} />
+              <PinButton item={item} />
+            </XStack>
+          </YStack>
         )
       })}
     </YStack>
