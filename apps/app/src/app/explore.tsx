@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { BookMarked, CircleDot, Compass, Sparkle } from 'lucide-react-native'
+import { BookMarked, CircleDot, Compass, Mic2, Sparkle } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
@@ -68,6 +68,13 @@ export default function ExploreScreen() {
             title={t('saints.title')}
             tagline={t('saints.homeTagline')}
             onPress={() => router.push('/saints')}
+          />
+
+          <ShortcutRow
+            leading={<Mic2 size={22} color={theme.accent?.val} />}
+            title={t('creators.title')}
+            tagline={t('creators.homeTagline')}
+            onPress={() => router.push('/creators')}
           />
         </YStack>
       </YStack>

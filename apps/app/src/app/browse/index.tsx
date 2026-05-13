@@ -1,12 +1,11 @@
 import { useRouter } from 'expo-router'
-import { ChevronRight, Mic2 } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
-import { getEntriesByKind, getEntry } from '@/content/contentIndex'
+import { getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CollectionCard } from '@/features/collections/CollectionCard'
@@ -61,56 +60,6 @@ function CardRow({ ids, cardWidth = 200 }: { ids: CollectionId[]; cardWidth?: nu
   )
 }
 
-function CreatorsEntry() {
-  const { t } = useTranslation()
-  const router = useRouter()
-  const theme = useTheme()
-  const catalogVersion = useCatalogVersion()
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
-  const count = useMemo(() => getEntriesByKind('creator').length, [catalogVersion])
-  if (count === 0) return null
-  return (
-    <YStack paddingHorizontal="$md">
-      <AnimatedPressable
-        onPress={() => router.push('/creators')}
-        accessibilityRole="link"
-        accessibilityLabel={t('creators.entry.title')}
-      >
-        <XStack
-          backgroundColor="$accentSubtle"
-          borderRadius="$lg"
-          borderWidth={1}
-          borderColor="$accent"
-          paddingVertical="$lg"
-          paddingHorizontal="$md"
-          gap="$md"
-          alignItems="center"
-        >
-          <YStack
-            width={56}
-            height={56}
-            borderRadius={28}
-            backgroundColor="$background"
-            alignItems="center"
-            justifyContent="center"
-          >
-            <Mic2 size={28} color={theme.accent.val} />
-          </YStack>
-          <YStack flex={1} gap={2}>
-            <Text fontFamily="$display" fontSize="$4" color="$color">
-              {t('creators.entry.title')}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              {t('creators.entry.subtitle', { count })}
-            </Text>
-          </YStack>
-          <ChevronRight size={22} color={theme.accent.val} />
-        </XStack>
-      </AnimatedPressable>
-    </YStack>
-  )
-}
-
 function localeMatches(entry: CatalogEntry, currentLang: string): boolean {
   const langs = (entry as { languages?: string[] }).languages
   if (!langs || langs.length === 0) return true
@@ -161,8 +110,6 @@ export default function PrayDiscoveryScreen() {
             ))}
           </YStack>
         </YStack>
-
-        <CreatorsEntry />
 
         <YStack gap="$sm">
           <SectionHeading text={t('pray.section.formation')} />

@@ -1264,6 +1264,7 @@ export default {
   },
   creators: {
     title: 'Creators',
+    homeTagline: 'Podcasts, videos, and writing from trusted Catholic voices',
     tagline:
       'Trusted Catholic voices to walk with — podcasts, videos, and writing from priests, religious, and lay teachers.',
     entry: {

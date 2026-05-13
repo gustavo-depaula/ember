@@ -1267,6 +1267,7 @@ export default {
   },
   creators: {
     title: 'Criadores',
+    homeTagline: 'Podcasts, vídeos e textos de vozes católicas de confiança',
     tagline:
       'Vozes católicas de confiança para caminhar com você — podcasts, vídeos e textos de padres, religiosos e leigos.',
     entry: {
