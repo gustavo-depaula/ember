@@ -81,29 +81,30 @@ function CreatorsEntry() {
           borderRadius="$lg"
           borderWidth={1}
           borderColor="$accent"
-          padding="$md"
+          paddingVertical="$lg"
+          paddingHorizontal="$md"
           gap="$md"
           alignItems="center"
         >
           <YStack
-            width={48}
-            height={48}
-            borderRadius={24}
+            width={56}
+            height={56}
+            borderRadius={28}
             backgroundColor="$background"
             alignItems="center"
             justifyContent="center"
           >
-            <Mic2 size={24} color={theme.accent.val} />
+            <Mic2 size={28} color={theme.accent.val} />
           </YStack>
           <YStack flex={1} gap={2}>
-            <Text fontFamily="$display" fontSize="$3" color="$color">
+            <Text fontFamily="$display" fontSize="$4" color="$color">
               {t('creators.entry.title')}
             </Text>
             <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
               {t('creators.entry.subtitle', { count })}
             </Text>
           </YStack>
-          <ChevronRight size={20} color={theme.accent.val} />
+          <ChevronRight size={22} color={theme.accent.val} />
         </XStack>
       </AnimatedPressable>
     </YStack>
@@ -161,12 +162,12 @@ export default function PrayDiscoveryScreen() {
           </YStack>
         </YStack>
 
+        <CreatorsEntry />
+
         <YStack gap="$sm">
           <SectionHeading text={t('pray.section.formation')} />
           <CardRow ids={formationIds} />
         </YStack>
-
-        <CreatorsEntry />
 
         <YStack gap="$sm">
           <SectionHeading text={t('pray.section.themes')} />
