@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
@@ -9,6 +9,7 @@ import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorLanguage } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CreatorListItem } from '@/features/creators/components/CreatorListItem'
+import { refreshCreator } from '@/features/creators/feeds/fetcher'
 
 const LANG_FILTERS = ['all', 'en-US', 'pt-BR'] as const
 type LangFilter = (typeof LANG_FILTERS)[number]
@@ -79,6 +80,20 @@ export default function CreatorsDirectory() {
     () => getEntriesByKind('creator').map(([id, entry]) => ({ id, entry })),
     [catalogVersion],
   )
+
+  // Warm channel metadata + feed items for every creator on first directory
+  // visit so avatars (sourced from creator_meta.image_url) populate without
+  // requiring the user to open each profile manually. refreshCreator()
+  // debounces internally per creatorId and the fetcher's rate-limiter caps
+  // concurrency, so calling it for every creator is cheap on subsequent visits.
+  useEffect(() => {
+    for (const { id } of allRows) {
+      void refreshCreator(id).catch(() => {
+        // Best-effort: per-creator refresh errors are surfaced on the
+        // profile page itself via useMutation; don't bubble here.
+      })
+    }
+  }, [allRows])
 
   const sections = useMemo(() => {
     return SECTION_LANGS.map((lang) => ({
