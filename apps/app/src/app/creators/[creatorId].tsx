@@ -63,15 +63,21 @@ export default function CreatorProfile() {
   const unfollowMut = useUnfollow(creatorId)
 
   const refreshMut = useMutation({
-    mutationFn: () => refreshCreator(creatorId),
+    mutationFn: (opts?: { force?: boolean }) => refreshCreator(creatorId, opts),
     onSuccess: () => qc.invalidateQueries({ queryKey: ['feed-items', creatorId] }),
   })
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: refresh once when the manifest resolves; creatorId change unmounts this screen via the router.
   useEffect(() => {
     if (!manifest) return
-    refreshMut.mutate()
+    refreshMut.mutate(undefined)
   }, [manifest])
+
+  async function handlePullToRefresh() {
+    await refreshMut.mutateAsync({ force: true }).catch(() => {
+      // Error is already surfaced via refreshMut.isError below.
+    })
+  }
 
   if (!manifest) {
     return (
@@ -99,7 +105,7 @@ export default function CreatorProfile() {
   const hasShorts = items.some((i) => i.channelKind === 'youtube-short')
 
   return (
-    <ScreenLayout>
+    <ScreenLayout refreshing={refreshMut.isPending} onRefresh={handlePullToRefresh}>
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={localizeContent(manifest.name)} />
 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns="http://www.w3.org/2005/Atom">
+  <link rel="self" href="https://www.youtube.com/feeds/videos.xml?playlist_id=UUSHabc"/>
+  <id>yt:playlist:UUSHabc</id>
+  <title>Test Channel — Shorts</title>
+  <entry>
+    <id>yt:video:abcDEFghi12</id>
+    <yt:videoId>abcDEFghi12</yt:videoId>
+    <yt:channelId>UCabc</yt:channelId>
+    <title>How do I prepare for Confession? #shorts</title>
+    <link rel="alternate" href="https://www.youtube.com/shorts/abcDEFghi12"/>
+    <published>2026-04-29T15:00:00+00:00</published>
+    <updated>2026-04-29T15:00:00+00:00</updated>
+    <media:group>
+      <media:title>How do I prepare for Confession? #shorts</media:title>
+      <media:description>Quick reflection on Confession.</media:description>
+      <media:thumbnail url="https://i.ytimg.com/vi/abcDEFghi12/hqdefault.jpg" width="480" height="360"/>
+    </media:group>
+  </entry>
+</feed>

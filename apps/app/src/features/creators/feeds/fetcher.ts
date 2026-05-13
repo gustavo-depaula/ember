@@ -183,32 +183,41 @@ async function fetchChannel(
   switch (channel.kind) {
     case 'youtube': {
       if (!channel.channelId) return { drafts: [] }
-      // YouTube exposes hidden per-channel playlists keyed by channel-ID
-      // prefix swap (community-documented; not officially announced):
-      //   UC<rest> → channel ID
-      //   UULF<rest> → long-form videos only
-      //   UUSH<rest> → shorts only
-      // Fetching both separately lets us tag items at ingest time and split
-      // them into sub-tabs on the profile without a per-video request.
+      // Coverage: the channel_id Atom feed lists all recent uploads
+      // (videos, live streams, premieres). The UULF playlist is supposed to
+      // hold long-form videos only — but for some channels (e.g. ones with
+      // mostly live-stream/premiere uploads) UULF returns 0 entries even
+      // when the channel feed has 15. So use channel_id for coverage and
+      // UUSH (community-documented per-channel shorts playlist) as the
+      // *only* signal for "this is a Short". Anything in the channel feed
+      // that's NOT in UUSH gets tagged 'youtube'.
       const rest = channel.channelId.replace(/^UC/, '')
-      const videosUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UULF${rest}`
+      const channelUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
       const shortsUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH${rest}`
-      const [videosXml, shortsXml, channelImage] = await Promise.all([
-        fetcher(videosUrl).catch(() => ''),
+      const [channelXml, shortsXml, channelImage] = await Promise.all([
+        fetcher(channelUrl).catch(() => ''),
         fetcher(shortsUrl).catch(() => ''),
         fetchYoutubeChannelImage(channel.channelId, fetcher),
       ])
-      const videoDrafts = videosXml
-        ? await Promise.all(
-            parseYoutubeFeed(videosXml).map((d) => toDraft(d, creatorId, 'youtube')),
-          )
-        : []
-      const shortDrafts = shortsXml
-        ? await Promise.all(
-            parseYoutubeFeed(shortsXml).map((d) => toDraft(d, creatorId, 'youtube-short')),
-          )
-        : []
-      return { drafts: [...videoDrafts, ...shortDrafts], channelImage }
+      const shortsParsed = shortsXml ? parseYoutubeFeed(shortsXml) : []
+      const shortIds = new Set(shortsParsed.map((d) => d.videoId))
+      const channelParsed = channelXml ? parseYoutubeFeed(channelXml) : []
+
+      // Anything the channel feed surfaced that's also in shorts already
+      // covered; only emit shorts the channel feed didn't have on top.
+      const channelIds = new Set(channelParsed.map((d) => d.videoId))
+      const drafts: FeedItemDraft[] = []
+      for (const d of channelParsed) {
+        const kind: FeedItemDraft['channelKind'] = shortIds.has(d.videoId)
+          ? 'youtube-short'
+          : 'youtube'
+        drafts.push(await toDraft(d, creatorId, kind))
+      }
+      for (const d of shortsParsed) {
+        if (channelIds.has(d.videoId)) continue
+        drafts.push(await toDraft(d, creatorId, 'youtube-short'))
+      }
+      return { drafts, channelImage }
     }
     case 'podcast': {
       if (!channel.feedUrl) return { drafts: [] }

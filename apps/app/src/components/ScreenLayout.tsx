@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react'
 import { useEffect } from 'react'
+import { RefreshControl } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
@@ -12,10 +13,15 @@ export function ScreenLayout({
   children,
   scroll = true,
   padded = true,
+  refreshing,
+  onRefresh,
 }: {
   children: ReactNode
   scroll?: boolean
   padded?: boolean
+  /** Pull-to-refresh: when provided, the scroll view shows a RefreshControl. */
+  refreshing?: boolean
+  onRefresh?: () => void | Promise<void>
 }) {
   const insets = useSafeAreaInsets()
   const nowPlayingClearance = useNowPlayingClearance()
@@ -50,8 +56,17 @@ export function ScreenLayout({
 
   if (!scroll) return inner
 
+  const refreshControl = onRefresh ? (
+    <RefreshControl refreshing={!!refreshing} onRefresh={onRefresh} />
+  ) : undefined
+
   return (
-    <ScrollView flex={1} backgroundColor="$background" contentContainerStyle={scrollContentStyle}>
+    <ScrollView
+      flex={1}
+      backgroundColor="$background"
+      contentContainerStyle={scrollContentStyle}
+      refreshControl={refreshControl}
+    >
       {inner}
     </ScrollView>
   )
