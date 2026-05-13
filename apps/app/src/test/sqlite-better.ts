@@ -12,11 +12,14 @@ type Params = readonly unknown[] | undefined
 
 type RunResult = { lastInsertRowId: number; changes: number }
 
+type Statement = { sql: string; params?: Params }
+
 type FakeDb = {
   execAsync: (sql: string) => Promise<void>
   getFirstAsync: <T>(sql: string, params?: Params) => Promise<T | undefined>
   getAllAsync: <T>(sql: string, params?: Params) => Promise<T[]>
   runAsync: (sql: string, params?: Params) => Promise<RunResult>
+  runBatchInTx: (statements: Statement[]) => Promise<void>
   withTransactionAsync: (cb: () => Promise<void>) => Promise<void>
   closeAsync: () => Promise<void>
 }
@@ -45,6 +48,19 @@ function wrap(handle: Database.Database, name: string): FakeDb {
       return {
         lastInsertRowId: Number(info.lastInsertRowid ?? 0),
         changes: info.changes,
+      }
+    },
+    async runBatchInTx(statements: Statement[]) {
+      if (statements.length === 0) return
+      handle.exec('BEGIN')
+      try {
+        for (const s of statements) {
+          handle.prepare(s.sql).run(...normalizeParams(s.params))
+        }
+        handle.exec('COMMIT')
+      } catch (err) {
+        handle.exec('ROLLBACK')
+        throw err
       }
     },
     async withTransactionAsync(cb) {

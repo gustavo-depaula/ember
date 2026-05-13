@@ -86,6 +86,12 @@ vi.mock('react-native-reanimated', async () => {
     <Args extends unknown[]>(fn: (...a: Args) => unknown) =>
     (...args: Args) =>
       fn(...args)
+  // Layout-animation builders used as JSX props (`entering={FadeIn.duration(200)}`).
+  // Each method returns the same builder so chaining (`FadeIn.duration(...).delay(...)`)
+  // works without modeling Reanimated's real layout-animation type.
+  const layoutAnimationBuilder: Record<string, (..._args: unknown[]) => unknown> = {}
+  const layoutMethods = ['duration', 'delay', 'springify', 'easing', 'damping']
+  for (const m of layoutMethods) layoutAnimationBuilder[m] = () => layoutAnimationBuilder
   return {
     default: Animated,
     ...Animated,
@@ -107,6 +113,17 @@ vi.mock('react-native-reanimated', async () => {
     cancelAnimation: () => {},
     Extrapolation: { CLAMP: 'clamp', EXTEND: 'extend', IDENTITY: 'identity' },
     ReduceMotion: { System: 'system', Always: 'always', Never: 'never' },
+    FadeIn: layoutAnimationBuilder,
+    FadeOut: layoutAnimationBuilder,
+    SlideInLeft: layoutAnimationBuilder,
+    SlideInRight: layoutAnimationBuilder,
+    SlideInUp: layoutAnimationBuilder,
+    SlideInDown: layoutAnimationBuilder,
+    SlideOutLeft: layoutAnimationBuilder,
+    SlideOutRight: layoutAnimationBuilder,
+    SlideOutUp: layoutAnimationBuilder,
+    SlideOutDown: layoutAnimationBuilder,
+    LinearTransition: layoutAnimationBuilder,
   }
 })
 vi.mock('react-native-worklets', () => ({
@@ -371,8 +388,10 @@ vi.mock('lucide-react-native', () => {
     ChevronRight: Icon,
     ChevronsDownUp: Icon,
     ChevronsUpDown: Icon,
+    Calendar: Icon,
     CircleDashed: Icon,
     CircleDot: Icon,
+    CircleSlash: Icon,
     Clock: Icon,
     Cloud: Icon,
     CloudDownload: Icon,
@@ -381,14 +400,19 @@ vi.mock('lucide-react-native', () => {
     Flame: Icon,
     Heart: Icon,
     Home: Icon,
+    Hash: Icon,
     Library: Icon,
     List: Icon,
     Loader: Icon,
+    Minus: Icon,
     Plus: Icon,
     RotateCcw: Icon,
     Search: Icon,
     Sparkle: Icon,
     Sparkles: Icon,
+    Square: Icon,
+    Star: Icon,
+    Tag: Icon,
     Trash2: Icon,
     Type: Icon,
     X: Icon,
