@@ -124,13 +124,15 @@ async function serveRequest(msg: RequestMessage) {
       case 'getFirst':
         result = await realDb.getFirstAsync(msg.sql, msg.params ?? [])
         break
-      case 'runBatchInTx':
-        await realDb.withTransactionAsync(async () => {
+      case 'runBatchInTx': {
+        const db = realDb
+        await db.withTransactionAsync(async () => {
           for (const s of msg.statements) {
-            await realDb!.runAsync(s.sql, s.params ?? [])
+            await db.runAsync(s.sql, s.params ?? [])
           }
         })
         break
+      }
     }
     ch.postMessage({ type: 'response', id: msg.id, ok: true, result })
   } catch (err) {
