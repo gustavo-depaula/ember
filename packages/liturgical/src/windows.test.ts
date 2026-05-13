@@ -51,4 +51,17 @@ describe('windowFor — daily', () => {
     expect(new Date(w.starts_at).getMonth()).toBe(5)
     expect(new Date(w.starts_at).getDate()).toBe(1)
   })
+
+  it('next anchored at a logicalDay midnight resolves to tomorrow', () => {
+    // Regression: the engine calls `windowFor(level, ec.logicalDay(), 'next')`
+    // where `ec.logicalDay()` returns the logical-day midnight. Anchoring at
+    // a midnight Date is a routine input — windowFor must not re-bucket it
+    // back a day (the original implementation called `logicalDay` internally,
+    // which mapped midnight → previous day → "next" landed on today instead
+    // of tomorrow).
+    const todayMidnight = new Date(2026, 4, 7) // May 7 00:00 local
+    const w = windowFor('daily', todayMidnight, 'next')
+    expect(new Date(w.starts_at).getMonth()).toBe(4)
+    expect(new Date(w.starts_at).getDate()).toBe(8)
+  })
 })

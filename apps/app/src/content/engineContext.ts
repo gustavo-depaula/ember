@@ -1,5 +1,5 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
-import { logicalDay, windowFor } from '@ember/liturgical'
+import { windowFor } from '@ember/liturgical'
 import {
   getBookEntry,
   getProseText,
@@ -113,16 +113,16 @@ export function createEngineContext(
  */
 export function withSpiritualThreads(ec: EngineContext): EngineContext {
   const snapshot = useEventStore.getState()
-  // Honor the user's selected day (time-travel / day carousel). The engine
-  // resolves blocks against this anchor so review-resolution / capture-
-  // resolution see the same "today" the rest of the app does.
+  // Honor the user's selected day. `getToday()` already applies the 4am
+  // cutoff in live mode, so resolutions, the day carousel, and the wall
+  // all agree on what day it is.
   const today = getToday()
   const now = today.getTime()
 
   return {
     ...ec,
     supportsMovements: true,
-    logicalDay: () => logicalDay(today),
+    logicalDay: () => today,
     windowFor,
     resolutions: {
       active(level) {
