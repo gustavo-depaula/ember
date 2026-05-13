@@ -1,12 +1,13 @@
-import { Heart } from 'lucide-react-native'
+import { Heart, Plus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { SectionDivider } from '@/components'
+import { AnimatedPressable, SectionDivider } from '@/components'
 import type { Movement, MovementKind } from '@/db/events'
+import { lightTap } from '@/lib/haptics'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
 import { groupBySubject } from '../groupBySubject'
@@ -15,7 +16,7 @@ import { useActiveIntentions, useActiveThanksgivings, useClosedIntentions } from
 import { MovementActionMenu } from './MovementActionMenu'
 import { MovementCard } from './MovementCard'
 
-export function MovementList({ kind }: { kind: MovementKind }) {
+export function MovementList({ kind, onAdd }: { kind: MovementKind; onAdd?: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()
   const locale = getDateLocale()
@@ -33,6 +34,7 @@ export function MovementList({ kind }: { kind: MovementKind }) {
   const empty = active.length === 0 && closed.length === 0
 
   if (empty) {
+    const ctaKey = kind === 'intention' ? 'movements.capture.raise' : 'movements.capture.offer'
     return (
       <YStack paddingVertical="$xl" alignItems="center" gap="$md">
         <Heart size={32} color={theme.colorSecondary?.val} />
@@ -46,6 +48,31 @@ export function MovementList({ kind }: { kind: MovementKind }) {
         >
           {t(`movements.empty.${kind}`)}
         </Text>
+        {onAdd ? (
+          <AnimatedPressable
+            onPress={() => {
+              lightTap()
+              onAdd()
+            }}
+            accessibilityRole="button"
+            accessibilityLabel={t(ctaKey)}
+          >
+            <XStack
+              alignItems="center"
+              gap="$xs"
+              paddingVertical="$sm"
+              paddingHorizontal="$md"
+              borderRadius="$md"
+              borderWidth={1}
+              borderColor="$accent"
+            >
+              <Plus size={14} color={theme.accent?.val} />
+              <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
+                {t(ctaKey)}
+              </Text>
+            </XStack>
+          </AnimatedPressable>
+        ) : undefined}
       </YStack>
     )
   }

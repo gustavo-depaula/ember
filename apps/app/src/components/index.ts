@@ -23,6 +23,7 @@ export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
 export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
+export { PrayerTextInput } from './PrayerTextInput'
 export { PsalmodyBlock, type PsalmSlot } from './PsalmodyBlock'
 export {
   CanticleBlock,

@@ -76,7 +76,7 @@ export function MovementScreen({ kind }: { kind: MovementKind }) {
           </AnimatedPressable>
         </XStack>
 
-        <MovementList kind={kind} />
+        <MovementList kind={kind} onAdd={() => setCaptureOpen(true)} />
       </YStack>
       <MovementCaptureSheet
         kind={kind}

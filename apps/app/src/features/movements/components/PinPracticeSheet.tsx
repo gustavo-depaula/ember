@@ -43,7 +43,7 @@ export function PinPracticeSheet({
         {t('movements.pinPractice.subtitle')}
       </Text>
 
-      <ScrollView style={{ maxHeight: 360 }}>
+      <ScrollView style={{ flex: 1 }}>
         <YStack gap="$xs">
           {userPractices.length === 0 ? (
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">

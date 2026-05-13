@@ -2,10 +2,10 @@ import DateTimePicker from '@react-native-community/datetimepicker'
 import { ChevronDown, ChevronRight, Plus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, TextInput } from 'react-native'
+import { Platform } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, BottomSheet } from '@/components'
+import { AnimatedPressable, BottomSheet, PrayerTextInput } from '@/components'
 import type { Cadence, MovementKind } from '@/db/events'
 import { lightTap } from '@/lib/haptics'
 
@@ -86,27 +86,13 @@ export function MovementCaptureSheet({
         {t(promptKey)}
       </Text>
 
-      <TextInput
+      <PrayerTextInput
+        size="lg"
+        surface
         value={text}
         onChangeText={setText}
         placeholder={t(placeholderKey)}
-        placeholderTextColor={theme.colorSecondary?.val}
-        multiline
         autoFocus
-        style={{
-          fontFamily: 'EBGaramond_400Regular',
-          fontSize: 16,
-          color: theme.color?.val,
-          minHeight: 64,
-          maxHeight: 160,
-          textAlignVertical: 'top',
-          paddingVertical: 12,
-          paddingHorizontal: 14,
-          borderRadius: 10,
-          borderWidth: 1,
-          borderColor: theme.borderColor?.val,
-          backgroundColor: theme.backgroundSurface?.val,
-        }}
       />
 
       {kind === 'intention' ? <CadenceToggle value={cadence} onChange={setCadence} /> : undefined}

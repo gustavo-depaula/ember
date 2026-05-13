@@ -1,10 +1,10 @@
 import { Check, CircleSlash, Minus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Keyboard, TextInput } from 'react-native'
+import { Keyboard } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, PrayerTextInput } from '@/components'
 import type { ResolutionOutcome } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
@@ -125,26 +125,12 @@ export function RenderedReviewResolutionBlock({
             })}
           </XStack>
           {allowNotes ? (
-            <TextInput
+            <PrayerTextInput
+              size="sm"
+              fontSize={14}
               value={notes}
               onChangeText={setNotes}
               placeholder={t('resolutions.review.notesPlaceholder')}
-              placeholderTextColor={theme.colorSecondary?.val}
-              multiline
-              style={{
-                fontFamily: 'EBGaramond_400Regular',
-                fontSize: 14,
-                color: theme.color?.val,
-                minHeight: 48,
-                maxHeight: 120,
-                textAlignVertical: 'top',
-                paddingVertical: 8,
-                paddingHorizontal: 12,
-                borderRadius: 8,
-                borderWidth: 1,
-                borderColor: theme.borderColor?.val,
-                backgroundColor: theme.background?.val,
-              }}
             />
           ) : undefined}
         </>

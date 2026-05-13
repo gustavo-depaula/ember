@@ -278,6 +278,7 @@ export default {
     },
     offering: {
       empty: 'Nothing to carry yet — capture one below.',
+      pickHint: 'Pick what to carry in this prayer.',
       summary_one: 'Offering {{count}} intention',
       summary_other: 'Offering {{count}} intentions',
       summaryEmpty: 'Offering this prayer.',

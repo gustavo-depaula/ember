@@ -93,7 +93,7 @@ export function ConfirmHost() {
             justifyContent="center"
             paddingVertical="$md"
             borderRadius="$md"
-            backgroundColor={destructive ? '#B4322A' : '$accent'}
+            backgroundColor={destructive ? '$colorDestructive' : '$accent'}
           >
             <Text
               fontFamily="$heading"

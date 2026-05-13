@@ -102,13 +102,16 @@ export function MovementActionMenu({
               paddingHorizontal="$md"
               borderRadius="$md"
               borderWidth={1}
-              borderColor={a.destructive ? '#B4322A' : '$borderColor'}
+              borderColor={a.destructive ? '$colorDestructive' : '$borderColor'}
             >
-              <a.icon size={16} color={a.destructive ? '#B4322A' : theme.color?.val} />
+              <a.icon
+                size={16}
+                color={a.destructive ? theme.colorDestructive?.val : theme.color?.val}
+              />
               <Text
                 fontFamily="$heading"
                 fontSize="$2"
-                color={a.destructive ? '#B4322A' : '$color'}
+                color={a.destructive ? '$colorDestructive' : '$color'}
                 letterSpacing={0.5}
               >
                 {t(a.labelKey)}

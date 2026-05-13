@@ -1,10 +1,10 @@
 import { Check, Plus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Keyboard, TextInput } from 'react-native'
+import { Keyboard } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, PrayerTextInput } from '@/components'
 import type { Cadence, MovementKind } from '@/db/events'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
@@ -82,7 +82,7 @@ export function RenderedCaptureMovementBlock({
 
       {!skipped && (multi || captured.length === 0) ? (
         <>
-          <TextInput
+          <PrayerTextInput
             value={text}
             onChangeText={setText}
             placeholder={
@@ -90,22 +90,6 @@ export function RenderedCaptureMovementBlock({
                 ? t('movements.capture.intentionPlaceholder')
                 : t('movements.capture.thanksgivingPlaceholder')
             }
-            placeholderTextColor={theme.colorSecondary?.val}
-            multiline
-            style={{
-              fontFamily: 'EBGaramond_400Regular',
-              fontSize: 16,
-              color: theme.color?.val,
-              minHeight: 56,
-              maxHeight: 140,
-              textAlignVertical: 'top',
-              paddingVertical: 10,
-              paddingHorizontal: 12,
-              borderRadius: 8,
-              borderWidth: 1,
-              borderColor: theme.borderColor?.val,
-              backgroundColor: theme.background?.val,
-            }}
           />
 
           {kind === 'intention' ? (

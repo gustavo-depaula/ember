@@ -282,6 +282,7 @@ export default {
     },
     offering: {
       empty: 'Nada para levar à oração ainda — registre abaixo.',
+      pickHint: 'Escolha o que levar nesta oração.',
       summary_one: 'Oferecendo {{count}} intenção',
       summary_other: 'Oferecendo {{count}} intenções',
       summaryEmpty: 'Oferecendo esta oração.',
