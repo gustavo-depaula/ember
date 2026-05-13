@@ -46,7 +46,7 @@ export function ScreenLayout({
           width="100%"
           maxWidth={640}
           alignSelf="center"
-          paddingHorizontal={padded ? '$lg' : '$md'}
+          paddingHorizontal={padded ? '$lg' : 0}
         >
           {children}
         </YStack>

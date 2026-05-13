@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { ScrollView } from 'react-native'
+import { ScrollView, useWindowDimensions } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
@@ -27,6 +27,11 @@ const SECTION_LABEL_KEY: Record<CreatorLanguage, string> = {
 }
 
 const CARD_SIZE = 150
+const GRID_PAGE_PAD = 24
+const GRID_GAP = 16
+// Max width matches the ScreenLayout container so the grid lays out the same
+// on phones, foldables, and the centered content column on web/tablets.
+const GRID_MAX_WIDTH = 640
 
 function FilterPill({
   active,
@@ -76,6 +81,11 @@ export default function CreatorsDirectory() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const [filter, setFilter] = useState<LangFilter>('all')
+  const { width: screenWidth } = useWindowDimensions()
+  const gridCardSize = useMemo(() => {
+    const effectiveWidth = Math.min(screenWidth, GRID_MAX_WIDTH)
+    return Math.floor((effectiveWidth - 2 * GRID_PAGE_PAD - GRID_GAP) / 2)
+  }, [screenWidth])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as the catalog warms.
   const allRows = useMemo<CreatorRow[]>(
@@ -133,14 +143,18 @@ export default function CreatorsDirectory() {
           ))}
         </ScrollView>
 
-        {/* Sections */}
+        {/* Sections: when 'all' is selected we show horizontal carousels per
+            language (good for at-a-glance browsing across languages); when a
+            specific language is selected we flatten into a 2-column vertical
+            grid (lets the user actually browse every creator in that
+            language without horizontal scrubbing). */}
         {totalVisible === 0 ? (
           <YStack alignItems="center" padding="$xl">
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
               {t('creators.empty')}
             </Text>
           </YStack>
-        ) : (
+        ) : filter === 'all' ? (
           sections.map((section) => (
             <YStack key={section.lang} gap="$md">
               <XStack paddingHorizontal="$lg" alignItems="baseline" justifyContent="space-between">
@@ -162,6 +176,16 @@ export default function CreatorsDirectory() {
               </ScrollView>
             </YStack>
           ))
+        ) : (
+          <YStack paddingHorizontal="$lg">
+            <XStack flexWrap="wrap" gap={GRID_GAP} rowGap="$lg">
+              {sections
+                .flatMap((s) => s.rows)
+                .map((row) => (
+                  <CreatorGridCard key={row.id} creatorId={row.id} size={gridCardSize} />
+                ))}
+            </XStack>
+          </YStack>
         )}
 
         {/* Suggest a creator */}
