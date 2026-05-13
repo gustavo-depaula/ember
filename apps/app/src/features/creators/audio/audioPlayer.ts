@@ -9,6 +9,7 @@ import { useCreatorsStore } from '@/stores/creatorsStore'
 type SoundHandle = ReturnType<typeof createAudioPlayer>
 
 let player: SoundHandle | undefined
+let currentItemId: string | undefined
 let pollTimer: ReturnType<typeof setInterval> | undefined
 let progressTimer: ReturnType<typeof setInterval> | undefined
 
@@ -45,19 +46,19 @@ function stopPolling(): void {
 }
 
 export const audioBackend: AudioBackend = {
-  async load(uri) {
+  async load(uri, itemId) {
     await ensureAudioMode()
     if (player) {
       player.remove()
       player = undefined
     }
     player = createAudioPlayer({ uri })
+    currentItemId = itemId
   },
   async play() {
     if (!player) return
     player.play()
-    const item = useCreatorsStore.getState().nowPlaying
-    if (item) startPolling(item.itemId)
+    if (currentItemId) startPolling(currentItemId)
   },
   async pause() {
     if (!player) return
@@ -78,6 +79,7 @@ export const audioBackend: AudioBackend = {
       player.remove()
       player = undefined
     }
+    currentItemId = undefined
   },
 }
 

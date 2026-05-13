@@ -15,10 +15,17 @@ export type NowPlayingItem = {
   durationS?: number
   /** Resolved playback URI: `file://…` for pinned media, otherwise the stream URL. */
   mediaUrl: string
+  /** HTML description from the feed; rendered in the player screen if present. */
+  summary?: string
+  /** Link to the original page (web URL) — surfaced as "Open original" affordance. */
+  webUrl?: string
+  publishedAt?: number
 }
 
 export type AudioBackend = {
-  load: (uri: string) => Promise<void>
+  /** `itemId` lets the backend track which item it's playing without
+   * reading from the store mid-flight (the store updates after load). */
+  load: (uri: string, itemId: string) => Promise<void>
   play: () => Promise<void>
   pause: () => Promise<void>
   seek: (s: number) => Promise<void>
@@ -86,12 +93,17 @@ export const useCreatorsStore = create<CreatorsState>()(
         return
       }
       if (prev) await backend.unload()
-      await backend.load(item.mediaUrl)
-      await backend.play()
+      await backend.load(item.mediaUrl, item.itemId)
+      // Set nowPlaying BEFORE play() so any subscriber reacting to state
+      // (mini-bar, position slider) sees the new item before audio starts.
       set((s) => {
         s.nowPlaying = item
-        s.isPlaying = true
+        s.isPlaying = false
         s.positionS = 0
+      })
+      await backend.play()
+      set((s) => {
+        s.isPlaying = true
       })
     },
 

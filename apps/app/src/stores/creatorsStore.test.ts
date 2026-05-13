@@ -16,12 +16,13 @@ const item: NowPlayingItem = {
   durationS: 600,
 }
 
-function makeBackend(): AudioBackend & { calls: string[] } {
+function makeBackend(): AudioBackend & { calls: string[]; loadedItemId?: string } {
   const calls: string[] = []
-  return {
+  const self: AudioBackend & { calls: string[]; loadedItemId?: string } = {
     calls,
-    async load(uri: string) {
-      calls.push(`load:${uri}`)
+    async load(uri: string, itemId: string) {
+      calls.push(`load:${uri}:${itemId}`)
+      self.loadedItemId = itemId
     },
     async play() {
       calls.push('play')
@@ -39,6 +40,7 @@ function makeBackend(): AudioBackend & { calls: string[] } {
       calls.push('unload')
     },
   }
+  return self
 }
 
 describe('creatorsStore', () => {
@@ -62,7 +64,24 @@ describe('creatorsStore', () => {
     const s = useCreatorsStore.getState()
     expect(s.nowPlaying?.itemId).toBe('episode-1')
     expect(s.isPlaying).toBe(true)
-    expect(backend.calls).toEqual(['load:https://example.org/audio.mp3', 'play'])
+    expect(backend.calls).toEqual(['load:https://example.org/audio.mp3:episode-1', 'play'])
+  })
+
+  it('play() sets nowPlaying BEFORE calling backend.play() (regression: time-bar polling needs itemId at play time)', async () => {
+    let nowPlayingAtPlayCall: string | undefined
+    const backend: AudioBackend = {
+      async load() {},
+      async play() {
+        nowPlayingAtPlayCall = useCreatorsStore.getState().nowPlaying?.itemId
+      },
+      async pause() {},
+      async seek() {},
+      async setRate() {},
+      async unload() {},
+    }
+    useCreatorsStore.getState().setBackend(backend)
+    await useCreatorsStore.getState().play(item)
+    expect(nowPlayingAtPlayCall).toBe('episode-1')
   })
 
   it('togglePlay() pauses then resumes the same item', async () => {
@@ -90,7 +109,8 @@ describe('creatorsStore', () => {
     await useCreatorsStore.getState().play(second)
 
     expect(useCreatorsStore.getState().nowPlaying?.itemId).toBe('episode-2')
-    expect(backend.calls).toEqual(['unload', 'load:https://x/b.mp3', 'play'])
+    expect(backend.calls).toEqual(['unload', 'load:https://x/b.mp3:episode-2', 'play'])
+    expect(backend.loadedItemId).toBe('episode-2')
   })
 
   it('stop() clears nowPlaying and unloads', async () => {
