@@ -187,12 +187,19 @@ const { data: completions, isLoading } = useQuery({
 
 ## Testing
 
-- Vitest for pure logic — colocated test files (`module.test.ts` next to source)
+Three layers, fastest to slowest:
+
+- **Unit (`*.test.ts`):** Vitest, colocated next to source. Deterministic business logic only — liturgical calculations, content engine, streak logic. No UI.
+- **Integration (`*.test.tsx`):** Vitest + React Native Testing Library on `react-native-web` in jsdom. Real SQLite (better-sqlite3, `:memory:`), real Hearth corpus (read from `_site/hearth/v2/` on disk), real Zustand stores, real flow engine, real Tamagui. Drives multi-screen flows headlessly — no simulator, no dev server. Use for: render correctness, interaction flows, query/state plumbing. See `apps/app/src/test/renderApp.tsx` and `apps/app/src/features/practices/components/PracticeFlow.test.tsx` for the worked example.
+- **E2E (Maestro):** `apps/app/.maestro/` against a running iOS sim. Covers animations, gestures, native bridges — anything the jsdom layer can't. Run with `pnpm --filter @ember/app test:e2e`.
+
+Common conventions:
+
 - Explicit imports: `import { describe, expect, it } from 'vitest'` (no globals)
-- Config: `vitest.config.ts` at project root with `@/*` path alias
-- Run once: `pnpm test` — watch mode: `pnpm test:watch`
-- Focus on deterministic business logic (liturgical calculations, content engines, streak logic), not UI components
-- E2E (Maestro): flows live in `apps/app/.maestro/`. Run with `pnpm --filter @ember/app test:e2e` against a running iOS sim. See `docs/journal.md` (Maestro entry) for setup and the `/dev/reset` deep-link contract.
+- Run once: `pnpm test` — watch mode: `pnpm test:watch`. Integration tests share the same command; no separate runner.
+- Before the first integration run: `pnpm build:corpus` (writes `_site/hearth/v2/`). The fetch interceptor reads from there.
+- Integration tests share a global mock layer (`apps/app/src/test/setup.ts`). When you import a new native module, check whether it needs a stub there before writing a test against it.
+- Reuse `resetForTests()` from `apps/app/src/db/test-fixtures.ts` — same contract Maestro uses via `/dev/reset`.
 
 ### `testID` guidance
 

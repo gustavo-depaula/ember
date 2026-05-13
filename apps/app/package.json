@@ -73,7 +73,14 @@
     "zustand": "^5.0.12"
   },
   "devDependencies": {
-    "expo-dev-client": "^55.0.32"
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.6.0",
+    "@types/better-sqlite3": "^7.6.13",
+    "better-sqlite3": "^11.7.0",
+    "expo-dev-client": "^55.0.32",
+    "fake-indexeddb": "^6.2.5",
+    "jsdom": "^25.0.1"
   },
   "expo-router": {
     "root": "src/app"
