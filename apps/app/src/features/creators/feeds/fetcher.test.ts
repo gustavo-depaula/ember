@@ -52,14 +52,34 @@ const fakeFetcher = async (url: string): Promise<string> => {
 }
 
 describe('fetchCreatorDrafts', () => {
-  it('parses all three channel kinds and returns items in one merged list', async () => {
+  it('parses all channel kinds (including youtube-short split) into one merged list', async () => {
     const { items } = await fetchCreatorDrafts(manifest, { fetcher: fakeFetcher })
     const kinds = new Set(items.map((d) => d.channelKind))
-    expect(kinds).toEqual(new Set(['podcast', 'youtube', 'rss']))
-    // 2 podcast + 2 youtube + 2 rss
-    expect(items).toHaveLength(6)
+    // YouTube channel kind is split at fetch time: UULF playlist tags items
+    // as 'youtube', UUSH playlist tags as 'youtube-short'.
+    expect(kinds).toEqual(new Set(['podcast', 'youtube', 'youtube-short', 'rss']))
+    // 2 podcast + 2 youtube + 2 youtube-short + 2 rss (same fixture served
+    // for both playlist endpoints by the fake fetcher).
+    expect(items).toHaveLength(8)
     // Item id is deterministic from creator + guid.
     expect(items.every((d) => d.itemId.startsWith('creator/test-creator::'))).toBe(true)
+  })
+
+  it('separates UULF videos from UUSH shorts based on playlist_id', async () => {
+    let uulfHits = 0
+    let uushHits = 0
+    const counting: typeof fakeFetcher = async (url) => {
+      if (url.includes('playlist_id=UULF')) uulfHits++
+      if (url.includes('playlist_id=UUSH')) uushHits++
+      return fakeFetcher(url)
+    }
+    const { items } = await fetchCreatorDrafts(manifest, { fetcher: counting })
+    expect(uulfHits).toBe(1)
+    expect(uushHits).toBe(1)
+    const videos = items.filter((d) => d.channelKind === 'youtube')
+    const shorts = items.filter((d) => d.channelKind === 'youtube-short')
+    expect(videos.length).toBeGreaterThan(0)
+    expect(shorts.length).toBeGreaterThan(0)
   })
 
   it('surfaces the channel-level image from the podcast feed', async () => {

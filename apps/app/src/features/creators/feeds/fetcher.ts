@@ -134,7 +134,7 @@ type ParsedDraft = PodcastDraft | YoutubeDraft | RssDraft
 async function toDraft(
   d: ParsedDraft,
   creatorId: string,
-  channelKind: 'podcast' | 'youtube' | 'rss',
+  channelKind: FeedItemDraft['channelKind'],
 ): Promise<FeedItemDraft> {
   return {
     itemId: await deriveItemId(creatorId, d.guid),
@@ -183,13 +183,32 @@ async function fetchChannel(
   switch (channel.kind) {
     case 'youtube': {
       if (!channel.channelId) return { drafts: [] }
-      const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
-      const xml = await fetcher(url)
-      const [drafts, channelImage] = await Promise.all([
-        Promise.all(parseYoutubeFeed(xml).map((d) => toDraft(d, creatorId, 'youtube'))),
+      // YouTube exposes hidden per-channel playlists keyed by channel-ID
+      // prefix swap (community-documented; not officially announced):
+      //   UC<rest> → channel ID
+      //   UULF<rest> → long-form videos only
+      //   UUSH<rest> → shorts only
+      // Fetching both separately lets us tag items at ingest time and split
+      // them into sub-tabs on the profile without a per-video request.
+      const rest = channel.channelId.replace(/^UC/, '')
+      const videosUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UULF${rest}`
+      const shortsUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH${rest}`
+      const [videosXml, shortsXml, channelImage] = await Promise.all([
+        fetcher(videosUrl).catch(() => ''),
+        fetcher(shortsUrl).catch(() => ''),
         fetchYoutubeChannelImage(channel.channelId, fetcher),
       ])
-      return { drafts, channelImage }
+      const videoDrafts = videosXml
+        ? await Promise.all(
+            parseYoutubeFeed(videosXml).map((d) => toDraft(d, creatorId, 'youtube')),
+          )
+        : []
+      const shortDrafts = shortsXml
+        ? await Promise.all(
+            parseYoutubeFeed(shortsXml).map((d) => toDraft(d, creatorId, 'youtube-short')),
+          )
+        : []
+      return { drafts: [...videoDrafts, ...shortDrafts], channelImage }
     }
     case 'podcast': {
       if (!channel.feedUrl) return { drafts: [] }

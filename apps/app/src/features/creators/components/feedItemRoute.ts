@@ -3,7 +3,7 @@ import type { FeedItemRow } from '@/db/repositories/feedItems'
 
 export function routeFor(item: FeedItemRow) {
   const creatorId = bareId(item.creatorId)
-  if (item.channelKind === 'youtube') {
+  if (item.channelKind === 'youtube' || item.channelKind === 'youtube-short') {
     return {
       pathname: '/creators/[creatorId]/video/[itemId]' as const,
       params: { creatorId, itemId: item.itemId },

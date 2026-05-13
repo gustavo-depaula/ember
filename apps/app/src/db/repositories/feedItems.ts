@@ -15,7 +15,13 @@ export type PinSource = 'manual' | 'auto'
 export type FeedItemRow = {
   itemId: string
   creatorId: string
-  channelKind: 'podcast' | 'youtube' | 'rss'
+  /**
+   * 'youtube-short' is a distinct value from 'youtube' so the profile can
+   * split videos and shorts into separate sub-tabs. CreatorChannel.kind in
+   * the manifest stays 'youtube' — the split is per-item, derived at fetch
+   * time from YouTube's UULF (videos) vs UUSH (shorts) playlists.
+   */
+  channelKind: 'podcast' | 'youtube' | 'youtube-short' | 'rss'
   guid: string
   title: string
   summary?: string
@@ -166,10 +172,11 @@ export async function getCreatorAvatarUrl(creatorId: string): Promise<string | n
      GROUP BY channel_kind, image_url
      ORDER BY
        CASE channel_kind
-         WHEN 'podcast' THEN 1
-         WHEN 'rss'     THEN 2
-         WHEN 'youtube' THEN 3
-         ELSE 4
+         WHEN 'podcast'       THEN 1
+         WHEN 'rss'           THEN 2
+         WHEN 'youtube'       THEN 3
+         WHEN 'youtube-short' THEN 4
+         ELSE 5
        END,
        COUNT(*) DESC,
        MAX(published_at) DESC

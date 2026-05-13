@@ -1287,6 +1287,11 @@ export default {
       religious: 'Religioso',
       layTheologian: 'Teólogo leigo',
     },
+    youtubeFilter: {
+      all: 'Todos',
+      videos: 'Vídeos',
+      shorts: 'Shorts',
+    },
     empty: 'Ainda sem criadores — Ember é curado à mão. Tem alguém em mente?',
     noFeedItems: 'Ainda sem episódios — puxe para atualizar.',
     refreshFailed: 'Não foi possível carregar os últimos episódios.',

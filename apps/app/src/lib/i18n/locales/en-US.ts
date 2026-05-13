@@ -1284,6 +1284,11 @@ export default {
       religious: 'Religious',
       layTheologian: 'Lay theologian',
     },
+    youtubeFilter: {
+      all: 'All',
+      videos: 'Videos',
+      shorts: 'Shorts',
+    },
     empty: 'No creators yet — Ember is curated by hand. Have someone in mind?',
     noFeedItems: 'No episodes yet — pull to refresh.',
     refreshFailed: "Couldn't load the latest episodes.",

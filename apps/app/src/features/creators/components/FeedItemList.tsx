@@ -16,8 +16,9 @@ import { KindIcon } from './KindIcon'
 const THUMB_WIDTH = 80
 const THUMB_HEIGHT_BY_KIND: Record<FeedItemRow['channelKind'], number> = {
   youtube: 45, // 16:9
+  'youtube-short': 80, // tall — atom thumb is still 480×360, but we render a square chip
   podcast: 80, // 1:1
-  rss: 60, // 4:3 — magazine-ish
+  rss: 60, // 4:3
 }
 
 const SECONDS_PER_MIN = 60

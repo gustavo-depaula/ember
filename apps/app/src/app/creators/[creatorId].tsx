@@ -22,6 +22,14 @@ const TAB_LABEL_KEY: Record<CreatorChannelKind, string> = {
   rss: 'creators.tab.read',
 }
 
+type YoutubeSubFilter = 'all' | 'videos' | 'shorts'
+const YOUTUBE_SUB_FILTERS: YoutubeSubFilter[] = ['videos', 'shorts', 'all']
+const YOUTUBE_SUB_LABEL_KEY: Record<YoutubeSubFilter, string> = {
+  videos: 'creators.youtubeFilter.videos',
+  shorts: 'creators.youtubeFilter.shorts',
+  all: 'creators.youtubeFilter.all',
+}
+
 export default function CreatorProfile() {
   const { t } = useTranslation()
   const params = useLocalSearchParams<{ creatorId: string }>()
@@ -41,6 +49,7 @@ export default function CreatorProfile() {
 
   const [activeKind, setActiveKind] = useState<CreatorChannelKind | undefined>(undefined)
   const effectiveKind = activeKind ?? channelTabs[0]?.kind
+  const [ytSubFilter, setYtSubFilter] = useState<YoutubeSubFilter>('videos')
 
   const qc = useQueryClient()
   const { data: items = [], isLoading } = useQuery({
@@ -76,7 +85,18 @@ export default function CreatorProfile() {
     )
   }
 
-  const visibleItems = effectiveKind ? items.filter((i) => i.channelKind === effectiveKind) : items
+  const visibleItems = (() => {
+    if (!effectiveKind) return items
+    if (effectiveKind === 'youtube') {
+      // YouTube tab groups two channelKinds (video + shorts). Sub-filter
+      // controls which slice is shown.
+      if (ytSubFilter === 'videos') return items.filter((i) => i.channelKind === 'youtube')
+      if (ytSubFilter === 'shorts') return items.filter((i) => i.channelKind === 'youtube-short')
+      return items.filter((i) => i.channelKind === 'youtube' || i.channelKind === 'youtube-short')
+    }
+    return items.filter((i) => i.channelKind === effectiveKind)
+  })()
+  const hasShorts = items.some((i) => i.channelKind === 'youtube-short')
 
   return (
     <ScreenLayout>
@@ -150,6 +170,41 @@ export default function CreatorProfile() {
                     borderColor={active ? '$accent' : '$borderColor'}
                   >
                     <Text fontFamily="$heading" fontSize="$1" color={active ? '$accent' : '$color'}>
+                      {label}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              )
+            })}
+          </XStack>
+        )}
+
+        {effectiveKind === 'youtube' && hasShorts && (
+          <XStack gap="$xs" paddingHorizontal="$md">
+            {YOUTUBE_SUB_FILTERS.map((f) => {
+              const label = t(YOUTUBE_SUB_LABEL_KEY[f])
+              const active = ytSubFilter === f
+              return (
+                <AnimatedPressable
+                  key={f}
+                  onPress={() => setYtSubFilter(f)}
+                  accessibilityRole="button"
+                  accessibilityLabel={label}
+                >
+                  <YStack
+                    paddingHorizontal="$sm"
+                    paddingVertical={6}
+                    borderRadius={999}
+                    backgroundColor={active ? '$accent' : '$backgroundSurface'}
+                    borderWidth={1}
+                    borderColor={active ? '$accent' : '$borderColor'}
+                  >
+                    <Text
+                      fontFamily="$heading"
+                      fontSize="$1"
+                      color={active ? '$backgroundSurface' : '$color'}
+                      letterSpacing={1}
+                    >
                       {label}
                     </Text>
                   </YStack>
