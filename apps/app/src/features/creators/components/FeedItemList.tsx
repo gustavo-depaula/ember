@@ -1,3 +1,4 @@
+import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { Pin, PinOff } from 'lucide-react-native'
 import { useMemo } from 'react'
@@ -11,6 +12,13 @@ import { usePinFeedItem, useUnpinFeedItem } from '@/features/creators/hooks'
 import { useCreatorsStore } from '@/stores/creatorsStore'
 import { routeFor } from './feedItemRoute'
 import { KindIcon } from './KindIcon'
+
+const THUMB_WIDTH = 80
+const THUMB_HEIGHT_BY_KIND: Record<FeedItemRow['channelKind'], number> = {
+  youtube: 45, // 16:9
+  podcast: 80, // 1:1
+  rss: 60, // 4:3 — magazine-ish
+}
 
 const SECONDS_PER_MIN = 60
 
@@ -82,6 +90,7 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
         // Sibling pressables — the route pressable is the title area; the
         // PinButton sits beside it. Nesting <button> in <button> is invalid
         // HTML and breaks react-dom on web.
+        const thumbHeight = THUMB_HEIGHT_BY_KIND[item.channelKind]
         return (
           <XStack
             key={item.itemId}
@@ -93,7 +102,34 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
             borderColor="$borderColor"
             alignItems="center"
           >
-            <KindIcon kind={item.channelKind} size={20} />
+            {item.imageUrl ? (
+              <YStack
+                width={THUMB_WIDTH}
+                height={thumbHeight}
+                borderRadius={6}
+                overflow="hidden"
+                backgroundColor="$borderColor"
+              >
+                <Image
+                  source={item.imageUrl}
+                  style={{ width: THUMB_WIDTH, height: thumbHeight }}
+                  contentFit="cover"
+                  transition={150}
+                  accessibilityLabel={item.title}
+                />
+              </YStack>
+            ) : (
+              <YStack
+                width={THUMB_WIDTH}
+                height={thumbHeight}
+                borderRadius={6}
+                backgroundColor="$accentSubtle"
+                alignItems="center"
+                justifyContent="center"
+              >
+                <KindIcon kind={item.channelKind} size={22} />
+              </YStack>
+            )}
             <AnimatedPressable
               style={{ flex: 1 }}
               onPress={() => router.push(route)}
@@ -104,7 +140,8 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                 <Text fontFamily="$heading" fontSize="$2" color="$color" numberOfLines={2}>
                   {item.title}
                 </Text>
-                <XStack gap="$sm">
+                <XStack gap="$sm" alignItems="center">
+                  <KindIcon kind={item.channelKind} size={12} />
                   <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                     {date}
                   </Text>
