@@ -1,5 +1,4 @@
 import { ExternalLink } from 'lucide-react-native'
-import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
@@ -7,13 +6,8 @@ import { AnimatedPressable } from '@/components'
 import { openExternalUrl } from '@/config/links'
 import type { CreatorChannel } from '@/content/manifestTypes'
 import type { FeedItemRow } from '@/db/repositories/feedItems'
-import { ReaderWebView } from '@/features/books/ReaderWebView'
+import { RichDescription } from '../components/RichDescription'
 import { resolveArticleMode } from './articleSource'
-
-const READER_DOC = (body: string, color: string) => `<!doctype html>
-<html><head><meta name="viewport" content="width=device-width,initial-scale=1"/>
-<style>body{font-family:Georgia,serif;line-height:1.6;padding:24px;color:${color};background:transparent;}img,figure{max-width:100%;height:auto;}</style>
-</head><body>${body}</body></html>`
 
 export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: CreatorChannel }) {
   const { t, i18n } = useTranslation()
@@ -23,8 +17,6 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
   const date = new Intl.DateTimeFormat(i18n.language || 'en-US', { dateStyle: 'long' }).format(
     new Date(item.publishedAt),
   )
-  const bodyColor = theme.color.val
-  const html = useMemo(() => READER_DOC(summary, bodyColor), [summary, bodyColor])
 
   if (mode === 'fullText') {
     return (
@@ -37,7 +29,7 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
             {date}
           </Text>
         </YStack>
-        <ReaderWebView html={html} />
+        <RichDescription html={summary} />
       </YStack>
     )
   }
