@@ -3,7 +3,7 @@
  * every screen. Visibility is driven entirely by `creatorsStore.nowPlaying`.
  */
 
-import { useRouter } from 'expo-router'
+import { usePathname, useRouter } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -19,12 +19,17 @@ export function NowPlayingBar() {
   const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const pathname = usePathname()
   const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
   const isPlaying = useCreatorsStore((s) => s.isPlaying)
   const togglePlay = useCreatorsStore((s) => s.togglePlay)
   const stop = useCreatorsStore((s) => s.stop)
 
   if (!nowPlaying) return null
+
+  // Don't double-up with the full-screen player: if the user is on the
+  // detail page of the currently-playing item, hide the mini-bar.
+  if (pathname?.endsWith(`/episode/${nowPlaying.itemId}`)) return null
 
   // Sibling pressables instead of nested ones — nesting a <button> inside a
   // <button> is invalid HTML and breaks react-dom on web.
