@@ -147,7 +147,9 @@ export default function RootLayout() {
 
     async function initCorpus() {
       const t0 = Date.now()
-      const mark = (label: string) => console.log(`[boot] ${label} (+${Date.now() - t0}ms)`)
+      const mark = (label: string) => {
+        if (__DEV__) console.log(`[boot] ${label} (+${Date.now() - t0}ms)`)
+      }
       try {
         registerDataSources()
         installAudioBackend()
