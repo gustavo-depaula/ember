@@ -1,7 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft, ExternalLink } from 'lucide-react-native'
-import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -24,8 +23,6 @@ export default function VideoDetail() {
     queryFn: () => getFeedItem(itemId),
     enabled: !!itemId,
   })
-
-  const [embedError, setEmbedError] = useState<number | undefined>(undefined)
 
   if (!item) {
     return (
@@ -58,47 +55,10 @@ export default function VideoDetail() {
           <ChevronLeft size={26} color={theme.accent.val} />
         </Pressable>
 
-        {embedError === undefined ? (
-          <YouTubePlayer videoId={videoId} onError={setEmbedError} />
-        ) : (
-          <YStack
-            backgroundColor="$backgroundSurface"
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor="$borderColor"
-            padding="$lg"
-            gap="$sm"
-            alignItems="center"
-          >
-            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
-              {t('creators.videoEmbedFailed')}
-            </Text>
-            {__DEV__ && (
-              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                (YouTube error {embedError})
-              </Text>
-            )}
-            <AnimatedPressable
-              onPress={() => openExternalUrl(webUrl)}
-              accessibilityRole="link"
-              accessibilityLabel={t('creators.openOnYoutube')}
-            >
-              <XStack
-                gap="$sm"
-                alignItems="center"
-                paddingHorizontal="$md"
-                paddingVertical="$sm"
-                borderRadius="$md"
-                backgroundColor="$accentSubtle"
-              >
-                <ExternalLink size={16} color={theme.accent.val} />
-                <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                  {t('creators.openOnYoutube')}
-                </Text>
-              </XStack>
-            </AnimatedPressable>
-          </YStack>
-        )}
+        <YouTubePlayer
+          videoId={videoId}
+          onError={(code) => console.warn('[creators] YouTube embed error', code, 'for', videoId)}
+        />
 
         <YStack gap="$xs" paddingHorizontal="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$color">
