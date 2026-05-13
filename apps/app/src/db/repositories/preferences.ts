@@ -7,7 +7,7 @@ export async function getPreference(key: string): Promise<string | undefined> {
     'SELECT value FROM preferences WHERE key = ?',
     [key],
   )
-  return row?.value ?? undefined
+  return row?.value
 }
 
 export async function setPreference(key: string, value: string): Promise<void> {

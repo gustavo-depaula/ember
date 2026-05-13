@@ -1,6 +1,7 @@
 import { openDatabaseAsync } from 'expo-sqlite'
 import { Platform } from 'react-native'
 
+import { eventsTableSql } from '@/db/events/store'
 import initialMigration from '@/db/migrations/0001_initial.sql'
 
 import {
@@ -15,17 +16,10 @@ import {
   type WireMessage,
 } from './protocol'
 
-const eventsTableSql = `
-CREATE TABLE IF NOT EXISTS events (
-  sequence  INTEGER PRIMARY KEY AUTOINCREMENT,
-  type      TEXT NOT NULL,
-  payload   TEXT NOT NULL,
-  timestamp INTEGER NOT NULL,
-  version   INTEGER NOT NULL DEFAULT 1
-);
-CREATE INDEX IF NOT EXISTS idx_events_type ON events (type);
-CREATE INDEX IF NOT EXISTS idx_events_timestamp ON events (timestamp);
-`
+// Generous backstop — the primary failover signal is the Web Lock callback
+// firing on leader death, which drains pending synchronously. This timer
+// only catches the case where the leader is alive but unresponsive.
+const REQUEST_TIMEOUT_MS = 30_000
 
 type Deferred<T> = {
   promise: Promise<T>
@@ -43,6 +37,12 @@ function deferred<T>(): Deferred<T> {
   return { promise, resolve, reject }
 }
 
+type PendingEntry = {
+  d: Deferred<unknown>
+  body: RequestBody
+  timer: ReturnType<typeof setTimeout>
+}
+
 const tabId = crypto.randomUUID()
 
 let initPromise: Promise<EmberDb> | undefined
@@ -51,8 +51,14 @@ let realDb: Awaited<ReturnType<typeof openDatabaseAsync>> | undefined
 let isLeader = false
 const leaderReady = deferred<void>()
 
-const pending = new Map<string, Deferred<unknown>>()
+const pending = new Map<string, PendingEntry>()
 const subscribers = new Set<(payload: CrossTabPayload) => void>()
+
+// Broadcasts that arrive before the React tree subscribes (e.g. during the
+// follower's boot, before `<CrossTabSync />` mounts) would otherwise be lost.
+// Buffer them until the first subscriber attaches, then drain.
+const broadcastBuffer: CrossTabPayload[] = []
+let hasEverSubscribed = false
 
 function ensureChannel(): BroadcastChannel {
   if (!channel) {
@@ -71,15 +77,20 @@ function handleMessage(ev: MessageEvent) {
     return
   }
   if (msg.type === 'response') {
-    const d = pending.get(msg.id)
-    if (!d) return
+    const entry = pending.get(msg.id)
+    if (!entry) return
     pending.delete(msg.id)
-    if (msg.ok) d.resolve(msg.result)
-    else d.reject(new Error(msg.error))
+    clearTimeout(entry.timer)
+    if (msg.ok) entry.d.resolve(msg.result)
+    else entry.d.reject(new Error(msg.error))
     return
   }
   if (msg.type === 'broadcast') {
     if (msg.originId === tabId) return
+    if (!hasEverSubscribed) {
+      broadcastBuffer.push(msg.payload)
+      return
+    }
     for (const s of subscribers) s(msg.payload)
     return
   }
@@ -132,7 +143,12 @@ async function sendRequest(body: RequestBody): Promise<unknown> {
   const ch = ensureChannel()
   const id = crypto.randomUUID()
   const d = deferred<unknown>()
-  pending.set(id, d)
+  const timer = setTimeout(() => {
+    if (pending.delete(id)) {
+      d.reject(new Error('cross-tab DB request timed out'))
+    }
+  }, REQUEST_TIMEOUT_MS)
+  pending.set(id, { d, body, timer })
   ch.postMessage({ type: 'request', id, ...body } as RequestMessage)
   return d.promise
 }
@@ -144,6 +160,46 @@ async function becomeLeader(): Promise<void> {
   isLeader = true
   ensureChannel().postMessage({ type: 'leader-ready', leaderId: tabId })
   leaderReady.resolve()
+}
+
+/**
+ * Called right after this tab is promoted from follower to leader (the
+ * previous leader died, the Web Lock released, our queued lock request was
+ * granted). Any pending requests have already been posted to the dead leader
+ * and will never get a response. Reads are safe to re-execute locally; writes
+ * may have partially committed before the leader died, so we surface a
+ * retryable error to the caller rather than risk duplicates.
+ */
+function drainPendingOnPromotion(): void {
+  if (!realDb) return
+  const db = realDb
+  const entries = [...pending.entries()]
+  pending.clear()
+  for (const [, entry] of entries) {
+    clearTimeout(entry.timer)
+    const { d, body } = entry
+    if (body.method === 'getAll') {
+      db.getAllAsync(body.sql, body.params).then(
+        (res) => d.resolve(res),
+        (err) => d.reject(err),
+      )
+    } else if (body.method === 'getFirst') {
+      db.getFirstAsync(body.sql, body.params).then(
+        (res) => d.resolve(res),
+        (err) => d.reject(err),
+      )
+    } else {
+      d.reject(new Error('cross-tab leader changed mid-request; please retry'))
+    }
+  }
+}
+
+function rejectAllPending(err: unknown): void {
+  for (const [, entry] of pending) {
+    clearTimeout(entry.timer)
+    entry.d.reject(err)
+  }
+  pending.clear()
 }
 
 function makeProxy(): EmberDb {
@@ -182,8 +238,10 @@ function makeProxy(): EmberDb {
       await sendRequest({ method: 'runBatchInTx', statements })
     },
     async closeAsync() {
-      // Followers can't close — only the leader holds the connection.
-      // resetDatabase handles the cross-tab teardown via window.location.reload.
+      // resetDatabase reloads the tab after closing, so in-flight requests
+      // wouldn't survive anyway — but rejecting explicitly keeps awaiters
+      // from hanging if reset semantics ever change.
+      rejectAllPending(new Error('database closed'))
       if (isLeader && realDb) {
         await realDb.closeAsync()
         realDb = undefined
@@ -199,14 +257,17 @@ export async function initEmberDb(): Promise<EmberDb> {
   const ch = ensureChannel()
 
   // Try to acquire the leader lock. The callback runs only when this tab wins;
-  // we hold the lock until the tab unloads. Followers stay queued.
+  // we hold the lock until the tab unloads. Followers stay queued — if the
+  // leader dies, the browser promotes one of them by firing this callback.
   void navigator.locks.request(LOCK_NAME, { mode: 'exclusive' }, async () => {
     try {
       await becomeLeader()
     } catch (err) {
       leaderReady.reject(err)
+      rejectAllPending(err)
       throw err
     }
+    drainPendingOnPromotion()
     await new Promise<void>(() => {})
   })
 
@@ -225,6 +286,11 @@ export function broadcastChange(payload: CrossTabPayload): void {
 export function subscribeChanges(handler: (payload: CrossTabPayload) => void): () => void {
   if (Platform.OS !== 'web') return () => {}
   subscribers.add(handler)
+  if (!hasEverSubscribed) {
+    hasEverSubscribed = true
+    const drained = broadcastBuffer.splice(0)
+    for (const payload of drained) handler(payload)
+  }
   return () => {
     subscribers.delete(handler)
   }
