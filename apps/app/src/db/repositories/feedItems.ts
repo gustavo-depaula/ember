@@ -145,6 +145,22 @@ export async function getFeedItemsByCreator(creatorId: string, limit = 50): Prom
   return rows.map(rowToItem)
 }
 
+/**
+ * First non-empty image_url from any of the creator's items. Used as a
+ * fallback creator avatar when the manifest doesn't ship one. Podcast feeds
+ * generally fall back to the channel image, so this resolves to a sensible
+ * logo / cover for most creators.
+ */
+export async function getCreatorAvatarUrl(creatorId: string): Promise<string | undefined> {
+  const row = await getDb().getFirstAsync<{ image_url: string | null }>(
+    `SELECT image_url FROM feed_items
+     WHERE creator_id = ? AND image_url IS NOT NULL AND image_url != ''
+     ORDER BY published_at DESC LIMIT 1`,
+    [creatorId],
+  )
+  return row?.image_url ?? undefined
+}
+
 export async function getRecentFeedItems(limit = 8): Promise<FeedItemRow[]> {
   const rows = await getDb().getAllAsync<Row>(
     'SELECT * FROM feed_items ORDER BY published_at DESC LIMIT ?',
