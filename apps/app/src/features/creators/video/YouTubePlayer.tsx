@@ -5,14 +5,28 @@
  *
  * Reports playback errors (e.g. embedding disabled by uploader) via `onError`
  * so the parent can offer a fallback like "Watch on YouTube".
+ *
+ * YouTube error 153: after YouTube's 2025-07 stricter embed-identity check,
+ * inline-HTML WebViews fail with "Video player configuration error" because
+ * WKWebView doesn't auto-send a Referer. Fix is to give the WebView a real
+ * HTTPS baseUrl so it has a verifiable origin (this domain doubles as the
+ * value YouTube sees in the embed's referrer/origin). Critically the baseUrl
+ * must NOT be youtube.com itself — it must be a third-party host.
+ * Refs:
+ *   github.com/react-native-webview/react-native-webview/issues/3889
+ *   til.simonwillison.net/youtube/fixing-153-embed
  */
 
 import { useCallback, useMemo } from 'react'
 import { Platform, View } from 'react-native'
 
+const EMBED_ORIGIN = 'https://ember.dpgu.me'
+
 const NATIVE_HTML = (videoId: string) => `
 <!doctype html>
-<html><head><meta name="viewport" content="width=device-width,initial-scale=1"/><style>
+<html><head><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="referrer" content="strict-origin-when-cross-origin"/>
+<style>
 html,body{margin:0;padding:0;background:#000;height:100%;}
 #player{width:100%;height:100%;}
 </style></head><body>
@@ -28,6 +42,7 @@ html,body{margin:0;padding:0;background:#000;height:100%;}
         modestbranding: 1,
         playsinline: 1,
         enablejsapi: 1,
+        origin: ${JSON.stringify(EMBED_ORIGIN)},
       },
       events: {
         onStateChange: function(e) { window.ReactNativeWebView.postMessage(JSON.stringify({type:'state', state:e.data})); },
@@ -46,7 +61,7 @@ type Props = {
 }
 
 export function YouTubePlayer({ videoId, onError }: Props) {
-  const source = useMemo(() => ({ html: NATIVE_HTML(videoId) }), [videoId])
+  const source = useMemo(() => ({ html: NATIVE_HTML(videoId), baseUrl: EMBED_ORIGIN }), [videoId])
 
   const handleMessage = useCallback(
     (event: { nativeEvent: { data: string } }) => {
@@ -73,6 +88,7 @@ export function YouTubePlayer({ videoId, onError }: Props) {
           style={{ width: '100%', height: '100%', border: 'none' }}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
+          referrerPolicy="strict-origin-when-cross-origin"
         />
       </View>
     )
