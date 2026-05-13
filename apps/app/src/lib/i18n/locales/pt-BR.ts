@@ -212,7 +212,7 @@ export default {
     compline: 'Completas',
     back: 'Of\u00edcio',
     completed: 'Conclu\u00eddo',
-    markComplete: 'Marcar como Conclu\u00eddo',
+    amen: 'Am\u00e9m',
     completing: 'Concluindo...',
     fallbackNotice:
       'Mostrando Douay-Rheims (offline) \u2014 tradu\u00e7\u00e3o selecionada indispon\u00edvel',

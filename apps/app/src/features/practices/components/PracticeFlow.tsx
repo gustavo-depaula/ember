@@ -4,11 +4,10 @@ import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
 import { useQueries, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Home } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   BibleReadingBlock,
@@ -133,7 +132,6 @@ export function PracticeFlow({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const theme = useTheme()
   const readingMargin = useReadingMargin()
   const logCompletionMutation = useLogCompletion()
   const advanceCursor = useAdvanceCursor()
@@ -442,18 +440,6 @@ export function PracticeFlow({
     <ImageViewerProvider>
       <ScreenLayout>
         <YStack gap="$lg" paddingVertical="$lg">
-          <YStack alignItems="center">
-            <Pressable
-              onPress={() => router.push('/')}
-              hitSlop={12}
-              accessibilityRole="link"
-              accessibilityLabel={t('a11y.home')}
-              testID="practice-home-button"
-            >
-              <Home size={20} color={theme.colorSecondary.val} />
-            </Pressable>
-          </YStack>
-
           <ManuscriptFrame>
             <YStack
               alignItems="center"
@@ -489,35 +475,33 @@ export function PracticeFlow({
               ))}
             </YStack>
 
+            {manifest.completion !== 'manual' && (
+              <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                <AnimatedPressable
+                  onPress={handleComplete}
+                  disabled={logCompletionMutation.isPending}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('office.amen')}
+                >
+                  <YStack
+                    backgroundColor="$accent"
+                    borderRadius="$md"
+                    borderWidth={1}
+                    borderColor="$accentSubtle"
+                    paddingVertical="$md"
+                    alignItems="center"
+                    opacity={logCompletionMutation.isPending ? 0.6 : 1}
+                  >
+                    <Text fontFamily="$heading" fontSize="$3" color="$background">
+                      {logCompletionMutation.isPending ? t('office.completing') : t('office.amen')}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              </YStack>
+            )}
+
             <YStack paddingBottom="$lg" />
           </ManuscriptFrame>
-
-          {manifest.completion !== 'manual' && (
-            <YStack paddingHorizontal={readingMargin}>
-              <AnimatedPressable
-                onPress={handleComplete}
-                disabled={logCompletionMutation.isPending}
-                accessibilityRole="button"
-                accessibilityLabel={t('office.markComplete')}
-              >
-                <YStack
-                  backgroundColor="$accent"
-                  borderRadius="$md"
-                  borderWidth={1}
-                  borderColor="$accentSubtle"
-                  paddingVertical="$md"
-                  alignItems="center"
-                  opacity={logCompletionMutation.isPending ? 0.6 : 1}
-                >
-                  <Text fontFamily="$heading" fontSize="$3" color="$background">
-                    {logCompletionMutation.isPending
-                      ? t('office.completing')
-                      : t('office.markComplete')}
-                  </Text>
-                </YStack>
-              </AnimatedPressable>
-            </YStack>
-          )}
         </YStack>
 
         {showCompleteModal && manifest?.program && (

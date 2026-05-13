@@ -211,7 +211,7 @@ export default {
     compline: 'Compline',
     back: 'Office',
     completed: 'Completed',
-    markComplete: 'Mark as Complete',
+    amen: 'Amen',
     completing: 'Completing...',
     fallbackNotice: 'Showing Douay-Rheims (offline) \u2014 selected translation unavailable',
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
