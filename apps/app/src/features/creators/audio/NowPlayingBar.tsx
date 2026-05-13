@@ -31,14 +31,16 @@ export function NowPlayingBar() {
   return (
     <XStack
       position="absolute"
-      bottom={insets.bottom}
+      bottom={0}
       left={0}
       right={0}
       zIndex={100}
       alignItems="center"
       gap="$md"
-      padding="$md"
-      minHeight={NOW_PLAYING_BAR_HEIGHT}
+      paddingHorizontal="$md"
+      paddingTop="$md"
+      paddingBottom={insets.bottom + 12}
+      minHeight={NOW_PLAYING_BAR_HEIGHT + insets.bottom}
       backgroundColor="$backgroundSurface"
       borderTopWidth={1}
       borderTopColor="$borderColor"
