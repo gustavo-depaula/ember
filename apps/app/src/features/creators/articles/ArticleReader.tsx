@@ -10,9 +10,9 @@ import type { FeedItemRow } from '@/db/repositories/feedItems'
 import { ReaderWebView } from '@/features/books/ReaderWebView'
 import { resolveArticleMode } from './articleSource'
 
-const READER_DOC = (body: string) => `<!doctype html>
+const READER_DOC = (body: string, color: string) => `<!doctype html>
 <html><head><meta name="viewport" content="width=device-width,initial-scale=1"/>
-<style>body{font-family:Georgia,serif;line-height:1.6;padding:24px;color:#222;background:transparent;}img,figure{max-width:100%;height:auto;}</style>
+<style>body{font-family:Georgia,serif;line-height:1.6;padding:24px;color:${color};background:transparent;}img,figure{max-width:100%;height:auto;}</style>
 </head><body>${body}</body></html>`
 
 export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: CreatorChannel }) {
@@ -23,7 +23,8 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
   const date = new Intl.DateTimeFormat(i18n.language || 'en-US', { dateStyle: 'long' }).format(
     new Date(item.publishedAt),
   )
-  const html = useMemo(() => READER_DOC(summary), [summary])
+  const bodyColor = theme.color.val
+  const html = useMemo(() => READER_DOC(summary, bodyColor), [summary, bodyColor])
 
   if (mode === 'fullText') {
     return (
