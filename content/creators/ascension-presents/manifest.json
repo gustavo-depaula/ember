@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "Ascension Presents",
+    "pt-BR": "Ascension Presents"
+  },
+  "byline": {
+    "en-US": "Ascension · Catholic media hub · Fr. Mike Schmitz, Fr. Josh, Cavins"
+  },
+  "bio": {
+    "en-US": "The flagship video channel of Ascension, home of Fr. Mike Schmitz, Fr. Josh Johnson, Jeff Cavins, and other voices producing the Bible-in-a-Year, Catechism-in-a-Year, and Rosary-in-a-Year programs."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCVdGX3N-WIJ5nUvklBTNhAw",
+      "format": "mixed",
+      "title": { "en-US": "Ascension Presents (YouTube)" }
+    }
+  ],
+  "links": {
+    "website": "https://media.ascensionpress.com/"
+  },
+  "tags": ["catholic-media", "discipleship"]
+}

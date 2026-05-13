@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Frei Gilson — Som do Monte",
+    "pt-BR": "Frei Gilson — Som do Monte"
+  },
+  "byline": {
+    "en-US": "Carmelite friar · Rosary, music, and meditations",
+    "pt-BR": "Frade Carmelita · Rosário, música e meditações"
+  },
+  "bio": {
+    "en-US": "Frei Gilson, of the Discalced Carmelites in Brazil. Daily rosary livestreams, meditations, sermons, and Catholic music in the Carmelite tradition.",
+    "pt-BR": "Frei Gilson, Carmelita Descalço. Transmissões diárias do terço, meditações, pregações e música católica na tradição carmelita."
+  },
+  "languages": ["pt-BR"],
+  "charism": "carmelite",
+  "role": "religious",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCbh6_TmFnAJLI56aAQeD3qw",
+      "format": "mixed",
+      "title": { "pt-BR": "Frei Gilson (YouTube)" }
+    }
+  ],
+  "tags": ["marian", "carmelite", "lusophone", "music"]
+}

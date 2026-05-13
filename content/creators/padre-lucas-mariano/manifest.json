@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Padre Lucas Mariano",
+    "pt-BR": "Padre Lucas Mariano"
+  },
+  "byline": {
+    "en-US": "Diocesan priest · Daily homilies and Catholic formation",
+    "pt-BR": "Sacerdote diocesano · Homilias diárias e formação católica"
+  },
+  "bio": {
+    "en-US": "Diocesan priest of the Archdiocese of Brasília. Daily homilies, mental-prayer formation, and a Chestertonian voice that holds tradition together with joy and wit.",
+    "pt-BR": "Sacerdote diocesano da Arquidiocese de Brasília. Homilias diárias, formação para a oração mental e um olhar chestertoniano que une tradição, alegria e bom humor."
+  },
+  "languages": ["pt-BR"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCNBxGG3_Ejuzrg476XTnqeA",
+      "format": "homily",
+      "title": { "pt-BR": "Padre Lucas Mariano (YouTube)" }
+    }
+  ],
+  "tags": ["homily", "formation", "lusophone"]
+}

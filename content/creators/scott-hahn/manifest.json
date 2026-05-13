@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Road to Emmaus",
+    "pt-BR": "The Road to Emmaus"
+  },
+  "byline": {
+    "en-US": "Scott Hahn · Biblical theology · St. Paul Center"
+  },
+  "bio": {
+    "en-US": "Dr. Scott Hahn of the St. Paul Center for Biblical Theology unfolds Catholic doctrine through its biblical roots — covenant, liturgy, sacraments, and the lives of the saints."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feed.podbean.com/roadtoemmaus/feed.xml",
+      "format": "lecture",
+      "title": { "en-US": "The Road to Emmaus" }
+    }
+  ],
+  "links": {
+    "website": "https://www.stpaulcenter.com/"
+  },
+  "tags": ["bible", "theology"]
+}

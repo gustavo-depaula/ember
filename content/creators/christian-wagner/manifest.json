@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en-US": "Scholastic Answers",
+    "pt-BR": "Scholastic Answers"
+  },
+  "byline": {
+    "en-US": "Christian B. Wagner · Lay Thomist · Catholic apologetics"
+  },
+  "bio": {
+    "en-US": "Christian B. Wagner defends the Catholic faith with the scholastic method, drawing on St. Thomas Aquinas and the broader Thomistic tradition. Apologetics for a younger online audience."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCQ5DQ8zCOmeAqOcKTbSb7fg",
+      "format": "lecture",
+      "title": { "en-US": "Scholastic Answers (YouTube)" }
+    }
+  ],
+  "tags": ["thomistic", "apologetics"]
+}

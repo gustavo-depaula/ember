@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Ariel Lazari",
+    "pt-BR": "Ariel Lazari"
+  },
+  "byline": {
+    "en-US": "Catholic biblical archaeologist · Apologetics & Bible history",
+    "pt-BR": "Arqueólogo bíblico católico · Apologética e história da Bíblia"
+  },
+  "bio": {
+    "en-US": "Catholic biblical archaeologist trained at the University of Haifa (Israel) and philosophy at the University of Navarra (Spain). Daily teachings on Scripture, Church history, and apologetics against common heresies.",
+    "pt-BR": "Arqueólogo bíblico católico formado pela Universidade de Haifa (Israel) e em filosofia pela Universidade de Navarra (Espanha). Aulas diárias sobre Escritura, história da Igreja e apologética contra heresias comuns."
+  },
+  "languages": ["pt-BR"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UC9rAaPuFiEvFNEf3hcdG-kQ",
+      "format": "lecture",
+      "title": { "pt-BR": "Ariel Lazari (YouTube)" }
+    }
+  ],
+  "tags": ["bible", "apologetics", "archaeology", "lusophone"]
+}

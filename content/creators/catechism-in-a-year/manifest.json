@@ -1,0 +1,27 @@
+{
+  "name": {
+    "en-US": "The Catechism in a Year",
+    "pt-BR": "The Catechism in a Year"
+  },
+  "byline": {
+    "en-US": "Fr. Mike Schmitz · Daily Catechism reading · 365-day plan"
+  },
+  "bio": {
+    "en-US": "Fr. Mike Schmitz reads and commentates the entire Catechism of the Catholic Church in 365 daily episodes. Companion to The Bible in a Year. Produced by Ascension."
+  },
+  "languages": ["en-US"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "podcast",
+      "feedUrl": "https://feeds.fireside.fm/catechisminayear/rss",
+      "format": "reflection",
+      "title": { "en-US": "The Catechism in a Year" }
+    }
+  ],
+  "links": {
+    "website": "https://ascensionpress.com/pages/ciy-registration"
+  },
+  "tags": ["catechism", "daily", "doctrine"]
+}

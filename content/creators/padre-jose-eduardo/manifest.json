@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Padre José Eduardo",
+    "pt-BR": "Padre José Eduardo"
+  },
+  "byline": {
+    "en-US": "Diocesan priest · Moral theology (Angelicum, PhD) · Family and life",
+    "pt-BR": "Sacerdote diocesano · Teologia moral (Angelicum, doutorado) · Família e vida"
+  },
+  "bio": {
+    "en-US": "Diocesan priest of the Diocese of Osasco, doctorate in moral theology from the Angelicum (Rome). Catechesis on family life, gender ideology, life issues, and Catholic political philosophy.",
+    "pt-BR": "Sacerdote diocesano da Diocese de Osasco, doutor em teologia moral pelo Angelicum (Roma). Catequese sobre vida familiar, ideologia de gênero, questões de vida e filosofia política católica."
+  },
+  "languages": ["pt-BR"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCTHs2EYw7eUCiAZdrztxYEA",
+      "format": "lecture",
+      "title": { "pt-BR": "Padre José Eduardo (YouTube)" }
+    }
+  ],
+  "tags": ["moral-theology", "family", "lusophone"]
+}

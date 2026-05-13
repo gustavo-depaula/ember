@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Padre Reginaldo Manzotti",
+    "pt-BR": "Padre Reginaldo Manzotti"
+  },
+  "byline": {
+    "en-US": "Diocesan priest · Faith, hope, and Marian devotion",
+    "pt-BR": "Sacerdote diocesano · Fé, esperança e devoção mariana"
+  },
+  "bio": {
+    "en-US": "Brazilian diocesan priest from Curitiba; the 'Experiência de Deus' program reaches millions across Brazil with daily faith content, healing Masses, and Marian devotion.",
+    "pt-BR": "Sacerdote diocesano de Curitiba; o programa 'Experiência de Deus' alcança milhões de brasileiros com conteúdo diário de fé, missas de cura e devoção mariana."
+  },
+  "languages": ["pt-BR"],
+  "charism": "diocesan",
+  "role": "priest",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCLOqStDCKZNvN_8Oqu2emGA",
+      "format": "mixed",
+      "title": { "pt-BR": "Padre Reginaldo Manzotti (YouTube)" }
+    }
+  ],
+  "tags": ["devotion", "marian", "lusophone"]
+}
