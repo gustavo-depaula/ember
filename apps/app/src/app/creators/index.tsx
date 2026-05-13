@@ -3,12 +3,12 @@ import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable, ScreenLayout } from '@/components'
 import { openExternalUrl, SUGGEST_CREATOR_URL } from '@/config/links'
 import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorLanguage } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { CreatorCard } from '@/features/creators/components/CreatorCard'
+import { CreatorListItem } from '@/features/creators/components/CreatorListItem'
 
 const LANG_FILTERS = ['all', 'en-US', 'pt-BR'] as const
 type LangFilter = (typeof LANG_FILTERS)[number]
@@ -18,7 +18,14 @@ const FILTER_LABEL_KEY: Record<LangFilter, string> = {
   'pt-BR': 'creators.filter.portuguese',
 }
 
-function FilterChip({
+const SECTION_LANGS: CreatorLanguage[] = ['en-US', 'pt-BR']
+const SECTION_LABEL_KEY: Record<CreatorLanguage, string> = {
+  'en-US': 'creators.section.english',
+  'pt-BR': 'creators.section.portuguese',
+  la: 'creators.section.latin',
+}
+
+function FilterPill({
   active,
   label,
   onPress,
@@ -30,14 +37,19 @@ function FilterChip({
   return (
     <AnimatedPressable onPress={onPress} accessibilityRole="button" accessibilityLabel={label}>
       <YStack
-        backgroundColor={active ? '$accentSubtle' : '$backgroundSurface'}
-        borderRadius="$md"
+        backgroundColor={active ? '$accent' : '$backgroundSurface'}
+        borderRadius={999}
         borderWidth={1}
         borderColor={active ? '$accent' : '$borderColor'}
         paddingHorizontal="$md"
         paddingVertical="$sm"
       >
-        <Text fontFamily="$heading" fontSize="$1" color={active ? '$accent' : '$color'}>
+        <Text
+          fontFamily="$heading"
+          fontSize="$1"
+          color={active ? '$backgroundSurface' : '$color'}
+          letterSpacing={1}
+        >
           {label}
         </Text>
       </YStack>
@@ -49,40 +61,57 @@ function entryHasLanguage(entry: CatalogEntry, lang: CreatorLanguage): boolean {
   return entry.creatorLanguages?.includes(lang) ?? false
 }
 
+type CreatorRow = { id: string; entry: CatalogEntry }
+
+function sortByName(rows: CreatorRow[]): CreatorRow[] {
+  return [...rows].sort((a, b) =>
+    (a.entry.name?.['en-US'] ?? a.id).localeCompare(b.entry.name?.['en-US'] ?? b.id),
+  )
+}
+
 export default function CreatorsDirectory() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const [filter, setFilter] = useState<LangFilter>('all')
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as the catalog warms.
-  const entries = useMemo(
-    () =>
-      getEntriesByKind('creator')
-        .map(([id, entry]) => ({ id, entry }))
-        .sort((a, b) =>
-          (a.entry.name?.['en-US'] ?? a.id).localeCompare(b.entry.name?.['en-US'] ?? b.id),
-        ),
+  const allRows = useMemo<CreatorRow[]>(
+    () => getEntriesByKind('creator').map(([id, entry]) => ({ id, entry })),
     [catalogVersion],
   )
 
-  const visible = useMemo(
-    () =>
-      filter === 'all' ? entries : entries.filter(({ entry }) => entryHasLanguage(entry, filter)),
-    [entries, filter],
-  )
+  const sections = useMemo(() => {
+    return SECTION_LANGS.map((lang) => ({
+      lang,
+      rows: sortByName(
+        allRows.filter(
+          ({ entry }) => entryHasLanguage(entry, lang) && (filter === 'all' || filter === lang),
+        ),
+      ),
+    })).filter((s) => s.rows.length > 0)
+  }, [allRows, filter])
+
+  const totalVisible = sections.reduce((n, s) => n + s.rows.length, 0)
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <PageHeader title={t('creators.title')} />
+    <ScreenLayout padded={false}>
+      <YStack paddingVertical="$lg" gap="$lg">
+        <YStack paddingHorizontal="$lg" gap="$xs">
+          <Text fontFamily="$display" fontSize="$5" color="$color">
+            {t('creators.title')}
+          </Text>
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" lineHeight={22}>
+            {t('creators.tagline')}
+          </Text>
+        </YStack>
 
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
-          contentContainerStyle={{ paddingHorizontal: 12, gap: 8 }}
+          contentContainerStyle={{ paddingHorizontal: 24, gap: 8 }}
         >
           {LANG_FILTERS.map((code) => (
-            <FilterChip
+            <FilterPill
               key={code}
               active={filter === code}
               label={t(FILTER_LABEL_KEY[code])}
@@ -91,21 +120,58 @@ export default function CreatorsDirectory() {
           ))}
         </ScrollView>
 
-        {visible.length === 0 ? (
-          <YStack alignItems="center" padding="$lg">
-            <Text fontFamily="$body" color="$colorSecondary">
+        {totalVisible === 0 ? (
+          <YStack alignItems="center" padding="$xl">
+            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
               {t('creators.empty')}
             </Text>
           </YStack>
         ) : (
-          <XStack flexWrap="wrap" gap="$md" justifyContent="center" paddingHorizontal="$md">
-            {visible.map(({ id }) => (
-              <CreatorCard key={id} creatorId={id} width={160} />
+          <YStack
+            backgroundColor="$background"
+            marginHorizontal="$lg"
+            borderRadius="$lg"
+            borderWidth={1}
+            borderColor="$borderColor"
+            overflow="hidden"
+          >
+            {sections.map((section, sIdx) => (
+              <YStack key={section.lang}>
+                {(sections.length > 1 || filter === 'all') && (
+                  <XStack
+                    paddingHorizontal="$lg"
+                    paddingTop={sIdx === 0 ? '$md' : '$lg'}
+                    paddingBottom="$xs"
+                    backgroundColor="$backgroundSurface"
+                    borderBottomWidth={1}
+                    borderBottomColor="$borderColor"
+                  >
+                    <Text
+                      fontFamily="$heading"
+                      fontSize="$1"
+                      color="$accent"
+                      letterSpacing={2}
+                      textTransform="uppercase"
+                    >
+                      {t(SECTION_LABEL_KEY[section.lang])}
+                    </Text>
+                  </XStack>
+                )}
+                {section.rows.map((row, rIdx) => (
+                  <YStack
+                    key={row.id}
+                    borderBottomWidth={rIdx < section.rows.length - 1 ? 1 : 0}
+                    borderBottomColor="$borderColor"
+                  >
+                    <CreatorListItem creatorId={row.id} />
+                  </YStack>
+                ))}
+              </YStack>
             ))}
-          </XStack>
+          </YStack>
         )}
 
-        <YStack paddingHorizontal="$md" paddingTop="$md">
+        <YStack paddingHorizontal="$lg" paddingTop="$md">
           <AnimatedPressable
             onPress={() => openExternalUrl(SUGGEST_CREATOR_URL)}
             accessibilityRole="link"
@@ -118,6 +184,7 @@ export default function CreatorsDirectory() {
               borderColor="$borderColor"
               padding="$md"
               alignItems="center"
+              gap={2}
             >
               <Text fontFamily="$heading" fontSize="$2" color="$accent">
                 {t('creators.suggest')}

@@ -1267,6 +1267,25 @@ export default {
   },
   creators: {
     title: 'Criadores',
+    tagline:
+      'Vozes católicas de confiança para caminhar com você — podcasts, vídeos e textos de padres, religiosos e leigos.',
+    entry: {
+      title: 'Criadores Católicos',
+      subtitle_one: '{{count}} voz para caminhar com você',
+      subtitle_other: '{{count}} vozes para caminhar com você',
+    },
+    section: {
+      english: 'Em inglês',
+      portuguese: 'Em português',
+      latin: 'Em latim',
+    },
+    role: {
+      priest: 'Sacerdote',
+      bishop: 'Bispo',
+      deacon: 'Diácono',
+      religious: 'Religioso',
+      layTheologian: 'Teólogo leigo',
+    },
     empty: 'Ainda sem criadores — Ember é curado à mão. Tem alguém em mente?',
     noFeedItems: 'Ainda sem episódios — puxe para atualizar.',
     refreshFailed: 'Não foi possível carregar os últimos episódios.',

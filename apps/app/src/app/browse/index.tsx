@@ -1,8 +1,9 @@
 import { useRouter } from 'expo-router'
+import { ChevronRight, Mic2 } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
 import { getEntriesByKind, getEntry } from '@/content/contentIndex'
@@ -23,7 +24,6 @@ import {
   seasonOrder,
   themeIds,
 } from '@/features/collections/sectionLayout'
-import { CreatorCard } from '@/features/creators/components/CreatorCard'
 import { useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import type { LiturgicalCalendarForm } from '@/lib/liturgical'
@@ -61,31 +61,51 @@ function CardRow({ ids, cardWidth = 200 }: { ids: CollectionId[]; cardWidth?: nu
   )
 }
 
-function CreatorsRow() {
+function CreatorsEntry() {
   const { t } = useTranslation()
   const router = useRouter()
+  const theme = useTheme()
   const catalogVersion = useCatalogVersion()
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
-  const ids = useMemo(() => getEntriesByKind('creator').map(([id]) => id), [catalogVersion])
-  if (ids.length === 0) return null
+  const count = useMemo(() => getEntriesByKind('creator').length, [catalogVersion])
+  if (count === 0) return null
   return (
-    <YStack gap="$sm">
+    <YStack paddingHorizontal="$md">
       <AnimatedPressable
         onPress={() => router.push('/creators')}
         accessibilityRole="link"
-        accessibilityLabel={t('creators.title')}
+        accessibilityLabel={t('creators.entry.title')}
       >
-        <SectionHeading text={t('creators.title')} />
+        <XStack
+          backgroundColor="$accentSubtle"
+          borderRadius="$lg"
+          borderWidth={1}
+          borderColor="$accent"
+          padding="$md"
+          gap="$md"
+          alignItems="center"
+        >
+          <YStack
+            width={48}
+            height={48}
+            borderRadius={24}
+            backgroundColor="$background"
+            alignItems="center"
+            justifyContent="center"
+          >
+            <Mic2 size={24} color={theme.accent.val} />
+          </YStack>
+          <YStack flex={1} gap={2}>
+            <Text fontFamily="$display" fontSize="$3" color="$color">
+              {t('creators.entry.title')}
+            </Text>
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+              {t('creators.entry.subtitle', { count })}
+            </Text>
+          </YStack>
+          <ChevronRight size={20} color={theme.accent.val} />
+        </XStack>
       </AnimatedPressable>
-      <ScrollView
-        horizontal
-        showsHorizontalScrollIndicator={false}
-        contentContainerStyle={{ paddingHorizontal: 12, gap: 12 }}
-      >
-        {ids.map((id) => (
-          <CreatorCard key={id} creatorId={id} width={160} />
-        ))}
-      </ScrollView>
     </YStack>
   )
 }
@@ -146,7 +166,7 @@ export default function PrayDiscoveryScreen() {
           <CardRow ids={formationIds} />
         </YStack>
 
-        <CreatorsRow />
+        <CreatorsEntry />
 
         <YStack gap="$sm">
           <SectionHeading text={t('pray.section.themes')} />

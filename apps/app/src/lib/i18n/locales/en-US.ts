@@ -1264,6 +1264,25 @@ export default {
   },
   creators: {
     title: 'Creators',
+    tagline:
+      'Trusted Catholic voices to walk with — podcasts, videos, and writing from priests, religious, and lay teachers.',
+    entry: {
+      title: 'Catholic Creators',
+      subtitle_one: '{{count}} voice to walk with',
+      subtitle_other: '{{count}} voices to walk with',
+    },
+    section: {
+      english: 'In English',
+      portuguese: 'Em português',
+      latin: 'In Latin',
+    },
+    role: {
+      priest: 'Priest',
+      bishop: 'Bishop',
+      deacon: 'Deacon',
+      religious: 'Religious',
+      layTheologian: 'Lay theologian',
+    },
     empty: 'No creators yet — Ember is curated by hand. Have someone in mind?',
     noFeedItems: 'No episodes yet — pull to refresh.',
     refreshFailed: "Couldn't load the latest episodes.",
