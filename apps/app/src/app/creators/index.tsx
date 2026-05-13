@@ -8,7 +8,7 @@ import { openExternalUrl, SUGGEST_CREATOR_URL } from '@/config/links'
 import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorLanguage } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { CreatorListItem } from '@/features/creators/components/CreatorListItem'
+import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { refreshCreator } from '@/features/creators/feeds/fetcher'
 
 const LANG_FILTERS = ['all', 'en-US', 'pt-BR'] as const
@@ -25,6 +25,8 @@ const SECTION_LABEL_KEY: Record<CreatorLanguage, string> = {
   'pt-BR': 'creators.section.portuguese',
   la: 'creators.section.latin',
 }
+
+const CARD_SIZE = 150
 
 function FilterPill({
   active,
@@ -48,7 +50,7 @@ function FilterPill({
         <Text
           fontFamily="$heading"
           fontSize="$1"
-          color={active ? '$backgroundSurface' : '$color'}
+          color={active ? 'white' : '$color'}
           letterSpacing={1}
         >
           {label}
@@ -81,17 +83,11 @@ export default function CreatorsDirectory() {
     [catalogVersion],
   )
 
-  // Warm channel metadata + feed items for every creator on first directory
-  // visit so avatars (sourced from creator_meta.image_url) populate without
-  // requiring the user to open each profile manually. refreshCreator()
-  // debounces internally per creatorId and the fetcher's rate-limiter caps
-  // concurrency, so calling it for every creator is cheap on subsequent visits.
+  // Warm channel metadata + feed items on first visit so all avatars + Latest
+  // populate without requiring the user to open each profile.
   useEffect(() => {
     for (const { id } of allRows) {
-      void refreshCreator(id).catch(() => {
-        // Best-effort: per-creator refresh errors are surfaced on the
-        // profile page itself via useMutation; don't bubble here.
-      })
+      void refreshCreator(id).catch(() => {})
     }
   }, [allRows])
 
@@ -110,7 +106,8 @@ export default function CreatorsDirectory() {
 
   return (
     <ScreenLayout padded={false}>
-      <YStack paddingVertical="$lg" gap="$lg">
+      <YStack paddingTop="$lg" gap="$xl" paddingBottom="$xl">
+        {/* Header */}
         <YStack paddingHorizontal="$lg" gap="$xs">
           <Text fontFamily="$display" fontSize="$5" color="$color">
             {t('creators.title')}
@@ -120,6 +117,7 @@ export default function CreatorsDirectory() {
           </Text>
         </YStack>
 
+        {/* Language filter pills */}
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
@@ -135,6 +133,7 @@ export default function CreatorsDirectory() {
           ))}
         </ScrollView>
 
+        {/* Sections */}
         {totalVisible === 0 ? (
           <YStack alignItems="center" padding="$xl">
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
@@ -142,50 +141,30 @@ export default function CreatorsDirectory() {
             </Text>
           </YStack>
         ) : (
-          <YStack
-            backgroundColor="$background"
-            marginHorizontal="$lg"
-            borderRadius="$lg"
-            borderWidth={1}
-            borderColor="$borderColor"
-            overflow="hidden"
-          >
-            {sections.map((section, sIdx) => (
-              <YStack key={section.lang}>
-                {(sections.length > 1 || filter === 'all') && (
-                  <XStack
-                    paddingHorizontal="$lg"
-                    paddingTop={sIdx === 0 ? '$md' : '$lg'}
-                    paddingBottom="$xs"
-                    backgroundColor="$backgroundSurface"
-                    borderBottomWidth={1}
-                    borderBottomColor="$borderColor"
-                  >
-                    <Text
-                      fontFamily="$heading"
-                      fontSize="$1"
-                      color="$accent"
-                      letterSpacing={2}
-                      textTransform="uppercase"
-                    >
-                      {t(SECTION_LABEL_KEY[section.lang])}
-                    </Text>
-                  </XStack>
-                )}
-                {section.rows.map((row, rIdx) => (
-                  <YStack
-                    key={row.id}
-                    borderBottomWidth={rIdx < section.rows.length - 1 ? 1 : 0}
-                    borderBottomColor="$borderColor"
-                  >
-                    <CreatorListItem creatorId={row.id} />
-                  </YStack>
+          sections.map((section) => (
+            <YStack key={section.lang} gap="$md">
+              <XStack paddingHorizontal="$lg" alignItems="baseline" justifyContent="space-between">
+                <Text fontFamily="$display" fontSize="$3" color="$color">
+                  {t(SECTION_LABEL_KEY[section.lang])}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {section.rows.length}
+                </Text>
+              </XStack>
+              <ScrollView
+                horizontal
+                showsHorizontalScrollIndicator={false}
+                contentContainerStyle={{ paddingHorizontal: 24, gap: 14 }}
+              >
+                {section.rows.map((row) => (
+                  <CreatorGridCard key={row.id} creatorId={row.id} size={CARD_SIZE} />
                 ))}
-              </YStack>
-            ))}
-          </YStack>
+              </ScrollView>
+            </YStack>
+          ))
         )}
 
+        {/* Suggest a creator */}
         <YStack paddingHorizontal="$lg" paddingTop="$md">
           <AnimatedPressable
             onPress={() => openExternalUrl(SUGGEST_CREATOR_URL)}
