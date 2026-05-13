@@ -79,3 +79,14 @@ CREATE TABLE IF NOT EXISTS pending_pins (
   item_id   TEXT PRIMARY KEY,
   queued_at INTEGER NOT NULL
 );
+
+-- creator_meta: channel-level metadata captured at feed-refresh time
+-- (specifically the podcast/RSS channel image, used as the creator avatar).
+-- We store this separately from feed_items because feed_items.image_url is
+-- per-episode (and for podcasts with per-episode art, doesn't equal the
+-- channel logo).
+CREATE TABLE IF NOT EXISTS creator_meta (
+  creator_id TEXT PRIMARY KEY,
+  image_url  TEXT,
+  updated_at INTEGER NOT NULL
+);

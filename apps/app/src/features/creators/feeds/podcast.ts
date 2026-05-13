@@ -20,6 +20,12 @@ export type PodcastDraft = {
   chaptersUrl?: string
 }
 
+export type PodcastFeedResult = {
+  items: PodcastDraft[]
+  /** Channel-level <itunes:image>/<image>. Stable across episodes; used as the creator avatar. */
+  channelImage?: string
+}
+
 // iTunes duration may be plain seconds, "MM:SS", or "HH:MM:SS".
 function parseDuration(value: string): number | undefined {
   if (!value) return undefined
@@ -27,17 +33,17 @@ function parseDuration(value: string): number | undefined {
   return parseClock(value)
 }
 
-export function parsePodcastFeed(xml: string): PodcastDraft[] {
+export function parsePodcastFeed(xml: string): PodcastFeedResult {
   let parsed: Record<string, unknown>
   try {
     parsed = xmlParser.parse(xml) as Record<string, unknown>
   } catch {
-    return []
+    return { items: [] }
   }
   const channel = (parsed.rss as Record<string, unknown> | undefined)?.channel as
     | Record<string, unknown>
     | undefined
-  if (!channel) return []
+  if (!channel) return { items: [] }
   const channelImage =
     attrOf(channel['itunes:image'], 'href') ??
     textOf((channel.image as { url?: unknown } | undefined)?.url) ??
@@ -48,7 +54,7 @@ export function parsePodcastFeed(xml: string): PodcastDraft[] {
     const draft = parseItem(item, channelImage)
     if (draft) out.push(draft)
   }
-  return out
+  return { items: out, channelImage: channelImage || undefined }
 }
 
 function parseItem(item: Record<string, unknown>, channelImage: string): PodcastDraft | undefined {

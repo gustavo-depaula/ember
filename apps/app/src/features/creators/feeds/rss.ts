@@ -14,16 +14,26 @@ export type RssDraft = {
   imageUrl?: string
 }
 
-export function parseRssFeed(xml: string): RssDraft[] {
+export type RssFeedResult = {
+  items: RssDraft[]
+  /** Channel/feed-level image (RSS <image><url>, Atom <icon>/<logo>). */
+  channelImage?: string
+}
+
+export function parseRssFeed(xml: string): RssFeedResult {
   const parsed = xmlParser.parse(xml) as Record<string, unknown>
   if (parsed.rss) return parseRss20(parsed.rss as Record<string, unknown>)
   if (parsed.feed) return parseAtom(parsed.feed as Record<string, unknown>)
-  return []
+  return { items: [] }
 }
 
-function parseRss20(rss: Record<string, unknown>): RssDraft[] {
+function parseRss20(rss: Record<string, unknown>): RssFeedResult {
   const channel = rss.channel as Record<string, unknown> | undefined
-  if (!channel) return []
+  if (!channel) return { items: [] }
+  const channelImage =
+    textOf((channel.image as { url?: unknown } | undefined)?.url) ||
+    attrOf(channel['itunes:image'], 'href') ||
+    undefined
   const items = ((channel.item ?? []) as Record<string, unknown>[]) || []
   const out: RssDraft[] = []
   for (const item of items) {
@@ -44,7 +54,7 @@ function parseRss20(rss: Record<string, unknown>): RssDraft[] {
       imageUrl: extractRssItemImage(item),
     })
   }
-  return out
+  return { items: out, channelImage }
 }
 
 function extractRssItemImage(item: Record<string, unknown>): string | undefined {
@@ -60,7 +70,8 @@ function extractRssItemImage(item: Record<string, unknown>): string | undefined 
   return undefined
 }
 
-function parseAtom(feed: Record<string, unknown>): RssDraft[] {
+function parseAtom(feed: Record<string, unknown>): RssFeedResult {
+  const channelImage = textOf(feed.icon) || textOf(feed.logo) || undefined
   const entries = ((feed.entry ?? []) as Record<string, unknown>[]) || []
   const out: RssDraft[] = []
   for (const entry of entries) {
@@ -80,5 +91,5 @@ function parseAtom(feed: Record<string, unknown>): RssDraft[] {
       imageUrl: undefined,
     })
   }
-  return out
+  return { items: out, channelImage }
 }

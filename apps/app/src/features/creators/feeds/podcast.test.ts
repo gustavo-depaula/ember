@@ -9,10 +9,11 @@ const fixture = readFileSync(join(here, '__fixtures__/podcast.xml'), 'utf-8')
 
 describe('parsePodcastFeed', () => {
   it('parses two episodes with iTunes/CDATA and chapter markers', () => {
-    const drafts = parsePodcastFeed(fixture)
-    expect(drafts).toHaveLength(2)
+    const { items, channelImage } = parsePodcastFeed(fixture)
+    expect(items).toHaveLength(2)
+    expect(channelImage).toBe('https://example.org/img/show.jpg')
 
-    const [first, second] = drafts
+    const [first, second] = items
     expect(first.guid).toBe('episode-001')
     expect(first.title).toBe('Posso comungar em pecado mortal?')
     expect(first.mediaUrl).toBe('https://example.org/audio/ep-001.mp3')
@@ -33,11 +34,11 @@ describe('parsePodcastFeed', () => {
     expect(second.chapters).toBeUndefined()
   })
 
-  it('returns empty array on malformed XML', () => {
-    expect(parsePodcastFeed('not-xml')).toEqual([])
+  it('returns empty result on malformed XML', () => {
+    expect(parsePodcastFeed('not-xml')).toEqual({ items: [] })
   })
 
-  it('returns empty array for non-RSS root', () => {
-    expect(parsePodcastFeed('<feed/>')).toEqual([])
+  it('returns empty result for non-RSS root', () => {
+    expect(parsePodcastFeed('<feed/>')).toEqual({ items: [] })
   })
 })

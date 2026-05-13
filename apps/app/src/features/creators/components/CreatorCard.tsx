@@ -7,6 +7,7 @@ import { Text, useTheme, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { bareId, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
+import { getCreatorImage } from '@/db/repositories/creatorMeta'
 import { getCreatorAvatarUrl } from '@/db/repositories/feedItems'
 import { localizeContent } from '@/lib/i18n'
 
@@ -22,7 +23,15 @@ export function CreatorCard({
   const entry = getEntry(creatorId) as CatalogEntry | undefined
   const { data: avatarUrl } = useQuery({
     queryKey: ['creator-avatar', creatorId],
-    queryFn: () => getCreatorAvatarUrl(creatorId),
+    queryFn: async () => {
+      // Prefer the channel-level image captured at feed-refresh time
+      // (podcast <itunes:image>, RSS <image>, Atom <icon|logo>). Fall back
+      // to the per-item heuristic only when no channel meta is stored yet
+      // (e.g. before the first refresh completes after install).
+      const channelImage = await getCreatorImage(creatorId)
+      if (channelImage) return channelImage
+      return await getCreatorAvatarUrl(creatorId)
+    },
     enabled: !!entry,
     staleTime: 5 * 60 * 1000,
   })

@@ -146,20 +146,24 @@ export async function getFeedItemsByCreator(creatorId: string, limit = 50): Prom
 }
 
 /**
- * First non-empty image_url from any of the creator's items, preferring
- * podcast and RSS items over YouTube. Podcast `<itunes:image>` is the
- * channel logo; YouTube Atom feeds publish per-video thumbnails, so the
- * "latest YouTube item" is whatever they uploaded last — not a stable
- * face for the creator. Used as a fallback avatar when the manifest
- * doesn't ship one.
+ * Best guess at a stable creator avatar from cached feed items.
  *
- * Returns `null` (not undefined) so TanStack Query v5 queryFns can
- * forward it without tripping the "queryFn returned undefined" guard.
+ * Strategy: group by (channel_kind, image_url) and pick the most-repeated
+ * image within the highest-priority kind. Podcast/RSS feeds fall back to a
+ * channel-level <itunes:image>/<image> for items that don't ship their own
+ * art, so the most-repeated URL is the channel logo. YouTube Atom feeds
+ * publish per-video thumbnails — unique every time — so they only win when
+ * a creator has no podcast/RSS items at all, and we accept that the
+ * "avatar" will then be the latest video thumbnail.
+ *
+ * Returns `null` (not undefined) so TanStack Query v5 queryFns can forward
+ * it without tripping the "queryFn returned undefined" guard.
  */
 export async function getCreatorAvatarUrl(creatorId: string): Promise<string | null> {
   const row = await getDb().getFirstAsync<{ image_url: string | null }>(
     `SELECT image_url FROM feed_items
      WHERE creator_id = ? AND image_url IS NOT NULL AND image_url != ''
+     GROUP BY channel_kind, image_url
      ORDER BY
        CASE channel_kind
          WHEN 'podcast' THEN 1
@@ -167,7 +171,8 @@ export async function getCreatorAvatarUrl(creatorId: string): Promise<string | n
          WHEN 'youtube' THEN 3
          ELSE 4
        END,
-       published_at DESC
+       COUNT(*) DESC,
+       MAX(published_at) DESC
      LIMIT 1`,
     [creatorId],
   )

@@ -8,6 +8,7 @@
 
 import type { CreatorChannel, CreatorManifest } from '@/content/manifestTypes'
 import { loadCreator } from '@/content/resolver'
+import { setCreatorImage } from '@/db/repositories/creatorMeta'
 import {
   deriveItemId,
   type FeedItemDraft,
@@ -69,6 +70,12 @@ export type RefreshOptions = {
   jsonFetcher?: (url: string) => Promise<unknown>
 }
 
+export type CreatorDraftsResult = {
+  items: FeedItemDraft[]
+  /** First channel-level image found across the creator's channels (podcast/RSS). */
+  channelImage?: string
+}
+
 /**
  * Pure: fetch + parse all channels for a creator manifest. No DB writes, no
  * debounce — exposed so tests can drive the parsing pipeline without touching
@@ -77,20 +84,22 @@ export type RefreshOptions = {
 export async function fetchCreatorDrafts(
   manifest: CreatorManifest,
   opts: Pick<RefreshOptions, 'fetcher' | 'jsonFetcher'> = {},
-): Promise<FeedItemDraft[]> {
+): Promise<CreatorDraftsResult> {
   const fetcher = opts.fetcher ?? defaultFetcher
   const jsonFetcher = opts.jsonFetcher ?? defaultJsonFetcher
   const creatorId = manifest.id
-  const all: FeedItemDraft[] = []
+  const items: FeedItemDraft[] = []
+  const channelImages: string[] = []
   await Promise.all(
     manifest.channels.map((channel) =>
       limiter(async () => {
-        const drafts = await fetchChannel(channel, creatorId, fetcher, jsonFetcher)
-        all.push(...drafts)
+        const result = await fetchChannel(channel, creatorId, fetcher, jsonFetcher)
+        items.push(...result.drafts)
+        if (result.channelImage) channelImages.push(result.channelImage)
       }),
     ),
   )
-  return all
+  return { items, channelImage: channelImages[0] }
 }
 
 export async function refreshCreator(creatorId: string, opts: RefreshOptions = {}): Promise<void> {
@@ -102,10 +111,13 @@ export async function refreshCreator(creatorId: string, opts: RefreshOptions = {
   lastRefreshedAt.set(creatorId, now)
   const manifest = loadCreator(creatorId)
   if (!manifest) return
-  const all = await fetchCreatorDrafts(manifest, opts)
-  if (all.length > 0) {
-    await upsertFeedItems(all)
+  const { items, channelImage } = await fetchCreatorDrafts(manifest, opts)
+  if (items.length > 0) {
+    await upsertFeedItems(items)
     await pruneOlderThan(creatorId, KEEP_PER_CREATOR)
+  }
+  if (channelImage) {
+    await setCreatorImage(creatorId, channelImage)
   }
   if (postRefresh) await postRefresh(creatorId)
 }
@@ -141,27 +153,32 @@ async function toDraft(
   }
 }
 
+type ChannelFetchResult = { drafts: FeedItemDraft[]; channelImage?: string }
+
 async function fetchChannel(
   channel: CreatorChannel,
   creatorId: string,
   fetcher: Fetcher,
   jsonFetcher: (url: string) => Promise<unknown>,
-): Promise<FeedItemDraft[]> {
+): Promise<ChannelFetchResult> {
   switch (channel.kind) {
     case 'youtube': {
-      if (!channel.channelId) return []
+      if (!channel.channelId) return { drafts: [] }
       const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
       const xml = await fetcher(url)
-      return Promise.all(parseYoutubeFeed(xml).map((d) => toDraft(d, creatorId, 'youtube')))
+      const drafts = await Promise.all(
+        parseYoutubeFeed(xml).map((d) => toDraft(d, creatorId, 'youtube')),
+      )
+      return { drafts }
     }
     case 'podcast': {
-      if (!channel.feedUrl) return []
+      if (!channel.feedUrl) return { drafts: [] }
       const xml = await fetcher(channel.feedUrl)
-      const drafts = parsePodcastFeed(xml)
+      const { items: parsed, channelImage } = parsePodcastFeed(xml)
       // Resolve podcast:chapters JSON URLs (best-effort) — share the limiter
       // so a 200-episode feed doesn't fan out into 200 concurrent requests.
       await Promise.all(
-        drafts.map((d) =>
+        parsed.map((d) =>
           limiter(async () => {
             if (!d.chaptersUrl || d.chapters?.length) return
             try {
@@ -173,12 +190,15 @@ async function fetchChannel(
           }),
         ),
       )
-      return Promise.all(drafts.map((d) => toDraft(d, creatorId, 'podcast')))
+      const drafts = await Promise.all(parsed.map((d) => toDraft(d, creatorId, 'podcast')))
+      return { drafts, channelImage }
     }
     case 'rss': {
-      if (!channel.feedUrl) return []
+      if (!channel.feedUrl) return { drafts: [] }
       const xml = await fetcher(channel.feedUrl)
-      return Promise.all(parseRssFeed(xml).map((d) => toDraft(d, creatorId, 'rss')))
+      const { items: parsed, channelImage } = parseRssFeed(xml)
+      const drafts = await Promise.all(parsed.map((d) => toDraft(d, creatorId, 'rss')))
+      return { drafts, channelImage }
     }
   }
 }
