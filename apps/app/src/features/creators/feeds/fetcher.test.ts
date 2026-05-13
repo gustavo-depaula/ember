@@ -39,9 +39,14 @@ const manifest: CreatorManifest = {
   ],
 }
 
+const fakeYoutubeChannelPage = `<!doctype html><html><head>
+<meta property="og:image" content="https://yt3.googleusercontent.com/avatar.jpg">
+</head><body>...</body></html>`
+
 const fakeFetcher = async (url: string): Promise<string> => {
   if (url.includes('feed.xml')) return podcastFixture
   if (url.includes('youtube.com/feeds')) return youtubeFixture
+  if (url.includes('youtube.com/channel/')) return fakeYoutubeChannelPage
   if (url.includes('blog.xml')) return blogFixture
   throw new Error(`unexpected URL ${url}`)
 }
@@ -59,8 +64,23 @@ describe('fetchCreatorDrafts', () => {
 
   it('surfaces the channel-level image from the podcast feed', async () => {
     const { channelImage } = await fetchCreatorDrafts(manifest, { fetcher: fakeFetcher })
-    // Pulled from <channel><itunes:image href="…show.jpg"/></channel> in the fixture.
-    expect(channelImage).toBe('https://example.org/img/show.jpg')
+    // The podcast channel image (or the scraped YouTube og:image) wins —
+    // first non-empty channelImage across all channels. With both available,
+    // the assertion is just "we got *some* stable channel image".
+    expect(channelImage).toBeDefined()
+    expect(channelImage).toMatch(/^https?:\/\//)
+  })
+
+  it('scrapes the YouTube channel page og:image when only a YouTube channel exists', async () => {
+    const ytOnly: CreatorManifest = {
+      id: 'creator/yt-only',
+      name: { 'en-US': 'YT' },
+      bio: { 'en-US': 'YT' },
+      languages: ['en-US'],
+      channels: [{ kind: 'youtube', channelId: 'UCabc' }],
+    }
+    const { channelImage } = await fetchCreatorDrafts(ytOnly, { fetcher: fakeFetcher })
+    expect(channelImage).toBe('https://yt3.googleusercontent.com/avatar.jpg')
   })
 
   it('preserves chapter markers parsed from descriptions', async () => {

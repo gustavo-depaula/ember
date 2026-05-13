@@ -155,6 +155,25 @@ async function toDraft(
 
 type ChannelFetchResult = { drafts: FeedItemDraft[]; channelImage?: string }
 
+/**
+ * No-API-key path to a YouTube channel's avatar URL: fetch the channel page
+ * and read `<meta property="og:image" content="…">`. The Atom feed doesn't
+ * carry channel imagery; the Data API would, but requires a key + quota.
+ * Best-effort — any failure falls back to undefined so refresh keeps working.
+ */
+async function fetchYoutubeChannelImage(
+  channelId: string,
+  fetcher: Fetcher,
+): Promise<string | undefined> {
+  try {
+    const html = await fetcher(`https://www.youtube.com/channel/${channelId}`)
+    const match = html.match(/<meta\s+property=["']og:image["']\s+content=["']([^"']+)["']/i)
+    return match?.[1]
+  } catch {
+    return undefined
+  }
+}
+
 async function fetchChannel(
   channel: CreatorChannel,
   creatorId: string,
@@ -166,10 +185,11 @@ async function fetchChannel(
       if (!channel.channelId) return { drafts: [] }
       const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
       const xml = await fetcher(url)
-      const drafts = await Promise.all(
-        parseYoutubeFeed(xml).map((d) => toDraft(d, creatorId, 'youtube')),
-      )
-      return { drafts }
+      const [drafts, channelImage] = await Promise.all([
+        Promise.all(parseYoutubeFeed(xml).map((d) => toDraft(d, creatorId, 'youtube'))),
+        fetchYoutubeChannelImage(channel.channelId, fetcher),
+      ])
+      return { drafts, channelImage }
     }
     case 'podcast': {
       if (!channel.feedUrl) return { drafts: [] }
