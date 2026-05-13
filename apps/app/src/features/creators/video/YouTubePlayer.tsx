@@ -2,10 +2,17 @@
  * YouTube IFrame player. Uses the official IFrame API in a `react-native-webview`
  * on native and a plain `<iframe>` on web. We never extract audio or proxy
  * video — that violates YouTube ToS.
+ *
+ * Reports playback errors (e.g. embedding disabled by uploader) via `onError`
+ * so the parent can offer a fallback like "Watch on YouTube".
  */
 
-import { useMemo } from 'react'
+import { useCallback, useMemo } from 'react'
 import { Platform, View } from 'react-native'
+
+// Pretending we're embedded on youtube.com itself sidesteps embed restrictions
+// that key on origin (the most common cause of error 153 in inline-HTML WebViews).
+const NATIVE_BASE_URL = 'https://www.youtube.com'
 
 const NATIVE_HTML = (videoId: string) => `
 <!doctype html>
@@ -20,7 +27,13 @@ html,body{margin:0;padding:0;background:#000;height:100%;}
   function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
       videoId: ${JSON.stringify(videoId)},
-      playerVars: { rel: 0, modestbranding: 1, playsinline: 1 },
+      playerVars: {
+        rel: 0,
+        modestbranding: 1,
+        playsinline: 1,
+        enablejsapi: 1,
+        origin: ${JSON.stringify(NATIVE_BASE_URL)},
+      },
       events: {
         onStateChange: function(e) { window.ReactNativeWebView.postMessage(JSON.stringify({type:'state', state:e.data})); },
         onError: function(e) { window.ReactNativeWebView.postMessage(JSON.stringify({type:'error', error:e.data})); },
@@ -32,15 +45,39 @@ html,body{margin:0;padding:0;background:#000;height:100%;}
 // biome-ignore lint/suspicious/noExplicitAny: WebView type not exported
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
-export function YouTubePlayer({ videoId }: { videoId: string }) {
-  const source = useMemo(() => ({ html: NATIVE_HTML(videoId) }), [videoId])
+type Props = {
+  videoId: string
+  onError?: (code: number) => void
+}
+
+export function YouTubePlayer({ videoId, onError }: Props) {
+  const source = useMemo(
+    () => ({ html: NATIVE_HTML(videoId), baseUrl: NATIVE_BASE_URL }),
+    [videoId],
+  )
+
+  const handleMessage = useCallback(
+    (event: { nativeEvent: { data: string } }) => {
+      try {
+        const msg = JSON.parse(event.nativeEvent.data) as { type: string; error?: number }
+        if (msg.type === 'error' && typeof msg.error === 'number') onError?.(msg.error)
+      } catch {
+        // Ignore non-JSON / postMessage noise from the WebView.
+      }
+    },
+    [onError],
+  )
 
   if (Platform.OS === 'web') {
+    const origin = typeof window !== 'undefined' ? window.location.origin : ''
+    const src = `https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1${
+      origin ? `&origin=${encodeURIComponent(origin)}` : ''
+    }`
     return (
       <View style={{ aspectRatio: 16 / 9, width: '100%', backgroundColor: '#000' }}>
         <iframe
           title="YouTube"
-          src={`https://www.youtube.com/embed/${videoId}?rel=0&modestbranding=1&playsinline=1`}
+          src={src}
           style={{ width: '100%', height: '100%', border: 'none' }}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
@@ -58,6 +95,7 @@ export function YouTubePlayer({ videoId }: { videoId: string }) {
         javaScriptEnabled
         allowsFullscreenVideo
         mediaPlaybackRequiresUserAction={false}
+        onMessage={handleMessage}
       />
     </View>
   )

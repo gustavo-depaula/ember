@@ -5,8 +5,8 @@ export function routeFor(item: FeedItemRow) {
   const creatorId = bareId(item.creatorId)
   if (item.channelKind === 'youtube') {
     return {
-      pathname: '/creators/[creatorId]/video/[videoId]' as const,
-      params: { creatorId, videoId: item.guid },
+      pathname: '/creators/[creatorId]/video/[itemId]' as const,
+      params: { creatorId, itemId: item.itemId },
     }
   }
   if (item.channelKind === 'rss') {
