@@ -1305,6 +1305,9 @@ export default {
       wifiOnlyHint: 'When on, pins queue until you reconnect to Wi-Fi.',
       summary: '{{count}} pinned · oldest {{oldest}}',
       unpinAll: 'Unpin all',
+      unpinAllConfirmTitle: 'Unpin everything from {{name}}?',
+      unpinAllConfirmDescription:
+        '{{count}} items will be removed from offline storage. Streaming still works while online.',
     },
   },
 } as const

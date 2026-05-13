@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
+import { confirm } from '@/components'
 import { getEntry } from '@/content/contentIndex'
 import { getAllFollows } from '@/db/repositories/creators'
 import { getPinnedCreatorSummaries, getPinnedItemIdsByCreator } from '@/db/repositories/feedItems'
@@ -86,7 +87,17 @@ export function CreatorsStorageSection() {
                     {name}
                   </Text>
                   <Pressable
-                    onPress={() => unpinAll.mutate(s.creatorId)}
+                    onPress={async () => {
+                      const ok = await confirm({
+                        title: t('creators.storage.unpinAllConfirmTitle', { name }),
+                        description: t('creators.storage.unpinAllConfirmDescription', {
+                          count: s.count,
+                        }),
+                        confirmLabel: t('creators.storage.unpinAll'),
+                        destructive: true,
+                      })
+                      if (ok) unpinAll.mutate(s.creatorId)
+                    }}
                     accessibilityRole="button"
                     accessibilityLabel={t('creators.storage.unpinAll')}
                   >

@@ -1308,6 +1308,9 @@ export default {
       wifiOnlyHint: 'Quando ativo, downloads ficam em fila até voltar ao Wi-Fi.',
       summary: '{{count}} salvos · mais antigo {{oldest}}',
       unpinAll: 'Remover todos',
+      unpinAllConfirmTitle: 'Remover tudo de {{name}}?',
+      unpinAllConfirmDescription:
+        '{{count}} itens serão removidos do armazenamento offline. Streaming continua funcionando com internet.',
     },
   },
 } as const
