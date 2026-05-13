@@ -146,7 +146,7 @@
                   "en-US": "Gospel Acclamation verse",
                   "pt-BR": "Versículo da Aclamação ao Evangelho"
                 },
-                "slot": "readings.{{day.cycle}}.alleluiaVerse"
+                "slot": "readings.{{day.cycle}}.gospelAcclamation"
               },
               {
                 "type": "divider"
@@ -275,7 +275,7 @@
                   "en-US": "Gospel Acclamation verse",
                   "pt-BR": "Versículo da Aclamação ao Evangelho"
                 },
-                "slot": "readings.{{day.cycle}}.alleluiaVerse"
+                "slot": "readings.{{day.cycle}}.gospelAcclamation"
               },
               {
                 "type": "divider"
