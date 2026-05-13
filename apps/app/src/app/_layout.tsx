@@ -48,6 +48,7 @@ import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
+import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
@@ -79,6 +80,11 @@ if (typeof document !== 'undefined') {
   const style = document.createElement('style')
   style.textContent = 'input, textarea { outline: none !important; }'
   document.head.appendChild(style)
+}
+
+function CrossTabSync() {
+  useCrossTabSync()
+  return null
 }
 
 export default function RootLayout() {
@@ -249,6 +255,7 @@ export default function RootLayout() {
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
       <QueryClientProvider client={queryClient}>
+        <CrossTabSync />
         <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
           {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
           <Theme name={themeName as any}>
