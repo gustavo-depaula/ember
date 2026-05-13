@@ -36,6 +36,9 @@ export default function EpisodeDetail() {
       durationS: item.durationS,
       imageUri: item.imageUrl,
       mediaUrl: localUri ?? item.mediaUrl,
+      summary: item.summary,
+      webUrl: item.webUrl,
+      publishedAt: item.publishedAt,
     }).catch((err) => {
       console.warn('[creators] play failed:', item.itemId, err)
     })
@@ -47,6 +50,9 @@ export default function EpisodeDetail() {
     item?.imageUrl,
     item?.creatorId,
     item?.mediaHash,
+    item?.summary,
+    item?.webUrl,
+    item?.publishedAt,
     nowPlayingId,
     play,
   ])
