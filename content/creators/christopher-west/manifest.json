@@ -18,12 +18,6 @@
       "feedUrl": "https://anchor.fm/s/10343b5d0/podcast/rss",
       "format": "qa",
       "title": { "en-US": "Ask Christopher West" }
-    },
-    {
-      "kind": "youtube",
-      "channelId": "UCleUptk8l6KEuJpVOWCYJ-w",
-      "format": "lecture",
-      "title": { "en-US": "Theology of the Body Institute (YouTube)" }
     }
   ],
   "links": {
