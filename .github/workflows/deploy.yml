@@ -7,6 +7,13 @@ on:
       - 'content/**'
       - 'apps/hearth/**'
       - '.github/workflows/deploy.yml'
+      - 'scripts/build-creator-meta.py'
+  # Hourly so creator-meta (YouTube shorts classifications, podcast/RSS
+  # channel images, YouTube og:image scrape) stays fresh as creators
+  # upload new content. The corpus content itself rarely changes, so the
+  # deploy is mostly a no-op aside from the creator-meta/ files.
+  schedule:
+    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -53,6 +60,9 @@ jobs:
 
       - name: Build content corpus (Hearth v2)
         run: python3 scripts/build-corpus.py _site/hearth/v2
+
+      - name: Build creator metadata (channel images + shorts classification)
+        run: python3 scripts/build-creator-meta.py _site/hearth/v2
 
       - uses: actions/upload-pages-artifact@v3
         with:

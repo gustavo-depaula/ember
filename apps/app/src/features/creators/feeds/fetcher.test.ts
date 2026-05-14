@@ -20,7 +20,13 @@ vi.mock('@/db/repositories/creatorMeta', () => ({
 vi.mock('@/content/resolver', () => ({ loadCreator: () => undefined }))
 
 import type { CreatorManifest } from '@/content/manifestTypes'
-import { fetchCreatorDrafts } from './fetcher'
+import { fetchCreatorDrafts, type PrebuiltCreatorMeta } from './fetcher'
+
+// Default to the live-fallback path: tests inject explicit prebuilt only
+// where they're asserting that behavior. (Without this, the default loader
+// would try to dynamic-import @/lib/hearth which transitively touches the
+// SQLite cache repo and breaks the test env.)
+const noPrebuilt = async () => null
 
 const here = dirname(fileURLToPath(import.meta.url))
 const podcastFixture = readFileSync(join(here, '__fixtures__/podcast.xml'), 'utf-8')
@@ -55,7 +61,10 @@ const fakeFetcher = async (url: string): Promise<string> => {
 
 describe('fetchCreatorDrafts', () => {
   it('parses all channel kinds (including youtube-short split) into one merged list', async () => {
-    const { items } = await fetchCreatorDrafts(manifest, { fetcher: fakeFetcher })
+    const { items } = await fetchCreatorDrafts(manifest, {
+      fetcher: fakeFetcher,
+      prebuiltLoader: noPrebuilt,
+    })
     const kinds = new Set(items.map((d) => d.channelKind))
     // YouTube items from the channel_id feed are tagged 'youtube' unless their
     // videoId also appears in the UUSH playlist, in which case they're tagged
@@ -77,7 +86,10 @@ describe('fetchCreatorDrafts', () => {
       if (url.includes('playlist_id=UUSH')) uushHits++
       return fakeFetcher(url)
     }
-    const { items } = await fetchCreatorDrafts(manifest, { fetcher: counting })
+    const { items } = await fetchCreatorDrafts(manifest, {
+      fetcher: counting,
+      prebuiltLoader: noPrebuilt,
+    })
     expect(channelHits).toBe(1)
     expect(uushHits).toBe(1)
     const videos = items.filter((d) => d.channelKind === 'youtube')
@@ -91,7 +103,10 @@ describe('fetchCreatorDrafts', () => {
       if (url.includes('playlist_id=UUSH')) return ''
       return fakeFetcher(url)
     }
-    const { items } = await fetchCreatorDrafts(manifest, { fetcher: noShorts })
+    const { items } = await fetchCreatorDrafts(manifest, {
+      fetcher: noShorts,
+      prebuiltLoader: noPrebuilt,
+    })
     const shorts = items.filter((d) => d.channelKind === 'youtube-short')
     const videos = items.filter((d) => d.channelKind === 'youtube')
     expect(shorts).toHaveLength(0)
@@ -99,7 +114,10 @@ describe('fetchCreatorDrafts', () => {
   })
 
   it('surfaces the channel-level image from the podcast feed', async () => {
-    const { channelImage } = await fetchCreatorDrafts(manifest, { fetcher: fakeFetcher })
+    const { channelImage } = await fetchCreatorDrafts(manifest, {
+      fetcher: fakeFetcher,
+      prebuiltLoader: noPrebuilt,
+    })
     // The podcast channel image (or the scraped YouTube og:image) wins —
     // first non-empty channelImage across all channels. With both available,
     // the assertion is just "we got *some* stable channel image".
@@ -115,12 +133,18 @@ describe('fetchCreatorDrafts', () => {
       languages: ['en-US'],
       channels: [{ kind: 'youtube', channelId: 'UCabc' }],
     }
-    const { channelImage } = await fetchCreatorDrafts(ytOnly, { fetcher: fakeFetcher })
+    const { channelImage } = await fetchCreatorDrafts(ytOnly, {
+      fetcher: fakeFetcher,
+      prebuiltLoader: noPrebuilt,
+    })
     expect(channelImage).toBe('https://yt3.googleusercontent.com/avatar.jpg')
   })
 
   it('preserves chapter markers parsed from descriptions', async () => {
-    const { items } = await fetchCreatorDrafts(manifest, { fetcher: fakeFetcher })
+    const { items } = await fetchCreatorDrafts(manifest, {
+      fetcher: fakeFetcher,
+      prebuiltLoader: noPrebuilt,
+    })
     const withChapters = items.filter((d) => d.chapters?.length)
     // The PPR-style podcast fixture episode + the YouTube fixture entry both expose chapters.
     expect(withChapters.length).toBeGreaterThanOrEqual(2)
@@ -130,6 +154,40 @@ describe('fetchCreatorDrafts', () => {
       tStart: 150,
       title: 'Pergunta 1: Posso comungar em pecado mortal?',
     })
+  })
+
+  it('uses prebuilt creator-meta to classify shorts without UUSH / probe / og:image', async () => {
+    // Prebuilt explicitly marks one of the two YouTube fixture videos as a
+    // Short. The fetcher should respect that and skip the og:image scrape,
+    // UUSH playlist fetch, and HEAD probe entirely.
+    let uushHits = 0
+    let channelPageHits = 0
+    const counting: typeof fakeFetcher = async (url) => {
+      if (url.includes('playlist_id=UUSH')) uushHits++
+      if (url.includes('youtube.com/channel/')) channelPageHits++
+      return fakeFetcher(url)
+    }
+    const prebuilt: PrebuiltCreatorMeta = {
+      creatorId: 'creator/test-creator',
+      generatedAt: '2026-05-14T00:00:00Z',
+      channelImage: 'https://prebuilt.example/avatar.jpg',
+      shortVideoIds: ['abcDEFghi12'],
+    }
+    const { items, channelImage } = await fetchCreatorDrafts(manifest, {
+      fetcher: counting,
+      prebuiltLoader: async (id) => (id === 'creator/test-creator' ? prebuilt : null),
+    })
+    // No live YouTube discovery work happened:
+    expect(uushHits).toBe(0)
+    expect(channelPageHits).toBe(0)
+    // Items classified per the prebuilt shorts list:
+    const yt = items.filter((d) => d.channelKind === 'youtube').map((d) => d.guid)
+    const sh = items.filter((d) => d.channelKind === 'youtube-short').map((d) => d.guid)
+    expect(yt).toEqual(['dQw4w9WgXcQ'])
+    expect(sh).toEqual(['abcDEFghi12'])
+    // Channel image comes straight from prebuilt — and since prebuilt is the
+    // first non-null collected, it wins over any podcast channel image too.
+    expect(channelImage).toBe('https://prebuilt.example/avatar.jpg')
   })
 
   it('skips channels without the required URL/id', async () => {
@@ -143,7 +201,10 @@ describe('fetchCreatorDrafts', () => {
         { kind: 'youtube' }, // missing channelId
       ],
     }
-    const { items, channelImage } = await fetchCreatorDrafts(minimal, { fetcher: fakeFetcher })
+    const { items, channelImage } = await fetchCreatorDrafts(minimal, {
+      fetcher: fakeFetcher,
+      prebuiltLoader: noPrebuilt,
+    })
     expect(items).toEqual([])
     expect(channelImage).toBeUndefined()
   })
