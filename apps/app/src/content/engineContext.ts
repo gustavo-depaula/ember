@@ -122,8 +122,7 @@ export function withSpiritualThreads(ec: EngineContext): EngineContext {
   return {
     ...ec,
     supportsMovements: true,
-    logicalDay: () => today,
-    windowFor,
+    windowFor: (level, forward) => windowFor(level, today, forward),
     resolutions: {
       active(level) {
         const r = pickActive(snapshot.resolutions, snapshot.resolutionsByLevel.get(level), now)

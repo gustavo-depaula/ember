@@ -528,9 +528,9 @@ export function resolveSection(
     }
 
     case 'capture-resolution': {
-      if (!ec.resolutions || !ec.windowFor || !ec.logicalDay) return []
+      if (!ec.resolutions || !ec.windowFor) return []
       const forward = section.for ?? 'next'
-      const window = ec.windowFor(section.level, ec.logicalDay(), forward)
+      const window = ec.windowFor(section.level, forward)
       return [
         {
           type: 'rendered-capture-resolution',

@@ -70,10 +70,13 @@ export type EngineContext = {
     active(level: ResolutionLevel): ResolutionLite | undefined
     pending(level: ResolutionLevel): ResolutionLite | undefined
   }
-  logicalDay?(): Date
+  /**
+   * Resolution window at a given level / direction. The host closes over its
+   * own "today" anchor (4am-cutoff aware), so the engine doesn't need to know
+   * about clocks.
+   */
   windowFor?(
     level: ResolutionLevel,
-    anchor: Date,
     forward: 'current' | 'next',
   ): { starts_at: number; ends_at: number }
 }

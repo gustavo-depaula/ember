@@ -44,8 +44,7 @@ describe('capture-resolution block', () => {
           active: () => undefined,
           pending: () => undefined,
         },
-        logicalDay: () => new Date('2026-05-01'),
-        windowFor: (_, _a, _f) => ({ starts_at: 1000, ends_at: 2000 }),
+        windowFor: (_, _f) => ({ starts_at: 1000, ends_at: 2000 }),
       }),
     )
 
@@ -80,7 +79,6 @@ describe('review-resolution block', () => {
         active: () => (active ? { ...active, level: 'daily' } : undefined),
         pending: () => (pending ? { ...pending, level: 'daily' } : undefined),
       },
-      logicalDay: () => new Date('2026-05-01'),
       windowFor: () => ({ starts_at: 0, ends_at: 0 }),
     })
   }
