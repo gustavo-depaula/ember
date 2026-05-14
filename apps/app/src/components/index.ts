@@ -1,6 +1,7 @@
 export { AnimatedCheckbox } from './AnimatedCheckbox'
 export { AnimatedPressable } from './AnimatedPressable'
 export { BibleReadingBlock } from './BibleReadingBlock'
+export { BottomSheet } from './BottomSheet'
 export { CandleFlame } from './CandleFlame'
 export { Card } from './Card'
 export { CccReadingBlock } from './CccReadingBlock'
@@ -22,6 +23,7 @@ export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
 export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
+export { PrayerTextInput } from './PrayerTextInput'
 export { PsalmodyBlock, type PsalmSlot } from './PsalmodyBlock'
 export {
   CanticleBlock,

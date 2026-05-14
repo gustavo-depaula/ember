@@ -56,6 +56,44 @@ export type EngineContext = {
    * through `EngineContext`.
    */
   fetchOwnAsset?: (path: string) => Promise<unknown>
+  /**
+   * When true, host supports `offering` and `capture-movement` blocks. Set
+   * by the app practice player; absent in pure engine tests / cloud
+   * prerenders, in which case the blocks resolve to no-ops.
+   */
+  supportsMovements?: boolean
+  /**
+   * Read-side resolution access. When absent, `capture-resolution` and
+   * `review-resolution` resolve to no-ops.
+   */
+  resolutions?: {
+    active(level: ResolutionLevel): ResolutionLite | undefined
+    pending(level: ResolutionLevel): ResolutionLite | undefined
+    /**
+     * Look up a resolution whose window contains the given timestamp. Used by
+     * `capture-resolution` to pre-fill its form with an existing resolution
+     * for the target window (e.g. the Examen re-opened after the user already
+     * wrote tomorrow's resolution earlier in the evening).
+     */
+    inWindow(level: ResolutionLevel, starts_at: number): ResolutionLite | undefined
+  }
+  /**
+   * Resolution window at a given level / direction. The host closes over its
+   * own "today" anchor (4am-cutoff aware), so the engine doesn't need to know
+   * about clocks.
+   */
+  windowFor?(
+    level: ResolutionLevel,
+    forward: 'current' | 'next',
+  ): { starts_at: number; ends_at: number }
+}
+
+export type ResolutionLevel = 'daily'
+
+export type ResolutionLite = {
+  id: string
+  text: string
+  level: ResolutionLevel
 }
 
 export type FlowContext = {

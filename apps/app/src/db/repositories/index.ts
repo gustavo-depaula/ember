@@ -33,16 +33,27 @@ export {
   setPinned,
   upsertFeedItems,
 } from './feedItems'
-export { addGratitude, removeGratitude } from './gratias'
-export {
-  addIntention,
-  markIntentionAnswered,
-  markIntentionUnanswered,
-  removeIntention,
-  updateIntention,
-} from './intentions'
 export type { MediaProgressRow } from './mediaProgress'
 export { clearProgress, getProgress, markCompleted, recordProgress } from './mediaProgress'
+export type {
+  OfferThanksgivingInput,
+  RaiseIntentionInput,
+  RecordMovementInput,
+  UpdateIntentionInput,
+} from './movements'
+export {
+  expireIntention,
+  markIntentionAnswered,
+  offerThanksgiving,
+  pinMovement,
+  raiseIntention,
+  recordMovement,
+  retireIntention,
+  retireThanksgiving,
+  unpinMovement,
+  updateIntention,
+  updateThanksgiving,
+} from './movements'
 export { offerDay, revokeDayOffering } from './oblatio'
 export {
   clearPending,
@@ -86,6 +97,17 @@ export {
   removePreference,
   setPreference,
 } from './preferences'
+export type {
+  ReviseResolutionInput,
+  SetResolutionInput,
+} from './resolutions'
+export {
+  archiveResolution,
+  checkinResolution,
+  reviewResolution,
+  reviseResolution,
+  setResolution,
+} from './resolutions'
 export {
   clearAll as clearSearchHistory,
   recent as recentSearches,

@@ -5,9 +5,8 @@ import { useTranslation } from 'react-i18next'
 import { ScrollView, Text, useTheme, XStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { useGratitudesCount } from '@/features/gratias'
-import { useOpenIntentionsCount } from '@/features/intentions'
 import { useMemoriaEntriesCount } from '@/features/memoria'
+import { useActiveIntentionsCount, useActiveThanksgivingsCount } from '@/features/movements'
 
 import { IntentionHeart } from './IntentionHeart'
 
@@ -15,8 +14,8 @@ export function QuickCaptureChips() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const openIntentions = useOpenIntentionsCount()
-  const gratitudes = useGratitudesCount()
+  const openIntentions = useActiveIntentionsCount()
+  const gratitudes = useActiveThanksgivingsCount()
   const memoriaCount = useMemoriaEntriesCount()
 
   return (

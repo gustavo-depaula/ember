@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
 import { useEffect } from 'react'
-import { RefreshControl } from 'react-native'
+import { KeyboardAvoidingView, Platform, RefreshControl } from 'react-native'
 import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
@@ -61,13 +61,20 @@ export function ScreenLayout({
   ) : undefined
 
   return (
-    <ScrollView
-      flex={1}
-      backgroundColor="$background"
-      contentContainerStyle={scrollContentStyle}
-      refreshControl={refreshControl}
+    <KeyboardAvoidingView
+      style={{ flex: 1 }}
+      behavior={Platform.OS === 'ios' ? 'padding' : undefined}
     >
-      {inner}
-    </ScrollView>
+      <ScrollView
+        flex={1}
+        backgroundColor="$background"
+        contentContainerStyle={scrollContentStyle}
+        keyboardShouldPersistTaps="handled"
+        automaticallyAdjustKeyboardInsets
+        refreshControl={refreshControl}
+      >
+        {inner}
+      </ScrollView>
+    </KeyboardAvoidingView>
   )
 }

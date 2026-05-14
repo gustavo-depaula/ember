@@ -29,6 +29,7 @@ import {
   MementoLine,
   OfflineCoverageLine,
   QuickCaptureChips,
+  ResolutionLine,
   RestartNeededList,
   SeasonalContext,
   TimeBlockSection,
@@ -255,6 +256,10 @@ export default function HomeScreen() {
                 {t('home.ruleOfLife')}
               </Text>
             </Pressable>
+          </FadeInView>
+
+          <FadeInView index={1}>
+            <ResolutionLine />
           </FadeInView>
 
           {todaySlots.length === 0 ? (

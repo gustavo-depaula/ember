@@ -48,6 +48,7 @@ import {
   useRestartNeededPractices,
   useSlots,
 } from '@/features/plan-of-life'
+import { ResolutionsPanel } from '@/features/plan-of-life/components/ResolutionsPanel'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
@@ -208,6 +209,8 @@ export default function PlanScreen() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('plan.title')} />
+
+        <ResolutionsPanel />
 
         <YStack alignItems="center">
           <GreenWall data={wallData} tiered />

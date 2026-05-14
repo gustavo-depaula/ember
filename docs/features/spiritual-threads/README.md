@@ -8,14 +8,16 @@
 
 This file is the product spec — the *what* and *why*. Each phase has a dedicated technical design doc with the *how*: major decisions (alternatives considered, rationale, implications), data model details, and a task list ready for execution.
 
-| Phase | Doc | Goal |
-|-------|-----|------|
-| 1 | [01-movement-model.md](01-movement-model.md) | Movement projection (replacing intentions/gratitudes stores); cadence (perpetual / goal / bounded) and subject tags; rebuilt `/intentions` and `/gratias` screens. No DSL changes; no prayer integration. |
-| 2 | [02-prayer-integration.md](02-prayer-integration.md) | `offering` and `capture-movement` DSL blocks; per-practice pinning; Morning Offering reads active intentions. Movements now flow through prayer. |
-| 3 | [03-resolutions-and-examen.md](03-resolutions-and-examen.md) | Resolution model, `capture-resolution` + `review-resolution` DSL blocks, delete the hardcoded Examen, daily resolution loop end-to-end. |
-| 4 | [04-plan-of-life.md](04-plan-of-life.md) | Full hierarchy (weekly/monthly/seasonal/annual), Plan of Life Resolutions panel, weekly review practice. |
-| 5 | [05-periodic-reviews.md](05-periodic-reviews.md) | Monthly / seasonal / annual review practices; Particular Examen with its own schedule. |
-| 6 | [06-companion-features.md](06-companion-features.md) | Saint companion, confession bridge, virtue heatmap, petition→thanksgiving bridge. |
+| Phase | Doc | Goal | Status |
+|-------|-----|------|--------|
+| 1 | [01-movement-model.md](01-movement-model.md) | Movement projection (replacing intentions/gratitudes stores); cadence (perpetual / goal / bounded) and subject tags; rebuilt `/intentions` and `/gratias` screens. No DSL changes; no prayer integration. | Shipped |
+| 2 | [02-prayer-integration.md](02-prayer-integration.md) | `offering` and `capture-movement` DSL blocks; per-practice pinning; Morning Offering reads active intentions. Movements now flow through prayer. | Shipped |
+| 3 | [03-resolutions-and-examen.md](03-resolutions-and-examen.md) | Resolution model, `capture-resolution` + `review-resolution` DSL blocks, delete the hardcoded Examen, daily resolution loop end-to-end. | Shipped (daily level only) |
+| 4 | [04-plan-of-life.md](04-plan-of-life.md) | Full hierarchy (weekly/monthly/seasonal/annual), Plan of Life Resolutions panel, weekly review practice. | **Deferred** — only the daily Resolutions panel ships; standing levels + weekly review come back with Phase 5. |
+| 5 | [05-periodic-reviews.md](05-periodic-reviews.md) | Monthly / seasonal / annual review practices; Particular Examen with its own schedule. | **Deferred** — non-daily windows and their reviews wait until the daily loop has bedded in. |
+| 6 | [06-companion-features.md](06-companion-features.md) | Saint companion, confession bridge, virtue heatmap, petition→thanksgiving bridge. | Partial — petition→thanksgiving bridge shipped; rest deferred. |
+
+> **What ships in this PR:** Phases 1–3 in full, plus a daily-only Resolutions panel from Phase 4 and the petition→thanksgiving bridge from Phase 6. The five-level resolution hierarchy, periodic-review practices, and the `'liturgical-event'` schedule rule are designed but unshipped — see the deferred phase docs for the design-of-record.
 
 ## Context
 

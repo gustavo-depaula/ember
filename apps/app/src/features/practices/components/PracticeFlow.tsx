@@ -23,7 +23,7 @@ import {
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { SectionBlock } from '@/components/SectionBlock'
-import { createEngineContext } from '@/content/engineContext'
+import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
 import {
   getManifest,
   loadFlow,
@@ -38,6 +38,7 @@ import {
   useCursorsForPractice,
   usePsalmsForHour,
 } from '@/features/divine-office'
+import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
 import {
   useHandleProgramCompletion,
   useLogCompletion,
@@ -46,6 +47,10 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
+import {
+  RenderedCaptureResolutionBlock,
+  RenderedReviewResolutionBlock,
+} from '@/features/resolutions'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -228,6 +233,11 @@ export function PracticeFlow({
     )
   }, [])
 
+  // `withSpiritualThreads` snapshots store state at call time, so each
+  // resolveSections() pass sees one consistent view of resolutions /
+  // movements / clock. We don't depend on the store inside this effect
+  // — captures during the running flow surface inline via their own
+  // hooks, but the resolved sections themselves stay fixed.
   useEffect(() => {
     let cancelled = false
 
@@ -252,14 +262,10 @@ export function PracticeFlow({
           programDay,
           selectOverrides,
         }
-        const resolved = await resolveFlowAsync(
-          flow,
-          context,
-          createEngineContext(undefined, {
-            contentLanguage,
-            secondaryLanguage,
-          }),
+        const ec = withSpiritualThreads(
+          createEngineContext(undefined, { contentLanguage, secondaryLanguage }),
         )
+        const resolved = await resolveFlowAsync(flow, context, ec)
         if (!cancelled) {
           setSections(resolved)
         }
@@ -470,6 +476,7 @@ export function PracticeFlow({
                   cccMap={cccMap}
                   bibleErrors={bibleErrors}
                   cccErrors={cccErrors}
+                  practiceId={practiceId}
                   onSelectOverride={handleSelectOverride}
                 />
               ))}
@@ -526,6 +533,7 @@ function PracticeSectionBlock({
   cccMap,
   bibleErrors,
   cccErrors,
+  practiceId,
   onSelectOverride,
 }: {
   section: RenderedSection
@@ -534,10 +542,53 @@ function PracticeSectionBlock({
   cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
   bibleErrors: Map<string, () => void>
   cccErrors: Map<string, () => void>
+  practiceId: string
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   // Practice-specific section types
   switch (section.type) {
+    case 'rendered-offering':
+      return (
+        <RenderedOfferingBlock
+          practiceId={practiceId}
+          mode={section.mode}
+          show={section.show}
+          default={section.default}
+          label={section.label?.primary}
+        />
+      )
+
+    case 'rendered-capture-movement':
+      return (
+        <RenderedCaptureMovementBlock
+          kind={section.kind}
+          prompt={section.prompt.primary}
+          multi={section.multi}
+          defaultCadence={section.defaultCadence}
+        />
+      )
+
+    case 'rendered-capture-resolution':
+      return (
+        <RenderedCaptureResolutionBlock
+          forward={section.forward}
+          prompt={section.prompt.primary}
+          window={section.window}
+          prefill={section.prefill}
+        />
+      )
+
+    case 'rendered-review-resolution':
+      return (
+        <RenderedReviewResolutionBlock
+          mode={section.mode}
+          resolution={section.resolution}
+          prompt={section.prompt?.primary}
+          outcomes={section.outcomes}
+          allowNotes={section.allow_notes}
+        />
+      )
+
     case 'psalmody':
       return <PsalmodyBlock slots={psalmSlots} />
 
@@ -582,6 +633,7 @@ function PracticeSectionBlock({
               cccMap={cccMap}
               bibleErrors={bibleErrors}
               cccErrors={cccErrors}
+              practiceId={practiceId}
               onSelectOverride={onSelectOverride}
             />
           )}

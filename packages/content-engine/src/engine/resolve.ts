@@ -13,6 +13,7 @@ import {
   type EngineContext,
   type FlowContext,
   getContextValue,
+  type ResolutionLevel,
   resolveEntryVars,
   resolvePath,
 } from './context'
@@ -28,6 +29,11 @@ import { resolveCanticleRef, resolveInlinePrayer, resolvePrayerRef } from './sec
 import { resolveRepeat } from './sections/repeat'
 import { computeSelectedId, resolveSelectFromData } from './sections/select'
 import { substituteInFlowSection, substituteTemplateVars } from './vars'
+
+const REVIEW_TARGETS: Record<string, { kind: 'active' | 'pending'; level: ResolutionLevel }> = {
+  'active-daily': { kind: 'active', level: 'daily' },
+  'pending-daily': { kind: 'pending', level: 'daily' },
+}
 
 /**
  * Card-style excerpt for an `options` widget option: prefer the first
@@ -379,6 +385,22 @@ export function resolveSection(
       })
     }
 
+    case 'group': {
+      const resolved = section.sections.flatMap((s) => resolveSection(s, context, ec))
+      if (section.skipIfEmpty) {
+        // "Empty" means no substantive content — only structural chrome
+        // (subheading / divider / heading) is present. A group built just to
+        // frame a single conditional block (e.g. Verificatio wrapping a
+        // `review-resolution skip_if_none`) collapses entirely when the
+        // conditional skipped emission.
+        const hasContent = resolved.some(
+          (r) => r.type !== 'divider' && r.type !== 'subheading' && r.type !== 'heading',
+        )
+        if (!hasContent) return []
+      }
+      return resolved
+    }
+
     case 'call': {
       // Parameterized macro/fragment invocation.
       // Looks up section.ref in FlowContext.fragments (same registry as fragment),
@@ -488,6 +510,75 @@ export function resolveSection(
           ...(validColor ? { color: validColor } : {}),
           ...(rankLabel ? { rank: rankLabel } : {}),
           ...(cycleLabel ? { cycle: cycleLabel } : {}),
+        },
+      ]
+    }
+
+    case 'offering': {
+      if (!ec.supportsMovements) return []
+      return [
+        {
+          type: 'rendered-offering',
+          mode: section.mode,
+          default: section.default ?? 'pinned',
+          show: section.show ?? 'list',
+          ...(section.label ? { label: ec.localize(section.label) } : {}),
+        },
+      ]
+    }
+
+    case 'capture-movement': {
+      if (!ec.supportsMovements) return []
+      return [
+        {
+          type: 'rendered-capture-movement',
+          kind: section.kind,
+          prompt: ec.localize(section.prompt),
+          multi: section.multi ?? false,
+          ...(section.kind === 'intention'
+            ? { defaultCadence: section.defaults?.cadence ?? 'perpetual' }
+            : {}),
+        },
+      ]
+    }
+
+    case 'capture-resolution': {
+      if (!ec.resolutions || !ec.windowFor) return []
+      const forward = section.for ?? 'next'
+      const window = ec.windowFor(section.level, forward)
+      const existing = ec.resolutions.inWindow(section.level, window.starts_at)
+      return [
+        {
+          type: 'rendered-capture-resolution',
+          level: section.level,
+          forward,
+          prompt: ec.localize(section.prompt),
+          window,
+          ...(existing ? { prefill: { resolution_id: existing.id, text: existing.text } } : {}),
+        },
+      ]
+    }
+
+    case 'review-resolution': {
+      if (!ec.resolutions) return []
+      const mode = section.mode ?? 'review'
+      const parsed = REVIEW_TARGETS[section.target]
+      const resolution =
+        parsed.kind === 'active'
+          ? ec.resolutions.active(parsed.level)
+          : ec.resolutions.pending(parsed.level)
+      if (!resolution && section.skip_if_none) return []
+      return [
+        {
+          type: 'rendered-review-resolution',
+          mode,
+          target: section.target,
+          ...(resolution
+            ? { resolution: { id: resolution.id, text: resolution.text, level: resolution.level } }
+            : {}),
+          ...(section.prompt ? { prompt: ec.localize(section.prompt) } : {}),
+          outcomes: section.outcomes ?? ['kept', 'partial', 'broken'],
+          allow_notes: section.allow_notes ?? true,
         },
       ]
     }

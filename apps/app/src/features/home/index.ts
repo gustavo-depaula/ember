@@ -11,6 +11,7 @@ export {
   NavigationMedallion,
   OfflineCoverageLine,
   QuickCaptureChips,
+  ResolutionLine,
   RestartNeededList,
   SeasonalContext,
   ShortcutRow,

@@ -1,21 +1,20 @@
 import { useMemo } from 'react'
 
 import { useEventStore } from '@/db/events'
-import type { ConfessionState, GratitudeState, IntentionState } from '@/db/events/state'
+import type { ConfessionState, Movement } from '@/db/events/state'
 import type { Completion } from '@/db/schema'
 
 export type MemoriaEntry =
   | { kind: 'completion'; id: string; timestamp: number; completion: Completion }
-  | { kind: 'intention-added'; id: string; timestamp: number; intention: IntentionState }
-  | { kind: 'intention-answered'; id: string; timestamp: number; intention: IntentionState }
-  | { kind: 'gratitude'; id: string; timestamp: number; gratitude: GratitudeState }
+  | { kind: 'intention-raised'; id: string; timestamp: number; movement: Movement }
+  | { kind: 'intention-closed'; id: string; timestamp: number; movement: Movement }
+  | { kind: 'thanksgiving'; id: string; timestamp: number; movement: Movement }
   | { kind: 'day-offered'; id: string; timestamp: number; date: string }
   | { kind: 'confession'; id: string; timestamp: number; confession: ConfessionState }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
-  const intentions = useEventStore((s) => s.intentions)
-  const gratitudes = useEventStore((s) => s.gratitudes)
+  const movements = useEventStore((s) => s.movements)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
 
@@ -29,29 +28,30 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
         completion: c,
       })
     }
-    for (const i of intentions.values()) {
-      entries.push({
-        kind: 'intention-added',
-        id: `ia:${i.id}`,
-        timestamp: i.created_at,
-        intention: i,
-      })
-      if (i.answered_at !== null) {
+    for (const m of movements.values()) {
+      if (m.kind === 'intention') {
         entries.push({
-          kind: 'intention-answered',
-          id: `iw:${i.id}`,
-          timestamp: i.answered_at,
-          intention: i,
+          kind: 'intention-raised',
+          id: `ir:${m.id}`,
+          timestamp: m.recorded_at,
+          movement: m,
+        })
+        if (m.state === 'closed' && m.closed_at !== undefined) {
+          entries.push({
+            kind: 'intention-closed',
+            id: `ic:${m.id}`,
+            timestamp: m.closed_at,
+            movement: m,
+          })
+        }
+      } else {
+        entries.push({
+          kind: 'thanksgiving',
+          id: `g:${m.id}`,
+          timestamp: m.recorded_at,
+          movement: m,
         })
       }
-    }
-    for (const g of gratitudes.values()) {
-      entries.push({
-        kind: 'gratitude',
-        id: `g:${g.id}`,
-        timestamp: g.recorded_at,
-        gratitude: g,
-      })
     }
     for (const [date, offeredAt] of offeredDays) {
       entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
@@ -66,16 +66,14 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
     }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [completions, intentions, gratitudes, offeredDays, confessions, limit])
+  }, [completions, movements, offeredDays, confessions, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
   return useEventStore(
     (s) =>
       s.completions.size +
-      s.intentions.size +
-      countAnswered(s.intentions) +
-      s.gratitudes.size +
+      countMovementEntries(s.movements) +
       s.offeredDays.size +
       s.confessions.size,
   )
@@ -83,7 +81,7 @@ export function useMemoriaEntriesCount(): number {
 
 export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
-  const gratitudes = useEventStore((s) => s.gratitudes)
+  const movements = useEventStore((s) => s.movements)
   const offeredDays = useEventStore((s) => s.offeredDays)
   const confessions = useEventStore((s) => s.confessions)
 
@@ -104,13 +102,13 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         })
       }
     }
-    for (const g of gratitudes.values()) {
-      if (onPriorAnniversary(g.recorded_at)) {
+    for (const m of movements.values()) {
+      if (m.kind === 'thanksgiving' && onPriorAnniversary(m.recorded_at)) {
         entries.push({
-          kind: 'gratitude',
-          id: `g:${g.id}`,
-          timestamp: g.recorded_at,
-          gratitude: g,
+          kind: 'thanksgiving',
+          id: `g:${m.id}`,
+          timestamp: m.recorded_at,
+          movement: m,
         })
       }
     }
@@ -131,7 +129,7 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
     }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [completions, gratitudes, offeredDays, confessions, now])
+  }, [completions, movements, offeredDays, confessions, now])
 }
 
 function isPriorAnniversary(timestamp: number, month: number, day: number, year: number): boolean {
@@ -139,8 +137,11 @@ function isPriorAnniversary(timestamp: number, month: number, day: number, year:
   return d.getMonth() === month && d.getDate() === day && d.getFullYear() < year
 }
 
-function countAnswered(intentions: Map<number, IntentionState>): number {
+function countMovementEntries(movements: Map<string, Movement>): number {
   let n = 0
-  for (const i of intentions.values()) if (i.answered_at !== null) n++
+  for (const m of movements.values()) {
+    n += 1
+    if (m.kind === 'intention' && m.state === 'closed') n += 1
+  }
   return n
 }

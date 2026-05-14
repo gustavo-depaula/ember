@@ -25,6 +25,19 @@
 			"type": "divider"
 		},
 		{
+			"type": "offering",
+			"mode": "intercessory",
+			"default": "all-active",
+			"show": "list",
+			"label": {
+				"en-US": "Today's intentions",
+				"pt-BR": "Intenções de hoje"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
 			"type": "rubric",
 			"text": {
 				"en-US": "Then pray:",
@@ -68,6 +81,25 @@
 		{
 			"type": "prayer",
 			"ref": "hail-holy-queen"
+		},
+		{
+			"type": "group",
+			"skipIfEmpty": true,
+			"sections": [
+				{
+					"type": "divider"
+				},
+				{
+					"type": "review-resolution",
+					"mode": "show",
+					"target": "active-daily",
+					"prompt": {
+						"en-US": "Remember your resolution today",
+						"pt-BR": "Lembre-se da sua resolução de hoje"
+					},
+					"skip_if_none": true
+				}
+			]
 		}
 	]
 }

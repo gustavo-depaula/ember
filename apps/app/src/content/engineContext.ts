@@ -1,4 +1,5 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
+import { windowFor } from '@ember/liturgical'
 import {
   getBookEntry,
   getProseText,
@@ -6,6 +7,9 @@ import {
   resolveCanticle,
   resolvePrayer,
 } from '@/content/resolver'
+import { useEventStore } from '@/db/events'
+import { pickActive, pickPending } from '@/features/resolutions/selectors'
+import { getToday } from '@/hooks/useToday'
 import i18n, { localizeBilingual, localizeContent } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -96,5 +100,54 @@ export function createEngineContext(
     // which is populated by loadPracticeData() and indexed by data name (e.g.
     // 'liturgical-map'). Cross-practice data (OF Mass propers, prefaces) is
     // wired into the `mass-of` DataSource at construction time, not here.
+  }
+}
+
+/**
+ * Augment an EngineContext with movement / resolution / window deps,
+ * snapshotting store state and the current time at call. The returned
+ * context is a fresh object — the input is not mutated. Resolution
+ * lookups close over the snapshot, so a single `resolveFlow` pass sees
+ * a consistent view even if the store mutates while it runs. Re-call
+ * this helper to refresh.
+ */
+export function withSpiritualThreads(ec: EngineContext): EngineContext {
+  const snapshot = useEventStore.getState()
+  // Honor the user's selected day. `getToday()` already applies the 4am
+  // cutoff in live mode, so resolutions, the day carousel, and the wall
+  // all agree on what day it is.
+  const today = getToday()
+  const now = today.getTime()
+
+  return {
+    ...ec,
+    supportsMovements: true,
+    windowFor: (level, forward) => windowFor(level, today, forward),
+    resolutions: {
+      active(level) {
+        const r = pickActive(snapshot.resolutions, snapshot.resolutionsByLevel.get(level), now)
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
+      pending(level) {
+        const r = pickPending(
+          snapshot.resolutions,
+          snapshot.resolutionReviews,
+          snapshot.resolutionsByLevel.get(level),
+          now,
+        )
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
+      inWindow(level, starts_at) {
+        // pickActive returns the resolution whose window contains the given
+        // timestamp. Anchoring at `starts_at` (the window's own start) works
+        // for both `for: "current"` (today) and `for: "next"` (tomorrow).
+        const r = pickActive(
+          snapshot.resolutions,
+          snapshot.resolutionsByLevel.get(level),
+          starts_at,
+        )
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
+    },
   }
 }
