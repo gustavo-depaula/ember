@@ -87,7 +87,6 @@ describe('capture-movement block resolution', () => {
         kind: 'intention',
         prompt: { 'en-US': 'Anything new this morning?' },
         multi: true,
-        optional: true,
         defaults: { cadence: 'goal' },
       }),
       makeContext(),
@@ -100,13 +99,12 @@ describe('capture-movement block resolution', () => {
         kind: 'intention',
         prompt: { primary: 'Anything new this morning?' },
         multi: true,
-        optional: true,
         defaultCadence: 'goal',
       },
     ])
   })
 
-  it('falls back to multi=false, optional=false, cadence=perpetual when omitted', () => {
+  it('falls back to multi=false, cadence=perpetual when omitted', () => {
     const result = resolveFlow(
       flow({
         type: 'capture-movement',
@@ -120,7 +118,6 @@ describe('capture-movement block resolution', () => {
     expect(result[0]).toMatchObject({
       type: 'rendered-capture-movement',
       multi: false,
-      optional: false,
       defaultCadence: 'perpetual',
     })
   })

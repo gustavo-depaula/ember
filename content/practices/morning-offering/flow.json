@@ -1,12 +1,6 @@
 {
 	"sections": [
 		{
-			"type": "review-resolution",
-			"mode": "show",
-			"target": "active-daily",
-			"skip_if_none": true
-		},
-		{
 			"type": "prayer",
 			"ref": "sign-of-cross"
 		},
@@ -39,17 +33,6 @@
 				"en-US": "Today's intentions",
 				"pt-BR": "Intenções de hoje"
 			}
-		},
-		{
-			"type": "capture-movement",
-			"kind": "intention",
-			"prompt": {
-				"en-US": "Anything new this morning?",
-				"pt-BR": "Algo novo nesta manhã?"
-			},
-			"multi": true,
-			"optional": true,
-			"defaults": { "cadence": "perpetual" }
 		},
 		{
 			"type": "divider"
@@ -98,6 +81,25 @@
 		{
 			"type": "prayer",
 			"ref": "hail-holy-queen"
+		},
+		{
+			"type": "group",
+			"skipIfEmpty": true,
+			"sections": [
+				{
+					"type": "divider"
+				},
+				{
+					"type": "review-resolution",
+					"mode": "show",
+					"target": "active-daily",
+					"prompt": {
+						"en-US": "Remember your resolution today",
+						"pt-BR": "Lembre-se da sua resolução de hoje"
+					},
+					"skip_if_none": true
+				}
+			]
 		}
 	]
 }

@@ -564,7 +564,6 @@ function PracticeSectionBlock({
           kind={section.kind}
           prompt={section.prompt.primary}
           multi={section.multi}
-          optional={section.optional}
           defaultCadence={section.defaultCadence}
         />
       )
@@ -572,11 +571,10 @@ function PracticeSectionBlock({
     case 'rendered-capture-resolution':
       return (
         <RenderedCaptureResolutionBlock
-          level={section.level}
           forward={section.forward}
           prompt={section.prompt.primary}
           window={section.window}
-          optional={section.optional}
+          prefill={section.prefill}
         />
       )
 

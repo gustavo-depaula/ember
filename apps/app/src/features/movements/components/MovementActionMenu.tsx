@@ -72,7 +72,7 @@ export function MovementActionMenu({
     }
     const ok = await confirm({
       title: t('movements.confirm.retireTitle'),
-      description: movement.text,
+      description: `“${movement.text}” — ${t('movements.confirm.retireDescription')}`,
       confirmLabel: t('movements.actions.retire'),
       destructive: true,
     })

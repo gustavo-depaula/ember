@@ -182,6 +182,17 @@ export type FlowSection = { lang?: string } & (
   | { type: 'fragment'; ref: string }
   | { type: 'call'; ref: string; args?: Record<string, unknown> }
   | {
+      // Wraps a body of sections that should collapse together. With
+      // `skipIfEmpty: true`, the group emits nothing when its children resolve
+      // to only structural primitives (subheading / divider / heading) —
+      // useful for a chrome-only section like the Examen's Verificatio that
+      // should disappear entirely when its `review-resolution skip_if_none`
+      // has no resolution to surface.
+      type: 'group'
+      sections: FlowSection[]
+      skipIfEmpty?: boolean
+    }
+  | {
       // Wraps a body and propagates a liturgical-vestment color through
       // React context to descendants. SectionMarker rules + OptionCard
       // selected borders pick it up as a fallback when they don't set
@@ -251,7 +262,6 @@ export type FlowSection = { lang?: string } & (
       kind: 'intention' | 'thanksgiving'
       prompt: LocalizedText
       multi?: boolean
-      optional?: boolean
       defaults?: { cadence?: 'perpetual' | 'goal' | 'bounded' }
     }
   | {
@@ -259,7 +269,6 @@ export type FlowSection = { lang?: string } & (
       level: 'daily'
       for?: 'current' | 'next'
       prompt: LocalizedText
-      optional?: boolean
     }
   | {
       type: 'review-resolution'
@@ -396,7 +405,6 @@ export type RenderedSection =
       kind: 'intention' | 'thanksgiving'
       prompt: BilingualText
       multi: boolean
-      optional: boolean
       defaultCadence?: 'perpetual' | 'goal' | 'bounded'
     }
   | {
@@ -406,7 +414,6 @@ export type RenderedSection =
       prompt: BilingualText
       window: { starts_at: number; ends_at: number }
       prefill?: { resolution_id: string; text: string }
-      optional: boolean
     }
   | {
       type: 'rendered-review-resolution'

@@ -2,6 +2,7 @@ import { Check, Plus } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Keyboard } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayerTextInput } from '@/components'
@@ -12,17 +13,22 @@ import { useOfferThanksgiving, useRaiseIntention } from '../hooks'
 
 import { CadenceToggle } from './CadenceToggle'
 
+/**
+ * Inline capture inside a flow ("Anything new this morning?").
+ *
+ * Form opens only on an explicit "+ Add" tap, mirroring the offering block.
+ * Auto-opening on mount is hostile — the user sees a textarea they didn't
+ * ask for and wonders what to type.
+ */
 export function RenderedCaptureMovementBlock({
   kind,
   prompt,
   multi,
-  optional,
   defaultCadence,
 }: {
   kind: MovementKind
   prompt: string
   multi: boolean
-  optional: boolean
   defaultCadence?: Cadence
 }) {
   const { t } = useTranslation()
@@ -31,7 +37,7 @@ export function RenderedCaptureMovementBlock({
   const [text, setText] = useState('')
   const [cadence, setCadence] = useState<Cadence>(defaultCadence ?? 'perpetual')
   const [captured, setCaptured] = useState<string[]>([])
-  const [skipped, setSkipped] = useState(false)
+  const [adding, setAdding] = useState(false)
 
   const raiseIntention = useRaiseIntention()
   const offerThanksgiving = useOfferThanksgiving()
@@ -51,8 +57,22 @@ export function RenderedCaptureMovementBlock({
     successBuzz()
     setCaptured((prev) => [...prev, trimmed])
     setText('')
-    if (kind === 'intention') setCadence(defaultCadence ?? 'perpetual')
+    setCadence(defaultCadence ?? 'perpetual')
+    setAdding(false)
   }
+
+  function cancel() {
+    lightTap()
+    setText('')
+    setCadence(defaultCadence ?? 'perpetual')
+    setAdding(false)
+  }
+
+  // Once at least one entry exists for a non-multi block, the user is "done"
+  // and the Add button hides too.
+  const canAddMore = multi || captured.length === 0
+  const addLabel =
+    kind === 'intention' ? t('movements.capture.raise') : t('movements.capture.offer')
 
   return (
     <YStack
@@ -70,39 +90,50 @@ export function RenderedCaptureMovementBlock({
       {captured.length > 0 ? (
         <YStack gap="$xs">
           {captured.map((c) => (
-            <XStack key={c} alignItems="center" gap="$xs">
-              <Check size={12} color={theme.accent?.val} />
-              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-                {c}
-              </Text>
-            </XStack>
+            <Animated.View
+              key={c}
+              entering={FadeIn.duration(220)}
+              layout={LinearTransition.duration(200)}
+            >
+              <XStack alignItems="center" gap="$xs">
+                <Check size={12} color={theme.accent?.val} />
+                <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
+                  {c}
+                </Text>
+              </XStack>
+            </Animated.View>
           ))}
         </YStack>
       ) : undefined}
 
-      {!skipped && (multi || captured.length === 0) ? (
-        <>
-          <PrayerTextInput
-            value={text}
-            onChangeText={setText}
-            placeholder={
-              kind === 'intention'
-                ? t('movements.capture.intentionPlaceholder')
-                : t('movements.capture.thanksgivingPlaceholder')
-            }
-          />
+      {adding ? (
+        <Animated.View
+          entering={FadeIn.duration(180)}
+          exiting={FadeOut.duration(120)}
+          layout={LinearTransition.duration(200)}
+        >
+          <YStack gap="$sm">
+            <PrayerTextInput
+              value={text}
+              onChangeText={setText}
+              placeholder={
+                kind === 'intention'
+                  ? t('movements.capture.intentionPlaceholder')
+                  : t('movements.capture.thanksgivingPlaceholder')
+              }
+              autoFocus
+            />
 
-          {kind === 'intention' ? (
-            <CadenceToggle value={cadence} onChange={setCadence} />
-          ) : undefined}
+            {kind === 'intention' ? (
+              <CadenceToggle value={cadence} onChange={setCadence} />
+            ) : undefined}
 
-          <XStack gap="$sm">
-            {optional ? (
+            <XStack gap="$sm">
               <AnimatedPressable
-                onPress={() => setSkipped(true)}
+                onPress={cancel}
                 style={{ flex: 1 }}
                 accessibilityRole="button"
-                accessibilityLabel={t('common.skip')}
+                accessibilityLabel={t('common.cancel')}
               >
                 <XStack
                   justifyContent="center"
@@ -112,38 +143,52 @@ export function RenderedCaptureMovementBlock({
                   borderColor="$borderColor"
                 >
                   <Text fontFamily="$heading" fontSize="$2" color="$color" letterSpacing={1}>
-                    {t('common.skip')}
+                    {t('common.cancel')}
                   </Text>
                 </XStack>
               </AnimatedPressable>
-            ) : undefined}
-            <AnimatedPressable
-              onPress={submit}
-              disabled={!text.trim() || submitting}
-              style={{ flex: 1, opacity: text.trim() ? 1 : 0.5 }}
-              accessibilityRole="button"
-              accessibilityLabel={
-                kind === 'intention' ? t('movements.capture.raise') : t('movements.capture.offer')
-              }
-            >
-              <XStack
-                alignItems="center"
-                justifyContent="center"
-                gap="$xs"
-                paddingVertical="$sm"
-                borderRadius="$md"
-                backgroundColor="$accent"
+              <AnimatedPressable
+                onPress={submit}
+                disabled={!text.trim() || submitting}
+                style={{ flex: 1, opacity: text.trim() ? 1 : 0.5 }}
+                accessibilityRole="button"
+                accessibilityLabel={addLabel}
               >
-                <Plus size={14} color="white" />
-                <Text fontFamily="$heading" fontSize="$2" color="white" letterSpacing={1}>
-                  {kind === 'intention'
-                    ? t('movements.capture.raise')
-                    : t('movements.capture.offer')}
-                </Text>
-              </XStack>
-            </AnimatedPressable>
-          </XStack>
-        </>
+                <XStack
+                  alignItems="center"
+                  justifyContent="center"
+                  gap="$xs"
+                  paddingVertical="$sm"
+                  borderRadius="$md"
+                  backgroundColor="$accent"
+                >
+                  <Plus size={14} color="white" />
+                  <Text fontFamily="$heading" fontSize="$2" color="white" letterSpacing={1}>
+                    {addLabel}
+                  </Text>
+                </XStack>
+              </AnimatedPressable>
+            </XStack>
+          </YStack>
+        </Animated.View>
+      ) : canAddMore ? (
+        <Animated.View entering={FadeIn.duration(180)} exiting={FadeOut.duration(120)}>
+          <AnimatedPressable
+            onPress={() => {
+              lightTap()
+              setAdding(true)
+            }}
+            accessibilityRole="button"
+            accessibilityLabel={addLabel}
+          >
+            <XStack alignItems="center" gap="$xs" paddingVertical="$xs">
+              <Plus size={14} color={theme.accent?.val} />
+              <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
+                {addLabel}
+              </Text>
+            </XStack>
+          </AnimatedPressable>
+        </Animated.View>
       ) : undefined}
     </YStack>
   )

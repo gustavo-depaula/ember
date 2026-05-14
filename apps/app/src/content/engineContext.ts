@@ -137,6 +137,17 @@ export function withSpiritualThreads(ec: EngineContext): EngineContext {
         )
         return r ? { id: r.id, text: r.text, level: r.level } : undefined
       },
+      inWindow(level, starts_at) {
+        // pickActive returns the resolution whose window contains the given
+        // timestamp. Anchoring at `starts_at` (the window's own start) works
+        // for both `for: "current"` (today) and `for: "next"` (tomorrow).
+        const r = pickActive(
+          snapshot.resolutions,
+          snapshot.resolutionsByLevel.get(level),
+          starts_at,
+        )
+        return r ? { id: r.id, text: r.text, level: r.level } : undefined
+      },
     },
   }
 }

@@ -2,6 +2,7 @@ import { Check, Plus, Square } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Keyboard } from 'react-native'
+import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PrayerTextInput } from '@/components'
@@ -140,9 +141,11 @@ export function RenderedOfferingBlock({
 
   const grouped = groupBySubject(all)
   const isEmpty = all.length === 0
-  // Empty list → the form is the only sensible thing to show; expand it.
-  // Non-empty → user opts into adding via the inline link.
-  const showForm = adding || isEmpty
+  // The capture form opens only on an explicit "+ Add" tap, regardless of
+  // whether the list is empty. Auto-opening on empty is hostile to a user
+  // who didn't ask to capture anything — they just see a textarea appear
+  // and wonder what they're supposed to type.
+  const showForm = adding
   const placeholderKey =
     captureKind === 'intention'
       ? 'movements.capture.intentionPlaceholder'
@@ -168,6 +171,11 @@ export function RenderedOfferingBlock({
         {!isEmpty && defaultMode === 'user-pick' ? (
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
             {t('movements.offering.pickHint')}
+          </Text>
+        ) : undefined}
+        {isEmpty && !showForm ? (
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
+            {t('movements.offering.empty')}
           </Text>
         ) : undefined}
         {isEmpty
@@ -212,19 +220,24 @@ export function RenderedOfferingBlock({
             ))}
 
         {showForm ? (
-          <YStack gap="$sm">
-            <PrayerTextInput
-              size="sm"
-              value={draft}
-              onChangeText={setDraft}
-              placeholder={t(placeholderKey)}
-              style={{ maxHeight: 140 }}
-            />
-            {captureKind === 'intention' ? (
-              <CadenceToggle value={cadence} onChange={setCadence} />
-            ) : undefined}
-            <XStack gap="$sm">
-              {isEmpty ? undefined : (
+          <Animated.View
+            entering={FadeIn.duration(180)}
+            exiting={FadeOut.duration(120)}
+            layout={LinearTransition.duration(200)}
+          >
+            <YStack gap="$sm">
+              <PrayerTextInput
+                size="sm"
+                value={draft}
+                onChangeText={setDraft}
+                placeholder={t(placeholderKey)}
+                style={{ maxHeight: 140 }}
+                autoFocus
+              />
+              {captureKind === 'intention' ? (
+                <CadenceToggle value={cadence} onChange={setCadence} />
+              ) : undefined}
+              <XStack gap="$sm">
                 <AnimatedPressable
                   onPress={() => {
                     setAdding(false)
@@ -246,46 +259,48 @@ export function RenderedOfferingBlock({
                     </Text>
                   </XStack>
                 </AnimatedPressable>
-              )}
-              <AnimatedPressable
-                onPress={captureNew}
-                disabled={!draft.trim() || submitting}
-                style={{ flex: 1, opacity: draft.trim() ? 1 : 0.5 }}
-                accessibilityRole="button"
-                accessibilityLabel={t(submitKey)}
-              >
-                <XStack
-                  alignItems="center"
-                  justifyContent="center"
-                  gap="$xs"
-                  paddingVertical="$sm"
-                  borderRadius="$md"
-                  backgroundColor="$accent"
+                <AnimatedPressable
+                  onPress={captureNew}
+                  disabled={!draft.trim() || submitting}
+                  style={{ flex: 1, opacity: draft.trim() ? 1 : 0.5 }}
+                  accessibilityRole="button"
+                  accessibilityLabel={t(submitKey)}
                 >
-                  <Plus size={14} color="white" />
-                  <Text fontFamily="$heading" fontSize="$2" color="white" letterSpacing={1}>
-                    {t(submitKey)}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-            </XStack>
-          </YStack>
+                  <XStack
+                    alignItems="center"
+                    justifyContent="center"
+                    gap="$xs"
+                    paddingVertical="$sm"
+                    borderRadius="$md"
+                    backgroundColor="$accent"
+                  >
+                    <Plus size={14} color="white" />
+                    <Text fontFamily="$heading" fontSize="$2" color="white" letterSpacing={1}>
+                      {t(submitKey)}
+                    </Text>
+                  </XStack>
+                </AnimatedPressable>
+              </XStack>
+            </YStack>
+          </Animated.View>
         ) : (
-          <AnimatedPressable
-            onPress={() => {
-              lightTap()
-              setAdding(true)
-            }}
-            accessibilityRole="button"
-            accessibilityLabel={t(`movements.offering.add.${captureKind}`)}
-          >
-            <XStack alignItems="center" gap="$xs" paddingVertical="$xs">
-              <Plus size={14} color={theme.accent?.val} />
-              <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
-                {t(`movements.offering.add.${captureKind}`)}
-              </Text>
-            </XStack>
-          </AnimatedPressable>
+          <Animated.View entering={FadeIn.duration(180)} exiting={FadeOut.duration(120)}>
+            <AnimatedPressable
+              onPress={() => {
+                lightTap()
+                setAdding(true)
+              }}
+              accessibilityRole="button"
+              accessibilityLabel={t(`movements.offering.add.${captureKind}`)}
+            >
+              <XStack alignItems="center" gap="$xs" paddingVertical="$xs">
+                <Plus size={14} color={theme.accent?.val} />
+                <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
+                  {t(`movements.offering.add.${captureKind}`)}
+                </Text>
+              </XStack>
+            </AnimatedPressable>
+          </Animated.View>
         )}
       </YStack>
     </YStack>

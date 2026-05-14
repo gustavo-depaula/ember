@@ -385,6 +385,22 @@ export function resolveSection(
       })
     }
 
+    case 'group': {
+      const resolved = section.sections.flatMap((s) => resolveSection(s, context, ec))
+      if (section.skipIfEmpty) {
+        // "Empty" means no substantive content — only structural chrome
+        // (subheading / divider / heading) is present. A group built just to
+        // frame a single conditional block (e.g. Verificatio wrapping a
+        // `review-resolution skip_if_none`) collapses entirely when the
+        // conditional skipped emission.
+        const hasContent = resolved.some(
+          (r) => r.type !== 'divider' && r.type !== 'subheading' && r.type !== 'heading',
+        )
+        if (!hasContent) return []
+      }
+      return resolved
+    }
+
     case 'call': {
       // Parameterized macro/fragment invocation.
       // Looks up section.ref in FlowContext.fragments (same registry as fragment),
@@ -519,7 +535,6 @@ export function resolveSection(
           kind: section.kind,
           prompt: ec.localize(section.prompt),
           multi: section.multi ?? false,
-          optional: section.optional ?? false,
           ...(section.kind === 'intention'
             ? { defaultCadence: section.defaults?.cadence ?? 'perpetual' }
             : {}),
@@ -531,6 +546,7 @@ export function resolveSection(
       if (!ec.resolutions || !ec.windowFor) return []
       const forward = section.for ?? 'next'
       const window = ec.windowFor(section.level, forward)
+      const existing = ec.resolutions.inWindow(section.level, window.starts_at)
       return [
         {
           type: 'rendered-capture-resolution',
@@ -538,7 +554,7 @@ export function resolveSection(
           forward,
           prompt: ec.localize(section.prompt),
           window,
-          optional: section.optional ?? false,
+          ...(existing ? { prefill: { resolution_id: existing.id, text: existing.text } } : {}),
         },
       ]
     }
@@ -560,7 +576,7 @@ export function resolveSection(
           ...(resolution
             ? { resolution: { id: resolution.id, text: resolution.text, level: resolution.level } }
             : {}),
-          ...(section.prompt && mode !== 'show' ? { prompt: ec.localize(section.prompt) } : {}),
+          ...(section.prompt ? { prompt: ec.localize(section.prompt) } : {}),
           outcomes: section.outcomes ?? ['kept', 'partial', 'broken'],
           allow_notes: section.allow_notes ?? true,
         },

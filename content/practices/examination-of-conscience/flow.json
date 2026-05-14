@@ -15,24 +15,30 @@
 			"type": "divider"
 		},
 		{
-			"type": "subheading",
-			"text": {
-				"en-US": "Verificatio",
-				"pt-BR": "Verificação"
-			}
-		},
-		{
-			"type": "review-resolution",
-			"mode": "review",
-			"target": "pending-daily",
-			"prompt": {
-				"en-US": "How did this resolution go?",
-				"pt-BR": "Como foi esta resolução?"
-			},
-			"skip_if_none": true
-		},
-		{
-			"type": "divider"
+			"type": "group",
+			"skipIfEmpty": true,
+			"sections": [
+				{
+					"type": "subheading",
+					"text": {
+						"en-US": "Verificatio",
+						"pt-BR": "Verificação"
+					}
+				},
+				{
+					"type": "review-resolution",
+					"mode": "review",
+					"target": "pending-daily",
+					"prompt": {
+						"en-US": "How did this resolution go? Be honest — mercy meets truth, not performance.",
+						"pt-BR": "Como foi esta resolução? Seja honesto — a misericórdia encontra a verdade, não a performance."
+					},
+					"skip_if_none": true
+				},
+				{
+					"type": "divider"
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -76,8 +82,7 @@
 				"en-US": "What graces from today?",
 				"pt-BR": "Quais graças deste dia?"
 			},
-			"multi": true,
-			"optional": true
+			"multi": true
 		},
 		{
 			"type": "divider"
@@ -148,20 +153,13 @@
 			}
 		},
 		{
-			"type": "offering",
-			"mode": "intercessory",
-			"default": "all-active",
-			"show": "list"
-		},
-		{
 			"type": "capture-resolution",
 			"level": "daily",
 			"for": "next",
 			"prompt": {
 				"en-US": "One concrete resolution for tomorrow.",
 				"pt-BR": "Uma resolução concreta para amanhã."
-			},
-			"scaffolded_by": "active-higher"
+			}
 		},
 		{
 			"type": "divider"

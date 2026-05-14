@@ -69,6 +69,13 @@ export type EngineContext = {
   resolutions?: {
     active(level: ResolutionLevel): ResolutionLite | undefined
     pending(level: ResolutionLevel): ResolutionLite | undefined
+    /**
+     * Look up a resolution whose window contains the given timestamp. Used by
+     * `capture-resolution` to pre-fill its form with an existing resolution
+     * for the target window (e.g. the Examen re-opened after the user already
+     * wrote tomorrow's resolution earlier in the evening).
+     */
+    inWindow(level: ResolutionLevel, starts_at: number): ResolutionLite | undefined
   }
   /**
    * Resolution window at a given level / direction. The host closes over its

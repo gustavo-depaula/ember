@@ -43,6 +43,7 @@ describe('capture-resolution block', () => {
         resolutions: {
           active: () => undefined,
           pending: () => undefined,
+          inWindow: () => undefined,
         },
         windowFor: (_, _f) => ({ starts_at: 1000, ends_at: 2000 }),
       }),
@@ -54,7 +55,34 @@ describe('capture-resolution block', () => {
       forward: 'next',
       prompt: { primary: 'One concrete resolution for tomorrow.' },
       window: { starts_at: 1000, ends_at: 2000 },
-      optional: false,
+    })
+  })
+
+  it('includes prefill when an existing resolution matches the window', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'capture-resolution',
+        level: 'daily',
+        for: 'next',
+        prompt: { 'en-US': 'One concrete resolution for tomorrow.' },
+      }),
+      makeContext(),
+      makeEngineContext({
+        resolutions: {
+          active: () => undefined,
+          pending: () => undefined,
+          inWindow: (_, starts_at) =>
+            starts_at === 1000
+              ? { id: 'r-existing', text: 'Hold my tongue', level: 'daily' }
+              : undefined,
+        },
+        windowFor: () => ({ starts_at: 1000, ends_at: 2000 }),
+      }),
+    )
+
+    expect(result[0]).toMatchObject({
+      type: 'rendered-capture-resolution',
+      prefill: { resolution_id: 'r-existing', text: 'Hold my tongue' },
     })
   })
 
@@ -78,6 +106,7 @@ describe('review-resolution block', () => {
       resolutions: {
         active: () => (active ? { ...active, level: 'daily' } : undefined),
         pending: () => (pending ? { ...pending, level: 'daily' } : undefined),
+        inWindow: () => undefined,
       },
       windowFor: () => ({ starts_at: 0, ends_at: 0 }),
     })
@@ -124,19 +153,19 @@ describe('review-resolution block', () => {
     expect(result).toEqual([])
   })
 
-  it('omits prompt when mode=show', () => {
+  it('passes prompt through in show mode (block renders it as the heading)', () => {
     const result = resolveFlow(
       flow({
         type: 'review-resolution',
         mode: 'show',
         target: 'active-daily',
-        prompt: { 'en-US': 'Did you keep this?' },
+        prompt: { 'en-US': 'Remember your resolution today' },
       }),
       makeContext(),
       ctx({ id: 'r1', text: 'x' }),
     )
-    const block = result[0] as { prompt?: unknown }
-    expect(block.prompt).toBeUndefined()
+    const block = result[0] as { prompt?: { primary: string } }
+    expect(block.prompt?.primary).toBe('Remember your resolution today')
   })
 
   it('defaults outcomes to all three and allow_notes to true', () => {

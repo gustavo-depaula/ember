@@ -46,7 +46,7 @@ describe('daily resolution loop — Examen → next-day Morning Offering', () =>
     const setButton = await screen.findByRole('button', { name: 'Set' })
     await user.click(setButton)
 
-    expect((await screen.findAllByText(/Resolution set/i))[0]).toBeInTheDocument()
+    expect((await screen.findAllByText(/Set. Carry it/i))[0]).toBeInTheDocument()
 
     // 4. The event landed in the projection with the right window — starts
     //    on Wednesday (the day *after* the Tuesday Examen).
@@ -65,7 +65,14 @@ describe('daily resolution loop — Examen → next-day Morning Offering', () =>
     navigate('/pray/practice/morning-offering')
 
     // 7. The Wednesday Morning Offering surfaces what Tuesday's Examen wrote.
-    //    This is the proof that the dusk-to-dawn handoff works end-to-end.
-    expect((await screen.findAllByText('Hold my tongue at the meeting'))[0]).toBeInTheDocument()
+    //    Wait first for the Morning Offering's distinctive prompt to appear
+    //    (proves the new flow finished resolving — the Examen's old display
+    //    of the same resolution text would race the assertion otherwise).
+    expect(
+      (await screen.findAllByText(/Remember your resolution today/i, undefined, { timeout: 5000 }))[0],
+    ).toBeInTheDocument()
+    expect(
+      (await screen.findAllByText('Hold my tongue at the meeting'))[0],
+    ).toBeInTheDocument()
   }, 45_000)
 })

@@ -227,14 +227,14 @@ export default {
 
   movements: {
     cadence: {
-      label: 'Cadence',
-      perpetual: 'Perpetual',
-      goal: 'Goal',
-      bounded: 'Bounded',
+      label: 'How long?',
+      perpetual: 'Ongoing',
+      goal: 'A specific ask',
+      bounded: 'For a time',
       hint: {
-        perpetual: 'Carried indefinitely. No end, no resolution — only prayer.',
-        goal: 'A specific ask. Mark it answered when God responds.',
-        bounded: 'Active during a window — a novena, a season — then closes.',
+        perpetual: 'Something you carry indefinitely — no end, only prayer.',
+        goal: 'A concrete request. Mark it answered when God responds.',
+        bounded: 'For a window — a novena, a season, a date. It closes when the time ends.',
       },
     },
     subject: {
@@ -256,13 +256,13 @@ export default {
     actions: {
       markAnswered: 'Mark answered',
       answered: 'Answered',
-      retire: 'Retire',
+      retire: 'Stop carrying',
       removeThanksgiving: 'Remove',
-      pinToPractice: 'Pin to practice…',
+      pinToPractice: 'Pray for this in…',
     },
     pinPractice: {
-      title: 'Pin to practices',
-      subtitle: 'This intention will be pre-selected when you pray these practices.',
+      title: 'Pray for this in…',
+      subtitle: 'When you open these practices, this will be there waiting.',
       empty: 'No practices yet.',
     },
     picker: {
@@ -277,14 +277,15 @@ export default {
       unpin: 'Unpin from this practice',
     },
     offering: {
-      empty: 'Nothing to carry yet — capture one below.',
+      empty:
+        'Bring someone or something to God this morning — a person you love, a worry, a hope. Or move on, and pray with what you have.',
       pickHint: 'Pick what to carry in this prayer.',
       summary_one: 'Offering {{count}} intention',
       summary_other: 'Offering {{count}} intentions',
       summaryEmpty: 'Offering this prayer.',
       add: {
-        intention: 'Add intention',
-        thanksgiving: 'Add grace',
+        intention: 'Pray for someone',
+        thanksgiving: 'Give thanks for something',
       },
     },
     closure: {
@@ -293,7 +294,8 @@ export default {
       retired: 'Retired',
     },
     confirm: {
-      retireTitle: 'Retire this intention?',
+      retireTitle: 'Stop carrying this?',
+      retireDescription: 'You can always lift it up again. The record stays in your history.',
     },
     bridge: {
       title: 'Record this as thanksgiving?',
@@ -362,7 +364,8 @@ export default {
     capture: {
       placeholder: 'A concrete resolution…',
       save: 'Set',
-      recorded: 'Resolution set.',
+      change: 'Change',
+      recorded: 'Set. Carry it into the day.',
     },
     review: {
       outcome: {
@@ -1158,6 +1161,7 @@ export default {
     back: 'Back',
     clear: 'Clear',
     cancel: 'Cancel',
+    save: 'Save',
     confirm: 'Confirm',
     remove: 'Remove',
     add: 'Add',

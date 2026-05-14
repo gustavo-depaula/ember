@@ -229,16 +229,16 @@ export default {
 
   movements: {
     cadence: {
-      label: 'Cad\u00eancia',
-      perpetual: 'Perp\u00e9tua',
-      goal: 'Pedido',
-      bounded: 'Por per\u00edodo',
+      label: 'Por quanto tempo?',
+      perpetual: 'Cont\u00ednua',
+      goal: 'Um pedido espec\u00edfico',
+      bounded: 'Por um tempo',
       hint: {
         perpetual:
-          'Carregada continuamente. Sem fim, sem resolu\u00e7\u00e3o \u2014 apenas ora\u00e7\u00e3o.',
-        goal: 'Um pedido espec\u00edfico. Marque como atendida quando Deus responder.',
+          'Algo que voc\u00ea carrega continuamente \u2014 sem fim, s\u00f3 ora\u00e7\u00e3o.',
+        goal: 'Um pedido concreto. Marque como atendida quando Deus responder.',
         bounded:
-          'Ativa durante um per\u00edodo \u2014 uma novena, um tempo lit\u00fargico \u2014 e depois encerra.',
+          'Por um per\u00edodo \u2014 uma novena, um tempo, uma data. Encerra quando o tempo termina.',
       },
     },
     subject: {
@@ -260,13 +260,13 @@ export default {
     actions: {
       markAnswered: 'Marcar atendida',
       answered: 'Atendida',
-      retire: 'Encerrar',
+      retire: 'Parar de levar',
       removeThanksgiving: 'Remover',
-      pinToPractice: 'Fixar em prática…',
+      pinToPractice: 'Rezar por isso em…',
     },
     pinPractice: {
-      title: 'Fixar em práticas',
-      subtitle: 'Esta intenção será pré-selecionada ao rezar estas práticas.',
+      title: 'Rezar por isso em…',
+      subtitle: 'Quando você abrir estas práticas, ela estará lá esperando.',
       empty: 'Nenhuma prática ainda.',
     },
     picker: {
@@ -281,14 +281,15 @@ export default {
       unpin: 'Desafixar desta prática',
     },
     offering: {
-      empty: 'Nada para levar à oração ainda — registre abaixo.',
+      empty:
+        'Leve alguém ou algo a Deus esta manhã — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
       pickHint: 'Escolha o que levar nesta oração.',
       summary_one: 'Oferecendo {{count}} intenção',
       summary_other: 'Oferecendo {{count}} intenções',
       summaryEmpty: 'Oferecendo esta oração.',
       add: {
-        intention: 'Registrar intenção',
-        thanksgiving: 'Registrar graça',
+        intention: 'Rezar por alguém',
+        thanksgiving: 'Agradecer por algo',
       },
     },
     closure: {
@@ -297,7 +298,9 @@ export default {
       retired: 'Encerrada',
     },
     confirm: {
-      retireTitle: 'Encerrar esta inten\u00e7\u00e3o?',
+      retireTitle: 'Parar de levar isso?',
+      retireDescription:
+        'Voc\u00ea pode levant\u00e1-la de novo a qualquer momento. O registro permanece no seu hist\u00f3rico.',
     },
     bridge: {
       title: 'Registrar como a\u00e7\u00e3o de gra\u00e7as?',
@@ -366,7 +369,8 @@ export default {
     capture: {
       placeholder: 'Uma resolu\u00e7\u00e3o concreta\u2026',
       save: 'Definir',
-      recorded: 'Resolu\u00e7\u00e3o definida.',
+      change: 'Alterar',
+      recorded: 'Definida. Leve-a consigo pelo dia.',
     },
     review: {
       outcome: {
@@ -1164,6 +1168,7 @@ export default {
     back: 'Voltar',
     clear: 'Limpar',
     cancel: 'Cancelar',
+    save: 'Salvar',
     confirm: 'Confirmar',
     remove: 'Remover',
     add: 'Adicionar',
