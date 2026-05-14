@@ -3,7 +3,8 @@
 		{
 			"type": "heading",
 			"text": {
-				"en-US": "Sérviam! — I will serve!",
+				"la": "Sérviam!",
+				"en-US": "Sérviam! — I shall serve!",
 				"pt-BR": "Sérviam! — Servirei!"
 			}
 		},
@@ -12,51 +13,61 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Ad Trinitátem Beatíssimam.",
 						"en-US": "To the Most Blessed Trinity.",
 						"pt-BR": "À Santíssima Trindade."
 					},
 					"r": {
-						"en-US": "Thanks be to you, God, thanks be to you: true and one Trinity, one and highest Deity, holy and one Unity.",
+						"la": "Grátias tibi, Deus, grátias tibi: vera et una Trínitas, una et summa Déitas, sancta et una Únitas.",
+						"en-US": "Thank you, God, thank you. You are the true and one Trinity, the one and supreme Deity, holy and one Unity.",
 						"pt-BR": "Graças a vós, Senhor Deus, graças a vós. Verdadeira e única Trindade, divindade suprema e única, indivisa e Santa Trindade."
 					}
 				},
 				{
 					"v": {
+						"la": "Ad Iesum Christum Regem.",
 						"en-US": "To Jesus Christ the King.",
 						"pt-BR": "A Jesus Cristo, Rei."
 					},
 					"r": {
-						"en-US": "Lord our Judge; Lord our Law-giver; Lord our King: he himself will save us.",
+						"la": "Dóminus Iudex noster; Dóminus Légifer noster; Dóminus Rex noster. Ipse salvábit nos.",
+						"en-US": "The Lord is our Judge; the Lord is our Law-giver; the Lord is our King. He will save us.",
 						"pt-BR": "O Senhor é nosso Juiz, nosso Legislador e nosso Rei. Ele nos salvará."
 					}
 				},
 				{
 					"v": {
+						"la": "Christe, Fili Dei vivi, miserére nobis.",
 						"en-US": "Christ, Son of the living God, have mercy on us.",
 						"pt-BR": "Cristo, Filho do Deus vivo, tende misericórdia de nós."
 					},
 					"r": {
+						"la": "Christe, Fili Dei vivi, miserére nobis.",
 						"en-US": "Christ, Son of the living God, have mercy on us.",
 						"pt-BR": "Cristo, Filho do Deus vivo, tende misericórdia de nós."
 					}
 				},
 				{
 					"v": {
-						"en-US": "Rise, O Christ, help us.",
+						"la": "Exsúrge, Christe, ádiuva nos.",
+						"en-US": "Arise, O Christ, and help us.",
 						"pt-BR": "Levantai-vos, Cristo, vinde em nosso auxílio."
 					},
 					"r": {
-						"en-US": "And save us by your name.",
+						"la": "Et líbera nos propter nomen tuum.",
+						"en-US": "And set us free for your name's sake.",
 						"pt-BR": "Libertai-nos pelo vosso nome."
 					}
 				},
 				{
 					"v": {
-						"en-US": "The Lord is my light and salvation: whom shall I fear?",
+						"la": "Dóminus illuminátio mea et salus mea: quem timébo?",
+						"en-US": "The Lord is my light and salvation; whom shall I fear?",
 						"pt-BR": "O Senhor é a minha luz e salvação, a quem temerei?"
 					},
 					"r": {
-						"en-US": "If my enemies surround me, my heart will not be frightened; when danger arises against me, in him will I hope.",
+						"la": "Si consístant advérsum me castra, non timébit cor meum; si exsúrgat advérsum me prœlium, in hoc ego sperábo.",
+						"en-US": "If an army encamps against me, my heart will not fear; if battle rages against me, in him will I hope.",
 						"pt-BR": "Se os inimigos vierem contra mim, não temerá meu coração; se me combaterem, em Deus esperarei."
 					}
 				}
@@ -70,41 +81,49 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Ad Beátam Vírginem Maríam Mediatrícem.",
 						"en-US": "To the Blessed Virgin Mary, Mediatrix.",
 						"pt-BR": "À Bem-aventurada Virgem Maria, medianeira."
 					},
 					"r": {
-						"en-US": "Remember, O Virgin Mother of God, to speak for our good, when you stand in the sight of the Lord.",
+						"la": "Recordáre, Virgo Mater Dei, dum stéteris in conspéctu Dómini, ut loquáris pro nobis bona.",
+						"en-US": "Remember, O Virgin Mother of God, while you stand in the sight of the Lord, to speak good things on our behalf.",
 						"pt-BR": "Lembrai-vos, Virgem Mãe de Deus, de falar coisas boas de nós quando estiverdes na presença do Senhor."
 					}
 				},
 				{
 					"v": {
-						"en-US": "To Saint Joseph, Spouse of the Blessed Virgin Mary.",
+						"la": "Ad Sanctum Ioseph Sponsum Beátæ Maríæ Vírginis.",
+						"en-US": "To Saint Joseph, Husband of the Blessed Virgin Mary.",
 						"pt-BR": "A São José, esposo da Santíssima Virgem Maria."
 					},
 					"r": {
-						"en-US": "God made you like the Father of the King and Lord over his household: pray for us.",
+						"la": "Fecit te Deus quasi Patrem Regis, et dóminum univérsæ domus eius: ora pro nobis.",
+						"en-US": "God made you the Father, as it were, of the King, and master of his whole household; pray for us.",
 						"pt-BR": "Deus colocou-vos no lugar de Pai do Rei e de senhor da sua casa: rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Ad Ángelos Custódes.",
 						"en-US": "To the Guardian Angels.",
 						"pt-BR": "Aos Anjos da Guarda."
 					},
 					"r": {
-						"en-US": "Our Holy Guardian Angels, defend us in danger lest we perish in the Great Judgment.",
+						"la": "Sancti Ángeli Custódes nostri, deféndite nos in prœlio ut non pereámus in treméndo iudício.",
+						"en-US": "O Holy Guardian Angels, defend us in battle, lest we perish in the terrible judgment.",
 						"pt-BR": "Ó nossos Santos Anjos da Guarda, defendei-nos no combate, para que não pereçamos no tremendo juízo."
 					}
 				},
 				{
 					"v": {
-						"en-US": "To our founder Saint Josemaría.",
+						"la": "Ad Sanctum Iosephmaríam Conditórem nostrum.",
+						"en-US": "To Saint Josemaría, our Founder.",
 						"pt-BR": "A São Josemaria, nosso Fundador."
 					},
 					"r": {
-						"en-US": "Intercede for your children so that, being faithful to the spirit of Opus Dei, we may sanctify our work, and win souls for Christ.",
+						"la": "Intercéde pro fíliis tuis ut, fidéles spirítui Óperis Dei, labórem sanctificémus et ánimas Christo lucrifácere quærámus.",
+						"en-US": "Intercede for your children so that, being faithful to the spirit of Opus Dei, we may sanctify our work and seek to win souls for Christ.",
 						"pt-BR": "Intercedei pelos vossos filhos, para que, fiéis ao espírito do Opus Dei, santifiquemos o trabalho e ganhemos almas para Cristo."
 					}
 				}
@@ -118,51 +137,61 @@
 			"verses": [
 				{
 					"v": {
-						"en-US": "Let us pray for our Most Blessed Pope, N.",
+						"la": "Orémus pro Beatíssimo Papa nostro N.",
+						"en-US": "Let us pray for our Holy Father, N.",
 						"pt-BR": "Oremos pelo nosso Santo Padre, o Papa N."
 					},
 					"r": {
-						"en-US": "May the Lord protect him, enliven him, and make him happy on earth, and deliver him not into the hands of his enemies.",
+						"la": "Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum eius.",
+						"en-US": "May the Lord preserve him, and grant him life, and make him holy on earth, and not deliver him into the hands of his enemies.",
 						"pt-BR": "Que Deus o conserve e lhe dê vida e o faça santo na terra, e não o entregue nas mãos dos seus inimigos."
 					}
 				},
 				{
 					"v": {
+						"la": "Orémus et pro Antístite huius diœcésis.",
 						"en-US": "Let us pray for the (Arch)bishop of this diocese.",
 						"pt-BR": "Oremos também pelo Bispo desta diocese."
 					},
 					"r": {
-						"en-US": "May he stand courageously and tend your flock, O Lord, in your sublime name.",
+						"la": "Stet et pascat in fortitúdine tua, Dómine, in sublimitáte nóminis tui.",
+						"en-US": "May he stand firm and shepherd his flock in your strength, O Lord, in the loftiness of your name.",
 						"pt-BR": "Senhor, que ele apascente, vigilante, o seu rebanho, com a vossa fortaleza e na grandeza do vosso Nome."
 					}
 				},
 				{
 					"v": {
-						"en-US": "Let us pray for the unity of the apostolate.",
+						"la": "Orémus pro unitáte apostolátus.",
+						"en-US": "Let us pray for unity in the apostolate.",
 						"pt-BR": "Oremos pela unidade do apostolado."
 					},
 					"r": {
-						"en-US": "That all may be one, as you, Father, and I are one; that they may be one, as we are one.",
+						"la": "Ut omnes unum sint, sicut tu Pater in me et ego in te: ut sint unum, sicut et nos unum sumus.",
+						"en-US": "That all may be one as you, Father, are in me, and I in you; that they may be one, as we too are one.",
 						"pt-BR": "Que todos sejam um, como tu, Pai, estás em mim, e eu em ti: para que eles sejam um, assim como nós somos um."
 					}
 				},
 				{
 					"v": {
-						"en-US": "A kingdom divided against itself will be destroyed.",
+						"la": "Omne regnum divísum contra se, desolábitur.",
+						"en-US": "Every kingdom divided against itself will be laid waste.",
 						"pt-BR": "Todo reino dividido contra si mesmo será destruído."
 					},
 					"r": {
-						"en-US": "And a city or house divided against itself will not stand.",
+						"la": "Et omnis cívitas vel domus divísa contra se non stabit.",
+						"en-US": "And no city or house divided against itself will stand.",
 						"pt-BR": "E toda cidade ou casa internamente dividida não se manterá."
 					}
 				},
 				{
 					"v": {
+						"la": "Orémus pro benefactóribus nostris.",
 						"en-US": "Let us pray for our benefactors.",
 						"pt-BR": "Oremos pelos nossos benfeitores."
 					},
 					"r": {
-						"en-US": "Deign to grant them, Lord, life everlasting on account of all of their good works in your name. Amen.",
+						"la": "Retribúere dignáre, Dómine, ómnibus nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.",
+						"en-US": "Deign to grant everlasting life, O Lord, to all those who do good to us on account of your name. Amen.",
 						"pt-BR": "Dignai-vos, Senhor, recompensar com a vida eterna todos aqueles que nos fazem o bem pelo vosso nome. Amém."
 					}
 				}
@@ -176,50 +205,60 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Orémus pro Patre.",
 						"en-US": "Let us pray for the Father.",
 						"pt-BR": "Oremos pelo Padre."
 					},
 					"r": {
-						"en-US": "Your mercy, O Lord, be upon him from eternity to eternity: for the Lord guards all those who love him.",
+						"la": "Misericórdia Dómini ab ætérno et usque in ætérnum super eum: custódit enim Dóminus omnes diligéntes se.",
+						"en-US": "May the Lord's mercy be upon him always and forever, for the Lord watches over all those who love him.",
 						"pt-BR": "Que a misericórdia do Senhor esteja sobre ele desde sempre e para sempre, pois o Senhor protege todos os que o amam."
 					}
 				},
 				{
 					"v": {
-						"en-US": "Let us pray for our brethren in Opus Dei, living and dead.",
+						"la": "Orémus et pro frátribus nostris Óperis Dei, vivis atque defúnctis.",
+						"en-US": "Let us pray for our brothers and sisters in Opus Dei, both living and dead.",
 						"pt-BR": "Oremos pelos nossos irmãos do Opus Dei, vivos e defuntos."
 					},
 					"r": {
-						"en-US": "Make safe your servants who hope in you, my God.",
+						"la": "Salvos fac servos tuos, Deus meus, sperántes in te.",
+						"en-US": "Save your servants, my God, that hope in you.",
 						"pt-BR": "Salvai, meu Deus, os vossos servos, que em vós esperam."
 					}
 				},
 				{
 					"v": {
-						"en-US": "Send them, O Lord, the help of grace.",
+						"la": "Mitte eis, Dómine, auxílium de sancto.",
+						"en-US": "Send them, O Lord, help from heaven.",
 						"pt-BR": "Enviai-lhes, Senhor, o auxílio do céu."
 					},
 					"r": {
-						"en-US": "And from Sion watch and keep them.",
+						"la": "Et de Sion tuére eos.",
+						"en-US": "And from Sion watch over them.",
 						"pt-BR": "E, do santo monte Sião, protegei-os."
 					}
 				},
 				{
 					"v": {
+						"la": "Réquiem ætérnam dona eis, Dómine.",
 						"en-US": "Grant them eternal rest, O Lord.",
 						"pt-BR": "Dai-lhes, Senhor, o descanso eterno."
 					},
 					"r": {
+						"la": "Et lux perpétua lúceat eis.",
 						"en-US": "And let perpetual light shine upon them.",
 						"pt-BR": "E brilhe sobre eles a vossa luz."
 					}
 				},
 				{
 					"v": {
+						"la": "Requiéscant in pace.",
 						"en-US": "May they rest in peace.",
 						"pt-BR": "Descansem em paz."
 					},
 					"r": {
+						"la": "Amen.",
 						"en-US": "Amen.",
 						"pt-BR": "Amém."
 					}
@@ -234,10 +273,12 @@
 			"verses": [
 				{
 					"v": {
-						"en-US": "Lord, hear my prayer.",
+						"la": "Dómine, exáudi oratiónem meam.",
+						"en-US": "O Lord, hear my prayer.",
 						"pt-BR": "Ouvi, Senhor, minha oração."
 					},
 					"r": {
+						"la": "Et clamor meus ad te véniat.",
 						"en-US": "And let my cry come to you.",
 						"pt-BR": "E chegue até vós o meu clamor."
 					}
@@ -247,8 +288,9 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "(When a priest is leading the Preces:)",
-				"pt-BR": "(Quando é um sacerdote quem dirige as Preces:)"
+				"la": "Sacerdos, si Preces moderátur, exsúrgit et addit Dóminus vobíscum, stans étiam dum récitat oratiónem.",
+				"en-US": "If a priest leads the Preces, he stands and adds The Lord be with you, and while standing recites the prayer.",
+				"pt-BR": "Se um sacerdote dirige as Preces, levanta-se e acrescenta O Senhor esteja convosco, permanecendo de pé enquanto reza a oração."
 			}
 		},
 		{
@@ -256,10 +298,12 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Dóminus vobíscum.",
 						"en-US": "The Lord be with you.",
 						"pt-BR": "O Senhor esteja convosco."
 					},
 					"r": {
+						"la": "Et cum spíritu tuo.",
 						"en-US": "And with your spirit.",
 						"pt-BR": "Ele está no meio de nós."
 					}
@@ -269,6 +313,7 @@
 		{
 			"type": "rubric",
 			"text": {
+				"la": "Orémus.",
 				"en-US": "Let us pray.",
 				"pt-BR": "Oremos."
 			}
@@ -276,16 +321,16 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "O God, whose nature it is always to have mercy and to spare: receive our humble prayer. Burn with the fire of the Holy Spirit our hearts and our inmost selves, O Lord: that we may serve you with a chaste body, and please you with a pure heart.",
 				"la": "Deus, cui próprium est miseréri semper et párcere: súscipe deprecatiónem nostram. Ure igne Sancti Spíritus renes nostros et cor nostrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeámus.",
+				"en-US": "O God, whose nature is always to be merciful and forgiving, hear our prayer. Enkindle, O Lord, our desires and our hearts with the fire of the Holy Spirit, that we may serve you with a chaste body and please you with a pure heart.",
 				"pt-BR": "Ó Deus, de quem é próprio ter misericórdia sempre e perdoar: recebei as nossas humildes súplicas. Inflamai, Senhor, as nossas entranhas e o nosso coração com o fogo do Espírito Santo: para que vos sirvamos com um corpo casto, e vos agrademos com o coração limpo."
 			}
 		},
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "We pray you, Lord, to inspire and precede our actions, and to follow and assist them: so that all our prayer and work may always begin in you and, once begun through you, be brought to completion. Through Christ our Lord. Amen.",
-				"la": "Actiónes nostras, quaésumus Dómine, aspirándo práeveni et adiuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te coepta finiátur. Per Christum Dóminum nostrum. Amen.",
+				"la": "Actiónes nostras, quǽsumus Dómine, aspirándo prǽveni et adiuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur. Per Christum Dóminum nostrum. Amen.",
+				"en-US": "Lord, we ask that our actions begin with your inspiration and continue with your assistance, so that our every prayer and activity may always begin with you, and, having begun with you, be accomplished through you. Through Christ our Lord. Amen.",
 				"pt-BR": "Nós Vos pedimos, Senhor, que prepareis as nossas ações com a vossa inspiração, e as acompanheis com a vossa ajuda, a fim de que todos os nossos trabalhos e orações em Vós comecem sempre e por Vós acabem. Por Cristo, Senhor Nosso. Amém."
 			}
 		},
@@ -295,15 +340,16 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "(All say:)",
-				"pt-BR": "(Todos dizem:)"
+				"la": "Omnes dicunt:",
+				"en-US": "All say:",
+				"pt-BR": "Todos dizem:"
 			}
 		},
 		{
 			"type": "prayer",
 			"inline": {
-				"en-US": "May the Almighty and Merciful Lord grant us joy and peace, amendment of life, room for true repentance, the grace and consolation of the Holy Spirit, and perseverance in Opus Dei.",
-				"la": "Gáudium cum pace, emendatiónem vitæ, spátium veræ pœniténtiæ, grátiam et consolatiónem Sancti Spíritus atque in Ópere Dei perseverántiam, tríbuat nobis Omnípotens et Misércors Dóminus.",
+				"la": "Gáudium cum pace, emendatiónem vitæ, spátium veræ pœniténtiæ, grátiam et consolatiónem Sancti Spíritus atque in Ópere Dei perseverántiam, tríbuat nobis Omnípotens et Miséricors Dóminus.",
+				"en-US": "May the almighty and merciful Lord grant us joy with peace, amendment of life, time for true penance, grace and the consolation of the Holy Spirit, as well as perseverance in Opus Dei.",
 				"pt-BR": "Que o Senhor onipotente e misericordioso nos conceda a alegria e a paz, a conversão da nossa vida, um tempo de verdadeira penitência, a graça e o consolo do Espírito Santo e a perseverança no Opus Dei."
 			}
 		},
@@ -315,60 +361,72 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Sancte Míchaël.",
 						"en-US": "Saint Michael.",
 						"pt-BR": "São Miguel."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Sancte Gábriel.",
 						"en-US": "Saint Gabriel.",
 						"pt-BR": "São Gabriel."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Sancte Ráphaël.",
 						"en-US": "Saint Raphael.",
 						"pt-BR": "São Rafael."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Sancte Petre.",
 						"en-US": "Saint Peter.",
 						"pt-BR": "São Pedro."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Sancte Paule.",
 						"en-US": "Saint Paul.",
 						"pt-BR": "São Paulo."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
 				},
 				{
 					"v": {
+						"la": "Sancte Ioánnes.",
 						"en-US": "Saint John.",
 						"pt-BR": "São João."
 					},
 					"r": {
+						"la": "Ora pro nobis.",
 						"en-US": "Pray for us.",
 						"pt-BR": "Rogai por nós."
 					}
@@ -378,8 +436,33 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "(When a priest is present, he gives the blessing:) May the Lord be in your hearts and on your lips, in the name of the Father and of the Son and of the Holy Spirit. Amen.",
-				"pt-BR": "(Quando estiver presente um sacerdote, ele abençoa:) Que o Senhor esteja em vossos corações e em vossos lábios, em nome do Pai e do Filho e do Espírito Santo. Amém."
+				"la": "Cum adsit áliquis Sacérdos, dígnior ait:",
+				"en-US": "When a priest is present, the person in charge says:",
+				"pt-BR": "Quando estiver presente um sacerdote, o que dirige diz:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"la": "Iube, Domne, benedícere.",
+				"en-US": "Father, bless us.",
+				"pt-BR": "Pai, abençoai-nos."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"la": "Sacérdos benedícit:",
+				"en-US": "The priest blesses:",
+				"pt-BR": "O sacerdote abençoa:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"la": "Dóminus sit in córdibus vestris, et in lábiis vestris, in nómine Patris ✠ et Fílii et Spíritus Sancti. Amen.",
+				"en-US": "The Lord be in your hearts and on your lips, in the name of the Father, ✠ and the Son, and the Holy Spirit. Amen.",
+				"pt-BR": "O Senhor esteja em vossos corações e em vossos lábios, em nome do Pai, ✠ e do Filho e do Espírito Santo. Amém."
 			}
 		},
 		{
@@ -390,10 +473,12 @@
 			"verses": [
 				{
 					"v": {
+						"la": "Pax.",
 						"en-US": "Peace.",
 						"pt-BR": "Paz."
 					},
 					"r": {
+						"la": "In ætérnum.",
 						"en-US": "Forever.",
 						"pt-BR": "Para sempre."
 					}
