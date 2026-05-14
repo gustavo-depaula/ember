@@ -230,8 +230,8 @@ export default {
   movements: {
     cadence: {
       label: 'How long?',
-      perpetual: 'Ongoing',
-      goal: 'A specific ask',
+      perpetual: 'For always',
+      goal: 'For a goal',
       bounded: 'For a time',
       hint: {
         perpetual: 'Something you carry indefinitely — no end, only prayer.',

@@ -232,8 +232,8 @@ export default {
   movements: {
     cadence: {
       label: 'Por quanto tempo?',
-      perpetual: 'Cont\u00ednua',
-      goal: 'Um pedido espec\u00edfico',
+      perpetual: 'Para sempre',
+      goal: 'Por um pedido',
       bounded: 'Por um tempo',
       hint: {
         perpetual:

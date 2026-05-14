@@ -92,6 +92,7 @@ export function CadenceToggle({
                   fontSize="$2"
                   color={selected ? 'white' : '$color'}
                   letterSpacing={0.5}
+                  textAlign="center"
                 >
                   {t(`movements.cadence.${c}`)}
                 </Text>
