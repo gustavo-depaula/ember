@@ -81,10 +81,11 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
           >
             {nowPlaying.imageUri ? (
               <Image
-                source={nowPlaying.imageUri}
+                source={{ uri: nowPlaying.imageUri }}
                 style={{ width: artworkSize, height: artworkSize }}
                 contentFit="cover"
                 transition={200}
+                cachePolicy="memory-disk"
                 accessibilityLabel={nowPlaying.title}
               />
             ) : (

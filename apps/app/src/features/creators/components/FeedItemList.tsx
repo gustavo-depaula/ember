@@ -143,14 +143,13 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
             borderTopWidth={idx === 0 ? 0 : 1}
             borderTopColor="$borderColor"
           >
-            <XStack gap="$md" alignItems="flex-start">
-              <AnimatedPressable
-                style={{ flex: 1 }}
-                onPress={open}
-                accessibilityRole="link"
-                accessibilityLabel={item.title}
-              >
-                <YStack gap={6}>
+            <AnimatedPressable
+              onPress={open}
+              accessibilityRole="link"
+              accessibilityLabel={item.title}
+            >
+              <XStack gap="$md" alignItems="flex-start">
+                <YStack flex={1} gap={6}>
                   <Text
                     fontFamily="$heading"
                     fontSize="$1"
@@ -181,13 +180,7 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                     </Text>
                   )}
                 </YStack>
-              </AnimatedPressable>
 
-              <AnimatedPressable
-                onPress={open}
-                accessibilityRole="link"
-                accessibilityLabel={item.title}
-              >
                 <YStack
                   width={THUMB_SIZE}
                   height={THUMB_SIZE}
@@ -199,18 +192,20 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                 >
                   {item.imageUrl ? (
                     <Image
-                      source={item.imageUrl}
+                      source={{ uri: item.imageUrl }}
                       style={{ width: THUMB_SIZE, height: THUMB_SIZE }}
                       contentFit="cover"
                       transition={150}
+                      cachePolicy="memory-disk"
+                      recyclingKey={item.itemId}
                       accessibilityLabel={item.title}
                     />
                   ) : (
                     <KindIcon kind={item.channelKind} size={24} />
                   )}
                 </YStack>
-              </AnimatedPressable>
-            </XStack>
+              </XStack>
+            </AnimatedPressable>
 
             <XStack gap="$md" alignItems="center" paddingTop="$xs">
               <PlayPill item={item} onPress={open} />

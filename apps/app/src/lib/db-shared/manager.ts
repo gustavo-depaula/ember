@@ -4,6 +4,20 @@ import { Platform } from 'react-native'
 import { eventsTableSql } from '@/db/events/store'
 import initialMigration from '@/db/migrations/0001_initial.sql'
 
+/**
+ * Per-tab unique-enough id. Originally `crypto.makeTabId()` but `crypto`
+ * isn't a global on React Native's JS engine, and pulling in expo-crypto
+ * here brings its `__DEV__`-dependent module init into the vitest jsdom
+ * environment used by manager.test.ts. Timestamp + random hex is sufficient
+ * — collisions between two same-millisecond tabs are bounded by the random
+ * suffix and the only consequence of a collision is one tab's request
+ * getting another tab's response, which the request-id sequencing already
+ * disambiguates.
+ */
+function makeTabId(): string {
+  return `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 10)}`
+}
+
 import {
   CHANNEL_NAME,
   type CrossTabPayload,
@@ -43,7 +57,7 @@ type PendingEntry = {
   timer: ReturnType<typeof setTimeout>
 }
 
-const tabId = crypto.randomUUID()
+const tabId = makeTabId()
 
 let initPromise: Promise<EmberDb> | undefined
 let channel: BroadcastChannel | undefined
@@ -143,7 +157,7 @@ async function serveRequest(msg: RequestMessage) {
 
 async function sendRequest(body: RequestBody): Promise<unknown> {
   const ch = ensureChannel()
-  const id = crypto.randomUUID()
+  const id = makeTabId()
   const d = deferred<unknown>()
   const timer = setTimeout(() => {
     if (pending.delete(id)) {

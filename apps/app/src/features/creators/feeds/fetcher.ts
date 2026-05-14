@@ -198,6 +198,33 @@ async function fetchYoutubeChannelImage(
   }
 }
 
+/**
+ * HEAD `/shorts/<videoId>` to determine whether a given video is a Short.
+ * - 200 → it's a Short (the page renders the Shorts viewer)
+ * - 303 → it's a regular video (YouTube redirects to /watch?v=…)
+ *
+ * Used to recover the shorts/non-shorts split for items that appear in the
+ * channel feed but not in UUSH (UUSH only surfaces ~15 recent shorts; a
+ * creator who alternates shorts and long-form may have shorts in their
+ * channel feed that are too old for UUSH's first page).
+ *
+ * Best-effort: any network error returns false so we don't accidentally
+ * over-tag on flaky networks. The probe runs per ambiguous item, so the
+ * fetcher's existing rate-limiter caps the concurrency.
+ */
+async function probeIsYouTubeShort(videoId: string): Promise<boolean> {
+  try {
+    const res = await fetch(`https://www.youtube.com/shorts/${videoId}`, {
+      method: 'HEAD',
+      redirect: 'manual',
+    })
+    // status 0 (opaqueredirect) and 303 both mean "not a Short". 200 = Short.
+    return res.status === 200
+  } catch {
+    return false
+  }
+}
+
 async function fetchChannel(
   channel: CreatorChannel,
   creatorId: string,
@@ -226,6 +253,25 @@ async function fetchChannel(
       const shortsParsed = shortsXml ? parseYoutubeFeed(shortsXml) : []
       const shortIds = new Set(shortsParsed.map((d) => d.videoId))
       const channelParsed = channelXml ? parseYoutubeFeed(channelXml) : []
+
+      // Recovery probe: UUSH only returns the most recent ~15 shorts, so for
+      // creators who mix shorts with long-form, some recent shorts in the
+      // channel feed may not appear in UUSH yet (or at all, if older than
+      // UUSH's window). HEAD /shorts/<id> with redirect:manual distinguishes
+      // them: 200 = short, 303 = regular video. Run in parallel through the
+      // existing limiter so we don't fan out unbounded.
+      const ambiguous = channelParsed.filter((d) => !shortIds.has(d.videoId))
+      const probed = await Promise.all(
+        ambiguous.map((d) =>
+          limiter(async () => ({
+            videoId: d.videoId,
+            isShort: await probeIsYouTubeShort(d.videoId),
+          })),
+        ),
+      )
+      for (const p of probed) {
+        if (p.isShort) shortIds.add(p.videoId)
+      }
 
       // Anything the channel feed surfaced that's also in shorts already
       // covered; only emit shorts the channel feed didn't have on top.

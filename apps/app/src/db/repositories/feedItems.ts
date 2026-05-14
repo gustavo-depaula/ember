@@ -125,15 +125,17 @@ export async function upsertFeedItems(items: FeedItemDraft[]): Promise<void> {
   if (items.length === 0) return
   const db = getDb()
   const fetchedAt = Date.now()
-  await db.withTransactionAsync(async () => {
-    for (let i = 0; i < items.length; i += UPSERT_CHUNK) {
-      const chunk = items.slice(i, i + UPSERT_CHUNK)
-      const placeholder = `(${'?,'.repeat(13)}?)`
-      const sql = `INSERT INTO feed_items (${UPSERT_COLUMNS}) VALUES ${chunk.map(() => placeholder).join(',')} ${UPSERT_CONFLICT}`
-      const params = chunk.flatMap((item) => bindRow(item, fetchedAt))
-      await db.runAsync(sql, params)
-    }
-  })
+  const statements = []
+  for (let i = 0; i < items.length; i += UPSERT_CHUNK) {
+    const chunk = items.slice(i, i + UPSERT_CHUNK)
+    const placeholder = `(${'?,'.repeat(13)}?)`
+    const sql = `INSERT INTO feed_items (${UPSERT_COLUMNS}) VALUES ${chunk.map(() => placeholder).join(',')} ${UPSERT_CONFLICT}`
+    const params = chunk.flatMap((item) => bindRow(item, fetchedAt))
+    statements.push({ sql, params })
+  }
+  // EmberDb wrapper (post-#188) exposes runBatchInTx instead of the raw
+  // SQLite `withTransactionAsync`; statements run in a single transaction.
+  await db.runBatchInTx(statements)
 }
 
 export async function getFeedItem(itemId: string): Promise<FeedItemRow | undefined> {

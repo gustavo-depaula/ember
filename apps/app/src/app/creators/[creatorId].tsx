@@ -141,10 +141,11 @@ export default function CreatorProfile() {
           >
             {avatarUrl ? (
               <Image
-                source={avatarUrl}
+                source={{ uri: avatarUrl }}
                 style={{ width: ARTWORK_SIZE, height: ARTWORK_SIZE }}
                 contentFit="cover"
                 transition={250}
+                cachePolicy="memory-disk"
                 accessibilityLabel={name}
               />
             ) : (

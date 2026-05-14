@@ -1,0 +1,33 @@
+{
+  "name": {
+    "en-US": "Theology of the Body Institute",
+    "pt-BR": "Theology of the Body Institute"
+  },
+  "byline": {
+    "en-US": "Christopher West & TOB Institute · John Paul II's Theology of the Body"
+  },
+  "bio": {
+    "en-US": "The Theology of the Body Institute, founded by Christopher West, teaches St. John Paul II's vision of the human person — marriage, sexuality, vocation, and the Christian meaning of the body. Videos and lectures from West and other TOB Institute faculty, plus the long-running 'Ask Christopher West' podcast."
+  },
+  "languages": ["en-US"],
+  "charism": "lay",
+  "role": "lay-theologian",
+  "channels": [
+    {
+      "kind": "youtube",
+      "channelId": "UCleUptk8l6KEuJpVOWCYJ-w",
+      "format": "lecture",
+      "title": { "en-US": "Theology of the Body Institute (YouTube)" }
+    },
+    {
+      "kind": "podcast",
+      "feedUrl": "https://anchor.fm/s/10343b5d0/podcast/rss",
+      "format": "qa",
+      "title": { "en-US": "Ask Christopher West" }
+    }
+  ],
+  "links": {
+    "website": "https://tobinstitute.org/"
+  },
+  "tags": ["theology-of-the-body", "marriage", "vocation"]
+}

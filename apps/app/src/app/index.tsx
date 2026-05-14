@@ -174,7 +174,7 @@ export default function HomeScreen() {
     <ScreenLayout>
       <View
         position="absolute"
-        top={noNotchTopPad - 63}
+        top={noNotchTopPad - (isDark ? 78 : 73)}
         left={-16}
         style={{ pointerEvents: 'none' }}
         zIndex={1}
@@ -186,7 +186,7 @@ export default function HomeScreen() {
           accessibilityElementsHidden
         />
       </View>
-      <YStack gap="$lg" paddingTop={20 + noNotchTopPad} paddingBottom="$lg">
+      <YStack gap="$lg" paddingTop={5 + noNotchTopPad} paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader
             date={now}
