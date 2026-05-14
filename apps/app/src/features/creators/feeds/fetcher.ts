@@ -80,6 +80,8 @@ export type RefreshOptions = {
   fetcher?: Fetcher
   /** Inject the chapters-JSON fetcher for tests. */
   jsonFetcher?: (url: string) => Promise<unknown>
+  /** Inject the prebuilt-meta loader for tests. */
+  prebuiltLoader?: (creatorId: string) => Promise<PrebuiltCreatorMeta | null>
 }
 
 export type CreatorDraftsResult = {
@@ -89,23 +91,59 @@ export type CreatorDraftsResult = {
 }
 
 /**
+ * Shape of `<hearth>/creator-meta/<slug>.json`, written by
+ * `scripts/build-creator-meta.py` on every Pages deploy. When present, the
+ * client short-circuits the expensive per-device YouTube discovery
+ * (`og:image` scrape, UUSH playlist fetch, HEAD-probes of ambiguous items)
+ * and uses these values directly.
+ */
+export type PrebuiltCreatorMeta = {
+  creatorId: string
+  generatedAt: string
+  channelImage: string | null
+  shortVideoIds: string[]
+}
+
+async function defaultPrebuiltLoader(creatorId: string): Promise<PrebuiltCreatorMeta | null> {
+  try {
+    // Lazy import: @/lib/hearth transitively pulls in expo-sqlite via the
+    // cache repo, which vitest/jsdom can't parse. Tests inject their own
+    // prebuiltLoader (typically returning null) so this branch is dead in
+    // the test harness.
+    const { hearthUrl } = await import('@/lib/hearth')
+    const slug = creatorId.replace(/^creator\//, '')
+    const res = await fetch(hearthUrl(`creator-meta/${slug}.json`))
+    if (!res.ok) return null
+    return (await res.json()) as PrebuiltCreatorMeta
+  } catch {
+    return null
+  }
+}
+
+/**
  * Pure: fetch + parse all channels for a creator manifest. No DB writes, no
  * debounce — exposed so tests can drive the parsing pipeline without touching
  * SQLite (which transitively imports React Native and breaks vitest).
  */
 export async function fetchCreatorDrafts(
   manifest: CreatorManifest,
-  opts: Pick<RefreshOptions, 'fetcher' | 'jsonFetcher'> = {},
+  opts: Pick<RefreshOptions, 'fetcher' | 'jsonFetcher' | 'prebuiltLoader'> = {},
 ): Promise<CreatorDraftsResult> {
   const fetcher = opts.fetcher ?? defaultFetcher
   const jsonFetcher = opts.jsonFetcher ?? defaultJsonFetcher
+  const prebuiltLoader = opts.prebuiltLoader ?? defaultPrebuiltLoader
   const creatorId = manifest.id
+  // Try the prebuilt meta first. It's a single static JSON fetch from the
+  // corpus; when present, the YouTube branch can skip its og:image scrape,
+  // UUSH fetch, and per-video HEAD-probes entirely.
+  const prebuilt = await prebuiltLoader(creatorId)
   const items: FeedItemDraft[] = []
   const channelImages: string[] = []
+  if (prebuilt?.channelImage) channelImages.push(prebuilt.channelImage)
   await Promise.all(
     manifest.channels.map((channel) =>
       limiter(async () => {
-        const result = await fetchChannel(channel, creatorId, fetcher, jsonFetcher)
+        const result = await fetchChannel(channel, creatorId, fetcher, jsonFetcher, prebuilt)
         items.push(...result.drafts)
         if (result.channelImage) channelImages.push(result.channelImage)
       }),
@@ -230,20 +268,39 @@ async function fetchChannel(
   creatorId: string,
   fetcher: Fetcher,
   jsonFetcher: (url: string) => Promise<unknown>,
+  prebuilt: PrebuiltCreatorMeta | null,
 ): Promise<ChannelFetchResult> {
   switch (channel.kind) {
     case 'youtube': {
       if (!channel.channelId) return { drafts: [] }
-      // Coverage: the channel_id Atom feed lists all recent uploads
-      // (videos, live streams, premieres). The UULF playlist is supposed to
-      // hold long-form videos only — but for some channels (e.g. ones with
-      // mostly live-stream/premiere uploads) UULF returns 0 entries even
-      // when the channel feed has 15. So use channel_id for coverage and
-      // UUSH (community-documented per-channel shorts playlist) as the
-      // *only* signal for "this is a Short". Anything in the channel feed
-      // that's NOT in UUSH gets tagged 'youtube'.
-      const rest = channel.channelId.replace(/^UC/, '')
       const channelUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
+
+      // When the prebuilt meta is available (the hourly CI run wrote it),
+      // we trust its shortVideoIds list authoritatively — it was computed
+      // by HEAD-probing every video in the channel feed from a clean IP
+      // with no rate-limit risk. Skip the per-device UUSH fetch, og:image
+      // scrape, and probe entirely; just fetch the channel feed for the
+      // current list of items. (The channel image was already pushed by
+      // fetchCreatorDrafts from prebuilt, so we don't return it here.)
+      if (prebuilt) {
+        const channelXml = await fetcher(channelUrl).catch(() => '')
+        const channelParsed = channelXml ? parseYoutubeFeed(channelXml) : []
+        const prebuiltShorts = new Set(prebuilt.shortVideoIds)
+        const drafts = await Promise.all(
+          channelParsed.map((d) =>
+            toDraft(d, creatorId, prebuiltShorts.has(d.videoId) ? 'youtube-short' : 'youtube'),
+          ),
+        )
+        return { drafts }
+      }
+
+      // Live fallback for creators added between CI runs (no prebuilt
+      // file yet): the same discovery the build script does, on-device.
+      // UUSH only surfaces the most recent ~15 shorts, so we also HEAD-
+      // probe channel-feed items that aren't in UUSH to catch older
+      // shorts. The og:image scrape provides a channel image since the
+      // Atom feed has none.
+      const rest = channel.channelId.replace(/^UC/, '')
       const shortsUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH${rest}`
       const [channelXml, shortsXml, channelImage] = await Promise.all([
         fetcher(channelUrl).catch(() => ''),
@@ -254,12 +311,6 @@ async function fetchChannel(
       const shortIds = new Set(shortsParsed.map((d) => d.videoId))
       const channelParsed = channelXml ? parseYoutubeFeed(channelXml) : []
 
-      // Recovery probe: UUSH only returns the most recent ~15 shorts, so for
-      // creators who mix shorts with long-form, some recent shorts in the
-      // channel feed may not appear in UUSH yet (or at all, if older than
-      // UUSH's window). HEAD /shorts/<id> with redirect:manual distinguishes
-      // them: 200 = short, 303 = regular video. Run in parallel through the
-      // existing limiter so we don't fan out unbounded.
       const ambiguous = channelParsed.filter((d) => !shortIds.has(d.videoId))
       const probed = await Promise.all(
         ambiguous.map((d) =>
@@ -273,8 +324,6 @@ async function fetchChannel(
         if (p.isShort) shortIds.add(p.videoId)
       }
 
-      // Anything the channel feed surfaced that's also in shorts already
-      // covered; only emit shorts the channel feed didn't have on top.
       const channelIds = new Set(channelParsed.map((d) => d.videoId))
       const drafts: FeedItemDraft[] = []
       for (const d of channelParsed) {
