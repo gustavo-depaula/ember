@@ -276,10 +276,7 @@ export default function RootLayout() {
               <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
               <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
               <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
-              <Stack.Screen
-                name="browse"
-                options={{ title: i18n.t('browse.title'), gestureEnabled: false }}
-              />
+              <Stack.Screen name="browse" options={{ title: i18n.t('browse.title') }} />
               <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
             </Stack>
             <FloatingOfflineChip />
