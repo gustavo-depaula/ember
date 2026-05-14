@@ -1,3 +1,4 @@
+import { randomUUID } from 'expo-crypto'
 import { openDatabaseAsync } from 'expo-sqlite'
 import { Platform } from 'react-native'
 
@@ -43,7 +44,7 @@ type PendingEntry = {
   timer: ReturnType<typeof setTimeout>
 }
 
-const tabId = crypto.randomUUID()
+const tabId = randomUUID()
 
 let initPromise: Promise<EmberDb> | undefined
 let channel: BroadcastChannel | undefined
@@ -143,7 +144,7 @@ async function serveRequest(msg: RequestMessage) {
 
 async function sendRequest(body: RequestBody): Promise<unknown> {
   const ch = ensureChannel()
-  const id = crypto.randomUUID()
+  const id = randomUUID()
   const d = deferred<unknown>()
   const timer = setTimeout(() => {
     if (pending.delete(id)) {
