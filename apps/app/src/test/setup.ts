@@ -10,6 +10,45 @@ import { afterEach, beforeAll, vi } from 'vitest'
 
 import { installHearthFetch } from './hearth-local'
 
+// expo-modules-core's EventEmitter reads from `globalThis.expo.EventEmitter`,
+// which is installed by Expo's native bootstrapping — absent in jsdom. Provide
+// a no-op shim so any module importing it (audio, notifications, etc.) loads.
+class StubEventEmitter {
+  addListener(_event: string, _fn: (...args: unknown[]) => void) {
+    return { remove() {} }
+  }
+  removeAllListeners(_event: string) {}
+  emit(_event: string, ..._args: unknown[]) {}
+}
+;(globalThis as { expo?: { EventEmitter: unknown } }).expo ??= {
+  EventEmitter: StubEventEmitter,
+}
+
+// expo-crypto's native module isn't available in jsdom. Stub it out — only
+// the digest/uuid surfaces are touched by the app's content layer.
+vi.mock('expo-crypto', () => ({
+  CryptoDigestAlgorithm: { SHA256: 'SHA-256' },
+  CryptoEncoding: { HEX: 'hex', BASE64: 'base64' },
+  digestStringAsync: async (_alg: string, data: string) => {
+    // Tiny deterministic hash so any caller comparing hashes across calls
+    // sees stable values. Not cryptographically meaningful — tests only.
+    let h = 5381
+    for (let i = 0; i < data.length; i++) h = (h * 33) ^ data.charCodeAt(i)
+    return (h >>> 0).toString(16).padStart(8, '0')
+  },
+  randomUUID: () =>
+    'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+      const r = (Math.random() * 16) | 0
+      const v = c === 'x' ? r : (r & 0x3) | 0x8
+      return v.toString(16)
+    }),
+  getRandomBytesAsync: async (n: number) => new Uint8Array(n),
+  getRandomValues: <T extends Uint8Array | Uint16Array | Uint32Array>(arr: T): T => {
+    for (let i = 0; i < arr.length; i++) arr[i] = Math.floor(Math.random() * 256) as never
+    return arr
+  },
+}))
+
 beforeAll(() => {
   installHearthFetch()
 })
