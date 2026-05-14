@@ -58,6 +58,50 @@ export async function loadCatalogFromHearth(): Promise<Catalog> {
 
 const PRACTICE_FRAGMENTS_CACHE = new Map<string, FlowDefinition>()
 const proseCache = new Map<string, LocalizedContent>()
+
+function buildImageRefMap(
+  images: { rel: string; hash: string; mime: string }[] | undefined,
+): Map<string, string> | undefined {
+  if (!images?.length) return undefined
+  const map = new Map<string, string>()
+  for (const img of images) {
+    const ext = (img.mime?.split('/')[1] ?? 'jpg').replace('jpeg', 'jpg')
+    map.set(`images/${img.rel}`, `corpus://${img.hash}.${ext}`)
+  }
+  return map
+}
+
+// Practices reference images by their `images/<rel>` path in flow.json. The
+// corpus addresses them by hash, so rewrite every matching string in the
+// loaded flow up front; useResolvedImageUri then resolves `corpus://` to a
+// platform-appropriate URI lazily when each image is rendered.
+function rewriteImagePaths(value: unknown, refs: Map<string, string>): void {
+  if (Array.isArray(value)) {
+    for (let i = 0; i < value.length; i++) {
+      const v = value[i]
+      if (typeof v === 'string') {
+        const replaced = refs.get(v)
+        if (replaced) value[i] = replaced
+      } else {
+        rewriteImagePaths(v, refs)
+      }
+    }
+    return
+  }
+  if (value !== null && typeof value === 'object') {
+    const obj = value as Record<string, unknown>
+    for (const k of Object.keys(obj)) {
+      const v = obj[k]
+      if (typeof v === 'string') {
+        const replaced = refs.get(v)
+        if (replaced) obj[k] = replaced
+      } else {
+        rewriteImagePaths(v, refs)
+      }
+    }
+  }
+}
+
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
 const CRITICAL_KINDS = ['prayer', 'practice'] as const
@@ -219,7 +263,9 @@ export async function loadFlow(id: string): Promise<FlowDefinition | undefined> 
   if (cached) return cached
 
   const flow = await getJson<FlowDefinition>(item.flowHash.hash)
+  const imageRefs = buildImageRefMap(item.images)
   if (!item.fragments?.length) {
+    if (imageRefs) rewriteImagePaths(flow, imageRefs)
     PRACTICE_FRAGMENTS_CACHE.set(canonical, flow)
     return flow
   }
@@ -235,6 +281,7 @@ export async function loadFlow(id: string): Promise<FlowDefinition | undefined> 
     for (const [name, sections] of Object.entries(frags)) merged[name] = sections
   }
   const final = { ...flow, fragments: merged }
+  if (imageRefs) rewriteImagePaths(final, imageRefs)
   PRACTICE_FRAGMENTS_CACHE.set(canonical, final)
   return final
 }
@@ -246,7 +293,11 @@ export async function loadPerDayFlow(id: string, day: number): Promise<FlowDefin
   const candidates = [`day-${padded}`, padded, String(day + 1), String(day)]
   for (const key of candidates) {
     const ref = item.perDay[key]
-    if (ref) return getJson<FlowDefinition>(ref.hash)
+    if (!ref) continue
+    const flow = await getJson<FlowDefinition>(ref.hash)
+    const imageRefs = buildImageRefMap(item.images)
+    if (imageRefs) rewriteImagePaths(flow, imageRefs)
+    return flow
   }
   return undefined
 }
