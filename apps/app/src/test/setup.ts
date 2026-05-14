@@ -186,10 +186,52 @@ vi.mock('react-native-gesture-handler', async () => {
     State: {},
     Directions: {},
     gestureHandlerRootHOC: <T>(c: T) => c,
-    Gesture: {
-      Pan: () => ({ onBegin: () => ({}), onUpdate: () => ({}), onEnd: () => ({}) }),
-      Tap: () => ({ onBegin: () => ({}), onUpdate: () => ({}), onEnd: () => ({}) }),
-    },
+    Gesture: (() => {
+      // Each gesture builder method (`Pan().activeOffsetX(...).onStart(...)`)
+      // returns the same chainable object so tests can construct gestures
+      // without modeling the real semantics.
+      const chainable: Record<string, (..._args: unknown[]) => unknown> = {}
+      const chainMethods = [
+        'onBegin',
+        'onStart',
+        'onUpdate',
+        'onChange',
+        'onEnd',
+        'onFinalize',
+        'onTouchesDown',
+        'onTouchesUp',
+        'activeOffsetX',
+        'activeOffsetY',
+        'failOffsetX',
+        'failOffsetY',
+        'minDistance',
+        'maxPointers',
+        'minPointers',
+        'shouldCancelWhenOutside',
+        'enabled',
+        'enableTrackpadTwoFingerGesture',
+        'simultaneousWithExternalGesture',
+        'requireExternalGestureToFail',
+        'runOnJS',
+        'withRef',
+        'numberOfTaps',
+        'maxDuration',
+        'maxDelay',
+        'maxDistance',
+      ]
+      for (const m of chainMethods) chainable[m] = () => chainable
+      return {
+        Pan: () => chainable,
+        Tap: () => chainable,
+        LongPress: () => chainable,
+        Fling: () => chainable,
+        Pinch: () => chainable,
+        Rotation: () => chainable,
+        Race: () => chainable,
+        Simultaneous: () => chainable,
+        Exclusive: () => chainable,
+      }
+    })(),
     GestureDetector: Passthrough,
     Pressable: RN.Pressable,
     ScrollView: RN.ScrollView,

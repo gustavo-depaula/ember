@@ -18,6 +18,8 @@ export default {
     reading: 'Leitura',
     fidelity: 'Fidelidade',
     ruleOfLife: 'Seu Plano de Vida',
+    resolutionLabel: 'Resolução de hoje',
+    resolutionTap: 'Resolução de hoje: {{text}}. Abra o Plano de Vida para registrar.',
     hora: {
       matins: 'hora das Matinas',
       lauds: 'hora das Laudes',

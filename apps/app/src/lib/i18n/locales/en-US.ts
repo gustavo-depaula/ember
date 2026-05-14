@@ -18,6 +18,8 @@ export default {
     reading: 'Reading',
     fidelity: 'Fidelity',
     ruleOfLife: 'Your Rule of Life',
+    resolutionLabel: 'Today’s resolution',
+    resolutionTap: 'Today’s resolution: {{text}}. Open Plan of Life to check in.',
     hora: {
       matins: 'the hour of Matins',
       lauds: 'the hour of Lauds',
