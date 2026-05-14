@@ -72,10 +72,11 @@ export function CreatorCard({
         >
           {avatarUrl ? (
             <Image
-              source={avatarUrl}
+              source={{ uri: avatarUrl }}
               style={{ width: 64, height: 64 }}
               contentFit="cover"
               transition={200}
+              cachePolicy="memory-disk"
               accessibilityLabel={name}
             />
           ) : (

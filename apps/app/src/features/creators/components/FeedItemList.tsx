@@ -199,10 +199,11 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                 >
                   {item.imageUrl ? (
                     <Image
-                      source={item.imageUrl}
+                      source={{ uri: item.imageUrl }}
                       style={{ width: THUMB_SIZE, height: THUMB_SIZE }}
                       contentFit="cover"
                       transition={150}
+                      cachePolicy="memory-disk"
                       accessibilityLabel={item.title}
                     />
                   ) : (

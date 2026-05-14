@@ -75,10 +75,11 @@ export function CreatorGridCard({ creatorId, size = 150 }: { creatorId: string; 
         >
           {avatarUrl ? (
             <Image
-              source={avatarUrl}
+              source={{ uri: avatarUrl }}
               style={{ width: size, height: size }}
               contentFit="cover"
               transition={200}
+              cachePolicy="memory-disk"
               accessibilityLabel={name}
             />
           ) : (

@@ -78,10 +78,11 @@ export function CreatorListItem({ creatorId }: { creatorId: string }) {
         >
           {avatarUrl ? (
             <Image
-              source={avatarUrl}
+              source={{ uri: avatarUrl }}
               style={{ width: AVATAR_SIZE, height: AVATAR_SIZE }}
               contentFit="cover"
               transition={200}
+              cachePolicy="memory-disk"
               accessibilityLabel={name}
             />
           ) : (
