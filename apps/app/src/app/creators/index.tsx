@@ -1,3 +1,4 @@
+import { useQueryClient } from '@tanstack/react-query'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { ScrollView, useWindowDimensions } from 'react-native'
@@ -81,6 +82,7 @@ function sortByName(rows: CreatorRow[]): CreatorRow[] {
 
 export default function CreatorsDirectory() {
   const { t } = useTranslation()
+  const qc = useQueryClient()
   const catalogVersion = useCatalogVersion()
   const [filter, setFilter] = useState<LangFilter>('all')
   const { width: screenWidth } = useWindowDimensions()
@@ -97,9 +99,15 @@ export default function CreatorsDirectory() {
 
   useEffect(() => {
     for (const { id } of allRows) {
-      void refreshCreator(id).catch(() => {})
+      // After refresh writes creator_meta + feed_items, force the per-card
+      // avatar query to refetch — without this, the avatar query caches
+      // its initial null result (the queries run before refresh completes)
+      // and the avatars don't appear until staleTime elapses.
+      void refreshCreator(id)
+        .then(() => qc.invalidateQueries({ queryKey: ['creator-avatar', id] }))
+        .catch(() => {})
     }
-  }, [allRows])
+  }, [allRows, qc])
 
   const sections = useMemo(() => {
     return SECTION_LANGS.map((lang) => ({
