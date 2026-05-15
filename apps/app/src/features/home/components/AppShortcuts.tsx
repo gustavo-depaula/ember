@@ -1,13 +1,11 @@
 import { Image } from 'expo-image'
-import { useRouter } from 'expo-router'
-import { useState } from 'react'
+import { Link } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Modal, Pressable, ScrollView, StyleSheet, useWindowDimensions } from 'react-native'
-import Animated, { FadeIn } from 'react-native-reanimated'
+import { ScrollView } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { lightTap, mediumTap } from '@/lib/haptics'
+import { lightTap } from '@/lib/haptics'
 
 const tileImages = {
   mass: require('../../../../assets/textures/nav-tiles/mass.png'),
@@ -55,100 +53,47 @@ const tileSize = 110
 
 export function AppShortcuts() {
   const { t } = useTranslation()
-  const router = useRouter()
-  const [peekImage, setPeekImage] = useState<(typeof shortcuts)[number] | undefined>(undefined)
-  const { width: screenWidth } = useWindowDimensions()
-  const peekSize = Math.min(screenWidth - 48, 340)
 
   return (
-    <>
-      <ScrollView
-        horizontal
-        showsHorizontalScrollIndicator={false}
-        style={{
-          marginHorizontal: -24,
-        }}
-        contentContainerStyle={{ gap: 12, paddingLeft: 24, paddingRight: 24 }}
-      >
-        {shortcuts.map((s) => {
-          const label = t(s.labelKey)
-          return (
-            <AnimatedPressable
-              key={s.labelKey}
-              onPress={() => {
-                lightTap()
-                router.push(s.route)
-              }}
-              onLongPress={() => {
-                mediumTap()
-                setPeekImage(s)
-              }}
-              delayLongPress={300}
-              accessibilityRole="link"
-              accessibilityLabel={label}
-              testID={`shortcut-${s.labelKey}`}
-            >
-              <YStack alignItems="center" gap="$xs" width={tileSize}>
-                <Image
-                  source={s.image}
-                  style={{ width: tileSize, height: tileSize, borderRadius: 6 }}
-                  contentFit="cover"
-                />
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$2"
-                  color="$color"
-                  numberOfLines={1}
-                  textAlign="center"
-                >
-                  {label}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          )
-        })}
-      </ScrollView>
-
-      <Modal
-        visible={!!peekImage}
-        transparent
-        animationType="fade"
-        onRequestClose={() => setPeekImage(undefined)}
-        statusBarTranslucent
-      >
-        <Pressable
-          style={styles.backdrop}
-          onPress={() => setPeekImage(undefined)}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.closeModal')}
-        >
-          <Animated.View entering={FadeIn.duration(200)}>
-            <YStack alignItems="center" gap="$sm">
-              <Image
-                source={peekImage?.image}
-                style={{
-                  width: peekSize,
-                  height: peekSize,
-                  borderRadius: 10,
-                }}
-                contentFit="cover"
-              />
-              <Text fontFamily="$heading" fontSize="$4" color="rgba(245,240,224,0.9)">
-                {peekImage ? t(peekImage.labelKey) : ''}
-              </Text>
-            </YStack>
-          </Animated.View>
-        </Pressable>
-      </Modal>
-    </>
+    <ScrollView
+      horizontal
+      showsHorizontalScrollIndicator={false}
+      style={{
+        marginHorizontal: -24,
+      }}
+      contentContainerStyle={{ gap: 12, paddingLeft: 24, paddingRight: 24 }}
+    >
+      {shortcuts.map((s) => {
+        const label = t(s.labelKey)
+        return (
+          <Link key={s.labelKey} href={s.route} push asChild onPress={() => lightTap()}>
+            <Link.AppleZoom>
+              <AnimatedPressable
+                accessibilityRole="link"
+                accessibilityLabel={label}
+                testID={`shortcut-${s.labelKey}`}
+              >
+                <YStack alignItems="center" gap="$xs" width={tileSize}>
+                  <Image
+                    source={s.image}
+                    style={{ width: tileSize, height: tileSize, borderRadius: 6 }}
+                    contentFit="cover"
+                  />
+                  <Text
+                    fontFamily="$heading"
+                    fontSize="$2"
+                    color="$color"
+                    numberOfLines={1}
+                    textAlign="center"
+                  >
+                    {label}
+                  </Text>
+                </YStack>
+              </AnimatedPressable>
+            </Link.AppleZoom>
+          </Link>
+        )
+      })}
+    </ScrollView>
   )
 }
-
-const styles = StyleSheet.create({
-  backdrop: {
-    flex: 1,
-    backgroundColor: 'rgba(0,0,0,0.9)',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-})
