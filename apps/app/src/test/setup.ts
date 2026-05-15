@@ -261,6 +261,24 @@ vi.mock('@expo-google-fonts/pinyon-script', () => new Proxy({}, { get: (_t, k) =
 vi.mock('@expo-google-fonts/source-serif-4', () => new Proxy({}, { get: (_t, k) => k }))
 
 // --- Other expo native modules ---
+
+// `expo-crypto` pulls `expo-modules-core`'s `ExpoGlobal.EventEmitter` at import
+// time, which is undefined under jsdom (no Expo native host). Stub the only
+// surface our code uses (digestStringAsync) using Node's built-in `crypto`.
+vi.mock('expo-crypto', async () => {
+  const { createHash } = await import('node:crypto')
+  return {
+    CryptoDigestAlgorithm: { SHA1: 'SHA-1', SHA256: 'SHA-256', SHA512: 'SHA-512' },
+    CryptoEncoding: { HEX: 'hex', BASE64: 'base64' },
+    async digestStringAsync(algo: string, value: string, opts?: { encoding?: string }) {
+      const algoName = algo.toLowerCase().replace('-', '')
+      return createHash(algoName)
+        .update(value)
+        .digest((opts?.encoding ?? 'hex') as 'hex' | 'base64')
+    },
+  }
+})
+
 vi.mock('expo-haptics', () => ({
   impactAsync: async () => {},
   notificationAsync: async () => {},

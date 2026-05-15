@@ -1,183 +1,686 @@
 {
-  "id": "collection/spiritual-classics",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Spiritual Classics",
-    "pt-BR": "Clássicos Espirituais"
-  },
-  "description": {
-    "en-US": "The great books that every generation of Catholics returns to — Augustine, à Kempis, Aquinas, de Sales, and the Catechisms that taught the Church to teach.",
-    "pt-BR": "Os grandes livros aos quais cada geração de católicos retorna — Agostinho, Tomás de Kempis, Aquino, de Sales, e os Catecismos que ensinaram a Igreja a ensinar."
-  },
-  "icon": "reading",
-  "languages": ["en-US", "it"],
-  "tags": ["classics", "patristics", "scholastic", "catechesis"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "Some books wear out the edition and never the soul. These are the works the Church has carried with her for fifteen centuries — read in noviciates, in seminaries, on retreats, and on long winter evenings by lay readers who simply wanted to know God better. Read slowly. Read repeatedly. They are not finished after one passing.",
-      "pt-BR": "Alguns livros gastam a edição mas nunca a alma. Estas são as obras que a Igreja carrega consigo há quinze séculos — lidas em noviciados, em seminários, em retiros, e em longas noites de inverno por leitores leigos que simplesmente queriam conhecer a Deus melhor. Leia devagar. Leia repetidamente. Não se termina com elas numa única passagem."
-    }
-  },
-  "sections": [
-    {
-      "id": "late-antiquity",
-      "title": { "en-US": "Late Antiquity", "pt-BR": "Antiguidade Tardia" },
-      "description": {
-        "body": {
-          "en-US": "St. Augustine of Hippo — *The Confessions*, the Western soul's first autobiography of grace.",
-          "pt-BR": "Santo Agostinho de Hipona — *As Confissões*, a primeira autobiografia da graça da alma ocidental."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "book/confessions" }
-      ]
-    },
-    {
-      "id": "medieval",
-      "title": { "en-US": "Medieval", "pt-BR": "Medieval" },
-      "description": {
-        "body": {
-          "en-US": "Thomas à Kempis — *The Imitation of Christ*. After the Bible, the most-read book in Christendom.",
-          "pt-BR": "Tomás de Kempis — *Imitação de Cristo*. Depois da Bíblia, o livro mais lido da cristandade."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "book/imitation-of-christ" }
-      ]
-    },
-    {
-      "id": "scholastic",
-      "title": { "en-US": "Scholastic", "pt-BR": "Escolástica" },
-      "description": {
-        "body": {
-          "en-US": "St. Thomas Aquinas — the *Summa Contra Gentiles*, the *Catechetical Instructions*, and the great Eucharistic prayers attributed to him.",
-          "pt-BR": "São Tomás de Aquino — a *Suma Contra os Gentios*, as *Instruções Catequéticas*, e as grandes orações eucarísticas atribuídas a ele."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "book/summa-contra-gentiles" },
-        { "kind": "item", "ref": "book/catechetical-instructions" },
-        {
-          "kind": "item",
-          "ref": "practice/prayers-st-thomas-aquinas",
-          "seeAlso": ["collection/eucharistic"]
-        }
-      ]
-    },
-    {
-      "id": "counter-reformation",
-      "title": { "en-US": "Counter-Reformation", "pt-BR": "Contra-Reforma" },
-      "description": {
-        "body": {
-          "en-US": "St. Francis de Sales — *Introduction to the Devout Life*, written for laypeople in the world. The first masterwork of \"devotion in any state of life.\"",
-          "pt-BR": "São Francisco de Sales — *Filotéia, ou Introdução à Vida Devota*, escrita para leigos no mundo. A primeira obra-prima da \"devoção em qualquer estado de vida.\""
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "book/introduction-to-the-devout-life" }
-      ]
-    },
-    {
-      "id": "catechesis",
-      "title": { "en-US": "Catechesis", "pt-BR": "Catequese" },
-      "description": {
-        "body": {
-          "en-US": "The Church's own teaching, in the forms she has used to teach it.",
-          "pt-BR": "O próprio ensino da Igreja, nas formas pelas quais ela o tem ensinado."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "book/catechetical-formation" },
-        { "kind": "item", "ref": "book/catechism-of-trent" },
-        { "kind": "item", "ref": "book/catechism-pius-x-1912" }
-      ]
-    },
-    {
-      "id": "to-source-patristic",
-      "title": { "en-US": "Coming Soon — Patristic / Late Antiquity", "pt-BR": "Em Breve — Patrística / Antiguidade Tardia" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "John Cassian — Conferences", "pt-BR": "João Cassiano — Colações" }, "notes": { "en-US": "Esp. Conf. 9–10 on prayer.", "pt-BR": "Esp. Colações 9–10 sobre a oração." }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "John Cassian — Institutes", "pt-BR": "João Cassiano — Instituições" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Athanasius — Life of St. Anthony", "pt-BR": "Atanásio — Vida de Santo Antão" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Evagrius Ponticus — Praktikos / Chapters on Prayer", "pt-BR": "Evágrio Pôntico — Praktikos / Capítulos sobre a Oração" }, "notes": { "en-US": "With discernment of his more controverted points.", "pt-BR": "Com discernimento de seus pontos mais controvertidos." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Gregory of Nyssa — Life of Moses", "pt-BR": "Gregório de Nissa — Vida de Moisés" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Maximus the Confessor — Centuries on Charity", "pt-BR": "Máximo, o Confessor — Centúrias sobre a Caridade" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Pseudo-Macarius — Spiritual Homilies", "pt-BR": "Pseudo-Macário — Homilias Espirituais" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Anselm of Canterbury — Proslogion + Prayers and Meditations", "pt-BR": "Anselmo de Cantuária — Proslógio + Orações e Meditações" }, "proposedKind": "book" }
-      ]
-    },
-    {
-      "id": "to-source-medieval",
-      "title": { "en-US": "Coming Soon — Medieval", "pt-BR": "Em Breve — Medieval" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Bernard of Clairvaux — On Loving God", "pt-BR": "Bernardo de Claraval — Sobre o Amor a Deus" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Bernard of Clairvaux — On the Steps of Humility and Pride", "pt-BR": "Bernardo de Claraval — Sobre os Graus da Humildade" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Bernard of Clairvaux — Sermons on the Song of Songs", "pt-BR": "Bernardo de Claraval — Sermões sobre o Cântico" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Bonaventure — The Tree of Life", "pt-BR": "Boaventura — Árvore da Vida" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Bonaventure — The Soul's Journey into God (Itinerarium)", "pt-BR": "Boaventura — Itinerário da Mente em Deus" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Bonaventure — The Soliloquy", "pt-BR": "Boaventura — Solilóquio" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Hugh of St. Victor — On the Sacraments of the Christian Faith", "pt-BR": "Hugo de São Vítor — Dos Sacramentos da Fé Cristã" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Catherine of Siena — The Dialogue", "pt-BR": "Catarina de Sena — Diálogo" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Catherine of Genoa — Treatise on Purgatory + Spiritual Dialogue", "pt-BR": "Catarina de Gênova — Tratado do Purgatório + Diálogo Espiritual" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Tauler — Selected sermons", "pt-BR": "Tauler — Sermões selecionados" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Ruusbroec — The Spiritual Espousals", "pt-BR": "Ruusbroec — As Núpcias Espirituais" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "The Cloud of Unknowing", "pt-BR": "A Nuvem do Não-Saber" }, "notes": { "en-US": "Anonymous English mystic.", "pt-BR": "Místico inglês anônimo." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Walter Hilton — The Scale of Perfection", "pt-BR": "Walter Hilton — A Escada da Perfeição" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Julian of Norwich — Revelations of Divine Love", "pt-BR": "Juliana de Norwich — Revelações do Divino Amor" }, "proposedKind": "book", "priority": "high" }
-      ]
-    },
-    {
-      "id": "to-source-counter-reformation",
-      "title": { "en-US": "Coming Soon — Counter-Reformation & Early Modern", "pt-BR": "Em Breve — Contra-Reforma e Modernidade Inicial" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Lorenzo Scupoli — The Spiritual Combat", "pt-BR": "Lorenzo Scupoli — Combate Espiritual" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Luis de Granada — The Sinner's Guide", "pt-BR": "Luís de Granada — Guia dos Pecadores" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Luis de Granada — Memorial of a Christian Life", "pt-BR": "Luís de Granada — Memorial da Vida Cristã" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Francisco de Osuna — Third Spiritual Alphabet", "pt-BR": "Francisco de Osuna — Terceiro Abecedário Espiritual" }, "notes": { "en-US": "The book that set Teresa of Ávila on her course.", "pt-BR": "O livro que pôs Teresa de Ávila a caminho." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Brother Lawrence — The Practice of the Presence of God", "pt-BR": "Irmão Lourenço — A Prática da Presença de Deus" }, "notes": { "en-US": "Cross-list with Carmelite.", "pt-BR": "Cruzar com Carmelita." }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Jean-Pierre de Caussade — Abandonment to Divine Providence", "pt-BR": "Jean-Pierre de Caussade — O Abandono à Divina Providência" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Jean-Jacques Olier — Christian Catechism for the Interior Life", "pt-BR": "Jean-Jacques Olier — Catecismo Cristão para a Vida Interior" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Pierre de Bérulle — Selected works", "pt-BR": "Pierre de Bérulle — Obras selecionadas" }, "proposedKind": "book" }
-      ]
-    },
-    {
-      "id": "to-source-modern",
-      "title": { "en-US": "Coming Soon — Nineteenth–Twentieth Century", "pt-BR": "Em Breve — Séculos XIX–XX" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "F. W. Faber — All for Jesus", "pt-BR": "F. W. Faber — Tudo por Jesus" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "F. W. Faber — The Foot of the Cross", "pt-BR": "F. W. Faber — Ao Pé da Cruz" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "F. W. Faber — The Blessed Sacrament", "pt-BR": "F. W. Faber — O Santíssimo Sacramento" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "F. W. Faber — Spiritual Conferences", "pt-BR": "F. W. Faber — Conferências Espirituais" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "John Henry Newman — Meditations and Devotions", "pt-BR": "John Henry Newman — Meditações e Devoções" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "John Henry Newman — Plain and Parochial Sermons (selected)", "pt-BR": "John Henry Newman — Sermões Paroquiais (selecionados)" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Jean-Baptiste Chautard — The Soul of the Apostolate", "pt-BR": "Jean-Baptiste Chautard — A Alma de Todo Apostolado" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Garrigou-Lagrange — Three Ages of the Interior Life", "pt-BR": "Garrigou-Lagrange — As Três Idades da Vida Interior" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Garrigou-Lagrange — Christian Perfection and Contemplation", "pt-BR": "Garrigou-Lagrange — Perfeição Cristã e Contemplação" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Adolphe Tanquerey — The Spiritual Life", "pt-BR": "Adolphe Tanquerey — A Vida Espiritual" }, "notes": { "en-US": "Treatise on Ascetical and Mystical Theology.", "pt-BR": "Tratado de Teologia Ascética e Mística." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "A.-D. Sertillanges — The Intellectual Life", "pt-BR": "A.-D. Sertillanges — A Vida Intelectual" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Romano Guardini — The Lord", "pt-BR": "Romano Guardini — O Senhor" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Romano Guardini — The Spirit of the Liturgy", "pt-BR": "Romano Guardini — O Espírito da Liturgia" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Romano Guardini — Sacred Signs", "pt-BR": "Romano Guardini — Sinais Sagrados" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Henri de Lubac — Catholicism", "pt-BR": "Henri de Lubac — Catolicismo" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Henri de Lubac — The Splendor of the Church", "pt-BR": "Henri de Lubac — Meditação sobre a Igreja" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Hans Urs von Balthasar — Prayer", "pt-BR": "Hans Urs von Balthasar — Oração" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Hans Urs von Balthasar — Heart of the World", "pt-BR": "Hans Urs von Balthasar — Coração do Mundo" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Joseph Ratzinger — Introduction to Christianity", "pt-BR": "Joseph Ratzinger — Introdução ao Cristianismo" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Joseph Ratzinger — The Spirit of the Liturgy", "pt-BR": "Joseph Ratzinger — O Espírito da Liturgia" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Edith Stein — The Science of the Cross", "pt-BR": "Edith Stein — A Ciência da Cruz" }, "notes": { "en-US": "Cross-list with Carmelite.", "pt-BR": "Cruzar com Carmelita." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Madeleine Delbrêl — We, the Ordinary People of the Streets", "pt-BR": "Madeleine Delbrêl — Nós, Gente Comum das Ruas" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Caryll Houselander — The Reed of God", "pt-BR": "Caryll Houselander — O Caniço de Deus" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Dietrich von Hildebrand — Transformation in Christ", "pt-BR": "Dietrich von Hildebrand — Transformação em Cristo" }, "proposedKind": "book" }
-      ]
-    },
-    {
-      "id": "to-source-catechesis",
-      "title": { "en-US": "Coming Soon — Catechesis", "pt-BR": "Em Breve — Catequese" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Compendium of the Catechism of the Catholic Church", "pt-BR": "Compêndio do Catecismo da Igreja Católica" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Catechism of the Catholic Church (full text)", "pt-BR": "Catecismo da Igreja Católica (texto integral)" }, "notes": { "en-US": "Large; license-permitting.", "pt-BR": "Grande; se a licença permitir." }, "proposedKind": "book" }
-      ]
-    }
-  ]
+	"id": "collection/spiritual-classics",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Spiritual Classics",
+		"pt-BR": "Clássicos Espirituais"
+	},
+	"description": {
+		"en-US": "The great books that every generation of Catholics returns to — Augustine, à Kempis, Aquinas, de Sales, and the Catechisms that taught the Church to teach.",
+		"pt-BR": "Os grandes livros aos quais cada geração de católicos retorna — Agostinho, Tomás de Kempis, Aquino, de Sales, e os Catecismos que ensinaram a Igreja a ensinar."
+	},
+	"icon": "reading",
+	"languages": [
+		"en-US",
+		"it"
+	],
+	"tags": [
+		"classics",
+		"patristics",
+		"scholastic",
+		"catechesis"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "Some books wear out the edition and never the soul. These are the works the Church has carried with her for fifteen centuries — read in noviciates, in seminaries, on retreats, and on long winter evenings by lay readers who simply wanted to know God better. Read slowly. Read repeatedly. They are not finished after one passing.",
+			"pt-BR": "Alguns livros gastam a edição mas nunca a alma. Estas são as obras que a Igreja carrega consigo há quinze séculos — lidas em noviciados, em seminários, em retiros, e em longas noites de inverno por leitores leigos que simplesmente queriam conhecer a Deus melhor. Leia devagar. Leia repetidamente. Não se termina com elas numa única passagem."
+		}
+	},
+	"sections": [
+		{
+			"id": "late-antiquity",
+			"title": {
+				"en-US": "Late Antiquity",
+				"pt-BR": "Antiguidade Tardia"
+			},
+			"description": {
+				"body": {
+					"en-US": "St. Augustine of Hippo — *The Confessions*, the Western soul's first autobiography of grace.",
+					"pt-BR": "Santo Agostinho de Hipona — *As Confissões*, a primeira autobiografia da graça da alma ocidental."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/confessions"
+				}
+			]
+		},
+		{
+			"id": "medieval",
+			"title": {
+				"en-US": "Medieval",
+				"pt-BR": "Medieval"
+			},
+			"description": {
+				"body": {
+					"en-US": "Thomas à Kempis — *The Imitation of Christ*. After the Bible, the most-read book in Christendom.",
+					"pt-BR": "Tomás de Kempis — *Imitação de Cristo*. Depois da Bíblia, o livro mais lido da cristandade."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/imitation-of-christ"
+				}
+			]
+		},
+		{
+			"id": "scholastic",
+			"title": {
+				"en-US": "Scholastic",
+				"pt-BR": "Escolástica"
+			},
+			"description": {
+				"body": {
+					"en-US": "St. Thomas Aquinas — the *Summa Contra Gentiles*, the *Catechetical Instructions*, and the great Eucharistic prayers attributed to him.",
+					"pt-BR": "São Tomás de Aquino — a *Suma Contra os Gentios*, as *Instruções Catequéticas*, e as grandes orações eucarísticas atribuídas a ele."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/summa-contra-gentiles"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechetical-instructions"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayers-st-thomas-aquinas",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				}
+			]
+		},
+		{
+			"id": "counter-reformation",
+			"title": {
+				"en-US": "Counter-Reformation",
+				"pt-BR": "Contra-Reforma"
+			},
+			"description": {
+				"body": {
+					"en-US": "St. Francis de Sales — *Introduction to the Devout Life*, written for laypeople in the world. The first masterwork of \"devotion in any state of life.\"",
+					"pt-BR": "São Francisco de Sales — *Filotéia, ou Introdução à Vida Devota*, escrita para leigos no mundo. A primeira obra-prima da \"devoção em qualquer estado de vida.\""
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/introduction-to-the-devout-life"
+				}
+			]
+		},
+		{
+			"id": "catechesis",
+			"title": {
+				"en-US": "Catechesis",
+				"pt-BR": "Catequese"
+			},
+			"description": {
+				"body": {
+					"en-US": "The Church's own teaching, in the forms she has used to teach it.",
+					"pt-BR": "O próprio ensino da Igreja, nas formas pelas quais ela o tem ensinado."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/catechetical-formation"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechism-of-trent"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechism-pius-x-1912"
+				}
+			]
+		},
+		{
+			"id": "to-source-patristic",
+			"title": {
+				"en-US": "Coming Soon — Patristic / Late Antiquity",
+				"pt-BR": "Em Breve — Patrística / Antiguidade Tardia"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "John Cassian — Conferences",
+						"pt-BR": "João Cassiano — Colações"
+					},
+					"notes": {
+						"en-US": "Esp. Conf. 9–10 on prayer.",
+						"pt-BR": "Esp. Colações 9–10 sobre a oração."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "John Cassian — Institutes",
+						"pt-BR": "João Cassiano — Instituições"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Athanasius — Life of St. Anthony",
+						"pt-BR": "Atanásio — Vida de Santo Antão"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Evagrius Ponticus — Praktikos / Chapters on Prayer",
+						"pt-BR": "Evágrio Pôntico — Praktikos / Capítulos sobre a Oração"
+					},
+					"notes": {
+						"en-US": "With discernment of his more controverted points.",
+						"pt-BR": "Com discernimento de seus pontos mais controvertidos."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Gregory of Nyssa — Life of Moses",
+						"pt-BR": "Gregório de Nissa — Vida de Moisés"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Maximus the Confessor — Centuries on Charity",
+						"pt-BR": "Máximo, o Confessor — Centúrias sobre a Caridade"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Pseudo-Macarius — Spiritual Homilies",
+						"pt-BR": "Pseudo-Macário — Homilias Espirituais"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Anselm of Canterbury — Proslogion + Prayers and Meditations",
+						"pt-BR": "Anselmo de Cantuária — Proslógio + Orações e Meditações"
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "to-source-medieval",
+			"title": {
+				"en-US": "Coming Soon — Medieval",
+				"pt-BR": "Em Breve — Medieval"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bernard of Clairvaux — On Loving God",
+						"pt-BR": "Bernardo de Claraval — Sobre o Amor a Deus"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bernard of Clairvaux — On the Steps of Humility and Pride",
+						"pt-BR": "Bernardo de Claraval — Sobre os Graus da Humildade"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bernard of Clairvaux — Sermons on the Song of Songs",
+						"pt-BR": "Bernardo de Claraval — Sermões sobre o Cântico"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bonaventure — The Tree of Life",
+						"pt-BR": "Boaventura — Árvore da Vida"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bonaventure — The Soul's Journey into God (Itinerarium)",
+						"pt-BR": "Boaventura — Itinerário da Mente em Deus"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Bonaventure — The Soliloquy",
+						"pt-BR": "Boaventura — Solilóquio"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Hugh of St. Victor — On the Sacraments of the Christian Faith",
+						"pt-BR": "Hugo de São Vítor — Dos Sacramentos da Fé Cristã"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Catherine of Siena — The Dialogue",
+						"pt-BR": "Catarina de Sena — Diálogo"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Catherine of Genoa — Treatise on Purgatory + Spiritual Dialogue",
+						"pt-BR": "Catarina de Gênova — Tratado do Purgatório + Diálogo Espiritual"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Tauler — Selected sermons",
+						"pt-BR": "Tauler — Sermões selecionados"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Ruusbroec — The Spiritual Espousals",
+						"pt-BR": "Ruusbroec — As Núpcias Espirituais"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Cloud of Unknowing",
+						"pt-BR": "A Nuvem do Não-Saber"
+					},
+					"notes": {
+						"en-US": "Anonymous English mystic.",
+						"pt-BR": "Místico inglês anônimo."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Walter Hilton — The Scale of Perfection",
+						"pt-BR": "Walter Hilton — A Escada da Perfeição"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Julian of Norwich — Revelations of Divine Love",
+						"pt-BR": "Juliana de Norwich — Revelações do Divino Amor"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "to-source-counter-reformation",
+			"title": {
+				"en-US": "Coming Soon — Counter-Reformation & Early Modern",
+				"pt-BR": "Em Breve — Contra-Reforma e Modernidade Inicial"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Lorenzo Scupoli — The Spiritual Combat",
+						"pt-BR": "Lorenzo Scupoli — Combate Espiritual"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Luis de Granada — The Sinner's Guide",
+						"pt-BR": "Luís de Granada — Guia dos Pecadores"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Luis de Granada — Memorial of a Christian Life",
+						"pt-BR": "Luís de Granada — Memorial da Vida Cristã"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Francisco de Osuna — Third Spiritual Alphabet",
+						"pt-BR": "Francisco de Osuna — Terceiro Abecedário Espiritual"
+					},
+					"notes": {
+						"en-US": "The book that set Teresa of Ávila on her course.",
+						"pt-BR": "O livro que pôs Teresa de Ávila a caminho."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Brother Lawrence — The Practice of the Presence of God",
+						"pt-BR": "Irmão Lourenço — A Prática da Presença de Deus"
+					},
+					"notes": {
+						"en-US": "Cross-list with Carmelite.",
+						"pt-BR": "Cruzar com Carmelita."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Jean-Pierre de Caussade — Abandonment to Divine Providence",
+						"pt-BR": "Jean-Pierre de Caussade — O Abandono à Divina Providência"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Jean-Jacques Olier — Christian Catechism for the Interior Life",
+						"pt-BR": "Jean-Jacques Olier — Catecismo Cristão para a Vida Interior"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Pierre de Bérulle — Selected works",
+						"pt-BR": "Pierre de Bérulle — Obras selecionadas"
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "to-source-modern",
+			"title": {
+				"en-US": "Coming Soon — Nineteenth–Twentieth Century",
+				"pt-BR": "Em Breve — Séculos XIX–XX"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "F. W. Faber — All for Jesus",
+						"pt-BR": "F. W. Faber — Tudo por Jesus"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "F. W. Faber — The Foot of the Cross",
+						"pt-BR": "F. W. Faber — Ao Pé da Cruz"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "F. W. Faber — The Blessed Sacrament",
+						"pt-BR": "F. W. Faber — O Santíssimo Sacramento"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "F. W. Faber — Spiritual Conferences",
+						"pt-BR": "F. W. Faber — Conferências Espirituais"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "John Henry Newman — Meditations and Devotions",
+						"pt-BR": "John Henry Newman — Meditações e Devoções"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "John Henry Newman — Plain and Parochial Sermons (selected)",
+						"pt-BR": "John Henry Newman — Sermões Paroquiais (selecionados)"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Jean-Baptiste Chautard — The Soul of the Apostolate",
+						"pt-BR": "Jean-Baptiste Chautard — A Alma de Todo Apostolado"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Garrigou-Lagrange — Three Ages of the Interior Life",
+						"pt-BR": "Garrigou-Lagrange — As Três Idades da Vida Interior"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Garrigou-Lagrange — Christian Perfection and Contemplation",
+						"pt-BR": "Garrigou-Lagrange — Perfeição Cristã e Contemplação"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Adolphe Tanquerey — The Spiritual Life",
+						"pt-BR": "Adolphe Tanquerey — A Vida Espiritual"
+					},
+					"notes": {
+						"en-US": "Treatise on Ascetical and Mystical Theology.",
+						"pt-BR": "Tratado de Teologia Ascética e Mística."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "A.-D. Sertillanges — The Intellectual Life",
+						"pt-BR": "A.-D. Sertillanges — A Vida Intelectual"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Romano Guardini — The Lord",
+						"pt-BR": "Romano Guardini — O Senhor"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Romano Guardini — The Spirit of the Liturgy",
+						"pt-BR": "Romano Guardini — O Espírito da Liturgia"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Romano Guardini — Sacred Signs",
+						"pt-BR": "Romano Guardini — Sinais Sagrados"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Henri de Lubac — Catholicism",
+						"pt-BR": "Henri de Lubac — Catolicismo"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Henri de Lubac — The Splendor of the Church",
+						"pt-BR": "Henri de Lubac — Meditação sobre a Igreja"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Hans Urs von Balthasar — Prayer",
+						"pt-BR": "Hans Urs von Balthasar — Oração"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Hans Urs von Balthasar — Heart of the World",
+						"pt-BR": "Hans Urs von Balthasar — Coração do Mundo"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Joseph Ratzinger — Introduction to Christianity",
+						"pt-BR": "Joseph Ratzinger — Introdução ao Cristianismo"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Joseph Ratzinger — The Spirit of the Liturgy",
+						"pt-BR": "Joseph Ratzinger — O Espírito da Liturgia"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Edith Stein — The Science of the Cross",
+						"pt-BR": "Edith Stein — A Ciência da Cruz"
+					},
+					"notes": {
+						"en-US": "Cross-list with Carmelite.",
+						"pt-BR": "Cruzar com Carmelita."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Madeleine Delbrêl — We, the Ordinary People of the Streets",
+						"pt-BR": "Madeleine Delbrêl — Nós, Gente Comum das Ruas"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Caryll Houselander — The Reed of God",
+						"pt-BR": "Caryll Houselander — O Caniço de Deus"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Dietrich von Hildebrand — Transformation in Christ",
+						"pt-BR": "Dietrich von Hildebrand — Transformação em Cristo"
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "to-source-catechesis",
+			"title": {
+				"en-US": "Coming Soon — Catechesis",
+				"pt-BR": "Em Breve — Catequese"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Compendium of the Catechism of the Catholic Church",
+						"pt-BR": "Compêndio do Catecismo da Igreja Católica"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Catechism of the Catholic Church (full text)",
+						"pt-BR": "Catecismo da Igreja Católica (texto integral)"
+					},
+					"notes": {
+						"en-US": "Large; license-permitting.",
+						"pt-BR": "Grande; se a licença permitir."
+					},
+					"proposedKind": "book"
+				}
+			]
+		}
+	]
 }

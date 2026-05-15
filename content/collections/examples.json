@@ -1,50 +1,50 @@
 {
-  "id": "collection/examples",
-  "version": "0.1.0",
-  "name": {
-    "en-US": "Practice Examples",
-    "pt-BR": "Exemplos de Práticas"
-  },
-  "description": {
-    "en-US": "Reference practices demonstrating each DSL primitive. Copy-and-edit when authoring new practices.",
-    "pt-BR": "Práticas de referência demonstrando cada primitiva da DSL. Copie e edite ao criar novas práticas."
-  },
-  "languages": [
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "examples",
-    "documentation"
-  ],
-  "defaults": {
-    "autoSeed": false
-  },
-  "sections": [
-    {
-      "id": "all",
-      "title": {
-        "en-US": "All entries",
-        "pt-BR": "Todos os itens"
-      },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/01-trivial-prayer"
-        },
-        {
-          "kind": "item",
-          "ref": "practice/02-bilingual-prayer"
-        },
-        {
-          "kind": "item",
-          "ref": "practice/04-rosary-with-macros"
-        },
-        {
-          "kind": "item",
-          "ref": "practice/05-mass-of-with-choice-rich-text"
-        }
-      ]
-    }
-  ]
+	"id": "collection/examples",
+	"version": "0.1.0",
+	"name": {
+		"en-US": "Practice Examples",
+		"pt-BR": "Exemplos de Práticas"
+	},
+	"description": {
+		"en-US": "Reference practices demonstrating each DSL primitive. Copy-and-edit when authoring new practices.",
+		"pt-BR": "Práticas de referência demonstrando cada primitiva da DSL. Copie e edite ao criar novas práticas."
+	},
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"examples",
+		"documentation"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"sections": [
+		{
+			"id": "all",
+			"title": {
+				"en-US": "All entries",
+				"pt-BR": "Todos os itens"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/01-trivial-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/02-bilingual-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/04-rosary-with-macros"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/05-mass-of-with-choice-rich-text"
+				}
+			]
+		}
+	]
 }

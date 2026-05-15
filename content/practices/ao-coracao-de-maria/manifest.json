@@ -1,0 +1,16 @@
+{
+	"id": "ao-coracao-de-maria",
+	"name": {
+		"pt-BR": "Ao Coração de Maria"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"pt-BR": "Côro:\nDoce Coração de Maria,\nSede a minha salvação!\n\nEstrofes:\nQuando corporal doença\nNos causar grave aflição,\n\nQuando nossos inimigos\nNos moverem tentação,\n\nQuando a dúvida maligna\nNos turbar o coração,\n\nQuando o mêdo nos tolher\nFazer boa confissão,\n\nQuando na medonha morte\nVos pedimos proteção,\n\nAo chegarmos ao juízo\nTemendo a condenação."
+				}
+			}
+		]
+	}
+}

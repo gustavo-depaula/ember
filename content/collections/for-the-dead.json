@@ -1,159 +1,273 @@
 {
-  "id": "collection/for-the-dead",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "For the Faithful Departed",
-    "pt-BR": "Pelos Fiéis Defuntos"
-  },
-  "description": {
-    "en-US": "From the depths the Church cries out for those who have gone before us — daily intercession, the Office of the Dead, and the November duty of remembrance.",
-    "pt-BR": "Das profundezas a Igreja clama por aqueles que nos precederam — intercessão diária, o Ofício dos Defuntos, e o dever de novembro de lembrar."
-  },
-  "icon": "candle",
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["dead", "purgatory", "intercession", "all-souls"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "*Requiem aeternam dona eis, Domine.* Praying for the dead is the duty of love. The Church has remembered them since the catacombs, and Scripture itself shows Judas Maccabeus offering sacrifice for the fallen so that they might be loosed from their sins. We can do nothing better for those we have loved than to keep their names in our prayer — and to ask the saints to keep ours when our turn comes. Much of this collection is still being assembled.",
-      "pt-BR": "*Requiem aeternam dona eis, Domine.* Rezar pelos mortos é o dever do amor. A Igreja os recordou desde as catacumbas, e a própria Escritura mostra Judas Macabeu oferecendo sacrifício pelos caídos para que fossem libertados de seus pecados. Nada de melhor podemos fazer por aqueles que amamos do que conservar seus nomes na oração — e pedir aos santos que conservem os nossos quando chegar a nossa vez. Boa parte desta coleção ainda está em formação."
-    }
-  },
-  "sections": [
-    {
-      "id": "daily-intercession",
-      "title": { "en-US": "Daily Intercession", "pt-BR": "Intercessão Diária" },
-      "description": {
-        "body": {
-          "en-US": "Two short prayers to keep the faithful departed close at every Mass and every meal.",
-          "pt-BR": "Duas breves orações para conservar os fiéis defuntos próximos em toda Missa e toda refeição."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/eternal-rest" },
-        { "kind": "item", "ref": "prayer/de-profundis" }
-      ]
-    },
-    {
-      "id": "in-portuguese",
-      "title": { "en-US": "In Portuguese", "pt-BR": "Em Português" },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/pelos-moribundos" }
-      ]
-    },
-    {
-      "id": "office-of-the-dead",
-      "title": { "en-US": "Office of the Dead", "pt-BR": "Ofício dos Defuntos" },
-      "description": {
-        "body": {
-          "en-US": "The Church's solemn evening prayer for the dead — Vespers, Matins, and Lauds in the BCP/ODOD form. Especially fitting in November and at the death of someone you love.",
-          "pt-BR": "A oração vespertina solene da Igreja pelos defuntos — Vésperas, Matinas e Laudes na forma BCP/ODOD. Especialmente apropriado em novembro e por ocasião da morte de alguém amado."
-        }
-      },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/odod",
-          "seeAlso": ["collection/anglican-patrimony"]
-        },
-        { "kind": "item", "ref": "prayer/odod-de-profundis" },
-        { "kind": "item", "ref": "prayer/odod-psalm-130" },
-        { "kind": "item", "ref": "prayer/odod-psalm-138" },
-        { "kind": "item", "ref": "prayer/odod-collect" }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
-      "blocks": [
-        {
-          "kind": "todo",
-          "title": { "en-US": "Novena for the Faithful Departed (Nov 1–9)", "pt-BR": "Novena pelos Fiéis Defuntos (1–9 nov)" },
-          "proposedKind": "practice",
-          "priority": "high"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "All Souls indulgenced cemetery visits (Nov 1–8)", "pt-BR": "Orações indulgenciadas para visita ao cemitério (1–8 nov)" },
-          "notes": { "en-US": "Full prayers and rubrics for the eight-day plenary indulgence.", "pt-BR": "Texto e rubricas para a indulgência plenária dos oito dias." },
-          "proposedKind": "practice",
-          "priority": "high"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "In Paradisum / Subvenite Sancti Dei", "pt-BR": "In Paradisum / Subvenite Sancti Dei" },
-          "notes": { "en-US": "Funeral antiphons in Latin and English.", "pt-BR": "Antífonas funerárias em latim e português." },
-          "proposedKind": "prayer",
-          "priority": "high"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Pie Jesu and Dies Irae", "pt-BR": "Pie Jesu e Dies Irae" },
-          "notes": { "en-US": "Requiem Mass sequence.", "pt-BR": "Sequência da Missa de Réquiem." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Wake prayers, including the Rosary at the wake", "pt-BR": "Orações da vigília, incluindo o Rosário no velório" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Order of Christian Funerals — vigil, closing of the coffin, graveside", "pt-BR": "Rito das Exéquias — vigília, fechamento do caixão, sepultura" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Heroic Act of Charity", "pt-BR": "Ato Heroico de Caridade" },
-          "notes": { "en-US": "Offering of all merits and satisfactions to the souls in Purgatory (St. Gertrude / Bl. Mary Magdalen of the Most Blessed Trinity).", "pt-BR": "Oferecimento de todos os méritos e satisfações às almas do Purgatório (Santa Gertrudes / Bem-aventurada Maria Madalena da Santíssima Trindade)." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "St. Gertrude prayer for the Holy Souls", "pt-BR": "Oração de Santa Gertrudes pelas Almas Benditas" },
-          "notes": { "en-US": "*Eternal Father, I offer Thee the most precious blood of Thy divine Son…* — the indulgenced form Christ gave St. Gertrude.", "pt-BR": "*Eterno Pai, eu Vos ofereço o Preciosíssimo Sangue do Vosso divino Filho…* — forma indulgenciada que Cristo lhe deu." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chaplet of the Holy Souls", "pt-BR": "Coroinha das Almas Benditas" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Novena to St. Joseph, Patron of a Happy Death", "pt-BR": "Novena a São José, Patrono da Boa Morte" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Litany for the Dying / Recommendation of a Soul", "pt-BR": "Ladainha dos Moribundos / Recomendação da Alma" },
-          "notes": { "en-US": "Distinct from the Litany of the Saints.", "pt-BR": "Distinta da Ladainha dos Santos." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer at the bedside of the dying", "pt-BR": "Oração ao pé do moribundo" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Apostolic Pardon", "pt-BR": "Indulgência Apostólica" },
-          "notes": { "en-US": "A priestly prayer for laity to know and request when calling a priest.", "pt-BR": "Oração sacerdotal; o leigo deve saber e pedir ao chamar um sacerdote." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter on praying for the dead", "pt-BR": "Capítulo sobre rezar pelos defuntos" },
-          "notes": { "en-US": "2 Maccabees 12:42–46, the doctrine of Purgatory (Trent + CCC), indulgences, the Communion of Saints.", "pt-BR": "2 Macabeus 12,42–46, a doutrina do Purgatório (Trento + CIC), as indulgências, a Comunhão dos Santos." },
-          "proposedKind": "chapter",
-          "priority": "high"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter on grief and Christian hope", "pt-BR": "Capítulo sobre o luto e a esperança cristã" },
-          "proposedKind": "chapter"
-        }
-      ]
-    }
-  ]
+	"id": "collection/for-the-dead",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "For the Faithful Departed",
+		"pt-BR": "Pelos Fiéis Defuntos"
+	},
+	"description": {
+		"en-US": "From the depths the Church cries out for those who have gone before us — daily intercession, the Office of the Dead, and the November duty of remembrance.",
+		"pt-BR": "Das profundezas a Igreja clama por aqueles que nos precederam — intercessão diária, o Ofício dos Defuntos, e o dever de novembro de lembrar."
+	},
+	"icon": "candle",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"dead",
+		"purgatory",
+		"intercession",
+		"all-souls"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "*Requiem aeternam dona eis, Domine.* Praying for the dead is the duty of love. The Church has remembered them since the catacombs, and Scripture itself shows Judas Maccabeus offering sacrifice for the fallen so that they might be loosed from their sins. We can do nothing better for those we have loved than to keep their names in our prayer — and to ask the saints to keep ours when our turn comes. Much of this collection is still being assembled.",
+			"pt-BR": "*Requiem aeternam dona eis, Domine.* Rezar pelos mortos é o dever do amor. A Igreja os recordou desde as catacumbas, e a própria Escritura mostra Judas Macabeu oferecendo sacrifício pelos caídos para que fossem libertados de seus pecados. Nada de melhor podemos fazer por aqueles que amamos do que conservar seus nomes na oração — e pedir aos santos que conservem os nossos quando chegar a nossa vez. Boa parte desta coleção ainda está em formação."
+		}
+	},
+	"sections": [
+		{
+			"id": "daily-intercession",
+			"title": {
+				"en-US": "Daily Intercession",
+				"pt-BR": "Intercessão Diária"
+			},
+			"description": {
+				"body": {
+					"en-US": "Two short prayers to keep the faithful departed close at every Mass and every meal.",
+					"pt-BR": "Duas breves orações para conservar os fiéis defuntos próximos em toda Missa e toda refeição."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/eternal-rest"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/de-profundis"
+				}
+			]
+		},
+		{
+			"id": "in-portuguese",
+			"title": {
+				"en-US": "In Portuguese",
+				"pt-BR": "Em Português"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/pelos-moribundos"
+				}
+			]
+		},
+		{
+			"id": "office-of-the-dead",
+			"title": {
+				"en-US": "Office of the Dead",
+				"pt-BR": "Ofício dos Defuntos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The Church's solemn evening prayer for the dead — Vespers, Matins, and Lauds in the BCP/ODOD form. Especially fitting in November and at the death of someone you love.",
+					"pt-BR": "A oração vespertina solene da Igreja pelos defuntos — Vésperas, Matinas e Laudes na forma BCP/ODOD. Especialmente apropriado em novembro e por ocasião da morte de alguém amado."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/odod",
+					"seeAlso": [
+						"collection/anglican-patrimony"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-130"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-138"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-collect"
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon",
+				"pt-BR": "Em Breve"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena for the Faithful Departed (Nov 1–9)",
+						"pt-BR": "Novena pelos Fiéis Defuntos (1–9 nov)"
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "All Souls indulgenced cemetery visits (Nov 1–8)",
+						"pt-BR": "Orações indulgenciadas para visita ao cemitério (1–8 nov)"
+					},
+					"notes": {
+						"en-US": "Full prayers and rubrics for the eight-day plenary indulgence.",
+						"pt-BR": "Texto e rubricas para a indulgência plenária dos oito dias."
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "In Paradisum / Subvenite Sancti Dei",
+						"pt-BR": "In Paradisum / Subvenite Sancti Dei"
+					},
+					"notes": {
+						"en-US": "Funeral antiphons in Latin and English.",
+						"pt-BR": "Antífonas funerárias em latim e português."
+					},
+					"proposedKind": "prayer",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Pie Jesu and Dies Irae",
+						"pt-BR": "Pie Jesu e Dies Irae"
+					},
+					"notes": {
+						"en-US": "Requiem Mass sequence.",
+						"pt-BR": "Sequência da Missa de Réquiem."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Wake prayers, including the Rosary at the wake",
+						"pt-BR": "Orações da vigília, incluindo o Rosário no velório"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Order of Christian Funerals — vigil, closing of the coffin, graveside",
+						"pt-BR": "Rito das Exéquias — vigília, fechamento do caixão, sepultura"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Heroic Act of Charity",
+						"pt-BR": "Ato Heroico de Caridade"
+					},
+					"notes": {
+						"en-US": "Offering of all merits and satisfactions to the souls in Purgatory (St. Gertrude / Bl. Mary Magdalen of the Most Blessed Trinity).",
+						"pt-BR": "Oferecimento de todos os méritos e satisfações às almas do Purgatório (Santa Gertrudes / Bem-aventurada Maria Madalena da Santíssima Trindade)."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "St. Gertrude prayer for the Holy Souls",
+						"pt-BR": "Oração de Santa Gertrudes pelas Almas Benditas"
+					},
+					"notes": {
+						"en-US": "*Eternal Father, I offer Thee the most precious blood of Thy divine Son…* — the indulgenced form Christ gave St. Gertrude.",
+						"pt-BR": "*Eterno Pai, eu Vos ofereço o Preciosíssimo Sangue do Vosso divino Filho…* — forma indulgenciada que Cristo lhe deu."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chaplet of the Holy Souls",
+						"pt-BR": "Coroinha das Almas Benditas"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Joseph, Patron of a Happy Death",
+						"pt-BR": "Novena a São José, Patrono da Boa Morte"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Litany for the Dying / Recommendation of a Soul",
+						"pt-BR": "Ladainha dos Moribundos / Recomendação da Alma"
+					},
+					"notes": {
+						"en-US": "Distinct from the Litany of the Saints.",
+						"pt-BR": "Distinta da Ladainha dos Santos."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer at the bedside of the dying",
+						"pt-BR": "Oração ao pé do moribundo"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Apostolic Pardon",
+						"pt-BR": "Indulgência Apostólica"
+					},
+					"notes": {
+						"en-US": "A priestly prayer for laity to know and request when calling a priest.",
+						"pt-BR": "Oração sacerdotal; o leigo deve saber e pedir ao chamar um sacerdote."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on praying for the dead",
+						"pt-BR": "Capítulo sobre rezar pelos defuntos"
+					},
+					"notes": {
+						"en-US": "2 Maccabees 12:42–46, the doctrine of Purgatory (Trent + CCC), indulgences, the Communion of Saints.",
+						"pt-BR": "2 Macabeus 12,42–46, a doutrina do Purgatório (Trento + CIC), as indulgências, a Comunhão dos Santos."
+					},
+					"proposedKind": "chapter",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on grief and Christian hope",
+						"pt-BR": "Capítulo sobre o luto e a esperança cristã"
+					},
+					"proposedKind": "chapter"
+				}
+			]
+		}
+	]
 }

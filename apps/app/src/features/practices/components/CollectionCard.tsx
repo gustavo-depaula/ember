@@ -37,16 +37,13 @@ export function CollectionCard({
     const items = getCollectionItems(collectionId)
     let practiceCount = 0
     let bookCount = 0
-    let prayerCount = 0
     for (const it of items) {
       if (it.entry?.kind === 'practice') practiceCount++
       else if (it.entry?.kind === 'book') bookCount++
-      else if (it.entry?.kind === 'prayer') prayerCount++
     }
     const parts: string[] = []
     if (practiceCount > 0) parts.push(t('catalog.practiceCount', { count: practiceCount }))
     if (bookCount > 0) parts.push(t('catalog.bookCount', { count: bookCount }))
-    else if (prayerCount > 0) parts.push(t('catalog.prayerCount', { count: prayerCount }))
     return parts.join(' · ')
   }, [collectionId, catalogVersion, t])
 

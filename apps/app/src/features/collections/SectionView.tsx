@@ -46,13 +46,11 @@ function countLeafItems(blocks: CollectionBlock[] | undefined): number {
 export function SectionList({
   collectionId,
   sections,
-  onOpenPrayer,
   onSeeAlsoTap,
   registerItemRef,
 }: {
   collectionId: string
   sections: CollectionSection[]
-  onOpenPrayer: (prayerId: string) => void
   onSeeAlsoTap: (ref: string) => void
   registerItemRef?: (ref: string, node: View | null) => void
 }) {
@@ -64,7 +62,6 @@ export function SectionList({
           collectionId={collectionId}
           section={section}
           depth={0}
-          onOpenPrayer={onOpenPrayer}
           onSeeAlsoTap={onSeeAlsoTap}
           registerItemRef={registerItemRef}
         />
@@ -77,14 +74,12 @@ export function SectionView({
   collectionId,
   section,
   depth,
-  onOpenPrayer,
   onSeeAlsoTap,
   registerItemRef,
 }: {
   collectionId: string
   section: CollectionSection
   depth: number
-  onOpenPrayer: (prayerId: string) => void
   onSeeAlsoTap: (ref: string) => void
   registerItemRef?: (ref: string, node: View | null) => void
 }) {
@@ -134,7 +129,6 @@ export function SectionView({
                 collectionId={collectionId}
                 block={block}
                 depth={depth}
-                onOpenPrayer={onOpenPrayer}
                 onSeeAlsoTap={onSeeAlsoTap}
                 registerItemRef={registerItemRef}
               />
@@ -150,21 +144,19 @@ function BlockView({
   collectionId,
   block,
   depth,
-  onOpenPrayer,
   onSeeAlsoTap,
   registerItemRef,
 }: {
   collectionId: string
   block: CollectionBlock
   depth: number
-  onOpenPrayer: (prayerId: string) => void
   onSeeAlsoTap: (ref: string) => void
   registerItemRef?: (ref: string, node: View | null) => void
 }) {
   if (block.kind === 'item') {
     return (
       <YStack ref={(node) => registerItemRef?.(block.ref, node as unknown as View | null)}>
-        <ItemCard item={block} onOpenPrayer={onOpenPrayer} onSeeAlsoTap={onSeeAlsoTap} />
+        <ItemCard item={block} onSeeAlsoTap={onSeeAlsoTap} />
       </YStack>
     )
   }
@@ -174,7 +166,6 @@ function BlockView({
         collectionId={collectionId}
         section={block}
         depth={depth + 1}
-        onOpenPrayer={onOpenPrayer}
         onSeeAlsoTap={onSeeAlsoTap}
         registerItemRef={registerItemRef}
       />

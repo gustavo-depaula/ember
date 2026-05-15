@@ -12,12 +12,7 @@ import { Pressable } from 'react-native'
 import { Text, XStack } from 'tamagui'
 
 import { getEntry, getRememberedManifest } from '@/content/contentIndex'
-import type {
-  BookEntry,
-  ChapterManifest,
-  PracticeManifest,
-  PrayerItemManifest,
-} from '@/content/manifestTypes'
+import type { BookEntry, ChapterManifest, PracticeManifest } from '@/content/manifestTypes'
 import { localizeContent } from '@/lib/i18n'
 
 function bareId(corpusId: string): string {
@@ -29,11 +24,6 @@ function resolveLabel(ref: string): string {
   const entry = getEntry(ref)
   if (!entry) return ref
   const id = bareId(ref)
-  if (entry.kind === 'prayer') {
-    const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
-    const title = body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }
-    return localizeContent(title)
-  }
   if (entry.kind === 'practice') {
     const body = getRememberedManifest<PracticeManifest>(entry.hash)
     const name = body?.name ?? entry.name ?? { 'en-US': id }

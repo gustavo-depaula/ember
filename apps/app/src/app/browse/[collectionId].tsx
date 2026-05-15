@@ -1,6 +1,6 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft, ChevronsDownUp, ChevronsUpDown } from 'lucide-react-native'
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, type View } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -15,7 +15,6 @@ import type {
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CollectionProse, collapseKey, SectionList, useCollapseStore } from '@/features/collections'
 import { PinToggle } from '@/features/pinning/PinToggle'
-import { PrayerModal } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
 
 function collectSectionKeys(
@@ -82,7 +81,6 @@ export default function CollectionDetailScreen() {
   const router = useRouter()
   const theme = useTheme()
   const catalogVersion = useCatalogVersion()
-  const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
 
   const collectionId = `collection/${bareId}`
   const collectionEntry = getEntry(collectionId)
@@ -145,8 +143,7 @@ export default function CollectionDetailScreen() {
       if (slash < 0) return
       const kind = ref.slice(0, slash)
       const id = ref.slice(slash + 1)
-      if (kind === 'prayer') setSelectedPrayerId(id)
-      else if (kind === 'practice')
+      if (kind === 'practice')
         router.push({ pathname: '/practices/[manifestId]', params: { manifestId: id } })
       else if (kind === 'chapter')
         router.push({ pathname: '/browse/chapters/[chapterId]', params: { chapterId: id } })
@@ -233,15 +230,12 @@ export default function CollectionDetailScreen() {
             <SectionList
               collectionId={collectionId}
               sections={sections}
-              onOpenPrayer={setSelectedPrayerId}
               onSeeAlsoTap={handleSeeAlsoTap}
               registerItemRef={registerItemRef}
             />
           )}
         </YStack>
       </ScreenLayout>
-
-      <PrayerModal prayerId={selectedPrayerId} onClose={() => setSelectedPrayerId(undefined)} />
     </YStack>
   )
 }

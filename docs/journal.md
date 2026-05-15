@@ -6,6 +6,18 @@ Accumulated learnings, discoveries, and decisions from Ember development. Things
 
 ---
 
+- **Merged `prayer` and `practice` into a single `practice` kind (2026-05-15).** Two reasons: scheduling a Pater Noster at 3pm was impossible (only practices were schedulable), and the data shape was already 95% the same — a prayer's `body: FlowSection[]` is functionally just a flow's `sections`. Migration moved ~99 `content/prayers/*.json` into `content/practices/<id>/manifest.json` with inline `flow: { sections: <old body> }` — most short prayers now skip `flow.json` entirely.
+
+  **The resolver alias is the key trick.** All 1,099 existing `{ type: 'prayer', ref: 'our-father' }` refs in practice flows keep working unchanged because `fetchPrayerSync(id)` now passes `'practice'` as the hint to `canonicalize()`, which finds `practice/our-father` and returns its `flow.sections` as the prayer body. The `prayer` section type in the flow DSL is preserved (it's a rendering hint — collapsible block with title); only the catalog kind disappeared. `resolveCanticle` works the same way; the 3 canticles (Magnificat / Benedictus / Nunc Dimittis) keep their `subtitle` / `source` as optional `PracticeManifest` fields.
+
+  **Five name collisions** existed where the same id had both a `prayer/` and a `practice/` entry (act-of-reparation, anima-christi, memorare, regina-caeli, suscipe). The practice was a ritual wrapper (sign-of-cross → prayer text → sign-of-cross) and the prayer JSON held the canonical body. Resolution: substitute the prayer's body inline where the practice's flow had a self-ref or held a duplicated text block, then convert the practice's `"flow": "flow.json"` legacy string to inline `flow`. See `scripts/migrate-prayers-to-practices.py`.
+
+  **Collections** got a one-shot rewrite: 128 `ref: "prayer/<id>"` → `ref: "practice/<id>"` across 11 JSONs. Refs *inside* practice flows stayed bare and Just Work via `canonicalize`.
+
+  **UI fully erased the distinction:** `PrayerModal`, `EssentialPrayersRow`, `AllPrayersList` deleted. Browse, search, and collection ItemCard collapse to one render path — every item opens a practice page. The hardcoded "Essential Prayers" curation is now a separate concern (can be rebuilt as a featured collection if we miss it).
+
+  **Note:** `tsc -p apps/app` from the worktree reports `Cannot find module '@ember/content-engine'` / `@ember/liturgical` errors because the workspace's TypeScript path resolution requires the packages built. Pre-existing, not the merge.
+
 - **Creator metadata pre-computed by the deploy workflow, not the client (2026-05-14).** The Catholic Creators feature had two expensive YouTube discoveries running per device, per refresh: scraping the channel page's `og:image` to get a creator avatar (Atom feed has no channel image), and HEAD-probing `/shorts/<videoId>` for items in the channel feed that weren't in the UUSH playlist (UUSH only surfaces the last ~15 shorts, so older shorts in the channel feed get misclassified as long-form videos until you probe). For 20 creators × ~15 ambiguous items each that's ~300 HEAD requests per device per refresh. Also: YouTube has started rate-limiting `/feeds/videos.xml?playlist_id=…` calls aggressively per-IP — a single dev workstation can easily land in a 404 hole after a few minutes of testing.
 
   Solution: do the discovery once, in CI, on a fresh runner IP, write a static JSON file per creator into the Hearth corpus, and have the client just consume it.

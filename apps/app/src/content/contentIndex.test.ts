@@ -20,8 +20,8 @@ const baseCatalog = (): Catalog => ({
   version: 2,
   generated: '2026-05-08T00:00:00Z',
   items: {
-    'prayer/our-father': { kind: 'prayer', hash: 'p-our-father', size: 100 },
-    'prayer/hail-mary': { kind: 'prayer', hash: 'p-hail-mary', size: 100 },
+    'practice/our-father': { kind: 'practice', hash: 'p-our-father', size: 100 },
+    'practice/hail-mary': { kind: 'practice', hash: 'p-hail-mary', size: 100 },
     'practice/rosary': {
       kind: 'practice',
       hash: 'p-rosary',
@@ -59,41 +59,41 @@ beforeEach(() => {
 describe('contentIndex', () => {
   it('returns entries by id', () => {
     expect(getEntry('practice/rosary')?.kind).toBe('practice')
-    expect(getEntry('prayer/our-father')?.kind).toBe('prayer')
+    expect(getEntry('practice/our-father')?.kind).toBe('practice')
     expect(getEntry('does/not/exist')).toBeUndefined()
   })
 
   it('hasEntry reports membership in the catalog', () => {
     expect(hasEntry('practice/rosary')).toBe(true)
-    expect(hasEntry('prayer/synthetic')).toBe(false)
+    expect(hasEntry('practice/synthetic')).toBe(false)
   })
 
   it('canonicalize prepends a kind prefix when missing', () => {
     expect(canonicalize('practice/rosary')).toBe('practice/rosary')
     expect(canonicalize('rosary', 'practice')).toBe('practice/rosary')
-    // No hint and not in any default kind
-    expect(canonicalize('our-father')).toBe('prayer/our-father')
+    expect(canonicalize('our-father')).toBe('practice/our-father')
     expect(canonicalize('totally-fake')).toBeUndefined()
   })
 
   it('canonicalize with hintKind is a HARD filter — no fallthrough to other kinds', () => {
-    // 'our-father' exists as a prayer, but the caller asked for a practice.
-    // Returning prayer/our-father here would let a wrongly-typed manifest leak
-    // through to the engine and crash on its missing fields.
-    expect(canonicalize('our-father', 'practice')).toBeUndefined()
-    expect(canonicalize('rosary', 'prayer')).toBeUndefined()
+    // 'marian' exists as a collection; caller asks for a practice. Returning
+    // collection/marian here would let a wrongly-typed manifest leak through
+    // to the engine and crash on its missing fields.
+    expect(canonicalize('marian', 'practice')).toBeUndefined()
+    expect(canonicalize('rosary', 'collection')).toBeUndefined()
   })
 
   it('getEntriesByKind only returns matching kind', () => {
-    const prayers = getEntriesByKind('prayer').map(([id]) => id)
-    expect(prayers).toContain('prayer/our-father')
-    expect(prayers).toContain('prayer/hail-mary')
-    expect(prayers).not.toContain('practice/rosary')
+    const practices = getEntriesByKind('practice').map(([id]) => id)
+    expect(practices).toContain('practice/our-father')
+    expect(practices).toContain('practice/hail-mary')
+    expect(practices).toContain('practice/rosary')
+    expect(practices).not.toContain('collection/marian')
   })
 
   it('getAllEntries returns every catalog entry', () => {
     const all = getAllEntries()
-    expect(all.has('prayer/our-father')).toBe(true)
+    expect(all.has('practice/our-father')).toBe(true)
     expect(all.has('practice/rosary')).toBe(true)
     expect(all.has('collection/marian')).toBe(true)
   })
@@ -118,14 +118,14 @@ describe('contentIndex', () => {
           title: { 'en-US': 'All' },
           blocks: [
             { kind: 'item', ref: 'practice/rosary' },
-            { kind: 'item', ref: 'prayer/hail-mary' },
+            { kind: 'item', ref: 'practice/hail-mary' },
           ],
         },
       ],
     } satisfies CollectionItemManifest)
 
     const items = getCollectionItems('collection/marian')
-    expect(items.map((i) => i.ref)).toEqual(['practice/rosary', 'prayer/hail-mary'])
+    expect(items.map((i) => i.ref)).toEqual(['practice/rosary', 'practice/hail-mary'])
     expect(items[0].entry?.kind).toBe('practice')
   })
 
@@ -138,7 +138,7 @@ describe('contentIndex', () => {
           title: { 'en-US': 'All' },
           blocks: [
             { kind: 'item', ref: 'practice/rosary' },
-            { kind: 'item', ref: 'prayer/hail-mary' },
+            { kind: 'item', ref: 'practice/hail-mary' },
           ],
         },
       ],
@@ -164,8 +164,8 @@ describe('contentIndex', () => {
       'collection/marian',
     ])
     expect(getCollectionsForItem('practice/morning-offering')).toEqual(['collection/essentials'])
-    expect(getCollectionsForItem('prayer/hail-mary')).toEqual(['collection/marian'])
-    expect(getCollectionsForItem('prayer/our-father')).toEqual([])
+    expect(getCollectionsForItem('practice/hail-mary')).toEqual(['collection/marian'])
+    expect(getCollectionsForItem('practice/our-father')).toEqual([])
   })
 
   it('reverse index is invalidated when collections change', () => {

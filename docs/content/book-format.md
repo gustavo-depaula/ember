@@ -10,7 +10,7 @@ The content system for books in Ember — spiritual classics, hybrid devotional 
 
 A **book** is long-form readable content — spiritual classics, Church documents, formation guides — distributed as `.md` (or `.html`) chapter files, hashed per `(chapter, language)` and served as immutable blobs through the Hearth v2 corpus.
 
-Books are one corpus kind among several (`prayer`, `practice`, `chapter`, `book`, `mass`, `of-*`, `collection`, `checkup`); each kind has its own root folder under `content/`. To group a book with related practices and prayers under a single curated heading (e.g. *Montfort Spirituality* gathering *True Devotion* + a consecration practice + an act-of-consecration prayer), use a `content/collections/<id>.json` — see `docs/features/corpus.md`.
+Books are one corpus kind among several (`practice`, `chapter`, `book`, `mass`, `of-*`, `collection`, `checkup`); each kind has its own root folder under `content/`. Prayers — including the Pater Noster, Hail Mary, and all canticles — are practices: a short prayer is just a practice whose manifest carries an inline single-section `flow`. To group a book with related practices under a single curated heading (e.g. *Montfort Spirituality* gathering *True Devotion* + a consecration practice + an act-of-consecration prayer), use a `content/collections/<id>.json` — see `docs/features/corpus.md`.
 
 ### Design goals
 
@@ -23,7 +23,7 @@ Books are one corpus kind among several (`prayer`, `practice`, `chapter`, `book`
 
 ## Directory Structure
 
-Books live at `content/books/<id>/` in the v2 source tree (flat by kind — prayers, practices, chapters, books, masses, of-library, of-data, collections each at the corpus root). The directory shape inside each book is unchanged from v1:
+Books live at `content/books/<id>/` in the v2 source tree (flat by kind — practices, chapters, books, masses, of-library, of-data, collections each at the corpus root). The directory shape inside each book is unchanged from v1:
 
 ### Pure prose (montfort spirituality — books only)
 

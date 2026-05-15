@@ -170,26 +170,6 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # Per-kind walkers
 # ---------------------------------------------------------------------------
 
-def build_prayers(b: Builder) -> None:
-    src = CONTENT / "prayers"
-    if not src.is_dir():
-        return
-    for f in sorted(src.glob("*.json")):
-        pid = f.stem
-        with f.open(encoding="utf-8") as fh:
-            payload = json.load(fh)
-        manifest = {"id": f"prayer/{pid}", **payload}
-        h, size = b.write_json_blob(manifest)
-        # Discover languages in title/body for catalog metadata
-        langs = sorted(_discover_langs(payload))
-        b.add_catalog(f"prayer/{pid}", {
-            "kind": "prayer",
-            "hash": h,
-            "size": size,
-            **({"langs": langs} if langs else {}),
-        })
-
-
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -207,9 +187,18 @@ def build_practices(b: Builder) -> None:
         with manifest_path.open(encoding="utf-8") as fh:
             manifest_data = json.load(fh)
 
+        # Flow may be inline in manifest (`flow: { sections: [...] }`) or
+        # in a sibling `flow.json` that gets hashed out. Inline is preferred
+        # for short prayers; flow.json is preferred for longer practices.
+        inline_flow = manifest_data.get("flow")
         flow_entry = None
         flow_path = d / "flow.json"
-        if flow_path.is_file():
+        if isinstance(inline_flow, dict):
+            if flow_path.is_file():
+                raise SystemExit(
+                    f"practice {pid}: has both inline `flow` in manifest and a flow.json file"
+                )
+        elif flow_path.is_file():
             with flow_path.open(encoding="utf-8") as fh:
                 flow_data = json.load(fh)
             fh_hash, fh_size = b.write_json_blob(flow_data)
@@ -266,9 +255,13 @@ def build_practices(b: Builder) -> None:
                     images.append({"rel": rel, "hash": ih, "size": isize, "mime": _mime_for(ff)})
 
         # Merge: original manifest body + resource hashes. Drop legacy path-based
-        # fields (`flow`, `data`, `tracks`) since v2 uses hash-based lookups.
+        # `data`/`tracks` fields since v2 uses hash-based lookups. `flow` is
+        # kept as inline `{ sections: [...] }` but stripped if it's a legacy
+        # string pointer (e.g. `"flow": "flow.json"` from pre-merge manifests).
         item_manifest = {**manifest_data, "id": f"practice/{pid}"}
-        for legacy in ("flow", "data", "tracks"):
+        if not isinstance(item_manifest.get("flow"), dict):
+            item_manifest.pop("flow", None)
+        for legacy in ("data", "tracks"):
             item_manifest.pop(legacy, None)
         if flow_entry is not None:
             item_manifest["flowHash"] = flow_entry
@@ -681,8 +674,6 @@ def main(argv: list[str]) -> int:
     b = Builder(output)
 
     t0 = time.time()
-    print("[corpus] prayers...")
-    build_prayers(b)
     print("[corpus] practices...")
     build_practices(b)
     print("[corpus] chapters...")

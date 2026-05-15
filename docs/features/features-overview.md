@@ -14,6 +14,8 @@ Every practice has two layers:
 1. **Manifest** — metadata and teaching content (what the practice is, its history, how to pray it)
 2. **Flow** — the prayer itself as a sequence of sections (rendered by `SectionBlock`)
 
+Short prayers (a Pater Noster, a Memorare) carry their flow inline in the manifest as `flow: { sections: [...] }`. Longer practices keep `flow.json` next to the manifest and reference it by hash. Both forms are the same kind — there is no separate `prayer` kind — and both are schedulable.
+
 Practices are first-class corpus items in Hearth v2. Each is an item with id `practice/<id>` and a hash-addressed manifest blob; see `ARCHITECTURE.md` and `docs/features/corpus.md` for the corpus model.
 
 A resolution engine transforms the declarative flow + runtime context (date, reading progress, user overrides) into a flat array of renderable sections.
@@ -24,10 +26,11 @@ Source content lives at the corpus root, flat by kind:
 
 ```
 content/
-  prayers/                          # Reusable prayer assets, multilingual JSON
-    our-father.json
-    hail-mary.json
   practices/
+    our-father/                     # Short prayer — inline `flow` in manifest, no flow.json
+      manifest.json
+    hail-mary/
+      manifest.json
     morning-offering/
       manifest.json
       flow.json
@@ -53,7 +56,7 @@ content/
     montfort-spirituality.json
 ```
 
-There is no library boundary on disk — practices, prayers, books, and chapters are co-equal. A collection is a JSON manifest that references items by id; multiple collections can include the same item without duplication.
+There is no library boundary on disk — practices, books, and chapters are co-equal. A collection is a JSON manifest that references items by id; multiple collections can include the same item without duplication.
 
 ### Manifest Schema
 

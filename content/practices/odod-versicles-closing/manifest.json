@@ -1,0 +1,16 @@
+{
+	"id": "odod-versicles-closing",
+	"name": {
+		"en-US": "Versicles"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "versicle",
+				"inline": {
+					"en-US": "℣ From the gate of hell.\n℟ Deliver his soul, O Lord.\n℣ May he rest in peace.\n℟ Amen.\n℣ The Lord be with you.\n℟ And with thy spirit.\n℣ Let us pray."
+				}
+			}
+		]
+	}
+}

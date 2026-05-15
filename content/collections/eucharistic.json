@@ -1,230 +1,395 @@
 {
-  "id": "collection/eucharistic",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Eucharistic Devotion",
-    "pt-BR": "Devoção Eucarística"
-  },
-  "description": {
-    "en-US": "Around the Real Presence — the prayers before and after Communion, the hymns of adoration, the Holy Hour, and the great spiritual treasure of the visit to the Blessed Sacrament.",
-    "pt-BR": "Ao redor da Presença Real — as orações antes e depois da Comunhão, os hinos da adoração, a Hora Santa, e o grande tesouro espiritual da visita ao Santíssimo Sacramento."
-  },
-  "icon": "host",
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["eucharist", "adoration", "holy-hour", "communion"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "*Adoro te devote, latens Deitas* — \"I adore Thee devoutly, hidden God.\" The Eucharist is the Catholic life in concentrated form, and the prayers gathered here are how the saints have learned to stay near it. Anchor practices: a moment of preparation before Mass, a thanksgiving after, a daily visit to the tabernacle, and an hour of adoration each week.",
-      "pt-BR": "*Adoro te devote, latens Deitas* — \"Adoro-Te devotamente, Deus oculto.\" A Eucaristia é a vida católica em forma concentrada, e as orações aqui reunidas são o modo como os santos aprenderam a permanecer junto dela. Práticas-âncora: um momento de preparação antes da Missa, uma ação de graças depois, uma visita diária ao sacrário, e uma hora de adoração por semana."
-    }
-  },
-  "sections": [
-    {
-      "id": "before-and-after-communion",
-      "title": { "en-US": "Before & After Communion", "pt-BR": "Antes e Depois da Comunhão" },
-      "description": {
-        "body": {
-          "en-US": "What to pray when you come to the Lord, and what to pray when He has come to you.",
-          "pt-BR": "O que rezar quando se vai ao Senhor, e o que rezar quando Ele veio a ti."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/preparacao-comunhao" },
-        { "kind": "item", "ref": "practice/anima-christi" },
-        { "kind": "item", "ref": "prayer/anima-christi" },
-        { "kind": "item", "ref": "practice/suscipe" },
-        { "kind": "item", "ref": "prayer/suscipe" },
-        { "kind": "item", "ref": "practice/thanksgiving-mass" },
-        { "kind": "item", "ref": "prayer/prayer-before-crucifix" },
-        { "kind": "item", "ref": "prayer/prayer-of-st-margaret-mary" }
-      ]
-    },
-    {
-      "id": "spiritual-communion",
-      "title": { "en-US": "Spiritual Communion", "pt-BR": "Comunhão Espiritual" },
-      "description": {
-        "body": {
-          "en-US": "When sacramental Communion is not possible, the soul still goes to Him.",
-          "pt-BR": "Quando a Comunhão sacramental não é possível, a alma ainda assim vai a Ele."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/spiritual-communion" }
-      ]
-    },
-    {
-      "id": "adoration-and-the-holy-hour",
-      "title": { "en-US": "Adoration & the Holy Hour", "pt-BR": "Adoração e Hora Santa" },
-      "description": {
-        "body": {
-          "en-US": "The simple visit to the tabernacle and the formal Hour of reparation — both of them, simply, time spent with Him.",
-          "pt-BR": "A visita simples ao sacrário e a Hora formal de reparação — ambas, simplesmente, tempo passado com Ele."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/visit-blessed-sacrament" },
-        { "kind": "item", "ref": "practice/holy-hour" },
-        {
-          "kind": "item",
-          "ref": "practice/holy-hour-sacred-heart",
-          "seeAlso": ["collection/sacred-heart"]
-        },
-        {
-          "kind": "item",
-          "ref": "practice/three-oclock-prayer",
-          "seeAlso": ["collection/divine-mercy"]
-        }
-      ]
-    },
-    {
-      "id": "eucharistic-hymns",
-      "title": { "en-US": "Eucharistic Hymns", "pt-BR": "Hinos Eucarísticos" },
-      "description": {
-        "body": {
-          "en-US": "The three great Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour.",
-          "pt-BR": "Os três grandes hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/adoro-te-devote" },
-        { "kind": "item", "ref": "prayer/tantum-ergo" },
-        { "kind": "item", "ref": "prayer/o-salutaris-hostia" }
-      ]
-    },
-    {
-      "id": "litany",
-      "title": { "en-US": "Litany of the Blessed Sacrament", "pt-BR": "Ladainha do Santíssimo Sacramento" },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/litany-blessed-sacrament",
-          "seeAlso": ["collection/litanies"]
-        }
-      ]
-    },
-    {
-      "id": "in-portuguese",
-      "title": { "en-US": "In Portuguese", "pt-BR": "Em Português" },
-      "description": {
-        "body": {
-          "en-US": "Brazilian eucharistic prayers — a call to the tabernacle and a desire for God in the soul.",
-          "pt-BR": "Orações eucarísticas brasileiras — um chamado ao sacrário e a sede de Deus na alma."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/vamos-todos-sacrario" },
-        { "kind": "item", "ref": "prayer/queremos-deus" },
-        { "kind": "item", "ref": "prayer/convite-santo" }
-      ]
-    },
-    {
-      "id": "reading",
-      "title": { "en-US": "Reading", "pt-BR": "Leitura" },
-      "description": {
-        "body": {
-          "en-US": "St. Alphonsus Liguori's *Visits to the Most Blessed Sacrament* — short daily reflections meant to be prayed before the tabernacle. **TODO source:** Forty Hours Devotion guide; Benediction rubrics; Corpus Christi sequence (*Lauda Sion Salvatorem*).",
-          "pt-BR": "*Visitas ao Santíssimo Sacramento* de Santo Afonso de Ligório — breves reflexões diárias para serem rezadas diante do sacrário. **A incluir:** guia das Quarenta Horas; rubricas da Bênção; sequência de Corpus Christi (*Lauda Sion Salvatorem*)."
-        }
-      },
-      "defaultCollapsed": true,
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "book/visite-al-ss-sacramento",
-          "seeAlso": ["collection/alphonsus-liguori"]
-        }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
-      "blocks": [
-        {
-          "kind": "todo",
-          "title": { "en-US": "Lauda Sion Salvatorem", "pt-BR": "Lauda Sion Salvatorem" },
-          "notes": { "en-US": "Corpus Christi sequence (Aquinas).", "pt-BR": "Sequência de Corpus Christi (Aquino)." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Pange Lingua Gloriosi (full hymn)", "pt-BR": "Pange Lingua Gloriosi (hino completo)" },
-          "notes": { "en-US": "Holy Thursday processional. The *Tantum Ergo* is its last two verses.", "pt-BR": "Procissão da Quinta-feira Santa. O *Tantum Ergo* são as duas últimas estrofes." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Verbum Supernum Prodiens", "pt-BR": "Verbum Supernum Prodiens" },
-          "notes": { "en-US": "Corpus Christi Lauds hymn — the *O Salutaris* is its last two verses.", "pt-BR": "Hino de Laudes de Corpus Christi — o *O Salutaris* são as duas últimas estrofes." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Forty Hours Devotion (*Quarant'Ore*)", "pt-BR": "Devoção das Quarenta Horas (*Quarant'Ore*)" },
-          "notes": { "en-US": "Schedule and prayers for the parish form of solemn adoration.", "pt-BR": "Horário e orações para a forma paroquial da adoração solene." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Order of Benediction of the Most Blessed Sacrament", "pt-BR": "Rito da Bênção do Santíssimo Sacramento" },
-          "notes": { "en-US": "Rubrics, prayers, and chants.", "pt-BR": "Rubricas, orações e cantos." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "The Divine Praises", "pt-BR": "Os Louvores Divinos" },
-          "notes": { "en-US": "*Blessed be God, blessed be His Holy Name…* — prayed at Benediction.", "pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…* — rezados na Bênção." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Reparation Prayer to the Most Sacred Host", "pt-BR": "Oração de Reparação à Sagrada Hóstia" },
-          "notes": { "en-US": "St. Faustina's prayer.", "pt-BR": "Oração de Santa Faustina." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chaplet of the Most Holy Eucharist", "pt-BR": "Coroinha do Santíssimo Sacramento" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer of St. Bonaventure before Communion", "pt-BR": "Oração de São Boaventura antes da Comunhão" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer of St. Thomas Aquinas after Communion", "pt-BR": "Oração de São Tomás de Aquino após a Comunhão" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Soul of Christ — Newman's longer paraphrase", "pt-BR": "Alma de Cristo — paráfrase mais longa de Newman" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Eucharistic Miracles meditation guide", "pt-BR": "Guia meditativo dos Milagres Eucarísticos" },
-          "notes": { "en-US": "Lanciano, Bolsena, Buenos Aires, Sokółka — case studies + meditations.", "pt-BR": "Lanciano, Bolsena, Buenos Aires, Sokolka — estudos e meditações." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer to the Eucharistic Heart of Jesus", "pt-BR": "Oração ao Coração Eucarístico de Jesus" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter: What the Mass actually does", "pt-BR": "Capítulo: O que a Missa de fato faz" },
-          "notes": { "en-US": "Sacrifice + sacrament; the four ends.", "pt-BR": "Sacrifício + sacramento; os quatro fins." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Indulgenced prayers for Eucharistic visits and adoration", "pt-BR": "Orações com indulgência para visita e adoração" },
-          "proposedKind": "prayer"
-        }
-      ]
-    }
-  ]
+	"id": "collection/eucharistic",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Eucharistic Devotion",
+		"pt-BR": "Devoção Eucarística"
+	},
+	"description": {
+		"en-US": "Around the Real Presence — the prayers before and after Communion, the hymns of adoration, the Holy Hour, and the great spiritual treasure of the visit to the Blessed Sacrament.",
+		"pt-BR": "Ao redor da Presença Real — as orações antes e depois da Comunhão, os hinos da adoração, a Hora Santa, e o grande tesouro espiritual da visita ao Santíssimo Sacramento."
+	},
+	"icon": "host",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"eucharist",
+		"adoration",
+		"holy-hour",
+		"communion"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "*Adoro te devote, latens Deitas* — \"I adore Thee devoutly, hidden God.\" The Eucharist is the Catholic life in concentrated form, and the prayers gathered here are how the saints have learned to stay near it. Anchor practices: a moment of preparation before Mass, a thanksgiving after, a daily visit to the tabernacle, and an hour of adoration each week.",
+			"pt-BR": "*Adoro te devote, latens Deitas* — \"Adoro-Te devotamente, Deus oculto.\" A Eucaristia é a vida católica em forma concentrada, e as orações aqui reunidas são o modo como os santos aprenderam a permanecer junto dela. Práticas-âncora: um momento de preparação antes da Missa, uma ação de graças depois, uma visita diária ao sacrário, e uma hora de adoração por semana."
+		}
+	},
+	"sections": [
+		{
+			"id": "before-and-after-communion",
+			"title": {
+				"en-US": "Before & After Communion",
+				"pt-BR": "Antes e Depois da Comunhão"
+			},
+			"description": {
+				"body": {
+					"en-US": "What to pray when you come to the Lord, and what to pray when He has come to you.",
+					"pt-BR": "O que rezar quando se vai ao Senhor, e o que rezar quando Ele veio a ti."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/preparacao-comunhao"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/anima-christi"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/anima-christi"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/suscipe"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/suscipe"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/thanksgiving-mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-before-crucifix"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-st-margaret-mary"
+				}
+			]
+		},
+		{
+			"id": "spiritual-communion",
+			"title": {
+				"en-US": "Spiritual Communion",
+				"pt-BR": "Comunhão Espiritual"
+			},
+			"description": {
+				"body": {
+					"en-US": "When sacramental Communion is not possible, the soul still goes to Him.",
+					"pt-BR": "Quando a Comunhão sacramental não é possível, a alma ainda assim vai a Ele."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/spiritual-communion"
+				}
+			]
+		},
+		{
+			"id": "adoration-and-the-holy-hour",
+			"title": {
+				"en-US": "Adoration & the Holy Hour",
+				"pt-BR": "Adoração e Hora Santa"
+			},
+			"description": {
+				"body": {
+					"en-US": "The simple visit to the tabernacle and the formal Hour of reparation — both of them, simply, time spent with Him.",
+					"pt-BR": "A visita simples ao sacrário e a Hora formal de reparação — ambas, simplesmente, tempo passado com Ele."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/visit-blessed-sacrament"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour-sacred-heart",
+					"seeAlso": [
+						"collection/sacred-heart"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/three-oclock-prayer",
+					"seeAlso": [
+						"collection/divine-mercy"
+					]
+				}
+			]
+		},
+		{
+			"id": "eucharistic-hymns",
+			"title": {
+				"en-US": "Eucharistic Hymns",
+				"pt-BR": "Hinos Eucarísticos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The three great Aquinas hymns of Corpus Christi — the foundation of every Benediction and Holy Hour.",
+					"pt-BR": "Os três grandes hinos eucarísticos de São Tomás de Aquino para Corpus Christi — fundamento de toda Bênção e Hora Santa."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/tantum-ergo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-salutaris-hostia"
+				}
+			]
+		},
+		{
+			"id": "litany",
+			"title": {
+				"en-US": "Litany of the Blessed Sacrament",
+				"pt-BR": "Ladainha do Santíssimo Sacramento"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/litany-blessed-sacrament",
+					"seeAlso": [
+						"collection/litanies"
+					]
+				}
+			]
+		},
+		{
+			"id": "in-portuguese",
+			"title": {
+				"en-US": "In Portuguese",
+				"pt-BR": "Em Português"
+			},
+			"description": {
+				"body": {
+					"en-US": "Brazilian eucharistic prayers — a call to the tabernacle and a desire for God in the soul.",
+					"pt-BR": "Orações eucarísticas brasileiras — um chamado ao sacrário e a sede de Deus na alma."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/vamos-todos-sacrario"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/queremos-deus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/convite-santo"
+				}
+			]
+		},
+		{
+			"id": "reading",
+			"title": {
+				"en-US": "Reading",
+				"pt-BR": "Leitura"
+			},
+			"description": {
+				"body": {
+					"en-US": "St. Alphonsus Liguori's *Visits to the Most Blessed Sacrament* — short daily reflections meant to be prayed before the tabernacle. **TODO source:** Forty Hours Devotion guide; Benediction rubrics; Corpus Christi sequence (*Lauda Sion Salvatorem*).",
+					"pt-BR": "*Visitas ao Santíssimo Sacramento* de Santo Afonso de Ligório — breves reflexões diárias para serem rezadas diante do sacrário. **A incluir:** guia das Quarenta Horas; rubricas da Bênção; sequência de Corpus Christi (*Lauda Sion Salvatorem*)."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/visite-al-ss-sacramento",
+					"seeAlso": [
+						"collection/alphonsus-liguori"
+					]
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon",
+				"pt-BR": "Em Breve"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Lauda Sion Salvatorem",
+						"pt-BR": "Lauda Sion Salvatorem"
+					},
+					"notes": {
+						"en-US": "Corpus Christi sequence (Aquinas).",
+						"pt-BR": "Sequência de Corpus Christi (Aquino)."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Pange Lingua Gloriosi (full hymn)",
+						"pt-BR": "Pange Lingua Gloriosi (hino completo)"
+					},
+					"notes": {
+						"en-US": "Holy Thursday processional. The *Tantum Ergo* is its last two verses.",
+						"pt-BR": "Procissão da Quinta-feira Santa. O *Tantum Ergo* são as duas últimas estrofes."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Verbum Supernum Prodiens",
+						"pt-BR": "Verbum Supernum Prodiens"
+					},
+					"notes": {
+						"en-US": "Corpus Christi Lauds hymn — the *O Salutaris* is its last two verses.",
+						"pt-BR": "Hino de Laudes de Corpus Christi — o *O Salutaris* são as duas últimas estrofes."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Forty Hours Devotion (*Quarant'Ore*)",
+						"pt-BR": "Devoção das Quarenta Horas (*Quarant'Ore*)"
+					},
+					"notes": {
+						"en-US": "Schedule and prayers for the parish form of solemn adoration.",
+						"pt-BR": "Horário e orações para a forma paroquial da adoração solene."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Order of Benediction of the Most Blessed Sacrament",
+						"pt-BR": "Rito da Bênção do Santíssimo Sacramento"
+					},
+					"notes": {
+						"en-US": "Rubrics, prayers, and chants.",
+						"pt-BR": "Rubricas, orações e cantos."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Divine Praises",
+						"pt-BR": "Os Louvores Divinos"
+					},
+					"notes": {
+						"en-US": "*Blessed be God, blessed be His Holy Name…* — prayed at Benediction.",
+						"pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…* — rezados na Bênção."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Reparation Prayer to the Most Sacred Host",
+						"pt-BR": "Oração de Reparação à Sagrada Hóstia"
+					},
+					"notes": {
+						"en-US": "St. Faustina's prayer.",
+						"pt-BR": "Oração de Santa Faustina."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chaplet of the Most Holy Eucharist",
+						"pt-BR": "Coroinha do Santíssimo Sacramento"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer of St. Bonaventure before Communion",
+						"pt-BR": "Oração de São Boaventura antes da Comunhão"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer of St. Thomas Aquinas after Communion",
+						"pt-BR": "Oração de São Tomás de Aquino após a Comunhão"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Soul of Christ — Newman's longer paraphrase",
+						"pt-BR": "Alma de Cristo — paráfrase mais longa de Newman"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Eucharistic Miracles meditation guide",
+						"pt-BR": "Guia meditativo dos Milagres Eucarísticos"
+					},
+					"notes": {
+						"en-US": "Lanciano, Bolsena, Buenos Aires, Sokółka — case studies + meditations.",
+						"pt-BR": "Lanciano, Bolsena, Buenos Aires, Sokolka — estudos e meditações."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer to the Eucharistic Heart of Jesus",
+						"pt-BR": "Oração ao Coração Eucarístico de Jesus"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter: What the Mass actually does",
+						"pt-BR": "Capítulo: O que a Missa de fato faz"
+					},
+					"notes": {
+						"en-US": "Sacrifice + sacrament; the four ends.",
+						"pt-BR": "Sacrifício + sacramento; os quatro fins."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Indulgenced prayers for Eucharistic visits and adoration",
+						"pt-BR": "Orações com indulgência para visita e adoração"
+					},
+					"proposedKind": "prayer"
+				}
+			]
+		}
+	]
 }

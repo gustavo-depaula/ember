@@ -28,7 +28,6 @@ import type {
   CreatorManifest,
   LangSplitItemManifest,
   PracticeManifest,
-  PrayerItemManifest,
 } from './manifestTypes'
 import { mergeLangs } from './mergeLangs'
 import { getJson, getText } from './store'
@@ -104,11 +103,11 @@ function rewriteImagePaths(value: unknown, refs: Map<string, string>): void {
 
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
-const CRITICAL_KINDS = ['prayer', 'practice'] as const
+const CRITICAL_KINDS = ['practice'] as const
 const DEFERRED_KINDS = ['chapter', 'book', 'collection', 'creator'] as const
 
 async function warmKinds(
-  kinds: ReadonlyArray<'prayer' | 'practice' | 'chapter' | 'book' | 'collection' | 'creator'>,
+  kinds: ReadonlyArray<'practice' | 'chapter' | 'book' | 'collection' | 'creator'>,
 ): Promise<void> {
   const hashes: string[] = []
   for (const kind of kinds) {
@@ -152,7 +151,7 @@ export async function warmDeferredManifests(): Promise<void> {
  */
 function residentItem<T>(
   id: string,
-  kind: 'prayer' | 'practice' | 'chapter' | 'book' | 'mass' | 'creator',
+  kind: 'practice' | 'chapter' | 'book' | 'mass' | 'creator',
 ): { canonical: string; item: T | undefined } {
   const canonical = canonicalize(id, kind)
   if (!canonical) return { canonical: '', item: undefined }
@@ -201,11 +200,13 @@ export function searchManifests(query: string): PracticeManifest[] {
 }
 
 function fetchPrayerSync(id: string): PrayerAsset | undefined {
-  const { item } = residentItem<PrayerItemManifest>(id, 'prayer')
+  const { item } = residentItem<PracticeManifest>(id, 'practice')
   if (!item) return undefined
+  const sections = item.flow?.sections
+  if (!sections) return undefined
   return {
-    title: item.title,
-    body: item.body as FlowSection[],
+    title: item.name,
+    body: sections,
     subtitle: item.subtitle,
     source: item.source,
   }
@@ -258,11 +259,20 @@ export function findGroupMemberInSet(
 
 export async function loadFlow(id: string): Promise<FlowDefinition | undefined> {
   const { canonical, item } = residentItem<PracticeManifest>(id, 'practice')
-  if (!item?.flowHash) return undefined
+  if (!item) return undefined
   const cached = PRACTICE_FRAGMENTS_CACHE.get(canonical)
   if (cached) return cached
 
-  const flow = await getJson<FlowDefinition>(item.flowHash.hash)
+  // Inline flow (short prayers) vs. hashed flow.json (longer practices).
+  // structuredClone keeps later image-rewriting from mutating the warmed manifest.
+  let flow: FlowDefinition
+  if (item.flow) {
+    flow = structuredClone(item.flow)
+  } else if (item.flowHash) {
+    flow = await getJson<FlowDefinition>(item.flowHash.hash)
+  } else {
+    return undefined
+  }
   const imageRefs = buildImageRefMap(item.images)
   if (!item.fragments?.length) {
     if (imageRefs) rewriteImagePaths(flow, imageRefs)

@@ -1,147 +1,241 @@
 {
-  "id": "collection/devocionario-claretiano",
-  "version": "1.0.0",
-  "name": {
-    "pt-BR": "Devocionário Claretiano",
-    "en-US": "Claretian Devotional (Brazilian)"
-  },
-  "description": {
-    "pt-BR": "*Ave Maria* — devocionário dos Padres Claretianos (1957). As principais orações e exercícios de piedade que deve praticar o cristão, na cadência do português brasileiro tradicional.",
-    "en-US": "*Ave Maria* — the Brazilian Claretian Fathers' devotional (1957). The principal prayers and exercises of piety for daily Catholic life, in the cadence of traditional Brazilian Portuguese."
-  },
-  "icon": "mary",
-  "languages": ["pt-BR"],
-  "tags": ["devotional", "traditional", "portuguese", "brazilian", "claretian"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "pt-BR": "Os Padres Claretianos chegaram ao Brasil no fim do século XIX e formaram gerações de fiéis com seu pequeno *Ave Maria* — devocionário de bolso, em capa preta, que muitas casas brasileiras conservam ainda hoje. Esta coleção reúne suas peças centrais: as orações da manhã e da noite, os exercícios para a Missa, a Confissão e a Comunhão, o modo de rezar o Rosário, e o caminho da Via-Sacra na forma claretiana.",
-      "en-US": "The Claretian Fathers came to Brazil at the end of the nineteenth century and formed generations of the faithful with their pocket-sized *Ave Maria* devotional, in its black cover, still kept in many Brazilian homes. This collection gathers its central pieces: morning and evening prayers, exercises for Mass, Confession and Communion, the manner of praying the Rosary, and the Way of the Cross in the Claretian form."
-    }
-  },
-  "sections": [
-    {
-      "id": "doutrina",
-      "title": { "pt-BR": "Doutrina", "en-US": "Doctrine" },
-      "description": {
-        "body": {
-          "pt-BR": "Os fundamentos da fé, na ordem em que se ensinam às crianças no Brasil tradicional.",
-          "en-US": "The foundations of the faith, in the order they are taught to children in traditional Brazil."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/doutrina-crista" },
-        { "kind": "item", "ref": "chapter/primeira-comunhao" }
-      ]
-    },
-    {
-      "id": "oracoes-do-dia",
-      "title": { "pt-BR": "Orações do Dia", "en-US": "Daily Prayers" },
-      "description": {
-        "body": {
-          "pt-BR": "As orações ao despertar, ao deitar e à mesa.",
-          "en-US": "The prayers at waking, at lying down, and at table."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/oracao-da-manha" },
-        { "kind": "item", "ref": "practice/oracao-da-noite" },
-        { "kind": "item", "ref": "prayer/antes-da-comida" },
-        { "kind": "item", "ref": "prayer/acao-gracas-comida" }
-      ]
-    },
-    {
-      "id": "sacramentos",
-      "title": { "pt-BR": "Sacramentos", "en-US": "Sacraments" },
-      "description": {
-        "body": {
-          "pt-BR": "Como participar bem da Santa Missa, como confessar-se, e como preparar-se para a Comunhão.",
-          "en-US": "How to participate well in Holy Mass, how to confess, and how to prepare for Communion."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/oracao-santa-missa" },
-        {
-          "kind": "item",
-          "ref": "practice/para-confissao",
-          "seeAlso": ["collection/confession-and-conversion"]
-        },
-        {
-          "kind": "item",
-          "ref": "practice/preparacao-comunhao",
-          "seeAlso": ["collection/eucharistic"]
-        }
-      ]
-    },
-    {
-      "id": "devocoes-marianas",
-      "title": { "pt-BR": "Devoções Marianas", "en-US": "Marian Devotions" },
-      "description": {
-        "body": {
-          "pt-BR": "O Rosário e as orações marianas mais queridas da piedade popular brasileira.",
-          "en-US": "The Rosary and the most beloved Marian prayers of Brazilian popular piety."
-        }
-      },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/modo-rezar-rosario",
-          "seeAlso": ["collection/marian"]
-        },
-        {
-          "kind": "item",
-          "ref": "prayer/ladainha-nossa-senhora",
-          "seeAlso": ["collection/marian", "collection/litanies"]
-        },
-        { "kind": "item", "ref": "prayer/ladainha-nossa-senhora-claretiano" },
-        { "kind": "item", "ref": "prayer/lembrai-vos" },
-        { "kind": "item", "ref": "prayer/louvando-a-maria" },
-        { "kind": "item", "ref": "prayer/as-ave-marias" },
-        { "kind": "item", "ref": "prayer/nossa-senhora-aparecida" }
-      ]
-    },
-    {
-      "id": "via-sacra",
-      "title": { "pt-BR": "Via-Sacra", "en-US": "Via Sacra" },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/via-sacra",
-          "seeAlso": ["collection/way-of-the-cross"]
-        },
-        {
-          "kind": "item",
-          "ref": "practice/via-sacra-claretiano",
-          "seeAlso": ["collection/way-of-the-cross"]
-        }
-      ]
-    },
-    {
-      "id": "intercessoes",
-      "title": { "pt-BR": "Intercessões", "en-US": "Intercessions" },
-      "description": {
-        "body": {
-          "pt-BR": "Para os que sofrem, para os pecadores, para os moribundos.",
-          "en-US": "For the suffering, for sinners, for the dying."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/pela-conversao-pecadores" },
-        {
-          "kind": "item",
-          "ref": "prayer/pelos-moribundos",
-          "seeAlso": ["collection/for-the-dead"]
-        },
-        { "kind": "item", "ref": "prayer/nao-chores-jesus" },
-        { "kind": "item", "ref": "prayer/santo-anjo-guarda" }
-      ]
-    },
-    {
-      "id": "para-a-hora-da-morte",
-      "title": { "pt-BR": "Para a Hora da Morte", "en-US": "For the Hour of Death" },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/salva-tua-alma" }
-      ]
-    }
-  ]
+	"id": "collection/devocionario-claretiano",
+	"version": "1.0.0",
+	"name": {
+		"pt-BR": "Devocionário Claretiano",
+		"en-US": "Claretian Devotional (Brazilian)"
+	},
+	"description": {
+		"pt-BR": "*Ave Maria* — devocionário dos Padres Claretianos (1957). As principais orações e exercícios de piedade que deve praticar o cristão, na cadência do português brasileiro tradicional.",
+		"en-US": "*Ave Maria* — the Brazilian Claretian Fathers' devotional (1957). The principal prayers and exercises of piety for daily Catholic life, in the cadence of traditional Brazilian Portuguese."
+	},
+	"icon": "mary",
+	"languages": [
+		"pt-BR"
+	],
+	"tags": [
+		"devotional",
+		"traditional",
+		"portuguese",
+		"brazilian",
+		"claretian"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"pt-BR": "Os Padres Claretianos chegaram ao Brasil no fim do século XIX e formaram gerações de fiéis com seu pequeno *Ave Maria* — devocionário de bolso, em capa preta, que muitas casas brasileiras conservam ainda hoje. Esta coleção reúne suas peças centrais: as orações da manhã e da noite, os exercícios para a Missa, a Confissão e a Comunhão, o modo de rezar o Rosário, e o caminho da Via-Sacra na forma claretiana.",
+			"en-US": "The Claretian Fathers came to Brazil at the end of the nineteenth century and formed generations of the faithful with their pocket-sized *Ave Maria* devotional, in its black cover, still kept in many Brazilian homes. This collection gathers its central pieces: morning and evening prayers, exercises for Mass, Confession and Communion, the manner of praying the Rosary, and the Way of the Cross in the Claretian form."
+		}
+	},
+	"sections": [
+		{
+			"id": "doutrina",
+			"title": {
+				"pt-BR": "Doutrina",
+				"en-US": "Doctrine"
+			},
+			"description": {
+				"body": {
+					"pt-BR": "Os fundamentos da fé, na ordem em que se ensinam às crianças no Brasil tradicional.",
+					"en-US": "The foundations of the faith, in the order they are taught to children in traditional Brazil."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/doutrina-crista"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/primeira-comunhao"
+				}
+			]
+		},
+		{
+			"id": "oracoes-do-dia",
+			"title": {
+				"pt-BR": "Orações do Dia",
+				"en-US": "Daily Prayers"
+			},
+			"description": {
+				"body": {
+					"pt-BR": "As orações ao despertar, ao deitar e à mesa.",
+					"en-US": "The prayers at waking, at lying down, and at table."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/oracao-da-manha"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/oracao-da-noite"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/antes-da-comida"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/acao-gracas-comida"
+				}
+			]
+		},
+		{
+			"id": "sacramentos",
+			"title": {
+				"pt-BR": "Sacramentos",
+				"en-US": "Sacraments"
+			},
+			"description": {
+				"body": {
+					"pt-BR": "Como participar bem da Santa Missa, como confessar-se, e como preparar-se para a Comunhão.",
+					"en-US": "How to participate well in Holy Mass, how to confess, and how to prepare for Communion."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/oracao-santa-missa"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/para-confissao",
+					"seeAlso": [
+						"collection/confession-and-conversion"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/preparacao-comunhao",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				}
+			]
+		},
+		{
+			"id": "devocoes-marianas",
+			"title": {
+				"pt-BR": "Devoções Marianas",
+				"en-US": "Marian Devotions"
+			},
+			"description": {
+				"body": {
+					"pt-BR": "O Rosário e as orações marianas mais queridas da piedade popular brasileira.",
+					"en-US": "The Rosary and the most beloved Marian prayers of Brazilian popular piety."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/modo-rezar-rosario",
+					"seeAlso": [
+						"collection/marian"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ladainha-nossa-senhora",
+					"seeAlso": [
+						"collection/marian",
+						"collection/litanies"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ladainha-nossa-senhora-claretiano"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lembrai-vos"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/louvando-a-maria"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/as-ave-marias"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nossa-senhora-aparecida"
+				}
+			]
+		},
+		{
+			"id": "via-sacra",
+			"title": {
+				"pt-BR": "Via-Sacra",
+				"en-US": "Via Sacra"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/via-sacra",
+					"seeAlso": [
+						"collection/way-of-the-cross"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/via-sacra-claretiano",
+					"seeAlso": [
+						"collection/way-of-the-cross"
+					]
+				}
+			]
+		},
+		{
+			"id": "intercessoes",
+			"title": {
+				"pt-BR": "Intercessões",
+				"en-US": "Intercessions"
+			},
+			"description": {
+				"body": {
+					"pt-BR": "Para os que sofrem, para os pecadores, para os moribundos.",
+					"en-US": "For the suffering, for sinners, for the dying."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/pela-conversao-pecadores"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/pelos-moribundos",
+					"seeAlso": [
+						"collection/for-the-dead"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nao-chores-jesus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/santo-anjo-guarda"
+				}
+			]
+		},
+		{
+			"id": "para-a-hora-da-morte",
+			"title": {
+				"pt-BR": "Para a Hora da Morte",
+				"en-US": "For the Hour of Death"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/salva-tua-alma"
+				}
+			]
+		}
+	]
 }

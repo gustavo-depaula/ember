@@ -39,7 +39,6 @@ export function flattenCollectionItems(
 }
 
 export const RESIDENT_KINDS = [
-  'prayer',
   'practice',
   'chapter',
   'book',

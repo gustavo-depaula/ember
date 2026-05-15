@@ -4,6 +4,9 @@
  * Wired in via `vi.mock('expo-sqlite', ...)` from `src/test/setup.ts`.
  *
  * SQL semantics are real SQLite — same C library expo-sqlite uses on device.
+ *
+ * The harness `setDb`s this directly as `EmberDb` (see renderApp.tsx), so the
+ * shim also implements the EmberDb-only surface: `runBatchInTx`.
  */
 
 import Database from 'better-sqlite3'

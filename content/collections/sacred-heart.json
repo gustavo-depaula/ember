@@ -1,139 +1,244 @@
 {
-  "id": "collection/sacred-heart",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Sacred Heart of Jesus",
-    "pt-BR": "Sagrado Coração de Jesus"
-  },
-  "description": {
-    "en-US": "The school of love that comes from the wounded Heart — its history, its promises, and the practices that have flowed from it for three centuries.",
-    "pt-BR": "A escola do amor que brota do Coração ferido — sua história, suas promessas e as práticas que dela fluíram por três séculos."
-  },
-  "icon": "sacred-heart",
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["sacred-heart", "devotion", "first-friday", "reparation"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "The devotion to the Sacred Heart is not a sentiment. It is a school — a way of standing under a wound, learning to love as Christ loves, and offering reparation for the coldness of the world. Its great promises were given to St. Margaret Mary Alacoque at Paray-le-Monial; its great practices are the Morning Offering, the Holy Hour, and the Nine First Fridays.",
-      "pt-BR": "A devoção ao Sagrado Coração não é um sentimento. É uma escola — um modo de permanecer sob uma chaga, aprendendo a amar como Cristo ama, e oferecendo reparação pela frieza do mundo. Suas grandes promessas foram dadas a Santa Margarida Maria Alacoque em Paray-le-Monial; suas grandes práticas são a Oferta da Manhã, a Hora Santa e as Nove Primeiras Sextas-feiras."
-    }
-  },
-  "sections": [
-    {
-      "id": "foundations",
-      "title": { "en-US": "Foundations", "pt-BR": "Fundamentos" },
-      "description": {
-        "body": {
-          "en-US": "The history, the theology, and the twelve promises that frame the devotion.",
-          "pt-BR": "A história, a teologia e as doze promessas que enquadram a devoção."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/history-of-devotion" },
-        { "kind": "item", "ref": "chapter/theological-foundations" },
-        { "kind": "item", "ref": "chapter/twelve-promises" },
-        { "kind": "item", "ref": "chapter/sacred-heart-in-art" }
-      ]
-    },
-    {
-      "id": "practices",
-      "title": { "en-US": "Practices", "pt-BR": "Práticas" },
-      "description": {
-        "body": {
-          "en-US": "The pillars of a Sacred Heart life: the morning oblation, the First Fridays, the Hour of reparation, and the act of reparation itself.",
-          "pt-BR": "Os pilares de uma vida do Sagrado Coração: a oblação matinal, as Primeiras Sextas-feiras, a Hora de reparação e o próprio ato de reparação."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/morning-offering-sacred-heart" },
-        { "kind": "item", "ref": "practice/first-friday-devotion" },
-        { "kind": "item", "ref": "practice/holy-hour-sacred-heart" },
-        { "kind": "item", "ref": "practice/act-of-reparation" },
-        { "kind": "item", "ref": "practice/act-consecration-sacred-heart" }
-      ]
-    },
-    {
-      "id": "prayers",
-      "title": { "en-US": "Prayers of the Devotion", "pt-BR": "Orações da Devoção" },
-      "description": {
-        "body": {
-          "en-US": "Beloved prayers of the Sacred Heart school.",
-          "pt-BR": "Orações queridas da escola do Sagrado Coração."
-        }
-      },
-      "blocks": [
-        {
-          "kind": "item",
-          "ref": "practice/litany-sacred-heart",
-          "seeAlso": ["collection/litanies"]
-        },
-        { "kind": "item", "ref": "prayer/offering-to-sacred-heart" },
-        { "kind": "item", "ref": "prayer/prayer-of-st-margaret-mary" },
-        { "kind": "item", "ref": "prayer/consagracao-sagrado-coracao" }
-      ]
-    },
-    {
-      "id": "companion-saints",
-      "title": { "en-US": "Companion Saints", "pt-BR": "Santos do Sagrado Coração" },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/saints-sacred-heart" }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
-      "blocks": [
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chaplet of the Sacred Heart", "pt-BR": "Coroinha do Sagrado Coração" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "33-day preparation for Consecration to the Sacred Heart", "pt-BR": "Preparação de 33 dias para a Consagração ao Sagrado Coração" },
-          "notes": { "en-US": "St. Margaret Mary's form.", "pt-BR": "Forma de Santa Margarida Maria." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Rite of Enthronement of the Sacred Heart in the home", "pt-BR": "Rito de Entronização do Sagrado Coração no lar" },
-          "notes": { "en-US": "Fr. Mateo Crawley-Boevey, SS.CC.", "pt-BR": "Pe. Mateo Crawley-Boevey, SS.CC." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Litany of the Eucharistic Heart of Jesus", "pt-BR": "Ladainha do Coração Eucarístico de Jesus" },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayers to the Eucharistic Heart of Jesus", "pt-BR": "Orações ao Coração Eucarístico de Jesus" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Novena to the Sacred Heart by St. Margaret Mary", "pt-BR": "Novena ao Sagrado Coração por Santa Margarida Maria" },
-          "notes": { "en-US": "Distinct from the corpus's existing Sacred Heart novena.", "pt-BR": "Distinta da novena ao Sagrado Coração já existente no corpus." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Heroic Act of Charity", "pt-BR": "Ato Heroico de Caridade" },
-          "notes": { "en-US": "Offering of all merits and satisfactions for the Holy Souls.", "pt-BR": "Oferecimento de todos os méritos e satisfações pelas Almas Benditas." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "June daily Sacred Heart devotion guide", "pt-BR": "Guia diário do mês do Sagrado Coração (junho)" },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Paray-le-Monial pilgrimage prayers", "pt-BR": "Orações da peregrinação a Paray-le-Monial" },
-          "proposedKind": "prayer"
-        }
-      ]
-    }
-  ]
+	"id": "collection/sacred-heart",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Sacred Heart of Jesus",
+		"pt-BR": "Sagrado Coração de Jesus"
+	},
+	"description": {
+		"en-US": "The school of love that comes from the wounded Heart — its history, its promises, and the practices that have flowed from it for three centuries.",
+		"pt-BR": "A escola do amor que brota do Coração ferido — sua história, suas promessas e as práticas que dela fluíram por três séculos."
+	},
+	"icon": "sacred-heart",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"sacred-heart",
+		"devotion",
+		"first-friday",
+		"reparation"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "The devotion to the Sacred Heart is not a sentiment. It is a school — a way of standing under a wound, learning to love as Christ loves, and offering reparation for the coldness of the world. Its great promises were given to St. Margaret Mary Alacoque at Paray-le-Monial; its great practices are the Morning Offering, the Holy Hour, and the Nine First Fridays.",
+			"pt-BR": "A devoção ao Sagrado Coração não é um sentimento. É uma escola — um modo de permanecer sob uma chaga, aprendendo a amar como Cristo ama, e oferecendo reparação pela frieza do mundo. Suas grandes promessas foram dadas a Santa Margarida Maria Alacoque em Paray-le-Monial; suas grandes práticas são a Oferta da Manhã, a Hora Santa e as Nove Primeiras Sextas-feiras."
+		}
+	},
+	"sections": [
+		{
+			"id": "foundations",
+			"title": {
+				"en-US": "Foundations",
+				"pt-BR": "Fundamentos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The history, the theology, and the twelve promises that frame the devotion.",
+					"pt-BR": "A história, a teologia e as doze promessas que enquadram a devoção."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/history-of-devotion"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/theological-foundations"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/twelve-promises"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/sacred-heart-in-art"
+				}
+			]
+		},
+		{
+			"id": "practices",
+			"title": {
+				"en-US": "Practices",
+				"pt-BR": "Práticas"
+			},
+			"description": {
+				"body": {
+					"en-US": "The pillars of a Sacred Heart life: the morning oblation, the First Fridays, the Hour of reparation, and the act of reparation itself.",
+					"pt-BR": "Os pilares de uma vida do Sagrado Coração: a oblação matinal, as Primeiras Sextas-feiras, a Hora de reparação e o próprio ato de reparação."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/morning-offering-sacred-heart"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/first-friday-devotion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour-sacred-heart"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-reparation"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-consecration-sacred-heart"
+				}
+			]
+		},
+		{
+			"id": "prayers",
+			"title": {
+				"en-US": "Prayers of the Devotion",
+				"pt-BR": "Orações da Devoção"
+			},
+			"description": {
+				"body": {
+					"en-US": "Beloved prayers of the Sacred Heart school.",
+					"pt-BR": "Orações queridas da escola do Sagrado Coração."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/litany-sacred-heart",
+					"seeAlso": [
+						"collection/litanies"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/offering-to-sacred-heart"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-st-margaret-mary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/consagracao-sagrado-coracao"
+				}
+			]
+		},
+		{
+			"id": "companion-saints",
+			"title": {
+				"en-US": "Companion Saints",
+				"pt-BR": "Santos do Sagrado Coração"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/saints-sacred-heart"
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon",
+				"pt-BR": "Em Breve"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chaplet of the Sacred Heart",
+						"pt-BR": "Coroinha do Sagrado Coração"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "33-day preparation for Consecration to the Sacred Heart",
+						"pt-BR": "Preparação de 33 dias para a Consagração ao Sagrado Coração"
+					},
+					"notes": {
+						"en-US": "St. Margaret Mary's form.",
+						"pt-BR": "Forma de Santa Margarida Maria."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Rite of Enthronement of the Sacred Heart in the home",
+						"pt-BR": "Rito de Entronização do Sagrado Coração no lar"
+					},
+					"notes": {
+						"en-US": "Fr. Mateo Crawley-Boevey, SS.CC.",
+						"pt-BR": "Pe. Mateo Crawley-Boevey, SS.CC."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Litany of the Eucharistic Heart of Jesus",
+						"pt-BR": "Ladainha do Coração Eucarístico de Jesus"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayers to the Eucharistic Heart of Jesus",
+						"pt-BR": "Orações ao Coração Eucarístico de Jesus"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to the Sacred Heart by St. Margaret Mary",
+						"pt-BR": "Novena ao Sagrado Coração por Santa Margarida Maria"
+					},
+					"notes": {
+						"en-US": "Distinct from the corpus's existing Sacred Heart novena.",
+						"pt-BR": "Distinta da novena ao Sagrado Coração já existente no corpus."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Heroic Act of Charity",
+						"pt-BR": "Ato Heroico de Caridade"
+					},
+					"notes": {
+						"en-US": "Offering of all merits and satisfactions for the Holy Souls.",
+						"pt-BR": "Oferecimento de todos os méritos e satisfações pelas Almas Benditas."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "June daily Sacred Heart devotion guide",
+						"pt-BR": "Guia diário do mês do Sagrado Coração (junho)"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Paray-le-Monial pilgrimage prayers",
+						"pt-BR": "Orações da peregrinação a Paray-le-Monial"
+					},
+					"proposedKind": "prayer"
+				}
+			]
+		}
+	]
 }

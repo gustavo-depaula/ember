@@ -41,7 +41,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
       version: 2,
       generated: '',
       items: {
-        'prayer/our-father': { kind: 'prayer', hash: 'p-of', size: 100 },
+        'practice/our-father': { kind: 'practice', hash: 'p-of', size: 100 },
         'practice/rosary': { kind: 'practice', hash: 'p-rosary', size: 200 },
         'chapter/intro': { kind: 'chapter', hash: 'c-intro', size: 300 },
         'book/foo': { kind: 'book', hash: 'b-foo', size: 400 },
@@ -134,7 +134,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
           title: { 'en-US': 'All' },
           blocks: [
             { kind: 'item', ref: 'practice/rosary' },
-            { kind: 'item', ref: 'prayer/our-father' },
+            { kind: 'item', ref: 'practice/our-father' },
           ],
         },
       ],
@@ -162,7 +162,7 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
     } as unknown as PracticeManifest)
 
     await pinItem('practice/rosary')
-    await pinItem('prayer/our-father')
+    await pinItem('practice/our-father')
 
     const hashes = await pinnedHashes()
     expect(hashes.has('p-rosary')).toBe(true)
@@ -172,10 +172,14 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
 
   it('unpinItem removes from pinned list (but does NOT delete blobs)', async () => {
     setup()
-    rememberManifestBody('p-of', { id: 'prayer/our-father', title: {}, body: [] })
-    await pinItem('prayer/our-father')
-    expect(isPinned('prayer/our-father')).toBe(true)
-    await unpinItem('prayer/our-father')
-    expect(isPinned('prayer/our-father')).toBe(false)
+    rememberManifestBody('p-of', {
+      id: 'practice/our-father',
+      name: {},
+      flow: { sections: [] },
+    } as unknown as PracticeManifest)
+    await pinItem('practice/our-father')
+    expect(isPinned('practice/our-father')).toBe(true)
+    await unpinItem('practice/our-father')
+    expect(isPinned('practice/our-father')).toBe(false)
   })
 })

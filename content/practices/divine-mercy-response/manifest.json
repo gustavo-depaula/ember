@@ -1,0 +1,19 @@
+{
+	"id": "divine-mercy-response",
+	"name": {
+		"en-US": "Divine Mercy Response",
+		"pt-BR": "Resposta da Divina Misericórdia",
+		"la": "Responsum Divinæ Misericordiæ"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "For the sake of His sorrowful Passion, have mercy on us and on the whole world.",
+					"pt-BR": "Pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro."
+				}
+			}
+		]
+	}
+}

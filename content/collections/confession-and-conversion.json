@@ -1,189 +1,338 @@
 {
-  "id": "collection/confession-and-conversion",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Confession & Conversion",
-    "pt-BR": "Confissão e Conversão"
-  },
-  "description": {
-    "en-US": "How to make a good Confession, how to come back when you have been away, and how to do battle with the predominant fault.",
-    "pt-BR": "Como fazer uma boa Confissão, como retornar quando se esteve longe, e como combater o defeito dominante."
-  },
-  "icon": "key",
-  "languages": ["en-US", "pt-BR"],
-  "tags": ["confession", "conversion", "examination", "penance"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "*Adveniat regnum tuum.* The kingdom of God comes whenever a soul returns to the truth about itself. Confession is not the wreckage of the spiritual life — it is its hinge. Frequent Confession (every two to four weeks) keeps the soul honest, pries off the small lies before they harden, and supplies grace for the next stretch of the road. If it has been long, this collection will help you come home.",
-      "pt-BR": "*Adveniat regnum tuum.* O Reino de Deus chega sempre que uma alma retorna à verdade sobre si mesma. A Confissão não é o naufrágio da vida espiritual — é a sua dobradiça. A Confissão frequente (a cada duas a quatro semanas) conserva a alma honesta, arranca as pequenas mentiras antes que endureçam, e supre a graça para o próximo trecho do caminho. Se faz muito tempo, esta coleção te ajudará a voltar para casa."
-    }
-  },
-  "sections": [
-    {
-      "id": "before-confession",
-      "title": { "en-US": "Before Confession", "pt-BR": "Antes da Confissão" },
-      "description": {
-        "body": {
-          "en-US": "How to examine, what to say, and how to be honest without theatre.",
-          "pt-BR": "Como se examinar, o que dizer, e como ser honesto sem teatro."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/how-to-make-a-good-confession" },
-        { "kind": "item", "ref": "practice/examination-of-conscience" },
-        { "kind": "item", "ref": "practice/confession" },
-        {
-          "kind": "item",
-          "ref": "practice/para-confissao",
-          "seeAlso": ["collection/devocionario-claretiano"]
-        }
-      ]
-    },
-    {
-      "id": "in-the-rite",
-      "title": { "en-US": "In the Rite", "pt-BR": "No Rito" },
-      "description": {
-        "body": {
-          "en-US": "The Act of Contrition — and the brief Compline confession when sacramental confession is not at hand.",
-          "pt-BR": "O Ato de Contrição — e a breve confissão das Completas quando a confissão sacramental não está disponível."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/act-contrition" },
-        { "kind": "item", "ref": "prayer/act-of-contrition" },
-        { "kind": "item", "ref": "prayer/contricao-bons-propositos" },
-        { "kind": "item", "ref": "prayer/confession-compline" }
-      ]
-    },
-    {
-      "id": "returning",
-      "title": { "en-US": "Returning to the Sacrament", "pt-BR": "Voltando ao Sacramento" },
-      "description": {
-        "body": {
-          "en-US": "If it has been months, years, decades — the steps back, written for souls who feel they cannot.",
-          "pt-BR": "Se faz meses, anos, décadas — os passos de volta, escritos para almas que sentem que não podem."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/returning-to-confession" },
-        { "kind": "item", "ref": "chapter/predominant-fault" },
-        { "kind": "item", "ref": "chapter/the-first-mass-back" },
-        { "kind": "item", "ref": "chapter/the-first-year-after-reception" }
-      ]
-    },
-    {
-      "id": "the-capital-sins",
-      "title": { "en-US": "The Capital Sins & Their Virtues", "pt-BR": "Os Pecados Capitais e Suas Virtudes" },
-      "description": {
-        "body": {
-          "en-US": "Pride / humility, envy / generosity, anger / meekness, sloth / diligence, avarice / liberality, gluttony / temperance, lust / chastity. Knowing the seven sins is knowing the seven battlegrounds.",
-          "pt-BR": "Soberba / humildade, inveja / generosidade, ira / mansidão, preguiça / diligência, avareza / liberalidade, gula / temperança, luxúria / castidade. Conhecer os sete pecados é conhecer os sete campos de batalha."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/capital-sins-and-virtues" },
-        {
-          "kind": "item",
-          "ref": "practice/litany-humility",
-          "seeAlso": ["collection/litanies"]
-        }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon", "pt-BR": "Em Breve" },
-      "blocks": [
-        {
-          "kind": "todo",
-          "title": { "en-US": "Miserere (Psalm 50/51) as a guided practice", "pt-BR": "Miserere (Salmo 50/51) como prática guiada" },
-          "notes": { "en-US": "The great penitential psalm.", "pt-BR": "O grande salmo penitencial." },
-          "proposedKind": "practice",
-          "priority": "high"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "The Seven Penitential Psalms", "pt-BR": "Os Sete Salmos Penitenciais" },
-          "notes": { "en-US": "Pss 6, 31, 37, 50, 101, 129, 142 — together as a Lenten practice.", "pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142 — juntos como prática quaresmal." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "De Profundis (Psalm 129/130) as practice", "pt-BR": "De Profundis (Salmo 129/130) como prática" },
-          "notes": { "en-US": "Cross-list with For the Faithful Departed.", "pt-BR": "Cruzar com Pelos Fiéis Defuntos." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Act of reparation for serious sin", "pt-BR": "Ato de reparação para pecado grave" },
-          "notes": { "en-US": "For use when mortal sin precedes access to Confession.", "pt-BR": "Para o caso de pecado mortal antes de acesso à Confissão." },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter on the Sacrament of Reconciliation", "pt-BR": "Capítulo sobre o Sacramento da Reconciliação" },
-          "notes": { "en-US": "Distilled from CCC §§1422–1498.", "pt-BR": "Destilado do CIC §§1422–1498." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter on indulgences", "pt-BR": "Capítulo sobre indulgências" },
-          "notes": { "en-US": "What they are, how to gain them, the standard conditions.", "pt-BR": "O que são, como ganhá-las, as condições padrão." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Chapter on scrupulosity", "pt-BR": "Capítulo sobre escrúpulos" },
-          "notes": { "en-US": "Distinguishing tender conscience from scrupulous conscience.", "pt-BR": "Distinguir consciência delicada de consciência escrupulosa." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Examination of conscience by state in life", "pt-BR": "Exame de consciência por estado de vida" },
-          "notes": { "en-US": "Married, single, parents, religious, ordained, students.", "pt-BR": "Casados, solteiros, pais, religiosos, ordenados, estudantes." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Examination of conscience — multiple frameworks", "pt-BR": "Exame de consciência — múltiplos quadros" },
-          "notes": { "en-US": "By Commandments; by Capital Sins; by Beatitudes; by the Our Father.", "pt-BR": "Por Mandamentos; por Pecados Capitais; por Bem-aventuranças; pelo Pai-Nosso." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Confession of Devotion — frequent Confession framework", "pt-BR": "Confissão de Devoção — Confissão frequente" },
-          "notes": { "en-US": "St. John Paul II, *Reconciliatio et Paenitentia*.", "pt-BR": "São João Paulo II, *Reconciliatio et Paenitentia*." },
-          "proposedKind": "chapter"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Stations of Mercy", "pt-BR": "Estações da Misericórdia" },
-          "notes": { "en-US": "A paraliturgical journey through the parable of the Prodigal Son.", "pt-BR": "Caminho paralitúrgico pela parábola do Filho Pródigo." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Litany of the Penitent Heart", "pt-BR": "Ladainha do Coração Penitente" },
-          "notes": { "en-US": "Private devotion.", "pt-BR": "Devoção privada." },
-          "proposedKind": "practice"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer of the Tax Collector", "pt-BR": "Oração do Publicano" },
-          "notes": { "en-US": "*God, be merciful to me a sinner.*", "pt-BR": "*Senhor, tende piedade de mim, pecador.*" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Prayer to the Holy Spirit before Examination", "pt-BR": "Oração ao Espírito Santo antes do Exame" },
-          "proposedKind": "prayer"
-        },
-        {
-          "kind": "todo",
-          "title": { "en-US": "Aspiration prayers for daily contrition", "pt-BR": "Jaculatórias de contrição diária" },
-          "proposedKind": "prayer"
-        }
-      ]
-    }
-  ]
+	"id": "collection/confession-and-conversion",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Confession & Conversion",
+		"pt-BR": "Confissão e Conversão"
+	},
+	"description": {
+		"en-US": "How to make a good Confession, how to come back when you have been away, and how to do battle with the predominant fault.",
+		"pt-BR": "Como fazer uma boa Confissão, como retornar quando se esteve longe, e como combater o defeito dominante."
+	},
+	"icon": "key",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"confession",
+		"conversion",
+		"examination",
+		"penance"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "*Adveniat regnum tuum.* The kingdom of God comes whenever a soul returns to the truth about itself. Confession is not the wreckage of the spiritual life — it is its hinge. Frequent Confession (every two to four weeks) keeps the soul honest, pries off the small lies before they harden, and supplies grace for the next stretch of the road. If it has been long, this collection will help you come home.",
+			"pt-BR": "*Adveniat regnum tuum.* O Reino de Deus chega sempre que uma alma retorna à verdade sobre si mesma. A Confissão não é o naufrágio da vida espiritual — é a sua dobradiça. A Confissão frequente (a cada duas a quatro semanas) conserva a alma honesta, arranca as pequenas mentiras antes que endureçam, e supre a graça para o próximo trecho do caminho. Se faz muito tempo, esta coleção te ajudará a voltar para casa."
+		}
+	},
+	"sections": [
+		{
+			"id": "before-confession",
+			"title": {
+				"en-US": "Before Confession",
+				"pt-BR": "Antes da Confissão"
+			},
+			"description": {
+				"body": {
+					"en-US": "How to examine, what to say, and how to be honest without theatre.",
+					"pt-BR": "Como se examinar, o que dizer, e como ser honesto sem teatro."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/how-to-make-a-good-confession"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/examination-of-conscience"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/confession"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/para-confissao",
+					"seeAlso": [
+						"collection/devocionario-claretiano"
+					]
+				}
+			]
+		},
+		{
+			"id": "in-the-rite",
+			"title": {
+				"en-US": "In the Rite",
+				"pt-BR": "No Rito"
+			},
+			"description": {
+				"body": {
+					"en-US": "The Act of Contrition — and the brief Compline confession when sacramental confession is not at hand.",
+					"pt-BR": "O Ato de Contrição — e a breve confissão das Completas quando a confissão sacramental não está disponível."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/act-contrition"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-contrition"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/contricao-bons-propositos"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/confession-compline"
+				}
+			]
+		},
+		{
+			"id": "returning",
+			"title": {
+				"en-US": "Returning to the Sacrament",
+				"pt-BR": "Voltando ao Sacramento"
+			},
+			"description": {
+				"body": {
+					"en-US": "If it has been months, years, decades — the steps back, written for souls who feel they cannot.",
+					"pt-BR": "Se faz meses, anos, décadas — os passos de volta, escritos para almas que sentem que não podem."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/returning-to-confession"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/predominant-fault"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/the-first-mass-back"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/the-first-year-after-reception"
+				}
+			]
+		},
+		{
+			"id": "the-capital-sins",
+			"title": {
+				"en-US": "The Capital Sins & Their Virtues",
+				"pt-BR": "Os Pecados Capitais e Suas Virtudes"
+			},
+			"description": {
+				"body": {
+					"en-US": "Pride / humility, envy / generosity, anger / meekness, sloth / diligence, avarice / liberality, gluttony / temperance, lust / chastity. Knowing the seven sins is knowing the seven battlegrounds.",
+					"pt-BR": "Soberba / humildade, inveja / generosidade, ira / mansidão, preguiça / diligência, avareza / liberalidade, gula / temperança, luxúria / castidade. Conhecer os sete pecados é conhecer os sete campos de batalha."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/capital-sins-and-virtues"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/litany-humility",
+					"seeAlso": [
+						"collection/litanies"
+					]
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon",
+				"pt-BR": "Em Breve"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Miserere (Psalm 50/51) as a guided practice",
+						"pt-BR": "Miserere (Salmo 50/51) como prática guiada"
+					},
+					"notes": {
+						"en-US": "The great penitential psalm.",
+						"pt-BR": "O grande salmo penitencial."
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Seven Penitential Psalms",
+						"pt-BR": "Os Sete Salmos Penitenciais"
+					},
+					"notes": {
+						"en-US": "Pss 6, 31, 37, 50, 101, 129, 142 — together as a Lenten practice.",
+						"pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142 — juntos como prática quaresmal."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "De Profundis (Psalm 129/130) as practice",
+						"pt-BR": "De Profundis (Salmo 129/130) como prática"
+					},
+					"notes": {
+						"en-US": "Cross-list with For the Faithful Departed.",
+						"pt-BR": "Cruzar com Pelos Fiéis Defuntos."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Act of reparation for serious sin",
+						"pt-BR": "Ato de reparação para pecado grave"
+					},
+					"notes": {
+						"en-US": "For use when mortal sin precedes access to Confession.",
+						"pt-BR": "Para o caso de pecado mortal antes de acesso à Confissão."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on the Sacrament of Reconciliation",
+						"pt-BR": "Capítulo sobre o Sacramento da Reconciliação"
+					},
+					"notes": {
+						"en-US": "Distilled from CCC §§1422–1498.",
+						"pt-BR": "Destilado do CIC §§1422–1498."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on indulgences",
+						"pt-BR": "Capítulo sobre indulgências"
+					},
+					"notes": {
+						"en-US": "What they are, how to gain them, the standard conditions.",
+						"pt-BR": "O que são, como ganhá-las, as condições padrão."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on scrupulosity",
+						"pt-BR": "Capítulo sobre escrúpulos"
+					},
+					"notes": {
+						"en-US": "Distinguishing tender conscience from scrupulous conscience.",
+						"pt-BR": "Distinguir consciência delicada de consciência escrupulosa."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Examination of conscience by state in life",
+						"pt-BR": "Exame de consciência por estado de vida"
+					},
+					"notes": {
+						"en-US": "Married, single, parents, religious, ordained, students.",
+						"pt-BR": "Casados, solteiros, pais, religiosos, ordenados, estudantes."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Examination of conscience — multiple frameworks",
+						"pt-BR": "Exame de consciência — múltiplos quadros"
+					},
+					"notes": {
+						"en-US": "By Commandments; by Capital Sins; by Beatitudes; by the Our Father.",
+						"pt-BR": "Por Mandamentos; por Pecados Capitais; por Bem-aventuranças; pelo Pai-Nosso."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Confession of Devotion — frequent Confession framework",
+						"pt-BR": "Confissão de Devoção — Confissão frequente"
+					},
+					"notes": {
+						"en-US": "St. John Paul II, *Reconciliatio et Paenitentia*.",
+						"pt-BR": "São João Paulo II, *Reconciliatio et Paenitentia*."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Stations of Mercy",
+						"pt-BR": "Estações da Misericórdia"
+					},
+					"notes": {
+						"en-US": "A paraliturgical journey through the parable of the Prodigal Son.",
+						"pt-BR": "Caminho paralitúrgico pela parábola do Filho Pródigo."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Litany of the Penitent Heart",
+						"pt-BR": "Ladainha do Coração Penitente"
+					},
+					"notes": {
+						"en-US": "Private devotion.",
+						"pt-BR": "Devoção privada."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer of the Tax Collector",
+						"pt-BR": "Oração do Publicano"
+					},
+					"notes": {
+						"en-US": "*God, be merciful to me a sinner.*",
+						"pt-BR": "*Senhor, tende piedade de mim, pecador.*"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer to the Holy Spirit before Examination",
+						"pt-BR": "Oração ao Espírito Santo antes do Exame"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Aspiration prayers for daily contrition",
+						"pt-BR": "Jaculatórias de contrição diária"
+					},
+					"proposedKind": "prayer"
+				}
+			]
+		}
+	]
 }

@@ -1,130 +1,391 @@
 {
-  "id": "collection/anglican-patrimony",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Anglican Patrimony"
-  },
-  "description": {
-    "en-US": "The Coverdale-Cranmer-BCP strain of Catholic prayer — the Daily Office, the Office of the Dead, and the great collects of the English tradition, restored to full communion through the Personal Ordinariates."
-  },
-  "icon": "clock",
-  "languages": ["en-US"],
-  "tags": ["office", "breviary", "ordinariate", "bcp", "anglican-patrimony"],
-  "defaults": { "autoSeed": false },
-  "prologue": {
-    "body": {
-      "en-US": "When Pope Benedict XVI established the Personal Ordinariates in 2009, he received not only Anglican souls but a treasury of prayer — the Coverdale Psalter, Cranmer's collects, the rhythms of Mattins and Evensong — and asked that they be preserved as a gift to the wider Church. This collection gathers that patrimony in a Catholic key: the Daily Office in two complementary forms, the Office of the Dead, and the prayers most beloved of the tradition."
-    }
-  },
-  "sections": [
-    {
-      "id": "the-daily-office",
-      "title": { "en-US": "The Daily Office" },
-      "description": {
-        "body": {
-          "en-US": "Two complementary forms of the Office: DWDO (Mattins–Evensong on a 30-day Psalter cycle) and ODOD (the Office of the Dead in BCP form, prayed in November and at the death of one we love)."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/dwdo" },
-        {
-          "kind": "item",
-          "ref": "practice/odod",
-          "seeAlso": ["collection/for-the-dead"]
-        }
-      ]
-    },
-    {
-      "id": "coverdale-prayers",
-      "title": { "en-US": "Coverdale & BCP Prayers" },
-      "description": {
-        "body": {
-          "en-US": "The cadence of the Office: Cranmer's collects, the Coverdale Psalter, and the Gospel canticles in their BCP form."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/our-father-bcp" },
-        { "kind": "item", "ref": "prayer/apostles-creed-bcp" },
-        { "kind": "item", "ref": "prayer/benedictus-bcp" },
-        { "kind": "item", "ref": "prayer/magnificat-bcp" },
-        { "kind": "item", "ref": "prayer/nunc-dimittis-bcp" },
-        { "kind": "item", "ref": "prayer/preces-morning" },
-        { "kind": "item", "ref": "prayer/preces-evening" },
-        { "kind": "item", "ref": "prayer/jubilate" },
-        { "kind": "item", "ref": "prayer/venite" },
-        { "kind": "item", "ref": "prayer/te-deum" },
-        { "kind": "item", "ref": "prayer/te-lucis-ante-terminum" }
-      ]
-    },
-    {
-      "id": "collects",
-      "title": { "en-US": "Collects" },
-      "description": {
-        "body": {
-          "en-US": "Cranmer's small masterpieces — short prayers that gather a request, an attribute of God, and an end in one perfect arc."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/collect-grace" },
-        { "kind": "item", "ref": "prayer/collect-aid-against-perils" },
-        { "kind": "item", "ref": "prayer/collect-peace-morning" },
-        { "kind": "item", "ref": "prayer/collect-peace-evening" }
-      ]
-    },
-    {
-      "id": "office-of-the-dead",
-      "title": { "en-US": "Office of the Dead — Texts" },
-      "description": {
-        "body": {
-          "en-US": "The constituent texts of ODOD — psalms and canticles in their BCP form."
-        }
-      },
-      "defaultCollapsed": true,
-      "blocks": [
-        { "kind": "item", "ref": "prayer/odod-collect" },
-        { "kind": "item", "ref": "prayer/odod-de-profundis" },
-        { "kind": "item", "ref": "prayer/odod-psalm-5" },
-        { "kind": "item", "ref": "prayer/odod-psalm-6" },
-        { "kind": "item", "ref": "prayer/odod-psalm-7" },
-        { "kind": "item", "ref": "prayer/odod-psalm-116" },
-        { "kind": "item", "ref": "prayer/odod-psalm-120" },
-        { "kind": "item", "ref": "prayer/odod-psalm-121" },
-        { "kind": "item", "ref": "prayer/odod-psalm-130" },
-        { "kind": "item", "ref": "prayer/odod-psalm-138" },
-        { "kind": "item", "ref": "prayer/odod-venite" },
-        { "kind": "item", "ref": "prayer/odod-benedictus" },
-        { "kind": "item", "ref": "prayer/odod-magnificat" },
-        { "kind": "item", "ref": "prayer/odod-nunc-dimittis" },
-        { "kind": "item", "ref": "prayer/odod-lauda-anima-mea" },
-        { "kind": "item", "ref": "prayer/odod-song-hezekiah" },
-        { "kind": "item", "ref": "prayer/odod-versicles-reading" },
-        { "kind": "item", "ref": "prayer/odod-versicles-closing" },
-        { "kind": "item", "ref": "prayer/odod-dismissal" }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Chapter on the Personal Ordinariates and Anglicanorum Coetibus" }, "notes": { "en-US": "Benedict XVI, 2009." }, "proposedKind": "chapter", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Chapter on the Coverdale Psalter" }, "notes": { "en-US": "Its history, its place in the BCP, why it sings differently than the Vulgate or RSV." }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Divine Worship: The Missal — Ordinariate Mass propers" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Divine Worship: Daily Office" }, "notes": { "en-US": "Full Mattins and Evensong propers and seasonal hymns." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Divine Worship: Occasional Services" }, "notes": { "en-US": "Marriage, Burial, Visitation of the Sick." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "The Great Litany of Cranmer" }, "notes": { "en-US": "The long form." }, "proposedKind": "practice", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Comfortable Words (1549/1662 BCP)" }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "Prayer of Humble Access" }, "notes": { "en-US": "*We do not presume to come to this thy Table…*" }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "General Confession (Mattins and Evensong)" }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "General Thanksgiving" }, "notes": { "en-US": "BCP, attributed to Bp. Reynolds." }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "Order for Compline (BCP form)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Order for the Burial of the Dead (BCP)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "A Christian's Daily Manual" }, "notes": { "en-US": "Short BCP-based devotional rule." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Selected Cranmer collects (Sundays and Holy Days)" }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "Hymns Ancient and Modern (selections in Catholic use)" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Lancelot Andrewes — Preces Privatae" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "George Herbert — Selected poems" }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Thomas Traherne — Centuries of Meditations" }, "proposedKind": "book" }
-      ]
-    }
-  ]
+	"id": "collection/anglican-patrimony",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Anglican Patrimony"
+	},
+	"description": {
+		"en-US": "The Coverdale-Cranmer-BCP strain of Catholic prayer — the Daily Office, the Office of the Dead, and the great collects of the English tradition, restored to full communion through the Personal Ordinariates."
+	},
+	"icon": "clock",
+	"languages": [
+		"en-US"
+	],
+	"tags": [
+		"office",
+		"breviary",
+		"ordinariate",
+		"bcp",
+		"anglican-patrimony"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "When Pope Benedict XVI established the Personal Ordinariates in 2009, he received not only Anglican souls but a treasury of prayer — the Coverdale Psalter, Cranmer's collects, the rhythms of Mattins and Evensong — and asked that they be preserved as a gift to the wider Church. This collection gathers that patrimony in a Catholic key: the Daily Office in two complementary forms, the Office of the Dead, and the prayers most beloved of the tradition."
+		}
+	},
+	"sections": [
+		{
+			"id": "the-daily-office",
+			"title": {
+				"en-US": "The Daily Office"
+			},
+			"description": {
+				"body": {
+					"en-US": "Two complementary forms of the Office: DWDO (Mattins–Evensong on a 30-day Psalter cycle) and ODOD (the Office of the Dead in BCP form, prayed in November and at the death of one we love)."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/dwdo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod",
+					"seeAlso": [
+						"collection/for-the-dead"
+					]
+				}
+			]
+		},
+		{
+			"id": "coverdale-prayers",
+			"title": {
+				"en-US": "Coverdale & BCP Prayers"
+			},
+			"description": {
+				"body": {
+					"en-US": "The cadence of the Office: Cranmer's collects, the Coverdale Psalter, and the Gospel canticles in their BCP form."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/our-father-bcp"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/apostles-creed-bcp"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/benedictus-bcp"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/magnificat-bcp"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-dimittis-bcp"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/preces-morning"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/preces-evening"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/jubilate"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/venite"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-deum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-lucis-ante-terminum"
+				}
+			]
+		},
+		{
+			"id": "collects",
+			"title": {
+				"en-US": "Collects"
+			},
+			"description": {
+				"body": {
+					"en-US": "Cranmer's small masterpieces — short prayers that gather a request, an attribute of God, and an end in one perfect arc."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/collect-grace"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/collect-aid-against-perils"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/collect-peace-morning"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/collect-peace-evening"
+				}
+			]
+		},
+		{
+			"id": "office-of-the-dead",
+			"title": {
+				"en-US": "Office of the Dead — Texts"
+			},
+			"description": {
+				"body": {
+					"en-US": "The constituent texts of ODOD — psalms and canticles in their BCP form."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/odod-collect"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-5"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-6"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-7"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-116"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-120"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-121"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-130"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-psalm-138"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-venite"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-benedictus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-magnificat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-nunc-dimittis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-lauda-anima-mea"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-song-hezekiah"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-versicles-reading"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-versicles-closing"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/odod-dismissal"
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on the Personal Ordinariates and Anglicanorum Coetibus"
+					},
+					"notes": {
+						"en-US": "Benedict XVI, 2009."
+					},
+					"proposedKind": "chapter",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on the Coverdale Psalter"
+					},
+					"notes": {
+						"en-US": "Its history, its place in the BCP, why it sings differently than the Vulgate or RSV."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Divine Worship: The Missal — Ordinariate Mass propers"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Divine Worship: Daily Office"
+					},
+					"notes": {
+						"en-US": "Full Mattins and Evensong propers and seasonal hymns."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Divine Worship: Occasional Services"
+					},
+					"notes": {
+						"en-US": "Marriage, Burial, Visitation of the Sick."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Great Litany of Cranmer"
+					},
+					"notes": {
+						"en-US": "The long form."
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Comfortable Words (1549/1662 BCP)"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Prayer of Humble Access"
+					},
+					"notes": {
+						"en-US": "*We do not presume to come to this thy Table…*"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "General Confession (Mattins and Evensong)"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "General Thanksgiving"
+					},
+					"notes": {
+						"en-US": "BCP, attributed to Bp. Reynolds."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Order for Compline (BCP form)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Order for the Burial of the Dead (BCP)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "A Christian's Daily Manual"
+					},
+					"notes": {
+						"en-US": "Short BCP-based devotional rule."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Selected Cranmer collects (Sundays and Holy Days)"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Hymns Ancient and Modern (selections in Catholic use)"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Lancelot Andrewes — Preces Privatae"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "George Herbert — Selected poems"
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Thomas Traherne — Centuries of Meditations"
+					},
+					"proposedKind": "book"
+				}
+			]
+		}
+	]
 }

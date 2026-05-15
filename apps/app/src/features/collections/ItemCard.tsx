@@ -21,7 +21,6 @@ import type {
   ChapterManifest,
   CollectionItem,
   PracticeManifest,
-  PrayerItemManifest,
 } from '@/content/manifestTypes'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
@@ -36,11 +35,9 @@ function bareId(corpusId: string): string {
 
 export function ItemCard({
   item,
-  onOpenPrayer,
   onSeeAlsoTap,
 }: {
   item: CollectionItem
-  onOpenPrayer: (prayerId: string) => void
   onSeeAlsoTap: (ref: string) => void
 }) {
   const router = useRouter()
@@ -121,21 +118,6 @@ export function ItemCard({
       >
         <CardBody
           title={localizeContent(name)}
-          annotation={item.annotation}
-          seeAlso={item.seeAlso}
-          onSeeAlsoTap={onSeeAlsoTap}
-        />
-      </Row>
-    )
-  }
-
-  if (entry.kind === 'prayer') {
-    const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
-    const title = item.label ?? body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }
-    return (
-      <Row accessibilityLabel={localizeContent(title)} onPress={() => onOpenPrayer(id)}>
-        <CardBody
-          title={localizeContent(title)}
           annotation={item.annotation}
           seeAlso={item.seeAlso}
           onSeeAlsoTap={onSeeAlsoTap}

@@ -21,14 +21,7 @@ import { usePinnedItems } from '@/features/pinning/hooks'
 import { useAllSlots, useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
-import {
-  AllPrayersList,
-  CollectionCard,
-  EssentialPrayersRow,
-  PrayerModal,
-  PrayNowCard,
-  SearchAutocomplete,
-} from '@/features/practices/components'
+import { CollectionCard, PrayNowCard, SearchAutocomplete } from '@/features/practices/components'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { localizeContent } from '@/lib/i18n'
 
@@ -205,7 +198,6 @@ export default function PracticeCatalogScreen() {
   const [activeCategory, setActiveCategory] = useState<string | undefined>()
   const [pinnedOnly, setPinnedOnly] = useState(false)
   const [showEditor, setShowEditor] = useState(false)
-  const [selectedPrayerId, setSelectedPrayerId] = useState<string | undefined>()
   const createPractice = useCreatePractice()
 
   const isSearching = searchQuery.trim().length > 0
@@ -341,9 +333,7 @@ export default function PracticeCatalogScreen() {
 
       {SearchBar}
 
-      {isSearching && (
-        <SearchAutocomplete query={searchQuery} onSelectPrayer={setSelectedPrayerId} />
-      )}
+      {isSearching && <SearchAutocomplete query={searchQuery} />}
 
       {!isSearching && (
         <>
@@ -363,20 +353,6 @@ export default function PracticeCatalogScreen() {
               </ScrollView>
             </YStack>
           )}
-
-          <YStack gap="$sm">
-            <Text fontFamily="$heading" fontSize="$3" color="$color">
-              {t('pray.essentialPrayers')}
-            </Text>
-            <EssentialPrayersRow onSelect={setSelectedPrayerId} />
-          </YStack>
-
-          <YStack gap="$sm">
-            <Text fontFamily="$heading" fontSize="$3" color="$color">
-              {t('pray.allPrayers')}
-            </Text>
-            <AllPrayersList onSelect={setSelectedPrayerId} />
-          </YStack>
 
           <SectionDivider />
 
@@ -513,8 +489,6 @@ export default function PracticeCatalogScreen() {
           </YStack>
         </Modal>
       </ScreenLayout>
-
-      <PrayerModal prayerId={selectedPrayerId} onClose={() => setSelectedPrayerId(undefined)} />
     </View>
   )
 }

@@ -1,144 +1,413 @@
 {
-  "id": "collection/novenas",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Traditional Novenas",
-    "pt-BR": "Novenas Tradicionais"
-  },
-  "description": {
-    "en-US": "Classic Catholic novenas for sustained devotional prayer.",
-    "pt-BR": "Novenas católicas clássicas para uma vida de oração perseverante."
-  },
-  "icon": "candle",
-  "languages": [
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "novena",
-    "devotion",
-    "marian"
-  ],
-  "defaults": {
-    "autoSeed": false
-  },
-  "prologue": {
-    "body": {
-      "en-US": "A novena is nine days of prayer — a small spiritual journey held in a single intention. The Church remembers that the Apostles and Mary spent nine days in prayer between the Ascension and Pentecost, awaiting the Holy Spirit. Every novena since stands in that same waiting.",
-      "pt-BR": "Uma novena são nove dias de oração — uma pequena jornada espiritual mantida em uma única intenção. A Igreja recorda que os Apóstolos e Maria passaram nove dias em oração entre a Ascensão e Pentecostes, esperando o Espírito Santo. Toda novena desde então permanece nessa mesma espera."
-    }
-  },
-  "sections": [
-    {
-      "id": "to-our-lord",
-      "title": {
-        "en-US": "To Our Lord",
-        "pt-BR": "Ao Senhor"
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/novena-sacred-heart" },
-        { "kind": "item", "ref": "practice/divine-mercy-novena" }
-      ]
-    },
-    {
-      "id": "to-the-holy-spirit",
-      "title": {
-        "en-US": "To the Holy Spirit",
-        "pt-BR": "Ao Espírito Santo"
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/novena-holy-spirit" }
-      ]
-    },
-    {
-      "id": "to-our-lady",
-      "title": {
-        "en-US": "To Our Lady",
-        "pt-BR": "À Nossa Senhora"
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/rosary-54-day-novena" },
-        { "kind": "item", "ref": "practice/miraculous-medal-novena" },
-        { "kind": "item", "ref": "practice/perpetual-help-novena" },
-        { "kind": "item", "ref": "practice/our-lady-aparecida-novena" },
-        { "kind": "item", "ref": "practice/guadalupe-novena" },
-        { "kind": "item", "ref": "practice/mount-carmel-novena" }
-      ]
-    },
-    {
-      "id": "to-the-saints",
-      "title": {
-        "en-US": "To the Saints",
-        "pt-BR": "Aos Santos"
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/st-joseph-novena" },
-        { "kind": "item", "ref": "practice/st-michael-novena" },
-        { "kind": "item", "ref": "practice/st-jude-novena" },
-        { "kind": "item", "ref": "practice/st-therese-novena" },
-        { "kind": "item", "ref": "practice/st-anthony-novena" }
-      ]
-    },
-    {
-      "id": "for-special-intentions",
-      "title": {
-        "en-US": "For Special Intentions",
-        "pt-BR": "Para Intenções Especiais"
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/novena-for-the-sick-escriva" }
-      ]
-    },
-    {
-      "id": "to-source",
-      "title": { "en-US": "Coming Soon — Liturgical Year", "pt-BR": "Em Breve — Ano Litúrgico" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Christmas Novena (Dec 16–24)", "pt-BR": "Novena de Natal (16–24 dez)" }, "proposedKind": "practice", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Novena of Grace to St. Francis Xavier (Mar 4–12)", "pt-BR": "Novena da Graça a São Francisco Xavier (4–12 mar)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Christ the King", "pt-BR": "Novena a Cristo Rei" }, "notes": { "en-US": "Last week before the Solemnity.", "pt-BR": "Última semana antes da Solenidade." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Our Lady of Sorrows (Sept 7–15)", "pt-BR": "Novena a Nossa Senhora das Dores (7–15 set)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena for the Faithful Departed (Nov 1–9)", "pt-BR": "Novena de Finados pelos Fiéis Defuntos (1–9 nov)" }, "notes": { "en-US": "Cross-list with For the Faithful Departed.", "pt-BR": "Cruzar com Pelos Fiéis Defuntos." }, "proposedKind": "practice", "priority": "high" }
-      ]
-    },
-    {
-      "id": "to-source-marian",
-      "title": { "en-US": "Coming Soon — Marian", "pt-BR": "Em Breve — Marianas" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Pompeii Novena", "pt-BR": "Novena de Pompeia" }, "notes": { "en-US": "The original 54-day form, Bl. Bartolo Longo.", "pt-BR": "Forma original de 54 dias, Bem-aventurado Bartolo Longo." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Our Lady, Undoer of Knots", "pt-BR": "Novena a Nossa Senhora Desatadora dos Nós" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Our Lady of Lourdes (Feb 2–10)", "pt-BR": "Novena a Nossa Senhora de Lourdes (2–10 fev)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Our Lady of Fatima", "pt-BR": "Novena a Nossa Senhora de Fátima" }, "notes": { "en-US": "May 5–13, Aug 13–22, Oct 5–13.", "pt-BR": "5–13 mai, 13–22 ago, 5–13 out." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Our Lady of La Salette", "pt-BR": "Novena a Nossa Senhora de La Salette" }, "proposedKind": "practice" }
-      ]
-    },
-    {
-      "id": "to-source-saints",
-      "title": { "en-US": "Coming Soon — To the Saints", "pt-BR": "Em Breve — Aos Santos" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Novena to St. Faustina (Sept 25 – Oct 4)", "pt-BR": "Novena a Santa Faustina (25 set – 4 out)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Pio of Pietrelcina (Sept 14–22)", "pt-BR": "Novena a São Pio de Pietrelcina (14–22 set)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Maria Goretti (Jul 4–12)", "pt-BR": "Novena a Santa Maria Goretti (4–12 jul)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Maximilian Kolbe (Aug 6–14)", "pt-BR": "Novena a São Maximiliano Kolbe (6–14 ago)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to Bl. Carlo Acutis", "pt-BR": "Novena ao Bem-aventurado Carlo Acutis" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Joseph the Worker (Apr 22 – May 1)", "pt-BR": "Novena a São José Operário (22 abr – 1 mai)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Francis of Assisi (Sept 26 – Oct 4)", "pt-BR": "Novena a São Francisco de Assis (26 set – 4 out)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Dominic", "pt-BR": "Novena a São Domingos" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Ignatius of Loyola (Jul 22–30)", "pt-BR": "Novena a Santo Inácio de Loyola (22–30 jul)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Augustine (Aug 19–27)", "pt-BR": "Novena a Santo Agostinho (19–27 ago)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Monica", "pt-BR": "Novena a Santa Mônica" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Rita of Cascia (May 13–21)", "pt-BR": "Novena a Santa Rita de Cássia (13–21 mai)" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena to St. Teresa of Calcutta", "pt-BR": "Novena a Santa Teresa de Calcutá" }, "proposedKind": "practice" }
-      ]
-    },
-    {
-      "id": "to-source-needs",
-      "title": { "en-US": "Coming Soon — For Specific Needs", "pt-BR": "Em Breve — Para Necessidades Específicas" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Surrender Novena (Fr. Dolindo)", "pt-BR": "Novena do Abandono (Pe. Dolindo)" }, "notes": { "en-US": "*Jesus, You take over!*", "pt-BR": "*Jesus, Tu pensas em mim!*" }, "proposedKind": "practice", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "Novena for Vocations", "pt-BR": "Novena pelas Vocações" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena for a Family in Crisis", "pt-BR": "Novena por uma Família em Crise" }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Novena for the Conversion of a Loved One", "pt-BR": "Novena pela Conversão de um Ente Querido" }, "proposedKind": "practice" }
-      ]
-    }
-  ]
+	"id": "collection/novenas",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Traditional Novenas",
+		"pt-BR": "Novenas Tradicionais"
+	},
+	"description": {
+		"en-US": "Classic Catholic novenas for sustained devotional prayer.",
+		"pt-BR": "Novenas católicas clássicas para uma vida de oração perseverante."
+	},
+	"icon": "candle",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"novena",
+		"devotion",
+		"marian"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "A novena is nine days of prayer — a small spiritual journey held in a single intention. The Church remembers that the Apostles and Mary spent nine days in prayer between the Ascension and Pentecost, awaiting the Holy Spirit. Every novena since stands in that same waiting.",
+			"pt-BR": "Uma novena são nove dias de oração — uma pequena jornada espiritual mantida em uma única intenção. A Igreja recorda que os Apóstolos e Maria passaram nove dias em oração entre a Ascensão e Pentecostes, esperando o Espírito Santo. Toda novena desde então permanece nessa mesma espera."
+		}
+	},
+	"sections": [
+		{
+			"id": "to-our-lord",
+			"title": {
+				"en-US": "To Our Lord",
+				"pt-BR": "Ao Senhor"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/novena-sacred-heart"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/divine-mercy-novena"
+				}
+			]
+		},
+		{
+			"id": "to-the-holy-spirit",
+			"title": {
+				"en-US": "To the Holy Spirit",
+				"pt-BR": "Ao Espírito Santo"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/novena-holy-spirit"
+				}
+			]
+		},
+		{
+			"id": "to-our-lady",
+			"title": {
+				"en-US": "To Our Lady",
+				"pt-BR": "À Nossa Senhora"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/rosary-54-day-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/miraculous-medal-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/perpetual-help-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-lady-aparecida-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/guadalupe-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mount-carmel-novena"
+				}
+			]
+		},
+		{
+			"id": "to-the-saints",
+			"title": {
+				"en-US": "To the Saints",
+				"pt-BR": "Aos Santos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/st-joseph-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-michael-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-jude-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-therese-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-anthony-novena"
+				}
+			]
+		},
+		{
+			"id": "for-special-intentions",
+			"title": {
+				"en-US": "For Special Intentions",
+				"pt-BR": "Para Intenções Especiais"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/novena-for-the-sick-escriva"
+				}
+			]
+		},
+		{
+			"id": "to-source",
+			"title": {
+				"en-US": "Coming Soon — Liturgical Year",
+				"pt-BR": "Em Breve — Ano Litúrgico"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Christmas Novena (Dec 16–24)",
+						"pt-BR": "Novena de Natal (16–24 dez)"
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena of Grace to St. Francis Xavier (Mar 4–12)",
+						"pt-BR": "Novena da Graça a São Francisco Xavier (4–12 mar)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Christ the King",
+						"pt-BR": "Novena a Cristo Rei"
+					},
+					"notes": {
+						"en-US": "Last week before the Solemnity.",
+						"pt-BR": "Última semana antes da Solenidade."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Our Lady of Sorrows (Sept 7–15)",
+						"pt-BR": "Novena a Nossa Senhora das Dores (7–15 set)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena for the Faithful Departed (Nov 1–9)",
+						"pt-BR": "Novena de Finados pelos Fiéis Defuntos (1–9 nov)"
+					},
+					"notes": {
+						"en-US": "Cross-list with For the Faithful Departed.",
+						"pt-BR": "Cruzar com Pelos Fiéis Defuntos."
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "to-source-marian",
+			"title": {
+				"en-US": "Coming Soon — Marian",
+				"pt-BR": "Em Breve — Marianas"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Pompeii Novena",
+						"pt-BR": "Novena de Pompeia"
+					},
+					"notes": {
+						"en-US": "The original 54-day form, Bl. Bartolo Longo.",
+						"pt-BR": "Forma original de 54 dias, Bem-aventurado Bartolo Longo."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Our Lady, Undoer of Knots",
+						"pt-BR": "Novena a Nossa Senhora Desatadora dos Nós"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Our Lady of Lourdes (Feb 2–10)",
+						"pt-BR": "Novena a Nossa Senhora de Lourdes (2–10 fev)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Our Lady of Fatima",
+						"pt-BR": "Novena a Nossa Senhora de Fátima"
+					},
+					"notes": {
+						"en-US": "May 5–13, Aug 13–22, Oct 5–13.",
+						"pt-BR": "5–13 mai, 13–22 ago, 5–13 out."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Our Lady of La Salette",
+						"pt-BR": "Novena a Nossa Senhora de La Salette"
+					},
+					"proposedKind": "practice"
+				}
+			]
+		},
+		{
+			"id": "to-source-saints",
+			"title": {
+				"en-US": "Coming Soon — To the Saints",
+				"pt-BR": "Em Breve — Aos Santos"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Faustina (Sept 25 – Oct 4)",
+						"pt-BR": "Novena a Santa Faustina (25 set – 4 out)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Pio of Pietrelcina (Sept 14–22)",
+						"pt-BR": "Novena a São Pio de Pietrelcina (14–22 set)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Maria Goretti (Jul 4–12)",
+						"pt-BR": "Novena a Santa Maria Goretti (4–12 jul)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Maximilian Kolbe (Aug 6–14)",
+						"pt-BR": "Novena a São Maximiliano Kolbe (6–14 ago)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to Bl. Carlo Acutis",
+						"pt-BR": "Novena ao Bem-aventurado Carlo Acutis"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Joseph the Worker (Apr 22 – May 1)",
+						"pt-BR": "Novena a São José Operário (22 abr – 1 mai)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Francis of Assisi (Sept 26 – Oct 4)",
+						"pt-BR": "Novena a São Francisco de Assis (26 set – 4 out)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Dominic",
+						"pt-BR": "Novena a São Domingos"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Ignatius of Loyola (Jul 22–30)",
+						"pt-BR": "Novena a Santo Inácio de Loyola (22–30 jul)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Augustine (Aug 19–27)",
+						"pt-BR": "Novena a Santo Agostinho (19–27 ago)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Monica",
+						"pt-BR": "Novena a Santa Mônica"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Rita of Cascia (May 13–21)",
+						"pt-BR": "Novena a Santa Rita de Cássia (13–21 mai)"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena to St. Teresa of Calcutta",
+						"pt-BR": "Novena a Santa Teresa de Calcutá"
+					},
+					"proposedKind": "practice"
+				}
+			]
+		},
+		{
+			"id": "to-source-needs",
+			"title": {
+				"en-US": "Coming Soon — For Specific Needs",
+				"pt-BR": "Em Breve — Para Necessidades Específicas"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Surrender Novena (Fr. Dolindo)",
+						"pt-BR": "Novena do Abandono (Pe. Dolindo)"
+					},
+					"notes": {
+						"en-US": "*Jesus, You take over!*",
+						"pt-BR": "*Jesus, Tu pensas em mim!*"
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena for Vocations",
+						"pt-BR": "Novena pelas Vocações"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena for a Family in Crisis",
+						"pt-BR": "Novena por uma Família em Crise"
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Novena for the Conversion of a Loved One",
+						"pt-BR": "Novena pela Conversão de um Ente Querido"
+					},
+					"proposedKind": "practice"
+				}
+			]
+		}
+	]
 }

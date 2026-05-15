@@ -1,429 +1,922 @@
 {
-  "id": "collection/base",
-  "version": "1.0.0",
-  "name": {
-    "en-US": "Catholic Daily Prayers",
-    "pt-BR": "Orações Católicas Diárias"
-  },
-  "description": {
-    "en-US": "The essential Catholic prayer companion for your daily plan of life.",
-    "pt-BR": "O companheiro essencial de oração católica para seu plano de vida diário."
-  },
-  "icon": "prayer",
-  "languages": [
-    "en-US",
-    "pt-BR"
-  ],
-  "tags": [
-    "default",
-    "daily",
-    "essential"
-  ],
-  "defaults": {
-    "autoSeed": true
-  },
-  "sections": [
-    {
-      "id": "daily-practices",
-      "title": {
-        "en-US": "Daily Practices",
-        "pt-BR": "Práticas Diárias"
-      },
-      "description": {
-        "body": {
-          "en-US": "The staples of a Catholic rule of life — the routines that hold the day together.",
-          "pt-BR": "Os pilares de uma regra de vida católica — as rotinas que sustentam o dia."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/morning-offering" },
-        { "kind": "item", "ref": "practice/mass" },
-        { "kind": "item", "ref": "practice/rosary" },
-        { "kind": "item", "ref": "practice/angelus" },
-        { "kind": "item", "ref": "practice/regina-caeli" },
-        { "kind": "item", "ref": "practice/mental-prayer" },
-        { "kind": "item", "ref": "practice/spiritual-reading" },
-        { "kind": "item", "ref": "practice/gospel-of-the-day" },
-        { "kind": "item", "ref": "practice/grace-meals" },
-        { "kind": "item", "ref": "practice/examination-of-conscience" },
-        { "kind": "item", "ref": "practice/night-prayer" },
-        { "kind": "item", "ref": "practice/confession" },
-        { "kind": "item", "ref": "practice/holy-hour" },
-        { "kind": "item", "ref": "practice/stations-of-the-cross" },
-        { "kind": "item", "ref": "practice/catechetical-formation" }
-      ]
-    },
-    {
-      "id": "foundational-prayers",
-      "title": {
-        "en-US": "Foundational Prayers",
-        "pt-BR": "Orações Fundamentais"
-      },
-      "description": {
-        "body": {
-          "en-US": "Every Catholic learns these by heart. The core prayers, creeds, and acts the faith returns to again and again.",
-          "pt-BR": "Toda alma católica aprende estas de cor. As orações, credos e atos a que a fé retorna sempre."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/sign-of-cross" },
-        { "kind": "item", "ref": "prayer/our-father" },
-        { "kind": "item", "ref": "prayer/hail-mary" },
-        { "kind": "item", "ref": "prayer/glory-be" },
-        { "kind": "item", "ref": "prayer/apostles-creed" },
-        { "kind": "item", "ref": "prayer/nicene-creed" },
-        {
-          "kind": "section",
-          "id": "acts",
-          "title": {
-            "en-US": "Acts",
-            "pt-BR": "Atos"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "prayer/act-of-contrition" },
-            { "kind": "item", "ref": "practice/act-contrition" },
-            { "kind": "item", "ref": "prayer/act-of-faith" },
-            { "kind": "item", "ref": "prayer/act-of-hope" },
-            { "kind": "item", "ref": "prayer/act-of-charity" },
-            { "kind": "item", "ref": "practice/acts-faith-hope-charity" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "at-table",
-          "title": {
-            "en-US": "At Table",
-            "pt-BR": "À Mesa"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "prayer/grace-before-meals" },
-            { "kind": "item", "ref": "prayer/grace-after-meals" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "devotions",
-      "title": {
-        "en-US": "Devotions",
-        "pt-BR": "Devoções"
-      },
-      "description": {
-        "body": {
-          "en-US": "Prayers and practices the tradition has woven around Our Lord, Our Lady, and the saints.",
-          "pt-BR": "Orações e práticas que a tradição teceu ao redor de Nosso Senhor, Nossa Senhora e dos santos."
-        }
-      },
-      "blocks": [
-        {
-          "kind": "section",
-          "id": "marian",
-          "title": {
-            "en-US": "Marian",
-            "pt-BR": "Marianas"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "practice/memorare" },
-            { "kind": "item", "ref": "prayer/memorare" },
-            { "kind": "item", "ref": "prayer/fatima-prayer" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "to-the-saints",
-          "title": {
-            "en-US": "To the Saints",
-            "pt-BR": "Aos Santos"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "practice/guardian-angel" },
-            { "kind": "item", "ref": "prayer/angele-dei" },
-            { "kind": "item", "ref": "practice/prayer-st-michael" },
-            { "kind": "item", "ref": "prayer/st-michael" },
-            { "kind": "item", "ref": "practice/prayer-st-joseph" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "eucharistic",
-          "title": {
-            "en-US": "Eucharistic",
-            "pt-BR": "Eucarísticas"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "practice/spiritual-communion" },
-            { "kind": "item", "ref": "practice/thanksgiving-mass" },
-            { "kind": "item", "ref": "practice/anima-christi" },
-            { "kind": "item", "ref": "prayer/anima-christi" },
-            { "kind": "item", "ref": "prayer/adoro-te-devote" },
-            { "kind": "item", "ref": "prayer/tantum-ergo" },
-            { "kind": "item", "ref": "prayer/o-salutaris-hostia" },
-            { "kind": "item", "ref": "practice/suscipe" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "marian-antiphons",
-      "title": {
-        "en-US": "Marian Antiphons",
-        "pt-BR": "Antífonas Marianas"
-      },
-      "description": {
-        "body": {
-          "en-US": "The four ancient antiphons that close the day across the seasons of the Church year.",
-          "pt-BR": "As antigas antífonas que fecham o dia ao longo das estações do ano litúrgico."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/sub-tuum-praesidium" },
-        { "kind": "item", "ref": "prayer/hail-holy-queen" },
-        { "kind": "item", "ref": "prayer/regina-caeli" }
-      ]
-    },
-    {
-      "id": "hymns-and-canticles",
-      "title": {
-        "en-US": "Hymns and Canticles",
-        "pt-BR": "Hinos e Cânticos"
-      },
-      "description": {
-        "body": {
-          "en-US": "The voice of the Church in its great moments — the Gospel canticles, the hymn of thanksgiving, the breath that calls down the Spirit.",
-          "pt-BR": "A voz da Igreja em seus grandes momentos — os cânticos evangélicos, o hino de ação de graças, o sopro que invoca o Espírito."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/benedictus" },
-        { "kind": "item", "ref": "prayer/magnificat" },
-        { "kind": "item", "ref": "prayer/nunc-dimittis" },
-        { "kind": "item", "ref": "prayer/te-deum" },
-        { "kind": "item", "ref": "prayer/veni-creator-spiritus" },
-        { "kind": "item", "ref": "prayer/come-holy-spirit" },
-        { "kind": "item", "ref": "prayer/prayer-of-st-francis" },
-        { "kind": "item", "ref": "prayer/prayer-before-crucifix" },
-        { "kind": "item", "ref": "prayer/opening-verse" }
-      ]
-    },
-    {
-      "id": "for-the-faithful-departed",
-      "title": {
-        "en-US": "For the Faithful Departed",
-        "pt-BR": "Pelos Fiéis Defuntos"
-      },
-      "description": {
-        "body": {
-          "en-US": "From the depths the Church cries out for those who have gone before us in the sign of faith.",
-          "pt-BR": "Das profundezas a Igreja clama por aqueles que nos precederam no sinal da fé."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "prayer/de-profundis" },
-        { "kind": "item", "ref": "prayer/eternal-rest" }
-      ]
-    },
-    {
-      "id": "scripture-for-times-of-the-heart",
-      "title": {
-        "en-US": "Scripture for Times of the Heart",
-        "pt-BR": "Escrituras para os Tempos do Coração"
-      },
-      "description": {
-        "body": {
-          "en-US": "Short scripture practices for what the day brings — anxiety, gratitude, suffering, joy.",
-          "pt-BR": "Pequenas práticas de Escritura para o que o dia traz — ansiedade, gratidão, sofrimento, alegria."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "practice/scripture-anxiety" },
-        { "kind": "item", "ref": "practice/scripture-gratitude" },
-        { "kind": "item", "ref": "practice/scripture-suffering" },
-        { "kind": "item", "ref": "practice/scripture-joy" },
-        { "kind": "item", "ref": "practice/scripture-forgiveness" },
-        { "kind": "item", "ref": "practice/scripture-courage" },
-        { "kind": "item", "ref": "practice/scripture-trust" },
-        { "kind": "item", "ref": "practice/scripture-love" }
-      ]
-    },
-    {
-      "id": "catechetical-index",
-      "title": {
-        "en-US": "Catechetical Index",
-        "pt-BR": "Índice Catequético"
-      },
-      "description": {
-        "body": {
-          "en-US": "The structure of the Catholic life at a glance — what to believe, how to live, the means of grace.",
-          "pt-BR": "A estrutura da vida católica num relance — o que crer, como viver, os meios da graça."
-        }
-      },
-      "blocks": [
-        { "kind": "item", "ref": "chapter/ten-commandments" },
-        { "kind": "item", "ref": "chapter/beatitudes" },
-        { "kind": "item", "ref": "chapter/precepts-of-the-church" },
-        { "kind": "item", "ref": "chapter/seven-sacraments" },
-        { "kind": "item", "ref": "chapter/works-of-mercy" },
-        { "kind": "item", "ref": "chapter/virtues" },
-        { "kind": "item", "ref": "chapter/capital-sins-and-virtues" },
-        { "kind": "item", "ref": "chapter/gifts-and-fruits-of-the-holy-spirit" }
-      ]
-    },
-    {
-      "id": "formation-library",
-      "title": {
-        "en-US": "Formation Library",
-        "pt-BR": "Biblioteca de Formação"
-      },
-      "description": {
-        "body": {
-          "en-US": "Short readings on prayer, conversion, the Christian life, and the seasons when prayer is hard.",
-          "pt-BR": "Pequenas leituras sobre oração, conversão, a vida cristã e as estações em que orar é difícil."
-        }
-      },
-      "blocks": [
-        {
-          "kind": "section",
-          "id": "how-to-pray",
-          "title": {
-            "en-US": "How to Pray",
-            "pt-BR": "Como Rezar"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "chapter/how-to-pray" },
-            { "kind": "item", "ref": "chapter/mental-prayer" },
-            { "kind": "item", "ref": "chapter/lectio-divina" },
-            { "kind": "item", "ref": "chapter/ignatian-examen" },
-            { "kind": "item", "ref": "chapter/how-to-pray-the-rosary-well" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "confession-and-conversion",
-          "title": {
-            "en-US": "Confession & Conversion",
-            "pt-BR": "Confissão & Conversão"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "chapter/how-to-make-a-good-confession" },
-            { "kind": "item", "ref": "chapter/returning-to-confession" },
-            { "kind": "item", "ref": "chapter/predominant-fault" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "the-christian-life",
-          "title": {
-            "en-US": "The Christian Life",
-            "pt-BR": "A Vida Cristã"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "chapter/plan-of-life" },
-            { "kind": "item", "ref": "chapter/the-baptism-you-already-have" },
-            { "kind": "item", "ref": "chapter/the-first-year-after-reception" },
-            { "kind": "item", "ref": "chapter/the-first-mass-back" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "prayer-in-difficulty",
-          "title": {
-            "en-US": "Prayer in Difficulty",
-            "pt-BR": "Oração na Dificuldade"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "chapter/when-prayer-goes-dark" },
-            { "kind": "item", "ref": "chapter/feeling-and-faith" },
-            { "kind": "item", "ref": "chapter/the-book-and-the-silence" },
-            { "kind": "item", "ref": "chapter/pacing-one-thing-at-a-time" },
-            { "kind": "item", "ref": "chapter/measuring-what-cannot-be-measured" },
-            { "kind": "item", "ref": "chapter/the-psalter-in-the-dark" }
-          ]
-        },
-        {
-          "kind": "section",
-          "id": "marian-and-liturgical",
-          "title": {
-            "en-US": "Marian and Liturgical",
-            "pt-BR": "Mariana e Litúrgica"
-          },
-          "blocks": [
-            { "kind": "item", "ref": "chapter/marian-devotion-from-scratch" },
-            { "kind": "item", "ref": "chapter/what-the-mass-is" },
-            { "kind": "item", "ref": "chapter/the-form-and-the-fire" }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "books",
-      "title": {
-        "en-US": "Books",
-        "pt-BR": "Livros"
-      },
-      "description": {
-        "body": {
-          "en-US": "Full catechetical works for sustained study.",
-          "pt-BR": "Obras catequéticas completas para estudo prolongado."
-        }
-      },
-      "defaultCollapsed": true,
-      "blocks": [
-        { "kind": "item", "ref": "book/catechetical-formation" },
-        { "kind": "item", "ref": "book/catechetical-instructions" },
-        { "kind": "item", "ref": "book/catechism-pius-x-1912" },
-        { "kind": "item", "ref": "book/catechism-of-trent" }
-      ]
-    },
-    {
-      "id": "to-source-foundational",
-      "title": { "en-US": "Coming Soon — Foundational Prayers", "pt-BR": "Em Breve — Orações Fundamentais" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Athanasian Creed (Quicumque vult)", "pt-BR": "Símbolo Atanasiano (Quicumque vult)" }, "notes": { "en-US": "The third great creed of the Western Church.", "pt-BR": "O terceiro grande símbolo da Igreja do Ocidente." }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "Veni Sancte Spiritus (Pentecost sequence)", "pt-BR": "Veni Sancte Spiritus (sequência de Pentecostes)" }, "proposedKind": "prayer" },
-        { "kind": "todo", "title": { "en-US": "Seven Penitential Psalms", "pt-BR": "Sete Salmos Penitenciais" }, "notes": { "en-US": "Cross-list with Confession & Conversion.", "pt-BR": "Cruzar com Confissão e Conversão." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "The Divine Praises", "pt-BR": "Os Louvores Divinos" }, "notes": { "en-US": "*Blessed be God, blessed be His Holy Name…*", "pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…*" }, "proposedKind": "prayer" }
-      ]
-    },
-    {
-      "id": "to-source-aspirations",
-      "title": { "en-US": "Coming Soon — Aspirations", "pt-BR": "Em Breve — Jaculatórias" },
-      "blocks": [
-        {
-          "kind": "todo",
-          "title": { "en-US": "Daily aspirations practice", "pt-BR": "Prática diária de jaculatórias" },
-          "notes": { "en-US": "Short prayers throughout the day — *My Jesus, mercy*; *Sacred Heart, I trust in You*; *Mary, my mother and my hope*; *All for Thee, most Sacred Heart*; *Eternal Father, I offer Thee…*", "pt-BR": "Orações curtas ao longo do dia — *Meu Jesus, misericórdia*; *Sagrado Coração, em Vós confio*; *Maria, mãe minha e esperança minha*; *Tudo por Vós, Sacratíssimo Coração*; *Eterno Pai, eu Vos ofereço…*" },
-          "proposedKind": "practice",
-          "priority": "high"
-        }
-      ]
-    },
-    {
-      "id": "to-source-catechetical",
-      "title": { "en-US": "Coming Soon — Catechetical Chapters", "pt-BR": "Em Breve — Capítulos Catequéticos" },
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "The Lord's Prayer — petition-by-petition", "pt-BR": "O Pai-Nosso — petição por petição" }, "proposedKind": "chapter", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "The Hail Mary — phrase-by-phrase", "pt-BR": "A Ave-Maria — frase por frase" }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "The Apostles' Creed — article-by-article", "pt-BR": "O Símbolo dos Apóstolos — artigo por artigo" }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Examination of life by the Beatitudes", "pt-BR": "Exame de vida pelas Bem-aventuranças" }, "notes": { "en-US": "Companion practice to the existing Beatitudes chapter.", "pt-BR": "Prática companheira do capítulo existente sobre as Bem-aventuranças." }, "proposedKind": "practice" },
-        { "kind": "todo", "title": { "en-US": "Chapter on indulgences", "pt-BR": "Capítulo sobre indulgências" }, "notes": { "en-US": "What they are, how to gain them, the standard conditions.", "pt-BR": "O que são, como ganhá-las, as condições padrão." }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter: Devotional life vs. liturgical life", "pt-BR": "Capítulo: Vida devocional vs. vida litúrgica" }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter: Sunday obligation and Sunday rest", "pt-BR": "Capítulo: Obrigação dominical e descanso" }, "notes": { "en-US": "What the Third Commandment asks.", "pt-BR": "O que o Terceiro Mandamento pede." }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter: The Eucharistic fast and proper preparation", "pt-BR": "Capítulo: O jejum eucarístico e a preparação" }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter on modesty in dress and speech", "pt-BR": "Capítulo sobre modéstia no vestir e no falar" }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter on almsgiving", "pt-BR": "Capítulo sobre a esmola" }, "notes": { "en-US": "Beyond the Gospel command — a practical framework.", "pt-BR": "Para além do mandamento evangélico — um quadro prático." }, "proposedKind": "chapter" },
-        { "kind": "todo", "title": { "en-US": "Chapter on Christian friendship and community", "pt-BR": "Capítulo sobre a amizade e a comunidade cristã" }, "proposedKind": "chapter" }
-      ]
-    },
-    {
-      "id": "to-source-books",
-      "title": { "en-US": "Coming Soon — Books", "pt-BR": "Em Breve — Livros" },
-      "defaultCollapsed": true,
-      "blocks": [
-        { "kind": "todo", "title": { "en-US": "Compendium of the Catechism of the Catholic Church", "pt-BR": "Compêndio do Catecismo da Igreja Católica" }, "proposedKind": "book", "priority": "high" },
-        { "kind": "todo", "title": { "en-US": "YOUCAT", "pt-BR": "YOUCAT" }, "notes": { "en-US": "License-permitting.", "pt-BR": "Se a licença permitir." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Catechism of the Catholic Church (full text)", "pt-BR": "Catecismo da Igreja Católica (texto integral)" }, "notes": { "en-US": "License-permitting.", "pt-BR": "Se a licença permitir." }, "proposedKind": "book" },
-        { "kind": "todo", "title": { "en-US": "Imitation of Christ as a daily reader", "pt-BR": "Imitação de Cristo como leitor diário" }, "notes": { "en-US": "Already in Spiritual Classics; cross-list here as the everyday devotional book.", "pt-BR": "Já em Clássicos Espirituais; cruzar aqui como leitor devocional diário." }, "proposedKind": "book" }
-      ]
-    }
-  ]
+	"id": "collection/base",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Catholic Daily Prayers",
+		"pt-BR": "Orações Católicas Diárias"
+	},
+	"description": {
+		"en-US": "The essential Catholic prayer companion for your daily plan of life.",
+		"pt-BR": "O companheiro essencial de oração católica para seu plano de vida diário."
+	},
+	"icon": "prayer",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"default",
+		"daily",
+		"essential"
+	],
+	"defaults": {
+		"autoSeed": true
+	},
+	"sections": [
+		{
+			"id": "daily-practices",
+			"title": {
+				"en-US": "Daily Practices",
+				"pt-BR": "Práticas Diárias"
+			},
+			"description": {
+				"body": {
+					"en-US": "The staples of a Catholic rule of life — the routines that hold the day together.",
+					"pt-BR": "Os pilares de uma regra de vida católica — as rotinas que sustentam o dia."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/morning-offering"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/rosary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/angelus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/regina-caeli"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/spiritual-reading"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/gospel-of-the-day"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/grace-meals"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/examination-of-conscience"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/night-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/confession"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/stations-of-the-cross"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/catechetical-formation"
+				}
+			]
+		},
+		{
+			"id": "foundational-prayers",
+			"title": {
+				"en-US": "Foundational Prayers",
+				"pt-BR": "Orações Fundamentais"
+			},
+			"description": {
+				"body": {
+					"en-US": "Every Catholic learns these by heart. The core prayers, creeds, and acts the faith returns to again and again.",
+					"pt-BR": "Toda alma católica aprende estas de cor. As orações, credos e atos a que a fé retorna sempre."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/sign-of-cross"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-father"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/hail-mary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/glory-be"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/apostles-creed"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nicene-creed"
+				},
+				{
+					"kind": "section",
+					"id": "acts",
+					"title": {
+						"en-US": "Acts",
+						"pt-BR": "Atos"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "practice/act-of-contrition"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/act-contrition"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/act-of-faith"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/act-of-hope"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/act-of-charity"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/acts-faith-hope-charity"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "at-table",
+					"title": {
+						"en-US": "At Table",
+						"pt-BR": "À Mesa"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "practice/grace-before-meals"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/grace-after-meals"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "devotions",
+			"title": {
+				"en-US": "Devotions",
+				"pt-BR": "Devoções"
+			},
+			"description": {
+				"body": {
+					"en-US": "Prayers and practices the tradition has woven around Our Lord, Our Lady, and the saints.",
+					"pt-BR": "Orações e práticas que a tradição teceu ao redor de Nosso Senhor, Nossa Senhora e dos santos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "section",
+					"id": "marian",
+					"title": {
+						"en-US": "Marian",
+						"pt-BR": "Marianas"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "practice/memorare"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/memorare"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/fatima-prayer"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "to-the-saints",
+					"title": {
+						"en-US": "To the Saints",
+						"pt-BR": "Aos Santos"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "practice/guardian-angel"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/angele-dei"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/prayer-st-michael"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/st-michael"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/prayer-st-joseph"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "eucharistic",
+					"title": {
+						"en-US": "Eucharistic",
+						"pt-BR": "Eucarísticas"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "practice/spiritual-communion"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/thanksgiving-mass"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/anima-christi"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/anima-christi"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/adoro-te-devote"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/tantum-ergo"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/o-salutaris-hostia"
+						},
+						{
+							"kind": "item",
+							"ref": "practice/suscipe"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "marian-antiphons",
+			"title": {
+				"en-US": "Marian Antiphons",
+				"pt-BR": "Antífonas Marianas"
+			},
+			"description": {
+				"body": {
+					"en-US": "The four ancient antiphons that close the day across the seasons of the Church year.",
+					"pt-BR": "As antigas antífonas que fecham o dia ao longo das estações do ano litúrgico."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/sub-tuum-praesidium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/hail-holy-queen"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/regina-caeli"
+				}
+			]
+		},
+		{
+			"id": "hymns-and-canticles",
+			"title": {
+				"en-US": "Hymns and Canticles",
+				"pt-BR": "Hinos e Cânticos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The voice of the Church in its great moments — the Gospel canticles, the hymn of thanksgiving, the breath that calls down the Spirit.",
+					"pt-BR": "A voz da Igreja em seus grandes momentos — os cânticos evangélicos, o hino de ação de graças, o sopro que invoca o Espírito."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/benedictus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/magnificat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-dimittis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-deum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-creator-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/come-holy-spirit"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-st-francis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-before-crucifix"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/opening-verse"
+				}
+			]
+		},
+		{
+			"id": "for-the-faithful-departed",
+			"title": {
+				"en-US": "For the Faithful Departed",
+				"pt-BR": "Pelos Fiéis Defuntos"
+			},
+			"description": {
+				"body": {
+					"en-US": "From the depths the Church cries out for those who have gone before us in the sign of faith.",
+					"pt-BR": "Das profundezas a Igreja clama por aqueles que nos precederam no sinal da fé."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/eternal-rest"
+				}
+			]
+		},
+		{
+			"id": "scripture-for-times-of-the-heart",
+			"title": {
+				"en-US": "Scripture for Times of the Heart",
+				"pt-BR": "Escrituras para os Tempos do Coração"
+			},
+			"description": {
+				"body": {
+					"en-US": "Short scripture practices for what the day brings — anxiety, gratitude, suffering, joy.",
+					"pt-BR": "Pequenas práticas de Escritura para o que o dia traz — ansiedade, gratidão, sofrimento, alegria."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/scripture-anxiety"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-gratitude"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-suffering"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-joy"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-forgiveness"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-courage"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-trust"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/scripture-love"
+				}
+			]
+		},
+		{
+			"id": "catechetical-index",
+			"title": {
+				"en-US": "Catechetical Index",
+				"pt-BR": "Índice Catequético"
+			},
+			"description": {
+				"body": {
+					"en-US": "The structure of the Catholic life at a glance — what to believe, how to live, the means of grace.",
+					"pt-BR": "A estrutura da vida católica num relance — o que crer, como viver, os meios da graça."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "chapter/ten-commandments"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/beatitudes"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/precepts-of-the-church"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/seven-sacraments"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/works-of-mercy"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/virtues"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/capital-sins-and-virtues"
+				},
+				{
+					"kind": "item",
+					"ref": "chapter/gifts-and-fruits-of-the-holy-spirit"
+				}
+			]
+		},
+		{
+			"id": "formation-library",
+			"title": {
+				"en-US": "Formation Library",
+				"pt-BR": "Biblioteca de Formação"
+			},
+			"description": {
+				"body": {
+					"en-US": "Short readings on prayer, conversion, the Christian life, and the seasons when prayer is hard.",
+					"pt-BR": "Pequenas leituras sobre oração, conversão, a vida cristã e as estações em que orar é difícil."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "section",
+					"id": "how-to-pray",
+					"title": {
+						"en-US": "How to Pray",
+						"pt-BR": "Como Rezar"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "chapter/how-to-pray"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/mental-prayer"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/lectio-divina"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/ignatian-examen"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/how-to-pray-the-rosary-well"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "confession-and-conversion",
+					"title": {
+						"en-US": "Confession & Conversion",
+						"pt-BR": "Confissão & Conversão"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "chapter/how-to-make-a-good-confession"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/returning-to-confession"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/predominant-fault"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "the-christian-life",
+					"title": {
+						"en-US": "The Christian Life",
+						"pt-BR": "A Vida Cristã"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "chapter/plan-of-life"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-baptism-you-already-have"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-first-year-after-reception"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-first-mass-back"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "prayer-in-difficulty",
+					"title": {
+						"en-US": "Prayer in Difficulty",
+						"pt-BR": "Oração na Dificuldade"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "chapter/when-prayer-goes-dark"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/feeling-and-faith"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-book-and-the-silence"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/pacing-one-thing-at-a-time"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/measuring-what-cannot-be-measured"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-psalter-in-the-dark"
+						}
+					]
+				},
+				{
+					"kind": "section",
+					"id": "marian-and-liturgical",
+					"title": {
+						"en-US": "Marian and Liturgical",
+						"pt-BR": "Mariana e Litúrgica"
+					},
+					"blocks": [
+						{
+							"kind": "item",
+							"ref": "chapter/marian-devotion-from-scratch"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/what-the-mass-is"
+						},
+						{
+							"kind": "item",
+							"ref": "chapter/the-form-and-the-fire"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "books",
+			"title": {
+				"en-US": "Books",
+				"pt-BR": "Livros"
+			},
+			"description": {
+				"body": {
+					"en-US": "Full catechetical works for sustained study.",
+					"pt-BR": "Obras catequéticas completas para estudo prolongado."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/catechetical-formation"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechetical-instructions"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechism-pius-x-1912"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechism-of-trent"
+				}
+			]
+		},
+		{
+			"id": "to-source-foundational",
+			"title": {
+				"en-US": "Coming Soon — Foundational Prayers",
+				"pt-BR": "Em Breve — Orações Fundamentais"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Athanasian Creed (Quicumque vult)",
+						"pt-BR": "Símbolo Atanasiano (Quicumque vult)"
+					},
+					"notes": {
+						"en-US": "The third great creed of the Western Church.",
+						"pt-BR": "O terceiro grande símbolo da Igreja do Ocidente."
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Veni Sancte Spiritus (Pentecost sequence)",
+						"pt-BR": "Veni Sancte Spiritus (sequência de Pentecostes)"
+					},
+					"proposedKind": "prayer"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Seven Penitential Psalms",
+						"pt-BR": "Sete Salmos Penitenciais"
+					},
+					"notes": {
+						"en-US": "Cross-list with Confession & Conversion.",
+						"pt-BR": "Cruzar com Confissão e Conversão."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Divine Praises",
+						"pt-BR": "Os Louvores Divinos"
+					},
+					"notes": {
+						"en-US": "*Blessed be God, blessed be His Holy Name…*",
+						"pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…*"
+					},
+					"proposedKind": "prayer"
+				}
+			]
+		},
+		{
+			"id": "to-source-aspirations",
+			"title": {
+				"en-US": "Coming Soon — Aspirations",
+				"pt-BR": "Em Breve — Jaculatórias"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Daily aspirations practice",
+						"pt-BR": "Prática diária de jaculatórias"
+					},
+					"notes": {
+						"en-US": "Short prayers throughout the day — *My Jesus, mercy*; *Sacred Heart, I trust in You*; *Mary, my mother and my hope*; *All for Thee, most Sacred Heart*; *Eternal Father, I offer Thee…*",
+						"pt-BR": "Orações curtas ao longo do dia — *Meu Jesus, misericórdia*; *Sagrado Coração, em Vós confio*; *Maria, mãe minha e esperança minha*; *Tudo por Vós, Sacratíssimo Coração*; *Eterno Pai, eu Vos ofereço…*"
+					},
+					"proposedKind": "practice",
+					"priority": "high"
+				}
+			]
+		},
+		{
+			"id": "to-source-catechetical",
+			"title": {
+				"en-US": "Coming Soon — Catechetical Chapters",
+				"pt-BR": "Em Breve — Capítulos Catequéticos"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Lord's Prayer — petition-by-petition",
+						"pt-BR": "O Pai-Nosso — petição por petição"
+					},
+					"proposedKind": "chapter",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Hail Mary — phrase-by-phrase",
+						"pt-BR": "A Ave-Maria — frase por frase"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "The Apostles' Creed — article-by-article",
+						"pt-BR": "O Símbolo dos Apóstolos — artigo por artigo"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Examination of life by the Beatitudes",
+						"pt-BR": "Exame de vida pelas Bem-aventuranças"
+					},
+					"notes": {
+						"en-US": "Companion practice to the existing Beatitudes chapter.",
+						"pt-BR": "Prática companheira do capítulo existente sobre as Bem-aventuranças."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on indulgences",
+						"pt-BR": "Capítulo sobre indulgências"
+					},
+					"notes": {
+						"en-US": "What they are, how to gain them, the standard conditions.",
+						"pt-BR": "O que são, como ganhá-las, as condições padrão."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter: Devotional life vs. liturgical life",
+						"pt-BR": "Capítulo: Vida devocional vs. vida litúrgica"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter: Sunday obligation and Sunday rest",
+						"pt-BR": "Capítulo: Obrigação dominical e descanso"
+					},
+					"notes": {
+						"en-US": "What the Third Commandment asks.",
+						"pt-BR": "O que o Terceiro Mandamento pede."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter: The Eucharistic fast and proper preparation",
+						"pt-BR": "Capítulo: O jejum eucarístico e a preparação"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on modesty in dress and speech",
+						"pt-BR": "Capítulo sobre modéstia no vestir e no falar"
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on almsgiving",
+						"pt-BR": "Capítulo sobre a esmola"
+					},
+					"notes": {
+						"en-US": "Beyond the Gospel command — a practical framework.",
+						"pt-BR": "Para além do mandamento evangélico — um quadro prático."
+					},
+					"proposedKind": "chapter"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Chapter on Christian friendship and community",
+						"pt-BR": "Capítulo sobre a amizade e a comunidade cristã"
+					},
+					"proposedKind": "chapter"
+				}
+			]
+		},
+		{
+			"id": "to-source-books",
+			"title": {
+				"en-US": "Coming Soon — Books",
+				"pt-BR": "Em Breve — Livros"
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Compendium of the Catechism of the Catholic Church",
+						"pt-BR": "Compêndio do Catecismo da Igreja Católica"
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "YOUCAT",
+						"pt-BR": "YOUCAT"
+					},
+					"notes": {
+						"en-US": "License-permitting.",
+						"pt-BR": "Se a licença permitir."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Catechism of the Catholic Church (full text)",
+						"pt-BR": "Catecismo da Igreja Católica (texto integral)"
+					},
+					"notes": {
+						"en-US": "License-permitting.",
+						"pt-BR": "Se a licença permitir."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Imitation of Christ as a daily reader",
+						"pt-BR": "Imitação de Cristo como leitor diário"
+					},
+					"notes": {
+						"en-US": "Already in Spiritual Classics; cross-list here as the everyday devotional book.",
+						"pt-BR": "Já em Clássicos Espirituais; cruzar aqui como leitor devocional diário."
+					},
+					"proposedKind": "book"
+				}
+			]
+		}
+	]
 }

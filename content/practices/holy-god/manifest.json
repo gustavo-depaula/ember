@@ -1,0 +1,19 @@
+{
+	"id": "holy-god",
+	"name": {
+		"en-US": "Holy God",
+		"pt-BR": "Santo Deus",
+		"la": "Sanctus Deus"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.",
+					"pt-BR": "Deus Santo, Deus Forte, Deus Imortal, tende misericórdia de nós e do mundo inteiro."
+				}
+			}
+		]
+	}
+}

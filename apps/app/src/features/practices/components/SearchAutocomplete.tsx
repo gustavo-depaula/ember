@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { BookOpen, FileText, Library as LibraryIcon } from 'lucide-react-native'
+import { BookOpen, Library as LibraryIcon } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
@@ -12,20 +12,19 @@ import {
   isHiddenCollection,
   isHiddenPractice,
 } from '@/content/contentIndex'
-import type { BookEntry, PrayerItemManifest } from '@/content/manifestTypes'
+import type { BookEntry } from '@/content/manifestTypes'
 import { getManifestIconKey, searchManifests } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
 
 type SearchResult =
   | { kind: 'practice'; id: string; title: string; iconKey: string }
-  | { kind: 'prayer'; id: string; title: string }
   | { kind: 'book'; id: string; title: string; subtitle?: string }
   | { kind: 'collection'; id: string; title: string; iconKey: string }
 
 type Scored<T> = { score: number; item: T }
 
-const groupOrder: SearchResult['kind'][] = ['practice', 'prayer', 'book', 'collection']
+const groupOrder: SearchResult['kind'][] = ['practice', 'book', 'collection']
 
 function bareId(corpusId: string): string {
   const slash = corpusId.indexOf('/')
@@ -51,13 +50,7 @@ function takeTopByScore<T>(scored: Scored<T>[]): T[] {
     .map((s) => s.item)
 }
 
-export function SearchAutocomplete({
-  query,
-  onSelectPrayer,
-}: {
-  query: string
-  onSelectPrayer: (prayerId: string) => void
-}) {
+export function SearchAutocomplete({ query }: { query: string }) {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -66,7 +59,7 @@ export function SearchAutocomplete({
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred manifests warm.
   const grouped = useMemo<Record<SearchResult['kind'], SearchResult[]>>(() => {
     const trimmed = query.trim()
-    if (!trimmed) return { practice: [], prayer: [], book: [], collection: [] }
+    if (!trimmed) return { practice: [], book: [], collection: [] }
 
     const q = trimmed.toLowerCase()
 
@@ -89,17 +82,6 @@ export function SearchAutocomplete({
           iconKey: getManifestIconKey(m.id),
         },
       })
-    }
-
-    const prayerScored: Scored<SearchResult>[] = []
-    for (const [id, entry] of getEntriesByKind('prayer')) {
-      const body = getRememberedManifest<PrayerItemManifest>(entry.hash)
-      const titleSrc = body?.title ?? entry.title ?? entry.name
-      if (!titleSrc) continue
-      const title = localizeContent(titleSrc as Record<string, string>)
-      const score = scoreText(title, q)
-      if (score === 0) continue
-      prayerScored.push({ score, item: { kind: 'prayer', id: bareId(id), title } })
     }
 
     const bookScored: Scored<SearchResult>[] = []
@@ -137,7 +119,6 @@ export function SearchAutocomplete({
 
     return {
       practice: takeTopByScore(practiceScored) as Extract<SearchResult, { kind: 'practice' }>[],
-      prayer: takeTopByScore(prayerScored) as Extract<SearchResult, { kind: 'prayer' }>[],
       book: takeTopByScore(bookScored) as Extract<SearchResult, { kind: 'book' }>[],
       collection: takeTopByScore(collectionScored) as Extract<
         SearchResult,
@@ -163,10 +144,6 @@ export function SearchAutocomplete({
       router.push({ pathname: '/practices/[manifestId]', params: { manifestId: result.id } })
       return
     }
-    if (result.kind === 'prayer') {
-      onSelectPrayer(result.id)
-      return
-    }
     if (result.kind === 'book') {
       router.push({ pathname: '/browse/book/[bookId]', params: { bookId: result.id } })
       return
@@ -177,7 +154,6 @@ export function SearchAutocomplete({
   function renderRow(result: SearchResult) {
     const leading = (() => {
       if (result.kind === 'practice') return <PracticeIcon name={result.iconKey} size={20} />
-      if (result.kind === 'prayer') return <FileText size={18} color={theme.colorSecondary?.val} />
       if (result.kind === 'book') return <BookOpen size={18} color={theme.accent?.val} />
       return <LibraryIcon size={18} color={theme.accent?.val} />
     })()
@@ -220,7 +196,6 @@ export function SearchAutocomplete({
 
   const labelKey: Record<SearchResult['kind'], string> = {
     practice: 'pray.searchResultPractices',
-    prayer: 'pray.searchResultPrayers',
     book: 'pray.searchResultBooks',
     collection: 'pray.searchResultCollections',
   }

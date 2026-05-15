@@ -25,7 +25,6 @@
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",
-	"flow": "flow.json",
 	"tags": [
 		"marian",
 		"easter",
@@ -44,6 +43,61 @@
 				},
 				"tier": "ideal",
 				"enabled": false
+			}
+		]
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"ref": "sign-of-cross"
+			},
+			{
+				"type": "divider"
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Queen of Heaven, rejoice, alleluia:\nfor He whom thou wast made worthy to bear, alleluia,\nis risen, as He said, alleluia.\nPray for us to God, alleluia.",
+					"pt-BR": "Rainha do Céu, alegra-te, aleluia:\npois aquele que mereceste trazer no teu seio, aleluia,\nressuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia.",
+					"la": "Regina caeli, laetare, alleluia:\nquia quem meruisti portare, alleluia,\nresurrexit sicut dixit, alleluia.\nOra pro nobis Deum, alleluia."
+				}
+			},
+			{
+				"type": "divider"
+			},
+			{
+				"type": "response",
+				"verses": [
+					{
+						"v": {
+							"en-US": "Rejoice and be glad, O Virgin Mary, alleluia.",
+							"pt-BR": "Alegra-te e exulta, Virgem Maria, aleluia."
+						},
+						"r": {
+							"en-US": "For the Lord is truly risen, alleluia.",
+							"pt-BR": "Porque o Senhor ressuscitou verdadeiramente, aleluia."
+						}
+					}
+				]
+			},
+			{
+				"type": "divider"
+			},
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "Let us pray.",
+					"pt-BR": "Oremos."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.",
+					"la": "Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es: praesta, quaesumus; ut per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.",
+					"pt-BR": "Ó Deus, que pela ressurreição de Vosso Filho, Nosso Senhor Jesus Cristo, destes alegria ao mundo inteiro, concedei-nos, por intercessão de Sua Mãe, a Virgem Maria, alcançar a alegria da vida eterna. Pelo mesmo Cristo Nosso Senhor. Amém."
+				}
 			}
 		]
 	}

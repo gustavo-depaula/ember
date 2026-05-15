@@ -25,7 +25,7 @@
 
 ## Content & The Corpus
 
-Content in Ember is a **content-addressed corpus** — every prayer, practice, book chapter, Mass proper, and image is a separate sha256-hashed blob served from `https://ember.dpgu.me/hearth/v2/`. Curated groupings (e.g. *Carmelite tradition*, *Sacred Heart devotion*) are **collections** — small JSON manifests listing references to corpus items by stable id.
+Content in Ember is a **content-addressed corpus** — every practice (which subsumes simple prayers), book chapter, Mass proper, and image is a separate sha256-hashed blob served from `https://ember.dpgu.me/hearth/v2/`. Curated groupings (e.g. *Carmelite tradition*, *Sacred Heart devotion*) are **collections** — small JSON manifests listing references to corpus items by stable id.
 
 The app ships with no bundled content. The boot sequence shows a loading screen while it fetches `catalog.json` (~500KB) and warms the critical prayer/practice manifests; everything else streams in on first use and is cached forever (immutable URLs). Pinning marks an item, book, or whole collection for full prefetch; pinned content survives offline.
 
@@ -33,8 +33,7 @@ The app ships with no bundled content. The boot sequence shows a loading screen 
 
 | Kind | Stable id form | What it is |
 |---|---|---|
-| `prayer` | `prayer/our-father` | Reusable prayer asset, multilingual JSON |
-| `practice` | `practice/rosary` | Schedulable prayer flow (manifest + flow + fragments + data + tracks + per-day flows + images) |
+| `practice` | `practice/rosary`, `practice/our-father` | Schedulable prayer flow — anything from a single Pater Noster to the full Mass. Short prayers carry inline `flow` in the manifest; longer practices keep `flow.json` and add fragments / data / tracks / per-day flows / images. |
 | `chapter` | `chapter/lectio-divina` | Native-rendered formation content |
 | `book` | `book/catechism-of-trent` | WebView-rendered long-form, per-language markdown chapters |
 | `mass` | `mass/of/tempore/holy-week/easter-vigil` | OF Mass proper, split per-language |
@@ -47,11 +46,11 @@ The app ships with no bundled content. The boot sequence shows a loading screen 
 
 ```
 content/
-├── prayers/                              # JSON, multilingual
-│   └── our-father.json
-├── practices/                            # Per-practice dir
+├── practices/                            # Per-practice dir; everything renderable as a flow.
+│   ├── our-father/
+│   │   └── manifest.json                 # Short prayer: inline `flow: { sections: [...] }`, no flow.json
 │   └── rosary/
-│       ├── manifest.json                 # PracticeManifest (metadata, schedule defaults)
+│       ├── manifest.json                 # Longer practice: PracticeManifest + flow.json
 │       ├── flow.json                     # FlowDefinition (the prayer DSL)
 │       ├── fragments/                    # Reusable flow snippets
 │       ├── data/                         # Cycle data (mysteries, days, etc.)
@@ -83,7 +82,7 @@ A collection is a thin JSON manifest:
   "items": [
     { "ref": "book/intimita-divina" },
     { "ref": "practice/carmelite-night-prayer" },
-    { "ref": "prayer/teresa-of-avila-bookmark" }
+    { "ref": "practice/teresa-of-avila-bookmark" }
   ]
 }
 ```
@@ -196,11 +195,10 @@ This is a pnpm workspaces + turborepo monorepo.
 ```
 ember/
   content/                            (source files — deployed to Hearth)
-    prayers/                          (~99 multilingual prayer assets)
-      our-father.json
-      hail-mary.json
-      ...
-    practices/                        (~99 practices — manifest + flow + fragments + data + tracks + images)
+    practices/                        (~190 practices — short prayers inline `flow` in manifest;
+                                       longer practices add flow.json + fragments/data/tracks/images)
+      our-father/                     (short prayer — manifest.json only, inline flow)
+        manifest.json
       morning-offering/
         manifest.json
         flow.json

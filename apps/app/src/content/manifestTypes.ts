@@ -2,17 +2,16 @@
  * Hearth v2 catalog & item-manifest shapes.
  *
  * The catalog at `/hearth/v2/catalog.json` is the master index. Every item has
- * a stable global id (e.g. `prayer/our-father`, `practice/rosary`, `mass/of/...`)
+ * a stable global id (e.g. `practice/our-father`, `practice/rosary`, `mass/of/...`)
  * and a content hash for its manifest blob. Manifests in turn reference the
  * actual content blobs by hash. All blobs live at `/hearth/v2/blobs/{ab}/{cd}/{hash}`.
  */
 
 import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
-import type { LocalizedText } from './types'
+import type { FlowDefinition, LocalizedText } from './types'
 
 export type CatalogItemKind =
-  | 'prayer'
   | 'practice'
   | 'chapter'
   | 'book'
@@ -104,17 +103,11 @@ export type ProgramConfig = {
   restartThreshold?: number
 }
 
-export type PrayerItemManifest = {
-  id: string
-  title: LocalizedText
-  body: unknown
-  subtitle?: LocalizedText
-  source?: LocalizedText
-}
-
 export type PracticeManifest = {
   id: string
   name: LocalizedText
+  subtitle?: LocalizedText
+  source?: LocalizedText
   description?: LocalizedText
   history?: LocalizedText
   howToPray?: LocalizedText
@@ -132,6 +125,8 @@ export type PracticeManifest = {
   tags?: string[]
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }
   notifications?: NotificationsManifest
+  /** Inline flow — alternative to a separate flow.json hashed into flowHash. */
+  flow?: FlowDefinition
   flowHash?: BlobRef
   fragments?: { id: string; hash: string; size: number }[]
   dataHashes?: { name: string; hash: string; size: number }[]
@@ -212,7 +207,7 @@ export type CollectionItem = {
 export type CollectionTodo = {
   title: LocalizedText
   notes?: LocalizedText
-  proposedKind?: 'prayer' | 'practice' | 'chapter' | 'book'
+  proposedKind?: 'practice' | 'chapter' | 'book'
   proposedRef?: string
   priority?: 'high' | 'medium' | 'low'
 }
