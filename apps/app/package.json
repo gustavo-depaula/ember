@@ -6,6 +6,7 @@
     "start": "expo start --go",
     "android": "expo run:android",
     "ios": "expo run:ios",
+    "ios:dev": "APP_VARIANT=development expo run:ios --device",
     "web": "expo start --web",
     "parse-propers": "tsx scripts/parse-do-propers.ts",
     "test": "vitest run",
