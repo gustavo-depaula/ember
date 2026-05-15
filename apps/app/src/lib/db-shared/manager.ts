@@ -65,6 +65,23 @@ let realDb: Awaited<ReturnType<typeof openDatabaseAsync>> | undefined
 let isLeader = false
 const leaderReady = deferred<void>()
 
+/**
+ * Serialize `withTransactionAsync` calls against the leader's single
+ * connection. expo-sqlite's `withTransactionAsync` is documented as
+ * non-exclusive — concurrent calls race on BEGIN/COMMIT/ROLLBACK and surface
+ * as "cannot rollback - no transaction is active" when the directory fans out
+ * multiple `refreshCreator` writes at once.
+ */
+let txChain: Promise<unknown> = Promise.resolve()
+function serializeTx<T>(task: () => Promise<T>): Promise<T> {
+  const result = txChain.then(task, task)
+  txChain = result.then(
+    () => {},
+    () => {},
+  )
+  return result
+}
+
 const pending = new Map<string, PendingEntry>()
 const subscribers = new Set<(payload: CrossTabPayload) => void>()
 
@@ -140,11 +157,13 @@ async function serveRequest(msg: RequestMessage) {
         break
       case 'runBatchInTx': {
         const db = realDb
-        await db.withTransactionAsync(async () => {
-          for (const s of msg.statements) {
-            await db.runAsync(s.sql, s.params ?? [])
-          }
-        })
+        await serializeTx(() =>
+          db.withTransactionAsync(async () => {
+            for (const s of msg.statements) {
+              await db.runAsync(s.sql, s.params ?? [])
+            }
+          }),
+        )
         break
       }
     }
@@ -246,9 +265,11 @@ function makeProxy(): EmberDb {
       if (statements.length === 0) return
       if (isLeader && realDb) {
         const db = realDb
-        await db.withTransactionAsync(async () => {
-          for (const s of statements) await db.runAsync(s.sql, s.params ?? [])
-        })
+        await serializeTx(() =>
+          db.withTransactionAsync(async () => {
+            for (const s of statements) await db.runAsync(s.sql, s.params ?? [])
+          }),
+        )
         return
       }
       await sendRequest({ method: 'runBatchInTx', statements })
