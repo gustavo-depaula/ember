@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { BookMarked, CircleDot, Compass, Mic2, Sparkle } from 'lucide-react-native'
+import { BookMarked, CircleDot, Compass, Mic2, Music, Sparkle } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
@@ -80,6 +80,17 @@ export default function ExploreScreen() {
             title={t('creators.title')}
             tagline={t('creators.homeTagline')}
             onPress={() => router.push('/creators')}
+          />
+        </YStack>
+
+        <YStack gap="$sm">
+          <SectionHeading text={t('explore.tools')} />
+
+          <ShortcutRow
+            leading={<Music size={22} color={theme.accent?.val} />}
+            title={t('piano.title')}
+            tagline={t('piano.homeTagline')}
+            onPress={() => router.push('/piano')}
           />
         </YStack>
       </YStack>

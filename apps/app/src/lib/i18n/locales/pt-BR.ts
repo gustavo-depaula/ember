@@ -1004,7 +1004,13 @@ export default {
     subtitle: 'Companheiros para o caminho e uma biblioteca para a alma.',
     companions: 'Companheiros',
     library: 'Biblioteca',
+    tools: 'Ferramentas',
     homeTagline: 'Companheiros, Catecismo e Santos',
+  },
+
+  piano: {
+    title: 'Piano',
+    homeTagline: 'Aprender notação musical',
   },
 
   catalog: {

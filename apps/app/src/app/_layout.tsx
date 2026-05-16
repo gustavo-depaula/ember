@@ -288,6 +288,7 @@ export default function RootLayout() {
               <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
               <Stack.Screen name="browse" options={{ title: i18n.t('browse.title') }} />
               <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
+              <Stack.Screen name="piano" options={{ title: 'Piano' }} />
             </Stack>
             <FloatingOfflineChip />
             <NowPlayingBar />

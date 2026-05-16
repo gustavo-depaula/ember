@@ -997,7 +997,13 @@ export default {
     subtitle: 'Companions for the path, and a library for your soul.',
     companions: 'Companions',
     library: 'Library',
+    tools: 'Tools',
     homeTagline: 'Companions, Catechism & Saints',
+  },
+
+  piano: {
+    title: 'Piano',
+    homeTagline: 'Read sheet music',
   },
 
   catalog: {
