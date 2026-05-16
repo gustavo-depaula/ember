@@ -18,7 +18,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
             alignItems="baseline"
             accessibilityLabel={t('a11y.versicle', { text: verse.v.primary })}
           >
-            <ResponseMark value="℣." width={18} />
+            <ResponseMark value="℣" width={18} />
             <YStack flex={1}>
               <BilingualBlock
                 content={verse.v}
@@ -31,7 +31,7 @@ export function ResponseBlock({ verses }: { verses: { v: BilingualText; r: Bilin
             alignItems="baseline"
             accessibilityLabel={t('a11y.response', { text: verse.r.primary })}
           >
-            <ResponseMark value="℟." width={18} />
+            <ResponseMark value="℟" width={18} />
             <YStack flex={1}>
               <BilingualBlock
                 content={verse.r}
