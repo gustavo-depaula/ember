@@ -1,5 +1,13 @@
 import '@/lib/i18n'
 
+import { featureFlags } from 'react-native-screens'
+
+// Unblocks touch interactions while the iOS 26 zoom transition is still
+// running — without these flags, taps are swallowed for the full ~0.5-1s
+// of the Link.AppleZoom animation. Tracked in software-mansion/react-native-screens#3621.
+featureFlags.experiment.iosPreventReattachmentOfDismissedScreens = true
+featureFlags.experiment.ios26AllowInteractionsDuringTransition = true
+
 import { Cinzel_400Regular, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
 import { CormorantGaramond_400Regular } from '@expo-google-fonts/cormorant-garamond'
 import { CrimsonPro_400Regular } from '@expo-google-fonts/crimson-pro'
