@@ -1,0 +1,92 @@
+{
+  "id": "ccc-compendium",
+  "name": {
+    "en-US": "Compendium of the Catechism of the Catholic Church",
+    "pt-BR": "Compêndio do Catecismo da Igreja Católica"
+  },
+  "author": {
+    "en-US": "Holy See",
+    "pt-BR": "Santa Sé"
+  },
+  "description": {
+    "en-US": "A faithful and sure synthesis of the Catechism of the Catholic Church in 598 questions and answers, promulgated by Pope Benedict XVI in 2005.",
+    "pt-BR": "Síntese fiel e segura do Catecismo da Igreja Católica em 598 perguntas e respostas, promulgada pelo Papa Bento XVI em 2005."
+  },
+  "composed": 2005,
+  "languages": ["en-US", "pt-BR"],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html",
+      "description": "Vatican archive, English edition"
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_po.html",
+      "description": "Vatican archive, Portuguese edition"
+    }
+  ],
+  "source": {
+    "type": "external",
+    "producer": "producer/ccc-compendium",
+    "homepage": "https://www.vatican.va/archive/compendium_ccc/"
+  },
+  "toc": [
+    {
+      "id": "motu-proprio",
+      "title": {
+        "en-US": "Motu Proprio",
+        "pt-BR": "Motu Proprio"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part One — The Profession of Faith",
+        "pt-BR": "Primeira Parte — A Profissão de Fé"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part Two — The Celebration of the Christian Mystery",
+        "pt-BR": "Segunda Parte — A Celebração do Mistério Cristão"
+      }
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part Three — Life in Christ",
+        "pt-BR": "Terceira Parte — A Vida em Cristo"
+      }
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part Four — Christian Prayer",
+        "pt-BR": "Quarta Parte — A Oração Cristã"
+      }
+    },
+    {
+      "id": "appendix-a",
+      "title": {
+        "en-US": "A. Common Prayers",
+        "pt-BR": "A. Orações Comuns"
+      }
+    },
+    {
+      "id": "appendix-b",
+      "title": {
+        "en-US": "B. Formulas of Catholic Doctrine",
+        "pt-BR": "B. Fórmulas de Doutrina Católica"
+      }
+    }
+  ]
+}
