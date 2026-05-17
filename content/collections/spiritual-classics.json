@@ -141,6 +141,10 @@
 				{
 					"kind": "item",
 					"ref": "book/catechism-pius-x-1912"
+				},
+				{
+					"kind": "item",
+					"ref": "book/catechism-in-pictures"
 				}
 			]
 		},
