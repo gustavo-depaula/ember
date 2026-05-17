@@ -89,6 +89,7 @@ A flow is a JSON `{ sections: Section[] }`. The DSL is designed to be expressive
 - `lectio` — reading from current progress (testament: `ot` | `nt` | `catechism`)
 - `seasonal` — content varying by liturgical season (hymns, Marian antiphons)
 - `proper` — Mass proper slot filled from propers data source (EF bundled, OF via API)
+- `include` — `{ ref: "producer/<id>", params?: {...} }` invokes a content producer and inlines its output. Same primitive serves anchored book refs for inline excerpts: `{ ref: "book/ccc#507-509" }`. Producers are built-in code packages that compute content at runtime (Mass flow, external book chapters, today's gospel, etc.). Usable at any depth — inside `select`, `repeat`, `cycle`, or at the top level. See `docs/features/producers.md`.
 
 ### Unified Flow System
 

@@ -333,10 +333,35 @@ The reader loads `.html` first, falls back to `.md` (converted at runtime via `m
 
 ---
 
+## External Books (Fetched at Runtime)
+
+Some books cannot be bundled in Hearth for copyright reasons — CCC on vatican.va, iBreviary, Escriva works, Lírio Católico, papal documents. These remain `book/<id>` items with a Hearth-side catalog entry + ToC, but their chapter content is fetched at runtime from the source site by a **producer** (see `docs/features/producers.md`). The bytes never live on `ember.dpgu.me`.
+
+The `BookEntry` shape gains three optional fields when a book is external-fetched:
+
+```typescript
+type BookEntry = {
+  // ... existing fields ...
+  source?: {
+    type: 'external'
+    producer: string          // e.g. "producer/ccc-chapter"
+    homepage: string          // surfaced in reader chrome as "Read on …"
+  }
+  chapters: Record<string, Record<string, ChapterRef>>
+  anchors?: Record<string, { chapter: string }>  // optional anchor → chapter index
+}
+
+type ChapterRef =
+  | { type: 'blob'; hash: string; size: number; format?: 'html' }   // bundled (existing)
+  | { type: 'external'; url: string }                                // external
+```
+
+Presence of `source.type === 'external'` flips the runtime path: chapter loading invokes the named producer with the chapter `url`, lang, and any anchor range; the producer returns cleaned HTML + an anchor sidecar that the WebView reader consumes the same way it consumes bundled HTML. Pinning, freshness UI ("Fetched X ago"), and on-device caching all flow from this — see `docs/features/producers.md` for the full mechanics.
+
+The `anchors` index maps anchor strings (e.g. `"507"` for CCC paragraph 507) to the chapter that contains them. It supports anchored refs like `book/ccc#507` resolving directly to the right chapter URL without scanning. Producers can compute the index implicitly when source URL structure encodes anchors (vatican.va CCC: deterministic `__P<N>.HTM` files); for hand-authored books the build pipeline emits it from heading ids.
+
 ## Future Directions
 
 - **Annotation layers** — supplementary commentary (Haydock, Catena Aurea) attached to anchored locations in base text. Format TBD.
 - **XHTML source format** — books with richer needs (footnotes, scripture cross-references, verse-level anchoring) could use semantic XHTML instead of Markdown. Per-book, not all-at-once.
-- **CCC migration** — the current flat `ccc.json` could become a book with paragraph-level addressability.
-- **Scripture cross-references** — tappable links in book content that open the Bible reader.
-- **CDN downloads** — on-demand book downloading instead of bundled content.
+- **Reader IR** — a structured intermediate representation between source content and the WebView. Pays off when we want multiple render targets (audio, summary cards) or structured highlights. Today HTML + `data-ref` + `id` is sufficient.
