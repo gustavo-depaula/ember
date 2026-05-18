@@ -1,1 +1,1 @@
-# Dia 37 — Consciência, atos morais e as virtudes
+# Dia 37 — A consciência e a moralidade dos atos humanos

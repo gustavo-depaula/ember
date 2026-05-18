@@ -8,8 +8,8 @@ This document is generated from `content/books/catechetical-formation/sessions.j
 
 - **81 days total**, each ≤ 15 minutes (≤ 2700 words including the Compendium block)
 - **68 plate-days**, one plate of the *Catechism in Pictures* each — all 68 plates covered
-- **13 Compendium-only days** for topics no 1908 plate addresses (faith, Revelation, Tradition and Scripture, the marks of the Church, the moral foundations of conscience and virtue, the liturgy and sacramental celebration, several prayer chapters)
-- **Compendium coverage**: 579 of 598 paragraphs cited across the program
+- **13 Compendium-only days**, interleaved at thematic joints (faith and Revelation before the Creed; Image of God between Creation and Incarnation; the Marks of the Church between the Church plate and the Communion of Saints; the Liturgy at the start of the Sacraments phase; three moral foundations days as the prelude to the Decalogue; two prayer-mechanics days flanking the Our Father plate)
+- **Compendium coverage**: 577 of 598 paragraphs cited across the program
 
 ## Prologue — Faith and Revelation
 
@@ -74,7 +74,7 @@ Days 36–38.
 | # | Theme | Plate | Compendium |
 |---|---|---|---|
 | 36 | The Dignity of the Person — Freedom and the Passions | — | §§ 358–362; §§ 363–366; §§ 367–371 |
-| 37 | Conscience, Moral Acts, and the Virtues | — | §§ 372–376; §§ 377–378; §§ 379–383; §§ 384–390 |
+| 37 | Conscience and the Morality of Human Acts | — | §§ 372–376; §§ 377–378 |
 | 38 | Person, Society, and the Moral Law | — | §§ 401–407; §§ 408–414; §§ 415–421; §§ 429–433 |
 
 ## IV. The Commandments
@@ -155,17 +155,7 @@ Days 77–81.
 | 80 | The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance | — | §§ 588–597; § 598 |
 | 81 | The Hail Mary and Marian Prayer | 54 | § 562 |
 
-## How Compendium-only days are minimized
+## How the Compendium-only days are interleaved
 
-Wherever a Compendium § range aligned thematically with a plate and the combined reading stayed under 15 minutes, the Compendium content was folded into the plate-day. The 13 remaining Compendium-only days cover topics the 1908 book genuinely does not depict: the foundations of the moral life (dignity, freedom, conscience, virtue, sin, society, moral law), the liturgy as the work of the Trinity, the marks of the Church, the public life of Christ where the plates are silent, and several chapters of the *Compendium*'s Part 4 on prayer.
+Each of the 13 days that has no plate sits at a thematic joint between plate-days. The prologue cluster (days 1–5) is the only multi-day block — no plate corresponds to *Man's capacity for God*, *Revelation*, *Tradition and Scripture*, or *Faith*, so those four foundational topics open the program before the Catechism in Pictures introduction plate appears on day 6. From there, every Compendium-only day is solo and slotted between plate-days that share its subject.
 
-## Compendium ranges by structure
-
-| Compendium part | Range | Days |
-|---|---|---|
-| Part 1 — The Profession of Faith | §§ 1–217 | 1–27 |
-| Part 2 — The Celebration of the Christian Mystery | §§ 218–356 | 27–34 |
-| Part 3 — Life in Christ | §§ 357–533 | 36–67 |
-| Part 4 — Christian Prayer | §§ 534–598 | 77–81 |
-
-Days 68–76 follow the *Catechism in Pictures* book ordering (Vanity → Death → Particular Judgment → Original Sin revisited → Capital Sins → Virtues → Works of Mercy) rather than the Compendium's strict Part-3 ordering — the Catechism in Pictures gathers these meditative topics at the end, after the Decalogue, and this program follows that pedagogical sequence.

@@ -935,8 +935,8 @@
       "order": 37,
       "phase": "foundations",
       "title": {
-        "en-US": "Conscience, Moral Acts, and the Virtues",
-        "pt-BR": "Consciência, atos morais e as virtudes"
+        "en-US": "Conscience and the Morality of Human Acts",
+        "pt-BR": "A consciência e a moralidade dos atos humanos"
       },
       "plate": null,
       "compendium": [
@@ -954,22 +954,6 @@
           "label": {
             "en-US": "Object, intention, circumstances of moral acts",
             "pt-BR": "Objeto, intenção, circunstâncias dos atos morais"
-          }
-        },
-        {
-          "start": 379,
-          "end": 383,
-          "label": {
-            "en-US": "Human virtues; the four cardinal virtues",
-            "pt-BR": "Virtudes humanas; as quatro virtudes cardeais"
-          }
-        },
-        {
-          "start": 384,
-          "end": 390,
-          "label": {
-            "en-US": "Theological virtues; gifts and fruits of the Spirit",
-            "pt-BR": "Virtudes teologais; dons e frutos do Espírito"
           }
         }
       ]
