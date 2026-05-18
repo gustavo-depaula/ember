@@ -4,13 +4,6 @@ import type { DataProducer, ProducerContext } from './types'
 
 export type PsalmodySlot = { ref: PsalmRef; verses: Verse[] }
 
-function requireString(params: ProducerContext['params'], key: string): string {
-  const v = params?.[key]
-  if (typeof v !== 'string' || v.length === 0)
-    throw new Error(`producer/psalmody: param "${key}" must be a non-empty string (got ${String(v)})`)
-  return v
-}
-
 function requirePsalmRefs(params: ProducerContext['params']): PsalmRef[] {
   const raw = params?.psalms
   if (!Array.isArray(raw) || raw.length === 0)
@@ -32,16 +25,14 @@ export const psalmodyProducer: DataProducer<PsalmodySlot[]> = {
   kind: 'data',
   version: '1',
   cacheKey: (ctx) => {
-    const translation = requireString(ctx.params, 'translation')
     const refs = requirePsalmRefs(ctx.params)
-    return `${translation}:${psalmsKey(refs)}`
+    return `${ctx.prefs.translation}:${psalmsKey(refs)}`
   },
   async produce(ctx) {
-    const translation = requireString(ctx.params, 'translation')
     const refs = requirePsalmRefs(ctx.params)
     const slots = await Promise.all(
       refs.map(async (ref): Promise<PsalmodySlot> => {
-        const result = await getChapter(translation, 'psalms', ref.psalm)
+        const result = await getChapter(ctx.prefs.translation, 'psalms', ref.psalm)
         const verses = ref.verseRange
           ? result.verses.filter(
               (v) => v.verse >= ref.verseRange[0] && v.verse <= ref.verseRange[1],

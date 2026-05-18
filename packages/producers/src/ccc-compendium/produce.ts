@@ -5,7 +5,7 @@ import type { ChapterId, Lang } from './types'
 
 type ProducerContext = {
   date: Date
-  lang: string
+  prefs: { lang: string; translation: string }
   programDay?: number
   params?: Record<string, unknown>
 }
@@ -44,7 +44,7 @@ export const cccCompendiumProducer = {
     return `${first}-${last}`
   },
   async produce(ctx: ProducerContext): Promise<ReaderResult> {
-    const lang = narrowLang(ctx.lang)
+    const lang = narrowLang(ctx.prefs.lang)
     const first = requireQNum(ctx.params, 'first')
     const last = requireQNum(ctx.params, 'last')
     if (first > last)

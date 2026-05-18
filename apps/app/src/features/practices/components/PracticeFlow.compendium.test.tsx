@@ -6,7 +6,7 @@ import { beforeEach, describe, expect, it, vi } from 'vitest'
 
 type ProduceCall = {
   date: Date
-  lang: string
+  prefs: { lang: string; translation: string }
   programDay?: number
   params?: Record<string, unknown>
 }
@@ -22,7 +22,7 @@ vi.mock('@ember/producers', async (importOriginal) => {
       produce: async (ctx: ProduceCall) => {
         produceCalls.push({
           date: ctx.date,
-          lang: ctx.lang,
+          prefs: ctx.prefs,
           programDay: ctx.programDay,
           params: ctx.params,
         })
@@ -78,7 +78,7 @@ describe('PracticeFlow — compendium (program practice)', () => {
     // doesn't read it — pacing lives in the practice's data file.
     expect(produceCalls.length).toBeGreaterThan(0)
     const firstCall = produceCalls[0]
-    expect(firstCall.lang).toBe('en-US')
+    expect(firstCall.prefs.lang).toBe('en-US')
     expect(firstCall.params).toMatchObject({ first: '1', last: '6' })
   }, 30_000)
 })

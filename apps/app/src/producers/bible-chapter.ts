@@ -21,15 +21,13 @@ export const bibleChapterProducer: DataProducer<ChapterResult> = {
   kind: 'data',
   version: '1',
   cacheKey: (ctx) => {
-    const translation = requireString(ctx.params, 'translation')
     const book = requireString(ctx.params, 'book')
     const chapter = requirePositiveInt(ctx.params, 'chapter')
-    return `${translation}:${book}:${chapter}`
+    return `${ctx.prefs.translation}:${book}:${chapter}`
   },
   async produce(ctx) {
-    const translation = requireString(ctx.params, 'translation')
     const book = requireString(ctx.params, 'book')
     const chapter = requirePositiveInt(ctx.params, 'chapter')
-    return { data: await getChapter(translation, book, chapter) }
+    return { data: await getChapter(ctx.prefs.translation, book, chapter) }
   },
 }

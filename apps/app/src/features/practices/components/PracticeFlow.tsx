@@ -10,15 +10,10 @@ import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import {
   AnimatedPressable,
-  BibleReadingBlock,
-  CccReadingBlock,
   confirm,
   IncludeBlock,
-  InlineRetry,
   ManuscriptFrame,
   ProperSlot,
-  PsalmodyBlock,
-  type PsalmSlot,
   ScreenLayout,
   Threshold,
 } from '@/components'
@@ -54,18 +49,14 @@ import {
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
-import type { CccParagraph } from '@/lib/catechism'
-import type { ChapterResult } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
-import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
-import { type ResourceMap, useResourceQueries } from '@/lib/useResourceQueries'
-import type { CachedProducerResult } from '@/producers'
-import { getProducer, includeKeyFor, runCachedProducer } from '@/producers'
-import type { PsalmodySlot } from '@/producers/psalmody'
+import { PracticeProducerProvider } from '@/producers'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { PsalmodySlot } from './slots/PsalmodySlot'
+import { ReadingSlot } from './slots/ReadingSlot'
 
 // Descends through container sections so dynamic content (readings, psalmody)
 // nested inside a select/options/collapsible/liturgical-color-scope/prayer is
@@ -88,67 +79,6 @@ function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedS
         break
     }
   }
-}
-
-type DynamicResources = ResourceMap<CachedProducerResult>
-
-// A producer call has two keys that are deliberately distinct:
-// - `id`  identifies the flow section in the renderer ("which bible chapter,
-//         which psalmody slot list"). Translation-free, because the renderer
-//         only knows the section data — not user preferences.
-// - `ref` + `params` define the fetch. Translation lives in `params`, which
-//         feeds the producer's cacheKey + React Query's queryKey — so
-//         changing translation triggers a refetch without translation
-//         leaking into the renderer's lookup path.
-type ProducerCall = { id: string; ref: string; params: Record<string, unknown> }
-
-function readingId(ref: ReadingReference): string {
-  return ref.type === 'bible'
-    ? `reading:bible:${ref.book}:${ref.chapter}`
-    : `reading:ccc:${ref.startParagraph}:${ref.count}`
-}
-
-function psalmodyId(psalms: PsalmRef[]): string {
-  const tokens = psalms.map((r) =>
-    r.verseRange ? `${r.psalm}:${r.verseRange[0]}-${r.verseRange[1]}` : String(r.psalm),
-  )
-  return `psalmody:${tokens.join(',')}`
-}
-
-function collectProducerCalls(
-  sections: RenderedSection[],
-  translation: string,
-): ProducerCall[] {
-  const seen = new Map<string, ProducerCall>()
-  const add = (call: ProducerCall) => {
-    if (!seen.has(call.id)) seen.set(call.id, call)
-  }
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type === 'include') {
-      add({ id: includeKeyFor(s.ref, s.params), ref: s.ref, params: s.params ?? {} })
-    } else if (s.type === 'reading') {
-      const ref = s.reference
-      if (ref.type === 'bible')
-        add({
-          id: readingId(ref),
-          ref: 'producer/bible-chapter',
-          params: { translation, book: ref.book, chapter: ref.chapter },
-        })
-      else
-        add({
-          id: readingId(ref),
-          ref: 'producer/ccc-chapter',
-          params: { start: ref.startParagraph, count: ref.count },
-        })
-    } else if (s.type === 'psalmody' && s.psalms.length > 0) {
-      add({
-        id: psalmodyId(s.psalms),
-        ref: 'producer/psalmody',
-        params: { translation, psalms: s.psalms },
-      })
-    }
-  }
-  return Array.from(seen.values())
 }
 
 function findTrackIds(sections: RenderedSection[]): string[] {
@@ -325,41 +255,11 @@ export function PracticeFlow({
     selectOverrides,
   ])
 
-  // Load dynamic content. Readings (Bible/CCC), psalmody, and explicit
-  // `include` blocks all flow through one producer pipeline → one fetch
-  // surface, one ResourceMap.
-  const producerCalls = useMemo(
-    () => collectProducerCalls(sections, translation),
-    [sections, translation],
-  )
-
-  const dynamic = useResourceQueries(
-    producerCalls,
-    (c) => c.id,
-    (c) => {
-      const producer = getProducer(c.ref)
-      const ctx = { date: now, lang: contentLanguage, programDay, params: c.params }
-      return {
-        queryKey: [
-          'producer',
-          c.ref,
-          producer?.version ?? '?',
-          contentLanguage,
-          producer?.cacheKey(ctx) ?? '',
-          c.id,
-        ] as const,
-        queryFn: async () => {
-          if (!producer) throw new Error(`Unknown producer: ${c.ref}`)
-          return runCachedProducer(producer, ctx)
-        },
-        staleTime: Number.POSITIVE_INFINITY,
-      }
-    },
-  )
-
-  const isInitialResolve = isResolvingFlow && sections.length === 0
-  const isDynamicLoading =
-    isInitialResolve || (producerCalls.length > 0 && dynamic.isLoading)
+  // Producer fetches (readings, psalmody, includes) are owned by the
+  // section's block component via useProducer. PracticeFlow only gates the
+  // initial flow resolution + the minimum threshold display time; per-block
+  // loading states surface inline.
+  const isDynamicLoading = isResolvingFlow && sections.length === 0
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -447,92 +347,91 @@ export function PracticeFlow({
 
   return (
     <ImageViewerProvider>
-      <ScreenLayout>
-        <YStack gap="$lg" paddingVertical="$lg">
-          <ManuscriptFrame>
-            <YStack
-              alignItems="center"
-              gap="$xs"
-              paddingVertical="$md"
-              paddingHorizontal={readingMargin}
-            >
-              {manifest.theme !== 'office' && (
-                <Text fontFamily="$display" fontSize="$5" color="$accent">
-                  ✠
+      <PracticeProducerProvider programDay={programDay}>
+        <ScreenLayout>
+          <YStack gap="$lg" paddingVertical="$lg">
+            <ManuscriptFrame>
+              <YStack
+                alignItems="center"
+                gap="$xs"
+                paddingVertical="$md"
+                paddingHorizontal={readingMargin}
+              >
+                {manifest.theme !== 'office' && (
+                  <Text fontFamily="$display" fontSize="$5" color="$accent">
+                    ✠
+                  </Text>
+                )}
+                <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
+                  {practiceName}
                 </Text>
-              )}
-              <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
-                {practiceName}
-              </Text>
-              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
-                {formattedDate}
-              </Text>
-            </YStack>
-
-            <YStack gap="$md">
-              {sections.map((section, index) => (
-                <PracticeSectionBlock
-                  key={`${section.type}-${index}`}
-                  section={section}
-                  dynamic={dynamic}
-                  practiceId={practiceId}
-                  onSelectOverride={handleSelectOverride}
-                />
-              ))}
-            </YStack>
-
-            {manifest.completion !== 'manual' && (
-              <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
-                <AnimatedPressable
-                  onPress={handleComplete}
-                  disabled={logCompletionMutation.isPending}
-                  accessibilityRole="button"
-                  accessibilityLabel={t('office.amen')}
-                >
-                  <YStack
-                    backgroundColor="$accent"
-                    borderRadius="$md"
-                    borderWidth={1}
-                    borderColor="$accentSubtle"
-                    paddingVertical="$md"
-                    alignItems="center"
-                    opacity={logCompletionMutation.isPending ? 0.6 : 1}
-                  >
-                    <Text fontFamily="$heading" fontSize="$3" color="$background">
-                      {logCompletionMutation.isPending ? t('office.completing') : t('office.amen')}
-                    </Text>
-                  </YStack>
-                </AnimatedPressable>
+                <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
+                  {formattedDate}
+                </Text>
               </YStack>
-            )}
 
-            <YStack paddingBottom="$lg" />
-          </ManuscriptFrame>
-        </YStack>
+              <YStack gap="$md">
+                {sections.map((section, index) => (
+                  <PracticeSectionBlock
+                    key={`${section.type}-${index}`}
+                    section={section}
+                    practiceId={practiceId}
+                    onSelectOverride={handleSelectOverride}
+                  />
+                ))}
+              </YStack>
 
-        {showCompleteModal && manifest?.program && (
-          <ProgramCompleteModal
-            practiceName={localizeContent(manifest.name)}
-            showRestart={manifest.program.completionBehavior === 'offer-restart'}
-            onRestart={() => {
-              restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
-            }}
-            onDone={() => router.back()}
-          />
-        )}
-      </ScreenLayout>
+              {manifest.completion !== 'manual' && (
+                <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                  <AnimatedPressable
+                    onPress={handleComplete}
+                    disabled={logCompletionMutation.isPending}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('office.amen')}
+                  >
+                    <YStack
+                      backgroundColor="$accent"
+                      borderRadius="$md"
+                      borderWidth={1}
+                      borderColor="$accentSubtle"
+                      paddingVertical="$md"
+                      alignItems="center"
+                      opacity={logCompletionMutation.isPending ? 0.6 : 1}
+                    >
+                      <Text fontFamily="$heading" fontSize="$3" color="$background">
+                        {logCompletionMutation.isPending ? t('office.completing') : t('office.amen')}
+                      </Text>
+                    </YStack>
+                  </AnimatedPressable>
+                </YStack>
+              )}
+
+              <YStack paddingBottom="$lg" />
+            </ManuscriptFrame>
+          </YStack>
+
+          {showCompleteModal && manifest?.program && (
+            <ProgramCompleteModal
+              practiceName={localizeContent(manifest.name)}
+              showRestart={manifest.program.completionBehavior === 'offer-restart'}
+              onRestart={() => {
+                restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
+              }}
+              onDone={() => router.back()}
+            />
+          )}
+        </ScreenLayout>
+      </PracticeProducerProvider>
     </ImageViewerProvider>
   )
 }
 
 function PracticeSectionBlock({
   section,
-  dynamic,
   practiceId,
   onSelectOverride,
 }: {
   section: RenderedSection
-  dynamic: DynamicResources
   practiceId: string
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
@@ -580,59 +479,27 @@ function PracticeSectionBlock({
         />
       )
 
-    case 'psalmody': {
-      if (section.psalms.length === 0) return undefined
-      const id = psalmodyId(section.psalms)
-      const cached = dynamic.data.get(id)
-      const retry = dynamic.retry.get(id)
-      if (!cached && retry) return <InlineRetry onRetry={retry} />
-      const result = cached?.payload as { data: PsalmodySlot[] } | undefined
-      const slots: PsalmSlot[] = result?.data
-        ? result.data.map(({ ref, verses }) => ({ ref, verses }))
-        : section.psalms.map((ref) => ({ ref }))
-      return <PsalmodyBlock slots={slots} />
-    }
+    case 'psalmody':
+      return <PsalmodySlot psalms={section.psalms} />
 
-    case 'reading': {
-      const ref = section.reference
-      const id = readingId(ref)
-      const cached = dynamic.data.get(id)
-      const retry = dynamic.retry.get(id)
-      if (!cached && retry) return <InlineRetry onRetry={retry} />
-      if (ref.type === 'bible') {
-        const result = cached?.payload as { data: ChapterResult } | undefined
-        return (
-          <BibleReadingBlock
-            reference={ref}
-            verses={result?.data.verses}
-            fallback={result?.data.fallback}
-          />
-        )
-      }
-      const result = cached?.payload as { data: CccParagraph[] } | undefined
-      return <CccReadingBlock reference={ref} paragraphs={result?.data} />
-    }
+    case 'reading':
+      return <ReadingSlot reference={section.reference} />
 
-    case 'include': {
-      const id = includeKeyFor(section.ref, section.params)
-      const cached = dynamic.data.get(id)
+    case 'include':
       return (
         <IncludeBlock
           ref={section.ref}
-          data={cached?.payload}
-          retry={dynamic.retry.get(id)}
+          params={section.params}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
               section={s}
-              dynamic={dynamic}
               practiceId={practiceId}
               onSelectOverride={onSelectOverride}
             />
           )}
         />
       )
-    }
 
     case 'proper':
       return (
@@ -647,7 +514,6 @@ function PracticeSectionBlock({
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
               section={s}
-              dynamic={dynamic}
               practiceId={practiceId}
               onSelectOverride={onSelectOverride}
             />

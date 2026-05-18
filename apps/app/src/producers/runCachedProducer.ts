@@ -21,7 +21,7 @@ function keyFor(producer: Producer, ctx: ProducerContext): ExternalContentKey {
   return {
     producerId: producer.id,
     producerVersion: producer.version,
-    lang: ctx.lang,
+    lang: ctx.prefs.lang,
     cacheKey: producer.cacheKey(ctx),
     paramsKey: paramsKeyFor(ctx.params),
   }

@@ -7,9 +7,17 @@
 
 import type { RenderedSection } from '@/content/types'
 
+// Session-scoped user preferences that any producer might want to read.
+// Bundling them keeps ProducerContext from sprouting one top-level field per
+// preference and makes "which prefs are producer-visible" a single grep.
+export type ProducerPrefs = {
+  lang: string           // content language: 'en-US' | 'pt-BR' (engine's contentLanguage)
+  translation: string    // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
+}
+
 export type ProducerContext = {
   date: Date
-  lang: string
+  prefs: ProducerPrefs
   // Practice-program cursor when the host is a program practice. Drives the
   // cacheKey for program-shaped producers; absent for non-program practices.
   programDay?: number

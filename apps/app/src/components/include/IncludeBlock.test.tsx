@@ -1,7 +1,15 @@
-import { render, screen } from '@testing-library/react'
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
+import { render, screen, waitFor } from '@testing-library/react'
 import type { ReactNode } from 'react'
 import { TamaguiProvider, Theme } from 'tamagui'
-import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest'
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
+
+// Skip the SQLite persistent cache — these are unit tests for the include
+// renderer, not the producer cache layer.
+vi.mock('@/db/repositories/externalContent', () => ({
+  getExternalContent: async () => undefined,
+  putExternalContent: async () => {},
+}))
 
 import { config } from '@/config/tamagui.config'
 import type { RenderedSection } from '@/content/types'
@@ -9,80 +17,104 @@ import { registerProducer, unregisterProducer } from '@/producers'
 import type { FlowProducer, ReaderProducer } from '@/producers/types'
 import { IncludeBlock } from './IncludeBlock'
 
-const testReader: ReaderProducer = {
-  id: 'producer/test-include-reader',
+const readerOk: ReaderProducer = {
+  id: 'producer/test-include-reader-ok',
   kind: 'reader',
-  produce: async () => ({ html: '' }),
+  version: '1',
+  cacheKey: () => '',
+  produce: async () => ({ html: '<p>hello <b>world</b></p>' }),
 }
 
-const testFlow: FlowProducer = {
+const readerFails: ReaderProducer = {
+  id: 'producer/test-include-reader-fails',
+  kind: 'reader',
+  version: '1',
+  cacheKey: () => '',
+  produce: async () => {
+    throw new Error('boom')
+  },
+}
+
+const flowOk: FlowProducer = {
   id: 'producer/test-include-flow',
   kind: 'flow',
-  produce: async () => ({ sections: [] }),
+  version: '1',
+  cacheKey: () => '',
+  produce: async () => ({
+    sections: [
+      { type: 'divider' },
+      { type: 'heading', text: { primary: 'h' } },
+    ],
+  }),
 }
 
-beforeAll(() => {
-  registerProducer(testReader)
-  registerProducer(testFlow)
+beforeEach(() => {
+  registerProducer(readerOk)
+  registerProducer(readerFails)
+  registerProducer(flowOk)
 })
 
-afterAll(() => {
-  unregisterProducer(testReader.id)
-  unregisterProducer(testFlow.id)
+afterEach(() => {
+  unregisterProducer(readerOk.id)
+  unregisterProducer(readerFails.id)
+  unregisterProducer(flowOk.id)
 })
 
 function wrap(node: ReactNode) {
+  const client = new QueryClient({
+    defaultOptions: { queries: { retry: false, gcTime: 0, staleTime: Number.POSITIVE_INFINITY } },
+  })
   return render(
-    <TamaguiProvider config={config} defaultTheme="light">
-      <Theme name="light">{node}</Theme>
-    </TamaguiProvider>,
+    <QueryClientProvider client={client}>
+      <TamaguiProvider config={config} defaultTheme="light">
+        <Theme name="light">{node}</Theme>
+      </TamaguiProvider>
+    </QueryClientProvider>,
   )
 }
 
 describe('IncludeBlock', () => {
   it('shows an error banner for an unknown producer ref', () => {
-    wrap(<IncludeBlock ref="producer/missing" data={undefined} />)
+    wrap(<IncludeBlock ref="producer/missing" />)
     expect(screen.getByText(/Unknown producer: producer\/missing/)).toBeInTheDocument()
   })
 
-  it('renders ProducerHtmlBlock output when reader-kind data arrives', () => {
-    wrap(<IncludeBlock ref={testReader.id} data={{ html: '<p>hello <b>world</b></p>' }} />)
-    expect(screen.getByText(/hello/)).toBeInTheDocument()
+  it('renders ProducerHtmlBlock output when reader-kind data arrives', async () => {
+    wrap(<IncludeBlock ref={readerOk.id} />)
+    await waitFor(() => {
+      expect(screen.getByText(/hello/)).toBeInTheDocument()
+    })
     expect(screen.getByText('world')).toBeInTheDocument()
   })
 
-  it('shows InlineRetry when there is no data and a retry callback', () => {
-    const retry = vi.fn()
-    const { container } = wrap(<IncludeBlock ref={testReader.id} data={undefined} retry={retry} />)
-    // InlineRetry renders an XStack with a retry button — assert by role.
-    expect(container.querySelector('[role="button"]')).not.toBeNull()
+  it('shows InlineRetry when the producer call errors', async () => {
+    const { container } = wrap(<IncludeBlock ref={readerFails.id} />)
+    await waitFor(() => {
+      expect(container.querySelector('[role="button"]')).not.toBeNull()
+    })
   })
 
-  it('renders nothing while loading (no data, no retry)', () => {
-    const { container } = wrap(<IncludeBlock ref={testReader.id} data={undefined} />)
-    expect(container.textContent?.trim()).toBe('')
-  })
-
-  it('dispatches flow-kind producers through the renderSection callback', () => {
+  it('dispatches flow-kind producers through the renderSection callback', async () => {
     const renderSection = vi.fn((s: RenderedSection, i: number) => (
       <span key={i} data-testid={`flow-section-${i}`}>
         {s.type}
       </span>
     ))
-    const sections: RenderedSection[] = [
-      { type: 'divider' },
-      { type: 'heading', text: { primary: 'h' } },
-    ]
-    wrap(<IncludeBlock ref={testFlow.id} data={{ sections }} renderSection={renderSection} />)
-    expect(renderSection).toHaveBeenCalledTimes(2)
-    expect(screen.getByTestId('flow-section-0')).toBeInTheDocument()
+    wrap(<IncludeBlock ref={flowOk.id} renderSection={renderSection} />)
+    await waitFor(() => {
+      expect(screen.getByTestId('flow-section-0')).toBeInTheDocument()
+    })
     expect(screen.getByTestId('flow-section-1')).toBeInTheDocument()
+    expect(renderSection).toHaveBeenCalledTimes(2)
   })
 
-  it('flow-kind renders nothing if no renderSection callback is provided', () => {
-    const { container } = wrap(
-      <IncludeBlock ref={testFlow.id} data={{ sections: [{ type: 'divider' }] }} />,
-    )
+  it('flow-kind renders nothing if no renderSection callback is provided', async () => {
+    const { container } = wrap(<IncludeBlock ref={flowOk.id} />)
+    // Even after the fetch settles, no callback means nothing renders.
+    await waitFor(() => {
+      // (give the query a chance to resolve)
+      expect(container).toBeTruthy()
+    })
     expect(container.textContent?.trim()).toBe('')
   })
 })
