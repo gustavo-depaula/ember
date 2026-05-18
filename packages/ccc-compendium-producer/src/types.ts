@@ -10,12 +10,6 @@ export type ChapterId =
   | 'appendix-a'
   | 'appendix-b'
 
-export type ProduceContext = {
-  chapter: ChapterId
-  lang: Lang
-  fetch?: typeof fetch
-}
-
 export type AnchorIndex = Record<string, { chapter: ChapterId }>
 
 export type ProduceResult = {

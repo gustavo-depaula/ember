@@ -199,6 +199,9 @@ export function resolveSection(
     case 'psalmody':
       return [{ type: 'psalmody', psalms: section.psalms.map(ec.parsePsalmRef) }]
 
+    case 'include':
+      return [{ type: 'include', ref: section.ref, params: section.params }]
+
     case 'lectio': {
       if ('reference' in section) {
         const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })

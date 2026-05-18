@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQueries, useQuery } from '@tanstack/react-query'
+import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useState } from 'react'
@@ -13,6 +13,7 @@ import {
   BibleReadingBlock,
   CccReadingBlock,
   confirm,
+  IncludeBlock,
   InlineRetry,
   ManuscriptFrame,
   ProperSlot,
@@ -61,6 +62,9 @@ import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { PsalmRef } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
+import { type ResourceMap, useResourceQueries } from '@/lib/useResourceQueries'
+import type { CachedProducerResult } from '@/producers'
+import { collectIncludes, getProducer, includeKeyFor, runCachedProducer } from '@/producers'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Descends through container sections so dynamic content (readings, psalmody)
@@ -95,6 +99,13 @@ function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
 
 type BibleKey = { book: string; chapter: number }
 type CccKey = { start: number; count: number }
+
+type DynamicResources = {
+  psalmSlots: PsalmSlot[]
+  bibles: ResourceMap<{ verses: Verse[]; fallback?: boolean }>
+  ccc: ResourceMap<Array<{ number: number; text: string; section: string }>>
+  includes: ResourceMap<CachedProducerResult>
+}
 
 const bibleKeyStr = (k: BibleKey) => `${k.book}/${k.chapter}`
 const cccKeyStr = (k: CccKey) => `${k.start}/${k.count}`
@@ -297,66 +308,56 @@ export function PracticeFlow({
   // Load dynamic content (psalms, Bible readings, CCC)
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
   const { bibleKeys, cccKeys } = useMemo(() => collectReadingKeys(sections), [sections])
+  const includes = useMemo(() => collectIncludes(sections, walkRenderedSections), [sections])
 
   const psalmResult = usePsalmsForHour(psalmRefs, translation)
 
-  const bibleQueries = useQueries({
-    queries: bibleKeys.map((k) => ({
-      queryKey: ['chapter', translation, k.book, k.chapter] as const,
-      queryFn: () => getChapter(translation, k.book, k.chapter),
-    })),
-  })
+  const bibles = useResourceQueries(bibleKeys, bibleKeyStr, (k) => ({
+    queryKey: ['chapter', translation, k.book, k.chapter] as const,
+    queryFn: () => getChapter(translation, k.book, k.chapter),
+  }))
 
-  const cccQueries = useQueries({
-    queries: cccKeys.map((k) => ({
-      queryKey: ['ccc', k.start, k.count] as const,
-      queryFn: () => getCccParagraphs(k.start, k.count),
-    })),
-  })
+  const ccc = useResourceQueries(cccKeys, cccKeyStr, (k) => ({
+    queryKey: ['ccc', k.start, k.count] as const,
+    queryFn: () => getCccParagraphs(k.start, k.count),
+  }))
 
-  const bibleMap = useMemo(() => {
-    const map = new Map<string, { verses: Verse[]; fallback?: boolean }>()
-    for (let i = 0; i < bibleKeys.length; i++) {
-      const data = bibleQueries[i]?.data
-      if (data) map.set(bibleKeyStr(bibleKeys[i]), data)
-    }
-    return map
-  }, [bibleKeys, bibleQueries])
+  const includesData = useResourceQueries(
+    includes,
+    (inc) => inc.key,
+    (inc) => {
+      const producer = getProducer(inc.ref)
+      const ctx = { date: now, lang: contentLanguage, programDay, params: inc.params }
+      return {
+        queryKey: [
+          'producer',
+          inc.ref,
+          producer?.version ?? '?',
+          contentLanguage,
+          producer?.cacheKey(ctx) ?? '',
+          inc.key,
+        ] as const,
+        queryFn: async () => {
+          if (!producer) throw new Error(`Unknown producer: ${inc.ref}`)
+          return runCachedProducer(producer, ctx)
+        },
+        staleTime: Number.POSITIVE_INFINITY,
+      }
+    },
+  )
 
-  const cccMap = useMemo(() => {
-    const map = new Map<string, Array<{ number: number; text: string; section: string }>>()
-    for (let i = 0; i < cccKeys.length; i++) {
-      const data = cccQueries[i]?.data
-      if (data) map.set(cccKeyStr(cccKeys[i]), data)
-    }
-    return map
-  }, [cccKeys, cccQueries])
+  const dynamic: DynamicResources = useMemo(
+    () => ({ psalmSlots: psalmResult.slots, bibles, ccc, includes: includesData }),
+    [psalmResult.slots, bibles, ccc, includesData],
+  )
 
-  const bibleErrors = useMemo(() => {
-    const map = new Map<string, () => void>()
-    for (let i = 0; i < bibleKeys.length; i++) {
-      const q = bibleQueries[i]
-      if (q?.isError) map.set(bibleKeyStr(bibleKeys[i]), () => q.refetch())
-    }
-    return map
-  }, [bibleKeys, bibleQueries])
-
-  const cccErrors = useMemo(() => {
-    const map = new Map<string, () => void>()
-    for (let i = 0; i < cccKeys.length; i++) {
-      const q = cccQueries[i]
-      if (q?.isError) map.set(cccKeyStr(cccKeys[i]), () => q.refetch())
-    }
-    return map
-  }, [cccKeys, cccQueries])
-
-  const bibleLoading = bibleQueries.some((r) => r.isLoading)
-  const cccLoading = cccQueries.some((r) => r.isLoading)
-
-  const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
+  const hasDynamicContent =
+    psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0 || includes.length > 0
   const isInitialResolve = isResolvingFlow && sections.length === 0
   const isDynamicLoading =
-    isInitialResolve || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
+    isInitialResolve ||
+    (hasDynamicContent &&
+      (psalmResult.isLoading || bibles.isLoading || ccc.isLoading || includesData.isLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -471,11 +472,7 @@ export function PracticeFlow({
                 <PracticeSectionBlock
                   key={`${section.type}-${index}`}
                   section={section}
-                  psalmSlots={psalmResult.slots}
-                  bibleMap={bibleMap}
-                  cccMap={cccMap}
-                  bibleErrors={bibleErrors}
-                  cccErrors={cccErrors}
+                  dynamic={dynamic}
                   practiceId={practiceId}
                   onSelectOverride={handleSelectOverride}
                 />
@@ -528,20 +525,12 @@ export function PracticeFlow({
 
 function PracticeSectionBlock({
   section,
-  psalmSlots,
-  bibleMap,
-  cccMap,
-  bibleErrors,
-  cccErrors,
+  dynamic,
   practiceId,
   onSelectOverride,
 }: {
   section: RenderedSection
-  psalmSlots: PsalmSlot[]
-  bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
-  cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
-  bibleErrors: Map<string, () => void>
-  cccErrors: Map<string, () => void>
+  dynamic: DynamicResources
   practiceId: string
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
@@ -590,14 +579,14 @@ function PracticeSectionBlock({
       )
 
     case 'psalmody':
-      return <PsalmodyBlock slots={psalmSlots} />
+      return <PsalmodyBlock slots={dynamic.psalmSlots} />
 
     case 'reading': {
       const ref = section.reference
       if (ref.type === 'bible') {
         const key = bibleKeyStr(ref)
-        const bibleData = bibleMap.get(key)
-        const retry = bibleErrors.get(key)
+        const bibleData = dynamic.bibles.data.get(key)
+        const retry = dynamic.bibles.retry.get(key)
         if (!bibleData && retry) return <InlineRetry onRetry={retry} />
         return (
           <BibleReadingBlock
@@ -608,10 +597,31 @@ function PracticeSectionBlock({
         )
       }
       const key = cccKeyStr({ start: ref.startParagraph, count: ref.count })
-      const cccData = cccMap.get(key)
-      const retry = cccErrors.get(key)
+      const cccData = dynamic.ccc.data.get(key)
+      const retry = dynamic.ccc.retry.get(key)
       if (!cccData && retry) return <InlineRetry onRetry={retry} />
       return <CccReadingBlock reference={ref} paragraphs={cccData} />
+    }
+
+    case 'include': {
+      const key = includeKeyFor(section.ref, section.params)
+      const cached = dynamic.includes.data.get(key)
+      return (
+        <IncludeBlock
+          ref={section.ref}
+          data={cached?.payload}
+          retry={dynamic.includes.retry.get(key)}
+          renderSection={(s, i) => (
+            <PracticeSectionBlock
+              key={`${s.type}-${i}`}
+              section={s}
+              dynamic={dynamic}
+              practiceId={practiceId}
+              onSelectOverride={onSelectOverride}
+            />
+          )}
+        />
+      )
     }
 
     case 'proper':
@@ -620,7 +630,6 @@ function PracticeSectionBlock({
       )
 
     default:
-      // Delegate common section types (rubric, prayer, hymn, canticle, heading, etc.)
       return (
         <SectionBlock
           section={section}
@@ -628,11 +637,7 @@ function PracticeSectionBlock({
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
               section={s}
-              psalmSlots={psalmSlots}
-              bibleMap={bibleMap}
-              cccMap={cccMap}
-              bibleErrors={bibleErrors}
-              cccErrors={cccErrors}
+              dynamic={dynamic}
               practiceId={practiceId}
               onSelectOverride={onSelectOverride}
             />

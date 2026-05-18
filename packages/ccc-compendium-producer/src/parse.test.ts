@@ -1,21 +1,24 @@
 import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
-import { chapterOrder, chapters } from './chapters'
+import { chapterOrder } from './chapters'
 import { parseChapter } from './parse'
 import type { ChapterId, Lang } from './types'
 
 function loadFixture(lang: Lang): string {
   const slug = lang === 'en-US' ? 'en' : 'pt'
   const path = join(__dirname, '..', '__fixtures__', `${slug}.html`)
-  const buf = readFileSync(path)
-  // Fixtures are stored as Latin-1 bytes (vatican.va's wire format). Decode 1:1.
-  let s = ''
-  for (let i = 0; i < buf.length; i++) s += String.fromCharCode(buf[i])
-  return s
+  return new TextDecoder('iso-8859-1').decode(readFileSync(path))
 }
 
 const langs: Lang[] = ['en-US', 'pt-BR']
+
+const partRanges: Record<'part-1' | 'part-2' | 'part-3' | 'part-4', [number, number]> = {
+  'part-1': [1, 217],
+  'part-2': [218, 356],
+  'part-3': [357, 533],
+  'part-4': [534, 598],
+}
 
 describe('parseChapter — chapter slicing across both languages', () => {
   for (const lang of langs) {
@@ -28,27 +31,12 @@ describe('parseChapter — chapter slicing across both languages', () => {
     })
 
     it(`${lang}: part chapters contain their expected Q-number range`, () => {
-      for (const id of ['part-1', 'part-2', 'part-3', 'part-4'] as ChapterId[]) {
-        const range = chapters[id].questionRange
-        expect(range).toBeDefined()
-        const out = parseChapter(raw, id, lang)
-        const [first, last] = range as [number, number]
+      for (const [id, [first, last]] of Object.entries(partRanges)) {
+        const out = parseChapter(raw, id as ChapterId, lang)
         expect(out.html).toContain(`id="q${first}"`)
         expect(out.html).toContain(`id="q${last}"`)
-        const before = first > 1 ? first - 1 : undefined
-        const after = last + 1
-        if (before !== undefined) expect(out.html).not.toContain(`id="q${before}"`)
-        // Q599 doesn't exist, so this is always safe.
-        if (after <= 598) {
-          // Q from next part should not appear in this chapter
-          const inNextPart = chapterOrder
-            .filter((c) => c !== id)
-            .some((c) => {
-              const r = chapters[c].questionRange
-              return r && r[0] === after
-            })
-          if (inNextPart) expect(out.html).not.toContain(`id="q${after}"`)
-        }
+        if (first > 1) expect(out.html).not.toContain(`id="q${first - 1}"`)
+        if (last < 598) expect(out.html).not.toContain(`id="q${last + 1}"`)
       }
     })
 

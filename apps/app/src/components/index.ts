@@ -9,6 +9,7 @@ export { ConfirmHost, confirm } from './ConfirmSheet'
 export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
 export { InlineRetry } from './InlineRetry'
+export { IncludeBlock, ProducerHtmlBlock } from './include'
 export { ManuscriptFrame } from './ManuscriptFrame'
 export { ObligationBadges } from './ObligationBadges'
 export {

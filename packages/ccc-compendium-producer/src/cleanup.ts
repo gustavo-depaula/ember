@@ -7,7 +7,7 @@ const namedEntities: Record<string, string> = {
   gt: '>',
   quot: '"',
   apos: "'",
-  nbsp: ' ',
+  nbsp: ' ',
   copy: '©',
   reg: '®',
   trade: '™',
@@ -57,7 +57,7 @@ export function decodeEntities(input: string): string {
   return input.replace(/&(#x?[0-9a-f]+|[a-z][a-z0-9]*);/gi, (_, body: string) => {
     if (body[0] === '#') {
       const isHex = body[1] === 'x' || body[1] === 'X'
-      const num = parseInt(body.slice(isHex ? 2 : 1), isHex ? 16 : 10)
+      const num = Number.parseInt(body.slice(isHex ? 2 : 1), isHex ? 16 : 10)
       if (Number.isFinite(num) && num > 0 && num < 0x110000) return String.fromCodePoint(num)
       return ''
     }
@@ -66,63 +66,31 @@ export function decodeEntities(input: string): string {
   })
 }
 
-// Fix the stray `Â` mojibake that vatican.va's source embeds before
-// typographic punctuation (legacy UTF-8↔Latin-1 round-trip damage from the
-// original publishing pipeline). `Â ` → ` ` and isolated `Â` before
-// typographic chars is dropped.
-export function fixMojibake(text: string): string {
-  return text.replace(/Â /g, ' ').replace(/Â(?=[‐-‰ ])/g, '')
-}
+const PRESENTATIONAL_ATTRS_RE =
+  /\s+(?:align|bgcolor|border|cellspacing|cellpadding|width|height|valign|bordercolor)="[^"]*"/gi
 
-// Strip Microsoft Office conditional comments and `<o:p>` filler tags that
-// litter the source HTML.
-export function stripOfficeNoise(html: string): string {
-  return html
-    .replace(/<!--\[if[^\]]*\]-->/g, '')
-    .replace(/<!--\[endif\]-->/g, '')
+// The source HTML is laden with publishing-pipeline noise: Microsoft Office
+// conditional comments, `<o:p>` tags, layout tables, `<font>` color/size
+// wrappers, and legacy Latin-1↔UTF-8 mojibake from before Unicode was
+// universally pipeline-safe (a stray `Â` glued onto typographic punctuation).
+// None of this carries semantic content; `book.css` styles via standard tags.
+export function cleanChapter(html: string): string {
+  const stripped = html
+    .replace(/<!--\[(?:if[^\]]*|endif)\]-->/g, '')
     .replace(/<\/?o:p[^>]*>/g, '')
-}
-
-// Drop the legacy <font> wrappers — book.css owns colors and sizes.
-export function stripFontTags(html: string): string {
-  return html.replace(/<\/?font[^>]*>/gi, '')
-}
-
-// The source uses tables purely for layout (page chrome, side-by-side
-// Latin/English prayer columns). Drop the wrapper tags and keep inner content
-// inline.
-export function stripTableTags(html: string): string {
-  return html.replace(/<\/?(?:table|tbody|thead|tfoot|tr|td|th)[^>]*>/gi, '')
-}
-
-// Drop alignment attributes and inline styles that fight book.css.
-export function stripPresentationalAttrs(html: string): string {
-  return html
-    .replace(/\s+align="[^"]*"/gi, '')
-    .replace(/\s+bgcolor="[^"]*"/gi, '')
-    .replace(/\s+border="[^"]*"/gi, '')
-    .replace(/\s+cellspacing="[^"]*"/gi, '')
-    .replace(/\s+cellpadding="[^"]*"/gi, '')
-    .replace(/\s+width="[^"]*"/gi, '')
-    .replace(/\s+height="[^"]*"/gi, '')
-    .replace(/\s+valign="[^"]*"/gi, '')
-    .replace(/\s+bordercolor="[^"]*"/gi, '')
-}
-
-// Collapse runs of whitespace in the markup to keep diffs small.
-export function collapseWhitespace(html: string): string {
-  return html
-    .replace(/[ \t\r\n]+/g, ' ')
-    .replace(/>\s+</g, '>\n<')
-    .trim()
-}
-
-// Drop the leftover layout/footnote `<div>` wrappers; book.css uses paragraphs
-// and headings. Also collapses sequences of empty `<p>` (often spacers in the
-// source) into a single blank line.
-export function dropEmptyShells(html: string): string {
-  return html
+    .replace(/<\/?(?:table|tbody|thead|tfoot|tr|td|th)[^>]*>/gi, '')
+    .replace(/<\/?font[^>]*>/gi, '')
     .replace(/<\/?div[^>]*>/gi, '')
+    .replace(PRESENTATIONAL_ATTRS_RE, '')
+  // Entity decode runs first so `&Acirc;` becomes the literal `Â` (for the
+  // mojibake strip) and `&nbsp;` becomes a space (for the empty-shell strip).
+  return decodeEntities(stripped)
+    .replace(/Â /g, ' ')
+    .replace(/Â(?=[‐-‰ ])/g, '')
     .replace(/<p[^>]*>\s*<\/p>/gi, '')
     .replace(/(?:<br\s*\/?>\s*){3,}/gi, '<br />\n<br />')
+    .replace(/[ \t\r\n]+/g, ' ')
+    .replace(/>\s+</g, '>\n<')
+    .replace(/(?:\s*<hr\s*\/?>\s*)+$/i, '')
+    .trim()
 }

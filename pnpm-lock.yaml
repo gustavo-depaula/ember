@@ -42,6 +42,9 @@ importers:
 
   apps/app:
     dependencies:
+      '@ember/ccc-compendium-producer':
+        specifier: workspace:*
+        version: link:../../packages/ccc-compendium-producer
       '@ember/content-engine':
         specifier: workspace:*
         version: link:../../packages/content-engine

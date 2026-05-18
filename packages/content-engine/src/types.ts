@@ -132,6 +132,14 @@ export type FlowSection = { lang?: string } & (
   | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
   | { type: 'lectio'; reference: string }
+  | {
+      // Generic extension point: invoke a registered content producer at
+      // render time. The flow engine passes it through unchanged — async
+      // resolution lives in the renderer (TanStack Query keyed by ref).
+      type: 'include'
+      ref: string
+      params?: Record<string, unknown>
+    }
   | { type: 'prose'; file: string }
   | {
       type: 'prose'
@@ -376,6 +384,7 @@ export type RenderedSection =
     }
   | { type: 'psalmody'; psalms: PsalmRef[] }
   | { type: 'reading'; reference: ReadingReference; trackId?: string }
+  | { type: 'include'; ref: string; params?: Record<string, unknown> }
   | { type: 'prose'; text: BilingualText }
   | {
       type: 'gallery'

@@ -1,12 +1,12 @@
-export type { ChapterSpec } from './chapters'
+export { buildAnchorIndex, chapterOrder, sourceHomepage, sourceUrl } from './chapters'
 export {
-  buildAnchorIndex,
-  chapterOrder,
-  chapters,
-  sourceHomepage,
-  sourceUrl,
-} from './chapters'
+  chapterForQuestion,
+  extractQuestion,
+  programDayToQuestionRange,
+  TOTAL_QUESTIONS,
+  totalProgramDays,
+} from './extract'
 export { fetchPage } from './fetchPage'
 export { parseChapter } from './parse'
-export { produce, producerId } from './produce'
-export type { AnchorIndex, ChapterId, Lang, ProduceContext, ProduceResult } from './types'
+export { cccCompendiumProgramProducer } from './produce'
+export type { AnchorIndex, ChapterId, Lang, ProduceResult } from './types'
