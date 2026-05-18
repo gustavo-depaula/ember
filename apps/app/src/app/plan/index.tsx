@@ -364,7 +364,12 @@ export default function PlanScreen() {
               {practices.map((group) => (
                 <AnimatedPressable
                   key={group.practiceId}
-                  onPress={() => router.push(`/plan/${group.practiceId}`)}
+                  onPress={() =>
+                    router.push({
+                      pathname: '/plan/[practiceId]',
+                      params: { practiceId: group.practiceId },
+                    })
+                  }
                   accessibilityRole="link"
                   accessibilityLabel={group.name}
                 >
@@ -450,7 +455,12 @@ export default function PlanScreen() {
                         exiting={FadeOut.duration(150)}
                       >
                         <AnimatedPressable
-                          onPress={() => router.push(`/plan/${p.practice_id}`)}
+                          onPress={() =>
+                            router.push({
+                              pathname: '/plan/[practiceId]',
+                              params: { practiceId: p.practice_id },
+                            })
+                          }
                           accessibilityRole="link"
                           accessibilityLabel={name}
                         >

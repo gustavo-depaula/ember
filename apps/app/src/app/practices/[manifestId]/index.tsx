@@ -397,7 +397,12 @@ export default function CatalogDetailScreen() {
           )
         ) : isInPlan ? (
           <Pressable
-            onPress={() => router.push(`/plan/${planPracticeId}`)}
+            onPress={() =>
+              router.push({
+                pathname: '/plan/[practiceId]',
+                params: { practiceId: planPracticeId },
+              })
+            }
             accessibilityRole="link"
             accessibilityLabel={t('catalog.alreadyInPlan')}
           >
