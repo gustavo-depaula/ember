@@ -55,16 +55,16 @@ import {
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
-import { getCccParagraphs } from '@/lib/catechism'
-import { getChapter, type Verse } from '@/lib/content'
+import type { CccParagraph } from '@/lib/catechism'
+import type { ChapterResult } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
-import type { PsalmRef } from '@/lib/liturgical'
+import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
 import { type ResourceMap, useResourceQueries } from '@/lib/useResourceQueries'
 import type { CachedProducerResult } from '@/producers'
-import { collectIncludes, getProducer, includeKeyFor, runCachedProducer } from '@/producers'
+import { getProducer, includeKeyFor, runCachedProducer } from '@/producers'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Descends through container sections so dynamic content (readings, psalmody)
@@ -97,38 +97,50 @@ function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
   return []
 }
 
-type BibleKey = { book: string; chapter: number }
-type CccKey = { start: number; count: number }
+type ProducerCall = { ref: string; params: Record<string, unknown>; key: string }
 
 type DynamicResources = {
   psalmSlots: PsalmSlot[]
-  bibles: ResourceMap<{ verses: Verse[]; fallback?: boolean }>
-  ccc: ResourceMap<Array<{ number: number; text: string; section: string }>>
-  includes: ResourceMap<CachedProducerResult>
+  producers: ResourceMap<CachedProducerResult>
+  translation: string
 }
 
-const bibleKeyStr = (k: BibleKey) => `${k.book}/${k.chapter}`
-const cccKeyStr = (k: CccKey) => `${k.start}/${k.count}`
-
-function collectReadingKeys(sections: RenderedSection[]): {
-  bibleKeys: BibleKey[]
-  cccKeys: CccKey[]
+// Maps a `reading` section to the producer that fetches its content. Bible
+// chapters and CCC paragraphs both flow through the producer pipeline now,
+// so the renderer + the prefetch list share a single key construction.
+function readingProducerCall(ref: ReadingReference, translation: string): {
+  ref: string
+  params: Record<string, unknown>
 } {
-  const bibleSet = new Map<string, BibleKey>()
-  const cccSet = new Map<string, CccKey>()
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type !== 'reading') continue
-    if (s.reference.type === 'bible') {
-      const key = { book: s.reference.book, chapter: s.reference.chapter }
-      const k = bibleKeyStr(key)
-      if (!bibleSet.has(k)) bibleSet.set(k, key)
-    } else {
-      const key = { start: s.reference.startParagraph, count: s.reference.count }
-      const k = cccKeyStr(key)
-      if (!cccSet.has(k)) cccSet.set(k, key)
+  if (ref.type === 'bible') {
+    return {
+      ref: 'producer/bible-chapter',
+      params: { translation, book: ref.book, chapter: ref.chapter },
     }
   }
-  return { bibleKeys: Array.from(bibleSet.values()), cccKeys: Array.from(cccSet.values()) }
+  return {
+    ref: 'producer/ccc-chapter',
+    params: { start: ref.startParagraph, count: ref.count },
+  }
+}
+
+function collectProducerCalls(
+  sections: RenderedSection[],
+  translation: string,
+): ProducerCall[] {
+  const seen = new Map<string, ProducerCall>()
+  const add = (ref: string, params: Record<string, unknown>) => {
+    const key = includeKeyFor(ref, params)
+    if (!seen.has(key)) seen.set(key, { ref, params, key })
+  }
+  for (const s of walkRenderedSections(sections)) {
+    if (s.type === 'include') add(s.ref, s.params ?? {})
+    else if (s.type === 'reading') {
+      const call = readingProducerCall(s.reference, translation)
+      add(call.ref, call.params)
+    }
+  }
+  return Array.from(seen.values())
 }
 
 function findTrackIds(sections: RenderedSection[]): string[] {
@@ -305,40 +317,34 @@ export function PracticeFlow({
     selectOverrides,
   ])
 
-  // Load dynamic content (psalms, Bible readings, CCC)
+  // Load dynamic content. Readings (Bible/CCC) and explicit `include` blocks
+  // both flow through the producer pipeline now, so there's a single fetch
+  // surface and a single ResourceMap.
   const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
-  const { bibleKeys, cccKeys } = useMemo(() => collectReadingKeys(sections), [sections])
-  const includes = useMemo(() => collectIncludes(sections, walkRenderedSections), [sections])
+  const producerCalls = useMemo(
+    () => collectProducerCalls(sections, translation),
+    [sections, translation],
+  )
 
   const psalmResult = usePsalmsForHour(psalmRefs, translation)
 
-  const bibles = useResourceQueries(bibleKeys, bibleKeyStr, (k) => ({
-    queryKey: ['chapter', translation, k.book, k.chapter] as const,
-    queryFn: () => getChapter(translation, k.book, k.chapter),
-  }))
-
-  const ccc = useResourceQueries(cccKeys, cccKeyStr, (k) => ({
-    queryKey: ['ccc', k.start, k.count] as const,
-    queryFn: () => getCccParagraphs(k.start, k.count),
-  }))
-
-  const includesData = useResourceQueries(
-    includes,
-    (inc) => inc.key,
-    (inc) => {
-      const producer = getProducer(inc.ref)
-      const ctx = { date: now, lang: contentLanguage, programDay, params: inc.params }
+  const producersData = useResourceQueries(
+    producerCalls,
+    (c) => c.key,
+    (c) => {
+      const producer = getProducer(c.ref)
+      const ctx = { date: now, lang: contentLanguage, programDay, params: c.params }
       return {
         queryKey: [
           'producer',
-          inc.ref,
+          c.ref,
           producer?.version ?? '?',
           contentLanguage,
           producer?.cacheKey(ctx) ?? '',
-          inc.key,
+          c.key,
         ] as const,
         queryFn: async () => {
-          if (!producer) throw new Error(`Unknown producer: ${inc.ref}`)
+          if (!producer) throw new Error(`Unknown producer: ${c.ref}`)
           return runCachedProducer(producer, ctx)
         },
         staleTime: Number.POSITIVE_INFINITY,
@@ -347,17 +353,15 @@ export function PracticeFlow({
   )
 
   const dynamic: DynamicResources = useMemo(
-    () => ({ psalmSlots: psalmResult.slots, bibles, ccc, includes: includesData }),
-    [psalmResult.slots, bibles, ccc, includesData],
+    () => ({ psalmSlots: psalmResult.slots, producers: producersData, translation }),
+    [psalmResult.slots, producersData, translation],
   )
 
-  const hasDynamicContent =
-    psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0 || includes.length > 0
+  const hasDynamicContent = psalmRefs.length > 0 || producerCalls.length > 0
   const isInitialResolve = isResolvingFlow && sections.length === 0
   const isDynamicLoading =
     isInitialResolve ||
-    (hasDynamicContent &&
-      (psalmResult.isLoading || bibles.isLoading || ccc.isLoading || includesData.isLoading))
+    (hasDynamicContent && (psalmResult.isLoading || producersData.isLoading))
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -583,34 +587,33 @@ function PracticeSectionBlock({
 
     case 'reading': {
       const ref = section.reference
+      const call = readingProducerCall(ref, dynamic.translation)
+      const key = includeKeyFor(call.ref, call.params)
+      const cached = dynamic.producers.data.get(key)
+      const retry = dynamic.producers.retry.get(key)
+      if (!cached && retry) return <InlineRetry onRetry={retry} />
       if (ref.type === 'bible') {
-        const key = bibleKeyStr(ref)
-        const bibleData = dynamic.bibles.data.get(key)
-        const retry = dynamic.bibles.retry.get(key)
-        if (!bibleData && retry) return <InlineRetry onRetry={retry} />
+        const result = cached?.payload as { data: ChapterResult } | undefined
         return (
           <BibleReadingBlock
             reference={ref}
-            verses={bibleData?.verses}
-            fallback={bibleData?.fallback}
+            verses={result?.data.verses}
+            fallback={result?.data.fallback}
           />
         )
       }
-      const key = cccKeyStr({ start: ref.startParagraph, count: ref.count })
-      const cccData = dynamic.ccc.data.get(key)
-      const retry = dynamic.ccc.retry.get(key)
-      if (!cccData && retry) return <InlineRetry onRetry={retry} />
-      return <CccReadingBlock reference={ref} paragraphs={cccData} />
+      const result = cached?.payload as { data: CccParagraph[] } | undefined
+      return <CccReadingBlock reference={ref} paragraphs={result?.data} />
     }
 
     case 'include': {
       const key = includeKeyFor(section.ref, section.params)
-      const cached = dynamic.includes.data.get(key)
+      const cached = dynamic.producers.data.get(key)
       return (
         <IncludeBlock
           ref={section.ref}
           data={cached?.payload}
-          retry={dynamic.includes.retry.get(key)}
+          retry={dynamic.producers.retry.get(key)}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}

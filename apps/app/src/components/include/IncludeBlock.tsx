@@ -29,5 +29,10 @@ export function IncludeBlock({ ref, data, retry, onRefPress, renderSection }: Pr
     if (!renderSection) return undefined
     return <>{data.sections.map(renderSection)}</>
   }
+  // `data`-kind producers feed specialized renderers (BibleReadingBlock,
+  // CccReadingBlock); they can't be inlined through `include`.
+  if (producer.kind === 'data') {
+    return <Text color="$colorDestructive">[Producer {ref} is data-kind; use a reading section]</Text>
+  }
   return undefined
 }

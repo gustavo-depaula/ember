@@ -1,6 +1,9 @@
 // Producer `kind` matches the consumer:
 // - `reader`: HTML + anchor sidecar — rendered via ProducerHtmlBlock.
 // - `flow`:   RenderedSection[] inlined into the surrounding flow.
+// - `data`:   typed payload consumed by a specialized renderer (e.g. Bible
+//             verses with a verse-number block, CCC paragraphs with breadcrumbs).
+//             The producer owns the shape; consumers cast at the use site.
 
 import type { RenderedSection } from '@/content/types'
 
@@ -20,6 +23,10 @@ export type ReaderProducerResult = {
 
 export type FlowProducerResult = {
   sections: RenderedSection[]
+}
+
+export type DataProducerResult = {
+  data: unknown
 }
 
 type Common = {
@@ -43,5 +50,10 @@ export type FlowProducer = Common & {
   produce: (ctx: ProducerContext) => Promise<FlowProducerResult>
 }
 
-export type Producer = ReaderProducer | FlowProducer
-export type ProducerResult = ReaderProducerResult | FlowProducerResult
+export type DataProducer<T = unknown> = Common & {
+  kind: 'data'
+  produce: (ctx: ProducerContext) => Promise<{ data: T }>
+}
+
+export type Producer = ReaderProducer | FlowProducer | DataProducer
+export type ProducerResult = ReaderProducerResult | FlowProducerResult | DataProducerResult
