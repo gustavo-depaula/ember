@@ -37,7 +37,6 @@ import {
   ensurePracticeCursors,
   useAdvanceCursor,
   useCursorsForPractice,
-  usePsalmsForHour,
 } from '@/features/divine-office'
 import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
 import {
@@ -65,6 +64,7 @@ import { parseSlotKey } from '@/lib/slotKey'
 import { type ResourceMap, useResourceQueries } from '@/lib/useResourceQueries'
 import type { CachedProducerResult } from '@/producers'
 import { getProducer, includeKeyFor, runCachedProducer } from '@/producers'
+import type { PsalmodySlot } from '@/producers/psalmody'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // Descends through container sections so dynamic content (readings, psalmody)
@@ -90,24 +90,16 @@ function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedS
   }
 }
 
-function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type === 'psalmody') return s.psalms
-  }
-  return []
-}
-
 type ProducerCall = { ref: string; params: Record<string, unknown>; key: string }
 
 type DynamicResources = {
-  psalmSlots: PsalmSlot[]
   producers: ResourceMap<CachedProducerResult>
   translation: string
 }
 
-// Maps a `reading` section to the producer that fetches its content. Bible
-// chapters and CCC paragraphs both flow through the producer pipeline now,
-// so the renderer + the prefetch list share a single key construction.
+// Maps a flow primitive (reading, psalmody) to the producer call that fetches
+// its content. The renderer reuses these helpers to compute the lookup key,
+// guaranteeing the prefetch list and the lookup never drift apart.
 function readingProducerCall(ref: ReadingReference, translation: string): {
   ref: string
   params: Record<string, unknown>
@@ -124,6 +116,13 @@ function readingProducerCall(ref: ReadingReference, translation: string): {
   }
 }
 
+function psalmodyProducerCall(psalms: PsalmRef[], translation: string): {
+  ref: string
+  params: Record<string, unknown>
+} {
+  return { ref: 'producer/psalmody', params: { translation, psalms } }
+}
+
 function collectProducerCalls(
   sections: RenderedSection[],
   translation: string,
@@ -137,6 +136,9 @@ function collectProducerCalls(
     if (s.type === 'include') add(s.ref, s.params ?? {})
     else if (s.type === 'reading') {
       const call = readingProducerCall(s.reference, translation)
+      add(call.ref, call.params)
+    } else if (s.type === 'psalmody' && s.psalms.length > 0) {
+      const call = psalmodyProducerCall(s.psalms, translation)
       add(call.ref, call.params)
     }
   }
@@ -317,16 +319,13 @@ export function PracticeFlow({
     selectOverrides,
   ])
 
-  // Load dynamic content. Readings (Bible/CCC) and explicit `include` blocks
-  // both flow through the producer pipeline now, so there's a single fetch
-  // surface and a single ResourceMap.
-  const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
+  // Load dynamic content. Readings (Bible/CCC), psalmody, and explicit
+  // `include` blocks all flow through one producer pipeline → one fetch
+  // surface, one ResourceMap.
   const producerCalls = useMemo(
     () => collectProducerCalls(sections, translation),
     [sections, translation],
   )
-
-  const psalmResult = usePsalmsForHour(psalmRefs, translation)
 
   const producersData = useResourceQueries(
     producerCalls,
@@ -353,15 +352,13 @@ export function PracticeFlow({
   )
 
   const dynamic: DynamicResources = useMemo(
-    () => ({ psalmSlots: psalmResult.slots, producers: producersData, translation }),
-    [psalmResult.slots, producersData, translation],
+    () => ({ producers: producersData, translation }),
+    [producersData, translation],
   )
 
-  const hasDynamicContent = psalmRefs.length > 0 || producerCalls.length > 0
   const isInitialResolve = isResolvingFlow && sections.length === 0
   const isDynamicLoading =
-    isInitialResolve ||
-    (hasDynamicContent && (psalmResult.isLoading || producersData.isLoading))
+    isInitialResolve || (producerCalls.length > 0 && producersData.isLoading)
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -582,8 +579,19 @@ function PracticeSectionBlock({
         />
       )
 
-    case 'psalmody':
-      return <PsalmodyBlock slots={dynamic.psalmSlots} />
+    case 'psalmody': {
+      if (section.psalms.length === 0) return undefined
+      const call = psalmodyProducerCall(section.psalms, dynamic.translation)
+      const key = includeKeyFor(call.ref, call.params)
+      const cached = dynamic.producers.data.get(key)
+      const retry = dynamic.producers.retry.get(key)
+      if (!cached && retry) return <InlineRetry onRetry={retry} />
+      const result = cached?.payload as { data: PsalmodySlot[] } | undefined
+      const slots: PsalmSlot[] = result?.data
+        ? result.data.map(({ ref, verses }) => ({ ref, verses }))
+        : section.psalms.map((ref) => ({ ref }))
+      return <PsalmodyBlock slots={slots} />
+    }
 
     case 'reading': {
       const ref = section.reference

@@ -1,6 +1,7 @@
 import { cccCompendiumProducer } from '@ember/producers'
 import { bibleChapterProducer } from './bible-chapter'
 import { cccChapterProducer } from './ccc-chapter'
+import { psalmodyProducer } from './psalmody'
 import type { Producer } from './types'
 
 const producers = new Map<string, Producer>()
@@ -20,3 +21,4 @@ export function getProducer(id: string): Producer | undefined {
 registerProducer(cccCompendiumProducer)
 registerProducer(cccChapterProducer)
 registerProducer(bibleChapterProducer)
+registerProducer(psalmodyProducer)
