@@ -7,11 +7,9 @@
 
 import type { RenderedSection } from '@/content/types'
 
-// Session-scoped user preferences that any producer might want to read.
-// Bundling them keeps ProducerContext from sprouting one top-level field per
-// preference and makes "which prefs are producer-visible" a single grep.
+// Session-scoped user preferences any producer might read.
 export type ProducerPrefs = {
-  lang: string           // content language: 'en-US' | 'pt-BR' (engine's contentLanguage)
+  lang: string           // content language: 'en-US' | 'pt-BR'
   translation: string    // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
 }
 

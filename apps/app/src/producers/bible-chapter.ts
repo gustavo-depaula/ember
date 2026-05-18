@@ -1,33 +1,18 @@
 import { type ChapterResult, getChapter } from '@/lib/content'
-import type { DataProducer, ProducerContext } from './types'
+import { requirePositiveInt, requireString } from './params'
+import type { DataProducer } from './types'
 
-function requireString(params: ProducerContext['params'], key: string): string {
-  const v = params?.[key]
-  if (typeof v !== 'string' || v.length === 0)
-    throw new Error(`producer/bible-chapter: param "${key}" must be a non-empty string (got ${String(v)})`)
-  return v
-}
-
-function requirePositiveInt(params: ProducerContext['params'], key: string): number {
-  const raw = params?.[key]
-  const n = typeof raw === 'number' ? raw : typeof raw === 'string' ? Number(raw) : Number.NaN
-  if (!Number.isInteger(n) || n < 1)
-    throw new Error(`producer/bible-chapter: param "${key}" must be a positive integer (got ${String(raw)})`)
-  return n
-}
+const ID = 'producer/bible-chapter'
 
 export const bibleChapterProducer: DataProducer<ChapterResult> = {
-  id: 'producer/bible-chapter',
+  id: ID,
   kind: 'data',
   version: '1',
-  cacheKey: (ctx) => {
-    const book = requireString(ctx.params, 'book')
-    const chapter = requirePositiveInt(ctx.params, 'chapter')
-    return `${ctx.prefs.translation}:${book}:${chapter}`
-  },
+  cacheKey: (ctx) =>
+    `${ctx.prefs.translation}:${String(ctx.params?.book)}:${String(ctx.params?.chapter)}`,
   async produce(ctx) {
-    const book = requireString(ctx.params, 'book')
-    const chapter = requirePositiveInt(ctx.params, 'chapter')
+    const book = requireString(ID, ctx.params, 'book')
+    const chapter = requirePositiveInt(ID, ctx.params, 'chapter')
     return { data: await getChapter(ctx.prefs.translation, book, chapter) }
   },
 }

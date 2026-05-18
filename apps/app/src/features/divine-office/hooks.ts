@@ -1,13 +1,9 @@
-import { useMutation, useQueries, useQuery } from '@tanstack/react-query'
+import { useMutation } from '@tanstack/react-query'
 import { useShallow } from 'zustand/react/shallow'
 
 import { useEventStore } from '@/db/events'
 import { advanceIndex, ensureCursor, setIndex } from '@/db/repositories'
 import type { Cursor } from '@/db/schema'
-import { getCccParagraphs } from '@/lib/catechism'
-import { getChapter } from '@/lib/content'
-
-import type { PsalmRef } from './psalter'
 
 // --- Cursor hooks (replaces practice reading tracks) ---
 
@@ -48,54 +44,4 @@ export async function ensurePracticeCursors(
   }
 }
 
-// --- Content-loading hooks ---
-
-import type { PsalmSlot } from '@/components/PsalmodyBlock'
-import type { Verse } from '@/lib/content'
-
-export type { PsalmSlot }
-
-export function usePsalmsForHour(psalms: PsalmRef[], translation: string) {
-  const results = useQueries({
-    queries: psalms.map((ref) => ({
-      queryKey: ['psalm', translation, ref.psalm, ref.verseRange ?? null],
-      queryFn: async (): Promise<Verse[]> => {
-        const result = await getChapter(translation, 'psalms', ref.psalm)
-        if (!ref.verseRange) return result.verses
-        return result.verses.filter(
-          (v) => v.verse >= ref.verseRange?.[0] && v.verse <= ref.verseRange?.[1],
-        )
-      },
-    })),
-  })
-
-  const isLoading = results.some((r) => r.isLoading)
-  const slots: PsalmSlot[] = psalms.map((ref, i) => {
-    const q = results[i]
-    if (q?.data) return { ref, verses: q.data }
-    if (q?.isError) return { ref, retry: () => q.refetch() }
-    return { ref }
-  })
-
-  return { slots, isLoading }
-}
-
-export function useBibleReading(
-  book: string | undefined,
-  chapter: number | undefined,
-  translation: string,
-) {
-  return useQuery({
-    queryKey: ['chapter', translation, book, chapter],
-    queryFn: () => getChapter(translation, book as string, chapter as number),
-    enabled: !!book && !!chapter,
-  })
-}
-
-export function useCccReading(start: number | undefined, count: number | undefined) {
-  return useQuery({
-    queryKey: ['ccc', start, count],
-    queryFn: () => getCccParagraphs(start as number, count as number),
-    enabled: !!start && !!count,
-  })
-}
+export type { PsalmSlot } from '@/components/PsalmodyBlock'

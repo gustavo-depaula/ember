@@ -1,35 +1,29 @@
 import { getChapter, type Verse } from '@/lib/content'
 import type { PsalmRef } from '@/lib/liturgical'
-import type { DataProducer, ProducerContext } from './types'
+import { requireArray } from './params'
+import type { DataProducer } from './types'
+
+const ID = 'producer/psalmody'
 
 export type PsalmodySlot = { ref: PsalmRef; verses: Verse[] }
 
-function requirePsalmRefs(params: ProducerContext['params']): PsalmRef[] {
-  const raw = params?.psalms
-  if (!Array.isArray(raw) || raw.length === 0)
-    throw new Error('producer/psalmody: param "psalms" must be a non-empty array')
-  return raw as PsalmRef[]
-}
-
-// Encodes the psalm list deterministically (psalm number + optional verse
-// range) so the cache key collapses equivalent slot lists regardless of
-// object identity.
-function psalmsKey(refs: PsalmRef[]): string {
+function psalmsKey(refs: PsalmRef[] | undefined): string {
+  if (!Array.isArray(refs)) return ''
   return refs
-    .map((r) => (r.verseRange ? `${r.psalm}:${r.verseRange[0]}-${r.verseRange[1]}` : String(r.psalm)))
+    .map((r) =>
+      r?.verseRange ? `${r.psalm}:${r.verseRange[0]}-${r.verseRange[1]}` : String(r?.psalm),
+    )
     .join(',')
 }
 
 export const psalmodyProducer: DataProducer<PsalmodySlot[]> = {
-  id: 'producer/psalmody',
+  id: ID,
   kind: 'data',
   version: '1',
-  cacheKey: (ctx) => {
-    const refs = requirePsalmRefs(ctx.params)
-    return `${ctx.prefs.translation}:${psalmsKey(refs)}`
-  },
+  cacheKey: (ctx) =>
+    `${ctx.prefs.translation}:${psalmsKey(ctx.params?.psalms as PsalmRef[] | undefined)}`,
   async produce(ctx) {
-    const refs = requirePsalmRefs(ctx.params)
+    const refs = requireArray<PsalmRef>(ID, ctx.params, 'psalms')
     const slots = await Promise.all(
       refs.map(async (ref): Promise<PsalmodySlot> => {
         const result = await getChapter(ctx.prefs.translation, 'psalms', ref.psalm)

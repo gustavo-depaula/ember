@@ -27,10 +27,9 @@ function keyFor(producer: Producer, ctx: ProducerContext): ExternalContentKey {
   }
 }
 
-// SQLite is consulted first; on miss, produce() runs and the result is
-// persisted for cold-start replay. TanStack Query still sits above this and
-// caches in memory within the session — this layer just makes the cache
-// survive app restarts.
+// SQLite read on cold cache; produce() runs on miss and persists. React
+// Query sits above and dedupes in-session calls, so this layer only fires
+// when the producer hasn't been called since the last app start.
 export async function runCachedProducer(
   producer: Producer,
   ctx: ProducerContext,

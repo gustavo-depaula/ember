@@ -1,26 +1,17 @@
 import { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
-import type { DataProducer, ProducerContext } from './types'
+import { requirePositiveInt } from './params'
+import type { DataProducer } from './types'
 
-function requirePositiveInt(params: ProducerContext['params'], key: string): number {
-  const raw = params?.[key]
-  const n = typeof raw === 'number' ? raw : typeof raw === 'string' ? Number(raw) : Number.NaN
-  if (!Number.isInteger(n) || n < 1)
-    throw new Error(`producer/ccc-chapter: param "${key}" must be a positive integer (got ${String(raw)})`)
-  return n
-}
+const ID = 'producer/ccc-chapter'
 
 export const cccChapterProducer: DataProducer<CccParagraph[]> = {
-  id: 'producer/ccc-chapter',
+  id: ID,
   kind: 'data',
   version: '1',
-  cacheKey: (ctx) => {
-    const start = requirePositiveInt(ctx.params, 'start')
-    const count = requirePositiveInt(ctx.params, 'count')
-    return `${start}-${count}`
-  },
+  cacheKey: (ctx) => `${String(ctx.params?.start)}-${String(ctx.params?.count)}`,
   async produce(ctx) {
-    const start = requirePositiveInt(ctx.params, 'start')
-    const count = requirePositiveInt(ctx.params, 'count')
+    const start = requirePositiveInt(ID, ctx.params, 'start')
+    const count = requirePositiveInt(ID, ctx.params, 'count')
     return { data: await getCccParagraphs(start, count) }
   },
 }

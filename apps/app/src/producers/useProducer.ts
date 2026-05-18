@@ -4,7 +4,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePracticeProducerCtx } from './PracticeProducerContext'
 import { getProducer } from './registry'
 import { type CachedProducerResult, runCachedProducer } from './runCachedProducer'
-import type { Producer, ProducerContext } from './types'
+import type { DataProducer, Producer, ProducerContext } from './types'
 
 export type UseProducerResult = {
   producer: Producer | undefined
@@ -14,10 +14,6 @@ export type UseProducerResult = {
   retry: () => void
 }
 
-// Fires a single producer call. Reads session-scoped state (prefs,
-// programDay, date) from hooks/context so block components only need to
-// pass their own params. React Query handles dedup across blocks with
-// equal (ref, params, cacheKey).
 export function useProducer(
   ref: string,
   params?: Record<string, unknown>,
@@ -35,13 +31,14 @@ export function useProducer(
     params,
   }
 
+  // cacheKey is the producer's canonical "what identifies this call" — params
+  // are embedded in it, so we don't repeat them in the queryKey.
   const query = useQuery({
     queryKey: [
       'producer',
       ref,
       producer?.version ?? '?',
       producer ? producer.cacheKey(ctx) : '',
-      params,
     ] as const,
     queryFn: async () => {
       if (!producer) throw new Error(`Unknown producer: ${ref}`)
@@ -58,5 +55,20 @@ export function useProducer(
     retry: () => {
       query.refetch()
     },
+  }
+}
+
+// Typed wrapper for data-kind producers: lets the caller pass the producer
+// object (preserving its T) and erases the `as { data: T }` cast at every
+// slot. Skips the registry lookup since the caller already has the producer.
+export function useDataProducer<T>(
+  producer: DataProducer<T>,
+  params?: Record<string, unknown>,
+): { data: T | undefined; isError: boolean; retry: () => void } {
+  const { data, isError, retry } = useProducer(producer.id, params)
+  return {
+    data: (data?.payload as { data: T } | undefined)?.data,
+    isError,
+    retry,
   }
 }

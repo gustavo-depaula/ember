@@ -58,10 +58,8 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { PsalmodySlot } from './slots/PsalmodySlot'
 import { ReadingSlot } from './slots/ReadingSlot'
 
-// Descends through container sections so dynamic content (readings, psalmody)
-// nested inside a select/options/collapsible/liturgical-color-scope/prayer is
-// still collected for prefetch — otherwise its query never fires and the block
-// renders blank.
+// Descends through container sections so findTrackIds can reach reading
+// sections nested inside select/options/collapsible/etc.
 function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedSection> {
   for (const s of sections) {
     yield s
@@ -255,10 +253,6 @@ export function PracticeFlow({
     selectOverrides,
   ])
 
-  // Producer fetches (readings, psalmody, includes) are owned by the
-  // section's block component via useProducer. PracticeFlow only gates the
-  // initial flow resolution + the minimum threshold display time; per-block
-  // loading states surface inline.
   const isDynamicLoading = isResolvingFlow && sections.length === 0
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
