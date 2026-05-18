@@ -1,1 +1,1 @@
-# Day 50 — Person, Society, and the Common Good
+# Day 50 — Fourth Commandment — Pastoral and Domestic Authority

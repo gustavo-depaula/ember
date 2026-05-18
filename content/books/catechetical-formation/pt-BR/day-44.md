@@ -1,1 +1,1 @@
-# Dia 44 — Sacramentais, exéquias, piedade popular
+# Dia 44 — 2º Mandamento — Juramentos, perjúrio, votos

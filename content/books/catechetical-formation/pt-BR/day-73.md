@@ -1,1 +1,1 @@
-# Dia 73 — Arte sagrada e a verdade da beleza
+# Dia 73 — As Virtudes cardeais — Prudência, justiça, fortaleza, temperança

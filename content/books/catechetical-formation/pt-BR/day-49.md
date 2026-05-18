@@ -1,1 +1,1 @@
-# Dia 49 — O pecado e os vícios capitais
+# Dia 49 — 4º Mandamento — Autoridade civil

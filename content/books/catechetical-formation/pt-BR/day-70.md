@@ -1,1 +1,1 @@
-# Dia 70 — 8º Mandamento — Verdade e falso testemunho
+# Dia 70 — Pecados capitais — Gula e inveja

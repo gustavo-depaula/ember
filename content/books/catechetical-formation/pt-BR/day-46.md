@@ -1,1 +1,1 @@
-# Dia 46 — Liberdade e paixões
+# Dia 46 — 3º Mandamento — A observância dominical

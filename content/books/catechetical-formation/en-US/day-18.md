@@ -1,1 +1,1 @@
-# Day 18 — Passion and Death — The Redemption
+# Day 18 — The Last Judgment

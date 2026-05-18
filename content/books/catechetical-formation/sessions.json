@@ -107,10 +107,10 @@
       "order": 6,
       "phase": "prologue",
       "title": {
-        "en-US": "\"We Believe\" — Communal Faith and the Creeds",
-        "pt-BR": "\"Nós cremos\" — A fé eclesial e os Símbolos"
+        "en-US": "The Catechism in Pictures — Introduction and the Creeds",
+        "pt-BR": "O Catecismo em Imagens — Introdução e os Símbolos"
       },
-      "plate": null,
+      "plate": "plate-01",
       "compendium": [
         {
           "start": 30,
@@ -125,17 +125,6 @@
     {
       "id": "day-07",
       "order": 7,
-      "phase": "prologue",
-      "title": {
-        "en-US": "The Catechism in Pictures — An Introduction",
-        "pt-BR": "O Catecismo em Imagens — Introdução"
-      },
-      "plate": "plate-01",
-      "compendium": []
-    },
-    {
-      "id": "day-08",
-      "order": 8,
       "phase": "creed",
       "title": {
         "en-US": "I Believe in God — Trinity",
@@ -162,8 +151,8 @@
       ]
     },
     {
-      "id": "day-09",
-      "order": 9,
+      "id": "day-08",
+      "order": 8,
       "phase": "creed",
       "title": {
         "en-US": "Creation, Providence, Angels",
@@ -190,8 +179,8 @@
       ]
     },
     {
-      "id": "day-10",
-      "order": 10,
+      "id": "day-09",
+      "order": 9,
       "phase": "creed",
       "title": {
         "en-US": "Man — Image of God, Soul and Body",
@@ -210,34 +199,14 @@
       ]
     },
     {
-      "id": "day-11",
-      "order": 11,
+      "id": "day-10",
+      "order": 10,
       "phase": "creed",
       "title": {
-        "en-US": "The Fall — Original Sin",
-        "pt-BR": "A Queda — O pecado original"
+        "en-US": "The Incarnation — Names of Christ, Word Made Flesh",
+        "pt-BR": "A Encarnação — Nomes de Cristo, o Verbo encarnado"
       },
-      "plate": null,
-      "compendium": [
-        {
-          "start": 73,
-          "end": 78,
-          "label": {
-            "en-US": "The reality of sin; the fall of the angels; the first sin; original sin and its consequences",
-            "pt-BR": "A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências"
-          }
-        }
-      ]
-    },
-    {
-      "id": "day-12",
-      "order": 12,
-      "phase": "creed",
-      "title": {
-        "en-US": "Jesus Christ — His Names and Titles",
-        "pt-BR": "Jesus Cristo — Seus nomes e títulos"
-      },
-      "plate": null,
+      "plate": "plate-04-0",
       "compendium": [
         {
           "start": 79,
@@ -246,19 +215,7 @@
             "en-US": "Jesus; Christ; Only-Begotten Son of God; Lord",
             "pt-BR": "Jesus; Cristo; Filho Unigênito de Deus; Senhor"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-13",
-      "order": 13,
-      "phase": "creed",
-      "title": {
-        "en-US": "The Incarnation",
-        "pt-BR": "A Encarnação"
-      },
-      "plate": "plate-04-0",
-      "compendium": [
+        },
         {
           "start": 85,
           "end": 93,
@@ -270,12 +227,12 @@
       ]
     },
     {
-      "id": "day-14",
-      "order": 14,
+      "id": "day-11",
+      "order": 11,
       "phase": "creed",
       "title": {
-        "en-US": "The Annunciation — Conceived by the Holy Spirit, Born of the Virgin Mary",
-        "pt-BR": "A Anunciação — Concebido pelo Espírito Santo, nascido da Virgem Maria"
+        "en-US": "The Annunciation — Conceived by the Holy Spirit, Born of Mary",
+        "pt-BR": "A Anunciação — Concebido pelo Espírito Santo, nascido de Maria"
       },
       "plate": "plate-04-1",
       "compendium": [
@@ -286,16 +243,24 @@
             "en-US": "Conceived by the Holy Spirit; Mary as Mother of God, Immaculate, ever-Virgin, spiritual Mother",
             "pt-BR": "Concebido pelo Espírito Santo; Maria, Mãe de Deus, Imaculada, sempre Virgem, Mãe espiritual"
           }
+        },
+        {
+          "start": 180,
+          "end": 181,
+          "label": {
+            "en-US": "Mary's role; the Assumption; eschatological icon of the Church",
+            "pt-BR": "O papel de Maria; a Assunção; ícone escatológico da Igreja"
+          }
         }
       ]
     },
     {
-      "id": "day-15",
-      "order": 15,
+      "id": "day-12",
+      "order": 12,
       "phase": "creed",
       "title": {
-        "en-US": "The Nativity and the Hidden Life",
-        "pt-BR": "A Natividade e a vida oculta"
+        "en-US": "The Nativity, Hidden Life, and the Public Ministry Begins",
+        "pt-BR": "A Natividade, a vida oculta e o início da vida pública"
       },
       "plate": "plate-04-2",
       "compendium": [
@@ -306,19 +271,7 @@
             "en-US": "Christ as Revelation; the birth, infancy, and hidden life",
             "pt-BR": "Cristo como revelação; o nascimento, a infância e a vida oculta"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-16",
-      "order": 16,
-      "phase": "creed",
-      "title": {
-        "en-US": "The Public Life of Christ — Baptism and Temptations",
-        "pt-BR": "A vida pública de Cristo — Batismo e tentações"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 105,
           "end": 107,
@@ -330,14 +283,14 @@
       ]
     },
     {
-      "id": "day-17",
-      "order": 17,
+      "id": "day-13",
+      "order": 13,
       "phase": "creed",
       "title": {
-        "en-US": "The Public Life of Christ — Signs and Kingdom",
-        "pt-BR": "A vida pública de Cristo — Sinais e Reino"
+        "en-US": "The Public Life and the Passion — From Signs to the Cross",
+        "pt-BR": "A vida pública e a Paixão — Dos sinais à Cruz"
       },
-      "plate": null,
+      "plate": "plate-05",
       "compendium": [
         {
           "start": 108,
@@ -346,19 +299,7 @@
             "en-US": "Miracles and signs; the apostles and their authority; the Transfiguration; the messianic entry into Jerusalem",
             "pt-BR": "Milagres e sinais; os apóstolos e sua autoridade; a Transfiguração; a entrada messiânica em Jerusalém"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-18",
-      "order": 18,
-      "phase": "creed",
-      "title": {
-        "en-US": "Passion and Death — The Redemption",
-        "pt-BR": "Paixão e morte — A Redenção"
-      },
-      "plate": "plate-05",
-      "compendium": [
+        },
         {
           "start": 112,
           "end": 119,
@@ -378,8 +319,8 @@
       ]
     },
     {
-      "id": "day-19",
-      "order": 19,
+      "id": "day-14",
+      "order": 14,
       "phase": "creed",
       "title": {
         "en-US": "The Descent into Hell",
@@ -398,8 +339,8 @@
       ]
     },
     {
-      "id": "day-20",
-      "order": 20,
+      "id": "day-15",
+      "order": 15,
       "phase": "creed",
       "title": {
         "en-US": "The Resurrection",
@@ -418,8 +359,8 @@
       ]
     },
     {
-      "id": "day-21",
-      "order": 21,
+      "id": "day-16",
+      "order": 16,
       "phase": "creed",
       "title": {
         "en-US": "The Ascension",
@@ -438,8 +379,8 @@
       ]
     },
     {
-      "id": "day-22",
-      "order": 22,
+      "id": "day-17",
+      "order": 17,
       "phase": "creed",
       "title": {
         "en-US": "Seated at the Right Hand of the Father",
@@ -458,8 +399,8 @@
       ]
     },
     {
-      "id": "day-23",
-      "order": 23,
+      "id": "day-18",
+      "order": 18,
       "phase": "creed",
       "title": {
         "en-US": "The Last Judgment",
@@ -478,8 +419,8 @@
       ]
     },
     {
-      "id": "day-24",
-      "order": 24,
+      "id": "day-19",
+      "order": 19,
       "phase": "creed",
       "title": {
         "en-US": "Pentecost — The Holy Spirit",
@@ -506,8 +447,8 @@
       ]
     },
     {
-      "id": "day-25",
-      "order": 25,
+      "id": "day-20",
+      "order": 20,
       "phase": "creed",
       "title": {
         "en-US": "The Church — Mystery and People of God",
@@ -534,8 +475,8 @@
       ]
     },
     {
-      "id": "day-26",
-      "order": 26,
+      "id": "day-21",
+      "order": 21,
       "phase": "creed",
       "title": {
         "en-US": "The Marks of the Church — One, Holy, Catholic, Apostolic",
@@ -570,8 +511,8 @@
       ]
     },
     {
-      "id": "day-27",
-      "order": 27,
+      "id": "day-22",
+      "order": 22,
       "phase": "creed",
       "title": {
         "en-US": "The Communion of Saints",
@@ -590,28 +531,8 @@
       ]
     },
     {
-      "id": "day-28",
-      "order": 28,
-      "phase": "creed",
-      "title": {
-        "en-US": "Mary — Mother of Christ, Mother of the Church",
-        "pt-BR": "Maria — Mãe de Cristo, Mãe da Igreja"
-      },
-      "plate": null,
-      "compendium": [
-        {
-          "start": 180,
-          "end": 181,
-          "label": {
-            "en-US": "Mary's role; the Assumption; eschatological icon of the Church",
-            "pt-BR": "O papel de Maria; a Assunção; ícone escatológico da Igreja"
-          }
-        }
-      ]
-    },
-    {
-      "id": "day-29",
-      "order": 29,
+      "id": "day-23",
+      "order": 23,
       "phase": "creed",
       "title": {
         "en-US": "The Forgiveness of Sins",
@@ -630,8 +551,8 @@
       ]
     },
     {
-      "id": "day-30",
-      "order": 30,
+      "id": "day-24",
+      "order": 24,
       "phase": "creed",
       "title": {
         "en-US": "The Resurrection of the Body",
@@ -650,8 +571,8 @@
       ]
     },
     {
-      "id": "day-31",
-      "order": 31,
+      "id": "day-25",
+      "order": 25,
       "phase": "creed",
       "title": {
         "en-US": "Heaven",
@@ -670,8 +591,8 @@
       ]
     },
     {
-      "id": "day-32",
-      "order": 32,
+      "id": "day-26",
+      "order": 26,
       "phase": "creed",
       "title": {
         "en-US": "Hell and Purgatory",
@@ -698,12 +619,12 @@
       ]
     },
     {
-      "id": "day-33",
-      "order": 33,
+      "id": "day-27",
+      "order": 27,
       "phase": "sacraments",
       "title": {
-        "en-US": "The Liturgy — The Work of the Trinity",
-        "pt-BR": "A Liturgia — Obra da Trindade"
+        "en-US": "The Liturgy — Work of the Trinity and Sacramental Celebration",
+        "pt-BR": "A Liturgia — Obra da Trindade e celebração sacramental"
       },
       "plate": null,
       "compendium": [
@@ -722,19 +643,7 @@
             "en-US": "The Father, Christ, and the Spirit in the liturgy; the seven sacraments",
             "pt-BR": "O Pai, Cristo e o Espírito na liturgia; os sete sacramentos"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-34",
-      "order": 34,
-      "phase": "sacraments",
-      "title": {
-        "en-US": "The Sacramental Celebration",
-        "pt-BR": "A celebração sacramental"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 233,
           "end": 240,
@@ -754,8 +663,8 @@
       ]
     },
     {
-      "id": "day-35",
-      "order": 35,
+      "id": "day-28",
+      "order": 28,
       "phase": "sacraments",
       "title": {
         "en-US": "Grace",
@@ -774,8 +683,8 @@
       ]
     },
     {
-      "id": "day-36",
-      "order": 36,
+      "id": "day-29",
+      "order": 29,
       "phase": "sacraments",
       "title": {
         "en-US": "Baptism",
@@ -802,8 +711,8 @@
       ]
     },
     {
-      "id": "day-37",
-      "order": 37,
+      "id": "day-30",
+      "order": 30,
       "phase": "sacraments",
       "title": {
         "en-US": "Confirmation",
@@ -822,12 +731,12 @@
       ]
     },
     {
-      "id": "day-38",
-      "order": 38,
+      "id": "day-31",
+      "order": 31,
       "phase": "sacraments",
       "title": {
-        "en-US": "The Eucharist — Sacrament of the Body and Blood",
-        "pt-BR": "A Eucaristia — Sacramento do Corpo e Sangue"
+        "en-US": "The Eucharist — Sacrament and the Celebration of the Mass",
+        "pt-BR": "A Eucaristia — Sacramento e a celebração da Missa"
       },
       "plate": "plate-20",
       "compendium": [
@@ -846,19 +755,7 @@
             "en-US": "The sacrifice; the Real Presence; transubstantiation",
             "pt-BR": "O sacrifício; a Presença Real; a transubstanciação"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-39",
-      "order": 39,
-      "phase": "sacraments",
-      "title": {
-        "en-US": "The Mass — Celebrating the Eucharist",
-        "pt-BR": "A Missa — A celebração eucarística"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 283,
           "end": 289,
@@ -878,8 +775,8 @@
       ]
     },
     {
-      "id": "day-40",
-      "order": 40,
+      "id": "day-32",
+      "order": 32,
       "phase": "sacraments",
       "title": {
         "en-US": "Penance and Reconciliation",
@@ -906,8 +803,8 @@
       ]
     },
     {
-      "id": "day-41",
-      "order": 41,
+      "id": "day-33",
+      "order": 33,
       "phase": "sacraments",
       "title": {
         "en-US": "Anointing of the Sick",
@@ -926,8 +823,8 @@
       ]
     },
     {
-      "id": "day-42",
-      "order": 42,
+      "id": "day-34",
+      "order": 34,
       "phase": "sacraments",
       "title": {
         "en-US": "Holy Orders",
@@ -954,12 +851,12 @@
       ]
     },
     {
-      "id": "day-43",
-      "order": 43,
+      "id": "day-35",
+      "order": 35,
       "phase": "sacraments",
       "title": {
-        "en-US": "Matrimony",
-        "pt-BR": "O Matrimônio"
+        "en-US": "Matrimony, Sacramentals, and Christian Funerals",
+        "pt-BR": "Matrimônio, sacramentais e exéquias cristãs"
       },
       "plate": "plate-25",
       "compendium": [
@@ -978,19 +875,7 @@
             "en-US": "Effects; love and fruitfulness; mixed marriage; divorce; the domestic Church",
             "pt-BR": "Efeitos; amor e fecundidade; matrimônio misto; divórcio; a Igreja doméstica"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-44",
-      "order": 44,
-      "phase": "sacraments",
-      "title": {
-        "en-US": "Sacramentals, Funerals, Popular Piety",
-        "pt-BR": "Sacramentais, exéquias, piedade popular"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 351,
           "end": 353,
@@ -1010,12 +895,12 @@
       ]
     },
     {
-      "id": "day-45",
-      "order": 45,
+      "id": "day-36",
+      "order": 36,
       "phase": "foundations",
       "title": {
-        "en-US": "The Dignity of the Human Person",
-        "pt-BR": "A dignidade da pessoa humana"
+        "en-US": "The Dignity of the Person — Freedom and the Passions",
+        "pt-BR": "A dignidade da pessoa — Liberdade e paixões"
       },
       "plate": null,
       "compendium": [
@@ -1026,19 +911,7 @@
             "en-US": "Image of God; vocation to beatitude; the Beatitudes",
             "pt-BR": "Imagem de Deus; vocação à bem-aventurança; as Bem-aventuranças"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-46",
-      "order": 46,
-      "phase": "foundations",
-      "title": {
-        "en-US": "Freedom and the Passions",
-        "pt-BR": "Liberdade e paixões"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 363,
           "end": 366,
@@ -1058,12 +931,12 @@
       ]
     },
     {
-      "id": "day-47",
-      "order": 47,
+      "id": "day-37",
+      "order": 37,
       "phase": "foundations",
       "title": {
-        "en-US": "The Moral Conscience and the Morality of Acts",
-        "pt-BR": "A consciência moral e a moralidade dos atos"
+        "en-US": "Conscience, Moral Acts, and the Virtues",
+        "pt-BR": "Consciência, atos morais e as virtudes"
       },
       "plate": null,
       "compendium": [
@@ -1082,21 +955,9 @@
             "en-US": "Object, intention, circumstances of moral acts",
             "pt-BR": "Objeto, intenção, circunstâncias dos atos morais"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-48",
-      "order": 48,
-      "phase": "foundations",
-      "title": {
-        "en-US": "The Virtues",
-        "pt-BR": "As virtudes"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
-          "start": 377,
+          "start": 379,
           "end": 383,
           "label": {
             "en-US": "Human virtues; the four cardinal virtues",
@@ -1114,32 +975,12 @@
       ]
     },
     {
-      "id": "day-49",
-      "order": 49,
+      "id": "day-38",
+      "order": 38,
       "phase": "foundations",
       "title": {
-        "en-US": "Sin and the Capital Vices",
-        "pt-BR": "O pecado e os vícios capitais"
-      },
-      "plate": null,
-      "compendium": [
-        {
-          "start": 391,
-          "end": 400,
-          "label": {
-            "en-US": "Mortal and venial sin; the capital vices; complicity; structures of sin",
-            "pt-BR": "Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado"
-          }
-        }
-      ]
-    },
-    {
-      "id": "day-50",
-      "order": 50,
-      "phase": "foundations",
-      "title": {
-        "en-US": "Person, Society, and the Common Good",
-        "pt-BR": "Pessoa, sociedade e bem comum"
+        "en-US": "Person, Society, and the Moral Law",
+        "pt-BR": "Pessoa, sociedade e a lei moral"
       },
       "plate": null,
       "compendium": [
@@ -1158,19 +999,7 @@
             "en-US": "Participation in social life; social justice; equality and solidarity",
             "pt-BR": "Participação na vida social; justiça social; igualdade e solidariedade"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-51",
-      "order": 51,
-      "phase": "foundations",
-      "title": {
-        "en-US": "The Moral Law — Natural, Old, and New",
-        "pt-BR": "A lei moral — Natural, antiga e nova"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 415,
           "end": 421,
@@ -1190,8 +1019,8 @@
       ]
     },
     {
-      "id": "day-52",
-      "order": 52,
+      "id": "day-39",
+      "order": 39,
       "phase": "commandments",
       "title": {
         "en-US": "The Decalogue — The Commandments of God",
@@ -1210,8 +1039,8 @@
       ]
     },
     {
-      "id": "day-53",
-      "order": 53,
+      "id": "day-40",
+      "order": 40,
       "phase": "commandments",
       "title": {
         "en-US": "First Commandment — Adoration, Faith, Hope, Charity",
@@ -1221,17 +1050,17 @@
       "compendium": [
         {
           "start": 442,
-          "end": 446,
+          "end": 444,
           "label": {
-            "en-US": "I am the Lord your God; theological virtues; religious worship",
-            "pt-BR": "Eu sou o Senhor teu Deus; virtudes teologais; culto religioso"
+            "en-US": "I am the Lord your God; adoration; the right to worship God in truth and in freedom",
+            "pt-BR": "Eu sou o Senhor teu Deus; a adoração; o direito de adorar a Deus na verdade e na liberdade"
           }
         }
       ]
     },
     {
-      "id": "day-54",
-      "order": 54,
+      "id": "day-41",
+      "order": 41,
       "phase": "commandments",
       "title": {
         "en-US": "First Commandment — Veneration of Saints, Sacred Images, Sins Against",
@@ -1240,18 +1069,18 @@
       "plate": "plate-28",
       "compendium": [
         {
-          "start": 447,
-          "end": 449,
+          "start": 445,
+          "end": 446,
           "label": {
-            "en-US": "Veneration of relics, saints, images; sins against the first commandment",
-            "pt-BR": "Veneração de relíquias, santos, imagens; pecados contra o primeiro mandamento"
+            "en-US": "Sins against the first commandment — polytheism, idolatry, superstition; the Christian cult of sacred images",
+            "pt-BR": "Pecados contra o primeiro mandamento — politeísmo, idolatria, superstição; o culto cristão das imagens sagradas"
           }
         }
       ]
     },
     {
-      "id": "day-55",
-      "order": 55,
+      "id": "day-42",
+      "order": 42,
       "phase": "commandments",
       "title": {
         "en-US": "Second Commandment — Reverence for the Name",
@@ -1260,18 +1089,18 @@
       "plate": "plate-29",
       "compendium": [
         {
-          "start": 450,
-          "end": 451,
+          "start": 447,
+          "end": 447,
           "label": {
-            "en-US": "Reverence for the Name; blasphemy",
-            "pt-BR": "Reverência ao Nome; blasfêmia"
+            "en-US": "Respecting the holiness of the Name of God; blasphemy",
+            "pt-BR": "Respeitar a santidade do Nome de Deus; a blasfêmia"
           }
         }
       ]
     },
     {
-      "id": "day-56",
-      "order": 56,
+      "id": "day-43",
+      "order": 43,
       "phase": "commandments",
       "title": {
         "en-US": "Second Commandment — Oaths and Vows",
@@ -1280,18 +1109,18 @@
       "plate": "plate-30",
       "compendium": [
         {
-          "start": 452,
-          "end": 452,
+          "start": 448,
+          "end": 448,
           "label": {
-            "en-US": "Oaths and the use of God's name",
-            "pt-BR": "Juramentos e uso do nome de Deus"
+            "en-US": "Why a false oath is forbidden",
+            "pt-BR": "Por que o falso juramento é proibido"
           }
         }
       ]
     },
     {
-      "id": "day-57",
-      "order": 57,
+      "id": "day-44",
+      "order": 44,
       "phase": "commandments",
       "title": {
         "en-US": "Second Commandment — Oaths, Perjury, Vows",
@@ -1300,18 +1129,18 @@
       "plate": "plate-31",
       "compendium": [
         {
-          "start": 453,
-          "end": 454,
+          "start": 449,
+          "end": 449,
           "label": {
-            "en-US": "Oaths and perjury",
-            "pt-BR": "Juramentos e perjúrio"
+            "en-US": "Perjury — breaking a promise made under oath",
+            "pt-BR": "O perjúrio — violar uma promessa feita sob juramento"
           }
         }
       ]
     },
     {
-      "id": "day-58",
-      "order": 58,
+      "id": "day-45",
+      "order": 45,
       "phase": "commandments",
       "title": {
         "en-US": "Third Commandment — The Lord's Day",
@@ -1323,15 +1152,15 @@
           "start": 450,
           "end": 452,
           "label": {
-            "en-US": "The Sabbath and the Lord's Day",
-            "pt-BR": "O sábado e o dia do Senhor"
+            "en-US": "The Sabbath, Christ and the Sabbath, and why Sunday is the Christian Lord's Day",
+            "pt-BR": "O sábado, Cristo e o sábado, e por que o domingo é o Dia do Senhor para os cristãos"
           }
         }
       ]
     },
     {
-      "id": "day-59",
-      "order": 59,
+      "id": "day-46",
+      "order": 46,
       "phase": "commandments",
       "title": {
         "en-US": "Third Commandment — Sunday Observance",
@@ -1343,15 +1172,15 @@
           "start": 453,
           "end": 454,
           "label": {
-            "en-US": "Sunday Mass; rest and acts of mercy",
-            "pt-BR": "Missa dominical; descanso e obras de misericórdia"
+            "en-US": "How to keep Sunday holy; the civil recognition of Sunday as a day of rest",
+            "pt-BR": "Como santificar o domingo; o reconhecimento civil do domingo como dia de descanso"
           }
         }
       ]
     },
     {
-      "id": "day-60",
-      "order": 60,
+      "id": "day-47",
+      "order": 47,
       "phase": "commandments",
       "title": {
         "en-US": "Fourth Commandment — Honor of Parents",
@@ -1370,8 +1199,8 @@
       ]
     },
     {
-      "id": "day-61",
-      "order": 61,
+      "id": "day-48",
+      "order": 48,
       "phase": "commandments",
       "title": {
         "en-US": "Fourth Commandment — Duties of Children and Parents",
@@ -1390,8 +1219,8 @@
       ]
     },
     {
-      "id": "day-62",
-      "order": 62,
+      "id": "day-49",
+      "order": 49,
       "phase": "commandments",
       "title": {
         "en-US": "Fourth Commandment — Civil Authority",
@@ -1410,8 +1239,8 @@
       ]
     },
     {
-      "id": "day-63",
-      "order": 63,
+      "id": "day-50",
+      "order": 50,
       "phase": "commandments",
       "title": {
         "en-US": "Fourth Commandment — Pastoral and Domestic Authority",
@@ -1430,8 +1259,8 @@
       ]
     },
     {
-      "id": "day-64",
-      "order": 64,
+      "id": "day-51",
+      "order": 51,
       "phase": "commandments",
       "title": {
         "en-US": "Fifth Commandment — Murder and Suicide",
@@ -1450,8 +1279,8 @@
       ]
     },
     {
-      "id": "day-65",
-      "order": 65,
+      "id": "day-52",
+      "order": 52,
       "phase": "commandments",
       "title": {
         "en-US": "Fifth Commandment — Scandal and the Spiritual Wound",
@@ -1470,8 +1299,8 @@
       ]
     },
     {
-      "id": "day-66",
-      "order": 66,
+      "id": "day-53",
+      "order": 53,
       "phase": "commandments",
       "title": {
         "en-US": "Fifth Commandment — Peace, Just War, Self-Defense",
@@ -1490,8 +1319,8 @@
       ]
     },
     {
-      "id": "day-67",
-      "order": 67,
+      "id": "day-54",
+      "order": 54,
       "phase": "commandments",
       "title": {
         "en-US": "Sixth and Ninth Commandments — Chastity",
@@ -1514,20 +1343,12 @@
             "en-US": "Conjugal love; offenses against chastity; offenses against the dignity of marriage",
             "pt-BR": "Amor conjugal; ofensas contra a castidade; ofensas contra a dignidade do matrimônio"
           }
-        },
-        {
-          "start": 528,
-          "end": 530,
-          "label": {
-            "en-US": "Ninth commandment — purity of heart",
-            "pt-BR": "Nono mandamento — pureza do coração"
-          }
         }
       ]
     },
     {
-      "id": "day-68",
-      "order": 68,
+      "id": "day-55",
+      "order": 55,
       "phase": "commandments",
       "title": {
         "en-US": "Seventh Commandment — Property and Justice",
@@ -1546,8 +1367,8 @@
       ]
     },
     {
-      "id": "day-69",
-      "order": 69,
+      "id": "day-56",
+      "order": 56,
       "phase": "commandments",
       "title": {
         "en-US": "Seventh Commandment — Work, the Economy, the Poor",
@@ -1566,8 +1387,8 @@
       ]
     },
     {
-      "id": "day-70",
-      "order": 70,
+      "id": "day-57",
+      "order": 57,
       "phase": "commandments",
       "title": {
         "en-US": "Eighth Commandment — Truth and False Witness",
@@ -1586,8 +1407,8 @@
       ]
     },
     {
-      "id": "day-71",
-      "order": 71,
+      "id": "day-58",
+      "order": 58,
       "phase": "commandments",
       "title": {
         "en-US": "Eighth Commandment — Lying",
@@ -1606,8 +1427,8 @@
       ]
     },
     {
-      "id": "day-72",
-      "order": 72,
+      "id": "day-59",
+      "order": 59,
       "phase": "commandments",
       "title": {
         "en-US": "Eighth Commandment — Detraction, Calumny, Mass Media",
@@ -1617,37 +1438,37 @@
       "compendium": [
         {
           "start": 524,
-          "end": 525,
+          "end": 526,
           "label": {
-            "en-US": "Reputation; the seal of confession; truth and the media",
-            "pt-BR": "Reputação; sigilo sacramental; verdade e meios de comunicação"
+            "en-US": "Reputation; the seal of confession; truth and the media; truth, beauty, and sacred art",
+            "pt-BR": "Reputação; sigilo sacramental; verdade e meios de comunicação; verdade, beleza e arte sagrada"
           }
         }
       ]
     },
     {
-      "id": "day-73",
-      "order": 73,
+      "id": "day-60",
+      "order": 60,
       "phase": "commandments",
       "title": {
-        "en-US": "Sacred Art and the Truth of Beauty",
-        "pt-BR": "Arte sagrada e a verdade da beleza"
+        "en-US": "Ninth Commandment — Custody of the Heart",
+        "pt-BR": "9º Mandamento — Guarda do coração"
       },
       "plate": "plate-47",
       "compendium": [
         {
-          "start": 526,
-          "end": 527,
+          "start": 527,
+          "end": 530,
           "label": {
-            "en-US": "Truth, beauty, sacred art",
-            "pt-BR": "Verdade, beleza, arte sagrada"
+            "en-US": "What the ninth commandment requires and forbids; purity of heart; modesty",
+            "pt-BR": "O que o nono mandamento exige e proíbe; pureza do coração; pudor"
           }
         }
       ]
     },
     {
-      "id": "day-74",
-      "order": 74,
+      "id": "day-61",
+      "order": 61,
       "phase": "commandments",
       "title": {
         "en-US": "Tenth Commandment — Detachment from Goods",
@@ -1666,8 +1487,8 @@
       ]
     },
     {
-      "id": "day-75",
-      "order": 75,
+      "id": "day-62",
+      "order": 62,
       "phase": "commandments",
       "title": {
         "en-US": "Precepts of the Church — Sunday Mass and Feast Days",
@@ -1686,8 +1507,8 @@
       ]
     },
     {
-      "id": "day-76",
-      "order": 76,
+      "id": "day-63",
+      "order": 63,
       "phase": "commandments",
       "title": {
         "en-US": "Precepts of the Church — Annual Confession and Easter Communion",
@@ -1706,8 +1527,8 @@
       ]
     },
     {
-      "id": "day-77",
-      "order": 77,
+      "id": "day-64",
+      "order": 64,
       "phase": "commandments",
       "title": {
         "en-US": "The Precepts of the Church — Fast, Abstinence, and Support of the Church",
@@ -1726,8 +1547,8 @@
       ]
     },
     {
-      "id": "day-78",
-      "order": 78,
+      "id": "day-65",
+      "order": 65,
       "phase": "last-things",
       "title": {
         "en-US": "Vanity — The Emptiness of the World",
@@ -1737,8 +1558,8 @@
       "compendium": []
     },
     {
-      "id": "day-79",
-      "order": 79,
+      "id": "day-66",
+      "order": 66,
       "phase": "last-things",
       "title": {
         "en-US": "Death — The Christian End",
@@ -1748,17 +1569,17 @@
       "compendium": [
         {
           "start": 206,
-          "end": 207,
+          "end": 206,
           "label": {
-            "en-US": "Death and Christian hope",
-            "pt-BR": "A morte e a esperança cristã"
+            "en-US": "Dying in Christ Jesus",
+            "pt-BR": "Morrer em Cristo Jesus"
           }
         }
       ]
     },
     {
-      "id": "day-80",
-      "order": 80,
+      "id": "day-67",
+      "order": 67,
       "phase": "last-things",
       "title": {
         "en-US": "The Particular Judgment",
@@ -1777,48 +1598,48 @@
       ]
     },
     {
-      "id": "day-81",
-      "order": 81,
+      "id": "day-68",
+      "order": 68,
       "phase": "last-things",
       "title": {
-        "en-US": "Original Sin Revisited — The Wound and the Remedy",
-        "pt-BR": "O Pecado original revisitado — A ferida e o remédio"
+        "en-US": "Original Sin — The Fall, the Wound, and the Remedy",
+        "pt-BR": "O Pecado original — A Queda, a ferida e o remédio"
       },
       "plate": "plate-58",
       "compendium": [
         {
-          "start": 76,
+          "start": 73,
           "end": 78,
           "label": {
-            "en-US": "The consequences of original sin in daily life; the promise of a Redeemer",
-            "pt-BR": "Consequências do pecado original na vida cotidiana; a promessa de um Redentor"
+            "en-US": "The reality of sin; the fall of the angels; the first sin; original sin and its consequences; the promise of a Redeemer",
+            "pt-BR": "A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências; a promessa de um Redentor"
           }
         }
       ]
     },
     {
-      "id": "day-82",
-      "order": 82,
+      "id": "day-69",
+      "order": 69,
       "phase": "virtues-vices",
       "title": {
-        "en-US": "Capital Sins — Pride, Avarice, Lust",
-        "pt-BR": "Pecados capitais — Soberba, avareza, luxúria"
+        "en-US": "Capital Sins — Pride, Avarice, Lust (with the doctrine of sin)",
+        "pt-BR": "Pecados capitais — Soberba, avareza, luxúria (com a doutrina do pecado)"
       },
       "plate": "plate-59",
       "compendium": [
         {
-          "start": 398,
-          "end": 398,
+          "start": 391,
+          "end": 400,
           "label": {
-            "en-US": "The capital sins",
-            "pt-BR": "Os pecados capitais"
+            "en-US": "Mortal and venial sin; the capital vices; complicity; structures of sin",
+            "pt-BR": "Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado"
           }
         }
       ]
     },
     {
-      "id": "day-83",
-      "order": 83,
+      "id": "day-70",
+      "order": 70,
       "phase": "virtues-vices",
       "title": {
         "en-US": "Capital Sins — Gluttony and Envy",
@@ -1837,8 +1658,8 @@
       ]
     },
     {
-      "id": "day-84",
-      "order": 84,
+      "id": "day-71",
+      "order": 71,
       "phase": "virtues-vices",
       "title": {
         "en-US": "Capital Sins — Wrath and Sloth",
@@ -1857,8 +1678,8 @@
       ]
     },
     {
-      "id": "day-85",
-      "order": 85,
+      "id": "day-72",
+      "order": 72,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Theological Virtues — Faith, Hope, Charity",
@@ -1877,8 +1698,8 @@
       ]
     },
     {
-      "id": "day-86",
-      "order": 86,
+      "id": "day-73",
+      "order": 73,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance",
@@ -1897,8 +1718,8 @@
       ]
     },
     {
-      "id": "day-87",
-      "order": 87,
+      "id": "day-74",
+      "order": 74,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Evangelical Counsels — Poverty, Chastity, Obedience",
@@ -1917,8 +1738,8 @@
       ]
     },
     {
-      "id": "day-88",
-      "order": 88,
+      "id": "day-75",
+      "order": 75,
       "phase": "works-of-mercy",
       "title": {
         "en-US": "The Corporal Works of Mercy",
@@ -1937,8 +1758,8 @@
       ]
     },
     {
-      "id": "day-89",
-      "order": 89,
+      "id": "day-76",
+      "order": 76,
       "phase": "works-of-mercy",
       "title": {
         "en-US": "The Spiritual Works of Mercy",
@@ -1957,12 +1778,12 @@
       ]
     },
     {
-      "id": "day-90",
-      "order": 90,
+      "id": "day-77",
+      "order": 77,
       "phase": "prayer",
       "title": {
-        "en-US": "What Prayer Is — The Universal Call",
-        "pt-BR": "O que é a Oração — Chamada universal"
+        "en-US": "What Prayer Is — The Universal Call, Christ, the Church, the Wellsprings",
+        "pt-BR": "O que é a Oração — Chamada universal, Cristo, a Igreja, as fontes"
       },
       "plate": "plate-52",
       "compendium": [
@@ -1973,19 +1794,7 @@
             "en-US": "Prayer revealed; the gift; the patriarchs; Moses and David; the psalms",
             "pt-BR": "A oração revelada; o dom; os patriarcas; Moisés e Davi; os salmos"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-91",
-      "order": 91,
-      "phase": "prayer",
-      "title": {
-        "en-US": "Prayer in Christ and in the Age of the Church",
-        "pt-BR": "A oração em Cristo e no tempo da Igreja"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 541,
           "end": 547,
@@ -1993,19 +1802,7 @@
             "en-US": "Christ at prayer; the Our Father; prayer of Mary; prayer in the apostolic age",
             "pt-BR": "Cristo em oração; o Pai-Nosso; a oração de Maria; a oração na era apostólica"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-92",
-      "order": 92,
-      "phase": "prayer",
-      "title": {
-        "en-US": "The Wellsprings and the Way of Prayer",
-        "pt-BR": "As fontes e o caminho da oração"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 548,
           "end": 555,
@@ -2017,52 +1814,40 @@
       ]
     },
     {
-      "id": "day-93",
-      "order": 93,
+      "id": "day-78",
+      "order": 78,
       "phase": "prayer",
       "title": {
-        "en-US": "The Expressions of Prayer",
-        "pt-BR": "As expressões da oração"
+        "en-US": "The Expressions and Battle of Prayer",
+        "pt-BR": "As expressões e o combate da oração"
       },
       "plate": null,
       "compendium": [
         {
           "start": 556,
-          "end": 565,
+          "end": 568,
           "label": {
-            "en-US": "Vocal prayer, meditation, contemplation; family and ecclesial prayer; prayer at the canonical hours",
-            "pt-BR": "Oração vocal, meditação, contemplação; oração em família e na Igreja; oração nas horas canônicas"
+            "en-US": "Vocal prayer, meditation, contemplation; family and ecclesial prayer; places and times of prayer; prayer at the canonical hours",
+            "pt-BR": "Oração vocal, meditação, contemplação; oração em família e na Igreja; lugares e tempos da oração; oração nas horas canônicas"
           }
-        }
-      ]
-    },
-    {
-      "id": "day-94",
-      "order": 94,
-      "phase": "prayer",
-      "title": {
-        "en-US": "The Battle of Prayer",
-        "pt-BR": "O combate da oração"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
-          "start": 566,
-          "end": 572,
+          "start": 569,
+          "end": 577,
           "label": {
-            "en-US": "Distractions, dryness, discouragement; persevering in love; the hour of Jesus",
-            "pt-BR": "Distrações, secura, desânimo; perseverança no amor; a hora de Jesus"
+            "en-US": "Vocal prayer, meditation, contemplation; the battle of prayer — objections, distractions, dryness, filial trust; praying always; the prayer of the Hour of Jesus",
+            "pt-BR": "Oração vocal, meditação, contemplação; o combate da oração — objeções, distrações, secura, confiança filial; rezar sem cessar; a oração da Hora de Jesus"
           }
         }
       ]
     },
     {
-      "id": "day-95",
-      "order": 95,
+      "id": "day-79",
+      "order": 79,
       "phase": "prayer",
       "title": {
-        "en-US": "The Our Father — \"The Summary of the Whole Gospel\"",
-        "pt-BR": "O Pai-Nosso — \"Síntese de todo o Evangelho\""
+        "en-US": "The Our Father — \"The Summary of the Whole Gospel\" (with the First Petitions)",
+        "pt-BR": "O Pai-Nosso — \"Síntese de todo o Evangelho\" (com os primeiros pedidos)"
       },
       "plate": "plate-53",
       "compendium": [
@@ -2073,19 +1858,7 @@
             "en-US": "The Lord's Prayer as a whole; \"Our Father\"; \"who art in heaven\"",
             "pt-BR": "A oração do Senhor como um todo; \"Pai nosso\"; \"que estais nos céus\""
           }
-        }
-      ]
-    },
-    {
-      "id": "day-96",
-      "order": 96,
-      "phase": "prayer",
-      "title": {
-        "en-US": "The First Three Petitions — Hallowed, Kingdom, Will",
-        "pt-BR": "Os três primeiros pedidos — Santificado, Reino, Vontade"
-      },
-      "plate": null,
-      "compendium": [
+        },
         {
           "start": 584,
           "end": 587,
@@ -2097,8 +1870,8 @@
       ]
     },
     {
-      "id": "day-97",
-      "order": 97,
+      "id": "day-80",
+      "order": 80,
       "phase": "prayer",
       "title": {
         "en-US": "The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance",
@@ -2125,8 +1898,8 @@
       ]
     },
     {
-      "id": "day-98",
-      "order": 98,
+      "id": "day-81",
+      "order": 81,
       "phase": "prayer",
       "title": {
         "en-US": "The Hail Mary and Marian Prayer",

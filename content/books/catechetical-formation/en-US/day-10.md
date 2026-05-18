@@ -1,1 +1,1 @@
-# Day 10 — Man — Image of God, Soul and Body
+# Day 10 — The Incarnation — Names of Christ, Word Made Flesh

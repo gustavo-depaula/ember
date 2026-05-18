@@ -1,1 +1,1 @@
-# Dia 72 — 8º Mandamento — Detração, calúnia, meios de comunicação
+# Dia 72 — As Virtudes teologais — Fé, esperança, caridade

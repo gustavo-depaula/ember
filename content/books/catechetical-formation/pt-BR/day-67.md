@@ -1,1 +1,1 @@
-# Dia 67 — 6º e 9º Mandamentos — Castidade
+# Dia 67 — O Juízo particular

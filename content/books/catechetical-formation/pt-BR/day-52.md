@@ -1,1 +1,1 @@
-# Dia 52 — O Decálogo — Os Mandamentos de Deus
+# Dia 52 — 5º Mandamento — Escândalo e a ferida espiritual

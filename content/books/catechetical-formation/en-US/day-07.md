@@ -1,1 +1,1 @@
-# Day 7 — The Catechism in Pictures — An Introduction
+# Day 7 — I Believe in God — Trinity

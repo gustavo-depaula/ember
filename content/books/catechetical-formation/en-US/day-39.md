@@ -1,1 +1,1 @@
-# Day 39 — The Mass — Celebrating the Eucharist
+# Day 39 — The Decalogue — The Commandments of God

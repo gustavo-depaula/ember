@@ -1,1 +1,1 @@
-# Dia 77 — Os preceitos da Igreja — Jejum, abstinência e sustento da Igreja
+# Dia 77 — O que é a Oração — Chamada universal, Cristo, a Igreja, as fontes

@@ -1,1 +1,1 @@
-# Day 21 — The Ascension
+# Day 21 — The Marks of the Church — One, Holy, Catholic, Apostolic

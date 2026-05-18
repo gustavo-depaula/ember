@@ -1,1 +1,1 @@
-# Dia 24 — Pentecostes — O Espírito Santo
+# Dia 24 — A Ressurreição da carne

@@ -1,1 +1,1 @@
-# Dia 20 — A Ressurreição
+# Dia 20 — A Igreja — Mistério e Povo de Deus

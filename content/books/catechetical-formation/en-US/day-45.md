@@ -1,1 +1,1 @@
-# Day 45 — The Dignity of the Human Person
+# Day 45 — Third Commandment — The Lord's Day

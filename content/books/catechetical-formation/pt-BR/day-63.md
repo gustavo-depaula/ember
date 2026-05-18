@@ -1,1 +1,1 @@
-# Dia 63 — 4º Mandamento — Autoridade pastoral e doméstica
+# Dia 63 — Preceitos da Igreja — Confissão anual e comunhão pascal

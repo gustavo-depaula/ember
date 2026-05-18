@@ -1,1 +1,1 @@
-# Day 17 — The Public Life of Christ — Signs and Kingdom
+# Day 17 — Seated at the Right Hand of the Father

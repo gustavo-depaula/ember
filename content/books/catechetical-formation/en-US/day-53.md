@@ -1,1 +1,1 @@
-# Day 53 — First Commandment — Adoration, Faith, Hope, Charity
+# Day 53 — Fifth Commandment — Peace, Just War, Self-Defense

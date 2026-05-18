@@ -1,1 +1,1 @@
-# Dia 50 — Pessoa, sociedade e bem comum
+# Dia 50 — 4º Mandamento — Autoridade pastoral e doméstica

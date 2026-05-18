@@ -1,1 +1,1 @@
-# Dia 54 — 1º Mandamento — Veneração dos santos, imagens, pecados
+# Dia 54 — 6º e 9º Mandamentos — Castidade

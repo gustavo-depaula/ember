@@ -1,1 +1,1 @@
-# Dia 68 — 7º Mandamento — Propriedade e justiça
+# Dia 68 — O Pecado original — A Queda, a ferida e o remédio

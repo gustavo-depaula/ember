@@ -1,1 +1,1 @@
-# Dia 7 — O Catecismo em Imagens — Introdução
+# Dia 7 — Creio em Deus — A Trindade

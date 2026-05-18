@@ -1,1 +1,1 @@
-# Dia 32 — Inferno e Purgatório
+# Dia 32 — Penitência e Reconciliação

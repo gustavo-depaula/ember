@@ -1,1 +1,1 @@
-# Day 68 — Seventh Commandment — Property and Justice
+# Day 68 — Original Sin — The Fall, the Wound, and the Remedy

@@ -1,1 +1,1 @@
-# Day 77 — The Precepts of the Church — Fast, Abstinence, and Support of the Church
+# Day 77 — What Prayer Is — The Universal Call, Christ, the Church, the Wellsprings

@@ -1,1 +1,1 @@
-# Dia 9 — A Criação, a Providência, os anjos
+# Dia 9 — O homem — Imagem de Deus, alma e corpo

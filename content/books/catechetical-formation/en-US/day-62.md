@@ -1,1 +1,1 @@
-# Day 62 — Fourth Commandment — Civil Authority
+# Day 62 — Precepts of the Church — Sunday Mass and Feast Days

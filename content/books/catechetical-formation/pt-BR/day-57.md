@@ -1,1 +1,1 @@
-# Dia 57 — 2º Mandamento — Juramentos, perjúrio, votos
+# Dia 57 — 8º Mandamento — Verdade e falso testemunho

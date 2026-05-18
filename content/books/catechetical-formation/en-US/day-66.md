@@ -1,1 +1,1 @@
-# Day 66 — Fifth Commandment — Peace, Just War, Self-Defense
+# Day 66 — Death — The Christian End

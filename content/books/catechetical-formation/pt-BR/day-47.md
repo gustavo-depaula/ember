@@ -1,1 +1,1 @@
-# Dia 47 — A consciência moral e a moralidade dos atos
+# Dia 47 — 4º Mandamento — Honra aos pais

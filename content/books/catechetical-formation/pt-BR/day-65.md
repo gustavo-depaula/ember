@@ -1,1 +1,1 @@
-# Dia 65 — 5º Mandamento — Escândalo e a ferida espiritual
+# Dia 65 — A Vaidade — O vazio do mundo

@@ -1,1 +1,1 @@
-# Dia 8 — Creio em Deus — A Trindade
+# Dia 8 — A Criação, a Providência, os anjos

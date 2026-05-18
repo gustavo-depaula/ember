@@ -1,1 +1,1 @@
-# Day 29 — The Forgiveness of Sins
+# Day 29 — Baptism

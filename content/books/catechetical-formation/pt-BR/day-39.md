@@ -1,1 +1,1 @@
-# Dia 39 — A Missa — A celebração eucarística
+# Dia 39 — O Decálogo — Os Mandamentos de Deus

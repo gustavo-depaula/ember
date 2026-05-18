@@ -1,1 +1,1 @@
-# Day 78 — Vanity — The Emptiness of the World
+# Day 78 — The Expressions and Battle of Prayer

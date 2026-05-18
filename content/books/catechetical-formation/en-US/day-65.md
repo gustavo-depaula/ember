@@ -1,1 +1,1 @@
-# Day 65 — Fifth Commandment — Scandal and the Spiritual Wound
+# Day 65 — Vanity — The Emptiness of the World

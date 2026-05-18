@@ -1,1 +1,1 @@
-# Day 47 — The Moral Conscience and the Morality of Acts
+# Day 47 — Fourth Commandment — Honor of Parents

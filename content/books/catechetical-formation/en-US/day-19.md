@@ -1,1 +1,1 @@
-# Day 19 — The Descent into Hell
+# Day 19 — Pentecost — The Holy Spirit

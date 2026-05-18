@@ -1,1 +1,1 @@
-# Dia 23 — O Juízo final
+# Dia 23 — A remissão dos pecados

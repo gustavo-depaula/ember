@@ -1,1 +1,1 @@
-# Dia 66 — 5º Mandamento — Paz, guerra justa, legítima defesa
+# Dia 66 — A Morte — O fim cristão

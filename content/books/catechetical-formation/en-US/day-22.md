@@ -1,1 +1,1 @@
-# Day 22 — Seated at the Right Hand of the Father
+# Day 22 — The Communion of Saints

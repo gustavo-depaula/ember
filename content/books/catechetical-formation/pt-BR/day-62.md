@@ -1,1 +1,1 @@
-# Dia 62 — 4º Mandamento — Autoridade civil
+# Dia 62 — Preceitos da Igreja — Missa dominical e festas

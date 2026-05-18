@@ -1,1 +1,1 @@
-# Day 40 — Penance and Reconciliation
+# Day 40 — First Commandment — Adoration, Faith, Hope, Charity

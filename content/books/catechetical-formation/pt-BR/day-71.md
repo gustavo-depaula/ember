@@ -1,1 +1,1 @@
-# Dia 71 — 8º Mandamento — A mentira
+# Dia 71 — Pecados capitais — Ira e preguiça

@@ -1,1 +1,1 @@
-# Day 61 — Fourth Commandment — Duties of Children and Parents
+# Day 61 — Tenth Commandment — Detachment from Goods

@@ -1,1 +1,1 @@
-# Dia 6 — "Nós cremos" — A fé eclesial e os Símbolos
+# Dia 6 — O Catecismo em Imagens — Introdução e os Símbolos

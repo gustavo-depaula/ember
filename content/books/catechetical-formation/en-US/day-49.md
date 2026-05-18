@@ -1,1 +1,1 @@
-# Day 49 — Sin and the Capital Vices
+# Day 49 — Fourth Commandment — Civil Authority

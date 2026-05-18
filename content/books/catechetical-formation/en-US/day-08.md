@@ -1,1 +1,1 @@
-# Day 8 — I Believe in God — Trinity
+# Day 8 — Creation, Providence, Angels

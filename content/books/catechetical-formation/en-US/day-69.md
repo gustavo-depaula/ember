@@ -1,1 +1,1 @@
-# Day 69 — Seventh Commandment — Work, the Economy, the Poor
+# Day 69 — Capital Sins — Pride, Avarice, Lust (with the doctrine of sin)

@@ -1,1 +1,1 @@
-# Dia 60 — 4º Mandamento — Honra aos pais
+# Dia 60 — 9º Mandamento — Guarda do coração

@@ -1,1 +1,1 @@
-# Dia 17 — A vida pública de Cristo — Sinais e Reino
+# Dia 17 — Sentado à direita do Pai

@@ -1,1 +1,1 @@
-# Dia 76 — Preceitos da Igreja — Confissão anual e comunhão pascal
+# Dia 76 — As Obras espirituais de misericórdia

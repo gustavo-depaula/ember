@@ -1,1 +1,1 @@
-# Day 56 — Second Commandment — Oaths and Vows
+# Day 56 — Seventh Commandment — Work, the Economy, the Poor

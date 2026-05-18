@@ -1,1 +1,1 @@
-# Day 23 — The Last Judgment
+# Day 23 — The Forgiveness of Sins

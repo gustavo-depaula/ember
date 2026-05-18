@@ -1,1 +1,1 @@
-# Day 63 — Fourth Commandment — Pastoral and Domestic Authority
+# Day 63 — Precepts of the Church — Annual Confession and Easter Communion

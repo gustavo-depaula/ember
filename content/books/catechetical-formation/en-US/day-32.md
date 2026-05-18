@@ -1,1 +1,1 @@
-# Day 32 — Hell and Purgatory
+# Day 32 — Penance and Reconciliation

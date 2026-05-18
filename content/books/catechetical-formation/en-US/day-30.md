@@ -1,1 +1,1 @@
-# Day 30 — The Resurrection of the Body
+# Day 30 — Confirmation

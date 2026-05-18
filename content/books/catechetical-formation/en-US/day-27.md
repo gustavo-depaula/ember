@@ -1,1 +1,1 @@
-# Day 27 — The Communion of Saints
+# Day 27 — The Liturgy — Work of the Trinity and Sacramental Celebration

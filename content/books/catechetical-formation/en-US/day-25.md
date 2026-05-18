@@ -1,1 +1,1 @@
-# Day 25 — The Church — Mystery and People of God
+# Day 25 — Heaven

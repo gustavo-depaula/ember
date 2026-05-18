@@ -1,1 +1,1 @@
-# Day 75 — Precepts of the Church — Sunday Mass and Feast Days
+# Day 75 — The Corporal Works of Mercy

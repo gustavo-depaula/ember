@@ -1,1 +1,1 @@
-# Dia 36 — O Batismo
+# Dia 36 — A dignidade da pessoa — Liberdade e paixões

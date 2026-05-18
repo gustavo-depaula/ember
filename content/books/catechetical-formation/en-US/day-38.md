@@ -1,1 +1,1 @@
-# Day 38 — The Eucharist — Sacrament of the Body and Blood
+# Day 38 — Person, Society, and the Moral Law

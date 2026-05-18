@@ -1,1 +1,1 @@
-# Day 67 — Sixth and Ninth Commandments — Chastity
+# Day 67 — The Particular Judgment

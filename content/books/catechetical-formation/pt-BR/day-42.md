@@ -1,1 +1,1 @@
-# Dia 42 — A Ordem
+# Dia 42 — 2º Mandamento — Reverência ao Nome

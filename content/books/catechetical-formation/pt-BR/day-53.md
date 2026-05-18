@@ -1,1 +1,1 @@
-# Dia 53 — 1º Mandamento — Adoração, fé, esperança, caridade
+# Dia 53 — 5º Mandamento — Paz, guerra justa, legítima defesa

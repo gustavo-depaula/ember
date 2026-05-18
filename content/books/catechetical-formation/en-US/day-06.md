@@ -1,1 +1,1 @@
-# Day 6 — "We Believe" — Communal Faith and the Creeds
+# Day 6 — The Catechism in Pictures — Introduction and the Creeds

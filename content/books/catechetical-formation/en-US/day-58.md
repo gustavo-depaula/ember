@@ -1,1 +1,1 @@
-# Day 58 — Third Commandment — The Lord's Day
+# Day 58 — Eighth Commandment — Lying

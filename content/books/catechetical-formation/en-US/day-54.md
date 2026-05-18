@@ -1,1 +1,1 @@
-# Day 54 — First Commandment — Veneration of Saints, Sacred Images, Sins Against
+# Day 54 — Sixth and Ninth Commandments — Chastity

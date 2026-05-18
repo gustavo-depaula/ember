@@ -1,1 +1,1 @@
-# Dia 21 — A Ascensão
+# Dia 21 — As notas da Igreja — Una, santa, católica, apostólica

@@ -1,1 +1,1 @@
-# Day 9 — Creation, Providence, Angels
+# Day 9 — Man — Image of God, Soul and Body

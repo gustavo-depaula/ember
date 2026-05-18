@@ -1,1 +1,1 @@
-# Day 59 — Third Commandment — Sunday Observance
+# Day 59 — Eighth Commandment — Detraction, Calumny, Mass Media

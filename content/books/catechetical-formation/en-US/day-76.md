@@ -1,1 +1,1 @@
-# Day 76 — Precepts of the Church — Annual Confession and Easter Communion
+# Day 76 — The Spiritual Works of Mercy

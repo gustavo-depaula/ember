@@ -1,1 +1,1 @@
-# Day 73 — Sacred Art and the Truth of Beauty
+# Day 73 — The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance

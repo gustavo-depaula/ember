@@ -1,1 +1,1 @@
-# Dia 19 — A Descida aos infernos
+# Dia 19 — Pentecostes — O Espírito Santo

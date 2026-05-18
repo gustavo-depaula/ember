@@ -1,1 +1,1 @@
-# Day 20 — The Resurrection
+# Day 20 — The Church — Mystery and People of God

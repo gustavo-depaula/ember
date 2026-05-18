@@ -1,1 +1,1 @@
-# Dia 55 — 2º Mandamento — Reverência ao Nome
+# Dia 55 — 7º Mandamento — Propriedade e justiça

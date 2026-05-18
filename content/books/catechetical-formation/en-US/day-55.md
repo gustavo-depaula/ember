@@ -1,1 +1,1 @@
-# Day 55 — Second Commandment — Reverence for the Name
+# Day 55 — Seventh Commandment — Property and Justice

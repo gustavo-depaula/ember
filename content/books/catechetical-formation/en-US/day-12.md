@@ -1,1 +1,1 @@
-# Day 12 — Jesus Christ — His Names and Titles
+# Day 12 — The Nativity, Hidden Life, and the Public Ministry Begins

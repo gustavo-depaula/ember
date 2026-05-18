@@ -1,1 +1,1 @@
-# Day 74 — Tenth Commandment — Detachment from Goods
+# Day 74 — The Evangelical Counsels — Poverty, Chastity, Obedience

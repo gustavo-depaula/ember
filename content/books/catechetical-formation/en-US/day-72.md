@@ -1,1 +1,1 @@
-# Day 72 — Eighth Commandment — Detraction, Calumny, Mass Media
+# Day 72 — The Theological Virtues — Faith, Hope, Charity

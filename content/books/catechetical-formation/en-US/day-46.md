@@ -1,1 +1,1 @@
-# Day 46 — Freedom and the Passions
+# Day 46 — Third Commandment — Sunday Observance

@@ -1,1 +1,1 @@
-# Dia 25 — A Igreja — Mistério e Povo de Deus
+# Dia 25 — O Paraíso

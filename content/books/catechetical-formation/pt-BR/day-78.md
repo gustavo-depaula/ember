@@ -1,1 +1,1 @@
-# Dia 78 — A Vaidade — O vazio do mundo
+# Dia 78 — As expressões e o combate da oração

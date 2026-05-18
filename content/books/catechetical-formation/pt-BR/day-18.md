@@ -1,1 +1,1 @@
-# Dia 18 — Paixão e morte — A Redenção
+# Dia 18 — O Juízo final

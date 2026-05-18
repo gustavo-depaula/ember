@@ -1,1 +1,1 @@
-# Day 64 — Fifth Commandment — Murder and Suicide
+# Day 64 — The Precepts of the Church — Fast, Abstinence, and Support of the Church

@@ -1,1 +1,1 @@
-# Dia 69 — 7º Mandamento — Trabalho, economia, os pobres
+# Dia 69 — Pecados capitais — Soberba, avareza, luxúria (com a doutrina do pecado)

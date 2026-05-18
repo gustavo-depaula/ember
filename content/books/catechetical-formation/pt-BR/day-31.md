@@ -1,1 +1,1 @@
-# Dia 31 — O Paraíso
+# Dia 31 — A Eucaristia — Sacramento e a celebração da Missa

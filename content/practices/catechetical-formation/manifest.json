@@ -11,8 +11,8 @@
 	],
 	"estimatedMinutes": 15,
 	"description": {
-		"en-US": "An 98-day catechetical formation track. Each day pairs a plate of the 1908 Catechism in Pictures with a short list of paragraph citations from the 2005 Compendium of the Catechism of the Catholic Church. Some days carry only a Compendium reading, covering topics the 1908 plates leave thin. Each day fits inside 15 minutes.",
-		"pt-BR": "Uma trilha de formação catequética de 98 dias. Cada dia pareia uma gravura do Catecismo em Imagens (1908) com uma breve lista de citações dos parágrafos do Compêndio do Catecismo da Igreja Católica (2005). Alguns dias trazem apenas uma leitura do Compêndio, cobrindo temas em que o catecismo de 1908 é sucinto. Cada dia cabe em 15 minutos."
+		"en-US": "An 81-day catechetical formation track. Each day pairs a plate of the 1908 Catechism in Pictures with a short list of paragraph citations from the 2005 Compendium of the Catechism of the Catholic Church. Some days carry only a Compendium reading, covering topics the 1908 plates leave thin. Each day fits inside 15 minutes.",
+		"pt-BR": "Uma trilha de formação catequética de 81 dias. Cada dia pareia uma gravura do Catecismo em Imagens (1908) com uma breve lista de citações dos parágrafos do Compêndio do Catecismo da Igreja Católica (2005). Alguns dias trazem apenas uma leitura do Compêndio, cobrindo temas em que o catecismo de 1908 é sucinto. Cada dia cabe em 15 minutos."
 	},
 	"history": {
 		"en-US": "Composed for young adults beginning a serious life of faith — beginner-friendly but fruitful for the seasoned soul. The track is built on two public-domain catechetical works of the Catholic Church: the Catéchisme en Images of Maison de la Bonne Presse (Paris, 1908) — a fully illustrated catechism in sixty-eight plates covering the Creed, the Sacraments, the Commandments, Prayer, the Last Things, the Virtues, and the Works of Mercy — and the Compendium of the Catechism of the Catholic Church (2005), prepared under Cardinal Joseph Ratzinger and promulgated by Pope Benedict XVI. The plate carries the day; the Compendium provides the deeper, more precise modern formulation a reader can pursue when curious. Thirty days are Compendium-only, covering topics the 1908 plates leave thin: faith, Revelation, Tradition and Scripture, the mysteries of Christ's public life, the marks of the Church, the Marian dogmas, the liturgy and the rite of the Mass, the moral foundations, the wellsprings and battle of prayer, and the petitions of the Our Father.",
@@ -25,7 +25,7 @@
 	"flowMode": "scroll",
 	"completion": "flow-end",
 	"program": {
-		"totalDays": 98,
+		"totalDays": 81,
 		"progressPolicy": "continue",
 		"completionBehavior": "offer-restart"
 	},

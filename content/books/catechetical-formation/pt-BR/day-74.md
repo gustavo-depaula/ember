@@ -1,1 +1,1 @@
-# Dia 74 — 10º Mandamento — Desprendimento dos bens
+# Dia 74 — Os Conselhos evangélicos — Pobreza, castidade, obediência

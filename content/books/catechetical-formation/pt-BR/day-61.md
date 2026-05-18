@@ -1,1 +1,1 @@
-# Dia 61 — 4º Mandamento — Deveres de filhos e pais
+# Dia 61 — 10º Mandamento — Desprendimento dos bens

@@ -1,1 +1,1 @@
-# Day 34 — The Sacramental Celebration
+# Day 34 — Holy Orders

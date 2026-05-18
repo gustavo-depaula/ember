@@ -1,1 +1,1 @@
-# Dia 10 — O homem — Imagem de Deus, alma e corpo
+# Dia 10 — A Encarnação — Nomes de Cristo, o Verbo encarnado

@@ -1,1 +1,1 @@
-# Day 26 — The Marks of the Church — One, Holy, Catholic, Apostolic
+# Day 26 — Hell and Purgatory

@@ -1,1 +1,1 @@
-# Dia 51 — A lei moral — Natural, antiga e nova
+# Dia 51 — 5º Mandamento — Homicídio e suicídio

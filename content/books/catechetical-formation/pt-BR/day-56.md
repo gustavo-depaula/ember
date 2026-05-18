@@ -1,1 +1,1 @@
-# Dia 56 — 2º Mandamento — Juramentos e votos
+# Dia 56 — 7º Mandamento — Trabalho, economia, os pobres

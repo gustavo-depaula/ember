@@ -1,1 +1,1 @@
-# Day 35 — Grace
+# Day 35 — Matrimony, Sacramentals, and Christian Funerals

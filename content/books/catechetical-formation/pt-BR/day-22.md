@@ -1,1 +1,1 @@
-# Dia 22 — Sentado à direita do Pai
+# Dia 22 — A Comunhão dos santos

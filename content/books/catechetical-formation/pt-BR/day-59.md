@@ -1,1 +1,1 @@
-# Dia 59 — 3º Mandamento — A observância dominical
+# Dia 59 — 8º Mandamento — Detração, calúnia, meios de comunicação
