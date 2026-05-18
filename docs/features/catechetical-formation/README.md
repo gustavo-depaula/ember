@@ -68,7 +68,7 @@ The chapters reference the plate via markdown links of the form `[Plate Title](b
 
 ## Compendium Q ranges
 
-The Compendium of the Catechism has 598 numbered questions. This program walks them in their canonical order, anchored to the plates wherever the topics align. The full mapping is `content/books/catechetical-formation/sessions.json`.
+The Compendium of the Catechism has 598 numbered questions. This program walks them in their canonical order, anchored to the plates wherever the topics align. The full day-by-day plan is in [`mapping.md`](./mapping.md); the canonical machine-readable source is `content/books/catechetical-formation/sessions.json`.
 
 When the `book/compendium-ccc` import lands in main, audit the Q ranges in `sessions.json` against the actual paragraph numbering — the ranges in this initial pass are based on the public structure of the Compendium and may need small tightening at the section boundaries.
 
